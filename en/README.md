@@ -41,13 +41,14 @@ enough capability, money to do so.
 
 ---
 
-Both Canada and UK took in a lot of immigration but their GDP Per
+Both Canada and UK took in a lot of immigrants but their GDP Per
 Capita was flat. 2% ppl increase with 2% GDP increase means no change.
-GDP Per Capita captures capability, power, so it is a key measure. It
-is likely UK/Canada did not get skilled immigration. In UK's case
-maybe this issue backfired, led to Brexit?  There are bunch of new
-people around you, but you are not getting disproportionately richer
-bcz of it 🤨
+GDP Per Capita captures capability, power, so it is key.
+
+Looking at graph we can say UK/Canada did not get skilled
+immigration. For UK maybe this backfired, led to Brexit?  There are
+bunch of new people around you, but you are not getting
+disproportionately richer bcz of it 🤨
 
 <img width="340" src="https://pbs.twimg.com/media/E03sBtlX0Akvzai?format=jpg&name=small"/>
 
