@@ -168,5 +168,4 @@ despite the best efforts of people working in them.
 
 [Tweet Archive](/tweets/README.md)
 
-<link rel="import" href="https://drive.google.com/uc?export=view&id=14YhGfsYLRIbOa5T8HCm3jiMB8eepZcmi">
 
