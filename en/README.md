@@ -31,7 +31,7 @@ brothers, *both* of them won the Green card "lottery".
 
 UK was pretty quick in granting British passports to Hong Kong
 citizens. IMO they want that high-skilled workforce emigrating to UK.
-They dont care abt human rights.
+They care more abt that than human rights.
 
 ---
 
