@@ -1,7 +1,5 @@
 # Tweets
 
-
-
 ---
 
 The nation’s top infectious disease doctor says the country would still have smallpox if vaccine hesitancy had had such a loud megaphone
@@ -168,4 +166,8 @@ despite the best efforts of people working in them.
 [Search](search.html)
 
 [Tweet Archive](/tweets/README.md)
+
+
+
+
 
