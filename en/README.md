@@ -107,8 +107,8 @@ efforts"
 ---
 
 See I bet the NY voters knew that abt him.. and the stop-and-frisk
-thing.. and they made a call. Leader judgement of ppl is not
-bad. Policy judgement not so much.
+thing.. then they made a call. Leader judgement of ppl is not
+bad. Policy judgement, not so much.
 
 ---
 
