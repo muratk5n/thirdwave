@@ -2,9 +2,10 @@
 
 ---
 
-The nation’s top infectious disease doctor says the country would still have smallpox if vaccine hesitancy had had such a loud megaphone
+The nation’s top infectious disease doctor says the country would
+still have smallpox if vaccine hesitancy had had such a loud megaphone
 
-https://trib.al/wGmFvPS 
+[Link](https://trib.al/wGmFvPS )
 
 ---
 
