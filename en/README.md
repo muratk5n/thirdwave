@@ -35,9 +35,9 @@ They care more abt that than human rights.
 
 ---
 
-US experienced backlash, but it lacked mechanisms to redistribute. UK
-does have the mechanisms, it just could not generate enough capability
-to do so.
+US experienced backlash, bcz it had not built mechanisms to
+redistribute. UK does have the mechanisms, just could not generate
+enough capability, money to do so.
 
 ---
 
