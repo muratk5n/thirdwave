@@ -1,0 +1,13 @@
+# Benzerlikler
+
+[Link](benz.html)
+
+
+
+
+
+
+
+
+
+

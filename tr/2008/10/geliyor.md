@@ -1,0 +1,13 @@
+# Geliyor ...
+
+![](obamajedi.jpg)
+
+
+
+
+
+
+
+
+
+

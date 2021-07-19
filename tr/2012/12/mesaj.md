@@ -1,0 +1,7 @@
+# Mesaj..
+
+
+
+
+
+![](soros-meden.jpg)

@@ -1,0 +1,4 @@
+# Mesaj..
+
+
+![](soros-piyasa.jpg)
