@@ -1,16 +1,5 @@
 # Tweets
 
-Pinned Tweet
-
-Due to some GH shannanigans we moved to a new address. Archived
-Tweets since the move:
-
-[Week 29](tweets/2021/week29.md)
-
-Last Updated on *2021-07-21 10:49*
-
----
-
 "@UTAustin Researchers Just Solved a Major Hurdle-Found a low-cost way
 to solve 1/2 of equation, using #sunlight to efficiently split off
 oxygen from water"
@@ -59,7 +48,7 @@ dioxide at trapping heat in the atmosphere"
 ---
 
 BTW all carbon, or GHG emitting rocket fuels need to be banned, eg
-methane.  New Shep used liquid H2 but I believe their bigger rocket,
+methane. New Shep used liquid H2 but I believe their bigger rocket,
 and some others in the same scale will use methane - not good.
 
 ---
