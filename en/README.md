@@ -56,7 +56,7 @@ and some others in the same scale will use methane - not good.
 
 BO demonstrated some capability, more than Virgin perhaps. New Shep
 took off on its own, wout riding any other vehicle, then the booster
-part returned.. There are more pieces here that can be built up for a
+part returned.. There are more pieces here that can be built up for
 grander goals.
 
 ---
