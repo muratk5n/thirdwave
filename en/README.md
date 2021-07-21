@@ -23,11 +23,6 @@ this large landmass being so desolate is the shortage of rainfall"
 
 ---
 
-For countries who are fully into vaccination, restrictions should be
-dropped. From this point on, it's a battle btw the vax, luck, and us.
-
----
-
 What is *going on* in Texas?
 
 "Texas state Senate passes bill to eliminate requirements that public
