@@ -1,6 +1,106 @@
 # Week 29
 
 
+"World powers blame China for Microsoft Exchange cyberattack"
+
+---
+
+"@josheidelson
+
+What is the reason to call, say, Tesla, Amazon, and Instacart 'tech'
+companies but not, say, Boeing, AT&T, or the New York Times?"
+
+---
+
+All this started bcz of previous President's jailing? How bad was the
+man's crime? Couldn't they sentence him, then current President
+pardons? Nixon got the pardon... Bcz of a need to respect the
+insitution of the Presidency, etc.. But at a practical level these ppl
+have a lot of supporters.. they get elected by the people! So why
+antagonize the supporters?
+
+---
+
+🤣 That was funny
+
+<iframe width="340" src="https://www.youtube.com/embed/cW9Wj-ocrpk?start=77&end=84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+Looting in South Africa.. sounds serious
+
+---
+
+<iframe width="340"  src="https://www.youtube.com/embed/-7SZ9vsaKew?start=314&end=416" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+Spoon - Hot Thoughts \#music
+
+[Link](https://youtu.be/XrLVAQYfeZ4)
+
+---
+
+On the optimality of infrastructural tech choices: If H2 is the energy
+carrier, there are many ways to get to it.. Tech will improve those
+choices, the process over time will get cheaper and faster. Get H2
+through this catalyst, that catalyst, etc. Independent parts can be
+researched independently.
+
+With lit batteries, the path, the goal all revolve around on thing:
+lithium. No other choice. Now you are stuck; stuck with finite amount
+of reserves, stuck with the way batteries are architected, all
+stuck. Hallmark of bad engineering; unflexible basis, with a single
+point of failure, shoddy architecture the kind that originates from
+retarded, shoddy minds.
+
+---
+
+Five9? Good name.. Because in IT "Five Nine uptime", that is machines
+being up 99.999% of the time is a big deal..
+
+"@business
+
+LATEST: Zoom to buy cloud service firm Five9 for $14.7 billion"
+
+---
+
+These guys are like soul, w some Michael Jackson added, little Dave
+Matthews Band, Latin Jazz of Corea + Weckl style.. it's fantastic.
+
+---
+
+Dirty Loops - Hit Me \#music
+
+[Link](https://youtu.be/nls1HtXQe8E)
+
+---
+
+That move at 3:17... Holy shit. This guy is my new Dave Weckl. New
+Neil Peart... All of them combined.
+
+---
+
+Dirty Loops - Rock You \#music
+
+[Link](https://youtu.be/gYc5zrXC52k)
+
+---
+
+Dirty Loops - Coffee Break is Over \#music
+
+[Link](https://youtu.be/aYYFmp9NBTk)
+
+---
+
+"@aravosis
+
+She’s a nurse. She urged everybody not to get the vaccine. And she’s dead"
+
+[Link](https://twitter.com/aravosis/status/1414411482364710914)
+
+---
+
 The nation’s top infectious disease doctor says the country would
 still have smallpox if vaccine hesitancy had had such a loud megaphone
 

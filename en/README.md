@@ -1,103 +1,104 @@
 # Tweets
 
 
-"World powers blame China for Microsoft Exchange cyberattack"
+"@UTAustin Researchers Just Solved a Major Hurdle-Found a low-cost way
+to solve 1/2 of equation, using #sunlight to efficiently split off
+oxygen from water"
+
+[Link](https://bit.ly/3BqkdG3)
 
 ---
 
-"@josheidelson
+Interesting
 
-What is the reason to call, say, Tesla, Amazon, and Instacart 'tech'
-companies but not, say, Boeing, AT&T, or the New York Times?"
-
----
-
-All this started bcz of previous President's jailing? How bad was the
-man's crime? Couldn't they sentence him, then current President
-pardons? Nixon got the pardon... Bcz of a need to respect the
-insitution of the Presidency, etc.. But at a practical level these ppl
-have a lot of supporters.. they get elected by the people! So why
-antagonize the supporters?
+"Nearly 40% of Australia's land is uninhabitable. One reason behind
+this large landmass being so desolate is the shortage of rainfall"
 
 ---
 
-🤣 That was funny
-
-<iframe width="340" src="https://www.youtube.com/embed/cW9Wj-ocrpk?start=77&end=84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-Looting in South Africa.. sounds serious
+For countries who are fully into vaccination, restrictions should be
+dropped. From this point on, it's a battle btw the vax, luck, and us.
 
 ---
 
-<iframe width="340"  src="https://www.youtube.com/embed/-7SZ9vsaKew?start=314&end=416" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+What is *going on* in Texas?
+
+"Texas state Senate passes bill to eliminate requirements that public
+schools teach that the Ku Klux Klan is ‘morally wrong'"
 
 ---
 
-Spoon - Hot Thoughts \#music
-
-[Link](https://youtu.be/XrLVAQYfeZ4)
-
----
-
-On the optimality of infrastructural tech choices: If H2 is the energy
-carrier, there are many ways to get to it.. Tech will improve those
-choices, the process over time will get cheaper and faster. Get H2
-through this catalyst, that catalyst, etc. Independent parts can be
-researched independently.
-
-With lit batteries, the path, the goal all revolve around on thing:
-lithium. No other choice. Now you are stuck; stuck with finite amount
-of reserves, stuck with the way batteries are architected, all
-stuck. Hallmark of bad engineering; unflexible basis, with a single
-point of failure, shoddy architecture the kind that originates from
-retarded, shoddy minds.
+Apparently band members went to the same musical academy.. and they
+just wanted to do something freely.. I get it now. This is the kind of
+stuff you do when u want to 'stretch'. Kinda show off too but it's
+about doing whatever, at an extreme.
 
 ---
 
-Five9? Good name.. Because in IT "Five Nine uptime", that is machines
-being up 99.999% of the time is a big deal..
-
-"@business
-
-LATEST: Zoom to buy cloud service firm Five9 for $14.7 billion"
+Dirty Loops has no guitar.. Bass, keyboard, and (crazy) vocals carry
+the whole thing..
 
 ---
 
-These guys are like soul, w some Michael Jackson added, little Dave
-Matthews Band, Latin Jazz of Corea + Weckl style.. it's fantastic.
+EPA: "Methane is also a greenhouse gas (GHG), so its presence in the
+atmosphere affects the earth's temperature and climate system. Methane
+is emitted from a variety of anthropogenic (human-influenced) and
+natural sources. ... Methane is more than 25 times as potent as carbon
+dioxide at trapping heat in the atmosphere"
 
 ---
 
-Dirty Loops - Hit Me \#music
-
-[Link](https://youtu.be/nls1HtXQe8E)
-
----
-
-That move at 3:17... Holy shit. This guy is my new Dave Weckl. New
-Neil Peart... All of them combined.
+BTW all carbon, or GHG emitting rocket fuels need to be banned, eg
+methane.  New Shep used liquid H2 but I believe their bigger rocket,
+and some others in the same scale will use methane - not good.
 
 ---
 
-Dirty Loops - Rock You \#music
-
-[Link](https://youtu.be/gYc5zrXC52k)
-
----
-
-Dirty Loops - Coffee Break is Over \#music
-
-[Link](https://youtu.be/aYYFmp9NBTk)
+BO demonstrated some capability, more than Virgin perhaps. New Shep
+took off on its own, wout riding any other vehicle, then the booster
+part returned.. There are more pieces here that can be built up for a
+grander goals.
 
 ---
 
-"@aravosis
+Blue Orig rocket used liquid H2. Clean fuel. 
 
-She’s a nurse. She urged everybody not to get the vaccine. And she’s dead"
+---
 
-[Link](https://twitter.com/aravosis/status/1414411482364710914)
+Good to know
+
+JH: "A fluid may appear in the form of a liquid like water or a gas
+like air. Water is virtually incompressible; the relative change in
+volume for each atmosphere in pressure is less than 10 −6 . Air can be
+viewed to be incompressible as long as the flow speed is well below
+the speed of sound"
+
+---
+
+Hah. So the discerete (as in quantum) does not reign supreme?
+
+Johan Hoffman, "Applying G2 [a new computational technique] to the
+Euler and [Navier-Stokes] equations opens a vast area for exploration,
+which we demonstrate by resolving several scientific mysteries,
+including d’Alembert’s paradox of zero drag in inviscid flow, the 2nd
+Law of thermodynamics and transition to turbulence. We also uncover
+several secrets of fluid dynamics including secrets of ball sports,
+flying, sailing and racing.  In particular we are led to a new
+computational foundation of thermodynamics based on deterministic
+microscopical mechanics producing deterministic mean value outputs
+coupled with indeterminate pointwise outputs, in which the 2nd Law is
+a consequence of the 1st Law. The new foundation of thermodynamics is
+not based on microscopical statistics as the statistical mechanics
+foundation pioneered by Boltzmann, and thus offers a rational
+scientific basis of thermodynamics based on computation, without the
+mystery of the 2nd Law in the statistical approach. We believe the new
+computational approach also may give insight to physics following the
+idea that Nature in one way or the other is performing an analog
+computation when evolving in time from one moment to the next"
+
+---
+
+Troop [deployment](2019/05/confstats.md#gdtroop)
 
 ---
 
