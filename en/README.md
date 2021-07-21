@@ -71,7 +71,9 @@ grander goals.
 
 ---
 
-Blue Orig rocket used liquid H2. Clean fuel. 
+Blue Origin rocket used liquid H2. Clean fuel.
+
+No you cannot go to space with batteries. Inferior technology.
 
 ---
 
