@@ -3,11 +3,11 @@
 Pinned Tweet
 
 Due to some GH shannanigans we moved to a new address. Archived
-Tweets since the move
+Tweets since the move:
 
 [Week 29](tweets/2021/week29.md)
 
-Page Last Updated on *2021-07-21 10:49*
+Last Updated on *2021-07-21 10:49*
 
 ---
 
