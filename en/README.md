@@ -68,10 +68,9 @@ Blue Orig rocket used liquid H2. Clean fuel.
 Good to know
 
 JH: "A fluid may appear in the form of a liquid like water or a gas
-like air. Water is virtually incompressible; the relative change in
-volume for each atmosphere in pressure is less than 10 −6 . Air can be
-viewed to be incompressible as long as the flow speed is well below
-the speed of sound"
+like air. Water is virtually incompressible... Air can be viewed to be
+incompressible as long as the flow speed is well below the speed of
+sound"
 
 ---
 
