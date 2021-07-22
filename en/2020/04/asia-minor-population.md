@@ -71,3 +71,16 @@ be assimilated and belong to their region. This is the reason why
 today's Anatolians are close in culture to Greeks, Armenians, or
 Kurds, or one cld say *are* a culmination of all of them, including of
 course some migrants, in a small fashion. 
+
+Population (Later Years)
+
+1881 17,388,604	
+1905 20,884,000
+1919 14,629,000
+
+Migrations
+
+1850-1900 Circassians     800,000–1,500,000
+1914-1918 Balkan Muslims  414,000
+1921-1926 Balkan Muslims  399,000
+1870-1900 Tatars          1,800,000

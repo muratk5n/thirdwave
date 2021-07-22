@@ -1,13 +1,5 @@
 # Tweets
 
-Pinned Tweet
-
-GH problems.. we are at a new address
-
-Updated on *2021-07-22*
-
----
-
 "Mitch McConnell, a polio survivor, urged people to get vaccinated 'as
 rapidly as possible' at a press conference Tuesday, 'or we're gonna be
 back in a situation in the fall that we don't yearn for, that we went
@@ -80,6 +72,10 @@ WSJ: "China Bears Score $7.1 Billion Victory in Long-Running ‘Pain Trade’"
 ---
 
 Kings 21:19
+
+---
+
+Updated on *2021-07-22*
 
 ---
 
