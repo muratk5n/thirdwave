@@ -38,8 +38,6 @@ violence, report finds"
 
 ---
 
-More from Jackson
-
 "@ummjackson
 
 I am often asked if I will 'return to cryptocurrency' or begin
