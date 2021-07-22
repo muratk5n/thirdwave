@@ -688,17 +688,6 @@ I've seen multiple videos of cops doing in different cities right now"
 
 ---
 
-"@kthalps
-
-No one who identifies as liberal should want Facebook/Twitter/Youtube
-to censor people. Nobody who IDs as Leftist should either bc but
-principles aside, these companies are not benevolent & most targeted
-are free Palestine supporters"
-
-[Link](https://youtu.be/MxbOLZq91NA?t=3265)
-
----
-
 "@justinamash
 
 'No justice, no peace.' Is this a threat? A call to violence? No. It
@@ -919,16 +908,6 @@ forced the bill back to the drawing board. Instead, their shenanigans
 ultimately helped secure the legislation’s passage"
 
 [Link](https://www.theguardian.com/commentisfree/2020/may/26/democrats-trump-corporate-counter-revolution)
-
----
-
-"@kthalps
-
-The \#Russiagate narrative fosters brain worms, & anti-liberal group
-think & reverence of 'intelligence community.' & it's weaponized to
-cast suspicion on Black protestors. If you pushed the infantilizing
-'Russians tricked Black people' narrative you helped do this
-\#GeorgeFloyd"
 
 ---
 

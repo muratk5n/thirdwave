@@ -574,10 +574,6 @@ billion in oil and gas stocks"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It’s self-evident. A CIA officer who goes right back to work for the CIA after “blowing the whistle” is a very particular kind of whistleblower. <a href="https://t.co/KVa54WGmAm">https://t.co/KVa54WGmAm</a></p>&mdash; Matt Taibbi (@mtaibbi) <a href="https://twitter.com/mtaibbi/status/1180877230894923776?ref_src=twsrc%5Etfw">October 6, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Joe Biden is finished.<a href="https://twitter.com/hashtag/DropOutJoe?src=hash&amp;ref_src=twsrc%5Etfw">#DropOutJoe</a> <a href="https://t.co/Qo1q1ETFII">https://t.co/Qo1q1ETFII</a></p>&mdash; Pat the Berner🌹 (@PatTheBerner) <a href="https://twitter.com/PatTheBerner/status/1180895437827362816?ref_src=twsrc%5Etfw">October 6, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---

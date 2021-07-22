@@ -513,13 +513,6 @@ Drake Passage.🌊"
 
 ---
 
-"@courtlandistan
-
-@mtaibbi .. 'Epstein was died.' Is the funniest shit I’ve
-heard all year"
-
----
-
 Brunkebergstorg 11 103 37 Stockholm Sweden
 
 59.331783, 18.065663

@@ -696,10 +696,6 @@ Still a dildo - but there is hope for you yet.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Let me get this straight: all those years I spent writing about the buying off of politicians and regulators by Wall Street, or about military contracting corruption, must now be understood as “anti-democratic propaganda”? Is this a joke? <a href="https://t.co/6u1fXMYFpe">https://t.co/6u1fXMYFpe</a></p>&mdash; Matt Taibbi (@mtaibbi) <a href="https://twitter.com/mtaibbi/status/1202251938533978112?ref_src=twsrc%5Etfw">December 4, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 Zak and Chong. Ur compsci code didn't work but I could salvage enough. 👍
 
 ---

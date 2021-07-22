@@ -55,13 +55,9 @@ occupation is pretty widespread across these divisions...
 
 ---
 
-@kthalps
-
-I had a nightmare that Rachel Maddow was praising Trump for helping women torturers break the class ceiling, & Whoopi Goldberg was telling Alexandria Ocasio-Cortez @AOC to sit down & shut up & know her place.
-
----
-
-Batteries on cars are essentially what an IT guy from SV would think as a green solution. Uh, like, my labtop has batteries, cant we like, put it on a car?
+Batteries on cars are essentially what an IT guy from SV would think
+as a green solution. Uh, like, my labtop has batteries, cant we like,
+put it on a car?
 
 ---
 
