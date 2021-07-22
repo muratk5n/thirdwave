@@ -8,6 +8,18 @@ Updated on *2021-07-22*
 
 ---
 
+"Mitch McConnell, a polio survivor, urged people to get vaccinated 'as
+rapidly as possible' at a press conference Tuesday, 'or we're gonna be
+back in a situation in the fall that we don't yearn for, that we went
+through last year.'"
+
+---
+
+"Queensland establishes Minister for Hydrogen"
+
+[Link](https://t.co/QXUqtEw5Ss)
+
+---
 
 We are so screwed
 
