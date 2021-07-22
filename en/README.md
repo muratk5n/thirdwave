@@ -42,9 +42,9 @@ More from Jackson
 
 "@ummjackson
 
-I am often asked if I will “return to cryptocurrency” or begin
+I am often asked if I will 'return to cryptocurrency' or begin
 regularly sharing my thoughts on the topic again. My answer is a
-wholehearted “no”, but to avoid repeating myself I figure it might be
+wholehearted 'no', but to avoid repeating myself I figure it might be
 worthwhile briefly explaining why here"
 
 [Thread](https://twitter.com/ummjackson/status/1415353984617914370)
