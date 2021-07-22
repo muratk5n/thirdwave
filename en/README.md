@@ -71,7 +71,7 @@ clown': a peasant, a bumpkin, a slack-jawed yokel"
 ---
 
 Jim Carrey's father called him "not just the bacon, the entire pig"
-when young. He would throw himself down the stairs just for laughs
+when young. He would send himself thumbling down the stairs for laughs.
 
 ---
 
