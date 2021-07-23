@@ -42,7 +42,7 @@ per culture. Everyone living in Asia Minor is closer to Homer
 
 Lots of Tatars migrated into Anatolia BTW, estimated to be at
 1,800,000 btw 1870-1900. I observed in gobble gobble their descendants
-were more willing to embrace the tigger identity, bcz IMO not it
+were more willing to embrace the tigger identity, bcz, IMO not only it
 offered them "nomadicness" (they also had recently 'arrived', right?)
 but also ethnically they cld claim a certain Asiaticness through
 it. But Tatars arriving to TR were likely Russian in
