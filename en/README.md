@@ -51,7 +51,7 @@ Turkic either.. So either way, they are not tiggers. Rejoice.
 
 ---
 
-\From *The Geography of Ethnic Violence*
+From *The Geography of Ethnic Violence*
 
 "Scratch a Tatar, you’ll find a Russian"
 
