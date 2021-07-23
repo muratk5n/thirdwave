@@ -1,5 +1,80 @@
 # Week 29
 
+"Mitch McConnell, a polio survivor, urged people to get vaccinated 'as
+rapidly as possible' at a press conference Tuesday, 'or we're gonna be
+back in a situation in the fall that we don't yearn for, that we went
+through last year.'"
+
+---
+
+"Queensland establishes Minister for Hydrogen"
+
+[Link](https://t.co/QXUqtEw5Ss)
+
+---
+
+We are so screwed
+
+---
+
+Al Jazeera: "Growing wildfires in western US causing hazy skies on east coast"
+
+---
+
+F24: "Unvaccinated people account for 96% of new Covid-19 cases, says French PM"
+
+---
+
+"Israel’s security forces are ‘complicit’ in drastic surge in settler
+violence, report finds"
+
+---
+
+"@ummjackson
+
+I am often asked if I will 'return to cryptocurrency' or begin
+regularly sharing my thoughts on the topic again. My answer is a
+wholehearted 'no', but to avoid repeating myself I figure it might be
+worthwhile briefly explaining why here"
+
+[Thread](https://twitter.com/ummjackson/status/1415353984617914370)
+
+---
+
+CNBC: "The co-creator of dogecoin explains why he doesn’t plan to return to
+crypto: It’s ‘controlled by a powerful cartel of wealthy figures’"
+
+---
+
+KyleDunnigan.. he had Zee Ping Ping talking smack in fake Italian
+accent, it was hilarious 🤣 
+
+---
+
+Newer is better. *Point Break* 2015. Fantastic movie
+
+---
+
+"A 'bacon,' ... a pejorative ..  referred to the fact that swine's
+flesh was a meat primarily consumed by England's rural
+population. Thus, calling someone a bacon meant they were 'a rustic
+clown': a peasant, a bumpkin, a slack-jawed yokel"
+
+---
+
+Jim Carrey's father called him "not just the bacon, the entire pig"
+when young. He would send himself thumbling down the stairs for laughs.
+
+---
+
+WSJ: "China Bears Score $7.1 Billion Victory in Long-Running ‘Pain Trade’"
+
+---
+
+Kings 21:19
+
+---
+
 "@UTAustin Researchers Just Solved a Major Hurdle-Found a low-cost way
 to solve 1/2 of equation, using #sunlight to efficiently split off
 oxygen from water"

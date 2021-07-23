@@ -1,81 +1,76 @@
 # Tweets
 
-"Mitch McConnell, a polio survivor, urged people to get vaccinated 'as
-rapidly as possible' at a press conference Tuesday, 'or we're gonna be
-back in a situation in the fall that we don't yearn for, that we went
-through last year.'"
+
+<iframe width="340" src="https://www.youtube.com/embed/aRXb4bJhSSw?start=2651&end=2764" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-"Queensland establishes Minister for Hydrogen"
+"My research results at this point thus indicate that we can expect a
+halt in economic growth within the next two decades .. organizations
+like the IMF have been pointing out recently that we're seeing a
+'synchronized slowdown in global growth'"
 
-[Link](https://t.co/QXUqtEw5Ss)
-
----
-
-We are so screwed
-
----
-
-Al Jazeera: "Growing wildfires in western US causing hazy skies on east coast"
+[Link](https://www.linkedin.com/pulse/i-did-data-check-world-model-forecast-global-collapse-branderhorst/)
 
 ---
 
-F24: "Unvaccinated people account for 96% of new Covid-19 cases, says French PM"
+It all started with "what was up with that seventh son of a seventh
+son thing?", and down the rabbit hole we go on mysticism, snake
+rituals, and *inciaramazione*.
 
 ---
 
-"Israel’s security forces are ‘complicit’ in drastic surge in settler
-violence, report finds"
+Inciaramazione 😶
 
 ---
 
-"@ummjackson
-
-I am often asked if I will 'return to cryptocurrency' or begin
-regularly sharing my thoughts on the topic again. My answer is a
-wholehearted 'no', but to avoid repeating myself I figure it might be
-worthwhile briefly explaining why here"
-
-[Thread](https://twitter.com/ummjackson/status/1415353984617914370)
-
----
-
-CNBC: "The co-creator of dogecoin explains why he doesn’t plan to return to
-crypto: It’s ‘controlled by a powerful cartel of wealthy figures’"
+Politico: "The yearslong effort by state and local governments in the
+U.S. to force the pharmaceutical industry to help pay to fix a
+nationwide opioid addiction and overdose crisis took a major step
+forward Tuesday when lawyers for local governments announced they were
+on the verge of a $26 billion settlement with the nation’s three
+biggest drug distribution companies and the drugmaker Johnson &
+Johnson"
 
 ---
 
-KyleDunnigan.. he had Zee Ping Ping talking smack in fake Italian
-accent, it was hilarious 🤣 
+You are not bunch of punks from Central whatever.. nor from Crimea,
+per culture. Everyone living in Asia Minor is closer to Homer
+(of Illiad fame) than to Kubilay, Genghic.. whatever.
 
 ---
 
-Newer is better. *Point Break* 2015. Fantastic movie
+Lots of Tatars migrated into Anatolia BTW, estimated to be at
+1,800,000 btw 1870-1900. I observed in gobble gobble their descendants
+were more willing to embrace the tigger identity, bcz IMO not it
+offered them "nomadicness" (they also had recently 'arrived', right?)
+but also ethnically they cld claim a certain Asiaticness through
+it. But Tatars arriving to TR were likely Russian in
+nature.. Ops. Then they were assimilated into Anatolia which is not
+Turkic either.. So either way, they are not tiggers. Rejoice.
 
 ---
 
-"A 'bacon,' ... a pejorative ..  referred to the fact that swine's
-flesh was a meat primarily consumed by England's rural
-population. Thus, calling someone a bacon meant they were 'a rustic
-clown': a peasant, a bumpkin, a slack-jawed yokel"
+\From *The Geography of Ethnic Violence*
+
+"Scratch a Tatar, you’ll find a Russian"
 
 ---
 
-Jim Carrey's father called him "not just the bacon, the entire pig"
-when young. He would send himself thumbling down the stairs for laughs.
+As a comparison covid deaths were abt 16,000 per day at its height.. 
+
+UNICEF: "Every day 19,000 children die from preventable causes"
 
 ---
 
-WSJ: "China Bears Score $7.1 Billion Victory in Long-Running ‘Pain Trade’"
+Started to experiment with the ultiamte dish, one thing that u can
+prepare everyday, tastes good enough, and has everything
+needed. Currently on a mixture of onions, cheap chuck, green beans,
+salt, lemon, olive oil -- all thrown together and cooked. Not bad.
 
 ---
 
-Kings 21:19
-
----
-
-Updated on *2021-07-22*
+Updated on *2021-07-23*
 
 ---
 
