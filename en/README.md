@@ -73,10 +73,10 @@ UNICEF: "Every day 19,000 children die from preventable causes"
 
 ---
 
-The ultimate dish, one that u can prepare everyday, tastes good
-enough, and has everything needed, experiment continues... Latest;
+Experiment continues; The ultimate dish, one that u can prepare
+everyday, tastes good enough, and has everything needed.. Latest;
 onions, cheap chuck, green beans, salt, lemon, olive oil -- all thrown
-together and simply cooked. Is fine so far.
+together and simply cooked. Fine so far.
 
 ---
 
