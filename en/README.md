@@ -57,7 +57,7 @@ Turkic either.. So either way, they are not tiggers. Rejoice.
 
 ---
 
-As a comparison covid deaths were abt 16,000 per day at its height.. 
+Note covid deaths were abt 16,000 per day at its height..
 
 UNICEF: "Every day 19,000 children die from preventable causes"
 
