@@ -39,7 +39,7 @@ Johnson"
 
 Arriving Tatars wld have contributed "something" to Anatolia, but what
 I am saying is, that something, little as it is (proportional to their
-numbers) was Russian culture. Sad.
+numbers) was Russian culture. 
 
 ---
 
