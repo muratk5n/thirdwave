@@ -34,6 +34,12 @@ Johnson"
 
 ---
 
+Arriving Tatars wld have contributed "something" to Anatolia, but what
+I am saying is, that something, little as it is (proportional to their
+numbers) was Russian culture, not some c--ksucking Central Asiaticness.
+
+---
+
 Peeps are not bunch of punks from Central Cuntfuckia. Nor are they
 from Crimea, culturally speaking.. Everyone in Asia Minor is closer to
 Homer (of Illiad fame) culturally than to some "Kubilay", or
