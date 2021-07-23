@@ -34,9 +34,10 @@ Johnson"
 
 ---
 
-You are not bunch of punks from Central whatever.. nor from Crimea,
-per culture. Everyone living in Asia Minor is closer to Homer
-(of Illiad fame) than to Kubilay, Genghic.. whatever.
+Peeps are not bunch of punks from Central Cuntfuckia. Nor are they
+from Crimea, culturally speaking.. Everyone in Asia Minor is closer to
+Homer (of Illiad fame) culturally than to some "Kubilay", or
+"Genghic".. whatever.
 
 ---
 
