@@ -1,5 +1,81 @@
 # Week 29
 
+<iframe width="340" src="https://www.youtube.com/embed/aRXb4bJhSSw?start=2651&end=2764" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+"My research results at this point thus indicate that we can expect a
+halt in economic growth within the next two decades .. organizations
+like the IMF have been pointing out recently that we're seeing a
+'synchronized slowdown in global growth'"
+
+[Link](https://www.linkedin.com/pulse/i-did-data-check-world-model-forecast-global-collapse-branderhorst/)
+
+---
+
+It all started with "what was up with that seventh son of a seventh
+son thing?", and down the rabbit hole we go on mysticism, snake
+rituals, and *inciaramazione*.
+
+---
+
+Inciaramazione 😶
+
+---
+
+Politico: "The yearslong effort by state and local governments in the
+U.S. to force the pharmaceutical industry to help pay to fix a
+nationwide opioid addiction and overdose crisis took a major step
+forward Tuesday when lawyers for local governments announced they were
+on the verge of a $26 billion settlement with the nation’s three
+biggest drug distribution companies and the drugmaker Johnson &
+Johnson"
+
+---
+
+Arriving Tatars wld have contributed "something" to Anatolia, but what
+I am saying is, that something, little as it is (proportional to their
+numbers) was Russian culture. 
+
+---
+
+Peeps are not bunch of punks from Central Cuntfuckia. Nor are they
+from Crimea, culturally speaking.. Everyone in Asia Minor is closer to
+Homer (of Illiad fame) culturally than to some "Kubilay", or
+"Genghic".. whatever.
+
+---
+
+Lots of Tatars migrated into Anatolia BTW, estimated to be at
+1,800,000 btw 1870-1900. I observed in gobble gobble their descendants
+were more willing to embrace the tigger identity, bcz, IMO not only it
+offered them "nomadicness" (they also had recently 'arrived', right?)
+but also ethnically they cld claim a certain Asiaticness. But Tatars
+arriving to TR were likely Russian in nature.. Ops. Then they were
+assimilated into Anatolia which is not Turkic either.. So either way,
+they are not tiggers. Rejoice.
+
+---
+
+From *The Geography of Ethnic Violence*
+
+"Scratch a Tatar, you’ll find a Russian"
+
+---
+
+Note covid deaths were abt 16,000 per day at its height..
+
+UNICEF: "Every day 19,000 children die from preventable causes"
+
+---
+
+Experiment continues; The ultimate dish, one that u can prepare
+everyday, tastes good enough, and has everything needed.. Latest;
+onions, cheap chuck, green beans, salt, lemon, olive oil -- all thrown
+together and simply cooked. Fine so far.
+
+---
+
 "Mitch McConnell, a polio survivor, urged people to get vaccinated 'as
 rapidly as possible' at a press conference Tuesday, 'or we're gonna be
 back in a situation in the fall that we don't yearn for, that we went

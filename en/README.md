@@ -4,83 +4,83 @@ New Address is Here
 
 ---
 
-<iframe width="340" src="https://www.youtube.com/embed/aRXb4bJhSSw?start=2651&end=2764" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">these Chinese stocks were worth $207 billion yesterday, and $126 billion today. epic unwind<br><br>have a nice weekend everybody. <a href="https://t.co/jg9DOfZ9wT">pic.twitter.com/jg9DOfZ9wT</a></p>&mdash; Fidel Cashflow (@TangoGrenada) <a href="https://twitter.com/TangoGrenada/status/1418666701944672259?ref_src=twsrc%5Etfw">July 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"My research results at this point thus indicate that we can expect a
-halt in economic growth within the next two decades .. organizations
-like the IMF have been pointing out recently that we're seeing a
-'synchronized slowdown in global growth'"
+"@fauxRayDalio
 
-[Link](https://www.linkedin.com/pulse/i-did-data-check-world-model-forecast-global-collapse-branderhorst/)
+Long India, Short China. The trade is taking place before our eyes"
 
 ---
 
-It all started with "what was up with that seventh son of a seventh
-son thing?", and down the rabbit hole we go on mysticism, snake
-rituals, and *inciaramazione*.
+WSJ: "A Tech IPO Boom Is Coming to Unicorn-Rich India"
 
 ---
 
-Inciaramazione 😶
+"Japan Inc Wants to Become a Hydrogen Superpower.. The Olympics this
+time will have people involved in Games carried by 500 hydrogen
+powered cars & 100 buses, which are manufactured by @ToyotaMotorCorp &
+run on fuelcells"
+
+[Link](https://bit.ly/3zvRdLc)
 
 ---
 
-Politico: "The yearslong effort by state and local governments in the
-U.S. to force the pharmaceutical industry to help pay to fix a
-nationwide opioid addiction and overdose crisis took a major step
-forward Tuesday when lawyers for local governments announced they were
-on the verge of a $26 billion settlement with the nation’s three
-biggest drug distribution companies and the drugmaker Johnson &
-Johnson"
+Post nationhood my ass.. During the 90s there was that talk, been
+proven false since. Talking abt administrative boundaries obviously,
+gov, regional or supra.. They do matter. 
+
+During Brexit final deal they were negotiating details down to the
+species of fish. Every damn thing was looked at, and is looked at
+through the prism of a border. 
 
 ---
 
-Arriving Tatars wld have contributed "something" to Anatolia, but what
-I am saying is, that something, little as it is (proportional to their
-numbers) was Russian culture. 
+One thinker for each domain. No more.
+
+There can only be one.
+
+This way I can guarantee focus.
 
 ---
 
-Peeps are not bunch of punks from Central Cuntfuckia. Nor are they
-from Crimea, culturally speaking.. Everyone in Asia Minor is closer to
-Homer (of Illiad fame) culturally than to some "Kubilay", or
-"Genghic".. whatever.
+We use a little trick in this site.. I "have a guy" for each sub
+domain. That guy (or gal) is the sole voice for that domain. For
+anthropology Ian Morris, for social/tech Toffler,
+psychology/marketing Rapaille, etc. I weave these pieces together
+to achieve [greater-sum](2021/04/sum-greater-than-whole-reductionism.md).
+In a way I simulate an insitutional setting. But still, u r better off
+following MSM. You will rise or sink with the muckers.
 
 ---
 
-Lots of Tatars migrated into Anatolia BTW, estimated to be at
-1,800,000 btw 1870-1900. I observed in gobble gobble their descendants
-were more willing to embrace the tigger identity, bcz, IMO not only it
-offered them "nomadicness" (they also had recently 'arrived', right?)
-but also ethnically they cld claim a certain Asiaticness. But Tatars
-arriving to TR were likely Russian in nature.. Ops. Then they were
-assimilated into Anatolia which is not Turkic either.. So either way,
-they are not tiggers. Rejoice.
+Wout ed control, outside inst setting, I assume most blogs, substacks
+have lesser quality ..  My DIY quality filter.
 
 ---
 
-From *The Geography of Ethnic Violence*
-
-"Scratch a Tatar, you’ll find a Russian"
+Braciole with gabagool..? I like the idea
 
 ---
 
-Note covid deaths were abt 16,000 per day at its height..
+"@MikeKofiA
 
-UNICEF: "Every day 19,000 children die from preventable causes"
-
----
-
-Experiment continues; The ultimate dish, one that u can prepare
-everyday, tastes good enough, and has everything needed.. Latest;
-onions, cheap chuck, green beans, salt, lemon, olive oil -- all thrown
-together and simply cooked. Fine so far.
+One thing people don't know about the Potato Famine was that Ireland
+remained a net exporter of food crops at the time. It wasn't that food
+was scarce it was that poor citizens couldn't afford it. Modern
+industrialized society distributes resources based on class prejudice"
 
 ---
 
-Updated on *2021-07-23*
+*Nobody*, another J. Wick-like movie, w little *True Lies*, *Falling
+Down* mixed in.. Well-made. "Guy with normal life goes on a rampage",
+are movs like this the drug needed to keep arthritic modern man from
+going completely nuts? Satisfying the inner hunter-gatherer?
+
+---
+
+Updated on *2021-07-24*
 
 ---
 
