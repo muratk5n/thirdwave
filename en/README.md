@@ -27,9 +27,9 @@ run on fuelcells"
 
 ---
 
-Post nationhood my ass.. During the 90s there was that talk, been
-proven false since. Talking abt administrative boundaries obviously,
-gov, regional or supra.. They do matter. 
+Post country boundaries my ass.. During the 90s there was that talk,
+been proven false since. Talking abt administrative boundaries
+obviously, gov, regional or supra.. They do matter.
 
 During Brexit final deal they were negotiating details down to the
 species of fish. Every damn thing was looked at, and is looked at
