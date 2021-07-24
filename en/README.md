@@ -8,6 +8,10 @@ New Address is Here
 
 ---
 
+ME conflict [stats](2019/05/confstats.md#gdeltme)
+
+---
+
 "@fauxRayDalio
 
 Long India, Short China. The trade is taking place before our eyes"
