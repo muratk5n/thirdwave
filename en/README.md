@@ -4,87 +4,68 @@ New Address is Here
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">these Chinese stocks were worth $207 billion yesterday, and $126 billion today. epic unwind<br><br>have a nice weekend everybody. <a href="https://t.co/jg9DOfZ9wT">pic.twitter.com/jg9DOfZ9wT</a></p>&mdash; Fidel Cashflow (@TangoGrenada) <a href="https://twitter.com/TangoGrenada/status/1418666701944672259?ref_src=twsrc%5Etfw">July 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+The pimp thing is funny.. before he played that role in *Street Smart*,
+noone knew what a pimp was. Afterwards, everyone is like 'yeah that's
+a pimp'.
 
 ---
 
-ME conflict [stats](2019/05/confstats.md#gdeltme)
+It is true a lot of avenues are open to you in US, for any race, if
+you put your mind to it. MF played so many roles.. A pimp, a
+President, a prisoner, God.. 
 
 ---
 
-"@fauxRayDalio
-
-Long India, Short China. The trade is taking place before our eyes"
+Dam.. Morgan Freeman is taking no shit on race relations from anyone
 
 ---
 
-WSJ: "A Tech IPO Boom Is Coming to Unicorn-Rich India"
+S. Weinberg passed away? Unzicker calls him an overhyped physicist
+
+[Link](https://youtu.be/dNOMmYafygM?t=428)
 
 ---
 
-"Japan Inc Wants to Become a Hydrogen Superpower.. The Olympics this
-time will have people involved in Games carried by 500 hydrogen
-powered cars & 100 buses, which are manufactured by @ToyotaMotorCorp &
-run on fuelcells"
-
-[Link](https://bit.ly/3zvRdLc)
+Countries seem to be good on one thing or another.. meaning
+containment strategies vs vaccinations.
 
 ---
 
-Post country boundaries my ass.. During the 90s there was that talk,
-been proven false since. Talking abt administrative boundaries
-obviously, gov, regional or supra.. They do matter.
+Lockdowns in AU are overdone...  From this pt on it should have been
+abt vaccines. 
 
-During Brexit final deal they were negotiating details down to the
-species of fish. Every damn thing was looked at, and is looked at
-through the prism of a border. 
+"Thousands of anti-lockdown protesters gather in Australia's two
+largest cities, with several arrested in Sydney after violent clashes
+with police"
 
----
-
-One thinker for each domain. No more.
-
-There can only be one.
-
-This way I can guarantee focus.
+[Link](http://u.afp.com/UaMg )
 
 ---
 
-We use a little trick in this site.. I "have a guy" for each sub
-domain. That guy (or gal) is the sole voice for that domain. For
-anthropology Ian Morris, for social/tech Toffler,
-psychology/marketing Rapaille, etc. I weave these pieces together
-to achieve [greater-sum](2021/04/sum-greater-than-whole-reductionism.md).
-In a way I simulate an insitutional setting. But still, u r better off
-following MSM. You will rise or sink with the muckers.
+"Exciting development from @H2AccelerateEU with the announcement of a
+New Collaboration for ZeroEmission Hydrogen Trucking at Mass-Market
+Scale"
+
+[Link](https://bit.ly/3iuqkRj)
 
 ---
 
-Wout ed control, outside inst setting, I assume most blogs, substacks
-have lesser quality ..  My DIY quality filter.
+Dont like what happened in Varosha, Cyprus? Whatcha gonna do abt it?
+Tigger took it in 1974, and the place was infested ever since with
+nationalist, Turkist, inbred corksuckers
 
 ---
 
-Braciole with gabagool..? I like the idea
+Italy: "@Repsol & @talgo agreed to Jointly Develop a Renewable
+Hydrogen-Powered #Train"
+
+[Link](https://bit.ly/3BlDnwI)
 
 ---
 
-"@MikeKofiA
-
-One thing people don't know about the Potato Famine was that Ireland
-remained a net exporter of food crops at the time. It wasn't that food
-was scarce it was that poor citizens couldn't afford it. Modern
-industrialized society distributes resources based on class prejudice"
-
----
-
-*Nobody*, another J. Wick-like movie, w little *True Lies*, *Falling
-Down* mixed in.. Well-made. "Guy with normal life goes on a rampage",
-are movs like this the drug needed to keep arthritic modern man from
-going completely nuts? Satisfying the inner hunter-gatherer?
-
----
-
-Updated on *2021-07-24*
+Updated on *2021-07-25*
 
 ---
 

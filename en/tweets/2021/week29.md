@@ -1,5 +1,85 @@
 # Week 29
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">these Chinese stocks were worth $207 billion yesterday, and $126 billion today. epic unwind<br><br>have a nice weekend everybody. <a href="https://t.co/jg9DOfZ9wT">pic.twitter.com/jg9DOfZ9wT</a></p>&mdash; Fidel Cashflow (@TangoGrenada) <a href="https://twitter.com/TangoGrenada/status/1418666701944672259?ref_src=twsrc%5Etfw">July 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+ME conflict [stats](2019/05/confstats.md#gdeltme)
+
+---
+
+"@fauxRayDalio
+
+Long India, Short China. The trade is taking place before our eyes"
+
+---
+
+WSJ: "A Tech IPO Boom Is Coming to Unicorn-Rich India"
+
+---
+
+"Japan Inc Wants to Become a Hydrogen Superpower.. The Olympics this
+time will have people involved in Games carried by 500 hydrogen
+powered cars & 100 buses, which are manufactured by @ToyotaMotorCorp &
+run on fuelcells"
+
+[Link](https://bit.ly/3zvRdLc)
+
+---
+
+Post country boundaries my ass.. During the 90s there was that talk,
+been proven false since. Talking abt administrative boundaries
+obviously, gov, regional or supra.. They do matter.
+
+During Brexit final deal they were negotiating details down to the
+species of fish. Every damn thing was looked at, and is looked at
+through the prism of a border. 
+
+---
+
+One thinker for each domain. No more.
+
+There can only be one.
+
+This way I can guarantee focus.
+
+---
+
+We use a little trick in this site.. I "have a guy" for each sub
+domain. That guy (or gal) is the sole voice for that domain. For
+anthropology Ian Morris, for social/tech Toffler,
+psychology/marketing Rapaille, etc. I weave these pieces together
+to achieve [greater-sum](2021/04/sum-greater-than-whole-reductionism.md).
+In a way I simulate an insitutional setting. But still, u r better off
+following MSM. You will rise or sink with the muckers.
+
+---
+
+Wout ed control, outside inst setting, I assume most blogs, substacks
+have lesser quality ..  My DIY quality filter.
+
+---
+
+Braciole with gabagool..? I like the idea
+
+---
+
+"@MikeKofiA
+
+One thing people don't know about the Potato Famine was that Ireland
+remained a net exporter of food crops at the time. It wasn't that food
+was scarce it was that poor citizens couldn't afford it. Modern
+industrialized society distributes resources based on class prejudice"
+
+---
+
+*Nobody*, another J. Wick-like movie, w little *True Lies*, *Falling
+Down* mixed in.. Well-made. "Guy with normal life goes on a rampage",
+are movs like this the drug needed to keep arthritic modern man from
+going completely nuts? Satisfying the inner hunter-gatherer?
+
+---
+
 <iframe width="340" src="https://www.youtube.com/embed/aRXb4bJhSSw?start=2651&end=2764" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
