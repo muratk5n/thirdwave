@@ -52,12 +52,6 @@ Scale"
 
 ---
 
-Dont like what happened in Varosha, Cyprus? Whatcha gonna do abt it?
-Tigger took it in 1974, and the place was infested ever since with
-nationalist, Turkist, inbred corksuckers
-
----
-
 Italy: "@Repsol & @talgo agreed to Jointly Develop a Renewable
 Hydrogen-Powered #Train"
 
