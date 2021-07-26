@@ -7,13 +7,13 @@ import pandas as pd
 
 def get_eq(minx,maxx,miny,maxy):
     today = datetime.datetime.now()
-    days = 7
+    days = 120
     start = today - datetime.timedelta(days=days)
 
     req = 'https://earthquake.usgs.gov/fdsnws'
     req+='/event/1/query.geojson?starttime=%s&endtime=%s'
     req+='&minlatitude=%d&maxlatitude=%d&minlongitude=%d&maxlongitude=%d'
-    req+='&minmagnitude=3.0&orderby=time&limit=300'
+    req+='&minmagnitude=4.0&orderby=time&limit=300'
     req = req % (start.isoformat(), today.isoformat(),miny,maxy,minx,maxx)
     qr = requests.get(req).json()
     res = []
@@ -36,8 +36,8 @@ def get_eq(minx,maxx,miny,maxy):
 ```python
 import mygeo
 
-lat,lon = 32,30
-D = 5000
+lat,lon = 55, -137
+D = 2000
 lat1,lon1 = mygeo.to_bearing(lat,lon,np.deg2rad(45),D)
 lat2,lon2 = mygeo.to_bearing(lat,lon,np.deg2rad(225),D)
 minx=np.min((lon1,lon2))
@@ -46,7 +46,6 @@ miny=np.min((lat1,lat2))
 maxy=np.max((lat1,lat2))
 df = get_eq(minx,maxx,miny,maxy)
 ```
-
 
 ```python
 import folium
