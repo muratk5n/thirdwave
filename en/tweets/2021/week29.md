@@ -4,7 +4,7 @@
 
 ---
 
-ME conflict [stats](2019/05/confstats.md#gdeltme)
+ME conflict [stats](../../2019/05/confstats.md#gdeltme)
 
 ---
 
@@ -49,7 +49,7 @@ We use a little trick in this site.. I "have a guy" for each sub
 domain. That guy (or gal) is the sole voice for that domain. For
 anthropology Ian Morris, for social/tech Toffler,
 psychology/marketing Rapaille, etc. I weave these pieces together
-to achieve [greater-sum](2021/04/sum-greater-than-whole-reductionism.md).
+to achieve [greater-sum](../../2021/04/sum-greater-than-whole-reductionism.md).
 In a way I simulate an insitutional setting. But still, u r better off
 following MSM. You will rise or sink with the muckers.
 
@@ -324,7 +324,7 @@ computation when evolving in time from one moment to the next"
 
 ---
 
-Troop [deployment](2019/05/confstats.md#gdtroop)
+Troop [deployment](../../2019/05/confstats.md#gdtroop)
 
 ---
 
@@ -435,7 +435,7 @@ still have smallpox if vaccine hesitancy had had such a loud megaphone"
 
 ---
 
-ME conflict [stats](2019/05/confstats.md#gdeltme)
+ME conflict [stats](../../2019/05/confstats.md#gdeltme)
 
 ---
 
