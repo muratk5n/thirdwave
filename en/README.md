@@ -9,13 +9,13 @@ Now he calls Bolsonaro "an agent of genocide".
 
 ---
 
-At a time when covid was out of control, there was bunch of chaos, he
-said 'Brasil has no government'. Right on the nose.
+At a time when covid was out of control, there was bunch of chaos,
+Lula jumps in with 'Brasil has no government'. Right on the nose.
 
 ---
 
-That Lula F24 interview was great. That guy is an excellent communicator.
-He understands econ pretty well..
+Lula F24 interview was great. The guy is an excellent communicator,
+understands econ pretty well too..
 
 ---
 
