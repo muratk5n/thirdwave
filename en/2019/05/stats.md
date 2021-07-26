@@ -76,7 +76,6 @@ R^2 0.9011858911763367
 [49.14454875 51.75431018] 50.4494294659622
 ```
 
-
 ## The Cycle
 
 <a name="cycle"/>
@@ -127,12 +126,12 @@ DATE
 2021-01-01  0.397284
               infyoy
 DATE                
-2020-12-01  1.362005
 2021-01-01  1.399770
 2021-02-01  1.676215
 2021-03-01  2.619763
 2021-04-01  4.159695
 2021-05-01  4.992707
+2021-06-01  5.391451
 ```
 
 <a name="infexp"/>
@@ -152,7 +151,16 @@ df1['sdate'] = df1.apply(lambda x: x.Mon + "-" + str(int(x['Year'])),axis=1)
 df1['date'] = pd.to_datetime(df1.sdate)
 df1 = df1.set_index('date')
 df1[['Next Year','Next 5 Years']].plot()
+print (df1[['Next Year', 'Next 5 Years']].tail(3))
 plt.savefig('infexp.png')
+```
+
+```text
+            Next Year  Next 5 Years
+date                               
+2021-05-01        4.6           3.0
+2021-06-01        4.2           2.8
+2021-07-01        4.8           2.9
 ```
 
 ![](infexp.png)
