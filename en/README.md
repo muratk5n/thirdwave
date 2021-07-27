@@ -37,10 +37,6 @@ COVID-19 testing"
 
 ---
 
-WSJ: "U.S. Combat Troops Will Leave Iraq This Year, Biden Says"
-
----
-
 "@fauxRayDalio
 
 My bearish plays: BABA, JD and NIO. I don’t care what their growth or

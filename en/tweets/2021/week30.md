@@ -146,6 +146,3 @@ Hydrogen-Powered #Train"
 
 ---
 
-Updated on *2021-07-25*
-
----
