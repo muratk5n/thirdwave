@@ -58,8 +58,8 @@ spot to stop and pee"
 
 ---
 
-Whats the deal? Tali gets rural and was supposed to keep out of city
-centers?
+Whats the deal? Tali wld only get rural and was supposed to keep out
+of city centers?
 
 "U.S. Intensifies Airstrikes as Taliban Offensive Nears Kandahar"
 
