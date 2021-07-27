@@ -43,7 +43,7 @@ WSJ: "U.S. Combat Troops Will Leave Iraq This Year, Biden Says"
 
 "@fauxRayDalio
 
-My bearish plays: BABA JD and NIO. I don’t care what their growth or
+My bearish plays: BABA, JD and NIO. I don’t care what their growth or
 revenue is. China’s Communist Ruling Party is a scam, untrustworthy,
 and ultimately will pillage all profits from any company. American
 investors will never see a dime. My bull position: India"
