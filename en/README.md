@@ -8,87 +8,109 @@ New Address is Here
 ---
 
 
-H2goesRail
+I see some patches in gobble gobble that are fine..
 
-[Link](https://bit.ly/3iROHbs)
+Some parts in Georgia look good..
 
----
-
-Not a big fan of these programs. IMO attacking the root with tech
-(green molecules) will do more
-
-"Agricultural carbon credit programs are cropping up left and right,
-but the standards they adhere to are all over the map"
-
-[Link](https://www.politico.com/news/2021/07/26/agriculture-carbon-credits-500744)
+Elevation is key
 
 ---
 
-"Thousands of US firefighters are battling a blaze in California that
-has grown so big it is generating its own weather system"
+Shit is on fire
 
-[Link](http://u.afp.com/Uaa2 )
-
----
-
-"California and New York City have announced that they would require
-all government employees to get the coronavirus vaccine or face weekly
-COVID-19 testing"
+<img width="340" src="https://pbs.twimg.com/media/E7U4SfHWUAsp79H?format=png&name=small"/>
 
 ---
 
-"@fauxRayDalio
+Ventusky has good live world temparature map
 
-My bearish plays: BABA, JD and NIO. I don’t care what their growth or
-revenue is. China’s Communist Ruling Party is a scam, untrustworthy,
-and ultimately will pillage all profits from any company. American
-investors will never see a dime. My bull position: India"
+[Link](https://www.ventusky.com/?p=35.1;-17.1;3&l=feel)
 
 ---
 
-Its true
+"@Quicktake
 
-Vox: "Starbucks is sort of America’s bathroom. In cities like New
-York, where public restrooms are hard to come by, it’s the de facto
-spot to stop and pee"
-
----
-
-Whats the deal? Tali wld only get rural and was supposed to keep out
-of city centers?
-
-"U.S. Intensifies Airstrikes as Taliban Offensive Nears Kandahar"
+A scorching heat wave is bringing record-high temperatures to the
+Pacific Northwest that would normally be found in the Middle East and
+Africa"
 
 ---
 
-"US vows to support Afghan forces against Taliban"
+Automated vertical farming bitch
+
+"Oregon farmworker dies at worksite during heat wave"
+
+[Link](https://trib.al/uWoLqYy)
 
 ---
 
-"[I]f you follow the [GR] equations back in time, general relativity
-eventually stops working. Therefore, no one presently knows how the
-universe began. Indeed, we may never know. Since the days of Einstein,
-physicists have made much progress detailing the history of the
-universe. But the deeper they try to peer into our past, the more
-difficult their task becomes...
-
-The miserable status of today’s theories for the early universe makes
-me wonder whether it has already happened. Cosmologists have hundreds
-of theories, and many of those theories come in several variants. It’s
-not quite as bad as in particle physics, but the situation is similar
-in that cosmologists, too, produce loads of ill-motivated models for
-no reason other than that they can get them published. (And they
-insist this is good scientific practice. Don’t get me started.)..
-
-The currently most popular theory for the early universe is called “inflation”...
-
-Ever since the results of the Planck in 2013 it hasn’t looked good for inflation"
-
-[Link](http://backreaction.blogspot.com/2019/03/inflation-status-update.html)
+"Another intense heatwave is expected to spread across much of the
+continental US this week"
 
 ---
 
-"BioNTech wants to 'eradicate' malaria with mRNA vaccine"
+Troop deployments [update](2019/05/confstats.md#gdtroop)
+
+---
+
+NYT: "[Biden] made it clear that most of the 2,500 American troops
+currently stationed in Iraq would remain, simply reclassified on paper
+into advisory and training roles. The United States’ role, he said,
+would be “to continue to train, to assist, to help, and to deal with
+ISIS as it arrives.'..
+
+But in the conflict in Iraq, another decades-old war that many view as
+more costly than the one in Afghanistan, he sees an American presence
+as necessary, at least in part, to ward off the influence of Iran and
+the continuing threat of the Islamic State"
+
+---
+
+WSJ: "U.S. Combat Troops Will Leave Iraq This Year, Biden Says"
+
+---
+
+Wut?
+
+"Five die as India police fire at each other.. Policemen from Mizoram
+and Assam states fired at each other over a contested border"
+
+---
+
+"@Zachary
+
+@SenWarren says the longer the U.S. waits to regulate cryptocurrencies
+'the more likely they will become so intertwined in our financial
+system that there could be potentially serious consequences if this
+market comes under stress.'"
+
+---
+
+"@johnmrushing
+
+Silos—even potentially empty ones—force your opponent to expend
+weapons incapacitating them. You can’t force your opponent to expend
+weapons on forces they can’t track
+
+'@Cape_Dread
+
+I thought mobile missiles was the best way, not silos, which are fixed
+in position'"
+
+---
+
+"@A_Andromeda_guy
+
+Russia has got to have concerns about this sort of expenditure as they
+have actually fought a war against China whereas the US has not, and
+those missiles could just be easily aimed at Moscow during a border
+dispute"
+
+---
+
+"China Is Building A Second Nuclear Missile Silo Field"
+
+[Link](https://fas.org/blogs/security/2021/07/china-is-building-a-second-nuclear-missile-silo-field/)
 
 ---
 
