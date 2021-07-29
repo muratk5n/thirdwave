@@ -7,8 +7,11 @@ New Address is Here
 
 ---
 
-How abt paying back the principal part...? Is that somehow folded into
-a stock buyback scheme of borrower's company (lender -usually a broker
+How abt paying back the principal part...? Borrower still needs munee
+for that, if sold assets you are back to the original problem.
+
+Lender cld actually be selling the asset themselves, part of a stock
+buyback scheme of borrower's company maybe (lender -usually a broker
 too- sells the stock back to the company, not triggering any tax
 requirement for the borrower, or the lender)?
 
