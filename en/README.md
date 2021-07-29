@@ -66,8 +66,8 @@ hand of this new Insecurity Industry"
 
 The level of fail in analysing TR's predicament by the previous gen is
 mind-boggling. These ppl pretty much sleep walked their entire
-lives. Do the tally, noone is left unscathed.. and believe me I know
-some of their smartest. Sad.
+lives. Do the tally, almost noone is left unscathed.. and believe me I
+know some of their smartest. Sad.
 
 ---
 
