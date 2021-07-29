@@ -35,7 +35,7 @@ transfers the pledged asset back to the borrower"
 
 ---
 
-Apparently they usually borrow against their stocks of their own company
+Apparently they usually borrow against their stock portfolio of their own company
 
 "The wealthiest Americans avoided billions in taxes .. America's
 billionaires have often financed their lavish lifestyles by using
