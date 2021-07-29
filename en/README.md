@@ -15,10 +15,10 @@ buyback scheme of borrower's company maybe (lender -usually a broker
 too- sells the stock back to the company, not triggering any tax
 requirement for the borrower, or the lender)?
 
-"A pledged-asset mortgage is recommended for borrowers that have the
-cash or investments available and don't want to sell their investments
-to pay for the down payment. Selling the investments might trigger tax
-obligations to the IRS...
+"A pledged-asset mortgage [eg portfolio loan] is recommended for
+borrowers that have the cash or investments available and don't want
+to sell their investments to pay for the down payment. Selling the
+investments might trigger tax obligations to the IRS...
 
 The asset is merely collateral for the lender in the event of borrower
 default. However, for the borrower, the pledged asset could help
