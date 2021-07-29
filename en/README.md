@@ -7,9 +7,9 @@ New Address is Here
 
 ---
 
-How abt paying back the principal part...? Do they fold it into a
-stock buyback scheme of their companies (lender -usually a broker, fin
-inst- sells the stock back to the company, not triggering any tax
+How abt paying back the principal part...? Is that somehow folded into
+a stock buyback scheme of their companies (lender -usually a broker,
+fin inst- sells the stock back to the company, not triggering any tax
 requirement for the borrower, or the lender)?
 
 "A pledged-asset mortgage is recommended for borrowers that have the
