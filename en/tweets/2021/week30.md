@@ -1,5 +1,111 @@
 # Week 30
 
+I see some patches in gobble gobble that are fine..
+
+Some parts in Georgia look good..
+
+Elevation is key
+
+---
+
+Shit is on fire
+
+<img width="340" src="https://pbs.twimg.com/media/E7U4SfHWUAsp79H?format=png&name=small"/>
+
+---
+
+Ventusky has good live world temparature map
+
+[Link](https://www.ventusky.com/?p=35.1;-17.1;3&l=feel)
+
+---
+
+"@Quicktake
+
+A scorching heat wave is bringing record-high temperatures to the
+Pacific Northwest that would normally be found in the Middle East and
+Africa"
+
+---
+
+Automated vertical farming bitch
+
+"Oregon farmworker dies at worksite during heat wave"
+
+[Link](https://trib.al/uWoLqYy)
+
+---
+
+"Another intense heatwave is expected to spread across much of the
+continental US this week"
+
+---
+
+Troop deployments [update](2019/05/confstats.md#gdtroop)
+
+---
+
+NYT: "[Biden] made it clear that most of the 2,500 American troops
+currently stationed in Iraq would remain, simply reclassified on paper
+into advisory and training roles. The United States’ role, he said,
+would be “to continue to train, to assist, to help, and to deal with
+ISIS as it arrives.'..
+
+But in the conflict in Iraq, another decades-old war that many view as
+more costly than the one in Afghanistan, he sees an American presence
+as necessary, at least in part, to ward off the influence of Iran and
+the continuing threat of the Islamic State"
+
+---
+
+WSJ: "U.S. Combat Troops Will Leave Iraq This Year, Biden Says"
+
+---
+
+Wut?
+
+"Five die as India police fire at each other.. Policemen from Mizoram
+and Assam states fired at each other over a contested border"
+
+---
+
+"@Zachary
+
+@SenWarren says the longer the U.S. waits to regulate cryptocurrencies
+'the more likely they will become so intertwined in our financial
+system that there could be potentially serious consequences if this
+market comes under stress.'"
+
+---
+
+"@johnmrushing
+
+Silos—even potentially empty ones—force your opponent to expend
+weapons incapacitating them. You can’t force your opponent to expend
+weapons on forces they can’t track
+
+'@Cape_Dread
+
+I thought mobile missiles was the best way, not silos, which are fixed
+in position'"
+
+---
+
+"@A_Andromeda_guy
+
+Russia has got to have concerns about this sort of expenditure as they
+have actually fought a war against China whereas the US has not, and
+those missiles could just be easily aimed at Moscow during a border
+dispute"
+
+---
+
+"China Is Building A Second Nuclear Missile Silo Field"
+
+[Link](https://fas.org/blogs/security/2021/07/china-is-building-a-second-nuclear-missile-silo-field/)
+
+---
+
 H2goesRail
 
 [Link](https://bit.ly/3iROHbs)

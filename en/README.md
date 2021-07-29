@@ -7,110 +7,116 @@ New Address is Here
 
 ---
 
+How abt paying back the principal part...? Do they fold it into a
+stock buyback scheme of their companies (lender -usually a broker, fin
+inst- sells the stock back to the company, not triggering any tax
+requirement for the borrower, or the lender)?
 
-I see some patches in gobble gobble that are fine..
+"A pledged-asset mortgage is recommended for borrowers that have the
+cash or investments available and don't want to sell their investments
+to pay for the down payment. Selling the investments might trigger tax
+obligations to the IRS...
 
-Some parts in Georgia look good..
+The asset is merely collateral for the lender in the event of borrower
+default. However, for the borrower, the pledged asset could help
+considerably with gaining approval for the loan. Using the asset to
+secure the note may let the borrower demand a lower interest rate on
+the note then they would have had with an unsecured loan. Typically,
+pledged-asset loans provide borrowers with better interest rates than
+unsecured loans.
 
-Elevation is key
+Once the loan is paid off and the debt is fully satisfied, the lender
+transfers the pledged asset back to the borrower"
 
----
-
-Shit is on fire
-
-<img width="340" src="https://pbs.twimg.com/media/E7U4SfHWUAsp79H?format=png&name=small"/>
-
----
-
-Ventusky has good live world temparature map
-
-[Link](https://www.ventusky.com/?p=35.1;-17.1;3&l=feel)
-
----
-
-"@Quicktake
-
-A scorching heat wave is bringing record-high temperatures to the
-Pacific Northwest that would normally be found in the Middle East and
-Africa"
+[Link](https://www.investopedia.com/terms/p/pledgedasset.asp)
 
 ---
 
-Automated vertical farming bitch
+"The wealthiest Americans avoided billions in taxes .. America's
+billionaires have often financed their lavish lifestyles by using
+their vast fortunes as collateral for loans, which can come with
+single-digit interest rates"
 
-"Oregon farmworker dies at worksite during heat wave"
-
-[Link](https://trib.al/uWoLqYy)
-
----
-
-"Another intense heatwave is expected to spread across much of the
-continental US this week"
+[Link](https://www.businessinsider.com/american-billionaires-tax-avoidance-income-wealth-borrow-money-propublica-2021-6)
 
 ---
 
-Troop deployments [update](2019/05/confstats.md#gdtroop)
+Snowden: "The first thing I do when I get a new phone is take it
+apart. I don’t do this to satisfy a tinkerer’s urge, or out of
+political principle, but simply because it is unsafe to
+operate. Fixing the hardware, which is to say surgically removing the
+two or three tiny microphones hidden inside, is only the first step of
+an arduous process, and yet even after days of these DIY security
+improvements, my smartphone will remain the most dangerous item I
+possess..
+
+I can’t help but regard the arrival of the Pegasus Project as a
+turning-point—a well-researched, exhaustively-sourced, and frankly
+crazy-making story..
+
+In short, the phone in your hand exists in a state of perpetual
+insecurity, open to infection by anyone willing to put money in the
+hand of this new Insecurity Industry"
+
+[Link](https://edwardsnowden.substack.com/p/ns-oh-god-how-is-this-legal)
 
 ---
 
-NYT: "[Biden] made it clear that most of the 2,500 American troops
-currently stationed in Iraq would remain, simply reclassified on paper
-into advisory and training roles. The United States’ role, he said,
-would be “to continue to train, to assist, to help, and to deal with
-ISIS as it arrives.'..
-
-But in the conflict in Iraq, another decades-old war that many view as
-more costly than the one in Afghanistan, he sees an American presence
-as necessary, at least in part, to ward off the influence of Iran and
-the continuing threat of the Islamic State"
+The level of fail in analysing TR's predicament by the previous gen is
+mind-boggling. These ppl pretty much sleep walked their entire
+lives. Do the tally, noone is left unscathed.. and believe me I know
+some of their smartest. Sad.
 
 ---
 
-WSJ: "U.S. Combat Troops Will Leave Iraq This Year, Biden Says"
+"@toddjersey
+
+So we pay Kaiser 30,000 dollars per year for so called health
+insurance and Friday my wife brought our 16 YO in for an MRI on doctor
+recommendation (she’s fine). Copay was $200. Unreal"
 
 ---
 
-Wut?
+Super
 
-"Five die as India police fire at each other.. Policemen from Mizoram
-and Assam states fired at each other over a contested border"
+"I was the first college in my family to go to the moon" 😆
 
----
-
-"@Zachary
-
-@SenWarren says the longer the U.S. waits to regulate cryptocurrencies
-'the more likely they will become so intertwined in our financial
-system that there could be potentially serious consequences if this
-market comes under stress.'"
+[Link](https://youtu.be/-_p287UVkEw?t=50)
 
 ---
 
-"@johnmrushing
-
-Silos—even potentially empty ones—force your opponent to expend
-weapons incapacitating them. You can’t force your opponent to expend
-weapons on forces they can’t track
-
-'@Cape_Dread
-
-I thought mobile missiles was the best way, not silos, which are fixed
-in position'"
+The Guardian: "Monarch used secretive procedure to become only person
+in country not bound by a green energy rule.. The Queen’s lawyers
+secretly lobbied Scottish ministers to change a draft law to exempt
+her private land from a major initiative to cut carbon emissions,
+documents reveal"
 
 ---
 
-"@A_Andromeda_guy
-
-Russia has got to have concerns about this sort of expenditure as they
-have actually fought a war against China whereas the US has not, and
-those missiles could just be easily aimed at Moscow during a border
-dispute"
+Why do I open source? U see what's going on inside, feel better. Or
+bcz it's free, carry the code (and its associated skillset) from
+project to project, from one employment to next (next employer will
+likely also buy into it bcz it's free), so OSS gradually becomes
+everyone's favorite portable toolkit. 
 
 ---
 
-"China Is Building A Second Nuclear Missile Silo Field"
+Open Source isn't some hold-hands-kumbaya approach to software
+development. When I send a patch (or now create a 'pull request') to a
+project to fix a bug, or to improve something, I do it for selfish
+reasons. I want those changes in there so next time I get the latest
+code from that project I get the new stuff plus my changes. I
+obviously do this for project whose code I need.
 
-[Link](https://fas.org/blogs/security/2021/07/china-is-building-a-second-nuclear-missile-silo-field/)
+---
+
+"The killing of a top journalist in the Netherlands shows that drugs
+gangs are increasingly likely to use violence, a new German report
+shows"
+
+---
+
+"Greece: Extreme drought sparks forest fires"
 
 ---
 
