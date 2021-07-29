@@ -32,6 +32,8 @@ transfers the pledged asset back to the borrower"
 
 ---
 
+They usually borrow against their stocks in their own companies it seems
+
 "The wealthiest Americans avoided billions in taxes .. America's
 billionaires have often financed their lavish lifestyles by using
 their vast fortunes as collateral for loans, which can come with
