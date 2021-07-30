@@ -34,7 +34,7 @@ and eventually a suitable palette is found.
 
 ---
 
-When did the US N-word became their N-word?
+When did the US N-word become their N-word?
 
 ---
 
