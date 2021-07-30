@@ -13,7 +13,7 @@ def get_eq(minx,maxx,miny,maxy):
     req = 'https://earthquake.usgs.gov/fdsnws'
     req+='/event/1/query.geojson?starttime=%s&endtime=%s'
     req+='&minlatitude=%d&maxlatitude=%d&minlongitude=%d&maxlongitude=%d'
-    req+='&minmagnitude=4.0&orderby=time&limit=300'
+    req+='&minmagnitude=5.0&orderby=time&limit=300'
     req = req % (start.isoformat(), today.isoformat(),miny,maxy,minx,maxx)
     qr = requests.get(req).json()
     res = []
@@ -23,7 +23,7 @@ def get_eq(minx,maxx,miny,maxy):
         rad = qr['features'][i]['geometry']['coordinates'][2]
         d = datetime.datetime.fromtimestamp(qr['features'][i]['properties']['time']/1000.0)
         s = np.float(qr['features'][i]['properties']['mag'])
-        diff = (d-start).days
+        diff = (today-d).days
         res.append([d,s,lat,lon,rad,diff])
 
     df = pd.DataFrame(res).sort_values(by=0)
@@ -37,7 +37,7 @@ def get_eq(minx,maxx,miny,maxy):
 import mygeo
 
 lat,lon = 55, -137
-D = 2000
+D = 3000
 lat1,lon1 = mygeo.to_bearing(lat,lon,np.deg2rad(45),D)
 lat2,lon2 = mygeo.to_bearing(lat,lon,np.deg2rad(225),D)
 minx=np.min((lon1,lon2))
@@ -54,8 +54,11 @@ m = folium.Map(location=[lat, lon], zoom_start=3, tiles="Stamen Terrain")
 
 import folium
 for index, row in df.iterrows():
-    folium.Marker(
-        [row['lat'], row['lon']], tooltip=str(row['mag']) + " " + str(row['ago']) + " days ago"
+    color = 'blue'; opacity = 0.5
+    if float(row['mag']) > 6.0:
+       color = 'red'; opacity = 1.0
+    folium.CircleMarker(
+        [row['lat'], row['lon']], opacity=opacity, color=color, tooltip=str(row['mag']) + " " + str(row['ago']) + " days ago"
     ).add_to(m)
     
 m.save('equake-out.html')
