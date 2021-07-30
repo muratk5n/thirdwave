@@ -63,9 +63,9 @@ Can we crowd-fund and do it on our own?"
 
 ---
 
-Old user got rekt partly due to Github oddness... I coulda set things
-up little more foolproof, sure, but.. we'll see.. If shit goes awry,
-again, we'll bolt for good. 
+Old acct got messed up partly due to Github oddness... I coulda set
+things up little more foolproof, sure, but.. we'll see.. If shit goes
+awry, again, we'll bolt for good.
 
 ---
 
