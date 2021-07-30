@@ -69,8 +69,9 @@ again, we'll bolt for good.
 
 ---
 
-Sometimes they recall, then they don't want to recall.. They should've
-never had the ability in the first place.
+Sometimes they recall, then they don't want to recall..
+
+They should've never had this ability in the first place.
 
 "A majority of California likely voters would support overhauling the
 state's recall process to make it harder to remove elected officials
