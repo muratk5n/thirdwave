@@ -122,8 +122,6 @@
 
 [No-Fly Zone](03/no-fly-zone.md)
 
-[Q&A](03/q.md)
-
 [Rap Song](03/rap-song.md)
 
 [Rule of Law](03/rule-of-law.md)

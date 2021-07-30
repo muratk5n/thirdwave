@@ -192,8 +192,6 @@
 
 [Predictable](08/predictable.md)
 
-[Q&A](08/q.md)
-
 [Patent of the Month](08/stupid-patent-of-month.md)
 
 [Truth-O-Meter](08/truth-o-meter.md)
