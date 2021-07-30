@@ -21,12 +21,11 @@ Kosma - Aspekte \#music
 ---
 
 People vote on their well-being, will oscillate between choices, to a
-certain extent guided by a rough ideology -- looking at the palette of
-choices they see in front of them. They can choose, but they can't
-create those choices. Very important; customer can choose between
-iPhone, or Android, or this car or that car, but they can't create the
-car. In fact with the absence of a car, if you asked them, they would
-want a faster horse carriage.
+certain extent guided by a rough ideology -- formed by what see in
+front of them. They can choose, but they can't create choices. Like a
+customer can choose between iPhone, or Android, or this car or that
+car, but they can't create car. In the absence of a car, if you asked
+them, they would want a faster horse carriage.
 
 Thought leaders, then, must take steps to represent, politically, all
 possible choices in the political sphere. These choices will naturally
