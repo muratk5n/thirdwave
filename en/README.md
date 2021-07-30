@@ -78,12 +78,6 @@ mid-term, according to a poll released Wednesday"
 
 ---
 
-RIP
-
-<img width="340" src="https://thumbs.gfycat.com/ConfusedAshamedAfghanhound-max-1mb.gif"/>
-
----
-
 Industrial Age society, the Second Wave began in Western Europe with
 the Industrial Revolution, and subsequently spread across the
 world. Key aspects of Second Wave society are the nuclear family, a
