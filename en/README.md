@@ -7,121 +7,80 @@ New Address is Here
 
 ---
 
-How abt paying back the principal part...? Borrower still needs munee
-for that, if sold assets you are back to the original problem.
+"Almost two-thirds of businesses with a four-day week report improved
+productivity"
 
-Lender cld actually be selling the asset themselves, part of a stock
-buyback scheme of borrower's company maybe (lender -usually a broker
-too- sells the stock back to the company, not triggering any tax
-requirement for the borrower, or the lender)?
-
-"A pledged-asset mortgage [eg portfolio loan] is recommended for
-borrowers that have the cash or investments available and don't want
-to sell their investments to pay for the down payment. Selling the
-investments might trigger tax obligations to the IRS...
-
-The asset is merely collateral for the lender in the event of borrower
-default. However, for the borrower, the pledged asset could help
-considerably with gaining approval for the loan. Using the asset to
-secure the note may let the borrower demand a lower interest rate on
-the note then they would have had with an unsecured loan. Typically,
-pledged-asset loans provide borrowers with better interest rates than
-unsecured loans.
-
-Once the loan is paid off and the debt is fully satisfied, the lender
-transfers the pledged asset back to the borrower"
-
-[Link](https://www.investopedia.com/terms/p/pledgedasset.asp)
+[Link](https://mobile.twitter.com/josheidelson/status/1420747661884411904)
 
 ---
 
-Apparently they usually borrow against their stock portfolio of their own company
+Kosma - Aspekte \#music
 
-"The wealthiest Americans avoided billions in taxes .. America's
-billionaires have often financed their lavish lifestyles by using
-their vast fortunes as collateral for loans, which can come with
-single-digit interest rates"
-
-[Link](https://www.businessinsider.com/american-billionaires-tax-avoidance-income-wealth-borrow-money-propublica-2021-6)
+[Link](https://youtu.be/50-ld3ldSu8)
 
 ---
 
-Snowden: "The first thing I do when I get a new phone is take it
-apart. I don’t do this to satisfy a tinkerer’s urge, or out of
-political principle, but simply because it is unsafe to
-operate. Fixing the hardware, which is to say surgically removing the
-two or three tiny microphones hidden inside, is only the first step of
-an arduous process, and yet even after days of these DIY security
-improvements, my smartphone will remain the most dangerous item I
-possess..
+People vote on their well-being, will oscillate between choices, to a
+certain extent guided by a rough ideology -- looking at the palette of
+choices they see in front of them. They can choose, but they can't
+create those choices. Very important; customer can choose between
+iPhone, or Android, or this car or that car, but they can't create the
+car. In fact with the absence of a car, if you asked them, they would
+want a faster horse carriage.
 
-I can’t help but regard the arrival of the Pegasus Project as a
-turning-point—a well-researched, exhaustively-sourced, and frankly
-crazy-making story..
-
-In short, the phone in your hand exists in a state of perpetual
-insecurity, open to infection by anyone willing to put money in the
-hand of this new Insecurity Industry"
-
-[Link](https://edwardsnowden.substack.com/p/ns-oh-god-how-is-this-legal)
+Thought leaders, then, must take steps to represent, politically, all
+possible choices in the political sphere. These choices will naturally
+emerge within the leading group, modernity allows only so many anyway,
+and eventually a suitable palette is found. 
 
 ---
 
-The level of fail in analysing TR's predicament by the previous gen is
-mind-boggling. These ppl pretty much sleep walked their entire
-lives. Do the tally, almost noone is left unscathed.. and believe me I
-know some of their smartest. Sad.
+When did the US N-word became their N-word?
 
 ---
 
-"@toddjersey
+Which N-word? Nazi?.. Or the US version?
 
-So we pay Kaiser 30,000 dollars per year for so called health
-insurance and Friday my wife brought our 16 YO in for an MRI on doctor
-recommendation (she’s fine). Copay was $200. Unreal"
+DW: "Germany: Greens candidate Baerbock apologizes for using N-word"
 
 ---
 
-Super
+"@JeremyBWhite
 
-"I was the first college in my family to go to the moon" 😆
-
-[Link](https://youtu.be/-_p287UVkEw?t=50)
-
----
-
-The Guardian: "Monarch used secretive procedure to become only person
-in country not bound by a green energy rule.. The Queen’s lawyers
-secretly lobbied Scottish ministers to change a draft law to exempt
-her private land from a major initiative to cut carbon emissions,
-documents reveal"
+Nothing like your phone correcting a message to a government official
+from 'thanks for checking' to 'thanks for cuddling'"
 
 ---
 
-Why do I open source? U see what's going on inside, feel better. Or
-bcz it's free, carry the code (and its associated skillset) from
-project to project, from one employment to next (next employer will
-likely also buy into it bcz it's free), so OSS gradually becomes
-everyone's favorite portable toolkit. 
+"@chenna1985
+
+Instead of traveling to the space for a few minutes, how about all the
+billionaires buy Elsevier and make it a nonprofit organisation towards
+making research accessible to everyone?
+
+Or,
+Can we crowd-fund and do it on our own?"
 
 ---
 
-Open Source isn't some hold-hands-kumbaya approach to software
-development. When I send a patch (or now create a 'pull request') to a
-project to fix a bug, or to improve something, I do it for selfish
-reasons. I want those changes in there so next time I get the latest
-code from that project I get the new stuff plus my changes. I
-obviously do this for project whose code I need.
+Old user got rekt partly due to Github oddness... I coulda set things
+up little more foolproof, sure, but.. we'll see.. If shit goes awry,
+again, we'll bolt for good. 
 
 ---
 
-"The killing of a top journalist in the Netherlands shows that drugs
-gangs are increasingly likely to use violence, a new German report
-shows"
+Sometimes they recall, then they don't want to recall.. They should've
+never had the ability in the first place.
+
+"A majority of California likely voters would support overhauling the
+state's recall process to make it harder to remove elected officials
+mid-term, according to a poll released Wednesday"
 
 ---
 
-"Greece: Extreme drought sparks forest fires"
+RIP
+
+<img width="340" src="https://thumbs.gfycat.com/ConfusedAshamedAfghanhound-max-1mb.gif"/>
 
 ---
 
