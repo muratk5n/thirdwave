@@ -38,7 +38,7 @@ When did the US N-word become their N-word?
 
 ---
 
-Which N-word? Nazi?.. Or the US version?
+Which N-word? Nazi?.. Or the US one?
 
 DW: "Germany: Greens candidate Baerbock apologizes for using N-word"
 
