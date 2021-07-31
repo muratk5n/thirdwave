@@ -58,9 +58,11 @@ automated vert farm, post-apoc? Go 4 beans.
 
 Ventusky map: in China, Tibet and Qinghai have lowest temp. Xinjang,
 Beijing are cooking. Talked abt Georgia, and Northeast TR.  Northern
-Europe is fine. Map shows seaside is no panacea "but there'll be a
-breeze maan", no. In fact abt 20 km inland right from shore seems
-better than the shore itself.
+Europe is fine.
+
+Map shows seaside is no panacea "there'll be a breeze maan", no. In
+fact abt 20 km inland right from shore seems better than the shore
+itself.
 
 ---
 
