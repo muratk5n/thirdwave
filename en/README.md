@@ -7,74 +7,82 @@ New Address is Here
 
 ---
 
-"Almost two-thirds of businesses with a four-day week report improved
-productivity"
+"@CJPME
 
-[Link](https://mobile.twitter.com/josheidelson/status/1420747661884411904)
-
----
-
-Kosma - Aspekte \#music
-
-[Link](https://youtu.be/50-ld3ldSu8)
+Israeli forces have killed 78 Palestinian children in 2021. 11 were
+shot to death in the West Bank. 67 were killed in Gaza"
 
 ---
 
-People vote on their well-being, will oscillate between choices, to a
-certain extent guided by a rough ideology -- formed by what see in
-front of them. They can choose, but they can't create choices. Like a
-customer can choose between iPhone, or Android, or this car or that
-car, but they can't create car. In the absence of a car, if you asked
-them, they would want a faster horse carriage.
+Next they meet at an event become lesbian lovers, get married and pool
+their resources to create a new company.  The new company, called
+Amasoft, or..  Microzon, competes in both retail and software, they
+crush Amazon and Microsoft. Then the couple flies to space together
+and die there. The End.
 
-Thought leaders, then, must take steps to represent, politically, all
-possible choices in the political sphere. These choices will naturally
-emerge within the leading group, modernity allows only so many anyway,
-and eventually a suitable palette is found. 
+"Melinda French Gates and MacKenzie Scott, the former wives of Bill
+Gates and Jeff Bezos, respectively, have donated $40 million to four
+organizations dedicated to gender equality"
 
----
-
-When did the US N-word become their N-word?
+[Link](https://trib.al/omkIvjS )
 
 ---
 
-Which N-word? Nazi?.. Or the US one?
-
-DW: "Germany: Greens candidate Baerbock apologizes for using N-word"
+Earthquake [update](2019/05/equake-out.html)
 
 ---
 
-"@JeremyBWhite
+"@sfchronicle
 
-Nothing like your phone correcting a message to a government official
-from 'thanks for checking' to 'thanks for cuddling'"
-
----
-
-"@chenna1985
-
-Instead of traveling to the space for a few minutes, how about all the
-billionaires buy Elsevier and make it a nonprofit organisation towards
-making research accessible to everyone?
-
-Or,
-Can we crowd-fund and do it on our own?"
+The 8.2-magnitude earthquake that erupted between the Alaska Peninsula
+and the Aleutian Trench Wednesday night was the strongest
+U.S. earthquake in 50 years"
 
 ---
 
-Old acct got messed up partly due to Github oddness... I coulda set
-things up little more foolproof, sure, but.. we'll see.. If shit goes
-awry, again, we'll bolt for good.
+Dam
+
+<img width="340" src="https://pbs.twimg.com/media/E7j0i1MXMAQKGCp?format=png&name=small"/>
 
 ---
 
-Sometimes they recall, then they don't want to recall..
+ME conflict [stats](2019/05/confstats.md#gdeltme)
 
-They should've never had this ability in the first place.
+---
 
-"A majority of California likely voters would support overhauling the
-state's recall process to make it harder to remove elected officials
-mid-term, according to a poll released Wednesday"
+Magic beans. Truly; Green beans r protein heavy and green, w some
+curative effects.. Need one veg 4 TEOTWAWKI, setting up a stand-alone
+automated vert farm, post-apoc? Go 4 beans.
+
+---
+
+Ventusky map: 4 China Tibet and Qinghai are coolest. Xinjang, Beijing
+are cooking.
+
+Talked abt Georgia, and Northeast TR.  Northern Europe is fine. Map
+shows seaside is no panacea "but there'll be a breeze maan", no. In
+fact abt 20 km inland right from shore seems better than the shore
+itself.
+
+---
+
+That is so weak.. this effin theory is a complete waste of time
+
+"[Scientist Cumrun] Vafa answers the skeptics, he has just one
+argument for string theory as a predictive theory: it predicts that
+the number of spacetime dimensions is between 1 and 11"
+
+---
+
+Perfect timing for the *Foundation* series, if you know the story
+behind it.
+
+---
+
+"Perilous floods hit Italy’s Lake Como, destroying some homes and
+affecting hundreds of residents—including George Clooney"
+
+[Link](https://trib.al/BT2JDLv )
 
 ---
 

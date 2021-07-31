@@ -23,14 +23,13 @@ def get_eq(minx,maxx,miny,maxy):
         rad = qr['features'][i]['geometry']['coordinates'][2]
         d = datetime.datetime.fromtimestamp(qr['features'][i]['properties']['time']/1000.0)
         s = np.float(qr['features'][i]['properties']['mag'])
-        diff = (today-d).days
+        diff = (today-d).days+1
         res.append([d,s,lat,lon,rad,diff])
 
     df = pd.DataFrame(res).sort_values(by=0)
     df = df.set_index(0)
     df.columns = ['mag','lat','lon','rad','ago']
     return df
-
 ```
 
 ```python

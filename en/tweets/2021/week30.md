@@ -1,5 +1,76 @@
 # Week 30
 
+"Almost two-thirds of businesses with a four-day week report improved
+productivity"
+
+[Link](https://mobile.twitter.com/josheidelson/status/1420747661884411904)
+
+---
+
+Kosma - Aspekte \#music
+
+[Link](https://youtu.be/50-ld3ldSu8)
+
+---
+
+People vote on their well-being, will oscillate between choices, to a
+certain extent guided by a rough ideology -- formed by what see in
+front of them. They can choose, but they can't create choices. Like a
+customer can choose between iPhone, or Android, or this car or that
+car, but they can't create car. In the absence of a car, if you asked
+them, they would want a faster horse carriage.
+
+Thought leaders, then, must take steps to represent, politically, all
+possible choices in the political sphere. These choices will naturally
+emerge within the leading group, modernity allows only so many anyway,
+and eventually a suitable palette is found. 
+
+---
+
+When did the US N-word become their N-word?
+
+---
+
+Which N-word? Nazi?.. Or the US one?
+
+DW: "Germany: Greens candidate Baerbock apologizes for using N-word"
+
+---
+
+"@JeremyBWhite
+
+Nothing like your phone correcting a message to a government official
+from 'thanks for checking' to 'thanks for cuddling'"
+
+---
+
+"@chenna1985
+
+Instead of traveling to the space for a few minutes, how about all the
+billionaires buy Elsevier and make it a nonprofit organisation towards
+making research accessible to everyone?
+
+Or,
+Can we crowd-fund and do it on our own?"
+
+---
+
+Old acct got messed up partly due to Github oddness... I coulda set
+things up little more foolproof, sure, but.. we'll see.. If shit goes
+awry, again, we'll bolt for good.
+
+---
+
+Sometimes they recall, then they don't want to recall..
+
+They should've never had this ability in the first place.
+
+"A majority of California likely voters would support overhauling the
+state's recall process to make it harder to remove elected officials
+mid-term, according to a poll released Wednesday"
+
+---
+
 How abt paying back the principal part...? Borrower still needs munee
 for that, if sold assets you are back to the original problem.
 
