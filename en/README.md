@@ -18,6 +18,10 @@ Temp 34 feels like 39, humidity 49%. Yep.
 
 ---
 
+Absolutely, Cuba has a ruling elite.
+
+---
+
 All this "displacing the elite" talk is usually a ruse, the elite is
 not displaced but merely *replaced* by -wait or it- another elite. It
 cant work any differently within the context of modernity (second
