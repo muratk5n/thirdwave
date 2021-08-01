@@ -106,7 +106,7 @@ Minorities, cultures, assimilation... let me put it this way.  US has
 into its cultural make-up, so let's say 10% of US is culturally
 Irish. This means EVERYONE in US including the so-called "Irish
 people". They are not 100% Irish, they are also 10%. This might bother
-some, u thought you were "special", "ethnic", but you are a boring
+some, u thought you were "special", "ethnic", but you are another boring
 citizen.
 
 ---
