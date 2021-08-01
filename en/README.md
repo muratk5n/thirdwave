@@ -18,7 +18,11 @@ Temp 34 feels like 39, humidity 49%. Yep.
 
 ---
 
+---
+
 Absolutely, Cuba has a ruling elite.
+
+Second Wave, whether w capitalism or communism, has [Integrators](2011/03/integrators.md).
 
 ---
 
