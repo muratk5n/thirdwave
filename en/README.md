@@ -68,7 +68,7 @@ which can build up to a GOOOOOOAAAAAAALLLLLL!!!!!
 
 ---
 
-Bcz they are both Argentinian? Hah. Good question.
+Hah they are both Argentinian, good question.
 
 I'd say Messi comes out on top. Maradona was great but he was also a
 "flash in the pan" in many ways, he'd shine one game, than nothing for
