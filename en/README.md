@@ -49,10 +49,8 @@ US, Covid, Delta Variant
 
 Many things can be tied to self interest. Do we want ppl walking
 around coughing up a lung from treatable ilness, going bankrupt from
-med debt so they start breaking into ur house for money? You come back
-home and find some asshole trying to jimmy the lock. You'd want to
-drop kick the motherfucker.. who wants to be in that position? I
-want single-payer so desparation is reduced. M4A is smart policy (also
+med debt so they start breaking into ur house for money? I want
+single-payer so desparation is reduced. M4A is smart policy (also
 costs less).
 
 ---
