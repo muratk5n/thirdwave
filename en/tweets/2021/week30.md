@@ -1,5 +1,83 @@
 # Week 30
 
+"@CJPME
+
+Israeli forces have killed 78 Palestinian children in 2021. 11 were
+shot to death in the West Bank. 67 were killed in Gaza"
+
+---
+
+Next they meet at an event become lesbian lovers, get married and pool
+their resources to create a new company.  The new company, called
+Amasoft, or..  Microzon, competes in both retail and software, they
+crush Amazon and Microsoft. Then the couple flies to space together
+and die there. The End.
+
+"Melinda French Gates and MacKenzie Scott, the former wives of Bill
+Gates and Jeff Bezos, respectively, have donated $40 million to four
+organizations dedicated to gender equality"
+
+[Link](https://trib.al/omkIvjS )
+
+---
+
+Earthquake [update](2019/05/equake-out.html)
+
+---
+
+"@sfchronicle
+
+The 8.2-magnitude earthquake that erupted between the Alaska Peninsula
+and the Aleutian Trench Wednesday night was the strongest
+U.S. earthquake in 50 years"
+
+---
+
+Dam
+
+<img width="340" src="https://pbs.twimg.com/media/E7j0i1MXMAQKGCp?format=png&name=small"/>
+
+---
+
+ME conflict [stats](2019/05/confstats.md#gdeltme)
+
+---
+
+Magic beans. Truly; Green beans r protein heavy and green, w some
+curative effects.. Need one veg 4 TEOTWAWKI, setting up a stand-alone
+automated vert farm, post-apoc? Go 4 beans.
+
+---
+
+Ventusky map: in China, Tibet and Qinghai have lowest temp. Xinjang,
+Beijing are cooking. Talked abt Georgia, and Northeast TR.  Northern
+Europe is fine.
+
+Map shows seaside is no panacea "there'll be a breeze maan", no. It
+is as bad there as any other place.
+
+---
+
+That is so weak.. this effin theory is a complete waste of time
+
+"[Scientist Cumrun] Vafa answers the skeptics, he has just one
+argument for string theory as a predictive theory: it predicts that
+the number of spacetime dimensions is between 1 and 11"
+
+---
+
+Perfect timing for the *Foundation* series, if you know the story
+behind it.
+
+---
+
+"Perilous floods hit Italy’s Lake Como, destroying some homes and
+affecting hundreds of residents—including George Clooney"
+
+[Link](https://trib.al/BT2JDLv )
+
+---
+
 "Almost two-thirds of businesses with a four-day week report improved
 productivity"
 

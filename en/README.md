@@ -7,81 +7,107 @@ New Address is Here
 
 ---
 
-"@CJPME
-
-Israeli forces have killed 78 Palestinian children in 2021. 11 were
-shot to death in the West Bank. 67 were killed in Gaza"
-
----
-
-Next they meet at an event become lesbian lovers, get married and pool
-their resources to create a new company.  The new company, called
-Amasoft, or..  Microzon, competes in both retail and software, they
-crush Amazon and Microsoft. Then the couple flies to space together
-and die there. The End.
-
-"Melinda French Gates and MacKenzie Scott, the former wives of Bill
-Gates and Jeff Bezos, respectively, have donated $40 million to four
-organizations dedicated to gender equality"
-
-[Link](https://trib.al/omkIvjS )
+Yahoo! News: "If she filled out and submitted a [req for permission],
+Biles was covered to continue taking Ritalin in Tokyo without fear of
+arrest. So while it's impossible to determine what has caused Biles'
+[drop out..] a lack of medication is almost certainly not to blame"
 
 ---
 
-Earthquake [update](2019/05/equake-out.html)
+Temp 34 feels like 39, humidity 49%. Yep.
 
 ---
 
-"@sfchronicle
-
-The 8.2-magnitude earthquake that erupted between the Alaska Peninsula
-and the Aleutian Trench Wednesday night was the strongest
-U.S. earthquake in 50 years"
-
----
-
-Dam
-
-<img width="340" src="https://pbs.twimg.com/media/E7j0i1MXMAQKGCp?format=png&name=small"/>
+All this "displacing the elite" talk is usually a ruse, the elite is
+not displaced but merely *replaced* by -wait or it- another elite. It
+cant work any differently within the context of modernity (second
+wave)
 
 ---
 
-ME conflict [stats](2019/05/confstats.md#gdeltme)
+"Trump as populist bcz he does what ppl want"???  What the hell u
+talking abt? DT was like a self-appointed king! He knew everything
+better than you!
 
 ---
 
-Magic beans. Truly; Green beans r protein heavy and green, w some
-curative effects.. Need one veg 4 TEOTWAWKI, setting up a stand-alone
-automated vert farm, post-apoc? Go 4 beans.
+US, Covid, Delta Variant
+
+\#PlanetAmericaABC
+
+[Link](https://youtu.be/DM8wJvkRqT4?t=237)
 
 ---
 
-Ventusky map: in China, Tibet and Qinghai have lowest temp. Xinjang,
-Beijing are cooking. Talked abt Georgia, and Northeast TR.  Northern
-Europe is fine.
+Many things can be tied to self interest. Do we want ppl walking
+around coughing up a lung from treatable ilness, going bankrupt from
+med debt so they start breaking into ur house for money?
 
-Map shows seaside is no panacea "there'll be a breeze maan", no. It
-is as bad there as any other place.
-
----
-
-That is so weak.. this effin theory is a complete waste of time
-
-"[Scientist Cumrun] Vafa answers the skeptics, he has just one
-argument for string theory as a predictive theory: it predicts that
-the number of spacetime dimensions is between 1 and 11"
+M4A is smart policy (also costs less).
 
 ---
 
-Perfect timing for the *Foundation* series, if you know the story
-behind it.
+"@Redistrict
+
+One thing Trump's endorsement isn't doing so far in 2021: helping his
+chosen candidates raise money. Between Susan Wright (R) in #TX06 and
+Mike Carey (R) in #OH15, his candidates are getting significantly
+outspent"
 
 ---
 
-"Perilous floods hit Italy’s Lake Como, destroying some homes and
-affecting hundreds of residents—including George Clooney"
+Yeah Maradona could run circles around 7 guys and score, but how many
+times can you pull that shit off?
 
-[Link](https://trib.al/BT2JDLv )
+---
+
+Football utilizes many of the greater-sum concepts these days; pay
+attn to how players pass eachother, there is a certain pattern, there
+are triangles, they advance through little passes, piece by piece,
+which can build up to a GOOOOOOAAAAAAALLLLLL!!!!!
+
+---
+
+Bcz they are both Argentinian? Hah. Good question.
+
+I'd say Messi comes out on top. Maradona was great but he was also a
+"flash in the pan" in many ways, he'd shine one game, than nothing for
+many others... Messi is a professional. Delivers solid performance in
+every game. Team player.
+
+"How does Messi measure up to Maradona?"
+
+---
+
+Where did I get that UNICEF number: "every day 19,000 children die
+from preventable causes"? I saw it on a commercial with football
+player Messi.
+
+---
+
+Guy has a mad hatter look to him too. Is he getting pulled toward the
+Cuck Side?
+
+---
+
+Some say Feige is behind the kerkuffle.. He did well with the MCU
+pre-2020, but the new crop of stuff don't look so good..
+
+---
+
+IMO the movie was a dud
+
+"Disney is sued over streaming of Black Widow"
+
+---
+
+Minorities, cultures, assimilation... let me put it this way.  US has
+10% of its population with Irish ancestry. This probably translated
+into its cultural make-up, so let's say 10% of US is culturally
+Irish. This means EVERYONE in US including the so-called "Irish
+people". They are not 100% Irish, they are also 10%. This might bother
+some, u thought you were "special", "ethnic", but you are a boring
+citizen.
 
 ---
 
