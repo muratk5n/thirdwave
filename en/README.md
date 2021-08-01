@@ -26,7 +26,7 @@ wave)
 ---
 
 "Trump as populist bcz he does what ppl want"???  What the hell u
-talking abt? DT was like a self-appointed king! He knew everything
+talking abt? DT was like a self-proclaimed king! He knew everything
 better than you!
 
 ---
