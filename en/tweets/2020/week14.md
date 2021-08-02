@@ -791,9 +791,7 @@ print (yf.get_EVEbit('MSFT'))
 17.79
 ```
 
-New util [code](yf.py), other scraper fails.
-
-(New: now this code fails too see 2021 version)
+(New: `yf.py` fails, see the 2021 version)
 
 ---
 
