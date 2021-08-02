@@ -7,6 +7,13 @@ New Address is Here
 
 ---
 
+Why? There are TCO benefits, training, maintanance all become easier
+if one optimal tech can handle all.
+
+Plus there isn't enough lithium to go around; clearly an inferior solution.
+
+---
+
 H2 can do trucks, ships, airplanes.. And the solution that can handle
 all cases, will displace one that can handle a few cases.
 
