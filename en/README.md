@@ -29,21 +29,25 @@ back home and push her leftward on their most burning issues"
 
 ---
 
-"French leftists unite with Greens to avoid 2022 repeat of the
+F24: "French leftists unite with Greens to avoid 2022 repeat of the
 Macron-Le Pen presidential duel"
 
 ---
 
-"Italy and France see rise in vaccinations despite resistance to
+F24: "Italy and France see rise in vaccinations despite resistance to
 Covid-19 'health pass'"
 
 ---
 
+For all time, it is US, China, UK, Japan, Germany, India, Russia,
+France, Canada. These countries caused the most carbon pollution. They
+are *guilty*. They caused our current predicament. Now they need to
+bend over backwards to help the rest.
+
+---
+
 For 2014 China was the [worst](2021/07/historical-carbon-emissions.md)
-polluter. For all time, it is US, China, UK, Japan, Germany, India,
-Russia, France, Canada. These countries caused the most carbon
-pollution. They are *guilty*. They caused our current predicament. Now
-they need to bend over backwards to help the rest.
+polluter. 
 
 "Behind the Rise of U.S. Solar Power, a Mountain of Chinese
 Coal.. Reliance on coal-fired electricity to produce solar panels
