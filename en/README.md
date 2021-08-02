@@ -8,8 +8,7 @@ New Address is Here
 ---
 
 H2 can do trucks, ships, airplanes.. And the solution that can handle
-all cases, will displace ones that can handle a few.. The one ring to
-rule them all..
+all cases, will displace ones that can handle a few.. 
 
 <iframe width="340"  src="https://www.youtube.com/embed/sZlHFKaKJU0?start=152&end=373" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
