@@ -7,114 +7,71 @@ New Address is Here
 
 ---
 
-Yahoo! News: "If she filled out and submitted a [req for permission],
-Biles was covered to continue taking Ritalin in Tokyo without fear of
-arrest. So while it's impossible to determine what has caused Biles'
-[drop out..] a lack of medication is almost certainly not to blame"
+H2 can do trucks, ships, airplanes.. And the solution that can handle
+all cases, will displace ones that can handle a few..
+
+<iframe width="340"  src="https://www.youtube.com/embed/sZlHFKaKJU0?start=152&end=373" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-Temp 34 feels like 39, humidity 49%. Yep.
+TDB: "Sen. Mitch McConnell (R-KY) is apparently tired of his GOP
+colleagues bashing COVID-19 vaccines—and he’s planning to act on it at
+home. The Republican lawmaker used funds from his re-election campaign
+to purchase ads on more than 100 Kentucky radio stations encouraging
+people to get the vaccine"
 
 ---
 
----
-
-Absolutely, Cuba has a ruling elite.
-
-Second Wave, whether w capitalism or communism, has [Integrators](2011/03/integrators.md).
-
----
-
-All this "displacing the elite" talk is usually a ruse, the elite is
-not displaced but merely *replaced* by -wait or it- another elite. It
-cant work any differently within the context of modernity (second
-wave)
+The Daily Beast: "New Dem Ad Campaign Tells Sen. Sinema: You’re ‘the
+Problem’.. Sen. Kyrsten Sinema is facing a fresh round of attacks from
+progressives aiming to turn up the pressure on the moderate Democrat
+back home and push her leftward on their most burning issues"
 
 ---
 
-"Trump as populist bcz he does what ppl want"???  What the hell u
-talking abt? DT was like a self-proclaimed king! He knew everything
-better than you!
+Accelerated eh? Heard tech guy on F24 pick up on this too. That is
+strange. Strenghtens the extraterrestrial theory.
+
+"[I]t soon became clear that 'Oumuamua was suitably strange. Two
+things in particular fixated scientists... The first was its
+mysterious acceleration away from the Sun, which was hard to reconcile
+with many ideas about what it might have been made of"
 
 ---
 
-US, Covid, Delta Variant
-
-\#PlanetAmericaABC
-
-[Link](https://youtu.be/DM8wJvkRqT4?t=237)
+"French leftists unite with Greens to avoid 2022 repeat of the
+Macron-Le Pen presidential duel"
 
 ---
 
-Many things can be tied to self interest. Do we want ppl walking
-around coughing up a lung from treatable ilness, going bankrupt from
-med debt so they start breaking into ur house for money? I want
-single-payer so desparation is reduced. M4A is smart policy.
+"Italy and France see rise in vaccinations despite resistance to
+Covid-19 'health pass'"
 
 ---
 
-"@Redistrict
+For 2014 China was the [worst](2021/07/historical-carbon-emissions.md)
+polluter. For all time, it is US, China, UK, Japan, Germany, India,
+Russia, France, Canada. These countries caused the most carbon
+pollution. They are *guilty*. They caused our current predicament. Now
+they need to bend over backwards to help the rest.
 
-One thing Trump's endorsement isn't doing so far in 2021: helping his
-chosen candidates raise money. Between Susan Wright (R) in #TX06 and
-Mike Carey (R) in #OH15, his candidates are getting significantly
-outspent"
-
----
-
-Yeah Maradona could run circles around 7 guys and score, but how many
-times can you pull that shit off?
+"Behind the Rise of U.S. Solar Power, a Mountain of Chinese
+Coal.. Reliance on coal-fired electricity to produce solar panels
+raises concerns in the West"
 
 ---
 
-Football utilizes many of the greater-sum concepts these days; pay
-attn to how players pass eachother, there is a certain pattern, there
-are triangles, they advance through little passes, piece by piece,
-which can build up to a GOOOOOOAAAAAAALLLLLL!!!!!
+"A Popular Bet on Chinese Growth Is Falling Out of Favor"
 
 ---
 
-Hah they are both Argentinian, good question.
-
-I'd say Messi comes out on top. Maradona was great but he was also a
-"flash in the pan" in many ways, he'd shine one game, than nothing for
-many others... Messi is a professional. Delivers solid performance in
-every game. Team player.
-
-"How does Messi measure up to Maradona?"
-
----
-
-Where did I get that UNICEF number: "every day 19,000 children die
-from preventable causes"? I saw it on a commercial with football
-player Messi.
-
----
-
-Guy has a mad hatter look to him too. Is he getting pulled toward the
-Cuck Side?
-
----
-
-Some say Feige is behind the kerkuffle.. He did well with the MCU
-pre-2020, but the new crop of stuff don't look so good..
-
----
-
-IMO the movie was a dud
-
-"Disney is sued over streaming of Black Widow"
-
----
-
-Minorities, cultures, assimilation... let me put it this way.  US has
-10% of its population with Irish ancestry. This probably translated
-into its cultural make-up, so let's say 10% of US is culturally
-Irish. This means EVERYONE in US including the so-called "Irish
-people". They are not 100% Irish, they are also 10%. This might bother
-some, u thought you were "special", "ethnic", but you are another boring
-citizen.
+Glad Google shares Gdelt files.. But is it AI? Sadly no.. The task is
+excruciatingly simple, look at a text, figure out who did what to
+whom, where. Yet GDT fails in these tasks at times that are laughable
+to a human... I look at the doc it clearly say attack was in
+N. Iraq. GDT assigns N. Syria. Attacker is IS, it says AFG, as in
+gov. You know the shit is SOTA. It's Google! Their *main job* is
+NLP. Yet SOTA aint good enough.
 
 ---
 

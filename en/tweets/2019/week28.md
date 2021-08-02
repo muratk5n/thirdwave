@@ -512,13 +512,6 @@ RIP
 
 ---
 
-Haha.. this guy is the ultimate un-tuber. He makes videos like "SETI
-project (looking for alien signals) found
-NOTHING. https://youtu.be/-kJ68zq0pC8. Or this, it one says Oumuamua
-was NOT an alien sail. https://youtu.be/zHHXTd18J7k
-
----
-
 You say much of "Asimo [robot] is overly controlled. Humans and many
 species in nature evolved to be underactuated, that is guiding their
 system with minimal control". Does this relate to waves and life?

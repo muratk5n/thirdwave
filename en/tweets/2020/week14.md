@@ -775,7 +775,8 @@ segment of voters - and his effort to persuade them to support
 
 ---
 
-Enterprise Value / EBITDA to check bubbleness. Good stuff. [@Hedgeeye](https://twitter.com/KeithMcCullough/status/1244239756151709703/photo/1)
+Enterprise Value / EBITDA to check bubbleness. Good stuff.
+[@Hedgeeye](https://twitter.com/KeithMcCullough/status/1244239756151709703/photo/1)
 
 Values over 10 near 20 signals bubbleness.
 
