@@ -72,8 +72,8 @@ task is excruciatingly simple, look at a text, figure out who did what
 to whom, where. Yet GDT fails in these tasks at times that are
 laughable to a human... I look at the doc it clearly say attack was in
 Libya. GDT assigns N. Syria. Attacker is IS, it says AFG, as in
-gov. You know the shit is SOTA. It's Google! Their *main job* is
-NLP. Yet SOTA aint good enough.
+gov. You know the shit is state-of-the-art. It's Google! Their *main
+job* is NLP. Yet SOTA aint good enough.
 
 ---
 
