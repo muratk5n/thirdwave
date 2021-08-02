@@ -59,10 +59,10 @@ raises concerns in the West"
 
 ---
 
-Glad Google shares Gdelt files.. But is it AI? Sadly no.. The task is
-excruciatingly simple, look at a text, figure out who did what to
-whom, where. Yet GDT fails in these tasks at times that are laughable
-to a human... I look at the doc it clearly say attack was in
+Great that Google shares GDELT files.. But is it AI? Sadly no. The
+task is excruciatingly simple, look at a text, figure out who did what
+to whom, where. Yet GDT fails in these tasks at times that are
+laughable to a human... I look at the doc it clearly say attack was in
 N. Iraq. GDT assigns N. Syria. Attacker is IS, it says AFG, as in
 gov. You know the shit is SOTA. It's Google! Their *main job* is
 NLP. Yet SOTA aint good enough.
