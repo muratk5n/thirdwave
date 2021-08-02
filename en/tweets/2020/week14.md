@@ -793,6 +793,8 @@ print (yf.get_EVEbit('MSFT'))
 
 New util [code](yf.py), other scraper fails.
 
+(New: now this code fails too see 2021 version)
+
 ---
 
 "@wesbury
