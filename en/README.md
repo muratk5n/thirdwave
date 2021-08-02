@@ -29,16 +29,6 @@ back home and push her leftward on their most burning issues"
 
 ---
 
-Accelerated eh? Heard tech guy on F24 pick up on this too. That is
-strange. Strenghtens the extraterrestrial theory.
-
-"[I]t soon became clear that 'Oumuamua was suitably strange. Two
-things in particular fixated scientists... The first was its
-mysterious acceleration away from the Sun, which was hard to reconcile
-with many ideas about what it might have been made of"
-
----
-
 "French leftists unite with Greens to avoid 2022 repeat of the
 Macron-Le Pen presidential duel"
 
