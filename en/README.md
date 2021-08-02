@@ -10,7 +10,8 @@ New Address is Here
 Why? There are TCO benefits, training, maintanance all become easier
 if one optimal tech can handle all.
 
-Plus there isn't enough lithium to go around; clearly an inferior solution.
+Plus there isn't enough lithium to go around. That is an hard limit
+that cannot be overcome. 
 
 ---
 
