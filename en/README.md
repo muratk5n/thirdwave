@@ -33,7 +33,7 @@ Jane's Defense: "German frigate begins seven-month deployment to Indo-Pacific re
 
 Is *Starship Troopers* satire..? In parts, yes.. It starts out with
 some post-Vietnam, anti-war feel. But it ends with a World War II
-bruhaha, ie *Band of Brothers*.. By the end, the viewer will feel
+bruhaha, ie *Band of Brothers* jive.. By the end, the viewer will feel
 happy the way the heroes moved up the ranks, former drill sargeant
 saluting his student, a "brain bug" having been cought and more "ass
 kicking" on the way.
