@@ -265,33 +265,6 @@ the whole thing..
 
 ---
 
-EPA: "Methane is also a greenhouse gas (GHG), so its presence in the
-atmosphere affects the earth's temperature and climate system. Methane
-is emitted from a variety of anthropogenic (human-influenced) and
-natural sources. ... Methane is more than 25 times as potent as carbon
-dioxide at trapping heat in the atmosphere"
-
----
-
-BTW all carbon, or GHG emitting rocket fuels need to be banned, eg
-methane. New Shep used liquid H2 but I believe their bigger rocket,
-and some others in the same scale will use methane - not good.
-
----
-
-BO demonstrated some capability, more than Virgin perhaps. New Shep
-took off on its own, wout riding any other vehicle, then the booster
-part returned.. There are more pieces here that can be built up for
-grander goals.
-
----
-
-Blue Origin rocket used liquid H2. Clean fuel.
-
-No you cannot go to space with batteries. Inferior technology.
-
----
-
 Good to know
 
 JH: "A fluid may appear in the form of a liquid like water or a gas
@@ -542,6 +515,33 @@ bad. Policy judgement, not so much.
 Adams was beaten by the police when young. Dam. 
 
 [Link](https://www.facebook.com/abcplanetamerica/videos/extended-interview-eric-adams/574640500142229/)
+
+---
+
+EPA: "Methane is also a greenhouse gas (GHG), so its presence in the
+atmosphere affects the earth's temperature and climate system. Methane
+is emitted from a variety of anthropogenic (human-influenced) and
+natural sources. ... Methane is more than 25 times as potent as carbon
+dioxide at trapping heat in the atmosphere"
+
+---
+
+BTW all carbon, or GHG emitting rocket fuels need to be banned, eg
+methane. New Shep used liquid H2 but I believe their bigger rocket,
+and some others in the same scale will use methane - not good.
+
+---
+
+BO demonstrated some capability, more than Virgin perhaps. New Shep
+took off on its own, wout riding any other vehicle, then the booster
+part returned.. There are more pieces here that can be built up for
+grander goals.
+
+---
+
+Blue Origin rocket used liquid H2. Clean fuel.
+
+No you cannot go to space with batteries. Inferior technology.
 
 ---
 

@@ -1,5 +1,75 @@
 # Week 31
 
+Why? There are TCO benefits, training, maintanance all become easier
+if one optimal tech can handle all.
+
+Plus there isn't enough lithium to go around. That is an hard limit
+that cannot be overcome. 
+
+---
+
+H2 can do trucks, ships, airplanes.. And the solution that can handle
+all cases, will displace one that can handle a few cases.
+
+<iframe width="340"  src="https://www.youtube.com/embed/sZlHFKaKJU0?start=152&end=373" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+TDB: "Sen. Mitch McConnell (R-KY) is apparently tired of his GOP
+colleagues bashing COVID-19 vaccines—and he’s planning to act on it at
+home. The Republican lawmaker used funds from his re-election campaign
+to purchase ads on more than 100 Kentucky radio stations encouraging
+people to get the vaccine"
+
+---
+
+The Daily Beast: "New Dem Ad Campaign Tells Sen. Sinema: You’re ‘the
+Problem’.. Sen. Kyrsten Sinema is facing a fresh round of attacks from
+progressives aiming to turn up the pressure on the moderate Democrat
+back home and push her leftward on their most burning issues"
+
+---
+
+F24: "French leftists unite with Greens to avoid 2022 repeat of the
+Macron-Le Pen presidential duel"
+
+---
+
+F24: "Italy and France see rise in vaccinations despite resistance to
+Covid-19 'health pass'"
+
+---
+
+For all time, it is US, China, UK, Japan, Germany, India, Russia,
+France, Canada. These countries caused the most carbon pollution. They
+are *guilty*. They caused our current predicament. Now they need to
+bend over backwards to help the rest.
+
+---
+
+For 2014 China was the [worst](2021/07/historical-carbon-emissions.md)
+polluter. 
+
+"Behind the Rise of U.S. Solar Power, a Mountain of Chinese
+Coal.. Reliance on coal-fired electricity to produce solar panels
+raises concerns in the West"
+
+---
+
+"A Popular Bet on Chinese Growth Is Falling Out of Favor"
+
+---
+
+Great that Google shares GDELT files.. But is it AI? Sadly no. The
+task is excruciatingly simple, look at a text, figure out who did what
+to whom, where. Yet GDT fails in these tasks at times that are
+laughable to a human... I look at the doc it clearly say attack was in
+Libya. GDT assigns N. Syria. Attacker is IS, it says AFG, as in
+gov. You know the shit is state-of-the-art. It's Google! Their *main
+job* is NLP. Yet SOTA aint good enough.
+
+---
+
 Yahoo! News: "If she filled out and submitted a [req for permission],
 Biles was covered to continue taking Ritalin in Tokyo without fear of
 arrest. So while it's impossible to determine what has caused Biles'

@@ -7,73 +7,69 @@ New Address is Here
 
 ---
 
-Why? There are TCO benefits, training, maintanance all become easier
-if one optimal tech can handle all.
 
-Plus there isn't enough lithium to go around. That is an hard limit
-that cannot be overcome. 
+"@josheidelson
 
----
+Breaking: Labor Board hearing officer is recommending the Amazon union
+vote be thrown out and a new election be held in Bessemer, Alabama"
 
-H2 can do trucks, ships, airplanes.. And the solution that can handle
-all cases, will displace one that can handle a few cases.
-
-<iframe width="340"  src="https://www.youtube.com/embed/sZlHFKaKJU0?start=152&end=373" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-TDB: "Sen. Mitch McConnell (R-KY) is apparently tired of his GOP
-colleagues bashing COVID-19 vaccines—and he’s planning to act on it at
-home. The Republican lawmaker used funds from his re-election campaign
-to purchase ads on more than 100 Kentucky radio stations encouraging
-people to get the vaccine"
+Qatar and Egypt are buddy buddy again..?
+
+"@MiddleEastMnt
+
+Qatar’s Al Jazeera television broadcasts live from Egypt after
+8-year hiatus"
 
 ---
 
-The Daily Beast: "New Dem Ad Campaign Tells Sen. Sinema: You’re ‘the
-Problem’.. Sen. Kyrsten Sinema is facing a fresh round of attacks from
-progressives aiming to turn up the pressure on the moderate Democrat
-back home and push her leftward on their most burning issues"
+Frigate.. for anti-sub work surely
+
+Jane's Defense: "German frigate begins seven-month deployment to Indo-Pacific region"
 
 ---
 
-F24: "French leftists unite with Greens to avoid 2022 repeat of the
-Macron-Le Pen presidential duel"
+Is *Starship Troopers* satire..? Sort of. It starts out with some
+post-Vietnam, anti-war feel, but ends with a World War II bruhaha, ie
+*Band of Brothers*.. By the end, the viewer will feel happy the way
+the heroes moved up the ranks, former drill sargeant saluting his
+student, a "brain bug" having been cought and more "ass kicking" on
+the way.   
 
 ---
 
-F24: "Italy and France see rise in vaccinations despite resistance to
-Covid-19 'health pass'"
+Wilshire is at 218. Overbought all around.
 
 ---
 
-For all time, it is US, China, UK, Japan, Germany, India, Russia,
-France, Canada. These countries caused the most carbon pollution. They
-are *guilty*. They caused our current predicament. Now they need to
-bend over backwards to help the rest.
+```python
+r1 = yf.get_financials("AMZN")
+r2 = yf.get_financials("MSFT")
+r1["Enterprise Value/EBITDA"], r2["Enterprise Value/EBITDA"]
+```
+
+```text
+Out[1]: ('28.67', '25.90')
+```
+
+Enterprise Value/EBITDA values over 10 indicates bubble, no?
 
 ---
 
-For 2014 China was the [worst](2021/07/historical-carbon-emissions.md)
-polluter. 
-
-"Behind the Rise of U.S. Solar Power, a Mountain of Chinese
-Coal.. Reliance on coal-fired electricity to produce solar panels
-raises concerns in the West"
+New scraper [code](yf.py)
 
 ---
 
-"A Popular Bet on Chinese Growth Is Falling Out of Favor"
+Comp financial statement scraper from last year stopped working? It
+seems every year I am rewriting this thing..
 
 ---
 
-Great that Google shares GDELT files.. But is it AI? Sadly no. The
-task is excruciatingly simple, look at a text, figure out who did what
-to whom, where. Yet GDT fails in these tasks at times that are
-laughable to a human... I look at the doc it clearly say attack was in
-Libya. GDT assigns N. Syria. Attacker is IS, it says AFG, as in
-gov. You know the shit is state-of-the-art. It's Google! Their *main
-job* is NLP. Yet SOTA aint good enough.
+🤣 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">when is half-life 4 coming out</p>&mdash; Riker Googling (@RikerGoogling) <a href="https://twitter.com/RikerGoogling/status/1421933894975197185?ref_src=twsrc%5Etfw">August 1, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
