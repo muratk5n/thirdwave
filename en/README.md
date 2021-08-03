@@ -59,7 +59,7 @@ Enterprise Value/EBITDA values over 10 indicates bubble, no?
 
 ---
 
-New scraper [code](yf.py)
+New scraper [code](tweets/2021/yf.py)
 
 ---
 
