@@ -45,6 +45,7 @@ Wilshire is at 218. Overbought all around.
 ---
 
 ```python
+import yf
 r1 = yf.get_financials("AMZN")
 r2 = yf.get_financials("MSFT")
 r1["Enterprise Value/EBITDA"], r2["Enterprise Value/EBITDA"]
