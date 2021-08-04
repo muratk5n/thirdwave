@@ -28,11 +28,16 @@ whatever they want from Brasil, Spain, etc.
 
 ---
 
+Right; theoretically you need more money to cover a company's debt,
+but its cash would now belong to you (subtract).
+
 "[EV is calculated by] multiplying the company's outstanding shares by
 the current market price of one share [market cap, .. to] this number,
 add the company's total long-term and short-term debt. Lastly,
 subtract the company's cash and cash equivalents.. This result shows
-how much money would be needed to buy an entire company."
+how much money would be needed to buy an entire company. The
+enterprise value calculates the theoretical takeover price one company
+would need to pay to acquire another company."
 
 [Link](https://www.investopedia.com/ask/answers/072715/what-considered-healthy-evebitda.asp)
 
