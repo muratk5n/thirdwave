@@ -42,6 +42,7 @@ would need to pay to acquire another company."
 ```python
 import yf
 yf.get_financials("NKLA")
+res["Enterprise Value/EBITDA"]
 ```
 
 ```text
