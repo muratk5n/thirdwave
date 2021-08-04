@@ -1,5 +1,71 @@
 # Week 31
 
+"@josheidelson
+
+Breaking: Labor Board hearing officer is recommending the Amazon union
+vote be thrown out and a new election be held in Bessemer, Alabama"
+
+
+---
+
+Qatar and Egypt are buddy buddy again..?
+
+"@MiddleEastMnt
+
+Qatar’s Al Jazeera television broadcasts live from Egypt after
+8-year hiatus"
+
+---
+
+Frigate.. for anti-sub work surely
+
+Jane's Defense: "German frigate begins seven-month deployment to Indo-Pacific region"
+
+---
+
+Is *Starship Troopers* satire..? In parts, yes.. It starts out with
+some post-Vietnam, anti-war feel. But it ends with a World War II
+bruhaha, ie *Band of Brothers* jive.. By the end, the viewer will feel
+happy the way the heroes moved up the ranks, former drill sargeant
+saluting his student, a "brain bug" having been cought and more "ass
+kicking" on the way.
+
+---
+
+Wilshire is at 218. Overbought all around.
+
+---
+
+```python
+import yf
+r1 = yf.get_financials("AMZN")
+r2 = yf.get_financials("MSFT")
+r1["Enterprise Value/EBITDA"], r2["Enterprise Value/EBITDA"]
+```
+
+```text
+Out[1]: ('28.67', '25.90')
+```
+
+Enterprise Value/EBITDA values over 10 indicates bubble, no?
+
+---
+
+New scraper [code](tweets/2021/yf.py)
+
+---
+
+Comp financial statement scraper from last year stopped working? It
+seems every year I am rewriting this thing..
+
+---
+
+🤣 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">when is half-life 4 coming out</p>&mdash; Riker Googling (@RikerGoogling) <a href="https://twitter.com/RikerGoogling/status/1421933894975197185?ref_src=twsrc%5Etfw">August 1, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 Why? There are TCO benefits, training, maintanance all become easier
 if one optimal tech can handle all.
 

@@ -7,70 +7,105 @@ New Address is Here
 
 ---
 
+"India’s Top Carmaker .. Chairman said that the use of hydrogen power
+for mobility is an 'interesting alternative' for India, especially as
+it would reduce dependence on lithium imports"
 
-"@josheidelson
-
-Breaking: Labor Board hearing officer is recommending the Amazon union
-vote be thrown out and a new election be held in Bessemer, Alabama"
-
-
----
-
-Qatar and Egypt are buddy buddy again..?
-
-"@MiddleEastMnt
-
-Qatar’s Al Jazeera television broadcasts live from Egypt after
-8-year hiatus"
+[Link](https://wtvbam.com/2021/08/02/indias-top-carmaker-sees-hydrogen-as-interesting-alternative/)
 
 ---
 
-Frigate.. for anti-sub work surely
+"@Zachary
 
-Jane's Defense: "German frigate begins seven-month deployment to Indo-Pacific region"
-
----
-
-Is *Starship Troopers* satire..? In parts, yes.. It starts out with
-some post-Vietnam, anti-war feel. But it ends with a World War II
-bruhaha, ie *Band of Brothers* jive.. By the end, the viewer will feel
-happy the way the heroes moved up the ranks, former drill sargeant
-saluting his student, a "brain bug" having been cought and more "ass
-kicking" on the way.
+SEC Gary Gensler says lawmakers should give his agency more power to
+police the cryptocurrency market, which he says is rife with fraud,
+scams and abuse"
 
 ---
 
-Wilshire is at 218. Overbought all around.
+It's an ambargo right, not a *blockade*, on Cuba. They can still buy
+whatever they want from Brasil, Spain, whereever.
+
+---
+
+EV is [calculated](https://www.investopedia.com/ask/answers/072715/what-considered-healthy-evebitda.asp)
+by "multiplying the company's outstanding shares by
+the current market price of one share [market cap, .. to] this number,
+add the company's total long-term and short-term debt. Lastly,
+subtract the company's cash and cash equivalents"
 
 ---
 
 ```python
 import yf
-r1 = yf.get_financials("AMZN")
-r2 = yf.get_financials("MSFT")
-r1["Enterprise Value/EBITDA"], r2["Enterprise Value/EBITDA"]
+res = yf.get_financials("NKLA")
+res["Enterprise Value/EBITDA"]
 ```
 
 ```text
-Out[1]: ('28.67', '25.90')
+Out[1]: -8.72
 ```
 
-Enterprise Value/EBITDA values over 10 indicates bubble, no?
+Negative? Bcz they dont have debt, and lots of cash in hand?
 
 ---
 
-New scraper [code](tweets/2021/yf.py)
+Earnings season.. How is NKLA doing?
 
 ---
 
-Comp financial statement scraper from last year stopped working? It
-seems every year I am rewriting this thing..
+"Zoom school" is no good. Ed can be based on prerecorded lecture
+videos. There is a difference. In one there is an average quality
+jackass waving his arms online, syncronized, in the other there is
+animation-augmented high quality content/teacher potentially teaching
+millions, asynchronized, offline. Priority should be low-income kids
+wout access to quality education.
 
 ---
 
-🤣 
+Politico: "Trump-backed candidate loses in Texas special election"
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">when is half-life 4 coming out</p>&mdash; Riker Googling (@RikerGoogling) <a href="https://twitter.com/RikerGoogling/status/1421933894975197185?ref_src=twsrc%5Etfw">August 1, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+---
+
+I heard her husband bugged out of the country too. They might come
+after him just bcz of the wife.. That's how these ppl operate right,
+"cynical" they say?
+
+"Polish authorities on Monday granted a humanitarian visa to a
+Belarusian Olympic sprinter in Tokyo to seek political asylum in
+Poland after she alleged her team’s officials were trying to force her
+to fly home to Belarus against her wishes."
+
+---
+
+"@perrybaconjr
+
+The multimillion dollar campaign to keep Democrat Nina Turner out of
+the House, punctuated by the No. 3 Democrat in the chamber campaigning
+against her this weekend, has been a bit much. There's a better way
+for the Democrats' factions to share power"
+
+---
+
+You think that's a burn but it really isn't
+
+[Link](https://pbs.twimg.com/media/E74eCNiWYAYzKIN?format=png&name=small)
+
+---
+
+Right, he is a "platformer". Platform away.
+
+---
+
+"Lots of people say good things abt South African apartheid, so I will
+say more of that other stuff". Or vica versa. Who thinks this way?
+Cant you judge the shit on its on merits or lack thereof? 
+
+---
+
+Guy wanting to come across as "balanced", so ponders "nuclear". Style
+should not drive substance.. Sometimes u can drop all other options
+except one, if that one is optimal enough. 
 
 ---
 
