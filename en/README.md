@@ -55,11 +55,11 @@ Earnings season.. How is NKLA doing?
 ---
 
 "Zoom school" is no good. Ed can be based on prerecorded lecture
-videos. There is a difference. In one there is an average quality
-jackass waving his arms online, syncronized, in the other there is
-animation-augmented high quality content/teacher potentially teaching
-millions, asynchronized, offline. Priority should be low-income kids
-wout access to quality education.
+videos. The approaches are different. In one there is an average
+quality jackass waving his arms online, syncronized, in the other
+there is animation-augmented high quality content/teacher potentially
+teaching millions, asynchronized, offline. Priority should be
+low-income kids wout access to quality education.
 
 ---
 
