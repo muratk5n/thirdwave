@@ -28,7 +28,7 @@ whatever they want from Brasil, Spain, etc.
 
 ---
 
-"[EV is calculated] multiplying the company's outstanding shares by
+"[EV is calculated by] multiplying the company's outstanding shares by
 the current market price of one share [market cap, .. to] this number,
 add the company's total long-term and short-term debt. Lastly,
 subtract the company's cash and cash equivalents.. This result shows
