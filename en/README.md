@@ -93,22 +93,6 @@ You think that's a burn but it really isn't
 
 ---
 
-Right, he is a "platformer". Platform away.
-
----
-
-"Lots of people say good things abt South African apartheid, so I will
-say more of that other stuff". Or vica versa. Who thinks this way?
-Cant you judge the shit on its on merits or lack thereof? 
-
----
-
-Guy wanting to come across as "balanced", so ponders "nuclear". Style
-should not drive substance.. Sometimes u can drop all other options
-except one, if that one is optimal enough. 
-
----
-
 Industrial Age society, the Second Wave began in Western Europe with
 the Industrial Revolution, and subsequently spread across the
 world. Key aspects of Second Wave society are the nuclear family, a
