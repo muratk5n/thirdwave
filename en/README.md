@@ -70,10 +70,6 @@ low-income kids wout access to quality education.
 
 ---
 
-Politico: "Trump-backed candidate loses in Texas special election"
-
----
-
 I heard her husband bugged out of the country too. They might come
 after him just bcz of the wife.. That's how these ppl operate right,
 "cynical" they say?
