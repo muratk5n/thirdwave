@@ -28,11 +28,13 @@ whatever they want from Brasil, Spain, whereever.
 
 ---
 
-EV is [calculated](https://www.investopedia.com/ask/answers/072715/what-considered-healthy-evebitda.asp)
-by "multiplying the company's outstanding shares by
+"[EV is calculated] multiplying the company's outstanding shares by
 the current market price of one share [market cap, .. to] this number,
 add the company's total long-term and short-term debt. Lastly,
-subtract the company's cash and cash equivalents"
+subtract the company's cash and cash equivalents.. This result shows
+how much money would be needed to buy an entire company."
+
+[Link](https://www.investopedia.com/ask/answers/072715/what-considered-healthy-evebitda.asp)
 
 ---
 
