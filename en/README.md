@@ -3,10 +3,6 @@
 
 ---
 
-New Address is Here
-
----
-
 "India’s Top Carmaker .. Chairman said that the use of hydrogen power
 for mobility is an 'interesting alternative' for India, especially as
 it would reduce dependence on lithium imports"
@@ -65,8 +61,8 @@ Earnings season.. How is NKLA doing?
 videos. The approaches are different. In one there is an average
 quality jackass waving his arms online, syncronized, in the other
 there is animation-augmented high quality content/teacher potentially
-teaching millions, offline, **a**synchronized. Priority should be
-low-income kids wout access to quality education.
+teaching millions, offline/online, **a**synchronized. Priority should
+be low-income kids wout access to quality education.
 
 ---
 
