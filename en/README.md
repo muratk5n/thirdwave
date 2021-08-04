@@ -24,7 +24,7 @@ scams and abuse"
 ---
 
 It's an ambargo right, not a *blockade*, on Cuba. They can still buy
-whatever they want from Brasil, Spain, whereever.
+whatever they want from Brasil, Spain, etc.
 
 ---
 
