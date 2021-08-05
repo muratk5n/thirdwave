@@ -46,8 +46,8 @@ activities including restaurants and gyms"
 
 ---
 
-I hear some of this "keep it local" talk in some leftist circles as
-well.. there the emphasis is in more "social", like they want to
+I hear some of this "keep it local" talk in some leftist
+circles.. there the emphasis is in more "social", like they want to
 "socially" talk about funding each streetlight, and "socially"
 decide. Still professional politician is still better IMO
 
