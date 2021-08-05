@@ -3,91 +3,83 @@
 
 ---
 
-"India’s Top Carmaker .. Chairman said that the use of hydrogen power
-for mobility is an 'interesting alternative' for India, especially as
-it would reduce dependence on lithium imports"
+@nypost
 
-[Link](https://wtvbam.com/2021/08/02/indias-top-carmaker-sees-hydrogen-as-interesting-alternative/)
+NYC vaccine campaign surges 40 percent amid mandates, new incentives
 
----
-
-"@Zachary
-
-SEC Gary Gensler says lawmakers should give his agency more power to
-police the cryptocurrency market, which he says is rife with fraud,
-scams and abuse"
+[Link](https://trib.al/1S1Jt6V)
 
 ---
 
-It's an ambargo right, not a *blockade*, on Cuba. They can still buy
-whatever they want from Brasil, Spain, etc.
+too bad
+
+"@MSNBC
+
+Shontel Brown .. wins Democratic primary for House seat in Ohio, AP
+projects"
 
 ---
 
-Right; theoretically you need more money to cover a company's debt,
-but its cash would now belong to you (subtract).
-
-"[EV is calculated by] multiplying the company's outstanding shares by
-the current market price of one share [market cap, .. to] this number,
-add the company's total long-term and short-term debt. Lastly,
-subtract the company's cash and cash equivalents.. This result shows
-how much money would be needed to buy an entire company. The
-enterprise value calculates the theoretical takeover price one company
-would need to pay to acquire another company."
-
-[Link](https://www.investopedia.com/ask/answers/072715/what-considered-healthy-evebitda.asp)
+Kamala is capable and have no problem with her as next POTUS. I am
+talking about others, her chances her media mgmt, electability, etc.
 
 ---
 
-```python
-import yf
-yf.get_financials("NKLA")["Enterprise Value/EBITDA"]
-```
-
-```text
-Out[1]: -8.72
-```
-
-Negative? Bcz they dont have debt, and lots of cash in hand?
+AG L. James sounds antitrust, some in the left like her. 
 
 ---
 
-Earnings season.. How is NKLA doing?
+No AG aspiration is for NY gov
 
 ---
 
-"Zoom school" is no good. Ed can be based on prerecorded lecture
-videos. The approaches are different. In one there is an average
-quality jackass waving his arms online, syncronized, in the other
-there is animation-augmented high quality content/teacher potentially
-teaching millions, offline/online, **a**synchronized. Priority should
-be low-income kids wout access to quality education.
+This cld be 2024 prep. If Biden does only one term who is next? Kamala
+doesnt look so good right now. If not Kamala who? Enter the Cuomo
+wars.
 
 ---
 
-I heard her husband bugged out of the country too. They might come
-after him just bcz of the wife.. That's how these ppl operate right,
-"cynical" they say?
-
-"Polish authorities on Monday granted a humanitarian visa to a
-Belarusian Olympic sprinter in Tokyo to seek political asylum in
-Poland after she alleged her team’s officials were trying to force her
-to fly home to Belarus against her wishes."
+Cuomo report eh? True or fabrication? Who knows? They say that AG has
+"higher aspirations" tho.
 
 ---
 
-"@perrybaconjr
-
-The multimillion dollar campaign to keep Democrat Nina Turner out of
-the House, punctuated by the No. 3 Democrat in the chamber campaigning
-against her this weekend, has been a bit much. There's a better way
-for the Democrats' factions to share power"
+Temp 28 feels like 34, humid 85%. Yep.
 
 ---
 
-You think that's a burn but it really isn't
+"New York City to require proof of Covid vaccination for indoor
+activities including restaurants and gyms"
 
-[Link](https://pbs.twimg.com/media/E74eCNiWYAYzKIN?format=png&name=small)
+---
+
+I hear some of this "keep it local" talk in some leftist circles as
+well.. there the emphasis is in more "social", like they want to
+"socially" talk about funding each streetlight, and "socially"
+decide. Still professional politician is still better IMO
+
+---
+
+🤣 Libertards..
+
+"The Short, Unhappy Life of a Libertarian Paradise.. *This American
+Life* did a segment portraying Springs citizens as the ultimate
+anti-tax zealots, willing to pay $125 in a new 'Adopt a Streetlight'
+program to illuminate their own neighborhoods, but not willing to
+spend the same to do so for the entire city. 'Ill take care of mine'
+was the gist of what one council member heard from a resident when she
+confronted him with this fact...
+
+From disruption came, well, too much disruption. And from that came a
+full-circle return to professional politicians. Including one.. who is
+so persuasive he has gotten Colorado Springs residents to do something
+the outside world assumed they were not capable of: Five years after
+its moment in the spotlight, revenue is so high that the same voters
+who refused to keep the lights on have overwhelmingly approved ballot
+measures allowing the city to not only keep some of its extra tax
+money, but impose new taxes as well"
+
+[Link](https://www.politico.com/magazine/story/2017/06/30/colorado-springs-libertarian-experiment-america-215313/)
 
 ---
 
