@@ -47,7 +47,8 @@ activities including restaurants and gyms"
 I hear some of this "keep it local" talk in left circles too
 sometimes.. there the emphasis is in more "social", like they want to
 "socially" talk about funding each streetlight, and "socially"
-decide. Still professional politician is still better IMO
+decide. In this case too, professional politician is better, at least
+in our current modern setting
 
 ---
 
