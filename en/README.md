@@ -60,8 +60,6 @@ decide. Still professional politician is still better IMO
 
 ---
 
-🤣 Libertards..
-
 "The Short, Unhappy Life of a Libertarian Paradise.. *This American
 Life* did a segment portraying Springs citizens as the ultimate
 anti-tax zealots, willing to pay $125 in a new 'Adopt a Streetlight'
