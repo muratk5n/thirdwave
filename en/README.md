@@ -18,11 +18,6 @@ projects"
 
 ---
 
-Kamala is capable and have no problem with her as next POTUS. I am
-talking about others, her chances her media mgmt, electability, etc.
-
----
-
 AG L. James sounds antitrust, some in the left like her. 
 
 ---
