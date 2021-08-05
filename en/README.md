@@ -9,8 +9,6 @@ NYC vaccine campaign surges 40 percent amid mandates, new incentives
 
 ---
 
-too bad
-
 "@MSNBC
 
 Shontel Brown .. wins Democratic primary for House seat in Ohio, AP
@@ -18,7 +16,7 @@ projects"
 
 ---
 
-AG L. James sounds antitrust, some in the left like her. 
+AG L. James has some antitrust cred, some in the left like her. 
 
 ---
 
