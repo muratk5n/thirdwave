@@ -179,8 +179,6 @@ print hurst(dfclim.Temp)
 0.040611546891
 ```
 
-![](climate_01.png)
-
 <a name='carbon'/>
 
 ## Carbon and Temparature
