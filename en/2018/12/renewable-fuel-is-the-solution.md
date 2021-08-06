@@ -21,9 +21,9 @@ We can fix this problem at the source. If we effectively control,
 regulate the production of a green fuel, all the way down the chain
 the energy use will be clean. The only element that can serve as green
 storage, green fuel (produced in one place, and can be shipped
-elsewhere) is hydrogen. H2 can be stored in many medium, gas, liquid,
-in ammonia, even through various catalytic mechanisms in metallic
-form.
+elsewhere) is hydrogen. H2 can be [stored](../../2020/10/h2-storage.md) in many
+medium; gas, liquid, in ammonia, even through various catalytic
+mechanisms in metallic form.
 
 Saudi Arabia already made its first shipment as ammonia to Japan.
 Italy has successfully tested existing NG pipelines to be used as H2
