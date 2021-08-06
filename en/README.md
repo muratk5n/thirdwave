@@ -93,10 +93,6 @@ doing in Mexico"
 
 ---
 
-My entire comm medium is based on 90s movies
-
----
-
 Why was "Bob Rumson" Mr Smirkyface so involved in Turner/Brown race?
 Weird isn't it?  Muckers fight their wars inch by inch... Challengers
 need to close better, covering all angles \#ABC
