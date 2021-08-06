@@ -4,10 +4,10 @@ The world reached its current predicament due to the use of [bad]
 technology. Between 1751-2014 tons of carbon was emitted into the
 atmosphere, and the causation between that and the global warming is
 [clear to see](../../2021/07/historical-carbon-emissions.md). 70% of
-the carbon was emitted during this over 200 year period were US,
-China, Russia, UK, Japan, Germany, France, and Canada.
+the carbon was emitted during this 200+ year period were US, China,
+Russia, UK, Japan, Germany, France, and Canada.
 
-What to do about it? Without sacrificing the current modern wway of
+What to do about it? Without sacrificing our current modern way of
 life, there are but a few options. If our cars do not run on fossil
 fuels, what do they run on? Lithium based batteries cannot be a
 solution, world lithium reserves are [limited](../../2020/07/h2-numbers.md).
