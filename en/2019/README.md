@@ -26,9 +26,9 @@
 
 [Conflict Statistics](05/confstats.md)
 
-[Earthquake Stats](05/earthquakes.md)
-
 [Get On With It](05/geton.md)
+
+[Natural Disasters](05/natdisaster.md)
 
 [Reports](05/reports.md)
 

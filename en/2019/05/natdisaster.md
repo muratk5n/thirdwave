@@ -13,7 +13,7 @@ for certain brighness, color on all Earth images.
 
 [Output](fires-out.html)
 
-<a name='equake'/>
+<a name='equakes'/>
 
 ### Earthquake Stats
 

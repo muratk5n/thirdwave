@@ -667,10 +667,6 @@ wld cause a convict. Now the spin can favor DJT
 
 ---
 
-Eartquake data retrival [code](../../2021/02/equakes.md)
-
----
-
 Soon after prev quake tweet, > 7.0 shake. Two of them.
 
 <img width="340" src="https://pbs.twimg.com/media/EuH6wbhXIAI-FQU?format=png&name=small"/>
