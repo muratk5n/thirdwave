@@ -39,10 +39,6 @@ Dam
 
 ---
 
-ME conflict [stats](2019/05/confstats.md#gdeltme)
-
----
-
 Magic beans. Truly; Green beans r protein heavy and green, w some
 curative effects.. Need one veg 4 TEOTWAWKI, setting up a stand-alone
 automated vert farm, post-apoc? Go 4 beans.
@@ -305,10 +301,6 @@ Automated vertical farming bitch
 
 "Another intense heatwave is expected to spread across much of the
 continental US this week"
-
----
-
-Troop deployments [update](../../2019/05/confstats.md#gdtroop)
 
 ---
 

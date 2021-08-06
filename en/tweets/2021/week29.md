@@ -4,9 +4,6 @@
 
 ---
 
-ME conflict [stats](../../2019/05/confstats.md#gdeltme)
-
----
 
 "@fauxRayDalio
 
@@ -297,10 +294,6 @@ computation when evolving in time from one moment to the next"
 
 ---
 
-Troop [deployment](../../2019/05/confstats.md#gdtroop)
-
----
-
 "World powers blame China for Microsoft Exchange cyberattack"
 
 ---
@@ -407,11 +400,6 @@ still have smallpox if vaccine hesitancy had had such a loud megaphone"
 [Link](https://trib.al/wGmFvPS)
 
 ---
-
-ME conflict [stats](../../2019/05/confstats.md#gdeltme)
-
----
-
 
 <iframe width="340" src="https://www.youtube.com/embed/lXuQKoQCtOc?start=485" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
