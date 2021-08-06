@@ -76,8 +76,8 @@ system to move towards its firing position"
 ---
 
 Jane's Defense: "The US Department of State has approved a potential
-USD750 million Foreign Military Sale (FMS) to Taiwan of 40 155 mm
-M109A6 Paladin self-propelled howitzers (SPHs)"
+USD750 million Foreign Military Sale (FMS) to Taiwan of 40 ..
+self-propelled howitzers (SPHs)"
 
 ---
 
