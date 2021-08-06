@@ -30,5 +30,7 @@ Italy has successfully tested existing NG pipelines to be used as H2
 carriers; they will bring North African H2 gas produced cleanly into
 Europe. Airbus is the process of converting their airplanes to use H2
 fuels. Right tech can save us. No other energy form has such diverse
-applications, that range from the big to the small. We need to apply
-green fuels to all parts in the chain, without wasting precious time.
+applications, that range from the big to the small. There will be
+total cost of ownership (TCO) benefits for using the right tech
+widely, in all parts of the chain. We need to do this without wasting
+precious time.
