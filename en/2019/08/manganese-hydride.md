@@ -1,7 +1,5 @@
 # Manganese Hydride
 
-<img width="400" src="https://bloximages.chicago2.vip.townnews.com/elkodaily.com/content/tncms/assets/v3/editorial/4/30/4306b99b-a4db-5e90-847e-65b2d2c91aa8/5d4dda5f5f74e.image.jpg"/>
-
 [Link](https://www.lancaster.ac.uk/news/new-material-could-unlock-potential-for-hydrogen-powered-vehicle-revolution)
 
 Scientists have discovered a new material that could hold the key to
