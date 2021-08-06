@@ -18,5 +18,5 @@
 
 [Power Paste](../../2021/02/h2-power-paste.md)
 
-[[⇪Up]](../..)
+[[⇪Up]](../../2018/12/climate.md)
 

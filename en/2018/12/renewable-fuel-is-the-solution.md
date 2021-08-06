@@ -34,3 +34,6 @@ applications, that range from the big to the small. There will be
 total cost of ownership (TCO) benefits for using the right tech
 widely, in all parts of the chain. We need to do this without wasting
 precious time.
+
+[[⇪Up]](climate.md)
+
