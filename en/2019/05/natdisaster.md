@@ -4,6 +4,11 @@
 
 ### Fires
 
+Data comes from FIRMS, I read the MODIS CSV dataset for the world, for
+all fires within last 7 days and filter out fires below a certain
+brightness threshold. MODIS works through satellite images, it scans
+for certain brighness, color on all Earth images.
+
 [Script](fires.py)
 
 [Output](fires-out.html)
