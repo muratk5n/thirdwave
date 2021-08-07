@@ -14,7 +14,7 @@ for index, row in df.iterrows():
     print (index)
     if row['brightness'] < THRESHOLD: continue
     folium.CircleMarker(location=[row['latitude'], row['longitude']],
-                        radius=1.0,
+                        radius=3.0,
 			color='red',
                         weight=1).add_to(m)
 
