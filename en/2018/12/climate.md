@@ -24,5 +24,7 @@ Is It Real?
 
 [Historical Carbon Emissions](../../2021/07/historical-carbon-emissions.md)
 
+[Fires](../../2019/05/natdisaster.md#fires)
+
 [[⇪Up]](../..)
 
