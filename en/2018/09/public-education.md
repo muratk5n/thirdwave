@@ -95,32 +95,19 @@ chemistry can become certified in the subject and spend some time at a
 local school. Certifiers would be paid by the government based on the
 time they spend at school.
 
-The number of potential certifiers are enormous. Every society has a lot of white-collar professionals, and all of them have the potential to donate some of their time on a certain subject.
+The number of potential certifiers are enormous. Every society has a
+lot of white-collar professionals, and all of them have the potential
+to donate some of their time on a certain subject.
 
-This new scheme does not involve "home schooling" as it is important for kids being able to leave home, to go somewhere else, the home environment or neighborhood might not be ideal for studying. With its four walls and a building a school is still a school, albeit with a somewhat different concept of classroom.
+This new scheme does not involve "home schooling" as it is important
+for kids being able to leave home, to go somewhere else, the home
+environment or neighborhood might not be ideal for studying. With its
+four walls and a building a school is still a school, albeit with a
+somewhat different concept of classroom.
 
-
-
-
-
-
-
-
-at
-
-September 12, 2018
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+We are not talking about "Zoom schooling" either, which means an
+old-style teacher talking to students in a synchronized fashion. Our
+goal is to make lecturer/lectured communication async, breaking the
+time dependency so that benefits of scale, and quality can be
+achieved. The motto is record-once-teach-everywhere-anytime.
 
