@@ -52,11 +52,6 @@ publications that acknowledge funding from our councils"
 
 ---
 
-Big fan of cauliflower.. it disappears sometimes off the shelves.  But
-they can grow it off season cheap.. It will reappear I am certain.
-
----
-
 Forest fire report
 
 [Link](2019/05/natdisaster.md#fires)
