@@ -66,8 +66,8 @@ AFG deaths same. Improvements in Nigeria, Yemen and Chad.
 
 ---
 
-"Ew US Navy is dying" says he. BTW the plots I made are for the few
-ships that were out there on the oceans.. There are 10 times as many
+"Ew US Navy is dying" says he. BTW the plots I made were for the few
+ships that are out there on the oceans.. There are 10 times as many
 ship docked in the Navy yards, in US shores.
 
 ---
