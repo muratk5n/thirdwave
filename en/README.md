@@ -1,101 +1,106 @@
 
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-"BP Bolsters UK Blue Hydrogen Plans by Reaching Agreements with More
-Potential Customers"
+"How the pandemic ate millions of jobs in American restaurants"
 
-[Link](https://bit.ly/3lAm8Te)
-
----
-
-Blue Plate Special - Night Out \#music
-
-[Link](https://youtu.be/oHJrBPtSDFA)
+[Link](https://www.politico.com/news/2021/08/05/coronavirus-pandemic-restaurant-jobs-501693)
 
 ---
 
-And now native Am population is 800K the vid says.. Steep decline
+Darn. I was hoping their opposition would create frustration and this
+profession be quashed for good, replaced by videos and [graders](2018/09/public-education.md).
 
+"The head of the American Federation of Teachers .. union is
+rethinking its opposition to Covid-19 vaccine mandates for educators"
 
-"Prior to Columbus's arrival in the Americas in 1492, the area boasted
-thriving indigenous populations totaling to more than 60 million
-people"
-
----
-
-Strangely soothing
-
-<iframe width="200" src="https://www.youtube.com/embed/u4DCFvaK7LA?start=199&end=236" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Link](https://www.politico.com/news/2021/08/05/aft-union-vaccine-mandates-502657)
 
 ---
 
-Politico.eu: "US set to require foreign travelers to be fully vaccinated"
+ME conflict [stats](2019/05/confstats.md#gdeltme)
 
 ---
 
-DW: "What is starting the fires?.. The month of July was the second
-hottest ever recorded in Europe.. So while arson and natural causes
-such as lightening are equally to blame for starting the fires,
-extreme heat has increased their intensity and is the real culprit for
-the destruction being witness across fire-hit regions"
+Great.. the last the world needs is another major flashpoint
+
+"India and China have pulled back troops from a flashpoint zone on
+their disputed border where they fought a deadly battle last year, the
+Indian government said Friday"
+
+[Link](http://u.afp.com/UDza)
 
 ---
 
-"@_dmoser
+"In July 2021, the United Nations Development Program (UNDP)
+successfully completed the acceptance test of the hydrogen-based
+micro-grid project"
 
-Photo of the fires in the northern suburbs of Athens 🇬🇷🔥🔥
-
-This is the climate crisis unravelling 👇"
-
-<img width="200" src="https://pbs.twimg.com/media/E75K0sPXMAEpGe9?format=jpg&name=small"/>
+[Link](https://www.openpr.com/news/2347248/undp-successfully-completed-the-acceptance-test)
 
 ---
 
-No shit
+UKRI = UK Research and Innovation
 
-DW: "But too often in recent years, fire events have escalated way
-beyond their normal size and intensity... Devastating 2017 and 2018
-wildfires claimed hundreds of lives across an area stretching from
-Turkey to Spain, while countries in central and northern Europe,
-including Sweden, were also scorched. Such unprecedented fire events
-are inevitably linked to extreme droughts and heatwaves"
+They are mandating open-access for all research. 
 
----
+"@UKRI_News
 
-JD: "Japan, Australia launch defence technology projects"
+Today we're announcing a new #OpenAccess policy for research
+publications that acknowledge funding from our councils"
+
+[Link](https://twitter.com/UKRI_News/status/1423570531639562240)
 
 ---
 
-JD: "US State Department approves sale to Japan of additional RIM-116C missiles"
+Big fan of cauliflower.. it disappears sometimes off the shelves.  But
+they can grow it off season cheap.. It will reappear I am certain.
 
 ---
 
-SPH, as advertised, is "artillery equipped with its own propulsion
-system to move towards its firing position"
+Forest fire report
+
+[Link](2019/05/natdisaster.md#fires)
 
 ---
 
-Jane's Defense: "The US Department of State has approved a potential
-USD750 million [sale.. ] to Taiwan of 40 .. self-propelled howitzers
-(SPHs)"
+UCDP/PRIO Conflict Dataset update for June.
+
+AFG deaths same. Improvements in Nigeria, Yemen and Chad.
+
+[Link](2019/05/confstats.md)
 
 ---
 
-"@ioangrillo
-
-In unprecedented action, the Mexican government is filing civil suit
-against firearms companies in the United States for damage guns are
-doing in Mexico"
+"Ew US Navy is dying" says he. BTW the plots I made are for the few
+ships that were out there on the oceans.. There are 10 times as many
+ship docked in the Navy yards, in US shores.
 
 ---
 
-<blockquote width="200" class="twitter-tweet"><p lang="en" dir="ltr">&quot;contact roadside assistance&quot;<br><br>....for what? They gonna bring the Windows XP repair cd? <a href="https://t.co/TSwoTpFIfs">https://t.co/TSwoTpFIfs</a></p>&mdash; Internet of Shit (@internetofshit) <a href="https://twitter.com/internetofshit/status/1422898118815801349?ref_src=twsrc%5Etfw">August 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+🤣 🤣 🤣 Page must have looked at the data.
+
+The Guardian: "New Zealand rated best place to survive global societal collapse"
+
+[Link](https://www.theguardian.com/world/2021/jul/28/new-zealand-rated-best-place-to-survive-global-societal-collapse)
 
 ---
 
-Why was "Bob Rumson" Mr Smirkyface so involved in Turner/Brown race?
-Weird isn't it?  Muckers fight their wars inch by inch... Challengers
-need to close better, covering all angles \#ABC
+"Google founder Larry Page has become the latest billionaire to gain
+residency in New Zealand, after applying through the country’s
+'Investor Plus' category—a fast-lane for the super rich"
+
+[Link](https://trib.al/URW0kIL )
+
+---
+
+NY Mayor, forget abt it.
+
+Guilliani? Bloomberg?
+
+---
+
+Jumping from NY gov to WH wld be no cakewalk either of course. Who
+was the last NY governor to make Prez?  FDR?
 
 ---
 
