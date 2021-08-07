@@ -72,7 +72,7 @@ ship docked in the Navy yards, in US shores.
 
 ---
 
-🤣 🤣 🤣 Page must have looked at the data.
+🤣 Page must have looked at the data.
 
 The Guardian: "New Zealand rated best place to survive global societal collapse"
 
