@@ -21,7 +21,7 @@ ME conflict [stats](2019/05/confstats.md#gdeltme)
 
 ---
 
-Great.. the last the world needs is another major flashpoint
+Great.. the last thing the world needed was another major flashpoint
 
 "India and China have pulled back troops from a flashpoint zone on
 their disputed border where they fought a deadly battle last year, the
