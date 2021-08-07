@@ -31,8 +31,8 @@ will be complemented by video lectures the author recorded by the
 equipment sent to her by DOE.
 
 Author can choose to point to someone else's work for content,
-e.g. for algebra video lectures s/he can choose Khanacademy videos and
-have them used instead of his own recording.
+e.g. for algebra video lectures s/he can choose freely available
+videos, have them used instead of his own recording.
 
 It is important to have a researcher to generate content (or choose
 one suitable), because only someone who knows a subject througly can
