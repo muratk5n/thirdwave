@@ -1,5 +1,103 @@
 # Week 31
 
+"How the pandemic ate millions of jobs in American restaurants"
+
+[Link](https://www.politico.com/news/2021/08/05/coronavirus-pandemic-restaurant-jobs-501693)
+
+---
+
+Darn. I was hoping their opposition would create frustration and this
+profession be quashed for good, replaced by videos and [graders](2018/09/public-education.md).
+
+"The head of the American Federation of Teachers .. union is
+rethinking its opposition to Covid-19 vaccine mandates for educators"
+
+[Link](https://www.politico.com/news/2021/08/05/aft-union-vaccine-mandates-502657)
+
+---
+
+ME conflict [stats](2019/05/confstats.md#gdeltme)
+
+---
+
+Great.. the last thing the world needed was another major flashpoint
+
+"India and China have pulled back troops from a flashpoint zone on
+their disputed border where they fought a deadly battle last year, the
+Indian government said Friday"
+
+[Link](http://u.afp.com/UDza)
+
+---
+
+"In July 2021, the United Nations Development Program (UNDP)
+successfully completed the acceptance test of the hydrogen-based
+micro-grid project"
+
+[Link](https://www.openpr.com/news/2347248/undp-successfully-completed-the-acceptance-test)
+
+---
+
+UKRI = UK Research and Innovation
+
+They are mandating open-access for all research. 
+
+"@UKRI_News
+
+Today we're announcing a new #OpenAccess policy for research
+publications that acknowledge funding from our councils"
+
+[Link](https://twitter.com/UKRI_News/status/1423570531639562240)
+
+---
+
+Forest fire report
+
+[Link](2019/05/natdisaster.md#fires)
+
+---
+
+UCDP/PRIO Conflict Dataset update for June.
+
+AFG deaths same. Improvements in Nigeria, Yemen and Chad.
+
+[Link](2019/05/confstats.md)
+
+---
+
+"Ew US Navy is dying" says he. BTW the plots I made were for the few
+ships that are out there on the oceans.. There are 10 times as many
+ship docked in the Navy yards, in US shores.
+
+---
+
+Page must have looked at the data.
+
+The Guardian: "New Zealand rated best place to survive global societal collapse"
+
+[Link](https://www.theguardian.com/world/2021/jul/28/new-zealand-rated-best-place-to-survive-global-societal-collapse)
+
+---
+
+"Google founder Larry Page has become the latest billionaire to gain
+residency in New Zealand, after applying through the country’s
+'Investor Plus' category—a fast-lane for the super rich"
+
+[Link](https://trib.al/URW0kIL )
+
+---
+
+NY Mayor, forget abt it.
+
+Guilliani? Bloomberg?
+
+---
+
+Jumping from NY gov to WH wld be no cakewalk either of course. Who
+was the last NY governor to make Prez?  FDR?
+
+---
+
 "BP Bolsters UK Blue Hydrogen Plans by Reaching Agreements with More
 Potential Customers"
 

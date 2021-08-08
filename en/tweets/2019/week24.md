@@ -128,13 +128,18 @@ Cheaper, Better Alternatives"
 
 @shravanvasishth
 
-"MIT Open Courseware long preceded the MOOC boom, and having done some MOOC courses on Coursera etc., I must say the MIT model is far
-superior. It doesn't compromise (45 min or longer lectures recorded), and it is much closer to a real classroom experience."
+"MIT Open Courseware long preceded the MOOC boom, and having done some
+MOOC courses on Coursera etc., I must say the MIT model is far
+superior. It doesn't compromise (45 min or longer lectures recorded),
+and it is much closer to a real classroom experience."
 
 ---
 
-
-Yes go for the smaller target, the narrow. Not the broad, the "general". How did people ever think they can get there by "fitting some shit" using basically a glorified regression routine? Phsycist have all the math in the world and they _still_ did not get to the Shangri-La. Are these people insane? 
+Yes go for the smaller target, the narrow. Not the broad, the
+"general". How did people ever think they can get there by "fitting
+some shit" using basically a glorified regression routine? Phsycist
+have all the math in the world and they _still_ did not get to the
+Shangri-La. Are these people insane?
 
 “Artificial Narrow Intelligence”, that is where the great achievements
 are says Kevin Françoisse (@kfrancoi), CEO of @Sagacify
@@ -151,23 +156,39 @@ So if you want employment, kill the BEV experiment. It's an abomination.
 
 ---
 
-Warren does a lot of fishing in the minutea; but there can be some goodies there. I was reviewing old tweets saw one from March "Elizabeth Warren Calls for a National Right-to-Repair Law for Tractors". Right to repair is a big deal and extends even to iPhones. The tractor thing would help her in Iowa.
+Warren does a lot of fishing in the minutea; but there can be some
+goodies there. I was reviewing old tweets saw one from March
+"Elizabeth Warren Calls for a National Right-to-Repair Law for
+Tractors". Right to repair is a big deal and extends even to
+iPhones. The tractor thing would help her in Iowa.
 
 ---
 
-Bernie speech on Economic Bill of Rights; very good. Bernie can seem like an outsider sometimes, but that really is not his fault. He seems like an outsider NOW bcz of the centrists plague. In the speech he basically said "I am Roosevelt" tying himself to the party through him. And it is right, during FDR days, he would seem like a regular Democrat. 
+Bernie speech on Economic Bill of Rights; very good. Bernie can seem
+like an outsider sometimes, but that really is not his fault. He seems
+like an outsider NOW bcz of the centrists plague. In the speech he
+basically said "I am Roosevelt" tying himself to the party through
+him. And it is right, during FDR days, he would seem like a regular
+Democrat.
 
-The Bill of Rights part is to reclaim the box of goodies which other candidates claim they'll dole out once in power. He turned the volume up, and took all the goodies back. And tied it into a coherent whole. The "are you truly free" part was awesome. 
+The Bill of Rights part is to reclaim the box of goodies which other
+candidates claim they'll dole out once in power. He turned the volume
+up, and took all the goodies back. And tied it into a coherent
+whole. The "are you truly free" part was awesome.
 
 ---
 
-Blacklist, Supernatural still going strong. Great writing, and one has James Spader in it! Arguably 1 of the best actors in his gen, along with Downey and both were in an Avengers mov, Spader was the voice of Ultron.
+Blacklist, Supernatural still going strong. Great writing, and one has
+James Spader in it! Arguably 1 of the best actors in his gen, along
+with Downey and both were in an Avengers mov, Spader was the voice of
+Ultron.
 
 ---
 
 @briebriejoy
 
-"If you get really sick, you can't work. But if you lose your job you lose your insurance. 
+"If you get really sick, you can't work. But if you lose your job you
+lose your insurance.
 
 What kind of sense does that make?"
 
@@ -185,9 +206,31 @@ But it is smart politics in the context of what she is trying to do.
 
 From Tooze book Crashed.
 
-Now I know why I keep seeing this guy (Rajan) at honco meetings. He became India CB head later but it always seemed like he was treated as a prominent voice on econ issues. This must be why. 
+Now I know why I keep seeing this guy (Rajan) at honco meetings. He
+became India CB head later but it always seemed like he was treated as
+a prominent voice on econ issues. This must be why.
 
-"Every year in August the elite of the central banking and monetary economics world gathers at a resort in Jackson Hole, Wyoming. In August 2005 the theme of the conference was not the crisis brewing in the US housing market but a celebration in honor of the outgoing Fed chairman, Alan Greenspan. Most of the presentations were appropriately upbeat. But one rang an off note. It was given by Raghuram G. Rajan, an Indian by birth but a fully paid-up member of the American economics elite, professor at the Chicago Booth business school and chief economist at the IMF. His paper bore the heretical title “Has Financial Development Made the World Riskier?”57 Rajan worried that the dramatic expansion of modern financial intermediation was building up a dangerous new appetite for risk. At Greenspan’s farewell party, the message was not welcome. Rajan was slapped down by Larry Summers. Wielding his full authority as former  Treasury secretary, Summers introduced himself as “someone who has learned a great deal about this subject from Alan Greenspan . . . and . . . who finds the basic, slightly Luddite premise of this paper to be largely misguided.”58 To highlight risks in a complex, modern financial system, as Rajan was tactlessly doing, was to invite “restriction” and other “misguided policy impulses.” It would be like giving up air travel for fear of crashes."
+"Every year in August the elite of the central banking and monetary
+economics world gathers at a resort in Jackson Hole, Wyoming. In
+August 2005 the theme of the conference was not the crisis brewing in
+the US housing market but a celebration in honor of the outgoing Fed
+chairman, Alan Greenspan. Most of the presentations were appropriately
+upbeat. But one rang an off note. It was given by Raghuram G. Rajan,
+an Indian by birth but a fully paid-up member of the American
+economics elite, professor at the Chicago Booth business school and
+chief economist at the IMF. His paper bore the heretical title “Has
+Financial Development Made the World Riskier?”57 Rajan worried that
+the dramatic expansion of modern financial intermediation was building
+up a dangerous new appetite for risk. At Greenspan’s farewell party,
+the message was not welcome. Rajan was slapped down by Larry
+Summers. Wielding his full authority as former Treasury secretary,
+Summers introduced himself as “someone who has learned a great deal
+about this subject from Alan Greenspan . . . and . . . who finds the
+basic, slightly Luddite premise of this paper to be largely
+misguided.”58 To highlight risks in a complex, modern financial
+system, as Rajan was tactlessly doing, was to invite “restriction” and
+other “misguided policy impulses.” It would be like giving up air
+travel for fear of crashes."
 
 ---
 
@@ -197,12 +240,17 @@ Now I know why I keep seeing this guy (Rajan) at honco meetings. He became India
 
 [Link](https://twitter.com/LukewSavage/status/1138879111752011777)
 
-Sanders argues we need to rethink the meaning freedom: "Are you truly free when you spend half your income on housing? Are you truly free when you are 70 years old and lack a pension to retire?"
+Sanders argues we need to rethink the meaning freedom: "Are you truly
+free when you spend half your income on housing? Are you truly free
+when you are 70 years old and lack a pension to retire?"
 
-"Are you truly free if you are forced to work 60 or 80 hours a week because you can't find a job that pays a living wage? Are you truly free if you are a new mother forced to go back to work immediately after the birth of your child because you don't have paid family leave?"
+"Are you truly free if you are forced to work 60 or 80 hours a week
+because you can't find a job that pays a living wage? Are you truly
+free if you are a new mother forced to go back to work immediately
+after the birth of your child because you don't have paid family
+leave?"
 
 ---
-
 
 Are you a punk bitch?
 
@@ -210,7 +258,13 @@ Are you a punk bitch?
 
 Forbes 
 
-"The growing use of lithium batteries to store energy has exposed one of the dirtier sides of transitioning to a low carbon economy. To create these batteries, there is a need for a range of rare earth metals that require heavy mining and manufacturing that emit significant emissions. Furthermore, major components such as lithium, nickel, and cobalt exist in a finite amount that is unlikely to meet the current and future demands for battery units"
+"The growing use of lithium batteries to store energy has exposed one
+of the dirtier sides of transitioning to a low carbon economy. To
+create these batteries, there is a need for a range of rare earth
+metals that require heavy mining and manufacturing that emit
+significant emissions. Furthermore, major components such as lithium,
+nickel, and cobalt exist in a finite amount that is unlikely to meet
+the current and future demands for battery units"
 
 ☹☹
 
@@ -220,12 +274,13 @@ Forbes
 
 [Link](https://www.driving.co.uk/news/features/hyundai-hydrogen-must-part-future/)
 
-Yea that's fine bcz "ditch tribalism" talk at gov level right now helps H2. In an even playing field we'll bust a cap on their ass. 
+Yea that's fine bcz "ditch tribalism" talk at gov level right now
+helps H2. In an even playing field we'll bust a cap on their ass.
 
-The real headline though is "PLUG-IN ELECTRIC CARS ARE ‘QUICK FIX’ BUT HYDROGEN MUST BE PART OF FUTURE"
+The real headline though is "PLUG-IN ELECTRIC CARS ARE ‘QUICK FIX’ BUT
+HYDROGEN MUST BE PART OF FUTURE"
 
 ---
-
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hydrogen isn&#39;t the fuel of the future. It&#39;s already here <a href="https://t.co/Caucvazplo">https://t.co/Caucvazplo</a> <a href="https://t.co/UEWJ1J4T9G">pic.twitter.com/UEWJ1J4T9G</a></p>&mdash; World Economic Forum (@Davos) <a href="https://twitter.com/Davos/status/1138476116472225794?ref_src=twsrc%5Etfw">June 11, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -256,17 +311,17 @@ Uwwww
 
 H2 combustion engine? Why not? I was actually curious why that did not catch on first rather then fuel cells that go from H2 to electric.
  
-
 ---
-
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Clearly, <a href="https://twitter.com/federalreserve?ref_src=twsrc%5Etfw">@federalreserve</a> must work harder at creating more inflation!!! <a href="https://t.co/d0nkkTLoHf">https://t.co/d0nkkTLoHf</a></p>&mdash; Mark B. Spiegel (@markbspiegel) <a href="https://twitter.com/markbspiegel/status/1138467758704869377?ref_src=twsrc%5Etfw">June 11, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"Amazon found an extremely efficient way to build certain kind of retailer and just keep cranking the handle"
+"Amazon found an extremely efficient way to build certain kind of
+retailer and just keep cranking the handle"
 
-Specifics r important; I dont think the advent of Prime was due to turning that one crank.
+Specifics r important; I dont think the advent of Prime was due to
+turning that one crank.
 
 [Link](https://www.vox.com/recode/2019/5/3/18511544/amazon-prime-oral-history-jeff-bezos-one-day-shipping)
 
@@ -274,9 +329,12 @@ Specifics r important; I dont think the advent of Prime was due to turning that 
 
 [Link](https://twitter.com/PhysicsToday/status/1138533810860167168)
 
-"Historically, physicists have played a major role in developing diagnostic and treatment tools for cancer. Now they're increasingly delving into understanding the disease"
+"Historically, physicists have played a major role in developing
+diagnostic and treatment tools for cancer. Now they're increasingly
+delving into understanding the disease"
 
-Fantastic, little less vodoo, little more science. Can't they get into more of the other branches? Like, everything (especially economics).
+Fantastic, little less vodoo, little more science. Can't they get into
+more of the other branches? Like, everything (especially economics).
 
 ---
 
@@ -293,8 +351,8 @@ Peter Douche moves to left? It's a new world indeed.
 ---
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A bit rambling, but if you want to see inside the head of an Obama appointee (ex-FCC chair) neoliberal Democrat about what the hell happened and where we are now, try this: <a href="https://t.co/fwz8MLpZGc">https://t.co/fwz8MLpZGc</a><br><br>Warning: Contains Spoilers :-)</p>&mdash; Mark Blyth (@MkBlyth) <a href="https://twitter.com/MkBlyth/status/1138611546085625856?ref_src=twsrc%5Etfw">June 12, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
@@ -302,13 +360,16 @@ Peter Douche moves to left? It's a new world indeed.
 
 "Hydrogen economy, two years behind Japan
 
-It has been confirmed that Japan is working to establish a “hydrogen economy alliance” with the U.S. and European Union"
+It has been confirmed that Japan is working to establish a “hydrogen
+economy alliance” with the U.S. and European Union"
 
-Article also says there is fierce competition to be the leader on hydrogen between Korea and Japan. Wow.
+Article also says there is fierce competition to be the leader on
+hydrogen between Korea and Japan. Wow.
 
 ---
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">teenager: do you remember the 1900s?<br><br>me *taking a drag on a cigarette*: it was the summer of 1997. we were cloning sheep. Lauryn Hill ruled the airwaves. I remember how the air smelled of the sea.</p>&mdash; the library haunter 🦉🎄❄ (@SketchesbyBoze) <a href="https://twitter.com/SketchesbyBoze/status/1138093480801124352?ref_src=twsrc%5Etfw">June 10, 2019</a></blockquote>
+
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
@@ -319,11 +380,16 @@ Yep
 
 ---
 
-Kurtzman, who effed up Star Trek Discovery is on his way out? Sheeshh. 
+Kurtzman, who effed up Star Trek Discovery is on his way out? Sheeshh.
 
-How did things get to this point? First time I heard someone prominent commenting on STD was  Ronald Moore, he was saying that Fuller (who was thought to be showrunner then) would do a great Trek, have no fear, fans. 
+How did things get to this point? First time I heard someone prominent
+commenting on STD was Ronald Moore, he was saying that Fuller (who was
+thought to be showrunner then) would do a great Trek, have no fear,
+fans.
 
-Then after of bunch of chaos, Jar Jar Abrahams, SJW, Cali beta cuck stuff everything went haywire. Now even the future of the Picard show is in doubt. Unbelievable.
+Then after of bunch of chaos, Jar Jar Abrahams, SJW, Cali beta cuck
+stuff everything went haywire. Now even the future of the Picard show
+is in doubt. Unbelievable.
 
 ---
 
@@ -365,33 +431,34 @@ into this position.
 
 ---
 
-Ted Cruz is High Horse. But he mostly seems to have the negative parts in check. 
+Ted Cruz is High Horse. But he mostly seems to have the negative parts
+in check.
 
 ---
 
-Exactly. Bcz elections are about incumbents, not new challengers. Trump ran on 'not Obama' (the pro-white biz kinda originated out from that, sadly, just like Obama's 'not Bush' triggered dumb hick stuff) and won on that.
+Exactly. Bcz elections are about incumbents, not new
+challengers. Trump ran on 'not Obama' (the pro-white biz kinda
+originated out from that, sadly, just like Obama's 'not Bush'
+triggered dumb hick stuff) and won on that.
 
 "Hillary ran on 'not Trump' she lost"
 
 ---
 
-It's crazy how un-Obama DJT turned himself into. From the birther stuff to him being his polar opposite in all things did the trick. If Obama had a higher popularity that stuff wouldnt have worked. But it did.
+It's crazy how un-Obama DJT turned himself into. From the birther
+stuff to him being his polar opposite in all things did the trick. If
+Obama had a higher popularity that stuff wouldnt have worked. But it
+did.
     
 ---
 
-The Shapiro interviews are not too bad. I notice most I Am CRM types have an convo time with a guest. IAC needs to *listen*, so these convos are good for them. Pakman, Dore, Colbert, Seder (also IACs) do convo. 
+Dubya, Clinton, DJT: All I Am CRM. This type is overrepresented among
+the media types, politicians. I guess not-listening in confused times
+can be / seem decisive, and if they listen, the game gets even better.
 
 ---
 
-IAC also needs to make others laugh. I am not exactly sure how this connects. Other profilers seem to think IAC needs to relate, of which listening is a part, humor is another, perhaps even stronger form of that.
-
----
-
-Dubya, Clinton, DJT: All I Am CRM. This type is overrepresented among the media types, politicians. I guess not-listening in confused times can be / seem decisive, and if they listen, the game gets even better.
-
----
 W00t
-
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Metacon Signs MoU with TruckMaint OÜ to to Jointly Develop Hydrogen Related Businesses in Baltic States--<a href="https://twitter.com/Metaconab?ref_src=twsrc%5Etfw">@Metaconab</a> <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/hydrognnow?src=hash&amp;ref_src=twsrc%5Etfw">#hydrognnow</a> <a href="https://t.co/mpLKLcBYMM">https://t.co/mpLKLcBYMM</a> <a href="https://t.co/rzWEMvzelv">pic.twitter.com/rzWEMvzelv</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1138050545011372033?ref_src=twsrc%5Etfw">June 10, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     
@@ -413,26 +480,33 @@ I cant share this enough
     
 ---
     
-If we are to believe "certain countries" want to create a Eurasian super state that could rival the United States, they would _have_ to have a form of reliable energy, and that could be H2. 
+If we are to believe "certain countries" want to create a Eurasian
+super state that could rival the United States, they would _have_ to
+have a form of reliable energy, and that could be H2.
 
-Fossil can be controlled, and through it the world. But if fossil is gone, energy creation becomes distributed, that's a whole different game.
+Fossil can be controlled, and through it the world. But if fossil is
+gone, energy creation becomes distributed, that's a whole different
+game.
 
 ---
 
-@chr1sa "Chinese kids are, contrary to grind stereotypes, awesome creative makers. UK kids are not. Wonder where US kids would land..."
+@chr1sa "Chinese kids are, contrary to grind stereotypes, awesome
+creative makers. UK kids are not. Wonder where US kids would land..."
 
-Children are more of a blank slate than grown-ups. It is more likely the culture will beat that creativity out of them. That is the real problem. 
+Children are more of a blank slate than grown-ups. It is more likely
+the culture will beat that creativity out of them. That is the real
+problem.
     
 ---
     
 Yo! US is planning CAATSA sanctions on TR if they buy Russkie arms? 
 
-CAATSA = The Countering America's Adversaries Through Sanctions Act, a federal law that imposed sanctions on Iran, North Korea, and Russia. 
+CAATSA = The Countering America's Adversaries Through Sanctions Act, a
+federal law that imposed sanctions on Iran, North Korea, and Russia.
 
 Rough deal. Fine for me. I want US-TR partnership.
 
 ---
-
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Addendum to Tweet #15: The owner deleted his tweet/video right after I linked to it. No worries, here&#39;s a copy of his video.<br><br>Owners who actively &quot;protect&quot; <a href="https://twitter.com/hashtag/Tesla?src=hash&amp;ref_src=twsrc%5Etfw">#Tesla</a> are endangering the public, turning from a bystander into a participant in the <a href="https://twitter.com/hashtag/Autopilot?src=hash&amp;ref_src=twsrc%5Etfw">#Autopilot</a> danger. <a href="https://twitter.com/search?q=%24TSLAQ&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$TSLAQ</a> <a href="https://twitter.com/search?q=%24TSLA&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$TSLA</a> 18/17 <a href="https://t.co/QI33BQSgiT">pic.twitter.com/QI33BQSgiT</a></p>&mdash; Coke Comedy (@ComedyCoke) <a href="https://twitter.com/ComedyCoke/status/1138064923638943750?ref_src=twsrc%5Etfw">June 10, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -444,9 +518,14 @@ Ha ha..
 
 ---
 
-Industrial left wants not as much the manufacturing jobs that disappeared but the political culture that went away with it. Asking ppl to unionize can help workers but also provides a body for the politician to interface with.
+Industrial left wants not as much the manufacturing jobs that
+disappeared but the political culture that went away with it. Asking
+ppl to unionize can help workers but also provides a body for the
+politician to interface with.
 
-To which I say, the only union you will ever need in the 21st century is the Government of the United States of America. It can protect ur rights, get u more money, give u representation.
+To which I say, the only union you will ever need in the 21st century
+is the Government of the United States of America. It can protect ur
+rights, get u more money, give u representation.
 
 ---
 
@@ -537,6 +616,7 @@ forth by a corporation that you immediately click Yes on to get free
 stuff
 
 ---
+
 The client filters I talk abt can be used on centralized platforms
 too. So Twitter filters nothing, bans noone. But any user would be
 able to install a filter package that can filter out "unwanted"

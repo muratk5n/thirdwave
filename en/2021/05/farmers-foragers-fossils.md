@@ -357,9 +357,3 @@ that the only way to prevent the war of all against all is to enshrine
 degree so firmly that it brings forth a Leviathan, a government
 powerful enough to intimidate its unruly subjects into living
 peacefully... Farming could only work if rates of violent death fell.
-
-
-
-
-
-
