@@ -78,8 +78,8 @@ possible, with cost estimated at around $2 per kilogram"
 
 ---
 
-It's crazy that Oliver Stone *Snowden* movie, full of A-list
-actors. Gordon-Lewitt, Quinto, hell Scott Eastwood? That actress from
+It's crazy, that Oliver Stone *Snowden* movie, is full of A-list
+actors. Gordon-Lewitt, Quinto, .. Scott Eastwood? That actress from
 the Divergent movies..? I bet they jumped at the chance to be on this.
 
 ---
