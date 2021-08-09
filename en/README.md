@@ -1,8 +1,6 @@
 
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-Aint that the truth
-
 "@IoanGrillo
  
 While drug trafficking violence in the U.S. is often cruelly
