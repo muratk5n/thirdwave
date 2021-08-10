@@ -151,13 +151,15 @@ df1['sdate'] = df1.apply(lambda x: x.Mon + "-" + str(int(x['Year'])),axis=1)
 df1['date'] = pd.to_datetime(df1.sdate)
 df1 = df1.set_index('date')
 df1[['Next Year','Next 5 Years']].plot()
-print (df1[['Next Year', 'Next 5 Years']].tail(3))
+print (df1[['Next Year', 'Next 5 Years']].tail(5))
 plt.savefig('infexp.png')
 ```
 
 ```text
             Next Year  Next 5 Years
 date                               
+2021-03-01        3.1           2.8
+2021-04-01        3.4           2.7
 2021-05-01        4.6           3.0
 2021-06-01        4.2           2.8
 2021-07-01        4.7           2.8

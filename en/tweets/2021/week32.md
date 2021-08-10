@@ -1,5 +1,88 @@
 # Week 32
 
+"@IoanGrillo
+ 
+While drug trafficking violence in the U.S. is often cruelly
+ghettoized, in Central America it has consumed entire nations"
+
+---
+
+Food growing, manufacturing, education, how are they delivered? Those
+define capabilities, society forms around them. Automated farming,
+tablets that can access all classes creates a different world than
+bunch of people knee-deep in the mud, hippies or not.
+
+---
+
+NZ monthy temp [averages](https://www.climatestotravel.com/climate/new-zealand).
+Itz good in this neighborhood..
+
+| Month | C |
+|-------|---
+| January |  20	|
+| February | 24	|
+| March  | 19  |
+| April | 16.5 |
+| May | 14 |
+| June |  11.5 |
+| July  | 11 |
+| August | 11.5	|
+| September | 16 |
+| October | 14.5 |
+| November | 20	|
+| December | 22	|
+
+---
+
+The Guardian: "New Zealand, Iceland, the UK, Tasmania and Ireland are
+the places best suited to survive a global collapse of society,
+according to a study.
+
+The researchers said human civilisation was 'in a perilous state' due
+to the highly interconnected and energy-intensive society that had
+developed and the environmental damage this had caused.
+
+To assess which nations would be most resilient to such a collapse,
+countries were ranked according to their ability to grow food for
+their population, protect their borders from unwanted mass migration,
+and maintain an electrical grid and some manufacturing
+ability. Islands in temperate regions and mostly with low population
+densities came out on top.
+
+The researchers said their study highlighted the factors that nations
+must improve to increase resilience. They said that a globalised
+society that prized economic efficiency damaged resilience, and that
+spare capacity needed to exist in food and other vital sectors...
+
+'We were quite surprised the UK came out strongly.. But it has the
+potential to withstand shocks.'"
+
+[Link](https://www.theguardian.com/world/2021/jul/28/new-zealand-rated-best-place-to-survive-global-societal-collapse)
+
+---
+
+NYT: "Fires Continue to Ravage Greece Amid Europe’s Protracted Heat Wave"
+
+---
+
+The Independent: "More Cubans try dangerous trip to US across Florida Straits"
+
+---
+
+"Russia Plans to Substitute Decline In Gas Exports To Europe By Blue
+Hydrogen. Production of ‘blue’ carbon-neutral hydrogen already
+possible, with cost estimated at around $2 per kilogram"
+
+[Link](https://bit.ly/3AiZbYR)
+
+---
+
+It's crazy, that Oliver Stone *Snowden* movie, is full of A-list
+actors. Gordon-Lewitt, Quinto, .. Scott Eastwood? That actress from
+the Divergent movies..? I bet they jumped at the chance to be on this.
+
+---
+
 <blockquote width="200" class="twitter-tweet"><p lang="en" dir="ltr">Kuwait has the biggest tyre dump in the world. It is now on fire. <a href="https://t.co/RsaqMnyJFC">pic.twitter.com/RsaqMnyJFC</a></p>&mdash; Extinction Rebellion (@ExtinctionR) <a href="https://twitter.com/ExtinctionR/status/1423789470864662532?ref_src=twsrc%5Etfw">August 6, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
