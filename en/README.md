@@ -24,6 +24,8 @@ be the wealth tax legislation that Senator Elizabeth Warren from
 Massachusetts introduced this past spring with Representatives Pramila
 Jayapal of Washington State and Brendan Boyle of Pennsylvania"
 
+[Link](https://ips-dc.org/americas-billionaires-borrowing-their-way-to-ever-more-fabulous-fortunes)
+
 ---
 
 Politico: "For the first time, the planet's top scientists said in a
