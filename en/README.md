@@ -1,85 +1,80 @@
 
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-"The ‘Hydrogen Olympics’ Lit a Torch for the Clean Fuel’s Future.. An
-energy expert explains why Japan—along with much of the rest of the
-world—is committing to the clean-burning fuel"
 
-<img width="340" src="https://pbs.twimg.com/media/E8Z5rPyWUDQ9vb3?format=jpg&name=small"/>
+"ZAL Center of Applied Aeronautical Research has expanded its hydrogen
+infrastructure with a 20-meter-high, 100 m³ tank"
 
-[Link](https://www.scientificamerican.com/article/the-hydrogen-olympics-lit-a-torch-for-the-clean-fuels-future1)
+[Link](https://bit.ly/2XfFaUR)
 
 ---
 
-IPS: "What makes banks like JPMorgan, Citi, and Morgan Stanley so
-eager to extend these billions in loans — to the rich — at such low
-interest rates? One reason: The loans come as close to risk-free as
-risk-free could be. A more important reason: Big banks cherish close
-relationships with extremely rich people. These rich often run
-extremely large corporate empires and can steer their corporate
-banking business to the banks that cater to their personal needs...
+"Solar Energy Corporation of India .. Issued a tender to set up a 25
+kW green hydrogen pilot project at SNM Hospital in Leh, Ladakh"
 
-The best antidote to this gaming of the federal income tax? That may
-be the wealth tax legislation that Senator Elizabeth Warren from
-Massachusetts introduced this past spring with Representatives Pramila
-Jayapal of Washington State and Brendan Boyle of Pennsylvania"
-
-[Link](https://ips-dc.org/americas-billionaires-borrowing-their-way-to-ever-more-fabulous-fortunes)
+[Link](https://bit.ly/3g4TMNp)
 
 ---
 
-Politico: "For the first time, the planet's top scientists said in a
-monumental report they have definitively linked greenhouse gas
-emissions to the type of disasters driven by a warmer climate that
-have touched every corner of the globe this year"
+The inflation expectation is around 4.7, steadily [increased](2019/05/stats.md#infexp)
+to this from 3.1 back in March. We shall see. 
 
-[Link](https://www.politico.com/news/2021/08/09/climate-change-scientists-report-disastrous-502799)
+Vox: "America isn’t panicking about inflation"
 
 ---
 
-AFP: "After the UN issued its starkest report yet on the consequences
-of global warming, pressure is on China -- the world's biggest
-polluter -- to deliver on its own climate goals"
+William Clarke - Lollipop Mama \#music
 
-[Link](http://u.afp.com/Uz55)
+[Link](https://youtu.be/k--8zPBkdHA)
 
 ---
 
-Math geneology saz Trombo is connected to Smale. Solid.
+Exactly
+
+DW: "German election: What do the terms 'right' and 'left' mean, if
+both CDU and SPD are in the center?"
 
 ---
 
-My man Marsden got the proof.. Lovely. And Tromba.
+DE needs more left, not more shitlibs
 
-----
-
-Do scifi once, you, I dont want to say 'pegged', but, get a scifi
-"pass", or a "badge"; now u can enjoy steady employment on other scifi
-movies.. Directors will pick you when they need "a scifi type person".
+DW: "German lawmakers look to end free COVID-19 tests in October"
 
 ---
 
-Studded with scifi actors.. understandable given the subject matter.
+NYT: "Biden Ramps Up Pressure on Cuba, Abandoning Obama’s
+Approach.. [T]he president has been tougher than Donald Trump on the
+island’s government"
 
 ---
 
-*Snowden* movie was excellent. Stone did a great job.
+"@BenjySarlin
+
+Cuomo capping off a run for New York in which the prior elected
+governor resigned, the LG who took over in the interim didn't run for
+re-elect over scandals, the previous AG resigned over abuse
+allegations, and the top D and R legislative leaders went to jail in
+corruption cases"
 
 ---
 
-But hey these are just number eff ups. I'll take that any day over
-today's "STD", Star Trek Discovery, with its bad writing and bad
-directing.
+Daam Cuomo is out.
 
 ---
 
-Trek TNG ship generates 12.75 billion gigawatts (from *True
-Q*). 12.75 billion gigawatts is 12.75 million terrawatts.
+DW: "European Space Agency to do a double fly-by of Venus.. The
+European Space Agency will have two spacecraft fly by Venus this
+week. One probe was developed with NASA while the other is a joint
+project with scientists from Japan"
 
-Officer says 1 Terrawatt "is more than our ship can generate" (from
-*The Masterpiece Society*)
+---
 
-???
+Politico: "After much wrangling and controversy, lawmakers on Tuesday
+approved what would be their first-ever crackdown on cryptocurrencies
+and taxes... Lawmakers aren’t creating any new taxes on
+cryptocurrencies. The main thing they’re doing is imposing on
+cryptocurrencies the sort of reporting requirements that apply when
+people sell stocks and other securities"
 
 ---
 

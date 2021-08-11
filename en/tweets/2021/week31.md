@@ -7,16 +7,12 @@
 ---
 
 Darn. I was hoping their opposition would create frustration and this
-profession be quashed for good, replaced by videos and [graders](2018/09/public-education.md).
+profession be quashed for good, replaced by videos and [graders](../../2018/09/public-education.md).
 
 "The head of the American Federation of Teachers .. union is
 rethinking its opposition to Covid-19 vaccine mandates for educators"
 
 [Link](https://www.politico.com/news/2021/08/05/aft-union-vaccine-mandates-502657)
-
----
-
-ME conflict [stats](2019/05/confstats.md#gdeltme)
 
 ---
 
@@ -51,17 +47,11 @@ publications that acknowledge funding from our councils"
 
 ---
 
-Forest fire report
-
-[Link](2019/05/natdisaster.md#fires)
-
----
-
 UCDP/PRIO Conflict Dataset update for June.
 
 AFG deaths same. Improvements in Nigeria, Yemen and Chad.
 
-[Link](2019/05/confstats.md)
+[Link](../../2019/05/confstats.md)
 
 ---
 
