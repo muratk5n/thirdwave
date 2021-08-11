@@ -36,7 +36,7 @@ both CDU and SPD are in the center?"
 
 ---
 
-DE needs more left
+DE needs more left, not more shitlibs
 
 DW: "German lawmakers look to end free COVID-19 tests in October"
 
