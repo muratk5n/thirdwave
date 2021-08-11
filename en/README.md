@@ -42,12 +42,6 @@ DW: "German lawmakers look to end free COVID-19 tests in October"
 
 ---
 
-NYT: "Biden Ramps Up Pressure on Cuba, Abandoning Obama’s
-Approach.. [T]he president has been tougher than Donald Trump on the
-island’s government"
-
----
-
 "@BenjySarlin
 
 Cuomo capping off a run for New York in which the prior elected
