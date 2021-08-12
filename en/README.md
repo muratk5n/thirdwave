@@ -35,7 +35,7 @@ Nearly all in hospitals are unvaccinated"
 
 They use deep neural nets for this sort of stuff, but often simple
 stupid logistic regression works well too (a very rudim stat
-technique). The amt of LR use at Google would blow one's mind.
+technique). The amt of LR use at Google would blow your mind.
 
 ---
 
