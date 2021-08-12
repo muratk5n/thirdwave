@@ -6,10 +6,10 @@ All human beings are born with brains divided into three parts. One
 part, the cortex (the cerebral hemispheres), handles learning,
 abstract thought, and imagination. The cortex comes into practical use
 in most children after they are seven years old [..] [T]he limbic
-system [..] deals with emotions.  Emotions are never simple; they are
-often rife with contradiction.  In a business context, for instance,
+system [..] deals with emotions. Emotions are never simple; they are
+often rife with contradiction. In a business context, for instance,
 when customers tell you they love you, this is good, right? What if
-they love your products and never buy them?  Would you rather have
+they love your products and never buy them? Would you rather have
 them hate your products and buy them all the time? The limbic brain is
 structured between birth and age five [..]
 
@@ -29,7 +29,7 @@ things: survival and reproduction [.. Rapaille's famous quote here is
 apply to any given thing a car, a type of food, a relationship, even a
 country via the culture in which we are raised [..] it all comes down
 to the worlds in which we grew up. It is obvious to everyone that
-cultures are different from one another.  What most people don't
+cultures are different from one another. What most people don't
 realize, however, is that these differences actually lead to our
 processing the same information in different ways [..]. The
 combination of [an] experience and its accompanying emotion creates

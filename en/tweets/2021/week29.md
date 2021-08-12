@@ -271,29 +271,6 @@ sound"
 
 ---
 
-Hah. So the discerete (as in quantum) does not reign supreme?
-
-Johan Hoffman, "Applying G2 [a new computational technique] to the
-Euler and [Navier-Stokes] equations opens a vast area for exploration,
-which we demonstrate by resolving several scientific mysteries,
-including d’Alembert’s paradox of zero drag in inviscid flow, the 2nd
-Law of thermodynamics and transition to turbulence. We also uncover
-several secrets of fluid dynamics including secrets of ball sports,
-flying, sailing and racing.  In particular we are led to a new
-computational foundation of thermodynamics based on deterministic
-microscopical mechanics producing deterministic mean value outputs
-coupled with indeterminate pointwise outputs, in which the 2nd Law is
-a consequence of the 1st Law. The new foundation of thermodynamics is
-not based on microscopical statistics as the statistical mechanics
-foundation pioneered by Boltzmann, and thus offers a rational
-scientific basis of thermodynamics based on computation, without the
-mystery of the 2nd Law in the statistical approach. We believe the new
-computational approach also may give insight to physics following the
-idea that Nature in one way or the other is performing an analog
-computation when evolving in time from one moment to the next"
-
----
-
 "World powers blame China for Microsoft Exchange cyberattack"
 
 ---
