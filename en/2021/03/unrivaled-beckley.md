@@ -2,6 +2,8 @@
 
 Michael Beckley
 
+<a name='ruch'/>
+
 Russia - China
 
 Russia and China currently maintain a “strategic partnership,” but

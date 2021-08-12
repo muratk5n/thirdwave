@@ -2,73 +2,81 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
 
-"ZAL Center of Applied Aeronautical Research has expanded its hydrogen
-infrastructure with a 20-meter-high, 100 m³ tank"
-
-[Link](https://bit.ly/2XfFaUR)
+US is there.. There cld be base-off before major action.
 
 ---
 
-"Solar Energy Corporation of India .. Issued a tender to set up a 25
-kW green hydrogen pilot project at SNM Hospital in Leh, Ladakh"
+BTW there is a kung-fu base in Djibouti. Threat level unknown, but it
+is at a chokepoint of sorts.
 
-[Link](https://bit.ly/3g4TMNp)
-
----
-
-The inflation expectation is around 4.7, steadily [increased](2019/05/stats.md#infexp)
-to this from 3.1 back in March. We shall see. 
-
-Vox: "America isn’t panicking about inflation"
+Jane's Defense: "US to build new storage sites in Saudi
+Arabia.. [CENTCOM] said in January that it was evaluating [a site.. ]
+as contingency logistics hubs that would enable it to supply and
+reinforce its forces without relying on the vulnerable sea route
+through the Strait of Hormuz"
 
 ---
 
-William Clarke - Lollipop Mama \#music
+"Gov. Gavin Newsom plans to announce that California will require all
+teachers and school employees to be vaccinated or submit to regular
+Covid-19 testing"
 
-[Link](https://youtu.be/k--8zPBkdHA)
-
----
-
-Exactly
-
-DW: "German election: What do the terms 'right' and 'left' mean, if
-both CDU and SPD are in the center?"
+[Link](https://www.politico.com/states/california/story/2021/08/10/newsom-to-announce-nations-first-vax-or-test-rules-for-teachers-1389805 )
 
 ---
 
-DE needs more left, not more shitlibs
+"@steveschale
 
-DW: "German lawmakers look to end free COVID-19 tests in October"
+14% of hospitalized Floridians are on a ventilator.
 
----
-
-"@BenjySarlin
-
-Cuomo capping off a run for New York in which the prior elected
-governor resigned, the LG who took over in the interim didn't run for
-re-elect over scandals, the previous AG resigned over abuse
-allegations, and the top D and R legislative leaders went to jail in
-corruption cases"
+Nearly all in hospitals are unvaccinated"
 
 ---
 
-Daam Cuomo is out.
+They use deep neural nets for this sort of stuff, but often simple
+stupid logistic regression works well too (a very rudim stat
+technique). The amt of LR use at Google would blow one's mind.
 
 ---
 
-DW: "European Space Agency to do a double fly-by of Venus.. The
-European Space Agency will have two spacecraft fly by Venus this
-week. One probe was developed with NASA while the other is a joint
-project with scientists from Japan"
+How does it work? You feed gazillion images (in the same format)
+against dementia diagnosis 'labels', train it, then for a new similar
+input the system spits out a dementia diagnosis.
 
 ---
 
-Politico: "After much wrangling and controversy, lawmakers on Tuesday
-approved what would be their first-ever crackdown on cryptocurrencies
-and taxes... Lawmakers aren’t creating any new taxes on
-cryptocurrencies. The main thing they’re doing is imposing on
-cryptocurrencies the sort of reporting requirements that apply when
-people sell stocks and other securities"
+Article should have called it 'nonlinear regression' instead of "AI";
+the solution is extremely focused, not the free-range style inputs
+people deal with every day with their 'real intelligence'. 
+
+"Artificial Intelligence may diagnose dementia in a day"
+
+---
+
+Yes but then they go ahead and [train](2021/03/unrivaled-beckley.md#ruch) with
+eachother's enemies too. Did this strategic situation change? Probably not.
+
+WSJ: "China, Russia Hold Military Drills Amid Regional Security Concerns"
+
+---
+
+There is no upside for Dems from "good relations" with Cuba.  
+
+NYT: "Biden Ramps Up Pressure on Cuba, Abandoning Obama’s Approach"
+
+---
+
+Latita
+
+---
+
+NY AG wins again
+
+"Amazon Loses Bid to Halt New York’s Warehouse Covid Probe"
+
+---
+
+Messi in France.. good good
 
 ---
 

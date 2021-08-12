@@ -1,5 +1,76 @@
 # Week 32
 
+
+"ZAL Center of Applied Aeronautical Research has expanded its hydrogen
+infrastructure with a 20-meter-high, 100 m³ tank"
+
+[Link](https://bit.ly/2XfFaUR)
+
+---
+
+"Solar Energy Corporation of India .. Issued a tender to set up a 25
+kW green hydrogen pilot project at SNM Hospital in Leh, Ladakh"
+
+[Link](https://bit.ly/3g4TMNp)
+
+---
+
+The inflation expectation is around 4.7, steadily [increased](2019/05/stats.md#infexp)
+to this from 3.1 back in March. We shall see. 
+
+Vox: "America isn’t panicking about inflation"
+
+---
+
+William Clarke - Lollipop Mama \#music
+
+[Link](https://youtu.be/k--8zPBkdHA)
+
+---
+
+Exactly
+
+DW: "German election: What do the terms 'right' and 'left' mean, if
+both CDU and SPD are in the center?"
+
+---
+
+DE needs more left, not more shitlibs
+
+DW: "German lawmakers look to end free COVID-19 tests in October"
+
+---
+
+"@BenjySarlin
+
+Cuomo capping off a run for New York in which the prior elected
+governor resigned, the LG who took over in the interim didn't run for
+re-elect over scandals, the previous AG resigned over abuse
+allegations, and the top D and R legislative leaders went to jail in
+corruption cases"
+
+---
+
+Daam Cuomo is out.
+
+---
+
+DW: "European Space Agency to do a double fly-by of Venus.. The
+European Space Agency will have two spacecraft fly by Venus this
+week. One probe was developed with NASA while the other is a joint
+project with scientists from Japan"
+
+---
+
+Politico: "After much wrangling and controversy, lawmakers on Tuesday
+approved what would be their first-ever crackdown on cryptocurrencies
+and taxes... Lawmakers aren’t creating any new taxes on
+cryptocurrencies. The main thing they’re doing is imposing on
+cryptocurrencies the sort of reporting requirements that apply when
+people sell stocks and other securities"
+
+---
+
 "The ‘Hydrogen Olympics’ Lit a Torch for the Clean Fuel’s Future.. An
 energy expert explains why Japan—along with much of the rest of the
 world—is committing to the clean-burning fuel"
