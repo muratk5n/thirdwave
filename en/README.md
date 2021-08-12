@@ -65,10 +65,6 @@ NYT: "Biden Ramps Up Pressure on Cuba, Abandoning Obama’s Approach"
 
 ---
 
-Latita
-
----
-
 NY AG wins again
 
 "Amazon Loses Bid to Halt New York’s Warehouse Covid Probe"
