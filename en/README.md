@@ -15,7 +15,7 @@ ignited"
 
 ---
 
-If true, not cool
+Starving ppl out... old school
 
 "The only real war still going on in Syria is about the remaining
 Islamic terrorist groups. Most of the remaining Islamic terrorists are
