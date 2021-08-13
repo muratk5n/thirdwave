@@ -1,15 +1,6 @@
 
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-
-"[DE FM] has warned the advancing Taliban in Afghanistan against
-establishing a caliphate in the embattled country. If they do, Maas
-said ... the country will not receive 'another cent' in German
-development aid, which currently stands at around 430 million euros a
-year"
-
----
-
 LA Times: "[California] The Dixie fire, now the second-largest blaze
 in state history, has burned more than 463,000 acres and destroyed
 more than 400 buildings. It has been 26 days since the Dixie fire
