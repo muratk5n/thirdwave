@@ -1,5 +1,78 @@
 # Week 32
 
+US is also there.. There can be "base-off" before major action.
+
+---
+
+BTW there is a kung-fu base in Djibouti. Threat level unknown, but it
+is at a chokepoint of sorts.
+
+Jane's Defense: "US to build new storage sites in Saudi
+Arabia.. [CENTCOM] said in January that it was evaluating [a site.. ]
+as contingency logistics hubs that would enable it to supply and
+reinforce its forces without relying on the vulnerable sea route
+through the Strait of Hormuz"
+
+---
+
+"Gov. Gavin Newsom plans to announce that California will require all
+teachers and school employees to be vaccinated or submit to regular
+Covid-19 testing"
+
+[Link](https://www.politico.com/states/california/story/2021/08/10/newsom-to-announce-nations-first-vax-or-test-rules-for-teachers-1389805 )
+
+---
+
+"@steveschale
+
+14% of hospitalized Floridians are on a ventilator.
+
+Nearly all in hospitals are unvaccinated"
+
+---
+
+They use deep neural nets for this sort of stuff, but often simple
+stupid logistic regression works well too (a very rudim stat
+technique). The amt of LR use at Google would blow your mind.
+
+---
+
+How does it work? You feed gazillion images (in the same format)
+against dementia diagnosis 'labels', train it, then for a new similar
+input the system spits out a dementia diagnosis.
+
+---
+
+Article should have called it 'nonlinear regression' instead of "AI";
+the solution is extremely focused, not the free-range style inputs
+people deal with every day with their 'real intelligence'. 
+
+"Artificial Intelligence may diagnose dementia in a day"
+
+---
+
+Yes but then they go ahead and [train](2021/03/unrivaled-beckley.md#ruch) with
+eachother's enemies too. Did this strategic situation change? Probably not.
+
+WSJ: "China, Russia Hold Military Drills Amid Regional Security Concerns"
+
+---
+
+There is no upside for Dems from "good relations" with Cuba.  
+
+NYT: "Biden Ramps Up Pressure on Cuba, Abandoning Obama’s Approach"
+
+---
+
+NY AG wins again
+
+"Amazon Loses Bid to Halt New York’s Warehouse Covid Probe"
+
+---
+
+Messi in France.. good good
+
+---
 
 "ZAL Center of Applied Aeronautical Research has expanded its hydrogen
 infrastructure with a 20-meter-high, 100 m³ tank"

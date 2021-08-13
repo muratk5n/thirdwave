@@ -1,77 +1,85 @@
 
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-US is also there.. There can be "base-off" before major action.
+
+"[DE FM] has warned the advancing Taliban in Afghanistan against
+establishing a caliphate in the embattled country. If they do, Maas
+said ... the country will not receive 'another cent' in German
+development aid, which currently stands at around 430 million euros a
+year"
 
 ---
 
-BTW there is a kung-fu base in Djibouti. Threat level unknown, but it
-is at a chokepoint of sorts.
-
-Jane's Defense: "US to build new storage sites in Saudi
-Arabia.. [CENTCOM] said in January that it was evaluating [a site.. ]
-as contingency logistics hubs that would enable it to supply and
-reinforce its forces without relying on the vulnerable sea route
-through the Strait of Hormuz"
+LA Times: "[California] The Dixie fire, now the second-largest blaze
+in state history, has burned more than 463,000 acres and destroyed
+more than 400 buildings. It has been 26 days since the Dixie fire
+ignited"
 
 ---
 
-"Gov. Gavin Newsom plans to announce that California will require all
-teachers and school employees to be vaccinated or submit to regular
-Covid-19 testing"
+If true, not cool
 
-[Link](https://www.politico.com/states/california/story/2021/08/10/newsom-to-announce-nations-first-vax-or-test-rules-for-teachers-1389805 )
+"The only real war still going on in Syria is about the remaining
+Islamic terrorist groups. Most of the remaining Islamic terrorists are
+trapped in northern Syria (Idlib province)... [O]ver 30,000 armed
+rebels belonging to various Islamic terrorist groups, none of them
+affiliated with [ISIS]. There are also nearly a million
+civilians. These rebels have nowhere to go and will fight to the death
+rather than surrender... The Assads don’t want any 'fight to death'
+battle in Idlib and the Russians unofficially propose a more
+traditional tactic for this siege situation; starve them out. While an
+ancient and often successful tactic, this approach is currently
+considered a war crime by most, but not all, nations"
 
----
-
-"@steveschale
-
-14% of hospitalized Floridians are on a ventilator.
-
-Nearly all in hospitals are unvaccinated"
-
----
-
-They use deep neural nets for this sort of stuff, but often simple
-stupid logistic regression works well too (a very rudim stat
-technique). The amt of LR use at Google would blow your mind.
+[Link](https://strategypage.com/qnd/russia/articles/20210806.aspx)
 
 ---
 
-How does it work? You feed gazillion images (in the same format)
-against dementia diagnosis 'labels', train it, then for a new similar
-input the system spits out a dementia diagnosis.
+ME conflict [update](2019/05/confstats.md#gdeltme)
 
 ---
 
-Article should have called it 'nonlinear regression' instead of "AI";
-the solution is extremely focused, not the free-range style inputs
-people deal with every day with their 'real intelligence'. 
-
-"Artificial Intelligence may diagnose dementia in a day"
-
----
-
-Yes but then they go ahead and [train](2021/03/unrivaled-beckley.md#ruch) with
-eachother's enemies too. Did this strategic situation change? Probably not.
-
-WSJ: "China, Russia Hold Military Drills Amid Regional Security Concerns"
+NY Intelligencer: "The moderate Democrats are irrationally worried
+about passing a big tax hike on the rich, but they *really* want to
+pass the bipartisan infrastructure bill. They see the bipartisan bill
+as their golden ticket to showing Republican-leaning voters in their
+districts that they can work across party lines"
 
 ---
 
-There is no upside for Dems from "good relations" with Cuba.  
-
-NYT: "Biden Ramps Up Pressure on Cuba, Abandoning Obama’s Approach"
+My o my.. This computation will have to be done the hard way...
 
 ---
 
-NY AG wins again
 
-"Amazon Loses Bid to Halt New York’s Warehouse Covid Probe"
+To repeat: H2 pipelines can transmit 10 times the energy at one-eighth
+the costs associated with electricity transmission lines. Nuke, hydro,
+wind generates H2, pipelines carry the molecules.
+
+New slogan: 'deelectrification'. 
+
+[PDF](https://hydrogencouncil.com/wp-content/uploads/2021/02/Hydrogen-Insights-2021-Report.pdf)
 
 ---
 
-Messi in France.. good good
+"Nel Hydrogen Receives Contract for a 1.25 MW Containerized PEM
+Electrolyzer for DOE H2@Scale Project in the US.. For installation at
+a nuclear power plant in the US, a groundbreaking project for
+carbonfree hydrogen production"
+
+[Link](https://bit.ly/3xFAvaW)
+
+---
+
+F24: "[2020] The French government has earmarked 1.5 billion euros
+($1.75 billion) for the development of carbon-free aircraft as part of
+a support plan for the aviation sector"
+
+[Link](https://www.france24.com/en/20200921-airbus-aims-for-hydrogen-powered-plane-by-2035)
+
+---
+
+Fortune: "[2020] British Airway backs hydrogen plane startup ZeroAvia"
 
 ---
 
