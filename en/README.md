@@ -1,6 +1,13 @@
 
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
+
+Business Insider: "Delivery wars: Over 100 Amazon delivery companies
+are banding together to form a new kind of challenger to UPS and
+FedEx"
+
+---
+
 LA Times: "[California] The Dixie fire, now the second-largest blaze
 in state history, has burned more than 463,000 acres and destroyed
 more than 400 buildings. It has been 26 days since the Dixie fire
