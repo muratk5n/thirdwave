@@ -1,83 +1,81 @@
 
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-
-Business Insider: "Delivery wars: Over 100 Amazon delivery companies
-are banding together to form a new kind of challenger to UPS and
-FedEx"
-
----
-
-LA Times: "[California] The Dixie fire, now the second-largest blaze
-in state history, has burned more than 463,000 acres and destroyed
-more than 400 buildings. It has been 26 days since the Dixie fire
-ignited"
+SNAM is one of the world's largest infrastructure companies. Here is
+its CEO [on CNBC](https://youtu.be/sZlHFKaKJU0?t=273), talking about
+reusing existing pipelines for H2 transport. It works.
 
 ---
 
-Starving ppl out... old school
-
-"The only real war still going on in Syria is about the remaining
-Islamic terrorist groups. Most of the remaining Islamic terrorists are
-trapped in northern Syria (Idlib province)... [O]ver 30,000 armed
-rebels belonging to various Islamic terrorist groups, none of them
-affiliated with [ISIS]. There are also nearly a million
-civilians. These rebels have nowhere to go and will fight to the death
-rather than surrender... The Assads don’t want any 'fight to death'
-battle in Idlib and the Russians unofficially propose a more
-traditional tactic for this siege situation; starve them out. While an
-ancient and often successful tactic, this approach is currently
-considered a war crime by most, but not all, nations"
-
-[Link](https://strategypage.com/qnd/russia/articles/20210806.aspx)
+He says he was mistakenly cast.. How the hell does that happen?
+There was an another actor with same name?
 
 ---
 
-ME conflict [update](2019/05/confstats.md#gdeltme)
+Of course.. Pat Stew was on Dune way before TNG. That's a big fat
+scifi exp on your CV.
 
 ---
 
-NY Intelligencer: "The moderate Democrats are irrationally worried
-about passing a big tax hike on the rich, but they *really* want to
-pass the bipartisan infrastructure bill. They see the bipartisan bill
-as their golden ticket to showing Republican-leaning voters in their
-districts that they can work across party lines"
+Reshare (with some additions)
+
+[Wires vs Pipes](2019/03/wirespipes.md)
 
 ---
 
-My o my.. This computation will have to be done the hard way...
+Econ [stats](019/05/stats.md)
+
+Wage growth
+
+```
+2021-06-01    3.835285
+2021-07-01    4.702067
+```
+
+Inflation
+
+```
+2021-06-01  5.391451
+2021-07-01  5.365475
+```
 
 ---
 
-
-To repeat: H2 pipelines can transmit 10 times the energy at one-eighth
-the costs associated with electricity transmission lines. Nuke, hydro,
-wind generates H2, pipelines carry the molecules.
-
-New slogan: 'deelectrification'. 
-
-[PDF](https://hydrogencouncil.com/wp-content/uploads/2021/02/Hydrogen-Insights-2021-Report.pdf)
+Yes policymaker needs to know more than the people. It's their
+job. You cant poll the random jagoff out on the street and govern
 
 ---
 
-"Nel Hydrogen Receives Contract for a 1.25 MW Containerized PEM
-Electrolyzer for DOE H2@Scale Project in the US.. For installation at
-a nuclear power plant in the US, a groundbreaking project for
-carbonfree hydrogen production"
-
-[Link](https://bit.ly/3xFAvaW)
+With renewable fuels, the option is always wide open for a green
+combustion engine too.
 
 ---
 
-F24: "[2020] The French government has earmarked 1.5 billion euros
-($1.75 billion) for the development of carbon-free aircraft as part of
-a support plan for the aviation sector"
+ZeroAvia CEO was on F24, great interview. He used the word 'hydrogen
+electric' a lot. Good idea, for marketing.. Since the "e-word" is
+associated with all kinds of 'good things for climate' in people's
+minds it makes sense to ride that marketing wave. Technically the use
+is correct, a fuel-cell converts H2 into electricity so the whole
+system *is* hydrogen-electric. There are BEVs, there are FCEVs -- both
+are EVs.
 
-[Link](https://www.france24.com/en/20200921-airbus-aims-for-hydrogen-powered-plane-by-2035)
+But policy makers need to understand what's going on under the hood,
+the overall system, in terms of emphasis (and dollars). With H2
+electric, electricity comes in to the picture *dead last*, right
+before it is getting used. Until that point the entire production,
+transport, storage can remain in gas / liquid / molecules -- no
+electricity needed.
 
 ---
 
-Fortune: "[2020] British Airway backs hydrogen plane startup ZeroAvia"
+2003 was year of Iraq invasion, and, I just looked, the year of that
+Britney Spears video *Toxic*. How things change. 
+
+---
+
+Ja
+
+"Nichtlineare Methoden"
 
 ---
 
