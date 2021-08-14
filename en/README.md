@@ -58,7 +58,7 @@ sense to ride that marketing wave. Technically the use is correct, a
 fuel-cell converts H2 into electricity so the whole system *is*
 hydrogen-electric. There are BEVs, there are FCEVs -- both are EVs.
 
-But policy makers need to understand what's going on under the hood,
+But decision makers need to understand what's going on under the hood,
 the overall system, in terms of emphasis (and dollars). With H2
 electric, electricity comes in to the picture *dead last*, right
 before it is getting used. Until that point the entire production,
