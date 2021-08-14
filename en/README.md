@@ -3,7 +3,7 @@
 
 SNAM is one of the world's largest infrastructure companies. Here is
 its CEO [on CNBC](https://youtu.be/sZlHFKaKJU0?t=273), talking about
-reusing existing pipelines for H2 transport. It works.
+reusing existing pipelines for H2 transport. 
 
 ---
 
