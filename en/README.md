@@ -23,7 +23,7 @@ Reshare (with some additions)
 
 ---
 
-Econ [stats](019/05/stats.md)
+Econ [stats](2019/05/stats.md)
 
 Wage growth
 
