@@ -46,8 +46,8 @@ job. You cant poll the random jagoff out on the street and govern
 
 ---
 
-With renewable fuels, the option is always wide open for a green
-combustion engine too.
+With renewable fuels, the possibility is also wide open for a green
+combustion engine.
 
 ---
 
