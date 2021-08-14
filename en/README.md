@@ -12,8 +12,9 @@ There was an another actor with same name?
 
 ---
 
-Of course.. Pat Stew was on Dune way before TNG. That's a big fat
-scifi exp on your CV.
+Of course.. Pat Stew was on Dune way before TNG.
+
+That's a big fat scifi experience on the ol' CV.
 
 ---
 
