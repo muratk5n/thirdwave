@@ -52,12 +52,11 @@ combustion engine too.
 ---
 
 ZeroAvia CEO was on F24, great interview. He used the word 'hydrogen
-electric' a lot. Good idea, for marketing.. Since the "e-word" is
-associated with all kinds of 'good things for climate' in people's
-minds it makes sense to ride that marketing wave. Technically the use
-is correct, a fuel-cell converts H2 into electricity so the whole
-system *is* hydrogen-electric. There are BEVs, there are FCEVs -- both
-are EVs.
+electric' a lot. Good idea, for marketing.. The "e-word" is associated
+with all kinds of 'good things for climate' in people's minds it makes
+sense to ride that marketing wave. Technically the use is correct, a
+fuel-cell converts H2 into electricity so the whole system *is*
+hydrogen-electric. There are BEVs, there are FCEVs -- both are EVs.
 
 But policy makers need to understand what's going on under the hood,
 the overall system, in terms of emphasis (and dollars). With H2
