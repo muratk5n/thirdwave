@@ -41,11 +41,6 @@ Inflation
 
 ---
 
-Yes policymaker needs to know more than the people. It's their
-job. You cant poll the random jagoff out on the street and govern
-
----
-
 With renewable fuels, the possibility is also wide open for a green
 combustion engine.
 
