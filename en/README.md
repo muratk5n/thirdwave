@@ -61,9 +61,9 @@ hydrogen-electric. There are BEVs, there are FCEVs -- both are EVs.
 But decision makers need to understand what's going on under the hood,
 the overall system, in terms of emphasis (and dollars). With H2
 electric, electricity comes in to the picture *dead last*, right
-before it is getting used. Until that point the entire production,
-transport, storage can remain in gas / liquid / molecules -- no
-electricity needed.
+before it is used. Until that point the entire production, transport,
+storage can remain in gas / liquid / molecules -- no electricity
+needed.
 
 ---
 
