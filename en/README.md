@@ -20,7 +20,7 @@ air-conditioning they blasted prompted blackouts"
 
 The "balanced plate" idea for prediction is looking better.. Bunch of
 eqs on one side (bottom left), had to be balanced by a big eq on the
-other side.
+ cother side.
 
 ---
 
@@ -84,12 +84,12 @@ ds = ["Revenue  (ttm)", "Quarterly Revenue Growth  (yoy)",\
 q = yf.get_financials("NFLX")
 print ('NFLX', [(d[:20] + ': ' + q[d]) for d in ds])
 q = yf.get_financials("DIS")
-print ('DSI', [(d[:20] + ': ' + q[d]) for d in ds])
+print ('DIS', [(d[:20] + ': ' + q[d]) for d in ds])
 ```
 
 ```text
 NFLX ['Revenue  (ttm): 27.59B', 'Quarterly Revenue Gr: 19.40%', 'Quarterly Earnings G: 87.90%']
-DSI ['Revenue  (ttm): 63.59B', 'Quarterly Revenue Gr: 44.50%', 'Quarterly Earnings G: N/A']
+DIS ['Revenue  (ttm): 63.59B', 'Quarterly Revenue Gr: 44.50%', 'Quarterly Earnings G: N/A']
 ```
 
 DIS rev growth looks good
