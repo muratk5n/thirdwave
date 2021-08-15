@@ -67,7 +67,7 @@ invasion] turned into a complete disaster...
 
 <a name='gap'/>
 
-To many in Moscow [JFK] seemed less tough than Richard Nixon..  and
+To many in Moscow (JFK..) seemed less tough than Richard Nixon..  and
 more susceptible to Khrushchev’s subterfuge and intimidation. Kennedy
 appeared to believe in a missile gap between the Soviet Union and the
 United States favoring the former—a notion fed not only by the Soviet
