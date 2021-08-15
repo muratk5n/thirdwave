@@ -19,11 +19,9 @@ That's a big fat scifi experience on the ol' CV.
 
 Reshare (with some additions)
 
-[Wires vs Pipes](2019/03/wirespipes.md)
+[Wires vs Pipes](../../2019/03/wirespipes.md)
 
 ---
-
-Econ [stats](2019/05/stats.md)
 
 Wage growth
 
@@ -104,9 +102,6 @@ considered a war crime by most, but not all, nations"
 
 ---
 
-ME conflict [update](2019/05/confstats.md#gdeltme)
-
----
 
 NY Intelligencer: "The moderate Democrats are irrationally worried
 about passing a big tax hike on the rich, but they *really* want to
