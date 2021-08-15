@@ -84,19 +84,20 @@ four-power agreements of the immediate postwar era. The Soviets
 responded by moving their own tanks to the area. By early evening the
 two columns of tanks faced each other at Checkpoint Charlie, each less
 than one hundred meters from the demarcation line. The tanks had live
-ammunition, and their crews had orders to respond if fired upon.
+ammunition, and their crews had orders to respond if fired upon. Clay,
+in charge of the US troops, was prepared to use his tanks to crush
+parts of the newly constructed Berlin Wall. Darkness fell with no
+resolution to the crisis.
 
-Clay, in charge of the US troops, was prepared to use his tanks to
-crush parts of the newly constructed Berlin Wall. Darkness fell with
-no resolution to the crisis. Not until morning did the tanks begin to
-draw back from the demarcation line. First the Soviet tanks moved five
-meters back; the Americans followed suit. Then came another five
-meters from both sides, then another. The standoff, which had begun at
-5:00 p.m. on October 27, was over by 11:00 a.m. on October 28. The
-orders came from the very top—the White House and the Kremlin. Neither
-Kennedy nor Khrushchev wanted the situation to escalate into
-war... Unbeknownst to both sides, it would be a model for the solution
-of a later and much more serious crisis.
+Not until morning did the tanks begin to draw back from the
+demarcation line. First the Soviet tanks moved five meters back; the
+Americans followed suit. Then came another five meters from both
+sides, then another. The standoff, which had begun at 5:00 p.m. on
+October 27, was over by 11:00 a.m. on October 28. The orders came from
+the very top—the White House and the Kremlin. Neither Kennedy nor
+Khrushchev wanted the situation to escalate into war... Unbeknownst to
+both sides, it would be a model for the solution of a later and much
+more serious crisis.
 
 Khrushchev and Kennedy had the first chance to size each other up on
 June 3, 1961. The venue was the US embassy in Vienna... [went badly
