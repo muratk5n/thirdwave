@@ -168,7 +168,7 @@ shores of Cuba... This looked like a solution to both of his problems,
 protecting Cuba and bridging the missile gap with the United
 States... 
 
-[JFK]: “[I]t’s just as if we suddenly began to put a major number of
+(JFK) “[I]t’s just as if we suddenly began to put a major number of
 MRBMs in Turkey. Now that’d be goddam dangerous, I would think.”
 Undersecretary of State Alexis Johnson interjected a sobering remark:
 “We did it.”  Kennedy was unimpressed: “Yeah, but it was five years
