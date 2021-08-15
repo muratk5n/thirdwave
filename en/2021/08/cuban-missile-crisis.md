@@ -97,7 +97,7 @@ October 27, was over by 11:00 a.m. on October 28. The orders came from
 the very top—the White House and the Kremlin. Neither Kennedy nor
 Khrushchev wanted the situation to escalate into war... Unbeknownst to
 both sides, it would be a model for the solution of a later and much
-more serious crisis.
+more serious crisis...
 
 Khrushchev and Kennedy had the first chance to size each other up on
 June 3, 1961. The venue was the US embassy in Vienna... [went badly
