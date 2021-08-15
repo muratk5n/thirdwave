@@ -28,7 +28,7 @@ were on one side, had to be balanced by a big eq on the other side.
 
 ---
 
-7.2 in Haiti?
+7.2 in Haiti
 
 ---
 
