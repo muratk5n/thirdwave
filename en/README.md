@@ -65,6 +65,8 @@ Sheee-iiiiiit
 
 Earnings growth 48.40%? Is that right?
 
+Now we know where all that pandemic spnding went.
+
 ---
 
 The company certainly helped itself by pushing for content like *The
