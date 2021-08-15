@@ -46,3 +46,5 @@
 
 [Historical Carbon Emissions](07/historical-carbon-emissions.md)
 
+[The Cuban Missile Crisis](08/cuban-missile-crisis.md)
+
