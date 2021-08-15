@@ -1,5 +1,78 @@
 # Week 32
 
+SNAM is one of the world's largest infrastructure companies. Here is
+its CEO [on CNBC](https://youtu.be/sZlHFKaKJU0?t=273), talking about
+reusing existing pipelines for H2 transport. 
+
+---
+
+He says he was mistakenly cast.. How the hell does that happen?
+There was an another actor with same name?
+
+---
+
+Of course.. Pat Stew was on Dune way before TNG.
+
+That's a big fat scifi experience on the ol' CV.
+
+---
+
+Reshare (with some additions)
+
+[Wires vs Pipes](2019/03/wirespipes.md)
+
+---
+
+Econ [stats](2019/05/stats.md)
+
+Wage growth
+
+```
+2021-06-01    3.835285
+2021-07-01    4.702067
+```
+
+Inflation
+
+```
+2021-06-01  5.391451
+2021-07-01  5.365475
+```
+
+---
+
+With renewable fuels, the possibility is also wide open for a green
+combustion engine.
+
+---
+
+ZeroAvia CEO was on F24, great interview. He used the word 'hydrogen
+electric' a lot. Good idea, for marketing.. The "e-word" is associated
+with all kinds of 'good things for climate' in people's minds it makes
+sense to ride that marketing wave. Technically the use is correct, a
+fuel-cell converts H2 into electricity so the whole system *is*
+hydrogen-electric. There are BEVs, there are FCEVs -- both are EVs.
+
+But decision makers need to understand what's going on under the hood,
+the overall system, in terms of emphasis (and dollars). With H2
+electric, electricity comes in to the picture *dead last*, right
+before it is used. Until that point the entire production, transport,
+storage can remain in gas / liquid / molecules -- no electricity
+needed.
+
+---
+
+2003 was year of Iraq invasion, and, I just looked, the year of that
+Britney Spears video *Toxic*. How things change. 
+
+---
+
+Ja
+
+"Nichtlineare Methoden"
+
+---
+
 Business Insider: "Delivery wars: Over 100 Amazon delivery companies
 are banding together to form a new kind of challenger to UPS and
 FedEx"

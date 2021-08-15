@@ -54,7 +54,7 @@ def get_eq(minx,maxx,miny,maxy):
 ```python
 import mygeo
 
-lat,lon = 55, -137
+lat,lon = 19, -72
 D = 3000
 lat1,lon1 = mygeo.to_bearing(lat,lon,np.deg2rad(45),D)
 lat2,lon2 = mygeo.to_bearing(lat,lon,np.deg2rad(225),D)

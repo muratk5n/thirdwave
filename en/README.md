@@ -1,76 +1,104 @@
 
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-SNAM is one of the world's largest infrastructure companies. Here is
-its CEO [on CNBC](https://youtu.be/sZlHFKaKJU0?t=273), talking about
-reusing existing pipelines for H2 transport. 
+
+NYT: "[A Sicilian town Floridia] is perhaps the most blisteringly hot
+town in the recorded history of Europe, offering Italy and the entire
+Mediterranean a preview of a sweltering and potentially uninhabitable
+future brought on by the globe’s changing climate... [A] nearby
+monitoring station registered a temperature of ... nearly 49 degrees
+Celsius....  the unprecedented heat rendered Floridia a blindingly
+bright ghost town, with its bars deserted, its baroque and
+sand-colored churches darkened, its piazzas emptied.In the surrounding
+fields, the area’s famed snails burned in their shells. The relentless
+sun branded the verdello green lemons with yellow blots and stewed
+their flesh within. Everyone holed up in their houses. The
+air-conditioning they blasted prompted blackouts"
 
 ---
 
-He says he was mistakenly cast.. How the hell does that happen?
-There was an another actor with same name?
+
+The "balanced plate" idea for prediction is looking better.. There
+were bunch of eqs around that region, if you see it as a plate, most
+>6.0 were on one side, had to be balanced by a big eq on the other
+side.
 
 ---
 
-Of course.. Pat Stew was on Dune way before TNG.
-
-That's a big fat scifi experience on the ol' CV.
+<img width="340" src="https://pbs.twimg.com/media/E8weTFtXEAA11rZ?format=jpg&name=small"/>
 
 ---
 
-Reshare (with some additions)
-
-[Wires vs Pipes](2019/03/wirespipes.md)
+7.2 in Haiti?
 
 ---
 
-Econ [stats](2019/05/stats.md)
+NYT: "Why the Afghan Military Collapsed So Quickly.. The Taliban’s
+rapid advance has made clear that U.S. efforts to turn Afghanistan’s
+military into a robust, independent fighting force have failed, with
+its soldiers feeling abandoned by inept leaders"
 
-Wage growth
+---
 
+BBC: "Climate change: July world's hottest month ever [says] US agency"
+
+---
+
+WSJ: "Greece Clamps Down on Aid Groups That Help Migrants.. The
+country has accused nongovernmental organizations of involvement in
+trafficking as part of its efforts to stem the flow of migrants and
+refugees who continue to make dangerous journeys to Europe"
+
+---
+
+Amazon?
+
+```python
+q = yf.get_financials("AMZN")
+print ('AMZN', [(d[:20] + ': ' + q[d]) for d in ds])
 ```
-2021-06-01    3.835285
-2021-07-01    4.702067
+
+```text
+AMZN ['Revenue  (ttm): 443.3B', 'Quarterly Revenue Gr: 27.20%', 'Quarterly Earnings G: 48.40%']
 ```
 
-Inflation
+Sheee-iiiiiit
 
+Earnings growth 48.40%? Is that right?
+
+---
+
+The company certainly helped itself by pushing for content like *The
+Mandalorian*, becoming less cuck
+
+---
+
+Disney raked it in..? Let's check
+
+
+```python
+import yf
+
+ds = ["Revenue  (ttm)", "Quarterly Revenue Growth  (yoy)",\
+      "Quarterly Earnings Growth  (yoy)"]
+      
+q = yf.get_financials("NFLX")
+print ('NFLX', [(d[:20] + ': ' + q[d]) for d in ds])
+q = yf.get_financials("DIS")
+print ('DSI', [(d[:20] + ': ' + q[d]) for d in ds])
 ```
-2021-06-01  5.391451
-2021-07-01  5.365475
+
+```text
+NFLX ['Revenue  (ttm): 27.59B', 'Quarterly Revenue Gr: 19.40%', 'Quarterly Earnings G: 87.90%']
+DSI ['Revenue  (ttm): 63.59B', 'Quarterly Revenue Gr: 44.50%', 'Quarterly Earnings G: N/A']
 ```
 
----
-
-With renewable fuels, the possibility is also wide open for a green
-combustion engine.
+DIS rev growth looks good
 
 ---
 
-ZeroAvia CEO was on F24, great interview. He used the word 'hydrogen
-electric' a lot. Good idea, for marketing.. The "e-word" is associated
-with all kinds of 'good things for climate' in people's minds it makes
-sense to ride that marketing wave. Technically the use is correct, a
-fuel-cell converts H2 into electricity so the whole system *is*
-hydrogen-electric. There are BEVs, there are FCEVs -- both are EVs.
-
-But decision makers need to understand what's going on under the hood,
-the overall system, in terms of emphasis (and dollars). With H2
-electric, electricity comes in to the picture *dead last*, right
-before it is used. Until that point the entire production, transport,
-storage can remain in gas / liquid / molecules -- no electricity
-needed.
-
----
-
-2003 was year of Iraq invasion, and, I just looked, the year of that
-Britney Spears video *Toxic*. How things change. 
-
----
-
-Ja
-
-"Nichtlineare Methoden"
+CNBC: "Disney won this earnings season by adding 12 million Disney+
+subscribers while Netflix's growth stalled"
 
 ---
 
