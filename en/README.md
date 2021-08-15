@@ -18,9 +18,9 @@ air-conditioning they blasted prompted blackouts"
 ---
 
 
-The "balanced plate" idea for prediction is looking better.. There
-were bunch of eqs around that region, if you see it as a plate, most >6.0
-were on one side, had to be balanced by a big eq on the other side.
+The "balanced plate" idea for prediction is looking better.. Bunch of
+eqs on one side (bottom left), had to be balanced by a big eq on the
+other side.
 
 ---
 
