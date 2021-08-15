@@ -67,7 +67,7 @@ invasion] turned into a complete disaster...
 
 <a name='gap'/>
 
-To many in Moscow (JFK..) seemed less tough than Richard Nixon..  and
+To many in Moscow [JFK..] seemed less tough than Richard Nixon..  and
 more susceptible to Khrushchev’s subterfuge and intimidation. Kennedy
 appeared to believe in a missile gap between the Soviet Union and the
 United States favoring the former—a notion fed not only by the Soviet
@@ -76,10 +76,10 @@ one that Eisenhower’s U-2 spy flights were threatening to debunk...
 
 <a name='berlin'/>
 
-[Kennedy's big problem was] General Lucius Clay [.. who] sent American
-tanks to Checkpoint Charlie on the border between the eastern and
-western sectors to enforce American rights to move freely through the
-entire city, including its eastern part, as guaranteed by the
+[Kennedy's problem in Europe was] General Lucius Clay [.. who] sent
+American tanks to Checkpoint Charlie on the border between the eastern
+and western sectors to enforce American rights to move freely through
+the entire city, including its eastern part, as guaranteed by the
 four-power agreements of the immediate postwar era. The Soviets
 responded by moving their own tanks to the area. By early evening the
 two columns of tanks faced each other at Checkpoint Charlie, each less
