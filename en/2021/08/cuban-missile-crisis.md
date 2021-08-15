@@ -6,12 +6,11 @@ American troops landed on the beaches of Cuba in June 1898. The US
 government entered the conflict partly in response to public demand to
 stop Spanish atrocities against the Cubans, widely covered and often
 exaggerated in the American media. But behind the move was also the
-implementation of the decades-old Monroe Doctrine...
-
-In 1902, there was no appetite in Washington to extend American
-borders to include Cuba, but neither was there much desire to make it
-fully independent... In all but name Cuba became a colony of the
-United States in the Caribbean. Most of the assets in the agricultural
+implementation of the decades-old Monroe Doctrine... In 1902, there
+was no appetite in Washington to extend American borders to include
+Cuba, but neither was there much desire to make it fully
+independent... In all but name Cuba became a colony of the United
+States in the Caribbean. Most of the assets in the agricultural
 sector, mining, utilities, and financial services ended up in American
 hands. To safeguard American strategic and economic interests on the
 island, the United States made alliances with the local landowning
@@ -26,17 +25,15 @@ tourists became thriving industries...
 Upon his return to Cuba, Batista canceled the impending presidential
 elections. His corrupt rule antagonized not only the poor but also the
 middle class. With elections canceled and democracy under attack,
-dissatisfied young people took up arms...
-
-On July 23, 1953, a group of young revolutionaries staged an attack on
-the Moncada Barracks in Santiago. The assault was repelled and its
-leaders arrested. Among the latter was a twenty-six-year-old lawyer
-and descendant of a wealthy landowning family, Fidel Castro, who was
-sentenced to a fifteen-year term. His younger brother, Raúl, and
-twenty-four more participants in the attack were also imprisoned.
-Luckily for the Castro brothers and their coconspirators, they were
-released in May 1955 as Batista sought to improve his international
-image.
+dissatisfied young people took up arms... On July 23, 1953, a group of
+young revolutionaries staged an attack on the Moncada Barracks in
+Santiago. The assault was repelled and its leaders arrested. Among the
+latter was a twenty-six-year-old lawyer and descendant of a wealthy
+landowning family, Fidel Castro, who was sentenced to a fifteen-year
+term. His younger brother, Raúl, and twenty-four more participants in
+the attack were also imprisoned.  Luckily for the Castro brothers and
+their coconspirators, they were released in May 1955 as Batista sought
+to improve his international image.
 
 Batista’s regime used ever more brutal tactics to suppress the rebels,
 but that only increased the number of fighters. Those measures also
@@ -65,8 +62,10 @@ stake...  Only a few years earlier, in June 1954, the CIA had executed
 a successful coup in Guatemala, where land reform threatened the
 interests of the United Fruit Company... The CIA prepared a plan, but
 Eisenhower did not have time to carry out the project. It was passed
-on instead to the new president, John Kennedy... [Bay of Pigs
+on instead to the new president, John Kennedy... [But the Bay of Pigs
 invasion] turned into a complete disaster...
+
+<a name='gap'/>
 
 To many in Moscow [JFK] seemed less tough than Richard Nixon..  and
 more susceptible to Khrushchev’s subterfuge and intimidation. Kennedy
@@ -75,19 +74,20 @@ United States favoring the former—a notion fed not only by the Soviet
 success with Sputnik but also by Khrushchev’s own fiery rhetoric, and
 one that Eisenhower’s U-2 spy flights were threatening to debunk...
 
+<a name='berlin'/>
+
 Kennedy had his own rebel to deal with. This was General Lucius Clay
 [.. who] sent American tanks to Checkpoint Charlie on the border
 between the eastern and western sectors to enforce American rights to
 move freely through the entire city, including its eastern part, as
 guaranteed by the four-power agreements of the immediate postwar
-era. The Soviets responded by moving their own tanks to the area.
-
-By early evening the two columns of tanks faced each other at
-Checkpoint Charlie, each less than one hundred meters from the
-demarcation line. The tanks had live ammunition, and their crews had
-orders to respond if fired upon. Clay, in charge of the US troops, was
-prepared to use his tanks to crush parts of the newly constructed
-Berlin Wall. Darkness fell with no resolution to the crisis. Not until
+era. The Soviets responded by moving their own tanks to the area. By
+early evening the two columns of tanks faced each other at Checkpoint
+Charlie, each less than one hundred meters from the demarcation
+line. The tanks had live ammunition, and their crews had orders to
+respond if fired upon. Clay, in charge of the US troops, was prepared
+to use his tanks to crush parts of the newly constructed Berlin
+Wall. Darkness fell with no resolution to the crisis. Not until
 morning did the tanks begin to draw back from the demarcation
 line. First the Soviet tanks moved five meters back; the Americans
 followed suit. Then came another five meters from both sides, then
@@ -98,7 +98,7 @@ wanted the situation to escalate into war... Unbeknownst to both
 sides, it would be a model for the solution of a later and much more
 serious crisis.
 
-Khrushchev AND Kennedy had the first chance to size each other up on
+Khrushchev and Kennedy had the first chance to size each other up on
 June 3, 1961. The venue was the US embassy in Vienna... [went badly
 for JFK, who] assumed that he had been treated that way because of the
 Bay of Pigs debacle. Khrushchev “thought that anyone who was so young
@@ -132,18 +132,19 @@ and discontent caused by the worsening economic situation was on the
 rise...
 
 Forced to choose between the old communist Escalante and the brand-new
-Marxist Castro, Khrushchev had decided to back the latter...
-
-Castro’s pledge to lead his country to socialism, previously ignored,
-had finally paid off, but only after his unexpected attack on Moscow’s
+Marxist Castro, Khrushchev had decided to back the latter... Castro’s
+pledge to lead his country to socialism, previously ignored, had
+finally paid off, but only after his unexpected attack on Moscow’s
 allies in Havana. Khrushchev’s hitherto cautious approach to Castro
 and Cuba was completely abandoned on April 18, when he sent a letter
 to “Comrade Fidel Castro” commemorating the first anniversary of the
-Cuban victory at the Bay of Pigs. Castro had finally gotten Khrushchev
-on an ideological leash, but Khrushchev was willing to be caught. His
-motive was not purely ideological. Great-power rivalry and the nuclear
-arms race with the United States, which Khrushchev knew he was losing,
-were among the factors that attracted him to Cuba...
+Cuban victory at the Bay of Pigs.
+
+Castro had finally gotten Khrushchev on an ideological leash, but
+Khrushchev was willing to be caught. His motive was not purely
+ideological. Great-power rivalry and the nuclear arms race with the
+United States, which Khrushchev knew he was losing, were among the
+factors that attracted him to Cuba...
 
 In April 1962 Khrushchev found himself simultaneously besieged by a
 number of foreign policy crises. First there was Castro’s sudden turn
@@ -151,9 +152,8 @@ against the communists in his government and threat of a new invasion
 of the island. Then came news that Kennedy had resumed atmospheric
 nuclear testing—a nuclear bomb was exploded at Christmas Island in the
 Pacific on April 25. [He fired a commander] allowing the real missile
-gap between the US and the USSR to increase..
-
-[A new US missile] powered by solid fuel and, unlike earlier
+gap between the US and the USSR to increase.. [There was a new US
+missile called Minuteman] powered by solid fuel and, unlike earlier
 liquid-fueled missiles that needed hours of fueling before a strike,
 could be ready at any minute -- hence the name. Moreover Minuteman
 could be housed in silos hard for the enemy to destroy, making them
@@ -190,7 +190,7 @@ June 1960, he would strike back by asking Congress either to increase
 the defense budget or to call up reservists, or both. He was
 overcompensating at home for diplomatic defeats abroad, not only to
 warn Khrushchev but also to protect himself politically in his own
-country. He was strengthening the American military and sending
-threatening signals to his nemesis. But this time was
-different. Kennedy felt that he had to use force.
+country...
+
+
 
