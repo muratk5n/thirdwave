@@ -1,5 +1,7 @@
 # The Cuban Missile Crisis
 
+From *Nuclear Folly*, by Plokhy
+
 American troops landed on the beaches of Cuba in June 1898. The US
 government entered the conflict partly in response to public demand to
 stop Spanish atrocities against the Cubans, widely covered and often
