@@ -20,7 +20,7 @@ air-conditioning they blasted prompted blackouts"
 
 The "balanced plate" idea for prediction is looking better.. Bunch of
 eqs on one side (bottom left), had to be balanced by a big eq on the
- cother side.
+other side.
 
 ---
 
