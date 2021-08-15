@@ -168,12 +168,12 @@ shores of Cuba... This looked like a solution to both of his problems,
 protecting Cuba and bridging the missile gap with the United
 States... 
 
-(JFK) “[I]t’s just as if we suddenly began to put a major number of
-MRBMs in Turkey. Now that’d be goddam dangerous, I would think.”
+[JFK said 'It is] just as if we suddenly began to put a major number
+of MRBMs in Turkey. Now that’d be goddam dangerous, I would think.'
 Undersecretary of State Alexis Johnson interjected a sobering remark:
-“We did it.”  Kennedy was unimpressed: “Yeah, but it was five years
-ago.” But Johnson would not give up. “That’s when we were short on
-ICBMs,” he told Kennedy.  Unknowingly, he pointed at one of the key
+'We did it.'  Kennedy was unimpressed: 'Yeah, but it was five years
+ago.' But Johnson would not give up. 'That’s when we were short on
+ICBMs,' he told Kennedy.  Unknowingly, he pointed at one of the key
 factors that motivated Khrushchev’s actions in Cuba: his lack of
 long-range intercontinental missiles...
 
