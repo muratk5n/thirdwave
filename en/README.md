@@ -61,8 +61,6 @@ print ('AMZN', [(d[:20] + ': ' + q[d]) for d in ds])
 AMZN ['Revenue  (ttm): 443.3B', 'Quarterly Revenue Gr: 27.20%', 'Quarterly Earnings G: 48.40%']
 ```
 
-Sheee-iiiiiit
-
 Earnings growth 48.40%? Is that right?
 
 Now we know where all that pandemic spnding went.
