@@ -1,8 +1,8 @@
 
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-Al Jazeera Eng has some good documentaries. The one on NK, and on
-limits to econ growth very good..
+Al Jazeera Eng has some good docu's. The one on NK, and on limits to
+econ growth very good..
 
 ---
 
