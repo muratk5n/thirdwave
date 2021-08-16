@@ -30,7 +30,7 @@ can safely be eliminated from diets.
 
 ---
 
-There was no god damn [missile gap](2021/08/cuban-missile-crisis.md#berlin).
+There was no god damn [missile gap](2021/08/cuban-missile-crisis.md#gap).
 JFK either lied or foolishly believed in it himself, likely the former.
 There was a missile gap much earlier, that's why US placed missiles in TR.
 Bcz of the 60s missile gap, this time with USSR at a disadvantage, USSR
