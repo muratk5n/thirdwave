@@ -45,7 +45,7 @@ One tank moves back five meters, the other too, and another.. Major standoff.
 
 ---
 
-Hah, it's true, the North Korean embassy in Berlin is also a hostel. I
+It's true, the North Korean embassy in Berlin is also a hostel. I
 passed by it many times.. At first u dont realize it, first see the
 hostel, keep walking, while turning around the corner, u notice the NK
 stuff. Then it's like 'wait.. it's the same building!'
