@@ -53,8 +53,7 @@ stuff. Then it's like 'wait.. it's the same building!'
 ---
 
 I remember this AFG Prez having bunch of power sharing issues while
-back.. now Im thinking - over what? Gov disintegrated like cotton
-candy! 
+back.. now think.. over what? Gov disintegrated like cotton candy!
 
 ---
 
