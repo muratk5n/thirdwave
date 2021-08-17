@@ -14,8 +14,8 @@ for the Los Angeles Times [in 1989]'"
 
 ---
 
-Actually Dubya WH worked through local warlords in AFG. Obama WH made
-a major surge; so if you go by the numbers, it was Obama who invaded
+Actually Dubya WH worked through local warlords. Bama WH made a major
+surge; so if you go by the numbers, it was Obama who invaded
 Afghanistan.
 
 Clearly both methods failed. 
