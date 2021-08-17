@@ -29,7 +29,7 @@ I dont think there was a 'good way' of getting out of Afghanistan.
 Tali wins.. All that after dropping them bombs.. Remember
 [MOAB](https://taskandpurpose.com/news/much-actually-achieve-dropping-moab-afghanistan/)?
 
-Trump tried to tame Afghanistan for a while too? Didn't work.
+Trump tried to tame Afghanistan for a while too apparently.. Didn't work.
 
 ---
 
