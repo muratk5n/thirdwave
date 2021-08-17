@@ -1,5 +1,69 @@
 # Week 33
 
+Al Jazeera Eng has some good docu's. The one on NK, and on limits to
+econ growth very good..
+
+---
+
+"Russia Approves #Hydrogen Energy Development Concept. 1st stage
+involves creation of specialized clusters & pilot projects for
+production/export of hydrogen & for domestic market"
+
+[Link](https://bit.ly/3Alk2um)
+
+---
+
+Jeffrey Sachs: G20 shld be G21; African countries shld join as an
+African Union (EU joined as a union, why not AU?) 
+
+---
+
+
+What food was foreign to (most) hunter-gatherers? Tomatoes. For many
+in the "Old World", until 16th century there were no tomatoes. The veg
+is associated with Italian cooking, but this is a mistake, a recent
+development... They, nor or the Greeks, or anyone wld have known it
+before 16th.. So if you dont like tomatoes, do not feel
+bad. Biologically we did not need it, not part of our evolution, so
+can safely be eliminated from diets.
+
+---
+
+There was no god damn [missile gap](2021/08/cuban-missile-crisis.md#gap).
+JFK either lied or foolishly believed in it himself, likely the former.
+There was a missile gap much earlier, that's why US placed missiles in TR.
+Bcz of the 60s missile gap, this time with USSR at a disadvantage, USSR
+wanted to place missiles in Cuba.
+
+"How about the missile gap of 1960s? JFK won the election thanks to it"
+
+---
+
+Another Berlin story, [Checkpoint Charlie](2021/08/cuban-missile-crisis.md#berlin). 
+One tank moves back five meters, the other too, and another.. Major standoff. 
+
+---
+
+It's true, the North Korean embassy in Berlin is also a hostel. I
+passed by it many times.. At first u dont realize it, first see the
+hostel, keep walking, while turning around the corner, u notice the NK
+stuff. Then it's like 'wait.. it's the same building!'
+
+---
+
+I remember this AFG Prez having bunch of power sharing issues while
+back.. now think.. over what? Gov disintegrated like cotton candy!
+
+---
+
+Tali in the palace.. Bleeping hilarious
+
+---
+
+Daam.. AFG Prez got - the - fuck **out**
+
+---
+
 NYT: "[A Sicilian town Floridia] is perhaps the most blisteringly hot
 town in the recorded history of Europe, offering Italy and the entire
 Mediterranean a preview of a sweltering and potentially uninhabitable
