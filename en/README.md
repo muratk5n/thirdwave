@@ -28,8 +28,8 @@ on those wishes?
 ---
 
 Alexander the Great and other Greeks before him went there.. more than
-a few stayed. I look at the faces now, spotted Greek, Anatolian
-looking mfkers...
+a few stayed. I look at the faces now, spott Greek, Anatolian looking
+mfkers...
 
 ---
 
