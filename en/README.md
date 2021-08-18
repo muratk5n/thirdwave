@@ -2,104 +2,87 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
 
-<img width="340" src="https://pbs.twimg.com/media/E86S1JPWEAEYADp?format=jpg&name=small"/>
+Pollitico: "A two-decade-long megadrought along the Colorado River is
+pushing seven Western states and parts of Mexico into a formal
+shortage declaration, forcing water delivery cuts to the Southwest"
+
+[Link](https://www.politico.com/news/2021/08/16/megadrought-colorado-river-505190)
 
 ---
 
-"@Lj_mir
-
-'Ashraf Ghani, the Afghan President who has apparently just fled to
-Tajikistan (which was invaded by the Taliban...) [writing](https://pbs.twimg.com/media/E84zo8EWYAkw_sc?format=jpg&name=small)
-for the Los Angeles Times [in 1989]'"
+Politico: "Vice President Mike Pence is ramping up his donor outreach
+as he weighs a 2024 White House bid"
 
 ---
 
-Actually Dubya WH worked through local warlords. Bama WH made a major
-surge; so if you go by the numbers, it was Obama who invaded
-Afghanistan.
+King Teddy - Earlysville \#music
 
-Clearly both methods failed. 
+[Link](https://youtu.be/_KjMF3MwE0U)
 
 ---
 
-I dont think there was a 'good way' of getting out of Afghanistan.
+*Charlie Wilson's War*... touching movie w that message in the
+end.. probably sums up disappointment of many. But cld US ever deliver
+on those wishes?
 
 ---
 
-Tali wins.. All that after dropping them bombs.. Remember
-[MOAB](https://taskandpurpose.com/news/much-actually-achieve-dropping-moab-afghanistan/)?
-
-Trump tried to tame Afghanistan for a while too apparently.. Didn't work.
-
----
-
-"PhD Student from Leibniz Institute for Catalysis Discovers a New Type
-of $H_2 O$ Splitting.. Mechanism of a new type of water splitting with
-which photolysis [the decomposition or separation of molecules by the
-action of light] can be made inexpensive"
-
-[Link](https://bit.ly/2VPa2v1 )
+Alexander the Great and other Greeks before him went there.. more than
+a few stayed. I look at the faces now, spotted Greek, Anatolian
+looking mfkers...
 
 ---
 
-Data lists top grossing releases every month, *Black Panther* 2018 did
-better than *Infinity War*. They can't not make sequels to this movie,
-hire a new lead at some point.
+Without being AI automation can still do a lot of damage (the good
+kind damage, the kind that kills jobs)
 
 ---
 
-Movie releases
+"Although machines like [the sorter below] look incredibly complex,
+[manager] says that they are actually pretty simple. The decision to
+whether or not to reject a piece of produce (or stone, or clod of
+earth, as often happens) is a yes/no question that can be answered
+without much calculation. Likewise, because the rejectors are spread
+out in line, it's just a matter of timing to pick the right one to
+knock out the offending article. And over the years the machines have
+gotten good"
 
-```python
-df['Releases'].plot()
-```
-
-<img width="340" src="https://pbs.twimg.com/media/E85eSi-X0AQZ65s?format=png&name=small"/>
-
-Decrease in movies releases.. it's a supply issue too
-
----
-
-Box office cumulative gross (in millions), since 2018
-
-Data from [BoxOfficeMojo](https://www.boxofficemojo.com/month/by-year/2018/?grossesOption=calendarGrosses)
-
-```python
-import pandas as pd
-pd.set_option('display.max_columns', None)
-df = pd.read_csv('boxoff.csv',sep='\t')
-df.loc[:,'dt'] = df.apply(lambda x: pd.to_datetime(x.Month + " " + str(x.Year)), axis=1)
-df.loc[:,'Cumulative_Gross'] = df.apply(lambda x: float(x['Cumulative_Gross'][1:].replace(",","")), axis=1)
-df = df.sort_values('dt')
-df.loc[:,'Cumulative_Gross'] = df['Cumulative_Gross'] / 1e6
-df = df.set_index('dt')
-df[['Cumulative_Gross']].plot()
-```
-
-<img width="340" src="https://pbs.twimg.com/media/E85cA4vX0AEgont?format=png&name=small"/>
-
-There were months with a bil gross. Then the pandemic hit.
-
-It was sorta recovering (half a bil) in July 2021, but then the
-Delta variant
+[Link](https://simplicity.in/coimbatore/english/science/3546/What-makes-this-tomato-sorting-machine-so-freakishly-fast)
 
 ---
 
-Piedmont Park, Atlanta, nice scenery.
+From Asimov's Robot series.. And later that strand (and the AI dude)
+will connect to Foundation; it will be good, grand space opera.. How
+far will the new show take it, dunno
 
 ---
 
-A lot of compsci approaches I am looking at (for a certain domain)
-feel old school... Fit for single CPUs.. Wanna bypass it
-all, jump straight into high paralelization.
+That's the "lead AI" from Asimov.
+
+Yes that far out
 
 ---
 
-"Over the past two decades improvements in the arithmetic capabilities
-of processors have significantly outpaced advances in random access
-memory. Algorithms which have traditionally been compute bound—such as
-dense matrix-vector products—are now limited instead by the bandwidth
-to/from memory"
+[This](https://pbs.twimg.com/media/E9Aw-BhWQAUmkJ-?format=jpg&name=small) is AI
+(dude in the right)
+
+---
+
+[This](https://drive.google.com/uc?export=view&id=1KtHRBd2LeqEEBOxfUUwsuk4a1Om_yYJI)
+is automation
+
+---
+
+Automation is not the same thing as AI
+
+---
+
+*Terra Nova* was a good show. Canceled? With that *Avatar* guy..  cld
+have been a better *Lost*.
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A couple of years ago I published dataset with Sci-Hub downloads from 2017: <a href="https://t.co/iRsTxsmV6q">https://t.co/iRsTxsmV6q</a><br><br>after that some guy downloaded my dataset and posted in on Zenodo (<a href="https://twitter.com/ZENODO_ORG?ref_src=twsrc%5Etfw">@ZENODO_ORG</a>) Now the dataset is cited in papers as HIS dataset, not Elbakyan&#39;s dataset:<a href="https://t.co/iGCKULN7HQ">https://t.co/iGCKULN7HQ</a></p>&mdash; Alexandra Elbakyan (@ringo_ring) <a href="https://twitter.com/ringo_ring/status/1426948484356349954?ref_src=twsrc%5Etfw">August 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
