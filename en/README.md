@@ -27,9 +27,9 @@ on those wishes?
 
 ---
 
-Alexander the Great and other Greeks before him went there.. more than
-a few stayed. I look at the faces now, spot Greek, Anatolian looking
-mfkers...
+Long Afghan history.. Alexander the Great and other Greeks before him
+went there.. more than a few stayed. I look at the faces now, spot
+Greek, Anatolian looking mfkers...
 
 ---
 
