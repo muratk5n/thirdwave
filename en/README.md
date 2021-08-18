@@ -52,8 +52,8 @@ gotten good"
 ---
 
 From Asimov's Robot series.. And later that strand (and the AI dude)
-will connect to the Foundation storyline; it will be good, grand space
-opera.. How far will the new show take it, dunno
+will connect to the Foundation storyline; it will be good.. How far
+will the new show take it, dunno
 
 ---
 
