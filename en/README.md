@@ -3,9 +3,9 @@
 
 Annual count for worldwide fires; based on FIRMS [data](https://firms.modaps.eosdis.nasa.gov/country/)
 
-I downloaded select years, 2000,05, etc. Ran the code below, it scans
-all countries and counts number of fire (pixels) above a certain
-brightness threshold. Results,
+Downloaded select years, 2000,05, etc. the code below scans
+all countries, counts number of fire (pixels) above a certain
+brightness threshold. 
 
 ```
 year 2000 : 144
