@@ -1,7 +1,7 @@
 
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-Annual sum for fire measurements; based on FIRMS [data](https://firms.modaps.eosdis.nasa.gov/country/)
+Annual count for worldwide fires; based on FIRMS [data](https://firms.modaps.eosdis.nasa.gov/country/)
 
 I downloaded select years, 2000,05, etc. Ran the code below, it scans
 all countries and counts number of fire (pixels) above a certain
