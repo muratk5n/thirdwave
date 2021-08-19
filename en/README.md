@@ -80,12 +80,6 @@ mujahideen and the central government.
 
 ---
 
-Bob Rumson is not happy
-
-[Link](https://twitter.com/BillKristol/status/1427375172311568391)
-
----
-
 Industrial Age society, the Second Wave began in Western Europe with
 the Industrial Revolution, and subsequently spread across the
 world. Key aspects of Second Wave society are the nuclear family, a
