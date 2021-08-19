@@ -61,8 +61,8 @@ Today, It’s A Clear Sign Of The UK’s Ambition To Be A Hydrogen Leader"
 
 ---
 
-Mujahideen were the good guys then (remember *Rambo 3*).  Some of the
-mujahideen formed Taliban later.
+Mujahideen were the good guys then (remember *Rambo 3*), some of whom
+formed the Taliban later.
 
 ---
 
