@@ -67,7 +67,7 @@ formed the Taliban later.
 ---
 
 *Charlie Wilson's War*'s message was about US "leaving" Afghanistan in
-1989 after the Soviets left and not reforming the country.. Well-meaning
+1989, after the Soviets left, not reforming the country.. Well-meaning
 thought.. except US **didn't** leave. They [stayed](https://www.theguardian.com/world/2011/sep/27/10-myths-about-afghanistan)
 and continued stirring things up, helping entrench the civil war there between
 mujahideen and the central government.
