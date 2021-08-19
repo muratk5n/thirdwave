@@ -1,88 +1,76 @@
 
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
+Annual sum for fire measurements; based on FIRMS [data](https://firms.modaps.eosdis.nasa.gov/country/)
 
-Pollitico: "A two-decade-long megadrought along the Colorado River is
-pushing seven Western states and parts of Mexico into a formal
-shortage declaration, forcing water delivery cuts to the Southwest"
+I downloaded select years, 2000,05, etc. Ran the code below, it scans
+all countries and counts number of fire (pixels) above a certain
+brightness threshold. Results,
 
-[Link](https://www.politico.com/news/2021/08/16/megadrought-colorado-river-505190)
+```
+year 2000 : 144
+year 2005 : 4100
+year 2010 : 7533
+year 2015 : 11607
+year 2020 : 16365
+```
 
----
+I'd ignore 2000, looks like measurement issue (or not!). But the rest,
+looks really bad. The number of fires increase at an obscene rate.
 
-Politico: "Vice President Mike Pence is ramping up his donor outreach
-as he weighs a 2024 White House bid"
-
----
-
-King Teddy - Earlysville \#music
-
-[Link](https://youtu.be/_KjMF3MwE0U)
-
----
-
-*Charlie Wilson's War*... touching movie w that message in the
-end.. probably sums up disappointment of many. But cld US ever deliver
-on those wishes?
+[Source](tweets/2021/fires-world.py)
 
 ---
 
-Alexander the Great and other Greeks before him went to
-Afghanistan.. more than a few stayed. I look at the faces now, spot
-Greek, Anatolian looking mfkers...
+Tycho - Weather (Nitemoves Remix) \#music
+
+[Link](https://youtu.be/B22caOZewow)
 
 ---
 
-Without being AI automation can still do a lot of damage (the good
-kind damage, the kind that kills jobs)
+ME conflict [stats](2019/05/confstats.md#gdeltme)
 
 ---
 
-"Although machines like [the sorter below] look incredibly complex,
-[manager] says that they are actually pretty simple. The decision to
-whether or not to reject a piece of produce (or stone, or clod of
-earth, as often happens) is a yes/no question that can be answered
-without much calculation. Likewise, because the rejectors are spread
-out in line, it's just a matter of timing to pick the right one to
-knock out the offending article. And over the years the machines have
-gotten good"
-
-[Link](https://simplicity.in/coimbatore/english/science/3546/What-makes-this-tomato-sorting-machine-so-freakishly-fast)
+Jane's Defense: "South Korea, Australia prepare updated defence agreement"
 
 ---
 
-From Asimov's Robot series.. And later that strand (and the AI dude)
-will connect to the Foundation storyline; it will be good.. How far
-will the new show take it, dunno
+BBC: "France wildfire: Thousands evacuated as blaze rages near Riviera"
 
 ---
 
-That's the "lead AI" from Asimov.
+So this experiment generated 70% of what it put in. Awaiting for
+higher Q. 
 
-Yes that far out
-
----
-
-[This](https://pbs.twimg.com/media/E9Aw-BhWQAUmkJ-?format=jpg&name=small) is AI
-(dude in the right)
+Wikipedia: "The condition of Q = 1, when the power being released by
+the fusion reactions is equal to the required heating power, is
+referred to as breakeven"
 
 ---
 
-[This](https://drive.google.com/uc?export=view&id=1KtHRBd2LeqEEBOxfUUwsuk4a1Om_yYJI)
-is automation
+"@FLF_Nick
+
+The rumours are true. [Fusion dev] is a major step forward, a gain [or Q] of 0.7"
 
 ---
 
-Automation is not the same thing as AI
+BBC: "US lab stands on threshold of key nuclear fusion goal.. The
+National Ignition Facility uses a powerful laser to heat and compress
+hydrogen fuel, initiating fusion"
 
 ---
 
-*Terra Nova* was a good show. Canceled? With that *Avatar* guy..  cld
-have been a better *Lost*.
+"@ScottishPower: We Welcome The UK Government’s Hydrogen Strategy
+Today, It’s A Clear Sign Of The UK’s Ambition To Be A Hydrogen Leader"
+
+[Link](https://bit.ly/2XqpzBG)
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A couple of years ago I published dataset with Sci-Hub downloads from 2017: <a href="https://t.co/iRsTxsmV6q">https://t.co/iRsTxsmV6q</a><br><br>after that some guy downloaded my dataset and posted in on Zenodo (<a href="https://twitter.com/ZENODO_ORG?ref_src=twsrc%5Etfw">@ZENODO_ORG</a>) Now the dataset is cited in papers as HIS dataset, not Elbakyan&#39;s dataset:<a href="https://t.co/iGCKULN7HQ">https://t.co/iGCKULN7HQ</a></p>&mdash; Alexandra Elbakyan (@ringo_ring) <a href="https://twitter.com/ringo_ring/status/1426948484356349954?ref_src=twsrc%5Etfw">August 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Bob Rumson is not happy
+
+[Link](https://twitter.com/BillKristol/status/1427375172311568391)
 
 ---
 
