@@ -3,6 +3,8 @@
 
 Annual count for worldwide fires; based on FIRMS [data](https://firms.modaps.eosdis.nasa.gov/country/)
 
+[Source](tweets/2021/fires-world.py)
+
 Downloaded select years, 2000,05, etc. the code below scans
 all countries, counts number of fire (pixels) above a certain
 brightness threshold. 
@@ -17,8 +19,6 @@ year 2020 : 16365
 
 Looks bad.. The number of fires increase at each period, in two actually
 doubling.
-
-[Source](tweets/2021/fires-world.py)
 
 ---
 
