@@ -67,6 +67,19 @@ Today, It’s A Clear Sign Of The UK’s Ambition To Be A Hydrogen Leader"
 
 ---
 
+Mujahideen were the good guys then (remember *Rambo 3*).  Some of the
+mujahideen formed Taliban later.
+
+---
+
+*Charlie Wilson's War*'s mssage was about US "leaving" Afghanistan in
+1989 after the Soviets left and not reforming the country.. Well-meaning
+thought.. except US **didn't** leave. They [stayed](https://www.theguardian.com/world/2011/sep/27/10-myths-about-afghanistan)
+and continued stirring things up, helping entrench the civil war there between
+mujahideen and the central government.
+
+---
+
 Bob Rumson is not happy
 
 [Link](https://twitter.com/BillKristol/status/1427375172311568391)
