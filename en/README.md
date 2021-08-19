@@ -15,8 +15,8 @@ year 2015 : 11607
 year 2020 : 16365
 ```
 
-I'd ignore 2000, looks like measurement issue (or not!). But the rest,
-looks really bad. The number of fires increase at an obscene rate.
+Looks bad.. The number of fires increase at each period, in two actually
+doubling.
 
 [Source](tweets/2021/fires-world.py)
 
