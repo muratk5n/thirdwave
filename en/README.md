@@ -44,7 +44,7 @@ referred to as breakeven"
 
 "@FLF_Nick
 
-The rumours are true. [Fusion dev] is a major step forward, a gain [or Q] of 0.7"
+[.. Fusion dev has] a gain [or Q] of 0.7"
 
 ---
 
