@@ -40,8 +40,7 @@ BBC: "France wildfire: Thousands evacuated as blaze rages near Riviera"
 
 ---
 
-So this experiment generated 70% of what it put in. Awaiting for
-higher Q. 
+Exp generated 70% of what it put in. Awaiting for higher Q.
 
 Wikipedia: "The condition of Q = 1, when the power being released by
 the fusion reactions is equal to the required heating power, is
