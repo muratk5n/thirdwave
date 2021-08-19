@@ -22,12 +22,6 @@ doubling.
 
 ---
 
-Tycho - Weather (Nitemoves Remix) \#music
-
-[Link](https://youtu.be/B22caOZewow)
-
----
-
 ME conflict [stats](2019/05/confstats.md#gdeltme)
 
 ---
