@@ -10,11 +10,11 @@ all countries, counts number of fire (pixels) above a certain
 brightness threshold. 
 
 ```
-year 2000 : 144
-year 2005 : 4100
-year 2010 : 7533
-year 2015 : 11607
-year 2020 : 16365
+2000 : 144
+2005 : 4100
+2010 : 7533
+2015 : 11607
+2020 : 16365
 ```
 
 Looks bad.. The number of fires increase at each period, in two actually
