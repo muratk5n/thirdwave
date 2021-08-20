@@ -37,6 +37,12 @@ Leh·juhn·dray. Got it
 
 ---
 
+Hacks from all sides reached whole new levels after this pullout.  I
+do a double-take on some of the "analysis'".. Like really? Mfker said
+that?
+
+---
+
 The Daily Beast: "Seth Meyers drags media for hosting Afghanistan war
 hawks like John Bolton and Karl Rove"
 
