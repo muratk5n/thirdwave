@@ -38,8 +38,8 @@ Leh·juhn·dray. Got it
 ---
 
 Hacks from all sides reached whole new levels after this pullout.  I
-do a double-take on some of the "analysis'".. Really? Mfker really
-said that? 
+do a double-take on some of the "analysis'".. Like, really? Mfker
+really said that?
 
 ---
 
