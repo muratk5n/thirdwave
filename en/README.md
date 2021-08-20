@@ -1,76 +1,108 @@
 
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-Annual count for worldwide fires; based on FIRMS [data](https://firms.modaps.eosdis.nasa.gov/country/)
 
-[Source](tweets/2021/fires-world.py)
 
-Downloaded select years, 2000,05, etc. the code below scans
-all countries, counts number of fire (pixels) above a certain
-brightness threshold. 
+"UK hydrogen strategy.. This strategy sets out the approach to
+developing a thriving low carbon hydrogen sector in the UK to meet our
+ambition for 5GW of low carbon hydrogen production capacity by 2030"
 
-```
-2000 : 144
-2005 : 4100
-2010 : 7533
-2015 : 11607
-2020 : 16365
-```
-
-Looks bad.. The number of fires increase at each period, in two actually
-doubling.
+[Link](https://www.gov.uk/government/publications/uk-hydrogen-strategy)
 
 ---
 
-ME conflict [stats](2019/05/confstats.md#gdeltme)
+Wait until large standard flatbeds print entire bleeping *buildings*,
+destroying millions of construction jobs.. That will bake your noodle
+friend.
 
 ---
 
-Jane's Defense: "South Korea, Australia prepare updated defence agreement"
+"@MarkTakano
+
+BIG NEWS: I’ve just introduced legislation in Congress calling for a
+four-day work week. It’s well past time that Americans have more time
+to live their lives, and not just work"
 
 ---
 
-BBC: "France wildfire: Thousands evacuated as blaze rages near Riviera"
+Actually it sounds more like Leh·juhn·druh doesn't it? Like what up bruh
 
 ---
 
-Experiment generated 70% of what it put in. Awaiting for higher Q.
-
-Wikipedia: "The condition of Q = 1, when the power being released by
-the fusion reactions is equal to the required heating power, is
-referred to as breakeven"
+For Legendre
 
 ---
 
-"@FLF_Nick
-
-[.. Fusion dev has] a gain [or Q] of 0.7"
+Leh·juhn·dray. Got it
 
 ---
 
-BBC: "US lab stands on threshold of key nuclear fusion goal.. The
-National Ignition Facility uses a powerful laser to heat and compress
-hydrogen fuel, initiating fusion"
+The Daily Beast: "Seth Meyers drags media for hosting Afghanistan war
+hawks like John Bolton and Karl Rove"
 
 ---
 
-"@ScottishPower: We Welcome The UK Government’s Hydrogen Strategy
-Today, It’s A Clear Sign Of The UK’s Ambition To Be A Hydrogen Leader"
+"@Michael_J_Black
 
-[Link](https://bit.ly/2XqpzBG)
-
----
-
-Mujahideen were the good guys then (remember *Rambo 3*), some of whom
-formed the Taliban later.
+If you believe that social media can replace peer review, consider my
+experience. Every paper I've published has been improved by peer
+review. I can't say the same for comments on Twitter. I may not always
+agree with reviewers but they spend hours with my paper, not seconds"
 
 ---
 
-*Charlie Wilson's War*'s message was about US "leaving" Afghanistan in
-1989, after the Soviets left, not reforming the country.. Well-meaning
-thought.. except US **didn't** leave. They [stayed](https://www.theguardian.com/world/2011/sep/27/10-myths-about-afghanistan)
-and continued stirring things up, helping entrench the civil war there between
-mujahideen and the central government.
+Laws in physical sciences are mathematical, the best ones are usually
+incredibly compact, intelligeble, in continuous form. In order to
+compute them the formulas are 'discretized' (a whole branch of sci
+itself), approximation is introduced, checked against data.
+
+In ML, or so-called "AI", things work the other way around; they start
+with approximation, computation first, and... stay there. They don't
+have a formula for their domain. There is no mathematical model of
+thought.. all they have is bunch of 'patterns' captured in
+unintelligeble format.
+
+If anyone thinks one can reach human level AI from this, I have a
+bridge to sell them.
+
+---
+
+"Is Machine Learning compatible with the Scientific Method?.. [P]art
+of what we celebrate as scientific progress is the transition from the
+data (observed orbits) to patterns in the data (Kepler’s laws) to
+theories explaining the data (Newtonian theory of
+gravity). [.. M]erely identifying the hidden correlations in the data
+is generally not enough in science. It is the explanation of why these
+patterns exist with the aid of a more fundamental and universally
+applicable scientific theory ... that we acknowledge and cherish as
+scientific progress"
+
+[Link](https://medium.com/@amuthanar/is-machine-learning-compatible-with-the-scientific-method-c416e3dfa7b0)
+
+---
+
+[The Decent Interval](https://millercenter.org/the-presidency/educational-resources/nixon-kissinger-and-the-decent-interval)
+
+---
+
+Yet "the helicopter lifting off from US embassy in Saigon" is still
+the ultimate picture of a foreign policy failure in people's minds.
+
+"Nixon secured his 'decent interval' between the United States pullout
+of Vietnam and the N. Vietnamese takeover"
+
+---
+
+Bob Rumson is not happy
+
+[Link](https://twitter.com/BillKristol/status/1427375172311568391)
+
+---
+
+Movie recom from AFP..? Will check
+
+AFP: "Definitely check out ‘Reminiscence’ .. great Minority
+Report-style action sci-fi starring Hugh Jackman"
 
 ---
 

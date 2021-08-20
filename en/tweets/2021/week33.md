@@ -1,5 +1,77 @@
 # Week 33
 
+Annual count for worldwide fires; based on FIRMS [data](https://firms.modaps.eosdis.nasa.gov/country/)
+
+[Source](tweets/2021/fires-world.py)
+
+Downloaded select years, 2000,05, etc. the code below scans
+all countries, counts number of fire (pixels) above a certain
+brightness threshold. 
+
+```
+2000 : 144
+2005 : 4100
+2010 : 7533
+2015 : 11607
+2020 : 16365
+```
+
+Looks bad.. The number of fires increase at each period, in two actually
+doubling.
+
+---
+
+ME conflict [stats](2019/05/confstats.md#gdeltme)
+
+---
+
+Jane's Defense: "South Korea, Australia prepare updated defence agreement"
+
+---
+
+BBC: "France wildfire: Thousands evacuated as blaze rages near Riviera"
+
+---
+
+Experiment generated 70% of what it put in. Awaiting for higher Q.
+
+Wikipedia: "The condition of Q = 1, when the power being released by
+the fusion reactions is equal to the required heating power, is
+referred to as breakeven"
+
+---
+
+"@FLF_Nick
+
+[.. Fusion dev has] a gain [or Q] of 0.7"
+
+---
+
+BBC: "US lab stands on threshold of key nuclear fusion goal.. The
+National Ignition Facility uses a powerful laser to heat and compress
+hydrogen fuel, initiating fusion"
+
+---
+
+"@ScottishPower: We Welcome The UK Government’s Hydrogen Strategy
+Today, It’s A Clear Sign Of The UK’s Ambition To Be A Hydrogen Leader"
+
+[Link](https://bit.ly/2XqpzBG)
+
+---
+
+Mujahideen were the good guys then (remember *Rambo 3*), some of whom
+formed the Taliban later.
+
+---
+
+*Charlie Wilson's War*'s message was about US "leaving" Afghanistan in
+1989, after the Soviets left, not reforming the country.. Well-meaning
+thought.. except US **didn't** leave. They [stayed](https://www.theguardian.com/world/2011/sep/27/10-myths-about-afghanistan)
+and continued stirring things up, helping entrench the civil war there between
+mujahideen and the central government.
+
+---
 
 Pollitico: "A two-decade-long megadrought along the Colorado River is
 pushing seven Western states and parts of Mexico into a formal
