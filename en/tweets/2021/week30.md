@@ -39,12 +39,6 @@ Dam
 
 ---
 
-Magic beans. Truly; Green beans r protein heavy and green, w some
-curative effects.. Need one veg 4 TEOTWAWKI, setting up a stand-alone
-automated vert farm, post-apoc? Go 4 beans.
-
----
-
 Ventusky map: in China, Tibet and Qinghai have lowest temp. Xinjang,
 Beijing are cooking. Talked abt Georgia, and Northeast TR.  Northern
 Europe is fine.
