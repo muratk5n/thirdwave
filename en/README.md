@@ -65,8 +65,8 @@ itself), approximation is introduced, checked against data.
 In ML, or so-called "AI", things work the other way around; they start
 with approximation, computation first, and... stay there. They don't
 have a formula for their domain. There is no mathematical model of
-thought.. all they have is bunch of 'patterns' captured in
-unintelligeble format.
+thought.. all they have is bunch of 'patterns' captured from raw data
+in an unintelligeble format.
 
 If anyone thinks one can reach human level AI from this, I have a
 bridge to sell them.
