@@ -1,4 +1,4 @@
-# Numbers on H2 Energy
+# H2 Stats, Data
 
 <a name='lithium'/>
 
