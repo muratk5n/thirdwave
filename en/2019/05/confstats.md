@@ -18,7 +18,7 @@ def overall_deaths(mon):
    g.columns = ['incidents','deaths']
    return g.sort_values('deaths',ascending=False)
 
-print (overall_deaths(mon=6).head(20))
+print (overall_deaths(mon=7).head(20))
 ```
 
 ```text
