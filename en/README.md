@@ -1,114 +1,58 @@
 
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-
-
-"UK hydrogen strategy.. This strategy sets out the approach to
-developing a thriving low carbon hydrogen sector in the UK to meet our
-ambition for 5GW of low carbon hydrogen production capacity by 2030"
-
-[Link](https://www.gov.uk/government/publications/uk-hydrogen-strategy)
+<iframe width="340" src="https://www.youtube.com/embed/mH82axHCA8s?start=329&end=390" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-Wait until large standard flatbeds print entire bleeping *buildings*,
-destroying millions of construction jobs.. That will bake your noodle
-friend.
+"@heyblake
+
+Getting things done is easy. 
+
+Knowing what to get done is hard"
 
 ---
 
-"@MarkTakano
-
-BIG NEWS: I’ve just introduced legislation in Congress calling for a
-four-day work week. It’s well past time that Americans have more time
-to live their lives, and not just work"
+New Jeopardy guy quits? That's faster than Trump's one-time Comm
+Director Anthony Buttafuoco!
 
 ---
 
-Actually it sounds more like Leh·juhn·druh doesn't it? Like what up bruh
+Big Swing Face - Hit That Jive Jack \#music
+
+[Link](https://youtu.be/rB62xkaDC1w)
 
 ---
 
-For Legendre
+"@linakhanFTC
+
+FTC Alleges Facebook Resorted to Illegal Buy-or-Bury Scheme to Crush
+Competition After String of Failed Attempts to Innovate"
 
 ---
 
-Leh·juhn·dray. Got it
+Jane's Defense: "Malaysia flexes missile capabilities in South China
+Sea.. The Royal Malaysian Navy (RMN) has carried out a rare
+demonstration of its anti-surface capabilities in the South China Sea,
+with the firings of three Exocet missiles"
 
 ---
 
-Hacks from all sides reached a whole new level after this pullout.  I
-do a double-take on some of the "analysis'".. Like, really? Mfker
-really said that?
+Reminder the Blue Origin New Shephard used liquid H2 as fuel.
 
 ---
 
-The Daily Beast: "Seth Meyers drags media for hosting Afghanistan war
-hawks like John Bolton and Karl Rove"
+Which tech was used for that I wonder
+
+CNBC: "‘World’s first fossil-free steel’ produced in Sweden and delivered to Volvo"
+
+[Link](https://www.cnbc.com/2021/08/19/first-fossil-free-steel-produced-in-sweden-delivered-to-volvo.html)
 
 ---
 
-"@Michael_J_Black
+"@PreetBharara
 
-If you believe that social media can replace peer review, consider my
-experience. Every paper I've published has been improved by peer
-review. I can't say the same for comments on Twitter. I may not always
-agree with reviewers but they spend hours with my paper, not seconds"
-
----
-
-Laws in physical sciences are mathematical, the best ones are usually
-incredibly compact, intelligeble, in continuous form. In order to
-compute them the formulas are 'discretized' (a whole branch of sci
-itself), approximation is introduced, checked against data.
-
-In ML, or so-called "AI", things work the other way around; they start
-with approximation, computation first, and... stay there. They don't
-have a formula for their domain. There is no mathematical model of
-thought.. all they have is bunch of 'patterns' captured from raw data
-in an unintelligeble format.
-
-If anyone thinks one can reach human level AI from this, I have a
-bridge to sell them.
-
----
-
-"Is Machine Learning compatible with the Scientific Method?.. [P]art
-of what we celebrate as scientific progress is the transition from the
-data (observed orbits) to patterns in the data (Kepler’s laws) to
-theories explaining the data (Newtonian theory of
-gravity). [.. M]erely identifying the hidden correlations in the data
-is generally not enough in science. It is the explanation of why these
-patterns exist with the aid of a more fundamental and universally
-applicable scientific theory ... that we acknowledge and cherish as
-scientific progress"
-
-[Link](https://medium.com/@amuthanar/is-machine-learning-compatible-with-the-scientific-method-c416e3dfa7b0)
-
----
-
-[The Decent Interval](https://millercenter.org/the-presidency/educational-resources/nixon-kissinger-and-the-decent-interval)
-
----
-
-Yet "the helicopter lifting off from US embassy in Saigon" is still
-the ultimate picture of a foreign policy failure in people's minds.
-
-"Nixon secured his 'decent interval' between the United States pullout
-of Vietnam and the N. Vietnamese takeover"
-
----
-
-Bob Rumson is not happy
-
-[Link](https://twitter.com/BillKristol/status/1427375172311568391)
-
----
-
-Movie recom from AFP..? Will check
-
-AFP: "Definitely check out ‘Reminiscence’ .. great Minority
-Report-style action sci-fi starring Hugh Jackman"
+It’s my understanding that God wants us to do some of the work"
 
 ---
 
