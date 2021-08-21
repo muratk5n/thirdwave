@@ -38,10 +38,6 @@ with the firings of three Exocet missiles"
 
 ---
 
-Reminder the Blue Origin New Shephard used liquid H2 as fuel.
-
----
-
 Which tech was used for that I wonder
 
 CNBC: "‘World’s first fossil-free steel’ produced in Sweden and delivered to Volvo"
