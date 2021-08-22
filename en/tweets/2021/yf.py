@@ -4,7 +4,31 @@ import re, requests
 
 headers = { 'User-Agent': 'UCWEB/2.0 (compatible; Googlebot/2.1; +google.com/bot.html)'}
 
-url = "https://finance.yahoo.com/quote/%s/key-statistics?p=%s"
+ksurl = "https://finance.yahoo.com/quote/%s/key-statistics?p=%s"
+cfurl = "https://finance.yahoo.com/quote/%s/cash-flow?p=%s"
+
+labels_cf = ['Operating Cash Flow','Investing Cash Flow','Financing Cash Flow',
+             'End Cash Position','Income Tax Paid Supplemental Data','Income Tax Paid Supplemental Data',
+             'Interest Paid Supplemental Data','Capital Expenditure','Issuance of Debt','Free Cash Flow']
+
+labels_ks = ['Market Cap \(intraday\)','Enterprise Value','Trailing P/E',
+             'Forward P/E','PEG Ratio \(5 yr expected\)','Price/Sales  \(ttm\)',
+             'Price/Book  \(mrq\)','Enterprise Value/Revenue','Enterprise Value/EBITDA',
+             'Profit Margin','Operating Margin  \(ttm\)','Return on Assets  \(ttm\)',
+             'Return on Equity  \(ttm\)','Revenue  \(ttm\)','Revenue Per Share  \(ttm\)',
+             'Quarterly Revenue Growth  \(yoy\)','Gross Profit  \(ttm\)','EBITDA',
+             'Net Income Avi to Common  \(ttm\)','Diluted EPS  \(ttm\)',
+             'Quarterly Earnings Growth  \(yoy\)', 'Total Cash  \(mrq\)','Total Cash Per Share  \(mrq\)',
+             'Total Debt  \(mrq\)','Total Debt/Equity  \(mrq\)','Current Ratio  \(mrq\)',
+             'Book Value Per Share  \(mrq\)','Operating Cash Flow  \(ttm\)','Levered Free Cash Flow  \(ttm\)',
+             'Beta \(5Y Monthly\)','52-Week Change','P500 52-Week Change','52 Week High','52 Week Low','50-Day Moving Average',
+             '200-Day Moving Average','Avg Vol \(3 month\)','Avg Vol \(10 day\)','Shares Outstanding','Implied Shares Outstanding',
+             'Float','% Held by Insiders','% Held by Institutions','Shares Short \(... \d\d, \d\d\d\d\)',
+             'Short Ratio \(... \d\d, \d\d\d\d\)','Short % of Float \(... \d\d, \d\d\d\d\)',
+             'Short % of Shares Outstanding \(... \d\d, \d\d\d\d\)','Forward Annual Dividend Rate',
+             'Forward Annual Dividend Yield','Trailing Annual Dividend Rate','Trailing Annual Dividend Yield',
+             'Year Average Dividend Yield','Payout Ratio','Last Split Factor']
+
 
 def tag_visible(element):
     if element.parent.name in ['style', 'script', 'head', 'title', 'meta', '[document]']:
@@ -20,8 +44,8 @@ def text_from_html(body):
     return u" ".join(t.strip() for t in visible_texts)
 
 
-def get_financials(ticker):
-    furl = url % (ticker,ticker) 
+def get_keystats(ticker):
+    furl = ksurl % (ticker,ticker) 
     resp = requests.get(furl, headers=headers, timeout=2)
     s = text_from_html(resp.text)
 
@@ -32,42 +56,50 @@ def get_financials(ticker):
     s = s.replace(" 5 ", "")
     s = s.replace(" 6 ", "")
     s = s.replace(" 7 ", "")
-
-    labels = ['Market Cap \(intraday\)','Enterprise Value','Trailing P/E',
-              'Forward P/E','PEG Ratio \(5 yr expected\)','Price/Sales  \(ttm\)',
-              'Price/Book  \(mrq\)','Enterprise Value/Revenue','Enterprise Value/EBITDA',
-              'Profit Margin','Operating Margin  \(ttm\)','Return on Assets  \(ttm\)',
-              'Return on Equity  \(ttm\)','Revenue  \(ttm\)','Revenue Per Share  \(ttm\)',
-              'Quarterly Revenue Growth  \(yoy\)','Gross Profit  \(ttm\)','EBITDA',
-              'Net Income Avi to Common  \(ttm\)','Diluted EPS  \(ttm\)',
-              'Quarterly Earnings Growth  \(yoy\)', 'Total Cash  \(mrq\)','Total Cash Per Share  \(mrq\)',
-              'Total Debt  \(mrq\)','Total Debt/Equity  \(mrq\)','Current Ratio  \(mrq\)',
-              'Book Value Per Share  \(mrq\)','Operating Cash Flow  \(ttm\)','Levered Free Cash Flow  \(ttm\)',
-              'Beta \(5Y Monthly\)','52-Week Change','P500 52-Week Change','52 Week High','52 Week Low','50-Day Moving Average',
-              '200-Day Moving Average','Avg Vol \(3 month\)','Avg Vol \(10 day\)','Shares Outstanding','Implied Shares Outstanding',
-              'Float','% Held by Insiders','% Held by Institutions','Shares Short \(... \d\d, \d\d\d\d\)',
-              'Short Ratio \(... \d\d, \d\d\d\d\)','Short % of Float \(... \d\d, \d\d\d\d\)',
-              'Short % of Shares Outstanding \(... \d\d, \d\d\d\d\)','Forward Annual Dividend Rate',
-              'Forward Annual Dividend Yield','Trailing Annual Dividend Rate','Trailing Annual Dividend Yield',
-              'Year Average Dividend Yield','Payout Ratio','Last Split Factor']
-
     
-    labels_dict = dict((k,"") for k in labels)
+    labels_ks_dict = dict((k,"") for k in labels_ks)
 
-    for k in labels_dict:
+    for k in labels_ks_dict:
         regex = k + "\s*(.*?)\s"
         res = re.findall(regex,s)
-        labels_dict[k] = res[0]
+        labels_ks_dict[k] = res[0]
 
-    labels_dict = dict((k.replace("\\(","("),labels_dict[k]) for k in labels_dict)
-    labels_dict = dict((k.replace("\\)",")"),labels_dict[k]) for k in labels_dict)
+    labels_ks_dict = dict((k.replace("\\(","("),labels_ks_dict[k]) for k in labels_ks_dict)
+    labels_ks_dict = dict((k.replace("\\)",")"),labels_ks_dict[k]) for k in labels_ks_dict)
     labels_dict2 = {}
-    for k in labels_dict:
-        if "Shares Short" in k: labels_dict2["Shares Short"] = labels_dict[k]
-        elif "Short Ratio" in k: labels_dict2["Short Ratio"] = labels_dict[k]
+    for k in labels_ks_dict:
+        if "Shares Short" in k: labels_dict2["Shares Short"] = labels_ks_dict[k]
+        elif "Short Ratio" in k: labels_dict2["Short Ratio"] = labels_ks_dict[k]
         else:
-            labels_dict2[k] = labels_dict[k]
+            labels_dict2[k] = labels_ks_dict[k]
     
     return labels_dict2
 
+def get_cashflow(ticker):
+    furl = cfurl % (ticker,ticker)
+    resp = requests.get(furl, headers=headers, timeout=2)
+    s = text_from_html(resp.text)
+    labels_cf_dict = dict((k,"") for k in labels_cf)
 
+    for k in labels_cf_dict:
+        regex = k + "\s*(.*?)\s(.*?)\s(.*?)\s"
+        res = re.findall(regex,s)
+        labels_cf_dict[k] = res[0]
+
+    return labels_cf_dict
+
+def get_financials(ticker):
+    ks = get_keystats(ticker)
+    cf = get_cashflow(ticker)
+    res = {**ks, **cf}
+    return res
+
+
+if __name__ == "__main__": 
+    #res = get_keystats("AAPL")
+    #res = get_cashflow("AAPL")
+    #res = get_financials("NFLX")
+    #res = get_financials("AMZN")
+    res = get_financials("WMT")
+    print (res)
+    
