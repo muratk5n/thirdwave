@@ -81,7 +81,7 @@ Method to detect owls from sound, they call it owl-garithm
 ---
 
 Soviets aren't entirely blameless either. They also contributed to
-AFG's current misery in history.
+AFG's current misery.
 
 Vox: "[I]n 1978, when [AFG President] Daoud Khan is formally
 overthrown in what’s known as the Saur Revolution.. a Marxist-Leninist
