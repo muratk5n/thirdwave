@@ -84,7 +84,7 @@ Method to detect owls from sound, they call it owl-garithm
 
 ---
 
-[Socialist Imperialism](2011/04/socialist-imperialism.md)
+[Soviet Imperialism](2011/04/soviet-imperialism.md)
 
 ---
 
