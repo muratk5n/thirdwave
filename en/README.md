@@ -76,6 +76,10 @@ Method to detect owls from sound, they call it owl-garithm
 
 "Australia: H2X Global Limited Reveals Its New Hydrogen FuelCell-Powered Truck-The 'Warrego'"
 
+---
+
+"Hyundai Mobis Will Invest $1 Billion in Two Hydrogen Fuel Cell Plants in South Korea"
+
 [Link](https://bit.ly/3glYKFk)
 
 ---
