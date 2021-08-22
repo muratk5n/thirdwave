@@ -8,8 +8,7 @@ ksurl = "https://finance.yahoo.com/quote/%s/key-statistics?p=%s"
 cfurl = "https://finance.yahoo.com/quote/%s/cash-flow?p=%s"
 
 labels_cf = ['Operating Cash Flow','Investing Cash Flow','Financing Cash Flow',
-             'End Cash Position','Income Tax Paid Supplemental Data','Income Tax Paid Supplemental Data',
-             'Interest Paid Supplemental Data','Capital Expenditure','Issuance of Debt','Free Cash Flow']
+             'Capital Expenditure','Issuance of Debt','Free Cash Flow']
 
 labels_ks = ['Market Cap \(intraday\)','Enterprise Value','Trailing P/E',
              'Forward P/E','PEG Ratio \(5 yr expected\)','Price/Sales  \(ttm\)',
@@ -103,6 +102,7 @@ if __name__ == "__main__":
     #res = get_financials("AMZN")
     #print (res)
     atts = ["Revenue  (ttm)", "Capital Expenditure"] 
-    q = get_disp("AMZN", atts)
+    #q = get_disp("AMZN", atts)
+    q = get_disp("SHOP", atts)
     
     
