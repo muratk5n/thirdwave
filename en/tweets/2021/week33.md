@@ -1,6 +1,55 @@
 # Week 33
 
+<iframe width="340" src="https://www.youtube.com/embed/mH82axHCA8s?start=329&end=390" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+---
+
+"@heyblake
+
+Getting things done is easy. 
+
+Knowing what to get done is hard"
+
+---
+
+New Jeopardy guy quits? That's faster than Trump's one-time Comm
+Director Anthony Buttafuoco!
+
+---
+
+Big Swing Face - Hit That Jive Jack \#music
+
+[Link](https://youtu.be/rB62xkaDC1w)
+
+---
+
+"@linakhanFTC
+
+FTC Alleges Facebook Resorted to Illegal Buy-or-Bury Scheme to Crush
+Competition After String of Failed Attempts to Innovate"
+
+---
+
+Jane's Defense: "Malaysia flexes missile capabilities in South China
+Sea.. The Royal Malaysian Navy (RMN) has carried out a rare
+demonstration of its anti-surface capabilities in the South China Sea,
+with the firings of three Exocet missiles"
+
+---
+
+Which tech was used for that I wonder
+
+CNBC: "‘World’s first fossil-free steel’ produced in Sweden and delivered to Volvo"
+
+[Link](https://www.cnbc.com/2021/08/19/first-fossil-free-steel-produced-in-sweden-delivered-to-volvo.html)
+
+---
+
+"@PreetBharara
+
+It’s my understanding that God wants us to do some of the work"
+
+---
 
 "UK hydrogen strategy.. This strategy sets out the approach to
 developing a thriving low carbon hydrogen sector in the UK to meet our
