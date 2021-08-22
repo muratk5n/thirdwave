@@ -33,7 +33,7 @@ Cryptos are not centralized, 3rd
 
 ---
 
-How to know a solution is 3W? Does it fit under [these](04/fundamentals-of-industrial-ideologies.md)?
+How to know a solution is 3W? Does it fit under [these](2011/04/fundamentals-of-industrial-ideologies.md) ?
 If not, and new, 3W.
 
 ---
