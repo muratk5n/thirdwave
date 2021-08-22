@@ -17,6 +17,10 @@ militaries"
 
 ---
 
+They might not call themselves that but Fox News is MSM
+
+---
+
 Most CC today is badly designed but an ideal one (like a left-wing
 version of Nano) cld be basis for a new econ. The world with such
 change would be drastically different. How different is different? See
@@ -51,10 +55,6 @@ Are renewable fuels a Second Wave or Third Wave development? They are
 useful for both.
 
 ---
-
-
-They might not call themselves that but Fox News is MSM
-
 
 MSM delivers.. They arranged interviews with 30 officials. 
 
