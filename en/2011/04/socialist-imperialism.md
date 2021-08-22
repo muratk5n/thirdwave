@@ -5,7 +5,7 @@ Toffler, *The Third Wave*
 The U.S.S.R. and other socialist nations portrayed themselves as
 anti-imperialist friends of the colonial peoples of the world. In
 1916, a year before he took power, Lenin had written a slashing attack
-on the capitalist nations for their colonial policies. His Imperialism
+on the capitalist nations for their colonial policies. His *Imperialism*
 became one of the most influential books of the century and still
 shapes the thinking of hundreds of millions around the world.
 
