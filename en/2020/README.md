@@ -34,7 +34,7 @@
 
 [Github Pages for Math and Code](07/github-pages-for-math-code.md)
 
-[Numbers on H2 Energy](07/h2-numbers.md)
+[H2 Stats, Data](07/h2-numbers.md)
 
 [Human Nature and Health](07/human-nature.md)
 

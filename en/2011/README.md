@@ -158,6 +158,8 @@
 
 [Smooth Reassurance](04/smooth-reassurance.md)
 
+[Socialist Imperialism](04/socialist-imperialism.md)
+
 [Will and Kate](04/will-and-kate.md)
 
 [$25 Computer](05/25-computer.md)
