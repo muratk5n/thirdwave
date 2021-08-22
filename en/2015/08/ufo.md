@@ -49,3 +49,23 @@ sightings of Air Force weirdo toys mistaken for UFOs, then why is
 there a fall during Reagan years?  The Gipper would've loved to fund
 that kind of tech.
 
+<a name='nuforc'/>
+
+NUFORC Dataset
+
+This dataset contains over 80,000 reports of UFO sightings over the
+last century. Original data from [1]. My scrubbed version is below,
+and sample code to plot it,
+
+[Data](https://drive.google.com/uc?export=view&id=1Jho5cLnKqdwfooY9j_GuEj2tf3oO-LPT)
+
+[Code](ufo.py)
+
+[Output](ufo-out.html)
+
+Code filters out sightings before 2010, then downsamples to reduce the
+plotted points. 
+
+References
+
+[1] https://www.kaggle.com/NUFORC/ufo-sightings

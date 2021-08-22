@@ -94,12 +94,15 @@ def get_financials(ticker):
     res = {**ks, **cf}
     return res
 
+def get_disp(ticker, atts):
+    q = get_financials(ticker)
+    print (ticker, [(a + ': ' + str(q[a])) for a in atts])
+    
 
 if __name__ == "__main__": 
-    #res = get_keystats("AAPL")
-    #res = get_cashflow("AAPL")
-    #res = get_financials("NFLX")
     #res = get_financials("AMZN")
-    res = get_financials("WMT")
-    print (res)
+    #print (res)
+    atts = ["Revenue  (ttm)", "Capital Expenditure"] 
+    q = get_disp("AMZN", atts)
+    
     
