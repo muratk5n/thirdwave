@@ -17,6 +17,10 @@ militaries"
 
 ---
 
+"Australia anti-lockdown rallies: protesters violently clash with police in Melbourne"
+
+---
+
 They might not call themselves that but Fox News is MSM
 
 ---
