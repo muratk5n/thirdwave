@@ -84,9 +84,9 @@ Soviets aren't entirely blameless either. They also contributed to
 AFG's current misery in history.
 
 Vox: "[I]n 1978, when [AFG President] Daoud Khan is formally
-overthrown in what’s known as the Saur Revolution and a
-Marxist-Leninist government is established...[Then] the United States
-starts to slowly funnel money toward some resistance groups"
+overthrown in what’s known as the Saur Revolution.. a Marxist-Leninist
+government is established...[Then] the United States starts to slowly
+funnel money toward some resistance groups"
 
 [Link](https://www.vox.com/platform/amp/world/22634008/us-troops-afghanistan-cold-war-bush-bin-laden)
 
