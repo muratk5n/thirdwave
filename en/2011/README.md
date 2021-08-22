@@ -158,7 +158,7 @@
 
 [Smooth Reassurance](04/smooth-reassurance.md)
 
-[Socialist Imperialism](04/socialist-imperialism.md)
+[Soviet Imperialism](04/soviet-imperialism.md)
 
 [Will and Kate](04/will-and-kate.md)
 

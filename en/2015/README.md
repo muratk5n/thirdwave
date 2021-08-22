@@ -222,8 +222,6 @@
 
 [UFOs](08/ufo.md)
 
-[Wag the Dog - Part 2](08/wag-dog-part-2.md)
-
 [Wag the Dog](08/wag-dog.md)
 
 [#bernie](09/bernie.md)
