@@ -2,14 +2,12 @@
 
 Toffler, *The Third Wave*
 
-American leadership of the Second Wave world, however, was
-increasingly challenged by the rise of the Soviet Union. The U.S.S.R.
-and other socialist nations portrayed themselves as anti-imperialist
-friends of the colonial peoples of the world. In 1916, a year before
-he took power, Lenin had written a slashing attack on the capitalist
-nations for their colonial policies. His Imperialism became one of
-the most influential books of the century and still shapes the thinking
-of hundreds of millions around the world.
+The U.S.S.R. and other socialist nations portrayed themselves as
+anti-imperialist friends of the colonial peoples of the world. In
+1916, a year before he took power, Lenin had written a slashing attack
+on the capitalist nations for their colonial policies. His Imperialism
+became one of the most influential books of the century and still
+shapes the thinking of hundreds of millions around the world.
 
 But Lenin saw imperialism as a purely capitalist phenomenon.
 Capitalist nations, he insisted, oppressed and colonized other nations
