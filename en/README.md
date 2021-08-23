@@ -3,7 +3,8 @@
 Walmart/Amazon were spending the same amt to generate similar revenue,
 then AMZN CapEx started to climb. Now WMT looks better.
 
-Unless.. one is going for diversity in biz (as w AMZN, hasa a cloud biz and retail)
+Unless.. one is going for diversity in biz (as w AMZN, has a cloud biz
+and retail)
 
 ---
 
