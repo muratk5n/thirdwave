@@ -83,7 +83,7 @@ its own construction in the third act". Darn. Is it like *Tenet*?
 ---
 
 Even if there is a single soldier there, that steals valuable
-think-time.. Now the country is an "open case", along with other
+think-time IMO.. Now the country is an "open case", along with other
 tasks, you have to worry about it, think about it.. I dont think
 central govs have that kind of attn, processing time..
 
