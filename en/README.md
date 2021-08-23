@@ -21,7 +21,7 @@ dinaseurs at the cockroach museum"
 Walmart/Amazon were spending the same amt to generate similar revenue,
 then AMZN CapEx started to climb. Now WMT looks better.
 
-Unless.. one is going for diversity in biz, as in AMZN's cloud biz
+Unless.. one is going for diversity in biz (as in AMZN, hasa a cloud biz)
 
 ---
 
