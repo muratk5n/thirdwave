@@ -46,7 +46,7 @@ WMT ['Revenue  (ttm): 566.14B', "Capital Expenditure: ('-11,714,000', '-10,264,0
 
 Makes sense, if you are continuously spending money to make money,
 during high inflation u'd need to more of that money to make the same
-amount. Can pass the cost to consumers, but that's no fun..
+amount. Sure cld pass the cost to consumers, but that's no fun..
 
 CNBC: "'The best businesses during inflation are the businesses that
 you buy once and then you don’t have to keep making capital
