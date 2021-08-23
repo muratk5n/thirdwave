@@ -67,7 +67,7 @@ were defeated but hey, who is keeping track..
 
 ---
 
-Cerebral sounds too much like my day job.. Some scripts try too
+Cerebral sounds too much like my day job.. Some movies try too
 hard. This is the scifi version of jumping the shark.
 
 ---
