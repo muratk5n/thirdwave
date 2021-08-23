@@ -1,14 +1,5 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-
-I have to [share](https://youtu.be/MwCsCDGOEyM?t=729) this again..
-
----
-
-Tony Blair talking shit?
-
----
-
 🤣 Good one.. Bcz cockroaches wld make it right, survive a
 cataclysm.
 
@@ -79,6 +70,14 @@ its own construction in the third act". Darn. Is it like *Tenet*?
 ---
 
 "Blow for Uber as judge finds California’s gig-worker law unconstitutional"
+
+---
+
+I have to [share](https://youtu.be/MwCsCDGOEyM?t=729) this again..
+
+---
+
+Tony Blair talking shit?
 
 ---
 
