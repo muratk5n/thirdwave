@@ -1,14 +1,5 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-🤣 Good one.. Bcz cockroaches wld make it right, survive a
-cataclysm.
-
-Docu: "I wonder if we are viable form of life. Maybe we're just an
-evolutionary flash in the pan, and we'll be sitting right next to the
-dinaseurs at the cockroach museum"
-
----
-
 Walmart/Amazon were spending the same amt to generate similar revenue,
 then AMZN CapEx started to climb. Now WMT looks better.
 
@@ -44,6 +35,15 @@ you buy once and then you don’t have to keep making capital
 investments subsequently,' Buffett said, adding that 'any business
 with heavy capital investment tends to be a poor business to be in in
 inflation and often it’s a poor business to be in generally.'"
+
+---
+
+🤣 Good one.. Bcz cockroaches wld make it right, survive a
+cataclysm.
+
+Docu: "I wonder if we are viable form of life. Maybe we're just an
+evolutionary flash in the pan, and we'll be sitting right next to the
+dinaseurs at the cockroach museum"
 
 ---
 
