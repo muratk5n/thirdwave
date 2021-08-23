@@ -40,15 +40,7 @@ WMT ['Revenue  (ttm): 566.14B', "Capital Expenditure: ('-11,714,000', '-10,264,0
 ```
 ---
 
-[New Code](tweets/2021/yf.py)
-
----
-
-Dang capex not in YF code
-
----
-
-Pay your taxes 
+[New Code](tweets/2021/yf.py) with capez
 
 ---
 
