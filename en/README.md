@@ -86,7 +86,7 @@ Even if there is a single soldier there, that steals valuable
 think-time IMO.. Now the country is an "open case", along with other
 tasks, you have to worry about it, think about it, in military
 terms.. I dont think central govs have that kind of attn, processing
-time.. Now military they'll roll it up in a broad terrorism effort,
+time.. Now militarily they'll roll it up in a broad terrorism effort,
 and the rest will be diplomacy, more comfortable ground for civilian
 gov.
 
