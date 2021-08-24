@@ -86,10 +86,6 @@ basic services"
 
 ---
 
-10K vax appointsments are missed everyday in Oz? \#ABC
-
----
-
 Sci tutorials now surpass 150K lines. 700K words.. Asimov was at 7
 million.. Some ways to go
 
