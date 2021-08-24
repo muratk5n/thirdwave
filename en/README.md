@@ -68,7 +68,8 @@ In comparison MSFT, GOOG have lower P/FCF, can generate cash.
 
 ---
 
-They buy 'bright shiny object' type of tech, the kind libcucks like..
+They buy 'bright shiny object' tech, the kind liked by California
+libcucks.
 
 ---
 
