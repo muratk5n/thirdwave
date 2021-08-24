@@ -68,8 +68,12 @@ In comparison MSFT, GOOG have lower P/FCF, can generate cash.
 
 ---
 
-*The Big Short* guy, M. Burry, bets against ARK (ETF with heavy tech
- content)
+They buy 'bright shiny object' type of tech, the kind libcucks like..
+
+---
+
+*The Big Short* guy, M. Burry, bets against ARK (their ETF with heavy
+tech content)
 
 ---
 
@@ -87,8 +91,7 @@ basic services"
 
 ---
 
-Sci tutorials now surpass 150K lines. 700K words.. Asimov was at 7
-million.. Some ways to go
+Sci tutorials now surpass 150K lines. 700K words
 
 ---
 
