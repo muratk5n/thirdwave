@@ -68,7 +68,8 @@ In comparison MSFT, GOOG have lower P/FCF, can generate cash.
 
 ---
 
-*The Big Short* guy bets against ARK (ETF with heavy tech content)
+*The Big Short* guy, M. Burry, bets against ARK (ETF with heavy tech
+ content)
 
 ---
 
