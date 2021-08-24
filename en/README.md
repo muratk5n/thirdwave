@@ -5,6 +5,10 @@
 
 ---
 
+Why was ABC so critical? Hitting on homeboy Hugh
+
+---
+
 *Reminiscence* was ok.. the world it paints is pretty bad.. and
 realistic. People cant get outside during the day, live
 nocturnally.. Yikes
