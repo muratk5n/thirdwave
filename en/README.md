@@ -90,11 +90,8 @@ basic services"
 
 ---
 
-700K words.. Asimov was at 7 million.. Some ways to go
-
----
-
-Sci tutorials now surpass 150K lines. 
+Sci tutorials now surpass 150K lines. 700K words.. Asimov was at 7
+million.. Some ways to go
 
 ---
 
