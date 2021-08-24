@@ -23,7 +23,7 @@ WMT ['Revenue  (ttm): 566.14B', "Capital Expenditure: ('-11,714,000', '-10,264,0
 ```
 ---
 
-[New Code](tweets/2021/yf.py) with capex
+[New Code](yf.py) with capex
 
 ---
 
@@ -134,7 +134,7 @@ Cryptos are not centralized, 3rd
 
 ---
 
-How to know a solution is 3W? Does it fit under [these](2011/04/fundamentals-of-industrial-ideologies.md) ?
+How to know a solution is 3W? Does it fit under [these](../../2011/04/fundamentals-of-industrial-ideologies.md) ?
 If not, and new, 3W.
 
 ---
@@ -177,7 +177,7 @@ Method to detect owls from sound, they call it owl-garithm
 
 ---
 
-[Soviet Imperialism](2011/04/soviet-imperialism.md)
+[Soviet Imperialism](../../2011/04/soviet-imperialism.md)
 
 ---
 
