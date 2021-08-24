@@ -5,16 +5,6 @@
 
 ---
 
-Why was ABC so critical? Hitting on homeboy Hugh
-
----
-
-*Reminiscence* was ok.. the world it paints is pretty bad.. and
-realistic. People cant get outside during the day, live
-nocturnally.. Yikes
-
----
-
 Too slow
 
 "Pfizer becomes first Covid vaccine to gain full FDA approval"
@@ -25,6 +15,12 @@ Australian Planet Proteins, uses fava and lentils to get plant
 protein.
 
 [Link](https://www.abc.net.au/news/2021-08-21/plant-protein-powder-market/100391766)
+
+---
+
+*Reminiscence* was ok.. the world it paints is pretty bad.. and
+realistic. People cant get outside during the day, live
+nocturnally.. Yikes
 
 ---
 
