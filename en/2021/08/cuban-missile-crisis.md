@@ -76,10 +76,27 @@ one that Eisenhower’s U-2 spy flights were threatening to debunk...
 
 <a name='berlin'/>
 
-[Kennedy's problem in Europe was] General Lucius Clay [.. who] sent
-American tanks to Checkpoint Charlie on the border between the eastern
-and western sectors to enforce American rights to move freely through
-the entire city, including its eastern part, as guaranteed by the
+Khrushchev needed a solution to the Berlin crisis that would not
+involve the threatened peace treaty with East Germany, the loss of
+American access rights, and a possible military confrontation. Such a
+scenario might lead to thermonuclear war, perhaps more easily with a
+weak president than with a strong one. Khrushchev knew that he had
+nothing with which to counter Kennedy: the “missile gap” actually
+favored the United States, and he had no additional funds for his
+military to match Kennedy’s unprecedented buildup. Nor could he wait
+any longer to solve his Berlin problem, as East Germans, attracted by
+higher living standards in the West, were leaving the German socialist
+paradise in ever greater numbers... The East German leader, Walter
+Ulbricht, had a solution: surrounding West Berlin with a wall... On
+August 1...  Khrushchev told Ulbricht that he could start building the
+wall...[Eisenhower would later criticize JFK on this '[w]e witnessed
+no abdication of international responsibility... No walls were built,
+no threatening foreign bases were established]"
+
+[Kennedy's problem was] General Lucius Clay [.. who] sent American
+tanks to Checkpoint Charlie on the border between the eastern and
+western sectors to enforce American rights to move freely through the
+entire city, including its eastern part, as guaranteed by the
 four-power agreements of the immediate postwar era. The Soviets
 responded by moving their own tanks to the area. By early evening the
 two columns of tanks faced each other at Checkpoint Charlie, each less
