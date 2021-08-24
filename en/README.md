@@ -64,7 +64,7 @@ Shopify cap is 357 TIMES of its (trailing twelve month) cash
 flow. You'd have to wait >300 YEARS to reach the market valuation of
 this company with the cash it generates.
 
-In comparison MSFT, GOOG can actually generate cash. Lower P/FCF
+In comparison MSFT, GOOG have lower P/FCF, can generate cash.
 
 ---
 
