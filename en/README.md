@@ -1,96 +1,100 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-Walmart/Amazon were spending the same amt to generate similar revenue,
-then AMZN CapEx started to climb. Now WMT looks better.
 
-Unless.. one is going for diversity in biz (as w AMZN, has a cloud biz
-and retail)
+"Australia, India reaffirm commitment to enhancing naval ties"
 
 ---
 
-Checking Amazon, Walmart
+*Reminiscence* was ok.. the world it paints is pretty bad.. and
+realistic. People cant get outside during the day, live
+nocturnally.. Yikes
+
+---
+
+Too slow
+
+"Pfizer becomes first Covid vaccine to gain full FDA approval"
+
+---
+
+Australian Planet Proteins, uses fava and lentils to get plant
+protein.
+
+[Link](https://www.abc.net.au/news/2021-08-21/plant-protein-powder-market/100391766)
+
+---
+
+Dude watches the moves of big dogs, checked companies shorted by
+Burry, true, their P/FCF ratios are fukked.
+
+P/FCF = Market Cap / Free Cash Flow. It is a measure of whether market
+cap is justified by the cash flow a company generates. Checking Shopify,
+comparing against Microsoft, Google
+
 
 ```python
 import yf
-ds = ["Revenue  (ttm)", "Capital Expenditure"] 
-yf.get_disp("AMZN",ds)
-yf.get_disp("WMT",ds)
+atts = ["Market Cap (intraday)","Free Cash Flow"]
+yf.get_disp("SHOP",atts)
+yf.get_disp("MSFT",atts)
+yf.get_disp("GOOG",atts)
 ```
 
 ```text
-AMZN ['Revenue  (ttm): 443.3B', "Capital Expenditure: ('-52,256,000', '-40,140,000', '-16,861,000')"]
-WMT ['Revenue  (ttm): 566.14B', "Capital Expenditure: ('-11,714,000', '-10,264,000', '-10,705,000')"]
+SHOP ['Market Cap (intraday): 181.07B', "Free Cash Flow: ('506,972', '382,963', '8,218')"]
+MSFT ['Market Cap (intraday): 2.29T', "Free Cash Flow: ('56,118,000', '56,118,000', '45,234,000')"]
+GOOG ['Market Cap (intraday): 1.84T', "Free Cash Flow: ('58,536,000', '42,843,000', '30,972,000')"]
 ```
----
 
-[New Code](tweets/2021/yf.py) with capex
+Ratios
 
----
+```python
+print ('SHOP %d' % ((181*1e9) / (506.0*1e6)))
+print ('MSFT %d' % ((2.29*1e12) / (56.0*1e9)))
+print ('GOOG %d' % ((1.84*1e12) / (58.0*1e9)))
+```
 
-Makes sense, if you are continuously spending money to make money,
-during high inflation u'd need to more of that money to make the same
-amount. Sure cld pass the cost to consumers, but that's no fun..
+```text
+SHOP 357
+MSFT 40
+GOOG 31
+```
 
-CNBC: "'The best businesses during inflation are the businesses that
-you buy once and then you don’t have to keep making capital
-investments subsequently,' Buffett said, adding that 'any business
-with heavy capital investment tends to be a poor business to be in in
-inflation and often it’s a poor business to be in generally.'"
+Shopify cap is 357 TIMES of its (trailing twelve month) cash
+flow. You'd have to wait >300 YEARS to reach the market valuation of
+this company with the cash it generates.
 
----
-
-🤣 Good one.. Bcz cockroaches wld make it right, survive a
-cataclysm.
-
-Docu: "I wonder if we are viable form of life. Maybe we're just an
-evolutionary flash in the pan, and we'll be sitting right next to the
-dinaseurs at the cockroach museum"
+In comparison MSFT, GOOG can actually generate cash. Lower P/FCF
 
 ---
 
-Yea well.. your government's ISI kept helping the Taliban after they
-were defeated but hey, who is keeping track.. 
-
-'Pakistani premier says US 'messed it up in Afghanistan'"
+*The Big Short* guy bets against ARK (ETF with heavy tech content)
 
 ---
 
-"Ecuadorian Air Force aims to install new radar to combat drug trafficking"
+New UFO [dataset and code](2015/08/ufo.md#nuforc). This one has
+latitude and longitude. 
 
 ---
 
-Cerebral sounds too much like my day job.. Some movies try too
-hard. This is the scifi version of jumping the shark.
+NYT: "[D]ata from the hospitals .. hints at why the powerful
+industries wanted this information to remain hidden. It shows
+hospitals are charging patients wildly different amounts for the same
+basic services"
+
+[Link](https://www.nytimes.com/interactive/2021/08/22/upshot/hospital-prices.html)
 
 ---
 
-Bad review on *Reminiscence* from ABC Oz. "Buckles under the weight of
-its own construction in the third act". Darn. Is it like *Tenet*?
-"Cerebral"?
+10K vax appointsments are missed everyday in Oz? \#ABC
 
 ---
 
-"Blow for Uber as judge finds California’s gig-worker law unconstitutional"
+700K words.. Asimov was at 7 million.. Some ways to go
 
 ---
 
-I have to [share](https://youtu.be/MwCsCDGOEyM?t=729) this again..
-
----
-
-Tony Blair talking shit?
-
----
-
-Even if there is a single soldier there, that steals valuable
-think-time IMO.. Now the country is an "open case", along with other
-tasks, you have to worry about it, think about it, in military
-terms.. I dont think central govs have that kind of attn, processing
-time.. Now militarily they'll roll it up in a broad terrorism effort,
-and the rest will be diplomacy, more comfortable ground for civilian
-gov.
-
-"There were so few soldiers left in AFG, why bother (to leave)?"
+Sci tutorials now surpass 150K lines. 
 
 ---
 
