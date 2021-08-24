@@ -96,13 +96,12 @@ def get_financials(ticker):
 def get_disp(ticker, atts):
     q = get_financials(ticker)
     print (ticker, [(a + ': ' + str(q[a])) for a in atts])
-    
+
+def test():    
+    res = get_financials("AMZN")
+    print (res)
+    atts = ["Revenue  (ttm)", "Capital Expenditure"] 
+    q = get_disp("SHOP", atts)
 
 if __name__ == "__main__": 
-    #res = get_financials("AMZN")
-    #print (res)
-    atts = ["Revenue  (ttm)", "Capital Expenditure"] 
-    #q = get_disp("AMZN", atts)
-    q = get_disp("SHOP", atts)
-    
-    
+    test()
