@@ -54,8 +54,8 @@ that kind of tech.
 NUFORC Dataset
 
 This dataset contains over 80,000 reports of UFO sightings over the
-last century. Original data from [1]. My scrubbed version is below,
-and sample code to plot it,
+last century. Original data from [1]. The scrubbed version is below,
+along with sample code to plot it,
 
 [Data](https://drive.google.com/uc?export=view&id=1Jho5cLnKqdwfooY9j_GuEj2tf3oO-LPT)
 
