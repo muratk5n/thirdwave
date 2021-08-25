@@ -77,7 +77,7 @@ tech content)
 
 ---
 
-New UFO [dataset and code](2015/08/ufo.md#nuforc). This one has
+New UFO [dataset and code](../../2015/08/ufo.md#nuforc). This one has
 latitude and longitude. 
 
 ---

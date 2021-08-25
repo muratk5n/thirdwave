@@ -2,10 +2,7 @@
 
 
 "Florida Governor Ron DeSantis' approval rating tumbled to 43.7
-percent in a new poll... The survey .. shows the Republican governor
-losing re-election in a hypothetical matchup with Representative
-Charlie Crist, a Democrat who represents Florida's 13th congressional
-district"
+percent in a new poll"
 
 [Link](https://www.newsweek.com/ron-desantis-approval-rating-falls-covid-delta-variant-ravages-florida-1616533)
 
