@@ -61,7 +61,7 @@ the region in many ways...
 ---
 
 A main reason for the existence of these phony US ethnic subcultures is
-so that 'more native' citizens can play *Dances with Wolves* with their
+so that 'earlier citizens' can play *Dances with Wolves* with their
 own countrymen without leaving the comfort of their home. 
 
 ---
