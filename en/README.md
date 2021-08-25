@@ -21,7 +21,7 @@ rule changes"
 
 ---
 
-ME conflict [stats](../../2019/05/confstats.md#gdeltme)
+ME conflict [stats](2019/05/confstats.md#gdeltme)
 
 ---
 

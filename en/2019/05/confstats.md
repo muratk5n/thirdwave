@@ -24,6 +24,32 @@ print (overall_deaths(mon=7).head(20))
 ```text
                      incidents  deaths
 country                               
+Afghanistan                853    7762
+Somalia                     35     181
+Nigeria                     72     162
+Mozambique                  32     110
+Myanmar (Burma)             49      98
+DR Congo (Zaire)            97      87
+Egypt                        4      83
+Burkina Faso                18      69
+Niger                        5      40
+Cameroon                    24      39
+India                       34      34
+Yemen (North Yemen)         35      21
+Syria                       68      20
+Sudan                        6      19
+Venezuela                    2      16
+Iraq                        15      11
+Pakistan                    13      10
+Colombia                     9      10
+Philippines                 11       9
+Ukraine                     13       9
+```
+
+
+```text
+                     incidents  deaths
+country                               
 Afghanistan                855    6626
 Somalia                     42     435
 Nigeria                    101     301
