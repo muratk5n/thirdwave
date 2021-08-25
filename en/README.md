@@ -1,97 +1,87 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
 
-"Australia, India reaffirm commitment to enhancing naval ties"
+"Florida Governor Ron DeSantis' approval rating tumbled to 43.7
+percent in a new poll... The survey .. shows the Republican governor
+losing re-election in a hypothetical matchup with Representative
+Charlie Crist, a Democrat who represents Florida's 13th congressional
+district"
+
+[Link](https://www.newsweek.com/ron-desantis-approval-rating-falls-covid-delta-variant-ravages-florida-1616533)
 
 ---
 
-Too slow
-
-"Pfizer becomes first Covid vaccine to gain full FDA approval"
-
----
-
-Australian Planet Proteins, uses fava and lentils to get plant
-protein.
-
-[Link](https://www.abc.net.au/news/2021-08-21/plant-protein-powder-market/100391766)
+AFP: "A Taliban spokesman on Tuesday said the United States should
+stop evacuating skilled Afghans such as engineers"
 
 ---
 
-*Reminiscence* was ok.. the world it paints is pretty bad.. and
-realistic. People cant get outside during the day, live
-nocturnally.. Yikes
+Politico: "Crypto lobbyists face defeat with House set to block tax
+rule changes"
 
 ---
 
-Dude watches the moves of big dogs, checked companies shorted by
-Burry, true, their P/FCF ratios are fukked.
-
-P/FCF = Market Cap / Free Cash Flow. It is a measure of whether market
-cap is justified by the cash flow a company generates. Checking Shopify,
-comparing against Microsoft, Google
-
-
-```python
-import yf
-atts = ["Market Cap (intraday)","Free Cash Flow"]
-yf.get_disp("SHOP",atts)
-yf.get_disp("MSFT",atts)
-yf.get_disp("GOOG",atts)
-```
-
-```text
-SHOP ['Market Cap (intraday): 181.07B', "Free Cash Flow: ('506,972', '382,963', '8,218')"]
-MSFT ['Market Cap (intraday): 2.29T', "Free Cash Flow: ('56,118,000', '56,118,000', '45,234,000')"]
-GOOG ['Market Cap (intraday): 1.84T', "Free Cash Flow: ('58,536,000', '42,843,000', '30,972,000')"]
-```
-
-Ratios
-
-```python
-print ('SHOP %d' % ((181*1e9) / (506.0*1e6)))
-print ('MSFT %d' % ((2.29*1e12) / (56.0*1e9)))
-print ('GOOG %d' % ((1.84*1e12) / (58.0*1e9)))
-```
-
-```text
-SHOP 357
-MSFT 40
-GOOG 31
-```
-
-Shopify cap is 357 TIMES of its (trailing twelve month) cash
-flow. You'd have to wait >300 YEARS to reach the market valuation of
-this company with the cash it generates.
-
-In comparison MSFT, GOOG have lower P/FCF, can generate cash.
+ME conflict [stats](../../2019/05/confstats.md#gdeltme)
 
 ---
 
-They buy 'bright shiny object' tech, the kind favored by libcucks.
+Cake - Long Line Of Cars \#music
+
+[Link](https://youtu.be/-3wFxuuG-y0)
 
 ---
 
-*The Big Short* guy, M. Burry, bets against ARK (their ETF with heavy
-tech content)
+<iframe width="340" src="https://www.youtube.com/embed/dykZyuWci3g?start=122&end=190" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-New UFO [dataset and code](2015/08/ufo.md#nuforc). This one has
-latitude and longitude. 
+Insect protein? Have insects eat food waste (before it emits methane)
+and then turn insects into flour, protein powder? Interesting. First
+'insect protein' is bad marketing, they should be stressing this
+flour, powder thing. Technically though it is cleaner to have plant,
+lab-grown meat proteins, producing massive meal replacement powders,
+which by definition, will have zero or no waste. Add water through
+desalination (w better, cheaper approaches), through clean prenewable
+energy, we are in the green.
 
 ---
 
-NYT: "[D]ata from the hospitals .. hints at why the powerful
-industries wanted this information to remain hidden. It shows
-hospitals are charging patients wildly different amounts for the same
-basic services"
-
-[Link](https://www.nytimes.com/interactive/2021/08/22/upshot/hospital-prices.html)
+It isnt like "US lost and others (in the region) won" due to the
+pullout. AFG neighbor countries are worried.. I was watching troop
+movements (through gdelt scans), almost all surrounding countries
+deployed troops to their AFG border as pullout neared. China, Russia
+wld be worried extremism that can be rekindled in their own countries
+through Tali. US was rendering a security service for everyone else in
+the region in many ways... 
 
 ---
 
-Sci tutorials now surpass 150K lines. 700K words
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you&#39;re in the Loop, you must visit the Blue Screen of Death Fountain <a href="https://t.co/Th4YUw6JuC">pic.twitter.com/Th4YUw6JuC</a></p>&mdash; Zach Long (@z_long) <a href="https://twitter.com/z_long/status/1429953970051629057?ref_src=twsrc%5Etfw">August 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+A main reason for the existence of these phony US ethnic subcultures is
+so that 'more native' citizens can play *Dances with Wolves* with their
+own countrymen without leaving the comfort of their home. 
+
+---
+
+Yes the Berlin Wall construction took place during [his watch](2021/08/cuban-missile-crisis.md#berlin).
+
+---
+
+So many screw ups during JFK's time.. Soviets built a wall on him in
+Berlin.  His Sov counterpart was constantly on his ass bcz he was
+inexperienced, came across a lightweight.
+
+---
+
+[Culture](2014/06/the-culture-code.md) is received through osmosis
+from the larger society around you, subconciously, before age 7. It is
+not transmitted through education, ritual, or "stories". Most of the
+subcultural identity assumptions are wrong. There are no "Polish",
+"Italian" in US beyond the zeroth generation. There are no Turks in
+Turkey.
 
 ---
 
