@@ -39,3 +39,28 @@ m.save('usbases-out.html')
 
 [Output](usbases-out.html)
 
+<a name='nuke'/>
+
+Nuclear Bomb, Missile Sites
+
+```python
+import pandas as pd, folium
+
+df = pd.read_csv('nuke.csv')
+
+clat,clon=33, -111
+m = folium.Map(location=[clat, clon], zoom_start=4, tiles="Stamen Terrain")
+
+for index, row in df.iterrows():
+    descr = str(row['description']).replace(", ", ",<br>")
+    s = str(row['bombs'])  + " bombs, " + descr
+    s = s.replace("nan","")
+    folium.Marker(        
+        [row['latitude'], row['longitude']], tooltip=s
+    ).add_to(m)
+    
+m.save('nuke-out.html')    
+```
+
+[Output](nuke-out.html)
+

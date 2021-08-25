@@ -46,35 +46,11 @@ Philippines                 11       9
 Ukraine                     13       9
 ```
 
-
-```text
-                     incidents  deaths
-country                               
-Afghanistan                855    6626
-Somalia                     42     435
-Nigeria                    101     301
-Yemen (North Yemen)         45     100
-DR Congo (Zaire)            49      57
-Burkina Faso                15      44
-Syria                       63      35
-India                       28      29
-Mali                        10      21
-Iraq                        20      20
-Niger                       12      18
-Myanmar (Burma)             41      15
-Philippines                 14      13
-Pakistan                    19      11
-Ukraine                     10      11
-Mozambique                  12      10
-Mexico                     318      10
-South Sudan                  5      10
-Iran                         4       9
-Burundi                      9       8
-```
-
 Details for Specific Country
 
 ```python
+import pandas as pd
+
 def country_attacked(mon, country):
    url = 'https://ucdp.uu.se/downloads/candidateged/GEDEvent_v21_0_%d.csv' % mon
    df = pd.read_csv(url)
@@ -85,18 +61,17 @@ def country_attacked(mon, country):
    g.columns = ['incidents','deaths']
    return g.sort_values('deaths',ascending=False)
 
-print (country_attacked(6, 'Syria'))
+print (country_attacked(7, 'Syria'))
 ```
 
 ```text
-                              incidents  deaths
-side_b               country                   
-Syrian insurgents    Syria           22      27
-SDF                  Syria           16       8
-Civilians            Syria            8       0
-Government of Israel Syria            1       0
-Government of Syria  Syria            1       0
-IS                   Syria           15       0
+                             incidents  deaths
+side_b              country                   
+IS                  Syria           11       7
+SDF                 Syria           15       7
+Syrian insurgents   Syria           32       4
+Government of Syria Syria            2       2
+Civilians           Syria            8       0
 ```
 
 <a name='gdeltme'/>
