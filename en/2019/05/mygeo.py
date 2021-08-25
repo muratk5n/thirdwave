@@ -34,3 +34,18 @@ def to_bearing(lat,lon,brng,d):
     lat2 = math.degrees(lat2)
     lon2 = math.degrees(lon2)
     return lat2,lon2
+
+def average(cs):
+    res = []
+    for lat,lon in cs:
+        res.append(latlon2vec(lat,lon))
+    res = np.array(res)
+    m = np.mean(res,axis=0)
+    m = m / lin.norm(m)
+    return vec2latlon(m)        
+
+if __name__ == "__main__": 
+ 
+    cs = [[30,20],[47,3]]
+    m = average(cs)
+    print (m)
