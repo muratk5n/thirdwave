@@ -49,7 +49,7 @@ Greg Izor - Who You Lying To \#music
 ---
 
 Your country, such as it is, is quite [new](2017/07/the-next-decade-friedman.md#lebanon).
-I wouldn't have qualms about joining a larger entity. Hell centuries old European
+I wouldn't have qualms about joining a larger entity. Centuries old European
 states do it all the time, including now.
 
 "But I am Lebanese, want to be in my country"
