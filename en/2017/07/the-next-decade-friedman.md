@@ -167,7 +167,7 @@ western Hejaz region of the Arabian Peninsula, the Hashemites [today's
 Jordanians], had supported the British. In return, the British
 promised to install this group as rulers of Arabia after the war. But
 London made commitments to other tribes as well. Based in Kuwait, a
-rival clan, the Saud, had launched a war against the Turks in 1900,
+rival clan, the Saud, had launched a war against the [Otto] in 1900,
 trying to take control of the eastern and central parts of the Arabian
 Peninsula. In a struggle that broke out shortly after World War I, the
 Sauds defeated the Hashemites, so the British gave Arabia to
