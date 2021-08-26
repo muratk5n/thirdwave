@@ -68,16 +68,16 @@ plotted points.
 
 <a name='analysis1'/>
 
-Population Ratio Comparison
+US Per State Analysis, Ratio Comparison
 
-In this analysis, ratio of sightings per state was compared to ratio
-of that state's population. More people report more sightings, but do
-some states report *more* sightings, perhaps indicating something
-mysterious..? Proportion ratio z-test was used to determine
-significance, result is below. We eliminate states that do not fit,
-then find the middle point of sighting locations.
-
-Also plotted are known US nuclear missile bases (red circles).
+In this analysis, per state sightings ratio was compared to ratio of
+that state's population. More people report more sightings, but do
+some states report *more* sightings disproportionate to their
+population, perhaps indicating something mysterious..? Proportion
+ratio z-test was used to determine significance, result is below. We
+eliminate states that do not fit, then find the middle point of
+sighting locations in that state. Also plotted are known US nuclear
+missile bases (red circles).
 
 [Output](ufo-sig-out.html)
 
