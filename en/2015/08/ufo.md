@@ -66,6 +66,21 @@ along with sample code to plot it,
 Code filters out sightings before 2010, then downsamples to reduce the
 plotted points. 
 
+<a name='analysis1'/>
+
+Population Ratio Comparison
+
+In this analysis, ratio of sightings per state was compared to ratio
+of that state's population. More people report more sightings, but do
+some states report *more* sightings, perhaps indicating something
+mysterious..? Proportion ratio z-test was used to determine
+significance, result is below. We eliminate states that do not fit,
+then find the middle point of sighting locations.
+
+Also plotted are known US nuclear missile bases (red circles).
+
+[Output](ufo-sig-out.html)
+
 References
 
 [1] https://www.kaggle.com/NUFORC/ufo-sightings
