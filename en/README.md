@@ -17,7 +17,7 @@ Bomb! Don't say Bomb!
 
 ---
 
-US Nuclear Missile, Bomb Locations
+US / Europe Nuclear Missile, Bomb Locations
 
 [Link](2019/05/usmil.md#nuke)
 
