@@ -1,8 +1,5 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-
----
-
 "Egypt PM Confers With Siemens Energy Officials On Developing Green
 Hydrogen Industry-PM said Egypt has plan for developing Green Hydrogen
 industry in keeping with programs being implemented by the European
@@ -39,12 +36,6 @@ Barely
 ---
 
 [Charlie Crist](https://mobile.twitter.com/charliecrist/status/1418217517793701896) eh?
-
----
-
-Greg Izor - Who You Lying To \#music
-
-[Link](https://youtu.be/Q-w6AmCL12I)
 
 ---
 
