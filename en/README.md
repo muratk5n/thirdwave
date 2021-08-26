@@ -9,14 +9,6 @@ Union (#EU)"
 
 ---
 
-[A Beumb](https://youtu.be/GLDvtpSC_98)
-
----
-
-Bomb! Don't say Bomb!
-
----
-
 US / Europe Nuclear Missile, Bomb Locations
 
 [Link](2019/05/usmil.md#nuke)
