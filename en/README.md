@@ -89,7 +89,7 @@ pullout" narrative.
 
 AFG attack: somebody is giving somebody a message.. About delaying the
 final pullout date perhaps (tho US had already rejected that)? Or
-war-hawk neocon tools stirring shit up? Who the flap knows.. Sad.
+war-hawk neocon tools stirring shit up? Who the phuck knows.. Sad.
 
 ---
 
