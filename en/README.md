@@ -81,10 +81,6 @@ Zagar - Mr. Lugosi \#music
 
 ---
 
-Cannot wait until US is outa there
-
----
-
 If it is the latter obviously US is not going to 'reinvade' bcz of an
 attack. But they can make WH look bad, trying to reinforce a "botched
 pullout" narrative.
