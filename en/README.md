@@ -35,7 +35,7 @@ Unless..  aliens love airbases
 
 ---
 
-For significant states (higher sighitings compared to population), we
+For significant states (higher sightings compared to population), we
 calculate sightings midpoint, checked two, Idaho and Arizona, both
 have airbases nearby. Weakens alien hypothesis somewhat
 
