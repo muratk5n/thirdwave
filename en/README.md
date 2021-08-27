@@ -21,7 +21,8 @@ a day"
 
 ---
 
-"US approves potential sale to Australia of services for SM-6 and SM-2 IIIC missiles"
+Jane's Defense: "US approves potential sale to Australia of services
+for SM-6 and SM-2 IIIC missiles"
 
 ---
 
