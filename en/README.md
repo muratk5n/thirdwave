@@ -25,8 +25,8 @@ a day"
 
 ---
 
-One docu said UFOs are *really into nuclear missile sites*, like,
-always check them out.. My plots dont show that correlation.
+One docu said UFOs "really like nuclear missile sites", as in always
+visit them.. My plots dont show that correlation.
 
 ---
 
