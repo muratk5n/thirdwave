@@ -78,6 +78,8 @@ ratio z-test was used to determine significance. For significant
 states, then calculated per-state sightings midpoint. Also plotted are
 known US nuclear missile bases (red circles).
 
+[Code](ufo.py)
+
 [Output](ufo-sig-out.html)
 
 References
