@@ -34,17 +34,9 @@ Unless..  aliens love airbases
 
 ---
 
-For significant states, then calculated per-state sightings
-midpoint. Checked two of those, Idaho and Arizona, both have airbases
-nearby. Weakens alien hypothesis somewhat
-
----
-
-Per state sightings ratio was compared to state's population ratio (to
-US total). A lot of people report a lot of sightings, but do some
-states report *more* sightings disproportionate to their population,
-indicating something mysterious..? Proportion ratio z-test was used to
-determine significance.
+For significant states (higher sighitings compared to population), we
+calculate sightings midpoint, checked two, Idaho and Arizona, both
+have airbases nearby. Weakens alien hypothesis somewhat
 
 ---
 
