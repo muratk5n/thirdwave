@@ -26,7 +26,7 @@ a day"
 ---
 
 One docu said UFOs "really like nuclear missile sites", as in always
-visit them.. My plots dont show that correlation.
+visit them.. Plots dont show that correlation.
 
 ---
 
