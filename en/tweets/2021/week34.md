@@ -1,5 +1,56 @@
 # Week 34
 
+"Egypt PM Confers With Siemens Energy Officials On Developing Green
+Hydrogen Industry-PM said Egypt has plan for developing Green Hydrogen
+industry in keeping with programs being implemented by the European
+Union (#EU)"
+
+[Link](https://bit.ly/3jh8B1b)
+
+---
+
+US / Europe Nuclear Missile, Bomb Locations
+
+[Link](2019/05/usmil.md#nuke)
+
+---
+
+Good for them did not reject lab leak. 
+
+"US intelligence study inconclusive on Covid origins, according to reports"
+
+---
+
+Barely
+
+"But Obama won Florida in 2012 despite making some pro Cuban moves"
+
+---
+
+[Charlie Crist](https://mobile.twitter.com/charliecrist/status/1418217517793701896) eh?
+
+---
+
+Your country, such as it is, is quite [new](2017/07/the-next-decade-friedman.md#lebanon).
+I wouldn't have qualms about joining a larger entity. Centuries old European
+states do it all the time, including now.
+
+"But I am Lebanese, want to be in my country"
+
+---
+
+Lebanon is a bloody mess. They should join an eventual federal Syria
+where "the Lebanese", along with others, become part of a loosely
+connected new state.
+
+---
+
+UCDP/PRIO conflict stats for July. A jump in deaths in Myanmar.. Egypt
+is climbing up? Somalia, Nigeria, Zaire are still up there..
+
+[Link](2019/05/confstats.md)
+
+---
 
 "Florida Governor Ron DeSantis' approval rating tumbled to 43.7
 percent in a new poll.The survey .. shows the Republican governor
