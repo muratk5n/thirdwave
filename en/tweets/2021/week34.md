@@ -43,7 +43,7 @@ have airbases nearby. Weakens alien hypothesis somewhat
 
 New UFO plot / analysis below. 
 
-[Link](2015/08/ufo.md#analysis1)
+[Link](../../2015/08/ufo.md#analysis1)
 
 ---
 
@@ -102,7 +102,7 @@ Union (#EU)"
 
 US / Europe Nuclear Missile, Bomb Locations
 
-[Link](2019/05/usmil.md#nuke)
+[Link](../../2019/05/usmil.md#nuke)
 
 ---
 
@@ -122,7 +122,7 @@ Barely
 
 ---
 
-Your country, such as it is, is quite [new](2017/07/the-next-decade-friedman.md#lebanon).
+Your country, such as it is, is quite [new](../../2017/07/the-next-decade-friedman.md#lebanon).
 I wouldn't have qualms about joining a larger entity. Centuries old European
 states do it all the time, including now.
 
@@ -139,7 +139,7 @@ connected new state.
 UCDP/PRIO conflict stats for July. A jump in deaths in Myanmar.. Egypt
 is climbing up? Somalia, Nigeria, Zaire are still up there..
 
-[Link](2019/05/confstats.md)
+[Link](../../2019/05/confstats.md)
 
 ---
 
@@ -160,10 +160,6 @@ stop evacuating skilled Afghans such as engineers"
 
 Politico: "Crypto lobbyists face defeat with House set to block tax
 rule changes"
-
----
-
-ME conflict [stats](2019/05/confstats.md#gdeltme)
 
 ---
 
@@ -208,7 +204,7 @@ own countrymen without leaving the comfort of their home.
 
 ---
 
-Yes the Berlin Wall construction took place during [his watch](2021/08/cuban-missile-crisis.md#berlin).
+Yes the Berlin Wall construction took place during [his watch](../../2021/08/cuban-missile-crisis.md#berlin).
 
 ---
 
@@ -218,7 +214,7 @@ inexperienced, came across a lightweight.
 
 ---
 
-[Culture](2014/06/the-culture-code.md) is received through osmosis
+[Culture](../../2014/06/the-culture-code.md) is received through osmosis
 from the larger society around you, subconciously, before age 7. It is
 not transmitted through education, ritual, or "stories". Most of the
 subcultural identity assumptions are wrong. There are no "Polish",
