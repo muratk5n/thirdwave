@@ -1,93 +1,41 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-Forget Afghanistan. This is where the real action is.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Toyota to Assemble Fuel Cell Modules at Kentucky Plant in 2023. 🇺🇸 <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> <a href="https://twitter.com/hashtag/fcet?src=hash&amp;ref_src=twsrc%5Etfw">#fcet</a> <a href="https://t.co/WA8s9hB8g5">https://t.co/WA8s9hB8g5</a></p>&mdash; Jackie Birdsall (@Jackie_Birdsall) <a href="https://twitter.com/Jackie_Birdsall/status/1430660154970677252?ref_src=twsrc%5Etfw">August 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-The irony is he might be safer in that cell than out in the streets of
-Berlin.
+WSJ: "Kerry to Press China to Stop Financing Coal-Fired Energy
+Projects.. [Kerry] is planning to push for a formal declaration during
+a trip to China next week, but Beijing doesn’t want to be seen as
+caving to Western pressure"
 
 ---
 
-Brutal
-
-"Navalny says he is forced to watch eight hours of state TV a
-day... tells of brainwashing and propaganda in jail..  Navalny has
-given his first interview from prison, comparing it to a Chinese labor
-camp and saying he is forced to watch eight hours of state television
-a day"
+NYT: "Let’s Not Pretend That the Way We Withdrew From Afghanistan Was
+the Problem.. Focusing on the execution of the withdrawal is giving
+virtually everyone who insisted we bcould remake Afghanistan the
+opportunity to obscure their failures by pretending to believe in the
+possibility of a graceful departure"
 
 ---
 
-Jane's Defense: "US approves potential sale to Australia of services
-for SM-6 and SM-2 IIIC missiles"
+Wired: "Why I Flattened Three Afghan Villages.. When the day began for
+Lt. Col. David Flynn on Oct. 6, Taliban insurgents were using three
+southern Afghanistan hamlets as bomb factories. By the time the next
+day ended, Tarok Kolache, Khosrow Sofla and Lower Babur had been
+eradicated from the valley where they once stood"
+
+[Link](https://www.wired.com/2011/02/i-flattened-afghan-villages/)
 
 ---
 
-One docu said UFOs "really like nuclear missile sites", as in always
-visit them.. Plots dont show that correlation.
+You must be new here. That too has been tried before.
+
+"@toddstarnes
+
+For every American who is killed, a city in Afghanistan should be
+wiped off the face of the Earth"
 
 ---
 
-Unless..  aliens love airbases 
-
----
-
-For significant states (higher sightings compared to population), we
-calculate sightings midpoint, checked two, Idaho and Arizona, both
-have airbases nearby. Weakens alien hypothesis somewhat
-
----
-
-New UFO plot / analysis below. 
-
-[Link](2015/08/ufo.md#analysis1)
-
----
-
-Am a big fan of cauliflower.. 
-
-"Eat more plants: To reduce your risk of cardiovascular disease and
-diabetes, try to have every meal include at least one plant-based
-dish. I typically have broccoli, cauliflower, asparagus or zucchini as
-a side for lunch and dinner...
-
-Avoid processed foods: Many products you find in grocery stores today
-are loaded with salt, sugar, saturated fats and chemical
-preservatives. A 2019 study of 20,000 men and women aged 21 to 90
-found that a diet high in processed foods resulted in an 18% increased
-risk of death by all causes"
-
-[Link](https://www.cnbc.com/2021/08/25/longevity-expert-shares-his-non-negotiable-diet-sleep-exercising-rules-for-a-longer-healthier-life.html)
-
----
-
-*Jurassic Shark 2*? 
-
----
-
-Zagar - Mr. Lugosi \#music
-
-[Link](https://youtu.be/gZSaWJFoWLA)
-
----
-
-If it is the latter obviously US is not going to 'reinvade' bcz of an
-attack. But they can make WH look bad, trying to reinforce a "botched
-pullout" narrative.
-
----
-
-AFG attack: somebody is giving somebody a message.. About delaying the
-final pullout date perhaps (tho US had already rejected that)? Or
-war-hawk neocon tools stirring shit up? Through third-parties? Sad.
-
----
-
-"White House Bashes Erik Prince’s $6,500 Evacuation Flights [out of
-Afghanistan]: ‘Efforts To Profit Off People’s Agony And Pain’"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is straight up villain shit … I used that for most of school, families rely on that for real 🤡 <a href="https://t.co/xF5XQuOQU3">https://t.co/xF5XQuOQU3</a></p>&mdash; Brandon Barker ✨ (@AstroBarker) <a href="https://twitter.com/AstroBarker/status/1431332066680049673?ref_src=twsrc%5Etfw">August 27, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
