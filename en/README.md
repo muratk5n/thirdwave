@@ -37,7 +37,7 @@ turning away"
 
 ---
 
-Imperial aversion to ininstability \#zakaria
+Imperial aversion to instability \#zakaria
 
 [Link](https://youtu.be/-9n4m7VhYXU?t=67)
 
