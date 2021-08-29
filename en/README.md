@@ -1,11 +1,5 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-Imperial overreach, instability \#zakaria
-
-[Link](https://youtu.be/-9n4m7VhYXU?t=67)
-
----
-
 JFK increased military spending. While he did not trust the complex at
 every level, he surely contributed to its growth.
 
@@ -40,6 +34,12 @@ They chose the wrong pol.. Its ok, CDU/CSU can come back with [that Trekky guy](
 have been slipping in opinion polls. Their gaffe-prone candidate for
 chancellor, Armin Laschet, is being blamed. And his supporters are
 turning away"
+
+---
+
+Imperial oversion to ininstability \#zakaria
+
+[Link](https://youtu.be/-9n4m7VhYXU?t=67)
 
 ---
 
