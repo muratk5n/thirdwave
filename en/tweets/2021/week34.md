@@ -1,5 +1,44 @@
 # Week 34
 
+
+WSJ: "Kerry to Press China to Stop Financing Coal-Fired Energy
+Projects.. [Kerry] is planning to push for a formal declaration during
+a trip to China next week, but Beijing doesn’t want to be seen as
+caving to Western pressure"
+
+---
+
+NYT: "Let’s Not Pretend That the Way We Withdrew From Afghanistan Was
+the Problem.. Focusing on the execution of the withdrawal is giving
+virtually everyone who insisted we bcould remake Afghanistan the
+opportunity to obscure their failures by pretending to believe in the
+possibility of a graceful departure"
+
+---
+
+Wired: "Why I Flattened Three Afghan Villages.. When the day began for
+Lt. Col. David Flynn on Oct. 6, Taliban insurgents were using three
+southern Afghanistan hamlets as bomb factories. By the time the next
+day ended, Tarok Kolache, Khosrow Sofla and Lower Babur had been
+eradicated from the valley where they once stood"
+
+[Link](https://www.wired.com/2011/02/i-flattened-afghan-villages/)
+
+---
+
+You must be new here. That too has been tried before.
+
+"@toddstarnes
+
+For every American who is killed, a city in Afghanistan should be
+wiped off the face of the Earth"
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is straight up villain shit … I used that for most of school, families rely on that for real 🤡 <a href="https://t.co/xF5XQuOQU3">https://t.co/xF5XQuOQU3</a></p>&mdash; Brandon Barker ✨ (@AstroBarker) <a href="https://twitter.com/AstroBarker/status/1431332066680049673?ref_src=twsrc%5Etfw">August 27, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 Forget Afghanistan. This is where the real action is.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Toyota to Assemble Fuel Cell Modules at Kentucky Plant in 2023. 🇺🇸 <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> <a href="https://twitter.com/hashtag/fcet?src=hash&amp;ref_src=twsrc%5Etfw">#fcet</a> <a href="https://t.co/WA8s9hB8g5">https://t.co/WA8s9hB8g5</a></p>&mdash; Jackie Birdsall (@Jackie_Birdsall) <a href="https://twitter.com/Jackie_Birdsall/status/1430660154970677252?ref_src=twsrc%5Etfw">August 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -46,8 +85,6 @@ New UFO plot / analysis below.
 [Link](../../2015/08/ufo.md#analysis1)
 
 ---
-
-Am a big fan of cauliflower.. 
 
 "Eat more plants: To reduce your risk of cardiovascular disease and
 diabetes, try to have every meal include at least one plant-based

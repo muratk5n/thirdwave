@@ -1,41 +1,57 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
+Imperial overreach, instability \#zakaria
 
-WSJ: "Kerry to Press China to Stop Financing Coal-Fired Energy
-Projects.. [Kerry] is planning to push for a formal declaration during
-a trip to China next week, but Beijing doesn’t want to be seen as
-caving to Western pressure"
+[Link](https://youtu.be/-9n4m7VhYXU?t=67)
 
 ---
 
-NYT: "Let’s Not Pretend That the Way We Withdrew From Afghanistan Was
-the Problem.. Focusing on the execution of the withdrawal is giving
-virtually everyone who insisted we bcould remake Afghanistan the
-opportunity to obscure their failures by pretending to believe in the
-possibility of a graceful departure"
+JFK increased military spending. While he did not trust the complex at
+every level, he surely contributed to its growth.
+
+"The military-industrial complex never liked JFK, they had him killed"
 
 ---
 
-Wired: "Why I Flattened Three Afghan Villages.. When the day began for
-Lt. Col. David Flynn on Oct. 6, Taliban insurgents were using three
-southern Afghanistan hamlets as bomb factories. By the time the next
-day ended, Tarok Kolache, Khosrow Sofla and Lower Babur had been
-eradicated from the valley where they once stood"
-
-[Link](https://www.wired.com/2011/02/i-flattened-afghan-villages/)
+*Westworld* borrowed a lot from *Vice* clearly, the 2015 movie.
 
 ---
 
-You must be new here. That too has been tried before.
-
-"@toddstarnes
-
-For every American who is killed, a city in Afghanistan should be
-wiped off the face of the Earth"
+AFP: "Biden says China still withholding 'critical information' on Covid origin"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is straight up villain shit … I used that for most of school, families rely on that for real 🤡 <a href="https://t.co/xF5XQuOQU3">https://t.co/xF5XQuOQU3</a></p>&mdash; Brandon Barker ✨ (@AstroBarker) <a href="https://twitter.com/AstroBarker/status/1431332066680049673?ref_src=twsrc%5Etfw">August 27, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+♪♬ Toss a coin to your witcher ♪♬
+
+♪ O' Valley of Plenty ♬
+
+♪♬ At the edge of the world ♪
+
+---
+
+I bet Soder didn't fight too hard for nomination, didn't want to
+get it this time..
+
+---
+
+They chose the wrong pol.. Its ok, CDU/CSU can come back with [that Trekky guy](https://www.bbc.com/news/world-europe-56614052)
+
+"A month before the general election, Germany's ruling conservatives
+have been slipping in opinion polls. Their gaffe-prone candidate for
+chancellor, Armin Laschet, is being blamed. And his supporters are
+turning away"
+
+---
+
+"US-Based Ohmium Launches India's Green Hydrogen Electrolyzer
+Gigafactory. India's first green hydrogen electrolyzer gigafactory
+that will turn power from renewable sources into #carbonfree hydrogen"
+
+[Link](https://bit.ly/3yn3DEA)
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Alstom&#39;s Coradia iLint <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> train runs for the first time in Sweden 🇸🇪<br>▶️A huge opportunity for Sweden to reduce CO2 emissions &amp; help decarbonise <a href="https://twitter.com/hashtag/rail?src=hash&amp;ref_src=twsrc%5Etfw">#rail</a> <a href="https://twitter.com/hashtag/transport?src=hash&amp;ref_src=twsrc%5Etfw">#transport</a> <br>▶️an innovative answer to <a href="https://twitter.com/hashtag/sustainable?src=hash&amp;ref_src=twsrc%5Etfw">#sustainable</a> <a href="https://twitter.com/hashtag/mobility?src=hash&amp;ref_src=twsrc%5Etfw">#mobility</a> without compromise<br>Learn more: <a href="https://t.co/NGW8OeO50e">https://t.co/NGW8OeO50e</a> <a href="https://t.co/LLoP8qbkzG">pic.twitter.com/LLoP8qbkzG</a></p>&mdash; Alstom (@Alstom) <a href="https://twitter.com/Alstom/status/1430410498877665280?ref_src=twsrc%5Etfw">August 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
