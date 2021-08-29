@@ -1,6 +1,6 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-JFK increased military spending. While he did not trust the complex at
+JFK increased military spending. While he did not trust the military at
 every level, he surely contributed to its growth.
 
 "The military-industrial complex never liked JFK, they had him killed"
