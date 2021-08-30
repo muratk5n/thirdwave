@@ -77,10 +77,6 @@ Lebanon then into Iraq.
 
 ---
 
-<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">Hey let’s check on <a href="https://twitter.com/peterbakernyt?ref_src=twsrc%5Etfw">@peterbakernyt</a>’s totally neutral and independent “critics” arguing against Biden’s Afghanistan withdrawal <a href="https://t.co/CKgKaxxiV7">pic.twitter.com/CKgKaxxiV7</a></p>&mdash; Adam H. Johnson (@adamjohnsonNYC) <a href="https://twitter.com/adamjohnsonNYC/status/1431725588121849861?ref_src=twsrc%5Etfw">August 28, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 Industrial Age society, the Second Wave began in Western Europe with
 the Industrial Revolution, and subsequently spread across the
 world. Key aspects of Second Wave society are the nuclear family, a
