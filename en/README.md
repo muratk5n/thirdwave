@@ -22,6 +22,10 @@ worth of lost equipment means in practice for the Taliban''
 
 Katrina had wind speed at around 280 km/h. Sandy 160 k/h. This thing is ~100
 
+---
+
+Ida
+
 <img width="340" src="https://pbs.twimg.com/media/E999VbvXIAAgROR?format=jpg&name=small"/>
 
 ---
