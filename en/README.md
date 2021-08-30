@@ -20,7 +20,7 @@ worth of lost equipment means in practice for the Taliban''
 
 ---
 
-Katrina had wind speed at around 280 km/h. Sandy 160 k/h. This thing is ~100
+Katrina had wind speed at around 280 km/h. Sandy 160 k/h. 
 
 ---
 
