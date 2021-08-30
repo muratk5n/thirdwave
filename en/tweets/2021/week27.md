@@ -58,12 +58,6 @@ I know what I'm doing on Sunday night 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇮🇹
 
 ---
 
-Down to nearly zero processed food intake, if you ignore bread. Spices
-are just dried veg, not much proc anyway. I dont even use minced beef
-bcz it introduces processing.
-
----
-
 "Computational Aeroelasticity"
 
 ---
