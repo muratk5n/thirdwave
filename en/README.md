@@ -14,18 +14,6 @@ Woha, fire whirl
 
 ---
 
-N. Portman or JA? Dude, JA hands down. Portman looks like from the
-hood, she dime a dozen. Doesnt do nothin for me
-
----
-
-I'd seen the actress J. Alexander way before, in a little show called
-Kyle XY..  She was great, with that stauesque look. The only negative, a
-bit chubby in places.. But she made an excellent transition to her
-next phase, w demanding action, and looks quite fit. I'm impressed.
-
----
-
 This new compsci approach can do seismology, stress/strain comp,
 waves, the whole 9!
 
@@ -79,6 +67,18 @@ they can drop their children off and go to work, whereever.
 If they want better education, they should ask for prerecorded lecture
 videos of the experts to teach their children rather than a
 parrot/imbecile wildly gestulating (teacher)
+
+---
+
+N. Portman or JA? JA, hands down. Portman looks like from the
+hood, she dime a dozen. 
+
+---
+
+I'd seen the actress J. Alexander way before, in a little show called
+Kyle XY..  She was great, with that stauesque look. The only negative, a
+bit chubby in places.. But she made an excellent transition to her
+next phase, w demanding action, and looks quite fit. I'm impressed.
 
 ---
 
