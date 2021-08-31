@@ -66,9 +66,8 @@ ME conflict [stats](../../2019/05/confstats.md#gdeltme)
 
 ---
 
-"Remote" learning is the wrong definition. If you stream the lecture
-over the Net sure it is "remote". But lectures can be viewed at school
-just as easily at school as they are at home. 
+"Remote" learning is the wrong definition. Lectures can be viewed at
+school just as easily at school as they are viewed at home. 
 
 ---
 
