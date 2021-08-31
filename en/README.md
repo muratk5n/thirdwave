@@ -1,16 +1,5 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-Woha, fire whirl \#ChaparralFire
-
-[Link](https://twitter.com/CALFIRERRU/status/1432012185543139332)
-
----
-
-This new compsci approach can do seismology, stress/strain comp,
-waves, the whole 9!
-
----
-
 "@NYDailyNews
 
 Marc Bernier, a conservative Florida radio host who dubbed himself
@@ -30,6 +19,17 @@ file for this thing.. \o/ F-ing score
 Dave Patterson - Solid Funk \#music
 
 [Link](https://youtu.be/E4bCp-oZMLA)
+
+---
+
+Woha, fire whirl \#ChaparralFire
+
+[Link](https://twitter.com/CALFIRERRU/status/1432012185543139332)
+
+---
+
+This new compsci approach can do seismology, stress/strain comp,
+waves, the whole 9!
 
 ---
 
