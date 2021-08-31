@@ -40,11 +40,8 @@ and Iranians near the Israeli border, the Syrian civil war will not be
 over... Iran wants to repeat in Syria what it has been doing in Yemen
 for several years. In Yemen Iran perfected an effective way to attack
 Saudi Arabia by arming Shia rebels in Yemen with over a thousand
-ballistic missiles and UAVs during the last seven years. Most of these
-were aimed at southwestern Saudi Arabia. Less than one percent of
-those UAVs and missiles hit anything of consequence. Iran is seeking
-to carry out a similar campaign against Israel using Iran backed
-militias in Syria"
+ballistic missiles and UAVs... Iran is seeking to carry out a similar
+campaign against Israel using Iran backed militias in Syria"
 
 [Link](https://www.strategypage.com/qnd/syria/articles/20210825.aspx)
 
