@@ -70,9 +70,10 @@ parrot/imbecile wildly gestulating (teacher)
 ---
 
 I'd seen the actress J. Alexander way before, in a little show called
-Kyle XY..  She was great, with that stauesque look. The only negative, a
-bit chubby in places.. But she made an excellent transition to her
-next phase, w demanding action, and looks quite fit. I'm impressed.
+Kyle XY..  She was great, with that statuesque look.. The only
+negative, a bit chubby in places.. But she made an excellent
+transition to her next phase, w demanding action, and looks quite
+fit. I'm impressed.
 
 ---
 
