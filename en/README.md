@@ -58,14 +58,16 @@ home. The key is content, and who delivers it.
 
 ---
 
+If they want better education, they should ask for prerecorded lecture
+videos of the experts to teach their children rather than a
+parrot/doofus wildly gestulating (teacher)
+
+---
+
 "Children going to school" isn't preferred bcz it is better for their
 education. Parents need it because in a modern setting, school
 functions as a day-care center, somewhere they can drop their children
 off and go to work, whereever.
-
-If they want better education, they should ask for prerecorded lecture
-videos of the experts to teach their children rather than a
-parrot/imbecile wildly gestulating (teacher)
 
 ---
 
