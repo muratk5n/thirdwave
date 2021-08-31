@@ -1,79 +1,73 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
 
-"@fosgoodwood
+Dave Patterson - Solid Funk \#music
 
-BMW is pushing to introduce alternative fuels into their
-lineup. Evidence is the new iX5, a hydrogen-powered SUV!"
-
----
-
-"@Jason_K_Dempsey
-
-'In practice' this means the Taliban have a lot of stuff they can’t
-maintain and will be useless in 3-6 months. Best use would be a surge
-of propaganda pics and then put everything but artillery, small arms,
-NVDs, and pickups up for sale.
-
-'@_Will_Brown A mind-blowing graphic in today's Times on what $85bn
-worth of lost equipment means in practice for the Taliban''
+[Link](https://youtu.be/E4bCp-oZMLA)
 
 ---
 
-Katrina had wind speed at around 280 km/h. Sandy 160 k/h. 
+This new compsci appr can do seismology, stress/strain comp, waves,
+the whole 9! 
 
 ---
 
-Ida
+Woha, fire whirl 
 
-<img width="340" src="https://pbs.twimg.com/media/E999VbvXIAAgROR?format=jpg&name=small"/>
+\#ChaparralFire
 
----
-
-"As China-Taiwan Tensions Rise, Japan Begins Preparing for Possible Conflict"
+[Link](https://twitter.com/CALFIRERRU/status/1432012185543139332)
 
 ---
 
-"A study has provoked controversy in Germany because it shows that the
-country’s healthcare system has two tiers... The study.. has shown
-that patients who have statutory health insurance have to wait about
-three times longer for an appointment with a specialist than members
-of private health insurance schemes"
-
-[Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2292303/)
+N. Portman or JA? Dude, JA hands down. Portman looks like from the
+hood, she dime a dozen. Doesnt do nothin for me
 
 ---
 
-New co-leader of Germany's left party Die Linke, talking about the
-country's two-tier healthcare. It's good.. DE needs more left. There
-are enough of those Washingon Consensus, centrist
-types.. 
-
-[Link](https://twitter.com/Janine_Wissler/status/1431960175494172677)
+I'd seen the actress J. Alexander way before, in this show called Kyle
+XY..  She was great, with that stauesque look, only negative, a bit
+chubby in places.. But she made an excellent transition to her next
+phase, w demanding action, and looks quite fit. I'm impressed. 
 
 ---
 
-People might be spooked by it, then they can choose to leave condensed
-spaces, perhaps start living a more rural life.
+"@NYDailyNews
+
+Marc Bernier, a conservative Florida radio host who dubbed himself
+'Mr. Anti-Vax,' died after a three-week battle with COVID-19. He was
+65.
+
+His death was the third this month among conservative talk show hosts
+outspoken against the coronavirus vaccine'
 
 ---
 
-At certain point one has to move on.. Society cannot keep having lockdowns.
-
-NYT: "Britain is reporting more than 30,000 new coronavirus cases a
-day, but the public seems to have moved on. Experts say this could be
-a glimpse into the future for other countries... [A] professor.. 'It
-looks like we’re just accepting it now — that this is the price of
-freedom.'... 'It’s really difficult to ask people not to mix for a
-prolonged period, especially if there is no solution.'...  [A]
-specialist... 'All our Covid cases are unvaccinated by choice'"
+That was a shot in the dark but.. dam. I have the full-blown CAD
+file for this thing.. \o/ F-ing score, bruh
 
 ---
 
-Handing over Iraq support to France? They do have a strategic interest
-there.. wanting to stop refugees. Also indirectly protecting
-Lebanon.. ? In reverse, they have a supply route open by sea, into
-Lebanon then into Iraq.
+"As long as the Islamic terrorists remain in Idlib, [ISIS] in the east
+and Iranians near the Israeli border, the Syrian civil war will not be
+over... Iran wants to repeat in Syria what it has been doing in Yemen
+for several years. In Yemen Iran perfected an effective way to attack
+Saudi Arabia by arming Shia rebels in Yemen with over a thousand
+ballistic missiles and UAVs during the last seven years. Most of these
+were aimed at southwestern Saudi Arabia. Less than one percent of
+those UAVs and missiles hit anything of consequence. Iran is seeking
+to carry out a similar campaign against Israel using Iran backed
+militias in Syria"
+
+[Link](https://www.strategypage.com/qnd/syria/articles/20210825.aspx)
+
+---
+
+ME conflict [stats](../../2019/05/confstats.md#gdeltme)
+
+---
+
+BTW the theory is not just lab-leak, *engineered* virus leaking from the lab.
 
 ---
 

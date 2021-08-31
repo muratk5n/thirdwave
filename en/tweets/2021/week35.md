@@ -1,5 +1,81 @@
 # Week 35
 
+"@fosgoodwood
+
+BMW is pushing to introduce alternative fuels into their
+lineup. Evidence is the new iX5, a hydrogen-powered SUV!"
+
+---
+
+"@Jason_K_Dempsey
+
+'In practice' this means the Taliban have a lot of stuff they can’t
+maintain and will be useless in 3-6 months. Best use would be a surge
+of propaganda pics and then put everything but artillery, small arms,
+NVDs, and pickups up for sale.
+
+'@_Will_Brown A mind-blowing graphic in today's Times on what $85bn
+worth of lost equipment means in practice for the Taliban''
+
+---
+
+Katrina had wind speed at around 280 km/h. Sandy 160 k/h. 
+
+---
+
+Ida
+
+<img width="340" src="https://pbs.twimg.com/media/E999VbvXIAAgROR?format=jpg&name=small"/>
+
+---
+
+"As China-Taiwan Tensions Rise, Japan Begins Preparing for Possible Conflict"
+
+---
+
+"A study has provoked controversy in Germany because it shows that the
+country’s healthcare system has two tiers... The study.. has shown
+that patients who have statutory health insurance have to wait about
+three times longer for an appointment with a specialist than members
+of private health insurance schemes"
+
+[Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2292303/)
+
+---
+
+New co-leader of Germany's left party Die Linke, talking about the
+country's two-tier healthcare. It's good.. DE needs more left. There
+are enough of those Washingon Consensus, centrist
+types.. 
+
+[Link](https://twitter.com/Janine_Wissler/status/1431960175494172677)
+
+---
+
+People might be spooked by it, then they can choose to leave condensed
+spaces, perhaps start living a more rural life.
+
+---
+
+At certain point one has to move on.. Society cannot keep having lockdowns.
+
+NYT: "Britain is reporting more than 30,000 new coronavirus cases a
+day, but the public seems to have moved on. Experts say this could be
+a glimpse into the future for other countries... [A] professor.. 'It
+looks like we’re just accepting it now — that this is the price of
+freedom.'... 'It’s really difficult to ask people not to mix for a
+prolonged period, especially if there is no solution.'...  [A]
+specialist... 'All our Covid cases are unvaccinated by choice'"
+
+---
+
+Handing over Iraq support to France? They do have a strategic interest
+there.. wanting to stop refugees. Also indirectly protecting
+Lebanon.. ? In reverse, they have a supply route open by sea, into
+Lebanon then into Iraq.
+
+---
+
 JFK increased military spending. While he did not trust the military at
 every level, he contributed to the growth of the complex.
 
