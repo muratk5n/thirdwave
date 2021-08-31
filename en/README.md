@@ -61,8 +61,9 @@ point is the delivery should not be done by the parrot/imbecile.
 ---
 
 "Children going to schools" isn't preferred bcz it is better for their
-education. Parents need it because it is a day care center, somewhere
-they can drop their children off and go to work, whereever.
+education. Parents need it because in a modern setting, school
+functions as a day-care center, somewhere they can drop their children
+off and go to work, whereever.
 
 If they want better education, they should ask for prerecorded lecture
 videos of the experts to teach their children rather than a
