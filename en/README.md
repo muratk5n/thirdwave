@@ -1,11 +1,5 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-Dave Patterson - Solid Funk \#music
-
-[Link](https://youtu.be/E4bCp-oZMLA)
-
----
-
 Woha, fire whirl \#ChaparralFire
 
 [Link](https://twitter.com/CALFIRERRU/status/1432012185543139332)
@@ -30,6 +24,12 @@ outspoken against the coronavirus vaccine'
 
 That was a shot in the dark but.. dam. I have the full-blown CAD
 file for this thing.. \o/ F-ing score
+
+---
+
+Dave Patterson - Solid Funk \#music
+
+[Link](https://youtu.be/E4bCp-oZMLA)
 
 ---
 
