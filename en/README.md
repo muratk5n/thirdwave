@@ -55,8 +55,7 @@ ME conflict [stats](../../2019/05/confstats.md#gdeltme)
 ---
 
 "Remote" learning is the wrong definition. Lectures can be viewed at
-school just as easily as they are viewed at home. They key point is
-the delivery should not be done by the parrot/imbecile.
+school just as easily as they are viewed at home. 
 
 ---
 
