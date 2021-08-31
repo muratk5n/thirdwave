@@ -65,11 +65,6 @@ parrot/imbecile wildly gestulating (teacher)
 
 ---
 
-N. Portman or JA? JA, hands down. Portman looks like from the
-hood, she dime a dozen. 
-
----
-
 I'd seen the actress J. Alexander way before, in a little show called
 Kyle XY..  She was great, with that stauesque look. The only negative, a
 bit chubby in places.. But she made an excellent transition to her
