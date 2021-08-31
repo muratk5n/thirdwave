@@ -7,8 +7,8 @@ Dave Patterson - Solid Funk \#music
 
 ---
 
-This new compsci appr can do seismology, stress/strain comp, waves,
-the whole 9! 
+This new compsci approach can do seismology, stress/strain comp,
+waves, the whole 9!
 
 ---
 
