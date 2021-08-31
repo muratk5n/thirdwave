@@ -66,7 +66,17 @@ ME conflict [stats](../../2019/05/confstats.md#gdeltme)
 
 ---
 
-BTW the theory is not just lab-leak, *engineered* virus leaking from the lab.
+"Children going to schools" isn't preferred bcz it is better for their
+education. Parents need it because it is a day care center, somewhere
+they can drop their children off and go to work, whereever.
+
+If they want better education, they should ask for prerecorded lecture
+videos of the experts to teach their children (at school, even at home)
+rather than a parrot/doofus wildly gestulating (teacher)
+
+---
+
+BTW the theory is not just lab-leak, it is *engineered* virus leaking from the lab.
 
 ---
 
