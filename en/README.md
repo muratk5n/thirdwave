@@ -81,7 +81,7 @@ they can drop their children off and go to work, whereever.
 
 If they want better education, they should ask for prerecorded lecture
 videos of the experts to teach their children rather than a
-parrot/doofus wildly gestulating (teacher)
+parrot/imbecile wildly gestulating (teacher)
 
 ---
 
