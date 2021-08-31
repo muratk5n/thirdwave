@@ -1,14 +1,8 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-
 Dave Patterson - Solid Funk \#music
 
 [Link](https://youtu.be/E4bCp-oZMLA)
-
----
-
-This new compsci approach can do seismology, stress/strain comp,
-waves, the whole 9!
 
 ---
 
@@ -29,6 +23,11 @@ I'd seen the actress J. Alexander way before, in this show called Kyle
 XY..  She was great, with that stauesque look, only negative, a bit
 chubby in places.. But she made an excellent transition to her next
 phase, w demanding action, and looks quite fit. I'm impressed. 
+
+---
+
+This new compsci approach can do seismology, stress/strain comp,
+waves, the whole 9!
 
 ---
 
