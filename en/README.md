@@ -1,5 +1,9 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
+US is out of Afghanistan. The end of an era.
+
+---
+
 "@NYDailyNews
 
 Marc Bernier, a conservative Florida radio host who dubbed himself
