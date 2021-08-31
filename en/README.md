@@ -19,10 +19,10 @@ hood, she dime a dozen. Doesnt do nothin for me
 
 ---
 
-I'd seen the actress J. Alexander way before, in this show called Kyle
-XY..  She was great, with that stauesque look, only negative, a bit
-chubby in places.. But she made an excellent transition to her next
-phase, w demanding action, and looks quite fit. I'm impressed. 
+I'd seen the actress J. Alexander way before, in a little show called
+Kyle XY..  She was great, with that stauesque look, only negative, a
+bit chubby in places.. But she made an excellent transition to her
+next phase, w demanding action, and looks quite fit. I'm impressed.
 
 ---
 
