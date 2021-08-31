@@ -7,8 +7,8 @@ US is out of Afghanistan. End of an era.
 "@NYDailyNews
 
 Marc Bernier, a conservative Florida radio host who dubbed himself
-'Mr. Anti-Vax,' died after a three-week battle with COVID-19. He was
-65. His death was the third this month among conservative talk show
+'Mr. Anti-Vax,' died after a three-week battle with COVID-19. He was 65.
+His death was the third this month among conservative talk show
 hosts outspoken against the coronavirus vaccine'
 
 ---
