@@ -6,9 +6,7 @@ Dave Patterson - Solid Funk \#music
 
 ---
 
-Woha, fire whirl 
-
-\#ChaparralFire
+Woha, fire whirl \#ChaparralFire
 
 [Link](https://twitter.com/CALFIRERRU/status/1432012185543139332)
 
