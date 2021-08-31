@@ -54,7 +54,7 @@ school just as easily as they are viewed at home.
 
 ---
 
-"Children going to schools" isn't preferred bcz it is better for their
+"Children going to school" isn't preferred bcz it is better for their
 education. Parents need it because in a modern setting, school
 functions as a day-care center, somewhere they can drop their children
 off and go to work, whereever.
