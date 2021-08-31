@@ -49,8 +49,8 @@ ME conflict [stats](2019/05/confstats.md#gdeltme)
 
 ---
 
-"Remote" learning is the wrong definition. Lectures can be viewed at
-school just as easily as they are viewed at home. 
+Lectures can be viewed at school just as easily as they are viewed at
+home. 
 
 ---
 
