@@ -50,7 +50,7 @@ ME conflict [stats](2019/05/confstats.md#gdeltme)
 ---
 
 Lectures can be viewed at school just as easily as they are viewed at
-home. The key is the content and who delivers it.
+home. The key is content, and who delivers it.
 
 ---
 
