@@ -31,7 +31,7 @@ outspoken against the coronavirus vaccine'
 ---
 
 That was a shot in the dark but.. dam. I have the full-blown CAD
-file for this thing.. \o/ F-ing score, bruh
+file for this thing.. \o/ F-ing score
 
 ---
 
