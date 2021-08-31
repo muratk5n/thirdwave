@@ -66,13 +66,22 @@ ME conflict [stats](../../2019/05/confstats.md#gdeltme)
 
 ---
 
+"Remote" learning is the wrong definition. If you stream the lecture
+over the Net sure it is "remote". But lectures can be viewed at school
+just as easily at school as they are at home. They could be synched with
+devices so student will be able to watch even without an Internet
+connection at all times (asynch is key to our tech, most people do not
+see this)
+
+---
+
 "Children going to schools" isn't preferred bcz it is better for their
 education. Parents need it because it is a day care center, somewhere
 they can drop their children off and go to work, whereever.
 
 If they want better education, they should ask for prerecorded lecture
-videos of the experts to teach their children (at school, even at home)
-rather than a parrot/doofus wildly gestulating (teacher)
+videos of the experts to teach their children rather than a
+parrot/doofus wildly gestulating (teacher)
 
 ---
 
