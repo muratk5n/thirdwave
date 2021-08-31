@@ -68,10 +68,7 @@ ME conflict [stats](../../2019/05/confstats.md#gdeltme)
 
 "Remote" learning is the wrong definition. If you stream the lecture
 over the Net sure it is "remote". But lectures can be viewed at school
-just as easily at school as they are at home. They could be synched with
-devices so student will be able to watch even without an Internet
-connection at all times (asynch is key to our tech, most people do not
-see this)
+just as easily at school as they are at home. 
 
 ---
 
