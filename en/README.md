@@ -59,7 +59,7 @@ Peninsula along the entirety of Galveston Island".
 simulation and for optimization. To this day I cannot find a better TV
 denoiser that will beat a subgradient based one. Discontinuous
 galerkin methods now rule all sorts of domains in simulation. Just
-came upon the Igel seismology book, he is also diggin the DG[/geek]
+came upon the Igel seismology book, he is also diggin the DG [/geek]
 
 ---
 

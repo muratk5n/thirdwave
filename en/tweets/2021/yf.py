@@ -1,3 +1,6 @@
+'''
+Scrapes Yahoo Finance and gets the information listed below.
+'''
 from bs4 import BeautifulSoup
 from bs4.element import Comment
 import re, requests
