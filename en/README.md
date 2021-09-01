@@ -35,7 +35,7 @@ Have some [vegan schnitzel](https://veggy.com.tr/en/products/vegan-schnitzel/)
 
 ---
 
-:) Good title 
+:) Its good.. I like the title 
 
 Danielle Bregoli, Bhad Bhabie 'Hi Bich / Whachu Know' 
 
