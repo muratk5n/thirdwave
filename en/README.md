@@ -49,9 +49,9 @@ Queensland"
 
 ---
 
-The Ike Dike in Texas.. "Seventy miles long and seventeen feet high,
-stretching west from Bolivar Peninsula along the entirety of Galveston
-Island".
+The Ike Dike in Texas.. The plan is to build a barrier "[s]eventy
+miles long and seventeen feet high, stretching west from Bolivar
+Peninsula along the entirety of Galveston Island". 
 
 ---
 
