@@ -1,82 +1,79 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-US is out of Afghanistan. End of an era.
+"Consumer prices in [DE] have been increasing for months, fueled by
+rising energy and food prices as well as the withdrawal of a temporary
+reduction in value-added tax (VAT), which was aimed at mitigating the
+economic effects of the COVID-19 pandemic last year by boosting
+domestic consumption"
 
 ---
 
-"@NYDailyNews
+They need to include this 'energy' in hurricane reporting, as in how
+much mass is moving when hurricane makes landfall. Kinetic energy is
+$1/2 m v^2$, increase mass increase energy. Would one rather get hit
+with baloon or a hammer at the same speed?
 
-Marc Bernier, a conservative Florida radio host who dubbed himself
-'Mr. Anti-Vax,' died after a three-week battle with COVID-19. He was 65.
-His death was the third this month among conservative talk show
-hosts outspoken against the coronavirus vaccine'
+"Hurricane Katrina was a 'huge storm' with a 'very expansive' wind
+field compared to an average storm.. Hurricane Ida strengthened
+rapidly in the hours before it made landfall, whereas Katrina did the
+opposite, strengthening to a Category 5 over the Gulf of
+Mexico.. 'Hurricane Katrina.. was significantly larger, and had more
+energy associated with it'"
+
+[Link](https://news.yahoo.com/does-hurricane-ida-compare-hurricane-210255099.html)
+
+---
+Dont forget your nine aminos.
+
+Quinoa. Or rice+beans.
 
 ---
 
-That was a shot in the dark but.. dam. I have the full-blown CAD
-file for this thing.. F-ing score
+Have some [vegan schnitzel](https://veggy.com.tr/en/products/vegan-schnitzel/)
+
+"Berlin’s university canteens go almost meat-free"
 
 ---
 
-Dave Patterson - Solid Funk \#music
+:) Good title 
 
-[Link](https://youtu.be/E4bCp-oZMLA)
-
----
-
-Woha, fire whirl \#ChaparralFire
-
-[Link](https://twitter.com/CALFIRERRU/status/1432012185543139332)
+Danielle Bregoli, Bhad Bhabie 'Hi Bich / Whachu Know' 
 
 ---
 
-This new compsci approach can do seismology, stress/strain comp,
-waves, the whole 9!
+"Japan's largest oil company has committed to a detailed study on the
+establishment of a hydrogen supply chain between Japan &
+Queensland"
+
+[Link](https://bit.ly/2Ybf71q)
 
 ---
 
-"As long as the Islamic terrorists remain in Idlib, [ISIS] in the east
-and Iranians near the Israeli border, the Syrian civil war will not be
-over... Iran wants to repeat in Syria what it has been doing in Yemen
-for several years. In Yemen Iran perfected an effective way to attack
-Saudi Arabia by arming Shia rebels in Yemen with over a thousand
-ballistic missiles and UAVs... Iran is seeking to carry out a similar
-campaign against Israel using Iran backed militias in Syria"
-
-[Link](https://www.strategypage.com/qnd/syria/articles/20210825.aspx)
+The Ike Dike in Texas.. "Seventy miles long and seventeen feet high,
+stretching west from Bolivar Peninsula along the entirety of Galveston
+Island".
 
 ---
 
-ME conflict [stats](2019/05/confstats.md#gdeltme)
+[geek] Handling non-differentiability looks to be key.. both in
+simulation and for optimization. To this day I cannot find a better TV
+denoiser that will beat a subgradient based one. Discontinuous
+galerkin methods now rule all sorts of domains in simulation. Just
+came upon the Igel seismology book, he is also diggin the DG[/geek]
 
 ---
 
-Lectures can be viewed at school just as easily as they are viewed at
-home. The key is content, and who delivers it.
+Politico: "Macron gambled on coronavirus immunity passport — and
+won.. The French president stuck his neck out, banking that the public
+would support his plan. And so far, it’s been a success"
 
 ---
 
-If they want better education, they should ask for prerecorded lecture
-videos of the experts to teach their children rather than a
-parrot/doofus wildly gestulating (teacher)
+"Ireland's vaccine program nears completion thanks to high uptake"
 
 ---
 
-"Children going to school" isn't preferred bcz it is better for their
-education. Parents need it because in a modern setting, school
-functions as a day-care center, somewhere they can drop their children
-off and go to work, whereever.
-
----
-
-I'd seen J. Alexander before in a little show called Kyle XY..  She was
-great, with that statuesque look.. The only negative, a bit chubby in
-places.. But she made an excellent transition to her next phase, w
-demanding action, and looks quite fit. I'm impressed.
-
----
-
-BTW the theory is not just lab-leak, it is *engineered* virus leaking from the lab.
+DW: "Philippines: Nurses threaten mass resignation amid COVID surge"
 
 ---
 

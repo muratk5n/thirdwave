@@ -50,8 +50,6 @@
 
 [Mad Men Is Really About Women](09/mad-men-is-reallly-about-women.md)
 
-[The A-Team](10/a-team.md)
-
 [Another Sacrifice Lamb](10/another-sacrifice-lamb.md)
 
 [Covering the Distance](10/covering-distance.md)
