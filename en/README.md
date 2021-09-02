@@ -61,7 +61,7 @@ party?
 
 In UK, Oz, and many other places, libs, and other major ideologies
 have their own party. Not so in US which IMO increase intra-party
-friction. Most of my lib related talk is US centric. Beware.
+friction. Most of my related posts are US centric. Beware.
 
 ---
 
