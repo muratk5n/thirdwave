@@ -50,12 +50,12 @@ services, but the state CANNOT ask you if you have a gun"
 
 ---
 
-Dems experience it, but the intra-party problem hit the Reps too in
-the end. Being more hierarchical, they had everyone walk in a
-single-file on ideology for a while, but now, they have a former
-President who said stuff against forever wars, and a lot of muckers
-who still want to invade countries, forever. How can you war and
-anti-war in the same party?
+Dems experience it, but the intra-party problem hit the Reps
+too. Being more hierarchical, they had pos walk in a single-file on
+ideology for a while, but now, they have a former President who said
+stuff against forever wars, and a lot of muckers who still want to
+invade countries, forever. How can you war and anti-war in the same
+party?
 
 ---
 
