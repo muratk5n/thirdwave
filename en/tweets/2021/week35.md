@@ -1,5 +1,82 @@
 # Week 35
 
+"Consumer prices in [DE] have been increasing for months, fueled by
+rising energy and food prices as well as the withdrawal of a temporary
+reduction in value-added tax (VAT), which was aimed at mitigating the
+economic effects of the COVID-19 pandemic last year by boosting
+domestic consumption"
+
+---
+
+They need to include this 'energy' in hurricane reporting, as in how
+much mass is moving when hurricane makes landfall. Kinetic energy is
+$1/2 m v^2$, increase mass increase energy. Would one rather get hit
+with baloon or a hammer at the same speed?
+
+"Hurricane Katrina was a 'huge storm' with a 'very expansive' wind
+field compared to an average storm.. Hurricane Ida strengthened
+rapidly in the hours before it made landfall, whereas Katrina did the
+opposite, strengthening to a Category 5 over the Gulf of
+Mexico.. 'Hurricane Katrina.. was significantly larger, and had more
+energy associated with it'"
+
+[Link](https://news.yahoo.com/does-hurricane-ida-compare-hurricane-210255099.html)
+
+---
+Dont forget your nine aminos.
+
+Quinoa. Or rice+beans.
+
+---
+
+Have some [vegan schnitzel](https://veggy.com.tr/en/products/vegan-schnitzel/)
+
+"Berlin’s university canteens go almost meat-free"
+
+---
+
+:) Its good.. I like the title 
+
+Danielle Bregoli, Bhad Bhabie 'Hi Bich / Whachu Know' 
+
+---
+
+"Japan's largest oil company has committed to a detailed study on the
+establishment of a hydrogen supply chain between Japan &
+Queensland"
+
+[Link](https://bit.ly/2Ybf71q)
+
+---
+
+The Ike Dike in Texas.. The plan is to build a barrier "[s]eventy
+miles long and seventeen feet high, stretching west from Bolivar
+Peninsula along the entirety of Galveston Island". 
+
+---
+
+[geek] Handling non-differentiability looks to be key.. both in
+simulation and for optimization. To this day I cannot find a better TV
+denoiser that will beat a subgradient based one. Discontinuous
+galerkin methods now rule all sorts of domains in simulation. Just
+came upon the Igel seismology book, he is also diggin the DG [/geek]
+
+---
+
+Politico: "Macron gambled on coronavirus immunity passport — and
+won.. The French president stuck his neck out, banking that the public
+would support his plan. And so far, it’s been a success"
+
+---
+
+"Ireland's vaccine program nears completion thanks to high uptake"
+
+---
+
+DW: "Philippines: Nurses threaten mass resignation amid COVID surge"
+
+---
+
 US is out of Afghanistan. End of an era.
 
 ---

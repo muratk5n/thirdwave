@@ -1,79 +1,67 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-"Consumer prices in [DE] have been increasing for months, fueled by
-rising energy and food prices as well as the withdrawal of a temporary
-reduction in value-added tax (VAT), which was aimed at mitigating the
-economic effects of the COVID-19 pandemic last year by boosting
-domestic consumption"
+"EU’s infectious disease agency: ‘No urgent need’ for coronavirus
+vaccine booster shots"
 
 ---
 
-They need to include this 'energy' in hurricane reporting, as in how
-much mass is moving when hurricane makes landfall. Kinetic energy is
-$1/2 m v^2$, increase mass increase energy. Would one rather get hit
-with baloon or a hammer at the same speed?
-
-"Hurricane Katrina was a 'huge storm' with a 'very expansive' wind
-field compared to an average storm.. Hurricane Ida strengthened
-rapidly in the hours before it made landfall, whereas Katrina did the
-opposite, strengthening to a Category 5 over the Gulf of
-Mexico.. 'Hurricane Katrina.. was significantly larger, and had more
-energy associated with it'"
-
-[Link](https://news.yahoo.com/does-hurricane-ida-compare-hurricane-210255099.html)
-
----
-Dont forget your nine aminos.
-
-Quinoa. Or rice+beans.
+CNBC: "Vaccinated and unvaccinated travelers are going to different
+sets of Caribbean islands"
 
 ---
 
-Have some [vegan schnitzel](https://veggy.com.tr/en/products/vegan-schnitzel/)
+Good news
 
-"Berlin’s university canteens go almost meat-free"
-
----
-
-:) Its good.. I like the title 
-
-Danielle Bregoli, Bhad Bhabie 'Hi Bich / Whachu Know' 
+CNBC: "Google reportedly plans to put its own chips in Chromebook laptops from 2023"
 
 ---
 
-"Japan's largest oil company has committed to a detailed study on the
-establishment of a hydrogen supply chain between Japan &
-Queensland"
-
-[Link](https://bit.ly/2Ybf71q)
+CNBC: "Covid vaccines remain 'stunningly effective,' even as delta concerns grow"
 
 ---
 
-The Ike Dike in Texas.. The plan is to build a barrier "[s]eventy
-miles long and seventeen feet high, stretching west from Bolivar
-Peninsula along the entirety of Galveston Island". 
+"Trump promotes Covid vaccine at GOP donor event, report says.. It
+comes after the former president was booed by supporters for
+recommending vaccine"
 
 ---
 
-[geek] Handling non-differentiability looks to be key.. both in
-simulation and for optimization. To this day I cannot find a better TV
-denoiser that will beat a subgradient based one. Discontinuous
-galerkin methods now rule all sorts of domains in simulation. Just
-came upon the Igel seismology book, he is also diggin the DG [/geek]
+Book is at its *seventh* edition, the last being in 2015. And no
+working code.. Bonkers.
 
 ---
 
-Politico: "Macron gambled on coronavirus immunity passport — and
-won.. The French president stuck his neck out, banking that the public
-would support his plan. And so far, it’s been a success"
+Aww author gives pseudocode for the interpolation method.. How **sweet**.
 
 ---
 
-"Ireland's vaccine program nears completion thanks to high uptake"
+With war, econ taken outside politics, sorry, made "bipartisan",
+people had to work with these crumbs to distinquish themselves in
+political terms. Such trinkets, non-issue issues.
 
 ---
 
-DW: "Philippines: Nurses threaten mass resignation amid COVID surge"
+Freedom
+
+"@ElieNYC
+
+To recap: right now in Texas people CAN sue you for seeking abortion
+services, but the state CANNOT ask you if you have a gun"
+
+---
+
+Dems experience it, but the intra-party problem hit the Reps too in
+the end. Being more hierarchical, they had everyone walk in a
+single-file on ideology for a while, but now, they have a former
+President who said stuff against forever wars, and a lot of muckers
+who still want to invade countries, forever. How can you war and
+anti-war in the same party?
+
+---
+
+In UK, Oz, and many other places, libs, and other major ideologies
+have their own party. Not so in US which IMO increase intra-party
+friction. Most of my lib related talk is US centric. Beware.
 
 ---
 
