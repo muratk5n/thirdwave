@@ -624,15 +624,6 @@ infyoy          0.231844  1.000000
 
 ---
 
-A change... not nothing. Good leadership from folks at @BtSIsrael
-
-"@NewIsraelFund
-
-Thanks to work by @YeshDin @PHRIsrael and @BtSIsrael , the IDF
-practice of home invasions for 'intelligence gathering' is over"
-
----
-
 "U.S. Military Steps Up Its Withdrawal From Middle East.. The Pentagon
 is pulling antimissile batteries, aircraft and hundreds of troops from
 the Mideast as it focuses the armed services on challenges from China
