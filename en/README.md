@@ -37,7 +37,7 @@ Aww author gives pseudocode for the interpolation method.. How **sweet**.
 
 With war, econ taken outside politics, sorry, made "bipartisan",
 people had to work with these crumbs to distinquish themselves in
-political terms. Such trinkets, non-issue issues.
+political terms. Trinkets, non-issue issues.
 
 ---
 
