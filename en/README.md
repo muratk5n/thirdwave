@@ -40,6 +40,16 @@ Integrated Kinetic Energy.. Exactly what I was thinking.. If I had time, I'd dig
 
 ---
 
+BBC: "Japan's [PM] has said he will not run for re-election as party leader
+this month, signalling the end of his tenure...  The shock
+announcement comes as Mr Suga's approval ratings dropped to an
+all-time low. Japan - which is still under a state of emergency - is
+now grappling with its worst ever Covid wave. The country, which has
+now seen more than 1.5 million virus cases, has also seen a slow
+vaccination roll out"
+
+---
+
 Combining video files? Gotta use `moviepy` my brother.. The easiest method on
 the command line.
 
