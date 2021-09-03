@@ -40,9 +40,10 @@ Integrated Kinetic Energy.. Exactly what I was thinking.. If I had time, I'd dig
 
 ---
 
-ISIS inspired NZ knife attack at a supermarket. They had the guy under
-surveillance, press asked how come he did this shit? But when the guy
-goes berserk he can do damage quickly until you reach him. 
+ISIS inspired NZ knife attack at a supermarket.. They had the guy
+under surveillance, press asked how come he did this shit? But when
+the guy goes berserk, even under surveil, he can do bunch of damage
+quickly until anyone can reach him. Response was under 60 sec but still..
 
 ---
 
