@@ -1,5 +1,70 @@
 # Week 35
 
+"EU’s infectious disease agency: ‘No urgent need’ for coronavirus
+vaccine booster shots"
+
+---
+
+CNBC: "Vaccinated and unvaccinated travelers are going to different
+sets of Caribbean islands"
+
+---
+
+Good news
+
+CNBC: "Google reportedly plans to put its own chips in Chromebook laptops from 2023"
+
+---
+
+CNBC: "Covid vaccines remain 'stunningly effective,' even as delta concerns grow"
+
+---
+
+"Trump promotes Covid vaccine at GOP donor event, report says.. It
+comes after the former president was booed by supporters for
+recommending vaccine"
+
+---
+
+Book is at its *seventh* edition, the last being in 2015. And no
+working code.. Bonkers.
+
+---
+
+Aww author gives pseudocode for the interpolation method.. How **sweet**.
+
+---
+
+With war, econ taken outside politics, sorry, made "bipartisan",
+people had to work with these crumbs to distinquish themselves in
+political terms. Trinkets, non-issue issues.
+
+---
+
+Freedom
+
+"@ElieNYC
+
+To recap: right now in Texas people CAN sue you for seeking abortion
+services, but the state CANNOT ask you if you have a gun"
+
+---
+
+Dems experience it, but the intra-party problem hit the Reps
+too. Being more hierarchical, they had pols walk in a single-file on
+ideology for a while, but now, they have a former President who said
+stuff against forever wars, and a lot of muckers who still want to
+invade countries, forever. How is there war and anti-war ideology in
+the same right-wing party?
+
+---
+
+In UK, Oz, and many other places, libs, and other major ideologies
+have their own party. Not so in US which IMO increase intra-party
+friction. Most of my related posts are US centric. Beware.
+
+---
+
 "Consumer prices in [DE] have been increasing for months, fueled by
 rising energy and food prices as well as the withdrawal of a temporary
 reduction in value-added tax (VAT), which was aimed at mitigating the

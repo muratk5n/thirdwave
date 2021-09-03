@@ -1,67 +1,41 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-"EU’s infectious disease agency: ‘No urgent need’ for coronavirus
-vaccine booster shots"
+Integrated Kinetic Energy.. If I had time, I'd dig into this.. 
+
+[Wired](https://www.wired.com/2012/11/what-is-the-true-measure-of-a-storm/)
+
+[WaPo](https://www.washingtonpost.com/nation/2021/08/31/how-ida-katrina-compare-wind-fingerprints/)
 
 ---
 
-CNBC: "Vaccinated and unvaccinated travelers are going to different
-sets of Caribbean islands"
+"@ioangrillo
+
+The ELN guerillas banned civilians with guns in a Venezuelan town they
+control. [.. T]hey want a monopoly on firearms in their turf.
+
+'@Reuters
+
+Guns, drugs, jobs. In these Venezuelan towns, Colombian rebels call
+the shots'"
+
+[Link](http://reut.rs/3DK1Ptc)
 
 ---
 
-Good news
+Produce H2 any way you can. CCS works. Once the econ adaps to a new
+fuel other parts can change around it.
 
-CNBC: "Google reportedly plans to put its own chips in Chromebook laptops from 2023"
+"Oman, which is no longer an Opec member, is pursuing hydrogen as a
+potential low-carbon fuel for the future. UAE is also working on
+hydrogen, and boosting renewables, and recently inaugurated a new
+nuclear plant"
 
----
-
-CNBC: "Covid vaccines remain 'stunningly effective,' even as delta concerns grow"
-
----
-
-"Trump promotes Covid vaccine at GOP donor event, report says.. It
-comes after the former president was booed by supporters for
-recommending vaccine"
+[Link](https://www.theguardian.com/environment/2021/sep/01/opec-member-urges-oil-producers-to-focus-more-on-renewable-energy)
 
 ---
 
-Book is at its *seventh* edition, the last being in 2015. And no
-working code.. Bonkers.
-
----
-
-Aww author gives pseudocode for the interpolation method.. How **sweet**.
-
----
-
-With war, econ taken outside politics, sorry, made "bipartisan",
-people had to work with these crumbs to distinquish themselves in
-political terms. Trinkets, non-issue issues.
-
----
-
-Freedom
-
-"@ElieNYC
-
-To recap: right now in Texas people CAN sue you for seeking abortion
-services, but the state CANNOT ask you if you have a gun"
-
----
-
-Dems experience it, but the intra-party problem hit the Reps
-too. Being more hierarchical, they had pols walk in a single-file on
-ideology for a while, but now, they have a former President who said
-stuff against forever wars, and a lot of muckers who still want to
-invade countries, forever. How is there war and anti-war ideology in
-the same right-wing party?
-
----
-
-In UK, Oz, and many other places, libs, and other major ideologies
-have their own party. Not so in US which IMO increase intra-party
-friction. Most of my related posts are US centric. Beware.
+Combining video files? Gotta use `moviepy` my brother.. The easiest method on
+the command line.
 
 ---
 
