@@ -40,6 +40,12 @@ Integrated Kinetic Energy.. Exactly what I was thinking.. If I had time, I'd dig
 
 ---
 
+ISIS inspired NZ knife attack at a supermarket. They had the guy under
+surveillance, press asked how come he did this shit? But when the guy
+goes berserk he can do damage quickly until you reach him. 
+
+---
+
 BBC: "Japan's [PM] has said he will not run for re-election as party leader
 this month, signalling the end of his tenure...  The shock
 announcement comes as Mr Suga's approval ratings dropped to an
