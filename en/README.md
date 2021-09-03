@@ -1,13 +1,5 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-Integrated Kinetic Energy.. If I had time, I'd dig into this.. 
-
-[Wired](https://www.wired.com/2012/11/what-is-the-true-measure-of-a-storm/)
-
-[WaPo](https://www.washingtonpost.com/nation/2021/08/31/how-ida-katrina-compare-wind-fingerprints/)
-
----
-
 "@ioangrillo
 
 The ELN guerillas banned civilians with guns in a Venezuelan town they
@@ -31,6 +23,14 @@ hydrogen, and boosting renewables, and recently inaugurated a new
 nuclear plant"
 
 [Link](https://www.theguardian.com/environment/2021/sep/01/opec-member-urges-oil-producers-to-focus-more-on-renewable-energy)
+
+---
+
+Integrated Kinetic Energy.. Exactly what I was thinking.. If I had time, I'd dig into this.. 
+
+[Wired](https://www.wired.com/2012/11/what-is-the-true-measure-of-a-storm/)
+
+[WaPo](https://www.washingtonpost.com/nation/2021/08/31/how-ida-katrina-compare-wind-fingerprints/)
 
 ---
 
