@@ -1,5 +1,11 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
+Al Jazeera: "S Korea developing missile as powerful as nuclear
+weapon.. 3-tonne missile designed to destroy underground facilities by
+penetrating tunnels to nullify nuclear launches"
+
+---
+
 "@ioangrillo
 
 The ELN guerillas banned civilians with guns in a Venezuelan town they
