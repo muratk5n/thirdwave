@@ -40,11 +40,11 @@ around. See [Rifkin](2020/07/the-emphatic-civilization-rifkin.md)
 
 ---
 
-The further Rome is in your past, the better you are.
+The further Rome is in your past, the better off you are.
 
 "The areas controlled by the Ottomans for between three to four
 centuries do have lower incomes, lower educational attainments, lower
-levels of trust in institutions etc. than the areas that were part of
+levels of trust in institutions etc. than the areas that were part of
 the Habsburg Empire"
 
 [Link](https://branko2f7.substack.com/p/why-were-the-balkans-underdeveloped?r=16uxt&utm_campaign=post&utm_medium=web)
