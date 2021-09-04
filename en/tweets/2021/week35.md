@@ -1,5 +1,67 @@
 # Week 35
 
+Al Jazeera: "S Korea developing missile as powerful as nuclear
+weapon.. 3-tonne missile designed to destroy underground facilities by
+penetrating tunnels to nullify nuclear launches"
+
+---
+
+"@ioangrillo
+
+The ELN guerillas banned civilians with guns in a Venezuelan town they
+control. [.. T]hey want a monopoly on firearms in their turf.
+
+'@Reuters
+
+Guns, drugs, jobs. In these Venezuelan towns, Colombian rebels call
+the shots'"
+
+[Link](http://reut.rs/3DK1Ptc)
+
+---
+
+Produce H2 any way you can. CCS works. Once the econ adaps to a new
+fuel other parts can change around it.
+
+"Oman, which is no longer an Opec member, is pursuing hydrogen as a
+potential low-carbon fuel for the future. UAE is also working on
+hydrogen, and boosting renewables, and recently inaugurated a new
+nuclear plant"
+
+[Link](https://www.theguardian.com/environment/2021/sep/01/opec-member-urges-oil-producers-to-focus-more-on-renewable-energy)
+
+---
+
+Integrated Kinetic Energy.. Exactly what I was thinking.. If I had time, I'd dig into this.. 
+
+[Wired](https://www.wired.com/2012/11/what-is-the-true-measure-of-a-storm/)
+
+[WaPo](https://www.washingtonpost.com/nation/2021/08/31/how-ida-katrina-compare-wind-fingerprints/)
+
+---
+
+ISIS inspired NZ knife attack at a supermarket.. They had the guy
+under surveillance, press asked how come he did this shit? But when
+the guy goes berserk, even under surveil, he can do bunch of damage
+quickly until anyone can reach him. Response was under 60 sec but still..
+
+---
+
+BBC: "Japan's [PM] has said he will not run for re-election as party leader
+this month, signalling the end of his tenure...  The shock
+announcement comes as Mr Suga's approval ratings dropped to an
+all-time low. Japan - which is still under a state of emergency - is
+now grappling with its worst ever Covid wave. The country, which has
+now seen more than 1.5 million virus cases, has also seen a slow
+vaccination roll out"
+
+---
+
+Combining video files? Gotta use `moviepy` my brother.. The easiest method on
+the command line.
+
+---
+
 "EU’s infectious disease agency: ‘No urgent need’ for coronavirus
 vaccine booster shots"
 

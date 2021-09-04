@@ -1,64 +1,72 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-Al Jazeera: "S Korea developing missile as powerful as nuclear
-weapon.. 3-tonne missile designed to destroy underground facilities by
-penetrating tunnels to nullify nuclear launches"
+There are some great songs in the genre
+
+"How country music is taking over the world.. Country music has
+undergone a facelift and is now attracting people from all walks of
+life"
 
 ---
 
-"@ioangrillo
-
-The ELN guerillas banned civilians with guns in a Venezuelan town they
-control. [.. T]hey want a monopoly on firearms in their turf.
-
-'@Reuters
-
-Guns, drugs, jobs. In these Venezuelan towns, Colombian rebels call
-the shots'"
-
-[Link](http://reut.rs/3DK1Ptc)
+"Japan's Next Leader Set to Intensify Hawkish China Stance"
 
 ---
 
-Produce H2 any way you can. CCS works. Once the econ adaps to a new
-fuel other parts can change around it.
+Red Stick Ramblers - Bring It On Down to My House \#music
 
-"Oman, which is no longer an Opec member, is pursuing hydrogen as a
-potential low-carbon fuel for the future. UAE is also working on
-hydrogen, and boosting renewables, and recently inaugurated a new
-nuclear plant"
-
-[Link](https://www.theguardian.com/environment/2021/sep/01/opec-member-urges-oil-producers-to-focus-more-on-renewable-energy)
+[Link](https://youtu.be/4VbqtCPnYuw)
 
 ---
 
-Integrated Kinetic Energy.. Exactly what I was thinking.. If I had time, I'd dig into this.. 
-
-[Wired](https://www.wired.com/2012/11/what-is-the-true-measure-of-a-storm/)
-
-[WaPo](https://www.washingtonpost.com/nation/2021/08/31/how-ida-katrina-compare-wind-fingerprints/)
+[Link](https://youtu.be/OP6-DWXt8HM?t=88)
 
 ---
 
-ISIS inspired NZ knife attack at a supermarket.. They had the guy
-under surveillance, press asked how come he did this shit? But when
-the guy goes berserk, even under surveil, he can do bunch of damage
-quickly until anyone can reach him. Response was under 60 sec but still..
+Fitty million dollars!!?
+
+"Palantir bought $50 million in gold bars in August as cash"
 
 ---
 
-BBC: "Japan's [PM] has said he will not run for re-election as party leader
-this month, signalling the end of his tenure...  The shock
-announcement comes as Mr Suga's approval ratings dropped to an
-all-time low. Japan - which is still under a state of emergency - is
-now grappling with its worst ever Covid wave. The country, which has
-now seen more than 1.5 million virus cases, has also seen a slow
-vaccination roll out"
+Europeans were saved the adverse effects of empires by being hard to
+conquer in totality. This allowed a pluraslistic env to flourish.
 
 ---
 
-Combining video files? Gotta use `moviepy` my brother.. The easiest method on
-the command line.
+Most people do not realize but agricultural empires are highly
+parasitic, the energy regime they construct are unstable because it is
+unnatural. Their collapse is the natural event not the other way
+around. See [Rifkin](2020/07/the-emphatic-civilization-rifkin.md)
+
+---
+
+The further Rome is in your past, the better you are.
+
+"The areas controlled by the Ottomans for between three to four
+centuries do have lower incomes, lower educational attainments, lower
+levels of trust in institutions etc. than the areas that were part of
+the Habsburg Empire"
+
+[Link](https://branko2f7.substack.com/p/why-were-the-balkans-underdeveloped?r=16uxt&utm_campaign=post&utm_medium=web)
+
+---
+
+That song totally sounded like an ABBA *We Are The World*. It sucked. Retire bitches
+
+---
+
+"Mexico's President Revamps Welfare, Handing Out Cash to Millions"
+
+---
+
+The Independent: "Biden asks Justice Department to stop people from
+acting as ‘vigilantes’ in Texas abortion law"
+
+---
+
+😶 😶 😶 
+
+"South Korea proposes USD271 billion defence plan"
 
 ---
 

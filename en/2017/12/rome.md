@@ -14,7 +14,7 @@
 
 [Armenians, Kurds](../../2009/09/armenians-kurds.md)
 
-[Rome by Rifkin](../../2020/07/rome-rifkin.md)
+[Rome by Rifkin](../../2020/07/the-emphatic-civilization-rifkin.md)
 
 [Foragers, Farmers by Morris](../../2017/10/wtwrfn-foragers-farmers.md)
 
