@@ -36,7 +36,7 @@ conquer in totality. This allowed a pluraslistic env to flourish.
 Most people do not realize but agricultural empires are highly
 parasitic, the energy regime they construct are unstable because it is
 unnatural. Their collapse is the natural event not the other way
-around. See [Rifkin](2020/07/the-emphatic-civilization-rifkin.md)
+around. See [Rifkin](2020/07/the-emphatic-civilization-rifkin.md#rome)
 
 ---
 
