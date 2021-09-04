@@ -51,7 +51,7 @@ the Habsburg Empire"
 
 ---
 
-That song totally sounded like an ABBA *We Are The World*. It sucked. Retire bitches
+That song sounded like an ABBA version of *We Are The World*. Retire bitches
 
 ---
 
