@@ -51,7 +51,8 @@ the Habsburg Empire"
 
 ---
 
-That song sounded like an ABBA version of *We Are The World*. Retire bitches
+That song sounded like an ABBA version of *We Are The World*. Retire bitches.
+Or stay retired.
 
 ---
 
