@@ -1,6 +1,6 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-*May offset* is not good enough.
+"May offset" is not good enough.
 
 EIA: "Producing and burning ethanol results in emissions of carbon
 dioxide (CO2), a greenhouse gas. However, the combustion of ethanol
