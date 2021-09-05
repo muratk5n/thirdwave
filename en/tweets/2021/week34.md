@@ -224,10 +224,7 @@ energy, we are in the green.
 It isnt like "US lost and others (in the region) won" due to the
 pullout. AFG neighbor countries are worried.. I was watching troop
 movements (through gdelt scans), almost all surrounding countries
-deployed troops to their AFG border as pullout neared. China, Russia
-wld be worried extremism that can be rekindled in their own countries
-through Tali. US was rendering a security service for everyone else in
-the region in many ways... 
+deployed troops to their AFG border as pullout neared. 
 
 ---
 

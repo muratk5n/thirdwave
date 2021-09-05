@@ -1,5 +1,76 @@
 # Week 35
 
+There are some great songs in the genre
+
+"How country music is taking over the world.. Country music has
+undergone a facelift and is now attracting people from all walks of
+life"
+
+---
+
+"Japan's Next Leader Set to Intensify Hawkish China Stance"
+
+---
+
+Red Stick Ramblers - Bring It On Down to My House \#music
+
+[Link](https://youtu.be/4VbqtCPnYuw)
+
+---
+
+[Link](https://youtu.be/OP6-DWXt8HM?t=88)
+
+---
+
+Fitty million dollars!!?
+
+"Palantir bought $50 million in gold bars in August as cash"
+
+---
+
+Europeans were saved the adverse effects of empires by being hard to
+conquer in totality. This allowed a pluraslistic env to flourish.
+
+---
+
+Most people do not realize but agricultural empires are highly
+parasitic, the energy regime they construct are unstable because it is
+unnatural. Their collapse is the natural event not the other way
+around. See [Rifkin](2020/07/the-emphatic-civilization-rifkin.md#rome)
+
+---
+
+The further Rome is in your past, the better off you are.
+
+"The areas controlled by the Ottomans for between three to four
+centuries do have lower incomes, lower educational attainments, lower
+levels of trust in institutions etc. than the areas that were part of
+the Habsburg Empire"
+
+[Link](https://branko2f7.substack.com/p/why-were-the-balkans-underdeveloped?r=16uxt&utm_campaign=post&utm_medium=web)
+
+---
+
+That song sounded like an ABBA version of *We Are The World*. Retire bitches.
+Or stay retired.
+
+---
+
+"Mexico's President Revamps Welfare, Handing Out Cash to Millions"
+
+---
+
+The Independent: "Biden asks Justice Department to stop people from
+acting as ‘vigilantes’ in Texas abortion law"
+
+---
+
+😶 😶 😶 
+
+"South Korea proposes USD271 billion defence plan"
+
+---
+
 Al Jazeera: "S Korea developing missile as powerful as nuclear
 weapon.. 3-tonne missile designed to destroy underground facilities by
 penetrating tunnels to nullify nuclear launches"

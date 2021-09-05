@@ -1,73 +1,84 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-There are some great songs in the genre
 
-"How country music is taking over the world.. Country music has
-undergone a facelift and is now attracting people from all walks of
-life"
+*May offset* is not good enough.
 
----
-
-"Japan's Next Leader Set to Intensify Hawkish China Stance"
-
----
-
-Red Stick Ramblers - Bring It On Down to My House \#music
-
-[Link](https://youtu.be/4VbqtCPnYuw)
+EIA: "Producing and burning ethanol results in emissions of carbon
+dioxide (CO2), a greenhouse gas. However, the combustion of ethanol
+made from biomass (such as corn and sugarcane) is considered
+atmospheric carbon neutral because as the biomass grows, it absorbs
+CO2, which may offset the CO2 produced when the ethanol is burned"
 
 ---
 
-[Link](https://youtu.be/OP6-DWXt8HM?t=88)
+In Kenya a company is pushing for bioethanol as cooking fuel. Not a
+robust solution.
 
 ---
 
-Fitty million dollars!!?
-
-"Palantir bought $50 million in gold bars in August as cash"
+Trailers *Moonfall*, *Red Notice*, *Mayor of Kingstown* look promising.. 
 
 ---
 
-Europeans were saved the adverse effects of empires by being hard to
-conquer in totality. This allowed a pluraslistic env to flourish.
+Real unemployment fell by .8. Not bad.
+
+```
+            UNRATE  U6RATE  REAL_UNRATE  REAL_UNEMP_LEVEL
+2021-07-01     5.4     9.2    10.821707           17460.5
+2021-08-01     5.2     8.8    10.090877           16300.5
+```
 
 ---
 
-Most people do not realize but agricultural empires are highly
-parasitic, the energy regime they construct are unstable because it is
-unnatural. Their collapse is the natural event not the other way
-around. See [Rifkin](2020/07/the-emphatic-civilization-rifkin.md#rome)
+FT: "George Soros: Investors in Xi’s China face a rude awakening"
+
+[Link](https://www.ft.com/content/ecf7de34-e595-4814-9cbd-4a5119187330)
 
 ---
 
-The further Rome is in your past, the better off you are.
+Area near Lake Tahoe is on FIRE!
 
-"The areas controlled by the Ottomans for between three to four
-centuries do have lower incomes, lower educational attainments, lower
-levels of trust in institutions etc. than the areas that were part of
-the Habsburg Empire"
-
-[Link](https://branko2f7.substack.com/p/why-were-the-balkans-underdeveloped?r=16uxt&utm_campaign=post&utm_medium=web)
+<img width="240" src="https://pbs.twimg.com/media/E-c4TDgXoAMZZEs?format=png&name=small"/>
 
 ---
 
-That song sounded like an ABBA version of *We Are The World*. Retire bitches.
-Or stay retired.
+World forest fires [update](2019/05/natdisaster.md#fires)
 
 ---
 
-"Mexico's President Revamps Welfare, Handing Out Cash to Millions"
+"Caldor Fire continues to push north of Highway 50.. The Caldor Fire
+was 37% contained as of Saturday morning, and crews were hopeful that
+improving wind and weather conditions might help as they continue to
+fight what is now California’s 15th largest wildfire. Over 680 homes
+have been destroyed and 214,107 acres burned as of Saturday"
 
 ---
 
-The Independent: "Biden asks Justice Department to stop people from
-acting as ‘vigilantes’ in Texas abortion law"
+"Biden's executive order comes just days before the 20th anniversary of
+the 9/11 terrorist attack. It requires AG Merrick Garland to release
+the declassified documents publicly over the next six months"
+
+[Link](https://www.politico.com/news/2021/09/03/9-11-documents-declassification-509468)
 
 ---
 
-😶 😶 😶 
+"Japan, Russia to Cooperate.. Agreed to work together on hydrogen and
+ammonia production"
 
-"South Korea proposes USD271 billion defence plan"
+[Link](https://bit.ly/3BziXzN)
+
+---
+
+"Domino's Pizza in South Korea Now Delivering Using Hydrogen Fuel Cell
+Powered Drones"
+
+[Link](https://bit.ly/3yy1uWn )
+
+---
+
+New tech needs to be robust not just shiny. 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We have no internet, no power. The mail isn’t delivered. My Amazon order was supposed to arrive 9/2 but I haven’t seen any of their trucks. Yet an ancient device for conveying information, relying on ink &amp; paper, has been sitting on my driveway every morning since Hurricane Ida. <a href="https://t.co/OZWSuZIwGc">pic.twitter.com/OZWSuZIwGc</a></p>&mdash; Peter Kovacs (@PKovacs7) <a href="https://twitter.com/PKovacs7/status/1433815277981118464?ref_src=twsrc%5Etfw">September 3, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
