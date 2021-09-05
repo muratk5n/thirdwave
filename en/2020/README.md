@@ -48,7 +48,7 @@
 
 [Robot Frankenstein](07/robot-frankenstein.md)
 
-[Rome by Rifkin](07/rome-rifkin.md)
+[The Emphatic Civilization](07/the-emphatic-civilization-rifkin.md)
 
 [Germany - Ottoman Alliance](08/germany-otto-alliance.md)
 

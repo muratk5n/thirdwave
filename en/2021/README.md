@@ -46,5 +46,7 @@
 
 [Historical Carbon Emissions](07/historical-carbon-emissions.md)
 
+[The Bermuda Triangle](08/bermuda.md)
+
 [The Cuban Missile Crisis](08/cuban-missile-crisis.md)
 
