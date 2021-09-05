@@ -1,16 +1,5 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-
-Real unemployment fell by .8. Not bad.
-
-```
-            UNRATE  U6RATE  REAL_UNRATE  REAL_UNEMP_LEVEL
-2021-07-01     5.4     9.2    10.821707           17460.5
-2021-08-01     5.2     8.8    10.090877           16300.5
-```
-
----
-
 FT: "George Soros: Investors in Xi’s China face a rude awakening"
 
 [Link](https://www.ft.com/content/ecf7de34-e595-4814-9cbd-4a5119187330)
@@ -32,6 +21,16 @@ was 37% contained as of Saturday morning, and crews were hopeful that
 improving wind and weather conditions might help as they continue to
 fight what is now California’s 15th largest wildfire. Over 680 homes
 have been destroyed and 214,107 acres burned as of Saturday"
+
+---
+
+Real unemployment fell by .8. Not bad.
+
+```
+            UNRATE  U6RATE  REAL_UNRATE  REAL_UNEMP_LEVEL
+2021-07-01     5.4     9.2    10.821707           17460.5
+2021-08-01     5.2     8.8    10.090877           16300.5
+```
 
 ---
 
