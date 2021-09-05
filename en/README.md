@@ -1,6 +1,5 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-
 *May offset* is not good enough.
 
 EIA: "Producing and burning ethanol results in emissions of carbon
@@ -11,8 +10,10 @@ CO2, which may offset the CO2 produced when the ethanol is burned"
 
 ---
 
-In Kenya a company is pushing for bioethanol as cooking fuel. Not a
-robust solution.
+Boxes have bioethanol in them
+
+"Large blue boxes have been popping up across Nairobi in Kenya. They
+look like cash machines, but ... dispense a clean cooking fuel"
 
 ---
 
