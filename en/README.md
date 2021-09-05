@@ -47,7 +47,7 @@ CO2, which may offset the CO2 produced when the ethanol is burned"
 The canisters have bioethanol in them
 
 "Large blue boxes have been popping up across Nairobi in Kenya. They
-look like cash machines, but ... dispense a clean cooking fuel [canisters]"
+look like cash machines, but ... dispense a clean cooking fuel [canister]"
 
 ---
 
