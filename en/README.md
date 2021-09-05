@@ -1,27 +1,5 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-"May offset" is not good enough. Plus only BE from sugar cane is
-"carbon neutral". How can you make sure all production of this thing
-is made that way? People will cheat. Remember how Volkswagen cheated.
-
-EIA: "Producing and burning ethanol results in emissions of carbon
-dioxide (CO2), a greenhouse gas. However, the combustion of ethanol
-made from biomass (such as corn and sugarcane) is considered
-atmospheric carbon neutral because as the biomass grows, it absorbs
-CO2, which may offset the CO2 produced when the ethanol is burned"
-
----
-
-Boxes have bioethanol in them
-
-"Large blue boxes have been popping up across Nairobi in Kenya. They
-look like cash machines, but ... dispense a clean cooking fuel"
-
----
-
-Trailers *Moonfall*, *Red Notice*, *Mayor of Kingstown* look good.. 
-
----
 
 Real unemployment fell by .8. Not bad.
 
@@ -57,6 +35,29 @@ have been destroyed and 214,107 acres burned as of Saturday"
 
 ---
 
+Yeah! And they like batteries now. Fucking Nazis (founded by Adolf himself)
+
+---
+
+"May offset" is not good enough. Plus only BE from sugar cane is
+"carbon neutral". How can you make sure all production of this thing
+is made that way? People will cheat. Remember how Volkswagen cheated.
+
+EIA: "Producing and burning ethanol results in emissions of carbon
+dioxide (CO2), a greenhouse gas. However, the combustion of ethanol
+made from biomass (such as corn and sugarcane) is considered
+atmospheric carbon neutral because as the biomass grows, it absorbs
+CO2, which may offset the CO2 produced when the ethanol is burned"
+
+---
+
+Boxes have bioethanol in them
+
+"Large blue boxes have been popping up across Nairobi in Kenya. They
+look like cash machines, but ... dispense a clean cooking fuel"
+
+---
+
 "Biden's executive order comes just days before the 20th anniversary of
 the 9/11 terrorist attack. It requires AG Merrick Garland to release
 the declassified documents publicly over the next six months"
@@ -75,6 +76,10 @@ the declassified documents publicly over the next six months"
 Powered Drones"
 
 [Link](https://bit.ly/3yy1uWn )
+
+---
+
+Trailers *Moonfall*, *Red Notice*, *Mayor of Kingstown* look good.. 
 
 ---
 
