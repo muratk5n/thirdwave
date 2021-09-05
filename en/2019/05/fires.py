@@ -4,7 +4,6 @@ import urllib.request as urllib2
 import folium
 
 clat,clon=33, 30
-
 m = folium.Map(location=[clat, clon], zoom_start=2, tiles="Stamen Terrain")
 
 THRESHOLD = 400.0
