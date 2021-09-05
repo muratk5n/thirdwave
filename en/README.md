@@ -34,7 +34,7 @@ Real unemployment fell by .8. Not bad.
 
 ---
 
-Yeah! VW likes batteries now. Fucking Nazis (founded by Adolf himself)
+Yeah! VW likes batteries now. F--king Nazis (founded by Adolf)
 
 ---
 
