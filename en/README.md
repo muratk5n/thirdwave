@@ -35,7 +35,7 @@ have been destroyed and 214,107 acres burned as of Saturday"
 
 ---
 
-Yeah! And they like batteries now. Fucking Nazis (founded by Adolf himself)
+Yeah! VW likes batteries now. Fucking Nazis (founded by Adolf himself)
 
 ---
 
