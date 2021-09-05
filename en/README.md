@@ -1,11 +1,5 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-FT: "George Soros: Investors in Xi’s China face a rude awakening"
-
-[Link](https://www.ft.com/content/ecf7de34-e595-4814-9cbd-4a5119187330)
-
----
-
 Areas near Lake Tahoe and Honey Lake are on FIRE!
 
 <img width="240" src="https://pbs.twimg.com/media/E-c4TDgXoAMZZEs?format=png&name=small"/>
