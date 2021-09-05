@@ -62,8 +62,7 @@ the declassified documents publicly over the next six months"
 
 ---
 
-"Japan, Russia to Cooperate.. Agreed to work together on hydrogen and
-ammonia production"
+"Japan, Russia to Cooperate in Hydrogen, Ammonia to Fight Climate Change"
 
 [Link](https://bit.ly/3BziXzN)
 
