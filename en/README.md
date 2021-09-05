@@ -76,9 +76,17 @@ Powered Drones"
 
 ---
 
-New tech needs to be robust not just shiny. 
+New tech needs to be robust not just shiny.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We have no internet, no power. The mail isn’t delivered. My Amazon order was supposed to arrive 9/2 but I haven’t seen any of their trucks. Yet an ancient device for conveying information, relying on ink &amp; paper, has been sitting on my driveway every morning since Hurricane Ida. <a href="https://t.co/OZWSuZIwGc">pic.twitter.com/OZWSuZIwGc</a></p>&mdash; Peter Kovacs (@PKovacs7) <a href="https://twitter.com/PKovacs7/status/1433815277981118464?ref_src=twsrc%5Etfw">September 3, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"@PKovacs7
+
+We have no internet, no power. The mail isn’t delivered. My Amazon
+order was supposed to arrive 9/2 but I haven’t seen any of their
+trucks. Yet an ancient device for conveying information, relying on
+ink & paper, has been sitting on my driveway every morning since
+Hurricane Ida"
+
+<img width="340" src="https://pbs.twimg.com/media/E-XvSukWEBAqIQN?format=jpg&name=small"/>
 
 ---
 
