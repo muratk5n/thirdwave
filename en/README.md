@@ -6,7 +6,7 @@ FT: "George Soros: Investors in Xi’s China face a rude awakening"
 
 ---
 
-Area near Lake Tahoe and Honey Lake are on FIRE!
+Areas near Lake Tahoe and Honey Lake are on FIRE!
 
 <img width="240" src="https://pbs.twimg.com/media/E-c4TDgXoAMZZEs?format=png&name=small"/>
 
