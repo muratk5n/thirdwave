@@ -32,7 +32,7 @@ have been destroyed and 214,107 acres burned as of Saturday"
 
 ---
 
-Real unemployment fell by .8. Not bad.
+Real unemployment fell by nearly .8. Not bad.
 
 ```
             UNRATE  U6RATE  REAL_UNRATE  REAL_UNEMP_LEVEL
