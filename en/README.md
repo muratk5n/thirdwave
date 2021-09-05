@@ -16,7 +16,7 @@ robust solution.
 
 ---
 
-Trailers *Moonfall*, *Red Notice*, *Mayor of Kingstown* look promising.. 
+Trailers *Moonfall*, *Red Notice*, *Mayor of Kingstown* look good.. 
 
 ---
 
