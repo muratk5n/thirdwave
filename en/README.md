@@ -17,7 +17,7 @@ w Biden and their left. Greens too
 
 ---
 
-Dems definitely wouldn't want that 10-past-10 square brother [either](https://youtu.be/IFqVNPwsLNo?t=1694)).
+Dems definitely wouldn't want that 10-past-10 square brother [either](https://youtu.be/IFqVNPwsLNo?t=1694).
 
 ---
 
