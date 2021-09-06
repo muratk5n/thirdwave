@@ -5,15 +5,11 @@
 
 ---
 
-Greens too of course
-
----
-
 SPD looks to be in the lead in Germany.. Its leader Schulz made some
 positive comments about a possible coalition with leftist party Die
 Linke. Of course shitlib, libcuck, limpdicks piled on him, but I hope
 he follows through.. If he does, they could be in a similar situation
-to US Dems, w Biden and the Dem left. 
+to US Dems, w Biden and the Dem left. Greens too
 
 ---
 
