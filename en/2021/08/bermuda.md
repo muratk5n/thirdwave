@@ -17,10 +17,10 @@ not one is inside the Bermuda Triangle.
 
 [Output](bermuda-out.html)
 
-A statistical idea could be taking the bigger area, look at the
-distribution of incident counts based on smaller regions in that area,
-then get counts in the same region without ones in the triangle. Are
-both counts the same Poisson distribution?
+A statistical test idea could be taking a bigger area, look at the
+distribution of incident counts based on smaller regions there, then
+get counts in the same area without ones in the triangle. Are both
+counts the same Poisson distribution?
 
 References
 
