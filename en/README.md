@@ -24,7 +24,7 @@ Dems definitely wouldn't want that 10-past-10 square brother [either](https://yo
 Good.. Doesnt matter how GN did, recall needs to fail. The alternative
 is mob rule. Less direct democracy.
 
-'California Gov. Newsom and allies spent $36 million in August alone to
+"California Gov. Newsom and allies spent $36 million in August alone to
 fight the recall"
 
 ---
