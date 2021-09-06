@@ -1,8 +1,6 @@
 from pygeodesy.sphericalNvector import LatLon
 import pandas as pd, numpy as np
-
 import folium, random
-from collections import defaultdict
 
 fin = open("MarCas_Part1/vcas.txt")
 
@@ -22,11 +20,13 @@ print (df)
 clat,clon=33, 30
 m = folium.Map(location=[clat, clon], zoom_start=2, tiles="Stamen Terrain")
 
+# larger box
 big = LatLon(37.37121348080846, -95.92924913128172),\
       LatLon(33.07997873234234, -55.89200093297422),\
       LatLon(15.600825365750481, -63.333267906537074), \
       LatLon(17.030873110570198, -98.71084233003333)
 
+# the triangle
 berm = LatLon(32.273, -64.899), LatLon(25.700, -80.218), LatLon(18.579, -66.061)
 
 for idx, row in df.iterrows():
