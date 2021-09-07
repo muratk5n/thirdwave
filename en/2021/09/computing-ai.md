@@ -1,13 +1,14 @@
 # Computing AI
 
 The problem with today's neural net heavy approaches to "AI" is that
-they are too dependent on computation of decisions, but not on any
-underlying model of intelligence. They are two different things.
+they are too dependent on approximated computation of decisions, but
+not on any underlying model of intelligence. They are two different
+things.
 
-What is a model? In math teaching models, functions, are confused,
-some call math "the study of patterns" but that's not enough
-either. There is an aspect of *relations* that are glossed over. Imagine
-the cat's cradle game,
+What is a model? In math teaching, relations, models, functions are
+usually confused. Some call math "the study of patterns" but that's
+not enough either.. There is an aspect of relations that are glossed
+over. Imagine the cat's cradle game,
 
 ![](cradle1.jpeg)
 
@@ -15,9 +16,9 @@ This is a web of relations. It doesn't necessarily compute anything.
 I can [transform](https://drive.google.com/uc?export=view&id=18Y1ZXPzI2nRrYyvjYNHiw7xG8cpWQNAU)
 the model into something else, maybe something simpler, play with it etc.
 This is a model. I can utilize differential calculus, all kinds of odd algebras,
-the whole nine.
+the whole nine in it.
 
-We can get a *function* out of the model, "the function of going from
+We can get a *function* out of this model, "the function of going from
 one middle to the other middle finger, while always remaining in the
 middle" perhaps. So I specified initial and boundary conditions, and I
 received a function, something computable. $f(x)=2x$ is a function. I
@@ -29,9 +30,9 @@ $$
 \frac{\partial^2 p}{\partial x} + \frac{\partial^2 p}{\partial y}  = 0
 $$
 
-Very simple, neat right? A model, a relation. Such relations can be
-used to represent heat conduction, fluid dynamics,
-electrostatics.. many areas.
+Very simple, concise. A model, a relation. Such relations can be used
+to represent heat conduction, fluid dynamics, electrostatics.. many
+areas.
 
 And here is a solution based on certain initial and boundary conditions.
 
@@ -50,8 +51,8 @@ model the world, we need to work with the essentials, they are much
 more powerful. We invented entire areas of math so we can do this. And
 it worked brilliantly so far.
 
-Now, current approaches of AI, neural nets, can only work with
-computable stuff. There is more, they cant even get the analytical
+Now, current approaches of AI, neural nets, can only see, work with
+the computable stuff. There is more, they cant even get the analytical
 mess correctly, they have to approximate it. Both of these problems
 now lead us to a dead-end; what you reverse-engineer from data is not
 intelligence, only one *solution* to an underlying model we know
