@@ -87,6 +87,19 @@ the monkey shit, NNs, data, etc. If you asked me 18th century, 'whats
 going on in physics?' I'd have said yeah they are modeling some shit'.
 We cant say the same for intelligence.
 
+Question
+
+So NNs look at a lot of $(x=2.1,y=4.5)$,$(x=1.9,3.9)$,.. and try to
+guess this function is probably $y = f(x) = 2x$?
+
+Answer
+
+Essentially yes. They usually don't create an analytical formula,
+represent $f(x)$ through a jungle of "neural" connections, but
+at the end they try to reach something akin to a function by looking
+at data.
+
+
 
 
 
