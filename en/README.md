@@ -1,8 +1,5 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-
----
-
 DW: "Nord Stream 2: Last piece of gas pipeline is in place.. Engineers
 have welded together the final piece of piping of the controversial
 conduit, operators say. Gas supply to Germany is expected to begin in
@@ -16,7 +13,7 @@ defence co-operation"
 ---
 
 Turns out if there are no viewers left you cannot send them into a
-tizzy with garbage takes to make money from it.
+tizzy with garbage takes to make money off them.
 
 
 "Rupert Murdoch's News Corp Australia to Ease Climate Change
