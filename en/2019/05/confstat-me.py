@@ -1,8 +1,9 @@
 import pandas as pd, datetime, numpy as np
 from zipfile import ZipFile
 from io import BytesIO
+from pygeodesy.sphericalNvector import LatLon
 import urllib.request as urllib2
-import folium, mygeo
+import folium
 
 base_conflict_url = "http://data.gdeltproject.org/events"
 
@@ -28,10 +29,26 @@ dfs = []
 clat,clon=33.01136975577918, 40.98527636859822
 how_far = 600.0
 
-m = folium.Map(location=[clat, clon], zoom_start=7, tiles="Stamen Terrain")
+poly1 = LatLon(36.23079, 33.1693),\
+        LatLon(39.50171, 37.7682),\
+        LatLon(38.5655, 47.546),\
+        LatLon(32.0539, 48.609),\
+        LatLon(28.3327, 35.013),\
+        LatLon(31.730, 32.023)
+
+poly2 = LatLon(18.328843, 41.652402),\
+        LatLon(21.67166, 54.55381),\
+        LatLon(15.14579, 55.67728),\
+        LatLon(10.43969, 42.37)
+
+
+m = folium.Map(location=[clat, clon], zoom_start=4, tiles="Stamen Terrain")
 
 def dist(x):
-    return mygeo.spherical_distance(np.deg2rad(clat),np.deg2rad(clon),np.deg2rad(x['Actor2Geo_Lat']),np.deg2rad(x['Actor2Geo_Long']))
+    if 'nan' in str(x['Actor2Geo_Lat']): return False
+    elif 'nan' in str(x['Actor2Geo_Long']): return False
+    p = LatLon(x['Actor2Geo_Lat'],x['Actor2Geo_Long'])
+    return p.isenclosedBy(poly1) | p.isenclosedBy(poly2)
 
 for i in range(5):
     d = now - datetime.timedelta(days=i+1)
@@ -49,7 +66,7 @@ for i in range(5):
     df3 = df2[(df2.EventCode==190)|(df2.EventCode==195)|(df2.EventCode==194)]
     df3 = df3.reset_index()
     df3.loc[:,'dist'] = df3.apply(dist, axis=1)
-    df3 = df3[df3.dist < how_far]
+    df3 = df3[df3.dist == True]
     dft = df3[['EventCode','Actor1CountryCode','Actor1Name','Actor2Name','Actor2Geo_Lat','Actor2Geo_Long','url']].copy()
     dfs.append(dft)
 
