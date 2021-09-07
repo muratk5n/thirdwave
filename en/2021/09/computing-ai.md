@@ -29,8 +29,11 @@ $$
 \frac{\partial^2 p}{\partial x} + \frac{\partial^2 p}{\partial y}  = 0
 $$
 
-Very simple, neat right? A model, a relation. Here is a solution based
-on certain initial and boundary conditions.
+Very simple, neat right? A model, a relation. Such relations can be
+used to represent heat conduction, fluid dynamics,
+electrostatics.. many areas.
+
+And here is a solution based on certain initial and boundary conditions.
 
 $$
 p(x,y) =
@@ -58,17 +61,31 @@ surrounding conditions, and fail to generalize.
 
 Question
 
-In computational science, we also approximate the functions generated from
-the true model
+In computational science (for physics), we also approximate the
+functions generated from the true model
 
 Answer
 
 Yes but in that case you are going forward from a known model, not
-backward blindly from data with nothing known. Going forward with a
-clean model has its challanges too, but you always have something
-known, you make use of its presence. Plug something into it, might get
-certain computation that might be easier etc. We can always see the
-trade-offs clearly as the true relations are captured in a visible model.
+going backward, blindly from data with nothing known. Going forward
+with a clean model has its challanges too, but you always have a
+basis, you make use of its presence. Plug something into it, might get
+certain functions that might be easier etc. We can always see the
+trade-offs clearly as the true relations are captured in a visible
+model.
+
+Question
+
+What is the current state of AI research?
+
+Answer
+
+There are currently no reputable, major work going on for modeling
+intelligence. I don't want to say 'we barely scratched the surface'
+because noone is even scrathing the surface. All the energy is around
+the monkey shit, NNs, data, etc. If you asked me 18th century, 'whats
+going on in physics?' I'd have said yeah they are modeling some shit'.
+We cant say the same for intelligence.
 
 
 
