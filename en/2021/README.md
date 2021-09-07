@@ -50,3 +50,5 @@
 
 [The Cuban Missile Crisis](08/cuban-missile-crisis.md)
 
+[Computing AI](09/computing-ai.md)
+
