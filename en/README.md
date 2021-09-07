@@ -63,7 +63,7 @@ based one issue or another. It is the general stance towards
 them.. They say 'see these people over there, they are *beyond the
 pale*', like, not even worth talking to. Pro-business FDP can argue
 for cutting taxes in the middle of a crisis, but left cannot talk
-about two-tier system in DE healthcare. That makes you some kind of
+about two-tier system in healthcare. That makes you some kind of
 weirdo..
 
 ---
