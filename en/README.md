@@ -39,6 +39,11 @@ Yeah that shit works brilliantly lets be scared of it.
 
 ---
 
+But the escape cld also have been helped by their deep state to make
+the new guys look bad.. u never know
+
+---
+
 Its great
 
 "A Palestinian militant leader and five other inmates staged an
