@@ -1,40 +1,41 @@
 # Computing AI
 
 The problem with today's neural net heavy approaches to "AI" is that
-they are too dependent on approximated computation of decisions, but
-not on any underlying model of intelligence. They are two different
-things.
+they are too dependent on computation of decisions, not on any
+underlying model of intelligence. These are two different things.
 
-What is a model? In math teaching, relations, models, functions are
+What is a model? In math teaching relations, models, functions are
 usually confused. Some call math "the study of patterns" but that's
-not enough either.. There is an aspect of relations that are glossed
-over. Imagine the cat's cradle game,
+not enough either.. There is an aspect of relations that dont get the
+mention they deserve. What are relations? Imagine the cat's cradle game,
 
 ![](cradle1.jpeg)
 
 This is a web of relations. It doesn't necessarily compute anything.
-I can [transform](https://drive.google.com/uc?export=view&id=18Y1ZXPzI2nRrYyvjYNHiw7xG8cpWQNAU)
-the model into something else, maybe something simpler, play with it etc.
-This is a model. I can utilize differential calculus, all kinds of odd algebras,
-the whole nine in it.
+Move one finger that causes changes in other fingers - a relation.
+We can [transform](https://drive.google.com/uc?export=view&id=18Y1ZXPzI2nRrYyvjYNHiw7xG8cpWQNAU)
+this model into another one , maybe something simpler, play with it etc.
+I could utilize differential calculus, all kinds of odd algebras,
+to create this web of relations.
 
-We can get a *function* out of this model, "the function of going from
-one middle to the other middle finger, while always remaining in the
-middle" perhaps. So I specified initial and boundary conditions, and I
-received a function, something computable. $f(x)=2x$ is a function. I
-plug in $x=2$, it gives me 4.
+This is not a function. But we can retrieve a function out of this
+model, it could be the the function of "going from finger X to finger
+Y, while always remaining in the middle". So I specified
+initial and boundary conditions, and I received a function, something
+computable. $f(x)=2x$ is a function. I plug in $x=2$, it gives me 4.
+It computes.
 
-Now real math, in physics, Laplace Equation in 2D is
+Let's change the domain, real world, physics, Laplace Equation in 2D
+is
 
 $$
 \frac{\partial^2 p}{\partial x} + \frac{\partial^2 p}{\partial y}  = 0
 $$
 
-Very simple, concise. A model, a relation. Such relations can be used
-to represent heat conduction, fluid dynamics, electrostatics.. many
-areas.
+A very simple, concise model. This approach is used to represent heat
+conduction, fluid dynamics, electrostatics.. many areas.
 
-And here is a solution based on certain initial and boundary conditions.
+And here is  solution function based on certain initial and boundary conditions.
 
 $$
 p(x,y) =
@@ -52,13 +53,14 @@ more powerful. We invented entire areas of math so we can do this. And
 it worked brilliantly so far.
 
 Now, current approaches of AI, neural nets, can only see, work with
-the computable stuff. There is more, they cant even get the analytical
-mess correctly, they have to approximate it. Both of these problems
-now lead us to a dead-end; what you reverse-engineer from data is not
-intelligence, only one *solution* to an underlying model we know
-nothing about, under certain conditions. That's why these NNs, deep or
-otherwise, tied so much to data, and fragile, too tied their
-surrounding conditions, and fail to generalize.
+the computable stuff, with functions. Well actually they cant even get
+the analytical mess correctly, they have to approximate it. Both of
+these problems now lead us to an odd situation; What we
+reverse-engineer from data is not intelligence, only one *solution* to
+an underlying model we know nothing about, and only under certain
+conditions. That's why these NNs, deep or otherwise, tied so much to
+data, and fragile, too connected their surrounding conditions, and
+fail to generalize.
 
 Question
 
@@ -69,11 +71,9 @@ Answer
 
 Yes but in that case you are going forward from a known model, not
 going backward, blindly from data with nothing known. Going forward
-with a clean model has its challanges too, but you always have a
-basis, you make use of its presence. Plug something into it, might get
-certain functions that might be easier etc. We can always see the
-trade-offs clearly as the true relations are captured in a visible
-model.
+with a clean model has its challanges too, but we always have a solid
+basis, we can make use of that. Plug something into it, might get
+certain functions that might be easier etc. 
 
 Question
 
@@ -86,26 +86,35 @@ intelligence. I don't want to say 'we barely scratched the surface'
 because noone is even scrathing the surface. All the energy is around
 the monkey shit, NNs, data, etc. If you asked me 18th century, 'whats
 going on in physics?' I'd have said yeah they are modeling some shit'.
-We cant say the same for intelligence.
+Cant say the same for intelligence.
 
 Question
 
-So NNs look at a lot of $(x=2.1,y=4.5)$,$(x=1.9,3.9)$,.. and try to
-guess this function is probably $y = f(x) = 2x$?
+So NNs look at a data, like a lot of $(x=2.1,y=4.5)$,$(x=1.9,3.9)$,..
+and try to guess this function is probably $y = f(x) = 2x$?
 
 Answer
 
-Essentially yes. They usually don't create an analytical formula,
-represent $f(x)$ through a jungle of "neural" connections, but
-at the end they try to reach something akin to a function by looking
-at data.
+Essentially yes. But they usually don't create an analytical formula,
+represent $f(x)$ through a jungle of "neural" connections, at the end
+tho they try to reach something akin to a function by looking at data.
+
+Note: They represent functions bcz they need to "run" them for each
+data point and see how close they came to the answer (also in data).
+They use that error to adjust the internal jungle of neurons so next
+time it is better. But the thing they are modeling is not a suitable
+target.
 
 Question
 
-For given IC and BC you get a complicated function. But it's one,
-manageable.
+For given IC and BC above, you retrieved a complicated function. But
+it's only one, manageable.
 
 Answer
 
-Not so bcz for different IC/BC you will get another (very complicated)
-function.
+For different IC/BC you would get more, different (and complicated)
+functions. It is a complete mess to manage from the other direction.
+I wouldnt even try. People need to get a paper and pencil and start
+thinking things through, at a higher level. 
+
+
