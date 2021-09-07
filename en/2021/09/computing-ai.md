@@ -100,10 +100,12 @@ represent $f(x)$ through a jungle of "neural" connections, but
 at the end they try to reach something akin to a function by looking
 at data.
 
+Question
 
+For given IC and BC you get a complicated function. But it's one,
+manageable.
 
+Answer
 
-
-
-
-
+Not so bcz for different IC/BC you will get another (very complicated)
+function.

@@ -27,19 +27,20 @@ now = datetime.datetime.now()
 dfs = []
 
 clat,clon=33.01136975577918, 40.98527636859822
-how_far = 600.0
 
-poly1 = LatLon(36.23079, 33.1693),\
-        LatLon(39.50171, 37.7682),\
-        LatLon(38.5655, 47.546),\
-        LatLon(32.0539, 48.609),\
-        LatLon(28.3327, 35.013),\
+# North
+poly1 = LatLon(36.230, 33.169),\
+        LatLon(39.501, 37.768),\
+        LatLon(38.565, 47.546),\
+        LatLon(32.053, 48.609),\
+        LatLon(28.332, 35.013),\
         LatLon(31.730, 32.023)
 
-poly2 = LatLon(18.328843, 41.652402),\
-        LatLon(21.67166, 54.55381),\
-        LatLon(15.14579, 55.67728),\
-        LatLon(10.43969, 42.37)
+# Southern area around Yemen
+poly2 = LatLon(18.328, 41.652),\
+        LatLon(21.671, 54.553),\
+        LatLon(15.145, 55.677),\
+        LatLon(10.439, 42.370)
 
 
 m = folium.Map(location=[clat, clon], zoom_start=4, tiles="Stamen Terrain")

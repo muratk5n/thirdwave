@@ -1,7 +1,7 @@
 # Week 36
 
 
-[The Bermuda Triangle](2021/08/bermuda.md)
+[The Bermuda Triangle](../../2021/08/bermuda.md)
 
 ---
 
@@ -46,10 +46,6 @@ Hurricane Ida"
 Areas near Lake Tahoe and Honey Lake are on FIRE!
 
 <img width="240" src="https://pbs.twimg.com/media/E-c4TDgXoAMZZEs?format=png&name=small"/>
-
----
-
-World forest fires [update](2019/05/natdisaster.md#fires)
 
 ---
 
