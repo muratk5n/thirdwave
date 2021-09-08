@@ -81,7 +81,7 @@ Answer
 There are currently no reputable, major work going on for modeling
 intelligence. I don't want to say 'we barely scratched the surface'
 because noone is even scrathing the surface. All the energy is around
-the monkey shit, NNs, data, etc. If you asked me 18th century, 'whats
+the monkey biz, NNs, data, etc. If you asked me 18th century, 'whats
 going on in physics?' I'd have said yeah they are modeling some shit'.
 Cant say the same for intelligence.
 
