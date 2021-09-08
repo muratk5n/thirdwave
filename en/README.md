@@ -20,6 +20,17 @@ Troop deployment [stats](2019/05/confstats.md#gdtroop)
 
 ---
 
+Texas is clamping down, right across the border, Mexico is easing
+up. If women are denied service, they'll go right across the border to
+get abortion. It's stupid to insist on this for TX, but the aim is not
+politics, it is about secondary issues being made faux-primary issues
+to fight faux-politics through culture war. So in a way it is smart,
+in a 90s, Clinton-era kinda way.
+
+"Mexico's Supreme Court Decriminalizes Abortion"
+
+---
+
 Industrial Age society, the Second Wave began in Western Europe with
 the Industrial Revolution, and subsequently spread across the
 world. Key aspects of Second Wave society are the nuclear family, a
