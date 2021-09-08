@@ -47,8 +47,7 @@ A bloddy mess. It is of course computable.
 Then, a relation, a model is much more fundamental, essential
 construct. A function, as a solution, can be complicated. When we
 model the world, we need to work with the essentials, they are much
-more powerful. We invented entire areas of math so we can do this. And
-it worked brilliantly so far.
+more powerful. We invented entire areas of math so we can do this. 
 
 Now, current approaches of AI, neural nets, can only see, work with
 the computable stuff, with functions. Well actually they cant even get
