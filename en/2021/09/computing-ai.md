@@ -68,9 +68,9 @@ Answer
 
 Yes but in that case you are going forward from a known model, not
 going backward, blindly from data with nothing known. Going forward
-with a clean model has its challanges too, but we always have a solid
+with a clean model has its challanges, but we always have a solid
 basis, we can make use of that. Plug something into it, might get
-certain functions that might be easier etc. 
+certain functions that might be easier etc.
 
 Question
 
