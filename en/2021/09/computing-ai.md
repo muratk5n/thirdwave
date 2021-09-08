@@ -55,9 +55,9 @@ the analytical mess correctly, they have to approximate it. Both of
 these problems now lead us to an odd situation; What we
 reverse-engineer from data is not intelligence, only one *solution* to
 an underlying model we know nothing about, and only under certain
-conditions. That's why these NNs, deep or otherwise, tied so much to
-data, and fragile, too connected their surrounding conditions, and
-fail to generalize.
+conditions. That's why these NNs, deep or otherwise, are tied so much
+to data, are fragile, and too dependent on their surrounding
+conditions, and fail to generalize.
 
 Question
 
