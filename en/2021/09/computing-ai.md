@@ -1,8 +1,8 @@
 # Computing AI
 
-The problem with today's neural net heavy approaches to "AI" is that
-they are too dependent on computation of decisions, not on any
-underlying model of intelligence. These are two different things.
+Recent neural net heavy approaches to "AI" are too dependent on
+computation of decisions, not on any underlying model of
+intelligence. These are two different things.
 
 What is a model? In math teaching relations, models, functions are
 usually confused. Some call math "the study of patterns" but that's
