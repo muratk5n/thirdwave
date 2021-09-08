@@ -111,6 +111,4 @@ Answer
 The problem is for slightly different IC/BC you would get completely
 different (and just as complicated) function. It is a complete mess to
 manage from the other direction. People need to get a paper and pencil
-and start thinking things through, at a higher level.
-
-
+and start thinking things through, at a more fundamental level.
