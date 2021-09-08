@@ -99,8 +99,7 @@ tho they try to reach something akin to a function by looking at data.
 Note: They represent functions bcz they need to "run" something for
 each data point and see how close they came to the answer (also in
 data).  They use that error to adjust the internal jungle of neurons
-so next time it is better. But the thing they are modeling is not a
-suitable target.
+so next time it is better. 
 
 Question
 
