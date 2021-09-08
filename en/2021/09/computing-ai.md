@@ -92,7 +92,7 @@ and try to guess this function is probably $y = f(x) = 2x$?
 
 Answer
 
-Essentially yes. But they usually don't create an analytical formula,
+Essentially yes.. They usually don't attempt at the analytical formula,
 represent $f(x)$ through a jungle of "neural" connections, at the end
 tho they try to reach something akin to a function by looking at data.
 
