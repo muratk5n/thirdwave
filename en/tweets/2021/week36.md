@@ -1,5 +1,80 @@
 # Week 36
 
+DW: "Nord Stream 2: Last piece of gas pipeline is in place.. Engineers
+have welded together the final piece of piping of the controversial
+conduit, operators say. Gas supply to Germany is expected to begin in
+October"
+
+---
+
+Jane's Defense: "Japan, Pacific island countries agree to enhance
+defence co-operation"
+
+---
+
+Turns out if there are no viewers left you cannot send them into a
+tizzy with garbage takes to make money off them.
+
+
+"Rupert Murdoch's News Corp Australia to Ease Climate Change
+Denial.. The campaign, if sustained, could put pressure on Fox News,
+though critics were skeptical that a sea change was in store."
+
+---
+
+I mean this speaks to the capability of said "AI" of which there is
+not much.  You can lure these things into traps with rattle drums
+probably.. How bleeping dumb are they? Libcucks swoon of course at the
+first sight of a bright shiny object.. These are the innovators you
+deserve
+
+---
+
+Yeah that shit works brilliantly lets be scared of it. 
+
+"Facebook apology as AI labels black men 'primates'"
+
+---
+
+But the escape cld also have been helped by their deep state to make
+the new guys look bad.. u never know
+
+---
+
+Its great
+
+"A Palestinian militant leader and five other inmates staged an
+elaborate escape from a high-security prison in Israel"
+
+---
+
+"'Population and Income Growth.. We do not see a simple
+relationship. Many countries experienced both rapid population growth
+and negative changes in real per capita GDP. But still others had
+relatively rapid population growth, yet they had a rapid increase in
+per capita GDP"
+
+[Link](https://open.lib.umn.edu/principleseconomics/chapter/33-2-population-growth-and-economic-development/)
+
+---
+
+The beef with the oppo towards left parties, e.g. Die Linke isn't
+based one issue or another. It is the general stance towards
+them.. They say 'see these people over there, they are *beyond the
+pale*', like, not even worth talking to. Pro-business FDP can argue
+for cutting taxes in the middle of a crisis, but left cannot talk
+about two-tier system in healthcare. That makes you some kind of
+weirdo..
+
+---
+
+Wait until hospitals start denying covid patients.. Can happen right?
+There are other emergencies, resources are limited, and there is now a
+covid vaccine. Guy doesn't take it, gets his ass sick and shows up to
+ER asking oxygen to be piped into him... Other patients need
+care. Triage is a bitch.
+
+---
 
 [The Bermuda Triangle](../../2021/08/bermuda.md)
 

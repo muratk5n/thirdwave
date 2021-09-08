@@ -1,78 +1,22 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-DW: "Nord Stream 2: Last piece of gas pipeline is in place.. Engineers
-have welded together the final piece of piping of the controversial
-conduit, operators say. Gas supply to Germany is expected to begin in
-October"
+ME conflict [stats](2019/05/confstats.md#gdeltme)
 
 ---
 
-Jane's Defense: "Japan, Pacific island countries agree to enhance
-defence co-operation"
+[Computing AI](2021/09/computing-ai.md)
 
 ---
 
-Turns out if there are no viewers left you cannot send them into a
-tizzy with garbage takes to make money off them.
+"Huge Global Demand for .. Ute... [The] new Australian developed
+hydrogen fuelcell electric vehicle with $50 million in order requests
+in just the first 4 days"
 
-
-"Rupert Murdoch's News Corp Australia to Ease Climate Change
-Denial.. The campaign, if sustained, could put pressure on Fox News,
-though critics were skeptical that a sea change was in store."
+[Link](https://bit.ly/3tgWUuR)
 
 ---
 
-I mean this speaks to the capability of said "AI" of which there is
-not much.  You can lure these things into traps with rattle drums
-probably.. How bleeping dumb are they? Libcucks swoon of course at the
-first sight of a bright shiny object.. These are the innovators you
-deserve
-
----
-
-Yeah that shit works brilliantly lets be scared of it. 
-
-"Facebook apology as AI labels black men 'primates'"
-
----
-
-But the escape cld also have been helped by their deep state to make
-the new guys look bad.. u never know
-
----
-
-Its great
-
-"A Palestinian militant leader and five other inmates staged an
-elaborate escape from a high-security prison in Israel"
-
----
-
-"'Population and Income Growth.. We do not see a simple
-relationship. Many countries experienced both rapid population growth
-and negative changes in real per capita GDP. But still others had
-relatively rapid population growth, yet they had a rapid increase in
-per capita GDP"
-
-[Link](https://open.lib.umn.edu/principleseconomics/chapter/33-2-population-growth-and-economic-development/)
-
----
-
-The beef with the oppo towards left parties, e.g. Die Linke isn't
-based one issue or another. It is the general stance towards
-them.. They say 'see these people over there, they are *beyond the
-pale*', like, not even worth talking to. Pro-business FDP can argue
-for cutting taxes in the middle of a crisis, but left cannot talk
-about two-tier system in healthcare. That makes you some kind of
-weirdo..
-
----
-
-Wait until hospitals start denying covid patients.. Can happen right?
-There are other emergencies, resources are limited, and there is now a
-covid vaccine. Guy doesn't take it, gets his ass sick and shows up to
-ER asking oxygen to be piped into him... Other patients need
-care. Triage is a bitch.
+Troop deployment [stats](2019/05/confstats.md#gdtroop)
 
 ---
 
