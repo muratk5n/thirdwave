@@ -1,13 +1,12 @@
 # Computing AI
 
 Recent neural net heavy approaches to "AI" are too dependent on
-computation of decisions, not on any underlying model of
-intelligence. These are two different things.
-
+computation of decisions, not on any underlying model of intelligence.
 What is a model? In math teaching relations, models, functions are
 usually confused. Some call math "the study of patterns" but that's
 not enough either.. There is an aspect of relations that dont get the
-mention they deserve. What are relations? Imagine the cat's cradle game,
+mention they deserve. What are relations? Imagine the cat's cradle
+game,
 
 ![](cradle1.jpeg)
 
