@@ -22,7 +22,6 @@ model, it could be the the function of "going from finger X to finger
 Y, while always remaining in the middle". So I specified
 initial and boundary conditions, and I received a function, something
 computable. $f(x)=2x$ is a function. I plug in $x=2$, it gives me 4.
-It computes.
 
 Let's change the domain, real world, physics, Laplace Equation in 2D
 is
