@@ -87,7 +87,7 @@ Cant say the same for intelligence.
 
 Question
 
-So NNs look at a data, like a lot of $(x=2.1,y=4.5)$,$(x=1.9,3.9)$,..
+Then NNs look at a data, like a lot of $(x=2.1,y=4.5)$, $(x=1.9,3.9)$, ..
 and try to guess this function is probably $y = f(x) = 2x$?
 
 Answer
