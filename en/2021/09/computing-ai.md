@@ -110,9 +110,8 @@ it's only one, manageable.
 Answer
 
 The problem is for slightly different IC/BC you would get completely
-different (and just as complicated) function. It is a complete mess
-to manage from the other direction.  I wouldnt even try. People need
-to get a paper and pencil and start thinking things through, at a
-higher level.
+different (and just as complicated) function. It is a complete mess to
+manage from the other direction. People need to get a paper and pencil
+and start thinking things through, at a higher level.
 
 
