@@ -24,7 +24,7 @@ he wouldn't believe him 🤦‍♂️ Fail all around.
 
 Carl Sagan complaining about Beavis and Butthead is pure gold
 
-<a style='text-decoration: none;' href='https://pbs.twimg.com/media/E-s5BkdXsAc82NJ?format=jpg&name=small'/>[-]</a>
+[[-]](https://pbs.twimg.com/media/E-s5BkdXsAc82NJ?format=jpg&name=small)
 
 ---
 
