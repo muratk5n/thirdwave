@@ -1,33 +1,30 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-ME conflict [stats](2019/05/confstats.md#gdeltme)
+WSJ: "Japan Prime Minister Contender Takes Harder Line on
+Missile-Strike Ability.. Japan needs to consider building a
+missile-strike capability against potential foes including China and
+North Korea, former Foreign Minister Fumio Kishida said in an
+interview'
 
 ---
 
-[Computing AI](2021/09/computing-ai.md)
+"Even as air pollution shaves years off life expectancy, fossil fuel
+projects get more funding than clean air initiatives, a global report
+said Tuesday"
+
+<a style='text-decoration: none;' href='http://u.afp.com/Ujwq'/>[-]</a>
 
 ---
 
-"Huge Global Demand for .. Ute... [The] new Australian developed
-hydrogen fuelcell electric vehicle with $50 million in order requests
-in just the first 4 days"
-
-[Link](https://bit.ly/3tgWUuR)
+George Schulz (Rep old timer) sat at Theranos board, his grandson was
+hired as lab tech. Grandson told him stuff doesn't work as advertised
+he wouldn't believe him 🤦‍♂️ Fail all around.
 
 ---
 
-Troop deployment [stats](2019/05/confstats.md#gdtroop)
+Carl Sagan complaining about Beavis and Butthead is pure gold
 
----
-
-Texas is clamping down, right across the border, Mexico is easing
-up. If women are denied service, they'll go right across the border to
-get abortion. It's stupid to insist on this for TX, but the aim is not
-politics, it is about secondary issues being made faux-primary issues
-to fight faux-politics through culture war. So in a way it is smart,
-in a 90s, Clinton-era kinda way.
-
-"Mexico's Supreme Court Decriminalizes Abortion"
+<a style='text-decoration: none;' href='https://pbs.twimg.com/media/E-s5BkdXsAc82NJ?format=jpg&name=small'/>[-]</a>
 
 ---
 

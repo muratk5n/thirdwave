@@ -1,5 +1,35 @@
 # Week 36
 
+
+---
+
+[Computing AI](2021/09/computing-ai.md)
+
+---
+
+"Huge Global Demand for .. Ute... [The] new Australian developed
+hydrogen fuelcell electric vehicle with $50 million in order requests
+in just the first 4 days"
+
+[Link](https://bit.ly/3tgWUuR)
+
+---
+
+Troop deployment [stats](2019/05/confstats.md#gdtroop)
+
+---
+
+Texas is clamping down, right across the border, Mexico is easing
+up. If women are denied service, they'll go right across the border to
+get abortion. It's stupid to insist on this for TX, but the aim is not
+politics, it is about secondary issues being made faux-primary issues
+to fight faux-politics through culture war. So in a way it is smart,
+in a 90s, Clinton-era kinda way.
+
+"Mexico's Supreme Court Decriminalizes Abortion"
+
+---
+
 DW: "Nord Stream 2: Last piece of gas pipeline is in place.. Engineers
 have welded together the final piece of piping of the controversial
 conduit, operators say. Gas supply to Germany is expected to begin in
