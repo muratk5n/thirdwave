@@ -12,7 +12,7 @@ interview'
 projects get more funding than clean air initiatives, a global report
 said Tuesday"
 
-<a style='text-decoration: none;' href='http://u.afp.com/Ujwq'/>[-]</a>
+[[-]](http://u.afp.com/Ujwq)
 
 ---
 
