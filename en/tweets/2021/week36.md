@@ -1,9 +1,7 @@
 # Week 36
 
 
----
-
-[Computing AI](2021/09/computing-ai.md)
+[Computing AI](../../2021/09/computing-ai.md)
 
 ---
 
@@ -12,10 +10,6 @@ hydrogen fuelcell electric vehicle with $50 million in order requests
 in just the first 4 days"
 
 [Link](https://bit.ly/3tgWUuR)
-
----
-
-Troop deployment [stats](2019/05/confstats.md#gdtroop)
 
 ---
 
