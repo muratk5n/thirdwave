@@ -69,7 +69,7 @@ What is the underlying technological assumption though? If you burn
 fossil like today, sure its bad. But convert to renewable fuel at the
 source through ccs, not so bad. Tech assumptions cannot solely be
 based on pedestrian views of office-dwelling, white-collar,
-have-an-app-for-that "electric" crowd.
+have-an-app-for-that limpdick-electric crowd.
 
 "Climate change: Fossil fuels must stay underground, scientists say"
 
