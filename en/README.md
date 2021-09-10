@@ -42,14 +42,6 @@ Dennis Coffey - Ubiquitous \#music
 
 ---
 
-"U.S. Attorney General Merrick Garland on Monday vowed to 'protect'
-women seeking abortions in Texas, as the Justice Department explores
-“all options” to challenge the state’s highly restrictive new law"
-
-[[-]](https://trib.al/aaNMa2a)
-
----
-
 "Australia vowed Thursday to keep mining #coal for export and said
 global demand was rising, rejecting a study that warned nearly all its
 reserves must stay in the ground to address the #climate
