@@ -79,8 +79,8 @@ These ppl live healthy long life.
 
 National narrative needs to be compatible with the underlying
 culture..  Otherwise there will be neurotic behaviour.. That's why
-there is so much neuroticism, especially in politics, in so-called
-Turkey.
+there is so much neuroticism in so-called Turkey, especially in its
+politics.
 
 ---
 
