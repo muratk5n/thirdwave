@@ -1,30 +1,94 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-WSJ: "Japan Prime Minister Contender Takes Harder Line on
-Missile-Strike Ability.. Japan needs to consider building a
-missile-strike capability against potential foes including China and
-North Korea, former Foreign Minister Fumio Kishida said in an
-interview'
+<iframe width="340"  src="https://www.youtube.com/embed/C56nnq-ykbE?start=33&end=79" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-"Even as air pollution shaves years off life expectancy, fossil fuel
-projects get more funding than clean air initiatives, a global report
-said Tuesday"
+"Schumer rejects Manchin's 'strategic pause' on $3.5T megabill"
 
-[[-]](http://u.afp.com/Ujwq)
+[[-]](http://ow.ly/KWi4102W4bN)
 
 ---
 
-George Schulz (Rep old timer) sat at Theranos board, his grandson was
-hired as lab tech. Grandson told him stuff doesn't work as advertised
-he wouldn't believe him 🤦‍♂️ Fail all around.
+If no agreement is reached and US leaves the picture I guarantee it
+Israel will attack unilaterally at the first sign of an IRN a-bomb.
+
+"Blinken warns US getting 'closer' to giving up on Iran nuclear deal"
 
 ---
 
-Carl Sagan complaining about Beavis and Butthead is pure gold
+ECMWF is the European weather forecasters.
 
-[[-]](https://pbs.twimg.com/media/E-s5BkdXsAc82NJ?format=jpg&name=small)
+---
+
+A nice back to work [account](https://twitter.com/reuterbal/status/1435507105663000576)
+
+---
+
+Riemann was a genius. Did so much stuff.. A deserving student to the
+great Gauss
+
+---
+
+Holmes Brothers - Up Above My Head \#music
+
+[[-]](https://youtu.be/qBu7IsyHsHI)
+
+---
+
+Dennis Coffey - Ubiquitous \#music
+
+[[-]](https://youtu.be/hOb42sndWYQ)
+
+---
+
+"U.S. Attorney General Merrick Garland on Monday vowed to 'protect'
+women seeking abortions in Texas, as the Justice Department explores
+“all options” to challenge the state’s highly restrictive new law"
+
+[[-]](https://trib.al/aaNMa2a)
+
+---
+
+"Australia vowed Thursday to keep mining #coal for export and said
+global demand was rising, rejecting a study that warned nearly all its
+reserves must stay in the ground to address the #climate
+crisis"
+
+[[-]](http://u.afp.com/UjbE)
+
+---
+
+CCS isn't only about pulling carbon from the atmosphere. It can be
+applied to any fossil product during refinery, before anything leaves
+the plant.
+
+---
+
+What is the underlying technological assumption though? If you burn
+fossil like today, sure its bad. But convert to renewable fuel at the
+source through ccs, not so bad. Tech assumptions cannot solely be
+based on pedestrian views of office-dwelling, white-collar,
+have-an-app-for-that "electric" crowd.
+
+"Climate change: Fossil fuels must stay underground, scientists say"
+
+---
+
+Lots known abt this region, probably bcz of the huge US base nearby.
+Some martial arts were likely first taught to *gaijins* here.
+
+---
+
+The Okinawan [diet](https://www.healthline.com/nutrition/okinawa-diet).
+These ppl live healthy long life.
+
+---
+
+National narrative needs to be compatible with the underlying
+culture..  Otherwise there will be neurotic behaviour.. That's why
+there is so much neuroticism, especially in politics, in so-called
+Turkey.
 
 ---
 

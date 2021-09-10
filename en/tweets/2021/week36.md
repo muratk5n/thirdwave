@@ -1,5 +1,32 @@
 # Week 36
 
+WSJ: "Japan Prime Minister Contender Takes Harder Line on
+Missile-Strike Ability.. Japan needs to consider building a
+missile-strike capability against potential foes including China and
+North Korea, former Foreign Minister Fumio Kishida said in an
+interview'
+
+---
+
+"Even as air pollution shaves years off life expectancy, fossil fuel
+projects get more funding than clean air initiatives, a global report
+said Tuesday"
+
+[[-]](http://u.afp.com/Ujwq)
+
+---
+
+George Schulz (Rep old timer) sat at Theranos board, his grandson was
+hired as lab tech. Grandson told him stuff doesn't work as advertised
+he wouldn't believe him 🤦‍♂️ Fail all around.
+
+---
+
+Carl Sagan complaining about Beavis and Butthead is pure gold
+
+[[-]](https://pbs.twimg.com/media/E-s5BkdXsAc82NJ?format=jpg&name=small)
+
+---
 
 [Computing AI](../../2021/09/computing-ai.md)
 
