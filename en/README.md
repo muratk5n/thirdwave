@@ -1,86 +1,101 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-<iframe width="340"  src="https://www.youtube.com/embed/C56nnq-ykbE?start=33&end=79" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">wtf our fridge just emailed us to say we opened its door too many times in the past month <a href="https://t.co/MPa2cPHhCC">pic.twitter.com/MPa2cPHhCC</a></p>&mdash; Dan Hon (@hondanhon) <a href="https://twitter.com/hondanhon/status/1436027395115393024?ref_src=twsrc%5Etfw">September 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"Schumer rejects Manchin's 'strategic pause' on $3.5T megabill"
-
-[[-]](http://ow.ly/KWi4102W4bN)
+The Independent: "Newsom campaign theme: Don't let California become Texas"
 
 ---
 
-If no agreement is reached and US leaves the picture I guarantee it
-Israel will attack unilaterally at the first sign of an IRN a-bomb.
+Good good..
 
-"Blinken warns US getting 'closer' to giving up on Iran nuclear deal"
+"Gov. Gavin Newsom is feeling pretty good after polls show the recall
+attempt will go down by double digits"
 
----
-
-ECMWF is the European weather forecasters.
+[[-]](https://www.politico.com/states/california/story/2021/09/09/were-in-a-really-good-place-newsom-says-as-recall-looms-1390847)
 
 ---
 
-A nice back to work [account](https://twitter.com/reuterbal/status/1435507105663000576)
+"UK government terminates one of its data-sharing contracts with Palantir"
 
 ---
 
-Riemann was a genius. Did so much stuff.. A deserving student to the
-great Gauss
+A big motorhome, RV basically, right?
 
 ---
 
-Holmes Brothers - Up Above My Head \#music
+Land yacht? Dam
 
-[[-]](https://youtu.be/qBu7IsyHsHI)
-
----
-
-Dennis Coffey - Ubiquitous \#music
-
-[[-]](https://youtu.be/hOb42sndWYQ)
+[[-]](https://robbreport.com/motors/cars/dembell-lavish-land-yacht-onboard-garage-1234631799/)
 
 ---
 
-"Australia vowed Thursday to keep mining #coal for export and said
-global demand was rising, rejecting a study that warned nearly all its
-reserves must stay in the ground to address the #climate
-crisis"
-
-[[-]](http://u.afp.com/UjbE)
+Reuters: "Shell to join clean hydrogen project in Norway"
 
 ---
 
-CCS isn't only about pulling carbon from the atmosphere. It can be
-applied to any fossil product during refinery, before anything leaves
-the plant.
+
+Storyline preference becomes clear around the issue of identity. They
+usually portray AI as a unique, non-transferable thing... When it is
+sent somewhere it ceases to exist at the source. Why? That's not how
+software works!
 
 ---
 
-What is the underlying technological assumption though? If you burn
-fossil like today, sure its bad. But convert to renewable fuel at the
-source through ccs, not so bad. Tech assumptions cannot solely be
-based on pedestrian views of office-dwelling, white-collar,
-have-an-app-for-that limpdick-electric crowd.
-
-"Climate change: Fossil fuels must stay underground, scientists say"
-
----
-
-Lots known abt this region, probably bcz of the huge US base nearby.
-Some martial arts were likely first taught to *gaijins* here.
+The reason AI come alive story is used more in movies these days is
+not bcz Holywood necessarily knows what the phuck is going on the tech
+side.. They are basically repurposing the Pinoccio story for a new
+domain. The "inanimate object coming alive" angle.. that's
+all. Pinoccio for the good side, Frankenstein for the bad. Old story adapted
+to something new, wout any change in semantics.
 
 ---
 
-The Okinawan [diet](https://www.healthline.com/nutrition/okinawa-diet).
-These ppl live healthy long life.
+"[A] growing body of evidence suggests that mRNA COVID-19 vaccines
+also reduce asymptomatic infection and transmission"
+
+[[-]](https://www.cdc.gov/coronavirus/2019-ncov/science/science-briefs/fully-vaccinated-people.html)
 
 ---
 
-National narrative needs to be compatible with the underlying
-culture..  Otherwise there will be neurotic behaviour.. That's why
-there is so much neuroticism in so-called Turkey, especially in its
-politics.
+Coome to Butt-head..
+
+---
+
+"@josheidelson
+
+House Dems' bill currently would:
+
+- Ban workplace class action waivers
+- Let NLRB impose new fines for violations
+- Ban "captive audience" meetings
+- Protect economic strikes
+- Make misclassification a separate labor law violation
+- Hike OSHA penalties"
+
+[[-]](https://twitter.com/josheidelson/status/1436010192471138304)
+
+---
+
+NYT: "Other People’s Rotten Jobs Are Bad for Them. And for You.. When
+truck drivers are underpaid and overworked, it’s bad for them and also
+bad for us.Researchers have found interesting connections between poor
+working conditions and seemingly unrelated social problems. For
+example, most people don’t think of the opioids crisis as a
+labor-related issue, but research has shown a connection between
+occupations with high workplace injury rates, like construction, and
+opioid overdose fatalities. (People get injured on the job; lacking
+sick days, they take opioids so they can work through the pain.)"
+
+[[-]](https://www.nytimes.com/2021/09/06/opinion/labor-workers-rights.html)
+
+---
+
+İnsanlar yürürken takırt tukurt diye sesler çıkıyormuş.. 'Türk'
+kelimesi burada geliyor
 
 ---
 
