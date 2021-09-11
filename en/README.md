@@ -95,7 +95,7 @@ sick days, they take opioids so they can work through the pain.)"
 ---
 
 İnsanlar yürürken takırt tukurt diye sesler çıkıyormuş.. 'Türk'
-kelimesi burada geliyor
+kelimesi buradan geliyor
 
 ---
 
