@@ -39,7 +39,7 @@ Reuters: "Shell to join clean hydrogen project in Norway"
 
 
 Storyline preference becomes clear around the issue of identity. They
-usually portray AI as a unique, non-transferable thing... When it is
+usually portray AI as a unique, non-copyable thing... When it is
 sent somewhere it ceases to exist at the source. Why? That's not how
 software works!
 
