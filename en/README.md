@@ -54,7 +54,7 @@ ban on abortions to go forward"
 
 ---
 
-Never liked that general area, downtown.. Must have been the the overt
+Never liked that general area, downtown.. Must have been the overt
 finance-vibe.
 
 ---
