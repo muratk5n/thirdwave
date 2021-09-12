@@ -1,9 +1,5 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-*Pandorum*, 2009, was ok.. Nice ending
-
----
-
 Though not listed as an official base S. Korean Jeju island can host
 US mil in a gif, they frequently get US sub and aircraft carrier
 visits anyway.
@@ -30,7 +26,7 @@ Once again, tech looks shiny, but not robust.
 
 ---
 
-Talk to the hand ✋
+*Pandorum*, 2009, was ok.. Nice ending
 
 ---
 
