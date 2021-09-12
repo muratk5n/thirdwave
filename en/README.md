@@ -59,7 +59,7 @@ finance-vibe.
 
 ---
 
-The office building I worked at in NYC was very close to Zuccotti
+One office building I worked at in NYC was very close to Zuccotti
 Park, basically Ground Zero, few years before 9/11. I wasnt there
 during the attack, was near midtown, different company, but still in
 NYC.
