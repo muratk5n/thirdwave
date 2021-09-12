@@ -1,101 +1,92 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">wtf our fridge just emailed us to say we opened its door too many times in the past month <a href="https://t.co/MPa2cPHhCC">pic.twitter.com/MPa2cPHhCC</a></p>&mdash; Dan Hon (@hondanhon) <a href="https://twitter.com/hondanhon/status/1436027395115393024?ref_src=twsrc%5Etfw">September 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+*Pandorum*, 2009, was ok.. Nice ending
 
 ---
 
-The Independent: "Newsom campaign theme: Don't let California become Texas"
+Though not listed as an official base S. Korean Jeju island can host
+US mil in a gif, they frequently get US sub and aircraft carrier
+visits anyway.
+
+[[-]](https://pbs.twimg.com/media/E_AAFZkXEAUWOaE?format=png&name=small)
 
 ---
 
-Good good..
+Osprey aircraft uses tiltrotor tech, very unstable. In recent scifi we
+start seeing more and more quadcopter like aircraft, but these are
+unstable constructions. Forward thrust, glide are more stable, or
+helicopter tech. It takes extreme amt of processing to keep a
+quadcopter aloft, as every hobbyst knows.
 
-"Gov. Gavin Newsom is feeling pretty good after polls show the recall
-attempt will go down by double digits"
+Once again, tech looks shiny, but not robust. 
 
-[[-]](https://www.politico.com/states/california/story/2021/09/09/were-in-a-really-good-place-newsom-says-as-recall-looms-1390847)
-
----
-
-"UK government terminates one of its data-sharing contracts with Palantir"
-
----
-
-A big motorhome, RV basically, right?
+2017: "Nonfatal Osprey crash in Okinawa brings safety fears to fore"
 
 ---
 
-Land yacht? Dam
+🤣 🤣 🤣 
 
-[[-]](https://robbreport.com/motors/cars/dembell-lavish-land-yacht-onboard-garage-1234631799/)
-
----
-
-Reuters: "Shell to join clean hydrogen project in Norway"
+[Photo](https://pbs.twimg.com/media/E-_F_-bXMAEJxsE?format=jpg&name=small)
 
 ---
 
-
-Storyline preference becomes clear around the issue of identity. They
-usually portray AI as a unique, non-copyable thing... When it is
-sent somewhere it ceases to exist at the source. Why? That's not how
-software works!
+Talk to the hand ✋
 
 ---
 
-The reason AI come alive story is used more in movies these days is
-not bcz Holywood necessarily knows what the phuck is going on on the
-tech side.. They are basically repurposing the Pinoccio story for a
-new domain. The "inanimate object coming alive" angle.. that's
-all. Pinoccio for the good side, Frankenstein for the bad. Old story
-adapted to something new, wout any change in semantics.
+Remember RR, this is the guy who waved a gun around on the big screen
+for a living, then he was *shot* by a real gun, in real life. Also the
+founder of modern conservatism.. I think he knew what he was talking
+about.
 
 ---
 
-"[A] growing body of evidence suggests that mRNA COVID-19 vaccines
-also reduce asymptomatic infection and transmission"
-
-[[-]](https://www.cdc.gov/coronavirus/2019-ncov/science/science-briefs/fully-vaccinated-people.html)
+"But guns are a natural con issue". ?? Ronald Reagan was for gun
+control.
 
 ---
 
-Coome to Butt-head..
+The rules of the culture war is that it is fought on moral, or stupid,
+and usually deadlocked issues where there isn't much movement either
+way. That works great, bcz then each side can jump up and down, and
+galvanize "their base" wout causing much change, eg guns issue (until
+it became seriously serious).. Or the climate.
+
+The Atlantic: "Republican Party leaders and conservative intellectuals
+haven’t been trumpeting the Supreme Court’s decision to allow a Texas
+ban on abortions to go forward"
 
 ---
 
-"@josheidelson
-
-House Dems' bill currently would:
-
-- Ban workplace class action waivers
-- Let NLRB impose new fines for violations
-- Ban "captive audience" meetings
-- Protect economic strikes
-- Make misclassification a separate labor law violation
-- Hike OSHA penalties"
-
-[[-]](https://twitter.com/josheidelson/status/1436010192471138304)
+Never liked that general area, downtown.. Must have been the the overt
+finance-vibe.
 
 ---
 
-NYT: "Other People’s Rotten Jobs Are Bad for Them. And for You.. When
-truck drivers are underpaid and overworked, it’s bad for them and also
-bad for us.Researchers have found interesting connections between poor
-working conditions and seemingly unrelated social problems. For
-example, most people don’t think of the opioids crisis as a
-labor-related issue, but research has shown a connection between
-occupations with high workplace injury rates, like construction, and
-opioid overdose fatalities. (People get injured on the job; lacking
-sick days, they take opioids so they can work through the pain.)"
+The office building I worked at in NYC was very close to Zuccotti
+Park, basically Ground Zero, few years before 9/11. I wasnt there
+during the attack, was near midtown, different company, but still in
+NYC.
 
-[[-]](https://www.nytimes.com/2021/09/06/opinion/labor-workers-rights.html)
+20 years.. Wow
 
 ---
 
-İnsanlar yürürken takırt tukurt diye sesler çıkıyormuş.. 'Türk'
-kelimesi buradan geliyor
+Politicians do a lot of work.. these ceremonies man.. go to a place
+dont break composure listen to 2000+ names being read.. Sheesh
+
+---
+
+
+👍
+
+"Australia is ending its zero-covid strategy"
+
+---
+
+👍
+
+"Denmark lifts all Covid restrictions as vaccinations top 80%"
 
 ---
 

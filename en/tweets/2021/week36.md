@@ -1,5 +1,98 @@
 # Week 36
 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">wtf our fridge just emailed us to say we opened its door too many times in the past month <a href="https://t.co/MPa2cPHhCC">pic.twitter.com/MPa2cPHhCC</a></p>&mdash; Dan Hon (@hondanhon) <a href="https://twitter.com/hondanhon/status/1436027395115393024?ref_src=twsrc%5Etfw">September 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+The Independent: "Newsom campaign theme: Don't let California become Texas"
+
+---
+
+Good good..
+
+"Gov. Gavin Newsom is feeling pretty good after polls show the recall
+attempt will go down by double digits"
+
+[[-]](https://www.politico.com/states/california/story/2021/09/09/were-in-a-really-good-place-newsom-says-as-recall-looms-1390847)
+
+---
+
+"UK government terminates one of its data-sharing contracts with Palantir"
+
+---
+
+A big motorhome, RV basically, right?
+
+---
+
+Land yacht? Dam
+
+[[-]](https://robbreport.com/motors/cars/dembell-lavish-land-yacht-onboard-garage-1234631799/)
+
+---
+
+Reuters: "Shell to join clean hydrogen project in Norway"
+
+---
+
+
+Storyline preference becomes clear around the issue of identity. They
+usually portray AI as a unique, non-copyable thing... When it is
+sent somewhere it ceases to exist at the source. Why? That's not how
+software works!
+
+---
+
+The reason AI come alive story is used more in movies these days is
+not bcz Holywood necessarily knows what the phuck is going on on the
+tech side.. They are basically repurposing the Pinoccio story for a
+new domain. The "inanimate object coming alive" angle.. that's
+all. Pinoccio for the good side, Frankenstein for the bad. Old story
+adapted to something new, wout any change in semantics.
+
+---
+
+"[A] growing body of evidence suggests that mRNA COVID-19 vaccines
+also reduce asymptomatic infection and transmission"
+
+[[-]](https://www.cdc.gov/coronavirus/2019-ncov/science/science-briefs/fully-vaccinated-people.html)
+
+---
+
+Coome to Butt-head..
+
+---
+
+"@josheidelson
+
+House Dems' bill currently would:
+
+- Ban workplace class action waivers
+- Let NLRB impose new fines for violations
+- Ban "captive audience" meetings
+- Protect economic strikes
+- Make misclassification a separate labor law violation
+- Hike OSHA penalties"
+
+[[-]](https://twitter.com/josheidelson/status/1436010192471138304)
+
+---
+
+NYT: "Other People’s Rotten Jobs Are Bad for Them. And for You.. When
+truck drivers are underpaid and overworked, it’s bad for them and also
+bad for us.Researchers have found interesting connections between poor
+working conditions and seemingly unrelated social problems. For
+example, most people don’t think of the opioids crisis as a
+labor-related issue, but research has shown a connection between
+occupations with high workplace injury rates, like construction, and
+opioid overdose fatalities. (People get injured on the job; lacking
+sick days, they take opioids so they can work through the pain.)"
+
+[[-]](https://www.nytimes.com/2021/09/06/opinion/labor-workers-rights.html)
+
+---
+
 <iframe width="340"  src="https://www.youtube.com/embed/C56nnq-ykbE?start=33&end=79" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
