@@ -1,18 +1,5 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-
-
-Jerry Springer's show was beating Oprah at its height; and all they did was
-fight.. It was trasher than trash.
-
----
-
-*The Jerry Springer Show*, *American Idol* were definitely the
-stepping stones to the eventual *Hunger Games*. If you think about it,
-there is a connection.
-
----
-
 The mask was not iron.. ? The movie with that name was based on a lie!
 How could that be! 
 
