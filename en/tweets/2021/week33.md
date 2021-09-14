@@ -160,24 +160,7 @@ Report-style action sci-fi starring Hugh Jackman"
 
 ---
 
-Annual count for worldwide fires; based on FIRMS [data](https://firms.modaps.eosdis.nasa.gov/country/)
-
-[Source](fires-world.py)
-
-Downloaded select years, 2000,05, etc. the code below scans
-all countries, counts number of fire (pixels) above a certain
-brightness threshold. 
-
-```
-2000 : 144
-2005 : 4100
-2010 : 7533
-2015 : 11607
-2020 : 16365
-```
-
-Looks bad.. The number of fires increase at each period, in two actually
-doubling.
+[Fires](../../2018/12/fires-history.md)
 
 ---
 
