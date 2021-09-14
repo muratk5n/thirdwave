@@ -55,12 +55,6 @@ there is a connection.
 
 ---
 
-There will never be long-term unity, but if there are distinct
-ideologies in distinct parties around major issues, that will ease
-agreement on other things.
-
----
-
 The single-party, Washingon Consensus was so bad around 90s that
 Clinton could govern as a Southern Ronald Reagan, and Dubya could
 govern as Republican Bill Clinton. Then of course everybody is
