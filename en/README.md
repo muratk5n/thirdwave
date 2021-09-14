@@ -1,12 +1,5 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-
-Baker Brothers - Transition Transmission \#music
-
-[[-]](https://youtu.be/ffpQEzVaDBM)
-
----
-
 "@OccupyDemocrats
 
 BREAKING NEWS: House Democrats announce plans to end Trump’s tax
@@ -20,6 +13,12 @@ It's sad how derivative things are in China. US started talking about
 anti-trust, CH copies it. There is US judgement on external links from
 Apple Store, similar issues are talked about in China. Why didn't you
 think of this shit before, on your own?
+
+---
+
+Baker Brothers - Transition Transmission \#music
+
+[[-]](https://youtu.be/ffpQEzVaDBM)
 
 ---
 
