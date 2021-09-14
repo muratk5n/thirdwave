@@ -1,52 +1,79 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-The mask was not iron.. ? The movie with that name was based on a lie!
-How could that be! 
 
-Wiki: "The Man in the Iron Mask [of France]... was an unidentified
-prisoner who was arrested in 1669 or 1670... No one is known to have
-seen his face, as it was hidden by a mask of black velvet cloth, later
-misreported by Voltaire as an iron mask"
+Baker Brothers - Transition Transmission \#music
+
+[[-]](https://youtu.be/ffpQEzVaDBM)
 
 ---
 
-Extreme
+"@OccupyDemocrats
 
-"*Lettre de cachet* [was a] royal decree whereby an [French] aristocrat
-could have any commoner imprisoned on a whim"
-
----
-
-"@JFrankensteiner
-
-Hunter S. Thompson wrote [this](https://pbs.twimg.com/media/E_CEsR4WYAIVEtI?format=jpg&name=small)
-one week after 9/11, basically called what the 21st Century would become"
+BREAKING NEWS: House Democrats announce plans to end Trump’s tax
+giveaway to billionaires and corporations by raising taxes on
+corporations, Wall Street, companies with foreign corporate income,
+and people who make over $5 million a year"
 
 ---
 
-"@flamingpetty
-
-100% serious when I say the Onion’s 9/11 [coverage](https://pbs.twimg.com/media/E-9NOCNXoA0hbOa?format=jpg&name=900x900)
-deserved a Pulitzer"
-
----
-
-Gold is such a useless thing. Plus its mining is toxic as hell. Its
-use should be discouraged, as jewelry, as a commodity, certainly as a
-"store of value".
-
-Al Jazeera: "Toxic City: The Cost of Gold Mining in South Africa.. Mountains of waste
-from Johannesburg’s omnipresent gold industry may be ruining the
-health of nearby residents"
+It's sad how derivative things are in China. US started talking about
+anti-trust, CH copies it. There is US judgement on external links from
+Apple Store, similar issues are talked about in China. Why didn't you
+think of this shit before, on your own?
 
 ---
 
-How to write lines for Sam Jackson? Basically think of stuff that
-could come before a .. comma motherfucker.. Like you could think of
-"is the sun coming up?" line by thinking of "is the sun coming up,
-motherfucker?", then just dropping the last word.
+At a wide level, on general issues, trying to convince others on views
+is like asking others to change their weight estimate of an ox in
+[this experiment](2020/07/crowd-wisdom.md). Only with independent
+views, the average corrects the error. Ergo if we force someone to
+change their estimate, say from 300 to 200, that would throw off the
+average. The conclusion becomes erroraneous.
 
 ---
+
+"Shipping company Eidesvik’s vessel, the Viking Energy, will be the
+first ship in the world to be equipped with an ammonia-based fuel
+cell"
+
+[[-]](https://www.fraunhofer.de/en/press/research-news/2021/march-2021/worlds-first-hightemperature-ammonia-powered-fuel-cell-for-shipping.html)
+
+---
+
+<iframe width="340" src="https://www.youtube.com/embed/I_ksY6bf_lM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+At its height Jerry Springer's show was beating Oprah; and all they
+did was fight.. Such pure trash.
+
+---
+
+*The Jerry Springer Show*, *American Idol* were definitely the
+stepping stones to the eventual *Hunger Games*. If you think about it,
+there is a connection.
+
+---
+
+There will never be long-term unity, but if there are distinct
+ideologies in distinct parties around major issues, that will ease
+agreement on other things.
+
+---
+
+The single-party, Washingon Consensus was so bad around 90s that
+Clinton could govern as a Southern Ronald Reagan, and Dubya could
+govern as Republican Bill Clinton. Then of course everybody is
+invading somewhere, deregulating, making government "small". What do
+you have left to do politics over? Enter the culture war.
+
+---
+
+Iron production plant in Russia, had 700 workers, now 100. Even the
+crudest automation can eliminate people. \#3W
+
+---
+
 
 ## For Members
 

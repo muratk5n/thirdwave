@@ -1,5 +1,53 @@
 # Week 37
 
+The mask was not iron.. ? The movie with that name was based on a lie!
+How could that be! 
+
+Wiki: "The Man in the Iron Mask [of France]... was an unidentified
+prisoner who was arrested in 1669 or 1670... No one is known to have
+seen his face, as it was hidden by a mask of black velvet cloth, later
+misreported by Voltaire as an iron mask"
+
+---
+
+Extreme
+
+"*Lettre de cachet* [was a] royal decree whereby an [French] aristocrat
+could have any commoner imprisoned on a whim"
+
+---
+
+"@JFrankensteiner
+
+Hunter S. Thompson wrote [this](https://pbs.twimg.com/media/E_CEsR4WYAIVEtI?format=jpg&name=small)
+one week after 9/11, basically called what the 21st Century would become"
+
+---
+
+"@flamingpetty
+
+100% serious when I say the Onion’s 9/11 [coverage](https://pbs.twimg.com/media/E-9NOCNXoA0hbOa?format=jpg&name=900x900)
+deserved a Pulitzer"
+
+---
+
+Gold is such a useless thing. Plus its mining is toxic as hell. Its
+use should be discouraged, as jewelry, as a commodity, certainly as a
+"store of value".
+
+Al Jazeera: "Toxic City: The Cost of Gold Mining in South Africa.. Mountains of waste
+from Johannesburg’s omnipresent gold industry may be ruining the
+health of nearby residents"
+
+---
+
+How to write lines for Sam Jackson? Basically think of stuff that
+could come before a .. comma motherfucker.. Like you could think of
+"is the sun coming up?" line by thinking of "is the sun coming up,
+motherfucker?", then just dropping the last word.
+
+---
+
 Though not listed as an official base S. Korean Jeju island can host
 US mil in a gif, they frequently get US sub and aircraft carrier
 visits anyway.
