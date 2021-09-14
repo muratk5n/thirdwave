@@ -23,15 +23,6 @@ think of this shit before, on your own?
 
 ---
 
-At a wide level, on general issues, trying to convince others on views
-is like asking others to change their weight estimate of an ox in
-[this experiment](2020/07/crowd-wisdom.md). Only with independent
-views, the average corrects the error. Ergo if we force someone to
-change their estimate, say from 300 to 200, that would throw off the
-average. The conclusion becomes erroraneous.
-
----
-
 "Shipping company Eidesvik’s vessel, the Viking Energy, will be the
 first ship in the world to be equipped with an ammonia-based fuel
 cell"
