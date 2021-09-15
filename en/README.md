@@ -13,6 +13,10 @@ industry"
 
 ---
 
+Cali recall loses. Mob rule averted.
+
+---
+
 Score
 
 Al Jazeera: "Norway’s left-wing opposition wins election in a landslide"
