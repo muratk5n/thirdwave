@@ -33,7 +33,7 @@ Azeris are similar in culture to Georgia, even Armenians..
 ---
 
 "There are other movies in Marvel Universe". Sure, and Russos directed
-four of them! The highest grossing ones too
+four of them! 
 
 ---
 
