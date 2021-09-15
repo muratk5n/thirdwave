@@ -1,63 +1,55 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-"@OccupyDemocrats
+Directed-energy weapons.. Lasers? Will there be sharks?
 
-BREAKING NEWS: House Democrats announce plans to end Trump’s tax
-giveaway to billionaires and corporations by raising taxes on
-corporations, Wall Street, companies with foreign corporate income,
-and people who make over $5 million a year"
+Jane's Defense: "UK reveals contracts for new directed-energy weapon demonstrators"
 
 ---
 
-It's sad how derivative things are in China. US started talking about
-anti-trust, CH copies it. There is US judgement on external links from
-Apple Store, similar issues are talked about in China. Why didn't you
-think of this shit before, on your own?
+The Guardian: "Norway’s left-leaning parties begin talks to form a
+government.. [who won] a landslide victory in elections dominated by the
+climate crisis and the future of the country’s huge oil and gas
+industry"
 
 ---
 
-Baker Brothers - Transition Transmission \#music
+\o|
 
-[[-]](https://youtu.be/ffpQEzVaDBM)
-
----
-
-"Shipping company Eidesvik’s vessel, the Viking Energy, will be the
-first ship in the world to be equipped with an ammonia-based fuel
-cell"
-
-[[-]](https://www.fraunhofer.de/en/press/research-news/2021/march-2021/worlds-first-hightemperature-ammonia-powered-fuel-cell-for-shipping.html)
+Al Jazeera: "Norway’s left-wing opposition wins election in a landslide"
 
 ---
 
-<iframe width="340" src="https://www.youtube.com/embed/I_ksY6bf_lM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Azeris are similar in culture to Georgia, even Armenians.. It would be
+a stretch to call them Turks.. It's a defunct identity even for
+Anatolia.
 
 ---
 
-At its height Jerry Springer's show was beating Oprah; and all they
-did was fight.. Such pure trash.
+<iframe width="340" src="https://www.youtube.com/embed/bDmdfZ3lOvI?start=3&end=323" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-*The Jerry Springer Show*, *American Idol* were definitely the
-stepping stones to the eventual *Hunger Games*. If you think about it,
-there is a connection.
+"There are other movies in Marvel Universe". Sure, and Russos directed
+four of them! The highest grossing ones too
 
 ---
 
-The single-party, Washingon Consensus was so bad around 90s that
-Clinton could govern as a Southern Ronald Reagan, and Dubya could
-govern as Republican Bill Clinton. Then of course everybody is
-invading somewhere, deregulating, making government "small". What do
-you have left to do politics over? Enter the culture war.
+Quo vadis KF? Tussling with Disney upper ranks? Someone just brought a
+tank to your gun fight.. 
 
 ---
 
-Iron production plant in Russia, had 700 workers, now 100. Even the
-crudest automation can eliminate people. \#3W
+Russo brothers are great directors.. CA W Soldier was a masterpiece.
+
+They probably dont want to put up with all the SJW bullshit.. Message
+to Feige?
+
+"Black Widow lawsuit may stop the Russo brothers directing another
+Marvel movie"
+
+[[-]](https://www.gamesradar.com/scarlett-johanssons-black-widow-lawsuit-may-stop-the-russo-brothers-directing-another-marvel-movie/)
 
 ---
-
 
 ## For Members
 

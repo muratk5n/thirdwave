@@ -127,7 +127,7 @@ Clean [H2]. Australia, Austria, Canada, Chile, China, Germany, India,
 Italy, Morocco, Norway, SaudiArabia, South Korea and UK to
 collaborate"
 
-[Link](https://bit.ly/34DYhID )
+[Link](https://bit.ly/34DYhID)
 
 ---
 

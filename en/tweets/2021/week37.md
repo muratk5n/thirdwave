@@ -1,5 +1,63 @@
 # Week 37
 
+"@OccupyDemocrats
+
+BREAKING NEWS: House Democrats announce plans to end Trump’s tax
+giveaway to billionaires and corporations by raising taxes on
+corporations, Wall Street, companies with foreign corporate income,
+and people who make over $5 million a year"
+
+---
+
+It's sad how derivative things are in China. US started talking about
+anti-trust, CH copies it. There is US judgement on external links from
+Apple Store, similar issues are talked about in China. Why didn't you
+think of this shit before, on your own?
+
+---
+
+Baker Brothers - Transition Transmission \#music
+
+[[-]](https://youtu.be/ffpQEzVaDBM)
+
+---
+
+"Shipping company Eidesvik’s vessel, the Viking Energy, will be the
+first ship in the world to be equipped with an ammonia-based fuel
+cell"
+
+[[-]](https://www.fraunhofer.de/en/press/research-news/2021/march-2021/worlds-first-hightemperature-ammonia-powered-fuel-cell-for-shipping.html)
+
+---
+
+<iframe width="340" src="https://www.youtube.com/embed/I_ksY6bf_lM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+At its height Jerry Springer's show was beating Oprah; and all they
+did was fight.. Such pure trash.
+
+---
+
+*The Jerry Springer Show*, *American Idol* were definitely the
+stepping stones to the eventual *Hunger Games*. If you think about it,
+there is a connection.
+
+---
+
+The single-party, Washingon Consensus was so bad around 90s that
+Clinton could govern as a Southern Ronald Reagan, and Dubya could
+govern as Republican Bill Clinton. Then of course everybody is
+invading somewhere, deregulating, making government "small". What do
+you have left to do politics over? Enter the culture war.
+
+---
+
+Iron production plant in Russia, had 700 workers, now 100. Even the
+crudest automation can eliminate people. \#3W
+
+---
+
 The mask was not iron.. ? The movie with that name was based on a lie!
 How could that be! 
 
