@@ -13,7 +13,7 @@ industry"
 
 ---
 
-\o|
+Score
 
 Al Jazeera: "Norway’s left-wing opposition wins election in a landslide"
 
