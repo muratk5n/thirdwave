@@ -42,10 +42,9 @@ tank to your gun fight..
 
 ---
 
-Russo brothers are great directors.. CA W Soldier was a masterpiece.
-
-They probably dont want to put up with all the SJW bullshit.. Message
-to Feige?
+Russo brothers are great directors.. CA W Soldier was great work. They
+probably dont want to put up with all the SJW bullshit.. Message to
+Feige?
 
 "Black Widow lawsuit may stop the Russo brothers directing another
 Marvel movie"
