@@ -19,9 +19,12 @@ Al Jazeera: "Norway’s left-wing opposition wins election in a landslide"
 
 ---
 
-Azeris are similar in culture to Georgia, even Armenians.. It would be
-a stretch to call them Turks.. It's a defunct identity even for
-Anatolia.
+It would be a stretch to call them Turks.. It's a weak identity
+even for Anatolia.
+
+---
+
+Azeris are similar in culture to Georgia, even Armenians.. 
 
 ---
 
