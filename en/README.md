@@ -6,8 +6,8 @@ Jane's Defense: "UK reveals contracts for new directed-energy weapon demonstrato
 
 ---
 
-Cali recall loses, great. Now remove the law allowing it so this
-circus does not happen again.
+Cali recall loses, great. Now remove the law allowing it so the circus
+does not repeat.
 
 ---
 
@@ -29,7 +29,7 @@ even for Anatolia.
 
 ---
 
-Azeris are similar in culture to Georgia, even Armenians.. 
+Azeris are similar in culture to Georgia, even to Armenians.. 
 
 ---
 
