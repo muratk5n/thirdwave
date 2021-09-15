@@ -6,14 +6,14 @@ Jane's Defense: "UK reveals contracts for new directed-energy weapon demonstrato
 
 ---
 
+Cali recall loses. Mob rule averted.
+
+---
+
 The Guardian: "Norway’s left-leaning parties begin talks to form a
 government.. [who won] a landslide victory in elections dominated by the
 climate crisis and the future of the country’s huge oil and gas
 industry"
-
----
-
-Cali recall loses. Mob rule averted.
 
 ---
 
