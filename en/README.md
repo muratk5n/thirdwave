@@ -6,7 +6,8 @@ Jane's Defense: "UK reveals contracts for new directed-energy weapon demonstrato
 
 ---
 
-Cali recall loses. Mob rule averted.
+Cali recall loses, great. Now remove the law allowing it so this
+circus does not happen again.
 
 ---
 
