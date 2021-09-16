@@ -77,14 +77,6 @@ foundation of anything"
 
 ---
 
-There was a period when friends brought me me up-to-date on classic
-jokes in US.. In a short period of time, so I laughed my ass off. The
-knock-knock jokes, etc. "Knock knock.. who's there..? The impatient
-cow. The impatient cow w.. [you have to interrupt here, and jump in
-with] Moo!". Fantastic.
-
----
-
 ## For Members
 
 [Link](https://thirdwave-members.herokuapp.com)
