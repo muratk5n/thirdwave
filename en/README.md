@@ -59,11 +59,10 @@ captures the delusion of mainstream AI as it was in the early 2020’s"
 
 "@alexchaomander
 
-All these have led @GaryMarcus and Davis to conclude that relabeling
-'pretrained language models' as foundation models is misleading and
-ultimately detrimental to the foundations that AI needs. If we don't
-understand how these models work, why call them foundation models at
-all?"
+[..R]elabeling 'pretrained language models' as foundation models is
+misleading and ultimately detrimental to the foundations that AI
+needs. If we don't understand how these models work, why call them
+foundation models at all?"
 
 ---
 
