@@ -14,6 +14,8 @@
 
 ---
 
+Yea bunch of rich people keep going up there, clean your shit up
+
 "@BreezyScroll
 
 Apple co-founder Steve Wozniak starts a new space company Privateer,
