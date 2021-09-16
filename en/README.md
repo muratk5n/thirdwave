@@ -1,60 +1,91 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-Directed-energy weapons.. Lasers? Will there be sharks?
 
-Jane's Defense: "UK reveals contracts for new directed-energy weapon demonstrators"
 
----
+"Hydrogen as New Coal in the #German Ruhr Area"
 
-Cali recall loses, great. Now remove the law allowing it so the circus
-does not repeat.
+[[-]](https://bit.ly/3Cgcni4)
 
 ---
 
-The Guardian: "Norway’s left-leaning parties begin talks to form a
-government.. [who won] a landslide victory in elections dominated by the
-climate crisis and the future of the country’s huge oil and gas
-industry"
+"India Approves $3.5 Billion Scheme to Boost CleanFuel Hydrogen Vehicles"
+
+[[-]](https://bit.ly/3kbYETa)
 
 ---
 
-Score
+US is getting in cleaning-shit-up mode..? 
 
-Al Jazeera: "Norway’s left-wing opposition wins election in a landslide"
+"@BreezyScroll
 
----
-
-It would be a stretch to call them Turks.. It's a weak identity
-even for Anatolia.
+Apple co-founder Steve Wozniak starts a new space company Privateer,
+to clean up space debris"
 
 ---
 
-Azeris are similar in culture to Georgia, even to Armenians.. 
+"Boeing's Fatal Flaw | FRONTLINE" (53 mins)
+
+[[-]](https://youtu.be/wXMO0bhPhCw)
 
 ---
 
-<iframe width="340" src="https://www.youtube.com/embed/bDmdfZ3lOvI?start=3&end=323" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Oh it's coming.. wait another century and boom. Francois is your uncle.
 
 ---
 
-"There are other movies in Marvel Universe". Sure, and Russos directed
-four of them! 
+According to Trek canon wasnt 22nd century supposed to be European
+alliance centric? Never say never. 
 
 ---
 
-Quo vadis KF? Tussling with Disney upper ranks? Someone just brought a
-tank to your gun fight.. 
+Von der Leyen H2 reference FTW
 
 ---
 
-Russo brothers are great directors.. CA W Soldier was great work. This
-recent kerkuffle revolves around that SJW bullshit.. Message to
-Feige
+State Of the European Union. The word union fits more naturally to EU anyway.
 
-"Black Widow lawsuit may stop the Russo brothers directing another
-Marvel movie"
+---
 
-[[-]](https://www.gamesradar.com/scarlett-johanssons-black-widow-lawsuit-may-stop-the-russo-brothers-directing-another-marvel-movie/)
+SOTEU: I like the acronym
+
+---
+
+Norm McDonald RIP
+
+---
+
+"@GaryMarcus
+
+a [joke](https://twitter.com/berilsirmacek/status/1437811058069098501) that nicely
+captures the delusion of mainstream AI as it was in the early 2020’s"
+
+---
+
+"@alexchaomander
+
+All these have led @GaryMarcus and Davis to conclude that relabeling
+'pretrained language models' as foundation models is misleading and
+ultimately detrimental to the foundations that AI needs. If we don't
+understand how these models work, why call them foundation models at
+all?"
+
+---
+
+"@AngeloDalli
+
+Stanford’s #AI Foundation models are interesting but do not handle
+causality and will never lead to proper explanations - not really the
+foundation of anything"
+
+[[-]](https://twitter.com/AngeloDalli/status/1437434536078585857)
+
+---
+
+There was a period when friends brought me me up-to-date on classic
+jokes in US.. In a short period of time, so I laughed my ass off. The
+knock-knock jokes, etc. "Knock knock.. who's there..? The impatient
+cow. The impatient cow w.. [you have to interrupt here, and jump in
+with] Moo!". Fantastic.
 
 ---
 

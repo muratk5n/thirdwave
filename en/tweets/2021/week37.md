@@ -1,5 +1,63 @@
 # Week 37
 
+Directed-energy weapons.. Lasers? Will there be sharks?
+
+Jane's Defense: "UK reveals contracts for new directed-energy weapon demonstrators"
+
+---
+
+Cali recall loses, great. Now remove the law allowing it so the circus
+does not repeat.
+
+---
+
+The Guardian: "Norway’s left-leaning parties begin talks to form a
+government.. [who won] a landslide victory in elections dominated by the
+climate crisis and the future of the country’s huge oil and gas
+industry"
+
+---
+
+Score
+
+Al Jazeera: "Norway’s left-wing opposition wins election in a landslide"
+
+---
+
+It would be a stretch to call them Turks.. It's a weak identity
+even for Anatolia.
+
+---
+
+Azeris are similar in culture to Georgia, even to Armenians.. 
+
+---
+
+<iframe width="340" src="https://www.youtube.com/embed/bDmdfZ3lOvI?start=3&end=323" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+"There are other movies in Marvel Universe". Sure, and Russos directed
+four of them! 
+
+---
+
+Quo vadis KF? Tussling with Disney upper ranks? Someone just brought a
+tank to your gun fight.. 
+
+---
+
+Russo brothers are great directors.. CA W Soldier was great work. This
+recent kerkuffle revolves around that SJW bullshit.. Message to
+Feige
+
+"Black Widow lawsuit may stop the Russo brothers directing another
+Marvel movie"
+
+[[-]](https://www.gamesradar.com/scarlett-johanssons-black-widow-lawsuit-may-stop-the-russo-brothers-directing-another-marvel-movie/)
+
+---
+
 "@OccupyDemocrats
 
 BREAKING NEWS: House Democrats announce plans to end Trump’s tax
