@@ -14,8 +14,6 @@
 
 ---
 
-US is getting in cleaning-shit-up mode..? 
-
 "@BreezyScroll
 
 Apple co-founder Steve Wozniak starts a new space company Privateer,
