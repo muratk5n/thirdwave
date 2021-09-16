@@ -42,7 +42,7 @@ Von der Leyen H2 reference FTW
 
 ---
 
-State Of the European Union. The word union fits more naturally to EU anyway.
+State Of the European Union. The word union fits more naturally to EU
 
 ---
 
