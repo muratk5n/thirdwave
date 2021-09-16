@@ -50,10 +50,6 @@ SOTEU: I like the acronym
 
 ---
 
-Norm McDonald RIP
-
----
-
 "@GaryMarcus
 
 a [joke](https://twitter.com/berilsirmacek/status/1437811058069098501) that nicely
