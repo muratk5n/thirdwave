@@ -33,8 +33,8 @@ Oh it's coming.. wait another century and boom. Francois is your uncle.
 
 ---
 
-According to Trek canon wasnt 22nd century supposed to be European
-alliance centric? Never say never. 
+According to Trek canon wasnt 22nd century supposed to have a European
+hegemony? Never say never.
 
 ---
 
