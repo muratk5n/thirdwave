@@ -6,7 +6,7 @@
 
 ---
 
-"India Approves $3.5 Billion Scheme to Boost CleanFuel Hydrogen Vehicles"
+"India Approves $3.5 Billion Scheme to Boost Clean Fuel Hydrogen Vehicles"
 
 [[-]](https://bit.ly/3kbYETa)
 
