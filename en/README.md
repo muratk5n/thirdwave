@@ -26,7 +26,7 @@ partner.
 
 ---
 
-What happened to UK's CANZUK? 😶
+AUKUS.. What happened to UK's CANZUK? 😶
 
 ---
 
