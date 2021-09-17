@@ -1,5 +1,79 @@
 # Week 37
 
+"Hydrogen as New Coal in the German Ruhr Area"
+
+[[-]](https://bit.ly/3Cgcni4)
+
+---
+
+"India Approves $3.5 Billion Scheme to Boost Clean Fuel Hydrogen Vehicles"
+
+[[-]](https://bit.ly/3kbYETa)
+
+---
+
+Yea bunch of rich people keep going up there, clean your shit up
+
+"@BreezyScroll
+
+Apple co-founder Steve Wozniak starts a new space company Privateer,
+to clean up space debris"
+
+---
+
+"Boeing's Fatal Flaw, Frontline" (53 mins)
+
+[[-]](https://youtu.be/wXMO0bhPhCw)
+
+---
+
+Oh it's coming.. wait another century and boom. Francois is your uncle.
+
+---
+
+According to Trek canon wasnt 22nd century supposed to be about a European
+hegemony? Never say never.
+
+---
+
+Von der Leyen H2 reference FTW
+
+---
+
+State Of the European Union. The word union fits more naturally to the EU
+
+---
+
+SOTEU: I like the acronym
+
+---
+
+"@GaryMarcus
+
+a [joke](https://twitter.com/berilsirmacek/status/1437811058069098501) that nicely
+captures the delusion of mainstream AI as it was in the early 2020’s"
+
+---
+
+"@alexchaomander
+
+[..R]elabeling 'pretrained language models' as foundation models is
+misleading and ultimately detrimental to the foundations that AI
+needs. If we don't understand how these models work, why call them
+foundation models at all?"
+
+---
+
+"@AngeloDalli
+
+Stanford’s #AI Foundation models are interesting but do not handle
+causality and will never lead to proper explanations - not really the
+foundation of anything"
+
+[[-]](https://twitter.com/AngeloDalli/status/1437434536078585857)
+
+---
+
 Directed-energy weapons.. Lasers? Will there be sharks?
 
 Jane's Defense: "UK reveals contracts for new directed-energy weapon demonstrators"

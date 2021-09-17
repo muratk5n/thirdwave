@@ -123,6 +123,8 @@ of profits kept seaborne commerce going throughout both world wars and
 the 1980–88 Iran-Iraq War, wars in which shipping losses were several
 times greater than what China could hope to inflict on Taiwan...
 
+<a name='sub'/>
+
 [Due to amphibious difficulties] China, therefore, probably could
 not conquer Taiwan, even in the absence of U.S. intervention. Even if
 China’s prospects are better than I have suggested, the PLA clearly

@@ -1,76 +1,72 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-"Hydrogen as New Coal in the German Ruhr Area"
+"@CalMatters
 
-[[-]](https://bit.ly/3Cgcni4)
-
----
-
-"India Approves $3.5 Billion Scheme to Boost Clean Fuel Hydrogen Vehicles"
-
-[[-]](https://bit.ly/3kbYETa)
+California Democrats already pushing to change state recall process:
+'Californians are very frustrated that we just spent $276 million on
+this recall election'"
 
 ---
 
-Yea bunch of rich people keep going up there, clean your shit up
-
-"@BreezyScroll
-
-Apple co-founder Steve Wozniak starts a new space company Privateer,
-to clean up space debris"
+"California GOP licks wounds after another lopsided loss"
 
 ---
 
-"Boeing's Fatal Flaw, Frontline" (53 mins)
+Isnt NZ away from the center of things? They are to the south of AU,
+not in "theather" in case of serious binness.
 
-[[-]](https://youtu.be/wXMO0bhPhCw)
-
----
-
-Oh it's coming.. wait another century and boom. Francois is your uncle.
-
----
-
-According to Trek canon wasnt 22nd century supposed to be about a European
-hegemony? Never say never.
+The Guardian: "New Zealand’s longstanding nuclear-free policy also
+means that Australian submarines developed under the deal are banned
+from New Zealand waters"
 
 ---
 
-Von der Leyen H2 reference FTW
+Cant do without US in that region... AU was already a major partner of
+US.
 
 ---
 
-State Of the European Union. The word union fits more naturally to the EU
+What happened to UK's CANZUK? 😶
 
 ---
 
-SOTEU: I like the acronym
+Sub deal is probably done to take care of [this work](2021/03/unrivaled-beckley.md#sub),
+Then US does not have to commit its own forces, AU will step up. 
+
+AU is loading for bear, any potential Taiwan invasion will be met by
+their subs. Think about that.
 
 ---
 
-"@GaryMarcus
+Ouch
 
-a [joke](https://twitter.com/berilsirmacek/status/1437811058069098501) that nicely
-captures the delusion of mainstream AI as it was in the early 2020’s"
-
----
-
-"@alexchaomander
-
-[..R]elabeling 'pretrained language models' as foundation models is
-misleading and ultimately detrimental to the foundations that AI
-needs. If we don't understand how these models work, why call them
-foundation models at all?"
+"France lambasts Australia, US after 'stab in back'"
 
 ---
 
-"@AngeloDalli
+"Aukus: UK, US and Australia launch pact to counter China"
 
-Stanford’s #AI Foundation models are interesting but do not handle
-causality and will never lead to proper explanations - not really the
-foundation of anything"
+---
 
-[[-]](https://twitter.com/AngeloDalli/status/1437434536078585857)
+Oz dropped France's bid to get it
+
+"In Surprise Move US, UK Agree To Share Nuclear Submarine Tech With Australia "
+
+---
+
+"@BW
+
+We wanted flying cars. Instead we got targeted ads, more surveillance,
+insurrectionists, and Peter Thiel. The inside story of how he gamed
+Trump, Silicon Valley’s biggest executives, and democracy itself to
+make billions, tax-free"
+
+---
+
+Better than invading.. 
+
+"The Biden administration will withhold $130 million worth of military
+aid to Egypt until Cairo takes specific steps related to human rights"
 
 ---
 
