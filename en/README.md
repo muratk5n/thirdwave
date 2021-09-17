@@ -31,7 +31,7 @@ What happened to UK's CANZUK? 😶
 ---
 
 Sub deal is probably done to take care of [this work](2021/03/unrivaled-beckley.md#sub),
-US wont not have to commit its own forces, AU will step up. 
+US wont use its own forces, AU will step up. 
 
 AU is loading for bear, any potential Taiwan invasion will be met by
 their subs. Think about that.
