@@ -21,8 +21,8 @@ from New Zealand waters"
 
 ---
 
-Most countries in the region apparently prefer US... AU was already a
-major partner.
+Countries in the region prefer US... AU was already a major
+partner.
 
 ---
 
