@@ -21,7 +21,8 @@ from New Zealand waters"
 
 ---
 
-Cant do without US in that region... AU was already a major US partner.
+Most countries in the region apparently prefer US... AU was already a
+major partner.
 
 ---
 
