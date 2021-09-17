@@ -61,6 +61,8 @@ insurrectionists, and Peter Thiel. The inside story of how he gamed
 Trump, Silicon Valley’s biggest executives, and democracy itself to
 make billions, tax-free"
 
+[[-]](https://twitter.com/BW/status/1438181001671348227)
+
 ---
 
 Better than invading.. 
