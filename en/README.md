@@ -12,8 +12,8 @@ this recall election'"
 
 ---
 
-NZ seems away from the center of things.. to the south of AU, not in
-"theather" in case of conflict.
+NZ seems away from the center of things anyway, to the south of AU,
+not in "theather" in case of conflict.
 
 The Guardian: "New Zealand’s longstanding nuclear-free policy also
 means that Australian submarines developed under the deal are banned
