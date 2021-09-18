@@ -46,7 +46,7 @@ Noone should actively seek for such a state of dysfunction, dystopia.
 
 ---
 
-"The ambitions of [Paypal mafia] have often gone hand in hand with
+"The ambitions of [the Paypal mafia] have often gone hand in hand with
 Thiel’s extremist libertarian political project: a reorganization of
 civilization that would shift power from traditional
 institutions—e.g., mainstream media, democratically elected
