@@ -49,7 +49,7 @@ single-party, Washington Consensus could continue unimpeeded..
 Conservatives could likely compromise on gun control (see Ronald
 Reagan) or for climate protection (see Richard Nixon) but the
 single-party rule needed the "secondary" issues to be radicalized. To
-that end they could always point to a libertarian to justify these
+that end Reps could always point to a libertarian to justify these
 extreme positions, 'look these guys over there are against it, gun
 control is too much government, climate protection is, well, too much
 government, and they are quoting some 18 century jagoff, so they must
