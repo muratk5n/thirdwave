@@ -58,7 +58,7 @@ have a point"..
 Libertarians are the useful idiots in this picture bcz they would
 never get their zero-deficit no-war wishes from the single-party,
 instead they became tools to blunt the visible stupidity of the
-culture war, providing the much needed ideological paint for it.
+culture war, providing the much needed ideological paintjob.
 
 ---
 
