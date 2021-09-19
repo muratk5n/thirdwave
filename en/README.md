@@ -16,8 +16,6 @@ Commotion? Hoo-ha..? Hurly burly?
 
 ---
 
-Kerkuffle going on
-
 WSJ: "France Recalls Ambassadors to U.S., Australia Over Submarine Deal"
 
 ---
