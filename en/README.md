@@ -42,9 +42,9 @@ celebrate the bombing of Libya.
 
 ---
 
-Libertarians, mostly unknowingly, provided the much-needed ideological
-support for the Rep/Dem culture war, so that the single-party,
-Washington Consensus could continue unimpeeded..
+Libertarians unknowingly could have provided the much-needed
+ideological support for the Rep/Dem culture war, so that the
+single-party, Washington Consensus could continue unimpeeded..
 
 Conservatives could likely compromise on gun control (see Ronald
 Reagan) or for climate protection (see Richard Nixon) but the
