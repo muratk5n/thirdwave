@@ -37,7 +37,7 @@ Mobilizing the other side was easy. The fall of the Berlin Wall scared
 the shit ouf Dems anyway, they moved to center, low income folk were
 out, office-dwelling shitlibs were in. Dangle little Kennedy-cool in
 front of them, pick and choose from the movements of 60s, done. The
-new crowd could "get red in the face" when Vietnam is mentioned, and
+new crowd could "get red in the face" when Vietnam was mentioned, and
 celebrate the bombing of Libya.
 
 ---
