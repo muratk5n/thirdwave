@@ -39,9 +39,8 @@ Mobilizing the other side was easy. The fall of the Berlin Wall scared
 the shit ouf Dems anyway, they moved to center, low income folk were
 out, office-dwelling shitlibs were in. Dangle little Kennedy-cool in
 front of them, pick and choose from the civil right movement, its era,
-done. "Get red in the face" when Vietnam is mentioned, celebrate the
-bombing of Libya. Mobilize the media, now you have good drama in your
-hands.
+done. The new crowd can "get red in the face" when Vietnam is
+mentioned, and celebrate the bombing of Libya. 
 
 ---
 
