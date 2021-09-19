@@ -31,7 +31,7 @@ condemned those who promote the horse deworming drug for the virus as
 
 Before he dies a decorated WWII German tank commander says "Valhalla
 here I come".  That's the Nazi heaven isn't it? They are from
-Atlantis, they go to Valhalla? Sieg heil muthamukka
+Atlantis, they go to Valhalla? 
 
 ---
 
