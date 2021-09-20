@@ -7,8 +7,8 @@
 ---
 
 This is the downside of polluting the thoughtsphere with artificial
-divisions, bizarre ideas. People twist, turn, becoming pretzel-like in
-their reasoning, while people die.
+culture war artifacts; people have to twist, turn, becoming
+pretzel-like to offer reasoning for simple thing, while people die.
 
 "@RadioFreeTom
 
