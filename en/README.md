@@ -13,7 +13,7 @@ Al Jazeera: "It is time Israel, the West admit the two-state solution is dead"
 The mystique is mostly for marketing. The tech is kludgy, not fit to
 be a currency in the way its maximalists dream about. Glad it was
 created, but have to move on. The gold-replacement angle definitely is
-a no-go as gold itself is not fit as a currency.
+a no-go as gold itself could not serve that function.
 
 ---
 
