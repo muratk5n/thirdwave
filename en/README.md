@@ -6,6 +6,14 @@
 
 ---
 
+"@RadioFreeTom
+
+Breitbart is running a piece that says - I am not kidding - that the
+left is mocking the unvaxed so they'll dig in and never get vaxed and
+die and shift political power to the left"
+
+---
+
 Al Jazeera: "It is time Israel, the West admit the two-state solution is dead"
 
 ---
@@ -69,14 +77,6 @@ bailing his party out"
 On the Sunny Side of the Street \#music
 
 [[-]](https://youtu.be/aeaBMwnWyfQ)
-
----
-
-"@RadioFreeTom
-
-Breitbart is running a piece that says - I am not kidding - that the
-left is mocking the unvaxed so they'll dig in and never get vaxed and
-die and shift political power to the left"
 
 ---
 
