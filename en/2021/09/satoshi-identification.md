@@ -12,13 +12,13 @@ satoshi.compare()
 
 ```text
 sato dict 6364
-gavin-andresen 0.009133992141456493 23821
-hal-finney 0.057810343236745165 19868
-jed-mccaleb 0.02754040560622284 7506
-nick-szabo 0.1325405137299811 33000
-roger-ver 0.01580186622239743 11586
-craig-steven-wright 0.24631775402352696 10055
-wei-dai 0.19017061765423027 25717
+gavin-andresen 0.009 23821
+hal-finney 0.058 19868
+jed-mccaleb 0.028 7506
+nick-szabo 0.133 33000
+roger-ver 0.016 11586
+craig-steven-wright 0.246 10055
+wei-dai 0.19 25717
 ```
 
 According to this, Gavin Andresen's writing, word usage is closest to
