@@ -6,8 +6,9 @@
 
 ---
 
-This is the downside of polluting the thoughtsphere. People twist,
-becoming pretzel-like in their reasoning, while people die.
+This is the downside of polluting the thoughtsphere with artificial
+divisions, bizarre ideas. People twist, turn, becoming pretzel-like in
+their reasoning, while people die.
 
 "@RadioFreeTom
 
