@@ -6,6 +6,10 @@
 
 ---
 
+This is the downside of polluting the thoughtsphere with artificial
+artifacts; people have to twist, turn, turn pretzel-like to offer
+reasoning on simplest things, while people die.
+
 "@RadioFreeTom
 
 Breitbart is running a piece that says - I am not kidding - that the
