@@ -6,6 +6,9 @@
 
 ---
 
+This is the downside of polluting the thoughtsphere. People twist,
+becoming pretzel-like in their reasoning, and people die.
+
 "@RadioFreeTom
 
 Breitbart is running a piece that says - I am not kidding - that the
