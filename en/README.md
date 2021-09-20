@@ -81,12 +81,6 @@ bailing his party out"
 
 ---
 
-On the Sunny Side of the Street \#music
-
-[[-]](https://youtu.be/aeaBMwnWyfQ)
-
----
-
 ## For Members
 
 [Link](https://thirdwave-members.herokuapp.com)
