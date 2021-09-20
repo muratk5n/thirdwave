@@ -22,7 +22,7 @@ friend who does not think that's true". I am not saying it.. My friend says it.
 
 ---
 
-The face looks too generic. I have a [picture of Satoshi](https://pbs.twimg.com/media/E_l7Yz5WQAAZWQb?format=jpg&name=small),
+The face looks too generic. I have a [picture of Satoshi](https://pbs.twimg.com/media/E_szmPgXIAMHAF8?format=jpg&name=small),
 you could have used that.
 
 "Statue honoring mysterious Bitcoin founder unveiled in Budapest"
