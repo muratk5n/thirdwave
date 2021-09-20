@@ -73,7 +73,7 @@ interfere.'"
 
 ---
 
-It's a legit legislation-fu IMO. As long as the shit doesn't hit the fan.
+It's a legit legislation-fu IMO. As long as shit doesn't hit the fan.
 
 The Daily Beast: "Schumer surely concluded that some of his fellow
 Democrats are hesitant to vote for a debt limit increase—and he did
