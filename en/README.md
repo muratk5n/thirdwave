@@ -23,9 +23,9 @@ Al Jazeera: "It is time Israel, the West admit the two-state solution is dead"
 ---
 
 Bitcoin could have benefited from the artificially high attention
-liberterians get in the thought-sphere.. Bright shiny object tech will
-always have libtards to cheer for them, but BTC tech especially
-benefited from the presence of useful idiots.
+liberterians get in the thought-sphere as well.. Bright shiny object
+tech will always have libtards to cheer for them, but BTC tech
+especially benefited from the presence of useful idiots.
 
 ---
 
