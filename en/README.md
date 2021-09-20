@@ -18,6 +18,13 @@ Al Jazeera: "It is time Israel, the West admit the two-state solution is dead"
 
 ---
 
+Bitcoin could have benefited from the artificially high attention
+liberterians get in the thought-sphere.. Bright shiny object tech will
+always have libtards to cheer for them, but BTC tech especially
+benefited from the presence of useful idiots.
+
+---
+
 The mystique is mostly for marketing. The tech is kludgy, not fit to
 be a currency in the way its maximalists dream about. Glad it was
 created, but have to move on. The gold-replacement angle definitely is
