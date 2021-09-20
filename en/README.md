@@ -7,7 +7,7 @@
 ---
 
 This is the downside of polluting the thoughtsphere with artificial
-noise; people have to twist, turn, turn pretzel-like to offer
+noise; people have to twist, turn, become pretzel-like to offer
 reasoning on simplest things, while people die.
 
 "@RadioFreeTom
