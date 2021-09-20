@@ -7,7 +7,7 @@
 ---
 
 This is the downside of polluting the thoughtsphere. People twist,
-becoming pretzel-like in their reasoning, and people die.
+becoming pretzel-like in their reasoning, while people die.
 
 "@RadioFreeTom
 
