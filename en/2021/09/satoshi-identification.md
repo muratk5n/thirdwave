@@ -24,6 +24,10 @@ wei-dai 0.19017061765423027 25717
 According to this, Gavin Andresen's writing, word usage is closest to
 Satoshi.
 
+Code
+
+[satoshi.py](satoshi.py), [util.py](util.py)
+
 References
 
 [1] https://github.com/jlwatson/cs224n-project
