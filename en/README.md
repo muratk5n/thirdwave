@@ -1,87 +1,66 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
----
+🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Saw the photos and had to go see it myself. More than 670,000 white flags are flying on the National Mall memorializing victims of the pandemic. They’ll be out here through October. Stunning and tremendously powerful, sparkling in the evening sunlight. <a href="https://t.co/aV8tYt41Ex">pic.twitter.com/aV8tYt41Ex</a></p>&mdash; Alejandro Alvarez (@aletweetsnews) <a href="https://twitter.com/aletweetsnews/status/1439359038073020418?ref_src=twsrc%5Etfw">September 18, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-This is the downside of polluting the thoughtsphere with artificial
-noise; people have to twist, turn, become pretzel-like to offer
-reasoning on simplest things, while people die.
-
-"@RadioFreeTom
-
-Breitbart is running a piece that says - I am not kidding - that the
-left is mocking the unvaxed so they'll dig in and never get vaxed and
-die and shift political power to the left"
+<blockquote width="200" class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">I wish they had also created a diverse dataset of rugs so that it didn’t confuse black stripes with cliffs and I could finally get my entire house cleaned 😂 <a href="https://t.co/zgPza5pyYw">pic.twitter.com/zgPza5pyYw</a></p>&mdash; Dmitry Krotov (@DimaKrotov) <a href="https://twitter.com/DimaKrotov/status/1436150021792149506?ref_src=twsrc%5Etfw">September 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Al Jazeera: "It is time Israel, the West admit the two-state solution is dead"
+The keyword of today's thought-stream seems to be "what's the point?"
 
 ---
 
-Bitcoin could have benefited from the "steroidified" attention
-liberterians get in the thought-sphere as well.. Bright shiny object
-tech will always have libtards to cheer for them, but BTC benefited
-more from the former group.
+"@jasonhickel
+
+You have to ask yourself: if our economic system actively destroys the
+biosphere *and* fails to meet most people's basic needs, then what is
+actually the point?"
 
 ---
 
-The mystique is mostly for marketing. The tech is kludgy, not fit to
-be a currency in the way its maximalists dream about. Glad it was
-created, but have to move on. The gold-replacement angle definitely is
-a no-go as gold itself could not serve that function.
+Go to Valhalla 
+
+"Building new battery cell plants, which usually cost around 2 billion
+euros ($2.4 billion) apiece, are a key requirement for Volkswagen's
+vision"
 
 ---
 
-"But he wasn't Satoshi, he was Satoshi's friend". Sure. Like "I have a
-friend who does not think that's true". I am not saying it.. My friend says it.
+Aha, the French deal was not nuke based, but diesel..? That matters a
+lot, especially against CH. Then the switch makes more sense, even the
+"at all costs" way it was done. The diplom could've been handled
+better perhaps..
+
+NPR: "The Australian Navy's six Collins-class submarines are set to
+reach the end of their service life in 2036. And in 2016, France was
+chosen over Germany and Japan to help Australia replace its older subs
+with 12 new diesel-electric submarines"
+
+[[-]](https://npr.org/2021/09/19/1038746061/submarine-deal-us-uk-australia-france)
 
 ---
 
-The face looks too generic. I have a [picture of Satoshi](https://pbs.twimg.com/media/E_szmPgXIAMHAF8?format=jpg&name=small),
-you could have used that.
+They had escaped.. into what? That whole general region is already a
+prison for Palestenians. What was the point?
 
-"Statue honoring mysterious Bitcoin founder unveiled in Budapest"
-
-[[-]](https://twitter.com/i/events/1438934163357372421)
+"All escaped Palestenian prisoners have been caught"
 
 ---
 
-Sucks to do politics in Russia
+Great. 
 
-NYT: "[RU] new mansions are encroaching on the lakeshore, despite its
-status as a national park... Ms. Makarova insisted that she was no
-revolutionary and simply wanted everyone to follow the law. The bigger
-issue, she said, was that most Russians fear getting involved in
-politics because of the country’s bloody history. As a result, she
-said, people with access to the levers of power easily take advantage
-of those who don’t. 'Because of these huge cataclysms that happened to
-their families, people realized that nothing depends on them, on
-little people,' Ms. Makarova said. 'You will survive if you do not
-interfere.'"
-
-[[-]](https://www.nytimes.com/2021/09/16/world/europe/russia-election-vote-putin.html)
+Euronews: "Biden is working with the EU to cut climate-wrecking methane emissions"
 
 ---
 
-"[G]uidelines for ships using fuel cells agreed by [a shipping subcommitte]"
+Get them while they are young
 
-[[-]](http://bit.ly/3AkUtKs)
+"@daustinsanders
 
----
+Kid city at the Houston children’s museum has a kid bank where you can
+take on some debt and a kid jail where you can look at kid mugshots"
 
-It's legit legislation-fu IMO. As long as shit doesn't hit the fan.
-
-The Daily Beast: "Schumer surely concluded that some of his fellow
-Democrats are hesitant to vote for a debt limit increase—and he did
-not want to risk their opposition bringing down the entire must-pass
-reconciliation bill. Moving the debt limit to regular legislation with
-a 60-vote threshold allows Schumer to deflect attention from his own
-party’s hesitancy, and instead blame Republican senators for not
-bailing his party out"
+[[-]](https://twitter.com/daustinsanders/status/1439314246421131267)
 
 ---
 

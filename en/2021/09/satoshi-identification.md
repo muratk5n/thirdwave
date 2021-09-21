@@ -1,9 +1,9 @@
 # Satoshi Identification
 
-Used email communication data between BTC programmers, data taken from
-this [1,2] project, raw data here [3], I merely tokenize the messages,
-create a word frequency vector from each message, and compute cosine similarity
-between everyone and "Satoshi".
+Used email communication data between BTC team, data taken from here
+[1,2], and its raw data [3]. Merely tokenized the messages, create a
+word frequency vector for each person, and computed its cosine
+similarity to "Satoshi".
 
 ```python
 import satoshi
@@ -21,16 +21,34 @@ craig-steven-wright 0.246 10055
 wei-dai 0.19 25717
 ```
 
-According to this, Gavin Andresen's writing, word usage is closest to
-Satoshi.
+Gavin Andresen's writing, word usage seems closest.
+
+Using another measure, Kullback-Leibler divergence,
+
+```python
+import satoshi
+satoshi.compare_kl()
+```
+
+```text
+sato dict 6364
+gavin-andresen 0.362
+hal-finney 0.561
+jed-mccaleb 0.213
+nick-szabo 0.893
+roger-ver 0.422
+craig-steven-wright 0.504
+wei-dai 0.751
+```
 
 [Code](satoshi.py)
 
 References
 
-[1] https://github.com/jlwatson/cs224n-project
+[1] [Data on GH](https://github.com/jlwatson/cs224n-project)
 
 [2] [Paper](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1184/reports/6858026.pdf)
 
 [3] [Data](https://drive.google.com/uc?export=view&id=1ZmJyQr1QTg6XyNjdfOZVOZOMEt90z3v-)
 
+[4] [KL Div](https://machinelearningmastery.com/divergence-between-probability-distributions/)
