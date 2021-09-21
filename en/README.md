@@ -47,8 +47,6 @@ prison for Palestenians. What was the point?
 
 ---
 
-Great. 
-
 Euronews: "Biden is working with the EU to cut climate-wrecking methane emissions"
 
 ---
