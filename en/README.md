@@ -6,7 +6,7 @@
 
 ---
 
-The keyword of today's thought-stream seems to be "what's the point?"
+The keywords of today's thought-stream seems to be "what's the point?"
 
 ---
 
