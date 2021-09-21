@@ -176,6 +176,8 @@
 
 [Climate Change](12/climate.md)
 
+[Forest Fire Historical Data](12/fires-history.md)
+
 [Friedman on US, Europe, The World](12/friedman-europe.md)
 
 [Da Collapse, Macro Investing, McCollough](12/macro-mccollough.md)

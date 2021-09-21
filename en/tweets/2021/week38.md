@@ -1,6 +1,5 @@
 # Week 38
 
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Saw the photos and had to go see it myself. More than 670,000 white flags are flying on the National Mall memorializing victims of the pandemic. They’ll be out here through October. Stunning and tremendously powerful, sparkling in the evening sunlight. <a href="https://t.co/aV8tYt41Ex">pic.twitter.com/aV8tYt41Ex</a></p>&mdash; Alejandro Alvarez (@aletweetsnews) <a href="https://twitter.com/aletweetsnews/status/1439359038073020418?ref_src=twsrc%5Etfw">September 18, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---

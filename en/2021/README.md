@@ -52,3 +52,5 @@
 
 [Computing AI](09/computing-ai.md)
 
+[Satoshi Identification](09/satoshi-identification.md)
+
