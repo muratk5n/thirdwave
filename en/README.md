@@ -46,7 +46,7 @@ Konsumentensouveränität
 
 ---
 
-Ozzies wont give. A. Muck. To have better mil protection they would
+Ozzies wont. Give. A. Muck. To have better mil protection they would
 sell all their kangaroos. This is country who sent its soldiers to the
 other side of the world during WWI, bcz of the Brits naval help
 quid-pro-quo, had to provide manpower.. Pertinent piece of history for
