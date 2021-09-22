@@ -32,7 +32,7 @@ were that easy.
 
 ---
 
-Another deluded billionaire.. How much tax does this guy pay?
+Another deluded billionaire.. How much tax does he pay?
 
 "@TimeOutLondon
 
