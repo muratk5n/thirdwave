@@ -47,11 +47,6 @@ the aftermath was not pretty.
 
 ---
 
-At least, last time I checked this was this one... Maybe there are new
-ones..
-
----
-
 😶 
 
 Konsumentensouveränität
