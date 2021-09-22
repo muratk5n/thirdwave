@@ -52,14 +52,6 @@ ones..
 
 ---
 
-Donaudampfschiffahrtselektrizitätenhauptbetriebswerkbauunterbeamtengesellschaft
-
----
-
-Still not the longest German word I've seen
-
----
-
 😶 
 
 Konsumentensouveränität
