@@ -11,10 +11,6 @@ Bolsonaro almost sounded like a sane leader in that speech.
 
 ---
 
-Zee Ping Ping be bitchin
-
----
-
 "@lemasurierjess
 
 Perhaps biggest announcement from #Biden so far is that developed
