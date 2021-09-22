@@ -1,21 +1,14 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-"European Commission awarded €25 M funding to a consortium with 29
-airports, airlines, & industrial partners"
-
-[[-]](https://bit.ly/39nd3Wv)
-
----
-
-Bolsonaro almost sounded like a sane leader in that speech. 
-
----
-
 "@lemasurierjess
 
 Perhaps biggest announcement from #Biden so far is that developed
 world will mobilise $100 bn/year in climate aid for developing
 countries \#UNGA"
+
+---
+
+Bolsonaro almost sounded like a sane leader in that speech. 
 
 ---
 
