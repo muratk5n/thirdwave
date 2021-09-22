@@ -21,6 +21,12 @@ were that easy.
 
 ---
 
+Read the flyer, sounds like a shitlib Valhalla.
+
+The only missing word there was 'vibrant'.
+
+---
+
 Another deluded billionaire.. How much tax does he pay?
 
 "@TimeOutLondon
