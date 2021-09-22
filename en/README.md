@@ -48,7 +48,7 @@ Konsumentensouveränität
 
 Ozzies wont. Give. A. Muck. To have better mil protection they would
 sell all their kangaroos. This is a country who sent its soldiers to
-the other side of the world during WWI, bcz of the Brits naval help
+the other side of the world during WWI, bcz of Brit naval help
 quid-pro-quo, had to provide manpower.. Pertinent piece of history for
 me bcz the soldiers landed on Galipoli, my hood! All the way from
 Australia!
