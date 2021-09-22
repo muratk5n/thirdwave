@@ -1,64 +1,81 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 
+"European Commission awarded €25 M funding to a consortium with 29
+airports, airlines, & industrial partners"
 
-<blockquote width="200" class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">I wish they had also created a diverse dataset of rugs so that it didn’t confuse black stripes with cliffs and I could finally get my entire house cleaned 😂 <a href="https://t.co/zgPza5pyYw">pic.twitter.com/zgPza5pyYw</a></p>&mdash; Dmitry Krotov (@DimaKrotov) <a href="https://twitter.com/DimaKrotov/status/1436150021792149506?ref_src=twsrc%5Etfw">September 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-The keywords of today's thought-stream seems to be "what's the point?"
+[[-]](https://bit.ly/39nd3Wv)
 
 ---
 
-"@jasonhickel
-
-You have to ask yourself: if our economic system actively destroys the
-biosphere *and* fails to meet most people's basic needs, then what is
-actually the point?"
+Bolsonaro almost sounded like a sane leader in that speech. 
 
 ---
 
-Go to Valhalla 
-
-"Building new battery cell plants, which usually cost around 2 billion
-euros ($2.4 billion) apiece, are a key requirement for Volkswagen's
-vision"
+Zee Ping Ping be bitchin
 
 ---
 
-Aha, the French deal was not nuke based, but diesel..? That matters a
-lot, especially against CH. Then the switch makes more sense, even the
-"at all costs" way it was done. The diplom could've been handled
-better perhaps..
+"@lemasurierjess
 
-NPR: "The Australian Navy's six Collins-class submarines are set to
-reach the end of their service life in 2036. And in 2016, France was
-chosen over Germany and Japan to help Australia replace its older subs
-with 12 new diesel-electric submarines"
-
-[[-]](https://npr.org/2021/09/19/1038746061/submarine-deal-us-uk-australia-france)
+Perhaps biggest announcement from #Biden so far is that developed
+world will mobilise $100 bn/year in climate aid for developing
+countries \#UNGA"
 
 ---
 
-They had escaped.. into what? That whole general region is already a
-prison for Palestenians. What was the point?
-
-"All escaped Palestenian prisoners have been caught"
-
----
-
-Euronews: "Biden is working with the EU to cut climate-wrecking methane emissions"
+If "they" wanted to get you, "sterilize you through covid
+vaccinations", I dont think they'd wait until a worldwide crisis, and
+a brand new vaccination campaign. They could do it through food, soft
+drinks like Coca Cola, or measles vaccines which most kids already
+get. They'd just slip it in there, and noone would ever know.. if it
+were that easy.
 
 ---
 
-Get them while they are young
+Another deluded billionaire.. How much tax does this guy pay?
 
-"@daustinsanders
+"@TimeOutLondon
 
-Kid city at the Houston children’s museum has a kid bank where you can
-take on some debt and a kid jail where you can look at kid mugshots"
+A billionaire investor wants to create a new 'sustainable' and
+'equitable' city in the middle of the US desert"
 
-[[-]](https://twitter.com/daustinsanders/status/1439314246421131267)
+---
+
+The FR Tolouse explosion, way back, was very bad, again ammonium
+nitrate, like in Beirut.. Tolouse was abt 1/10'th of that blast, but
+the aftermath was not pretty.
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">how it started vs how it&#39;s going <a href="https://t.co/adbijQbSYX">pic.twitter.com/adbijQbSYX</a></p>&mdash; fuck 12 morg ☭ (@barista__morg) <a href="https://twitter.com/barista__morg/status/1439808665754734592?ref_src=twsrc%5Etfw">September 20, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+At least, last time I checked this was this one... Maybe there are new
+ones..
+
+---
+
+Donaudampfschiffahrtselektrizitätenhauptbetriebswerkbauunterbeamtengesellschaft
+
+---
+
+Still not the longest German word I've seen
+
+---
+
+😶 
+
+Konsumentensouveränität
+
+---
+
+Ozzies wont give. A. Muck. To get better protection they would sell
+all their kangaroos. This is country who sent its soldiers to the
+other side of the world during WWI, bcz of the then naval help from
+Brits and in turn had to provide manpower.. Pertinent piece of history
+for me bcz the soldiers landed on Galipoli, in my home country! All
+the way from Australia!
 
 ---
 
