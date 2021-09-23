@@ -1,7 +1,7 @@
 # Satoshi Identification
 
-Used email communication data between BTC team, data taken from [1,2],
-raw data [3]. Merely tokenized the messages, create a word frequency
+Used email communication data between BTC team, data taken from [1],
+zipped [2]. Merely tokenized the messages, create a word frequency
 vector for each person, and computed its cosine distance to Satoshi's
 vector.
 
@@ -47,8 +47,6 @@ References
 
 [1] [Data on GH](https://github.com/jlwatson/cs224n-project)
 
-[2] [Paper](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1184/reports/6858026.pdf)
+[2] [Data](https://drive.google.com/uc?export=view&id=1ZmJyQr1QTg6XyNjdfOZVOZOMEt90z3v-)
 
-[3] [Data](https://drive.google.com/uc?export=view&id=1ZmJyQr1QTg6XyNjdfOZVOZOMEt90z3v-)
 
-[4] [KL Div](https://machinelearningmastery.com/divergence-between-probability-distributions/)
