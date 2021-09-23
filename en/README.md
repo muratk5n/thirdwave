@@ -3,9 +3,9 @@
 
 European states their trash to Poland and companies there just burn it..?
 
-APNews: "Poland’s prime minister vowed tough measures Tuesday to fight
-a string of illegal fires at garbage dumps and landfills that has been
-producing hazardous smoke..
+APNews: "(2018) Poland’s prime minister vowed tough measures Tuesday
+to fight a string of illegal fires at garbage dumps and landfills that
+has been producing hazardous smoke..
 
 TV stations in Poland have been showing footage of huge clouds of
 smoke billowing into the air from various dump sites, as firefighters
