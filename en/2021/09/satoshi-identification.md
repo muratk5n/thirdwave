@@ -3,7 +3,7 @@
 Used email communication data between BTC team, data taken from [1,2],
 raw data [3]. Merely tokenized the messages, create a word frequency
 vector for each person, and computed its cosine similarity to
-"Satoshi".
+Satoshi's vector.
 
 ```python
 import satoshi
