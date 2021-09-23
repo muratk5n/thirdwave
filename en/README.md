@@ -65,14 +65,14 @@ Hilarious video
 ---
 
 Could be GA.. The BTC code was officially turned over to his upkeep,
-the last email ever from SN to anyone was also sent to GA. His psych
-profile suggests an overdeveloped sense of justice, seeing a lot of
-people wronged by the finance system could push a person like that to
-act. Theres leadership ability; being able to entice people to work in
-orgs, etc -- crucial for an open-source project. Background suggests
-he would have more knowledge than others (in that BTC group) on
-projects crafted for the industry, he co-wrote the VRML standard so
-would know how to present stuff for developer consumption.
+the last email sent from SN was to GA. His psych profile suggests an
+overdeveloped sense of justice, seeing a lot of people wronged by the
+finance system could push a person like that to act. Theres leadership
+ability; being able to entice people to work in orgs, etc -- crucial
+for an open-source project. Background suggests he would have more
+knowledge than others (in that BTC group) on projects crafted for the
+industry, he co-wrote the VRML standard so would know how to present
+stuff for developer consumption.
 
 ---
 
