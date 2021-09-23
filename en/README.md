@@ -1,63 +1,85 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
+
+European states their trash to Poland and companies there just burn it..?
+
+APNews: "Poland’s prime minister vowed tough measures Tuesday to fight
+a string of illegal fires at garbage dumps and landfills that has been
+producing hazardous smoke..
+
+TV stations in Poland have been showing footage of huge clouds of
+smoke billowing into the air from various dump sites, as firefighters
+try to contain the situation"
+
+[[-]](https://apnews.com/article/f9a0f59cf8a44d2d91694c70715a24ac)
+
+---
+
+Momma Gravy - John Pill \#music
+
+[[-]](https://youtu.be/cb3jcLWQfDk)
+
+---
+
 "@lemasurierjess
 
-Perhaps biggest announcement from #Biden so far is that developed
-world will mobilise $100 bn/year in climate aid for developing
-countries \#UNGA"
+Biden ..  promises another half bln vaccine doses for developing world
+'For every one shot we've delivered in America we'll deliver another 3
+shots elsewhere'"
 
 ---
 
-Bolsonaro almost sounded like a sane leader in that speech. 
+*Odd Thomas*. I like it.
 
 ---
 
-If "they" wanted to get you, "sterilize you through covid
-vaccinations", I dont think they'd wait until a worldwide crisis, and
-a brand new vaccination campaign. They could do it through food, soft
-drinks like Coca Cola, or measles vaccines which most kids already
-get. They'd just slip it in there, and noone would ever know.. if it
-were that easy.
+Compsci = *computational* science, not computer science. 
 
 ---
 
-Read the flyer, sounds like a shitlib Valhalla.
-
-The only missing word there was 'vibrant'.
+Hi Bich... Hi Bich... Hi Bich 
 
 ---
 
-Another deluded billionaire.. How much tax does he pay?
-
-"@TimeOutLondon
-
-A billionaire investor wants to create a new 'sustainable' and
-'equitable' city in the middle of the US desert"
-
----
-
-The FR Tolouse explosion, way back, was very bad, again ammonium
-nitrate, like in Beirut.. Tolouse was abt 1/10'th of that blast, but
-the aftermath was not pretty.
+See how he talks about functions, data. "Coders" naturaly understand
+this slant on AI albeit weak, bcz they know how to "run stuff",
+functions (software has them too), so they can intuit the
+approach. This view is one level above complete ignorance. The next
+one requires compsci grok.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">how it started vs how it&#39;s going <a href="https://t.co/adbijQbSYX">pic.twitter.com/adbijQbSYX</a></p>&mdash; fuck 12 morg ☭ (@barista__morg) <a href="https://twitter.com/barista__morg/status/1439808665754734592?ref_src=twsrc%5Etfw">September 20, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+George "Geohot" Hotz
 
 ---
 
-😶 
+🤣 🤣 🤣 
 
-Konsumentensouveränität
+<iframe width="340" src="https://www.youtube.com/embed/cYl6DIxvnzM?start=29&end=44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-Ozzies wont. Give. A. Muck. To have better mil protection they would
-sell all their kangaroos. This is a country who sent its soldiers to
-the other side of the world during WWI, bcz of Brit naval help
-quid-pro-quo, had to provide manpower.. Pertinent piece of history for
-me bcz the soldiers landed on Galipoli, my hood! All the way from
-Australia!
+Hi Bich... Hi Bich... Hi Bich 
+
+Hilarious video
+
+---
+
+Could be GA.. The BTC code was officially turned over to his upkeep,
+the last email ever from SN to anyone was also sent to GA. His psych
+profile suggests an overdeveloped sense of justice, seeing a lot of
+people wronged by the finance system could push a person like that to
+act. Theres leadership ability; being able to entice people to work in
+orgs, etc -- crucial for an open-source project. Background suggests
+he would have more knowledge than others (in that BTC group) on
+projects crafted for the industry, he co-wrote the VRML standard so
+would know how to present stuff for developer consumption.
+
+---
+
+There are other Satoshi N possibilities of course.. According to
+[this](2021/09/satoshi-identification.md) analysis, Gavin Andresen is
+the closest to SN, based on word frequency usage.
 
 ---
 

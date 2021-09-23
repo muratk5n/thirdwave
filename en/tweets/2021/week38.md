@@ -1,5 +1,66 @@
 # Week 38
 
+"@lemasurierjess
+
+Perhaps biggest announcement from #Biden so far is that developed
+world will mobilise $100 bn/year in climate aid for developing
+countries \#UNGA"
+
+---
+
+Bolsonaro almost sounded like a sane leader in that speech. 
+
+---
+
+If "they" wanted to get you, "sterilize you through covid
+vaccinations", I dont think they'd wait until a worldwide crisis, and
+a brand new vaccination campaign. They could do it through food, soft
+drinks like Coca Cola, or measles vaccines which most kids already
+get. They'd just slip it in there, and noone would ever know.. if it
+were that easy.
+
+---
+
+Read the flyer, sounds like a shitlib Valhalla.
+
+The only missing word there was 'vibrant'.
+
+---
+
+Another deluded billionaire.. How much tax does he pay?
+
+"@TimeOutLondon
+
+A billionaire investor wants to create a new 'sustainable' and
+'equitable' city in the middle of the US desert"
+
+---
+
+The FR Tolouse explosion, way back, was very bad, again ammonium
+nitrate, like in Beirut.. Tolouse was abt 1/10'th of that blast, but
+the aftermath was not pretty.
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">how it started vs how it&#39;s going <a href="https://t.co/adbijQbSYX">pic.twitter.com/adbijQbSYX</a></p>&mdash; fuck 12 morg ☭ (@barista__morg) <a href="https://twitter.com/barista__morg/status/1439808665754734592?ref_src=twsrc%5Etfw">September 20, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+😶 
+
+Konsumentensouveränität
+
+---
+
+Ozzies wont. Give. A. Muck. To have better mil protection they would
+sell all their kangaroos. This is a country who sent its soldiers to
+the other side of the world during WWI, bcz of Brit naval help
+quid-pro-quo, had to provide manpower.. Pertinent piece of history for
+me bcz the soldiers landed on Galipoli, my hood! All the way from
+Australia!
+
+---
+
 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 
 
 <blockquote width="200" class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">I wish they had also created a diverse dataset of rugs so that it didn’t confuse black stripes with cliffs and I could finally get my entire house cleaned 😂 <a href="https://t.co/zgPza5pyYw">pic.twitter.com/zgPza5pyYw</a></p>&mdash; Dmitry Krotov (@DimaKrotov) <a href="https://twitter.com/DimaKrotov/status/1436150021792149506?ref_src=twsrc%5Etfw">September 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
