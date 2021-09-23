@@ -29,7 +29,7 @@ shots elsewhere'"
 
 ---
 
-*Odd Thomas*. I like it.
+*Odd Thomas*. Good
 
 ---
 
