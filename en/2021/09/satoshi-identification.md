@@ -1,9 +1,9 @@
 # Satoshi Identification
 
 Used email communication data between BTC team, data taken from [1,2],
-and its raw data [3]. Merely tokenized the messages, create a word
-frequency vector for each person, and computed its cosine similarity
-to "Satoshi".
+raw data [3]. Merely tokenized the messages, create a word frequency
+vector for each person, and computed its cosine similarity to
+"Satoshi".
 
 ```python
 import satoshi
