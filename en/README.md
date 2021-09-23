@@ -72,7 +72,7 @@ ability; being able to entice people to work in orgs, etc -- crucial
 for an open-source project. Background suggests he would have more
 knowledge than others (in that BTC group) on projects crafted for the
 industry, he co-wrote the VRML standard so would know how to present
-stuff for developer consumption.
+stuff for pro developer consumption.
 
 ---
 
