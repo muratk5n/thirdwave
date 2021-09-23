@@ -11,7 +11,7 @@ movie's slogan goes:
 
 About the N word; Richard Pryor was using it during 70s, he was both
 pissing off some people, but he wasnt really aware that he was... So I
-guess the society took some deciding the issue.
+guess the society took some time deciding the issue.
 
 ![](220px-BossNiggerPoster.jpg)
 

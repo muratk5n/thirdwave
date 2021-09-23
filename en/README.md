@@ -1,7 +1,7 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
 
-European states their trash to Poland and companies there just burn it..?
+European states send their trash to Poland and companies there just burn it..?
 
 APNews: "(2018) Poland’s prime minister vowed tough measures Tuesday
 to fight a string of illegal fires at garbage dumps and landfills that
