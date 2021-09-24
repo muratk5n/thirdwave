@@ -30,8 +30,8 @@ def get_eq(minx,maxx,miny,maxy):
 
 import mygeo
 
-lat,lon = 16, -99
-D = 3000
+lat,lon = -23, 135
+D = 5000
 lat1,lon1 = mygeo.to_bearing(lat,lon,np.deg2rad(45),D)
 lat2,lon2 = mygeo.to_bearing(lat,lon,np.deg2rad(225),D)
 minx=np.min((lon1,lon2))

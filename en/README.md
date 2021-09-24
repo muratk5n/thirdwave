@@ -26,7 +26,7 @@ Cruise Operation by 2050 with Hydrogen Fuel-Cell Technology"
 
 ---
 
-AFAIK TSS is DOA.
+TSS is DOA
 
 "Rep. Andy Levin... wants a two-state solution to be official
 U.S. policy, and new legislation he’ll propose tomorrow sets out a
