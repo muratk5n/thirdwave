@@ -1,14 +1,5 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-Good job kid
-
-DW: "Dutch boy wins right to COVID jab despite vaccine-skeptic
-dad.. The 12-year-old wanted the vaccine so he can visit his
-grandmother who is battling lung cancer, and took the case to court as
-his 'pleas were being ignored.'"
-
----
-
 Moller-Maersk is \#1
 
 CNBC: "Several major Danish firms, including Orsted and Moller-Maersk,
