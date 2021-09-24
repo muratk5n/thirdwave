@@ -13,7 +13,7 @@ capacity to generate over 250,000 metric tons of fuel annually.
 
 ---
 
-MSC Cruises is world's \#2 in container shipping
+MSC is world's \#2 in container shipping
 
 "MSC Cruise Lines Pledges to Achieve NetZero Emissions from its
 Cruise Operation by 2050 with Hydrogen Fuel-Cell Technology"
