@@ -1,5 +1,87 @@
 # Week 38
 
+Europeans send their trash to Poland and companies there just burn it..?
+
+APNews: "(2018) Poland’s prime minister vowed tough measures Tuesday
+to fight a string of illegal fires at garbage dumps and landfills that
+has been producing hazardous smoke..
+
+TV stations in Poland have been showing footage of huge clouds of
+smoke billowing into the air from various dump sites, as firefighters
+try to contain the situation"
+
+[[-]](https://apnews.com/article/f9a0f59cf8a44d2d91694c70715a24ac)
+
+---
+
+Momma Gravy - John Pill \#music
+
+[[-]](https://youtu.be/cb3jcLWQfDk)
+
+---
+
+"@lemasurierjess
+
+Biden ..  promises another half bln vaccine doses for developing world
+'For every one shot we've delivered in America we'll deliver another 3
+shots elsewhere'"
+
+---
+
+*Odd Thomas*. Good
+
+---
+
+Compsci = *computational* science, not computer science. 
+
+---
+
+Hi Bich... Hi Bich... Hi Bich 
+
+---
+
+See how he talks about functions, data. "Coders" naturaly understand
+this slant on AI albeit weak, bcz they know how to "run stuff",
+functions (software has them too), so they can intuit the
+approach. This view is one level above complete ignorance. The next
+one requires compsci grok.
+
+---
+
+George "Geohot" Hotz
+
+---
+
+🤣 🤣 🤣 
+
+<iframe width="340" src="https://www.youtube.com/embed/cYl6DIxvnzM?start=29&end=44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+Hi Bich... Hi Bich... Hi Bich 
+
+Hilarious video
+
+---
+
+Could be GA.. The BTC code was officially turned over to his upkeep,
+the last email sent from SN was to GA. His psych profile suggests an
+overdeveloped sense of justice, seeing a lot of people wronged by the
+finance system could push a person like that to act. Theres leadership
+ability; being able to entice people to work in orgs, etc -- crucial
+for an open-source project. Background suggests he would have more
+knowledge than others (in that BTC group) on projects crafted for the
+industry, he co-wrote the VRML standard so would know how to present
+stuff for pro developer consumption.
+
+---
+
+There are other Satoshi N possibilities of course.. According to
+[this](2021/09/satoshi-identification.md) analysis, Gavin Andresen is
+the closest to SN, based on word frequency usage.
+
+---
+
 "@lemasurierjess
 
 Perhaps biggest announcement from #Biden so far is that developed

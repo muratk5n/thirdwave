@@ -1,84 +1,98 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-Europeans send their trash to Poland and companies there just burn it..?
+Good job kid
 
-APNews: "(2018) Poland’s prime minister vowed tough measures Tuesday
-to fight a string of illegal fires at garbage dumps and landfills that
-has been producing hazardous smoke..
-
-TV stations in Poland have been showing footage of huge clouds of
-smoke billowing into the air from various dump sites, as firefighters
-try to contain the situation"
-
-[[-]](https://apnews.com/article/f9a0f59cf8a44d2d91694c70715a24ac)
+DW: "Dutch boy wins right to COVID jab despite vaccine-skeptic
+dad.. The 12-year-old wanted the vaccine so he can visit his
+grandmother who is battling lung cancer, and took the case to court as
+his 'pleas were being ignored.'"
 
 ---
 
-Momma Gravy - John Pill \#music
+Moller-Maersk is \#1
 
-[[-]](https://youtu.be/cb3jcLWQfDk)
+CNBC: "Several major Danish firms, including Orsted and Moller-Maersk,
+have formed a partnership aiming to produce sustainable fuels on an
+industrial scale... In an announcement Tuesday, the companies said
+that a hydrogen and e-fuel production site could be up and running by
+2023 and fully scaled-up by 2030, by which time it would have the
+capacity to generate over 250,000 metric tons of fuel annually.
 
----
-
-"@lemasurierjess
-
-Biden ..  promises another half bln vaccine doses for developing world
-'For every one shot we've delivered in America we'll deliver another 3
-shots elsewhere'"
-
----
-
-*Odd Thomas*. Good
+[[-]](https://www.cnbc.com/2020/05/26/danish-firms-teaming-up-to-produce-sustainable-fuels.html)
 
 ---
 
-Compsci = *computational* science, not computer science. 
+MSC Cruises is world's \#2 in container shipping
+
+"MSC Cruise Lines Pledges to Achieve NetZero Emissions from its
+Cruise Operation by 2050 with Hydrogen Fuel-Cell Technology"
+
+[[-]](https://bit.ly/3lY483M)
 
 ---
 
-Hi Bich... Hi Bich... Hi Bich 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The amazing Mercedes-Benz GenH2 Truck - a hydrogen fuel cell artic which can go 1,000km without needing to refuel, all whilst producing zero tailpipe emissions. It’s also the most powerful Mercedes-Benz truck there is - combined output is 700kW!<a href="https://twitter.com/hashtag/ZeroEmissions?src=hash&amp;ref_src=twsrc%5Etfw">#ZeroEmissions</a> <a href="https://twitter.com/DaimlerTruckBus?ref_src=twsrc%5Etfw">@DaimlerTruckBus</a> <a href="https://t.co/sHF0dwGmcH">pic.twitter.com/sHF0dwGmcH</a></p>&mdash; Jamie Fretwell (@JamieFretwell) <a href="https://twitter.com/JamieFretwell/status/1440989129454587904?ref_src=twsrc%5Etfw">September 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-See how he talks about functions, data. "Coders" naturaly understand
-this slant on AI albeit weak, bcz they know how to "run stuff",
-functions (software has them too), so they can intuit the
-approach. This view is one level above complete ignorance. The next
-one requires compsci grok.
+AFAIK TSS is DOA.
+
+"Rep. Andy Levin... wants a two-state solution to be official
+U.S. policy, and new legislation he’ll propose tomorrow sets out a
+pathway to make that arrangement a reality...If [passed] the
+'Two-State Solution Act,' American policy on the Israeli-Palestinian
+conflict will formally state… 'that the establishment of Israeli
+settlements in the occupied Palestinian territories is inconsistent
+with international law'"
+
+[[-]](https://www.politico.com/newsletters/national-security-daily/2021/09/22/an-exclusive-look-at-the-two-state-solution-act-494433)
 
 ---
 
-George "Geohot" Hotz
+Liberterian friendly ppl might be getting views from "Thiel sponsored
+sources" through a variation of China's 50 Cent Army.
+
+"How do the kookiest sites / personalities get a lot of views?"
 
 ---
 
-🤣 🤣 🤣 
-
-<iframe width="340" src="https://www.youtube.com/embed/cYl6DIxvnzM?start=29&end=44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-Hi Bich... Hi Bich... Hi Bich 
-
-Hilarious video
+Or around something geographically in the middle. Like Bermuda. The
+Bermudan Quartet..? 
 
 ---
 
-Could be GA.. The BTC code was officially turned over to his upkeep,
-the last email sent from SN was to GA. His psych profile suggests an
-overdeveloped sense of justice, seeing a lot of people wronged by the
-finance system could push a person like that to act. Theres leadership
-ability; being able to entice people to work in orgs, etc -- crucial
-for an open-source project. Background suggests he would have more
-knowledge than others (in that BTC group) on projects crafted for the
-industry, he co-wrote the VRML standard so would know how to present
-stuff for pro developer consumption.
+New name needed? NAEFTA - North American and English Trade Agreement
+
+"The U.K. is exploring joining an existing free-trade agreement between
+the U.S., Mexico and Canada, a person familiar with the nation’s
+thinking said"
+
+[[-]](https://trib.al/VFyn8en )
 
 ---
 
-There are other Satoshi N possibilities of course.. According to
-[this](2021/09/satoshi-identification.md) analysis, Gavin Andresen is
-the closest to SN, based on word frequency usage.
+Then he is the one responsible for [this movie](2011/12/blaxploitation.md).
+
+VOA News: "Melvin Van Peebles, the groundbreaking filmmaker,
+playwright and musician whose work ushered in the 'blaxploitation'
+wave of the 1970s and influenced filmmakers long afterward, has died"
+
+---
+
+Numerical Weather Prediction does not use neural nets. The math model
+for weather is mostly known so no need to reverse-engineer an unknown
+model using a jungle of neurons from data, as is done in "AI".
+
+Even then, the computation is extremely hard.
+
+---
+
+"@josheidelson
+
+@GavinNewsom just signed @LorenaSGonzalez's bill banning firings of
+workers for failing to meet unsafe quotas and prohibiting algorithms
+that interfere with bathroom breaks and rest breaks. 'We cannot allow
+corporations to put profit over people,' Newsom says"
 
 ---
 
