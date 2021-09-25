@@ -53,7 +53,7 @@ Reuters: "EU plans to legislate for common phone charger despite Apple grumbles"
 
 ---
 
-Guy is a total clown. Fantastic actor IMO. 
+Guy is a total clown. Good actor 
 
 ---
 
