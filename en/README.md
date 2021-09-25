@@ -1,89 +1,63 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-Moller-Maersk is \#1
-
-CNBC: "Several major Danish firms, including Orsted and Moller-Maersk,
-have formed a partnership aiming to produce sustainable fuels on an
-industrial scale... In an announcement Tuesday, the companies said
-that a hydrogen and e-fuel production site could be up and running by
-2023 and fully scaled-up by 2030, by which time it would have the
-capacity to generate over 250,000 metric tons of fuel annually.
-
-[[-]](https://www.cnbc.com/2020/05/26/danish-firms-teaming-up-to-produce-sustainable-fuels.html)
+"Ego is not your amigo" \#mile22 👍
 
 ---
 
-MSC is world's \#2 in container shipping
+EQ in Oz? Pretty rare for them clearly.. But their entire northern belt
+though is getting pummeled
 
-"MSC Cruise Lines Pledges to Achieve NetZero Emissions from its
-Cruise Operation by 2050 with Hydrogen Fuel-Cell Technology"
-
-[[-]](https://bit.ly/3lY483M)
+<img width="340" src="https://pbs.twimg.com/media/FACZDDUVQAwC7Hg?format=png&name=small"/>
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The amazing Mercedes-Benz GenH2 Truck - a hydrogen fuel cell artic which can go 1,000km without needing to refuel, all whilst producing zero tailpipe emissions. It’s also the most powerful Mercedes-Benz truck there is - combined output is 700kW!<a href="https://twitter.com/hashtag/ZeroEmissions?src=hash&amp;ref_src=twsrc%5Etfw">#ZeroEmissions</a> <a href="https://twitter.com/DaimlerTruckBus?ref_src=twsrc%5Etfw">@DaimlerTruckBus</a> <a href="https://t.co/sHF0dwGmcH">pic.twitter.com/sHF0dwGmcH</a></p>&mdash; Jamie Fretwell (@JamieFretwell) <a href="https://twitter.com/JamieFretwell/status/1440989129454587904?ref_src=twsrc%5Etfw">September 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+It has to be due to the vacuum on top of the airfoil... The shape
+blocks flow from getting there directly, which creates briefly (but
+repeatedly, due to forward movement) a vacuum meaning lower
+pressure. There is higher pressure below, ergo lift. Increase angle of
+attack, there is even more pressure below, molecules are directly
+hitting airfoil now. At the right angle, in a sweet spot avoiding
+stall, you get lift.
+
+SciAm: "No One Can Explain Why Planes Stay in the Air"
+
+[[-]](https://www.scientificamerican.com/article/no-one-can-explain-why-planes-stay-in-the-air/)
 
 ---
 
-TSS is DOA
+Great example of putting capitalism on a leash. Left to their own
+devices (!) companies would not converge to the same standard,
+everyone, especially established players, would have an incentive to
+lock people in to their own charger mechanism. But that leads to
+waste.  Capitalism can optimize for certain things, but not
+necessarilly for grander goals, eg resource usage, material footprint
+on the planet, or even consumer's benefit, in a larger ecosystem. If a
+person needs to own three chargers for three devices, that is huge
+amount of waste, consumer is not served well either. There is metal in
+there that needs to be mined somewhere, plastic that requires fossil
+fuels refinery. Governance must step in, tune the whole thing.
 
-"Rep. Andy Levin... wants a two-state solution to be official
-U.S. policy, and new legislation he’ll propose tomorrow sets out a
-pathway to make that arrangement a reality...If [passed] the
-'Two-State Solution Act,' American policy on the Israeli-Palestinian
-conflict will formally state… 'that the establishment of Israeli
-settlements in the occupied Palestinian territories is inconsistent
-with international law'"
-
-[[-]](https://www.politico.com/newsletters/national-security-daily/2021/09/22/an-exclusive-look-at-the-two-state-solution-act-494433)
-
----
-
-Liberterian friendly ppl might be getting views from "Thiel sponsored
-sources" through a variation of China's 50 Cent Army.
-
-"How do the kookiest sites / personalities get a lot of views?"
+Reuters: "EU plans to legislate for common phone charger despite Apple grumbles"
 
 ---
 
-Or around something geographically in the middle. Like Bermuda. The
-Bermudan Quartet..? 
+<iframe width="340" src="https://www.youtube.com/embed/jz6-FVRHBIs?start=19" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-New name needed? NAEFTA - North American and English Trade Agreement
-
-"The U.K. is exploring joining an existing free-trade agreement between
-the U.S., Mexico and Canada, a person familiar with the nation’s
-thinking said"
-
-[[-]](https://trib.al/VFyn8en )
+Guy is a total clown. Fantastic actor IMO. 
 
 ---
 
-So he is the one responsible for [this movie](2011/12/blaxploitation.md).
-
-VOA News: "Melvin Van Peebles, the groundbreaking filmmaker,
-playwright and musician whose work ushered in the 'blaxploitation'
-wave of the 1970s and influenced filmmakers long afterward, has died"
+My favorite Wahlberg movie? *Rockstar*. 
 
 ---
 
-Numerical Weather Prediction does not use neural nets. The math model
-for weather is mostly known so no need to reverse-engineer an unknown
-model using a jungle of neurons from data, as is done in "AI".
-
-Even then, the computation is extremely hard.
+Al Jazeera: "Canada vote results near identical to 2019"
 
 ---
 
-"@josheidelson
-
-@GavinNewsom just signed @LorenaSGonzalez's bill banning firings of
-workers for failing to meet unsafe quotas and prohibiting algorithms
-that interfere with bathroom breaks and rest breaks. 'We cannot allow
-corporations to put profit over people,' Newsom says"
+Troop deployment [stats](2019/05/confstats.md#gdtroop)
 
 ---
 
