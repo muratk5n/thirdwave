@@ -35,7 +35,7 @@ on the planet, or even consumer's benefit, in a larger ecosystem. If a
 person needs to own three chargers for three devices, that is huge
 amount of waste, consumer is not served well either. There is metal in
 there that needs to be mined somewhere, plastic that requires fossil
-fuels refinery. Governance must step in, tune the whole thing.
+fuels refinery. Governance steps in, tunes the whole thing.
 
 Reuters: "EU plans to legislate for common phone charger despite Apple grumbles"
 
