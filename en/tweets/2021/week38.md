@@ -62,7 +62,7 @@ thinking said"
 
 ---
 
-So he is the one responsible for [this movie](2011/12/blaxploitation.md).
+So he is the one responsible for [this movie](../../2011/12/blaxploitation.md).
 
 VOA News: "Melvin Van Peebles, the groundbreaking filmmaker,
 playwright and musician whose work ushered in the 'blaxploitation'
@@ -164,7 +164,7 @@ stuff for pro developer consumption.
 ---
 
 There are other Satoshi N possibilities of course.. According to
-[this](2021/09/satoshi-identification.md) analysis, Gavin Andresen is
+[this](../../2021/09/satoshi-identification.md) analysis, Gavin Andresen is
 the closest to SN, based on word frequency usage.
 
 ---
