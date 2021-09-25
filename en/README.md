@@ -1,5 +1,13 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
+Al Jazeera: "Canada vote results near identical to 2019"
+
+---
+
+Troop deployment [stats](2019/05/confstats.md#gdtroop)
+
+---
+
 "Ego is not your amigo" \#mile22 👍
 
 ---
@@ -50,14 +58,6 @@ Guy is a total clown. Fantastic actor IMO.
 ---
 
 My favorite Wahlberg movie? *Rockstar*. 
-
----
-
-Al Jazeera: "Canada vote results near identical to 2019"
-
----
-
-Troop deployment [stats](2019/05/confstats.md#gdtroop)
 
 ---
 
