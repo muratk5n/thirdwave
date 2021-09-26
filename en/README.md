@@ -1,63 +1,89 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-Al Jazeera: "Canada vote results near identical to 2019"
+"[Oz businessman, former CEO of Fortescue Metals Group] Andrew Forrest
+launched a green hydrogen [org], in a push to speed up development of
+the clean fuel to help curb globalwarming"
+
+[[-]](https://bit.ly/2XRHhik)
 
 ---
 
-Troop deployment [stats](2019/05/confstats.md#gdtroop)
+"Buffalo mayor-to-be India Walton a ‘very proud’ democratic
+socialist.. 'We will bail out Wall Street and banks and give a billion
+dollars in tax incentives to one of the richest people in the world to
+build an empty Tesla factory in South Buffalo, and when it comes to
+providing the resources that working families need to thrive,
+socialism becomes scary at that point. So, I’m very proud to be a
+democratic socialist. I am proud to have the support of Buffalo DSA
+and national DSA (Democratic Socialists of America)"
+
+[[-]](https://www.rochesterfirst.com/news/political-news/buffalo-mayor-to-be-india-walton-a-very-proud-democratic-socialist/)
 
 ---
 
-"Ego is not your amigo" \#mile22 👍
+*Apache Junction*, a story on journalism really, albeit in a Wild West
+context.. Thumbs up
 
 ---
 
-EQ in Oz? Pretty rare for them clearly.. But their entire northern belt
-though is getting pummeled
+UCDP/PRIO conflict stats update. Fall in Mozambique, Afghanistan
+(obviously).  Egypt is always up there.. the place is never settling
+down. Somalia, Nigeria, in turmoil as before.  Increase of deaths in Pakistan,
+Yemen. The latter looks pretty bad actually.
 
-<img width="340" src="https://pbs.twimg.com/media/FACZDDUVQAwC7Hg?format=png&name=small"/>
-
----
-
-It has to be due to the vacuum on top of the airfoil... The shape
-blocks flow from getting there directly, which creates briefly (but
-repeatedly, due to forward movement) a vacuum meaning lower
-pressure. There is higher pressure below, ergo lift. Increase angle of
-attack, there is even more pressure below, molecules are directly
-hitting airfoil now. At the right angle, in a sweet spot avoiding
-stall, you get lift.
-
-SciAm: "No One Can Explain Why Planes Stay in the Air"
-
-[[-]](https://www.scientificamerican.com/article/no-one-can-explain-why-planes-stay-in-the-air/)
+[[-]](2019/05/confstats.md)
 
 ---
 
-Great example of putting capitalism on a leash. Left to their own
-devices (!) companies would not converge to the same standard,
-everyone, especially established players, would have an incentive to
-lock people in to their own charger mechanism. But that leads to
-waste.  Capitalism can optimize for certain things, but not
-necessarilly for grander goals, eg resource usage, material footprint
-on the planet, or even consumer's benefit, in a larger ecosystem. If a
-person needs to own three chargers for three devices, that is huge
-amount of waste, consumer is not served well either. There is metal in
-there that needs to be mined somewhere, plastic that requires fossil
-fuels refinery. Governance steps in, tunes the whole thing.
-
-Reuters: "EU plans to legislate for common phone charger despite Apple grumbles"
+Reynolds Averaged equations? Yes.. invented by Osborne Reynolds. Irish
+mfker -from Ireland-.
 
 ---
 
-<iframe width="340" src="https://www.youtube.com/embed/jz6-FVRHBIs?start=19" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Where are our American friends? Center of research, so gotta step
+up. Europe did its part.. Euler, Navier, Stokes, Laplace gave you the
+proper model (the [cat's cradle](2021/09/computing-ai.md)), but now
+noone can work the model and get answers, centuries later? That SciAm
+article has the Who Is Who of the field, they are all scratching their
+heads.. F-ing McLean produces literature, but I've never in my life
+read a book explaning what something isn't rather than what it is, in
+its entirety.
 
 ---
 
-Guy is a total clown. Good actor 
+We cant explain lift.. weird. The math model for aerodynamics is
+known. Compsci can compute all flow around a wing using it, and can
+show the pressure gradients. Today. That model could be interrogated
+for certain patterns of shapes, mathematically.. Why isn't this done?
 
 ---
 
-My favorite Wahlberg movie? *Rockstar*. 
+Tom Middleton - Starq \#music
+
+[[-]](https://youtu.be/RmIXttLh7Iw)
+
+---
+
+That was a good read \#Amur
+
+The Daily Beast: "My Trip Along the Most Mysterious River on Earth"
+
+[[-]](https://www.thedailybeast.com/my-trip-along-the-most-mysterious-river-on-earth)
+
+---
+
+Reminds me of [this](2013/12/cost-gravity.md) Hintjens commentary..
+
+Politico: "President Joe Biden's decision to nominate Cornell law
+professor Saule Omarova to regulate the nation's banks is triggering
+intense anxiety among the lenders and their Washington lobbyists and
+threatens to set off a bruising battle in Congress.
+
+Omarova is more than just a finance industry critic — she has proposed
+essentially ending the banking industry as we know it by letting the
+Federal Reserve take on the deposit accounts of all Americans"
+
+[[-]](https://www.politico.com/news/2021/09/24/radical-biden-nominee-faces-backlash-from-banks-514189)
 
 ---
 
