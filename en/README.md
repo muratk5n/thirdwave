@@ -2,7 +2,7 @@
 
 "[Oz businessman, former CEO of Fortescue Metals Group] Andrew Forrest
 launched a green hydrogen [org], in a push to speed up development of
-the clean fuel to help curb globalwarming"
+the clean fuel to help curb global warming"
 
 [[-]](https://bit.ly/2XRHhik)
 
