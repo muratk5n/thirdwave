@@ -70,10 +70,10 @@ becomes the new territory and banks turn into bookmakers, betting
 against themselves and taking a commission on each deal.
 
 Meanwhile, cost gravity never stops. By 2013, the cost of running a
-1980's bank had fallen by 128,000 times. If it cost $10 per month to
-handle one customer in 1980, by 2013 it cost just over $75 per month
-for 1M customers. And by 2052, it will cost only $1 per month to
-handle the banking needs of every person on Earth.
+1980's bank had fallen by 128,000 times. If it cost 10 dollars per
+month to handle one customer in 1980, by 2013 it cost just over 75 per
+month for 1M customers. And by 2052, it will cost only 1 dollar per
+month to handle the banking needs of every person on Earth.
 
 The collapse happened because those ever-riskier bets didn't pay off.
 It was predictable [..] but there was a huge incentive for those
