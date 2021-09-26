@@ -40,8 +40,8 @@ mfker -from Ireland-.
 
 ---
 
-Where are our American friends? Center of research, so gotta step
-up. Europe did its part.. Euler, Navier, Stokes, Laplace gave you the
+Where are our American friends? Center of research, noone stepping up?
+Europe did its part. Euler, Navier, Stokes, Laplace gave you the
 proper model (the [cat's cradle](2021/09/computing-ai.md)), but now
 noone can work the model and get answers, centuries later? That SciAm
 article has the Who Is Who of the field, they are all scratching their
