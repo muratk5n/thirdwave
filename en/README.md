@@ -54,7 +54,8 @@ rather than what it is, in its entirety.
 We cant explain lift.. weird. The math model for aerodynamics is
 known. Compsci can compute all flow around a wing using it, and can
 show the pressure gradients. Today. That model could be interrogated
-for certain patterns of shapes, mathematically.. Why isn't this done?
+symbolically for certain patterns of shapes, mathematically.. Why
+isn't this done?
 
 ---
 
