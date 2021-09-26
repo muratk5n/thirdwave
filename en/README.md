@@ -22,7 +22,7 @@ and national DSA (Democratic Socialists of America)"
 ---
 
 *Apache Junction*, a story on journalism really, albeit in a Wild West
-context.. Thumbs up
+context.. Watchable.
 
 ---
 
