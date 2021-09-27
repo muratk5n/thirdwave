@@ -41,9 +41,10 @@ coalition. No posturing, kinda good
 
 ---
 
-When you are hiring from among the best and brightest, you can let
-these ppl roam free. Most of the world cannot replicate that. Then
-quality needs to be delivered in a different way -- electronically.
+When you are [hiring](2021/03/unrivaled-beckley.md#ed) from among the
+best and brightest, you can let these ppl roam free. Most of the world
+cannot replicate that. Then quality needs to be delivered in a
+different way -- electronically.
 
 "In Finland teachers decide how to teach the curriculum"
 
