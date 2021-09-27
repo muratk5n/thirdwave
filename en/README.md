@@ -1,12 +1,5 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-
-In the last TV debate DE parties were already discussing how to form
-coalition. It's kinda good, no posturing as if they all would come out
-on top.
-
----
-
 Yep, Nazis (AFD) took a big chunk of your shit. The point of your
 party was not to let that happen.
 
@@ -28,7 +21,7 @@ WSJ: "Covid-19 Vaccine Gap Between Rich and Poor Nations Keeps Widening"
 
 ---
 
-Such tech could be used in negative ways, also true, but factory
+Such tech could be used in negative ways, of course, but factory
 automation has been killing people for centuries now. Any tool can
 have adverse effects. A spoon could kill you. If you fall on it
 certain way, it is standing pointing up, on the ground.. That's not
@@ -37,9 +30,14 @@ singularity. That is the big delusion.
 
 ---
 
-One cld say around topics which are termed as weak AI (speech recog,
-computer vision -basic pattern recognition-) some milesones were
+Cld say around topics which under weak AI (speech recog, computer
+vision -basic pattern recognition-) category some milesones were
 reached, sure.
+
+---
+
+In the last TV debate DE parties were already discussing how to form
+coalition. No posturing, kinda good
 
 ---
 
