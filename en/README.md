@@ -1,7 +1,7 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-Yep, Nazis (AFD) took a big chunk of your shit. The point of your
-party was not to let that happen.
+Nazis (AFD) took a big chunk of your shit. The point of your party was
+not to let that happen.
 
 AFP: "Merkel's CDU party secretary calls German exit poll results 'bitter'"
 
