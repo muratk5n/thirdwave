@@ -971,7 +971,7 @@ will run out of panel space, etc etc)
 ---
 
 Not much; Markowitz model has $R^2$ 90% , conf intervals on the
-[prediction](../../2015/04/predicting-2016-presidential-election.md)
+[prediction](../../2015/04/predicting-presidential-elections.md)
 are usually tight.
 
 Gelman: "How unpredictable is the 2020 election?"
@@ -991,7 +991,7 @@ through an average).
 
 ---
 
-Elections are a vote on the incumbent, on three [broad parameters](../../2015/04/predicting-2016-presidential-election.md).
+Elections are a vote on the incumbent, on three [broad parameters](../../2015/04/predicting-presidential-elections.md).
 
 "GOP fears Biden's low-key campaign is paying off"
 

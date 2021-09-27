@@ -31,7 +31,7 @@ UCDP/PRIO conflict stats update. Fall in Mozambique, Afghanistan
 down. Somalia, Nigeria, in turmoil as before.  Increase of deaths in Pakistan,
 Yemen. The latter looks pretty bad actually.
 
-[[-]](2019/05/confstats.md)
+[[-]](../../2019/05/confstats.md)
 
 ---
 
@@ -42,7 +42,7 @@ mfker -from Ireland-.
 
 Where are our American friends? Center of research, noone stepping up?
 Europe did its part. Euler, Navier, Stokes, Laplace gave you the
-proper model (the [cat's cradle](2021/09/computing-ai.md)), but now
+proper model (the [cat's cradle](../../2021/09/computing-ai.md)), but now
 noone can work the model and get answers, centuries later? That SciAm
 article has the Who Is Who of the field, they are all scratching their
 heads.. F-ing McLean produces literature, but I've never in my life
@@ -73,7 +73,7 @@ The Daily Beast: "My Trip Along the Most Mysterious River on Earth"
 
 ---
 
-Reminds me of [this](2013/12/cost-gravity.md) Hintjens commentary..
+Reminds me of [this](../../2013/12/cost-gravity.md) Hintjens commentary..
 
 Politico: "President Joe Biden's decision to nominate Cornell law
 professor Saule Omarova to regulate the nation's banks is triggering

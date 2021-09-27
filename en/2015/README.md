@@ -94,7 +94,7 @@
 
 [Poor Egypt](04/poor-egypt.md)
 
-[Predicting the 2016 Presidential Election](04/predicting-2016-presidential-election.md)
+[Predicting Presidential Elections](04/predicting-presidential-elections.md)
 
 [Prez Prediction, Past Elections, Leave-One-Out Check](04/prez-loo.md)
 

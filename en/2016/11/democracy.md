@@ -6,7 +6,7 @@
 
 [Parochial Interests](../../2015/04/parochial-interests.md)
 
-[Predicting the 2016 Election](../../2015/04/predicting-2016-presidential-election.md)
+[Predicting Presidential Elections](../../2015/04/predicting-presidential-elections.md)
 
 [Crowd Wisdom](../../2020/07/crowd-wisdom.md)
 

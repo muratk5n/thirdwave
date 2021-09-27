@@ -1,14 +1,10 @@
 # Economy, Calculations, Data
 
-<a name="prez"></a>
+## GDP
 
-## Potus, Incumbent Elec. College Percentage Prediction 
-
-Time for Change [model](https://pollyvote.com/en/components/models/hybrid/time-for-change-model/),
-([my post](../../2015/04/predicting-2016-presidential-election.md))
-
-GDP is taken as annualized quarterly growth rate, quarter growth compared to
-previous quarter, [annualized](https://www.fool.com/knowledge-center/how-to-calculate-the-annual-growth-rate-for-real-g.aspx). 
+THis GDP calc is taken as annualized quarterly growth rate, quarter
+growth compared to previous quarter,
+[annualized](https://www.fool.com/knowledge-center/how-to-calculate-the-annual-growth-rate-for-real-g.aspx).
 
 
 ```python
@@ -33,47 +29,6 @@ DATE
 2020-07-01    33.441306
 2020-10-01     4.091780
 Name: growann, dtype: float64
-```
-
-```python
-from io import StringIO
-import statsmodels.formula.api as smf
-import pandas as pd
-
-s="""year,gdp_growth,net_approval,two_terms,incumbent_vote
-2012,1.3,-0.8,0,52
-2008,1.3,-37,1,46.3
-2004,2.6,-0.5,0,51.2
-2000,8,19.5,1,50.3
-1996,7.1,15.5,0,54.7
-1992,4.3,-18,1,46.5
-1988,5.2,10,1,53.9
-1984,7.1,20,0,59.2
-1980,-7.9,-21.7,0,44.7
-1976,3,5,1,48.9
-1972,9.8,26,0,61.8
-1968,7,-5,1,49.6
-1964,4.7,60.3,0,61.3
-1960,-1.9,37,1,49.9
-1956,3.2,53.5,0,57.8
-1952,0.4,-27,1,44.5
-1948,7.5,-6,1,52.4
-"""
-df = pd.read_csv(StringIO(s))
-regr = 'incumbent_vote ~ gdp_growth + net_approval + two_terms'
-results = smf.ols(regr, data=df).fit()
-
-print ('R^2', results.rsquared)
-conf = results.conf_int()
-
-net_approv = -10.0; gdp_growth = 0.0
-pred = [1., gdp_growth, net_approv, 0]
-print (np.dot(pred, conf), np.dot(pred, results.params))
-```
-
-```text
-R^2 0.9011858911763367
-[49.14454875 51.75431018] 50.4494294659622
 ```
 
 ## The Cycle
