@@ -30,8 +30,8 @@ singularity. That is the big delusion.
 
 ---
 
-Cld say around topics which under weak AI (speech recog, computer
-vision -basic pattern recognition-) category some milesones were
+Cld say around topics which under weak AI category (speech recog,
+computer vision -basic pattern recognition-) some milesones were
 reached, sure.
 
 ---
