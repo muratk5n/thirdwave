@@ -115,5 +115,25 @@ Name: Total, dtype: int64
 
 ![](ghg2.png)
 
+<a name='2020'/>
 
+### 2020 Emission Numbers
+
+The latest data comes from [Climate Trace](https://www.climatetrace.org/inventory).
+
+```python
+import pandas as pd
+
+df = pd.read_csv('ctrace.csv')
+df = df.dropna(axis=0)
+g = df.groupby('country_full')['Tonnes Co2e'].sum() / 1e9
+g = g.sort_values(ascending=False)
+g.head(10).plot.barh(fontsize=8)
+plt.savefig('out.png')
+```
+
+![](ghg3.png)
+
+
+China is the worst polluter here as well.
 
