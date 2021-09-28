@@ -52,7 +52,7 @@ We are fukked
 
 ---
 
-2020 numbers for CO2 emissions.
+2020 numbers for CO2 emissions. China is still the top polluter.
 
 
 [[-]](2021/07/historical-carbon-emissions.md#2020)
