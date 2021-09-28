@@ -27,9 +27,9 @@ fossil fuels for space?
 ---
 
 BBC: "More people feeling forced into private healthcare.. say they
-were told Hayden would need urgent surgery - but that because of the
-backlog caused by the pandemic, he would have to wait more than two
-years"
+were told [patient] would need urgent surgery - but that because of
+the backlog caused by the pandemic, he would have to wait more than
+two years"
 
 ---
 
