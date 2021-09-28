@@ -44,11 +44,6 @@ Gordon Goodwin's Big Phat Band - Sing Sang Sung \#music
 
 ---
 
-Olaf Schulz did well. More left is better than no left. I hope he
-the next chancellor.
-
----
-
 2020 data for CO2 emissions. China is still the top polluter.
 
 
