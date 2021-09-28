@@ -7,12 +7,6 @@
 
 ---
 
-Diet trial: pickled vegs, along w lettuce salad, and fried meatbls or
-poultry. 100g for protein only, jasmine green tea all day, sometimes
-coffee. Goal is using less and simple cooking apparatus eg a pan.
-
----
-
 "@karishma4va
 
 WOW. Berliners just decisively voted to expropriate ~240,000
