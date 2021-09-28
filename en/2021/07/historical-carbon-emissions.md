@@ -117,7 +117,7 @@ Name: Total, dtype: int64
 
 <a name='2020'/>
 
-### 2020 Emission Numbers
+### 2020 Emissions
 
 The latest data comes from [Climate Trace](https://www.climatetrace.org/inventory).
 
