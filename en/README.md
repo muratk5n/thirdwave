@@ -54,9 +54,6 @@ We are fukked
 
 2020 numbers for CO2 emissions.
 
-China tops the list with 27.26 billion tons of CO2 emitted. US is
-still number 2. 
-
 
 [[-]](2021/07/historical-carbon-emissions.md#2020)
 

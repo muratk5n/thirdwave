@@ -135,5 +135,5 @@ plt.savefig('out.png')
 ![](ghg3.png)
 
 
-China is the worst polluter here as well.
-
+China tops the list with 27.26 billion tons of CO2 emitted. US is
+still number 2. 
