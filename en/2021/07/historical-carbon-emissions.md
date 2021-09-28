@@ -135,5 +135,5 @@ plt.savefig('ghg3.png')
 ![](ghg3.png)
 
 
-China tops the list with 27.26 billion tons of CO2 emitted. US is
-still number 2. 
+China tops the list with 27.26 billion tons of CO2 emitted. US also
+continues to be number 2.
