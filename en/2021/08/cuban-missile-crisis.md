@@ -133,6 +133,8 @@ supplies of oil. He also wanted weapons, missiles in
 particular... Before the end of the year, the desperate Castro had
 declared himself a Marxist and a Leninist.
 
+<a name='ideo'/>
+
 In Moscow Castro was still regarded as part of a broad group of Third
 World leaders who opposed imperialism... Privately Khrushchev welcomed
 the development but believed it premature on Castro’s part to declare

@@ -41,7 +41,7 @@ coalition. No posturing, kinda good
 
 ---
 
-When you are [hiring](2021/03/unrivaled-beckley.md#ed) from among the
+When you are [hiring](../../2021/03/unrivaled-beckley.md#ed) from among the
 best and brightest, you can let these ppl roam free. Most of the world
 cannot replicate that. Then quality needs to be delivered in a
 different way -- electronically.
@@ -52,7 +52,7 @@ different way -- electronically.
 
 We need decouple learning from certificaton, introduce async concepts
 at each level of ed. Learn from the best through prerecorded
-[videos](2017/09/education-workplace.md), and ask to be certified at
+[videos](../../2017/09/education-workplace.md), and ask to be certified at
 your own pace, by expert certifiers.
 
 DW: "India: Why medical students are taking their own lives.. Some
