@@ -1,64 +1,76 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-Nazis (AFD) took a big chunk of your shit. The point of your party was
-not to let that happen.
 
-AFP: "Merkel's CDU party secretary calls German exit poll results 'bitter'"
+"Oman and Belgium Agree to Cooperate on Green Hydrogen"
 
----
-
-F24: "Mali has asked private Russian companies to boost security,
-Russia's foreign minister confirmed Saturday [as France prepares] a
-large troop drawdown"
+[[-]](https://bit.ly/3odMQ5g)
 
 ---
 
-"[House Budget Committee] Panel OKs Dems' $3.5T bill, crunch time for Biden agenda"
+Diet trial: pickled vegs, along w lettuce salad, and fried meatbls or
+poultry. 100g for protein only, jasmine green tea all day, sometimes
+coffee. Goal is using less and simple cooking apparatus eg a pan.
 
 ---
 
-WSJ: "Covid-19 Vaccine Gap Between Rich and Poor Nations Keeps Widening"
+"@karishma4va
+
+WOW. Berliners just decisively voted to expropriate ~240,000
+apartments currently owned by “mega-landlords” (private real estate
+companies/developers) and turn them into socialized public housing"
 
 ---
 
-Such tech could be used in negative ways, of course, but factory
-automation has been killing people for centuries now. Any tool can
-have adverse effects. A spoon could kill you. If you fall on it
-certain way, it is standing pointing up, on the ground.. That's not
-what the phuckers are talking about. Phuckers are all about strong AI,
-singularity. That is the big delusion.
+On a pickled veg exploration phase.. pickled garlic? Dam
 
 ---
 
-Cld say around topics which under weak AI category (speech recog,
-computer vision -basic pattern recognition-) some milesones were
-reached, sure.
+The Blue Origin rocket that went to space used liquid H2 as
+fuel. Good. But many others, even the next B Origin hardware plan to
+use kerosene. Not clean. This stuff needs to be regulated, a ban on
+fossil fuels for space?
 
 ---
 
-In the last TV debate DE parties were already discussing how to form
-coalition. No posturing, kinda good
+BBC: "More people feeling forced into private healthcare.. say they
+were told Hayden would need urgent surgery - but that because of the
+backlog caused by the pandemic, he would have to wait more than two
+years"
 
 ---
 
-When you are [hiring](2021/03/unrivaled-beckley.md#ed) from among the
-best and brightest, you can let these ppl roam free. Most of the world
-cannot replicate that. Then quality needs to be delivered in a
-different way -- electronically.
-
-"In Finland teachers decide how to teach the curriculum"
+BJ down in the polls again? Slide started mid May.. What was the trigger? 
 
 ---
 
-We need decouple learning from certificaton, introduce async concepts
-at each level of ed. Learn from the best through prerecorded
-[videos](2017/09/education-workplace.md), and ask to be certified at
-your own pace, by expert certifiers.
+Gordon Goodwin's Big Phat Band - Sing Sang Sung \#music
 
-DW: "India: Why medical students are taking their own lives.. Some
-students who have taken the NEET medical entrance exam have killed
-themselves, alarming authorities in the southern state of Tamil
-Nadu. Entrants say the pressure is immense"
+[[-]](https://youtu.be/2MCGApB7Uxg)
+
+---
+
+Olaf Schulz did well. More left is better than no left. I hope he
+the next chancellor.
+
+---
+
+We are fukked
+
+---
+
+2020 numbers for CO2 emissions.
+
+China tops the list with 27.26 billion tons of CO2 emitted. US is
+still number 2. 
+
+
+[[-]](2021/07/historical-carbon-emissions.md#2020)
+
+---
+
+We used to have CD players in our notebooks.. Holy pimp
+
+---
 
 ## For Members
 
