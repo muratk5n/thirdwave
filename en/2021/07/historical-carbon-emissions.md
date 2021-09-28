@@ -129,7 +129,7 @@ df = df.dropna(axis=0)
 g = df.groupby('country_full')['Tonnes Co2e'].sum() / 1e9
 g = g.sort_values(ascending=False)
 g.head(10).plot.barh(fontsize=8)
-plt.savefig('out.png')
+plt.savefig('ghg3.png')
 ```
 
 ![](ghg3.png)
