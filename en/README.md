@@ -48,10 +48,6 @@ the next chancellor.
 
 ---
 
-We are fukked
-
----
-
 2020 data for CO2 emissions. China is still the top polluter.
 
 
