@@ -46,7 +46,6 @@ Gordon Goodwin's Big Phat Band - Sing Sang Sung \#music
 
 2020 data for CO2 emissions. China is still the top polluter.
 
-
 [[-]](2021/07/historical-carbon-emissions.md#2020)
 
 ---
