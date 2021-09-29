@@ -38,6 +38,11 @@ on New York UN trip despite his anti-vax rhetoric"
 
 ---
 
+Coded filters in my news gatherer script. Had one for Afghanistan, now
+added another for North Korea.
+
+---
+
 Big tech apparently went along with some freaky shit but if they didnt
 they'd probably be facing a  ban themselves.
 
@@ -50,11 +55,6 @@ into exile and declaring popular independent media outlets to be
 'foreign agents.'"
 
 [[-]](https://www.nytimes.com/2021/09/19/world/europe/russia-election-google.html)
-
----
-
-I have filters in my news gatherer program. I had one for Afghanistan,
-now I added another for North Korea.
 
 ---
 
