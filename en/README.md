@@ -53,8 +53,8 @@ into exile and declaring popular independent media outlets to be
 
 ---
 
-On my news gatherer program I have filters.. I put one for
-Afghanistan, now I added another for North Korea.
+I have filters in my news gatherer program. I had one for Afghanistan,
+now I added another for North Korea.
 
 ---
 
