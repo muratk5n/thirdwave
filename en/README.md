@@ -11,7 +11,7 @@ Triage, rationing, how wonderful..
 
 Palin's death panels are here probably not the way she expected them
 
-\#ABCPlanetAmerica.
+\#ABCPlanetAmerica
 
 "As the spread of the delta variant continues unabated in much of the
 U.S., public health leaders have approved health care rationing in
