@@ -39,7 +39,7 @@ on New York UN trip despite his anti-vax rhetoric"
 ---
 
 Big tech apparently went along with some freaky shit but if they didnt
-they'd probably be facing a country wide ban themselves.
+they'd probably be facing a  ban themselves.
 
 NYT: "[Russian parliamentary elections] Over the weekend, videos of
 ballot stuffing and other apparent instances of fraud circulated
