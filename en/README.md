@@ -9,7 +9,7 @@ Australia-European Union free trade deal"
 
 Triage, rationing, how wonderful..
 
-Palin's death panels are here probab not the way she expected them
+Palin's death panels are here probably not the way she expected them
 
 \#ABCPlanetAmerica.
 
