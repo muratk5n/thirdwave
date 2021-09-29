@@ -7,8 +7,8 @@ Australia-European Union free trade deal"
 
 ---
 
-Hah! Palin's death panels are here, yes. Not the way she expected
-them though..
+Right! Palin's death panels are here. Not the way she expected them
+though..
 
 ---
 
