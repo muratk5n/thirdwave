@@ -35,11 +35,6 @@ on New York UN trip despite his anti-vax rhetoric"
 
 ---
 
-Coded filters in my news gatherer script. Had one for Afghanistan, now
-added another for North Korea.
-
----
-
 Big tech apparently went along with some freaky shit but if they didnt
 they'd probably be facing a  ban themselves.
 
