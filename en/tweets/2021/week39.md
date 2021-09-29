@@ -1,5 +1,59 @@
 # Week 39
 
+
+"Oman and Belgium Agree to Cooperate on Green Hydrogen"
+
+[[-]](https://bit.ly/3odMQ5g)
+
+---
+
+"@karishma4va
+
+WOW. Berliners just decisively voted to expropriate ~240,000
+apartments currently owned by “mega-landlords” (private real estate
+companies/developers) and turn them into socialized public housing"
+
+---
+
+On a pickled veg exploration phase.. pickled garlic? Dam
+
+---
+
+The Blue Origin rocket that went to space used liquid H2 as
+fuel. Good. But many others, even the next B Origin hardware plan to
+use kerosene. Not clean. This stuff needs to be regulated, a ban on
+fossil fuels for space?
+
+---
+
+BBC: "More people feeling forced into private healthcare.. they were
+told [patient] would need urgent surgery - but that because of the
+backlog caused by the pandemic, he would have to wait more than two
+years"
+
+---
+
+BJ down in the polls again? Slide started mid May.. What was the
+trigger? \#UK
+
+---
+
+Gordon Goodwin's Big Phat Band - Sing Sang Sung \#music
+
+[[-]](https://youtu.be/2MCGApB7Uxg)
+
+---
+
+2020 data for CO2 emissions. China is still the top polluter.
+
+[[-]](2021/07/historical-carbon-emissions.md#2020)
+
+---
+
+We used to have CD players in our notebooks.. Holy pimp
+
+---
+
 Nazis (AFD) took a big chunk of your shit. The point of your party was
 not to let that happen.
 

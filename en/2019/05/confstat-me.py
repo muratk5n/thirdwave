@@ -23,10 +23,10 @@ conf_cols = ['GlobalEventID', 'Day', 'MonthYear', 'Year', 'FractionDate',\
        'Actor2Geo_Lat', 'Actor2Geo_Long']
 
 #now = datetime.datetime.now()
-now = datetime.datetime(2021,9,17)
+now = datetime.datetime(2021,9,28)
 dfs = []
 
-clat,clon=33.01136975577918, 40.98527636859822
+clat,clon=33, 40
 
 # North
 poly1 = LatLon(36.230, 33.169),\
