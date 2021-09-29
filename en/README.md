@@ -58,9 +58,7 @@ now I added another for North Korea.
 
 ---
 
-Also drop that deluded quest for batteries.. 
-
----
+Nazis.. Also drop that deluded quest for batteries.. 
 
 DW: "EU demands Volkswagen pay all EU consumers affected by
 'Dieselgate'.. The EU's Justice Commissioner called on Volkswagen to
