@@ -58,7 +58,7 @@ now I added another for North Korea.
 
 ---
 
-Also drop that deluded quest for batteries.. F-ing Nazis \#VW
+Also drop that deluded quest for batteries.. 
 
 ---
 
