@@ -50,7 +50,7 @@ into exile and declaring popular independent media outlets to be
 
 ---
 
-Nazis.. Also drop that deluded quest for batteries.. 
+Nazis.. Drop that deluded quest for batteries jagoffs.. 
 
 DW: "EU demands Volkswagen pay all EU consumers affected by
 'Dieselgate'.. The EU's Justice Commissioner called on Volkswagen to
