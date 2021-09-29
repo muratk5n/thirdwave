@@ -1,56 +1,71 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
 
-"Oman and Belgium Agree to Cooperate on Green Hydrogen"
-
-[[-]](https://bit.ly/3odMQ5g)
-
----
-
-"@karishma4va
-
-WOW. Berliners just decisively voted to expropriate ~240,000
-apartments currently owned by “mega-landlords” (private real estate
-companies/developers) and turn them into socialized public housing"
+AP: "French and Australian officials said Monday that France’s anger
+over a canceled submarine contract will not derail negotiations on an
+Australia-European Union free trade deal"
 
 ---
 
-On a pickled veg exploration phase.. pickled garlic? Dam
+Hah! Palin's death panels are here, yes. Not the way she expected
+them though..
 
 ---
 
-The Blue Origin rocket that went to space used liquid H2 as
-fuel. Good. But many others, even the next B Origin hardware plan to
-use kerosene. Not clean. This stuff needs to be regulated, a ban on
-fossil fuels for space?
+Triage, rationing, how wonderful..
+
+\#ABCPlanetAmerica.
+
+"As the spread of the delta variant continues unabated in much of the
+U.S., public health leaders have approved health care rationing in
+Idaho and parts of Alaska and Montana... But determining who gets what
+is no easy feat...
+
+States may use a combination of factors to come up with patient
+'priority scores.' Idaho’s and Montana’s system both consider how well
+a patient’s major organ systems are functioning.
+
+The final tie-breaker is a lottery system"
+
+[[-]](https://apnews.com/article/business-health-public-health-coronavirus-pandemic-montana-4f68683b175340bf525c45aa133045ba)
 
 ---
 
-BBC: "More people feeling forced into private healthcare.. they were
-told [patient] would need urgent surgery - but that because of the
-backlog caused by the pandemic, he would have to wait more than two
-years"
+🤣 🤣 🤣 
+
+The Independent: "Anger in Brazil after Bolsonaro’s wife gets vaccine
+on New York UN trip despite his anti-vax rhetoric"
 
 ---
 
-BJ down in the polls again? Slide started mid May.. What was the
-trigger? \#UK
+Big tech apparently went along with some freaky shit but if they didnt
+they'd probably be facing a country wide ban themselves.
+
+NYT: "[Russian parliamentary elections] Over the weekend, videos of
+ballot stuffing and other apparent instances of fraud circulated
+widely on social media... Apparently fearing a rebuke at the ballot
+box, the authorities barred just about all well-known opposition
+figures from running for Parliament, while forcing many dissidents
+into exile and declaring popular independent media outlets to be
+'foreign agents.'"
+
+[[-]](https://www.nytimes.com/2021/09/19/world/europe/russia-election-google.html)
 
 ---
 
-Gordon Goodwin's Big Phat Band - Sing Sang Sung \#music
-
-[[-]](https://youtu.be/2MCGApB7Uxg)
-
----
-
-2020 data for CO2 emissions. China is still the top polluter.
-
-[[-]](2021/07/historical-carbon-emissions.md#2020)
+On my news gatherer program I have filters.. I put one for
+Afghanistan, now I added another for North Korea.
 
 ---
 
-We used to have CD players in our notebooks.. Holy pimp
+Also drop that deluded quest for batteries.. F-ing Nazis \#VW
+
+---
+
+DW: "EU demands Volkswagen pay all EU consumers affected by
+'Dieselgate'.. The EU's Justice Commissioner called on Volkswagen to
+pay out to all EU consumers affected by Dieselgate. The EU also
+accused Volkswagen of being unwilling to work with consumer groups"
 
 ---
 
