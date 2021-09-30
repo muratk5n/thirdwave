@@ -43,8 +43,7 @@ other source of power running amok: Money.
 ---
 
 "New Waste-to-Hydrogen Agreement ... Positions the Island of
-Martinique as a Blueprint for the Caribbean. Will focus on hydrogen
-production for power generation"
+Martinique as a Blueprint for the Caribbean"
 
 [[-]](https://bit.ly/3AKagma )
 
