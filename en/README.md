@@ -4,8 +4,9 @@
 
 Not bad.. 
 
-BBC: "[New PM Kishida] promised to spend billions of dollars to help
-the world's third-biggest economy recover from Covid restrictions.
+BBC: "[Newly elected Japanese PM Kishida] promised to spend billions
+of dollars to help the world's third-biggest economy recover from
+Covid restrictions.
 
 Unlike another rival .. he has been more critical of the economic
 policy of former prime minister Shinzo Abe, known as Abenomics, saying
@@ -14,10 +15,6 @@ that only the rich got richer.
 With China also high on the agenda for the leadership election, Mr
 Kishida has accused Beijing of wanting to export 'its authoritarian
 system'"
-
----
-
-"Japan: Ruling party votes for Fumio Kishida [as PM]"
 
 ---
 
