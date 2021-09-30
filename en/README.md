@@ -1,12 +1,8 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-"@thrasherxy
+---
 
-A catastrophic failure of US journalism and politics is that something
-like Biden's 10-year, $3.5 trillion infrastructure bill is not called
-a $350 billion annual bill...but the Pentagon's budget, which will
-exceed $7.5 trillion over a decade, is called a $750 billion annual
-bill"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A catastrophic failure of US journalism and politics is that something like Biden&#39;s 10-year, $3.5 trillion infrastructure bill is not called a $350 billion annual bill...but the Pentagon&#39;s budget, which will exceed $7.5 trillion over a decade, is called a $750 billion annual bill</p>&mdash; Dr. Steven W. Thrasher (@thrasherxy) <a href="https://twitter.com/thrasherxy/status/1443367035610730499?ref_src=twsrc%5Etfw">September 30, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
