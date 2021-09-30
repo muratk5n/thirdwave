@@ -65,8 +65,8 @@ it voted to leave the European Union"
 
 ---
 
-Brit woman crying bcz of fuel shortage.. Seriously. Your once PM Tony
-caused more mishap than that in Iraq.
+Brit woman crying bcz of fuel shortage.. Seriously... Your once PM
+Tony caused more mishap than that in Iraq.
 
 ---
 
