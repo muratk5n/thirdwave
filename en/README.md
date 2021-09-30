@@ -38,7 +38,7 @@ NYT: "German Election Leaves Merkel’s Conservatives in Disarray"
 
 Need to be careful with overt anti-politician anti-electoral politics
 types.. If politics is delegitimized, what are you left with? With the
-other source of power: Money. People with it will rule.
+other source of power: Money. .
 
 ---
 
