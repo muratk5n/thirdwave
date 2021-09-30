@@ -50,8 +50,7 @@ Caribbean. Will focus on hydrogen production for power generation"
 
 ---
 
-Official CDC statements shown as a disclaimer on each vid wld be
-better than outright banning
+Why not show official CDC statements on each vid rather than outright banning?
 
 DW: "YouTube to block all anti-vaccine content"
 
