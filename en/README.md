@@ -16,9 +16,8 @@ TeX craps out. Where were my symlinks at?  Bring it on!
 
 No green tech comes close to renewable fuels' versatility. Between
 green ammonia and green H2, they can handle all cases. Ammonia can
-even handle refigration. H2 can power rockets (see the latest Blue
-Origin launch). H2 can even act as a battery, see
-[Lavo](https://lavo.com.au/).
+handle refigration. H2 can power rockets (see the latest Blue Origin
+launch), even serve as a battery, see [Lavo](https://lavo.com.au/).
 
 ---
 
