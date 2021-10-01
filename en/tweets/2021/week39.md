@@ -1,5 +1,69 @@
 # Week 39
 
+Not bad.. 
+
+BBC: "[Kishida] promised to spend billions of dollars to help the
+world's third-biggest economy recover from Covid restrictions.
+
+Unlike another rival .. he has been more critical of the economic
+policy of former prime minister Shinzo Abe, known as Abenomics, saying
+that only the rich got richer.
+
+With China also high on the agenda for the leadership election, Mr
+Kishida has accused Beijing of wanting to export 'its authoritarian
+system'"
+
+---
+
+"Japan: Ruling party votes for Fumio Kishida [as PM]"
+
+---
+
+Right needs to act right, left needs to act left. Else there are
+gaping holes in the pol palette others will fill (as Nazis did in
+Germany). Post-ideology, TINA world is over. We are now in a
+post-post-ideology world.
+
+---
+
+NYT: "German Election Leaves Merkel’s Conservatives in Disarray"
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A catastrophic failure of US journalism and politics is that something like Biden&#39;s 10-year, $3.5 trillion infrastructure bill is not called a $350 billion annual bill...but the Pentagon&#39;s budget, which will exceed $7.5 trillion over a decade, is called a $750 billion annual bill</p>&mdash; Dr. Steven W. Thrasher (@thrasherxy) <a href="https://twitter.com/thrasherxy/status/1443367035610730499?ref_src=twsrc%5Etfw">September 30, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Need to be careful with overt anti-politician anti-electoral politics
+types.. If politics is delegitimized, what are you left with? With the
+other source of power running amok: Money.
+
+---
+
+"New Waste-to-Hydrogen Agreement ... Positions the Island of
+Martinique as a Blueprint for the Caribbean"
+
+[[-]](https://bit.ly/3AKagma )
+
+---
+
+Why not show official CDC statements on each vid rather than outright banning?
+
+DW: "YouTube to block all anti-vaccine content"
+
+---
+
+NYT: "[Report] estimates that Britain is facing a shortfall of 100,000
+drivers. About 20 percent of those are drivers who left Britain after
+it voted to leave the European Union"
+
+---
+
+Brit woman crying bcz of fuel shortage.. Seriously... Your once PM
+Tony caused more mishap than that in Iraq.
+
+---
+
 AP: "French and Australian officials said Monday that France’s anger
 over a canceled submarine contract will not derail negotiations on an
 Australia-European Union free trade deal"

@@ -1,72 +1,95 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
----
 
-Not bad.. 
-
-BBC: "[Kishida] promised to spend billions of dollars to help the
-world's third-biggest economy recover from Covid restrictions.
-
-Unlike another rival .. he has been more critical of the economic
-policy of former prime minister Shinzo Abe, known as Abenomics, saying
-that only the rich got richer.
-
-With China also high on the agenda for the leadership election, Mr
-Kishida has accused Beijing of wanting to export 'its authoritarian
-system'"
+My stash of collected ed code became so massive it started getting
+pull request. Dude just converted one Matlab script into 🐍
 
 ---
 
-"Japan: Ruling party votes for Fumio Kishida [as PM]"
+Richard Eldwyn - Binairement \#music
+
+[[-]](https://youtu.be/fT3YmOe4d7k)
 
 ---
 
-Right needs to act right, left needs to act left. Else there are
-gaping holes in the pol palette others will fill (as Nazis did in
-Germany). Post-ideology, TINA world is over. We are now in a
-post-post-ideology world.
+Back to a working `pdflatex`. Phew
 
 ---
 
-NYT: "German Election Leaves Merkel’s Conservatives in Disarray"
+Oh yea.. disk mount point changed, due to automount, now jury-rigged
+TeX craps out. Where were my symlinks at?  Bring it on!
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A catastrophic failure of US journalism and politics is that something like Biden&#39;s 10-year, $3.5 trillion infrastructure bill is not called a $350 billion annual bill...but the Pentagon&#39;s budget, which will exceed $7.5 trillion over a decade, is called a $750 billion annual bill</p>&mdash; Dr. Steven W. Thrasher (@thrasherxy) <a href="https://twitter.com/thrasherxy/status/1443367035610730499?ref_src=twsrc%5Etfw">September 30, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+No green tech comes close to renewable fuels' versatility. Between
+green ammonia and green H2, they can handle **all cases**. Ammonia can
+even handle refigration. H2 can power rockets (see the latest Blue
+Origin launch). H2 can even act as a battery, see [Lavo](https://lavo.com.au/).
 
 ---
 
-Need to be careful with overt anti-politician anti-electoral politics
-types.. If politics is delegitimized, what are you left with? With the
-other source of power running amok: Money.
+"HDF Energy Breaks Ground On World’s Largest Green Hydrogen Power
+Project. @HDF_Energy will supply 100% renewable, stable & dispatchable
+power to 10,000 households at lower cost than diesel power plant with
+zero-missions"
+
+[[-]](https://bit.ly/3kPyfuC)
 
 ---
 
-"New Waste-to-Hydrogen Agreement ... Positions the Island of
-Martinique as a Blueprint for the Caribbean"
+"@nytimes
 
-[[-]](https://bit.ly/3AKagma )
-
----
-
-Why not show official CDC statements on each vid rather than outright banning?
-
-DW: "YouTube to block all anti-vaccine content"
+A new generation has become engrossed by The Sopranos, the early 2000s
+hit. Its creator, David Chase, told @willystaley about how it captured
+a country in decline — where things had become so selfish and
+narcissistic, that even the mob couldn’t take it"
 
 ---
 
-ME conflict [stats](2019/05/confstats.md#gdeltme)
+DL basist says learned some chops from [Marcus Miller](https://youtu.be/9cjARtgDUCw?t=54),
+slap bass expert
 
 ---
 
-NYT: "[Report] estimates that Britain is facing a shortfall of 100,000
-drivers. About 20 percent of those are drivers who left Britain after
-it voted to leave the European Union"
+Dirty Loops & Cory Wong - Thriller \#music
+
+[[-]](https://youtu.be/m34byl2BT1o)
 
 ---
 
-Brit woman crying bcz of fuel shortage.. Seriously... Your once PM
-Tony caused more mishap than that in Iraq.
+Dried beans are extremely energy inefficient. Rehydrating, cooking
+them takes too much energy, and when hydrated they become too heavy
+(with all that water).
+
+"Certain products require longer cooking periods thus energy
+consumption is higher. For example, cooking beans takes around eight
+times longer and can require more than 200 MJ per kg food"
+
+---
+
+New PM's opponent was more pro renewables, we'll see how PM turns out.
+Oppo was more popular but he didn't get the nod. Japan cld benefit
+from another strong party. They need more ideological division.
+
+---
+
+Lowflation is not a good place to be.. Investment starts going after
+bizarre companies, debtors get in trouble, ppl dont have incentive to
+spend.
+
+---
+
+Ew but young people, old people, etc.. How many ppl does it take to
+invent a bleeping Walkman? You can get stuff done, with the same amt
+of ppl and the right structure.
+
+---
+
+Abenomics tried and tried and failed to increase inflation. It should
+not be too surprising, Japan's labor pool was decreasing. Inflation
+requires workers who are earning salary and spending it. One choice
+cld be giving existing ppl more money to spend - direct cash. Abe did
+bunch of supply-side band-aid ("cutting red tape"), and failed.
 
 ---
 
