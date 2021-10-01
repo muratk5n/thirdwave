@@ -1,8 +1,7 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-
-My stash of collected ed code became so massive it started getting
-pull request. Dude just converted one Matlab script into 🐍
+Stash of collected ed code became so massive it started getting pull
+request. Dude just converted one Matlab script into 🐍
 
 ---
 
