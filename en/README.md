@@ -61,9 +61,9 @@ times longer and can require more than 200 MJ per kg food"
 
 ---
 
-New PM's opponent was more pro renewables, we'll see how PM turns out.
+New PM's opponent was pro-renewables, we'll see how PM turns out.
 Oppo was more popular but he didn't get the nod. Japan cld benefit
-from another strong party. They need more ideological division.
+from another strong party. They need ideological division.
 
 ---
 
