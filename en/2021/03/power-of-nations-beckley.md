@@ -1,12 +1,12 @@
 # The Power of Nations
 
-Michael Beckley [Article](https://www.mitpressjournals.org/doi/pdf/10.1162/isec_a_00328)
+Michael Beckley 
 
-Many scholars and analysts measure power in terms of
-resources. Unfortunately, most of them measure resources in gross
-rather than net terms. As noted, gross indicators systematically
-overstate the power of populous countries, because they count the
-benefits of having a big population, but not the costs...
+Many scholars and analysts measure power in terms of resources
+[1]. Unfortunately, most of them measure resources in gross rather
+than net terms. As noted, gross indicators systematically overstate
+the power of populous countries, because they count the benefits of
+having a big population, but not the costs...
 
 To rank among the most powerful nations in the world, a state needs to
 amass a large stock of resources, and to do that a state must be big
@@ -206,4 +206,10 @@ Bank’s measures of net resources (or other measures of net stocks of
 economic and military resources not shown here), then China lags far
 behind the United States and looks set to do so for the foreseeable
 future.
+
+References
+
+[1] [Article](https://www.mitpressjournals.org/doi/pdf/10.1162/isec_a_00328)
+
+[2] [Code](power-of-nations-beckley-code.md)
 
