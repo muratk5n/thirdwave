@@ -178,13 +178,13 @@ bureaucracy and scientific establishment.
 
 The problem, however, is that these are the same gross indicators that
 made China look like a superpower during its century of humiliation:
-in the mid1800s, China had the world’s largest economy and military;
+in the mid-1800s, China had the world’s largest economy and military;
 led the world in manufacturing output; ran a trade surplus with
 Britain; presided over a tributary system that extended Chinese trade
 and investment, infrastructure projects, and soft power across
 continental East Asia; and was celebrated in the West for its consumer
 market potential and tradition of bureaucratic competence and
-scientiªc ingenuity.
+scientific ingenuity.
 
 Obviously China is not as weak today as it was in the nineteenth
 century, but neither is it as powerful as its gross resources
@@ -198,7 +198,7 @@ nineteen countries, most of which are hostile toward China,
 politically unstable, or both.
 
 Accounting for even a fraction of these production, welfare, and
-security costs substantially reduces the signiªcance of China’s
+security costs substantially reduces the significance of China’s
 rise... if power is measured in terms of GDP or CINC, China already
 appears to be the most powerful country in the world; by contrast, if
 power is measured with my proxy for net resources or the UN or World
