@@ -6,12 +6,6 @@ pull request. Dude just converted one Matlab script into 🐍
 
 ---
 
-Richard Eldwyn - Binairement \#music
-
-[[-]](https://youtu.be/fT3YmOe4d7k)
-
----
-
 Back to a working `pdflatex`. Phew
 
 ---
