@@ -152,4 +152,58 @@ resources. China’s population, GDP, and military were several times
 larger than Japan’s, but Japan had greater net resources because it
 was much more efficient than China ...
 
+<a name='chsuperpower'/>
+
+First, an enormous literature in international relations has been
+built on a flawed conception of power, so existing studies may need to
+be reevaluated with new measures. As noted, more than 1,000
+peer-reviewed studies have used CINC to measure power. Yet, this
+indicator severely mischaracterizes the balance of power in some of
+the most important geopolitical events of the past 200 years. CINC
+also suggests, nonsensically, that Israel is, and has always been, one
+of the weakest countries in the Middle East; Singapore is one of the
+weakest in Southeast Asia; Brazil dominates South America with roughly
+five times the power resources of any other state; Russia dominated
+Europe throughout the 1990s, with more power resources than Germany,
+France, and the United Kingdom combined; and China has dominated the
+world since 1996 and currently has twice the power resources of the
+United States...
+
+The main evidence typically cited for these trends is China’s rising
+GDP and military spending and various statistics that are essentially
+subcomponents of GDP—most notably, China’s massive manufacturing
+output; volume of exports; trade surplus with the United States;
+infrastructure spending; consumer spending; and large government
+bureaucracy and scientific establishment.
+
+The problem, however, is that these are the same gross indicators that
+made China look like a superpower during its century of humiliation:
+in the mid1800s, China had the world’s largest economy and military;
+led the world in manufacturing output; ran a trade surplus with
+Britain; presided over a tributary system that extended Chinese trade
+and investment, infrastructure projects, and soft power across
+continental East Asia; and was celebrated in the West for its consumer
+market potential and tradition of bureaucratic competence and
+scientiªc ingenuity.
+
+Obviously China is not as weak today as it was in the nineteenth
+century, but neither is it as powerful as its gross resources
+suggest. China may have the world’s biggest economy and military, but
+it also leads the world in debt; resource consumption; pollution;
+useless infrastructure and wasted industrial capacity; scientific
+fraud; internal security spending; border disputes; and populations of
+invalids.. China also uses seven times the input to generate a given
+level of economic output as the United States and is surrounded by
+nineteen countries, most of which are hostile toward China,
+politically unstable, or both.
+
+Accounting for even a fraction of these production, welfare, and
+security costs substantially reduces the signiªcance of China’s
+rise... if power is measured in terms of GDP or CINC, China already
+appears to be the most powerful country in the world; by contrast, if
+power is measured with my proxy for net resources or the UN or World
+Bank’s measures of net resources (or other measures of net stocks of
+economic and military resources not shown here), then China lags far
+behind the United States and looks set to do so for the foreseeable
+future.
 
