@@ -74,8 +74,8 @@ spend.
 ---
 
 Ew but young people, old people, etc.. How many ppl does it take to
-invent a bleeping Walkman? You can get stuff done, with the same amt
-of ppl and the right structure.
+invent a f-ing Walkman? You can get stuff done, with the same amt of
+ppl and the right structure.
 
 ---
 
