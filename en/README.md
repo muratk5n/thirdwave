@@ -13,7 +13,7 @@ Some words get thrown around too easily. Superpower? This is a country
 which has a long agrarian-empire past -a negative-, did not explore as
 the West did, in fact, failed to map even the mid-size landmasses near
 it, missed the boat on most major tech innovations of the last 300
-years.. You dont come back from that. Not e-z
+years.. You dont come back from that e-z.
 
 ---
 
