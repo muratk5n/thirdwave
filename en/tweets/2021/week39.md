@@ -1,5 +1,91 @@
 # Week 39
 
+Stash of collected ed code became so massive it started getting pull
+request. Dude just converted one Matlab script into 🐍
+
+---
+
+Back to a working `pdflatex`. Phew
+
+---
+
+Oh yea.. disk mount point changed, due to automount, now jury-rigged
+TeX craps out. Where were my symlinks at?  Bring it on!
+
+---
+
+No green tech comes close to renewable fuels' versatility. Between
+green ammonia and green H2, they can handle all cases. Ammonia can
+handle refigration. H2 can power rockets (see the latest Blue Origin
+launch), even serve as a battery, see [Lavo](https://lavo.com.au/).
+
+---
+
+"HDF Energy Breaks Ground On World’s Largest Green Hydrogen Power
+Project. @HDF_Energy will supply 100% renewable, stable & dispatchable
+power to 10,000 households at lower cost than diesel power plant with
+zero-missions"
+
+[[-]](https://bit.ly/3kPyfuC)
+
+---
+
+"@nytimes
+
+A new generation has become engrossed by The Sopranos, the early 2000s
+hit. Its creator, David Chase, told @willystaley about how it captured
+a country in decline — where things had become so selfish and
+narcissistic, that even the mob couldn’t take it"
+
+---
+
+DL basist says learned some chops from [Marcus Miller](https://youtu.be/9cjARtgDUCw?t=54),
+slap bass expert
+
+---
+
+Dirty Loops & Cory Wong - Thriller \#music
+
+[[-]](https://youtu.be/m34byl2BT1o)
+
+---
+
+Dried beans are extremely energy inefficient. Rehydrating, cooking
+them takes too much energy, and when hydrated they become too heavy
+(with all that water).
+
+"Certain products require longer cooking periods thus energy
+consumption is higher. For example, cooking beans takes around eight
+times longer and can require more than 200 MJ per kg food"
+
+---
+
+New PM's opponent was pro-renewables, we'll see how this guy turns
+out.  Oppo was more popular but he didn't get the nod. Japan cld
+benefit from another strong party. They need ideological division.
+
+---
+
+Lowflation is not a good place to be.. Investment starts going after
+bizarre companies, debtors get in trouble, ppl dont have incentive to
+spend.
+
+---
+
+Ew but young people, old people, etc.. How many ppl does it take to
+invent a f-ing Walkman? You can get stuff done, with the same amt of
+ppl and the right structure.
+
+---
+
+Abenomics tried and tried and failed to increase inflation. It should
+not be too surprising, Japan's labor pool was decreasing. Inflation
+requires workers who are earning salary and spending it. One choice
+cld be giving existing ppl more money to spend - direct cash. Abe did
+bunch of supply-side band-aid ("cutting red tape"), and failed.
+
+---
+
 Not bad.. 
 
 BBC: "[Kishida] promised to spend billions of dollars to help the
@@ -61,12 +147,6 @@ it voted to leave the European Union"
 
 Brit woman crying bcz of fuel shortage.. Seriously... Your once PM
 Tony caused more mishap than that in Iraq.
-
----
-
-AP: "French and Australian officials said Monday that France’s anger
-over a canceled submarine contract will not derail negotiations on an
-Australia-European Union free trade deal"
 
 ---
 
@@ -179,12 +259,6 @@ Nazis (AFD) took a big chunk of your shit. The point of your party was
 not to let that happen.
 
 AFP: "Merkel's CDU party secretary calls German exit poll results 'bitter'"
-
----
-
-F24: "Mali has asked private Russian companies to boost security,
-Russia's foreign minister confirmed Saturday [as France prepares] a
-large troop drawdown"
 
 ---
 

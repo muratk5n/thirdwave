@@ -1,88 +1,77 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-Stash of collected ed code became so massive it started getting pull
-request. Dude just converted one Matlab script into 🐍
+"@jasonhickel
+
+On this day in 1967, the United States collaborated in a coup that
+deposed Sukarno, the first leader of independent Indonesia, and
+replaced him with a right-wing dictatorship. US officials conspired
+with the dictatorship to massacre 500,000 left-wing [Indonesians]"
 
 ---
 
-Back to a working `pdflatex`. Phew
+Some words get thrown around too easily. Superpower? This is a country
+which has a long agrarian-empire past -a negative-, did not explore as
+the West did, in fact, failed to map even the mid-size landmasses near
+it, missed the boat on most major tech innovations of the last 300
+years.. You dont come back from that. Not e-z
 
 ---
 
-Oh yea.. disk mount point changed, due to automount, now jury-rigged
-TeX craps out. Where were my symlinks at?  Bring it on!
+One addition here; CH is [not a rising superpower](2021/03/power-of-nations-beckley.md#chsuperpower).
 
 ---
 
-No green tech comes close to renewable fuels' versatility. Between
-green ammonia and green H2, they can handle all cases. Ammonia can
-handle refigration. H2 can power rockets (see the latest Blue Origin
-launch), even serve as a battery, see [Lavo](https://lavo.com.au/).
+🤣
+
+"Lithuania vs. China: A Baltic Minnow Defies a Rising
+Superpower.. Lithuania has enraged China by advising officials to
+scrap Chinese phones that it says contain censorship software, while
+cozying up to Taiwan and quitting a Chinese-led regional forum"
 
 ---
 
-"HDF Energy Breaks Ground On World’s Largest Green Hydrogen Power
-Project. @HDF_Energy will supply 100% renewable, stable & dispatchable
-power to 10,000 households at lower cost than diesel power plant with
-zero-missions"
+Now we start to see the creation of a lowflation world was a policy
+choice. Creditors were happy. Businesses were happy, they could get
+depressed wages through outsourcing or immigration. Through
+competition the employer-state kept citizens on their toes, didn't
+have to give them any benefits, in reverse, lack of benefits helped
+them to import new citizens easier.
 
-[[-]](https://bit.ly/3kPyfuC)
-
----
-
-"@nytimes
-
-A new generation has become engrossed by The Sopranos, the early 2000s
-hit. Its creator, David Chase, told @willystaley about how it captured
-a country in decline — where things had become so selfish and
-narcissistic, that even the mob couldn’t take it"
+But there was trouble in paradise..  More and more money was chasing
+freak investments -- just look at all the companies shorted by Michael
+Burry of the *The Big Short* fame.. In what world can Shopify have a
+market cap over 300 TIMES its cash flow? Only in this bizarro one.
 
 ---
 
-DL basist says learned some chops from [Marcus Miller](https://youtu.be/9cjARtgDUCw?t=54),
-slap bass expert
+The listed mistakes dont sound too bad. NSW vax rates were going up and
+they were preparing to open up.. Pity.. 
+ 
+The Mandarin: "Gladys Berejiklian — a glittering career undone by two
+disastrous misjudgments"
+
+[[-]](https://www.themandarin.com.au/170810-gladys-berejiklian-a-glittering-career-undone-by-two-disastrous-misjudgments/)
 
 ---
 
-Dirty Loops & Cory Wong - Thriller \#music
+The watchdog ICAC has some pull, eh? 
 
-[[-]](https://youtu.be/m34byl2BT1o)
+There doesnt seem to be an underhanded motive behind this, or failure
+at the job. She looked like an able public servant.. Sad.
 
----
-
-Dried beans are extremely energy inefficient. Rehydrating, cooking
-them takes too much energy, and when hydrated they become too heavy
-(with all that water).
-
-"Certain products require longer cooking periods thus energy
-consumption is higher. For example, cooking beans takes around eight
-times longer and can require more than 200 MJ per kg food"
+"[Oz state Premier] Gladys Berejiklian resigns as NSW premier as ICAC investigates"
 
 ---
 
-New PM's opponent was pro-renewables, we'll see how this guy turns
-out.  Oppo was more popular but he didn't get the nod. Japan cld
-benefit from another strong party. They need ideological division.
+The problem is also due to Reps not being in government. If they were,
+the overall message wld be different, the public wld be led
+differently. Governance carries some responsibility, noone wants to be
+hemmed in inane arguments. Trump was actually keeping the culture war
+contained on less deadly dumb-ass shit, like masks. The followers were
+being fed a culture war on that, but not on vaccines.
 
----
-
-Lowflation is not a good place to be.. Investment starts going after
-bizarre companies, debtors get in trouble, ppl dont have incentive to
-spend.
-
----
-
-Ew but young people, old people, etc.. How many ppl does it take to
-invent a f-ing Walkman? You can get stuff done, with the same amt of
-ppl and the right structure.
-
----
-
-Abenomics tried and tried and failed to increase inflation. It should
-not be too surprising, Japan's labor pool was decreasing. Inflation
-requires workers who are earning salary and spending it. One choice
-cld be giving existing ppl more money to spend - direct cash. Abe did
-bunch of supply-side band-aid ("cutting red tape"), and failed.
+With that "guidance" gone, retards are running around in random
+directions, "free-range", causing chaos.
 
 ---
 
