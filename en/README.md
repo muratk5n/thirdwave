@@ -33,9 +33,9 @@ cozying up to Taiwan and quitting a Chinese-led regional forum"
 Now we start to see the creation of a lowflation world was a policy
 choice. Creditors were happy. Businesses were happy, they could get
 depressed wages through outsourcing or immigration. Through
-competition the employer-state kept citizens on their toes, didn't
-have to give them any benefits, in reverse, lack of benefits helped
-them to import new citizens easier.
+competition the single-party employer-state kept citizens on their
+toes, didn't have to give them any benefits, in reverse, lack of
+benefits helped them to import new citizens easier.
 
 But there was trouble in paradise..  More and more money was chasing
 freak investments -- just look at all the companies shorted by Michael
