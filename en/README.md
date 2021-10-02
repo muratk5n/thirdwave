@@ -56,8 +56,9 @@ disastrous misjudgments"
 
 The watchdog ICAC has some pull, eh? 
 
-There doesnt seem to be an underhanded motive behind this, or failure
-at the job. She looked like an able public servant.. Sad.
+There doesnt seem to be an underhanded motive behind the
+investigation, or premier failure at the job. She looked like an able
+public servant.. Sad.
 
 "[Oz state Premier] Gladys Berejiklian resigns as NSW premier as ICAC investigates"
 
