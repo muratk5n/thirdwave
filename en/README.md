@@ -66,9 +66,10 @@ at the job. She looked like an able public servant.. Sad.
 The problem is also due to Reps not being in government. If they were,
 the overall message cld differ, the public cld be led
 differently.. Governance carries some responsibility, noone wants to
-be hemmed in inane arguments. Trump was actually keeping the culture
-war contained on less deadly dumb-ass shit, like masks. The followers
-were being fed a culture war on that, but not on vaccines.
+be hemmed in to a corner by inane arguments. Trump was actually
+keeping the culture war contained on less deadly dumb-ass shit, like
+masks. The followers were being fed a culture war on that, but not on
+vaccines.
 
 With that "guidance" gone, retards are running around in random
 directions, "free-range", causing chaos.
