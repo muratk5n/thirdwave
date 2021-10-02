@@ -202,10 +202,8 @@ security costs substantially reduces the significance of China’s
 rise... if power is measured in terms of GDP or CINC, China already
 appears to be the most powerful country in the world; by contrast, if
 power is measured with my proxy for net resources or the UN or World
-Bank’s measures of net resources (or other measures of net stocks of
-economic and military resources not shown here), then China lags far
-behind the United States and looks set to do so for the foreseeable
-future.
+Bank’s measures of net resources ..., then China lags far behind the
+United States and looks set to do so for the foreseeable future.
 
 References
 
