@@ -39,8 +39,9 @@ benefits helped them to import new citizens easier.
 
 But there was trouble in paradise..  More and more money was chasing
 freak investments -- just look at all the companies shorted by Michael
-Burry of the *The Big Short* fame.. In what world can Shopify have a
-market cap over 300 TIMES its cash flow? Only in this bizarro one.
+Burry today (of the *The Big Short* fame).. In what world can Shopify
+have a market cap over 300 TIMES its cash flow? Only in the one where
+bizarro priorities atop all else.
 
 ---
 
