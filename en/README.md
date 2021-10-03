@@ -50,13 +50,13 @@ statistical test wld agree. Clustering disproved.
 
 Why the Poisson distribution usage in this [post](2021/08/bermuda.md)?
 Event counts tend to be distributed that way.. Let's take the London
-bombing example (link below). They were wondering if bombings were clustering
-at specific places. Cld be important.. Maybe Nazis were focusing
-bombing somewhere? Poisson is for natural counts, then if that is proven,
-clustering is disproved.
+bombing [example](https://www.cambridge.org/core/journals/journal-of-the-institute-of-actuaries/article/abs/an-application-of-the-poisson-distribution/F75111847FDA534103BD4941BD96A78E).
+They were wondering if bombings were clustering at specific places.
+Cld be important.. Maybe Nazis were focusing bombing somewhere? Poisson
+is for natural counts, then if that is proven, clustering is disproved.
 
 
-[[-]](https://www.cambridge.org/core/journals/journal-of-the-institute-of-actuaries/article/abs/an-application-of-the-poisson-distribution/F75111847FDA534103BD4941BD96A78E)
+[[-]]()
 
 ---
 
