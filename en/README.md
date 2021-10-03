@@ -61,7 +61,7 @@ clustering is disproved.
 ---
 
 Maybe they are Israelis from America. Their great-great-great
-grandfathers were kicked out by a Palestenian's great-great-great
+grandfather was kicked out by a Palestenian's great-great-great
 grandfather, and, like, now they are totally back. 🤣
 
 ---
