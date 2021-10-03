@@ -55,9 +55,6 @@ They were wondering if bombings were clustering at specific places.
 Cld be important.. Maybe Nazis were focusing bombing somewhere? Poisson
 is for natural counts, then if that is proven, clustering is disproved.
 
-
-[[-]]()
-
 ---
 
 Maybe they are Israelis from America. Their great-great-great
