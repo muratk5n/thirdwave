@@ -45,10 +45,9 @@ Out[1]: [226.74, 211.39, 98.54, 30.62]
 Real counts were 229, 211, 93, 35, etc. Pretty close. I am sure a
 statistical test wld agree. Clustering disproved. 
 
-
 ---
 
-Why did I talk abt the Poisson distribution [here](2021/08/bermuda.md)?
+Why did I talk abt the Poisson distribution in this [post](2021/08/bermuda.md)?
 Event counts tend to be Poisson.. Take the London bombing example
 (see link below). They were wondering if bombings were clustering
 at specific places.. Cld be important right? Maybe Nazis were focusing
