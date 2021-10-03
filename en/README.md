@@ -60,6 +60,12 @@ clustering is disproved.
 
 ---
 
+Maybe they are Israelis from America. Their great-great-great
+grandfathers were like kicked out of Israel by a Palestenian's
+great-great-great grandfather and now they are back. 🤣
+
+---
+
 US teenagers there..? "Like, totally, a game changer, I liked eeiiiit"
 
 ---
