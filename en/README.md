@@ -90,13 +90,13 @@ reshaping corporate America"
 
 ---
 
-It's a start.. I applaud
+BBC: "Climate change: Stop smoke and mirrors, rich nations told"
 
-"Qataris vote in first-ever legislative elections for advisory
-council... [which] will be allowed to propose legislation, approve the
-budget and recall ministers. But it has no control over executive
-bodies setting defence, security, economic and investment policy for
-the small but wealthy gas producer, which bans political parties"
+---
+
+"An ecologically minded experiment to make Paris a cycling capital of
+Europe has led to a million people now pedaling daily — and to rising
+tensions with pedestrians."
 
 ---
 
