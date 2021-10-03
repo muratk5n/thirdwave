@@ -717,11 +717,10 @@ regex = 'historicalPrices\: \{"instrumentName"\:"Coal".*?\}\)\;'
 res = re.findall(regex, resp.text, re.DOTALL)
 res2 = re.findall('"Close":(.*?),.*?"Date":"(\d\d/\d\d/\d\d)"', res[0])
 df = pd.DataFrame(res2, columns =['Price', 'Date'])
-df['Date2'] = pd.to_datetime(df.Date)
-df['Price2'] = df.apply(lambda x: float(x.Price), axis=1)
-df = df.sort_values('Date2')
-df = df.set_index('Date2')
-df.Price2.plot()
+df['Date'] = pd.to_datetime(df.Date)
+df['Price'] = df.apply(lambda x: float(x.Price), axis=1)
+df = df.sort_values('Date').set_index('Date')
+df.Price.plot()
 plt.savefig('coal.png')
 ```
 
