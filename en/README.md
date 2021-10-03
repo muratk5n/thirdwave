@@ -28,7 +28,8 @@ $$ f(x) = P(X=x) = e^{-\lambda}\frac{\lambda^{x}}{x!} $$
 which gives probability of 1 event, 2 events, in a certain block of
 time. But in geo you have to think little differently. You divide
 London into grids, and count how many bombs fell on each, then count
-how many grids had 1 bomb, 2 bombs, etc. Reproducing grid counts from math,
+how many grids had 1 bomb, 2 bombs, etc. Reproducing such counts from
+formula,
 
 ```python
 N = 576.
