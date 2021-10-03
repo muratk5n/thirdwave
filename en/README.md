@@ -71,7 +71,7 @@ door actually), Israel.
 
 ---
 
-They are [too loud](2021/03/unrivaled-beckley.md#sub)
+The tech is [too noisy](2021/03/unrivaled-beckley.md#sub)
 
 "China has nuclear subs too"
 
