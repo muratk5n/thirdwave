@@ -70,8 +70,8 @@ US teenagers there..? "Like, totally, a game changer, I liked eeiiiit"
 
 ---
 
-Laboratory grown meat served a restaurant (they grow it right next
-door actually), Israel.
+Laboratory grown meat served in a restaurant (they grow the meat right
+next door actually), Israel.
 
 <iframe width="340" src="https://www.youtube.com/embed/CzEDkMnJ5Bo?start=17" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
