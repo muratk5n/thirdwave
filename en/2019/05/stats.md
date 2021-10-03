@@ -703,6 +703,30 @@ plt.savefig('crude-production.png')
 
 ![](crude-production.png)
 
+<a name="coal"></a>
+
+## Coal
+
+```python
+import re, requests, pandas as pd
+
+headers = { 'User-Agent': 'UCWEB/2.0 (compatible; Googlebot/2.1; +google.com/bot.html)'}
+url = "https://markets.businessinsider.com/commodities/coal-price"
+resp = requests.get(url, headers=headers, timeout=2)
+regex = 'historicalPrices\: \{"instrumentName"\:"Coal".*?\}\)\;'
+res = re.findall(regex, resp.text, re.DOTALL)
+res2 = re.findall('"Close":(.*?),.*?"Date":"(\d\d/\d\d/\d\d)"', res[0])
+df = pd.DataFrame(res2, columns =['Price', 'Date'])
+df['Date2'] = pd.to_datetime(df.Date)
+df['Price2'] = df.apply(lambda x: float(x.Price), axis=1)
+df = df.sort_values('Date2')
+df = df.set_index('Date2')
+df.Price2.plot()
+plt.savefig('coal.png')
+```
+
+![](coal.png)
+
 
 <a name="credit"/>
 
