@@ -125,15 +125,15 @@ times greater than what China could hope to inflict on Taiwan...
 
 <a name='sub'/>
 
-China’s nine nuclear-powered submarines (four strategic, fi ve
+China’s nine nuclear-powered submarines (four strategic, five
 tactical) carry less than half the munitions of current
-U.S. submarines and are louder than U.S. submarines from the 1960s. 46
+U.S. submarines and are louder than U.S. submarines from the 1960s.
 Consequently, the U.S. Navy, which operates a sound surveillance
 system in the waters of East Asia, can track China’s nuclear-powered
-submarines at long ranges. 47 China is developing its own sound
+submarines at long ranges. China is developing its own sound
 surveillance system, but even when it becomes operational (the United
 States spent forty years developing its system) the PLA will have
-diffi culty tracking U.S. submarines...
+difficulty tracking U.S. submarines...
 
 [Due to amphibious difficulties] China, therefore, probably could
 not conquer Taiwan, even in the absence of U.S. intervention. Even if
