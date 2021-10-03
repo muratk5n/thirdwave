@@ -51,7 +51,7 @@ Why did I talk abt the Poisson distribution in this [post](2021/08/bermuda.md)?
 Event counts tend to be Poisson.. Let's take the London bombing example
 (link below). They were wondering if bombings were clustering
 at specific places. Cld be important.. Maybe Nazis were focusing
-bombing somewhere? So Poisson is for natural counts, then if proven,
+bombing somewhere? So Poisson is for natural counts, then if that is proven,
 clustering is disproved.
 
 
