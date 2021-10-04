@@ -54,3 +54,5 @@
 
 [Satoshi Identification](09/satoshi-identification.md)
 
+[Entrepreneurial State](10/entrepreneuel-state-mazzucato.md)
+
