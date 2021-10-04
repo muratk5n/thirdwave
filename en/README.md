@@ -29,7 +29,7 @@ Coal prices are through [the roof](2015/09/stats.md#coal)
 JC was not a miscast! He was better than this new guy.. The key to
 impressions is to catch a key characteristic. JC's angle is a
 pent-up-anger shtick which of course reminds you of *Pet Detective*,
-or *Liar Liar* too, makes it more hilarious.
+or *Liar Liar* made it funnier.
 
 TDB: "Last season, Saturday Night Live navigated its way through the
 transition from Trump to Biden, first by miscasting Jim Carrey
