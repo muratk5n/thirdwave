@@ -22,7 +22,7 @@ project H2Wind"
 
 ---
 
-Coal prices are through [the roof](2015/09/stats.md#coal)
+Coal prices are through [the roof](2019/05/stats.md#coal)
 
 ---
 
