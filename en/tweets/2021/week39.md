@@ -17,7 +17,7 @@ years.. You dont come back from that e-z.
 
 ---
 
-One addition here; CH is [not a rising superpower](2021/03/power-of-nations-beckley.md#chsuperpower).
+One addition here; CH is [not a rising superpower](../../2021/03/power-of-nations-beckley.md#chsuperpower).
 
 ---
 
