@@ -20,4 +20,3 @@ focus was not on subsidising a sector (aeronautics) but on solving
 problems together, which required many sectors and different types of
 public and private actors to collaborate – even those in low-tech
 sectors like textiles.
-

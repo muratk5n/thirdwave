@@ -45,4 +45,3 @@ for researchers in the field. The goal is to create a scientific
 community with a presence in universities, the public sector and
 corporations that focuses on specific technological challenges that
 have to be overcome.
-

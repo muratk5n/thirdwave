@@ -40,11 +40,3 @@ have fuelled the twenty-first-century innovations. Better
 understanding the organizational structures that have encouraged
 problem-solving, risk-taking and horizontal collaborations is thus key
 to understanding the wave of future radical change.
-
-
-
-
-
-
-
-
