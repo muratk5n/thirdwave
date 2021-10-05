@@ -33,6 +33,13 @@ Hyundai is a BUY
 
 ---
 
+A lot of the gadgets we think we need, we really don't.. Take the
+coffee brewer, or the French press; any coffee fine enough for FP can
+also be "brewed" in a cup. That's what FP does in fact. Add coffee,
+boiling water, wait, pour into another cup through a sieve.
+
+---
+
 Translation: dont act like a cynical combmuncher - or you might get
 treated as such
 
@@ -76,13 +83,6 @@ Private companies can be vehicles for delivering end-products based on
 existing fundamental research, fine. But for orig research, they are
 not the right address. Look at all the innovation originating from
 DARPA.. They funded, managed so much.
-
----
-
-A lot of the gadgets we think we need, we really don't.. Take the
-coffee brewer, or the French press; any coffee fine enough for FP can
-also be "brewed" in a cup. That's what FP does in fact. Add coffee,
-boiling water, wait, pour into another cup through a sieve.
 
 ---
 
