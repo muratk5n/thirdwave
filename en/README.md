@@ -32,13 +32,6 @@ Hyundai is a BUY
 
 ---
 
-A lot of the gadgets we think we need, we really don't.. Take the
-coffee brewer, or the French press; any coffee fine enough for FP can
-also be "brewed" in a cup. That's what FP does in fact. Add coffee,
-boiling water, wait, pour into another cup through a sieve.
-
----
-
 Translation: dont act like a cynical combmuncher - or you might get
 treated as such
 
