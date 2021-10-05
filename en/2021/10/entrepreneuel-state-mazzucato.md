@@ -41,7 +41,7 @@ Goldfine 2012)...
 
 * A series of relatively small offices, often staffed with leading
 scientists and engineers, are given considerable budget autonomy to
-support promising 90ideas. These offices are proactive rather than
+support promising ideas. These offices are proactive rather than
 reactive and work to set an agenda for researchers in the field. The
 goal is to create a scientific community with a presence in
 universities, the public sector and corporations that focuses on
