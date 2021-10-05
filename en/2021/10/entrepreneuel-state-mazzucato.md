@@ -37,29 +37,12 @@ example, the role of the State is not mentioned once in the 85 minutes
 spent describing the development of Silicon Valley (Geller and
 Goldfine 2012)...
 
-[F]our key characteristics of the DARPA model:
-
-* A series of relatively small offices, often staffed with leading
-scientists and engineers, are given considerable budget autonomy to
-support promising ideas. These offices are proactive rather than
-reactive and work to set an agenda for researchers in the field. The
-goal is to create a scientific community with a presence in
-universities, the public sector and corporations that focuses on
-specific technological challenges that have to be overcome.
-
-* Funding is provided to a mix of university-based researchers,
-start-up firms, established firms and industry consortia. There is no
-dividing line between ‘basic research’ and ‘applied research’, since
-the two are deeply intertwined. Moreover, the DARPA personnel are
-encouraged to cut off funding to groups that were not making progress
-and reallocate resources to other groups that have more promise.
-
-* Since the goal is to produce usable technological advances, the
-agency’s mandate extends to helping firms get products to the stage of
-commercial viability. The agency can provide firms with assistance
-that goes well beyond research funding.
-
-* Part of the agency’s task is to use its oversight role to link
-ideas, resources and people in constructive ways across the different
-research and development sites.
+[Characteristic] of the DARPA model: A series of relatively small
+offices, often staffed with leading scientists and engineers, are
+given considerable budget autonomy to support promising ideas. These
+offices are proactive rather than reactive and work to set an agenda
+for researchers in the field. The goal is to create a scientific
+community with a presence in universities, the public sector and
+corporations that focuses on specific technological challenges that
+have to be overcome.
 
