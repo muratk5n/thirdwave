@@ -72,7 +72,7 @@ What is his background? In which setting could he do what he did?
 ---
 
 Private companies are good for delivering end-products based on
-existing fundam research. But for that research, not the right
+existing research. But pushing for risky research, not the right
 address. I look at all the inno originating from DARPA.. They funded,
 managed so much.
 
