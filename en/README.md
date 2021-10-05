@@ -66,7 +66,7 @@ snub".
 
 ---
 
-Some addnl gems here on DARPA, gov, and innovation -
+Addn'l gems here on DARPA, gov, and innovation -
 [1](2021/10/entrepreneuel-state-mazzucato.md),
 [2](2021/10/mission-economy.md),
 [3](2021/10/the-value-of-everything.md)
