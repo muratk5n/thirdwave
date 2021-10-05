@@ -27,8 +27,8 @@ affiliated with the University of Southern California. Anyone who
 possessed a superior design for a new microchip could have the chips
 fabricated at this laboratory, thus expanding the pool of participants
 designing faster and better microchips.  The personal computer emerged
-during this time with Apple introducing the first one in
-1976. Following this, the computer industry’s boom in Silicon Valley
+during this time with Apple introducing the first one in 1976.
+Following this, the computer industry’s boom in Silicon Valley
 and the key role of DARPA in the massive growth of personal computing
 received significant attention, but has since been forgotten by those
 who claim Silicon Valley is an example of ‘free market’ capitalism. In
