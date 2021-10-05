@@ -12,9 +12,9 @@ provide limitless storage capacity.
 ---
 
 
-"Fumio Kishida, who was elected to the post by Japan’s Parliament,
-called for more aggressive distribution of wealth to those with lower
-and middle incomes"
+"Fumio Kishida, who was elected [as PM] by Japan’s Parliament, called
+for more aggressive distribution of wealth to those with lower and
+middle incomes"
 
 ---
 
