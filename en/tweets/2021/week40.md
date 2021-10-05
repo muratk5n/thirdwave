@@ -1,5 +1,43 @@
 # Week 40
 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hyundai Motor Group&#39;s Chairman, Euisun Chung, has announced that it will become the first global automaker to apply hydrogen fuel cells to all commercial vehicle (CVs) models by 2028. <a href="https://twitter.com/Hyundai_Global?ref_src=twsrc%5Etfw">@Hyundai_Global</a> <a href="https://t.co/0NTEc3woWq">pic.twitter.com/0NTEc3woWq</a></p>&mdash; Autocar India (@autocarindiamag) <a href="https://twitter.com/autocarindiamag/status/1435127959916924934?ref_src=twsrc%5Etfw">September 7, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+"New Rules from #European Parliament on Energy Infrastructure: “Boost
+Hydrogen & Carbon Capture, Phase Out Natural Gas”. No more financial
+support for natural gas projects. Funds should support hydrogen,
+CCS"
+
+[[-]](https://bit.ly/3upBRH5)
+
+---
+
+"Storing Hydrogen Safely: Fraunhofer-Institut für Windenergiesysteme
+IWM Evaluates Materials For Tubular Storage Systems in the joint
+project H2Wind"
+
+[[-]](https://bit.ly/2Yp71Tb)
+
+---
+
+Coal prices are through [the roof](2019/05/stats.md#coal)
+
+---
+
+JC was not a miscast! He was better than this new guy.. The key to
+impressions is to catch a key characteristic. JC's angle is a
+pent-up-anger shtick which of course reminds you of *Pet Detective*,
+or *Liar Liar*, it was good.
+
+TDB: "Last season, Saturday Night Live navigated its way through the
+transition from Trump to Biden, first by miscasting Jim Carrey
+opposite Alec Baldwin.. 47th season [opened w]ith one of its brand new
+cast members, James Austin Johnson as the 46th president"
+
+---
+
 Europe's answer to DARPA, Joint European Disruptive Initiative -
 [JEDI](https://www.jedi.foundation/)
 
@@ -47,7 +85,7 @@ statistical test wld agree. Clustering disproved.
 
 ---
 
-Why the Poisson distribution usage in this [post](2021/08/bermuda.md)?
+Why the Poisson distribution usage in this [post](../../2021/08/bermuda.md)?
 Event counts tend to be distributed that way.. Let's take the London
 bombing [example](https://www.cambridge.org/core/journals/journal-of-the-institute-of-actuaries/article/abs/an-application-of-the-poisson-distribution/F75111847FDA534103BD4941BD96A78E).
 They were wondering if bombings were clustering at specific places.
@@ -73,7 +111,7 @@ next door actually), Israel.
 
 ---
 
-The tech is [too noisy](2021/03/unrivaled-beckley.md#sub)
+The tech is [too noisy](../../2021/03/unrivaled-beckley.md#sub)
 
 "China has nuclear subs too"
 
