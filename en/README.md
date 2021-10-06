@@ -73,17 +73,6 @@ Get this, MT is 55; he can still win that fight
 
 ---
 
-I like the animation
-
-"@FloodSkinner
-
-Come join our @EnvAgency team and help delivery improvements to flood
-hydrology"
-
-[[-]](https://twitter.com/FloodSkinner/status/1445292293573992450)
-
----
-
 ## For Members
 
 [Link](https://thirdwave-members.herokuapp.com)
