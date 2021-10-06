@@ -209,9 +209,9 @@ plt.savefig('carbon.png')
 
 <a name='carbontemp'/>
 
-## Carbon and Temparature
+## Carbon and Temperature
 
-Plotted carbon levels in the atmosphere and global temparature, trying
+Plotted carbon levels in the atmosphere and global temperature, trying
 to gauge a relation between the two. Carbon data comes from
 [here](https://climate.nasa.gov/vital-signs/carbon-dioxide/).
 
@@ -252,7 +252,7 @@ Strong correlation, but does that mean causation?
 
 Running a Granger causality test, which tries to reject the hypothesis
 that second time series (carbon) does *not* cause the first series
-(temparature).
+(temperature).
 
 ```python
 import statsmodels.tsa.stattools as t
@@ -289,4 +289,4 @@ parameter F test:         F=5.3519  , p=0.0032  , df_denom=43, df_num=3
 ```
 
 The hypothesis is rejected at a very strong level. Carbon content in
-atmo *did* cause a global increase in temparature.
+atmo *did* cause a global increase in temperature.
