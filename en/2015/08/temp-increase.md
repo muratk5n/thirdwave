@@ -181,6 +181,38 @@ print hurst(dfclim.Temp)
 
 <a name='carbon'/>
 
+## Mnthly Carbon In Atmosphere
+
+Units are mole fraction in ppm
+
+```python
+import urllib.request as urllib2, io
+import pandas as pd
+
+url = "ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_mm_mlo.txt"
+r = urllib2.urlopen(url).read()
+file = io.BytesIO(r)
+df = pd.read_csv(file,comment='#',header=None,sep='\s*')
+```
+
+```python
+df['Date'] = df.apply(lambda x: str(x[0]) + "-" + str(x[1]) + "-1", axis=1)
+df['Date'] = pd.to_datetime(df.Date)
+df['ppm'] = df[3]
+```
+
+```python
+df2 = df.copy()
+df2 = df2.set_index('Date')
+df2 = df2[df2.index > "2018-01-01"]
+df2['ppm'].rolling(10).mean().plot()
+plt.savefig('carbon.png')
+```
+
+![](carbon.png)
+
+<a name='carbontemp'/>
+
 ## Carbon and Temparature
 
 Plotted carbon levels in the atmosphere and global temparature, trying
