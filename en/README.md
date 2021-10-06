@@ -41,7 +41,7 @@ sieve 🤷‍♂️
 
 ---
 
-Makes sense.. a lot of sunshine
+Makes sense.. lot of sunshine
 
 "Jordan's Government Is Putting Its Focus On The Green Hydrogen Opportunity"
 
