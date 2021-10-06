@@ -54,5 +54,11 @@
 
 [Satoshi Identification](09/satoshi-identification.md)
 
-[Entrepreneurial State](10/entrepreneuel-state-mazzucato.md)
+[The Strange Case of Steven Donziger](10/donziger-chevron.md)
+
+[The Entrepreneurial State](10/entrepreneuel-state-mazzucato.md)
+
+[Mission Economy](10/mission-economy.md)
+
+[The Value of Everything](10/the-value-of-everything.md)
 
