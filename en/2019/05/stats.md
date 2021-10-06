@@ -723,7 +723,6 @@ df.plot()
 plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
 plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
 print (df.tail(7))
-plt.plot(df.tail(1).index, df.tail(1),'ro')
 plt.savefig('natgas.png')
 ```
 
@@ -735,7 +734,7 @@ Date
 2021-10-01    5.619
 2021-10-04    5.766
 2021-10-05    6.312
-2021-10-06    6.309
+2021-10-06    6.316
 Name: Adj Close, dtype: float64
 ```
 
