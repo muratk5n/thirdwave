@@ -1,79 +1,92 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-"New Zealand to End 'Zero Covid-19' Strategy"
+Asking a socmed company to decide themselves to not make something go
+viral.. that's like asking McDonalds to sell less burgers.. Tough
+ask. Can they determine when something has high DMSI but "can be
+dangerous"? The answer is no, because the AI tasked with that job
+doesn't work (surprise surprise, even a lot of weak AI are extremely
+shoddy).
+
+"During the hearing, [Facebook whistleblower] Haugen mentioned that
+Facebook CEO Mark Zuckerberg decided to not remove downstream MSI, or
+Meaningful Social Interactions, because, rumor has it, peoples'
+bonuses were tied to it. Haugen was formerly a product manager on
+Facebook's civic integrity team, which focused on election
+issues. Facebook got rid of her team shortly before the Jan. 6 riots,
+and she quit her job in April.
+
+The downstream MSI is a problematic tool because it predicts when
+something might go viral — get a lot of views, shares, and comments —
+and then it pushes that content out to more users"
+
+[[-]](https://mashable.com/article/mark-zuckerberg-facebook-whistleblower-msi-bonuses)
 
 ---
 
-If all lithium on Earth was mined and turned into batteries, it could
-only handle 10% of todays energy requirements. H2, ammonia storage can
-provide limitless storage capacity.
+ME conflict [stats](2019/05/confstats.md#gdeltme)
 
 ---
 
-
-"Fumio Kishida, who was elected [as PM] by Japan’s Parliament, called
-for more aggressive distribution of wealth to those with lower and
-middle incomes"
-
----
-
-I can't say I don't like this 🌌🛸👨‍🚀🖖
-
-"Captain Kirk: Bezos' Blue Origin to send William Shatner into space"
+Most companies cannot use, approach DARPA model.. preferring a
+actor-geek CEO instead, who will acquire, acqu-hire, or madly toss
+together actually known tech in a bowl hoping something will come out
+of it while trying to look "brave" in the process.
 
 ---
 
-Bathymetry 😶
+"@sheeraf
+
+Was just on phone with someone who works for FB who described
+employees unable to enter buildings this morning to begin to evaluate
+extent of outage because their badges weren’t working to access doors"
 
 ---
 
-Hyundai is a BUY
+Any coffee fine enough for French press cld be "brewed" in a simple
+cup. Add coffee, boiling water, wait, pour into another cup through a
+sieve 🤷‍♂️
 
 ---
 
-Translation: dont act like a cynical combmuncher - or you might get
-treated as such
+Makes sense.. a lot of sunshine
 
-"The most worrisome factor is that China's delay might reflect not a
-holdup in the preparation of its NDC, but a well-rehearsed plan to
-leverage its climate change commitments into other areas where the
-Biden administration has increased pressure on Beijing...
+"Jordan's Government Is Putting Its Focus On The Green Hydrogen Opportunity"
 
-First, the weaponization of climate change measures might be seen by
-the Biden administration as cutting off the last possibility of
-cooperation with China, making the bilateral relationship much more
-hostile. This is also a possibility in the case of Europe, given the
-increasing importance of climate change in European citizens'
-priorities"
-
-[[-]](https://asia.nikkei.com/Opinion/Will-China-use-climate-change-as-a-bargaining-chip	)
+[[-]](https://fuelcellsworks.com/news/jordans-government-is-putting-its-focus-on-the-green-hydrogen-opportunity/)
 
 ---
 
-I guess nothing interesting happens in the Anglosphere wout France
-getting screwed in the process somehow.. Invason of Iraq: France [lost](2019/11/americas-secret-war-friedman.md#france)
-Eastern Europeans, they sided with US, snubbed. And now the AU "sub
-snub".
+"@OdedRechavi
+
+Combining research with teaching"
+
+[[-]](https://twitter.com/OdedRechavi/status/1443644844400955398)
 
 ---
 
-Addn'l gems here on DARPA, gov, and innovation -
-[1](2021/10/entrepreneuel-state-mazzucato.md),
-[2](2021/10/mission-economy.md),
-[3](2021/10/the-value-of-everything.md)
+Me? I know Italian karate. It's very simple.. there's only
+[one move](https://drive.google.com/uc?export=view&id=1TOO0EUwob6eso4RcXmU5kouLRi2YHXbc).
 
 ---
 
-There was a manager at DARPA in 2013 who took a chance on mRNA tech;
-lined up bunch of research deps for that goal... Who is that guy?
-What is his background? In which setting could he do what he did?
+You can't win with ka-raze. You need to know karate.
 
 ---
 
-Private companies are good for delivering end-products based on
-existing research. But pushing for risky research, not the right
-address. I look at all the inno originating from DARPA.. They funded,
-managed so much.
+Get this, MT is 55; he might still win that fight
+
+"Mike Tyson keen to fight Logan Paul, with $100 million payday"
+
+---
+
+I like the animation
+
+"@FloodSkinner
+
+Come join our @EnvAgency team and help delivery improvements to flood
+hydrology"
+
+[[-]](https://twitter.com/FloodSkinner/status/1445292293573992450)
 
 ---
 
