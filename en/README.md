@@ -5,7 +5,7 @@ viral.. that's like asking McDonalds to sell less burgers.. Tough
 ask. Can they determine when something has high DMSI but "can be
 dangerous"? The answer is no, because the AI tasked with that job
 doesn't work (surprise surprise, even a lot of weak AI are extremely
-shoddy).
+shoddy). Useful testimony though.. there was lots of useful info in it.
 
 "During the hearing, [Facebook whistleblower] Haugen mentioned that
 Facebook CEO Mark Zuckerberg decided to not remove downstream MSI, or
