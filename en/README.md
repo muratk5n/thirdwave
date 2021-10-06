@@ -28,7 +28,7 @@ ME conflict [stats](2019/05/confstats.md#gdeltme)
 
 ---
 
-Most companies cannot use, approach DARPA model.. preferring a
+Most companies cannot use, approach the DARPA model.. preferring a
 actor-geek CEO instead, who will acquire, acqu-hire, or madly toss
 together actually known tech in a bowl hoping something will come out
 of it while trying to look "brave" in the process.
