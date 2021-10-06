@@ -1,4 +1,4 @@
-# Temparature Increase
+# Temperature Increase
 
 Is the temparature real? There are many methods here; Within the
 context of pure time series methods, the best chance of climate change
