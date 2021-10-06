@@ -57,8 +57,7 @@ Combining research with teaching"
 
 ---
 
-Me? I know Italian karate. It's very simple.. there's only
-[one move](https://drive.google.com/uc?export=view&id=1TOO0EUwob6eso4RcXmU5kouLRi2YHXbc).
+Me? I said this before, I know [Italian karate](https://drive.google.com/uc?export=view&id=1TOO0EUwob6eso4RcXmU5kouLRi2YHXbc).
 
 ---
 
