@@ -67,7 +67,7 @@ You can't win with ka-raze. You need to know karate.
 
 ---
 
-Get this, MT is 55; he might still win that fight
+Get this, MT is 55; he can still win that fight
 
 "Mike Tyson keen to fight Logan Paul, with $100 million payday"
 
