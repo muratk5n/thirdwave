@@ -49,7 +49,7 @@ Makes sense.. a lot of sunshine
 
 ---
 
-It's hard to do; the rare researcher can do it well. 
+Only the rare researcher can both well.
 
 "@OdedRechavi
 
