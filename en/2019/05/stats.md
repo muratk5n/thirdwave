@@ -703,6 +703,44 @@ plt.savefig('crude-production.png')
 
 ![](crude-production.png)
 
+<a name="natgas"></a>
+
+## Natural Gas
+
+```python
+import pandas as pd, datetime, time as timelib
+import urllib.request as urllib2, io
+end = datetime.datetime.now()
+start=datetime.datetime(2000, 1, 1)
+start = int(timelib.mktime(start.timetuple()))
+end = int(timelib.mktime(end.timetuple()))
+base_fin_url = "https://query1.finance.yahoo.com/v7/finance/download"
+url = base_fin_url + "/NG=F?period1=" + str(start) + "&period2=" + str(end) + "&interval=1d&events=history&includeAdjustedClose=true"
+r = urllib2.urlopen(url).read()
+file = io.BytesIO(r)
+df = pd.read_csv(file,index_col='Date',parse_dates=True)['Adj Close']
+df.plot()
+plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
+plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
+print (df.tail(7))
+plt.plot(df.tail(1).index, df.tail(1),'ro')
+plt.savefig('natgas.png')
+```
+
+```text
+Date
+2021-09-28    5.841
+2021-09-29    5.477
+2021-09-30    5.867
+2021-10-01    5.619
+2021-10-04    5.766
+2021-10-05    6.312
+2021-10-06    6.309
+Name: Adj Close, dtype: float64
+```
+
+![](natgas.png)
+
 <a name="coal"></a>
 
 ## Coal
