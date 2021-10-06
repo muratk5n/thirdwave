@@ -35,14 +35,6 @@ of it while trying to look "brave" in the process.
 
 ---
 
-"@sheeraf
-
-Was just on phone with someone who works for FB who described
-employees unable to enter buildings this morning to begin to evaluate
-extent of outage because their badges weren’t working to access doors"
-
----
-
 Any coffee fine enough for French press cld be "brewed" in a simple
 cup. Add coffee, boiling water, wait, pour into another cup through a
 sieve 🤷‍♂️
