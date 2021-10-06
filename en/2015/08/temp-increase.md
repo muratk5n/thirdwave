@@ -181,7 +181,7 @@ print hurst(dfclim.Temp)
 
 <a name='carbon'/>
 
-## Mnthly Carbon In Atmosphere
+## Monthly Carbon In Atmosphere
 
 Units are mole fraction in ppm
 
