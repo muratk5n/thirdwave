@@ -1,11 +1,11 @@
 # Temperature Increase
 
-Is the temparature real? There are many methods here; Within the
-context of pure time series methods, the best chance of climate change
-deniers had was arguing that temperature time series data could be
-random walk. Example for RW is stock price movement where values "can
-go up or down, in an unpredictable fashion". So deniers try to chalk
-up the temperature increase in the past 70 years to this kind of
+Is the temparature increase real? There are many methods here; Within
+the context of pure time series methods, the best chance of climate
+change deniers had was arguing that temperature time series data could
+be random walk. Example for RW is stock price movement where values
+"can go up or down, in an unpredictable fashion". So deniers try to
+chalk up the temperature increase in the past 70 years to this kind of
 movement. They cannot even argue variations of random walk BTW, it has
 to be pure random walk, if there is a drift, or a trend there
 (indicating up movement) they are screwed.
