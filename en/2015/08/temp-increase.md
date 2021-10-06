@@ -199,13 +199,9 @@ df = pd.read_csv(file,comment='#',header=None,sep='\s*')
 df['Date'] = df.apply(lambda x: str(x[0]) + "-" + str(x[1]) + "-1", axis=1)
 df['Date'] = pd.to_datetime(df.Date)
 df['ppm'] = df[3]
-```
-
-```python
-df2 = df.copy()
-df2 = df2.set_index('Date')
-df2 = df2[df2.index > "2018-01-01"]
-df2['ppm'].rolling(10).mean().plot()
+df = df.set_index('Date')
+df = df[df.index > "2018-01-01"]
+df['ppm'].rolling(10).mean().plot()
 plt.savefig('carbon.png')
 ```
 
