@@ -64,6 +64,10 @@ print (df[['country','mbindex']])
 
 ---
 
+Such colorful words.. but underneath it all, there is nothing
+
+---
+
 Which power indicator was used for that analysis?
 
 ---
