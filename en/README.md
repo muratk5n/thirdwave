@@ -1,75 +1,83 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-Asking a socmed company to decide themselves to not make something go
-viral.. that's like asking McDonalds to sell less burgers.. Tough
-ask. Can they determine when something has high DMSI but "can be
-dangerous"? The answer is no, because the AI tasked with that job
-doesn't work (she said this many times, it's true, even a lot of weak
-AI is extremely shoddy). Good testimony though.. there was lots of
-useful info in it.
+NYT: "[Sinema] doesn’t engage with Washington reporters in a serious
+way, doesn’t hold open-to-the-public events in Arizona and has
+effectively cut off communication with the local progressive groups
+that worked to get her elected in 2018"
 
-"During the hearing, [Facebook whistleblower] Haugen mentioned that
-Facebook CEO Mark Zuckerberg decided to not remove downstream MSI, or
-Meaningful Social Interactions, because, rumor has it, peoples'
-bonuses were tied to it. Haugen was formerly a product manager on
-Facebook's civic integrity team, which focused on election
-issues. Facebook got rid of her team shortly before the Jan. 6 riots,
-and she quit her job in April.
-
-The downstream MSI is a problematic tool because it predicts when
-something might go viral — get a lot of views, shares, and comments —
-and then it pushes that content out to more users"
-
-[[-]](https://mashable.com/article/mark-zuckerberg-facebook-whistleblower-msi-bonuses)
+[[-]](https://www.nytimes.com/2021/10/05/us/politics/kyrsten-sinema-arizona-democrat.html)
 
 ---
 
-ME conflict [stats](2019/05/confstats.md#gdeltme)
+In annual terms, bill aims to spend merely half of what US spends for
+military every year. Even on that some throw up their hands go OMG!
+
+"@ParkerMolloy
+
+Pretty remarkable how little the actual contents of the reconciliation
+bill are being discussed in the news. Instead, it’s just anchors
+saying the words '$3.5 trillion!' over and over"
 
 ---
 
-Most companies cannot use, approach the DARPA model.. preferring an
-actor-geek CEO instead, who will acquire, acqu-hire, or madly toss
-together actually known tech in a bowl hoping something will come out
-of it while trying to look "brave" in the process.
+Generate renewable fuel from fossil, CCS at the source, transmit.
+H2 pipelines [work](https://pbs.twimg.com/media/EvdKNhvXAAE9Rr2?format=png&name=small).
+
+Producing from green is better of course.. Politics will decide the balance. 
 
 ---
 
-Any coffee fine enough for French press cld be "brewed" in a simple
-cup. Add coffee, boiling water, wait, pour into another cup through a
-sieve 🤷‍♂️
+Renewable fuel pipelines wouldn't have problems in case of leak. No
+env damage (you'd be putting more H2 into H2O.. it's like, who
+cares?).
+
+USA Today: "California oil spill: Pipeline wasn't shut down for more
+than 3 hours after pressure failure alert, feds say..  The U.S. Coast
+Guard said divers located a split in the pipeline more than a
+foot-long. Investigators believe it could be the source of the leak"
 
 ---
 
-Makes sense.. lot of sunshine
-
-"Jordan's Government Is Putting Its Focus On The Green Hydrogen Opportunity"
-
-[[-]](https://fuelcellsworks.com/news/jordans-government-is-putting-its-focus-on-the-green-hydrogen-opportunity/)
+France has an efficient economy... This is key, esp. during wartime.
 
 ---
 
-Only the rare researcher can do both well.
+The GDP Per Capita x GDP has them at roughly in the same
+vicinity... DE is nearly twice but, look at US, in a different league
+altogether.
 
-"@OdedRechavi
+```python
+import pandas as pd
+df = pd.read_csv('../../2020/07/gdpw.csv')
+df = df[df['country'].isin(['France','Germany','United States']) ]
+df['gdp'] = df.gdpcap * df.population
+df['mbindex'] = (df.gdpcap * df.gdp)/1e14
+print (df[['country','mbindex']])
+```
 
-Combining research with teaching"
-
-[[-]](https://twitter.com/OdedRechavi/status/1443644844400955398)
+```text
+          country       mbindex
+13  United States  12898.099255
+24        Germany   1883.637224
+32         France   1117.358002
+```
 
 ---
 
-Me? I said this before, I know [Italian karate](https://drive.google.com/uc?export=view&id=1TOO0EUwob6eso4RcXmU5kouLRi2YHXbc).
+Which power indicator was used for that analysis?
 
 ---
 
-You can't win with ka-raze. You need to know karate.
+???
+
+"The EU is designed to hide the weakness of France and the power of Germany"
 
 ---
 
-Get this, MT is 55; he can still win that fight
+Natural Gas prices are up.. some claim this drove coal prices up,
+ppl switching to coal from NG.
 
-"Mike Tyson keen to fight Logan Paul, with $100 million payday"
+[Stat](2019/05/stats.md#natgas)
 
 ---
 
