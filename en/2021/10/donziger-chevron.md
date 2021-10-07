@@ -49,7 +49,7 @@ will instill in him any respect for the law.”...
 In May, Preska had found Donziger guilty after a trial without a
 jury. And now Donziger, along with his family and scores of
 supporters, had to listen to the federal judge compare him to a mule
-who needed to be beaten with a piece of wood before complying.
+who needed to be beaten with a piece of wood before complying [2].
 
 References
 
