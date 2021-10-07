@@ -69,7 +69,7 @@ print (df[['country','mbindex']])
 
 ---
 
-Such colorful words.. but underneath it all, there is nothing
+Such colorful words.. but underneath it all, there is nothin
 
 ---
 
