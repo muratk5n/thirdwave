@@ -24,10 +24,6 @@ and then it pushes that content out to more users"
 
 ---
 
-ME conflict [stats](2019/05/confstats.md#gdeltme)
-
----
-
 Most companies cannot use, approach the DARPA model.. preferring an
 actor-geek CEO instead, who will acquire, acqu-hire, or madly toss
 together actually known tech in a bowl hoping something will come out
@@ -124,16 +120,16 @@ priorities"
 ---
 
 I guess nothing interesting happens in the Anglosphere wout France
-getting screwed in the process somehow.. Invason of Iraq: France [lost](2019/11/americas-secret-war-friedman.md#france)
+getting screwed in the process somehow.. Invason of Iraq: France [lost](../../2019/11/americas-secret-war-friedman.md#france)
 Eastern Europeans, they sided with US, snubbed. And now the AU "sub
 snub".
 
 ---
 
 Addn'l gems here on DARPA, gov, and innovation -
-[1](2021/10/entrepreneuel-state-mazzucato.md),
-[2](2021/10/mission-economy.md),
-[3](2021/10/the-value-of-everything.md)
+[1](../../2021/10/entrepreneuel-state-mazzucato.md),
+[2](../../2021/10/mission-economy.md),
+[3](../../2021/10/the-value-of-everything.md)
 
 ---
 
@@ -171,7 +167,7 @@ project H2Wind"
 
 ---
 
-Coal prices are through [the roof](2019/05/stats.md#coal)
+Coal prices are through [the roof](../../2019/05/stats.md#coal)
 
 ---
 
