@@ -443,7 +443,7 @@ It is concoction. Theather. Look; someone like Tucker Carlson, who
 recently started to talk about some traditionally left issues (this is
 how far, and low the Dems had fallen, their abandoned ideas were
 picked up by others) is pretty big anti-abortion guy right? Well, but
-his religion, Presbyterianism, is not strictly anti-abortion. In fact
+his religion, Episcopalian, is not strictly anti-abortion. In fact
 none of them are! This guy is the only one! He jokes about it.. and
 the rest of the joke goes, there is only one other Presb, a woman who
 is that way, and he is married to her. Now forget one side

@@ -6,12 +6,12 @@ people in the Ecuadorian Amazon, where the fossil fuel company decided
 to deliberately discharge 16 billion gallons of toxic waste from its
 oil sites into rivers, groundwater, and farmland. A refusal from
 Chevron to adhere to environmental regulations—which earned the
-company an extra $5 billion over 20 years—led to more than 30,000
-Ecuadorians being directly harmed by the oil giant’s actions, the
-judges in that case found. The case Donziger led made it all the way
-to the Ecuador Supreme Court, and successfully secured $9.5 billion in
-environmental damages for the Amazonian communities in a historic
-climate justice decision.
+company an extra 5 billion dollas over 20 years—led to more than
+30,000 Ecuadorians being directly harmed by the oil giant’s actions,
+the judges in that case found. The case Donziger led made it all the
+way to the Ecuador Supreme Court, and successfully secured $9.5
+billion in environmental damages for the Amazonian communities in a
+historic climate justice decision.
 
 Chevron never paid those billions of cleanup dollars to Ecuador, and
 instead launched a legal attack on Donziger in the Southern District
