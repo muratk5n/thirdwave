@@ -32,9 +32,9 @@ balance. But transmission must be green, and fuel based.
 
 ---
 
-Renewable fuel pipelines wouldn't have problems in case of leak. No
-env damage (you'd be putting more H2 into H2O.. it's like, who
-cares?).
+Renewable fuel pipelines wouldn't have this problem in case of
+leak. No env damage (you'd be putting more H2 into H2O.. it's like,
+who cares?).
 
 USA Today: "California oil spill: Pipeline wasn't shut down for more
 than 3 hours after pressure failure alert, feds say..  The U.S. Coast
