@@ -1,5 +1,7 @@
 # The Strange Case of Steven Donziger
 
+Excerpts from [1,2]
+
 The story began in 2011 when Donziger brought litigation against
 Texaco (now Chevron) in Ecuador for the harm it caused the Indigenous
 people in the Ecuadorian Amazon, where the fossil fuel company decided
