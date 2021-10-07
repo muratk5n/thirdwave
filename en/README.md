@@ -20,7 +20,7 @@ saying the words '$3.5 trillion!' over and over"
 
 ---
 
-Electric transmission is too inefficient \#deelectrify
+Electric transmission is incredibly inefficient \#deelectrify
 
 ---
 
