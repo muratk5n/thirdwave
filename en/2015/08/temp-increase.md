@@ -181,9 +181,9 @@ print hurst(dfclim.Temp)
 
 <a name='carbon'/>
 
-## Monthly Carbon In Atmosphere
+## Carbon Levels In the the Atmosphere
 
-Units are mole fraction in ppm
+Units are mole fraction in ppm, per month
 
 ```python
 import urllib.request as urllib2, io
