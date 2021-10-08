@@ -200,12 +200,15 @@ df['Date'] = df.apply(lambda x: str(x[0]) + "-" + str(x[1]) + "-1", axis=1)
 df['Date'] = pd.to_datetime(df.Date)
 df['ppm'] = df[3]
 df = df.set_index('Date')
-df = df[df.index > "2018-01-01"]
-df['ppm'].rolling(10).mean().plot()
+df[df.index > "2018-01-01"]['ppm'].rolling(10).mean().plot()
 plt.savefig('carbon.png')
+df['ppm'].rolling(10).mean().plot(color='blue')
+plt.savefig('carbon2.png')
 ```
 
 ![](carbon.png)
+
+![](carbon2.png)
 
 <a name='carbontemp'/>
 
