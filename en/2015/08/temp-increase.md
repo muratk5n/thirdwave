@@ -208,6 +208,8 @@ plt.savefig('carbon2.png')
 
 ![](carbon.png)
 
+Longer time span, since the 50s
+
 ![](carbon2.png)
 
 <a name='carbontemp'/>
