@@ -116,16 +116,6 @@ about local politics here. This city is eating itself"
 
 ---
 
-RB is resembling Jesus more and more every day
-
----
-
-🤣 🤣
-
-<iframe width="200" src="https://www.youtube.com/embed/9cvIpbQ2CkU?start=330&end=425" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
 "@DaveKeating
 
 Unfortunately UK media is giving citizens & businesses the impression
