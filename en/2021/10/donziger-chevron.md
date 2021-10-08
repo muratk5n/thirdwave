@@ -39,12 +39,12 @@ contempt case against Donziger [1].
 
 <a name='oct2021'/>
 
-[Recently Donziger] has been sentenced to six months in federal prison
-for “criminal contempt.” On October 1, in a lower Manhattan federal
-courtroom, Judge Loretta Preska justified imposing the maximum penalty
-by asserting that Donziger, now 60, had not shown contrition. She
-said, “It seems that only the proverbial two-by-four between the eyes
-will instill in him any respect for the law.”...
+[As of Oct, 2021 Donziger] has been sentenced to six months in federal
+prison for “criminal contempt.” On October 1, in a lower Manhattan
+federal courtroom, Judge Loretta Preska justified imposing the maximum
+penalty by asserting that Donziger, now 60, had not shown
+contrition. She said, “It seems that only the proverbial two-by-four
+between the eyes will instill in him any respect for the law.”...
 
 In May, Preska had found Donziger guilty after a trial without a
 jury. And now Donziger, along with his family and scores of
