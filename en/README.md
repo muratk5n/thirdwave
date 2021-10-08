@@ -1,92 +1,58 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-NYT: "[Sinema] doesn’t engage with Washington reporters in a serious
-way, doesn’t hold open-to-the-public events in Arizona and has
-effectively cut off communication with the local progressive groups
-that worked to get her elected in 2018"
 
-[[-]](https://www.nytimes.com/2021/10/05/us/politics/kyrsten-sinema-arizona-democrat.html)
+MarketWatch: "Opinion: Explaining why ‘green hydrogen’ is our best (maybe only)
+option for getting to net-zero carbon by 2050 and halting climate
+change"
 
----
-
-In annual terms, bill aims to spend merely half of what US spends for
-military every year. Even on that some throw up their hands go OMG!
-
-"@ParkerMolloy
-
-Pretty remarkable how little the actual contents of the reconciliation
-bill are being discussed in the news. Instead, it’s just anchors
-saying the words '$3.5 trillion!' over and over"
+[[-]](https://www.marketwatch.com/story/explaining-why-green-hydrogen-is-our-best-maybe-only-option-for-getting-to-net-zero-carbon-by-2050-and-halting-climate-change-11633548333)
 
 ---
 
-Electric transmission is incredibly inefficient \#deelectrify
+If co2 increases are during the winter, then priority should be to fix
+heating, making that process renewable.. And of course H2, NH3 are the
+best solutions for that too. See CHP, Combined Heat and Power systems.
 
 ---
 
-Generate renewable fuel from fossil, CCS at the source, transmit.
-H2 pipelines [work](https://pbs.twimg.com/media/EvdKNhvXAAE9Rr2?format=png&name=small).
+"Once it's added to the atmosphere, [carbon] hangs around, for a long
+time: between 300 to 1,000 years"
 
-Producing from green is better of course.. Politics will decide the
-balance. But transmission must be green, and molecule based.
-
----
-
-Renewable fuel pipelines wouldn't have this problem in case of
-leak. No env damage (you'd be putting more H2 into H2O.. it's like,
-who cares?).
-
-USA Today: "California oil spill: Pipeline wasn't shut down for more
-than 3 hours after pressure failure alert, feds say..  The U.S. Coast
-Guard said divers located a split in the pipeline more than a
-foot-long. Investigators believe it could be the source of the leak"
+[[-]](https://climate.nasa.gov/news/2915/the-atmosphere-getting-a-handle-on-carbon-dioxide/)
 
 ---
 
-France has an efficient economy... This is key, esp. during wartime.
+Clearly the increases are due to Northern Hemisphere
+winter.
+
+Then... 🤔 if everyone had a home in both hemispheres, went from one
+to the other escaping colder season, there would be no CO2 increase..
+
+Kidding
 
 ---
 
-The GDP Per Capita x GDP has them at roughly in the same
-vicinity... DE is nearly twice but, look at US, in a different league
-altogether.
+Monthly atmo carbon content [graph](2015/08/temp-increase.md#carbon).
+It increases every year (except during warmer seasons when
+it is flat).
 
-```python
-import pandas as pd
-df = pd.read_csv('../../2020/07/gdpw.csv')
-df = df[df['country'].isin(['France','Germany','United States']) ]
-df['gdp'] = df.gdpcap * df.population
-df['mbindex'] = (df.gdpcap * df.gdp)/1e14
-print (df[['country','mbindex']])
-```
-
-```text
-          country       mbindex
-13  United States  12898.099255
-24        Germany   1883.637224
-32         France   1117.358002
-```
+Contrary to certain wisdom, co2 contentration during covid shutdowns
+kept going up.
 
 ---
 
-Such colorful words.. but underneath it all, there is nothin
+From Southern District of New York? Like in *Billions*?  Call Chuck
+Rhoades.
 
 ---
 
-Which power indicator was used for that analysis?
+Clearly the judge was biased; not possible to request a new judge?
 
 ---
 
-???
-
-"The EU is designed to hide the weakness of France and the power of Germany"
-
----
-
-Natural Gas prices are up.. some claim this drove coal prices up,
-ppl switching to coal from NG.
-
-[Stat](2019/05/stats.md#natgas)
+The [latest](2021/10/donziger-chevron.md#oct2021) on Donziger.  Poor
+guy had to sit there and listen to a "federal judge compare him to a
+mule who needed to be beaten with a piece of wood". This is unreal.
 
 ---
 
