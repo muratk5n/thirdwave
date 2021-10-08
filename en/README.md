@@ -41,8 +41,8 @@ kept going up.
 
 ---
 
-From Southern District of New York? Like in *Billions*?  Call Chuck
-Rhoades.
+From Southern District of New York? Like in *Billions*.  Where is Chuck
+Rhoades?
 
 ---
 
