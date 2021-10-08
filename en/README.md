@@ -11,7 +11,7 @@ change"
 
 If co2 increases are during the winter, then priority should be to fix
 heating, making that process renewable.. Surprise (!) H2, NH3 are the
-best solutions for that too. See CHP, Combined Heat and Power.
+best solutions for that as well. See CHP, Combined Heat and Power.
 
 ---
 
