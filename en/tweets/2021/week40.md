@@ -86,7 +86,7 @@ Which power indicator was used for that analysis?
 Natural Gas prices are up.. some claim this drove coal prices up,
 ppl switching to coal from NG.
 
-[Stat](2019/05/stats.md#natgas)
+[Stat](../../2019/05/stats.md#natgas)
 
 ---
 
