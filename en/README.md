@@ -8,10 +8,10 @@ Langhorns - Las Vegas Fist Fight \#music
 ---
 
 Electricity tech pretty much sucks at everything except in certain
-end-products which shaped the experience of many white-collor
-folk. They see lights go blink-blink and they get all excited, and
-want to use that thing that makes things go blink-blink for
-everything.. This is unrealistic.
+end-products which shaped the experience of an entire generation of
+white-collor folk. They see lights go blink-blink and they get all
+excited, and want to use that thing that makes things go blink-blink
+for everything.. This is unrealistic.
 
 ---
 
