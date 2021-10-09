@@ -64,7 +64,6 @@ Chappelle, closed the deal 👍
 
 ---
 
-
 "Ramped-up domestic production of green hydrogen and ammonia makes
 perfect sense for South Korea. Last month a deal was signed between
 Australia-based Origin Energy and steelmaker POSCO for the supply of
