@@ -64,15 +64,15 @@ Chappelle, closed the deal 👍
 
 ---
 
-"Ramped-up domestic production of green hydrogen and ammonia makes
-perfect sense for South Korea. Last month a deal was signed between
-Australia-based Origin Energy and steelmaker POSCO for the supply of
-green hydrogen in the form of green ammonia, produced at Origin’s
-to-be-developed, hydro-powered ammonia production facility in Bell
-Bay, Tasmania. Although POSCO is aiming for the import of zero-carbon
-feedstock to be only temporary, the sheer scale of their goal to
-produce 5 million tonnes of clean hydrogen in South Korea by 2050 is
-readily apparent"
+"[4/2021] Ramped-up domestic production of green hydrogen and ammonia
+makes perfect sense for South Korea. Last month a deal was signed
+between Australia-based Origin Energy and steelmaker POSCO for the
+supply of green hydrogen in the form of green ammonia, produced at
+Origin’s to-be-developed, hydro-powered ammonia production facility in
+Bell Bay, Tasmania. Although POSCO is aiming for the import of
+zero-carbon feedstock to be only temporary, the sheer scale of their
+goal to produce 5 million tonnes of clean hydrogen in South Korea by
+2050 is readily apparent"
 
 [[-]](https://www.ammoniaenergy.org/articles/south-korean-update/)
 
