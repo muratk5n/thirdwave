@@ -54,9 +54,9 @@ was researched [here](https://www.researchgate.net/publication/220782520_LU-GPU_
 ---
 
 Jon Stew new show is all serious.. During interviews I keep waiting
-for that bizarre turn, like, 'you say there is no money for this
-bill, but have you ever tried to put panties on your head?', and the
-guy giving this blank look.. Yet the moment never arrives..
+for that bizarre turn in the convo, like, 'you say there is no money
+for this bill, but have you ever tried to put panties on your head?',
+and the guy giving this blank look.. Yet the moment never arrives..
 
 ---
 
