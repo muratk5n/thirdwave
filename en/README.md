@@ -23,9 +23,9 @@ If green heating takes priority two things need to happen; 1) encourage
 production of small, portable, H2/NH3 heating units, provided cheaply to
 the world (otherwise they'll just burn wood, coal). Lavo was
 [already working](https://revolution-green.com/unsw-develop-hydrogen-storage-renewables/)
-on such a tech to power ovens (using a heat-exchange chemical reaction
-wout creating a flame) with simple H2 canisters. 2) For home
-heating, massive H2 pipeline infra needs to be built which can provide homes
+on such a tech to power ovens (using a heat-exchange chemical reaction)
+with simple H2 canisters. 2) For home heating, massive H2 pipeline
+infra needs to be built which can provide homes
 the fuel, they can use that for heating, through CHP.
 
 ---
