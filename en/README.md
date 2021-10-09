@@ -60,7 +60,7 @@ guy giving this blank look.. Yet the moment never arrives..
 
 ---
 
-Chappelle, closed the deal 👍 
+Chappelle closed the deal 👍 
 
 ---
 
