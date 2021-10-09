@@ -1,5 +1,60 @@
 # Week 40
 
+MarketWatch: "Opinion: Explaining why ‘green hydrogen’ is our best (maybe only)
+option for getting to net-zero carbon by 2050 and halting climate
+change"
+
+[[-]](https://www.marketwatch.com/story/explaining-why-green-hydrogen-is-our-best-maybe-only-option-for-getting-to-net-zero-carbon-by-2050-and-halting-climate-change-11633548333)
+
+---
+
+If co2 increases are during the winter, then priority should be to fix
+heating, making that process renewable.. Surprise (!) H2, NH3 are the
+best solutions for that as well. See CHP, Combined Heat and Power.
+
+---
+
+"Once it's added to the atmosphere, [carbon] hangs around, for a long
+time: between 300 to 1,000 years"
+
+[[-]](https://climate.nasa.gov/news/2915/the-atmosphere-getting-a-handle-on-carbon-dioxide/)
+
+---
+
+Clearly the increases are due to Northern Hemisphere
+winter.
+
+Then... 🤔 if everyone had a home in both hemispheres, went from one
+to the other escaping colder season, there would be no CO2 increase..
+
+Kidding
+
+---
+
+Monthly atmo carbon content [graph](2015/08/temp-increase.md#carbon).
+It increases every year (except during warmer seasons when
+it is flat).
+
+Contrary to certain wisdom, co2 contentration during covid shutdowns
+kept going up.
+
+---
+
+From Southern District of New York? Like in *Billions*.  Where is Chuck
+Rhoades?
+
+---
+
+Clearly the judge was biased; not possible to request a new judge?
+
+---
+
+The [latest](2021/10/donziger-chevron.md#oct2021) on Donziger.  Poor
+guy had to sit there and listen to a "federal judge compare him to a
+mule who needed to be beaten with a piece of wood". This is unreal.
+
+---
+
 NYT: "[Sinema] doesn’t engage with Washington reporters in a serious
 way, doesn’t hold open-to-the-public events in Arizona and has
 effectively cut off communication with the local progressive groups
