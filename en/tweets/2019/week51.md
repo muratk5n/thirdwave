@@ -1,6 +1,19 @@
 # Tweets - Week 51
 
 
+Another research, which looked at parliamentary vs presidential
+systems in terms of economy, came up with a different answer: purely
+parliamentary system.
+
+[Paper](https://link.springer.com/article/10.1007/s11127-018-0552-2) by McManus et al.
+
+I dont have the time to dig into this yet (to replicate it in Python)
+-- here is [the data](PvsPData.csv.zip)
+(from Dr. McManus).
+
+
+---
+
 Same issue again. Sine waves would be *modeling* - too much work
 
 ---

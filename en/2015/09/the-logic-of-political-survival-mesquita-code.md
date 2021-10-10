@@ -1,5 +1,7 @@
 # The Logic of Political Survival Code
 
+[Article](the-logic-of-political-survival-mesquita.md)
+
 B. de Mesquita's research indicates democratic nations are richer, and
 they are richer because of democracy. The relationship is not mere
 correlation - it is causation. But we need to define democracy
@@ -215,17 +217,6 @@ parliamentary race: half of half of the voters, or one quarter in
 total. France’s runoff system is even more demanding. Election
 requires that a candidate win a majority in the final, two-candidate
 runoff."
-
-On the other hand, another research, which looked at parliamentary vs
-presidential systems in terms of economy, came up with a different
-answer: purely parliamentary system.
-
-[Paper](https://link.springer.com/article/10.1007/s11127-018-0552-2) by McManus et al.
-
-I dont have the time to dig into this yet (to replicate it in Python)
--- here is [the
-data](https://muratk3n.github.io/thirdwave/en/2019/12/PvsPData.csv.zip)
-(from Dr. McManus).
 
 Coalitions
 

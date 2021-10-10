@@ -55,5 +55,5 @@ construction.
 
 References
 
-[The Logic of Political Survival](the-logic-of-political-survival-mesquita-code.md)
+[The Logic of Political Survival Code](the-logic-of-political-survival-mesquita-code.md)
 
