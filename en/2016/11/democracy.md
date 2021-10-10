@@ -1,10 +1,8 @@
 # Democracy
 
-[Why Is Democracy Better?](../../2015/09/the-logic-of-political-survival-mesquita-code.md)
+[Why Is Democracy Better?](../../2015/09/the-logic-of-political-survival-mesquita.md)
 
 [Bruce bd Mesquita's Game Theoretical Method](../../2015/07/mesquita-game-theory.md)
-
-[Parochial Interests](../../2015/04/parochial-interests.md)
 
 [Predicting Presidential Elections](../../2015/04/predicting-presidential-elections.md)
 

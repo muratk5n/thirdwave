@@ -224,8 +224,6 @@
 
 [$](09/blog-post.md)
 
-[Construction](09/construction-and-w.md)
-
 [#dude](09/dude-gunnut.md)
 
 [Enklave](09/enklave.md)

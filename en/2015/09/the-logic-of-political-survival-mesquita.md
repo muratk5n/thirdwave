@@ -33,7 +33,25 @@ promotion of public welfare, it does require the leader to spend
 considerable resources to reward supporters. The low loyalty norm
 created by small-S, small-W systems makes leaders most ready to trade
 policy for aid, and hence most likely to do the bidding of the United
-States.
+States...
+
+Construction
+
+The ease with which graft can be hidden in construction projects makes
+this industrial activity unusually attractive as a way for leaders to
+indulge in cronyism and nepotism. Every society requires construction,
+of course, and not all of it involves the misappropriation of
+funds. But there is sufficient anecdotal evidence to suggest that
+construction involves an unusual degree of corrupt practices.
+
+We test the relationship between our indicator Construction and the
+effects of W and W/S using our standard models. The selectorate model
+performs well when it comes to assessing Construction, though the
+substantive impact is more modest than for corruption. W by itself is
+significantly associated with a dampening of construction projects and
+remains significant after we control for other factors. WS:Income, in
+contrast, turns out to contribute significantly to increasing
+construction.
 
 References
 
