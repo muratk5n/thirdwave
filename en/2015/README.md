@@ -242,6 +242,8 @@
 
 [#nice](09/nice.md)
 
+[The Logic of Political Survival Code](09/the-logic-of-political-survival-mesquita-code.md)
+
 [The Logic of Political Survival](09/the-logic-of-political-survival-mesquita.md)
 
 [The Tax Code](09/the-tax-code.md)
