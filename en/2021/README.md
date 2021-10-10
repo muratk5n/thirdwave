@@ -60,5 +60,7 @@
 
 [Mission Economy](10/mission-economy.md)
 
+[The Rare Metals War](10/the-rare-metals-war.md)
+
 [The Value of Everything](10/the-value-of-everything.md)
 

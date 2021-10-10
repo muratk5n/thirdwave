@@ -212,8 +212,6 @@
 
 [Artur Avila](09/artur-avila.md)
 
-[Brand](09/brand.md)
-
 [Bridj](09/bridj.md)
 
 [#fromrussia #withlove](09/fromrussiawithlove.md)
@@ -281,8 +279,6 @@
 [#andreessen #smorgasbord](12/andreessen-smorgasbord.md)
 
 [Education 101](12/education-101.md)
-
-[Farrage vs Brand](12/farrage-vs-brand.md)
 
 [Free Lunchism](12/free-lunchism.md)
 

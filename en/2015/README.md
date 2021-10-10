@@ -66,15 +66,13 @@
 
 [Biotech Eating Jobs](04/biotech-eating-farming.md)
 
-[Che](04/che.md)
+[The Dictator's Handbook](04/dictators-handbook-mesquita.md)
 
 [Don't Mend It - End It](04/dont-mend-it-end-it.md)
 
 [Foreign Aid](04/foreign-aid.md)
 
 [God](04/god.md)
-
-[Great Thinker Confusion](04/great-thinker-confusion.md)
 
 [#guesswhat](04/guesswhat.md)
 
@@ -176,8 +174,6 @@
 
 [#beijing #smog](07/beijing.md)
 
-[Debt, Aid, Govs](07/debt-aid-govs.md)
-
 [Economics of Abundance](07/economics-of-abundance.md)
 
 [Food Waste](07/food-waste.md)
@@ -246,7 +242,7 @@
 
 [#nice](09/nice.md)
 
-[Afghanistan and W](09/small-w-small-s.md)
+[The Logic of Political Survival](09/the-logic-of-political-survival-mesquita.md)
 
 [The Tax Code](09/the-tax-code.md)
 
