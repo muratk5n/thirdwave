@@ -4,49 +4,7 @@ Mesquita
 
 [P]olitics is not terribly complicated. But by the same measure,
 history’s most revered political philosophers haven’t explained it
-very well. The fact is, people like Niccolò Machiavelli, Thomas
-Hobbes, James Madison, and Charles-Louis de Secondat (that is,
-Montesquieu), not to forget Plato and Aristotle, thought about
-government mostly in the narrow context of their times...
-
-For Montesquieu, the Enlightenment, the new Cartesian thinking, and
-the emerging constitutional monarchy of Britain all combined to
-stimulate his insightful ideas of political checks and
-balances. Through these checks and balances he hoped to prevent
-exactly the corruption of public welfare that the charter city
-election in Bell foisted on its citizens...
-
-Now there is no doubt that Montesquieu, Madison, Hobbes, and
-Machiavelli were very clever and insightful thinkers (and surely
-brighter than us). However, they got an awful lot of politics wrong
-simply because they were coping with momentary circumstances. They
-were looking at but a small sample of data, the goings-on surrounding
-them, and bits and pieces of ancient history. They also lacked modern
-tools of analysis (which we, luckily, have at our
-disposal). Consequently, they leapt to partially right, but often
-deeply wrong, conclusions. In all fairness to these past luminaries,
-their shortcomings often have to do with the fact that, besides being
-bound by their then-present contexts, these thinkers were also caught
-up in “the big questions”—what the highest nature of man ought to be,
-or what the “right” state of government really is, or what “justice”
-truly means in political terms. This shortsightedness extends not only
-to history’s legends in political thought, but also to contemporary
-thinkers like Jürgen Habermas, Michel Foucault, and John
-Rawls—thinkers who someday may be viewed in the same light.
-
-The big questions of how the world ought to be are indeed
-important. But they are not our focus. Questions of philosophical
-values and metaphorical abstractions—these simply don’t apply to the
-view of politics that we’ll present in the pages ahead. We do not
-start with a desire to say what we think ought to be. It is hard to
-imagine that anyone, including ourselves, cares much about what we
-think ought to be. Neither do we exhort others to be better than they
-are. Not that we do not hope to find ways to improve the world
-according to our lights. But then, we believe that the world can only
-be improved if first we understand how it works and why. Working out
-what makes people do what they do in the realm of politics is
-fundamental to working out how to make it in their interest to do
-better things.
+very well...
 
 The modern vernacular of politics and international relations, from
 balances of power and hegemony to partisanship and national interest,
@@ -61,6 +19,56 @@ rulers and subjects, of authorities and rights, of war and peace, and,
 in no small way, of life and death all work in the ways that they
 do. And maybe, just maybe, from time to time we will see paths to
 betterment...
+
+The etymology of monarchy may be “rule by one,” but such rule does
+not, has not, and cannot exist. Louis is thought famously (and
+probably falsely) to have proclaimed, *L’etat, c’est moi*: the state,
+it is me. This declaration is often used to describe political life
+for supposedly absolute monarchs like Louis, likewise for tyrannical
+dictators. The declaration of absolutism, however, is never true. No
+leader, no matter how august or how revered, no matter how cruel or
+vindictive, ever stands alone. Indeed, Louis XIV, ostensibly an
+absolute monarch, is a wonderful example of just how false this idea
+of monolithic leadership is..
+
+For leaders, the political landscape can be broken down into three
+groups of people: the nominal selectorate, the real selectorate, and
+the winning coalition. The nominal selectorate includes every person
+who has at least some legal say in choosing their leader. In the
+United States it is everyone eligible to vote, meaning all citizens
+aged eighteen and over...
+
+In the USSR the winning coalition consisted of a small group of people
+inside the Communist Party who chose candidates and who controlled
+policy.
+
+Fundamentally, the nominal selectorate is the pool of potential
+support for a leader; the real selectorate includes those whose
+support is truly influential; and the winning coalition extends only
+to those essential supporters without whom the leader would be
+finished. A simple way to think of these groups is: interchangeables,
+influentials, and essentials...
+
+<a name='war'/>
+
+Remember that large-coalition leaders must keep a broad swath of the
+people happy. In war that turns out to mean that democrats must care
+about the people and, of course, soldiers are people. Although
+conflict involves putting soldiers at risk, democrats do what they can
+to mitigate such risk. In autocracies, foot soldiers are not
+politically important. Autocrats do not waste resources protecting
+them.
+
+The difference in expenditures per soldier is greater even than the
+numbers alone indicate. The Israeli military, like the military of
+democracies in general, spends a lot of its money on buying equipment
+that is heavily armored to protect soldiers. Better training and
+equipment enable democracies to leverage the impact of each soldier so
+they can achieve the same military output while at the same time
+putting few soldiers at risk. 5 The Egyptian military’s tanks, troop
+transports, and other equipment were lightly and cheaply armored. They
+preferred to spend money on private rewards with which to ensure the
+loyalty of the generals and colonels.
 
 Castro
 
