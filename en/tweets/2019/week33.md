@@ -252,10 +252,6 @@ Restaurants close for lunch in France? :-o
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">EVERYBODY who lied us into illegal wars should shut the fuck up forever. <a href="https://t.co/yWAsmbwZxO">https://t.co/yWAsmbwZxO</a></p>&mdash; Jimmy Dore (@jimmy_dore) <a href="https://twitter.com/jimmy_dore/status/1161047389286912000?ref_src=twsrc%5Etfw">August 12, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 Rough
 
 [Link](https://mobile.twitter.com/Birdyword/status/1161299001414578177)

@@ -1,5 +1,82 @@
 # Week 40
 
+Langhorns - Las Vegas Fist Fight \#music
+
+[[-]](https://youtu.be/awWByzK0n04)
+
+---
+
+Electricity tech pretty much sucks at everything except in certain
+end-products which shaped the experience of an entire generation of
+white-collor folk. They see lights go blink-blink and they get all
+excited, and want to use that thing that makes things go blink-blink
+for everything.. This is unrealistic.
+
+---
+
+Electricity based heating is incredibly inefficient (surprise). 
+
+---
+
+If green heating takes priority two things need to happen; 1) encourage
+production of small, portable, H2/NH3 heating units, provided cheaply to
+the world (otherwise they'll just burn wood, coal). Lavo was
+[already working](https://revolution-green.com/unsw-develop-hydrogen-storage-renewables/)
+on such a tech to power ovens (using a heat-exchange chemical reaction)
+with simple H2 canisters. 2) For home heating, massive H2 pipeline
+infra needs to be built which can provide homes
+the fuel, they can use that for heating, through CHP.
+
+---
+
+Fortescue is from AU which has plenty of renewable potential of its
+own. Then why go to Jordan..? These guys must be thinking four steps
+ahead.. When the whole world wakes up to the potential of this stuff,
+everyone will try to grab opportunities from sunny countries; well
+Fortesque is in there now, locking in commitments... Europeans are in
+North Africa. Saudi Arabia is already working with Japan.
+
+"Jordanian government officials have met with a delegation from
+Fortescue Metals Group to discuss investment opportunities in green
+hydrogen and ammonia"
+
+[[-]](https://www.pv-magazine-australia.com/2021/04/14/fortescue-delegation-meets-with-jordanian-government-to-explore-green-hydrogen-opportunities/)
+
+---
+
+Actually it was the academia that discovered GPUs could be used for
+common numerical computation. First algorithm to run faster on the GPU
+was researched [here](https://www.researchgate.net/publication/220782520_LU-GPU_Efficient_Algorithms_for_Solving_Dense_Linear_Systems_on_Graphics_Hardware).
+
+"GPU coding happened thanks to the company NVidia"
+
+---
+
+Jon Stew new show is all serious.. During interviews I keep waiting
+for that bizarre turn in the convo, like, 'you say there is no money
+for this bill, but have you ever tried to put panties on your head?',
+and the guy giving this blank look.. Yet the moment never arrives..
+
+---
+
+Chappelle closed the deal 👍 
+
+---
+
+"[4/2021] Ramped-up domestic production of green hydrogen and ammonia
+makes perfect sense for South Korea. Last month a deal was signed
+between Australia-based Origin Energy and steelmaker POSCO for the
+supply of green hydrogen in the form of green ammonia, produced at
+Origin’s to-be-developed, hydro-powered ammonia production facility in
+Bell Bay, Tasmania. Although POSCO is aiming for the import of
+zero-carbon feedstock to be only temporary, the sheer scale of their
+goal to produce 5 million tonnes of clean hydrogen in South Korea by
+2050 is readily apparent"
+
+[[-]](https://www.ammoniaenergy.org/articles/south-korean-update/)
+
+---
+
 MarketWatch: "Opinion: Explaining why ‘green hydrogen’ is our best (maybe only)
 option for getting to net-zero carbon by 2050 and halting climate
 change"
@@ -31,7 +108,7 @@ Kidding
 
 ---
 
-Monthly atmo carbon content [graph](2015/08/temp-increase.md#carbon).
+Monthly atmo carbon content [graph](../../2015/08/temp-increase.md#carbon).
 It increases every year (except during warmer seasons when
 it is flat).
 
@@ -49,7 +126,7 @@ Clearly the judge was biased; not possible to request a new judge?
 
 ---
 
-The [latest](2021/10/donziger-chevron.md#oct2021) on Donziger.  Poor
+The [latest](../../2021/10/donziger-chevron.md#oct2021) on Donziger.  Poor
 guy had to sit there and listen to a "federal judge compare him to a
 mule who needed to be beaten with a piece of wood". This is unreal.
 

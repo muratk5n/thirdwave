@@ -311,10 +311,6 @@ work? Were their potential side effects thought through?
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“The party told you to reject the evidence of your eyes and ears. It was their final, most essential command.” <a href="https://t.co/G9tbnKqi6M">https://t.co/G9tbnKqi6M</a></p>&mdash; Jimmy Dore (@jimmy_dore) <a href="https://twitter.com/jimmy_dore/status/1270744027365642241?ref_src=twsrc%5Etfw">June 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-----
-
 That was a mistake
 
 "Trump’s advisers convinced him not to address the nation in the

@@ -307,11 +307,6 @@ Rosie Flores - Down to the River #music
 
 ---
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Short video on MLK by <a href="https://twitter.com/0rf?ref_src=twsrc%5Etfw">@0rf</a> is amazing! <a href="https://t.co/3dwsRwedxM">https://t.co/3dwsRwedxM</a> via <a href="https://twitter.com/YouTube?ref_src=twsrc%5Etfw">@YouTube</a></p>&mdash; Jimmy Dore (@jimmy_dore) <a href="https://twitter.com/jimmy_dore/status/1087388122638254084?ref_src=twsrc%5Etfw">January 21, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 @TeodroseFikre
 
 Every politician, pundit and/or media personality who is "praising" Martin Luther King and leaving out King's harsh criticism of wars and economic inequalities are the worst kind of hypocrites, They are erasing his legacy while pretending to honor King's memory #RebrandingMLK

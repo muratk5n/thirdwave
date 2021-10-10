@@ -53,15 +53,15 @@ for x in list(countries['name']):
     if a == b: continue
     rlist.append([a,b])
     
-now = datetime.datetime.now()
-#now = datetime.datetime(2021,7,19)
+#now = datetime.datetime.now()
+now = datetime.datetime(2021,10,8)
 dfs = []
 
 clat,clon=33.01136975577918, 40.98527636859822
 
 m = folium.Map(location=[clat, clon], zoom_start=3, tiles="Stamen Terrain")
 
-for i in range(5):
+for i in range(7):
     d = now - datetime.timedelta(days=i+1)
     sd = "%d%02d%02d" % (d.year, d.month, d.day)
     print (sd)
