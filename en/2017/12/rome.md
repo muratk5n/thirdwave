@@ -8,7 +8,7 @@
 
 [Tolay, National Narratives, Migrations, Anatolia](../../2020/07/migrations-anatolia.md)
 
-[Ghazi Warfare](../../2018/01/ghazi-warfare.md)
+[Ghazi Warfare](../../2018/01/the-origin-and-prevention-major-wars-mesquita.md#ghazi)
 
 [Kurds in Anatolia](../../2020/07/kurds-anatolia.md)
 

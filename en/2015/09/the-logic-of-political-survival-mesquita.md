@@ -1,6 +1,6 @@
 # The Logic of Political Survival
 
-Bruce B. de Mequita
+Bruce B. de Mesquita
 
 Direct and indirect military intervention [in a foreign country]
 provide mechanisms through which institutions can be

@@ -4,8 +4,6 @@
 
 [EaaS - Education as a Service](01/eaas-education-as-service.md)
 
-[Ghazi Warfare](01/ghazi-warfare.md)
-
 [January Temperatures](01/january-temperatures.md)
 
 [#MRI](01/mri.md)
@@ -13,6 +11,8 @@
 [](01/nytemp.md)
 
 [The Lost Einsteins](01/the-lost-einsteins.md)
+
+[The Origin and Prevention of Major Wars](01/the-origin-and-prevention-major-wars-mesquita.md)
 
 [GroKo](02/groko.md)
 
