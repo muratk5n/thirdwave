@@ -45,3 +45,36 @@ for researchers in the field. The goal is to create a scientific
 community with a presence in universities, the public sector and
 corporations that focuses on specific technological challenges that
 have to be overcome.
+
+<a name='jobs'/>
+
+Apple, Steve Jobs
+
+Given the critical role of the State in enabling companies like Apple,
+it is especially curious that the debate surrounding Apple’s tax
+avoidance has failed to make this fact more broadly known. Apple must
+pay tax not only because it is the right thing to do, but because it
+is the epitome of a company that requires the public purse to be large
+and risk-loving enough to continue making the investments that
+entrepreneurs like Jobs will later capitalize on...
+
+Steve Jobs talked ... in his charismatic 2005 Stanford lecture on the
+need for innovators to stay ‘hungry and foolish’, few have admitted
+how much such foolishness has been ‘seriously’ riding on the wave of
+State- funded and -directed innovations.
+
+The State... ‘foolishly’ developing innovations? Yes, most of the
+radical, revolutionary innovations that have fuelled the dynamics of
+capitalism – from railroads to the Internet, to modern-day
+nanotechnology and pharmaceuticals – trace the most courageous, early
+and capitalintensive ‘entrepreneurial’ investments back to the
+State. And, .. all of the technologies that make Jobs’ iPhone so
+‘smart’ were government funded (Internet, GPS, touch-screen display
+and the recent SIRI voice activated personal assistant). Such radical
+investments – which embedded extreme uncertainty – did not come about
+due to the presence of venture capitalists, nor of ‘garage
+tinkerers’. It was the visible hand of the State which made these
+innovations happen. Innovation that would not have come about had we
+waited for the ‘market’ and business to do it alone – or government to
+simply stand aside and provide the basics.
+
