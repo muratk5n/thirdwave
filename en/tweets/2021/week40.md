@@ -33,7 +33,7 @@ Fortescue is from AU which has plenty of renewable potential of its
 own. Then why go to Jordan..? These guys must be thinking four steps
 ahead.. When the whole world wakes up to the potential of this stuff,
 everyone will try to grab opportunities from sunny countries; well
-Fortesque is in there now, locking in commitments... Europeans are in
+Fortescue is in there now, locking in commitments... Europeans are in
 North Africa. Saudi Arabia is already working with Japan.
 
 "Jordanian government officials have met with a delegation from
