@@ -82,9 +82,9 @@ the green agenda. R U in the 👌 circle of trust, Focker?
 FDP could be considered Germany's liberterians. Their positions are,
 no surprise, liberty-centric.. In US though, a lot of "free-market
 leaning purists", especially the ones visible in the media (thanks to
-that shady Thiel money) are against abortion. They must be there to
-help the single-party rule to persist by providing semi-intellectual
-cover for the culture war.
+that shady Thiel money) approach the issue differently. They must be
+there to help the single-party rule to persist by providing
+semi-intellectual cover for the culture war.
 
 DW: "[DE has a] prohibition on doctors advertising pregnancy
 terminations .. [The] Free Democrats (FDP), which emphasizes
