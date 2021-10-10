@@ -48,7 +48,7 @@ plt.hold(False)
 
 ![](climate_01.png)
 
-## ACF / PACF
+ACF / PACF
 
 ```python
 import statsmodels.api as sm
@@ -71,8 +71,7 @@ plt.hold(False)
 
 ![](climate_03.png)
 
-## Dickey Fuller Tests
-
+Dickey Fuller Tests
 
 ```python
 %load_ext rpy2.ipython
