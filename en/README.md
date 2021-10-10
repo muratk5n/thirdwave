@@ -37,7 +37,7 @@ listed. Maybe the war would be preferred by the US planners, Iran gave
 US a hard time in Iraq, this wld be the payback, possibly leading to
 toppling of Iranian regime, and completing the bigger plan triggered
 by the invasion of Iraq. Dont care abt the f-ing mullahs but cld be
-problematic for tigger.
+problematic for my tigger.
 
 "Iran’s military has launched a large military drill near the country’s
 border with Azerbaijan, in a show of force amid tensions with its
