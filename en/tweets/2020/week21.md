@@ -74,7 +74,7 @@ Good good..
 ---
 
 I wouldn't f--k with democracies son. They'll whoop ur ass. They are
-[better at war](../../2016/11/why-is-democracy-better.md#war),
+[better at war](../../2015/09/the-logic-of-political-survival-mesquita-code.md#war),
 for very rational reasons.
 
 Conversely one could say countries with less democracies will be worse

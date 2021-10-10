@@ -220,7 +220,5 @@
 
 ["Holy" Rome, First Wave, Religion](12/rome.md)
 
-[The Bonyads](12/the-bonyads.md)
-
 [Timeline of Syria, TR, RU Events](12/timeline-syria-tr.md)
 

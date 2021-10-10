@@ -35,7 +35,7 @@ noone wants.
 
 ---
 
-[Exactly](2016/11/why-is-democracy-better.md#elections). People don't
+[Exactly](2015/09/the-logic-of-political-survival-mesquita.md#elections). People don't
 know shit.  That's why you dont put them on the spot for specific
 policy (see Brexit).  
 

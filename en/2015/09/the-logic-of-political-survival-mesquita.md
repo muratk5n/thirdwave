@@ -34,3 +34,8 @@ considerable resources to reward supporters. The low loyalty norm
 created by small-S, small-W systems makes leaders most ready to trade
 policy for aid, and hence most likely to do the bidding of the United
 States.
+
+References
+
+[The Logic of Political Survival](the-logic-of-political-survival-mesquita-code.md)
+

@@ -374,7 +374,7 @@ Force); that financial support was terminated on 29 February 2020."
 
 ---
 
-Up until 2020 BTI data confirms a [decline](../../2016/11/why-is-democracy-better.md#btiall)
+Up until 2020 BTI data confirms a [decline](../../2015/09/the-logic-of-political-survival-mesquita-code.md#btiall)
 (2000-2020). The fall is not excessive but it is there.
 
 Polity results (same page) shows pre 2000 status.

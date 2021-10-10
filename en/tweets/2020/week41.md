@@ -633,7 +633,7 @@ They also don't know if u r a dog, so why not
 
 ---
 
-Democracy status of [some countries](../../2016/11/why-is-democracy-better.md#status).
+Democracy status of [some countries](../../2015/09/the-logic-of-political-survival-mesquita.md.md#status).
 
 Ukraine has improved.
 
