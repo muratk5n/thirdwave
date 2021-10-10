@@ -352,8 +352,6 @@
 
 [Interregnum](11/interregnum.md)
 
-[More Predictioneers](11/more-predictioneers.md)
-
 [#tech](11/tech.md)
 
 [100 Years Ago](12/100-years-ago.md)

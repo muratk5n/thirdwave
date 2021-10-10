@@ -78,17 +78,11 @@
 
 [#heirloom](04/heirloom.md)
 
-[Codebook 1](04/lops1.md)
-
-[Codebook 2](04/lops2.md)
-
 [B. Mesquita and India](04/mesquita-india.md)
 
 [B. Mesquita and Iran](04/mesquita-iran.md)
 
 [#ML](04/ml.md)
-
-[Parochial Interests](04/parochial-interests.md)
 
 [Poor Egypt](04/poor-egypt.md)
 
@@ -182,7 +176,7 @@
 
 [#iran](07/iran.md)
 
-[Bruce bd Mesquita's Game Theoretical Method](07/mesquita-game-theory.md)
+[Bruce bd Mesquita's Game Theoretical Method, Greece Debt Relief](07/mesquita-game-theory-greece.md)
 
 [Naspers Invests in Bitcoin](07/naspers-invests-in-bitcoin.md)
 
@@ -237,6 +231,10 @@
 [Hanging On For Dear Life](09/hanging-on-for-dear-life.md)
 
 [Homs](09/homs.md)
+
+[Codebook 1](09/lops1.md)
+
+[Codebook 2](09/lops2.md)
 
 [#nice](09/nice.md)
 
