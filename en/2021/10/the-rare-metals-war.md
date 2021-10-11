@@ -21,12 +21,6 @@ residents. But elsewhere, housing was much closer, he said.  The
 destroying the country’s environment. 20 Pollution damage by the
 coal-mining industry is well documented. But barely reported is the
 fact that mining rare metals also produces pollution, and to such an
-extent that China has stopped counting contamination events
-
-The 10,000 or so mines spread across China have played a big role in
-destroying the country’s environment. Pollution damage by the
-coal-mining industry is well documented. But barely reported is the
-fact that mining rare metals also produces pollution, and to such an
 extent that China has stopped counting contamination events..
 
 Latin America has already started to experience similar problems with
