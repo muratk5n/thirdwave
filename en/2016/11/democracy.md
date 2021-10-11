@@ -1,5 +1,7 @@
 # Democracy
 
+[Bruce bd Mesquita's Game Theoretical Method, Greece Debt Relief](2015/07/mesquita-game-theory-greece.md)
+
 [The Logic of Political Survival](../../2015/09/the-logic-of-political-survival-mesquita.md)
 
 [The Dictator's Handbook](2015/04/dictators-handbook-mesquita.md)
