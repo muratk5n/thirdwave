@@ -65,7 +65,7 @@ than] $20,000 fighting his case instead of giving him a blanket"
 ---
 
 Great docu on "green energy gone wrong". The full video cld be found
-on streaming. I saw it on Al Jazeera. Highly recomended.
+on streaming. Highly recomended.
 
 [[-]](https://www.youtube.com/watch?v=Dku88WUsXfg)
 

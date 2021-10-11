@@ -1,6 +1,6 @@
 # Week 41
 
-How much debt is enough? It [varies](2020/07/austerity.md) from country
+How much debt is enough? It [varies](../../2020/07/austerity.md) from country
 to country. In the absence of clear economic thresholds, politics will decide,
 one side can be for 60% the other 120%, ending up at 90%.
 
