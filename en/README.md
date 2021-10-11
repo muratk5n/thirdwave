@@ -29,7 +29,7 @@ World Bank Report: "[S]ome recycling processes cause losses in the
 material itself and it may not be technically or economically feasible
 to recover material suitable for recycling from some
 applications. This is especially the case now with Li-ion batteries
-helping explain the low recycling rates for lithium [less then 1%]"
+helping explain the low recycling rates for lithium [less than 1%]"
 
 [[PDF]](https://pubdocs.worldbank.org/en/961711588875536384/Minerals-for-Climate-Action-The-Mineral-Intensity-of-the-Clean-Energy-Transition.pdf)
 
