@@ -64,7 +64,7 @@ than] $20,000 fighting his case instead of giving him a blanket"
 
 ---
 
-Great docu on "green energy gone wrong". The full video cld be found
+Great docu on "green policy gone wrong". The full video cld be found
 on streaming. Highly recomended.
 
 [[-]](https://www.youtube.com/watch?v=Dku88WUsXfg)
