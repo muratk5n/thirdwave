@@ -1,8 +1,8 @@
 # Democracy
 
-[Why Is Democracy Better?](../../2015/09/the-logic-of-political-survival-mesquita.md)
+[The Logic of Political Survival](../../2015/09/the-logic-of-political-survival-mesquita.md)
 
-[Bruce bd Mesquita's Game Theoretical Method](../../2015/07/mesquita-game-theory.md)
+[The Dictator's Handbook](2015/04/dictators-handbook-mesquita.md)
 
 [Predicting Presidential Elections](../../2015/04/predicting-presidential-elections.md)
 
