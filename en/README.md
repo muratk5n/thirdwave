@@ -13,8 +13,8 @@ the ferrofluid dances to the audio"
 
 Less than a billion ppl live in Southern Hemisphere, most are in the
 North. That's why their (our) winter matters more, and why we can
-suspect heating for pollution for [this](2015/08/temp-increase.md#carbon)
-type of seasonal increase.
+suspect heating for [this](2015/08/temp-increase.md#carbon) type of
+seasonal increase.
 
 ---
 
