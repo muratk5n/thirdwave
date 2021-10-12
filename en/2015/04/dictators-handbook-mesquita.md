@@ -70,7 +70,7 @@ transports, and other equipment were lightly and cheaply armored. They
 preferred to spend money on private rewards with which to ensure the
 loyalty of the generals and colonels.
 
-Castro
+Fidel and Che
 
 Lest there be doubt that those who share the risks of coming to power
 often are then thrown aside—or worse—let us reflect on the
@@ -89,19 +89,12 @@ was likely his greatest fault. Castro forced Che out of Cuba in 1965
 partly because of Che’s popularity, which made him a potential rival
 for authority. Castro sent Che on a mission to Bolivia, but towards
 the end of March 1967 Castro simply cut off Guevara’s support, leaving
-him stranded. Captain Gary Prado Salmon, the Bolivian officer who
-captured Che, confirmed that Guevara told him that the decision to
-come to Bolivia was not his own, it was Castro’s. One of Fidel’s
-biographers remarked, "in a very real sense Che followed in the
-shadows of Frank Pais, Camilo Cienfuegos, Huber Matos, and Humberto
-Sori Marin [all close backers of Castro during the revolution]. Like
-them, he was viewed by Castro as a ‘competitor’ for power and like
-them, he had to be moved aside ‘in one manner or another.’ Che Guevara
-was killed in Bolivia but at least he escaped the ignominy of
-execution by his revolutionary ally, Fidel Castro. Humberto Sori Marin
-was not so ‘fortunate.’ Marin, the commander of Castro’s rebel army,
-was accused of conspiring against the revolution. In April 1961, like
-so many other erstwhile backers of Fidel Castro, he too was executed."
+him stranded... Che Guevara was killed in Bolivia but at least he
+escaped the ignominy of execution by his revolutionary ally, Fidel
+Castro. Humberto Sori Marin was not so ‘fortunate.’ Marin, the
+commander of Castro’s rebel army, was accused of conspiring against
+the revolution. In April 1961, like so many other erstwhile backers of
+Fidel Castro, he too was executed."
 
 Political transitions are filled with examples of supporters who help
 a leader to power only to be replaced. This is true whether we look at
