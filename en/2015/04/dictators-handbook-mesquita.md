@@ -65,7 +65,7 @@ democracies in general, spends a lot of its money on buying equipment
 that is heavily armored to protect soldiers. Better training and
 equipment enable democracies to leverage the impact of each soldier so
 they can achieve the same military output while at the same time
-putting few soldiers at risk. 5 The Egyptian military’s tanks, troop
+putting few soldiers at risk. The Egyptian military’s tanks, troop
 transports, and other equipment were lightly and cheaply armored. They
 preferred to spend money on private rewards with which to ensure the
 loyalty of the generals and colonels.
