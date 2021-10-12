@@ -1,4 +1,4 @@
-# Steve Keen's Model, Derivation, Code
+# Steve Keen's Macroeconomic Model, Derivation, Code
   
 Terms
 
@@ -615,4 +615,6 @@ References
 [3] Keen, A monetary Minsky model of the Great Moderation and the Great Recession
 
 [4] Keen, Greenwich-Kingston PhD students lecture: the logic  maths of modelling Minsky (2), http://youtu.be/0Do05hV_Iqo?t=1200
+
+[5] Octave [Code](minsky-keen-octave.zip) (based on [this](https://warwick.ac.uk/fac/soc/economics/current/modules/rm/notes1/research_methods_matlab_3.pdf) link).
 
