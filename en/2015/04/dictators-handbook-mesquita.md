@@ -115,36 +115,3 @@ manage the money of the senior ayatollahs and some key military
 leaders. The Bonyads are reputed to control 20 to 25 percent of Iran’s
 annual income—not bad as private benefits go.
 
-Debt, Aid
-
-Debt forgiveness is a popular policy, but one that is generally
-misguided. Those in favor of forgiving the debt of highly indebted
-poor countries argue that the debt burden falls on the poor people of
-the nation who did not benefit in a consequential way from the
-borrowed funds. This is certainly true. As we have explained, the
-benefits go to the leader and the coalition while the debt obligation
-falls on everyone. But people who argue for debt forgiveness construct
-their arguments in terms of how they think the world should operate,
-rather than how it actually works.
-
-[I]t is useful to look back at some of the largest debt-relief efforts
-prior to 2000. It is particularly illustrative to observe how
-important the nature of governance is. Even though creditors carefully
-chose those nations that they thought would behave sensibly, in the
-wake of debt relief many nations started increasing debt again.
-
-As a percentage of debt, the largest debt reliefs prior to 2000 were
-given to Ethiopia in 1999 (42 percent of debt), Yemen in 1997 (34
-percent), Belarus in 1996 (33 percent), Angola in 1996 (33 percent),
-Nicaragua in 1996 (30 percent) and Mozambique in 1990 (27
-percent). With the exceptions of Angola and Nicaragua, each of these
-nations promptly started reaccumulating debt. For instance, after a
-series of small debt reductions, in 1999, with the forgiveness of $4.4
-billion, Ethiopia had its debt reduced to $5.7 billion. But by 2003
-this debt had risen to $6.9 billion. Despite the forgiveness of $589
-million of debt in 1996, Belarus’s debt has steadily risen from $1.8
-billion in 1995 to over $4.1 billion in 2005. Even though
-debt-reduction programs vet candidates, these examples suggest that in
-many cases forgiveness without institutional reform simply allows
-leaders to start borrowing again.
-
