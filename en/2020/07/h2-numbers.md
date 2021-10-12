@@ -186,6 +186,11 @@ square with one side 284.38 km
 An area 290 km x 290 km. of panels. SA Rub' al Khali desert is 650,000
 km^2, 1/7th of that is needed approximately.
 
+Carbon
+
+A tree can absorb 25kg of CO2 per year. When burned that carbon is
+released into the air.
+
 References
 
 [1] https://en.wikipedia.org/wiki/Electrolysis_of_water

@@ -61,7 +61,7 @@ entrepreneurs like Jobs will later capitalize on...
 Steve Jobs talked ... in his charismatic 2005 Stanford lecture on the
 need for innovators to stay ‘hungry and foolish’, few have admitted
 how much such foolishness has been ‘seriously’ riding on the wave of
-State- funded and -directed innovations.
+State-funded and -directed innovations.
 
 The State... ‘foolishly’ developing innovations? Yes, most of the
 radical, revolutionary innovations that have fuelled the dynamics of

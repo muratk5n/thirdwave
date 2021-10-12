@@ -14,6 +14,7 @@ Timeline
      * 15/02 Kurdish-backed forces take Syrian town
      * 13/03 Ankara suicide bombing killed  37 people injured 125
      * 19/03 Suicide bomb kills 4 in shopping street in Istanbul
+     * 22/05 PM resigns due to ruling party infighting
      * 28/06 Airport attack, 45 people were killed 239 people injured in TR
      * 15/07 TR coup attempt
      * 20/08 TR military offensive into northern Syria starts
