@@ -32,8 +32,8 @@ roundtrip tour of Southern California"
 
 2011/12 was the peak, absolute bloddy worst, worst of times.. This is
 the year of Occuppy Wall Street BTW (the Zuccotti Park again), shortly
-before the bleeping *Pope* started jumping up and down on inequality,
-and Pikketty book was published on the same theme.
+before the *Pope* started jumping up and down on inequality, and
+Pikketty book was published on the same theme.
 
 ---
 
