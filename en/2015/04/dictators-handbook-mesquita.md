@@ -117,57 +117,6 @@ annual income—not bad as private benefits go.
 
 Debt, Aid
 
-[W]e saw the paradoxical result that as Nigeria’s oil revenues grew so
-did its debt. It wasn’t that the oil itself encouraged
-borrowing—autocrats always want to borrow more. Rather revenues from
-oil meant that Nigeria could service a larger debt and so people were
-more willing to lend. [..]
-
-Although the large coalition size in a democracy places some
-restrictions on the level of borrowing, democratic leaders are still
-inclined to be financially irresponsible. Remember, while the debt is
-paid by all, the benefits disproportionately flow to coalition
-members. Over the last ten years the economies of many Western nations
-boomed. This would have been a perfect time to reduce debt. Yet in
-many cases this did not happen. [..]
-
-From a Keynesian perspective, many governments are taking the perverse
-steps of trying to cut spending during a recession instead of
-stimulating demand. This does not reflect a desire by politicians to
-borrow less. Rather debt crises in Iceland, Greece, and Ireland have
-led many investors to doubt the ability of nations to repay. This has
-pushed up the cost of borrowing and made it much harder to secure new
-loans. It is supply, not demand, that has shrunk.
-
-Markets limit how much a nation can borrow. If individuals borrow too
-much and either cannot or will not repay it, then banks and other
-creditors can seize assets to recover the debt. With sovereign lending
-to countries, however, creditors cannot repossess property. [..] In
-practice, the only leverage lenders have over nations is to cut them
-off from future credit. Nevertheless, this has a profound effect, as
-the ability to engage in borrowing in financial markets is
-valuable. For this reason nations generally pay their debt.
-
-However, once the value of access to credit is worth less than the
-cost of servicing the debt then leaders should default. If they don’t
-then surely a challenger will come along who will offer to do so. [..]
-
-As debt approaches the balance point where the value of access to
-credit equals the cost of debt service, lenders refuse to increase the
-overall size of debt. At this point, if leaders want to borrow more,
-then they need to increase revenues such that they could service this
-additional debt. As in the Nigerian case, the discovery of exploitable
-natural resources provides one means to increase debt service and
-hence more borrowing. However, without such discoveries, the only way
-to increase borrowing is to increase tax revenue. For autocratic
-leaders this means liberalizing their policies to encourage people to
-work harder because they already tax at a high (implicit) rate. Only
-when facing financial problems are leaders willing to even consider
-undertaking such politically risky liberalization. They don’t do it
-frequently or happily. They liberalize, opening the door to a more
-democratic, representative and accountable government only when they
-have no other path to save themselves from being deposed today [..]
-
 Debt forgiveness is a popular policy, but one that is generally
 misguided. Those in favor of forgiving the debt of highly indebted
 poor countries argue that the debt burden falls on the poor people of
