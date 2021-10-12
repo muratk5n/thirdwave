@@ -1,77 +1,100 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-It's wild
 
-"@Rainmaker1973
 
-YouTube user Dakd Jung created this ferrofluid audio-visualizer where
-the ferrofluid dances to the audio"
+Down with the suit
 
-[[-]](https://twitter.com/Rainmaker1973/status/1446802688839127040)
+"@TeleFashion
 
----
+NecktieSuit sales are in decline. 
 
-Less than a billion ppl live in Southern Hemisphere, most are in the
-North. That's why their (our) winter matters more, and why we can
-suspect heating for [this](2015/08/temp-increase.md#carbon) type of
-seasonal increase.
+Even before Covid, major companies were relaxing their policy on
+wearing suits to the office.
+
+Now, the pandemic has driven another nail into the coffin"
 
 ---
 
-Platinum used in fuel-cells are highly recyclable (same report) plus
-less of it is needed to make FCs work. Also you are committing to a
-simple base chemistry as an energy carrier, further inno around 
-which is easier; eg there are solid-oxide FCs for stationary use.
+"Researchers Develop Leaf-Like Catalytic Structures for Solar-Driven
+Production of Green Hydrogen & Ammonia - IIT Mandi, IIT Delhi"
+
+[[-]](https://bit.ly/3BtFY7r )
 
 ---
 
-World Bank Report: "[S]ome recycling processes cause losses in the
-material itself and it may not be technically or economically feasible
-to recover material suitable for recycling from some
-applications. This is especially the case now with Li-ion batteries
-helping explain the low recycling rates for lithium [less than 1%]"
+"Toyota Mirai Sets Guinness World Records Title With 845 Mile Zero
+Emission Journey - Driven on a single, 5 minute fill during a
+roundtrip tour of Southern California"
 
-[[PDF]](https://pubdocs.worldbank.org/en/961711588875536384/Minerals-for-Climate-Action-The-Mineral-Intensity-of-the-Clean-Energy-Transition.pdf)
+[[-]](https://bit.ly/3azIu0t)
 
 ---
 
-[Excerpts](2021/10/the-rare-metals-war.md) from *The Rare Metals War*
-by Pitron.
+2011/12 was the peak, absolute bloddy worst, worst of times.. This is
+the year of Occuppy Wall Street BTW (the Zuccotti Park again), shortly
+before the bleeping *Pope* started jumping up and down on inequality,
+and Pikketty book was published on the same theme.
 
 ---
 
-An [image](https://pbs.twimg.com/media/FBRsSazX0AceGzK?format=png&name=small) for
-the history books \#WHO
+Latest inequality GINI stat, major fall. Biden's term looking good on
+that score so far,
+
+[[-]](2019/05/stats.md#gini)
 
 ---
 
-"The State Department ..  emphasized that the United States supports
-'stability' in the region. You can translate this diplomatic language
-to say American forces will stay in eastern Syria to protect the
-autonomous [Kurdish] administration"
+Da Damn Phreak Noize Phunk - Blueberry View \#music
 
-[[-]](https://english.aawsat.com/home/article/3232226/robert-ford/soldiers-stay-no-american-solution-syria)
+[[-]](https://youtu.be/Icx88YRiNbs)
 
 ---
 
-"@keribla
+Good. I am glad.. such a weirdo. He kept asking the EU to ditch the
+Green Deal during the pandemic.. bcz of the pandemic.. ??
 
-Remember the Texas prisoner who sued for a cotton blanket because he
-was allergic to the prison's blankets and officials refused to give
-him a cotton one instead? I got records showing the state spent [more
-than] $20,000 fighting his case instead of giving him a blanket"
+WSJ: "Czech Prime Minister Loses His Bid for Re-Election"
 
 ---
 
-Great docu on "green policy gone wrong". The full video cld be found
-on streaming. Highly recomended.
-
-[[-]](https://www.youtube.com/watch?v=Dku88WUsXfg)
+Another book incorrectly analyzing why countries make war, lacking
+numerical analysis - *The Tragedy of Great Power Politics* by
+Mearsheimer. Just as "balance of power" analysis' are insufficient, so
+is "maximizing power for safety".  Every decision a leader makes is
+influenced by nominal selectorate, the real selectorate, and the
+winning coalition. The size of each of these groups
+[determine](2015/04/dictators-handbook-mesquita.md#war) the war/piece
+decision. 
 
 ---
 
-"More than 130 countries agreed to set a minimum tax rate of 15 percent
-as governments look to end a race to the bottom on corporate taxation"
+BBC is promoting String Theory? Their docu/science dept really went
+down the hill didn't it?
+
+---
+
+BTW Robitaille is [legit scientist](https://youtu.be/_A7VFVwAA5U?t=34), used
+to build bleeding-edge MRI machines, a [spectrographist](https://youtu.be/oO5vIUcnKlI?t=2956)
+by training, so very much in tune with the measurement side of things.
+
+---
+
+"It" as in a big chunk of astrophyics.
+
+---
+
+It sounds like if you disprove Kirchoff's Law, and truly make that
+fact visible to everyone, it will all come undone. This is he weak
+spot. Smash.
+
+[[-]](https://youtu.be/ZrwS7byg4Ec?t=249)
+
+---
+
+"@FortescueFuture & Queensland Plan One of World’s Largest Hydrogen
+Equipment Manufacturing Hubs"
+
+[[-]](https://bit.ly/3AxBGuC )
 
 ---
 
