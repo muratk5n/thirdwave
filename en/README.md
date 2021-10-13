@@ -1,100 +1,74 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
+Lavo: "BBQ functions in a unique manner by relying on heat exchange
+technology, a chemical reaction between hydrogen and oxygen to create
+heat and disperse it to the hotplate. This solution delivers a
+barbeque that operates without flames, only producing heat and steam
+as a by-product, the portable BBQ hotplate can reach 200 degrees
+Celsius"
 
-
-Down with the suit
-
-"@TeleFashion
-
-NecktieSuit sales are in decline. 
-
-Even before Covid, major companies were relaxing their policy on
-wearing suits to the office.
-
-Now, the pandemic has driven another nail into the coffin"
+[[-]](https://www.design-industry.com.au/lavo-hydrogen-bbq)
 
 ---
 
-"Researchers Develop Leaf-Like Catalytic Structures for Solar-Driven
-Production of Green Hydrogen & Ammonia - IIT Mandi, IIT Delhi"
+AU UNSW and Lavo already created a prototype for that H2 BBQ
+machine. Sweet.
 
-[[-]](https://bit.ly/3BtFY7r )
-
----
-
-"Toyota Mirai Sets Guinness World Records Title With 845 Mile Zero
-Emission Journey - Driven on a single, 5 minute fill during a
-roundtrip tour of Southern California"
-
-[[-]](https://bit.ly/3azIu0t)
+<img width="200" src="https://pbs.twimg.com/media/FBfPkldWUAATEjD?format=jpg&name=small"/>
 
 ---
 
-2011/12 was the peak, absolute bloddy worst, worst of times.. This is
-the year of Occuppy Wall Street BTW (the Zuccotti Park again), shortly
-before the *Pope* started jumping up and down on inequality, and
-Pikketty book was published on the same theme.
+Here's an idea: don't unclog it.
+
+"The commercial pipeline that each year brings $1 trillion worth of
+toys, clothing, electronics and furniture from Asia to the United
+States is clogged and no one knows how to unclog it"
 
 ---
 
-Latest inequality GINI stat, major fall. Biden's term looking good on
-that score so far,
-
-[[-]](2019/05/stats.md#gini)
+Spotify... FYI, Focker is an early [investor](https://community.spotify.com/t5/Other-Podcasts-Partners-etc/Get-Peter-Thiel-s-Founder-s-Fund-out-of-Spotify-s-financing/td-p/1571394)
+there. 
 
 ---
 
-Da Damn Phreak Noize Phunk - Blueberry View \#music
-
-[[-]](https://youtu.be/Icx88YRiNbs)
-
----
-
-Good. I am glad.. such a weirdo. He kept asking the EU to ditch the
-Green Deal during the pandemic.. bcz of the pandemic.. ??
-
-WSJ: "Czech Prime Minister Loses His Bid for Re-Election"
+The gateway drug for the corrupt liberterian circles funded by Thiel
+money seem to be anti-Wokeism (SJW is a problem but no need for these
+muckers to fight it), and an excessive distaste for any governance,
+electoral politics, etc.. The shtick attracts ppl from left or right
+-- not anyone bright, fortunately.
 
 ---
 
-Another book incorrectly analyzing why countries make war, lacking
-numerical analysis - *The Tragedy of Great Power Politics* by
-Mearsheimer. Just as "balance of power" analysis' are insufficient, so
-is "maximizing power for safety".  Every decision a leader makes is
-influenced by nominal selectorate, the real selectorate, and the
-winning coalition. The size of each of these groups
-[determine](2015/04/dictators-handbook-mesquita.md#war) the war/piece
-decision. 
+Apparently the plant they talk about is one of the biggest polluters in UK.
+
+Green groups obviously object to this. Another way of looking at it
+is, carbon was taken off the air, why put it back in? Carbon scrubbing
+naturally is already a very slow process, up to a century long.. 
+
+"[P]lans are being pioneered by [UK] Drax Group, which claims that
+burning wood pellets is carbon-neutral because trees absorb as much
+carbon dioxide when they grow as they emit when they are
+burnt. Capturing the carbon emissions from biomass power plants would
+then effectively create 'negative carbon emissions', according to
+Drax"
+
+[[-]](https://www.theguardian.com/business/2021/mar/23/green-groups-dispute-power-station-claim-biomass-carbon-neutral)
 
 ---
 
-BBC is promoting String Theory? Their docu/science dept really went
-down the hill didn't it?
+Tech CEOs.. These guys mostly throw stuff into a bowl and see what
+comes out.. some are better at it than others, like Jobs. Genius inventors? By even as
+late as 2006 Apple was trying to stuff a phone [into an iPod](the-one-device-merchant.md).
+Imagine that, trying to dial people with that bloddy wheel..
+
+"Steve Jobs was a genius. How dare you? He invented the iPhone"
 
 ---
 
-BTW Robitaille is [legit scientist](https://youtu.be/_A7VFVwAA5U?t=34), used
-to build bleeding-edge MRI machines, a [spectrographist](https://youtu.be/oO5vIUcnKlI?t=2956)
-by training, so very much in tune with the measurement side of things.
+So that governments [can fuel](2021/10/entrepreneuel-state-mazzucato.md#jobs) the
+research that companies like theirs feast off regularly.
 
----
-
-"It" as in a big chunk of astrophyics.
-
----
-
-It sounds like if you disprove Kirchoff's Law, and truly make that
-fact visible to everyone, it will all come undone. This is he weak
-spot. Smash.
-
-[[-]](https://youtu.be/ZrwS7byg4Ec?t=249)
-
----
-
-"@FortescueFuture & Queensland Plan One of World’s Largest Hydrogen
-Equipment Manufacturing Hubs"
-
-[[-]](https://bit.ly/3AxBGuC )
+"Why should companies pay their taxes, like Apple?"
 
 ---
 
