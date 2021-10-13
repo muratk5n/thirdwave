@@ -54,6 +54,8 @@
 
 [Satoshi Identification](09/satoshi-identification.md)
 
+[All Too Human](10/all-too-human.md)
+
 [The Strange Case of Steven Donziger](10/donziger-chevron.md)
 
 [The Entrepreneurial State](10/entrepreneuel-state-mazzucato.md)

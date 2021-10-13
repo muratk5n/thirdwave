@@ -18,9 +18,9 @@
 
 [Interference](02/interference.md)
 
-[#keen](02/keen.md)
+[Steve Keen's Macroeconomic Model](02/keen.md)
 
-[Steve Keen's Model, Derivation, Code](02/keen_math.md)
+[Steve Keen's Macroeconomic Model, Derivation, Code](02/keen_math.md)
 
 [Late-Stage Capitalism](02/late-stage-capitalism.md)
 

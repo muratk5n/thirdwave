@@ -57,7 +57,7 @@ world population)...
 
 Grid and BEV
 
-The EV has an overall efficiency of about 60%. Electric grid
+The EV has an overall efficiency of about 60%. Electric grid [9]
 efficiency is 40%, 60% x 40% gives a total of 24%.
 
 Assuming same electricity comes from panels to both processes,
@@ -209,3 +209,4 @@ References
 
 [8] [Hydrogen Insights](https://hydrogencouncil.com/wp-content/uploads/2021/02/Hydrogen-Insights-2021-Report.pdf)
 
+[9] EIA, https://www.eia.gov/todayinenergy/detail.php?id=44436
