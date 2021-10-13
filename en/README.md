@@ -58,7 +58,7 @@ Drax"
 
 Tech CEOs.. These guys mostly throw stuff into a bowl and see what
 comes out.. some are better at it than others, like Jobs. Genius inventors? By even as
-late as 2006 Apple was trying to stuff a phone [into an iPod](the-one-device-merchant.md).
+late as 2006 Apple was trying to stuff a phone [into an iPod](2021/10/the-one-device-merchant.md).
 Imagine that, trying to dial people with that bloddy wheel..
 
 "Steve Jobs was a genius. How dare you? He invented the iPhone"
