@@ -5,7 +5,7 @@ The Mandarin: "US prepares for potential $1.3b sale of navy helicopters to Austr
 ---
 
 This tech can form the basis of a portable, plug-and-play heating
-infrastructure wout natgas, or electricity.
+infrastructure wout natgas, or electricity. CHP can handle the rest.
 
 Lavo: "BBQ functions in a unique manner by relying on heat exchange
 technology, a chemical reaction between hydrogen and oxygen to create
