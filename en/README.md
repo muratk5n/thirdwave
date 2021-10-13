@@ -1,5 +1,9 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
+The Mandarin: "US prepares for potential $1.3b sale of navy helicopters to Australia"
+
+---
+
 Lavo: "BBQ functions in a unique manner by relying on heat exchange
 technology, a chemical reaction between hydrogen and oxygen to create
 heat and disperse it to the hotplate. This solution delivers a
