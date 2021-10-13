@@ -38,7 +38,8 @@ there.
 The gateway drug for the corrupt liberterian circles funded by Thiel
 money seem to be anti-Wokeism (SJW is a problem but no need for these
 muckers to fight it), and an excessive distaste for any governance,
-electoral politics, etc.. The shtick attracts ppl from left or right.
+electoral politics, etc.. The shtick attracts ppl from left or
+right. Beware
 
 ---
 
