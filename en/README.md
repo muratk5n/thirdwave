@@ -39,11 +39,11 @@ electoral politics, etc.. The shtick attracts ppl from left or right
 
 ---
 
-Apparently the plant they talk about is one of the biggest polluters in UK.
+Apparently the plant they talk about is one of the biggest polluters
+in UK. Green groups naturally object.
 
-Green groups obviously object to this. Another way of looking at it
-is, carbon was taken off the air, why put it back in? Carbon scrubbing
-naturally is already a very slow process, up to a century long.. 
+Here's a way to look at it; Carbon was taken off the air, why put it
+back in?
 
 "[P]lans are being pioneered by [UK] Drax Group, which claims that
 burning wood pellets is carbon-neutral because trees absorb as much
