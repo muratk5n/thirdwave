@@ -11,8 +11,8 @@ Celsius"
 
 ---
 
-AU UNSW and Lavo already created a prototype for that H2 BBQ
-machine. Sweet.
+UNSW and Lavo already created a prototype for that H2 BBQ
+machine. Excellent.
 
 <img width="200" src="https://pbs.twimg.com/media/FBfPkldWUAATEjD?format=jpg&name=small"/>
 
