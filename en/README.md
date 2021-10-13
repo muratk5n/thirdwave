@@ -43,8 +43,8 @@ electoral politics, etc.. The shtick attracts ppl from left or right
 
 ---
 
-Apparently the plant they talk about is one of the biggest polluters
-in UK. Green groups naturally object.
+Green groups naturally object. The plant in q is one of the biggest
+polluters in UK.
 
 Here's a way to look at it; Carbon was taken off the air, why put it
 back in?
