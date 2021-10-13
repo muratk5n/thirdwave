@@ -109,7 +109,7 @@ the ferrofluid dances to the audio"
 
 Less than a billion ppl live in Southern Hemisphere, most are in the
 North. That's why their (our) winter matters more, and why we can
-suspect heating for [this](2015/08/temp-increase.md#carbon) type of
+suspect heating for [this](../../2015/08/temp-increase.md#carbon) type of
 seasonal increase.
 
 ---
@@ -131,7 +131,7 @@ helping explain the low recycling rates for lithium [less than 1%]"
 
 ---
 
-[Excerpts](2021/10/the-rare-metals-war.md) from *The Rare Metals War*
+[Excerpts](../../2021/10/the-rare-metals-war.md) from *The Rare Metals War*
 by Pitron.
 
 ---
