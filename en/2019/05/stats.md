@@ -681,11 +681,11 @@ plt.savefig('oil.png')
 
 ```text
 Date
-2021-09-13    70.449997
-2021-09-14    70.459999
-2021-09-15    72.610001
-2021-09-16    72.610001
-2021-09-17    71.970001
+2021-10-07    78.300003
+2021-10-08    79.349998
+2021-10-11          NaN
+2021-10-12          NaN
+2021-10-13    80.519997
 Name: Close, dtype: float64
 ```
 
@@ -711,7 +711,7 @@ plt.savefig('crude-production.png')
 import pandas as pd, datetime, time as timelib
 import urllib.request as urllib2, io
 end = datetime.datetime.now()
-start=datetime.datetime(2000, 1, 1)
+start=datetime.datetime(2010, 1, 1)
 start = int(timelib.mktime(start.timetuple()))
 end = int(timelib.mktime(end.timetuple()))
 base_fin_url = "https://query1.finance.yahoo.com/v7/finance/download"
@@ -720,21 +720,20 @@ r = urllib2.urlopen(url).read()
 file = io.BytesIO(r)
 df = pd.read_csv(file,index_col='Date',parse_dates=True)['Adj Close']
 df.plot()
-plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
-plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
+plt.plot(df.tail(1).index, df.tail(1),'ro')
 print (df.tail(7))
 plt.savefig('natgas.png')
 ```
 
 ```text
 Date
-2021-09-28    5.841
-2021-09-29    5.477
-2021-09-30    5.867
-2021-10-01    5.619
-2021-10-04    5.766
 2021-10-05    6.312
-2021-10-06    6.316
+2021-10-06    5.675
+2021-10-07    5.677
+2021-10-08    5.565
+2021-10-11      NaN
+2021-10-12      NaN
+2021-10-13    5.529
 Name: Adj Close, dtype: float64
 ```
 

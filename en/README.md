@@ -1,81 +1,80 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-The Mandarin: "US prepares for potential $1.3b sale of navy helicopters to Australia"
+
+"Shell and the consortium partners—including McDermott's CB&I Storage
+Solutions, NASA's Kennedy Space Center, GenH2 and the University of
+Houston—have been selected by the U.S. Department of Energy's (DOE)
+Hydrogen and Fuel Cell Technologies Office to demonstrate that a
+large-scale LH2 tank, with a capacity ranging from 20,000 to 100,000
+cubic meters, is both feasible and cost competitive at import and
+export terminals"
+
+[[-]](https://www.wjhg.com/prnewswire/2021/10/13/shell-led-consortium-selected-by-doe-demonstrate-feasibility-large-scale-liquid-hydrogen-storage/)
 
 ---
 
-This tech can form the basis of a portable, plug-and-play heating
-infrastructure wout fossil, or electricity. CHP can handle the rest.
+Some fall in natgas prices.. ok..
 
-Lavo: "BBQ functions in a unique manner by relying on heat exchange
-technology, a chemical reaction between hydrogen and oxygen to create
-heat and disperse it to the hotplate. This solution delivers a
-barbeque that operates without flames, only producing heat and steam
-as a by-product, the portable BBQ hotplate can reach 200 degrees
-Celsius"
-
-[[-]](https://www.design-industry.com.au/lavo-hydrogen-bbq)
+[[-]](2019/05/stats#natgas)
 
 ---
 
-UNSW and Lavo already created a prototype for that H2 BBQ
-machine. Excellent.
+"Macron pushes nuclear, hydrogen power in €30 billion plan"
 
-<img width="200" src="https://pbs.twimg.com/media/FBfPkldWUAATEjD?format=jpg&name=small"/>
-
----
-
-Here's an idea: don't unclog it.
-
-"The commercial pipeline that each year brings $1 trillion worth of
-toys, clothing, electronics and furniture from Asia to the United
-States is clogged and no one knows how to unclog it"
+[[-]](https://www.france24.com/en/france/20211012-macron-unveils-%E2%82%AC30-billion-investment-plan-to-re-industralise-france)
 
 ---
 
-Spotify... FYI, Focker is an early [investor](https://community.spotify.com/t5/Other-Podcasts-Partners-etc/Get-Peter-Thiel-s-Founder-s-Fund-out-of-Spotify-s-financing/td-p/1571394)
-there. 
+😶 😶 😶 
+
+"New South Wales Reveals its 80 Billion Dollar Green Hydrogen
+Strategy. Strategy designed to speed up its transition to zero
+emissions by giving $3 billion in incentives & attracting 80 billion
+dollars in new infrastructure"
+
+[[-]](https://bit.ly/3lxJpoa)
 
 ---
 
-The gateway drug into the corrupt liberterian circles funded by Thiel
-money seem to be anti-Wokeism (SJW is a problem but no need for these
-muckers to fight it), and an excessive distaste for any governance,
-electoral politics, etc.. The shtick attracts ppl from left or
-right -- noone bright fortunately
+Not surprising at all; UK cons are eating into low-income votes, so
+taking votes from Labor, but then losing to Lib Dems for the same
+reason.  This is really odd though.. The party of Thatcher? I dont
+care personally for it, but this is a good chunk of ideology that
+needs representation IMO.
+
+"[6/2021] Lib Dems seize Chesham and Amersham seat off Tories"
+
+"[5/2021] Conservatives hail historic Labour defeat in Hartlepool"
 
 ---
 
-Green groups naturally object. The plant in q is one of the biggest
-polluters in UK.
+That would be a license to kill.. U dont want to be on those boats
 
-Here's a way to look at it; Carbon was taken off the air, why put it
-back in?
-
-"[P]lans are being pioneered by [UK] Drax Group, which claims that
-burning wood pellets is carbon-neutral because trees absorb as much
-carbon dioxide when they grow as they emit when they are
-burnt. Capturing the carbon emissions from biomass power plants would
-then effectively create 'negative carbon emissions', according to
-Drax"
-
-[[-]](https://www.theguardian.com/business/2021/mar/23/green-groups-dispute-power-station-claim-biomass-carbon-neutral)
+"Border Force staff who enact ..  plans to 'push back' migrant boats
+in the Channel could be given immunity from conviction"
 
 ---
 
-Tech CEOs.. These guys mostly throw stuff into a bowl and see what
-comes out.. some are better at it than others, like Jobs. Genius inventors? By even as
-late as 2006 Apple was trying to stuff a phone [into an iPod](2021/10/the-one-device-merchant.md).
-Imagine that, trying to dial people with that wheel..
+"@StartsWithABang
 
-"Steve Jobs was a genius. How dare you? He invented the iPhone"
+Two years ago, the obituaries in my local newspaper were filled with
+80+ year olds, battling cancer and heart disease. Now they're all
+40-70 year olds, mostly men, mostly healthy, with undisclosed
+causes. (Likely COVID-19 and unvaccinated.) Enough preventable
+deaths. Please"
 
 ---
 
-So that governments [can fuel](2021/10/entrepreneuel-state-mazzucato.md#jobs) the
-research that companies like theirs feast off regularly.
+Of course, let's not forget about *Hunger Games*, came out in 2012,
+the year of peak inequality.
 
-"Why should companies pay their taxes, like Apple?"
+It's all there in the stats.. It's crazy.
+
+---
+
+Harbor Tea Rooms - Midnight Hour \#music
+
+[[-]](https://youtu.be/gzNU7aRvA9E)
 
 ---
 
