@@ -13,7 +13,7 @@ export terminals"
 
 ---
 
-Some fall in natgas prices.. ok..
+Some fall in natgas prices.. still very high
 
 [[-]](2019/05/stats#natgas)
 
