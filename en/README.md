@@ -38,7 +38,7 @@ Not surprising at all; UK cons are eating into low-income votes, so
 taking votes from Labor, but then losing to Lib Dems for the same
 reason.  This is really odd though.. The party of Thatcher? I dont
 care personally for it, but this is a good chunk of ideology that
-needs representation, right?.
+needs representation, right?
 
 "[6/2021] Lib Dems seize Chesham and Amersham seat off Tories"
 

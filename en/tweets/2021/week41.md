@@ -65,14 +65,14 @@ Drax"
 
 Tech CEOs.. These guys mostly throw stuff into a bowl and see what
 comes out.. some are better at it than others, like Jobs. Genius inventors? By even as
-late as 2006 Apple was trying to stuff a phone [into an iPod](2021/10/the-one-device-merchant.md).
+late as 2006 Apple was trying to stuff a phone [into an iPod](../../2021/10/the-one-device-merchant.md).
 Imagine that, trying to dial people with that wheel..
 
 "Steve Jobs was a genius. How dare you? He invented the iPhone"
 
 ---
 
-So that governments [can fuel](2021/10/entrepreneuel-state-mazzucato.md#jobs) the
+So that governments [can fuel](../../2021/10/entrepreneuel-state-mazzucato.md#jobs) the
 research that companies like theirs feast off regularly.
 
 "Why should companies pay their taxes, like Apple?"
@@ -117,7 +117,7 @@ Pikketty book was published on the same theme.
 Latest inequality GINI stat, major fall. Biden's term looking good on
 that score so far,
 
-[[-]](2019/05/stats.md#gini)
+[[-]](../../2019/05/stats.md#gini)
 
 ---
 
@@ -140,7 +140,7 @@ Mearsheimer. Just as "balance of power" analysis' are insufficient, so
 is "maximizing power for safety".  Every decision a leader makes is
 influenced by nominal selectorate, the real selectorate, and the
 winning coalition. The size of each of these groups
-[determine](2015/04/dictators-handbook-mesquita.md#war) the war/piece
+[determine](../../2015/04/dictators-handbook-mesquita.md#war) the war/piece
 decision. 
 
 ---
@@ -239,7 +239,7 @@ than] $20,000 fighting his case instead of giving him a blanket"
 ---
 
 Great docu on "green policy gone wrong". The full video cld be found
-on streaming. Highly recomended.
+on streaming. Highly recommended.
 
 [[-]](https://www.youtube.com/watch?v=Dku88WUsXfg)
 
