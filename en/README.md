@@ -25,8 +25,6 @@ Some fall in natgas prices.. ok..
 
 ---
 
-😶 😶 😶 
-
 "New South Wales Reveals its 80 Billion Dollar Green Hydrogen
 Strategy. Strategy designed to speed up its transition to zero
 emissions by giving $3 billion in incentives & attracting 80 billion
