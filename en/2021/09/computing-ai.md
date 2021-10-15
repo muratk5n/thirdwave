@@ -59,6 +59,34 @@ conditions. That's why these NNs, deep or otherwise, are tied so much
 to data, are fragile, and too dependent on their surrounding
 conditions, and fail to generalize.
 
+<a name='car'/>
+
+But there is more...
+
+What if the data cannot even contain the traces of a function in some
+cases? See [article](http://deepdriving.cs.princeton.edu/paper.pdf) on
+teaching machines how to drive to teach machines how to drive using
+pure vision was supplying it data on controls (steering, break,
+acceleration) and images of the outside world, in pairs. Feed it
+gazillions of such data, the program will learn the relation between
+them and learn how to drive. The article makes the case that might not
+be the best way to learn. Image X is fed in, car (in the training
+data) makes right turn. A similar image Y is fed in, car makes a left
+turn. What should the machine learn in this case?
+
+The problem is there might not be a direct function between controls
+and outside images. If the root of science is math, and the root of
+math is number theory / sets, a function is a mapping from one set to
+another, a one-to-one or many-to-one mapping. If image X results in
+left steering, similar image Y in right steering, there is no function
+there. 2 + 2 cannot give you 4 and 14 at the same time (3=1 being 4 is
+okay though). NNs cannot approximate such data coming from such
+process, that is not a function.
+
+So besides approximating functions being the wrong track for AI
+research, we might not have traces of functions in most datasets we
+capture.  We need to start from fundamentals.
+
 Question
 
 In computational science (for physics), we also approximate the
@@ -112,3 +140,5 @@ The problem is for slightly different IC/BC you would get completely
 different (and just as complicated) function. It is a complete mess to
 manage from the other direction. People need to get a paper and pencil
 and start thinking things through, at a more fundamental level.
+
+
