@@ -5,7 +5,7 @@ The electric grid [loses](https://energycentral.com/c/ec/grid-efficiency-opportu
 
 ---
 
-Electrification falls short at nearly everything.. it cant form the
+Electrification falls short at nearly everything.. it cannot form the
 basis of a green infrastructure.
 
 "Green fuel based solutions can help for cases where electrification
