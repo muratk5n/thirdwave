@@ -1,78 +1,69 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
 
-"Shell and the consortium partners—including McDermott's CB&I Storage
-Solutions, NASA's Kennedy Space Center, GenH2 and the University of
-Houston—have been selected by the U.S. Department of Energy's (DOE)
-Hydrogen and Fuel Cell Technologies Office to demonstrate that a
-large-scale LH2 tank, with a capacity ranging from 20,000 to 100,000
-cubic meters, is both feasible and cost competitive at import and
-export terminals"
 
-[[-]](https://www.wjhg.com/prnewswire/2021/10/13/shell-led-consortium-selected-by-doe-demonstrate-feasibility-large-scale-liquid-hydrogen-storage/)
+The electric grid loses 60% of the energy it carries FYI
 
 ---
 
-Some fall in natgas prices.. still very high
+Sadly electrification falls short at nearly everything
 
-[[-]](2019/05/stats#natgas)
-
----
-
-"Macron pushes nuclear, hydrogen power in €30 billion plan"
-
-[[-]](https://www.france24.com/en/france/20211012-macron-unveils-%E2%82%AC30-billion-investment-plan-to-re-industralise-france)
+"Green fuel based solutions can help for cases where electrification
+falls short, such as steel making, aviation etc"
 
 ---
 
-"New South Wales Reveals its 80 Billion Dollar Green Hydrogen
-Strategy. Strategy designed to speed up its transition to zero
-emissions by giving $3 billion in incentives & attracting 80 billion
-dollars in new infrastructure"
-
-[[-]](https://bit.ly/3lxJpoa)
+Most in the developed world discount the heating issue; for many it is
+'just there'; it works, out sight out of mind. But this is the \#1
+pollutant in all consumption for the world. Heating is deadly
+serious. 
 
 ---
 
-Not surprising at all; UK cons are eating into low-income votes, so
-taking votes from Labor, but then losing to Lib Dems for the same
-reason.  This is really odd though.. The party of Thatcher? I dont
-care personally for it, but this is a good chunk of ideology that
-needs representation, right?
+Guy actually asked a good question.. Life does hover near to absolute
+zero.. That's why heating is key for us, we are constantly hovering
+above AZ and trying not to fall under it.
 
-"[6/2021] Lib Dems seize Chesham and Amersham seat off Tories"
+"Why is life so close to absolute zero?" (Doctor Asks Physics Questions)
 
-"[5/2021] Conservatives hail historic Labour defeat in Hartlepool"
+[[-]](https://youtu.be/bIT8_lS4vRY?t=1153)
 
 ---
 
-That would be a license to kill.. U dont want to be on those boats
+'merica has some delusions of its own..
 
-"[UK] Border Force staff who enact ..  plans to 'push back' migrant boats
-in the Channel could be given immunity from conviction"
+Still this is better than claiming you came from Atlantis, or Central
+Asia, you have sex with goats while you followed a gray skunk, through
+the cracks in the mountain, around that lake, down the hill -both
+ways- to reach your present lands.. a land without people, for people
+without a land (how fitting).. And when u die u go to Valhalla.. back
+to your Nature-God whatever foretold by shaman priests 🤨
 
----
+"The American Revolution created the Columbus most of us over the age
+of 30 learned in grade school. Prior to the late 18th century, he was
+a historical footnote with no connection to the 13 colonies. An
+Italian, he sailed under a Spanish flag and landed in no part of the
+modern-day mainland United States. Yet when the need to develop a
+national history with no discernible connection to Britain arose
+during the Revolution, early Americans seized upon him"
 
-"@StartsWithABang
-
-Two years ago, the obituaries in my local newspaper were filled with
-80+ year olds, battling cancer and heart disease. Now they're all
-40-70 year olds, mostly men, mostly healthy, with undisclosed
-causes. (Likely COVID-19 and unvaccinated.) Enough preventable
-deaths. Please"
-
----
-
-Of course, let's not forget about *Hunger Games*, came out in 2012,
-the year of peak inequality.
-
-It's all there in the stats.. It's crazy.
+[[-]](https://www.thenation.com/article/archive/the-invention-of-christopher-columbus-american-hero/)
 
 ---
 
-Harbor Tea Rooms - Midnight Hour \#music
+Trimming the electrification stuff wld be great..
 
-[[-]](https://youtu.be/gzNU7aRvA9E)
+"Big pressure on Biden, Dems to trim $3.5T federal overhaul"
+
+---
+
+Not making fun of the man, he calls himself "The Shat"
+
+---
+
+I recognize that flame color anywhere \#LH2 \#BlueOrigin \#TheShat
+
+[[-]](https://pbs.twimg.com/media/FBp12jKX0Aw7bY8?format=jpg&name=small)
 
 ---
 
