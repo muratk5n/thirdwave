@@ -170,7 +170,7 @@ Now, the pandemic has driven another nail into the coffin"
 "Researchers Develop Leaf-Like Catalytic Structures for Solar-Driven
 Production of Green Hydrogen & Ammonia - IIT Mandi, IIT Delhi"
 
-[[-]](https://bit.ly/3BtFY7r )
+[[-]](https://bit.ly/3BtFY7r)
 
 ---
 
