@@ -2,8 +2,6 @@
 
 [The Collapse of the Big Bang and the Gaseous Sun](01/collapse_of_the_big_bang_and_the_gaseous_sun_robitaille.md)
 
-[Earthquakes](02/equakes.md)
-
 [Power Paste (Solid Magnesium Hydride)](02/h2-power-paste.md)
 
 [Nutritional Values, Requirements](02/nutritional-values.md)
