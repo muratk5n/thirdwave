@@ -1,12 +1,11 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-
-
 The electric grid loses 60% of the energy it carries FYI
 
 ---
 
-Sadly electrification falls short at nearly everything
+Electrification falls short at nearly everything.. it cant form a
+green infrastructure.
 
 "Green fuel based solutions can help for cases where electrification
 falls short, such as steel making, aviation etc"
