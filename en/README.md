@@ -51,7 +51,8 @@ during the Revolution, early Americans seized upon him"
 
 ---
 
-Trimming the electrification stuff wld be great..
+Trimming the electrification stuff wld be great.. Wrong technology for
+a serious problem. 
 
 "Big pressure on Biden, Dems to trim $3.5T federal overhaul"
 
