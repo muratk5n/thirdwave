@@ -65,7 +65,7 @@ Inventor
 
 Bitcoin was invented by Satoshi Nakamoto - a mysterious programmer who
 stayed at large for a long time. Who is Satoshi? Recent investigations
-pointed to someone named Craig Wright. There was some contraversy
+pointed to someone named Craig Wright. There was some contraversy
 around this, CW could not reproduce some keys to prove he was Satoshi,
 but maybe he lost them. He came across sort of forgetful /
 mad-scientist throughout this ordeal, and one looks at Satoshi's
@@ -75,7 +75,9 @@ chances that he is the real Satoshi is becoming very slim. But if we
 follow enough threads we land on Hal Finney who was the "number two"
 in Bitcoin land whose "Running bitcoin [for the first time]" tweet is
 still around today. Finney had a next door neighbor whose name was
-Satoshi Nakamoto who was burned by the 2008 crisis.
+Satoshi Nakamoto who was burned by the 2008 crisis. The other possibility
+based on [word frequency analysis](../../2021/09/satoshi-identification.md) is
+Gavin Andressen. 
 
 Alternatives
 
@@ -85,6 +87,7 @@ cheap and fast. Coupled with the fact that Bitcoin mining is
 incredibly wasteful, it is looking like the future lies in one of the
 challenger coins which are green and fast out-of-the-box.
 
+<a name='deflation'/>
 
 Deflation
 
