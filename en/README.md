@@ -36,7 +36,7 @@ Asia, you have sex with goats while you followed a gray skunk, through
 the cracks in the mountain, around that lake, down the hill -both
 ways- to reach your present lands.. a land without people, for people
 without a land (how fitting).. And when u die u go to Valhalla.. back
-to your Nature-Spirit or whatever 🤨
+to your Nature-God or whatever 🤨
 
 "The American Revolution created the Columbus most of us over the age
 of 30 learned in grade school. Prior to the late 18th century, he was
