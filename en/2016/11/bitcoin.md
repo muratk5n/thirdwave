@@ -91,7 +91,7 @@ challenger coins which are green and fast out-of-the-box.
 
 Deflation
 
-Sadly all limited supply fiat currencies run the rish of being
+Sadly all limited supply fiat currencies run the risk of being
 deflationary (eg gold). That cld look fine to some, bcz deflation is
 "prices going down", but that is not necessarily a good thing. Let me
 share this tidbit from Prof. Werner,
