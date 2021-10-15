@@ -54,8 +54,6 @@
 
 [#dccc #badabim #badaboom](04/dccc-badabim-badabum.md)
 
-[Learning to Drive](04/learning-to-drive.md)
-
 [#petrodollar](04/petrodollar.md)
 
 [Yo Bitch](04/yo-bitch.md)
