@@ -1,6 +1,7 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-The electric grid loses 60% of the energy it carries FYI
+The electric grid [loses](https://energycentral.com/c/ec/grid-efficiency-opportunity-reduce-emissions)
+60% of the energy it carries FYI
 
 ---
 

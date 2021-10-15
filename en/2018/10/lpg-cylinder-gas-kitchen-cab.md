@@ -26,7 +26,7 @@ They pack a punch (molecules better than electrons). Ex, standard size
 years with medium to low usage.
 
 Let's verify. High-heat flame energy from an all-electric, single
-heater stove is 1500 Watts, which is 1/3 efficient compared to gas,
+heater stove is 1500 Watts, which is 1/3 efficient [1] compared to gas,
 standard LPG cylinder = 12 kg LPG, LPG is 46-51 MJ/kg, 1 MJ = 277 Watt
 hour
 
@@ -70,3 +70,7 @@ gases, fuels. Portable cylinders could appeal to low end,
 off-grid. For high end, on-grid, pipelines are still way to go... Or
 in bulk, renewables are used on generator turbines to generate
 electricity.
+
+References
+
+[1] https://home.howstuffworks.com/gas-vs-electric-stoves.htm

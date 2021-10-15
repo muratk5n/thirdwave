@@ -108,6 +108,8 @@ Single burner electric stove: 1500 Watts
 TV: 80-400 Watts
 Fridge: 100-250 watts
 
+Electric heating / stove is 33% efficient [10]
+
 HFC Cars
 
 A Nexo tank carries 210 kWh of energy. The car can travel 756 km on a
@@ -209,4 +211,7 @@ References
 
 [8] [Hydrogen Insights](https://hydrogencouncil.com/wp-content/uploads/2021/02/Hydrogen-Insights-2021-Report.pdf)
 
-[9] EIA, https://www.eia.gov/todayinenergy/detail.php?id=44436
+[9] Energy Central, https://energycentral.com/c/ec/grid-efficiency-opportunity-reduce-emissions
+
+[10] https://home.howstuffworks.com/gas-vs-electric-stoves.htm
+
