@@ -1,6 +1,6 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-"Red October" - good one (due to increased labor activity).
+"Red October" - nice (due to increased labor activity).
 
 ---
 
