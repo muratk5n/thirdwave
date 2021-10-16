@@ -27,7 +27,8 @@ progress? I remember seeing a status paper from 2009.
 ---
 
 Now we also know (from the aircraft carrier Ford stress test) 18 tons
-of TNT on the sea registered as 3.9 mag EQ. Could be useful..
+of TNT equivalent explosion on the sea registered as 3.9 mag EQ. Could
+be useful..
 
 ---
 
