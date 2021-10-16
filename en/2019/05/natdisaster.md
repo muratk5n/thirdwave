@@ -27,10 +27,10 @@ import equake, pandas as pd
 
 df = equake.get_eq_all()
 df['YM'] = df.apply(lambda x: "%d%02.0f" % (x.name.year,x.name.month), axis=1)
-g = df.groupby("YM")
+grp = df.groupby("YM").size()
 dfp = pd.DataFrame()
-dfp['monc'] = g.size()
-dfp['ma'] = g.size().rolling(window=20).mean()
+dfp['monc'] = grp
+dfp['ma'] = grp.rolling(window=20).mean()
 dfp = dfp.interpolate(method ='linear', limit_direction ='backward')
 dfp.columns = ['Monthly Eqs','MA']
 dfp.plot()
