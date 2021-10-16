@@ -38,7 +38,7 @@ progress? I remember seeing a status paper from 2009.
 New monthly equake counts, since 2013. There's been a spike recently,
 undeniable.
 
-[[-]](2019/05/netdisaster.md#equakes)
+[[-]](2019/05/natdisaster.md#equakes)
 
 ---
 
