@@ -4,16 +4,6 @@
 
 ---
 
-"One of the world’s largest trucking companies, XPO Logistics, agreed
-Tuesday to pay $30 million to settle class-action lawsuits filed by
-hundreds of drivers who said they earned less than minimum wage
-delivering goods for major retailers from the ports of Los Angeles and
-Long Beach"
-
-[[-]](https://www.latimes.com/business/story/2021-10-13/la-fi-port-trucker-xpo-settlements)
-
----
-
 Good to see some action on this front.. 
 
 DOJ: "Former Boeing 737 MAX Chief Technical Pilot Indicted for Fraud"
@@ -61,6 +51,16 @@ This guy is actually stupider than Peter Thiel his Paypal pal
 🤣 🤣 🤣 
 
 [Forbes](https://www.forbes.com/sites/joewalsh/2021/03/13/elon-musks-false-covid-predictions-a-timeline/)
+
+---
+
+"One of the world’s largest trucking companies, XPO Logistics, agreed
+Tuesday to pay $30 million to settle class-action lawsuits filed by
+hundreds of drivers who said they earned less than minimum wage
+delivering goods for major retailers from the ports of Los Angeles and
+Long Beach"
+
+[[-]](https://www.latimes.com/business/story/2021-10-13/la-fi-port-trucker-xpo-settlements)
 
 ---
 
