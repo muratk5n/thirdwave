@@ -26,7 +26,7 @@ are not 100% there, nuke can fill the gap.
 
 ---
 
-This CCS partnership was started much earlier isn't it? But not much
+This CCS partnership started much earlier isn't it? And not much
 progress? I remember seeing a status paper from 2009.
 
 "EU-funded CO2-capture in China to miss 2020 deadline"
