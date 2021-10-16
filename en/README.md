@@ -11,9 +11,9 @@ DOJ: "Former Boeing 737 MAX Chief Technical Pilot Indicted for Fraud"
 ---
 
 France nuke move makes sense for them.. H2 can be the clean, optimal
-carrier, but is not a energy source itself. If clean renewable sources
-are not 100% there, and country wants to be self-sufficient, nuke can
-fill the gap. Not crazy abt it but.. it is what it is
+carrier, but it has to be created somehow. If clean renewable
+generation isn't there 100%, and country wants to be self-sufficient,
+nuke can fill the gap. Not crazy abt it but.. it is what it is
 
 ---
 
