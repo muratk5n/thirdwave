@@ -44,8 +44,8 @@ Its biggest problem is [deflation](2016/11/bitcoin.md#deflation)
 
 ---
 
-That kind of ech CEO'ing isn't that hard.. Just try bunch of stuff
-constantly, take research, money, ppl from government.
+Tech CEO'ing isn't that hard.. Just try bunch of stuff constantly,
+take research, money, ppl from government.
 
 ---
 
