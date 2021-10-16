@@ -1,77 +1,65 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-"[AU] Universities united on strengthening free speech
-policies.. Policies protecting free speech at universities are more
-robust across all Australian institutions than two years ago, says the
-federal government. The post Universities united on strengthening free
-speech policies"
+"Red October" - good one (due to increased labor activity).
 
 ---
 
-The electric grid loses 60% of the energy it carries FYI
+"One of the world’s largest trucking companies, XPO Logistics, agreed
+Tuesday to pay $30 million to settle class-action lawsuits filed by
+hundreds of drivers who said they earned less than minimum wage
+delivering goods for major retailers from the ports of Los Angeles and
+Long Beach"
+
+[[-]](https://www.latimes.com/business/story/2021-10-13/la-fi-port-trucker-xpo-settlements)
 
 ---
 
-Electrification falls short at nearly everything.. it cannot form the
-basis of a green infrastructure.
+Good to see some action on this front.. 
 
-"Green fuel based solutions can help for cases where electrification
-falls short, such as steel making, aviation etc"
+DOJ: "Former Boeing 737 MAX Chief Technical Pilot Indicted for Fraud"
 
 ---
 
-Most in the developed world discount the heating issue; for many it is
-'just there'; it works, out sight out of mind. But this is the \#1
-pollutant in all consumption for the world. Heating is deadly
-serious. 
+France nuke move makes sense for them.. H2 can be the clean, optimal
+carrier, but is not a energy source itself. If clean renewable sources
+are not 100% there, nuke can fill the gap.
 
 ---
 
-Guy actually asked a good question.. Life does hover near to absolute
-zero.. That's why heating is key for us, we are constantly hovering
-above AZ and trying not to fall under it.
+This CCS partnership was started much earlier isn't it? But not much
+progress? I remember seeing a status paper from 2009.
 
-"Why is life so close to absolute zero?" (Doctor Asks Physics Questions)
+"EU-funded CO2-capture in China to miss 2020 deadline"
 
-[[-]](https://youtu.be/bIT8_lS4vRY?t=1153)
-
----
-
-'merica has some delusions of its own..
-
-Still this is better than claiming you came from Atlantis, or Central
-Asia, you have sex with goats while you followed a gray skunk, through
-the cracks in the mountain, around that lake, down the hill -both
-ways- to reach your present lands.. a land without people, for people
-without a land (how fitting).. And when u die u go to Valhalla.. back
-to your Nature-God or whatever 🤨
-
-"The American Revolution created the Columbus most of us over the age
-of 30 learned in grade school. Prior to the late 18th century, he was
-a historical footnote with no connection to the 13 colonies. An
-Italian, he sailed under a Spanish flag and landed in no part of the
-modern-day mainland United States. Yet when the need to develop a
-national history with no discernible connection to Britain arose
-during the Revolution, early Americans seized upon him"
-
-[[-]](https://www.thenation.com/article/archive/the-invention-of-christopher-columbus-american-hero/)
+[[-]](https://euobserver.com/eu-china/144579)
 
 ---
 
-Trimming the electrification stuff wld be great.. Wrong technology in an
-era when deep structural problems need solutions
+New monthly equake counts, since 2013. There's been a spike recently,
+undeniable.
 
-"Big pressure on Biden, Dems to trim $3.5T federal overhaul"
-
----
-
-Not making fun of the man, he calls himself "The Shat"
+[[-]](2019/05/netdisaster.md#equakes)
 
 ---
 
-I recognize that flame color anywhere \#LH2 \#BlueOrigin \#TheShat
+Its biggest problem is [deflation](2016/11/bitcoin.md#deflation)
 
-[[-]](https://pbs.twimg.com/media/FBp12jKX0Aw7bY8?format=jpg&name=small)
+"Why is Bitcoin not suitable as a currency?"
+
+---
+
+That kind of ech CEO'ing isn't that hard.. Just try bunch of stuff
+constantly, take research, money, ppl from government.
+
+---
+
+This guy is actually stupider than Peter Thiel his Paypal pal
+
+---
+
+🤣 🤣 🤣 
+
+[Forbes](https://www.forbes.com/sites/joewalsh/2021/03/13/elon-musks-false-covid-predictions-a-timeline/)
 
 ---
 
