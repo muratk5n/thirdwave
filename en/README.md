@@ -22,8 +22,8 @@ Project Strongbow, for the Royal Canadian Navy"
 
 The presence of such massive supply at the consumer's doorstep can
 spur development of more end-use products; eg carmakers they will
-speed up FCEV production, we can see more products around portable
-canisters, etc. Supply is key. Aplenty will attract aplenty.
+speed up FCEV production, we'll probably see more products around
+portable canisters, etc. Supply is key. Aplenty will attract aplenty.
 
 ---
 
