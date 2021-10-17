@@ -1,72 +1,81 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-"Red October" - nice (due to increased labor activity).
+
+NYT: "[Senator Manchin], the Democrat from coal-rich West Virginia
+whose vote is crucial to passage of the bill, has told the White House
+that he strongly opposes the clean electricity program... As a result,
+White House staffers are now rewriting the legislation without that
+climate provision, and are trying to cobble together a mix of other
+policies that could also cut emissions"
 
 ---
 
-Good to see some action on this front.. 
+Sweet
 
-DOJ: "Former Boeing 737 MAX Chief Technical Pilot Indicted for Fraud"
-
----
-
-France nuke move makes sense for them.. H2 can be the clean, optimal
-carrier, but it has to be created somehow. If clean renewable
-generation isn't there 100%, and country wants to be self-sufficient,
-nuke can fill the gap. Not crazy abt it but.. it is what it is
+F24: "Three German parties reach preliminary deal to form next govt"
 
 ---
 
-This CCS partnership started much earlier right? And not much
-progress? I remember seeing a status paper from 2009.
+"@SofiaHCBBG
 
-"EU-funded CO2-capture in China to miss 2020 deadline"
+This is contagion. China developers in October: 
 
-[[-]](https://euobserver.com/eu-china/144579)
-
----
-
-Now we also know (from the aircraft carrier Ford stress test) 18 tons
-of TNT equivalent explosion on the sea registered as 3.9 mag EQ. Could
-be useful..
+* Fantasia: Oct. 4 default. Two directors resign 
+* Evergrande: Oct. 11 coupon not received 
+* Xinyuan: will pay just 5% of Oct. 15 note 
+* Sinic: Won't pay principal/interest due Oct. 18 
+* Modern Land: asks for 3-month extension"
 
 ---
 
-New monthly equake counts, since 2013. There's been a spike recently,
-undeniable.
 
-[[-]](2019/05/natdisaster.md#equakes)
-
----
-
-Its biggest problem is [deflation](2016/11/bitcoin.md#deflation)
-
-"Why is Bitcoin not suitable as a currency?"
+Most of those ew-money-printing-bad-so-bad-poop-fiat-hyperflation
+crowd u see in "certain media" are serving the interests of an
+anti-dollar lobby, not-leading powers jealous their currency is not
+the main one. Printing per-se isn't bad, the issue is who you print it
+*for*. There is always printing. Plus developed countries aren't
+foolish enough to end up like bleeping Venezuella. So if there is
+inflation, we can suspect wage increases, or supply issues, or both.
 
 ---
 
-Tech CEO'ing isn't that hard.. Just try bunch of stuff constantly,
-take research, money, ppl from government.
+It happens to be one of the core tenets of econ dude.. time to hit the books?
+
+Cld also be supply issues of course
+
+"You said wage rises causes inflation.. I dont understand"
 
 ---
 
-This guy is actually stupider than Peter Thiel his Paypal pal
+Heating through molecules: gas is 80%-90%, electrolysis is 80%,
+gas transmission 97%,
+
+```python
+0.8 * 0.97 * 0.8
+```
+
+```text
+Out[1]: 0.6208
+```
+
+62% overall. Add the fact that you can [transmit](2019/03/wirespipes.md)
+ten times faster at eighth the cost... There isn't even a comparison here. 
 
 ---
 
-🤣 🤣 🤣 
+Imagine a heating scenario w electricity used at all levels; after
+producing, grid loses 60%, heating is [30%](https://home.howstuffworks.com/gas-vs-electric-stoves.htm)
+efficient,
 
-[Forbes](https://www.forbes.com/sites/joewalsh/2021/03/13/elon-musks-false-covid-predictions-a-timeline/)
+```python
+0.40*0.3
+```
 
----
+```text
+Out[1]: 0.12
+```
 
-"One of the world’s largest trucking companies, XPO Logistics, agreed
-Tuesday to pay $30 million to settle class-action lawsuits filed by
-hundreds of drivers who said they earned less than minimum wage
-delivering goods for major retailers from the ports of Los Angeles and
-Long Beach"
-
-[[-]](https://www.latimes.com/business/story/2021-10-13/la-fi-port-trucker-xpo-settlements)
+A mere 12% is left
 
 ---
 

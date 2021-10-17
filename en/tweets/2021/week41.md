@@ -1,5 +1,75 @@
 # Week 41
 
+"Red October" - nice (due to increased labor activity).
+
+---
+
+Good to see some action on this front.. 
+
+DOJ: "Former Boeing 737 MAX Chief Technical Pilot Indicted for Fraud"
+
+---
+
+France nuke move makes sense for them.. H2 can be the clean, optimal
+carrier, but it has to be created somehow. If clean renewable
+generation isn't there 100%, and country wants to be self-sufficient,
+nuke can fill the gap. Not crazy abt it but.. it is what it is
+
+---
+
+This CCS partnership started much earlier right? And not much
+progress? I remember seeing a status paper from 2009.
+
+"EU-funded CO2-capture in China to miss 2020 deadline"
+
+[[-]](https://euobserver.com/eu-china/144579)
+
+---
+
+Now we also know (from the aircraft carrier Ford stress test) 18 tons
+of TNT equivalent explosion on the sea registered as 3.9 mag EQ. Could
+be useful..
+
+---
+
+New monthly equake counts, since 2013. There's been a spike recently,
+undeniable.
+
+[[-]](2019/05/natdisaster.md#equakes)
+
+---
+
+Its biggest problem is [deflation](2016/11/bitcoin.md#deflation)
+
+"Why is Bitcoin not suitable as a currency?"
+
+---
+
+Tech CEO'ing isn't that hard.. Just try bunch of stuff constantly,
+take research, money, ppl from government.
+
+---
+
+This guy is actually stupider than Peter Thiel his Paypal pal
+
+---
+
+🤣 🤣 🤣 
+
+[Forbes](https://www.forbes.com/sites/joewalsh/2021/03/13/elon-musks-false-covid-predictions-a-timeline/)
+
+---
+
+"One of the world’s largest trucking companies, XPO Logistics, agreed
+Tuesday to pay $30 million to settle class-action lawsuits filed by
+hundreds of drivers who said they earned less than minimum wage
+delivering goods for major retailers from the ports of Los Angeles and
+Long Beach"
+
+[[-]](https://www.latimes.com/business/story/2021-10-13/la-fi-port-trucker-xpo-settlements)
+
+---
+
 "[AU] Universities united on strengthening free speech
 policies.. Policies protecting free speech at universities are more
 robust across all Australian institutions than two years ago, says the
