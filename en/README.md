@@ -20,11 +20,11 @@ Project Strongbow, for the Royal Canadian"
 
 ---
 
-H2 transition can be in stages; if most do not have CHP, gas heating
-units, gov can encourage production, and distribution of H2 to cities,
-then as a first step it is converted to electricity at a local hub,
-the last mile remains the same. Then as people convert their units,
-they can get the gas directly from their city.
+H2 transition can be in stages; Gov encourages production, and
+distribution of H2 to cities. If most do not have CHP, gas heating
+units, then as a first step it is converted to electricity at a local
+hub, the last mile remains the same. Then as people convert their
+units, they can get the gas directly from their city.
 
 ---
 
