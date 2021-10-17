@@ -4,7 +4,9 @@ F24: "Three German parties reach preliminary deal to form next govt"
 
 ---
 
-:) Just teasing the Canadians.. Good people.. 
+:) Just teasing the Canadians.. Good people.. The Shat is Canadian, most
+do not know. D. Sutherland, Leslie Nielsen, Jim Carrey, lota actors.
+I guess US is already invaded.
 
 ---
 
