@@ -47,35 +47,27 @@ Cld also be supply issues of course
 
 ---
 
-Heating through molecules: gas is 80%-90%, electrolysis is 80%,
-gas transmission 97%,
-
-```python
-0.8 * 0.97 * 0.8
-```
-
-```text
-Out[1]: 0.6208
-```
-
-62% overall. Add the fact that you can [transmit](2019/03/wirespipes.md)
-ten times faster at eighth the cost... There isn't even a comparison here. 
+:) Just teasing the Canadians.. They r good people.. 
 
 ---
 
-Imagine a heating scenario w electricity used at all levels; after
-producing, grid loses 60%, heating is [30%](https://home.howstuffworks.com/gas-vs-electric-stoves.htm)
-efficient,
+A US invasion is nigh
 
-```python
-0.40*0.3
-```
+---
 
-```text
-Out[1]: 0.12
-```
+😶
 
-A mere 12% is left
+"Canada is investing in an improved communications intelligence
+(COMINT) and signals intelligence (SIGINT) capability, known as
+Project Strongbow, for the Royal Canadian"
+
+---
+
+"US warns of 'other options' on Iran's nuclear program if diplomacy fails"
+
+---
+
+Tyson Fury was named after Mike Tyson? Nice
 
 ---
 
