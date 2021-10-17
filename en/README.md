@@ -26,8 +26,8 @@ units, then as a first step it is converted to electricity at a local
 hub, the last mile remains the same. Then as people convert their
 units, they can get the gas directly from their city. Seeing such
 massive supply at the consumer's doorstep, all kinds of end-use
-products are encouraged, carmakers for example, for more production of
-FCEVs. 
+products are encouraged, carmakers for example, they will speed up
+FCEV production.
 
 ---
 
