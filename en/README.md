@@ -10,7 +10,7 @@ I guess US is already invaded.
 
 ---
 
-A US invasion is nigh
+Operation US invasion is nigh
 
 ---
 
