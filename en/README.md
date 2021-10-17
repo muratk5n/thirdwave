@@ -63,7 +63,7 @@ inflation, we can suspect wage increases, or supply issues, or both.
 
 ---
 
-It happens to be one of the core tenets of econ dude.. time to hit the books?
+It happens to be one of the core tenets of econ.. time to hit the books?
 
 Cld also be supply issues of course
 
