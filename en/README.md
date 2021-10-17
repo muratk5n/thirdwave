@@ -27,11 +27,12 @@ canisters, etc. Supply is key. Aplenty will attract plenty.
 
 ---
 
-H2 transition can be in stages; Gov encourages production, and
-distribution of H2 to cities. If most do not have CHP, gas heating
-units, then as a first step it is converted to electricity at a local
-hub, the last mile remains the same. Then as people convert their
-units at home, they can get the gas directly from city pipeline.
+H2 transition can be in stages; Gov can first encourage production,
+and distribution of H2 to cities via pipelines. If most do not have
+CHP, gas heating units, then as a first step it is converted to
+electricity at a local hub, the last mile remains the same. Then as
+people convert their units at home, they can get the gas directly from
+city pipeline.
 
 ---
 
