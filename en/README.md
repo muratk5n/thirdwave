@@ -1,18 +1,32 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-
-NYT: "[Senator Manchin], the Democrat from coal-rich West Virginia
-whose vote is crucial to passage of the bill, has told the White House
-that he strongly opposes the clean electricity program... As a result,
-White House staffers are now rewriting the legislation without that
-climate provision, and are trying to cobble together a mix of other
-policies that could also cut emissions"
-
----
-
 Sweet
 
 F24: "Three German parties reach preliminary deal to form next govt"
+
+---
+
+:) Just teasing the Canadians.. They r good people.. 
+
+---
+
+A US invasion is nigh
+
+---
+
+😶
+
+"Canada is investing in an improved communications intelligence
+(COMINT) and signals intelligence (SIGINT) capability, known as
+Project Strongbow, for the Royal Canadian"
+
+---
+
+"US warns of 'other options' on Iran's nuclear program if diplomacy fails"
+
+---
+
+Tyson Fury was named after Mike Tyson? Nice
 
 ---
 
@@ -47,27 +61,12 @@ Cld also be supply issues of course
 
 ---
 
-:) Just teasing the Canadians.. They r good people.. 
-
----
-
-A US invasion is nigh
-
----
-
-😶
-
-"Canada is investing in an improved communications intelligence
-(COMINT) and signals intelligence (SIGINT) capability, known as
-Project Strongbow, for the Royal Canadian"
-
----
-
-"US warns of 'other options' on Iran's nuclear program if diplomacy fails"
-
----
-
-Tyson Fury was named after Mike Tyson? Nice
+NYT: "[Senator Manchin], the Democrat from coal-rich West Virginia
+whose vote is crucial to passage of the bill, has told the White House
+that he strongly opposes the clean electricity program... As a result,
+White House staffers are now rewriting the legislation without that
+climate provision, and are trying to cobble together a mix of other
+policies that could also cut emissions"
 
 ---
 
