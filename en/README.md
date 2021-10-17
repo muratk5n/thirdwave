@@ -24,7 +24,9 @@ H2 transition can be in stages; Gov encourages production, and
 distribution of H2 to cities. If most do not have CHP, gas heating
 units, then as a first step it is converted to electricity at a local
 hub, the last mile remains the same. Then as people convert their
-units, they can get the gas directly from their city.
+units, they can get the gas directly from their city. Carmakers will
+be encouraged seeing the supply, and will speed up production of
+their FCEV vehicles.
 
 ---
 
