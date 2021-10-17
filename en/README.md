@@ -1,12 +1,10 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-Sweet
-
 F24: "Three German parties reach preliminary deal to form next govt"
 
 ---
 
-:) Just teasing the Canadians.. They r good people.. 
+:) Just teasing the Canadians.. Good people.. 
 
 ---
 
