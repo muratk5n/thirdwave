@@ -14,8 +14,6 @@ A US invasion is nigh
 
 ---
 
-😶
-
 "Canada is investing in an improved communications intelligence
 (COMINT) and signals intelligence (SIGINT) capability, known as
 Project Strongbow, for the Royal Canadian"
