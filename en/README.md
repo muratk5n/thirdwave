@@ -48,7 +48,7 @@ crowd u see in "certain media" are serving the interests of an
 anti-dollar lobby, not-leading powers jealous their currency is not
 the main one. Printing per-se isn't bad, the issue is who you print it
 *for*. There is always printing. Plus developed countries aren't
-foolish enough to end up like bleeping Venezuella. So if there is
+foolish enough to end up like bleeping Venezuella. Then if there is
 inflation, we can suspect wage increases, or supply issues, or both.
 
 ---
