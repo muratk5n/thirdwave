@@ -1,39 +1,11 @@
 # H2 Stats, Data
 
-<a name='lithium'/>
 
-Lithium
-
-There is >60kg of lithium carbonate in a 70kWh battery. 400 liters of
-water is used per kilo of lithium [7]. Water is a problem bcz while
-lithium rich water is pumped, potable water resources also shift.
-
-The entire world reserve for lithium is estimated to be ~17 million
-tonnes.
-
-According to [EIA](https://en.wikipedia.org/wiki/World_energy_consumption),
-estimated world energy consumption was 157,481 Terrawatt Hours in 2013.
-If we were to store today's energy consumption one day in batteries,
-
-```python
-consumed_one_day = (157481. / (365)) * 1e9 # Kwh
-reserves = 17.0 # mtones
-req = ((consumed_one_day / 70.0) * 60.0) / 1e9
-print ("%d mil. tons" % req)
-print ("%0.2f percent of available reserves" % ((reserves / req)*100.0) )
-```
-
-```text
-369 mil. tons
-4.60 percent of available reserves
-```
-
-.. it would require over 20 times the amount of available lithium in
-the world.
-
-Driving
+H2 pipelines can carry 7 GW for 36 inch and 13 GW for 48-inch pipelines.
 
 <a name='driving'/>
+
+Driving
 
 UK drove 303.7 billion miles in 2013. Take miles driven in one day and
 assume energy it is stored in bats, with range 250 miles per 75 kwh
@@ -151,6 +123,37 @@ Ammonia
 or wind. "Crackers" that generate H2 from ammonia are about 76%
 efficient [6].
 
+<a name='lithium'/>
+
+Lithium
+
+There is >60kg of lithium carbonate in a 70kWh battery. 400 liters of
+water is used per kilo of lithium [7]. Water is a problem bcz while
+lithium rich water is pumped, potable water resources also shift.
+
+The entire world reserve for lithium is estimated to be ~17 million
+tonnes.
+
+According to [EIA](https://en.wikipedia.org/wiki/World_energy_consumption),
+estimated world energy consumption was 157,481 Terrawatt Hours in 2013.
+If we were to store today's energy consumption one day in batteries,
+
+```python
+consumed_one_day = (157481. / (365)) * 1e9 # Kwh
+reserves = 17.0 # mtones
+req = ((consumed_one_day / 70.0) * 60.0) / 1e9
+print ("%d mil. tons" % req)
+print ("%0.2f percent of available reserves" % ((reserves / req)*100.0) )
+```
+
+```text
+369 mil. tons
+4.60 percent of available reserves
+```
+
+.. it would require over 20 times the amount of available lithium in
+the world.
+
 Desalination
 
 Energy consumption [2] of seawater desalination has reached as low as 4 kWh/$m^3$,
@@ -215,3 +218,4 @@ References
 
 [10] https://home.howstuffworks.com/gas-vs-electric-stoves.htm
 
+[11] https://gasforclimate2050.eu/wp-content/uploads/2020/07/2020_European-Hydrogen-Backbone_Report.pdf
