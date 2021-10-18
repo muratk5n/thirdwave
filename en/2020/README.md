@@ -24,6 +24,8 @@
 
 [Agriculture, Slavery](07/agro-slavery.md)
 
+[AI](07/ai.md)
+
 [Ancient](07/ancient.md)
 
 [Austerity](07/austerity.md)
