@@ -7,8 +7,8 @@ H2 pipelines can carry 7 GW for 36 inch and 13 GW for 48-inch pipelines.
 Driving
 
 UK drove 303.7 billion miles in 2013. Take miles driven in one day and
-assume energy it is stored in bats, with range 250 miles per 75 kwh
-bat, project it to world population,
+assume energy it is stored in batteries, with range 250 miles per 75
+kwh bat, project it to world population,
 
 ```python
 uk_world_ratio = 113
@@ -116,10 +116,19 @@ electrolysis) have an effective electrical efficiency of 70–80%,
 producing 1 kg of hydrogen requires 50–55 kW⋅h of electricity
 [1]. 
 
-Ammonia
+Storage in Ammonia
 
 Green ammonia production efficiency is over 74% [12]. "Crackers" that
 generate H2 from ammonia are about 76% efficient [6]. 
+
+Storage in Pipelines
+
+H2 pipelines can transmit energy efficiencly. But even when we are not
+pumping in new H2, the pipes themselves would still have gas in them,
+so they can be considered a form of storage. The capacity of the
+German natural gas network is more than 200,000 GWh, which meets the
+requirements for several months. In comparison, the capacity of all
+the German pumped storage power plants only amounts to about 40 GWh [13].
 
 <a name='lithium'/>
 
@@ -219,3 +228,7 @@ References
 [11] https://gasforclimate2050.eu/wp-content/uploads/2020/07/2020_European-Hydrogen-Backbone_Report.pdf
 
 [12] https://www.sciencedirect.com/science/article/abs/pii/S0306261919318227
+
+[13] https://www.researchgate.net/publication/301254520_Underground_and_pipeline_hydrogen_storage
+
+3

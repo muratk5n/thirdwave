@@ -14,7 +14,7 @@ too..
 
 ---
 
-These news cld interpreted it either way. If RU ever wanted to turn on
+These news cld be interpreted it either way. If RU ever wanted to turn on
 CH, they now gained valuable intelligence about them, learned their
 weapons, sub tactics.
 
