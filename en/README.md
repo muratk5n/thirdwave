@@ -1,9 +1,16 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
+Malt is good.. I started seeing power bars with it, some exclusively
+marketed to contain malt. There is dark malt powder for bread makers.
+It cld go well in protein shakes too Im guessing.
+
+AP News: "Malt Makes a Comeback, Packing Powerful Nutritional Benefits"
+
+---
 
 Beans alone do not supply the 9 essential aminos, but rice and beans
 do (no wonder the combo is a staple in some cuisines). Rice and peas
-work also.
+too..
 
 ---
 
