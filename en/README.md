@@ -14,11 +14,6 @@ too..
 
 ---
 
-And chances are they *will* turn on your fortune-cookie-ass
-dim-sum. Dont do anything foolish.
-
----
-
 These news cld interpreted it either way. If RU ever wanted to turn on
 CH, they now gained valuable intelligence about them, learned their
 weapons, sub tactics.
