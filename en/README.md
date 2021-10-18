@@ -27,7 +27,7 @@ weapons, sub tactics.
 A regular 48-inch hydrogen pipeline [can carry](https://gasforclimate2050.eu/wp-content/uploads/2020/07/2020_European-Hydrogen-Backbone_Report.pdf)
 13 Gigawatts. Little back-of-the envolope calculation; One person in the
 developed world consumes 10 KW, this means a *single* H2 pipeline
-can supply energy to 1.3 million people 😶
+can supply energy to 1.3 million people. 
 
 That is a city the size of Ottowa, Zurich, or Belgrade.
 
