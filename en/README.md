@@ -1,81 +1,50 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-F24: "Three German parties reach preliminary deal to form next govt"
+
+Beans alone do not supply the 9 essential aminos, but rice and beans
+do (no wonder the combo is a staple in some cuisines). Rice and peas
+work also.
 
 ---
 
-Just teasing the Canadians.. Good people.. The Shat is Canadian, most
-don't know.. D. Sutherland, Leslie Nielsen, Jim Carrey, lota actors.
-I guess US is already invaded by Canadians.
+And chances are they *will* turn on your fortune-cookie-ass
+dim-sum. Dont do anything foolish.
 
 ---
 
-Operation US Invasion is nigh
+These news cld interpreted it either way. If RU ever wanted to turn on
+CH, they now gained valuable intelligence about them, learned their
+weapons, sub tactics.
+
+"[Oct] Chinese, Russian navies conduct co-ordinated anti-submarine drill in Sea of Japan"
+
+"[August RU/CH] drills also marked the first time Russian soldiers had used Chinese weapons"
 
 ---
 
-"Canada is investing in an improved communications intelligence
-(COMINT) and signals intelligence (SIGINT) capability, known as
-Project Strongbow, for the Royal Canadian Navy"
+A regular 48-inch hydrogen pipeline [can carry](https://gasforclimate2050.eu/wp-content/uploads/2020/07/2020_European-Hydrogen-Backbone_Report.pdf)
+13 Gigawatts. Little back-of-the envolope calculation; One person in the
+developed world consumes 10 KW, this means a *single* H2 pipeline
+can supply energy to 1.3 million people 😶
+
+That is a city the size of Ottowa, Zurich, or Belgrade.
+
+We are talking about serious capacity here.
 
 ---
 
-The presence of such massive supply at the consumer's doorstep can
-spur development of more end-use products; eg carmakers they will
-speed up FCEV production, we'll probably see more products around
-portable canisters, etc. Supply is key. Aplenty will attract aplenty.
+One can learn abt government while in military.. It's **a** branch of
+government after all.. For example how do they handle purchasing? A
+new equipment is needed, what are the channels to get it done? You are
+given a rifle, a cantine, whatever, how is that tracked?  Maybe that
+information can help you understand the post office, or FEMA, or name
+it, any other government agency. Even as a grunt, we might dismiss it
+being at the bottom of the hierarchy, but in many ways everything
+revolves around the grunt, his ass needs to be carried to and from the
+"theather of action", provided food for, resting env, the grunt will
+experience all that, first hand. I'd call that relevant experience.
 
----
-
-H2 transition can be in stages; Gov can first encourage production,
-and distribution of H2 to cities via pipelines. If homes do not have
-CHP, gas heating units, then gas is converted to electricity at a
-local hub, the last mile remains the same. Later as people convert
-their units at home, they can get the gas directly from city pipeline.
-
----
-
-Tyson Fury was named after Mike Tyson? Nice
-
----
-
-"@SofiaHCBBG
-
-This is contagion. China developers in October: 
-
-* Fantasia: Oct. 4 default. Two directors resign 
-* Evergrande: Oct. 11 coupon not received 
-* Xinyuan: will pay just 5% of Oct. 15 note 
-* Sinic: Won't pay principal/interest due Oct. 18 
-* Modern Land: asks for 3-month extension"
-
----
-
-
-Most of those ew-money-printing-bad-so-bad-poop-fiat-gold-gold-gold
-crowd u see in "certain media" are serving the interests of an
-anti-dollar lobby, non-leading powers jealous their currency is not
-the main one. Printing per-se isn't bad, the issue is who you print it
-*for*. There is always printing. Plus developed countries aren't
-foolish enough to end up like bleeping Venezuella. Then if there is
-inflation, we can suspect wage increases, or supply issues, or both.
-
----
-
-It happens to be one of the core tenets of econ.. time to hit the books?
-
-Cld also be supply issues of course
-
-"You said wage rises causes inflation.. I dont understand"
-
----
-
-NYT: "[Senator Manchin], the Democrat from coal-rich West Virginia
-whose vote is crucial to passage of the bill, has told the White House
-that he strongly opposes the clean electricity program... As a result,
-White House staffers are now rewriting the legislation without that
-climate provision, and are trying to cobble together a mix of other
-policies that could also cut emissions"
+"Why do you say military service is useful experience for politicians?"
 
 ---
 

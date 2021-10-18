@@ -1,16 +1,16 @@
 import requests, time, datetime
 import numpy as np, math
 import pandas as pd
+import mygeo
 
-def get_eq(minx,maxx,miny,maxy):
-    today = datetime.datetime.now()
-    days = 120
+def get_eq(minx,maxx,miny,maxy,today = datetime.datetime.now()):    
+    days = 20
     start = today - datetime.timedelta(days=days)
 
     req = 'https://earthquake.usgs.gov/fdsnws'
     req+='/event/1/query.geojson?starttime=%s&endtime=%s'
     req+='&minlatitude=%d&maxlatitude=%d&minlongitude=%d&maxlongitude=%d'
-    req+='&minmagnitude=5.0&orderby=time&limit=300'
+    req+='&minmagnitude=3.0&orderby=time&limit=300'
     req = req % (start.isoformat(), today.isoformat(),miny,maxy,minx,maxx)
     qr = requests.get(req).json()
     res = []
@@ -53,17 +53,16 @@ def get_eq_all():
     return df
 
 def do_region():
-    import mygeo
-
-    lat,lon = -23, 135
-    D = 5000
+    today = datetime.datetime(2020, 8, 5)
+    lat,lon = 34, 35
+    D = 1000
     lat1,lon1 = mygeo.to_bearing(lat,lon,np.deg2rad(45),D)
     lat2,lon2 = mygeo.to_bearing(lat,lon,np.deg2rad(225),D)
     minx=np.min((lon1,lon2))
     maxx=np.max((lon1,lon2))
     miny=np.min((lat1,lat2))
     maxy=np.max((lat1,lat2))
-    df = get_eq(minx,maxx,miny,maxy)
+    df = get_eq(minx,maxx,miny,maxy,today)
 
     import folium
 
@@ -80,3 +79,5 @@ def do_region():
 
     m.save('equake-out.html')
 
+if __name__ == "__main__": 
+    do_region()
