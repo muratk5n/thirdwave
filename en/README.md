@@ -31,8 +31,6 @@ can supply energy to 1.3 million people.
 
 That is a city the size of Ottowa, Zurich, or Belgrade.
 
-We are talking about serious capacity here.
-
 ---
 
 One can learn abt government while in military.. It's **a** branch of
