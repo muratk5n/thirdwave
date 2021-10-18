@@ -36,7 +36,7 @@ That is a city the size of Ottowa, Zurich, or Belgrade.
 One can learn abt government while in military.. It's **a** branch of
 government after all.. For example how do they handle purchasing? A
 new equipment is needed, what are the channels to get it done? You are
-given a rifle, a cantine, whatever, how is that tracked?  Maybe that
+given a rifle, a canteen, whatever, how is that tracked?  Maybe that
 information can help you understand the post office, or FEMA, or name
 it, any other government agency. Even as a grunt, we might dismiss it
 being at the bottom of the hierarchy, but in many ways everything
