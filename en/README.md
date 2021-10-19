@@ -1,18 +1,18 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-TDB: "The net worth of American billionaires continues to skyrocket,
-putting their collective wealth at more than $5 trillion, according to
-a new study"
-
-[[-]](https://trib.al/gGQfw20)
-
----
-
 Politico: "Republican governors crusading against vaccine mandates are
 facing significantly lower approval ratings on their handling of the
 coronavirus pandemic than their counterparts"
 
 [[-]](https://www.politico.com/news/2021/10/17/governors-covid-vaccine-mandates-approval-516112)
+
+---
+
+TDB: "The net worth of American billionaires continues to skyrocket,
+putting their collective wealth at more than $5 trillion, according to
+a new study"
+
+[[-]](https://trib.al/gGQfw20)
 
 ---
 
