@@ -93,7 +93,7 @@ them. Same is true for natgas.
 
 They're gonna try and epstein [Donziger], fuck"
 
-[[-]](https://twitter.com/Faackshunter/status/1450266152425250819)
+[[Latest]](https://twitter.com/Faackshunter/status/1450266152425250819)
 
 ---
 
