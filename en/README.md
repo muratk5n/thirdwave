@@ -29,10 +29,10 @@ Cell Powered Master Van H2-Tech"
 
 ---
 
-Holywood is obsessed with this character.. There is an unending stream
-of movies made abt it.. They couldn't even wait for the dust settle on
-the last actor (B. Affl), they immediately served a new actor (the
-vampire guy).
+Holywood is obsessed with Batman.. There is an unending stream of
+movies made abt the character.. They couldn't even wait for the dust
+settle on the last actor (B. Affl), they immediately served a new
+actor (the vampire guy).
 
 I suspect propaganda. B. Wayne is rich (BAff version even said as much
 in one movie when asked about his powers, answering with "I'm
