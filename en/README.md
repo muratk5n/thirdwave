@@ -8,11 +8,9 @@ coronavirus pandemic than their counterparts"
 
 ---
 
-TDB: "The net worth of American billionaires continues to skyrocket,
-putting their collective wealth at more than $5 trillion, according to
-a new study"
-
-[[-]](https://trib.al/gGQfw20)
+The Daily Beast: "The net worth of American billionaires continues to
+skyrocket, putting their collective wealth at more than $5 trillion,
+according to a new study"
 
 ---
 
