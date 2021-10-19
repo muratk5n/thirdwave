@@ -65,8 +65,8 @@ But there is more...
 
 What if the data cannot even contain the traces of a function in some
 cases? See [article](http://deepdriving.cs.princeton.edu/paper.pdf) on
-teaching machines how to drive to teach machines how to drive using
-pure vision was supplying it data on controls (steering, break,
+teaching machines how to drive. In order to teach machines how to drive using
+pure vision, the system was fed data on controls (steering, break,
 acceleration) and images of the outside world, in pairs. Feed it
 gazillions of such data, the program will learn the relation between
 them and learn how to drive. The article makes the case that might not
