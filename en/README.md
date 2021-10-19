@@ -89,12 +89,11 @@ them. Same is true for natgas.
 
 ---
 
-"@ryangrim
+"@Faackshunter
 
-Absolutely incredible. This judge wants Donziger dead. The DoJ needs
-to step in here"
+They're gonna try and epstein [Donziger], fuck"
 
-[[-]](https://twitter.com/ryangrim/status/1450250924908322817)
+[[-]](https://twitter.com/Faackshunter/status/1450266152425250819)
 
 ---
 
