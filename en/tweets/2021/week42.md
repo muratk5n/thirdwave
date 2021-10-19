@@ -79,3 +79,51 @@ policies that could also cut emissions"
 
 ---
 
+Malt is good.. I started seeing power bars with it, some exclusively
+marketed to contain malt. There is dark malt powder for bread makers.
+It cld go well in protein shakes too Im guessing.
+
+AP News: "Malt Makes a Comeback, Packing Powerful Nutritional Benefits"
+
+---
+
+Beans alone do not supply the 9 essential aminos, but rice and beans
+do (no wonder the combo is a staple in some cuisines). Rice and peas
+too..
+
+---
+
+These news cld be interpreted it either way. If RU ever wanted to turn on
+CH, they now gained valuable intelligence about them, learned their
+weapons, sub tactics.
+
+"[Oct] Chinese, Russian navies conduct co-ordinated anti-submarine drill in Sea of Japan"
+
+"[August RU/CH] drills also marked the first time Russian soldiers had used Chinese weapons"
+
+---
+
+A regular 48-inch hydrogen pipeline [can carry](https://gasforclimate2050.eu/wp-content/uploads/2020/07/2020_European-Hydrogen-Backbone_Report.pdf)
+13 Gigawatts. Little back-of-the envolope calculation; One person in the
+developed world consumes 10 KW, this means a *single* H2 pipeline
+can supply energy to 1.3 million people. 
+
+That is a city the size of Ottowa, Zurich, or Belgrade.
+
+---
+
+One can learn abt government while in military.. It's **a** branch of
+government after all.. For example how do they handle purchasing? A
+new equipment is needed, what are the channels to get it done? You are
+given a rifle, a canteen, whatever, how is that tracked?  Maybe that
+information can help you understand the post office, or FEMA, or name
+it, any other government agency. Even as a grunt, we might dismiss it
+being at the bottom of the hierarchy, but in many ways everything
+revolves around the grunt, his ass needs to be carried to and from the
+"theather of action", provided food for, resting env, the grunt will
+experience all that, first hand. I'd call that relevant experience.
+
+"Why do you say military service is useful experience for politicians?"
+
+---
+
