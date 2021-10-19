@@ -1,7 +1,5 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-
-
 TDB: "The net worth of American billionaires continues to skyrocket,
 putting their collective wealth at more than $5 trillion, according to
 a new study"
@@ -45,6 +43,14 @@ problems for you.
 ---
 
 Umpteenth Batman movie?
+
+---
+
+Yeaa but water isn't compressing there, really.. molecules are just
+sort of moving out of the way to let the fork through, that is what's
+going on
+
+"But I can put a fork in water! Easy!"
 
 ---
 
