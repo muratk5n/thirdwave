@@ -48,7 +48,7 @@ Umpteenth Batman movie?
 
 ---
 
-It's true. Wood, which is solid, can be compressed to smaller
+It's true. A tree trunk, which is solid, can be compressed to smaller
 size. But water cannot. It is counter-intuitive at first, but actually
 makes sense if one thinks about it.
 
