@@ -88,8 +88,6 @@ research, we also do not have traces of functions in most datasets we
 capture. NNs were the lowest fruit in the tree, but to get more fruit,
 different tools are required.
 
-And [here](https://www.youtube.com/watch?v=cYl6DIxvnzM) is your moment of Zen...
-
 Question
 
 In computational science (for physics), we also approximate the
