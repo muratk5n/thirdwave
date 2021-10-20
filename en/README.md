@@ -76,14 +76,6 @@ be policed. And communities of color have paid the highest price"
 
 ---
 
-"@Faackshunter
-
-They're gonna try and epstein [Donziger], fuck"
-
-[[Latest]](https://twitter.com/Faackshunter/status/1450266152425250819)
-
----
-
 ## For Members
 
 [Link](https://thirdwave-members.herokuapp.com)

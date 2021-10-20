@@ -93,6 +93,14 @@ them. Same is true for natgas.
 
 ---
 
+"@Faackshunter
+
+They're gonna try and epstein [Donziger], fuck"
+
+[[Latest]](https://twitter.com/Faackshunter/status/1450266152425250819)
+
+---
+
 F24: "Three German parties reach preliminary deal to form next govt"
 
 ---
