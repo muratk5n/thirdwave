@@ -16,7 +16,7 @@ Joint Industry Project on Hydrogen Pipelines"
 
 ---
 
-Heat pumps are better than pure-electrical (resistance) heating as
+Heat pumps are better than pure electrical (resistance) heating as
 they use some gas inside, also clean, but will still cause an uptick
 in electricity usage.. Depending on the price of electricity in a
 country that can hurt budgets. Everything about electricity, from its
