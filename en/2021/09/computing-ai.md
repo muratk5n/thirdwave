@@ -80,8 +80,8 @@ root of math is number theory / sets, a function is a mapping from one
 set to another, a one-to-one or many-to-one mapping. If image X
 results in left steering, similar image Y in right steering, there is
 no function there. 2 + 2 cannot give you 4 and 14 at the same
-time. NNs cannot approximate such data coming from such process, that
-is not a function.
+time. NNs cannot approximate data coming from such process, as they
+are not the traces of a function.
 
 So besides approximating functions being the wrong track for AI
 research, we also do not have traces of functions in most datasets we
