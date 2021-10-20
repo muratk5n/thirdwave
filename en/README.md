@@ -1,95 +1,78 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-Politico: "Republican governors crusading against vaccine mandates are
-facing significantly lower approval ratings on their handling of the
-coronavirus pandemic than their counterparts"
 
-[[-]](https://www.politico.com/news/2021/10/17/governors-covid-vaccine-mandates-approval-516112)
+"[Hy Stor] Energy Developing First-Ever U.S. Zero Carbon Green Hydrogen
+Storage Hub..  Mississippi Clean Hydrogen Hub Represents Largest Green
+Hydrogen Project of its Kind in the U.S"
 
----
-
-The Daily Beast: "The net worth of American billionaires continues to
-skyrocket, putting their collective wealth at more than $5 trillion,
-according to a new study"
+[[-]](https://bit.ly/3pcB9MJ)
 
 ---
 
-<iframe width="340" src="https://www.youtube.com/embed/SKVMPN2Biw8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+"Welspun Group Corp: First Company from India to Join the H2 Pipe
+Joint Industry Project on Hydrogen Pipelines"
+
+[[-]](http://bit.ly/3jgF1bz)
 
 ---
 
-"HYVIA Unveils its First Prototype of the @renaultgroup Hydrogen Fuel
-Cell Powered Master Van H2-Tech"
-
-[[-]](https://bit.ly/3aCgTvC)
-
----
-
-Holywood is obsessed with Batman.. There is an unending stream of
-movies made abt the character.. They couldn't even wait for the dust
-settle on the last actor (B. Affl), they immediately served a new
-actor (the vampire guy).
-
-I suspect propaganda. B. Wayne is rich (BAff version even said as much
-in one movie when asked about his powers, answering with "I'm
-rich"). BM in the comics is supposed to be an innovator himself, a
-detective, but in recent incarnations his toys, BW glamor are more
-front and center. The message is this; government is failing (in fact
-it always fails, it can't not fail), trust the billionaire to solve
-problems for you.
+Heat pumps are better than pure-electrical (resistance) heating (they
+use some gas inside), clean, but will still cause an uptick in
+electricity usage.. Depending on the price of electricity in a country
+that can hurt budgets. Everything about electricity, from its
+delivery, to its storage, is problematic. If renewable gas is piped
+into homes it can simply upgrade gas boilers to use the new gas,
+instead of natgas.
 
 ---
 
-Umpteenth Batman movie?
+NYT: "Russia's Low Vaccination Rates Leads to Record-Breaking Toll"
 
 ---
 
-Yeaa but water isn't compressing there, really.. molecules are just
-sort of moving out of the way to let the fork through, that is what's
-going on
-
-"But I can put a fork in water! Easy!"
+Reuters: "Centre-left wins Italian mayoral run-offs as right flounders"
 
 ---
 
-It's true. A tree trunk, which is solid, can be compressed to smaller
-size. But water cannot. It is counter-intuitive at first, but actually
-makes sense if one thinks about it.
+[More](2021/09/computing-ai.md#car) on the shortcomings
 
 ---
 
-That I could believe.. Anyone studying fluids wld understand. Incompressibility 
-
-"It is well known that underwater explosion cause more damage than the
-same amount of explosive detonated in the air"
-
-[[-]](https://www.sciencedirect.com/science/article/pii/S221491471830120X)
+FB has top talent; They have Yann Freaking LeCun -- One of the architect of the
+so-called "return" of the neural net approaches.
 
 ---
 
-18 tons teq in the sea caused 3.9. But 1000 tons on land caused 3.3?
+I worked in this domain.. The tools, the science is nowhere near being
+effective, undeserving of the AI moniker (they are "preliminary weak
+AI" at best), and they will not get better using the current methods
+being deployed today.
+
+"Facebook claims it uses AI to identify and remove posts containing
+hate speech and violence, but the technology doesn't really work,
+report says"
+
+[[-]](https://www.businessinsider.co.za/facebook-ai-doesnt-work-to-remove-hate-speech-and-violence-2021-10)
 
 ---
 
-Interesting.. Lebanon 2020 explosion registered as 3.3 magnitude
-earthquake, it was estimated to be 1 kilotons of TNT equivalent.
+Sounds like defunding the poh-lice
 
-<img width="240" src="https://pbs.twimg.com/media/FB7MshSXMAgA4dn?format=png&name=small"/>
+"[Berkeley] city council passed 'BerkDOT,' a first-in-the-nation
+measure to shift traffic enforcement to unarmed Department of
+Transportation workers. In the summer of 2020, cities across America
+made similar commitments: to curtail the use of force, shrink police
+budgets, and fund fleets of civilian officers. But Berkeley was the
+first to target the traffic cop. By doing so, it is rethinking police
+power at its root. Traffic stops are by far the most common reason
+that police officers initiate contact with members of the public; they
+account for 84 percent of encounters, according to data from the
+Bureau of Justice Statistics. In fact, before cars, ordinary citizens
+rarely came in contact with law enforcement. As we rebuilt cities
+around the automobile, historians contend, drivers came to expect to
+be policed. And communities of color have paid the highest price"
 
----
-
-"The capacity of the German natural gas network is more than 200,000
-GWh, which meets the requirements for several months. In comparison,
-the capacity of all the German pumped storage power plants only
-amounts to about 40 GWh"
-
-[[-]](https://www.researchgate.net/publication/301254520_Underground_and_pipeline_hydrogen_storage)
-
----
-
-The pipeline system itself can be considered as storage; Even when we
-are not pumping in new H2, the pipes themselves still have gas in
-them. Same is true for natgas.
+[[-]](https://www.theatlantic.com/ideas/archive/2021/10/end-police-violence-get-rid-traffic-cop/620378/)
 
 ---
 

@@ -70,18 +70,18 @@ pure vision, the system was fed data on controls (steering, break,
 acceleration) and images of the outside world, in pairs. Feed it
 gazillions of such data, the program will learn the relation between
 them and learn how to drive. The article makes the case that might not
-be the best way to learn. Image X is fed in, car (in the training
-data) makes right turn. A similar image Y is fed in, car makes a left
-turn. What should the machine learn in this case?
+be the best way to learn. Say image X is given, in it car makes
+right turn. A similar image Y is given, car makes a left
+turn there.. What should the machine learn in this case?
 
-The problem is there might not be a direct function between controls
-and outside images. If the root of science is math, and the root of
-math is number theory / sets, a function is a mapping from one set to
-another, a one-to-one or many-to-one mapping. If image X results in
-left steering, similar image Y in right steering, there is no function
-there. 2 + 2 cannot give you 4 and 14 at the same time (3=1 being 4 is
-okay though). NNs cannot approximate such data coming from such
-process, that is not a function.
+The problem is that there might not be a direct function between
+controls and outside images. If the root of science is math, and the
+root of math is number theory / sets, a function is a mapping from one
+set to another, a one-to-one or many-to-one mapping. If image X
+results in left steering, similar image Y in right steering, there is
+no function there. 2 + 2 cannot give you 4 and 14 at the same time
+(3=1 being 4 is okay though). NNs cannot approximate such data coming
+from such process, that is not a function.
 
 So besides approximating functions being the wrong track for AI
 research, we might not have traces of functions in most datasets we
