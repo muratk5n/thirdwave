@@ -16,10 +16,10 @@ Joint Industry Project on Hydrogen Pipelines"
 
 ---
 
-Heat pumps are better than pure-electrical (resistance) heating (they
-use some gas inside), clean, but will still cause an uptick in
-electricity usage.. Depending on the price of electricity in a country
-that can hurt budgets. Everything about electricity, from its
+Heat pumps are better than pure-electrical (resistance) heating as
+they use some gas inside, also clean, but will still cause an uptick
+in electricity usage.. Depending on the price of electricity in a
+country that can hurt budgets. Everything about electricity, from its
 delivery, to its storage, is problematic. If renewable gas is piped
 into homes it can simply upgrade gas boilers to use the new gas,
 instead of natgas.
