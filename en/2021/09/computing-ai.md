@@ -84,8 +84,8 @@ time. NNs cannot approximate such data coming from such process, that
 is not a function.
 
 So besides approximating functions being the wrong track for AI
-research, we might not have traces of functions in most datasets we
-capture.  We need to start from fundamentals.
+research, we also do not have traces of functions in most datasets we
+capture. We need to start from fundamentals.
 
 And [here](https://www.youtube.com/watch?v=cYl6DIxvnzM) is your moment of Zen...
 
