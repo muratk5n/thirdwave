@@ -69,7 +69,7 @@ teaching machines how to drive. In order to teach machines how to
 drive using pure vision, the system was fed data on controls
 (steering, break, acceleration) and images of the outside world, in
 pairs. Feed it gazillions of such data, the program will learn the
-relation between them and supposed learn how to drive. The article
+relation between them and supposed learn how to drive. But the article
 makes the case that might not be the best way to learn. Say image X is
 given, in it car makes right turn. A similar image Y is given, car
 makes a left turn there.. What should the machine learn in this case?
