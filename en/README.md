@@ -43,10 +43,10 @@ so-called "return" of the neural net approaches.
 
 ---
 
-I worked in this domain.. The tools, the science is nowhere near being
-effective, undeserving of the AI moniker (they are "preliminary weak
-AI" at best), and they will not get better using the current methods
-being deployed today.
+The tools, the science of this domain is nowhere near being effective,
+undeserving of the AI moniker (they are "preliminary weak AI" at
+best), and they will not get better using the current methods being
+deployed today.
 
 "Facebook claims it uses AI to identify and remove posts containing
 hate speech and violence, but the technology doesn't really work,
