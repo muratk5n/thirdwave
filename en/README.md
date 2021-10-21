@@ -23,7 +23,7 @@ It's open season on Facebook
 Advice to their theoreticians; feel free to ignore parts of "known
 physics" as needed. For example "theory doesn't fit with CMB". Does
 that matter?  That "background" could well be misinterpreted signals
-from f-ing New Jersey (instruments were [near there](https://youtu.be/5i6mCNgJNZs?t=348))
+from freaking Jersey shore (instruments were [near there](https://youtu.be/5i6mCNgJNZs?t=348))
 and birdshit on the antennas.
 
 Physics of the past 40 years has been a house of cards. A lot of fine
