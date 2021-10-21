@@ -26,13 +26,13 @@ that matter?  That "background" could well be misinterpreted signals
 from freaking Jersey shore (instruments were [near there](https://youtu.be/5i6mCNgJNZs?t=348))
 and birdshit on the antennas.
 
-Physics of the past 40 years has been a house of cards. A lot of fine
-base elements but put together in bizarre ways, with certain pieces
-placed, very likely, completely incorrectly (you don't end up in this
-state by overlooking one or two things). Just like there are ppl today
-who think electrification is the way for green energy, I am sure there
-are many in Phy with similar delusional ideas, all the while believing
-they are being reasonable. 
+Accomplishments of the past 40 years in phy are like a house of
+cards. A lot of fine base elements but put together in bizarre ways,
+with certain pieces placed, very likely, completely incorrectly (you
+don't end up in this state by overlooking one or two things). Just
+like there are ppl today who think electrification is the way for
+green energy, I am sure there are many in Phy with similar delusional
+ideas, all the while believing they are being reasonable.
 
 ---
 
