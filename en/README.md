@@ -1,12 +1,7 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-"@ivadixit
-
-I’m just remembering that my second year in America, someone asked me
-to 'validate their parking,' which was my first time hearing the
-phrase, and after blinking stupidly in silence for a full five seconds
-I said 'Well parking is really hard but I’m sure you did it really
-well'"
+The Guardian "‘Case closed’: 99.9% of scientists agree climate
+emergency caused by humans"
 
 ---
 
@@ -53,6 +48,16 @@ Using coffee beans ground into a fine powder, then boiled in a little
 is called different names by countries, with many laying claim on its
 invention. But that style of coffee making was first invented in Yemen; so it
 should be called Yemenese coffee.
+
+---
+
+"@ivadixit
+
+I’m just remembering that my second year in America, someone asked me
+to 'validate their parking,' which was my first time hearing the
+phrase, and after blinking stupidly in silence for a full five seconds
+I said 'Well parking is really hard but I’m sure you did it really
+well'"
 
 ---
 
