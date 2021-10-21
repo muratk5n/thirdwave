@@ -1,6 +1,6 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-The Guardian "‘Case closed’: 99.9% of scientists agree climate
+The Guardian: "‘Case closed’: 99.9% of scientists agree climate
 emergency caused by humans"
 
 ---
