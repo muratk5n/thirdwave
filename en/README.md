@@ -1,17 +1,14 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
+"NY Governor & @PlugPowerInc Announces Construction Start at Largest
+Green Hydrogen Plant in North America"
+
+[[-]](https://bit.ly/3DUehpg)
+
+---
+
 The Guardian: "‘Case closed’: 99.9% of scientists agree climate
 emergency caused by humans"
-
----
-
-[This](https://pbs.twimg.com/media/FCH7BhcXoAMcbXR?format=jpg&name=small)
-just looks so bad.. Imagine amount of copper, steel used in the
-construction. A single gas pipeline can replace all of that, *and* perform better.
-
----
-
-It's open season on Facebook
 
 ---
 
@@ -22,6 +19,12 @@ dropped the ball.
 
 "As of Tuesday morning, 82% of S&P 500 companies that have reported
 earnings beat expectations"
+
+---
+
+[This](https://pbs.twimg.com/media/FCH7BhcXoAMcbXR?format=jpg&name=small)
+just looks so bad.. Imagine amount of copper, steel used in the
+construction. A single gas pipeline can replace all of that, *and* perform better.
 
 ---
 
@@ -40,6 +43,10 @@ explained similarly perhaps?  This fluid is extremely dense (according
 to a yet unknown measure), denser further from bodies, and relative to
 that planet bodies are like air, so "bubbles", ie other bodies are
 pushed towards it, explaining the pull..? 🤔
+
+---
+
+It's open season on Facebook
 
 ---
 
