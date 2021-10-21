@@ -1,78 +1,70 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
+"@ivadixit
 
-"[Hy Stor] Energy Developing First-Ever U.S. Zero Carbon Green Hydrogen
-Storage Hub..  Mississippi Clean Hydrogen Hub Represents Largest Green
-Hydrogen Project of its Kind in the U.S"
-
-[[-]](https://bit.ly/3pcB9MJ)
-
----
-
-"Welspun Group Corp: First Company from India to Join the H2 Pipe
-Joint Industry Project on Hydrogen Pipelines"
-
-[[-]](http://bit.ly/3jgF1bz)
+I’m just remembering that my second year in America, someone asked me
+to 'validate their parking,' which was my first time hearing the
+phrase, and after blinking stupidly in silence for a full five seconds
+I said 'Well parking is really hard but I’m sure you did it really
+well'"
 
 ---
 
-Heat pumps are better than purely electrical (resistance) heating as
-they use some gas inside, also clean, but will still cause an uptick
-in electricity usage.. Depending on the price of electricity in a
-country that can hurt budgets. Everything about electricity, from its
-delivery, to its storage, is problematic. If renewable gas is piped
-into homes it can simply upgrade gas boilers to use the new gas,
-instead of natgas.
+[This](https://pbs.twimg.com/media/FCH7BhcXoAMcbXR?format=jpg&name=small)
+just looks so bad.. Imagine amount of copper, steel used in the
+construction. A single gas pipeline can replace all of that, *and* perform better.
 
 ---
 
-NYT: "Russia's Low Vaccination Rates Leads to Record-Breaking Toll"
+It's open season on Facebook
 
 ---
 
-Reuters: "Centre-left wins Italian mayoral run-offs as right flounders"
+Advice to their theoreticians; feel free to ignore parts of "known
+physics" as needed. For example "theory doesn't fit with CMB". Does
+that matter?  That "background" could well be misinterpreted signals
+from f-ing New Jersey (instruments were [near there](https://youtu.be/5i6mCNgJNZs?t=348))
+and birdshit on the antennas.
+
+Physics of the past 40 years has been a house of cards. A lot of fine
+base elements but put together in bizarre ways, with certain pieces
+placed, very likely, completely incorrectly (you don't end up in this
+state by overlooking one or two things). Just like there are ppl today
+who think electrification is the way for green energy, I am sure there
+are many in Phy with similar delusional ideas, all the while believing
+they are being reasonable. 
 
 ---
 
-[More](2021/09/computing-ai.md#car) on the shortcomings
+I see, there have been fluidic space theories, trying to explain
+gravity, one including dark matter, dark energy..  Good stuff..
 
 ---
 
-FB has top talent; They have Yann Freaking LeCun -- One of the architect of the
-so-called "return" of the neural net approaches.
+An air bubble in water rises up to surface.. There is more pressure at
+the bottom of it than at the top. More pres at the bottom bcz more
+fluid there relative to top, more weight, creating pressure
+difference.
+
+If space is seen as fluidic, planet gravitational pull can be
+explained similarly perhaps?  This fluid is extremely dense (according
+to a yet unknown measure), denser further from bodies, and relative to
+that planet bodies are like air, so "bubbles", ie other bodies are
+pushed towards it, explaining the pull..? 🤔
 
 ---
 
-The tools, the science of this domain is nowhere near being effective,
-undeserving of the AI moniker (they are "preliminary weak AI" at
-best), and they will not get better using the current methods being
-deployed today.
-
-"Facebook claims it uses AI to identify and remove posts containing
-hate speech and violence, but the technology doesn't really work,
-report says"
-
-[[-]](https://www.businessinsider.co.za/facebook-ai-doesnt-work-to-remove-hate-speech-and-violence-2021-10)
+Using coffee beans ground into a fine powder, then boiled in a little
+[brass pot](https://pbs.twimg.com/media/FB9mjc0XMAU_YNS?format=jpg&name=small)
+is called different names by countries, with many laying claim on its
+invention. But that style of coffee making was first invented in Yemen; so it
+should be called Yemenese coffee.
 
 ---
 
-Sounds like defunding the poh-lice
+That actually looked funny \#Lenox \#KO
 
-"[Berkeley] city council passed 'BerkDOT,' a first-in-the-nation
-measure to shift traffic enforcement to unarmed Department of
-Transportation workers. In the summer of 2020, cities across America
-made similar commitments: to curtail the use of force, shrink police
-budgets, and fund fleets of civilian officers. But Berkeley was the
-first to target the traffic cop. By doing so, it is rethinking police
-power at its root. Traffic stops are by far the most common reason
-that police officers initiate contact with members of the public; they
-account for 84 percent of encounters, according to data from the
-Bureau of Justice Statistics. In fact, before cars, ordinary citizens
-rarely came in contact with law enforcement. As we rebuilt cities
-around the automobile, historians contend, drivers came to expect to
-be policed. And communities of color have paid the highest price"
-
-[[-]](https://www.theatlantic.com/ideas/archive/2021/10/end-police-violence-get-rid-traffic-cop/620378/)
+[[-]](https://youtu.be/mFJb55D84dc?t=154)
 
 ---
 
