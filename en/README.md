@@ -56,12 +56,6 @@ should be called Yemenese coffee.
 
 ---
 
-That actually looked funny \#Lenox \#KO
-
-[[-]](https://youtu.be/mFJb55D84dc?t=154)
-
----
-
 ## For Members
 
 [Link](https://thirdwave-members.herokuapp.com)
