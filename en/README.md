@@ -85,9 +85,9 @@ The fluidic theories of course need to be tied to the rest of phy. An
 advice to their theoreticians while they do that; feel free to ignore
 parts of "known physics" as needed. Much of recent physics is a mess..
 "Theory doesn't fit with CMB" shld be able to trigger "does that
-matter?". That background could well be misinterpreted signals from
-f-ing Jersey shore (instruments were [near there](https://bit.ly/2CMq76V))
-and birdshit on the antennas.
+matter?". That "cosmic background" could well be misinterpreted
+signals from f-ing Jersey shore (instruments were [near
+there](https://bit.ly/2CMq76V)) and birdshit on the antennas.
 
 ---
 
