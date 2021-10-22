@@ -19,7 +19,8 @@ Hi-Fi Companions A Night In Trimisoara \#music
 
 Literally ran that code while writing this post. So right now 25 mil
 ratings, for 58K movies, by anonymous 280K users are in notebook's
-memory. This is not a drill. We have ample computing capabilities..
+memory. This is not a drill. We have some fine computing capabilities
+compared to even few decades ago..
 
 ---
 
