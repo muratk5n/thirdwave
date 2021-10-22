@@ -25,12 +25,12 @@ no emoji can replicate the sheer joy that this guy :D radiates"
 
 I literally ran that code as I am writing this. So right now I have 25
 mil ratings, for 58K movies, by anonymous 280K users residing in my
-notebook's memory. This is not a drill. We have fantastic computing
-capabilities.. 
+notebook's memory. This is not a drill. We have ample computing
+capabilities..
 
 ---
 
-Anyone can do this. Get the full zip file from [here](https://grouplens.org/datasets/movielens/latest/),
+How to? Full zip file is [here](https://grouplens.org/datasets/movielens/latest/),
 unzip, then for example read the ratings with,
 
 ```python
