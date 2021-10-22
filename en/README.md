@@ -55,7 +55,7 @@ Out[1]: 3.5
 
 ---
 
-:) No did not use "AI". This is simple linear algebra. 
+:) No did not use "AI". Just simple linear algebra. 
 
 ---
 
