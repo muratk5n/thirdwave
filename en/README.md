@@ -49,7 +49,7 @@ Out[1]: 3.5
 
 ---
 
-Big Tech marketingn calls similarly rudimentary, or shoddy approaches
+Big Tech marketing calls similarly rudimentary, or shoddy approaches
 "AI", they are similarly wrong.
 
 ---
