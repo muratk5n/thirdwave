@@ -49,7 +49,7 @@ m[2,2707]
 Out[1]: 3.5
 ```
 
-Movie is *Arlington Road* apparently. Rating was 3.5 (out of 5.0)
+*Arlington Road* apparently. Rating was 3.5 (out of 5.0)
 
 .. and go from there. 
 
