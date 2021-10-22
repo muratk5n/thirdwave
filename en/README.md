@@ -30,7 +30,7 @@ memory. This is not a drill. We have ample computing capabilities..
 ---
 
 How to? Full zip file is [here](https://grouplens.org/datasets/movielens/latest/),
-unzip, then for example read the ratings with,
+unzip, then for example read all ratings with,
 
 ```python
 from scipy.sparse import csr_matrix
