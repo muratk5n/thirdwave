@@ -49,7 +49,7 @@ Out[1]: 3.5
 
 ---
 
-:) No did not use "AI". Just simple linear algebra. 
+:) No it is not "AI". Just simple linear algebra
 
 ---
 
