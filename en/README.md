@@ -17,12 +17,6 @@ Hi-Fi Companions A Night In Trimisoara \#music
 
 ---
 
-"@astreaos
-
-no emoji can replicate the sheer joy that this guy :D radiates"
-
----
-
 I literally ran that code as I am writing this. So right 25 mil
 ratings, for 58K movies, by anonymous 280K users are in notebook's
 memory. This is not a drill. We have ample computing capabilities..
@@ -68,6 +62,12 @@ the process [/geek].
 ---
 
 My DIY recommender chose *Equalizer 2*. It was good 
+
+---
+
+"@astreaos
+
+no emoji can replicate the sheer joy that this guy :D radiates"
 
 ---
 
