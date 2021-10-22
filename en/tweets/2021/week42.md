@@ -1,5 +1,72 @@
 # Week 42
 
+"NY Governor & @PlugPowerInc Announces Construction Start at Largest
+Green Hydrogen Plant in North America"
+
+[[-]](https://bit.ly/3DUehpg)
+
+---
+
+The Guardian: "‘Case closed’: 99.9% of scientists agree climate
+emergency caused by humans"
+
+---
+
+[MSNBC](https://pbs.twimg.com/media/FCHB0KBXsAAgte5?format=jpg&name=small)
+dropped the ball.
+
+---
+
+"As of Tuesday morning, 82% of S&P 500 companies that have reported
+earnings beat expectations"
+
+---
+
+[This](https://pbs.twimg.com/media/FCH7BhcXoAMcbXR?format=jpg&name=small)
+just looks so bad.. Imagine amount of copper, steel used in the
+construction. A single gas pipeline can replace all of that, *and* perform better.
+
+---
+
+I see, there have been fluidic space theories, trying to explain
+gravity, one including dark matter, dark energy..  Good stuff..
+
+---
+
+An air bubble in water rises up to surface.. There is more pressure at
+the bottom of it than at the top. More pres at the bottom bcz more
+fluid there relative to top, more weight, creating pressure
+difference.
+
+If space is seen as fluidic, planet gravitational pull can be
+explained similarly perhaps?  This fluid is extremely dense (according
+to a yet unknown measure), denser further from bodies, and relative to
+that planet bodies are like air, so "bubbles", ie other bodies are
+pushed towards it, explaining the pull..? 🤔
+
+---
+
+It's open season on Facebook
+
+---
+
+Using coffee beans ground into a fine powder, then boiled in a little
+[brass pot](https://pbs.twimg.com/media/FB9mjc0XMAU_YNS?format=jpg&name=small)
+is called different names by countries, with many laying claim on its
+invention. But that style of coffee making was first invented in Yemen; so it
+should be called Yemenese coffee.
+
+---
+
+"@ivadixit
+
+I’m just remembering that my second year in America, someone asked me
+to 'validate their parking,' which was my first time hearing the
+phrase, and after blinking stupidly in silence for a full five seconds
+I said 'Well parking is really hard but I’m sure you did it really
+well'"
+
+---
 
 "[Hy Stor] Energy Developing First-Ever U.S. Zero Carbon Green Hydrogen
 Storage Hub..  Mississippi Clean Hydrogen Hub Represents Largest Green

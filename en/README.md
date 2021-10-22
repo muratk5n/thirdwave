@@ -1,70 +1,84 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-"NY Governor & @PlugPowerInc Announces Construction Start at Largest
-Green Hydrogen Plant in North America"
 
-[[-]](https://bit.ly/3DUehpg)
+Good for Barbados
 
----
+"Barbados has elected its first president, a key step in preparations
+to become a republic and remove Britain's Queen Elizabeth II as head
+of state of the Caribbean island"
 
-The Guardian: "‘Case closed’: 99.9% of scientists agree climate
-emergency caused by humans"
-
----
-
-[MSNBC](https://pbs.twimg.com/media/FCHB0KBXsAAgte5?format=jpg&name=small)
-dropped the ball.
+[[-]](http://u.afp.com/wZe6)
 
 ---
 
-"As of Tuesday morning, 82% of S&P 500 companies that have reported
-earnings beat expectations"
+Hi-Fi Companions A Night In Trimisoara \#music
+
+[[-]](https://youtu.be/jGw3EdlthWQ?t=58)
 
 ---
 
-[This](https://pbs.twimg.com/media/FCH7BhcXoAMcbXR?format=jpg&name=small)
-just looks so bad.. Imagine amount of copper, steel used in the
-construction. A single gas pipeline can replace all of that, *and* perform better.
+"@astreaos
+
+no emoji can replicate the sheer joy that this guy :D radiates"
 
 ---
 
-I see, there have been fluidic space theories, trying to explain
-gravity, one including dark matter, dark energy..  Good stuff..
+I literally ran that code as I am writing this. So right now I have 25
+mil ratings, for 58K movies, by anonymous 280K users residing in my
+notebook's memory. This is not a drill. We have fantastic computing
+capabilities.. 
 
 ---
 
-An air bubble in water rises up to surface.. There is more pressure at
-the bottom of it than at the top. More pres at the bottom bcz more
-fluid there relative to top, more weight, creating pressure
-difference.
+Anyone can do this. Get the full zip file from [here](https://grouplens.org/datasets/movielens/latest/),
+unzip, then for example read the ratings with,
 
-If space is seen as fluidic, planet gravitational pull can be
-explained similarly perhaps?  This fluid is extremely dense (according
-to a yet unknown measure), denser further from bodies, and relative to
-that planet bodies are like air, so "bubbles", ie other bodies are
-pushed towards it, explaining the pull..? 🤔
+```python
+from scipy.sparse import csr_matrix
+import pandas as pd
+r = pd.read_csv("ratings.csv")
+m = csr_matrix((r.rating, (r.userId , r.movieId)))
+```
+
+Let's check the rating of user Id 2 for movie Id 2707
+
+```python
+m[2,2707]
+```
+
+```text
+Out[1]: 3.5
+```
+
+Movie is *Arlington Road* apparently. Rating was 3.5 (out of 5.0)
+
+.. and go from there. 
 
 ---
 
-It's open season on Facebook
+:) No did not use "AI". This is simple linear algebra. 
 
 ---
 
-Using coffee beans ground into a fine powder, then boiled in a little
-[brass pot](https://pbs.twimg.com/media/FB9mjc0XMAU_YNS?format=jpg&name=small)
-is called different names by countries, with many laying claim on its
-invention. But that style of coffee making was first invented in Yemen; so it
-should be called Yemenese coffee.
+Algo chose this movie by [geek] reducing the user-movie rating matrix
+through singular value decomposition and searching in the reduced
+space for users matching my record, and recommending their top liked
+movies. Since the matrix is sparse `csr_matrix` can be used, speeds up
+the process [/geek].
 
 ---
 
-"@ivadixit
+My DIY recommender chose *Equalizer 2*. It was good 
 
-I’m just remembering that my second year in America, someone asked me
-to 'validate their parking,' which was my first time hearing the
-phrase, and after blinking stupidly in silence for a full five seconds
-I said 'Well parking is really hard but I’m sure you did it really
-well'"
+---
+
+The fluidic theories of course need to be tied to the rest of phy. An
+advice to their theoreticians while they do that; feel free to ignore
+parts of "known physics" as needed. Much of recent physics is a mess..
+"Theory doesn't fit with CMB" shld be able to trigger "does that
+matter?". That background could well be misinterpreted signals from
+f-ing Jersey shore (instruments were [near there](https://bit.ly/2CMq76V))
+and birdshit on the antennas.
 
 ---
 
