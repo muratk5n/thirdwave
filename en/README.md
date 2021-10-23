@@ -1,93 +1,71 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
 
-Good for Barbados
+"Europe’s Largest Electrolysis Plant Under Construction... Everfuel is
+set for full production of green hydrogen at Phase I of the flagship
+HySynergy project in Fredericia, Denmark"
 
-"Barbados has elected its first president, a key step in preparations
-to become a republic and remove Britain's Queen Elizabeth II as head
-of state of the Caribbean island"
-
-[[-]](http://u.afp.com/wZe6)
+[[-]](https://bit.ly/3m1RsKf)
 
 ---
 
-Hi-Fi Companions A Night In Trimisoara \#music
+Flashbaxx - Voodoo Therapy \#music
 
-[[-]](https://youtu.be/jGw3EdlthWQ?t=58)
-
----
-
-Literally ran that code while writing this post. So right now 25 mil
-ratings, for 58K movies, by anonymous 280K users are in notebook's
-memory. This is not a drill. We have some fine computing capabilities
-compared to even few decades ago..
+[[-]](https://youtu.be/xvyQ4cGdYKM)
 
 ---
 
-How to? Full zip file is [here](https://grouplens.org/datasets/movielens/latest/),
-unzip, then for example read all ratings with,
+Interesting.. Faulty prop gun due to cost cutting..? The plot thickens..
 
-```python
-from scipy.sparse import csr_matrix
-import pandas as pd
-r = pd.read_csv("ratings.csv")
-m = csr_matrix((r.rating, (r.userId , r.movieId)))
-```
+"@viajoshhunt
 
-Let's check the rating of user Id 2 for movie Id 2707
-
-```python
-m[2,2707]
-```
-
-```text
-Out[1]: 3.5
-```
-
-*Arlington Road* apparently. Rating was 3.5 (out of 5.0)
-
-.. and go from there. 
+[Baldwin] movie was financed by Bondit Media Capital, a company that
+also backed Randall Emmett's "Wash Me in the River" and a host of
+other cheap "geezer teasers.' It will be interesting to see whether
+corner cutting played a role"
 
 ---
 
-Big Tech marketing calls similarly rudimentary, or shoddy approaches
-"AI", this is wrong.
+I like that everyone gets coin but it needs to happen continuously
+expanding the money base, inflating away stashed wealth while
+providing UBI. Also iris image capture -> id generation doesn't sound secure.
+
+[Worldcoin](https://worldcoin.org/)
 
 ---
 
-:) No it is not "AI". Just simple linear algebra
+AFP: "The World Health Organization said Thursday that 80,000 to
+180,000 health care workers may have been killed by Covid-19 up to May
+this year, insisting they should be prioritised for vaccination"
 
 ---
 
-Algo chose this movie by [geek] reducing the user-movie rating matrix
-through singular value decomposition and searching in the reduced
-space for users matching my record, and recommending their top liked
-movies. Since the matrix is sparse `csr_matrix` can be used, speeds up
-the process [/geek].
+This supersonic stuff is fine and dandy but if your target country has
+subs with nukes, they can still retaliate after a surprise attack.
+So you are back to M.A.D.
 
 ---
 
-My DIY recommender chose *Equalizer 2*. It was good 
+"Putin takes tougher anti-COVID measures as deaths soar"
 
 ---
 
-Alec Baldwin, daam.. F-ing gangsta
+Not the only reason for vax hesitancy but yes \#M4A
+
+[[Comment]](https://pbs.twimg.com/media/FCJWaFEUUAcrDXN?format=jpg&name=medium)
 
 ---
 
-"@astreaos
-
-no emoji can replicate the sheer joy that this guy :D radiates"
+The script was written by a major scifi fan; there were references
+even to SG Atlantis where Momoa played a role. In SGA JM constantly
+punks another character, they had a similar act in *Dune*. 
 
 ---
-
-The fluidic theories of course need to be tied to the rest of phy. An
-advice to their theoreticians while they do that; feel free to ignore
-parts of "known physics" as needed. Much of recent physics is a mess..
-"Theory doesn't fit with CMB" shld be able to trigger "does that
-matter?". That "cosmic background" could well be misinterpreted
-signals from f-ing Jersey shore (instruments were [near
-there](https://bit.ly/2CMq76V)) and birdshit on the antennas.
+ 
+*Dune* looked great cinematically. Acting top notch. It cld have moved
+faster though and showed the events around fremen rebellion, it sort
+of feels empty without that part. The 2000 miniseries did better
+there. 
 
 ---
 
