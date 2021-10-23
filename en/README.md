@@ -42,9 +42,9 @@ this year, insisting they should be prioritised for vaccination"
 
 ---
 
-This supersonic stuff is fine and dandy but if your target country has
-subs with nukes, they can still retaliate after a surprise attack.
-So you are back to M.A.D.
+This supersonic stuff is fine and dandy but if there are nuke-powered
+nuke-armed subs, retaliation after a surprise attack is possible. Then
+it is back to M.A.D.
 
 ---
 
