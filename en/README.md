@@ -57,9 +57,8 @@ character, they had a similar act in *Dune*.
 ---
  
 *Dune* looked great cinematically. Acting top notch. It cld have moved
-faster though and showed the events around fremen rebellion, it sort
-of feels empty without that part. The 2000 miniseries did better
-there.
+faster though and showed the events around fremen rebellion.. There is
+a Part 2 in the works?
 
 ---
 
