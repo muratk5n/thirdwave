@@ -30,8 +30,8 @@ this year, insisting they should be prioritised for vaccination"
 ---
 
 This supersonic stuff is fine and dandy but if there are nuke-powered
-nuke-armed subs, retaliation after a surprise attack is possible. Then
-it is back to M.A.D.
+nuke-armed subs in play, retaliation after a surprise attack is still
+possible. Then you are back to M.A.D.
 
 ---
 
