@@ -9,12 +9,6 @@ HySynergy project in Fredericia, Denmark"
 
 ---
 
-Flashbaxx - Voodoo Therapy \#music
-
-[[-]](https://youtu.be/xvyQ4cGdYKM)
-
----
-
 I like that everyone gets coin tho it needs to happen continuously
 expanding the money base, inflating away stashed wealth while
 providing UBI. Also iris image capture -> id generation doesn't sound
@@ -33,6 +27,16 @@ this year, insisting they should be prioritised for vaccination"
 This supersonic stuff is fine and dandy but if there are nuke-powered
 nuke-armed subs in play, retaliation after a surprise attack is still
 possible. Then you are back to M.A.D.
+
+---
+
+Chris Joss is French? He got the funk
+
+---
+
+Chris Joss - Superjam \#music
+
+[[-]](https://youtu.be/t_1fJLG9WZM)
 
 ---
 
