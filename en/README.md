@@ -56,9 +56,8 @@ character, they had a similar act in *Dune*.
 
 ---
  
-*Dune* looked great cinematically. Acting top notch. It cld have moved
-faster though and showed the events around fremen rebellion.. There is
-a Part 2 in the works?
+*Dune* looked great cinematically. Acting top notch. There is a Part 2
+in the works?
 
 ---
 
