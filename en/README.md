@@ -56,9 +56,9 @@ Not the only reason for vax hesitancy but yes \#M4A
 
 ---
 
-The script was written by a major scifi fan; there were references
-even to SG Atlantis where Momoa played a role. In SGA JM constantly
-punks another character, they had a similar act in *Dune*. 
+The script was written by a major scifi fan; used stuff from SG
+Atlantis where Momoa played in, there JM constantly punked another
+character, they had a similar act in *Dune*.
 
 ---
  
