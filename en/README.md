@@ -15,19 +15,6 @@ Flashbaxx - Voodoo Therapy \#music
 
 ---
 
-More info in the link
-
-"@viajoshhunt
-
-[Baldwin] movie was financed by Bondit Media Capital, a company that
-also backed Randall Emmett's "Wash Me in the River" and a host of
-other cheap "geezer teasers.' It will be interesting to see whether
-corner cutting played a role"
-
-[[-]](https://twitter.com/viajoshhunt/status/1451376853134966788)
-
----
-
 I like that everyone gets coin but it needs to happen continuously
 expanding the money base, inflating away stashed wealth while
 providing UBI. Also iris image capture -> id generation doesn't sound secure.
