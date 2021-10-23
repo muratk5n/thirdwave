@@ -24,6 +24,8 @@ also backed Randall Emmett's "Wash Me in the River" and a host of
 other cheap "geezer teasers.' It will be interesting to see whether
 corner cutting played a role"
 
+[[-]](https://twitter.com/viajoshhunt/status/1451376853134966788)
+
 ---
 
 I like that everyone gets coin but it needs to happen continuously
