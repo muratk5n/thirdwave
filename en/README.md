@@ -15,7 +15,7 @@ Flashbaxx - Voodoo Therapy \#music
 
 ---
 
-Interesting.. Faulty prop gun due to cost cutting..? The plot thickens..
+More info in the link
 
 "@viajoshhunt
 
