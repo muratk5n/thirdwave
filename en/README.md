@@ -57,7 +57,7 @@ character, they had a similar act in *Dune*.
 ---
  
 *Dune* looked great cinematically. Acting top notch. There is a Part 2
-in the works?
+in the works? 
 
 ---
 
