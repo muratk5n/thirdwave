@@ -15,9 +15,10 @@ Flashbaxx - Voodoo Therapy \#music
 
 ---
 
-I like that everyone gets coin but it needs to happen continuously
+I like that everyone gets coin tho it needs to happen continuously
 expanding the money base, inflating away stashed wealth while
-providing UBI. Also iris image capture -> id generation doesn't sound secure.
+providing UBI. Also iris image capture -> id generation doesn't sound
+secure.
 
 [Worldcoin](https://worldcoin.org/)
 
