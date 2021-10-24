@@ -98,7 +98,7 @@ print ( w / (150*1000) )
 ```
 
 ```text
-0.34222222222222226
+0.342
 ```
 
 Solar panels
@@ -118,7 +118,7 @@ producing 1 kg of hydrogen requires 50–55 kW⋅h of electricity
 
 Storage in Ammonia
 
-Green ammonia production efficiency is over 74% [12]. "Crackers" that
+ Green ammonia production efficiency is over 74% [12]. "Crackers" that
 generate H2 from ammonia are about 76% efficient [6]. 
 
 Storage in Pipelines
