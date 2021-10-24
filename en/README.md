@@ -65,7 +65,7 @@ testimonials before Congress over the gain-of-function question"
 
 ---
 
-*Dune* was not cuck. In fact they reversed some damage done elsewhere;
+*Dune* wasn't cuck. In fact they reversed some damage done elsewhere;
 Oscar Isaac was cucked on Star Wars, they uncucked him. Movie had
 freaking Thanos. Momoa, obviously. Great cast, and it was pretty
 balanced .. 
