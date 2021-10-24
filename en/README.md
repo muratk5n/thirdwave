@@ -65,13 +65,6 @@ testimonials before Congress over the gain-of-function question"
 
 ---
 
-*Dune* wasn't cuck. In fact they reversed some damage done elsewhere;
-Oscar Isaac was cucked on Disney Star Wars, they uncucked him. Movie
-had freaking Thanos. Momoa, obviously. Great cast, and it was pretty
-balanced ..
-
----
-
 TDB: "Margaret Atwood, the celebrated author of feminist dystopian
 novel The Handmaid’s Tale, angered some of her fans this week when she
 tweeted out an op-ed by another writer titled, 'Why can’t we say
