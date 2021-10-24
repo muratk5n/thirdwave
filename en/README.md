@@ -1,5 +1,12 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
+"@INEOS as it plans to Invest $2.3 bln on Green Hydrogen
+Production. First plants will be built in Norway, Germany and Belgium"
+
+[[-]](https://bit.ly/3FXZwDP)
+
+---
+
 "Saudi Arabian Oil Keynote address .. Planning one of world’s biggest
 green hydrogen plants with partners"
 
