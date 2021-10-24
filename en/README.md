@@ -58,17 +58,17 @@ electric buses are currently in use"
 
 ---
 
-Vanity Fair: "In Major Shift, NIH Admits Funding Risky Virus Research
-in Wuhan"
-
----
-
 Yahoo News: "A top NIH official admitted in a Wednesday letter that
 U.S. taxpayers funded gain-of-function research on bat coronaviruses
 in Wuhan .. The revelation vindicates Republican senator Rand Paul,
 who got into heated exchanges with National Institute of Allergy and
 Infectious Disease director Anthony Fauci during his May and July
 testimonials before Congress over the gain-of-function question"
+
+---
+
+Vanity Fair: "In Major Shift, NIH Admits Funding Risky Virus Research
+in Wuhan"
 
 ---
 
