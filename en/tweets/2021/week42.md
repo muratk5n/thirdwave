@@ -1,5 +1,64 @@
 # Week 42
 
+"Europe’s Largest Electrolysis Plant Under Construction... Everfuel is
+set for full production of green hydrogen at Phase I of the flagship
+HySynergy project in Fredericia, Denmark"
+
+[[-]](https://bit.ly/3m1RsKf)
+
+---
+
+I like that everyone gets coin tho it needs to happen continuously
+expanding the money base, inflating away stashed wealth while
+providing UBI. Also iris image capture -> id generation doesn't sound
+secure.
+
+[Worldcoin](https://worldcoin.org/)
+
+---
+
+AFP: "The World Health Organization said Thursday that 80,000 to
+180,000 health care workers may have been killed by Covid-19 up to May
+this year, insisting they should be prioritised for vaccination"
+
+---
+
+This supersonic stuff is fine and dandy but if there are nuke-powered
+nuke-armed subs in play, retaliation after a surprise attack is still
+possible. Then you are back to M.A.D.
+
+---
+
+Chris Joss is French? He got the funk
+
+---
+
+Chris Joss - Superjam \#music
+
+[[-]](https://youtu.be/t_1fJLG9WZM)
+
+---
+
+"Putin takes tougher anti-COVID measures as deaths soar"
+
+---
+
+Not the only reason for vax hesitancy but yes \#M4A
+
+[[Comment]](https://pbs.twimg.com/media/FCJWaFEUUAcrDXN?format=jpg&name=medium)
+
+---
+
+I bet the script was written by a major scifi fan; used stuff from SG
+Atlantis where Momoa played in, there JM constantly punks another
+character, they had a similar act in *Dune*.
+
+---
+ 
+*Dune* looked great cinematically. Acting top notch. There is a Part 2
+in the works? 
+
+---
 
 Good for Barbados
 
