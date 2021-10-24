@@ -2,8 +2,7 @@
 
 M. Beckley, [Foreign Affairs](https://www.foreignaffairs.com/articles/china/2021-10-01/end-chinas-rise)
 
-
-"China’s multidecade ascent was aided by strong tailwinds that have
+China’s multidecade ascent was aided by strong tailwinds that have
 now become headwinds. China’s government is concealing a serious
 economic slowdown and sliding back into brittle totalitarianism. The
 country is suffering severe resource scarcity ...
@@ -43,6 +42,4 @@ encirclement by downplaying its global ambitions and maintaining
 friendly relations with the United States. But that period is over..
 
 China is a risen power, not a rising one: it has acquired formidable
-geopolitical capabilities, but its best days are behind it"
-
-
+geopolitical capabilities, but its best days are behind it.
