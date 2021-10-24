@@ -1,5 +1,20 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
+"Saudi Arabian Oil Keynote address .. Planning one of world’s biggest
+green hydrogen plants with partners"
+
+[[-]](https://bit.ly/3pvMZ4M)
+
+---
+
+"Shell and Partners are Promoting the Integrated Hydrogen Economy in
+the Transport Sector. @Shell & partners presented 1st medium-duty
+fuel cell truck at ITS World Congress in Hamburg"
+
+[[-]](https://bit.ly/3E8LGNb)
+
+---
+
 NYT: "In 1984 [an actor] accidentally shot himself in the head and
 died while playing Russian roulette on set; the force of a blank
 round’s explosion fractured his skull.And there was an accident on a
@@ -50,6 +65,13 @@ testimonials before Congress over the gain-of-function question"
 
 ---
 
+*Dune* was not cuck. In fact they reversed some damage done elsewhere;
+Oscar Isaac was cucked on Star Wars, they uncucked him. Movie had
+freaking Thanos. Momoa, obviously. Great cast, and it was pretty
+balanced .. 
+
+---
+
 TDB: "Margaret Atwood, the celebrated author of feminist dystopian
 novel The Handmaid’s Tale, angered some of her fans this week when she
 tweeted out an op-ed by another writer titled, 'Why can’t we say
@@ -62,21 +84,6 @@ tweeted out an op-ed by another writer titled, 'Why can’t we say
 "French education minister’s anti-woke mission.. Emmanuel Macron's
 government is making the fight against woke theories a cornerstone of
 its push to rally supporters from the left and the right"
-
----
-
-"Saudi Arabian Oil Keynote address .. Planning one of world’s biggest
-green hydrogen plants with partners"
-
-[[-]](https://bit.ly/3pvMZ4M)
-
----
-
-"Shell and Partners are Promoting the Integrated Hydrogen Economy in
-the Transport Sector. @Shell & partners presented 1st medium-duty
-fuel cell truck at ITS World Congress in Hamburg"
-
-[[-]](https://bit.ly/3E8LGNb)
 
 ---
 
