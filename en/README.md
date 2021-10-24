@@ -24,8 +24,8 @@ barrel of a gun was discharged along with a blank cartridge"
 
 ---
 
-Because charging is slow, they need to apply too much power, to
-recharge faster. That will overburden the grid, also degrade the
+Because battery charging is slow, they need to apply too much power,
+to recharge faster. That will overburden the grid, also degrade the
 battery. Finally ka-boom!
 
 National Geographic: "At high charging speeds lithium batteries can
