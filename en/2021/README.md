@@ -60,6 +60,8 @@
 
 [Mission Economy](10/mission-economy.md)
 
+[The End of China’s Rise](10/the-end-of-chinas-rise-beckley.md)
+
 [The One Device](10/the-one-device-merchant.md)
 
 [The Rare Metals War](10/the-rare-metals-war.md)
