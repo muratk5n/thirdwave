@@ -9,7 +9,7 @@ barrel of a gun was discharged along with a blank cartridge"
 
 ---
 
-Because recharge is slow, they need to apply too much power, to
+Because charging is slow, they need to apply too much power, to
 recharge faster. That will overburden the grid, also degrade the
 battery. Finally ka-boom!
 
