@@ -42,10 +42,10 @@ Programming in Fortran today. God help me"
 ---
 
 *Dune* wasn't cuck. In fact they even reversed some stuff from
-elsewhere; Oscar Isaac was cucked on Disney Star Wars, they uncucked
-him. Movie had freaking Thanos. Momoa, obviously. That action chick
-men like, with T. Cruise stamp of approval. Great cast, and it was
-pretty balanced ..
+elsewhere; Oscar Isaac was cucked on Disney Star Wars, he was
+uncucked. Movie had freaking Thanos. Momoa, obviously. That action
+chick a lot of men like, with T. Cruise stamp of approval. The movie
+was pretty balanced actually, it felt like a pre-derangement flick ..
 
 ---
 
