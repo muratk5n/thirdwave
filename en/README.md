@@ -27,6 +27,9 @@ will reform the filibuster to pass that legislation"
 
 ---
 
+AP: "Bulgaria, EU's least vaccinated nation, faces deadly surge"
+
+---
 
 Simple data analysis, again, logistic regression. They actually
 focused on biology (imagine that) to gauge individual pieces that cld
