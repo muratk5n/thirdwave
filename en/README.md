@@ -1,5 +1,23 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
+
+"@GoodPoliticGuy
+
+Capitalists will literally expand child labor before offering people living wages
+
+'Wisconsin's Senate approves a bill allowing 14 year olds to work as
+late as 11 pm., and supporters say it could help plug the labor shortage'"
+
+---
+
+"@JamesVGrimaldi
+
+Who killed President Biden’s plan to provide two years of free
+community college tuition? Lobbying against it were four-year
+colleges"
+
+---
+
 Bust the Filibuster
 
 NYT: "[A]fter a Republican filibuster on Wednesday blocked the
@@ -18,15 +36,6 @@ be important.
 ---
 
 "This New Nasal Swab Test Can Predict Whether COVID Patients Will Be Hospitalized"
-
----
-
-
-She seems like a nice person, reporter
-
----
-
-Johanna Hoes. That's her name? :)
 
 ---
 
