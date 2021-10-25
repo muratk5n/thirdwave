@@ -1,89 +1,83 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-"@INEOS as it plans to Invest $2.3 bln on Green Hydrogen
-Production. First plants will be built in Norway, Germany and Belgium"
+Bust the Filibuster
 
-[[-]](https://bit.ly/3FXZwDP)
-
----
-
-"Saudi Arabian Oil Keynote address .. Planning one of world’s biggest
-green hydrogen plants with partners"
-
-[[-]](https://bit.ly/3pvMZ4M)
+NYT: "[A]fter a Republican filibuster on Wednesday blocked the
+Democrats’ latest proposal to combat the voting-rights restrictions
+proliferating in red states, [Dems] now squarely faces the choice that
+many activists consider an even more existential decision: whether it
+will reform the filibuster to pass that legislation"
 
 ---
 
-"Shell and Partners are Promoting the Integrated Hydrogen Economy in
-the Transport Sector. @Shell & partners presented 1st medium-duty
-fuel cell truck at ITS World Congress in Hamburg"
 
-[[-]](https://bit.ly/3E8LGNb)
-
----
-
-NYT: "In 1984 [an actor] accidentally shot himself in the head and
-died while playing Russian roulette on set; the force of a blank
-round’s explosion fractured his skull.And there was an accident on a
-movie set in 1993 in which the actor Brandon Lee, Bruce Lee’s son, was
-shot and killed during a scene when a bullet that was lodged in the
-barrel of a gun was discharged along with a blank cartridge"
+Simple data analysis, again, logistic regression. They actually
+focused on biology (imagine that) to gauge individual pieces that cld
+be important.
 
 ---
 
-Because battery charging is slow, they need to apply too much power,
-to recharge faster. That will overburden the grid, also degrade the
-battery. Finally ka-boom!
-
-National Geographic: "At high charging speeds lithium batteries can
-overheat, causing them to degrade over time.. [N]ot only can that
-drastically reduce the battery’s capacity... dendrites can grow across
-the electrolyte, touch the cathode and create a short circuit, causing
-the battery to catch fire or explode"
-
-[[-]](https://www.nationalgeographic.com/environment/article/will-charging-electric-cars-ever-be-as-fast-as-pumping-gas)
+"This New Nasal Swab Test Can Predict Whether COVID Patients Will Be Hospitalized"
 
 ---
 
-These things keep catching fire..
 
-I bet it has something to do with fast charging. 
-
-"After a major fire in Stuttgart: Munich pulls eight battery buses out
-of service...  other transport companies are drawing conclusions. The
-Münchner Verkehrsgesellschaft (MVG) is now taking eight electric buses
-out of service as a precaution.. In Stuttgart, the electric charging
-station was destroyed in the fire on September 30th. Therefore, no
-electric buses are currently in use"
+She seems like a nice person, reporter
 
 ---
 
-Yahoo News: "A top NIH official admitted in a Wednesday letter that
-U.S. taxpayers funded gain-of-function research on bat coronaviruses
-in Wuhan .. The revelation vindicates Republican senator Rand Paul,
-who got into heated exchanges with National Institute of Allergy and
-Infectious Disease director Anthony Fauci during his May and July
-testimonials before Congress over the gain-of-function question"
+Johanna Hoes. That's her name? :)
 
 ---
 
-Vanity Fair: "In Major Shift, NIH Admits Funding Risky Virus Research
-in Wuhan"
+Hah
+
+Reminds me the language flame wars I used to partake in back in the day,
+before the Internet was the Internet. Good times..
+
+"@iamlubos
+
+Programming in Fortran today. God help me"
 
 ---
 
-TDB: "Margaret Atwood, the celebrated author of feminist dystopian
-novel The Handmaid’s Tale, angered some of her fans this week when she
-tweeted out an op-ed by another writer titled, 'Why can’t we say
-‘woman’ anymore?'"
-
-[[-]](https://trib.al/2rDn6Zp)
+*Dune* wasn't cuck. In fact they even reversed some stuff from
+elsewhere; Oscar Isaac was cucked on Disney Star Wars, they uncucked
+him. Movie had freaking Thanos. Momoa, obviously. That action chick
+men like, with T. Cruise stamp of approval. Great cast, and it was
+pretty balanced ..
 
 ---
 
-"French education minister’s anti-woke mission.. Emmanuel Macron's
-government is making the fight against woke theories a cornerstone of
-its push to rally supporters from the left and the right"
+Bull Moose Jackson - I Know Who Threw the Whiskey in the Well \#music
+
+[[-]](https://youtu.be/yOKQ1lQH0_w?t=23)
+
+---
+
+Transportation of goods and people account for 25% of world energy
+consumption. Only 10% of WEC can be handled by li-on based
+batteries. 25% is greater than 10% - simple math.
+
+---
+
+[The End of China's Rise](2021/10/the-end-of-chinas-rise-beckley.md)
+
+---
+
+"[2019] The US military’s logistical train is slowly snaking toward
+China... the center of military policy is increasingly gravitating
+toward U.S. Indo-Pacific Command, according to U.S. government
+officials. [T]he challenge is how to quicken the pace because the
+logistical tail of warfare takes time to put in place and because the
+Pacific theater is one of the most difficult environments for moving
+supplies"
+
+[[-]](https://www.defensenews.com/news/your-military/2019/05/08/the-us-militarys-logistical-train-is-slowly-snaking-toward-china/)
+
+---
+
+Janes Defense: "UK sets sights on interim strategic sealift capability"
 
 ---
 
