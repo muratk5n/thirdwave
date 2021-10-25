@@ -56,8 +56,8 @@ Bull Moose Jackson - I Know Who Threw the Whiskey in the Well \#music
 ---
 
 Transportation of goods and people account for 25% of world energy
-consumption. Only 10% of WEC can be handled by li-on based
-batteries. 25% is greater than 10% - simple math.
+consumption. Only 10% of WEC can be handled by li-on batteries. 25% is
+greater than 10% - simple math.
 
 ---
 
