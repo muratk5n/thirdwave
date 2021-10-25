@@ -1,7 +1,8 @@
 # Public Education
 
-Here is a way to both keep PE and have it work better. The new aproach
-is based on the following tenets.
+Here we propose a scalable, government-led education system that can
+reach everyone, can work offline/online and in distributed
+fashion. The new aproach is based on the following tenets.
 
 1) Course content is created by reputable professors, authors, who are
 selected by the Department of Education (DOE). The lectures are
