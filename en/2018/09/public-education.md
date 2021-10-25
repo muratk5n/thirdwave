@@ -15,11 +15,11 @@ classrooms which kids can go to.
 
 4) Classes are graded on pass/fail basis, no more letter grades
 
-PE's most pressing problem is quality. The fastest way to fix that is
-to stop the so-called "teachers" from teaching. The act of content
-delivery needs to be taken away from them, instead, turned over to
-electronic lectures, content created by a reputable researcher /
-author in his/her field.
+Public education's most pressing problem is quality. The fastest way
+to fix that is to stop the so-called "teachers" from teaching. The act
+of content delivery needs to be taken away from them, instead, turned
+over to electronic lectures, content created by a reputable researcher
+/ author in his/her field.
 
 Incentives for the authors to create content: DOE will have the
 authority to increase an author's (who is a researcher) grant on any
