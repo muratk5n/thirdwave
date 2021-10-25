@@ -32,9 +32,6 @@ Johanna Hoes. That's her name? :)
 
 Hah
 
-Reminds me the language flame wars I used to partake in back in the day,
-before the Internet was the Internet. Good times..
-
 "@iamlubos
 
 Programming in Fortran today. God help me"
