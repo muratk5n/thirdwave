@@ -202,9 +202,19 @@ df = df.set_index('Date')
 df[df.index > "2018-01-01"]['ppm'].rolling(10).mean().plot()
 plt.savefig('carbon.png')
 df['ppm'].rolling(10).mean().plot(color='blue')
+print (df.ppm.tail(5))
 plt.savefig('carbon2.png')
 ```
 
+```text
+Date
+2021-05-01    419.13
+2021-06-01    418.94
+2021-07-01    416.96
+2021-08-01    414.47
+2021-09-01    413.30
+Name: ppm, dtype: float64
+```
 ![](carbon.png)
 
 Longer time span, since the 50s

@@ -16,7 +16,7 @@ classrooms which kids can go to.
 4) Classes are graded on pass/fail basis, no more letter grades
 
 Public education's most pressing problem is quality. The fastest way
-to fix that is to stop the so-called "teachers" from teaching. The act
+to fix that is to stop the so-called teachers from teaching. The act
 of content delivery needs to be taken away from them, instead, turned
 over to electronic lectures, content created by a reputable researcher
 / author in his/her field.
