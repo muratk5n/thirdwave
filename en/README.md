@@ -1,12 +1,5 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-Oz Net Zero Plan. Heavy on clean fuel usage. Excellent.
-
-[Summary](https://www.industry.gov.au/sites/default/files/October%202021/document/the-plan-to-deliver-net-zero-the-australian-way.pdf),
-[Doc](https://www.industry.gov.au/sites/default/files/October%202021/document/australias-long-term-emissions-reduction-plan.pdf)
-
----
-
 "@amazingmap
 
 Amazingly comprehensive map of every country in the world that uses
@@ -46,6 +39,13 @@ Saw guy type `sudo shutdown -h now` on screen
 Recommender chose *Upgrade* 2018. Fine mov.. Obviously, technically,
 beyond the realm of possibility given the direction of curr tech but
 hey -- good cinema
+
+---
+
+Oz Net Zero Plan. Heavy on clean fuel usage.
+
+[Summary](https://www.industry.gov.au/sites/default/files/October%202021/document/the-plan-to-deliver-net-zero-the-australian-way.pdf),
+[Doc](https://www.industry.gov.au/sites/default/files/October%202021/document/australias-long-term-emissions-reduction-plan.pdf)
 
 ---
 
