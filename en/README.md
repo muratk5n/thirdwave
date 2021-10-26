@@ -1,12 +1,10 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
 
-"@SatoshiSound
+Oz Net Zero Plan. Heavy on clean fuel usage. Excellent.
 
-When someone tells me they trade “crypto” this is how I see them from
-then on"
-
-[[-]](https://twitter.com/SatoshiSound/status/1452089263449903104)
+[Summary](https://www.industry.gov.au/sites/default/files/October%202021/document/the-plan-to-deliver-net-zero-the-australian-way.pdf),
+[Doc](https://www.industry.gov.au/sites/default/files/October%202021/document/australias-long-term-emissions-reduction-plan.pdf)
 
 ---
 
