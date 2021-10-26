@@ -71,7 +71,7 @@ handle all of transportation.
 
 ---
 
-[The End of China's Rise](2021/10/the-end-of-chinas-rise-beckley.md)
+[The End of China's Rise](../../2021/10/the-end-of-chinas-rise-beckley.md)
 
 ---
 
