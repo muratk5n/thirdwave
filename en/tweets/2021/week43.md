@@ -1,5 +1,96 @@
 # Week 43
 
+"@GoodPoliticGuy
+
+Capitalists will literally expand child labor before offering people living wages
+
+'Wisconsin's Senate approves a bill allowing 14 year olds to work as
+late as 11 pm., and supporters say it could help plug the labor shortage'"
+
+---
+
+"@JamesVGrimaldi
+
+Who killed President Biden’s plan to provide two years of free
+community college tuition? Lobbying against it were four-year
+colleges"
+
+---
+
+Bust the Filibuster
+
+NYT: "[A]fter a Republican filibuster on Wednesday blocked the
+Democrats’ latest proposal to combat the voting-rights restrictions
+proliferating in red states, [Dems] now squarely faces the choice that
+many activists consider an even more existential decision: whether it
+will reform the filibuster to pass that legislation"
+
+---
+
+AP: "Bulgaria, EU's least vaccinated nation, faces deadly surge"
+
+---
+
+Simple data analysis, again, logistic regression. They actually
+focused on biology (imagine that) to gauge individual pieces that cld
+be important.
+
+---
+
+"This New Nasal Swab Test Can Predict Whether COVID Patients Will Be Hospitalized"
+
+---
+
+Hah
+
+"@iamlubos
+
+Programming in Fortran today. God help me"
+
+---
+
+*Dune* wasn't cuck. In fact they even reversed some stuff from
+elsewhere; Oscar Isaac was cucked on Disney Star Wars, he was
+uncucked. Movie had freaking Thanos. Momoa, obviously. There was that
+action chick a lot of men like, with T. Cruise stamp of approval. The
+movie was pretty balanced actually, it felt like a pre-derangement
+flick ..
+
+---
+
+Bull Moose Jackson - I Know Who Threw the Whiskey in the Well \#music
+
+[[-]](https://youtu.be/yOKQ1lQH0_w?t=23)
+
+---
+
+Transportation of goods and people account for 25% of world energy
+consumption. Only 10% of WEC can be handled by li-on batteries. 25% is
+greater than 10% - simple math. This sorry excuse of a tech can't even
+handle all of transportation.
+
+---
+
+[The End of China's Rise](2021/10/the-end-of-chinas-rise-beckley.md)
+
+---
+
+"[2019] The US military’s logistical train is slowly snaking toward
+China... the center of military policy is increasingly gravitating
+toward U.S. Indo-Pacific Command, according to U.S. government
+officials. [T]he challenge is how to quicken the pace because the
+logistical tail of warfare takes time to put in place and because the
+Pacific theater is one of the most difficult environments for moving
+supplies"
+
+[[-]](https://www.defensenews.com/news/your-military/2019/05/08/the-us-militarys-logistical-train-is-slowly-snaking-toward-china/)
+
+---
+
+Janes Defense: "UK sets sights on interim strategic sealift capability"
+
+---
+
 "@INEOS as it plans to Invest $2.3 bln on Green Hydrogen
 Production. First plants will be built in Norway, Germany and Belgium"
 
