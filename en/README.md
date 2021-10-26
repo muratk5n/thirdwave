@@ -19,9 +19,9 @@ the MMDDYYYY format"
 
 ---
 
-Someone told in the crew "get me some code!" they got it, but to make
-it look dense, "hi-tech" they removed the indentation. Hey it's all
-for the looks right? This is Holywood. 
+Someone told the crew "get me some code!" they got it, but to make it
+look dense, "hi-tech" they removed the indentation. Hey it's all for
+the looks right? This is Holywood.
 
 \#upgrade
 
