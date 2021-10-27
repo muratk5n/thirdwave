@@ -1,6 +1,6 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-CPUs have some life left in them..
+CPUs still have some life left in them..
 
 "ETH Zurich Team Unveils RISC-V-Based Snitch Processor, Boasts of
 Sixfold Performance Gains"
