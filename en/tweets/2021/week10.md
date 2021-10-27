@@ -457,7 +457,7 @@ repayment. Companies want growth bcz their investors need returns. All
 that cld be fine but even with services dominating the economy, more
 growth still means more shit. As in **physical shit**, goods and
 materials, leading to resource extraction, a plundered planet. See
-[excerpts](../../2021/03/goods-materials-growth-hickel.md).
+[excerpts](../../2021/03/less-is-more-hickel.md).
 
 "Why does everyone want growth?"
 
