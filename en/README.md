@@ -55,8 +55,8 @@ hydrogen and ammonia production project in Paraguay with a capacity of
 ---
 
 Not just plant based stuff.. people will burn whatever, wood, cheap
-coal.. They'll burn f-ing cow dung. And that shit (!) has lota methane
-my friend
+coal.. They'll burn bleeping cow dung. And that shit (!) has lota
+methane my friend
 
 ---
 
