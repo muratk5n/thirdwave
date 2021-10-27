@@ -26,21 +26,6 @@ rushed schedules"
 
 ---
 
-"Plans for the UK’s first hydrogen distribution pipeline have taken a
-significant step forward"
-
-[[-]](https://www.h2-view.com/story/uks-first-hydrogen-distribution-pipeline-one-step-closer-to-reality/)
-
----
-
-"UK-based [AEE] is set to develop a brand new large-scale green
-hydrogen and ammonia production project in Paraguay with a capacity of
-50MW by the end of 2024"
-
-[[-]](https://www.h2-view.com/story/atome-energy-to-develop-a-large-scale-green-hydrogen-and-ammonia-production-project-in-paraguay/)
-
----
-
 TDB: "It has been a summer of scrutiny for the ultra-rich—and now the
 billionaires are fighting amongst themselves. The culprit: a so-called
 'Billionaire Income Tax', that Democrats in Congress are reportedly
@@ -53,6 +38,21 @@ wealth, and then they take loans against that to live on. And that's
 tax free. And I think it’s bullshit' [.. one] said"
 
 [[-]](https://www.thedailybeast.com/billionaires-blast-wealth-tax-one-way-ticket-to-venezuela)
+
+---
+
+"Plans for the UK’s first hydrogen distribution pipeline have taken a
+significant step forward"
+
+[[-]](https://www.h2-view.com/story/uks-first-hydrogen-distribution-pipeline-one-step-closer-to-reality/)
+
+---
+
+"UK-based [AEE] is set to develop a brand new large-scale green
+hydrogen and ammonia production project in Paraguay with a capacity of
+50MW by the end of 2024"
+
+[[-]](https://www.h2-view.com/story/atome-energy-to-develop-a-large-scale-green-hydrogen-and-ammonia-production-project-in-paraguay/)
 
 ---
 
