@@ -11,8 +11,8 @@ Sixfold Performance Gains"
 ---
 
 No I dont judge Baldwin for using guns in movies.. There is no
-'gotcha' here. Reagan, a conservative, used a gun on the big screen,
-and he was for gun control. Films are escapism. 
+'gotcha' here. Reagan, a conservative, used guns on the big screen,
+and he was for gun control. Films are escapism.
 
 ---
 
