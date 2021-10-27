@@ -73,8 +73,7 @@ Report shows 90% carbon capture rates both for coal and natgas.
 
 US DOE: "Steam reforming of natural gas for hydrogen production costs
 vary from 1.43/kg to 2.27/kg [dollars] with CO2 capture and storage
-(CCS) and are highly dependent on the delivered natural gas
-price. Numerous studies report the cost of hydrogen from gasification
+(CCS).. Numerous studies report the cost of hydrogen from gasification
 [from coal] to vary between 1.16/kg and 1.63/ kg for coal and between
 1.31/kg and 2.06/kg for coal/biomass/waste plastic with CO2 capture
 and storage"
