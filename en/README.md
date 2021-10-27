@@ -46,9 +46,9 @@ significant step forward"
 
 ---
 
-"UK-based [ATOME Energy] is set to develop a brand new large-scale
-green hydrogen and ammonia production project in Paraguay with a
-capacity of 50MW by the end of 2024"
+"UK-based ATOME Energy is set to develop a brand new large-scale green
+hydrogen and ammonia production project in Paraguay with a capacity of
+50MW by the end of 2024"
 
 [[-]](https://www.h2-view.com/story/atome-energy-to-develop-a-large-scale-green-hydrogen-and-ammonia-production-project-in-paraguay/)
 
