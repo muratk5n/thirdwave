@@ -16,11 +16,10 @@ and he was for gun control. Films are escapism.
 
 ---
 
-"[A] Wilmington-based armorer with a decade’s experience in
-film.. said he has anticipated an accident, such as the one on the set
-of 'Rust,' for six months. The demand for content, stemming from a
-rise in streaming platforms, has productions working under tight and
-rushed schedules"
+"[An] armorer with a decade’s experience in film.. said he has
+anticipated an accident, such as the one on the set of 'Rust,' for six
+months. The demand for content, stemming from a rise in streaming
+platforms, has productions working under tight and rushed schedules"
 
 [[-]](https://portcitydaily.com/local-news/2021/10/22/alec-baldwin-accidental-on-set-shooting-conjures-local-memories-of-wilmington-filmed-the-crow/)
 
