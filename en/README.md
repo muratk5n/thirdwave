@@ -64,9 +64,10 @@ my friend
 
 People in Northern Syria use olive oil extract to make a flammable
 [product](https://www.thenationalnews.com/mena/syria/2021/10/18/syrian-workers-use-olive-oil-to-make-eco-friendly-pomace-wood-in-pictures/)
-for heating. I bet stuff like this contributes a lot to the CO2 uptick
-during the winters. Lay in the pipe for these places for renewable
-gas, or send canisters, make'm cheap, done.
+for heating (by "eco-friendly" they mean that carbon neutralness
+again, but still it is harmful). I bet stuff like this contributes a
+lot to the CO2 uptick during the winters. Lay in the pipe for these
+places for renewable gas, or send canisters, make'm cheap, done.
 
 ---
 
