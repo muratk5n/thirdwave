@@ -16,7 +16,7 @@
 
 [On the Phenomenon of Bullshit Jobs](03/bullshit-jobs-article-graeber.md)
 
-[Less Is More](03/goods-materials-growth-hickel.md)
+[Less Is More](03/less-is-more-hickel.md)
 
 [The Power of Nations Code](03/power-of-nations-beckley-code.md)
 
