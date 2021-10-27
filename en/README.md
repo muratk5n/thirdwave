@@ -1,84 +1,105 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-"@amazingmap
 
-Amazingly comprehensive map of every country in the world that uses
-the MMDDYYYY format"
+CPUs still have some life left in them..
 
-<img width="340" src="https://pbs.twimg.com/media/FCedsRDWQAEoBFn?format=jpg&name=small"/>
+"ETH Zurich Team Unveils RISC-V-Based Snitch Processor, Boasts of
+Sixfold Performance Gains"
 
----
-
-Someone told the crew "get me some code!" they got it, but to make it
-look dense, "hi-tech" they removed the indentation. It's all for the
-looks right? Holywood...
-
-\#upgrade
+[[-]](https://www.hackster.io/news/eth-zurich-team-unveils-risc-v-based-snitch-processor-boasts-of-sixfold-performance-gains-a7d354622888)
 
 ---
 
-But the indentation is all wrong.. 🤣 Py wont work without the right
-indentation.
-
-\#upgrade
-
----
-
-And that's [Python](https://pbs.twimg.com/media/FCYkRHfXsAguw2Y?format=jpg&name=small) 🐍
-
-\#upgrade
+No I dont judge Baldwin for using guns in movies.. There is no
+'gotcha' here. Reagan, a conservative, used a gun on the big screen,
+and he was for gun control. Films are escapism. 
 
 ---
 
-Saw guy type `sudo shutdown -h now` on screen 
+"Charly Coleman, a Wilmington-based armorer with a decade’s experience
+in film.. said he has anticipated an accident, such as the one on the
+set of 'Rust,' for six months. The demand for content, stemming from a
+rise in streaming platforms, has productions working under tight and
+rushed schedules"
 
-\#upgrade \#unix \#geek
-
----
-
-Recommender chose *Upgrade* 2018. Fine mov.. Obviously, technically,
-beyond the realm of possibility given the direction of curr tech but
-hey -- good cinema
+[[-]](https://portcitydaily.com/local-news/2021/10/22/alec-baldwin-accidental-on-set-shooting-conjures-local-memories-of-wilmington-filmed-the-crow/)
 
 ---
 
-Oz Net Zero Plan. Heavy on clean fuel usage.
+"Plans for the UK’s first hydrogen distribution pipeline have taken a
+significant step forward"
 
-[Summary](https://www.industry.gov.au/sites/default/files/October%202021/document/the-plan-to-deliver-net-zero-the-australian-way.pdf),
-[Doc](https://www.industry.gov.au/sites/default/files/October%202021/document/australias-long-term-emissions-reduction-plan.pdf)
-
----
-
-Military Deployment [stats](2019/05/confstats.md#gdtroop)
+[[-]](https://www.h2-view.com/story/uks-first-hydrogen-distribution-pipeline-one-step-closer-to-reality/)
 
 ---
 
-"@LucasKunceMO
+"UK-based [AEE] is set to develop a brand new large-scale green
+hydrogen and ammonia production project in Paraguay with a capacity of
+50MW by the end of 2024"
 
-They call this a 'free market' — I call it a cartel"
-
-<img width="340" src="https://pbs.twimg.com/media/FCZ0caPWQA4j1b1?format=png&name=small"/>
-
----
-
-Too many extra dickwads in NATO, EU is partly going its own way?
-
-"Five European countries propose EU rapid reaction force"
+[[-]](https://www.h2-view.com/story/atome-energy-to-develop-a-large-scale-green-hydrogen-and-ammonia-production-project-in-paraguay/)
 
 ---
 
-🤣 🤣 🤣 
+TDB: "It has been a summer of scrutiny for the ultra-rich—and now the
+billionaires are fighting amongst themselves. The culprit: a so-called
+'Billionaire Income Tax', that Democrats in Congress are reportedly
+mulling to help finance Biden’s agenda. The proposal would only target
+several hundred of the wealthiest Americans by taxing the rising
+values of certain assets, like stocks, even before they are sold...
 
-AP: "The phrase 'Let’s go Brandon' refers to a meme that emerged
-earlier this month from a video of an interview with NASCAR driver
-Brandon Brown after he won an Xfinity Series race at Alabama’s
-Talladega Superspeedway.
+'I know a lot of people that… have accumulated massive, massive
+wealth, and then they take loans against that to live on. And that's
+tax free. And I think it’s bullshit' [.. one] said"
 
-A reporter said on air that fans behind him were chanting 'Let’s go
-Brandon,' when video footage indicates the actual chant was 'F--- Joe
-Biden.' Some people have suggested the reporter purposefully
-misinterpreted the crowd’s chant and the quote has become a
-catchphrase among critics of Biden"
+[[-]](https://www.thedailybeast.com/billionaires-blast-wealth-tax-one-way-ticket-to-venezuela)
+
+---
+
+Not just plant based stuff.. people will burn whatever, wood, cheap
+coal.. They'll burn f-ing cow dung. And that shit (!) has lota methane
+my friend
+
+---
+
+People in Northern Syria use olive oil extract to make a flammable
+[product](https://www.thenationalnews.com/mena/syria/2021/10/18/syrian-workers-use-olive-oil-to-make-eco-friendly-pomace-wood-in-pictures/)
+for heating. I bet stuff like this contributes a lot to the CO2 uptick
+during the winters. Lay in the pipe for these places for renewable
+gas, or send canisters, make'm cheap, done.
+
+---
+
+Report shows 90% carbon capture rates both for coal and natgas. 
+
+US DOE: "Steam reforming of natural gas for hydrogen production costs
+vary from 1.43/kg to 2.27/kg [dollars] with CO2 capture and storage
+(CCS) and are highly dependent on the delivered natural gas
+price. Numerous studies report the cost of hydrogen from gasification
+[from coal] to vary between 1.16/kg and 1.63/ kg for coal and between
+1.31/kg and 2.06/kg for coal/biomass/waste plastic with CO2 capture
+and storage"
+
+[[PDF]](https://www.energy.gov/sites/prod/files/2020/07/f76/USDOE_FE_Hydrogen_Strategy_July2020.pdf)
+
+---
+
+In 2019, EU's gross electricity production was 2904 TWh. In output
+capacity terms,
+
+```python
+"%d GW" % (2904000 / 365.0 / 24)
+```
+
+```text
+Out[1]: '331 GW'
+```
+
+The planned H2 capacity compares well with the number above.. The plan
+will likely encourage others to jump in, it wld be great to equal that
+331 GW. 
+
+Green Tech Media: "The EU wants 40 gigawatts of electrolyzers installed within its borders by 2030"
 
 ---
 

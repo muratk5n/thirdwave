@@ -1,5 +1,87 @@
 # Week 43
 
+"@amazingmap
+
+Amazingly comprehensive map of every country in the world that uses
+the MMDDYYYY format"
+
+<img width="340" src="https://pbs.twimg.com/media/FCedsRDWQAEoBFn?format=jpg&name=small"/>
+
+---
+
+Someone told the crew "get me some code!" they got it, but to make it
+look dense, "hi-tech" they removed the indentation. It's all for the
+looks right? Holywood...
+
+\#upgrade
+
+---
+
+But the indentation is all wrong.. 🤣 Py wont work without the right
+indentation.
+
+\#upgrade
+
+---
+
+And that's [Python](https://pbs.twimg.com/media/FCYkRHfXsAguw2Y?format=jpg&name=small) 🐍
+
+\#upgrade
+
+---
+
+Saw guy type `sudo shutdown -h now` on screen 
+
+\#upgrade \#unix \#geek
+
+---
+
+Recommender chose *Upgrade* 2018. Fine mov.. Obviously, technically,
+beyond the realm of possibility given the direction of curr tech but
+hey -- good cinema
+
+---
+
+Oz Net Zero Plan. Heavy on clean fuel usage.
+
+[Summary](https://www.industry.gov.au/sites/default/files/October%202021/document/the-plan-to-deliver-net-zero-the-australian-way.pdf),
+[Doc](https://www.industry.gov.au/sites/default/files/October%202021/document/australias-long-term-emissions-reduction-plan.pdf)
+
+---
+
+Military Deployment [stats](2019/05/confstats.md#gdtroop)
+
+---
+
+"@LucasKunceMO
+
+They call this a 'free market' — I call it a cartel"
+
+<img width="340" src="https://pbs.twimg.com/media/FCZ0caPWQA4j1b1?format=png&name=small"/>
+
+---
+
+Too many extra dickwads in NATO, EU is partly going its own way?
+
+"Five European countries propose EU rapid reaction force"
+
+---
+
+🤣 🤣 🤣 
+
+AP: "The phrase 'Let’s go Brandon' refers to a meme that emerged
+earlier this month from a video of an interview with NASCAR driver
+Brandon Brown after he won an Xfinity Series race at Alabama’s
+Talladega Superspeedway.
+
+A reporter said on air that fans behind him were chanting 'Let’s go
+Brandon,' when video footage indicates the actual chant was 'F--- Joe
+Biden.' Some people have suggested the reporter purposefully
+misinterpreted the crowd’s chant and the quote has become a
+catchphrase among critics of Biden"
+
+---
+
 "@GoodPoliticGuy
 
 Capitalists will literally expand child labor before offering people living wages
