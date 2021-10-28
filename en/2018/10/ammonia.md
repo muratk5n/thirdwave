@@ -29,11 +29,11 @@ and use H2 fuel cells for power. Some are also looking at ammonia fuel
 cells to use NH3 directly in the FC. No carbon emissions in either
 case.
 
-Exciting possibilities.
+References
 
-Links
+[Ammonia as fuel](https://youtu.be/5ejL65tKsGM)
 
-[Ammonia as fuel](https://youtu.be/5ejL65tKsGM) info from Japan, various parts on
-[direct combustion](https://youtu.be/5ejL65tKsGM?t=107)
-and [fuel-cells (solid oxide FC)](https://youtu.be/5ejL65tKsGM?t=452).
+Info from Japan on [direct combustion](https://youtu.be/5ejL65tKsGM?t=107)
+
+[Solid-oxide Ammonia Fuel-Cell)](https://youtu.be/5ejL65tKsGM?t=452).
 
