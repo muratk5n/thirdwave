@@ -4,7 +4,6 @@ Sea surface has lots of potential.. That "hotspot" area on the Pacific, is at
 roughly latitude -10.0 longitude -120.0, [map](https://pbs.twimg.com/media/FCtt8adWEAEC8yi?format=png&name=small).
 Floating panels? Ship green ammonia, H2 from there to South America, or to Japan.
 
-
 ---
 
 "Pakistan will gain its first green #hydrogen production facility"
@@ -13,16 +12,17 @@ Floating panels? Ship green ammonia, H2 from there to South America, or to Japan
 
 ---
 
-"Hydrogen station network of up to 25 refuelling sites is set to be
-developed across the UK by 2030 as a result of a new agreement inked..
-between @bp and @DaimlerTruck"
+"[N]etwork of up to 25 refuelling sites is set to be developed across
+the UK by 2030 as a result of a new agreement inked..  between @bp and
+@DaimlerTruck" \#H2
 
 [[-]](https://www.h2-view.com/story/daimler-truck-bp-unveil-hydrogen-network-plans-for-the-uk/)
 
 ---
 
-There are only few places where intense solar exposure happens to fall
-on land. Africa (Chad, Sudan), Southwest China, Saudi Arabia, and Oz.
+There are only few places where intense solar exposure (dark red)
+happens to fall on land. Africa (Chad, Sudan), Southwest China, Saudi
+Arabia, and Oz.
 
 ---
 
