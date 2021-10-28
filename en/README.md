@@ -1,19 +1,5 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-Sea surface has lots of potential.. That "hotspot" area on the Pacific, is at
-roughly latitude -10.0 longitude -120.0, [map](https://pbs.twimg.com/media/FCtt8adWEAEC8yi?format=png&name=small).
-Floating panels? Ship green ammonia, H2 from there to South America, or to Japan.
-
----
-
-If carbon pricing can be made to work, how about "material usage
-pricing"?  According to the rarity of materials used, price goes up or
-down... Does it makes no sense to "go green" if the country of Chile,
-or Bolivia gets destroyed [[1](2021/03/less-is-more-hickel.md#decouple), [2](2021/10/the-rare-metals-war.md)]
-in the process?
-
----
-
 "Pakistan will gain its first green #hydrogen production facility"
 
 [[-]](https://www.h2-view.com/story/powerchina-international-oracle-power-sign-agreement-for-pakistans-first-hydrogen-production-facility/)
@@ -25,6 +11,20 @@ the UK by 2030 as a result of a new agreement inked..  between @bp and
 @DaimlerTruck" \#H2
 
 [[-]](https://www.h2-view.com/story/daimler-truck-bp-unveil-hydrogen-network-plans-for-the-uk/)
+
+---
+
+Sea surface has lots of potential.. That "hotspot" area on the Pacific, is at
+roughly latitude -10.0 longitude -120.0, [map](https://pbs.twimg.com/media/FCtt8adWEAEC8yi?format=png&name=small).
+Floating panels? Ship green ammonia, H2 from there to South America, or to Japan.
+
+---
+
+If carbon pricing can be made to work, how about "material usage
+pricing"?  According to the rarity of materials used, price goes up or
+down... Does it makes no sense to "go green" if the country of Chile,
+or Bolivia gets destroyed [[1](2021/03/less-is-more-hickel.md#decouple), [2](2021/10/the-rare-metals-war.md)]
+in the process?
 
 ---
 
