@@ -105,7 +105,7 @@ Solar panels
 
 Sun energy falling on Earth 
 
-1000 W/m2
+300 W/m2
 
 Solar panel efficiency is 20%
 

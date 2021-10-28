@@ -22,9 +22,9 @@ Floating panels? Ship green ammonia, H2 from there to South America, or to Japan
 
 If carbon pricing can be made to work, how about "material usage
 pricing"?  According to the rarity of materials used, price goes up or
-down... Does it makes no sense to "go green" if the country of Chile,
-or Bolivia gets destroyed [[1](2021/03/less-is-more-hickel.md#decouple), [2](2021/10/the-rare-metals-war.md)]
-in the process?
+down... Does it make sense to "go green" if the country of Chile, or
+Bolivia gets destroyed [[1](2021/03/less-is-more-hickel.md#decouple),
+[2](2021/10/the-rare-metals-war.md)] in the process?
 
 ---
 
