@@ -6,6 +6,14 @@ Floating panels? Ship green ammonia, H2 from there to South America, or to Japan
 
 ---
 
+If carbon pricing can be made to work, how about "material usage
+pricing"?  According to the rarity of materials used, price goes up or
+down... Does it makes no sense to "go green" if the country of Chile,
+or Bolivia gets destroyed [[1](2021/03/less-is-more-hickel.md#decouple), [2](2021/10/the-rare-metals-war.md)]
+in the process?
+
+---
+
 "Pakistan will gain its first green #hydrogen production facility"
 
 [[-]](https://www.h2-view.com/story/powerchina-international-oracle-power-sign-agreement-for-pakistans-first-hydrogen-production-facility/)
@@ -48,17 +56,9 @@ Same vid talks about an ammonia fuel-cell prototype
 
 ---
 
-When we commit to a simple, efficient base chemistry, the options are
-multiple.. Transport green ammonia, "crack it" to get H2. Or combust
+Commit to a simple, efficient base chemistry, options are
+multiply.. Transport green ammonia, "crack it" to get H2. Or combust
 it for turbines. Japan [has the technology](https://youtu.be/5ejL65tKsGM?t=107).
-
----
-
-If carbon pricing can be made to work, how about "material usage
-pricing"?  According to the rarity of materials used, price goes up or
-down... Does it makes no sense to "go green" if the country of Chile,
-or Bolivia gets destroyed [[1](2021/03/less-is-more-hickel.md#decouple), [2](2021/10/the-rare-metals-war.md)]
-in the process?
 
 ---
 
