@@ -56,9 +56,9 @@ Same vid talks about an ammonia fuel-cell prototype
 
 ---
 
-Commit to a simple, efficient base chemistry, options 
-multiply.. Transport green ammonia, "crack it" to get H2. Or combust
-it for turbines. Japan [has the technology](https://youtu.be/5ejL65tKsGM?t=107).
+Commit to a simple, efficient base chemistry, options multiply.. We
+transport green ammonia, on the other end "crack it", get H2. Or
+combust it for turbines. Japan [has the technology](https://youtu.be/5ejL65tKsGM?t=107).
 
 ---
 
