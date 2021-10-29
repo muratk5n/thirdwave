@@ -28,9 +28,9 @@ testimony, but it also couldn’t have happened"
 
 ---
 
-"@HypersonixAU has placed an order with Amiga Engineering
-(@Australia3d) to manufacture a new 3D printed, hydrogen-powered
-scramjet engine to support clean emissions in the aerospace industry"
+"@HypersonixAU has placed an order with .. @Australia3d to manufacture
+a new 3D printed, hydrogen-powered scramjet engine to support clean
+emissions in the aerospace industry"
 
 [[-]](https://www.h2-view.com/story/hypersonix-places-order-to-manufacture-a-3d-printed-hydrogen-powered-scramjet/)
 
