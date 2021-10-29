@@ -1,64 +1,73 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-"Pakistan will gain its first green #hydrogen production facility"
+The Intercept: "By 2013, the Obama administration had concluded that
+it could not charge WikiLeaks or Julian Assange with crimes related to
+publishing classified documents — documents that showed, among other
+things, evidence of U.S. war crimes in Iraq and Afghanistan — without
+criminalizing investigative journalism itself. [.. DOJ] called this
+the “New York Times problem,” because if WikiLeaks and Assange were
+criminals for publishing classified information, the New York Times
+would be just as guilty.
 
-[[-]](https://www.h2-view.com/story/powerchina-international-oracle-power-sign-agreement-for-pakistans-first-hydrogen-production-facility/)
+Five years later, in 2018, the Trump administration indicted Assange
+anyway. But, rather than charging him with espionage for publishing
+classified information, they charged him with conspiracy to commit a
+computer crime..
 
----
+The alleged hacking not only didn’t happen, according to expert
+testimony, but it also couldn’t have happened"
 
-"[N]etwork of up to 25 refuelling sites is set to be developed across
-the UK by 2030 as a result of a new agreement inked..  between @bp and
-@DaimlerTruck" \#H2
-
-[[-]](https://www.h2-view.com/story/daimler-truck-bp-unveil-hydrogen-network-plans-for-the-uk/)
-
----
-
-Sea surface has lots of potential.. That "hotspot" area on the Pacific, is at
-roughly latitude -10.0 longitude -120.0, [map](https://pbs.twimg.com/media/FCtt8adWEAEC8yi?format=png&name=small).
-Floating panels? Ship green ammonia, H2 from there to South America, or to Japan.
-
----
-
-If carbon pricing can be made to work, how about "material usage
-pricing"?  According to the rarity of materials used, price goes up or
-down... Does it make sense to "go green" if the country of Chile, or
-Bolivia gets destroyed [[1](2021/03/less-is-more-hickel.md#decouple),
-[2](2021/10/the-rare-metals-war.md)] in the process?
+[[-]](https://theintercept.com/2020/09/30/assange-extradition-cfaa-hacking/)
 
 ---
 
-There are only few places where intense solar exposure (dark red)
-happens to fall on land. Africa (Chad, Sudan), Southwest China, Saudi
-Arabia, and Oz.
+"The UK hydrogen industry could see demands of 10TWh in 2030 and up to
+37TWh by 2050"
+
+[[-]](https://www.h2-view.com/story/report-uk-hydrogen-demand-predicted-to-be-37twh-by-2050)
 
 ---
 
-Average solar radiation map 1990 -2004, shows which regions get
-the most sunlight. Took it from McFarlane [presentation](https://youtu.be/gtmWGPaDkoI?t=367)
+"@HypersonixAU has placed an order with Amiga Engineering
+(@Australia3d) to manufacture a new 3D printed, hydrogen-powered
+scramjet engine to support clean emissions in the aerospace industry"
 
-<img width="340" src="https://pbs.twimg.com/media/FCtre5sWEAgFFp9?format=png&name=900x900"/>
-
----
-
-Prototech AS, a Norwegian company has solid NH3 know-how. Also Israeli
-GenCell. Notable researchers on the subject, Bill David at Oxford,
-D. MacFarlane at Oz Monash.
+[[-]](https://www.h2-view.com/story/hypersonix-places-order-to-manufacture-a-3d-printed-hydrogen-powered-scramjet/)
 
 ---
 
-Rudolf Diesel, before he made diesel engines, made ammonia engines. It
-almost became the shit
+AFP: "EU court fines Poland 1 million euros daily in judiciary row"
 
 ---
 
-Same vid talks about an ammonia fuel-cell prototype 
+"Fox News’s Neil Cavuto reveals his own viewers abused him in hate mail
+after he urged them to get vaccinated"
 
 ---
 
-Commit to a simple, efficient base chemistry, options multiply.. We
-transport green ammonia, on the other end "crack it", get H2. Or
-combust it for turbines. Japan [has the technology](https://youtu.be/5ejL65tKsGM?t=107).
+Many in the US right-wing like Hungary - and look at them.. Still
+fighting the good fight? Wanna die on that hill brother?
+
+Bloomberg: "Grappling with surging coronavirus cases and a stalled
+vaccination program, Hungary allowed companies to force staff to get a
+Covid-19 vaccine as a condition of employment"
+
+---
+
+Just the soccer fans?
+
+Al Monitor: "Israelis fed up with racist, anti-Muslim behavior of soccer fans"
+
+---
+
+The map shared [before](https://pbs.twimg.com/media/FCtre5sWEAgFFp9?format=png&name=small)
+says sunlight radiation at maximum is ~300 W/m2. The number
+used here until now was from Wikipedia, ~1000 W/m2,
+sun at its zenith, an ideal situation. For daily calculations you
+factor in sun availability, less direct sunlight, etc, you can
+probably arrive at the numbers seen in that map. For more
+accurate, region specific calculations that need a simple, daily
+number, I'd go with that map.
 
 ---
 
