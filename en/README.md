@@ -45,8 +45,7 @@ after he urged them to get vaccinated"
 
 ---
 
-Many in the US right-wing like Hungary - and look at them.. Still
-fighting the good fight? Wanna die on that hill brother?
+Many in the US right-wing like Hungary - and look at them.. 
 
 Bloomberg: "Grappling with surging coronavirus cases and a stalled
 vaccination program, Hungary allowed companies to force staff to get a
