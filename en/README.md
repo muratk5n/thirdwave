@@ -66,7 +66,7 @@ previously  ~1000 W/m2 is widely known, sun at its zenith, an ideal
 situation. For daily calculations you factor in sun availability,
 less direct sunlight, etc, you can probably arrive at the numbers
 seen in that map. For more accurate, region specific calculations
-that need a simple, daily number, I'd go with that map.
+that need a simple, daily number, I'd go with numbers there.
 
 ---
 
