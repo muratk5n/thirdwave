@@ -61,13 +61,12 @@ Al Monitor: "Israelis fed up with racist, anti-Muslim behavior of soccer fans"
 ---
 
 The map shared [before](https://pbs.twimg.com/media/FCtre5sWEAgFFp9?format=png&name=small)
-says sunlight radiation at maximum is ~300 W/m2. The number
-we used before is widely known, Wikipedia has it too, ~1000 W/m2,
-sun at its zenith, an ideal situation. For daily calculations you
-factor in sun availability, less direct sunlight, etc, you can
-probably arrive at the numbers seen in that map. For more
-accurate, region specific calculations that need a simple, daily
-number, I'd go with that map.
+says sunlight radiation at maximum is ~300 W/m2. The number  ~1000 W/m2
+we used previously is widely known, sun at its zenith, an ideal
+situation. For daily calculations you factor in sun availability,
+less direct sunlight, etc, you can probably arrive at the numbers
+seen in that map. For more accurate, region specific calculations
+that need a simple, daily number, I'd go with that map.
 
 ---
 
