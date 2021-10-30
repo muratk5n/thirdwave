@@ -37,7 +37,7 @@ in a bid to expand its population"
 Forget OPEC, one day there will be OGFEC, Organization of Green Fuel
 Exporting Countries where Saudi Arabia and Australia will bicker on
 fuel production quotas as to not collapse the price, bcz there'll be
-so much of the stuff to go around... Let's get there.
+so much of the stuff to go around... If we make it that far.
 
 ---
 
