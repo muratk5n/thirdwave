@@ -1,71 +1,81 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-The Intercept: "By 2013, the Obama administration had concluded that
-it could not charge WikiLeaks or Julian Assange with crimes related to
-publishing classified documents — documents that showed, among other
-things, evidence of U.S. war crimes in Iraq and Afghanistan — without
-criminalizing investigative journalism itself. [.. DOJ] called this
-the “New York Times problem,” because if WikiLeaks and Assange were
-criminals for publishing classified information, the New York Times
-would be just as guilty.
+I will laugh my ass off if militaries get involved in this debacle
 
-Five years later, in 2018, the Trump administration indicted Assange
-anyway. But, rather than charging him with espionage for publishing
-classified information, they charged him with conspiracy to commit a
-computer crime..
-
-The alleged hacking not only didn’t happen, according to expert
-testimony, but it also couldn’t have happened"
-
-[[-]](https://theintercept.com/2020/09/30/assange-extradition-cfaa-hacking/)
+"PM Johnson vows to defend UK interests in French fishing row"
 
 ---
 
-"The UK hydrogen industry could see demands of 10TWh in 2030 and up to
-37TWh by 2050"
+They likely went to Mexico
 
-[[-]](https://www.h2-view.com/story/report-uk-hydrogen-demand-predicted-to-be-37twh-by-2050)
-
----
-
-"@HypersonixAU has placed an order with .. @Australia3d to manufacture
-a new 3D printed, hydrogen-powered scramjet engine to support clean
-emissions in the aerospace industry"
-
-[[-]](https://www.h2-view.com/story/hypersonix-places-order-to-manufacture-a-3d-printed-hydrogen-powered-scramjet/)
+"Texas abortion numbers halved in month after ban took effect"
 
 ---
 
-AFP: "EU court fines Poland 1 million euros daily in judiciary row"
+Hah. Goodbye FAANG, welcome MAANG, or MAMAA (MS, Alphabet, Meta, Apple
+and Amazon)
+
+\#madmoney
 
 ---
 
-"Fox News’s Neil Cavuto reveals his own viewers abused him in hate mail
-after he urged them to get vaccinated"
+Saw a new hashtag \#DeleteMeta
 
 ---
 
-Many in the US right-wing like Hungary - and look at them.. 
-
-Bloomberg: "Grappling with surging coronavirus cases and a stalled
-vaccination program, Hungary allowed companies to force staff to get a
-Covid-19 vaccine as a condition of employment"
+\#Software \#Nerd Hey I like this new build system [meson](http://mesonbuild.com/)
+and [ninja](https://ninja-build.org/). It was only a matter of time `make`
+was replaced with a 🐍 based version, the snake excels at playing w files anyway.
 
 ---
 
-Just the soccer fans?
-
-Al Monitor: "Israelis fed up with racist, anti-Muslim behavior of soccer fans"
+"Hellishly Hot Tiny [AU] Town Offered ‘Free’ Land...  The town in
+Australia’s outback, where the temperature can hit 113 degrees
+Fahrenheit, drew hundreds of global inquiries when it put out the call
+in a bid to expand its population"
 
 ---
 
-The map shared [before](https://pbs.twimg.com/media/FCtre5sWEAgFFp9?format=png&name=small)
-says sunlight radiation at maximum is ~300 W/m2. The number we used
-previously  ~1000 W/m2 is widely known, sun at its zenith, an ideal
-situation. For daily calculations you factor in sun availability,
-less direct sunlight, etc, you can probably arrive at the numbers
-seen in that map. For more accurate, region specific calculations
-that need a simple, daily number, I'd go with the numbers there.
+Forget OPEC, one day there will be OGFEC, Organization of Green Fuel
+Exporting Countries where Saudi Arabia and Australia will bicker on
+fuel production quotas as to not collapse the price, bcz there'll be
+so much of the stuff to go around... Let's get there.
+
+---
+
+That small patch 250 km by 250 km can generate 25 Petawatt-hours
+in a year. More than enough for the entire world.
+From [vid](https://youtu.be/gtmWGPaDkoI?t=417).
+
+<img width="200" src="https://pbs.twimg.com/media/FCtvwEsXMAYg9Tp?format=png&name=small"/>
+
+---
+
+Politico: "Ron Wyden said he hoped Democrats could still find a way to
+address rising prescription drug costs but acknowledged the power the
+pharmaceutical industry has shown so far to prevent even modest
+changes"
+
+[[-]](https://www.politico.com/news/2021/10/28/democrats-drug-pricing-social-spending-517490)
+
+---
+
+"Qatar and Korea will expand cooperation in the field of hydrogen with
+@qatar_energy and #H2Korea signing a new framework agreement to
+support development of the hydrogen value chain"
+
+[[-]](https://www.h2-view.com/story/qatarenergy-h2korea-sign-agreement-to-expand-and-enhance-the-hydrogen-supply-chain/)
+
+---
+
+Dems cant propose new legislation for fear of SCOTUS reversal? Well,
+got noone to blame but yourself.. Al Dork got his ass kicked by Nader
+in Florida (2000) because he wasn't left enough.. Hillary lost due to
+adverse effects of long-Clintonism (kinda like long-Covid, but worse).
+In the past 40 years you were at least one President short, so now SC
+is stuffed with right-leaning judges. That should be no
+surprise.. Dems should have practiced more partisanship, less
+triangulation.
 
 ---
 
