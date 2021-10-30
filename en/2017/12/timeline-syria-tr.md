@@ -23,7 +23,7 @@ Timeline
      * 15/02 Kurdish-backed forces take Syrian town
      * 13/03 Ankara suicide bombing killed  37 people injured 125
      * 19/03 Suicide bomb kills 4 in shopping street in Istanbul
-     * 21/03 Iranian-TR businessman Zarrab implicated in earlier corruption scandal escapes to US possibly with a wealth of on TR gov officials
+     * 21/03 Iranian-TR businessman Zarrab implicated in earlier corruption scandal escapes to US possibly with a wealth of info on TR gov officials
      * 22/05 PM resigns due to ruling party infighting
      * 28/06 Airport attack, 45 people were killed 239 people injured in TR
      * 15/07 TR coup attempt
@@ -31,8 +31,8 @@ Timeline
      * 19/12 Russian Ambassador to TR assasinated
      * 22/12 Syria's government recaptures all of Aleppo city
    * 2017
-     * 16/03 Referendum grants new powers to President
      * 01/01 Nightclub terrorist attack in TR leaves 39 dead
+     * 16/03 Referendum grants new powers to President
    * 2018
      * 19/01 TR invades Afrin a Kurdish-controlled region
      * 25/06 Sitting President reelected
