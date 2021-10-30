@@ -221,14 +221,13 @@ References
 
 [8] [Hydrogen Insights](https://hydrogencouncil.com/wp-content/uploads/2021/02/Hydrogen-Insights-2021-Report.pdf)
 
-[9] Energy Central, https://energycentral.com/c/ec/grid-efficiency-opportunity-reduce-emissions
+[9] [Energy Central](https://energycentral.com/c/ec/grid-efficiency-opportunity-reduce-emissions)
 
-[10] https://home.howstuffworks.com/gas-vs-electric-stoves.htm
+[10] [Howstwuffworks](https://home.howstuffworks.com/gas-vs-electric-stoves.htm)
 
-[11] https://gasforclimate2050.eu/wp-content/uploads/2020/07/2020_European-Hydrogen-Backbone_Report.pdf
+[11] [2020 _European Hydrogen Backbone Report](https://gasforclimate2050.eu/wp-content/uploads/2020/07/2020_European-Hydrogen-Backbone_Report.pdf)
 
-[12] https://www.sciencedirect.com/science/article/abs/pii/S0306261919318227
+[12] [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0306261919318227)
 
-[13] https://www.researchgate.net/publication/301254520_Underground_and_pipeline_hydrogen_storage
+[13] [Underground and pipeline hydrogen storage](https://www.researchgate.net/publication/301254520_Underground_and_pipeline_hydrogen_storage)
 
-3
