@@ -72,12 +72,12 @@ support development of the hydrogen value chain"
 ---
 
 Dems cant propose new legislation for fear of SCOTUS reversal? Well,
-got noone to blame but yourself.. Al Dork got his ass kicked by Nader
-in Florida (2000) because he wasn't left enough.. Hillary lost due to
-adverse effects of long-Clintonism (kinda like long-Covid, but worse).
-In the past 40 years you were at least one President short, so now SC
-is stuffed with right-leaning judges. That should be no
-surprise.. Dems should have practiced more partisanship, less
+got noone to blame but yourself.. Al Dork got his ass kicked in
+Florida (2000) thanks to Nader because he wasn't left enough.. Hillary
+lost due to adverse effects of long-Clintonism (kinda like long-Covid,
+but worse).  In the past 40 years you were at least one President
+short, so now SC is stuffed with right-leaning judges. That should be
+no surprise.. Dems should have practiced more partisanship, less
 triangulation.
 
 ---
