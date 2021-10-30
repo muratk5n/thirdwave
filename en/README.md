@@ -1,8 +1,6 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-I will laugh my ass off if militaries get involved in this debacle
-
-"PM Johnson vows to defend UK interests in French fishing row"
+The Guardian: "Cop26: Humanity 5-1 down at half-time on climate crisis, says Johnson"
 
 ---
 
@@ -57,6 +55,12 @@ pharmaceutical industry has shown so far to prevent even modest
 changes"
 
 [[-]](https://www.politico.com/news/2021/10/28/democrats-drug-pricing-social-spending-517490)
+
+---
+
+I will laugh my ass off if militaries get involved in this debacle
+
+"PM Johnson vows to defend UK interests in French fishing row"
 
 ---
 
