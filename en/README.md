@@ -27,7 +27,7 @@ was replaced with a 🐍 based version, the snake excels at playing w files anyw
 
 ---
 
-"Hellishly Hot Tiny [AU] Town Offered ‘Free’ Land...  The town in
+NYT: "Hellishly Hot Tiny [AU] Town Offered ‘Free’ Land...  The town in
 Australia’s outback, where the temperature can hit 113 degrees
 Fahrenheit, drew hundreds of global inquiries when it put out the call
 in a bid to expand its population"
