@@ -58,9 +58,8 @@ changes"
 
 ---
 
-I will laugh my ass off if militaries get involved in this debacle
-
-"PM Johnson vows to defend UK interests in French fishing row"
+France-UK fishing row.. I will laugh my ass off if militaries get
+involved in this debacle
 
 ---
 
