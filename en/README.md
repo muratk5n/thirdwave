@@ -41,9 +41,9 @@ so much of the stuff to go around... If we make it that far.
 
 ---
 
-That small patch 250 km by 250 km can generate 25 Petawatt-hours
-in a year. More than enough for the entire world.
-From [vid](https://youtu.be/gtmWGPaDkoI?t=417).
+That patch of 250 km by 250 km can generate 25 Petawatt-hours in a
+year. More than enough for the entire world.  From
+[vid](https://youtu.be/gtmWGPaDkoI?t=417).
 
 <img width="200" src="https://pbs.twimg.com/media/FCtvwEsXMAYg9Tp?format=png&name=small"/>
 
