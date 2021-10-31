@@ -1,87 +1,31 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-The Guardian: "Cop26: Humanity 5-1 down at half-time on climate crisis, says Johnson"
+Good good
+
+"Bipartisan package unveiled to support hydrogen technologies"
+
+[[-]](https://www.h2-view.com/story/bipartisan-package-unveiled-to-support-hydrogen-technologies/)
 
 ---
 
-They likely went to Mexico
-
-"Texas abortion numbers halved in month after ban took effect"
+"EU to push rich countries to increase climate funding for poorer nations at COP26"
 
 ---
 
-Hah. Goodbye FAANG, welcome MAANG, or MAMAA (MS, Alphabet, Meta, Apple
-and Amazon)
-
-\#madmoney
+AFP: "G20 leaders approve global tax reform deal"
 
 ---
 
-Saw a new hashtag \#DeleteMeta
+Politico: "Tish James took on Cuomo, Trump and the NRA. Now she's
+running for governor of New York"
+
+[[-]](https://www.politico.com/states/new-york/city-hall/story/2021/10/29/she-took-on-cuomo-trump-and-the-nra-now-tish-james-wants-to-be-governor-1392133)
 
 ---
 
-\#Software \#Nerd Hey I like this new build system [meson](http://mesonbuild.com/)
-and [ninja](https://ninja-build.org/). It was only a matter of time `make`
-was replaced with a 🐍 based version, the snake excels at playing w files anyway.
-
----
-
-NYT: "Hellishly Hot Tiny [AU] Town Offered ‘Free’ Land...  The town in
-Australia’s outback, where the temperature can hit 113 degrees
-Fahrenheit, drew hundreds of global inquiries when it put out the call
-in a bid to expand its population"
-
----
-
-Forget OPEC, one day there will be OGFEC, Organization of Green Fuel
-Exporting Countries where Saudi Arabia and Australia will bicker on
-fuel production quotas as to not collapse the price, bcz there'll be
-so much of the stuff to go around... If we make it that far.
-
----
-
-That patch of 250 km by 250 km can generate 25 Petawatt-hours in a
-year. More than enough for the entire world.  From
-[vid](https://youtu.be/gtmWGPaDkoI?t=417).
-
-<img width="200" src="https://pbs.twimg.com/media/FCtvwEsXMAYg9Tp?format=png&name=small"/>
-
----
-
-Politico: "Ron Wyden said he hoped Democrats could still find a way to
-address rising prescription drug costs but acknowledged the power the
-pharmaceutical industry has shown so far to prevent even modest
-changes"
-
-[[-]](https://www.politico.com/news/2021/10/28/democrats-drug-pricing-social-spending-517490)
-
----
-
-France-UK fishing row.. I will laugh my ass off if militaries get
-involved in this debacle
-
----
-
-"Qatar and Korea will expand cooperation in the field of hydrogen with
-@qatar_energy and #H2Korea signing a new framework agreement to
-support development of the hydrogen value chain"
-
-[[-]](https://www.h2-view.com/story/qatarenergy-h2korea-sign-agreement-to-expand-and-enhance-the-hydrogen-supply-chain/)
-
----
-
-Al Dork got his ass kicked in Florida (2000) thanks to Nader because
-he wasn't left enough.. Hillary lost due to adverse effects of
-long-Clintonism (kinda like long-Covid, but worse). Dems should have
-practiced more partisanship, less triangulation.
-
----
-
-Dems cant propose new legislation for fear of SCOTUS reversal? Well,
-got noone to blame but yourself.. In the past 40 years you were at
-least one President short, so now SC is stuffed with right-leaning
-judges.
+Here's the deal. 0.86 kg lithium can store 1 kwh of energy. We need to
+be able to store 431 Terrawatt hours per day. But there is only 17
+million tonnes of reserves. Do the calculation...
 
 ---
 

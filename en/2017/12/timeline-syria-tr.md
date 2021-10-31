@@ -2,7 +2,8 @@
 
 Timeline
    * 2013
-     * 17/23 Corruption scandal implicating gov and its PM started, most thought police close to Gulen Brotherhood was behind it
+     * 28/03 Gezi park protests initially started to stop an urban development plan at a park turned into protest on secularism
+     * 17/12 Corruption scandal implicating gov and its PM started, most thought police close to Gulen Brotherhood was behind it
    * 2014
      * 19/01 A truck was stopped by TR jandarmee that was claimed to carry weapons for Al Qaida
      * 27/03 Voice recording with senior gov officials discussing starting a war with Syria through covert means leaked to Internet
