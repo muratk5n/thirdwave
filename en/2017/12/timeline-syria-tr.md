@@ -1,4 +1,4 @@
-# Timeline of Syria, TR, RU, US Related Events
+# Timeline of Syria, TR Events
 
 Timeline
    * 2012
