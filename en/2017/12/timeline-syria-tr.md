@@ -36,7 +36,8 @@ Timeline
      * 28/06 Airport attack, 45 people were killed 239 people injured in TR
      * 15/07 TR coup attempt
      * 17/08 TR announces interest in buying Russian S-400 defense system
-     * 20/08 TR military offensive into northern Syria starts 
+     * 20/08 A wedding is bombed killing 54 civilians and injured 94 in the southeastern TR city of Gaziantep many of whom are Kurdish, Syria connected jihadis were suspected
+     * 25/08 TR military offensive into northern Syria starts 
      * 19/12 Russian Ambassador to TR assasinated
      * 22/12 Syria's government recaptures all of Aleppo city
    * 2017
