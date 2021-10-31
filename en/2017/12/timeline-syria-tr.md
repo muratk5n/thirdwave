@@ -2,15 +2,15 @@
 
 Timeline
    * 2012
-     * 20/08 Obama said use of chemical weapons in Syria would cross a "red line"
+     * 20/08: Obama said use of chemical weapons in Syria would cross a "red line"
    * 2013
-     * 19/03 Chemical weapons attacks were reported in Syria’s two main cities, the Khan al-Assel neighborhood of Aleppo and the Damascus suburb of al-Atebeh
-     * 28/03 Gezi park protests initially started to stop an urban development plan at a park turned into protest on secularism
-     * 16/05 During TR visit Obama indirectly blames TR intel chief (and PM) with working with extreme jihadists
-     * 21/08 A rebel-held suburb of Damascus was attacked with sarin gas
-     * 31/08 Obama says he would seek an authorization for the use of force from Congress against Syria
-     * 09/09 Russia convinces Syria to hand over its stockpile to intl control averting US strike
-     * 17/12 Corruption scandal implicating TR gov and its PM started, most thought police close to Gulen Brotherhood was behind it
+     * 19/03: Chemical weapons attacks were reported in Syria’s two main cities, the Khan al-Assel neighborhood of Aleppo and the Damascus suburb of al-Atebeh
+     * 28/03: Gezi park protests initially started to stop an urban development plan at a park turned into protest on secularism
+     * 16/05: During TR visit Obama indirectly blames TR intel chief (and PM) with working with extreme jihadists
+     * 21/08: A rebel-held suburb of Damascus was attacked with sarin gas
+     * 31/08: Obama says he would seek an authorization for the use of force from Congress against Syria
+     * 09/09: Russia convinces Syria to hand over its stockpile to intl control averting US strike
+     * 17/12: Corruption scandal implicating TR gov and its PM started, most thought police close to Gulen Brotherhood was behind it
    * 2014
      * 19/01 A truck was stopped by TR jandarmee that was claimed to carry weapons for Al Qaida
      * 27/03 Voice recording with senior gov officials discussing starting a war with Syria through covert means leaked to Internet
