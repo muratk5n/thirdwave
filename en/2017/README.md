@@ -220,5 +220,5 @@
 
 ["Holy" Rome, First Wave, Religion](12/rome.md)
 
-[Timeline of Syria, TR, RU Events](12/timeline-syria-tr.md)
+[Timeline of Syria, TR Events](12/timeline-syria-tr.md)
 

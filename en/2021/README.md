@@ -60,6 +60,8 @@
 
 [Mission Economy](10/mission-economy.md)
 
+[Political Aspects of Full Employment](10/political-aspects-full-employment-kalecki.md)
+
 [The End of China’s Rise](10/the-end-of-chinas-rise-beckley.md)
 
 [The One Device](10/the-one-device-merchant.md)
