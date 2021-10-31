@@ -2,7 +2,7 @@
 
 Good good
 
-"Bipartisan package unveiled to support hydrogen technologies"
+"[US] bipartisan package unveiled to support hydrogen technologies"
 
 [[-]](https://www.h2-view.com/story/bipartisan-package-unveiled-to-support-hydrogen-technologies/)
 
