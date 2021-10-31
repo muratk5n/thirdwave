@@ -16,6 +16,27 @@ AFP: "G20 leaders approve global tax reform deal"
 
 ---
 
+"@Lexialex
+
+A Big Mac costs 50 cent less in Denmark where McDonald’s employees
+make $22 an hour and have 5 weeks of paid vacation
+
+'@thehill
+
+McDonald's hikes prices to offset wage increases, supply costs'"
+
+---
+
+Emission cheating f-ing Nazis
+
+"Volkswagen's underlying profits tumbled in the third quarter"
+
+---
+
+Good question by Varoufuckis - "Star Trek vs. The Matrix - What's Our Future"
+
+---
+
 Politico: "Tish James took on Cuomo, Trump and the NRA. Now she's
 running for governor of New York"
 
