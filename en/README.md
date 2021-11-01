@@ -70,9 +70,9 @@ greenhouses"
 ---
 
 This is why winter heating is a bigger problem than expected.. There
-is more livestock than people and they also need heating. We dont just
-sacrifice all the chickens before winter and grow new ones during
-summer, right? 
+is more livestock than people and they also need heating. Owners dont
+just sacrifice all the chickens before winter and grow new ones during
+summer, right?
 
 ---
 
