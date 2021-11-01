@@ -21,6 +21,11 @@ regional efforts during the American Revolution"
 
 ---
 
+This is why leadership matters and direct democracy in a modern
+setting cannot work.
+
+---
+
 One gent, a hack actually, hired by CATO, Jerry Taylor, was tasked
 with arguing against climate change on various media (but later
 changed his mind) offers great insight into public / voter decisions,
