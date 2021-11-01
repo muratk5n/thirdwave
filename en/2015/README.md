@@ -200,8 +200,6 @@
 
 [What if we had voted "YES"?](07/what-if-we-had-voted-yes.md)
 
-[#ironman](08/ironman.md)
-
 [#priceless](08/priceless.md)
 
 [Temperature Increase](08/temp-increase.md)
