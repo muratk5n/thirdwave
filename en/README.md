@@ -22,8 +22,7 @@ regional efforts during the American Revolution"
 ---
 
 This is why leadership matters and direct democracy in a modern
-setting cannot work. There is no wisdom in the "community". It's just
-bunch of dickwads.
+setting cannot work. There isn't much wisdom in the "community".
 
 ---
 
