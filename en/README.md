@@ -42,9 +42,9 @@ Thatcher, ditto
 
 ---
 
-HW, a Republican President talked abt the environment during his time,
-not surprising... Nixon founded the EPA after all. This is pre-culture-war
-days.
+Republican President HW talked abt the environment during his
+time. This is pre-culture-war days. not surprising... Nixon founded
+the EPA 
 
 \#theCampaignAgainstClimate
 
@@ -58,7 +58,7 @@ greenhouse effect, forget about the 'White House effect'"
 ---
 
 Fine docu, *The Campaign Against the Climate*. Saw it on Al
-Jazeera. Shows how climate change skeptics worked their black magic.
+Jazeera. Shows how climate change skeptics worked their magic.
 
 ---
 
