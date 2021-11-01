@@ -43,8 +43,7 @@ Thatcher, ditto
 ---
 
 Republican President HW talked abt the environment during his
-time. This is pre-culture-war days. not surprising... Nixon founded
-the EPA 
+time. This is pre-culture-war days. 
 
 \#theCampaignAgainstClimate
 
