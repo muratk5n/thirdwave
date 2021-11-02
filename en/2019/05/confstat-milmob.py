@@ -53,8 +53,8 @@ for x in list(countries['name']):
     if a == b: continue
     rlist.append([a,b])
     
-now = datetime.datetime.now()
-#now = datetime.datetime(2021,10,8)
+#now = datetime.datetime.now()
+now = datetime.datetime(2021,11,1)
 dfs = []
 
 clat,clon=33.01136975577918, 40.98527636859822

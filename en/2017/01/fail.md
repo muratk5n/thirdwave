@@ -1,3 +1,0 @@
-# #fail
-
-![](outf.jpg)

@@ -1,14 +1,8 @@
 # 2017
 
-[#ai](01/ai.md)
-
-[#ban](01/ban.md)
-
 [CalExit Measure Gets OK to Collect State Ballot Signatures](01/calexit-measure-gets-ok-to-collect.md)
 
 [#facepalm](01/facepalm.md)
-
-[#fail](01/fail.md)
 
 [Good Jobs](01/good-jobs.md)
 
