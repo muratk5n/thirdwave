@@ -21,7 +21,7 @@
   * 23/05: Istanbul airport with a mortar shell attack 1 person killed 
   * 07/06: TR ruling party loses majority as pro-Kurdish HDP gains seats
   * 30/06: Greece defaults on IMF debt spurring crisis, another bailout programme is signed, EU/Germany's image is a tough austerian
-  * 06/09: Mafia violence against newspaper Hurriyet triggered by government
+  * 06/09: Mafia violence against newspaper Hurriyet allegedly with government support
   * 08/09: Germany adopts an open-door policy to Syrian refugees, around 800K will eventually arrive in the country
   * 10/10: Suicide bomb attack Ankara bus station, 103 people lost their lives, 238 people
   * 01/11: Elections repeated, ruling party regains parliamentary majority following a 'shock' victory
@@ -47,7 +47,7 @@
   * 16/03: Referendum grants new powers to President
   * 25/07: TR signs deal to buy Russian S-400 defense system
 * 2018
-  * 19/01: TR invades Afrin a Kurdish-controlled region
+  * 19/01: TR invades Afrin a Kurdish-controlled region, Russia does not block Syria’s airspace indicating tacit support
   * 25/06: Sitting President reelected
   * 02/10: Jamal Khashoggi, a critic of Saudi Arabia's government, walked into the Saudi consulate in Istanbul and killed there
 * 2020
