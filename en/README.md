@@ -17,7 +17,9 @@ with it, fine, but nuke energy has an enormous waste storage problem.
 
 AFAIK, coal, NG can still work through CCS. Discourage its export, is
 transmission, the only thing that "moves" should be green
-molecules.
+molecules. The rest is renewable generation, either local who are rich
+of it like some are in oil, and they export that in molecules as well,
+H2 pipelines or ammonia.
 
 ---
 
