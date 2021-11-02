@@ -63,8 +63,8 @@ energy_daily = (157481. / (365)) * 1e9 # Kwh
 Out[1]: '4.60 percent'
 ```
 
-Only 5% of the energy need can be stored in batteries. This tech wont
-make a dent in fight against climate change.
+Only 5% of the energy need can be stored in batteries. That wont make
+a dent in the fight against climate change.
 
 ---
 
