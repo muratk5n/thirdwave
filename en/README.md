@@ -6,6 +6,21 @@ Rodney Crowell - Fate's Right Hand \#music
 
 ---
 
+It is odd China is experiencing power issues, electricity is getting
+cut, diesel, coal price is rising, yet their Southwest region has
+similar solar potential as Australia.
+
+---
+
+Nuclear isn't a panacea either.. For countries who have experience
+with it, fine, but nuke energy has an enormous waste storage problem.
+
+AFAIK, coal, NG can still work through CCS. Discourage its export, is
+transmission, the only thing that "moves" should be green
+molecules.
+
+---
+
 It's interesting how open to violence this region is, even after all
 these years; things get a little funky, troublemakers come out of the
 woodwork, as if on cue.
