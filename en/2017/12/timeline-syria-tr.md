@@ -47,6 +47,7 @@
 * 2018
   * 19/01: TR invades Afrin a Kurdish-controlled region
   * 25/06: Sitting President reelected
+  * 02/10: Jamal Khashoggi, a critic of Saudi Arabia's government, walked into the Saudi consulate in Istanbul and killed there
 * 2020
   * 27/02: Russia killed 33 TR soldiers by air strikes in Idlib 
 
