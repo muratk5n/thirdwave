@@ -12,14 +12,17 @@ similar solar potential as Australia.
 
 ---
 
+Coal, NG can still contribute through CCS.
+
+Discourage its export, is transmission, the only thing that "moves"
+should be green molecules. The rest is renewable generation, either
+local, and more in countries who are rich of it like some are in oil
+and they export that in molecules as well (H2 pipelines or ammonia).
+
+---
+
 Nuclear isn't a panacea either.. For countries who have experience
 with it, fine, but nuke energy has an enormous waste storage problem.
-
-AFAIK, coal, NG can still work through CCS. Discourage its export, is
-transmission, the only thing that "moves" should be green
-molecules. The rest is renewable generation, either local, more in
-countries who are rich of it like some are in oil and they export that
-in molecules as well (H2 pipelines or ammonia).
 
 ---
 
