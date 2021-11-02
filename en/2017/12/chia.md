@@ -47,16 +47,3 @@ is completely anonymous like Monero, supports ultra-smart contracts
 like Ethereum, and is as robust as Bitcoin. Mining should never end,
 so currency is not dis-inflationary. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
