@@ -20,7 +20,9 @@
 * 2015
   * 23/05: Istanbul airport with a mortar shell attack 1 person killed 
   * 07/06: TR ruling party loses majority as pro-Kurdish HDP gains seats
+  * 30/06: Greece defaults on IMF debt spurring crisis, another bailout programme is signed, EU/Germany's image is a tough austerian
   * 06/09: Mafia violence against newspaper Hurriyet triggered by government
+  * 08/09: Germany adopts an open-door policy to Syrian refugees, around 800K will eventually arrive in the country
   * 10/10: Suicide bomb attack Ankara bus station, 103 people lost their lives, 238 people
   * 01/11: Elections repeated, ruling party regains parliamentary majority following a 'shock' victory
   * 24/11: RU plane downed by TR, plane crashed in Syria
@@ -36,7 +38,7 @@
   * 15/07: TR coup attempt
   * 17/08: TR announces interest in buying Russian S-400 defense system
   * 20/08: A wedding is bombed killing 54 civilians and injured 94 in the southeastern TR city of Gaziantep many of whom are Kurdish, Syria connected jihadis were suspected
-  * 25/08: TR military offensive into northern Syria starts
+  * 24/08: TR military offensive into northern Syria starts with US support
   * 04/11: Demirtas, a pro-Kurdish party leaders in TR arrested 
   * 19/12: Russian Ambassador to TR assasinated
   * 22/12: Syria's government recaptures all of Aleppo city
