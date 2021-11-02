@@ -6,8 +6,9 @@ Rodney Crowell - Fate's Right Hand \#music
 
 ---
 
-It's unbelievable how open to violence this region is; things get a
-little funky, troublemakers come out of the woodwork, as if on cue
+It's interesting how open to violence this region is, even after all
+these years; things get a little funky, troublemakers come out of the
+woodwork, as if on cue.
 
 "Fears of Brexit violence as armed men hijack and torch bus in Northern Ireland"
 
