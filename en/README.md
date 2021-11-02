@@ -16,7 +16,7 @@ woodwork, as if on cue.
 
 With the "emotional brain" concept I dont mean a person "getting
 excited", and "in the heat of the moment" fail to make rational
-decisions. No... even when a person is silently sitting, with no
+decisions. No... even when a person is silently sitting with no
 external stimuli or visible disturbances, they are mostly deciding
 emotionally (culturally). Unless one is concious of it, it is
 extremely hard to cancel out that stuff, the emotional will almost
