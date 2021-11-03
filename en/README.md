@@ -95,8 +95,7 @@ bolster US bomber task force missions in the Pacific"
 ---
 
 That McCauliffe race seems to be running on pure culture war
-energy.. And guy is a Clintonite.. The whole is really disgusting. I
-am almost hoping he loses.
+energy.. And guy is a Clintonite.. I am almost hoping he loses.
 
 ---
 
