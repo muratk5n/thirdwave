@@ -23,8 +23,8 @@ anim proteins completely just yet.
 ---
 
 That Yosemite plant output isn't bad.. H2 energy density is 33.6
-kWh/kg, 12,200 kg generation, and with 30 kwh consumption assumption
-per day per home
+kWh/kg, 12,200 kg generation per day, and with 30 kwh usage assumption
+per day, per home
 
 ```python
 eng = 33.6*12200
