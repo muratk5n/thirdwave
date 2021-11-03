@@ -82,6 +82,12 @@ bolster US bomber task force missions in the Pacific"
 
 ---
 
+"@matthewstoller
+
+I love that Terry McAuliffe couldn’t attack Youngkin’s Carlyle group
+record because McAuliffe was an investor in a Carlyle fund"
+
+---
 
 "Terry McAuliffe: The Last Gasp of the Clinton Legacy"
 
@@ -89,7 +95,8 @@ bolster US bomber task force missions in the Pacific"
 
 ---
 
-That McCauliffe race seems to be running on pure culture war
+
+That Mcauliffe race seems to be running on pure culture war
 energy.. And guy is a Clintonite.. I am almost hoping he loses.
 
 ---
