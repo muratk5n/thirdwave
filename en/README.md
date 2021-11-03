@@ -24,7 +24,7 @@ kWh/kg, 12,200 kg generation per day, and with 30 kwh usage assumption
 per day, per home
 
 ```python
-"enough energy for %d homes" % (33.6*12200 / 30)
+"enough energy for %d homes" % (33.6*12200/30)
 ```
 
 ```text
