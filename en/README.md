@@ -14,8 +14,8 @@ My big concern is will it feed DA HEAD. As in cerebral activity.
 ---
 
 Chef uses nutritional yeast to make veg burger taste more like meat
-burgers.  It's true, nut yeast has a kick that cld help.. Also the
-mushrooms.
+burgers.  It's true, nut yeast has a certain kick (in taste) that cld
+help.. Mushrooms too. 
 
 Bean and rice for 9 aminos.. Experimenting continues. Not ditching
 anim proteins completely just yet.
