@@ -25,7 +25,6 @@ per day, per home
 
 ```python
 eng = 33.6*12200
-"%d kwh per day" % eng
 "enough energy for %d homes" % (eng / 30)
 ```
 
