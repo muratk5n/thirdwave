@@ -1,7 +1,7 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
 
-[Bernie Mac](https://youtu.be/wIbzfpjWPKk?t=187). 🤣 
+[Bernie Mac](https://youtu.be/wIbzfpjWPKk?t=187) 🤣 
 
 ---
 
@@ -103,7 +103,7 @@ Literally scores of cities increased PD funding and saw a rise in murders"
 ---
 
 Confused about gobble gobble, Syria etc? I've been keeping track of
-events. Looking at it, a picture can emerge
+events. Looking at it broadly, a picture can emerge
 
 [Events](2017/12/timeline-syria-tr.md)
 
