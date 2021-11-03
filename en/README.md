@@ -127,7 +127,7 @@ Government to support clean energy technologies including hydrogen"
 
 ---
 
-B. Johnson: "we have the technology' for green transformation", it's
+B. Johnson: "we have the technology [for green energy transformation]", it's
 true. Morrison, similar tech focus \#COP26
 
 ---
