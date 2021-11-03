@@ -31,7 +31,7 @@ per day, per home
 Out[1]: 'enough energy for 13664 homes'
 ```
 
-That is enough energy for a largish LA neighborhood BTW.. Silver Lake,
+That is enough energy for a largish LA neighborhood.. Silver Lake,
 Los Feliz, Koreatown. Or Encino, East Holywood..  A single
 plant. Generating energy from waste.
 
