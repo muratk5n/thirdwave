@@ -1,5 +1,92 @@
 # Week 44
 
+Rodney Crowell - Fate's Right Hand \#music
+
+[[-]](https://youtu.be/A2CdF5U1ZY8)
+
+---
+
+It is odd China is experiencing power issues, electricity is getting
+cut, diesel, coal price is rising, yet their Southwest region has
+similar solar potential as Australia.
+
+---
+
+Coal, NG can still contribute through CCS.
+
+Discourage its export, is transmission, the only thing that "moves"
+should be green molecules. The rest is renewable generation, either
+local, and more in countries who are rich of it like some are in oil
+and they export that in molecules as well (H2 pipelines or ammonia).
+
+---
+
+Nuclear isn't a panacea either.. For countries who have experience
+with it, fine, but nuke energy has an enormous waste storage problem.
+
+---
+
+It's interesting how open to violence this region is, even after all
+these years; things get a little funky, troublemakers come out of the
+woodwork, as if on cue.
+
+"Fears of Brexit violence as armed men hijack and torch bus in Northern Ireland"
+
+---
+
+With the "emotional brain" concept I dont mean a person "getting
+excited", and "in the heat of the moment" fail to make rational
+decisions. No... even when a person is silently sitting with no
+external stimuli or visible disturbances, they are mostly deciding
+emotionally (culturally). Unless one is concious of it, it is
+extremely hard to cancel out that stuff, the emotional will almost
+always override the rational.
+
+---
+
+For the lazy or busy readers, here is the lithium calculation. Energy
+stored per kilogram of lithium,
+
+```python
+kgkwh = 60/70 #kg/kWh
+"%0.2f kg/kwh" % kgkwh
+```
+
+```text
+Out[1]: '0.86 kg/kwh'
+```
+
+Divide the weight of all lithium in the world (dug up or otherwise),
+17 million tons, by the number above,
+
+```python
+reserves = 17*1e6*1e3 # tonnes
+batcap = reserves / kgkwh
+"all battery capacity using all lithium: %0.2f kwh" % batcap
+```
+
+```text
+Out[1]: 'all battery capacity using all lithium: 19833333333.33 kwh'
+```
+
+This is the maximum energy storage capacity we can have.
+
+World consumption in one year (2013) was 157,481 Terrawatt
+Hours. Divide by 365 per day, and compare,
+
+```python
+energy_daily = (157481. / (365)) * 1e9 # Kwh
+"%0.2f percent" % (batcap / energy_daily * 100.0)
+```
+
+```text
+Out[1]: '4.60 percent'
+```
+
+Only 5% of the energy need can be stored in batteries. That wont make
+a dent in the fight against climate change.
+
+---
 
 India, UK conclude maiden joint tri-service exercise ‘Konkan Shakti'
 

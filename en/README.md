@@ -1,90 +1,133 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-Rodney Crowell - Fate's Right Hand \#music
 
-[[-]](https://youtu.be/A2CdF5U1ZY8)
-
----
-
-It is odd China is experiencing power issues, electricity is getting
-cut, diesel, coal price is rising, yet their Southwest region has
-similar solar potential as Australia.
+[Bernie Mac](https://youtu.be/wIbzfpjWPKk?t=187). 🤣 
 
 ---
 
-Coal, NG can still contribute through CCS.
-
-Discourage its export, is transmission, the only thing that "moves"
-should be green molecules. The rest is renewable generation, either
-local, and more in countries who are rich of it like some are in oil
-and they export that in molecules as well (H2 pipelines or ammonia).
+DA HEAD. Not DA DICK. 
 
 ---
 
-Nuclear isn't a panacea either.. For countries who have experience
-with it, fine, but nuke energy has an enormous waste storage problem.
+My big concern is will it feed DA HEAD. As in cerebral activity.
 
 ---
 
-It's interesting how open to violence this region is, even after all
-these years; things get a little funky, troublemakers come out of the
-woodwork, as if on cue.
+Chef uses nutritional yeast to make veg burger taste more like meat
+burgers.  It's true, nut yeast has a kick that cld help.. Also the
+mushrooms.
 
-"Fears of Brexit violence as armed men hijack and torch bus in Northern Ireland"
-
----
-
-With the "emotional brain" concept I dont mean a person "getting
-excited", and "in the heat of the moment" fail to make rational
-decisions. No... even when a person is silently sitting with no
-external stimuli or visible disturbances, they are mostly deciding
-emotionally (culturally). Unless one is concious of it, it is
-extremely hard to cancel out that stuff, the emotional will almost
-always override the rational.
+Bean and rice for 9 aminos.. Experimenting continues. Not ditching
+anim proteins completely just yet.
 
 ---
 
-For the lazy or busy readers, here is the lithium calculation. Energy
-stored per kilogram of lithium,
+That Yosemite plant output isn't bad.. H2 energy density is 33.6
+kWh/kg, 12,200 kg generation, and with 30 kwh consumption assumption
+per day per home
 
 ```python
-kgkwh = 60/70 #kg/kWh
-"%0.2f kg/kwh" % kgkwh
+eng = 33.6*12200
+"%d kwh per day" % eng
+"enough energy for %d homes" % (eng / 30)
 ```
 
 ```text
-Out[1]: '0.86 kg/kwh'
+Out[1]: 'enough energy for 13664 homes'
 ```
 
-Divide the weight of all lithium in the world (dug up or otherwise),
-17 million tons, by the number above,
+That is enough energy for a largish LA neighborhood BTW.. Silver Lake,
+Los Feliz, Koreatown. Or Encino, East Holywood..  A single
+plant. Generating energy from waste.
 
-```python
-reserves = 17*1e6*1e3 # tonnes
-batcap = reserves / kgkwh
-"all battery capacity using all lithium: %0.2f kwh" % batcap
-```
+---
 
-```text
-Out[1]: 'all battery capacity using all lithium: 19833333333.33 kwh'
-```
+"Yosemite Clean Energy wants to produce 12,200 kg of green hydrogen
+daily...the plant will utilise proven gasification technology to
+sustainably covert waste woody biomass into syngas, from which
+hydrogen and RNG is produced.
 
-This is the maximum energy storage capacity we can have.
+Through the deployment of such technology, Yosemite will make good use
+of California’s estimated 35-million-tonnes of annual waste woody
+biomass which is left to burn, decay, and decompose, emitting
+greenhouse gases and black carbon"
 
-World consumption in one year (2013) was 157,481 Terrawatt
-Hours. Divide by 365 per day, and compare,
+[[-]](https://www.h2-view.com/story/californian-plant-to-produce-12200kg-of-green-hydrogen-daily/)
 
-```python
-energy_daily = (157481. / (365)) * 1e9 # Kwh
-"%0.2f percent" % (batcap / energy_daily * 100.0)
-```
+---
 
-```text
-Out[1]: '4.60 percent'
-```
+"Kazakhstan’s hydrogen and ammonia markets are set to be boosted by a
+new partnership between KazMunayGas and Linde... a feasibility study
+will be carried out to evaluate both using natural gas as a feedstock,
+to create blue hydrogen and blue ammonia, and water electrolysis
+technologies to create green hydrogen and green ammonia"
 
-Only 5% of the energy need can be stored in batteries. That wont make
-a dent in the fight against climate change.
+[[-]](https://www.h2-view.com/story/green-hydrogen-and-ammonia-project-planned-for-kazakhstan/)
+
+---
+
+Al Monitor: "The US flew a nuclear-capable B-1B bomber over major
+waterways of the Middle East [as a] show of force amid tensions.. with
+Iran. Aircraft from US partners Saudi Arabia, Egypt, Bahrain and
+Israel joined the bomber at various stages of the flight, which
+included a pass over the Strait of Hormuz..  The B-1 also reportedly
+flew over the Red Sea, Suez Canal and the Bab al-Mandeb.
+
+The bomber took off from the US airbase on Diego Garcia, a remote
+island in the Indian Ocean that is likely to become increasingly
+important as Washington seeks to further shift the weight of its
+military presence from the Middle East to Asia and the Pacific.
+
+An undisclosed number of B-1Bs deployed to Diego Garcia last month to
+bolster US bomber task force missions in the Pacific"
+
+---
+
+"Biden to announce tougher regulations on methane emissions from oil and gas production"
+
+---
+
+
+"Terry McAuliffe: The Last Gasp of the Clinton Legacy"
+
+[[-]](https://www.nationalreview.com/corner/terry-mcauliffe-the-last-gasp-of-the-clinton-legacy/)
+
+---
+
+That McCauliffe race seems to be running on pure culture war
+energy.. And guy is a Clintonite.. The whole is really disgusting. I
+am almost hoping he loses.
+
+---
+
+"@adamjohnsonNYC
+
+Literally scores of cities increased PD funding and saw a rise in murders"
+
+---
+
+Confused about gobble gobble, Syria etc? I've been keeping track of
+events; looking at them, a picture can emerge
+
+[Events](2017/12/timeline-syria-tr.md)
+
+---
+
+ME conflict [stats](2019/05/confstats.md#gdeltme)
+
+---
+
+Biz augmenting, embedding into gov policies; That's good.
+
+"£400m partnership between Bill Gates’ Breakthrough Energy and the UK
+Government to support clean energy technologies including hydrogen"
+
+[[-]](https://www.h2-view.com/story/400m-partnership-between-bill-gates-breakthrough-energy-and-the-uk-government-to-support-clean-energy-technologies-including-hydrogen/)
+
+---
+
+B. Johnson: 'we have the technology' for green transformation; it's
+true. Morrison, similar tech focus.
 
 ---
 
