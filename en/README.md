@@ -107,7 +107,7 @@ Literally scores of cities increased PD funding and saw a rise in murders"
 
 ---
 
-Confused about gobble gobble, Syria etc? I've been keeping track of
+Confused about gobble gobble, Syria etc? I've been recording the major
 events. Looking at it broadly, a picture can emerge
 
 [Events](2017/12/timeline-syria-tr.md)
