@@ -37,8 +37,8 @@ Cardigan or whatever... Done. The line-up defines the discourse.
 
 ---
 
-Both sides created this game.. others jumped in like idiots, or for
-money.
+Both parties are culpable in the creation of this mess. Others jumped
+in like idiots, or for money.
 
 ".. [the plan would] allow Clinton to 'push [Reps] to the right' on .. issues
 like gun control and a woman's right to choose"
@@ -74,7 +74,7 @@ coalition partner had an internal coup bcz of Net Zero discussions.
 
 Muckmucker is Vanderbilt heir, worked at CIA... clearly understands propaganda.
 
-"@kayrosef
+D"@kayrosef
 
 Anderson Cooper just asked if Terry McAuliffe lost because the
 Democratic Party is "too far left".
