@@ -86,7 +86,7 @@ loyalties lie, with the one-party state.
 "@kayrosef
 
 Anderson Cooper just asked if Terry McAuliffe lost because the
-Democratic Party is "too far left".
+Democratic Party is 'too far left'.
 
 Terry McAuliffe is a centrist"
 
