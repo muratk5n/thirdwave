@@ -79,7 +79,7 @@ coalition partner had an internal coup bcz of Net Zero discussions.
 
 ---
 
-Mucker is Vanderbilt heir, worked at CIA... It's clear where his
+Mucker is a Vanderbilt heir, worked at the CIA... It's clear where his
 loyalties lie, with the one-party state.
 
 "@kayrosef
