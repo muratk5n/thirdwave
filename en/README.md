@@ -74,7 +74,7 @@ coalition partner had an internal coup bcz of Net Zero discussions.
 
 Muckmucker is Vanderbilt heir, worked at CIA... clearly understands propaganda.
 
-D"@kayrosef
+"@kayrosef
 
 Anderson Cooper just asked if Terry McAuliffe lost because the
 Democratic Party is "too far left".
