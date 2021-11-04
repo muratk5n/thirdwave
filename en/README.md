@@ -40,7 +40,7 @@ But it's yesteryear stuff..
 ---
 
 The game was easy to mobilize for..  Take Fox News. Get the
-only anti-abortion Episcopelean [in the world](https://youtu.be/AXGoWtK1NnY?t=2123)
+only anti-abortion Episcopalian [in the world](https://youtu.be/AXGoWtK1NnY?t=2123)
 and make him anchor. Then get bunch of "Irish" in there, Calahan,
 Shanahan, Cardigan or whatever... Done.  The line up defines the discourse.
 
