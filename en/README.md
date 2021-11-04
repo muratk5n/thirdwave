@@ -75,7 +75,7 @@ before he exported the shit overseas, so UK could end up with
 Climate decisions do not come easy for Oz. The country is a major
 resource exporter, but also Murdoch media, of Australia, is active
 there, scratches that itch constantly, the way they do for culture war
-in America. Previous PM thinks he was done in by Murdoch. The current
+in America. An earlier PM thinks he was done in by Murdoch. The current
 coalition partner had an internal coup bcz of Net Zero discussions.
 
 ---
