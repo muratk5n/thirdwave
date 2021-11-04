@@ -39,9 +39,9 @@ more frustrated with the environment than anything else IMO.
 
 Fox News US fought the good fight.. It was easy to set up. You get the
 only Episcopelean [in the world](https://youtu.be/AXGoWtK1NnY?t=2123)
-who is against abortion and make him anchor. Then you get bunch of
-"Irish" in there, Calahan, Shanahan, Cardigan or whatever... Done.
-The line-up defines the discourse.
+who is against abortion and make him anchor. Then get bunch of "Irish"
+in there, Calahan, Shanahan, Cardigan or whatever... Done.  The
+line up defines the discourse.
 
 ---
 
