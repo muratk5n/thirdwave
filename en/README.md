@@ -1,7 +1,6 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-The Independent: "Paid family leave to be added back to Biden’s Build
-Back Better plan after backlash"
+Paid family leave is being added back to BBB? Grand.
 
 ---
 
