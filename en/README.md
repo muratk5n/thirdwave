@@ -26,11 +26,10 @@ Cringe is right.. \#openscience
 
 ---
 
-Even JS seems to have moved on.. He was probably
-more frustrated with the general environment than anything else.
+JS seems to have moved on..
 
-Tucker did talk about different things later, but at its inception FN
-was geared for hack.
+Tucker did talk more about econ later, but at its inception FN was
+geared for hack.
 
 ---
 
