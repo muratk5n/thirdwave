@@ -1,134 +1,95 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
 
-[Bernie Mac](https://youtu.be/wIbzfpjWPKk?t=187) 🤣 
+Good news
+
+The Independent: "Paid family leave to be added back to Biden’s Build
+Back Better plan after backlash"
 
 ---
 
-DA HEAD.. DA DICK..
+"@LHSummers
+
+I am certainly no left wing ideologue, but I think something wrong
+when taxpayers like me, well into the top .1 percent of income
+distribution, are getting a significant tax cut in a Democrats only
+tax bill as now looks likely to happen"
 
 ---
 
-My big concern is will it feed DA HEAD. As in cerebral activity.
+Open means open bitch.. Dont try to skirt around the issue..
+
+[[-]](https://pbs.twimg.com/media/FDS1f0kUYAIMM4G?format=png&name=small)
 
 ---
 
-Chef uses nutritional yeast to make veg burger taste more like meat
-burgers.  It's true, nut yeast has a certain kick in taste that cld
-help.. Mushrooms too. Bean and rice for 9 aminos.. That can work
+Tucker did talk about different things later, but at its inception FN
+was geared for hack.
 
 ---
 
-That Yosemite plant output isn't bad.. H2 energy density is 33.6
-kWh/kg, 12,200 kg generation per day, and with 30 kwh usage assumption
-per day, per home
-
-```python
-"enough energy for %d homes" % (33.6*12200/30)
-```
-
-```text
-Out[1]: 'enough energy for 13664 homes'
-```
-
-That is enough energy for a largish LA neighborhood.. Silver Lake,
-Los Feliz, Koreatown. Or Encino, East Holywood..  A single
-plant. Generating energy from waste.
+[Good times](https://drive.google.com/uc?export=view&id=1r8wAGwhOmflPy0vCbbSEM0mSb16Ua7qF)..
+But part of the old story. Even JS himself seems to have moved on.. 
 
 ---
 
-"Yosemite Clean Energy wants to produce 12,200 kg of green hydrogen
-daily...the plant will utilise proven gasification technology to
-sustainably covert waste woody biomass into syngas, from which
-hydrogen and RNG is produced.
-
-Through the deployment of such technology, Yosemite will make good use
-of California’s estimated 35-million-tonnes of annual waste woody
-biomass which is left to burn, decay, and decompose, emitting
-greenhouse gases and black carbon"
-
-[[-]](https://www.h2-view.com/story/californian-plant-to-produce-12200kg-of-green-hydrogen-daily/)
+Fox News US fought the good fight.. It was easy to set up. You get the
+only Episcopelean *in the world* who is against abortion and make him
+anchor. Then you get bunch of "Irish" in there, Calahan, Shanahan,
+Cardigan or whatever... Done. The line-up defines the discourse.
 
 ---
 
-"Kazakhstan’s hydrogen and ammonia markets are set to be boosted by a
-new partnership between KazMunayGas and Linde... a feasibility study
-will be carried out to evaluate both using natural gas as a feedstock,
-to create blue hydrogen and blue ammonia, and water electrolysis
-technologies to create green hydrogen and green ammonia"
+Both sides created this game.. others jumped in like idiots, or for
+money.
 
-[[-]](https://www.h2-view.com/story/green-hydrogen-and-ammonia-project-planned-for-kazakhstan/)
+".. [the plan would] allow Clinton to 'push [Reps] to the right' on .. issues
+like gun control and a woman's right to choose"
 
 ---
 
-Al Monitor: "The US flew a nuclear-capable B-1B bomber over major
-waterways of the Middle East [as a] show of force amid tensions.. with
-Iran. Aircraft from US partners Saudi Arabia, Egypt, Bahrain and
-Israel joined the bomber at various stages of the flight, which
-included a pass over the Strait of Hormuz..  The B-1 also reportedly
-flew over the Red Sea, Suez Canal and the Bab al-Mandeb.
-
-The bomber took off from the US airbase on Diego Garcia, a remote
-island in the Indian Ocean that is likely to become increasingly
-important as Washington seeks to further shift the weight of its
-military presence from the Middle East to Asia and the Pacific.
-
-An undisclosed number of B-1Bs deployed to Diego Garcia last month to
-bolster US bomber task force missions in the Pacific"
+Obviously both sides in US partook in this culture war, especially 90s
+Dems. See [triangulation](2021/10/all-too-human.md#triangulation)
+\#GSteph8s
 
 ---
 
-"Biden to announce tougher regulations on methane emissions from oil and gas production"
+The headline of his paper says "Abu's Been Sleeping In My Bed", guy is
+laughing his ass off.. surprised? I don't think he is racist, u
+see. He and the culture he created like to stir shit up.. Whatever
+gets a rise out of people, on 'either side', they'll do.
 
 ---
 
-"@matthewstoller
-
-I love that Terry McAuliffe couldn’t attack Youngkin’s Carlyle group
-record because McAuliffe was an investor in a Carlyle fund"
-
----
-
-"Terry McAuliffe: The Last Gasp of the Clinton Legacy"
-
-[[-]](https://www.nationalreview.com/corner/terry-mcauliffe-the-last-gasp-of-the-clinton-legacy/)
+Murdoch is a native of the country anyway, he cut his teeth there,
+before he exported the shit overseas, so UK could end up with
+[this](tweets/2021/murdoch_abu_sleeping.jpg).
 
 ---
 
-
-That Mcauliffe race seems to be running on pure culture war
-energy.. And guy is a Clintonite.. I am almost hoping he loses.
-
----
-
-"@adamjohnsonNYC
-
-Literally scores of cities increased PD funding and saw a rise in murders"
+Climate decisions do not come easy for Oz. The country is a major
+resource exporter, but also Murdoch media, of Australia, is active
+there, scratches that itch constantly, the way they do for culture war
+in America. Previous PM thinks he was done in by Murdoch. The current
+coalition partner had an internal coup bcz of Net Zero discussions.
 
 ---
 
-Confused about gobble gobble, Syria etc? I've been recording the major
-events. Looking at it broadly, a picture can emerge
+Muckmucker is Vanderbilt heir, worked at CIA... clearly understands propaganda.
 
-[Events](2017/12/timeline-syria-tr.md)
+"@kayrosef
 
----
+Anderson Cooper just asked if Terry McAuliffe lost because the
+Democratic Party is "too far left".
 
-ME conflict [stats](2019/05/confstats.md#gdeltme)
-
----
-
-Biz augmenting, embedding into gov policies; That's good.
-
-"£400m partnership between Bill Gates’ Breakthrough Energy and the UK
-Government to support clean energy technologies including hydrogen"
-
-[[-]](https://www.h2-view.com/story/400m-partnership-between-bill-gates-breakthrough-energy-and-the-uk-government-to-support-clean-energy-technologies-including-hydrogen/)
+Terry McAuliffe is a centrist"
 
 ---
 
-B. Johnson: "we have the technology [for green energy transformation]", it's
-true. Morrison, similar tech focus \#COP26
+"Over 40 International world leaders have today backed the Glasgow
+Breakthrough Agenda presented at @COP26"
+
+[[-]](https://www.h2-view.com/story/cop26-over-40-world-leaders-commit-to-making-renewable-and-low-carbon-hydrogen-globally-available-by-2030/)
 
 ---
 
