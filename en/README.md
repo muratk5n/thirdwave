@@ -26,15 +26,16 @@ Cringe is right.. \#openscience
 
 ---
 
+Even JS seems to have moved on.. He was probably
+more frustrated with the general environment than anything else.
+
 Tucker did talk about different things later, but at its inception FN
 was geared for hack.
 
 ---
 
 [Good times](https://drive.google.com/uc?export=view&id=1r8wAGwhOmflPy0vCbbSEM0mSb16Ua7qF)..
-
-But it's yesteryear stuff.. Even JS seems to have moved on.. He was probably
-more frustrated with the general environment than anything else.
+But it's yesteryear stuff.. 
 
 ---
 
