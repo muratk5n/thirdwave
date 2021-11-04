@@ -60,8 +60,8 @@ Dems. See [triangulation](2021/10/all-too-human.md#triangulation)
 
 The headline of his paper says "Abu's Been Sleeping In My Bed", guy is
 laughing his ass off.. surprised? I don't think he is racist, u
-see. He and the culture he created like to stir shit up.. Whatever
-gets a rise out of people, on 'either side', they'll do.
+see. Him and his orgs just like to stir shit up.. Whatever gets a rise out
+of people, on 'either side', they'll do.
 
 ---
 
