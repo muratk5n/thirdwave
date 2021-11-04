@@ -17,9 +17,9 @@ tax bill as now looks likely to happen"
 
 ---
 
-Open means open bitch.. Dont try to skirt around the issue..
+Cringe is right.. \#openscience
 
-[[-]](https://pbs.twimg.com/media/FDS1f0kUYAIMM4G?format=png&name=small)
+[[-]](https://twitter.com/axccl/status/1455988190867693568)
 
 ---
 
