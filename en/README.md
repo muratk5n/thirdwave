@@ -45,8 +45,8 @@ line up defines the discourse.
 
 ---
 
-This was a game setup by others.. Othes jumped in were either idiots,
-or in it for the money.
+This was a game created by others.. The fans arguing for either side
+vehemently were either idiots, or in it for the money.
 
 ".. [the plan would] allow Clinton to 'push [Reps] to the right' on .. issues
 like gun control and a woman's right to choose"
