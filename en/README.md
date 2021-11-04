@@ -37,8 +37,8 @@ Cardigan or whatever... Done. The line-up defines the discourse.
 
 ---
 
-Both parties are culpable in the creation of this mess. Others jumped
-in like idiots, or for money.
+This was a game setup by others.. Othes jumped in were either idiots,
+or in it for the money.
 
 ".. [the plan would] allow Clinton to 'push [Reps] to the right' on .. issues
 like gun control and a woman's right to choose"
