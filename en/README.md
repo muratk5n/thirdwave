@@ -4,6 +4,13 @@ Paid family leave is being added back to BBB? Grand.
 
 ---
 
+Mcauliffe made a mistake by saying that stuff during debate triggering
+culture war, but centrist libcucks have no choice but to go there.
+Their were presence is the problem. You cant hit the other guy on
+Carlyle, what else are you going to talk about?
+
+---
+
 "@LHSummers
 
 I am certainly no left wing ideologue, but I think something wrong
