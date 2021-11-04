@@ -692,6 +692,39 @@ Name: Close, dtype: float64
 
 Oil Production
 
+<a name="opec"></a>
+
+OPEC
+
+```python
+import pandas as pd, requests
+from datetime import date
+
+api_key = open('.eiakey').read()
+PADD_NAMES = ['PADD 1','PADD 2','PADD 3','PADD 4','PADD 5']
+final_data = []
+startDate = '2009-01-01'
+endDate = '2021-01-01'
+
+url = 'http://api.eia.gov/series/?api_key=' + api_key + '&series_id=STEO.COPR_OPEC.M' 
+r = requests.get(url)
+json_data = r.json()
+
+df = pd.DataFrame(json_data.get('series')[0].get('data'))
+
+df['Year'] = df[0].astype(str).str[:4]
+df['Month'] = df[0].astype(str).str[4:]
+df['Day'] = 1
+df['Date'] = pd.to_datetime(df[['Year','Month','Day']])
+print (df)
+df = df.set_index('Date')
+df[1].plot()
+plt.title('Total OPEC Oil Production Per Month (mil barrels per day) ')
+plt.savefig('opec.png')
+```
+
+![](opec.png)
+
 ```python
 import pandas as pd
 df = pd.read_csv('world-crude.csv',sep='\s', comment='#',index_col=0)
