@@ -701,7 +701,6 @@ import pandas as pd, requests
 from datetime import date
 
 api_key = open('.eiakey').read()
-PADD_NAMES = ['PADD 1','PADD 2','PADD 3','PADD 4','PADD 5']
 final_data = []
 startDate = '2009-01-01'
 endDate = '2021-01-01'
@@ -716,11 +715,21 @@ df['Year'] = df[0].astype(str).str[:4]
 df['Month'] = df[0].astype(str).str[4:]
 df['Day'] = 1
 df['Date'] = pd.to_datetime(df[['Year','Month','Day']])
-print (df)
 df = df.set_index('Date')
+print (df[1].tail(5))
 df[1].plot()
 plt.title('Total OPEC Oil Production Per Month (mil barrels per day) ')
 plt.savefig('opec.png')
+```
+
+```text
+Date
+1993-05-01    23.154166
+1993-04-01    22.980445
+1993-03-01    23.493679
+1993-02-01    24.098163
+1993-01-01    23.937135
+Name: 1, dtype: float64
 ```
 
 ![](opec.png)
