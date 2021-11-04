@@ -72,7 +72,7 @@ coalition partner had an internal coup bcz of Net Zero discussions.
 
 ---
 
-Muckmucker is Vanderbilt heir, worked at CIA... clearly understands propaganda.
+Mucker is Vanderbilt heir, worked at CIA... clearly understands propaganda.
 
 "@kayrosef
 
