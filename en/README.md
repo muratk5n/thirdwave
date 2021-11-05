@@ -12,7 +12,7 @@ Inflation, wages, 1970s \#blyth
 
 ---
 
-Oil prices and OPEC output [graph](tweets/2021/opec-price.png). [Code](util.py).
+Oil prices and OPEC output [graph](tweets/2021/opec-price.png). [Code](tweets/2021/util.py).
 
 ---
 
