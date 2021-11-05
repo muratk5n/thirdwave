@@ -2,7 +2,7 @@
 
 The backlash didn't happen because of shitlibs failure on making
 movies more cuck. Or failing to talk about SJW concepts more in depth
-at schools. The reasons for economic. Doubling down on what didn't
+at schools. The reasons were economic. Doubling down on what didn't
 work made the fail even deeper, the art, general discourse
 suffered. Remember Russiagate, it was some insane asylum stuff..
 
