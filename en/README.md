@@ -1,6 +1,6 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-The backlas didn't happen because shitlibs failed making movies more
+The backlash didn't happen because shitlibs failed making movies more
 cuck, or talking about more SJW concepts at schools. Doubling down on
 what didn't work made the fail even deeper, the art, political
 discourse suffered. Russiagate was some insane asylum stuff. These
