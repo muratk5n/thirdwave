@@ -54,7 +54,7 @@ like gun control and a woman's right to choose"
 ---
 
 Obviously both sides in US partook in this culture war, especially 90s
-Dems. See [triangulation](2021/10/all-too-human.md#triangulation)
+Dems. See [triangulation](../../2021/10/all-too-human.md#triangulation)
 \#GSteph8s
 
 ---
@@ -68,7 +68,7 @@ of people, on 'either side', they'll do.
 
 Murdoch is a native of the country anyway, he cut his teeth there,
 before he exported the shit overseas, so UK could end up with
-[this](tweets/2021/murdoch_abu_sleeping.jpg).
+[this](../../tweets/2021/murdoch_abu_sleeping.jpg).
 
 ---
 
@@ -209,11 +209,7 @@ Literally scores of cities increased PD funding and saw a rise in murders"
 Confused about gobble gobble, Syria etc? I've been recording the major
 events. Looking at it broadly, a picture can emerge
 
-[Events](2017/12/timeline-syria-tr.md)
-
----
-
-ME conflict [stats](2019/05/confstats.md#gdeltme)
+[Events](../../2017/12/timeline-syria-tr.md)
 
 ---
 
