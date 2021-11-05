@@ -48,7 +48,7 @@ climate.average_regions()
 
 ![](berkeley-temp.png)
 
-Increase is quite visible. The Berkeley dataset is updated monthly.
+Increase is quite visible. The Berkeley dataset is updated monthly. [Code](climate.py).
 
 ACF / PACF
 
