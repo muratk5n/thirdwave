@@ -1,8 +1,15 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
+The backlas didn't happen because shitlibs failed making movies more
+cuck, or talking about more SJW concepts at schools. Doubling down on
+what didn't work made the fail even deeper, the art, political
+discourse suffered. 
+
+---
+
 Through outsourcing, globalization after 70s, they killed wage growth
 therefore inflation. The lowflation world was a policy choice. But
-then people started dying of opioids. There was backlash.
+then people started dying of opioids. There was backlash. Trump.
 
 ---
 
