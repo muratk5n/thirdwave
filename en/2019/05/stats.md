@@ -720,7 +720,7 @@ plt.savefig('opec.png')
 ```python
 import pandas as pd
 df = pd.read_csv('world-crude.csv',sep='\s', comment='#',index_col=0)
-df.columns = ['Production (mil barrels per day)']
+df.columns = ['Annual production (mil barrels per day)']
 df.plot()
 plt.savefig('crude-production.png')
 ```
