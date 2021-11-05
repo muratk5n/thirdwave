@@ -57,7 +57,7 @@ I dont disagree
 
 ---
 
-[Bad blunder](https://youtu.be/H4GSp_gEojs?t=869) for sure. Dont feed the beast \#dem \#shitlib
+A [blunder](https://youtu.be/H4GSp_gEojs?t=869) for sure. Dont feed the beast \#dem \#shitlib
 
 ---
 
