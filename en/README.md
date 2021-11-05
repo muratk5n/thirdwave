@@ -3,7 +3,9 @@
 The backlas didn't happen because shitlibs failed making movies more
 cuck, or talking about more SJW concepts at schools. Doubling down on
 what didn't work made the fail even deeper, the art, political
-discourse suffered. 
+discourse suffered. Russiagate was some insane asylum stuff. These
+people have their heads so far up their ass they are chasing a tail
+they can't even see.
 
 ---
 
