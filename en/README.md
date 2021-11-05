@@ -1,5 +1,22 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
+Oil prices and OPEC output [graph](tweets/2021/opec-price.png).
+[Code](tweets/2021/util.py).
+
+---
+
+New [graph](2019/05/stats.md#opec) for OPEC output (monthly), data from EIA. 
+
+CNBC: "Biden has squarely blamed the reluctance of OPEC+ to pump more
+oil for the sharp rise in energy prices in the U.S. and around the
+world"
+
+---
+
+Jane's Defense: "Taiwanese and US marines conducting joint training on Guam"
+
+---
+
 The backlash didn't happen because of shitlibs failure making movies
 more cuck. Or failing to talk about SJW concepts more in depth at
 schools. The reasons were economic. Doubling down on what didn't work
@@ -17,23 +34,6 @@ then people started dying of opioids. There was backlash. Trump.
 Inflation, wages, 1970s \#blyth
 
 [[-]](https://youtu.be/8rxrjhWTdv8)
-
----
-
-Oil prices and OPEC output [graph](tweets/2021/opec-price.png).
-[Code](tweets/2021/util.py).
-
----
-
-New [graph](2019/05/stats.md#opec) for OPEC output (monthly), data from EIA. 
-
-CNBC: "Biden has squarely blamed the reluctance of OPEC+ to pump more
-oil for the sharp rise in energy prices in the U.S. and around the
-world"
-
----
-
-Jane's Defense: "Taiwanese and US marines conducting joint training on Guam"
 
 ---
 
