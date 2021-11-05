@@ -30,7 +30,7 @@ Jane's Defense: "Taiwanese and US marines conducting joint training on Guam"
 ---
 
 Not kidding with the LGBTQIA2S part.. This is the latest alphabet soup
-for this group.
+for the group.
 
 ---
 
