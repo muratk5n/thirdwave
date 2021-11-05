@@ -701,33 +701,18 @@ import pandas as pd, requests
 from datetime import date
 
 api_key = open('.eiakey').read()
-final_data = []
-
 url = 'http://api.eia.gov/series/?api_key=' + api_key + '&series_id=STEO.COPR_OPEC.M' 
 r = requests.get(url)
 json_data = r.json()
-
 df = pd.DataFrame(json_data.get('series')[0].get('data'))
-
 df['Year'] = df[0].astype(str).str[:4]
 df['Month'] = df[0].astype(str).str[4:]
 df['Day'] = 1
 df['Date'] = pd.to_datetime(df[['Year','Month','Day']])
 df = df.set_index('Date')
-print (df[1].tail(5))
 df[1].plot()
 plt.title('Total OPEC Oil Production Per Month (mil barrels per day) ')
 plt.savefig('opec.png')
-```
-
-```text
-Date
-1993-05-01    23.154166
-1993-04-01    22.980445
-1993-03-01    23.493679
-1993-02-01    24.098163
-1993-01-01    23.937135
-Name: 1, dtype: float64
 ```
 
 ![](opec.png)
