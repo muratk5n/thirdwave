@@ -710,9 +710,8 @@ df['Month'] = df[0].astype(str).str[4:]
 df['Day'] = 1
 df['Date'] = pd.to_datetime(df[['Year','Month','Day']])
 df = df.set_index('Date')
-col = 'Oil Production Per Month (mil barrels per day)'
-df[col] = df[1]
-df[[col]].plot()
+df[1].plot()
+plt.legend(['Oil Production Per Month (mil barrels per day)'])
 plt.savefig('opec.png')
 ```
 
