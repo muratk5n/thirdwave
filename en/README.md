@@ -1,10 +1,10 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-The backlash didn't happen because of shitlibs failed making movies
-more cuck. Or failing to talk about SJW concepts more in depth at
-schools. Doubling down on what didn't work made the fail even deeper,
-the art, general discourse suffered. Remember Russiagate, it was some
-insane asylum stuff.. 
+The backlash didn't happen because of shitlibs failure on making
+movies more cuck. Or failing to talk about SJW concepts more in depth
+at schools. Doubling down on what didn't work made the fail even
+deeper, the art, general discourse suffered. Remember Russiagate, it
+was some insane asylum stuff..
 
 ---
 
