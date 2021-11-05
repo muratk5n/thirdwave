@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import pandas as pd, requests
 from datetime import date
 
-def opec_price():
+def opec_price_prod():
 
     end = datetime.datetime.now()
     start = datetime.datetime(1980, 1, 1)
@@ -46,7 +46,7 @@ def opec_price():
 
 if __name__ == "__main__":
     
-    opec_price()
+    opec_price_prod()
 
 
     
