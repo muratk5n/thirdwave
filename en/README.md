@@ -12,12 +12,12 @@ Inflation, wages, 1970s \#blyth
 
 ---
 
-Oil prices and OPEC output [graph](tweets/2021/opec-price.png). [Code](tweets/2021/util.py).
+Oil prices and OPEC output [graph](tweets/2021/opec-price.png).
+[Code](tweets/2021/util.py).
 
 ---
 
-New stat [added](2019/05/stats.md#opec) for OPEC output (monthly),
-data from EIA. Good outfit.
+New [graph](2019/05/stats.md#opec) for OPEC output (monthly), data from EIA. 
 
 CNBC: "Biden has squarely blamed the reluctance of OPEC+ to pump more
 oil for the sharp rise in energy prices in the U.S. and around the
