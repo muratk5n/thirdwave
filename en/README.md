@@ -1,102 +1,55 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-Paid family leave is being added back to BBB? Grand.
+Through outsourcing, globalization after 70s, they killed wage growth
+therefore inflation. The lowflation world was a policy choice. But
+then people started dying of opioids. There was backlash.
 
 ---
 
-Mcauliffe made a mistake by making those comments during the debate
-triggering a culture war, but centrist shitlibs have no choice but to
-go there.  He cant hit the other guy on Carlyle, what else is he going
-to talk about?
+Inflation, wages, 1970s \#blyth
+
+[[-]](https://youtu.be/8rxrjhWTdv8)
 
 ---
 
-"@LHSummers
-
-I am certainly no left wing ideologue, but I think something wrong
-when taxpayers like me, well into the top .1 percent of income
-distribution, are getting a significant tax cut in a Democrats only
-tax bill as now looks likely to happen"
+Oil prices and OPEC output [graph](tweets/2021/opec-price.png). [Code](util.py).
 
 ---
 
-Cringe is right.. \#openscience
+New stat [added](2019/05/stats.md#opec) for OPEC output (monthly),
+data from EIA. Good outfit.
 
-[[-]](https://twitter.com/axccl/status/1455988190867693568)
-
----
-
-JS seems to have moved on..
-
-Tucker did talk more about econ later, but at its inception FN was
-geared for hack.
+CNBC: "Biden has squarely blamed the reluctance of OPEC+ to pump more
+oil for the sharp rise in energy prices in the U.S. and around the
+world"
 
 ---
 
-[Good times](https://drive.google.com/uc?export=view&id=1r8wAGwhOmflPy0vCbbSEM0mSb16Ua7qF)..
-But it's yesteryear stuff.. 
+Jane's Defense: "Taiwanese and US marines conducting joint training on Guam"
 
 ---
 
-The game was easy to mobilize for..  Take Fox News. Get the
-only anti-abortion Episcopalian [in the world](https://youtu.be/AXGoWtK1NnY?t=2123)
-and make him anchor. Then get bunch of "Irish" in there, Calahan,
-Shanahan, Cardigan or whatever... Done.  The line up defines the discourse.
+Not kidding with the LGBTQIA2S part.. This is the latest alphabet soup
+for this group.
 
 ---
 
-This was a game concocted for specific goals.. Fans cheering for
-either side vehemently were either idiots, or in it for the money.
+How about creating a new competition category called LGBTQIA2S+Arr-Ee-Ess-Pee-Ee-Cee-Tee,
+people there compete against eachother.
 
-".. [the plan would] allow Clinton to 'push [Reps] to the right' on .. issues
-like gun control and a woman's right to choose"
-
----
-
-Obviously both sides in US partook in this culture war, especially 90s
-Dems. See [triangulation](2021/10/all-too-human.md#triangulation)
-\#GSteph8s
+I wonder how a trans-man would feel about being in the same contest as
+a gay guy. S/he would probably object.. Don't wanna get your ass kicked
+right?
 
 ---
 
-The headline of his paper says "Abu's Been Sleeping In My Bed", guy is
-laughing his ass off.. surprised? I don't think he is racist, u
-see. Him and his orgs just like to stir shit up.. Whatever gets a rise out
-of people, on 'either side', they'll do.
+I dont disagree
+
+"Texas governor signs bill banning transgender girls from female sports in schools"
 
 ---
 
-Murdoch is a native of the country anyway, he cut his teeth there,
-before he exported the shit overseas, so UK could end up with
-[this](tweets/2021/murdoch_abu_sleeping.jpg).
-
----
-
-Climate decisions do not come easy for Oz. The country is a major
-resource exporter, but also Murdoch media, of Australia, is active
-there, scratches that itch constantly, the way they do for culture war
-in America. An earlier PM thinks he was done in by Murdoch for
-climate.. The current coalition partner had an internal coup bcz of
-Net Zero discussions.
-
----
-
-Mucker is a Vanderbilt heir, worked at the CIA... It's clear where his
-loyalties lie, with the one-party state.
-
-"@kayrosef
-
-Anderson Cooper just asked if Terry McAuliffe lost because the
-Democratic Party is 'too far left'.
-
-Terry McAuliffe is a centrist"
-
----
-
-"Over 40 International world leaders have today backed the Glasgow
-Breakthrough Agenda presented at @COP26"
-
-[[-]](https://www.h2-view.com/story/cop26-over-40-world-leaders-commit-to-making-renewable-and-low-carbon-hydrogen-globally-available-by-2030/)
+[Bad blunder](https://youtu.be/H4GSp_gEojs?t=869) for sure. Dont feed the beast \#dem \#shitlib
 
 ---
 
