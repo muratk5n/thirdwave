@@ -702,8 +702,6 @@ from datetime import date
 
 api_key = open('.eiakey').read()
 final_data = []
-startDate = '2009-01-01'
-endDate = '2021-01-01'
 
 url = 'http://api.eia.gov/series/?api_key=' + api_key + '&series_id=STEO.COPR_OPEC.M' 
 r = requests.get(url)
