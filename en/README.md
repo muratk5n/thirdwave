@@ -19,9 +19,9 @@ Jane's Defense: "Taiwanese and US marines conducting joint training on Guam"
 
 The backlash didn't take place bcz of shitlib failure making movies
 more cuck. Or failing to talk about SJW concepts at schools. The
-reasons were economic. Doubling down on what didn't work made the fail
-even deeper, the art, general discourse suffered. Remember Russiagate,
-that was some insane asylum stuff..
+reason was econ. But some doubled down made the fail more visible, the
+arts, general discourse suffered. Remember Russiagate, that was some
+insane asylum shit..
 
 ---
 
