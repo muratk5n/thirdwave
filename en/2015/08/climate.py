@@ -3,7 +3,7 @@ import csv, numpy as np
 import matplotlib.pyplot as plt
 
 def average_regions():
-    url='Complete_TAVG_EqualArea.nc'
+    url='/tmp/Complete_TAVG_EqualArea.nc'
     nc = netCDF4.Dataset(url)
     clim = nc['climatology'][:,:]
     anom =  nc['temperature'][:,:]
@@ -22,8 +22,6 @@ def average_regions():
         return month
 
     monidxs = np.array(list(map(month, time)))
-    print (monidxs[330])
-    print (time[330])
 
     tmp_clims = np.zeros(time.shape[0])
     time_idxs = np.array(range(time.shape[0]))
@@ -38,10 +36,7 @@ def average_regions():
         #if region==3: break
 
     arr = np.array(res)
-    print (arr.shape)
     df = pd.DataFrame(res)
-    print (df)
-    print (df.shape)
 
     avg = pd.DataFrame(df.median(axis=0))
     avg['year'] = avg.apply(lambda x: year(time[x.name]),axis=1)
@@ -51,10 +46,9 @@ def average_regions():
     avg = avg.set_index('dt')
     avg = avg[0]
     avg = avg[avg.index > '1900-01-01']  
-    print (avg)
-    print (avg.shape)
     avg = avg.rolling(50).mean()
     avg.plot()
     plt.savefig('berkeley-temp.png')
 
-
+if __name__ == "__main__":  
+    average_regions()
