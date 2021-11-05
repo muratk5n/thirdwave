@@ -31,27 +31,32 @@ There are other methods as well, such as cointegration, that took care
 of the attribution part of the equation. That final analysis was the
 one that truly sealed the deal. It is game-over for the deniers.
 
-Temparature anomaly data from GISS, anomalies are relative to the
-1951-80 base period means.
+<a name='berkeley'/>
+
+Berkeley
+
+The most basic plot Earth average temparature. We use data from [Berkeley](http://berkeleyearth.org/data/),
+this data is as raw as its gets, we then average temparature from all regions,
+create a time series, then plot.
 
 ```python
-import pandas as pd
-dfclim = pd.read_csv('climate-giss.csv',index_col=0,parse_dates=True)
+import climate
+climate.average_regions()
 ```
 
-```python
-dfclim.Temp.plot()
-plt.hold(False)
-plt.savefig('climate_01.png')
-plt.hold(False)
-```
+![](berkeley-temp.png)
 
-![](climate_01.png)
+Increase is quite visible. The Berkeley dataset is updated monthly.
 
 ACF / PACF
 
+Here we use temparature anomaly data from GISS, anomalies are relative
+to the 1951-80 base period means.
+
 ```python
 import statsmodels.api as sm
+import pandas as pd
+dfclim = pd.read_csv('climate-giss.csv',index_col=0,parse_dates=True)
 plt.hold(True)
 sm.graphics.tsa.plot_acf(dfclim.Temp.values.squeeze(), lags=50)
 plt.savefig('climate_02.png')
