@@ -22,6 +22,7 @@ def average_regions():
         month = int((float_year % 1) * 12)
         return month
 
+    # create month digit array corresponding to decimal year array
     monidxs = np.array(list(map(month, time)))
 
     tmp_clims = np.zeros(time.shape[0])
