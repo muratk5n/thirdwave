@@ -1,14 +1,34 @@
 # Temperature Increase
 
-Is the temparature increase real? There are many methods we can use
-here; Within the context of pure time series methods, the best chance
-of climate change deniers had was arguing that temperature time series
-data could be random walk. Example for RW is stock price movement
-where values "can go up or down, in an unpredictable fashion". So
-deniers try to chalk up the temperature increase in the past 70
-years to this kind of movement. They cannot even argue variations of
-random walk BTW, it has to be pure random walk, if there is a drift,
-or a trend there (indicating up movement) they are screwed.
+<a name='berkeley'/>
+
+Berkeley Data
+
+The most basic plot looks at Earth's average temparature. We use data
+from [Berkeley](http://berkeleyearth.org/data/), this data is as raw
+as its gets, looked at the "Monthly Land" under the Gridded section,
+and downloaded the "Equal Area" data file. An average temparature from
+all regions is calculated,
+
+```python
+import climate
+climate.average_regions()
+```
+
+![](berkeley-temp.png)
+
+Increase is quite visible. The Berkeley dataset is updated monthly. [Code](climate.py).
+
+Let's continue with statistical tests. Is the temparature increase
+real? There are many methods we can use here; Within the context of
+pure time series methods, the best chance of climate change deniers
+had was arguing that temperature time series data could be random
+walk. Example for RW is stock price movement where values "can go up
+or down, in an unpredictable fashion". So deniers try to chalk up the
+temperature increase in the past 70 years to this kind of
+movement. They cannot even argue variations of random walk BTW, it has
+to be pure random walk, if there is a drift, or a trend there
+(indicating up movement) they are screwed.
 
 It turns out they are statistical tests for that. We used dataset from
 GISS, temperature anomalies between 1880-2010 are captured here
@@ -30,25 +50,6 @@ all threshold values all indicators are screaming out a trend.
 There are other methods as well, such as cointegration, that took care
 of the attribution part of the equation. That final analysis was the
 one that truly sealed the deal. It is game-over for the deniers.
-
-<a name='berkeley'/>
-
-Berkeley
-
-The most basic plot looks at Earth's average temparature. We use data
-from [Berkeley](http://berkeleyearth.org/data/), this data is as raw
-as its gets, looked at the "Monthly Land" under the Gridded section,
-and downloaded the "Equal Area" data file. An average temparature from
-all regions is calculated,
-
-```python
-import climate
-climate.average_regions()
-```
-
-![](berkeley-temp.png)
-
-Increase is quite visible. The Berkeley dataset is updated monthly. [Code](climate.py).
 
 ACF / PACF
 
