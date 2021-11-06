@@ -21,3 +21,19 @@ gas to quench arcs and stop short circuits.
 use it within wind turbines specifically ... " says engineer in the
 post above.
 
+[EPA](https://www.epa.gov/eps-partnership/sulfur-hexafluoride-sf6-basics)
+
+Since the 1950’s, the U.S. electric power industry has used SF6 in
+circuit breakers, gas-insulated substations and other switchgear used
+in the transmission system to manage the high voltages carried between
+generating stations and customer load centers. Disconnectors and
+ground switches use SF6 primarily for insulation, and individually,
+they contain only slightly less SF6 than a circuit breaker. These
+devices are used to isolate portions of the transmission system where
+current flow has been interrupted (using a circuit
+breaker). Gas-insulated substations also use a significant amount of
+SF6, and GIS installations house SF6-insulated circuit breakers,
+busbars and monitoring equipment. The largest use of SF6 occurs in
+high-voltage circuit breakers, where, in addition to providing
+insulation, SF6 is used to quench the arc formed when an energized
+circuit breaker is opened.
