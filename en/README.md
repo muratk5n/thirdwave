@@ -6,7 +6,7 @@ the big, bad rival Sun is trying to kill him, he is growing 2x, 4x..
 
 Well; That machine only sold 50,000 units. The OS is a Unix variant
 could not have existed without academia. They made changes to it,
-added stuff on top, the code would go eventually find its way into
+added stuff on top, the code would eventually find its way into
 iPhones later, changed some more, arriving to its current form which
 senior Linux devs still call a piece of shit. Linux is of course open
 source, the largest software project ever undertaken by mankind.
