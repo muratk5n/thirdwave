@@ -70,20 +70,6 @@ bottles produced in a week? Where does all that stuff go?
 
 ---
 
-Let's note also how the first crisis in Clint presidency was a
-hot-button social issue, not an economic issue. For econ they'd do
-NAFTA and everyone was on board for that, except that one weird guy
-with the squeky voice.. In a debate on the subject Perot would argue
-against, Gore wld argue for, and one of the "eminent characters" he
-would use for his case would be Powell.
-
----
-
-Powell was beloved by Reps but not bcz he was a good general but bcz
-he fought in the culture war and "scored one on the libs" \#DontAskDontTell
-
----
-
 I will be reprocessing the Berkeley data every month, do the YoY
 checks, so we can look at it and weep
 
