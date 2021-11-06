@@ -65,8 +65,8 @@ Miss Tess - Comes Love \#music
 
 Is growth a good thing? Not sure.. Coca-Cola shits out a **billion**
 plastic bottles in a week. Where does all that plastic go? Do we want
-a billion *and a half* billion bottles produced in a week? That would
-be growth right?
+a billion *and a half* bottles produced in a week? That would be
+growth right?
 
 ---
 
