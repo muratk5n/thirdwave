@@ -71,7 +71,7 @@ be growth right?
 ---
 
 I will be reprocessing the Berkeley data every month, do the YoY
-checks, so we can look at it and weep
+checks, so we all can look at it and weep
 
 ---
 
