@@ -35,11 +35,11 @@ one that truly sealed the deal. It is game-over for the deniers.
 
 Berkeley
 
-The most basic plot will look at at Earth's average temparature. We
-use data from [Berkeley](http://berkeleyearth.org/data/), this data is
-as raw as its gets, looked at the "Monthly Land" under the Gridded
-section, and downloaded the "Equal Area" data file. An average
-temparature from all regions is calculated, 
+The most basic plot looks at Earth's average temparature. We use data
+from [Berkeley](http://berkeleyearth.org/data/), this data is as raw
+as its gets, looked at the "Monthly Land" under the Gridded section,
+and downloaded the "Equal Area" data file. An average temparature from
+all regions is calculated,
 
 ```python
 import climate
