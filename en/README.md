@@ -37,10 +37,9 @@ be used as predictions about the future"
 
 ---
 
-
 Every student deserves to learn from the best, as I learned from Arthur
-Mattuck. Here I share my vid based [ed plan]((2018/09/public-education.md))
-again.
+Mattuck. Here's my vid based [ed plan]((2018/09/public-education.md))
+again. 
 
 ---
 
