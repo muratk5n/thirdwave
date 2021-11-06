@@ -1,5 +1,66 @@
 # Week 44
 
+Oil prices and OPEC output [graph](tweets/2021/opec-price.png).
+[Code](tweets/2021/util.py).
+
+---
+
+New [graph](2019/05/stats.md#opec) for OPEC output (monthly), data from EIA. 
+
+CNBC: "Biden has squarely blamed the reluctance of OPEC+ to pump more
+oil for the sharp rise in energy prices in the U.S. and around the
+world"
+
+---
+
+Jane's Defense: "Taiwanese and US marines conducting joint training on Guam"
+
+---
+
+The backlash didn't take place bcz of shitlib failure making movies
+more cuck. Or failing to talk about SJW concepts at schools. The
+reason was econ. But some doubled down made the fail more visible, the
+arts, general discourse suffered. Remember Russiagate, that was some
+insane asylum shit..
+
+---
+
+Through outsourcing, globalization after 70s, they killed wage growth
+therefore inflation. The lowflation world was a policy choice. But
+then people started dying of opioids. There was backlash. Trump.
+
+---
+
+Inflation, wages, 1970s \#blyth
+
+[[-]](https://youtu.be/8rxrjhWTdv8)
+
+---
+
+Not kidding with the LGBTQIA2S+ part.. This is the latest alphabet soup
+for the group.
+
+---
+
+How about creating a new competition category called LGBTQIA2S+Arr-Ee-Ess-Pee-Ee-Cee-Tee,
+people there compete against eachother.
+
+I wonder how a trans-man would feel about being in the same contest as
+a gay guy. S/he would probably object.. Don't wanna get your ass kicked
+right?
+
+---
+
+I dont disagree
+
+"Texas governor signs bill banning transgender girls from female sports in schools"
+
+---
+
+A [blunder](https://youtu.be/H4GSp_gEojs?t=869) for sure. Dont feed the beast \#dem \#shitlib
+
+---
+
 Paid family leave is being added back to BBB? Grand.
 
 ---

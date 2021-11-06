@@ -1,63 +1,97 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-Oil prices and OPEC output [graph](tweets/2021/opec-price.png).
-[Code](tweets/2021/util.py).
+Sales and bullshit is also part of the job. See Jobs [talk at MIT](https://youtu.be/YXUhLbV8Nrg?t=738).
+Look how he talks about great rivalries, his new machine / OS NextStep,
+the big, bad rival Sun is trying to kill him, he is growing 2x, 4x..
+
+Well; That machine only sold 50,000 units. The OS is a Unix variant
+could not have existed without academia. They made changes to it,
+added stuff on top, the code would go eventually find its way into
+iPhones later, changed some more, arriving to its current form which
+senior Linux devs still call a piece of shit. Linux is of course open
+source, the largest software project ever undertaken by mankind.
 
 ---
 
-New [graph](2019/05/stats.md#opec) for OPEC output (monthly), data from EIA. 
-
-CNBC: "Biden has squarely blamed the reluctance of OPEC+ to pump more
-oil for the sharp rise in energy prices in the U.S. and around the
-world"
-
----
-
-Jane's Defense: "Taiwanese and US marines conducting joint training on Guam"
+Tech CEO is mostly the "getting excited" guy. He'll "get excited" on a
+tech be an internal evangelist for it, which can motivate employees to
+work on it more, in a sense of "mission". Administrative duties are
+important of course, but dont need deep sci mind for that.
 
 ---
 
-The backlash didn't take place bcz of shitlib failure making movies
-more cuck. Or failing to talk about SJW concepts at schools. The
-reason was econ. But some doubled down made the fail more visible, the
-arts, general discourse suffered. Remember Russiagate, that was some
-insane asylum shit..
+Biz does not have the capacity for true research. They think too
+short-term, the "need to show something" is too strong. 
+
+"AlphaGo Zero shows that corporate R&D has starved basic research in
+favor of safe bets and tinkering at the margins. Deepmind's AlphaGo
+Zero — which taught itself to play a remarkable game of Go in just 72
+hours — is an ironic poster child for this phenomenon. AlphaGo is part
+of a long-term shift in AI research from generating machine
+comprehension to "machine learning" that is just a fancy form of
+statistical analysis, a brute-force approach that relies on ingesting
+lots of human decisions and making statistical observations that can
+be used as predictions about the future"
+
+[[-]](https://boingboing.net/2017/11/24/brute-force-vs-comprehension.html)
 
 ---
 
-Through outsourcing, globalization after 70s, they killed wage growth
-therefore inflation. The lowflation world was a policy choice. But
-then people started dying of opioids. There was backlash. Trump.
+
+Every student deserves to learn from the best, as I learned from Arthur
+Mattuck. Here I share my vid based [ed plan]((2018/09/public-education.md))
+again.
 
 ---
 
-Inflation, wages, 1970s \#blyth
+I learned DEs from his lecture.. fantastic teacher. I bet these videos
+will continue to teach even after his passing. RIP
 
-[[-]](https://youtu.be/8rxrjhWTdv8)
+<img width="200" src="https://pbs.twimg.com/media/FDSOcwPX0AQThZ8?format=jpg&name=small"/>
 
----
+"@MITOCW
 
-Not kidding with the LGBTQIA2S+ part.. This is the latest alphabet soup
-for the group.
+We were saddened by the news of MIT Prof. Arthur Mattuck's
+passing. Check out his lecture from Differential Equations"
 
----
-
-How about creating a new competition category called LGBTQIA2S+Arr-Ee-Ess-Pee-Ee-Cee-Tee,
-people there compete against eachother.
-
-I wonder how a trans-man would feel about being in the same contest as
-a gay guy. S/he would probably object.. Don't wanna get your ass kicked
-right?
+[[-]](https://twitter.com/MITOCW/status/1455910093485182979)
 
 ---
 
-I dont disagree
+Miss Tess - Comes Love \#music
 
-"Texas governor signs bill banning transgender girls from female sports in schools"
+[[-]](https://youtu.be/1ODysvDUnoo)
 
 ---
 
-A [blunder](https://youtu.be/H4GSp_gEojs?t=869) for sure. Dont feed the beast \#dem \#shitlib
+Is growth a good thing? Not sure.. Coca-Cola shits out a **billion**
+plastic bottles in a week. Do we want a billion and a half billion
+bottles produced in a week? Where does all that stuff go? 
+
+---
+
+Let's note also how the first crisis in Clint presidency was a
+hot-button social issue, not an economic issue. For econ they'd do
+NAFTA and everyone was on board for that, except that one weird guy
+with the squeky voice.. In a debate on the subject Perot would argue
+against, Gore wld argue for, and one of the "eminent characters" he
+would use for his case would be Powell.
+
+---
+
+Powell was beloved by Reps but not bcz he was a good general but bcz
+he fought in the culture war and "scored one on the libs" \#DontAskDontTell
+
+---
+
+I will be reprocessing the Berkeley data every month, do the YoY
+checks, so we can all weep together
+
+---
+
+Processing raw climate data now.. This is some next level shit
+
+[[-]](2015/08/temp-increase.md#berkeley)
 
 ---
 
