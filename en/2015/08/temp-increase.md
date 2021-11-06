@@ -7,8 +7,8 @@ Berkeley Data
 The most basic plot looks at Earth's average temparature. We use data
 from [Berkeley](http://berkeleyearth.org/data/), this data is as raw
 as its gets, looked at the "Monthly Land" under the Gridded section,
-and downloaded the "Equal Area" data file. An average temparature from
-all regions is calculated,
+and downloaded the "Equal Area" data file. An average temparature of
+all regions is calculated per time index,
 
 ```python
 import climate
