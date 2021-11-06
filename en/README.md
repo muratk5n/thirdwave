@@ -85,7 +85,7 @@ he fought in the culture war and "scored one on the libs" \#DontAskDontTell
 ---
 
 I will be reprocessing the Berkeley data every month, do the YoY
-checks, so we can all weep together
+checks, so we can look at it and weep.
 
 ---
 
