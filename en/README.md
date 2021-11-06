@@ -39,7 +39,8 @@ be used as predictions about the future"
 
 Every student deserves to learn from the best, as I learned from Arthur
 Mattuck. Here's my vid based [ed plan]((2018/09/public-education.md))
-again. 
+again. A regular, average non-research teacher is a terrorist. We need to
+quash this profession as we know it.
 
 ---
 
