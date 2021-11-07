@@ -36,7 +36,7 @@ Wind turbines use that f-ing [SF6](2019/09/sf6.md), truly disgusting stuff
 
 ---
 
-[Indium](2021/10/the-rare-metals-war.md#ref1)
+Excerpt from [The Rare Metals War](2021/10/the-rare-metals-war.md#ref1).
 
 ---
 
