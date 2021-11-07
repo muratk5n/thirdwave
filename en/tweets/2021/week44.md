@@ -39,7 +39,7 @@ be used as predictions about the future"
 ---
 
 Every student deserves to learn from the best, as I learned from Arthur
-Mattuck. Here's my vid based [ed plan]((2018/09/public-education.md))
+Mattuck. Here's my vid based [ed plan]((../../2018/09/public-education.md))
 again. The average, non-research teacher is a terrorist. We need to
 quash this profession as we know it.
 
@@ -79,16 +79,15 @@ checks, so we all can look at it and weep
 
 Processing raw climate data now.. This is some next level shit right there
 
-[[-]](2015/08/temp-increase.md#berkeley)
+[[-]](../../2015/08/temp-increase.md#berkeley)
 
 ---
 
-Oil prices and OPEC output [graph](tweets/2021/opec-price.png).
-[Code](tweets/2021/util.py).
+Oil prices and OPEC output [graph](opec-price.png). [Code](util.py).
 
 ---
 
-New [graph](2019/05/stats.md#opec) for OPEC output (monthly), data from EIA. 
+New [graph](../../2019/05/stats.md#opec) for OPEC output (monthly), data from EIA. 
 
 CNBC: "Biden has squarely blamed the reluctance of OPEC+ to pump more
 oil for the sharp rise in energy prices in the U.S. and around the
@@ -212,7 +211,7 @@ of people, on 'either side', they'll do.
 
 Murdoch is a native of the country anyway, he cut his teeth there,
 before he exported the shit overseas, so UK could end up with
-[this](../../tweets/2021/murdoch_abu_sleeping.jpg).
+[this](murdoch_abu_sleeping.jpg).
 
 ---
 
