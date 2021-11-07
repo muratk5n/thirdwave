@@ -18,32 +18,32 @@ def overall_deaths(mon):
    g.columns = ['incidents','deaths']
    return g.sort_values('deaths',ascending=False)
 
-print (overall_deaths(mon=8).head(20))
+print (overall_deaths(mon=9).head(20))
 ```
 
 ```text
-                     incidents  deaths
-country                               
-Afghanistan                442    4612
-Nigeria                     64     314
-Somalia                     33     139
-Yemen (North Yemen)         70     126
-Burkina Faso                16     112
-DR Congo (Zaire)            48     110
-Egypt                        6      96
-Niger                        5      43
-Pakistan                    27      40
-Ethiopia                    26      36
-Cameroon                    31      28
-Philippines                 12      28
-Iraq                        36      28
-Syria                       58      27
-Mozambique                  16      24
-India                       25      22
-Myanmar (Burma)             48      18
-Turkey                      13      12
-Ukraine                     17      10
-Sudan                        8       7
+                          incidents  deaths
+country                                    
+Afghanistan                      47     265
+Yemen (North Yemen)              63     223
+Nigeria                          55     119
+Ethiopia                         15      67
+DR Congo (Zaire)                 69      55
+Myanmar (Burma)                  78      55
+Mozambique                       16      34
+Iraq                             31      32
+Philippines                      15      32
+Pakistan                         19      30
+Colombia                         13      21
+Syria                            54      19
+Mexico                          328      18
+Kenya                             5      15
+Cameroon                         33      12
+India                            15      12
+Mali                             17       9
+Central African Republic         18       8
+Ukraine                          14       7
+Israel                            4       7
 ```
 
 Details for Specific Country

@@ -1,7 +1,7 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-Stanwell is building a plant in AU, using 17,000 m² of mirrors.  AU,
-the Middle East, Chile are great places for this tech.
+Stanwell is building a plant in AU, using 17,000 m² of mirrors. Spain,
+AU, the Middle East, Chile are great places for this tech. 
 
 ---
 
