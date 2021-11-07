@@ -64,11 +64,9 @@ such as electric vehicles or consumer electronics"
 
 ---
 
-"[According to climate researcher J. Hansen] After World War II, the
-industrial economies of Europe and the United States were revving up
-to a level of productivity the world had never seen before. To power
-this large-scale expansion of industry, Europeans and Americans burned
-an enormous quantity of fossil fuels (coal, oil, and natural gas). In
+"[Climate researcher J. Hansen believes to] power [the] large-scale
+[post WWII] expansion of industry, Europeans and Americans burned an
+enormous quantity of fossil fuels (coal, oil, and natural gas). In
 addition to carbon dioxide, burning fossil fuel produces particulate
 matter—including soot and light-colored sulfate aerosols. Hansen
 suspects the relatively sudden, massive output of aerosols from
