@@ -61,8 +61,12 @@ such as electric vehicles or consumer electronics"
 
 ---
 
-"[Climate researcher J. Hansen believes to] power [the] large-scale
-[post WWII] expansion of industry, Europeans and Americans burned an
+"[W]hereas greenhouse gases force the climate system in the warming
+direction, aerosols force the system in the cooling direction because
+the airborne particles scatter and absorb incoming sunlight.
+
+[Climate researcher Hansen believes to] power [the] large-scale [post
+WWII] expansion of industry, Europeans and Americans burned an
 enormous quantity of fossil fuels.. In addition to carbon dioxide,
 burning fossil fuel produces particulate matter—including soot and
 light-colored sulfate aerosols. Hansen suspects the relatively sudden,
