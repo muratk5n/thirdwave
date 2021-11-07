@@ -97,10 +97,6 @@ interpolation.
 
 ---
 
-I said it probably isn't *timely*, didn't say it wouldn't be good! \#Dune 
-
----
-
 I like the title
 
 "Bad apples come from rotten trees in policing"
