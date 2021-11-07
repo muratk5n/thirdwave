@@ -717,11 +717,26 @@ plt.savefig('opec.png')
 
 ![](opec.png)
 
+<a name="worldoil"></a>
+
+World
+
 ```python
-import pandas as pd
-df = pd.read_csv('world-crude.csv',sep='\s', comment='#',index_col=0)
-df.columns = ['Annual production (mil barrels per day)']
-df.plot()
+import pandas as pd, requests
+from datetime import date
+
+api_key = open('.eiakey').read()
+url = 'http://api.eia.gov/series/?api_key=' + api_key + '&series_id=INTL.53-1-WORL-TBPD.M' 
+r = requests.get(url)
+json_data = r.json()
+df = pd.DataFrame(json_data.get('series')[0].get('data'))
+df['Year'] = df[0].astype(str).str[:4]
+df['Month'] = df[0].astype(str).str[4:]
+df['Day'] = 1
+df['Date'] = pd.to_datetime(df[['Year','Month','Day']])
+df = df.set_index('Date')
+df[1].plot()
+plt.legend(['World Oil Production Per Month (thousand barrels per day)'])
 plt.savefig('crude-production.png')
 ```
 
