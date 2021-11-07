@@ -1,24 +1,5 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-"[Enertrag] welcomed a Uruguayan delegation to its Uckermark, Germany,
-renewable power plant as the company showcased the potential of green
-hydrogen production and its exportation"
-
-[[-]](https://www.h2-view.com/story/enertrag-welcomes-uruguayan-delegation-to-showcase-the-potential-of-green-hydrogen-production/)
-
----
-
-I read about that; it is an ammonia based combustion engine. 100% clean,
-zero emissions.
-
-"Fortescue is undertaking to deliver several key projects... These
-projects include: Developing a ship design powered by green ammonia
-and trialing that design in new ammonia engine technology, at
-scale.. Trialing technology on locomotives to run on green ammonia"
-
-[[-]](https://www.greencarcongress.com/2021/04/20210410-fmg.html)
-
----
 
 AU, the Middle East, Chile are great places for this tech.
 
