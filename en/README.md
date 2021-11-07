@@ -32,7 +32,7 @@ energy transmission, keeping electrification at a minimum.
 
 ---
 
-Wind turbines also use that f-ing [SF6](2019/09/sf6.md), truly disgusting stuff
+Wind turbines use that f-ing [SF6](2019/09/sf6.md), truly disgusting stuff
 
 ---
 
