@@ -1,6 +1,8 @@
 # Timeline of Syria, TR Events
 
 * 2012
+  * 15/03: Syrian civil war started
+  * 19/07: Kurdish town of Kobanê in Rojova, Syria declared its autonomy. It was followed by Cizire and Afrin.
   * 20/08: Obama said use of chemical weapons in Syria would cross a "red line"
 * 2013
   * 19/03: Chemical weapons attacks were reported in Syria’s two main cities, the Khan al-Assel neighborhood of Aleppo and the Damascus suburb of al-Atebeh
@@ -16,11 +18,14 @@
   * 11/06: ISIS invades TR Mosul consulate taking many hostage
   * 10/08: PM becomes President (a figurehead position at this point)
   * 21/08: Former FM becomes PM
+  * 13/09: Islamic State begins its siege of Kobane
   * 14/12: Gov backlash against the Brotherhood starts, their businesses fall under investigation
 * 2015
+  * 27/01: Kurdish forces and its allies, backed by the continued US-led airstrikes, retook Kobane
   * 30/01: King Abdullah of Jordan warns US Senate leaders of TR’s pervasive support for Islamic militants and Israel turning a blind eye
   * 23/05: Istanbul airport with a mortar shell attack 1 person killed 
   * 07/06: TR ruling party loses majority as pro-Kurdish HDP gains seats
+  * 18/06: Kurdish forces capture Tel Abyad enabling the geographical link between Kobane and Cizire
   * 30/06: Greece defaults on IMF debt spurring crisis, another bailout programme is signed, EU/Germany's image is a tough austerian
   * 06/09: Mafia violence against newspaper Hurriyet allegedly with government support
   * 08/09: Germany adopts an open-door policy to Syrian refugees, around 800K will eventually arrive in the country
