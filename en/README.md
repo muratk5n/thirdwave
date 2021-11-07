@@ -1,10 +1,13 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
+Stanwell is building a plant in AU, using 17,000 m² of mirrors.  AU,
+the Middle East, Chile are great places for this tech.
 
-AU, the Middle East, Chile are great places for this tech.
+---
 
-"Stage II [of a Stanwell, AU] facility is expected to produce 4.4
-megawatts electric using 17,000 m² mirrors [in Australia]"
+"An estimated 550 MW of concentrating solar thermal power (CSP) came
+online in 2018, increasing cumulative global capacity more than 11% to
+just under 5.5 GW"
 
 ---
 
