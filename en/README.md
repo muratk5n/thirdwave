@@ -27,8 +27,8 @@ generate fuel. Simple.
 ---
 
 High-voltage electric grid uses SF6 too.. another reason to
-deelectrify, and use H2 pipelines, or ammonia for all long distance
-energy transmission, keeping electrification at a minimum. 
+deelectrify, and use clean molecules for all long distance energy
+transmission, keeping electrification at a minimum.
 
 ---
 
