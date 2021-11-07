@@ -1,13 +1,19 @@
 # Timeline of Syria, TR Events
 
-* 2012
+
+* 2011
   * 15/03: Syrian civil war started
+  * 01/08: Turkey embraced an explicit policy of regime change in Syria and threw open its doors to thousands of Syrian refugees
+* 2012
+  * 01/02: After secret negotiations between TR intel and the PKK in Oslo became public, prosecutors said to be close to the Gulen movement tried to subpoena the intel chief to respond to accusations of a “disclosure of information to the PKK”. Gulen Brotherhood was known with  hard-line nationalist approach to the Kurds
   * 19/07: Kurdish town of Kobanê in Rojova, Syria declared its autonomy. It was followed by Cizire and Afrin.
   * 20/08: Obama said use of chemical weapons in Syria would cross a "red line"
 * 2013
+  * 11/05: Two car bombs exploded in Reyhanlı, a town 5 km from the Syrian border, 52 people were killed and 140 injured
+  * 16/05: During TR visit Obama indirectly blames TR intel chief for working with extreme jihadists
   * 19/03: Chemical weapons attacks were reported in Syria’s two main cities, the Khan al-Assel neighborhood of Aleppo and the Damascus suburb of al-Atebeh
   * 28/03: Gezi park protests initially started to stop an urban development plan at a park turned into protest on secularism
-  * 16/05: During TR visit Obama indirectly blames TR intel chief for working with extreme jihadists
+  * 13/08: TR gov proposes a new law that would force several private cram schools, many of which are owned by the Gülen Movement, to close
   * 21/08: A rebel-held suburb of Damascus was attacked with sarin gas
   * 31/08: Obama says he would seek an authorization for the use of force from Congress against Syria
   * 09/09: Russia convinces Syria to hand over its stockpile to intl control averting US strike
