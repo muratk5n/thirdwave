@@ -50,12 +50,12 @@ In 2006, some sixty companies producing indium — a rare metal used in
 the manufacture of certain solar-panel technologies — released tonnes
 of chemicals into the Xiang River in Hunan, jeopardising the
 meridional province’s drinking water and the health of its
-residents. 21 In 2011, journalists reported on the damage to the
+residents. In 2011, journalists reported on the damage to the
 ecosystems of the Ting River in the seaside province of Fujian, due to
 the operation of a mine rich in gallium — an up-and-coming metal for
-the manufacture of energy-efficient light bulbs. 22 And in Ganzhou,
-where I landed, the local press recently reported that the toxic waste
-dumps created by a mining company producing tungsten — a critical
-metal for wind-turbine blades — had obstructed and polluted many
-tributaries of the Yangtze River.
+the manufacture of energy-efficient light bulbs. And in Ganzhou, where
+I landed, the local press recently reported that the toxic waste dumps
+created by a mining company producing tungsten — a critical metal for
+wind-turbine blades — had obstructed and polluted many tributaries of
+the Yangtze River.
 
