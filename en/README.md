@@ -40,9 +40,6 @@ Wind turbines also use that f-ing [SF6](2019/09/sf6.md), truly disgusting stuff
 
 ---
 
-Some renewable sources can be better than others in material
-usage.
-
 CSP (Concentrated Solar Power) plants do not require rare earth
 materials.  All you need is glass and steel to make mirrors which is
 known tech and resources for it are abundant. Efficiency at 30% equals
