@@ -109,7 +109,7 @@ geo data is shared as cdf.
 ---
 
 Working with raw data is never easy. Berkeley data could be spotty for
-earlier years, thx to one suggest from one researcher fixed it through
+earlier years, thx to one suggest from a researcher fixed it through
 interpolation.
 
 ---
