@@ -30,8 +30,8 @@ megawatts electric using 17,000 m² mirrors [in Australia]"
 
 ---
 
-At night no sunshine? No problem, there is still gas in the pipeline
-network, more than enough for night time usage.
+At night no sunshine? No problem, there will still be gas in the
+pipeline network, more than enough for night time usage.
 
 ---
 
