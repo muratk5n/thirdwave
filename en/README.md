@@ -3,7 +3,7 @@
 
 AU, the Middle East, Chile are great places for this tech.
 
-"Stage II [of a Stanwell] facility is expected to produce 4.4
+"Stage II [of a Stanwell, AU] facility is expected to produce 4.4
 megawatts electric using 17,000 m² mirrors [in Australia]"
 
 ---
