@@ -99,7 +99,7 @@ and other health and environmental problems.)"
 
 Yes between 40-70s there was a brief cooling in climate; but this
 happened partly due to an action hard to replicate. We need to fix the
-root of the problem, through green fuels.
+root of the problem, through clean fuels.
 
 ---
 
