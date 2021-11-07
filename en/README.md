@@ -103,7 +103,7 @@ root of the problem, through green fuels.
 
 ---
 
-Got to play with 🐍 package `netcdf4`. Can be useful later. Lots of
+Got to play with 🐍 package `netcdf4`, can be useful later. Lots of
 geo data is shared as cdf.
 
 ---
