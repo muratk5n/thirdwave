@@ -66,12 +66,11 @@ such as electric vehicles or consumer electronics"
 
 "[Climate researcher J. Hansen believes to] power [the] large-scale
 [post WWII] expansion of industry, Europeans and Americans burned an
-enormous quantity of fossil fuels (coal, oil, and natural gas). In
-addition to carbon dioxide, burning fossil fuel produces particulate
-matter—including soot and light-colored sulfate aerosols. Hansen
-suspects the relatively sudden, massive output of aerosols from
-industries and power plants contributed to the global cooling trend
-from 1940-1970.
+enormous quantity of fossil fuels.. In addition to carbon dioxide,
+burning fossil fuel produces particulate matter—including soot and
+light-colored sulfate aerosols. Hansen suspects the relatively sudden,
+massive output of aerosols from industries and power plants
+contributed to the global cooling trend from 1940-1970.
 
 'That’s my suggestion, though it’s still not proven,' [Hansen]
 said. 'There is a nice record of sulfates ..  that shows this type of
