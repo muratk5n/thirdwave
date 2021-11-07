@@ -12,12 +12,9 @@ I read about that; it is an ammonia based combustion engine. 100% clean,
 zero emissions.
 
 "Fortescue is undertaking to deliver several key projects... These
-projects include:
-
-Developing a ship design powered by green ammonia and trialing that
-design in new ammonia engine technology, at scale..
-
-Trialing technology on locomotives to run on green ammonia"
+projects include: Developing a ship design powered by green ammonia
+and trialing that design in new ammonia engine technology, at
+scale.. Trialing technology on locomotives to run on green ammonia"
 
 [[-]](https://www.greencarcongress.com/2021/04/20210410-fmg.html)
 
