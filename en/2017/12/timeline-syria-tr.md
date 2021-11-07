@@ -18,6 +18,7 @@
   * 21/08: Former FM becomes PM
   * 14/12: Gov backlash against the Brotherhood starts, their businesses fall under investigation
 * 2015
+  * 30/01: King Abdullah of Jordan warns US Senate leaders of TR’s pervasive support for Islamic militants and Israel turning a blind eye
   * 23/05: Istanbul airport with a mortar shell attack 1 person killed 
   * 07/06: TR ruling party loses majority as pro-Kurdish HDP gains seats
   * 30/06: Greece defaults on IMF debt spurring crisis, another bailout programme is signed, EU/Germany's image is a tough austerian
@@ -33,6 +34,7 @@
   * 13/03: Ankara suicide bombing killed  37 people injured 125
   * 19/03: Suicide bomb kills 4 in shopping street in Istanbul
   * 21/03: Iranian-TR businessman Zarrab implicated in earlier corruption scandal escapes to US possibly with a wealth of info on TR gov officials
+  * 01/04: An Obama interview reveals he considers TR PM a failure, an authoritarian, one who refuses to use his enormous army to bring stability to Syria
   * 22/05: PM resigns due to ruling party infighting
   * 28/06: Airport attack, 45 people were killed 239 people injured in TR
   * 15/07: TR coup attempt

@@ -1,85 +1,128 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-Sales and bullshit is also part of the job. See Jobs [talk at MIT](https://youtu.be/YXUhLbV8Nrg?t=738).
-Look how he talks about great rivalries, his new machine / OS NextStep,
-the big, bad rival Sun is trying to kill him, he is growing 2x, 4x..
+"[Enertrag] welcomed a Uruguayan delegation to its Uckermark, Germany,
+renewable power plant as the company showcased the potential of green
+hydrogen production and its exportation"
 
-Well; That machine only sold 50,000 units. The OS is a Unix variant
-could not have existed without academia. They made changes to it added
-stuff on top which weren't really good, the code would eventually
-find its way into iPhones later, changed some more, arriving to its
-current form which senior Linux devs still call a piece of shit. Linux
-is of course open source, the largest software project ever undertaken
-by mankind.
+[[-]](https://www.h2-view.com/story/enertrag-welcomes-uruguayan-delegation-to-showcase-the-potential-of-green-hydrogen-production/)
 
 ---
 
-Tech CEO is mostly the "getting excited" guy. He'll "get excited" on a
-tech be an internal evangelist for it, which can motivate employees to
-work on it more, in a sense of "mission". Administrative duties are
-important of course, but dont need deep sci mind for that.
+I read about that; it is an ammonia based combustion engine. 100% clean,
+zero emissions.
+
+"Fortescue is undertaking to deliver several key projects... These
+projects include:
+
+Developing a ship design powered by green ammonia and trialing that
+design in new ammonia engine technology, at scale..
+
+Trialing technology on locomotives to run on green ammonia"
+
+[[-]](https://www.greencarcongress.com/2021/04/20210410-fmg.html)
 
 ---
 
-Biz does not have the capacity for true research. They think too
-short-term, the "need to show something" is too strong. 
+AU, the Middle East, Chile are great places for this tech.
 
-"AlphaGo Zero shows that corporate R&D has starved basic research in
-favor of safe bets and tinkering at the margins. Deepmind's AlphaGo
-Zero — which taught itself to play a remarkable game of Go in just 72
-hours — is an ironic poster child for this phenomenon. AlphaGo is part
-of a long-term shift in AI research from generating machine
-comprehension to "machine learning" that is just a fancy form of
-statistical analysis, a brute-force approach that relies on ingesting
-lots of human decisions and making statistical observations that can
-be used as predictions about the future"
-
-[[-]](https://boingboing.net/2017/11/24/brute-force-vs-comprehension.html)
+"Stage II [of a Stanwell] facility is expected to produce 4.4
+megawatts electric using 17,000 m² mirrors [in Australia]"
 
 ---
 
-Every student deserves to learn from the best, as I learned from Arthur
-Mattuck. Here's my vid based [ed plan]((2018/09/public-education.md))
-again. The average, non-research teacher is a terrorist. We need to
-quash this profession as we know it.
+At night no sunshine? No problem, there is still gas in the pipeline
+network, more than enough for night time usage.
 
 ---
 
-I learned DEs from his lecture.. fantastic teacher. I bet these videos
-will continue to teach even after his passing. RIP
+CSP plant in Chile
 
-<img width="200" src="https://pbs.twimg.com/media/FDSOcwPX0AQThZ8?format=jpg&name=small"/>
-
-"@MITOCW
-
-We were saddened by the news of MIT Prof. Arthur Mattuck's
-passing. Check out his lecture from Differential Equations"
-
-[[-]](https://twitter.com/MITOCW/status/1455910093485182979)
+<img width="340" src="https://pbs.twimg.com/media/FDh3C9DWQAsX4ux?format=jpg&name=small"/>
 
 ---
 
-Miss Tess - Comes Love \#music
-
-[[-]](https://youtu.be/1ODysvDUnoo)
-
----
-
-Is growth a good thing? Not sure.. Coca-Cola shits out a **billion**
-plastic bottles in a week. Where does all that plastic go? Do we want
-a billion *and a half* bottles produced in a week? That would be
-growth right?
+Reflecting, or redirecting sunlight through lenses can give immense
+power. Haven't we all used a convex lense to focus sunlight on
+something as a kid, and saw it burn? Get sunlight, create heat,
+generate fuel. Simple.
 
 ---
 
-I will be reprocessing the Berkeley data every month, do the YoY
-checks, so we all can look at it and weep
+High-voltage electric grid uses SF6 too.. another reason to
+deelectrify, and use H2 pipelines, or ammonia for all long distance
+energy transmission, keeping electrification at a minimum. 
 
 ---
 
-Processing raw climate data now.. This is some next level shit right there
+Wind turbines also use that f-ing [SF6](2019/09/sf6.md), truly disgusting stuff
 
-[[-]](2015/08/temp-increase.md#berkeley)
+---
+
+[Indium](2021/10/the-rare-metals-war.md#ref1)
+
+---
+
+CSP (Concentrated Solar Power) plants do not require rare earth materials.
+All you need is glass and steel to make mirrors which is known tech and
+resources for it are abundant. Efficiency at 30% equals solar panel tech.
+
+"Renewable energy development relies upon sufficient quantities of rare
+earth minerals, specifically neodymium, terbium, indium, dysprosium,
+and praseodymium. These are used in the production of solar panels and
+wind turbines"
+
+[[-]](https://clearworld.us/renewable-energy-requires-rare-earth-minerals-china-holds-most-of-them/)
+
+---
+
+"[According to climate researcher J. Hansen] After World War II, the
+industrial economies of Europe and the United States were revving up
+to a level of productivity the world had never seen before. To power
+this large-scale expansion of industry, Europeans and Americans burned
+an enormous quantity of fossil fuels (coal, oil, and natural gas). In
+addition to carbon dioxide, burning fossil fuel produces particulate
+matter—including soot and light-colored sulfate aerosols. Hansen
+suspects the relatively sudden, massive output of aerosols from
+industries and power plants contributed to the global cooling trend
+from 1940-1970.
+
+'That’s my suggestion, though it’s still not proven,' [Hansen]
+said. 'There is a nice record of sulfates ..  that shows this type of
+particle was peaking in the atmosphere around 1970. And then the ice
+core record shows a rapid decline in sulfates, right about the time
+nations began regulating their emission.' (Sulfates cause acid rain
+and other health and environmental problems.)"
+
+[[-]](https://earthobservatory.nasa.gov/features/GISSTemperature/giss_temperature4.php)
+
+---
+
+Yes between 40-70s there was a brief cooling in climate; but this
+happened partly due to an action hard to replicate. We need to fix the
+root of the problem, through green fuels.
+
+---
+
+Got to play with 🐍 package `netcdf4`. Can be useful later. Lots of
+geo data is shared as cdf.
+
+---
+
+Working with raw data is never easy. Berkeley data could be spotty for
+earlier years, thx to one suggest from one researcher fixed it through
+interpolation.
+
+---
+
+I said it probably isn't *timely*, didn't say it wouldn't be good! \#Dune 
+
+---
+
+I like the title
+
+"Bad apples come from rotten trees in policing"
+
+[[-]](https://www.brookings.edu/blog/how-we-rise/2020/05/30/bad-apples-come-from-rotten-trees-in-policing/)
 
 ---
 
