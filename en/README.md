@@ -62,16 +62,27 @@ Wind turbines also use that f-ing [SF6](2019/09/sf6.md), truly disgusting stuff
 
 ---
 
-CSP (Concentrated Solar Power) plants do not require rare earth materials.
-All you need is glass and steel to make mirrors which is known tech and
-resources for it are abundant. Efficiency at 30% equals solar panel tech.
+Some renewable sources can be better than others in material
+usage.
 
-"Renewable energy development relies upon sufficient quantities of rare
-earth minerals, specifically neodymium, terbium, indium, dysprosium,
-and praseodymium. These are used in the production of solar panels and
-wind turbines"
+CSP (Concentrated Solar Power) plants do not require rare earth
+materials.  All you need is glass and steel to make mirrors which is
+known tech and resources for it are abundant. Efficiency at 30% equals
+solar panel tech.
 
-[[-]](https://clearworld.us/renewable-energy-requires-rare-earth-minerals-china-holds-most-of-them/)
+---
+
+"The current global supply of several critical metals is insufficient
+to transition to a renewable energy system. [..P]roduction of wind
+turbines and photovoltaic (PV) solar panels already requires a
+significant share of the annual global production of some critical
+metals. Looking at the global scale, scenarios in line with the goals
+of the Paris Agreement require the global production of some metals to
+grow at least twelvefold towards 2050, compared to today’s
+output. Specifically, the demand for neodymium, terbium, indium,
+dysprosium, and praseodymium stands out. This calculation does not
+include the demand for these specific metals in other applications,
+such as electric vehicles or consumer electronics"
 
 ---
 
