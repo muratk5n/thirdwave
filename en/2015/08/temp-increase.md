@@ -338,3 +338,37 @@ parameter F test:         F=5.3519  , p=0.0032  , df_denom=43, df_num=3
 
 The hypothesis is rejected at a very strong level. Carbon content in
 atmo *did* cause a global increase in temperature.
+
+<a name='ch4co2'/>
+
+## Carbon, Methane Effects
+
+Carbon or methane increase.. which one causes more global temperature
+increase? We place all time series variables in the same data packet,
+and compute the correlation matrix,
+
+```python
+import pandas as pd
+
+df1 = pd.read_csv('global_temperature.csv',index_col='dt',parse_dates=True)
+df1 = df1.rolling(50).mean()
+df2 = pd.read_csv('carbon.csv',index_col='dt',parse_dates=True)
+df3 = pd.read_csv('methane.csv',index_col='dt',parse_dates=True)
+
+df4 = pd.merge(df1,df2,left_index=True, right_index=True,how='left')
+df5 = pd.merge(df4,df3,left_index=True, right_index=True,how='left')
+df5 = df5.interpolate(method='linear',limit_direction='backward')
+df5.columns = ['temp','carbon','methane']
+
+print (df5.corr())
+```
+
+```text
+             temp    carbon   methane
+temp     1.000000  0.497317  0.489216
+carbon   0.497317  1.000000  0.974705
+methane  0.489216  0.974705  1.000000
+```
+
+Carbon and methane, equally cause global warming.
+
