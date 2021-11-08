@@ -269,6 +269,8 @@ url = "ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_mm_mlo.txt"
 r = urllib2.urlopen(url).read()
 file = io.BytesIO(r)
 df = pd.read_csv(file,comment='#',header=None,sep='\s*')
+df['dt'] = df.apply(lambda x: pd.to_datetime("%d-%02d-01" %(x[0],x[1])), axis=1)
+df[['dt',3]].to_csv('carbon.csv',index=None)
 g1 = df.groupby(0)[3].mean()
 ```
 
