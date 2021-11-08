@@ -231,6 +231,27 @@ Longer time span, since the 50s
 
 <a name='carbontemp'/>
 
+<a name='methane'/>
+
+## Methane Levels In the the Atmosphere
+
+Data comes from NOAA units are nanomol/mol, abbreviated as ppb. More
+explanation is in the top section of the data file itself.
+
+```python
+cols = ['year','month','decimal','average','average_unc','trend','trend_unc']
+url = "https://gml.noaa.gov/webdata/ccgg/trends/ch4/ch4_mm_gl.txt"
+import pandas as pd
+df = pd.read_csv(url,comment='#',sep='\s*',header=None)
+df.columns = cols
+df = df.set_index('decimal')
+df.average.plot()
+plt.legend(['nanomol/mol (ppb)'])
+plt.savefig('methane.png')
+```
+
+![](methane.png)
+
 ## Carbon and Temperature
 
 Plotted carbon levels in the atmosphere and global temperature, trying
