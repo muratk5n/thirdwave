@@ -39,7 +39,7 @@ hydrogen production and its exportation"
 ---
 
 Why did Rudolph Diesel not continue with ammonia engines? Production
-of NH3 at huge amounts was probably a factor. Refining crude oil,
+of NH3 in huge amounts was probably a factor. Refining crude oil,
 especially of a certain kind, isn't too hard.  But that was a long
 time ago, we had a long time to work on ammonia production tech, plus
 there is new urgency around the issue.
