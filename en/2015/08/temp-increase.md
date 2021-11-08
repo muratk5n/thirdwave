@@ -246,6 +246,8 @@ import pandas as pd
 df = pd.read_csv(url,comment='#',sep='\s*',header=None)
 df.columns = cols
 df = df.set_index('decimal')
+df['dt'] = df.apply(lambda x: pd.to_datetime("%d-%02d-01" %(x.year,x.month)), axis=1)
+df[['dt','average']].to_csv('methane.csv',index=None)
 df.average.plot()
 plt.legend(['nanomol/mol (ppb)'])
 plt.savefig('methane.png')
