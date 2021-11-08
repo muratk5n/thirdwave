@@ -47,6 +47,7 @@ def average_regions():
     avg['mon'] = avg.apply(lambda x: month(time[x.name]),axis=1)
     avg['mon'] = avg['mon'] + 1
     avg['dt'] = avg.apply(lambda x: pd.to_datetime("%d-%02d-01" %(x.year,x.mon)), axis=1)
+    avg[['dt',0]].to_csv('global_temperature.csv',index=None)
     avg = avg.set_index('dt')
     avg = avg[0]
     avg = avg[avg.index > '1900-01-01']  
