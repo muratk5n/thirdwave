@@ -223,6 +223,7 @@ Date
 2021-09-01    413.30
 Name: ppm, dtype: float64
 ```
+
 ![](carbon.png)
 
 Longer time span, since the 50s
