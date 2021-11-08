@@ -5,8 +5,8 @@ research, is to do that by the silver bullet, which is to take the
 biggest resource known to mankind, the Sun, and store it in the most
 dense form known to man other than the nucleus of an atom, chemical
 bonds.. Our job is...  to do photosynthesis with the Sun to make
-chemical fuels that can be used to power our grids, to store our
-energy, as our transportation fuels"
+chemical fuels that can be used to power our grids, store our
+energy, work as our transportation fuels"
 
 ---
 
