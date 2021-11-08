@@ -343,9 +343,9 @@ atmo *did* cause a global increase in temperature.
 
 ## Carbon, Methane Effects
 
-Carbon or methane increase.. which one causes more global temperature
-increase? We place all time series variables in the same data packet,
-and compute the correlation matrix,
+Carbon or methane.. which one caused more global temperature increase?
+We place all time series' in the same data packet, and compute the
+correlation matrix,
 
 ```python
 import pandas as pd

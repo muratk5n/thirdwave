@@ -13,7 +13,6 @@ def average_regions():
     print (anom.shape)
     print (time.shape)
 
-    # extract year and month from a decimal year
     def year(float_year):
         year = int(float_year)
         return year
@@ -22,7 +21,6 @@ def average_regions():
         month = int((float_year % 1) * 12)
         return month
 
-    # create month digit array corresponding to decimal year array
     monidxs = np.array(list(map(month, time)))
 
     tmp_clims = np.zeros(time.shape[0])
@@ -33,9 +31,6 @@ def average_regions():
         real_temps = base_temps + anom[:, region]
         tmp = pd.Series(real_temps)
         tmp = tmp.replace('--', np.nan)
-        # measurements from new regions / stations later in the
-        # time series come into effect later throwing off the
-        # average, so interpolate that missing data
         tmp = tmp.interpolate(method='linear',limit_direction='backward')
         res.append(list(tmp))
 
