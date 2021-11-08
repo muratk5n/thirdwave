@@ -79,6 +79,10 @@ were at the top.
 
 ---
 
+[Mike Judge](https://twitter.com/MikeJudge/status/1457529055595700235) 😆
+
+---
+
 ## For Members
 
 [Link](https://thirdwave-members.herokuapp.com)
