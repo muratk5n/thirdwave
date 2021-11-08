@@ -61,16 +61,18 @@ def country_attacked(mon, country):
    g.columns = ['incidents','deaths']
    return g.sort_values('deaths',ascending=False)
 
-print (country_attacked(8, 'Syria'))
+print (country_attacked(9, 'Syria'))
 ```
 
 ```text
-                           incidents  deaths
-side_b            country                   
-SDF               Syria           13      14
-Syrian insurgents Syria           28      13
-Civilians         Syria           10       0
-IS                Syria            7       0
+                                                incidents  deaths
+side_b                                 country                   
+Syrian insurgents                      Syria           21      15
+SDF                                    Syria           14       3
+PKK                                    Syria            1       1
+Civilians                              Syria            2       0
+Government of United States of America Syria            1       0
+IS                                     Syria           15       0
 ```
 
 <a name='gdeltme'/>

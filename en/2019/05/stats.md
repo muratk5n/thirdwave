@@ -690,11 +690,9 @@ Name: Close, dtype: float64
 
 ![](oil.png)
 
-Oil Production
-
 <a name="opec"></a>
 
-OPEC
+Opec Oil Production
 
 ```python
 import pandas as pd, requests
@@ -719,7 +717,7 @@ plt.savefig('opec.png')
 
 <a name="worldoil"></a>
 
-World
+World Production
 
 ```python
 import pandas as pd, requests
