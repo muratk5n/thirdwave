@@ -1,85 +1,91 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-Nathan Lewis: "Everything needs to be decarbonized. My passion, our
-research, is to do that by the silver bullet, which is to take the
-biggest resource known to mankind, the Sun, and store it in the most
-dense form known to man other than the nucleus of an atom, chemical
-bonds.. Our job is...  to do photosynthesis with the Sun to make
-chemical fuels that can be used to power our grids, store our
-energy, work as our transportation fuels"
+
+"Alberta, Canada, has released its hydrogen roadmap"
+
+[[-]](https://www.h2-view.com/story/alberta-canada-unveils-transformative-hydrogen-roadmap/)
 
 ---
 
-That is fantastic. Prof Nathan Lewis, eh?
+"European Institutions must support #electrolyser projects with at
+least 50MW capacity provided by a single electrolyser, says @H2Europe
+and the @renewableH2EU"
 
-<iframe width="340" src="https://www.youtube.com/embed/g_1oiJqE3OI?start=725&end=812" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-"[Trump] poured billions of taxpayer dollars into a small pharma
-company and agreed not to share its Covid vaccine with the world. Now
-Moderna is holding up the race to vaccinate low-income
-countries"
-
-[[-]](https://www.politico.com/news/2021/11/05/trump-deal-moderna-global-vaccine-effort-519771)
+[[-]](https://www.h2-view.com/story/hydrogen-europe-renewable-hydrogen-coalition-call-on-further-support-for-50mw-electrolyser-projects/)
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://t.co/iYL6OYq7kk">pic.twitter.com/iYL6OYq7kk</a></p>&mdash; Gabriel Zucman (@gabriel_zucman) <a href="https://twitter.com/gabriel_zucman/status/1453564057491939336?ref_src=twsrc%5Etfw">October 28, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Whodunit? Sadr is the big Shite honcho. He condemned the attacks, who
+is left? 
+
+I read al-Kadhimi played a role in the killing of Soleimani.
+
+"Iraqi Prime Minister Mustafa al-Kadhimi escaped unharmed in an
+assassination attempt by armed drone... It came two days after violent
+clashes in Baghdad between government forces and supporters of
+Iran-backed political parties, most of which have armed wings, since
+those groups lost dozens of seats in parliament after a general
+election on Oct. 10...
+
+Shi’ite Muslim cleric Moqtada al-Sadr, whose party was the biggest
+winner in last month’s election, calling the attack a terrorist act"
 
 ---
 
-
-"[Enertrag] welcomed a Uruguayan delegation to its Uckermark, Germany,
-renewable power plant as the company showcased the potential of green
-hydrogen production and its exportation"
-
-[[-]](https://www.h2-view.com/story/enertrag-welcomes-uruguayan-delegation-to-showcase-the-potential-of-green-hydrogen-production/)
+AP: "Idaho public health leaders expanded health care rationing statewide
+on Thursday amid a spike in the number of unvaccinated COVID-19
+patients requiring hospitalization"
 
 ---
 
-Why did Rudolph Diesel not continue with ammonia engines? Production
-of NH3 in huge amounts was probably a factor. Refining crude oil,
-especially of a certain kind, isn't too hard.  But that was a long
-time ago, we had a long time to work on ammonia production tech, plus
-there is new urgency around the issue.
+CNBC: "Travel stocks rally, stay-at-home companies plunge as pandemic
+wanes and tourism rebounds.. Pfizer said on Friday its Covid-19 pill
+could cut hospitalization risk or death by 89%, and the U.S. prepares
+to lift international travel bans Nov. 8"
 
 ---
 
-I read about that; it is apparently an ammonia based combustion
-engine. 100% clean, zero emissions.
-
-"Fortescue is undertaking to deliver several key projects... These
-projects include: Developing a ship design powered by green ammonia
-and trialing that design in new ammonia engine technology, at
-scale.. Trialing technology on locomotives to run on green ammonia"
-
-[[-]](https://www.greencarcongress.com/2021/04/20210410-fmg.html)
+Breaking Defense: "Army reactivates theater artillery command amid
+Russian build-up near Ukraine... The European Theater Fires Command
+was deactivated in 1991 after the signing of the INF. Now the Army
+views is as critical to long-range fires in multi-domain operations"
 
 ---
 
-World Crude Oil Production, now through EIA API. Good source.
+The pedestrian walking on that sidewalk is also part of the same
+public, and his rights are being trampled on -- he cannot walk on a
+sidewalk when someone plants an entire campground in his way.
 
-[[-]](2019/05/stats.md#worldoil)
-
----
-
-TR Syria events, additions
-
-[[-]](2017/12/timeline-syria-tr.md)
+"But it is public space! We cannot disallow the public from living there"
 
 ---
 
-Global conflict [stats](2019/05/confstats.md) for September.
-
-Afghanistan deaths way down (surprise), from over 4000. Incident count
-too high for Mexico, though deaths not much.. drug related attacks,
-sabotage, explosion maybe, but not direct homicide? Yemen, Nigeria
-were at the top.
+LA Times: "The city of Los Angeles has undertaken a major shift in its
+approach to homelessness, one that puts a priority on clearing
+unsightly street encampments"
 
 ---
 
-[Mike Judge](https://twitter.com/MikeJudge/status/1457529055595700235) 😆
+Now the big question: Carbon or methane? Which one causes more
+warming? Looked at that too, [here](2015/08/temp-increase.md#ch4co2).
+
+---
+
+Graph was flat for a while but then it shot up again starting 2005.
+That must be the so-called "US Shale Revolution". Natural gas
+production skyrocketed in US, and so the leaks, flaring, etc. 
+
+---
+
+What are those little bumps? That is probably methane of decades
+earlier disappearing (methane can expire much earlier than
+carbon). But we keep putting more in, so the trend is always up.
+
+---
+
+Methane levels in the atmo
+
+[[-]](2015/08/temp-increase.md#methane)
 
 ---
 
