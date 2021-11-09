@@ -79,7 +79,7 @@ production skyrocketed in US, and so the leaks, flaring, etc.
 
 What are those little bumps? That is probably methane of decades
 earlier disappearing (methane can expire much earlier than
-carbon). But we keep putting more in, so the trend is always up.
+carbon). But we keep putting more in, so the trend is up.
 
 ---
 
