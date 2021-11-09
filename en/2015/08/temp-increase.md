@@ -236,8 +236,7 @@ Longer time span, since the 50s
 
 ## Methane Levels In the the Atmosphere
 
-Data comes from NOAA units are nanomol/mol, abbreviated as ppb. More
-explanation is in the top section of the data file itself.
+Data comes from NOAA units are nanomol/mol, abbreviated as ppb. 
 
 ```python
 cols = ['year','month','decimal','average','average_unc','trend','trend_unc']
