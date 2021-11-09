@@ -370,5 +370,5 @@ carbon   0.497317  1.000000  0.974705
 methane  0.489216  0.974705  1.000000
 ```
 
-Carbon and methane, equally cause global warming.
+Carbon and methane equally contributed to global warming.
 
