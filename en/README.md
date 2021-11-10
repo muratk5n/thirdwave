@@ -20,7 +20,7 @@ Data will be made available upon reasonable request
 
 ---
 
-Escalates? I guess there is always room for growth
+Escalates? Hey there is always room for growth
 
 The Independent: "Israel escalates surveillance of Palestinians with
 facial recognition program in West Bank"
