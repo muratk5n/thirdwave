@@ -51,8 +51,8 @@ reason for that casting otherwise.
 ---
 
 I nudge the recommender now, giving it only one movie so I get more
-movies of that type. From *Vertical Limit* I got this; wide landscape,
-a lot of nature, snow..
+movies of that type. WR came from *Vertical Limit*; makes sense, shot
+in a wide landscape, lots of nature, snow..
 
 ---
 
