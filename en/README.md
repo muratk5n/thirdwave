@@ -28,9 +28,7 @@ facial recognition program in West Bank"
 ---
 
 Mine for lithium for BEVs, destroy the area then throw bunch of
-useless clothing in its place, polluting some more.. That is just
-great.
-
+useless clothing in its place, polluting some more.. F-ing great
 
 "Chile’s Atacama desert becomes dumping ground for fast fashion
 leftovers"
