@@ -50,7 +50,7 @@ reason for that casting otherwise.
 
 ---
 
-I nudge the recommender now, giving it only one movie so I get more
+I nudge the recommender now, giving it only one movie like to get more
 movies of that type. WR came from *Vertical Limit*; makes sense, shot
 in a wide landscape, lots of nature, snow..
 
