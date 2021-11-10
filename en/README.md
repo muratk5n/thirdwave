@@ -35,11 +35,11 @@ leftovers"
 
 ---
 
-Is working with discontinuities the next level shit on many compsci
-branches?  In optimization, subgradient methods rule. For waves
-so-called Riemann approaches are extremely useful. Computation
-discretizes anyway, so planning for splitting prob into chunks from
-get-go can be a good idea.
+Is working with discontinuities the next level shit in compsci?  In
+optimization, subgradient methods rule. For waves so-called Riemann
+approaches are extremely useful. Computation discretizes anyway, so
+planning for splitting prob into chunks from get-go can be a good
+idea.
 
 ---
 
