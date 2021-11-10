@@ -117,7 +117,7 @@ date
 2021-07-01        4.7           2.8
 2021-08-01        4.6           2.9
 2021-09-01        4.6           3.0
-2021-10-01        4.8           2.8
+2021-10-01        4.8           2.9
 ```
 
 ![](infexp.png)
@@ -150,13 +150,13 @@ plt.savefig('nfp.png')
 ```text
             PAYEMS     nfpyoy
 DATE                         
-2021-02-01  143272  -6.065315
-2021-03-01  144057  -4.496818
 2021-04-01  144326  10.882676
 2021-05-01  144940   8.982360
 2021-06-01  145902   5.848810
-2021-07-01  146955   5.294269
-2021-08-01  147190   4.279874
+2021-07-01  146993   5.321497
+2021-08-01  147476   4.482497
+2021-09-01  147788   4.175096
+2021-10-01  148319   4.050651
 ```
 
 ![](nfp.png)
@@ -211,10 +211,10 @@ plt.savefig('icsa.png')
 ```text
               ICSA
 DATE              
-2021-09-25  364000
-2021-10-02  329000
 2021-10-09  296000
-2021-10-16  290000
+2021-10-16  291000
+2021-10-23  283000
+2021-10-30  269000
 ```
 
 ![](icsa.png)
@@ -245,11 +245,11 @@ plt.savefig('unemploy.png')
 ```text
             UNRATE  U6RATE  REAL_UNRATE  REAL_UNEMP_LEVEL
 DATE                                                     
-2021-05-01     5.8    10.2    11.527325           18551.5
 2021-06-01     5.9     9.8    11.314143           18225.5
 2021-07-01     5.4     9.2    10.821707           17460.5
 2021-08-01     5.2     8.8    10.090877           16300.5
 2021-09-01     4.8     8.5     9.839855           15877.0
+2021-10-01     4.6     8.3     9.667220           15608.5
 ```
 
 ![](unemploy.png)
@@ -282,10 +282,10 @@ plt.savefig('pmi.png')
 
 ```text
 Date
-2021-06-01    60.6
 2021-07-01    59.5
 2021-08-01    59.9
 2021-09-01    61.1
+2021-10-01    60.8
 Name: PMI, dtype: float64
 ```
 
@@ -385,12 +385,12 @@ plt.savefig('dollar.png')
 
 ```text
 Date
-2021-10-25    93.809998
-2021-10-26    93.949997
-2021-10-27    93.860001
-2021-10-28    93.844002
+2021-11-07          NaN
+2021-11-08    94.050003
+2021-11-09    93.959999
+2021-11-10    94.060997
 Name: Adj Close, dtype: float64
-[ 80.706093   111.27055724]
+[ 80.71078061 111.26254669]
 ```
 
 ![](dollar.png)
@@ -421,18 +421,18 @@ plt.savefig('pay-wage.png')
 
 ```text
 DATE
-2021-04-01    1.152623
-2021-05-01    2.359056
 2021-06-01    3.835285
-2021-07-01    4.783137
-2021-08-01    4.756147
+2021-07-01    4.823672
+2021-08-01    4.836759
+2021-09-01    5.526422
+2021-10-01    5.759162
 Name: wageyoy, dtype: float64
 DATE
-2021-04-01    10.882676
-2021-05-01     8.982360
-2021-06-01     5.848810
-2021-07-01     5.294269
-2021-08-01     4.279874
+2021-06-01    5.848810
+2021-07-01    5.321497
+2021-08-01    4.482497
+2021-09-01    4.175096
+2021-10-01    4.050651
 Name: nfpyoy, dtype: float64
 ```
 
@@ -461,10 +461,10 @@ plt.savefig('wilshire.png')
 ```text
             WILL5000IND
 DATE                   
-2021-10-21       226.66
-2021-10-22       226.22
-2021-10-25       227.41
-2021-10-26       227.58
+2021-11-03       232.27
+2021-11-04       233.06
+2021-11-05       234.02
+2021-11-08       234.36
 ```
 
 ![](wilshire.png)
@@ -494,12 +494,12 @@ plt.savefig('junkbond.png')
 ```text
             BAMLH0A2HYBEY
 DATE                     
-2021-10-19           4.70
-2021-10-20           4.68
-2021-10-21           4.70
-2021-10-22           4.74
-2021-10-25           4.74
-2021-10-26           4.72
+2021-11-01           4.84
+2021-11-02           4.84
+2021-11-03           4.84
+2021-11-04           4.78
+2021-11-05           4.63
+2021-11-08           4.61
 ```
 
 ![](junkbond.png)
@@ -534,12 +534,12 @@ plt.savefig('yield-curve.png')
 ```text
             DGS10  DGS3MO  Yield Curve
 DATE                                  
-2021-10-05   1.54    0.04         1.50
-2021-10-06   1.53    0.04         1.49
-2021-10-07   1.58    0.05         1.53
-2021-10-08   1.61    0.05         1.56
-2021-10-11    NaN     NaN          NaN
-2021-10-12   1.59    0.06         1.53
+2021-11-01   1.58    0.05         1.53
+2021-11-02   1.56    0.05         1.51
+2021-11-03   1.60    0.05         1.55
+2021-11-04   1.53    0.04         1.49
+2021-11-05   1.45    0.05         1.40
+2021-11-08   1.51    0.06         1.45
 ```
 
 ![](yield-curve.png)
@@ -570,12 +570,12 @@ plt.savefig('t3mff.png')
 ```text
             DGS3MO  FEDFUNDS  T3MFF
 DATE                               
-2021-10-05   0.040      0.08 -0.040
-2021-10-06   0.040      0.08 -0.040
-2021-10-07   0.050      0.08 -0.030
-2021-10-08   0.050      0.08 -0.030
-2021-10-11   0.055      0.08 -0.025
-2021-10-12   0.060      0.08 -0.020
+2021-11-01    0.05      0.08  -0.03
+2021-11-02    0.05      0.08  -0.03
+2021-11-03    0.05      0.08  -0.03
+2021-11-04    0.04      0.08  -0.04
+2021-11-05    0.05      0.08  -0.03
+2021-11-08    0.06      0.08  -0.02
 ```
 
 ![](t3mff.png)
@@ -703,14 +703,26 @@ url = 'http://api.eia.gov/series/?api_key=' + api_key + '&series_id=STEO.COPR_OP
 r = requests.get(url)
 json_data = r.json()
 df = pd.DataFrame(json_data.get('series')[0].get('data'))
+df = pd.DataFrame(json_data.get('series')[0].get('data'))
 df['Year'] = df[0].astype(str).str[:4]
 df['Month'] = df[0].astype(str).str[4:]
 df['Day'] = 1
 df['Date'] = pd.to_datetime(df[['Year','Month','Day']])
 df = df.set_index('Date')
 df[1].plot()
+print (df[1].head(5))
 plt.legend(['Oil Production Per Month (mil barrels per day)'])
 plt.savefig('opec.png')
+```
+
+```text
+Date
+2022-12-01    28.479410
+2022-11-01    28.493963
+2022-10-01    28.498527
+2022-09-01    28.489812
+2022-08-01    28.491152
+Name: 1, dtype: float64
 ```
 
 ![](opec.png)
@@ -764,13 +776,13 @@ plt.savefig('natgas.png')
 
 ```text
 Date
-2021-10-19    5.088
-2021-10-20    5.170
-2021-10-21    5.115
-2021-10-22    5.280
-2021-10-25    5.898
-2021-10-26    5.882
-2021-10-27    6.202
+2021-11-02    5.542
+2021-11-03    5.670
+2021-11-04    5.716
+2021-11-05    5.516
+2021-11-08    5.427
+2021-11-09    4.979
+2021-11-10    4.972
 Name: Adj Close, dtype: float64
 ```
 
@@ -781,31 +793,33 @@ Name: Adj Close, dtype: float64
 ## Coal
 
 ```python
-import re, requests, pandas as pd
-
-headers = { 'User-Agent': 'UCWEB/2.0 (compatible; Googlebot/2.1; +google.com/bot.html)'}
-url = "https://markets.businessinsider.com/commodities/coal-price"
-resp = requests.get(url, headers=headers, timeout=2)
-regex = 'historicalPrices\: \{"instrumentName"\:"Coal".*?\}\)\;'
-res = re.findall(regex, resp.text, re.DOTALL)
-res2 = re.findall('"Close":(.*?),.*?"Date":"(\d\d/\d\d/\d\d)"', res[0])
-df = pd.DataFrame(res2, columns =['Price', 'Date'])
-df['Date'] = pd.to_datetime(df.Date)
-df['Price'] = df.apply(lambda x: float(x.Price), axis=1)
-df = df.sort_values('Date').set_index('Date')
-df.Price.plot()
-print (df.Price.tail(5))
+import pandas as pd, datetime, time as timelib
+import urllib.request as urllib2, io
+end = datetime.datetime.now()
+start=datetime.datetime(2010, 1, 1)
+start = int(timelib.mktime(start.timetuple()))
+end = int(timelib.mktime(end.timetuple()))
+base_fin_url = "https://query1.finance.yahoo.com/v7/finance/download"
+url = base_fin_url + "/MTF=F?period1=" + str(start) + "&period2=" + str(end) + "&interval=1d&events=history&includeAdjustedClose=true"
+r = urllib2.urlopen(url).read()
+file = io.BytesIO(r)
+df = pd.read_csv(file,index_col='Date',parse_dates=True)['Adj Close']
+df.plot()
+plt.plot(df.tail(1).index, df.tail(1),'ro')
+print (df.tail(7))
 plt.savefig('coal.png')
 ```
 
 ```text
 Date
-2021-10-20    232.60
-2021-10-21    228.50
-2021-10-22    231.25
-2021-10-25    237.15
-2021-10-26    234.00
-Name: Price, dtype: float64
+2021-11-01    138.750000
+2021-11-02    139.850006
+2021-11-03    149.500000
+2021-11-04    148.000000
+2021-11-05    148.000000
+2021-11-08    158.000000
+2021-11-09    152.000000
+Name: Adj Close, dtype: float64
 ```
 
 ![](coal.png)
