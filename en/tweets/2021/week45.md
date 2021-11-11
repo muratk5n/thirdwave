@@ -1,5 +1,64 @@
 # Week 45
 
+"The world’s biggest port for coal exports could be home to one of
+Australia’s next hydrogen hubs as the nation transitions to cleaner
+energy.
+
+The federal government has earmarked the Port of Newcastle for $3
+million feasibility study to determine where a new 40 MW hydrogen hub
+could be located at the port, on the New South Wales coast"
+
+[[-]](https://www.themandarin.com.au/174500-arena-invests-in-hydrogen-study-at-east-coasts-biggest-port/)
+
+---
+
+"@OdedRechavi
+
+Data will be made available upon reasonable request"
+
+<img width="200" src="https://pbs.twimg.com/media/FBbje6_WUAcQm2f?format=jpg&name=small"/>
+
+---
+
+Escalates? Hey there is always room for growth
+
+The Independent: "Israel escalates surveillance of Palestinians with
+facial recognition program in West Bank"
+
+---
+
+Mine for lithium for BEVs, destroy the area then throw bunch of
+useless clothing in its place, polluting some more.. F-ing great
+
+"Chile’s Atacama desert becomes dumping ground for fast fashion
+leftovers"
+
+---
+
+Is working with discontinuities the next level shit in compsci? In
+optimization, subgradient methods rule. For waves so-called Riemann
+approaches are extremely useful. Computation discretizes anyway, so
+planning for splitting prob into chunks from get-go can be a good
+idea.
+
+---
+
+When the dad in an action movie is Stephen Lang, or J. K. Simmons, you
+know that's an action dad. You know near the end of the movie he is
+getting a shotgun and there will be a shoot-out. There's just no other
+reason for that casting otherwise.
+
+---
+
+I nudge the recommender now, giving it only one movie like to get more
+movies of that type. WR came from *Vertical Limit*; makes sense, shot
+in a wide landscape, lots of nature, snow..
+
+---
+
+*Wind River*, good
+
+---
 
 "Alberta, Canada, has released its hydrogen roadmap"
 

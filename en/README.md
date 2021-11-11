@@ -1,62 +1,86 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-"The world’s biggest port for coal exports could be home to one of
-Australia’s next hydrogen hubs as the nation transitions to cleaner
-energy.
 
-The federal government has earmarked the Port of Newcastle for $3
-million feasibility study to determine where a new 40 MW hydrogen hub
-could be located at the port, on the New South Wales coast"
+"@sarahrainsford
 
-[[-]](https://www.themandarin.com.au/174500-arena-invests-in-hydrogen-study-at-east-coasts-biggest-port/)
+Talk of Lukashenko 'weaponising' migrants in retaliation for EU sanctions vs Belarus isn't idle
 
----
+Lukashenko:
 
-"@OdedRechavi
+26.05 'We used to stop the drugs & migrants. Now you'll have to catch them yourselves' 
 
-Data will be made available upon reasonable request"
+22.06 'You launched a hybrid war vs us & demand we protect you like before?'
 
-<img width="200" src="https://pbs.twimg.com/media/FBbje6_WUAcQm2f?format=jpg&name=small"/>
+etc"
 
 ---
 
-Escalates? Hey there is always room for growth
+"@techreview
 
-The Independent: "Israel escalates surveillance of Palestinians with
-facial recognition program in West Bank"
+Today’s AI is nowhere close to being intelligent, never mind
+conscious. Even the most impressive deep neural networks are totally
+mindless"
 
----
-
-Mine for lithium for BEVs, destroy the area then throw bunch of
-useless clothing in its place, polluting some more.. F-ing great
-
-"Chile’s Atacama desert becomes dumping ground for fast fashion
-leftovers"
+[[-]](https://twitter.com/techreview/status/1454694797592125444)
 
 ---
 
-Is working with discontinuities the next level shit in compsci? In
-optimization, subgradient methods rule. For waves so-called Riemann
-approaches are extremely useful. Computation discretizes anyway, so
-planning for splitting prob into chunks from get-go can be a good
-idea.
+"@Innovyze
+
+The new bill requires & incentivizes water utilities to better assess
+and replace lead pipes"
 
 ---
 
-When the dad in an action movie is Stephen Lang, or J. K. Simmons, you
-know that's an action dad. You know near the end of the movie he is
-getting a shotgun and there will be a shoot-out. There's just no other
-reason for that casting otherwise.
+Dried garlic flakes imported all the way from China.. In a country with
+considerable agro capacity. Globalization is weird.
 
 ---
 
-I nudge the recommender now, giving it only one movie like to get more
-movies of that type. WR came from *Vertical Limit*; makes sense, shot
-in a wide landscape, lots of nature, snow..
+I heard AMLO relies more on the army than the police for the fight
+against cartels. Then they turn around give cartels a free rein?
+
+The Guardian: "Mexico army gives drug cartels free rein as critics
+claim ‘non-aggression pact’"
 
 ---
 
-*Wind River*, good
+"@Rainmaker1973
+
+You may not know that the derivatives of the position vector (x) with
+respect to time have interesting names:
+
+Velocity (v) = dx/dt
+
+Acceleration (a) = d²x/dt²
+
+Jerk (j) = d³x/dt³
+
+Snap (s) = d⁴x/dt⁴
+
+Crackle (c) = d⁵x/dt⁵
+
+Pop (p) = d⁶x/dt⁶"
+
+---
+
+Reuters: "China daily coal output hits multi-year peak, prices expected to fall"
+
+---
+
+Boy coal prices are **down**
+
+[[-]](2019/15/stats.md#coal)
+
+---
+
+In a way CSP is also about deelectrification.
+
+---
+
+"The solar beam-down may generate power more cheaply than silicon panels"
+
+<iframe width="340" src="https://www.youtube.com/embed/g_1oiJqE3OI?start=2265&end=2355" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
