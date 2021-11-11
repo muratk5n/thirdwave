@@ -66,7 +66,7 @@
   * 02/10: Jamal Khashoggi, a critic of Saudi Arabia's government, walked into the Saudi consulate in Istanbul and killed there
 * 2019
   * 06/10: US pulls out of NE Syria, with WH permission TR attempts to invade the area, displacing the Kurds in the region. There is an uproar, US is accused of abandoning the Kurds.
-  * 08/10: Due to pressure from within his own party, Trump now wants TR to play nice, [tweets](https://pbs.twimg.com/media/EGSVX7LWkAAmPi8.png) about 'destroying the Turkish economy' or else.
+  * 07/10: Due to pressure from within his own party, Trump now wants TR to play nice, [tweets](https://pbs.twimg.com/media/EGSVX7LWkAAmPi8.png) about 'destroying the Turkish economy' or else.
   * 15/10: Kurds ask Assad for help, regime forces enter towns Manbij and Kobani. TR did manage to take Tel Abyad, and to cut M4 highway.
 * 2020
   * 27/02: Russia killed 33 TR soldiers by air strikes in Idlib 
