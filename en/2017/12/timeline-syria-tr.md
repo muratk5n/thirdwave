@@ -3,7 +3,7 @@
 
 * 2011
   * 15/03: Syrian civil war started
-  * 01/08: Turkey embraced an explicit policy of regime change in Syria and threw open its doors to thousands of Syrian refugees
+  * 01/08: TR embraced an explicit policy of regime change in Syria and threw open its doors to thousands of Syrian refugees
 * 2012
   * 01/02: After secret negotiations between TR intel and the PKK in Oslo became public, prosecutors said to be close to the Gulen movement tried to subpoena the intel chief to respond to accusations of a “disclosure of information to the PKK”. Gulen Brotherhood was known with  hard-line nationalist approach to the Kurds
   * 19/07: Kurdish town of Kobanê in Rojova, Syria declared its autonomy. It was followed by Cizire and Afrin.
@@ -45,7 +45,7 @@
   * 13/03: Ankara suicide bombing killed  37 people injured 125
   * 19/03: Suicide bomb kills 4 in shopping street in Istanbul
   * 21/03: Iranian-TR businessman Zarrab implicated in earlier corruption scandal escapes to US possibly with a wealth of info on TR gov officials
-  * 01/04: An Obama interview reveals he considers TR PM a failure, an authoritarian, one who refuses to use his enormous army to bring stability to Syria
+  * 01/04: An Obama interview reveals he considers TR Pres a failure, an authoritarian, one who refuses to use his enormous army to bring stability to Syria
   * 22/05: PM resigns due to ruling party infighting
   * 28/06: Airport attack, 45 people were killed 239 people injured in TR
   * 15/07: TR coup attempt
@@ -63,8 +63,9 @@
   * 19/01: TR invades Afrin a Kurdish-controlled region, Russia does not block Syria’s airspace indicating tacit support
   * 25/06: Sitting President reelected
   * 02/10: Jamal Khashoggi, a critic of Saudi Arabia's government, walked into the Saudi consulate in Istanbul and killed there
+* 2019
+  * 06/10: US pulls out of NE Syria, with WH permission TR attempts to invade the area, displacing the Kurds in the region. There is an uproar, US is accused of abandoning the Kurds.
+  * 08/10: Due to pressurefrom within his own party, Trump seems to have changed his mind, now wants TR to play nice, tweets about 'destroying the Turkish economy' or else.
+  * 15/10: Kurds ask Assad for help, regime forces enter towns Manbij and Kobani. TR did manage to take Tel Abyad, and to cut M4 highway.
 * 2020
   * 27/02: Russia killed 33 TR soldiers by air strikes in Idlib 
-
-
-
