@@ -74,7 +74,7 @@ Boy coal prices are **down**
 
 ---
 
-In a way CBD and CSP are also about deelectrification.
+In a way SBD and CSP are also about deelectrification.
 
 ---
 
