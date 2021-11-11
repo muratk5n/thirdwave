@@ -27,6 +27,7 @@
   * 13/09: Islamic State begins its siege of Kobane
   * 14/12: Gov backlash against the Brotherhood starts, their businesses fall under investigation
 * 2015
+  * 26/01: TR gov is not happy with Kurdish gains in North Syria, conveyed to journalists, in essence drawing a "red line"
   * 27/01: Kurdish forces and its allies, backed by the continued US-led airstrikes, retook Kobane
   * 30/01: King Abdullah of Jordan warns US Senate leaders of TR’s pervasive support for Islamic militants and Israel turning a blind eye
   * 23/05: Istanbul airport with a mortar shell attack 1 person killed 
