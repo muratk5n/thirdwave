@@ -1,6 +1,6 @@
 # Vegetarian Burger
 
-Ingredients (for one person)
+Ingredients (for three patties)
 
 * Parboiled Kidney/White Beans, ~200g in total
 * White Rice, Boiled (1/2 Cup)
@@ -12,9 +12,11 @@ Ingredients (for one person)
 * Diced Musrooms (3 Tblspoon)
 * 1/4 Onions
 
-Mash the beans. Fry onions and musrooms in the pan until soft. Then
-add that and everything else with the beans in a bowl, mix. Should
-have a meat like substance, easy to shape, will stay together. Make
-patties, fry in olive oil on a pan. Put in a burger bun, serve with
-whatever sauce, lettuce and pickles.
+Mash the beans. Soften onions and musrooms in a pan. Add those, and
+everything else with the beans in a bowl, mix. Should be a meat like
+substance by now, easy to shape. Make patties, fry in olive oil on a
+pan. 
 
+
+
+https://www.saucestache.com/the-secret-recipe-for-plant-based-burgers-that-taste-just-like-a-burger/
