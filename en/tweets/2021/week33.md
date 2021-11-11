@@ -468,11 +468,11 @@ future brought on by the globe’s changing climate... [A] nearby
 monitoring station registered a temperature of ... nearly 49 degrees
 Celsius....  the unprecedented heat rendered Floridia a blindingly
 bright ghost town, with its bars deserted, its baroque and
-sand-colored churches darkened, its piazzas emptied.In the surrounding
-fields, the area’s famed snails burned in their shells. The relentless
-sun branded the verdello green lemons with yellow blots and stewed
-their flesh within. Everyone holed up in their houses. The
-air-conditioning they blasted prompted blackouts"
+sand-colored churches darkened, its piazzas emptied. In the
+surrounding fields, the area’s famed snails burned in their
+shells. The relentless sun branded the verdello green lemons with
+yellow blots and stewed their flesh within. Everyone holed up in their
+houses. The air-conditioning they blasted prompted blackouts"
 
 ---
 
