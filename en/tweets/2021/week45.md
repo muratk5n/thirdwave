@@ -126,7 +126,7 @@ unsightly street encampments"
 ---
 
 Now the big question: Carbon or methane? Which one causes more
-warming? Looked at that too, [here](2015/08/temp-increase.md#ch4co2).
+warming? Looked at that too, [here](../../2015/08/temp-increase.md#ch4co2).
 
 ---
 
@@ -144,7 +144,7 @@ carbon). But we keep putting more in, so the trend is up.
 
 Methane levels in the atmo
 
-[[-]](2015/08/temp-increase.md#methane)
+[[-]](../../2015/08/temp-increase.md#methane)
 
 ---
 
@@ -208,17 +208,11 @@ scale.. Trialing technology on locomotives to run on green ammonia"
 
 World Crude Oil Production, now through EIA API. Good source.
 
-[[-]](2019/05/stats.md#worldoil)
+[[-]](../../2019/05/stats.md#worldoil)
 
 ---
 
-TR Syria events, additions
-
-[[-]](2017/12/timeline-syria-tr.md)
-
----
-
-Global conflict [stats](2019/05/confstats.md) for September.
+Global conflict [stats](../../2019/05/confstats.md) for September.
 
 Afghanistan deaths way down (surprise), from over 4000. Incident count
 too high for Mexico, though deaths not much.. drug related attacks,
@@ -266,11 +260,11 @@ transmission, keeping electrification at a minimum.
 
 ---
 
-Wind turbines use that f-ing [SF6](2019/09/sf6.md), truly disgusting stuff
+Wind turbines use that f-ing [SF6](../../2019/09/sf6.md), truly disgusting stuff
 
 ---
 
-Excerpt from [The Rare Metals War](2021/10/the-rare-metals-war.md#ref1).
+Excerpt from [The Rare Metals War](../../2021/10/the-rare-metals-war.md#ref1).
 
 ---
 
