@@ -15,6 +15,26 @@ village, staying in one place with stores of food, gave birth to seven
 or eight babies [..] The more food people grew, the more babies they
 could feed [..]
 
+<a name='replaced'/>
+
+In the 1970s Luca Cavalli-Sforza of Stanford University began a
+massive survey of European blood groups and nuclear DNA. His team
+found a consistent gradient of gene frequencies from southeast to
+northwest (Figure 2.5), which, they pointed out, mapped quite well
+onto the archaeological evidence for the spread of farming shown in
+Figure 2.4. Their conclusion: after migrants from western Asia brought
+farming to Europe, their descendants largely replaced the aboriginal
+foragers, pushing their remnants into the far north and west.
+
+The archaeologist Colin Renfrew argued that linguistics also supported
+Cavalli-Sforza’s scenario: the first farmers, he suspected, not only
+replaced European genes with southwest Asian ones but also replaced
+Europe’s native languages with Indo-European ones from the Hilly
+Flanks, leaving just isolated pockets of older tongues such as
+Basque. The drama of dispossession that ended the original affluent
+society is inscribed in modern Europeans’ bodies and reenacted every
+time they open their mouths...
+
 Little hunter-gatherer bands had had broad geographical horizons but
 narrow social ones: the landscape changed but the faces did not. The
 early farmer’s world was just the opposite. You might pass your whole
