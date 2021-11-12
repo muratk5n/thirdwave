@@ -21,10 +21,10 @@ In the 1970s Luca Cavalli-Sforza of Stanford University began a
 massive survey of European blood groups and nuclear DNA. His team
 found a consistent gradient of gene frequencies from southeast to
 northwest (Figure 2.5), which, they pointed out, mapped quite well
-onto the archaeological evidence for the spread of farming shown in
-Figure 2.4. Their conclusion: after migrants from western Asia brought
-farming to Europe, their descendants largely replaced the aboriginal
-foragers, pushing their remnants into the far north and west.
+onto the archaeological evidence for the spread of farming... Their
+conclusion: after migrants from western Asia brought farming to
+Europe, their descendants largely replaced the aboriginal foragers,
+pushing their remnants into the far north and west.
 
 The archaeologist Colin Renfrew argued that linguistics also supported
 Cavalli-Sforza’s scenario: the first farmers, he suspected, not only

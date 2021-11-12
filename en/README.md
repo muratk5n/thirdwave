@@ -76,29 +76,6 @@ Addition, TR Syria events: 2019.
 
 ---
 
-Dude.. Beijing China,
-
-```python
-pollution(39.9042, 116.4074)
-```
-
-```text
-{'aqi': 5}
-co 1201.63
-no 44.7
-no2 65.8
-o3 0
-so2 67.71
-pm2_5 78.32
-pm10 100.23
-nh3 17.99
-```
-
-AQI (Air Quality Index) at 5 is the worst it can be.. Nov 11, 14:00
-EST.
-
----
-
 OWM API is free BTW (under a certain usage frequency), it has
 historical pollution data, starting from late 2020. It uses a
 so-called SILAM model to track / interpolate pollution. If emission
@@ -107,9 +84,10 @@ tracking data points.
 
 ---
 
-Stanpoli air quality, for one area, it was ok.. Checked it through Open
+Beijing China air quality, really bad.. Checked it through Open
 Weather Map API. See [doc](https://openweathermap.org/api/air-pollution)
-for the range of those numbers. AQI 1 is good, 5 bad.
+for the range of those numbers. AQI 1 is good, 5 bad. Nov 11, 14:00
+EST.
 
 ```python
 import requests, urllib.parse, json
@@ -124,19 +102,19 @@ def pollution(lat,lon):
     comp = res[0]['list'][0]['components']
     for xx in comp: print (xx, comp[xx])
 
-pollution(41.03071019894891, 29.051911282099258)
+pollution(39.9042, 116.4074)
 ```
 
 ```text
-{'aqi': 2}
-co 273.71
-no 0
-no2 4.41
-o3 84.4
-so2 7.27
-pm2_5 3.06
-pm10 5.89
-nh3 0.56
+{'aqi': 5}
+co 1201.63
+no 44.7
+no2 65.8
+o3 0
+so2 67.71
+pm2_5 78.32
+pm10 100.23
+nh3 17.99
 ```
 
 ---
