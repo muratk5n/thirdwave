@@ -111,7 +111,7 @@ tracking data points.
 ---
 
 Stanpoli air quality, for one area, it was ok.. Checked it through Open
-Weather Map API (as of Nov 10). See [doc](https://openweathermap.org/api/air-pollution)
+Weather Map API. See [doc](https://openweathermap.org/api/air-pollution)
 for the range of those numbers. AQI 1 is good, 5 bad.
 
 ```python
