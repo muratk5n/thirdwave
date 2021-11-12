@@ -1,5 +1,89 @@
 # Week 45
 
+
+"@sarahrainsford
+
+Talk of Lukashenko 'weaponising' migrants in retaliation for EU sanctions vs Belarus isn't idle
+
+Lukashenko:
+
+26.05 'We used to stop the drugs & migrants. Now you'll have to catch them yourselves' 
+
+22.06 'You launched a hybrid war vs us & demand we protect you like before?'
+
+etc"
+
+---
+
+"@techreview
+
+Today’s AI is nowhere close to being intelligent, never mind
+conscious. Even the most impressive deep neural networks are totally
+mindless"
+
+[[-]](https://twitter.com/techreview/status/1454694797592125444)
+
+---
+
+"@Innovyze
+
+The new bill requires & incentivizes water utilities to better assess
+and replace lead pipes"
+
+---
+
+Dried garlic flakes imported all the way from China.. In a country with
+considerable agro capacity. Globalization is weird.
+
+---
+
+I heard AMLO relies more on the army than the police for the fight
+against cartels. Then they turn around give cartels a free rein?
+
+The Guardian: "Mexico army gives drug cartels free rein as critics
+claim ‘non-aggression pact’"
+
+---
+
+"@Rainmaker1973
+
+You may not know that the derivatives of the position vector (x) with
+respect to time have interesting names:
+
+Velocity (v) = dx/dt
+
+Acceleration (a) = d²x/dt²
+
+Jerk (j) = d³x/dt³
+
+Snap (s) = d⁴x/dt⁴
+
+Crackle (c) = d⁵x/dt⁵
+
+Pop (p) = d⁶x/dt⁶"
+
+---
+
+Reuters: "China daily coal output hits multi-year peak, prices expected to fall"
+
+---
+
+Boy coal prices are **down**
+
+[[-]](2019/05/stats.md#coal)
+
+---
+
+In a way SBD and CSP are also about deelectrification.
+
+---
+
+"The solar beam-down may generate power more cheaply than silicon panels"
+
+<iframe width="340" src="https://www.youtube.com/embed/g_1oiJqE3OI?start=2265&end=2355" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
 "The world’s biggest port for coal exports could be home to one of
 Australia’s next hydrogen hubs as the nation transitions to cleaner
 energy.
