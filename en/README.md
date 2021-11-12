@@ -38,17 +38,14 @@ on!
 
 NYT: "[A Sicilian town Floridia] is perhaps the most blisteringly hot
 town in the recorded history of Europe, offering Italy and the entire
-Mediterranean a preview of a sweltering and potentially uninhabitable
-future brought on by the globe’s changing climate"
-
-[[-]](https://www.nytimes.com/2021/08/13/world/europe/sicily-heat-wave-record-temperature-floridia-italy.html)
+Mediterranean a preview of a sweltering.. future"
 
 ---
 
 The EU countries could buy solar produced clean gas from Africa, but
-also from a country of their own, Italy. Remember that news abt that
-Sicilian town, when it got really hot during the summer. Hell put an
-SBD, or CSP installation there, ship H2.
+also from a country of their own, Italy. Remember that [news](https://www.nytimes.com/2021/08/13/world/europe/sicily-heat-wave-record-temperature-floridia-italy.html)
+abt that Sicilian town, when it got really hot during the summer.
+Hell put an SBD, or CSP installation there, ship H2.
 
 ---
 
