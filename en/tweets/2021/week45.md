@@ -70,7 +70,7 @@ Reuters: "China daily coal output hits multi-year peak, prices expected to fall"
 
 Boy coal prices are **down**
 
-[[-]](2019/05/stats.md#coal)
+[[-]](../../2019/05/stats.md#coal)
 
 ---
 

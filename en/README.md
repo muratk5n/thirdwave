@@ -78,9 +78,9 @@ Addition, TR Syria events: 2019.
 
 OWM API is free BTW (under a certain usage frequency), it has
 historical pollution data, starting from late 2020. It uses a
-so-called SILAM model to track / interpolate pollution. If emission
-monitoring is needed, OWM could be a cheap way of getting those
-tracking data points.
+so-called SILAM model to track pollution. If emission monitoring is
+needed, OWM could be a cheap way of getting those tracking data
+points.
 
 ---
 
