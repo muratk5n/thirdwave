@@ -84,7 +84,7 @@ tracking data points.
 
 ---
 
-Beijing China air quality, really bad.. Checked it through Open
+Beijing China air quality, not good.. Checked it through Open
 Weather Map API. See [doc](https://openweathermap.org/api/air-pollution)
 for the range of those numbers. AQI 1 is good, 5 bad. Nov 11, 14:00
 EST.
