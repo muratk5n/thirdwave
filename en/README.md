@@ -7,7 +7,7 @@ Kava Kava - Beats For Cheats \#music
 
 ---
 
-China: Tibet, Qinghai, Sichuan, Shaanxi. All have great potential. 
+China: Tibet, Qinghai, Sichuan, Shaanxi. All have a lot of potential. 
 
 <img width="150" src="https://pbs.twimg.com/media/FD5unTVXsAUe4PI?format=png&name=small"/>
 
