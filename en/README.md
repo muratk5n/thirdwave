@@ -8,11 +8,11 @@ Thursday"
 
 ---
 
-Some criticize the inclusion of Philippines, India .. Beyond their
-current leaders, these countries are democracies, have institutional
-presence. Philippines President does not plan to remain in the job for
-life, in fact he regularly complains about the job and talked about
-quitting more than once.
+Some object to the inclusion of Philippines, India .. Both of these
+countries have enough institutional support for a democracy. Their
+leaders are criticized but Philippines President does not plan to
+remain in the job for life, in fact he regularly complains about the
+job and talked about quitting more than once.
 
 "President Joe Biden is getting ready to deliver on a key campaign
 promise by convening a Summit for Democracy.. Representation from the
