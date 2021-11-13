@@ -1,121 +1,71 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-
-Kava Kava - Beats For Cheats \#music
-
-[[-]](https://youtu.be/2diGntB1Ee4)
-
----
-
-China: Tibet, Qinghai, Sichuan, Shaanxi. All have a lot of potential. 
-
-<img width="150" src="https://pbs.twimg.com/media/FD5unTVXsAUe4PI?format=png&name=small"/>
+Al Jazeera: "US, Israel, UAE, Bahrain launch joint naval drills in Red
+Sea.. The training focuses on maritime “visit, board, search and
+seizure tactics” and will “enhance interoperability” between the four
+participating navies, the US Navy’s 5th Fleet said in a statement on
+Thursday"
 
 ---
 
-Here the US regions ripe for installations: CA, NV, UT, AZ, NM, even CO. 
-
-<img width="150" src="https://pbs.twimg.com/media/FD5oGr5XsAEuaFz?format=png&name=small"/>
-
----
-
-Reuters Events: "US may require 39 GW of CSP to decarbonise" 
+The Guardian: "Belarus threatens to cut gas deliveries to EU if
+sanctioned over border crisis"
 
 ---
 
-"Spain alone accounts for over 42% of CSP installations in the world"
+Some criticize the inclusion of Philippines, India .. Beyond their
+current leaders, these countries are democracies, have institutional
+presence. Philippines President does not plan to remain in the job for
+life, in fact he regularly complains about the job and talked about
+quitting more than once.
 
- ---
+"President Joe Biden is getting ready to deliver on a key campaign
+promise by convening a Summit for Democracy.. Representation from the
+Middle East was slim with Israel and Iraq among the few countries
+invited and notable U.S. allies such as Egypt and NATO partner Turkey
+absent from the list"
 
-Spain too of course.. 
-
-"Spain is one of the European countries with the most hours of sunshine"
-
----
-
-When I see "sweltering", I read more direct sun rays baby!  Bring'em
-on!
-
-NYT: "[A Sicilian town Floridia] is perhaps the most blisteringly hot
-town in the recorded history of Europe, offering Italy and the entire
-Mediterranean a preview of a sweltering.. future"
+[[-]](https://www.reuters.com/world/bidens-democracy-summit-problematic-invite-list-casts-shadow-impact-2021-11-07/)
 
 ---
 
-The EU countries could buy solar produced clean gas from Africa, but
-also from a country of their own, Italy. Remember that [news](https://www.nytimes.com/2021/08/13/world/europe/sicily-heat-wave-record-temperature-floridia-italy.html)
-abt that Sicilian town, when it got really hot during the summer.
-Hell put an SBD, or CSP installation there, ship H2.
+No "sodium cooled fast [nuclear] reactors" are no cure - bro. They
+have a leakage problem, which by an expert was deemed "almost
+impossible to prevent".
 
 ---
 
-An electric grid cannot store power like an H2 grid can. Electrons are
-too fickle, the moment voltage at the endpoints go away (generation
-stops), there is no current. But if new gas stopped flowing into a gas
-network, there would still be gas remaining in the pipes. Gas
-molecules have substance, they have a physical existence without the
-presence of potential difference on either end. For the gas, if
-generation stopped, one can still push the remaining gas out through
-midpoint stations.
+They make this stuff for children?
+
+Good saying BTW
+
+[Image](https://pbs.twimg.com/media/FD1MrJOXoAkiPb0?format=jpg&name=small)
 
 ---
 
-"@ACatInParis
+Nice.. 
 
-Berlin to exclude unvaccinated from restaurants, bars and gyms"
-
----
-
-Military Deployment [stats](2019/05/confstats.md#gdtroop)
+"[I]n the UK, calcium is added to white and brown flour by law"
 
 ---
 
-Addition, TR Syria events: 2019.
-
-[[-]](2017/12/timeline-syria-tr.md)
-
----
-
-OWM API is free BTW (under a certain usage frequency), it has
-historical pollution data, starting from late 2020. It uses a
-so-called SILAM model to track pollution, updates hourly afaik. If
-emission monitoring is needed, OWM could be a cheap way of getting
-those tracking data points.
+I remember one interview with a hunter-gatherer, one of the last
+remaining ones, truly living the life, they asked him 'what makes you
+happy'. He said 'eating meat', mfker lit up when he said that, like it
+was the most beautiful thing in the world for him.
 
 ---
 
-Beijing China air quality, not good.. Checked it through Open
-Weather Map API. See [doc](https://openweathermap.org/api/air-pollution)
-for the range of those numbers. AQI 1 is good, 5 bad. Nov 11, 14:00
-EST.
+Effin B12.. its tough to replicate regular diet through
+vegan.
 
-```python
-import requests, urllib.parse, json
+Carnivore gets many ingredients in one shot, all aminos and B12. Even
+iron! Very hard to replicate that.
 
-def pollution(lat,lon):
-    url = 'http://api.openweathermap.org/data/2.5/air_pollution?'
-    weatherapi = open(".key/.owm").read() # your api key goes in that file    
-    payload = { 'lat': str(lat), 'lon': str(lon), 'appid': weatherapi }
-    r = requests.get(url, params=payload)
-    res = [json.loads(x.decode()) for x in r.iter_lines()]
-    print (res[0]['list'][0]['main'])
-    comp = res[0]['list'][0]['components']
-    for xx in comp: print (xx, comp[xx])
+---
 
-pollution(39.9042, 116.4074)
-```
-
-```text
-{'aqi': 5}
-co 1201.63
-no 44.7
-no2 65.8
-o3 0
-so2 67.71
-pm2_5 78.32
-pm10 100.23
-nh3 17.99
-```
+Marc L. Hill is on Al Jazeera.. Good. Standup guy, obviously he didn't make
+in on CNN.
 
 ---
 
