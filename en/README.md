@@ -57,8 +57,8 @@ from one burger. Even iron! Hard to replicate that.
 
 ---
 
-Marc L. Hill is on Al Jazeera.. Good. Standup guy, and obviously he
-didn't make in on CNN for that reason.
+Marc L. Hill is on Al Jazeera.. great. Standup guy, obviously he
+didn't make in on CNN, for that reason.
 
 ---
 
