@@ -64,8 +64,8 @@ iron! Very hard to replicate that.
 
 ---
 
-Marc L. Hill is on Al Jazeera.. Good. Standup guy, obviously he didn't make
-in on CNN.
+Marc L. Hill is on Al Jazeera.. Good. Standup guy, and obviously he
+didn't make in on CNN for that reason.
 
 ---
 
