@@ -62,6 +62,7 @@
   * 16/03: Referendum grants new powers to TR President
   * 05/06: Saudi Arabia, the United Arab Emirates, Bahrain and Egypt severed diplomatic relations with Qatar and banned Qatar-registered planes and ships from utilising their airspace and sea routes, along with Saudi Arabia blocking Qatar's only land crossing. 
   * 25/07: TR signs deal to buy Russian S-400 defense system
+  * 03/11: Lebanon's PM Hariri held hostage in Saudi Arabia, handed a prewritten resignation speech and forced to read it on Saudi television. PM returns home 3 weeks later in a trip brokered by France, and suspended his resignation.
 * 2018
   * 19/01: TR invades Afrin a Kurdish-controlled region, Russia does not block Syria’s airspace indicating tacit support
   * 07/04: Saudi Arabia reveals plans to cut off Qatar from mainland by building a new maritime channel along the border
