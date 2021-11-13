@@ -57,11 +57,6 @@ from one burger. Even iron! Hard to replicate that.
 
 ---
 
-Marc L. Hill is on Al Jazeera.. great. Standup guy, obviously he
-didn't make in on CNN, for that reason.
-
----
-
 ## For Members
 
 [Link](https://thirdwave-members.herokuapp.com)
