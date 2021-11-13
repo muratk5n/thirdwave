@@ -60,9 +60,11 @@
   * 01/01: Nightclub terrorist attack in TR leaves 39 dead
   * 20/01: Trump becomes the new President
   * 16/03: Referendum grants new powers to TR President
+  * 05/06: Saudi Arabia, the United Arab Emirates, Bahrain and Egypt severed diplomatic relations with Qatar and banned Qatar-registered planes and ships from utilising their airspace and sea routes, along with Saudi Arabia blocking Qatar's only land crossing. 
   * 25/07: TR signs deal to buy Russian S-400 defense system
 * 2018
   * 19/01: TR invades Afrin a Kurdish-controlled region, Russia does not block Syria’s airspace indicating tacit support
+  * 07/04: Saudi Arabia reveals plans to cut off Qatar from mainland by building a new maritime channel along the border
   * 25/06: Sitting President reelected
   * 02/10: Jamal Khashoggi, a critic of Saudi Arabia's government, walked into the Saudi consulate in Istanbul and killed there
 * 2019
