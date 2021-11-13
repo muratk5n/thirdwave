@@ -8,11 +8,6 @@ Thursday"
 
 ---
 
-The Guardian: "Belarus threatens to cut gas deliveries to EU if
-sanctioned over border crisis"
-
----
-
 Some criticize the inclusion of Philippines, India .. Beyond their
 current leaders, these countries are democracies, have institutional
 presence. Philippines President does not plan to remain in the job for
