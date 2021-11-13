@@ -44,7 +44,7 @@ That cld be useful
 
 ---
 
-I remember one interview with a hunter-gatherer, one of the last
+I remember an interview with a hunter-gatherer, one of the last
 remaining ones, truly living the life, they asked him 'what makes you
 happy'. He said 'eating meat', mfker lit up when he said that, like it
 was the most beautiful thing in the world for him.
