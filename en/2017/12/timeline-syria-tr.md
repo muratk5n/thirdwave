@@ -13,6 +13,7 @@
   * 16/05: During TR visit Obama indirectly blames TR intel chief for working with extreme jihadists
   * 19/03: Chemical weapons attacks were reported in Syria’s two main cities, the Khan al-Assel neighborhood of Aleppo and the Damascus suburb of al-Atebeh
   * 28/03: Gezi park protests initially started to stop an urban development plan at a park turned into protest on secularism
+  * 03/07: A military coup in Egypt removes President Morsi from power, Morsi is of the Moslem Brotherhood movement, and had support from Qatar.
   * 13/08: TR gov proposes a new law that would force several private cram schools, many of which are owned by the Gülen Movement, to close
   * 21/08: A rebel-held suburb of Damascus was attacked with sarin gas
   * 31/08: Obama says he would seek an authorization for the use of force from Congress against Syria
@@ -73,4 +74,5 @@
   * 07/10: Due to pressure from within his own party, Trump now wants TR to play nice, [tweets](https://pbs.twimg.com/media/EGSVX7LWkAAmPi8.png) about 'destroying the Turkish economy' or else.
   * 15/10: Kurds ask Assad for help, regime forces enter towns Manbij and Kobani. TR did manage to take Tel Abyad, and to cut M4 highway.
 * 2020
-  * 27/02: Russia kills 33 TR soldiers by air strikes in Idlib 
+  * 27/02: Russia kills 33 TR soldiers by air strikes in Idlib
+  * 04/08: A large amount of ammonium nitrate stored at the Port of Beirut in the capital city of Lebanon exploded, causing at least 218 deaths

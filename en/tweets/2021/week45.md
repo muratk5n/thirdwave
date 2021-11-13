@@ -65,16 +65,6 @@ Berlin to exclude unvaccinated from restaurants, bars and gyms"
 
 ---
 
-Military Deployment [stats](2019/05/confstats.md#gdtroop)
-
----
-
-Addition, TR Syria events: 2019.
-
-[[-]](2017/12/timeline-syria-tr.md)
-
----
-
 OWM API is free BTW (under a certain usage frequency), it has
 historical pollution data, starting from late 2020. It uses a
 so-called SILAM model to track pollution, updates hourly afaik. If
