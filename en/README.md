@@ -24,9 +24,9 @@ absent from the list"
 
 ---
 
-No "sodium cooled fast [nuclear] reactors" are no cure - bro. They
-have a leakage problem, which by an expert was deemed "almost
-impossible to prevent".
+No "sodium cooled fast reactors" are no cure - bro. They have a
+leakage problem, which by an expert was deemed "almost impossible to
+prevent".
 
 ---
 
