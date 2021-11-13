@@ -57,10 +57,8 @@ was the most beautiful thing in the world for him.
 ---
 
 Effin B12.. its tough to replicate regular diet through
-vegan.
-
-Carnivore gets many ingredients in one shot, all aminos and B12. Even
-iron! Very hard to replicate that.
+vegan. Non-vegans get many ingredients in one shot, all aminos and B12
+from one real burger. Even iron! Hard to replicate that.
 
 ---
 
