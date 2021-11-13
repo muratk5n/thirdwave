@@ -51,7 +51,7 @@ was the most beautiful thing in the world for him.
 
 ---
 
-Effin B12.. its tough to replicate regular diet through
+Freaking B12.. its tough to replicate regular diet through
 vegan. Non-vegans get many ingredients in one shot, all aminos and B12
 from one burger. Even iron! Hard to replicate that.
 
