@@ -70,3 +70,5 @@
 
 [The Value of Everything](10/the-value-of-everything.md)
 
+[Vegetarian Burger](11/veg-burger.md)
+

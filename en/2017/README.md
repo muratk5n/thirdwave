@@ -2,11 +2,7 @@
 
 [CalExit Measure Gets OK to Collect State Ballot Signatures](01/calexit-measure-gets-ok-to-collect.md)
 
-[#facepalm](01/facepalm.md)
-
 [Good Jobs](01/good-jobs.md)
-
-[#iot](01/iot.md)
 
 [Malevolence? Incompetence?](01/malevolence-incompetence.md)
 
@@ -203,8 +199,6 @@
 [Square  + Bitcoin](11/square-bitcoin.md)
 
 [What Are You Doing WaPo?](11/what-are-you-doing-wapo.md)
-
-[#aetna](12/aetna.md)
 
 [Chia](12/chia.md)
 
