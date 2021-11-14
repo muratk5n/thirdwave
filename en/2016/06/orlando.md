@@ -1,3 +1,0 @@
-# #orlando
-
-![](outo.jpg)

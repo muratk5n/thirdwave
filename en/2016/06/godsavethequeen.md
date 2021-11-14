@@ -1,3 +1,0 @@
-# #godsavethequeen
-
-![](outg.jpg)
