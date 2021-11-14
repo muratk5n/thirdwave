@@ -80,15 +80,12 @@ growing movement is antiwork altogether"
 
 ---
 
-Farming itself became industrialized, where a fraction of population
-engaged in such work could produce enough for millions.
-
----
-
 Later industrial production and society did the same to farmers, made
 them obsolete, structures built around that earlier era were done away
 with. Empires whose being depended on land/plunder/peasants collapsed,
-like the Ottomans.
+like the Ottomans. Farming itself became industrialized, where a
+fraction of population engaged in such work could produce enough for
+millions.
 
 ---
 
