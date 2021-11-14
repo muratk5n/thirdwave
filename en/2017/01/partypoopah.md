@@ -1,3 +1,0 @@
-# #partypoopah
-
-![](outp.jpg)

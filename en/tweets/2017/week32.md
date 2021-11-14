@@ -376,7 +376,6 @@ are shown with thicker lines on the diagram [..]
 
 ![](22-05.png)
 
-
 This study was based on data released by the Federal Election
 Commission, pursuant to the McCain-Finegold Campaign Finance Act (The
 Citizens United decision by the Supreme Court has seriously undermined

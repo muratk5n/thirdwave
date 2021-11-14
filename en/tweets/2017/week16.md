@@ -50,3 +50,10 @@ Riiiighhhttt
 
 ---
 
+It's funny.. \#trump \#dinosar
+
+[[-]](https://drive.google.com/uc?export=view&id=1gbQwFTgtKVvSJwsHE5axmZTnc-jgmMRu)
+
+---
+
+
