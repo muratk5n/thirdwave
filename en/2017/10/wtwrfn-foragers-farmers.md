@@ -18,11 +18,8 @@ could feed [..]
 <a name='replaced'/>
 
 Most farmers expanding into new territory found foragers already
-living there. It is tempting to imagine scenes like something out of
-old Western movies, with cattle raids, scalping, and shoot-outs (with
-both sides using bows and arrows), but the reality may have been less
-dramatic.  Archaeological surveys suggest that the first farmers in
-each region tended to settle in different areas from the local
+living there... Archaeological surveys suggest that the first farmers
+in each region tended to settle in different areas from the local
 foragers, almost certainly because the best farmland and the best
 foraging grounds rarely overlapped. At least at first, farmers and
 foragers may have largely ignored each other.
@@ -32,13 +29,18 @@ hunters or gatherers today prowling the manicured landscapes of
 Tuscany or Tokyo’s suburbs. Farming populations grew rapidly, needing
 only a few centuries to fill up the best land, until they had no
 option but to push into the (in their eyes) marginal territories of
-the foragers.
+the foragers [later either forager would became farmer, or were pushed
+away to the edges of their continent through sheer numbers].
 
-
-
-
-
-
+By 6500 Çatalhöyük in modern Turkey had perhaps three thousand.  These
+were villages on steroids, and they had all the problems that
+implies...  [P]eople simply dumped garbage and night soil in stinking
+heaps between houses, to be trodden into the dust and mud. The filth
+would have appalled hunter-gatherers but surely delighted rats, flies,
+and fleas... Settling down and raising more food increased fertility,
+but also meant more mouths to feed and more germs to share, both of
+which increased mortality... Yet for all the squalor, this was clearly
+what people wanted.
 
 Little hunter-gatherer bands had had broad geographical horizons but
 narrow social ones: the landscape changed but the faces did not. The
