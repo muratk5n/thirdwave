@@ -63,7 +63,7 @@ mainstream ME power centers" in near past, and had a few scuffles with
 SA.
 
 Added those to the [timeline](2017/12/timeline-syria-tr.md),
-and more, search for SA, QTR. 
+search for SA, QTR. 
 
 ---
 
