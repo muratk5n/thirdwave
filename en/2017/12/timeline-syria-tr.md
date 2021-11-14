@@ -75,4 +75,4 @@
   * 15/10: Kurds ask Assad for help, regime forces enter towns Manbij and Kobani. TR did manage to take Tel Abyad, and to cut M4 highway.
 * 2020
   * 27/02: Russia kills 33 TR soldiers by air strikes in Idlib
-  * 04/08: A large amount of ammonium nitrate stored at the Port of Beirut in the capital city of Lebanon exploded, causing at least 218 deaths
+

@@ -1,5 +1,62 @@
 # Week 45
 
+Al Jazeera: "US, Israel, UAE, Bahrain launch joint naval drills in Red
+Sea.. The training focuses on maritime “visit, board, search and
+seizure tactics” and will “enhance interoperability” between the four
+participating navies, the US Navy’s 5th Fleet said in a statement on
+Thursday"
+
+---
+
+Some object to the inclusion of Philippines, India .. Both of these
+countries have enough institutional support for a democracy. Their
+leaders are criticized but Philippines President does not plan to
+remain in the job for life, in fact he regularly complains about the
+job and talked about quitting more than once.
+
+"President Joe Biden is getting ready to deliver on a key campaign
+promise by convening a Summit for Democracy.. Representation from the
+Middle East was slim with Israel and Iraq among the few countries
+invited and notable U.S. allies such as Egypt and NATO partner Turkey
+absent from the list"
+
+[[-]](https://www.reuters.com/world/bidens-democracy-summit-problematic-invite-list-casts-shadow-impact-2021-11-07/)
+
+---
+
+No "sodium cooled fast reactors" are no cure - bro. They have a
+leakage problem, which by an expert was deemed "almost impossible to
+prevent".
+
+---
+
+They make this stuff for children?
+
+Good saying BTW
+
+[Image](https://pbs.twimg.com/media/FD1MrJOXoAkiPb0?format=jpg&name=small)
+
+---
+
+That cld be useful
+
+"[I]n the UK, calcium is added to white and brown flour by law"
+
+---
+
+I remember an interview with a hunter-gatherer, one of the last
+remaining ones, truly living the life, they asked him 'what makes you
+happy'. He said 'eating meat', mfker lit up when he said that, like it
+was the most beautiful thing in the world for him.
+
+---
+
+Freaking B12.. its tough to replicate regular diet through
+vegan. Non-vegans get many ingredients in one shot, all aminos and B12
+from one burger. Even iron! Hard to replicate that.
+
+---
+
 Kava Kava - Beats For Cheats \#music
 
 [[-]](https://youtu.be/2diGntB1Ee4)
