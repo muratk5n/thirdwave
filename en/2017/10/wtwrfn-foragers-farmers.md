@@ -17,23 +17,28 @@ could feed [..]
 
 <a name='replaced'/>
 
-In the 1970s Luca Cavalli-Sforza of Stanford University began a
-massive survey of European blood groups and nuclear DNA. His team
-found a consistent gradient of gene frequencies from southeast to
-northwest (Figure 2.5), which, they pointed out, mapped quite well
-onto the archaeological evidence for the spread of farming... Their
-conclusion: after migrants from western Asia brought farming to
-Europe, their descendants largely replaced the aboriginal foragers,
-pushing their remnants into the far north and west.
+Most farmers expanding into new territory found foragers already
+living there. It is tempting to imagine scenes like something out of
+old Western movies, with cattle raids, scalping, and shoot-outs (with
+both sides using bows and arrows), but the reality may have been less
+dramatic.  Archaeological surveys suggest that the first farmers in
+each region tended to settle in different areas from the local
+foragers, almost certainly because the best farmland and the best
+foraging grounds rarely overlapped. At least at first, farmers and
+foragers may have largely ignored each other.
 
-The archaeologist Colin Renfrew argued that linguistics also supported
-Cavalli-Sforza’s scenario: the first farmers, he suspected, not only
-replaced European genes with southwest Asian ones but also replaced
-Europe’s native languages with Indo-European ones from the Hilly
-Flanks, leaving just isolated pockets of older tongues such as
-Basque. The drama of dispossession that ended the original affluent
-society is inscribed in modern Europeans’ bodies and reenacted every
-time they open their mouths...
+Eventually, of course, foraging did disappear. You will find few
+hunters or gatherers today prowling the manicured landscapes of
+Tuscany or Tokyo’s suburbs. Farming populations grew rapidly, needing
+only a few centuries to fill up the best land, until they had no
+option but to push into the (in their eyes) marginal territories of
+the foragers.
+
+
+
+
+
+
 
 Little hunter-gatherer bands had had broad geographical horizons but
 narrow social ones: the landscape changed but the faces did not. The
