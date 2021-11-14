@@ -1,3 +1,0 @@
-# #damn
-	
-![](outd.jpg)
