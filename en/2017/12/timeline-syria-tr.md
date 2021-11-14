@@ -13,7 +13,7 @@
   * 16/05: During TR visit Obama indirectly blames TR intel chief for working with extreme jihadists
   * 19/03: Chemical weapons attacks were reported in Syria’s two main cities, the Khan al-Assel neighborhood of Aleppo and the Damascus suburb of al-Atebeh
   * 28/03: Gezi park protests initially started to stop an urban development plan at a park turned into protest on secularism
-  * 03/07: A military coup in Egypt removes President Morsi from power, Morsi is of the Moslem Brotherhood movement, and had support from Qatar.
+  * 03/07: A military coup in Egypt removes President Morsi from power, Morsi is of the Moslem Brotherhood movement, supported by Qatar.
   * 13/08: TR gov proposes a new law that would force several private cram schools, many of which are owned by the Gülen Movement, to close
   * 21/08: A rebel-held suburb of Damascus was attacked with sarin gas
   * 31/08: Obama says he would seek an authorization for the use of force from Congress against Syria
