@@ -71,7 +71,7 @@ transferring know-how..
 
 ---
 
-I'm sure ppl COP6 made the best deal they could with that
+I'm sure ppl COP26 made the best deal they could with that
 gathering.. And there is room to do more.
 
 ---
