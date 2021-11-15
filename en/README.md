@@ -56,9 +56,9 @@ reliant on consumption"
 ---
 
 Subsidies? Both fossil and renewable get it at first.. to make sure
-people dont revolt as in France yellow vests, and once they both
-options are on par -in terms of infra, support (repair, maintainence,
-second-hand sales)-, then subsidies for the former can be cut off.
+people dont revolt as in France yellow vests. Until both options are
+on par -in terms of infra, support (repair, maintainence, second-hand
+sales)-, then subsidies for the former can be cut off.
 
 ---
 
