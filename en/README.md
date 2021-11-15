@@ -1,10 +1,8 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-
-
 US, instead of triggering a "Shale Revolution" in 2005, could have
 gone solar, expand its already substantial H2 pipeline capacity, help
-commercialize the fuel-cell NASA invented in the 60s.
+commercialize fuel-cells NASA developed in the 60s.
 
 ---
 
