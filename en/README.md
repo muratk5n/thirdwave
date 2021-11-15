@@ -57,7 +57,7 @@ reliant on consumption"
 
 Can subsidize both options first.. Like good money driving out bad,
 good energy tech will drive out bad tech, eventually. Subsidising both
-optiosn will make sure so people dont revolt as in France yellow
+options will make sure so people dont revolt as in France yellow
 vests, and once they both options are on par -in terms of infra,
 support (repair, maintainence, second-hand sales)-, then subsidies for
 the latter can be cut off.
