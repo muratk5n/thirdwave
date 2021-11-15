@@ -17,6 +17,6 @@ everything else with the beans in a bowl, mix. Should be a meat like
 substance by now, easy to shape. Make patties, fry in olive oil on a
 pan. 
 
-
-
 https://www.saucestache.com/the-secret-recipe-for-plant-based-burgers-that-taste-just-like-a-burger/
+
+

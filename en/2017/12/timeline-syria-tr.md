@@ -28,6 +28,7 @@
   * 13/09: Islamic State begins its siege of Kobane
   * 14/12: Gov backlash against the Brotherhood starts, their businesses fall under investigation
 * 2015
+  * 07/01: Two French Muslim brothers forced their way into the offices of the French satirical weekly newspaper Charlie Hebdo in Paris. Armed with rifles and other weapons, they killed 12 people and injured 11 others
   * 26/01: TR gov is not happy with Kurdish gains in North Syria, conveyed to journalists, in essence drawing a "red line"
   * 27/01: Kurdish forces and its allies, backed by the continued US-led airstrikes, retook Kobane
   * 30/01: King Abdullah of Jordan warns US Senate leaders of TR’s pervasive support for Islamic militants and Israel turning a blind eye
@@ -39,6 +40,7 @@
   * 08/09: Germany adopts an open-door policy to Syrian refugees, around 800K will eventually arrive in the country
   * 10/10: Suicide bomb attack Ankara bus station, 103 people lost their lives, 238 people
   * 01/11: Elections repeated, ruling party regains parliamentary majority following a 'shock' victory
+  * 13/11: A series of coordinated terrorist attacks took place in France, 130 people died
   * 24/11: RU plane downed by TR, plane crashed in Syria
   * 01/12: Russia deploys S-400 surface-to-air missile in Syria
 * 2016
