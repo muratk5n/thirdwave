@@ -65,8 +65,8 @@ the latter can be cut off.
 ---
 
 Need to work the incentives.. What do countries like? Cheap
-energy. First world, develop thermosolar-H2 locally, then, or at the
-same time, builds a few of those for developing countries,
+energy. Countries with know-how develop thermosolar-H2 locally, then,
+or at the same time, build a few of those for other countries,
 transferring know-how..
 
 ---
