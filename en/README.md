@@ -18,7 +18,7 @@ neutral.
 
 ---
 
-Texas has more progressive taxation than Washington state?
+Texas has more progressive taxation than the state of Washington?
 
 [[-]](https://youtu.be/hNDgcjVGHIw?t=506)
 
