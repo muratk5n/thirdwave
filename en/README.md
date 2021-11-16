@@ -97,6 +97,13 @@ were caught unawares on Tali.
 
 ---
 
+Of course the downtrend could simply be due to it not being a campaign
+season, pol stops selling, need to govern.. But people want to be sold
+to, they want to be told stories, so they can take "side", feel good
+about stuff.
+
+---
+
 Downtrend on Biden's popularity did not start on Aug; it has been
 going on since the beginning of 2021 (Delta?). Without the August
 debacle, net pop wld have been at -5, with Aug debacle (AFG pullout)

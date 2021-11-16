@@ -135,7 +135,7 @@ plotting to topple Assad. Dunno if true, but QTR did act "outside the
 mainstream ME power centers" in near past, and had a few scuffles with
 SA.
 
-Added those to the [timeline](2017/12/timeline-syria-tr.md),
+Added those to the [timeline](../../2017/12/timeline-syria-tr.md),
 search for SA, QTR. 
 
 ---
@@ -163,7 +163,7 @@ millions.
 ---
 
 Cheap contrarianism. It was clear-cut. Foragers were
-[replaced](2017/10/wtwrfn-foragers-farmers.md#replaced) en masse by
+[replaced](../../2017/10/wtwrfn-foragers-farmers.md#replaced) en masse by
 farmers.
 
 "The progression of history was not clear-cut, from hunter-gathering to
