@@ -38,8 +38,6 @@
 
 [#ouch](03/ouch.md)
 
-[#team](03/team.md)
-
 [Wall Street, Main Street](03/wall-street-main-street.md)
 
 [#yep](03/yep.md)
@@ -78,8 +76,6 @@
 
 [#goodone](05/goodone.md)
 
-[#haha](05/haha.md)
-
 [#maher](05/maher.md)
 
 [Open Access](05/open-access.md)
@@ -104,25 +100,17 @@
 
 [#brexit #AGAIN](06/brexit-again.md)
 
-[Brexit.. Stage Left](06/brexit-stage-left.md)
-
 [Don't Just Sit There. Undo Something.](06/dont-just-sit-there-undo-something.md)
 
 [dy / dx](06/dy-dx.md)
 
 [Fully Loaded](06/fully-loaded.md)
 
-[#godsavethequeen](06/godsavethequeen.md)
-
 [Happy Birthday](06/happy-birthday.md)
 
 [Paris Agreement, India](06/india-paris-agreement.md)
 
 [#borowitz](06/judge_6.md)
-
-[#murdoch](06/murdoch.md)
-
-[#orlando](06/orlando.md)
 
 [#frommycolddeadhands](06/out-of-my-cold-dead-hands.md)
 
@@ -146,8 +134,6 @@
 
 [Yes Minister](06/yes-minister.md)
 
-[Your Whopper Has Arrived Sir](06/your-whopper-has-arrived-sir.md)
-
 [20 Years to Create an Overnight Success](07/20-years-to-create-overnight-success.md)
 
 [23 Ways](07/23-ways.md)
@@ -157,8 +143,6 @@
 [Choose Wisely: Organic or Green?](07/choose-wisely-organic-or-green.md)
 
 [#poh-lice](07/poh-lice.md)
-
-[#politics #britain](07/politics-britain.md)
 
 [Raising All Boats](07/raising-all-boats.md)
 
@@ -178,11 +162,7 @@
 
 [#wellsaid](07/wellsaid.md)
 
-[#43](08/43.md)
-
 [#art](08/art.md)
-
-[#artsy](08/artsy.md)
 
 [#costs](08/costs.md)
 
@@ -203,8 +183,6 @@
 [Netanyahu Didn't Ruin Israeli Democracy. The Occupation Did](08/netanyahu-didnt-ruin-israeli-democracy.md)
 
 [New Solar Power Plant](08/new-solar-power-plant.md)
-
-[#nigel](08/nigel.md)
 
 [No Opposition](08/no-opposition.md)
 
@@ -234,11 +212,7 @@
 
 [#dt](09/dt.md)
 
-[#imagine](09/imagine.md)
-
 [Israel](09/israel.md)
-
-[#leo](09/leo.md)
 
 [Mars](09/mars.md)
 
@@ -255,8 +229,6 @@
 [#ai #data](10/ai-data.md)
 
 [AI for Diagnosis](10/ai-for-diagnosis.md)
-
-[#ave #ceasar](10/ave-ceasar.md)
 
 [Directions](10/directions.md)
 
@@ -276,11 +248,7 @@
 
 [#norepresentation #withinterruption #brexit](11/brexit-representation.md)
 
-[#brexit](11/brexit.md)
-
 [#conan](11/conan.md)
-
-[#damn](11/damn.md)
 
 [Democracy](11/democracy.md)
 
@@ -289,8 +257,6 @@
 [#meyers](11/meyers.md)
 
 [#ng](11/ng.md)
-
-[#postelection](11/postelection.md)
 
 [Syria](11/syria.md)
 

@@ -46,8 +46,6 @@
 
 [#skeptics](03/skeptics.md)
 
-[#thesurge](03/thesurge.md)
-
 [Two Deficits](03/two-deficits.md)
 
 [Banking Scams](04/banking-scams.md)
@@ -61,8 +59,6 @@
 [Economy](05/economy.md)
 
 [Fake Physics](05/fake-physics.md)
-
-[#fedUp](05/fedup.md)
 
 [#noOccupation](05/nooccupation.md)
 

@@ -8,8 +8,6 @@
 
 [#millenials](01/millenials.md)
 
-[#partypoopah](01/partypoopah.md)
-
 [Red Packets](01/red-packets.md)
 
 [Solah Powah 2](01/solah-powah-2.md)
@@ -40,8 +38,6 @@
 
 [#ukraine](02/ukraine.md)
 
-[1%](03/1.md)
-
 [Approval Rating: Gallup](03/approval-rating-gallup.md)
 
 [#ban](03/ban.md)
@@ -55,8 +51,6 @@
 [#hah](03/hah.md)
 
 [#isp](03/isp.md)
-
-[#thep #inepa](03/jackass.md)
 
 [Obamacare 2.0](03/obamacare-20.md)
 
@@ -81,10 +75,6 @@
 [#currency](04/currency.md)
 
 [#dickMove](04/dickmove.md)
-
-[#dinosar](04/dinosar.md)
-
-[#letTheLitigationBegin](04/letthelitigationbegin.md)
 
 [Overbooked My Ass](04/overbooked-my-ass.md)
 
@@ -168,8 +158,6 @@
 
 [AdSense](10/adsense.md)
 
-[#bump](10/bump.md)
-
 [#colbert #conan](10/colbert-conan.md)
 
 [Crime of Opportunity](10/crime-of-opportunity.md)
@@ -184,11 +172,7 @@
 
 [1/3](11/13.md)
 
-[#allMyExesAreDyingInTexas](11/allmyexesaredyingintexas.md)
-
 [#amen](11/amen.md)
-
-[#bond](11/bond.md)
 
 [The Bottom 60%](11/dalio.md)
 
@@ -197,8 +181,6 @@
 [Reskilling](11/reskilling.md)
 
 [Square  + Bitcoin](11/square-bitcoin.md)
-
-[What Are You Doing WaPo?](11/what-are-you-doing-wapo.md)
 
 [Chia](12/chia.md)
 

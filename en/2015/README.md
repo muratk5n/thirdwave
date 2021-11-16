@@ -24,8 +24,6 @@
 
 [#weird](01/weird.md)
 
-[#yesyoudid](01/yesyoudid.md)
-
 [16 Ideas](02/16-ideas.md)
 
 [฿](02/blog-post.md)
@@ -35,8 +33,6 @@
 [Cellnet](02/cellnet.md)
 
 [Confessions of a Congressman](02/confessions-of-congressman.md)
-
-[#evolution](02/evolution.md)
 
 [#iraq](02/iraq.md)
 
@@ -154,8 +150,6 @@
 
 [#uber](06/uber.md)
 
-[USD](06/usd.md)
-
 [What Employees Want](06/what-employees-want.md)
 
 [Where The Bottles Break](06/where-bottles-break.md)
@@ -251,8 +245,6 @@
 [The Racket](10/the-racket.md)
 
 [Tuition Rising](10/tuition-rising.md)
-
-[#yes](10/yes.md)
 
 [Youthquake](10/youthquake.md)
 
