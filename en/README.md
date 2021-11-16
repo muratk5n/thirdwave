@@ -62,7 +62,7 @@ metals"
 ---
 
 Electrons are fickle.. Must base the new energy system on things with
-more of a substance; gas, molecules, heat, pressure.
+more of a substance; gas, liquids, molecules, heat, pressure.
 
 "The advantage of the thermal reflector systems is that because they
 initially produce heat, this heat can be stored, and it’s an important
