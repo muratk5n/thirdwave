@@ -1,76 +1,116 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-US, instead of triggering a "Shale Revolution" in 2005, could have
-gone solar, expanded its already substantial H2 pipeline capacity,
-help commercialize fuel-cells NASA developed in the 60s.
+
+"@IEA_SolarPACES
+
+Pacific Green shows how #CSP can cut green ammonia costs, [link](https://www.pacificgreen-solar.com/articles/pacific-green-shows-how-cut-green-ammonia-costs-ammonia-energy-conference-2021)"
+
+<img width="340" src="https://pbs.twimg.com/media/FEOBT38XMAECsfL?format=jpg&name=small"/>
+
+[[-]](https://twitter.com/IEA_SolarPACES/status/1460152887716290563)
 
 ---
 
-Instead of building those ghost cities China could have built thermo
-solar plants and at this point be energy sufficient, and carbon
-neutral.
+NO SHOW STOPPERS
+
+"No show stoppers for Concentrating Solar Power... A recently published
+study confirms that solar thermal power is largely unrestricted by
+materials availability"
+
+[[-]](https://www.chalmers.se/en/news/Pages/No-show-stoppers-for-Concentrating-Solar-Power.aspx)
 
 ---
 
-"Migrants Say Belarusians Took Them to E.U. Border and Supplied Wire Cutters"
+Based on paper below, assuming a solar PV panel uses 0.2 g indium per
+square meter (a low assumption, paper has it higher, 0.38 g/m2), 300 W
+/ m2 solar energy, with 30% panel efficiency, and given world reserves
+of indium is 5700 tons,
+
+```python
+m2 = 5700*1e6 / 0.2
+km2 = m2 / 1e6
+print (km2, 'km2')
+
+world = 157481.
+eff = 0.30
+kw = m2*(300*eff) / 1000.0
+twh_year = (kw*24*365) / 1e9
+print ('%0.2f percent' % (twh_year / world * 100.0))
+```
+
+```text
+28500.0 km2
+14.27 percent
+```
+
+only 14% of world energy requirement can be generated through PV solar
+tech, given the indium reserves and its usage. Did not even look at
+the other rare earth metals, cadmium, tellerium.. 
+
+[[Paper]](https://www.researchgate.net/publication/281617586_Assessing_Rare_Metal_Availability_Challenges_for_Solar_Energy_Technologies)
 
 ---
 
-Texas has more progressive taxation than the state of Washington?
-
-[[-]](https://youtu.be/hNDgcjVGHIw?t=506)
-
----
-
-NYT: "Urbanites in Canada Flock to Atlantic Region Amid Remote Work
-Shift.. As housing prices soar in big cities, the country’s eastern
-provinces are experiencing a surge in migration. Newcomers are being
-welcomed, but some locals are wary"
+AZO Cleantech: "[R]ecent research coming out of the Netherlands has
+spotted a red flag to relying on solar panels as a panacea for global
+emissions problems. Experts have found that the rare metals required
+to build solar panels, such as indium and tellurium, are not in
+sufficient supply to keep up with demand... Currently, China is
+providing the world.. Yet [CH] is no longer abundant with precious
+metals"
 
 ---
 
-"Despite the hopeful attitude during the 1950s and 1960s, it was soon
-acknowledged that Artificial Intelligence was a much harder problem
-than initially assumed. Today, AI capable of thinking like a human is
-referred to as artificial general intelligence (AGI) and still firmly
-the realm of science-fiction. Much of what we call ‘AI’ today is in
-fact artificial narrow intelligence (ANI, or Narrow AI)"
+Electrons are fickle.. Must base the new energy system on things with
+more of a substance; gas, molecules, heat, pressure.
 
-[[-]](https://hackaday.com/2021/08/02/github-copilot-and-the-unfulfilled-promises-of-an-artificial-intelligence-future/)
+"The advantage of the thermal reflector systems is that because they
+initially produce heat, this heat can be stored, and it’s an important
+consideration if you need to produce electricity after
+sunset. Photovoltaic panels, on the other hand, produce electricity
+immediately, making storing electricity less efficient. The Negev
+Energy project uses a molten salt storage system that enables it to
+hold and provide additional 4.5 hours of clean energy each day, at
+full capacity, even after sunset or during cloudy days"
 
----
-
-Bloomberg: "It's become the conventional wisdom that the U.S. economy
-is built on Americans' endless appetite to buy lots and lots of
-stuff. Household consumption makes up about 67% of GDP. When the
-economy falters, we're told spending is our patriotic duty. But
-suddenly, Americans can’t spend like they used to. Store shelves are
-emptying, and it can take months to find a car, refrigerator or
-sofa. If this continues, we may need to learn to do without — and,
-horrors, live more like the Europeans. That actually might not be a
-bad thing, because the U.S. economy could be healthier if it were less
-reliant on consumption"
-
-[[-]](https://www.bloomberg.com/opinion/articles/2021-11-12/personal-finance-americans-need-to-live-more-like-europeans)
+[[-]](https://www.timesofisrael.com/israel-marks-start-of-work-at-thermal-solar-sea-of-mirrors-plant-in-negev/)
 
 ---
 
-Subsidies? Both fossil and renewable get it at first.. to make sure
-people dont revolt as in France yellow vests. Until both options are
-on par -in terms of infra, support (repair, maintainence, second-hand
-sales)-, then subsidies for the former can be cut off.
+Increasing productivity decreases inflation..? The effect has too long
+of a time horizon and it isn't that big, or direct. Don't bet your
+econ diploma on it, if you have one 😶
 
 ---
 
-Need to work the incentives.. What do countries like? Cheap
-energy. Countries with know-how develop thermosolar-H2 locally, then,
-or at the same time, build a few of those for other countries,
-transferring know-how..
+Austria is not messing around..
+
+Their vax rates were very low
+
+"Austria lockdown for unvaccinated to start on Monday: chancellor"
 
 ---
 
-I'm sure ppl at COP26 made the best deal they could with that
-gathering.. And there is room to do more.
+For AFG pullout, people apparently didn't like its execution.. It
+didn't "look good" to them.. WH could've done pre-spin perhaps but
+were caught unawares on Tali. 
+
+---
+
+Downtrend on Biden's popularity did not start on Aug; it has been
+going on since the beginning of 2021 (Delta?). Without the August
+debacle, net pop wld have been at -5, with Aug debacle (AFG pullout)
+it went to -10% territory.
+
+```python
+import pandas as pd
+url = "https://projects.fivethirtyeight.com/biden-approval-data/approval_topline.csv"
+df = pd.read_csv(url,parse_dates=True,index_col='modeldate')
+df['net'] = df['approve_estimate'] - df['disapprove_estimate']
+df['net'].plot()
+```
+
+[[-]](https://pbs.twimg.com/media/FEQQdehXsAsAo4z?format=png&name=small)
 
 ---
 

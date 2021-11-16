@@ -1,4 +1,0 @@
-# #team
-
-
-![](team.png)

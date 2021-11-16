@@ -1,3 +1,0 @@
-# #murdoch
-
-![](murd.jpg)

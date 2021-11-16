@@ -1,5 +1,79 @@
 # Week 46
 
+US, instead of triggering a "Shale Revolution" in 2005, could have
+gone solar, expanded its already substantial H2 pipeline capacity,
+help commercialize fuel-cells NASA developed in the 60s.
+
+---
+
+Instead of building those ghost cities China could have built thermo
+solar plants and at this point be energy sufficient, and carbon
+neutral.
+
+---
+
+"Migrants Say Belarusians Took Them to E.U. Border and Supplied Wire Cutters"
+
+---
+
+Texas has more progressive taxation than the state of Washington?
+
+[[-]](https://youtu.be/hNDgcjVGHIw?t=506)
+
+---
+
+NYT: "Urbanites in Canada Flock to Atlantic Region Amid Remote Work
+Shift.. As housing prices soar in big cities, the country’s eastern
+provinces are experiencing a surge in migration. Newcomers are being
+welcomed, but some locals are wary"
+
+---
+
+"Despite the hopeful attitude during the 1950s and 1960s, it was soon
+acknowledged that Artificial Intelligence was a much harder problem
+than initially assumed. Today, AI capable of thinking like a human is
+referred to as artificial general intelligence (AGI) and still firmly
+the realm of science-fiction. Much of what we call ‘AI’ today is in
+fact artificial narrow intelligence (ANI, or Narrow AI)"
+
+[[-]](https://hackaday.com/2021/08/02/github-copilot-and-the-unfulfilled-promises-of-an-artificial-intelligence-future/)
+
+---
+
+Bloomberg: "It's become the conventional wisdom that the U.S. economy
+is built on Americans' endless appetite to buy lots and lots of
+stuff. Household consumption makes up about 67% of GDP. When the
+economy falters, we're told spending is our patriotic duty. But
+suddenly, Americans can’t spend like they used to. Store shelves are
+emptying, and it can take months to find a car, refrigerator or
+sofa. If this continues, we may need to learn to do without — and,
+horrors, live more like the Europeans. That actually might not be a
+bad thing, because the U.S. economy could be healthier if it were less
+reliant on consumption"
+
+[[-]](https://www.bloomberg.com/opinion/articles/2021-11-12/personal-finance-americans-need-to-live-more-like-europeans)
+
+---
+
+Subsidies? Both fossil and renewable get it at first.. to make sure
+people dont revolt as in France yellow vests. Until both options are
+on par -in terms of infra, support (repair, maintainence, second-hand
+sales)-, then subsidies for the former can be cut off.
+
+---
+
+Need to work the incentives.. What do countries like? Cheap
+energy. Countries with know-how develop thermosolar-H2 locally, then,
+or at the same time, build a few of those for other countries,
+transferring know-how..
+
+---
+
+I'm sure ppl at COP26 made the best deal they could with that
+gathering.. And there is room to do more.
+
+---
+
 [Looks](https://pbs.twimg.com/media/FEF9quAWYBALdvn?format=jpg&name=small)
 pretty bad...
 

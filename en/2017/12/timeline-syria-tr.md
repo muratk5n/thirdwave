@@ -40,7 +40,7 @@
   * 08/09: Germany adopts an open-door policy to Syrian refugees, around 800K will eventually arrive in the country
   * 10/10: Suicide bomb attack Ankara bus station, 103 people lost their lives, 238 people
   * 01/11: Elections repeated, ruling party regains parliamentary majority following a 'shock' victory
-  * 13/11: A series of coordinated terrorist attacks took place in France, 130 people died
+  * 13/11: France terror attacks: A series of coordinated terrorist attacks took place, 130 people died
   * 24/11: RU plane downed by TR, plane crashed in Syria
   * 01/12: Russia deploys S-400 surface-to-air missile in Syria
 * 2016
@@ -51,6 +51,7 @@
   * 21/03: Iranian-TR businessman Zarrab implicated in earlier corruption scandal escapes to US possibly with a wealth of info on TR gov officials
   * 01/04: An Obama interview reveals he considers TR Pres a failure, an authoritarian, one who refuses to use his enormous army to bring stability to Syria
   * 22/05: PM resigns due to ruling party infighting
+  * 23/06: Britain votes for Brexit in a referandum
   * 28/06: Airport attack, 45 people were killed 239 people injured in TR
   * 15/07: TR coup attempt
   * 17/08: TR announces interest in buying Russian S-400 defense system
@@ -63,6 +64,7 @@
   * 01/01: Nightclub terrorist attack in TR leaves 39 dead
   * 20/01: Trump becomes the new President
   * 16/03: Referendum grants new powers to TR President
+  * 22/05: UK attacks: An Islamist extremist suicide bomber detonated a bomb as people were leaving the Manchester Arena following a concert. 23 people died, and 1,017 were injured
   * 05/06: Saudi Arabia, the United Arab Emirates, Bahrain and Egypt severed diplomatic relations with Qatar and banned Qatar-registered planes and ships from utilising their airspace and sea routes, along with Saudi Arabia blocking Qatar's only land crossing. 
   * 25/07: TR signs deal to buy Russian S-400 defense system
   * 03/11: Lebanon's PM Hariri held hostage in Saudi Arabia, handed a prewritten resignation speech and forced to read it on Saudi television. PM returns home 3 weeks later in a trip brokered by France, and suspended his resignation.

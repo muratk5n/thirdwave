@@ -1,3 +1,0 @@
-# #artsy
-
-![](arta.png)
