@@ -1,6 +1,5 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-
 "@IEA_SolarPACES
 
 Pacific Green shows how #CSP can cut green ammonia costs, [link](https://www.pacificgreen-solar.com/articles/pacific-green-shows-how-cut-green-ammonia-costs-ammonia-energy-conference-2021)"
@@ -44,8 +43,8 @@ print ('%0.2f percent' % (twh_year / world * 100.0))
 ```
 
 only 14% of world energy requirement can be generated through PV solar
-tech, given the indium reserves and its usage. Did not even look at
-the other rare earth metals, cadmium, tellerium.. 
+tech, given the indium reserves and its usage. There are other
+rare-earth metals too, cadmium, tellerium..
 
 [[Paper]](https://www.researchgate.net/publication/281617586_Assessing_Rare_Metal_Availability_Challenges_for_Solar_Energy_Technologies)
 
@@ -62,7 +61,7 @@ metals"
 ---
 
 Electrons are fickle.. Must base the new energy system on things with
-more of a substance; gas, liquids, molecules, heat, pressure.
+more of substance; gas, liquids, molecules, heat, pressure.
 
 "The advantage of the thermal reflector systems is that because they
 initially produce heat, this heat can be stored, and it’s an important
@@ -91,9 +90,9 @@ Their vax rates were very low
 
 ---
 
-For AFG pullout, people apparently didn't like its execution.. It
-didn't "look good" to them.. WH could've done pre-spin perhaps but
-were caught unawares on Tali. 
+AFG pullout, people apparently didn't like its execution.. It didn't
+"look good".. WH could've done pre-spin perhaps but were caught
+unawares themselves on Tali.
 
 ---
 
