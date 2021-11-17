@@ -78,8 +78,6 @@ the "eminent characters" Gore would pull out of his bag to support his
 case would be Powell. He was apparently for NAFTA -- and why wouldn't
 he be? He was a Republican.
 
-\#DontAskDontTell
-
 ---
 
 Let's not forget Colin Powell was beloved by Reps not because he
