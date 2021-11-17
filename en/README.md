@@ -52,22 +52,22 @@ I see.. this guy puts marmite in the veg patties.. Marm is an B12 bomb.
 
 ---
 
-*Shang Chi*, same, little more SJW.. Too bad for MCu got the cold
+*Shang Chi*, same, little more SJW.. Too bad for DSNY got the cold
 shoulder from CCP, lost millions coulda had.. It was ok, but not sure
 it can build towards something. The character is too marginal afaik.
 
 ---
 
-*No Time to Die* was fine, Bond enough.. There was some SJW. Touching
-at times. Good action, tech.
+*No Time to Die* was Bond enough.. There was some SJW. Good action,
+tech.
 
 ---
 
 Centrism got its ass kicked in Virginia. Trump derangement, running
 specifically against Trump didn't work. Not being able to hit the
 opponent on Carlyle, like a leftist could, then getting mired in
-culture war like a 90s centrist Clintonite destroyed the guy. And
-I loved it.
+culture war like a 90s centrist Clintonite destroyed the guy. I loved
+it.
 
 ---
 
