@@ -27,7 +27,7 @@ indoor spaces, the government said"
 
 ---
 
-Got some. And bro.. extremely potent. Tastes like condensed Guiness.
+Got some.. extremely potent. Tastes like condensed Guiness.
 
 ---
 
@@ -48,7 +48,7 @@ part of their rations"
 
 ---
 
-Marmite eh? This guy puts it in the veg patties.. An B12 bomb.
+Marmite eh? This guy puts it in the veg patties.. A B-complex bomb.
 
 ---
 
