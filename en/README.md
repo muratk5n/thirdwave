@@ -44,11 +44,11 @@ part of their rations"
 
 ---
 
-It is 100% veg
+100% veg
 
 ---
 
-I see.. this guy puts marmite in the veg patties.. Marm is an B12 bomb.
+Marmite eh? This guy puts it in the veg patties.. An B12 bomb.
 
 ---
 
