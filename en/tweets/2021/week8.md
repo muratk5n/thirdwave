@@ -420,8 +420,6 @@ other allies and even adversaries like Russia and China"
 Looking at the hood.. Earthquakes of the past two years >4.5 seem to
 be focused around the Agean.. 
 
-[Code](util.py)
-
 
 ```python
 import cartopy.crs as ccrs, cartopy
