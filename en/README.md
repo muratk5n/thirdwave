@@ -25,7 +25,7 @@ indoor spaces, the government said"
 
 ---
 
-Got some.. extremely potent. It's like condensed Guiness.
+Marmite is extremely potent. It's like condensed Guiness.
 
 ---
 
