@@ -82,7 +82,7 @@ he be? He was a Republican.
 
 ---
 
-Quick reminder: Colin Powell was beloved by Reps but not because he
+Let's not forget Colin Powell was beloved by Reps but not because he
 was a good general but because he fought in the culture war and
 "scored one on the libs"
 
