@@ -90,9 +90,9 @@ was a good general but because he fought in the culture war and
 
 ---
 
-Bipartisanship should get a pol demotion from being a remarkable
-event, to something regular, and an unremarkable event. You agree on
-some stuff, you get them done. What's the big deal..?
+Bipartisanship needs to get a demotion from being a remarkable event,
+to something regular, and an unremarkable event. You agree on some
+stuff, you get them done. What's the big deal..?
 
 ---
 
