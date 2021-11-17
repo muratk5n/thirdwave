@@ -3,7 +3,7 @@
 Ingredients (for three patties)
 
 * Parboiled Kidney/White Beans, ~200g in total
-* White Rice, Boiled (1/2 Cup)
+* White Rice (1/2 Cup)
 * 1/4 Beetroot (grated)
 * 1/4 Onions (diced)
 * 1 teaspoon marmite
@@ -12,10 +12,11 @@ Ingredients (for three patties)
 * Bread crumbs
 * 3 Tblspoon Musrooms (diced)
 
-Mash the beans. Soften onions and musrooms in a pan. Add those, and
-everything else with the beans in a bowl, mix. Should be a meat like
-substance by now, easy to shape. Make patties, fry in olive oil on a
-pan. Serve in a bun along with cucumber pickles and lettuce.
+Mash the beans. Soften onions and musrooms in a pan. Boil the rice,
+until its water evaporates. Add everything along with the beans in a
+bowl, mash, mix. Should be a meat like substance by now, easy to
+shape. Make patties, fry in olive oil on a pan. Serve in a bun along
+with cucumber pickles and lettuce.
 
 [Ref 1](https://youtu.be/l75ixsh-wjI?t=78)
 
