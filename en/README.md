@@ -48,7 +48,7 @@ part of their rations"
 
 ---
 
-Marmite eh? This guy puts it in the veg patties.. A B-complex bomb.
+Marmite eh? This guy puts it in the veg patties.. B-complex bomb.
 
 ---
 
