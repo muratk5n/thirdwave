@@ -1,115 +1,98 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-"@IEA_SolarPACES
 
-Pacific Green shows how #CSP can cut green ammonia costs, [link](https://www.pacificgreen-solar.com/articles/pacific-green-shows-how-cut-green-ammonia-costs-ammonia-energy-conference-2021)"
 
-<img width="340" src="https://pbs.twimg.com/media/FEOBT38XMAECsfL?format=jpg&name=small"/>
+"@AfricaFactsZone
 
-[[-]](https://twitter.com/IEA_SolarPACES/status/1460152887716290563)
-
----
-
-NO SHOW STOPPERS
-
-"No show stoppers for Concentrating Solar Power... A recently published
-study confirms that solar thermal power is largely unrestricted by
-materials availability"
-
-[[-]](https://www.chalmers.se/en/news/Pages/No-show-stoppers-for-Concentrating-Solar-Power.aspx)
+Morocco has the world's largest Concentrated Solar Power (CSP) plant,
+Ouarzazate Solar Power Station. It covers 3,000 hectares (the size of
+3,500 football fields), and can be seen from space. It generates 580MW
+of electricity, and will power 1 million homes and numerous cities"
 
 ---
 
-Based on paper below, assuming a solar PV panel uses 0.2 g indium per
-square meter (a low assumption, paper has it higher, 0.38 g/m2), 300 W
-/ m2 solar energy, with 30% panel efficiency, and given world reserves
-of indium is 5700 tons,
+"@sfpoulter
 
-```python
-m2 = 5700*1e6 / 0.2
-km2 = m2 / 1e6
-print (km2, 'km2')
-
-world = 157481.
-eff = 0.30
-kw = m2*(300*eff) / 1000.0
-twh_year = (kw*24*365) / 1e9
-print ('%0.2f percent' % (twh_year / world * 100.0))
-```
-
-```text
-28500.0 km2
-14.27 percent
-```
-
-only 14% of world energy requirement can be generated through PV solar
-tech, given the indium reserves and its usage. There are other
-rare-earth metals too, cadmium, tellerium..
-
-[[Paper]](https://www.researchgate.net/publication/281617586_Assessing_Rare_Metal_Availability_Challenges_for_Solar_Energy_Technologies)
+DYK: The cost of Concentrated #solar power (CSP) dropped 47% between
+2010 and 2019 - according to @IRENA - 'making it a desirable option
+for use in developing countries'"
 
 ---
 
-AZO Cleantech: "[R]ecent research coming out of the Netherlands has
-spotted a red flag to relying on solar panels as a panacea for global
-emissions problems. Experts have found that the rare metals required
-to build solar panels, such as indium and tellurium, are not in
-sufficient supply to keep up with demand... Currently, China is
-providing the world.. Yet [CH] is no longer abundant with precious
-metals"
+"Peru, the country with the world's highest Covid mortality rate, will
+begin next month to require vaccination proof from adults entering
+indoor spaces, the government said"
+
+[[-]](http://u.afp.com/w379)
 
 ---
 
-Electrons are fickle.. Must base the new energy system on things with
-more of substance; gas, liquids, molecules, heat, pressure.
-
-"The advantage of the thermal reflector systems is that because they
-initially produce heat, this heat can be stored, and it’s an important
-consideration if you need to produce electricity after
-sunset. Photovoltaic panels, on the other hand, produce electricity
-immediately, making storing electricity less efficient. The Negev
-Energy project uses a molten salt storage system that enables it to
-hold and provide additional 4.5 hours of clean energy each day, at
-full capacity, even after sunset or during cloudy days"
-
-[[-]](https://www.timesofisrael.com/israel-marks-start-of-work-at-thermal-solar-sea-of-mirrors-plant-in-negev/)
+Got some. And bro.. extremely potent. Tastes like condensed Guiness.
 
 ---
 
-Increasing productivity decreases inflation..? The effect has too long
-of a time horizon and it isn't that big, or direct. Don't bet your
-econ diploma on it, if you have one 😶
+Fantastic history to all these things. Fine innovation.
+
+Wiki: "The product that was to become Marmite was invented during the
+late 19th century when German scientist Justus von Liebig discovered
+that brewer's yeast could be concentrated, bottled and eaten...  By
+1912, the discovery of vitamins was a boost for Marmite, as the spread
+is a rich source of the vitamin B complex; with the vitamin B1
+deficiency beriberi being common during World War I, the spread became
+more popular. British troops during World War I were issued Marmite as
+part of their rations"
 
 ---
 
-Austria is not messing around..
-
-Their vax rates were very low
-
-"Austria lockdown for unvaccinated to start on Monday: chancellor"
+It is 100% veg
 
 ---
 
-AFG pullout, people apparently didn't like its execution.. It didn't
-"look good".. WH could've done pre-spin perhaps but were caught
-unawares themselves on Tali.
+I see.. this guy puts marmite in the veg patties.. Marm is an B12 bomb.
 
 ---
 
-Downtrend on Biden's popularity did not start on Aug; it has been
-going on since the beginning of 2021 (Delta?). Without the August
-debacle, net pop wld have been at -5, with Aug debacle (AFG pullout)
-it went to -10% territory.
+*Shang Chi*, same, little more SJW.. Too bad for MCu got the cold
+shoulder from CCP, lost millions coulda had.. It was ok, but not sure
+it can build towards something. The character is too marginal afaik.
 
-```python
-import pandas as pd
-url = "https://projects.fivethirtyeight.com/biden-approval-data/approval_topline.csv"
-df = pd.read_csv(url,parse_dates=True,index_col='modeldate')
-df['net'] = df['approve_estimate'] - df['disapprove_estimate']
-df['net'].plot()
-```
+---
 
-[[-]](https://pbs.twimg.com/media/FEQQdehXsAsAo4z?format=png&name=small)
+*No Time to Die* was fine, Bond enough.. There was some SJW. Touching
+at times. Good action, tech.
+
+---
+
+Centrism got its ass kicked in Virginia. Trump derangement, running
+specifically against Trump didn't work. Not being able to hit the
+opponent on Carlyle, like a leftist could, then getting mired in
+culture war like a 90s centrist Clintonite destroyed the guy. And
+I loved it.
+
+---
+
+Let's also note that the first crisis in Clinton WH was a hot-button
+social issue, not an economic issue. For econ they'd do NAFTA and
+everyone was on board for that, except that one weird guy with the
+squeky voice.. In a debate on the subject Perot (that weird guy with
+the squeky voice) would argue against, Gore wld argue for, and one of
+the "eminent characters" Gore would pull out of his bag to support his
+case would be Powell -- he was apparently for NAFTA, and why wouldn't
+he be? He was a Republican.
+
+---
+
+Quick reminder: Colin Powell was beloved by Reps but not because he
+was a good general but because he fought in the culture war and
+"scored one on the libs"
+
+\#DontAskDontTell
+
+---
+
+Bipartisanship should get a pol demotion from being a remarkable
+event, to something regular, and an unremarkable event. You agree on
+some stuff, you get them done. What's the big deal..?
 
 ---
 
