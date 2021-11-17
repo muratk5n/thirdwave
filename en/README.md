@@ -46,7 +46,8 @@ part of their rations"
 
 ---
 
-Marmite eh? This guy puts it in the veg patties.. B-complex bomb.
+Marmite.. This guy puts it in the veg patties.. B-complex bomb.
+This can work, approaching beef quality here.
 
 ---
 
