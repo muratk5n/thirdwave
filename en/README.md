@@ -51,8 +51,8 @@ Marmite eh? This guy puts it in the veg patties.. B-complex bomb.
 ---
 
 *Shang Chi*, same, little more SJW.. Got the cold shoulder from CCP,
-lost millions coulda had.. It was ok, but not sure it can build
-towards something. The character is too marginal afaik.
+lost millions coulda had.. Not sure MCU can build this towards
+something.. The character is too marginal afaik.
 
 ---
 
