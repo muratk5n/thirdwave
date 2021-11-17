@@ -52,9 +52,9 @@ Marmite eh? This guy puts it in the veg patties.. A B-complex bomb.
 
 ---
 
-*Shang Chi*, same, little more SJW.. Too bad for DSNY got the cold
-shoulder from CCP, lost millions coulda had.. It was ok, but not sure
-it can build towards something. The character is too marginal afaik.
+*Shang Chi*, same, little more SJW.. Got the cold shoulder from CCP
+though, lost millions coulda had.. It was ok, but not sure it can
+build towards something. The character is too marginal afaik.
 
 ---
 
