@@ -91,8 +91,8 @@ was a good general but because he fought in the culture war and
 ---
 
 Bipartisanship needs to get a demotion from being a remarkable event,
-to something regular, and an unremarkable event. You agree on some
-stuff, you get them done. What's the big deal..?
+to something regular, and unremarkable. You agree on some stuff, you
+get them done. What's the big deal..?
 
 ---
 
