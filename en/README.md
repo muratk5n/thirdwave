@@ -71,12 +71,12 @@ it.
 
 ---
 
-Note that the first crisis in Clinton WH was a hot-button social
-issue, not an economic issue. For econ they'd do NAFTA and everyone
-was on board for that, except that one weird guy with the squeky
-voice.. In a debate on the subject Perot (that weird guy with the
-squeky voice) would argue against, Gore wld argue for, and one of the
-"eminent characters" Gore would pull out of his bag to support his
+It was fitting that the first crisis in Clinton WH was a hot-button
+social issue, not an economic issue. For econ they'd do NAFTA and
+everyone was on board for that, except that one weird guy with the
+squeky voice.. In a debate on the subject Perot (that weird guy with
+the squeky voice) would argue against, Gore wld argue for, and one of
+the "eminent characters" Gore would pull out of his bag to support his
 case would be Powell. He was apparently for NAFTA -- why wouldn't he
 be? He was a Republican.
 
