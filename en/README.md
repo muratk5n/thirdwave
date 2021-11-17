@@ -27,7 +27,7 @@ indoor spaces, the government said"
 
 ---
 
-Got some.. extremely potent. Tastes like condensed Guiness.
+Got some.. extremely potent. It's like condensed Guiness.
 
 ---
 
