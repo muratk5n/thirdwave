@@ -107,7 +107,7 @@ like the Mojave Desert. Could irk some people.. They tested btw
 
 Found out about France's little unpopularity problem in Oz, due to the
 nuclear tests conducted in the South Pacific (in the so-called French
-Polynesia). Maybe this is partly why they could be sacrificed easier
+Polynesia). Maybe this is partly why they could be sacrificed easily
 as a partner, the Oz general view would not care too much..
 
 ---
