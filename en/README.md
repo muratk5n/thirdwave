@@ -87,7 +87,7 @@ a 5, the worst level.. Not good.
 
 Doh!
 
-"Two Top Advisers Resign From Anti-Cancel Culture University of Austin"
+TDB: "Two Top Advisers Resign From Anti-Cancel Culture University of Austin"
 
 [[-]](https://www.thedailybeast.com/robert-zimmer-steven-pinker-resign-from-university-of-austins-advisory-board)
 
