@@ -1,9 +1,10 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-Tech should allow new ways of working. Linux wasn't built bcz people
-could "chat" overseas or "Zoom". The project, besides Linus Torvalds'
-leadership, was made possible through async concepts such as the
-email, and shared code repos, and the patch file.
+Tech should allow new ways of working, not merely extend the existing
+ways of working. Linux wasn't built bcz people could "chat" overseas
+or "Zoom". The project, besides Linus Torvalds' leadership, was made
+possible through async concepts such as the email, and shared code
+repos, and the patch file.
 
 ---
 
