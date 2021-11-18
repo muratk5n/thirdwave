@@ -20,10 +20,13 @@
   * 09/09: Russia convinces Syria to hand over its stockpile to intl control averting US strike
   * 17/12: Corruption scandal implicating TR gov and its PM started, most thought police close to Gulen Brotherhood was behind it
 * 2014
+  * 02/01: ISIS takes control of Falluja
   * 19/01: A truck was stopped by TR jandarmee that was claimed to carry weapons for Al Qaida
   * 27/03: Voice recording with TR FM, senior gov officials discussing starting a war with Syria through covert means leaked to Internet
+  * 15/05: ISIS cements its rule in Raqqa
   * 11/06: ISIS invades TR Mosul consulate taking many hostage
-  * 10/08: PM becomes President (a figurehead position at this point)
+  * 29/06: ISIS leader Abu Bakr al-Baghdadi declared a caliphate with Raqqa as its capital
+  * 10/08: TR PM becomes President (a figurehead position at this point)
   * 21/08: Former FM becomes PM
   * 13/09: Islamic State begins its siege of Kobane
   * 14/12: Gov backlash against the Brotherhood starts, their businesses fall under investigation
@@ -38,7 +41,9 @@
   * 30/06: Greece defaults on IMF debt spurring crisis, another bailout programme is signed, EU/Germany's image is a tough austerian
   * 06/09: Mafia violence against newspaper Hurriyet allegedly with government support
   * 08/09: Germany adopts an open-door policy to Syrian refugees, around 800K will eventually arrive in the country
+  * 30/09: Russian Federation formally entered the Syrian civil war 
   * 10/10: Suicide bomb attack Ankara bus station, 103 people lost their lives, 238 people
+  * 21/10: Assad makes a surprise visit to Moscow
   * 01/11: Elections repeated, ruling party regains parliamentary majority following a 'shock' victory
   * 13/11: France terror attacks: A series of coordinated terrorist attacks took place, 130 people died
   * 24/11: RU plane downed by TR, plane crashed in Syria
