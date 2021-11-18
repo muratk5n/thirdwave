@@ -107,12 +107,10 @@ as a partner, the Oz general view would not care too much..
 
 ---
 
-Pat yourselves on the back Dems.. you let a Republican operative do that to you
-
----
-
 The gun issue is so radicalized it became an unsolvable mess. Dick
 Morris is laughing his ass off right now..
+
+Pat yourselves on the back Dems.. you let a Republican operative do that to you
 
 ---
 
