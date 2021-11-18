@@ -98,14 +98,14 @@ TDB: "Two Top Advisers Resign From Anti-Cancel Culture University of Austin"
 
 ---
 
-The testing area is relatively far to the AU/NZ landmass, 6K
-kilometers, but hey, it ain't on the other side of the world either,
-like the Mojave Desert. Could irk some people.. They tested btw
+The testing area is relatively far to AU/NZ landmass, 6K kilometers,
+but hey, it ain't on the other side of the world either, like the
+Mojave Desert. Could irk some people.. They tested btw
 60s-90s. Received protests from AU, NZ each time.
 
 ---
 
-Found out about France's little unpopularity problem in Oz, due to the
+Found out about France's little unpopularity problem in Oz, due to
 nuclear tests conducted in the South Pacific (in the so-called French
 Polynesia). Maybe this is partly why they could be sacrificed easily
 as a partner, the Oz general view would not care too much..
