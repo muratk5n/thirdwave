@@ -22,7 +22,7 @@ Yes ! The Worst of Both Worlds: Zooming From the Office"
 Hah. Just heard guy on RT say "Germany destroyed its nuclear sector,
 now have to rely on 90% natural gas for power generation". [Incorrect](https://pbs.twimg.com/media/FEYfMPoWYAEUpOs?format=jpg&name=small)
 
-The rabble-rouser, thorn-on-the-side shtick is gine, but plz don't
+The rabble-rouser, thorn-on-the-side shtick is fine, but plz don't
 pull bizarre non-truths out of your ass \#RT
 
 ---
