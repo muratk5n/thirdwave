@@ -27,14 +27,6 @@ pull bizarre non-truths out of your ass \#RT
 
 ---
 
-If Oz wanted to replace coal, the coal regions (in the East, and SW)
-also get good sunshine. People can easily transition to a job at a
-thermosolar plant.
-
-[[-]](https://pbs.twimg.com/media/FENtnFlWUAIDbMK?format=jpg&name=small)
-
----
-
 Redtenbacher's Funkestra - Go Mo \#music
 
 [[-]](https://youtu.be/OOIfTsrG0EU)
