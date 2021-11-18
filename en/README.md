@@ -101,7 +101,7 @@ as a partner, the Oz general view would not care too much..
 
 ---
 
-Yes shitlibs.. you let a Republican operative do that to you
+Pat yourselves on the back Dems.. you let a Republican operative do that to you
 
 ---
 
