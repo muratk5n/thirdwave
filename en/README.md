@@ -72,7 +72,7 @@ baseless, crooked fabrication.
 Climate activists on air quality of Stanpoli, Asia Minor; they say the
 smog seen there recently was pollution, not harmless mist... I've been
 checking the pollution levels through OWM, half the time I see AQI at
-a 5, the worst level.. As bad as Delhi, and Beijing.
+a 5, the worst level.. Not good.
 
 [[-]](https://mobile.twitter.com/euronews_tr/status/1458086790083096580)
 
