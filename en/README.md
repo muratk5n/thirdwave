@@ -85,7 +85,7 @@ a 5, the worst level.. Not good.
 
 ---
 
-Doh!
+Doh! That's Focker's university isn't it?
 
 TDB: "Two Top Advisers Resign From Anti-Cancel Culture University of Austin"
 
