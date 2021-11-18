@@ -7,25 +7,32 @@ from numpy.linalg import pinv
 import scipy.stats as st
 import numpy as np
 
-def structural_break_chow(y, x, p):
-    N = y.shape[0]
-    range = np.floor(np.array([N * p, N * (1 - p)]))
-    range = np.arange(range[0], range[1] + 1, dtype=np.int32)
-    x = x - np.mean(x)
-    y = y - np.mean(y)
-    e = OLS(y,x).fit().resid
-    S_r = np.sum(e**2)
-    k = x.shape[1]
+def struct_break_test_pt(y, x, t):
+    x1 = x[:t]
+    x2 = x[t:]
+    res1 = OLS(y[:t],x1).fit()
+    res2 = OLS(y[t:],x2).fit()
+    res_r = OLS(y,x).fit()
+    S_1 = np.sum(res1.resid**2)
+    S_2 = np.sum(res2.resid**2)
+    S_r = np.sum(res_r.resid**2)
+    k = x.shape[1] 
+    tmp1 = (S_r-(S_1+S_2))/k
+    tmp2 = (S_1+S_2)/(len(x)-2*k-1)
+    F = tmp1/tmp2
+    f = st.f(k,len(x)-2*k-1)
+    pval = 1-f.cdf(F)    
+    return F,pval
+
+def structural_break_find(y, x, p):
+    N = len(x)
     F_stat = np.zeros(N)
-    for t in range:
-        X1 = x[:t]
-        X2 = x[t:]
-        e[:t] = OLS(y[:t],X1).fit().resid
-        e[t:] = OLS(y[t:],X2).fit().resid
-        R2_u = 1 - e.dot(e) / y.dot(y)
-        S_u = np.sum(e**2)
-        F_stat[t] = ((S_r - S_u) / k) / (( S_u) / (N-2*k))
+    for t in range(2,N):
+        print (t)
+        F,pval = struct_break_test_pt(y, x, t)
+        if pval < p: F_stat[t] = F        
     return F_stat.argmax(),F_stat.max()
+    
 
 def popularity_2021_pre_aug():
 
@@ -39,7 +46,7 @@ def popularity_2021_pre_aug():
     p = 0.05
     df['idx'] = range(len(df))
     df_x = df[['idx']]; df_y = df['net']
-    i,v = structural_break_chow(df_y, df_x, p)
+    i,v = structural_break_find(df_y, df_x, p)
     print (df.index[i])
 
 if __name__ == "__main__": 
