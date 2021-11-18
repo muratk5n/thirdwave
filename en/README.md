@@ -1,5 +1,9 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
+Using tech to merely extend inefficient solution is suboptinal. Tech
+should allow new ways of working. 
+
+---
 
 Even the dog looks kinda sad
 
