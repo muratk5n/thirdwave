@@ -1,7 +1,7 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
 Using tech to merely extend an inefficient solution is
-suboptinal. Tech should allow new ways of working. Linux wasn't built
+suboptimal. Tech should allow new ways of working. Linux wasn't built
 bcz people could "chat" overseas or "Zoom" (that tech didn't even
 exist). The project (on top of Linus' leadership) was made possible
 through async concepts such as the email, and shared code repos, and
