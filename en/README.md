@@ -110,7 +110,7 @@ Morris is laughing his ass off right now..
 
 ---
 
-Guilty or not guilty, self-defense or no.. Arguing tangential minutea
+Guilty or not guilty, self-defense or no.. It is arguing tangential minutea
 of a [larger issue](https://www.theglobeandmail.com/opinion/editorials/article-a-trial-in-wisconsin-and-a-reminder-about-whats-right-with-canadian).
 
 ---
