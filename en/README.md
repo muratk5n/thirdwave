@@ -113,7 +113,7 @@ as a partner, the Oz general view would not care too much..
 ---
 
 The gun issue is so radicalized it became an unsolvable mess. Dick
-Morris is laughing his ass off right now..
+Morris is laughing his ass off right now \#triangulation
 
 Pat yourselves on the back corporate Dems.. you let a Republican
 operative do that to you
