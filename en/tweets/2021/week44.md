@@ -115,7 +115,7 @@ then people started dying of opioids. There was backlash. Trump.
 
 Inflation, wages, 1970s \#blyth
 
-[[-]](https://youtu.be/8rxrjhWTdv8)
+[[-]](https://youtu.be/8rxrjhWTdv8?t=27)
 
 ---
 
