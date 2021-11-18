@@ -1,98 +1,121 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-"@AfricaFactsZone
 
-Morocco has the world's largest Concentrated Solar Power (CSP) plant,
-Ouarzazate Solar Power Station. It covers 3,000 hectares (the size of
-3,500 football fields), and can be seen from space. It generates 580MW
-of electricity, and will power 1 million homes and numerous cities"
+Even the dog looks kinda sad
 
----
+"@314159K
 
-"@sfpoulter
+Yes ! The Worst of Both Worlds: Zooming From the Office"
 
-DYK: The cost of Concentrated #solar power (CSP) dropped 47% between
-2010 and 2019 - according to @IRENA - 'making it a desirable option
-for use in developing countries'"
+[[-]](https://twitter.com/314159K/status/1460799696717467653)
 
 ---
 
-"Peru, the country with the world's highest Covid mortality rate, will
-begin next month to require vaccination proof from adults entering
-indoor spaces, the government said"
-
-[[-]](http://u.afp.com/w379)
+I appreciate the rabble-rouser, thorn-on-the-side shtick, but plz
+don't pull bizarre non-truths out of your ass \#RT
 
 ---
 
-Marmite is extremely potent. It's like condensed Guiness.
+Hah. Just heard guy on RT say "Germany destroyed its nuclear sector,
+now have to rely on 90% natural gas for power generation". [Incorrect](https://pbs.twimg.com/media/FEYfMPoWYAEUpOs?format=jpg&name=small)
 
 ---
 
-Fantastic history to all these things. Fine innovation.
+If Oz wanted to replace coal, the coal regions (in the East, and SW)
+also get good sunshine. People can easily transition to a job at a
+thermosolar plant.
 
-Wiki: "The product that was to become Marmite was invented during the
-late 19th century when German scientist Justus von Liebig discovered
-that brewer's yeast could be concentrated, bottled and eaten...  By
-1912, the discovery of vitamins was a boost for Marmite, as the spread
-is a rich source of the vitamin B complex; with the vitamin B1
-deficiency beriberi being common during World War I, the spread became
-more popular. British troops during World War I were issued Marmite as
-part of their rations"
+[[-]](https://pbs.twimg.com/media/FENtnFlWUAIDbMK?format=jpg&name=small)
 
 ---
 
-100% veg
+Redtenbacher's Funkestra - Go Mo \#music
+
+[[-]](https://youtu.be/OOIfTsrG0EU)
 
 ---
 
-Marmite.. This guy puts it in the veg patties.. B-complex bomb.
-This can work, approaching beef quality here.
+Expanding existing infra for the shiny product obviously makes the
+overall approach even stupider. Gov had to lead, not follow salesmen.
 
 ---
 
-*Shang Chi*, same, little more SJW.. Got the cold shoulder from CCP,
-lost millions coulda had.. Not sure MCU can build this towards
-something.. The character is too marginal afaik.
+Even then, the BEV was considered as a ridiculous solution by many for
+a long time, but as the drums of climate apocalypse became louder,
+some started to think "maybe to avert that crazy end, I do need this
+dumb-ass shit". A strange way to land at a conclusion, and of course,
+faulty. Shoulda asked for better infra
 
 ---
 
-*No Time to Die* was Bond enough.. There was some SJW. Good action,
-tech.
+Climate developments r too slow.. world became too used to solving
+problems throught those little, shiny products, coming from the
+private sector, having been brainwashed by neoliberalism.. Such
+products are stand-alone units of goods that can be sold, expected to
+work on their own, assuming certain infra backdrop.. nothing
+more. Climate could not be solved with such isolated trinkets. That is
+why an inferior tech, the battery electric car, became en vouge, that
+singular product trying to exist in a certain environment (the wall
+plug). New and different infrastructure could have changed the
+underlying Calculus completely, much earlier.
 
 ---
 
-Centrism got its ass kicked in Virginia. Trump derangement, running
-specifically against Trump didn't work. Not being able to hit the
-opponent on Carlyle, like a leftist could, then getting mired in
-culture war like a 90s centrist Clintonite destroyed the guy. I loved
-it.
+The word Istanbul comes from the Greek word Stanpoli, it means "in the
+city". So trying to avoid Constantinople bcz it sounds Greek lands you
+with Istanbul which also comes from Greek. Boom. This puts TR
+nationalists in a bind doesn't it? Much in TR nat narrative is a
+baseless, crooked fabrication.
 
 ---
 
-It was fitting that the first crisis in Clinton WH was a hot-button
-social issue, not an economic issue. For econ they'd do NAFTA and
-everyone was on board for that, except that one weird guy with the
-squeky voice.. In a debate on the subject Perot (that weird guy with
-the squeky voice) would argue against, Gore wld argue for, and one of
-the "eminent characters" Gore would pull out of his bag to support his
-case would be Powell. He was apparently for NAFTA -- and why wouldn't
-he be? He was a Republican.
+Climate activists on air quality of Stanpoli, Asia Minor; they say the
+smog seen there recently was pollution, not harmless mist... I've been
+checking the pollution levels through OWM, half the time I see AQI at
+a 5, the worst level.. As bad as Delhi, and Beijing.
+
+[[-]](https://mobile.twitter.com/euronews_tr/status/1458086790083096580)
 
 ---
 
-Let's not forget Colin Powell was beloved by Reps not because he
-was a good general but because he fought in the culture war and
-"scored one on the libs"
+Doh!
 
-\#DontAskDontTell
+"Two Top Advisers Resign From Anti-Cancel Culture University of Austin"
+
+[[-]](https://www.thedailybeast.com/robert-zimmer-steven-pinker-resign-from-university-of-austins-advisory-board)
 
 ---
 
-Bipartisanship needs to get a demotion from being a remarkable event,
-to something regular, and unremarkable. You agree on some stuff (key
-is 'some', agreeing on all, especially econ, is harmful), you get them
-done. What's the big deal..?
+The FR testing area is relatively far to the AU/NZ landmass, 6K
+kilometers, but hey, it ain't on the other side of the world either,
+like the Mojave Desert. Could irk some people..
+
+They tested btw 60s-90s. Received protests from AU, NZ each time.
+
+---
+
+Found out about France's little unpopularity problem in Oz, due to the
+nuclear tests conducted in the South Pacific (in the so-called French
+Polynesia). Maybe this is partly why they could be sacrificed easier
+as a partner, the Oz general view would not care too much..
+
+---
+
+Yes shitlibs.. you let a Republican operative do that to you
+
+---
+
+The gun issue is so radicalized it became an unsolvable mess. Dick
+Morris is laughing his ass off right now..
+
+---
+
+Guilty or not guilty, self-defense or no.. Arguing tangential minutea
+of a [larger issue](https://www.theglobeandmail.com/opinion/editorials/article-a-trial-in-wisconsin-and-a-reminder-about-whats-right-with-canadian).
+
+---
+
+How did Powell score "one on the libs"? [Here](2021/10/all-too-human.md#gaysinmil).
 
 ---
 
