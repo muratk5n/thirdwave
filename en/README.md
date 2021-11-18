@@ -36,7 +36,8 @@ Redtenbacher's Funkestra - Go Mo \#music
 ---
 
 Expanding existing infra for the shiny product obviously makes the
-overall approach even stupider. Gov had to lead, not follow salesmen.
+overall approach even stupider. Gov had to lead, not follow bunch of
+salesmen.
 
 ---
 
