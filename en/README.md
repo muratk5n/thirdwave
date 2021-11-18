@@ -86,7 +86,7 @@ a 5, the worst level.. Not good.
 
 ---
 
-SJW is a problem, but Focker cannot be trusted. 
+SJW is a problem, but Focker is a shady fock. 
 
 ---
 
