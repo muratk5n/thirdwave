@@ -120,7 +120,7 @@ operative do that to you
 
 ---
 
-Guilty or not guilty, self-defense or no.. It is arguing tangential minutea
+Guilty or not guilty, self-defense or no.. This is arguing tangential minutea
 of a [larger issue](https://www.theglobeandmail.com/opinion/editorials/article-a-trial-in-wisconsin-and-a-reminder-about-whats-right-with-canadian).
 
 ---
