@@ -86,11 +86,10 @@ Doh!
 
 ---
 
-The FR testing area is relatively far to the AU/NZ landmass, 6K
+The testing area is relatively far to the AU/NZ landmass, 6K
 kilometers, but hey, it ain't on the other side of the world either,
-like the Mojave Desert. Could irk some people..
-
-They tested btw 60s-90s. Received protests from AU, NZ each time.
+like the Mojave Desert. Could irk some people.. They tested btw
+60s-90s. Received protests from AU, NZ each time.
 
 ---
 
