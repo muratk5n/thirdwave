@@ -69,5 +69,8 @@ interest — all live on CNN.
 
 Impassioned testimony from the highest-ranking black man in America
 denying the parallels between skin color and sexual orientation would
-trump our strongest civil rights argument for ending the ban.
+trump our strongest civil rights argument for ending the ban...
 
+Six months later, the president announced “Don't Ask, Don't Tell”— an
+outcome essentially identical to Powell's initial proposal and not far
+off from the earlier ban.
