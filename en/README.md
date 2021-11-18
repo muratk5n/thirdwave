@@ -2,10 +2,9 @@
 
 Using tech to merely extend an inefficient solution is
 suboptimal. Tech should allow new ways of working. Linux wasn't built
-bcz people could "chat" overseas or "Zoom" (that tech didn't even
-exist). The project, besides Linus Torvalds' leadership, was made
-possible through async concepts such as the email, and shared code
-repos, and the patch file.
+bcz people could "chat" overseas or "Zoom". The project, besides Linus
+Torvalds' leadership, was made possible through async concepts such as
+the email, and shared code repos, and the patch file.
 
 ---
 
