@@ -55,13 +55,14 @@ faulty. Shoulda asked for better infra
 
 ---
 
-Climate developments r too slow.. world became too used to solving
-problems throught those little, shiny products, coming from the
-private sector, having been brainwashed by neoliberalism.. Such
-products are stand-alone units of goods that can be sold, expected to
-work on their own, assuming certain infra backdrop.. nothing
-more. Climate could not be solved with such isolated trinkets. That is
-why an inferior tech, the battery electric car, became en vouge, that
+The world became too used to solving problems throught those little,
+shiny products, coming from the private sector, having been
+brainwashed by neoliberalism.. Such products are stand-alone units of
+goods that can be sold, expected to work on their own, assuming
+certain infra backdrop.. nothing more.
+
+Climate cannot be solved with such isolated trinkets. That is why an
+inferior tech, the battery electric car, became en vouge, that
 singular product trying to exist in a certain environment (the wall
 plug). New and different infrastructure could have changed the
 underlying Calculus completely, much earlier.
