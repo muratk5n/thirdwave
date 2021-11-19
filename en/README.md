@@ -1,121 +1,72 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-Tech should allow new ways of working, not merely extend the existing
-ways of working. Linux wasn't built bcz people could "chat" overseas
-or "Zoom". The project, besides Linus Torvalds' leadership, was made
-possible through async concepts such as the email, and shared code
-repos, and the patch file.
+
+"@AlecStapp
+
+Fix your labor shortage with this one [weird trick](https://pbs.twimg.com/media/FEIaeNNWUAI-dlM?format=jpg&name=small)"
 
 ---
 
-Even the dog looks kinda sad
-
-"@314159K
-
-Yes ! The Worst of Both Worlds: Zooming From the Office"
-
-[[-]](https://twitter.com/314159K/status/1460799696717467653)
+"Rep. Jared Golden (D-Maine), one of the most vulnerable House
+Democrats next year, blasted the SALT plan in a series of tweets
+Wednesday night, saying it seemed like 'Republicans were in charge.'"
 
 ---
 
-Hah. Just heard guy on RT say "Germany destroyed its nuclear sector,
-now have to rely on 90% natural gas for power generation". [Incorrect](https://pbs.twimg.com/media/FEYfMPoWYAEUpOs?format=jpg&name=small)
+"The United States has thrown its support behind negotiations on a
+treaty to curb plastic pollution, ending a key holdup in international
+efforts to clean up the planet's oceans and save marine life"
 
-The rabble-rouser, thorn-on-the-side shtick is fine, but plz don't
-pull bizarre non-truths out of your ass \#RT
-
----
-
-Redtenbacher's Funkestra - Go Mo \#music
-
-[[-]](https://youtu.be/OOIfTsrG0EU)
+[[-]](http://u.afp.com/wUNN)
 
 ---
 
-Expanding existing infra for the shiny product obviously makes the
-overall approach even stupider. Gov had to lead, not follow bunch of
-salesmen.
+Business Insider: "Some of them call it 'antiwork.' It's a trend
+bolstered by younger workers, as Gen Zers make their mark on the labor
+market. In America, it looks similar to similar youth-led movements
+against work in other countries, especially China, where young people
+are 'lying flat' by decentering a drive to constantly be more
+productive and competitive at work, and instead find happiness in
+their own lives and relaxation.
+
+A rising disillusion with the state of work has spawned millions of
+Larrys over the last year. People have been quitting their jobs at
+record rates for six months in a row now — and many aren't going
+back. That's because, for some, work doesn't seem to be worth it
+anymore. Wages have been on the decline for decades while student debt
+rises. The number of people with low-wage jobs has grown since the
+Great Recession , as salaries that support a middle-class life have
+cratered"
+
+[[-]](https://www.businessinsider.com/what-is-antiwork-workers-quit-dont-work-strike-better-conditions-2021-11)
 
 ---
 
-Even then, the BEV was considered as a ridiculous solution by many for
-a long time, but as the drums of climate apocalypse became louder,
-some started to think "maybe to avert that crazy end, I do need this
-dumb-ass shit". A strange way to land at a conclusion, and of course,
-faulty. Shoulda asked for better infra
+If supply probs persist, that could be a way to whip ppl to consume
+less. During the [70s](https://youtu.be/8rxrjhWTdv8?t=27) developed
+world panicked, "went to China", production skyrocketed through slave
+labor, at the same time, wages stagnated in the developed world and in
+US ppl started to die from opioids... Let's not repeat that mistake.
+If wages increase "more than necessary" that is an internal politics
+fight, and let's have it, with trade unions, politicians etc. In the
+meantime cannot find a Mr Potatohead toy?  Use a potato and make one
 
 ---
 
-The world became too used to solving problems throught those little,
-shiny products, coming from the private sector, having been
-brainwashed by neoliberalism.. Such products are stand-alone units of
-goods that can be sold, expected to work on their own, assuming
-certain infra backdrop.. nothing more.
+If Oz wanted to replace coal, the coal regions (in the East, and SW)
+also get good sunshine. People can easily transition to a job at a
+thermosolar plant.
 
-Climate cannot be solved with such isolated trinkets. This is how an
-inferior tech, the battery electric car, became en vogue, that
-singular product trying to exist in a certain environment (the wall
-plug). New and different infrastructure could have changed the
-underlying Calculus completely, much earlier.
+[[-]](https://pbs.twimg.com/media/FENtnFlWUAIDbMK?format=jpg&name=small)
 
 ---
 
-The word Istanbul comes from the Greek word Stanpoli, it means "in the
-city". So trying to avoid Constantinople bcz it sounds Greek lands you
-with Istanbul which also comes from Greek. Boom. This puts TR
-nationalists in a bind doesn't it? Much in TR nat narrative is a
-baseless, crooked fabrication.
+"The United Arab Emirates (#UAE) and #Russia will bolster industrial
+collaboration in the field of #hydrogen fuel technology to boost
+domestic decarbonisation with the signing of a memorandum of
+understanding (MoU)"
 
----
-
-Climate activists on air quality of Stanpoli, Asia Minor; they say the
-smog seen there recently was pollution, not harmless mist... I've been
-checking the pollution levels through OWM, half the time I see AQI at
-a 5, the worst level.. Not good.
-
-[[-]](https://mobile.twitter.com/euronews_tr/status/1458086790083096580)
-
----
-
-SJW is a problem, sure, but Focker himself is a [shady fock](https://www.bloomberg.com/news/features/2021-09-15/peter-thiel-gamed-silicon-valley-tech-trump-taxes-and-politics). 
-
----
-
-Doh! That's Focker's university isn't it?
-
-TDB: "Two Top Advisers Resign From Anti-Cancel Culture University of Austin"
-
-[[-]](https://www.thedailybeast.com/robert-zimmer-steven-pinker-resign-from-university-of-austins-advisory-board)
-
----
-
-The testing area is relatively far to AU/NZ landmass, 6K kilometers,
-but hey, it ain't on the other side of the world either, like the
-Mojave Desert. Could irk some people.. They tested btw
-60s-90s. Received protests from AU, NZ each time.
-
----
-
-Found out about France's little unpopularity problem in Oz, due to
-nuclear tests conducted in the South Pacific (in the so-called French
-Polynesia). Maybe this is partly why they could be sacrificed easily
-as a partner, the Oz general view would not care too much..
-
----
-
-The gun issue is so radicalized it became an unsolvable mess. Dick
-Morris is laughing his ass off right now \#triangulation. He had Dems
-get stuck in the mud. Pat yourselves on the back corporate Dems.. you
-let a Republican operative do that to you
-
----
-
-Guilty or not guilty, self-defense or no.. This is arguing tangential minutea
-of a [larger issue](https://www.theglobeandmail.com/opinion/editorials/article-a-trial-in-wisconsin-and-a-reminder-about-whats-right-with-canadian).
-
----
-
-How did Powell "score one on the libs"? [Here](2021/10/all-too-human.md#gaysinmil).
+[[-]](https://www.h2-view.com/story/uae-russia-to-bolster-hydrogen-prospects-with-new-agreement/)
 
 ---
 
