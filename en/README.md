@@ -43,14 +43,14 @@ cratered"
 ---
 
 If supply probs persist, that could be a way to encourage folks to
-consume less. During the [70s](https://youtu.be/8rxrjhWTdv8?t=27)
-developed world panicked, "went to China", production skyrocketed
-through slave labor, at the same time, wages stagnated in the
-developed world and in US ppl started to die from opioids... Let's not
-repeat that mistake.  If wages increase "more than necessary" that is
-an internal politics fight, and let's have it, with trade unions,
-politicians etc. In the meantime cannot find a Mr Potatohead toy?  Use
-a potato and make one
+consume less. When similar problems surfaced during the
+[70s](https://youtu.be/8rxrjhWTdv8?t=27) developed world panicked,
+"went to China", production skyrocketed through slave labor, at the
+same time, wages stagnated and in US ppl started dying from
+opioids... Let's not repeat that mistake.  If wages increase "more
+than necessary" that is an internal politics fight, and let's have it,
+with trade unions, politicians etc. In the meantime cannot find a Mr
+Potatohead toy?  Use a potato and make one
 
 ---
 
