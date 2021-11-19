@@ -39,7 +39,6 @@
   * 28/02: The Dolmabahce Consensus is declared by TR and Kurdish politicians as part of the Peace Process
   * 23/05: Istanbul airport with a mortar shell attack 1 person killed 
   * 07/06: TR ruling party loses majority as pro-Kurdish HDP gains seats
-  * 07/06: Gov ends its Peace Process with the Kurds
   * 18/06: Kurdish forces capture Tel Abyad enabling the geographical link between Kobane and Cizire
   * 30/06: Greece defaults on IMF debt spurring crisis, another bailout programme is signed, EU/Germany's image is a tough austerian
   * 20/07: ISIS does the 2015 Suruç bombing, killing 32 people, largely Kurdish
