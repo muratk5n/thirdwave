@@ -43,7 +43,7 @@ cratered"
 ---
 
 If supply probs persist, that could be a way to encourage folks to
-consume less. When similar problems surfaced during the
+consume less. On wages, when similar problems surfaced during the
 [70s](https://youtu.be/8rxrjhWTdv8?t=27) developed world panicked,
 "went to China", production skyrocketed through slave labor, at the
 same time, wages stagnated and in US ppl started dying from
