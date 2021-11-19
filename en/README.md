@@ -50,7 +50,7 @@ same time, wages stagnated and in US ppl started dying from
 opioids... Let's not repeat that mistake.  If wages increase "more
 than necessary" that is an internal politics fight, and let's have it,
 with trade unions, politicians etc. In the meantime cannot find a Mr
-Potatohead toy?  Use a potato and make one
+Potatohead toy? Use a potato and make one
 
 ---
 
