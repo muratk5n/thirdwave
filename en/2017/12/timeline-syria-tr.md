@@ -28,7 +28,7 @@
   * 29/06: ISIS leader Abu Bakr al-Baghdadi declared a caliphate with Raqqa as its capital
   * 10/08: TR PM becomes President (a figurehead position at this point)
   * 21/08: Former FM becomes PM
-  * 13/09: Islamic State begins its siege of Kobane
+  * 13/09: ISIS begins its siege of Kobane
   * 14/12: Gov backlash against the Brotherhood starts, their businesses fall under investigation
 * 2015
   * 07/01: Two French Muslim brothers forced their way into the offices of the French satirical weekly newspaper Charlie Hebdo in Paris. Armed with rifles and other weapons, they killed 12 people and injured 11 others
