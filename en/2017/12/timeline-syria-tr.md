@@ -8,6 +8,7 @@
   * 01/02: After secret negotiations between TR intel and the PKK in Oslo became public, prosecutors said to be close to the Gulen movement tried to subpoena the intel chief to respond to accusations of a “disclosure of information to the PKK”. Gulen Brotherhood was known with  hard-line nationalist approach to the Kurds
   * 19/07: Kurdish town of Kobanê in Rojova, Syria declared its autonomy. It was followed by Cizire and Afrin.
   * 20/08: Obama said use of chemical weapons in Syria would cross a "red line"
+  * 28/12: PM reveals intel chief has been visiting jailed Kurdish guerilla leader to find a solution to the conflict marking the beginning of the Peace Process
 * 2013
   * 11/05: Two car bombs exploded in Reyhanlı, a town 5 km from the Syrian border, 52 people were killed and 140 injured
   * 16/05: During TR visit Obama indirectly blames TR intel chief for working with extreme jihadists
@@ -35,10 +36,14 @@
   * 26/01: TR gov is not happy with Kurdish gains in North Syria, conveyed to journalists, in essence drawing a "red line"
   * 27/01: Kurdish forces and its allies, backed by the continued US-led airstrikes, retook Kobane
   * 30/01: King Abdullah of Jordan warns US Senate leaders of TR’s pervasive support for Islamic militants and Israel turning a blind eye
+  * 28/02: The Dolmabahce Consensus is declared by TR and Kurdish politicians as part of the Peace Process
   * 23/05: Istanbul airport with a mortar shell attack 1 person killed 
   * 07/06: TR ruling party loses majority as pro-Kurdish HDP gains seats
+  * 07/06: Gov ends its Peace Process with the Kurds
   * 18/06: Kurdish forces capture Tel Abyad enabling the geographical link between Kobane and Cizire
   * 30/06: Greece defaults on IMF debt spurring crisis, another bailout programme is signed, EU/Germany's image is a tough austerian
+  * 20/07: ISIS does the 2015 Suruç bombing, killing 32 people, largely Kurdish
+  * 24/07: Large scale TR police and mil operations start, Kurdish PKK announces end of cessation of hostilities, the Peace Process is effectively dead
   * 06/09: Mafia violence against newspaper Hurriyet allegedly with government support
   * 08/09: Germany adopts an open-door policy to Syrian refugees, around 800K will eventually arrive in the country
   * 30/09: Russian Federation formally entered the Syrian civil war 
@@ -70,8 +75,12 @@
   * 20/01: Trump becomes the new President
   * 16/03: Referendum grants new powers to TR President
   * 22/05: UK attacks: An Islamist extremist suicide bomber detonated a bomb as people were leaving the Manchester Arena following a concert. 23 people died, and 1,017 were injured
-  * 05/06: Saudi Arabia, the United Arab Emirates, Bahrain and Egypt severed diplomatic relations with Qatar and banned Qatar-registered planes and ships from utilising their airspace and sea routes, along with Saudi Arabia blocking Qatar's only land crossing. 
+  * 05/06: Saudi Arabia, the United Arab Emirates, Bahrain and Egypt severed diplomatic relations with Qatar and banned Qatar-registered planes and ships from utilising their airspace and sea routes, along with Saudi Arabia blocking Qatar's only land crossing.
+  * 09/07: Iraqi forces manage to take back Mosul from ISIS
   * 25/07: TR signs deal to buy Russian S-400 defense system
+  * 25/09: Kurdish region in Iraq holds a referandum where most voting for independence, Iraqi central government objects
+  * 16/10: Iraqi government takes back Kirkuk from Kurds, an area previously voted for independence, by force
+  * 17/10: Raqqa, the ISIS capital, is captured by Kurdish, Arab forces (SDF) with US air support 
   * 03/11: Lebanon's PM Hariri held hostage in Saudi Arabia, handed a prewritten resignation speech and forced to read it on Saudi television. PM returns home 3 weeks later in a trip brokered by France, and suspended his resignation.
 * 2018
   * 19/01: TR invades Afrin a Kurdish-controlled region, Russia does not block Syria’s airspace indicating tacit support
