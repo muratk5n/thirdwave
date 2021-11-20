@@ -4,6 +4,7 @@
 * 2011
   * 15/03: Syrian civil war started
   * 01/08: TR embraced an explicit policy of regime change in Syria and threw open its doors to thousands of Syrian refugees
+  * 13/09: Leak on a pro-Kurdish channel DIHA reveals the sides in TR's long-running conflict have been talking in Oslo in secret, with Norway acting as the host
 * 2012
   * 01/02: After secret negotiations between TR intel and the PKK in Oslo became public, prosecutors said to be close to the Gulen movement tried to subpoena the intel chief to respond to accusations of a “disclosure of information to the PKK”. Gulen Brotherhood was known with  hard-line nationalist approach to the Kurds
   * 19/07: Kurdish town of Kobanê in Rojova, Syria declared its autonomy. It was followed by Cizire and Afrin.
