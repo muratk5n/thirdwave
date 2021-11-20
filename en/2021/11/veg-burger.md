@@ -10,13 +10,14 @@ Ingredients (for three patties)
 * Spices: Garlic, Salt, Oregano, Mint (a pinch of each)
 * Nutritional Yeast (1 Teaspoon)
 * Bread crumbs
+* 1 Tblspoon Olive Oil
 * 3 Tblspoon Musrooms (diced)
 
 Soften onions and musrooms on a pan. Boil the rice, until its water
-evaporates. Add everything along with the beans in a bowl. Either run
-it through blender or mash, mix by hand. Should be a meat like
-substance by now, easy to shape. Make patties, fry in olive oil on a
-pan. Serve in a bun along with cucumber pickles and lettuce.
+evaporates. Add everything along with the beans, and olive oil in a
+bowl. Either run it through blender or mash, mix by hand. Should be a
+meat like substance by now, easy to shape. Make patties, fry in olive
+oil on a pan. Serve in a bun along with garnish (pickles, lettuce).
 
 [Ref 1](https://youtu.be/l75ixsh-wjI?t=78)
 
