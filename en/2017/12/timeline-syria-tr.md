@@ -66,7 +66,7 @@
   * 17/08: TR announces interest in buying Russian S-400 defense system
   * 20/08: A wedding is bombed killing 54 civilians and injured 94 in the southeastern TR city of Gaziantep many of whom are Kurdish, Syria connected jihadis were suspected
   * 24/08: TR military offensive into northern Syria starts with US support
-  * 04/11: Demirtas, a pro-Kurdish party leaders in TR arrested 
+  * 04/11: Demirtaş, a pro-Kurdish party leader arrested 
   * 19/12: Russian Ambassador to TR assasinated
   * 22/12: Syria's government recaptures all of Aleppo city
 * 2017
