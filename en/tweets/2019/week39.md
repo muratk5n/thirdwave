@@ -345,12 +345,11 @@ the government"
 
 Tired: single-focus explanations on mathematical concepts. They keep
 talking about the line integral as "work done"; LI (over scalar
-fields) can be shown as area over surface [under
-curve](https://math.libretexts.org/@api/deki/files/21/Line_integral_of_scalar_field.gif).
+fields) can be shown as area over surface [under curve](https://math.libretexts.org/@api/deki/files/21/Line_integral_of_scalar_field.gif).
 
 ---
 
-<img src="https://pbs.twimg.com/media/EFIULEvXkAAzjCJ?format=png&name=small" width="400"/>
+<img src="2legit2quit.png" width="400"/>
 
 ---
 
