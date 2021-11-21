@@ -824,7 +824,7 @@ Name: Adj Close, dtype: float64
 
 <a name="coal"></a>
 
-Coal
+Coal Price
 
 ```python
 import pandas as pd, datetime, time as timelib
