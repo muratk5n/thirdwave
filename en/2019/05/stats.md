@@ -127,6 +127,8 @@ date
 
 <a name="nfp"/>
 
+Non-Farm Payroll
+
 ```python
 import pandas as pd, datetime
 from pandas_datareader import data
@@ -161,6 +163,30 @@ DATE
 
 ![](nfp.png)
 
+<a name="quits"/>
+
+Job Quits, Resignations
+
+```python
+import pandas as pd, datetime
+from pandas_datareader import data
+
+today = datetime.datetime.now()
+start=datetime.datetime(1986, 1, 1)
+end=datetime.datetime(today.year, today.month, today.day)
+cols = ['JTSQUR']
+df = data.DataReader(cols, 'fred', start, end)
+df.JTSQUR.plot()
+plt.axvspan('01-09-1990', '01-07-1991', color='y', alpha=0.5, lw=0)
+plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
+plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
+plt.title('Resignations')
+plt.savefig('quits.png')
+```
+
+![](quits.png)
+
+Wages
 
 ```python
 import pandas as pd, datetime
@@ -220,6 +246,8 @@ DATE
 ![](icsa.png)
 
 <a name="unempl"></a>
+
+Unemployment
 
 Calculation is based on [2]
 
