@@ -38,7 +38,7 @@ securities but in cash, but it simultaneously issues securities and so
 drains the cash off; and this is equivalent to the imaginary process
 described above.
 
-What happens, however, .if the public is unwilling to absorb all the
+What happens, however, if the public is unwilling to absorb all the
 increase in Government securities ? It will offer them finally to
 banks to get cash (notes or deposits) in exchange. If the banks accept
 these offers, the rate of interest will be maintained. If not, the
@@ -80,7 +80,7 @@ that full employment may be achieved by Government spending, this was
 by no means the case even in the recent past.  Among the opposers of
 this doctrine there were (and still are) prominent so called "economic
 experts" closely connected with banking and industry. This suggests
-that there is a political packground in the opposition to the full
+that there is a political background in the opposition to the full
 employment doctrine even though the arguments advanced are
 economic. That is not to say that people who advance them do not
 believe in their economics, poor though these are. But obstinate
@@ -131,8 +131,8 @@ social function of the doctrine of "sound finance" is to make the
 level of employment dependent on the "state of confidence."
 
 3) The dislike of the business leaders , of a Government ' spending
-policy grows even more acute when. they come to consider . the objects
-on which the money would be spent : public investment and subsidising
+policy grows even more acute when. they come to consider the objects
+on which the money would be spent: public investment and subsidising
 mass consumption.
 
 The economic principles of Government intervention require that public
@@ -359,7 +359,7 @@ power of the working class. If capitalism can adjust itself to full
 employment a fundamental reform will have been incorporated in it. If
 not, it will show itself in outmoded system which must be scrapped.
 
-But perhaps the fight for full employment may lead to '-: fascism?
+But perhaps the fight for full employment may lead to fascism?
 Perhaps capitalism will adjust itself to full employment in this way?
 This seems extremely unlikely. Fascism sprang up in Germany against a
 background of tremendous unemployment and maintained itself in power
