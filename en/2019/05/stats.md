@@ -217,6 +217,8 @@ Name: wagegrowth, dtype: float64
 
 <a name="claims"></a>
 
+Claims
+
 ```python
 import pandas as pd, datetime
 from pandas_datareader import data
@@ -244,6 +246,49 @@ DATE
 ```
 
 ![](icsa.png)
+
+<a name="wagepayroll"></a>
+
+Difference Between Wage Growth YoY and Payrolls (Hiring)
+
+```python
+import pandas as pd, datetime
+from pandas_datareader import data
+
+today = datetime.datetime.now()
+start=datetime.datetime(1986, 1, 1)
+end=datetime.datetime(today.year, today.month, today.day)
+cols = ['PAYEMS','AHETPI']
+df = data.DataReader(cols, 'fred', start, end)
+df['nfpyoy'] = (df.PAYEMS - df.PAYEMS.shift(12)) / df.PAYEMS.shift(12) * 100.0
+df['wageyoy'] = (df.AHETPI - df.AHETPI.shift(12)) / df.AHETPI.shift(12) * 100.0
+df[['wageyoy','nfpyoy']].plot()
+plt.axvspan('01-09-1990', '01-07-1991', color='y', alpha=0.5, lw=0)
+plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
+plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
+print (df['wageyoy'].tail(5))
+print (df['nfpyoy'].tail(5))
+plt.savefig('pay-wage.png')
+```
+
+```text
+DATE
+2021-06-01    3.835285
+2021-07-01    4.823672
+2021-08-01    4.836759
+2021-09-01    5.526422
+2021-10-01    5.759162
+Name: wageyoy, dtype: float64
+DATE
+2021-06-01    5.848810
+2021-07-01    5.321497
+2021-08-01    4.482497
+2021-09-01    4.175096
+2021-10-01    4.050651
+Name: nfpyoy, dtype: float64
+```
+
+![](pay-wage.png)
 
 <a name="unempl"></a>
 
@@ -284,7 +329,9 @@ DATE
 
 <a name="pmi"></a>
 
-## PMI
+## Growth and Demand
+
+PMI
 
 ```python
 import quandl, os, datetime
@@ -321,7 +368,7 @@ Name: PMI, dtype: float64
 
 <a name="gdpism"></a>
 
-## GDP vs ISM
+GDP vs ISM
 
 ```python
 import pandas as pd, datetime
@@ -355,7 +402,7 @@ plt.savefig('gdp-ism.png')
 
 <a name="cpyoy"></a>
 
-## Profits YoY
+Profits YoY
 
 ```python
 import pandas as pd, datetime
@@ -422,49 +469,6 @@ Name: Adj Close, dtype: float64
 ```
 
 ![](dollar.png)
-
-<a name="wagepayroll"></a>
-
-## Difference Between Wage Growth YoY and Payrolls (Hiring)
-
-```python
-import pandas as pd, datetime
-from pandas_datareader import data
-
-today = datetime.datetime.now()
-start=datetime.datetime(1986, 1, 1)
-end=datetime.datetime(today.year, today.month, today.day)
-cols = ['PAYEMS','AHETPI']
-df = data.DataReader(cols, 'fred', start, end)
-df['nfpyoy'] = (df.PAYEMS - df.PAYEMS.shift(12)) / df.PAYEMS.shift(12) * 100.0
-df['wageyoy'] = (df.AHETPI - df.AHETPI.shift(12)) / df.AHETPI.shift(12) * 100.0
-df[['wageyoy','nfpyoy']].plot()
-plt.axvspan('01-09-1990', '01-07-1991', color='y', alpha=0.5, lw=0)
-plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
-plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
-print (df['wageyoy'].tail(5))
-print (df['nfpyoy'].tail(5))
-plt.savefig('pay-wage.png')
-```
-
-```text
-DATE
-2021-06-01    3.835285
-2021-07-01    4.823672
-2021-08-01    4.836759
-2021-09-01    5.526422
-2021-10-01    5.759162
-Name: wageyoy, dtype: float64
-DATE
-2021-06-01    5.848810
-2021-07-01    5.321497
-2021-08-01    4.482497
-2021-09-01    4.175096
-2021-10-01    4.050651
-Name: nfpyoy, dtype: float64
-```
-
-![](pay-wage.png)
 
 <a name="wilshire"></a>
 
