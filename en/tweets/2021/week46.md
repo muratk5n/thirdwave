@@ -186,7 +186,7 @@ of a [larger issue](https://www.theglobeandmail.com/opinion/editorials/article-a
 
 ---
 
-How did Powell "score one on the libs"? [Here](2021/10/all-too-human.md#gaysinmil).
+How did Powell "score one on the libs"? [Here](../../2021/10/all-too-human.md#gaysinmil).
 
 ---
 
