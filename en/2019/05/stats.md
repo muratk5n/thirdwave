@@ -686,9 +686,7 @@ Name: Adj Close, dtype: float64
 
 <a name="oil"></a>
 
-Oil
-
-Futures, Continuous Contract, Front Month
+Oil Price (Futures, Continuous Contract, Front Month)
 
 ```python
 import pandas as pd, datetime, time as timelib
