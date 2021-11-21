@@ -171,7 +171,7 @@ self assurance and class consciousness of the working class would
 grow. Strikes for wage increases and improvements in conditions of
 work would create political tension. It is true that profits would be
 higher under a regime of full employment than they are on the average
-.under laisser-faire; and even the rise in wage rates resulting from
+under laisser-faire; and even the rise in wage rates resulting from
 the stronger bargaining power of the workers is less likely to reduce
 profits than to increase prices, and thus affects adversely only the
 rentier interests. But "discipline in the factories" and "political
