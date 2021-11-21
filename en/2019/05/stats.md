@@ -763,7 +763,7 @@ Name: 1, dtype: float64
 
 <a name="worldoil"></a>
 
-World Production
+World Oil Production 
 
 ```python
 import pandas as pd, requests
@@ -788,7 +788,7 @@ plt.savefig('crude-production.png')
 
 <a name="natgas"></a>
 
-Natural Gas
+Natural Gas Price
 
 ```python
 import pandas as pd, datetime, time as timelib
