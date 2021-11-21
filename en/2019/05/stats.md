@@ -431,7 +431,9 @@ DATE
 
 ![](profit.png)
 
-## Dollar
+## Finance
+
+Dollar
 
 <a name="dollar"></a>
 
@@ -472,7 +474,7 @@ Name: Adj Close, dtype: float64
 
 <a name="wilshire"></a>
 
-## Total Market Cap / GDP
+Total Market Cap / GDP
 
 ```python
 import pandas as pd, datetime
@@ -501,10 +503,9 @@ DATE
 
 ![](wilshire.png)
 
-
 <a name="junkbond"></a>
 
-## Junk Bond Yields
+Junk Bond Yields
 
 ```python
 import pandas as pd, datetime
@@ -536,7 +537,7 @@ DATE
 
 ![](junkbond.png)
 
-## Yield Curve, Rates
+Yield Curve, Rates
 
 <a name="curve"></a>
 
@@ -612,7 +613,6 @@ DATE
 
 ![](t3mff.png)
 
-
 Gold and 10 Year Treasuries
 
 ```python
@@ -646,7 +646,7 @@ DATE
 
 <a name="vix"></a>
 
-## VIX
+VIX
 
 ```python
 import pandas as pd, datetime, time as timelib
@@ -682,9 +682,11 @@ Name: Adj Close, dtype: float64
 
 ![](vix.png)
 
+## Commodities
+
 <a name="oil"></a>
 
-## Oil
+Oil
 
 Futures, Continuous Contract, Front Month
 
@@ -786,7 +788,7 @@ plt.savefig('crude-production.png')
 
 <a name="natgas"></a>
 
-## Natural Gas
+Natural Gas
 
 ```python
 import pandas as pd, datetime, time as timelib
@@ -822,7 +824,7 @@ Name: Adj Close, dtype: float64
 
 <a name="coal"></a>
 
-## Coal
+Coal
 
 ```python
 import pandas as pd, datetime, time as timelib
@@ -856,9 +858,11 @@ Name: Adj Close, dtype: float64
 
 ![](coal.png)
 
+## Wealth, Debt
+
 <a name="credit"/>
 
-## Private Debt to GDP Ratio
+Private Debt to GDP Ratio
 
 ```python
 import pandas as pd, datetime
@@ -892,7 +896,7 @@ Freq: QS-OCT, Name: Credit to GDP, dtype: float64
 
 <a name="debt"/>
 
-# Total Consumer Credit Outstanding as % of GDP
+Total Consumer Credit Outstanding as % of GDP
 
 ```python
 import pandas as pd, datetime
@@ -927,7 +931,7 @@ Freq: MS, Name: debt, dtype: float64
 
 <a name="gini"/>
 
-# Wealth Inequality - GINI Index
+Wealth Inequality - GINI Index
 
 Code taken from [3]
 
