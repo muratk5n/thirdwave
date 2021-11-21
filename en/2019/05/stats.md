@@ -2,7 +2,7 @@
 
 ## GDP
 
-GDP calc seen below is taken as annualized quarterly growth rate,
+GDP calc seen below is computed as annualized quarterly growth rate,
 quarter growth compared to previous quarter,
 [annualized](https://www.fool.com/knowledge-center/how-to-calculate-the-annual-growth-rate-for-real-g.aspx).
 
