@@ -27,6 +27,7 @@ df1 = df1[df1.index > '1901-01-01']
 df1.temp.plot()
 df1['tempyoy'] = (df1.temp - df1.temp.shift(12)) / df1.temp.shift(12) * 100.0
 print (df1.tempyoy.tail(8))
+df1['temp'].to_csv('global_temperature.csv')
 plt.savefig('berkeley-temp.png')
 ```
 
