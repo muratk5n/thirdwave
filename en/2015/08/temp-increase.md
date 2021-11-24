@@ -6,13 +6,41 @@ Berkeley Data
 
 The most basic plot looks at Earth's average temparature. We use data
 from [Berkeley](http://berkeleyearth.org/data/), this data is as raw
-as its gets, looked at the "Monthly Land" under the Gridded section,
-and downloaded the "Equal Area" data file. An average temparature of
-all regions is calculated per time index,
+as its gets, looked at the "Land + Ocean (1850 – Recent)" section
+and used the "Monthly Global Average Temperature (annual summary)"
+data. 
 
 ```python
-import climate
-climate.average_regions()
+import pandas as pd
+
+anoms = [12.23, 12.45, 13.06, 13.98, 14.95, 15.67, 15.96, 15.79, 15.20, 14.26, 13.24, 12.50]
+anoms = np.array(anoms)
+df = pd.read_csv('http://berkeleyearth.lbl.gov/auto/Global/Land_and_Ocean_complete.txt',delim_whitespace=True,comment='%',header=None)
+df = df[[0,1,2]]
+df.columns = ['year','month','anom']
+df['temp'] = df.anom + anoms[df.month.astype(int) - 1]
+df['dt'] = df.apply(lambda x: pd.to_datetime("%d-%02d-01" %(x.year,x.month)), axis=1)
+df1 = df.set_index('dt')
+df1 = df1.rolling(70).mean()
+df1 = df1.dropna()
+df1 = df1[df1.index > '1901-01-01']  
+df1.temp.plot()
+df1['tempyoy'] = (df1.temp - df1.temp.shift(12)) / df1.temp.shift(12) * 100.0
+print (df1.tempyoy.tail(8))
+plt.savefig('berkeley-temp.png')
+```
+
+```text
+dt
+2021-02-01    0.126846
+2021-03-01    0.096448
+2021-04-01    0.057136
+2021-05-01    0.025762
+2021-06-01    0.018964
+2021-07-01    0.011197
+2021-08-01   -0.019109
+2021-09-01   -0.054821
+Name: tempyoy, dtype: float64
 ```
 
 ![](berkeley-temp.png)
