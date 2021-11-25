@@ -46,7 +46,7 @@ Name: tempyoy, dtype: float64
 
 ![](berkeley-temp.png)
 
-Increase is quite visible. The Berkeley dataset is updated monthly. [Code](climate.py).
+Increase is quite visible. The Berkeley dataset is updated monthly. 
 
 Let's continue with statistical tests. Is the temparature increase
 real? There are many methods we can use here; Within the context of
