@@ -18,6 +18,7 @@ anoms = np.array(anoms)
 df = pd.read_csv('http://berkeleyearth.lbl.gov/auto/Global/Land_and_Ocean_complete.txt',delim_whitespace=True,comment='%',header=None)
 df = df[[0,1,2]]
 df.columns = ['year','month','anom']
+# data reprsents temp as a combo of base val plus an 'anomaly'
 df['temp'] = df.anom + anoms[df.month.astype(int) - 1]
 df['dt'] = df.apply(lambda x: pd.to_datetime("%d-%02d-01" %(x.year,x.month)), axis=1)
 df1 = df.set_index('dt')
