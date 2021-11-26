@@ -1,6 +1,7 @@
 # Timeline of Syria, TR Events
 
-
+* 2008
+  * 14/03: A court case to close the governing party AK starts, the Constitutional Court is one vote short to ban the party. It is widey speculated that the army chief at the time, Basbug, convinced gov officials behind the scenes for CC to change its mind.
 * 2011
   * 15/03: Syrian civil war started
   * 01/08: TR embraced an explicit policy of regime change in Syria and threw open its doors to thousands of Syrian refugees
@@ -16,6 +17,7 @@
   * 19/03: Chemical weapons attacks were reported in Syria’s two main cities, the Khan al-Assel neighborhood of Aleppo and the Damascus suburb of al-Atebeh
   * 28/03: Gezi park protests initially started to stop an urban development plan at a park turned into protest on secularism
   * 03/07: A military coup in Egypt removes President Morsi from power, Morsi is of the Moslem Brotherhood movement, supported by Qatar.
+  * 05/08: Ex-Army Chief Basbug gets life sentence from alleged membership to a right-wing organization. It was assumed the Brotherhood was behind the court case.
   * 13/08: TR gov proposes a new law that would force several private cram schools, many of which are owned by the Gülen Movement, to close
   * 21/08: A rebel-held suburb of Damascus was attacked with sarin gas
   * 31/08: Obama says he would seek an authorization for the use of force from Congress against Syria
