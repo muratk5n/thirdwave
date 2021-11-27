@@ -102,9 +102,9 @@ Chocolate pizza by Dominos.. Now I've seen it all.
 
 ---
 
-"Worldwide hydrogen supply chains have been handed a huge boost today
-(Nov 23) with Australia and Germany committing to jointly strengthen
-bilateral cooperation on hydrogen technology"
+Nov 23: "Worldwide hydrogen supply chains have been handed a huge
+boost today with Australia and Germany committing to jointly
+strengthen bilateral cooperation on hydrogen technology"
 
 [[-]](https://www.h2-view.com/story/australian-germany-joint-collaboration-to-accelerate-hydrogen-supply-chains/)
 
