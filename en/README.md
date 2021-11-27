@@ -36,10 +36,10 @@ Submarine cables map, as in cables that are laid under the sea
 
 Your mother teaches you how to talk, to walk and how to take a shit.
 Then econ takes this person, utilizes them as a worker and makes money
-of off them. Noone pays money to the mother for her labor.
+of off them. Noone pays the mother for her labor.
 
-This is the hidden secret of the free market, it relies on a lot of
-free stuff.
+This is the dirty little secret of the free market; that it relies on
+a lot of free stuff.
 
 ---
 
