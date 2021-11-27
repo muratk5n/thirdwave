@@ -31,7 +31,7 @@ a lot of free stuff.
 ---
 
 The irony is tech relies on gov funded research from academia, and
-other "free stuff" all the time.
+other "freebies" all the time.
 
 ---
 
