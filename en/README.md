@@ -48,8 +48,8 @@ other "free stuff" all the time.
 
 ---
 
-Academia / tech.. some replies are informative. Unis make members pay
-for parking?
+Interesting on academia / tech relation.. some replies are
+informative. Unis make members pay for parking?
 
 [[-]](https://mobile.twitter.com/DrStephCraig/status/1463550686445064204)
 
