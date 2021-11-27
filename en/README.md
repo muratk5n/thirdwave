@@ -114,9 +114,9 @@ Chocolate pizza by Dominos.. Now I've seen it all.
 
 ---
 
-Worldwide hydrogen supply chains have been handed a huge boost today
+"Worldwide hydrogen supply chains have been handed a huge boost today
 (Nov 23) with Australia and Germany committing to jointly strengthen
-bilateral cooperation on hydrogen technology.
+bilateral cooperation on hydrogen technology"
 
 [[-]](https://www.h2-view.com/story/australian-germany-joint-collaboration-to-accelerate-hydrogen-supply-chains/)
 
