@@ -27,7 +27,7 @@ to take a shit. Then the economy takes this finished product, a
 worker, utilizes them, makes money of off them. Noone pays the mother
 for her labor.
 
-This is the dirty little secret of the free market; that it relies on
+This is the dirty little secret of the free market; it relies on
 a lot of free stuff.
 
 ---
