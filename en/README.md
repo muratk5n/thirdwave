@@ -127,8 +127,8 @@ to reprise the role in *Idiocracy*, Terry Crews.
 
 ---
 
-Movie idea: while trying to change the course of asteroid, they guide
-it towards Earth by mistake, end all life.
+Movie idea: while trying to change the course of asteroid, they make
+it hit Earth by mistake, end all life.
 
 "NASA has launched a space probe to change the course of an asteroid"
 
