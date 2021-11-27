@@ -230,8 +230,8 @@ Oct 19: "Scientists in South Africa are working to reverse engineer the Moderna 
 
 ---
 
-Black brother in US are very different from an "African-African" in
-culture. We know this. 
+Black brother in US is very different from an "African-African" in
+culture. We know this.
 
 ---
 
