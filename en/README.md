@@ -140,6 +140,8 @@ From The Strategic Petroleum Reserve"
 
 ---
 
+Relation between current account and currency (for Asia Minor).
+
 ```python
 from pandas_datareader import data
 import datetime
