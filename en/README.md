@@ -241,9 +241,9 @@ culture. We know this. Africans say it too.
 ---
 
 Just like there are no "Irish" or "Polish" in US beyond zeroth
-generation, or there are no Turks in Anatolia, there are no Africans
-in America -- unless brother jumped off the boat (plane) and came to
-US obviously.
+generation, there are no Turks in Anatolia, there are no Africans in
+America -- unless brother jumped off the boat (plane) and came to US
+obviously.
 
 ---
 
