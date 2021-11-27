@@ -9,8 +9,7 @@ the country looks to auction a minimum of 200 MW of capacity before
 2022.
 
 Sara Aagesen, Spain's Secretary of State for Energy, confirmed the
-auction would go ahead before the end of this December in an
-announcement on October 1"
+auction would go ahead before the end of this December"
 
 [[-]](https://www.pacificgreen-solar.com/articles/reflections-spains-upcoming-200-mw-csp-auction)
 
