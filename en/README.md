@@ -223,6 +223,11 @@ print (df[['country','mbindex']])
 
 ---
 
+"Biden calls for intellectual property protection waivers on COVID-19
+vaccines amid Omicron variant concerns"
+
+---
+
 Hmmmm
 
 Oct 26: "South Africa identifies new coronavirus variant"
