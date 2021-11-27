@@ -20,7 +20,7 @@ Oct 19: "Scientists in South Africa are working to reverse engineer the Moderna 
 the country looks to auction a minimum of 200 MW of capacity before
 2022.
 
-Sara Aagesen, Spain?s Secretary of State for Energy, confirmed the
+Sara Aagesen, Spain's Secretary of State for Energy, confirmed the
 auction would go ahead before the end of this December in an
 announcement on October 1"
 
@@ -35,7 +35,7 @@ Submarine cables map, as in cables that are laid under the sea
 ---
 
 Examples abound: your mother teaches you how to talk, to walk and how
-to take a shit.  Then the economy takes this finished product, a
+to take a shit. Then the economy takes this finished product, a
 worker, utilizes them, makes money of off them. Noone pays the mother
 for her labor.
 
