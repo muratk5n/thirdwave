@@ -179,7 +179,8 @@ shows account effecting currency. So in a way it's a chicked-and-egg
 problem, but from Nikolas Müller-Plantenberg
 [research](https://www.researchgate.net/publication/46490787_Balance_of_payments_accounting_and_exchange_rate_dynamics),
 we know the primary direction is CA->FX. You need to have products to
-sell so people demand your currency.
+sell so people demand your currency. If you are buying more than you are
+selling, save other balancing factors, currency will adjust to that.
 
 ---
 
