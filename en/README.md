@@ -45,8 +45,8 @@ informative. Unis make members pay for parking?
 ----
 
 High NG prices create an oppo for an H2 based solution
-here. Steelmaking already uses H2; in fact there are no green
-alternatives other than H2 for their furnaces. 
+here. Steelmaking already uses it; in fact there are no green
+alternatives other than H2 for their furnaces.
 
 ---
 
