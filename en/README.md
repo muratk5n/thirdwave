@@ -55,10 +55,9 @@ for parking?
 
 ----
 
-Actually high NG prices create the perfect opportunity for an H2 based
-product to provide a furnace for such high-end users. Steelmaking
-already uses H2; in fact there are no green alternatives other than H2
-for their furnaces.
+High NG prices create an oppo for an H2 based solution
+here. Steelmaking already uses H2; in fact there are no green
+alternatives other than H2 for their furnaces. 
 
 ---
 
