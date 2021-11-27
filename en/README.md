@@ -93,8 +93,8 @@ print ("%0.2f" % (kwh_year / (365*24*1000)), 'GW')
 
 The mega CSP plant in Chile has 110 MW capacity. That means roughly 10
 of those plants will equal the Nordstream 2 pipeline. This is not bad
-at all. Fantastic actually. F-ing fossil has been sitting there,
-basting, for millions of years. But we can equal it with our tech.
+at all. Fantastic actually. Fossil f has been sitting there, basting,
+for millions of years. But we can equal it with tech.
 
 ---
 
