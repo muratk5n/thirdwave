@@ -76,33 +76,6 @@ Of course it is
 
 ---
 
-Base info: Nordstream 2 can deliver 55 billion cubic meters of gas per
-year. Natural gas contains 5367.27 kWh of energy per cubic meter of
-gas.
-
-Convert that to Gigawatts,
-
-```python
-kwh_year = 55*1e9 / 5367.27
-print ("%0.2f" % (kwh_year / (365*24*1000)), 'GW')
-```
-
-```text
-1.17 GW
-```
-
-The mega CSP plant in Chile has 110 MW capacity. That means roughly 10
-of those plants will equal the Nordstream 2 pipeline. This is not bad
-at all. Fantastic actually. F-ing fossil has been sitting there,
-basting, for millions of years. But we can equal it with our tech.
-
----
-
-Nordstream 2 is still a major issue.. it's a huge amount of gas supply
-into Europe. I wonder what the green equivalent to it would be
-
----
-
 "@GregDaco
 
 Inflation isn’t just a US thing ... 'Underneath it all, the key theme
