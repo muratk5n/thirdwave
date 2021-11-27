@@ -27,13 +27,3 @@ furniture items shipped, the accumulated phony profit in Panama can
 reach into the hundreds of millions of dollars. This is money that
 would have ended up in China but for the invoicing scheme.
 
-
-
-
-
-
-
-
-
-
-

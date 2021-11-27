@@ -509,3 +509,15 @@ shiny brother with a big smile, promising change.. Change yourself.
 ![](h.jpg)
 
 ---
+
+Drug Drones Defeat Trump's Wall
+
+[[-]](https://youtu.be/dJYLx9cRfCI)
+
+---
+
+\#BothSides
+
+[[-]](https://youtu.be/LEeCMclnasU)
+
+---

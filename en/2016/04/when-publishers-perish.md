@@ -1,3 +1,0 @@
-# #whenpublishers #perish
-
-![](Capture.PNG)

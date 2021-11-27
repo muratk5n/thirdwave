@@ -303,7 +303,6 @@ type does, get feedback from others on that stuff immediately.
 
 ---
 
+![](CSD8YcdUsAAbzGB.jpg)
 
-
-
-
+---

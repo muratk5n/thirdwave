@@ -241,3 +241,38 @@ Morgan. Still unsurpassed.
 
 ---
 
+Strong evidence for the existence of a ninth planet (9th because the
+previous 9th, Pluto, was demoted). Fascinating stuff.. It takes P9
+almost 20,000 years to go around the sun. Some also claim (backed up
+by reputable research) that this planet passes through a region of
+space full of icy objects every 27 million years, knocking them
+towards the Earth, creating mass extinction events. It seems space
+travel is not a luxury, it's a necessity.
+
+---
+
+\#colbert \#conan
+
+https://youtu.be/rfxCy0wj4uw
+
+https://youtu.be/TaxAsHhex10
+
+---
+
+Buffett: Single-Payer. Go Buffy
+
+[[-]](https://youtu.be/r75Mi2B0YXE)
+
+---
+
+The History of Medical Billing
+
+[[-]](https://youtu.be/CeDOQpfaUc8)
+
+---
+
+Bernie Sanders: "The model of the Democratic Party is failing"
+
+https://youtu.be/LZv-0f46Abw
+
+---
