@@ -122,8 +122,8 @@ bilateral cooperation on hydrogen technology.
 
 ---
 
-Who should play the President? Jack Black, or Jim Carrey. If he wants
-to reprise the role in *Idiocracy*, Terry Crews. 
+Who should play the President in that movie? Jack Black, or Jim
+Carrey. If he wants to reprise the role in *Idiocracy*, Terry Crews.
 
 ---
 
