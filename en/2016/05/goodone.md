@@ -1,3 +1,0 @@
-# #goodone
-
-![](hills.png)

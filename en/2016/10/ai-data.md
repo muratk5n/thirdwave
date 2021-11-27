@@ -1,3 +1,0 @@
-# #ai #data
-
-![](ai.png)

@@ -328,3 +328,23 @@ instead of worrying about bunch of emails?
 
 ---
 
+#wellsaid
+
+![](mus.jpg)
+
+---
+
+Rest In Piece
+
+Alvin Toffler - 1928-2016
+
+![](31iRNSADgYL._UX250_.jpg)
+
+---
+
+\#23Ways
+
+[[-]](https://youtu.be/U_VaNhI4CLoa)
+
+---
+

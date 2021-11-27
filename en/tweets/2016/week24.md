@@ -316,3 +316,48 @@ be salvageable perhaps.., I don't know, maybe you constrain it here
 and there, and it can still function. 
 
 ---
+
+When In Rome %$@W What the Old Romans Do
+
+A city ruled for 2,500 years by Etruscan kings, Roman emperors,
+powerful popes and the Fascist dictator Benito Mussolini now has a
+woman mayor for the first time in its history.
+
+---
+
+#vp
+
+https://youtu.be/QP0i4YAs9vA
+
+---
+
+The reference that got me was "amoebae anticipating periodic events".
+
+\#ThinkingWithoutNeurons
+
+"While less recognized than their animal counterparts, many
+non-neuronal organisms, such as plants, bacteria, fungi and protists,
+also have the ability to make complex decisions in difficult
+environments (for a full review, see [1]). The most incredible feats
+of problem-solving among non-neuronal organisms, many previously
+reported only in the so-called cognitive organisms, have been
+demonstrated by the unicellular slime mould Physarum
+polycephalum. This unicellular protist lacks a central nervous system
+and possesses no neurons, yet it has been demonstrated to solve
+convoluted labyrinth mazes [2], find shortest length networks and
+solve challenging optimization problems [3], anticipate periodic
+events [4], use its slime trail as an externalized spatial memory
+system to avoid revisiting areas it has already explored [5] and even
+construct transport networks that have similar efficiency to those
+designed by human engineers [6]"
+
+---
+
+That is funny
+
+"@mulegirl
+
+So, we're rapidly approaching a future where humans text other humans
+and only speak aloud to computers"
+
+---

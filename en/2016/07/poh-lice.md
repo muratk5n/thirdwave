@@ -1,3 +1,0 @@
-# #poh-lice
-
-![](rodney.jpg)

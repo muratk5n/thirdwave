@@ -1,3 +1,0 @@
-# #wellsaid
-
-![](mus.jpg)

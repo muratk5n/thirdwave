@@ -1,3 +1,0 @@
-# #quesedilla #chicana
-
-![](Captureq.JPG)

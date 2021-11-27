@@ -89,3 +89,13 @@ the oldest player in cloud services still makes its mint through the
 programmers, IT professionals like.
 
 ---
+
+![](54-55.png)
+
+---
+
+Very cool.. Totally psyched for France. 
+
+![](Macron-thumbs-up-800x450.jpg)
+
+---

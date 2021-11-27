@@ -1,3 +1,0 @@
-# #borowitz
-
-![](Capture.PNG)

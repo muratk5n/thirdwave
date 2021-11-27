@@ -1,3 +1,0 @@
-# #whazup
-
-![](hills.png)

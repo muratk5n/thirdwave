@@ -1,4 +1,0 @@
-# #theorangerevolution
-
-
-![](trump.png)

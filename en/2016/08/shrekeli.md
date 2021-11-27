@@ -1,3 +1,0 @@
-# #shkreli
-
-![](out.jpg)

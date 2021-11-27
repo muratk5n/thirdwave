@@ -1,4 +1,0 @@
-# #ruleOfLaw #tellThatToYouKnowWho
-
-
-![](outr.jpg)

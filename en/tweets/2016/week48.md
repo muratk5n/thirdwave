@@ -470,3 +470,52 @@ I. D. D. Q. D. mothaf--ka. Better believe it.
 (Juz kidding...)
 
 ---
+
+\#santa
+
+[[-]](http://www.sunnyskyz.com/happy-videos/5369/This-Hilarious-Job-Interview-With-Jesus-Explains-How-Santa-Claus-Got-His-Job#WGYxW8Xk1SgESeEh.15)
+
+---
+
+This could be a good reading for lefties - there is some nice gems in there. 
+
+\#srnicek \#book
+
+![](18-31.png)
+
+---
+
+\#engage
+
+![](50-51.png)
+
+---
+
+Hilarious
+
+\#bee
+
+https://youtu.be/wuSDfVRGI54
+
+---
+
+Geoengineering
+
+[[-]](https://vimeo.com/194855994)
+
+---
+
+And another; some bashing is overboard but it's funny..
+
+\#conan
+
+https://youtu.be/rh_4U65hp88
+
+---
+
+\#norepresentation \#withinterruption \#brexit
+
+![](12-21.png)
+
+---
+

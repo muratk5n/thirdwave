@@ -453,3 +453,40 @@ Computers changed everything. The curriculum needs to be updated to
 reflect that. Also see this. Deep Learning makes heavy use of AD.
 
 ---
+
+Gallup defines a good job as 30+ hours per week for an employer who
+provides a regular paycheck. [.. and] is calculated as a percentage of
+the total population.
+
+![](47-55.png)
+
+---
+
+![](triple_facepalm.jpg)
+
+---
+
+I don't know enough millenials to judge if this is true but it is interesting.
+
+[[-]](https://youtu.be/5MC2X-LRbkE)
+
+---
+
+Ha ha.. The federal thing is all nice and good, but now Buttfuckee,
+South Carolina is deciding immigration policy for Orange County,
+California. That cannot stand. Elected reps are there to balance out
+the local with federal, the long with the short term. If they cannot
+do their job, either they go or their electors do.
+
+"Acknowledging that the legal and political obstacles are formidable,
+the proponent of a state ballot measure to sever California’s ties
+with the United States and form its own nation has been cleared to
+start collecting signatures.
+
+If passed by voters, the measure, “California Nationhood. Initiative
+Constitutional Amendment and Statue,” would remove language from the
+state constitution describing California as “an inseparable part of
+the United States of America” and require the governor to request
+admission for California to the United Nations"
+
+---

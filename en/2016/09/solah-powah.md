@@ -1,3 +1,0 @@
-# #solah #powah
-
-![](solar.png)

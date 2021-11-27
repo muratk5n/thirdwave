@@ -349,3 +349,57 @@ But this is still not as important as curing cancer.
 YES IT IS
 
 ---
+
+Straddle Bus
+
+[[-]](https://youtu.be/eLfWqiIYgtA)
+
+---
+
+\#quesedilla \#chicana
+
+![](Captureq.JPG)
+
+---
+
+That's awesome news right there. Go EU!
+
+Open Access Rules!
+
+"In what European science chief Carlos Moedas calls a "life-changing"
+move, European Union member states today agreed on an ambitious new
+open access (OA) target. All scientific papers should be freely
+available by 2020, the Competitiveness Council—a gathering of
+ministers of science, innovation, trade, and industry—concluded after
+a 2-day meeting in Brussels[..]
+
+The OA goal is part of a broader set of recommendations in support of
+Open Science, a concept which also includes improved storage of and
+access to research data. The Dutch government, which currently holds
+the rotating E.U. presidency, had lobbied hard for Europe-wide support
+for Open Science, as had Carlos Moedas, the European Commissioner for
+Research and Innovation"
+
+---
+
+![](Capturem.JPG)
+
+The resemblance is uncanny. That orange orangutan looks just like
+him. The New Rule [segment](https://youtu.be/WB4sGX0R5ak?t=78).
+
+\#maher
+
+---
+
+A little geek for Friday.  (For non-techies, in the last box he just
+made a reference to a ready-made package). 
+
+![](CYiILC5WQAIMFS1.jpg)
+
+---
+
+#coke
+
+![](out2.jpg)
+
+---

@@ -1,4 +1,6 @@
-# Deep Learning, General AI
+# Is Deep Learning, AI Overhyped?
+
+François Chollet
 
 [Answering the question "is deep learning overhyped?"] In many
 respects, it is. For sure, the recent successes of deep learning have
@@ -47,8 +49,5 @@ understand still massively outnumber the things that we do understand,
 and while we are standing one step closer to general AI than we did
 ten years ago, it's only by a small increment.
 
-
-
-
-
+https://qr.ae/pGlN39
 

@@ -1,4 +1,0 @@
-# #schwartz
-
-
-![](artt.png)
