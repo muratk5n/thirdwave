@@ -4,18 +4,6 @@ Still in vacation mode; this is left-over stuff
 
 ---
 
-Hmmmm
-
-Oct 26: "South Africa identifies new coronavirus variant"
-
----
-
-With WHO blessing apparently
-
-Oct 19: "Scientists in South Africa are working to reverse engineer the Moderna COVID vaccine"
-
----
-
 "Concentrated solar power (CSP) watchers are keeping an eye on Spain as
 the country looks to auction a minimum of 200 MW of capacity before
 2022.
@@ -232,6 +220,18 @@ print (df[['country','mbindex']])
 32         France   1117.358002
 85          China   1363.010190
 ```
+
+---
+
+Hmmmm
+
+Oct 26: "South Africa identifies new coronavirus variant"
+
+---
+
+With WHO blessing apparently
+
+Oct 19: "Scientists in South Africa are working to reverse engineer the Moderna COVID vaccine"
 
 ---
 
