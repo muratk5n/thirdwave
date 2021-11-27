@@ -236,7 +236,7 @@ print (df[['country','mbindex']])
 ---
 
 Black brother in US are very different from an "African-African" in
-culture. We know this. Africans say it too.
+culture. We know this. 
 
 ---
 
