@@ -133,8 +133,7 @@ culture"
 
 ---
 
-That's abt 3 days worth of consumption. But the psychological effect
-can matter.
+That's abt 3 days worth of consumption. 
 
 "DOE To Make Available A Release Of 50 Million Barrels Of Crude Oil
 From The Strategic Petroleum Reserve"
