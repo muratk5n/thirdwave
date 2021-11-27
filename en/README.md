@@ -150,27 +150,16 @@ end=datetime.datetime(today.year, today.month, today.day)
 cols = ['TURB6BLTT02STSAQ','RBTRBIS']
 df = data.DataReader(cols, 'fred', start, end)
 df = df.dropna()
-print (df.tail(5))
 plt.figure(figsize=(10,6))
-ax1 = df.TURB6BLTT02STSAQ.plot(color='blue', grid=True, label='Current Account as % GDP')
-ax2 = df.RBTRBIS.plot(color='red', grid=True, secondary_y=True, label='XCHG')
+ax1 = df.TURB6BLTT02STSAQ.plot(color='blue', grid=True, label='TR Current Account as % GDP')
+ax2 = df.RBTRBIS.plot(color='red', grid=True, secondary_y=True, label='TR FX')
 h1, l1 = ax1.get_legend_handles_labels()
 h2, l2 = ax2.get_legend_handles_labels()
 plt.legend(h1+h2, l1+l2, loc=2)
 plt.savefig('currxch.png')
 ```
 
-```text
-            TURB6BLTT02STSAQ  RBTRBIS
-DATE                                 
-2020-04-01         -5.612587    57.08
-2020-07-01         -5.655827    56.34
-2020-10-01         -5.281476    49.55
-2021-01-01         -3.276163    54.04
-2021-04-01          0.242710    50.84
-```
-
-<img width="300" src="https://pbs.twimg.com/media/FFDh9jkXMAAAHXd?format=jpg&name=small"/>
+<img width="300" src="https://pbs.twimg.com/media/FFMEzLxWUAAHwZv?format=jpg&name=small"/>
 
 ```python
 df.corr()
