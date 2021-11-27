@@ -36,11 +36,27 @@ consequences that usually pervades in the actions of political
 protagonists. But that "NO" helped write the end of an era of
 illusion.
 
-The illusion that Grexit was a bluff, a terrifying device of memorandum propaganda. Until the prime minister found it on his desk, printed on an official Eurogroup document.
+The illusion that Grexit was a bluff, a terrifying device of
+memorandum propaganda. Until the prime minister found it on his desk,
+printed on an official Eurogroup document.
 
- The illusion that we have alternative solutions. Until the prime minister discovered that in action the only alternatives were disorderly, catastrophic bankruptcy or 'the Schäuble alternative': Orderly bankruptcy and an assisted exit from the euro, which would make Greece a nation doubly subordinate to the lenders of the country, since their loans (and hence their even tougher memorandums) would be needed to survive and, moreover, would have it be expelled from all their clubs. It would be a country with heavier obligations, but without any rights.
+ The illusion that we have alternative solutions. Until the prime
+minister discovered that in action the only alternatives were
+disorderly, catastrophic bankruptcy or 'the Schäuble alternative':
+Orderly bankruptcy and an assisted exit from the euro, which would
+make Greece a nation doubly subordinate to the lenders of the country,
+since their loans (and hence their even tougher memorandums) would be
+needed to survive and, moreover, would have it be expelled from all
+their clubs. It would be a country with heavier obligations, but
+without any rights.
 
-The illusion that the country's bankruptcy had not taken place, that there are hidden funds somewhere, riches, treasures, hydrocarbons, which the "traitors" hide from the people to facilitate allegiance to foreigners. The latest version of this beautiful myth: The idea of "drachma supporters" having invaded the reserves of the Bank of Greece is so self-evidently ludicrous that it finally ridiculed the whole mythological structure [..].
+The illusion that the country's bankruptcy had not taken place, that
+there are hidden funds somewhere, riches, treasures, hydrocarbons,
+which the "traitors" hide from the people to facilitate allegiance to
+foreigners. The latest version of this beautiful myth: The idea of
+"drachma supporters" having invaded the reserves of the Bank of Greece
+is so self-evidently ludicrous that it finally ridiculed the whole
+mythological structure [..].
 
 The economic price was heavy, the political price deeply traumatic,
 but the result can be liberating. A late onset adulthood. Into which,

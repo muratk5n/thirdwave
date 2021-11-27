@@ -170,7 +170,7 @@ is it perhaps partly the legitimate property of one and partly of the
 other? What about property in other forms inherited through a chain
 that leads back to a slave holding or slave trading ancestor who owed,
 but never paid, compensation to his victims?  Oh BTW who is this
-coming from? David F**king Friedman. Who is the son of Milton F**king
+coming from? David F\*\*king Friedman. Who is the son of Milton F\*\*king
 Friedman. Can anyone be more free-market oriented than these two guys?
 
 ---
@@ -298,5 +298,66 @@ government cannot even cut unnecessary defense spending.
 
 ---
 
+\#thegipper
 
+Saw this at a bookstore in Berlin today. 
 
+![](20150716_112800.jpg)
+
+---
+
+\#switzerland
+
+![](A45.png)
+
+---
+
+Saw this at a cafe today, photo shows a Tsipras pouting.
+
+![](20150713_092926.jpg)
+
+---
+
+Bernie Sanders on Obamacare.. what he says amounts to an attack on
+Hillary from the left. He calls Obamacare "a Romney style plan"
+labeling it un-Democrat in the process -- he is good, Bamacare was in
+fact based on Mitt's model, but Mitt said repeatedly the same ideas
+are not suitable at national level. Anyway - but he is correct in
+stating Obamacare is overengineered pile of crap [paraphrasing] and
+the public would be better served with a single-payer system, like the
+one Canada.
+
+---
+
+#nonetflix #nearpluto
+
+![](A33.png)
+
+---
+
+Congrats to all involved. A great milestone.
+
+![](iran.jpg)
+
+---
+
+Food Waste: Last Week Tonight with John Oliver
+
+[[-]](https://youtu.be/i8xwLWb0lLY)
+
+---
+
+#beijing #smog
+
+![](A212.png)
+
+---
+
+#newhorizons
+
+On the left: our best image of Pluto in May. On the right: our current
+best picture of Pluto.
+
+![](CJzRcXFW8AAo7SY.jpg)
+
+---

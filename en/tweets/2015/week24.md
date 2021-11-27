@@ -935,8 +935,13 @@ change camp but at the same time he turns to the fossil fuel lobby and
 says "I will let you do whatever you want, because, hell, we are not
 the cause of global warming, are we?".
 
-F**in Jeb!
+F\*\*in Jeb!
 
 ---
 
+#yep
+
+![](3A06.png)
+
+---
 
