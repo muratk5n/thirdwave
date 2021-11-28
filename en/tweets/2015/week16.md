@@ -484,3 +484,15 @@ pay more for things middle-class America takes for granted."
 Damn
 
 ---
+
+#ML
+
+![](3A56.png)
+
+---
+
+#heirloom
+
+![](3A52.png)
+
+---

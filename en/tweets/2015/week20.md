@@ -789,3 +789,33 @@ gas-to-liquid process that uses seawater as carbon feedstock.
 
 ---
 
+#musicMfkaCanYouSingIT
+
+![](3A55.png)
+
+---
+
+Hintjens on Open Source
+
+https://vimeo.com/68236487
+
+---
+
+Blow Sh*t Up with Arnold
+
+It is for a benefit apparently; but hilarious all the same. 
+
+[![](http://img.youtube.com/vi/jaGk2_frk_s/0.jpg)](http://www.youtube.com/watch?v=jaGk2_frk_s)
+
+---
+
+![](53A55.png)
+
+---
+
+So Disco \#gameOfThrones
+
+[![](http://img.youtube.com/vi/8oVfIFrpslI/0.jpg)](http://www.youtube.com/watch?v=8oVfIFrpslI)
+
+---
+

@@ -726,3 +726,127 @@ he said "maybe now they'll call me Dr. Boom". This guy... )
 
 ---
 
+![](3A00.png)
+
+---
+
+♫ ♬Wake up in the morning ♫
+♬ take a money shower ♫
+♬Ba-Bad Boy money (Uh-huh)
+Martin and Will (That's right)♫
+♬ My face good money, they should put me on the bill (C'mon)
+Gettin with model chicks ♫
+♬ throwin' minks on the toddlers (You know it)♫
+♬ NASDAQ money ♫
+♬ Dow Jones Combs (C'mon man)
+
+---
+
+Money and Honeys
+
+“By partnering with Ingenico Group, worldwide leader in seamless
+payment, Paymium reaches a new milestone in the development of
+Bitcoin. We now allow any European merchant to simply accept payments
+using the Bitcoin network without risk, since transactions collected
+in bitcoins are immediately converted to Euros.”-Gonzague Grandval,
+Paymium co-founder.
+
+The partnership will now open up the ability to accept bitcoins for
+Ingenico’s large merchant base. Europe has been one of the hottest
+bitcoin markets but wide bitcoin adoption has been missing. This new
+partnership will allow merchants all over Europe to accept bitcoin
+without having to worry about the volatility or integrating new POS
+system.
+
+Merchants will now be able to enjoy the usual marketing bonus from
+accepting bitcoin and the loyal customer base that follows. Other
+benefits of accepting include lower transaction fees and no
+chargebacks (and thus a huge reduction of fraud).
+
+“We are very pleased to partner with Paymium to enrich our dedicated
+Business Applications Marketplace”-Michel Léger, EVP Global Sales and
+Marketing at Ingenico Group.“This allows us to bring more value to
+merchants through our terminals, enabling them to offer their
+customers a new consumer experience.”
+
+Ingenico is one of the largest payment processors in Europe. The
+company has installed over 2.2 million POS terminals and has processed
+over 3.5 billion euros worth of merchant transactions. The company
+also operates outside Europe, providing its services to over 120
+countries.
+
+---
+
+Strogatz is one of the best teachers in the world on nonlinear
+dynamics & chaos theory and he decided to "flip" his class. What is
+flipping? Another class has the description,
+
+Math 1241 will use an “inverted” (or flipped) format for class
+instruction. The lecture material will be posted online in the form of
+videos and text that will be watched and read at home. Given that you
+will be expected to spend significant time outside of class with the
+lecture material, there will be less homework assigned than in a
+typical math course. Instead, much of the “homework” will be done in
+class, where you will work on problems and projects in groups.  This
+approach can scale too; Theoretically Strogatz isnt needed to flip his
+lecture, others can flip his courses for him (his video lectures have
+been on Youtube for some time). In beneficial to have Strogatz around
+to answer questions obviously, but if enough knowledge-base builds
+around a course, there'll be enough people / material to answer
+questions. Certification: star teacher approves other teachers, who
+can approve more, on it goes, and anyone in this chain can assign
+fail/pass grades to anyone. Your pass grade can always carry your
+distance to "the grandmaster"; "I have Strogatz-3 for nonlinear
+dynamics, and Strang-2 for linear algebra" meaning the chain for this
+class certification is 3 levels removed from the big honcho. With 6
+hops you can reach a lot of people on the planet (which is very funny
+because this happens to be the subject of another famous Strogatz
+paper).
+
+
+![](3A50.png)
+
+---
+
+haha. I dont think Google is the new Microsoft, but the rest is
+A+. And.. Microsoft itself does so many other things nowadays.. like
+gaming. So maybe Microsoft is the new ... Atari? Hey, why stop at 90s,
+we could go back to 80s!.
+
+"The 90s are back. They’re back in fashion, they’re back in music, and
+they are most certainly back in technology. In a way this makes sense;
+the top end of the Millennial generation was just entering high school
+in the 90s, and now they’re into the workplace and armed with spending
+power, so it’s easy to appeal directly to their nostalgia. Look,
+here’s Salt-n-Pepa shilling for Geico!
+
+But um, hey everybody: the 90s were a decade of excess and mistakes
+and excessive mistakes. The rollicking good times of the 90s ended
+with the dot-com collapse of the early 2000s, the memories of which
+continue to shape the industry today [..]
+
+Just think about it for a minute. Of course Facebook is the new
+AOL. Facebook is the beginning and the end of the internet for a huge
+number of normal people, a combination of primary service provider
+(user profiles, messaging, photo sharing) and 90s-style portal to the
+wider web. Facebook has its own IM platform, Messenger, just like AOL
+had AOL Instant Messenger. Then it went and bought WhatsApp, the
+messaging platform more popular internationally, just like AOL bought
+ICQ [..]
+
+And Facebook's core business of selling ads into the News Feed is the
+same combination of incredibly vulnerable and apocalypse-proof as
+AOL's dial-up business: it will continue minting money for as long as
+the parents and grandparents of the world start their day with
+Facebook, and it will stop growing the second all of their kids move
+on to something better [..]
+
+Apple is the new Sony [..]
+
+Qualcomm is the new Intel [..]"
+
+---
+
+![](3A01.png)
+
+---

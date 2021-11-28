@@ -44,5 +44,3 @@ what it used to be, and then there is the new PM. Let's take this as
 40% for AK. This is the _best_ it can be according to the model,
 chances are, it will be worse. Even .1 decrease in the popularity
 causes dramatic decrease in the popular vote.
-
-

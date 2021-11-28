@@ -945,3 +945,106 @@ F\*\*in Jeb!
 
 ---
 
+#Prexit?
+
+Puerto Rico's governor, saying he needs to pull the island out of a
+"death spiral," has concluded that the commonwealth cannot pay its
+roughly $72 billion in debts, an admission that will probably have
+wide-reaching financial repercussions.
+
+The governor, Alejandro García Padilla, and senior members of his
+staff said in an interview last week that they would probably seek
+significant concessions from as many as all of the island's creditors,
+which could include deferring some debt payments for as long as five
+years or extending the timetable for repayment.
+
+"The debt is not payable," Mr. García Padilla said. "There is no other
+option. I would love to have an easier option. This is not politics,
+this is math."
+
+It is a startling admission from the governor of an island of 3.6
+million people, which has piled on more municipal bond debt per capita
+than any American state.
+
+---
+
+
+Among its many other benefits, EU membership and the euro is a
+strategic asset for the Greek Integrators - it's one club which Turkey
+is not member of, for example (this is part of an  extremely useless
+and pointless rivalry IMHO, but it's there). Geostrategy is why people
+who suggested Grexit when the Greek crisis started now did a
+U-turn. Roubini did, and he justified himself by saying "the
+Russian-uh bear-uh will get da Greeks-uh" -- in his Italian accent. So
+strategery rather than economics is driving much of this stuff. If
+seperation happens,  it would help to speed up the decision making
+process, and stop the blame game as well.
+
+I watched a Varoufakis speech at Brookings Insititute some time ago --
+he was presented by Kemal Dervis, the TR economist who became finance
+minister to solve his country's crisis in 2001. Later during Q&A he
+told Varoufakis "I had your job", what he did not elaborate on was
+that he was finance minister during a severe crisis just like the one
+Varoufakis was battling with. But Dervis enjoyed certain advantages,
+he was the first troubleshooter, not the second in the scene, TR was
+not part of the Euro or any other restricting mechanism. Also Dervis
+had worked at World Bank, knew the ropes well, so he analyzed locally,
+decided locally, hooked up with his friends at the IMF and WB to
+secure a loan, fixed the banking system, and it was done.
+
+---
+
+[[On Greece]](../../2015/06/on-greece.md)
+
+---
+
+
+This is great - decentralized app \#3W.
+
+"Jott, a messaging app that works without a data plan or WiFi
+connection, has caught on among junior high and high school students
+[..] The reason? Teens who don’t have a data plan that will allow them
+to text are using their iPods and iPads to message each other on a
+closed network within a 100-foot area within school limits [..]
+
+Text messages usually travel by way of your phone to the nearest cell
+tower. Then they get routed to other cell towers to reach the person
+you are texting. However, Jott can send messages from one device to
+another without any cell service as long as those texting are within
+close enough proximity to each other.
+
+It does this by using something called a mesh network that operates on
+Bluetooth low energy or using a router that can reach within 100 feet
+of each user. It’s the same way FireChat, a group messaging app, does
+this, but Jott can also message individuals within your network"
+
+---
+
+Xièxie nĭ Mr. Roboto
+
+"Over the last decade, China has become, in the eyes of much of the
+world, a job-eating monster, consuming entire industries with its
+seemingly limitless supply of low-wage workers. But the reality is
+that China is now shifting its appetite to robots, a transition that
+will have significant consequences for China’s economy — and the
+world’s.
+
+In 2014, Chinese factories accounted for about a quarter of the global
+ranks of industrial robots — a 54 percent increase over
+2013. According to the International Federation of Robotics, it will
+have more installed manufacturing robots than any other country by
+2017"
+
+---
+
+![](3A40.png)
+
+---
+
+I saw this at a bookstore in Berlin (there are still some left) - the
+one in the right says "Encyclopedia Paranoica". And.. Zombie Survival
+Guide? Who reads this stuff?
+
+![](20150516_174240.jpg)
+
+---

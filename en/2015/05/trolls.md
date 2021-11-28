@@ -23,16 +23,3 @@ about 2.8 million dollar through final disposition. It's an amount few
 startups can afford. In fact, extorting settlements with threat of
 high litigation cost is exactly the strategy employed by patent trolls
 in almost all cases.
-
-
-
-
-
-
-
-
-
-
-
-
-
