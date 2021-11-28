@@ -146,3 +146,34 @@ improved grades".
 
 ---
 
+"Has Europe just discovered a previously unused muscle that can be
+flexed a little in the interest of Middle East peace? The leaking of
+European Union guidelines barring E.U. support for projects based in
+[Israeli] occupied territories has generated high political drama
+[..].
+
+Most significantly, however, the reaction suggests that both
+supporters and opponents of Israeli policies believe the Europeans
+might be on to something — namely that the lack of consequences for
+Israel has been a key enabler of the ongoing occupation and denial of
+Palestinian rights [..].  Far from derailing peace, Europe’s move [one
+day] might be remembered for its contribution to resuscitating the
+two-state project"
+
+---
+
+"Amid the Obama administration's crackdown against whistleblowers,
+Change.gov, the 2008 website of the Obama transition team laying out
+the candidate's promises, has disappeared from the internet.
+
+The Sunlight Foundation notes that it last could be viewed on June 8,
+which was two days after the first revelations from Edward Snowden
+(who had then not yet revealed himself) about the NSA's phone
+surveillance program. One of the promises Obama made on the website
+was on "whistleblower protections""
+
+---
+
+![](1953.png)
+
+---

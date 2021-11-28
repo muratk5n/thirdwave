@@ -1,3 +1,0 @@
-# #ouch
-
-![](index.jpeg)
