@@ -1,4 +1,6 @@
 
+[2012](/thirdwave/en/tweets/2012/)
+
 [2013](/thirdwave/en/tweets/2013/)
 
 [2014](/thirdwave/en/tweets/2014/)
