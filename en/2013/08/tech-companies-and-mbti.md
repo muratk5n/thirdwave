@@ -1,9 +1,7 @@
 # Tech Companies and MBTI
 
-This
-[news](https://www.businessinsider.com/everything-you-need-to-know-about-jeff-bezos-amazing-10000-year-clock-2013-8)
+This [news](https://www.businessinsider.com/everything-you-need-to-know-about-jeff-bezos-amazing-10000-year-clock-2013-8)
 here made me wonder about Bezos' MBTI type. Alas, it is ISTJ.
-
 
 That makes perfect sense too: Te is all about measurement (see the
 link - big fucking clock), and SJ is about logistics - providing,
@@ -32,17 +30,3 @@ show-off). The underlying Mac operation system might suck (and it
 does), but Jobs, even with his volatile ways (too much tactics, living
 "in the moment") and his initial inability to manage a big company,
 eventually created a stable innovator.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
