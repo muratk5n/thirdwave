@@ -460,7 +460,7 @@ The Daily Beast: "My Trip Along the Most Mysterious River on Earth"
 
 ---
 
-Reminds me of [this](../../2013/12/cost-gravity.md) Hintjens commentary..
+Reminds me of [this](../../2013/12/culture-and-empire.md) Hintjens commentary..
 
 Politico: "President Joe Biden's decision to nominate Cornell law
 professor Saule Omarova to regulate the nation's banks is triggering

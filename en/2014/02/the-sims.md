@@ -10,22 +10,22 @@ Sims, the biggest house, and the most girlfriends (my real life
 girlfriend did not approve.) And money. Lots of money [..].
 
 [Others were different]. Nearly every player I watched did different
- things, and few had anything to do with getting the high score. One
- wanted to be a Scientist.  Another created a home where every room
- had its own unique decor. Yet another focused on fashion, playing
- dress-up and hosting themed parties.  One [..] would run experiments,
- such as locking the entire neighborhood in a room with all grills and
- no doors, forcing Sims to choose between starving or burning. They
- chose the inferno.
+things, and few had anything to do with getting the high score. One
+wanted to be a Scientist.  Another created a home where every room
+had its own unique decor. Yet another focused on fashion, playing
+dress-up and hosting themed parties.  One [..] would run experiments,
+such as locking the entire neighborhood in a room with all grills and
+no doors, forcing Sims to choose between starving or burning. They
+chose the inferno.
 
 At first I was bewildered. Why are you all playing the game wrong?
- Don’t you want to win? But as I continued to watch, my confusion gave
- way to appreciation, and soon I was vicariously sharing in the joy of
- just trying things, seeing what happens, and relishing the
- process. My limited world view of The Sims had expanded, and what had
- previously been a brief blip in my own gaming radar became an
- obsession. Around 100 days in, I had reconciled with the idea that
- there was no wrong way to play [..]
+Don’t you want to win? But as I continued to watch, my confusion gave
+way to appreciation, and soon I was vicariously sharing in the joy of
+just trying things, seeing what happens, and relishing the
+process. My limited world view of The Sims had expanded, and what had
+previously been a brief blip in my own gaming radar became an
+obsession. Around 100 days in, I had reconciled with the idea that
+there was no wrong way to play [..]
 
 [The author then joins Maxis, the company that makes the Sims]. I had
 the good fortune of sitting near one of the game’s designers, and
@@ -60,10 +60,10 @@ score — pursuing one is a sure path to frustration and
 failure. Dollhousers play by their own rules [..]
 
 I don’t know if it was all my late nights wrangling code, or simply
- too many hours staring at a screen trying to make sense of Simlish,
- but at some point the lines began to blur between The Sims and my
- everyday existence, [I started to wonder, w]ho was controlling me?
- What type of player was he?
+too many hours staring at a screen trying to make sense of Simlish,
+but at some point the lines began to blur between The Sims and my
+everyday existence, [I started to wonder, w]ho was controlling me?
+What type of player was he?
 
 Being the youngest of five children, I had always been naturally
 competitive. But as I grew older, and the structure of schoolwork gave
@@ -87,16 +87,6 @@ itself is simply to play.
 
 So how about it: Are you ready to switch out of Buy Mode and into
 Build Mode? Do you want to Play With Life?
-
-
-
-
-
-
-
-
-
-
 
 
 
