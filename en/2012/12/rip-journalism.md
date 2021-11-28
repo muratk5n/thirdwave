@@ -1,4 +1,0 @@
-# RIP Journalism
-
-
-![](unfollow.png)
