@@ -163,8 +163,8 @@ viable"
 
 ---
 
-It's a nice little scifi show; but the future it paints is entirely
-out of the realm of possibility. A corporation takes over the
+Continuum. It's a nice little scifi show; but the future it paints is
+entirely out of the realm of possibility. A corporation takes over the
 Congress, and hi-tech toys, weapons, etc are used to maintain control
 over the citizens. There are freedom fighters of course, and they come
 back in time to "change" things. Blah blah. Unending conversations
