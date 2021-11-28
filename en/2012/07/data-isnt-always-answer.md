@@ -42,29 +42,3 @@ indeed lead to impressive results and outcomes.
 But this doesn't mean that bigger data will always hold the key. 
 Sometimes data is just data -- noise, really. Not information. It 
 doesn't matter how much you store or how hard you process it.
-
-
-
-
-
-
-
-
-at
-
-July 11, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

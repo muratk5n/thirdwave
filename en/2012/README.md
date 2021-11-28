@@ -166,113 +166,23 @@
 
 [#slam](04/slam.md)
 
-[Arrr..revolution](05/arrrrevolution.md)
-
 [Dinosaurs Were Also Big](05/dinosaurs-were-also-big.md)
 
 [The Fabric of Creativity](05/fabric-of-creativity.md)
 
 [How Data Mining is Different](05/how-data-mining-is-different.md)
 
-[India freeing itself slowly from Delhi](05/india-freeing-itself-slowly-from-delhi.md)
-
-[Information Is Your Salvation](05/information-is-your-salvation.md)
-
-[#fail](05/like-i-said.md)
-
 [Resistance Is Futile](05/resistance-is-futile.md)
-
-[Seriously](05/seriously.md)
 
 [The Structural Revolution](05/structural-revolution.md)
 
-[The 100,000-student classroom](06/100000-student-classroom.md)
-
-[Are Teens Beginning to Prefer Twitter to Facebook?](06/are-teens-beginning-to-prefer-twitter.md)
-
-[Continuum](06/continuum.md)
-
-[Freaks, Geeks and Microsoft](06/freaks-geeks-and-microsoft.md)
-
-[George Lucas](06/george-lucas.md)
-
-[IPv6](06/ipv6.md)
-
-[Is this the ‘Nerd Economy’?](06/is-this-nerd-economy.md)
-
-[Labor’s Decline and Wage Inequality](06/labors-decline-and-wage-inequality.md)
-
-[New Study Finds Revealing Patterns in Chinese Internet Censorship](06/new-study-finds-revealing-patterns-in.md)
-
-[Seriously](06/seriously.md)
-
-[#slam](06/slam.md)
-
-[Syria](06/syria_27.md)
-
-[Syrian Resistance](06/syrian-resistance.md)
-
-[#truedat](06/truedat.md)
-
-[Video](06/video.md)
-
-[Arschbombe](07/arschbombe.md)
-
-[Berlin researchers worry that hackers copy complete factories](07/berlin-researchers-worry-that-hackers.md)
-
-[Concentrated Regulation](07/concentrated-regulation.md)
-
-[Dark Shit Rises](07/dark-shit-rises.md)
+[#slam](06/prometheus-movie-criticism.md)
 
 [Data isn't always the answer](07/data-isnt-always-answer.md)
 
-[Datablog](07/datablog.md)
-
-[The End of TV and the Death of the Cable Bundle](07/end-of-tv-and-death-of-cable-bundle.md)
-
-[Iraq and Turkey](07/iraq-and-turkey.md)
-
-[Is hardware getting soft?](07/is-hardware-getting-soft.md)
-
-[It’s the Technology, Stupid!](07/its-technology-stupid.md)
-
-[Ladies and Gentlemen, the Higgs Boson has been found!](07/ladies-and-gentlemen-higgs-boson-has.md)
-
-[Leading Climate Skeptic Changes Position](07/leading-climate-skeptic-changes-position.md)
-
-[Learning by Watching](07/learning-by-watching.md)
-
-[One More Thing](07/one-more-thing.md)
-
 [Uncertainty, Clockwork, Science](07/uncertainty.md)
 
-[#lol](07/wimp.md)
-
-[Yep](07/yep.md)
-
-[A Beekeeper's Perspective on Risk](08/a-beekeepers-perspective-on-risk.md)
-
-[American law is patent nonsense](08/american-law-is-patent-nonsense.md)
-
-[Does Time Fix All?](08/does-time-fix-all.md)
-
-[Economics In Denial](08/economics-in-denial.md)
-
-[Facebook Malaise](08/facebook-malaise.md)
-
-[Fasting](08/fasting.md)
-
-[Habitualizing Skills](08/habitualizing-skills.md)
-
-[In Your Face](08/in-your-face.md)
-
-[Information over Vast Distances](08/information-over-distance.md)
-
-[Layers of Shit](08/layers-of-shit.md)
-
 [Status, Legitimacy](08/legitimacy.md)
-
-[On Leaving Academia](08/on-leaving-academia.md)
 
 [Platform Ecosystem Wars: Rome Is Burning](08/platform-ecosystem-wars-rome-is-burning.md)
 
@@ -284,81 +194,9 @@
 
 [Skilled Work, Without the Worker](08/skilled-work-without-worker.md)
 
-[Some Data](08/some-data.md)
-
-[The Tyranny of Artistic Modernism](08/the-tyranny-of-artistic-modernism.md)
-
-[U-oh...](08/u-oh.md)
-
-[When Patents Attack!](08/when-patents-attack.md)
-
 [About to Pop](09/about-to-pop.md)
-
-[Automatic Formula Checking](09/automatic-formula-checking.md)
-
-[Being Stuck at a Local Optimum](09/being-stuck-on-local-optimum.md)
-
-[Conceptual Artisan](09/conceptual-artisan.md)
-
-[Decentralized Source Control](09/decentralized-source-control.md)
-
-[More on the Local Optimum](09/more-on-local-optimum.md)
-
-[Obama’s Changed Hope](09/obamas-changed-hope.md)
-
-[Open-access deal for particle physics](09/open-access-deal-for-particle-physics.md)
-
-[Patent Violation](09/patent-violation.md)
-
-[No Classrooms in Sweden](09/swedens-newest-school-system-has-no.md)
-
-[University applications decline is a 'storm warning'](09/university-applications-decline-is.md)
-
-[What-ever](09/what-ever.md)
-
-[Yep](09/yep.md)
-
-[Your Online Ivy: Coursera](09/your-online-ivy-coursera.md)
-
-[A New Bureucratic Cubbyhole Will Fix All New Problems](10/a-new-bureucratic-cubbyhole-will-fix.md)
 
 [Let Them Sink](10/let-them-sink.md)
 
-[Small Step for Mankind, Giant Step for Litigious Society](10/litigious-society.md)
-
-[Newsweek says goodbye to printing presses](10/newsweek-says-goodbye-to-printing.md)
-
-[PersonalWeb](10/personalweb.md)
-
-[President by Day Vampire Hunter by Night](10/president-by-day-vampire-hunter-by-night.md)
-
-[Right On](10/right-on.md)
-
-[Data Problems](11/data-problems.md)
-
-[Getting Your Own House In Order](11/get-your-own-house-in-order.md)
-
-[How to Lie With Statistics](11/how-to-lie-with-statistics.md)
-
-[Innovate, Don't Regulate](11/innovate-dont-regulate.md)
-
 [Post-industrial Production](11/postindustrial-production.md)
-
-[The Mayonnaise Jar](11/the-mayonnaise-jar.md)
-
-[What Too Close To Call Really Means](11/what-too-close-to-call-really-means.md)
-
-[Apoclypse NOT](12/apoclypse-not.md)
-
-[Cartoon](12/cartoon.md)
-
-[Do Not Engage](12/do-not-engage.md)
-
-[Masters of Money](12/masters-of-money.md)
-
-[RIP Journalism](12/rip-journalism.md)
-
-[The Mathematical Hacker](12/the-mathematical-hacker.md)
-
-[Correlation](12/trend.md)
 

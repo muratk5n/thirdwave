@@ -28,14 +28,3 @@ create (like mad). Creation / confirmation cycle.. this is at the core
 of science.
 
 
-
-
-
-
-
-
-
-
-
-
-
