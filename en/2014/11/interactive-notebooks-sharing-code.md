@@ -40,17 +40,3 @@ developed). 
 IPython notebooks are a great step in the direction of reproducible
 science.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-

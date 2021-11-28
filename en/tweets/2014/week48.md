@@ -378,16 +378,25 @@ in Instellar were useful, helpful, were not T-1000 hooked-up to
 Skynet, then logically it follows that they are slaves..(!) Isnt there
 some sort of middle-ground?
 
+---
 
+#garner
 
+![](3A47.png)
 
+---
 
+#FreeLunchism
 
+Duncan Watts is a researcher in Network Theory.
 
+[[-]](https://youtu.be/Va5LDhIF9hI)
 
+---
 
+#andreessen #smorgasbord
 
+![](3A25.png)
 
-
-
+---
 

@@ -273,17 +273,61 @@ Africa did at the height of apartheid".
 
 ---
 
+\#HeedYourSpeed
 
+[![](http://img.youtube.com/vi/HT666XwJR2s/0.jpg)](http://www.youtube.com/watch?v=HT666XwJR2s)
 
+---
 
+\#globalwarming
 
+"The battle to save the world from the ravages of climate change was
+given an unprecedented boost today as the US and China joined forces
+to announce secretly negotiated and radical actions to combat global
+warming.The move will see both countries – which between them emit 44
+per cent of the world’s CO2 – make unprecedented commitments to cut
+their carbon emissions"
 
+---
 
+Sounds awesome. Disrupting the food industry? What is next?
 
+Another interesting article on Googleburger.
 
+"Meat. For many of us, it’s what’s for breakfast, lunch and
+dinner. It’s been that way since the prehistoric age. And thanks to a
+growing middle class, worldwide demand for meat is exploding. By 2022,
+meat production in China and India is expected to grow by 80 percent.
 
+But plenty of obstacles exist. Raising cattle is expensive and hard on
+the environment. And meat is high in fat and cholesterol.
 
+Game Changers all over the world are trying to come up with viable
+meat alternatives. In the Netherlands, scientists developed the
+world's first in-vitro hamburger.
 
+And the Missouri-based company Beyond Meat thinks it has the solution
+to satisfy our cravings: food that looks and tastes just like meat —
+but is made of plants.  It is such a good imitation, in fact, that
+Whole Foods customers couldn't tell the difference when a brief mix-up
+occurred last year"
+
+---
+
+This must be the equivalent of "sharks with frickin laser beams
+attached to their heads", in space exploration... Very cool.
+
+"Mankind has taken one small step closer to colonising the Moon after
+the European Space Agency (ESA) revealed its latest plans to provide
+affordable housing – something we can’t even manage in London
+[..T]hanks to the magic of 3D printing, experts say the first people
+could be living on the Moon in as little as 40 years. The ESA’s latest
+video briefing shows more fleshed-out plans for how robotic 3D
+printers on wheels would, with a single unit, collect material from
+the surface of the Moon and convert it into a radiation- and
+meteor-resistant coating for human accommodation"
+
+---
 
 
 

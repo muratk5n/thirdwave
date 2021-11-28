@@ -97,25 +97,3 @@ next level, so I am walking around in this huge city, back and forth,
 nothing is happening. You are sort of stuck in this minimal
 variation. Good times.
 
-Links
-
-[Predictable](predictable.md)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
