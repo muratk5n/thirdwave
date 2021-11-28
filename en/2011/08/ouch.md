@@ -1,4 +1,0 @@
-# Ouch
-  
-
-![](toofailed.png)
