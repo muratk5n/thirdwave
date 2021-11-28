@@ -14,7 +14,7 @@
 
 [Bitcoin](../../2016/11/bitcoin.md)
 
-[Credit Theory of Money](../../2011/11/credit-theory-of-money.md)
+[Credit Theory of Money](../../2011/11/debt-the-first-5000-years-graeber.md)
 
 [Hyperinflation](../../2016/03/hyperinflation.md)
 
