@@ -11,21 +11,21 @@ busyness was like some vast churning noise through which he was
 shouting out at me, and I gave up trying to shout back over it [..].
 
 The present hysteria is not a necessary or inevitable condition of
- life; it’s something we’ve chosen, if only by our acquiescence to
- it. Not long ago I  Skyped with a friend who was driven out of the
- city by high rent and now has an artist’s residency in a small town
- in the south of France. She described herself as happy and relaxed
- for the first time in years. She still gets her work done, but it
- doesn’t consume her entire day and brain. She says it feels like
- college — she has a big circle of friends who all go out to the cafe
- together every night. She has a boyfriend again. (She once ruefully
- summarized dating in New York: “Everyone’s too busy and everyone
- thinks they can do better.”) What she had mistakenly assumed was her
- personality — driven, cranky, anxious and sad — turned out to be a
- deformative effect of her environment. It’s not as if any of us wants
- to live like this, any more than any one person wants to be part of a
- traffic jam or stadium trampling or the hierarchy of cruelty in high
- school — it’s something we collectively force one another to do.
+life; it’s something we’ve chosen, if only by our acquiescence to
+it. Not long ago I  Skyped with a friend who was driven out of the
+city by high rent and now has an artist’s residency in a small town in
+the south of France. She described herself as happy and relaxed for
+the first time in years. She still gets her work done, but it doesn’t
+consume her entire day and brain. She says it feels like college — she
+has a big circle of friends who all go out to the cafe together every
+night. She has a boyfriend again. (She once ruefully summarized dating
+in New York: “Everyone’s too busy and everyone thinks they can do
+better.”) What she had mistakenly assumed was her personality —
+driven, cranky, anxious and sad — turned out to be a deformative
+effect of her environment. It’s not as if any of us wants to live like
+this, any more than any one person wants to be part of a traffic jam
+or stadium trampling or the hierarchy of cruelty in high school — it’s
+something we collectively force one another to do.
 
 Busyness serves as a kind of existential reassurance, a hedge against
 emptiness; obviously your life cannot possibly be silly or trivial or
