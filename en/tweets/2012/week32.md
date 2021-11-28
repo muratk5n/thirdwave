@@ -101,8 +101,8 @@ I need to be blunt about the situation -- the events outlined above is
 monopolistic behaviour and should be investigated under Antitrust
 Law. The situation is no different than Microsoft favoring its own
 browser on its own OS, screwing Netscape in the process, or working
-shoddy deals with OEM's to push others out of the game. It is exactly
-- the - same - thing. Facebook needs to draw a clear line between its
+shoddy deals with OEM's to push others out of the game. It is exactly,
+the, same, thing. Facebook needs to draw a clear line between its
 platform, and its products which might compete with other products
 developed by people outside their company.
 
