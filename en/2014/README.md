@@ -132,163 +132,23 @@
 
 [Gulf Security Conference](06/gulf-security-conference.md)
 
-[Heavy patent litigation scared off about $22 billion in VC funding over 5 years](06/heavy-patent-litigation-scared-off.md)
-
 [Keeping Score](06/keeping-score.md)
-
-[Net Neutrality](06/net-neutrality.md)
-
-[Patent troll on the verge of winning 1 percent of iPhone revenue](06/patent-troll-on-verge-of-winning-1.md)
-
-[Peter Kruse](06/peter-kruse.md)
-
-[#ha](06/pleasedo.md)
-
-[#teaparty #occupy](06/teaparty-occupy.md)
 
 [The Culture Code](06/the-culture-code.md)
 
-[Uber](06/uber.md)
-
 [Welcome to Software Patents](06/welcome-to-software-patents.md)
-
-[UKIP: White face, blue collar, grey hair](06/white-face-blue-collar-grey-hair.md)
 
 [How the West Chose War in Gaza](07/how-west-chose-war-in-gaza.md)
 
-[Israel, Palestine, and all the rest](07/israel-palestine-and-all-rest.md)
-
 [Some Myths about the Israeli-Palestinian Conflict](07/israeli-myths-hammond.md)
-
-[No More Excel Sheets for That Man](07/no-more-excel-sheets-for-that-man.md)
-
-[aceship Game Played through Occulus Rift Brings a Man To Tears](07/spaceship-game-played-through-occulus.md)
-
-[U.S. Secretary of Defense](07/us-secretary-of-defense.md)
-
-[#view](07/view.md)
-
-[Vlad](07/vlad.md)
-
-[#gm #chillout](08/gm-chillout.md)
-
-[Google’s BigQuery Provides Free Access to GDELT](08/googles-bigquery-provides-free-access.md)
-
-[He finally did it!](08/he-finally-did-it.md)
-
-[Is Is IsIs](08/is-is-isis.md)
-
-[It's Unclear](08/its-unclear.md)
-
-[Machine predicts heart attacks 4 hours before doctors](08/lovethemachine.md)
-
-[#notv](08/notv.md)
-
-[#openscience](08/openscience.md)
-
-[Pentagon transfers to police since '06](08/pentagon-transfers-to-police-since-06.md)
 
 [Phase Transition - The Return](08/phase-transition-return.md)
 
-[Predictable](08/predictable.md)
-
-[Patent of the Month](08/stupid-patent-of-month.md)
-
-[Truth-O-Meter](08/truth-o-meter.md)
-
-[#uuhh #hhuuhh #uh #shutupbeavis](08/uuhh-hhuuhh-uh-uhhuh-shutupbeavis.md)
-
-[Vlad - Part #2](08/vlad-part-2.md)
-
-[Vlad - Part #3](08/vlad-part-3.md)
-
-[What to do with GDELT](08/what-to-do-with-gdelt.md)
-
-[X-President](08/x-president.md)
-
-[PageWerk](08/yep.md)
-
-[Amelia](09/amelia.md)
-
-[Artur Avila](09/artur-avila.md)
-
-[Bridj](09/bridj.md)
-
-[#fromrussia #withlove](09/fromrussiawithlove.md)
-
-[Potato Soup](09/kraut-on-side.md)
-
-[Microbiome](09/microbiome.md)
-
-[#net #4all](09/net-4all.md)
-
-[One More Down](09/one-more-down.md)
-
-[Shoshana Zuboff](09/shoshana-zuboff.md)
-
-[Software patents are crumbling, thanks to the Supreme Court](09/software-patents-are-crumbling-thanks.md)
-
-[#thunderstruck](09/thunderstruck.md)
+[Vlad](08/vlad.md)
 
 [Alex](10/alex.md)
 
-[#edu #thrun](10/edu-thrun.md)
-
-[#edu](10/edu.md)
-
-[Holy Frack](10/frack-that.md)
-
-[#nice](10/nice.md)
-
-[#ouch](10/ouch.md)
-
-[The Empire Strikes Out](10/the-empire-strikes-out.md)
-
-[The Gap](10/the-gap.md)
-
-[#venter](10/venter.md)
-
-[#you #go #guy](10/you-go-guy.md)
-
-[3D Printers, On the Moon](11/3d-printers-on-moon.md)
-
-[#ad](11/ad.md)
-
-[Ambulance Drone](11/ambulance-drone.md)
-
-[Beyond Meat](11/beyond-meat.md)
-
-[Disrupting Insurance](11/disrupting-insurance.md)
-
-[E:D Cockpit](11/ed-cockpit.md)
-
-[#globalwarming](11/globalwarming.md)
-
-[Heed your Speed](11/heed-for-speed.md)
-
 [Interactive notebooks: Sharing the code](11/interactive-notebooks-sharing-code.md)
 
-[JSTOR](11/jstor.md)
-
-[Mayday.us](11/maydayus.md)
-
-[New Machine Vision Software Describing Images](11/new-machine-vision-describing-images.md)
-
-[Why Economists Need Data Mining](11/why-economists-need-data-mining.md)
-
-[#andreessen #smorgasbord](12/andreessen-smorgasbord.md)
-
 [Education 101](12/education-101.md)
-
-[Free Lunchism](12/free-lunchism.md)
-
-[#garner](12/garner.md)
-
-[Not So Loony After All](12/not-so-loony-after-all.md)
-
-[Open Loop University](12/open-loop-university.md)
-
-[Peak Vinyl](12/peak-vinyl.md)
-
-[#postracial #future](12/postracial-future-ishere.md)
 
