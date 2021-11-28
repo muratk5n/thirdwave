@@ -161,3 +161,64 @@ all over the place. US needs to clean up its act it seems to me.
 
 ---
 
+Surprise: student debt is having a depressing effect on Americans'
+life choices. According to a new report from the Boston-based
+nonprofit American Student Assistance, a quarter of college students
+said their student loans made it difficult to buy daily necessities,
+and nearly two-thirds said their debt prevented them from making
+large purchases, like buying a car.
+
+In addition to this drag on lifestyle and consumer spending, student
+debt also played a significant role in larger financial and personal
+commitments. Three-fourths of respondents said they put off saving
+for retirement or buying a home because of their debt. Almost
+one-third delayed marriage and 43 percent waited to start a family.
+
+---
+
+Forget the new iPhone, Phonebloks
+
+https://youtu.be/oDAw7vW7H0c
+
+---
+
+![](5025.png)
+
+---
+
+Whatever.. I'll give it for free
+
+[[-]](../../2014/08/vlad.md)
+
+---
+
+Hahaha..
+
+Do you want me to profile this guy "dear readers" (you know who you
+are). Well - it's gonna cost you. 4999 Eur! Co-o-o-oo-m-e now!
+Seriously.  Show da money and I do the profile right here in this
+blog. Price is steep? Hell it'll still cost you less than a Pentagon
+toilet seat. Profile will be so detailed you'll lose your mind, there
+is much more than the fact that P is ISTP.
+
+Let's do the biznitch.
+
+"U.S. officials haven't found it easy to get a handle on Mr. Putin or
+his motivations. While anti-Americanism has been a key theme for
+Mr. Putin, the U.S. expected he would dial back the rhetoric once he
+had cemented control after the 2012 elections, a prediction that
+proved unfounded.
+
+Mr. Obama's attempts to make a personal connection, such as
+complimenting Mr. Putin's judo skills during their last meeting, have
+fallen flat. Offhand comments, such as Mr. Obama's recent comparison
+of Mr. Putin to a "bored kid at the back of the classroom," rankled in
+Moscow.
+
+The Central Intelligence Agency's classified personality profile of
+Mr. Putin, prepared by the agency for Mr. Obama and other policy
+makers, says he was bullied in his youth. It also describes Mr. Putin
+as insecure, according to American officials who have read it"
+
+---
+

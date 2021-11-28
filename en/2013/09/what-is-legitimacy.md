@@ -55,16 +55,3 @@ the carbon copy of the Roman Catholic Church and its questionable
 past. What people wanted was more freedom, as in free speech, the kind
 the West almost destroyed itself while attaining.
 
-
-
-
-
-
-
-
-
-
-
-
-
-

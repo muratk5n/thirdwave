@@ -45,30 +45,3 @@ the key to performance; or rather, not acting on this knowledge
 condemns one to nonperformance.  Am I a reader or a listener? and How
 do I learn? are the first questions to ask.
 
-Also see Education.
-
-
-
-
-
-
-
-
-at
-
-September 09, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

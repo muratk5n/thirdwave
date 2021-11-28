@@ -63,11 +63,3 @@ cast in its permanent form, into a “scientific” absolutism, by the
 in Germany. Those two then “begat” Marx. Lenin, Hitler, and Mao were
 all Marx’s children.
 
-
-
-
-
-
-
-
-

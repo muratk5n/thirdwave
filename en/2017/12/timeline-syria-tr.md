@@ -12,10 +12,11 @@
   * 20/08: Obama said use of chemical weapons in Syria would cross a "red line"
   * 28/12: PM reveals intel chief has been visiting jailed Kurdish guerilla leader to find a solution to the conflict marking the beginning of the Peace Process
 * 2013
-  * 11/05: Two car bombs exploded in Reyhanlı, a town 5 km from the Syrian border, 52 people were killed and 140 injured
-  * 16/05: During TR visit Obama indirectly blames TR intel chief for working with extreme jihadists
   * 19/03: Chemical weapons attacks were reported in Syria’s two main cities, the Khan al-Assel neighborhood of Aleppo and the Damascus suburb of al-Atebeh
   * 28/03: Gezi park protests initially started to stop an urban development plan at a park turned into protest on secularism
+  * 11/05: Two car bombs exploded in Reyhanlı, a town 5 km from the Syrian border, 52 people were killed and 140 injured
+  * 16/05: During TR visit Obama indirectly blames TR intel chief for working with extreme jihadists
+  * 06/06: An NSA contractor Edward Snowden starts sharing gov secrets with the media. Americans learn that their government was spying broadly on its own people.
   * 03/07: A military coup in Egypt removes President Morsi from power, Morsi is of the Moslem Brotherhood movement, supported by Qatar.
   * 05/08: Ex-Army Chief Basbug gets life sentence from alleged membership to a right-wing organization. It was assumed the Brotherhood was behind the court case.
   * 13/08: TR gov proposes a new law that would force several private cram schools, many of which are owned by the Gülen Movement, to close
