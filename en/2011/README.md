@@ -358,8 +358,6 @@
 
 [The importance of stupidity in scientific research](09/importance-of-stupidity-in-scientific.md)
 
-[The End of Work](09/jeremy-rifkin.md)
-
 [Judgement by the People](09/judgement-by-people.md)
 
 [Israel's Bluff](09/land-g.md)
@@ -422,11 +420,11 @@
 
 [Copyright isn't working, says European Commission](11/copyright-isnt-working-says-european.md)
 
-[Credit Theory of Money](11/credit-theory-of-money.md)
-
 [Data "Scientists"](11/data-scientists.md)
 
 [Debt, Religions, Money](11/debt-religions-money.md)
+
+[Debt, The First 5000 Years](11/debt-the-first-5000-years-graeber.md)
 
 [Demotivational Poster](11/demotivational-poster.md)
 
@@ -440,71 +438,17 @@
 
 [Fusion](11/fusion.md)
 
-[The Islamic Wall](11/islamic-wall.md)
-
-[Kyle Bass](11/kyle-bass.md)
-
-[Little Brother](11/little-brother.md)
-
 [The Logistic Equation](11/logistic-equation.md)
 
-[Mass Consumption](11/mass-consumption.md)
-
-[More on Empires](11/more-on-empires.md)
-
-[More Rifkin](11/more-rifkin.md)
-
-[Outsourcing the job of muzzling the media](11/outsourcing-job-of-muzzling-media.md)
-
-[Pre digital](11/pre-digital.md)
-
-[Publishing](11/publishing.md)
-
 [Statistical Insignificance](11/statistical-insignificance.md)
+
+[The End of Work](11/the-end-of-work-rifkin.md)
 
 [Trystorming](11/trystorming.md)
 
 [The Tweaker](11/tweaker.md)
 
-[Westerns](11/westerns.md)
-
-[Working Hours](11/working-hours.md)
-
-[Anti-Intellectualism](12/anti-intellectualism.md)
-
-[The Bizarro World of Journal Publishers](12/bizarro-world-of-journal-publishers.md)
-
 [Blaxploitation](12/blaxploitation.md)
-
-[Creeping Fascism](12/creeping-fascism.md)
-
-[Death Knell for the Lecture](12/death-knell-for-lecture.md)
-
-[Doctor Who](12/doctor-who.md)
-
-[Dr. No Money](12/dr-no-money.md)
-
-[Harvard Entrance Exam 1899](12/harvard-entrance-exam-1899.md)
-
-[How Many Computers?](12/how-many-computers.md)
-
-[Kim Jong Il's Economic Legacy](12/kim-jong-ils-economic-legacy.md)
-
-[Lessons from Hamilton](12/lessons-from-hamilton.md)
-
-[More on the Logistic Equation](12/more-on-logistic-equation.md)
-
-[More on SP Leaders](12/more-on-sp-leaders.md)
-
-[Perverse Incentives in Academia](12/perverse-incentives-in-academia.md)
-
-[Response: My Thoughts on Codecademy](12/response-my-thoughts-on-codecademy.md)
-
-[Socrates and C-3P0](12/socrates-c-3p0.md)
-
-[Three Manifestations](12/three-manifestations.md)
-
-[WTF?](12/wtf.md)
 
 [y'](12/y.md)
 
