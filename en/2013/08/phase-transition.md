@@ -80,15 +80,3 @@ ice. It might seem one icicle is causing another, that is an illusion,
 or at best, irrelevant. Any part of the ice would do as a starting
 point, what matters is the end state, not the temporary, the
 transitional.
-
-
-
-
-
-
-
-
-
-
-
-
