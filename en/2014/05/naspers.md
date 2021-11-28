@@ -40,17 +40,3 @@ Times had revenues of $3.6 billion and operating profit of $635
 million. Last year, its revenues were $1.6 billion and operating
 profit was $158 million.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
