@@ -1,8 +1,5 @@
 # Week 44
 
-
----
-
 ![](Screenshotfrom2013-11-28105018.png)
 
 ---
@@ -81,7 +78,7 @@ ones that show the President just before and just after the impact of
 the shot: [..] Feynman found that JFK’s head moved forwards at the
 moment of impact"
 
-https://www.assassinationscience.com/johncostella/jfk/intro/wound.html
+[[-]](https://www.assassinationscience.com/johncostella/jfk/intro/wound.html)
 
 
 ---
