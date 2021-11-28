@@ -1,7 +1,7 @@
 # Your Massively Open Offline College Is Broken
 
-I wrote a thing last fall about massive open online courses (MOOCs, in
-the parlance), and the challenge that free or cheap online classes
+"I wrote a thing last fall about massive open online courses (MOOCs,
+in the parlance), and the challenge that free or cheap online classes
 pose to business as usual in higher ed. In that piece, I compared the
 people running colleges today to music industry executives in the age
 of Napster [..]
@@ -53,20 +53,47 @@ than two years to complete it. If they complete it.)
 If you want to know what college is actually like in this country,
 skip Google Images, and scroll through the (still heartbreaking) We
 Are The 99 Percent Tumblr, looking for the keywords "student loan."
-[..]
+[..]"
 
+The end game is degrees that are little more than receipts for work
+done elsewhere. Empire State, Excelsior, Thomas Edison, all these
+institutions and more convert a loose set of credits into a diploma,
+without much of anything resembling a curriculum. A kid named Richard
+Linder just figured out how to get an Associates Degree by stitching
+together 60 credits from 8 separate institutions, not one credit of
+which was earned in a college classroom. (Fully a quarter were from
+various forms of FEMA certification.) Linder gets an A for moxie, but
+it doesn’t say much for the institutions nominally policing
+educational coherence.
 
-* * *
+This vitiation of the diploma is Goodhart’s Law in action, where a
+socially useful metric becomes increasingly worthless, because the
+incentives pushing towards adulteration are larger than those pushing
+towards purity. This is not some bad thing that was done to us in the
+academy. We did this to ourselves, under the rubric of ordinary
+accreditation, at nonprofits and state schools. Yet I've never once
+heard the professors fulminating about MOOCs also suggest shutting
+down Excelsior College. In the academy, we are terrible at combating
+threats from the current educational system, but we are terrific at
+combating threats to it [..]
 
-The end game is degrees that are little more than receipts for work done elsewhere. Empire State, Excelsior, Thomas Edison, all these institutions and more convert a loose set of credits into a diploma, without much of anything resembling a curriculum. A kid named Richard Linder just figured out how to get an Associates Degree by stitching together 60 credits from 8 separate institutions, not one credit of which was earned in a college classroom. (Fully a quarter were from various forms of FEMA certification.) Linder gets an A for moxie, but it doesn’t say much for the institutions nominally policing educational coherence.
+The thing to understand about the current conversation is how bad
+things were, for how many students, long before organizations like
+University of the People ever launched. In the academy, we’ve been
+running a grey market in unsupervised internships and larger and
+larger lectures for a generation already. MOOCs threaten that market.
 
-This vitiation of the diploma is Goodhart’s Law in action, where a socially useful metric becomes increasingly worthless, because the incentives pushing towards adulteration are larger than those pushing towards purity. This is not some bad thing that was done to us in the academy. We did this to ourselves, under the rubric of ordinary accreditation, at nonprofits and state schools. Yet I've never once heard the professors fulminating about MOOCs also suggest shutting down Excelsior College. In the academy, we are terrible at combating threats from the current educational system, but we are terrific at combating threats to it [..]
+Bustillos worries that San Jose State and Udacity are charging $150 a
+course. But what’s the public college alternative? They could be going
+to California’s UC Online program, where a course costs $1400. The San
+Jose deal [to partner with Udacity and start looking at MOOC
+alternative] was brokered by Governor Brown in part because he was so
+disgusted with what his own institutions were up to.
 
-The thing to understand about the current conversation is how bad things were, for how many students, long before organizations like University of the People ever launched. In the academy, we’ve been running a grey market in unsupervised internships and larger and larger lectures for a generation already. MOOCs threaten that market.
-
-Bustillos worries that San Jose State and Udacity are charging $150 a course. But what’s the public college alternative? They could be going to California’s UC Online program, where a course costs $1400. The San Jose deal [to partner with Udacity and start looking at MOOC alternative] was brokered by Governor Brown in part because he was so disgusted with what his own institutions were up to.
-
-In the academy, we're fine with anything that lowers the cost of education. We love those kinds of changes. But when someone threatens to lower the price, well, then we start behaving like Teamsters in tweed. 
+In the academy, we're fine with anything that lowers the cost of
+education. We love those kinds of changes. But when someone threatens
+to lower the price, well, then we start behaving like Teamsters in
+tweed.
 
 I’ve been thinking about the effects of the internet for a couple of 
 decades now. I’ve watched industry after industry forced to renegotiate 
@@ -102,10 +129,6 @@ practice at making people smarter, but it’s not obvious that we have
 the best ideas, and it is obvious that we don’t have all the
 ideas. For us to behave as if we have—or should have—a monopoly on
 educating adults is just ridiculous.
-
-
-
-
 
 
 

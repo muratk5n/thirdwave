@@ -53,17 +53,3 @@ horizontal networks of consumers and civic groups, as well as the
 technology providers whose software allows them to evade government 
 control. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
