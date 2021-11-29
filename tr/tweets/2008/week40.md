@@ -989,3 +989,305 @@ emlak balonunun sismesi icin bir sebebi daha teskil etmistir.
 
 ---
 
+Haber, eglence birbirinin icine iyice gecmeye basladi - bunun icin
+Real Time with Bill Maher programina bakmak yeterli. Maher'i bu
+blog'da pek cok kez referans ettik; Daha once Politically Incorrect
+diye bir programi bir network TV kanalinda (kablolu yayin degil yani)
+sunuyordu. Bu programin sunusu, meger Maher'in bir zaman evinde
+yaptigi politik konusmalarin bir uzantisiymis. Bana ilginc gelen,
+insanlarin apolitik olmakla suclandigi bir zamanda mesela Slash gibi
+(unlu bir gitarist) tiplerin politika konusunda fikir beyan ederken
+gormekti. ABD unluleri bile demek ki o kadar apolitik
+degildi.Arkasindan 11 Eylul sonrasi o unlu an geldi. Bush II
+teroristler icin "korkaklar" dedikten sonra, Maher "herif ucakla
+kamikaze dalisi yapiyor bunun neresi korkak?" deyiverdi (program ismi
+politically incorrect nihayetinde) ve bu isini kaybetmesine sebep
+oldu.O da gitti kablo TV'ye gecti, boylece sansurden de kurtuldu,
+istedigi kadar "f**k" kelimesini kullanabiliyor artik.Simdi Maher'in
+politik durusuna gelelim. O genelde bir Demokrat, su anda (benim gibi)
+Obama'yi destekliyor.Fakat hayat tarzini politik durusuna tam
+yansitamiyor bence. Bunun sebebi tum nufusta yaygin olan bir
+bilgisizlik ve dil eksikligi. Mesela Maher, evli degil, evlilik
+muessesinden hic hazzetmiyor (ve bununla surekli dalga geciyor),
+cocuklari da sevmiyor. Kucuk kasabalari sevmiyor, ve bugunlerde Sarah
+Palin "gercek Amerikalilar kucuk kasabalarda" deyince, monologunda
+"peki tatlim ama buyuk sehirlerde ne var biliyor musun? bir suru
+oyveren" diye tokatlamaktan kacinmiyor.Simdi bunlari yanyana koyun:
+Buyuk sehirler, serbest aile sistemi (tek kisilik aile, cok kisili de
+olabilir, sadece tek sekilde olacak diye bir sey yok), hizmet
+sektorunde calismak, liberteryen durus.
+
+Ne bunlar? Ucuncu dalga. Karsi taraf? Kucuk kasaba, yobaz
+(koylu/kasaba dini), petrolcu (Palin'in kocasi Exxon'da calisiyor,
+Palin'in valiligini yaptigi Alaska zaten tamamen Exxon'un avucunda
+gibi bir sey); 2. dalga. Fakat bu iki taraf carpisirken kullandiklari
+dil bir turlu gercek hali yansitamiyor. Maher icgudusel bir sekilde
+(basarili komedyen olmasi zaten zeki oldugunu da gosterir -insanlari
+guldurmek cok zordur, aglatmak nispeten daha kolaydir-) bu farklara
+odaklanip onlara yuklenip komedi cikartabiliyor, ama sistemize bir
+sekilde yer tanimlanirken acaiplikler ayyuka cikiyor.Mesela Maher din
+konusuna takmis durumda, ve bunun sebebi yillardir bu konuyu
+sahiplenmis "karsi" tarafin Cumhuriyetciler olmasi, ve evet, bu konuyu
+kotuye kullanmislar. Fakat sizin karsi tarafinizin tersi her zaman
+dogru degil; Maher dine asiri bir dusmanlik besliyor, Religolous diye
+bir belgesel (documentary) bir film yapti [2] ve burada dine karsi bir
+hacli seferi (!) baslatmis halde...  Bunlar tamamen gereksiz
+hareketler.Sonra, bir programinda "kongrenin en eski uyesi" bir adami
+getirmisler, arkadas "demokratik sosyalist" imis, bir liberteryene hic
+uymayacak sozler sarfediyor, fakat Bush karsiti oldugu icin programda
+alkis tufani duyuluyor, Maher'dan ses yok. Programda tam bir sosyalist
+orji hali yasaniyor.Ayrica Maher'in kendi ulkesi yeni cagda en ileride
+olmasina ragmen, bir "Avrupacilik" yanilgisina dusmus halde, tabii
+burada onemli bir nokta, ABD'de kulturel bir fay hattinin ozgurluk
+vs. sakinmak/yasak (prohibition) noktasindan gecmesi (dikkat: ozgurluk
+vs. dikta degil).Fransa'da bu hat ozgurluk vs. seckinlik noktasindan
+geciyor [1] (dikkat: yine ozgurluk vs. dikta degil).Maher bu sebeple
+serbestce marijuana icilen Avrupa ulkelerine imreniyor cunku yasagin,
+fay hattinin "ters tarafi" orada. Bu da surekli espri konusu oluyor
+tabii.Neyse.Fakat acikca soyleyeyim, muthis bir kavram karisikligi
+var, ve mevcut politik dil katiyen hakiki cekismeyi yansitacak halde
+degil.
+
+Belki de insanlar bu dili "rahat" oldugu icin tercih ediyorlar,
+tanidik, bildik sozler, bir de gercek cekisme hatlari ortaya konsa,
+belki buyuk catisma esas o zaman olacak. Butun aktorler bu gercek
+cekismenin farkinda olabilir, fakat herkes belli kod kelimeleri
+tekrarlayarak alttan alta bazen gerekli mesajlari cakmaya
+ugrasiyor.. Biz Obama'yi boyle okuyoruz; Kendisinin regulasyonlar
+hakkinda ne dedigi benim son dekode cabamdi. "McCain regulasyonlar
+kalksin diyordu!" diye onun kafasina vuruyor, bunu dikkate almiyoruz,
+sonra diyor ki "problem 21. yuzyila uygun regulasyon olmamasi". Iste o
+zaman biz "hah mesaji verdi" diye anliyoruz, ve bekliyoruz.---[1]
+Bunun onemli bir ornegi Paris'te Euro Disney acildiginda yasandi. Euro
+Disney ilk acildiginda iceride sigara, icki icmek yasakti, bu
+Fransizlarin hic hosuna gitmedi. Bunun ustune, sadece bir bolgede
+sigara serbestlestirildi, ve ah, bu muthis begenildi, cunku esitlik
+denizi ortasinda bir seckinlik adasi tam bunlarin kultur kodlarina
+uygun bir durumdu. Tarihleri boyunca "esitlik" ile dikta arasinda
+degil, "seckinlik" arasinda gidip gelmis olmalarinin arkasinda yatan
+sebep te bu kultur kodudur (Fransiz Devrimi sirasinda "seckinleri"
+yikarak basa gelenler o seckinligi "kendileri icin" istiyorlardi,
+esitlik icin degil).[1] Religolous kelimesi buyuk ihtimalle "religious
+(dindar)" ve "ridicolous (sacma/aptalca)" kelimelerinin bir birlesimi.
+
+---
+
+ABD kurtarma plani gectikten sonra medyada bolca "Avrupa yapamadi,
+merkezi sistemleri daha oturmadi bla bla bla" kivaminda bir suru
+gevezelik yasandi. Halbuki Avrupa bu sekilde mudaheleci, merkeziyetci,
+bol miktarda burokrasi iceren "buyuk" kurgularin anavatanidir
+kardesim! Iste cok gecmeden bir araya geldiler, saldilar avrokratlari,
+ve belli miktarlarda kurtarma operasyonu icin para ortaya koymaya
+basladilar.
+
+Bunu aklima getiren neydi? Bundan once gundeme gelen buyuk, merkezi,
+AB ulkelerini iceren bir proje: CERN'deki "carpistirici"'dan
+bahsediyorum. O iste tam Avrupa'ya uyan bir projeydi. Kultur kodlarina
+cuk diye oturacak bir yapilanma idi.
+
+Peki bu yaziyi niye yaziyorum? Onun sebebi ise CERN'deki deney uzerine
+hemen bizden bir kurumun "onu biz de yapariz" diye ortaya
+atlamasi... Bu Turkiye icin oyle uygunsuz bir projedir ki, acikcasi,
+bu haberi duyunca bu mentaliteyi neresinden tokatlamaya baslasam diye
+karar veremedim; Bunun yazilmasi ondan biraz zaman aldi.
+
+Neresinden baslayalim? Ekonomisinden baslayalim isterseniz.
+
+Oncelikle, Turkiye gibi gelismekte olan ulkeler, az olan para ve insan
+kaynaklarini nereye harcayacaklarina cok dikkat
+etmelidirler. Yaptiginiz her eylem, devletin kaynak aktardigi her
+alan, "innovasyon kapasiteme nasil etki ediyor?" sorusunun
+filtresinden gecirilmelidir. Devlet/universite bir seye para
+koyuyorsa, o para koyulan seyin ekonomiye en fazla miktarda "sacilim
+etkisine (spillover effect)" sahip olmasi iyi olur. Bu sacilim nasil
+oluyor? Projede calisan adam gidip ozel sektore giriyor, fikirlerini
+paraya donusturuyor, innovasyon ekonomiye girmis oluyor. Bilgi bu
+sekilde etrafa "sacilmis" oluyor.
+
+Simdi: Mesela bu acidan aya adam gondermenin sacilim etkisi
+fazladir. Balistik, roketler, bilgisayar/yazilim teknolojisi,
+matematik, hepsinde bir hareketlenme olur.. Kendi basina uzaya uydu
+koyabilmenin ekonomik faydalarindan bahsetmeye zaten gerek bile yok.
+
+Peki carpistirici deneyi ne ise yarar?
+
+Acikca soyleyelim: Cok ozel teorik sorularin cevabi haricinde baska
+hic bir b.ka yaramaz. Zaten temel, parcacik fizigiyle
+ilgileniyorsaniz, bu deneyin verilerine nasil olsa erisebilirsiniz. Bu
+veriyi bir daha uretmenin ise hicbir degeri yoktur! Adam o kadar para
+harcamis, deneyi kurmus, bundan faydalanacaksin! AB ile uyelik sureci
+kapsaminda zaten pek cok bilimsel baglantilar kurumsallasiyor,
+universitelerimiz CERN'un urettigi her seye aninda erisebilirler!
+
+Turkiye'nin ihtiyaci bu deneyi tekrarlamak degildir. Turkiye, bu
+veriyi anlamlandirabilecek, ona "hayat" verecek matematiksel modelleme
+konularinda insanlar yetistirmelidir. Cunku bunun baska alanlara
+faydasi da olacaktir (sacilma etkisi): Girdigimiz bilgi caginda ham
+veri, kapidan, bacadan, agzinizdan, kulaginizdan iceri giriyor olacak,
+o kadar fazla olacak ki "nasil bulacagim?" diye dusunmeyeceksiniz
+bile. Bu noktadan sonra veriyi analiz edebilecek insanlar ve araclara
+ihtiyac had safhada olacaktir; Temel bilimler bu alanlardan sadece bir
+tanesidir... Bu blogda niye bu kadar matematik diye bir tarafimizi
+yirtiyoruz zannediyorsunuz.
+
+Muhakkak, deneysel bilimcillik saygideger bir daldir. Bu alanda cok
+ozel sorulara cevap verebilecek turden cok ozel deneyler
+planlayabilen, insa edebilen yetenekler/insanlar vardir.
+
+Fakat once o sorulari soracak adamlariniz olacak.
+
+Bir konu daha var: Turkiye'deki devletci universite mentalitesi icin
+bu carpistirici deneyi kolayciliktan baska bir sey degildir. Ne
+istiyor biliyor musunuz? Bir suru paralar harcanip bir "makine"
+yapilacak, ve iste o bir "bilim makinesi" olacak. Aynen Kemalist'lerin
+evinde misafirden misafire acilan "misafir odasi" gibi, arada sirada
+acilak ve "iiiisssteeee simdi biliiim yapiliiiyoooorrr" anonsu medyada
+patladildiktan sonra bir curcuna icinde bir takim "deneyler" yapilacak
+(Avrupa yapti ya, iste ben de yapiyorum), ondan sonra makine
+kapatilacak. Herkes mutlu, hosnut, o tatli "bilim yaptik" sicak
+hissiyatinda o gece yataklarina yatacak. O gun biraz daha "gelisilmis"
+olacak.
+
+O "bilim makinesinin" etrafina kirk tane cayci, yirmi tane asagilik
+memur/burokrat guvelenecek; Onlar bilim makinesinin kapi bekcileri
+haline gelecekler. Herkesi sokmayacaklar, bulgulari herkesle
+paylasmayacaklar.
+
+Aslinda burokrat profosorlerimizin hizlandirici deneyini cok
+sevmelerine hic sasirmamak gerekir, cunku bu projenin
+"basari/basarisizlik" sonucu oyle cok goze batan bir sey
+degildir. "Efendim calisti iste" diye milleti uyutabilirsiniz. Kiyasla
+bir fuze gonderseniz, yari yolda patlayabilir, hedefine
+varmayabilir. ONUN BASARISIZLIGINI GIZLEYEMEZSINIZ. Bu sebeple
+burokrat profosorler boyle projelerden kacinmak isteyeceklerdir.
+
+Ama "biz de yaptik" demekten baska bir ise yaramayan bir proje, bol
+tantana ve curcuna icinde palazlandirilacak, ve insanlara ballandirila
+ballandirila satilmaya ugrasilacaktir.
+
+---
+
+Aciklama: Siyah Kugu terimi, Nassim Nicholas Taleb'in bilinmeyen bilinmezleri tarif etmek icin kullandigi bir metafordur. Alttaki satirlar Taleb'in 2007 yilinda yayinladigi ayni adli kitabindan tercume edilmistir. Bu satirlarda yazarin icinde oldugumuz mali krizi dogru sekilde tahmin ettigini goruyoruz.
+
+Evet, [uzun vadede] gittigimiz yeni duzen karisikliga dogru bir gidistir ama bu iyi turden bir karisiklik olacaktir. Bu duzunde sakin ve kipirtisiz periyotlar olacak ve bunlari ufak sayida, konsantre olmus Siyah Kugular takip edecektir.
+
+Eski savaslarin tabiatini hatirlayalim; 20. yuzyil (yuzde bazinda) en oldurucu yuzyil degildi belki, fakat bu yuzyil yeni bir sey ortaya cikardi: Uc nokta (extremistan) savaslarin baslangici. Bu savaslarda, olasiligi dusuk bir catisma tum insan irkini yoketme kapasitesine sahip daha buyuk bir savasa donusebiliyordu, ve dunyanin hicbir yeri boyle bir catismada guvenli degildi.
+
+Gunumuzde benzer bir etki ekonomik hayatta goruluyor. Evet kuresellesme burada/kapimizda, fakat kuresellesme tamamen iyi bir kavram olarak betimlenemez. Kuresellesme ulkelerin birbiriyle asiri fazla bagliligindan ileri gelen yeni bir tur "kirilganlik" ortaya cikartmistir. Evet, bir yandan dalgalanmalari (volatility) azaltmistir fakat bu sahte bir stabilite goruntusu verebilmektedir [1]. Diger bir anlatimla, bu tur yapilar mahvedici Siyah Kugular yaratirlar. Insanlik simdiye kadar hic kuresel bir cokus tehdidi altinda yasamamisti. Finans kurumlarinin surekli birleserek az sayida ama cok buyuk bankalara donustugunu goruyoruz. Artik bankalarin neredeyse tamami muthis derecede birbiriyle bagli. Bana gore, finans ekosistemi icten ice kanayip sisen bir yara gibi devasa, burokratik bankalara donusuyor ve bu olusumlarin hepsinin risk olcum yontemi Gaussian (normal) dagilimi kullaniyor [2]. Riski iyi hesaplayamayan bu kurumlardan biri duserse, hepsi dusecektir.
+
+Evet, finansta "konsentrasyonun" artmasi bir krizin "olasiligini" azaltmis olabilir, ama ayni konsentrasyon, bir krizin cikma durumunda, o krizin hem kuresel olmasini ve tahrip gucunun cogalmasina sebep olacaktir. Cok cesitlilik gosteren, hepsinin kendine gore degisik kredi politikasi olan ufak bankalardan olusan bir ekolojiden, homojen bir altyapida hepsi birbirine benzeyen finans kurumlarina gectik. Dedigim gibi, bu durum krizleri azaltti ama o kriz bir olursa ... bunu dusunmek bana korku veriyor.
+
+Boyle bir krizin nasil cikabilecegini de biliyoruz. [Finansal yapinin bir ag (network) mimarisine benzemesinden hareketle] network'lerin az sayida cok bagli, ve cok sayida az bagli olan nod'lar iceren bir yapida organize olmaya meyilleri vardir. Bu sekilde bir yapi sadece Internet'e has degil, insan iliskileri de benzer kaliplari takip ediyor. Bu tur baglantilar bir network'u saldiriya daha dayanikli hale getiriyor - network'e rasgele sekilde yapilan saldirilarin cogu az derecede bagli olan nod'lardan birini bulacaktir, ve network'un tamamina zarar vermeyecektir. Ama bu tur yapilar, network'un Siyah Kugu'ya acik olmasi sonucunu getiriyor. Cok bagli bir nod'da problem cikinca ne olacagini bir dusunun. ABD'nin kuzeydogusunda 2003 yilinda meydana gelen buyuk elektrik kesintisini, ve arkasindan cikan karmasayi hatirlayin. Bu kesinti, eger buyuk bankalarimizdan biri cokse olacaklarin bir resmidir.
+
+Ve emin olun ki, bankalarin durumu Internet ile karsilastirilamayacak kadar kotudur. Finansal endustride "az bagli cok sayida" nodlarin sayisi iyice azalmistir! Degisik bir ekolojide, yani ufak kuruluslarin arada sirada cokup, yerine yenilerin geldigi bir ekolojide yasiyor olsaydik bu cok daha iyi olurdu, bu Internet'in kendisine ve ekonomisine daha benzer dayanikli bir yapi olurdu. Ne yazik ki boyle bir yapida yasamiyoruz.
+
+Tum bunlar yetmezmis gibi, bankalarimiz Siyah Kugu'lara artik eskisinden oldugundan cok daha aciklar. Mesela su koca sirket J.P.Morgan'in yaptigina bakin, 90'li yillarda RiskMetrics adli sacma sapan bir metot kullanan bir programi risk yonetmek icin hizmete koydu. Bu sirket, bu hareketiyle tum dunyayi riske sokmustur (diger sacma sapan ve baglantili bir metot "value-at-risk" metotudur, bu da yangin gibi hizla kurumlarimizda yayilmaktadir). Ayni sekilde devletin sponsor ettigi bir kurulus olan Fanny Mae'nin riskine ben baktigim zaman, bu kurumun bir dinamit ficisi uzerinde durdugunu gormustum, en ufak bir hickiriga kurban gidebilecekleri apacik ortada. Oh, ama hic supheniz olmasin, bir oda dolusu bilim adami onlara bu tur hickiriklarin "olasiliginin dusuk" oldugunu muhakkak pek cok kez soylemistir.
+
+[1] Yazar kitabin diger kisimlarinda en korktugu yatirimlari "guvenli" olarak bilinen, cok uzun sure bu sekilde stabil giden, fakat bu sahte guvenilirlik altinda beklenmez durum ve krizlere karsi cok acik olan yatirimlarin oldugunu belirtmistir.
+
+[2] Taleb'e gore uc nokta olaylari modellemek icin Gaussian, yani "normal" dagilim (adi ustunde!) son derece uygunsuz bir matematiksel yontemdir. Ama kitabi boyunca yerden yere vurdugu finans analizcileri surekli bu tur metotlari kullanmaktadirlar.
+
+---
+
+Daha onceki bir YDB yazisinda bahsettigimiz Android telefonu
+cikti. Android, network saglayicisi (carrier) ve cep telefon
+donanimindan bagimsiz bir isletim sistemidir, bir cep donanimi icin
+gelistirilen uygulama digeri icin rahatca calisabilecektir. Bu ucuncu
+parti programlar piyasasina bir dinamizm saglar, cunku program
+gelistiricileri (bizler) yazdiklari kodun tek bir telefona "hapis
+olmasini" istemezler.Bu telefon ayni zamanda Google Phone olarak ta
+aniliyor, Google'in telefonun donanimi ile bir alakasi yok aslinda,
+sadece isletim sisteminin arkasindalar, fakat bu onemli bir faktor
+oldugu icin bu vurgu yapiliyor. Isletim sistemi, acik yazilim. Kaynak
+kodu Internet'ten paylasiliyor. Son zamanlarda Nokia'da bu aciklik
+trenine binmeye karar verdi.G-1 ozellikleri surada
+bulabilirsiniz:Telefon Turkiye'ye ne zaman gelir? Ingiltere icin
+Kasim, Almanya, Avusturya, Cekoslavakya, Hollanda'da 2009'un ilk
+ceyreginde deniyor. Turkiye icin simdilik bir zaman tablosu duymadim,
+herhalde 2009 ceyregi ve sonrasi olur.Ozelliklerden bazilari: 3G,
+WiFi, Bluetooth, pusula!, Google Maps ve Street View destegi.Bu son
+ozelligin demosunu bazilari gormus olabilir; Telefonun icinde pusula
+var, boylece telefonun nereye dogrultulmus oldugu Street View'e
+aktarilabiliyor, ve zaten GPS uzerinden dunyada nerede oldugunuz belli
+oldugu icin Street View goruntuyu dinamik olarak degistiriyor! Bir
+demo'da duvara dogru tutulan G-1 duvar arkasindaki caddeyi
+gosteriyordu mesela! MAD SKILLZ. YouTube video surada (Turkiye'den
+baglananlar icin KTunnel.com)
+
+---
+
+![](obamajedi.jpg)
+
+---
+
+Jack Welch: Krizin Sebebi
+
+GE'yi uzun yillar yonetmis olan Jack Welch, bu soruyu Agatha Christie'nin Murder on the Orient Express adli romanina referans yaparak cevap veriyor. Aynen bu romandaki gibi gece ortasinda cinayete kurban gitmis tek kisi vardir fakat trende pek cok kisi bu cinayetten suphelidir. Welch'e gore son finans krizi cinayetinde suphelilerden bazilar sunlardir:
+
+1) Politikacilar / kongre uyeleri: Ev sahibi olmayi asiri istekli (overzealous) bir sekilde [mudaheleci yontemlerle] surekli tesvik ettiler.
+
+2) FED: Faiz oranlarini [90'li yillarda] asiri sekilde dusuk tuttular.
+
+3) Avci borc vericiler (predatory lenders): Ev alimi icin borc veren bazilari, karsilayacak parasi olmamasina ragmen korumasiz ev almak isteyenlerden faydalandilar.
+
+4) Beyaz Ev: Banka regulasyonlarinin fazla serbestlesmesine izin verdiler.
+
+5) Finans yoneticileri: Tam anlamadiklari ama cok tatli karlar kazandiklari finans urunlerini sattilar
+
+6) Rating ajanslari: finansal urunleri yanlis sekilde karakterize ettiler
+
+7) Hedge fonlari: Aciga satarak inise oynadilar ve bir anlamda o inise "sebep" oldular.
+
+Ne kadar cok supheli varmis!
+
+Bu blog'un gorusu, 1. ve 2. faktorlerin tum faktorler icinde en onemlisi hatta digerlerine sebep olabilecek derecede "belirleyici" bir faktor olmasidir. Devlet burnunu gereginden fazla piyasalarin isleyisini sokmustur, ve bunun bedelini herkes odemektedir. Insanlar ev sahibi olsun diye suni krediler, garantiler saglanmis, bunlarin ustune FED faiz indirimi ve (firsatci bir ekonomide olmasi dogal olan) cetrefi instrumentasyonlar ve diger faktorler binince, "mukemmel kasirga (perfect storm)" denen olay meydana gelmistir.
+
+Evet, finans sistemi aynen iklim gibi cok degiskenli, lineer olmayan (nonlinear) bir sistemdir ve bu sistemler kaotiktir. Dikkat: bu "karambol" anlamina gelmiyor - sistemi tarif eden formullerin polinom derecesi cok yuksek oldugu icin ufak bir degisiklik ileride "muthis" buyuk degisimlere yol actigi, ve ne olacagini bilemedigimiz, cunku o ufak degisimi hicbir zaman gerektigi kadar gercege yakin (accurate) olarak olcemedigimiz anlamina geliyor. Yani tam formulu bilsek bile olcemedigimiz icin tahmin edemiyoruz.
+
+Yine evet; Iklim gibi bir dinamik sistemde mukemmel kasirgalar olur, mesela Katrina kasirgasi. Ama isin puf noktasi suradadir: New Orleans'ta olan kasirga Shangai'da kapalari bacalari yikmaz. Capisc? Kapitalizm her dinamik sistem gibi turbulans uretebilir, ama bu derece derin, New York'ta olanin Cin'de kapayi bacayi dagitabilecegi krizler suni sekilde birilerinin isleri bozdugunu gosterir.
+
+Krizde sinifta kalan analizciler, kurtarma plani cercevesinden surekli etrafa "pragmatik" olunmasini salik veren kisilerdir. Pragmatizm, yani "ilkeli" olmamak, zaten bastan beri "ilke disi" hareketler yapanlarin sigindiklari son limandir. Bu kimseler soylenmesi gereken sudur: Eger ikide bir kafanizda, g.tunuzde kriz patlamamasini istiyorsaniz "bastan" ilkeli olacaksiniz. Eger bastan ilkeli olsaydiniz, simdi iki senede bir halkin oyunu arayan ve diken ustunde olan temsilciler meclisi uyelerinin agzina bakmak zorunda kalmayacaktiniz.
+
+---
+
+Newsweek Turkiye cikmis. Ilk sayiya soyle bir goz gecirdim, Orhan
+Pamuk roportaji guzel olmus. Newsweek Ingilizce sayisinda olan unlu
+kisilerden haftanin sozleri ilgincti.. Bu formatta Turkiye
+sahsiyetlerinden komik sozler okumak hos oldu. Mesela Saadet Partisi
+Recai Kutan gecen hafta soyle bir soz sarfetmis: "Elhamdülillah
+kapitalizm de yıkılıp gidiyor. Bundan sonra inşallah adil bir düzen
+kurulacak". :) Buna bayagi guldum...Newsweek Turkiye sayisina yayin
+hayatinda basarilar dilerim. Basinda gunlukten ziyade, bir adim geriye
+atarak (bir haftalik) daha genis perspektiften bakabilecek kalite bir
+dergiye ihtiyac vardi, umarim bu boslugu Newsweek TR doldurur. Ayrica
+bizi, begendigimiz Newsweek Ing. makaleleri tercume etme derdinden de
+kurtarmis olacak.Tekrar basarilar dilerim,
+
+---
+
+Bu blogda Ozal'in ozgurluk, bilgi ekonomisi hakkinda soylediklerine referans yaptik, bu gorusler blog'umuzun senteziyle tam bir uyum icinde. Fakat 80'li yillarda Ozalciligin diger iki bacagi olan 1) Kemalizm/Ataturkculuk ile beraber yasama cabasi, ve yine o cagda peydahlanan 2) Yeni Osmanlicilik fikriyatina kesinlikle katilmadigimizi belirtmek istiyoruz [1]. Bu iki gorus te, bu blog yapisinin disinda birakilmistir.
+
+Bu iki bacagin nereden geldigini anlamak icin zamanin sartlarina bakalim: 12 Eylul darbesi sonrasi zaten askeri cunta bir Ataturkculuk soylemini ortaya atmisti. Ozal gayet basit bir sekilde bu soylemle savasmayip, beraber yasamayi secti. Yeni Osmanlicilik ise, "aslinda Osmanli o kadar kotu degildi" tonunda, resmi tarihte surekli asagilandigi icin bunun tersi bir soylem gelistirmeye ugrasan bir "reddiyenin reddiyesi" rengini tasiyordu.
+
+Fakat, yanlisin tam tersi, her zaman tam dogru olmuyor. Osmanli hakikaten uretim metotu bazinda son derece geri kalmis ve cokmeyi coktan haketmis bir topluluktu. Evet, III. Roma'ydi ve onun son mirascisiydi. Fakat bu yapi aslinda 19. yuzyilin sonlarinda da cokebilirdi, bir takim denge politikalari ile ayakta tutulmus olmasi bu gercegi degistirmemistir. Ittihatcilarin "bile" bu yapiyi yikabilmis olmalari zaten sistemin kirilganligini acikca ortaya koymustur. "Mozaiginden" cok bahsedilir, Ilber Ortayli Bey o zamani kurtarmak icin adeta cirpinmaktadir - bunlarin hepsi ne yazik ki bos cabalardir... Hatirlatmak isterim ki Osmanli devrinde degisik milletler tolere edilse de, bu milletlerin arasindaki gecislere, sIkI iliskilere pek iyi gozle bakilmazdi. Bu "mozaik", girdigimiz cagin hizli iletisim, seyahat, kultur alisverisinin yaninda acikca komik kalmaktadir. Osmanli'nin toprak idaresi geridir, uretim metotu geridir, ve buna bagli olarak sosyal yapisi geridir, zaten bu sebeple bitmistir. Muhakkak, Kemalist'lerin soyledigi gibi bir "maymunlar cehennemi" degildir, fakat bu, hicbir cagdaki hicbir sistem icin bir iltifat sayilamaz.
+
+Kemalizm/Ataturkculuk ile beraber yasamaya "ugrasmak" ise, gerceklerin ortaya konulmasi gereken cagimizda bizi cikmaz sokaklara goturecektir. Yeni Osmanlicilik gibi burada da "efendim aslinda o kadar kotu degillerdi" tonlarinda besteler yapan, hele hele, tum hatalari "sonraki adamin" uzerine yikip o zaman tum intelligentsia'mizda yasanan fikri eksikleri kapatmaya calisip "adam kurtarmaya" ugrasan cabalara hic paye vermeyecegimizi buradan tekrar belirtmek istiyoruz. Herkes tarihte hakettigi yere koyulacaktir. Tum gercekler konusulacak, tum gercekler aciga cikacaktir.
+
+Arkada biraktigimiz bu anlayista, tum tarihten bugune duz bir cizgi halinde, bir "saadet, basari zinciri" takip edilerek gelmek mumkun olabiliyordu. "O kadar fena olmayan" Osmanli'dan, "aslinda liberal demokrasi istemis ama kaka bazi adamlar tarafindan saptirilmis olan" Cumhuriyet kurucularini takip ederek "tutarli bir sekilde" bugun AB adayi olan ulkeye ulasiyordunuz. Ne mutluluk! Bu saadet cizgisinin tamamen uydurmaca olmasi insanlari rahatsiz etmiyordu. Bu cag, ne raslantidir ki ayni zamanda zoloft cekmis Polyanna gibi surekli siritarak etrafta dolasan garip bir dusunur/yazar tipinin cagidir. Bu saadet sentezine balik gibi atlayanlar, simdi fikri dunyalarinin yavas yavas parcalandigina sahit olacaklardir.
+
+Bizim Ozal'in destekledigimiz, ve aslinda en onemli gorusleri, bu blog'da yayinlanan konusmasidir.
+
+[1] Aslinda bir bacak daha var, o da "Amerikan kucakciligi" olarak
+tanimlanan tek merkezli, tek yonlu bir dis politika anlayisidir. Bu
+konuya bu yazida girmeye gerek yok, once tezkerenin reddi ve
+Turkiye'nin cok yonlu dis politika anlayisiyla bu "kucakcilik" geride
+birakildi.
+
+---
+
+Sieg Heil!
+
+![](kerin.JPG)
+
+---
+

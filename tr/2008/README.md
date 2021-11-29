@@ -32,91 +32,25 @@
 
 [Rusya](07/rusya.md)
 
-[40 yıl sonra… yeniden 68](08/40-yl-sonra-yeniden-68.md)
-
-[Avrupa'nin Basarisizlik Felsefesi - I](08/avrupanin-basarisizlik-felsefesi-i.md)
-
-[Avrupa'nin Basarisizlik Felsefesi - II](08/avrupanin-basarisizlik-felsefesi-ii.md)
-
-[Bill Clinton Konusmasi](08/bill-gave-great-speech.md)
-
-[Bir Rus Hikayesi](08/bir-rus-hikayesi.md)
-
 [Brekisefal Degil](08/brekisefal-degil_31.md)
-
-[Bus Driver for PC](08/bus-driver-for-pc.md)
-
-[Cep Telefonlari](08/cep-telefonlari.md)
-
-[Daily Show - McCain ve Obama](08/daily-show-mccain-ve-obama.md)
 
 [Fisleme devam ediyor](08/fislenme-devam-ediyor.md)
 
-[Gurcistan](08/gurcistan.md)
-
-[ING Bank ve Kultur Kodlari](08/ing-bank-ve-kultur-kodlari.md)
-
 [Marksizm](08/marksizm.md)
-
-[Owen Matthews - Gurcistan](08/owen-matthews-gurcistan.md)
-
-[Star Wars Turkiye](08/star-wars-kulliyati-uzerinden.md)
-
-[Uzakdogu ve Donanmalarinin Silah Yarisi](08/uzakdogu-ve-donanmalarin-silah-yarisi.md)
 
 [1987](09/1987.md)
 
 [Bu Yeni Bir Ortaçağ; Yeni Bir Düzen Değil](09/bu-yeni-bir-ortacag-yeni-bir-duzen.md)
 
-[Deniz Feneri Yanılgıları](09/deniz-feneri-yanlglar.md)
-
-[Etekler Tutustu](09/etekler-tutustu.md)
-
 [Kose yazisi](09/kaynak.md)
 
 [Kim Bu Konuşmacı?](09/kim-bu-konusmaci.md)
 
-[Kurucu Babalar](09/kurucu-babalar.md)
-
-[Kutlu Olsun](09/kutlu-olsun.md)
-
 [Olay haber: Hurriyet'ten](09/olay-haber-hurriyetten.md)
-
-[Kapitalizm (Yine) Cokuyor mu?](09/sistem-batiyor-mu.md)
-
-[Solmus, Silik bir Sol](09/solmus-silik-bir-sol.md)
-
-[Taraf: Plan Gecti](09/taraf-plan-gecti.md)
-
-[Vur Tayyip](09/vur-tayyip_08.md)
 
 [Yesilcilerin Hurafeleri](09/yesilcilerin-hurafeleri.md)
 
-[Acgozluluk Iyidir](10/acgozluluk-iyidir.md)
-
-[Bill Maher](10/bill-maher.md)
-
-[Cok Oturgacli Carpistirgac](10/cok-oturgacli-carpistirgac.md)
-
-[Taleb'in Mali Kriz Tahmini](10/finansal-kriz-hakkinda-taleb-ne-demis.md)
-
-[G1 Android Cep Telefonu Cikti](10/g1-android-cep-telefonu-cikti.md)
-
-[Geliyor ...](10/geliyor.md)
-
 [Herkes sertlesti](10/herkes-sertlesti.md)
-
-[Jack Welch: Krizin Sebebi](10/jack-welch-krizin-sebebi.md)
-
-[Newsweek Turkiye](10/newsweek-turkiye.md)
-
-[Ozal Sentezi](10/ozal-sentezi.md)
-
-[Problem Kapitalizm Eksikligi](10/problem-kapitalizm-eksikligi.md)
-
-[Sieg Heil!](10/sieg-heil.md)
-
-[SNL ve Palin](10/snl-ve-palin.md)
 
 [Türkiye ve Türkler](10/turkiye-ve-turkler.md)
 
