@@ -530,3 +530,331 @@ zayiftir. Chavez ulkesi icin bu guclu adam olabilir. Sili'yi ornek
 almali ama onun akli baska yerlere kayiyor bazen...
 
 ---
+
+Yeni bir kavram: eklemlenmis gerceklik (augmented reality). Eskiden
+sanal gerceklik (virtual reality) kavrami revactaydi; ozel gozlukleri
+takip sanal ortamda pur taklit bir gercekligi yasayabilecegimiz
+kurgulaniyordu. Disclosure (1994), The Matrix (1999) filmleri akla
+gelebilir.
+
+Eklemlenmis gerceklik ise mevcut gerceklige, gunluk hayatimiza
+teknolojinin eklemlenmesidir. En guzel ornek: Wii oyun makinasinda Wii
+kumanda aletini kullanarak, tenis, golf, vs. turden bir oyunun
+oynanmasi. Wii kumanda aleti fiziksel el, kol hareketlerini
+bilgisayara aktariyor, tipik bir bilgisayar oyunundan sonra epeyce
+idman yapmis oluyorsunuz. Wii kumanda aleti gercekliginize, normal
+fiziksel hareketlerinize "eklemlenerek" onun etki alanini
+genisletiyor.
+
+Facebook ayni sekilde; arkadaslarinizla iletisiminizi, etkilesiminizi
+takviye ederek, uzatarak, daha onceden yapmis oldugunuz bir eylemin
+(arkadaslar ile iletisim) etki alanini genisletiyor.
+
+Sonuc: Bilgisayarla ugrasmak artik normal hayatin "disinda", anormal
+insanlar tarafindan ilgi goren bir is degil, normal hayatina
+eklemlenebilen onun bir parcasi olarak gozukebilen, her yerde olabilen
+(ubiquitous) bir aksiyon.
+
+Fizibilite acisindan dusunulurse, eklemleme asamasinin once gelmesi
+mantikliydi. Gercekligi uzatmak, okkali sanal ortamin teknolojisini
+yaratmaktan herhalde daha kolay. Second Life gibi atilimlar basarili
+oldu, fakat daha gidecek epey yollari var.
+
+Oyun aleminde cok ilgi goren baska bir uygulama Guitar Hero... Tam bir
+fenomen oldu. Ayni grupta caldigimiz gitarist bir arkadas, cocuguna
+aldigi GH gitarini kullanmanin (birkac dugmesi var) normal gitardan
+daha zor oldugunu soyluyor. Bu gerceklik adami terletiyor.
+
+---
+
+Nihayet bazi seylerin islemedigini anlayan bir grup ekonomist,
+alternatif yollari dusunmeye baslamis... Iyi haber. Nassim Taleb'in
+pek cok kez soyledigi gibi, finans dunyasi gercekle tamamen alakasiz
+matematiksel modeller kullandi (burada suclu matematik degil,
+kullanilan model) ve sonuc olarak olma olasiligi cok dusuk olan
+'olunca' eldeki tum yatirimlar patladi. Yeni teknolojik gelismeler
+yeni dunyayi volatilitesi daha yuksek bir yer haline getirdi, sistemik
+kriz olasiligi daha da artti.
+
+Baglantisini verdigimiz konferans 1-4 Mayis tarihlerinde toplanacak ve
+pek cok bilim dalindan temsilciler burada olacak. Fizik, kompleks
+sistemler, biyoloji, bilgisayar bilimciler ve matematikciler.
+
+[[-]](http://www.perimeterinstitute.ca/Events/The_Economic_Crisis_and_Implications_for_Science/The_Economic_Crisis_and_its_Implications_for_The_Science_of_Economics/)
+
+---
+
+Econtalk'da iki podcast gozume carpti: 2006 yilinda, tam da rahmetli
+oldugu sene, ustad (ekonomist) Milton Friedman ile iki roportaj
+yapilmis. Son finansal kriz patlamadan birkac sene once. Bilindigi
+gibi her ne kadar devlet mudahelelerinden tam kurtulamamis olsak ta,
+son 20 kusur senenin piyasa temelli gelismesinin altinda Mises ->
+Hayek -> Friedman cizgisi yatiyor. Avusturya->Chicago cizgisi de
+denebilir.
+
+Acaba ustad hayatta olsa ne derdi? Bir hayiflanma: "Bu kalibrede
+ekonomist niye bugunlerde yok?". Yeni bir Hayek, Friedman nerede? Ama
+su da soylenebilir: Bu cizgiyi tasiyacak star bir karaktere artik
+ihtiyac yok... Friedman, Kapitalizm ve Ozgurluk adli eserinin basinda
+bir devletin yapmasi ve yapmamasi gerekenleri siralamistir
+(yapilmamasi gerekenlerin icinde zorunlu askerlik sistemi, tarim
+subvansiyonlari var). Bu liste halen tam uygulanmamakta. Yapilacak cok
+is var ve yapilacaklar belli.
+
+Roportajdan inciler:
+
+Is sahiplerinin her zaman kapitalist goruste oldugu
+zannedilir. Halbuki bunlarin bazilari gayet anti-kapitalist goruste
+olabilmektedirler. Niye? Is sahipleri rakiplerinin geride kalmasini,
+tekel olup tek uretici olmak icin dayanilmaz bir istek
+duyabilirler. Kapitalizm, tuketiciler ve orta olcekte kisiler, daha
+dogrusu nufusun buyuk cogunlugu tarafindan ihtiyac duyulan bir
+kavramdir.
+
+Sirketlerin sosyal sorumlulugunun karlarini arttirmak oldugunu bugun
+olsa da tekrarlardim. Bazi prensipler eskimezler.
+
+Fiyat kontrollerinin islemedigini biliyoruz. Fakat gunun birinde,
+artik fiyat kontrollerinin kullanildigi sefalet gunlerini hatirlayan
+kisiler birer birer olup gidince, tum hayatini serbest piyasa icinde
+gecirmis yeni nesiller tekrar fiyat kontrolu getirmek icin dayanilmaz
+bir istek duyabilir. Insanoglunun boyle gariplikleri vardir.
+
+Son zamanlarda Keynescilik laflarini telafuz edenlere
+rastliyoruz. Friedman'a gore (ve artik yaygin konsensuse gore) Keynes,
+hem issizligin, hem enflasyonun ayni anda arttigi (stagflasyon)
+durumunu aciklayamadigi icin 70'li yillarda iflas edip
+bitmisti. Kaput.
+
+Ustadi anip, diger podcast'lere devam ediyoruz:
+
+Bir bakiyoruz ki, roportaj yapilan kisiliklerden bir digeri Patri
+Friedman, Milton'un torunu! Simdi sunu hatirlatalim, serbest piyasaci
+Milton'un oglu David, bir liberteryen kanun teoristi idi. Tahmin edin
+David'in oglu Milton'un torunu Patri Friedman nelerle ugrasiyor?
+
+Ilginc: Patri devletlerden, ozellikle kendi devletinden, ulkesinden
+umudu kesmis durumda.
+
+Adam deniz ustunde yasayabilen koloniler insa etmek istiyor! :)
+
+Bu kavrama "seasteading" denmekte. Deniz ustunde sabit bir platform,
+ada benzeri genis bir alan olusturmak. Eger bu alani uluslararasi
+denizde insa ederseniz, hicbir ulkenin legal sinirlari, etki alani
+(jurisdiction) girmiyorsunuz ve fiili, kanunu bagimsiz bir ulke haline
+geliyorsunuz. Dunyada kolonize edilecek, temiz sayfayla baslayacak
+yerlerin kalmadigindan yakinanlar oluyor. Fakat dunyanin yuzde 70'si
+denizdir ve hala kolonize edilmemistir! Demek ki yayilacak, sifirdan
+baslanabilecek cok alan vardir. Deniz platformu teknolojisi ucuzlasip,
+yayginlasirsa, sInIr gokyuzudur... Yani ... deniz yuzudur.
+
+Patri Friedman bir programci; Google sirketinde calismis, deniz
+platformu konulariyla hobi olarak ugrasiyormus. Isin fizibiletesi
+hakkinda bir kitap yazmis, bundan bir diger liberteryen, PayPal'in
+finansorlerinden Peter Thiel'in haberi olmus. Hop, Thiel, Petra'nin
+enstitusune hemen para yardimi yapmis.. Ilk fazda yarim milyon
+dolar. Cat.
+
+Wired dergisindeki makale surada. Fotograf anlamli ve komedi.
+
+Deniz uzerinde ulke olma isinin oldukca renkli tarihcesi var; ilk
+deneyen Friedman degil/olmayacak. Hikayelerden birinde, bir zengin
+Guney Pasifikte denizde cok derin olmayan bir alana kum yigarak yeni
+bir ulke olusturur. Fakat ulke yakindaki kara ulkesi Tonga tarafindan
+isgal edilir! Hikayeyi okur okumaz Turkce konusan birinin ilk aklina
+gelen o malum deyim tabii ki: Tongaya basmislar. :)
+
+Muhakkak sInIrli, her tarafi deniz olan bir alanda yasamak herkesin
+mizacina uymaz; fakat zaten, uymasi gerekmez.
+
+Bu konuyu takip etmeye basladim. Kara devletleri canimi sIkmaya
+baslarsa, ve bu is ilerlerse, ben de basip gidebilirim. :) Neyse
+simdilik TR iyi gidiyor. Ileriye yatirim.
+
+---
+
+Geithner, Bernanke Plani.. Paul Krugman yaziyor: "Her nasilsa
+hukumetteki ust seviye yoneticiler bugunlerde zehirli varliklar olarak
+adlandirilan emlak varliklarinin su anda fiyatlandigindan daha degerli
+oldugu gorusunde - ve bu varliklar "dogru" fiyatina kavussaydi, butun
+problemlerimiz ortadan kaybolacakti. [..] Geithner bir roportajnda
+hukumetin gorevinin "piyasalarin tekrar islemesi icin gereken finans
+saglamak" oldugunu soyledi - boylece zehirli varliklarin fiyati
+"hakettigi" yerine ulassin. [tirnaklar bana aittir]"
+
+---
+
+Fannie Mae ve Freddie Mac sirketleri "guvenleme (securitization)"
+isindeydiler. Bir banka ile anlasarak bir evi alabilirsiniz. Banka o
+evi sizin icin alacaktir o ev uzerine bir "mortgage" koyacaktir. Odeme
+planlari uzerinden belli taksitleri ile odeme yapan kisi, odemeler
+bitince mortgage'i kaldirmis olur ve ev onun olur. Bankanin evi alarak
+kisiye yaptigi bir mortgage borcudur (mortgage loan).
+
+Dusunulurse, bu borclardan kurtulmak icin gelen odemeler duzenli
+sekilde her ay gelen herhangi bir sirket kazanci gibidir. Bir nakit
+akisidir ve baskalarina satilabilir, aktarilabilir.
+
+Fakat tek basina tek bir kisinin borcunu, nakit akisinin aktarmak
+risklidir. Bu yuzden pek cok borcu paketleyip, riski azaltmak
+gerekir. Hatta bazi sirketler boyle bir paket icinde odemeyenler
+olursa, onlarin borcunu da ustlenmeyi ve paketin riskini daha da
+azaltma servisini sunabilir. Bu bir iskoludur.
+
+Frennie sirketlerinin yaptiklari buydu. Bu sirketler mortgage
+bankalarindan gelen pek cok mortgage borcunu paketleyip, "pakette tek
+tuk odemeyenler olursa onu da biz oderiz" beyanini yapip, bu paketi
+baska birine satan "guvenleme" sirketleriydi.
+
+Bu noktada sahnedeki diger aktoru anlatmak gerekiyor: Devlet. Devletin
+politikasi "ev sahibi yapmak" ve ozellikle bundan dusuk gelirli
+insanlari faydalandirmaktir, ve gidip Frennie sirketlerine daha fazla
+odeyemeyecek halde olan kisiye borc (subprime mortgage loan) verilmesi
+icin baski yaparlar. Halbuki evi insa ettirip fakire anahtar teslim
+etse isler daha az karisik olacaktir (TR'deki TOKI ornegi) ama bu
+yapilmaz.
+
+Evet; Ev fiyatlarinin surekli yukseldigi bir piyasada bunda zaten bir
+mahsur yoktur cunku borclarini odeyemeyecek olan kisi donup evi
+baskasina bir karla satabilir. Yanliz bunun cok kotu bir yan etkisi,
+"nasil olsa baskasina satarim" hissiyatiyla hali musait olmayanlarin
+daha fazla ev almis olmasidir. Cokus sahnesinin hazirligi
+tamamlanmistir.
+
+Ev fiyatlari dusunce evler odeyemeyen insanlarin elinde kalir ve
+borclar odenemeye baslanir. Bu noktada isler iyice arap saci olur;
+Guvenledigi borclarda odeme alamayan Frennie patlamaya baslar, onun
+patlamasi korkusuyla riskini dengelemek (hedge) icin Frennie'den
+"guvenlenmis" mortgage paket alanlar, Frennie hisselerini aciga
+satmaya baslarlar (shorting) ve bu finans piyasalarinda fiyatlara daha
+da asagi yonde bir baski yapar.
+
+Gerisi yakin tarih.
+
+---
+
+Intelligence Squared bir tartisma programi. Oxford usulu tartisma
+deniyor; taraflar var, iki tartismaci grubu da kendine verilmis tarafi
+savunuyorlar, tartisma oncesi ve sonrasi seyircilerin oylari
+toplaniyor.
+
+Tartisma konularindan biri "son finansal krizde Wall Street mi
+sucluydu devlet mi?" sorusuydu. Devleti, ozellikle Greenspan'i
+suclayan takimda Roubini vardi. Onlarin tarafi kaybetti; Ama soyle bir
+durum var; kof sistemin ustune yarim yamalak kurtarma hareketleri
+eklendi, ama hukumet daha yeni, suclar daha fazla Wall Street'e
+gidiyor. AIG bonuslari filan gundemde bu gunlerde... Nasil sacma sapan
+konular anlatamam.. AIG'ye devlet yardimi yapildi bilindigi gibi, onun
+ustune calisanlar maas ustune bonus odemesi alinca (TR'de prim deniyor
+galiba) halk galeyana geldi. Obama cikip "bonuslara cok kizdim" diyor,
+fakat o bonuslar zaten canlandirma paketinin icindeydi. Kendi adami
+Geitner o paketi bizzat yazan kisi. O zaman aklin neredeydi? The Young
+Turks podcast'ini hazirlayan Cenk Uygur tam analiz etti (Turk asilli
+Amerikali, Turkceyi hala konusuyor, parlak bir adam gelecegi var, sIkI
+demokrat); Ingilizce argo olarak "you are blowing smoke up my ass"
+diyor; Bizim sevdigimiz tabirle "tras yapiyorsun" anlaminda..
+
+---
+
+Islam Mikro Cozer
+
+Kulaga garip gelebilir; fakat Islam'in insanligin problemlerine
+getirdigi cozumler mikro'dan baslamaktadir... Bir ornekle anlatalim:
+Eski caglarda erkekler istedigi sayida kadin ile
+evlenebiliyordu. Mesela, milat oncesi bir Cin imparatorunun ornegi cok
+ilginc ve komiktir; Bu imparatorun o kadar cok karisi vardi ki, ayni
+hanimla bir daha ilgilendiginde birkac sene gecmis olurdu.
+
+Peki bu tur eslesme dinamiginin toplumdaki sonuclari ne olacaktir?
+Dogal olarak toplumda bazi erkeklerin bekar kalacaktir, cunku bazi
+asiri zengin, asiri kuvvetli erkeklerin cok fazla karisi vardir.
+
+VE tum kanli isyanlar, devrimlerin altinda uremesi tehlikeye girmis
+kizgin erkekler bulunabilir.
+
+Peki semavi dinler ne yaptilar?
+
+Hristiyanlik es sInIrini bire, Islam ise dorte indirdi.
+
+Bu "mikro" cozumun sonucu olmustur? Dogal olarak daha az erkegin bekar
+kalmasi ve toplumdaki kizginligin ve bazi potansiyel huzursuzlugun
+azalmasi saglanmistir.. Iste mikro tek bir kuralla, bir kalemde, bazi
+"makro" problemler kokunden cozulmustur.
+
+Islam, "toplumlar isyan hareketlerinde bulunmasin", "GNP/GDP'yi olcun,
+kizarim haa" dememistir.
+
+Sadece, gayet basit bir kural getirerek, bazi problemleri baslamadan
+halletmistir. Ek olarak, bizce, bu tur bir esleme kurali sonraki
+nesillere daha cesitli bir genetik mirasin kalmasini saglayarak,
+insanligin daha optimal sekilde gelismesinin de onunu acmistir.
+
+---
+
+Takip ettigimiz podcastlerden biri This American Life - finansal kriz
+ile alakali onceki yayinlarini paylasmistik. En son podcast "Kaka
+Bankalar (Bad Bank)" bankalarin icine dustugu durumu gayet basit bir
+dille anlatiyor. Bu programi takip edince nasyonalizasyon cevresinde
+donen polemik daha iyi anlasilabilir. Bankalarin bilancosunda zarar
+eden yatirimlar var; ve bankalarin mevcut yonetimi ile kurtarilmasi
+demek, beceriksiz kisilerin isbasinda kalmasi, ve islemezligin devami
+demektir. Devlet hicbir sey yapmasin diyemeyiz (isleri buraya kadar
+berbat etti ama) cunku devlet banka hesaplarini garantiye almakla
+zaten isin icindedir. Ustune ustluk bankalarin destabilize olmasi, bu
+bankalardaki yatirimci sermaye uzerinden krizi kuresel boyutlara
+cikartir.
+
+Kisa sureli bir nasyonalizasyon eski takimi tasfiye edilecek, pisligi
+temizleyecek ve kredinin tekrar akmasini saglayacaktir. Ayrica vergi
+odeyen kisinin elinde bir varlik olacak - bir banka. Hemen arkasindan
+banka bir mezatta tekrar bireysel mulkiyete satilir.
+
+Yarim yamalak planda dipsiz bir kuyuya surekli para bosaltiliyor, ve
+kredi hala akmiyor. Vergi odeyicinin sirtindaki yuk surekli buyuyor.
+
+Programda ilginc bir saptama: Obama yonetimi nasyonalize etmeyecegiz
+diyor ama, nasyonalize edecek olsa da zaten su anda yaptiklarini
+soyler/yapardi. Bir guzel hafta sonu bir bakardin, bankalar kut diye
+nasyonalize edilmis; Is bitmis.
+
+Buraya kadar gelinmesi devletin sucudur ve su anki krizden kurtulmak
+icin her hareket caiz olmalidir. Ondan sonra bir daha boyle mudahele
+gerektirmeyecek bir sistem kurulmaya baslanabilir.
+
+---
+
+Bilgiyi ve bilgi teknolojilerini kullanarak bir is yerinin daha az
+kapital ile isler hale gelebilmesi mumkundur. Ornek olarak bir IT
+yaziliminin kontrol ettigi stok sistemi gerektiginden fazla urunu
+barindirmayacak sekilde tasarlanabilir - sirket talebi arz ile hizla
+eslestirerek bir urunu, uretilir uretilmez, stoklamadan teslim
+edebilir, ve boylece stok masraflarini azaltmis olur. Michael
+Milken'in soyle demistir: "Insan kapitali dolar kapitalinin yerine
+gecmeye baslamistir".
+
+Inovasyon, hem yeni alanlar yaratmak icin, hem eski yapilanda harcanan
+parayi azaltmak icin kullanilmaktadir. Eskiye gore daha fazla oranda
+kucuk ve orta olcekli sirketin etrafta olmasi raslanti olmamalidir.
+
+---
+
+Econtalk'da Arnold Kling ile bir roportajdan: Ben buna Amerikan
+Endustriyel Ev Plani diyorum. Bu plan Japonya'daki ihracatci/imalatci
+sektorun esdegeri sayilabilir. Aynen Japonlarin devleti, bankalari, ve
+sirketleri yanyana getirip bir sektor/kartel yarattigi gibi, ABD
+devleti, bankalari, bazi ozel sirketleri yanyana getirip emlak
+sektorunu yaratmistir. Bu bizim endustriyel politikamizdi. Bu yolda
+giderken pek cok kez durup "bir dakika isler kontrolden cikiyor"
+diyebilirdik, ev almak isteyenlerin ilk taksidi (down payment)
+odemesini mecbur tutabilirdik, Frennie'nin ev fiyatlarinda dususu
+absorbe edebilmesini saglamak icin yeterince kapital bulundurmasini
+sart kosabilirdik. Bunu yapmak icin tum regule araclar devletin elinde
+vardi.
+
+--
+
+Kredi Krizi - Animasyon
+
+http://vimeo.com/3261363
+
+---
