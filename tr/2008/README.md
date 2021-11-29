@@ -1,46 +1,8 @@
 # 2008
 
-[ABD Baskanlik Yarisi](01/abd-baskanlik-yarisi.md)
-
-[Baskanlik](01/baskanlik.md)
-
-[Bilgi Ekonomisi İhracatı - İngiltere](01/bilgi-ekonomisi-ihracat-ingiltere.md)
-
-[Bilgi](01/bilgi.md)
-
-[Bir Hikaye](01/bir-hikaye.md)
-
-[Gates ve Jobs](01/gates-ve-jobs.md)
-
 [Hiciv Gazetesi Yeni Baski](01/hiciv-gazetesi-yeni-baski.md)
 
-[Isci Sinifinda Dini Aliskanliklar Azalir mi?](01/isci-sinifinda-dini-aliskanliklar.md)
-
-[Obama](01/obama.md)
-
 [Ogrenme Cesitleri](01/ogrenme-cesitleri.md)
-
-[Pakistan ve Cin](01/pakistan-ve-cin.md)
-
-[Sehirler](01/sehirler.md)
-
-[Serbestlik Geliyor Demokrasi Elden Gidiyor](01/serbestlik-geliyor-demokrasi-elden.md)
-
-[Tahammulsuzluk](01/tahammulsuzluk.md)
-
-[Yanlis - Dogru - Belki](01/yanlis-dogru-belki.md)
-
-[Yemlenme Sirasi](01/yemlenme-sirasi.md)
-
-[Yılın Gandi'si Kemal Kerincsiz](01/yln-gandisi-kemal-kerincsiz.md)
-
-[Avrupa / Amerika](02/avrupa-amerika.md)
-
-[Entegrator Elit Gizemli Yollar Kullanir](02/entegrator-elit-gizemli-yollar-kullanir.md)
-
-[Geliyor](02/geliyor.md)
-
-[Hurmuz Bogazi](02/hurmuz-bogazi.md)
 
 [Kavramsal Düşünce Karşıtları](02/kavramsal-dusunce-karsitlari.md)
 
@@ -50,85 +12,17 @@
 
 [Sosyalizm](02/sosyalizm.md)
 
-[Sovalye Geri Geldi](02/sovalye-geri-geldi.md)
-
-[Toplum](02/toplum.md)
-
-[9/11, Bush, Bill Maher](03/911-bush-bill-maher.md)
-
-[Acik Toplumlar, Bilgi Transferi ve Gelisim](03/aciklik-ve-bilgi-transferi.md)
-
-[Baykal](03/baykal.md)
-
-[Cin'de Deprem - 7.2](03/cinde-deprem-72.md)
-
-[Clinton vs Obama](03/clinton-vs-obama.md)
-
-[CO2 -> Biyoteknoloji -> Yakit](03/co2-biyoteknoloji-yakit.md)
-
-[Cok Guzel](03/cok-guzel.md)
-
-[Depremler](03/depremler.md)
-
 [Devletcilik](03/devletcilik.md)
 
 [Endustriyel Adam](03/endustriyel-adam.md)
 
 [Guclu Parlamento](03/guclu-parlamento.md)
 
-[Hz. Muhammed](03/hz-muhammet.md)
-
 [Jesse Jackson](03/jesse-jackson.md)
 
 [KamuHizmetleri.com](03/kamuhizmetlericom.md)
 
-[Lost](03/lost.md)
-
 [Obama, Clinton](03/obama-clinton.md)
-
-[Sinan Cetin](03/sinan-cetin.md)
-
-[Yanlislanabilir Dusunebilmek](03/yanlislanabilir-dusunebilmek.md)
-
-[YouTube](03/youtube.md)
-
-[Beyaz Insanlar Neleri Sever?](04/beyaz-insanlar-neleri-sever.md)
-
-[Google Webmaster Tools](04/google-webmaster-tools.md)
-
-[Ham Petrol ve Darbeler](04/ham-petrol-ve-darbeler.md)
-
-[Star Wars Gansta Rap](04/star-wars-gansta-rap.md)
-
-[TESEV - Yargida Algi ve Zihniyet Kaliplari](04/tesev-yargida-algi-ve-zihniyet.md)
-
-[Yeni Gocebeler](04/yeni-gocebeler.md)
-
-[Analiz](05/analiz.md)
-
-[Beklenmeyen Ittifak](05/beklenmeyen-ittifak.md)
-
-[Iron Man](05/cogulculuk.md)
-
-[Daily Show](05/daily-show.md)
-
-[Devlet / Petrol İlişkisi](05/devlet-petrol-iliskisi.md)
-
-[Irak İşgali Sonrası ve Petrol](05/irak-isgali-sonrasi-ve-petrol.md)
-
-[Obama ve Facebook Politikasi](05/obama-ve-facebook-politikasi.md)
-
-[Pazar Esprileri (Sunday Funnies)](05/pazar-esprileri.md)
-
-[Petrol ve Irak](05/petrol-ve-irak.md)
-
-[Petrol](05/petrol.md)
-
-[Sizi men ediyorum!](05/siz-men-ediyorum.md)
-
-[Ugur Mumcu](05/ugur-mumcu.md)
-
-[Vay Cakal](05/vay-cakal.md)
 
 [Al Kaide ve Petrol](06/al-kaide-ve-petrol.md)
 
@@ -151,8 +45,6 @@
 [Son Petrol Krizi](06/son-petrol-krizi.md)
 
 [Star Trek ve Freud](06/star-trek-ve-freud.md)
-
-[Su -> Yakit](06/su-yakit.md)
 
 [Tepe Noktası](06/tepe-noktasi.md)
 
