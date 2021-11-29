@@ -206,6 +206,32 @@ aşiretçiliğin bölgede tekrar kuvvetlenmesine sebep olmuştur [..].
 sonra [..] Hamidiye Alayları ismini 'Asiret Alayları' ismine çevirerek
 düzeni olduğu gibi devam ettirmiştir [sf 61-63]. ...
 
+[..] Kürt sorunu Türkiye'nin politik yapısının kendi ağırlığı altında
+ezilmesine sebep oldu; ki bu yapı zaten 1950'li yıllardan beri
+bölünmeye ve yokolmaya yüz tutmuştu. Bunun bir sebebi kısmen seçmenin
+iradesinin zayıflamasına sebep olan ardı ardına gelen üç tane askeri
+darbeydi. Bir diğer sebep 1980'lerde devreye sokulan ideolojik
+doktrindir. Bu doktrin "Türk-İslam sentezi" olarak adlandırılabilecek
+bir kurgudur; buna göre Türk, Osmanlı ve Batılılaştırıcı düşünceler
+biraraya getirilerek bir Türk-Sünni sentezi öne
+çıkartılmaktaydı. Fakat Kürt isyanları bu sentezin "Türk" kısmına ağır
+bir darbe vurdu. Refah Parti'nin seçimlerde yükselişi sentezin İslam
+boyutu ile devletin getirdiği tanımla bir uyumsuzluk ortaya çıkardı ;
+buna Milli Güvenlik Kurumu'nun tek cevabı Refah'ı ortadan kaldırmak ve
+1997'de yasaklamak olacaktı. Bu partinin yerini hemen Fazilet Parti
+aldı ve bu parti Kemalizm'in modernist / seküler etiğine karşı çıkmaya
+devam etti. Aynı anda aşağı yukarı 1/3'u Kürt olan 15 milyonluk
+Aleviler siyasi sol ile bağlantılarını kesip politik Alevizm altında
+kendilerini öne çıkarmaya başladılar.
+
+Bu sebeple 21. yüzyılın başında Türkiye, kendini artık birbirleri ile
+uzlaştırılamayan kültürel kimlik tanımları, talepleri problemini
+içeren bir ikilem içinde bulmuştur. Eğer Türkiye ekonomik, sosyal aynı
+zamanda demokratik olarak gelişmek istiyorsa bu ikilemleri, tanımları
+içeren kronik problemleri çözmek zorundadır. Bu problemler Milli
+Güvenlik Kurumu'nun çözmeye yetersiz, basiretsiz kalacağı ciddi
+problemlerdir.
+
 ---
 
 Yakın tarihteki korucu sisteminin de yukarıdaki sistemin bir uzantısı

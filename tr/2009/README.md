@@ -30,63 +30,15 @@
 
 [Demagoji ve Marks](06/demagoji-ve-marks.md)
 
-[Megastudy](06/megastudy.md)
-
-[Michael Jackson](06/michael-jackson.md)
-
-[Miliband](06/miliband.md)
-
-[Modernite ve Liberalizm](06/modernite-ve-liberalizm.md)
-
 [Neo-Ortaçağcılık](06/neo-ortacagcilik.md)
-
-[Odakli Sistem](06/odakli-sistem.md)
-
-[Twitter, Muzik, Sony, Egitim](06/twitter-muzik-sony.md)
-
-[Twitter Nasil Para Kazanacak?](06/twitter-nasil-para-kazanacak.md)
-
-[Üçüncü Kültür](06/ucuncu-kultur.md)
-
-[Yeni Yeni Ekonomi - I](06/yeni-yeni-ekonomi-i.md)
-
-[Yeni Yeni Ekonomi - II](06/yeni-yeni-ekonomi-ii.md)
-
-[Batarken Narsisizm](07/batarken-narsisizm.md)
-
-[Buzul Cagi ve Beyin](07/buzul-cagi-ve-beyin.md)
-
-[Cronkite Sonrasi, Egitim, Pazar](07/cronkite-sonrasi-egitim-pazar.md)
-
-[Gazeteler Batarken](07/gazeteler-batarken.md)
 
 [Toplum Kelimesi](07/toplum-kelimesi.md)
 
-[Avrupa'nin Basarisizlik Felsefesi](08/avrupanin-basarisizlik-felsefesi.md)
-
 [Cüneyt Arkın Kürt açılımını destekliyor](08/cuneyt-arkin-kurt-acilimini-destekliyor.md)
-
-[Gawker Matematigi](08/gawker-matematigi.md)
-
-[Gelecegin Sehri - Jonathan Stephens](08/gelecegin-sehri-jonathan-stephens.md)
-
-[Geri Kalanlar ve Zakaria](08/geri-kalanlar-ve-zakaria.md)
-
-[Kurt Sorunu ve Politika](08/kurt-sorununu-ve-politika.md)
 
 [Mad Men](08/mad-man.md)
 
-[Online Egitim ve Ogrenci Performansi](08/online-egitim-ve-ogrenci-performansi.md)
-
-[Sehir Tercihi - 1](08/sehir-tercihi-i.md)
-
-[Sehir Tercihi - 2](08/sehir-tercihi-ii.md)
-
-[Sehir Tercihi - 3](08/sehir-tercihi-iii.md)
-
-[Şehir Tercihi - 4](08/sehir-tercihi-iv.md)
-
-[Şehir Tercihi - 5](08/sehir-tercihi-v.md)
+[Şehir Tercihi](08/sehir-tercihi.md)
 
 [Almanya ve Sol](09/almanya-ve-sol.md)
 
