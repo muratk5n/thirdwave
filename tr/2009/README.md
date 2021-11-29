@@ -16,127 +16,19 @@
 
 [Gazeteler ve Dusunulemezi Dusunmek](03/gazeteler-ve-dusunulemezi-dusunmek.md)
 
-[Michael Milken](03/michael-milken.md)
-
-[Mundell: Kriz ve Cozum](03/mundell-kriz-ve-cozum.md)
-
-[Obama ve Charter Okullari](03/obama-ve-charter-okullari.md)
-
-[Obamanuf Already](03/obamanuf-already.md)
-
-[Reklamlar](03/reklamlar.md)
-
-[Secmen Hafizasi](03/secmen-hafizasi.md)
-
-[Shuttleworth ve Egitim](03/shuttleworth-ve-egitim.md)
-
-[Şili](03/sili.md)
-
 [Totaliter Arap Rejimleri](03/totaliter-arap-rejimleri.md)
-
-[Twitter](03/twitter.md)
-
-[Kontrol Edici Nokta](03/yeni-harcama-oranlari.md)
-
-[10 Kural: Siyah Kugulara Hazir Olmak](04/10-kural-siyah-kugulara-hazir-olmak.md)
-
-[Açık Veri](04/ack-veri.md)
-
-[Bir Harmanlama Denemesi](04/bir-harmanlama-denemesi.md)
-
-[Burger Pisirmek](04/burger-eti-pisirmek.md)
 
 [Bürokrasi](04/burokrasi.md)
 
-[Bürokrasi](04/burokrasi_22.md)
-
-[Dini Anlayabilmek](04/dini-anlayabilmek.md)
-
-[Fay Hatti ve Dizi](04/fay-hatti-ve-dizi.md)
-
-[Fikri Altyapi](04/fikri-altyapi.md)
-
-[Geithner Plani Iyi](04/geitner-plani-iyi.md)
-
-[Obama ve Bilim Butcesi](04/obama-ve-bilim-butcesi.md)
-
-[Ozgurluk Alani](04/ozgurluk-alani.md)
-
-[Trystorming](04/trystorming.md)
-
 [Yaratıcılığın Kumaşı](04/yaratclgn-kumas.md)
-
-[Yeni Zenginlik ve İfade Özgürlüğü](04/yeni-zenginlik-ve-ifade-ozgurlugu.md)
-
-[Bankalar](05/bankalar.md)
-
-[Kurumsal Değişim Sancıları](05/degisim-sanclar.md)
-
-[Ek](05/ek.md)
-
-[Ekonomik Manhattan Projesi](05/ekonomik-manhattan-projesi.md)
-
-[Kelime Oyunlari](05/kelime-oyunlari.md)
-
-[Lending Club](05/lending-club.md)
-
-[Notralite](05/notralite.md)
-
-[Sehirlerin Ruhu](05/sehirlerin-ruhu.md)
-
-[Tarihin Tozlu Rafları](05/tarihin-tozlu-raflari.md)
 
 [TRT Mars Açıldı](05/trt-mars-acld.md)
 
-[Uygurlar Yokolurken](05/uygurlar-yokolurken.md)
-
-[Uzay Yolu XI](05/uzay-yolu-xi.md)
-
 [Uzaylı magdur edildi](05/uzayli-magdur-edildi.md)
-
-[Wolfram Alfa](05/wolfram-alfa.md)
-
-[Yeni Baris Atilimi](05/yeni-baris-atilimi.md)
-
-[Yeni Egitim - 1](05/yeni-egitim-i.md)
-
-[Yeni Egitim - 2](05/yeni-egitim-ii.md)
-
-[Yeni Egitim - 3](05/yeni-egitim-iii.md)
-
-[Basın Degisirken](06/basin-degisirken.md)
 
 [Baykal soyadını değiştiriyor](06/baykal-soyadini-degistiriyor.md)
 
-[Biat, Itaat](06/biat-itaat.md)
-
-[Bitirme Plani](06/bitirme-plani.md)
-
-[bit.ly](06/bitly.md)
-
-[Catcher in the Rye ve Net Jenerasyonu](06/catcher-in-rye-ve-net-jenerasyonu.md)
-
 [Demagoji ve Marks](06/demagoji-ve-marks.md)
-
-[Edge](06/edge.md)
-
-[Enternasyonalizm](06/enternasyonalizm.md)
-
-[Guzel Konusma](06/guzel-konusma.md)
-
-[#Hackedu](06/hackedu.md)
-
-[Inovasyon Eksikligi](06/inovasyon-eksikligi.md)
-
-[Iran'da Secim Sonuclari](06/iranda-secim-sonuclari.md)
-
-[Jeomuhendislik](06/jeomuhendislik.md)
-
-[Kotu Cocuk Iran](06/kotu-cocuk-iran.md)
-
-[Kredi Kart Sirketleri](06/kredi-kart-sirketleri.md)
-
-[Mandrake](06/mandrake.md)
 
 [Megastudy](06/megastudy.md)
 
