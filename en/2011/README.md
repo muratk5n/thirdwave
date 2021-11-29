@@ -206,39 +206,7 @@
 
 [Zuckerberg](05/zuckerberg.md)
 
-[Analytical Shortcuts](06/analytical-shortcuts_11.md)
-
-[China's Cell Phone Pirates Are Bringing Down Middle Eastern Governments](06/chinas-cell-phone-pirates-are-bringing.md)
-
-[Fascinating](06/fascinating.md)
-
-[Future of Work](06/future-of-work.md)
-
-[How To Party Your Way Into a Multi-Million Dollar Facebook Job](06/how-to-party-your-way-into-multi.md)
-
 [The Inheritance of Rome](06/inheritance-of-rome.md)
-
-[Martin JetPack](06/martin-jetpack.md)
-
-[MIT Weirdness](06/mit-weirdness.md)
-
-[Ninety gaffes in ninety years](06/ninety-gaffes-in-ninety-years.md)
-
-[No joke: This is the biggest battery breakthrough ever](06/no-joke-this-is-biggest-battery.md)
-
-[Noise Cancelling](06/noise-cancelling.md)
-
-[On the last gap](06/on-last-gap_22.md)
-
-[Ritualistic Science](06/ritualistic-science.md)
-
-[U.S. Underwrites Internet Detour Around Censors](06/us-underwrites-internet-detour-around.md)
-
-[Wii U](06/wii-u.md)
-
-[Wireless Local Apps for Bookstores](06/wireless-local-apps-for-bookstores.md)
-
-[Sane in the Membrane](06/wiring-in-brain.md)
 
 [How Things Change](07/how-things-change.md)
 
