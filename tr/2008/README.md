@@ -24,59 +24,13 @@
 
 [Obama, Clinton](03/obama-clinton.md)
 
-[Al Kaide ve Petrol](06/al-kaide-ve-petrol.md)
-
-[Aydinlik](06/aydinlik.md)
-
-[Cumhuriyetin Temelleri](06/cumhuriyetin-temelleri.md)
-
-[Etkiler](06/etkiler.md)
-
-[Tepe Nokta Hesabı](06/hubbert-egrisini-hesaplamak.md)
-
-[John F. Kennedy](06/john-f-kennedy.md)
-
-[Kurallar](06/kurallar.md)
-
-[Rusya Tepe Noktasi](06/rusya-tepe-noktasi.md)
-
-[Sekil ve Esas](06/sekil-ve-esas.md)
-
-[Son Petrol Krizi](06/son-petrol-krizi.md)
-
-[Star Trek ve Freud](06/star-trek-ve-freud.md)
-
-[Tepe Noktası](06/tepe-noktasi.md)
-
 [Asrin roportaji](07/asrin-roportaji.md)
-
-[Aydinlik - 2. Bolum](07/aydinlik-2-bolum.md)
 
 [Baykal: Darbe olmaliydi](07/baykal-darbe-olmaliydi.md)
 
-[Blitzkrieg](07/blitzkrieg.md)
-
-[Darbe Gunlukleri](07/darbe-gunlukleri.md)
-
-[Değişime direnen silinecek!](07/deiime-direnen-silinecek.md)
-
 [Hiciv Denemeleri](07/hiciv-denemeleri.md)
 
-[Hint Usulu Harvard](07/hint-usulu-harvard.md)
-
-[Imalat ve Teknoloji Katkisi](07/imalat-ve-teknoloji-katkisi.md)
-
-[Kurumlara Guven](07/kurumlara-guven.md)
-
-[Obama Berlin Konusmasi](07/obama-berlin-konusmasi.md)
-
 [Rusya](07/rusya.md)
-
-[Sosyalizm ve Demokrasi](07/sosyalizm-ve-demokrasi.md)
-
-[YBD - 11/7](07/ybd-117.md)
-
-[Yeni Alti Ok](07/yeni-alti-ok.md)
 
 [40 yıl sonra… yeniden 68](08/40-yl-sonra-yeniden-68.md)
 

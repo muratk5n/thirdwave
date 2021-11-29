@@ -723,10 +723,303 @@ yukselttigine inanmiyor. Yani "buyuk konuda" Krugman, Gokce ayni
 fikirde - ben de katiliyorum, ama/ayrica spot ve gercek fiyat farki
 konusundaki bir hataya ve genel trende isaret ediyorum.
 
+---
+
+Neyse: Aydinlik'in son sayisi, Ergenekon sorusturmasi hakkinda
+etekleri tutusmus, panik olmus bir ruh halini yansitiyor. Taraf
+gazetesi artik bir numarali dusman haline gelmis ve o kadar cok
+referans edilmis ki, Aydinlik'in politik durus baglaminda "ayna
+yansimasinin" kim oldugu artik iyice belli. Aydinlik Taraf'i bir oraya
+bir buraya iliskilendirmek icin cirpinip duruyor: Beni en cok gulduren
+su ifadeydi:
+
+"Taraf gazetesi her gun muntazam olarak tercume edilerek AB'ye
+sunuluyor".
+
+Hahaha :) Bu cenahi bilmeyenler icin belirtelim, "AB", Aydinlik'in
+kelime haznesinde "seytan" ile esanlamli bir kelime. Bununla bitse
+iyi.. Derginin bu son sayisi artik kantarin topuzunu tamamen kacirmis,
+daha kapaktan taarruzu baslamislar; Artik incelik nezaket falan yok;
+Eski GK baskani Sn. Hilmi Ozkok hakkindaki ifade aynen soyle:
+
+"Cuvalci Komutan!". :)
+
+Allah iyilik versin...
+
+Neyse: Diger sayfalar yeni adresi "Tekirdag F-tipi cezaevi" olan bir
+lidere olan sevgi gosterileri, ona gonderilen mektuplarin coklugu, ve
+AB/D hakkinda onlarca komplo teorisiyle dolup tasmakta.. Ve bir sure
+sonra artik gulecek misiniz aglayacak misiniz sasirir hale
+geliyorsunuz. Bu insanlar nasil oldu da bu kadar kafalarini kendi
+g**une sokabilmis, insanin akli almiyor. Ama daha onceki bir yazida
+belirttigimiz gibi, aslinda bu tur fikirlerin varligi da istatistiki
+bir gercek. Uc noktalarin olmasi kacinilmaz.
+
+Bize de bu hikayelere gulmekten baska bir sey kalmiyor.
+
+---
+
+Strateji çevreleri dışında herkesin anlamını muhakkak bileceği az
+kelimelerden biri herhalde Blitzkrieg kelimesidir. Kime sorarsanız
+bunun 2. Dünya Savaşı sırasında bir Alman tarruzu ile ilgili bir
+kavram olduğunu az buçuk tahmin edecektir. Evet, Blitzkrieg, yani
+"yıldırım savaşı", ilk kez Almanlar tarafından uygulanan, hızla düşman
+savunmasına akın etmek ve bu sayede düşmanı şaşırtıp "yıldırım
+çarpmışa" çevirmek amaçı güden bir stratejiydi.Herkes tarafından
+bilinmeyen, bu saldırının 1940 tarihinde alıcı tarafında olan
+Fransızların ateş gücü teçhizatı açısından aslında Almanlardan daha
+üstün konumda olmasıydı! Buna rağmen Fransızlar Blitzkrieg'e muhatap
+oldukları muharebeyi kaybetmişler ve akabinde 2 ay sonra tüm Fransız
+ordusu çöküntüye uğramıştır. Peki Blitzkrieg'in başarısı nerede
+yatıyordu?Sorunun cevabı şu kelimelerle verilebilir: Bilgi ve alanda
+gayrı-merkezi otonom savaşabilen komutanlar.Blitzkrieg yapılanmasının
+en can alıcı noktası, tüm tanklarda ve onlara destek olan hava
+kuvvetlerine telsiz (radio) aletinin koyulmuş olmasıdır. Telsiz
+sayesinde tanklar savaş alanında hızlı bir şekilde iletişime
+geçebiliyor, ve bu sayede merkezden bağımsız hareket edebilen saha
+komutanları esnek bir şekilde o anda gördükleri boşluklardan istifade
+ederek, bu bilgiyi dağıtıp, emirleri verip, ve arkalarına da hava
+desteği alıp (bu çok önemli) anında ileri doğru taarruza
+geçebiliyorlardı. Yani bilginin tank/uçak koordinasyonu bağlamında ilk
+kez aktarılması için imkan veren yeni telsiz kullanımı, Blitzkrieg'i
+başarılı yapan en önemli noktaydı.
+
+---
+
+Darbe Gunlukleri gazeteler tarafindan yayinlanmaya basladi. Bunu yapan
+Nokta baskilar sonucu kendini kapatmisti, ama bilgi caginda gordugumuz
+gibi, bilginin uzerine oturmak mumkun olmuyor. Bilgi, su gibi,
+araliklardan, catlaklardan yavas yavas damliyor, sonra catlagi
+buyutup, onundeki engelleri yikarak akacagi yere dogru akiyor.
+
+Yayinlanan gunlukler icinde en kapsamli olani Yeni Safak'in
+yayinladigi - otekiler gunlugun bazi kisimlarini traslamislar. Biz de
+Yeni Safak'in DOC belgesini PDF'e cevirdik ve yandaki "Bilgi"
+bolumunden yayinladik. Bu daha kapsamli gunlukte Ozden Ornek'in
+cuvaldizi kendine/kurumuna batirdigi yerleri de gormek mumkun, mesela
+siviller ile iliskiler hakkinda konulmus kurallari kati bulmasi,
+Ataturkculugun dogmalastirilmasi hakkindaki sikayeti [1], 30 Agustos
+torenlerinin yapilis seklini anlamsiz bulmasi.. Bu fikirlere aslen biz
+de katiliyoruz. Sn. Ornek bu analizleri belki biraz daha ilerletmis
+olsa, ve sosyoloji, tarih, ekonomi hakkinda biraz daha donanimli olmus
+olsa (nasil olsun tabii, sonucta meslegi bu degil -problem de buradan
+cikiyor zaten-), herhalde su anda okudumuz gunluk cok daha farkli
+sekilde yazilmis olurdu.
+
+Siviller ile olan iliskilerin resmedilme sekli cok ilginc, ve bana
+yillarca once bir ust duzey askerin aktardigi bir gozlemi
+hatirlatiyor; "Murat" demisti "asker hicbir seyden korkmaz, ama
+paradan cok korkar [2]". :) Gunlukte, siviller ile iliskilerin, onu
+istemeyenler tarafindan hemen "menfaat iliskisi!" diye etiketlenmesi,
+yillarca once duydugum bu soze tam uyuyor galiba.
+
+[1] Ataturkculuk ya da Kemalizmde modernite sonrasi yeni entellektuel icin ilginc fikirler bulamazsiniz. Bilimin onemli oldugunu idrak etmek icin kimsenin "hayatta en hakiki mursit ilimdir" sozunu duymus olmasi gerekmez. Bu mesaj, cagimizda, zaten her yerde yaygin bir sekilde tekrarlanan bir mesajdir. Bilgi toplumunun belkemigidir. Bu sozu bilmeseniz de, yeni ekonominin gereklilikleri sizi o yone dogru ittirecektir. Ornek'in yazdiklari baglaminda esas onemli olan, en azindan, bu ve benzeri ozdeyisler ile yetistirilmis birinin ufak ta olsa kendi kafasiyla dusunebilme (dogmaya karsi olmak budur) konusunda "rahatsizlik hissetmeye baslamis" olmasidir.
+
+[2] Askerin "hic bir seyden korkmadigi" tabii ki hamasi bir soylem.
+
+---
+
+Taraf gazetesi yazari Cemil Ertem'in yeni / eski ekonomi vurgulari bu
+blog'unki ile ayni. Biz, Clinton'un eski ekonomi cenahina onlari hos
+tutmak icin hafiften "kemik attigini" belirtmistik. Alttaki gorus,
+kemik atmaktan ziyade daha da ileri gidildigi vurgulanmakta, hatta
+yazara gore Clinton aslinda bilgi teknolojisine gecis anini
+"iskalamis". Ama uretim metotundaki muthis degisim engellenebilecek
+bir kuvvet degil, ve degisim er ya da gec kapiya geliyor ve bu dalgada
+(!) en iyi sorf yapan kazanacak.
+
+Cemil Ertem: "Bir kere bu “kriz” ne yüzyılın başındaki krizle, ne de
+1929 kriziyle karşılaştırılabilir.
+
+Yaşadıklarımız 1973 krizinin kuyruğu ve bir kabuk değişimi. Clinton
+bunun böyle olduğunu anlayamadı ve 1990’ları harcadı. Eğer Clinton
+yönetimi 1973 kriziyle geriye giden ve yerini bilişim teknolojilerine
+bırakması gereken silah-petrol ve kimya sanayilerinin kârlarını
+arttıracak finansal operasyonlar yapmayıp, yeni ekonominin önünü
+açsaydı, bu kriz bu kadar ağır olmayabilirdi. Belki de Bush belasıyla
+hiç tanışmayacaktık.
+
+Clinton yönetimi eski ekonomiyi desteklemek ve Amerika’ya fon girişini
+sağlamak için, dolar devalüasyonuna, ücretlerin baskılanmasına, vergi
+indirimlerine gitti. ABD imalat sanayiinin kârlılığı hızla artı. Ancak
+bu artış iki önemli sonuca yol açıyordu. Birincisi teknolojik
+verimlilikleri hızla düşen “eski ekonomi” şirketlerinin geçici –sahte-
+kârları hem finansal piyasaları zehirliyor hem de iç talebi gereksiz
+şişiriyordu. İkinci olarak ABD, böyle yaparak Japonya’yı vurmaya
+başlamıştı. Değeri düşen dolar, rekabetçi sanayi, Japon mallarını
+silmeye başladı. ABD Maliye Bakanı Robert Rubin, böyle giderse
+Japonya’nın ABD tahvillerinden çıkacağını ve bunun felaket olacağını
+söyleyerek, Japon parasının değerinin düşürülmesini ve Japon Merkez
+Bankası’nın faizleri indirip daha fazla ABD tahvili almasını
+sağlayacak anlaşmayı gerçekleştirdi. (Ters Plaza Anlaşması) Ancak
+bundan sonra dolar değerlenip ABD faizleri yüksek kaldığı için ABD
+sanayii rekabetçi gücünü kaybetti ama ABD’ye Avrupa ve Japonya’dan fon
+akmaya başladı. Böylece ABD ekonomisi hızla borçlandı; dolar
+değerlendi, faizler de hep olması gerekenden yüksekte kaldı. Bu süreç
+Enron gibi skandalları, Bush yönetimini ve 11 Eylül’ü yarattı.
+
+Clinton, elinin altındaki tarihsel dönüşüm imkânını böyle harcayıp
+Bush’u iktidara getirdi.
+
+Şimdi bugüne bakalım: Clinton döneminde şişen ve zehirlenen mali
+piyasalar temizleniyor, bu bir. İkincisi de 1973 krizinden kalma ama
+Bush ve neo-conlarla hortlayan petrokimya, demir-çelik-silah
+sanayileri ana kontrol sanayii olmaktan çıkıp yerini bilişim
+teknolojilerine, iletişime bırakıyor. İşte bakın, mali sistem yerlerde
+sürünürken, Intel’in ikinci çeyrek kârı yüzde 25 arttı. Intel Başkanı
+Otellini, tüm dünyada ürünlerine olan güçlü talebin sürdüğünü
+söylüyor. Büyük ihtimalle Intel’in rakipleri IBM, Microsoft, Google,
+Micro Devices da kâr açıklayacak. Ama öte yandan bu hafta Amerikan
+Sermaye Piyasası Kurulu (SEC) aralarında Citigroup, Goldman Sachs,
+Deutsche Bank, Lehman Brothers ve Morgan Stanley’in de bulunduğu
+toplam 18 mali sektör hissesinde açığa satışı yasakladı. İşin ilginci
+SEC bu uygulamayı 1934’te çıkan bir yasaya dayanarak yapıyor. Şu an
+yaşadığımız 1929’daki kriz gibi bir kriz değil, daha çok bir değişim
+sancısı. 1995 yılında ABD ekonomisindeki ileri teknoloji malları katma
+değeri, imalat sektörü toplam katma değerinin yüzde 13,3’ünü
+oluştururken bugün bu değer yüzde 55’lerde. Bu çok önemli bir değişim
+işareti. Bunu göz ardı edemeyiz.
+
+Ancak, çok batan olacak; değişmemeye direnenler silinecek. Dünyanın
+her yerinde böyle; Değişimin önünde durulmuyor"
+
+---
 
 
+Wipro sirketi Hindistan'in en buyuk IT yazilim sirketidir. Cirosu
+gecen sene 3.4 milyar dolara gelen bu sirket, artik kendine gereken
+sayida ve kalitede calisani Hint universite sisteminden alamayacagini
+anlayinca, alternatif bir cozume basvurdu. Sirketinin bir bolumunu
+dersleri, profosorleri olan bir universiteye cevirmek. Bu egitim
+bolumu aynen bir kampus havasinda, ogrenciler buyuk kucuk siniflarda
+derslere gidiyorlar, cikista kafateryalarda oturuyor, lab'lere
+giriyorlar. "Wipro universitesi"'nde 300 akademisyen calismakta ve bu
+akademisyenlerin Wipro'dan aldiklari maas, universite sisteminden
+aldiklari maastan cok daha yuksek!Okulda master seviyesinde dersler
+var. MBA programi, liderlik, idarecilik hakkinda dersler sunuluyor. Bu
+seviyedeki dersler de bir gereklilikten ortaya cikmis - bir yazilim
+sirketi icin calisan kaybetmemek cok onemlidir cunku bilgi iscileri
+cevherlerinin kafalarinda tasiyan kimseler olduklari icin, bir
+merkeze, "fabrikaya" bagli degillerdir - Wipro master seviyesindeki
+programlari sayesinde kensini daha iyi gelistirmek isteyen Wipro
+calisanlarini kendine baglamayi basarmis. Kayip %1 seviyesinde (cok
+iyi bir rakam).Alinti: Fast CompanyNot: Yazilim sektorunde, tum
+dunyada, calisanlarini tutmak icin kiyasiya bir rekabet yasanir ve en
+iyi sirketler, en iyi adamlari tutmak icin cok ugrasirlar. Belli bir
+sure calistiktan sonra aktif olacak sirket hisseleri (stock options)
+bu "sadakati" saglamanin yollarindan sadece birisidir. Daha ileri
+gidenler oluyor - mesela su anda Google'in "kampusunde" gurme yemek
+yapan ascilari, istediginiz anda hizmet veren masorleri var! Camasir,
+kuafor hizmetleri sirketin icinde. Beach voleybol kortu var (sirket
+baskani da arada sirada burada oynar). Yani 5 yildizli otel servisi
+havasinda calisma ortami ve cogu angaryanizin yapilmasinin
+rahatlastigi bir ortami dusunelim; Calisan boylece hem isine daha
+rahat odaklanir, hem de baska sirkete gitmek istemez.Burada
+cognetariat denen yeni sinifin (yani bizim) tercih ettigi hayat tarzi
+hakkinda da ipuclari var. Ev ile is birbirinin icine girmis, birbirine
+donusmus/tamamlamis gibi sanki ve ne zaman eglence biter ne zaman is
+baslar belli olmuyor... Bilgi isinin icinde onemli miktarda
+yaratilicik oldugu icin zaten bu serbestligin olmasi da
+gerekmekte... Sahsen calistigimiz sirketlerde gun ortasinda
+CounterStrike, ya da langirt (foozball) oynamak anormal bir durum
+olmazdi, hatta cok yogun zihni caba sarfettiginiz zaman rahatlamak
+icin (blow off steam) boyle yan ugrasilar gerekli bile olmaktaydi.
 
+---
 
+Ne zaman "kurumlara guven" hakkinda bir istatistik gorsek, bu basligi
+kendi zihnimizde tercume etmemiz gerekiyor: Aslinda belirtilmek
+istenen herhangi bir konunun cozumununde "hangi kurumun otekinden daha
+basarili olacagi" degil, yani "kurumlar arasinda bir yaris" degil, her
+kurumun, otekilerden bagimsiz olarak, kendi isini yapmakta ne kadar
+basarili oldugu.GENAR'in kurumlara guven ve diger istatistiklerini
+iceren calismasi surada. Guven istatistigi altta gorulebilir.Bu
+istatistigi nasil toplamislar? Aciklamasi GENAR dokumaninda
+yok. Herhalde soyle yaptilar; Deneklerin her birine kurumlarin isminin
+yazildigi bir liste verdiler ve her kurum isminin yanina 1'den 10'a
+kadar olan bir skalada o kuruma ne kadar guvendigini not etmesini
+soylediler. Sonra bu puanlarin ortalamasini aldilar.Sonuclara bakalim
+ve sormaya baslayalim. Mesela Milli Takim. "Milli Takim isini (yani
+futbol oynamayi)" iyi bir sekilde gerceklestiriyor mu?". Cevap, 10
+uzerinden 8.4. Demek ki Milli Takim'in iyi futbol oynadigi, ya da,
+elinden geleni yaptigi hakkinda bir konsensus var.Ordu (aslinda
+silahli kuvvetler demek lazim, niye illa "Ordu?") hakkinda gorevini
+yaptigi, ya da (herhalde) is duserse, memleketi savunacagi yonunde bir
+gorus var. Bu sonuc ta mantikli gelebilir; Yani, etraftan saldiran
+olsa, memleket kendini savunacak durumdadir... Hiyerarsi var midir?
+Vardir. Topu tufegi tanki var midir? Vardir. Guzel.  Zorunlu askerlik
+kaldirilmalidir, evet, ama bu mevcut yapilan isin "daha verimli"
+yapilmasi ile alakali gorulebilir.Surpriz olmayan diger rakamlar,
+Hukumet ve Cumhurbaskanligi: Bu rakamlar aslinda, 5.2 ve 6.3,
+sirasiyla AKP'nin ve (eger Cbaskanligi secimi olsa) Sn. Abdullah
+Gul'un popularitesini ve oy oranini yansitiyor.
 
+Hakikaten de, siyasilere guven kismina bakiyoruz, Erdogan ve Gul
+popularitesi 5.3 ve 6.1. Cok yakin (bu sebeple bu veri yeni bir sey
+soylemiyor).Meclisin "isini dogru yapip yapmadigi" rakami 5.9 -> %59
+bence AKP'ye verilen oy %47, arti %12'lik bir kesim.. Hmm. Mecliste
+yapilan isi iyi bulan ve AKP'li olmayan bu insanlar kimdir? CHP
+secmeni mi, MHP secmeni mi?  Bu kalem daha detaylandirilmaliydi. Daha
+profosyonel raporlarda, ayni sonuclar degisik "acilardan",
+"kesitlerden" birkac kere daha verilir. Alt kategorilere inilir.Medya
+acikca soylemek gerekirse yerlerde surunuyor. Bu kadar dusuk bir
+rakami, ancak hangi secmen grubu olursa olsun felaket dusuk puanlar
+alarak toplayabilirsiniz. Bence medyanin "ciddiyet" yansitamama gibi
+bir problemi var. Gazeteler mesela surekli ciplak kari resimleri
+vererek bence bu ciddiyeti kendileri baltaliyorlar; Lutfen kimse
+burada "Ingiliz model gazeteciligi aldik" falan demesin, The Guardian
+gibi ciddi bir gazeteyi alsaniz, bizdeki sacmaliklari
+bulamazsiniz. Eger "patlamis misir" goruntusu verirseniz, millet sizi
+patlamis misir yerine koyar, hicbir zaman "ana menu"'ye
+giremezsiniz. Bizden soylemesi. Ayrica yine basili yayinda asiri fazla
+renk cumbusu var, cogu da zevksiz sekilde kullanilmis berbat bir
+duzenleme icinde...
 
+Bu "kolaj" icinde yazili metne dikkat cekilemiyor ve magazin ile ciddi
+haberin birbirine girmesi abuk bir sentez yaratiyor.  Ergenekon
+medyasi zaten yerlerde surunuyor, haber karartma, yalan yazmak, her
+turlu cirkeflik var. Bunlar zaten batmis. Ama dedigim gibi, bu kadar
+dusuk puan halkin sadece tek bir kesiminin dusuk notuyla
+alinmaz.Televizyon hakkinda pek yorum yapamayacagiz, cunku artik
+televizyon (yani klasik anlamda) seyretmiyoruz. Bizim nesil, bilginin
+basina "itildigi (push)" nesli degil, eglenceyi, bilgiyi, vs. istedigi
+zaman, istedigi yerde "kendine ceken (pull)" neslidir. Dizileri,
+politik soylesi programlarini (mesela) iTunes gibi bir yerden
+istedigimiz anda alir, ve istedigimiz anda/yerde seyrederiz. Saat maat
+beklemeyiz.Medyanin ciddiyetsizlik problemine donersek, bir diger
+problem bilimsel konularda "bir biline danismama" hastaligi. Bu
+medyanin her tarafinda var - cok cetrefilli konulara "her konudan
+cakan" bir takim genellemeci tipler [1] ortama dahil olup, saga sola
+fikir yetistirmeye ugrasiyorlar, bu blogda tokatlamaktan kolumuz
+yoruldu, bizim (ve diger blogcularin) kacirdigimiz kimbilir baska
+neler oluyor.Surpriz olan yargiya guven: 5.7. Bu rakam, CHP, MHP
+secmenlerini asan bir rakam, demek ki AKP secmeninden yargiya guvenen
+var. Bu iyi bir haber, tabii Ergenekon yargi sistemi acisindan bir
+basaridir, insallah nihayetine ulasir, ayrica kapanma davasi demokrasi
+yonunde sonuclanirsa insanlarin guveni daha da artacaktir. Sunu
+eklemek lazim ki, siyasetciler, siyasi kurumlar hakkinda, onlara oy
+verenlerin dusunceleri direk rol oynar, ama bagimsiz olmasi gereken
+yarginin siyasi kurumlardan fazla 8, 9 seviyelerinde bir puan almasi
+daha iyi olurdu.---[1] Ingilizcede boyle tiplere "jack of all trades,
+master of none" denir, "her seyden cakar, ama hicbirini tam bilmez"
+diye cevrilebilir.
+
+---
+
+Kemalist ideolojisini bugun ustlenmis kisilerin alti oku aslinda soyle
+olmali:
+
+1- Laikçilik
+
+2- Halka ragmen Halkçılık
+
+3- Batıya ragmen Batıcılık
+
+4- Darbecilik
+
+5- Statükoculuk
+
+6- Irkçılık
+
+---
 

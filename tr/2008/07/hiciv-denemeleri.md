@@ -1,32 +1,29 @@
 # Hiciv Denemeleri
 
-Yeni bir kategori baslattik; Bu yeni "hiciv" kategorisi altinda
-disarida The Onion geleneginde olan ciddi/saka havasinda bazi
-yazilarimiz olacak.
+Yeni bir kategori başlattık; Bu yeni "hiciv" kategorisi altında
+dışarıda The Onion geleneğinde olan ciddi/şaka havasında bazı
+yazılarımız olacak.
 
-Turkiye'deki bazi olaylar oyle sacma ve aptalca ki, bunlari elestirmek
-ve kizmak yetersiz, bunun otesine gecmeniz gerekiyor, dalga gecmek ve
-makaraya almak lazim ve gerekli. Su anda ulkemizde bir politik komedi
-kitligi var; kimsenin burnundan kil aldirmamasi ayrica komedyenlerin
-komedi yapabilmek icin gereken dogru politik goruste olmamalari burada
+Türkiye'deki bazı olaylar öyle saçma ve aptalca ki, bunları eleştirmek
+ve kızmak yetersiz, bunun ötesine geçmeniz gerekiyor, dalga geçmek ve
+makaraya almak lazım ve gerekli. Şu anda ülkemizde bir politik komedi
+kıtlığı var; kimsenin burnundan kıl aldırmaması ayrıca komedyenlerin
+komedi yapabilmek için gereken doğru politik görüşte olmamaları burada
 rol oynuyor.
 
-Alttaki karikatur dergisi basligi, Ergenekon olayi patladiktan sonra
-cikti ve Turkiye siyasi mizahinin icinde oldugu hazin durumu
-yansitmaktadir.
+Alttaki karikatür dergisi başlığı, Ergenekon olayı patladıktan sonra
+çıktı ve Türkiye siyasi mizahının içinde olduğu hazin durumu
+yansıtmaktadır.
 
 ![](fft16_mf72274.Jpeg)
 
-Tam bir beyin durmasi durumunu gozluyoruz.Not: The Onion'in unutulmaz
-basliklarindan bir tanesi "Suriye 15 Milyon Arap Barindiriyor"
-basligidir. Burada kitle medyasi ve savas tamtamcilari ile dalga
-geciliyor; Genelde bu haber "vs ulkesi .. tane terorist barindiriyor!"
-havasinda cikar. The Onion'da terorist yerine Arap kelimesi
-kullanmislar, ve "barindiriyor" demisler, o ulkede yasayan insanlardan
+Tam bir beyin durması durumunu gözlüyoruz.Not: The Onion'ın unutulmaz
+başlıklarından bir tanesi "Suriye 15 Milyon Arap Barındırıyor"
+başlığıdır. Burada kitle medyası ve savaş tamtamcıları ile dalga
+geçiliyor; Genelde bu haber "vs ülkesi .. tane terörist barındırıyor!"
+havasında çıkar. The Onion'da terörist yerine Arap kelimesi
+kullanmışlar, ve "barındırıyor" demişler, o ülkede yaşayan insanlardan
 bahsediyorlar tabii. Tam makara..
-
-
-
 
 
 
