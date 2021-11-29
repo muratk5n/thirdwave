@@ -732,3 +732,100 @@ gibi mercilere gitmek yerine bölgelerinden seçtikleri vekillere daha
 
 ---
 
+Sinan Cetin ile yapilmis roportajlarin ilginc gelen bir bolum surasi:
+
+1974 veya 75 yıllarıydı. Deniz Baykal, Bülent Ecevit hükümetinde
+Enerji Bakanı olmuştu. Baykal, bakan olduktan sonra ilk iş olarak
+madenleri devletleştirdi. Bunun üzerine rahmetli Uğur Mumcu, ben, Işık
+Yenersu ve Fikret Hakan toplanıp onu bu kararından dolayı kutlamaya
+gittik. Hayatta hatırladıkça sıkıldığım anlardan biridir bu
+olay. Madenleri devletleştirerek kendine göre entelektüel
+sosyalistlerin gözüne girmeye çalıştı ve bu madenler daha sonra teker
+teker kapatıldı. Binlerce insan işsiz kaldı. [..] Devlete ait
+zenginlikler millete geçmeden bu ülkede kurtuluş yok. Hal böyle iken
+bizim bu devletçi kararından dolayı Deniz Bey’i tebrik etmeye gitmemiz
+hayattaki en büyük pişmanlığımdır.
+
+---
+
+Bir onceki yazida, Tom Friedman'dan ornek vererek kendisinin ortaya
+koydugu modelin yanlis fakat kivaminin dogru oldugunu
+soyledik... Buradan bir sonuc daha cikar: Yanlislanabilen model ortaya
+atmak onun yanlis olma ihtimalini fazlalastiracagi icin, bu sekilde
+dusunce, belli bir cesaret gerektirir.
+
+Evet, model koyarak kendini ortaya atmak bir cesaret isidir. Ve bilgi
+ekonomisi surekli verinin aciklanmasini gerektirdigi, hatta bunu
+gunluk bir is haline getirdigi icin, yeni ekonomide basarili olmak
+isteyen sirketler ve kisiler, bu tur cesaretin onunu acmak zorundadir.
+
+Bilgi ekonomisinde en ileri olan ABD'de sirketlerin yanlislanabilir
+(yani kuvvetli) fikirlerin onunu acabilmek icin kullandigi "beyin
+firtinasi (brainstorming session)" tekniginin amaci budur. Modellerin
+yanlis olsun olmasin ortaya cikabilmesinin onunu acmak icin, bu tur
+serbestlige bir isim verilmis ve bu sayede ona sosyal bir "zirh"
+saglanmis olmaktadir. Bu zirh, bir calisma grubundaki insanlarin
+birisinin yanlis veya aptalca (gozuken) bir seyi ortaya attiginda,
+digerlerinin onun ustune cullanmasini engellemek icin yapilmistir.
+
+Bireysel seviyede, bunu is ahlakina yansimalari vardir. Baskalarinin
+ve bireyin kendi hatalari artik kariyer icin kotu etki eden olaylar
+degildir. Cunku istatistiki olarak dusunursek, yanlislanabilir
+dusunenlerin hata yapma olasiligi zaten daha fazladir. Fakat dogru bir
+model bulduklarinda da bu modelin kuvveti dolayisiyla bunu yansimalari
+basarili bir urun, daha fazla kar, piyasada daha genis pay anlamina
+gelecektir. Edison ampulu bulmadan once binlerce deneyi basarisiz
+olmustur. Fakat dogru olani buldugunda, elektrik ile aydinlanmanin onu
+acilmistir.
+
+Bu sebeple fikirler ve modeller ortaya atarken "karizma", "onu nasil
+soylersin" turunden kelimelerin ve hissiyatlarin ortada gezinmesi,
+kuvvetli modellerin ortaya cikmasini baltaliyici bir ortamin olduguna
+isaret edecektir. Yeni dunyada basarili bir kurum sahibi olmak isteyen
+her yonetici, bu tur kelimelerin ve hissiyatlarin kulturunden arinmasi
+icin aktif bir sekilde ugrasmalidir.
+
+---
+
+Tekrar belirtelim: Biz hala bu yasagin etrafindan dolasmaya devam
+ediyoruz - fakat tutarlilik acisindan yasakcilara sunu belirtmek
+gerekiyor: Eger "zararli" icerik dolayisiyla YouTube kapatiliyorsa,
+Google'da da bazi kelimeler yazilinca pek cok "zararli" icerik
+cikiyor. O zaman Google'in da kapatilmasi gerekir.
+
+Serbesti ve yasakcilik oyle gayri-ciddi yapilacak isler
+degildir. Yasakciligin da bir raconu var. Cin Halk Cumhuriyeti'ne
+bakin. Ya tam yasaklayacaksin, ya da tam ozgurluk vereceksin. Iki
+arada bir derede olmak yok.
+
+---
+
+Lost dizisi hakkinda yapilan yaygin elestirilerden biri cozulmeden cok
+fazla "gizemi" ortada birakmasi... Simdiye kadar iyi ilginc hikaye
+anlatim teknikleri seyrettik - eskiyi hatirlama (flashback) ile guncel
+zamani parca parca, ayni bolumde seyrettik. Simdi, 4. sezonda, ileriyi
+hatirlama (flash forward) teknigi basladi. Buna gore 4. sezon bitmemis
+olsa bile sonucunu biliyoruz, ama tam degil, ve o sonuca nasil
+gelinecegini yavas yavas "simdiyi" seyrederek ogreniyoruz. Jack, Kate
+adadan kurtuldu, ama tabuttaki kimdi? .. Vs.Fakat cok fazla sonuca
+baglanmamis ve cok eski sezonlardan gelen bosluklar var.. Walt ne
+oldu? Waaaaaalt! :) Siyah bulut neyin nesiydi? Ben, iyi mi mi kotu mu?
+Kotu ise 4. sezon ileri hatirlamari arasinda niye Said onunla
+beraber?En azindan adanin dis dunya ile baglantilarini biraz daha iyi
+anlamaya basladik - fakat isler cok yavas ilerliyor. Artik eminim ki
+Lost her hafta yeni bir dizi usulu seyredilecek bir sey degil - bir
+sezonu, hatta bittikten sonra kut diye tum sezonlarini seyredilecek
+bir sey. DVD, Bluray ve "diger" teknikler ile bunu yapmak mumkun, ki
+aslinda teknoloji ile hasir nesir cogu insanin olagan (default)
+seyredim usulu buna yaklasmaya basladi.Bu arada, yapimcilar
+karakterlere uygun filozof isimleri bulmak icin Wikipedia'ya
+bakiyorlarmis.
+
+---
+
+Her turlu tabu yikilmak icindir...Altta Hz. Peygamber'in temsili bir
+resmini gorebilirsiniz. Elimle cizdim.
+
+![](muhammet.JPG)
+
+---
