@@ -1,3 +1,0 @@
-# Ouch
-
-![](murdoch.png)
