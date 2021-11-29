@@ -111,10 +111,3 @@ ve tüm diğer kurumların değişmemesi mümkün değildir.
 
 [1] Drucker, P., Classic Drucker
 
-
-
-
-
-
-
-

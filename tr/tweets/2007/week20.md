@@ -1,4 +1,4 @@
-# Yerel, Kuresel Dusunceler
+# Hafta 20
 
 Bir ziraat muhendisi taniyordum. Belki de cumhuriyetin ilk ziraat muhendislerinden biri olan bu zat, tam tekmilli Kemalist bir egitimden gecmis, ve ogrendiklerini daha az sansli "ulus" bireylerine asilamak icin yurda salinmis neferlerden biriydi. Kendisi egitildigi "inkilap" donemin tum ozelliklerini tasiyor, yazimiza onu inceleyerek baslayalim. Kendisine Toffler lensi ile bakacagiz.
 
@@ -41,3 +41,5 @@ Bu gecisi yapan Turkiyeli hic gormemis olsak, karamsar olabilirdik, fakat en yob
 Ozel lisemize ogretmek olarak gelen bir Turkce ogretmeni bayan (Turkce standartlastirma, tek tiplestirme araci olarak Kemalist'lerin en favori konularindandi, tarihten sonra), o karanlik, asiri sinirli, degistirmeci gorusunun 2 sene icinde yokoldugunu, bu sahsin hayattan zevk almaya basladigini ve bakisini genislettigini gozlemledik. Bu durumu birbirimize "kadin sanki nefes almaya basladi" diye anlatirdik.
 
 Darisi tum Kemalist'lerin basina.
+
+---

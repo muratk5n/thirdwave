@@ -1,4 +1,5 @@
 # 3. Dalga
+
 Kitapları Çin yönetimi tarafından 80 yıllarının başında keşfedilmiştir ve akabinde milyonlarca basılan kitabı bu ülkenin gelişmesi için en önemli kaynaklardan biri haline gelmiştir. Öyle ki, kendisinin Iİİ. Dalga (Third Wave) adlı kitabı, Çin'de "Deng Xiaoping'den Seçme Yazılar" adlı eserinden sonra satılan en çok basılan/satılan kitap olma rekorunu halen elinde buludurmaktadır. Amerika'da, 90'lı yıllarda meclis başkanlığı yapan Newt Gingrich, kendisini Toffler'in en eski okurlarından biri olarak lanse etmekten hiç çekinmiyordu. Üstad, tüm Fortune 100 şirketlerine, dünya liderlerine, şahsiyetlerine danışmanlığıyla bilinir.
 
 Blog'un ilerleyen yazılarında "üre-ketim" (prosüming) gibi kavramları işleyeceğiz. Fakat bu yazıda, Türkiye'nin açıl ihtiyaçları sebebiyle, daha antropolojik ve sosyolojik fikirlerine sığınmamız gerekecek.
@@ -39,28 +40,8 @@ Türkiye'de 2. dalganın korktuğu, çekemediği bazı insanlar da, aslında hay
 
 Ve işte bu iki faktör sebebiyle Türkiye'de çetin kızışmalar meydana gelmektedir çünkü 2. dalga takipçileri sıkı endüstriyelleşme projesini, zamanı geçmesine rağmen, sürdürmek isteyerek değirmen kovalamayı sürdürmektedirler. Bunu kültürel yansımaları bile Toffler'in eserlerinden çok net anlaşılabilir. Mesela (Cumhuriyetçi'lerin çok sevdiği) klasik müzik, aslında ileri değil endüstriyel bir kavramdır - bir senfoni orkestrası, aynen bir fabrika gibi, değişmez bir spesifikasyona dayalı bir müzik (fabrika ürünü) üretir, bu üretim çok net bir hiyerarşi ve senkronizasyon altında yapılır, orkestra şefi, bant başındaki müdürdür, müzisyenler ise işçidir. Orkestrada çok kişi çalar çünkü eski zamanlarda amfi sistemi (bilahere elektrik) yoktur, fazla ses çıkarmak için fazla insan gerekir. Yani 2. dalganın parçası olan klasik müzik, aslında geri kalmış bir kavramdır. Sanayi çağının bir parçasıdır.
 
-
 Devami: Endustriyel Ideolojilerin Temelleri
 
 [1] Toffler, A. 1970, Future Shock
+
 [2] Toffler, A. 1980, Third Wave
-
-
-
-
-
-
-
-zaman:
-
-Mayıs 05, 2007
-
-
-
-
-
-
-
-
-
-

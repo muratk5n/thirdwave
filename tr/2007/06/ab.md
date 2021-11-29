@@ -1,8 +1,6 @@
 # AB
 
-Ekteki [roportajdan](http://www.milkeninstitute.org/pdf/toftran.pdf) alinmistir:
-
-...
+[Roportaj](http://www.milkeninstitute.org/pdf/toftran.pdf)
 
 Avrupa kaybettiği yarım yüzyılı ne yapıp edip telafi etmek zorunda. AB
 projesinin bir fanatiği olmadığımı söylemek zorundayım. Bunu söylemek
@@ -57,8 +55,4 @@ mi? Değil tabii ki. Ama korkuları bir histeri seviyesinde. Gazeteleri
 "Frankenstein Yiyecekler" gibi başlıklar atıyorlar, bunlar
 saçmalık. Çoğu da Fransa'nın "korumaçı" kültürünün ABD ihracatını
 engellemeye yönelik tabii ki.
-
-
-
-
 
