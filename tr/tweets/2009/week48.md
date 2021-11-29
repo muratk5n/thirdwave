@@ -592,4 +592,257 @@ Ustad, Oyun Teorisi temelli matematiksel yontemi ile bu toplantinin basarisizlik
 
 ---
 
+93 ve öncesinde Abdullah Öcalan tarafından deklare edilen ve bir kez
+uzatılan ateşkesin bitmesine sebep olan 33 askerin oldurulmesi olayı
+hakkında pek çok spekülasyon var. Fakat, bu olayda 'derin' ve 'dış'
+bağlantıları aramaya gerek yok; gözönünde olan herkesin bildiği
+aktörlerin (yanlış) algısı, kaçınilmaz olarak herkesi tekrar savaşa
+doğru itti. 1) TSK yanlış bir şekilde ateşkesi karşı tarafın zayıflığı
+olarak algıladı ve 2) ateşkes sırasında bile saldırıya devam etti 3)
+Özal'ın ölümü sonrası TSK saldırıların şiddetini azaltmak söyledursun,
+arttırdı [1, 2].
 
+Bundan sonra, ve barış yanlısı Özal da ortada olmayınca, Apo
+komutanlarını dizginleyemedi, saldırılar karşısında asker kaybederken
+prestij de kaybediyorlardı, ve sonunda Şemdi Sakık yönetimindeki
+PKK'lılar görevde olmayan 33 askeri otobüslerini durdurup
+oldurdüler. Ateşkes bu şekilde sona erdi.
+
+[1] McDowall, D., The Modern History of the Kurds
+
+[2] Marcus, A., Blood and belief: the PKK and the Kurdish fight for independence, sf. 214
+
+---
+
+Danseeet
+
+![](5N1K-travolta.jpg)
+
+---
+
+DTP kapatildi, PKK amacina erismis gozukuyor. DTP'yi devreden
+cikartarak asal aktor pozisyonlarini guclendirdiler. Ak Parti
+demokratik acilim baglaminda bir politik parti olarak PKK'yi muhatap
+almak istemiyor, Ozal daha yoz milliyetci bir ortamda, ayni kaygilari
+tasiyordu (mesela Ocalan ile gorusmelerini Talabani idare ediyordu
+[1]) su anda gelinen durum tercih edilen bir hal olmayacaktir . Tum
+aktorlerin olayi "kimin yaptigi" hakkindaki yorumlari aslinda gercekte
+olani degil, neyin onlar icin daha iyi oldugunu gozler onune
+seriyor. Ahmet Turk "Ergenekon" dedi, cunku PKK saldirisi kapatma
+davasi oncesi onun durumunu zora sokacakti. Basbakan ayni sekilde PKK
+olasiligini azaltmaya ugrasan sozler soyluyor, biraz onceki muhataplik
+problemi yuzunden. Gercekten olan nedir?
+
+Kabak gibi ortada olandir. PKK bu isi yapmistir.
+
+AYM acisindan ise, adam bakti, "bu PKK'yi durduramiyorsun sana ne
+ihtiyacim var" dedi, ve cat diye kapatti. Hukuk filan kalmadigini
+hepimiz biliyoruz (dogru durust bir anayasa yapilincaya kadar) tek
+mevcut olan guc kapismasi.
+
+[1] Ozal'in Ocalan'a "deli herif" lakabini taktigi biliniyor,
+mesajlari ileten Talabani'ye "git su deli herife soyle, bastir, masaya
+gelsin" gibi seyler soylermis. Tabii bu "delilik" son saldiriyi
+aciklamak icin yeterli degil, koprunun altindan cok sular akti; herkes
+sadece kendi cikarini kolladigi (kimse global bir optimal noktayi
+sallamak zorunda degildir, politik kararlarda Masquita'nin belirttigi
+faktorler on plandadir) al/ver surecinde kozlarini oynuyor.
+
+---
+
+Filme TRT'de rastgeldik... Orijinal ismi The Man From Earth ve bilim
+kurgu filmi olarak listeleniyor. Fakat filmde hiç patlama, işin
+kılıcı, uzay gemileri yok. Doğru dürüst evin dışına bile
+çıkılmıyor. Film tek bir faraziye üzerine kurulu: eğer binlerce yıl
+öncesindeki bir mağara adamı genetik bir şans sonucu hiç
+yaşlanmasaydı, ne olurdu?  Sonuç üstteki şahsiyet. Bu kişi tarihin
+canlı bir şahidi, ve film yapımcıları aslında bir yandan da insanlığın
+tarih hakkında bildiklerini bu karakter üzerinden aktarıyor. Mağara
+adamı üniversite hocası olmuş (o kadar çok vakti var ki, istediği
+konuyu öğrenebilir), karedeki diğerleri hoca arkadaşları; böylece
+hikayesini anlatırken, şüpheci, bilgili bir grup anlatımı sorgularken,
+aynı anda o anlatımı zenginleştiriyor.  [Takip edecekler heyecan
+kaçırtabilir -SPOILER ALERT-]. Ama işi daha ilginçleştiren mağara
+adamının Buda ile tanışması ve ondan öğrendikleri ile İsa peygamber
+haline gelmesidir... Roma'nın zulmüne karşı gelmeye karar verir, ve
+çarmıha gerilir, ama kaçar (tekrar dirilmez), yaralarını iyileştirir
+(Budist teknikler kullanarak) ve kayıplara karışır.  Hikaye sırasında
+dini hissiyat sorgulanır; John (İsa) mealen 'ben bu peri masallarına
+dayalı şeyi (bugünkü hristiyanlık) yaratmadım' der, 'benim dersim
+tamamen gerçek hayata yönelikti'. Arkadaş doğrular: 'Budizm de ilk
+çıktığında acı gerçekçilik (brütal realism) üzerine kurulu bir
+öğretiydi' der, 'hayattan kaçmanın yolu değildi'. Filmin sonuna doğru
+bütün arkadaşlar artık ikna olmuştur, teoloji öğreten hristiyan bayan
+hoca dahil.  Filmin sinematografi acısından yaratmaya çalıştığı hava,
+' kamp ateşi başında anlatılan hikayeler' havası. Hikaye konusu mağara
+adamı olduğuna göre, seçim uygun denebilir. Film bir açıdan İslam'ın
+Hristiyanlığa getirdiği eleştirileri de yansıtıyor. Filmde İslam yok,
+film tamamen / sadece Batı kültürünün kendi kendini sorgulaması
+çerçevesinde gelişiyor. Güzel bir film. Tavsiye ediyoruz.
+
+---
+
+Arthur Kroker, Tekrar Dogan Ideoloji yazisindan
+
+Klasik emperyalizm sırasında güç, toprakları, insanları, hatta zamanın
+kendisini ele geçirerek kazanılan bir şeydi. Network temelli güç ise
+bunun tam tersidir. Böyle yapılarda güç sirkülasyondadır / hareket
+olduğu yerde, zamandadır ve geniş bir yelpaze üzerinden ürünler,
+fikirler, tasarımlar, imajlar, hizmetler olarak yansıtılır /
+nakledilir. Bu nokta Thomas Friedman tarafından iyi anlaşılmıştır [..]
+Friedman, son zamanlarda yaşadığımız dijital (içe dönük) patlamanın
+çok aktörlü, çok taraflı bir rekabet dünyasını serbest bıraktığını
+söylemektedir. Bu dünyada kazananlar ülkelerini teknolojiksel olarak o
+mobil, o anıme, o kablosuz dilde yetkin hale getirmek suretiyle
+dijital geleceğini mümkün kılanlar olacaktır.
+
+---
+
+Seth Godin'in blogundan
+
+Bir geminin batıp batmadığını anlamak için farelerin ne yaptığına
+bakmayın. Zengin yolcuların ne yaptığına bakın.
+
+iTunes ve İnternet'ten dosya paylaşmak Tower Records'u
+yoketti. Semptom: En iyi müşteriler gitti. Düşünülürse, tabii ki
+gideceklerdi, yılda 200 albüm alan onlardı, ve bu değişimi yapmak için
+daha baskın sebepleri / ihtiyaçları (incentive) vardı. Alternatifler
+daha hızlı ve ucuzdu.
+
+Amazon ve Kindle kitapçıları öldürdü. Niye? Çünkü senede 100 ila 300
+kitap alan müşterileri kaybettiler. Tipik Amerikalı zevk için yılda
+bir kitap alır. Bu tür müşterilerin kitapçılar için hiçbir anlamı
+yoktur. Önemli olan daha sık, surekli alışveriş yapan müşterilerdir,
+ve artık, 2009 itibariyle resmi olarak bu müşteriler kitapçıları
+terketmiştir. Olay bitmiştir.
+
+---
+
+Su yazida belirtildigi uzere Google'in acik kaynakli cep telefonlari
+icin yazdigi isletim sistemi Android, Cin'den, Japonya'ya, cep
+telefonlarindan, arabalara, e-kitap okuyuculara kadar genis bir
+yelpazede kendini gostermeye basladi. Bu sistemi kullanmak donanim
+ureticilerinin cikarlarina uyuyor. Niye? Isletim sistemi acik kaynakli
+oldugu icin 1) hicbir sirkete 'kitlenmemis' oluyorlar, eger kafalarina
+eserse kodu alip kendi istedikleri farkli bir yone gidebilirler 2)
+acik bir platform programcilar (biz) icin cazip oldugu icin (cunku
+yazilan kod, beceri dagarcigi pek cok urun icin gecerli olur, boylece
+ogrenim icin harcanan zamandan tasarruf edilir), bu piyasa icin
+gelistirilen programlardan otomatik olarak faydalanabilecekler.
+
+Acaba Turkiyeli sirketlerin bu alandaki firsatlardan haberi var mi?
+Vestel, Android temelli bir cep telefonu ile piyasaya cikamaz mi? Oto
+sirketleri gomulu sistemlerde bu sistemden faydalaniyor mu?
+
+Ozellikle bahsediyorum, cunku bu sistem uzerinden "mevcut oyunculara
+karsi" bu alana girmek isteyebilecek sirketler icin rekabetsel bir
+avantaj var. Cinli ureticilerin sistemin uzerine atlamasi bir raslanti
+degil. Yazilim sistemi, ve onun arkasindaki ekosistem hazir olunca, bu
+bir is modelini hazir hale getiriyor, ve Cinli bir ureticinin Nokia
+gibi bir devin oldugu Avrupa piyasasina girebilmesini sagliyor. Alici
+hic taninmaz edilmez bir telefonu almaktan korkmuyor cunku nasil olsa
+icinde Android olacagini biliyor. Boylece ayni yazilim piyasasindaki
+urunlerden faydalanabiliyor. Surada o da anlatiliyor.
+
+---
+
+Bu kalemi var ya.. Satarım, satamazsın.. Eskilerden esintiler. Özal
+iyi anlatırdı, bazen duygu sömürüsü de yapardı. Bir hikayeyi hiç
+unutmam: IMF toplantısındaymış, 'bir yandan kalbimiz tekliyor, bir
+yandan halkımız için para istemeye çalışıyoruz', lafları... Üstün
+performans... Köprü sattırmam hikayesi başka alem zaten. Üstteki memur
+tipli kazık herif nasıl kızmış dikkat. Masaya doğru hareketler
+yapıyor. Kamalist enternasyonal.
+
+![](ozal-kalem.jpg)
+
+![](ozal-kopru.jpg)
+
+---
+
+Iran hakkinda de Mesquita'nin ongorusu nasil kullanilabilir? Oncelikle
+ongoru neydi? Ne olursa olsun, Iran nukleer silah kalitesinde yakit
+imal etmekle yetinip "ulusal onurunu" tatmin edecek, ama nukleer silah
+imal etmeyecektir. Ustad'in projeksiyonuna gore bunun gidecegi iki
+degisik yon var; Birincisinde dis gucler Iran'a baski yapiyor,
+digerinde yapmiyor. Isin ilginci bu iki alternatif yonun ayni kapiya
+ciktigi gibi, eger baski olursa Iran'in silahtan vazgecmesi(ni deklare
+etmesi) daha fazla zaman aliyor!
+
+Turkiye bu ongoruyu nasil kullanir? Iran hakkinda yapilacak traslara
+dik durmasi kolaylasir (ki zaten duruyor), kaka senaryo olmayacagina
+gore Iran hakkinda diplomatik yardimlar daha hizli gundeme
+gelebilir.. Gibi.
+
+---
+
+Ahmet Davutoglu, Stratejik Derinlik, 2000, sf. 445
+
+Turkiye'nin gerek Incirlik ussunun Irak'a karsi yogun sekilde
+kullanilmasinin dogurdugu rahatsizlik, gerekse Kuzey Irak ile ilgili
+girisimlerin sonuclari konusunda duydugu kaygilarla, hakli olarak Irak
+politikasinda bir denge arayisina yonelmesi ve [zamanin Irak
+basbakani] Tarik Aziz'i Ankara'da misafir etmesi Obdulah Ocalan'in
+yakalanmasinda [1] etkili olmustur [..].
+
+ABD bu yolla Turkiye'ye su mesaji vermistir; Ocalan'in yakalanmasi ile
+artik Turkiye icindeki Kurt Meselesi kendi ic alanina ve Turkiye'nin
+tam denetimine cekilmis bulunmaktadir; dolayisiyla da Irak'in
+statusunun ve Kuzey Irak'taki gelismelerin Turkiye'yi tedirgin eden
+yonleri asgariye inmistir. ABD, boylece Kuzey Irak'taki gelismelerin
+kendi ic butunlugunun bir parcasi olarak goren Turkiye'nin
+kaygilarinin bittigini dusunmekte; dolayisiyla da Turkiye'yi Irak ile
+isbirligine sevketmesi muhtemel saiklarin etkisini kaybedecegini
+ongormektedir [2].
+
+[1] Yani ABD'nin Ocalan'i yakalattirmasinda
+
+[2] Yani ABD (o zaman) Turkiye'nin Irak'tan 'uzak durmasi'
+istegindeymis; Ocalan'in kucagimiza teslim ederek aradaki baglantiyi
+aza indirgemeye ugrasmis.
+
+---
+
+Ahmet Davutoglu Turkiye'nin dis politikasina ornek vermek icin
+birlesmeden onceki Bati Almanya'nin Ostpolitik doktrininden
+bahsetmis. Biraz tarih: 1949-69 yillari arasinda Almanya Dogu Almanya
+ile iliski, irtibattan kaciniyordu. Fakat 69 secimiyle basa gelen
+Brandt hukumeti doguya yapilacak bir acilim baglaminda ticari,
+kulturel irtibatin komunist rejimin cokmesini uzun vadede daha
+kolaylastirabilecegini savundu. Brandt, ayrica Ostpolitik'in Bati
+Avrupa ve NATO ile iliskilerini zedelemeyecegini savundu. Davutoglu da
+TR acilimindan bahsederek asagi yukari ayni vurgulari
+yapti. Komsularla iyi iliskiler, Bati ile iliskiler acisindan "ya o,
+ya bu (mutually exclusive)" turunden bir iliski degildir.
+
+Ilginctir; bugun Turkiye'nin acilimina karsi yapilan tingirtilar,
+eskiden Ostpolitik icin, ayni aktorler tarafindan yine yapilmisti
+(Davutoglu'nun bu ornegi secmis olmasi, bir yandan bir mesaj da
+iceriyor). Hatta bu kisiler, 69 oncesi 20 yillik suren izolasyon
+politikasinin fazla kati oldugunu soyleyen ayni kisilerdir! (Kissenger
+bu listede) Korku, "eyvah bu sefer fazla mi guclu olacaklar" korkusu
+tabii. Muhakkak Bati Almanya bu acilimi yaparken etki alanini
+genisletmeyi de hedefliyordu, komunist rejimin cokmesi iyi bir 'yan
+etki' olacakti. Bir 20 sene sonra o cokus te vuku buldu, o noktaya
+gelinmesinde yardimci olan pek cok faktor arasinda Ostpolitik'in de
+oldugu iddia edilebilir.
+
+---
+
+Adamımız Cenk Uygur, İnternet temelli televizyon programı The Young
+Turks ile Fast Company dergisine konu oldu. TYT tam anlamıyla yeni
+teknolojilerin, yeni ekonominin mümkün kıldığı bir oluşum. Program
+sadece YouTube'da günde 450,000 izleyici çekiyor. Biz bu programa
+nasıl rastgelmiştik? Google'daki arama seansları sırasında (bizim
+nesil için düşünmek ile eşanlama gelmeye başladı), galiba jon türkler
+ile alakalı bir şeyi ararken rasgele çıkmıştı... O günlerde OJ'in Las
+Vegas'ta yakalanması olayı vardı, teyp kaydı çıkmıştı, Cenk OJ taklidi
+yapıyordu: "Back against the wall m...f.cker. You stealin' my
+shit?". Gülmekten yerlere yatmıştık. Eh politika da var, seyretmeye
+başladık. Tüm fikirlere katılmasak ta, duruşları genel itibariyle
+doğru.Karakterler ilginç; fotoğrafta görülen bayan Ermeni, diğeri
+zenci, öteki ispanyol (hispanic). Salata kasesi.
+
+![](next-56-youngTurks-1.jpg)
+
+---

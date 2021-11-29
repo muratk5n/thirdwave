@@ -18,8 +18,6 @@ Ingrao'ya gore Osmanli sultanlari arketipik oriyental despotlardi. Teoride herse
 
 Bu ilgisizlik, Ingrao'ya gore iki seye sebep oldu: her yere yayilan ve 20. yuzyila kadar etkisini sureduren bir geri kalmislik, yolsuzluk (rusvet) ve dilsel, kulturel obeklesme / sekteryenlik. [Fakat] I. Dunya Savasi sonunda ulus-devlet sisteminin, islemedigi tamamen ispatlanmis (discredited) Osmanli modelinin yerine gecmesindeki asil sebep, cok etnikli bir yapida insanlarin bir sekilde beraber yasiyabilmeleri degil, artik o modelin diger, herkesce bilinen diger ogesi, kangrenlesmis / bozulmus / islemez (patently disfunctional) Turk politik kurumlariyla ozdeslestirilmis olmasiydi [sf 96].
 
----
-
 [1] Yolsuzlugun ve sistemik curumuslugun bir gostergesi, yangin sondurmekle gorevli yenicerilerdir. Osmanli sisteminde eger yangin sonrasi ev sahibinin kurtarilmis mali varsa, yeniceriler o malda hak talebinde bulunabiliyorlardi. Bu kural yangini yeniceriler icin bir gelir kaynagi haline getirmekteydi; bu sebeple yenicerilerin bilerek yangin cikardigi da oluyordu. Sistemin diger yolsuzluk kaynagi 'adalet dagitan' kadilardir. Kadilik sisteminin urettigi yolsuzluk Anadolu'da halk turkulerine konu olacak kadar yaygin ve sistemiktir.
 
 [2] Osmanli, kontrolu surekli daha fazla saray merkezli yapmaya ugrasmistir. Fatih Sultan Mehmet'in icraati bunun tipik bir ornegidir. Fatih yonetimde danistigi, beraber oldugu musluman ailelerden hic hazzetmiyordu, bu aileler icinde en cekemedigi Candarli ailesi, ve bu ailedeki Candarli Halil Pasa'ydi. Fatih, Istanbul'un fethi sonrasi Candarli Halil hakkinda "aslinda Istanbul'un fethedilmesini istemedigi" ve "Bizans'tan rusvet aldigi" seklinde dedikodular yaydi ve Candarli Halil'i oldurttu.

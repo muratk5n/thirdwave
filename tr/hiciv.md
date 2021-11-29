@@ -24,6 +24,8 @@
 
 [TRT Mars Açıldı](/2009/05/trt-mars-acld.md)
 
+[Krizden cıkış G şeklinde olacak](/2009/11/krizden-cks-g-seklinde-olacak.md)
+
 [CHP açılımları birbirine karıştı](/2009/02/chp-aclmlari-birbirine-karst.md)
 
 [Uzaylı mağdur edildi](/2009/05/uzayli-magdur-edildi.md)

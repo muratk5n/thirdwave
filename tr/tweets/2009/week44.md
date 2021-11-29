@@ -496,3 +496,288 @@ Cikarimci, dandik koylu imparatorlugu olan Osmanli'ya gore ulus-devlet daha iyi 
 
 ---
 
+This American Life programindan okul oncesi egitim hakkinda ilginc
+bilgiler. Bilgi ekonomisinin hukum surdugu (gittikce fazlalasan)
+ulkelerde fakirligin en onemli sebebi egitimsizlik. Hicbir anne baba
+"cocugum buyuyunce koylu, isci olsun" demiyor. Hepsi "cocugum
+buyuyunce doktor, muhendis, vs olsun" diyorlar... Bunlar beyaz yakali
+isler. O zaman, cocuklarin gelecekteki beyaz yakali isleri elde
+edebilmesi icin ihtiyac duyduklari egitim icin, acaba okullar yeterli
+midir?
+
+TAL programina gore, egitim aslinda cocuk 0-3 yas arasindayken
+basliyor. Bu yas ozellikle fakir cocuklar icin kritik, cunku egitmen
+olarak anne, babalari haricinde baska kimse yok. Ve fakir aile
+durumunda anne, bana ne yazik ki cahil olmasi sebebiyle bu egitimi
+verebilecek durumda degil. Bu anneler, babalar, profosyonel orta sinif
+ailelerin artik neredeyse normal gordugu bazi tekniklerden
+habersizler.
+
+Bu teknikler cocuga kitap okumak, hata yapinca cocuga dayak yerine
+"mola" verdirmek (odanin bir yerinde bir tur yari-hapis durumu, 5-10
+dk suruyor) gibi seyler, ve bu uygulamalar orta seviye aileler
+tarafindan artik surekli kullaniliyor, iyi biliniyor.
+
+Jeffrey Canada adli bir yardimsever ABD New York sehrindeki Harlem
+bolgesinde bir bebek koleji kurmus, ve cocuklara yardim etmek icin
+cocuklarla beraber anneleri, babalari da egitme amacini guduyor. Cunku
+anne / baba egitilebilirse, cocuga "ilk egitimi" dogru sekilde
+verebilir.
+
+80'li yillarda yapilmis bir arastirmanin sonucu inanilmaz:
+Arastirmacilar iki gruba ayirdiklari aileleri incemisler, bu ailelerin
+biri fakir aileler, digerleri profosyonel islere sahip olan
+aileler. Arastirmaya gore bu iki grup arasindaki en buyuk farkin
+"kullanilan dil" oldugu ortaya cikti. Profosyonel islere sahip olan
+bebekler ilk uc senesinde fakir olanlara kiyasla 20 milyon daha fazla
+kelime isitiyorlar, bu kelimeler ebeveynlerin cocuklarina konustuklari
+genelgecer sozler, ama cocuk uzerinde cok buyuk bir etki yaratiyor. Bu
+bulgu pek cok kisiyi sasirtti; bir cocugun ilerideki hayatinda
+basarisini tanimlayacak olan ebeveynlerinin parasi degil, kullandigi
+kelime sayisindaydi.
+
+Is bulma amacli egitim programlari veren bir kisinin gozlemleri de
+ilginc: Ona gore problem bir issizin sonraki isi icin ihtiyaci olan "o
+tek" beceriye sahip olup olmamasi degil, cogunlukla cok baz baska bir
+problem: Motive olamama, iyi iletisim yetenegine sahip olamama, yeni
+fikirlere acik olmama, kendini kontrol edememek, sabirsizlik gibi
+faktorler. Bu faktorler ise anaokul oncesi, cok kucuk yaslarda
+ogreniliyor, ve ilerleyen yaslarda gittikce ogrenilmesi daha zor hale
+geliyorlar.
+
+Fakir ve profosyonel ailelerin arasindaki farklar bununla bitmiyor:
+Profosyonel bir ailede cocuk 0-3 yas arasi onu cesaretlendiren,
+odullendiren (encouragement) icin 500,000, onu paylayan 80,000 soz
+duyuyor. Fakir ailelerde bu rakamlar neredeyse tepetaklak: 80,000 odul
+veren soz, ve 200,000 kere ceza ve paylama. Ayni arastirmaya gore
+sozel ve fiziksel cezalar cocugun gelisimi uzerinde cok kotu etkiler
+yaratiyor ve fakir ailelerin bu bulgulardan da haberi yok.
+
+---
+
+Bruce Bueno de Mesquita
+
+CIA icin yabanci devletlerin belli konularda politik kararlarini
+tahmin eden Bruce Bueno de Mesquita'nin TED konusmasi. Gelecek tahmini
+soz konusu olunca hemen belirtelim: Hayat tabii ki karmasiktir,
+kaostur, fakat burada hayattan degil politikadan bahsediyoruz. Tahmin
+edilen ya anlik, ya da cok kisa bir kesit uzerinde verilecek kararlar,
+bu kararlara girdi olarak gelen inanclar, duruslar, pozisyonlar o an
+icin biliniyor ve secimleri yapacak, etkileyecek aktorler o an icin
+belli. Muhakkak bu kararin verilisi, kisitli aktor arasinda geciyor
+olsa bile, cok karmasik (cunku mesela 10 aktor icin aradaki potansiyel
+iliski sayisi 3 milyon uzerinde -10 sayisinin faktoryel degeri-), ama
+o tur karmasa bilgisayarlarin halledebilecegi bir sey. Mesquita, Oyun
+Teorisini kullanarak bu tur kararlari, bir sonraki statustko'nun ne
+olacagini tahmin edebiliyor. Modele veri olarak girilen aktorlerin
+inanclari, motivasyonu, vs. gibi degerleri iyi bir izleyici kendi
+tahminlerini kullanarak bile girebilmekte, sonra bu verinin uzerinden
+programi atesliyorsunuz. Sonuc geliyor.
+
+CIA'nin gecende gizliligi kaldirilmis (declassified) kendi belgelerine
+gore Mesquita'nin basari orani yuzde 90. Foreign Policy dergisinde
+hakkinda guzel bir yazi cikti.
+
+Iran hakkinda tahminleri soyle: Iran nukleer silah yerine nukleer
+silah kalitesinde yakit imal edip "ulusal onurunu" tatmin edecektir,
+ama silahtan kacinacaktir. Politik baglamda Qum sehrindeki "sessiz
+imamlarin", "sermaye odaklarinin" gucu artacak, ve Ahmedinejat'in gucu
+gittikce torpulenecek.
+
+---
+
+Gorbacov'in unlu sozudur: "Ne yazik ki biz, icinde oldugumuz yeni enformasyon caginda en onemli varligin bilgi oldugunu farkeden en son ulkelerden biriyiz". Bu aci itirafin altinda yatan gercek, Berlin Duvari'nin ve Soyvetler Birliginin yikilmasi 3. dalga degisimlerinin sonucu olmasidir.
+
+Endustriyellesme, modernite hem liberalizm hem totaliterizm altinda yasayabilir, fakat bilgi temelli beyaz yakali uretim tarzina evrilebilenler, nispeten daha ozgur yasayan ulkeler olmustur. Bunun sebebi yeni uretim tarzinin ozgurluklere olan ihtiyacidir, ona olan uyumlulugudur.
+
+Marksizm, Nazizm, Kemalizm gibi diger ideolojiler ne yazik ki temel aldiklari "modern" arka yapiyi kaybedince, marjinallesmeye basladilar.
+
+Marksist "ana kol (mainstream)" dusuncenin ana temasi her zaman materyal uretimi uste cikarmak ve zihinsel uretimi asagilamak olmustur. Marks zihin temelli islerde calisanlara "verimsiz isciler" diyerek onlari kucumserdi.
+
+Ironik olarak, o kucumsedigi iscilerin yarattigi dalga Marks'a tokadi cakarak onun ve takipcilerinin tarih sahnesinden silinmesini sagladi.
+
+---
+
+Google haritalama dunyasina baliklama giris yapti. Ozellikle "donus
+bilgili yol tarifi (DBYT)" olarak bilinen alanda servis saglamaya
+basladi ki bu alan daha once Tele Atlas ve Nav Tech adli iki "duapol
+(monopolun ikilisi)" tarafindan kontrol ediliyordu. Donus bilgili yol
+tarifi bir yerden bir yere giderken "simdi saga, suradan sola don"
+gibi tariflerin bilgisayar tarafindan verildigi bir tur sistem. Bu tur
+bilgiyi kayitlamak ve guncel tutmak oldukca zor, bu yuzden bu piyasaya
+girmek oldukca kulfetli bir isti. Kiyasla normal haritalama bedava
+kaynaklardan bile yapilabiliyor. Belli oluyor ki Google DBYT verisini
+gectigimiz yillarda kendi arabalarini yollara surerek toplattirmis.
+
+Ama esas bomba, Google'in DBYT servisini Android tabanli cep
+telefonlarina bedava verecegini soylemesiyle patladi. Android
+Google'in cep telefon sirketlerine bedava verdigi isletim
+sistemi. Duapol bunu yapacak durumda degil, ve bu haberle fena dayak
+yemis oldular. Ayni anda iPhone kotu durumda kaldi cunku diger herkes
+gibi DBYT verisini duapoldan aliyordu. Google kendi (bedava) verisini
+kendi (bedava) isletim sistemini kullanacak telefon sirketlerine
+verecegini soyleyince, isler sarpa sardi. Duapol'un hisse senetleri
+borsada buyuk dususler yasadilar. Bu durumda mesela BMW sirketi bile
+yol tarifi verecek bir sistemi arabasina kurmak isterse (gomulu
+sistemden bahsediyoruz, cep bile yok ortada), bunu yine Android
+uzerinden yapabilecek (Android sadece telefonlara bagimli degil).
+
+Smartphone dunyasinda Android tercihimizi daha once belirtmistik.
+
+Danismanlik sirketi Gartner'in gelecekteki piyasa paylari hakkindaki
+tahmini surada.
+
+---
+
+Besir Atalay meclis konusmasinda demokratik acilimin sloganini "herkes
+için daha fazla özgürlük" olarak anons etti. Iyi bir secim
+olmus.Konusmalar atesli gecti, fakat biz bu isin tiyatrosunu
+severiz. Ingiliz avam kamarasindaki "Basbakana Sorular" zamani da
+tartismalar, sesler, bazen laf atanlarla doludur. Tartisma, tartisilan
+konularin onemli oldugunu gosterir (stakes are high). Sonucta ulkeyi
+yonetmeye talip kisilerin biraraya gelip herkesin onunde argumanlarini
+dile getirmesi, fikir piyasasinda one gecmeye calisarak yarismalari,
+bazen birbirlerinden ogrenmeleri, fikir alisverisinde bulunmalari
+kadar guzel bir sey yok. Tabii ki (bize gore) yanlis soyleyen cok,
+kafasi ters tarafta olanlar bol. Fakat dogru konulari tartisiyoruz. Bu
+kesin.Dogru sozler telafuz edildi: Basbakandan "Şehitler gelsin de
+biraz bağıralım diyenler var", "insani insan oldugu icin seviyoruz",
+"25 yıl boyunca güvenlik sorunu ele aldığımız bu sorunda dağlar
+bombalandı mı, bombalandı, sınırötesi operasyon yapıldı mı,
+yapıldı. Sorun çözüldü mü?" sozleri gibi.Basarilar diliyoruz.
+
+---
+
+Amerika'da saglik sigorta reformu calkantilari devam ediyor. Konu
+hakkinda bazi bilgiler suradaki This American Life programinda
+bulunabilir. Sistem berbat bir halde, nufusun onemli bir yuzdesinin
+saglik sigortasi yok, diger yandan saglik masraflari (ilaclar,
+tedaviler) surekli artiyor. Bu neyin isareti? Tabii ki piyasanin
+fiyatlama sinyallerinin islemediginin isareti. Sinyallerin islememesi
+neyin isareti? Devletin yagli parmaklarinin bir sekilde isin icinde
+oldugunun.
+
+Ve hakikaten de durum boyle. Devlet Medicare, Medicaid gibi programlar
+ile kismen iceride, sigorta sirketleri, tibbi arge baglaminda
+disarida. Ama ozel sirketlere calisanlarina sigorta saglamasi icin
+yapilan vergi muafiyeti gibi indirekt, yandan, kenardan, koseden
+tesvikler ile yine sistemin icinde. Sistemin cesaretlendirme /
+yonlendirme (incentive) yapisi oyle bozuk ki dogal olarak sistem dogru
+yone dogru akamiyor. Tanidik geliyor mu? Evet; Mortgage krizinin
+sebebi de tipatip ayniydi. Devletin kismen iceride, kismen disarida
+olan yapisi, kimin elinin cebinde oldugunun belli olmamasi yuzunden
+bozuklasan bir durum. Oyle ki TAL programinin su yorumuna katiliyoruz:
+"Sistem oyle bozuk ki sagligin tamamen devlet kontrolunde, ya da
+tamamen ozel kontrolde olmasi su anki sistemden kat kat daha iyi
+olacaktir" (biz muhakkak tamamen ozel taraftari olurduk).
+
+Iste, en son gundeme gelen sigortasi olmayanlar icin "kamusal secenek
+(public option)" yukarida tarif edilen daha fazla devlet yonunde bir
+secenek. Yani isteyenler icin "tamamen devlet" iceren bir "ada" icinde
+olunabilmesinin saglanmasi. 
+
+---
+
+![](museum-of-islamic-art1.jpg)
+
+Katar İslam Müzesini ziyaret ettik. Mimarisi, iç dekoru çok güzel
+olmuş (tasarımcı ünlü mimar I. M. Pei). İçinde denize doğru uzanan,
+gemide hissi veren bir manzarası var. Biz pek müze gezmeyiz, ama
+binayı görme açısından iyi oldu. Katarlıları da seyrettik. Müze
+girişinde portatif, ufak bir bilgisayar veriliyor, bilgisayar müze
+eserlerini kodunu girince gösteriyor, bir yandan eser hakkındaki bilgi
+de aktarıyor. Bizim arkadaş baktı, orada gezen Katarlı Arap
+çocuklardan biri aleti kurcalayıp alttaki işletim sistemine (windows)
+girmiş, müze programı dışındaki öteki programlarla oynuyor. Çocuklar
+her yerde aynı; kurcalamaya meraklılar. Biz de öyle yaptık; müze
+gezerken Paint programında şekiller çizdik :) Girise de masa başında
+görevli iki İngiliz koymuşlar (Katarlılar hiçbir iş yapmıyor, bütün
+işlerde yabancılar istihdam edilmiş), aletleri geri verince 'ooh
+goosh' havasında İngilizvarı bir takım teatrel yorumlar
+yaptılar.
+
+İslam'da tarihi bilimsel eserler bize en ilginç gelen
+bölümdü. 7. yüzyıldan başlayarak, 3 kitadan, pek çok milletten eserler
+görülüyor. Anadolu'dan çok şey var bu arada..Tavsiye ederim.
+
+---
+
+Kultur kodlari sivil / asker iliskilerini nasil etkiler?
+
+Amerika'da sivil / asker iliskisi raslantisal bir sekilde kulturel fay
+hattindan yardim gorur: Sakinma / serbest birakma hattinda askerler
+kendilerini rahatlikla "siddetin serbest birakildigi" taraf ile
+ozdeslestirebilirler, bu durumda siviller de dogal olarak "sakinan"
+taraf olacaktir. Bir baskan, kongre, savasmamak icin her turlu yolu
+diplomatik, ticari, vs. olarak dener, baska care kalmadiginda siddeti
+"serbest birakir". Hat ile olmasi gereken uyumludur.
+
+Turkiye'de kulturel fay hatti "sarayli / koylu" ayirimi siviller ile
+askerlerin iliskilerini zorlastirmaktadir. Askerler (ve hic kimse)
+kendini "koylu" tarafi ile ozdeslestirmek istemez, bu durumda herkes
+"sarayli" olmayi istemek durumundadir. Prototip zaten ortadadir:
+Mustafa Kemal ve Inonu. Arka arkaya "sarayli" olan iki asker. Ondan
+oncesi Ittihat Terakki ve ayni zamanda ordu komutani olan padisahlar.
+
+Ve iste bu kendini yukarida gorme durumu, surekli siyaseti duzenlemeye
+ugrasan bu insanlarin halini de aciklar. Muhakkak yukarida tarif
+edilen hissiyat, aklin degil duygusal zekanin aktif oldugu hale isaret
+eder, ve ulke yonetimi acisindan verimli bir durus degildir. Oyle ya
+da boyle degismesi gerekecektir.
+
+---
+
+3 boyutlu yazici (3D printer) teknolojisi gittikce gelisiyor. Makerbot
+Industries acik kaynak tasarimli bir yaziciyi tanitti. Ilginc bir
+durum: Baska bir cismi insa edecek araci kit olarak insa ediyorsunuz!
+Aslinda sirketin tasarimlarini herkese acmalarinin sebebi basit:
+Kullanicilar iyilestirmeleri geri onlara vererek urunu ilerletmelerini
+saglayabilir. Ayrica tasarim paylasiliyor ve tanim itibariyle o
+tasarimin parcalarini en iyi saglayacak olan sirketin ta kendisidir,
+bir diger yandan kullanici tasarimi gordugu icin daha ici rahat alim
+yapabiliyor. Tam bir kazan, kazan durumu.Isin aciklik boyutu bir yana,
+aletin yaptigi uretim tarafina gelirsek, fabrikalardaki endustriyel
+uretiminin kendisi de aslinda otomizasyon, talep boyutu yuzunden hizla
+degismekteydi. Urunlerin cizgisi (product line), yani ne kadar sure
+uretildikleri gittikce kisalmaktaydi, ve istege uygun uretim
+(customization) yayginlasmaya baslamisti (Dell ornegi burada
+ilginctir). Bu kitlesellikten, kisisellige dogru bir gidisattir, ve
+Internet dunyasinda vuku bulan ayni isimli surecte birebir karsiligi
+vardir.3 boyutlu basim ise, acikca soylemek gerekirse, tam bir "oyun
+degistirici (game changer)" gelisme.
+
+---
+
+Hazir uzayli temasindayken devam edelim; 80'li yillarin V (Visitors
+-Ziyaretciler-) dizisi tekrar tasarlandi (remake) ve yayina gecti. Iyi
+is yapmislar. Battlestar Galactica tekrar yapimi bir cuvallamaydi, ama
+V guzel olmus. Bilindigi gibi V dizisinde insana benzeyen uzaylilar
+dunyaya gelirler, fakat insan goruntusunun altinda bir surungen turu
+yaratiktirlar ve kotu 'emelleri' vardir. Eski V hafif bir Nazi rejimi
+alegorisiydi. Bu V apacik bir ABD Irak Isgali alegorisi
+yapiyor. Ziyaretciler ayri bir 'bolgede (uzay gemilerinde -yesil
+bolgede-) ikamet ediyorlar, oradan disari cikmak buyuk mesele, ayrica
+korsan metotlarla tum haberlesme agina hakimler, daha onceden zaten
+ajanlar ile dunyayi isgal etmisler, 'iyi amaclar' icin gelmis
+havasindalar (ABD icin 'size demokrasi getirecegiz', V durumunda bir
+suru baska sekerlemeler: herkese bedava saglik mesela -bu basli basina
+baska bir komedi, gundem gozonune alinirsa-). Espri tabii ki gercek
+hayatta 'isgal eden' Amerika'nin dizide 'isgal edilmis' olmasi (tum
+dunya ile beraber). Yeni V karakterleri Firefly, Stargate SG-1
+dizisinden Morena Baccarin, Lost dizisinden Elizabeth Mitchell, 4400
+dizisinden Joel Gretsch gibi bilim kurgu dunyasinda iyi bilinen
+isimler.
+
+---
+
+Belli bir yastan sonra bazi frekanstaki seslerin duyulmamasindan
+hareketle ilginc bazi uygulamalar. Bir tanesi, bir dukkan sahibinin
+teenage cocuklari uzak tutmak icin sadece onlarin duyabilecegi
+frekansta bir sesi dukkaninda calmasiydi. Sivrisinek savan koku gibi,
+dukkan sahibi ses ile istemedigi belli yas grubundaki kisileri
+kovuyordu. Bir baska uygulama cep telefonu ses tonlarinda, teenage
+cocuklar sadece kendilerinin duyabilecekleri calma seslerini
+telefonlarina yukleyebiliyorlar.
+
+---
+
