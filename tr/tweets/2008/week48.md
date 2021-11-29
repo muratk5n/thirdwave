@@ -784,3 +784,9 @@ okullarimizda ogretemiyoruz. Sadece bu bile, okullarin egitim amacli
 yerler olmadigini gosteriyor.
 
 ---
+
+Bu Bardak Alinir
+
+![](Screenshot.png)
+
+---

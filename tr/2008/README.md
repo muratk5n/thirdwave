@@ -56,45 +56,17 @@
 
 [Uzlasma ve Pragmatizm](10/uzlasma-ve-pragmatizm.md)
 
-[Agla Bakalim...](11/agla-bakalim.md)
-
-[Ahmet Davutoglu](11/ahmet-davutoglu.md)
-
 [Asimov](11/asimov.md)
 
-[Baskanlik Yarisi Sonuclari (Canli)](11/baskanlik-yarisi-sonuclari-canli.md)
-
 [Bilim Nereye Gidiyor?](11/bilim-nereye-gidiyor.md)
-
-[Deniz Isısından Enerji Üretmek](11/deniz-isisindan-enerji-uretmek.md)
-
-[Ev Odevi](11/ev-odevi.md)
-
-[Google News Turkiye](11/google-news-turkiye.md)
-
-[Hindistan, Cin ve Kultur Kodlari](11/hindistan-cin-ve-kultur-kodlari.md)
 
 [Ilgi cekmek](11/ilgi-cekmek.md)
 
 [Inovasyonu Outsource Etmek](11/innovasyonu-outsource-etmek.md)
 
-[Londra Millenyum Koprusu](11/londra-millenyum-koprusu.md)
-
-[Muzik Fabrikasi](11/muzik-fabrikasi.md)
-
-[Senkron](11/senkronizasyon.md)
-
-[Ucuncu Dalga - Koridor Yayincilik](11/ucuncu-dalga-koridor-yayincilik.md)
-
 [Uzun Kuyruklu Dağılım (The Long Tail)](11/uzun-kuyruklu-dagilim-long-tail.md)
 
-[Ve Baskan Obama ..](11/ve-baskan-obama.md)
-
-[Venezuela Egitim Icin 1 Milyon Laptop Aliyor](11/venezuela-egitim-icin-1-milyon-laptop.md)
-
 [Baykal'dan mayo acilimi](12/baykaldan-mayo-acilimi.md)
-
-[Bu Bardak Alinir](12/bu-bardak-alinir.md)
 
 [Dayanisma Ideolojisi](12/dayanisma-ideolojisi.md)
 

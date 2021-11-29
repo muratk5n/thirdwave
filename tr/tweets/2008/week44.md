@@ -1246,6 +1246,28 @@ Dogru
 
 ---
 
+![](12.jpg)
+
+Aglayan Jesse Jackson. Bu blog'da daha once hakkinda bir yazi
+yazmistik. Jackson o sirada destegini Obama'ya vermisti, fakat daha
+sonra bazi garip hareketler yapti: Bir haber programindan once "Barack
+Obama zencilere yukaridan bakiyor, onlari kucuk goruyor" diye
+yanindaki haberciye fisildarken kameralar calisiyormus "meger(!)", ve
+bu goruntu Internet'e sizdi. Sonra buyuk haber oldu. Bu tur zenciler
+bu acidan "bir kisim" Turkiyelileri andiriyorlar bu baglamda,
+aralarindan biri yukselince, hem gururlanip, hem de onu asagi cekmek
+isteyenler oluyor [1]. Simdi burada biraz ayricalik durumu da var:
+Jackson gibileri baskanin "kendisi" zenci olunca "zenci lider"
+pozisyonlarini kaybedecekler. Adamin zenci lidere niye ihtiyaci olsun?
+Kendisi zenci zaten!Yani bu fotografin isi bilenlerin zihninde
+canlandirdigi hikaye bu. Aklimdan ilk bu gecti: Agla bakalim
+#@##$. Colin Powell da aglamis, ona sozum yok.---[1] Hintlilerde de
+benzer bir hissiyat var. Bu kendilerinin soyledigi bir durum. "Biz
+kovadaki yengecler gibiyiz" derler "birimiz cikmaya kalkinca
+digerlerimiz onu asagi cekeriz" (guya yengecler boyle yaparmis).
+
+---
+
 Ahmet Altan
 
 Biz ise Fehmi Koru’nun çok vurucu bir biçimde ifade ettiği gibi “Obama
@@ -1334,3 +1356,241 @@ gecmisti.
 Bence bu sisteme Cumhuriyet bile denemez.
 
 ---
+
+Venezuella hukumeti egitim amacli olarak 1 milyon ucuz laptopu
+Portekiz'den almaya karar verdi. Alinacak makinalar Intel'in
+tasarladigi Classmate PC tasarimini baz alacak ve makinalarda isletim
+sistemi olarak acik kaynak kodlu ve bedava Linux isletim sistemini
+kullanilacak. Aletlerin fiyatinin birkac yuz dolar civarinda olmasi
+bekleniyor.Classmate PC ve buna benzer ucuz laptoplarin uretimi, Her
+Cocuk Icin Bir Laptop (OLPC) hareketinin kendi tasarimini ortaya
+atmasiyla baslamisti. Bu tasarimin anonsunu burada yapmistik. Amac,
+artik bir kalem ve kagit kadar gerekli olan bilgi araclarinin egitim
+icin her cocuk icin saglanmasini saglamakti. Kagit kalem
+paylasilmadigini gore, bilgisayar odalari uzerinden bilgisayarlar da
+paylasilmamaliydi. Egitimin buyuk kisminin okul disinda meydana
+geldiginden hareketle, egitim araclarinin eve tasinabilmesi ve her
+cocugun "benim" diyebilecegi, uzerinde oynayarak, "kurcayalarak"
+ogrenebilecegi, belki innovasyon yapabilecegi bir ortamin onlara
+saglanmasi amacini guden OLCP, sektorde guzel bir hareketlilik
+yaratmisa benziyor.
+
+---
+
+Ve Baskan Obama ..
+
+---
+
+Bugun bir kitapcida Toffler'in Ucuncu Dalga kitabinin degisik bir
+yayinevi ve yeni bir tercumesiyle karsilastim. Soyle bir goz gecirdim,
+fena olmamis. Bu bana bu kitabin Ingilizcesini ilk kez bir kitapcida
+gordugumu zamani hatirlatti; Ben arada sirada rasgele, "ucuk" bir
+kitap secip okumayi severim, eglenceli olur. Third Wave bu
+denemelerden biriydi, futuristik bir sey ariyordum, kapaginda bol
+isiklar, patlamalar, "iste gelecek" diyen iddiali ama hafif
+lakirdilar. Fakat bu kitabin ilk on sayfasindan sonra hic oyle hafif
+bir kitap olmadigini anlamistim.Oltaya her zaman balik vurmuyor tabii;
+Rasgele ucuk denemelerimden bir digeri, Sirius Galaksisiyle ilgili bir
+kitapti. Efendim dunya arada sirada tum gezegen sistemi ile beraber
+bir "kusaga" girermis, ama bu kusak icindeki yuksek radyasyon varmis,
+buna normal bunye dayanmiyormus. Fakat Allah'tan uzayli dostlarimiz
+yardimimiza gelmis, bizim genetik yapimizi degistirmeye
+baslamislar. Su anda genetik yapimiz cift sarmaldan 12-sarmalli yapiya
+geciyormus! Saglik probleminiz varsa bundan iler geliyor. Hah! Iyi
+bilim kurgu ama, adam bunu ciddi sekilde yaziyor. Neyse. Arada sirada
+
+![](9789944983655.jpg)
+
+---
+
+Doğada, bir eylemi beraber gerçekleştirmeye dönük çoğu senkronizasyon
+için merkezi bir noktaya ihtiyaç olmadığı biliniyor. Bunun sebebi
+herhalde sağlam (robust) ve optimal bir yapıya olan ihtiyaçtadır: Eğer
+merkez bir nokta olsaydı, bu noktanın ölmesi/yok olması sonucu tüm
+grubun işi tehlikeye girebilirdi. İlginçtir ki insanların kurduğu ve
+sağlam bir yapı olan Internet aynı şekilde düzenlenmiştir. Bu
+merkezsiz yapı, ayrıca, ağın optimal bir şekilde büyüyebilmesini de
+sağlar. Her yeni birim, ağa istediği noktadan katılabilir ve işe
+anında başlayabilir çünkü kimsenin merkezi bulmasına gerek yoktur.
+
+Doğadan basit ve ilginç bir örnek, ateş böcekleri olabilir.
+
+Guney Asya'da bir ateş böceği tipi toplu halde oldukları zaman aynı
+anda, senkronize bir şekilde yanıp sönme kabiliyetine sahiptir. Bunu,
+yakında gezmekte olan dışı ateş böceklerine mesaj verebilmek için
+erkek böcekler grubu yapar (yani bu senkronizasyonu
+gerçekleştirebilmek evrimsel bir avantajdır).
+
+Bu senkronizasyonu gerçekleştirmek için hiçbir koordinatör karaktere
+ihtiyaç yoktur.
+
+Gayet basit bir şekilde bir böcek kendine en yakın böceğin yanıp
+sönüşüne bakar. Eğer bu yanıp sönüş kendi frekasından daha fazla işe,
+o böcek kendi frekansını artırır. Yavaş ise yavaşlatır. Diğer böcekler
+aynı algoritmayı takip ederler. Bu ufak algoritmaların "kollektif"
+birleşimi ise, bir süre sonra aynı yanıp sönüşe doğru yaklaşır
+(converge). Bunu matematiksel olarak modelleyen Winfree, Kuramoto,
+Strogatz gibi bilim adamları bu sonucu analitik olarak ta
+ispatlamışlardır.
+
+Ve bu sonuç, daha önce bahsettiğimiz "bütün, parçaların toplamından
+fazla" kavramını doğrulayan bir gözlemdir.
+
+---
+
+Londra'da o zaman girilmekte olan yeni bin yila atfen yapilmis olan Millenyum Koprusu'nun ilginc bir hikayesi var. Futurustik bir yapida insa edilmis bu koprunun ruzgar, titreme gibi her turlu fiziksel sarta hazir oldugu zannediliyordu. Fakat kopru acildigi gun (10 Haziran 2000) ustunde insanlar yuruyerek karsiya gecmeye basladi ve o an, garip bir sey oldu: Kopru sagdan sola salincak gibi sallanmaya basladi (sway). Kopru derhal kapatildi ve problemin kaynagi arastirilmaya baslandi. Sallanmayi duzeltmek icin koprunun yanlarina sok emici ekler yapilmasi gerekecekti. Fakat tasarim niye basarisizliga ugramisti?
+
+TEXT](http://img.youtube.com/vi/gQK21572oSU/0.jpg)](http://www.youtube.com/watch?v=gQK21572oSU)
+
+Kopru haberini duyan ve senkronizasyon konusunda arastirmalar yapan Steven Strogatz adindaki bir bilim adami, durumu matematiksel olarak modellemeye karar verdi. Nature dergisinde yayinladigi makalesinde problemin kaynagini soyle acikliyordu: Insanlarin yuruyusu birbiri ve kopru ile senkronizasyona girmis ve sallanti kendi kendini besleyen (feedback) turden bir etkilesime girerek, buyuye buyuyue kopruyu tehlikeli derecede sallanir hale getirmistir.
+
+Daha once ates boceklerinin yanip sonmesini senkronize edebildiklerini belirtmistik. Dogada bu "kendiliginden uyuma girme" olayinin pek cok diger ornegi vardir [1]. Kopru durumunda ise belli bir kritik yaya sayisi asildigi anda birdenbire bir tavuk/yumurta iliskisi peydahlanmistir. Az bir uyumunun [2] tetikledigi kopru sallanimi, geri donup, daha fazla yayanin adimini senkronize olmaya mecbur etmis, bu da donup bu sefer daha fazla salinima sebep olmustur. Ve durum kotuleserek devam etmistir.
+
+Askerler bir kopruden gecerken, normalde yapabilecekleri gibi, ayni anda adim atmamalari (breaking step) gerektigini bilirler. Cunku ayni anda asagi inen adimlar, koprude planlanmayan dikey bir kuvvet olusturup koprunun yikilmasina sebep olabilir. Fakat Millenyum Koprusu'ndeki sallanti yatay sekilde vuku bulmustur ayrica yayalar raslantisal sekilde yurumuslerdir. Buna ragmen adimlar ve koprunun senkronizasyonu kendiliginden olusmus (emergent) ve kendi kendini besleyip tum yayalara yayilmistir. Strogatz'in formulleri bu dinamigi yakalayarak olayin nasil meydana geldigini ortaya cikarmistir.
+
+Not: Burada bilim ve teknolojinin dinamigi, sureci, nasil yapildigi acisindan bazi dersler var.
+
+Oncelikle, ilginc ve futuristik bir tasarim cekinilmeden "denenmis". Kopru yatay sallantisi bir cuvallama sayilabilir, fakat bu dunyanin sonu degildir. Onemli olan degisik bir seylerin denenmis ve kurcalanmis olmasidir. Daha sonra, bu sallantiyi duyan dunyanin baska bir yerindeki bir bilim adami olayi merak etmis ve o da kendi acisindan kurcalamak istemistir. Daha once baska alanlar icin gelistirdigi matematiksel yontemleri bu duruma adapte ederek bazi cevaplar aramistir. Ve sonucu bulmustur! Model ona kac kritik yaya sayisi ve ne kadar sure sonra sallantinin baslayacagi gibi onemli ongoruleri hesaplayabilmesini saglamistir.
+
+[1] Mesela ayni evde yasayan kadinlarin adet doneminin bir sure sonra yakin gunlere (3 ila 5 gun farkla) denk gelmeye basladigi, yani senkronize oldugu bilinmektedir.
+
+[2] Istatistiki olarak kopru uzerinde esit (uniform) sekilde dagilmis adim atislarin birkacinin ayni anda asagi inmesi olasiligi yuksektir. Bu gereken ilk fitili ateslemis olabilir.
+
+---
+
+2001 yilinda Bahceli MHP'li vekillere onemli bulunan kitaplardan
+ogrenmeleri icin ev odevi vermis. Ilginc bir liste...
+
+Clinton ve Al Gore'un seçim beyannamesi (10 sayfa)
+
+Clinton'un Meclis'te yaptığı konuşma (7 sayfa)
+
+Hayat Yolunda (Taha Akyol - 15 sayfa)
+
+Siyasetten Kesitler (Mehmet Turgut - 16 sayfa)
+
+Medine'den Lozan'a (Taha Akyol - 9 sayfa)
+
+Şok: Gelecek Korkusu (Alvin Toffler - 10 sayfa)
+
+Üçüncü Dalga (Alvin Toffler - 15 sayfa)
+
+Büyük Satranç Tahtası (Zbig Niew Brzezinski - 16 sayfa)
+
+Yaratıcı Düşünme ve Beyin Fırtınası (Geoffrey Rawlinson - 7 sayfa)
+
+Çatışan Uygarlıklar (Brzezinski)
+
+Osmanlı ve İran'da Mezhep ve Devlet (Taha Akyol - 9 sayfa)
+
+Kürtler ve Sosyal Gelişimleri (Mesud Fani - 8 sayfa)
+
+Şark Meselesi Işığında Şeyh Sait Olayı (Yaşar Kalafat - 8 sayfa)
+
+AB Katılım Ortaklığı Belgesi (9 sayfa)
+
+Osmanlı'nın son asrından anekdotlar (8 sayfa)
+
+Bu kitaplarin ozetlerini cikarttirip onu odev vermis bu arada; bence
+vekiller kitaplarin tamamini okusalar daha iyi olurdu... Neyse, ozet
+ya da degil, fena bir liste sayilmaz.
+
+---
+
+Lockheed Martin şirketinden, denizi suyunu kullanarak sınırsız enerji
+üretebilecek bir proje. Test proje başarılı olmuş, bunlar iyi
+haberler. Enerji üreteci şöyle çalışıyor; Denizin üst kısmındaki
+sıcaklık kullanılarak kaynama noktası düşük olan bir madde (mesela
+amonyak) buharlaştırılıyor. Bu buharlaşma bir türbini döndürmek için
+kullanılıyor. Amonyağı tekrar sıvı haline döndürmek için denizin daha
+derin kısmındaki soğuk su kullanılıyor, ve devri daim böyle devam
+ediyor.  Küresel ısınmanın denizleri normalın üstünde işittiği
+düşünülürse, bu fazla sıcaklık, bu makina için daha da fazla enerji
+üretimi anlamına gelecektir.  Kaynak: New Scientist.
+
+---
+
+Taraf sordu, Ahmet Davutoglu cevapladi.
+
+1. En sevdiğiniz kelime?
+
+Hikmet
+
+2. Nefret ettiğiniz kelime?
+
+Nefret
+
+3. Ne sizi heyecanlandırır?
+
+Tarihin içinde akmakta olduğum hissi
+
+4. Heyecanınızı ne öldürür?
+
+Bu akışın ritmini kaybetme korkusu
+
+5. En sevdiğiniz ses nedir?
+
+Çocuk sesi ve gecenin karanlığında derinden gelen bir ney sesi
+
+6. Nefret ettiğiniz ses?
+
+Münasebetsiz vakitlerde çalan cep telefonu
+
+7. Hangi mesleği yapmak istemezsiniz?
+
+Cellatlık
+
+8. Hangi doğal yeteneğe sahip olmak isterdiniz?
+
+Savaşmaya hazır tarafları durdurabilecek bir ikna yeteneği
+
+9. Kendiniz olmasaydınız kim olurdunuz?
+
+Kendim olmayı tartışmayı haddi aşmak olarak görürüm
+
+10. Nerede yaşamak isterdiniz?
+
+Her sabah kalktığımda güneş doğarken Kudüs, Medine ve İstanbul’un tarihi siluetini aynı anda görebileceğim bir mekanda
+
+11. En önemli kusurunuz nedir?
+
+Birçok işi aynı anda yapabilme hırsıyla zamanı idare edememek ve aileme yeterince vakit ayıramamak
+
+12. Size en fazla keyif veren kötü huyunuz hangisi?
+
+Yoğunlaştığım teorik bir çalışmanın en kritik aşamasında kağıdı ve kalemi terk ederek alabildiğince yürümek
+
+13. Kahramanınız kim?
+
+Üzerinde herhangi bir kul, hayvan, bitki hakkı olmadan ruhunu teslim eden sıradan bir insan
+
+14. En çok kullandığınız küfür?
+
+Eğer küfürse “densiz”
+
+15. Şu anki ruh haliniz nasıl?
+
+Metafizik dinginlik ile tarihi yaşama coşkusunun oluşturduğu iniş-çıkış
+
+16. Hayat felsefenizi hangi slogan özetler?
+
+Mahiyet sahibi olmadan erdemli, özgüven ve izzet sahibi olmadan onurlu olunamaz. Bir problemi görme yeteneğine sahipsek o problemi çözebilme kudretine de sahibizdir.
+
+17. Mutluluk rüyanız nedir?
+
+Çocuklarımın ve öğrencilerimin insanlara faydalı eserler verdiğini görebilmek
+
+18. Sizce mutsuzluğun tanımı?
+
+Varoluşuna anlam verememek
+
+19. Nasıl ölmek isterdiniz?
+
+Ders verirken
+
+20. Öldüğünüzde cennete giderseniz Tanrı’nın kapıda size ne söylemesini istersiniz?
+
+Dağların üstlenmekten çekindiği emanetin hakkını verdin ya kulum! Cemalimde varlığın ezeli ve ebedi anlamını keşfedebilirsin.
+
+---
+
