@@ -249,3 +249,235 @@ message is on code). Misafir, her kimse, kabul edilir, ayniligi olup
 olmadigina bakilmaz.
 
 ---
+
+Asterix külliyatı 50 yaşına basmış; kutlarız. Bu hikaye daha önce
+bahsettiğimiz Roma / Ortaçağ kültürel fay hattı ile birebir
+uyumlu. Asterix hikayesinde Roma tüm Fransa'yı ele geçirmiştir, "tek
+bir köy hariç". O koyun büyücüsü ihtiyar bir iksir yaratır, böylece
+köydekiler süper güçlere sahip olurlar, Roma'ya direnirler, vs.vs.Bu
+altyapıdan pek çok hikaye çıkacaktır tabii ki, biz de zevkle bunları
+okuduk. Bir hikayede Asterix ve (Türkçesi) Hopdediks'in Sezar'ın
+önünde durup herkes Roma (Nazi) selamını çakarken "n'ber moruk!"
+demeleri ilginç anlardan biriydi mesela. Kahramanlar Ave Ceasar (Heil
+Hitler) dememişlerdi, "direnmişlerdi".Fakat, ne yazık ki tarihte böyle
+bir köy olmadı, olamadı. Roma bugün Fransa denen yeri tamamen işgal
+etti. O zaman Asterix hikayesi günümüz Fransızlarının bilinçaltını
+dışa vurması açısından önemli bir veri noktası... Fransızlar tamamen
+ele geçirildiler, ama "keşke ele geçirilmeseydik", "Romalılaşmasaydık"
+hissiyatları Asterix üzerinden dışa vuruyor olmalı.Dipnot olarak
+belirtmek gerekir: Fransızca dili aslında zamanında orada konuşlanmış
+olan Roma askerlerinin konuştuğu "kaba Latincenin" bir türevidir, bir
+tür sokak ağzıdır. "Romantik" bir dil deniyor (romantik içindeki Roma
+vurgusunu dikkati çekerek devam ediyoruz) "hissiyatı kuvvetli bir dil"
+bağlamında şunu söylemek gerekir, bizce bu dil son derece kaba, iğrenç
+tınılara sahip; kusmakta olan bir insanın çıkardığı sesleri
+çağrıştırıyor. Neyse.. zevkler ve renkler.Fransa'nın ana kültürel fay
+hattı "seçkinlik / eşitlik (özgürlük)" izlerini acaba Asterix hikayesi
+içinde bulabilir miyiz? Roma tarafından tamamen ele geçirilen bu ülke,
+seçkinlik tarafını "Roma" ile eşleştirmiş, ve onun karşıtı olan
+tarafını, "eşitliği / özgürlüğü" Avrupa'nın "Ortaçağ" noktası ile
+birleşiyor olabilir mi? Olabilir. Düşünmeye değer.
+
+![](astrix.jpeg)
+
+![](asterix_1.jpg)
+
+![](asterix_2.jpg)
+
+---
+
+New York Times yayincisi Arthur Sulzberger Jr mulakatindan
+
+Endustri muthis bir gecis donemi yasiyor, fakat su anda yaptigimiz
+isin temel ozu hala onemli. Kendimizi bastan yaratmaliyiz, ve tekrar
+yaratacagimiz sey hala habercilik olacak. Insanlarin bilgi alis
+yontemi degisiyor, fakat bilgi alma ihtiyaci hala mevcut.
+
+[Gazetelerin durumunu tarif etmek için] aklıma gelen en iyi analoji
+Titanık. Titantik'teki kritik hata neydi? Kötü inşa mı? Kaza geçirmesi
+mi? Yeterince kurtarıcı bot olmaması mı? Buzdağlarıyla dolu bir deniz
+bölgesinde hız rekoru kırmaya çalışan bir kaptan mı? [Kafasını hayır
+anlamnda sallıyor] Aslında Titanık New York'a güvenli bir şekilde
+gelseydi bile onun sonu gelmişti. 12 sene önce iki kardeş uçak
+teknolojisini keşfetmişlerdi.
+
+---
+
+NewScientist makalesinden
+
+Peri Masali 1: Domuz gribinin semptomlari normal grip gibi. Eger
+atesiniz varsa, domuz gribi olmussunuz demektir.
+
+Domuz gribine yakalananlarin neredeyse yarisinda hic ates gorulmuyor,
+bazilari gastrointestinal problemler yasiyor, bazilari evet, standart
+grip semptomlari yasiyor
+
+Peri Masali 2: Bu basit bir grip. Olum oranlari normal gripten bile
+daha dusuk
+
+Domuz gribi cok yaslilardan ziyade genc insanlari olduruyor, ve kis
+daha yeni basliyor olmasina ragmen, tum kis sirasinda olebileceginden
+daha fazla genc insan domuz gribinden simdiden can verdi.
+
+Peri Masali 3: Saglikliysaniz problem yok. Sadece hasta, zayif
+insanlar oluyor
+
+Simdiye kadar domuz gribinden olen cocuklarin hepsi son derece
+saglikli cocuklardi, ve hastaliga yakalanan cogu yetiskin kurbanin da
+daha onceden yasadigi bir problem yoktu.
+
+Peri Masali 4: Eger "organik" yersen, vitamin alirsan, maske takarsan,
+ellerini cok yikarsan ve bol bol sivi icersen, problem yasamazsin.
+
+Asi olmak aileniz ve sizin icin edinebileceginiz en iyi korunma
+yontemidir.
+
+[..]
+
+Peri Masali 6: Asi guvenli degil. Niye alcak dozlu bir gribi durdurmak
+icin bu riski alalim?
+
+Daha onceki salginlar sirasinda nufusun ucte biri ya da daha fazlasi
+hastaligi kapti, ve gribin birini oldurmesi ya da Guillain-Barré
+sendromuna kapilmasinin riski asidan olme riskinden cok daha fazla.
+
+Peri Masali 7: Bu virus daha oldurucu hale gelmeyecek. Bir virus icin
+bu daha iyi yayilma yontemi degil [cunku cok oldururse atlama sansi
+azalir, evrimsel olarak demek istiyor]
+
+Grip virusleri bazen daha oldurucu hale gelebilir. Kimse 2009 gribinin
+nasil evrim gecirecegini bilmiyor ama bir yere gitmedigini kesin
+biliyoruz.
+
+Peri Masali 8: Bu grip bir kez yokolunca birkac onyil isi kurtardik
+demektir
+
+Ertesi gun bir baska hayvan gribi insanlara ziplayabilir, ve yeni bir
+salgin baslatabilir, ve bu, 2009 salginindan bile daha kotu olabilir.
+
+---
+
+Kodlarda Degisim
+
+Clotaire Rapaille sistemine gore 3 seviyeli beyine sahibiz ve bu
+seviyelerin etkisi yukaridan asagi (en eskiden, en yeniye) dogru onem
+kazaniyor. 1. seviye surungen beyin, 3. seviye analitik beyinden daha
+etkili. Catisma oldugunda, onun dedigi oluyor.
+
+Peki her seviyedeki algilama, program yapisi nasil degisiyor?
+
+Degisim hizi, etkinin tam tersi; asagidan yukari dogru hizlaniyor. En
+ustteki analitik beyin, en hizli degisebileni. Ihtiyaca gore, sartlara
+gore aninda uyum gosterme kabiliyetine sahip. Ortadaki duygusal zeka,
+yani kultur kodlari degismesi "mumkun olan", ama bu degisimi "cok
+agir" yapabilen seviye. An alttaki surungen zihindeki yapilar ise, hic
+degismiyor. Bu yapilar hayatta kalma, ureme ile alakali oldugu icin,
+onlar cok buyuk bir evrimsel degisim (bilahere cevre sartlarindan
+kaynaklanan durumlar) ya da genetik muhendislik haricinde
+degismeyecekler.
+
+Kultur kodlarinin degisimi onyillar, yuzyillar ile olculmekte.
+
+Bazi kultur kodlarinin cikis noktasi da aslinda "hayatta kalma"
+ihtiyaci; ise yaramis hayatta kalma stratejilerinin kultur olarak
+kodlanmis olmasi. Fakat buyuk degisimler yasadigimiz bu cagda, kultur
+kodlari ile "gerekli olanin" catismasi yasanabilir. Agir degisen
+caglarda bu catisma hissedilmiyordu. Fakat hizli degisim gereken
+cagimizda, bazi kultur kodlarinin buna dierenmesi
+gozlenebilecektir. Cunku her kod "dogru" degildir, neyse o'dur,
+oradadir, bunun bazi sonuclari vardir, bunun bilinmesi gerekir, ve
+catisma alanlari iyi gozlenmelidir.
+
+Ornek verelim; Ingilizlerin kendine atadigi kod KAST, profosyonellesen
+bir isgucunde, toplum yapisinda "geri" ve "yanlis" bir kod
+olacaktir. Bu kod eninde sonunda degisecektir. Amerika'nin ickiye
+verdigi kod SILAH garip bir kod'dur. Sacmadir. Degisebilir. Fransizlar
+zaten toptan ayvayi yemis, onlara deginmeye gerek yok. Degisecekler.
+
+Turkiye'deki bilgiye atanmis kod RUTBE bazi acilardan iyidir (egitimi
+kamcilamasi sayesinde) ama bazi acilardan sacmadir ('daha fazlasi'
+birisini 'daha onemli' yapiyor goruntusu). Sevgiye atanmis kod ACI
+acaiptir, degisebilir. Kendimize atadigimiz kod MISAFIRPERVERLIK
+iyidir, herhalde kalmaya devam edecektir. Gibi.
+
+---
+
+Web dunyasindan bilinen crowdsourcing, yani bir 'isi kalabaliklara
+ihale etme' kavrami [1] Amazon'un yeni servisi uzerinden bir
+fiyatlama, paylasma, alma/satma mekanizmasina sahip oldu. Mekanik Turk
+servisi bir 'dusunce hizmeti' almak isteyen alici ile o servisi vermek
+isteyen saticiyi birlestiriyor. Dusunce hizmetleri neye benziyor?
+Genellikle basit seyler; 30 tane resime bak ve her birinin daha
+onceden belirlenmis kategorilere esle, mesela. 'Ilginc bir yemek
+tarifi bul' gibi istekler de oluyor. Sistemin isminden hareketle her
+hizmeti veren 'emekciye' turk deniyor, hizmet icin odenen bedel
+oldukca cuzi. Yani iyi para kazanmak isteyen turk, pek cok bu
+sekildeki hizmeti bir gun icinde vermek zorunda, ki bu o kadar zor
+degil, cunku gorevler dedigimiz gibi agir degil. Bu isin etrafinda bir
+kultur olusmaya baslamis, teknikler hakkinda konusanlarin bu kelimeyi
+kullanisi insani guldurebiliyor bazen, TurKit diye bir yazilim araci,
+Turkopticon diye bir notlandirma sistemi varmis..
+
+Mekanik Turk isminin secilmesi tarihteki "Turk" adinda bir otonom,
+mekanik satranc aletine gidiyor; Bu alet 'guya' mekanik olarak satranc
+oynuyordu, ama aslinda icinde canli bir insan vardi, ve bu satranc
+aleti Napolyon, Benjamin Franklin gibi unlu kisileri satrancta
+yenmisti. Isin foyasi sonra ortaya cikartildi.
+
+Bu servis sosyal bilimlerde, reklamcilikta deneyler yapmak isteyenler
+icin iyi bir firsat olmali, deney yapmak istediginiz isi Amazon
+uzerinden ilan edip aninda gerektigi kadar turk'u isin uzerinde
+calistirmaniz mumkun.
+
+[1] Kalabaliklara ihale etme kavraminin ornegi YouTube'un herkesin
+video asmasina izin vermesidir, boylece 'kalabalik' ilginc video'lar
+asma isini, ihalesini gerceklestirmis olur.
+
+---
+
+Richard Wiseman: "On yıl önce "şans" fenomenini incelemek için ise
+koyuldum. [..] Şans olarak ortaya çıkan fırsatları ele alalım mesela;
+Şanslı diye bilinen insanlar tutarlı / sürekli şekilde bu tür
+fırsatlara rastlayıveriyorlar, diğerleri ise hiç rastlamıyorlar. Bu
+şans farkının, acaba o şansın "farkedilmesinden mi" ileri gelip
+gelmediğini anlayabilmek için bir deney yapmaya karar verdim.
+
+Şanslı ve şansız insan gruplarının ikisine de bir gazete verdim ve
+gazetenin tamaminde kaç tane fotoğraf olduğunu söylemelerini
+istedim. Şansız insanlar cevabı vermek için ortalama olarak 2 dakika
+harcadılar, şanslı insanlar ise saniyeler içinde cevabı
+buldular. Niye? Çünkü gazetenin ikinci sayfasında koca harflerle
+"saymayı bırak, bu gazetede 43 tane fotoğraf var" diye bir ibare
+vardı. Ama şansız insanlar bunu kaçırıyor, şanslı insanlar ise
+çoğunlukla bunu yakalıyorlardı. Eğlence olsun diye gazetenin ortasına
+doğru şöyle başka bir mesaj yerleştirdim "saymayı bırak, sadece
+deneyciye bu mesajı gördüğünü şöyle ve 250 papel kazan". Yine
+şansızlar bu mesajı çoğunlukla kaçırdı, şanslılar ise yakaladı.
+
+Daha sonra yaptığımız kişilik testleri, şansız insanların daha gergin
+insanlar olduğunu ortaya çıkardı, ve araştırmalara göre, endişe
+(anxiety) insanların beklenmeyen şeyleri farketmesini engelliyor. Bunu
+inceleyen bir diğer deneyde deneklerin bilgisayar ekrandaki bir
+noktayı takip etmeleri istenmişti. O sırada, hiç uyarı olmadan,
+ekranın köşelerinde birdenbire bir büyük noktalar
+gösteriliyordu. Deneklerin neredeyse tamamı bu büyük noktaları
+farkediyordu.
+
+Sonra aynı deney, ikinci bir grupla tekrar yapıldı, ama bu sefer
+deneklere ortadaki noktayı takip etmeleri için bir parasal ödül teklif
+edildi, bu daha çok gerginlik yarattı. Bu grup daha fazla ortadaki
+noktaya odaklandı ve köşelerdeki büyük noktalar denek grubunun üçte
+biri tarafından kaçırıldı. Görmek için ne kadar yoğunlaşsalar, o
+ölçüde daha az görüyorlardı.
+
+Şans fenomeni de aynen böyle işte: şansız insanlar fırsatları
+kaçırıyorlar çünkü gayet ağır / ciddi bir şekilde başka bir şeye
+odaklanmakla meşguller. Eğlence partilerine "mükemmel eşi" bulmaya
+odaklı bir şekilde gidiyorlar, ve arkadaşlık kurmak için fırsatları
+kaçırıyorlar. Gazetelerde belli / net iş fırsatları bulmak için
+bakıyorlar, ve diğer uygun olabilecek diğer iş çeşitlerini
+kaçırıyorlar. Şanslı insanlar daha rahat, daha açık, böylece "sadece
+aradıkları şey" yerine "gerçekten ne olduğunu" daha rahat görüyorlar"
+
+---
+

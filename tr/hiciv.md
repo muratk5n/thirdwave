@@ -34,6 +34,8 @@
 
 [Demeçlerin arkasındaki sır perdesi](/2009/10/demeclerin-arkasindaki-sir-perdesi.md)
 
+[Onemli telefon konuşması](/2009/10/onemli-telefon-konusmasi.md)
+
 [Tapınak rahatsız](/2009/10/tapnak-rahatsz.md)
 
 [Ata geri geldi!](/2009/11/ata-geri-geldi.md)

@@ -40,59 +40,25 @@
 
 [Şehir Tercihi](08/sehir-tercihi.md)
 
-[Almanya ve Sol](09/almanya-ve-sol.md)
-
-[Asiri Hiz](09/asiri-hiz.md)
-
-[Biyonik Goz](09/biyonik-goz.md)
-
 [Bırakın Batsınlar](09/brakn-batsnlar-tamam.md)
-
-[Bravo](09/bravo.md)
-
-[CHP](09/chp.md)
 
 [Ermeniler, Kürtler](09/ermeniler-kurtler.md)
 
-[Krugman ve Cochrane](09/krugman-ve-cochrane.md)
-
-[Linkendavarismus](09/linkendavarismus.md)
-
-[Turkiye Kultur Kodlari](09/turkiye-kultur-kodlari.md)
-
-[Yuksek Egitimi Kurcalamak](09/yuksek-egitimi-kurcalamak.md)
-
-[Asterix](10/asterix.md)
-
 [Avrupa'nin Kulturel Fay Hatti](10/avrupanin-kulturel-fay-hatti.md)
-
-[Basin Titanige Benziyor](10/basin-titanige-benziyor.md)
 
 [Burokrasi / Medya Kompleksi](10/burokrasi-medya-kompleksi.md)
 
 [Demeclerin arkasındaki sır perdesi](10/demeclerin-arkasindaki-sir-perdesi.md)
 
-[Domuz Gribi Peri Masallari](10/domuz-gribi-peri-masallari.md)
-
 [Dünyanın En Tembel Öğretmeni](10/dunyanin-en-tembel-ogretmeni.md)
 
 [Guzel Gelismeler](10/guzel-gelismeler.md)
 
-[Hindistan'da Ayn Rand](10/hindistanda-ayn-rand.md)
-
 [Ulu Onder Soros](10/img.md)
-
-[Kodlarda Degisim](10/kodlarda-degisim.md)
-
-[Mekanik Turk](10/mekanik-turk.md)
-
-[Nobel ve Obama](10/nobel-ve-obama.md)
 
 [Onemli telefon konuşması](10/onemli-telefon-konusmasi.md)
 
 [Roma](10/roma.md)
-
-[Şans](10/sans.md)
 
 [Tapınak rahatsız](10/tapnak-rahatsz.md)
 

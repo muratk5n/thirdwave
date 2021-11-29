@@ -20,26 +20,10 @@ donusumunu tamamlayamadigi hatta guclerin onun uzerinde bir ters etki
 yarattigi anlasiliyor. He-Man'in unlu kaplani yerine ise Baykal'a bir
 esek verildigini goruyoruz.
 
-
-
-
-
-
-
-zaman:
-
-Ekim 17, 2009
-
-
-
-
-
-
-
-
-
-
 ![](genelkurmay.jpg)
+
 ![](genelkurmay%286%29.jpg)
+
 ![](baykal-heman.jpg)
+
 ![](bk-baykal-essek.jpg)
