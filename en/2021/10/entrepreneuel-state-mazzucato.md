@@ -76,5 +76,24 @@ due to the presence of venture capitalists, nor of ‘garage
 tinkerers’. It was the visible hand of the State which made these
 innovations happen. Innovation that would not have come about had we
 waited for the ‘market’ and business to do it alone – or government to
-simply stand aside and provide the basics.
+simply stand aside and provide the basics...
+
+<a name='corplabs'/>
+
+A recent study by MIT claims that the current absence in the US of
+corporate labs like Xerox PARC (which produced the graphical user
+interface technology that led to both Apple’s and Windows’ operating
+systems) and Bell Labs – both highly co-financed by government agency
+budgets – is one of the reasons why the US innovation machine is under
+threat (MIT 2013). [The study] has looked at the strengths and
+weaknesses of the US innovation system and the causes of relative
+decline of manufacturing in America. The study has strived to
+understand why the development of promising innovations are stalling
+or simply moving abroad before reaching commercial scale. One of the
+reasons unveiled by the study is the fact that large R&D centres –
+like Bell Labs, Xerox PARC and Alcoa Research Lab – have become a
+thing of the past in big corporations; they have mostly
+disappeared. Long-term basic and applied research is not part of the
+strategy of ‘Big Business’ anymore, as corporate R&D now focuses on
+short-term needs.
 

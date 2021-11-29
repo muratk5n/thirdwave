@@ -28,12 +28,16 @@ the UI team to design an interface for an iPod phone, a way o dial
 numbers, select contacts, and browse the web using that device’s
 tried-and-true click wheel.
 
+<a name='xerox'/>
 
-
-
-
-
-
-
-
+In 1979, a young squad of Apple engineers, led by Steve Jobs, visited
+the Xerox Palo Alto Research Center and laid eyes on its
+groundbreaking graphical user interface (GUI) boasting windows, icons,
+and menus. Jobs and his band of “pirates” borrowed some of those ideas
+for the embryonic Macintosh. When Bill Gates created Windows, Jobs
+screamed at him for stealing Apple’s work. Gates responded coolly:
+“Well, Steve, I think there’s more than one way of looking at it. I
+think it’s more like we both had this rich neighbor named Xerox and I
+broke into his house to steal the TV set and found out that you had
+already stolen it.”
 
