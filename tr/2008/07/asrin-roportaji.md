@@ -1,4 +1,4 @@
-# Asrin roportaji
+# Asrın röportajı
 
 ![](ozkok.JPG)
 
@@ -47,4 +47,8 @@ G.F.: Karanlikci Medya'nin farkliligi burada ortaya cikiyor efendim. Sizin kitle
 R.T.E: O zaman anlastik Gucun Bey. Yakinda bizim partimizden bir cek alirsiniz. Karanlik Bey'e selamimi iletin.
 
 G.F.: Derhal efendim. Iyi calismalar dilerim.
+
+
+
+
 
