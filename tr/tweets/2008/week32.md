@@ -1179,3 +1179,281 @@ basit. Siyah, beyaz. Iceride, disarida. Akillica, aptalca.
 [2] Emekli Org. Hilmi Ozkok'un NATO ile iliskilerin TSK'yi temelden degistirdigi hakkinda soylemleri vardir.
 
 ---
+
+Derin Dusunce'de Ferhat Kentel'den guzel bir yazi
+
+http://www.derindusunce.org/
+
+http://www.derindusunce.org/2008/08/26/40-yil-sonra-yeniden-68/
+
+---
+
+Askerlik yaptiktan sonra rock muzisyeni olan ilginc kisilik James
+Blunt'in bir sure once bir yazisini okumustum. Blunt, meger 1999
+sirasi/sonrasi Kosovo'da carpismis; Ve o zamanlarda hatirlanabilecegi
+uzere bir Pristina hikayesi vardi. Ruslar kel alaka bir sekilde
+savasin ortasina damlayip Pristina havaalanini "ele gecirmislerdi". Bu
+olay hakkinda Blunt'in anlattiklari soyle:
+
+"NATO bombalamayi durdurduktan sonra, Pristina'ya gitmemiz ve
+havaalanini ele gecirmemiz soylendi - fakat Ruslar oraya bizden once
+gelmisti. NATO kuvvetlerinin basi olan General Wesley Clark'in bize
+hemen Ruslari oradan cikartmamizi emrettiginin hatirliyorum, hatta
+"yokedin" kelimesinin kullanildigini hatirliyorum. Bu asirilik Ingiliz
+general Michael Jackson'a bu emre karsi gelmesi icin yeterli sebep
+verdi zannediyorum, Clark'a soyle cevap verdi: "Sen dedin diye
+3. dunya savasini baslatmayacagim". Ben o havaalanina erisen ilk
+Ingiliz askeriydim, o yuzden Jackson'un bunu soyledigini acikca
+dogrulayabilirim. Sonra Jackson'un aklina cok parlak bir fikir geldi;
+Bizim guclerimiz alani iki gun icin terketti, ama sonra geri
+geldik. Ruslarin ne suyu, ne yiyecegi ne de bunlari alabilecekleri
+lojistik destekleri vardi, ortada kalmislardi, baktilar bizim
+yardimimiza ihtiyaclari var, bize gelmek zorunda
+kaldilar. Havaalaninin kontrolunu boylece ele gecirdik."
+
+Kissadan hisse: Ruslarin haldir huldur ortama dahil olma gibi bir
+aliskanliklari var... Fakat uzun vadede kazanan onlar olmayabiliyor.
+
+http://www.newsweek.com/id/143676
+
+---
+
+Oyun yazicilarinin caninin sıkılmaya basladigini bu oyun ismini
+gordukten sonra anladim: Bus Driver for PC. Yani "Otobus
+Soforu". Evet, yanlis duymadiniz, bu oyunda canavarlar ya da kung-fu
+ustalari ile carpisip dunyayi yokolmaktan kurtarmiyorsunuz, ya da bir
+Galaktik Imparatorlugunu insa etmeye ugrasmiyorsunuz. Bu oyunda sadece
+otobus soforlugu yapiyorsunuz.Caddelerde ilerleyip, trafikte sıkısıp
+duraklarda yolcu bindiriyor, indiriyorsunuz. Bazen yagmur yagiyor,
+bazen camur oluyor. Cocuklari okullarina yetistirmeniz gerekiyor. Hah!
+Peki kardesim, bundan sonraki oyun ne olacak yahu? Hademe for PC?
+Isportaci for Windows? (Bu islere saygisizlik gibi
+olmasin..... -hmm.. peki olsun-).Ve sunu da soyleyeyim, bu oyunun da
+musterisi oldugundan hic suphem yok. Bu durum aslinda bize hayat
+hakkinda bir sey daha soyluyor ; Eger su anda oldugumuz yasam da bir
+nevi oyunsa, bu oyunda farkli seviyelerdeki "oyun turlerine" istek
+olmasi bu benzerlikten yola cikarak anlasilir olmali. Otobus soforlugu
+yapmak gibi banal bir is bile musteri bulabildigine gore! Aslinda
+dusunursek, otobus soforlugu bir madende iscilik yapmaktan daha zevkli
+bir is olabilir. Surekli geziyorsunuz, manzara degisiyor yani, sehir
+yasamini yakindan takip etme sansiniz oluyor... Neyse.. :)Bus Driver
+for PC! Inanilmaz..
+
+---
+
+IETT otobuslerinde soforlerin, cep telefonu ile konusan yolculara
+ihtarda bulundugu gibi bir haber aldik. Bu ihtar ve varsa yasak,
+tamamen bir sacmalik uzerine kurulu - cep telefonlarinin ABS
+frenlerine zarar vermesi gibi bir durum yok. Bu bir peri
+masalidir. Insanlar da aptal degiller, Internet'ten bakmislar, ve
+boyle bir durum olmadigini gormusler, soforleri
+dinlemiyorlar. Haklilar da.Soforlere bu durum anlatilsin, eger varsa
+yasak kaldirilsin. Yoksa halkin icinde hirgur cikmasi icin bir sebep
+daha ortaya cikacak. Aktarilan hikayede yolcu ve sofor birbirlerine
+bayagi bagirip cagirmislar, "en zengin semtlerimizin birinde" isleyen
+o yesil klimali otobuslerin birinde. Yani sicak insanlarin basina
+vurmus diyebilirsiniz, ama o degil.Bizden soylemesi.Bazi baglantilar
+[1,2] (1. baglantidan bir alinti altta)İstanbul Teknik Üniversitesi
+(İTÜ) Elektronik Fakültesi Elektronik Haberleşme Mühendisliği Bölümü
+Öğretim Üyesi Doç. Dr. Melih Pazarcı, cep telefonunun araçlardaki ABS
+fren sistemini etkilemesi nedeniyle kaza yapılması ihtimalinin yüzde
+1’in altında olduğunu söyledi.
+
+Cep telefonunda, konuşmanın yapıldığı noktayla, baz istasyonu
+arasındaki mesafenin ve konuşmanın aracın neresinde yapıldığının
+önemli olduğunu anlatan Doç. Dr. Pazarcı, ancak bu etkinin de sınırlı
+olduğunu ifade etti.  Doç. Dr. Pazarcı, şunları kaydetti: “Cep
+telefonuyla görüşme yapan yolcu ön koltukta dahi olsa etkileme
+ihtimali çok büyük değil. Cep telefonunun ABS fren sistemini
+etkilemesi nedeniyle kaza yapılması ihtimali yüzde 1’in altında. Diğer
+kaza nedenlerinden, örneğin hatalı sollamayla kaza yapma ihtimalinden
+daha az. Trafik sorunlarının içinde sıralamaya bile girmez.
+
+---
+
+Eski Sovyet ulkelerinden olan Gurcistan, halen Rusya'nin oyun alani
+olmaya devam ediyor. 90'li yillarda AB/D Rusya'nin eski uydu
+ulkelerine karismasina ses cikarmiyordu, fakat isler degismeye
+basladi. Oncelikle Rusya eski uydularini Ingiltere Commonwealth usulu
+biraraya getirip bir etki rejimi kurup ama ayni zamanda onlarin
+istikrarli olmasini saglayacagi yerde, kendi imparatorlugunu yiktigi
+gibi, bu ulkeleri de sanki ayni yikima sureklemek ister gibi
+davraniyor. Eski aliskanliklar kolay olmuyor, Ruslar hala bolgede en
+iyi bildikleri oyunu oynamaya devam ediyorlar: Divide et Imperium [1].
+
+Gurcistan'da simdiye kadar neler yaptilar? Rusya, oncelikle
+Gurcistan'in kuzeyindeki Abkhazya'da ayrilikci bir teror orgutune para
+ve silah yardimi yapiyor. Ayrica, Guney Ostenya'da Rus asilli
+Gurcistan vatandaslarina Rus pasaportu dagittilar. Rusya'nin her zaman
+kullandigi bir taktik, bir ulkede karisiklik yaratip sonra "cocuklarin
+kavgasini ayirmaya gelen buyuk abi gibi" ortaya cikip bahane ile
+askeri mudahele yapmaktir. Pasaport dagitiklarini "koruma" bahanesi de
+cabasi.
+
+Fakat artik bolgede AB'nin onemli cikarlari var. Baku-Ceyhan petrol
+hatti Gurcistan'dan geciyor, ve bu hem dunya hem Avrupa icin onemli
+bir enerji kanali. Dunya petrollerinin yaklasik %1.5''i son halkasinda
+bizim bulundugumuz bu kanaldan transfer edilmekte. Bu hat ozellikle
+Rusya'dan gecirilmedi, bolgedeki enerji aktarim kontrolunun tek bir
+ulkede (ve ozellikle Rusya'da) kalmasi istenmedi. Hattin cikabilecegi
+kapasitesi gunde 10 milyon varil, o zaman dunya ihtiyacinin %10 civari
+bu hattan geciyor olacak.
+
+Son Gurcistan olaylarinda AB ile Turkiye'nin cikarlari ortusuyor. Bu
+baglamda diplomatik kulak cekmeler, uyarilar, vs. gibi konularda
+Turkiye'nin geri plana cekilmesinde mahsur yoktur, boylece Rusya ile
+iliskiler de bozulmamis olur.. Insallah her sey duzelir tabii;
+Gurcistan'in iyiligi AB ve Bati ile daha iyi iliskilerde bulunmasinda
+geciyor. Ama Saakasvili'nin yonettigi ulkeye su an tam demokrasi
+denemez. Kendine karsi cikan STK'leri ve televizyon kanallarini
+kapatmakla biliniyor. Ulkede halen kacakcilik, mafya kol
+geziyor. Yapacak cok isleri var.
+
+[1] "Bol ve yonet" sozunun Latincesi. Romalilara atfedilen bir sozdur.
+
+[2] Khanna, P., The Second World
+
+---
+
+ING Bank'in reklam filmi, Clotaire Rapaille'in Kultur Kodlari adli
+kitabinda tarif edilen analizlere tamamen uygun tasarlanmis... Filmin
+ana temasi "icinizden biri olmaya geldik, Turkiye'nin enerjisinden guc
+almaya, gucunuze guc katmaya geldik" mesaji oncelikle Rapaille'in
+saptadigi Turkiye'nin kendine atadigi kod olan MISAFIRPERVERLIK
+hissiyatina uygundur (message is on code). Filmde gosterilen asci zat,
+disaridan ulkeye gelmis, "kabul edilmis" ve Turk gibi yasamaya
+baslamistir.Ikinci koda uygun mesaj olan "guce guc katmak" mesajinda;
+Bu, Turkiye'de eger kultur kod analizi yapilsa ortaya cikacagindan
+emin oldugum "GUCLU OLMAK" kodununun aktive edilmesidir. Ezilmis,
+yikilmis, tarumar edilmis bir imporatorluktan ortaya cikan yeni bir
+ulkenin bu kelimeler etrafinda bir kod gelistirmis olmasi raslanti
+olmasa gerek (bu kod, duygusal zekada hangi hissiyata bagli bunu
+bilmiyoruz, arastirilmasi gerekir).Ayrica guclu olma mesaji hayatta
+kalma durtusu uzerinden surungen beyine de hitap
+etmektedir.Rapaille'in arastirmalarina gore, bir urunu/servisi
+alirken, beyindeki uc seviye etkili olmaktadir. Bu seviyeler surungen
+beyni, duygusal beyin ve analitik beyindir. En alt seviyedeki surungen
+beyin, hayatta kalma, ureme gibi onceliklerle ugrasir, duygusal zeka
+ergenlik oncesi yasta kurulan zihinsel baglantilari saklar, analitik
+zeka ise problem cozucu zekamizdir. En son gelisen ve en sofistike
+olandir.Surungen beyin en ilkel olmasina ragmen, alim kararlarinda en
+guclusudur. Diger seviyeler, sofistikelestikce kuvvetlerini
+kaybederler. Yani ING Bank reklami, surungen ve duygusal zekaya hitap
+ederek, cok guclu bir kombinasyonu aktive etmistir.Bu reklamda
+analitik zekaya hitap eden hicbir sey yoktur. Bankanin filanca
+"servisleri" iyi oldugu icin tercih edilmesi soylenmemektedir. Sadece
+"guc", "enerji", "gelmek", "icinizden biri" gibi bir takim dugmelere
+basilmaktadir.Yontem ve varilacak sonuc acisindan bu reklamin basarili
+bir reklam oldugunu soyleyebiliriz.
+
+
+![](ing.JPG)
+
+---
+
+Owen Matthews - Gurcistan
+
+Newsweek yazari Owen Matthews, Gurcistan'da olanlari cok guzel ozetlemis . O da bu blog gibi Rusya'nin bol-yonet politikasina vurgu yapmis, ve cok guzel bir aci daha getirmis; Medvedev ve Saakasvili ne yazik ki tarihlerine esir dusmus genc politikacilar. Evet, Rusya'nin Guney Kafkasya'daki oyunlari cok eskidir, fakat artik gercekten bunlar gerekli mi? Tarihten gelen bazi siyasetler, bazen hic dikkat sarfedilmeden kullanilip gidebiliyorlar; Bizim Kibris politikalarimizin uzun sure ayni sekilde devam ettigi gibi. Bol-yonet politikasi artik ne kadar anlamlidir? Rusya'nin "zayif Gurcistan" politikasi stabilite mi getiriyor yoksa daha fazla karmasa mi?
+
+Makalede Saakasvili'nin 2004 yilinda ayrilikci bolgeleri geri getirme platformu uzerinde secildigini de hatirlatiliyor. Yani "boyuna bakmadan ne islere kalkisiyorsun" diyenler, bu noktayi gozden kaciriyorlar. Bahsedilen bolgelerin uluslararasi cercevede Gurcistan'in parcasi sayildigini, ve Rusya'nin burada teroru tesvik ettigini bir daha dusunmemiz gerekiyor.
+
+Bundan sonra ne olacak? Aslinda AB, bu bolgeyi usulca bir Guney Kafkasya Federasyonuna dogru itmekteydi [1]. Ermenistan, Gurcistan, Azerbeycan arasinda cok sIkI ulasim, ticaret gibi baglantilar tesvik edildi... Nakliyat baglaminda Turkiye'den baslayarak tum bu Guney Kafkasya ulkelerine hatta oradan Cin'e ziplanabilecek bir ulasim agi yavasca olusmaya basladi. Bunlar iyi seyler. Aslinda AB ile iliskiler bu bolgenin cikarina, bundan bahsettik, cunku yanibasindaki buyuk abi hala kendini toparlayabilmis degil, ve ihrac edecek "erdem"'den yoksun. AB her ne kadar modernite sonrasi caga tam uyum saglayamamis olsa da (azicik geri) ikinci dunya ulkelerine verecek bir seyleri var. Yatirim yapacak parasi da var. Buna karsilik enerji guvenligi elde edecek. Alan memnun satan memnun.
+
+Bize donersek: Turkiye, Demirel zamaninda bir Kafkasya Anlasmasi gundeme getirmisti. Bu gundeme getirilen AB'nin planina ne kadar yakin, uzak bunu bilemiyoruz. Belki de Turkiye'nin versiyonu, AB'nin aklindaki federasyon, arti bizden ibaret, disarida kalmamak icin son anda yapilan bir hamle belki de.. Rusya buna dahil olabilir mi? Bu planla ilk kez Obama'nin disisleri patronu Brezinski'nin bir kitabinda karsilasmistim, "Demirel'in Plani" diye bahsediyordu, ve bunun tekrar gundeme gelmesi mumkun olabilir diye yaziyordu, yani Obama kazanirsa, bu plana sicak bakan bir basta olacak. Erdogan'in son gunlerde gundeme getirdikleri de zannediyorum ayni plan.
+
+Taraf'tan Cemil Ertem'in guzel bir yazisi da altta.
+
+[1] Khanna, Parag, The Second World, 2008
+
+http://www.newsweek.com/id/151712
+
+http://www.cap.lmu.de/download/2006/2006_South_Caucasus.pdf
+
+http://www.taraf.com.tr/yazar.asp?mid=1545
+
+---
+
+Star Wars kulliyati uzerinden gelistirilmis Turkiye'de cekilmis,
+efektleri Turkiye'de yapilmis bir fragman. Artik hayranlarin (fan)
+yaptigi filmler neredeyse orijinal filmler kadar ilgi ceker oldu (daha
+once uretici merkez firmanin bile kendi urunu hakkinda tekelligi
+kaybetmeye basladigindan bahsetmistik); Mesela bir fan filmi olan Star
+Wars Revelations George Lucas'in filmlerini aratmayan efektler
+iceriyor. Insanlarin elindeki islemci gucu arttikca, bu tur kullanici
+innovasyonlari daha da artmaya baslayacak... Ilgilenenlerin Machinima
+adli kavrama da bakmalarini tavsiye ederim; 3D oyunlarin grafik
+motorlari kullanilarak ilk sahistan oynanan figurlere rol yaptirilip
+demo cekilme uzerinden bir film yaratilmasi durumudur. Bu tur
+filmlerin de ciddi takipcileri var. Artik "hit" fimlerin onemi
+azaliyor, bu tur istege ozel (niche) uretimler on plana cikmaya
+basliyor. Kullanicidan kullaniciya uretim/tuketim cagi bu.
+
+---
+
+Biraz ulke ve yakin bolge disina cikip, Uzak Dogu'daki guc
+dinamiklerine bakmamiz faydali olabilir. Yukselen Asya'nin ayni
+zamanda catisma potansiyeli de yukseliyor. Konu hakkinda Brezinski'nin
+The Choice adli kitabindan bir alintilar/derleme alttadir:"Tum Asya
+ulkelerinin cok onemli bir stratejik yumusak karni var.. Her Asya
+gucu, deniz tasimaciligi ve ticareti icin bolgedeki iki veya uc buyuk
+limana ihtiyac duyuyor. Japonya, Cin veya Hindistan'in ekonomisine diz
+cokturmek icin Shangai veya Yokohoma veya Bombay (ve birkac ek liman)
+gibi girislere birkac manyetik mayin koyulmasi yeterlidir. Gemileri-ve
+bu gemilerin tasidigi en onemli mal olan petrol bu hatlardan
+gecmektedir, ve bu malin tum Asya ulkeleri icin ne kadar onemli
+oldugunu hatirlatmaya gerek yok . Milletlerarasi tren tasimaciligi
+kullanilabildigi yerlerde bile (Cin, Hindistan) deniz ulasimina oranla
+kiyaslanamayacak kadar yetersizdir, ve zaten Japonya, Endonezya gibi
+ada ulkeleri icin gecerli bir secenek degildir. Bu durumda Singapor'un
+hemen aciklarinda olan Malacca Bogazi tasimaciliktaki en onemli
+gecitlerden biri haline gelmektedir - Uzak Dogu'nun tamami bu gecitten
+mal tasimaktadir.Tum bu zayifliklarin ortada olmasi, onlarin korunma
+ihtiyacini dogal olarak ortaya cikarmistir.
+
+Bu yuzden hic sasirmamak gerekir ki, Asya'da sessiz sedasiz bir
+donanma silahlanma yarisinin isaretleri gozukmeye baslamistir. Bu
+yarisin bir onceki yuzyilda Avrupa'da vuku bulmus olan donanma
+yarisina olan parallellik gercekten carpicidir. Bolgedeki tum buyuk
+oyuncular, fazla reklam ve gurultu cikarmadan, denizalti filolarini
+genisletmekte, atak helikopteri tasiyan savas gemileri almakta, ucak
+gemisi almayi planlamakta, ve donanmalarinin "etki/nufuz
+alanini/mesafesini" arttirmaya ugrasmaktadir. Ozellikle Cin ve
+Hindistan cok kuvvetli okyanus donanmalarina sahip olma isteklerini
+belli etmislerdir; Her iki ulke de Rusya'nin Sovyetler oldugu sirada
+yapmaya basladigi ama tamamlayamadigi ucak gemisini devralmak icin
+aktif gorusmelerde bulunmaktadir. Her iki ulke ayni zamanda destroyer
+kabiliyetlerini modernize etmektedir ve en son Rus uretimi
+destroyerleri envanterlerine eklemislerdir. Cin ve Hindistan onemli
+bir caydirici kuvvet olarak denizalti kuvvetine ozel onem
+vermektedirler [2]. Cin stratejik literaturunde donanma planlamacilari
+Cin'in gitgide etki alanini guneybati'ya dogru genisletmesini
+savunmakta, Hindistan'da ise ayni planlamacilar hem Hindistan'in Hint
+Okyanusundaki sorumlulugunun artmasina hem de Malacca Bogazi'nda
+etkisinin hissettirmesine vurgu yapmaktadirlar.
+
+Uzak Dogu'nun kaderini buyuk olcude Cin ve Japonya'nin nasil
+anlasacagi ve Amerika'nin bu ikisi arasindaki konumu
+belirleyecektir. Eger ABD bolgeden cekilirse, bu Japonya'nin nukleer
+guc olmasini bir zorunluluk haline getirir. Zaten su an bile Japonya
+nukleer enerji uretiminde 3. ulke konumundadir; Yakinda acmayi
+planladigi nukleer tesisleri ve onlara gereken yakitlari elde ettikten
+sonra dunyanin en buyuk uranyum birikimi onda olacaktir. Bazi Cin'li
+stratejisyenlere gore Japonya karar verdikten sonra bir nukleer guc
+olma suresi alti ustu bir haftadir. Bu aslinda Japonya'yi fiili
+(de-facto) bir nukleer guc oldugunu gostermektedir".Brezinski,
+analizinin ilerleyen kisimlarinda ABD'nin bolgeden cekilmemesini
+savunan bir durusu ortaya koymustur cunku bir yandan nukleer
+secenekler bir diger yandaki Avrupa tarihini andiran donanma
+silahlanma yarisi, sonu belli bir noktaya dogru gidecektir. Yani
+Obama'nin secilmesi durumunda ABD Pasifikte halen varligini surdurmeye
+ugrasan bir ulke olarak secimini yapacaktir.---[1] The Choice,
+sf. 109,[2] Stratejik olarak bir denizalti, deniz savaslarinda ucak
+gemileri icin en oldurucu enstrumanlardan biridir. Soz odur ki, "eger
+bir ucak gemisi kaptanina Allah korkusu tanitmak isterseniz, ona
+yakinda bir denizalti oldugunu soyleyin". Bu yuzden ucak gemileri her
+zaman kendi destroyerleri, ve kendi denizaltilarindan olusan bir filo
+esliginde seyahat eder. Mumkun bir dusman denizalti saldirisina karsi
+kendi denizaltisinin karsi koymasi beklenir.
+
+---
+

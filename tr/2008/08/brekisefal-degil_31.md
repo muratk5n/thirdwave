@@ -17,9 +17,3 @@ Bu saçmalıklar tabii ki bizim umrumuzda değil. Bizce, bir insanın
 işinde yükselmesi için tek önemli kıstas meritokrasi yani o kişinin
 kabiliyeti ve becerisi.
 
-
-
-
-
-
-
