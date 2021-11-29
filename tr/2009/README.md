@@ -62,89 +62,23 @@
 
 [Tapınak rahatsız](10/tapnak-rahatsz.md)
 
-[0-3 Yas Arasi](11/0-3-yas-arasi.md)
-
 [Ata geri geldi!](11/ata-geri-geldi.md)
 
 [Beavis and Butt-head Do Turkey](11/beavis-and-butthead-do-turkey.md)
 
-[Bruce Bueno de Mesquita](11/bruce-bueno-de-mesquita.md)
-
 [Damal Tapinagi - Yeni Fotograf](11/damal-tapinagi-yeni-fotograf.md)
-
-[Duvar](11/duvar.md)
-
-[Egitimi Iyilestirmek Icin 1 Milyar $](11/egitimi-iyilestirmek-icin-1-milyar.md)
-
-[Google Darbesi](11/google-darbesi.md)
-
-[Gorbacov'un Izindeyiz](11/gorbacovun-izindeyiz.md)
-
-[Herkes Için Daha Fazla Ozgürlük](11/herkes-icin-daha-fazla-ozgurluk.md)
-
-[Imparatorluk - The Daily Show](11/imparatorluk-daily-show.md)
-
-[Kamu Secenegi](11/kamu-secenegi.md)
 
 [Kamyoncular derneginden](11/kamyoncular-derneginden.md)
 
-[Katar Islam Muzesi](11/katar-islam-muzesi.md)
-
 [Krizden cıkış G şeklinde olacak](11/krizden-cks-g-seklinde-olacak.md)
-
-[Mesquita - The Daily Show](11/mesquita-daily-show.md)
-
-[Obama STEM Egitim Atilimi Konusmasi](11/obama-stem-egitim-atilimi-konusmasi.md)
 
 [Iste Osmanli](11/ralph-grillo.md)
 
 [Roma Tavsiyeleri](11/roma-tavsiyeleri.md)
 
-[Siviller, Askerler, Kodlar](11/siviller-askerler-kodlar.md)
-
-[Tektip Uretim Silinirken](11/tektip-uretim-silinirken.md)
-
-[V](11/v.md)
-
-[Yaşa Gore Ses](11/yasa-gore-ses.md)
-
-[Zaman Farkı](11/zaman-farki.md)
-
 [16 Devlet, 25 Parti](12/16-devlet.md)
-
-[30 Rock - NY Times](12/30-rock-ny-times.md)
-
-[33](12/33.md)
-
-[Acik Veri ve IETT](12/acik-veri-ve-iett.md)
 
 [Benzerlikler](12/benzerlikler.md)
 
-[Danseeet](12/danseeet.md)
-
-[Don Tapscott](12/don-tapscott.md)
-
-[DTP](12/dtp.md)
-
-[Dünyalı](12/dunyal.md)
-
-[Eskiden Yeniye](12/eskiden-yeniye.md)
-
-[Farelere Bakmayin](12/farelere-bakmayin.md)
-
-[Her Yerde Android](12/her-yerde-android.md)
-
-[Icraatin Icinden](12/icraatin-icinden.md)
-
-[Iran ve de Mesquita Ongorusu](12/iran-ve-de-mesquita-ongorusu.md)
-
-[Ocalan'in Yakalanmasi](12/ocalanin-yakalanmasi.md)
-
-[Ostpolitik](12/ostpolitik.md)
-
-[SI Tablet](12/si-tablet.md)
-
 [Yeni bildiri](12/yeni-bildiri.md)
-
-[The Young Turks](12/young-turks.md)
 
