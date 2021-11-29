@@ -829,3 +829,301 @@ servisine sahip olmasiydi belki de. Su anda bu tur bir servis TR'de
 verilebilir mi? Fizibileteye konuyla ilgilenenlerin bakmasi gerekir.
 
 ---
+
+Allah rahmet eylesin; Michael Jackson vefat etti. Hakkinda bir suru
+iddia, suclama yapilmisti, dogru olup olmadiklari hicbir zaman
+anlasilamadi, ve bu unlu kisiligin gizemli hayati gizemli bir sekilde
+sona erdi.
+
+ABD'de MJ'ye karsi hep bir antipati hissetmisimdir, kiyasla bu
+hissiyat Avrupa'da cogunlukla mevcut degildir. MJ'in ABD'de yasadigi
+antipati, zannederim, MJ'in kendi irksal, kulturel mirasini (heritage)
+yok sayip baska bir sey olmaya calismasiydi. Zenci bir arkadasimla bir
+kere televizyonda bir MJ klibine denk gelmistik, arkadasin soyle bir
+bakip "yahu bu adam bembeyaz olmus!" diye yorum yaptigini
+hatirliyorum. O yillarda artik ABD "gecmisini hatirla" "atalarina
+saygi goster" moduna girmisti. Domates corbasi degil bir "salata
+kasesi (salad bowl)" olma cabasinin izleriydi bunlar. Aslinda bu
+secimin optimal bir durus oldugunu kabul etmek gerekiyor, sadece MJ,
+belki de dogdugu (eski) cag itibariyle, bu akimin biraz
+disindaydi. Reagan cifti ile cektirdigi fotograf dunyanin en garip
+fotograflarindan biri sayilmalidir bence (ben sizin kulturunuzun
+askeriyim durusu).
+
+Diger taraftan; Ilginc gelebilir ama MJ'in psikolojik analizi onun
+asiri savasci karakterde biri oldugunu gosteriyor. Bu tur insanlar
+miyminti, canim cicim tipler degildir. "Ben" ve "herkese karsi ben"
+hissiyatiyla kusanmis asiri savasci insanlardir. Bazi MJ kliplerindeki
+siddet gosterileri (tabii ABD sakinma / ozgurluk hattina satis
+yaparak) bu baglamda okunmali; Ama bu insanlarin aslinda digerlerine
+guc vermeyi, desteklemeyi ogrenmesi gerekir, MJ kariyerine bakarsak bu
+ne kadar basarilmistir, bilemiyoruz. Efendim cocuklugu soyledi
+boyledi, babasi onu asiri calistirmisti... Sacmalik bunlar.. Bu
+karakterdeki insanlar ne tur olursa olsun disiplin ortamina alisiktir,
+iyi ya da kotu, karakterleri buna musaittir.
+
+Sonuc olarak, pek cok arkadasin belirttigi gibi, MJ bu dunyaya
+aldigindan daha fazlasini geri vermistir, bu sebeple iyi sekilde
+anilmayi haketmistir, bizce. Kendi dilinde ekleyelim: RIP.
+
+---
+
+Ingiliz disisleri bakani David Miliband pek cok kisi tarafindan Isci
+Partisi'nin gelecegindeki lider olarak gorulmekte, mevcut basbakan
+Gordon Brown bayagi kotu durumda. Buna ilahi adalet mi denir bilmem
+ama, Brown yillarca Blair'in yerine gecmek icin onun basinin etini
+yemistir [1], partideki "ikinci guclu adam" olarak hep "hadi artik
+sira bende" diye Blair'i iteleye ugrasmistir. Nihayet sira ona geldi
+ama konjenktur saginda solunda patlamaya basladi. Bir krizi bir digeri
+takip etti.
+
+Brown hakkinda bazi ufak gozuken ama onemli detaylar var. Bir kere,
+basbakan olup tutunabilmek icin "kafa adam" testinden gecmeniz
+lazim. Sokaktaki adam "bu adamla takilir miydim" yani "kafa adam mi?"
+sorusuna bir lidere bakarak "evet" diye cevap verebilmelidir. Ne yazik
+ki Brown bu testten gecemiyor. Garip tikleri var; konusurken agzini
+garip bir sekile sokup sol tarafindan "ara gazi" aliyor. Fazla
+gulmuyor. Tony Blair kadar eglenceli, kafa goruntude degil. Yillarca
+maliye bakanligi yapmis birinin ekonomik kriz sirasinda "tecrube"
+yansitarak basarili olmasi beklenirdi fakat krizin Brown'a yaramadigi
+goruluyor. Liderlikte "ilham / enerji verebilmek (inspire)" onemli bir
+ozelliktir, Brown bu goruntuyu ne yazik ki yansitamiyor.
+
+Miliband bu testte basarili. Bu onemli.
+
+Simdi bu yazinin esas konusuna gelelim.
+
+Gectigimiz hafta arkasi arkasina Brown'in bakanlari istifa etmeye
+basladi. Bu bakanlardan bazilari "harcama skandalina" karismislardi
+"nasil olsa mecburen isi birakacagim, simdi kendim istemis gibi isi
+birakayim" havasina girmeyi uygun bulmus olabilir; bunlar suruyu takip
+edip "sonra yerine once" istiflarini bastilar, onlar baska. Ama onemli
+bir kisim Brown ile bu isin yurumeyecegi dusuncesine sahip. Bu sirada
+"partinin gelecegi" olan Miliband ne yapti?
+
+Brown'i destekledi.
+
+Sebep? Kisisel cikari, motivasyonu takip edelim.
+
+Isci Partisi su anda uzun suredir iktidarda; ve Blair'in Irak Savasi
+sacmaligi, yalan soylemesi, kriz sonrasi isleri sonunda iyice
+hirpalandi. Brown'da zaten karizma sifir. Simdi su sekilde bir
+"hikaye" Miliband icin daha uygun: Isci Partisi batti, bir donem
+muhafazakar (Tory) hukumeti denendi, onlar da batti, ve "kurtarici
+olarak" Miliband geldi.
+
+Miliband, bence, onumuzdeki secimde muhafazakar lider [2] Cameron
+karsisina cikmak istemeyecektir.
+
+Muhalefette iken "partiyi toparlayan lider" olarak gozukmek onun icin
+daha uygundur.
+
+[1] Blair, Anthony Seldon, 2004
+
+[2] Bu arada muhafazakar diyoruz ama sag sol ayrimi artik kalmadi;
+Cameron yesilci, mudaheleci, ayni anda serbest piyasaci. Ha? "Devrimci
+degil evrimciyim" sozune hep vurgu yapiyor, bir yandan Blair'i babalar
+gibi kopyaliyor (Blair'in Theatcher'i kopyaladigi gibi)... 21. yuzyila
+hosgeldiniz.
+
+---
+
+This American Life programı finans krizini işlemeye devam
+ediyor. Bugünkü programı The Watchers da konu reyting
+şirketleriydi. Krizee giden yolda reyting şirketleri, temelinde düşük
+kalitede mortgage borcu bulunan enstrümanlara en iyi notu, yani AAA
+notunu vermişlerdi. Fakat AL programına göre bu hareket tek başına
+krizi oluşturmak için yeterli değildi. Esas önemli faktör, bankaların
+ne tür yatırımları elinde tutabileceğini tanımlayan bir kanundur ve bu
+kanuna göre bir yatırımın kalitesinin ne olduğunun irdelenmesi reyting
+ajanslarına bağlanmıştır! Hatta birkaç tane reyting ajansına
+bağlanmıştır! Bunu iyi bir tartalım; düşünün; pek çok sayıdaki banka,
+trilyonlarca değerinde yatırımı irdelemek için birkaç tane reyting
+ajansının notuna bakıyor!
+
+Bu, yine devletin merkezileştirici, odaklaştırıcı yan etkisinin
+çuvallamasının resmidir. Piyasanın kuvveti pek çok aktörü fiyat
+üzerinden arz-talep dengesini oluşturabilmesidir. Mesajlar toplum
+içinde optimal şekilde kişiden kişiye atlayabilir (propagate). Fakat
+kanunlar ile "hangi yatırımın iyi olup olmadığı" "birkaç tane" reyting
+ajansına bağlanınca bu hareket sisteme potansiyel bir "bozuk mesaj"
+"bozuk sinyal" sokmak ile eşdeğer hale gelmiştir çünkü tekil aktörler
+çuvallayabilirler.
+
+Gönderdikleri yanlış mesajlar piyasanın dinamiği içinde düzelemez,
+düzeltilemez.
+
+Ve krizin önemli bir sebebini daha burada öğrenmiş oluyoruz. Aynen
+politikacıların güya fakir insanlara yardım etmek için düşük kalitede
+emlak yatırımlarını yarı-kamusal kuruluşlar üzerinden "zorladıkları"
+gibi, kanunlardaki hangi yatırımın iyi olacağının birkaç tane reyting
+ajansı tarafından tanımlanmış olması yangına benzin atılması anlamına
+gelmiştir. Bankaların defterlerine milyarlarca dolarlık kötü yatırım
+bu şekilde girmiştir.
+
+---
+
+Teknoloji cevrelerinde bu soru geziniyor.. Onemli bir soru. Twitter sitesinde reklam goremiyoruz. Mesajlara reklam eklenmiyor.. O zaman Twitter nasil para kazanacak? Twitter uygulama genisletme stratejisine bakiyoruz; programlama arayuzleri sayesinde mesaj gondermek icin Twitter sitesine bile ihtiyaciniz yok.
+
+O zaman geriye tek bir sey kaliyor. Twitter omurgasi uzerinden gecen mesajlarin verisel degeri. Aslinda yeni ekonomide boyle bir sey var: Bir uygulamanin idare ettigi verinin degerinin o uygulamanin kendisinden daha fazla olabilmesi hali [1].. Facebook icin ayni seyi soyleyebiliriz. Gucun uc bacagi fiziksel, parasal ve bilgisel guctur, bunlardan bilgi en esnek kullanilabilen (versatile) olanidir, cunku diger birimlere en rahat sekilde cevirilebilendir; o zaman Twitter idare ettigi bilgiyi ileride paraya donusturmeyi umabilir.
+
+Belki servis verdikleri sirketlere uzerilerinden akan bilgiye gone bazi analizler sunarlar; bir analitik departmani kurabilirler. Hukumetler, STK'ler bu servislere uye olabilir. Twitter'daki akan mesajlardaki bazi kelimelerin frekansina gore cografi bolgelerde alarm zilleri caldirabilme boyle bir ozellik dusunulebilir. Ucuncu partiler simdiden boyle uygulamalar yapiyorlar; #swineflu (domuz gribi) kelimesine gore o mesajlarin cografik dagilimini gosteren harita uygulamasi bunlardan biri [2]..
+
+[1] Revolutionary Wealth, Toffler, A., 2006
+
+[2] Bahsedilen uygulama bir Twitter ve Google Maps harmanlamasi
+
+---
+
+Güzel bir siteye denk geldik; Üçüncü Kültür. İsim olarak bizim
+blogdaki 'üçüncü' kelimesi ile direk alakaları yok, fakat kavramsal
+olarak arada birebir bağlantı var. Kendilerini tarif ettikleri
+aciklamada "eski tur entellektüellerin çağımızda gittikçe marjinalize
+oldukları"ndan, ve "1950 model Freud, Marx ve modernite eserlerini
+hatim etmiş olmanın artık 90 sonrası yıllarda entellektüel olmak için
+yeterli olmadığı" analizi yer alıyor.. Bu analize kesinlikle
+katılıyoruz. Merkez medyamızda boy boy yer alan, donuk kafa resimli,
+bazen "hırka" giymiş dua eder gibi "sol", "sağ" kelimesini sürekli
+tekrarlayan, yeni teknolojilerden bahsetse bile onların sosyal
+dokudaki etkilerini kavrayamayan entellektüeller de işte tam da bu
+kategoriye giriyorlar. Bu kişiler düşünce hayatında ne büyük bir kayma
+olduğunun farkında değiller... Edge sitesinin onlar için bir kalk
+borusu görevini görmesini umuyoruz.
+
+http://www.edge.org/about_edge.html
+
+---
+
+Yeni Yeni Ekonomi
+
+Chris Anderson, Wired makalesi, 2009
+
+İnternet'in şekillendiği 80'li yılllarda Tom Malone adlı bir MİT
+profosörü, bu yeni oluşumun endüstrileri nasıl değiştirebileceği
+konusu hakkında düşünmeye başladı. Malone arka arkaya seri halde
+yayınladığı makalelerde 20. yüzyılın büyük "yukarıdan aşağı" organize
+olmuş şirketlerinin gayri-merkezileşmiş hale geleceğini ve bu
+şirketlerin içeride yaptıkları pek çok işi "dışarıya" vereceklerini,
+yani bir "endüstri ekosistemine" dönüşecekleri tahminini yaptı.
+
+Malone 1998 yılında Wired dergisine verdiği bir röportajda "iki, üç
+şirkete değil, iki, üç yüz şirkete bölünmüş bir AT&T şirketi hayal
+edin" diyordu ve ekliyordu "bu şekilde radikal ve kendi insiyatifleri
+ışığında olacak bir parçalanma bazı büyük şirket için daha tercih
+edilir bir alternatiftir".
+
+Bu düşünce aslında gerçekten rasyonel bir temele dayanıyordu. O
+devasa, dikey şekilde entegre olmuş büyük şirketler tedarik zinciri
+üzerindeki takımlar arasındaki, Ronald Coase'in "işlem masrafı
+(transaction cost)" adını verdiği bedeli azaltmak için ortaya
+çıkmışlardı. Ama şimdi dağıtık enformasyon ağları aynı işi bir
+şirketin duvarları dışında yapmayı mümkün kılıyordu. Bu anlamda Web,
+küreselleşmenin daniskasıydı. Projeler onu bitirmeyi en yetkin
+olanların talebine açık olacak, tek bir ürün için anında bir araya
+gelebilecek kişiler, takımlardan müteşekkil şirketler oluşup, sonra
+bir başka ürün için aynı işi tekrarlayabileceklerdi. "Gevşek
+bağlantılı ufak parçalar" cümlesi günün sloganıydı.
+
+Fakat dış dünyanın gerçekliğinde, sanki bu öngörünün tam tersi
+oluyordu. Holdingler büyüdükçe büyüyordu. Goldman Sachs yılda 90
+milyar dolarlık bir kazanç rapor ediyordu [..], ilaç endüstrisi
+yüzlerce alım, birleşim sonrası kendini konsolide ederek birkaç büyük
+şirkete doğru evriliyordu. Fortune 10 içinde olan Walmart ve General
+Electric 1990 yılından beri üç katından daha büyük bir ölçüye
+varmıştı.
+
+Ve geçtiğimiz Eylül ayında herşey birdenbire paldır küldür çöküverdi.
+
+O koca finans şirketlerinin aşırı borçlanma ile o devasa boyutlarına
+vardıkları anlaşıldı.
+
+Ve geçtiğimiz Eylül ayında herşey birdenbire paldır küldür
+çöküverdi. O koca finans şirketlerinin aşırı borçlanma ile o devasa
+boyutlarına vardıkları anlaşıldı. Büyük otomotiv şirketleri ise aşırı
+yükselen petrol fiyatlarına ve düşen talep problemine 'tosladı'. Büyük
+ilaç şirketleri o dev karlar getiren sükseli ürünleri ortaya
+çıkaramamaya başladılar. Wal-Mart ardı ardına dükkan kapattı, aynı
+anda GE bazı bölümlerini satmaya çabaladı.
+
+Şimdi önümüzde duran şu devler mezarlığına bakarak tekrar soralım:
+Malone haklı mıydı? Onun tahmin ettiği daha ufak 'canlılardan'
+oluşacak ekosistemin gelişini geciktiren sadece eski devasa
+dinazorların çukura yürüyüşlerini seyretmemiz miydi?
+
+Yaşadığımız son krizi sadece bir dönemsel düşüş olarak nitelemek
+yanlış olur. Bu kriz aslında bir çağın bitişini işaretidir. Bu krizden
+sadece daha bilge olarak değil, daha değişmiş olarak çıkacağız.
+
+Geçtiğimiz 9 ay içinde aşırı büyüklüğün ekonomik olmadığını [1]
+keşfettik. Büyük firmaları nakit akışıyla işletmek daha zordur, bu
+sebeple bu şirketler daha fazla borca ihtiyaç duyar hale
+gelmişlerdir. Büyük şirketler, [seçecekleri ürünler, gelecek tahmini
+hakkında doğal olarak] daha büyük kumarlar oynamak zorundadırlar, ama
+aynı zamanda aynı şirketler iş yaptıkları o aşırı çeşitli piyasada
+dağıtım ve rekabet üzerindeki kontrollerini kaybetmeye
+başlamışlardır. Sonuç olarak oynanan kumarlar daha riskli ve getiriler
+daha düşük hale gelmiştir [2]. Üstüne üstlük Wall Street firmalarının
+görmeye başladığı gibi büyük şirketler daha fazla regüle edilmeye
+başlanacaktır, ki bu iş dünyasında hiç istenmeyen daha az esneklik
+anlamına gelecektir. Finans sektörünün "yıldız çalışanları" çoktan
+daha ufak firmalara kaçmaya başladılar çünkü oraları artık ilginç
+şeyler yapabilecekleri yegane yerler olarak görüyorlar.
+
+Risk yatırımcısı Paul Graham'a göre eskiden geçerli olan "büyük ve
+disiplinli organizasyonlar kazanır" kuralının sonuna artık şu
+değiştirici ibareyi eklemek gerekiyor ".. değişimin yavaş olduğu
+sektörlerde". Kimse bu gerçeği işler yeterli bir hiza erişinceye kadar
+farketmemişti.
+
+O zaman şunu söyleyebiliriz ki kriz sonrası, eskisinin küllerinden
+doğacak yeni ekonomi 'küçük olanı' daha avantajlı hale getirecektir
+[..].
+
+Niye küçük firmalar avantajlı olacak? Bilinen klasik sebepler olan
+çevik olmaları, risk alabilmeleri gibi öğelere bir de şunları ekleyin:
+"Bulutta işlem yapabilmek (cloud computing)" [3] sayesinde yeni
+şirketlerin artık İT / bilgisayar ekipmanı satın almasına gerek
+kalmıyor. Böylece bu şirketlerin para peşinde koşmak ya da borca
+girmeye daha az ihtiyaçları olacak. Aynı zamanda elektronik
+sektöründen tutun giyim sektörüne kadar pek çok yerde tedarik
+zincirinin "Webleşmesi" artık en ufak şirketin bile global piyasadan
+sipariş verebilmesini sağlıyor, aynen eskiden sadece büyük şirketlerin
+yapabildiği gibi. Koca bir plak / müzik şirketinin yapabildiğini artık
+bir müzisyen tek bir laptop sayesinde yapabiliyor, aynı laptop'u bir
+mühendis yeni bir elektronik ürünü tasarlamak ve ürettirmek için
+kullanabiliyor.
+
+[1] Yazar burada ilginç bir kelime oyunu kullanıyor. Genelde
+endüstriyel ekonomiler "büyüklük ekonomisi (economies of scale)"
+olarak tarif edilir. Birim başına az bir kar elde ediyor olsanız bile
+seri üretimle ürünü pek çok kez üretebildiğiniz için o ufak karlar
+toplanarak nihai karı büyütürler. Bu sebeple sanayisel bir teşekkül
+büyüdükçe büyümek ister (doğal kaynak sınırına toslayana kadar tabii
+[4]). Chris Anderson ise aşırı büyümenin patladığı ortamı tarif etmek
+için "-dış-economies of scale" diyor, yani büyümenin "gayri ekonomik"
+olduğu durum.
+
+[2] Böyle bir yorumun kelimesi kelimesine Holywood film endüstrisi
+için kullanıldığını hatırlıyorum. Holywood aynı şekilde sürekli aşırı
+sükseli / ilgi çeken film (blockbuster) peşindedir fakat film
+bütçeleri gittikçe büyürken piyasadaki beklenirlik azalmaya
+başlamıştır (belki de o sebeple son zamanlarda habire 'yeniden yapım
+(remake)' seyreder olduk). Bir BBC belgeseline göre eğer Holywood
+parasını filmler yerine bankalara koysa şu andakinden daha çok para
+kazanıyor olurdu.
+
+[3] Bulut kelimesi "İnternet üzerinden erişilen bilgisayar kümesi"
+kavramını sembolize etmek için kullanılmakta. Bir işlemi yapabilmek
+için tek bilgisayar yerine pek çok bilgisayar paralel olarak aynı
+işlem üzerinde koşturulur, böylece sonuca daha çabuk varılması
+sağlanır. İlginç bir şekilde ekonomide daha küçük olana gidiş,
+bilgisayar dünyasında yıllardır yaşanmaktadır, daha küçük olana (PC
+boyutları yani) bir gidiş olmuştur. Bizim sektörde de başta koca koca
+bilgisayarlar (mainframe) vardı; fakat ibre sonra PC boyutlarına
+kaydı. Koca, tek bilgisayarlar hala üretiliyor fakat ucuz, daha ufak
+PC'leri biraraya getirip "kümeleştirmek" çoğu işlemde aynı, hatta daha
+iyi performansı yakalayabilmenizi sağlıyor.
+
+[4] Yazılım işinde doğal kaynak sınırı da yoktur. Hammadde bilgidir.
+
+---
