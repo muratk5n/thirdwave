@@ -240,149 +240,19 @@
 
 [Sane in the Membrane](06/wiring-in-brain.md)
 
-[17 Layers](07/17-levels.md)
-
-[Apathy](07/apathy.md)
-
-[Big](07/big.md)
-
-[Bits in Japan](07/bits-in-japan.md)
-
-[Counter Game](07/counter-game.md)
-
-[Debt Ceiling](07/debt-limit.md)
-
-[Entourage](07/entourage.md)
-
-[#fail](07/fail.md)
-
-[Github for Science](07/github-for-science.md)
-
-[Google+](07/google.md)
-
 [How Things Change](07/how-things-change.md)
-
-[KKK](07/kkk.md)
-
-[Learn More Math](07/learn-more-math.md)
-
-[The Man From Earth](07/man-from-earth.md)
-
-[Mathematics for the Moon](07/mathematics-for-moon.md)
-
-[More on Aaron Swartz](07/more-on-aaron-swartz.md)
-
-[More Regulation?](07/more-regulation.md)
-
-[Murdoch](07/murdoch.md)
-
-[Ouch](07/ouch.md)
-
-[Rome Killed Jesus](07/rome-killed-jesus.md)
-
-[Sadly He Did Not Succeed](07/sadly-he-did-not-succeed.md)
-
-[The Shuttle](07/shuttle.md)
-
-[Too Cool for School](07/too-cool-for-school.md)
-
-[Twitter Hashtags](07/twitter-hashtags.md)
 
 [What Is Wrong With Scientific Publishing](07/what-is-wrong-with-scientific.md)
 
-[The Wrath Against Khan](07/wrath-against-khan.md)
-
-[Abel](08/abel.md)
-
-[The Annotated Toffler](08/annotated-toffler.md)
-
-[Atari](08/atari.md)
-
-[Broisms](08/broisms.md)
-
 [The Calculus of Grit](08/calculus-of-grit.md)
-
-[Counterintuitive Trick](08/counterintuitive-trick.md)
-
-[The Da Vinci Code](08/da-vinci-code.md)
 
 [The Death of the American Dream](08/death-of-american-dream.md)
 
-[Different "In"](08/different-in.md)
-
-[The Diminished President](08/diminished-president.md)
-
-[I Wish It Was That Simple](08/i-wish-it-was-that-simple.md)
-
-[Immediate Cut, Over a 10 Year Period](08/immediate-cut-over-10-year-period.md)
-
-[Kto Kogo](08/kto-kogo.md)
-
-[Links](08/links.md)
-
 [Living in a Factory](08/living-in-factory.md)
-
-[Mandela](08/mandela.md)
-
-[Math and Applications](08/math-and-applications.md)
-
-[New Plan?](08/new-plan.md)
-
-[On Nomadism](08/on-nomadism.md)
-
-[Ouch](08/ouch.md)
-
-[P or J](08/p-or-j.md)
-
-[The Patent Pledge](08/patent-pledge.md)
-
-[Riots](08/riots.md)
 
 [Shuttleworth on Patents](08/shuttleworth-on-patents.md)
 
-[Stanford Class](08/stanford-class.md)
-
-[Taking A Stand](08/taking-stand.md)
-
-[Things Are Getting Out Of Hand](08/things-are-getting-out-of-hand.md)
-
-[Why Riot?](08/why-riot.md)
-
-[America’s Non-Grand Strategy](09/americas-non-grand-strategy.md)
-
-[Are jobs obsolete?](09/are-jobs-obsolete.md)
-
-[Asynchronized Education](09/asynchronized-education.md)
-
 [Germany and US](09/germany-and-us-cultural-comparison.md)
-
-[The importance of stupidity in scientific research](09/importance-of-stupidity-in-scientific.md)
-
-[Judgement by the People](09/judgement-by-people.md)
-
-[Israel's Bluff](09/land-g.md)
-
-[The Lottery](09/lottery.md)
-
-[Passing Fiat Cash Grenade](09/passing-fiat-cash-grenade.md)
-
-[Rankings](09/rankings.md)
-
-[Scaling Quality](09/scaling-quality.md)
-
-[Speed of Light Beaten](09/speed-of-light-beaten.md)
-
-[1K $ / Person](10/1k-person.md)
-
-[Ad Campaigns Are Dead](10/ad-campaigns-are-dead.md)
-
-[Apple Store SF](10/apple-store-sf.md)
-
-[Are Professors Obsolete?](10/are-professors-obsolete.md)
-
-[Concentration](10/concentration.md)
-
-[Dennis Ritchie](10/dennis-ritchie.md)
 
 [Don't Become A Scientist](10/dont-become-scientist.md)
 
@@ -392,51 +262,11 @@
 
 [How long will America last?](10/how-long-will-america-last.md)
 
-[More on Leaders](10/more-on-leaders.md)
-
-[More on Pairings](10/more-on-pairings.md)
-
 [PhD, Graduate Studies](10/phd-graduate-studies.md)
-
-[Project Selection](10/project-selection.md)
-
-[The Role Of Memory In Theory](10/role-of-memory-in-theory.md)
-
-[Stallman on Jobs](10/stallman-on-jobs.md)
-
-[Tablet Based Halloween Costume](10/tablet-based-halloween-costume.md)
-
-[Rewind patent laws to fast-forward innovation](10/top-storieshide-me-latest-technology.md)
-
-[UNESCO votes to admit Palestine; U.S. cuts off funding](10/unesco-votes-to-admit-palestine-us-cuts.md)
-
-[Why arent we getting rich?](10/why-arent-we-getting-rich.md)
-
-[3D](11/3d.md)
-
-[Codes, Axel Boldt Article](11/codes-axel-boldt-article.md)
-
-[Common Crawl](11/common-crawl.md)
-
-[Copyright isn't working, says European Commission](11/copyright-isnt-working-says-european.md)
-
-[Data "Scientists"](11/data-scientists.md)
 
 [Debt, Religions, Money](11/debt-religions-money.md)
 
 [Debt, The First 5000 Years](11/debt-the-first-5000-years-graeber.md)
-
-[Demotivational Poster](11/demotivational-poster.md)
-
-[Difference Engine: Luddite legacy](11/difference-engine-luddite-legacy.md)
-
-[Continuous Rules](11/discrete-as-approximation-to-continuous.md)
-
-[#fail](11/fail.md)
-
-[Fraud](11/fraud.md)
-
-[Fusion](11/fusion.md)
 
 [The Logistic Equation](11/logistic-equation.md)
 
