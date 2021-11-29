@@ -1,5 +1,7 @@
 ## Hiciv
 
+[Denemeler](/2008/07/hiciv-denemeleri.md)
+
 [Darbe oldu](/2009/03/darbe-oldu.md)
 
 [Benzerlikler](/2009/12/benzerlikler.md)
@@ -7,8 +9,6 @@
 [Hiciv Gazetesi](/2008/01/hiciv-gazetesi-yeni-baski.md)
 
 [Köşe yazısı](/2008/09/kaynak.md)
-
-[Denemeler](/2008/07/hiciv-denemeleri.md)
 
 [Olay Haber Hurriyet'ten](/2008/09/olay-haber-hurriyetten.md)
 
