@@ -64,9 +64,13 @@
 
 [Pazartesi roportaji](/2010/03/pazartesi-roportaji.md)
 
+[Yeni UFO Reklami](/2010/03/yeni-ufo-reklami.md)
+
 [Damalische Kamalismus und Faschismus](/2010/05/damalische-kamalismus-und-faschismus.md)
 
 [Taksim'de Soros büstü](/2010/05/taksimde-soros-bustu.md)
+
+[Bölücü terorist yakalandı](/2010/06/bolucu-terorist-yakaland.md)
 
 [Brekisefal Degil](/2010/07/brekisefal-degil.md)
 
@@ -77,6 +81,8 @@
 [Yaverleri tanıyalım](/2010/07/yaverleri-tanyalm.md)
 
 [Soros "evet" dedi](/2010/08/soros-evet-dedi.md)
+
+[Yıgım brojesi](2010/08/ygm-brojesi.md)
 
 [S tipi hareket](/2010/09/s-tipi.md)
 

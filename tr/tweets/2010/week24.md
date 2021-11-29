@@ -256,3 +256,209 @@ Dogru
 
 ---
 
+Aferin IHH
+
+Bu grubun yardim amacli gitme yaninda, etrafi karistirma amacinin da
+oldugu anlasiliyor; hazirlikli gitmisler, ve iyi is
+basardilar. Kutluyorum. Disariya yayin yapabilmek icin herseyi
+hazirlamislar, askerler gelince birazcik ortami gidiklamis ta
+olabilirler. Boylece Israil'e bacaklarini soktular. Guzel bir taktik
+basari. Bravo.
+
+---
+
+Cay Partisi
+
+Çay partileri ABD'nin kuruluş tarihine bir atıf, bilindiği gibi
+bağımsızlık savaşından önce İngilizlerin vergilendirmesine baş
+kaldıran Amerikalılar, Boston'da bir İngiliz gemisinin getirdiği
+çayları denize atmıştı. Şimdi benzer bir protesto yine (önce)
+Boston'da, ama bu sefer aşırı borçlanmayı, vergilendirmeyi protesto
+eden liberteryenler tarafından yapılıyor. Hareket daha sonra tüm
+Amerika'ya yayıldı ve Cumhuriyetçi Parti içinde kuvvetli bir damar
+haline geldi.Bu hareketin "ruhani lideri" Teksas'tan uzun yıllar
+milletvekilliği yapmış olan Ron Paul. Paul ekonomide Avusturya okulunu
+takip etmesiyle biliniyor, ve merkezi kontrolün insanların hayatına
+her türlü müdahelesine karşı. Paul emlak temelli finans krizini yıllar
+önceden doğru tahmin etmesiyle gündemde iyice öne çıktı. Sağda resmi
+görülen kitabı "FED'i Bitirin (End the Fed)" ismini taşıyor. Çay
+Partisini çıkış sebebi, ve duyarlılıkları açısından
+destekliyoruz. Daha önce bahsettiğimiz her iki partide bölüp porcuk
+olan yeni çağ gerekliliklerinin peşinde koşanların kıpırtıları
+bunlar.Merkez'in yeni çağda belki de yapacağı en iyi icraat kendini
+gereksizleştirmek. Ulus-devletler sürekli etraflarındaki sınırları
+delerek kendilerini gereksizleştirmeli, altyapıya odaklanarak onun
+üzerinde dağınık iş yapılarının, çözümlerin gidip gelebilmesini
+sağlamalı, Internet'ten elini ayağını çekerek halkın bilgilenmesine
+engel oluşturmamalı. 
+
+---
+
+![](grafiti-israil.jpg)
+
+---
+
+Seth Godin'in blog'undan
+
+Eskiden fabrikalar düz bir hat üzerinde organize edilirdi çünkü
+fabrikada bir buhar motoru vardı, ve bu motor bir şaftı (shaft)
+döndürüyordu [saft doğal olarak düz, ve motora bağlı, güç aktarımı
+sebebiyle]. Fabrikadaki tüm makinalar değişik yerlerden bir kemer ile
+bu safta bağlıydılar, böylelikle her makina gerekli mekanik gücü elde
+ederdi. Ofis binasının fabrika binasının tam yanında olması
+gerekiyordu, ki böylece üretimin kontrolü yapılabilsin. 150 sene
+geçtikten sonra şu soruyu soralım: Niye çalışmak için hala tesis /
+fabrika / ofis'e gitmemiz gerekiyor?
+
+---
+
+Jon Stewart'in Egitimi
+
+Irak Savasi sonrasi Bush'a cakarken alkisladik. Neocon manyaklara
+karsi cikmasini destekliyoruz. Fakat Jon Stewart, ve onun temsil
+ettigi liberal (devletci sol) durusu halen politik soylem bazinda
+olmasi gerektigi yerde degil. Bu durum Cumhuriyetciler icin de gecerli
+tabii.  Elektronik cagina lazim olan gorusler her iki partide, boluk
+porcuk halde bulunuyor. Iki taraf ta "pismemis". Illa iki taraf olmasi
+gerektigi bile supheli zaten. Sag / sol ayrimi coktu, yerine tekrar
+iki taraf gelmesi sart degil.Stewart Obama'yi BP petrol sizintisi icin
+elestirirken iste bu "pismemisligini" gosteriyor. Bildik laflar
+ediyor: Merkez "daha iyi" olsa isler duzelecek, ondan once "merkez
+bankasi" daha iyi regule etseydi finansal kriz olmayacakti sozleri
+gibi...
+
+Egitim hakkinda konusunca benzer menseili laflar cikiyor: Daha fazla
+okul olsun, standartlar duzeltilsin, vs.En son konugu vali Tim
+Pawlenty bu sebeple Jon Stewart'in programina bir yeni hava, temiz
+oksijen sagladi [video]. Adam diyor: "Niye ogrenciler dort duvar
+arasinda bir sinifta olmali? Niye ogretmen anlatirken ayni anda
+ogrenci orada olmali? Niye egitim belli bir zaman araliginda olup
+biten bir sey olarak goruluyor?". "iPad uzerinde universite" gibi bir
+suru yeni fikirden bahsedildi; Stewart bunlari ilgiyle dinledi. Iyi
+bir program oldu - soylesi programin klasik zamani icinde bitmedi,
+Stewart soylesiyi program sonrasina uzatarak "gerisi Web'de olacak"
+diye bir anons yapti.--[1] Stewart'in "sasirdigi" baska bir nokta
+gazeteci Helen Thomas'in "Yahudiler Filistin'den cikip geldikleri yere
+donsunler" sozunu elestirmesiydi.
+
+Dalga gecmeye ugrasti, espriler tutmadi, cunku espriler gercegi
+yansitmiyorlar. Thomas'in soyledikleri deli sacmasi sozler
+degil.. Haksiz isgali birakin, Israil'in kendisi sanki "bu bolgede
+olmak istemiyormus" gibi bir hava icinde... Thomas'in goruslerini
+paylasan pek cok Amerikali da oldugu biliniyor.. medyadaki
+"Judeo/Hristiyan Sentezi" bunu disa yansitmiyor olabilir. Her neyse,
+ne de olsa Stewart bir Yahudi olarak bazi konulara digerlerinden daha
+hassas olabilir, ki Israil'i pek cok kez yerden yere vurmustur. Yardim
+gemisi konusunda Israil'e cakmisti.
+
+---
+
+Endustriyel Cag insanlari, parayi konstantre eder. Benzer sekilde,
+enerji kaynaklari da konsantre haldedir. Gel gor ki, enerji
+kaynaklariniz konsantre, ufak bir alanda cok yogun sekilde duruyor
+ise, tek bir hata asiri buyuk bir alani kotu yonde etkileyebilir
+(nukleer enerji ayni problemden mustarip).Petrol uretiminde tepe
+noktasi hesabini buradan paylasmistik. Bu egri su ongoruyu modeller:
+ilk basta kolay petrol kuyularina erisilecektir, onlar bitince sira
+daha zor olan kuyulara gelecektir, ve o noktadan sonra uretim artisi
+yavaslamaya, ve sonra dusmeye baslayacaktir. BP kazasi bu modelde bir
+veri noktasi. Kolay kaynaklar azalmaya basladigi icin denizin
+derinliklerinden petrol cikarilmaya ugrasiliyor.O zaman pek cok
+yonden, endustriyel cag, modernite agir dayak yemektedir. Konsantre
+kaynaklari dogal (!) olarak azalmakta, onun yaninda risk fazlalastigi
+icin o ya da bu sekilde olacak kazalar kamuoyunu galeyana
+getirmekte.
+
+Ustune basarak soyleyelim; bu kaza bir felaket, bir rezalettir, pek
+cok kisiyi son derece kizdirmistir. Gelecekte misilleme ekoterorizm
+olaylarinin olmasi bile muhtemeldir.Olay sonrasi Obama'nin sahilde
+basina verdigi goruntu ise tam bir zavallilik ornegiydi. Kendileri de
+cokmekte olan medeniyetin temsilcileri "merkezi" yonetimlerin olaylar
+karsisinda ne kadar caresiz oldugunu bir kere daha gormus olduk. Bazi
+Amerikalilar (ozellikle devletci sol) Obama'yi elestiriyor, fakat onun
+da mevcut sistem icinde yapacak bir seyi yok. Su anda Vatandas Kevin
+Costner, baskan Obama'dan daha faydali.3. dalgaya uyumlu olan "daginik
+(distributed)", bireysel, temiz enerji uretimidir. Bu uretim gunes,
+biyo/tarimsal, ruzgar seklini alabilir.
+
+![](oilspill.jpg)
+
+---
+
+Marketwatch
+
+Japon [endüstriyel] robot üreticileri borsada iyi bir yükselişe hazır
+görünüyorlar, çünkü Çin'deki fabrikalar gittikçe daha fazla otomasyona
+geçmeye başladı - özellikle son zamanlarda Çin'de vuku bulan işçi
+isyanı, üreticileri bu gidişata mecbur etti. [..] Bir Nikkei iş
+dünyası yayınında çıkan yoruma göre, Çin'deki işçilerin daha fazla
+maaş talep etmesi Çin'in ucuz emek işgücüne dayalı modelinde bir
+deprem etkisi yaratıyor. [..] Japon Kyödo haber ajansına göre,
+Guangzhou'da iş kurmuş olan bir Japon yönetici, üretim hatları bu
+bölgedeki otomotivcilerin Mayıs sonunda birdenbire ortaya çıkan ve
+hızla artan işgücü bedeli karşısında şok olduğunu
+bildiriyor. Yöneticiye göre "işçi ücretlerindeki artış o kadar hızlı
+ki, otomasyona geçişi hızlandırmaktan başka şansımız kalmadı, insan
+işçilerin yaptığı işi robotlara yaptırarak masraflarımızı azaltmak
+zorundayız".
+
+---
+
+Pek Çok "En İyi"
+
+Malcolm Gladwell'in TED konuşması. Gladwell, pek çok şey öğrendiği
+hocası Howard Moskowitz'ten bazı dersler aktardı. Birkaç örnek:
+
+Moskowitz'e bir şirket kola ürünleri içine ne kadar tatlandırıcı
+koyması gerektiğini sorar, Moskowitz bir deney yaptırır. Deney
+sonuçları dağınık çıkar, veri noktaları tek bir yerde toplanmış halde
+değildir. Moskowitz şu sonuca varır: Tek bir "en iyi" yoktur, pek çok
+"en iyi" vardır. Herkese uyacak tek tip ürün mevcut değildir, en
+iyiler belli kümeler altında gruplanmaktadır.
+
+İlginç bir diğer bulgu: Pazarlama deneyleri herkesin "en iyi kahve"
+diyebileceği bir ürünü bulmak için uğraşır, fakat hangi ürün seçilirse
+seçilsin, elde edilebilecek en iyi rakam ürünün kişi başına ortalama
+yüzde 60 seviyesinde beğenilmesidir. Fakat seçenekler arttırılıp 3
+kahve çeşidenden (grup -cluster-) seçim yapıldığı zaman bu ortalama
+yüzde 75'e fırlamıştır.
+
+Bu analiz, diğer yandan, ürünlerde, çözümlerde hep "tek bir en iyi
+(standart)" olduğunu zanneden modernist mentaliteye indirilen ağır bir
+darbedir.
+
+---
+
+Reagan ve Foursquare
+
+Teknoloji konularindaki kitaplari, yayinlari ile unlu O'Reilly
+sirketinin kurucusu Tim O'Reilly
+
+1983 yılında başkan Ronald Reagan bir icra emri (executive order)
+imzaladı; bu emre göre GPS adı verilen küresel pozisyonlama sistemi
+kamunun kullanımına açık hale geldi. Bu karar, sonunda Foursquare ve
+Göwalla gibi uygulamaların ortaya çıkabilmesini sağladı, ve insanların
+birbiriyle iletişimine yeni bir boyut kattı. Reagan'ın GPS verişini
+vatandaşların kullanımına açması aslında dünyadaki ilk "Açık Devlet"
+örneklerinden biridir.
+
+O'Reilly şu anda Gov 2.0 Expo adlı bir fuarda; bu fuarda devletin
+verişini açarak, o veriyi kullanan yeni şirketlerin, uygulamaların
+ortaya çıkabilmesinin ekonomiye, sosyal hayata sağlayacağı katkılar
+konuşuluyor.
+
+---
+
+Suck On This
+
+Friedman'ın o kelimeleri telafuz ettiği video'nun bağlantısı altta
+bulunabilir. Video altında girilen yoruma dikkatinizi çekerim.
+
+http://www.youtube.com/watch?v=HOF6ZeUvgXs
+
+---
+
+Bu arada, biz TR'den hala YouTube'a girebiliyoruz. 
+
+---
+

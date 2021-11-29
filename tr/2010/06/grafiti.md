@@ -1,9 +1,0 @@
-# Grafiti..
-
-![](grafiti-israil.jpg)
-
-
-
-
-
-

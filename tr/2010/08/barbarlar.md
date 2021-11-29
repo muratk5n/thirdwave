@@ -109,24 +109,6 @@ hammaddeye aç ise, Sovyetler bir o kadar hammaddeye muhtaç
 konumdaydı. Bu ihtiyaç sebebiyle Sovyetler Birliği, kontrolü altındaki
 demirperde ülkelerinin doğal kaynaklarını talan etmiştir.
 
-
-
-
-
-
-
-zaman:
-
-Ağustos 28, 2010
-
-
-
-
-
-
-
-
-
-
 ![](kelts.png)
+
 ![](soykirim-anit.png)

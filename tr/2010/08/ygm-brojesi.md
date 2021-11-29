@@ -1,13 +1,12 @@
 # Yıgım brojesi
 
-Referandum amacli duzenlenen mitinglerde tansiyon artmaya
-basladi. Devlet Bahceli en son basbakan Erdogan'i "demogratik yıgım
-brojesine" imza atmakla sucladi ve anayasa degisikligine ilginc bir
-yorum getirdi. Bahceli "anayasalar sadece darbeden sonra degisir,
-Tayyip sivil darbe yapmistir, simdi de anayasasini
-yapmaktadir!". Cumlenin sonunda sesi incelerek bozulan Bahceli
-mitingin devamini getiremedi. Uluyan Gencler korosunun ulumalariyla
-miting tamamlandi.
-
+Referandum amaçlı düzenlenen mitinglerde tansiyon artmaya
+başladı. Devlet Bahçeli en son başbakan Erdoğan'ı "demogratik yiğim
+brojesine" imza atmakla suçladı ve anayasa değişikliğine ilginç bir
+yorum getirdi. Bahçeli "anayasalar sadece darbeden sonra değişir,
+Tayyip sivil darbe yapmıştır, şimdi de anayasasını
+yapmaktadır!". Cümlenin sonunda sesi incelerek bozulan Bahçeli
+mitingin devamını getiremedi. Uluyan Gençler korosunun ulumalarıyla
+miting tamamlandı.
 
 ![](bahceli_kizgin.jpeg)

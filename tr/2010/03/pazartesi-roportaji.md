@@ -6,3 +6,5 @@ röportaj 7 günde tamamlanamadı, röportajın sonraki Pazartesi gününe
 kadar sarkması bekleniyor.
 
 ![](neseduzel.jpg)
+
+

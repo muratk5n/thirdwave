@@ -26,9 +26,7 @@ NPD Grubu parakende araştırma ve danışmanlık bölümünde analist olan Mars
 
 Tüketim konusunda yapılan bazı araştırmaların gösterdiği üzere, insanlar paralarını tecrübeler (experiences [1]) için harcayınca materyel objeleri almak için harcadıklarından daha mutlu oluyorlar [..] Komşularını harcama yarışında geçmeyi (outdo Joneses [2]) bırakmak, hayatlarını daha mutlu hale getiriyor [..]
 
-Araştırmalar, servis sektöründe ve dinlenme (leisüre) için yapılan harcamaların materyel objelerin alınmasına kıyasla sosyal bağları daha fazla kuvvetlendirdiğini, ve bu durumun, mutluluğun artmasına olumlu bir etki yarattığını gösteriyor.
-
----
+Araştırmalar, servis sektöründe ve dinlenme (leisure) için yapılan harcamaların materyel objelerin alınmasına kıyasla sosyal bağları daha fazla kuvvetlendirdiğini, ve bu durumun, mutluluğun artmasına olumlu bir etki yarattığını gösteriyor.
 
 [1] Mesela bir konsere gitmek, turistik gezi yapmak bu tür "tecrübelerin" bir örneği.
 

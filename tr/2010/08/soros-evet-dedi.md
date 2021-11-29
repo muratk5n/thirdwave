@@ -6,25 +6,5 @@ tarafını desteklediğini bildirdi. Soros evet tarafı için aktif bir
 örgütü ile beraber Türkiye'de sürekli gezen Soros, evet oyu verenlere
 senet, kar payı, bedava kömür dağıttıklarını söyledi. Soros evet
 tarafını niye desteklediği sorusuna "bölünmüş bir Türkiye'nin
-piyasasını daha rahat manipüle edebilirim" cevabını verdi.
-
-
-
-
-
-
-
-zaman:
-
-Ağustos 19, 2010
-
-
-
-
-
-
-
-
-
 
 ![](soros_evet.jpg)
