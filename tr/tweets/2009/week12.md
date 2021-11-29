@@ -353,3 +353,180 @@ idare edilecegi insanlara kalmistir. Kriz, fakirlik, issizlik
 istemiyorsak, bu gerceklere gore duzenimizi kurmaliyiz.
 
 ---
+
+Blogda isledigimiz yeni nesil teknolojilerin hayatta getirdigi
+degisiklikler, direk bireyi etkileyen kavramlardir. Birey, daha fazla
+bilgiye sahip oldugu, kendi basina uretebildigi, haberlesebildigi,
+enerjisini saglayabildigi icin daha ozgur bir alanda yasamaya
+baslamistir. Kesin olarak oldugunu, daha fazlasinin olacagini
+bildigimiz yegane seyler bunlardir.
+
+Bu 'mikro' degisimlerin toplami olan toplumun nereye gidecegi hakkinda
+kesin bir sey bilmiyoruz. Iste tam bu noktada eski lineer,
+indirgemeci, deterministik ideolojilerden ayriliyoruz.
+
+Dalga metoforu burada onemlidir: Dalga "gelmektedir" - eger geldiginde
+dalgaya hazirliksiz yakalandiysaniz, sahilde keriz gibi bekliyorsaniz,
+dalga size carpar ve yokeder.
+
+Ama dalganin gelisine hazirsaniz, mesela sorf bordunuz var ise,
+dalganin tepesine cikip sorf yapmaya ve onun sizi istediginiz yere
+tasimasini saglayabilirsiniz. Bu yer, eski yerinizden farkli
+olacaktir, ama yeni 'degisik' bir yer olacagi kesindir.
+
+Yeni teknolojik degisimlerin optimal olarak isleyecegi bir toplum
+duzeni mumkundur; halen bunlari irdeleme asamasindayiz. En baz
+seviyede liberal demokrasi bu yeni bireylerin toplaminin dogal bir
+sonucu olacaktir. Insanlarin cogu zaman yanlislikla 'kuresellesme'
+dedikleri baska bir sonuc, bu dinamiklerin toplamindan ibarettir.
+
+En baz seviyeden fazlasi da olabilir. Paylasim alani azalan insanlar
+'kitle yonetiminden' ya da bu yonetimin 'etki alanindan' gittikce daha
+da uzaklasmaya baslayabilirler. Merkezi para kavrami yokolabilir. Ne
+olacagini bilmiyoruz; sadece ne olmayacagindan eminiz. Olamayacak olan
+standardizasyon, merkezilestirme, uzmanlasma, azamilestirme ve
+senkronizasyon bazli herhangi bir cozum ve sosyal duzendir.
+
+Yeni fikirlere, acik zihinlere ihtiyacimiz var.
+
+---
+
+Arnold Kling'in EconLog blog'undan alinmistir:
+
+1. Emlak bazli krizleri sirasiyla incelerseniz (Buyuk Depresyon,
+Savings & Loans Krizi, ve simdiki kriz), her krize getirilen
+"cozumun", ayni zamanda bir sonraki krizin de "sebebi" oldugunu
+sorursunuz.
+
+2. Regulasyon satrancta bir "orta zamani" oyunudur (mid-game), bir
+matematik problemi degildir. Matematik problemini cozdugunuz anda o
+problem cozulmus kalir. Satranc orta zamaninda, yeni firsatlar ve
+tehlikeler surekli ortaya cikarlar. Uzun vade plani yapmaya
+ugrasirsiniz, fakat planlarin zaman gectikce etkisini kaybetmeye
+baslar [1].
+
+3. Insanlar regulasyonlara genelde "bir sistemin kirilmasini
+zorlastirmali" acisindan bakiyor. Fakat gozden gecirmemiz gereken
+diger bir alternatif, sistemi "cabuk tamir edilebilir" hale
+getirmektir. Bilgisayarlari dusunun; Firewall ve anti-virus
+yazilimlari ile bilgisayari korumaniz mumkundur, ama bilgisayarin
+arada sirada yedegini cikarmak, sistem coktugunde veriyi kurtarmak
+icin cok gerekli bir cozumdur.
+
+4. G30'un tavsiyeleri daha "saglam" yapmaya odaklaniyor, daha "rahat
+tamir etmeye" degil. Ozellikle bu tavsiye raporu Avrupa finans
+sistemini ornek almis, ki bu sistem ABD sisteminden daha az
+hetrojen. Rapor banka endustrisinin konsolide edilmesini, tek
+regulator olmasini, vs. ongoruyor. Bu sistemi, evet, daha "kirilmasi
+zor" hale getirebilir fakat tamirini cok zorlastiracaktir. Amerikan
+sistemi, her ne kadar iyilestirilmesi gerekiyor olsa da, mevcut
+haliyle bile G30 raporunda tarif edilen sistemden daha iyidir.
+
+[1] Bu tabii ki insanlarin haldir huldur bilgisayarimsi "tum
+seceneklere bakma" becerisinin sinirindan meydana geliyor. Ama iyi bir
+analoji yine de..
+
+---
+
+Yeni 10 liralik banknotlarin uzerinde Cahit Arf hocamizin resmi ve
+yaninda arastirmalarinda buldugu bir matematik formulu var. Topoloji
+alanindaki calismalarindan biri zannediyorum - invaryantlar ile
+alakali bulusu olmali. Banknot beni cok sevindirdi. Parasinin uzerine
+matematik formulleri koyabilen, bu sembolik eylemde bulanabilen bir
+ulkede olmaktan mutlu oldum.Cahit hocanin bu fotografini ceken meger
+Sabanci Uni. rektoru, matematikcilerimizden Tosun Terzioglu
+imis. Fotografin hikayesi Matematik Dunyasi dergisinde
+paylasiliyor. Bu arada MD, Ali Nesin'in yonettigi bir calismadir. Ona
+da buradan selam ve saygilar yollarim.
+
+
+![](cahit.JPG)
+
+---
+
+Here Comes Everybody adli kitabin yazari Clay Shirky'den
+kullanicilarin Internet'te yaptigi islemleri kar saglanabilir bir
+sekilde biraraya getirmenin guzel bir ornegi: Fotograf paylasma sitesi
+Flickr bir sure once etiketleme (tagging) teknolojisinin devreye
+soktu. Bu (gayet basit) teknoloji ekiyle bir resimi yukledikten sonra,
+pur kendi amaclariniz icin, resimi daha hizli bulabilmek icin ona bir
+etiket yazabiliyorsunuz.
+
+Fakat etiketlemenin psikolojisi oyle ki, rahat bulabilmek icin kisa ve
+oz isimler seciliyor. Peki bunun dogal uzantisi ne olacaktir? Ayni
+etiket ismini kullananlarin resimlerini gruplayarak, herkes tarafindan
+gorulebilmesini saglamak.
+
+Diyelim ki 2008 yilinda Oktoberfest'e gittiniz ve orada resimler
+cektiniz. Flickr'a resimleri yuklediniz. Bu resimleri normal olarak
+"oktoberfest 2008" olarak etiketlediniz. Pek cok kisi de sizin gibi
+yapti. Hoop! Tamamen kafadan attigim bu etikete flickr'dan baktim ve
+23408 resim yuklendigini gordum!
+
+Bencil cikarlarin toplami herkese fayda getirecek sonuclara sebebiyet
+verebiliyor. Sonucta, piyasalar ve demokrasi boyle islemiyor mu?
+
+Aslinda Wikipedia gibi sitelerin de yaptigi budur. WP'ye rekor sayida
+yazi yazmis biriyle bir roportaji hatirliyorum, bir sinava
+hazirlanirken ders calismak icin bunu yaptim diyordu (demek ki
+"yazarak" ogrenenlerden -bir onceki yaziyla baglanti-).
+
+"Herkes" geliyor.
+
+---
+
+Zamanin icinde yasayan, ureten, ozgurlukcu, demokrat dindar
+vatandaslarimiz var; Bu bizi mutlu ediyor. Toplumun her kesiminden
+ozgurluk, hosgoru taraftarlari bu ulkenin gelecegini insa edecekler
+(yani, kendi kisisel cikarlarina odaklanirken yan etki olarak gelecek
+insa olunmus olacak -hahaha-).
+
+Imdi - bana merak konusu olan, bu arkadaslarin niye bazi bilimlerle
+arasi iyi oluyor da (elektronik, iletisim, yazilim), diger bazi
+bilimlerle arasi iyi olamiyor? Mesela evrimsel biyoloji!
+
+Niye Newton'a kizilmiyor da, Darwin'e kiziliyor? Halbuki ikisi de
+onemli atilimlar yaptilar, ikisinin de bilimi bugun asildi. Ama
+bilimlerinin onemli bir kismi hala kullanilir halde, daha onemlisi
+ortaya koyduklari dusunus sekli kaliciligini surduruyor. Fakat,
+Darwin'e kiziliyor. Newton'a laf yok... Ilginc bir durum.
+
+Belki bir aciklama sudur: Cagdas dindarlar her turlu diger yenilige
+acik olmakta, ama bir tanesine olmayarak kacamak yapmaktadirlar!
+
+Bu, diyet yaparken bazi gunler mutfaga sivisip dolaptaki dondurmayi
+yemeye benzemektedir.
+
+Bu analojiye devam edersek yeni bir soru ortaya cikar: Cagdas
+dindarlar normal yasayisi bir "diyet" gibi mi gormektedir? Gunluk
+yasayis bu kadar mi dogal olmayan bir deneyimdir?
+
+Eger boyle bir gorus var ise, bundan kurtulunmasini salik
+verecegim. Ne ozgurluk, ne demokrasi, ne eglence, ne ekonomi, ne
+bilim, ne de normal bir yasayisin dine karsi bir tarafi olamaz. Bir
+kisim muhafazakar medyada bu ustteki kavramlara karsi cikan bazi
+meczuplar olabiliyor, evet, "eski toprak (old fart)" cahiller her
+yerde var; Fakat bu adamlar aslinda nesilsel bir farki temsil
+ediyorlar. Bu ve benzer kisilerle ortak bir noktamiz kalsin bari diye
+secip begenerek bazi bilimlere karsitlik yapmak, bu kadim ugrasiya her
+dilden, her renkten, her dinden katkida bulunmus alimlerin akil terine
+yapilmis bir saygisizliktir. Bence.
+
+Bilim hayatin ta kendisidir. Aynen piyasalarin ve siyasetin oldugu
+gibi. Kacamagi yapacaksaniz gercek dondurmayla yapin! :)
+
+---
+
+Bu renkli Latin Amerika kisiligi hakkinda gecende biri
+'narsisist-Leninist' tabirini kullandi ve bunu duyunca bayagi
+guldum. Bu tabir L. Amerika'da pek cok kez peydahlanmis lider tipini
+de tarif ediyor aslinda. Dan-dun konusan, atesli, "halkci", ulkesi
+sefalet icinde... eger petrolu yoksa. Bir diger tanim "fakirleri
+seviyor ve oyle kalmalarini istiyor" tanimi. Chavez bazi isleri dogru
+anladi ama su piyasa karsiti retorikten vazgecse iyi edecek. 2. dunya
+ulkeleri icin basari ve basarisizlik arasindaki fark, cogu zaman guclu
+bir liderdir cunku bu ulkelerin kurumlari tipik olarak
+zayiftir. Chavez ulkesi icin bu guclu adam olabilir. Sili'yi ornek
+almali ama onun akli baska yerlere kayiyor bazen...
+
+---

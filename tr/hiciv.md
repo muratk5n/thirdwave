@@ -1,5 +1,7 @@
 ## Hiciv
 
+[Darbe oldu](/2009/03/darbe-oldu.md)
+
 [Benzerlikler](/2009/12/benzerlikler.md)
 
 [Hiciv Gazetesi](/2008/01/hiciv-gazetesi-yeni-baski.md)
@@ -139,7 +141,4 @@
 [Uzlaşılan maddeler açıklandı](/2013/11/uzlaslan-maddeler-ackland.md)
 
 [#amkdarth](/2016/09/amkdarth.md)
-
-
-
 

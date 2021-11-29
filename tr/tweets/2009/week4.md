@@ -346,3 +346,94 @@ sesi mutlu etmeye ugrasan, ve elinden hic bir is gelmeyen adam neyin
 simgesidir?
 
 ---
+
+Su yaziyi okurken tarif edilen "sahte bilim (bogus science)"
+orneklerinden birinin bizim Kemalistlerin "icadi" Cok Oturgacli
+Donergec makinesine cok benzedigini farkettim. Bu makine de bosluktan
+"bedava enerji" uretiyormus ve tasarima patent bile verilmis! Bizim
+Kemalistler herhalde tasarimi ABD patent veri tabanindan aldilar,
+fakat patent verilip verilmemesi onemli degil, onemli olan bilim
+cevresinin, babalarin bu ise nasil baktigi.
+
+http://chronicle.com/free/v49/i21/21b02001.htm
+
+http://www.rexresearch.com/meg/meg.htm#usp
+
+---
+
+Khanna Soylesisi
+
+Ikinci Dunya (Second World) kitabinin yazari Parag Khanna George
+Stroumboulopoulos (kopyala yapistir ozelligine sukurler olsun) ile bir
+soylesi yapmis. Ikinci Dunya kitabinin tezi programin basinda da
+hizlica ozetleniyor, ilginc gelebilir. George S.'in programi "hip" bir
+ortam, daha canli, enerjik. Stroumboulopoulos pek bos bir programci
+degilmis, Afganistan baskani Hamid Karzai'la kendi ulkesinde "Kabul
+valisi [1]" diye dalga gecildigini biliyor mesela..
+
+Ikinci Dunya tezinin burada daha once islemistik; Dunya tek super
+guclu yapidan, uclu super guclu bir yapiya dogru gidiyor. Bu gucler
+artik askeri olarak isgal etmekle degil, ikinci dunya ulkeleri
+uzerinde bir nufuz yarisi ile ugrasiyorlar/ugrasacaklar. Bu super
+gucler Cin, AB, ABD. Ayrica (icinde Turkiye'nin de oldugu) ikinci
+dunya ulkeleri bir ekonomide "orta kesim" denen seviyeye tekabul
+ediyorlar ve diger orta kesim gibi sayilari daha fazla, bilahere guc
+dengesini ellerinde tutuyor olabilirler. Khanna bu ulkeleri nufuz
+edilebilecekleri bir "piyasada" "alisverise" cikmis gibi de
+nitelendiriyor, ki bu bu ulkelerin hareket alanini genis tutarak en
+iyi "fiyati" alabilmelerini sagliyor.
+
+Khanna Obama kampanyasina danismanlik yapti, simdi bu danismanligi
+Beyaz Ev cercevesinde devam ettirecek. Ilginc bir sinyal, Khanna'ya
+gore ABD Latin Amerika nufuz yarisinda geri kaldi, ve bolgeye iyi bir
+mesaj vermek istiyorsa Kuba ambargosu kaldirilmali. Tabii ki bir
+danismanin her soyledigi takip edilmez, diger danismanlar da vardir,
+fakat bir olasilik olarak addedilebilir.
+
+Bu tezde iyi taraflar var, fakat ben daha cok Turkiye icin "merkez
+ulke" tezi taraftariyim. (Hatta, belki de, bir gun, "mustakbel super
+guc?" :) Hehehehe).
+
+[1] Bu soyleme gore Karzai burnunu baskent'ten disari cikartamiyor,
+merkez disinda hicbir yerde nufuzu yok, vs.
+
+http://www.cbc.ca/thehour/videos.html?id=996412580
+
+---
+
+Siyah Kugu kitabinda Nicholas Taleb gelecegin bilimin Wiki usulu
+yapilacagindan bahseder. Hakikaten de gunumuzde bilimsel yayin yapmak
+isteyenler diger bir alternatif yayin sistemi olan arxiv.org sistemini
+giderek daha cok kullanir oldular. Fizikcilerin zaten uzun suredir
+"once arxiv" gibi bir politikasi vardir.. Geleneksel bilim
+yayinciligi, hem yayinlama yavasligi acisindan, hem de erisim
+engelleri dolayisiyla yeni cagin hizli erisim mentalitesine ayak
+uyduramiyor. Meslektas kontrolu (peer review) yapilmasi dolayisiyla
+daha sIkI bir surec oldugu dogru, bu muhakkak kaliteyi arttirici bir
+faktor, ve arastirma surecinin sonucunda kullanilabilir. Fakat surecin
+kendisi, cok daha hizli bir sekilde online yapilabilir.
+
+Suradaki bir yazi, bilimin nasil online yapilabilecegini
+irdeliyor. Blog, Wiki teknolojilerini kullanarak yapilabilecek, hemen
+yayinlanabilecek arastirmalar, erisilen kitleyi arttirarak bilimcinin
+aldigi geri beslemeyi ve okuyucularin bilgilenmesini
+arttiracaktir. Yazida bizim de daha once bahsettigimiz Innocentive
+sistemine vurgu yapilmis.
+
+http://michaelnielsen.org/blog/?p=545
+
+http://ucuncudalgageliyor.blogspot.com/2008/11/innovasyonu-outsource-etmek.html
+
+---
+
+Yayginca bilinen bir durumdur: Savas sonrasi dogan cocuklarin cogunlugu erkektir. Bu durum bilim adamlarini uzun sure dusundurmustur.. Bunun aciklamasi ne olabilir? Savasta olen erkeklerin yerine gecmesi icin "buyulu bir elin" daha fazla erkek dogmasini sagladigi gibi aciklamalarin kullanildigi bile olmustur; Fakat Corry Gellatly adli bir bilim adamina gore, bu tur aciklamalara gerek yoktur. Aciklama erkeklerin kendi cocuklarinin cinsiyetini belirleyen genlerinde saklidir.
+
+Gellatly savasa giden askerlerin aile agaclarini incelemistir. Bulgularina gore, erkek kardesleri fazla olan erkeklerin daha fazla oglu olma ihtimali vardir, kiz kardesleri fazla olanlarin daha fazla kiz cocugu olma sansi vardir (kizlarda benzer turden korelasyon bulunmamistir). Simdi bu bulguyu aklimizda tutarak, iki aileyi dusunelim. Bu ailenin birinde 3 erkek 1 kiz var, diger ailede 3 kiz 1 erkek var. Birinci ailede 3 erkegin hepsi savasa gidiyor, digerinde bir erkek savasa gidiyor. Simdi, savastan geriye oglu donme olasiligi hangi aile icin daha fazladir? Tabii ki birinci aile icin. Yani gayet bariz bir istatistiki gerceklik isiginda, cok erkekli ailenin savastan daha fazla oglu donecektir, ve bu geri donen oglanlar evlendikten sonra aynen kendi kardeslerinde oldugu gibi, kizdan fazla erkek dunyaya getireceklerdir.
+
+Popsci adli blog'dan aktarilmistir. Bu blog bilimi populer kultur isigindan ele aliyor; Holywood filmlerindeki bilimsel hatalari buluyorlar bazen. Mission Impossible II'deki motoksiklet sahnelerini de tokatlamislar mesela.
+
+http://www.popsci.com/scitech/article/2008-12/why-does-war-breed-more-boys
+
+http://www.popsci.com/entertainment-gaming/gallery/2007-09/hollywood-physics
+
+---

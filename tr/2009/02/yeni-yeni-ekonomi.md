@@ -1,2 +1,0 @@
-# Yeni Yeni Ekonomi
-

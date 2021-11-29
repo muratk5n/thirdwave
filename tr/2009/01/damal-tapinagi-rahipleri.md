@@ -1,6 +1,5 @@
 # Damal Tapınağı  Rahipleri
 
-
 Bloğumuz bir habercilik başarısına daha imza attı; muhabirlerimiz son
 derece gizli bir örgütü gün ışığına çıkardılar. Bu örgüt, Ata'mızın
 her sene gölgesinin göründüğü Damal'da inşa edilmiş olan bir tapınakta
