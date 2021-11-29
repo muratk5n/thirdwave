@@ -665,3 +665,70 @@ yapilan reformlarin nerelere varacagini da
 dusunemediler. Dusunselerdi, "hizla donmeye" ihtiyaclari kalmayacakti.
 
 ---
+
+Unlu genetikci Craig Venter, bitmesine yaklasik 18 ay kaldigini
+duyurdugu 4. nesil yakit projesini Monterey, California'daki bir
+konferansta acikladi. Bu projenin kapsaminda biyo-muhendislik
+teknikleri ile yapay olarak tasarlanan bir organizma CO2
+isleyip/tuketecek ve karsiliginda motorlarda kullanilabilecek turden
+yakit uretecek. CO2 bilindigi gibi yaygin bulunan bir atik ayrica
+kuresel isinmanin bas sorumlularindan biri.Venter, "tum petrol
+endustrisinin yerine gecip dunyaya enerji saglayan en ana enerji
+kaynagi olmak gibi "mutevazi" amaclarimiz var" diye aciklamasini
+surdurdu. Konusmasini yaparken dinleyicilerin arasinda Google
+sirketinin kurucusu Larry Page ve Al Gore goze carpti.Venter en buyuk
+problemin organizmayi tasarlamak degil, ticari baglamda anlamli olacak
+sekilde havadan cok yogun konsantrasyonda CO2 cekebilmek oldugunu
+belirtti. Venter, "elimizde 20 milyon gen var, bu genler gelecekte
+isimize yarayacak pek cok organizmanin tasarim bilesenleri olacak. Bu
+alanda sinirimiz sadece hayallerimizdir" dedi.Venter'in takimi
+sentetik kromozomlar kullanarak zaten mevcut olan organizmalari
+degistiriyor, bastan yeni canli yaratmiyorlar. Aslinda su anda bile
+motorlarda yakit olarak kullanilabilecek oktan (octane) ureten
+organizmalar var, fakat urettikleri miktar yeterli degil. Takimin
+yapmaya ugrastigi bu organizmalari genetik olarak degistirerek,
+tuketilen CO2'nun ve uretilen oktanin artmasini saglamak.Haberin asli
+surada.
+
+---
+
+Iyi bir haber: "Büyükşehirlerde trafik sıkışıklığını ortadan kaldırmak için 1 Nisan’dan itibaren yepyeni bir dönem başlıyor. Maddi hasarlı kazalarda taraflar doldurup imzaladıkları tutanak sayesinde trafik polisini beklemeden olay yerinden ayrılabilecek. Tutanaklar ve fotoğraflar sigorta şirketlerine verilecek, taraflar hasarlarını sigorta şirketlerinden alacak. Taraflar arasında anlaşmazlık olursa eski uygulamada olduğu gibi polis çağırılacak".
+
+Uygulama cok yerinde. Iletisim, etkilesim, ulasimin ustel bir sekilde arttigi yeni cagda her turlu kanun, uygulama icin sorulmasi gereken ana soru sudur: Yurutumu, kontrolu merkezi bir sekilde mi yapiliyor, yoksa daginik/gayri-merkezi bir sekilde mi? Trafik gayri-merkezi bir kavram olduguna gore, onunla ilgili sorunlar da ayni sekilde cozulmelidir, yani o trafigin icinde bizzat olan tekil aktorler, insanlar tarafindan. Artik kendi tutanagi, kendi fotograf makinasi olan kisiler tarafindan kaza sorunun halledilmesi, muhakkak optimal bir cozum olacaktir.
+
+Bunu yazarken aklima geldi: Demokrasi de daginik bir karar mekanizmasi degil mi? Ve nitekim, bu gayri-merkezilikten rahatsiz olan dinazor Kemalist'ler, acaba bu kazalar hakkindaki uygulamayi da iptal etmek ister mi? :) Kendi basina tutanak dolduran kisiler "laiklik" icin tehlike olabilir mi? Devletin birligi ve butunlugu tehlikeye girer mi?
+
+---
+
+Foreign Policy dergisindeki bir yazıya göre, güçlü başkan ya da güçlü
+hükümet'ten ziyade kanun koyucuların, yani parlamento'nun kuvvetli
+olduğu ülkelerin demokrasisi daha sağlam/dayanikli oluyor. Afrika'nın
+en stabil ülkesi olarak bilinen Kenya birdenbire karışınca, pek çok
+kişi şaşırdı, fakat Steven Fish and Matthew Kroenig'in yaptığı
+araştırma gözden kaçan bir faktöre işaret ediyordu: Zayıf bir
+parlamento. Kenya'da başkanın rakibi olan parti onunkine göre iki kat
+daha vekil kazanmış olmasına rağmen, yine sokaklarda kargaşa
+oldu. Niye? Çünkü rakip partiye oy verenler Kenya'da doğru dürüst
+kuvvet sahibi olan tek makamın hangisi olduğunu biliyorlardı:
+Başkanlık.
+
+Fish ve Kroenig araştırmalarında dünyadaki 158 parlamento'yu güçlerine
+göre sıraladılar. Parlamento gücü 4 kriter üzerinden ölçüldü: Hükümet
+üzerindeki etki gücü (power over executive), hükümeten ayrı bir kuvvet
+olabilmek (autonomy), hangi yetkilere sahip olduğu (savaş ilan
+edebilmek gibi), ve kısmen icra kabiliyet (iş yapabilmek için eleman
+ise alabilecek parası olup olmadığı gibi).Bu faktörleri Türkiye'ye
+uygularsak, meclisimizin son zamanlarda güçlendiğini ve buna mukabil
+demokrasimizin daha kuvvetlendiğini görüyoruz. Meclis ABD tezkeresine
+hayır, türban, sosyal güvenlik, Kuzey Irak harekatına izin gibi
+konularda zor bazı kararları alabilerek son zamanlarda bir etki
+merkezi olabildiğini ispatladı. Bu durum halk arasında da hissediliyor
+- insanlar problemleri olduğunda muhtar, belediye başkanı, kaymakamlık
+gibi mercilere gitmek yerine bölgelerinden seçtikleri vekillere daha
+çok gitmekteler.
+
+
+![](powerhouse_78788660.jpg)
+
+---
+
