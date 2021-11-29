@@ -417,3 +417,210 @@ dogurdu. Sorumlu bunu tetikleyen 'sey'dir. Yani hem sizin hem
 karsinizdakinin argumani yeterince derin degildir.
 
 ---
+
+Almanya ve Sol
+
+TIME makalesi, Josef Joffe, Eylul 2009
+
+Bugunlerde iddiaya girmek isteyenler icin herhalde en saglam kumar,
+Angela Merkel'in 27 Eylul'de secimi kazanacagi secenegidir. Onemli
+olan bu degil, esas soru, Merkel'in son dort senede oldugu gibi sosyal
+demokratlar ile mi yoksa ozgur demokratlar [..] ile mi koalisyon
+yapacagi. [..]
+
+Bu hikayeye aslinda "Avrupa'da Demokratik Solun Cokusu" gibi bir
+baslik ta verebilirdik. Sosyal demokratlar (SPD) aylarca Merkel'in
+partisini 15 puan arkadan takip etti. [Bu cokusun] hikayesindeki daha
+uzun vadeli guclerin varligi ise aslinda 19. yuzyilin sonlarina
+uzaniyor. Bu zamanlarda endustriyellesme ona tepki olarak bir suru
+reformist partinin ortaya cikmasina sebep olmustu. Bu hareketlerin
+dogal musterileri endustriyel proleter sinif idi, parti programlari
+refah devleti ve servetin tekrar dagitimi gibi seyler
+iceriyordu. Fakat Avrupa o gunleri geride birakti. Bu tur partilerin
+icinde varoldugu sosyal ortam hizla eriyor, bu sebeple ekonomik krizin
+ortasinda bile sosyal demokratlar daha fazla harcama, daha fazla vergi
+ve envai turden ikram iceren mesajlari ile kimsenin ilgisini
+cekemiyorlar. Dunyanin ilk endustriyellesmis ulkesi, imalatin GDP'ye
+katkisinin yuzde 16 oldugu Ingiltere'de mavi yakali isci sinifi
+nerelerde? Almanya'da bile durum ayni.
+
+Endustri yokolunca sosyal demokrasi de yokoluyor.
+
+Merkel Almanya'da kazaniyor cunku SPD'nin bir zamanlar yuzde 40'lar
+seviyesinde olan destegi artik yuzde 25'in altinda. Tabani catirdayan
+sol, boyle bir ortamda onun icin cok rahat gelen bir aliskanliga
+donuyor; hiziplere bolunmek. Almanya'da birliktelikten disari kacan
+ilk yesilciler oldu; bunlarin politikasi kultur savasi, anarsi,
+cevrecilik ve pasifizm iceren bir sentez idi [..], sonra radikal solcu
+Die Linke ayrildi, bunlar Schroder'in reformlarini hazmedemeyen eski
+Dogu Alman komunistleri ve Alman solcularindan olusan bir gruptu.
+
+---
+
+Asiri Hiz
+
+Hayat hizlaniyor. Etrafimizda surekli, ozellikle ekonomisi profosyonel
+is gucune dayanan ulkelerde gormek mumkun; islerini daha sIk
+degistiren insanlar, daha cok tasinma, daha cok evlenme, bosanma,
+ikinci, ucuncu, dorduncu kariyerler, diplomalar, girisimler. Tempo
+delice. Dogru durust bir duzen yok. Hersey corba.Toplum yapisi
+asagidan yukari dogru hizla cesitlenmekte, ABD gibi ulkeler hem
+aldiklari surekli goc ile hem de is yapis tarzlari cesitlenen
+bireylerin etkisiyle ilginc bir karisim halini almakta. Bu insanlarin
+tercihi yeni peydahlanan megapolis super sehirler ise artik neredeyse
+devlet boyutlarinda. Misir'da Kahire Misir'in ta kendisidir, icinde
+her turlu ekonomik duzeyi, iskolumu, yas, irk, dil grubunu barindirir.
+Amerika'da Miami sehrinde Ingilizce ikinci dil haline gelmistir [1].Bu
+delice karisimi ve hizi beyaz perdede en guzel yansitan filmlerden
+biri Crank. Filmde Chev Cherios adli kiralik katil dusmanlari
+tarafindan bir ilacla zehirlenir, ki bu ilginc zehir, eger onu alan
+kisinin kalp atis ritmi duserse kisinin olmesine sebep olacaktir. Bu
+kurgu sadece filmin anlatmak istedigi hikaye ve takip edecek macera
+sahneleri icin bir bahane muhakkak; filmin geri kalaninda aksiyon
+rollerinden iyi bilinen aktor Jason Statham'in kalp temposunu
+arttirmak icin binbir numara yaptigini, sekilden sekle girip kendini
+garip ve komik durumlara dusurdugunu goruyorsunuz.
+
+Cherios ayni anda, olmemek icin muthis bir hizla Los Angales
+megapolisinde ilerlerken bize sehirde yatay bir kesit te
+gosteriyor. Ispanyol, Arap, beyaz, taksici, mafya, doktor, envai
+turden karakter ile Chev'in yolu kesisiyor. Cherios icinde oldugumuz
+delice tempolu hayatin, kurallari, duzeni yerine oturmamis bu corbanin
+bir kurbani. Sembolik olarak onun uzerinden kendi hayatimizin delice
+hizini anliyoruz. Fakat Cherios kurgusu oyle abartili ki bizim hizimiz
+muhakkak daha az gozukuyor, ve bu abartiya gulup belki kismen
+rahatliyoruz. Cherios bir kopekbaligi gibi, hareket etmezse olecek
+(kopekbaliklari solunum icin surekli hareket etmek zorundadir) seyirci
+en azindan bu tehdidi hissetmemektedir ve arkasina yaslanip Crank'in
+isledigi abartili kurguyu seyredip eglenebilir.--[1] Miami orneginde
+sunu da bilmek lazim; Bu sehir Kuba'dan kacan zenginlerin sigindigi
+ilk yerdi ve bu zengin kisiler Kuba'da harcayamadiklari tum parayi bu
+sehri insa etmek icin kullandilar. Sehri bu hale getiren onlarin
+sermayesidir. Ayni sebepten sehirde anti-Castro hissiyatlar oldukca
+gucludur, bu gocmenler yillarca bu sebeple Kuba'ya kendileri gibi
+sahin duran Cumhuriyetci adaylara oy vermislerdir (simdiki valileri
+Bush II'nin kardesi hatta -Bush III !!-, Meksika'li hanimla evli,
+Cumhuriyetci).
+
+![](vlcsnap-125824.png)
+
+![](vlcsnap-124831.png)
+
+---
+
+Eklemlenmis gerceklik (augmented reality) kavramindan bahsetmistik. Bu
+kavramin son zamanlarda en gozde ornekleri Android ve iPhone
+telefonlarda cikan gercek zamanli rehberlik uygulamalari. Alttaki
+video'da Biyonik Goz adli uygulamayi gorebilirsiniz, bu uygulama
+telefonunuzu sehirde herhangi bir yere dogrulttugunuzda arka planda
+olabilecek metro, restoran bilgilerini otomatik olarak telefon
+ekranindaki gercek zamanli goruntu uzerine 'eklemliyor'. Isin
+muhendisligi aslinda cok zor degil; Android ve iPhone icinde pusula ve
+GPS yer belirleyici var, bu bilgileri kullanarak uygulama, telefonun
+nerede ve nereye dogrultuldugu elde ediyor, ona gore o lokasyondaki
+onemli isaretleri veri tabanindan aliyor ve aninda goruntu uzerine
+ekliyor.
+
+https://youtu.be/OJmB1lWIdGw
+
+---
+
+Turkiye ilk uydusunu uzaya firlatti. Projede calisanlari, ITU'yu
+kutluyoruz, bu alanda basarilarin devamini diliyoruz.
+
+![](uydu.jpg)
+
+---
+
+Krugman'in "Ekonomistler Niye Cuvalladi?" yazisinin "basligi" uygun
+dursa da yazinin icerigi saglam degildi. Bunu takiben John Cochrane
+adli bir ekonomist karsi saldiriya gecmis, o yazinin icerigi daha
+iyi. Ekonomistlerin cuvalladigi dogru, ne bilmediklerini bilmiyorlar,
+kendi alanlari disindaki alanlara ilgisizler, matematikleri saglam
+degil, var da var. Bir grup fizikcinin kendi kullandiklari araclari
+ekonomi bilimine tasimaya ugrasmalari iyi bir caba. Fakat Krugman gibi
+problemi dogru teshis edemeyip Avrupai bir takim sacma sapan yollara
+girmeye de gerek yok (herif Isvec'e bayiliyor). Agzi varmiyor ama
+basbayagi devletcilik yapiyor. "Aptal bankerler" diyor, e onlar insan,
+regulatorler insan degil mi? Onlar daha mi az aptal olacak?
+
+Cochrane'in yazisinda bitirici vurus surada: "Krizin odak noktasi
+oldukca libere edilmis, regule edilmeyen borsa degil, asiri sekilde
+devlet tarafindan regule edilen ticari bankalardi". Cat.
+
+Ha bir de Krugman Asimov'un bilim-kurgu eserleri Vakif romanlarinin
+hayraniymis, oradaki psiko-tarih ile "makro" arasinda baglantilar
+kuruyor arkadas... Ama o kulliyatin tamamindan haberi yok; Gaia
+yapilanmasi ile Asimov gelecegi birbiri ile hizla iletisebilen,
+daginik bir yapiya "emanet etti".
+
+Boyle okuzlere bir de Nobel veriyorlar.
+
+Vallahi Nassim Taleb dogru soylemis; ekonomideki Nobel odulunu kaldirmak lazim.
+
+---
+
+Turkiye Kultur Kodlari
+
+Alttakiler bazi Turkiye kultur kodlaridir; bu liste yasayan bir liste olacak, yeni kodlar buldukca buraya ekleyecegiz.
+
+Araba: KIZ ARKADASI
+
+Turkiye: MISAFIRPERVERLIK
+
+Sevgi: ACI
+
+Futbol: TARAFTARLIK
+
+Bilgi: RUTBE
+
+Asker: ANORMAL
+
+Dogru olan: DISARIDA NE VAR
+
+Hayatin amaci: SAMIMIYET
+
+Saygideger: ORNEK OLAN
+
+Devlet: AILE
+
+Universite: SARAY
+
+Gecmis: GUZEL GUNLER
+
+Sigara: OZGURLUK
+
+Cocuk: SANAT ESERI
+
+Disislerinin amaci: ONEMLI OLMAK
+
+Fikir savunmak: ISYAN EDIYORUM
+
+Hakli olan: EZILEN KIM
+
+Kimligini vurgulamak: TERSINI SOYLEMEK
+
+Gencler: YONTULACAK ODUN
+
+Hayat kalitesi: TEMIZLIK
+
+Sehirlerin ruhu / verdikleri mesaji hakkinda yazidan hareketle:
+
+Istanbul: HAVALI OLMALISIN
+
+---
+
+Amerika'da yuksek egitim bozulmus halde. Bir universitenin yillik
+odemesi $25,143 seviyesine gelmis durumda ve ogrenciler ders
+kitaplarina ek olarak $1,077 oduyor. Hatta, egitim masraflarinin
+artisi gectigimiz 30 senenin 29'unda enflasyonu gecmis
+durumda. Yabanci ogrencilerin okullarimiza gelmesi yuzde 3 dustu, ki
+bu son 5 senedeki ilk dusus. Egitim bakani Arne Duncan bile daha
+yaratici fiyatlandirma modelleri tavsiye ediyor. Ek olarak "Y nesli"
+olarak bilinen cocuklar klasik sinif ortaminin ihtiyaclarina cevap
+vermedigini dusunuyorlar [..]. Internet tarafindan transforme edilen
+pek cok diger sektor gibi, yuksek egitim de buyuk bir degisimden
+gececege benziyor.
+
+---
+
