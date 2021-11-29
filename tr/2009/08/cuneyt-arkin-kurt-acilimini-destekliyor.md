@@ -1,12 +1,14 @@
-# Cuneyt Arkın Kürt açılımını destekliyor
+# Cüneyt Arkın Kürt açılımını destekliyor
 
 ![](cuneyt.jpg)
 
-Bugün ünlü sinema sanatçısı Cüneyt Arkın ile röportajımızı sunacağız. Kendisine Kurt açılımı, AB gibi konular hakkında sorularımız oldu.
+Bugün ünlü sinema sanatçısı Cüneyt Arkın ile röportajımızı
+sunacağız. Kendisine Kürt açılımı, AB gibi konular hakkında
+sorularımız oldu.
 
 UDG: Cüneyt Bey merhaba, hoşgeldiniz.
 
-Cuneyt Arkin: [[cevap](nosbulduk.wav)]
+Cuneyt Arkın: [[cevap](nosbulduk.wav)]
 
 UDG: Kürt açılımını desteklediğiniz haberini aldık. Bunlar doğru mu acaba?
 
