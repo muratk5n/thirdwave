@@ -1,4 +1,6 @@
-# Batman: The Sucking Returns
+# Week 28
+
+Batman: The Sucking Returns
 
 Judgement is in: According to friends and yours truly, latest saga on
 Batman adventures fail to satisfy. Fail to entertain. To top it off,
@@ -65,4 +67,5 @@ man, I stayed throughout the whole movie to punish myself so I don't
 repeat this mistake again... So No more Hulk, no more Batman and no
 more Superman for me. Don't give me that X-men III crap either.
 
-For more, look here.
+---
+
