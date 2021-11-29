@@ -24,9 +24,9 @@
 
 [Obama, Clinton](03/obama-clinton.md)
 
-[Asrin roportaji](07/asrin-roportaji.md)
+[Asrın röportajı](07/asrin-roportaji.md)
 
-[Baykal: Darbe olmaliydi](07/baykal-darbe-olmaliydi.md)
+[Baykal: Darbe olmalıydı](07/baykal-darbe-olmaliydi.md)
 
 [Hiciv Denemeleri](07/hiciv-denemeleri.md)
 
@@ -46,7 +46,7 @@
 
 [Kim Bu Konuşmacı?](09/kim-bu-konusmaci.md)
 
-[Olay haber: Hurriyet'ten](09/olay-haber-hurriyetten.md)
+[Flaş.. Flaş..](09/olay-haber-hurriyetten.md)
 
 [Yesilcilerin Hurafeleri](09/yesilcilerin-hurafeleri.md)
 

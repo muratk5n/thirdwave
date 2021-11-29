@@ -1,110 +1,20 @@
 # 2009
 
-[Cok Oturgacli Donergec](01/cok-oturgacli-donergec.md)
-
 [Damal Tapınağı  Rahipleri](01/damal-tapinagi-rahipleri.md)
-
-[Ironik](01/ironik.md)
-
-[Khanna Soylesisi](01/khanna-soylesisi.md)
 
 [Matematigin Hikayesi](01/matematigin-hikayesi.md)
 
-[Online Bilim Yapmak](01/online-bilim-yapmak.md)
-
-[Savas Sonrasi Dogan Cocuklar](01/savas-sonrasi-dogan-cocuklar.md)
-
-[Wingsuit Base Jumping](01/wingsuit-base-jumping.md)
-
 [Yahudiler](01/yahudiler.md)
-
-[ABD Ekonomisini Savas Duzeltmedi](02/abd-ekonomisini-savas-duzeltmedi.md)
-
-[Afganistan, Pakistan Oyunlari](02/afganistan-pakistan-oyunlari.md)
-
-[Asyali "Gelistiren Devlet" Miti](02/asyali-gelistiren-devlet-miti.md)
-
-[Bol Veri](02/bol-veri.md)
 
 [CHP açılımlari birbirine karıştı](02/chp-aclmlari-birbirine-karst.md)
 
-[Davos ve Kriz](02/davos-ve-kriz.md)
-
-[Devasa Para Havuzu](02/devasa-para-havuzu.md)
-
-[Düşeş](02/duses.md)
-
-[FeedBurner](02/feedburner.md)
-
-[Google Mars](02/google-mars.md)
-
-[Hulu](02/hulu.md)
-
-[İş Yaratmak](02/is-yaratmak.md)
-
-[Obama Baslangici](02/obama-baslangici.md)
-
 [Osmanli != Islam](02/osmanli-islam.md)
-
-[Podcast](02/podcast.md)
-
-[Yeni Yeni Ekonomi](02/yeni-yeni-ekonomi.md)
-
-[12 Eylul Ertesi](03/12-eylul-ertesi.md)
-
-[18 Milyon Bos Ev](03/18-milyon-bos-ev.md)
-
-[3. Dalga ve Birey](03/3-dalga-ve-birey.md)
-
-[Arnold Kling: Regulasyonlar](03/arnold-kling-regulasyonlar.md)
-
-[Banknot Uzerinde Matematik](03/banknot-uzerinde-matematik.md)
-
-[Bencil Cikarlarin Toplami](03/bencil-cikarlarin-toplami.md)
 
 [Bilgi ve Guc](03/bilgi-ve-guc.md)
 
-[Bilgi ve Turban Yasagi](03/bilgi-ve-turban-yasagi.md)
-
-[A&G](03/blog-post.md)
-
-[Cagdas Dindarin Kacamagi: Evrim Karsitligi](03/cagdas-dindarin-kacamagi-evrim.md)
-
-[Chavez](03/chavez.md)
-
 [Darbe oldu](03/darbe-oldu.md)
 
-[Eklemlenmis Gerceklik](03/eklemlenmis-gerceklik.md)
-
-[Ekonomi Bilimi Arayista](03/ekonomi-bilimi-arayista.md)
-
-[Evrim Lineer Degil](03/evrim-lineer-degil.md)
-
-[Evrimsiz Piyasaci](03/evrimsiz-piyasaci.md)
-
-[Faschismus Kamalismus](03/faschismus-kamalismus.md)
-
-[Friedman Ailesi](03/friedman-ailesi.md)
-
 [Gazeteler ve Dusunulemezi Dusunmek](03/gazeteler-ve-dusunulemezi-dusunmek.md)
-
-[Geithner, Bernanke Plani](03/geither-bernanke-plani-islemeyecek.md)
-
-[Guvenlemek](03/guvenlikleme.md)
-
-[Intelligence Squared](03/intelligencesquared.md)
-
-[Islam Mikro Cozer](03/islam-mikro-cozer.md)
-
-[Kaka Bankalar](03/kaka-bankalar.md)
-
-[Kapital Yerine Bilgi](03/kapital-yerine-bilgi.md)
-
-[Kartel](03/kartel.md)
-
-[Kredi Krizi - Animasyon](03/kredi-krizi-animasyon.md)
-
-[Matematik Dunyasi 2.0](03/matematik-dunyasi-20.md)
 
 [Michael Milken](03/michael-milken.md)
 
@@ -196,7 +106,7 @@
 
 [Basın Degisirken](06/basin-degisirken.md)
 
-[Baykal soyadını degistiriyor](06/baykal-soyadini-degistiriyor.md)
+[Baykal soyadını değiştiriyor](06/baykal-soyadini-degistiriyor.md)
 
 [Biat, Itaat](06/biat-itaat.md)
 
@@ -262,7 +172,7 @@
 
 [Avrupa'nin Basarisizlik Felsefesi](08/avrupanin-basarisizlik-felsefesi.md)
 
-[Cuneyt Arkın Kürt açılımını destekliyor](08/cuneyt-arkin-kurt-acilimini-destekliyor.md)
+[Cüneyt Arkın Kürt açılımını destekliyor](08/cuneyt-arkin-kurt-acilimini-destekliyor.md)
 
 [Gawker Matematigi](08/gawker-matematigi.md)
 
