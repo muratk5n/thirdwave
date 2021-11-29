@@ -27,6 +27,7 @@
 * 2014
   * 02/01: ISIS takes control of Falluja
   * 19/01: A truck was stopped by TR jandarmee that was claimed to carry weapons for Al Qaida
+  * 18/03: Russia annexes Crimea
   * 27/03: Voice recording with TR FM, senior gov officials discussing starting a war with Syria through covert means leaked to Internet
   * 15/05: ISIS cements its rule in Raqqa
   * 11/06: ISIS invades TR Mosul consulate taking many hostage
