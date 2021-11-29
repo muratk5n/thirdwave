@@ -415,3 +415,381 @@ yapilmalidir. Bu soylem bolucu bir soylemdir. Apacik sekilde teror
 tesvik edilmektedir.
 
 ---
+
+Clay Shirky'nin blogundan
+
+Arkadaşım Nick Lemann Columbia Habercilik bölümünden mezun olanlara
+çok güzel bir konuşma yaptı [..]. Şunları söyledi: "Benim neslimin
+görüşü bir habercilik şirketine sahip olan bir kişinin bir "kamu
+hizmeti" yaptığı yönündeydi. [..]. Elde edilen kar, bu şekilde
+kaliteli bir haberciliğin finansına izin veriyordu. [..] Fakat artık
+kaliteli haberciliğin yapılacağileceği türden bir kazancımız yok. Bu
+değişim, acilen haber üretimi için yeni bir "iş modeli" arayışını
+ortaya çıkardı. "
+
+---
+
+Biat, Itaat
+
+Putin bir fabrikatoru fircalamis, herkesin onunde imzalamak istemedigi
+bir belgeyi imzalatmis. Fabrikayi ziyaret edip "kizmis". Iste bu tam
+populizmdir. Bizde populizm genelde "subvansiyon" konusu ortada var
+ise gundeme cikar fakat populizmin daha genis bir tanimi var. Obama
+aylarca once benzer sekilde sirketlere "kizdiginda" bu populizm
+hissiyati ABD'de takir tukur guzelce analiz edildi. Populist, yani
+"halkci" kendini halkin tum ihtiyaclarina kendi basina karar
+verebilecek sekilde gorur, bu acidan bir tur kolektivist
+sayilabilir. Cozumleri mikro bireylerin toplami olan dinamige
+birakmaz, kendi halleder. ABD'deki tartismada isin evrimsel tarafina
+bile girdiler; efendim populist "genler" halki "kendisi gibi"
+gozetenlerdir ve bu alisveriste halk populiste ihtimam gosterir, ona
+bakar ve bu genler bu sayede bir sonraki nesle intikal eder. "Sinir"
+gosterisi ise herkese takip edilmesi gerekeni bildirmek icin bir
+mesajlasma aracidir.Demokrasilerde secilmis her politikacinin
+populizme biraz meyilinin olmasi normaldir, ne de olsa "halka", "cok
+olana" hitap ederek oraya gelmislerdir. Bu bir ikilem; her yigidin
+kendi yogurt yiyisi olacaktir. Obama'nin yaklasimi pek begenilmedi, o
+da bu yontemi takip etmeyi birakti.
+
+![](gp_474754.jpeg)
+
+---
+
+Economist: "Eski aliskanlar zor degisir. Turkiye bu atasozunu surekli
+herseye burnunu sokan ordusundan daha cok dogrulamaya calisiyor
+sanki. [..]  Pek cok kisi son olaylarin Basbug'un demokratik durusunu
+ortaya koymasi ve ordu icindeki 'isyanci' ogeleri nihai sekilde
+temizlemesi icin bir sans olarak goruyor, ama su ana kadar ortaya
+cikan resim pek ic acici degil. Albay Cicek son olaylar sirasinda
+gorevinden alinmadi ve ordu olaylarin basinda islenmesi konusunda
+kanuniligi bile tartisilabilecek bir yasak koydu"
+
+---
+
+Wikinomics sitesinde guzel bir yazi. Yazar Mike Dover'a gore yeni
+nesil "eskilerin klasikleri" Catcher in the Rye, Moby Dick gibi
+eserleri sIkIcI buluyorlar. Bu eserlerdeki ana karakterler,
+kahramanlar ile kendilerini ozdeslestirmiyorlar, onlarin yaptiklarini
+sacma olarak niteliyorlar. Dogal olarak bu eserlerden "ders" te
+cikartmiyorlar.
+
+Makalenin alt kisminda Godfather (Baba), Spinal Tap gibi filmler icin
+yazilmis (herhalde Amazon gibi bu urunleri satan bir siteden) alinmis
+yorumlar daha da ilginc. Biz de sahsen benzer yorumlari Citizen Kane,
+One Flew Over Cuckoo's Nest gibi herkesin "illa ki" "muthis, cigir
+acan film" olarak betimlemesi "gereken" filmler icin de yapabilirdik
+(Not: Katiliyoruz: Godfather filmlerinde en guzeli ucuncusudur).
+
+Ozet olarak yeni nesil kenarda kosede kalmis, tecrit olmus, "degeri
+bilinmemis", toplumu degistirmeye ugrasan anti-kahramanlar ile
+ilgilenmiyor. Onlar bir sekilde icinde olduklari toplumda one cikmaya
+ugrasiyorlar. Normal olarak one cikabilecekleri alanlar, basarili
+olabilecekleri konulardadir, ve bu alanlar onlarin ilgisi, becerisi
+oldugu konulardadir; Kapitalist duzen ise, bu one cikma ihtiyacini bir
+sekilde topluma "servis" olarak dondurmeyi basarir ve devinim bu
+sekilde devam eder. Herkes "gonenclenir", cok oturgacli goturgeclere
+binilir.. hahaha... Yani, topluma olan fayda bireyin zevkleri
+uzerinden sekillenir.
+
+Modernite vs. sonrasi caglar arasindaki fark her zamanki gibi bariz
+ortada.. Bu cocuklar montaj bantinda "beyinsiz isci" gibi
+dusunmuyorlar ve hicbir zaman o isleri yapmayacaklar. Bu sebeple o
+turden "yanlis" ekonomik aktiviteleri baz alan sanat, dusunce,
+ideolojilerin cokmesinin sebebi daha da anlasilir oluyor.
+
+---
+
+Edge
+
+John Brockman, Edge.org hakkinda
+
+"Üçüncü kültür verişel/sayısal (empiriçal) iş yapan ve çalışmaları,
+yazdıkları ile artık klasik entellektüellerin yerine geçmeye başlayan
+bilim adamları ve diğer düşünürlerden olusuyor. Bu kişiler hayatımızın
+derin anlamlarını ortaya çıkarıyorlar, ne ve kim olduğumuzu tekrar
+tanımlıyorlar".
+
+Geçtiğimiz birkaç sene içinde Amerika'daki entellektüel oyun sahasında
+bir kayma meydana geldi. Klasik entellektüeller gittikçe marjinalize
+oluyorlar. Artık 1950 model Freud, Marx ve modernite eserlerini hatim
+etmiş olmak, 90 sonrası yıllarda entellektüel olmak için yeterli
+değil. Hakikaten de klasik entellektüeller bu sebepten dolayı gittikçe
+reaksiyoner bir havaya bürünmekteler; onlar çağımızın entellektüel
+gelişimlerden habersiz oldukları gibi bu bilmemezlikten sapkın bir
+şekilde neredeyse övünüyorlar. Bilimi hiç dikkate almayan kültürleri,
+çoğunlukla verişel değil (nönempiriçal); bu kültür kendine has bir
+jargon kullanıyor, kendi kirli çamaşırını kendisi yıkıyor.. Yorumları
+yorumlayan, yorum üstüne yorum içinde kendi kendini boğan ve sonunda
+gerçek dünyayla bağlantısını tamamen kaybeden bir tartışma usulü bu
+kültürün en karakteristik özelliğidir [1].
+
+1959 yılında C. P. Snow "İki Kültür" diye bir eser yayınladı. Bir
+tarafta edebi entellektüeller vardı, diğer tarafta bilim adamları
+vardı. Snow kendine inanılmaz gelen bir gözlemi de bu kitapta
+paylaştı; 1930 yıllarında edebi entellektüeller çaktırmadan
+kendilerini "tek entellektüel sınıf" olarak tanımlamışlardı - sanki
+başka entellektüeller yokmuş gibi. Bu yeni tanım astronom Edward
+Hubble, matematikçi Von Neumann, sibernetikçi Norbert Wiener, ve
+fizikçiler Albert Einstein, Niels Bohr, ve Werner Heisenberg'ü tamamen
+dışarıda bırakıyordu [..].
+
+Daha sonra Snow 1963 yılında kitabının ikinci baskısını yayınladı. Bu
+baskıda "İki Kültür: İkinci Bir Bakış" adlı yeni bir yazı vardı ve bu
+yazıda Snow iyimser bir şekilde bir "Üçüncü Kültür"ün ortaya
+çıkacağını, ve iki kültürün arasındaki boşluğu dolduracağını iddia
+ediyordu. Snow'un bu üçüncü kültüründe edebi ve bilimsel
+entellektüeller birbirleri ile konuşabilecekti. Fakat biz burada
+Snow'un kelimelerini ödünç almış olsak bile, üçüncü kültürün onun
+tahmin ettiği şekilde ortaya çıkmadığını eklememiz gerekiyor. Edebi
+entellektüeller hala bilim adamlarıyla konuşmuyorlar. Bilimsel
+entellektüeller halka direk konuşmaya başladılar. Geleneksel
+entellektüel medya, hep yatay bir oyun oynayagelmiştir; bu oyunda
+gazeteciler yukarı doğru, profosörler aşağı doğru yazardı. Bugün,
+üçüncü kültür düşünürleri orta tabakayı eş geçerek en derin
+düşüncelerini kafası çalışan okuyan halka hitap edecek şekilde, direk
+kendileri dile getiriyorlar.
+
+Ağır konular içeren ciddi bilim kitaplarının satış başarıları sadece
+klasik düşünürleri şaşırttı [2]. Onlara göre bu tür kitaplar bir
+"anormallik" idi. Bu kitaplar alınıyor ama "okunmuyordu". Bu görüşe
+kesinlikle karşıyım. Ortaya çıkan bu yeni üçüncü kültür aktivitesi
+insanların yeni entellektüel fikirlere karşı ne kadar büyük bir açlık
+hissettiklerini ispatıdır ve kendilerini eğitmek için
+gösterebilecekleri eforun bir göstergesidir.
+
+[1] Belki bu "gerçekten kaçışın" önemli sebeplerinden biri, modern
+hayatın son derece sıkıcı, monoton bir yer olmasıdır (ya da iki dünya
+savaşının ispatladığı gibi dehşet verici berbat bir yer). Fakat yeni
+çağda artık gerçeklik tekrar ilginç hale gelmeye başladı, ayrıca
+yapılacak çok iş var! Herkesin bu işin bir tarafından tutması
+gerekiyor.
+
+[2] Burada iyi örneklerden biri Stephen Hawking'in A Brief History of
+Time kitabıdır. Kitap son derece derin konulardan bahsediyor olsa da
+müthiş bir satış başarısı yakaladı. Günlük işlerinde sürekli
+"sembolik" düşünen bilgi toplumu için, artık bu tür entellektüel
+egzersizler artık "erişilebilir" hale gelmiştir. Satış grafikleri
+arasında korelasyon arayan, pazarlama amaçlı anketleri gözleyen,
+istatistiklere bakan, hatta sofistike bilgisayar programları yazan
+"normal beyaz yakalı vatandaş" artık bu kavramları anlayabilir, en
+azından onlara karşı bir merak, açlık beşler hale gelmiştir.
+
+---
+
+Enternasyonalizm
+
+Sosyalist temelli ideolojilerin one cikarttigi "enternasyonalizm"
+fikrinin takipcileri neyi takip ettiklerini iyi anlamali ve
+kavramali... Oncelikle sosyalizme onemli katkilarda bulunmus Moses
+Hess ve komunizmin kurucusu Marks birer Yahudi olarak "sinirlarotesi
+olma" fikirlerini ittirirken bilincaltisal olarak ulkelerindeki
+yerellige sikismis ve diger ulkelerdeki kardesleri ile iletisme istegi
+guden azinliklarin, yani Yahudilerin bilincaltisal ihtiyaclari
+isiginda davraniyorlardi.
+
+Bu fikriyattan yeni bilgi ekonomisinin ortaya cikaracagi hizli
+iletisimin ve serbest piyasanin ortaya cikardigi kuresel ticaret,
+seyahat, iletisime gelmek, enternasyonalizmcilere "benzer", "tanidik"
+gelebilir; ama tami tamina ayni sey degildir.
+
+Dogru noktaya yanlis yoldan gecerek ulasmak, sizi ileride farkli
+yanlislara ulastirabilir cunku konjenktur degistigi anda yanlis yoldan
+gecenler bir sonraki dogruya erisemediklerini farkedeceklerdir.
+
+Sovyetlerin enternasyonalizmini romantize edenler, bu stratejik
+hareketin, Sovyetlerin endustriyel ekonomisini beslemek icin kaynak
+arayisinin bir bacagi oldugunu goremiyorlar.
+
+Cunku aynen emperyalist Bati'nin dunyanin her yerinde dogal kaynaklari
+talan ettigi gibi, Sovyetler de kontrolleri altinda olan ufak "uydu"
+ulkelerin dogal kaynaklarini talan etmistir.
+
+Avrupa'da sozde "sag" kazaninca siz "kaybetmis" falan
+olmuyorsunuz. Siz zaten yoksunuz. Sizin kafaniza Berlin duvari
+yikilmis, altinda kalmissiniz. Cokmussunuz. Yeni sol, yeni sag
+pesindeki kisileri bu baglamda bosuna ugrasiyorlar.
+
+Bu acidan kuresellesme de sizin fikri alaninizda degildir.
+
+Kaldi ki kuresellesme yeni cagin basat bir faktoru degildir. Emtia
+fiyatlari bir artarsa, nakliyat fiyatlari yukselirse, o zaman
+kuresellesme degil bolgesellesme gorurdunuz, ve bu sizin
+teorilerinizin patlamasi anlamina gelirdi. Mevcut teknoloji baglaminda
+Agri'daki bir programci ile iletismenizi saglayan tekniklerle
+Japonya'daki bir programci ile iletismenizi saglayan teknoloji,
+teknikler arasinda hicbir fark yoktur. Bunlarin birisinde "yerel"
+birisinde "enternasyonel" oluyor olabilirsiniz, fakat bireyin
+ihtiyaclari acisindan bunun zerre kadar farki olmazdi. Kullanilan
+teknikler ayni olacakti.
+
+Avrupa'nin problemi "ulus-devleti" probleminde sikismis olmasi degil,
+o butun ulus, uniter, vs. devletlerin kendi icinde ne kadar bilgi
+ekonomisine gecip gecemeyecegidir. Lizbon'da belirlenen hedefler AB
+ulkeleri tarafindan surekli iskalanmistir. Lizbon toplantisina katilan
+eski demirperde ulkeleri bu "politburo toplantisina" benzeyen gudubet
+"calistay" ile ne yapacaklarini bilememislerdir. Cogunlukla toplantiya
+gulmuslerdir.
+
+---
+
+Obama Misir Kahire'de guzel bir konusma yapti. Kuran'dan bol bol
+alintilar yaparken tum dinlerin ortak noktasina vurgular yapti,
+ozgurluklerden bahsetti, kendi ulkesindeki muslumanlarin (ve tum diger
+dinlerin takipcilerinin) hayat bicimini yasamalarinda taninan
+ozgurluklerden ve bu ozgurluklere engellemeye calisanlara verilen
+cezalardan bahsetti. Turkiye'nin "Medeniyetler Ittifaki" cabasina
+vurgu yapmasi bu atilimin dis politikanin meyve vermeye basladigini
+gosteriyor.Obama musluman ulkelerine yonelik buyuk bir konusma
+yapacagini soylemisti; herhalde o konusma bu. Tum dinlerin ana
+mesajinin temel insan haklarinin soylemi ile ayni oldugu mesaji da
+olumluydu.Konusmanin tum metni.
+
+---
+
+\#Hackedu
+
+Twitter hakkindaki bir yazimizda # isareti ile nasil dinamik, onceden
+planlanmadan (isteyen Twitter mesaji yazarken istedigi kelime basina #
+isareti koyabilir) online gruplasmalar yaratilabildiginden
+bahsetmistik. Time dergisinin bu haftaki yazisinda Twitter hakkinda
+bir ornek vardi; orada #hackedu [1] gruplasmasindan bahsediliyordu. Bu
+gruplasma muthis bir ornek cunku sosyal medya uzerinden bilginin nasil
+yayilabildigini gosteriyor. #hackedu aslinda egitim reformunu konusmak
+uzere toplanan 30 kusur kisiden basliyor. Bu kisiler fiziksel olarak
+bir lokasyonda toplantidalar. Toplanti ve prezentasyonlar sirasinda
+oradakiler bilgisayarlari, cep telefonlari uzerinden #hackedu
+uzerinden statuleri hakkinda bazi mesajlar yaziyorlar. Ve bir sure
+sonra bu mesajlar yavas yavas disari sizmaya basliyor (su metaforuna
+dikkatinizi cekerim) ve bir sure sonra toplantiyla alakasi olmayan
+kisiler #hackedu uzerinden egitim reformu hakkinda kendi goruslerini
+bildirmeye basliyorlar. Fiziksel toplantida olanlar bunu farkediyor,
+onlar da bu mesajlari alip gercek zamanli olarak toplantilarinda geri
+besleme olarak kullanmaya basliyorlar.
+
+Muthis bir sosyal medya basarisi.
+
+Simdi, bizim icin daha onemlisi #hackedu altinda konusulanlar. Bazi
+ilginc baglantilar bulduk; tercumeler takip edebilir.
+
+[1] Hack, kurcalama, degistirme anlaminda kullaniliyor, edu ise
+education yani egitim kelimesinden geliyor.
+
+---
+
+Businessweek dergisinden Michael Mandel'in ilginc bir teorisi var: Ona
+gore krizin onemli sebeplerinden biri inovasyon eksikligidir
+(innovation shortfall). Bu eksiklik yuzundendir ki, zaten kuresel
+dengesizlikler yuzunden asiri miktarda yatirim yeri arayan sermaye,
+inovasyonla alakasi olmayan emlak temelli yatirimlara yonelmistir; bu
+para ileride ABD'nin bir sekilde inovatif urunleri kesfedip piyasaya
+surebilecegi umuduyla ABD'ye gelmistir ama o urunlerin ortaya
+cikamamasi, baska yere yonelemeyen paranin olusturdugu balonun
+patlamasina yol acmistir. Mandel'e gore son caglarda dogru durust
+inovatif urunlerden akilda tek kalabilecek olan iPod'dur. Halbuki
+bundan once modern caglarda radyo, televizyon, ucak, otomobil gibi
+urunler devrimsel, hayat degistiren, cigir acan turden buluslardi.
+
+Teoriye yuzde yuz katildigimi soyleyemem.. Ama yine de ilginc bir
+bakis acisi.
+
+http://www.businessweek.com/magazine/content/09_24/b4135000953288.htm
+
+---
+
+Mahmut "Ahmetcan" Ahmedinejad'in fark atarak tekrar secilmesinin yankilari suruyor. Suradaki bir rapora gore secimden once yapilan anketlerde Ahmedinejad'in acik ara farkla kazanacagi saptanmis. Soyle bir dusunce akla geliyor; eger mollalar hakikaten sonuclara hile karistirmak isteseler, acaba farki daha az yapmazlar miydi?.. Secime hile karismis olma ihtimali sifir degil; simdilik onumuzdeki bilgiye bakarak bunun olmadigini tahmin ediyoruz.
+
+Iran'daki secimlerin ABD'yi takip ettigi, yansittigi soylenir, Ahmedinejad'in seciminin Bush II secimi ardina gelmesi gibi (sahine karsi sahin). Eh peki o zaman Obama sonrasi niye daha az sahin olan adam Iran'da secilmedi? Bu dogru bir soru, fakat Israil'de olanlara bakalim (orasi da Iran icin onemli) ve orada basa gelen yine bir sahin oldu (Benjamin "Neden Yahu?" Netenyahu). Ahmedinejad kirsal bolgede yasayanlardan cok destek aliyor. Eski Tahran belediye baskani bu arada.
+
+Bunu soylerken Iran'da sokakta gosteri yapanlari anladigimizi da belirtelim. Mevcut demokratik haklar yeterli degil, Cumhurbaskaninin bile uzerinde olan dini lider halk tarafindan secilemiyor, anketlerde her 5 Iranlidan 4'unun dini lideri de secmeyi istedikleri ortaya cikmistir. Ayrica daha fazla bireysel ozgurlukler gerekli; genclerin uzerinde baskilar var, ahlak polisi kadinlarin ustune basina karisiyor (zorla bas acilmasina da kapatilmasina da karsiyiz), kadinlarin yeterli hukuki haklarinin olmamasi kotu. Aslinda Iran agir aksak liberize etme yonunde ilerliyordu; telekom, enerji sektorlerinde ozellestirmeye baslamisti; demek ki daha fazlasi gerekiyor.
+
+Twitter'dan tum gelismeleri aninda izleyebilirsiniz. En son baktigimda her dakika onlarca mesaj geliyordu.
+
+---
+
+Jeomuhendislik
+
+Kuresel isinma regulasyon, karbon ticareti, vs. gibi yaklasimlarla
+nihai olarak engellenezse, "jeomuhendislik" denilen buyuk (dunya)
+capinda atilabilecek bazi adimlar ile isinmayi engellemeye ugrasmak
+gundeme gelebilir. Ilac tedavisi yerine ameliyattan bahsediyoruz
+yani. Bu jeomuhendislik planlarindan bir tanesi atmosfere buyuk
+miktarda sulfur yaymaktir. 1991 yilinda Filipinlerde bir yanardag
+patladigi zaman dagdan cikan ve atmosfere yayilan sulfurun, bir
+sonraki sene sicakligin 0.9 derece dustugunu sagladigi
+gorulmustur. Buradan hareketle suni olarak insanlarin yayacagi
+sulfurun sicakligi istenen olcude indirebilecegi dusunulmektedir.
+
+Bunlar oldukca ekstrem mudaheleler muhakkak; diger sinirlamalarin hala
+yapilmasi iyi olur fakat gerekirse bu tur planlarin uzerinde simdiden
+dusunmek faydali.
+
+---
+
+Kotu Cocuk Iran
+
+Yillardir ABD baskanlarinin Iran hakkinda zart zurt konusmalarina
+dinliyorum; fakat dusunuyorum dusunuyorum, bir turlu Iran'i niye boyle
+kaka cocuk haline getirdiklerinin 'normal parametrelere' bakarak
+anlayamiyorum.
+
+Iste yine bir Iran secimi, bu sefer kaos, bir suru olay var, ve ABD
+baskani cikiyor televizyona bu konu hakkinda 'bir seyler'
+soyluyor. Ama kardesim, Iran 'niye bu kadar onemli?'. Bir kere,
+konvansiyonel olarak kesinlikle senin disinin kovuguna bile girecek
+bir rakip degil. Adami ezersin. Aninda.
+
+Nukleer olarak eh tamam, silah gelistirmeye ugrasiyor ama o silaha
+halen sahip degil. OLSA BILE onu ABD'ye gonderebilecek (delivery)
+mekanizmasina sahip degil. OLSA BILE bir iki tane gonderir, ardindan
+adami yokedersin.
+
+Hayir. Iran'a surekli bu sekilde bir onem atfedilmesinin sebebi askeri
+olamaz. Sebep jeostrateji ile alakali olmalidir. Ortadogu'daki dis
+ucgen Turkiye, Misir, Iran icinde muhakkak bir kaka cocuk bulunmalidir
+ve bu cocuk bir sekilde disari itilmelidir. Bu 'yapay' dusman uretme
+stratejisi sebebiyle Iran'dan ABD medyasinda gereginden fazla
+bahsedilmektedir cunku onu bir sekilde sistem disina itmek gerekir ve
+bu sadece onu gereginden fazla onemli gostererek mumkundur. Bu
+kadar. Medyalari bunu sorgulamiyor tabii; disislerinin soyledigine
+balik gibi atliyorlar (merkez medyasi sonucta).
+
+---
+
+Kredi Kart Sirketleri
+
+ABD'de eger birisi kredi kart borcunu odemezse ne olur? KK borcu
+'guvenlenmemis borc' kategorisindedir; yani bu tur borclarin
+gayrimenkula, arabaniza, vs. baglantisi yoktur. Eger biri KK borcu
+odemezse KK sirketi gelip arabanizi alamaz. Prosedure gore borc var
+ise bu borc bir 'tahsilat sirketine' transfer edilir (bu noktada akla
+eli sopali iri kiyim adamlar gelebilir), fakat bilindigi uzere bu
+kisiler telefonda 'rahatsiz / usteleme (harrass)' etmek haricinde bir
+sey yapamazlar; yani biri KK borcunu odemezse, odemek istemezse, bunu
+yapabilir.
+
+Burada risk KK sirketinin kucagindadir... Baska nerede olacakti ki?
+Bir kisiye gereginden fazla kredi acmislarsa o kisi bu krediyi
+kullanip odeyemediginde KK sirketi hata yapmis demektir. O adama o
+krediyi vermeyeceklerdi. Tabii su sorulabilir; bunun nasil bilsinler?
+
+Iste bu bilme 'ihtiyaci', piyasanin o yone 'ittirmesi', KK sirketleri
+bunyesinde bir suru inovasyonu yaratmalari icin onlari tesvik
+etmistir. Mesela su anda KK sirketlerinin elinde oyle analitik, tahmin
+edici (predictive) algoritmalar, programlar vardir ki, bir soylentiye
+gore alim satim kayitlarina bakarak KK sirketi birinin bosanip
+bosanmayacagini yuzde 95 uzerinde bir dogruluk ile iki sene onceden
+tahmin edebilmektedir.
+
+Bunu niye tahmin etmeye ugrasiyorlar? Cunku bosanma finansal durumda
+bir bozukluk ortaya cikartabilir ve onlara donecek odemeleri
+aksatabilir (mesela). Bu onlar acisindan bilinmesi iyi olacak bir
+gelismedir. Bu tur analitik alanlarda at kosturan biri olarak bunu
+kesinlikle mumkun oldugunu da burada belirteyim.
+
+---
+
+\#Mandrake
+
+![](manevren.jpg)
+
+---
