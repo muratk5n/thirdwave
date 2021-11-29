@@ -909,3 +909,270 @@ oldugu ortada galiba -tabi hakkini yemeyelim, Rifkin de bazi dogru
 seyler soyluyor-)
 
 ---
+
+ABD'de kuzey/guney savasinin tortulari halen kendini baskanlik
+yarislarinda belli eder. Kaybeden guney, kuyruk acisi sebebiyle
+savasin ardindan gelen secimlerde habire "guneyli, emekli general"'
+bir karakteri baskan olarak secmistir. Tum guney eyaletleri sanki
+koordine edilmis gibi ayni guneyliye oy vermis, kuzeylilerin secimi
+boylece etkili olmamistir.
+
+Bu sebeple "guney" stratejisi her baskan adayi icin cok
+onemlidir. Ayrica dini hassasiyetlerin geri gelmesi ve bu
+hassasiyetlerin en cok guney eyaletlerinde var olmasi, her adaya bu
+stratejiyi iyi planlamalari icin bir insiyatif sunmaktadir. Mesela
+George W Bush'un son iki secimdeki plani tamamen guney uzerineydi. W,
+kendini has guneyli olarak satti (ki babasina kiyasla oyledir), kovboy
+cizmeleri ile gezdi, en favori filminiz nedir deyince "Forest Gump"
+cevabini verdi, ki bu filmde cok akilli olmayan bir guneyli "dogru"
+seyleri yaparak, ve iyi odaklanarak (bunu hakikaten iyi yapiyordu) ve
+sansinin ek kuvvetiyel inanilmaz isler basariyordu. Tam guneylilerin
+tutacagi turden bir filmdi. Rakibi Al Gore ise favori film sorusuna
+cevap olarak "John Malkovich Olmak" cevabini vermisti - ucuk ama
+seyredilir bir filmdir fakat bu cevap secmene Gore'un ucuk ve absurd
+bir adam oldugu mesajini vermistir.
+
+Diger stratejiler arasinda W kampanyasindan basina sizdirilan "kuzeyli
+bir zuppenin W'ya soyledikleri" gibi hikayeler vardir, bu hikayeye
+gore zuppelerden biri genc W'ya babasinin kaybettigi secimde "daha iyi
+olan erkek kazandi" demis olmasidir. W kizmistir. Baska bir hikayede,
+bazen W takiminin kuzeyli olarak betimledigi baba Bush ile teenage bir
+W'nun kavga edecek duruma gelmesi anlatilir - W babasina "mano a mano
+yapmak ister misin" der. Texas usulu. Butun bunlar guneyli imaji
+suslemek icin yapilmistir.
+
+Ek olarak, Cumhuriyetciler tarihi olarak guneyde guclu, Demokratlar
+tarihi olarak kuzeyde (ozellikle buyuk sehirler ve eyaletlerde -New
+York, Chicago gibi-) gucludur. California valisi Reagan, Cumhuriyetci
+oldugu icin guney eyaletlerinden oy alabilir, guneyli eski vali Bill
+Clinton kuzeyden kabul gorebilir.
+
+Demek ki, Demokratlar icin baskanlik yarisinda sansli kisinin guneyde
+mevcudiyet gosterebilen bir kisi olmasi gerekir - bu kisi guneyde
+olmasada guney kafasinda olan Iowa onsecimini kazanmis
+Obama'dir. Cumhuriyetciler icin ise kuzey onseciminde varlik
+gosterebilmis (New Hampshire) Mc Cain ismi one cikmaktadir.
+
+Bu modele gore final secimin Obama / Mc Cain arasinda sekillenecegi
+soylenebilir. Tabi cok erken, Clinton ciftinin eli bos durmuyor,
+Demokrat orgutu ile iyi ve eski iliskileri var.
+
+Entegrator elit ne ister? Hillary Clinton'a gecis vizesi verdiler -
+kocasi zamaninda onlara bol kemik atmisti, Obama ile daha az
+anlasabileceklerdir. Obama fazla "halka yakin (grassroots)" bir
+kampanya yurutuyor. Kampanyanin ilerleyen aylarinda aynen Howard
+Dean'i kitlesel medya kanallari ile alasagi ettikleri gibi Obama'yi da
+alasagi edebilirler. Fakat entegrator elitin gucu azalmaya basladi,
+Dean, bu arada Demokrat Parti yoneticisi oldu ve boyle katakkullilere
+izin vermeyebilir.
+
+---
+
+Reklamciliga kultur kodu kavramini getiren Dr. Rapaille'e gore,
+Amerika'da baskanin kultur kodu HZ. MUSA kelimesidir. Hristiyan bir
+ulkede bu kodun Yahudiligin onemli bir sahsiyetini gostermesi biraz
+garip olabilir - fakat 1) Amerika'da hep telafuz edilen
+Hristiyan/Yahudi (Judeo-Christian synthesis) sentezinin bir yansimasi
+olabilir 2) Amerika'nin kendisine verdigi kultur kodu olan RUYA
+kelimesi ile MUSA kodu uyumludur.
+
+Niye?
+
+Bunun icin Hz. Musa'nin tarihteki yerini irdelemek gerekiyor. Musa,
+hem Yahudi dininin kurucusu, hem de Yahudi'leri tehlikeli bir
+yolculuktan gecirerek "vaatedilmis topraklara" ulastiran kisidir. Bu
+Amerika'ya gelirken yerini yurdunu birakmis ve yeni dunya, "yeni
+vaadedilmis topraklara" ulasmak isteyen insanlarin dunya gorusleri ile
+ortusur. Bu sebeple Amerika'da bir baskan adayi, eger "beni takip
+edin, sizi yeni bir dunyaya/olusa tasiyacagim" sozlerini inandirici
+bir sekilde soyleyebilirse, kultur kodlariyla uyumluluk saglar ve
+yarista basari kazanir. Su an icin bu durusun en cok Obama tarafindan
+sergilendigini goruyoruz.
+
+Eger entegrator elit katakulli yapmazsa, bu soylem Obama'ya buyuk
+takipci ve sonunda basari saglayacaktir [1].
+
+Cumhuriyetciler icinde McCain ayni sekilde degisim, ve "degisik lider"
+goruntusu ciziyor. Bunun ne kadar gercek oldugunu, ve uzerinde siritip
+siritmayacagini zaman gosterecek. Fi tarihinde sistem karsitligi su
+goturmez olan ve Reform partisinden olan Jesse Ventura Minnesota
+valiligi kampanyasini yuruturken, McCain'in bu kampanyayi izlemesi
+icin adamlarini gonderdigini biliyoruz. Yani bu basarili kampanyadan
+teknikler kopyalandi, akabinde Cumhuriyetci partinin ic yarisinda bu
+teknikler kullanildi. Bu teknikler gercekten McCain'in karakteri ile
+uyumlu muydu? Zaman gosterecek. McCain W. Bush'a karsi oldugu o
+yarista, bir ara "degisiklik" goruntusunu kaybetmis ve bertaraf
+edilmisti.
+
+[1] Demokrat parti ic yarislarinda daha once endustriyel yobazlar
+tarafindan alasagi edilen liderler Gary Hart ve Howard Dean olarak
+sayilabilir.
+
+---
+
+Bilgi Ekonomisi İhracatı - İngiltere
+
+İhracat (milyar dolar)	 1995	2005
+İş Servisleri	10.9	 30.7
+Finans Servisleri	 8.6	24.8
+Bilgisayar Servisleri	 0.8	5.8
+İletişim Servisleri	 1.0	3.0
+Kültürel / Medya	 0.7	2.0
+Devlet	 1.4		 2.0
+Lisanlar / patentler	 3.9	7.3
+Toplam: Bilgi Bazlı Servisler	23.3	75.6
+Toplam: Bilgi Bazlı Olmayan Servisler	23.3	35.5
+
+Kaynak: [Bilgi Ekonomisini Tanimlamak](http://www.theworkfoundation.com/Assets/PDFs%5Cdefining_knowledge_economy.pdf)
+
+---
+
+Gates ve Jobs evlerinde secim Obama. Silikon Vadi'de tercihlerin
+[Obama](http://digg.com/2008_us_elections/Obama_1_In_Gates_and_Jobs_Households)
+yonunde oldugu [gozukuyor](http://www.reuters.com/article/politicsNews/idUSN3135973220080202). Google sirketi ust duzey yoneticilerinden ve
+bir bayan olan Marissa Mayer'in Hillary Clinton yerine Obama
+kampanyasina bagis yaptigi ogrenildi.
+
+---
+
+Eger 9/11 onumuzdeki baskanlik yarisinda bir etken ise, buradan hareketle sunu sorabiliriz: "ABD dunyaya ne mesaji vermeyi sececek?". Koylu Islam'ina nanik yapmak icin bir kadini mi secmeli, yoksa dusmanina bile ve dunyaya yakin olabilecegini gostermek icin soyadi Osama'yi andiran ve gobek adi Huseyin olan (Saddam Huseyin mealinde) bir kisiyi mi ? (ya da bir Yahudiyi mi? [4])
+
+Diger tum parametreler bir yana, Amerika dusmanindan bile ogrenen ve ondan icine bir seyler ceken bir memlekettir - o zaman Obama'nin sansli oldugunu soyleyebiliriz. Tabi muhakkak Obama'nin cok onemli diger avantajlari ve silahlari vardir. Bu silahlardan en onemlilerinden birini tek kelimeyle ozetleyebiliriz:
+
+OPRAH.
+
+Oprah Winfrey TV'de gunduz hanim programi yapan bir kisiliktir. Daha dogrusu baslangici budur. Su anda Oprah milyar dolarlik serveti, dergiden, kluplerden, reklamlardan olusan medya mega sirketinin sahibi olarak ABD'de herkesin tanidigi bir insandir. Daha onemlisi mesela ayni kulvarda gezinen Martha Stewart gibi kotu bir unu yoktur. Martha hakkinda Amerika'da insanlarla biraz sohbet etseniz sonunda soz muhakak suraya gelecektir: "I heard she is a bitch (biraz cirkef/su**uk oldugunu duydum). Oprah hakkinda hic boyle sozler dolasmaz. Seviyesi vardir. Bu baglamda Turkiye'deki seviyesiz hanim programlarindan ve medya kisilklerinden fersah fersah uzaktadir. Mesela bir "kitap klubu" vardir - Oprah'in favori kitaplari ve yazarlari bu bolumde ekranlara tasinir. Oprah'in medya kuvvetinden hareketle soyleyebiliriz ki bu klupte bahsedilen bir yazar ve kitap acilen en iyi satan listesinde tepeye ziplar.
+
+Ve iste bu Oprah baskanlik yarisinda cok, coook, hem de coook ciddi sekilde Obama'yi desteklemektedir.
+
+Kaderin cilvesine bakiniz: Hem bayan hem zenci olan bir kadin muhakkak kendini bu yarista bolunmus hissedecekti, fakat gunun sonunda destegini zenci olan erkege vermeyi secmistir. Dusunulurse aslinda bu mantiklidir: Insanlar kendilerini once kendi cemaatleri, sonra kendi cinsiyetleri ile ozdeslestiriyorlar. Sonucta guneydeki pamuk ciftliklerinde zorla calistirildiklarinda zencilerin aralarinda cinsiyet ayrimi yapilmiyordu. Hepsi koleydi. Bu konuya tekrar gelecegiz.
+
+Oprah ile devam etmek gerekirse: Zenci kizlara mahsus ve verdigi kaliteli egitimle bilinen Spellmen College'dan mezundur. Ayni okuldan baska kim mezun? .. Hmm: Mesela Condalezza Rice. Bu okulu kuran kimdir? John D. Rockefeller. Rockefeller, aynen Chicago Universite'sini kurdugu gibi Spellman'i da kurmus, ve bunu yaparken ezildigini dusundugu bir azinliga yardim ettigini dusunmustu. Cogulculugun Amerika'da yardim derneklerini buyutucu bir dinamik oldugundan bahsetmistik. Tum bunlarin muhakkak dini serbestlik ile de alakasi vardir... John D. Rockefeller Turkiye'de olsa "yesil sermaye" diye adlandirilabilecek seviyede muhafazakar ve koyu dindar idi [1]
+
+Obama'ya donelim: Akilli, enerjik ve vizyoner bir kisiliktir. Oprah'in destegini kazanmasinda bunlarin da cok etkisi vardir. Ve ayrica genctir.
+
+Zenciligi bakimindan bir tarihsel handikap da yasamiyor: ABD'de yasayan bir zenci dedesinin dedesinin kole oldugunu dusunerek hayiflanabilir (ki buna hic gerek yoktur), fakat Obama direk Afrika'dan (Kenya) geliyor. Su anda ulkesi karmakarisik olsa bile direk "anavatandan" gelmis olmasi ona daha bir degisik hava ve enerji katiyor olmali. Eddie Murphy'nin Coming to America filmini hatirlayalim.
+
+Eger kartlarini iyi oynarsa ve entegrator elit bir katakulli yapmazsa Obama'nin bu yarista sansi vardir, ama kazanamasa bile Demokrat Parti icinde iyi bir agirliga sahip olacak gibi gozukuyor. [2]
+
+[1] Titan
+
+[2] McCain icin boyle olmustu. McCain iki yaris once New Hamsphire'i kazanip Bush'u iyi zorlamisti: Bu agirlikla gecen yarista Kerry & W tartismasinda McCain ismi herhalde en az 10 kere bahsedilmistir. Bu programda sonunda W "yahu bu adam beni destekliyor, ne ismi gevelip duruyorsun" deyip cocugu koymustu, bu da ilginctir. Kerry aslinda McCain bahsi ile ablak bir hata yapmisti.
+
+[3] Kerry de, bu arada, Obama'yi desktekledigini aciklamistir. Niye? Gecen secimlerde Clinton'larin kendisine iyi destek vermedigi hissiyatiyla intikam aliyor olabilir - ona gore Bill karisinin 4 sene sonra yarista daha iddiali olabilmesi icin bu yarisin Kerry'nin ikinci baskanlik donemine denk gelmesini istememisti. Ve onu desteklememisti. Olabilir tabi. Bence o kadar guclu bir iddia degil. Kerry bu yarisi kendi eliyle kaybetti. Bunlarin otesinde Kerry Obama'yi tutuyor/saygisi var, zaten Demokrat kurultayinda (popularite arttirabilici bir ortamdir) Obama'ya ilk konusma firsati veren Kerry'nin ta kendisiydi.
+
+[4] Bir Yahudi olan New York belediye baskani Bloomberg su anda hala kararsiz fakat bagimsiz olarak yarisa katilirsa ciddi sansi oldugu soyleniyor. Hatta maestro politikacilardan olan George W Bush'un bir gun Bloomberg'e donup o gun yaninda olduklari Air Force One ucagini ona gostererek "bu kus senin olabilir" dedigi biliniyor... Yani W Bloomberg'in kazanma sansinin iyi oldugunu dusunuyor.
+
+---
+
+Pakistan ve Cin ortak bir savas ucagi uretimine basladi. Bu Asya'daki
+ittifaklarin iyi bir gostergesi.. Zaten Cin'in Pakistan'a ilk nukleer
+bombasini uretmesi icin yardim etmis oldugu biliniyor. Bunun ustune
+Amerika ve Hindistan arasinda stratejik ortaklik basgosterdi -
+inanilmasi zor ama dunyada George W Bush'un populeritesinin yuksek
+oldugu (hatta %50'ler uzerinde) tek ulke su anda Hindistan. W Hint
+nukleer programina vize verdigi icin sevilmekte.
+
+Demek ki Cin ve Hindistan arasinda bir kamplasma goruyoruz - Rusya ise
+azalan nufusu ile bir sure icin ciddi bir guc olmaktan uzak
+olacaktir. Buyuk nufuslari ile her iki ulkeye soguk bakacagi tahmin
+edilebilir. Rusya'da genis arazi var, nufusu azaliyor. Bir Tom Clancy
+romaninda Cin'in Sibirya'daki dogal kaynaklarda gozu oldugu ve bunun
+icin katakulliler planladigi gibi bir senaryo dokturulmustu. Cok
+mantiksiz bir senaryo degildi, fakat her iki ulkede de nukleer
+silahlar var.
+
+Bu konu hakkinda bir anektod: Fi tarihinde Cin'in ilk super
+bilgisayarini yapmis oldugun yazan bir haberi Hint/Amerikan bir
+arkadasimin yanina gidip gosterdigimde, homurdanarak soyle demisti:
+"A**a k**m Cin'liler, bir gun dunyayi ele gecirecekler (these fucking
+Chinese are going to own the entire world). Asya'li komsularini nasil
+gordukleri hakkinda iyi bir anektod bence.
+
+---
+
+Kalabaliklasan sehirlerde etkilesimin artmasi sebebiyle iletisim
+yanlisliklari, hatalar, sakarliklarin artmasindan tetiklenen, herkesin
+birbirini daha fazla rahatsiz etmeye baslamasi dinamigine verilen bir
+isim vardir: Sehirsel curumusluk (urban decay). Bu durum, her
+kalabalik dunya sehrinde gecerlidir. New York, Beijing'de vardir,
+Istanbul'da da mevcuttur.
+
+Ek olarak Turkiye'de sikca duyulan bir yakinma daha var:
+
+"Insanimiz duzen bilmiyor, oturup kalkmayi bilmiyor, vs". Bu yakinmada
+dogruluk payi olmadigi soylenemez. Bu konusmalarin oldugu ve "niye
+boyleyiz?" sozunun dondugu ortamlarda, benim ise cevabim hep su
+olmustur: "Niye boyleyiz? Cunku insanlarimizin sırtında sanayilesmenin
+sopasi kırılmadı". Yani iscilesmedik, yani siraya dizilmedik.
+
+Eger Turkiye'de soyle birkac nesil vasifsiz isci olarak fabrikalarda
+calissa, o zaman siraya girmeyi, sesini yukseltmemeyi ogrenecek,
+tabiri caizse millet muma donecekti. Bati'da boyle olmustur. Yuzyillar
+suren endustriyellesme, insanlari gayet deterministik bir sistem
+icinde robotlasmis bir halde ve duzende calismaya mecbur etmis,
+buradaki davranis kaliplari gunluk hayata ve toplumun hareket
+kaliplarina yansimistir.
+
+Turkiye'de ise koyden gelenlerin cogu endustri'de calismamaktadir ve
+bu durum onlara davranis kaliplarini degistirmesi icin bir motivasyon
+saglamamaktir. Yeni sehirlilerin serbest mesleklerinde, hizmet sektoru
+islerinden ciktiktan sonra (ya da sirasinda) uzaktaki bir
+arkadaslarina "hoooop" diye seslenmeslerinde onlar icin ekonomik bir
+bedel yoktur - sehrin kalabaliginda rahatsiz ediciligi arada
+kaynamakta ve kisinin bu davranisi devam ettirmesine yol
+acabilmektedir.
+
+Mamafih, bu duruma nihai cozum yoktur. Zorunlu askerlikte verilecek
+herhangi bir disiplin gecicidir - buradaki disiplin gecim
+zorunlulugunun verdigi bir itekleme olamaz, gecici bir ortamda, oradan
+kurtulmak icin izlenen bazi kurallardan ibaret kalir.
+
+Insanlarin ofis/ev merkezli bilgi isciligi arttikca, dikkatli calismak
+icin sessizlik ihtiyaclari da artar. Bu tur calisma ve uretim
+yonteminin yayilmasi, cok asiri rahatsizliklari cozecektir. Fakat
+asiri kalabalikliktan gelen ve artan dikkatsizliklerin daha rahatsiz
+edici olmasi problemine cozum bulunamaz. Bir kapiyi acarken arkasinda
+birisi olmasi ihtimali kalabalik bir sehirde 10 katina ciktiysa, o
+kapi birgun birinin kafasina carpacaktir.
+
+---
+
+Bu adam bizle dalga mi geciyor?
+
+Zannediyorum ustteki beyan "halk geldi, vatandas denize giremiyor" ve
+"su okullar olmasa egitim bakanligini ne guzel yonetirdim" sozleriyle
+beraber siyasi tarihimizin taclandirilmasi gereken derin felsefi
+analizlerinden birini temsil ediyor. Serbestlik geldi, demokrasi elden
+gidiyor. DIKKAT!
+
+Baykal: “Hükümetin türban teklifi şimdilik yüksek öğrenim kurumlarında
+serbestlik getiriyor, yarın da liselere, ilkokula getirmek
+isteyecekler. Demokrasi elden gidiyor” 
+
+---
+
+Mahatma Gandhi "toleransizlik kendi davamizdan emin olmadigimizin gostergesidir" demis - endustriyel entellektuellerimizin tahammulsuzlugunu bu soz, genelde baglamda, iyi bir sekilde aciklayabilir.
+
+Ozelde neler oldugunu ise bu grubun gelecek tasavvuruna bakarak anlayabiliriz.
+
+Bu kesim ulkenin sanayilesmesini planliyordu. Bu degisimin sonucu olarak vasifsiz bir isci sinifi olusacakti. Bu olunca, bu insanlari yonetecek bir kesim gerekecekti. Bu okumus yonetici sinifta hizmet verecek, bu guruhun kendi icindeki yemlenme sirasinda kendine ait tabakada calisacak "entegre edecek" kisiler gerekiyordu, iste bugun, Kemalist/ulusalci diye bilinen ve "endustriyel entegrettuel" adi verebilecegimiz kisiler bu kesimin ta kendisidir.
+
+Fakat yeni nesil teknolojiler, bilginin ve ulasimin artmasi toplumumuzu bir "vasifsiz isci toplumu" degil, vasifli bilgi isci toplumu haline getirmektedir. Bir "fabrikaya" bagli olunmadigi icin bu gelisim sekli merkezi, burokratik degil, toplumun tum tabakalarina dagilmis/dagilacak sekilde cesitlidir. Bu yuzden, yeni beyaz yakalilar dindar, dinsiz, Kurt, Alevi, Turk gibi toplumun her kesiminden ortaya cikiyorlar. Iste bu sebeple eski elitin ortaya attigi ve uzerine titredigi "tek kimlik" cozuluyor. Onun arkasindaki tarihi, genetik, kulturel hurafeler yikiliyor.
+
+Bu durum, endustriyel entegrettuel'lerin planinda olmayan bir gelismeydi. Onlar vasifsiz orduyu yonlendirmeyi beklerken, "yardim etmeyi" umarken, simdi alt-kimlikleri kendilerinden farkli, ama bir o kadar (hatta daha fazla) vasifli, birikimi kendininkine yakin insanlar ile karsi karsiya geliyorlar. Yani yardim etmek istegi, yonetmeyi hak gorme dusuncesi/faraziyesi, birdenbire yonetememe, gereksiz ve marjinal kalma, fikirlerine aldiris edilmemesi durumuna donusuvermistir. Bu kadar buyuk bir plan degisikligi, gelecek beklentisi ile gercek halin uymazligi, bu insanlari tabii ki buyuk bir psikolojik bunalima itecektir. Onlarin planina gore merkeze biat edilecek, topluma yardim edilecek ve karsiliginda merkez onlari kollayacak ve yardimlarini kanalize edecekti.
+
+Bu sistem yeni dunyada devam ettirilebilir bir surec degildir. Merkeze biat edilmesi anlamsizdir, -entegrettuellerin Cumhurbaskanligi secimine yeni beyaz yakalilari sasirtacak derecede onem vermis olmasi bundandir-, bu dunyada herkes kendi isine bakacak, merkez sadece bireyi kuvvetlendirmek ve tesvikle onun onunu acici bir rol oynayabilecektir. Toplumsal iletisim, insanlar arasinda ihtiyaca gore kurulan "network"ler uzerinden daha gayri resmi (informal) ve asenkron bir sekilde vuku bulacaktir.
+
+Yeni dunyada artik bir urunu ureten sirketin kendisi bile o urunun merkezinde degildir - tekil kisiler eBay gibi elektronik mezatlarda bir urunu birbirlerine alip, satip, pazarlayip koca bir ikinci piyasa ve kulturu olusturmuslardir. Yedek parcalar bu network uzerinden gezinmekte, ve insanlar "merkez sirketin" fahis fiyata yaptigi tamirlerden kacip, parcayi kendileri alip tamiri kendileri bile gerceklestirebilmektedirler.
+
+Yepyeni bir dunyaya dogru gidiyoruz...
+
+2008'e hosgeldiniz.
+
+[1] Bu noktada Kemalist'lerin "toplumu egitmek" hem de onu "iscilestirmek" amaclari celiski gibi gozukebilir [2], ki kismen oyledir. Fakat, Bati ulkelerinde ozellikle Ingiltere'de "kitle egitimin" cikis amacinin zaten bastan beri "mavi yakali isci yetistirmek" oldugunu unutmayalim. Bu sistem tarimdan gelen ve "asiri senkron" zaman mekan kavramina uyum saglayamayan koylulere senkronluk, emir alabilme, birbiri ile iletisim kurabilme gibi yetenekleri asilamak icin kurulmustu.
+
+[2] Ote yandan sanayilesme istegi ile "koylu milletin efendisidir sozu" bir celiskidir.
+
+---
+
