@@ -10,7 +10,7 @@
 
 [Köşe yazısı](/2008/09/kaynak.md)
 
-[Olay Haber Hurriyet'ten](/2008/09/olay-haber-hurriyetten.md)
+[Hurriyet'ten Flaş](/2008/09/olay-haber-hurriyetten.md)
 
 [Herkes Sertleşti](/2008/10/herkes-sertlesti.md)
 
