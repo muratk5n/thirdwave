@@ -14,8 +14,4 @@ gitmiyorsa mesaj "solo yap" olacak.TSK Darbuka darbe planini 5
 maddelik bir cevapla yanitladi. Ilk madde "karargahta darbuka calmayi
 bilen yoktur" sozleri oldu.
 
-
-
-
-
 ![](darbuka.jpeg)

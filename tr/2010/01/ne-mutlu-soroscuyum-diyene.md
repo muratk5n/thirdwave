@@ -8,5 +8,4 @@ grup yürüyüş yaparak bir günlük Soros'un koltuğuna oturdular, o sırada
 bir ülkede pembe devrim bir başkasında kur dalgalanması oldu. Soros
 çocuklarla ilgilenip harçlık olarak borsa tüyosu verdi.
 
-
 ![](money_usd1_10112005390_final.png)
