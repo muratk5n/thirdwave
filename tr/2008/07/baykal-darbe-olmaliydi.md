@@ -1,10 +1,10 @@
-# Baykal: Darbe olmaliydi
+# Baykal: Darbe olmalıydı
 
 Anayasa Mahkemesi kararından memnun olmayan Baykal şöyle bir yorum
 yaptı: "Beklediğimiz darbe gerçekleşmedi". Anayasa Mahkemesinin darbe
 yetkisi olmadığını hatırlatan bir gazeteciye sinirlenen Baykal: "Biz
 senin işine karışıyor muyuz?" diye ters bir yorum yaptı. Yanık teniyle
-dikkatleri çeken politikaçı, bir diğer gazetecinin "Rusya
+dikkatleri çeken politikacı, bir diğer gazetecinin "Rusya
 bilimadamları Baykal golüne dalgıç gönderdi, ne diyorsunuz?" sorusuna
 "ben senin golüne atlıyor muyum sen benimkine atlıyorsun?" diye cevap
 verdi. Türkiye'nin ve ailesinin kişilik haklarının ihlal edildiğini
@@ -14,13 +14,3 @@ belirten politikacı, bundan sonra irticacıların Suudi Arabistan'a,
 Kamalistlerin Fransa'ya, kendisini sevenlerin Baykal golüne gitmesini
 söyledi. Önder Sav'ın nereye gideceği sorusu cevapsız kaldı. Telefonu
 meşgul çalan Sav, yorum için erişilemedi.
-
-
-
-
-
-
-
-
-
-
