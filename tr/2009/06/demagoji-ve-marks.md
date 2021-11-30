@@ -31,7 +31,7 @@ bir önyargı olmaksızın esaslı iktisadi meselelere yaklaşma
 kabiliyetinden yoksundu. Her şeyi, ilk ve her şeyden önce, halkın
 zihninde yapılan tesiri dikkate alan bir tahrikçinin gözleriyle
 gördü. Bu konuda bile, gerçekten, özgün değildi; zira 19. yüzyılın
-3. ve 4. on yıllarındaki bilimsel makaleleriyle anasayacılığa
+3'uncu ve 4'uncu on yıllarındaki bilimsel makaleleriyle anasayacılığa
 (chartism) giden yolu hazırlayan, "emeğin bütün ürününe sahip olma
 hakkı"nın İngiliz sosyalist savunucuları, bütün esaslarıyla zaten onu
 belirlemişlerdi. Ayrıca o, sistemini, yani Das Kapital'in ilk cildinin
