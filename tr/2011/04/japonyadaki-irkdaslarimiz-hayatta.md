@@ -14,23 +14,4 @@ kurtardi" yorumunu yapti. Sozcu en kisa surede tum grup ile biraraya
 gelip faliyetlerine devam edeceklerini belirtti ve ekledi: "Tanri bir
 daha Turk'u korudu".
 
-
-
-
-
-
-
-zaman:
-
-Nisan 04, 2011
-
-
-
-
-
-
-
-
-
-
 ![](japon-turg.jpeg)

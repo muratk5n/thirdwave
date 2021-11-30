@@ -169,3 +169,61 @@ kadar ozguven sahibi olacak midir? Oyunun boyutu ve sekli
 degismistir. Ortada bir sorun var ve sahiplenen yok.
 
 ---
+
+BBCBu hafta genis bant Internet hizmeti saglayacak 6 tonluk Ka-Sat
+adli telekomunikasyon uydusunun devreye girmesine tanik oldu, uydu
+evlere ve islere Internet erisim hizmeti saglayacak. Ka-Sat ve birkac
+hafta once devreye giren Hylas-1 ile beraber olarak "erisimsiz bolge
+(not-spot)," problemine iyi bir cozum saglanmis oluyor. Erisimsiz
+bolgeler yerkure uzerinden fiber, ADSL, 3G, 4G, vs. ile Internet
+baglantisi alamayan bolgelere verilen isimdir. Avrupa Komisyonu
+dijital konulardan sorumlu baskan yardimcisi Neelie Kroes
+"Avrupalilarin yuzde 95'i artik genis bant Internet hizmetine
+sahip. Bu guzel bir gelisme. Ama geride hala yuzde 5'lik bir bolum
+var, bu 10 milyon haneye tekabul ediyor ve hala cok fazla. Bu
+insanlara da hizmet goturmemiz gerekli" sozlerini soyledi.
+
+---
+
+04ANKARA7106 kodlu sizinti, sene 2004
+
+Turk[iye] Devleti'nin tarihten ne kadar korktugunun orneklerinden biri
+Ankara'dan JITEM'e bir gun verilen "Ermeni ayirimciligiyla mucadele
+edilmesi" emridir herhalde. Kontagimizin JITEM'de tanidiklari bu
+emirin yerine getirilmesinde niye ustelendigini anlayamadiklarini,
+kafalarini karistigini soylemisler cunku Guneydogu'da bugun itibariyle
+zaten bir avuc Ermeni kalmis durumda. Bu emiri yerine getirmek zorunda
+olanlar basarisiz olacaklarindan emin bir sekilde ise baslamislar,
+sonra bolgede bir "Ermeni ayrimciligi" bulmaya ugrasirken farketmisler
+ki Ankara aslinda suphesini cok detayli bir sekilde tutulan ve
+Turkiye'de, ozellikle dogu ve guneydogu gibi belli bolgelerde
+vatandaslarinin kacinin Ermeni asilli oldugunu gosteren bir nufus
+kutugune dayandiriyor. Kayitta Ermeniler Osmanli gorevlileri
+tarafindan toplu sekilde goc ettirilip, olduruldukleri zamanda gonullu
+ya da zorlu olarak donmus olanlari detayli sekilde
+gosteriliyor. Uzakta kalmis ve gizlenen bu Ermeni baglantisi o kadar
+yaygin ki kontagimiza aktarildigina gore JITEM bir defasinda Ermeni
+asilli bir koy imami ile bile karsilasmis [..]
+
+Nufus kutugu Osmanli sisteminin devamini ispatlar nitelikte. Kayit
+[Avrupa'da] yerel kiliselerin baptizm amacli tuttugu kayitlara
+benziyor ama daha merkezi ve detayli, ve onun bugun bile muhafaza
+edilmesi aslinda insanlarin arasinda suregelen "yabanci olana" asiri
+boyutlardaki dikkat ve hatta ondan duyulan bir tur korkuyu da gozler
+onune seriyor.
+
+---
+
+Yunanistan ekonomisi 2000-2007 arasinda yildiz ekonomiydi, suradaki bilgiye gore yillik yuzde 4.7 buyudu ve yabanci yatirim ulkeye akin etti. Fakat simdi yerlerde surunuyor. Nasil oldu da isler bu kadar bozuldu?
+
+Sebep guclu ekonomi ve devlet bono kazancinin dusmesi [ve AB uyeliginin arttirdigi guven] Yunanistan'in buyuk yapisal borclanma modeline gitmesini kolaylastirdi. Bir Yunan gazetesi Kathimerini'ye gore asiri buyuk kamu borclari 1974'te demokrasiye donulmesinden itibaren Yunan sosyal modelinin onemli bir parcasi haline gelmisti. Askeri Cunta yonetiminin yonetimden uzaklastirilmasindan sonra devlet sol ve sol meyilli disari itilmis kisileri ana akima dahil edebilmek icin asiri buyuk kamu aciklari vererek devleti koca bir isveren haline getirdi, ve emeklilik odemeleri, ve diger sosyal yardimlar ile bir anlamda onlara "rusvet" verdi.
+
+Hatta egzotik finansal enstrumanlar ile bu modelin bile ilerisine gitti, ve son derece kirilgin bir sistem dogdu. Kriz patlayinca Yunanistan icin en onemli, ve ilk once ortadan yokolan turizm, gemicilik sektorlerinin gelirleri devlet gelirlerini azaltti, ve asagi inis basladi. Ilginc durum, Yunanistan'in Amerikali Goldman Sachs firmasi ile yataga girerek binbir katakulli ile borcluluk durumunu AB'nin gozetiminden bile saklayabilmis olmasidir. Durum tam bir rezalettir. Yunanistan bu yaptigi iste dunyada en kotu olmakla beraber, Italya da bu "ust lige" dahil olan ulkelerden.
+
+Italya ve Yunanistan ulkelerinin dandik tarihleri ve kulturleri onlarin buyuk bir dezavantaji muhakkak; Fakat AB yapisal olarak bazi seyleri niye engelleyemedi? Asiri merkeziyetciligin sinirlari burada ortaya cikiyor. Istedigin kadar avrokrat ise kos, yereldeki adam kafasina koyduysa katakullisini yapiyor. Gecende E.coli hastalik alarminda oldugu gibi, sasirmis gorevliler hiyarlari, domatesleri sucladilar ve bir suru urun heba edildi, simdi de ciftci kurtar bizi ey AB diye bagiriyor (tercumesi: Almanya ver parayi).
+
+TR'nin AB uyeligini destekliyoruz, AB standartlari ulkemiz icin hala "ileri", fakat AB yonetim sureci, ve standardizasyonun surekli varligi iyi bir sey degil (2. dalga kavrami). Roubini hakli, su anda AB'nin mevcudiyeti bile supheli / sorgulanmali. Helmut Kohl amca Merkel'e firca atiyor ama zamanin ruhunda onun hayalindeki AB mumkun mu acaba?
+
+Yerele donersek, oradaki merkeziyetcilik te sorgulanmali. Devletin elinden buyuk istihdam kapisi haline gelebilme "kabiliyeti" varsa, bu kabiliyete sahip olmamali. Istismar edebilecegi yetenekler elinden alinmalidir.
+
+---

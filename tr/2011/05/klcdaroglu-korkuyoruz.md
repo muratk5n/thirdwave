@@ -1,11 +1,15 @@
 # Kılıçdaroğlu: Korkuyoruz
 
-CHP baskani Kilicdaroglu iktidarin halka korkudan baska bir sey
-getirmedigini iddia etti. Baskan secim meydanlarinda her vatandasin
-korktugunu, korkunun yayildigini ileri suruyor. Kilicdaroglu, "korku
-imparatorlugu, korku belediyeleri, korku mezralari var" yorumunu
-yapti.
+CHP başkanı Kılıçdaroğlu iktidarın halka korkudan başka bir şey
+getirmediğini iddia etti. Başkan seçim meydanlarında her vatandaşın
+korktuğunu, korkunun yayıldığını ileri sürüyor. Kılıçdaroğlu, "korku
+imparatorluğu, korku belediyeleri, korku mezraları var" yorumunu
+yaptı.
 
-Bunlari duyan MHP lideri Devlet Bahceli, Kilicdaroglu'nun 8G
-formulunden bir kelime kullandigi icin memnuniyetini belirtti, fakat
-kelimenin telafuzunu dogru yapmadigi icin onu elestirdi.
+Bunları duyan MHP lideri Devlet Bahçeli, Kılıçdaroğlu'nun 8G
+formülünden bir kelime kullandığı için memnuniyetini belirtti, fakat
+kelimenin telafuzunu doğru yapmadığı için onu eleştirdi.
+
+
+
+

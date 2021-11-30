@@ -251,3 +251,60 @@ sistemin bir kopyasını kuracaklarsa, direnişte görülen bir sürü efor
 boşuna harcanmış demektir.
 
 ---
+
+Anadolu'nun DNA Yapısı
+
+[Yapılan araştırmalardaki] mitokondrial ve Y kromozom [bazında] en iyi
+hesaplara göre Orta Asya temelli genetik karışım en fazla yüzde 30
+seviyesinde. Bu yaklaşıksal hesap Anadolu'ya geldiği iddia edilen
+büyük sayıda (tarihi olarak belgenmemiş olsa da) Türkmenlerin göç
+oranı ile uyuşuyor. Bu oran 40 nesil boyunca her nesilde yüzde 1
+seviyesinde olmuştur.
+
+[[-]](http://web.unife.it/progetti/genetica/Giorgio/PDFfiles/ajpa2001.pdf)
+
+---
+
+Bazı Yanılgıların (Nihayet) Çöküşü
+
+Felix Marquardt
+
+[Arap Baharı sonrası görüldü ki] özgürlük için hissedilen o açlık,
+dışarıdan empoze edilmedi, içeriden geldi. Arap Sokağı diye bilinen
+kişiler, hayatlarındaki problemler ve apaçık ortada olan -arka arkaya
+9 BM raporuyla tescillenmiş- geri kalmışlıkları için Batı'yı,
+Amerika'yı ve İsrail'i suçlamaya çok daha az meyilli.. Onlar nihayet
+problemlerinin (çoğunun) sorumlusu olarak kendilerini yöneten,
+yönetmiş olan despotları suçlamaya başladılar. 11 Eylül'de uçakların
+kulelere çarpmadan hemen önce, o kulelerdeki "Yahudilerin" uyarılmış
+olduğu türünden akıl sır erdirilemeyen peri masallari da artık alıcı
+bulamıyor. Al Kaide'nin hiççiliği de (nihilism) aynı şekilde
+reddediliyor.
+
+---
+
+Kılıçdaroğlu Somali'de
+
+Bazılarında hiç "halkla temas" yeteneği olmuyor... Yukarıdaki resme
+bakınız. Kılıçdaroğlu'daki ifade sanki elinde canlı bir bomba
+tutuyormuş gibi .. Afrikalı çocuktaki ifade "bu memur niye kapımıza
+geldi, evrakları eksik mi doldurduk acaba?" kıvamında.. Tam bir PR
+fiyaskosu. Yok mu bir kaset daha?
+
+![](kilic-somali.jpeg)
+
+---
+
+Sünger Bob Çocukları Aptallaştırıyor
+
+Businessinsider
+
+Amerikalı araştırmacılara göre Sünger Bob gibi hızlı tempolu çizgi
+dizileri çocukların çetrefil işleri becerme kabiliyetlerini ciddi
+şekilde azaltıyor. [..] Araştırmada çocuklar üç gruba ayrıldı, ve
+[.. Sünger Bob seyreden] çocukların işlerini idare etme, takip etme
+fonksiyonlarında düşüşler görüldü. Bu çocukların kuralları olan
+organize oyunları oynamaktaki [..] başarısının azaldığı gözlendi.
+
+---
+

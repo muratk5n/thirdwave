@@ -1,6 +1,5 @@
 # MBTI
 
-
 https://www.dropbox.com/s/sarxyyazafcmaro/myers-briggs-tr.zip?dl=1
 
 Kişilerin psikolojik profilini çıkartmak için Myers-Briggs ünlü

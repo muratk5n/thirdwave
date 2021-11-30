@@ -11,23 +11,4 @@ arka arkaya kucuk darbelerin tercih edildigini soyleyen baskan, soyle
 devam etti: "Halkimizin hayat kalitesini arttirmak icin surekli
 calisiyoruz".
 
-
-
-
-
-
-
-zaman:
-
-Nisan 21, 2011
-
-
-
-
-
-
-
-
-
-
 ![](ysk.jpeg)

@@ -1,10 +1,7 @@
 # Flaş.. flaş..
 
-
 Van'daki artçı deprem sonrası Japon ülkücü derneği ile bağlantıya
 geçtik. Aşağıda röportajın metni:
-
----
 
 UDG: Alo? Merhaba.. Japon Ülkücü Derneği mi?
 
@@ -44,6 +41,5 @@ JD: Ben teşekkür ederim. Domaarigato Mister Robatto. Hepiniz Türk'e
 emanet olun.
 
 UDG: Amin.
-
 
 ![](japon-turg.jpeg)

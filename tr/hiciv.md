@@ -102,9 +102,9 @@
 
 [Mesaj..](/2011/03/mesaj.md)
 
-[Japonya'daki ırkdaşlarımız hayatta](/2011/04/japonyadaki-irkdaslarimiz-hayatta.md)
+[Sekizinci G](/2011/03/sekizinci-g.md)
 
-[Seçilen yer düsündürücü](/2011/04/secilen-yer-dusundurucu.md)
+[Japonya'daki ırkdaşlarımız hayatta](/2011/04/japonyadaki-irkdaslarimiz-hayatta.md)
 
 [YSK: Tepkileri anlamiyoruz](/2011/04/ysk-ilgi-gosterdik.md)
 
@@ -118,15 +118,25 @@
 
 [Everything is something happened](/2011/07/everything-is-something-happened.md)
 
+[YSK: Komando](/2011/07/ysk-komando.md)
+
 [Alex: Tüm planlardan haberim vardı](/2011/08/alex-tum-planlardan-haberim-vard.md)
 
 [Mesaj..](/2011/08/mesaj.md)
 
 [Garga gak dedi](/2011/09/garga-gak-dedi.md)
 
+[Keçi değil inek yedi](/2011/10/keci-degil-inek-yedi.md)
+
 [Flaş.. flaş..](/2011/11/flasflas.md)
 
 [Vicdani ret](/2011/11/vicdani-ret.md)
+
+[Cumhurbaşkanlığı süresi](/2011/12/cumhurbaskanlg-suresi.md)
+
+[AİHM bedelli sisteme geçti](/2011/11/aihm-bedelli-sisteme-gecti.md)
+
+[Van.. Flaş.. Flaş..](/2011/11/flasflas.md)
 
 [Gül kabinesi](/2011/12/gul-kabinesi.md)
 

@@ -12,10 +12,4 @@ icap ettiği zaman en büyük hediyem olmak üzere, Cumhuriyet taraftarı
 icin canımı da vereceğim". Bildirinin okundugu toplantıda duygulu
 anlar yasandı.
 
-
-
-
-
-
-
 ![](aziz-napolyon.jpeg)

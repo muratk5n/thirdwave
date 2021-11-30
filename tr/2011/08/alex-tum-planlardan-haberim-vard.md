@@ -13,22 +13,4 @@ olduğu anlaşılıyor, bu sayının Alex'in darbe yapılanmasındaki rütbesi
 olduğu tahmin ediliyor.
 
 
-
-
-
-
-
-zaman:
-
-Ağustos 09, 2011
-
-
-
-
-
-
-
-
-
-
 ![](alex.jpeg)
