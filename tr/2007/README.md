@@ -4,8 +4,6 @@
 
 [TUSIAD Raporu: Başkanlık Rejimi Tartışması](01/tusiad-raporu-bakanlk-rejimi-tartmas.md)
 
-[Politik / Kulturel](03/politik-kulturel.md)
-
 [Dunyanin Hali ve Gelecek](05/dunyanin-hali-ve-gelecek.md)
 
 [Baglantici Elit ve 3. Dalga](05/entegrator-elit.md)
@@ -35,10 +33,6 @@
 [Secmen](08/secmen.md)
 
 [Anayasa Teklifi](11/anayasa-teklifi.md)
-
-[Kullanilmamasi Gerekenler Kelimeler - Wikipedia](12/kullanilmamasi-gerekenler-kelimeler.md)
-
-[YDB - 29/12](12/pakistan-daglilar-ve-sehirliler.md)
 
 [Turban](12/turban.md)
 

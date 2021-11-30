@@ -52,8 +52,6 @@
 
 [Dünyanın En Tembel Öğretmeni](10/dunyanin-en-tembel-ogretmeni.md)
 
-[Guzel Gelismeler](10/guzel-gelismeler.md)
-
 [Ulu Onder Soros](10/img.md)
 
 [Onemli telefon konuşması](10/onemli-telefon-konusmasi.md)

@@ -68,3 +68,58 @@ jeopolitik yapıyı tahrip etmeye devam edeceklerdir.
 
 ---
 
+[Taha Akyol](http://www.milliyet.com.tr/2007/12/29/yazar/akyol.html)
+
+"Pakistan'da bu suikastla şehirler kaybetti, "dağlılar" kazandı! [..]
+Güney'de, Güney'deki Sind eyaletinde, merkezi ve gelişmiş bölgeler ile
+şehirlerde merkez sol Butto'nun ve ikinci sırada merkez sağın güçlü
+olması coğrafi ve sosyolojik yapının bir yansımasıdır. [..] ki
+ülkenin, din farkından daha belirleyici olan coğrafi ve sosyolojik
+yapılarındaki farklar hakkında bir fikir edinmek için iki eser tavsiye
+edeceğim: Biri M. Wassem'in The Elections in Pakistan adlı eseri,
+öbürü Sayeed Shehab'ın A Short History of Pakistan'ı..."
+
+Dogru
+
+Koyluluk ile sehirlilik savas halinde - bu normal ve dinin ne oldugu
+onemli degil. Pakistan is gucunun dagilimi soyle:
+
+tarim: 42%
+endustri: 20%
+bilgi /servis / hizmet: 38%
+
+---
+
+Kullanilmamasi Gerekenler Kelimeler - Wikipedia
+
+Yeni dunyanin dusunme/ifade seklini "Wikipedia'da uzak durulmasi
+gereken kelimeler" kurallari cok iyi yansitiyor... Bildigimiz gibi
+Wikipedia, merkezi bir otoritenin degil, "network"'un yarattigi bir
+ortamdir ve en buyuk ansiklopederle yarisir hale gelmistir.
+
+Wikipedia'da bilgi asmak (posting) icin uzak durulmasi gerekenler:
+
+1) Spesifik olmayan, flu, anlami kesin olmayan (ambiguous) ifadeler.
+
+2) Hakaret iceren ifadeler
+
+3) Wikipedia'nin zaten kendisinin de bir goruse destek verdigini ya da
+vermedigini soyleyen ifadeler.
+
+4) Kucumseyen (condensending) ifadeler, ya da ozelde, gorusu okucuya
+"kasikla" verme egilimi (asiri basitlestirmek, vs.)
+
+5) Gereksiz jargon kullanimi (teknik olmasi gereken yerler haricinde)
+
+6) "Klişe" sozler
+
+7) Bilgi vermeyen, sadece "onem belirten" ifadeler. WP bu ifadelere
+"tavus kusu terimleri" (peacock terms) diyor cunku tavus kusu gibi bol
+renkli tuyler gosterip hava atiyor fakat hicbir katki
+yapmiyorlar. Mesela: Tavus Kusu: Brezilya'nin cok hareketli canli
+ekonomisi var.
+
+Duzgun: IMF ve Dunya Bankasina gore Brezilya alim gucu bakimindan
+9. en buyuk ekonomidir.
+
+--
