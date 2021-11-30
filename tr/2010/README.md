@@ -1,7 +1,5 @@
 # 2010
 
-[Cin vs. Google](01/cin-vs-google.md)
-
 [Ne Mutlu Soroscuyum Diyene](01/ne-mutlu-soroscuyum-diyene.md)
 
 [Son darbe planı: Darbuka](01/son-darbe-plan-darbuka.md)
