@@ -34,8 +34,6 @@
 
 [The Inheritance of Rome](06/inheritance-of-rome.md)
 
-[How Things Change](07/how-things-change.md)
-
 [What Is Wrong With Scientific Publishing](07/what-is-wrong-with-scientific.md)
 
 [The Calculus of Grit](08/calculus-of-grit.md)
