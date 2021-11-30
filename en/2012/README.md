@@ -10,52 +10,6 @@
 
 [Sonderweg](01/sonderweg.md)
 
-[Big Brother Zynga](02/big-brother-zynga.md)
-
-[BOHICA](02/bohica.md)
-
-[Giordano Bruno](02/giordano-bruno.md)
-
-[Halftime in America](02/halftime-in-america.md)
-
-[I have a bad feeling about this](02/i-have-bad-feeling-about-this.md)
-
-[It’s Evolution, Stupid](02/its-evolution-stupid.md)
-
-[Kevin Hart](02/kevin-hart.md)
-
-[Know-How and Why](02/know-how-and-why.md)
-
-[Who Need Access? You Need Access!](02/link-our-governments-spend-millions-on.md)
-
-[My kinda car](02/my-kinda-car.md)
-
-[Nice Action (Indian Movie)](02/nice-action-indian-movie.md)
-
-[Ninja Loan](02/ninja-loan.md)
-
-[P ≠ NP?](02/p-np.md)
-
-[Pathfinders](02/pathfinders.md)
-
-[Peculiar](02/peculiar.md)
-
-[Point Spread](02/point-spread.md)
-
-[Psychology & Computation Link](02/psychology-computation-link.md)
-
-[Stereotypes](02/stereotypes.md)
-
-[Stop Trying To Make Money From Distribution](02/stop-trying-to-make-money-from.md)
-
-[Stretched Thin](02/stretched-thin.md)
-
-[Syria](02/syria.md)
-
-[Technological Progress](02/technological-progress.md)
-
-[A World Without Referees](02/world-without-referees.md)
-
 [Academic Publishing Is Broken](03/academic-publishing-is-broken.md)
 
 [Big Fad?](03/big-data.md)
