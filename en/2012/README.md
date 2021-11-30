@@ -6,8 +6,6 @@
 
 [Asian Population](01/asian-population.md)
 
-[Bitchin](01/bitchin.md)
-
 [Buying into the Boom](01/buying-into-boom.md)
 
 [The CIA, patron of modern art](01/cia-patron-of-modern-art.md)
