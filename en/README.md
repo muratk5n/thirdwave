@@ -13,11 +13,10 @@ Some VF companies,
 [Plenty](https://agfundernews.com/breaking-plenty-raises-200m-series-b-largest-ever-agtech-investment.html):
 Has a 52,000 square foot vertical farming facility..
 
-[Aerofarms](https://aerofarms.com/): This New Jersey based startup has
-developed an aeroponic growing system that can grow without soil or
-sun, in any location. Aerofarms has proven to use 95% less water, 390
-times more land efficient, 30 crops per season, and even the produce
-flavor is better.
+[Aerofarms](https://aerofarms.com/): Developed an aeroponic growing
+system that can grow without soil or sun, in any location. Aerofarms
+has proven to use 95% less water, 390 times more land efficient, 30
+crops per season, and even the produce flavor is better.
 
 [Iron Ox](http://ironox.com/): The first vertical farm to be run
 (almost) entirely by robots.
