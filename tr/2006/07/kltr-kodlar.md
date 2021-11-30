@@ -203,12 +203,6 @@ bana "megalomanyak" demişlerdi.". Bu olayin ertesinde Rapaille
 Amerika'ya göç etti ve akademik araştırmalarına dayanan büyük
 şirketini orada başlattı.
 
-Not: Turkiye kultur kodlari icin
-
-[TR](../../2009/09/turkiye-kultur-kodlari.md)
-
-[Baba](../../2010/05/baba.md)
-
 [1] Belki de bu bulgu ışığında "Transformers" filminin ABD'de niye bu
 kadar popüler olduğunu anlayabiliyoruz. Bu çizgi filmin kurgusuna göre
 bazı özel arabalar "değiserek" kollu bacaklı konuşan robotlar haline
