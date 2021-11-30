@@ -216,8 +216,3 @@ Anyway - I give the show an A on execution, a C- on overall structure.
 
 ---
 
-That was me BTW 
-
-![](toffler.png)
-
----

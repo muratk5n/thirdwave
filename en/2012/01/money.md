@@ -28,12 +28,3 @@ distribute their earnings back to every citizen. Hence banking becomes
 a public service.
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/2nBPN-MKefA/0.jpg)](http://www.youtube.com/watch?v=2nBPN-MKefA)
-
-
-
-
-
-
-
-
-
