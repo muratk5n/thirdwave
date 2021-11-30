@@ -1,4 +1,0 @@
-# Yep
-
-
-![](upyours.png)
