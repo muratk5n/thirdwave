@@ -65,6 +65,16 @@ to consumers"
 
 ---
 
+They do seem sealed off from outside; which is good no need for
+pesticides
+
+---
+
+Woah greenhouses as far as the eye can see.. I dont think i saw so
+many ghs in one place
+
+---
+
 ## For Members
 
 [Link](https://thirdwave-members.herokuapp.com)
