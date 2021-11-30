@@ -75,8 +75,7 @@ tozunu alalim.
 Aferim len
 
 Arada sirada kafan calisiyor Ferit. Yanliz Newsweek Enternasyonel'de
-gecende bir resmini gordum, boyle artiz pozlar verilmis... Acaip bir
-el hareketi.. Bu ne hareket boyle.. Indir o elini! Indir!:)
+gecende bir resmini gordum, boyle artiz pozlar verilmis... Acaip birel hareketi.. Bu ne hareket boyle.. Indir o elini! Indir!:)
 
 ![](fareed_zakaria_hand.jpg)
 
@@ -146,38 +145,6 @@ Yanlis
 
 Bugun olanlar bir sekilde gecmiste nasilsa olmustur. Bu olusun "ne
 kadar guzel" oldugu hakkinda trasa gerek yoktur.
-
-Bir yabanci yazar
-
-Serbest piyasa koktencileri [..]
-
-Kelimelere dikkat
-
- Usttekiler anahtar kelimeler. Bu sozleri ne zaman duyarsaniz, bilin ki
-konusan merkantilist bir tip. Merkantilizm bir nevi ekonomik
-milliyetciliktir, bugun "ihracat temelli gelisme" denen sey (Cin'in su
-anda, Turkiye'nin ortak pazar oncesi -cogunlukla-
-yaptiklari). Merkantilizm baglaminda ithalata sinirlar konur, ve her
-zaman ihracat - ithalat dengesinde ihracatin daha fazla olmasi icin
-her turlu takla atilir, devlet "onlem" alir, doviz kuru kontrol
-edilir. Belli gelismislik seviyesindeki ulkelerde bir sureligine
-savunulabilir, fakat uzun sure devam ettirilirse, devletin yagli
-parmaklarinin girdigi her seyin bozulacagi sabitinden hareketle
-yolsuzlukta artis, haksiz rekabet sonucu verimlilikte dusus gibi bir
-suru problem yasanabilir.Adam Smith ve karsilastirmali avantaj teorisi
-merkantilizmin tam tersidir (Torkish medyasinda bu kavramlarin ikisini
-de ayni anda savunan bazi hiyarlar vardir [1]). Ingiliz tarihinde
-serbest ticaret (laissez-faire) ile imparatorlugun inise gecmesi
-arasinda bir tarihsel "cakisma" vardir ama sebep / sonuc iliskisi ne
-kadar kurulabilir, orasi suphelidir. Bugun bazi Amerikan merkantilist
-tipler Amerikanin inisini onun serbest ticaret sisteminde ama
-digerlerinin (the rest) olmamasina bagliyorlar. Biz bu analize
-katilmiyoruz, bir suru diger parametre var. Bunlar ince isler. Yeni
-ekonominin gidisati nedir? Ic / dis kavrami pek kalmadi, bu gidisata
-karsilastirmali avantajlar bile tam denemez. Bu.. baska bir
-sey. Tedarik zincirinin Weblesmesi.. Kuresellesmenin steroid almis
-hali. Uretimde akil terinin, tasarimin daha one cikmasi zaten pek cok
-tanimi gereksizlestirdi, degistirdi.
 
 Carl von Clausewitz
 
