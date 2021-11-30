@@ -173,3 +173,92 @@ oluşuyor şimdi. Şimdi her şey yeniden tarif edilecek. Ve iki önemli
 Dogru
 
 ---
+
+Bu Sefer Durum Farkli
+
+Carmen M. Reinhart ve Kenneth S. Rogoff adli ekonomistler tarafından
+yazılmış bir kitap: Bu Sefer Durum Farkli (This Time Is
+Different). Kitabın başlığı devlet yöneticileri, ekonomistler arasında
+yaygın bir hissiyatı eleştiriyor; bu hissiyat her onyılda (decade)
+olan ekonomik krizleri hep "bu sefer işler değişik" diye gören bir
+hissiyattır. Reinhart ve Rogoff'u değişik yapan, Çin ve Hindistan'ın
+tarihine kadar gidip buradaki ekonomilerin tarihinden, ekonomisinden
+veri çekip çıkarmış olmaları. Gerçek hayat sadece veri üzerinden
+anlaşılabilir (veri eksik olursa modeller eksik olur) bu sebeple
+yaptıkları önemli bir iş.  Reinhart ve Rogoff bu yeni veriye bakarak
+2008 şubprime krizinin aslında hiç te 'özel', 'değişik' olmadığını
+ortaya koyuyor. Yazarlar ayrıca krizi tahmin etmekte başarısız olan
+ekonomistleri "hep standart veri setlerine baktıkları" gözlemiyle
+eleştiriyor. Ek bazı gözlemler: Sermaye hareketlerinin arttığı
+dönemleri hep banka krizleri izliyor.  Gelişmekte olan piyasalarda
+seri şekilde borç ödeyeme / iflas (default) olaylarının görülmesi
+garip değil, normal
+
+---
+
+Finansta Turevsel Urunler
+
+Unlu yatirimci Warren Buffett'in 2002 yilindaki yazisindan
+
+Charlie [yatirim ortaklarindan biri] ve ben, turevsel urunler ve bu
+urunlerin alim satimi hakkindaki gorusumuzde hemfikiriz. Bizce bu
+urunler, hem onlari alip satanlar icin hem de ekonomik sistemin tamami
+icin bir saatli bomba gibidir.
+
+Turevlerin isleyis mantigina gore, fiyatin belirlenmesi icin temel
+alinan varligin [mesela bir sirketin] fiyatsal degeri kullanilmakta,
+ama o temel alinan varligin kendisi el degistirmedigi icin tek bir
+kurus alinip satilmadan potansiyel naylon degerler uzerinden finans
+sirketleri rekor karlar, ya da rekor kayiplar gosterebilmektedir.
+
+Turevlerin degerini saptamakta kullanilan ne oldugu belli olmayan /
+detaysiz metodlar yuzunden bu enstrumanlarin gercek degerinin ortaya
+cikmasi yillari alabilir. Turevlerin islenmesi ile ilgili hatalar cok
+olasidir; bu hatalarin bir kismi muhakkak normal insan hatasi
+olacaktir, insanlar ellerinde tuttuklari menkullarin degerini genelde
+optimistik gormeye meyillidirler. Fakat daha onemlisi / kotusu,
+turevsel yatirimlarin isleyisi sebebiyle fiyat sisirme / saklama /
+muhasebe oyunlari ile para calmayi kiskirtan / tesvik eden (incentive)
+bir yonlenlerinin oldugudur. Bu sebeple su anda patronlarin,
+borsacilarin buyuk karlar, buyuk getiriler uzerinden elde ettikleri
+kazanclarin ileride bir "dalavere" oldugu ortaya cikacaktir.
+
+Charlie ve ben buyuk bankalarin turevsel urunleri hakkindaki
+aktivitelerini anlatan koca bir dipnotu okuyup bitirdigimizde,
+anladigimiz tek sey, bankanin ne kadar risk tasidigini
+anlamadigimizdir.
+
+Bizim gorusumuze gore finansal turev urunleri bir tur "kitle imha
+silahidir".
+
+---
+
+California valisi Schwarzenegger Japonya'ya hizli tren sirketleriye
+gorusmeye gitmis. Bu sirketler kendi ic pazarlarini doyurdular, artik
+disa acilmaya bakiyorlar. Amerika, California genis memleket, arti
+petrol fiyatlarinin ne olacagi belli degil, ve surucu dikkatsizlikleri
+ile olan kazalar ortada. Trenler kuresel isinmaya karsi da iyi bir
+onlem, "yesil" sayilabilecek bir teknoloji. Her bakimdan kazancli bir
+is.
+
+---
+
+Farah Fawcett posterini gorunce aklimiza geldi; o poster 70'li
+yillarin simgesi haline gelmisti... O "sırıtış" sonra 80'lerde de
+kendini gosterdi, bu sefer Eddie Murphy'nin yuzunde. Tabii gulumseme
+yetmiyordu o zamanlarda, boyle at gibi guleceksin. Butun disleri
+gostererek. Eh 70/80'ler ne de olsa "plastik" bir cagdi, plastik
+ifadeler, plastik suratlar.Eddie Murphy deyince, en sagdaki resim
+Shrek animasyon filmindeki esek karakteridir, ve seslendirmesini
+Murphy yapiyor; Hemen ona da pat diye Murphy'nin sırıtışını
+vermisler. Alem adamlar bunlar... Holywood boyledir, hicveder, sonra
+hicvettigini hicveder, boyle devam eder.
+
+![](farah-poster.jpg)
+
+![](eddie.jpeg)
+
+![](shrek-donkey.jpeg)
+
+---
+

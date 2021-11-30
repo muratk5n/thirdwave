@@ -88,6 +88,8 @@
 
 [Uzakdoğu'da ülkücü genclik](/2010/09/uzakdoguda-ulkucu-genclik.md)
 
+[Mesaj..](/2010/10/mesaj.md)
+
 [Kılıçdaroğlu TDK'ya başvurdu](/2010/12/kilicdaroglu-tdkya-basvurdu.md)
 
 [Mesaj..](/2010/12/mesaj.md)

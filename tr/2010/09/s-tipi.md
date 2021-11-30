@@ -13,23 +13,4 @@ hacca gidenler "haci" olacaklar. Ayrica Soros kendisine "hocaefendi"
 olarak hitap edilmesini ve dini, enternasyonel tum komplolarda sadece
 kendisinden soz edilmesini istiyor.
 
-
-
-
-
-
-
-zaman:
-
-Eylül 04, 2010
-
-
-
-
-
-
-
-
-
-
 ![](soros-10emir.jpeg)
