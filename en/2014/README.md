@@ -4,8 +4,6 @@
 
 [#khanacademy](01/khanacademy.md)
 
-[#hah](01/revoluzizzle-aint-fo-televizzle-fo.md)
-
 [The Milton Friedman Stimulus](01/the-robin-hood-stimulus.md)
 
 [Apples and Oranges](02/apples-and-oranges.md)
@@ -31,8 +29,6 @@
 [How the West Chose War in Gaza](07/how-west-chose-war-in-gaza.md)
 
 [Some Myths about the Israeli-Palestinian Conflict](07/israeli-myths-hammond.md)
-
-[Phase Transition - The Return](08/phase-transition-return.md)
 
 [Vlad](08/vlad.md)
 

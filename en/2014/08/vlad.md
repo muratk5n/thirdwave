@@ -156,11 +156,6 @@ will, in a direct way; the expression of their ego was thwarted, he
 was painfully aware of they wanted but did not always get. The biggest
 advice to people with #270 is three words: control your impulses.
 
-Brother.
-
-
----
-
 [1] To his credit, Kemal also managed to pull himself out of the
 limelight most of the time later in his reign and empower his comrade
 in arms and friend Ismet as PM. Internationally he also tried to

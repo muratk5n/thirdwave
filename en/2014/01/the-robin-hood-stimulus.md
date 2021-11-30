@@ -46,15 +46,3 @@ mortality and teenage pregnancy rates, less truancy, better school
 completion rates, higher economic growth and emancipation rates.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
