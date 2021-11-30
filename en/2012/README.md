@@ -12,24 +12,6 @@
 
 [Academic Publishing Is Broken](03/academic-publishing-is-broken.md)
 
-[Big Fad?](03/big-data.md)
-
-[Getting Stuck](03/getting-stuck.md)
-
-[How Simple Ideas Lead to Scientific Discoveries](03/how-simple-ideas-lead-to-scientific.md)
-
-[If You’re Busy, You’re Doing Something Wrong](03/if-youre-busy-youre-doing-something.md)
-
-[Italy](03/italy.md)
-
-[More on the Shotgun Approach](03/more-on-shotgun-approach.md)
-
-[Mother Tongue](03/mother-tongue.md)
-
-[The Shotgun Approach](03/shotgun-approach.md)
-
-[Worm: The First Digital World War by Mark Bowden](03/worm-first-digital-world-war-by-mark.md)
-
 [Ass](04/ass.md)
 
 [Blood Type Diet](04/blood-type-diet.md)
