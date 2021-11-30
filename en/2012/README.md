@@ -1,48 +1,12 @@
 # 2012
 
-[19-Year-Old Isaac Newton’s List of Sins](01/19-year-old-isaac-newtons-list-of-sins.md)
-
 [After SOPA, PIPA](01/after-sopa-pipa.md)
 
-[Asian Population](01/asian-population.md)
-
-[Buying into the Boom](01/buying-into-boom.md)
-
-[The CIA, patron of modern art](01/cia-patron-of-modern-art.md)
-
-[The enormous profits of STM scholarly publishers](01/enormous-profits-of-stm-scholarly.md)
-
-[Evangelical Scientists Refute Gravity With New 'Intelligent Falling' Theory](01/evangelical-scientists-refute-gravity.md)
-
-[The Faculty Project](01/faculty-project.md)
-
 [Fuck SOPA](01/fuck-sopa.md)
-
-[Guardians' Turn?](01/guardians-turn.md)
-
-[Harsh Punishments for Poor Mourning](01/harsh-punishments-for-poor-mourning.md)
-
-[How Copyright Industries Con Congress](01/how-copyright-industries-con-congress.md)
-
-[If Patents Are So Great ..](01/if-patents-are-so-great.md)
-
-[INTJ Newton INTP Leibniz](01/intj-newton-intp-leibniz.md)
-
-[ISTP](01/istp.md)
-
-[Peter Lawrence: The Heart of Research is Sick](01/lawrance-heart-of-research-is-sick.md)
-
-[Let’s talk about the market economy](01/lets-talk-about-market-economy.md)
-
-[Lost Decade?](01/lost-decade.md)
-
-[Making universities obsolete](01/making-universities-obsolete.md)
 
 [Myers-Briggs Types, Shadow](01/mbti.md)
 
 [Money](01/money.md)
-
-[Newt](01/newt.md)
 
 [Old Testament Written in Aramaic?](01/old-testament-writtein-in-aramaic.md)
 
