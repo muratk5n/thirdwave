@@ -6,8 +6,6 @@
 
 [Kavramsal Düşünce Karşıtları](02/kavramsal-dusunce-karsitlari.md)
 
-[Savas ve Dusunce Ozgurlugu](02/savas-ve-dusunce-ozgurlugu.md)
-
 [Sosyalizm Hakkinda](02/sosyalizm-hakkinda.md)
 
 [Sosyalizm](02/sosyalizm.md)
@@ -16,13 +14,9 @@
 
 [Endustriyel Adam](03/endustriyel-adam.md)
 
-[Guclu Parlamento](03/guclu-parlamento.md)
-
 [Jesse Jackson](03/jesse-jackson.md)
 
 [KamuHizmetleri.com](03/kamuhizmetlericom.md)
-
-[Obama, Clinton](03/obama-clinton.md)
 
 [Asrın röportajı](07/asrin-roportaji.md)
 
@@ -47,8 +41,6 @@
 [Kim Bu Konuşmacı?](09/kim-bu-konusmaci.md)
 
 [Flaş.. Flaş..](09/olay-haber-hurriyetten.md)
-
-[Yesilcilerin Hurafeleri](09/yesilcilerin-hurafeleri.md)
 
 [Herkes sertlesti](10/herkes-sertlesti.md)
 
