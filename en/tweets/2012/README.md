@@ -5,6 +5,8 @@
 
 [Week 12](week12.md)
 
+[Week 24](week20.md)
+
 [Week 24](week24.md)
 
 [Week 28](week28.md)
