@@ -18,8 +18,6 @@
 
 [Nations and Nationalism](03/nations-and-nationalism-gellner.md)
 
-[Putting a Value to ‘Real’ in Medical Research](03/putting-value-to-real-in-medical.md)
-
 [The Megastate](03/the-megastate.md)
 
 [The ‘Busy’ Trap](04/the-busy-trap.md)
