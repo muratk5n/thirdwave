@@ -78,10 +78,6 @@ speech policies"
 
 ---
 
-The electric grid loses 60% of the energy it carries FYI
-
----
-
 Electrification falls short at nearly everything.. it cannot form the
 basis of a green infrastructure.
 

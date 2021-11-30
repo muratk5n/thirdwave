@@ -694,19 +694,6 @@ Chris Joss - Optical \#music
 
 ---
 
-"An example is the comparison between an electric vehicle (EV) and a
-fossil fuel powered car. The EV has an overall efficiency of about 60%
-while the fuel powered car is about 20% (or less) efficient. When one
-considers the total path from primary energy, the efficiency of the
-electric car is 60% x 40% (grid efficiency) for a total of 24% while
-the fuel powered car has an efficiency of about 20%. When the bigger
-picture is considered, the two forms of transportation are not all
-that different"
-
-[Link](https://energycentral.com/c/ec/grid-efficiency-opportunity-reduce-emissions)
-
----
-
 An energy corridor will run from Africa to the EU rather than Russia
 to EU? It'll get Africa money, richer continent will not migrate, EU
 gets its energy, dependency on RU reduced.

@@ -437,7 +437,7 @@ Greece and France ink $3 billion contract for Rafale fighter jets"
 
 I be doing the Duck Walk like
 
-<img width="340" src="https://giffiles.alphacoders.com/356/35639.gif"/>
+<img width="340" src="https://drive.google.com/uc?export=view&id=1I8uLDbvc0FlCGCjgRhz3yEfx1HbfJpQu"/>
 
 ---
 

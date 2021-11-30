@@ -28,24 +28,6 @@ world population)...
 
 Grid and BEV
 
-The EV has an overall efficiency of about 60%. Electric grid [9]
-efficiency is 40%, 60% x 40% gives a total of 24%.
-
-Assuming same electricity comes from panels to both processes,
-electrolysis is 80%, pipeline transfer is 97%, for FC car efficiency
-34% efficient (same as gasoline car). For BE let's say they store
-electricity 100% on some battery, lose 60% while transferring, and 40%
-in the car,
-
-```python
-print (0.80*0.97*0.34) # h2
-print (1.00*0.40*0.60) # be
-```
-
-```text
-0.26384
-0.24
-```
 
 Pipelines can transmit 10 times the energy at one-eighth the costs
 associated with electricity transmission lines [8]. 
