@@ -57,9 +57,8 @@ ele gecirip yanlis yonlere sevketmis gibi bir havada sunulmus.
 Halbuki, illa bir suclu gerekiyorsa, tipik Osmanli despotlugundan
 baska bir yere bakmaya gerek yok. Bu kafaya gore her sivrilen,
 insiyatif alan herkes merkezi yagmalama sistemi icin potansiyel bir
-tehdittir. Ayrica Roma'da bilim yoktur, olamaz; bu baglamda da
-3. Roma'nin icraati son derece anlasilir, kendi ic mantigina uygun bir
-eylemdir.
+tehdittir. Ayrica Roma'da bilim yoktur, olamaz; bu baglamda da 3. Roma'nin
+icraati son derece anlasilir, kendi ic mantigina uygun bir eylemdir.
 
 [1] Kaldi ki seyhulislam isin icinde olsa bile o da merkezi sistemin
 parcasi, dini "yonlendirmekle" gorevli, bununla halkin inancinin ne
