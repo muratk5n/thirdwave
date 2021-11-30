@@ -1,6 +1,5 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-
 Barbados becomes a republic and removes Queen Elizabeth II as head of state
 
 <img width="340" src="https://pbs.twimg.com/semantic_core_img/1465692754063757330/fQblwGvY?format=jpg&name=small"/>
