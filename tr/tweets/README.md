@@ -12,6 +12,3 @@
 [2012](/thirdwave/tr/tweets/2012/)
 
 [2013](/thirdwave/tr/tweets/2013/)
-
-
-
