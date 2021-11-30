@@ -61,8 +61,6 @@ Clinton'in arkasinda. Iste hesapli risk budur - profilini kaybetmis
 Jackson tekrar yukari firlamak icin Obama'yi desteklemis, ve ruzgarin
 kendi tarafina esmesini beklemeye baslamistir.
 
----
-
 [1] Clinton'in bu sozde "zenciligi"ne karsi Obama'nin cevabi ise
 ilginc olmustur. Hillary ile bir tartisma programinda spiker
 tarafindan konu ortaya getirilince soyle demistir: "Vallahi Bill'in
