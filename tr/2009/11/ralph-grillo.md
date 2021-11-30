@@ -1,25 +1,114 @@
 # Iste Osmanli
 
-Grillo'nun Pluralism and the Politics of Difference kitabindan derlenmistir
+Grillo'nun Pluralism and the Politics of Difference kitabindan
+derlenmistir
 
-Eger 'yonetimden' stabil bir idari sisteminin oldugu kastediliyorsa, 14. yuzyilin sonunda tum Balkanlarin Osmanli yonetiminde oldugunu iddia etmek oldukca zordur. Bu periyotta Osmanli hegemonyasi bir 'vassallik' sistemi uzerinden egzersiz ediliyordu, ki sistemin 15. yuzyilin basinda kendini fazla genis satha yaydigi anlasildi, I. Beyazit'in Ankara Savasi'nda yenilmesiyle Avrupa ve Anadolu'daki vassal ulkeleri bagimsizliklarini tekrar ilan ettiler [sf 77].
+Eğer 'yönetimden' stabil bir idari sisteminin olduğu kastediliyorsa,
+14. yüzyılın sonunda tüm Balkanların Osmanlı yönetiminde olduğunu
+iddia etmek oldukca zordur. Bu periyotta Osmanlı hegemonyası bir
+'vassallık' sistemı üzerinden egzersiz ediliyordu, ki sistemin
+15. yüzyılın başında kendini fazla geniş satha yaydığı anlaşıldı,
+İ. Beyazıt'ın Ankara Savaşı'nda yenilmesiyle Avrupa ve Anadolu'daki
+vassal ülkeleri bağımsızlıklarını tekrar ilan ettiler [sf 77].
 
-Pek cok acidan Osmanli Imparatorlugu tipik bir patrimonyal devletidir. Weber Osmanli'yi bahsettigimiz kategoriye ornek olarak secmisti, ve zaten devletin kendini tarif edis sekli, yaptigi vurgu, sultanin mutlak pozisyonunu ve sarayin varligini sosyal iliskiler icin ornek gosteren bir haldedir. Sultan yonettigi halkin "cobanidir", ve yonettikleri onun "sürüsüdür". Osmanli tebasina verilen isim "reaya"nin Arapca dilindeki orijinal anlami "otlaktaki koyun sürüsü" kelimeleridir. Halk, ayrica daha genis anlamda da sultanin kolesidir (reayanin ve topraklarin sultana ait olmasi temel bir Osmanli kanunudur), ve reaya bu toprak uzerinde zenginlik uretmeye "mecbur" durumdadir. Bu zenginlik devleti ve onun yoneticisini idame etmek icin kullanilacaktir. Boylece, bir "adalet cemberi" olusturulur (o zamanki ismiyle), bu cembere gore, yoneticiler halka "adalet" servisi saglar [..] ve karsilik olarak, yonetilenler devletin hayatta kalmasi icin gerekli zenginligi uretirler [sf 79].
+Pek çok açıdan Osmanlı İmparatorluğu tipik bir patrimonyal
+devletidir. Weber Osmanlı'yı bahsettiğimiz kategoriye örnek olarak
+seçmişti, ve zaten devletin kendini tarif ediş şekli, yaptığı vurgu,
+sultanın mutlak pozisyonunu ve sarayın varlığını sosyal ilişkiler için
+örnek gösteren bir haldedir. Sultan yönettiği halkın "çobanıdır", ve
+yönettikleri onun "sürüsüdür". Osmanlı tebasına verilen isim
+"reaya"nın Arapça dilindeki orijinal anlamı "otlaktaki koyun sürüsü"
+kelimeleridir. Halk, ayrıca daha geniş anlamda da sultanın kölesidir
+(reayanin ve toprakların sultana ait olması temel bir Osmanlı
+kanunudur), ve reaya bu toprak üzerinde zenginlik üretmeye "mecbur"
+durumdadır. Bu zenginlik devleti ve onun yöneticisini idame etmek için
+kullanılacaktır. Böylece, bir "adalet çemberi" oluşturulur (o zamanki
+ismiyle), bu çembere göre, yöneticiler halka "adalet" servisi sağlar
+[..] ve karşılık olarak, yönetilenler devletin hayatta kalması için
+gerekli zenginliği üretirler [sf 79].
 
-Osmanli uygulamalari, cogunlukla toplumun temelini olusturdugunu ettigini iddia ettigi prensipleri kendisi cigner durumdaydi. Seriata gore musluman ulkeler arasinda savas yasakti fakat Osmanlilar bariz sekilde komsu muslumanlarin topraklarini isgal edip ele gecirmistir, hatta bu eylemleri fetwalar uzerinden legalize etmeye de ugrasmistir. Seriat, ayni sekilde, kardes muslumanlarin kolelestirilmemesini ve gayri-muslumlerin musluman yonetici altinda haklarini garanti ediyordu [..] fakat Osmanlilar devsirme sistemi uzerinden yonetimleri altindaki hristiyan halklari rutin olarak kolelik sistemine sokmaktaydi. [..] Bu uygulama 17. yuzyila kadar devam etti [sf. 82].
+Osmanlı uygulamaları, çoğunlukla toplumun temelini oluşturduğunu
+ettiğini iddia ettiği prensipleri kendisi çiğner durumdaydı. Şeriata
+göre müslüman ülkeler arasında savaş yasaktı fakat Osmanlılar bariz
+şekilde komşu müslümanların topraklarını işgal edip ele geçirmiştir,
+hatta bu eylemleri fetwalar üzerinden legalize etmeye de
+uğraşmıştır. Şeriat, aynı şekilde, kardeş müslümanların
+köleleştirilmemesini ve gayrı-müslümlerin müslüman yönetici altında
+haklarını garanti ediyordu [..] fakat Osmanlılar devşirme sistemi
+üzerinden yönetimleri altındaki hristiyan halkları rutin olarak
+kölelik sistemine sokmaktaydı. [..] Bu uygulama 17. yüzyıla kadar
+devam etti [sf. 82].
 
-14. ve 15. yuzyilin ilk bolumlerinde sultan basvezirlerini zamanin onde gelen musluman ailelerinden secmistir, mesela musluman elit icinde anahtar bir konumda olan Candarli ailesinden [2] 1359-1499 arasinda toplam alti kisi vezirlik gorevi yapmistir. Istanbul'un fethinden sonra isler degisti: bu pozisyona kapikulu seviyesinden kisiler getirilmeye baslandi [sf 84].
+14'inci ve 15'inci yüzyılın ilk bölümlerinde sultan başvezirlerini
+zamanın önde gelen müslüman ailelerinden seçmiştir, mesela müslüman
+elit içinde anahtar bir konumda olan Çandarlı ailesinden [2] 1359-1499
+arasında toplam altı kişi vezirlik görevi yapmıştır. İstanbul'un
+fethinden sonra işler değişti: bu pozisyona kapıkulu seviyesinden
+kişiler getirilmeye başlandı [sf 84].
 
-Millet sisteminin yaptigi, ya da yapmaya calistigi, mevcut pek cok etnik / dini gruplari konsolide edip, uc veya dort genis kategoriye indirgeyerek, bir politik kontrol ve eylem sistemi yaratmakti. Bu toparlamanin kategorilenen gruplarin kendi iclerinde aslinda varolan farkliliklarini degistirmekte etkisi neredeyse sifir oldu. Mesela Ermeni milleti kategorisine sapkinlarin (heretics) dahil edilmis olmasi bu iki grup arasinda onceden mevcut, aktif kimlik hissiyatlarini hic degistirmedi. Ayni sekilde Ortadoksluk altinda Yunan ve Slavik rituellerin birlesimi Ortadoks kitle icindeki farkliligi azaltamamistir.
+Millet sisteminin yaptığı, ya da yapmaya çalıştığı, mevcut pek çok
+etnik / dini grupları konsolide edip, üç veya dört geniş kategoriye
+indirgeyerek, bir politik kontrol ve eylem sistemi yaratmaktı. Bu
+toparlamanın kategorilenen grupların kendi içlerinde aslında varolan
+farklılıklarını değiştirmekte etkisi neredeyse sıfır oldu. Mesela
+Ermeni milleti kategorisine sapkınların (heretics) dahil edilmiş
+olması bu iki grup arasında önceden mevcut, aktif kimlik
+hissiyatlarını hiç değiştirmedi. Aynı şekilde Ortadoksluk altında
+Yunan ve Slavik ritüellerin birleşimi Ortadoks kitle içindeki
+farklılığı azaltamamıştır.
 
-Muslum ve gayri-muslumler, yonetilenler olarak, Osmanli yonetiminin esitsizligini paylasiyorlardi, fakat bazilari resmi olarak bazilarindan daha az 'esit' idi. [..] Gayri-muslumler onlari inananlardan ayiran degisik giysiler giymek zorundaydi, ayrica ata binmeleri ve silah tasimalari yasakti. Ek olarak, kiliselerinin camiye cevirilme ihtimali olmasina (ve bunun pek cok kez olmasina) ragmen, kendilerinin yeni kilise yapmasi yasakti. Tek yapabildikleri curumekte olan mevcut kiliseleri onarabilmekten ibaretti.
+Müslüm ve gayrı-müslümler, yönetilenler olarak, Osmanlı yönetiminin
+eşitsizliğini paylaşıyorlardı, fakat bazıları resmi olarak
+bazılarından daha az 'eşit' idi. [..] Gayri-müslümler onları
+inananlardan ayıran değişik giysiler giymek zorundaydı, ayrıca ata
+binmeleri ve silah taşımaları yasaktı. Ek olarak, kıliselerinin camiye
+çevirilme ihtimali olmasına (ve bunun pek çok kez olmasına) rağmen,
+kendilerinin yeni kılise yapması yasaktı. Tek yapabildikleri çürümekte
+olan mevcut kıliseleri onarabilmekten ibaretti.
 
-Ingrao'ya gore Osmanli sultanlari arketipik oriyental despotlardi. Teoride hersey ve herkes hakkinda mutlak gucleri oldugunu iddia ediyorlar, ama pratikte imparatorlugun nasil isledigi hakkinda ilgi gostermiyorlardi [3], onlari tek ilgilendiren yonettikleri yerlerin onlara kesintisiz gelir ve asker saglamalariydi. Yonetim "normatif" olmaktan ziyade "cikarimci (extractive)" bir yapidaydi. [..]
+Ingrao'ya göre Osmanlı sultanları arketipik oriyental
+despotlardı. Teoride herşey ve herkes hakkında mutlak güçleri olduğunu
+iddia ediyorlar, ama pratikte imparatorluğun nasıl işlediği hakkında
+ilgi göstermiyorlardı [3], onları tek ilgilendiren yönettikleri
+yerlerin onlara kesintisiz gelir ve asker sağlamalarıydı. Yönetim
+"normatif" olmaktan ziyade "çıkarımcı (extractive)" bir
+yapıdaydı. [..]
 
-Bu ilgisizlik, Ingrao'ya gore iki seye sebep oldu: her yere yayilan ve 20. yuzyila kadar etkisini sureduren bir geri kalmislik, yolsuzluk (rusvet) ve dilsel, kulturel obeklesme / sekteryenlik. [Fakat] I. Dunya Savasi sonunda ulus-devlet sisteminin, islemedigi tamamen ispatlanmis (discredited) Osmanli modelinin yerine gecmesindeki asil sebep, cok etnikli bir yapida insanlarin bir sekilde beraber yasiyabilmeleri degil, artik o modelin diger, herkesce bilinen diger ogesi, kangrenlesmis / bozulmus / islemez (patently disfunctional) Turk politik kurumlariyla ozdeslestirilmis olmasiydi [sf 96].
+Bu ilgisizlik, Ingrao'ya göre iki şeye sebep oldu: her yere yayılan ve
+20. yüzyıla kadar etkisini süredüren bir geri kalmışlık, yolsuzluk
+(rüşvet) ve dilşel, kültürel öbekleşme / sekteryenlik. [Fakat]
+I. Dünya Savaşı sonunda ulus-devlet sisteminin, işlemediği tamamen
+ispatlanmış (discredited) Osmanlı modelinin yerine geçmesindeki asıl
+sebep, çok etnikli bir yapıda insanların bir şekilde beraber
+yaşıyabilmeleri değil, artık o modelin diğer, herkesçe bilinen diğer
+ögesi, kangrenleşmiş / bozulmuş / işlemez (patently disfunctional)
+Türk politik kurumlarıyla özdeşleştirilmiş olmasıydı [sf 96].
 
-[1] Yolsuzlugun ve sistemik curumuslugun bir gostergesi, yangin sondurmekle gorevli yenicerilerdir. Osmanli sisteminde eger yangin sonrasi ev sahibinin kurtarilmis mali varsa, yeniceriler o malda hak talebinde bulunabiliyorlardi. Bu kural yangini yeniceriler icin bir gelir kaynagi haline getirmekteydi; bu sebeple yenicerilerin bilerek yangin cikardigi da oluyordu. Sistemin diger yolsuzluk kaynagi 'adalet dagitan' kadilardir. Kadilik sisteminin urettigi yolsuzluk Anadolu'da halk turkulerine konu olacak kadar yaygin ve sistemiktir.
+[1] Yolsuzluğun ve sistemik çürümüşlüğün bir göstergesi, yangın
+söndürmekle görevli yeniçerilerdir. Osmanlı sisteminde eğer yangın
+sonrası ev sahibinin kurtarılmış mali varsa, yeniçeriler o malda hak
+talebinde bulunabiliyorlardı. Bu kural yangını yeniçeriler için bir
+gelir kaynağı haline getirmekteydi; bu sebeple yeniçerilerin bilerek
+yangın çıkardığı da oluyordu. Sistemin diğer yolsuzluk kaynağı 'adalet
+dağıtan' kadılardır. Kadılık sisteminin ürettiği yolsuzluk Anadolu'da
+halk türkülerine konu olacak kadar yaygın ve sistemiktir.
 
-[2] Osmanli, kontrolu surekli daha fazla saray merkezli yapmaya ugrasmistir. Fatih Sultan Mehmet'in icraati bunun tipik bir ornegidir. Fatih yonetimde danistigi, beraber oldugu musluman ailelerden hic hazzetmiyordu, bu aileler icinde en cekemedigi Candarli ailesi, ve bu ailedeki Candarli Halil Pasa'ydi. Fatih, Istanbul'un fethi sonrasi Candarli Halil hakkinda "aslinda Istanbul'un fethedilmesini istemedigi" ve "Bizans'tan rusvet aldigi" seklinde dedikodular yaydi ve Candarli Halil'i oldurttu.
+[2] Osmanlı, kontrolü sürekli daha fazla saray merkezli yapmaya
+uğraşmıştır. Fatih Sultan Mehmet'in icraatı bunun tipik bir
+örneğidir. Fatih yönetimde danıştığı, beraber olduğu müslüman
+ailelerden hiç hazzetmiyordu, bu aileler içinde en çekemediği Çandarlı
+ailesi, ve bu ailedeki Çandarlı Halil Paşa'ydı. Fatih, İstanbul'un
+fethi sonrası Çandarlı Halil hakkında "aslında İstanbul'un
+fethedilmesini istemediği" ve "Bizans'tan rüşvet aldığı" şeklinde
+dedikodular yaydı ve Çandarlı Halil'i oldurttu.
 
-[3] Bu ilgisizligin tipik orneklerinden biri 4. Mehmet'tir. 24 Temmuz 1661'de Istanbul'da buyuk bir yangin cikti. Yangin uc gun uc gece surdu, 80200 ev, 300 saray ve konak, 40 hamam, carsilarda 10 bine yakin dukkan, neredeyse tum firinlar yandi. Sehrin gunluk hayati felce ugradi. 4. Mehmet bunlari hic umursamadan Edirne'de avlanmaya gitmistir.
+[3] Bu ilgisizligin tipik orneklerinden biri 4. Mehmet'tir. 24 Temmuz
+1661'de Istanbul'da buyuk bir yangin cikti. Yangin uc gun uc gece
+surdu, 80200 ev, 300 saray ve konak, 40 hamam, carsilarda 10 bine
+yakin dukkan, neredeyse tum firinlar yandi. Sehrin gunluk hayati felce
+ugradi. 4. Mehmet bunlari hic umursamadan Edirne'de avlanmaya
+gitmistir.
+
+
+
+
