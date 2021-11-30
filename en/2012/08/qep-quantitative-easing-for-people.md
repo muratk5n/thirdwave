@@ -33,20 +33,3 @@ distributed in this way, these sums would be easily large enough to
 transform economic conditions, whether the people receiving these 
 windfalls decided to spend them on extra consumption or save them and 
 reduce debts.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

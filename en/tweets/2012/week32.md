@@ -127,3 +127,40 @@ their part [because FB has a competing internal product].. As someone
 that wants to build quality social software, software that doesn’t
 force users to re-create their friends list, or not use oAuth, etc., I
 have to endure huge platform risk"
+
+---
+
+"Platform Ecosystem Wars: Rome Is Burning
+
+It is either a good week to be having a CrunchUp focusing on the
+faltering Facebook ecosystem or it is a terrible week.  Either way it
+is a compelling and interesting week, and whether it is good or bad
+depends on who you are and what your role is in the ecosystem.
+
+Following the departure of Ethan Beard (director of platform
+partnerships); Katie Mitic (platform marketing director) and Jonathan
+Matus (mobile platform marketing manager) this week; and the
+revelations from an embittered and chastened Dalton Caldwell, it seems
+to me that the tide is turning against Facebook as a reliable partner
+for developers to depend upon"
+
+---
+
+Post office nears historic default on $5B payment
+
+The U.S. Postal Service is bracing for a first-ever default on
+billions in payments due to the Treasury, adding to widening
+uncertainty about the mail agency's solvency as first-class letters
+plummet and Congress deadlocks on ways to stem the red ink.
+
+With cash running perilously low, two legally required payments for
+future postal retirees' health benefits - $5.5 billion due Wednesday,
+and another $5.6 billion due in September - will be left unpaid, the
+mail agency said Monday. Postal officials said they also are studying
+whether they may need to delay other obligations. In the coming
+months, a $1.5 billion payment is due to the Labor Department for
+workers compensation, which for now it expects to make, as well as
+millions in interest payments to the Treasury.
+
+---
+

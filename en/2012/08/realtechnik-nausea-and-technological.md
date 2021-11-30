@@ -12,7 +12,6 @@ Indians alike were on the wrong side of the barbed wire fence. Quite a
 record for a technology that had little deep science or engineering
 behind it.
 
-
 Barbed wire is an example of a proximal-cause technology that
 eventually disturbed multiple human balances of powers, starting with
 the much-mythologized cowboys-versus-ranchers balance. When things

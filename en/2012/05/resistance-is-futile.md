@@ -95,8 +95,6 @@ death this generation of writers started getting their way. Hence we
 had the Borg, a great tool TNG used to criticize itself while still
 maintaining its feel-good attitude.
 
----
-
 [1] Of recent creations, it seems Avengers was able to pull off the
 rockstar concept, but 1) it needed lots of them 2) we have one tech
 augmented, one chemically altered, and a beast in the mix. 3) the big
