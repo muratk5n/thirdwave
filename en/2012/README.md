@@ -8,8 +8,6 @@
 
 [Money](01/money.md)
 
-[Old Testament Written in Aramaic?](01/old-testament-writtein-in-aramaic.md)
-
 [The Rise of the New Groupthink](01/rise-of-new-groupthink.md)
 
 [Sonderweg](01/sonderweg.md)
