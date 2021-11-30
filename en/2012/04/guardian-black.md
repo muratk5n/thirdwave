@@ -1,3 +1,0 @@
-# Guardian Black
-
-In US TV shows, almost all male black people are MBTI Guardian types. Foreman on House MD, Sam on NCIS LA, Clinton Jones on White Collar, going back, T'ealc on Stargate SG-1. I guess TV land needs black people who "fit in", and the easiest way to do that is to find an SJ actor who plays an SJ character on screen. Plus the shows I talked about are known "white shows" which only needs a token black man. Hence indirectly we have a situation where the main actors already shine, do interesting stuff, as a result the brother on the backseat needs to be little boring. Enter Guardians. They are dependable, can act as the "good friend" which is the stereotypical role played by most black men on TV for a long time.

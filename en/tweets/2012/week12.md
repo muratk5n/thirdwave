@@ -150,3 +150,106 @@ clearly inappropriate and ineffective"
 
 ---
 
+Ass
+
+In hierarchical, military environments which are also heavily
+dominated by men, there is lots of joking around the word "ass". I
+guess this is funny because the word is so .. "anti", to that
+environment. If someone makes a mistake, he'll say "it will be my
+ass", or someone steps out of line another can tell him "I am gonna
+have your ass". The word can be used as in ass chewing, ass whopping,
+or ass kissing. If there are enemy soldiers overwhelming us, I can say
+"the enemy is crawling up my ass". I remembered this while watching a
+Stargate Atlantis episode (scifi show), the characters' minds are
+scanned by some alien race, then they wake up, and someone goes "we
+were mind probed". The soldier character in the show thinks about that
+little while, then says "I hope that's the only thing they
+probed". This stuff makes me laugh to no end.
+
+---
+
+Changing Education Paradigms
+
+Interesting video, makes some nice points. Some disagreements, there
+is nothing wrong with enlightement ideals, or its view of the mind,
+and MBTI type system makes clear not everyone will be interested in
+theoretical matters. But I am in 100% in aggreement with the other
+points. Industrial mindset is the enemy. I also truly abhor the way
+Americans make their children pop pills for simplest ailments.
+
+https://youtu.be/zDZFcDGpL4U
+
+---
+
+China's deadly wake-up call
+
+The recent collision of two high-speed trains in China that left at 
+least 39 people dead is quickly becoming a symbol for many Chinese of 
+all that's wrong with China's government and economy [..] If you want to understand the tensions in the Chinese system of 
+government and development that might put a knot in straight-line growth
+ projections for China's future, spend a minute studying the way this 
+event is rippling across China.
+
+"China the innovator" took a big hit [..] The rejoinder from Japanese
+and German makers of high-speed trains was that it looked to them as
+if China hadn't achieved higher speeds by innovating but by cutting
+corners on safety. That argument looks a lot stronger after the wreck,
+when so many pundits are comparing the zero passenger-death record in
+the 47-year history of Japan's high-speed Shinkansen system to the
+record of China's 4-year-old high-speed rail system.
+
+---
+
+Economic recovery leaving middle class behind
+
+Chrystia Freeland article
+
+Economics professors Nir Jaimovich of Duke University and Henry Siu of the University of British Columbia take as their starting point one of the most important changes in Western developed societies. That shift is what economists have called the “polarization” of the job market. Maarten Goos and Alan Manning, extending the research to Britain, have more colourfully dubbed it the dual rise of “lousy and lovely” jobs.
+
+Their point is that, thanks to technology, more and more “routine” tasks can be done by machines. The most familiar example is the increasing automation of manufacturing. But machines can now do “routine” white-collar jobs, too – such as work that used to be performed by travel agents and much of the legal “discovery” that was done by relatively well-paid associates with expensive law degrees [..].
+
+Job polarization is happening throughout the Western developed world. It accounts for many of the social and political strains we have experienced over the past three decades, particularly the increasing divide between the people at the top and at the bottom of the economic heap, and the disappearance of those in the middle who were once both the compass and the backbone of our societies.
+
+What’s new about the Jaimovich-Siu work is that they have found that job polarization isn’t a slow, evolutionary process. It happens in short, sharp bursts – economic downturns. The researchers found that in the United States since the mid-1980s, 92 per cent of job loss in middle-skill occupations has happened within 12 months of a recession.
+
+“We think of recessions as temporary, but they lead to these permanent changes,” Prof. Siu told me. “The big puzzle about business cycles is, Why have we had these jobless recoveries over the past three recessions? These jobless recoveries are because you have these middle-skilled jobs that are being wiped off the table.”
+
+---
+
+German Maker of Robots Gains as Chinese Wages Rise
+
+Kuka, the largest European maker of industrial robots, is creating a regional hub in China to develop sales in a country where rising wages are lifting demand for automated factory gear [..] “China alone bought 15,000 robots last year, and we expect that number to rise to about 20,000 this year,” Mr. Reuter said. The company’s target of an operating margin of 10 percent at the robot unit “is within reach,” after having reached 9 percent in the fourth quarter, he said [..]
+
+Rising wages, a push for quality and demands for faster production are prompting the Chinese manufacturing industry to buy more robots, helping European companies like Kuka and ABB turn lagging businesses into profit centers. Kuka’s robots have become twice as profitable as the company’s larger systems unit; ABB turned its robot unit around in 2010 [..]
+
+“Salary inflation is the driving force behind robot demand in China,” Michel Demare, the ABB chief financial officer, said in February.
+
+
+---
+
+Jobs is marked as ISTP by CelebrityTypes.com. Some quotes are shared
+here. Jobs does not give much credit to thinking, a typical STP
+trait. He was for utility, and NTs, SJs are utilitarian as well, but
+it appears he was much more focused on impact, and living in the now
+the way an Artisan would be. He is adverserial -- in a way an INTJ
+could be as well.. but his seemingly enjoying it as a sport, whereas
+an NTJ would have seen it as unneeded annoyance, also can make a case
+for his ISTP'ness. In addition for an NT, gathering knowledge is
+almost a life quest, and Jobs apparently had no interest in this
+regard, at least for pure theoretical / application purposes. He was
+about the object, about the now, not about the abstract.
+
+---
+
+
+The eye-opener is "$499 first-generation iPad included only about $33
+of manufacturing labour" -- another indicator of why Chinese model is
+not sustainable. As avid readers of the Third Wave, the Chinese
+themselves surely know this, and sooner or later, they too will have
+to terms with the necessity of transititioning to a more knowledge
+intensive and service related economy.
+
+
+[[-]](../../2012/04/the-third-industrial-revolution.md)
+
+---

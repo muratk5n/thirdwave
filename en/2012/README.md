@@ -12,39 +12,9 @@
 
 [Academic Publishing Is Broken](03/academic-publishing-is-broken.md)
 
-[Ass](04/ass.md)
-
 [Blood Type Diet](04/blood-type-diet.md)
 
-[Changing Education Paradigms](04/changing-education-paradigms.md)
-
-[China's deadly wake-up call](04/chinas-deadly-wake-up-call.md)
-
-[Economic recovery leaving middle class behind](04/economic-recovery-leaving-middle-class.md)
-
-[German Maker of Robots Gains as Chinese Wages Rise](04/german-maker-of-robots-gains-as-chinese.md)
-
-[Guardian Black](04/guardian-black.md)
-
-[Idea People, Results People](04/idea-people-results-people.md)
-
-[Interesting](04/interesting.md)
-
-[Jobs](04/jobs.md)
-
-[The third industrial revolution](04/link-first-industrial-revolution-began.md)
-
-[More than one letter](04/more-than-one-letter.md)
-
-[New bubble grows, with Fed's help](04/new-bubble-grows-with-feds-help.md)
-
-[#nice](04/nice.md)
-
-[Radical Mix](04/radical-mix.md)
-
-[Rashness and Te](04/rashness-and-te.md)
-
-[#slam](04/slam.md)
+[The Third Industrial Revolution](04/the-third-industrial-revolution.md)
 
 [Dinosaurs Were Also Big](05/dinosaurs-were-also-big.md)
 
