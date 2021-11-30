@@ -4,4 +4,6 @@
 
 [Hafta 8](week8.md)
 
+[Hafta 36](week36.md)
+
 
