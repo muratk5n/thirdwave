@@ -2,8 +2,6 @@
 
 [Avrupa'nın Kültürel Fay Hattı](../../2009/10/avrupanin-kulturel-fay-hatti.md)
 
-[Asterix](../../2009/10/asterix.md)
-
 [Roma](../../2009/10/roma.md)
 
 [İşte Osmanlı](../../2009/11/ralph-grillo.md)
