@@ -8,23 +8,7 @@
 
 [Money](01/money.md)
 
-[The Rise of the New Groupthink](01/rise-of-new-groupthink.md)
-
 [Sonderweg](01/sonderweg.md)
-
-[Stop Tying Pay to Performance](01/stop-tying-pay-to-performance.md)
-
-[Teaching yourself mathematics](01/teaching-yourself-mathematics.md)
-
-[Trills](01/trills.md)
-
-[Under Obama, the Freedom of Information Act is Still in Shackles](01/under-obama-freedom-of-information-act.md)
-
-[University 2.0](01/university-20.md)
-
-[Why Gold?](01/why-gold.md)
-
-[Yep](01/yep.md)
 
 [Big Brother Zynga](02/big-brother-zynga.md)
 
