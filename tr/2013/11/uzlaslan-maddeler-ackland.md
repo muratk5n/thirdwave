@@ -10,23 +10,3 @@
 
 Uzlaşılan maddeler hakkında fikri sorulan MHP başkanı Devlet Bahçeli "benim gafam garıştı" yorumunu yaptı.
 
-
-
-
-
-
-
-
-zaman:
-
-Kasım 27, 2013
-
-
-
-
-
-
-
-
-
-

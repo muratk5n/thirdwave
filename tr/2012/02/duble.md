@@ -16,6 +16,4 @@ Kazım konuk olarak çağırılıyor. Davet edilen bir diğer kişilik eski BM
 genel sekreteri Boutros Boutros Gali "isminin bu kutsal ana yakışacak
 kadar pür olmadığı" gerekçesiyle daveti geri çevirdi.
 
-
-
 ![](duble2.jpeg)

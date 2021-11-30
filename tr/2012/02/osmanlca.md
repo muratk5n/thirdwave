@@ -28,7 +28,10 @@ yüzyıllar boyunca Osmanlı İmparatorluğu'nda aşağı bir konumda
 görülmüştür, dünyevi, idari istekleri olanlar daha prestijli görülen
 Osmanlıca'yı öğrenmek zorundaydı.
 
----
-
-[1] Bu topraklara gelen giden yöneticilerde sürekli bir "saray dili" yaratma çabaları görülüyor nedense. Osmanlıca sonrası Türkçe'ye geçilmiş fakat bu sefer "arı Türkçe" çabası ile o da aşırı çetrefil hale getirilmiş, ve (yine) halktan uzaklaşılmış. İsmet İnönü o karmaşık evre için "kimse kimseyi anlamıyor" yorumunu anı defterine not düşecektir.
+[1] Bu topraklara gelen giden yöneticilerde sürekli bir "saray dili"
+yaratma çabaları görülüyor nedense. Osmanlıca sonrası Türkçe'ye
+geçilmiş fakat bu sefer "arı Türkçe" çabası ile o da aşırı çetrefil
+hale getirilmiş, ve (yine) halktan uzaklaşılmış. İsmet İnönü o
+karmaşık evre için "kimse kimseyi anlamıyor" yorumunu anı defterine
+not düşecektir.
 

@@ -1,5 +1,7 @@
 # Ulus-Devletler ve Milliyetçilik 
 
+Ernest Gellner
+
 Milliyetçiliğin kökenlerini özel bir tür işbölümünde aramak gerekir
 [..Modern] ekonomide sürekli artan üretkenlik, o ekonomideki
 işbölümünün çetrefil olmasından öte, onun hızlı bir şekilde değişken
@@ -293,10 +295,4 @@ oturduğu bir oyun.
 
 [2] Entropi karmaşıklığın, dağınıklığın ölçüsüdür. Evrenin entropisi
 sürekli artar.
-
-
-
-
-
-
 

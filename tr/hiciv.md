@@ -142,6 +142,8 @@
 
 [Fotoğraflar](/2011/12/supheli-sahslar.md)
 
+[Duble](/2012/02/duble.md)
+
 [Galaksi çapında bir röportaj - 1](/2012/04/galaksinin-en-onemli-roportaj.md)
 
 [Galaksi çapında bir röportaj - 2](/2012/07/galaksi-capinda-bir-roportaj-2.md)
@@ -155,6 +157,8 @@
 [Mesaj..](/2012/12/mesaj.md)
 
 [Mesaj..](/2013/08/mesaj.md)
+
+[CHP'nin uluslarası açılımları](/2013/01/chpnin-uluslaras-aclmlar.md)
 
 [Obama köşe yazarı oldu](/2013/08/obama-kose-yazar-oldu.md)
 
