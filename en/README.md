@@ -1,75 +1,47 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-Barbados becomes a republic and removes Queen Elizabeth II as head of state
-
-<img width="340" src="https://pbs.twimg.com/semantic_core_img/1465692754063757330/fQblwGvY?format=jpg&name=small"/>
 
 👏 👏 👏 👏 👏 👏 
 
----
-
-Some VF companies,
-
-[Plenty](https://agfundernews.com/breaking-plenty-raises-200m-series-b-largest-ever-agtech-investment.html):
-Has a 52,000 square foot vertical farming facility..
-
-[Aerofarms](https://aerofarms.com/): Developed an aeroponic growing
-system that can grow without soil or sun, in any location. Aerofarms
-has proven to use 95% less water, 390 times more land efficient, 30
-crops per season, and even the produce flavor is better.
-
-[Iron Ox](http://ironox.com/): The first vertical farm to be run
-(almost) entirely by robots.
+"Leftist candidate Xiomara Castro set to become Honduras's first female president"`
 
 ---
 
-"As the world’s population grows exponentially, our total supply of
-fruits and vegetables is falling 22% short of global nutritional
-needs. Traditional farming methods are having difficulties meeting
-this demand as it faces increasing problems such as water shortage,
-land scarcity.. In recent years, controlled environment agriculture
-has experienced a surge of popularity as it presents a compelling
-solution to all these problems and more. Indoor vertical farming can
-increase crop yields, overcome limited land area...
+Fizeau, experimental physicist.. "his speciality was refining and
+confirming other people's results". The speed of light measurement
+is awesome.
 
-Vertical farms are unique in that some setups don’t require soil for
-plants to grow. Most are either hydroponic, where vegetables is grown
-in a nutrient-dense bowl of water, or aeroponic, where the plant roots
-are systematically sprayed with water and nutrients. In lieu of
-natural sunlight, artificial grow lights are used...
+Note Savage's emphasis on "following the inventor's thought process to
+understand a thing". 
 
-Recent technological advances in the agriculture space allow vertical
-farms to control every aspect of growing crops. Variables such as
-light, humidity, and water can all be precisely measured year
-round. Since crops are no longer reliant on weather patterns,
-temperatures, or daylight, this means produce can be reliably grown
-24/7...
-
-Labor has always been a pain point in agriculture..  Vertical farming
-can significantly reduce labor needs, and therefore cost, by using
-robots to handle harvesting, planting, and logistics...
-
-Vertical farms are built to optimize energy conservation by
-significantly reducing water and energy usage. Studies show that
-vertical farms use up to 70% less water than traditional farms..
-
-Since indoor vertical farms are completely sealed off from the outside
-environment, there are virtually no pests. As a result, there is
-virtually no need for pesticides or herbicides. Food grown is
-healthier, safer, and certified organic, making it even more appealing
-to consumers"
-
-[[-]](https://www.plugandplaytechcenter.com/resources/indoor-vertical-farming-new-era-agriculture/)
+[[-]](https://youtu.be/F8UFGu2M2gM)
 
 ---
 
-They do seem sealed off from outside; which is good no need for
-pesticides
+"Egypt to gain hydrogen boost with Plug Power providing an 100MW electrolyser"
 
 ---
 
-Woah greenhouses as far as the eye can see.. I dont think i saw so
-many ghs in one place
+Was checking out some of my 2016 campaign shares; there was lot of
+"good Dem-bad Trump" takes, some are still funny, here's one with Obama
+
+[[-]](https://pbs.twimg.com/media/FFObWzDXIAQ70tF?format=jpg&name=small)
+
+---
+
+:) via @internetofshit
+
+[[-]](https://mobile.twitter.com/HardPass4/status/1463886150171566084)
+
+---
+
+Reshare from 2013
+
+<img src="https://pbs.twimg.com/media/FFRwtqpXsAgEh_3?format=png&name=small"/>
+
+---
+
+<blockquote width="200" class="twitter-tweet"><p lang="en" dir="ltr">Starting the PhD Finishing post doc <a href="https://t.co/isDvHjoxjT">pic.twitter.com/isDvHjoxjT</a></p>&mdash; Oded Rechavi 🦉 (@OdedRechavi) <a href="https://twitter.com/OdedRechavi/status/1465572000840261633?ref_src=twsrc%5Etfw">November 30, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
