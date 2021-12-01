@@ -294,4 +294,4 @@ charlatans. [..] What does science fiction have to say about the
 future of education? [..] Consider Battle School in Orson Scott Card's
 Ender's Game, the concents in Neal Stephenson's Anathem [..]"
 
---
+---

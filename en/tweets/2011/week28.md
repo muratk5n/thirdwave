@@ -211,7 +211,7 @@ deployed through Google's services than Facebook's.
 Note: It was kinda fun to watch Zuckerberg trying to respond with its
 own video thing -- brutha was sweatin' !!
 
---
+---
 
 The mere suggestion of it makes me shudder.
 
