@@ -17,12 +17,6 @@ understand a concept".
 
 ---
 
-Reshare from 2013
-
-<img src="https://pbs.twimg.com/media/FFRwtqpXsAgEh_3?format=png&name=small"/>
-
----
-
 "Egypt to gain hydrogen boost with Plug Power providing an 100MW electrolyser"
 
 ---
@@ -32,6 +26,12 @@ Was checking out some of my 2016 campaign shares; there was lot of
 Obama/Trump
 
 [[-]](https://pbs.twimg.com/media/FFObWzDXIAQ70tF?format=jpg&name=small)
+
+---
+
+Reshare from 2013
+
+<img src="https://pbs.twimg.com/media/FFRwtqpXsAgEh_3?format=png&name=small"/>
 
 ---
 
