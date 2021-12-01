@@ -1,9 +1,9 @@
 # Week 28
 
-Hillarious movie. It talks about a future (500 years later) when
-hedonism is the rule of the day, extreme violence as entertainment is
-commonplace, and events resembling Gladiator fights in Rome are widely
-followed and celebrated.
+*Idiocracy*. Hillarious movie. It talks about a future (500 years
+later) when hedonism is the rule of the day, extreme violence as
+entertainment is commonplace, and events resembling Gladiator fights
+in Rome are widely followed and celebrated.
 
 People are basically idiots who cannot even perform simple arithmetic
 in their heads. Obviously, Idiocracy takes some of today's social
