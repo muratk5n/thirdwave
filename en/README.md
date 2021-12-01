@@ -40,7 +40,11 @@ Was checking out some of my 2016 campaign shares; there was lot of
 
 ---
 
-<blockquote width="200" class="twitter-tweet"><p lang="en" dir="ltr">Starting the PhD Finishing post doc <a href="https://t.co/isDvHjoxjT">pic.twitter.com/isDvHjoxjT</a></p>&mdash; Oded Rechavi 🦉 (@OdedRechavi) <a href="https://twitter.com/OdedRechavi/status/1465572000840261633?ref_src=twsrc%5Etfw">November 30, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"@OdedRechavi
+
+Starting the PhD Finishing post doc"
+
+[[-]](https://twitter.com/OdedRechavi/status/1465572000840261633)
 
 ---
 
