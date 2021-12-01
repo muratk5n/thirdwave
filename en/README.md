@@ -28,7 +28,8 @@ Reshare from 2013
 ---
 
 Was checking out some of my 2016 campaign shares; there was lot of
-"good Dem-bad Trump" takes, some are still funny, here's one with Obama
+"good Dem-bad Trump" takes, some are still good, here's one with
+Obama/Trump
 
 [[-]](https://pbs.twimg.com/media/FFObWzDXIAQ70tF?format=jpg&name=small)
 
