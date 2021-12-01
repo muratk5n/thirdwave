@@ -8,7 +8,7 @@
 
 Fizeau, experimental physicist.. "his speciality was refining and
 confirming other people's results". The speed of light measurement
-is awesome.
+was awesome.
 
 Note Savage's emphasis on "following the inventor's thought process to
 understand a concept". 
