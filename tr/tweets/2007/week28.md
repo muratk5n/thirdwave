@@ -120,6 +120,6 @@ yapmiyorlar. Mesela: Tavus Kusu: Brezilya'nin cok hareketli canli
 ekonomisi var.
 
 Duzgun: IMF ve Dunya Bankasina gore Brezilya alim gucu bakimindan
-9. en buyuk ekonomidir.
+9'uncu buyuk ekonomidir.
 
---
+---
