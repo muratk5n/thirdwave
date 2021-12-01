@@ -171,14 +171,6 @@ başlığı kadar etkileyicidir.
 
 ---
 
-Tek-tipçilik <-> Ulusçuluk <-> Sanayi arasındaki bağlantı ise, geçen
-sene bir sanayicimizin bir etnik grubumuz hakkında ağzından
-kaçırdiği bir söz ile iyice ispatlanmıştır... "İki **'ü Koymuşlar
-Oraya" şeklinde CNN-Türk'e naklen yansıyan bu söz ile Sn. Rahmi Koç,
-bir sanayicinin dünyayı görüşünü çok güzel temsil etmiştir.
-
----
-
 Iİ. ve Iİİ. akımın arasındaki kavga, en güzel Matrix filminde
 vurgulanır. Filmin başını hatırlayın: Film, bir yerel polis ile FBI
 görevlisinin ağız dalaşı ile başlıyor. Akım Teorisi'ne başvurursak,
@@ -270,16 +262,6 @@ hizmet edilmis olmaktadir.
 Hem sanayiniz otomize, hem bu yeni sanayinin urettigi urunleriniz
 "fikir yogunluklu" ise (ve isin bu kafa kismini disaridan
 almiyorsaniz), o zaman bilgi ekonomisinin parcasisiniz demektir.
-
----
-
-Rahmi Koc, zamaninda bilgi teknolojilerinden sorumlu oglu Ali Koc'u
-bilgi sirketlerinin tam karliliga gecmemis olmasi sebebiyle tum
-genel mudurlerinin onunde fircaladigi zaman, eski usul bir
-sanayicinin yeni bilgi ekonomisini anlamakta ne kadar zorlandigini
-da gostermis olmaktaydi. ABD'de Google ancak 5, Amazon 6 sene sonra
-karliliga gecebilmisti - bunlardan Google'in su anki karliligi 1
-milyar dolar uzerindedir.
 
 ---
 
