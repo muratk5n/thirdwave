@@ -22,7 +22,7 @@ reality"
 
 ---
 
-<img width="240"  src="https://66.media.tumblr.com/07a52b0dbc982a25af45ac4ef6d88a62/020a2665daee490e-21/s250x400/319e22ba0ff0ea6ab1567db5683e05df90290140.gifv"/>
+<img width="240"  src="https://drive.google.com/uc?export=view&id=1GZG8HC-Y89mpCaNjQIrZ31RCJTrg2wAA"/>
 
 ---
 

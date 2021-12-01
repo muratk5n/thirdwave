@@ -273,12 +273,6 @@ Africa did at the height of apartheid".
 
 ---
 
-\#HeedYourSpeed
-
-[![](http://img.youtube.com/vi/HT666XwJR2s/0.jpg)](http://www.youtube.com/watch?v=HT666XwJR2s)
-
----
-
 \#globalwarming
 
 "The battle to save the world from the ravages of climate change was
