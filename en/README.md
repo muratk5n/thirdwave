@@ -1,6 +1,5 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-
 👏 👏 👏 👏 👏 👏 
 
 "Leftist candidate Xiomara Castro set to become Honduras's first female president"`
@@ -12,9 +11,15 @@ confirming other people's results". The speed of light measurement
 is awesome.
 
 Note Savage's emphasis on "following the inventor's thought process to
-understand a thing". 
+understand a concept". 
 
 [[-]](https://youtu.be/F8UFGu2M2gM)
+
+---
+
+Reshare from 2013
+
+<img src="https://pbs.twimg.com/media/FFRwtqpXsAgEh_3?format=png&name=small"/>
 
 ---
 
@@ -32,12 +37,6 @@ Was checking out some of my 2016 campaign shares; there was lot of
 :) via @internetofshit
 
 [[-]](https://mobile.twitter.com/HardPass4/status/1463886150171566084)
-
----
-
-Reshare from 2013
-
-<img src="https://pbs.twimg.com/media/FFRwtqpXsAgEh_3?format=png&name=small"/>
 
 ---
 
