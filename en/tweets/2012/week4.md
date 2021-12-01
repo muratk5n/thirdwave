@@ -87,11 +87,11 @@ all such companies going bust.
 "The enormous profits of STM scholarly publishers.. As reported in the
 Economist (2011): “ Elsevier, the biggest publisher of journals with
 almost 2,000 titles, cruised through the recession. Last year it made
-£724m ($1.1 billion) on revenues of £2 billion—an operating-profit
-margin of 36%”. Springer’s Science + Business Media (2010) reported a
-return on sales (operating profit) of 33.9% or € 294 million on
-revenue of € 866 million, an increase of 4% over the profit of the
-previous year [..]"
+£724m (1.1 billion dollars) on revenues of £2 billion—an
+operating-profit margin of 36%”. Springer’s Science + Business Media
+(2010) reported a return on sales (operating profit) of 33.9% or € 294
+million on revenue of € 866 million, an increase of 4% over the profit
+of the previous year [..]"
 
 ---
 
@@ -168,14 +168,14 @@ numbers Carr cites [..] represent a substantial retreat from even more
 ludicrous statistics the copyright industries long peddled [..].
 
 Intellectual property infringement was supposedly costing the
-U.S. economy $200–250 billion per year, and had killed 750,000
+U.S. economy 200–250 billion dollars per year, and had killed 750,000
 American jobs. That certainly sounded dire, but those numbers looked
 suspiciously high, and I was having trouble figuring out exactly where
 they had originated. I did finally run them down, and wrote up the
 results of my investigation in a long piece for Ars. Read the whole
-thing for the full, farcical story, but here’s the upshot: The
-$200–250 billion number had originated in a 1991 sidebar in Forbes,
-but it was not a measurement of the cost of “piracy” to the
+thing for the full, farcical story, but here’s the upshot: The 200–250
+billion dollars number had originated in a 1991 sidebar in Forbes, but
+it was not a measurement of the cost of “piracy” to the
 U.S. economy. It was an unsourced estimate of the total size of the
 global market in counterfeit goods.
 
