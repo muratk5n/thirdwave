@@ -9,8 +9,9 @@ Future Soldier reorganisation"
 
 ---
 
-"Morrison dispatches Australian troops to offer ‘stability and
-security’ to Solomon Islands"
+"Australia will send soldiers and police to the Solomon Islands in a
+bid to help quell violent protests that have been linked to the
+Pacific nation’s diplomatic switch from Taiwan to China"
 
 ---
 
