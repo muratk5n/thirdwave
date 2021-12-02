@@ -31,8 +31,8 @@ fire (which sadly, it does).
 
 ---
 
-Apple stole the desktop GUI idea from Xerox Parc BTW as admitted to by
-[Gates](2021/10/the-one-device-merchant.md#xerox).
+Apple [and MS] stole the desktop GUI idea from Xerox Parc BTW as
+admitted to by [Bill Gates](2021/10/the-one-device-merchant.md#xerox).
 
 ---
 
