@@ -61,13 +61,13 @@ H2 Fuel-Cell Vehicles do not require cobalt.
 
 \#cobalt \#drcongo
 
-<iframe width="340" src="https://www.youtube.com/embed/tROw6yAc-Uo?start=39&end=105" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="340" src="https://www.youtube.com/embed/tROw6yAc-Uo?start=39&end=104" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
 \#cobalt \#drcongo
 
-<iframe width="340" src="https://www.youtube.com/embed/_pEbf5fUgWU?start=73&end=115" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="340" src="https://www.youtube.com/embed/_pEbf5fUgWU?start=73&end=114" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
