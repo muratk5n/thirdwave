@@ -3,7 +3,7 @@
 
 No near-term plans to land on Normandy then?
 
-"Infantry takes big hit in British Army reorganisation Nearly 20% of
+"Infantry takes big hit in British Army reorganisation.. Nearly 20% of
 the British Army's infantry soldiers are to be lost as a result of the
 Future Soldier reorganisation"
 
