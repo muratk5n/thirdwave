@@ -20,7 +20,7 @@ thing; ideas that benefit society is another.
 
 ---
 
-Xerox did some good innovation as a private company, but the lab
+Xerox did some good innovation as a private company, though the lab
 was heavily, heavily funded by [gov](2021/10/entrepreneuel-state-mazzucato.md#corplabs).
 But even this type of long-term, basic research fell out of favor at companies.
 There are cases where the founder is a researcher himself, other than
