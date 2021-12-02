@@ -6,11 +6,18 @@ security’ to Solomon Islands"
 
 ---
 
-Surely such "productification", the "last-mile" of tech is also needed
-at some point, but this is the tip of the iceberg. People need to
-understand the real center of action when it comes to sci and
-tech. Opportunism is one thing; grander planning that benefits society
-is another.
+No near-terms plans to land on Normandy then?
+
+"Infantry takes big hit in British Army reorganisation Nearly 20% of
+the British Army's infantry soldiers are to be lost as a result of the
+Future Soldier reorganisation"
+
+---
+
+Surely such "productification", the "last-mile" of tech is useful, but
+this is the tip of the iceberg. We need to see the real center of
+gravity. Opportunism is one thing; ideas that benefit society is
+another.
 
 ---
 
