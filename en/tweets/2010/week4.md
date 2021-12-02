@@ -2,13 +2,30 @@
 
 Neither
 
-Left / right division cannot explain the new events that we are experiencing. You are trying to fit a square peg into a round hole; on the way, you are making up stuff to make analysis ring true. There is no Free Love in ST. This is dumb ass conservative talk. You have bunch of grown adults who have professions, they date, marry, etc. Yeah - like today. The main cultural rift in US is between "freedom / prohibition". Therefore new, tectonic social shifts are "experienced" through this division, this cultural lens. This does not mean that is what is really happening out there in daily life.
+Left / right division cannot explain the new events that we are
+experiencing. You are trying to fit a square peg into a round hole; on
+the way, you are making up stuff to make analysis ring true. There is
+no Free Love in ST. This is dumb ass conservative talk. You have bunch
+of grown adults who have professions, they date, marry, etc. Yeah -
+like today. The main cultural rift in US is between "freedom /
+prohibition". Therefore new, tectonic social shifts are "experienced"
+through this division, this cultural lens. This does not mean that is
+what is really happening out there in daily life.
 
-"No money" thing can be an exaggeration, but think about what would happen if energy became so abundant. Energy is the major diminishing, un-abundant resource, yes? Well, what if it was free. As in beer.
+"No money" thing can be an exaggeration, but think about what would
+happen if energy became so abundant. Energy is the major diminishing,
+un-abundant resource, yes? Well, what if it was free. As in beer.
 
-"No apparent culture or art"? This is bunk. I clearly remember episodes where the crew play in concerts, have theather. Also there must be some people who "program" the that VR room called holodeck. I am sure it does not run by itself, or run on fart. Which, it seems is what your site runs on.
+"No apparent culture or art"? This is bunk. I clearly remember
+episodes where the crew play in concerts, have theather. Also there
+must be some people who "program" the that VR room called holodeck. I
+am sure it does not run by itself, or run on fart. Which, it seems is
+what your site runs on.
 
-Expansionist, shmantionist. The so-called 'federation' accepts members, they stay away from non-spacefaring planets (non-interference), and they help if help is asked. What's not to like?
+Expansionist, shmantionist. The so-called 'federation' accepts
+members, they stay away from non-spacefaring planets
+(non-interference), and they help if help is asked. What's not to
+like?
 
 F..ing A!
 
@@ -18,17 +35,26 @@ Republibot: "Is Star Trek Liberal or Conservative?"
 
 Motherlover
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/X0DeIqJm4vM/0.jpg)](http://www.youtube.com/watch?v=X0DeIqJm4vM)
+[![IMAGE ALT
+TEXT](http://img.youtube.com/vi/X0DeIqJm4vM/0.jpg)](http://www.youtube.com/watch?v=X0DeIqJm4vM)
 
 ---
 
 What the f..k are you talking about
 
-Science gets a good support in this movie, the scientist are usually portrayed as evil master planners who concoct some kind of weapon for world domination (or work someone who has such plans) but in this movie, they are the good guys. Illiteracy for path to grace? C'mon.
+Science gets a good support in this movie, the scientist are usually
+portrayed as evil master planners who concoct some kind of weapon for
+world domination (or work someone who has such plans) but in this
+movie, they are the good guys. Illiteracy for path to grace? C'mon.
 
-White messiah comment makes no sense either: The movie canon specifically mentions some other dude from the past who has ridden that large beasty dragon lookin' flying shabang, and that dude was no outsider. Our white guy is only following his footsteps (according to the movie).
+White messiah comment makes no sense either: The movie canon
+specifically mentions some other dude from the past who has ridden
+that large beasty dragon lookin' flying shabang, and that dude was no
+outsider. Our white guy is only following his footsteps (according to
+the movie).
 
-Listen: Avatar is Dances with Wolves with better CGI, minus Kevin Costner. Nice huh? :)
+Listen: Avatar is Dances with Wolves with better CGI, minus Kevin
+Costner. Nice huh? :)
 
 That's it!
 

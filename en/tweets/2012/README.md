@@ -5,7 +5,7 @@
 
 [Week 12](week12.md)
 
-[Week 24](week20.md)
+[Week 20](week20.md)
 
 [Week 24](week24.md)
 
