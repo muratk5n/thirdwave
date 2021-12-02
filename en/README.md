@@ -76,7 +76,7 @@ vertical farm uses, they use sunlight instead.. In the right place
 sunlight cld be cheap. But in that case cannot stack up layers bcz
 upper shelves would block sunlight for the lower shelves..
 
-Still automated, sealed-off agro is very cool.
+Still, automated, sealed-off agro is very cool.
 
 [[-]](https://ironox.com/iron-ox-origins/)
 
