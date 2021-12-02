@@ -70,8 +70,8 @@ H2 Fuel-Cell Vehicles do not require cobalt.
 
 Automated agro company Iron Ox did away with artificial lights typical
 vertical farm uses, they use sunlight instead.. In the right place
-sunlight cld be cheap. But in that case u cant go vertical bcz upper
-shelves would block sunlight for the lower shelves.. 
+sunlight cld be cheap. But in that case cannot stack up layers bcz
+upper shelves would block sunlight for the lower shelves..
 
 Still automated, sealed-off agro is very cool.
 
