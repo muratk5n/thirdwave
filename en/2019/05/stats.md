@@ -496,8 +496,8 @@ start=datetime.datetime(1995, 1, 1)
 end=datetime.datetime(today.year, today.month, today.day)
 cols = ['WILL5000IND']
 df = data.DataReader(cols, 'fred', start, end)
-df.plot()
 print (df.tail(4))
+df.plot()
 plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
 plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
 plt.savefig('wilshire.png')
@@ -506,10 +506,10 @@ plt.savefig('wilshire.png')
 ```text
             WILL5000IND
 DATE                   
-2021-11-24       233.37
 2021-11-25          NaN
 2021-11-26       227.94
 2021-11-29       230.57
+2021-11-30       226.17
 ```
 
 ![](wilshire.png)

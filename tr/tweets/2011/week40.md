@@ -1,4 +1,4 @@
-# Week 40
+# Hafta 40
 
 Ürdün
 
