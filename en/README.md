@@ -1,16 +1,16 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
 
-"Morrison dispatches Australian troops to offer ‘stability and
-security’ to Solomon Islands"
-
----
-
 No near-terms plans to land on Normandy then?
 
 "Infantry takes big hit in British Army reorganisation Nearly 20% of
 the British Army's infantry soldiers are to be lost as a result of the
 Future Soldier reorganisation"
+
+---
+
+"Morrison dispatches Australian troops to offer ‘stability and
+security’ to Solomon Islands"
 
 ---
 
