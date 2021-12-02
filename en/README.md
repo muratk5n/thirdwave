@@ -14,16 +14,15 @@ Future Soldier reorganisation"
 
 ---
 
-Surely such "productification", the "last-mile" of tech is useful, but
-this is the tip of the iceberg. We need to see the real center of
-gravity. Opportunism is one thing; ideas that benefit society is
-another.
+In a general sense "productification", the "last-mile" of tech is
+useful, but also only the tip of the iceberg. Opportunism is one
+thing; ideas that benefit society is another.
 
 ---
 
 Xerox did some good innovation as a private company, but the lab
 was heavily, heavily funded by [gov](2021/10/entrepreneuel-state-mazzucato.md#corplabs).
-But even this type of long-term, basic research fell out of favor.
+But even this type of long-term, basic research fell out of favor at companies.
 There are cases where the founder is a researcher himself, other than
 that it is more of a hand-to-mouth existence now, whatever is "out there",
 take it, throw it madly into a bowl hoping something comes out of
