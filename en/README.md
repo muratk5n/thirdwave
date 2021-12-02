@@ -1,16 +1,6 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
 
-\#bubbles \#value \#buffett
-
-"If a comp is worth 10 bil dollars, it's got to be able to give you
-700-800 mil next year [if not] maybe 10% more than that the year
-after"
-
-[[-]](https://youtu.be/o72rIKMQQyM?t=224)
-
----
-
 "Morrison dispatches Australian troops to offer ‘stability and
 security’ to Solomon Islands"
 
@@ -43,6 +33,16 @@ Apple stole the GUI idea from Xerox Parc BTW as admitted to by
 Gladwell: "Jobs’s sensibility was editorial, not inventive. His gift
 lay in taking what was in front of him—the tablet with stylus—and
 ruthlessly refining it"
+
+---
+
+\#bubbles \#value \#buffett
+
+"If a comp is worth 10 bil dollars, it's got to be able to give you
+700-800 mil next year [if not] maybe 10% more than that the year
+after"
+
+[[-]](https://youtu.be/o72rIKMQQyM?t=224)
 
 ---
 
