@@ -31,14 +31,14 @@ fire (which sadly, it does).
 
 ---
 
-Apple stole the GUI idea from Xerox Parc BTW as admitted to by
+Apple stole the desktop GUI idea from Xerox Parc BTW as admitted to by
 [Gates](2021/10/the-one-device-merchant.md#xerox).
 
 ---
 
-Gladwell: "Jobs’s sensibility was editorial, not inventive. His gift
-lay in taking what was in front of him—the tablet with stylus—and
-ruthlessly refining it"
+Gladwell: "[Steve] Jobs’s sensibility was editorial, not
+inventive. His gift lay in taking what was in front of him—the tablet
+with stylus—and ruthlessly refining it"
 
 ---
 
