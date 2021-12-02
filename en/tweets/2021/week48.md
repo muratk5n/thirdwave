@@ -1,5 +1,54 @@
 
 
+👏 👏 👏 👏 👏 👏 
+
+"Leftist candidate Xiomara Castro set to become Honduras's first female president"`
+
+---
+
+Fizeau, experimental physicist.. "his speciality was refining and
+confirming other people's results". The speed of light measurement
+was awesome.
+
+Note Savage's emphasis on "following the inventor's thought process to
+understand a concept". 
+
+[[-]](https://youtu.be/F8UFGu2M2gM)
+
+---
+
+"Egypt to gain hydrogen boost with Plug Power providing an 100MW electrolyser"
+
+---
+
+Was checking out some of my 2016 campaign shares; there was lot of
+"good Dem-bad Trump" takes, some are still good, here's one with
+Obama/Trump
+
+[[-]](https://pbs.twimg.com/media/FFObWzDXIAQ70tF?format=jpg&name=small)
+
+---
+
+Reshare from 2013
+
+<img src="https://pbs.twimg.com/media/FFRwtqpXsAgEh_3?format=png&name=small"/>
+
+---
+
+:) via @internetofshit
+
+[[-]](https://mobile.twitter.com/HardPass4/status/1463886150171566084)
+
+---
+
+"@OdedRechavi
+
+Starting the PhD Finishing post doc"
+
+[[-]](https://twitter.com/OdedRechavi/status/1465572000840261633)
+
+---
+
 Barbados becomes a republic and removes Queen Elizabeth II as head of state
 
 <img width="340" src="https://pbs.twimg.com/semantic_core_img/1465692754063757330/fQblwGvY?format=jpg&name=small"/>

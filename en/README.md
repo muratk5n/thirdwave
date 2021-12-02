@@ -1,51 +1,76 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-👏 👏 👏 👏 👏 👏 
 
-"Leftist candidate Xiomara Castro set to become Honduras's first female president"`
+\#bubbles \#value \#buffett
 
----
+"If a comp is worth 10 bil dollars, it's got to be able to give you
+700-800 mil next year [if not] maybe 10% more than that the year
+after"
 
-Fizeau, experimental physicist.. "his speciality was refining and
-confirming other people's results". The speed of light measurement
-was awesome.
-
-Note Savage's emphasis on "following the inventor's thought process to
-understand a concept". 
-
-[[-]](https://youtu.be/F8UFGu2M2gM)
+[[-]](https://youtu.be/o72rIKMQQyM?t=224)
 
 ---
 
-"Egypt to gain hydrogen boost with Plug Power providing an 100MW electrolyser"
+"Morrison dispatches Australian troops to offer ‘stability and
+security’ to Solomon Islands"
 
 ---
 
-Was checking out some of my 2016 campaign shares; there was lot of
-"good Dem-bad Trump" takes, some are still good, here's one with
-Obama/Trump
-
-[[-]](https://pbs.twimg.com/media/FFObWzDXIAQ70tF?format=jpg&name=small)
-
----
-
-Reshare from 2013
-
-<img src="https://pbs.twimg.com/media/FFRwtqpXsAgEh_3?format=png&name=small"/>
+Surely such "productification", the "last-mile" of tech is also needed
+at some point, but this is the tip of the iceberg. People need to
+understand the real center of action when it comes to sci and
+tech. Opportunism is one thing; grander planning that benefits society
+is another.
 
 ---
 
-:) via @internetofshit
-
-[[-]](https://mobile.twitter.com/HardPass4/status/1463886150171566084)
+Xerox did some good innovation as a private company, but the lab
+was heavily, heavily funded by [gov](2021/10/entrepreneuel-state-mazzucato.md#corplabs).
+But even this type of long-term, basic research fell out of favor.
+There are cases where the founder is a researcher himself, other than
+that it is more of a hand-to-mouth existence now, whatever is "out there",
+take it, throw it madly into a bowl hoping something comes out of
+it. Take battery, put it on a car; hoping it doesn't blow up or catch
+fire (which sadly, it does).
 
 ---
 
-"@OdedRechavi
+Apple stole the GUI idea from Xerox Parc BTW as admitted to by
+[Gates](2021/10/the-one-device-merchant.md#xerox).
 
-Starting the PhD Finishing post doc"
+---
 
-[[-]](https://twitter.com/OdedRechavi/status/1465572000840261633)
+Gladwell: "Jobs’s sensibility was editorial, not inventive. His gift
+lay in taking what was in front of him—the tablet with stylus—and
+ruthlessly refining it"
+
+---
+
+H2 Fuel-Cell Vehicles do not require cobalt.
+
+---
+
+\#cobalt \#drcongo
+
+<iframe width="340" src="https://www.youtube.com/embed/tROw6yAc-Uo?start=39&end=102" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+\#cobalt \#drcongo
+
+<iframe width="340" src="https://www.youtube.com/embed/_pEbf5fUgWU?start=73&end=111" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+
+Automated agro company Iron Ox did away with artificial lights typical
+vertical farm uses, they use sunlight instead.. In the right place
+sunlight cld be cheap. But in that case u cant go vertical bcz upper
+shelves would block sunlight for the lower shelves.. 
+
+Still automated, sealed-off agro is very cool.
+
+[[-]](https://ironox.com/iron-ox-origins/)
 
 ---
 
