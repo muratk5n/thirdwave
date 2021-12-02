@@ -1,13 +1,14 @@
 # Week 36
 
-Mark Blyth: "[From his speech to German left party SPD] But look
-beyond this, and there is a bigger issue for left parties to deal
-with, one that they unfortunately helped to create. Back in the 1970s,
-a period that now seems quite benign, corporate profits were very low,
-labor’s share of income was very high, and inflation was rising. We
-were told that this was unsustainable, and new institutions and
-policies were constructed to make sure that this particular mix of
-outcomes would never happen again.
+[Mark Blyth](ippr.org/juncture-item/ending-the-creditors-paradise-a-german-social-democrats-duty):
+"[From his speech to German left party SPD] But look beyond this, and
+there is a bigger issue for left parties to deal with, one that they
+unfortunately helped to create. Back in the 1970s, a period that now
+seems quite benign, corporate profits were very low, labor’s share of
+income was very high, and inflation was rising. We were told that this
+was unsustainable, and new institutions and policies were constructed
+to make sure that this particular mix of outcomes would never happen
+again.
 
 In this regard we were singularly successful. Today, corporate profits
 have never been higher, labor’s share of national income has almost
