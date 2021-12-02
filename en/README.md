@@ -29,7 +29,7 @@ But even this type of long-term, basic research fell out of favor at companies.
 There are cases where the founder is a researcher himself, other than
 that it is more of a hand-to-mouth existence now, whatever is "out there",
 take it, throw it madly into a bowl hoping something comes out of
-it. Take battery, put it on a car; hoping it doesn't blow up or catch
+it. Take battery, put it in a car; hoping it doesn't blow up or catch
 fire (which sadly, it does).
 
 ---
