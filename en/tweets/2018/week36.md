@@ -114,9 +114,10 @@ Most useful policies are self-contained, atomic, whole-or-nothing
 positions. Take 15-dollar-minimum-wage for example.. You either do it
 as-is, or don't do it at all. If you smush it, bend it in this way or
 that way "well... if an employee, is btw 30-40, is married, working in
-blah, then before noon it is $12, but if female, working in software,
-on Mondays it is $15"..  Then the policy becomes useless, it becomes
-like.. Obamacare (a certifiable over-engineered piece of shit). 
+blah, then before noon it is 12 dollars, but if female, working in
+software, on Mondays it is $15"..  Then the policy becomes useless, it
+becomes like.. Obamacare (a certifiable over-engineered piece of
+shit). 
 
 I was watching this video on the Oslo accords the other day,  about
 "the Clinton solution" for the Israeli-Palestine problem. It goes like
