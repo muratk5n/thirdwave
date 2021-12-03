@@ -221,15 +221,16 @@ economics professor and visiting scholar at the American Enterprise
 Institute, a conservative think tank based in Washington, D.C., ran
 the numbers. By the end of 2012, according to Perry, the U.S. economy
 had made a complete recovery from the 2007–2009 recession, with a
-gross domestic output of $13.6 trillion (in 2005 dollars). That was
-2.2 percent higher, or $290 billion more real output, than in 2007,
-just before the recession, when the GDP was at $13.32 trillion. Perry
-observes that, while real output was 2.2 percent above the recession
-level in 2007, industry churned out the increase in goods and services
-with only 142.4 million workers in 2012—or 3.84 million fewer workers
-than in 2007. Perry’s conclusion: “The Great Recession stimulated huge
-productivity and efficiency gains as companies shed marginal workers
-and learned how to do ‘more with less (fewer workers).
+gross domestic output of 13.6 trillion dollars (in 2005 dollars). That
+was 2.2 percent higher, or 290 billion dollars more real output, than
+in 2007, just before the recession, when the GDP was at 13.32 trillion
+dollars. Perry observes that, while real output was 2.2 percent above
+the recession level in 2007, industry churned out the increase in
+goods and services with only 142.4 million workers in 2012—or 3.84
+million fewer workers than in 2007. Perry’s conclusion: “The Great
+Recession stimulated huge productivity and efficiency gains as
+companies shed marginal workers and learned how to do ‘more with less
+(fewer workers).
 
 Although Perry and others are just now discovering the disquieting
 relationship between increased productivity and fewer workers—again,
