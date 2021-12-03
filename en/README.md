@@ -37,7 +37,7 @@ But such neighbors / allies are scant.
 
 ---
 
-Didnt Ukraine exeute a drone attack on Donbass (the RU sponsored
+Didnt Ukraine execute a drone attack on Donbass (the RU sponsored
 seperatist region), way back in October? They destroyed some
 artillery..? I'm not saying this triggered it all, but low intensity
 action was around in the region..
