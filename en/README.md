@@ -1,89 +1,64 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
+Case in point: Japan (Abe's recent warning)
+
+[[-]](https://www.youtube.com/watch?v=kD8qK5cFCeQ)
 
 ---
 
-No near-term plans to land on Normandy then?
-
-"Infantry takes big hit in British Army reorganisation.. Nearly 20% of
-the British Army's infantry soldiers are to be lost as a result of the
-Future Soldier reorganisation"
-
----
-
-"Australia will send soldiers and police to the Solomon Islands in a
-bid to help quell violent protests that have been linked to the
-Pacific nation’s diplomatic switch from Taiwan to China"
+China and France power-equality analysis can help filter out noise, eg
+the overused "superpower" label.. China is not a superpower, France
+isn't one either. FR has good capability to be sure, just not SP. The
+EU however is one (in econ, could be in mil too one day), FR benefits
+from that. Ergo if China wanted to project power, has to join others.
+But such neighbors / allies are scant. 
 
 ---
 
-In a general sense "productification", the "last-mile" of tech is
-useful, but also only the tip of the iceberg. Opportunism is one
-thing; ideas that benefit society is another.
+Didnt Ukraine exeute a drone attack on Donbass (the RU sponsored
+seperatist region), way back in October? They destroyed some
+artillery..? I'm not saying this triggered it all, but low intensity
+action was around in the region..
 
 ---
 
-Xerox did some good innovation as a private company, though the lab
-was heavily, heavily funded by [gov](2021/10/entrepreneuel-state-mazzucato.md#corplabs).
-But even this type of long-term, basic research fell out of favor at companies.
-There are cases where the founder is a researcher himself, other than
-that it is more of a hand-to-mouth existence now, whatever is "out there",
-take it, throw it madly into a bowl hoping something comes out of
-it. Take battery, put it in a car; hoping it doesn't blow up or catch
-fire (which sadly, it does).
+Military Deployment [stats](2019/05/confstats.md#gdtroop).
+
+It's busy around Eastern Europe and Russia! Even Estonia is freaked
+out!
 
 ---
 
-Apple [and MS] stole the desktop GUI idea from Xerox Parc BTW as
-admitted to by [Bill Gates](2021/10/the-one-device-merchant.md#xerox).
+Kto kogo?
 
 ---
 
-Gladwell: "[Steve] Jobs’s sensibility was editorial, not
-inventive. His gift lay in taking what was in front of him—the tablet
-with stylus—and ruthlessly refining it"
+Axios: "Centrist Dems sink Biden's nominee for top bank regulator"
 
 ---
 
-\#bubbles \#value \#buffett
+Reshare from 2012; How to motivate your team. 
 
-"If a comp is worth 10 bil dollars, it's got to be able to give you
-700-800 mil next year [if not] maybe 10% more than that the year
-after"
-
-[[-]](https://youtu.be/o72rIKMQQyM?t=224)
+[[-]](https://www.cbsnews.com/news/how-to-motivate-your-team/)
 
 ---
 
-H2 Fuel-Cell Vehicles do not require cobalt.
+Reshare from 2011. [Common Crawl](https://commoncrawl.org/): "We build
+and maintain an open repository of web crawl data that can be accessed
+and analyzed by anyone". Cld be useful.
 
 ---
 
-\#cobalt \#drcongo
-
-<iframe width="340" src="https://www.youtube.com/embed/tROw6yAc-Uo?start=39&end=104" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-\#cobalt \#drcongo
-
-<iframe width="340" src="https://www.youtube.com/embed/_pEbf5fUgWU?start=73&end=114" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Rifkin: "The term 'consumption' has both English and French roots. In
+its original form, to consume meant to destroy, to pillage, to subdue,
+to exhaust. It is a word steeped in violence and until the present
+century had only negative connotations. [In the past the word was]
+used to refer to the most deadly disease of the day -- tuberculosis"
 
 ---
 
-Automated agro company Iron Ox did away with artificial lights typical
-vertical farm uses, they use sunlight instead.. In the right place
-sunlight cld be cheap. But in that case cannot stack up layers bcz
-upper shelves would block sunlight for the lower shelves..
-
-Still, automated, sealed-off agro is very cool.
-
-[[-]](https://ironox.com/iron-ox-origins/)
-
----
-
-Found an old 2011 post on Bezos betting on nuclear fusion. What
-happened there? 
+"'Whenever a fellow tells me he is bipartisan,' said Harry Truman, 'I
+know he is going to vote against me'"
 
 ---
 

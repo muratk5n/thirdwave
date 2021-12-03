@@ -1,5 +1,90 @@
 
 
+
+No near-term plans to land on Normandy then?
+
+"Infantry takes big hit in British Army reorganisation.. Nearly 20% of
+the British Army's infantry soldiers are to be lost as a result of the
+Future Soldier reorganisation"
+
+---
+
+"Australia will send soldiers and police to the Solomon Islands in a
+bid to help quell violent protests that have been linked to the
+Pacific nation’s diplomatic switch from Taiwan to China"
+
+---
+
+In a general sense "productification", the "last-mile" of tech is
+useful, but also only the tip of the iceberg. Opportunism is one
+thing; ideas that benefit society is another.
+
+---
+
+Xerox did some good innovation as a private company, though the lab
+was heavily, heavily funded by [gov](2021/10/entrepreneuel-state-mazzucato.md#corplabs).
+But even this type of long-term, basic research fell out of favor at companies.
+There are cases where the founder is a researcher himself, other than
+that it is more of a hand-to-mouth existence now, whatever is "out there",
+take it, throw it madly into a bowl hoping something comes out of
+it. Take battery, put it in a car; hoping it doesn't blow up or catch
+fire (which sadly, it does).
+
+---
+
+Apple [and MS] stole the desktop GUI idea from Xerox Parc BTW as
+admitted to by [Bill Gates](2021/10/the-one-device-merchant.md#xerox).
+
+---
+
+Gladwell: "[Steve] Jobs’s sensibility was editorial, not
+inventive. His gift lay in taking what was in front of him—the tablet
+with stylus—and ruthlessly refining it"
+
+---
+
+\#bubbles \#value \#buffett
+
+"If a comp is worth 10 bil dollars, it's got to be able to give you
+700-800 mil next year [if not] maybe 10% more than that the year
+after"
+
+[[-]](https://youtu.be/o72rIKMQQyM?t=224)
+
+---
+
+H2 Fuel-Cell Vehicles do not require cobalt.
+
+---
+
+\#cobalt \#drcongo
+
+<iframe width="340" src="https://www.youtube.com/embed/tROw6yAc-Uo?start=39&end=104" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+\#cobalt \#drcongo
+
+<iframe width="340" src="https://www.youtube.com/embed/_pEbf5fUgWU?start=73&end=114" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+Automated agro company Iron Ox did away with artificial lights typical
+vertical farm uses, they use sunlight instead.. In the right place
+sunlight cld be cheap. But in that case cannot stack up layers bcz
+upper shelves would block sunlight for the lower shelves..
+
+Still, automated, sealed-off agro is very cool.
+
+[[-]](https://ironox.com/iron-ox-origins/)
+
+---
+
+Found an old 2011 post on Bezos betting on nuclear fusion. What
+happened there? 
+
+---
+
 👏 👏 👏 👏 👏 👏 
 
 "Leftist candidate Xiomara Castro set to become Honduras's first female president"`
