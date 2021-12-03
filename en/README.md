@@ -1,5 +1,18 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
+"China’s coastline in the East China Sea lacks the deep-water ports
+needed to service its naval bases located there. Its submarines must
+operate on the surface until they are able to submerge and dive deep
+when they reach the area of the Ryukus archipelagoes. If China
+controlled Taiwan, its submarines would have a far easier exit from
+Taiwan’s deep-water ports into the Pacific. They could present a new
+danger for Japan – which is totally dependent on the East Asia
+sea-lanes for its energy and other raw materials"
+
+[[-]](https://thediplomat.com/2015/05/taiwan-and-strategic-security/)
+
+---
+
 Case in point: Japan (former PM Abe's recent warning)
 
 [[-]](https://www.youtube.com/watch?v=kD8qK5cFCeQ)
