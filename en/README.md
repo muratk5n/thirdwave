@@ -1,5 +1,14 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
+Abe said "just look at the map".. this is why.
+
+---
+
+[Ryukyu Islands](https://pbs.twimg.com/media/FFqQWg1XEAAwuNw?format=jpg&name=small).
+And they all belong to Japan.. 
+
+---
+
 "China’s coastline in the East China Sea lacks the deep-water ports
 needed to service its naval bases located there. Its submarines must
 operate on the surface until they are able to submerge and dive deep
