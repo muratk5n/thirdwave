@@ -20,12 +20,13 @@ constructing this system.
 
 Scott Alexander
 
-Do you think that modern colleges provide $18,000/year greater value
-than colleges did in your parents’ day? Would you rather graduate from
-a modern college, or graduate from a college more like the one your
-parents went to, plus get a check for $72,000?
+Do you think that modern colleges provide 18,000 dollar/year greater
+value than colleges did in your parents’ day? Would you rather
+graduate from a modern college, or graduate from a college more like
+the one your parents went to, plus get a check for $72,000?
 
-(or, more realistically, have $72,000 less in student loans to pay off)
+(or, more realistically, have 72,000 dollars less in student loans to
+pay off)
 
 Was your parents’ college even noticeably worse than yours? My parents
 sometimes talk about their college experience, and it seems to have

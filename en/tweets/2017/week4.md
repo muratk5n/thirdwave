@@ -49,22 +49,23 @@ It's a good system tho. 
 Kotlikoff & Burns
 
 [From The Coming Generational Storm book, 2005] According to The
-Treasury Papers, Medicare has a $43.6 trillion unfunded liability! 10
-This is over four-fifths of the $51 trillion fiscal gap. 11 The reason
-the Medicare liability is roughly six times larger than Social
-Security’s is not due to major differences in the present values of
-their projected future benefit payments. Medicare’s projected benefits
-are larger than those of Social Security, but by only one-fifth. The
-big difference is that the 12.4 percent Social Security payroll tax is
-much larger than the 2.9 percent Medicare tax. In the Treasury Papers’
-fiscal gap accounting, Medicare is allocated none of the general
-revenue finance used to finance a good chunk of its benefits.
+Treasury Papers, Medicare has a 43.6 trillion dollars unfunded
+liability! 10 This is over four-fifths of the $51 trillion fiscal
+gap. 11 The reason the Medicare liability is roughly six times larger
+than Social Security’s is not due to major differences in the present
+values of their projected future benefit payments. Medicare’s
+projected benefits are larger than those of Social Security, but by
+only one-fifth. The big difference is that the 12.4 percent Social
+Security payroll tax is much larger than the 2.9 percent Medicare
+tax. In the Treasury Papers’ fiscal gap accounting, Medicare is
+allocated none of the general revenue finance used to finance a good
+chunk of its benefits.
 
 Yep
 
-As of today the unfunded liabilities of US are roughly around $100
-trillion. IMO this is why a switch to universal basic income will be
-necessary for US at some point; instead of politicians writing
+As of today the unfunded liabilities of US are roughly around 100
+trillion dollars. IMO this is why a switch to universal basic income
+will be necessary for US at some point; instead of politicians writing
 themselves IOU's, sweeping things under the carpet, gov at some point
 will have cancel all of its programs, and start UBI, redistributing
 today's tax income for today's citizens, not tomorrow's imaginery
