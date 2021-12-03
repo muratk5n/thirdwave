@@ -20,12 +20,12 @@ like Blockbuster, Barnes and Noble, Polaroid, and dozens more like
 them, it is unlikely that major automakers like General Motors, Ford,
 and Toyota will survive the leap [..]
 
-Ancillary industries such as the $198 billion automobile insurance
-market, $98 billion automotive finance market, $100 billion parking
-industry, and the $300 billion automotive aftermarket will collapse as
-demand for their services evaporates. We will see the obsolescence of
-rental car companies, public transportation systems, and, good
-riddance, parking and speeding tickets. But we will see the
+Ancillary industries such as the 198 billion dollar automobile
+insurance market, $98 billion automotive finance market, 100 billion
+dollar parking industry, and the $300 billion automotive aftermarket
+will collapse as demand for their services evaporates. We will see the
+obsolescence of rental car companies, public transportation systems,
+and, good riddance, parking and speeding tickets. But we will see the
 transformation of far more than just consumer transportation:
 self-driving semis, buses, earth movers, and delivery trucks will
 obviate the need for professional drivers and the support industries

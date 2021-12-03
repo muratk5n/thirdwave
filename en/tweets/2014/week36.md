@@ -77,7 +77,11 @@ Some blame the innovation gap for the recent crisis [..]
 
 What innovation gap!?
 
-The exact opposite is happening as a matter of fact - science and engineering is moving at such a breakneck speed people are having a hard-time keeping up. Prices in tech related fields are going down like a rock; DNA sequencing now can be done for $1000, this used to cost over $250,000 (sequencing single human genome).
+The exact opposite is happening as a matter of fact - science and
+engineering is moving at such a breakneck speed people are having a
+hard-time keeping up. Prices in tech related fields are going down
+like a rock; DNA sequencing now can be done for 1000 dollars, this
+used to cost over 250,000 dollars (sequencing single human genome).
 
 This kind of change beats Moore's Law.
 
