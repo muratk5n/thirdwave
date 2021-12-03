@@ -1,6 +1,6 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-Case in point: Japan (Abe's recent warning)
+Case in point: Japan (former PM Abe's recent warning)
 
 [[-]](https://www.youtube.com/watch?v=kD8qK5cFCeQ)
 
