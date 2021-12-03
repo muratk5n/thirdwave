@@ -37,7 +37,7 @@ Axios: "Centrist Dems sink Biden's nominee for top bank regulator"
 
 ---
 
-Reshare from 2012; How to motivate your team. 
+2012: "How to motivate your team
 
 [[-]](https://www.cbsnews.com/news/how-to-motivate-your-team/)
 
