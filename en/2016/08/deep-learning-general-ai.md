@@ -2,26 +2,25 @@
 
 François Chollet
 
-[Answering the question "is deep learning overhyped?"] In many
-respects, it is. For sure, the recent successes of deep learning have
-been amazing: we went from being really terrible at supervised
-learning on perceptual problems (image classification, speech
-recognition) to being really good at it. Deep learning has been
-transformative for many subfields of machine learning. But here's the
-thing: lots of people, most of them not directly involved with deep
-learning research, tend to extrapolate too much from these recent
-successes. For instance, when we started achieving below 4% top-5
-error on the ImageNet classification task, people started claiming
-that we had "solved" computer vision. We most certainly haven't solved
-computer vision at this point; it's still a tremendous challenge to
-generate accurate, precise descriptions of the contents of a picture
-or a video, or to get meaningful answers to basic visual queries
-(e.g. "get me a close-up of the handbag of the second lady from the
-left"), things that humans take for granted. Our successes, which
-while significant are still very limited in scope, have fueled a
-narrative about AI being almost solved, a narrative according to which
-machines can now "understand" images or language. The reality is that
-we are very, very far away from that.
+[Answering the question on Quora] In many respects, it is. For sure,
+the recent successes of deep learning have been amazing: we went from
+being really terrible at supervised learning on perceptual problems
+(image classification, speech recognition) to being really good at
+it. Deep learning has been transformative for many subfields of
+machine learning. But here's the thing: lots of people, most of them
+not directly involved with deep learning research, tend to extrapolate
+too much from these recent successes. For instance, when we started
+achieving below 4% top-5 error on the ImageNet classification task,
+people started claiming that we had "solved" computer vision. We most
+certainly haven't solved computer vision at this point; it's still a
+tremendous challenge to generate accurate, precise descriptions of the
+contents of a picture or a video, or to get meaningful answers to
+basic visual queries (e.g. "get me a close-up of the handbag of the
+second lady from the left"), things that humans take for granted. Our
+successes, which while significant are still very limited in scope,
+have fueled a narrative about AI being almost solved, a narrative
+according to which machines can now "understand" images or
+language. The reality is that we are very, very far away from that.
 
 In the pitches of startups that are attempting to cash in on deep
 learning, I see a lot of grossly unrealistic expectations. Some of
