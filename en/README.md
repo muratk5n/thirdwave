@@ -1,86 +1,112 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-Abe said "just look at the map".. this is why.
+Wham!
+
+"Lexus reveals new off-road vehicle powered by a hydrogen combustion engine"
 
 ---
 
-[Ryukyu Islands](https://pbs.twimg.com/media/FFqQWg1XEAAwuNw?format=jpg&name=small).
-And they all belong to Japan.. 
+"Total Eren has started development of an 8GW green hydrogen
+megaproject in Chile. Revealed on [Dec 2], the large-scale green
+hydrogen project dubbed "H2 Magallanes" will utilise 10GW of wind
+installed capacity coupled with 8GW of electrolysis, a desalination
+plant, an ammonia plant, and port facilities"
 
 ---
 
-"China’s coastline in the East China Sea lacks the deep-water ports
-needed to service its naval bases located there. Its submarines must
-operate on the surface until they are able to submerge and dive deep
-when they reach the area of the Ryukus archipelagoes. If China
-controlled Taiwan, its submarines would have a far easier exit from
-Taiwan’s deep-water ports into the Pacific. They could present a new
-danger for Japan – which is totally dependent on the East Asia
-sea-lanes for its energy and other raw materials"
-
-[[-]](https://thediplomat.com/2015/05/taiwan-and-strategic-security/)
+"Hungary will expand its hydrogen technologies to further decarbonise
+its rail transportation sector as part of a new agreement between
+Alstom and MOL".
 
 ---
 
-Case in point: Japan (former PM Abe's recent warning)
+Reshare, 2015 \#honk \#bumpersticker
 
-[[-]](https://www.youtube.com/watch?v=kD8qK5cFCeQ)
-
----
-
-China and France power-equality analysis can help filter out noise, eg
-the overused "superpower" label.. China is not a superpower, France
-isn't one either. FR has good capability to be sure, just not SP. The
-EU however is one (in econ, could be in mil too one day), FR benefits
-from that. Ergo if China wanted to project power, has to join others.
-But such neighbors / allies are scant. 
+[[-]](tweets/2015/P1040430.JPG)
 
 ---
 
-Didnt Ukraine execute a drone attack on Donbass (the RU sponsored
-seperatist region), way back in October? They destroyed some
-artillery..? I'm not saying this triggered it all, but low intensity
-action was around in the region..
+"@benphillips76
+
+This video. Wow. Asking Siri what the time is in Palestine"
+
+[[-]](https://twitter.com/benphillips76/status/1466337655348768772)
 
 ---
 
-Military Deployment [stats](2019/05/confstats.md#gdtroop).
-
-It's busy around Eastern Europe and Russia! Even Estonia is freaked
-out!
+Sotomayor agrees. [She said] 'If I had my way, I would make pro bono
+service a requirement"
 
 ---
 
-Kto kogo?
+Privatization is probably more harmful in law than anywhere else,
+being able to get "the best defense money can buy" can tip the balance
+considerably. Then both sides are not equal at the court of
+law. Nationalize law firms! Either that, or introduce a "forced pro
+bono" where lawyers from private firms must contribute a portion of
+their time to the public for free.
 
 ---
 
-Axios: "Centrist Dems sink Biden's nominee for top bank regulator"
+I have [double](tweets/2011/double-facepalm.jpg),
+[triple](tweets/2017/triple_facepalm.jpg),
+[quadruple](tweets/2020/quadruple-facepalm.jpg), and
+[quintuple](tweets/2020/quint-facepalm.jpg). I might have to get 
+the sextuple version soon.
+
+MSNBC: "A deep dive by ProPublica identified at least 18 billionaires
+and another 252 really-rich-but-not-quite-billionaires who got
+stimulus checks under the CARES Act of 2020. They didn’t cheat to get
+it — it just so happens that lots of really rich don’t actually
+receive much of what the rest of us rely on as income. In the case of
+each of the 18 billionaires, none took an income greater than $75,000,
+which entitled them to taxpayer funded relief money"
 
 ---
 
-2012: "How to motivate your team
+Sad
 
-[[-]](https://www.cbsnews.com/news/how-to-motivate-your-team/)
-
----
-
-Reshare from 2011. [Common Crawl](https://commoncrawl.org/): "We build
-and maintain an open repository of web crawl data that can be accessed
-and analyzed by anyone". Cld be useful.
+Voit: "In an article about What We Will Never Know, David Gross rather
+explicitly acknowledges that prospects for testing ideas about string
+theory are now an issue of 'faith', with no hope of turning into
+science any time soon"
 
 ---
 
-Rifkin: "The term 'consumption' has both English and French roots. In
-its original form, to consume meant to destroy, to pillage, to subdue,
-to exhaust. It is a word steeped in violence and until the present
-century had only negative connotations. [In the past the word was]
-used to refer to the most deadly disease of the day -- tuberculosis"
+Reshare on "AI", by F. Chollet
+
+[[-]](2016/08/deep-learning-general-ai.md)
 
 ---
 
-"'Whenever a fellow tells me he is bipartisan,' said Harry Truman, 'I
-know he is going to vote against me'"
+Remember the "Icebucket Challenge"? 🤣 That was dumbass shit
+
+---
+
+The Norwegian mathematician Abel he apparently had a tragic life, he
+made many discoveries but in his lifetime, but they were not
+recognized. Now he is a national icon in Norway, there is a huge
+statue of him in Oslo: but the joke is, since noone knew what he
+looked like, they made the statue so big that you cannot see his face
+when you are near it. Arthur Mattuck shared this story during a lecture.
+
+---
+
+Non-farm payroll YoY increase was 4% for Nov. See [graph](2019/05/stats.md#nfp).
+
+
+```
+2021-11-01  148611  4.06
+```
+---
+
+It was Johnson, Biden stole it. He might have done it partially bcz in
+one earlier Prez run the media caught him plagiarizing a speech by
+Neil Kinnoc; they killed his campaign for that, now he is doing it
+again, a poke in the eye. "See, here I do it again, and I am
+President". The media seems to be unfazed though, nobody cared.
+
+"Who is the originator of the phrase Build Back Better, Boris Johnson or Biden?"
 
 ---
 
