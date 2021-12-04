@@ -516,7 +516,8 @@ Oct 26: "South Africa identifies new coronavirus variant"
 
 With WHO blessing apparently
 
-Oct 19: "Scientists in South Africa are working to reverse engineer the Moderna COVID vaccine"
+Oct 19: "Scientists in South Africa are working to reverse engineer
+the Moderna COVID vaccine"
 
 ---
 
