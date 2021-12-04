@@ -51,8 +51,8 @@ their time to the public for free.
 I have [double](tweets/2011/double-facepalm.jpg),
 [triple](tweets/2017/triple_facepalm.jpg),
 [quadruple](tweets/2020/quadruple-facepalm.jpg), and
-[quintuple](tweets/2020/quint-facepalm.jpg). I might have to get 
-the sextuple version soon.
+[quintuple](tweets/2020/quint-facepalm.jpg). I might have to do
+a sextuple version soon.
 
 MSNBC: "A deep dive by ProPublica identified at least 18 billionaires
 and another 252 really-rich-but-not-quite-billionaires who got
