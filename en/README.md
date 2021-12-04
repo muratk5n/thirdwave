@@ -42,9 +42,9 @@ service a requirement"
 Privatization in law is probably one of the most harmful places for it
 than anywhere else, being able to get "the best defense money can buy"
 can tip the balance considerably. Then both sides are not "equal under
-the law". Nationalize law firms! Either that, or introduce a "forced
-pro bono" where lawyers from private firms must contribute a portion
-of their time to the public for free.
+the law". Nationalize the law firms! Either that, or introduce a
+"forced pro bono" where lawyers from private firms must contribute a
+portion of their time to the public for free.
 
 ---
 
