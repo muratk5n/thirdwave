@@ -94,10 +94,6 @@ when you are near it. Arthur Mattuck shared this story during a lecture.
 
 Non-farm payroll YoY increase was 4% for Nov. See [graph](2019/05/stats.md#nfp).
 
-
-```
-2021-11-01  148611  4.06
-```
 ---
 
 It was Johnson, Biden stole it. In an earlier Prez run the media
