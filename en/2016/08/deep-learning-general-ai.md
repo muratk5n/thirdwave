@@ -53,5 +53,5 @@ https://qr.ae/pGlN39
 ---
 
 Chollet is an ML engineer at Google, also is the creator of the Keras
-deep-learning library. Keras is a invaluable tool for machine
-learning, I've used it, along with many practitioners in the field.
+deep-learning library. Keras is a invaluable tool, I've used it, along
+with many practitioners in the field.
