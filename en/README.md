@@ -79,7 +79,7 @@ Reshare on "AI", by F. Chollet
 
 ---
 
-Remember the "Icebucket Challenge"? 🤣 That was dumbass shit
+Remember the "Icebucket Challenge"? 🤣 That was some dumbass shit
 
 ---
 
