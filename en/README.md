@@ -104,7 +104,7 @@ It was Johnson, Biden stole it. In an earlier Prez run the media
 caught him plagiarizing a speech by Neil Kinnoc, they killed his
 campaign for that, now he is doing it again, a poke in the eye. "See,
 here I do it again, and I am President". The media seems to be
-unfazed though
+unfazed but whatever.
 
 "Who is the originator of the phrase Build Back Better, Boris Johnson or Biden?"
 
