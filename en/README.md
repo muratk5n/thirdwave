@@ -7,7 +7,7 @@ Wham!
 ---
 
 "Total Eren has started development of an 8GW green hydrogen
-megaproject in Chile. Revealed on [Dec 2], the large-scale green
+megaproject in Chile. Revealed [in Dec 2], the large-scale green
 hydrogen project dubbed "H2 Magallanes" will utilise 10GW of wind
 installed capacity coupled with 8GW of electrolysis, a desalination
 plant, an ammonia plant, and port facilities"
