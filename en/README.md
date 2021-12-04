@@ -1,7 +1,5 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-Wham!
-
 "Lexus reveals new off-road vehicle powered by a hydrogen combustion engine"
 
 ---
