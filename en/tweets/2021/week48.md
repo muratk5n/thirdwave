@@ -19,7 +19,7 @@ Alstom and MOL".
 
 Reshare, 2015 \#honk \#bumpersticker
 
-[[-]](tweets/2015/P1040430.JPG)
+[[-]](../2015/P1040430.JPG)
 
 ---
 
@@ -45,10 +45,10 @@ contribute a portion of their time to the public for free.
 
 ---
 
-I have [double](tweets/2011/double-facepalm.jpg),
-[triple](tweets/2017/triple_facepalm.jpg),
-[quadruple](tweets/2020/quadruple-facepalm.jpg), and
-[quintuple](tweets/2020/quint-facepalm.jpg). I might have to do
+I have [double](../2011/double-facepalm.jpg),
+[triple](../2017/triple_facepalm.jpg),
+[quadruple](../2020/quadruple-facepalm.jpg), and
+[quintuple](../2020/quint-facepalm.jpg). I might have to do
 a sextuple version soon.
 
 MSNBC: "A deep dive by ProPublica identified at least 18 billionaires
@@ -72,7 +72,7 @@ science any time soon"
 
 Reshare on "AI", by F. Chollet
 
-[[-]](2016/08/deep-learning-general-ai.md)
+[[-]](../../2016/08/deep-learning-general-ai.md)
 
 ---
 
@@ -89,7 +89,7 @@ when you are near it. Arthur Mattuck shared this story during a lecture.
 
 ---
 
-Non-farm payroll YoY increase was 4% for Nov. See [graph](2019/05/stats.md#nfp).
+Non-farm payroll YoY increase was 4% for Nov. See [graph](../../2019/05/stats.md#nfp).
 
 ---
 
@@ -147,7 +147,7 @@ action was around in the region..
 
 ---
 
-Military Deployment [stats](2019/05/confstats.md#gdtroop).
+Military Deployment [stats](../../2019/05/confstats.md#gdtroop).
 
 It's busy around Eastern Europe and Russia! Even Estonia is freaked
 out!
@@ -208,7 +208,7 @@ thing; ideas that benefit society is another.
 ---
 
 Xerox did some good innovation as a private company, though the lab
-was heavily, heavily funded by [gov](2021/10/entrepreneuel-state-mazzucato.md#corplabs).
+was heavily, heavily funded by [gov](../../2021/10/entrepreneuel-state-mazzucato.md#corplabs).
 But even this type of long-term, basic research fell out of favor at companies.
 There are cases where the founder is a researcher himself, other than
 that it is more of a hand-to-mouth existence now, whatever is "out there",
@@ -219,7 +219,7 @@ fire (which sadly, it does).
 ---
 
 Apple [and MS] stole the desktop GUI idea from Xerox Parc BTW as
-admitted to by [Bill Gates](2021/10/the-one-device-merchant.md#xerox).
+admitted to by [Bill Gates](../../2021/10/the-one-device-merchant.md#xerox).
 
 ---
 
