@@ -39,8 +39,8 @@ to Greece"
 
 ---
 
-Someone was caught using one of those prosthetic arm the other day,
-saw it on the news, in Europe too, oddly enough
+Someone was caught using one of those things the other day, saw it on
+the news, in Europe too, oddly enough
 
 ---
 
