@@ -45,6 +45,11 @@ the news
 
 ---
 
+Maybe anti-vaxxers are just scared of needles. Should docs offer
+anesthesia, knock them out, then apply the vax?
+
+---
+
 🤣 🤣 🤣 
 
 "Anti-vaxxer sells $1,500 prosthetic arm to escape getting vaccinated;
