@@ -77,7 +77,7 @@ Dennis Miller is on RT America?
 Looking at the [sunshine
 map](https://pbs.twimg.com/media/FCtre5sWEAgFFp9?format=png&name=small)
 for Africa again, the four countries with maximum sunshine are Libya,
-Egypt, Chad, Sudan. All had lots of unrest recently.. In the South
+Egypt, Chad, Sudan. All had lots of unrest recently.. In the South,
 Angola, Namibia, Tanzania.
 
 ---
