@@ -7,8 +7,7 @@ ambition"
 
 ---
 
-H2 View: "myFC: Micro hydrogen fuel cell’s significantly reduce the
-cost of warehouse robots"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our micro fuel cell technology creates a unique market position for industrial trucks and robots that requires relatively low power levels where we intend to target and address a major part of the market, says Michael Glantz CEO myFC. <a href="https://t.co/fnxDgxcKWv">https://t.co/fnxDgxcKWv</a></p>&mdash; myFC Power (@myfcpower) <a href="https://twitter.com/myfcpower/status/1442436886069452811?ref_src=twsrc%5Etfw">September 27, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
