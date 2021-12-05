@@ -43,8 +43,8 @@ anesthesia? Knock them out, apply the vax, done.
 
 ---
 
-Someone was caught using one of those things the other day, saw it on
-the news
+Someone was caught using one of those things, saw it on the news the
+other day
 
 ---
 
