@@ -45,8 +45,8 @@ the news
 
 ---
 
-Maybe anti-vaxxers are just scared of needles. Should docs offer
-anesthesia, knock them out, then apply the vax?
+Maybe some anti-vaxxers are just scared of needles. Should docs offer
+anesthesia? Knock them out, apply the vax, done.
 
 ---
 
