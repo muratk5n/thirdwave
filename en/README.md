@@ -20,8 +20,6 @@ tonne per day capacity by 2031"
 
 ---
 
-ARKK has a lot of retarded tech stocks in it
-
 CNBC: "Wood's main exchange-traded fund, which trades under ticker
 ARKK, is down more than 12% this week, on pace of its worst week since
 February"
