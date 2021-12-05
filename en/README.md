@@ -62,9 +62,9 @@ out the site; need to open up ur data.
 
 ---
 
-Interesting moves from UAE.. They were busted while allowing a CH base
-construction.. Mending fences w TR - which is fine. And buying a lot
-of mil hard from FR.
+UAE was busted while allowing a CH base construction.. Mending fences
+w TR - which is fine. And now buying a lot of mil hard from FR. Some
+changes over there.
 
 "UAE signs ‘historic’ deal to buy 80 French-made Rafale fighter jets"
 
