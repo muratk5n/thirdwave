@@ -38,13 +38,13 @@ to Greece"
 
 ---
 
-Someone was caught using one of those things the other day, saw it on
-the news
+Maybe some anti-vaxxers are just scared of needles. Should docs offer
+anesthesia? Knock them out, apply the vax, done.
 
 ---
 
-Maybe some anti-vaxxers are just scared of needles. Should docs offer
-anesthesia? Knock them out, apply the vax, done.
+Someone was caught using one of those things the other day, saw it on
+the news
 
 ---
 
