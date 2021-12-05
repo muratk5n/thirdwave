@@ -1,12 +1,5 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-"Massive protests in Serbia against Rio Tinto’s lithium mining
-ambition"
-
-[[-]](https://balkangreenenergynews.com/massive-protests-in-serbia-against-rio-tintos-lithium-mining-ambition-pollution/)
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our micro fuel cell technology creates a unique market position for industrial trucks and robots that requires relatively low power levels where we intend to target and address a major part of the market, says Michael Glantz CEO myFC. <a href="https://t.co/fnxDgxcKWv">https://t.co/fnxDgxcKWv</a></p>&mdash; myFC Power (@myfcpower) <a href="https://twitter.com/myfcpower/status/1442436886069452811?ref_src=twsrc%5Etfw">September 27, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
@@ -78,6 +71,13 @@ map](https://pbs.twimg.com/media/FCtre5sWEAgFFp9?format=png&name=small)
 for Africa again, the four countries with maximum sunshine are Libya,
 Egypt, Chad, Sudan. All had lots of unrest recently.. In the South,
 Angola, Namibia, Tanzania.
+
+---
+
+"Massive protests in Serbia against Rio Tinto’s lithium mining
+ambition"
+
+[[-]](https://balkangreenenergynews.com/massive-protests-in-serbia-against-rio-tintos-lithium-mining-ambition-pollution/)
 
 ---
 
