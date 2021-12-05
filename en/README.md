@@ -1,106 +1,83 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-"Lexus reveals new off-road vehicle powered by a hydrogen combustion engine"
+"Massive protests in Serbia against Rio Tinto’s lithium mining
+ambition"
+
+[[-]](https://balkangreenenergynews.com/massive-protests-in-serbia-against-rio-tintos-lithium-mining-ambition-pollution/)
 
 ---
 
-"Total Eren has started development of an 8GW green hydrogen
-megaproject in Chile. Revealed [in Dec 2], the large-scale green
-hydrogen project dubbed "H2 Magallanes" will utilise 10GW of wind
-installed capacity coupled with 8GW of electrolysis, a desalination
-plant, an ammonia plant, and port facilities"
+H2 View: "myFC: Micro hydrogen fuel cell’s significantly reduce the
+cost of warehouse robots"
 
 ---
 
-"Hungary will expand its hydrogen technologies to further decarbonise
-its rail transportation sector as part of a new agreement between
-Alstom and MOL".
+H2 View: "Norwegian-based Kongsberg Gruppen has successfully tested
+and verified a new hydrogen fuel cell powered drivetrain for ships and
+ferries"
 
 ---
 
-Reshare, 2015 \#honk \#bumpersticker
-
-[[-]](tweets/2015/P1040430.JPG)
-
----
-
-"@benphillips76
-
-This video. Wow. Asking Siri what the time is in Palestine"
-
-[[-]](https://twitter.com/benphillips76/status/1466337655348768772)
+H2 View: "BayoTech officially unveils 1,000kg per day hydrogen hub for
+New Mexico, US"
 
 ---
 
-Sotomayor agrees. [She said] 'If I had my way, I would make pro bono
-service a requirement"
+H2 View: "Australia to gain hydrogen production project with a 900
+tonne per day capacity by 2031"
 
 ---
 
-Privatization in law is probably one of the most harmful places to
-have it than anywhere else, being able to get "the best defense money
-can buy" can tip the balance considerably. Then both sides are not
-equal under the law. Nationalize the law firms! Either that, or
-introduce a "forced pro bono" where lawyers from private firms must
-contribute a portion of their time to the public for free.
+CNBC: "Wood's main exchange-traded fund, which trades under ticker
+ARKK, is down more than 12% this week, on pace of its worst week since
+February"
 
 ---
 
-I have [double](tweets/2011/double-facepalm.jpg),
-[triple](tweets/2017/triple_facepalm.jpg),
-[quadruple](tweets/2020/quadruple-facepalm.jpg), and
-[quintuple](tweets/2020/quint-facepalm.jpg). I might have to do
-a sextuple version soon.
-
-MSNBC: "A deep dive by ProPublica identified at least 18 billionaires
-and another 252 really-rich-but-not-quite-billionaires who got
-stimulus checks under the CARES Act of 2020. They didn’t cheat to get
-it — it just so happens that lots of really rich don’t actually
-receive much of what the rest of us rely on as income. In the case of
-each of the 18 billionaires, none took an income greater than $75,000,
-which entitled them to taxpayer funded relief money"
+Jane's Defense: "US Army donates [47] M1117 armoured security vehicles
+to Greece"
 
 ---
 
-Sad
-
-Voit: "In an article about What We Will Never Know, David Gross rather
-explicitly acknowledges that prospects for testing ideas about string
-theory are now an issue of 'faith', with no hope of turning into
-science any time soon"
+Someone was caught using one of these the other day, in Europe too,
+oddly enough
 
 ---
 
-Reshare on "AI", by F. Chollet
+🤣 🤣 🤣 
 
-[[-]](2016/08/deep-learning-general-ai.md)
+"Anti-vaxxer sells $1,500 prosthetic arm to escape getting vaccinated;
+post goes viral"
 
----
-
-Remember the "Icebucket Challenge"? 🤣 That was some dumbass shit
-
----
-
-The Norwegian mathematician Abel he apparently had a tragic life, he
-made many discoveries but in his lifetime, but they were not
-recognized. Now he is a national icon in Norway, there is a huge
-statue of him in Oslo: but the joke is, since noone knew what he
-looked like, they made the statue so big that you cannot see his face
-when you are near it. Arthur Mattuck shared this story during a lecture.
+[[-]](https://www.firstpost.com/world/anti-vaxxer-sells-1500-prosthetic-arm-to-escape-getting-vaccinated-post-goes-viral-10087731.html)
 
 ---
 
-Non-farm payroll YoY increase was 4% for Nov. See [graph](2019/05/stats.md#nfp).
+*Moonfall*, trailer looks promising.
 
 ---
 
-It was Johnson, Biden stole it. In an earlier Prez run the media
-caught him plagiarizing a speech by Neil Kinnoc, they killed his
-campaign for that, now he is doing it again, a poke in the eye. "See,
-here I do it again, and I am President". The media seems to be unfazed
-though.
+Kayrros claims they have satellite based methane monitoring? Checked
+out the site; need to open up ur data. 
 
-"Who is the originator of the phrase Build Back Better, Boris Johnson or Biden?"
+---
+
+Interesting moves from UAE.. They were busted while allowing a CH base
+construction.. Mending fences w TR - which is fine. And buying a lot
+of mil hard from FR.
+
+"UAE signs ‘historic’ deal to buy 80 French-made Rafale fighter jets"
+
+---
+
+Dennis Miller is on RT America? 
+
+---
+
+Looking at the [sunshine map](https://pbs.twimg.com/media/FCtre5sWEAgFFp9?format=png&name=small)
+for Africa again, the four countries with maximum sunshine are Libya,
+Egypt, Chad, Sudan. All had lots of unrest recently oddly enough.. In
+the South Angola, Namibia, Tanzania.
 
 ---
 
