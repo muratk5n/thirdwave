@@ -70,7 +70,7 @@ of mil hard from FR.
 
 ---
 
-Dennis Miller is on RT America? 
+Dennis Miller on RT America? 
 
 ---
 
