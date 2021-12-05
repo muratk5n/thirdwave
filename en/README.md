@@ -20,9 +20,18 @@ tonne per day capacity by 2031"
 
 ---
 
+ARKK has a lot of retarded tech stocks in it
+
 CNBC: "Wood's main exchange-traded fund, which trades under ticker
 ARKK, is down more than 12% this week, on pace of its worst week since
 February"
+
+---
+
+"Massive protests in Serbia against Rio Tinto’s lithium mining
+ambition"
+
+[[-]](https://balkangreenenergynews.com/massive-protests-in-serbia-against-rio-tintos-lithium-mining-ambition-pollution/)
 
 ---
 
@@ -71,13 +80,6 @@ map](https://pbs.twimg.com/media/FCtre5sWEAgFFp9?format=png&name=small)
 for Africa again, the four countries with maximum sunshine are Libya,
 Egypt, Chad, Sudan. All had lots of unrest recently.. In the South,
 Angola, Namibia, Tanzania.
-
----
-
-"Massive protests in Serbia against Rio Tinto’s lithium mining
-ambition"
-
-[[-]](https://balkangreenenergynews.com/massive-protests-in-serbia-against-rio-tintos-lithium-mining-ambition-pollution/)
 
 ---
 
