@@ -98,8 +98,7 @@ technology. By storing the solar energy, it can operate for just about
 ---
 
 CSP generated H2 from Africa, or Australia through pipelines cld
-supply the entire world with cheap energy. These shortages are just
-sad, result of decades of shortsightedness.
+supply the entire world with cheap energy. 
 
 ---
 
