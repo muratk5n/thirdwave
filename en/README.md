@@ -125,7 +125,7 @@ df.Duration.hist(bins=5)
 
 Empires and durability. Interesting paper. [Data](2021/12/empires.csv).
 
-[[-]](https://pdodds.w3.uvm.edu/files/papers/others/2011/arbesman2011a.pdf)
+[[PDF]](https://pdodds.w3.uvm.edu/files/papers/others/2011/arbesman2011a.pdf)
 
 ---
 
