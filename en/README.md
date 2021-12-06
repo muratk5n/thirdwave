@@ -55,7 +55,9 @@ Why fourth order? Has to do with the Taylor expansion probably..
 TE is supposed to mirror derivatives of the approximated func, and,
 for $\sin$,
 
-$\sin'(x)=\cos(x),\quad$ $\sin''(x)=-\sin(x),\quad$, $\sin'''(x)=-\cos(x),\quad$,
+$\sin^{\prime}(x)=\cos(x),\quad$
+$\sin^{\prime\prime}(x)=-\sin(x),\quad$,
+$\sin^{\prime\prime\prime}(x)=-\cos(x),\quad$,
 $\sin^{(4)}(x)=\sin(x)$.
 
 The fourth order derivative came back to the sine function itself.
