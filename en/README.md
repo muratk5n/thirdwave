@@ -14,7 +14,7 @@ the homeland more likely.
 ---
 
 I describe such people as sophisticated tourists.. knowing more abt
-the country than many others, but not of those countries.
+a country than many others, but not *of* them.
 
 ---
 
