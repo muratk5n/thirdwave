@@ -70,6 +70,8 @@ I was wondering about that; if electrolysis could be bypassed
 altogether, with the method below elec generation is not needed, plant
 goes from the Sun to H2 fuel, direct. Great news. Fantastic research.
 
+---
+
 "Synlight: Researchers expect that within 10 years, Concentrated Solar
 Power (CSP) can be used to split water to hydrogen chemically using
 the world’s desert sun... light is concentrated on a demonstration
