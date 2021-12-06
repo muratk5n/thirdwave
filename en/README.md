@@ -110,7 +110,7 @@ Replication of its duration histogram. It is exponential distribution.
 
 ```python
 import pandas as pd
-df = pd.read_csv('empires.csv',sep=';')
+df = pd.read_csv('2021/12/empires.csv',sep=';')
 df.Duration.hist(bins=5)
 plt.savefig('out.png')
 ```
