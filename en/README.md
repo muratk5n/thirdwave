@@ -103,9 +103,9 @@ sad, result of decades of shortsightedness.
 
 Ukraine is short of coal supplies, Russia cut off its exports and
 since invaded Donbass with coal mines, they are now controlled by
-Russia. And there is an NG crunch which pushes coal prices
-up.. Ukraine is desperately trying to import from US, Latin America
-while winter is approaching..
+Russia. Plus there is an NG crunch pushing coal prices up.. Ukraine is
+desperately trying to import from US, Latin America while winter is
+approaching..
 
 What a f-ing mess. 
 
