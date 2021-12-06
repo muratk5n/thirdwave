@@ -13,6 +13,11 @@ the homeland more likely.
 
 ---
 
+I describe such people as sophisticated tourists.. knowing more abt
+the country than many others, but not of those countries.
+
+---
+
 Culturally Dr Oz is straight-up American (he grew up in US), wout an
 iota of tigger in him. Immigrant parents cannot shape the cultural
 make-up of a child, nor vacation visits to the "homeland". "It takes a
