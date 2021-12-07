@@ -14,8 +14,8 @@ transfer of heat through space.  Formulated in 1859, Kirchhoff’s Law
 is central to modern astrophysics since it enables the study of the
 temperature of objects through the analysis of the photons (or light)
 they emit. It is through the analysis of such photons that scientists
-believe that “the temperature of the universe” has been measured.[2,3]
-The COBE satellite [4] has now set this temperature with great
+believe that “the temperature of the universe” has been measured
+[2,3]. The COBE satellite [4] has now set this temperature with great
 precision to 2.728±0.004 K (-455˚ Fahrenheit). The “temperature of the
 universe” is viewed as the central proof of the Big Bang.
 
@@ -49,7 +49,7 @@ overstated. It is imprudent to speak in terms of “blackbodies” without
 noting, as Kirchhoff did, the constraints of the enclosure. The
 underlying physical cause of thermal radiation must not be ignored and
 this includes the internal structure of matter. Yet Einstein’s [5]
-derivation of Planck’s Law,[6] though masterful, has lead some to
+derivation of Planck’s Law [6], though masterful, has lead some to
 ignore Kirchoff, thermal equilibrium and the physical realities of
 involved in thermal emission.
 
@@ -86,23 +86,23 @@ universe.
 In 1870, Lane published his discussion of the gaseous nature of the
 sun. [7] At the time, of course, one could have had little idea about
 whether or not the sun was really a gas. Nonetheless, Eddington [8,9]
-would build on the ideas of Lane.[7] Eddington believed that the laws
+would build on the ideas of Lane [7]. Eddington believed that the laws
 of physics and thermodynamics could be used to deduce the internal
-structure of the sun without any experimental verification.[8,9] In
+structure of the sun without any experimental verification [8,9]. In
 1926, he would speak hypothetically about being able to live on an
 isolated planet completely surrounded by clouds. In such a setting, he
 thought he would still be able to analyze the sun without any further
-knowledge than its mass, its size and the laws of physics.[8,9] It was
-in this spirit that Eddington set out to expand on Lane’s model of the
-sun. Assuming that Lane’s gaseous model was correct,[7] Eddington used
-simple deductive reasoning to set the internal temperature of the sun
-at 10,000,000 - 40,000,000 K.[8,9] Today, this remains the range for
-the internal temperature of the sun (~15,000,000 K). This accepted
+knowledge than its mass, its size and the laws of physics [8,9]. It
+was in this spirit that Eddington set out to expand on Lane’s model of
+the sun. Assuming that Lane’s gaseous model was correct [7], Eddington
+used simple deductive reasoning to set the internal temperature of the
+sun at 10,000,000 - 40,000,000 K [8,9]. Today, this remains the range
+for the internal temperature of the sun (~15,000,000 K). This accepted
 temperature is reinforced by man’s knowledge of the temperatures
 associated with thermonuclear energy.
 
 At the same time, Eddington also realized that a gaseous sun should
-collapse on itself.[8,9] That is, the great forces of gravity present
+collapse on itself [8,9]. That is, the great forces of gravity present
 on the sun should pull all of the mass of the sun into a much smaller
 sphere.  Like his predecessors, Eddington pondered how it was that the
 gaseous sun did not collapse. He solved the problem by invoking
@@ -114,7 +114,7 @@ light pressure (or radiation pressure) could be measured on earth. For
 instance, a thin foil could be caused to rotate when exposed to light.
 Therefore, light quanta clearly possessed momentum. It was this “light
 pressure” that Eddington would invoke to keep the gaseous sun from
-collapsing.[8,9] Consequently, Eddington postulated that the inner
+collapsing [8,9]. Consequently, Eddington postulated that the inner
 portion of the sun produced photons. He then deduced that these
 individual light quanta would sooner or later run into a gas ion or
 atom and propel it up against the forces of the sun’s gravity. He
@@ -127,7 +127,7 @@ While Eddington believed that he properly understood a key aspect of
 solar theory with the creation of the radiation zone, he also wanted
 to know exactly how many photons the sun could produce to support this
 hypothesis. At the time, he understood the consequences of Stefan’s
-Law of Emission.[10] Stefan’s Law states that the total amount of
+Law of Emission [10]. Stefan’s Law states that the total amount of
 photons (or light) emitted from a perfectly emitting object (a
 blackbody) is directly proportional to the fourth power of the
 object’s temperature ($\epsilon = σT^4$, where ε represents total
@@ -147,14 +147,14 @@ have a much lower total energy output.
 
 At the same time, Eddington recognized from the laws of thermodynamics
 that an object at millions of degrees should produce its photons at
-X-ray frequencies. This was preordained by Stefan’s Law of
-Emission,[10] Wien’s Law of Displacement [11] and Planck’s Blackbody
-Radiation Law.[6] However, Eddington also realized that the sun
-emitted very little X-rays. Indeed, most of the solar output of energy
-occurs in the so-called “visible region.” That is, the sun is
-producing its energy primarily at frequencies easily detected with the
-human eye. This energy output is emitted from the surface layer of the
-sun, called the “photosphere.”
+X-ray frequencies. This was preordained by Stefan’s Law of Emission
+[10], Wien’s Law of Displacement [11] and Planck’s Blackbody Radiation
+Law [6]. However, Eddington also realized that the sun emitted very
+little X-rays. Indeed, most of the solar output of energy occurs in
+the so-called “visible region.” That is, the sun is producing its
+energy primarily at frequencies easily detected with the human
+eye. This energy output is emitted from the surface layer of the sun,
+called the “photosphere.”
 
 In the mid-1880’s, it was Langley [12,13] who first recorded the
 output energy of the photosphere. He pointed a detector directly at
@@ -172,16 +172,16 @@ value of ~6,000 K remains the accepted temperature of the photosphere
 to this day.
 
 It can be said that Langley’s experiment was the beginning of a new
-age for astronomy.[12,13] For the first time, the emission spectrum
+age for astronomy [12,13]. For the first time, the emission spectrum
 (plot of the intensity of light as a function of frequency) of a star
 had been recorded. When Eddington was working on his theory of the
-gaseous sun,[8,9] he was well aware of Langley’s temperature for the
+gaseous sun [8,9], he was well aware of Langley’s temperature for the
 photosphere (~6,000 K). Yet, Eddington had deduced that the internal
 portion of the sun was at temperatures of millions of
 degrees. Furthermore, these photons should be produced at X-ray
 frequencies. In order to solve this dilemma, Eddington simply stated
 that when photons are produced in the radiation zone, they are
-initially produced at X-ray frequencies.[8,9] However, when these
+initially produced at X-ray frequencies [8,9]. However, when these
 photons are absorbed in the collisions associated with radiation
 pressure (see above), they slowly lose some of their energy. In this
 manner, after millions of years and many collisions, the photons
@@ -198,7 +198,7 @@ radiation zone had resulted in tremendous radiation pressure within
 the sun. For Eddington, this radiation pressure exactly balanced with
 the gravitational forces resulting in our current gaseous model of the
 sun. The gaseous sun had been prevented from collapsing and photons
-were now produced appropriately in the visible range.[8,9] Thus,
+were now produced appropriately in the visible range [8,9]. Thus,
 Eddington’s gaseous sun was at very high temperatures (millions of
 degrees). Yet, this extremely hot object, was surrounded by a very
 cool photosphere only a few thousand kilometers thick and at a
@@ -211,7 +211,7 @@ would be surrounded by a layer, on the order of skin deep, at ~6,000
 K. How can the photosphere be so cold relative to the inside of the
 sun? It is hard to conceive that such an object can exist. In
 addition, the primary means of heat transfer within the sun, as
-proposed by Eddington, remains radiative in nature.[8,9] That is,
+proposed by Eddington, remains radiative in nature [8,9]. That is,
 photons become the primary means of striving for internal thermal
 equilibrium in the sun. However, this idea is not in accordance with
 our knowledge of the behavior of objects. Rather, for all other
@@ -276,7 +276,7 @@ Kirchhoff for the simple reason that it is not in thermal equilibrium
 with an adiabatic enclosure. In fact, the sun is actually operating
 far out of equilibrium by every measure. As such, it is improper for
 Langley [11,12] to set a temperature of the photosphere at ~6,000 K
-based on Stefan,[10] Wien [11] and Planck.[6] Moreover, the
+based on Stefan [10], Wien [11] and Planck [6]. Moreover, the
 photosphere cannot be a low density gas. Gases simply cannot produce a
 Planckian shaped thermal emission profile like that seen in the
 visible light provided by the sun’s photosphere. Rather gases emit or
