@@ -20,6 +20,8 @@ remove the vestigial, extractive elements. We believe that flexible
 work—not flexible work during a pandemic, not flexible work under
 duress—can change your life"
 
+[[-]](https://www.theatlantic.com/ideas/archive/2021/12/how-care-less-about-work/620902/)
+
 ---
 
 "Never mind that in the three years that had passed since the
