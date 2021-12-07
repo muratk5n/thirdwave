@@ -70,15 +70,6 @@ def get_data_combined():
     full_grouped = full_grouped.set_index("Date")
     return full_grouped
 
-def get_data():
-    confirmed_df  = pd.read_csv('https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv')
-    deaths_df     = pd.read_csv('https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv')
-    recoveries_df = pd.read_csv('https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv')
-    confirmed_df = confirmed_df.drop(columns=['Province/State','Lat', 'Long'])
-    confirmed_df = confirmed_df.groupby('Country/Region').agg('sum')
-    confirmed_df = confirmed_df.T
-    return confirmed_df, deaths_df
-
 def mortality_rate():
 
     covid_confirmed = pd.read_csv('https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv')

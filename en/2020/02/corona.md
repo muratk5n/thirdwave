@@ -71,39 +71,6 @@ $$
 To find $R_0$ from data, we fit the differential equation system above
 to data, and using the found $\beta$ and $\gamma$ we calculate $R_0$.
 
-Daily Change
-
-<a name='daily'/>
-
-```python
-import pandas as pd, util
-df, deaths = util.get_data()
-```
-
-```python
-df['Germany +'] = df['Germany'].diff()
-df['UK +'] = df['United Kingdom'].diff()
-df['US +'] = df['US'].diff()
-pd.set_option('display.width', 2000)
-pd.set_option('display.max_columns', None)
-print (df[['Germany +','UK +','US +']].tail(10))
-```
-
-```text
-Country/Region  Germany +     UK +      US +
-8/25/21           13275.0  35618.0  148146.0
-8/26/21           11688.0  38117.0  161334.0
-8/27/21            1940.0  37854.0  322934.0
-8/28/21            8395.0  32142.0   53071.0
-8/29/21            6627.0  32992.0   38475.0
-8/30/21            6823.0  26285.0  258537.0
-8/31/21           18646.0  32167.0  140705.0
-9/1/21            14158.0  35577.0  198025.0
-9/2/21            13950.0  37982.0  153143.0
-9/3/21             2899.0  42355.0  300957.0
-```
-
-
 ### Graphs
 
 <a name='usdailydeath'/>
