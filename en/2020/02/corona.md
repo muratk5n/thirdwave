@@ -1,6 +1,6 @@
 # Coronavirus Data, Analysis
 
-# Mortality Rate
+### Mortality Rate
 
 Fatality / Cases ratio is around 2.2%, the cases is for people with
 symptoms. What would be the fatality rate for the broader population?
@@ -77,7 +77,7 @@ Daily Change
 
 ```python
 import pandas as pd, util
-df = util.get_data()
+df, deaths = util.get_data()
 ```
 
 ```python
@@ -135,6 +135,25 @@ Name: 1, dtype: float64
 ```
 
 ![](Rt-US.png)
+
+### Graphs
+
+<a name='usdailydeath'/>
+
+US Daily Deaths
+
+```python
+import util
+df = util.get_data_combined()
+df1 = df[(df['Country/Region']=='US')&(df.index > '2021-01-01')]
+df1['New deaths'] = df1['New deaths'].rolling(7).mean()
+df1['New deaths'].plot()
+plt.savefig('US-deaths.png')
+```
+
+![](US-deaths.png)
+
+
 
 
 Code
