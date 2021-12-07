@@ -65,7 +65,7 @@ about angering the United States"
 
 TDB: "The Deadly Cargo Inside MH370: How Exploding Batteries Could
 Explain the Mystery.. There were two pallets of lithium-ion batteries
-in the cargo"
+in [MH370] cargo"
 
 [[-]](https://www.thedailybeast.com/the-deadly-cargo-inside-mh370-how-exploding-batteries-explain-the-mystery)
 
