@@ -103,38 +103,6 @@ Country/Region  Germany +     UK +      US +
 9/3/21             2899.0  42355.0  300957.0
 ```
 
-<a name='Rt'/>
-
-Reproduction Rate $R_t$
-
-This calculation is based on [1]
-
-```python
-tau = 7 # length of time window
-si_mean = 6.3 # mean of serial interval
-si_std = 4.2 # standard deviation of serial interval
-conf = 0.95 # confidence level of estimated Reff
-c = df['US'].tail(200)
-R = util.Reff(c, si_mean, si_std, tau, conf)
-df2 = pd.DataFrame(R.T)
-print (df2[1].tail(5))
-# 0,2 indices 95% conf
-df2[1].tail(70).plot()
-plt.title('US')
-plt.ylim(1.0,1.1)
-plt.savefig('Rt-US.png')
-```
-
-```text
-195    1.025505
-196    1.025649
-197    1.025940
-198    1.026153
-199    1.026227
-Name: 1, dtype: float64
-```
-
-![](Rt-US.png)
 
 ### Graphs
 
@@ -143,7 +111,7 @@ Name: 1, dtype: float64
 US Daily Deaths, 7-Day Moving Average
 
 ```python
-import util
+import util, pandas as pd
 df = util.get_data_combined()
 df1 = df[(df['Country/Region']=='US')&(df.index > '2021-01-01')]
 df1['New deaths'] = df1['New deaths'].rolling(7).mean()
@@ -152,6 +120,44 @@ plt.savefig('US-deaths.png')
 ```
 
 ![](US-deaths.png)
+
+
+<a name='Rt'/>
+
+Reproduction Rate $R_t$
+
+This calculation is based on [1]
+
+```python
+import util, pandas as pd
+
+df1 = df[(df['Country/Region']=='US')&(df.index > '2021-01-01')]
+tau = 7 # length of time window
+si_mean = 6.3 # mean of serial interval
+si_std = 4.2 # standard deviation of serial interval
+conf = 0.95 # confidence level of estimated Reff
+c = df1['New cases']
+R = util.Reff(c, si_mean, si_std, tau, conf)
+df2 = pd.DataFrame(R.T)
+print (df2[1].tail(5))
+# 0,2 indices 95% conf
+df2[1].tail(70).plot()
+plt.title('US')
+plt.savefig('Rt-US.png')
+```
+
+```text
+334    1.232562
+335    1.406013
+336    1.421371
+337    1.339214
+338    1.261536
+Name: 1, dtype: float64
+```
+
+![](Rt-US.png)
+
+
 
 
 
