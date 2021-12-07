@@ -140,7 +140,7 @@ Name: 1, dtype: float64
 
 <a name='usdailydeath'/>
 
-US Daily Deaths
+US Daily Deaths, 7-Day Moving Average
 
 ```python
 import util
