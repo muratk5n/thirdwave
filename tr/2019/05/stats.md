@@ -13,8 +13,8 @@ cols = ['TURB6BLTT02STSAQ','RBTRBIS']
 df = data.DataReader(cols, 'fred', start, end)
 df = df.dropna()
 plt.figure(figsize=(10,6))
-ax1 = df.TURB6BLTT02STSAQ.plot(color='blue', grid=True, label='TR Current Account as % GDP')
-ax2 = df.RBTRBIS.plot(color='red', grid=True, secondary_y=True, label='TR FX')
+ax1 = df.TURB6BLTT02STSAQ.plot(color='blue', grid=True, label='TR Cari Hesap, GSYH % Olarak')
+ax2 = df.RBTRBIS.plot(color='red', grid=True, secondary_y=True, label='TR Kur')
 h1, l1 = ax1.get_legend_handles_labels()
 h2, l2 = ax2.get_legend_handles_labels()
 plt.legend(h1+h2, l1+l2, loc=2)
@@ -52,6 +52,8 @@ Date
 2021-12-08    13.68880
 Name: Adj Close, dtype: float64
 ```
+
+![](try-dollar.png)
 
 
 
