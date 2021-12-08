@@ -106,11 +106,8 @@ How deadly is Omicron? See below. Not as bad as October peak of Delta
 
 ---
 
-It's probably too late for US to go there; cannot be Finland. Then, at
-least flip classes around centrally recorded lectures.. For a slam
-dunk, follow my system.
-
----
+Either do Finland, or at least flip classes around centrally recorded
+lectures.. For a slam dunk, follow my system.
 
 "@IpseDixitCicero
 
