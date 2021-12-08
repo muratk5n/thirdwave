@@ -7,11 +7,13 @@ Ingredients (for three patties)
 * 1/4 Beetroot (grated)
 * 1/4 Onions (diced)
 * 1 teaspoon marmite
-* Spices: Garlic, Salt, Oregano, Mint (a pinch of each)
+* Spices: Garlic, Salt, Black Pepper, Red Pepper Flakes (a pinch of each)
 * Nutritional Yeast (1 Teaspoon)
 * Bread crumbs
 * 1 Tblspoon Olive Oil
 * 3 Tblspoon Musrooms (diced)
+* 2 Tblspoon Oatmeal
+* 1/2 Tblspoon Wheat Starch
 
 Soften onions and musrooms on a pan. Boil the rice, until its water
 evaporates. Add everything along with the beans, and olive oil in a
