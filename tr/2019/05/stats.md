@@ -57,4 +57,37 @@ Name: Adj Close, dtype: float64
 ![](try-dollar.png)
 
 
+Euro / TL
+
+```python
+import pandas as pd, datetime, time as timelib
+import urllib.request as urllib2, io
+end = datetime.datetime.now()
+start=datetime.datetime(2000, 1, 1)
+start = int(timelib.mktime(start.timetuple()))
+end = int(timelib.mktime(end.timetuple()))
+base_fin_url = "https://query1.finance.yahoo.com/v7/finance/download"
+url = base_fin_url + "/EURTRY=X?period1=" + str(start) + "&period2=" + str(end) + "&interval=1d&events=history&includeAdjustedClose=true"
+r = urllib2.urlopen(url).read()
+file = io.BytesIO(r)
+df = pd.read_csv(file,index_col='Date',parse_dates=True)['Adj Close']
+plt.plot(df.tail(1).index, df.tail(1),'ro')
+df.plot()
+print (df.tail(5))
+plt.savefig('try-eur.png')
+```
+
+```text
+Date
+2021-12-02    15.21780
+2021-12-03    15.47777
+2021-12-06    15.45506
+2021-12-07    15.55180
+2021-12-08    15.48611
+Name: Adj Close, dtype: float64
+```
+
+![](try-eur.png)
+
+
 
