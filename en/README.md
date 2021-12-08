@@ -45,9 +45,8 @@ contain more microplastic pollution than the oceans"
 
 ---
 
-Russia has better Pacific access than China. CH is blocked by a string
-of Japanese islands RU did not let another string of islands to be
-used against it.
+Russia has better Pacific access than China, not blocked by a string
+of Japanese islands. 
 
 Janes: "The Russian military has deployed... mobile coastal defence
 missile system in the Kuril Islands, a chain in the northwest Pacific
