@@ -96,7 +96,7 @@ star
 
 ---
 
-Excessive capitalism is killing the world
+Excessive capitalism is killing people
 
 <iframe width="340" src="https://www.youtube.com/embed/UjVYrdSNo-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
