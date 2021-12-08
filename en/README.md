@@ -38,7 +38,9 @@ and leadership in recent months"
 
 ---
 
-All the more reason to switch to contained, sealed-off, automated farming. 
+All the more reason to switch to contained, sealed-off, automated
+farming that uses no soil. We've been using this shit for thousands of
+years. Time for that equation to be overturned.
 
 The Guardian: "UN's Food and Agriculture Organization.says soils
 contain more microplastic pollution than the oceans"
