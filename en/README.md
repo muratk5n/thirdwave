@@ -1,75 +1,128 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-The Atlantic: "So what work is actually valuable? It’s incredibly
-unclear. Many knowledge workers, ourselves included, find themselves
-insecure in some capacity about the work they’re doing: how much they
-do, whom they do it for, its value, their value, how their work is
-rewarded and by whom. We respond to this confusion in pretty confusing
-ways. Some become deeply disillusioned or radicalized against the
-extractive, capitalist system that makes all of this so muddled. And
-others throw themselves into work, centering it as the defining
-element of their self-worth. In response to the existential crisis of
-personal value, they jump on the productivity treadmill, praying that
-in the process of constant work they might eventually stumble across
-purpose, dignity, and security... The treadmill rarely provides the
-kind of value and meaning that we hope it will. People are growing
-more certain in the notion that the status quo of American working
-life is untenable. But the pandemic has created an opportunity to
-reconsider and reimagine the structure of our lives and, perhaps,
-remove the vestigial, extractive elements. We believe that flexible
-work—not flexible work during a pandemic, not flexible work under
-duress—can change your life"
-
-[[-]](https://www.theatlantic.com/ideas/archive/2021/12/how-care-less-about-work/620902/)
 
 ---
 
-"Never mind that in the three years that had passed since the
-withdrawal [from the Iran nuclear deal], Trump’s strategy was, on its
-own terms, clearly not succeeding: Renewed and increased sanctions on
-Iran — dubbed “maximum pressure” — had not forced Tehran to capitulate
-and negotiate a better deal, nor had the economic damage to the
-Islamic Republic led to its overthrow by a restless public. To
-Israel’s possible surprise, moreover, Trump never followed through on
-threats to strike Iran directly despite growing nuclear violations and
-multiple attacks against Washington’s regional allies.
-
-Bucking the official line, some Israeli security officials, many of
-whom were heading into retirement, admitted that the policy was a
-failure"
-
-[[-]](https://newlinesmag.com/reportage/why-israel-sort-of-misses-the-iran-deal/)
+"BP looks to massive green hydrogen plant for heavy duty truck
+fueling.. The facility will be located at the HyGreen Teesside project
+in the United Kingdom"
 
 ---
 
-This is good
-
-"8 Women and 8 Men: Germany Gets Its First Gender-Equal Cabinet"
+Port of Seattle green hydrogen fuel project underway with DOE funding
 
 ---
 
-"US says it will send troops to eastern Europe if Russia invades Ukraine"
+Hydrogen fuel cell locomotive from Canadian Pacific to roll out before
+2022
 
 ---
 
-Some good info here on Russia/India relationship
-
-[[-]](https://youtu.be/exlRuebKgqA)
-
----
-
-NYT: "India and Russia Expand Defense Ties, Despite Prospect of
-U.S. Sanctions.. India’s purchase of a missile defense system signaled
-that it was more worried about an emboldened China at its borders than
-about angering the United States"
+"Woodside to develop a 180 tonne per day liquid hydrogen production
+facility in the US; signs new agreement with Hyzon Motors.. Australian
+energy producer Woodside has today (Dec 7) revealed plans to expand
+its hydrogen portfolio to the US as it secures land for a future
+liquid hydrogen production project and signs an agreement with Hyzon
+Motors"
 
 ---
 
-TDB: "The Deadly Cargo Inside MH370: How Exploding Batteries Could
-Explain the Mystery.. There were two pallets of lithium-ion batteries
-in [MH370] cargo"
+Russia’s Novatek set to supply blue hydrogen to RWE
 
-[[-]](https://www.thedailybeast.com/the-deadly-cargo-inside-mh370-how-exploding-batteries-explain-the-mystery)
+---
+
+TDB: "Democratic Exodus From Congress Could Supercharge the
+Squad.. [M]ore than a dozen House Democrats are headed for the
+exits this Congress, and the left flank couldn?t be more
+thrilled. Their hope is these races could add to the ranks of
+progressives in Congress, who?ve seen increased influence over policy
+and leadership in recent months"
+
+---
+
+F--k the soil.. Third Wave farming is the way
+
+"UN?s Food and Agriculture Organization.It says soils contain more
+microplastic pollution than the oceans"
+
+---
+
+Russia has better Pacific access than China. CH is blocked by a string
+of Japanese islands RU did not let another string of islands to be
+used against it.
+
+Janes: "The Russian military has deployed... mobile coastal defence
+missile system in the Kuril Islands, a chain in the northwest Pacific
+Ocean, the ownership of which is disputed by Japan and Russia"
+
+---
+
+Dam.. that revenue is in dire need of diversification.. which SA is
+working on, afaik
+
+"Oil forms 85% of SA's revenue"
+
+---
+
+
+A child could deduce the Sun is liquidic. We know the Sun's
+gravitational pull on the Earth, from that, and known Earth mass, we
+get Sun's mass. Sun's volume is easy, even optically we can determine
+a rough radious, from there get volume. Divide mass with volume you
+get density. That density my friend will be close to water's
+density. Good old H2O which is a liquid.
+
+---
+
+If gaseous sun hyphothesis goes, much of modern cosmology will go with it \#Robitaille
+
+[[-]](https://youtu.be/cHGT0DgvhNM?t=79)
+
+---
+
+It looks fluidic to me, especially see ones with closer shots, there
+are like waves in there and shit
+
+<img width="340" src="https://pbs.twimg.com/media/FF-5fySXIAIdOH4?format=jpg&name=medium"/>
+
+---
+
+@MailOnline
+
+Andrew McCarthy layered 150,000 individual pictures of the Sun to
+convey the intricate stunning detail of the solar system's largest
+star
+
+[[-]](https://www.dailymail.co.uk/sciencetech/article-10279601/Astrophotographer-snaps-clearest-photo-SUN.html)
+
+---
+
+Excessive capitalism is killing the world
+
+<iframe width="340" src="https://www.youtube.com/embed/UjVYrdSNo-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+How deadly is Omicron? See below. Not as bad as October peak of Delta
+(yet) but it doesn't look harmless either. As a rule, if cases in
+hospitals increase so will deaths.
+
+[[-]](2020/02/corona.md#usdailydeath)
+
+---
+
+It's probably too late for US to go there; cannot be Finland. Then, at
+least flip classes around centrally recorded lectures.. For a slam
+dunk, follow my system.
+
+---
+
+"@IpseDixitCicero
+
+In Finland private schools are illegal. The rich donate so their child
+and ALL children have better schools.  Every child has equal
+access. And, even better, Murdoch and his media are banned from
+entering the country. It can be done and I wish we would"
 
 ---
 
