@@ -1,4 +1,4 @@
-# Economics Stats
+# Ekonomik İstatistikler
 
 Cari acik ile kur iliskisi
 
