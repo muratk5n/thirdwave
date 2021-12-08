@@ -109,8 +109,8 @@ so far, but it doesn't look harmless either.
 
 ---
 
-Either do Finland, or at least flip classes around centrally recorded
-/ chosen lectures.. For a slam dunk, follow my system.
+Either do Finland, or, at least, flip classes around centrally
+recorded / chosen lectures.. For a slam dunk, follow my system.
 
 "@IpseDixitCicero
 
