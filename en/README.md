@@ -1,33 +1,31 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
+---
+
+H2 Fuel News: "BP looks to massive green hydrogen plant for heavy duty
+truck fueling.. The facility will be located at the HyGreen Teesside
+project in the United Kingdom"
 
 ---
 
-"BP looks to massive green hydrogen plant for heavy duty truck
-fueling.. The facility will be located at the HyGreen Teesside project
-in the United Kingdom"
+H2 Fuel News: "Port of Seattle green hydrogen fuel project underway with DOE funding"
 
 ---
 
-Port of Seattle green hydrogen fuel project underway with DOE funding
+H2 Fuel News: "Hydrogen fuel cell locomotive from Canadian Pacific to roll out before 2022"
 
 ---
 
-Hydrogen fuel cell locomotive from Canadian Pacific to roll out before
-2022
+H2-View: "Woodside to develop a 180 tonne per day liquid hydrogen
+production facility in the US; signs new agreement with Hyzon
+Motors.. Australian energy producer Woodside has today (Dec 7)
+revealed plans to expand its hydrogen portfolio to the US as it
+secures land for a future liquid hydrogen production project and signs
+an agreement with Hyzon Motors"
 
 ---
 
-"Woodside to develop a 180 tonne per day liquid hydrogen production
-facility in the US; signs new agreement with Hyzon Motors.. Australian
-energy producer Woodside has today (Dec 7) revealed plans to expand
-its hydrogen portfolio to the US as it secures land for a future
-liquid hydrogen production project and signs an agreement with Hyzon
-Motors"
-
----
-
-Russia’s Novatek set to supply blue hydrogen to RWE
+H2-View: "Russia’s Novatek set to supply blue hydrogen to RWE"
 
 ---
 
