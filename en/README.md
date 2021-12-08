@@ -77,7 +77,7 @@ If gaseous sun hyphothesis goes, much of modern cosmology will go with it \#Robi
 ---
 
 It looks fluidic to me, especially see ones with closer shots, there
-are like waves in there and shit
+are like waves and shit in there 
 
 <img width="340" src="https://pbs.twimg.com/media/FF-5fySXIAIdOH4?format=jpg&name=medium"/>
 
