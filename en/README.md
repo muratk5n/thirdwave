@@ -38,10 +38,10 @@ and leadership in recent months"
 
 ---
 
-F--k the soil.. Third Wave farming is the way
+All the more reason to switch to contained, sealed-off, automated farming. 
 
-"UN?s Food and Agriculture Organization.It says soils contain more
-microplastic pollution than the oceans"
+The Guardian: "UN's Food and Agriculture Organization.says soils
+contain more microplastic pollution than the oceans"
 
 ---
 
@@ -61,7 +61,6 @@ working on, afaik
 "Oil forms 85% of SA's revenue"
 
 ---
-
 
 A child could deduce the Sun is liquidic. We know the Sun's
 gravitational pull on the Earth, from that, and known Earth mass, we
