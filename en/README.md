@@ -70,7 +70,8 @@ old H2O -- a liquid.
 
 ---
 
-If gaseous sun hyphothesis goes, much of modern cosmology will go with it \#Robitaille
+If gaseous sun hyphothesis goes, much of modern astrophysics will go
+with it \#Robitaille
 
 [[-]](https://youtu.be/cHGT0DgvhNM?t=79)
 
