@@ -66,7 +66,7 @@ gravitational pull on the Earth, from that, and known Earth mass, we
 get Sun's mass. Sun's volume is easy, even optically we can determine
 a rough radius, from there get volume. Divide mass with volume you get
 density. That density my friend will be close to water's density. Good
-old H2O which is a liquid.
+old H2O -- a liquid.
 
 ---
 
