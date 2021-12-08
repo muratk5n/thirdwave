@@ -38,6 +38,7 @@ url = base_fin_url + "/USDTRY=X?period1=" + str(start) + "&period2=" + str(end) 
 r = urllib2.urlopen(url).read()
 file = io.BytesIO(r)
 df = pd.read_csv(file,index_col='Date',parse_dates=True)['Adj Close']
+plt.plot(df.tail(1).index, df.tail(1),'ro')
 df.plot()
 print (df.tail(5))
 plt.savefig('try-dollar.png')
@@ -49,7 +50,7 @@ Date
 2021-12-03    13.71710
 2021-12-06    13.63205
 2021-12-07    13.78315
-2021-12-08    13.68880
+2021-12-08    13.65980
 Name: Adj Close, dtype: float64
 ```
 
