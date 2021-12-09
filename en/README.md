@@ -27,11 +27,6 @@ Congrats.
 
 ---
 
-It is THAT GOOD. I can only speak to my modified version, but freaking
-awesome.
-
----
-
 🤣 Asshole had a foodgasm right there, eyeballs popping out of the
 sockets.. This vid is what I based my version on.
 
