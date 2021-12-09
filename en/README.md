@@ -46,7 +46,7 @@ I need buns... lots of buns..
 
 ---
 
-Yikes ran out.. need burger buns to test my new creation
+Yikes ran out the stuff.. need burger buns to test the new creation
 
 ---
 
