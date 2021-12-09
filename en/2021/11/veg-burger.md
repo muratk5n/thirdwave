@@ -8,7 +8,7 @@ Ingredients (for three patties)
 * 1/4 Onions (grated)
 * 1 teaspoon marmite
 * Spices: Garlic, Salt, Black Pepper, Red Pepper Flakes (a pinch of each)
-* Nutritional Yeast (1 Teaspoon)
+* Nutritional Yeast (2 Teaspoon)
 * Bread crumbs
 * 1 Tblspoon Olive Oil
 * 3 Tblspoon Musrooms (diced)
