@@ -1,123 +1,75 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
----
 
-H2 Fuel News: "BP looks to massive green hydrogen plant for heavy duty
-truck fueling.. The facility will be located at the HyGreen Teesside
-project in the United Kingdom"
-
----
-
-H2 Fuel News: "Port of Seattle green hydrogen fuel project underway with DOE funding"
+"Modular micro hydrogen fuel cells developed by myFC are set to take
+the market by storm.. [they have a] 75% higher per volume effect than
+previous fuel cells"
 
 ---
 
-H2 Fuel News: "Hydrogen fuel cell locomotive from Canadian Pacific to roll out before 2022"
+"Germany is set to gain hydrogen solutions for its railway network with
+Lhyfe supplying Deutsche Bahn with an electrolyser to fuel a
+hydrogen-powered train for the H2goesRail project"
 
 ---
 
-H2-View: "Woodside to develop a 180 tonne per day liquid hydrogen
-production facility in the US; signs new agreement with Hyzon
-Motors.. Australian energy producer Woodside has today (Dec 7)
-revealed plans to expand its hydrogen portfolio to the US as it
-secures land for a future liquid hydrogen production project and signs
-an agreement with Hyzon Motors"
+"The ‘first’ zero-emission hydrogen-powered airliner in the US is set
+to be operational by 2025"
 
 ---
 
-H2-View: "Russia’s Novatek set to supply blue hydrogen to RWE"
+Go to vacation and come back, Germany has a new freaking Chancellor!
+Congrats.
 
 ---
 
-TDB: "Democratic Exodus From Congress Could Supercharge the
-Squad.. [M]ore than a dozen House Democrats are headed for the
-exits this Congress, and the left flank couldn?t be more
-thrilled. Their hope is these races could add to the ranks of
-progressives in Congress, who?ve seen increased influence over policy
-and leadership in recent months"
+"Germany's Scholz Takes Power After Merkel's 16-Year Rule"
 
 ---
 
-All the more reason to switch to contained, sealed-off, automated
-farming that uses no soil. We've been using this shit for thousands of
-years. Time for that equation to be overturned.
-
-The Guardian: "UN's Food and Agriculture Organization.says soils
-contain more microplastic pollution than the oceans"
+It is THAT GOOD. I can only speak to my modified version, but freaking
+awesome.
 
 ---
 
-Russia has better Pacific access than China, not blocked by a string
-of Japanese islands. 
+🤣 Asshole had a foodgasm right there, eyeballs popping out of his
+sockets. This is what I based my version on.
 
-Janes: "The Russian military has deployed... mobile coastal defence
-missile system in the Kuril Islands, a chain in the northwest Pacific
-Ocean, the ownership of which is disputed by Japan and Russia"
+[[-]](https://youtu.be/l75ixsh-wjI?t=436)
 
 ---
 
-Dam.. that revenue is in dire need of diversification.. which SA is
-working on, afaik
+Latest veg burger recipe. Tested for two weeks, living on it is
+possible.  Tastes great, along with one multivitamin boost it has
+everything needed.
 
-"Oil forms 85% of SA's revenue"
-
----
-
-A child could deduce the Sun is liquidic. We know the Sun's
-gravitational pull on the Earth, from that, and known Earth mass, we
-get Sun's mass. Sun's volume is easy, even optically we can determine
-a rough radius, from there get volume. Divide mass with volume you get
-density. That density my friend will be close to water's density. Good
-old H2O -- a liquid.
+[[-]](2021/11/veg-burger.md)
 
 ---
 
-If gaseous sun hyphothesis goes, much of modern astrophysics will go
-with it \#Robitaille
-
-[[-]](https://youtu.be/cHGT0DgvhNM?t=79)
+I need buns... lots of buns..
 
 ---
 
-It looks fluidic to me, especially see ones with closer shots, there
-are like waves and shit in there 
-
-<img width="340" src="https://pbs.twimg.com/media/FF-5fySXIAIdOH4?format=jpg&name=medium"/>
+Yikes ran out.. need burger buns to test my new creation
 
 ---
 
-@MailOnline
+Oh yeaaa...
 
-Andrew McCarthy layered 150,000 individual pictures of the Sun to
-convey the intricate stunning detail of the solar system's largest
-star
-
-[[-]](https://www.dailymail.co.uk/sciencetech/article-10279601/Astrophotographer-snaps-clearest-photo-SUN.html)
+"Newsmax Admits Employees Must Be Vaxxed to Attend New York Holiday Party"
 
 ---
 
-Excessive capitalism is killing people
-
-<iframe width="340" src="https://www.youtube.com/embed/UjVYrdSNo-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+"Israel’s Bennett talks up trilateral security alliance with Greece, Cyprus"
 
 ---
 
-How deadly is Omicron? See below. Not as bad as October peak of Delta
-so far, but it doesn't look harmless either. 
-
-[[-]](2020/02/corona.md#usdailydeath)
+"Biden didn't accept Putin's 'red lines' on Ukraine"
 
 ---
 
-Either do Finland, or, at least, flip classes around centrally
-recorded / chosen lectures.. For a slam dunk, follow my system.
-
-"@IpseDixitCicero
-
-In Finland private schools are illegal. The rich donate so their child
-and ALL children have better schools.  Every child has equal
-access. And, even better, Murdoch and his media are banned from
-entering the country. It can be done and I wish we would"
+"Macron criticises ‘woke’ EU language rules"
 
 ---
 
