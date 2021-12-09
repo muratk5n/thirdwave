@@ -6,7 +6,7 @@ Ingredients (for three patties)
 * 1/3 Cup White Rice 
 * 1/4 Beetroot (grated)
 * 1/4 Onions (grated)
-* 1 teaspoon marmite
+* 1 Teaspoon marmite
 * Spices: Garlic, Salt, Black Pepper, Red Pepper Flakes (a pinch of each)
 * 2 Teaspoons of Nutritional Yeast 
 * Bread crumbs
