@@ -5,7 +5,7 @@ Ingredients (for three patties)
 * Parboiled Kidney/White Beans, ~200g in total
 * White Rice (1/2 Cup)
 * 1/4 Beetroot (grated)
-* 1/4 Onions (diced)
+* 1/4 Onions (grated)
 * 1 teaspoon marmite
 * Spices: Garlic, Salt, Black Pepper, Red Pepper Flakes (a pinch of each)
 * Nutritional Yeast (1 Teaspoon)
