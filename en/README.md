@@ -32,8 +32,8 @@ awesome.
 
 ---
 
-🤣 Asshole had a foodgasm right there, eyeballs popping out of his
-sockets. This is what I based my version on.
+🤣 Asshole had a foodgasm right there, eyeballs popping out of the
+sockets.. This vid is what I based my version on.
 
 [[-]](https://youtu.be/l75ixsh-wjI?t=436)
 
