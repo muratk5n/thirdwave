@@ -18,7 +18,7 @@ Ingredients (for three patties)
 Soften onions and musrooms on a pan. Boil the rice, until its water
 evaporates. Add everything along with the beans, and olive oil in a
 bowl. Either run it through blender or mash, mix by hand. Add
-breadcrums until the mix can holds it shape. Should be a meat like
+breadcrums until the mix holds it shape. Should be a meat like
 substance by now. Make patties, fry in oil on a pan. Serve in a bun
 along with garnish (pickles, lettuce).
 
