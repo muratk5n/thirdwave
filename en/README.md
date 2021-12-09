@@ -1,20 +1,20 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
 
-"Modular micro hydrogen fuel cells developed by myFC are set to take
-the market by storm.. [they have a] 75% higher per volume effect than
-previous fuel cells"
+H2 View: "Modular micro hydrogen fuel cells developed by myFC are set
+to take the market by storm.. [they have a] 75% higher per volume
+effect than previous fuel cells"
 
 ---
 
-"Germany is set to gain hydrogen solutions for its railway network with
-Lhyfe supplying Deutsche Bahn with an electrolyser to fuel a
-hydrogen-powered train for the H2goesRail project"
+H2 View: "Germany is set to gain hydrogen solutions for its railway
+network with Lhyfe supplying Deutsche Bahn with an electrolyser to
+fuel a hydrogen-powered train for the H2goesRail project"
 
 ---
 
-"The ‘first’ zero-emission hydrogen-powered airliner in the US is set
-to be operational by 2025"
+H2 View: "The ‘first’ zero-emission hydrogen-powered airliner in the
+US is set to be operational by 2025"
 
 ---
 
@@ -23,7 +23,7 @@ Congrats.
 
 ---
 
-"Germany's Scholz Takes Power After Merkel's 16-Year Rule"
+WSJ: "Germany's Scholz Takes Power After Merkel's 16-Year Rule"
 
 ---
 
