@@ -60,7 +60,7 @@ Omicron thread. Data so far "suggests milder illness".
 
 ---
 
-<img width="340"  src="https://pbs.twimg.com/media/FGJeII6WYAApacY?format=jpg&name=small"/>
+<img width="95%"  src="https://pbs.twimg.com/media/FGJeII6WYAApacY?format=jpg&name=small"/>
 
 ---
 
