@@ -88,8 +88,8 @@ Cha-Chang!
 ---
 
 Why flip the class around centrally recorded / chosen lectures? Bcz
-that way students wont have to contend with some average jagoo waving
-his/her arms around, failing to educate (aka the teacher).
+that way students wont have to contend with some average jagoff waving
+his arms around (aka the teacher), failing to educate.
 
 ---
 
