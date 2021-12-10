@@ -1,4 +1,72 @@
 
+
+---
+
+H2 View: "Modular micro hydrogen fuel cells developed by myFC are set
+to take the market by storm.. [they have a] 75% higher per volume
+effect than previous fuel cells"
+
+---
+
+H2 View: "Germany is set to gain hydrogen solutions for its railway
+network with Lhyfe supplying Deutsche Bahn with an electrolyser to
+fuel a hydrogen-powered train for the H2goesRail project"
+
+---
+
+H2 View: "The ‘first’ zero-emission hydrogen-powered airliner in the
+US is set to be operational by 2025"
+
+---
+
+Go to vacation and come back, Germany has a new freaking Chancellor!
+Congrats.
+
+---
+
+WSJ: "Germany's Scholz Takes Power After Merkel's 16-Year Rule"
+
+---
+
+🤣 Asshole had a foodgasm right there, eyeballs popping out of the
+sockets.. This vid is what I based my version on.
+
+[[-]](https://youtu.be/l75ixsh-wjI?t=436)
+
+---
+
+Latest veg burger recipe. Tested for two weeks, living on it is
+possible.  Tastes great, along with one multivitamin boost it has
+everything needed.
+
+[[-]](2021/11/veg-burger.md)
+
+---
+
+I need buns... lots of buns..
+
+---
+
+Yikes ran out the stuff.. need burger buns to test the new creation
+
+---
+
+Oh yeaaa...
+
+"Newsmax Admits Employees Must Be Vaxxed to Attend New York Holiday Party"
+
+---
+
+"Israel’s Bennett talks up trilateral security alliance with Greece, Cyprus"
+
+---
+
+"Biden didn't accept Putin's 'red lines' on Ukraine"
+
+---
+
+"Macron criticises ‘woke’ EU language rules"
+
 ---
 
 H2 Fuel News: "BP looks to massive green hydrogen plant for heavy duty

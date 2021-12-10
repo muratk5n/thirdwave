@@ -23,16 +23,15 @@ Genuine advances in this field are welcome, but watch out
 
 ---
 
-Ernie Chan
-
-There was an article in the New York Times a short while ago about a
-new hedge fund launched by Mr. Ray Kurzweil, a poineer in the field of
-artificial intelligence. (Thanks to my fellow blogger Yaser Anwar who
-pointed it out to me.) The stock picking decisions in this fund are
-supposed to be made by machines that "... can observe billions of
-market transactions to see patterns we could never see". While I am
-certainly a believer in algorithmic trading, I have become a skeptic
-when it comes to trading based on "aritificial intelligence".
+Ernie Chan: "There was an article in the New York Times a short while
+ago about a new hedge fund launched by Mr. Ray Kurzweil, a poineer in
+the field of artificial intelligence. (Thanks to my fellow blogger
+Yaser Anwar who pointed it out to me.) The stock picking decisions in
+this fund are supposed to be made by machines that "... can observe
+billions of market transactions to see patterns we could never
+see". While I am certainly a believer in algorithmic trading, I have
+become a skeptic when it comes to trading based on "aritificial
+intelligence".
 
 At the risk of over-simplification, we can characterize artificial
 intelligence as trying to fit past data points into a function with
@@ -77,7 +76,7 @@ these properties:
 Only when a trading model is philosophically constrained in such a
 manner do I dare to allow testing on my small, precious amount of
 historical data. Apparently, Occam’s razor works not only in science,
-but in finance as well.
+but in finance as well"
 
 Yes
 

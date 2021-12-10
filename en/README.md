@@ -1,70 +1,95 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-
-H2 View: "Modular micro hydrogen fuel cells developed by myFC are set
-to take the market by storm.. [they have a] 75% higher per volume
-effect than previous fuel cells"
-
----
-
-H2 View: "Germany is set to gain hydrogen solutions for its railway
-network with Lhyfe supplying Deutsche Bahn with an electrolyser to
-fuel a hydrogen-powered train for the H2goesRail project"
+H2 Fuel News: "Aramco and Gaussin partner up for hydrogen
+vehicles... The companies are aiming to create a manufacturing
+facility located in Saudi Arabia"
 
 ---
 
-H2 View: "The ‘first’ zero-emission hydrogen-powered airliner in the
-US is set to be operational by 2025"
+H2 Fuel News: "A consortium of energy firms and universities are
+investigating the use of spent oil and gas wells in the United Kingdom
+for carbon capture and storage sites from producing blue hydrogen"
 
 ---
 
-Go to vacation and come back, Germany has a new freaking Chancellor!
-Congrats.
+H2 View: "RWE, Kawasaki to develop ‘one of the world’s first’ 100%
+hydrogen-capable gas turbine plants for power generation in Germany"
 
 ---
 
-WSJ: "Germany's Scholz Takes Power After Merkel's 16-Year Rule"
+H2 View: "€14m AmmoRef project to explore more efficient ammonia
+cracking technology for industrial-scale hydrogen
+transport.. Committed to this project is Clariant Catalysts with the
+company now participating in the German TransHyDE"
 
 ---
 
-🤣 Asshole had a foodgasm right there, eyeballs popping out of the
-sockets.. This vid is what I based my version on.
+Gabagool
 
-[[-]](https://youtu.be/l75ixsh-wjI?t=436)
-
----
-
-Latest veg burger recipe. Tested for two weeks, living on it is
-possible.  Tastes great, along with one multivitamin boost it has
-everything needed.
-
-[[-]](2021/11/veg-burger.md)
+"Italy slaps Amazon with €1.1 billion fine for abusing dominant market position"
 
 ---
 
-I need buns... lots of buns..
+IMO the increase of conflict in Yemen had something to do with this stall
+
+"U.S. Moves to Tighten Iran Sanctions Enforcement as Nuclear Talks Stall"
 
 ---
 
-Yikes ran out the stuff.. need burger buns to test the new creation
+WSJ: "Uber Workers Would Be Classed as Employees Under EU Proposal"
 
 ---
 
-Oh yeaaa...
+"@BillyM2k
 
-"Newsmax Admits Employees Must Be Vaxxed to Attend New York Holiday Party"
+i still say it’s fantastically simple to prove you’re satoshi just
+move some of the bitcoin in your wallet in the public blockchain that
+literally everyone can see
 
----
-
-"Israel’s Bennett talks up trilateral security alliance with Greece, Cyprus"
-
----
-
-"Biden didn't accept Putin's 'red lines' on Ukraine"
+it’s ridiculous and pointless to claim you are satoshi otherwise"
 
 ---
 
-"Macron criticises ‘woke’ EU language rules"
+The court case supposedly 'proves' Craig Wright is Satoshi? No.
+
+---
+
+Omicron thread. Data so far "suggests milder illness".
+
+[[-]](https://mobile.twitter.com/jburnmurdoch/status/1468310562849308675)
+
+---
+
+<img width="340"  src="https://pbs.twimg.com/media/FGJeII6WYAApacY?format=jpg&name=small"/>
+
+---
+
+Links, \#value
+
+[One](http://kaushik316-blog.logdown.com/posts/1651749-stock-valuation-with-python),
+[Two](https://corporatefinanceinstitute.com/resources/knowledge/valuation/intrinsic-value-guide/)
+
+---
+
+Good vid on intrinsic value calculation. 
+
+[[-]](https://m.youtube.com/watch?v=l-T-Vyk2txc)
+
+---
+
+Cha-Chang!
+
+---
+
+"The hands.. are 90% of Spanish!" :) \#thecommunity 
+
+[[-]](https://youtu.be/vgYZMIU0IlM?t=55)
+
+---
+
+Why flip the class around centrally recorded / chosen lectures? Bcz
+that way students wont have to contend with some average jagoo waving
+his/her arms around, failing to educate (aka the teacher).
 
 ---
 
