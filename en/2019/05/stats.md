@@ -49,7 +49,7 @@ fig, axs = plt.subplots(2)
 
 df = data.DataReader(['GDPC1'], 'fred', start, end)
 df['gdpyoy'] = (df.GDPC1 - df.GDPC1.shift(4)) / df.GDPC1.shift(4) * 100.0
-df['gdpyoy'].plot(ax=axs[0],title="GDP and Inflation YoY")
+df['gdpyoy'].plot(ax=axs[0],title="GDP and Inflation (CPI YoY)")
 axs[0].axvspan('01-11-1973', '01-03-1975', color='y', alpha=0.5, lw=0)
 axs[0].axvspan('01-07-1981', '01-11-1982', color='y', alpha=0.5, lw=0)
 axs[0].axvspan('01-09-1990', '01-07-1991', color='y', alpha=0.5, lw=0)
@@ -58,14 +58,14 @@ axs[0].axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
 print (df[['gdpyoy']].tail(6))
 
 df = data.DataReader(['CPIAUCNS'], 'fred', start, end)
-df['infyoy'] = (df.CPIAUCNS - df.CPIAUCNS.shift(12)) / df.CPIAUCNS.shift(12) * 100.0
-df['infyoy'].plot(ax=axs[1])
+df['inf'] = (df.CPIAUCNS - df.CPIAUCNS.shift(12)) / df.CPIAUCNS.shift(12) * 100.0
+df['inf'].plot(ax=axs[1])
 axs[1].axvspan('01-11-1973', '01-03-1975', color='y', alpha=0.5, lw=0)
 axs[1].axvspan('01-07-1981', '01-11-1982', color='y', alpha=0.5, lw=0)
 axs[1].axvspan('01-09-1990', '01-07-1991', color='y', alpha=0.5, lw=0)
 axs[1].axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
 axs[1].axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
-print (df[['infyoy']].tail(6))
+print (df[['inf']].tail(6))
             
 plt.savefig('cycle.png')
 ```
@@ -79,14 +79,14 @@ DATE
 2021-01-01   0.546977
 2021-04-01  12.226677
 2021-07-01   4.895399
-              infyoy
+                 inf
 DATE                
-2021-05-01  4.992707
 2021-06-01  5.391451
 2021-07-01  5.365475
 2021-08-01  5.251272
 2021-09-01  5.390349
 2021-10-01  6.221869
+2021-11-01  6.809003
 ```
 
 <a name="infexp"/>

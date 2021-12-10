@@ -267,7 +267,7 @@ The Fed will buy Illinois state debt. Good news. Others should follow"
 
 ---
 
-Inflation YoY % change. Low.
+CPI YoY % change (inflation). Low.
 
 ```
 2020-04-01  0.329097

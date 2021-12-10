@@ -357,9 +357,9 @@ Psychologist and social worker Rajaa Abu Al-Ouf (as well as her children)"
 
 ---
 
-Inflation YoY increase for April 4.1%. Similar rise was seen during
-2008/9 crisis, it went down. The knee-jerk con "gov spending" angle is
-not fully thought through
+CPI YoY (inflation) increase for April 4.1%. Similar rise was seen
+during 2008/9 crisis, it went down. The knee-jerk con "gov spending"
+angle is not fully thought through
 
 <img width="340" src="https://pbs.twimg.com/media/E1sd_X4X0AAneWQ?format=png&name=small"/>
 
