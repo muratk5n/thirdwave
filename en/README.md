@@ -81,7 +81,7 @@ Cha-Chang!
 
 ---
 
-"The hands.. are 90% of Spanish" \#thecommunity 
+"The hands are 90% of Spanish" \#thecommunity 
 
 [[-]](https://youtu.be/vgYZMIU0IlM?t=55)
 
