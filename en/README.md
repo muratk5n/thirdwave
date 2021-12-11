@@ -1,95 +1,39 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-H2 Fuel News: "Aramco and Gaussin partner up for hydrogen
-vehicles... The companies are aiming to create a manufacturing
-facility located in Saudi Arabia"
+
+<iframe width="340" src="https://www.youtube.com/embed/xs4ypRAPc-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-H2 Fuel News: "A consortium of energy firms and universities are
-investigating the use of spent oil and gas wells in the United Kingdom
-for carbon capture and storage sites from producing blue hydrogen"
+I'd replace AI with crude intelligence, automation, ML in the title, rest is fine
+
+<iframe width="340" src="https://www.youtube.com/embed/lXuQKoQCtOc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-H2 View: "RWE, Kawasaki to develop ‘one of the world’s first’ 100%
-hydrogen-capable gas turbine plants for power generation in Germany"
+"@SDonziger
+
+BREAKING: Danbury prison officials released me this morning to serve
+the rest of my sentence (136 days) at home. Huge step forward"
 
 ---
 
-H2 View: "€14m AmmoRef project to explore more efficient ammonia
-cracking technology for industrial-scale hydrogen
-transport.. Committed to this project is Clariant Catalysts with the
-company now participating in the German TransHyDE"
+"@greg_price11
+
+I was just on my way to Subway and was confronted by two men holding
+chocolate chocolate chip ice cream cones. They recognized me from
+Twitter, punched me in the face, and said "this is Build Back Better
+country."
+
+I'm crying and vomiting everywhere"
 
 ---
 
-Gabagool
+"@eikeklapper
 
-"Italy slaps Amazon with €1.1 billion fine for abusing dominant market position"
+Transition of power. German style"
 
----
-
-IMO the increase of conflict in Yemen had something to do with this stall
-
-"U.S. Moves to Tighten Iran Sanctions Enforcement as Nuclear Talks Stall"
-
----
-
-WSJ: "Uber Workers Would Be Classed as Employees Under EU Proposal"
-
----
-
-"@BillyM2k
-
-i still say it’s fantastically simple to prove you’re satoshi just
-move some of the bitcoin in your wallet in the public blockchain that
-literally everyone can see
-
-it’s ridiculous and pointless to claim you are satoshi otherwise"
-
----
-
-The court case supposedly 'proves' Craig Wright is Satoshi? No.
-
----
-
-Omicron thread. Data so far "suggests milder illness".
-
-[[-]](https://mobile.twitter.com/jburnmurdoch/status/1468310562849308675)
-
----
-
-<img width="95%"  src="https://pbs.twimg.com/media/FGJeII6WYAApacY?format=jpg&name=small"/>
-
----
-
-Links, \#value
-
-[One](http://kaushik316-blog.logdown.com/posts/1651749-stock-valuation-with-python),
-[Two](https://corporatefinanceinstitute.com/resources/knowledge/valuation/intrinsic-value-guide/)
-
----
-
-Good vid on intrinsic value calculation. 
-
-[[-]](https://m.youtube.com/watch?v=l-T-Vyk2txc)
-
----
-
-Cha-Chang!
-
----
-
-"The hands are 90% of Spanish" \#thecommunity 
-
-[[-]](https://youtu.be/vgYZMIU0IlM?t=55)
-
----
-
-Why flip the class around centrally recorded / chosen lectures? Bcz
-that way students wont have to contend with some average jagoff waving
-his arms around (aka the teacher), failing to educate.
+[[-]](https://twitter.com/eikeklapper/status/1469315734786527232)
 
 ---
 
