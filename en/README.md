@@ -69,7 +69,7 @@ November Inflation 6.8%.
 
 ---
 
-Never Tango with an Eskimo. That is a song.
+Never Tango with an Eskimo. That was a song.
 
 ---
 
