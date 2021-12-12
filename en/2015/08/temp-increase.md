@@ -256,6 +256,12 @@ Name: ppm, dtype: float64
 
 <a name='carbonyoy'/>
 
+![](carbon.png)
+
+Longer time span, since the 50s
+
+![](carbon2.png)
+
 Monthly Carbon YoY Increase
 
 ```python
@@ -281,16 +287,6 @@ Name: ppmyoy, dtype: float64
 0.44348788319687965
 ```
 
-
-
-![](carbon.png)
-
-Longer time span, since the 50s
-
-![](carbon2.png)
-
-<a name='carbontemp'/>
-
 <a name='methane'/>
 
 ## Methane Levels In the the Atmosphere
@@ -312,6 +308,8 @@ plt.savefig('methane.png')
 ```
 
 ![](methane.png)
+
+<a name='carbontemp'/>
 
 ## Carbon and Temperature
 
