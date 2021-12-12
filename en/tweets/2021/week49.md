@@ -228,11 +228,11 @@ H2-View: "Russia’s Novatek set to supply blue hydrogen to RWE"
 ---
 
 TDB: "Democratic Exodus From Congress Could Supercharge the
-Squad.. [M]ore than a dozen House Democrats are headed for the
-exits this Congress, and the left flank couldn?t be more
-thrilled. Their hope is these races could add to the ranks of
-progressives in Congress, who?ve seen increased influence over policy
-and leadership in recent months"
+Squad.. [M]ore than a dozen House Democrats are headed for the exits
+this Congress, and the left flank couldn't be more thrilled. Their
+hope is these races could add to the ranks of progressives in
+Congress, who've seen increased influence over policy and leadership
+in recent months"
 
 ---
 
@@ -364,10 +364,6 @@ failure"
 This is good
 
 "8 Women and 8 Men: Germany Gets Its First Gender-Equal Cabinet"
-
----
-
-"US says it will send troops to eastern Europe if Russia invades Ukraine"
 
 ---
 
