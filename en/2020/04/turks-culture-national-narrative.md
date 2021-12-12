@@ -57,6 +57,8 @@ relations the particular word's standing wasn't that hot either, the
 ethnic label could even be considered a slur, no more than 100 years
 ago.
 
+<a name='estagfurullah'/>
+
 Best account of this comes from an officer in the Ottoman army. At the
 last days of the empire the new nationalism was circulating among the
 cadres, and he wanted to check how much the regular soldiers knew of

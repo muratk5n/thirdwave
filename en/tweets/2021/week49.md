@@ -1,4 +1,42 @@
 
+
+
+<iframe width="340" src="https://www.youtube.com/embed/xs4ypRAPc-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+I'd replace AI with crude intelligence, automation, ML in the title, rest is fine
+
+<iframe width="340" src="https://www.youtube.com/embed/lXuQKoQCtOc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+"@SDonziger
+
+BREAKING: Danbury prison officials released me this morning to serve
+the rest of my sentence (136 days) at home. Huge step forward"
+
+---
+
+"@greg_price11
+
+I was just on my way to Subway and was confronted by two men holding
+chocolate chocolate chip ice cream cones. They recognized me from
+Twitter, punched me in the face, and said "this is Build Back Better
+country."
+
+I'm crying and vomiting everywhere"
+
+---
+
+"@eikeklapper
+
+Transition of power. German style"
+
+[[-]](https://twitter.com/eikeklapper/status/1469315734786527232)
+
+---
+
 H2 Fuel News: "Aramco and Gaussin partner up for hydrogen
 vehicles... The companies are aiming to create a manufacturing
 facility located in Saudi Arabia"

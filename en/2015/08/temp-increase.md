@@ -233,7 +233,7 @@ df = pd.read_csv(file,comment='#',header=None,sep='\s*')
 ```
 
 ```python
-df['Date'] = df.apply(lambda x: str(x[0]) + "-" + str(x[1]) + "-1", axis=1)
+df['Date'] = df.apply(lambda x: str(int(x[0])) + "-" + str(int(x[1])) + "-1", axis=1)
 df['Date'] = pd.to_datetime(df.Date)
 df['ppm'] = df[3]
 df = df.set_index('Date')
@@ -246,13 +246,42 @@ plt.savefig('carbon2.png')
 
 ```text
 Date
-2021-05-01    419.13
-2021-06-01    418.94
 2021-07-01    416.96
 2021-08-01    414.47
 2021-09-01    413.30
+2021-10-01    413.93
+2021-11-01    415.01
 Name: ppm, dtype: float64
 ```
+
+<a name='carbonyoy'/>
+
+Monthly Carbon YoY Increase
+
+```python
+df['ppmyoy'] = (df.ppm - df.ppm.shift(12)) / df.ppm.shift(12) * 100.0
+print (df['ppmyoy'].dropna().head(4))
+print (df['ppmyoy'].tail(4))
+print (df['ppmyoy'].dropna().mean())
+```
+
+```text
+Date
+1959-03-01    0.300919
+1959-04-01    0.085053
+1959-05-01    0.245662
+1959-06-01    0.286849
+Name: ppmyoy, dtype: float64
+Date
+2021-08-01    0.409419
+2021-09-01    0.432543
+2021-10-01    0.588078
+2021-11-01    0.457494
+Name: ppmyoy, dtype: float64
+0.44348788319687965
+```
+
+
 
 ![](carbon.png)
 
