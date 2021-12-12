@@ -254,13 +254,13 @@ Date
 Name: ppm, dtype: float64
 ```
 
-<a name='carbonyoy'/>
-
 ![](carbon.png)
 
 Longer time span, since the 50s
 
 ![](carbon2.png)
+
+<a name='carbonyoy'/>
 
 Monthly Carbon YoY Increase
 
