@@ -2,9 +2,10 @@
 
 Energy *can* become a non-issue. Absolutely. Yes we can.
 
-"Hydrogen has always been the answer to our energy needs. However, the
-configuration of global politics post WW1, which was won by oil and
-coal supremacy, was always going to be a tough nut to crack...
+H2 View: "Hydrogen has always been the answer to our energy
+needs. However, the configuration of global politics post WW1, which
+was won by oil and coal supremacy, was always going to be a tough nut
+to crack...
 
 With hydrogen, we can now take energy “off the table” as a source of
 so many historic ills, and we can do it far more rapidly than has been
