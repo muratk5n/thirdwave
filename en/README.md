@@ -73,8 +73,8 @@ Never Tango with an Eskimo. That was a song.
 
 ---
 
-I see.. Iglos have good insulation, the rest is body heat. That's
-it. They are not the problem.
+I see.. Iglos have good insulation, the rest is body heat. They are
+not the problem.
 
 ---
 
