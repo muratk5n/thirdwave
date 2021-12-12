@@ -1,6 +1,6 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-Energy *can* become a non-issue. Yes.
+Energy *can* become a non-issue. Absolutely. Yes we can.
 
 "Hydrogen has always been the answer to our energy needs. However, the
 configuration of global politics post WW1, which was won by oil and
