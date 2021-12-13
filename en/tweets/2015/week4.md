@@ -237,19 +237,6 @@ No objections
 
 ---
 
-News
-
-In May 2014, Baidu, the Chinese search giant, has hired Andrew Ng, a
-leading Machine Learning and Deep Learning expert (and co-founder of
-Coursera) to head their new AI Lab in Silicon Valley, setting up an AI
-& Deep Learning race with Google (which hired Geoff Hinton) and
-Facebook (which hired Yann LeCun to head Facebook AI Lab [who is a
-student of Hinton]).
-
-The race is on
-
----
-
 Ernest Davis (following a link posted by Yann LeCun)
 
 [Criticizing the book Superintelligence by Bostrom] assumption [is]

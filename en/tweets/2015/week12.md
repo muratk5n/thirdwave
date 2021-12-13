@@ -361,49 +361,6 @@ between the said pattern and the said "increase".
 
 ---
 
-Question
-
-Why do you keep suggesting an INTJ for prez? Do they know everything?
-
-No 
-
-But this is the right temparament for the job. This is a decisive
-Rational who is not afraid to change their mind, and is "creative
-enough" to make a difference. Are they always right? Hell no. Look at
-B. Gates talking about evil AI and so forth.. he clearly doesn't know
-what the f is going on in this space, not in detail, but, (and this is
-key) the action an INTJ would take for that view would not be insane,
-it would be something tangible, reasonable, and once they realize they
-are wrong, they can course correct immediately. BG again, he wrote a
-book about the future (1995), a year later Internet became huge which
-was not predicted in the book. M$ course corrected.
-
-Everyone knows the Keynes quote about "changing his mind when
-necessary"; this is a good advice overall of course, and more pressing
-/ in line with NTJ's strategy of thinking/acting. They grok the idea,
-the tech in a way that is sufficient for them to commit to an
-action. The idea could be wrong (more often than not, it is
-right). Rinse and repeat.
-
-Grokking tech at a sufficient level is a helpful skill. I heard Gates
-talk about a mathematical method called MCMC once [geek] which allows
-statisticians to sample from complex distributions, and calculate
-multidimensional integrals [/geek]. He says he learned about it from
-researchers in biology (during his philantrophy work I am sure), most
-likely in the context of calculating the trajectory of outbreaks so
-forth. The level at which he talked about it was pretty detailed, for
-an outsider to the field at least.. So he hears about this method, and
-sort of got the "geek vibe" of that, internalized it, and now he knows
-a problem area, the general things the method can solve, and at a
-level at which he can talk about it to others, use it to make
-decisions, etc. Being an INTJ, if he wanted to he could dig in and
-grok the shit completely, but this level is fine too, and very
-useful. The INTJ does this really, really well. This combo happens to
-be an immensely useful skill IMO for a tech CEO, any CEO, and now, the
-Presidency. Cuz in this day and age, tech drives all major social
-change right?
-
----
 
 Link
 
@@ -469,7 +426,11 @@ It somewhat ties into this
 
 Link
 
-Andrew Ng builds artificial intelligence systems for a living. He taught AI at Stanford, built AI at Google, and then moved to the Chinese search engine giant, Baidu, to continue his work at the forefront of applying artificial intelligence to real-world problems [..]. 
+Andrew Ng builds artificial intelligence systems for a living. He
+taught AI at Stanford, built AI at Google, and then moved to the
+Chinese search engine giant, Baidu, to continue his work at the
+forefront of applying artificial intelligence to real-world problems
+[..].
 
 “For those of us shipping AI technology, working to build these 
 technologies now,” he told me, wearily, yesterday, “I don’t see any 

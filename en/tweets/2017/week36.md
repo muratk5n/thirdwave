@@ -183,47 +183,6 @@ creating excessive risk.
 
 ---
 
-Yoshua Bengio (an AI expert)
-
-"AI is a technology that naturally lends itself to a winner take all,"
-Bengio said. "The country and company that dominates the technology
-will gain more power with time. More data and a larger customer base
-gives you an advantage that is hard to dislodge. Scientists want to go
-to the best places. The company with the best research labs will
-attract the best talent. It becomes a concentration of wealth and
-power."
-
-Hmmm
-
-Now this is something you can take little more seriously than all that
-Skynet bullshit.
-
-But he is also wrong. To understand why, you need to have the view of
-an outside AI practitioner - not of the insider-academic,
-someone.. well like me. The techniques, the tools bleed out, no, gush
-out of these companies like nothing else you've ever seen. In fact
-they (especially Google) make sure they share the techniques because
-they want developer mindshare, they want ppl who will use their tools,
-ergo their cloud services, etc., they want to prove they are "da shit"
-in AI, so they can entice more researchers toward themselves. Awesome,
-for me. Can they get all great researchers? All developers? No.
-
-That leaves the so-called "data advantage". Data can make a
-difference, better data = better models [geek] especially for
-non-linear models as all the good ones are [/geek] But there are too
-many hands involved to make anything good or neferious happen, plus
-these companies follow the law (much better than the government it
-turned out after the NSA revelations) ensuring things cannot go
-awry. People talk shit about Facebook, but we know for fact that their
-rules against any violation is draconian. You use FB databases to
-check out that ex-girlfriend, or do any other weirdo shit, your ass is
-grass. That same day.
-
-So I see about zero signs,for any bad smells in tech today. There's
-bunch of bunk, it's probably "old media" trying to create an illlusion
-of SV because their scared senseless abt losing their media share.
-
----
 
 Question
 

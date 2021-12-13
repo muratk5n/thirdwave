@@ -245,17 +245,6 @@ Scary stuff.. This is how senseless second-wave wars had become. The military/in
 
 Europe did not arrive at its present state by accident, some bitter lessons were learned the hard way, as seen above. That is also why victors of WWII, such as Russia, Britain, US have such a hard time today coming to terms with wars and/or military adventures.
 
-
-
-
-
-
-
-
-
-
-
-
 Oren Etzioni
 
 It’s time to intelligently discuss artificial intelligence. I am an AI
@@ -279,7 +268,7 @@ own, such as analyzing large data sets, or keeping up to date on
 medical research. Like calculators, AI tools require human input and
 human directions.
 
-Now, autonomous computer programs exist and some are scary — such as
+Now, autonomous computer programs exist and some are scary - such as
 viruses or cyber-weapons. But they are not intelligent. And most
 intelligent software is highly specialized; the program that can beat
 humans in narrow tasks, such as playing Jeopardy, has zero
