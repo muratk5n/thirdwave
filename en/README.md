@@ -1,12 +1,8 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-<iframe width="340" src="https://www.youtube.com/embed/fQV6LtGcrXw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-"Airbus continues to explore hydrogen technologies in the aviation
-industry and will accelerate its research with a new Spanish-based
-innovation subsidiary"
+H2 View: "Airbus continues to explore hydrogen technologies in the
+aviation industry and will accelerate its research with a new
+Spanish-based innovation subsidiary"
 
 ---
 
@@ -23,8 +19,12 @@ Intelligence, Surveillance and Reconnaissance’ capabilities"
 
 ---
 
+<iframe width="340" src="https://www.youtube.com/embed/fQV6LtGcrXw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
 Shitlib libsplaining can get tiresome. Some of these ppl are more
-cultish than even the most ardent religious followers.
+cultish than even the most ardent religious followers. 
 
 "@davies_will
 
@@ -61,7 +61,6 @@ Name: net, dtype: float64
 <img width="340" src="https://pbs.twimg.com/media/FGT6gY9XEAURRa9?format=png&name=small"/>
 
 ---
-
 
 But the ideology, its first inception, quickly [fell out of favor](2020/04/turks-culture-national-narrative.md#estagfurullah),
 stayed that way until well into the 20th century when Kemal and his
