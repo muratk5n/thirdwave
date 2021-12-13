@@ -62,12 +62,13 @@ Name: net, dtype: float64
 
 ---
 
-But the ideology, its first inception, quickly [fell out of favor](2020/04/turks-culture-national-narrative.md#estagfurullah),
+But imo the ideology, its first inception, quickly [fell out of
+favor](2020/04/turks-culture-national-narrative.md#estagfurullah),
 stayed that way until well into the 20th century when Kemal and his
 cohorts utilized, resurrected the same escapist fantasy to handle a
 similar trauma. The empire was gone, and the new nation needed
-something "different". The founders served up the nomadic Turk from faraway
-lands, just like Nazis had dreamt up the Aryan from Atlantis.
+something "different". The founders served up the nomadic Turk from
+faraway lands, just like Nazis had dreamt up the Aryan from Atlantis.
 
 ---
 
