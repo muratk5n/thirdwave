@@ -23,9 +23,6 @@ Intelligence, Surveillance and Reconnaissance’ capabilities"
 
 ---
 
-Shitlib libsplaining can get tiresome. Some of these ppl are more
-cultish than even the most ardent religious followers. 
-
 "@davies_will
 
 My timeline is currently a selection of the world’s most vaccinated
