@@ -90,7 +90,7 @@
 
 [WTWRFN (Foragers, Farmers)](10/wtwrfn-foragers-farmers.md)
 
-[1/3](11/13.md)
+[McKinsey on Automation](11/13.md)
 
 [The Bottom 60%](11/dalio.md)
 

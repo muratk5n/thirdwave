@@ -24,6 +24,8 @@
 
 [Agriculture, Slavery](07/agro-slavery.md)
 
+[AI Collated Comments](07/ai-comments.md)
+
 [AI](07/ai.md)
 
 [Ancient](07/ancient.md)

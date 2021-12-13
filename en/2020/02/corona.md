@@ -88,7 +88,6 @@ plt.savefig('US-deaths.png')
 
 ![](US-deaths.png)
 
-
 <a name='Rt'/>
 
 Reproduction Rate $R_t$
@@ -114,11 +113,11 @@ plt.savefig('Rt-US.png')
 ```
 
 ```text
-334    1.232562
-335    1.406013
-336    1.421371
-337    1.339214
-338    1.261536
+340    1.159938
+341    1.096621
+342    1.094055
+343    1.061337
+344    1.031886
 Name: 1, dtype: float64
 ```
 

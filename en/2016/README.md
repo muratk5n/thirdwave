@@ -78,8 +78,6 @@
 
 [Vertical Underwater Farming](09/vertical-underwater-farming.md)
 
-[AI for Diagnosis](10/ai-for-diagnosis.md)
-
 [Low Rates](10/low-rates.md)
 
 [More on Brexit](10/more-on-brexit.md)
