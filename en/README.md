@@ -12,10 +12,10 @@ hydrogen in Australia to meet South Korea’s future energy needs"
 
 ---
 
-'Project AETHER will acquire ‘Stratospheric Uncrewed Air Systems’ that
-can stay airborne for months and be rapidly manoeuvred anywhere in the
-world to provide ‘Ultra-Persistent Wide Area Communications with
-Intelligence, Surveillance and Reconnaissance’ capabilities"
+'[UK] Project AETHER will acquire ‘Stratospheric Uncrewed Air Systems’
+that can stay airborne for months and be rapidly manoeuvred anywhere
+in the world to provide ‘Ultra-Persistent Wide Area Communications
+with Intelligence, Surveillance and Reconnaissance’ capabilities"
 
 ---
 
