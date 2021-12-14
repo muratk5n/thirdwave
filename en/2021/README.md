@@ -24,6 +24,8 @@
 
 [Private Government](03/private-government.md)
 
+[Ship of Fools](03/ship-of-fools.md)
+
 [Unrivaled](03/unrivaled-beckley.md)
 
 [The Suez Aftermath Ike Didn't Like](04/suez-aftermath-ike-didnt-like.md)
