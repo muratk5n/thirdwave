@@ -1,20 +1,10 @@
+# NOAA Recent Reanalysis Data
 
 
 mayfield kentucky
 36.728334068830755, -88.7063255602711
 
 https://psl.noaa.gov/cgi-bin/db_search/DBListFiles.pl?did=195&tid=96617&vid=1263
-
-```python
-print (1380/4)
-```
-
-```text
-345.0
-```
-
-Bcz Dec 10 was the last
-
 
 ```python
 import netCDF4
@@ -131,3 +121,13 @@ print (uwnd[2,21,110])
 ```text
 -7.1999984
 ```
+
+```python
+print (1380/4)
+```
+
+```text
+345.0
+```
+
+Bcz Dec 10 was the last
