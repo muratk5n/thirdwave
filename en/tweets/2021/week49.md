@@ -170,7 +170,7 @@ Latest veg burger recipe. Tested for two weeks, living on it is
 possible.  Tastes great, along with one multivitamin boost it has
 everything needed.
 
-[[-]](2021/11/veg-burger.md)
+[[-]](../../2021/11/veg-burger.md)
 
 ---
 
@@ -303,7 +303,7 @@ Excessive capitalism is killing people
 How deadly is Omicron? See below. Not as bad as October peak of Delta
 so far, but it doesn't look harmless either. 
 
-[[-]](2020/02/corona.md#usdailydeath)
+[[-]](../../2020/02/corona.md#usdailydeath)
 
 ---
 
