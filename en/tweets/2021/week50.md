@@ -61,7 +61,7 @@ Name: net, dtype: float64
 ---
 
 But imo the ideology, its first inception, quickly [fell out of
-favor](2020/04/turks-culture-national-narrative.md#estagfurullah),
+favor](../../2020/04/turks-culture-national-narrative.md#estagfurullah),
 stayed that way until well into the 20th century when Kemal and his
 cohorts utilized, resurrected the same escapist fantasy to handle a
 similar trauma. The empire was gone, and the new nation needed
@@ -121,7 +121,7 @@ strong hydrogen refuelling structure by 2025"
 November atmo carbon levels - 0.45% YoY increase. Average increase for
 every month since the 60s has been 0.44%. On track toward hell.
 
-[[-]](2015/08/temp-increase.md#carbonyoy)
+[[-]](../../2015/08/temp-increase.md#carbonyoy)
 
 ---
 
