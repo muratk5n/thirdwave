@@ -282,8 +282,7 @@ nocturnally.. Yikes
 
 ---
 
-Dude watches the moves of big dogs, checked companies shorted by
-Burry, true, their P/FCF ratios are fukked.
+Dude watches the moves of big dogs, true, their P/FCF ratios are fukked.
 
 P/FCF = Market Cap / Free Cash Flow. It is a measure of whether market
 cap is justified by the cash flow a company generates. Checking Shopify,
@@ -326,12 +325,7 @@ In comparison MSFT, GOOG have lower P/FCF, can generate cash.
 
 ---
 
-They buy 'bright shiny object' tech, the kind favored by libcucks.
-
----
-
-*The Big Short* guy, M. Burry, bets against ARK (their ETF with heavy
-tech content)
+ARKK buys 'bright shiny object' tech, the kind favored by libcucks.
 
 ---
 
