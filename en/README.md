@@ -77,8 +77,9 @@ roughly 25,55 Gigawatt hours..
 
 ---
 
-Integrated Kinetic Energy calculation for hurricanes. NOAA arch does
-not have the most recent events, but Katrina, Sandy dates are there
+Integrated Kinetic Energy calculation for hurricanes. The particular
+NOAA archive I used does not have the most recent events, but Katrina,
+Sandy dates are there.
 
 [[-]](2019/05/ike.md)
 
