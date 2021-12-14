@@ -7,11 +7,6 @@ amacıyla soyadını değiştireceğini duyurdu. Baykal, yeni soyadının
 olarak bilinecek. Bu haber üzerine Devlet Bahçeli'ye aynı jesti yapıp
 yapmayacağı soruldu. Bahçeli eğer bunu yaparsa "Devlet Kürt" sözünün
 yanlış anlamalara yolaçabileceğini söyleyerek şöyle dedi:
-"devletimizin garizmasını görumak için gelimeleri diggatlı gullanmak
+"devletimizin garizmasını gorumak için gelimeleri diggatlı gullanmak
 lazımdır".
-
-
-
-
-
 
