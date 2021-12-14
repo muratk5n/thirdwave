@@ -20,7 +20,7 @@ by rises, there'll be return to trend.
 
 But these days ironically Berksh has a lot of cash in hand; cant find
 good companies to invest in or cant find any good company that is not
-overvalued? 🤔  Probably the latter. 
+overvalued? 🤔  Probably the latter. Wilshire Index is through the roof.
 
 ---
 
