@@ -9,9 +9,9 @@ $$
 $v$ is volume, $\rho$ is density. This is the familiar kinetic energy
 calculation, a variation of $1/2 m V^2$. Mass is of the pocket of air,
 a grid cell of 1 meter high. Since numerically 1m height, and air
-density of 1 kg/m3 is assumed, only area calculation is sufficient
-since times 1 wld give volume times 1 wld give weight. Wind speed from
-NOAA comes in $u,v$ components, $u^2+v^2$ will give square
+density of 1 kg/m3 is assumed, jut the cell area calculation is
+sufficient since times 1 wld give volume times 1 wld give weight. Wind
+speed from NOAA comes in $u,v$ components, $u^2+v^2$ will give square
 speed. Multiply by 0.5 and sum all cells, this gives total
 energy. Wind speed is retrieved from a NOAA for each grid cell.
 
