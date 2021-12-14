@@ -7,14 +7,27 @@ parameters on some neural net like a monkey.
 
 ---
 
+*Finch* is supposed to take place in 2030 -- 9 years away.. And the
+roboticist guy had strong AI tech? Sci wouldn't have advanced that
+far.. not with the current neural, "deep" approaches. He'd have the
+dog and some bizarre chatbot that spits out random facts from
+Encyclopedia Brittanica. I'd rather have all published novels be read
+aloud to me through Text-to-Speech, or have re-runs of MASH.
+
+---
+
+*I Am Mother*, *Finch*, sad movies.. Where's da hope man?
+
+---
+
 WB/Munger joint interviews are hilarious. Munger keeps calling other
 approaches "twaddles".
 
 ---
 
-Buy/hold is not always boring. Can still do quickies, bcz you know
+Buy/hold is not always boring. Can still do "quickies", bcz you know
 something others dont, the company is good.. Falls will be accompanied
-by rises, there'll be return to trend. 
+by rises, there'll be return to trend.
 
 ---
 
@@ -40,19 +53,6 @@ invest in, it is not an investment vehicle.
 *Apex*, *Fortress*.. so many cheesy WIllis movies in
 succession.. Trying to stumble upon the next *Pulp Fiction*? Not
 working
-
----
-
-*Finch* is supposed to take place in 2030 -- 9 years away.. And the
-roboticist guy had strong AI tech? Sci wouldn't have advanced that
-far.. not with the current neural, "deep" approaches. He'd have the
-dog and some bizarre chatbot that spits out random facts from
-Encyclopedia Brittanica. I'd rather have all published novels be read
-aloud to me through Text-to-Speech, or have re-runs of MASH.
-
----
-
-*I Am Mother*, *Finch*, sad movies.. Where's da hope man?
 
 ---
 
