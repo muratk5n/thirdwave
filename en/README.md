@@ -41,11 +41,11 @@ overvalued? 🤔  Probably the latter. Wilshire Index is through the roof.
 ---
 
 So Buffett / Munger approach is not timing the market, buy stock if
-value looks good, dont wait for "correction". 60/40, 70/30 doesnt
-matter (as in stocks/bonds), it's all about companies. Diversification
-doesn't matter which in their method is a sign of ignorance. There is
-no "cash position", u end up with it if cant find a good company to
-invest in, it is not an investment vehicle.
+value looks good. 60/40, 70/30 doesnt matter (as in stocks/bonds),
+it's all about companies. Diversification doesn't matter which in
+their method is a sign of ignorance. There is no "cash position", u
+end up with it if cant find a good company to invest in, it is not an
+investment vehicle.
 
 ---
 

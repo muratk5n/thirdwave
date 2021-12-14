@@ -488,8 +488,6 @@ Number 1 motor vehicle parts supplier in the world.
 
 ---
 
-Number 2 motor vehicle parts supplier in the world.
-
 "Hydrogen fuel cells to compete with diesel truck engines by 2030: Cummins"
 
 ---
