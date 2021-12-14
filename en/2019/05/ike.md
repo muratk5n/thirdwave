@@ -57,10 +57,10 @@ print (ike.ike(lat,lon,day,month,year,hour), 'TJ')
 
 References
 
-[1] https://www.wired.com/2012/11/what-is-the-true-measure-of-a-storm/
+[1] [Wired](https://www.wired.com/2012/11/what-is-the-true-measure-of-a-storm/)
 
-[2] https://www.washingtonpost.com/nation/2021/08/31/how-ida-katrina-compare-wind-fingerprints
+[2] [WaPo](https://www.washingtonpost.com/nation/2021/08/31/how-ida-katrina-compare-wind-fingerprints)
 
-[3] https://www.researchgate.net/publication/252765649_Tropical_Cyclone_Destructive_Potential_by_Integrated_Kinetic_Energy
+[3] Powell, Reinhold [Paper](https://www.researchgate.net/publication/252765649_Tropical_Cyclone_Destructive_Potential_by_Integrated_Kinetic_Energy)
 
-[4] https://unidata.github.io/python-training/workshop/MetPy_Case_Study/metpy-case-study/
+[4] [NOAA Python Code](https://unidata.github.io/python-training/workshop/MetPy_Case_Study/metpy-case-study/)
