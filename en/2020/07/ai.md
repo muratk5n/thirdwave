@@ -6,3 +6,5 @@
 
 [Is Deep Learning, AI Overhyped?](../../2016/08/deep-learning-general-ai.md)
 
+[AI Collated Comments](ai-comments.md)
+
