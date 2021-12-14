@@ -6,6 +6,9 @@ from siphon.catalog import TDSCatalog
 import mygeo
 
 def ike(lat,lon,day,month,year,hour):
+
+    # form grid which has NE, and SW cornes brg kilometers away
+    # from center lat,lon
     brg = 1000
     upper_right = mygeo.to_bearing(lat,lon,np.deg2rad(45),brg)
     lower_left = mygeo.to_bearing(lat,lon,np.deg2rad(225),brg)
