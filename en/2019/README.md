@@ -28,7 +28,7 @@
 
 [Get On With It](05/geton.md)
 
-[Hurricane, Integrated Kinetic Energy](05/ike.md)
+[Hurricanes, Integrated Kinetic Energy](05/ike.md)
 
 [Natural Disasters](05/natdisaster.md)
 
