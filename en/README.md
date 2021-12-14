@@ -72,8 +72,8 @@ stretched from Honduras to Canada".
 
 ---
 
-100, 200 Terrajoules, these are insane numbers, translates into 20,45
-Gigawatt hours..
+100, 200 Terrajoules, these are insane numbers, translates into
+roughly 25,55 Gigawatt hours..
 
 ---
 

@@ -43,13 +43,6 @@ Jacobin: "The Billionaire Space Race Is the Ultimate Symbol of Capitalist Decade
 
 ---
 
-Finite Vol approaches 👎. I hear accuracy sucks too.
-
-"FV/FD spatial discretizations constitute non-Galerkin weak form
-decisions leading to nonlinear schemes via heuristic arguments"
-
----
-
 IMO Singapore is looking to become a major H2 exporter itself. The H2
 deals it makes are way more than its own needs.. It is looking to pull
 as much to it as possible create the flow, then when this thing goes
