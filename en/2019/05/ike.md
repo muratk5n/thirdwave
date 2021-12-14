@@ -1,4 +1,4 @@
-# Hurricane, Integrated Kinetic Energy
+# Hurricanes, Integrated Kinetic Energy
 
 IKE is calculated as
 
