@@ -1,13 +1,5 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-
-Sorta remember the cold.. I was in the hood
-
-"12/3/1993 storm, named the Storm of the Century, hit an area so large
-stretched from Honduras to Canada". 
-
----
-
 WB/Munger joint interviews are hilarious. Munger keeps calling other
 approaches "twaddles".
 
@@ -38,8 +30,9 @@ invest in, it is not an investment vehicle.
  
 ---
 
-*Apex*, *Fortress*.. so many cheesy WIllis movies in succession.. Is
-Trying to stumble upon the next *Pulp Fiction*, not working
+*Apex*, *Fortress*.. so many cheesy WIllis movies in
+succession.. Trying to stumble upon the next *Pulp Fiction*? Not
+working
 
 ---
 
@@ -59,6 +52,13 @@ aloud to me through Text-to-Speech, or have re-runs of MASH.
 Nitin Sawhney - Bengali Song \#music
 
 [[-]](https://youtu.be/PJkOQXIq_r8)
+
+---
+
+Sorta remember the cold.. I was in the hood
+
+"12/3/1993 storm, named the Storm of the Century, hit an area so large
+stretched from Honduras to Canada". 
 
 ---
 
