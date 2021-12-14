@@ -57,16 +57,3 @@ etc. None of these variations are entirely on par with Montignac's
 teaching, it's not about eliminating grains entirely - there are good
 grains. Montignac does not say "eat proteins all the time" either
 which a lot of Atkins followers seem to do.
-
-
-
-
-
-
-
-
-
-
-
-
-
