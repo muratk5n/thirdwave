@@ -1,5 +1,12 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
+Sad. Prof is saying all her grad students these days are just tuning
+parameters on some neural net like a monkey.
+
+[[-]](2020/07/ai-comments.md#mitchell)
+
+---
+
 WB/Munger joint interviews are hilarious. Munger keeps calling other
 approaches "twaddles".
 
