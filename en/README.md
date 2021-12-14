@@ -2,8 +2,8 @@
 
 Sad. Prof is saying all her grad students these days are just tuning
 parameters on some neural net like a monkey. We can take comfort in
-the fact that none of this stuff will cause dystopia. One less
-item to worry about.
+the fact these ppl wont bring about GAI dystopia. One less item to
+worry about.
 
 
 [[-]](2020/07/ai-comments.md#mitchell)
