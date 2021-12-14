@@ -62,7 +62,7 @@ Nitin Sawhney - Bengali Song \#music
 
 ---
 
-Sorta remember the cold.. I was in the hood
+Sorta remember the funky weather.. I was in the hood
 
 "12/3/1993 storm, named the Storm of the Century, hit an area so large
 stretched from Honduras to Canada". 
