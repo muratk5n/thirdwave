@@ -24,7 +24,7 @@ aloud to me through Text-to-Speech, or have re-runs of MASH.
 ---
 
 WB/Munger joint interviews are hilarious. Munger keeps calling other
-approaches "twaddles".
+approaches "twaddle".
 
 ---
 
