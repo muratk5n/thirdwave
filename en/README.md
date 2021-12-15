@@ -51,15 +51,6 @@ This can be problematic for BJ
 
 ---
 
-Good.. But still no reason to forgo vax. 
-
-"Pfizer says its COVID pill near 90% effective in clinical
-trials... The Pfizer pills are taken with the older antiviral
-ritonavir every 12 hours for five days beginning shortly after the
-onset of symptoms"
-
----
-
 Al Jazeera: "How left-wing forces are regaining ground in Latin
 America.. As progressives win key elections from Honduras to Peru,
 analysts point to changing regional dynamics"
