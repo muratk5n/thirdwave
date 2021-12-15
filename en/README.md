@@ -8,8 +8,8 @@ This can be problematic for BJ
 
 That thing has nearly the capacity of a Nordstream 2 pipeline which is
 built to supply *a country*. Imagine 10, 20 of such plants.. How can
-that not solve the energy problem? For far-flung shipment, generate
-ammonia send to Japan. Generate H2 pipe it to Europe.
+that not solve our energy problem? For far-flung shipments, generate
+ammonia. Or H2, pipe it to whereever.
 
 ---
 
@@ -32,8 +32,8 @@ square feet of space in California"
 
 ---
 
-H2 Fuel News: "Green hydrogen can be made for under $1 per kilogram [by
-2030], says Wood Mackenzie"
+H2 Fuel News: "Green hydrogen can be made for under $1 per kilogram
+[by 2030], says [energy consultancy W. Mackenzie]"
 
 ---
 
