@@ -4,23 +4,21 @@ The theory of slimming based on the low-calorie approach is without
 doubt the greatest scientific “fudge”of the twentieth century...
 
 Up to then I had led a fairly conventional social and professional
-lifestyle and my tendency to put on weight had seemed to level
-off. My”overeating”, if indeed I overate at all, was only very
-occasional and tended to occur in a family context. When you come, as
-I do, from South West France, you have been brought up to value
-gastronomic cuisine as part of your cultural heritage. I had long
-since given up sugar, or at least, sugar in coffee. I never ate
-potatoes, claiming to be allergic to them, and, apart from wine, very
-rarely touched alcohol.  My excess stone had been acquired over a
-period of ten years, quite gradually. When I looked around me I felt
-no more overweight than the average; in fact, it seemed to me I
-compared quite well with other people.
+lifestyle and my tendency to put on weight had seemed to level off. My
+”overeating”, if indeed I overate at all, was only very occasional and
+tended to occur in a family context. When you come, as I do, from
+South West France, you have been brought up to value gastronomic
+cuisine as part of your cultural heritage. I had long since given up
+sugar, or at least, sugar in coffee. I never ate potatoes, claiming to
+be allergic to them, and, apart from wine, very rarely touched
+alcohol... When I looked around me I felt no more overweight than the
+average..
 
 Then, overnight, my professional circumstances changed. I was
 appointed to a new post with an international dimension at the
 European headquarters of the American multinational company I worked
-for... But three months after taking up my new post I had put on no
-less than a further stone..
+for... But three months after taking up my new post I had put on
+[weight]..
 
 Like everyone else, I started off by trying to apply the usual
 weight-loss rules and, like everyone else, I became thoroughly
@@ -48,21 +46,42 @@ only temporarily. This is, in fact, where Newburgh and Johnson went
 wrong, in that they collected their data over much too short a period
 of time...
 
+Insulin
+
+Whether or not we accumulate body fat is directly linked to the
+secretion of insulin, so we will first take a brief look at
+this. Insulin is a hormone secreted by the pancreas 6 and it plays a
+vital role in human metabolism...
+
 When, for example, you eat a piece of bread with butter, [.. the]
 carbohydrate is broken down into glucose; the blood glucose level
-rises; the pancreas secretes insulin. However, there is a fundamental
-difference. In this example the lipid is converted into a fatty acid
-in the blood.
+rises; the pancreas secretes insulin. However.. the lipid is converted
+into a fatty acid in the blood...
 
-Let us take as our example a piece of cheese, eaten on its own. The
-metabolism of a lipid on its own involves no release of glucose into
-the bloodstream. Consequently, the pancreas secretes virtually no
-insulin. In the absence of insulin, the energy cannot be stored away
-as fat.
+[But] a piece of cheese, eaten on its own..  involves no release of
+glucose into the bloodstream. Consequently, the pancreas secretes
+virtually no insulin. In the absence of insulin, the energy cannot be
+stored away as fat.
 
-[What to avoid]
+[What to Avoid]
+
+Sugar
+
+Sugar is the hands-down, outright winner in the bad carbohydrates
+stakes. It should always carry the skull and crossbones symbol, like
+other lethal substances... for tens of thousands of years human beings
+did not have such a thing, and they were none the worse for that. Just
+the opposite, in fact.  Less than 200 years ago, sugar was still a
+luxury hardly ever available to most of the population...
+
+[T]he body does not need to get sugar from outside (this is just what
+upsets the blood glucose level). It can produce its own sugar in the
+form of glucose when it needs it, and this is far and away what it
+prefers to do.
 
 <a name='potato'/>
+
+Starchy Foods
 
 Most [starchy] foods are bad carbohydrates and some need to be
 completely excluded from your diet. The number one starchy food is the
@@ -79,6 +98,8 @@ Treatise on the cultivation and uses of the potato, that people in
 France finally came round to eating it.  The famine that was raging at
 the time was an additional incentive. It was later discovered that the
 potato is rich in vitamins and minerals, though it loses most of these
-when it is cooked and, especially, when it is peeled.
+when it is cooked and, especially, when it is peeled. Recent tests
+have shown that the potato releases a very large quantity of glucose
+into the system.
 
 
