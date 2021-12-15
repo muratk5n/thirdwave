@@ -1,87 +1,116 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-Sad. Prof is saying all her grad students these days are just tuning
-parameters on some neural net like a monkey. We can take comfort in
-the fact these ppl wont bring about GAI dystopia. One less item to
-worry about.
+This can be problematic for BJ
 
-
-[[-]](2020/07/ai-comments.md#mitchell)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Just remembering how strictly friends and family in England followed covid rules last year.<br>Two friends had to fight to spend time with their dying parents<br>Lots of elderly and isolated people spent Xmas alone. Had some horrid conversations with very sad but rule-abiding people. <a href="https://t.co/xhFXJT9jJw">https://t.co/xhFXJT9jJw</a></p>&mdash; Catherine Nicholson (@ACatInParis) <a href="https://twitter.com/ACatInParis/status/1470882636348461059?ref_src=twsrc%5Etfw">December 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-*Finch* is supposed to take place in 2030 -- 9 years away.. And the
-roboticist guy had strong AI tech? Sci wouldn't have advanced that
-far.. not with the current neural, "deep" approaches. He'd have the
-dog and some bizarre chatbot that spits out random facts from
-Encyclopedia Brittanica. I'd rather have all published novels be read
-aloud to me through Text-to-Speech, or have re-runs of MASH.
+That thing has nearly the capacity of a Nordstream 2 pipeline which is
+built to supply *a country*. Imagine 10, 20 of such plants.. How can
+that not solve the energy problem? For far-flung shipment, generate
+ammonia send to Japan. Generate H2 pipe it to Europe.
 
 ---
 
-*I Am Mother*, *Finch*, highly dystopic stuff
+Massive. Lots going on in UAE 
+
+"Dubai Sees World’s Largest Single-Site 700 MW Concentrated Solar Project"
 
 ---
 
-WB/Munger joint interviews are hilarious. Munger keeps calling other
-approaches "twaddle".
+Losing top talent.. \#China \#HK
+
+"Nearly 90,000 \#HongKongers have applied for resettlement in Britain
+under a new visa scheme offering a pathway to citizenship"
 
 ---
 
-Buy/hold is not always boring. Can still do "quickies", bcz you know
-something others dont, the company is good.. Falls will be accompanied
-by rises, there'll be return to trend.
+H2 Fuel News: "Cummins to build H2 fuel cell innovation center in West
+Sacramento.. The engine manufacturer will be working with 18,000
+square feet of space in California"
 
 ---
 
-But these days ironically Berksh has a lot of cash in hand; cant find
-good companies to invest in or cant find any good company that is not
-overvalued? 🤔  Probably the latter. Wilshire Index is through the roof.
+H2 Fuel News: "Green hydrogen can be made for under $1 per kilogram [by
+2030], says Wood Mackenzie"
 
 ---
 
-So Buffett / Munger approach is not timing the market, buy stock if
-value looks good. 60/40, 70/30 doesnt matter (as in stocks/bonds),
-it's all about companies. Diversification doesn't matter which in
-their method is a sign of ignorance. There is no "cash position", u
-end up with it if cant find a good company to invest in, it is not an
-investment vehicle.
+H2 View: "Hyzon Motors to supply hydrogen-powered trucks to Taiwan
+under new agreement"
 
 ---
 
-"She put pineapples on my pizza" 🤨
- 
----
-
-*Apex*, *Fortress*.. so many cheesy WIllis movies in
-succession.. Trying to stumble upon the next *Pulp Fiction*? Not
-working
+H2 View: "Inverness, Scotland, to be transformed into a hydrogen hub"
 
 ---
 
-Nitin Sawhney - Bengali Song \#music
-
-[[-]](https://youtu.be/PJkOQXIq_r8)
-
----
-
-Sorta remember the funky weather.. I was in the hood
-
-"12/3/1993 storm, named the Storm of the Century, hit an area so large
-stretched from Honduras to Canada". 
+H2 View: "H2 Clipper to accelerate commercialisation of its
+hydrogen-powered airship... The innovative H2 Clipper airship, powered
+by hydrogen, has been selected for inclusion in the Dassault Systèmes’
+Exclusive Accelerator Programme"
 
 ---
 
-100, 200 Terrajoules, these are insane numbers, translates into
-roughly 25,55 Gigawatt hours..
+H2 View: "Plug Power, Certarus partner to serve the North American
+hydrogen market"
 
 ---
 
-Integrated Kinetic Energy calculation for hurricanes. The particular
-NOAA archive I used does not have the most recent events, but Katrina,
-Sandy dates are there.
+The Mandarin: "The [AU] Queensland government has announced that a
+feasibility study will be conducted into the use of hydrogen-powered
+trains for bulk freight"
 
-[[-]](2019/05/ike.md)
+---
+
+TDB: "This Is the Robotic Hand That Could Finally Take Over Your
+Job.. [O]ne of the most difficult human parts to mechanically
+replicate is the hand. The human hand can accomplish a nearly endless
+amount of tasks—not just because of how versatile our hands and
+fingers are, but also because we can intuitively determine how much
+force to apply. It’s incredibly challenging, for instance, to teach a
+robot how to hold an egg with two fingers firmly without crushing the
+shell.A team of South Korean scientists may have just solved this
+problem—and perhaps opened the door to robots finally taking over our
+jobs"
+
+<img width="340" src="https://pbs.twimg.com/media/FGldNr6XsAIjnQF?format=jpg&name=small"/>
+
+[[-]](https://www.thedailybeast.com/this-is-the-robotic-hand-that-could-finally-take-over-your-job)
+
+---
+
+Good.. But still no reason to forgo vax. 
+
+"Pfizer says its COVID pill near 90% effective in clinical
+trials... The Pfizer pills are taken with the older antiviral
+ritonavir every 12 hours for five days beginning shortly after the
+onset of symptoms"
+
+---
+
+Al Jazeera: "How left-wing forces are regaining ground in Latin
+America.. As progressives win key elections from Honduras to Peru,
+analysts point to changing regional dynamics"
+
+---
+
+Great.. so I guess we can stop worrying abt this problem then 🤨
+
+"Bugs across globe are evolving to eat plastic, study finds"
+
+---
+
+The Mandarin: "The federal government will change its data website to
+become a “one-stop shop” for all Australians interacting with
+commonwealth data, a new strategy shows"
+
+---
+
+"Australia and South Korea strike 1 billion dollar defence deal.. The
+deal will see a Korean company provide 30 self-propelled howitzer
+artillery weapons, and 15 ammunition resupply vehicles and radars"
 
 ---
 

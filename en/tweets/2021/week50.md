@@ -1,6 +1,93 @@
 
 
 
+
+
+Sad. Prof is saying all her grad students these days are just tuning
+parameters on some neural net like a monkey. We can take comfort in
+the fact these ppl wont bring about AGI dystopia. One less item to
+worry about.
+
+
+[[-]](2020/07/ai-comments.md#mitchell)
+
+---
+
+*Finch* is supposed to take place in 2030 -- 9 years away.. And the
+roboticist guy had strong AI tech? Sci wouldn't have advanced that
+far.. not with the current neural, "deep" approaches. He'd have the
+dog and some bizarre chatbot that spits out random facts from
+Encyclopedia Brittanica. I'd rather have all published novels be read
+aloud to me through Text-to-Speech, or have re-runs of MASH.
+
+---
+
+*I Am Mother*, *Finch*, highly dystopic stuff
+
+---
+
+WB/Munger joint interviews are hilarious. Munger keeps calling other
+approaches "twaddle".
+
+---
+
+Buy/hold is not always boring. Can still do "quickies", bcz you know
+something others dont, the company is good.. Falls will be accompanied
+by rises, there'll be return to trend.
+
+---
+
+But these days ironically Berksh has a lot of cash in hand; cant find
+good companies to invest in or cant find any good company that is not
+overvalued? 🤔  Probably the latter. Wilshire Index is through the roof.
+
+---
+
+So Buffett / Munger approach is not timing the market, buy stock if
+value looks good. 60/40, 70/30 doesnt matter (as in stocks/bonds),
+it's all about companies. Diversification doesn't matter which in
+their method is a sign of ignorance. There is no "cash position", u
+end up with it if cant find a good company to invest in, it is not an
+investment vehicle.
+
+---
+
+"She put pineapples on my pizza" 🤨
+ 
+---
+
+*Apex*, *Fortress*.. so many cheesy WIllis movies in
+succession.. Trying to stumble upon the next *Pulp Fiction*? Not
+working
+
+---
+
+Nitin Sawhney - Bengali Song \#music
+
+[[-]](https://youtu.be/PJkOQXIq_r8)
+
+---
+
+Sorta remember the funky weather.. I was in the hood
+
+"12/3/1993 storm, named the Storm of the Century, hit an area so large
+stretched from Honduras to Canada". 
+
+---
+
+100, 200 Terrajoules, these are insane numbers, translates into
+roughly 25,55 Gigawatt hours..
+
+---
+
+Integrated Kinetic Energy calculation for hurricanes. The particular
+NOAA archive I used does not have the most recent events, but Katrina,
+Sandy dates are there.
+
+[[-]](2019/05/ike.md)
+
+---
+
 H2 View: "Airbus continues to explore hydrogen technologies in the
 aviation industry and will accelerate its research with a new
 Spanish-based innovation subsidiary"
