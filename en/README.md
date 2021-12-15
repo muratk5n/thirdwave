@@ -81,12 +81,6 @@ analysts point to changing regional dynamics"
 
 ---
 
-Great.. so I guess we can stop worrying abt this problem then 🤨
-
-"Bugs across globe are evolving to eat plastic, study finds"
-
----
-
 The Mandarin: "The federal government will change its data website to
 become a “one-stop shop” for all Australians interacting with
 commonwealth data"
