@@ -23,12 +23,12 @@ trains for bulk freight"
 ---
 
 
-That thing has nearly the capacity of a Nordstream 2 pipeline which is
-built to supply *a country*. Imagine 10, 20 of such plants.. How can
-that not solve our energy problem? For far-flung shipments, generate
-ammonia. Or H2, pipe it to whereever. CSP already can work at night bcz
-it utilizes heat which can be stored in molten salt nearby temporarily.
-Winning tech.
+That thing has nearly the capacity of the Nordstream 2 pipeline which
+is built to supply *a country*. Imagine 10, 20 of such plants.. How
+can that not solve our energy problem? For far-flung shipments,
+generate ammonia. Or H2, pipe it to whereever. CSP already can work at
+night bcz it utilizes heat which can be stored in molten salt nearby
+temporarily.  Winning tech.
 
 ---
 

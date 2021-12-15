@@ -101,5 +101,3 @@ potato is rich in vitamins and minerals, though it loses most of these
 when it is cooked and, especially, when it is peeled. Recent tests
 have shown that the potato releases a very large quantity of glucose
 into the system.
-
-
