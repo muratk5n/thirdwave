@@ -1,21 +1,5 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-H2 Fuel News: "Cummins to build H2 fuel cell innovation center in West
-Sacramento.. The engine manufacturer will be working with 18,000
-square feet of space in California"
-
----
-
-H2 Fuel News: "Green hydrogen can be made for under $1 per kilogram
-[by 2030], says [energy consultancy W. Mackenzie]"
-
----
-
-H2 View: "Hyzon Motors to supply hydrogen-powered trucks to Taiwan
-under new agreement"
-
----
-
 H2 View: "Inverness, Scotland, to be transformed into a hydrogen hub"
 
 ---
