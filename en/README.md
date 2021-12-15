@@ -66,25 +66,6 @@ trains for bulk freight"
 
 ---
 
-Major job losses wout AGI is possible. Good news.
-
-TDB: "This Is the Robotic Hand That Could Finally Take Over Your
-Job.. [O]ne of the most difficult human parts to mechanically
-replicate is the hand. The human hand can accomplish a nearly endless
-amount of tasks—not just because of how versatile our hands and
-fingers are, but also because we can intuitively determine how much
-force to apply. It’s incredibly challenging, for instance, to teach a
-robot how to hold an egg with two fingers firmly without crushing the
-shell. A team of South Korean scientists may have just solved this
-problem—and perhaps opened the door to robots finally taking over our
-jobs"
-
-<img width="340" src="https://pbs.twimg.com/media/FGldNr6XsAIjnQF?format=jpg&name=small"/>
-
-[[-]](https://www.thedailybeast.com/this-is-the-robotic-hand-that-could-finally-take-over-your-job)
-
----
-
 Good.. But still no reason to forgo vax. 
 
 "Pfizer says its COVID pill near 90% effective in clinical
