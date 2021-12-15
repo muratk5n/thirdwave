@@ -64,6 +64,8 @@ trains for bulk freight"
 
 ---
 
+Major job losses wout AGI is possible. Good news.
+
 TDB: "This Is the Robotic Hand That Could Finally Take Over Your
 Job.. [O]ne of the most difficult human parts to mechanically
 replicate is the hand. The human hand can accomplish a nearly endless
@@ -71,7 +73,7 @@ amount of tasks—not just because of how versatile our hands and
 fingers are, but also because we can intuitively determine how much
 force to apply. It’s incredibly challenging, for instance, to teach a
 robot how to hold an egg with two fingers firmly without crushing the
-shell.A team of South Korean scientists may have just solved this
+shell. A team of South Korean scientists may have just solved this
 problem—and perhaps opened the door to robots finally taking over our
 jobs"
 
@@ -104,7 +106,7 @@ Great.. so I guess we can stop worrying abt this problem then 🤨
 
 The Mandarin: "The federal government will change its data website to
 become a “one-stop shop” for all Australians interacting with
-commonwealth data, a new strategy shows"
+commonwealth data"
 
 ---
 
