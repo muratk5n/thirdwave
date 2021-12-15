@@ -1,33 +1,5 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-This can be problematic for BJ
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Just remembering how strictly friends and family in England followed covid rules last year.<br>Two friends had to fight to spend time with their dying parents<br>Lots of elderly and isolated people spent Xmas alone. Had some horrid conversations with very sad but rule-abiding people. <a href="https://t.co/xhFXJT9jJw">https://t.co/xhFXJT9jJw</a></p>&mdash; Catherine Nicholson (@ACatInParis) <a href="https://twitter.com/ACatInParis/status/1470882636348461059?ref_src=twsrc%5Etfw">December 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-That thing has nearly the capacity of a Nordstream 2 pipeline which is
-built to supply *a country*. Imagine 10, 20 of such plants.. How can
-that not solve our energy problem? For far-flung shipments, generate
-ammonia. Or H2, pipe it to whereever. CSP already can work at night bcz
-it utilizes heat which can be stored in molten salt nearby temporarily.
-Winning tech.
-
----
-
-Massive. Lots going on in UAE 
-
-"Dubai Sees World’s Largest Single-Site 700 MW Concentrated Solar Project"
-
----
-
-Losing top talent.. \#China \#HK
-
-"Nearly 90,000 \#HongKongers have applied for resettlement in Britain
-under a new visa scheme offering a pathway to citizenship"
-
----
-
 H2 Fuel News: "Cummins to build H2 fuel cell innovation center in West
 Sacramento.. The engine manufacturer will be working with 18,000
 square feet of space in California"
@@ -63,6 +35,35 @@ hydrogen market"
 The Mandarin: "The [AU] Queensland government has announced that a
 feasibility study will be conducted into the use of hydrogen-powered
 trains for bulk freight"
+
+---
+
+
+That thing has nearly the capacity of a Nordstream 2 pipeline which is
+built to supply *a country*. Imagine 10, 20 of such plants.. How can
+that not solve our energy problem? For far-flung shipments, generate
+ammonia. Or H2, pipe it to whereever. CSP already can work at night bcz
+it utilizes heat which can be stored in molten salt nearby temporarily.
+Winning tech.
+
+---
+
+Massive. Lots going on in UAE 
+
+"Dubai Sees World’s Largest Single-Site 700 MW Concentrated Solar Project"
+
+---
+
+Losing top talent.. \#China \#HK
+
+"Nearly 90,000 \#HongKongers have applied for resettlement in Britain
+under a new visa scheme offering a pathway to citizenship"
+
+---
+
+This can be problematic for BJ
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Just remembering how strictly friends and family in England followed covid rules last year.<br>Two friends had to fight to spend time with their dying parents<br>Lots of elderly and isolated people spent Xmas alone. Had some horrid conversations with very sad but rule-abiding people. <a href="https://t.co/xhFXJT9jJw">https://t.co/xhFXJT9jJw</a></p>&mdash; Catherine Nicholson (@ACatInParis) <a href="https://twitter.com/ACatInParis/status/1470882636348461059?ref_src=twsrc%5Etfw">December 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
