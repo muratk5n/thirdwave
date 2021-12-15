@@ -5,9 +5,9 @@ H2 View: "Inverness, Scotland, to be transformed into a hydrogen hub"
 ---
 
 H2 View: "H2 Clipper to accelerate commercialisation of its
-hydrogen-powered airship... The innovative H2 Clipper airship, powered
-by hydrogen, has been selected for inclusion in the Dassault Systèmes’
-Exclusive Accelerator Programme"
+hydrogen-powered airship... The innovative H2 Clipper airship.. has
+been selected for inclusion in the Dassault Systèmes’ Exclusive
+Accelerator Programme"
 
 ---
 
