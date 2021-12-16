@@ -16,7 +16,7 @@ under new agreement"
 
 ---
 
-Great.. so we can stop worrying abt this problem then 🤨
+Ok.. but stopping plastic pollution better than relying on some bugs eating it
 
 "Bugs across globe are evolving to eat plastic, study finds"
 
