@@ -16,7 +16,8 @@ under new agreement"
 
 ---
 
-Ok.. but stopping plastic pollution better than relying on some bugs eating it
+Ok.. but stopping plastic pollution is better than relying on some
+bugs eating it
 
 "Bugs across globe are evolving to eat plastic, study finds"
 
