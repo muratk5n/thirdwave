@@ -4,6 +4,8 @@
 
 [Power Paste (Solid Magnesium Hydride)](02/h2-power-paste.md)
 
+[Vietnam](02/into-the-quagmire.md)
+
 [Nutritional Values, Requirements](02/nutritional-values.md)
 
 [Unity](02/unity.md)
@@ -11,8 +13,6 @@
 [University, An Owner's Manual](02/university-rosovksy.md)
 
 [Alex Unzicker](02/unzicker.md)
-
-[Vietnam](02/vietnam.md)
 
 [On the Phenomenon of Bullshit Jobs](03/bullshit-jobs-article-graeber.md)
 
@@ -73,4 +73,6 @@
 [The Value of Everything](10/the-value-of-everything.md)
 
 [Vegetarian Burger](11/veg-burger.md)
+
+[Eat Yourself Slim](12/eat-yourself-slim-montignac.md)
 
