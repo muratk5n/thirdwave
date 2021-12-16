@@ -4,7 +4,7 @@
 
 [Power Paste (Solid Magnesium Hydride)](02/h2-power-paste.md)
 
-[Vietnam](02/into-the-quagmire.md)
+[Into the Quagmire](02/into-the-quagmire.md)
 
 [Nutritional Values, Requirements](02/nutritional-values.md)
 
