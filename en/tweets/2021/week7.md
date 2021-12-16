@@ -116,8 +116,36 @@ midst of a once-in-a-century global pandemic"
 
 ---
 
+Also see below
+
+"The United States went to war in Vietnam for multiple reasons but the
+basic reason was Charles De Gaulle. The American strategy at the time
+was to contain the Soviet Union with a string of alliances swinging
+from Norway all the way through [Vietnam], and blocked them through
+expanding [alliances]. Charles de Gaulle came along and said "you
+can't trust the americans because if they ever attacked the Americans
+wouldn't come ...  you you're going to be left alone we have to form
+our own NATO independent of the United States". During the Vietnam War
+there's a word that became incredibly important *credibility*.
+Credibility meant that how credible were the American guarantees to
+this all-important structure of containment, how credible was it that
+we would come to Germany's aid, or Japan's aid with everything we had,
+if they were a war. And a terrible fear that time was that these
+people would lose confidence in us. So part of the reason we went to
+Vietnam had nothing to do with Vietnam the fear was that if we didn't
+go to Vietnam our credibility with our other allies would be gone and
+the entire American strategy will collapse on that basis. There was no
+expectation [we would end up with] 50,000 dead, on that basis the
+expectation was that we would go into a small police action we may win
+it, we may lose it, but the Germans would know that our guarantee
+means something"
+
+[George Friedman](https://www.youtube.com/watch?v=mkSk7hKudpA)
+
+---
+
 Why did LBJ escalate the Vietnam conflict? He saw the alternative as
-[appeasement](../../2021/02/vietnam.md#lbj). Costly decision.
+[appeasement](../../2021/02/into-the-quagmire.md#lbj). Costly decision.
 
 ---
 
