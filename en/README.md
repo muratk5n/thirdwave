@@ -77,8 +77,8 @@ could not help himself (see link)
 
 ---
 
-Dietician Montignac: "[Potato] it loses most of [its vitamins] when it
-is cooked and, especially, when it is peeled"
+Dietician Montignac: "[Potato] loses most of [its vitamins] when it is
+cooked and, especially, when it is peeled"
 
 [[-]](2021/12/eat-yourself-slim-montignac.md#potato)
 
