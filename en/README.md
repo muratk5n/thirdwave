@@ -55,10 +55,12 @@ obsession has gone too far for her"
 
 Note the image of a rich person 200 yrs ago was someone fat (bcz sugar
 was rare only the rich could afford it). Now the image of a rich
-person is lanky, bcz the wealthy have access to better cooking
-(through chefs etc). It wasnt abt the amount eaten, or how much
-fat. At the same time typical poor person now is likely to be fat;
-sugar and starch has become so prevalent in the market that it is now
+person is lanky, bcz the wealthy have access to better cooking,
+ingredients (through chefs etc), read: less starch, more vegs. The
+issue never was the amount eaten, or how much fat.
+
+At the same time typical poor person now is likely to be fat; sugar
+and starch has become so prevalent in the market that it is now
 feeding (and killing) the poor.
 
 ---
