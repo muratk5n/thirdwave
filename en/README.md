@@ -39,6 +39,20 @@ jobs"
 
 ---
 
+trick ho
+
+27/10: "Rep. Marjorie Taylor Greene bought up to $50K in shares of Trump SPAC"
+
+---
+
+wut
+
+19/10: "Trump's 2020 election lies are even worrying Marjorie
+Taylor. Greene is urging Republicans to vote, suggesting Trump's 2020
+obsession has gone too far for her"
+
+---
+
 It's interesting the image of a rich person 200 yrs ago was someone
 fat (bcz sugar was rare only the rich could afford it). Now the image
 of a rich person is lanky, bcz the wealthy have access to better
@@ -62,20 +76,6 @@ Dietician Montignac: "[Potato] it loses most of [its vitamins] when it
 is cooked and, especially, when it is peeled"
 
 [[-]](2021/12/eat-yourself-slim-montignac.md#potato)
-
----
-
-trick ho
-
-27/10: "Rep. Marjorie Taylor Greene bought up to $50K in shares of Trump SPAC"
-
----
-
-wut
-
-19/10: "Trump's 2020 election lies are even worrying Marjorie
-Taylor. Greene is urging Republicans to vote, suggesting Trump's 2020
-obsession has gone too far for her"
 
 ---
 
