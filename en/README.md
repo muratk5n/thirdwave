@@ -63,7 +63,7 @@ now feeding (and killing) the poor.
 
 ---
 
-But sugar is bad
+But sugar, starch is bad
 
 ---
 
