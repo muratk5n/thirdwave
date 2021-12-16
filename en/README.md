@@ -69,8 +69,10 @@ But sugar, starch is bad
 
 ---
 
-Interesting. He did a little Northerner, Anglo bashing there too,
-yieea French guy could not help himself (see link)
+Interesting.
+
+He did a little Northerner, Anglo bashing there too, yieea French guy
+could not help himself (see link)
 
 ---
 
