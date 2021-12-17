@@ -230,12 +230,6 @@ epidemic"
 
 ---
 
-Bloom fockery info
-
-[Link](https://mobile.twitter.com/blakezeff/status/1227976156936171520)
-
----
-
 Yes, US was born between two waves.
 
 "James Watt patented his steam engine on the eve of the American
@@ -245,16 +239,6 @@ steps into an industrial way of life that would, over the next two
 centuries, forever change the world"
 
 \#rifkin \#h2book
-
----
-
-"@MattGrossmann
-
-Bloomberg is paying 23yo field organizers $6000/month & rallies have
-free food & swag; he’s spending just as extravagantly on field as TV
-
-Conventional wisdom is $ doesn’t buy elections, especially at the prez
-level, but no one has tested this.."
 
 ---
 
@@ -544,35 +528,6 @@ coverage primarily for low-income and disabled Americans. [In a 2015
 [tweet](https://www.prwatch.org/files/images/trump-no-cuts-ss-tweet-600px_0.jpg)] Trump pledges that there will be no cuts to Medicaid"
 
 [Link](https://twitter.com/brianklaas/status/1226982822512074754)
-
----
-
-From Quinnipac. Damn.
-
-They say "Bloom team really figured out how to turn spending into
-votes".
-
-What kind of machinery you got there Bloomberg? Some major mind
-manipulating fuckery going on there...
-
-If he makes prez, it will get ugly.. You will be counting the fat on
-your chicken by the micrograms, if you exceed your quota you will be
-mowed down by rapid machine gun fire from a rooftop, or a nearby
-drone. First warning shot goes to your leg, you will fall on the
-ground with your chicken sandwich splattered around, and you'll have
-to beg to the drone not to kill you, pledging profusely to remain in
-your fat quota. If the software believes you, you will
-live. Otherwise, the next shot goes right between the eyes.
-
-"@PpollingNumbers
-
-Change since late Jan among blacks
-
-Biden 27 (-22)
-
-Bloomberg 22 (+15)
-
-Sanders 19 (+2)"
 
 ---
 

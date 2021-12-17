@@ -1,4 +1,4 @@
-
+# Week 50
 
 H2 Fuel News: "Cummins to build H2 fuel cell innovation center in West
 Sacramento.. The engine manufacturer will be working with 18,000
@@ -80,7 +80,7 @@ could not help himself (see link)
 Dietician Montignac: "[Potato] loses most of [its vitamins] when it is
 cooked and, especially, when it is peeled"
 
-[[-]](2021/12/eat-yourself-slim-montignac.md#potato)
+[[-]](../../2021/12/eat-yourself-slim-montignac.md#potato)
 
 ---
 
