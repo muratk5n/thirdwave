@@ -73,9 +73,7 @@ would he be extradited to Saudi Arabia?'"
 
 Corportions know that full well of course; they sponsor and help
 spread the "liberty-centric" message to avoid regulation, increased
-taxes (as they were hit with in Mexico) or outright bans. In the
-meantime foolish masses continue to believe they are some kind [yeoman
-farmer](2021/03/private-government.md#elites).
+taxes (as they were hit with in Mexico) or outright bans. 
 
 ---
 
