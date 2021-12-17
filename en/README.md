@@ -27,12 +27,8 @@ spending smaller amt for the same (better) service.
 
 ---
 
-Small wonder poor gets shafted by Dems constantly, they dont even have
-healthcare.
-
----
-
-Pelosi is Number \#15. 
+Pelosi is Number \#15. Small wonder poor gets shafted by Dems
+constantly, they dont even have healthcare.
 
 "Meet the 25 wealthiest members of Congress"
 
