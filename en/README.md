@@ -29,7 +29,7 @@ spending smaller amt for the same (better) service.
 
 Pelosi is Number \#15. Small wonder poor gets shafted by Dems
 constantly, they dont even have healthcare. Dem SOH could not care
-less got bunch of money.
+less, got bunch of money.
 
 "Meet the 25 wealthiest members of Congress"
 
