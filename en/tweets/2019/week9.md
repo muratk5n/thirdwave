@@ -160,14 +160,6 @@ But for a controlled, 1-shot legislation, whose infl effect will be limited, it 
 
 ---
 
-Haha... I was expecting to hear no growth in money supply so no inflation, but AY saz 1 trillion will be printed. 
-
-NOW GET THIS: if printing is tied to one shot legislation it can be okay.
-
-[Link](https://twitter.com/AndrewYang/status/1101295190667595776)
-
----
-
 Parteh
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The electric clam (Ctenoides ales) — also known as the disco scallop 🕺🏻 — is found in the tropical waters of the Indo-Pacific. It is the only bivalve known to have light displays. <a href="https://t.co/zXk1Mrnxyh">pic.twitter.com/zXk1Mrnxyh</a></p>&mdash; Dorsa Amir (@DorsaAmir) <a href="https://twitter.com/DorsaAmir/status/1101224296662237184?ref_src=twsrc%5Etfw">February 28, 2019</a></blockquote>
