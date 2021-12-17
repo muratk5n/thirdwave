@@ -18,8 +18,6 @@
 
 [Hyperinflation](../../2016/03/hyperinflation.md)
 
-[Why Gold?](../../2012/01/why-gold.md)
-
 [Princes of Mayhem](princes-of-mayhem.md)
 
 [Keen Model](../../2018/02/keen_math.md)
