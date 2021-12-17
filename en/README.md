@@ -1,86 +1,94 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-H2 Fuel News: "Cummins to build H2 fuel cell innovation center in West
-Sacramento.. The engine manufacturer will be working with 18,000
-square feet of space in California"
+
+H2 View: "Linde Africa, Hive Hydrogen to develop $4.6bn green ammonia
+production project in South Africa"
 
 ---
 
-H2 Fuel News: "Green hydrogen can be made for under $1 per kilogram
-[by 2030], says [energy consultancy W. Mackenzie]"
+H2 View: "Peugeot unveils its first hydrogen vehicle"
 
 ---
 
-H2 View: "Hyzon Motors to supply hydrogen-powered trucks to Taiwan
-under new agreement"
+H2 Fuel News: "Full-size hydrogen fuel cell system for ships undergoes
+testing by Kongsberg"
 
 ---
 
-Ok.. but stopping plastic pollution is better than relying on some
-bugs eating it
-
-"Bugs across globe are evolving to eat plastic, study finds"
-
----
-
-Major job losses wout AGI is possible. 
-
-TDB: "This Is the Robotic Hand That Could Finally Take Over Your
-Job.. [O]ne of the most difficult human parts to mechanically
-replicate is the hand. The human hand can accomplish a nearly endless
-amount of tasks—not just because of how versatile our hands and
-fingers are, but also because we can intuitively determine how much
-force to apply. It’s incredibly challenging, for instance, to teach a
-robot how to hold an egg with two fingers firmly without crushing the
-shell. A team of South Korean scientists may have just solved this
-problem—and perhaps opened the door to robots finally taking over our
-jobs"
-
-[[-]](https://www.thedailybeast.com/this-is-the-robotic-hand-that-could-finally-take-over-your-job)
+H2 Fuel News: "Aurizon, an Australian rail freight operator, is
+working with the Anglo American global mining firm for the purpose of
+using hydrogen powered trains using the miner’s H2 fuel cell
+technology for bulk freight"
 
 ---
 
-trick ho
-
-27/10: "Rep. Marjorie Taylor Greene bought up to $50K in shares of Trump SPAC"
-
----
-
-wut
-
-19/10: "Trump's 2020 election lies are even worrying Marjorie
-Taylor. Greene is urging Republicans to vote, suggesting Trump's 2020
-obsession has gone too far for her"
+No, since M4A will cost *less*, it would be deflationary. You'd be
+spending smaller amt for the same (better) service.
 
 ---
 
-Note the image of a rich person 200 yrs ago was someone fat (bcz sugar
-was rare only the rich could afford it). Now the image of a rich
-person is lanky, bcz the wealthy have access to better cooking,
-ingredients (through chefs etc), read: less starch, more vegs. The
-issue never was the amount eaten, or how much fat.
-
-At the same time typical poor person now is likely to be fat; sugar
-and starch has become so prevalent in the market that it is now
-feeding (and killing) the poor.
+Small wonder poor gets shafted by Dems constantly, they dont even have
+healthcare.
 
 ---
 
-But sugar, starch is bad
+Pelosi is Number \#15. 
+
+"Meet the 25 wealthiest members of Congress"
+
+[[-]](https://www.businessinsider.com/wealthiest-members-congress-house-senate-finances-2021-12#15-rep-nancy-pelosi-a-democrat-from-california-46123051-11)
 
 ---
 
-Interesting.
+Hardball.. 
 
-He did a little Northerner, Anglo bashing there too, yieea French guy
-could not help himself (see link)
+AP News: "Germany expels Russian diplomats over state-ordered killing"
 
 ---
 
-Dietician Montignac: "[Potato] loses most of [its vitamins] when it is
-cooked and, especially, when it is peeled"
+"It's 'game over' for U.S.-listed Chinese companies, global asset
+manager says"
 
-[[-]](2021/12/eat-yourself-slim-montignac.md#potato)
+---
+
+"House Votes to Ban Imports From China's Xinjiang on Labor Concern"
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Did carbon dioxide write this <a href="https://t.co/62lt1shKNq">pic.twitter.com/62lt1shKNq</a></p>&mdash; Honey (@benegotherit) <a href="https://twitter.com/benegotherit/status/1470927490461827072?ref_src=twsrc%5Etfw">December 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Assange is an Oz citizen. This is their deputy PM talking.
+
+"'Assange was not in breach of any Australian laws at the time of his
+actions. Assange was not in the US when the event being deliberated in
+a court now in London occurred,' Mr Joyce wrote... 'The question is
+then: Why is he to be extradited to the US? If he insulted the Koran,
+would he be extradited to Saudi Arabia?'"
+
+[[-]](https://www.abc.net.au/news/2021-12-14/barnaby-joyce-opposes-extradition-of-julian-assange/100697630)
+
+---
+
+Corportaions know that full well of course; they sponsor and help
+spread the "liberty-centric" message to avoid regulation, increased
+taxes (as they were hit with in Mexico) or outright bans. In the meantime
+foolish masses continue to believe they are some kind [yeoman farmer](2021/03/private-government.md#elites).
+
+---
+
+Some cried foul when authorities (as in NYC muni) tried to clamp down
+on sugar, in soda, in foods, etc, labeling it "government intrusion
+into daily lives". Many forget preferring sugar over fat, than
+creating an env for "exercise nuts" when it didnt work was part of a
+misplaced wave that happened outside them as well, outside the control
+of regular people. They, their parents followed that dumb ass shit
+conciously, subconciously and ended up here, outside their choice. Now
+they should not pull out the "intrusion" argument in the 11th hour
+when some are trying to fix the problem for them. Many seem to forget
+they live in a modern world, where concentrated, centralized forces
+roam. 
 
 ---
 
