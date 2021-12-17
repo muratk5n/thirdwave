@@ -1,18 +1,71 @@
 # NOAA Recent Reanalysis Data
 
 
-mayfield kentucky
-36.728334068830755, -88.7063255602711
+https://psl.noaa.gov/thredds/catalog/Datasets/NARR/catalog.html
 
-https://psl.noaa.gov/cgi-bin/db_search/DBListFiles.pl?did=195&tid=96617&vid=1263
+https://psl.noaa.gov/thredds/catalog/Datasets/NARR/Dailies/monolevel/catalog.html?dataset=Datasets/NARR/Dailies/monolevel/uwnd.10m.2021.nc
+
 
 ```python
 import netCDF4
 
-url = "uwnd.sig995.2021.nc"
+#url = "uwnd.sig995.2021.nc"
+url = "uwnd.10m.2021.nc"
 nc = netCDF4.Dataset(url)
 print (nc)
 ```
+
+```text
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF4_CLASSIC data model, file format HDF5):
+    Conventions: CF-1.2
+    centerlat: 50.0
+    centerlon: -107.0
+    comments: 
+    institution: National Centers for Environmental Prediction
+    latcorners: [ 1.000001  0.897945 46.3544   46.63433 ]
+    loncorners: [-145.5       -68.32005    -2.569891  148.6418  ]
+    platform: Model
+    standardpar1: 50.0
+    standardpar2: 50.000001
+    title: Daily NARR
+    history: created Sat Mar 26 05:25:45 MDT 2016 by NOAA/ESRL/PSD
+    dataset_title: NCEP North American Regional Reanalysis (NARR)
+    references: https://www.esrl.noaa.gov/psd/data/gridded/data.narr.html
+    source: http://www.emc.ncep.noaa.gov/mmb/rreanl/index.html
+    References: 
+    dimensions(sizes): time(334), y(277), x(349), nbnds(2)
+    variables(dimensions): float64 time(time), float32 lat(y, x), float32 lon(y, x), float32 y(y), float32 x(x), int32 Lambert_Conformal(), float32 uwnd(time, y, x), float64 time_bnds(time, nbnds)
+    groups: 
+```
+
+```python
+lat = nc['lat'][:]
+print (lat.shape)
+lon = nc['lon'][:]
+print (lon.shape)
+uwnd = nc['uwnd'][:,:,:]
+print (uwnd.shape)
+```
+
+```text
+(277, 349)
+(277, 349)
+(334, 277, 349)
+```
+
+
+
+mayfield kentucky
+36.728334068830755, -88.7063255602711
+
+https://psl.noaa.gov/thredds/catalog/Datasets/ncep.reanalysis/surface/catalog.html
+
+https://psl.noaa.gov/cgi-bin/db_search/DBListFiles.pl?did=195&tid=96617&vid=1263
+
+
+
+
 
 ```text
 <class 'netCDF4._netCDF4.Dataset'>

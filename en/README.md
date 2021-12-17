@@ -78,12 +78,12 @@ Some cried foul when authorities (as in NYC muni) tried to clamp down
 on sugar, in soda, in foods, etc, labeling it "government intrusion
 into daily lives". Many forget preferring sugar over fat, than
 creating an env for "exercise nuts" when it didnt work was part of a
-misplaced wave that happened outside them as well, outside the control
-of regular people. They, their parents followed that dumb ass shit and
-ended up here. Now they should not pull out the "intrusion" argument
-in the 11th hour when some are trying to fix the problem for
-them. Many seem to forget they live in a modern world, where
-concentrated, centralized forces roam.
+misplaced wave that happened (created) outside them as well, outside
+the control of regular people. They, their parents followed that dumb
+ass shit and ended up here. Now they should not pull out the
+"intrusion" argument in the 11th hour when some are trying to fix the
+problem for them. Many seem to forget they live in a modern world,
+where concentrated, centralized forces roam.
 
 ---
 
