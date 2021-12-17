@@ -482,12 +482,7 @@ A: Calling these programs "entitlements" is tasteless.
 But, truth be told, social security was not designed for a time when
 many people lived beyond 65, that's why the system is defunct. It's
 best that it is be replaced with something like UBI where everyone
-gets a payment of some sort anyway. Politicking for this can be in
-different ways; Andrew Yang, the UBI candidate, smartly "does not
-touch that rail", folding socsec into his UBI plan, declaring "if you
-get socsec payments already, you will not get UBI". And while UBI
-funding is being worked out, I guess socsec would also be saved on the
-side, within the same legislation.
+gets a payment of some sort anyway. 
 
 Q: Why were unions were weak in United States?
 

@@ -31,16 +31,6 @@ James Monroe - Train 45 #music
 
 ---
 
-@hannahrosewoods
-
-Do the people who get angry about historically inaccurate films know about Shakespeare
-
----
-
-What? Andrew Yang will be running for Prez 2020 on UBI? From Dems?
-
----
-
 Want
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Mr. Minabe from Yamaha Motors demonstrates the approach to 3D development with <a href="https://twitter.com/hashtag/autonomous?src=hash&amp;ref_src=twsrc%5Etfw">#autonomous</a> vehicles with <a href="https://twitter.com/hashtag/MOTOROiD?src=hash&amp;ref_src=twsrc%5Etfw">#MOTOROiD</a> <a href="https://twitter.com/hashtag/NX?src=hash&amp;ref_src=twsrc%5Etfw">#NX</a> <a href="https://twitter.com/hashtag/PLMConX?src=hash&amp;ref_src=twsrc%5Etfw">#PLMConX</a> <a href="https://t.co/zdt1trMAgq">pic.twitter.com/zdt1trMAgq</a></p>&mdash; Siemens PLM APAC (@SiemensPLM_APAC) <a href="https://twitter.com/SiemensPLM_APAC/status/1017237474848866304?ref_src=twsrc%5Etfw">July 12, 2018</a></blockquote>
