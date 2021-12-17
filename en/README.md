@@ -67,9 +67,9 @@ would he be extradited to Saudi Arabia?'"
 
 ---
 
-Corportions know that full well of course; they sponsor and help
+Corporations know that full well of course; they sponsor and help
 spread the "liberty-centric" message to avoid regulation, increased
-taxes (as they were hit with in Mexico) or outright bans. 
+taxes (as they were hit with in Mexico) or outright bans.
 
 ---
 
