@@ -296,23 +296,6 @@ would need to pay to acquire another company."
 
 ---
 
-```python
-import yf
-yf.get_financials("NKLA")["Enterprise Value/EBITDA"]
-```
-
-```text
-Out[1]: -8.72
-```
-
-Negative? Bcz they dont have debt, and lots of cash in hand?
-
----
-
-Earnings season.. How is NKLA doing?
-
----
-
 "Zoom school" is no good. Ed can be based on prerecorded lecture
 videos. The approaches are different. In one there is an average
 quality jackass waving his arms online, syncronized, in the other

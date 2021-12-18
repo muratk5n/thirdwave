@@ -520,10 +520,6 @@ moment.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">When you think EBITDA is what owners get to keep <a href="https://t.co/ASnajL5Yec">pic.twitter.com/ASnajL5Yec</a></p>&mdash; Brent Beshore (@BrentBeshore) <a href="https://twitter.com/BrentBeshore/status/1151829190653595659?ref_src=twsrc%5Etfw">July 18, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 Some said TG movie feels like a commercial rather than a movie. It's
 true. You could take any 5 second sequence from most of it, and mumble
 the name of some product afterwards and it would be like a commercial.

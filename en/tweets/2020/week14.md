@@ -775,26 +775,6 @@ segment of voters - and his effort to persuade them to support
 
 ---
 
-Enterprise Value / EBITDA to check bubbleness. Good stuff.
-[@Hedgeeye](https://twitter.com/KeithMcCullough/status/1244239756151709703/photo/1)
-
-Values over 10 near 20 signals bubbleness.
-
-```python
-import yf
-print (yf.get_EVEbit('AAPL'))
-print (yf.get_EVEbit('MSFT'))
-```
-
-```text
-13.95
-17.79
-```
-
-(New: `yf.py` fails, see the 2021 version)
-
----
-
 "@wesbury
 
 Novartis CEO 'Pre-clinical studies in animals as well as the first
@@ -926,20 +906,6 @@ Obama, picking your "winner" for you. How's that feel?
 ---
 
 Right, high yield came back from 12.39% down to 10.64%. 
-
----
-
-Bruce Richards (on credit). "Moody is behind the curve, massive
-downgrades are coming. BBB credit market had grown 5-fold to reach 3.4
-trillion dol since 08, even before latest crisis, that 10% of that
-would fall to junk, simply due to the end of the credit cycle, 340 bil
-dol worth of fallen angels. Out of 900 bil BBB- 1/3 should already be
-rated B. Coming into this those guys had 5 times debt to EBITDA ratio
-which means single B."
-
-"[How high can high-yield index spread go?] 11 or 12%, that's it. [The extreme downside] has been protected now with unlimited cap on what the FED can buy"
-
-[Link](https://www.youtube.com/watch?v=okjH4UV5HGE)
 
 ---
 
