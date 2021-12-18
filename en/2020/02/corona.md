@@ -80,7 +80,7 @@ US Daily Deaths, 7-Day Moving Average
 ```python
 import util, pandas as pd
 df = util.get_data_combined()
-df1 = df[(df['Country/Region']=='US')&(df.index > '2021-01-01')]
+df1 = df[(df['Country/Region']=='US')&(df.index > '2020-01-01')]
 df1['New deaths'] = df1['New deaths'].rolling(7).mean()
 df1['New deaths'].plot()
 plt.savefig('US-deaths.png')
@@ -113,11 +113,11 @@ plt.savefig('Rt-US.png')
 ```
 
 ```text
-340    1.159938
-341    1.096621
-342    1.094055
-343    1.061337
-344    1.031886
+344    1.032196
+345    1.040330
+346    1.034771
+347    1.017527
+348    1.037248
 Name: 1, dtype: float64
 ```
 
