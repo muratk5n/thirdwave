@@ -94,7 +94,7 @@ any kind -- a proof of connection to its creator. So now rich guy can
 show off to his other rich friends "here is art piece content xyz and
 its creator gave it to ME". Owning a Picasso was never about the art
 for them, it was having a piece of art FROM Picasso. In painting the
-art piece assured that connection, NFT offered the same thing for
+art piece assured that connection, NFT now offers the same thing for
 digital media.
 
 ## For Members
