@@ -87,7 +87,7 @@ Starchy Foods
 
 Most [starchy] foods are bad carbohydrates and some need to be
 completely excluded from your diet. The number one starchy food is the
-potato. You nay be interested to know that when the potato was brought
+potato. You may be interested to know that when the potato was brought
 back from the New World by explorers in 540, the French firmly
 rejected it, considering this root vegetable fit only for pigs. They
 thought it so unpleasant they refused to eat it, unlike some
