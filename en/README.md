@@ -1,7 +1,5 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-2 Gigawatts.. Fantastic news.
-
 H2 Fuel News: "Thyssenkrupp to build massive green hydrogen
 electrolyzer in Saudi Neom megacity.. The German company won a
 critical contract to build the first giga-scale 2GW plant"
