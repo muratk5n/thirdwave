@@ -65,12 +65,6 @@ I asked her how much tuition was, she said $750 a semester"
 
 ---
 
-Debt foregiveness cld be helpful for Dem reelection prospects. if rate
-rises cause "losses" in 401k accounts which are held by mostly
-affluent white-collar folk, part of current WH's winning coalition.
-
----
-
 "@JHead1984
 
 What kills me about student debt cancellation is the people who would
