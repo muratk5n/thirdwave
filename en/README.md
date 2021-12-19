@@ -45,16 +45,11 @@ African Proverb: "Whoever tells the truth is chased out of nine villages."
 
 ---
 
-What does it mean for hurricane to have 25 GWh energy? Take one of
+What does it mean for a hurricane to have 25 GWh energy? Take one of
 those 1 GW natgas pipelines that are built to supply *a country*. Line
 up 25 of them, and use that massive power to run mega lawnmowers that
 just chew through towns, cities, for one hour. Imagine the havoc that
 cld be created with that. That is an Ivan, or Sandy.
-
----
-
-Before pandemic I'd made a big multi-country touristic tour, delved
-more into mobile living, camping. Strange.. 
 
 ---
 
