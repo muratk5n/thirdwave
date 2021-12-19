@@ -97,8 +97,6 @@ for them, it was having a piece of art FROM Picasso. In painting the
 art piece assured that connection, NFT offered the same thing for
 digital media.
 
----
-
 ## For Members
 
 [Link](https://thirdwave-members.herokuapp.com)
