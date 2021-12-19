@@ -8,11 +8,9 @@ critical contract to build the first giga-scale 2GW plant"
 
 ---
 
-H2 View: "Egypt to bolster its hydrogen ecosystem with new production
-facilities for international exports.. Egypt is set to bolster its
-hydrogen ecosystem with Scatec revealing a new green hydrogen and
-ammonia production facility that will be exported to lucrative
-international markets"
+H2 View: "Egypt is set to bolster its hydrogen ecosystem with Scatec
+revealing a new green hydrogen and ammonia production facility that
+will be exported to lucrative international markets"
 
 ---
 
