@@ -12,6 +12,7 @@ end=datetime.datetime(today.year, today.month, today.day)
 cols = ['TURB6BLTT02STSAQ','RBTRBIS']
 df = data.DataReader(cols, 'fred', start, end)
 df = df.dropna()
+print (df.tail(5))
 plt.figure(figsize=(10,6))
 ax1 = df.TURB6BLTT02STSAQ.plot(color='blue', grid=True, label='TR Cari Hesap, GSYH % Olarak')
 ax2 = df.RBTRBIS.plot(color='red', grid=True, secondary_y=True, label='TR Kur')
@@ -19,6 +20,16 @@ h1, l1 = ax1.get_legend_handles_labels()
 h2, l2 = ax2.get_legend_handles_labels()
 plt.legend(h1+h2, l1+l2, loc=2)
 plt.savefig('currxch.png')
+```
+
+```text
+            TURB6BLTT02STSAQ  RBTRBIS
+DATE                                 
+2020-04-01         -5.612587    57.08
+2020-07-01         -5.655827    56.34
+2020-10-01         -5.281476    49.55
+2021-01-01         -3.262093    54.04
+2021-04-01          0.239925    50.84
 ```
 
 ![](currxch.png)
@@ -46,11 +57,11 @@ plt.savefig('try-dollar.png')
 
 ```text
 Date
-2021-12-02    13.44320
-2021-12-03    13.71710
-2021-12-06    13.63205
-2021-12-07    13.78315
-2021-12-08    13.65980
+2021-12-13    13.85489
+2021-12-14    13.80329
+2021-12-15    14.37780
+2021-12-16    14.81410
+2021-12-17    15.66075
 Name: Adj Close, dtype: float64
 ```
 
@@ -79,11 +90,11 @@ plt.savefig('try-eur.png')
 
 ```text
 Date
-2021-12-02    15.21780
-2021-12-03    15.47777
-2021-12-06    15.45506
-2021-12-07    15.55180
-2021-12-08    15.48611
+2021-12-13    15.667590
+2021-12-14    15.574390
+2021-12-15    16.167730
+2021-12-16    16.693090
+2021-12-17    17.732321
 Name: Adj Close, dtype: float64
 ```
 
