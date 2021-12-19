@@ -21,8 +21,9 @@ strategy"
 
 ---
 
-France has good solar potential in its Southeast, around Montepellier,
-Marseille, and Corsica. 
+France has good solar [potential](https://pbs.twimg.com/media/FG8kMI7WQAEi5bH?format=jpg&name=small)
+in its Southeast, around Montepellier, Marseille, and Corsica. Gigawatt level CSPs
+should be possible in these locations.
 
 ---
 
