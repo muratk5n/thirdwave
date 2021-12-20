@@ -11,16 +11,6 @@ renewable sources to meet growing global demand"
 
 ---
 
-"Former student activist Gabriel Boric becomes Chile's youngest
-president Leftist lawmaker Gabriel Boric defeated right-wing candidate
-Jose Antonio Kast in Chile's presidential runoff on Sunday. The
-35-year-old, who rose to prominence leading protests in 2011 demanding
-better education, will be the nation's youngest leader, Reuters
-reported. Boric has promised to address economic inequality, raise
-taxes on the rich and boost green investments, according to the BBC"
-
----
-
 The dynamics of tech adoption dictates there will be one
 winner. Clearly it wont be the one that cannot scale worldwide,
 heavily depends on rare-earth metals. 
@@ -69,6 +59,16 @@ exist.
 And dark matter, dark energy..? The bleeding edge of theoretical
 physics post 70s has not done well.. Gross is asking for 80 more years
 so ST can show anything 🤦‍♂️ \#ST_LQG
+
+---
+
+"Former student activist Gabriel Boric becomes Chile's youngest
+president Leftist lawmaker Gabriel Boric defeated right-wing candidate
+Jose Antonio Kast in Chile's presidential runoff on Sunday. The
+35-year-old, who rose to prominence leading protests in 2011 demanding
+better education, will be the nation's youngest leader, Reuters
+reported. Boric has promised to address economic inequality, raise
+taxes on the rich and boost green investments, according to the BBC"
 
 ## For Members
 
