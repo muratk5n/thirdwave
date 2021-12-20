@@ -37,7 +37,7 @@ problem.
 ---
 
 Gross keeps talking about the classical limit. Classical limit of
-which theory? String Theory have multiples! 
+which theory? String Theory has multiples! 
 
 \#ST_LQG
 
