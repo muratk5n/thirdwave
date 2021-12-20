@@ -23,7 +23,7 @@ telling you it's going to be VHS.
 
 ---
 
-BEVs are shit technology. Use FCEV.
+BEVs are shit technology. FCEV is the way.
 
 ---
 
