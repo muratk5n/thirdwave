@@ -1,99 +1,64 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-2 Gigawatts. Cool.
-
-H2 Fuel News: "Thyssenkrupp to build massive green hydrogen
-electrolyzer in Saudi Neom megacity.. The German company won a
-critical contract to build the first giga-scale 2GW plant"
+H2 View: "African Hydrogen Partnership welcomes 14 new members"
 
 ---
 
-H2 View: "Egypt is set to bolster its hydrogen ecosystem with Scatec
-revealing a new green hydrogen and ammonia production facility that
-will be exported to lucrative international markets"
+WSJ: "The World Wants Green Hydrogen. Namibia Says It Can
+Deliver... The southern African nation of sun-laden deserts and
+wind-swept coastline is aiming to develop a hydrogen industry from
+renewable sources to meet growing global demand"
 
 ---
 
-H2 View: "Denmark to become a powerhouse for hydrogen with its new
-strategy"
+The dynamics of tech adoption dictates there will be one
+winner. Clearly it wont be the one that cannot scale worldwide,
+heavily depends on rare-earth metals. 
 
 ---
 
-France has good solar [potential](https://pbs.twimg.com/media/FG8kMI7WQAEi5bH?format=jpg&name=small)
-in its Southeast, around Montepellier, Marseille, and Corsica. Gigawatt level CSPs
-should be possible in these locations.
+Surely for a while Betamax and VHS were head-to-head. And I dont blame
+some regular customers who mistakenly bought Betamax.. I am the guy
+telling you it's going to be VHS.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/ZeroAvia?ref_src=twsrc%5Etfw">@ZeroAvia</a> has signed a new agreement with <a href="https://twitter.com/DeHavilland?ref_src=twsrc%5Etfw">@DeHavilland</a> to implement <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a>-electric engines into Dash 8-400 Aircraft in order to decarbonise the Canadian-based company’s operations.<a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/H2View?src=hash&amp;ref_src=twsrc%5Etfw">#H2View</a><a href="https://t.co/PwdDZg4INn">https://t.co/PwdDZg4INn</a></p>&mdash; H2 View (@h2_view) <a href="https://twitter.com/h2_view/status/1471049747591045122?ref_src=twsrc%5Etfw">December 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+BEVs are shit technology. Use FCEV.
 
 ---
 
-[Infarm](https://youtu.be/TqeMPJbuXA0)
+Ouch Manchin did the BBB denial on Fox News. 
 
 ---
 
-CNBC: "A Dutch vertical farming company has just been valued at over $1 billion"
-
-[[-]](https://www.cnbc.com/2021/12/16/infarm-vertical-farming-firm-valued-at-over-1-billion-by-investors.html)
-
----
-
-Actually the truth also has a lot of friends.. Dont knock it.
-
-African Proverb: "Whoever tells the truth is chased out of nine villages."
+There is enough uranium but nuclear energy has a serious waste storage
+problem.
 
 ---
 
-What does it mean for a hurricane to have 25 GWh energy? Take one of
-those 1 GW natgas pipelines that are built to supply *a country*. Line
-up 25 of them, and use that massive power to run mega lawnmowers that
-just chew through towns, cities, for one hour. Imagine the havoc that
-cld be created with that. That is an Ivan, or Sandy.
+Gross keeps talking about the classical limit. Classical limit of
+which theory? String Theory have multiples! 
+
+\#ST_LQG
 
 ---
 
-OK Boomer
+One of its active contributers, Smolin himself gave up on LQG didnt
+he?
 
-"@LeftJaddi
-
-My boomer boss today was talking about how she "worked her ass off to
-graduate college with no debt"
-
-I asked her how much tuition was, she said $750 a semester"
+\#ST_LQG
 
 ---
 
-"@JHead1984
+Watching D Gross and Rovelli arguing String Theory vs Loop Quantum
+Gravity. Neither have a complete picture (ST even less so) but both
+report great results on black holes. Hilarious bcz, both iffy theories
+reporting stuff on a construct that itself likely does not
+exist. 
 
-What kills me about student debt cancellation is the people who would
-be angry about it would forget in a week and the people who would be
-forgiven would remember it for the rest of their lives. It's such an
-easy political win"
-
----
-
-The Shat apparently went bankrupt after Trek TOS was canceled (before
-syndication made it big), he divorced, lost bunch of money, ended up
-living out of his truck for a while, where, one day, on his 4x4 TV he
-watched the moon landing live. The contrasts in that story.. The Shat,
-his big scifi role (yet unrecognized), but being poor, and watching
-actual space discovery taking place on TV.
-
----
-
-I did watch the Shatner documentary about the events pre, post his
-Blue Origin flight into space. Some interesting life stories there..
-
----
-
-NFTs seem to have discovered what truly matters in owning content of
-any kind -- a proof of connection to its creator. So now rich guy can
-show off to his other rich friends "here is art piece content xyz and
-its creator gave it to ME". Owning a Picasso was never about the art
-for them, it was having a piece of art FROM Picasso. In painting the
-art piece assured that connection, NFT now offers the same thing for
-digital media.
+And dark matter, dark energy..? The bleeding edge of theoretical
+physics post 70s has not done well.. Gross is asking for 80 more years
+so ST can show anything 🤦‍♂️ \#ST_LQG
 
 ## For Members
 
