@@ -58,7 +58,9 @@ exist.
 
 And dark matter, dark energy..? The bleeding edge of theoretical
 physics post 70s has lost its way.. Gross is asking for 80 more years
-so ST can show anything 🤦‍♂️ \#ST_LQG
+so ST can show anything 🤦‍♂️
+
+\#ST_LQG
 
 ---
 
@@ -66,7 +68,7 @@ so ST can show anything 🤦‍♂️ \#ST_LQG
 president. Leftist lawmaker Gabriel Boric defeated right-wing
 candidate Jose Antonio Kast in Chile's presidential runoff on
 Sunday... Boric has promised to address economic inequality, raise
-taxes on the rich and boost green investments, according to the BBC"
+taxes on the rich and boost green investments"
 
 ## For Members
 
