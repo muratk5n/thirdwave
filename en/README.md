@@ -57,8 +57,8 @@ reporting stuff on a construct that itself likely does not
 exist. 
 
 And dark matter, dark energy..? The bleeding edge of theoretical
-physics post 70s has not done well.. Gross is asking for 80 more years
-so ST can show anything 🤦‍♂️ \#ST_LQG
+physics post 70s is lost.. Gross is asking for 80 more years so ST can
+show anything 🤦‍♂️ \#ST_LQG
 
 ---
 
