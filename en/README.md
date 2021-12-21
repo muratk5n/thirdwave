@@ -31,12 +31,6 @@ James Cameron & Denis Villeneuve
 
 ---
 
-To their credit both Brit and French royals played a role in that era,
-funding exploration, also innovation. The nearby presence of oceans
-would have helped too. Geography.
-
----
-
 Aah the age of exploration.. 
 
 Clarke, *The French Revolution*: "To Louis XVI, science was more
