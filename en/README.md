@@ -16,6 +16,19 @@ the nation"
 
 ---
 
+That is why it's tough for businesses to fund true research. Using
+graphical cards (such as NVidia's) for sci computing was discovered by
+academia, not NVidia.
+
+"@pfau
+
+Research should be play. If your research has a roadmap, you're doing
+it wrong"
+
+[[-]](https://pbs.twimg.com/media/FGxXoAdXEAc_jDI?format=png&name=small)
+
+---
+
 A summary of events in Chilea that led to the latest election
 
 [[-]](https://www.brookings.edu/blog/order-from-chaos/2019/11/18/chileans-learned-the-right-lessons-after-the-pinochet-era/)
