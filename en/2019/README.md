@@ -44,8 +44,6 @@
 
 [US Bases and Navy Locations](05/usmil.md)
 
-[AI and Functions](06/ai.md)
-
 [Bancor](06/bancor.md)
 
 [GE Unleashing a Hydrogen Gas Power Future](06/ge-h2.md)

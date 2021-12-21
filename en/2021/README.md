@@ -72,7 +72,9 @@
 
 [The Value of Everything](10/the-value-of-everything.md)
 
-[Vegetarian Burger](11/veg-burger.md)
+[Vegetarian Burger Deluxe](11/veg-burger-deluxe.md)
+
+[Vegetarian Burger Regular](11/veg-burger.md)
 
 [Eat Yourself Slim](12/eat-yourself-slim-montignac.md)
 
