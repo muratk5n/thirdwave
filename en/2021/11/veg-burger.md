@@ -1,4 +1,4 @@
-# Vegetarian Burger
+# Vegetarian Burger Regular
 
 Ingredients (for three patties)
 
