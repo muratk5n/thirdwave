@@ -16,10 +16,10 @@ Ingredients (4 patties)
 * 1/2 Tblspoon Wheat Starch
 
 Soften onions and musrooms on a pan. Boil the rice, until its water
-evaporates, add colard green to soften it. Add everything along with
-the beans, in a bowl. Either run it through blender or mash, mix by
-hand. Add breadcrums until the mix holds it shape. Make patties, fry
-in oil on a pan. Serve in a bun along with garnish.
+evaporates, add colard green at the end to soften it. Add everything
+along with the beans, in a bowl. Either run it through blender or
+mash, mix by hand. Add breadcrums until the mix holds it shape. Make
+patties, fry in oil on a pan. Serve in a bun along with garnish.
 
 [Ref 1](veg-burger.md)
 

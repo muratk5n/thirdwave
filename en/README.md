@@ -29,7 +29,7 @@ it wrong"
 
 ---
 
-A summary of events in Chilea that led to the latest election
+A summary of events in Chile that led to the latest election
 
 [[-]](https://www.brookings.edu/blog/order-from-chaos/2019/11/18/chileans-learned-the-right-lessons-after-the-pinochet-era/)
 
