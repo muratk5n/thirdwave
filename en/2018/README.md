@@ -114,8 +114,6 @@
 
 [Hyundai Nexo](09/hyunda-nexo-additions.md)
 
-[Nikola](09/nikola.md)
-
 [Part-Time Employees](09/part-time-employees.md)
 
 [Patents](09/patents.md)

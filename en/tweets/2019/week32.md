@@ -45,11 +45,6 @@ Yes. Daughter of late Brzezinski, the strategist.
 
 ---
 
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Nikola Awarded $1.7 Million U.S. Department of Energy Award to Advance its Fuel Cell Membrane-<a href="https://twitter.com/nikolamotor?ref_src=twsrc%5Etfw">@nikolamotor</a> to partner with Carnegie Mellon Univ., Northeastern Univ. &amp; Georgia Institute of Technology on <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> technology research-<a href="https://t.co/aUYIg7Likj">https://t.co/aUYIg7Likj</a> <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/hydrogennow?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennow</a> <a href="https://t.co/TLSSi8iXxh">pic.twitter.com/TLSSi8iXxh</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1159210562443759616?ref_src=twsrc%5Etfw">August 7, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The most pervasive &amp; consequential propaganda doesn&#39;t consist of lies or war psyops, but the simple, everyday act of manufacturing normalcy. By making the current violent, exploitative paradigm seem normal &amp; safe, they can make all attempts to resist it look freakish &amp; dangerous.</p>&mdash; Caitlin Johnstone ⏳ (@caitoz) <a href="https://twitter.com/caitoz/status/1158890445302185984?ref_src=twsrc%5Etfw">August 6, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
@@ -69,14 +64,6 @@ more than NASA. Plug Power revenue rises in Q2 — and it teases 3 more
 big announcements in 2019"
 
 [Link](https://www.bizjournals.com/albany/news/2019/08/06/plug-power-revenue-increase-q2-2019.html)
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Nikola receives $1.7M grant from US Department of Energy for fuel cell research<a href="https://t.co/JcsgVXGQiZ">https://t.co/JcsgVXGQiZ</a></p>&mdash; TESLARATI (@Teslarati) <a href="https://twitter.com/Teslarati/status/1159177483457048578?ref_src=twsrc%5Etfw">August 7, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-"Congratulations to the Nikola Fuel Cell MEA team for getting the US #DOE Heavy Duty Membrane $1.7M development project along with University and Industry Partners!"
-
-[Link](https://twitter.com/nikolamotor/status/1159152712661000192)
 
 ---
 

@@ -361,15 +361,6 @@ At the country featured in Casino Royale. Where am I?
 
 ---
 
-Marco.....Polo
-
-Nikola...Tesla
-
-"Nikola Motors is currently suing Tesla for 2 billion d over the Tesla
-Semi, claiming that it copied Nikola’s design)."
-
----
-
 @torahhorse
 
 did you know you only use 10% of your brain. god uses the other 90% to mine bitcoin

@@ -484,12 +484,6 @@ Line"
 
 ---
 
-Reuters: "Nikola Corp on Tuesday disclosed details for the rollout of
-its hydrogen fuel-cell-powered product lineup, including vehicles with
-a driving range of up to 900 miles"
-
----
-
 Jacobin: "Finland Had a Patent-Free COVID-19 Vaccine Nine Months Ago —
 But Still Went With Big Pharma. A team of leading Finnish researchers
 had a patent-free COVID-19 vaccine ready last May, which could have

@@ -406,12 +406,6 @@ everything second wave.
 
 ---
 
-@h2_view
-
-“Hydrogen has long been called the fuel of the future. The future has begun.” - Nikolas Iwan, H2 Mobility’s Managing Director
-
----
-
 "@william_sw
 
 PowerCell sign development contract for maritime zero emissions solution with Havyard Group"

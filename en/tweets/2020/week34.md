@@ -554,17 +554,6 @@ The Mohawks - Pepsi \#music
 
 ---
 
-"The momentum from both stalwart players like Cummins and upstarts like
-Nikola to deploy zero-emission Class 8 trucks comes as regulators
-begin the march toward mandating that a certain percentage of trucks
-sold each year produce no emissions. The California Air Resources
-Board made history in June by announcing that OEMs will be required to
-begin selling zero-emission commercial trucks and vans in 2024"
-
-[Link](https://www.ccjdigital.com/hydrogen-fuel-cell-future/)
-
----
-
 "RONN Motor Group, today announced the anticipated 2022 release of its
 new Hydrogen Fuel Cell SUV the 'Myst', named for the fact the only
 emission from a hydrogen fuel cell vehicle is water

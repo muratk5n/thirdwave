@@ -199,10 +199,6 @@ peak, the WHO says"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">How amazing is this! Rainbow over the largest hydrogen station around. 1,000 kg per day design. This year will be the best year for hydrogen the world has ever seen. <a href="https://t.co/xMta1MSz8u">pic.twitter.com/xMta1MSz8u</a></p>&mdash; Trevor Milton (@nikolatrevor) <a href="https://twitter.com/nikolatrevor/status/1238654992430460928?ref_src=twsrc%5Etfw">March 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 "@NPR
 
 At drive-through COVID-19 testing centers in South Korea, the test
@@ -1253,10 +1249,6 @@ again in his 90s) but if he is getting old, I understand... Also tired
 of hearing abt his protege / nemesis Anwar, guy's name is constantly
 floated but never makes it to PM. Less of that the better. This new
 guy I'd never heard of. Good.
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">ValueAct’s Jeff Ubben: Nikola Motors is way ahead on zero-emission trucks. Interesting business model.. the fuel network a good value proposition for user and also a revenue machine for Nikola <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> <a href="https://t.co/SNS0ji9XxB">https://t.co/SNS0ji9XxB</a></p>&mdash; Thematica (@Thematicafunds) <a href="https://twitter.com/Thematicafunds/status/1235289165866119168?ref_src=twsrc%5Etfw">March 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 

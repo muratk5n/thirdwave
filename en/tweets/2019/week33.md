@@ -98,10 +98,6 @@ Doing stuff. Handling things... haaandling everything. Crass.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Biggest news in Nikola&#39;s history coming out soon. Can&#39;t wait to finally tell the world. Keep an eye out in October. Possibly sooner! <a href="https://twitter.com/hashtag/emissionsgameover?src=hash&amp;ref_src=twsrc%5Etfw">#emissionsgameover</a></p>&mdash; Trevor Milton (@nikolatrevor) <a href="https://twitter.com/nikolatrevor/status/1161696469537083392?ref_src=twsrc%5Etfw">August 14, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 Dude transcribed 'bella donna' as 'black Madonna" in this song. Totally wrong.
 
 [Video](https://www.youtube.com/watch?v=BRwOaJYOtlU)

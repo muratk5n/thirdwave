@@ -237,10 +237,6 @@ to the region and push Palestenians off their land? Dam.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;The drama surrounding the “Tesla of Trucking” should end in 2021, as Nikola rolls out actual working trucks and other evidence its technology is workable, according to J.P. Morgan.&quot;<br><br>“We look for a steady flow of updates for the Tre in 2021.&quot;<a href="https://t.co/tc1C5NJTdZ">https://t.co/tc1C5NJTdZ</a></p>&mdash; Bjørn Eng (@H2Bjorn) <a href="https://twitter.com/H2Bjorn/status/1343849930482479109?ref_src=twsrc%5Etfw">December 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 Yoshinori Sunahara - Hypnotize \#music
 
 [Link](https://youtu.be/MzCi5kr4Aak)

@@ -458,8 +458,8 @@ Civilizations are based on the means of production.
 ---
 
 What's this thing I hear China is having trouble finding cheap H2 tank
-solutions.. How do Hyundai, Toyota, Nikola handle this? I can't
-imagine tank tech being more expensive than LPG tanks.
+solutions.. How do Hyundai, Toyota handle this? I can't imagine tank
+tech being more expensive than LPG tanks.
 
 ---
 

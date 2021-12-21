@@ -774,15 +774,6 @@ get all crooked, especially mentally
 
 ---
 
-Nikola vs Tesla. Nice match up. I hope US takes the side of the
-American CEO, not some inbred South African.
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Tesla loses bid to invalidate <a href="https://twitter.com/nikolamotor?ref_src=twsrc%5Etfw">@nikolamotor</a> patents in USPTO dispute. USPTO not only upheld Nikola semi truck important patents but refused Tesla&#39;s ask to modify our patents. Two billion dollar lawsuit moving forward. We will defend our company&#39;s IP no matter who it is.</p>&mdash; Trevor Milton (@nikolatrevor) <a href="https://twitter.com/nikolatrevor/status/1252263189741367296?ref_src=twsrc%5Etfw">April 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 "@fuelcellsworks
 
 Gasunie Joins PosHYdon, the First Offshore Green Hydrogen

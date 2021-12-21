@@ -289,20 +289,6 @@ Could It Help Solve our Plastic Crisis?"
 
 ---
 
-"@gos9x
-
-Glad to say that I now own a tiny bit of @nikolamotor! Just bought
-some shares under the ticker; VTIQ soon to be NKLA. The world is ready
-for state of the art zero emission trucks!!"
-
----
-
-Nikola CEO on building H2 stations - CNBC
-
-[Link](https://youtu.be/afEZol4jPcg?t=587)
-
----
-
 What’s the biggest lie you’ve ever been told about capitalism?:
 Translation: "That you only have to work hard to be successful"
 
@@ -394,10 +380,6 @@ The real Fredo
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">NewsFlash-Yesterday (March 3, 2020) <a href="https://twitter.com/nikolamotor?ref_src=twsrc%5Etfw">@nikolamotor</a> announced plans to merge with VectoIQ, changing the stock symbol to ”NKLA”. After some late-night hours under LEDs, here are some of <a href="https://twitter.com/fuelcellsworks?ref_src=twsrc%5Etfw">@fuelcellsworks</a> thoughts-<a href="https://t.co/nsbTJ0rCsa">https://t.co/nsbTJ0rCsa</a> <a href="https://twitter.com/nikolamotor?ref_src=twsrc%5Etfw">@nikolamotor</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/hydrogennow?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennow</a> <a href="https://t.co/hdIsTLbRiA">pic.twitter.com/hdIsTLbRiA</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1235238265294290944?ref_src=twsrc%5Etfw">March 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Russia?src=hash&amp;ref_src=twsrc%5Etfw">#Russia</a> may accept a ceasefire with a guarantee M4 will be open IMMEDIATELY. Otherwise, it will be opened by fire, with a guarantee from <a href="https://twitter.com/hashtag/Turkey?src=hash&amp;ref_src=twsrc%5Etfw">#Turkey</a> &amp; deadline/schedule that all jihadists will be relocated from <a href="https://twitter.com/hashtag/Idlib?src=hash&amp;ref_src=twsrc%5Etfw">#Idlib</a>. <a href="https://twitter.com/hashtag/Syria?src=hash&amp;ref_src=twsrc%5Etfw">#Syria</a> has the upper hand and doesn&#39;t need to give concessions.</p>&mdash; Elijah J. Magnier (@ejmalrai) <a href="https://twitter.com/ejmalrai/status/1235236894155386881?ref_src=twsrc%5Etfw">March 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
@@ -448,10 +430,6 @@ Folks, this Bernie Sanders campaign ad with Barack Obama ad is gonna be a talker
 Airing in FLORIDA now"
 
 [Link](https://mobile.twitter.com/ShaneGoldmacher/status/1235202301658386433)
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hydrogen Truckmaker Nikola Listing On Nasdaq Via Surprise Merger With VectoIQ Worth $3.3 Billion.<br><br>A major win for the <a href="https://twitter.com/hashtag/HydrogenEconomy?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenEconomy</a>. Congrats, <a href="https://twitter.com/nikolamotor?ref_src=twsrc%5Etfw">@nikolamotor</a>!<a href="https://t.co/UA65FteARq">https://t.co/UA65FteARq</a></p>&mdash; BayoTech On-Site Hydrogen Generation (@H2Bayo) <a href="https://twitter.com/H2Bayo/status/1235186046037618688?ref_src=twsrc%5Etfw">March 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
@@ -579,19 +557,6 @@ traded at 0.9999%. More to follow"
 The market right after the FED cut
 
 <img width="240" src="https://media.giphy.com/media/6K3lyG7ywy7Li/giphy.gif" />
-
----
-
-Nikola Motors listing on the stock market? Great news. Talked about
-this company [before](../../2018/09/nikola.md).
-
-This stock will be a BUY.
-
-"@bjornsimonsen
-
-Great hydrogen news today: @nikolamotor becoming investable for
-everyone who believe in the company, and a future where renewable
-hydrogen plays a major part as a zero-emission fuel"
 
 ---
 

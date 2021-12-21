@@ -597,10 +597,6 @@ without central bank support'"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/nikolamotor?ref_src=twsrc%5Etfw">@nikolamotor</a> in partnership with <a href="https://twitter.com/AnheuserBusch?ref_src=twsrc%5Etfw">@AnheuserBusch</a>, has completed its first commercial delivery using a hydrogen-electric vehicle!<a href="https://twitter.com/hashtag/H2View?src=hash&amp;ref_src=twsrc%5Etfw">#H2View</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://twitter.com/hashtag/hydrogennow?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennow</a> <a href="https://twitter.com/hashtag/fuelcells?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcells</a> <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a><a href="https://t.co/P163Jgj9P4">https://t.co/P163Jgj9P4</a></p>&mdash; H2 View (@h2_view) <a href="https://twitter.com/h2_view/status/1197891731662016518?ref_src=twsrc%5Etfw">November 22, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 "@thehill
 
 Trump narrowly leads Biden but trails Sanders in head-to-head 2020

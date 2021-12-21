@@ -56,7 +56,7 @@ need gdp per capita increase, increase efficiency, quality.
 "Leading CEO's Ask California Governor To Dedicate $500 Million In
 Hydrogen Infrastructure Funds..
 
-CEO's of 25 companies included Toyota, Hyundai, @nikolamotor"
+CEO's of 25 companies included Toyota, Hyundai"
 
 [Link](https://bit.ly/3y2ZBCh )
 

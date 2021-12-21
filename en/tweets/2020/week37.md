@@ -191,10 +191,6 @@ climate change has produced, with disastrous consequences"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Nikola delivers on yet another promise to its stakeholders...Nikola and <a href="https://twitter.com/GM?ref_src=twsrc%5Etfw">@gm</a> form strategic partnership, starting with the Nikola Badger. One step closer to a zero-emission future. <a href="https://twitter.com/hashtag/NikolaBadger?src=hash&amp;ref_src=twsrc%5Etfw">#NikolaBadger</a> <a href="https://t.co/MYuw7cscIz">https://t.co/MYuw7cscIz</a></p>&mdash; Nikola Motor Company (@nikolamotor) <a href="https://twitter.com/nikolamotor/status/1303296195377295361?ref_src=twsrc%5Etfw">September 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 California handing out fracking permits, says journo..? 🤨 That's my WTF emoji
 
 ---

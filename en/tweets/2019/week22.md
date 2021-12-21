@@ -171,19 +171,6 @@ I still want Corbyn as PM. His angle probably is  pullimg himself out of any con
 
 ---
 
-[Link](https://twitter.com/kaffjamesnewtow/status/1133408952891400192)
-
-"Nikola Founder Trevor Milton Wants to Build iPhone of Trucks"
-
-"We stopped taking preorders after $14 billion of orders, and I’m sold out for eight years right now."
-
-".. We refunded all of our deposits because we didn’t want people to think we were using their money to fund our company. We have no debt. That was an important thing to me."
-
-H2 is not only a better form of energy storage, it also attracts non-charlatans, solid thinkers.
-
----
-
-
 
 
 

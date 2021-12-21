@@ -111,10 +111,6 @@ providers, fueling solutions and component suppliers"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/nikolamotor?ref_src=twsrc%5Etfw">@nikolamotor</a>, <a href="https://twitter.com/IVECO?ref_src=twsrc%5Etfw">@IVECO</a> &amp; <a href="https://twitter.com/OpenGridEurope?ref_src=twsrc%5Etfw">@OpenGridEurope</a> announced their intention of collaborating to establish a business structure for transporting <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> via pipeline network from production sources to H2 refuelling stations in support of <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> electric vehicles<a href="https://t.co/tuJsKhwErL">https://t.co/tuJsKhwErL</a></p>&mdash; Hydrogen Europe (@H2Europe) <a href="https://twitter.com/H2Europe/status/1382665247870304256?ref_src=twsrc%5Etfw">April 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 Didnt QE say about the 2008 crisis 'it's awful - Why did nobody see it
 coming?' That sounds like this is not someone who likes to remain
 up-to-date on matters, but *has* to

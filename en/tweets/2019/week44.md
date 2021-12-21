@@ -261,10 +261,6 @@ Ha ha... technically Warren is a boomer, Bernie is not.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Big update coming next week about 2020. Wow. Get ready! Nikola will change the world as we know it. Even bigger than Nikola World 2019 and that was epic!</p>&mdash; Trevor Milton (@nikolatrevor) <a href="https://twitter.com/nikolatrevor/status/1189338143926956033?ref_src=twsrc%5Etfw">October 30, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 "Today ... brings a bumper crop of the highest quality, with new
 examples from a few of the world’s most prominent theoretical
 physicists. Today’s hype neatly exemplifies the two main current
@@ -728,10 +724,6 @@ were always numerous, but, 30 years ago, when nonlinear optimization
 techniques were relatively more naive than they are today, even the
 most optimistic practitioners would not try to optimize such complex
 problems." \#introDerivativeFreeOpt
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Bosch meets <a href="https://twitter.com/nikolamotor?ref_src=twsrc%5Etfw">@nikolamotor</a>: In just three years of development work, we have built the &quot;Nikola Two&quot; prototype - a truck with an eco-friendly <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> powertrain. Check out the pictures to get some facts from the project! More: <a href="https://t.co/pXOmJnnT7L">https://t.co/pXOmJnnT7L</a> <a href="https://twitter.com/hashtag/emobility?src=hash&amp;ref_src=twsrc%5Etfw">#emobility</a> <a href="https://t.co/tXL3uglJml">pic.twitter.com/tXL3uglJml</a></p>&mdash; BoschGlobal (@BoschGlobal) <a href="https://twitter.com/BoschGlobal/status/1187731151382892545?ref_src=twsrc%5Etfw">October 25, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 

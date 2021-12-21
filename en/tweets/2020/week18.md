@@ -300,14 +300,6 @@ following the 2000 presidential election"
 
 ---
 
-Marco. Polo. 
-
-Nikola. Tesla.
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Patent Office gives Nikola a small victory in $2B lawsuit over Tesla Semi--<a href="https://t.co/6lKx4KtxNC">https://t.co/6lKx4KtxNC</a> <a href="https://twitter.com/nikolamotor?ref_src=twsrc%5Etfw">@nikolamotor</a> <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://twitter.com/hashtag/zeroemissions?src=hash&amp;ref_src=twsrc%5Etfw">#zeroemissions</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> <a href="https://twitter.com/hashtag/fuelcells?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcells</a> <a href="https://twitter.com/fuelcellsworks?ref_src=twsrc%5Etfw">@fuelcellsworks</a> <a href="https://twitter.com/hashtag/h2?src=hash&amp;ref_src=twsrc%5Etfw">#h2</a> <a href="https://t.co/O2ZlJiKJZO">pic.twitter.com/O2ZlJiKJZO</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1255509472849661954?ref_src=twsrc%5Etfw">April 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 Well - the bad effects can stil stick on the incumbent. Think of
 election 1980, Carter vs Reagan - the hostage crisis at the time was
 too "external", there were gas lines, .. due to Iran, so external

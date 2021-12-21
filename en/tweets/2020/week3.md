@@ -286,11 +286,10 @@ Chevron.
 
 "@william_sw
 
-CNH Ind/IVECO, Michelin, Saudi Aramco, Schaeffler Group,
-Siemens; Chart Industries, Chevron, ElringKlinger, Fortescue Metals
-Grp, Galp, ILJIN Composites, MANN+HUMMEL, McDermott, Nikola Motor,
-Sinocat, Snam, Woodside Energy; Antin Infrastructure, BNP Paribas,
-Société Générale +2
+CNH Ind/IVECO, Michelin, Saudi Aramco, Schaeffler Group, Siemens;
+Chart Industries, Chevron, ElringKlinger, Fortescue Metals Grp, Galp,
+ILJIN Composites, MANN+HUMMEL, McDermott, Sinocat, Snam, Woodside
+Energy; Antin Infrastructure, BNP Paribas, Société Générale +2
 
 @HydrogenCouncil 22 new member companies are joining us "
 

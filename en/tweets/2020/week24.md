@@ -318,10 +318,6 @@ aftermath of George Floyd’s brutal murder"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Congratulations to <a href="https://twitter.com/nikolamotor?ref_src=twsrc%5Etfw">@nikolamotor</a> and <a href="https://twitter.com/nikolatrevor?ref_src=twsrc%5Etfw">@nikolatrevor</a> for having built so much momentum with <a href="https://twitter.com/hashtag/NKLA?src=hash&amp;ref_src=twsrc%5Etfw">#NKLA</a> in the span of only one week. Exciting times ahead for <a href="https://twitter.com/hashtag/clean?src=hash&amp;ref_src=twsrc%5Etfw">#clean</a> and <a href="https://twitter.com/hashtag/zeroemission?src=hash&amp;ref_src=twsrc%5Etfw">#zeroemission</a> transport! <a href="https://t.co/7CGOb6hM4n">pic.twitter.com/7CGOb6hM4n</a></p>&mdash; Ziad Ayad (@ziadayad) <a href="https://twitter.com/ziadayad/status/1270295512160391171?ref_src=twsrc%5Etfw">June 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 Someone get that floating Tesla while you are at it -- cuz u know, space junk
 
 ---
@@ -729,10 +725,6 @@ economies completely by renewable energy alone.
 We must find a renewable energy carrier"
 
 [Link](https://www.luxresearchinc.com/blog/why-hydrogen-and-why-now)
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hydrogen infrastructure for HD trucks on its ways:<br>Switzerland: Hydrospider delivers green H2 to the HRS [<a href="https://t.co/dFMCphgcph">https://t.co/dFMCphgcph</a>]<br>USA: Nikola orders electrolyzers for 5 HRSs [<a href="https://t.co/VASvWuHNmf">https://t.co/VASvWuHNmf</a>]<br>China: China H2 Energy and FC Monthly Report; April 2020: &gt;200 HRSs [ASIACHEM]</p>&mdash; Reiner (@H2FCEV) <a href="https://twitter.com/H2FCEV/status/1269697483019636737?ref_src=twsrc%5Etfw">June 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 

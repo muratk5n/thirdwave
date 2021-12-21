@@ -146,10 +146,6 @@ They do look kinda weird
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Founded in 2015, <a href="https://twitter.com/nikolamotor?ref_src=twsrc%5Etfw">@NikolaMotor</a> has rapidly become one of the most talked about vehicle manufacturers... but how did the market leader get to where it is today? Discover the story of <a href="https://twitter.com/hashtag/Nikola?src=hash&amp;ref_src=twsrc%5Etfw">#Nikola</a> in this 3-part series by <a href="https://twitter.com/hashtag/H2View?src=hash&amp;ref_src=twsrc%5Etfw">#H2View</a>’s <a href="https://twitter.com/molly_burgess97?ref_src=twsrc%5Etfw">@molly_burgess97</a>.<a href="https://t.co/oOL2kyIlqL">https://t.co/oOL2kyIlqL</a></p>&mdash; H2 View (@h2_view) <a href="https://twitter.com/h2_view/status/1293557398532239360?ref_src=twsrc%5Etfw">August 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 "[W]hat isn't discussed is how Mr. 'Content Is King' got his 'content'
 ...  [Redstone] bested business rivals throughout his long career as
 he engineered deals for Viacom, Paramount and CBS and displayed an

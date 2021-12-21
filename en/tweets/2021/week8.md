@@ -240,10 +240,6 @@ Department and Township Officials"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Nikola Corp on Tuesday disclosed details on its hydrogen fuel-cell-powered product lineup that will include vehicles with a driving range of up to 900 miles.&quot;<a href="https://t.co/WXbJgAdFxJ">https://t.co/WXbJgAdFxJ</a></p>&mdash; Bj�rn Eng (@H2Bjorn) <a href="https://twitter.com/H2Bjorn/status/1364220898933305344?ref_src=twsrc%5Etfw">February 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 "@ChrisMurphyCT
 
 Republicans now pushing a 'work requirement' for child tax credit for

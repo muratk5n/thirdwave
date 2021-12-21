@@ -356,12 +356,6 @@ Security afloat: tax rich people like himself"
 
 ---
 
-"Nikola Motor: Taking trucks out of the carbon equation"
-
-[Link](https://www.h2-view.com/story/nikola-motor-taking-the-truck-out-of-the-carbon-equation/)
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Charles Booker ran an historic, grassroots campaign for the U.S. Senate centered on a Green New Deal, Medicare for All, and bold criminal justice reform. I&#39;m grateful to have earned <a href="https://twitter.com/Booker4KY?ref_src=twsrc%5Etfw">@Booker4KY</a>&#39;s support and know that he will lead the future of progressive politics in our country. <a href="https://t.co/TKr9m9EnfJ">pic.twitter.com/TKr9m9EnfJ</a></p>&mdash; Ed Markey (@EdMarkey) <a href="https://twitter.com/EdMarkey/status/1298613994488508422?ref_src=twsrc%5Etfw">August 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
@@ -606,17 +600,6 @@ range of colours of light, or wavelengths, than is typically used in
 optical fibre"
 
 [Link](https://www.capacitymedia.com/articles/3826180/ucl-sets-internet-speed-record-of-178tbps)
-
----
-
-NEL is a BUY
-
-"@HydrogenNhf
-
-Today @nikolamotor will release excellent H2 news about the Heavy Duty
-Vehicles(HDV) H2 Fueling stations network in Usa for Nikola Corp. ..
-@nelhydrogen is the sole supplier for Heavy Duty Vehicles H2 Fueling
-stations"
 
 ---
 

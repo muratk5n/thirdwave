@@ -748,17 +748,6 @@ journal Cell Reports *Physical Science*"
 
 ---
 
-"@IEA_Hydrogen
-
-@nikolamotor has signed a $30 million deal to purchase 85-megawatt
-alkaline electrolyzers from @nelhydrogen to build its five initial
-hydrogen truck filling stations. The stations will have an 8 ton per
-day hydrogen production capacity"
-
-[Link](http://ow.ly/hWfd50A9kyZ)
-
----
-
 <blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://t.co/fcVSg5jJbx">https://t.co/fcVSg5jJbx</a></p>&mdash; Bryan Kelly (@BryanKeIIy) <a href="https://twitter.com/BryanKeIIy/status/1274540332093452289?ref_src=twsrc%5Etfw">June 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
@@ -867,10 +856,6 @@ people. He literally has no idea what he’s talking about at all"
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Where I come from murderers aren’t fired, they’re arrested, booked and sentenced. If they think this is enough- it ain’t. <br>We demand justice for Breonna Taylor.</p>&mdash; Ron Perlman (@perlmutations) <a href="https://twitter.com/perlmutations/status/1274036992834060288?ref_src=twsrc%5Etfw">June 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Breaking! <a href="https://twitter.com/nikolamotor?ref_src=twsrc%5Etfw">@nikolamotor</a> factory in Coolidge Arizona breaks ground July 23rd. Ceremony to be held there to kick off construction of plant that will build up to 35,000 <a href="https://twitter.com/hashtag/zeroemission?src=hash&amp;ref_src=twsrc%5Etfw">#zeroemission</a> semi-trucks and create thousands of jobs-<a href="https://t.co/VrlnEQTaHz">https://t.co/VrlnEQTaHz</a> <a href="https://twitter.com/hashtag/hydrogennow?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennow</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> <a href="https://t.co/yB6hUlTQH6">pic.twitter.com/yB6hUlTQH6</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1274352998655950848?ref_src=twsrc%5Etfw">June 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
@@ -1000,14 +985,6 @@ Elections are a vote on the incumbent, on three [broad parameters](../../2015/04
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Please welcome Australia&#39;s first <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a>-powered SUV equipped with a 60kW <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> offering a 650 km (403 mi) range, with a quick fill at the <a href="https://twitter.com/hashtag/H2?src=hash&amp;ref_src=twsrc%5Etfw">#H2</a> pump - H2X Snowy.<br><br>Australia is planning to become a world leader as exporters of renewable hydrogen.<a href="https://t.co/QU5gtQUd6p">https://t.co/QU5gtQUd6p</a> <a href="https://t.co/jfnKBd40PM">pic.twitter.com/jfnKBd40PM</a></p>&mdash; H2 &amp; Fuel Cell News🌎 (@H2NewsGlobal) <a href="https://twitter.com/H2NewsGlobal/status/1274028275421986816?ref_src=twsrc%5Etfw">June 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-"Nikola Badger hydrogen EV ute coming to Australia"
-
-<img width="340" src="https://motoring.pxcrush.net/motoring/general/editorial/nikola-badger-1-upsv.jpg?width=640"/>
-
-[Link](https://www.motoring.com.au/nikola-badger-hydrogen-ev-ute-reservations-open-soon-124672/)
 
 ---
 

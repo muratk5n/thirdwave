@@ -465,14 +465,6 @@ blue hydrogen now.  Nice coincidence.
 
 ---
 
-"@RyseHydrogen
-
-Arizona-based company @nikolamotor, arch rival of @Tesla, and with a
-market valuation exceeding $30bn, are planning on installing hydrogen
-charging stations for its trucks in the UK and across Europe"
-
----
-
 "NYPD Eliminates Plainclothes Anti-Crime Units Implicated In Many
 Shootings ... The unit, which included about 600 officers, was formed
 in the late 1990s. Members have been involved in some of the most
@@ -507,10 +499,6 @@ recruited me promised me free stuff"
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Fuelling of the <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> car 🚙: <br>✅3 minutes<br>✅400 grams of fuel <br>✅0 emissions! <br><br>The future is green🌿!<a href="https://twitter.com/hashtag/hydrogenstrategy?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogenstrategy</a> <a href="https://twitter.com/hashtag/energysystemintegration?src=hash&amp;ref_src=twsrc%5Etfw">#energysystemintegration</a><a href="https://twitter.com/hashtag/EUGreenDeal?src=hash&amp;ref_src=twsrc%5Etfw">#EUGreenDeal</a> 🇪🇺🌿 <a href="https://t.co/HxHAyvSaPx">pic.twitter.com/HxHAyvSaPx</a></p>&mdash; Kadri Simson (@KadriSimson) <a href="https://twitter.com/KadriSimson/status/1280191029128368128?ref_src=twsrc%5Etfw">July 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">USA HD truck maker, Nikola, is planning 50 <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> stations in the UK and the rest of Europe as their value surpassed $30bn last month.<br><br>“<a href="https://twitter.com/hashtag/H2?src=hash&amp;ref_src=twsrc%5Etfw">#H2</a> is more profitable than USA because of the high cost of diesel, taxes, and toll rates,&quot; said Trevor Milton.<a href="https://t.co/x3Zsr4nmV9">https://t.co/x3Zsr4nmV9</a> <a href="https://t.co/wJ04JEzmlO">pic.twitter.com/wJ04JEzmlO</a></p>&mdash; H2 &amp; Fuel Cell News🌎 (@H2NewsGlobal) <a href="https://twitter.com/H2NewsGlobal/status/1279798138975465474?ref_src=twsrc%5Etfw">July 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 

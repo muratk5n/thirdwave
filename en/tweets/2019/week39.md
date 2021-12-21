@@ -495,14 +495,6 @@ strengthens as the interest rate approaches zero."
 
 ---
 
-”@nikolamotor
-
-It seems hydrogen has the potential to disrupt this key market for the
-oil industry by replacing fuel demand with demand for hydrogen. It may
-only be a matter of time before this replacement happens.” ⁦
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Platinum-Graphene Fuel Cell Catalysts Show Superior Stability Over Bulk Platinum--Films of platinum only two atoms thick supported by graphene could enable <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> catalysts with unprecedented catalytic activity and longevity--<a href="https://t.co/gpFMEkMYk7">https://t.co/gpFMEkMYk7</a> <a href="https://twitter.com/GeorgiaTech?ref_src=twsrc%5Etfw">@GeorgiaTech</a> <a href="https://twitter.com/hashtag/fuelcells?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcells</a> <a href="https://t.co/T8ogJq0jzN">pic.twitter.com/T8ogJq0jzN</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1175033934415093760?ref_src=twsrc%5Etfw">September 20, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---

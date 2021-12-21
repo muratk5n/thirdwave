@@ -449,39 +449,6 @@ A reminder: Obama was a proponent of battery electric cars.
 
 ---
 
-This could be hard for bitch bev lovers to hear but the calculation is clear.
-
-My guess, if the long-range goes, the short range will go with
-it. "Betamax has great quality!". "I'll have Betamax player for my
-good movies, VHS for normal ones".
-
-It don't work that way.
-
-"Nikola is a perfect example of a use case ideally suited to hydrogen
-vehicles. Even if you could drastically increase the range and
-charging speed of current electric drivetrains, long-haul trucking
-presents two huge barriers to electrification.
-
-First, batteries are heavy. While high efficiency can compensate for
-that in passenger cars, trucks have a bigger problem. Commercial
-trucks are weight restricted to a gross vehicle weight of 80,000
-pounds on most highways. That means that, if your electric powertrain
-weighs 5,000 pounds more than a traditional powertrain, your maximum
-amount of cargo (and therefore revenue) has a lower ceiling.
-
-Additionally, long-haul trucks drive a lot. The hint is in the
-name. If you’re covering hundreds of thousands of miles per year, even
-with a high range you’re going to be doing a lot of fast charging
-every year. Fast charging degrades batteries, which means that the
-life of your huge battery pack isn’t going to be as long as your
-business may require.
-
-And because routes can be planned and optimized, companies can use hydrogen trucks on routes with fueling infrastructure as they wait for large-scale availability"
-
-[Link](https://jalopnik.com/the-future-of-hydrogen-cars-1838119178)
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Shameful that <a href="https://twitter.com/hashtag/FuckoffScotland?src=hash&amp;ref_src=twsrc%5Etfw">#FuckoffScotland</a> is trending in England. My question to Scotland is, if you do decide to fuck off, can I please come with you?</p>&mdash; Liam O&#39;Reilly (@Liamoreilly2) <a href="https://twitter.com/Liamoreilly2/status/1172516640703094785?ref_src=twsrc%5Etfw">September 13, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---

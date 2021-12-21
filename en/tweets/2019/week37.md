@@ -927,10 +927,6 @@ Weird. I dig it.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">In fifty years we might look back and give Nikola biggest unit credit for decarbonizing transport. Trucks consume a lot of energy. Easier to sell fleets. Nikola and others will build out hydrogen infrastructure and help cost curve for passenger FCEVs. <a href="https://t.co/CLuexVXpNm">https://t.co/CLuexVXpNm</a></p>&mdash; Garry Golden (@garrygolden) <a href="https://twitter.com/garrygolden/status/1169655089453289472?ref_src=twsrc%5Etfw">September 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 Reveal.js based HTML presentations look really good. I could probably
 generate these things from markdown. Time to throw out old PDF based
 presentation system.

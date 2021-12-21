@@ -164,10 +164,6 @@ with Higher Performance for Greater Customer Benefit
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/nikolamotor?ref_src=twsrc%5Etfw">@NikolaMotor</a> CEO and co-founder Trevor Milton donates $150,000 to families in need amidst the <a href="https://twitter.com/hashtag/coronavirus?src=hash&amp;ref_src=twsrc%5Etfw">#coronavirus</a> pandemic.<a href="https://twitter.com/hashtag/H2View?src=hash&amp;ref_src=twsrc%5Etfw">#H2View</a> <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a><a href="https://t.co/6x0cHwCfQp">https://t.co/6x0cHwCfQp</a></p>&mdash; H2 View (@h2_view) <a href="https://twitter.com/h2_view/status/1248192677214126081?ref_src=twsrc%5Etfw">April 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 "@kayewhitehead
 
 My dads friend died 2.5 weeks ago. I begged him not to go to the funeral. (underlining conditions). I even told my mom to hide his keys. I was so frantic about it that he didn’t go

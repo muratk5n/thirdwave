@@ -382,10 +382,6 @@ Information Trends"
 
 ---
 	
-"Nikola invests $50M to make hydrogen fuel in the Midwest"
-
----
-
 Whichever tech is used to generate energy doesn't matter, produce
 renewable fuel, ship. H2 economy can handle all types of input.
 

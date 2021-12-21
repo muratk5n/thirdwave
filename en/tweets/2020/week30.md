@@ -31,10 +31,6 @@ months without trial after winning pollution case against Chevron"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Nikola Corporation Breaks Ground On Coolidge Multi-Product Factory Manufacturing Facility-<a href="https://twitter.com/nikolamotor?ref_src=twsrc%5Etfw">@nikolamotor</a> <a href="https://twitter.com/hashtag/zeroemission?src=hash&amp;ref_src=twsrc%5Etfw">#zeroemission</a> facility will have capacity to produce 35,000 Class 8 commercial semi-trucks annually, running 2 shifts <a href="https://t.co/ngXuKFLYYs">https://t.co/ngXuKFLYYs</a> <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> <a href="https://twitter.com/hashtag/fuelcells?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcells</a> <a href="https://t.co/mszZwufcb3">pic.twitter.com/mszZwufcb3</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1286362535017558016?ref_src=twsrc%5Etfw">July 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 The plan of action for change doesn't require input from people. Hear
 the grievance, that's all
 
@@ -106,12 +102,6 @@ economic relief for coronavirus"
 ---
 
 <img width="340" src="https://media1.tenor.com/images/710f12f8f1d5747679bca1de873f7445/tenor.gif"/>
-
----
-
-"[The] New Thing in Fuel. Just Look at Truck Makers’ Earnings"
-
-[Link](https://www.barrons.com/articles/hydrogen-fuel-trucks-nikola-green-energy-51595430426)
 
 ---
 
@@ -215,15 +205,6 @@ print (np.round(work / 85000 * 100), '%')
 ```
 
 "How can you calculate BEV efficiency as 60%?"
-
----
-
-"@nikolamotor
-
-How do we pay for the hydrogen infrastructure? Listen to this few
-seconds of a clip"
-
-[Link](https://mobile.twitter.com/nikolamotor/status/1284911491867607041)
 
 ---
 

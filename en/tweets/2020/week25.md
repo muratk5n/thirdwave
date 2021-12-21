@@ -97,13 +97,6 @@ work in a particular area or shame people for doing it"
 
 ---
 
-"[Nikola Motor](https://nikolamotor.com/) to open pre-orders for fuel
-cell pickup truck"
-
-<img width="340" src="https://techcrunch.com/wp-content/uploads/2020/06/nikola_badger4.jpg?w=990&crop=1"/>
-
----
-
 File Brazillia, La Boulangerie Digitale \#music
 
 [Link](https://youtu.be/1ZskFge3Udg?t=32)
@@ -417,12 +410,6 @@ and yet here we are"
 
 ---
 
-Info from T. Milton on Nikola
-
-[Link](https://youtu.be/xN8tUQoZg_s?t=150)
-
----
-
 Plus there is that annoying detail that US played a huge part turning
 China into what it is today. 
 
@@ -464,10 +451,6 @@ low expectations have cost the public billions, with little to show
 for it"
 
 [Link](https://mobile.twitter.com/EFF/status/1272663173724700674)
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">10:08 EST? It&#39;s <a href="https://twitter.com/hashtag/H2time?src=hash&amp;ref_src=twsrc%5Etfw">#H2time</a>.<a href="https://twitter.com/nikolamotor?ref_src=twsrc%5Etfw">@nikolamotor</a>&#39;s <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> electrolyzer purchase order this week was BIG. How big? This big. 👇 cc: <a href="https://twitter.com/bjornsimonsen?ref_src=twsrc%5Etfw">@bjornsimonsen</a> <a href="https://twitter.com/nikolatrevor?ref_src=twsrc%5Etfw">@nikolatrevor</a> <br>(<a href="https://twitter.com/IEA_Hydrogen?ref_src=twsrc%5Etfw">@IEA_Hydrogen</a> data is ... contentious, but was publicly available.) <a href="https://t.co/dc05X21pGg">pic.twitter.com/dc05X21pGg</a></p>&mdash; Matthew Klippenstein (@ElectronComm) <a href="https://twitter.com/ElectronComm/status/1268907426440531968?ref_src=twsrc%5Etfw">June 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 

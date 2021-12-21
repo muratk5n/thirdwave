@@ -330,7 +330,6 @@ YES. Huge report: Road Map to a US #Hydrogen Economy released. Written by:
 * Engie
 * Exelon Corporation
 * Microsoft
-* Nikola Motors
 * Nel Hydrogen
 * Plug Power
 * Power Innovations

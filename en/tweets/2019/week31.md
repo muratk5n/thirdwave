@@ -388,9 +388,9 @@ This is a massive project. All UK heating will be H2-ready when it completes.
 
 ---
 
-Congratulations to CHBC Members @GM @nelhydrogen @nikolamotor for
-successfully receiving @ENERGY funding for #hydrogen-related research
-in heavy-duty applications. Well done!
+Congratulations to CHBC Members @GM @nelhydrogen for successfully
+receiving @ENERGY funding for #hydrogen-related research in heavy-duty
+applications. Well done!
 
 [Link](https://mobile.twitter.com/CAHydrogen/status/1155932964712136704)
 

@@ -311,10 +311,6 @@ Are you guys still all in for this?
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hyzon, Toyota-Hino, Nikola/IVECO and Hyundai are changing the world of trucking to literal zero emission transport and this contribute to drastic greenhouse gas emission reductions...<a href="https://t.co/mHmaEtSExm">https://t.co/mHmaEtSExm</a></p>&mdash; Reiner (@H2FCEV) <a href="https://twitter.com/H2FCEV/status/1242704315489320962?ref_src=twsrc%5Etfw">March 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 "@notstevenwhite
 
 I just talked to my grandparents and I didn't actually get the sense

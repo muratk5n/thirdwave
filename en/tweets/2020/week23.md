@@ -143,14 +143,6 @@ civil unrest sfchronicle.com'"
 
 ---
 
-"@JoSamps92
-
-@nikolamotor has ordered 85MW alkaline electrolysers from @nelhydrogen
-to support five of the world’s first eight tonnes per day \#hydrogen
-fuelling stations"
-
----
-
 Yeah. Someone up the chain dropped the ball here so we still study all
 of that up in this mot..f..ka.
 
@@ -160,13 +152,6 @@ study mathematics and philosophy, geography, natural history, naval
 architecture, navigation, commerce, and agriculture in order to give
 201their children a right to study paintings, poetry, music,
 architecture, statuary, tapestry, and porcelain"
-
----
-
-You need to be on a first name basis with green revolution. Go with
-Nikola, not Tesla.
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Nikola, pioneering US makers of hydrogen-powered trucks, is set to trade shares on Nasdaq. It’s the most audacious Wall Street debut for a zero-emission high-tech transportation startup since Tesla’s a decade ago. <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/greenrecovery?src=hash&amp;ref_src=twsrc%5Etfw">#greenrecovery</a> <a href="https://twitter.com/hashtag/wecantwait?src=hash&amp;ref_src=twsrc%5Etfw">#wecantwait</a><a href="https://t.co/4JbZ6koG8c">https://t.co/4JbZ6koG8c</a></p>&mdash; RyseHydrogen #wecantwait (@RyseHydrogen) <a href="https://twitter.com/RyseHydrogen/status/1268422348593602560?ref_src=twsrc%5Etfw">June 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
@@ -184,10 +169,6 @@ It is so exhausting being everybody’s one black friend right now"
 Wasnt sure guy was playing but rest of the thread suggests he might be serious
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Cops clubbed me and took my bike what the he’ll do I do</p>&mdash; Armin Rosen (@ArminRosen) <a href="https://twitter.com/ArminRosen/status/1268350880115458051?ref_src=twsrc%5Etfw">June 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/nikolamotor?ref_src=twsrc%5Etfw">@NikolaMotor</a> has today confirmed the completion of its previously announced merger with publicly traded special purpose acquisition company <a href="https://twitter.com/hashtag/VectolQ?src=hash&amp;ref_src=twsrc%5Etfw">#VectolQ</a> Acquisition Corp.<a href="https://twitter.com/hashtag/H2View?src=hash&amp;ref_src=twsrc%5Etfw">#H2View</a> <a href="https://twitter.com/hashtag/FCEVs?src=hash&amp;ref_src=twsrc%5Etfw">#FCEVs</a> <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a><a href="https://t.co/zDRHe4rY1E">https://t.co/zDRHe4rY1E</a></p>&mdash; H2 View (@h2_view) <a href="https://twitter.com/h2_view/status/1268216249051418624?ref_src=twsrc%5Etfw">June 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
@@ -256,10 +237,6 @@ FED is doing your job Congress
 "@Greene_DM
 
 The Fed will buy Illinois state debt. Good news. Others should follow"
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Nikola Motor has been approved for it&#39;s reverse merger with VectoIQ and will begin to trade shares on Nasdaq starting on Thursday as stock ticker <a href="https://twitter.com/search?q=%24NKLA&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$NKLA</a>.<a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> powertrains are about 5,000 pounds less than a battery electric powertrain. <a href="https://twitter.com/hashtag/H2?src=hash&amp;ref_src=twsrc%5Etfw">#H2</a> <a href="https://t.co/79WLbIwlmA">https://t.co/79WLbIwlmA</a> <a href="https://t.co/fCgaaGgUeb">pic.twitter.com/fCgaaGgUeb</a></p>&mdash; H2 &amp; Fuel Cell News🌎 (@H2NewsGlobal) <a href="https://twitter.com/H2NewsGlobal/status/1268183611800518657?ref_src=twsrc%5Etfw">June 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 

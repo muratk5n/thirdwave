@@ -402,12 +402,6 @@ FUCK YEAH
 
 ---
 
-Nikola Badger \#fox 
-
-[Link](https://youtu.be/u0yMmPA7NjY?t=93)
-
----
-
 🙄
 
 It's crazy if u think abt it... 
@@ -844,13 +838,6 @@ Locust.. OKay
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Well it had the word insurance in it</p>&mdash; Ken Klippenstein (@kenklippenstein) <a href="https://twitter.com/kenklippenstein/status/1276726333008236544?ref_src=twsrc%5Etfw">June 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-HAha.. Too good..
-
-"Nikola will utilize fuel cell water for the Badger's built-in
-drinking fountain"
 
 ---
 

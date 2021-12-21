@@ -323,14 +323,6 @@ supplementing the grand teacher Strang.. feels weird...
 
 ---
 
-"General Motors and Nikola Corporation announced a strategic
-partnership on Tuesday in which GM will supply hydrogen fuel-cell
-systems and battery systems to Nikola"
-
-[Link](https://www.greencarreports.com/news/1129530_gm-will-build-nikola-badger-electric-truck-supply-hydrogen-fuel-cell-tech)
-
----
-
 Even if there is a pivot to Ammonia Economy from Hydrogen Economy (not
 much change, cars can still run on H2) the production of clean NH3
 requires clean H2 as feedstock. EU made the right bet.

@@ -23,8 +23,7 @@ event]".
 
 "Tesla Supercharging stations [..] take about 20 minutes to charge to
 50%, 40 minutes to charge to 80%, and 75 minutes to 100%" Too
-slow. Hyundai Nexo, or Toyota Mirai, or Nikola will refuel under 5
-minutes.
+slow. Hyundai Nexo, or Toyota Mirai will refuel under 5 minutes.
 
 [News](https://www.youtube.com/watch?v=hMxUfBGvJvM)
 
