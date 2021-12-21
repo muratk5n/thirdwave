@@ -1,74 +1,50 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-H2 View: "African Hydrogen Partnership welcomes 14 new members"
+---
+
+H2 View: "8GW hydrogen production project in Australia receives lead
+agency status.. HyEnergy, a project aiming to generate around 60,000
+tonnes of green hydrogen with a 8GW capacity, has been awarded a lead
+agency status by the Western Australian Government"
 
 ---
 
-WSJ: "The World Wants Green Hydrogen. Namibia Says It Can
-Deliver... The southern African nation of sun-laden deserts and
-wind-swept coastline is aiming to develop a hydrogen industry from
-renewable sources to meet growing global demand"
+H2 View: "Australia’s Queensland Government has seen recognition for
+its $26bn of new energy economy projects within a new report
+highlighting the significant emphasis on hydrogen technologies within
+the nation"
 
 ---
 
-The dynamics of tech adoption dictates there will be one
-winner. Clearly it wont be the one that cannot scale worldwide,
-heavily depends on rare-earth metals. 
+A summary of events in Chilea that led to the latest election
+
+[[-]](https://www.brookings.edu/blog/order-from-chaos/2019/11/18/chileans-learned-the-right-lessons-after-the-pinochet-era/)
 
 ---
 
-Surely for a while Betamax and VHS were head-to-head. And I dont blame
-some regular customers who mistakenly bought Betamax.. I am the guy
-telling you it's going to be VHS.
+Villeneuve says his *Dune* camera shots mostly had two extremes;
+landscape or faces. 
+
+James Cameron & Denis Villeneuve
+
+[[-]](https://youtu.be/RgZQK7cfx_0?t=636)
 
 ---
 
-BEVs are shit technology. FCEV is the way.
+To their credit both Brit and French royals played a role in that era,
+funding exploration, also innovation. The nearby presence of oceans
+would have helped too. Geography.
 
 ---
 
-Ouch Manchin did the BBB denial on Fox News. 
+Aah the age of exploration.. 
+
+Clarke, *The French Revolution*: "To Louis XVI, science was more
+important than war... According to some witnesses, [Louis XVI]'s last
+question to his entourage [as he was being taken to be executed] was:
+'Is there any news of [the explorer] La Pérouse?'"
 
 ---
-
-There is enough uranium but nuclear energy has a serious waste storage
-problem.
-
----
-
-Gross keeps talking about the classical limit. Classical limit of
-which theory? String Theory has multiples! 
-
-\#ST_LQG
-
----
-
-One of its active contributers, Smolin himself gave up on LQG didnt
-he?
-
-\#ST_LQG
-
----
-
-Watching D Gross and Rovelli arguing String Theory vs Loop Quantum
-Gravity. Neither have a complete picture (ST even less so) but both
-report great results on black holes. Hilarious bcz, both iffy theories
-reporting stuff on a construct that itself likely does not
-exist. 
-
-And dark matter, dark energy..? The bleeding edge of theoretical
-physics post 70s has lost its way.. Gross is asking for 80 more years
-so ST can show anything 🤦‍♂️
-
-\#ST_LQG
-
----
-
-"Former student activist Gabriel Boric becomes Chile's youngest
-president. Leftist lawmaker Gabriel Boric defeated right-wing
-candidate Jose Antonio Kast in Chile's presidential runoff on
-Sunday... Boric has promised to address economic inequality, raise
-taxes on the rich and boost green investments"
 
 ## For Members
 
