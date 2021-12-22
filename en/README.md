@@ -44,11 +44,11 @@ sitting idle.
 PV Magazine: "The McGowan Government continues to fuel the growth of
 Western Australia’s hydrogen industry, with three projects to receive
 Lead Agency Services. Guided by the Lead Agency Framework, the
-Department of Jobs, Tourism, Science and Innovation will provide the
-projects with a single point of entry to the State Government and
-assistance with approvals processes. Projects are assessed for Lead
-Agency Services based on a number of factors, including level of
-complexity, potential impacts and significance to the State"
+Department ...  will provide the projects with a single point of entry
+to the State Government and assistance with approvals
+processes. Projects are assessed for Lead Agency Services based on a
+number of factors, including level of complexity, potential impacts
+and significance to the State"
 
 ---
 
