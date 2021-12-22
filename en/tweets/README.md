@@ -29,3 +29,5 @@
 
 [2021](/thirdwave/en/tweets/2021/)
 
+[2022](/thirdwave/en/tweets/2022/)
+
