@@ -1,5 +1,57 @@
 
 
+---
+
+H2 View: "8GW hydrogen production project in Australia receives lead
+agency status.. HyEnergy, a project aiming to generate around 60,000
+tonnes of green hydrogen with a 8GW capacity, has been awarded a lead
+agency status by the Western Australian Government"
+
+---
+
+H2 View: "Australia’s Queensland Government has seen recognition for
+its $26bn of new energy economy projects within a new report
+highlighting the significant emphasis on hydrogen technologies within
+the nation"
+
+---
+
+That is why it's tough for businesses to fund true research. Using
+graphical cards (such as NVidia's) for sci computing was discovered by
+academia, not NVidia.
+
+"@pfau
+
+Research should be play. If your research has a roadmap, you're doing
+it wrong"
+
+[[-]](https://pbs.twimg.com/media/FGxXoAdXEAc_jDI?format=png&name=small)
+
+---
+
+A summary of events in Chile that led to the latest election
+
+[[-]](https://www.brookings.edu/blog/order-from-chaos/2019/11/18/chileans-learned-the-right-lessons-after-the-pinochet-era/)
+
+---
+
+Villeneuve says his *Dune* camera shots mostly had two extremes;
+landscape or faces. 
+
+James Cameron & Denis Villeneuve
+
+[[-]](https://youtu.be/RgZQK7cfx_0?t=636)
+
+---
+
+Aah the age of exploration.. 
+
+Clarke, *The French Revolution*: "To Louis XVI, science was more
+important than war... According to some witnesses, [Louis XVI]'s last
+question to his entourage [as he was being taken to be executed] was:
+'Is there any news of [the explorer] La Pérouse?'"
+
+---
 
 H2 View: "African Hydrogen Partnership welcomes 14 new members"
 
