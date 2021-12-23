@@ -2,6 +2,9 @@
 
 * 2008
   * 14/03: A court case to close the governing party AK starts, the Constitutional Court is one vote short to ban the party. It is widey speculated that the army chief at the time, Basbug, convinced gov officials behind the scenes for CC to change its mind.
+* 2010
+  * 05/08: Once in a century draught in Russia devastated wheat crops forcing Russia announce a ban on wheat export. 80% of the Middle Eastern wheat came from Russia.
+  * 18/12: Arab Spring is sparked by the first protests that occurred in Tunisia, following a street vendor's self-immolation
 * 2011
   * 15/03: Syrian civil war started
   * 01/08: TR embraced an explicit policy of regime change in Syria and threw open its doors to thousands of Syrian refugees
