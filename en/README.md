@@ -2,6 +2,16 @@
 
 ---
 
+H2 View: "US DOE establishes the ‘Office of Clean Energy
+Demonstrations’ with hydrogen key in the office’s developments"
+
+---
+
+H2 View: "Liquid hydrogen supply chain to be explored between Western
+Australia, Singapore and Japan"
+
+---
+
 I prefer CSP but if political horse trading requires it, here's a way.
 
 Paper: "One of the most promising options for generating power from
@@ -52,16 +62,6 @@ will be captured and stored using a highly efficient underground
 storage infrastructure (CCS)"
 
 [[-]](https://www.h2-view.com/story/russian-german-ammonia-supply-chain-to-support-hydrogen-demands/)
-
----
-
-H2 View: "US DOE establishes the ‘Office of Clean Energy
-Demonstrations’ with hydrogen key in the office’s developments"
-
----
-
-H2 View: "Liquid hydrogen supply chain to be explored between Western
-Australia, Singapore and Japan"
 
 ---
 
