@@ -12,7 +12,8 @@ Australia, Singapore and Japan"
 
 ---
 
-I prefer CSP but if political horse trading requires it, here's a way.
+I prefer CSP but if political horse trading requires it, here's a way
+for coal.
 
 Paper: "One of the most promising options for generating power from
 coal, whilst capturing at a minimum efficiency penalty CO2, is based
