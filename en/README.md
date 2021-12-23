@@ -60,7 +60,7 @@ Demonstrations’ with hydrogen key in the office’s developments"
 
 ---
 
-"Liquid hydrogen supply chain to be explored between Western
+H2 View: "Liquid hydrogen supply chain to be explored between Western
 Australia, Singapore and Japan"
 
 ---
