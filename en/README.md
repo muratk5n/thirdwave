@@ -19,7 +19,7 @@ can leak methane.
 
 Ammonia can be 'cracked' to extract H2. It can be combusted cleanly
 for turbines (Japan demostrated how). There are even ammonia fuel-cell
-engines. Ammonia can be stored, at room temparature, at massive
+engines. Ammonia can be stored, at room temparature, in massive
 amounts. Since it has been used as feedstock for fertilizers for many
 years, there is much expertise around handling it. Slam dunk.
 
