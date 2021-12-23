@@ -12,21 +12,6 @@ Australia, Singapore and Japan"
 
 ---
 
-I prefer CSP but if political horse trading requires it, here's a way
-for coal.
-
-Paper: "One of the most promising options for generating power from
-coal, whilst capturing at a minimum efficiency penalty CO2, is based
-on gasification. Integrated Gasification Combined Cycle (IGCC) plants
-can be built [.. with carbon capture rates] above 90%... More
-importantly, gasification systems produce hydrogen as a fuel gas,
-which can be purified and used in a low carbon economy where hydrogen
-is foreseen to be a major energy carrier."
-
-[[-]](https://www.researchgate.net/publication/251581009_Evaluation_of_power_generation_schemes_based_on_hydrogen-fuelled_combined_cycle_with_carbon_capture_and_storage_CCS)
-
----
-
 NH3/H2 pipeline is preferable to natgas (e.g. Nordstream 2), natgas
 can leak methane.
 
@@ -63,6 +48,22 @@ will be captured and stored using a highly efficient underground
 storage infrastructure (CCS)"
 
 [[-]](https://www.h2-view.com/story/russian-german-ammonia-supply-chain-to-support-hydrogen-demands/)
+
+---
+
+
+I prefer CSP but if political horse trading requires it, here's a way
+for coal.
+
+Paper: "One of the most promising options for generating power from
+coal, whilst capturing at a minimum efficiency penalty CO2, is based
+on gasification. Integrated Gasification Combined Cycle (IGCC) plants
+can be built [.. with carbon capture rates] above 90%... More
+importantly, gasification systems produce hydrogen as a fuel gas,
+which can be purified and used in a low carbon economy where hydrogen
+is foreseen to be a major energy carrier."
+
+[[-]](https://www.researchgate.net/publication/251581009_Evaluation_of_power_generation_schemes_based_on_hydrogen-fuelled_combined_cycle_with_carbon_capture_and_storage_CCS)
 
 ---
 
