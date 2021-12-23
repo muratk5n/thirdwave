@@ -39,7 +39,7 @@ print ('%d Megawatts' % (dens * ammo / (365*24*1e3)))
 794 Megawatts
 ```
 
-A good amt of energy. Clean molecules for transport FTW.
+Substantial amt of energy here.. Clean molecules for transport FTW.
 
 ---
 
