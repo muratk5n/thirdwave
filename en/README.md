@@ -65,6 +65,12 @@ Australia, Singapore and Japan"
 
 ---
 
+"Roe's solver does not seek an approximate solution to the exact
+Riemann problem, but an exact solution of an approximate Riemann
+problem" 👍
+
+---
+
 Does that Arctic Vault store the PDF of all books ever published?
 Need that shit.
 
@@ -88,12 +94,6 @@ theory solving QCD 80 years from now, nothing about it ever telling us
 anything about where the Standard Model comes from"
 
 [[-]](https://www.math.columbia.edu/~woit/wordpress/?p=12604)
-
----
-
-"Roe's solver does not seek an approximate solution to the exact
-Riemann problem, but an exact solution of an approximate Riemann
-problem" 👍
 
 ---
 
