@@ -82,9 +82,8 @@ Hah. Docu on Jan 6 is named *Capitol Punishment*.
 
 ---
 
-Scifi / fantasy uses it, fine (see latest Spiderman). Entertainment.
-Holywood locked in certain sci concepts from 70/80s and is now stuck
-with them. 
+Scifi / fantasy uses it, fine (see latest Spiderman). Holywood locked
+in certain sci concepts from 70/80s and is now stuck with them.
 
 ---
 
