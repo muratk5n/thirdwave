@@ -72,7 +72,7 @@ problem" 👍
 
 ---
 
-Does that Arctic Vault store the PDF of all books ever published?
+Does that Arctic Vault store the PDFs of all books ever published?
 Need that shit.
 
 ---
