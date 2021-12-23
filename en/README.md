@@ -75,6 +75,22 @@ protestors.
 
 ---
 
+"Multiverse mania started seriously among string theorists around 2003,
+with a defining event Susskind’s February 2003 The Anthropic Landscape
+of String Theory. At the time I was finishing up writing what became
+the book “Not Even Wrong”.. For many years I found it impossible to
+believe that this pseudo-scientific point of view would get any
+traction.. It has become clear recently that we’ve now reached that
+end-point. From the new video of his discussion with Rovelli, it’s
+clear that David Gross has given up. No more complaints about the
+multiverse from him, and his vision of the future has string theory
+solving QCD 80 years from now, nothing about it ever telling us
+anything about where the Standard Model comes from"
+
+[[-]](https://www.math.columbia.edu/~woit/wordpress/?p=12604)
+
+---
+
 "Roe's solver does not seek an approximate solution to the exact
 Riemann problem, but an exact solution of an approximate Riemann
 problem" 👍
