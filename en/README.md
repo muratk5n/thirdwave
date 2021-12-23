@@ -78,8 +78,11 @@ Need that shit.
 
 ---
 
-Docu on Jan 6 is named *Capitol Punishment*. Supports the
-protestors. 
+Hah. Docu on Jan 6 is named *Capitol Punishment*. 
+
+---
+
+Scifi mystery uses it, fine (see latest Spiderman). It's entertainment. 
 
 ---
 
