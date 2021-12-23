@@ -82,7 +82,7 @@ Hah. Docu on Jan 6 is named *Capitol Punishment*.
 
 ---
 
-Scifi / fantasy uses it, fine (see latest Spiderman). It's entertainment. 
+Scifi / fantasy uses it, fine (see latest Spiderman). Entertainment. 
 
 ---
 
