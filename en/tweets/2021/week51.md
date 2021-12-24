@@ -1,4 +1,104 @@
 
+H2 View: "US DOE establishes the ‘Office of Clean Energy
+Demonstrations’ with hydrogen key in the office’s developments"
+
+---
+
+H2 View: "Liquid hydrogen supply chain to be explored between Western
+Australia, Singapore and Japan"
+
+---
+
+NH3/H2 pipeline is preferable to natgas (e.g. Nordstream 2), natgas
+can leak methane.
+
+---
+
+Ammonia can be 'cracked' to extract H2. It can be combusted cleanly
+for turbines (Japan demostrated how). There are even ammonia fuel-cell
+engines. Ammonia can be stored, at room temparature, in massive
+amounts. Since it has been used as feedstock for fertilizers for many
+years, there is much expertise around handling it. Slam dunk.
+
+---
+
+```python
+dens = 5.8 # kWh/kg
+ammo = 1.2 * 1e9
+print ('%d Megawatts' % (dens * ammo / (365*24*1e3)))
+```
+
+```text
+794 Megawatts
+```
+
+Substantial amt of energy here.. Clean molecules for transport FTW.
+
+---
+
+H2 View: "Russian-German ammonia supply chain to support hydrogen
+demands..  1.2 million tonnes of fuel [a year] is set to cover a
+significant share of hydrogen demand in Germany... To ensure the
+ammonia production is as environmentally friendly as possible, carbon
+dioxide formed during the natural gas-to-hydrogen production process
+will be captured and stored using a highly efficient underground
+storage infrastructure (CCS)"
+
+[[-]](https://www.h2-view.com/story/russian-german-ammonia-supply-chain-to-support-hydrogen-demands/)
+
+---
+
+
+I prefer CSP but if political horse trading requires it, here's a way
+for coal.
+
+Paper: "One of the most promising options for generating power from
+coal, whilst capturing at a minimum efficiency penalty CO2, is based
+on gasification. Integrated Gasification Combined Cycle (IGCC) plants
+can be built [.. with carbon capture rates] above 90%... More
+importantly, gasification systems produce hydrogen as a fuel gas,
+which can be purified and used in a low carbon economy where hydrogen
+is foreseen to be a major energy carrier."
+
+[[-]](https://www.researchgate.net/publication/251581009_Evaluation_of_power_generation_schemes_based_on_hydrogen-fuelled_combined_cycle_with_carbon_capture_and_storage_CCS)
+
+---
+
+"Roe's solver does not seek an approximate solution to the exact
+Riemann problem, but an exact solution of an approximate Riemann
+problem" 👍
+
+---
+
+Does that Arctic Vault store the PDFs of all books ever published?
+Need that shit.
+
+---
+
+Hah. Docu on Jan 6 is named *Capitol Punishment*. 
+
+---
+
+Scifi / fantasy uses some pseudoscience, fine (see latest
+Spiderman). Holywood locked in certain sci concepts from 70/80s and is
+now stuck with them.
+
+---
+
+Not Even Wrong Blog: "Multiverse mania started seriously among string
+theorists around 2003, with a defining event Susskind’s February 2003
+The Anthropic Landscape of String Theory. At the time I was finishing
+up writing what became the book “Not Even Wrong”.. For many years I
+found it impossible to believe that this pseudo-scientific point of
+view would get any traction.. It has become clear recently that we’ve
+now reached that end-point. From the new video of his discussion with
+Rovelli, it’s clear that David Gross has given up. No more complaints
+about the multiverse from him, and his vision of the future has string
+theory solving QCD 80 years from now, nothing about it ever telling us
+anything about where the Standard Model comes from"
+
+[[-]](https://www.math.columbia.edu/~woit/wordpress/?p=12604)
+
 ---
 
 H2 View: "[H2 FC] unit developed by the RiverCell consortium has

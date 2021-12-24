@@ -1,106 +1,159 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
----
+<img width="340" src="https://pbs.twimg.com/media/FG6zCttX0AwMNSG?format=jpg&name=small"/>
 
-H2 View: "US DOE establishes the ‘Office of Clean Energy
-Demonstrations’ with hydrogen key in the office’s developments"
-
----
-
-H2 View: "Liquid hydrogen supply chain to be explored between Western
-Australia, Singapore and Japan"
+Break time.. 'til next year
 
 ---
 
-NH3/H2 pipeline is preferable to natgas (e.g. Nordstream 2), natgas
-can leak methane.
+H2 View: "A 500MW proton exchange membrane (PEM) electrolyser plant
+will in 2023 be operational in Foshan, Guangdong Province, China,
+thanks to a new hydrogen-focused joint venture formed between Cummins
+and China Petrochemical"
 
 ---
 
-Ammonia can be 'cracked' to extract H2. It can be combusted cleanly
-for turbines (Japan demostrated how). There are even ammonia fuel-cell
-engines. Ammonia can be stored, at room temparature, in massive
-amounts. Since it has been used as feedstock for fertilizers for many
-years, there is much expertise around handling it. Slam dunk.
+H2 View: "Landmark hydrogen bus development achieved in India"
 
 ---
 
-```python
-dens = 5.8 # kWh/kg
-ammo = 1.2 * 1e9
-print ('%d Megawatts' % (dens * ammo / (365*24*1e3)))
-```
-
-```text
-794 Megawatts
-```
-
-Substantial amt of energy here.. Clean molecules for transport FTW.
+Want to invest in energy? Try US sunshine belt, CA, NV, UT, AZ, NM, CO
+and invest in CSPs. Massive potential there.
 
 ---
 
-H2 View: "Russian-German ammonia supply chain to support hydrogen
-demands..  1.2 million tonnes of fuel [a year] is set to cover a
-significant share of hydrogen demand in Germany... To ensure the
-ammonia production is as environmentally friendly as possible, carbon
-dioxide formed during the natural gas-to-hydrogen production process
-will be captured and stored using a highly efficient underground
-storage infrastructure (CCS)"
+Offshore driling rigs need to be banned.
 
-[[-]](https://www.h2-view.com/story/russian-german-ammonia-supply-chain-to-support-hydrogen-demands/)
+Am all for coexisting with fossil fuel ppl, but some methods are too
+dangerous.
 
 ---
 
+Oil has been leaking there SINCE 2004 
 
-I prefer CSP but if political horse trading requires it, here's a way
-for coal.
-
-Paper: "One of the most promising options for generating power from
-coal, whilst capturing at a minimum efficiency penalty CO2, is based
-on gasification. Integrated Gasification Combined Cycle (IGCC) plants
-can be built [.. with carbon capture rates] above 90%... More
-importantly, gasification systems produce hydrogen as a fuel gas,
-which can be purified and used in a low carbon economy where hydrogen
-is foreseen to be a major energy carrier."
-
-[[-]](https://www.researchgate.net/publication/251581009_Evaluation_of_power_generation_schemes_based_on_hydrogen-fuelled_combined_cycle_with_carbon_capture_and_storage_CCS)
+Al Jazeera: "$475M settlement proposed in longest-running oil
+spill.. Sixteen wells off Louisiana have been leaking since September
+2004, when a subsea mudslide caused by Hurricane Ivan knocked over a
+Taylor production platform"
 
 ---
 
-"Roe's solver does not seek an approximate solution to the exact
-Riemann problem, but an exact solution of an approximate Riemann
-problem" 👍
+The basis for the vax, mRNA, was made possible thanks to DARPA.  The
+final product was highly incentivized by massive subsidies from US
+government. Yet many countries are still lacking vaccines while these
+ppl are raking it in.
 
 ---
 
-Does that Arctic Vault store the PDFs of all books ever published?
-Need that shit.
+The price is 30 times its production cost. What kind of business is this?
+Is it a business?
+
+The Guardian: "The Channel 4 investigation reveals analysis by one
+biological engineering expert claiming the Pfizer vaccine costs just
+[$1] to manufacture for each shot. It is reportedly being sold for [30
+dollars] a dose to the UK government"
+
+[[-]](https://www.theguardian.com/uk-news/2021/dec/05/wall-of-secrecy-in-pfizer-contracts-as-company-accused-of-profiteering)
 
 ---
 
-Hah. Docu on Jan 6 is named *Capitol Punishment*. 
+The Guardian: "Data from the UK and South Africa suggest Omicron
+carries a reduced risk of hospitalisation and severe disease"
 
 ---
 
-Scifi / fantasy uses some pseudoscience, fine (see latest
-Spiderman). Holywood locked in certain sci concepts from 70/80s and is
-now stuck with them.
+"The US government has approved the [sale] of aircraft launch and
+recovery systems intended to equip France's next-generation aircraft
+carrier"
 
 ---
 
-Not Even Wrong Blog: "Multiverse mania started seriously among string
-theorists around 2003, with a defining event Susskind’s February 2003
-The Anthropic Landscape of String Theory. At the time I was finishing
-up writing what became the book “Not Even Wrong”.. For many years I
-found it impossible to believe that this pseudo-scientific point of
-view would get any traction.. It has become clear recently that we’ve
-now reached that end-point. From the new video of his discussion with
-Rovelli, it’s clear that David Gross has given up. No more complaints
-about the multiverse from him, and his vision of the future has string
-theory solving QCD 80 years from now, nothing about it ever telling us
-anything about where the Standard Model comes from"
+What's wrong with string theorists asking for 80 more years? That's
+like a young Einstein saying "ok let me work on special relativity for
+40 years, until Im 60, then I'll pass the baton to someone else and he
+will work on it until he is 60, and *maybe* that person will hit upon
+the final theory". That is just insane.
 
-[[-]](https://www.math.columbia.edu/~woit/wordpress/?p=12604)
+---
+
+Bizarre physics theories, shoddy green energy tech, crypto
+miners.. Welcome to the future.
+
+---
+
+There are free compute services (usually to entice users for paid
+services but still), many students researchers use them.
+
+---
+
+ABC AU: "At present, the most widely used estimate of the energy
+required to "mine" Bitcoins is comparable to the electricity usage of
+New Zealand, but this is probably an underestimate"
+
+---
+
+These people are like locust. 
+
+"@choldgraf
+
+Crypto miners are generating a ton of extra work for the operators of
+http://mybinder.org. Does anybody know of a way to prevent this abuse
+without requiring people to sign up for accounts?!..
+
+It's extraordinary what negative secondary effects the crypto world
+has had. Every public service that offers compute is getting abused,
+generating ... stress for people that are trying to offer services for
+the public"
+
+---
+
+It makes sense; at typical F1 speeds if the racecar had wings, it
+would fly.  Designer is trying to do the opposite, to make the car
+stay on the ground.
+
+---
+
+Aero as in aerodynamics. Hah.. I guess aero is key.
+
+Sergio Rinland, Formula 1 Racecar Designer: "The first priority is
+aero, the second priority is aero, the third priority is
+aero, the fourth priority is tyres...".
+
+---
+
+AFP: "The tight US labor market has not spared the trucking industry,
+where "help wanted" pleas are plentiful, wages are on the rise, and
+drivers recently have scored signing bonuses of up to $20,000"
+
+[[-]](http://u.afp.com/wqUC)
+
+---
+
+"US Navy seizes thousands of guns bound for Yemen’s Houthis.. The US
+military said the boat, which was carrying the AK-47 cache, came from
+Iran"
+
+---
+
+Danube is quite big. 1.5 km wide, second largest river in Europe.
+
+---
+
+There is a shipping [route](https://pbs.twimg.com/media/FHT1ThKXMAQfYdU?format=png&name=small)
+through the Suez-Bhosphorus-Danube and since it is now linked up
+with Rhine in 1992, all the way to Rotterdam.
+
+But "some countries" are planning an alternative through [Greece-Serbia](https://pbs.twimg.com/media/FHT0659XsAY1E3C?format=jpg&name=small)
+to bypass Stanpoli altogether. Tsck tsck tsck.. Dont be dissing my homie now..
+
+---
+
+Connections.. connections.. It's what I do
+
+---
+
+New items added to [timeline](2017/12/timeline-syria-tr.md). See
+2010. Interesting shit eh?
 
 ---
 
