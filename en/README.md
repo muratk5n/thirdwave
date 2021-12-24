@@ -117,7 +117,7 @@ Aero as in aerodynamics. Hah..
 
 Sergio Rinland, Formula 1 Racecar Designer: "The first priority is
 aero, the second priority is aero, the third priority is
-aero, the fourth priority is tyres...".
+aero, the fourth priority is tires...".
 
 ---
 
