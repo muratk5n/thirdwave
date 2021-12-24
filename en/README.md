@@ -81,14 +81,14 @@ miners.. Welcome to the future.
 
 ---
 
-There are free compute services (usually to entice users for paid
-services but still), many students researchers use them.
-
----
-
 ABC AU: "At present, the most widely used estimate of the energy
 required to "mine" Bitcoins is comparable to the electricity usage of
 New Zealand, but this is probably an underestimate"
+
+---
+
+There are free compute services (usually to entice users for paid
+services but still), many students researchers use them.
 
 ---
 
