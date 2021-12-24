@@ -71,7 +71,7 @@ carrier"
 What's wrong with string theorists asking for 80 more years? That's
 like a young Einstein saying "ok let me work on special relativity for
 40 years, until Im 60, then I'll pass the baton to someone else and he
-will work on it until he is 60, and *maybe* that person will hit upon
+will work on it until he is 60, then *maybe* that person will hit upon
 the final theory". That is just insane.
 
 ---
