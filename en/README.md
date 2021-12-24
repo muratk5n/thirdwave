@@ -113,7 +113,7 @@ stay on the ground.
 
 ---
 
-Aero as in aerodynamics. Hah.. I guess aero is key.
+Aero as in aerodynamics. Hah.. 
 
 Sergio Rinland, Formula 1 Racecar Designer: "The first priority is
 aero, the second priority is aero, the third priority is
