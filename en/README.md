@@ -135,23 +135,6 @@ Iran"
 
 ---
 
-Danube is quite big. 1.5 km wide, second largest river in Europe.
-
----
-
-There is a shipping [route](https://pbs.twimg.com/media/FHT1ThKXMAQfYdU?format=png&name=small)
-through the Suez-Bhosphorus-Danube and since it is now linked up
-with Rhine in 1992, all the way to Rotterdam.
-
-But "some countries" are planning an alternative through [Greece-Serbia](https://pbs.twimg.com/media/FHT0659XsAY1E3C?format=jpg&name=small)
-to bypass Stanpoli altogether. Tsck tsck tsck.. Dont be dissing on my homie now..
-
----
-
-Connections.. connections.. It's what I do
-
----
-
 New items added to [timeline](2017/12/timeline-syria-tr.md). See 2010.
 Interesting shit eh?
 
