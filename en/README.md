@@ -152,8 +152,8 @@ Connections.. connections.. It's what I do
 
 ---
 
-New items added to [timeline](2017/12/timeline-syria-tr.md). See
-2010. Interesting shit eh?
+New items added to [timeline](2017/12/timeline-syria-tr.md). See 2010.
+Interesting shit eh?
 
 ---
 
