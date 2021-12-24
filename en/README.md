@@ -144,7 +144,7 @@ through the Suez-Bhosphorus-Danube and since it is now linked up
 with Rhine in 1992, all the way to Rotterdam.
 
 But "some countries" are planning an alternative through [Greece-Serbia](https://pbs.twimg.com/media/FHT0659XsAY1E3C?format=jpg&name=small)
-to bypass Stanpoli altogether. Tsck tsck tsck.. Dont be dissing my homie now..
+to bypass Stanpoli altogether. Tsck tsck tsck.. Dont be dissing on my homie now..
 
 ---
 
