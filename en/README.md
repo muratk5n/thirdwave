@@ -38,10 +38,10 @@ Taylor production platform"
 
 ---
 
-The basis for the vax, mRNA, was made possible thanks to DARPA.  The
-final product was highly incentivized by massive subsidies from US
-government. Yet many countries are still lacking vaccines while these
-ppl are raking it in.
+The basis for the vax, the mRNA tech, was made possible thanks to
+DARPA.  The final product was highly incentivized by massive subsidies
+from US government. Yet many countries are still lacking vaccines
+while these ppl are raking it in.
 
 ---
 
