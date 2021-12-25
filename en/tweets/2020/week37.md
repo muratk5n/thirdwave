@@ -486,15 +486,6 @@ later. I’m both frightened and impressed"
 
 ---
 
-"@alexdante
-
-we rightly get outraged at the heartless ghouls who want to sacrifice
-lives for their stonks but we should definitely reserve some of that
-for the absolute moral black holes who are angrily demanding
-everything re-open because they're missing their sportsballs"
-
----
-
 Mass Surveillance - Complete Cycle \#music
 
 [Link](https://youtu.be/NFRNKkDQCV0)
