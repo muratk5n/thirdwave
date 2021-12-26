@@ -797,7 +797,7 @@ plt.savefig('crude-production.png')
 
 <a name="natgas"></a>
 
-Natural Gas Price
+World Natural Gas Price
 
 ```python
 import pandas as pd, datetime, time as timelib
@@ -819,17 +819,58 @@ plt.savefig('natgas.png')
 
 ```text
 Date
-2021-11-25    5.119
-2021-11-26    5.447
-2021-11-29    4.854
-2021-11-30    4.567
-2021-12-01    4.258
-2021-12-02    4.056
-2021-12-03    4.167
+2021-12-16    3.766
+2021-12-17    3.690
+2021-12-20    3.834
+2021-12-21    3.869
+2021-12-22    3.976
+2021-12-23    3.731
+2021-12-23    3.733
 Name: Adj Close, dtype: float64
 ```
 
 ![](natgas.png)
+
+<a name="einatgas"></a>
+
+EI Natural Gas Price
+
+Price is from Dutch TTF contract which is considered as the benchmark
+price for natural gas in Europe. Unit is 1 MW of energy, priced in
+Euros.
+
+```python
+import pandas as pd, datetime, time as timelib
+import urllib.request as urllib2, io
+end = datetime.datetime.now()
+start=datetime.datetime(2010, 1, 1)
+start = int(timelib.mktime(start.timetuple()))
+end = int(timelib.mktime(end.timetuple()))
+base_fin_url = "https://query1.finance.yahoo.com/v7/finance/download"
+url = base_fin_url + "/TTF=F?period1=" + str(start) + "&period2=" + str(end) + "&interval=1d&events=history&includeAdjustedClose=true"
+r = urllib2.urlopen(url).read()
+file = io.BytesIO(r)
+df = pd.read_csv(file,index_col='Date',parse_dates=True)['Adj Close']
+df.plot()
+plt.plot(df.tail(1).index, df.tail(1),'ro')
+print (df.tail(7))
+plt.savefig('eunatgas.png')
+```
+
+```text
+Date
+2021-12-16    142.764999
+2021-12-17    136.912994
+2021-12-20    146.925995
+2021-12-21    180.266998
+2021-12-22    172.875000
+2021-12-23    132.578995
+2021-12-23    129.360001
+Name: Adj Close, dtype: float64
+```
+
+![](eunatgas.png)
+
 
 <a name="coal"></a>
 
