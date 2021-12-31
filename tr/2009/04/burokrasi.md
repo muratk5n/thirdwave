@@ -1,8 +1,6 @@
 # Bürokrasi
 
-Bürokratlardan kimse hazzetmez.
-
-İşadamları genellikle bürokrasinin devletin ürettiği bir hastalık
+İşadamları genellikle bürokrasinin devletin ürettiği bir [şey]
 olduğunu düşünürler. Bu görüşe göre kamu çalışanları tembel,
 parazitsel, asık suratlı, iş dünyası çalışanları ise dinamik, üretken,
 müşteriyi memnun etmek için çırpınan bir haldeydi. Halbuki iş

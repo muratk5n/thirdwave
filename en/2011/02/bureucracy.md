@@ -2,10 +2,8 @@
 
 Powershift, Alvin Toffler
 
-Everyone hates a bureaucrat.
-
 For a long time businessmen maintained the myth that bureaucracy was a
-disease of government. Civil servants were called lazy, parasitic, and
+[thing] of government. Civil servants were called lazy, parasitic, and
 surly, while business executives were pictured as dynamic, productive,
 and eager to please the customer. Yet bureaucracy is just as rampant
 in business as in the public sector. Indeed, many of the world's
