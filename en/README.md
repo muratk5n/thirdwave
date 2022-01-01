@@ -207,8 +207,8 @@ Sony will haul most of those Benjamins home.. not Disney/Marvel.
 
 ---
 
-Spiderman told a good story; no doubt. Good movie. It wasn't cuck,
-a major factor in its success.
+Spiderman told a good story. It wasn't cuck. Nicely done (except
+the pseudoscience).
 
 ---
 
