@@ -831,7 +831,7 @@ Name: Adj Close, dtype: float64
 
 ![](natgas.png)
 
-<a name="einatgas"></a>
+<a name="eunatgas"></a>
 
 EI Natural Gas Price
 
