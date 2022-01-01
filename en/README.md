@@ -271,7 +271,7 @@ they are of no help and want to get their rocks off on something that
 
 ---
 
-What deal did he showcase those skills on? Obamacare? That's not much of a
+What deal did he show those skills on? Obamacare? That's not much of a
 skill
 
 "Harry Reid remembered as a fighter, skilled Senate dealmaker"
