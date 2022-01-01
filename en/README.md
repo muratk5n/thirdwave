@@ -94,16 +94,6 @@ US Omicron deaths still less than Delta, no uptrend
 
 ---
 
-The asset purchases are do not show up in the base numbers below, but
-they can be considered as a form of negative interest rate policy. If
-their effect was included somehow, the negative correlation below
-would be even more pronounced.
-
-Ergo once the asset purchases stop, that act will be akin to a rate
-rise.
-
----
-
 See the SP500 graph; That kind of rise is exponential (right time to
 use the word). Rises like that are seen with amoeba, bacteria
 population growth when there are no limits in resources; so they eat
@@ -156,6 +146,14 @@ sp500     0.786939 -0.470347  1.000000
 ```
 
 Negative correlation, -0.47, between the stock market and the FED rate.
+
+The asset purchases are do not show up in the base numbers below, but
+they can be considered as a form of negative interest rate policy. If
+their effect was included somehow, the negative correlation below
+would be even more pronounced.
+
+Ergo once the asset purchases stop, that act will be akin to a rate
+rise.
 
 ---
 
