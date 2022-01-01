@@ -82,6 +82,10 @@ pipeline can transmit 10 times the energy at 8th the cost.
 
 ---
 
+WSJ: "South Africa Says Its Omicron Wave Is in Retreat"
+
+---
+
 Makes sense.. Omicron will overwhelm the system otherwise; less deadly
 but spreads faster, T&T is a bad match for that.
 
