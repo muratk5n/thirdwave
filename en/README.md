@@ -73,6 +73,11 @@ The best protection is not to have oil pipelines.
 
 ---
 
+Pipelines, coal, natgas.. This is where rubber meets the road;
+switching from old to new was never going to be easy.
+
+---
+
 Canada has over 70,000 km of large transmission oil pipelines. Any of
 those cld go haywire and the environment disaster would be severe.
 
@@ -287,11 +292,6 @@ FR operatives *bombed* a Greenpeace ship.
 
 New schedule, biweekly public TW releases, save emergencies.. let's
 see if it works out.
-
----
-
-This is where rubber meets the road; switching from old to new was
-never going to be easy.
 
 ---
 
