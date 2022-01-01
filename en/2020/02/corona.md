@@ -82,8 +82,19 @@ import util, pandas as pd
 df = util.get_data_combined()
 df1 = df[(df['Country/Region']=='US')&(df.index > '2020-01-01')]
 df1['New deaths'] = df1['New deaths'].rolling(7).mean()
+print (df1['New deaths'].tail(5))
 df1['New deaths'].plot()
 plt.savefig('US-deaths.png')
+```
+
+```text
+Date
+2021-12-26    1408.571429
+2021-12-27    1452.857143
+2021-12-28    1523.285714
+2021-12-29    1546.142857
+2021-12-30    1268.285714
+Name: New deaths, dtype: float64
 ```
 
 ![](US-deaths.png)
