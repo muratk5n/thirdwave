@@ -82,7 +82,7 @@ pipeline can transmit 10 times the energy at 8th the cost.
 ---
 
 Makes sense.. Omicron will overwhelm the system otherwise; less deadly
-but spread faster, T&T is a bad match for that.
+but spreads faster, T&T is a bad match for that.
 
 "The [AU] New South Wales government’s Covid contact-tracing system
 has been all but abandoned, with efforts now focused only on those in
