@@ -73,8 +73,8 @@ The best protection is not to have fossil pipelines.
 
 ---
 
-Pipelines, coal, natgas.. This is where rubber meets the road;
-switching from old to new was never going to be easy.
+Pipelines, coal, natgas, high prices, shortages.. This is where rubber
+meets the road; switching from old to new was never going to be easy.
 
 ---
 
