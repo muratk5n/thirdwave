@@ -175,9 +175,9 @@ rates. When that stops and rate rises begin let's see that nice "free
 market" holds up..
 
 We saw a hint of that in 2018, with a mere 2.40% FEDFUNDS the
-"correction" that followed scared the shit out of FOMO
-dingbats. "Thanks" to the pandemic FEDFUNDS went near zero now and
-voila, the boom of all booms took place. 
+"correction" that followed scared the shit out of FOMO monkeys.
+"Thanks" to the pandemic FEDFUNDS went near zero now and voila, the
+boom of all booms took place.
 
 ---
 
