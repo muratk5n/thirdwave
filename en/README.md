@@ -34,7 +34,7 @@ Floating solar panels, by French engineer Ludivine Pasquier
 
 ---
 
-Ah let's remember [Oct 2021 oil spill](https://www.usatoday.com/story/news/nation/2021/10/05/what-caused-california-oil-spill/6001096001/)
+Let's not forget [Oct 2021 oil spill](https://www.usatoday.com/story/news/nation/2021/10/05/what-caused-california-oil-spill/6001096001/)
 near California.
 
 A ship's anchor broke the pipeline, if H2 was being sent, worst case,
