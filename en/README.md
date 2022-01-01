@@ -38,9 +38,10 @@ Ah let's remember [Oct 2021 oil spill](https://www.usatoday.com/story/news/natio
 near California.
 
 A ship's anchor broke the pipeline, if H2 was being sent, worst case,
-H2 mixing into H2O would be no big deal. As it happened the crude oil
-leak lasted for 3 hours before it was detected. More than 140,000
-gallons of oil leaked into Southern California waters.
+H2 mixing into H2O would be no big deal.
+
+The CA crude oil leak lasted for 3 hours before it was detected. More
+than 140,000 gallons of oil leaked into Southern California waters.
 
 ---
 
