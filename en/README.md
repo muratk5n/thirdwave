@@ -198,7 +198,7 @@ IP. This is socialism for the corporations, capitalism for the rest.
 
 ---
 
-Sony will haul most of those Benjamins home.. not Disney/Marvel. 
+Sony will haul most of those Benjamins home.. not Disney/Marvel.
 
 ---
 
@@ -297,7 +297,7 @@ never going to be easy.
 
 Prices can be different for different regions; the supplier is
 different (Russia, vs US' local production), transport, demand is
-different. Maybe RU is also playing a blackmail game, to have
+different. Maybe RU also played a blackmail game, to have
 Nordstream 2 activated..
 
 ---
