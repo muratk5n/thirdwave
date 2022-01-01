@@ -55,7 +55,7 @@ Taylor production platform"
 
 According to data in the link, oil pipelines have 4.9 E-4 per year-km
 failure rate, natural gas 7.2 E-5. Canada has over 70,000 kilometers of
-pipelines,
+oil pipelines,
 
 ```python
 print (int(70000 * 4.9*1e-5), 'accidents per year')
