@@ -54,7 +54,7 @@ Taylor production platform"
 ---
 
 According to data in the link, oil pipelines have 4.9 E-4 per year-km
-failure rate, natural gas 7.2 E-5. If Canada has 70,000 kilometers of
+failure rate, natural gas 7.2 E-5. Canada has over 70,000 kilometers of
 pipelines,
 
 ```python
@@ -78,12 +78,14 @@ switching from old to new was never going to be easy.
 
 ---
 
-Canada has over 70,000 km of large transmission oil pipelines. Any of
-those cld go haywire and the environment disaster would be severe.
-
 Any energy that moves needs to be clean molecules, prefarably H2 gas.
 Much cleaner than fossil, more efficient than the electric grid. H2
 pipeline can transmit 10 times the energy at 8th the cost.
+
+---
+
+Canada has over 70,000 km of large transmission oil pipelines. Any of
+those cld go haywire and the environment disaster would be severe.
 
 ---
 
