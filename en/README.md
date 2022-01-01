@@ -277,8 +277,8 @@ FR operatives *bombed* a Greenpeace ship.
 
 ---
 
-New schedule, biweekly public TW releases save emergencies.. let's see
-if it works out.
+New schedule, biweekly public TW releases, save emergencies.. let's
+see if it works out.
 
 ---
 
