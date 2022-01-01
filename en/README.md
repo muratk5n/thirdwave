@@ -161,10 +161,10 @@ sp500     0.786939 -0.470347  1.000000
 
 Negative correlation, -0.47, between the stock market and the FED rate.
 
-The asset purchases are do not show up in the base numbers, but they
-can be considered as a form of negative interest rate policy. If their
-effect was included somehow, the negative correlation would be
-even more pronounced.
+The asset purchases do not show up in the base numbers, but they can
+be considered as a form of negative interest rate policy. If their
+effect was included somehow, the negative correlation would be even
+more pronounced.
 
 Ergo once the asset purchases stop, that act will be akin to a rate
 rise.
