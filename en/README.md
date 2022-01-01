@@ -93,6 +93,8 @@ the highest risk categories"
 
 US Omicron deaths still less than Delta, no uptrend
 
+[[-]](2020/02/corona.md#usdailydeath)
+
 ---
 
 See the SP500 graph; That kind of rise is exponential (right time to
