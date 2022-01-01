@@ -278,7 +278,8 @@ FR operatives actually *bombed* a Greenpeace ship. Daam
 
 ---
 
-New schedule, biweekly public TW releases.. let's see if it works out.
+New schedule, biweekly public TW releases save emergencies.. let's see
+if it works out.
 
 ---
 
@@ -296,7 +297,7 @@ Nordstream 2 activated..
 
 For European natgas prices, the future contract Dutch TTF can be used.
 
-EU natgas price has been at insane levels.. fell a little recently.
+EU natgas price has been at insane levels.. fell somewhat recently.
 
 [[-]](2019/05/stats.md#eunatgas)
 
