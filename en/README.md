@@ -195,9 +195,9 @@ Yea... now he bitchin..
 
 ---
 
-Make money, and aim to make money, fine. My addn is, if DARPA allowed
-a company have the base tech, and gov gave them subsidies, they cant
-[charge](https://www.theguardian.com/uk-news/2021/dec/05/wall-of-secrecy-in-pfizer-contracts-as-company-accused-of-profiteering)
+Make money, and aim to make money, fine. My only qualm is, if DARPA (gov) 
+helped a company have the base tech, and federeal gov gave them subsidies,
+they cant [charge](https://www.theguardian.com/uk-news/2021/dec/05/wall-of-secrecy-in-pfizer-contracts-as-company-accused-of-profiteering)
 thirty dolars for one dollar vaccine and still keep their
 IP. This is socialism for the corporations, capitalism for the rest.
 
