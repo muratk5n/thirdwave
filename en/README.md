@@ -257,7 +257,7 @@ war movies with a few memorable action scenes
 
 ---
 
-Backed the death penalty.. voted for the invasion of Iraq... \#reid
+Voted for the invasion of Iraq... \#reid
 
 ---
 
