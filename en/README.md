@@ -184,7 +184,7 @@ We should congratulate businesses for being "opportunistic" for
 "taking advantage of gov"? Hah :)
 
 Well then maybe gov will opportunistically tax their ass and take
-their IP 🤨 That would be opportunism too, right?
+"their IP" 🤨 That would be opportunism too, right?
 
 Yea... now he bitchin..
 
