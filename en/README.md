@@ -65,9 +65,9 @@ print (int(70000 * 4.9*1e-5), 'accidents per year')
 3 accidents per year
 ```
 
-Above is the expected \# of accidents (oil).
+This is the expected \# of accidents.
 
-The best protection is not to have oil pipelines.
+The best protection is not to have fossil pipelines.
 
 [[-]](https://www.icheme.org/media/9672/xxi-paper-044.pdf)
 
