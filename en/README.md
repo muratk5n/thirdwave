@@ -23,8 +23,8 @@ tons of methanol and 400 thousand tons of ammonia annually"
 ---
 
 Floating panels can help FR in their territories. Around Madagascar
-there is massive sunshine, floating panels can do the work thee. From
-there ship H2 or ammonia via ships to Europe.
+there is massive sunshine, floating panels can do the work. From there
+ship H2 or ammonia via ships to Europe.
 
 ---
 
