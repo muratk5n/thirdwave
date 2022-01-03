@@ -116,6 +116,8 @@ worked 20 hours a week ... in some very harsh environment [even]
 .. and what anthropologists call 'work' in these studies are things we
 do in vacation - like hunting, fishing, picknicking.. " ...
 
+<a name='nike'/>
+
 In *Born to Run*, his 2009 bestseller, Christopher McDougall explains
 how Nike convinced generations of joggers to ignore the evolved
 biomechanics of the human body to run in an unnatural, debilitating

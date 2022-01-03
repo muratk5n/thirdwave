@@ -387,16 +387,6 @@ going on since the beginning of 2021 (Delta?). Without the August
 debacle, net pop wld have been at -5, with Aug debacle (AFG pullout)
 it went to -10% territory.
 
-```python
-import pandas as pd
-url = "https://projects.fivethirtyeight.com/biden-approval-data/approval_topline.csv"
-df = pd.read_csv(url,parse_dates=True,index_col='modeldate')
-df['net'] = df['approve_estimate'] - df['disapprove_estimate']
-df['net'].plot()
-```
-
-[[-]](https://pbs.twimg.com/media/FEQQdehXsAsAo4z?format=png&name=small)
-
 ---
 
 US, instead of triggering a "Shale Revolution" in 2005, could have

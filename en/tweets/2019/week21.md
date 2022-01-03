@@ -1,15 +1,6 @@
 
 ---
 
-"Tulsi Gabbard's top online fundraiser argued that the Las Vegas mass
-shooting was a PsyOp to distract from the Harvey Weinstein scandal;
-that Ben Affleck and Matt Damon are intelligence assets; and that the
-recipients of last year's MAGA bombs deserved it"
-
-Affleck, Damon...? C'mon...! Forget everything else, have you seen Incorporated? Go watch.
-
----
-
 On the scifi show Continuum there was the talk of a Corporate Congress
 in the future. I was like ha ha that's some funny shit! Awesome
 fiction man! This was before realizing what US Democrats had

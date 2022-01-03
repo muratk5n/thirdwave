@@ -16,6 +16,8 @@ What Can I Do?
 
 [Wires vs Pipes](../../2019/03/wirespipes.md)
 
+[The Sunshine Map](https://pbs.twimg.com/media/FCtre5sWEAgFFp9?format=png&name=small)
+
 Is It Real?
 
 [Temparature Increase](../../2015/08/temp-increase.md)
