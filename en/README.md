@@ -133,12 +133,6 @@ Kick Bong - Duby Cure \#music
 
 ---
 
-Chris Zippel - Stretch Marks \#music
-
-[[-]](https://youtu.be/yUx-Wgh3_Kc)
-
----
-
 Divasonic - Tick Tick Boom \#music
 
 [[-]](https://youtu.be/7nPFpva8JSU)
