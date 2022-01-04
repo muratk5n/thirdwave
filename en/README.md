@@ -153,7 +153,7 @@ with the filibuster to push through voting rights legislation"
 
 We dont use particles to calculate fluids.
 
-This is absolutely key to understand how modern science is conducted.
+This is *key* to understand how modern science is conducted.
 [Food for thought](https://drive.google.com/uc?export=view&id=13fTfDxQdQ6oFKKkKbNcuAbHD-P7un6Q-).
 
 "But if we use particles to simulate a fluid, why not using brain
