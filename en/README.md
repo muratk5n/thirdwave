@@ -96,6 +96,10 @@ metaverse is?"
 
 ---
 
+[Wow](https://youtu.be/QDh9_g3IbnQ?t=10)
+
+---
+
 "Breakfast is the most important meal of the day"? [Kellog](https://www.mashed.com/234731/the-reason-people-believe-breakfast-is-the-most-important-meal-of-the-day/).
 
 Corporate marketing, again.
