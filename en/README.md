@@ -238,10 +238,8 @@ system". The AI is mere symbolism.
 
 ---
 
-Apparently US was for the integration.. Coons went there? Was he
+US was for the integration news says.. Coons went there? Was he
 speaking for the gov?
-
----
 
 2019: "Hemedti refus[ed] to integrate Rapid Support Forces into the
 [Sudanese] army"
