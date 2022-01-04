@@ -40,7 +40,7 @@ solar tower. Heliostats are a critical component of CSP"
 
 ---
 
-Sad part is it might actually be true
+Sad part is, the share might actually be true
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This morning at 5:40am my desktop metamask was hacked and drained of all funds and NFTs.<br><br>The only thing I did differently was charge a brand new dildo on my computer and installed the app<br><br>Still trying to wrap my head around this but I think I was just hacked by a fucking dildo</p>&mdash; Crypto ฿itlord (@crypto_bitlord7) <a href="https://twitter.com/crypto_bitlord7/status/1473231965927063553?ref_src=twsrc%5Etfw">December 21, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
