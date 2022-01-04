@@ -6,8 +6,9 @@ DOE, steel maker ArcelorMittal invested.
 On the residential / industrial division: homes would still receive
 CSP power through their tech operated by utilities, so people will
 benefit, there is no need to install an entire solar farm in their
-backyard. That's good; CSP's focus is massive scale, availability,
-this is where it shines (!)
+backyard. CSP's focus is massive scale, availability, and that's good,
+much benefit to derive from that, eg at night they use power stored in
+molten salt to run 24/7 something PV solar cannot.
 
 \#CSP \#Heliogen
 
