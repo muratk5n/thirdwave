@@ -5,7 +5,7 @@ DOE, steel maker ArcelorMittal invested.
 
 On the residential / industrial division: homes would still receive
 CSP power through their tech operated by utilities, so people will
-benefit, and they don't have install an entire solar farm in their
+benefit, there is no need to install an entire solar farm in their
 backyard. That's good; CSP's focus is massive scale, availability,
 this is where it shines (!)
 
