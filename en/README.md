@@ -97,7 +97,7 @@ metaverse is?"
 
 "Breakfast is the most important meal of the day"? [Kellog](https://www.mashed.com/234731/the-reason-people-believe-breakfast-is-the-most-important-meal-of-the-day/).
 
-Another "gem" that is the product of corporate marketing.
+Corporate marketing, again.
 
 ---
 
