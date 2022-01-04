@@ -111,7 +111,9 @@ advertised such style of running so they could [sell products for it](2019/12/ci
 
 Again we see regular people, consumers are taken for fools. They have
 no mechanism to protect against such interjections save gov
-regularion. OMG!
+regulation.
+
+OMG! He said regulation! 
 
 "Approximately 74% of [endurance] runners experienced a moderate or
 severe injury each year, but those who habitually rear-foot strike had
