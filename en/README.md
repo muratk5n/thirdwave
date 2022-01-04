@@ -124,6 +124,12 @@ Lincoln's death"
 
 ---
 
+Kick Bong - Duby Cure \#music
+
+[[-]](https://youtu.be/hrOicdVsFLw)
+
+---
+
 Chris Zippel - Stretch Marks \#music
 
 [[-]](https://youtu.be/yUx-Wgh3_Kc)
