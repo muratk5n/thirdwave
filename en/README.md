@@ -278,7 +278,7 @@ John Madden died?
 Veg Burg Deluxe, replaced beets with red peppers and collard greens,
 removed marmite. Testing.
 
-[[-]](2021/11/veg-burger.md)
+[[-]](2021/11/veg-burger-deluxe.md)
 
 ---
 
