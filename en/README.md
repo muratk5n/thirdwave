@@ -1,11 +1,7 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-Heliogen went public recently. 
-
-They received $39 million grant from DOE.
-
-Steel maker ArcelorMittal invested in the company, not suprising. They
-need massive amount energy for decarbonizing efforts.
+Heliogen went public recently. They received $39 million grant from
+DOE, steel maker ArcelorMittal invested. 
 
 On the residential / industrial division: homes would still receive
 CSP power through their tech operated by utilities, so people will
