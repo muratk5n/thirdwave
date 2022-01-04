@@ -60,7 +60,7 @@ candidate to provide the mysterious dark matter in the cosmos"
 I checked the data, Granger causality shows the two-year treas affects
 FEDFUNDS little more than the other way around. Both sides would
 follow eachother closely to gauge reaction to events, but since for
-bonds inflation is a major risk, they cannot not rise in yields in
+bonds inflation is a major risk, they can't not rise (in yields) in
 response to rising inflation. In turn the overnight borrowing rates
 between banks cannot be neutral to that (read: FEDFUNDS), they'd lose
 money on a daily basis. So FED wld be forced to follow the bond
