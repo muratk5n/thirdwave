@@ -48,7 +48,7 @@ Sad part is, the share might actually be true
 ---
 
 Paper: "[Our] search excludes the axion-photon coupling predicted by
-one of the benchmark models of “invisible” axion dark matter"
+one of the benchmark models of 'invisible' axion dark matter"
 
 ---
 
