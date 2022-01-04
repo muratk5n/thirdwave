@@ -96,7 +96,7 @@ metaverse is?"
 
 ---
 
-[Wow](https://youtu.be/QDh9_g3IbnQ?t=10)
+[Whoa](https://youtu.be/QDh9_g3IbnQ?t=10)
 
 ---
 
