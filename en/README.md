@@ -234,7 +234,7 @@ considering moving operations to other countries in 2020"
 
 ---
 
-Woke went broke.. Ghostbusters 2016, Herminator: Woke Faith, bombed.
+Woke went broke.. Ghostbusters 2016, Herminator: Woke Fate, bombed.
 Recent Marvel TV shows are mostly terrible. There is the one-off ok
 movie, but that doesn't cover up the implosion of *The Eternals*.
 
