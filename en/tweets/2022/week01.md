@@ -104,7 +104,7 @@ the highest risk categories"
 
 US Omicron deaths still less than Delta, no uptrend
 
-[[-]](2020/02/corona.md#usdailydeath)
+[[-]](../../2020/02/corona.md#usdailydeath)
 
 ---
 
@@ -183,7 +183,7 @@ the boom of all booms.
 
 ---
 
-Not that it hasn't happened [before](2020/03/appelbaum.md#transistor).
+Not that it hasn't happened [before](../../2020/03/appelbaum.md#transistor).
 
 ---
 
@@ -308,6 +308,6 @@ For European natgas prices, the future contract Dutch TTF can be used.
 
 EU natgas price has been at insane levels.. fell somewhat recently.
 
-[[-]](2019/05/stats.md#eunatgas)
+[[-]](../../2019/05/stats.md#eunatgas)
 
 ---
