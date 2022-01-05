@@ -28,7 +28,6 @@ world population)...
 
 Grid and BEV
 
-
 Pipelines can transmit 10 times the energy at one-eighth the costs
 associated with electricity transmission lines [8]. 
 
@@ -98,10 +97,6 @@ electrolysis) have an effective electrical efficiency of 70–80%,
 producing 1 kg of hydrogen requires 50–55 kW⋅h of electricity
 [1]. 
 
-Storage in Ammonia
-
- Green ammonia production efficiency is over 74% [12]. "Crackers" that
-generate H2 from ammonia are about 76% efficient [6]. 
 
 Storage in Pipelines
 
@@ -185,6 +180,50 @@ Carbon
 A tree can absorb 25kg of CO2 per year. When burned that carbon is
 released into the air.
 
+### Ammonia
+
+Storage in Ammonia
+
+Green ammonia production efficiency is over 74% [12]. "Crackers" that
+generate H2 from ammonia are about 76% efficient [6].
+
+Largest ammonia ship 87,000m3 [14]
+
+837 crude oil tankers arrived at Japanese ports during the fiscal year 2010
+starting from April 2010 to March 2011 [15]
+
+Japan's current crude oil import is about 3 million barrels a day
+
+4 million barrels of crude oil is transported with a large tanker [16] 
+
+Crude oil 44 MJ/kg
+
+Ammonia 22.5 MJ/kg
+
+Ammonia 15.6 MJ/L
+
+Petroleum 34.2 MJ/L
+
+Density of liquid ammonia 682 kg/m³ 
+
+Density of light crude oil 875.7 kg/m3
+
+As standard the 1 barrel (119 liter) of crude oil produce
+approximately 159 liters of petrol.
+
+
+```python
+vlcc_liter = 4*1e6 * 119 
+print (vlcc_liter)
+amm_liter = 87000 * 1000
+print (amm_liter)
+```
+
+```text
+476000000.0
+87000000
+```
+
 References
 
 [1] https://en.wikipedia.org/wiki/Electrolysis_of_water
@@ -213,3 +252,8 @@ References
 
 [13] [Underground and pipeline hydrogen storage](https://www.researchgate.net/publication/301254520_Underground_and_pipeline_hydrogen_storage)
 
+[14] https://www.maritime-executive.com/article/phoenix-tankers-orders-largest-gas-carrier-for-lpg-and-ammonia
+
+[15] https://iea.blob.core.windows.net/assets/00cf6755-2976-4cd8-be5d-1c27b13d7df3/2013_OSS_Japan.pdf
+
+[16] https://www.mol-service.com/blog/how-large-is-the-very-large-crude-carrier
