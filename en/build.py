@@ -1,5 +1,9 @@
 import datetime, sys, os
 
+if len(sys.argv) < 2:
+    print ("options: week | years")
+    exit()  
+    
 if sys.argv[1] == 'week':
     my_date = datetime.date.today() # if date is 01/01/2018
     year, week_num, day_of_week = my_date.isocalendar()
