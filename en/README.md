@@ -29,7 +29,7 @@ H2 View: "Aramco sponsors Dakar Rally’s first hydrogen racing truck"
 ---
 
 Similar calculation holds for France (for territories near Madagascar)
-and Japan. But the Japanese are already on the case.
+and Japan. The Japanese are already on the case afaik.
 
 ---
 
