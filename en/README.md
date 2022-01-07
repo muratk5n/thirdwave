@@ -114,7 +114,7 @@ soon all went in. Crowded trade.
 
 ----
 
-Holmes defrauded Murdoch.. wow. And a relative of Ditsy Davos..
+Holmes defrauded Murdoch.. So funny. And a relative of Ditsy Davos..
 Impressive in a way
 
 ---
