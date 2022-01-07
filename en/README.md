@@ -196,8 +196,8 @@ round.
 In such a setting candidates can choose appeal to very narrow
 constituencies, and still win, then of course in the next round they'd
 have to change their tune to appeal to more..  With RCV they'd have to
-appeal to the broadest possible electorate from get-go, IMO that is a
-good thing. Plus RC system is a money saver.
+appeal to the broadest possible electorate from get-go, imo that is a
+good thing. Plus rcv is a money saver.
 
 ---
 
