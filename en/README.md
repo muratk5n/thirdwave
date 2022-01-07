@@ -241,9 +241,10 @@ dollars.
 
 ---
 
-The median home price is nearly half a million dollars.. How can an
-average home cost this much? For four walls and a roof.. There are
-amneties in it too sure, but almost *half a million dollars worth*?
+The median home price itself is nearly half a million dollars
+BTW.. How can an average home cost this much? For four walls and a
+roof.. There are amneties in it too sure, but almost *half a million
+dollars worth*?
 
 ---
 
