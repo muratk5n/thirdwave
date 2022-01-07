@@ -187,14 +187,13 @@ Macron is trending with over 300K tweets, wow
 
 ---
 
-Ranked choice voting (for candidates) might actually be better than
-two-round system.. Let's think about it.. For the two-round system
-candidates in the 1st round are only interested in getting more votes
-than the next guy. If 10 people are running and 8 ppl get less than
-10%, but one person gets 12%, and the next best gets 11%, they are
-both in the next round. In such a setting candidates can appeal to
-very narrow constituencies, and still win, then of course in the next
-round they'd have to change their tune to appeal to more..
+Ranked choice voting vs two-round system? With TRS candidates in the
+1st round are only interested in getting more votes than the next
+guy. If 10 people are running and 8 ppl get less than 10%, but one
+person gets 12%, and the next best gets 11%, they are both in the next
+round. In such a setting candidates can appeal to very narrow
+constituencies, and still win, then of course in the next round they'd
+have to change their tune to appeal to more..
 
 With RCV they'd have to appeal to the broadest possible electorate
 from get-go, IMO that is a good thing. Plus RC system is a money
