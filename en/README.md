@@ -308,6 +308,15 @@ Yep, still overdoing it.. \#netherlands
 
 ---
 
+"@EmilyCSherwin
+
+Kazakhstan’s president Tokayev has said that he has given security
+forces and the army the order to open fire without warning and 'to
+shoot to kill.' He said that dialogue with the protesters, who he
+refers to as 'terrorists,' is impossible"
+
+---
+
 ## For Members
 
 [Link](https://thirdwave-members.herokuapp.com)
