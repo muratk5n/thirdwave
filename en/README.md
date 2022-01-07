@@ -64,8 +64,8 @@ Build CSP on land, or floating panels. Ship ammonia.
 
 ---
 
-Britain has territories in the South Atlantic doesn't it? Ascension
-Island, Saint Helena...
+UK has territories in the South Atlantic doesn't it? Ascension Island,
+Saint Helena...
 
 ---
 
