@@ -182,19 +182,16 @@ released into the air.
 
 ### Ammonia
 
-Storage in Ammonia
-
 Green ammonia production efficiency is over 74% [12]. "Crackers" that
 generate H2 from ammonia are about 76% efficient [6].
 
-Largest ammonia ship 87,000m3 [14]
+Largest ammonia ship 87,000 m3 [14]
 
-837 crude oil tankers arrived at Japanese ports during the fiscal year 2010
-starting from April 2010 to March 2011 [15]
+837 crude oil tankers arrived at Japanese ports during the fiscal year 2010 [15]
 
-Japan's current crude oil import is about 3 million barrels a day
+In 2010 Japan's imported 3.75 million barrels of crude oil a day
 
-4 million barrels of crude oil is transported with a large tanker [16] 
+2 million barrels of crude oil is transported with a large tanker [16] 
 
 Crude oil 44 MJ/kg
 
@@ -203,6 +200,8 @@ Ammonia 22.5 MJ/kg
 Ammonia 15.6 MJ/L
 
 Petroleum 34.2 MJ/L
+
+LNG 22.2 MJ/L
 
 Density of liquid ammonia 682 kg/m³ 
 
@@ -213,16 +212,23 @@ approximately 159 liters of petrol.
 
 
 ```python
-vlcc_liter = 4*1e6 * 119 
+vlcc_liter = 2*1e6 * 119 
 print (vlcc_liter)
 amm_liter = 87000 * 1000
 print (amm_liter)
+print (vlcc_liter / amm_liter)
+print ('avg tanker capacity %0.2f million barrels' % (3.75*365 / 837))
 ```
 
 ```text
-476000000.0
+238000000.0
 87000000
+2.735632183908046
+avg tanker capacity 1.64 million barrels
 ```
+
+A large LNG tanker can hold 266,000 cubic meters of LNG.
+
 
 References
 
@@ -256,4 +262,5 @@ References
 
 [15] https://iea.blob.core.windows.net/assets/00cf6755-2976-4cd8-be5d-1c27b13d7df3/2013_OSS_Japan.pdf
 
-[16] https://www.mol-service.com/blog/how-large-is-the-very-large-crude-carrier
+[16] https://www.eia.gov/todayinenergy/detail.php?id=17991
+

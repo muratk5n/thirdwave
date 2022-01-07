@@ -83,29 +83,6 @@ support of Friedman and Hayek).
 
 ---
 
-Yann LeCun
-
-The CS department at Yale has long suffered from a disease that is
-widespread among CS department at stodgy, conservative universities,
-including Harvard, Chicago, and Princeton. CS is a quickly evolving
-field. Because of excess conservatism, these departments have
-repeatedly missed important trends in CS and related field, such as
-Data Science. They seem to view CS as meaning strictly theory, crypto,
-systems and programming languages, what some have called "core CS",
-paying lip service to graphics, vision, machine learning, AI, HCI,
-robotics, etc. But these areas are the ones that have been expanding
-the fastest in the last decades, particularly machine learning and
-computer vision in the last decade.
-
-True
-
-Universities are lagging in some other areas too; a lot of engineering
-curriculums still do not include statistics, and linear algebra. But
-they have Calculus all the way from I upto IV. Gilbert Strang of MIT
-complained about this here.
-
----
-
 Mercedez-Benz CEO
 
 [Paraphrasing, in response to Apple planning to get into car
