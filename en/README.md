@@ -270,8 +270,8 @@ crisis?  They were selling houses to dead people for effs sake.
 
 ---
 
-Reverse correlation between median house price in US and the interest
-rate. We wee the brief 2018 rise in rates, and housing prices falling.
+Reverse correlation is visible. We wee the brief 2018 rise in rates,
+and housing prices falling.
 
 ---
 
