@@ -134,7 +134,7 @@ independent of firing configuration"
 ---
 
 LPG is part buthane, part propane, both are products of natural gas.
-As natgas became more prevalent such use of LPG must have became
+As natgas became more prevalent such use of LPG must have become
 feasible back when. I vaguely remember that transition, first noone
 had natgas, then some for heating, then it was everywhere. It probably
 helped to be the next door neighbor to the natgas export behemoth,
