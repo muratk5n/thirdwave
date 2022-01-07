@@ -119,7 +119,7 @@ Impressive in a way
 
 ---
 
-Obviously LPG needs to go (away). Do natgas -> H2 and produce "blue
+Obviously LPG needs to go (away). Use natgas -> H2 and produce "blue
 H2". Use that in cars. If CCS at the source is done well (easy to
 regulate) then the car can have no emissions. Use of renewable fuel at
 the endpoint assures noone can cheat the way Volkswagen cheated with
