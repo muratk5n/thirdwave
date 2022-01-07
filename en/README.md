@@ -1,6 +1,6 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-That looks a clean-fuel combustion engine. Potentially a major development.
+Clean engine as in H2 combustion engine. Nice.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Clean engine developments in China have taken a major step forward, with China Yuchai International stating that its YCK05 <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a>-powered engine has achieved stable ignition and operation in a recent demonstration project.<a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/H2View?src=hash&amp;ref_src=twsrc%5Etfw">#H2View</a><a href="https://t.co/2LpBgI9V6J">https://t.co/2LpBgI9V6J</a></p>&mdash; H2 View (@h2_view) <a href="https://twitter.com/h2_view/status/1478664669741076481?ref_src=twsrc%5Etfw">January 5, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
