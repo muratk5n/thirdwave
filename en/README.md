@@ -50,7 +50,7 @@ print ("%0.1f GW" % (ann_energy / (365*24*1e6)))
 ```
 
 Nearly 8 GW could be delivered.. Assuming 2 month round trip per ship,
-a fleet of 10 ships would be enough? This is huge amt of power,
+a fleet of 10 ships would be enough? We're talking about huge amt of power,
 equivalent to the output of 8 nuclear plants. It could justify a fleet
 of 10 ships.
 
