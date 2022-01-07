@@ -103,7 +103,7 @@ Corporate marketing, again.
 ---
 
 Not suprising, humans are not built to run that way; Nike marketing
-advertised such style of running so they could [sell products for it](2019/12/civilized-to-death.md#nike).
+advertised such style of running so they could [sell products for it](../../2019/12/civilized-to-death.md#nike).
 
 Again we see regular people, consumers are taken for fools. They have
 no mechanism to protect against such interjections save gov
@@ -279,7 +279,7 @@ John Madden died?
 Veg Burg Deluxe, replaced beets with red peppers and collard greens,
 removed marmite. Testing.
 
-[[-]](2021/11/veg-burger-deluxe.md)
+[[-]](../../2021/11/veg-burger-deluxe.md)
 
 ---
 
