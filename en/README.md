@@ -125,9 +125,9 @@ regulate) then the car can have no emissions. Use of renewable fuel at
 the endpoint assures noone can cheat the way Volkswagen cheated with
 diesel.
 
-EPA: "Nearly all of the fuel carbon (99.5 percent) in LPG is converted
-to CO2 during the combustion process. This conversion is relatively
-independent of firing configuration"
+US EPA: "Nearly all of the fuel carbon (99.5 percent) in LPG is
+converted to CO2 during the combustion process. This conversion is
+relatively independent of firing configuration"
 
 [PDF](https://www3.epa.gov/ttnchie1/ap42/ch01/final/c01s05.pdf)
 
