@@ -56,7 +56,7 @@ of 10 ships.
 
 ---
 
-[Map](https://pbs.twimg.com/media/FIGS9apWQAEkT5u?format=jpg&name=small).
+[Map](https://pbs.twimg.com/media/FIGS9apWQAEkT5u?format=jpg&name=small)
 
 They are in the maximum sunshine [zone](https://pbs.twimg.com/media/FCtre5sWEAgFFp9?format=png&name=small).
 
