@@ -199,11 +199,6 @@ have to change their tune to appeal to more..  With RCV they'd have to
 appeal to the broadest possible electorate from get-go, IMO that is a
 good thing. Plus RC system is a money saver.
 
-What are *your* thoughts? Leave your comments below. And dont forget
-to hit the bell and click on the subscribe button.
-
-Just kidding.. I dont care 🤣
-
 ---
 
 Lee Pace (Cleon of the genetic dynasty) as the new Nicholas Cage?
