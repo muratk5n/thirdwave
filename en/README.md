@@ -226,7 +226,7 @@ Median is used instead of arithmetic mean precisely to ward off the
 effect of extremes. It is used for wealth averages for the same
 reason; otherwise people like Bezos would throw everything off. Joe,
 Bob are in a room, they have 100,102 dollars, Bezos walks in to the
-room, everyone there now is a billionaire, on average. Median sorts
+room, everyone there is now a billionaire, on average. Median sorts
 the list and literally picks the person in the middle, in this case
 the median wealth is $102. For home prices, that median is almost half
 a *f-ing* million dollars.
