@@ -258,7 +258,7 @@ Low rates can help mortgage rates be lower, but low irates also create
 a speculative environment whereby investors rush to real estate assets
 inflating prices there, which wld erase any gains home buyers might
 have enjoyed due to low rates. Wasn't this at the root of the 2007/8
-crisis?  They were selling houses to dead people for effs sake.
+crisis? They were giving mortages to dead people for effs sake.
 
 ---
 
