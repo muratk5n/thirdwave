@@ -262,7 +262,7 @@ crisis? They were giving mortages to dead people for effs sake.
 
 ---
 
-Reverse correlation is visible. We wee the brief 2018 rise in rates,
+Reverse correlation is visible. We see the brief 2018 rise in rates,
 and housing prices falling.
 
 ---
