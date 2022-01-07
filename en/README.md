@@ -134,8 +134,8 @@ independent of firing configuration"
 ---
 
 LPG is part buthane, part propane, both are products of natural gas.
-Back when and as natgas became more prevalent such use of LPG must
-have became feasible. I vaguely remember that transition, first noone
+As natgas became more prevalent such use of LPG must have became
+feasible back when. I vaguely remember that transition, first noone
 had natgas, then some for heating, then it was everywhere. It probably
 helped to be the next door neighbor to the natgas export behemoth,
 Russia, for TR. Import graph below.
@@ -144,12 +144,12 @@ Russia, for TR. Import graph below.
 
 ---
 
-Aha. Kazakhs use LPG in their cars too? Same with cabbies in Asia
-Minor. They used to put a freaking kitchen gas canister in there, in
-the trunk during the 90s and jury-rig the engine to combust LPG
-instead of petroleum (cheaper that way). To refuel, take old canister,
-put another in. But the tech has developed now, cars can go to a
-station and pump the gas in just like one does with petroleum.
+Hah they use LPG in their cars too, same with many cars, esp cabbies
+in Asia Minor. They used to put a freaking kitchen gas canister in
+there, in the trunk during the 90s and jury-rig the engine to combust
+LPG instead of petroleum (cheaper that way). To refuel, take old
+canister, put another in. But the tech has developed now, cars can go
+to a station and pump the gas in just like one does with petroleum.
 
 "[Kazakhtan protests] began with something very concrete: the price of
 liquified petroleum gas, or LPG, the fuel that many use to power their
