@@ -244,7 +244,7 @@ still has not left the house, still lives with them. Why not? Well
 maybe bcz housing prices are too high. Prev generation outsourced,
 killed wage growth, killed rates, and stock and real-estate prices
 became inflated.. Now their kids dont believe in capitalism, who can
-believe them?
+blame them?
 
 ---
 
