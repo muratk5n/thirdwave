@@ -227,9 +227,9 @@ something to watch.. Brilliant! Seldon actor choice was perfect.
 
 ---
 
-Median is used instead of arihtmetic mean average BTW precisely to
-ward off the effect of extremes. It is used for wealth averages for
-the same reason; otherwise people like Bezos would throw everything
+Median is used instead of arihtmetic mean average precisely to ward
+off the effect of extremes. It is used for wealth averages for the
+same reason; otherwise people like Bezos would throw everything
 off. Joe, Bob are in a room, they have 100,102 dollars, Bezos walks in
 to the room, everyone there now is a billionaire, on average. Median
 sorts the list and literally picks the person in the middle, in this
