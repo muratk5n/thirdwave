@@ -236,9 +236,6 @@ to the room, everyone there now is a billionaire, on average. Median
 sorts the list and literally picks the person in the middle, in this
 case the median wealth is $102.
 
-And for home prices, that median is almost half a *f-ing* million
-dollars.
-
 ---
 
 The median home price itself is nearly half a million dollars
