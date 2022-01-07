@@ -187,7 +187,7 @@ Macron is trending with over 300K tweets, wow
 
 ---
 
-Ranked choice voting vs two-round system? With TRS candidates in the
+Ranked choice voting vs two-round system: With TRS candidates in the
 1st round are only interested in getting more votes than the next
 guy. If 10 people are running and 8 ppl get less than 10%, but one
 person gets 12%, and the next best gets 11%, they are both in the next
