@@ -171,7 +171,7 @@ more equal.
 
 That was a nice, fun history video \#napoleon
 
-I like that guy Joachim Murat. Dunno why.
+Joachim Murat. Awesome
 
 [[-]](https://youtu.be/zqllxbPWKNI)
 
