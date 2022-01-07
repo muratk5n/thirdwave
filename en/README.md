@@ -119,15 +119,6 @@ Impressive in a way
 
 ---
 
-"@EmilyCSherwin
-
-Kazakhstan’s president Tokayev has said that he has given security
-forces and the army the order to open fire without warning and 'to
-shoot to kill.' He said that dialogue with the protesters, who he
-refers to as 'terrorists,' is impossible"
-
----
-
 Obviously LPG needs to go (away). Use natgas -> H2 and produce "blue
 H2". Use that in cars. If CCS at the source is done well (easy to
 regulate) then the car can have no emissions. Use of renewable fuel at
