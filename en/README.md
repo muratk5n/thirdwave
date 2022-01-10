@@ -257,7 +257,7 @@ they already are similar due to being around the same region. I
 remember one Julius Ceasar observation of the Celts [parahr] "Celt men
 are given to frequent displays of bravery".  Isn't that how natives
 are still like are over there though? Look at that Spiderman guy
-climbing buildings.
+climbing high-rise buildings, or the rope walker P. Petit.
 
 ---
 
