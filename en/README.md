@@ -203,7 +203,7 @@ keywords.
 Russian female journalists.. Ekaterina Kotrikadze, enthralling. She
 has this hyptnotizing vibe.. Vertigo bro.
 
-Oksana Boyko; I give a 10, stricly for the booty. [Boom!](https://pbs.twimg.com/media/FIG8am6XoAUu1bP?format=jpg&name=small).
+Oksana Boyko; I give a 10, stricly for the booty. [Boom!](https://pbs.twimg.com/media/FIG8am6XoAUu1bP?format=jpg&name=small)
 If any wider u'd need license plates for that ass. Hoooot-daam!
 
 ---
