@@ -103,11 +103,11 @@ various towns they planned to pass on their hike"
 
 Employees already forgo some of their freedoms when they join a
 company.. A company can require its employees to be present at certain
-locations for example as its execs see fit. But then, if everyone at
-those locations are not vaccinated, the company could be creating a
-health risk for its employees -- a risk which they might not be
-willing to take. So it should be within their rights to require all
-employees to be vaccinated.
+locations for example as its execs see fit, but then, during a
+pandemic if everyone at those locations are not vaccinated, the
+company could be creating a health risk for them -- a risk which they
+might not be willing to take. So it should be within their rights to
+require all employees to be vaccinated.
 
 They could create some bizarre convoluted scheme of course, one for
 employees with vax, one without vax, but that's just too much of a
