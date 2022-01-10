@@ -22,7 +22,7 @@ diesel-powered engines"
 
 ---
 
-GKN H2: [We are] selected to be part of U.S. Department of Energy
+GKN H2: "[We are] selected to be part of U.S. Department of Energy
 H2@Scale cooperative projects to help reach Hydrogen Shot.. DOE just
 announced nearly $8 million in funding for nine cooperative projects,
 one of which will include participation by GKN Hydrogen"
