@@ -29,19 +29,18 @@ one of which will include participation by GKN Hydrogen"
 
 ---
 
-It is quite shocking how many ppl still think battery electric tech is
-even marginally viable for a green future. Lithium reserves are
-limited, can only handle 5% of world storage needs. Fast charging on
-par with chemically refueling is a pipe dream, the best they can do is
-half an hour, which, when applied degrades the battery increasing the
-chance of a blowup (when these f-ing thing burn BTW, fire fighters
-cannot put it out with regular methods). Batteries degrade even with
-regular charging (see below) after 3500 cycles they go down to 70%
-capacity (imagine the effects of that on a second-hand market for
-BEVs). Batteries are heavy, impractical for transportation of energy.
-Batteries rely on rare-earth materials, for which we need to destroy
-Chile, Bolivia to get. From a systemic, TCO viewpoint this tech is
-a complete junk.
+Li battery tech is shockingly bad for the needs of a green
+future. Lithium reserves are limited, can only handle 5% of world
+storage needs. Fast charging on par with chemically refueling is a
+pipe dream, the best they can do is half an hour, which, when applied
+degrades the battery increasing the chance of a blowup (when these
+f-ing thing burn BTW, fire fighters cannot put it out with regular
+methods). Batteries degrade even with regular charging (see below)
+after 3500 cycles they go down to 70% capacity (imagine the effects of
+that on a second-hand market for BEVs). Batteries are heavy,
+impractical for transportation of energy.  Batteries rely on
+rare-earth materials, for which we need to destroy Chile, Bolivia to
+get. From a systemic, TCO viewpoint this tech is a complete junk.
 
 ---
 
