@@ -152,7 +152,7 @@ hydrogen trade program"
 ---
 
 If you do single-payer, have to do it at scale, the bigger the better,
-so California scale would be a good place to do it. If they pull it off,
+so California scale would be a good place to start. If they pull it off,
 hopefully it will spread to the rest of the country. 
 
 LA Times: "California would enact a sweeping, first-in-the-nation
