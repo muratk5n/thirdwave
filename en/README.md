@@ -245,9 +245,7 @@ anotherfaction (the previous President).
 
 NYT: "The [Kazakh] crisis coincided with a power struggle within the
 government, fueling talk that the people fighting in the streets were
-proxies for feuding factions of the political elite. There is also
-feverish speculation about Kremlin meddling and a host of other murky
-possible causes"
+proxies for feuding factions of the political elite."
 
 ---
 
