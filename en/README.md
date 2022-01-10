@@ -180,8 +180,8 @@ came to be called "AI" today, that is *exactly* what they are
 doing. If not in the tiniest detail, certainly in spirit, in the
 overall approach to the problem. Implicitly they believe what's known
 about the human brain so far is final, X number of neurons are there,
-they connect and do stuff somehow, so if we start from these tiny
-particles (neurons) and build up in software, we will reach human
+they somehow "connect" and do stuff together, so if we start from tiny
+particles (software neurons) and build up in code, we will reach human
 level intelligence. This is the belief, yet no cigar. A decade ago
 they could be forgiven bcz the hardware "wasn't there yet". Now it
 is. Where is Artif. General Intelligence?
