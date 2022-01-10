@@ -71,7 +71,7 @@ print (int(eng / 894), 'homes')
 301 homes
 ```
 
-10 of those trucks can deliver enough energy for 300 homes for a month.
+10 of those trailer containers can deliver enough energy for 300 homes for a month.
 
 ---
 
