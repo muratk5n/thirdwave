@@ -240,8 +240,8 @@ two abt physics right, action-reaction etc.
 ---
 
 Yes some reports talk about a second wave of protests which were
-probably fueled by the sitting Prez trying to use the protests against
-another faction (the previous President).
+likely "managed" by the sitting Prez trying to use the unrest against
+anotherfaction (the previous President).
 
 NYT: "The [Kazakh] crisis coincided with a power struggle within the
 government, fueling talk that the people fighting in the streets were
