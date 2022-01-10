@@ -251,18 +251,19 @@ possible causes"
 
 ---
 
-After Rome invaded Gaul, today's France, did French people change? Did
-they become Italian-like? I dont think so.. no more than they already
-are similar due to being around the same region. I remember one Julius
-Ceasar observation of the Celts [parahr] "Celt men are given to
-frequent displays of bravery".  Isn't that how ppl are still like are
-over there? Look at that Spiderman guy climbing buildings.
+After Rome invaded Gaul, today's France, did the natives people
+change? Did they become Italian-like? I dont think so.. no more than
+they already are similar due to being around the same region. I
+remember one Julius Ceasar observation of the Celts [parahr] "Celt men
+are given to frequent displays of bravery".  Isn't that how natives
+are still like are over there though? Look at that Spiderman guy
+climbing buildings.
 
 ---
 
-They mixed Catholicism and Vodoo, so it's like Vodoo Christianity.. So
-weird.. Shows many things can mix with many other things, and the
-regional, culture (codes) are extremely entrenched.
+They mixed Catholicism and Vodoo, so it's like Vodoo
+Christianity.. Shows many things can mix with many other things, and
+the regional, culture (codes) can be extremely entrenched.
 
 ---
 
