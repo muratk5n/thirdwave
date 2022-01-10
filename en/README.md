@@ -52,6 +52,8 @@ The metal hydrides can last for decades without any losses. (99%
 capacity after 3,500 cycles vs. 70% after 2000 cycles with Li
 batteries)"
 
+[[-]](https://www.gknhydrogen.com/)
+
 ---
 
 QFS tech can carry 803 kg at 248 bars in one trailer. H2 is 20 kg/m3
