@@ -124,8 +124,6 @@ among Wall Street banks"
 
 "What cannot go on forever probably won't" -- Buffett
 
----
-
 CNBC: "Stocks fell on Friday to end a rough first trading week of the
 year, as tech shares were battered by rising interest rates... The
 10-year Treasury yield topped 1.8% on Friday, continuing its 2022 run
