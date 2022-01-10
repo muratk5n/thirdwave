@@ -182,7 +182,7 @@ overall approach to the problem. Implicitly they believe what's known
 about the human brain so far is final, X number of neurons are there,
 they somehow "connect" and do stuff together, so if we start from tiny
 particles (software neurons) and build up in code, we will reach human
-level intelligence. This is the belief, yet no cigar. A decade ago
+level intelligence. This is the belief -- yet no cigar. A decade ago
 they could be forgiven bcz the hardware "wasn't there yet". Now it
 is. Where is Artif. General Intelligence?
 
