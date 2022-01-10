@@ -251,13 +251,13 @@ possible causes"
 
 ---
 
-After Rome invaded Gaul, today's France, did the natives people
-change? Did they become Italian-like? I dont think so.. no more than
-they already are similar due to being around the same region. I
-remember one Julius Ceasar observation of the Celts [parahr] "Celt men
-are given to frequent displays of bravery".  Isn't that how natives
-are still like are over there though? Look at that Spiderman guy
-climbing high-rise buildings, or the rope walker P. Petit.
+After Rome invaded Gaul, today's France, did the natives change? Did
+they become Italian-like? I dont think so.. no more than they already
+are similar due to being around the same region. I remember one Julius
+Ceasar observation of the Celts [parahr] "Celt men are given to
+frequent displays of bravery".  Isn't that how natives are still like
+are over there though? Look at that Spiderman guy climbing high-rise
+buildings, or the rope walker P. Petit.
 
 ---
 
