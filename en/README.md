@@ -40,8 +40,7 @@ regular charging (see below) after 3500 cycles they go down to 70%
 capacity (imagine the effects of that on a second-hand market for
 BEVs). Batteries are heavy, impractical for transportation of energy.
 Batteries rely on rare-earth materials, for which we need to destroy
-Chile, Bolivia to get at. There are way too many f-ing morons out
-there, or "uninformed masses".
+Chile, Bolivia to get at. 
 
 ---
 
