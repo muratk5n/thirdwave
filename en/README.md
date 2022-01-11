@@ -196,8 +196,7 @@ emerge. That’s cargo cult AI"
 
 ---
 
-Euler is the name of the game. Riemann, compressible - key
-keywords. 
+Euler is the name of the game. Riemann, compressible - key words.
 
 ---
 
