@@ -34,11 +34,11 @@ future. Lithium reserves are limited, can only handle 5% of world
 storage needs. Fast charging on par with chemically refueling is a
 pipe dream, the best they can do is half an hour, which, when applied
 degrades the battery increasing the chance of a blowup (when these
-f-ing thing burn BTW, fire fighters cannot put it out with regular
-methods). Batteries degrade even with regular charging (see below)
-after 3500 cycles they go down to 70% capacity (imagine the effects of
-that on a second-hand market for BEVs). Batteries are heavy,
-impractical for transportation of energy.  Batteries rely on
+f-ing things burn BTW, fire fighters cannot put out the fire with
+regular methods). Batteries degrade even with regular charging (see
+below) after 3500 cycles they go down to 70% capacity (imagine the
+effects of that on a second-hand market for BEVs). Batteries are
+heavy, impractical for transportation of energy.  Batteries rely on
 rare-earth materials, for which we need to destroy Chile, Bolivia to
 get. From a systemic, TCO viewpoint the tech is a complete junk.
 
@@ -56,11 +56,14 @@ batteries)"
 
 ---
 
+The Mandarin: "Australia signs defence treaty with Japan, launches
+hydrogen trade program"
+
+---
+
 QFS tech can carry 803 kg at 248 bars in one trailer. H2 is 20 kg/m3
 at 300 bars, 33.6 kWh/kg and avg household consumption of elec being
 893 kWh per month,
-
-Avg household consumption of elec is 893 kWh per month.
 
 ```python
 eng = 10 * 33.6 * 803.0
@@ -148,10 +151,6 @@ best-selling memoir"
 
 ---
 
-The Mandarin: "Australia signs defence treaty with Japan, launches
-hydrogen trade program"
-
----
 
 If you do single-payer, have to do it at scale, the bigger the better,
 so California scale would be a good place to start. If they pull it off,

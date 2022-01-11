@@ -302,9 +302,22 @@ df.columns = cols
 df = df.set_index('decimal')
 df['dt'] = df.apply(lambda x: pd.to_datetime("%d-%02d-01" %(x.year,x.month)), axis=1)
 df[['dt','average']].to_csv('methane.csv',index=None)
-df.average.plot()
+df1 = df.set_index('dt')
+df1.average.plot()
+print (df1.average.tail(6))
 plt.legend(['nanomol/mol (ppb)'])
 plt.savefig('methane.png')
+```
+
+```text
+dt
+2021-04-01    1891.3
+2021-05-01    1891.7
+2021-06-01    1888.6
+2021-07-01    1886.7
+2021-08-01    1893.1
+2021-09-01    1900.5
+Name: average, dtype: float64
 ```
 
 ![](methane.png)
