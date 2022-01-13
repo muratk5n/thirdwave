@@ -249,10 +249,9 @@ raising the risk of contagion across financial markets"
 
 Why is Bitcoin price falling when there is inflation? Aren't they
 supposed to be a "safe heaven asset", a hedge against "money being
-debased"?  Looks like BTC is merely another risky asset just like most
-of those overvalued tech stocks, or, hell, the stock market
-itself. And as risky assets go down so does Bitcoin right along with
-them.
+debased"?  Looks like BTC is merely another risky asset just like
+those overvalued tech stocks, or, hell, the stock market itself. And
+as risky assets go down so does Bitcoin right along with them.
 
 ---
 
