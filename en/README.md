@@ -43,14 +43,13 @@ in the world [in its class]"
 
 ---
 
-Chemical, as in the kind used by those disposable hand warmer
-products. DHWs contain iron powder, salt powder, enclosed in a plastic
-wrap. When the contents are removed all comes into contact with air /
-oxygen, iron oxide is formed thanks to that oxygen which is an
-heat-emitting "exothermic" reaction. User gets heat in the process,
-the perfect hand warmer. No electricity, no flame, just basic
-chemistry. Lavo uses a different chem reaction but the general
-approach is similar.
+Chemical, as in the kind used by those disposable hand warmer. DHWs
+contain iron powder, salt powder, enclosed in a plastic wrap. When the
+contents are removed all comes into contact with air / oxygen, iron
+oxide is formed thanks to that oxygen which is an heat-emitting
+"exothermic" reaction. User gets heat in the process, the perfect hand
+warmer. No electricity, no flame, just basic chemistry. Lavo uses a
+different chem reaction but the general approach is similar.
 
 [[-]](https://cen.acs.org/articles/88/i4/Hand-Warmers.html)
 
