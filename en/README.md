@@ -205,8 +205,6 @@ vehicles from the US for $3.5 billion, [says] defence minister."
 
 ---
 
-That could be a problem for Labor
-
 "Jeremy Corbyn considers launching new party to rival Keir Starmer if
 he is not reinstated as a Labour MP"
 
