@@ -68,7 +68,7 @@ in the graph falls, doesnt mean CO2 produced at the high disappears.
 
 ---
 
-Lots of spikes there.. Let's zoom in,
+Let's zoom in,
 
 ```python
 df['twh'].tail(40).plot()
