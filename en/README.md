@@ -160,25 +160,6 @@ serious love or loathe divide"
 
 ---
 
-Politico: "[A mother from US] I tweeted, 'Does anyone else feel
-enraged at the idea that you’ll be homeschooling in the fall
-full-time? Cuz my moms group text is in full-blown acceptance mode and
-it bugs the shit out of me.' I didn’t know it yet, but this would be
-my first foray into school reopening advocacy..
-
-Members of the parent group I helped lead were consistently attacked
-on Twitter and Facebook by two Oakland moms with ties to the teachers
-union. They labelled advocates’ calls for schools reopening 'white
-supremacy' called us 'Karens,' and even bizarrely claimed we had
-allied ourselves with Marjorie Taylor Greene’s transphobic agenda"
-
----
-
-"More than half of Europeans will be infected by Omicron in next two
-months, WHO says"
-
----
-
 Sarkozy started that whole wave didn't he? He used to say he wld clean
 out 'trouble' neighborhoods "a la Kärcher". Added bonus, Kärcher (with
 umlaut!) is a German name / brand which made the whole comment sound
@@ -205,6 +186,25 @@ vehicles from the US for $3.5 billion, [says] defence minister."
 
 "Jeremy Corbyn considers launching new party to rival Keir Starmer if
 he is not reinstated as a Labour MP"
+
+---
+
+Politico: "[A mother from US] I tweeted, 'Does anyone else feel
+enraged at the idea that you’ll be homeschooling in the fall
+full-time? Cuz my moms group text is in full-blown acceptance mode and
+it bugs the shit out of me.' I didn’t know it yet, but this would be
+my first foray into school reopening advocacy..
+
+Members of the parent group I helped lead were consistently attacked
+on Twitter and Facebook by two Oakland moms with ties to the teachers
+union. They labelled advocates’ calls for schools reopening 'white
+supremacy' called us 'Karens,' and even bizarrely claimed we had
+allied ourselves with Marjorie Taylor Greene’s transphobic agenda"
+
+---
+
+"More than half of Europeans will be infected by Omicron in next two
+months, WHO says"
 
 ---
 
