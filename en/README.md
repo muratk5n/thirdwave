@@ -32,8 +32,10 @@ with hydrogen set to be central to decarbonisation"
 
 "Saudi-based Acwa Power.. has announced plans to begin the first phase
 of Noor Energy 1 [CSP] project, located in Dubai with a total capacity
-of 217 MW... The 950 MW Phase Four is the largest investment project
-in the world [in its class]"
+of 217 MW...
+
+The 950 MW Phase Four is the largest investment project in the world
+[in its class]"
 
 ---
 
