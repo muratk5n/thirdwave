@@ -4,6 +4,8 @@ De Vany
 
 <a name='jogging'/>
 
+Activity
+
 Power is strength in action – the combination of speed and
 strength. Since we know that inflammation kills the valuable
 fast-twitch muscle fibres, we want to see how much of this precious
@@ -99,6 +101,8 @@ never believed me when I told them, because it went contrary to
 everything they ‘knew’ about fitness.
 
 <a name='diet'/>
+
+Diet
 
 Why do we get fat and sick? They are odd questions from an
 evolutionary perspective, because ancestral humans were not
