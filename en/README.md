@@ -52,8 +52,6 @@ oxide is formed thanks to that oxygen which is an heat-emitting
 "exothermic" reaction. User gets heat in the process, the perfect hand
 warmer. No electricity, no flame, just basic chemistry.
 
-[[-]](https://cen.acs.org/articles/88/i4/Hand-Warmers.html)
-
 ---
 
 If more ppl came up with chemically activated H2 or ammonia based
