@@ -1,6 +1,6 @@
 # Human Nature and Health
 
-[De Vany, Exercise, Diet](../../2010/04/devany.md)
+[De Vany, Exercise, Diet](../../2010/04/new-evolution-diet-devany.md)
 
 [It’s the Sugar, Folks](../../2013/03/its-sugar-folks.md)
 

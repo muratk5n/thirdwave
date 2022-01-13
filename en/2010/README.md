@@ -1,6 +1,6 @@
 # 2010
 
-[De Vany, Exercise, Diet](04/devany.md)
+[The New Evolution Diet](04/new-evolution-diet-devany.md)
 
 [Wall Street: Again](11/wall-street-again.md)
 

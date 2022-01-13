@@ -294,13 +294,7 @@ origin.
 
 ---
 
-[Fast](../../2010/04/devany.md#fast)
-
-"I am fat"
-
----
-
-Don't [jog](../../2010/04/devany.md#jog). Outside, great.
+Don't [jog](../../2010/04/new-evolution-diet-devany.md#jogging). Outside, great.
 
 "I miss jogging, being outside"
 
