@@ -254,7 +254,7 @@ as risky assets go down so does Bitcoin right along with them.
 
 ---
 
-*Run and Gun*, was ok.. Rich Kind is hilarious as ever. 
+*Run and Gun*, not bad.. not bad at all. Rich Kind was hilarious as ever. 
 
 ---
 
