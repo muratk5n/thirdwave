@@ -217,8 +217,8 @@ drunk can get serious punishment.
 Curious how much trouble an official acceptance of a covid lab-leak
 conclusion can cause. US could be liable for some stuff.. It's like
 you killed over 5 million people, akin to dropping a tactical nuke on
-a city. Is it enough to throw Fauci under the bus as some kind of
-modern day Mengele, and be done with it?
+a city. Is it enough to throw Fauci under the bus as a modern day
+Mengele, and be done with it?
 
 ---
 
