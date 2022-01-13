@@ -1,277 +1,272 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
+---
+
+H2 View: "UAE, UK to explore clean hydrogen opportunities through new
+partnership"
 
 ---
 
-H2 View: "[The California Hydrogen Business Council] outlines 200
-heavy-duty hydrogen refuelling stations target by 2035"
+H2 View: "Aberdeen Investee, AES-100 Inc., Reports Technical Viability
+of Hydrogen Extraction From Natural Gas Pipelines"
 
 ---
 
-H2 View: "In a significant moment for the hydrogen economy, JERA and
-Mitsubishi Heavy Industries (MHI) have been given the green light to
-carry out a project that aims to develop an ammonia single-fuel burner
-suitable for coal-fired boilers [for co-firing with at least 50%
-ammonia]"
+H2 View: "myFC to develop hydrogen fuel cell systems for bicycle"
 
 ---
 
-H2 View: "Australia's largest rail freight operator Aurizon is looking
-at green hydrogen fuel cell technology to cut emissions and replace
-diesel-powered engines"
+H2 View: "Carbon emissions reduction technologies company Haldor
+Topsoe.. inked a €45m loan agreement to research hydrogen
+technologies. An agreement signed with the European Investment Bank,
+the loan will allow the company to focus on the production of green
+chemicals and renewable fuels, such as green hydrogen, green ammonia
+and biofuels"
 
 ---
 
-GKN H2: "[We are] selected to be part of U.S. Department of Energy
-H2@Scale cooperative projects to help reach Hydrogen Shot.. DOE just
-announced nearly $8 million in funding for nine cooperative projects,
-one of which will include participation by GKN Hydrogen"
+H2 View: "Germany to significantly boost renewable energy technologies
+with hydrogen set to be central to decarbonisation"
 
 ---
 
-Li battery tech is shockingly bad for the needs of a green
-future. Lithium reserves are limited, can only handle 5% of world
-storage needs. Fast charging on par with chemically refueling is a
-pipe dream, the best they can do is half an hour, which, when applied
-degrades the battery increasing the chance of a blowup (when these
-f-ing things burn BTW, fire fighters cannot put out the fire with
-regular methods). Batteries degrade even with regular charging (see
-below) after 3500 cycles they go down to 70% capacity (imagine the
-effects of that on a second-hand market for BEVs). Batteries are
-heavy, impractical for transportation of energy.  Batteries rely on
-rare-earth materials, for which we need to destroy Chile, Bolivia to
-get. From a systemic, TCO viewpoint the tech is a complete junk.
+"Saudi-based Acwa Power.. has announced plans to begin the first phase
+of Noor Energy 1 [CSP] project, located in Dubai with a total capacity
+of 217 MW... The 950 MW Phase Four is the largest investment project
+in the world [in its class]"
 
 ---
 
-GKN H2: "Our state-of-the-art metal hydride storage has been developed
-and refined over the last 8+ years.. The standard metals we are using
-are 100% recyclable.. The low-temperature metal hydride storage system
-operates at the same pressure level as electrolysis and fuel cells..
-The metal hydrides can last for decades without any losses. (99%
-capacity after 3,500 cycles vs. 70% after 2000 cycles with Li
-batteries)"
+"1.3GW CSP Projects Planned to Start in 2022 [in China]"
 
-[[-]](https://www.gknhydrogen.com/)
+[[-]](http://www.cspfocus.cn/en/market/detail_5026.htm)
 
 ---
 
-The Mandarin: "Australia signs defence treaty with Japan, launches
-hydrogen trade program"
+Chemical, as in the kind used by those disposable hand warmer
+products. DHWs contain iron powder, salt powder, enclosed in a plastic
+wrap. When the contents are removed all comes into contact with air /
+oxygen, iron oxide is formed thanks to that oxygen which is an
+heat-emitting "exothermic" reaction. User gets heat in the process,
+the perfect hand warmer. No electricity, no flame, just basic
+chemistry. Lavo uses a different chem reaction but the general
+approach is similar.
+
+[[-]](https://cen.acs.org/articles/88/i4/Hand-Warmers.html)
 
 ---
 
-QFS tech can carry 803 kg at 248 bars in one trailer. H2 is 20 kg/m3
-at 300 bars, 33.6 kWh/kg and avg household consumption of elec being
-893 kWh per month,
+If more ppl came up with chemically activated H2 or ammonia based
+heater solutions, it would be helpful, potentially game-changer
+even. Something like [this](https://www.design-industry.com.au/lavo-hydrogen-bbq)
+tech from Lavo.
+
+---
+
+CO2 from fossil stays in the atmo for very long time.. When an uptick
+in the graph falls, doesnt mean CO2 produced at the high disappears.
+
+---
+
+Lots of spikes there.. Let's zoom in,
 
 ```python
-eng = 10 * 33.6 * 803.0
-print (eng, 'KWh')
-print (int(eng / 894), 'homes')
+df['twh'].tail(40).plot()
+```
+
+<img width="340" src="https://pbs.twimg.com/media/FIzqj7lX0AIAS4t?format=png&name=small"/>
+
+Right there.. Peak on July, peak on January, peak on July, peak on
+January..  On and on it goes..
+
+Winter spikes are worse. This is US, in the other parts of the world,
+fossil burning wld be more extreme. Wood, coal, cow dung..
+
+---
+
+US fossil fuel consumption, in terrawatt hours, 
+
+```python
+import pandas as pd, requests
+from datetime import date
+
+api_key = open('.eiakey').read()
+url = 'http://api.eia.gov/series/?api_key=' + api_key + '&series_id=TOTAL.FFTCBUS.M' 
+r = requests.get(url)
+json_data = r.json()
+df = pd.DataFrame(json_data.get('series')[0].get('data'))
+df['Year'] = df[0].astype(str).str[:4]
+df['Month'] = df[0].astype(str).str[4:]
+df['Day'] = 1
+df['Date'] = pd.to_datetime(df[['Year','Month','Day']])
+df = df.set_index('Date')
+df = df.sort_index()
+df['twh'] = df[1] * 0.29307 # 1 trillion btu to twh
+df['twh'].plot()
+```
+
+<img width="340" src="https://pbs.twimg.com/media/FIzqh85WYAcYPO5?format=png&name=small"/>
+
+---
+
+1KW of heat is required for every 14 cubic meters. 50 m2 for 4 people,
+buildings of 4 meters high,
+
+```python
+per_person = 10000 # watts
+watt_heat_per_m3 = 1/14*1000.
+home_vol = 50*4 
+heat_w = home_vol*watt_heat_per_m3 / 4
+print ('%0.1f watts per person for heating' % heat_w)
+print ('%0.1f perc for heating' % (heat_w / per_person * 100.0))
 ```
 
 ```text
-269808.0 KWh
-301 homes
+3571.4 watts per person for heating
+35.7 percent for heating
 ```
 
-10 of those trailer containers can deliver enough energy for 300 homes for a month.
+---
+
+EIA: "On average, more than half (51% in 2015) of a [US] household’s
+annual energy consumption is for just two energy end uses: space
+heating and air conditioning"
+
+[[-]](https://www.eia.gov/energyexplained/use-of-energy/homes.php)
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/FIkMM21WQAAouE7?format=jpg&name=small"/>
+"A deep chasm in the ground that’s been burning since the 1970s is due
+to finally be extinguished. Known as the ‘Gates of Hell’, the fiery
+sinkhole stretches 230-feet wide and is located in the Karakum Desert
+in Turkmenistan.. Noone really knows how it was created, but one of
+the popular theories is it was created in ’71 when Soviet scientists
+ignited it"
 
-Quantum Fuel Systems: Quantum’s hydrogen .. trailers enable the
-distribution of a clean energy solution.. We’ve combined our 20+ years
-of experience with hydrogen and our industry-leading virtual pipeline
-trailers to bring to market our new hydrogen virtual pipeline trailer"
-
-[[-]](https://www.qtww.com/product/virtual-pipeline-trailers/)
-
----
-
-"Duterte wants unvaccinated jailed as COVID rate hits record high"
+[[-]](https://metro.co.uk/2022/01/10/close-the-gates-of-hell-flaming-chasm-to-be-sealed-up-after-51-years-15894082/?ito=socialmetrouktwitter)
 
 ---
 
-Sweet. Major planning there with the food.. 
+Nature: "Build a registry of results that students can replicate.. To
+speed research, express conclusions as testable statements, and
+incorporate testing into training"
 
-CNBC: "[An] American couple saw the pandemic as an opportunity to
-embark on a 3,149-mile hike along the Continental Divide Trail, which
-stretches across the United States between the borders of Mexico and
-Canada... To ensure they had an adequate supply of food, Miller and
-Beissinger dehydrated 100 homemade dinners and mailed them out to the
-various towns they planned to pass on their hike"
+[[-]](https://www.nature.com/articles/d41586-021-03707-9)
 
 ---
 
-Employees already forgo some of their freedoms when they join a
-company.. A company can require its employees to be present at certain
-locations for example as its execs see fit, but then, during a
-pandemic if everyone at those locations are not vaccinated, the
-company could be creating a health risk for them -- a risk which they
-might not be willing to take. So it should be within their rights to
-require all employees to be vaccinated.
+Marm is veg based too but ok, interesting
 
-They could create some bizarre convoluted scheme of course, one for
-employees with vax, one without vax, but that's just too much of a
-pain in the ass. Easier to say "just get the f-ing vax". 
+"Brussel sprouts are the Marmite of the vegetable world, with a
+serious love or loathe divide"
 
 ---
 
-It should be within their rights to do so
+Politico: "[A mother from US] I tweeted, 'Does anyone else feel
+enraged at the idea that you’ll be homeschooling in the fall
+full-time? Cuz my moms group text is in full-blown acceptance mode and
+it bugs the shit out of me.' I didn’t know it yet, but this would be
+my first foray into school reopening advocacy..
 
-"Citigroup will terminate unvaccinated workers by Jan. 31, a first
-among Wall Street banks"
-
----
-
-"What can't go on forever probably won't" -- Buffett
-
-CNBC: "Stocks fell on Friday to end a rough first trading week of the
-year, as tech shares were battered by rising interest rates... The
-10-year Treasury yield topped 1.8% on Friday, continuing its 2022 run
-from a 2021 year-end level of just 1.51%"
+Members of the parent group I helped lead were consistently attacked
+on Twitter and Facebook by two Oakland moms with ties to the teachers
+union. They labelled advocates’ calls for schools reopening 'white
+supremacy' called us 'Karens,' and even bizarrely claimed we had
+allied ourselves with Marjorie Taylor Greene’s transphobic agenda"
 
 ---
 
-So many ppl made money from the DT gravy train.. even CNN.
+"More than half of Europeans will be infected by Omicron in next two
+months, WHO says"
 
 ---
 
-Thank the man.. he did a solid, indirectly
+Sarkozy started that whole wave didn't he? He used to say he wld clean
+out trouble immigrant neighborhoods "a la Kärcher". Added bonus,
+Kärcher (with umlaut!)  is a German name / brand which made the whole
+comment sound even badder. Boo. Scary German word from Germany. The
+company must have had it by now, I can't blame them.
+
+"One of the world's leading makers of pressure washers and steam
+cleaners [Karcher] has formally asked French politicians not to use
+its name to score political points"
 
 ---
 
-And Don is your uncle.
-
-"Donald Trump's niece Mary buys $7m New York apartment after releasing
-best-selling memoir"
-
----
-
-
-If you do single-payer, have to do it at scale, the bigger the better,
-so California scale would be a good place to start. If they pull it off,
-hopefully it will spread to the rest of the country. 
-
-LA Times: "California would enact a sweeping, first-in-the-nation
-universal healthcare plan under a proposal unveiled Thursday by a
-group of state Democratic lawmakers, providing health services to
-every resident and financed by a broad array of new taxes on
-individuals and businesses... The proposal, now laid out in separate
-pieces of legislation, faces significant hurdles in the coming
-months.. “There are countless studies that tell us a single-payer
-healthcare system is the fiscally sound thing to do, the smarter
-healthcare policy to follow, and a moral imperative if we care about
-human life,” Assemblyman Ash Kalra (D-San Jose), the proposal’s
-author, said Thursday"
+Jane's Defense: "The United Kingdom has received its ninth and final
+Boeing P-8A Poseidon MRA1 maritime multimission aircraft
+(MMA)... Delivery of all nine Poseidon MRA1s is a major milestone in
+the reconstitution of the UK's airborne maritime patrol capability"
 
 ---
 
-S. Poitier, RIP
+Jane's Defense: "Australia will buy more than 100 tanks and armoured
+vehicles from the US for $3.5 billion, defence minister Peter Dutton
+says."
 
 ---
 
-Yann is so full of shit. With his approach, deep neural networks what
-came to be called "AI" today, that is *exactly* what they are
-doing. If not in the tiniest detail, certainly in spirit, in the
-overall approach to the problem. Implicitly they believe what's known
-about the human brain so far is final, X number of neurons are there,
-they somehow "connect" and do stuff together, so if we start from tiny
-particles (software neurons) and build up in code, we will reach human
-level intelligence. This is the belief -- yet no cigar. A decade ago
-they could be forgiven bcz the hardware "wasn't there yet". Now it
-is. Where is Artif. General Intelligence?
+I hope he goes for it
 
-NN Expert Yann LeCun: "The cargo cult approach to aeronautics—for
-actually building airplanes—would be to copy birds very, very closely;
-feathers, flapping wings, and all the rest. And people did this back
-in the 19th century, but with very limited success... The equivalent
-in AI is to try to copy every detail that we know of about how neurons
-and synapses work, and then turn on a gigantic simulation of a large
-neural network inside a supercomputer, and hope that AI will
-emerge. That’s cargo cult AI"
+"Jeremy Corbyn considers launching new party to rival Keir Starmer if
+he is not reinstated as a Labour MP"
 
 ---
 
-Euler is the name of the game. Riemann, compressible - key words.
+Similar to involuntery manslaughter, on a wide scale.. People get
+punished for involuntery manslaughter. Driver hits pedestrian while
+drunk can get punishment.
 
 ---
 
-Russian female journalists.. Ekaterina Kotrikadze, enthralling. She
-has this hyptnotizing vibe.. Vertigo bro.
-
-Oksana Boyko; I give a 10, stricly for the booty. [Boom!](https://pbs.twimg.com/media/FIG8am6XoAUu1bP?format=jpg&name=small)
-If any wider u'd need license plates for that ass. Hoooot-daam!
-
----
-
-JFK is claimed by the "Irish" as one of their own, but his kinship,
-and comparisons to him should be on the grounds of "young and bad
-Presidents" rather than an "Irish" President. And as a young and a bad
-President he is more like a Bill Clinton, or George W. Bush.
+I wonder how much trouble an official acceptance of a covid lab-leak
+conclusion can cause. US could be liable for some stuff.. It's like
+you killed over 5 million people, akin to dropping a tactical nuke on
+a city. Is it enough to throw Fauci under the bus as some kind of
+modern day Mengele, and be done with it?
 
 ---
 
-Feynman apparently ignored most of the film, looked at two frames
-only, before and right after the event. Eliminating noise, focusing on
-the essential.. key.
+"The New Fauci Emails Are Even More Damning Than You Think" \#rising \#grim
+
+[[-]](https://youtu.be/sD0i_YxPATc?t=107)
 
 ---
 
-There is footage (the so-called Zapruder film) w jfk moving in ways
-suggesting someone shot from the front (Oswald shot from behind), but
-that theory has been debunked. They showed the reel to Feynman he
-concluded the shot came from Oswald's direction. He knew a thing or
-two abt physics right, action-reaction etc.
-
-"JFK assasination cld have been done by a second shooter"
+Why does China still continue with zero-covid? Their vax is probably
+not too effective against the new strain. But zero-covid is not a
+long-term strategy. Trying to gain time while improving the vax?
+Enough questions?
 
 ---
 
-"Anti-vax protesters in France tell Macron, ‘we’ll piss you off’" \#F24
-
-[[-]](https://www.youtube.com/watch?v=KN4U8zAoHgM)
+"Quebec seeks to tax unvaccinated as health system struggles with Omicron"
 
 ---
 
-Yes some reports talk about a second wave of protests which were
-likely "managed" by the sitting Prez trying to use the unrest against
-another faction in the country (the previous President).
+"@Zachary
 
-NYT: "The [Kazakh] crisis coincided with a power struggle within the
-government, fueling talk that the people fighting in the streets were
-proxies for feuding factions of the political elite."
+The IMF says crypto prices are moving more in lockstep with stocks,
+raising the risk of contagion across financial markets"
 
 ---
 
-After Rome invaded Gaul, today's France, did the natives change? Did
-they become Italian-like? I dont think so.. no more than they already
-are similar due to being around the same region. I remember one Julius
-Ceasar observation of the Celts [parahr] "Celt men are given to
-frequent displays of bravery".  Isn't that how natives are still like
-are over there? That Spiderman guy climbing high-rise buildings, or
-the rope walker P. Petit.
+Why is Bitcoin price falling when there is inflation? Aren't they
+supposed to be a safe heaven, a hedge against "money being debased"?
+Looks like BTC is merely another risky asset just like most of those
+overvalued tech stocks. And as risky assets go down so does Bitcoin
+right along with them.
 
 ---
 
-They mixed Catholicism and Vodoo, so it's like Vodoo
-Christianity.. Shows many things can mix with many other things, and
-the regional, culture (codes) can be extremely entrenched.
+*Run and Gun*, not bad. Rich Kind is hilarious as ever. 
 
 ---
 
-🤣 🤣 
-
-The Guardian: "Far from B-movie cliches, vodou is spiritual system and
-a way of life.. Haiti, the saying goes, is “70% Catholic, 30%
-Protestant, and 100% Vodou”. Vodou is everywhere in the Caribbean
-nation, a spiritual system infusing everything from medicine and
-agriculture to cosmology and art"
-
-[[-]](https://www.theguardian.com/world/2015/nov/07/vodou-haiti-endangered-faith-soul-of-haitian-people)
+*Call of Duty* mission *Behind Enemy Lines* has nice backdrop.. Saw
+someone else's play, not a big dumb non-stop action, lots of moving
+around silently, gives gamer more time to enjoy the
+environment. Decade old but still good.
 
 ---
 
