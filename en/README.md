@@ -180,7 +180,7 @@ months, WHO says"
 ---
 
 Sarkozy started that whole wave didn't he? He used to say he wld clean
-out trouble neighborhoods "a la Kärcher". Added bonus, Kärcher (with
+out 'trouble' neighborhoods "a la Kärcher". Added bonus, Kärcher (with
 umlaut!) is a German name / brand which made the whole comment sound
 even badder. Boo. Scary German word from Germany. The company must
 have had it by now, can't blame them.
