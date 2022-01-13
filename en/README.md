@@ -182,10 +182,10 @@ months, WHO says"
 ---
 
 Sarkozy started that whole wave didn't he? He used to say he wld clean
-out trouble immigrant neighborhoods "a la Kärcher". Added bonus,
-Kärcher (with umlaut!)  is a German name / brand which made the whole
-comment sound even badder. Boo. Scary German word from Germany. The
-company must have had it by now, I can't blame them.
+out immigrant neighborhoods "a la Kärcher". Added bonus, Kärcher (with
+umlaut!)  is a German name / brand which made the whole comment sound
+even badder. Boo. Scary German word from Germany. The company must
+have had it by now, I can't blame them.
 
 "One of the world's leading makers of pressure washers and steam
 cleaners [Karcher] has formally asked French politicians not to use
@@ -201,8 +201,7 @@ the reconstitution of the UK's airborne maritime patrol capability"
 ---
 
 Jane's Defense: "Australia will buy more than 100 tanks and armoured
-vehicles from the US for $3.5 billion, defence minister Peter Dutton
-says."
+vehicles from the US for $3.5 billion, [says] defence minister."
 
 ---
 
