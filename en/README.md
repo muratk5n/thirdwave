@@ -223,13 +223,6 @@ Mengele, and be done with it?
 
 ---
 
-China still continues with zero-covid.. Bcz their vax is not too
-effective against the new strain? But zero-covid is not a long-term
-strategy. Trying to gain time while improving the vax?  Enough
-questions?
-
----
-
 "Quebec seeks to tax unvaccinated as health system struggles with Omicron"
 
 ---
