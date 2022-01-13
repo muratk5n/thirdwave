@@ -45,12 +45,12 @@ The 950 MW Phase Four is the largest investment project in the world
 
 ---
 
-Chemical, as in the kind used by those disposable hand warmers. DHWs
-contain iron powder, salt powder, enclosed in a plastic wrap. When the
-contents are removed all comes into contact with air / oxygen, iron
-oxide is formed which is an heat-emitting "exothermic" reaction. User
-gets heat in the process, the perfect hand warmer. No electricity, no
-flame, just basic chemistry.
+Chemical, as in the chemistry used by those disposable hand
+warmers. DHWs contain iron powder, salt powder, enclosed in a plastic
+wrap. When the contents are removed all comes into contact with air /
+oxygen, iron oxide is formed which is an heat-emitting "exothermic"
+reaction. User gets heat in the process, the perfect hand warmer. No
+electricity, no flame, just basic chemistry.
 
 ---
 
