@@ -147,9 +147,9 @@ ignited it"
 
 ---
 
-Nature: "Build a registry of results that students can replicate.. To
-speed research, express conclusions as testable statements, and
-incorporate testing into training"
+Nature: "[To scientists] Build a registry of results that students can
+replicate.. To speed research, express conclusions as testable
+statements, and incorporate testing into training"
 
 [[-]](https://www.nature.com/articles/d41586-021-03707-9)
 
