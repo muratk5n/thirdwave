@@ -252,21 +252,22 @@ raising the risk of contagion across financial markets"
 ---
 
 Why is Bitcoin price falling when there is inflation? Aren't they
-supposed to be a safe heaven, a hedge against "money being debased"?
-Looks like BTC is merely another risky asset just like most of those
-overvalued tech stocks. And as risky assets go down so does Bitcoin
-right along with them.
+supposed to be a "safe heaven asset", a hedge against "money being
+debased"?  Looks like BTC is merely another risky asset just like most
+of those overvalued tech stocks, or, hell, the stock market
+itself. And as risky assets go down so does Bitcoin right along with
+them.
 
 ---
 
-*Run and Gun*, not bad. Rich Kind is hilarious as ever. 
+*Run and Gun*, was ok.. Rich Kind is hilarious as ever. 
 
 ---
 
 *Call of Duty* mission *Behind Enemy Lines* has a scenic
 backdrop.. Saw someone else's play, not a big dumb non-stop action,
 lots of moving around silently, gives gamer more time to explore the
-environment. Decade old but still good.
+environment. Decade old game but still good.
 
 ---
 
