@@ -43,7 +43,7 @@ in the world [in its class]"
 
 ---
 
-Chemical, as in the kind used by those disposable hand warmer. DHWs
+Chemical, as in the kind used by those disposable hand warmers. DHWs
 contain iron powder, salt powder, enclosed in a plastic wrap. When the
 contents are removed all comes into contact with air / oxygen, iron
 oxide is formed thanks to that oxygen which is an heat-emitting
