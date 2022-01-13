@@ -213,13 +213,13 @@ he is not reinstated as a Labour MP"
 
 ---
 
-Similar to involuntery manslaughter, on a wide scale.. People get
-punished for involuntery manslaughter. Driver hits pedestrian while
+Similar to involuntary manslaughter, on a wide scale.. People get
+punished for involuntary manslaughter. Driver hits pedestrian while
 drunk can get punishment.
 
 ---
 
-I wonder how much trouble an official acceptance of a covid lab-leak
+Curious how much trouble an official acceptance of a covid lab-leak
 conclusion can cause. US could be liable for some stuff.. It's like
 you killed over 5 million people, akin to dropping a tactical nuke on
 a city. Is it enough to throw Fauci under the bus as some kind of
@@ -233,10 +233,9 @@ modern day Mengele, and be done with it?
 
 ---
 
-Why does China still continue with zero-covid? Their vax is probably
-not too effective against the new strain. But zero-covid is not a
-long-term strategy. Trying to gain time while improving the vax?
-Enough questions?
+Why does China still continue with zero-covid? Bcz their vax is
+probably not too effective against the new strain? But zero-covid is
+not a long-term strategy. Trying to gain time while improving the vax?
 
 ---
 
