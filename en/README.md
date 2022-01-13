@@ -206,8 +206,6 @@ says."
 
 ---
 
-I hope he goes for it with the new party. 
-
 "Jeremy Corbyn considers launching new party to rival Keir Starmer if
 he is not reinstated as a Labour MP"
 
