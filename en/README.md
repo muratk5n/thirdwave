@@ -193,14 +193,14 @@ its name to score political points"
 
 ---
 
-Jane's Defense: "The United Kingdom has received its ninth and final
+Jane's Defence: "The United Kingdom has received its ninth and final
 Boeing P-8A Poseidon MRA1 maritime multimission aircraft
 (MMA)... Delivery of all nine Poseidon MRA1s is a major milestone in
 the reconstitution of the UK's airborne maritime patrol capability"
 
 ---
 
-Jane's Defense: "Australia will buy more than 100 tanks and armoured
+Jane's Defence: "Australia will buy more than 100 tanks and armoured
 vehicles from the US for $3.5 billion, [says] defence minister."
 
 ---
