@@ -185,7 +185,7 @@ Sarkozy started that whole wave didn't he? He used to say he wld clean
 out immigrant neighborhoods "a la Kärcher". Added bonus, Kärcher (with
 umlaut!)  is a German name / brand which made the whole comment sound
 even badder. Boo. Scary German word from Germany. The company must
-have had it by now, I can't blame them.
+have had it by now, can't blame them.
 
 "One of the world's leading makers of pressure washers and steam
 cleaners [Karcher] has formally asked French politicians not to use
