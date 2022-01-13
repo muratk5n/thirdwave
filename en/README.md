@@ -206,7 +206,7 @@ says."
 
 ---
 
-I hope he goes for it
+I hope he goes for it with the new party. 
 
 "Jeremy Corbyn considers launching new party to rival Keir Starmer if
 he is not reinstated as a Labour MP"
@@ -215,7 +215,7 @@ he is not reinstated as a Labour MP"
 
 Similar to involuntary manslaughter, on a wide scale.. People get
 punished for involuntary manslaughter. Driver hits pedestrian while
-drunk can get punishment.
+drunk can get serious punishment.
 
 ---
 
