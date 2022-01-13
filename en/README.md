@@ -124,6 +124,9 @@ print ('%0.1f perc for heating' % (heat_w / per_person * 100.0))
 35.7 percent for heating
 ```
 
+That is the percentage of energy needed for heating assuming a person
+needs 10 kilowatts of energy.
+
 ---
 
 EIA: "On average, more than half (51% in 2015) of a [US] household’s
