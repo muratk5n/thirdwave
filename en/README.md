@@ -153,13 +153,6 @@ statements, and incorporate testing into training"
 
 ---
 
-Marm is veg based too but ok, interesting
-
-"Brussel sprouts are the Marmite of the vegetable world, with a
-serious love or loathe divide"
-
----
-
 Sarkozy started that whole biz. He used to say he wld clean out
 'trouble' neighborhoods "a la Kärcher". Added bonus, Kärcher (with
 umlaut!) is a German name / brand which made the whole comment sound
