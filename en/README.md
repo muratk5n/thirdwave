@@ -263,9 +263,9 @@ right along with them.
 
 ---
 
-*Call of Duty* mission *Behind Enemy Lines* has nice backdrop.. Saw
-someone else's play, not a big dumb non-stop action, lots of moving
-around silently, gives gamer more time to enjoy the
+*Call of Duty* mission *Behind Enemy Lines* has a scenic
+backdrop.. Saw someone else's play, not a big dumb non-stop action,
+lots of moving around silently, gives gamer more time to explore the
 environment. Decade old but still good.
 
 ---
