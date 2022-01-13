@@ -209,8 +209,7 @@ months, WHO says"
 ---
 
 Similar to involuntary manslaughter, on a wide scale.. People get
-punished for involuntary manslaughter. Driver hits pedestrian while
-drunk can get serious punishment.
+punished for involuntary manslaughter. 
 
 ---
 
