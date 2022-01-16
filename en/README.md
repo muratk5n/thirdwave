@@ -163,7 +163,7 @@ Pythran! Weird...
 ---
 
 UK - any other scandal cld be deflected from elites-vs-people angle,
-that oppo is ganging up on PM, but partying whlie others in lockdown
+that oppo is ganging up on PM, but partying while others in lockdown
 paints PM as elite.
 
 ---
