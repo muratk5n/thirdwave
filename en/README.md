@@ -139,6 +139,8 @@ Out[1]: -29.0
 
 ---
 
+Biden net approv
+
 ```python
 import util
 df = util.biden_approval()
