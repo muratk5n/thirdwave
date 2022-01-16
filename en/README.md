@@ -230,10 +230,10 @@ Flexitones - Joyrider \#music
 The missile is jointly developed by RU and IN, which is a China
 rival.
 
-Inquirer.net: "Philippines — The government has awarded a $374-million
-(P19 billion) contract to India to equip the Philippine Navy with the
-world’s fastest supersonic cruise missiles [a joint prod between India
-and Russia]...
+Inquirer.net: "The government has awarded a $374-million (P19 billion)
+contract to India to equip the Philippine Navy with the world’s
+fastest supersonic cruise missiles [a joint prod between India and
+Russia]...
 
 It has a maximum range of more than 400 kilometers and a velocity of
 Mach 2.8 (about thrice the speed of sound), which is currently the
