@@ -47,7 +47,7 @@ H2 Fuel News: "Britain’s gas grid will be ready to deliver a blend of
 ---
 
 India has good sunshine capacity as well, I mentioned the neighboring
-China more but the difference between them and India is about 30 Watts
+China more but the difference between them is about 30 Watts
 per square meter. See [map](https://pbs.twimg.com/media/FCtre5sWEAgFFp9?format=png&name=small)
 
 ---
