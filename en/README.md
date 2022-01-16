@@ -175,9 +175,11 @@ appears to have detected the pressure wave from the #Tonga volcano"
 
 ---
 
-Politico: "The effort to draft [.. another Dem] went into overdrive
-after the Arizona senator [Sinema] closed the door on weakening the
-filibuster"
+Politico: "The effort to draft [.. another Dem Gallego] went into
+overdrive after the Arizona senator [Sinema] closed the door on
+weakening the filibuster.. Gallego has been floated as a potential
+Sinema primary challenger, especially as she enrages progressives with
+her reluctance to change Senate rules or eliminate the filibuster"
 
 ---
 
