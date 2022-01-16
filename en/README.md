@@ -110,7 +110,7 @@ True AI research should follow the same path.
 
 ---
 
-"The End of Theory".. :) Right..
+"The End of Theory".. Right..
 
 The best response, in the same tweet; "[I am] going to linear regress
 my way to the Schrodinger equation".
