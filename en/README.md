@@ -158,10 +158,6 @@ The brief uptick end December did not take, net approv is down to -9.
 
 ---
 
-Pythran! Weird...
-
----
-
 UK - any other scandal cld be deflected from elites-vs-people angle,
 that oppo is ganging up on PM, but partying while others in lockdown
 paints PM as elite.
