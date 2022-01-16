@@ -121,8 +121,8 @@ my way to the Schrodinger equation".
 
 [face palm]
 
-Geoffrey Hinton, the ‘Godfather of AI [as in neural nets]’: “My view
-is: throw it all away and start again.”
+Geoffrey Hinton, the ‘Godfather of AI [just neural nets actually]’:
+“My view is: throw it all away and start again.”
 
 ---
 
