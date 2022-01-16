@@ -214,8 +214,8 @@ of that natural selection, we still have to do it"
 ---
 
 How does Vodoo Christianity work? Maybe they get a Jesus doll on a
-cross and their priest just pokes it with a needle, yells out "Praise
-the Looorrd!". Who knows
+cross and their priest just keeps poking it with a needle, yells
+out "Praise the Looorrd!". Who knows
 
 ---
 
