@@ -142,10 +142,17 @@ Out[1]: -29.0
 ```python
 import util
 df = util.biden_approval()
-df.net.plot()
+df.net.tail(3)
 ```
 
-<img width="300" src="https://pbs.twimg.com/media/FJEjrKuXEAUyIWN?format=png&name=small"/>
+```text
+Out[1]: 
+modeldate
+2022-01-12   -9.386761
+2022-01-13   -8.987486
+2022-01-14   -9.286635
+Name: net, dtype: float64
+```
 
 The brief uptick end December did not take, net approv is down to -9.
 
