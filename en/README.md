@@ -126,6 +126,10 @@ Geoffrey Hinton, the ‘Godfather of AI [just neural nets actually]’:
 
 ---
 
+[Code](tweets/2022/util.py)
+
+---
+
 Trump has seen worse, Gallup minimum,
 
 ```python
