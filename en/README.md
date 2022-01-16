@@ -215,6 +215,12 @@ of that natural selection, we still have to do it"
 
 ---
 
+How does Vodoo Christianity work? Maybe they get a Jesus doll on a
+cross and their priest just pokes it with a needle, yells out "Praise
+the Looorrd!". Who knows
+
+---
+
 Flexitones - Joyrider \#music
 
 [[-]](https://youtu.be/CsJwPlS10P8)
@@ -248,12 +254,6 @@ countries [says p]upils have found working at their own pace, and
 without the social pressures of the classroom, beneficial"
 
 [[-]](https://theconversation.com/lockdown-schooling-research-from-across-the-world-shows-reasons-to-be-hopeful-174714)
-
----
-
-How does Vodoo Christianity work? Maybe they get a Jesus doll on a
-cross and their priest just pokes it with a needle, yells out "Praise
-the Looorrd!". Who knows
 
 ---
 
