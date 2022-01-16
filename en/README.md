@@ -92,14 +92,14 @@ regions, from high to low'. Declerative, broad statement... works
 brilliantly. Later when we compute the FD formula we cut its field
 into little regions, and either average over them (one method), or
 look at the edge points (another method). IOW we work with things we
-can measure, and relate them, discretize later. Nature doesn't give a
-shit about pressure. It can send off one trillion particles one way,
-another trillion another way, the ones that hit a surface are what we
-see as pressure, the ones that jiggle too much are what we see as
-heat, Nature could not care less.
+can measure, and relate them, discretize later.
 
-We cannot compete with Nature at that level... If we tried we'd have
-to create a computer as big as Nature. So we need to use our math to
+Nature doesn't give a shit about pressure. It can send off one
+trillion particles one way, another trillion another way, the ones
+that hit a surface are what we see as pressure, the ones that jiggle
+too much are what we see as heat, Nature could not care less. We
+cannot compete with Nature at that level... If we tried we'd have to
+create a computer as big as Nature. So we need to use our math to
 generalize, inventing relations, methods to represent better relations
 (called math) between attributes we measure.
 
