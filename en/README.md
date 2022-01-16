@@ -39,7 +39,7 @@ H2 Fuel News: "Thyssenkrupp achieves hydrogen production backlog of
 ---
 
 That would be a 20% reduction in emissions, right away. Slam dunk. Too
-bad UK gov is in a funk, stuff is being done..
+bad UK gov is in a funk, things are happening..
 
 H2 Fuel News: "Britain’s gas grid will be ready to deliver a blend of
 20% hydrogen to homes across the country next year (2023)"
