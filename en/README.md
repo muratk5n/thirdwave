@@ -129,7 +129,6 @@ Geoffrey Hinton, the ‘Godfather of AI [just neural nets actually]’:
 Trump has seen worse, Gallup minimum,
 
 ```python
-import util
 util.trump_approval().net.min()
 ```
 
