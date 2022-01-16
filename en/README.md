@@ -101,7 +101,7 @@ too much are what we see as heat, Nature could not care less. We
 cannot compete with Nature at that level... If we tried we'd have to
 create a computer as big as Nature. So we need to use our math to
 generalize, inventing relations, methods to represent better relations
-(called math) between attributes we measure.
+between attributes we measure.
 
 ---
 
