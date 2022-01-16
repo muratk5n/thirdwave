@@ -38,7 +38,7 @@ H2 Fuel News: "Thyssenkrupp achieves hydrogen production backlog of
 
 ---
 
-They would be a 20% reduction in emissions that way, right away. Too
+That would be a 20% reduction in emissions, right away. Slam dunk. Too
 bad UK gov is in a funk, stuff is being done..
 
 H2 Fuel News: "Britain’s gas grid will be ready to deliver a blend of
