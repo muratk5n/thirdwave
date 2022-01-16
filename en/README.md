@@ -2,254 +2,267 @@
 
 ---
 
-H2 View: "UAE, UK to explore clean hydrogen opportunities through new
-partnership"
+H2 View: "Chile continues to be regarded as the next hotspot for
+hydrogen production and with this, Copenhagen Infrastructure Partners
+(CIP) has partnered with AustriaEnergy and Oekowind on a 1.7GW
+hydrogen project. Situated in Southern Chile’s Magallanes region, the
+1.7GW HNH Project will aim to generate green hydrogen using onshore
+wind that will be utilised for exports around the world. With an
+investment size of $3bn, once the plant is operational green hydrogen
+and ammonia will both be exported in large quantities around the world
+thanks to the high potential of wind energy in the region"
 
 ---
 
-H2 View: "Aberdeen Investee, AES-100 Inc., Reports Technical Viability
-of Hydrogen Extraction From Natural Gas Pipelines"
+H2 Fuel News: "Cummins and Sinopec to install 1GW hydrogen
+electrolyzer facility in China"
 
 ---
 
-H2 View: "myFC to develop hydrogen fuel cell systems for bicycle"
+H2 View: "Proton Motor, Torqeedo to cut maritime emissions with new
+hybrid propulsion system.. A new hydrogen hybrid propulsion system
+building kit is being developed for the maritime industry to deliver
+fuel cell powers between 30kW-120kW, as well as variable hydrogen
+storage capacity"
 
 ---
 
-H2 View: "Carbon emissions reduction technologies company Haldor
-Topsoe.. inked a €45m loan agreement to research hydrogen
-technologies. An agreement signed with the European Investment Bank,
-the loan will allow the company to focus on the production of green
-chemicals and renewable fuels, such as green hydrogen, green ammonia
-and biofuels"
+H2 View: "Australia is set to export green hydrogen to the Republic of
+Palau, an archipelago of Pacific islands, to supply and implement
+hydrogen for fuel cells within vessels in the region."
 
 ---
 
-H2 View: "Germany to significantly boost renewable energy technologies
-with hydrogen set to be central to decarbonisation"
+H2 Fuel News: "Thyssenkrupp achieves hydrogen production backlog of
+€900m as it unveils branch renaming to support its expansion"
 
 ---
 
-"Saudi-based Acwa Power.. has announced plans to begin the first phase
-of Noor Energy 1 [CSP] project, located in Dubai with a total capacity
-of 217 MW...
+They would be a 20% reduction in emissions that way, right away. Too
+bad UK gov is in a funk, stuff is being done..
 
-The 950 MW Phase Four is the largest investment project in the world
-[in its class]"
-
----
-
-"1.3GW CSP Projects Planned to Start in 2022 [in China]"
-
-[[-]](http://www.cspfocus.cn/en/market/detail_5026.htm)
+H2 Fuel News: "Britain’s gas grid will be ready to deliver a blend of
+20% hydrogen to homes across the country next year (2023)"
 
 ---
 
-Chemical, as in the chemistry used by those disposable hand
-warmers. DHWs contain iron powder, salt powder, enclosed in a plastic
-wrap. When the contents are removed all comes into contact with air /
-oxygen, iron oxide is formed which is an heat-emitting "exothermic"
-reaction. User gets heat in the process, the perfect hand warmer. No
-electricity, no flame, just basic chemistry.
+India has good sunshine capacity as well, I mentioned the neighboring
+China more but the difference between them and India is about 30 Watts
+per square meter. See [map](https://pbs.twimg.com/media/FCtre5sWEAgFFp9?format=png&name=small)
 
 ---
 
-If more ppl came up with chemically activated H2 or ammonia based
-heater solutions, it would be helpful, potentially game-changer
-even. Something like [this](https://www.design-industry.com.au/lavo-hydrogen-bbq)
-tech from Lavo.
+"[Ambani] said Reliance will pursue the target of bringing down the
+cost of making green hydrogen to under USD 2 per kg initially and
+ultimately to bring it down to under USD 1 per kg in a decade"
 
 ---
 
-CO2 from fossil stays in the atmo for very long time.. When an uptick
-in the graph falls, doesnt mean CO2 produced at the high disappears.
+100 GIGAWATTS
+
+$81 BILLION
+
+Al Jazeera: "Fossil-fuel billionaire .. Mukesh Ambani’s Reliance
+Industries said it plans to invest 76bn dollars in clean energy
+projects, a dramatic increase over its previous commitment of 10bn...
+
+Reliance Industries Ltd.. has signed pacts with the state government
+of Gujarat for a total investment of 5.96 trillion rupees ($81
+billion), according to an exchange filing Thursday. Of this, about 5
+trillion rupees would be used over the next 15 years to build 100
+gigawatts of renewable power projects and a green hydrogen network"
 
 ---
 
-Let's zoom in,
+Those are not real particles, they are 'pockets' in the fluid that are
+followed around. The act of following somewhat resembles following
+around a particle, that's where the P comes from... But look
+carefully, there is the Navier-Stokes formula lurking in there, which
+uses concepts such as pressure, viscosity, heat, concocted at a macro
+level, not micro. Without the formula, there is no SPH.
+
+"I saw a method called SPH, smoothed particle hydrodynamics, for
+fluids. It says 'particles' right there!"
+
+---
+
+There is a term in FD formulas that says 'if there is a pressure
+difference between two regions there will be a force between those
+regions, from high to low'. Declerative, broad statement... works
+brilliantly. Later when we compute the FD formula we cut its field
+into little regions, and either average over them (one method), or
+look at the edge points (another method). IOW we work with things we
+can measure, and relate them.  Nature doesn't give a shit about
+pressure. It can send off one trillion particles one way, another
+trillion another way, the ones that hit a surface are what we see as
+pressure, the ones that jiggle too much are what we see as heat,
+Nature could not care less.
+
+We cannot compete with Nature at that level... If we tried we'd have
+to create a computer as big as Nature. So we need to use our math to
+generalize, inventing relations, methods to represent better relations
+(called math) between attributes we measure.
+
+---
+
+We use mathematics to compute fluids dynamics (FD), not particles.
+True AI research should follow the same path.
+
+---
+
+"The End of Theory".. :) Right..
+
+The best response, in the same tweet; "[I am] going to linear regress
+my way to the Schrodinger equation".
+
+[[-]](https://twitter.com/fisherastro/status/1472071422180831242)
+
+---
+
+[face palm]
+
+Geoffrey Hinton, the ‘Godfather of AI [as in neural nets]’: “My view
+is: throw it all away and start again.”
+
+---
+
+Trump has seen worse, Gallup minimum,
 
 ```python
-df['twh'].tail(40).plot()
-```
-
-<img width="340" src="https://pbs.twimg.com/media/FIzqj7lX0AIAS4t?format=png&name=small"/>
-
-Right there.. Peak on July, peak on January, peak on July, peak on
-January..  On and on it goes..
-
-Winter spikes are worse. This is US, in the other parts of the world,
-fossil burning wld be more extreme. Wood, coal, cow dung..
-
----
-
-US fossil fuel consumption, in terrawatt hours, 
-
-```python
-import pandas as pd, requests
-from datetime import date
-
-api_key = open('.eiakey').read()
-url = 'http://api.eia.gov/series/?api_key=' + api_key + '&series_id=TOTAL.FFTCBUS.M' 
-r = requests.get(url)
-json_data = r.json()
-df = pd.DataFrame(json_data.get('series')[0].get('data'))
-df['Year'] = df[0].astype(str).str[:4]
-df['Month'] = df[0].astype(str).str[4:]
-df['Day'] = 1
-df['Date'] = pd.to_datetime(df[['Year','Month','Day']])
-df = df.set_index('Date')
-df = df.sort_index()
-df['twh'] = df[1] * 0.29307 # 1 trillion btu to twh
-df['twh'].plot()
-```
-
-<img width="340" src="https://pbs.twimg.com/media/FIzqh85WYAcYPO5?format=png&name=small"/>
-
----
-
-1KW of heat is required for every 14 cubic meters. 50 m2 for 4 people,
-buildings of 4 meters high,
-
-```python
-per_person = 10000 # watts
-watt_heat_per_m3 = 1/14*1000.
-home_vol = 50*4 
-heat_w = home_vol*watt_heat_per_m3 / 4
-print ('%0.1f watts per person for heating' % heat_w)
-print ('%0.1f perc for heating' % (heat_w / per_person * 100.0))
+import util
+util.trump_approval().net.min()
 ```
 
 ```text
-3571.4 watts per person for heating
-35.7 percent for heating
+Out[1]: -29.0
 ```
 
-That is the percentage of energy needed for heating assuming a person
-needs 10 kilowatts of energy.
+---
+
+```python
+import util
+df = util.biden_approval()
+df.net.plot()
+```
+
+<img width="300" src="https://pbs.twimg.com/media/FJEjrKuXEAUyIWN?format=png&name=small"/>
+
+The brief uptick end December did not take, net approv is down to -9.
 
 ---
 
-EIA: "On average, more than half (51% in 2015) of a [US] household’s
-annual energy consumption is for just two energy end uses: space
-heating and air conditioning"
-
-[[-]](https://www.eia.gov/energyexplained/use-of-energy/homes.php)
+Pythran! Weird...
 
 ---
 
-"A deep chasm in the ground that’s been burning since the 1970s is due
-to finally be extinguished. Known as the ‘Gates of Hell’, the fiery
-sinkhole stretches 230-feet wide and is located in the Karakum Desert
-in Turkmenistan.. Noone really knows how it was created, but one of
-the popular theories is it was created in ’71 when Soviet scientists
-ignited it"
-
-[[-]](https://metro.co.uk/2022/01/10/close-the-gates-of-hell-flaming-chasm-to-be-sealed-up-after-51-years-15894082/?ito=socialmetrouktwitter)
+UK - any other scandal cld be deflected from elites-vs-people angle,
+that oppo is ganging up on PM, but partying whlie others in lockdown
+paints PM as elite.
 
 ---
 
-Nature: "[To scientists] Build a registry of results that students can
-replicate.. To speed research, express conclusions as testable
-statements, and incorporate testing into training"
+"@dougalmackey
 
-[[-]](https://www.nature.com/articles/d41586-021-03707-9)
+Unbelievably, my $100 backyard weather station in Canberra, Australia,
+appears to have detected the pressure wave from the #Tonga volcano"
 
----
-
-Sarkozy started that whole biz. He used to say he wld clean out
-'trouble' neighborhoods "a la Kärcher". Added bonus, Kärcher (with
-umlaut!) is a German name / brand which made the whole comment sound
-even badder. Boo. Scary German word from Germany. The company must
-have had it by now, can't blame them.
-
-"One of the world's leading makers of pressure washers and steam
-cleaners [Karcher] has formally asked French politicians not to use
-its name to score political points"
+<img width="300" src="https://pbs.twimg.com/media/FJIpEvQaQAYkhdQ?format=png&name=small"/>
 
 ---
 
-Jane's Defence: "The United Kingdom has received its ninth and final
-Boeing P-8A Poseidon MRA1 maritime multimission aircraft
-(MMA)... Delivery of all nine Poseidon MRA1s is a major milestone in
-the reconstitution of the UK's airborne maritime patrol capability"
+Politico: "The effort to draft [.. another Dem] went into overdrive
+after the Arizona senator [Sinema] closed the door on weakening the
+filibuster"
 
 ---
 
-Jane's Defence: "Australia will buy more than 100 tanks and armoured
-vehicles from the US for $3.5 billion, [says] defence minister."
+"California judge rules Google’s confidentiality agreements break labor law"
 
 ---
 
-"Jeremy Corbyn considers launching new party to rival Keir Starmer if
-he is not reinstated as a Labour MP"
+"@Nouriel
 
----
-
-Politico: "[A mother from US] I tweeted, 'Does anyone else feel
-enraged at the idea that you’ll be homeschooling in the fall
-full-time? Cuz my moms group text is in full-blown acceptance mode and
-it bugs the shit out of me.' I didn’t know it yet, but this would be
-my first foray into school reopening advocacy..
-
-Members of the parent group I helped lead were consistently attacked
-on Twitter and Facebook by two Oakland moms with ties to the teachers
-union. They labelled advocates’ calls for schools reopening 'white
-supremacy' called us 'Karens,' and even bizarrely claimed we had
-allied ourselves with Marjorie Taylor Greene’s transphobic agenda"
-
----
-
-"More than half of Europeans will be infected by Omicron in next two
-months, WHO says"
-
----
-
-Similar to involuntary manslaughter, on a wide scale.. People get
-punished for involuntary manslaughter. 
-
----
-
-Curious how much trouble an official acceptance of a covid lab-leak
-conclusion can cause. US could be liable for some stuff.. It's like
-you killed over 5 million people, akin to dropping a tactical nuke on
-a city. Is it enough to throw Fauci under the bus as a modern day
-Mengele, and be done with it?
-
----
-
-"The New Fauci Emails Are Even More Damning Than You Think" \#rising \#grim
-
-[[-]](https://youtu.be/sD0i_YxPATc?t=107)
-
----
-
-"Quebec seeks to tax unvaccinated as health system struggles with Omicron"
-
+'Bitcoin Failed in El Salvador. The President Says the Answer Is More
+Bitcoin'. That President is a clown with no clue about money or
+currency issues!"
+ 
 ---
 
 "@Zachary
 
-The IMF says crypto prices are moving more in lockstep with stocks,
-raising the risk of contagion across financial markets"
+The House will hold a Jan. 20 hearing on crypto’s electricity demands,
+as the digital asset industry faces growing scrutiny for its climate
+impacts"
 
 ---
 
-Why is Bitcoin price falling when there is inflation? Aren't they
-supposed to be a "safe heaven asset", a hedge against "money being
-debased"?  Looks like BTC is merely another risky asset just like
-those overvalued tech stocks, or, hell, the stock market itself. And
-as risky assets go down so does Bitcoin right along with them.
+Let's clarify 'running'. Our ancestors [did not jog](2010/04/new-evolution-diet-devany.md#jogging),
+They either walked, or moved in sprints..
+
+Jogging was popularized so Nike could sell shoes, and clueless ppl cld
+claim they were "burning off the fat" created thanks to the producers
+of high-sugar diets. 
+
+"Why run? Our ancestors ran, we are built to run, so we are a product
+of that natural selection, we still have to do it"
 
 ---
 
-*Run and Gun*, not bad.. not bad at all. Rich Kind was hilarious as ever. 
+Flexitones - Joyrider \#music
+
+[[-]](https://youtu.be/CsJwPlS10P8)
 
 ---
 
-*Call of Duty* mission *Behind Enemy Lines* has a scenic
-backdrop.. Saw someone else's play, not a big dumb non-stop action,
-lots of moving around silently, gives gamer more time to explore the
-environment. Decade old game but still good.
+The missile is jointly developed by RU and IN, which is a China
+rival.
+
+Inquirer.net: "Philippines — The government has awarded a $374-million
+(P19 billion) contract to India to equip the Philippine Navy with the
+world’s fastest supersonic cruise missiles [a joint prod between India
+and Russia]...
+
+It has a maximum range of more than 400 kilometers and a velocity of
+Mach 2.8 (about thrice the speed of sound), which is currently the
+world’s fastest cruise missile...
+
+Thailand, Vietnam, Malaysia, Singapore and Indonesia have also taken
+interest in acquiring BrahMos missiles"
+
+---
+
+Learning at own pace is beneficial.. Let's expand it, and put it at
+the center of ed. At the very least, flip the classroom. Better, flip
+the classroom around officially chosen video lectures by DoED.
+
+The Conversation: "A recent report [on remote learning] drawing
+together the results of 81 studies of secondary schools from 38
+countries [says p]upils have found working at their own pace, and
+without the social pressures of the classroom, beneficial"
+
+[[-]](https://theconversation.com/lockdown-schooling-research-from-across-the-world-shows-reasons-to-be-hopeful-174714)
+
+---
+
+How does Vodoo Christianity work? Maybe they get a Jesus doll on a
+cross and their priest just pokes it with a needle, yells out "Praise
+the Looorrd!". Who knows
+
+---
+
+A lot of the analysis with this theme focus on the security chief. In
+authoritarian regimes that guy wld be important right?  Before
+protests SC was a stooge of the previous pres, now it's a new guy,
+loyal to the new pres. The king is dead, long live the king.
+
+---
+
+Clearly somebody won and somebody lost
+
+"@BBCWillVernon
+
+The name of ex-pres Nursultan Nazarbayev has been disappearing from
+public buildings in Kazakhstan"
 
 ---
 
