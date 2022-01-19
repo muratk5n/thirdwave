@@ -35,10 +35,12 @@ of green hydrogen equivalent annually"
 
 ---
 
-That is what it takes to keep nuke waste away...
-
-But what happens if there's an earthquake near the storage site? One
+What happens if there's an earthquake near the storage site? One
 shudders at the thought.
+
+---
+
+That is what it takes to keep nuke waste away...
 
 [[-]](https://youtu.be/kYpiK3W-g_0?t=286)
 
