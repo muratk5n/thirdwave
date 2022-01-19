@@ -124,7 +124,7 @@ Geoffrey Hinton, the ‘Godfather of AI [just neural nets actually]’:
 
 ---
 
-[Code](tweets/2022/util.py)
+[Code](util.py)
 
 ---
 
@@ -204,7 +204,7 @@ impacts"
 
 ---
 
-Let's clarify 'running'. Our ancestors [did not jog](2010/04/new-evolution-diet-devany.md#jogging),
+Let's clarify 'running'. Our ancestors [did not jog](../../2010/04/new-evolution-diet-devany.md#jogging),
 They either walked, or moved in sprints..
 
 Jogging was popularized so Nike could sell shoes, and clueless ppl cld
