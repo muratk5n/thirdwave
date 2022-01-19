@@ -2,10 +2,10 @@
 
 ---
 
-"[DNV, independent risk management org] assess hydrogen pipeline
-possibilities in Hungary.. Hungary is looking to decarbonise its gas
-grid with hydrogen as it strives to achieve climate neutrality by
-2050"
+H2 View: "[DNV, independent risk management org] assess hydrogen
+pipeline possibilities in Hungary.. Hungary is looking to decarbonise
+its gas grid with hydrogen as it strives to achieve climate neutrality
+by 2050"
 
 ---
 
