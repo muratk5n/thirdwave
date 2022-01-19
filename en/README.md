@@ -136,9 +136,9 @@ Denmark, 150 m2. Multiply by 4 meter height, get home volume. Assume a
 cube for volume, so we w/ cube root calc one side, then using sides
 side^2 x 6 gives a complete outside surface area.
 
-Material heat conductivity? Units $W/m \ C$, or $J/s \ m \ C$. We have
-concrete brick 0.84, plasterboard 0.16, wood 0.10. I dont know.. what
-would average material be? Better than mere bricks, but little worse
+Material heat conductivity? Units $W/m \cdot C$, or $J/s \cdot m \cdot C$.
+We have concrete brick 0.84, plasterboard 0.16, wood 0.10. I dont know..
+what would average material be? Better than mere bricks, but little worse
 than wood? Let's take 0.15.
 
 We'll further assume 4.2 people per home (I looked this up), a 2013
