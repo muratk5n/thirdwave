@@ -72,9 +72,9 @@ homes, businesses, and gas distribution infrastructure"
 Asia Minor culture has lots of Greek in it, as well as early Celts,
 Christianity, then Islam. As the discoverer of organized farming the
 region has the longest experience with the structures around it, ie
-lota feudal thinking. But of course, thanks to varied fresh
-ingredients good gastranomy. Migrants arriving into that such as
-"Turks" were assimiliated. Their arrival on the whole meant nothing.
+lota feudalism. But of course, thanks to varied fresh ingredients good
+gastranomy. Migrants arriving into that such as "Turks" were
+assimiliated. Their arrival on the whole pretty mmuch meant nothing.
 
 ---
 
@@ -104,7 +104,7 @@ We all used styrofoam cups right? It's light, cheap ass shit.
 
 ---
 
-We can use the heat conduction formula (Fourier),
+We can use the heat conduction formula due to Fourier,
 
 $$
 P = \frac{dQ}{dT} = \frac{k A (T_2 - T_1)}{d}
@@ -214,8 +214,8 @@ entire episode is written to just shit on that guy.
 
 ---
 
-He wanted a female first officer yes, good... But let's not forget the
-(Trek) universe he created had **no money**. So, no. He was a
+He wanted a female first officer yes. Great... But let's not forget the
+(Trek) universe he created has **no money**. So, no. He was a
 full-blown progressive not a lukewarm tool.
 
 "Gene Roddenberry always wanted to have a female first officer in the
@@ -229,7 +229,7 @@ Tetris - Morning Glory \#music
 
 ---
 
-It's a nice act, a systemic fix is better.
+It's a nice act, but systemic fix is better.
 
 ---
 
