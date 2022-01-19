@@ -91,7 +91,7 @@ People just want a pill for everything. Potassium can serve as muscle
 [relaxant](https://www.goodhousekeeping.com/health/diet-nutrition/g796/sleep-inducing-foods/),
 zuccini, bananas; do fritters for the former, eat that at night
 
-"I want to sleep better, what drug does that?"
+"I want to sleep better, which drug does that?"
 
 ---
 
