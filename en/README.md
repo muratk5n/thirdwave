@@ -241,15 +241,15 @@ tiny homes to homeless veterans"
 
 ---
 
+Jane's Defence: "UK supplies anti-tank weapons to Ukraine"
+
+---
+
 The India-Philippines missile sale is a big deal; first of all, the
 missile was a joint RU/IN product. CH should not count on RU as a
 staunch ally, or anyone in that region for that matter. The missiles,
 with considerable capability, were sold to PH, other nations there
 showed interest. Supersonic missile with 400 km range. No joke.
-
----
-
-Jane's Defense: "UK supplies anti-tank weapons to Ukraine"
 
 ---
 
