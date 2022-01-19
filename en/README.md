@@ -212,7 +212,7 @@ Not saying get rid of money now.. How about single-payer?
 Trek TNG episode S01E26; Crew rescues three humans preserved in cryo
 from 20th century. They wake up, one guy is a fin speculator, he keeps
 wondering about his portfolio Picard nearly decks him. In fact the
-entire episode is written to just shit on that guy.
+entire episode is written just to shit on that guy.
 
 ---
 
