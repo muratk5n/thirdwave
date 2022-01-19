@@ -74,7 +74,7 @@ homes, businesses, and gas distribution infrastructure"
 Asia Minor culture has lots of Greek in it, as well as early Celts,
 Christianity, then Islam. As the discoverer of organized farming the
 region has the longest experience with the structures around it, ie
-lota feudalism. But of course, thanks to varied fresh ingredients good
+feudalism. But of course, thanks to varied fresh ingredients good
 gastranomy. Migrants arriving into that such as "Turks" were
 assimiliated. Their arrival on the whole pretty much meant nothing.
 
