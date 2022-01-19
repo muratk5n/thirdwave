@@ -76,7 +76,7 @@ Christianity, then Islam. As the discoverer of organized farming the
 region has the longest experience with the structures around it, ie
 lota feudalism. But of course, thanks to varied fresh ingredients good
 gastranomy. Migrants arriving into that such as "Turks" were
-assimiliated. Their arrival on the whole pretty mmuch meant nothing.
+assimiliated. Their arrival on the whole pretty much meant nothing.
 
 ---
 
