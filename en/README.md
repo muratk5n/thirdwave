@@ -216,9 +216,9 @@ entire episode is written to just shit on that guy.
 
 ---
 
-He wanted a female first officer yes. Great... But let's not forget the
-(Trek) universe he created has **no money**. So, no. He was a
-full-blown progressive not a lukewarm tool.
+He wanted a female first officer yes. Great... But let's remember the
+(Trek) universe has **no money**. So, no. He was a full-blown
+progressive not a lukewarm tool.
 
 "Gene Roddenberry always wanted to have a female first officer in the
 ship, was he a Dem style shitlib?"
