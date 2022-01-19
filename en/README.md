@@ -261,7 +261,7 @@ Sports ministry"
 ---
 
 But Novax is setting a bad example. Serbia's vaccination rate is below
-50%.. so kinda funny haha, and kinda.. not.
+50%.. so kinda funny haha, and kinda not.
 
 ---
 
