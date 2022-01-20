@@ -29,9 +29,9 @@ higher share than natural gas today"
 
 ---
 
-"Australia’s Fortescue Future Industries (FFI) is set to supply
-high-tech polymer materials supplier Covestro with up to 100,00 tonnes
-of green hydrogen equivalent annually"
+H2 View: "Australia’s Fortescue Future Industries (FFI) is set to
+supply high-tech polymer materials supplier Covestro with up to 100,00
+tonnes of green hydrogen equivalent annually"
 
 ---
 
