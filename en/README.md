@@ -109,7 +109,7 @@ Hey that's pretty good \#escelator
 If 95% of the human population is killed off, only then lithium
 batteries wld be enough for world's energy needs..
 
-Hmmm.. Maybe that was the plan with this virus thing eh? ;)
+Well.. Maybe that was the plan with this virus thing eh? 
 
 ---
 
