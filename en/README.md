@@ -99,7 +99,7 @@ Holywood.. Ventura, Dwayne J, Cena...
 
 ---
 
-American wrestling? Is that sport? :) 
+American wrestling? Is that a sport? :) 
 
 ---
 
