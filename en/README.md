@@ -100,7 +100,7 @@ majority, and the Senate minority.'"
 
 ---
 
-Hey that's pretty good \#escelator
+\#escelator \#uk
 
 [[-]](https://twitter.com/NoContextBrits/status/1483874922715922432)
 
