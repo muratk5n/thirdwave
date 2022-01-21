@@ -162,9 +162,9 @@ in the state for the long haul"
 ---
 
 An anti-corrosive substance was not added to the water, the lead in
-pipes corroded. They switched back to better source of water in
-2015. It was a perfect storm; dirty water, faulty water treatment,
-lead in pipes (which is not uncommon btw).
+pipes corroded. They switched back to better source of water in 2015.
+It was a perfect storm; dirty water, faulty water treatment, lead
+in pipes (which is not uncommon btw).
 
 The main culprit was running out of money, and switching to dirty
 water source.
