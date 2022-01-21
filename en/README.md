@@ -39,8 +39,8 @@ BT - Tripping The Light Fantastic \#music
 When you say "it's fake" they get upset bcz it sounds like u r calling
 all of the physical exertion involed as fake. That's clearly not the
 case. The acts are physical, ppl can get hurt, it just ain't combat,
-or even competitive sparring. It's like shadow boxing, with two
-people.
+or even sparring in a competitive way.. It's like shadow boxing, with
+two people.
 
 ---
 
