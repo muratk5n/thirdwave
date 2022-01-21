@@ -189,11 +189,11 @@ water source.
 
 ---
 
-Why the water woes? Flint MI went broke, had lots of unfunded pension
-costs. They started cutting services, switching to water from the
-usual service to Flint river was one solution. But the river water is
-nasty, ppl developed health problems. The river is actualy is so dirty
-once it [caught fire](https://www.nrdc.org/stories/flint-water-crisis-everything-you-need-know).
+Why the water problems? Flint MI went broke, had lots of unfunded
+pension costs. They started cutting services, switching to water from
+the usual service to Flint river was one solution. But the river water
+is nasty, ppl developed health problems. The river is actualy is so
+dirty once it [caught fire](https://www.nrdc.org/stories/flint-water-crisis-everything-you-need-know).
 
 [[-]](https://youtu.be/NUSiLOwkrIw?t=61)
 
