@@ -235,8 +235,8 @@ It's a nice act, but systemic fix is better.
 
 ---
 
-He once drove a hummer now he doesn't have a condo. I bought him
-a house so he could live
+He used to drive a hummer now he doesn't have a condo. I bought him a
+house so he could live
 
 "Arnold Schwarzenegger celebrated the holiday season by donating 25
 tiny homes to homeless veterans"
