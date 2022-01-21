@@ -66,8 +66,8 @@ sport (first being golf).
 
 ---
 
-Such colorful speeches though.. I've seen some in the Senate. I'd be
-impressed if the speechmakers weren't so full of shit.
+Such colorful speeches though.. I'd be impressed if the speechmakers
+weren't so full of shit.
 
 ---
 
