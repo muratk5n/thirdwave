@@ -11,7 +11,7 @@ Oz state WA is still on zero covid strategy? Tough task w Omicron.
 
 ---
 
-No Bitcoin fund for Buttafuoco.
+No Bitcoin fund for Buttafuoco
 
 ---
 
