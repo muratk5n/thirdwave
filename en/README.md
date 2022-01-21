@@ -205,7 +205,7 @@ software that knows how to do extremely specific tasks very well"
 Yeaa there was no danger of that.. Reps were toast, thanks to W's
 dismal approval.
 
-"But the invasion could be a gamble in the case of a McCain Presidency"
+"But the invasion could have been a gamble in the case of a McCain Presidency"
 
 ---
 
