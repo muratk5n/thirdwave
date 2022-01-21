@@ -1,23 +1,5 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-Yeaa there was no danger of that.. Reps were toast, thanks to W low
-approval ratings.
-
-"But the invasion could be a gamble in the case of a McCain Presidency"
-
----
-
-He didn't really roll the dice for 2008 Georgia invasion; W approval
-was in the shitter, end of term - on the way out. Iraq invasion
-aftermath was looking grim. And on top, financial crisis, recession
-was starting.. In this env W promises NATO membership to Georgia and
-Ukraine and boom! Georgia invasion. Pute got u when u were down,
-calculated a response would not be forthcoming. It worked.
-
-"Putin Loves to Roll the Dice. Ukraine Is His Biggest Gamble Yet."
-
----
-
 Hey cld be heating pipes, they make weird ass sounds. 'mericans are not
 used to such creaky buildings
 
@@ -214,6 +196,24 @@ creating general intelligence anymore. We’ve settled for stupid
 software that knows how to do extremely specific tasks very well"
 
 [[-]](https://towardsdatascience.com/5-reasons-why-i-left-the-ai-industry-2c88ea183cdd)
+
+---
+
+Yeaa there was no danger of that.. Reps were toast, thanks to W low
+approval ratings.
+
+"But the invasion could be a gamble in the case of a McCain Presidency"
+
+---
+
+He didn't really roll the dice for 2008 Georgia invasion; W approval
+was in the shitter, end of term - on the way out. Iraq invasion
+aftermath was looking grim. And on top, financial crisis, recession
+was starting.. In this env W promises NATO membership to Georgia and
+Ukraine and boom! Georgia invasion. Pute got u when u were down,
+calculated a response would not be forthcoming. It worked.
+
+"Putin Loves to Roll the Dice. Ukraine Is His Biggest Gamble Yet."
 
 ---
 
