@@ -1,5 +1,54 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
+
+The Novax incident happened while Australia was (is) trying to open
+up. The curt denial probably helped to look tough on virus while still
+continuing to open - could have been done partly for that
+reason. Novax will be fine.. At that level of fame whether they like
+it or not, they are part of politics.
+
+Plus we are talking about f-ing tennis, it's not it was European
+football. Who cares? My third least favorite sport (first being golf).
+
+---
+
+Such colorful speeches though.. I'd be impressed if the speechmakers
+weren't so full of shit.
+
+---
+
+By its foundation the check on power in US was achieved by having
+*seperate* branches balancing eachother, not requiring supermajority
+*within* each branch. Appeals to history, customs in this regard have
+no basis. SCOTUS works on simple majority. Congress passes laws same
+way. President is the singular decision maker within his branch (not
+even a minority there). The founders could surely arrange some stuff
+to require supermajorities within each branch if they thought that was
+important.
+
+---
+
+Simple majority should matter. It already does for pres elections for
+instance. An handful more votes in a single key state can make one
+President.
+
+If it's good for one branch of gov, why not for another?
+
+---
+
+Vox: "The filibuster has been around, in some version or another, since
+the mid-1800s. But it's never been used as constantly as it is today...
+
+<img width="340" src="https://pbs.twimg.com/media/FJiQWzxX0AA5N6A?format=jpg&name=small"/>
+
+'We have added a new veto point in American politics,' Gregory Koger,
+the author of "Filibustering: A Political History of Obstruction in
+the House and Senate," says. 'It used to be the House, the Senate, and
+the President, and now it’s the House, the President, the Senate
+majority, and the Senate minority.'"
+
+---
+
 Hey it could be heating pipes, they make weird ass sounds. 
 
 "Havana Syndrome Unlikely Caused by U.S. Foes, CIA Says"
@@ -52,54 +101,6 @@ Holywood.. Ventura, Dwayne J, Cena...
 ---
 
 American wrestling? Is that sport? :) 
-
----
-
-The Novax incident happened while Australia was (is) trying to open
-up. The curt denial probably helped to look tough on virus while still
-continuing to open - could have been done partly for that
-reason. Novax will be fine.. At that level of fame whether they like
-it or not, they are part of politics.
-
-Plus we are talking about f-ing tennis, it's not it was European
-football. Who cares? My third least favorite sport (first being golf).
-
----
-
-Such colorful speeches though.. I'd be impressed if the speechmakers
-weren't so full of shit.
-
----
-
-By its foundation the check on power in US was achieved by having
-*seperate* branches balancing eachother, not requiring supermajority
-*within* each branch. Appeals to history, customs in this regard have
-no basis. SCOTUS works on simple majority. Congress passes laws same
-way. President is the singular decision maker within his branch (not
-even a minority there). The founders could surely arrange some stuff
-to require supermajorities within each branch if they thought that was
-important.
-
----
-
-Simple majority should matter. It already does for pres elections for
-instance. An handful more votes in a single key state can make one
-President.
-
-If it's good for one branch of gov, why not for another?
-
----
-
-Vox: "The filibuster has been around, in some version or another, since
-the mid-1800s. But it's never been used as constantly as it is today...
-
-<img width="340" src="https://pbs.twimg.com/media/FJiQWzxX0AA5N6A?format=jpg&name=small"/>
-
-'We have added a new veto point in American politics,' Gregory Koger,
-the author of "Filibustering: A Political History of Obstruction in
-the House and Senate," says. 'It used to be the House, the Senate, and
-the President, and now it’s the House, the President, the Senate
-majority, and the Senate minority.'"
 
 ---
 
