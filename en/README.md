@@ -44,13 +44,15 @@ people.
 
 ---
 
-American wrestling? Is that sport? :) I guess it is sport the way
-figure iceskating, gymnastics is a sport.. There is the aesthetics
-part, there is the sports part..
+I guess it is, the way figure iceskating, gymnastics is a
+sport.. There is the aesthetics part, there is the sports part.. It
+just isn't a one-on-one competition of course (the winners are known
+beforehand, no?). No wonder a few of its practitioners made it in
+Holywood.. Ventura, Dwayne J, Cena... 
 
-It just isn't a one-on-one competition of course (the winners are
-known beforehand, no?). No wonder a few of its practitioners made it
-in Holywood.. Ventura, Dwayne J, Cena... 
+---
+
+American wrestling? Is that sport? :) 
 
 ---
 
