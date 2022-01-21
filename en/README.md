@@ -128,9 +128,9 @@ Robert Plant & Alison Krauss - Can't Let Go \#music
 
 ---
 
-J. Oliver on \#unions. Oliver surely has shitlib in his audience, but
-still, I argue a Brit has more in-your-bones appreciation for this
-stuff than a regular American can ever have.
+J. Oliver on \#unions. Oliver surely has some shitlibs in his
+audience, but still, I argue a Brit has more in-your-bones
+appreciation for this stuff than a regular American can ever have.
 
 [[-]](https://youtu.be/Gk8dUXRpoy8)
 
