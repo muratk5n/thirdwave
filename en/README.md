@@ -23,7 +23,7 @@ no basis. SCOTUS works on simple majority. The House passes laws same
 way. President is the singular decision maker within his branch (not
 even a minority there). The founders could surely arrange some stuff
 to require supermajorities within each branch if they thought that was
-important.
+important. But they didn't.
 
 ---
 
