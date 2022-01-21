@@ -1,7 +1,6 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-Hey cld be heating pipes, they make weird ass sounds. 'mericans are not
-used to such creaky buildings
+Hey cld be heating pipes, they make weird ass sounds. 
 
 "Havana Syndrome Unlikely Caused by U.S. Foes, CIA Says"
 
