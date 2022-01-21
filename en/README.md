@@ -143,7 +143,7 @@ Batteries are too heavy, the train would not move (or catch fire and blow up)
 As it stands CA railway project is a disaster, will have eaten up over
 $100 billion, and as of now it hasn't transported a single passenger.
 
-Buying up land in the path of the project apparenlty cost some delays,
+Buying up land in the path of the project apparently cost some delays,
 but overall mismanagement was worse, and the choice of going electric
 is a major part of that / its symptom. It points to a pervasive
 foolishness when it comes to deciding on green tech. Store green fuel
