@@ -19,7 +19,7 @@ weren't so full of shit.
 By its foundation the check on power in US was achieved by having
 *seperate* branches balancing eachother, not requiring supermajority
 *within* each branch. Appeals to history, customs in this regard have
-no basis. SCOTUS works on simple majority. Congress passes laws same
+no basis. SCOTUS works on simple majority. The House passes laws same
 way. President is the singular decision maker within his branch (not
 even a minority there). The founders could surely arrange some stuff
 to require supermajorities within each branch if they thought that was
