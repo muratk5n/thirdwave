@@ -184,8 +184,8 @@ it [caught fire](https://www.nrdc.org/stories/flint-water-crisis-everything-you-
 
 ---
 
-Current talks on Flint, MI are about who needs to get the blame for
-its previous water woes.. There are no more water problems there AFAIK.
+Latest on Flint, MI are about who needs to get the blame for its
+previous water woes.. There are no more water problems there AFAIK.
 
 ---
 
