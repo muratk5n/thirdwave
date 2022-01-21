@@ -214,7 +214,7 @@ was in the shitter, end of term - on the way out. Iraq invasion
 aftermath was looking grim. And on top, financial crisis, recession
 was starting.. In this env W promises NATO membership to Georgia and
 Ukraine and boom! Georgia invasion. Puten scored on when US was down,
-calculated a response would not be forthcoming. It worked.
+calculated a major response would not be forthcoming. It worked.
 
 "Putin Loves to Roll the Dice. Ukraine Is His Biggest Gamble Yet."
 
