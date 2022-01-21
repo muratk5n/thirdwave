@@ -76,8 +76,9 @@ By its foundation the check on power in US was achieved by having
 *within* each branch. Appeals to history, customs in this regard have
 no basis. SCOTUS works on simple majority. Congress passes laws same
 way. President is the singular decision maker within his branch (not
-even a minority there). The founders could surely rig stuff for
-supermajorities within each branch if they thought that was important.
+even a minority there). The founders could surely arrange some stuff
+to require supermajorities within each branch if they thought that was
+important.
 
 ---
 
