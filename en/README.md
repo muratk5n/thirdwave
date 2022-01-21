@@ -177,8 +177,8 @@ water source.
 Why the water problems back in 2011-15? Flint MI went broke, had lots
 of unfunded pension costs. They started cutting services, switching to
 water from Flint river was one solution. But the river water is nasty,
-ppl developed health problems. The river is actualy is so dirty once
-it [caught fire](https://www.nrdc.org/stories/flint-water-crisis-everything-you-need-know).
+ppl developed health problems. The river is actualy is so dirty 
+it once [caught fire](https://www.nrdc.org/stories/flint-water-crisis-everything-you-need-know).
 
 [[-]](https://youtu.be/NUSiLOwkrIw?t=61)
 
