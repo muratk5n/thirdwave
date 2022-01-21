@@ -97,8 +97,8 @@ up. The curt denial probably helped to look tough on virus while still
 continuing to open - could have been done partly for that
 reason. Novax will be fine.. At that level of fame whether they like
 it or not, they are part of politics. Plus we are talking about f-ing
-tennis, it's not it is football. Who cares? My third least favorite
-sport (first being golf).
+tennis, it's not like it is football. Who cares? My third least
+favorite sport (first being golf).
 
 ---
 
