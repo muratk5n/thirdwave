@@ -1,16 +1,5 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-
-The Novax incident happened while Australia was (is) trying to open
-up. The curt denial probably helped to look tough on virus while still
-continuing to open - could have been done partly for that
-reason. Novax will be fine.. At that level of fame whether they like
-it or not, they are part of politics. Plus we are talking about f-ing
-tennis, it's not it is football. Who cares? My third least favorite
-sport (first being golf).
-
----
-
 Such colorful speeches though.. I'd be impressed if the speechmakers
 weren't so full of shit.
 
@@ -100,6 +89,16 @@ Holywood.. Ventura, Dwayne J, Cena...
 ---
 
 American wrestling? Is that a sport? :) 
+
+---
+
+The Novax incident happened while Australia was (is) trying to open
+up. The curt denial probably helped to look tough on virus while still
+continuing to open - could have been done partly for that
+reason. Novax will be fine.. At that level of fame whether they like
+it or not, they are part of politics. Plus we are talking about f-ing
+tennis, it's not it is football. Who cares? My third least favorite
+sport (first being golf).
 
 ---
 
