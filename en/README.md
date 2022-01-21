@@ -83,7 +83,9 @@ supermajorities within each branch if they thought that was important.
 
 Simple majority should matter. It already does for pres elections for
 instance. An handful more votes in a single key state can make one
-President. If it's good for one branch of gov, why not for another?
+President.
+
+If it's good for one branch of gov, why not for another?
 
 ---
 
