@@ -54,15 +54,14 @@ No Bitcoin fund for Buttafuoco
 "@samjsutton
 
 As Bitcoin's energy footprint grows, Democrats are raising climate
-change and grid concerns in their attempts to rein in digital assets
-
+change and grid concerns in their attempts to rein in digital assets..
 Scrutiny from lawmakers is triggering lobbying on behalf of crypto
 miners who are using an escalating amount of computing and electricity
 to extract valuable digital tokens from the blockchain.
 
-"It is time for Congress and federal regulators to step up and address
+'It is time for Congress and federal regulators to step up and address
 the serious risks that crypto poses to our economy and our
-environment," @SenWarren said in a statement to Politico"
+environment,' @SenWarren said in a statement to Politico"
 
 ---
 
