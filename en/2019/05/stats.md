@@ -598,7 +598,8 @@ today = datetime.datetime.now()
 start=datetime.datetime(2000, 1, 1)
 end=datetime.datetime(today.year, today.month, today.day)
 df = data.DataReader(['DGS10', 'GOLDAMGBD228NLBM'], 'fred', start, end)
-print (df.tail(5))
+df = df.interpolate()
+print (df.tail(10))
 ax1 = df.DGS10.plot(color='blue', grid=True, label='10Y')
 ax2 = df.GOLDAMGBD228NLBM.plot(color='red', grid=True, label='GOLD',secondary_y=True)
 h1, l1 = ax1.get_legend_handles_labels()
@@ -610,11 +611,16 @@ plt.savefig('10yrgld.png')
 ```text
             DGS10  GOLDAMGBD228NLBM
 DATE                               
-2022-01-10   1.78           1800.55
-2022-01-11   1.75           1805.20
-2022-01-12   1.74           1816.40
-2022-01-13   1.70           1822.40
-2022-01-14    NaN           1822.25
+2022-01-10  1.780           1800.55
+2022-01-11  1.750           1805.20
+2022-01-12  1.740           1816.40
+2022-01-13  1.700           1822.40
+2022-01-14  1.780           1822.25
+2022-01-17  1.825           1820.05
+2022-01-18  1.870           1810.80
+2022-01-19  1.830           1817.50
+2022-01-20  1.830           1836.70
+2022-01-21  1.830           1834.25
 ```
 
 ![](10yrgld.png)
