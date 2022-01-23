@@ -163,7 +163,7 @@ This weirdness is still making rounds in the media \#science
 
 ---
 
-Chevron lawyer as a federal judge? Somebody clearly did some due diligence 🤨
+Chevron lawyer as a federal judge? Somebody clearly did their due diligence 🤨
 
 ---
 
