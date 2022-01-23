@@ -168,10 +168,6 @@ Chevron lawyer as a federal judge? Somebody clearly did some due diligence 🤨
 
 ---
 
-Interesting, media did not cover the covid angle on Meat Loaf 
-
----
-
 RIP
 
 ---
