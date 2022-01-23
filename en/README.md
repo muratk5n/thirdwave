@@ -202,7 +202,7 @@ higher.
 
 Unarmed non-white people shot by the police. Used WaPo
 [data](https://github.com/washingtonpost/data-police-shootings). 2021
-was the least of the 6 years.
+was the least of the 6 years. Still 20 too many..
 
 [[-]](2019/05/confstats.md#unarmed)
 
