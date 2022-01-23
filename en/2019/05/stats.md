@@ -16,9 +16,7 @@ start=datetime.datetime(1945, 1, 1)
 end=datetime.datetime(today.year, today.month, today.day)
 df = data.DataReader(['GDPC1'], 'fred', start, end)
 df['growann'] = (  (  (1+df.pct_change())**4  )-1.0  )*100.0
-#print (df[pd.DatetimeIndex(df.index).year == 1984]['growann'])
 print (df['growann'].tail(5))
-# look at Q2, 04-01 date
 ```
 
 ```text
@@ -506,10 +504,10 @@ plt.savefig('wilshire.png')
 ```text
             WILL5000IND
 DATE                   
-2022-01-10       229.79
-2022-01-11       232.08
-2022-01-12       232.47
-2022-01-13       229.20
+2022-01-17          NaN
+2022-01-18       224.88
+2022-01-19       222.57
+2022-01-20       219.99
 ```
 
 ![](wilshire.png)
