@@ -169,7 +169,7 @@ Chevron lawyer as a federal judge? Somebody clearly did some due diligence 🤨
 
 ---
 
-Interesting, media did not cover the covid angle on Meat Loaf death.
+Interesting, media did not cover the covid angle on Meat Loaf 
 
 ---
 
@@ -177,7 +177,7 @@ RIP
 
 ---
 
-He would do anything for love but nothing to stay alive.. Bad bad 
+He would do anything for love but nothing to stay alive.. 
 
 NY Post: "Meat Loaf was reportedly anti-vaccine mandate before dying
 from COVID"
