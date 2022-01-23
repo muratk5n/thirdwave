@@ -125,8 +125,8 @@ one, with Nimoy, Malkovich
 ---
 
 *Operation Rainfall* w Ken Jeong, the Boba Fett guy and Jason Isaac
-playing a random alien? Strange movie.. Some great spaceship scenes
-but character development, meh
+playing a random alien.. Strange movie.. Some great spaceship scenes
+but meh character development.
 
 ---
 
@@ -153,9 +153,9 @@ tick.
 
 ---
 
-This stuff can partly be blamed on Silicon Valley 'coders', the
-digital bean counters.. They believe they can fix all by 'knocking out
-some code'.
+Can partly be blamed on Silicon Valley 'coders' who are really digital
+bean counters.. They believe they can fix all by 'knocking out some
+code'.
 
 ---
 
