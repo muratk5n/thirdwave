@@ -1,4 +1,4 @@
-# Yerel Yesil Hidrojen Potansiyeli
+# Yerel Yeşil Hidrojen Potansiyeli
 
 Makale [PDF](https://shura.org.tr/wp-content/uploads/2022/01/rapor_TR-.pdf)
 
