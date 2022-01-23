@@ -34,10 +34,10 @@ Pacific"
 
 ---
 
-Batteries dont work during cold. PV panels dont work if it's too hot.
-Electricity grid for power transmission is 1/10th efficient, with 8
-times the cost compared to gas. However we look at it, the electricity
-based approach is inferior.
+Batteries dont work if it's too cold. PV panels dont work if it's too
+hot.  Electricity grid for power transmission is 1/10th efficient,
+with 8 times the cost compared to gas. However we look at it, the
+electricity based approach is inferior.
 
 "Down here in Southern California, the worst of the heat wave is
 behind us [22/6/2017]... With all that sun, you'd think all of those
