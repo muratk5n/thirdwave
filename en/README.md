@@ -87,7 +87,7 @@ enable 3.4 million tonnes of green hydrogen production nationwide by
 
 ---
 
-Sean Shamrock, actually did something good..
+Sean Shamrock, actually did something good
 
 "In the aftermath of the deadly attack on the US Capitol last year,
 the rightwing Fox News host Sean Hannity pleaded with a top aide to
@@ -115,7 +115,7 @@ engineering mechanics in the latter part of the 18th century is his"
 ---
 
 Uecker is pronounced you-kar, uygur is pronounced you-ger and
-sometimes wee-ger. Odd..
+sometimes wee-ger. Weird
 
 ---
 
