@@ -73,7 +73,7 @@ attention as a potential reactive metal oxide"
 "[TR's] renewable energy potential, supported by policies..  may
 enable 3.4 million tonnes of green hydrogen production nationwide by
 2050.. [2020 reference energy supply is, in TWH] Solar 11.26, Wind
-24.7, Hydro 78.1"
+24.7, Hydro 78.1" (also see [translation](https://shura.org.tr/wp-content/uploads/2022/01/rapor_TR-.pdf))
 
 [[-]](https://shura.org.tr/en/techno-economic-study-of-turkeys-production-and-export-potential-for-green-hydrogen/)
 
