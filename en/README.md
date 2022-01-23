@@ -173,8 +173,7 @@ RIP
 
 He would do anything for love but nothing to stay alive.. 
 
-NY Post: "Meat Loaf was reportedly anti-vaccine mandate before dying
-from COVID"
+"Meat Loaf reportedly 'an anti-vaxxer' before death"
 
 ---
 
