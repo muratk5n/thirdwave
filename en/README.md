@@ -158,7 +158,7 @@ code'.
 
 ---
 
-This weirdness is still making rounds in the media..
+This weirdness is still making rounds in the media \#science
 
 [[-]](https://mobile.twitter.com/docmilanfar/status/1484701362420027394)
 
