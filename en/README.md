@@ -178,10 +178,9 @@ from COVID"
 
 ---
 
-That makes sense gold has no intrinsic value, has no coupons, brings
-no interest. In a potentially rising interest rate environment people
-will sell it. Recently price went down, it will go lower as rates
-rise.
+That makes sense gold has no intrinsic value, brings no interest. In a
+potentially rising interest rate environment people will sell
+it. Recently price went down, it will go lower as rates rise.
 
 RT/Russia is working the anti-dollar angle bcz they dont like the
 dollar hegemony. There isn't enough gold to form the backbone of an
