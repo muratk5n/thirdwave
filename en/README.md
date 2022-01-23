@@ -1,220 +1,219 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-Such colorful speeches though.. I'd be impressed if the speechmakers
-weren't so full of shit.
+
+H2 Fuel News: "California pours $2 billion into renewable hydrogen and
+offshore wind California Governor Gavin Newsom has announced that
+there is 'no one more committed' to supporting clean energy
+production use and storage as massive investments are aimed at
+renewable hydrogen and offshore wind energy"
 
 ---
 
-By its foundation the check on power in US was achieved by having
-*seperate* branches balancing eachother, not requiring supermajority
-*within* each branch. Appeals to history, customs in this regard have
-no basis. SCOTUS works on simple majority. The House passes laws same
-way. President is the singular decision maker within his branch (not
-even a minority there). The founders could surely arrange some stuff
-to require supermajorities within each branch if they thought that was
-important. But they didn't.
+H2 Fuel News: "Oman and BP sign renewable hydrogen partnership on
+mega-gigawatt scale"
 
 ---
 
-Simple majority should matter. It already does for pres elections for
-instance. An handful more votes in a single key state can make one
-President.
-
-If it's good for one branch of gov, why not for another?
+H2 Fuel News: "Ship liquefied hydrogen fuel tank development moves
+forward in South Korea"
 
 ---
 
-Vox: "The filibuster has been around, in some version or another, since
-the mid-1800s. But it's never been used as constantly as it is today...
-
-<img width="340" src="https://pbs.twimg.com/media/FJiQWzxX0AA5N6A?format=jpg&name=small"/>
-
-'We have added a new veto point in American politics,' Gregory Koger,
-the author of "Filibustering: A Political History of Obstruction in
-the House and Senate," says. 'It used to be the House, the Senate, and
-the President, and now it’s the House, the President, the Senate
-majority, and the Senate minority.'"
+H2 View: "Canada, UAE team-up on hydrogen to achieve carbon neutrality"
 
 ---
 
-Hey it could be heating pipes, they make weird ass sounds. 
+Fossil fuel transportation.. a no-no. Clean fuels is the way.
 
-"Havana Syndrome Unlikely Caused by U.S. Foes, CIA Says"
+F24: "[In Peru] beaches [are] tarred by 6,000 barrels of oil that
+spilled from a tanker ship unloading at a refinery last Saturday.
 
----
-
-Oz state WA is still on zero covid strategy? Tough task w Omicron.
-
----
-
-No Bitcoin fund for Buttafuoco
+That accident followed the stunningly powerful eruption of an undersea
+volcano near the nation of Tonga, unleashing tsunami waves around the
+Pacific"
 
 ---
 
-"@samjsutton
+Batteries dont work during cold. PV panels dont work if it's too hot.
+Electricity grid for power transmission is 1/10th efficient, with 8
+times the cost compared to gas. However we look at it, the electricity
+based approach is inferior.
 
-As Bitcoin's energy footprint grows, Democrats are raising climate
-change and grid concerns in their attempts to rein in digital assets..
-Scrutiny from lawmakers is triggering lobbying on behalf of crypto
-miners who are using an escalating amount of computing and electricity
-to extract valuable digital tokens from the blockchain.
+"Down here in Southern California, the worst of the heat wave is
+behind us... With all that sun, you'd think all of those solar panels
+out there would be lapping it up. But it turns out, they don't work
+that well when it gets really hot"
 
-'It is time for Congress and federal regulators to step up and address
-the serious risks that crypto poses to our economy and our
-environment,' @SenWarren said in a statement to Politico"
-
----
-
-BT - Tripping The Light Fantastic \#music
-
-[[-]](https://youtu.be/kIRrxUCvgWo)
+[[-]](https://archive.kpcc.org/programs/take-two/2017/06/22/57530/with-all-this-heat-how-are-solar-panels-faring/)
 
 ---
 
-When you say "it's fake" they get upset bcz it sounds like u r calling
-all of the physical exertion involed as fake. That's clearly not the
-case. The acts are physical, ppl can get hurt, it just ain't combat,
-or even sparring in a competitive way.. It's like shadow boxing, with
-two people.
+Nathan Lewis from Caltech is working on the artificial photosynthesis
+approach, also going to H2 direct.
 
 ---
 
-I guess it is, the way figure iceskating, gymnastics is a
-sport.. There is the aesthetics part, there is the sports part.. It
-just isn't a one-on-one competition of course (the winners are known
-beforehand, no?). No wonder a few of its practitioners made it in
-Holywood.. Ventura, Dwayne J, Cena... 
+The research below is about H2 generation using basic chemistry - mere
+sunlight, water and a catalyst. No electricity needed. More research
+in this direction would be good. Shared [this](https://helioscsp.com/synlight-concentrated-solar-power-to-produce-h2/)
+before.
 
 ---
 
-American wrestling? Is that a sport? :) 
+<img width="200" src="https://pbs.twimg.com/media/FJw2UldXsAEsnFH?format=png&name=small"/>
+
+"Due to the inexhaustible magnitude and usability of solar energy, the
+solar-driven two-step water-splitting thermochemical cycle is
+generally considered a solution for hydrogen production from
+water.. Recently, CeO2 (cerium oxide) had received considerable
+attention as a potential reactive metal oxide"
+
+[[-]](https://www.researchgate.net/publication/355566991_Development_of_Synthesis_and_Fabrication_Process_for_Mn-CeO2_Foam_via_Two-Step_Water-Splitting_Cycle_Hydrogen_Production)
 
 ---
 
-The Novax incident happened while Australia was (is) trying to open
-up. The curt denial probably helped to look tough on virus while still
-continuing to open - could have been done partly for that
-reason. Novax will be fine.. At that level of fame whether they like
-it or not, they are part of politics. Plus we are talking about f-ing
-tennis, it's not like it is football. Who cares? My third least
-favorite sport (first being golf).
+"[TR's] renewable energy potential, supported by policies..  may
+enable 3.4 million tonnes of green hydrogen production nationwide by
+2050.. [2020 reference energy supply is, in TWH] Solar 11.26, Wind
+24.7, Hydro 78.1"
+
+[[PDF]](https://shura.org.tr/en/techno-economic-study-of-turkeys-production-and-export-potential-for-green-hydrogen/)
 
 ---
 
-\#escelator \#uk
+♪♬ It's going down down down down ♪♬ 
 
-[[-]](https://twitter.com/NoContextBrits/status/1483874922715922432)
-
----
-
-If 95% of the human population is killed off, only then lithium
-batteries wld be enough for world's energy needs..
-
-Well.. Maybe that was the plan with this virus thing eh? 
+<img width="340" src="https://pbs.twimg.com/media/FJuLae5XMAM6zIx?format=png&name=small"/>
 
 ---
 
-Bruce Cockburn - States I'm In \#music
+Sean Shamrock, actually did something good..
 
-[[-]](https://youtu.be/jQ3mUOWuu8g)
-
----
-
-Robert Plant & Alison Krauss - Can't Let Go \#music
-
-[[-]](https://youtu.be/U-sPS9y7y5c)
+"In the aftermath of the deadly attack on the US Capitol last year,
+the rightwing Fox News host Sean Hannity pleaded with a top aide to
+Donald Trump that there should be 'no more stolen election talk' and
+'no more crazy people' should be admitted to the president’s orbit"
 
 ---
 
-J. Oliver on \#unions. Oliver surely has some shitlibs in his
-audience, but still, I argue a Brit has more in-your-bones
-appreciation for this stuff than a regular American can ever have.
-
-[[-]](https://youtu.be/Gk8dUXRpoy8)
+Pronounced like 'oiler' not yoooouuu-ler
 
 ---
 
-Batteries are too heavy, the train would not move (or catch fire and blow up)
+Crazy smart guy. Funky hat too.
+
+"@docmilanfar
+
+Euler went blind in 1771 at age 64. He published roughly 1 paper per
+week in 1775.
+
+After he had died in 1783, Euler published 228 papers. 
+
+~1/3 of all published research on mathematics, mathematical physics &
+engineering mechanics in the latter part of the 18th century is his"
 
 ---
 
-As it stands CA railway project is a disaster, will have eaten up over
-$100 billion, and as of now it hasn't transported a single passenger.
-
-Buying up land in the path of the project apparently caused some delays,
-but overall mismanagement was worse, and the choice of going electric
-is a major part of that / its symptom. It points to a pervasive
-foolishness when it comes to deciding on green tech. Store green fuel
-in one car of the train, enough to propel the whole train for an
-entire SF/LA trip. No need for electrified lines, simpler design.
+Uecker is pronounced you-kar, uygur is pronounced you-ger and
+sometimes wee-ger. Odd..
 
 ---
 
-🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 
-
-AP [2021]: "At the center of the latest [CA high-speed rail
-construction] dispute is how soon to electrify the line, which rail
-officials say is a necessity to make the train high speed — the whole
-idea of the project that voters were sold on. They want to enter into
-a contract next year for a firm to design and construct an electrified
-track and system and to maintain it for 30 years, effectively locking
-in the state for the long haul"
+KJ was in some big productions, was in one Transformers movie, the ok
+one, with Nimoy, Malkovich
 
 ---
 
-An anti-corrosive substance was not added to the water, the lead in
-pipes corroded. They switched back to better source of water in 2015.
-It was a perfect storm; dirty water, faulty water treatment, lead
-in pipes (which is not uncommon btw).
-
-The main culprit was running out of money, and switching to dirty
-water source.
+*Operation Rainfall* w Ken Jeong, the Boba Fett guy and Jason Isaac
+playing a random alien? Strange movie.. Some great spaceship scenes
+but character development, meh
 
 ---
 
-Why the water problems back in 2011-15? Flint MI went broke, had lots
-of unfunded pension costs. They started cutting services, switching to
-water from Flint river was one solution. But the river water is nasty,
-ppl developed health problems. The river is actualy is so dirty 
-it once [caught fire](https://www.nrdc.org/stories/flint-water-crisis-everything-you-need-know).
-
-[[-]](https://youtu.be/NUSiLOwkrIw?t=61)
+There is still a narrative of helplessness around Russians.. After
+mobilizing 100k troops on the border some say 'they painted themselves
+into a corner'.. Those poor people...
 
 ---
 
-Latest on Flint, MI are about who needs to get the blame for its
-previous water woes.. There are no more water problems there AFAIK.
+"Germany Bars NATO Ally From Transferring Weapons to Ukraine"
 
 ---
 
-"If you work in AI you are most likely collecting data, cleaning
-data..  evaluating with data. Data, data, data. All for a model to
-say: It’s a cat. The marketing power of AI is such that many companies
-use it without knowing why. Everyone wanted to get on the AI
-bandwagon. I liked the magical world AI promised and I’ve found a
-shadow of what could’ve been [he quit since]. We’re not even aiming at
-creating general intelligence anymore. We’ve settled for stupid
-software that knows how to do extremely specific tasks very well"
-
-[[-]](https://towardsdatascience.com/5-reasons-why-i-left-the-ai-industry-2c88ea183cdd)
-
----
-
-Yeaa there was no danger of that.. Reps were toast, thanks to W's
-dismal approval ratings.
-
-"But the invasion could have been a gamble in case of a McCain Presidency"
+Computation split into two cultures since its inception; one is
+scientific computation (discretizing formulas), the other business
+coding, w databases, "UI". The two cultures gathered around their own
+computer languages, Fortran for sci, Cobol for biz. These are two
+different ways of thinking about computation.. Silicon Valley is full
+of the latter type - the business brogrammers. They pretty much have
+zero understanding of science and how it is conducted. So it behooves
+all tech watchers to pay attention to that difference as the typical
+tech CEO is sci ignorant, bereft of any understanding on what makes it
+tick.
 
 ---
 
-He didn't really roll the dice for 2008 Georgia invasion; W approval
-was in the shitter, end of term - on the way out. Iraq invasion
-aftermath was looking grim. And on top, financial crisis, recession
-was starting.. In this env W promises NATO membership to Georgia and
-Ukraine and boom! Georgia invasion. Puten scored when US was down,
-calculated a major response would not be forthcoming. It worked.
+This stuff can partly be blamed on Silicon Valley 'coders', the
+digital bean counters.. They believe they can fix all by 'knocking out
+some code'.
 
-"Putin Loves to Roll the Dice. Ukraine Is His Biggest Gamble Yet."
+---
+
+This weirdness is still making rounds in the media..
+
+[[-]](https://mobile.twitter.com/docmilanfar/status/1484701362420027394)
+
+---
+
+Chevron lawyer as a federal judge? Somebody clearly did some due diligence 🤨
+
+---
+
+Interesting, media did not cover the covid angle on Meat Loaf death.
+
+---
+
+RIP
+
+---
+
+He would do anything for love but nothing to stay alive.. Bad bad 
+
+NY Post: "Meat Loaf was reportedly anti-vaccine mandate before dying
+from COVID"
+
+---
+
+"Nearly all Covid restrictions to be lifted in Ireland from tomorrow [22/1]"
+
+---
+
+That makes sense gold has no intrinsic value, has no coupons, brings
+no interest. In a potentially rising interest rate environment people
+will sell it. Recently price went down, it will go lower as rates
+rise.
+
+RT/Russia is working the anti-dollar angle bcz they dont like the
+dollar hegemony so they are like 'let's all use gold'. There isn't
+enough gold to form the backbone of an intl system. Let's not goad
+people into stupid investments.
+
+---
+
+RT anchor talks about gold being a hedge against rising
+inflation. There is a reverse relation between the 10-year treasury
+(rates, due to inflation, FED) and gold price. Gold has gone lower
+from its 2020 highs, not higher.
+
+<img width="340" src="https://pbs.twimg.com/media/FJr_EGbXwAQEk3w?format=png&name=small"/>
+
+---
+
+Unarmed non-whites shot by the police, counts.. Used the WaPo
+[data](https://github.com/washingtonpost/data-police-shootings). 2021
+was the least of the 6 years, but it is still 20 too many.. 
+
+[[-]](2019/05/confstats.md#unarmed)
 
 ---
 
