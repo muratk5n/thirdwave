@@ -23,7 +23,7 @@ H2 View: "Canada, UAE team-up on hydrogen to achieve carbon neutrality"
 
 ---
 
-Fossil fuel transportation.. a no-no. Clean fuels is the way.
+Fossil fuel transportation.. a no-no. Clean fuels.
 
 F24: "[In Peru] beaches [are] tarred by 6,000 barrels of oil that
 spilled from a tanker ship unloading at a refinery last Saturday. That
