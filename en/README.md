@@ -26,9 +26,8 @@ H2 View: "Canada, UAE team-up on hydrogen to achieve carbon neutrality"
 Fossil fuel transportation.. a no-no. Clean fuels is the way.
 
 F24: "[In Peru] beaches [are] tarred by 6,000 barrels of oil that
-spilled from a tanker ship unloading at a refinery last Saturday.
-
-That accident followed the stunningly powerful eruption of an undersea
+spilled from a tanker ship unloading at a refinery last Saturday. That
+accident followed the stunningly powerful eruption of an undersea
 volcano near the nation of Tonga, unleashing tsunami waves around the
 Pacific"
 
