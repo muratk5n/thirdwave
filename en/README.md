@@ -48,8 +48,8 @@ that well when it gets really hot"
 
 ---
 
-Nathan Lewis from Caltech is working on the artificial photosynthesis
-approach, also going to H2 direct.
+Nathan Lewis from Caltech is working on artificial photosynthesis, similar to
+prev solution, also going to H2 direct.
 
 ---
 
