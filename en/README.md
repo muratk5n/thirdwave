@@ -184,10 +184,6 @@ from COVID"
 
 ---
 
-"Nearly all Covid restrictions to be lifted in Ireland from tomorrow [22/1]"
-
----
-
 That makes sense gold has no intrinsic value, has no coupons, brings
 no interest. In a potentially rising interest rate environment people
 will sell it. Recently price went down, it will go lower as rates
@@ -205,6 +201,10 @@ inflation. There is a reverse relation between the 10-year treasury
 from its 2020 highs, not higher.
 
 <img width="340" src="https://pbs.twimg.com/media/FJr_EGbXwAQEk3w?format=png&name=small"/>
+
+---
+
+"Nearly all Covid restrictions to be lifted in Ireland from tomorrow [22/1]"
 
 ---
 
