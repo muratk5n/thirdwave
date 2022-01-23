@@ -40,9 +40,9 @@ times the cost compared to gas. However we look at it, the electricity
 based approach is inferior.
 
 "Down here in Southern California, the worst of the heat wave is
-behind us... With all that sun, you'd think all of those solar panels
-out there would be lapping it up. But it turns out, they don't work
-that well when it gets really hot"
+behind us [22/6/2017]... With all that sun, you'd think all of those
+solar panels out there would be lapping it up. But it turns out, they
+don't work that well when it gets really hot"
 
 [[-]](https://archive.kpcc.org/programs/take-two/2017/06/22/57530/with-all-this-heat-how-are-solar-panels-faring/)
 
