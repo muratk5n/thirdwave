@@ -123,6 +123,24 @@ police shootings.
 
 <a name='usgun'/>
 
+<a name='unarmed'/>
+
+### Unarmed Non-Whites Shot By Police
+
+```python
+import pandas as pd
+f = 'https://raw.githubusercontent.com/washingtonpost/data-police-shootings/master/fatal-police-shootings-data.csv'
+df = pd.read_csv(f)
+df1 = df[df.race != 'W']
+df1 = df1[df.armed == 'unarmed']
+df1['year'] = pd.to_datetime(df1['date']).dt.year
+g = df1.groupby('year').size()
+g.plot(kind='bar')
+plt.savefig('unarmed.png')
+```
+
+![](unarmed.png)
+
 ### US Gun Violence
 
 Data came from the [Gun Violence Archive](https://www.gunviolencearchive.org/reports),
