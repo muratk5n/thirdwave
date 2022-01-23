@@ -110,17 +110,6 @@ worldwide deployments, by all countries.
 
 [Output](conflict-milmob.html)
 
-<a name='gdeltblm'/>
-
-### GDELT, BLM
-
-Scanning events of the the last month looking for black deaths due to 
-police shootings.
-
-[Script](2019/05/blm.py)
-
-[Output](blm-out.html)
-
 <a name='unarmed'/>
 
 ### Unarmed Non-Whites Shot By Police

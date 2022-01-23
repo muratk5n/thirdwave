@@ -8,7 +8,7 @@
 
 [Fires](natdisaster.md#fires)
 
-[Black People Shot by Police](confstats.md#gdeltblm)
+[Unarmed Non-Whites Shot By the Police](confstats.md#unarmed)
 
 [US Navy Location](usmil.md#navy)
 
