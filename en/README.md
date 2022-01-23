@@ -131,8 +131,8 @@ but character development, meh
 ---
 
 There is still a narrative of helplessness around Russians.. After
-mobilizing 100k troops on the border some say 'they painted themselves
-into a corner'.. Those poor people...
+they mobilized 100k troops on the border some say 'they painted
+themselves into a corner'.. 'Those poor people'...
 
 ---
 
