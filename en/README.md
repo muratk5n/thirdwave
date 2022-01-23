@@ -152,9 +152,9 @@ tick.
 
 ---
 
-Can partly be blamed on Silicon Valley 'coders' who are really digital
-bean counters.. They believe they can fix all by 'knocking out some
-code'.
+Can partly be blamed on the mindshare influenced by Silicon Valley
+'coders' who are really digital bean counters.. They believe they can
+fix all by 'knocking out some code'.
 
 ---
 
