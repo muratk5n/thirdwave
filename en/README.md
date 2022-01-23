@@ -154,7 +154,7 @@ tick.
 
 Can partly be blamed on the mindshare influenced by Silicon Valley
 'coders' who are really digital bean counters.. They believe they can
-fix all by 'knocking out some code'.
+fix all by 'knocking out some code', or now a "neural net".
 
 ---
 
