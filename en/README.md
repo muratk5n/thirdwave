@@ -55,8 +55,8 @@ approach, also going to H2 direct.
 
 The research below is about H2 generation using basic chemistry - mere
 sunlight, water and a catalyst. No electricity needed. More research
-in this direction would be good. Shared [this](https://helioscsp.com/synlight-concentrated-solar-power-to-produce-h2/)
-before.
+in this direction would be good. Shared [another post](https://helioscsp.com/synlight-concentrated-solar-power-to-produce-h2/)
+in the same vicinity before.
 
 ---
 
