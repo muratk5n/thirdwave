@@ -194,9 +194,8 @@ will sell it. Recently price went down, it will go lower as rates
 rise.
 
 RT/Russia is working the anti-dollar angle bcz they dont like the
-dollar hegemony so they are like 'let's all use gold'. There isn't
-enough gold to form the backbone of an intl system. Let's not goad
-people into stupid investments.
+dollar hegemony. There isn't enough gold to form the backbone of an
+intl system. Let's not goad people into stupid investments.
 
 ---
 
