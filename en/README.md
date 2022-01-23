@@ -196,8 +196,8 @@ intl system. Let's not goad people into stupid investments.
 
 RT anchor talks about gold being a hedge against rising
 inflation. There is a reverse relation between the 10-year treasury
-(rates, due to inflation, FED) and gold price. Gold has gone lower
-from its 2020 highs, not higher.
+(rates) and gold price. Gold has gone lower from its 2020 highs, not
+higher.
 
 <img width="340" src="https://pbs.twimg.com/media/FJr_EGbXwAQEk3w?format=png&name=small"/>
 
