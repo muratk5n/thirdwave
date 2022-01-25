@@ -98,9 +98,7 @@ Iranian dish... looks good
 
 After the fall of the Berlin Wall this was the state the Dems were in;
 lost in the woods, with a major chip on their shoulder, in a "copy
-Reps or die" attitude. If Reps deregulate, you do too. If they are for
-NAFTA, you are too. With so much agreement, politics was reduced to
-arguing over climate, abortion, guns, blowjobs; there was nothing else left.
+Reps or die" attitude.
 
 ---
 
