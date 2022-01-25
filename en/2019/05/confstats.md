@@ -77,7 +77,7 @@ IS                                     Syria           15       0
 
 <a name='gdeltme'/>
 
-### GDELT
+### GDELT Middle East
 
 Iraq and Syria based conflict stats. GDELT uses natural language
 processing ("AI") to extract Actor - Action - Actor triplets. The
@@ -96,6 +96,15 @@ are also added.
 The output of the code is below
 
 [Output](conflict-out.html)
+
+
+<a name='gdeltukr'/>
+
+### GDELT Ukraine
+
+[Script](confstat-ukr.py)
+
+[Output](conflict-ukr-out.html)
 
 <a name='gdtroop'/>
 
@@ -127,7 +136,6 @@ plt.savefig('unarmed.png')
 ![](unarmed.png)
 
 <a name='usgun'/>
-
 
 ### US Gun Violence
 
