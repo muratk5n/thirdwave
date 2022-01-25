@@ -81,8 +81,8 @@ despite D.C.'s vow to take on Big Tech"
 
 ---
 
-One *Fringe* episode had one character call an evil woman's agenda as
-'vagenda'. Is this stil ok? 
+*Fringe* episode has one character call an evil woman's agenda as
+'vagenda'. Is this stil ok?
 
 ---
 
