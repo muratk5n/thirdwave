@@ -105,18 +105,6 @@ conservatives are such automatons"
 
 ---
 
-[Grenada](2021/10/all-too-human.md#grenada)
-
----
-
-James Baker might sound familiar to some.. Major Rep insider. There it
-is, regulating a major business was left to a Republican. After the
-fall of the Berlin Wall this was the state the Dems were in; lost in
-the woods, with a major chip on their shoulder, in a "copy Reps or
-die" attitude. A major overseeing task was left to a Reagan guy.
-
----
-
 The book *The Meat Racket*: "GIPSA [is] the antitrust regulator that
 was created before the Great Depression specifically to regulate
 U.S. meat companies...  gained its authority over meat companies from
