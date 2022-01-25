@@ -19,3 +19,7 @@ def trump_approval():
     return df
 
 
+if __name__ == "__main__": 
+
+    df = biden_approval()
+    print (df.net.tail(10))
