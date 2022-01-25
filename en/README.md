@@ -72,11 +72,6 @@ the last two years, according to Crunchbase data"
 
 ---
 
-CNBC: "Amazon, Microsoft and Alphabet went on a buying spree in 2021
-despite D.C.'s vow to take on Big Tech"
-
----
-
 "Pakistan says only fully vaccinated people will be allowed in mosques."
 
 ---
