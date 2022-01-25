@@ -146,6 +146,10 @@ percent of the market"
 
 ---
 
+"High Meat Prices Are Helping Fuel Inflation"
+
+---
+
 "Arizona Democratic Party censures Sinema over voting rights
 stance.. Top donors have threatened to stop funding the senator if she
 didn’t reevaluate her opposition to a filibuster carve-out"
