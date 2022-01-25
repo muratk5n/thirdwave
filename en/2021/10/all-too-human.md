@@ -74,3 +74,19 @@ trump our strongest civil rights argument for ending the ban...
 Six months later, the president announced “Don't Ask, Don't Tell”— an
 outcome essentially identical to Powell's initial proposal and not far
 off from the earlier ban.
+
+<a name='grenada'/>
+
+Grenada
+
+[T]he president was on the phone to Tony Lake, screaming about our
+screwed-up foreign-policy team.. “The Reagan people were much better
+at the politics of foreign policy than we are. Look at Lebanon. They
+went into Grenada two days later and fixed it.”.
+
+A few minutes later, as I listened with Sandy Berger to Tony's account
+of the president's tirade, I couldn't believe what I was
+hearing. *Grenada? That's how we should handle things? Like Reagan?
+The answer to losing 250 marines in a terrorist attack is to stage the
+invasion of a tiny country?*
+
