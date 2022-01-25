@@ -112,14 +112,13 @@ conservatives are such automatons"
 
 ---
 
-The book *The Meat Racket*: "GIPSA [is] the antitrust regulator that
-was created before the Great Depression specifically to regulate
+From the book *The Meat Racket*: "GIPSA [is] the antitrust regulator
+that was created before the Great Depression specifically to regulate
 U.S. meat companies...  gained its authority over meat companies from
 a law called the Packers and Stockyards Act, which was passed in 1921.
-The act was passed with the goal of breaking up the 'meat
-trust,' a collection of five companies that controlled about 85
-percent of the market (a lesser degree of concentration than existed
-in 2000).
+The act was passed with the goal of breaking up the 'meat trust,' a
+collection of five companies that controlled about 85 percent of the
+market (a lesser degree of concentration than existed in 2000).
 
 By 2005, GIPSA seemed to have drawn into a shell of
 nonenforcement. The reasons were partly due to the reorganization
