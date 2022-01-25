@@ -14,10 +14,10 @@ of the event in addition to reducing its carbon emissions"
 
 ---
 
-H2 View: A new memorandum of understanding (MoU) revealed .. will see
-Hexagon Energy Materials collaborate within FRV Services Australia to
+H2 View: "A new memorandum of understanding (MoU) revealed ..  Hexagon
+Energy Materials [to] collaborate within FRV Services Australia to
 develop a clean hydrogen hub at Middle Arm, Northern Territory in
-Australia.
+Australia"
 
 ---
 
