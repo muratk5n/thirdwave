@@ -92,6 +92,15 @@ Iranian dish... looks good
 
 ---
 
+After the fall of the Berlin Wall this was the state the Dems were in;
+lost in the woods, with a major chip on their shoulder, in a "copy
+Reps or die" attitude. If Reps deregulate, you do too. If they are for
+NAFTA, so are you. With so much agreement politics was reduced to
+arguing over blowjobs, climate, guns; there was nothing else to argue
+about.
+
+---
+
 "The .. Act was supposed to open the market to more and new radio
 station ownership; instead, it created an opportunity for a media
 monopoly"
