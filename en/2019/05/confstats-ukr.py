@@ -74,7 +74,7 @@ for index, row in df4.iterrows():
     ).add_to(m)
 
 
-stitle = "<h3> Attacks in the UKR <br/></h3> <h5>US Bases in <font color='red'>Red</font></h5>"
+stitle = "<h3> Military activity arund Ukraine based on GDELT <br/></h3>"
 m.get_root().html.add_child(folium.Element(stitle))
 
 m.save('conflict-ukr-out.html')
