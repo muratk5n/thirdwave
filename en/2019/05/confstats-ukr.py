@@ -57,7 +57,8 @@ for i in range(1):
     df2 = df[range(len(conf_cols))]
     df2 = pd.concat((df2,urls),axis=1)    
     df2.columns = conf_cols + ['url']
-    df3 = df2[(df2.EventCode==190)|(df2.EventCode==195)|(df2.EventCode==194)]
+    #df3 = df2[(df2.EventCode==190)|(df2.EventCode==195)|(df2.EventCode==194)]
+    df3 = df2
     df3 = df3.reset_index()
     df3.loc[:,'dist'] = df3.apply(dist, axis=1)
     df3 = df3[df3.dist == True]
@@ -73,9 +74,6 @@ for index, row in df4.iterrows():
         [row['Actor2Geo_Lat'], row['Actor2Geo_Long']], popup="<a href='%s' target='_blank' rel='noopener noreferrer'>Link</a>" % (row['url']), tooltip=row['Actor1CountryCode']
     ).add_to(m)
 
-
-stitle = "<h3> Military activity in Ukraine, based on GDELT data <br/></h3>"
-m.get_root().html.add_child(folium.Element(stitle))
 
 m.save('conflict-ukr-out.html')
 
