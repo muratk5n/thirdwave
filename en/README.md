@@ -92,6 +92,10 @@ Iranian dish... looks good
 
 ---
 
+[Grenada](2021/10/all-too-human.md#grenada)
+
+---
+
 After the fall of the Berlin Wall this was the state the Dems were in;
 lost in the woods, with a major chip on their shoulder, in a "copy
 Reps or die" attitude. If Reps deregulate, you do too. If they are for
