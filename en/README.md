@@ -22,7 +22,7 @@ Australia.
 ---
 
 Afaik such blending requires no change in hardware; There is work
-to generate the green H2, other than that it's a freebie
+to generate the green H2, other than that, blending is a freebie.
 
 H2 View: "20% hydrogen gas grid blending could enable 70.86GW of production,
 says new European Commission report"
