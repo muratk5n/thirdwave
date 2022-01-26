@@ -393,10 +393,6 @@ Reopening While Public Schools Are Not"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Mystery over Universe’s expansion deepens with fresh data. A long-awaited map of the Big Bang’s afterglow fails to settle a debate over how fast the Universe is expanding. <a href="https://t.co/FGVvMYb5Ed">https://t.co/FGVvMYb5Ed</a></p>&mdash; Erik Verlinde (@erikverlinde) <a href="https://twitter.com/erikverlinde/status/1283683627130331136?ref_src=twsrc%5Etfw">July 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Siemens Roadmap to 100% Hydrogen Turbines <a href="https://t.co/MJoVXsfn5k">https://t.co/MJoVXsfn5k</a> <br>What battery/electrons CANNOT do that H2 can:<br>1) Align industrial incumbents who scale molecules<br>2) Force natgas sector into Blue/Green H2<br>3) Preserve $ value of embedded tech (turbines) <a href="https://twitter.com/hashtag/energytwitter?src=hash&amp;ref_src=twsrc%5Etfw">#energytwitter</a> wake up</p>&mdash; Garry Golden (@garrygolden) <a href="https://twitter.com/garrygolden/status/1283769363812749316?ref_src=twsrc%5Etfw">July 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---

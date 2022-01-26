@@ -349,12 +349,6 @@ How did these people end up with extreme ethnic nationalism is beyond me.
 
 ---
 
-The Big Bang Theory rests on surprisingly little..
-
-[Link](../../2021/06/seeing-red-arp.md)
-
----
-
 Cosmic Microwave Background? It is reflection from the sea at, like,
 freaking Jersey shore and birdshit on the antennas.
 
@@ -438,12 +432,6 @@ What is the efficiency of the system I wonder
 'Sustainable caviar'..
 
 "Michelin-starred restaurants have been serving $300 sustainable caviar"
-
----
-
-M98 galaxy is far away but blue shifted (coming close to us). Arent at
-least all far away galaxies are supposed to get *away* from us?
-Because of, you know, like the Big Bang and the expanding universe? 😶 
 
 ---
 

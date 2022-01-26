@@ -314,14 +314,6 @@ even know what the muck it is made of.. How cld we fix that shit?
 
 ---
 
-Why is the Big Bang not scifi worthy? It's all fi, not much sci. When
-Arthur C. Clarke thought up satellite technology, it was fiction but
-scientifically solid. A little more basic science, some more
-engineering got us there. Or when Jules Verne thought about using H2
-as fuel in 1800s..
-
----
-
 <img width="340" src="https://drive.google.com/uc?export=view&id=1_estbcX6JjX12n3KzA9Df0snA5cB4piE"/>
 
 "LAVO receives commitment from iconic Australian company, Gowings to
@@ -403,13 +395,6 @@ principles of what was known back then, and working it forward
 
 ---
 
-I always felt uneasy abt the Big Bang.. not the concept per se but the
-fact that it was so far in the past.. With so much of basics
-unresolved in fundamental phy, how can you rewind the model and peer
-so far back in history? To the beginning of time!
-
----
-
 Their Rome collapsed first, so they had the experience of the absence
 of a centralized power for longer, had a period of diverse
 city-states, and there were always other small to medium states near
@@ -488,13 +473,6 @@ this is news in the left.
 TBH most of this stuff is not even scifi worthy. How many times have
 seen a black hole in a movie, TV show. "Time dilation field near it
 duuuude"... potentially all fking bollocks.
-
----
-
-You could certainly focus on QM and have some fun there but I was
-wondering if they were effing shite up at large scale first.. and they
-were. No big bang? No black holes? All this dark matter, dark energy
-stuff is in question? Man o man...
 
 ---
 

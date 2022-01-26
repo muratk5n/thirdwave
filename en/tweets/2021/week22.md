@@ -147,17 +147,6 @@ operation of hydrogen dispensing units for hydrogen-fueled vehicles"
 
 ---
 
-Perhaps worse than half-assed, unverified theories in fundam physics
-is half-assed but seemingly verified theories. The Big Bang's
-existence is not conclusive. It is based on a few shoddy theories and
-some measurements that can be explained in different ways.
-
-But it is accepted as base truth, now new theories feel the burden to
-coexist with it. This is ten times worse than weirdo bullshit like
-String Theory, multiple universes, etc. 
-
----
-
 Previous Nasa admin
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Life on Venus? The discovery of phosphine, a byproduct of anaerobic biology, is the most significant development yet in building the case for life off Earth. About 10 years ago NASA discovered microbial life at 120,000ft in Earth’s upper atmosphere. It’s time to prioritize Venus. <a href="https://t.co/hm8TOEQ9es">https://t.co/hm8TOEQ9es</a></p>&mdash; Jim Bridenstine (@JimBridenstine) <a href="https://twitter.com/JimBridenstine/status/1305598182571810822?ref_src=twsrc%5Etfw">September 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

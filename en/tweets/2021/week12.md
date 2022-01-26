@@ -405,26 +405,6 @@ Cecilia not bad ho
 
 ---
 
-Budding cosmologists.. this is where u can make a name 4
-yourself. Disprove overabundance of helium, the whole house of cards
-will come crushing down.
-
-"‘Primordial’ helium levels strongly guide all solar helium abundance
-determinations, as the amount of helium in the stars is said to be
-closely correlated with the synthesis of this element soon after the
-Big Bang. Helium abundances currently act as one of the 'Great
-Pillars' of cosmology... As such, any attempt to alter accepted helium
-levels within the Sun has great implications throughout astrophysics.
-Recently, the author has reviewed the determination of solar helium
-abundances and reached the conclusion that these levels are likely to
-have been overstated. The most prudent outlook remains that the Sun,
-like the visible universe, is composed primarily of hydrogen, as first
-outlined by Cecilia Payne"
-
-[Link](https://www.researchgate.net/publication/257931293_The_Liquid_Metallic_Hydrogen_Model_of_the_Sun_and_the_Solar_Atmosphere_VI_Helium_in_the_Chromosphere)
-
----
-
 @ashleytownshend
 
 China’s use of ... disinformation, economic threats, covert foreign

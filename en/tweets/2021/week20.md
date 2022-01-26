@@ -218,11 +218,6 @@ variiert*
 
 ---
 
-Constant speed of light. Black holes. The Big Bang. The Higgs
-Boson. QED. All under attack.
-
----
-
 "Note that the speed of sound in air varies, the speed of sound in
 water varies, and the speed of seismic waves in rock varies. But it is
 said that the speed of light in space does not vary"

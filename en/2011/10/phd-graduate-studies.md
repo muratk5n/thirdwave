@@ -246,8 +246,6 @@ Some of the best such search succeeds in DISPROVING
 
 what you initially believed to most certainly be true.
 
-For example, Sir Fred Hoyle is said to have coined the phrase "Big Bang" at a time when he was looking to disprove it.
-
 For a relatively minor but personal example: When I was working on the
 MEDIAN problem, my goal was to prove that any deterministic algorithm
 to find the MEDIAN of n integers must necessarily make roughly as many
