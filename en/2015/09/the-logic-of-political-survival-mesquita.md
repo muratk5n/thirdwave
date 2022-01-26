@@ -35,6 +35,17 @@ created by small-S, small-W systems makes leaders most ready to trade
 policy for aid, and hence most likely to do the bidding of the United
 States...
 
+<a name='war'/>
+
+War
+
+The institutional arrangements within democracies mean that the
+survival of democratic leaders depends more on policy success than on
+the provision of private goods to supporters. Given this, once engaged
+in a war, democratic leaders typically make every effort to
+win.. Since the survival of democratic leaders depends on public
+policy success, they typically want to avoid long and costly wars.
+
 Construction
 
 The ease with which graft can be hidden in construction projects makes

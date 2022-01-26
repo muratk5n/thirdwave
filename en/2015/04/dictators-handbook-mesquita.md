@@ -57,7 +57,7 @@ about the people and, of course, soldiers are people. Although
 conflict involves putting soldiers at risk, democrats do what they can
 to mitigate such risk. In autocracies, foot soldiers are not
 politically important. Autocrats do not waste resources protecting
-them.
+them..
 
 The difference in expenditures per soldier is greater even than the
 numbers alone indicate. The Israeli military, like the military of
@@ -68,7 +68,16 @@ they can achieve the same military output while at the same time
 putting few soldiers at risk. The Egyptian military’s tanks, troop
 transports, and other equipment were lightly and cheaply armored. They
 preferred to spend money on private rewards with which to ensure the
-loyalty of the generals and colonels.
+loyalty of the generals and colonels...
+
+[S]electorate theory assumed leaders had the same objective, to stay
+in power, and what differentiated democrats from autocrats was that
+the former’s dependence on a large coalition of supporters means
+democrats direct state resources to winning wars. Autocrats enhance
+their survival by hoarding resources to pay off cronies, even if this
+means losing the war.  What started off as a desire to know why
+democracies don’t fight each other ended up telling us how nations
+fight and what they fight over.
 
 Fidel and Che
 
