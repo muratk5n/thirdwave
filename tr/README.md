@@ -14,6 +14,8 @@ başlar.
 
 ## En Son
 
+26/1 - [Güneş Kaynağı Haritası](2022/01/solar-map.md)
+
 23/1 - [Yerel Yeşil Hidrojen Potansiyeli](2022/01/green-hydrogen.md)
 
 1/6 - [Milli Söylem, Göçmenler, Anadolu](2020/07/gocebele-anadolu.md)

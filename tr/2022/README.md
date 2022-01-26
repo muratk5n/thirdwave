@@ -1,4 +1,6 @@
 # 2022
 
-[Yerel Yesil Hidrojen Potansiyeli](01/green-hydrogen.md)
+[Yerel Yeşil Hidrojen Potansiyeli](01/green-hydrogen.md)
+
+[Güneş Kaynağı Haritası](01/solar-map.md)
 
