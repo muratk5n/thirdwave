@@ -1,7 +1,5 @@
 # 2021
 
-[The Collapse of the Big Bang and the Gaseous Sun](01/collapse_of_the_big_bang_and_the_gaseous_sun_robitaille.md)
-
 [Power Paste (Solid Magnesium Hydride)](02/h2-power-paste.md)
 
 [Into the Quagmire](02/into-the-quagmire.md)

@@ -366,12 +366,6 @@ down the hill didn't it?
 
 ---
 
-BTW Robitaille is [legit scientist](https://youtu.be/_A7VFVwAA5U?t=34), used
-to build bleeding-edge MRI machines, a [spectrographist](https://youtu.be/oO5vIUcnKlI?t=2956)
-by training, so very much in tune with the measurement side of things.
-
----
-
 "It" as in a big chunk of astrophyics.
 
 ---

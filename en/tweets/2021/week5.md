@@ -60,25 +60,6 @@ presence of magnetic fields"
 
 ---
 
-Robitaille: "[A]n incompressible liquid, a condensed Sun calls into
-question virtually everything which is currently believed with respect
-to the evolution and nature of the stars. Should the Sun be condensed,
-then neutron stars and white dwarfs will fail to reach the enormous
-densities they are currently believed to possess. Much of cosmology
-also falls into question, as the incompressibility of matter curtails
-any thought that a primordial atom once existed. Aging stars can no
-longer collapse and black holes will know no formative mechanism.  A
-condensed Sun also hints that great strides must still be made in
-understanding the nature of liquids. The Sun has revealed that liquids
-possess a much greater potential for lattice order than previously
-believed. In addition, lessons may be gained with regards to the
-synthesis of liquid metallic hydrogen and the use of condensed matter
-as the basis for initiating fusion on Earth"
-
-[Link](https://vixra.org/abs/1310.0138)
-
----
-
 Fusion has been the Holy Grail of enegy for a long time. But right now
 AFAIK the work on it has stalled. They cant get more energy out of it
 than the energy they put in. They keep building machines for it but,
@@ -193,14 +174,6 @@ reshuffle.. nice
 
 Chinese media calls the military coup in Myanmar and replacement of
 officials with army men a 'major cabinet reshuffle'"
-
----
-
-That part is embarrasing.. R paper [says](../../2021/01/collapse_of_the_big_bang_and_the_gaseous_sun_robitaille.md#bigbang)
-they most likely measured Earth's own (nearby) oceans and mistook that for
-the Big Bang. D'oh!
-
-"If they did not measure the radiation from Big Bang what did they measure?"
 
 ---
 
@@ -410,17 +383,6 @@ right answer. Averaging removes noise.
 
 The noise distribution is bell-shaped, "normal" or a "Gaussian" (a
 dist is the formulaic form of a histogram, occurence count, frequency).
-
----
-
-Haha.. Robitaille took an ad on *New York Times* about his findings in 2002.
-I share it [here](../../2021/01/collapse_of_the_big_bang_and_the_gaseous_sun_robitaille.md).
-
----
-
-I wonder if all that sugar is added to marmalede to increase its
-viscosity to add a kind of protective layer against air, etc
-influence.. What if u just add olive oil?
 
 ---
 

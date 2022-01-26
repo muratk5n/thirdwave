@@ -749,10 +749,6 @@ assumption is wrong.
 
 ---
 
-Robitaille: "Cosmology is not science"
-
----
-
 Jacobin: "It’s Long Past Time to Abolish the Filibuster"
 
 ---

@@ -270,13 +270,6 @@ old H2O -- a liquid.
 
 ---
 
-If gaseous sun hyphothesis goes, much of modern astrophysics will go
-with it \#Robitaille
-
-[[-]](https://youtu.be/cHGT0DgvhNM?t=79)
-
----
-
 It looks fluidic to me, especially see ones with closer shots, there
 are like waves and shit in there 
 
