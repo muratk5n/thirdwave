@@ -49,7 +49,7 @@ bigger projects the failure rate is even higher, a whopping 4/5.
 ---
 
 For Valley, IT programmers the particle, and their interactions,
-simulation viewpoint is comfortable.. Their bean counting is done
+simulation viewpoint was comfortable.. Their bean counting is done
 discretely, item-by-item basis, which makes sense you are automating
 an office work, keeping lists, checking them off...  The so-called
 object-orientation took hold in the industry possibly for this reason.
