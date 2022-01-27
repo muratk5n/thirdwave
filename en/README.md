@@ -63,7 +63,7 @@ a "simulation" btw these little particles..
 
 ---
 
-NTV: "Denmark is set to become the first European Union country to
+NDTV: "Denmark is set to become the first European Union country to
 lift domestic curbs despite the Omicron wave sweeping the continent..
 
 Denmark will remove virtually all Covid restrictions from next Tuesday
