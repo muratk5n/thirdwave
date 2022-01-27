@@ -112,7 +112,7 @@ that now.
 
 Language is not a good indicator for cultural similarity; Asia Minor
 speaks Turkish but it is not Turkic.  US and UK speak English but are
-different. Ukranians are like Russians.
+different. Ukranians are culturally similar to Russians.
 
 "Can Russians understand Ukrainian?.. No, despite all the claims that
 Russians and Ukrainians are Slavic brothers, Russians won't understand
