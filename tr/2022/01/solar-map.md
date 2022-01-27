@@ -13,7 +13,8 @@ Güneş ışınlarını aynalarla yönlendirip yüksek ısı üzerinden enerji
 
 [Makale](https://www.researchgate.net/publication/222051631_Prospect_of_concentrating_solar_power_in_Turkey_The_sustainable_future)
 
-"Konsantre güneş gücü sistemlerinin olurluğu (feasible) en az [205 Watt
-/ m2] direk normal güneş radyasyonu (DNİ) gerektiriyor. Adana'da en iyi
-DNİ'ya sahip, ardından İç Anadolu (Konya) ve Güneydoğu Anadolu (Urfa) geliyor.
+"Konsantre güneş gücü sistemlerinin olurluğu (feasible) en az [205
+Watt / m2] direk normal güneş radyasyonu (DNİ) gerektiriyor. Adana en
+iyi DNI'ya sahip, ardından İç Anadolu (Konya) ve Güneydoğu Anadolu
+(Urfa) geliyor.
 
