@@ -63,14 +63,6 @@ a "simulation" btw these little particles..
 
 ---
 
-Commentary that is always being cautious, or always being lax on covid
-do not interest me.. I need commentary that can switch from one to the
-other when time is right when situation changes. Any idiot can keep
-saying the same thing, wout paying attention to the landscape while
-pandering to some bizarre crowd.
-
----
-
 NDTV: "Denmark is set to become the first European Union country to
 lift domestic curbs despite the Omicron wave sweeping the continent..
 
