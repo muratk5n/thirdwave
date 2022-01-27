@@ -139,15 +139,17 @@ people.
 
 ---
 
-
-Military activity data shared by API (simple URL, JSON output) through
-journos would be great..  Liveuamap has paywall. Just types of attack,
-hardware used, estimated damage, and numbers involved.
-
 They cld make money from that; For every major event, sharing
 up-to-date geolocated, structured data.. What happened, where, to
 whom? People would curate it in the background, and more frequent,
 special access could pay for the service costs..
+
+---
+
+Military activity data shared by API (simple URL, JSON output) through
+journos would be great..  Liveuamap has paywall. Just types of attack,
+hardware used, estimated damage, and numbers involved. I'll take fries
+with that.
 
 ---
 
