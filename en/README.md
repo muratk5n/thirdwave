@@ -97,7 +97,7 @@ embedded in nature. Mathematics is our invention, a tool that was
 created to address our shortcomings.
 
 "Does the running of Nature, The Grand Simulation, or the current
-order of our things require mathematics, in the background?"
+order of things require mathematics, in the background?"
 
 ---
 
