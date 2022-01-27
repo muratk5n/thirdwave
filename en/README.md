@@ -120,7 +120,7 @@ Ukrainian"
 
 ---
 
-*The Pilot*, RU WWII movie; trailer looked good
+*The Pilot*, RU WWII movie; fine trailer.
 
 ---
 
