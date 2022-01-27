@@ -139,9 +139,9 @@ people.
 
 ---
 
-They cld make money from that; For every major event, sharing
-up-to-date geolocated, structured data.. What happened, where, to
-whom? People would curate it in the background, and more frequent,
+They cld make money from such a service; For every major event,
+sharing up-to-date geolocated, structured data.. What happened, where,
+to whom? People would curate it in the background, and more frequent,
 special access could pay for the service costs..
 
 ---
