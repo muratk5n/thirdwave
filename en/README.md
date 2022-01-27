@@ -2,157 +2,178 @@
 
 ---
 
-H2 Fuel News: "GM announced that it would be expanding its fuel cell
-strategy beyond vehicles"
+H2 View: "Hydrogen Fuel Cell Bus Council established ahead of
+widespread H2 rollout...  The new Hydrogen Fuel Cell Bus Council has
+been launched at a time when investments into H2-powered public
+transport are exploding"
 
 ---
 
-H2 View: "212 hydrogen fuel cell buses to serve at the 2022 Winter
-Olympics.. With the 2022 Winter Olympics heading to Beijing, China,
-hydrogen will play a significant role in ensuring a smooth operation
-of the event in addition to reducing its carbon emissions"
+H2 View: "ArcelorMittal invests $5m in H2Pro to support its disruptive
+hydrogen production method from water. E-TAC water splitting offers
+energy efficiency of over 95%, significantly higher than traditional
+water electrolysis technologies"
 
 ---
 
-H2 View: "A new memorandum of understanding (MoU) revealed ..  Hexagon
-Energy Materials [to] collaborate within FRV Services Australia to
-develop a clean hydrogen hub at Middle Arm, Northern Territory in
-Australia"
+H2 Fuel News: "Saudi Arabia sets sights on hydrogen fuel cells and
+sustainable fuels.. The announcement regarding the contracts was made
+by Saudi Arabia’s energy ministry. The contracts are for the
+development of carbon-free projects such as hydrogen fuel cells for
+transportation, and sustainable jet fuel production. They are meant to
+help the largest crude exporter in the world to shift its leadership
+into 'all areas of energy, as it has been in the oil industry for over
+80 years,' explained energy minister..  in an official statement
+following the signing ceremony which took place in Riyadh"
 
 ---
 
-Afaik such blending requires no change in pipeline infra; There is
-work to generate the green H2, other than that, blending is a freebie.
+SolarPaces: "[T]he developer and builder of the 22.5 GW Three Gorges
+Dam in China – will develop three of China’s planned new 100 MW
+Concentrated Solar Power (CSP) tower projects, two in China’s sunny
+Qinghai province"
 
 ---
 
-H2 View: "20% hydrogen gas grid blending could enable 70.86GW of production,
-says new European Commission report"
+TR [solar map](../tr/2022/01/solar-map.md). CSP info included. Surely
+the EU would be a willing customer.
 
 ---
 
-SolarPaces: "China has announced plans to start – and complete – 11
-CSP projects with thermal energy storage by 2024. The selected
-projects, with backing by some of China’s biggest energy giants, must
-now race to meet this very tight two-year deadline"
+OO was seen as a way to be more "scientific" about IT software,
+hilarious bcz one cannot be less scientific then by going to smallest
+particle level.. The OO approach did not save projects which typically
+went over-time and over-budget at a rate of 1/2. They still do. For
+bigger projects the failure rate is even higher, a whopping 4/5. 
 
 ---
 
-CNBC: "$130 billion wiped off crypto markets in 24 hours as bitcoin,
-ether drop to multi-month lows"
+For Valley, IT programmers the particle, and their interactions,
+*simulation* viewpoint is more comfortable.. Their bean counting is
+done discretely, item-by-item basis, which makes sense you are
+automating an office work, keeping lists, checking them off...  The
+so-called object-orientation took hold in the industry possibly for
+this reason.  Interesting its widely used language C++ was based on an
+older language called Simula, the first OO language, literally built
+for simulations.
+
+With OO the idea was coders would create "Customer objects" which
+interacted with "Order objects", so the entire system would be seen as
+a "simulation" btw these little particles..
 
 ---
 
-Story about sniper fire in Niu-York, Ukraine.. If true, sad.
+NTV: "Denmark is set to become the first European Union country to
+lift domestic curbs despite the Omicron wave sweeping the continent..
 
-There are decisions and there are decision, u know.. UKR President has
-to decide 'not to shoot back' possibly causing casualties on his
-side.. You dont want that job.
+Denmark will remove virtually all Covid restrictions from next Tuesday
+despite record infections, counting on a high vaccination rate to cope
+with the milder Omicron variant, the government said...
 
+The successful vaccine programme proved a 'super-weapon', [PM]
+said. 'It has given us a solid defence against infection that
+continues.. That's why the government decided that coronavirus should
+no longer be considered a threatening disease for society.'
 
-[[-]](https://www.buzzfeednews.com/article/christopherm51/ukraine-russia-snipers-invasion-trenches-soldiers)
-
----
-
-"EU to weigh €1 billion aid package for Ukraine"
-
----
-
-"Canada sending Ukraine a $120-million loan"
-
----
-
-I bet the Poles are itching to go in there; help Ukraine. They don't like
-Russians much.
+Faced with a lower level of hospitalisations than in previous waves,
+several European countries, including France, Ireland and the United
+Kingdom, have announced the lifting or a considerable reduction of
+their restrictions, despite record or very high cases"
 
 ---
 
-"Investors have poured some $2 billion into cultured meat start-ups in
-the last two years, according to Crunchbase data"
+@stevenstrogatz
+
+A little piece I wrote for @QuantaMagazine -- hope you enjoy it! It
+starts with a famous puzzle posed to Johnny von Neumann about two
+bicycles and a fly.
+
+[[-]](https://twitter.com/stevenstrogatz/status/1485626030983458821)
 
 ---
 
-"Pakistan says only fully vaccinated people will be allowed in mosques."
+God does not need math, He has an obscene amount of computation power
+embedded in nature. Mathematics is our invention, a tool that was
+created to address our shortcomings.
+
+"Does the running of Nature, The Grand Simulation, or the current
+order of our things require mathematics, in the background?"
 
 ---
 
-Haha *Fringe* episode has one character call an evil woman's agenda as
-'vagenda'. 
+CIA likely stirred shit up leading to pro-Russian Yanukovich's ouster,
+but left to its own devices democracy long-term would have balanced
+things out.. A major voter base for Yanukovich was the RU speaking
+parts of Ukraine, so the next guy would have to pander to them, and
+indirectly to Russia for votes. Those regions are now gone. If UKR at
+least tried to balance RU against the West before, they'll never do
+that now.
 
 ---
 
-Iranian dish... looks good
+Language is not a good indicator for cultural similarity; Asia Minor
+speaks Turkish but it is not Turkic, partly Hellenic similar to Greece
+(who speak Greek). US and UK speak English but are different. AFAIK
+Ukranians are culturally similar to Russians.
 
-[[-]](https://twitter.com/KostasPenn/status/1485318020843118593)
-
----
-
-[Grenada](2021/10/all-too-human.md#grenada)
-
----
-
-After the fall of the Berlin Wall this was the state the Dems were in;
-lost in the woods, with a major chip on their shoulder, in a "copy
-Reps or die" attitude.
+"Can Russians understand Ukrainian?.. No, despite all the claims that
+Russians and Ukrainians are Slavic brothers, Russians won't understand
+Ukrainian"
 
 ---
 
-"The .. Act was supposed to open the market to more and new radio
-station ownership; instead, it created an opportunity for a media
-monopoly"
+*The Pilot*, RU WWII movie; trailer looked good
 
 ---
 
-Again, Bill Clinton's fault. See the [1996 Telecomm Act](https://en.wikipedia.org/wiki/Telecommunications_Act_of_1996).
-
-"How about that Sinclair Broadcast, anchors repeating the same thing,
-conservatives are such automatons"
-
-[[-]](https://youtu.be/rknON89H35o?t=9)
+<iframe width="729" height="410" src="https://www.youtube.com/embed/z7B-RdSXxdc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-From the book *The Meat Racket*: "GIPSA [is] the antitrust regulator
-that was created before the Great Depression specifically to regulate
-U.S. meat companies...  gained its authority over meat companies from
-a law called the Packers and Stockyards Act, which was passed in 1921.
-The act was passed with the goal of breaking up the 'meat trust,' a
-collection of five companies that controlled about 85 percent of the
-market (a lesser degree of concentration than existed in 2000).
-
-By 2005, GIPSA seemed to have drawn into a shell of
-nonenforcement. The reasons were partly due to the reorganization
-overseen by James Baker, the Stetson-wearing GIPSA chief who ran the
-agency during the Clinton era.  Baker’s prime initiative as the
-antitrust regulator was to reshape the agency in the image of the
-highly concentrated meat industry that it oversaw"
+Federal Reserve points to interest rate hike coming in March
 
 ---
 
-It's Bill Clinton's fault
-
-"In the US, meat processing is in the hands of a few corporations. For
-beef, it is JBS, Tyson, Cargill and Marfrig that together control 85
-percent of the market"
+Sadly "AI" could not do that today. Data has to be curated, by real
+people.
 
 ---
 
-"High Meat Prices Are Helping Fuel Inflation"
+
+Military activity data shared by API (simple URL, JSON output) through
+journos would be great..  Liveuamap has paywall. Just types of attack,
+hardware used, estimated damage, and numbers involved.
+
+They cld make money from that; For every major event, sharing
+up-to-date geolocated, structured data.. What happened, where, to
+whom? People would curate it in the background, and more frequent,
+special access could pay for the service costs..
 
 ---
 
-"Arizona Democratic Party censures Sinema over voting rights
-stance.. Top donors have threatened to stop funding the senator if she
-didn’t reevaluate her opposition to a filibuster carve-out"
+When did Kiev become Kyiv? So it's now Chicken Kyiv, not Chicken Kiev?
 
 ---
 
-It is deliberative because of the six year term. The system pays you,
-Mr Senator, for six years so u feel less of a pressure the House deals
-with, and ponder some stuff, not to make the entire system grind to a
-halt.
+"Another batch of US defensive security assistance, including around
+300 Javelins and ammunition, just arrived in Kyiv, Ukraine"
 
-"But the Senate is a 'deliberative body' the filibuster is a big part of that"
+---
+
+Tax and.. stop outsourcing, strengthen unions to get higher wages and
+higher interest rates so speculators are discouraged do go after
+bizarre stocks, the housing market inflating prices there. IOW: a
+systemic fix.
+
+---
+
+Still good.. Pre-pandemic too
+
+"Stop talking about philantrophy, start talking about taxes"
+
+\#bergman \#davos2019
+
+[[-]](https://youtu.be/r5LtFnmPruU)
 
 ---
 
