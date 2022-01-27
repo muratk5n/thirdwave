@@ -35,8 +35,8 @@ Qinghai province"
 
 ---
 
-TR [solar map](../tr/2022/01/solar-map.md). CSP info included. Surely
-the EU would be a willing customer.
+TR [solar map](../tr/2022/01/solar-map.md). CSP info included. CSP ->
+green H2. Surely the EU would be a willing customer.
 
 ---
 
