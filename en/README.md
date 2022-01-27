@@ -40,11 +40,10 @@ green H2. Surely the EU would be a willing customer.
 
 ---
 
-OO was seen as a way to be more "scientific" about IT software,
-hilarious bcz one cannot be less scientific then by going to smallest
-particle level.. The OO approach did not save projects which typically
-went over-time and over-budget at a rate of 1/2. They still do. For
-bigger projects the failure rate is even higher, a whopping 4/5. 
+OO was seen as a way to be more "scientific" about IT software. The
+approach did not save projects which typically went over-time and
+over-budget at a rate of 1/2. They still do. For bigger projects the
+failure rate is even higher, a whopping 4/5.
 
 ---
 
