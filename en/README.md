@@ -49,13 +49,13 @@ bigger projects the failure rate is even higher, a whopping 4/5.
 ---
 
 For Valley, IT programmers the particle, and their interactions,
-*simulation* viewpoint is more comfortable.. Their bean counting is
-done discretely, item-by-item basis, which makes sense you are
-automating an office work, keeping lists, checking them off...  The
-so-called object-orientation took hold in the industry possibly for
-this reason.  Interesting its widely used language C++ was based on an
-older language called Simula, the first OO language, literally built
-for simulations.
+simulation viewpoint is comfortable.. Their bean counting is done
+discretely, item-by-item basis, which makes sense you are automating
+an office work, keeping lists, checking them off...  The so-called
+object-orientation took hold in the industry possibly for this reason.
+Interesting its widely used language C++ was based on an older
+language called Simula, the first OO language, literally built for
+simulations.
 
 With OO the idea was coders would create "Customer objects" which
 interacted with "Order objects", so the entire system would be seen as
