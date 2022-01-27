@@ -81,11 +81,11 @@ their restrictions, despite record or very high cases"
 
 ---
 
-@stevenstrogatz
+"@stevenstrogatz
 
 A little piece I wrote for @QuantaMagazine -- hope you enjoy it! It
 starts with a famous puzzle posed to Johnny von Neumann about two
-bicycles and a fly.
+bicycles and a fly"
 
 [[-]](https://twitter.com/stevenstrogatz/status/1485626030983458821)
 
