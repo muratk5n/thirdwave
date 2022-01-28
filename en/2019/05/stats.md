@@ -21,11 +21,11 @@ print (df['growann'].tail(5))
 
 ```text
 DATE
-2020-04-01   -31.235698
-2020-07-01    33.783279
-2020-10-01     4.536294
-2021-01-01     6.278177
-2021-04-01     6.726283
+2020-10-01    4.536294
+2021-01-01    6.278177
+2021-04-01    6.726283
+2021-07-01    2.303426
+2021-10-01    6.887441
 Name: growann, dtype: float64
 ```
 
@@ -71,12 +71,12 @@ plt.savefig('cycle.png')
 ```text
                gdpyoy
 DATE                 
-2020-04-01  -9.083737
 2020-07-01  -2.887506
 2020-10-01  -2.262915
 2021-01-01   0.546977
 2021-04-01  12.226677
 2021-07-01   4.946556
+2021-10-01   5.531736
                  inf
 DATE                
 2021-07-01  5.365475
@@ -195,6 +195,8 @@ Name: JTSQUR, dtype: float64
 
 ![](quits.png)
 
+<a name="wages"></a>
+
 Wages
 
 ```python
@@ -202,7 +204,8 @@ import pandas as pd, datetime
 from pandas_datareader import data
 
 start=datetime.datetime(1950, 1, 1)
-end=datetime.datetime(2019, 11, 1)
+today = datetime.datetime.now()
+end=datetime.datetime(today.year, today.month, today.day)
 cols = ['ECIWAG']
 df3 = data.DataReader(cols, 'fred', start, end)
 df3 = df3.dropna()
@@ -215,10 +218,10 @@ plt.savefig('wages.png')
 
 ```text
 DATE
-2019-01-01    2.956785
-2019-04-01    3.012048
-2019-07-01    2.910448
-2019-10-01    2.965159
+2020-10-01    2.807775
+2021-01-01    2.995720
+2021-04-01    3.551136
+2021-07-01    4.590395
 Name: wagegrowth, dtype: float64
 ```
 
