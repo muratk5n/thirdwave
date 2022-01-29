@@ -65,7 +65,7 @@ future. Take your pick. House cld be built for both.
 
 Here I found the insulating material for ya, chop chop
 
-<img width="340" src="https://pbs.twimg.com/media/FKLLpbWXIAQh8Xi?format=png&name=small"/>
+<img width="200" src="https://pbs.twimg.com/media/FKLLpbWXIAQh8Xi?format=png&name=small"/>
 
 "VIPs or Vacuum Insulated Panels are specially designed panels that use
 the insulation of a vacuum in a board shape"
