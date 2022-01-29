@@ -58,8 +58,8 @@ batteries. Once at home, take empty canister out, put the full one in.
 
 Or a service in near future will deliver you full canisters, take old one.
 
-Or nearby municipality will bring gas in form of pipeline, in near
-future. Take your pick. House cld be built for both.
+Or nearby municipality will bring gas in form of pipeline. House cld
+be built for both.
 
 ---
 
