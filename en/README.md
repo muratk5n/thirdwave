@@ -110,8 +110,8 @@ nuclear.
 
 ---
 
-So why is Ukraine criticising the crisis talk of the West but
-criticising Germany for not doing enough? 🤔
+Ukraine is criticising the crisis talk of the West but criticising
+Germany for not doing enough? 🤔
 
 ---
 
