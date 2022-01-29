@@ -139,7 +139,7 @@ Ukraine will stop"... Schröder was roundly mocked for his comments"
 
 ---
 
-Unless of course there is a bus driver for a President as in f-ing
+Unless of course there is a bus driver for a President as in fucking
 Venezuella who is printing money and giving it to people creating
 hyperinflation.
 
