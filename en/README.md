@@ -185,9 +185,8 @@ sure.. Must be due to those 9 aminos
 
 If China previously exported deflation to the rest of the world and
 now they are supposedly being cut off from the world supply
-chain.. what wld that do? Cause the reverse of deflation?
-
-There is inflation in US, and France, and Germany.. Why?
+chain.. what wld that do? Cause the reverse of deflation? There is
+inflation in many countries right now..
 
 ---
 
