@@ -131,8 +131,6 @@ Klitschko to ask if the next delivery would be of pillows"
 
 ---
 
-Thats funny
-
 Politico: "[A previous DE Chancelor] Schröder — chairman of Nord
 Stream, the Russian-owned, Swiss-based firm that owns pipelines
 bringing Russian gas to Europe, and who is a long-time friend of
