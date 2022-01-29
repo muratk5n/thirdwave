@@ -63,7 +63,7 @@ future. Take your pick. House cld be built for both.
 
 ---
 
-Here I found the insulating material for ya, chop chop
+Here I found the insulating material for ya
 
 <img width="200" src="https://pbs.twimg.com/media/FKLLpbWXIAQh8Xi?format=png&name=small"/>
 
