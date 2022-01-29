@@ -8,6 +8,8 @@
 
 [Predicting Presidential Elections](../../2015/04/predicting-presidential-elections.md)
 
+[Democracy Status](../../2015/09/democracy-status.md)
+
 [Crowd Wisdom](../../2020/07/crowd-wisdom.md)
 
 [Polarization](../../2018/05/polarization.md)

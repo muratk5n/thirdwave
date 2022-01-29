@@ -261,41 +261,6 @@ fighters. Autocrats can hide the goings-on of a war, so they would
 never feel the pressure to finish, hence do not fight in a way that'll
 help them do so. The war drags on.
 
-Democratic Status 
-
-[Data](https://www.bti-project.org/en/meta/downloads.html) comes from
-the BTI Transformation Index that evaluates aspects of governance for
-selected countries, recently updated for 2020.
-
-```python
-import pandas as pd
-df = pd.read_stata('../../tweets/2020/BTI 2006-2020.dta')
-df = df.set_index('year')
-df1 = df[df.country == 'Russia'].dem_stat
-df2 = df[df.country == 'Turkey'].dem_stat
-df3 = df[df.country == 'Iran'].dem_stat
-df4 = df[df.country == 'China'].dem_stat
-df5 = df[df.country == 'Ukraine'].dem_stat
-df3 = pd.concat([df1,df2,df3,df4,df5],axis=1)
-df3.columns = ['RU','TR','IR','CH','UKR']
-df3.plot()
-plt.savefig('bti-compare.png')
-```
-
-![](bti-compare.png)
-
-<a name='btiall'/>
-
-```python
-import pandas as pd
-df = pd.read_stata('../../tweets/2020/BTI 2006-2020.dta')
-g = df.groupby('year').dem_stat.mean()
-g.plot()
-plt.savefig('bti-all.png')
-```
-
-![](bti-all.png)
-
 Polity
 
 Here is democracy status from the Polity dataset. Their `DEMOC` and
@@ -315,33 +280,5 @@ plt.savefig('polity-all.png')
 ```
 
 ![](polity-all.png)
-
-Democracy Barometer
-
-[Data](https://democracybarometer.org/data-and-documentation/)
-
-
-```python
-import zipfile
-with zipfile.ZipFile('db.zip', 'r') as z:
-   df = pd.read_csv(z.open('DB_data_2020_all_data_Standardised.csv'),sep=';') 
-   df = df[['Year','DQ']].groupby('Year').mean()   
-   print (df.tail(5))
-   df.plot()
-   
-plt.savefig('db-all.png')
-```
-
-```text
-            DQ
-Year          
-2013  3.870913
-2014  3.855549
-2015  3.857140
-2016  3.864331
-2017  3.821315
-```
-
-![](db-all.png)
 
 
