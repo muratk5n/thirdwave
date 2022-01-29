@@ -1,5 +1,25 @@
 # Democracy Status 
 
+### Polity
+
+Here is democracy status from the Polity dataset. Their `DEMOC` and
+`AUTOC` columns contain the level of insititutional leanings of a
+country, `POLITY` column is one subtracted from the other, it ranges
+btw -10 and +10, the latter being full democracy.
+
+```python
+import pandas as pd
+df = pd.read_excel('../../tweets/2020/p4v2018.xls')
+df = df[df.year > 1950]
+df.loc[df.polity < -10, 'polity'] = np.nan
+df['polity'] = df['polity'].interpolate(method='linear')
+polity = df.groupby('year')['polity'].mean()
+polity.plot()
+plt.savefig('polity-all.png')
+```
+
+![](polity-all.png)
+
 ### BTI
 
 [Data](https://www.bti-project.org/en/meta/downloads.html) comes from
