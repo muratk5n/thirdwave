@@ -33,9 +33,9 @@ contract for H2 made with fossil fuel-free nuclear"
 
 Lavo is a great company, their chief scientist is a true genius. 
 
-H2 Fuel News: "Hydrogen storage systems company LAVO has received a A$5m ($3.4m)
-boost to start-up its prototyping, testing and manufacturing facility
-as it aims to scale-up production.
+H2 Fuel News: "Hydrogen storage systems company LAVO has received a [5
+million AU dollars] ($3.4m) boost to start-up its prototyping, testing
+and manufacturing facility as it aims to scale-up production.
 
 The new capital was awarded by the New South Wales (NSW) Government,
 through its Regional Job Creation Fund, with LAVO hoping to create 250
