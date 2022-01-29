@@ -96,8 +96,8 @@ Works on both natgas and green.
 100% H2 transmission on existing natgas pipeline is possible, I
 believe the main issue is the end-products; With 20% blending existing
 boilers, ovens work as if they are still taking natgas. But if
-end-products become ready for green gas soon, or for both nat and
-green, then the switch to 100% could be made at an instant.
+end-products are ready for green gas, or for both nat and green, then
+the switch to 100% could be made easily.
 
 ---
 
