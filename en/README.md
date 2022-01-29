@@ -66,7 +66,7 @@ For appliances built-in fuel-cell generates electricity from H2.
 
 ---
 
-Here I found the insulating material for ya
+Here I even picked the insulating material for ya
 
 <img width="200" src="https://pbs.twimg.com/media/FKLLpbWXIAQh8Xi?format=png&name=small"/>
 
