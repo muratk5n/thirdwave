@@ -77,7 +77,7 @@ the insulation of a vacuum in a board shape"
 
 Company idea: build H2-ready tiny houses. Ready for H2 pipeline, or
 gas canisters (with an option to generate and store on site). Cld be a
-profitable bidness.. They can be shipped, exported even right?
+profitable bidness.. TH can be shipped, exported even right?
 
 ---
 
