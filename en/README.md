@@ -72,10 +72,9 @@ the insulation of a vacuum in a board shape"
 
 ---
 
-Idea for companies: producing H2-ready tiny houses. Ready for H2
-pipeline, or gas canisters (with an option to generate and store on
-site). Cld be a profitabe bidness.. Product be shipped, exported even
-right?
+Company idea: produce H2-ready tiny houses. Ready for H2 pipeline, or
+gas canisters (with an option to generate and store on site). Cld be a
+profitabe bidness.. Product be shipped, exported even right?
 
 Use some of that VIP, minimal energy for heating.
 
