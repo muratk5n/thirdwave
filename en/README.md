@@ -107,7 +107,7 @@ nuclear.
 
 ---
 
-👍 🏎️ 🏎️ 🏎️
+👍 🚗 🏍️ 🚙 🏎
 
 "Jason Momoa may be joining Vin Diesel in the next Fast & Furious flick"
 
