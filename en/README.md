@@ -57,7 +57,7 @@ get your home some gas. This is massive energy let's not forget,
 easily transportable, it's not like inferior tech Li-on
 batteries. Once at home, take empty canister out, put the full one in.
 
-Or a service in near future will deliver you full canisters, take old one.
+Or a service will deliver full canisters, take old one.
 
 Or nearby municipality will bring gas in form of pipeline. House cld
 be built for both.
