@@ -2,6 +2,11 @@
 
 ---
 
+H2 View: "Putin claims Russia can become one of the largest exporters
+of hydrogen by 2035"
+
+---
+
 H2 View: "Hydrogen internal combustion engines to be integrated into
 Werner trucks as part of new partnership with Cummins. A new
 partnership between Werner Enterprises and Cummins will see the
@@ -41,11 +46,6 @@ new jobs at the site
 H2 View: "Green hydrogen companies are going public to the delight of
 investors.. German conglomerate ThyssenKrupp is moving closer to
 announcing an initial public offering (IPO) for Nucera"
-
----
-
-H2 View: "Putin claims Russia can become one of the largest exporters
-of hydrogen by 2035"
 
 ---
 
