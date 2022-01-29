@@ -31,7 +31,8 @@ contract for H2 made with fossil fuel-free nuclear"
 
 ---
 
-Lavo is a great company, their chief scientist is a true genius. 
+Lavo is a great company, their chief scientist is a true genius. Lavo
+has close ties to academia.
 
 H2 Fuel News: "Hydrogen storage systems company LAVO has received a [5
 million AU dollars] ($3.4m) boost to start-up its prototyping, testing
