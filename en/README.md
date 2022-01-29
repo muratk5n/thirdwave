@@ -62,7 +62,7 @@ Or a service in near future will deliver you full canisters, take old one.
 Or nearby municipality will bring gas in form of pipeline. House cld
 be built for both.
 
-For other appliances built-in fuel-cell generates electricity from H2.
+For appliances built-in fuel-cell generates electricity from H2.
 
 ---
 
