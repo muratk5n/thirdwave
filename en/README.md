@@ -86,10 +86,8 @@ Use some of that VIP, minimal energy for heating.
 
 ---
 
-There are such products already. Hydrogen-ready boiler from
-[Worchester Bosch](https://www.worcester-bosch.co.uk/hydrogen).
-
-Can work on both gases.
+Hydrogen-ready boiler from [Worchester Bosch](https://www.worcester-bosch.co.uk/hydrogen).
+Works on both natgas and green.
 
 <img width="200" src="https://pbs.twimg.com/media/FKLTkmOWUAEbCfR?format=jpg&name=small"/>
 
