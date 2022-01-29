@@ -169,14 +169,6 @@ inflation in many countries right now..
 
 ---
 
-It's crazy, the point reached in tutorials previously point to the
-next step; Had splained Burgers' eq, but how it breaks down on fin
-diff, did conservatoin, continuity eq in 3D, no Riemann, Hyperbolic
-stuff. Now scalar, Riemann, andh Hyperbolic is in, and first prob that
-gets solved is Burgers'. Mucking A
-
----
-
 \#dogs \#zoom
 
 [[-]](https://twitter.com/docmilanfar/status/1486927687893487617)
