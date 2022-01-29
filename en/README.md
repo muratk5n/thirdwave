@@ -103,6 +103,12 @@ green, then the switch to 100% could be made at an instant.
 
 ---
 
+So many colors for H2 production. Green is from renewable, blue is
+from fossil plus ccs, gray is from fossil without ccs, pink is from
+nuclear. 
+
+---
+
 👍 🏎️ 🏎️ 🏎️
 
 "Jason Momoa may be joining Vin Diesel in the next Fast & Furious flick"
@@ -156,9 +162,10 @@ we go by the textbook, always the main source of inflation.
 
 ---
 
-So many colors for H2 production. Green is from renewable, blue is
-from fossil plus ccs, gray is from fossil without ccs, pink is from
-nuclear. 
+If China previously exported deflation to the rest of the world and
+now they are supposedly being cut off from the world supply
+chain.. what wld that do? Cause the reverse of deflation? There is
+inflation in many countries right now..
 
 ---
 
@@ -180,13 +187,6 @@ Interesting.. One can feel full after a proper bulgur meal,
 sure.. Must be due to those 9 aminos
 
 "Bulgur is considered a complete protein providing all nine essential amino acids"
-
----
-
-If China previously exported deflation to the rest of the world and
-now they are supposedly being cut off from the world supply
-chain.. what wld that do? Cause the reverse of deflation? There is
-inflation in many countries right now..
 
 ---
 
