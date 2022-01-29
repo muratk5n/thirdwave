@@ -16,7 +16,7 @@ vehicles, the companies revealed today"
 ---
 
 H2 View: "The Winter Olympic Games 2022 in China will be powered using
-green hydrogen as one of the “world’s largest electrolysers” begins
+green hydrogen as one of the 'world’s largest electrolysers' begins
 generating green hydrogen in Zhangjiakou"
 
 ---
