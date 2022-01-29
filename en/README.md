@@ -76,8 +76,6 @@ Company idea: produce H2-ready tiny houses. Ready for H2 pipeline, or
 gas canisters (with an option to generate and store on site). Cld be a
 profitabe bidness.. They can be shipped, exported even right?
 
-Use some of that VIP, minimal energy for heating.
-
 ---
 
 
