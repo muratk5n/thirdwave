@@ -262,7 +262,7 @@ Iranian dish... looks good
 
 ---
 
-[Grenada](2021/10/all-too-human.md#grenada)
+[Grenada](../../2021/10/all-too-human.md#grenada)
 
 ---
 
