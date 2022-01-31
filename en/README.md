@@ -75,7 +75,7 @@ wage increases cause inflation?"
 
 ---
 
-Opec oil production is down for sure.
+World / Opec oil production is down for sure.
 
 [[-]](2019/05/stats.md#opec)
 
