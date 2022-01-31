@@ -162,7 +162,7 @@ some form remained.
 
 One explanation could be US admin's emphasis on democracy scared
 autocrats in partly democratic countries, worried US will come for
-them at some point so they did their coups, "preemptive coup" if u
+them at some point so they did their coups, "preemptive coups" if u
 will, beforehand to cement their shit.. Ergo talk of spreading
 democracy caused less democracy? But then if admin did not talk about
 it, how could it push for it?
