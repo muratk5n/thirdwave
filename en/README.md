@@ -160,7 +160,7 @@ some form remained.
 
 ---
 
-One explanation could be new US admin's emphasis on democracy scared
+One explanation could be US admin's emphasis on democracy scared
 autocrats in partly democratic countries, scared US will come for them
 at some point so they did their coups beforehand to cement their
 shit.. Ergo talk of spreading democracy caused less democracy? But
