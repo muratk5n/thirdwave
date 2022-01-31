@@ -141,7 +141,7 @@ Sure Russia wld be in, but with a low score.
 
 What benefits are we talking about? Lots and lots of money..  And
 transfer of know-how. The treasure chest needs to be so large as to be
-mouth-watering... Once in, members can be ranked on their democratic
+mouth-watering... Once in, members are ranked on their democratic
 status annually , money inflow gets adjusted to the cent depending on
 the score (an average of independent agency results).. If org votes
 collectively on stuff, even each country's vote is weighted based on
