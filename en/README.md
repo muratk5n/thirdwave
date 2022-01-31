@@ -130,23 +130,22 @@ Sure Russia wld be in, but with a low score.
 ---
 
 What benefits are we talking about? Lots and lots of money..  And
-transfer of know-how (just as valuable). Their treasure chest needs to
-be so large to be mouth-watering to prospective members... Once in,
-members can be ranked on their democratic status annually , money
-inflow gets adjusted to a cent depending on the score.. If org votes
-collectively on stuff, even their vote's weight can be adjusted based
-on this score.
+transfer of know-how. The treasure chest needs to be so large as to be
+mouth-watering... Once in, members can be ranked on their democratic
+status annually , money inflow gets adjusted to a cent depending on
+the score.. If org votes collectively on stuff, even their vote's
+weight can be adjusted based on this score.
 
 ---
 
-One idea cld be a new intl org for that is not tasked with spreading
-democracy proactively, but whose members happen to, has to be
-democratic. Once countries join they get major benefits. NATO served
-that purpose for Asia Minor, they were scared of USSR, a precursor for
-joining to NATO was being a democracy, so country started the
-change. Same for Greece too probably.. Both countries fell in-and-out
-of dem at certain times, but insitutionally democracy in some form
-remained.
+Ideafication time.. A new intl org for that is not tasked with
+spreading democracy proactively, but whose members happen to, has to
+be democratic. Once countries join they get major benefits. NATO
+served that purpose for Asia Minor, they were scared of USSR, a
+precursor for joining to NATO was being a democracy, so country
+started the change. Same for Greece too probably.. Both countries fell
+in-and-out of dem at certain times, but insitutionally democracy in
+some form remained.
 
 ---
 
@@ -181,13 +180,13 @@ itself (23/1). That is hilarious.
 
 ---
 
-This expert Lukyanov talking some sense; "Putin is .. not a gambler".
+This expert talking some sense; "Putin is .. not a gambler".
 
 [[-]](https://twitter.com/Channel4News/status/1486450116454240259)
 
 ---
 
-Life and death issue is still in culture war territory. 
+Life and death issue is still in culture war territory. Fail.
 
 The Independent: "Laura Ingraham interview with policeman fired for
 opposing vaccine mandate resurfaces after he died of Covid"
