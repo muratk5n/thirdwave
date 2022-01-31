@@ -197,7 +197,7 @@ This expert talking some sense; "Putin is .. not a gambler".
 
 ---
 
-Life and death issue is still in culture war territory. Fail.
+Life and death issue is still in culture war territory.. bizarre
 
 The Independent: "Laura Ingraham interview with policeman fired for
 opposing vaccine mandate resurfaces after he died of Covid"
