@@ -148,7 +148,7 @@ Ideafication time.. A new intl org for that is not tasked with
 spreading democracy proactively, but whose members happen to / has to
 be democratic. Once countries join they get major benefits. NATO
 served that purpose for Asia Minor, they were scared of USSR, a
-precursor for joining to NATO was being a democracy, so country
+requirement for joining to NATO was being a democracy, so country
 started the change. Same for Greece too probably.. Both countries fell
 in-and-out of dem at certain times, but insitutionally democracy in
 some form remained.
