@@ -94,7 +94,7 @@ Iraq? Major uptick again post Libya 2011.
 
 ---
 
-A love for privatisation, going ga-ga for biz cld have doomed
+A love for privatization, going ga-ga for biz cld have doomed
 California's high-speed train project. States offload too much onto
 the private sector, they are not retaining the key skills in their own
 bureucracies who can plan, manage? 2014, CA outsources to a company
