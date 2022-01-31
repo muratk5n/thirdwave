@@ -106,7 +106,7 @@ candidate"
 ---
 
 🤦‍♂️ And they use this water to serve a repulsive product, sugar water,
-patently bad for health in the amounts they push ir.
+patently bad for health.
 
 "Coca-Cola has been accused of dehydrating communities in its pursuit
 of water resources to feed its own plants"
