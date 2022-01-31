@@ -89,7 +89,8 @@ Year
 
 ### Coups
 
-Based on Cline Center Coup D’état Project [Dataset](https://databank.illinois.edu/datasets/IDB-5672473)
+Worldwide annual counts of military interventions. Based on Cline Center
+Coup D’état Project [Dataset](https://databank.illinois.edu/datasets/IDB-5672473)
 
 ```python
 import pandas as pd
