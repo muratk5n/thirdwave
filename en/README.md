@@ -2,7 +2,7 @@
 
 ---
 
-Guy builds an shoddy house, and expects cheap energy to heat that
+Guy builds a shoddy house, and expects cheap energy to heat that
 house, then votes reps out who don't provide him that 'way of
 life'. That demand has repercussions down the line. Gov now needs to
 secure that (excess) energy, deploy military to secure its transport,
