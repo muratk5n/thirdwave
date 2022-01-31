@@ -880,6 +880,7 @@ url = base_fin_url + "/MTF=F?period1=" + str(start) + "&period2=" + str(end) + "
 r = urllib2.urlopen(url).read()
 file = io.BytesIO(r)
 df = pd.read_csv(file,index_col='Date',parse_dates=True)['Adj Close']
+df = df.interpolate()
 df.plot()
 plt.plot(df.tail(1).index, df.tail(1),'ro')
 print (df.tail(7))
@@ -888,13 +889,13 @@ plt.savefig('coal.png')
 
 ```text
 Date
-2022-01-07    138.500000
-2022-01-09           NaN
-2022-01-10    138.750000
-2022-01-11    135.000000
-2022-01-12    139.000000
-2022-01-13    148.600006
-2022-01-14    154.350006
+2022-01-23    162.675003
+2022-01-24    163.350006
+2022-01-25    164.250000
+2022-01-26    165.699997
+2022-01-27    165.649994
+2022-01-28    167.199997
+2022-01-30    167.199997
 Name: Adj Close, dtype: float64
 ```
 
