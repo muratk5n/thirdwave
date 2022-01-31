@@ -149,7 +149,7 @@ their dem score.
 
 ---
 
-Ideafication time.. A new intl org for that is not tasked with
+Ideafication time.. How about a new intl org that is not tasked with
 spreading democracy proactively, but whose members happen to / has to
 be democratic. Once countries join they get major benefits. NATO
 served that purpose for Asia Minor, they were scared of USSR, a
