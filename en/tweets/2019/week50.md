@@ -32,10 +32,6 @@ UK elecs are short and sweet. Good.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Statistically, you&#39;re more likely to die from Tory policy than from terrorism</p>&mdash; mostly festive bee 🐝🎄⛄🎁 (@soapachu) <a href="https://twitter.com/soapachu/status/1204295787557072896?ref_src=twsrc%5Etfw">December 10, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 Some motherfuckers are aaalways trying to ice skate uphill.
 
 "There are still those who think batteries are a viable storage solution"
