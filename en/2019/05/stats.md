@@ -704,6 +704,27 @@ Name: Close, dtype: float64
 
 ![](oil.png)
 
+<a name="gasoline"></a>
+
+Gasoline Price
+
+```python
+import pandas as pd, requests
+from datetime import date
+
+api_key = open('.eiakey').read()
+url = 'http://api.eia.gov/series/?api_key=' + api_key + '&series_id=PET.EMM_EPM0_PTE_NUS_DPG.W' 
+r = requests.get(url)
+json_data = r.json()
+df = pd.DataFrame(json_data.get('series')[0].get('data'))
+df['Date'] = pd.to_datetime(df[0])
+df = df.set_index('Date')
+df[1].plot()
+plt.savefig('gasoline.png')
+```
+
+![](gasoline.png)
+
 <a name="opec"></a>
 
 Opec Oil Production
