@@ -67,17 +67,23 @@ amount of goods, it chases after more amt of goods - no inflation.
 ---
 
 Because businesses work on credit, and credit is always newly printed
-money, when businesses hand out salaries they are handing out new
-money. That could result in inflation.
+money, so when businesses hand out salaries they are handing out that
+new money. That could result in inflation.
 
 "If printing money and handing it to people creates inflation why do
 wage increases cause inflation?"
 
 ---
 
-Gas prices were pretty high during W even higher than
-now.. Interesting, the uptrend seems to have started at around 2003 --
-after the invasion of Iraq? Major uptick again post Libya 2011.
+Opec oil production is down for sure.
+
+[[-]](2019/05/stats.md#opec)
+
+---
+
+Gas prices were high during W, even higher than now.. Interesting, the
+uptrend seems to have started at around 2003 -- after the invasion of
+Iraq? Major uptick again post Libya 2011.
 
 [[-]](2019/05/stats.md#gasoline)
 
@@ -93,7 +99,7 @@ California's high-speed train project. States offload too much onto
 the private sector, they are not retaining the key skills in their own
 bureucracies who can plan, manage? 2014, CA outsources to a company
 called Dragados, 'cost reduction' ended up costing *more*. How did
-that slip by?
+that slip by the officials?
 
 ---
 
