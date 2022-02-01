@@ -59,8 +59,6 @@ They do more than rate hikes sure, but half of what they do is
 fiddling with this thing- maybe they would have more time other
 things, I don't know, like regulation, etc. Fly-fishing, maybe?
 
-Better yet \#NOFED. \#cybercurreny
-
 ---
 
 Tech Insider

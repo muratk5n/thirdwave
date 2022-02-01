@@ -120,6 +120,30 @@ date
 
 ![](infexp.png)
 
+<a name='taylor'/>
+
+Taylor's Formula
+
+```python
+import pandas as pd, datetime
+from pandas_datareader import data
+
+today = datetime.datetime.now()
+start=datetime.datetime(1970, 1, 1)
+end=datetime.datetime(today.year, today.month, today.day)
+df = data.DataReader(['GDPC1','GDPPOT','PCEPI','FEDFUNDS'], 'fred', start, end)
+
+df = df.interpolate().resample('AS').mean()
+longrun = 2.0
+df['Gap'] = 100 * (df.GDPC1 / df.GDPPOT - 1.0)
+df['Curr'] = df.PCEPI.pct_change()*100.
+df['Taylor'] = (longrun + df.Curr + 0.5*(df.Curr - longrun) + 0.5*df.Gap) 
+df[['FEDFUNDS','Taylor']].plot()
+plt.savefig('taylor.png')
+```
+
+![](taylor.png)
+
 
 ## Wages and Unemployment
 
