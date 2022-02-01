@@ -946,6 +946,7 @@ df['Credit to GDP'].plot()
 plt.axvspan('01-09-1990', '01-07-1991', color='y', alpha=0.5, lw=0)
 plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
 plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
+plt.axvspan('2020-02-01', '2020-05-01', color='y', alpha=0.5, lw=0)
 plt.savefig('creditgdp.png')
 print (df['Credit to GDP'].tail(4))
 ```
@@ -982,15 +983,16 @@ df.debt.plot()
 plt.axvspan('01-09-1990', '01-07-1991', color='y', alpha=0.5, lw=0)
 plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
 plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
+plt.axvspan('2020-02-01', '2020-05-01', color='y', alpha=0.5, lw=0)
 plt.savefig('debt.png')
 ```
 
 ```text
 DATE
-2021-08-01    18.673741
-2021-09-01    18.785786
-2021-10-01    18.854783
-2021-11-01    19.027142
+2021-08-01    18.464180
+2021-09-01    18.368829
+2021-10-01    18.233940
+2021-11-01    18.400624
 Freq: MS, Name: debt, dtype: float64
 ```
 
