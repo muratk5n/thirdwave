@@ -122,7 +122,8 @@ feeding those ducks in a ceremony is still a big deal.
 
 UK's culture code for itself is CLASS (whereas in US it is DREAM)..A
 lot of issues are probably perceived through the prism of
-class... Parties made PM look high-society, posh class.
+class... Parties made PM look high-society, posh, although BJ himself
+doesn't come across that way. 
 
 "Partygate paradox: Why are Brits so obsessed with Boris Johnson's parties?"
 
