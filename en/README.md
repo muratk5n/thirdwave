@@ -180,7 +180,7 @@ above 6.0.
 
 ---
 
-Gina Raimondo is on the free-trader camp according to reports. Really?
+Gina Raimondo is on the free-trader camp according to reports. ??.
 Wiki says her father lost his job to outsourcing (China).
 
 ---
