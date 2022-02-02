@@ -63,6 +63,26 @@ globally in 2020"
 
 ---
 
+EU natgas also, three times the average
+
+[[-]](2019/05/stats.md#eunatgas)
+
+---
+
+Coal price still high
+
+[[-]](2019/05/stats.md#coal)
+
+---
+
+I see no reason for picking fights with fossil folk.  As long as there
+is no fracking, (natgas) flaring to generate the stuff, and they are
+not preferred over the green option, fossil-to-H2 is fine, great even,
+it will generate plenty revenue for them as it does generate plenty of
+energy for the consumers.
+
+---
+
 It wouldn't make sense for Tories to drop Johnson before the next
 election; otherwise they will look more of a party in chaos. BJ
 leaving would cap a period with two PMs gone previously having been
@@ -108,18 +128,6 @@ doesn't come across that way.
 
 ---
 
-EU natgas also, three times the average
-
-[[-]](2019/05/stats.md#eunatgas)
-
----
-
-Coal price still high
-
-[[-]](2019/05/stats.md#coal)
-
----
-
 "Portugal’s ruling centre-left Socialists won an outright parliamentary
 majority in Sunday’s snap general election, securing a strong new
 mandate for the prime minister, Antonio Costa.
@@ -129,14 +137,6 @@ coronavirus pandemic, came as a surprise after the Socialists had lost
 most of their advantage in recent opinion polls. It means Portugal
 will have a stable government to oversee the application of EU
 pandemic recovery funds"
-
----
-
-I see no reason for picking fights with fossil folk.  As long as there
-is no fracking, (natgas) flaring to generate the stuff, and they are
-not preferred over the green option, fossil-to-H2 is fine, great even,
-it will generate plenty revenue for them as it does generate plenty of
-energy for the consumers.
 
 ---
 
