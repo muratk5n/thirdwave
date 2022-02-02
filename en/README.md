@@ -129,14 +129,7 @@ doesn't come across that way.
 ---
 
 "Portugal’s ruling centre-left Socialists won an outright parliamentary
-majority in Sunday’s snap general election, securing a strong new
-mandate for the prime minister, Antonio Costa.
-
-The result, boosted by a higher than expected turnout despite the
-coronavirus pandemic, came as a surprise after the Socialists had lost
-most of their advantage in recent opinion polls. It means Portugal
-will have a stable government to oversee the application of EU
-pandemic recovery funds"
+majority in Sunday’s snap general election"
 
 ---
 
