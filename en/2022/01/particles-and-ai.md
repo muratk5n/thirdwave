@@ -75,3 +75,4 @@ projects which typically went over-time and over-budget at a rate of
 1/2. They still do. For bigger projects the failure rate is even
 higher, a whopping 4/5. 
 
+[[⇪Up]](../../2020/07/ai.md)

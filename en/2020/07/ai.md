@@ -8,3 +8,5 @@
 
 [AI Collated Comments](ai-comments.md)
 
+[Particles, Science and AI](../../2022/01/particles-and-ai.md)
+
