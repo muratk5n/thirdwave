@@ -139,6 +139,11 @@ At least one ATW per tank.. UK not fooling around..
 
 ---
 
+Forbes: "Russia has staged around 1,200 tanks for a possible invasion
+of Ukraine. That’s roughly 300 more tanks than the Ukrainian army"
+
+---
+
 "@M_B_Petersen
 
 Today, Denmark lifted *all* restrictions, while cases are soaring.
@@ -151,11 +156,6 @@ severity. While there are high case counts, the pressure on hospitals
 is lower than in previous waves"
 
 <img width="340" src="https://pbs.twimg.com/media/FKfUrEdXwAAq1tD?format=png&name=small"/>
-
----
-
-Forbes: "Russia has staged around 1,200 tanks for a possible invasion
-of Ukraine. That’s roughly 300 more tanks than the Ukrainian army"
 
 ---
 
