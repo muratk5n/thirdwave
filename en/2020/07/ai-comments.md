@@ -154,3 +154,5 @@ I am not saying human intellect can be replicated or not, or if
 Singularity is impossible. I just think we cannot know for sure right
 now. Also the way Kurzweil and his followers argue for Singularity
 just seems wrong.
+
+[[⇪Up]](ai.md)
