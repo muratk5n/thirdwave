@@ -201,12 +201,13 @@ wealth of data out there.
 
 ---
 
-Trump himself is for low rates yes. He is a supply-sider basically. As
+Trump himself often talked about low rates. He is a supply-sider basically. As
 a businessman he likes cheap money, plus an obscene demand for
 real-estate wouldn't hurt either, an indirect side-effect of ultra low
 rates. But his company didn't see the 2008 subprime crisis coming
 (they were about to go into the mortgate business right before it
-happened), have to state that.
+happened), have to state that. At the very least we need the other side
+of that trade, some ppl has to be for higher rates so the average is saner.
 
 ---
 
