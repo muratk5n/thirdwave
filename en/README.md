@@ -91,13 +91,6 @@ with a glee".
 
 ---
 
-It wouldn't make sense for Tories to drop Johnson before the next
-election; otherwise they will look more of a party in chaos. BJ
-leaving would cap a period with two PMs gone previously having been
-destroyed by Brexit, a third would say 'chaos'. 
-
----
-
 "@AmbassadorTai
 
 Eradicating forced labor is a moral and economic imperative. I am
@@ -105,6 +98,13 @@ proud to announce USTR will develop its first-ever focused trade
 strategy to combat forced labor"
 
 [[-]](https://twitter.com/AmbassadorTai/status/1486119110442377216)
+
+---
+
+It wouldn't make sense for Tories to drop Johnson before the next
+election; otherwise they will look more of a party in chaos. BJ
+leaving would cap a period with two PMs gone previously having been
+destroyed by Brexit, a third would say 'chaos'. 
 
 ---
 
