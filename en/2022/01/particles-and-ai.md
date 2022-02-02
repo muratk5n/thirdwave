@@ -20,13 +20,19 @@ reach human level intelligence. This is the belief -- yet no cigar. A
 decade ago they could be forgiven bcz the hardware "wasn't there
 yet". Now it is. Where is Artif. General Intelligence?...
 
-There is a term in FD formulas that says 'if there is a pressure
-difference between two regions there will be a force between those
-regions, from high to low'. Declerative, broad statement... works
-brilliantly. Later when we compute the FD formula we cut its field
-into little regions, and either average over them (one method), or
-look at the edge points (another method). IOW we work with things we
-can measure, and relate them, discretize later.
+One could say one of the most difficult computations in physics is the
+simulation of fluids (for which we have the proper equations for). But
+we don't use particles to simulate fluids, then why use such approach
+for "brain particles (neurons)"?... 
+
+It's all about the formula. If one looks at fluid dynamics formulas,
+there is a term there that says 'if there is a pressure difference
+between two regions there will be a force between those regions, from
+high to low'. Declerative, broad statement... works brilliantly. Later
+when we compute the FD formula we cut its field into little regions,
+and either average over them (one method), or look at the edge points
+(another method). IOW we work with things we can measure, and relate
+them, discretize later.
 
 Nature doesn't give a shit about pressure. It can send off one
 trillion particles one way, another trillion another way, the ones
@@ -36,9 +42,6 @@ cannot compete with Nature at that level... If we tried we'd have to
 create a computer as big as Nature. So we need to use our math to
 generalize, inventing relations, methods to represent better relations
 between attributes we measure....
-
-We don't use particles to simulate a fluid, we should not use such
-approach for "brain particles (neurons)" either...
 
 Some might get confused at times following the publications on compsci.
 You hear about a method called SPH, smoothed particle hydrodynamics.
