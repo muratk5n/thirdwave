@@ -262,9 +262,7 @@ bunch of rich people who do not want to see their pile of money
 Yes bank credit is printed money, brought into existence out of thin
 air.. Just type bunch of numbers on a computer, boom. New money. There
 is good reason for creating money and not simply lending out savings;
-If only savings were lent out, and businesses did well with that
-credit, econ wld grow, well, then the money base did not change along
-with that growth, same money chasing after more products, deflation.
+If only savings were lent out, growth + same money base = deflation.
 
 ---
 
