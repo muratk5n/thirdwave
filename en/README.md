@@ -254,8 +254,8 @@ when "unconventional monetary programs" were started such as QE.
 
 This is the huge mistake of goldcucks, Bitcoiners. Their system isn't
 just utopic, its econ basis is crooked. It's basically spurred by
-bunch of rich people who do not want to see their money "debased" wout
-thinking of the side effects.
+bunch of rich people who do not want to see their pile of money
+"debased" wout thinking of the side effects.
 
 ---
 
