@@ -147,12 +147,12 @@ it.
 
 ---
 
-I read somewhere once that post-WWII German intl relations *wants* to
-create dependencies with other countries. Bcz of the experience of the
-war, how its internal politics led to that, the country (its gov
-strata) feels safer to be bound in a web of relationships, the EU
-being the mother of them all. Germany loovees being in the
-EU. Interesting angle.
+Some say post-WWII German intl relations *wants* to create
+dependencies with other countries. Bcz of the experience of the war,
+how its internal politics led to that, the country (its gov strata)
+feels safer to be bound in a web of relationships, the EU being the
+mother of them all. Germany loovees being in the EU. Interesting
+angle.
 
 ---
 
