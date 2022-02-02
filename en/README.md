@@ -39,7 +39,7 @@ Daimler Truck, NextEra, LLC, and BlackRock"
 
 ---
 
-OooOOoo - interest piqued
+Oo-o-o-o-o-o - interest piqued
 
 H2 View: "Hydrogen is being explored for sustainable carbon neutral
 food production... Nel Hydrogen US.. said it has received orders for
