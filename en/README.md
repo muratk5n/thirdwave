@@ -140,10 +140,10 @@ energy for the consumers.
 
 ---
 
-Heard Macron talk abt self-sufficiency, so that line of reasoning
-probably doesnt jive with the Krauts. For energy they'd go to Russia,
-to Africa, whatever, they'll find it, and trade it, create relations
-over it.
+Macron talks abt self-sufficiency, so that line of reasoning probably
+doesnt jive with the Krauts. For energy they'd go to Russia, to
+Africa, whatever, they'll find it, and trade it, create relations over
+it.
 
 ---
 
