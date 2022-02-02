@@ -84,7 +84,7 @@ No country who is able to do CSP / solar, should go for nuclear. Especially
 in the EU.
 
 Nuke power are "tolerable" category for me, not "will support with a
-glee" category.
+glee".
 
 ---
 
