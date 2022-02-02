@@ -75,6 +75,11 @@ Coal price still high
 
 ---
 
+Around 2008 gasoline price was much higher, but inflation never went
+above 6.0.
+
+---
+
 I see no reason for picking fights with fossil folk.  As long as there
 is no fracking, (natgas) flaring to generate the stuff, and they are
 not preferred over the green option, fossil-to-H2 is fine, great even,
@@ -125,11 +130,6 @@ how its internal politics led to that, the country (its gov strata)
 feels safer to be bound in a web of relationships, the EU being the
 mother of them all. Germany loovees being in the EU. Interesting
 angle.
-
----
-
-Around 2008 gasoline price was much higher, but inflation never went
-above 6.0.
 
 ---
 
