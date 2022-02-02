@@ -20,8 +20,8 @@ hydrogen-fuelled aeroplanes and enter the market in the next 18 months"
 Vessel has 1,250 m3 capacity carries gas cooled to -253°C and
 liquefied to less than 800 times its gaseous volume.
 
-For its production fossil (coal) turned into clean fuel and
-transported cleanly. A historic day indeed.
+For the H2 production fossil (coal) was turned into clean fuel, the
+transportation is 100% clean. A historic day indeed.
 
 H2 View: "In what has been described as a historic day for Japan,
 Australia and the global energy industry, the world’s first liquid
