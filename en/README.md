@@ -166,12 +166,12 @@ Russia, to Africa, whatever, they'll find it, and trade it.
 
 ---
 
-I read somewhere that post-WWII German IR *wants* to create
-dependencies with other countries. Bcz of the experience of the war,
-how its internal politics led to that, the country (its gov strata)
-feels safer to be bound in a web of relationships, the EU being the
-mother of them all. Germany loovees to be in the EU. I thought it was
-an interesting angle.
+I read somewhere once that post-WWII German intl relations *wants* to
+create dependencies with other countries. Bcz of the experience of the
+war, how its internal politics led to that, the country (its gov
+strata) feels safer to be bound in a web of relationships, the EU
+being the mother of them all. Germany loovees to be in the EU. I
+thought it was an interesting angle.
 
 ---
 
