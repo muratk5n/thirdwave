@@ -31,27 +31,6 @@ But 'foundation models' isn’t the only title the AI community has
 given to LLMs. In a paper dating March 2021 Emily M. Bender, Timnit
 Gebru, and others called these models 'stochastic parrots.'"
 
-TIME article
-
-"Independent of whether you believe progress is slowing or not,
-increases in the speed and performance of computers do not necessarily
-imply that we will attain strong AI soon"
-
-Very true. In fact I would add the speed limit at which microprocessor
-runs an operation "linearly" has been reached already -- hence the
-industry's move to multicore architectures. In other words, we are
-seeing an exponential rise in the "total" amount of things we process,
-but we reached the limit on how fast we can execute "2+2", and that
-makes a lot of difference for hard AI. As a result we have bunch of
-silicon "brains" multiplying. But isn't that like population growth of
-say.. bugs? Bugs do processing, they multiply.. But did they reach
-Singularity? No.
-
-I am not saying human intellect can be replicated or not, or if
-Singularity is impossible. I just think we cannot know for sure right
-now. Also the way Kurzweil and his followers argue for Singularity
-just seems wrong.
-
 [Article](https://boingboing.net/2017/11/24/brute-force-vs-comprehension.html)
 
 AlphaGo Zero shows that corporate R&D has starved basic research in
@@ -130,7 +109,6 @@ shadow of what could’ve been [he quit since]. We’re not even aiming at
 creating general intelligence anymore. We’ve settled for stupid
 software that knows how to do extremely specific tasks very well"
 
-
 Alive
 
 The reason AI come alive story is used more in movies these days is
@@ -156,3 +134,23 @@ it certain way, it is standing pointing up, on the ground.. That's not
 what the phuckers are talking about. Phuckers are all about strong AI,
 singularity. That is the big delusion.
 
+TIME article
+
+"Independent of whether you believe progress is slowing or not,
+increases in the speed and performance of computers do not necessarily
+imply that we will attain strong AI soon"
+
+Very true. In fact I would add the speed limit at which microprocessor
+runs an operation "linearly" has been reached already -- hence the
+industry's move to multicore architectures. In other words, we are
+seeing an exponential rise in the "total" amount of things we process,
+but we reached the limit on how fast we can execute "2+2", and that
+makes a lot of difference for hard AI. As a result we have bunch of
+silicon "brains" multiplying. But isn't that like population growth of
+say.. bugs? Bugs do processing, they multiply.. But did they reach
+Singularity? No.
+
+I am not saying human intellect can be replicated or not, or if
+Singularity is impossible. I just think we cannot know for sure right
+now. Also the way Kurzweil and his followers argue for Singularity
+just seems wrong.
