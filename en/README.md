@@ -159,8 +159,7 @@ day.
 
 ---
 
-That number can definitely tip the balance; there is at least one ATW
-per tank.. UK not fooling around..
+At least one ATW per tank.. UK not fooling around..
 
 "UK sends 2,000 anti-tank weapons to Ukraine"
 
