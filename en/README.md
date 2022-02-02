@@ -63,25 +63,6 @@ globally in 2020"
 
 ---
 
-That number can definitely tip the balance; at least on ATW per tank.
-Brits are not fooling around.
-
-"UK sends 2,000 anti-tank weapons to Ukraine"
-
----
-
-Forbes: "Russia has staged around 1,200 tanks for a possible invasion
-of Ukraine. That’s roughly 300 more tanks than the Ukrainian army"
-
----
-
-That might have been the freakiest integration by parts application
-I've ever seen.. On a double-integral, outside-in, one IBP for one
-term, another for another term. Test function cancels out nicely and
-boom.. Impressive.
-
----
-
 It wouldn't make sense for Tories to drop Johnson before the next
 election; otherwise they will look more of a party in chaos. BJ
 leaving would cap a period with two PMs gone previously having been
@@ -185,6 +166,18 @@ Wiki says her father lost his job to outsourcing (China).
 
 ---
 
+That number can definitely tip the balance; there is at least one ATW
+per tank.. UK not fooling around..
+
+"UK sends 2,000 anti-tank weapons to Ukraine"
+
+---
+
+Forbes: "Russia has staged around 1,200 tanks for a possible invasion
+of Ukraine. That’s roughly 300 more tanks than the Ukrainian army"
+
+---
+
 Alfred Nobel never wanted an econ prize, his relatives say [kill it](2018/05/faux-nobel.md)
 today. Rabid speculators like Sholes won it before, 1997, a year before his
 hedge fund would crash using his "Nobel level" techniques, causing bunch
@@ -241,8 +234,6 @@ formula is,
 $$
 FF_t = r^\ast + \pi_t + 0.5(\pi_t - \pi^\ast ) + 0.5 Gap_t
 $$
-
-
 
 which is a simple relationship between inflation, an ideal rate, and
 GDP. Ideal rate $r^\ast$ is assumed to be 2.0, $\pi_t$ is current
