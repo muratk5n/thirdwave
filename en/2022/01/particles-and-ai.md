@@ -22,8 +22,8 @@ yet". Now it is. Where is Artif. General Intelligence?...
 
 One could say one of the most difficult computations in physics is the
 simulation of fluids (for which we have the proper equations for). But
-we don't use particles to simulate fluids, then why use such approach
-for "brain particles (neurons)"?... 
+we don't use particles to simulate fluids. Then why use such approach
+for "brain particles (neurons)"?...
 
 It's all about the formula. If one looks at fluid dynamics formulas,
 there is a term there that says 'if there is a pressure difference
@@ -43,29 +43,26 @@ create a computer as big as Nature. So we need to use our math to
 generalize, inventing relations, methods to represent better relations
 between attributes we measure....
 
-Some might get confused at times following the publications on compsci.
-You hear about a method called SPH, smoothed particle hydrodynamics.
-How is that not about particles?
+The term particle in compsci needs to be clarified.. Some hear about a
+method called SPH, smoothed particle hydrodynamics.  How is that not
+about particles? But in SPH those are not real particles, they are
+'pockets' in the fluid that are followed around. The act of following
+somewhat resembles following around a particle, that's where the P
+comes from... But look carefully, there is the Navier-Stokes formula
+lurking in there, which uses concepts such as pressure, viscosity,
+heat, concocted at a macro level, not micro. Without the formula,
+there is no SPH...
 
-But those are not real particles, they are 'pockets' in the fluid that
-are followed around. The act of following somewhat resembles following
-around a particle, that's where the P comes from... But look
-carefully, there is the Navier-Stokes formula lurking in there, which
-uses concepts such as pressure, viscosity, heat, concocted at a macro
-level, not micro. Without the formula, there is no SPH.
-
-We use mathematics to compute fluids dynamics (FD), not particles.
-True AI research should follow the same path.
-
-A lot of the "buzz" around NNs comes from S. Valley, which is full of
-IT programmers not applied math professionals. For IT programmers the
-particle, and their interactions, simulation viewpoint was
-comfortable.. Their bean counting is done discretely, item-by-item
+A lot of the NN "buzz" originates from S. Valley, which is full of IT
+programmers not applied math professionals. For IT programmers the
+particle, and their interactions, simulation viewpoint is
+comfortable. Their bean counting is done discretely, item-by-item
 basis, which makes sense you are automating an office work, keeping
-lists, checking them off...  The so-called object-orientation took
-hold in the industry possibly for this reason.  Interesting its widely
-used language C++ was based on an older language called Simula, the
-first OO language, literally built for simulations.
+lists, adding stuff, checking them off...  The so-called
+object-orientation took hold in the industry possibly for this reason.
+Interesting its widely used language C++ was based on an older
+language called Simula, the first OO language, literally built for
+simulations.
 
 With OO the idea was coders would create "Customer objects" which
 interacted with "Order objects", so the entire system would be seen as
