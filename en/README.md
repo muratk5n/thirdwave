@@ -109,12 +109,12 @@ a glee" category.
 
 ---
 
-They say that, but then there is the underlying culture, very hard to
-change.. I heard an incident dude screaming at his fellow passanger
-for graduating from Eton and telling him so. Quite recently. Or when a
-director looks at an actor immediately labels him 'posh'. And well
-there still are still the royals aren't there? For some people Queen
-feeding those ducks in a ceremony is still a big deal.
+People say many things; I am sure things are changing, but culture
+codes change very slowly.. I heard an incident where dude screamed at
+his fellow passanger for telling him he graduated from Eton. Or a
+director looks at an actor immediately labels him 'posh'. And, well
+there still are still the royals around aren't there? For some people
+Queen feeding those ducks in a ceremony is somehow reassuring.
 
 "But Brits say class is not an issue anymore"
 
