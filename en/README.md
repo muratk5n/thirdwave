@@ -154,7 +154,7 @@ pandemic recovery funds"
 
 I see no reason for picking fights with fossil folk.  As long as there
 is no fracking, (natgas) flaring to generate the stuff, and they are
-not preferred over the green option, fossil to H2 is fine, great even,
+not preferred over the green option, fossil-to-H2 is fine, great even,
 it will generate plenty revenue for them as it does generate plenty of
 energy for the consumers.
 
