@@ -181,7 +181,7 @@ at the time, he would of course.. C'mon, following a formula, raise
 when it says so? We can't have that! FOMO monkeys woud not like that.
 They like their parteh, dont want anyone to take the punch away..
 
-JT wld have likely raised in 2018, but Powell did too of course, and we
+JT wld have likely raised in 2018. Powell did too of course, and we
 all saw what happened, FOMO had their worst nightmare come alive, they
 had a collective epileptic seizure.
 
