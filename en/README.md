@@ -102,9 +102,8 @@ strategy to combat forced labor"
 ---
 
 It wouldn't make sense for Tories to drop Johnson before the next
-election; otherwise they will look more of a party in chaos. BJ
-leaving would cap a period with two PMs gone previously having been
-destroyed by Brexit, a third would say 'chaos'. 
+election. BJ leaving would cap a period with two PMs gone previously
+having been destroyed by Brexit, a third would say 'chaos'.
 
 ---
 
