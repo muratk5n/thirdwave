@@ -178,24 +178,6 @@ of Ukraine. That’s roughly 300 more tanks than the Ukrainian army"
 
 ---
 
-Alfred Nobel never wanted an econ prize, his relatives say [kill it](2018/05/faux-nobel.md)
-today. Rabid speculators like Sholes won it before, 1997, a year before his
-hedge fund would crash using his "Nobel level" techniques, causing bunch
-of collateral damage around it. 
-
----
-
-Much remains to do in econ. Until some natural sciences level stuff is
-achieved, the Nobel Prize for econ needs to be canceled. 
-
----
-
-Real potential GDP, in FRED `GDPPOT` is being tracked / calculated?
-Very cool.. For ppl who like to play with such variables there is a
-wealth of data out there.
-
----
-
 Trump himself often talked about low rates. He is a supply-sider basically. As
 a businessman he likes cheap money, plus an obscene demand for
 real-estate wouldn't hurt either, an indirect side-effect of ultra low
