@@ -107,26 +107,6 @@ having been destroyed by Brexit, a third would say 'chaos'.
 
 ---
 
-People say many things; I am sure things are changing, but culture
-codes change very slowly.. I heard an incident where dude screamed at
-his fellow passanger for telling him he graduated from Eton. Or a
-director looks at an actor immediately labels him 'posh'. And, well
-there still are still the royals around aren't there? For some people
-Queen feeding those ducks in a ceremony is somehow reassuring.
-
-"But Brits say class is not an issue anymore"
-
----
-
-UK's culture code for itself is CLASS (whereas in US it is DREAM)..A
-lot of issues are probably perceived through the prism of
-class... Parties made PM look high-society, posh, although BJ himself
-doesn't come across that way. 
-
-"Partygate paradox: Why are Brits so obsessed with Boris Johnson's parties?"
-
----
-
 "Portugal’s ruling centre-left Socialists won an outright parliamentary
 majority in Sunday’s snap general election"
 
