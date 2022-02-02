@@ -122,7 +122,7 @@ date
 
 <a name='taylor'/>
 
-Taylor's Formula
+The Taylor Rule
 
 ```python
 import pandas as pd, datetime
