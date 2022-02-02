@@ -80,11 +80,11 @@ strategy to combat forced labor"
 
 ---
 
-No country who can do CSP / solar, should go for nuclear. Especially
+No country who is able to do CSP / solar, should go for nuclear. Especially
 in the EU.
 
-Nukes are "mildly toleratable" category for me, not "will support with
-a glee" category.
+Nuke power are "tolerable" category for me, not "will support with a
+glee" category.
 
 ---
 
