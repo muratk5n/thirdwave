@@ -1,27 +1,35 @@
 # AI Collated Comments
 
-The reason AI come alive story is used more in movies these days is
-not bcz Holywood necessarily knows what the phuck is going on on the
-tech side.. They are basically repurposing the Pinoccio story for a
-new domain. The "inanimate object coming alive" angle.. that's
-all. Pinoccio for the good side, Frankenstein for the bad. Old story
-adapted to something new, wout any change in semantics.
+[Stochastic Parrrots](https://towardsdatascience.com/yet-another-largest-neural-network-but-why-f48d231972a9)
 
-Storyline preference becomes clear around the issue of identity. They
-usually portray AI as a unique, non-copyable thing... When it is
-sent somewhere it ceases to exist at the source. Why? That's not how
-software works!
+"It has happened again. Microsoft and Nvidia have built [NN] three
+times the size of GPT-3, the former holder of the title. However, in
+contrast with GPT-3, this new model hasn’t caused any commotion,
+neither in the press nor in the AI community. And there’s a reason for
+that...
 
-Spoon
+Do we really need yet another biggest neural network?.. What are the
+consequences of following the path of scaling models ad infinitum —
+for the AI community in particular, and the world in general? Wouldn’t
+it be better if we gave more space to other approaches to AI and
+artificial general intelligence (AGI)?..
 
-Cld say around topics which under weak AI category (speech recog,
-computer vision -basic pattern recognition-) some milesones were
-reached, sure. Such tech could be used in negative ways, of course,
-but factory automation has been killing people for centuries now. Any
-tool can have adverse effects. A spoon could kill you. If you fall on
-it certain way, it is standing pointing up, on the ground.. That's not
-what the phuckers are talking about. Phuckers are all about strong AI,
-singularity. That is the big delusion.
+[NN based Large language model] LLMs have been recently entitled
+'foundation models' by dozens of Stanford researchers. They argue that
+these ever-larger neural networks comprise “an emerging paradigm for
+building artificial intelligence systems.” But not all AI experts
+agree with this fancy title.
+
+Jitendra Malik, a professor of computer science at Berkeley says that
+'the term ‘foundation’ is horribly wrong.' Adding, 'The language we
+have in these models is not grounded, there is this fakeness, there is
+no real understanding.' Mark Riedl, a professor at the Georgia Tech
+School said on Twitter that “branding very large pre-trained neural
+language models as 'foundation' models is a brilliant .. PR stunt.”..
+
+But 'foundation models' isn’t the only title the AI community has
+given to LLMs. In a paper dating March 2021 Emily M. Bender, Timnit
+Gebru, and others called these models 'stochastic parrots.'"
 
 TIME article
 
@@ -110,4 +118,41 @@ kid can demand seven figures".
 This is what all my graduate students are doing now. They are tuning parameters
 on neural networks, and they are not doing science, but getting seven figures. But
 I think that's been very harmful for science.
+
+[Data, Data](https://towardsdatascience.com/5-reasons-why-i-left-the-ai-industry-2c88ea183cdd)
+
+"If you work in AI you are most likely collecting data, cleaning
+data..  evaluating with data. Data, data, data. All for a model to
+say: It’s a cat. The marketing power of AI is such that many companies
+use it without knowing why. Everyone wanted to get on the AI
+bandwagon. I liked the magical world AI promised and I’ve found a
+shadow of what could’ve been [he quit since]. We’re not even aiming at
+creating general intelligence anymore. We’ve settled for stupid
+software that knows how to do extremely specific tasks very well"
+
+
+Alive
+
+The reason AI come alive story is used more in movies these days is
+not bcz Holywood necessarily knows what the phuck is going on on the
+tech side.. They are basically repurposing the Pinoccio story for a
+new domain. The "inanimate object coming alive" angle.. that's
+all. Pinoccio for the good side, Frankenstein for the bad. Old story
+adapted to something new, wout any change in semantics.
+
+Storyline preference becomes clear around the issue of identity. They
+usually portray AI as a unique, non-copyable thing... When it is
+sent somewhere it ceases to exist at the source. Why? That's not how
+software works!
+
+Spoon
+
+Cld say around topics which under weak AI category (speech recog,
+computer vision -basic pattern recognition-) some milesones were
+reached, sure. Such tech could be used in negative ways, of course,
+but factory automation has been killing people for centuries now. Any
+tool can have adverse effects. A spoon could kill you. If you fall on
+it certain way, it is standing pointing up, on the ground.. That's not
+what the phuckers are talking about. Phuckers are all about strong AI,
+singularity. That is the big delusion.
 
