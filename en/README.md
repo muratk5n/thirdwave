@@ -178,7 +178,7 @@ considered as a FED chief.
 
 JT apparently [scared the market](https://www.cnbc.com/2017/10/27/possible-trump-fed-chair-nominee-john-taylor-scares-the-market.html)
 at the time, he would of course.. C'mon, following a formula, raise
-when it says so? We can't have that! FOMO monkeys woud not like that.
+when it says so? We can't have that! FOMO monkeys would lose their mind..
 They like their parteh, dont want anyone to take the punch away..
 
 JT wld have likely raised in 2018. Powell did too of course, and we
