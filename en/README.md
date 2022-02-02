@@ -128,13 +128,13 @@ class... Parties made PM look high-society, posh class.
 
 ---
 
-EU natgas still high, three times the average
+EU natgas also, three times the average
 
 [[-]](2019/05/stats.md#eunatgas)
 
 ---
 
-Coal price obscenely high
+Coal price still high
 
 [[-]](2019/05/stats.md#coal)
 
