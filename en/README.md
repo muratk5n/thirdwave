@@ -83,6 +83,14 @@ energy for the consumers.
 
 ---
 
+No country who is able to do CSP / solar, should go for nuclear. Especially
+in the EU.
+
+Nuke power is in the "tolerable" category for me, not "will support
+with a glee".
+
+---
+
 It wouldn't make sense for Tories to drop Johnson before the next
 election; otherwise they will look more of a party in chaos. BJ
 leaving would cap a period with two PMs gone previously having been
@@ -97,14 +105,6 @@ proud to announce USTR will develop its first-ever focused trade
 strategy to combat forced labor"
 
 [[-]](https://twitter.com/AmbassadorTai/status/1486119110442377216)
-
----
-
-No country who is able to do CSP / solar, should go for nuclear. Especially
-in the EU.
-
-Nuke power are "tolerable" category for me, not "will support with a
-glee".
 
 ---
 
