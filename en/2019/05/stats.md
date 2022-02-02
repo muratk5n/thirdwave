@@ -137,9 +137,19 @@ df = df.interpolate().resample('AS').mean()
 longrun = 2.0
 df['Gap'] = 100 * (df.GDPC1 / df.GDPPOT - 1.0)
 df['Curr'] = df.PCEPI.pct_change()*100.
-df['Taylor'] = (longrun + df.Curr + 0.5*(df.Curr - longrun) + 0.5*df.Gap) 
+df['Taylor'] = (longrun + df.Curr + 0.5*(df.Curr - longrun) + 0.5*df.Gap)
+print (df.Taylor.tail(4))
 df[['FEDFUNDS','Taylor']].plot()
 plt.savefig('taylor.png')
+```
+
+```text
+DATE
+2019-01-01    3.204024
+2020-01-01    0.156317
+2021-01-01    6.079303
+2022-01-01    4.629511
+Freq: AS-JAN, Name: Taylor, dtype: float64
 ```
 
 ![](taylor.png)

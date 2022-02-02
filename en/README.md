@@ -188,7 +188,7 @@ had a collective epileptic seizure.
 
 ---
 
-I ran the code again, it gives a fedfunds above 5.0 for today.
+I ran the code again, it gives a fedfunds around 5.0 for today.
 
 ---
 
