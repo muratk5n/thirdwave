@@ -185,13 +185,15 @@ Wiki says her father lost his job to outsourcing (China).
 
 ---
 
-Lots to do in econ; bcz not much has been done until now. Until they
-achive at natural sciences level achiements, the Nobel Prize for econ
-needs to be canceled. It should have never existed, Alfred Nobel
-didn't want it, his relatives say [kill it](2018/05/faux-nobel.md)
-now. Rabid speculators like Sholes won it before, 1997, a year before
-his hedge fund would crash using his "Nobel level" techniques, causing
-bunch of collateral damage around it. It's truly disgusting really.
+Alfred Nobel never wanted an econ prize, his relatives say [kill it](2018/05/faux-nobel.md)
+today. Rabid speculators like Sholes won it before, 1997, a year before his
+hedge fund would crash using his "Nobel level" techniques, causing bunch
+of collateral damage around it. 
+
+---
+
+Much remains to do in econ. Until some natural sciences level stuff is
+achieved, the Nobel Prize for econ needs to be canceled. 
 
 ---
 
