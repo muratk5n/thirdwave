@@ -58,7 +58,7 @@
 
 [Economy](05/economy.md)
 
-[Fake Physics](05/fake-physics.md)
+[Faux Nobel Prize for Economists](05/faux-nobel.md)
 
 [#noOccupation](05/nooccupation.md)
 

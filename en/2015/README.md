@@ -84,6 +84,8 @@
 
 [Wag the Dog](08/wag-dog.md)
 
+[Democracy Status](09/democracy-status.md)
+
 [Feed the Poor, Starve the Beast](09/feed-poor-starve-beast.md)
 
 [GIIPS and BELLs](09/giips-and-bells.md)
