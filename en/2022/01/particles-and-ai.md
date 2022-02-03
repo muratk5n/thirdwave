@@ -1,13 +1,13 @@
 # Particles, Science and AI
 
-NN Expert Yann LeCun: "The cargo cult approach to aeronautics—for
-actually building airplanes—would be to copy birds very, very closely;
-feathers, flapping wings, and all the rest. And people did this back
-in the 19th century, but with very limited success... The equivalent
-in AI is to try to copy every detail that we know of about how neurons
-and synapses work, and then turn on a gigantic simulation of a large
-neural network inside a supercomputer, and hope that AI will
-emerge. That’s cargo cult AI"
+Neural Net Expert Yann LeCun: "The cargo cult approach to
+aeronautics—for actually building airplanes—would be to copy birds
+very, very closely; feathers, flapping wings, and all the rest. And
+people did this back in the 19th century, but with very limited
+success... The equivalent in AI is to try to copy every detail that we
+know of about how neurons and synapses work, and then turn on a
+gigantic simulation of a large neural network inside a supercomputer,
+and hope that AI will emerge. That’s cargo cult AI"
 
 This statement is misleading.. With the NN approach, deep neural
 networks what came to be called "AI" today, that is *exactly* what
@@ -19,6 +19,8 @@ from tiny particles (software neurons) and build up in code, we will
 reach human level intelligence. This is the belief -- yet no cigar. A
 decade ago they could be forgiven bcz the hardware "wasn't there
 yet". Now it is. Where is Artif. General Intelligence?...
+
+Fluids
 
 One could say one of the most difficult computations in physics is the
 simulation of fluids (for which we have the proper equations for). But
@@ -53,6 +55,8 @@ lurking in there, which uses concepts such as pressure, viscosity,
 heat, concocted at a macro level, not micro. Without the formula,
 there is no SPH...
 
+Brogrammers
+
 A lot of the NN "buzz" originates from S. Valley, which is full of IT
 programmers not applied math professionals. For IT programmers the
 particle, and their interactions, simulation viewpoint is
@@ -70,6 +74,35 @@ a "simulation" btw these little particles. OO was seen as a way to be
 more "scientific" about IT software. The approach did not save
 projects which typically went over-time and over-budget at a rate of
 1/2. They still do. For bigger projects the failure rate is even
-higher, a whopping 4/5. 
+higher, a whopping 4/5.
+
+<a name='econ'/>
+
+Economics
+
+A parallel to the economics profession might be apt here; in econ
+there are "actors" -- these could be seen as particles in a fluid, or
+"neurons" in the network. There are <8 billion people, so we should be
+able to simulate their economics decisions, right? 8 billion is
+certainly a number we can handle these days on a computer.
+
+Yet this isn't done. Imagine what it would take for such a simulation;
+we start with a cool 8 billion but every decision, every interaction
+with another actor, the backdrop where this takes place increases the
+difficulty of such a computation considerably. It makes such a
+simulation almost impossible to plan.
+
+Instead, what do the economists (the good ones at least) do?
+[They](../../2018/02/keen_math.md) take broad, general measures we can
+see, measure, such as inflation, employment, credit, market conditions
+and form relationships between them, akin to using pressure,
+viscosity, density in a fluid. If the measurements are good, and the
+relations are captured correctly, this formula can then be manipulated
+to yield interesting results perhaps suggesting new relations
+previously unseen, allow discovery, concoction of functions to make
+precise calculations, predictions. The latter is science. The former,
+dreaming of the day "if I had a bigger computer" so all monkey
+particles could be accounted for and "then whole of economics will be
+simulated" is not.
 
 [[⇪Up]](../../2020/07/ai.md)
