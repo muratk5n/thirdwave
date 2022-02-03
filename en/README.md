@@ -118,8 +118,9 @@ majority in Sunday’s snap general election"
 ---
 
 So talks abt self-sufficiency, that line of reasoning probably doesnt
-jive with the Krauts. For energy they'd go to Russia, to Africa,
-whatever, they'll find it, and trade it, create relations over it.
+jive with the Krauts. They want the dependency, be enmeshed in
+them. For energy they'd go to Russia, to Africa, whatever, they'll
+find it, and trade it, create relations over it.
 
 ---
 
