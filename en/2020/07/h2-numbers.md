@@ -1,6 +1,66 @@
 # H2 Stats, Data
 
+Crude oil 44 MJ/kg
+
+Ammonia 22.5 MJ/kg
+
+Ammonia 15.6 MJ/L
+
+Petroleum 34.2 MJ/L
+
+LNG 22.2 MJ/L
+
+Density of liquid ammonia 682 kg/m³ 
+
+Density of light crude oil 875.7 kg/m3
+
+1 kg has energy of 39.7 kWh (143 MJ).
+
+At 500 bar, 33 kg H2 /m3.
+
+At 350 bars density is 28 kg/m3.
+
+At 300 bars density is 20 kg/m3.
+
+Liquid hydrogen has a density of 8 MJ/L.
+
+Gasoline has a density of 32 MJ/L. 
+
+As standard the 1 barrel (119 liter) of crude oil produce
+approximately 159 liters of petrol.
+
 H2 pipelines can carry 7 GW for 36 inch and 13 GW for 48-inch pipelines.
+
+<a name='lithium'/>
+
+Lithium
+
+There is >60kg of lithium carbonate in a 70kWh battery. 400 liters of
+water is used per kilo of lithium [7]. Water is a problem bcz while
+lithium rich water is pumped, potable water resources also shift.
+
+The entire world reserve for lithium is estimated to be ~17 million
+tonnes.
+
+According to [EIA](https://en.wikipedia.org/wiki/World_energy_consumption),
+estimated world energy consumption was 157,481 Terrawatt Hours in 2013.
+If we were to store today's energy consumption one day in batteries,
+
+```python
+consumed_one_day = (157481. / (365)) * 1e9 # Kwh
+reserves = 17.0 # mtones
+req = ((consumed_one_day / 70.0) * 60.0) / 1e9
+print ("%d mil. tons" % req)
+print ("%0.2f percent of available reserves" % ((reserves / req)*100.0) )
+```
+
+```text
+369 mil. tons
+4.60 percent of available reserves
+```
+
+.. it would require over 20 times the amount of available lithium in
+the world.
 
 <a name='driving'/>
 
@@ -26,7 +86,7 @@ print ("%0.2f mil tons needed globally" % (lit * uk_world_ratio / 1e6))
 which exceeds available lithium reserves (given that UK has 1/113th of
 world population)... 
 
-Grid and BEV
+Grid and Pipelines
 
 Pipelines can transmit 10 times the energy at one-eighth the costs
 associated with electricity transmission lines [8]. 
@@ -36,19 +96,10 @@ Gasoline
 1 gallon is 2.56 kg. In Europe the gasoline price is about 9 dollar
 per gallon, or 3.51 dollar / kg.
 
-Gasoline has a density of 32 MJ/L. 
-
 H2
 
-1 kg has energy of 39.7 kWh (143 MJ).
-
-At 500 bar, 33 kg H2 /m3.
-
-At 350 bars density is 28 kg/m3.
-
-At 300 bars density is 20 kg/m3.
-
-Liquid hydrogen has a density of 8 MJ/L.
+Green ammonia production efficiency is over 74% [12]. "Crackers" that
+generate H2 from ammonia are about 76% efficient [6].
 
 Personal Consumption
 
@@ -84,7 +135,8 @@ print ( w / (150*1000) )
 
 Solar panels
 
-Sun energy falling on Earth 
+Sun energy falling on Earth on average (accounting for day/night seasons)
+at its highest point 
 
 300 W/m2
 
@@ -106,37 +158,6 @@ so they can be considered a form of storage. The capacity of the
 German natural gas network is more than 200,000 GWh, which meets the
 requirements for several months. In comparison, the capacity of all
 the German pumped storage power plants only amounts to about 40 GWh [13].
-
-<a name='lithium'/>
-
-Lithium
-
-There is >60kg of lithium carbonate in a 70kWh battery. 400 liters of
-water is used per kilo of lithium [7]. Water is a problem bcz while
-lithium rich water is pumped, potable water resources also shift.
-
-The entire world reserve for lithium is estimated to be ~17 million
-tonnes.
-
-According to [EIA](https://en.wikipedia.org/wiki/World_energy_consumption),
-estimated world energy consumption was 157,481 Terrawatt Hours in 2013.
-If we were to store today's energy consumption one day in batteries,
-
-```python
-consumed_one_day = (157481. / (365)) * 1e9 # Kwh
-reserves = 17.0 # mtones
-req = ((consumed_one_day / 70.0) * 60.0) / 1e9
-print ("%d mil. tons" % req)
-print ("%0.2f percent of available reserves" % ((reserves / req)*100.0) )
-```
-
-```text
-369 mil. tons
-4.60 percent of available reserves
-```
-
-.. it would require over 20 times the amount of available lithium in
-the world.
 
 Desalination
 
@@ -180,35 +201,17 @@ Carbon
 A tree can absorb 25kg of CO2 per year. When burned that carbon is
 released into the air.
 
-### Ammonia
-
-Green ammonia production efficiency is over 74% [12]. "Crackers" that
-generate H2 from ammonia are about 76% efficient [6].
+Transport
 
 Largest ammonia ship 87,000 m3 [14]
+
+Largest liquid H2 ship 1,250 m3 capacity carries gas cooled to -253°C 
 
 837 crude oil tankers arrived at Japanese ports during the fiscal year 2010 [15]
 
 In 2010 Japan's imported 3.75 million barrels of crude oil a day
 
 2 million barrels of crude oil is transported with a large tanker [16] 
-
-Crude oil 44 MJ/kg
-
-Ammonia 22.5 MJ/kg
-
-Ammonia 15.6 MJ/L
-
-Petroleum 34.2 MJ/L
-
-LNG 22.2 MJ/L
-
-Density of liquid ammonia 682 kg/m³ 
-
-Density of light crude oil 875.7 kg/m3
-
-As standard the 1 barrel (119 liter) of crude oil produce
-approximately 159 liters of petrol.
 
 
 ```python
@@ -264,3 +267,4 @@ References
 
 [16] https://www.eia.gov/todayinenergy/detail.php?id=17991
 
+[17] https://www.h2-view.com/story/worlds-first-liquid-hydrogen-carrier-on-route-to-japan/
