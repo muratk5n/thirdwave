@@ -45,3 +45,17 @@ for the involvement of the Nobel Foundation in the award of this
 prize. Through the award of this central bank prize, a particular
 branch of economics..  received a significant boost internationally.
 
+[Business Insider](https://www.businessinsider.com/nassim-taleb-sue-the-swedish-central-bank-2010-10)
+
+Nassim Taleb is calling on investors to band together and sue the
+Swedish Central Bank for several of its Nobel Prize for Economics
+awards, according to Bloomberg.
+
+His reason: the prize gave legitimacy to theories that were at the
+root of the financial crisis.
+
+Taleb takes specific aim at Harry Markowitz, Merton Miller and William
+Sharpe. He says that Sharpe's theory "vastly underestimates" risks.
+
+And Taleb is willing to go it alone in his lawsuit against the Swedish
+Central Bank, "If no one else sues them, I will."
