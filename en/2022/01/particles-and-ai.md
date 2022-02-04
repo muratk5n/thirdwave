@@ -55,16 +55,19 @@ level, not micro. Without the formula, there is no SPH...
 Brogrammers
 
 A lot of the NN "buzz" originates from S. Valley, which is full of IT
-programmers not applied math professionals. Computation split into two
-cultures since its inception; one is scientific computation
-(discretizing formulas), the other business coding, w databases,
-"UI". The two cultures gathered around their own computer languages,
-Fortran for sci, Cobol for biz. These are two different ways of
-thinking about computation.. Silicon Valley is full of the latter type -
-the business brogrammers. They pretty much have zero understanding
-of science and how it is conducted. So it behooves all tech watchers
-to pay attention to that difference as the typical tech CEO is sci
-ignorant, bereft of any understanding on what makes it tick.
+programmers not applied math professionals. IT people don't understand
+mathematical programming.
+
+Computation split into two cultures almost at its inception; one is
+scientific computation (discretizing formulas), the other business
+coding, w databases, "UI". The two cultures gathered around their own
+computer languages, Fortran for sci, Cobol for biz. These are two
+different ways of thinking about computation.. Silicon Valley is full
+of the latter type - the business brogrammers. They pretty much have
+zero understanding of science and how it is conducted. So it behooves
+all tech watchers to pay attention to that difference as the typical
+tech CEO is sci ignorant, bereft of any understanding on what makes it
+tick.
 
 For IT programmers the particle, and their interactions, simulation
 viewpoint is comfortable. Their bean counting is done discretely,
