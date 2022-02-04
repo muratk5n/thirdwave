@@ -31,7 +31,7 @@ print ('10 ships %0.1f GW' % nrg)
 That is the equivalent energy of 3 nuclear plants, delivered through
 H2 and shipping. A single ship could make 3 deliveries per year (2
 months travel, 2 months back), so a fleet of 3 ships continuously
-carrying LH2 will gets you that energy.
+carrying LH2 will get you that energy.
 
 Three ships are cheaper than three nuclear plants (also less
 dangerous), plus Australia already had the production sites. What a
