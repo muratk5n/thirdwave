@@ -112,7 +112,7 @@ natural gas infrastructure exists."
 Green fuels can handle both long and short distances. For TCO and econ
 reasons it will be adopted at the exclusion of the rest. Why bother
 with two seperate tech when u can do with one? This is Betamax over
-VHS territory; VHS is coming.
+VHS territory. Tech adoption does not do participation trophies.
 
 "Batteries can do the short distances, green hydrogen can do the long distances"
 
