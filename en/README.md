@@ -189,7 +189,22 @@ project apparently. Bring it on!
 
 ---
 
-*Firefly* reboot on Disney Plus? Great. And.. don't f--k it up
+---
+
+I hear the latest install has gone overboard on overcuck
+
+"@sargentali
+
+As much as I love that Paris is Big’s final resting place, I feel
+obligated to point out that scattering ashes into the Seine is illegal
+Grimacing face Sorry Carrie Broken heart '\#andjustlikethat I got a
+€15,000 fine…'"
+
+---
+
+*Firefly* reboot on Disney Plus? Great.
+
+And.. don't f--k it up
 
 ---
 
@@ -265,7 +280,7 @@ achieved, the Nobel Prize for econ needs to be canceled.
 
 ---
 
-Real potential GDP, in FRED `GDPPOT` is being tracked. So good.. For
+Real potential GDP, in FRED `GDPPOT` is being tracked. Cool.. For
 ppl who like to play with such variables there is a wealth of data out
 there.
 
