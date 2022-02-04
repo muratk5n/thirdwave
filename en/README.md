@@ -19,10 +19,10 @@ to Japan? H2 gas compressed at -253°C has density of 71 kg/m3, using
 33.6 kWh/kg,
 
 ```python
-ship = (71*33.6*1250)
-print (ship, 'mwh single trip')
-eng = (ship * 10 / 1000) / (365*24)
-print ('10 ship arrivals per year equals to %0.1f GW' % eng)
+sh = 71*33.6*1250
+print (sh, 'mwh single trip')
+nrg = (sh * 10 / 1000) / (365*24)
+print ('10 ship arrivals per year equals to %0.1f GW' % nrg)
 ```
 
 ```text
