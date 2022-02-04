@@ -65,13 +65,13 @@ globally in 2020"
 
 EU natgas also, three times the average
 
-[[-]](2019/05/stats.md#eunatgas)
+[[-]](../../2019/05/stats.md#eunatgas)
 
 ---
 
 Coal price still high
 
-[[-]](2019/05/stats.md#coal)
+[[-]](../../2019/05/stats.md#coal)
 
 ---
 
@@ -207,7 +207,7 @@ GDP. Ideal rate $r^\ast$ is assumed to be 2.0, $\pi_t$ is current
 inflation, $\pi^\ast$ is target inflation, $Gap_t$ is the difference
 between real and potential GDP.
 
-[Result](2019/05/stats.md#taylor)
+[Result](../../2019/05/stats.md#taylor)
 
 The graphs are somewhat close, but they diverge at certain points. For
 example during the 80s (Volcker years) the FF rate was much higher

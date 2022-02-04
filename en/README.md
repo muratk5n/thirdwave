@@ -34,8 +34,7 @@ months travel, 2 months back), so a fleet of 3 ships continuously
 carrying LH2 will get you that energy.
 
 Three ships are cheaper than three nuclear plants (also less
-dangerous), plus Australia already had the production sites. What a
-slam dunk.
+dangerous), plus Australia already has the production sites.
 
 ---
 
