@@ -27,7 +27,7 @@ print ('10 ships %0.1f GW' % nrg)
 
 ```text
 2982000.0 mwh single trip
-10 ship arrivals per year equals to 3.4 GW
+10 ships 3.4 GW
 ```
 
 That is the equivalent energy of 3 nuclear plants, delivered through
