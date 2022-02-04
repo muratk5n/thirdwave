@@ -22,19 +22,17 @@ yet". Now it is. Where is Artif. General Intelligence?...
 
 Fluids
 
-One could say one of the most difficult computations in physics is the
+One could say one of the most difficult computations in physics is
 simulation of fluids (for which we have the proper equations for). But
 we don't use particles to simulate fluids. Then why use such approach
-for "brain particles (neurons)"?...
-
-It's all about the formula. If one looks at fluid dynamics formulas,
-there is a term there that says 'if there is a pressure difference
-between two regions there will be a force between those regions, from
-high to low'. Declerative, broad statement... works brilliantly. Later
-when we compute the FD formula we cut its field into little regions,
-and either average over them (one method), or look at the edge points
-(another method). IOW we work with things we can measure, and relate
-them, discretize later.
+for "brain particles (neurons)"?... It's all about the formula. If one
+looks at fluid dynamics formulas, there is a term there that says 'if
+there is a pressure difference between two regions there will be a
+force between those regions, from high to low'. Declerative, broad
+statement... Later when we compute the FD formula we cut its field
+into little regions, and either average over them (one method), or
+look at the edge points (another method). IOW we work with things we
+can measure, and relate them, discretize later.
 
 Nature doesn't give a shit about pressure. It can send off one
 trillion particles one way, another trillion another way, the ones
@@ -42,27 +40,36 @@ that hit a surface are what we see as pressure, the ones that jiggle
 too much are what we see as heat, Nature could not care less. We
 cannot compete with Nature at that level... If we tried we'd have to
 create a computer as big as Nature. So we need to use our math to
-generalize, inventing relations, methods to represent better relations
-between attributes we measure....
+generalize, inventing relations, sometimes inventing different math
+for better relations between attributes we measure....
 
 The term particle in compsci needs to be clarified.. Some hear about a
-method called SPH, smoothed particle hydrodynamics.  How is that not
-about particles? But in SPH those are not real particles, they are
-'pockets' in the fluid that are followed around. The act of following
-somewhat resembles following around a particle, that's where the P
-comes from... But look carefully, there is the Navier-Stokes formula
-lurking in there, which uses concepts such as pressure, viscosity,
-heat, concocted at a macro level, not micro. Without the formula,
-there is no SPH...
+method called SPH, smoothed particle hydrodynamics. But in SPH what's
+used are not real particles, they are 'pockets' in the fluid that are
+followed around. The act of following somewhat resembles following
+around a particle, that's where the P comes from... But look
+carefully, there is the Navier-Stokes formula lurking in there, which
+uses concepts such as pressure, viscosity, heat, concocted at a macro
+level, not micro. Without the formula, there is no SPH...
 
 Brogrammers
 
 A lot of the NN "buzz" originates from S. Valley, which is full of IT
-programmers not applied math professionals. For IT programmers the
-particle, and their interactions, simulation viewpoint is
-comfortable. Their bean counting is done discretely, item-by-item
-basis, which makes sense you are automating an office work, keeping
-lists, adding stuff, checking them off...  The so-called
+programmers not applied math professionals. Computation split into two
+cultures since its inception; one is scientific computation
+(discretizing formulas), the other business coding, w databases,
+"UI". The two cultures gathered around their own computer languages,
+Fortran for sci, Cobol for biz. These are two different ways of
+thinking about computation.. Silicon Valley is full of the latter type
+- the business brogrammers. They pretty much have zero understanding
+of science and how it is conducted. So it behooves all tech watchers
+to pay attention to that difference as the typical tech CEO is sci
+ignorant, bereft of any understanding on what makes it tick.
+
+For IT programmers the particle, and their interactions, simulation
+viewpoint is comfortable. Their bean counting is done discretely,
+item-by-item basis, which makes sense you are automating an office
+work, keeping lists, adding stuff, checking them off...  The so-called
 object-orientation took hold in the industry possibly for this reason.
 Interesting its widely used language C++ was based on an older
 language called Simula, the first OO language, literally built for
