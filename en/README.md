@@ -227,8 +227,8 @@ Doo Doo Doo Doo Doo DOOOO... Doo Doo Do-dee dooooooo ♪♬
 
 ---
 
-He fired from CNN yes, for being anti-semitic or something.. which can
-mean anything these days
+He was fired from CNN yes, for being anti-semitic or something.. which
+can mean anything these days
 
 ---
 
