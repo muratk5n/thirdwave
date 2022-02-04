@@ -22,7 +22,7 @@ to Japan? H2 gas compressed at -253°C has density of 71 kg/m3, using
 sh = 71*33.6*1250
 print (sh, 'mwh single trip')
 nrg = (sh * 10 / 1000) / (365*24)
-print ('10 ship arrivals per year equals to %0.1f GW' % nrg)
+print ('10 ships %0.1f GW' % nrg)
 ```
 
 ```text
