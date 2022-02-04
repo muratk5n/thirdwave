@@ -78,8 +78,8 @@ new agreement"
 
 ---
 
-German Greens are fine with all colors. This is good. Skeptics take
-notice.
+German Greens are fine with all colors. This is good. Skeptics shld
+take notice.
 
 DW: "Green is the color denoting the most environmentally friendly
 hydrogen because it's made with renewable energies through
