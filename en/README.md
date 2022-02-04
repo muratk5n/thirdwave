@@ -233,7 +233,7 @@ can mean anything these days
 ---
 
 Marc Lamont Hill is good on Al Jazeera. He asked tough q to an
-official on vax patents and gov funding - the guy was sweatin
+official on vax patents and gov funding - that guy was sweatin'
 
 ---
 
