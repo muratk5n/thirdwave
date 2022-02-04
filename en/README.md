@@ -197,8 +197,7 @@ I hear the latest install has gone overboard on overcuck
 
 As much as I love that Paris is Big’s final resting place, I feel
 obligated to point out that scattering ashes into the Seine is illegal
-Grimacing face Sorry Carrie Broken heart '\#andjustlikethat I got a
-€15,000 fine…'"
+Grimacing face Sorry Carrie '\#andjustlikethat I got a €15,000 fine…'"
 
 ---
 
