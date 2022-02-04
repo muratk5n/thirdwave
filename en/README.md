@@ -188,8 +188,6 @@ project apparently. Bring it on!
 
 ---
 
----
-
 I hear the latest install has gone overboard on overcuck
 
 "@sargentali
