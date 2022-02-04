@@ -142,4 +142,5 @@ different (and just as complicated) function. It is a complete mess to
 manage from the other direction. People need to get a paper and pencil
 and start thinking things through, at a more fundamental level.
 
+[[⇪Up]](../../2020/07/ai.md)
 

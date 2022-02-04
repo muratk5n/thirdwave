@@ -2,6 +2,10 @@
 
 François Chollet
 
+[Chollet is an ML engineer at Google, also is the creator of the open
+source deep-learning library Keras. Extremely useful tool, I've used
+it along with many other practitioners in the field]
+
 [Answering the question on Quora] In many respects, it is. For sure,
 the recent successes of deep learning have been amazing: we went from
 being really terrible at supervised learning on perceptual problems
@@ -48,10 +52,6 @@ understand still massively outnumber the things that we do understand,
 and while we are standing one step closer to general AI than we did
 ten years ago, it's only by a small increment.
 
-https://qr.ae/pGlN39
+[[-]](https://qr.ae/pGlN39)
 
----
-
-Chollet is an ML engineer at Google, also is the creator of the open
-source deep-learning library Keras. Extremely useful tool, I've used
-it along with many other practitioners in the field.
+[[⇪Up]](../../2020/07/ai.md)
