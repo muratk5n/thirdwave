@@ -227,6 +227,16 @@ Doo Doo Doo Doo Doo DOOOO... Doo Doo Do-dee dooooooo ♪♬
 
 ---
 
+He fired form CNN yes, for being anti-semitic or something.. which can
+mean anything these days
+
+---
+
+Marc Lamont Hill is good on Al Jazeera. He asked tough q to an
+official on vax patents and gov funding - the guy was sweatin
+
+---
+
 Didn't Renzi try a constitution change once, was it around this issue?
 If yes, someone should pick that up again. Actually just do the
 change, ask ppl later if they liked it.
