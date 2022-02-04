@@ -2,6 +2,237 @@
 
 ---
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Port of Louisiana, <a href="https://twitter.com/hashtag/US?src=hash&amp;ref_src=twsrc%5Etfw">#US</a>, will gain a new <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> and <a href="https://twitter.com/hashtag/ammonia?src=hash&amp;ref_src=twsrc%5Etfw">#ammonia</a> production facility, revealed today (Jan 31) as a means to provide zero-carbon fuel for the shipping industry and energy transfer.<a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/H2View?src=hash&amp;ref_src=twsrc%5Etfw">#H2View</a><a href="https://t.co/GwYwa3mSpB">https://t.co/GwYwa3mSpB</a></p>&mdash; H2 View (@h2_view) <a href="https://twitter.com/h2_view/status/1488171610137894913?ref_src=twsrc%5Etfw">January 31, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+H2 View: "Scitem portable hydrogen-powered generator to hit Japanese
+market.. The unit looks somewhat like a briefcase and allows users to
+source power from replaceable H2 cannisters"
+
+---
+
+H2 View: "Aviation H2 opens to investors to support development of
+hydrogen-fuelled aeroplanes and enter the market in the next 18 months"
+
+---
+
+Vessel has 1,250 m3 capacity carries gas cooled to -253°C and
+liquefied to less than 800 times its gaseous volume.
+
+For the H2 production fossil (coal) was turned into clean fuel, the
+transportation is 100% clean. A historic day indeed.
+
+H2 View: "In what has been described as a historic day for Japan,
+Australia and the global energy industry, the world’s first liquid
+hydrogen carrier last week left the Port of Victoria and started its
+journey to Kobe, Japan...
+
+Designed by Kawasaki Heavy Industries, the carrier will safely
+transport large quantities of liquid hydrogen produced in Australia
+from Latrobe Valley coal and biomass via gasification"
+
+---
+
+H2 Fuel News: "Hydrogen refuelling network to be developed in the US by
+Daimler Truck, NextEra, LLC, and BlackRock"
+
+---
+
+Oo-o-o-o-o-o - interest piqued
+
+H2 View: "Hydrogen is being explored for sustainable carbon neutral
+food production... Nel Hydrogen US.. said it has received orders for
+multiple PEM electrolysers for such production.
+
+The company looking to cut food production emissions with hydrogen has
+not been disclosed, however, Nel said the order came from a leader in
+the commercialisation of sustainable protein technology"
+
+---
+
+IEA: ""Globally, 142 bcm of natural gas was flared in 2020 – roughly
+equivalent to the natural gas demand of Central and South
+America. This resulted in around 265 Mt CO2, nearly 8 Mt of methane
+(240 Mt CO2-eq) and black soot and other GHGs being directly emitted
+into the atmosphere. Five countries (Russia, Iraq, Iran, the United
+States and Algeria) accounted for more than half of all volumes flared
+globally in 2020"
+
+[[-]](https://www.iea.org/fuels-and-technologies/gas)
+
+---
+
+EU natgas also, three times the average
+
+[[-]](2019/05/stats.md#eunatgas)
+
+---
+
+Coal price still high
+
+[[-]](2019/05/stats.md#coal)
+
+---
+
+Around 2008 gasoline price was much higher, but inflation never went
+above 6.0.
+
+---
+
+I see no reason for picking fights with fossil folk.  As long as there
+is no fracking, (natgas) flaring to generate the stuff, and they are
+not preferred over the green option, fossil-to-H2 is fine, great even,
+it will generate plenty revenue for them as it does generate plenty of
+energy for the consumers.
+
+---
+
+No country who is able to do CSP / solar, should go for nuclear. Especially
+in the EU.
+
+Nuke power is in the "tolerable" category for me, not "will support
+with a glee".
+
+---
+
+"@AmbassadorTai
+
+Eradicating forced labor is a moral and economic imperative. I am
+proud to announce USTR will develop its first-ever focused trade
+strategy to combat forced labor"
+
+[[-]](https://twitter.com/AmbassadorTai/status/1486119110442377216)
+
+---
+
+It wouldn't make sense for Tories to drop Johnson before the next
+election. BJ leaving would cap a period with two PMs gone previously
+having been destroyed by Brexit, a third would say 'chaos'.
+
+---
+
+"Portugal’s ruling centre-left Socialists won an outright parliamentary
+majority in Sunday’s snap general election"
+
+---
+
+So talks abt self-sufficiency, that line of reasoning probably doesnt
+jive with the Krauts. They want the dependency, be enmeshed in
+them. For energy they'd go to Russia, to Africa, whatever, they'll
+find it, and trade it, create relations over it.
+
+---
+
+Some say post-WWII German intl relations *wants* to create
+dependencies with other countries. Bcz of the experience of the war,
+how its internal politics led to that, the country (its gov strata)
+feels safer to be bound in a web of relationships, the EU being the
+mother of them all. Germany loovees being in the EU. Interesting
+angle.
+
+---
+
+At least one ATW per tank.. UK not fooling around..
+
+"UK sends 2,000 anti-tank weapons to Ukraine"
+
+---
+
+Forbes: "Russia has staged around 1,200 tanks for a possible invasion
+of Ukraine. That’s roughly 300 more tanks than the Ukrainian army"
+
+---
+
+"@M_B_Petersen
+
+Today, Denmark lifted *all* restrictions, while cases are soaring.
+
+The international reaction: Disbelief...
+
+[V]irtually all infections in Denmark are now omicron. The combination
+of omicron and high booster coverage decouples infection and
+severity. While there are high case counts, the pressure on hospitals
+is lower than in previous waves"
+
+<img width="340" src="https://pbs.twimg.com/media/FKfUrEdXwAAq1tD?format=png&name=small"/>
+
+---
+
+Trump did talk about low rates. He is a supply-sider basically. As a
+businessman he likes cheap money, plus an obscene demand for
+real-estate wouldn't hurt either, an indirect side-effect of ultra low
+rates. But his company didn't see the 2008 subprime crisis coming
+(they were about to go into the mortgate business right before it
+happened), have to state that. At the very least we need the other
+side of that trade, some ppl has to be for higher rates so the average
+is saner.
+
+---
+
+[Link](https://drive.google.com/uc?export=view&id=1IxacYfL0ZIRPgQ4MR3ZWclmulwye-G9l)
+
+---
+
+Taylor Rule as in the economist John Taylor who Trump briefly
+considered as a FED chief.
+
+JT apparently [scared the market](https://www.cnbc.com/2017/10/27/possible-trump-fed-chair-nominee-john-taylor-scares-the-market.html)
+at the time, he would of course.. C'mon, following a formula, raise
+when it says so? We can't have that! FOMO monkeys would lose their mind..
+They like their parteh, dont want anyone to take the punch away..
+
+JT wld have likely raised in 2018. Powell did too of course, and we
+all saw what happened, FOMO had their worst nightmare come alive, they
+had a collective epileptic seizure.
+
+---
+
+I ran the code again, it gives a fedfunds around 5.0 for today.
+
+---
+
+Reshare from 2016
+
+There is the so-called Taylor Rule that calculates an optimal level
+for the FED funds rate The
+formula is,
+
+$$
+FF_t = r^\ast + \pi_t + 0.5(\pi_t - \pi^\ast ) + 0.5 Gap_t
+$$
+
+which is a simple relationship between inflation, an ideal rate, and
+GDP. Ideal rate $r^\ast$ is assumed to be 2.0, $\pi_t$ is current
+inflation, $\pi^\ast$ is target inflation, $Gap_t$ is the difference
+between real and potential GDP.
+
+[Result](2019/05/stats.md#taylor)
+
+The graphs are somewhat close, but they diverge at certain points. For
+example during the 80s (Volcker years) the FF rate was much higher
+than necessary. In the early 2000s, Taylor Rule prescribes higher
+rate, but FF was much lower. Lower-than-necessary rates was one of the
+main causes of the subprime crisis, as everyone knows. 2009 is weird,
+here Taylor Rule says "go negative" - and this is precisely the time
+when "unconventional monetary programs" were started such as QE.
+
+---
+
+This is the huge mistake of goldcucks, Bitcoiners. Their system isn't
+just utopic, its econ basis is crooked. It's basically spurred by
+bunch of rich people who do not want to see their pile of money
+"debased" wout thinking of the side effects.
+
+---
+
+Yes bank credit is printed money, brought into existence out of thin
+air.. Just type bunch of numbers on a computer, boom. New money. There
+is good reason for creating money and not simply lending out savings;
+If only savings were lent out, growth + same money base = deflation.
+
+---
+
 Guy builds a shoddy house, and expects cheap energy to heat that
 house, then votes reps out who don't provide him that 'way of
 life'. That demand has repercussions down the line. Gov now needs to

@@ -2,234 +2,277 @@
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Port of Louisiana, <a href="https://twitter.com/hashtag/US?src=hash&amp;ref_src=twsrc%5Etfw">#US</a>, will gain a new <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> and <a href="https://twitter.com/hashtag/ammonia?src=hash&amp;ref_src=twsrc%5Etfw">#ammonia</a> production facility, revealed today (Jan 31) as a means to provide zero-carbon fuel for the shipping industry and energy transfer.<a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/H2View?src=hash&amp;ref_src=twsrc%5Etfw">#H2View</a><a href="https://t.co/GwYwa3mSpB">https://t.co/GwYwa3mSpB</a></p>&mdash; H2 View (@h2_view) <a href="https://twitter.com/h2_view/status/1488171610137894913?ref_src=twsrc%5Etfw">January 31, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Australia is set to become world’s first exporter of liquefied hydrogen after this purpose-built ship docked at Victoria Port to carry 1,250 cubic metres of super-cooled (-253°C) liquid hydrogen to Kobe, Japan. <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/hydrogennews?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennews</a> <a href="https://twitter.com/hashtag/RyzeHydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#RyzeHydrogen</a><a href="https://t.co/lzldYk63I4">https://t.co/lzldYk63I4</a></p>&mdash; Ryze Hydrogen: Zero-emission fuel technologies (@ryzehydrogen) <a href="https://twitter.com/ryzehydrogen/status/1485502618575282178?ref_src=twsrc%5Etfw">January 24, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-H2 View: "Scitem portable hydrogen-powered generator to hit Japanese
-market.. The unit looks somewhat like a briefcase and allows users to
-source power from replaceable H2 cannisters"
+In year 2010, 837 crude oil tankers arrived at Japanese ports
+[[pdf](https://iea.blob.core.windows.net/assets/00cf6755-2976-4cd8-be5d-1c27b13d7df3/2013_OSS_Japan.pdf)].
+Clearly such traffic is manageable.
+
+Hopefully soon those will be LH2, ammonia tankers.
 
 ---
 
-H2 View: "Aviation H2 opens to investors to support development of
-hydrogen-fuelled aeroplanes and enter the market in the next 18 months"
+What is the capacity of that Kawasaki ship carrying liquid H2 from Oz
+to Japan? H2 gas compressed at -253°C has density of 71 kg/m3, using
+33.6 kWh/kg,
+
+```python
+ship = (71*33.6*1250)
+print (ship, 'mwh single trip')
+eng = (ship * 10 / 1000) / (365*24)
+print ('10 ship arrivals per year equals to %0.1f GW' % eng)
+```
+
+```text
+2982000.0 mwh single trip
+10 ship arrivals per year equals to 3.4 GW
+```
+
+That is the equivalent energy of 3 nuclear plants, delivered through
+H2 and shipping. A single ship could make 3 deliveries per year (2
+months travel, 2 months back), so a fleet of 3 ships continuously
+carrying LH2 will gets you that energy.
+
+Three ships are cheaper than three nuclear plants (less dangerous
+too), and [Oz already has production sites. What a slam dunk.
 
 ---
 
-Vessel has 1,250 m3 capacity carries gas cooled to -253°C and
-liquefied to less than 800 times its gaseous volume.
-
-For the H2 production fossil (coal) was turned into clean fuel, the
-transportation is 100% clean. A historic day indeed.
-
-H2 View: "In what has been described as a historic day for Japan,
-Australia and the global energy industry, the world’s first liquid
-hydrogen carrier last week left the Port of Victoria and started its
-journey to Kobe, Japan...
-
-Designed by Kawasaki Heavy Industries, the carrier will safely
-transport large quantities of liquid hydrogen produced in Australia
-from Latrobe Valley coal and biomass via gasification"
+H2 View: "A revolutionary new technology could be one of the “most
+efficient methods” of transporting clean hydrogen within a 1,000-mile
+radius..  The newly patented *Pipe-within-a-Pipe* technology.. can
+efficiently transport hydrogen up to 1,000 miles inside virtually any
+existing oil and gas pipeline, water pipe, sewer line, storm
+drain.. [A] pipe is located inside a slightly larger diameter one,
+referred to as a “safety pipe” that runs an inert gas in between the
+two pipes to constantly sweep for hydrogen molecules"
 
 ---
 
-H2 Fuel News: "Hydrogen refuelling network to be developed in the US by
+"@fuelcellsworks
+
+With Germany setting up hydrogen offices from Moscow to Riyadh, one
+would think the government is banking on the gas being the new
+\#petroleum"
+
+<img width="80%" src="https://pbs.twimg.com/media/FKm4pe3WYAMkl-v?format=png&name=small"/>
+
+[[-]](https://bit.ly/3AV1kvm)
+
+---
+
+H2 View: "Hydrogen refuelling network to be developed in the US by
 Daimler Truck, NextEra, LLC, and BlackRock"
 
 ---
 
-Oo-o-o-o-o-o - interest piqued
-
-H2 View: "Hydrogen is being explored for sustainable carbon neutral
-food production... Nel Hydrogen US.. said it has received orders for
-multiple PEM electrolysers for such production.
-
-The company looking to cut food production emissions with hydrogen has
-not been disclosed, however, Nel said the order came from a leader in
-the commercialisation of sustainable protein technology"
+H2 View: "India has started blending hydrogen into a City Gas
+Distribution (CGD) network as the nation begins to ramp up hydrogen
+adoption and accelerate its decarbonisation efforts"
 
 ---
 
-IEA: ""Globally, 142 bcm of natural gas was flared in 2020 – roughly
-equivalent to the natural gas demand of Central and South
-America. This resulted in around 265 Mt CO2, nearly 8 Mt of methane
-(240 Mt CO2-eq) and black soot and other GHGs being directly emitted
-into the atmosphere. Five countries (Russia, Iraq, Iran, the United
-States and Algeria) accounted for more than half of all volumes flared
-globally in 2020"
-
-[[-]](https://www.iea.org/fuels-and-technologies/gas)
+H2 View: "France to gain hydrogen-powered regional aircraft as part of
+new agreement"
 
 ---
 
-EU natgas also, three times the average
+German Greens are fine with all colors BTW, whether from fossil or
+somewhere else.
 
-[[-]](2019/05/stats.md#eunatgas)
+DW: "Green is the color denoting the most environmentally friendly
+hydrogen because it's made with renewable energies through
+electrolysis and entirely free of CO2 emissions. Furthermore, there is
+"blue hydrogen," which is derived from fossil gas but considered low
+carbon because it uses carbon capture and storage (CCS) technology to
+bury the related CO2 emissions underground. And finally, there's
+"turquoise hydrogen," which is manufactured using natural gas
+pyrolysis, a process that creates solid carbon as a byproduct instead
+of CO2.
 
----
-
-Coal price still high
-
-[[-]](2019/05/stats.md#coal)
-
----
-
-Around 2008 gasoline price was much higher, but inflation never went
-above 6.0.
-
----
-
-I see no reason for picking fights with fossil folk.  As long as there
-is no fracking, (natgas) flaring to generate the stuff, and they are
-not preferred over the green option, fossil-to-H2 is fine, great even,
-it will generate plenty revenue for them as it does generate plenty of
-energy for the consumers.
+Like Germany's liberals, the European Commission has acknowledged all
+four types of hydrogen are important for achieving carbon neutrality,
+saying fossil-based H2 with carbon storage is a crucial stepping stone
+in growing the hydrogen market in its early stages"
 
 ---
 
-No country who is able to do CSP / solar, should go for nuclear. Especially
-in the EU.
+Another color.
 
-Nuke power is in the "tolerable" category for me, not "will support
-with a glee".
-
----
-
-"@AmbassadorTai
-
-Eradicating forced labor is a moral and economic imperative. I am
-proud to announce USTR will develop its first-ever focused trade
-strategy to combat forced labor"
-
-[[-]](https://twitter.com/AmbassadorTai/status/1486119110442377216)
+H2 View: "[Ekona's 'turquise H2' tech] uses heat recovery and
+combustion to generate the heat energy and high temperatures that are
+required to drive the methane splitting reaction. In addition to this,
+the platform is low-cost, scalable, and can be flexibly sited wherever
+natural gas infrastructure exists."
 
 ---
 
-It wouldn't make sense for Tories to drop Johnson before the next
-election. BJ leaving would cap a period with two PMs gone previously
-having been destroyed by Brexit, a third would say 'chaos'.
+Green fuels can handle both long and short distances. For TCO and econ
+reasons it will be adopted at the exclusion of the rest. Why bother
+with two seperate tech when u can do with one? This is Betamax over
+VHS territory; VHS is coming.
+
+"Batteries can do the short distances, green hydrogen can do the long distances"
 
 ---
 
-"Portugal’s ruling centre-left Socialists won an outright parliamentary
-majority in Sunday’s snap general election"
+But of course it's good to fix shipping as well as everything else. 
+
+"Shipping..  [is responsible for 1.7% of] emissions.. This includes
+both passenger and freight maritime trips."
+
+[[-]](https://ourworldindata.org/emissions-by-sector)
 
 ---
 
-So talks abt self-sufficiency, that line of reasoning probably doesnt
-jive with the Krauts. They want the dependency, be enmeshed in
-them. For energy they'd go to Russia, to Africa, whatever, they'll
-find it, and trade it, create relations over it.
+H2 View: "A major breakthrough in the hydrogen fuel cell industry has
+been achieved with Chart Industries and Ballard Power Systems
+successfully testing a fuel cell powered by liquid hydrogen... With
+this, using liquid hydrogen could allow for up to double the range
+without space claim and payload impacts, and simplified fuelling
+infrastructure for heavy-duty mobility applications such as class-8
+trucks, buses, rail, and marine"
 
 ---
 
-Some say post-WWII German intl relations *wants* to create
-dependencies with other countries. Bcz of the experience of the war,
-how its internal politics led to that, the country (its gov strata)
-feels safer to be bound in a web of relationships, the EU being the
-mother of them all. Germany loovees being in the EU. Interesting
-angle.
+Likes H2 doesn't like crypto. 👍
+
+"Forrest, ... chairman of Fortescue Metals Group, said he was taking
+the action to stop people losing money to clickbait advertising scams,
+such as ones using his image to promote cryptocurrency schemes [and is
+suing Meta]"
 
 ---
 
-At least one ATW per tank.. UK not fooling around..
-
-"UK sends 2,000 anti-tank weapons to Ukraine"
-
----
-
-Forbes: "Russia has staged around 1,200 tanks for a possible invasion
-of Ukraine. That’s roughly 300 more tanks than the Ukrainian army"
+"World’s largest green hydrogen project, with 150MW electrolyser,
+brought on line in China"
 
 ---
 
-"@M_B_Petersen
+Offshore production is dangerous. The ship/offshore setup is weird,
+processing is on the ship? Then the ship sinks. Let's not have any
+fossil on any ships. No fossil on any transport. No offshore. No
+fracking. No flaring. Green fuels only.
 
-Today, Denmark lifted *all* restrictions, while cases are soaring.
-
-The international reaction: Disbelief...
-
-[V]irtually all infections in Denmark are now omicron. The combination
-of omicron and high booster coverage decouples infection and
-severity. While there are high case counts, the pressure on hospitals
-is lower than in previous waves"
-
-<img width="340" src="https://pbs.twimg.com/media/FKfUrEdXwAAq1tD?format=png&name=small"/>
+Yahoo! News: "Two-million-barrel oil tanker 'explodes' off Nigeria's
+coast.. The Trinity Spirit is a type of ship used by the offshore oil
+and gas industry for the production and processing and storage of
+oil. These models have a similar function to larger oil rigs"
 
 ---
 
-Trump did talk about low rates. He is a supply-sider basically. As a
-businessman he likes cheap money, plus an obscene demand for
-real-estate wouldn't hurt either, an indirect side-effect of ultra low
-rates. But his company didn't see the 2008 subprime crisis coming
-(they were about to go into the mortgate business right before it
-happened), have to state that. At the very least we need the other
-side of that trade, some ppl has to be for higher rates so the average
-is saner.
+Apparently a pipeline broke.. This is what happens when u transport
+fossil! 
+
+Al Jazeera: "Some 6,300 barrels of oil leaked into a natural reserve
+in Ecuador in a protected area of the Amazon"
 
 ---
 
-[Link](https://drive.google.com/uc?export=view&id=1IxacYfL0ZIRPgQ4MR3ZWclmulwye-G9l)
+Maybe a [parallel to econ](2022/01/particles-and-ai.md) will help
+
+"I still dont get the comment on the particle / formula distinction"
 
 ---
 
-Taylor Rule as in the economist John Taylor who Trump briefly
-considered as a FED chief.
-
-JT apparently [scared the market](https://www.cnbc.com/2017/10/27/possible-trump-fed-chair-nominee-john-taylor-scares-the-market.html)
-at the time, he would of course.. C'mon, following a formula, raise
-when it says so? We can't have that! FOMO monkeys would lose their mind..
-They like their parteh, dont want anyone to take the punch away..
-
-JT wld have likely raised in 2018. Powell did too of course, and we
-all saw what happened, FOMO had their worst nightmare come alive, they
-had a collective epileptic seizure.
+Trick for pickled vegs; sometimes mfkers overdo the vinegar, or lemon
+in the preserving liquid, so drain, poke some holes on vegs with fork,
+then put fresh water in its place. Works. The liq inside veg will seep
+out back to the water, overall same flavor but lighter. 
 
 ---
 
-I ran the code again, it gives a fedfunds around 5.0 for today.
+New scifi show in the works? *The Ark*? Some Stargate names are attached to the
+project apparently. Bring it on!
 
 ---
 
-Reshare from 2016
-
-There is the so-called Taylor Rule that calculates an optimal level
-for the FED funds rate The
-formula is,
-
-$$
-FF_t = r^\ast + \pi_t + 0.5(\pi_t - \pi^\ast ) + 0.5 Gap_t
-$$
-
-which is a simple relationship between inflation, an ideal rate, and
-GDP. Ideal rate $r^\ast$ is assumed to be 2.0, $\pi_t$ is current
-inflation, $\pi^\ast$ is target inflation, $Gap_t$ is the difference
-between real and potential GDP.
-
-[Result](2019/05/stats.md#taylor)
-
-The graphs are somewhat close, but they diverge at certain points. For
-example during the 80s (Volcker years) the FF rate was much higher
-than necessary. In the early 2000s, Taylor Rule prescribes higher
-rate, but FF was much lower. Lower-than-necessary rates was one of the
-main causes of the subprime crisis, as everyone knows. 2009 is weird,
-here Taylor Rule says "go negative" - and this is precisely the time
-when "unconventional monetary programs" were started such as QE.
+*Firefly* reboot on Disney Plus? Great. And.. don't f--k it up
 
 ---
 
-This is the huge mistake of goldcucks, Bitcoiners. Their system isn't
-just utopic, its econ basis is crooked. It's basically spurred by
-bunch of rich people who do not want to see their pile of money
-"debased" wout thinking of the side effects.
+Hamilton Bohannon - The Pimp Walk \#music
+
+[[-]](https://youtu.be/IA__y-YEBhE)
 
 ---
 
-Yes bank credit is printed money, brought into existence out of thin
-air.. Just type bunch of numbers on a computer, boom. New money. There
-is good reason for creating money and not simply lending out savings;
-If only savings were lent out, growth + same money base = deflation.
+Is the great theme music era over? Magnum PI, Hawaii 5-O. That was
+some great theme music..
+
+Doo Doo Doo Doo Doo DOOOO... Doo Doo Do-dee dooooooo ♪♬
+
+---
+
+😂 😂 
+
+\#internetOfShit
+
+[[-]](https://twitter.com/isislovecruft/status/1487947074901463040)
+
+---
+
+Didn't Renzi try a constitution change once, was it around this issue?
+If yes, someone should pick that up again. Actually just do the
+change, ask ppl later if they liked it.
+
+---
+
+Let people chose reps, fine.. I am against asking them on policies.
+
+---
+
+Italian parliament cld switch to a ranked-choice voting, that way
+someone is chosen for Prez for sure.
+
+Or let people elect the President direct, like Renzi said...
+
+---
+
+People say many things; I am sure things are changing, but culture
+codes change very slowly..
+
+"But Brits say class is not an issue anymore"
+
+---
+
+UK's culture code for itself is CLASS (whereas in US it is DREAM)..A
+lot of issues are probably perceived through the prism of
+class... Parties made PM look high-society, posh, although BJ himself
+doesn't come across that way. 
+
+"Partygate paradox: Why are Brits so obsessed with Boris Johnson's parties?"
+
+---
+
+Gina Raimondo is on the free-trader camp according to reports. ??.
+Wiki says her father lost his job to outsourcing (China) back in the
+day.
+
+---
+
+Alfred Nobel never wanted an econ prize, his relatives say [kill it](2018/05/faux-nobel.md)
+today. Rabid speculators like Sholes won it before, 1997, a year before his
+hedge fund would crash using his "Nobel level" techniques, causing bunch
+of collateral damage around it. 
+
+---
+
+Much remains to do in econ. Until some natural sciences level stuff is
+achieved, the Nobel Prize for econ needs to be canceled. 
+
+---
+
+Real potential GDP, in FRED `GDPPOT` is being tracked. So good.. For
+ppl who like to play with such variables there is a wealth of data out
+there.
+
+---
+
+According to Fed's Fred covid recession only lasted for two months,
+Feb 2020 - Apr 2020. Seems short.
 
 ---
 
