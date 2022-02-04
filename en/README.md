@@ -185,7 +185,7 @@ back to the water, overall same flavor but lighter.
 ---
 
 New scifi show in the works? *The Ark*? Some Stargate names are attached to the
-project apparently. Bring it on!
+project apparently. Could be good..
 
 ---
 
