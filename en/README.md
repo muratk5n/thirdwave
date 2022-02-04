@@ -78,7 +78,7 @@ new agreement"
 
 ---
 
-German Greens are fine with all colors. This is good. Skeptics shld
+German Greens are fine with all colors. Skeptics shld
 take notice.
 
 DW: "Green is the color denoting the most environmentally friendly
