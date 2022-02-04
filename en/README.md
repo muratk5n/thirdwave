@@ -8,6 +8,8 @@
 
 Much larger ship traffic is feasible. 837 crude oil tankers arrived at
 Japanese ports in year 2010 [[pdf](https://iea.blob.core.windows.net/assets/00cf6755-2976-4cd8-be5d-1c27b13d7df3/2013_OSS_Japan.pdf)].
+That's 2-3 ships arriving every day.
+
 Hopefully soon those will be LH2, ammonia tankers.
 
 ---
@@ -78,8 +80,7 @@ new agreement"
 
 ---
 
-German Greens are fine with all colors. Skeptics shld
-take notice.
+German Greens are fine with all colors. Skeptics shld take notice.
 
 DW: "Green is the color denoting the most environmentally friendly
 hydrogen because it's made with renewable energies through
