@@ -260,9 +260,8 @@ doesn't come across that way.
 
 ---
 
-Gina Raimondo is on the globalizer camp according to reports. ??.
-Wiki says her father lost his job to outsourcing (China) back in the
-day.
+Gina Raimondo is on the globalizer camp according to reports. Wiki
+says her father lost his job to outsourcing (China) back in the day.
 
 ---
 
