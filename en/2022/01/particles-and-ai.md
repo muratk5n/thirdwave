@@ -60,8 +60,8 @@ cultures since its inception; one is scientific computation
 (discretizing formulas), the other business coding, w databases,
 "UI". The two cultures gathered around their own computer languages,
 Fortran for sci, Cobol for biz. These are two different ways of
-thinking about computation.. Silicon Valley is full of the latter type
-- the business brogrammers. They pretty much have zero understanding
+thinking about computation.. Silicon Valley is full of the latter type -
+the business brogrammers. They pretty much have zero understanding
 of science and how it is conducted. So it behooves all tech watchers
 to pay attention to that difference as the typical tech CEO is sci
 ignorant, bereft of any understanding on what makes it tick.
