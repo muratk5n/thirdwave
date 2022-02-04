@@ -179,8 +179,8 @@ Maybe a [parallel to econ](2022/01/particles-and-ai.md) will help
 
 Trick for pickled vegs; sometimes mfkers overdo the vinegar, or lemon
 in the preserving liquid, so drain, poke some holes on vegs with fork,
-then put fresh water in its place. Works. The liq inside veg will seep
-out back to the water, overall same flavor but lighter. 
+then put fresh water in its place. The liq inside veg will seep out
+back to the water, overall same flavor but lighter.
 
 ---
 
