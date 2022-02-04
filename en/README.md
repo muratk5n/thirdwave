@@ -57,7 +57,7 @@ With Germany setting up hydrogen offices from Moscow to Riyadh, one
 would think the government is banking on the gas being the new
 \#petroleum"
 
-<img width="80%" src="https://pbs.twimg.com/media/FKm4pe3WYAMkl-v?format=png&name=small"/>
+<img width="85%" src="https://pbs.twimg.com/media/FKm4pe3WYAMkl-v?format=png&name=small"/>
 
 [[-]](https://bit.ly/3AV1kvm)
 
