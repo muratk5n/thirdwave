@@ -171,7 +171,7 @@ in Ecuador in a protected area of the Amazon"
 
 ---
 
-Maybe a [parallel to econ](2022/01/particles-and-ai.md) will help
+Maybe a [parallel to econ](2022/01/particles-and-ai.md#econ) will help
 
 "I still dont get the comment on the particle / formula distinction"
 
