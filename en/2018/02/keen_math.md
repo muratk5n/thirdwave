@@ -1,5 +1,7 @@
 # Steve Keen's Macroeconomic Model, Derivation, Code
-  
+
+Based on papers, code seen in the References section below. 
+
 Terms
 
 $\alpha$: productivity growth rate, $\frac{d a}{d t} = \alpha a$
