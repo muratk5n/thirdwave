@@ -6,11 +6,9 @@
 
 ---
 
-In year 2010, 837 crude oil tankers arrived at Japanese ports
-[[pdf](https://iea.blob.core.windows.net/assets/00cf6755-2976-4cd8-be5d-1c27b13d7df3/2013_OSS_Japan.pdf)].
-Clearly such traffic is manageable.
-
-Hopefully soon those will be LH2, ammonia tankers.
+Much larger ship traffic is feasible. 837 crude oil tankers arrived at
+Japanese ports in year 2010, [[pdf](https://iea.blob.core.windows.net/assets/00cf6755-2976-4cd8-be5d-1c27b13d7df3/2013_OSS_Japan.pdf)].
+Hopefully those soon will be LH2, ammonia tankers.
 
 ---
 
