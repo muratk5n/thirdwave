@@ -7,18 +7,6 @@ collapse impossible".
 
 ---
 
-The radiation part of that story is crooked to begin with. In terms of
-condensed matter, which is more likely for stars, they
-[cannot collapse](https://youtu.be/cHGT0DgvhNM?t=79) on themselves,
-James Jeans admitted this, in 1933 (see vid). Black hole theory has
-too many holes (!).
-
-"When old star die their core collapses forming black holes"
-
-[Link](https://youtu.be/ZPI9Fa-FXqM?t=653)
-
----
-
 Gases cannot act like blackbodies. Now take the next natural step and
 admit stars are made up of solids.
 

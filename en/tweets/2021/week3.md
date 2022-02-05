@@ -149,20 +149,6 @@ big moves here
 
 ---
 
-That black hole fail was the last straw .. Just the fact that two
-reputable scientists debunking the crap out of a concept so widely
-accepted is proof enough.
-
-Mainstream sci today looks more and more like Church teachings from
-the Middle Ages.
-
-Church teachings are bunk, bunch of alternate theoreticians roam
-about, most of whom are also quacks.
-
-No wonder art, cinema is obsessed with the era.
-
----
-
 Its probably safe to ignore any mainstream physics since 30s. Same for
 base math pretty much. If 19th century math was good enough for
 Feynman it's good enough for me.

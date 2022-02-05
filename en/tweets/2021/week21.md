@@ -325,16 +325,6 @@ and all we got only 3 hours a day"
 
 ---
 
-He makes too heavy use of knowledge abt / around black holes - which
-don't exist.
-
-Cant improve stuff while relying on garbage. As a software saying goes
-"garbage in, garbage out".
-
-"Eric Verlinde also attemps to explain dark matter"
-
----
-
 Newton didn't have any deeper insight into why the laws are the way
 they are. He tried bunch of stuff, certain formulas worked better (on
 data) than others. That's it. With what we know now, with more

@@ -85,15 +85,6 @@ about the origin of the universe?
 
 ---
 
-In different setting Im sure Hawk wld have disowned black holes
-decisively, earlier.. Sad the guy spent his whole life on junk
-science.
-
-I fault the env more, rewarding more and more curveball ideas, bcz
-they create the illusion of momentum, progress.
-
----
-
 :) Finkel with a Lavo canister.. 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Delighted to host members of the diplomatic corps in <a href="https://twitter.com/dfat?ref_src=twsrc%5Etfw">@dfat</a> to hear from Dr Alan Finkel AO and James White on Australia’s electricity transition, hydrogen and low emissions technology stretch goals. Thanks to <a href="https://twitter.com/hashtag/LAVO?src=hash&amp;ref_src=twsrc%5Etfw">#LAVO</a> for the loan of a H2 storage cylinder too! <a href="https://t.co/JeY7hvPazA">pic.twitter.com/JeY7hvPazA</a></p>&mdash; Ambassador for the Environment (@AusAmbEnviro) <a href="https://twitter.com/AusAmbEnviro/status/1359721672132030467?ref_src=twsrc%5Etfw">February 11, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -269,16 +260,6 @@ Three 6 Mafia - Roll With It \#music
 
 I knew it; *Spectral* and *Outside the Wire* both filmed in Budapest,
 Hungary, buildings looked similar. 
-
----
-
-Key point here; even scientists themselves take lots of knowledge as
-given. So scientist who does additional research thinking black holes
-exists, has not independently verified it, or questioned if they
-exist.. The danger here is you can pile shit upon shit until stuck or
-the whole thing collapsing on itself.
-
-<iframe width="240"  src="https://www.youtube.com/embed/eREDoqCD4Ps?start=5211&end=5379" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 

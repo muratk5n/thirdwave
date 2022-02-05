@@ -581,14 +581,6 @@ RU look bad, after US.
 
 ---
 
-Libertard being against Space Force because it is "deficit spending"
-is the most libertard shit ever. Guy thinks all gov undertakings are a
-black hole that just sucks in money with no "return", "only businesses
-innovate". If he created a list of how much inno came from space prog,
-his eyes would pop out of their sockets.
-
----
-
 Cop QM assumes an existing background, a non-changing geometry.
 
 ---

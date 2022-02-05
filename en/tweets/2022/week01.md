@@ -276,13 +276,6 @@ John Madden died?
 
 ---
 
-Veg Burg Deluxe, replaced beets with red peppers and collard greens,
-removed marmite. Testing.
-
-[[-]](../../2021/11/veg-burger-deluxe.md)
-
----
-
 Blast from the past \#1991
 
 US voters unelected the party at the helm during that event, one year later

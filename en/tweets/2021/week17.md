@@ -571,15 +571,6 @@ on some fundamental questions.
 
 ---
 
-Frankly it was a bit surprising at first seeing sci folk still do not
-know why planes fly. But then u think about misconceptions around
-black holes, the big-bang, gasesous sun, then you are like 'yeah that
-cld fall through the cracks no problem'
-
-It is encouraging in some ways in that there is much to do.
-
----
-
 Was just thinking about this today.. and bingo found this
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">tl;dr<br>- it&#39;s not just bernoulli&#39;s principle<br>- it&#39;s in large part just air deflection downward<br>- the equal transit time for the top and bottom of the wing is bullshit<br>- the blowing air over paper example is bullshit<br>- asking hard questions is tough and i&#39;m glad some ppl do it</p>&mdash; thinkagainer of the thought palace (~129 yrs old) (@thinkagainer) <a href="https://twitter.com/thinkagainer/status/1307849362295394305?ref_src=twsrc%5Etfw">September 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -497,8 +497,7 @@ quarterly? Do they they use that number for this calculation?"
 ---
 
 Yep; bcz of incompressibility, star cannot collapse on itself, a
-black hole cannot form. Years of pondering, books, articles written
-assuming BH existence were all worthless. 
+black hole cannot form. 
 
 <iframe width="300"  src="https://www.youtube.com/embed/kI14fpM3ouU?start=333&end=369" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

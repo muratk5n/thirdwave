@@ -29,11 +29,9 @@ corrections (1957), speed of light should not be constant.
 
 Knowledge
 
-Even scientists themselves take lots of knowledge as given. So
-scientist who does additional research thinking black holes exists,
-has not independently verified it, or questioned if they exist.. The
-danger here is you can pile shit upon shit until stuck or the whole
-thing collapsing on itself.
+Even scientists themselves take lots of knowledge as given. The danger
+here is you can pile shit upon shit until stuck or the whole thing
+collapsing on itself.
 
 <iframe width="240"  src="https://www.youtube.com/embed/eREDoqCD4Ps?start=5211&end=5379" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

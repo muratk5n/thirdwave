@@ -306,14 +306,6 @@ Wilshire increased - again
 
 ---
 
-These black holes, freaking time dilation fields, huge cosmological
-events are pure speculation per existing models. In *Sunshine* the
-heroes of the movie managed to fix the sun. Think about that. THE
-SUN. We were that adv on that front, see.. But mainstream sci doesnt
-even know what the muck it is made of.. How cld we fix that shit?
-
----
-
 <img width="340" src="https://drive.google.com/uc?export=view&id=1_estbcX6JjX12n3KzA9Df0snA5cB4piE"/>
 
 "LAVO receives commitment from iconic Australian company, Gowings to
@@ -467,12 +459,6 @@ American military.
 
 Cornel West also talked abt the neofascist threat... it's not like
 this is news in the left.
-
----
-
-TBH most of this stuff is not even scifi worthy. How many times have
-seen a black hole in a movie, TV show. "Time dilation field near it
-duuuude"... potentially all fking bollocks.
 
 ---
 
