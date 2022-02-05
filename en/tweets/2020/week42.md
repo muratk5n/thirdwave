@@ -401,9 +401,8 @@ Just saw this one from 2017
 ---
 
 Collated [past notes](2017/10/tax-avoidence-tricks.md) on global tax
-avoidence, and ideas. The
-[double-dip](2017/10/tax-avoidence-tricks.md#doubleDip) trick is
-freaky.
+avoidence, and ideas. The [double-dip](2017/10/road-to-ruin-rickards.md#doubleDip)
+trick is freaky.
 
 ---
 
