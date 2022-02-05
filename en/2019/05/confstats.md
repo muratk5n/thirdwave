@@ -123,6 +123,8 @@ worldwide deployments, by all countries.
 
 ### Unarmed Non-Whites Shot By Police
 
+Data is from WaPo [data](https://github.com/washingtonpost/data-police-shootings).
+
 ```python
 import pandas as pd
 f = 'https://raw.githubusercontent.com/washingtonpost/data-police-shootings/master/fatal-police-shootings-data.csv'
