@@ -6,38 +6,6 @@
 
 ---
 
-Much larger ship traffic is feasible. 837 crude oil tankers arrived at
-Japanese ports in year 2010 [[pdf](https://iea.blob.core.windows.net/assets/00cf6755-2976-4cd8-be5d-1c27b13d7df3/2013_OSS_Japan.pdf)].
-That's 2-3 ships arriving every day.
-
----
-
-What is the capacity of that Kawasaki ship carrying liquid H2 from Oz
-to Japan? H2 gas compressed at -253°C has density of 71 kg/m3, using
-33.6 kWh/kg,
-
-```python
-sh = 71*33.6*1250
-print (sh, 'mwh single trip')
-nrg = (sh * 10 / 1000) / (365*24)
-print ('10 ships %0.1f GW' % nrg)
-```
-
-```text
-2982000.0 mwh single trip
-10 ships 3.4 GW
-```
-
-That is the equivalent energy of 3 nuclear plants, delivered through
-H2 and shipping. A single ship could make 3 deliveries per year (2
-months travel, 2 months back), so a fleet of 3 ships continuously
-carrying LH2 will get you that energy.
-
-Three ships are cheaper than three nuclear plants (also less
-dangerous), plus Australia already has the production sites.
-
----
-
 H2 View: "A revolutionary new technology could be one of the “most
 efficient methods” of transporting clean hydrogen within a 1,000-mile
 radius..  The newly patented *Pipe-within-a-Pipe* technology.. can
