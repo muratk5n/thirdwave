@@ -16,6 +16,8 @@
 
 [Credit Theory of Money](../../2011/11/debt-the-first-5000-years-graeber.md)
 
+[The Faux Nobel Prize](../../2018/05/faux-nobel.md)
+
 [Hyperinflation](../../2016/03/hyperinflation.md)
 
 [Princes of Mayhem](princes-of-mayhem.md)
