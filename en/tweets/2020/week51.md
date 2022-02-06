@@ -621,7 +621,7 @@ exactly what happened.
 
 ---
 
-A lot of humor shared here is the kind tech types decompress with;
+A lot of humor shared here is the kind knowledge work fold decompress with;
 after paying attn to hair splitting detail for an extended period of
 time, something like a rapping [dog](https://youtu.be/0ZUHqH4rDTg?t=17) becomes hilarious.
 

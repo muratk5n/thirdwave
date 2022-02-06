@@ -262,15 +262,6 @@ the whole thing..
 
 ---
 
-Good to know
-
-JH: "A fluid may appear in the form of a liquid like water or a gas
-like air. Water is virtually incompressible... Air can be viewed to be
-incompressible as long as the flow speed is well below the speed of
-sound"
-
----
-
 "World powers blame China for Microsoft Exchange cyberattack"
 
 ---
