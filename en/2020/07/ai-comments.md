@@ -2,7 +2,7 @@
 
 <a name='parrot'/>
 
-[Stochastic Parrrots](https://towardsdatascience.com/yet-another-largest-neural-network-but-why-f48d231972a9)
+[Stochastic Parrots](https://towardsdatascience.com/yet-another-largest-neural-network-but-why-f48d231972a9)
 
 "It has happened again. Microsoft and Nvidia have built [NN] three
 times the size of GPT-3, the former holder of the title. However, in
