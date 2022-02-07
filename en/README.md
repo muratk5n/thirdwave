@@ -115,7 +115,7 @@ comprehension.
 
 ---
 
-Its good to try things.. Mow ask it to summarize the text it generates
+Its good to try things.. Now ask it to summarize the text it generates
 and let me know. I'm waiting by the phone.
 
 "@_RodolfoOcampo
