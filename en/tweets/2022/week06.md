@@ -136,7 +136,7 @@ in Ecuador in a protected area of the Amazon"
 
 ---
 
-Maybe a [parallel to econ](2022/01/particles-and-ai.md#econ) will help
+Maybe a [parallel to econ](../../2022/01/particles-and-ai.md#econ) will help
 
 "I still dont get the comment on the particle / formula distinction"
 
@@ -239,7 +239,7 @@ says her father lost his job to outsourcing (China) back in the day.
 
 ---
 
-Alfred Nobel never wanted an econ prize, his relatives say [kill it](2018/05/faux-nobel.md)
+Alfred Nobel never wanted an econ prize, his relatives say [kill it](../../2018/05/faux-nobel.md)
 today. Rabid speculators like Sholes won it before, 1997, a year before his
 hedge fund would crash using his "Nobel level" techniques, causing bunch
 of collateral damage around it. 
