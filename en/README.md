@@ -14,7 +14,7 @@ power the British firm’s new Grenadier off-road vehicles"
 ---
 
 Belgium has easy shipping access. Tasmania has sunshine, other natural
-resources (hydro), generate H2 and ship.
+resources (hydro). Generate H2 and ship.
 
 H2 View: "The Tasmanian Government [an island state of Australia] has
 today inked its first state-to-state agreement on green hydrogen with
