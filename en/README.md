@@ -74,15 +74,15 @@ decades of market trouble"
 ---
 
 Liberterianism is poisened in US.. A coopted version is used to
-provide cover for billionaires while they push for
-pro-liberty-sounding ideas, at the same time they generate culture war
-material to make themselves useful among the equally corrupt, retarded
-right-wing Republicans. All those merry band of cocksuckers around
-Peter Thiel do nothing but tout this shit.. The German version of
-liberterians fights an abortion rule created by *actual Nazis*, US
-faux-liberterians will stand silent to weasel their way in to Rep
-circles then push for [anti-green agenda](https://www.bloomberg.com/news/features/2021-09-15/peter-thiel-gamed-silicon-valley-tech-trump-taxes-and-politics).
-These ppl are wretched cocksuckers.
+provide cover for billionaires while they push for pro-freedom-sounding
+ideas, at the same time they generate culture war material to make
+themselves useful among the equally corrupt, retarded right-wing
+Republicans. All those merry band of cocksuckers around Peter Thiel do
+nothing but that.. The German version of a liberterian will fight
+an abortion rule created by *actual Nazis*, US faux-liberterians will
+stand silent on the issue to weasel their way in to Rep circles then once
+inside push for [anti-green agenda](https://www.bloomberg.com/news/features/2021-09-15/peter-thiel-gamed-silicon-valley-tech-trump-taxes-and-politics).
+They are wretched cocksuckers.
 
 ---
 
