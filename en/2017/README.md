@@ -84,6 +84,8 @@
 
 [Crime of Opportunity](10/crime-of-opportunity.md)
 
+[The Road to Ruin](10/road-to-ruin-rickards.md)
+
 [Tax Avoidance, Trickery](10/tax-avoidence-tricks.md)
 
 [#thepurge](10/thepurge.md)

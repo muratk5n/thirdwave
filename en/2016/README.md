@@ -42,13 +42,11 @@
 
 [Bunch of Useless M&A](04/bunch-of-useless-m.md)
 
-[#deeplearning #healthcare](04/deeplearning-healthcare.md)
+[The Death of Money](04/death-of-money-rickards.md)
 
 [DNA as Hard Drive](04/dna-as-hard-drive.md)
 
 [Dude Where Is My Solar Impulse 2?!!](04/dude-where-is-my-solar-impulse-2.md)
-
-[Money Laundering 101](04/money-laundering.md)
 
 [Work](05/work-treadmill.md)
 

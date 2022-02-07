@@ -70,7 +70,7 @@
 
 [The Value of Everything](10/the-value-of-everything.md)
 
-[Vegetarian Burger Deluxe](11/veg-burger-deluxe.md)
+[Vegetarian Burger Mega](11/veg-burger-mega.md)
 
 [Vegetarian Burger Regular](11/veg-burger.md)
 
