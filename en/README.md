@@ -190,13 +190,6 @@ Plat du Dimanche. Nice..
 
 ---
 
-Cargo ships piling up waiting near the coasts, waiting to be processed
-might have had something to do with the Californa oil spill. The ships
-piled up there, some set anchor in weird places, and one broke the the
-oil pipeline.
-
----
-
 ## For Members
 
 [Link](https://thirdwave-members.herokuapp.com)
