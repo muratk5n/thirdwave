@@ -154,9 +154,9 @@ more vax where possible; more testing will just overwhelm the system.
 ---
 
 Watched some NBC 2.. What a dumpster fire.. It's all about crime,
-money, some warm-and-fuzzy feel-good section via a pet, then back to
-crime, consumerism and money. All in a chipper tone. Hell on
-TV... Catch us on streaming! I don't think so bitch!
+money, some warm-and-fuzzy feel-good section usually via a pet, then
+back to crime, consumerism and money, all in a over-the-top chipper
+tone. Hell on TV... Catch us on streaming! I don't think so bitch!
 
 ---
 
