@@ -62,7 +62,7 @@ decades of market trouble"
 
 ---
 
-Libertarianism is poisened in US.. A coopted version is used to
+Libertarianism is corrupted in US.. A coopted version is used to
 provide cover for billionaires while they push for pro-freedom-sounding
 ideas, at the same time they generate culture war material to make
 themselves useful among the equally corrupt, retarded right-wing
