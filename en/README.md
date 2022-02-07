@@ -98,7 +98,7 @@ This is some kind of crazy science!
 
 ---
 
-[Stochastic parrot](2020/07/ai-comments.md#parrot). 
+[Stochastic parrot](2020/07/ai-comments.md#parrot)
 
 ---
 
