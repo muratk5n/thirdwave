@@ -52,17 +52,6 @@ the virus, clearing its name"
 
 ---
 
-TBD: "At moments of national division and conflict, the power of the
-Supreme Court is often amplified.. They can serve as a bulwark against
-extremism, as the Court did during the post-World War II era when it
-slapped back efforts by whites in the former Confederacy to preserve
-Jim Crow. Or they can promote division and conflict, as the Court did
-by issuing the Dred Scott decision in 1857, which incorporated the
-most radical of Southern slaveholders’ positions into the
-Constitution, including by denying Black Americans U.S. citizenship"
-
----
-
 TDB: "When writer and filmmaker Rupert Russell sat down to write his
 book *Price Wars*, which covers how price volatility is the root of
 global chaos, he didn't expect Alan Greenspan, the longtime former
