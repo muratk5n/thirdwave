@@ -60,17 +60,8 @@ Administration, Thiel offered, among other names, Balaji Srinivasan,
 an entrepreneur with no obvious experience in government, who seemed
 skeptical that the FDA should exist at all. “For every thalidomide,”
 Srinivasan had tweeted (and later deleted), “many dead from slowed
-approvals.”
+approvals.”...
 
-Bannon brought them all to meet with Trump but didn’t endorse the
-picks. “Balaji is a genius,” he says. “But it was too much.” Bannon
-knew it was unrealistic to nominate a provocateur who’d implied he
-wanted to get rid of the FDA to run said agency. Doing so would have
-gotten Trump branded a radical—and not the good kind. Bannon
-continues, “That’s not a confirmation hearing you’re going to win in
-the first 100 days. Remember, we’re a coalition, and the Republican
-establishment was aghast at what we were doing.”..
- 
 Invites to that Trump Tower meeting had been given out to the tech
 companies with the largest market capitalizations, but Thiel made two
 exceptions. Musk, who runs SpaceX, where Thiel is a major shareholder,
