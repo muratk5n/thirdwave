@@ -148,11 +148,6 @@ escape, including light?
 
 ---
 
-It seems to me w omicron countries need to forgo testing, push for
-more vax where possible; more testing will just overwhelm the system.
-
----
-
 Watched some NBC 2.. What a dumpster fire.. It's all about crime,
 money, some warm-and-fuzzy feel-good section usually via a pet, then
 back to crime, consumerism and money, all in a over-the-top chipper
