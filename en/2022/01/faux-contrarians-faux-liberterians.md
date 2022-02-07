@@ -1,4 +1,4 @@
-# Faux-Contrarians, Faux-Liberterians
+# Faux Contrarians, Faux Liberterians
 
 Peter Thiel Gamed Silicon Valley, Donald Trump, and Democracy to Make Billions, Tax-Free
 
