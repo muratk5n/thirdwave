@@ -71,7 +71,7 @@ nothing but that.. The German version of a liberterian will fight
 an abortion rule created by *actual Nazis*, US faux-liberterians will
 stand silent on the issue to weasel their way in to Rep circles then once
 inside push for [anti-green agenda](https://www.bloomberg.com/news/features/2021-09-15/peter-thiel-gamed-silicon-valley-tech-trump-taxes-and-politics).
-They are wretched cocksuckers.
+These are some wretched cocksuckers.
 
 ---
 
