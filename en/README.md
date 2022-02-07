@@ -71,7 +71,7 @@ nothing but that.. The German version of a libertarian will fight
 an abortion rule created by *actual Nazis*, US faux-libertarians will
 stand silent on the issue to weasel their way in to Rep circles then once
 inside push for [anti-green agenda](2022/01/faux-contrarians-faux-liberterians.md).
-These are some wretched cocksuckers.
+These are truly some wretched cocksuckers.
 
 ---
 
