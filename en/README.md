@@ -108,7 +108,7 @@ and let me know. I'm waiting by the phone.
 "@_RodolfoOcampo
 
 Dear English-speaking friends, As part of my PhD, I'm researching
-human-AI creative interaction. I created a little tool [you enter two
+human-AI creative interaction. I created a little tool [enter two
 words it generates a short story]"
 
 [[-]](https://mobile.twitter.com/_RodolfoOcampo/status/1488379758551388168)
