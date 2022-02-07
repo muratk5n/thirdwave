@@ -135,10 +135,10 @@ escape, including light?
 
 ---
 
-Watched some NBC 2.. What a dumpster fire.. It's all about crime,
-money, some warm-and-fuzzy feel-good section usually via a pet, then
-back to crime, consumerism and money, all in a over-the-top chipper
-tone. Hell on TV... Catch us on streaming! I don't think so bitch!
+NBC2 .. What a dumpster fire.. all about crime, money, some
+warm-and-fuzzy feel-good section usually via a pet, then back to
+crime, consumerism and money, all in a over-the-top chipper tone. Hell
+on TV... Catch us on streaming! I don't think so bitch!
 
 ---
 
