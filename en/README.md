@@ -162,7 +162,7 @@ have large effects"
 
 ---
 
-[Link](https://pbs.twimg.com/media/FKuuCoxXsAEQcxV?format=jpg&name=small)
+[Link](https://pbs.twimg.com/media/FK-476_WYAAT2pk?format=jpg&name=small)
 
 ---
 
