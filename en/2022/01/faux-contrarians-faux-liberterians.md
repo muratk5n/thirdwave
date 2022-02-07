@@ -1,4 +1,4 @@
-# Faux Contrarians, Faux Liberterians
+# Faux Contrarians, Faux Libertarians
 
 [Bloomberg](https://www.bloomberg.com/news/features/2021-09-15/peter-thiel-gamed-silicon-valley-tech-trump-taxes-and-politics)
 
