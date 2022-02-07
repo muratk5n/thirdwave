@@ -166,9 +166,9 @@ have large effects"
 
 ---
 
-Mmmm.. dark chocolate is the secret ingredient in beef bourguignon \#F24
+Dark chocolate is the secret ingredient in beef bourguignon. I see.. \#F24
 
-Plat du Dimanche. Nice..
+Plat du Dimanche... Nice..
 
 ---
 
