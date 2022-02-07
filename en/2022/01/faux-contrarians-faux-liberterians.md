@@ -1,8 +1,8 @@
 # Faux Contrarians, Faux Liberterians
 
-Peter Thiel Gamed Silicon Valley, Donald Trump, and Democracy to Make Billions, Tax-Free
+[Bloomberg](https://www.bloomberg.com/news/features/2021-09-15/peter-thiel-gamed-silicon-valley-tech-trump-taxes-and-politics)
 
-https://www.bloomberg.com/news/features/2021-09-15/peter-thiel-gamed-silicon-valley-tech-trump-taxes-and-politics
+Peter Thiel Gamed Silicon Valley, Donald Trump, and Democracy to Make Billions, Tax-Free
 
 In an exclusive excerpt from The Contrarian, a new biography, the
 disruption-preaching power broker is revealed as just another rich guy
