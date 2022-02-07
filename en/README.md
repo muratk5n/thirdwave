@@ -109,9 +109,7 @@ This is some kind of crazy science!
 
 ---
 
-Another [stochastic parrot](2020/07/ai-comments.md#parrot). Spitting
-out bunch of seemingly meaningful stuff is easier than
-comprehension. 
+[Stochastic parrot](2020/07/ai-comments.md#parrot). 
 
 ---
 
