@@ -102,8 +102,8 @@ This is some kind of crazy science!
 
 ---
 
-Its good to try things.. But now ask it to summarize the text it
-generates and let me know. I'm waiting by the phone.
+Its good to try things.. Now ask it to summarize the text it generates
+and let me know. I'm waiting by the phone.
 
 "@_RodolfoOcampo
 
