@@ -146,8 +146,8 @@ Warning against the military-industrial complex: Eisenhower - GOP.
 ---
 
 Anti-trust isn't just for better capitalism. Need to adjust the power
-dynamic between gov and biz. Reagan was a conservative, but had to be
-cognizant of the fact that in order to govern, need to be wary of
+dynamic between gov and biz. Reagan was a conservative, but he had to
+be cognizant of the fact that in order to govern, need to be wary of
 getting overrun by monopoly power.
 
 
