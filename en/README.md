@@ -60,7 +60,7 @@ available yet -- the crisis came too early.
 
 ---
 
-To repeat - countries can receive huge ship traffic. 837 crude oil
+\#Repeat countries can receive huge ship traffic. 837 crude oil
 tankers arrived at Japanese ports in year 2010
 [[pdf](https://iea.blob.core.windows.net/assets/00cf6755-2976-4cd8-be5d-1c27b13d7df3/2013_OSS_Japan.pdf)],
 translating into 2-3 ships arriving every day.
