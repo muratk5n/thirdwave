@@ -432,7 +432,7 @@ products, the higher your GDP.
 Why does success story belong to host country for even late
 immigrating scientists? Power of expertise networks. Working side by
 side is an effective knowledge xfer channel, that's why inno likes
-such pockets ... See [Hidalgo](../../2017/08/production-gdp-globalization.md).
+such pockets ... See [Hidalgo](../../2017/08/economic-complexity-hidalgo.md).
 U go to expt network, u benefit from it, inno flows from it. Those
 pockets, its country, get the credit.
 

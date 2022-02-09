@@ -937,7 +937,7 @@ Name: Adj Close, dtype: float64
 
 <a name='engconsumption'/>
 
-World Energy Consumption, Monthly (twh)
+World Energy Consumption by Source, Monthly (twh)
 
 ```python
 import pandas as pd, requests
