@@ -49,8 +49,8 @@ works. If the tech were ready that would fix gas shortfall. Blending
 wld automatically increase supply. For gaps <20% blend 20%, done. No
 change in infra needed.
 
-Of course additional H2 needs to be generated for blending, not
-available yet -- the crisis came too early.
+Additional H2 needs to be generated for blending yes, not available
+yet -- the crisis came too early.
 
 ---
 
