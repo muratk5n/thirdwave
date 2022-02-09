@@ -157,8 +157,7 @@ Would expect Dems to be more hawkish on anti-trust, but no..  After RR
 not only did they let existing monopolies fester, they gave rise to
 new ones. So called libertarians either watched the whole thing like a
 gaping fish, or generated some junk culture war material for Reps to
-use while weaseling their way in, to give their billionaire friends
-cover.
+use while weaseling their way in, to give billionaire cover.
 
 ---
 
