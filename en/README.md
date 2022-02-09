@@ -99,7 +99,7 @@ says"
 
 ---
 
-I hope they do. Such simpleton, trinket products. Just plain IT.
+I hope they do. Such simpleton, trinket products. Plain IT.
 
 "Meta says it may shut down Facebook and Instagram in Europe over data-sharing dispute"
 
