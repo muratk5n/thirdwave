@@ -125,7 +125,7 @@ CNN: "Senegal beats Egypt to win Africa Cup of Nations trophy"
 Stronger unions provides better institutional muscle to the left 4
 politics. Can't have bunch of random people running around jumping up
 and down 'protesting', dancing on TikTok and hope there'll be a
-change. Organization, leadership is key.
+change. Organization, leadership is needed.
 
 [[-]](2019/08/focus-group-democracy.md)
 
