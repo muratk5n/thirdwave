@@ -72,8 +72,8 @@ France, which is in G7.
 
 ---
 
-Post WWII setup is weird.. Germany isnt in the UNSC. China isn't in
-G7.
+Post WWII setup is weird.. Germany is not included in the UNSC. China
+is not included in G7.
 
 ---
 
