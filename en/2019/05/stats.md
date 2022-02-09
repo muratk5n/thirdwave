@@ -391,7 +391,7 @@ df = quandl.get("ISM/MAN_PMI-PMI-Composite-Index",
 returns="pandas",
 start_date=start.strftime('%Y-%m-%d'),
 end_date=today.strftime('%Y-%m-%d'),
-authtoken=open(".quandl").read())
+authtoken=open(".key/.quandl").read())
 
 print (df['PMI'].tail(4))
 df['PMI'].plot()
@@ -433,7 +433,7 @@ df2 = quandl.get("ISM/MAN_PMI-PMI-Composite-Index",
 returns="pandas",
 start_date=start.strftime('%Y-%m-%d'),
 end_date=end.strftime('%Y-%m-%d'),
-authtoken=open(".quandl").read())
+authtoken=open(".key/.quandl").read())
 
 plt.figure(figsize=(12,5))
 ax1 = df2.PMI.plot(color='blue', grid=True, label='ISM')
@@ -746,7 +746,7 @@ Gasoline Price
 import pandas as pd, requests
 from datetime import date
 
-api_key = open('.eiakey').read()
+api_key = open('.key/.eiakey').read()
 url = 'http://api.eia.gov/series/?api_key=' + api_key + '&series_id=PET.EMM_EPM0_PTE_NUS_DPG.W' 
 r = requests.get(url)
 json_data = r.json()
@@ -767,7 +767,7 @@ Opec Oil Production
 import pandas as pd, requests
 from datetime import date
 
-api_key = open('.eiakey').read()
+api_key = open('.key/.eiakey').read()
 url = 'http://api.eia.gov/series/?api_key=' + api_key + '&series_id=STEO.COPR_OPEC.M' 
 r = requests.get(url)
 json_data = r.json()
@@ -804,7 +804,7 @@ World Oil Production
 import pandas as pd, requests
 from datetime import date
 
-api_key = open('.eiakey').read()
+api_key = open('.key/.eiakey').read()
 url = 'http://api.eia.gov/series/?api_key=' + api_key + '&series_id=INTL.53-1-WORL-TBPD.M' 
 r = requests.get(url)
 json_data = r.json()
@@ -934,6 +934,50 @@ Name: Adj Close, dtype: float64
 ```
 
 ![](coal.png)
+
+<a name='engconsumption'/>
+
+World Energy Consumption, Monthly (twh)
+
+```python
+import pandas as pd, requests
+from datetime import date
+
+api_key = open('.key/.eiakey').read()
+
+sources = ('coal','TOTAL.CLTCBUS.M'),('hydro','TOTAL.HVTCBUS.M'),\
+	   ('natgas','TOTAL.NNTCBUS.M'),('oil','TOTAL.PMTCBUS.M'),\
+	   ('nuclear','TOTAL.NUETBUS.M'),('solar','TOTAL.SOTCBUS.M'),\
+	   ('wind','TOTAL.WYTCBUS.M')
+
+dfall = []
+descs = []
+for desc,lab in sources:
+    url = 'http://api.eia.gov/series/?api_key=' + api_key + '&series_id=' + lab
+    r = requests.get(url)
+    json_data = r.json()
+    df = pd.DataFrame(json_data.get('series')[0].get('data'))
+    df = pd.DataFrame(json_data.get('series')[0].get('data'))
+    df['Year'] = df[0].astype(str).str[:4]
+    df['Month'] = df[0].astype(str).str[4:]
+    df['Day'] = 1
+    df['Date'] = pd.to_datetime(df[['Year','Month','Day']])
+    df = df.set_index('Date')
+    df = df.rename(columns={1: desc})
+    df = df[df.index > '2000-01-01-']
+    df[desc] = df[desc].rolling(10).mean() * 0.293    
+    descs.append(desc)
+    dfall.append(df)
+
+dfall = pd.concat(dfall,axis=1)
+pd.set_option('display.max_columns', None)
+
+dfall[descs].plot()
+plt.title('Monthly World Energy Consumption (twh)')
+plt.savefig('energy-sources.png')
+```
+
+![](energy-sources.png)
 
 ## Wealth, Debt
 
