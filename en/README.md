@@ -50,7 +50,7 @@ wld automatically increase supply. For gaps <20% blend 20%, done. No
 change in infra needed.
 
 Additional H2 needs to be generated for blending yes, not available
-yet -- the crisis came too early.
+yet -- the crisis arrived too early.
 
 ---
 
