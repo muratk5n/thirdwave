@@ -45,6 +45,27 @@ approach exploits these second, third and higher order differences to
 create measures that approximate the amount of productive knowledge
 held in each of these countries"
 
+[PDF](https://www.pnas.org/content/106/26/10570)
+
+For Adam Smith, wealth was related to the division of labor. As people
+and firms specialize in different activities, economic efficiency
+increases, suggesting that development is associated with an increase
+in the number of individual activities and with the complexity that
+emerges from the interactions between them. Here we develop a view of
+economic growth and development that gives a central role to the
+complexity of a country’s economy by interpreting trade data as a
+bipartite network in which countries are connected to the products
+they export, and show that it is possible to quantify the complexity
+of a country’s economy by characterizing the structure of this
+network. Furthermore, we show that the measures of complexity we
+derive are correlated with a country’s level of income, and that
+deviations from this relationship are predictive of future
+growth. This suggests that countries tend to converge to the level of
+income dictated by the complexity of their productive structures,
+indicating that development efforts should focus on generating the
+conditions that would allow complexity to emerge in order to generate
+sustained growth and prosperity.
+
 [PDF](https://growthlab.cid.harvard.edu/files/growthlab/files/201.pdf)
 
 Countries differ markedly in the diversification of their
