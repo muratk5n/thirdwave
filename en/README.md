@@ -67,8 +67,8 @@ translating into 2-3 ships arriving every day.
 
 ---
 
-Not that China is a superpower or anything.. But it is at a level
-ofFrance, which is in G7.
+Not that China is a superpower or anything.. But it is at a level of
+France, which is in G7.
 
 ---
 
