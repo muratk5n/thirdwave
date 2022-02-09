@@ -1,5 +1,39 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We&#39;ve just announced that Heliogen has been awarded the exclusive right to lease land in the Brenda Solar Energy Zone (SEZ) where we intend to develop a green hydrogen facility capable of producing approximately 20,000 metric tonnes of hydrogen per year.<a href="https://t.co/HbhbNKomv9">https://t.co/HbhbNKomv9</a> <a href="https://t.co/nZAXwO3gmB">pic.twitter.com/nZAXwO3gmB</a></p>&mdash; Heliogen (@heliogeninc) <a href="https://twitter.com/heliogeninc/status/1491098387004809218?ref_src=twsrc%5Etfw">February 8, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+H2 Fuel News: "Hyperion to build $297 million fuel cell manufacturing hub in Ohio"
+
+---
+
+H2 View: "300MW electrolyser set to be coupled for hydrogen production
+in Denmark as HySynergy project begins phase II"
+
+---
+
+That is nearly maximum DNI given the Earth average.
+
+SolarPaces: "Talk of a Namibian Concentrated Solar Power (CSP) project
+[..is] moving forward... [The] region [has] some of highest Direct
+Normal Irradiation (DNI) in the world... NamPower is creating a fully
+permitted de-risked site that’s in an area they have been assessing
+for its outstanding solar resource west of Windhoek.. has DNI over
+3,000 kWh/m2 annually"
+
+---
+
+H2 View: "Lotte Chemical is reportedly set to invest 4.4 trillion won
+($3.7bn) in the hydrogen ecosystem to bolster not only Korean
+decarbonisation but also around the world"
+
+---
+
+H2 View: "Fukuoka City, Japan has unveiled major hydrogen society
+plans as part of a new deal inked.. with Toyota Motor Corporation"
 
 ---
 
