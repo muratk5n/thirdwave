@@ -60,9 +60,9 @@
 
 [The Next Decade, Friedman](07/the-next-decade-friedman.md)
 
-[Product-Item, Economic Complexity, Country Competitiveness, Hidalgo](08/hidalgo.md)
+[Economic Complexity, Capability](08/economic-complexity-hidalgo.md)
 
-[Production, Know-How, GDP, Globalization](08/production-gdp-globalization.md)
+[Product-Item, Economic Complexity, Country Competitiveness, Hidalgo](08/hidalgo-code.md)
 
 [The Nordic Theory of Everything](08/the-nordic-theory-of-everything.md)
 
