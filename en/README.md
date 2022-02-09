@@ -162,8 +162,8 @@ cover.
 
 ---
 
-Anti-trust could be a Republican thing.. cons are pro-business, if
-especially pro **small** business, they can go there.. Ronald Reagan
+Anti-trust could be a Republican thing.. cons are pro-business,
+especially for **small** business they cld go there.. Ronald Reagan
 broke up AT&T.
 
 ---
