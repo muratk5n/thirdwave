@@ -45,7 +45,7 @@ approach exploits these second, third and higher order differences to
 create measures that approximate the amount of productive knowledge
 held in each of these countries"
 
-[PDF](https://www.pnas.org/content/106/26/10570)
+The Building Blocks of Economic Complexity - [PDF](https://www.pnas.org/content/106/26/10570)
 
 For Adam Smith, wealth was related to the division of labor. As people
 and firms specialize in different activities, economic efficiency
@@ -64,7 +64,42 @@ growth. This suggests that countries tend to converge to the level of
 income dictated by the complexity of their productive structures,
 indicating that development efforts should focus on generating the
 conditions that would allow complexity to emerge in order to generate
-sustained growth and prosperity.
+sustained growth and prosperity...
+
+Now, if all countries are connected to each other through a global
+market for inputs and outputs so that they can exploit a division of
+labor at the global scale, why have differences in Gross Domestic
+Product (GDP) per capita exploded over the past two centuries? * [ 4 ,
+5 ] One possible answer is that some of the individual activities that
+arise from the division of labor described above cannot be imported,
+such as property rights, regulation, infrastructure, specific labor
+skills, etc., and so countries need to have them locally available in
+order to produce.  Hence, the productivity of a country resides in the
+diversity of its available non-tradable capabilities, and therefore,
+cross-country differences in income can be explained by differences in
+economic complexity, as measured by the diversity of capabilities
+present in a country and their interactions...
+
+We can create indirect measures of the capabilities available in a
+country by thinking of each one of these capabilities as a building
+block or Lego piece. In this analogy, a product is equivalent to a
+Lego model, and a country is equivalent to a bucket of
+Legos. Countries will be able to make products for which they have all
+the necessary capabilities, just like a child is able to produce a
+Lego model if the child’s bucket contains all the necessary Lego
+pieces. Using this analogy, the question of economic complexity is
+equivalent to asking whether we can infer properties such as the
+diversity and exclusivity of the Lego pieces inside a child’s bucket
+by looking only at the models that a group of children, each with a
+different bucket of Legos, can make. Here we show that this is
+possible if we interpret data connecting countries to the products
+they export as a bipartite network and assume that this network is the
+result of a larger, tripartite network, connecting countries to the
+capabilities they have and products to the capabilities they require
+(Fig 1a). Hence, connections between countries and products signal the
+availability of capabilities in a country just like the creation of a
+model by a child signals the availability of a specific set of Lego
+pieces.
 
 [PDF](https://growthlab.cid.harvard.edu/files/growthlab/files/201.pdf)
 
