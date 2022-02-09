@@ -66,16 +66,18 @@ indicating that development efforts should focus on generating the
 conditions that would allow complexity to emerge in order to generate
 sustained growth and prosperity...
 
+<a name='global'/>
+
 Now, if all countries are connected to each other through a global
 market for inputs and outputs so that they can exploit a division of
 labor at the global scale, why have differences in Gross Domestic
-Product (GDP) per capita exploded over the past two centuries? * [ 4 ,
-5 ] One possible answer is that some of the individual activities that
-arise from the division of labor described above cannot be imported,
-such as property rights, regulation, infrastructure, specific labor
-skills, etc., and so countries need to have them locally available in
-order to produce.  Hence, the productivity of a country resides in the
-diversity of its available non-tradable capabilities, and therefore,
+Product (GDP) per capita exploded over the past two centuries? One
+possible answer is that some of the individual activities that arise
+from the division of labor described above cannot be imported, such as
+property rights, regulation, infrastructure, specific labor skills,
+etc., and so countries need to have them locally available in order to
+produce. Hence, the productivity of a country resides in the diversity
+of its available non-tradable capabilities, and therefore,
 cross-country differences in income can be explained by differences in
 economic complexity, as measured by the diversity of capabilities
 present in a country and their interactions...
