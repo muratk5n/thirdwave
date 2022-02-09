@@ -83,7 +83,7 @@ enjoying their airheaded 'inclusion'. Harmless.
 
 ---
 
-The Matrix 4 ending was weak, scared and abysmal. *Fight Club* got it
+The Matrix 4 ending was weak, scared, abysmal. *Fight Club* got it
 right.. That was one courageous, fantastic movie, from start to
 finish.
 
