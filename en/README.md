@@ -160,9 +160,9 @@ weaseling their way in to give their billionaire friends cover.
 
 ---
 
-Anti-trust could be a Republican thing.. if you are pro-business,
-especially pro **small** business, conservatives can go there.. Ronald
-Reagan broke up AT&T.
+Anti-trust could be a Republican thing.. cons are pro-business, if
+especially pro **small** business, they can go there.. Ronald Reagan
+broke up AT&T.
 
 ---
 
