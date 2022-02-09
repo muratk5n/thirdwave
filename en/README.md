@@ -96,7 +96,7 @@ change. Organization, leadership is key.
 
 ---
 
-Catchy title.. competition, good
+Catchy title.. competition, good.
 
 ---
 
@@ -112,7 +112,7 @@ Warning against the military-industrial complex: Eisenhower - GOP.
 
 Anti-trust isn't just for better capitalism, also for the power
 dynamic between gov and biz. Reagan was GOP, but had to be cognizant
-of the fact that in order to govern, one can't be overrun by monopoly
+of the fact that in order to govern, can't get overrun by monopoly
 power.
 
 
