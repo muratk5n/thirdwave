@@ -257,4 +257,5 @@ References
 
 Inoua, <a href="https://arxiv.org/pdf/1601.05012.pdf">Simple Measure of Economic Complexity</a>
 
-Hidalgo <a href="https://oec.world/static/pdf/atlas/AtlasOfEconomicComplexity_Part_I.pdf">The Atlas of Economic Complexity</a>
+[Hidalgo](economic-complexity-hidalgo.md)
+
