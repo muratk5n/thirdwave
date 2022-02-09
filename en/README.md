@@ -110,13 +110,6 @@ Warning against the military-industrial complex: Eisenhower - GOP.
 
 ---
 
-He did share the odd pearl (!) on the government, but his generation
-was brought up under the shadow of The New Deal, just like the later
-generation wld grow up under the shadow of his -- he was trying to
-offset what came before imo.
-
----
-
 Anti-trust isn't just for better capitalism, also for the power
 dynamic between gov and biz. Reagan was GOP, but had to be cognizant
 of the fact that in order to govern, one can't be overrun by monopoly
