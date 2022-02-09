@@ -145,18 +145,19 @@ Warning against the military-industrial complex: Eisenhower - GOP.
 ---
 
 Anti-trust isn't just for better capitalism, also for the power
-dynamic between gov and biz. Reagan was GOP, but had to be cognizant
-of the fact that in order to govern, can't get overrun by monopoly
-power.
+dynamic between gov and biz. Reagan was a conservative, but had to be
+cognizant of the fact that in order to govern, need to be wary of
+getting overrun by monopoly power.
 
 
 ---
 
-Wld expect the Dems to be more hawkish on anti-trust, but no..  After
-RR not only did they let existing monopolies fester, they gave rise to
-new ones. So called libertarians either watched like a gaping fish, or
-generated some junk culture war material for Reps to use while
-weaseling their way in to give their billionaire friends cover.
+Would expect Dems to be more hawkish on anti-trust, but no..  After RR
+not only did they let existing monopolies fester, they gave rise to
+new ones. So called libertarians either watched the whole thing like a
+gaping fish, or generated some junk culture war material for Reps to
+use while weaseling their way in, to give their billionaire friends
+cover.
 
 ---
 
