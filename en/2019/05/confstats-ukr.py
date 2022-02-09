@@ -22,8 +22,8 @@ conf_cols = ['GlobalEventID', 'Day', 'MonthYear', 'Year', 'FractionDate',\
        'Actor2Geo_FullName','Actor2Geo_CountryCode', 'Actor2Geo_ADM1Code',\
        'Actor2Geo_Lat', 'Actor2Geo_Long']
 
-now = datetime.datetime.now()
-#now = datetime.datetime(2021,11,1)
+#now = datetime.datetime.now()
+now = datetime.datetime(2022,2,8)
 dfs = []
 
 clat,clon=49, 31

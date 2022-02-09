@@ -1,174 +1,141 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
----
-
-H2 Fuel News: "Hyosung to pour $835 million into green hydrogen
-production in Korea"
 
 ---
 
-H2 Fuel News: "The UK’s Ineos chemical company has signed hydrogen fuel
-cell deal with Hyundai. The goal is to use the system to eventually
-power the British firm’s new Grenadier off-road vehicles"
+H2 View: "Cummins to purchase rights in Westport Fuel Systems joint
+venture and bolster hydrogen capabilities"
 
 ---
 
-Belgium has easy shipping access. Tasmania has sunshine, other natural
-resources (hydro). Generate H2 and ship.
+What is the current RU natgas export (to EU) shortfall? 20%? Lower?
 
-H2 View: "The Tasmanian Government [an island state of Australia] has
-today inked its first state-to-state agreement on green hydrogen with
-the region of Flanders, in Northern Belgium."
+From UK we know blending 20% H2 into existing natural gas pipeline
+works. If the tech were ready that would fix gas shortfall. Blending
+wld automatically increase supply. For gaps <20% blend 20%, done. No
+change in infra needed.
 
----
-
-H2 View: "Orlen Group [a Polish state oil refiner, retailer] makes
-$1.8bn hydrogen commitment. By the end of the decade, PKN Orlen want
-to..  build a total of ten hydrogen hubs and launch 100 public
-hydrogen stations"
+Of course additional H2 needs to be generated for blending, not
+available yet -- the crisis came too early.
 
 ---
 
-The Atlantic: "Vaccination rates are high on mainland China, about 88
-percent, but mRNA vaccines are not available. The German firm BioNTech
-has been waiting months for approval to enter the Chinese
-market.. China has not developed its own mRNA jab [.. uses]
-Chinese-developed Sinopharm and Sinovac shots. These 'inactivated
-virus' vaccines have proved to be less effective at stopping COVID
-deaths"
+"Russia continues to supply around 40% of EU gas consumption"
+
+[[-]](https://www.bruegel.org/2022/01/can-europe-survive-painlessly-without-russian-gas/)
 
 ---
 
-The Atlantic: "Hong Kong.. pursues a zero-COVID strategy. Flight bans
-have caused air traffic to plummet. On January 31, just 100 passengers
-arrived at Hong Kong International Airport, previously one of the
-world’s busiest travel hub..
-
-Authorities culled thousands of hamsters after an infection was traced
-to a local pet shop. Carrie Lam, the city’s chief executive, lashed
-out at a hamster owner who didn’t turn over his pet, saying it had
-caused an outbreak. The maligned rodent, however, tested negative for
-the virus, clearing its name"
+To repeat - countries can receive huge ship traffic. 837 crude oil
+tankers arrived at Japanese ports in year 2010
+[[pdf](https://iea.blob.core.windows.net/assets/00cf6755-2976-4cd8-be5d-1c27b13d7df3/2013_OSS_Japan.pdf)],
+translating into 2-3 ships arriving every day.
 
 ---
 
-TDB: "When writer and filmmaker Rupert Russell sat down to write his
-book *Price Wars*, which covers how price volatility is the root of
-global chaos, he didn't expect Alan Greenspan, the longtime former
-Federal Reserve chairman, to be a 'villain' in the story. But in this
-bonus episode of The New Abnormal, Russell explains how a move by
-Greenspan to deregulate the commodity markets in 1998 has caused
-decades of market trouble"
+Not that China is a superpower or anything.. But it is at least a
+France, which is in G7.
 
 ---
 
-Libertarianism is corrupted in US.. A coopted version is used to
-provide cover for billionaires while they push for pro-freedom-sounding
-ideas, at the same time they generate culture war material to make
-themselves useful among the equally corrupt, retarded right-wing
-Republicans. All those merry band of cocksuckers around Peter Thiel do
-nothing but that.. The German version of a libertarian will fight
-an abortion rule created by *actual Nazis*, US faux-libertarians will
-stand silent on the issue to weasel their way in to Rep circles then once
-inside push for [anti-green agenda](2022/01/faux-contrarians-faux-liberterians.md).
-These are truly some wretched cocksuckers.
+Post WWII is weird.. Germany isnt in the UNSC. China isn't in G7. 
 
 ---
 
-Politico: "California's single-payer bill.. gained little traction as
-moderates balked and powerful opponents closed ranks"
-
-[[-]](https://www.politico.com/news/2022/02/05/the-left-strikes-out-on-single-payer-even-in-liberal-california-00004992)
-
----
-
-NYT: "Facing Tough Election, Orban Turns to Putin for Support. The
-Hungarian leader made his name by defying Moscow. But he has
-increasingly turned toward Russia in an effort to secure the natural
-gas he needs to keep energy prices low and voters happy"
+Would any authoritarian gov change the ending of M4? Why bother..? The
+ending is for weak-ass Holywood shitlibs, they are just flying around
+enjoying their airheaded 'inclusion'. Harmless.
 
 ---
 
-I broke it
+The Matrix 4 ending was weak, scared and abysmal. *Fight Club* got it
+right.. That was one courageous, fantastic movie, from start to
+finish.
+
+NYT: ‘Fight Club’ Ending Is Restored in China After Censorship
+Outcry.. Last month, viewers noticed that the ending of the 1999 film
+had been replaced with a pro-government message. Now the ending is
+back, and the message is gone.
 
 ---
 
-I entered two words one was completely left ouf of the "story" 🤣
-This is some kind of crazy science! 
+AFP: "Plastic has infiltrated all parts of the ocean and is now found
+'in the smallest plankton up to the largest whale', wildlife group WWF
+says"
 
 ---
 
-[Stochastic parrot](2020/07/ai-comments.md#parrot)
+I hope they do. Such a simpleton, trinket product. Just plain IT.
+
+"Meta says it may shut down Facebook and Instagram in Europe over data-sharing dispute"
 
 ---
 
-Its good to try things.. Now ask it to summarize the text it generates
-and let me know. I'm waiting by the phone.
-
-"@_RodolfoOcampo
-
-Dear English-speaking friends, As part of my PhD, I'm researching
-human-AI creative interaction. I created a little tool [enter two
-words it generates a short story]"
-
-[[-]](https://mobile.twitter.com/_RodolfoOcampo/status/1488379758551388168)
+"US approves $100m deal for Taiwan to upgrade Patriot missile system"
 
 ---
 
-Jets have incredibly high energy behind them, they can't be pushed
-from bunch of random stuff swirling around a black hole. Cant have a
-bullet firing out of a water swirl while it's going down the
-drain.. Physically impossible.
+"Senegal is one of Africa's most stable electoral democracies"
 
 ---
 
-How do jets escape black holes from which supposedly nothing can
-escape, including light?
+CNN: "Senegal beats Egypt to win Africa Cup of Nations trophy"
 
 ---
 
-????
-
-"[2013, Measurement] Helps Confirm Evidence of Jet in Milky Way's Black Hole"
-
-[[-]](https://www.nasa.gov/mission_pages/chandra/news/high-energy-particles-in-milky-way.html)
+[Link](https://drive.google.com/uc?export=view&id=169fSsDA6hLxPGGG3-8XbyeR9eRFrZvUO)
 
 ---
 
-NBC2 .. What a dumpster fire.. all about crime, money, some
-warm-and-fuzzy feel-good section usually via a pet, then back to
-crime, consumerism and money, all in a over-the-top chipper tone. Hell
-on TV... Catch us on streaming! I don't think so bitch!
+Stronger unions gives the left better institutional muscle 4
+politics. Can't have bunch of random people running around jumping up
+and down 'protesting', dancing on TikTok and hope there'll be a
+change. Organization, leadership is key.
+
+[[-]](2019/08/focus-group-democracy.md)
 
 ---
 
-2000 Project - Parallax \#music
-
-[[-]](https://youtu.be/wP1DM1KhYvU)
+Catchy title.. competition, good
 
 ---
 
-It's about picking the right pieces, which means the right-sized
-pieces. Tiny particles are too numerous, plus never clearly defined /
-definable.  They are not the right components to put together for
-*greater sum*. But looking at macro measurable attributes, placing
-those together in nonlinear ways (or transform them in ways so they
-can be added linearly) is the right granularity and an approach that
-work for us (humans).
+😂 😂 😂 
 
-"You said science is not about tiny particles, instead mathematical
-relations, but in greater sum approach you say nonlinear combos can
-have large effects"
+Politico: "Biden wants more U.S. students to become butchers"
 
 ---
 
-[Link](https://pbs.twimg.com/media/FK-476_WYAAT2pk?format=jpg&name=small)
+Warning against the military-industrial complex: Eisenhower - GOP.
 
 ---
 
-Dark chocolate is the secret ingredient in beef bourguignon. I see.. \#F24
+He did share the odd pearl (!) on the government, but his generation
+was brought up under the shadow of The New Deal, just like the later
+generation wld grow up under the shadow of his -- he was trying to
+offset what came before imo.
 
-Plat du Dimanche... Yes..
+---
+
+Anti-trust isn't just for better capitalism, also for the power
+dynamic between gov and biz. Reagan was GOP, and a public servant. He
+had to be cognizant of the fact that in order to serve, officials need
+power.
+
+
+---
+
+Wld expect the Dems to be more hawkish on anti-trust, but no..  After
+RR not only did they let existing monopolies fester, they gave rise to
+new ones. So called libertarians either watched like a gaping fish, or
+generated some junk culture war material for Reps to use while
+weaseling their way in to give their billionaire friends cover.
+
+---
+
+Anti-trust could be a Republican thing.. if you are pro-business,
+especially pro **small** business, conservatives can go there.. Ronald
+Reagan broke up AT&T.
 
 ---
 

@@ -14,7 +14,7 @@ Density of liquid ammonia 682 kg/m³
 
 Density of light crude oil 875.7 kg/m3
 
-1 kg has energy of 39.7 kWh (143 MJ).
+1 kg has energy of 33.6 kWh (143 MJ).
 
 At 500 bar, 33 kg H2 /m3.
 
