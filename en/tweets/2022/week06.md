@@ -70,7 +70,7 @@ Republicans. All those merry band of cocksuckers around Peter Thiel do
 nothing but that.. The German version of a libertarian will fight
 an abortion rule created by *actual Nazis*, US faux-libertarians will
 stand silent on the issue to weasel their way in to Rep circles then once
-inside push for [anti-green agenda](2022/01/faux-contrarians-faux-liberterians.md).
+inside push for [anti-green agenda](../../2022/01/faux-contrarians-faux-liberterians.md).
 These are truly some wretched cocksuckers.
 
 ---
@@ -98,7 +98,7 @@ This is some kind of crazy science!
 
 ---
 
-[Stochastic parrot](2020/07/ai-comments.md#parrot)
+[Stochastic parrot](../../2020/07/ai-comments.md#parrot)
 
 ---
 
