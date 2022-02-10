@@ -29,7 +29,7 @@ future whilst also leveraging its export potential"
 
 ---
 
-Energy imports *from* Japan? Desparate times indeed.
+Energy imports *from* Japan? Desparate times 
 
 "Japan to divert LNG to Europe amid Russia-Ukraine tensions"
 
