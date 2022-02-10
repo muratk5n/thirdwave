@@ -58,6 +58,10 @@ breakeven."
 
 ---
 
+This is reserves not annual production. 
+
+---
+
 RU is Number One.
 
 ---
