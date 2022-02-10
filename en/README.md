@@ -181,7 +181,7 @@ says otherwise.
 ---
 
 They likely stockpiled it for fear of getting cut off the financial
-markets, not a grand plan.
+markets, not to replace the money system.
 
 "China and Russia have been stockpiling gold for years - this might be
 a sign gold can become the new currency"
