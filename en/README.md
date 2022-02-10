@@ -156,10 +156,10 @@ lot of intangible even in the most tangible asset there is -
 
 Without the record of who owns what real-estate would have no meaning.
 In some distant future such record-keeping could completely move to
-peer-to-peer based service, that's possible. If government, or a
-future form of government decides to enforce that instead of the ones
-it keeps itsel, then peer-to-peer digital assets would become the
-final arbiter of ownership.
+peer-to-peer based service. If gov, or a future form of gov
+decides to enforce that instead of the ones it keeps itself, then
+peer-to-peer digital assets would become the final arbiter of
+ownership.
 
 ---
 
