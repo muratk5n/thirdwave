@@ -2,12 +2,6 @@
 
 ---
 
-"@IEA_SolarPACES
-
-Botswana aims to build a 200 MW Concentrated Solar Power Plant"
-
----
-
 H2 View "Mandan, Hidatsa and Arikara Nation [in US] to provide natural
 gas for the Great Plains Hydrogen Hub in the US.. Based in North
 Dakota, US, Bakken Energy and Mitsubishi Power Americas have joined
@@ -16,6 +10,12 @@ which is derived from natural gas with the carbon emissions being
 capture and sequestered.. The duo said they hope to connect the
 facility by pipeline to other hydrogen hubs currently being developed
 throughout North America"
+
+---
+
+"@IEA_SolarPACES
+
+Botswana aims to build a 200 MW Concentrated Solar Power Plant"
 
 ---
 
