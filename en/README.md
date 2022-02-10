@@ -62,11 +62,7 @@ This is reserves not annual production.
 
 ---
 
-RU is Number One.
-
----
-
-IRN Number Two.
+IRN, Number Two. RU, Number One. 
 
 ---
 
