@@ -6,6 +6,31 @@ From Toffler's book
 
 Re-Globalization
 
+In 1900 the turn of a new century was celebrated in Paris with a Grand
+Exhibition devoted to progress, and the newspaper *Le Figaro*, barely
+able to contain itself, crowed: “How fortunate we are to be living on
+this first day of the 20th century!” One source of enthusiasm was the
+world’s advance, as the rich nations saw it, toward global economic
+integration—a rational process that, by changing spatial and political
+relationships, would make economies flourish.  Sounding much like the
+true believers in economic globalization today, economists spoke
+enthusiastically of how more and more of the world was being stitched
+or bolted together... Within fourteen years of the Grand Exhibition,
+the “stitches” or “bolts” broke and the slaughter of World War I
+violently disrupted flows of trade and capital...
+
+In the post–World War II years, America, its industrial base intact
+and, if anything, strengthened by the war, needed export markets for
+its goods and, above all, its capital. The world was hungry for
+American products, often the only products available.  Moreover,
+advancing technology made it cheaper and easier to serve
+larger-than-national markets. Thus, convinced that global economic
+reintegration would serve their own purposes while generally advancing
+world economic growth, American elites undertook to create
+cross-border markets through which goods, capital, information and
+skills could once more flow with minimal friction. This, then, took on
+the form of an ideological crusade for re-globalization...
+
 Because the economic integration today is far more dense, multilayered
 and complicated, linking so many diverse economies at so many
 different levels, it requires systematically designed fail-safes,
