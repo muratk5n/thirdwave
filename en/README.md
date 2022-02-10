@@ -19,7 +19,7 @@ throughout North America"
 
 ---
 
-`300000*1000*33.6 / (365*24*1e6)` gives 1.15 Gigawatts. Lot of energy,
+300000*1000*33.6 / (365*24*1e6) gives 1.15 Gigawatts. Lot of energy,
 equivalent to one nuclear plant.
 
 "Suez Canal green hydrogen production... With news that Egypt will
