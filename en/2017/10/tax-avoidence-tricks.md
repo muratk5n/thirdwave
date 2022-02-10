@@ -1,4 +1,4 @@
-# Tax Avoidance, Trickery
+# Tax Avoidance
 
 [J. Cochrane](https://johnhcochrane.blogspot.com/2017/10/corporate-tax-burden-again.html)
 
