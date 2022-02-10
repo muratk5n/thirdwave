@@ -77,8 +77,8 @@ with oil but I'd say NG is now the king.
 
 The oscillations for natgas indicates to me its consumption is much
 more sensitive / responsive to demand, is depended on more, looks
-seasonal meaning NG is probably the primary method for heating. NG is
-the king to unseat. Or utilize, with blue H2.
+seasonal so NG is probably the primary method for heating. NG is the
+king to unseat. Or utilize, with blue H2, it's fine.
 
 Nuclear use has been flat; if nuke plants were doubled it still
 would not reach natgas levels.
