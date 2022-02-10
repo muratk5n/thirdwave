@@ -95,10 +95,10 @@ World Energy Consumption by Source, Monthly (twh)
 
 ---
 
-@garrygolden...
+"@garrygolden...
 
 BEVs lithium supplies are clear disaster. Fuel cells cheaper per
-kW, need fraction of it b/c Hydrogen gives range
+kW, need fraction of it b/c Hydrogen gives range"
 
 [[-]](https://twitter.com/garrygolden/status/1491766941106724865)
 
