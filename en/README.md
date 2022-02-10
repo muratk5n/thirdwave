@@ -35,8 +35,7 @@ Energy imports *from* Japan? Desparate times
 
 ---
 
-Fusion, pipeliens.. all about the hydrogen atom, the simplest
-element. Smash them together, energy. Transport them as molecules.
+Fusion, clean fuel pipeliens.. all about the hydrogen atom.
 
 ---
 
