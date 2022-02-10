@@ -4,12 +4,16 @@ From Toffler's book
 
 <a name='globalization'/>
 
+Re-Globalization
+
 Because the economic integration today is far more dense, multilayered
 and complicated, linking so many diverse economies at so many
 different levels, it requires systematically designed fail-safes,
 eredundancies and other safety devices. Unfortunately, overenthusiastic
 re-globalizers are constructing a gigantic financial cruise ship
 lacking the watertight compartments that even Titanic had...
+
+Org Innovation
 
 IBM, Kodak and the NYPD are all large old organizations. But
 preventing the oncoming implosion requires more than changing in-place
@@ -44,4 +48,35 @@ Gesellschaft mit bescrankter Haftung, the 1892 German law that was the
 first to embody it. Can anyone imagine what today's world economy and
 financial system would look like minus limited liability for
 investors?  Was that any less achievement than, say, the telegraph?
+
+<a name='intangible'/>
+
+The Intangible in the Tangible
+
+Property is the place to start because property is the origin of the
+capital on which capitalism itself is based. And both are now morphing
+into something new and strange.  Property has often been described, as
+it still is in one leading English-language dictionary, as “a thing or
+things belonging to someone.” But dictionaries can be wrong, and
+property never was just a thing or things.  In his groundbreaking book
+The Mystery of Capital, the brilliant Peruvian economist Hernando de
+Soto has shown that no matter how thing-like or tangible, property has
+always had an intangible aspect as well.
+
+A house, a car or a camera isn’t property if it is unprotected by laws
+and social norms, and if anyone can snatch it away from you at any
+time and use it for any purpose. In capital-rich countries there is,
+in addition to protected legal rights and rules of ownership, an
+immense system in place that helps convert property to investable
+capital, which, in turn, stimulates economic development and wealth
+creation.  This system consists of a vast, ever-changing knowledge
+base that lists who owns what, tracks transactions, helps hold people
+accountable for contracts, provides credit information and is
+integrated nationally so that users are not limited to doing business
+locally. This adds to the value of property. No such highly developed
+information systems are found in capital-poor countries, according to
+de Soto.
+
+It is, in short, the intangible aspects—not just the physical aspects
+alone—that define property and give it value.
 
