@@ -117,9 +117,9 @@ Snyder.. Grand.
 
 Japanese real-estate bubble (1986-1990)? Look at the central bank
 rates during that same period, they were at their lowest level they
-had been since WWII. Ergo, bubble. Later, that bubble is handled but a
-stagnation persisted.. Abenomics simply gave more money to the rich,
-salaries did not budge. No inflation. Low rates.
+had been since WWII. Ergo, bubble. Bubble burst but a stagnation
+remained.. Abenomics gave more money to the rich, salaries did not
+budge. No inflation. Low rates.
 
 ---
 
