@@ -19,7 +19,7 @@ Botswana aims to build a 200 MW Concentrated Solar Power Plant"
 
 ---
 
-300000*1000*33.6 / (365*24*1e6) gives 1.15 Gigawatts. Lot of energy,
+300000 x 1000 x33.6 / (365x24x1e6) gives 1.15 Gigawatts. Lot of energy,
 equivalent to one nuclear plant.
 
 "Suez Canal green hydrogen production... With news that Egypt will
