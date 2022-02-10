@@ -163,7 +163,7 @@ ownership.
 
 ---
 
-Globalization should actually be called re-globalization - it happened [before](2008/03/revolutionary-wealth-toffler.md#globalization)
+Globalization (or re-globalization) happened [before](2008/03/revolutionary-wealth-toffler.md#globalization)
 (didn't end well).
 
 ---
