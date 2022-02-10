@@ -142,9 +142,8 @@ There are many [tricks](2017/10/tax-avoidence-tricks.md)
 
 ---
 
-There could be ways to hide certain aspects of knowledge, but knowing
-who owns what, would that be a bad thing? Excessive wealth would be
-visible to see. 
+That could be ok depending on the social norms.. Excessive wealth
+would be visible to see.
 
 "But then anyone can see who owns what"
 
