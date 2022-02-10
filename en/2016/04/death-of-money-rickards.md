@@ -20,12 +20,13 @@ Even larger amounts are moved offshore through the mis-invoicing of
 exports and imports. For example, a Chinese furniture manufacturer can
 create a shell distribution company in a tax haven jurisdiction such
 as Panama. Assuming the normal export price of each piece of furniture
-is $200, the Chinese manufacturer can underinvoice the Panamanian
-company and charge only $100 for each piece. The Panamanian company
-can then resell into normal distribution channels for the usual price
-of $200 per piece. The $100 “profit” per piece resulting from the
-underinvoicing is then left to accumulate in Panama. With millions of
-furniture items shipped, the accumulated phony profit in Panama can
-reach into the hundreds of millions of dollars. This is money that
-would have ended up in China but for the invoicing scheme.
+is 200 dollars, the Chinese manufacturer can underinvoice the
+Panamanian company and charge only 100 dollars for each piece. The
+Panamanian company can then resell into normal distribution channels
+for the usual price of $200 per piece. The $100 “profit” per piece
+resulting from the underinvoicing is then left to accumulate in
+Panama. With millions of furniture items shipped, the accumulated
+phony profit in Panama can reach into the hundreds of millions of
+dollars. This is money that would have ended up in China but for the
+invoicing scheme.
 
