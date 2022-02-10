@@ -250,18 +250,6 @@ distancing"
 
 ---
 
-The old man had it all.. I am just lip-syncing here.
-
-Toffler, *Revolutionary Wealth*, 2006: "Because the economic
-integration today is far more dense, multilayered and complicated,
-linking so many diverse economies at so many different levels, it
-requires systematically designed fail-safes, redundancies and other
-safety devices. Unfortunately, overenthusiastic re-globalizers are
-constructing a gigantic financial cruise ship lacking the watertight
-compartments that even Titanic had"
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Global hopes for hydrogen economy revived amid EU push <a href="https://t.co/9emKkd1R7S">https://t.co/9emKkd1R7S</a></p>&mdash; FCH JU (@fch_ju) <a href="https://twitter.com/fch_ju/status/1245653328865853440?ref_src=twsrc%5Etfw">April 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
