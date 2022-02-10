@@ -60,8 +60,8 @@ entrenched resistance to change than we ﬁnd in the advanced economies
 today. And many of their innovations in business and society have been
 at least as important as those in technology.
 
-We know the names of many of history‘s great technological innovators
-- Savery and Newcomen and the steam engine, Whitney and the cotton
+We know the names of many of history‘s great technological innovators -
+Savery and Newcomen and the steam engine, Whitney and the cotton
 gin, Edison and electric lighting, Morse and the telegraph, Daguere
 and photography, Marconi and the radio, Bell and the telephone. And we
 justly celebrate their immense contributions.
