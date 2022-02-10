@@ -73,11 +73,17 @@ IRN Number Two.
 
 Few things jump out from the graph; coal consumption went down, natgas
 took its place (just as polluting, if not more). Natgas is now on par
-with oil but I'd say NG is now the king. I look at the oscillations
-for natgas, indicates to me its consumption is much more sensitive /
-responsive to demand, meaning is depended on more, looks seasonal
-meaning NG is probably the primary method for heating. NG is the king
-to unseat. Or utilize, with blue H2.
+with oil but I'd say NG is now the king.
+
+I look at the oscillations for natgas, indicates to me its consumption
+is much more sensitive / responsive to demand, meaning is depended on
+more, looks seasonal meaning NG is probably the primary method for
+heating. NG is the king to unseat. Or utilize, with blue H2.
+
+Nuclear use has been flat; if nuke plants were doubled it still
+would not reach natgas levels.
+
+Renewables are at an abysmal level. 
 
 ---
 
