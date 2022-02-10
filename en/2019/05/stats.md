@@ -897,7 +897,6 @@ Name: Adj Close, dtype: float64
 
 ![](eunatgas.png)
 
-
 <a name="coal"></a>
 
 Coal Price
