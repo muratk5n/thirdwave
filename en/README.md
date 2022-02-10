@@ -168,8 +168,7 @@ Globalization should actually be called re-globalization - it happened [before](
 
 ---
 
-Diversity of products a country can produce puts it ahead, not how
-much it is "globalized".
+Diversity of products a country can produce raises its econ, not how much it is globalized.
 
 ---
 
