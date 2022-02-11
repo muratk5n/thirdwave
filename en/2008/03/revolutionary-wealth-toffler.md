@@ -34,7 +34,7 @@ the form of an ideological crusade for re-globalization...
 Because the economic integration today is far more dense, multilayered
 and complicated, linking so many diverse economies at so many
 different levels, it requires systematically designed fail-safes,
-eredundancies and other safety devices. Unfortunately, overenthusiastic
+redundancies and other safety devices. Unfortunately, overenthusiastic
 re-globalizers are constructing a gigantic financial cruise ship
 lacking the watertight compartments that even Titanic had...
 
