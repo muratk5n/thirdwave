@@ -161,7 +161,7 @@ ownership.
 
 ---
 
-Globalization (no re-globalization) happened [before](2008/03/revolutionary-wealth-toffler.md#globalization)
+Globalization (now re-globalization) happened [before](2008/03/revolutionary-wealth-toffler.md#globalization)
 (didn't end well).
 
 ---

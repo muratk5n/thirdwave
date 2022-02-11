@@ -101,9 +101,11 @@ def get_financials(ticker):
     return res
 
 def get_income(ticker):
-    res = get_income_statement(ticker,yearly=False)
-    print (res)
-    print (res.loc['totalRevenue'])
+    res = get_income_statement(ticker,yearly=False).T
+    df = res.sort_index()
+    df = df / 1e6
+    df['grossProfitMargin'] = df.grossProfit / df.totalRevenue * 100.0
+    return (df)
     
 def get_disp(ticker, atts):
     q = get_financials(ticker)
