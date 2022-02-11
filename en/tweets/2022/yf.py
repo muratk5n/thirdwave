@@ -4,14 +4,18 @@ Scrapes Yahoo Finance and gets the information listed below.
 from bs4 import BeautifulSoup
 from bs4.element import Comment
 import re, requests
+from yahoo_fin.stock_info import get_income_statement
 
 headers = { 'User-Agent': 'UCWEB/2.0 (compatible; Googlebot/2.1; +google.com/bot.html)'}
 
 ksurl = "https://finance.yahoo.com/quote/%s/key-statistics?p=%s"
 cfurl = "https://finance.yahoo.com/quote/%s/cash-flow?p=%s"
+isurl = "https://finance.yahoo.com/quote/%s/financials?p=%s"
 
 labels_cf = ['Operating Cash Flow','Investing Cash Flow','Financing Cash Flow',
              'Capital Expenditure','Issuance of Debt','Free Cash Flow']
+
+labels_is = ['Total Revenue','Pretax Income']
 
 labels_ks = ['Market Cap \(intraday\)','Enterprise Value','Trailing P/E',
              'Forward P/E','PEG Ratio \(5 yr expected\)','Price/Sales  \(ttm\)',
@@ -96,15 +100,23 @@ def get_financials(ticker):
     res = {**ks, **cf}
     return res
 
+def get_income(ticker):
+    res = get_income_statement(ticker,yearly=False)
+    print (res)
+    print (res.loc['totalRevenue'])
+    
 def get_disp(ticker, atts):
     q = get_financials(ticker)
     print (ticker, [(a + ': ' + str(q[a])) for a in atts])
 
-def test():    
+def test1():    
     res = get_financials("AMZN")
     print (res)
     atts = ["Revenue  (ttm)", "Capital Expenditure"] 
     q = get_disp("SHOP", atts)
 
+def test2():    
+    res = get_income("DIS")
+    
 if __name__ == "__main__": 
-    test()
+    test2()
