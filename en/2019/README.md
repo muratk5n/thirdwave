@@ -84,6 +84,8 @@
 
 [The Most Powerful Greenhouse Gas Known to Man](09/sf6.md)
 
+[My Life](10/my-life-clinton.md)
+
 [Terry Jones' Barbarians](10/terry-jones-barbarians.md)
 
 [America's Secret War](11/americas-secret-war-friedman.md)

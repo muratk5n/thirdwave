@@ -86,7 +86,7 @@
 
 [The Road to Ruin](10/road-to-ruin-rickards.md)
 
-[Tax Avoidance, Trickery](10/tax-avoidence-tricks.md)
+[Tax Avoidance](10/tax-avoidence-tricks.md)
 
 [#thepurge](10/thepurge.md)
 

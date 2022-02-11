@@ -290,23 +290,14 @@ Re-share. Brexiters up to no good on healthcare.
 
 ---
 
-Clinton, *My Life*
+[Excerpt](../../2019/10/my-life-clinton.md)
 
->Center Point was a little place of fewer than two hundred people. The
-black notebook said the man to see was Bo Reece, a longtime supporter
-who lived in the best house in town. In the days before television
-ads, there was a Bo Reece in most little Arkansas towns. A couple of
-weeks before the election, people would ask, “Who’s Bo for?” His
-choice would be made known and would get about two- thirds of the
-vote, sometimes more.
-
-This dynamic still exists BTW, through media, Internet.
-
-Does this mean ppl are even less skillful on politics than we thought?
-They dont even chose a representative, they chose a thought leader who
-choses a representative? Not necessarily.. they still chose a person
-to follow, who they think knows about an issue more than they. That
-also takes skill.
+The dynamic explained there still exists BTW, through media,
+Internet. Does this mean ppl are even less skillful on politics than
+we thought?  They dont even chose a representative, they chose a
+thought leader who choses a representative? Not necessarily.. they
+still chose a person to follow, who they think knows about an issue
+more than they. That also takes skill.
 
 ---
 
