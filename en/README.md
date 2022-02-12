@@ -45,7 +45,7 @@ then the grid at 8th the cost.
 
 ---
 
-Good progress. But be aware, fusion energy did not 'arrive' yet
+Good progress. But beware, fusion energy did not 'arrive' yet
 
 BBC: "The UK-based JET laboratory has smashed its own world record for
 the amount of energy it can extract by squeezing together two forms of
