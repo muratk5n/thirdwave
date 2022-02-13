@@ -11,10 +11,7 @@ generate the hydrogen"
 
 ---
 
-Electricity is a waste, a dead-end tech in many ways; push it down to
-end-user, local level, generate as needed. For storage, transport, raw
-energy generation all needs to be molecule based. CSP goes from heat
-to pure H2.
+Going direct to H2 is an excellent pathway
 
 ---
 
