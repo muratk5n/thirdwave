@@ -1,187 +1,210 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
----
 
-H2 View "Mandan, Hidatsa and Arikara Nation [in US] to provide natural
-gas for the Great Plains Hydrogen Hub in the US.. Based in North
-Dakota, US, Bakken Energy and Mitsubishi Power Americas have joined
-forces on a $2bn hub which will focus on blue hydrogen production
-which is derived from natural gas with the carbon emissions being
-capture and sequestered.. The duo said they hope to connect the
-facility by pipeline to other hydrogen hubs currently being developed
-throughout North America"
 
 ---
 
-"@IEA_SolarPACES
-
-Botswana aims to build a 200 MW Concentrated Solar Power Plant"
-
----
-
-300000 x 1000 x33.6 / (365x24x1e6) gives 1.15 Gigawatts. Lot of energy,
-equivalent to one nuclear plant.
-
-"Suez Canal green hydrogen production... With news that Egypt will
-gain a new 300,000 tonnes waste-to-hydrogen production plant, it is
-clear hydrogen will become a major aspect of the nation’s renewable
-future whilst also leveraging its export potential"
+"2,500 tonne per year low-carbon hydrogen project to be developed in
+Canada.. The hydrogen production project will utilise Hazer technology
+with FortisBC supplying the natural gas feedstock required in order to
+generate the hydrogen"
 
 ---
 
-Energy imports *from* Japan? Desparate times 
-
-"Japan to divert LNG to Europe amid Russia-Ukraine tensions"
-
----
-
-Fusion, clean fuel pipeliens.. all about the hydrogen atom.
+Electricity is a waste, a dead-end tech in many ways; push it down to
+end-user, local level, generate as needed. For storage, transport, raw
+energy generation all needs to be molecule based. CSP goes from heat
+to pure H2.
 
 ---
 
-After, especially after, fusion becomes viable, H2 infrastructure be
-essential to transport the power in efficient ways. 10 times faster
-then the grid at 8th the cost.
+DOE has lit on solar thermochemical water splitting. 
+
+[[-]](https://www.energy.gov/eere/fuelcells/hydrogen-production-thermochemical-water-splitting)
 
 ---
 
-Good progress. But beware, fusion energy did not 'arrive' yet
-
-BBC: "The UK-based JET laboratory has smashed its own world record for
-the amount of energy it can extract by squeezing together two forms of
-hydrogen...  Fusion reactions in the lab famously consume more energy
-to initiate than they can output... But there is solid evidence that
-this deficit can be overcome.. It's hoped the French lab will get to
-breakeven."
-
-[[-]](https://www.bbc.co.uk/news/science-environment-60312633)
+I joined a DOE Webinar and got that quote from the said expert. 🤙 🤓
+And readers say I do nothing for them..
 
 ---
 
-This is reserves not annual production. 
+I like the STWS tech, good stuff
+
+CSP Expert: "There are several potential ways of generating hydrogen
+using CSP. A number of researchers (and a couple of startup companies)
+are developing 'solar thermochemical water splitting' which uses a
+catalyst (like ceria) at very high temperature to split steam into
+nhydrogen and oxygen. CSP can also be integrated with high temperature
+steam electrolysis (using solid oxide electrolysis cells) to
+electrolytically split water at higher efficiencies than typical PEM
+electrolyzers"
 
 ---
 
-IRN, Number Two. RU, Number One. 
+If Bulgaria spends four times as Sweden spends on heating, this means
+their insulation is probably four times worse. Likely true for many
+countries in the world. Fix that, cut emissions by 10%. Blend 20% to
+existing natgas infra, another 10%.
 
 ---
 
-"Qatar.. ranking 3rd in the world, holds.. about 12% of the world's total natural gas reserves "
+"Buildings account for 36% of EU GHG emissions and 40% of its energy
+use: energy efficiency is the most cost-effective method of reducing
+their emissions.'.. Innovative SMEs based in the EU are developing a
+range of solutions for a more energy-efficient building stock...
+[such as a]dvanced low-carbon materials, including high-performance,
+unobtrusive insulation techniques"
+
+[[-]](https://www.cleantechforeurope.com/blog-posts/energy-efficiency-policy-proposals-from-the-eu-innovation-community)
 
 ---
 
-Few things jump out from the graph; coal consumption went down, natgas
-took its place (just as polluting, if not more). Natgas is now on par
-with oil but I'd say NG is now the king.
+Nearly 40% of energy use cannot possibly be causing 20% of the
+emissions. Factually incorrect.
 
-The oscillations for natgas indicates to me its consumption is much
-more sensitive / responsive to demand, is depended on more, looks
-seasonal so NG is probably the primary method for heating. NG is the
-king to unseat. Or utilize, with blue H2, it's fine.
-
-Nuclear use has been flat; if nuke plants were doubled it still
-would not reach natgas levels.
-
-Renewables are at an abysmal level. 
+"Heating, cooling is responsible for 20% of GHG emissions"
 
 ---
 
-World Energy Consumption by Source, Monthly (twh)
-
-<img width="340" src="https://pbs.twimg.com/media/FLQGtjrWUAIvLbw?format=png&name=small"/>
-
-[[-]](2019/05/stats.md#engconsumption)
-
----
-
-"@garrygolden...
-
-BEVs lithium supplies are clear disaster. Fuel cells cheaper per
-kW, need fraction of it b/c Hydrogen gives range"
-
-[[-]](https://twitter.com/garrygolden/status/1491766941106724865)
+Doubling nuke plants globally sound far-fetched.. Plus many are
+freaked out about them; on paper everyone's like 'on yeah a GW level
+nuke plant sounds great man!'. But you ask if they want it in their
+backyard, near their city, they go 'aw man, like, no, how about the
+neighboring state, they'll be fine with that.. not here'
 
 ---
 
-Star Wars inspired Netflix film in the works, *Rebel Moon* by Zack
-Snyder.. Grand.
+H2 View: "US Senators discuss clean hydrogen at an energy
+committee.. US Senator Joe Manchin has discussed the positive impact
+clean hydrogen could have on the domestic economy.. 'That is why I
+made research, development, and demonstration of these technologies a
+central part of the Energy Infrastructure Act..  In that bill, we fund
+$9.5bn in research, development, and demonstration of clean hydrogen
+and we task the Department of Energy to develop a national strategy
+and roadmap to get us to a clean hydrogen economy'"
 
-[[-]](https://twitter.com/Variety/status/1491520292673388552)
-
----
-
-"CENTCOM commander confirms UAE successfully used THAAD"
-
----
-
-Japanese real-estate bubble (1986-1990)? Look at the central bank
-rates during that same period, they were at their lowest level they
-had been since WWII. Ergo, bubble. Bubble burst but a stagnation
-remained.. Abenomics gave more money to the rich, salaries did not
-budge. No inflation. Low rates.
+[[-]](https://www.h2-view.com/story/us-senators-discuss-clean-hydrogen-at-an-energy-committee)
 
 ---
 
-Big Swing Face - There Ain't Nobody Here But Us Chickens \#music
-
-[[-]](https://youtu.be/6QIiNhfnB4c)
-
----
-
-Autralia, Phillipines, NZ opening up
-
-"More countries reopen to travelers, signaling a big shift in pandemic
-thinking"
+"EU sanctions would target Russia’s financial and energy sectors if
+Moscow opts to invade Ukraine, EU Commission chief Ursula von der
+Leyen said Friday"
 
 ---
 
-There are many [tricks](2017/10/tax-avoidence-tricks.md)
+There were gazillion different ways of saying what he said that in a
+debate. You say 'we'll look into the issue', 'I hear some of the
+concerns of the parents' blah blah..  invite them in, even include
+them somehow.. But then keep teaching the truth.
 
-"How does tax avoidance work?"
+That's not what this mucker did. He blew a fuse, got all mad, bcz the
+real issue is there were two people on that debate connnected to the
+Carlyle Group, they have nothing else to disagree on, so the Dem
+libtard gets triggered. The situation could easily be deflected,
+instead TM gave the other side ammunition for culture war. But guess
+what - in culture wars Reps usually win, so he had his ass handed to
+him, proving once again the bizarre Dem moderate centrism has a
+long-term electability problem.
 
----
-
-That could be ok depending on the social norms.. Excessive wealth
-would be visible to see.
-
-"But then anyone can see who owns what"
-
----
-
-NFT is simply a record of ownership, it's intangible; but there is a
-lot of intangible even in the most tangible asset there is -
-[property](2008/03/revolutionary-wealth-toffler.md#intangible).
-
-Without the record of who owns what real-estate would have no meaning.
-In some distant future such record-keeping could completely move to
-peer-to-peer based service. If gov, or a future form of gov
-decides to enforce that instead of the ones it keeps itself, then
-peer-to-peer digital assets would become the final arbiter of
-ownership.
+"McAuliffe stood for truth in the debate with Youngkin, he should be supported"
 
 ---
 
-Globalization (now re-globalization) happened [before](2008/03/revolutionary-wealth-toffler.md#globalization)
-(didn't end well).
+This is while FR is opening up.. ? 🤨
+
+"French Demonstrators Converge on Paris, Inspired by Canadian Trucker
+Protests"
 
 ---
 
-Diversity of products a country can produce raises its econ, not how much it is globalized.
+Dual Systems - Enjoy Your Trip \#music
+
+[[-]](https://youtu.be/5Y0oPDufTs8)
 
 ---
 
-The theory of [economic complexity](2017/08/economic-complexity-hidalgo.md#global)
-says otherwise.
-
-"Globalization will always work, division of labor idea of Adam Smith says so"
+Roddenberry was a combat pilot in WWII. As a civilian his plane
+crashed in Syria due to engine failure he pulled passangers to safety
+from burning fire. He was not a mediocre shitlib boomer watching civil
+rights protests on TV getting stoned on a bong while getting a blowjob
+and thinking if he was ever on the board of one of those bloodsucking
+big corporations one day he'd like to see some 'diversity'
+there.. Those sisters in the protests looked hot!
 
 ---
 
-They likely stockpiled it for fear of getting cut off the financial
-markets, not to replace the money system.
+Boomer still talking shit on the great G-Rod
 
-"China and Russia have been stockpiling gold for years - this might be
-a sign gold can become the new currency"
+---
+
+DIS stock fall pre-Feb might have priced the fails in Q4, which later
+showed up in the gross profit. Later the perception improved. I'd
+watch Q1, if lower GM, problem.
+
+---
+
+What is gross profit margin? See Buffett's [open buffet](https://finance.yahoo.com/news/buffett-financial-statements-income-statement-204642939.html)
+
+---
+
+Revenue growth fine, gross profit margin doesn't look great - DIS
+spending too much on non-profitable projects? 🤔 IMO last quarter saw
+some triumphs, but also a lot of misses. 
+
+---
+
+In millions USD
+
+
+```python
+import pandas as pd, yf
+df = yf.get_income('DIS')
+pd.set_option('display.max_columns', None)
+print (df[['grossProfit','totalRevenue','grossProfitMargin']])
+```
+
+```text
+Breakdown  grossProfit totalRevenue grossProfitMargin
+endDate                                              
+2021-04-03        5831        15613           37.3471
+2021-07-03        5789        17022           34.0089
+2021-10-02        6193        18534           33.4143
+2022-01-01        2196        21819           10.0646
+```
+
+---
+
+How are the latest Disney financials?
+
+---
+
+Politico: "Masks off? Democrats try for a pandemic pivot.. The party's
+governors are ditching them. Its swing-state lawmakers are ready to
+follow"
+
+---
+
+Shiny Objects - Outerlimits \#music
+
+[[-]](https://youtu.be/_MEYq0mSSMU)
+
+---
+
+A whole 50 basis points? Nooo--o-o-o-ooooo! Dont take away our punch bowl!
+
+CNBC: "U.S. inflation data... means the next Fed rate hike could be as
+aggressive as 50 basis points, said Nathan Sheets, global chief
+economist at Citi Research"
+
+---
+
+"Japan, US hone combined naval expeditionary capabilities at Exercise ‘Noble Fusion'"
+
+---
+
+"Indonesia orders 42 Rafale fighters [from France]"
 
 ---
 
