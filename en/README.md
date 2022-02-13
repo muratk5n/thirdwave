@@ -28,8 +28,6 @@ I joined a DOE Webinar and got that quote from the said expert. 🤓
 
 ---
 
-I like the STWS tech, good stuff
-
 CSP Expert: "There are several potential ways of generating hydrogen
 using CSP. A number of researchers (and a couple of startup companies)
 are developing 'solar thermochemical water splitting' which uses a
