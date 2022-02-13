@@ -98,9 +98,9 @@ real issue is there were two people on that debate connected to the
 Carlyle Group, they have nothing else to disagree on, so the Dem
 libtard gets triggered. The situation could easily be deflected,
 instead TM gave the other side ammunition for culture war. But guess
-what - in culture wars Reps usually win, so he had his ass handed to
-him, proving once again the bizarre Dem moderate centrism has a
-long-term electability problem.
+what - in culture wars Reps have a chance too, so he had his ass
+handed to him, proving once again the bizarre Dem moderate centrism
+has a long-term electability problem.
 
 "McAuliffe stood for truth in the debate with Youngkin, he should be supported"
 
