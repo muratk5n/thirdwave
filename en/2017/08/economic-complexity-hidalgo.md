@@ -152,5 +152,11 @@ relatively large fraction of these capabilities in order to be
 produced. The conclusion of this calibration is that the world exists
 in a regime where the quiescence trap is strong.
 
+References
+
 [Hidalgo Code](hidalgo-code.md)
+
+[Paper](https://oec.world/pdf/economic-complexity-theory-and-applications.pdf)
+
+[Paper](https://arxiv.org/pdf/1601.05012.pdf)
 

@@ -1,6 +1,6 @@
 # Globalization
 
-[The Myth of the Liberal International Order](/2018/09/the-myth-of-liberal-international-order.md)
+[The Myth of the Liberal International Order](../../2018/09/the-myth-of-liberal-international-order.md)
 
 [Globaloney](../../2011/04/globaloney.md)
 
