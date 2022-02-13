@@ -48,6 +48,8 @@ existing natgas infra, another 10%.
 
 ---
 
+That sounds right
+
 "Buildings account for 36% of EU GHG emissions and 40% of its energy
 use: energy efficiency is the most cost-effective method of reducing
 their emissions.'.. Innovative SMEs based in the EU are developing a
