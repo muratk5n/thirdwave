@@ -180,12 +180,6 @@ follow"
 
 ---
 
-Shiny Objects - Outerlimits \#music
-
-[[-]](https://youtu.be/_MEYq0mSSMU)
-
----
-
 A whole 50 basis points? Nooo--o-o-o-ooooo! Dont take away our punch bowl!
 
 CNBC: "U.S. inflation data... means the next Fed rate hike could be as
