@@ -138,9 +138,9 @@ Boomer still talking shit on the great G-Rod
 
 ---
 
-DIS stock fall pre-Feb might have priced the fails in Q4, which later
-showed up in the gross profit. Later the perception improved. I'd
-watch Q1, if lower GM, problem.
+DIS stock fall pre-Feb might have priced in the Q4 fails, which showed
+up in the gross profit. Later the perception improved. I'd watch Q1,
+if lower GM, problem.
 
 ---
 
