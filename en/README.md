@@ -149,7 +149,7 @@ some triumphs, but also a lot of misses.
 
 ---
 
-In millions USD
+In millions usd
 
 
 ```python
@@ -188,7 +188,8 @@ economist at Citi Research"
 
 ---
 
-"Japan, US hone combined naval expeditionary capabilities at Exercise ‘Noble Fusion'"
+Jane's Defence: "Japan, US hone combined naval expeditionary
+capabilities at Exercise ‘Noble Fusion'"
 
 ---
 
