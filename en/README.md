@@ -24,8 +24,7 @@ DOE has lit on solar thermochemical water splitting.
 
 ---
 
-I joined a DOE Webinar and got that quote from the said expert. 🤙 🤓
-And readers say I do nothing for them..
+I joined a DOE Webinar and got that quote from the said expert. 🤓
 
 ---
 
