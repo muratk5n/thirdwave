@@ -94,7 +94,7 @@ concerns of the parents' blah blah..  invite them in, even include
 them somehow.. But then keep teaching the truth.
 
 That's not what this mucker did. He blew a fuse, got all mad, bcz the
-real issue is there were two people on that debate connnected to the
+real issue is there were two people on that debate connected to the
 Carlyle Group, they have nothing else to disagree on, so the Dem
 libtard gets triggered. The situation could easily be deflected,
 instead TM gave the other side ammunition for culture war. But guess
