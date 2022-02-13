@@ -60,7 +60,7 @@ unobtrusive insulation techniques"
 ---
 
 Nearly 40% of energy use cannot possibly be causing 20% of the
-emissions. Factually incorrect.
+emissions. 
 
 "Heating, cooling is responsible for 20% of GHG emissions"
 
