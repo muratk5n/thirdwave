@@ -27,7 +27,7 @@ CSP Expert: "There are several potential ways of generating hydrogen
 using CSP. A number of researchers (and a couple of startup companies)
 are developing 'solar thermochemical water splitting' which uses a
 catalyst (like ceria) at very high temperature to split steam into
-nhydrogen and oxygen. CSP can also be integrated with high temperature
+hydrogen and oxygen. CSP can also be integrated with high temperature
 steam electrolysis (using solid oxide electrolysis cells) to
 electrolytically split water at higher efficiencies than typical PEM
 electrolyzers"
