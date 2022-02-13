@@ -66,11 +66,11 @@ emissions. Factually incorrect.
 
 ---
 
-Doubling nuke plants globally sound far-fetched.. Plus many are
-freaked out about them; on paper everyone's like 'on yeah a GW level
-nuke plant sounds great man!'. But you ask if they want it in their
-backyard, near their city, they go 'aw man, like, no, how about the
-neighboring state, they'll be fine with that.. not here'
+Doubling nuke plants globally sound far-fetched.. Too many are freaked
+out about them; first they'll say 'yeah a GW level nuke plant sounds
+great man!'. But you ask if they want it in their backyard, near their
+city, they go 'aw man, like, no, how about the neighboring state,
+they'll be fine with that.. not here'
 
 ---
 
@@ -111,7 +111,7 @@ long-term electability problem.
 
 ---
 
-This is while FR is opening up.. ? 🤨
+This is while FR is opening up.. ? 
 
 "French Demonstrators Converge on Paris, Inspired by Canadian Trucker
 Protests"
