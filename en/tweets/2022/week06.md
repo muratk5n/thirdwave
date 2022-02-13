@@ -90,7 +90,7 @@ World Energy Consumption by Source, Monthly (twh)
 
 <img width="340" src="https://pbs.twimg.com/media/FLQGtjrWUAIvLbw?format=png&name=small"/>
 
-[[-]](2019/05/stats.md#engconsumption)
+[[-]](../../2019/05/stats.md#engconsumption)
 
 ---
 
@@ -135,7 +135,7 @@ thinking"
 
 ---
 
-There are many [tricks](2017/10/tax-avoidence-tricks.md)
+There are many [tricks](../../2017/10/tax-avoidence-tricks.md)
 
 "How does tax avoidance work?"
 
@@ -150,7 +150,7 @@ would be visible to see.
 
 NFT is simply a record of ownership, it's intangible; but there is a
 lot of intangible even in the most tangible asset there is -
-[property](2008/03/revolutionary-wealth-toffler.md#intangible).
+[property](../../2008/03/revolutionary-wealth-toffler.md#intangible).
 
 Without the record of who owns what real-estate would have no meaning.
 In some distant future such record-keeping could completely move to
@@ -161,7 +161,7 @@ ownership.
 
 ---
 
-Globalization (now re-globalization) happened [before](2008/03/revolutionary-wealth-toffler.md#globalization)
+Globalization (now re-globalization) happened [before](../../2008/03/revolutionary-wealth-toffler.md#globalization)
 (didn't end well).
 
 ---
@@ -170,7 +170,7 @@ Diversity of products a country can produce raises its econ, not how much it is 
 
 ---
 
-The theory of [economic complexity](2017/08/economic-complexity-hidalgo.md#global)
+The theory of [economic complexity](../../2017/08/economic-complexity-hidalgo.md#global)
 says otherwise.
 
 "Globalization will always work, division of labor idea of Adam Smith says so"
@@ -310,7 +310,7 @@ have bunch of random people running around jumping up and down
 'protesting', dancing on TikTok and hope there'll be a
 change. Organization, leadership is needed.
 
-[[-]](2019/08/focus-group-democracy.md)
+[[-]](2019/08/../../focus-group-democracy.md)
 
 ---
 
