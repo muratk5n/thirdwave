@@ -61,14 +61,6 @@ emissions.
 
 ---
 
-Doubling nuke plants globally sound far-fetched.. Too many are freaked
-out about them; first they'll say 'yeah a GW level nuke plant sounds
-great man!'. But you ask if they want it in their backyard, near their
-city, they go 'aw man, like, no, how about the neighboring state,
-they'll be fine with that.. not here'
-
----
-
 H2 View: "US Senators discuss clean hydrogen at an energy
 committee.. US Senator Joe Manchin has discussed the positive impact
 clean hydrogen could have on the domestic economy.. 'That is why I
@@ -79,6 +71,14 @@ and we task the Department of Energy to develop a national strategy
 and roadmap to get us to a clean hydrogen economy'"
 
 [[-]](https://www.h2-view.com/story/us-senators-discuss-clean-hydrogen-at-an-energy-committee)
+
+---
+
+Doubling nuke plants globally sound far-fetched.. Too many are freaked
+out about them; first they'll say 'yeah a GW level nuke plant sounds
+great man!'. But you ask if they want it in their backyard, near their
+city, they go 'aw man, like, no, how about the neighboring state,
+they'll be fine with that.. not here'
 
 ---
 
