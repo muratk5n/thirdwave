@@ -125,7 +125,7 @@ from burning fire. He was not a mediocre shitlib boomer watching civil
 rights protests on TV getting stoned on a bong while getting a blowjob
 and thinking if he was ever on the board of one of those bloodsucking
 big corporations one day he'd like to see some 'diversity'
-there.. Those sisters in the protests looked hot!
+there.. Those sisters in the protest looked hot!
 
 ---
 
