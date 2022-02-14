@@ -36,7 +36,7 @@ electrolyzers"
 
 If Bulgaria spends four times as Sweden spends on heating, this means
 their insulation is probably four times worse. Likely true for many
-countries in the world. Fix that, cut emissions by 10%. Blend 20% to
+countries in the world. Fix that, cut emissions by 20%. Blend 20% to
 existing natgas infra, another 10%.
 
 ---
