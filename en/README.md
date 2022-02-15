@@ -2,7 +2,7 @@
 
 ---
 
-Shapes with CSP panels.. 
+Shapes with CSP panels.. Nice
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">More than 27000 <a href="https://twitter.com/hashtag/heliostats?src=hash&amp;ref_src=twsrc%5Etfw">#heliostats</a> of SUPCONSOLAR delingha 50MW CSP plant spell out the Olympic Rings to create an unforgettable <a href="https://twitter.com/hashtag/Olympic?src=hash&amp;ref_src=twsrc%5Etfw">#Olympic</a> moment! <a href="https://twitter.com/hashtag/CosinSolar?src=hash&amp;ref_src=twsrc%5Etfw">#CosinSolar</a> cheers Chinese Athletes on! Go China! <a href="https://twitter.com/hashtag/TogetherForASharedFuture?src=hash&amp;ref_src=twsrc%5Etfw">#TogetherForASharedFuture</a> <a href="https://twitter.com/hashtag/Beijing2022?src=hash&amp;ref_src=twsrc%5Etfw">#Beijing2022</a> <a href="https://t.co/fIaWvNWf3Y">pic.twitter.com/fIaWvNWf3Y</a></p>&mdash; Cosin Solar (@Cosinsolar) <a href="https://twitter.com/Cosinsolar/status/1492862970325389315?ref_src=twsrc%5Etfw">February 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
