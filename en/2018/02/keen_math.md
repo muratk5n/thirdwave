@@ -205,14 +205,14 @@ $$  \lambda^2 - 2\lambda + 1 - \frac{\phi_1}{ \alpha + \phi_0} =0$$
 
 Find roots
 
-```
+```python
 res = np.roots([1, -2, 1-(phi1/(alpha+phi0))])
 lambda1 = res[1]
 print (res)
 ```
 
-```
-  [ 1.03138824  0.96861176]
+```text
+[1.03138824 0.96861176]
 ```
   
 Moving on, set (3) to zero, nontrivial sol, start with
@@ -225,14 +225,14 @@ $$ \overline{\pi}_1 = 1-\omega-rd= \kappa^{-1}(v (\alpha - \beta - \delta)) $$
 
 Very useful, bcz $\overline{\pi}_1$ depends only on constants. Let's calculate
 
-```
+```python
 tmp = v*(alpha+beta+delta) - k0
 pi1 = 1.0/k2 * np.log(np.abs(tmp/k1))
-print 'pi1', pi1
+print ('pi1', pi1)
 ```
 
-```
-pi1 0.161841399381
+```text
+pi1 0.1618413993811929
 ```
 
 For $\overline{\omega}_1$ rearran (5)
@@ -265,11 +265,11 @@ $$
 c1 = r-alpha-beta
 c2 = v*(alpha+beta+delta)
 omega1 = (c1 - c1*pi1+r*c2-r) / (c1-r)
-print omega1
+print (omega1)
 ```
 
-```
-0.836052866873
+```text
+0.8360528668729358
 ```
 
 For $d$ take $\overline{\pi}_1 $ formula, plug in known vals
@@ -280,22 +280,22 @@ $$
 
 ```python
 d1 =  (1-omega1-pi1) / r
-print d1
+print (d1)
 ```
 
-```
-0.0701911248624
+```text
+0.07019112486237693
 ```
 
 Fixed point
 
 ```python
 fp1 = (lambda1,omega1,d1)
-print np.round(fp1,4)
+print (np.round(fp1,4))
 ```
 
-```
-[ 0.9686  0.8361  0.0702]
+```text
+[0.9686 0.8361 0.0702]
 ```
 
 Solve ODE
@@ -324,7 +324,7 @@ d0 = 0.1
 a0 = 0.5
 N0 = 300.
 
-t=np.linspace(0.0,300.0,10000.0)
+t=np.linspace(0.0,300.0,10000)
 args = (alpha,beta,delta,r,k0,k1,k2,v,phi0,phi1)
 res=odeint(rhs,[omega0, lam0, d0, a0, N0],t,args=args)
 omega1, lam1, d1, a1, N1=res[:, 0],res[:, 1],res[:, 2],res[:, 3],res[:, 4]
@@ -349,6 +349,15 @@ plt.ylabel('Y')
 plt.savefig('out_04.png')
 ```
 
+![](out_01.png)
+
+![](out_02.png)
+
+![](out_03.png)
+
+![](out_04.png)
+
+
 Now try starting little away from the fixed point - graph shows we end
 up in purgatory.
 
@@ -359,7 +368,7 @@ d0 = 0.1
 a0 = 0.5
 N0 = 300.
 
-t=np.linspace(0.0,300.0,1000.0)
+t=np.linspace(0.0,300.0,1000)
 args = (alpha,beta,delta,r,k0,k1,k2,v,phi0,phi1)
 res=odeint(rhs,[omega0, lam0, d0, a0, N0],t,args=args)
 omega2, lam2, d2, a2, N2=res[:, 0],res[:, 1],res[:, 2],res[:, 3],res[:, 4]
@@ -383,6 +392,15 @@ plt.plot(t,Y)
 plt.ylabel('Y')
 plt.savefig('out_08.png')
 ```
+
+![](out_05.png)
+
+![](out_06.png)
+
+![](out_07.png)
+
+![](out_08.png)
+
 
 <hr/>
 
@@ -490,11 +508,11 @@ $$ x = x_{max} (1-e^{-t/\tau}) $$
 For $t=\tau,x_{max}=1$ we get  $1-e^{-1}$
 
 ```python
-print 1-np.exp(-1)
+print (1-np.exp(-1))
 ```
 
-```
-0.632120558829
+```text
+0.6321205588285577
 ```
 
 $\tau$ could be seen as approximately how many time steps it takes to
@@ -570,7 +588,7 @@ i0=0.1; # inflation
 arg0 = (alpha, beta, delta, nu, r_b, s, tau_p, tau_i, x_i, y_i, s_i, m_i, x_w, y_w, s_w, m_w)
 
 T=80.0
-t=np.linspace(0.0,T,1000.0)
+t=np.linspace(0.0,T,1000)
 
 res=odeint(rhs,[lambda0, omega0, d0, i0],t,args=arg0)
 lambda1,omega1,d1,i1=res[:, 0],res[:, 1],res[:, 2],res[:, 3]
@@ -583,12 +601,16 @@ plt.ylabel(u'Annual Inflation')
 plt.savefig('inf_01.png')
 ```
 
+![](inf_01.png)
+
 ```python
 plt.plot(t, 100.0*d1)
 plt.xlabel(u'Time')
 plt.ylabel(u'Debt to GDP')
 plt.savefig('inf_02.png')
 ```
+
+![](inf_02.png)
 
 ```python
 last=500;
@@ -607,6 +629,8 @@ ax.set_zlabel(u'Debt')
 ax.view_init(elev=5, azim=250)
 plt.savefig('inf_03.png')
 ```
+
+![](inf_03.png)
 
 References
 

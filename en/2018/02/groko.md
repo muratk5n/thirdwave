@@ -1,8 +1,19 @@
 # GroKo
 
-[GRoKo = Große Koalition (Grand Coalition)] By governing in a national coalition with center-right Christian Democrats for eight of the last 12 years, Social Democrats have often had to compromise against the interests of their traditional working-class base. Tainted — some would say corrupted — by power, they have become both less pure and less effective as a progressive movement in German politics. [..] In the eyes of many voters, the SPD has become just another centrist establishment party. And if that is the case, why not just vote for the real thing, i.e., Merkel’s CDU?
+[GRoKo = Große Koalition (Grand Coalition)] By governing in a national
+coalition with center-right Christian Democrats for eight of the last
+12 years, Social Democrats have often had to compromise against the
+interests of their traditional working-class base. Tainted — some
+would say corrupted — by power, they have become both less pure and
+less effective as a progressive movement in German politics. [..] In
+the eyes of many voters, the SPD has become just another centrist
+establishment party. And if that is the case, why not just vote for
+the real thing, i.e., Merkel’s CDU?
 
-The SPD is now being forced to consider what role, if any, it is going to play in the next German government. The answer it settles on could determine the fate of the party — and the future of Europe’s broader social democratic movement.
+The SPD is now being forced to consider what role, if any, it is going
+to play in the next German government. The answer it settles on could
+determine the fate of the party — and the future of Europe’s broader
+social democratic movement.
 
 Another Grand Coalition Would Be A Disaster For The SPD
 
