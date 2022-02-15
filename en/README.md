@@ -127,10 +127,10 @@ might win this thing.
 --- 
 
 Not sure the Great Game (from the 19th century), the Cold War is
-enough to explain the UK/RU animosity.. It is over-the-top from
-certain aspects. They fought against Hitler, Napoleon together. And,
-ahem, neither side wants a united, strong Europe. Maybe that's what
-changed 🤔
+enough to explain the UK/RU animosity.. It is over-the-top in many
+ways. They fought against Hitler, Napoleon together. And, ahem,
+neither side wants a united, strong Europe. Maybe that's what changed?
+🤔
 
 ---
 
