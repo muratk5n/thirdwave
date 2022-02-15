@@ -85,7 +85,7 @@ industrial process. *That* is power.
 Military is a function of a country's underlying economy, and the
 economy is a function of its inherent diversity. If a country is
 producing nuts and bolts it can put them together for a weapon during
-the time of war. If another is producing only bolts, they can't build
+the time of war. If one is producing only bolts, they can't build
 shit.. This is why Beckley's power measure is ingenious; it captures
 all that through a simple base econ value.
 
