@@ -99,9 +99,9 @@ therefore its economy.
 
 ---
 
-That's right woodcock is a bird isn't it..?
+Right woodcock is a bird isn't it..?
 
-But I bet the bird was named after a cock. And having a wood..
+I bet the bird was named after a cock. And having wood..
 
 ---
 
