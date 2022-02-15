@@ -119,17 +119,17 @@ but they have a long history of giving the far-right the cockblock.
 
 ---
 
-Once I heard that "ala Kärcher" stuff was going around in FR politics,
-I thought 'pols over there still regurgitating old stuff from Sarko
-era?'. That means nothing new is going on over there. Macron just
-might win this thing.
+Once I heard that "ala Kärcher" stuff was still a hit in FR politics,
+I thought 'they are still regurgitating old stuff from Sarko days over
+there?'. That means nothing new is going on... Macron just might win
+this thing.
 
 --- 
 
 Not sure the Great Game (from the 19th century), the Cold War is
 enough to explain the UK/RU animosity.. It is over-the-top in many
 ways. They fought against Hitler, Napoleon together. And, ahem,
-neither side wants a united, strong Europe. Maybe that's what changed?
+neither side wants a united, strong Europe. Maybe that's what changed
 🤔
 
 ---
