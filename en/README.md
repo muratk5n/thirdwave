@@ -94,8 +94,8 @@ all that through a simple base econ value.
 It's not entirely correct to judge a country's power by looking at its
 military size, its ships, guns. Military power is also a function of
 what a country *can build* on demand, when all the chips are
-down.. That is deeply related to its industrial, tech capacity,
-therefore its economy.  
+down.. That is deeply related to its industrial, tech capacity, its
+economy.
 
 ---
 
