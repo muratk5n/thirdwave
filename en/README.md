@@ -99,16 +99,6 @@ therefore its economy.
 
 ---
 
-Right woodcock is a bird isn't it..?
-
-I bet the bird was named after a cock. And having wood..
-
----
-
-Janet *Woodcock*? 😂
-
----
-
 "SEC, states hit crypto lender BlockFi with $100M penalty"
 
 ---
@@ -176,6 +166,16 @@ Unforscene - The Arc \#music
 Pretty Lights - Future Blind \#music
 
 [[-]](https://youtu.be/ag7p8w1bdoE)
+
+---
+
+Right woodcock is a bird isn't it..?
+
+I bet the bird was named after a cock. And having wood..
+
+---
+
+Janet *Woodcock*? 😂
 
 ---
 
