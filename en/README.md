@@ -149,7 +149,7 @@ some triumphs, but also a lot of misses.
 
 ---
 
-In millions usd
+GP, TR in millions usd
 
 
 ```python
