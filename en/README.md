@@ -189,7 +189,7 @@ Easy. Perfectly fits with the stagnating "creditor-paradise" described
 before. Stagnant wages, no inflation, low rates.. What does that lead
 to? It creates an opportunity for a lender to borrow money cheap and
 lending it, adding little interest, to the guy who has a low wage and
-wants to buy stuff. 
+wants to buy stuff. Debt slavery follows. Unrest.
 
 ---
 
