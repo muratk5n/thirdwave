@@ -126,7 +126,7 @@ neither side wants a united, strong Europe. Maybe that's what changed
 
 @mourner is V. Agafonkin, creator of the excellent Leaflet mapping
 software. The dynamics maps I share on conflicts, equakes etc were
-possible thanks him. LL is open-source, of course.
+possible thanks to him. LL is open-source, of course.
 
 ---
 
