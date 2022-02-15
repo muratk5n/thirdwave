@@ -104,8 +104,8 @@ economy.
 ---
 
 The 'French Trump" is new but if its him against EM, voters will flock
-to EM en masse. Say what you will about FR politics, but they have a
-long history of giving the far-right the cockblock.
+to EM en masse. Say what you will about the FR politics, but they have
+a long history of giving the far-right the cockblock.
 
 ---
 
