@@ -105,7 +105,7 @@ But I bet the bird was named after a cock. And having a wood..
 
 ---
 
-Janet *Woodcock*? Great name.
+Janet *Woodcock*? 😂
 
 ---
 
