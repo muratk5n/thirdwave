@@ -203,6 +203,10 @@ Ukraine, RU, military situation
 
 ---
 
+Last post before the fuckin war, WWIII, nuclear winter
+
+---
+
 ## For Members
 
 [Link](https://thirdwave-members.herokuapp.com)
