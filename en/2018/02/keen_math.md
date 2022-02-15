@@ -622,7 +622,7 @@ from mpl_toolkits.mplot3d import Axes3D
 from matplotlib import cm
 fig = plt.figure()
 ax = Axes3D(fig)
-ax.plot(x1,x2,x3,'.', zs=0,zdir='z', label='zs=0, zdir=z')
+ax.plot(x1,x2,x3,'.')
 ax.set_xlabel(u'Unemployment Rate')
 ax.set_ylabel(u'Inflation')
 ax.set_zlabel(u'Debt')
