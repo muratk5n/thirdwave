@@ -59,10 +59,6 @@ Power achieves first debt draw down"
 
 ---
 
-========================================================================
-
----
-
 Steve Keen is running for the Australian Senate? Vote for him!
 
 ---
