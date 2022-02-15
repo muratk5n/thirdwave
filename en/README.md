@@ -111,7 +111,7 @@ a long history of giving the far-right the cockblock.
 
 Once I heard that "ala Kärcher" stuff was still a hit in FR politics,
 I thought 'they are still regurgitating old stuff from Sarko days over
-there?'. That means nothing new is going on... Macron just might win
+there?'. That means nothing new is going on... Macron might just win
 this thing.
 
 --- 
