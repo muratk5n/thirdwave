@@ -151,7 +151,7 @@ relatively close to Kyiv"
 
 ---
 
-As an answer to any Ukraine invasion Japan/US take those disputed
+If as an answer to any Ukraine invasion Japan/US take those disputed
 Kuril islands back for Japan, I will laugh my ass off. RU navy wld be
 busy near Ukraine, the islands are on the other side of the world
 basically, Japan always wanted them back, and I'm sure US would love
