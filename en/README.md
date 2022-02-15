@@ -73,10 +73,10 @@ and debt.
 
 At the height of US's logistic support campaign to Britain during
 WWII, it was building one cargo ship a week, these so-called Liberty
-ships, which were these monstreous constructions, quickly put together
-but they did the job, carried necessary cargo to Britain. US could do
-that for it had the know-how, could creatively speed up a major
-industrial process. 
+ships, which were these monstreous vessels, quickly put together but
+they did the job, carried necessary cargo to Britain. US could do that
+for it had the know-how, could creatively speed up a major industrial
+process.
 
 [Link](https://youtu.be/8qDxqBvK3NA)
 
