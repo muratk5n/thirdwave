@@ -26,7 +26,7 @@ fuel cell vehicles of all types"
 
 ---
 
-"Bloomberg: "China's Giant New Hydrogen Plant to Power Olympics Fuel
+Bloomberg: "China's Giant New Hydrogen Plant to Power Olympics Fuel
 Cell EVs.. One of the world's largest green hydrogen plants has
 started production to power.. fuel-cell vehicles during the Beijing
 Winter Olympic Games"
