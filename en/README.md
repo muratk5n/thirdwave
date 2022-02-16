@@ -109,10 +109,10 @@ a long history of giving the far-right the cockblock.
 
 ---
 
-Once I heard that "ala Kärcher" stuff was still a hit in FR politics,
+Once I heard that "ala Kärcher" saying was still a hit in FR politics,
 I thought 'they are still regurgitating old stuff from Sarko days over
-there?'. That means nothing new is going on... Macron might just win
-this thing.
+there?'. That means nothing new is going on on the opposition
+side... Macron might just win this thing.
 
 --- 
 
