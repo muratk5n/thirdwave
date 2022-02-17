@@ -13,7 +13,6 @@ Ingredients (for three patties)
 * 1 Tblspoon Olive Oil
 * 1/2 Cup Musrooms (diced)
 * 2 Tblspoon Oatmeal
-* 1/2 Tblspoon Wheat Starch
 
 Soften onions and musrooms on a pan. Boil the rice, until its water
 evaporates. Add everything along with the beans, and olive oil in a
