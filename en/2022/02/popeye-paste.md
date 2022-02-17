@@ -4,15 +4,15 @@ Ingredients
 
 * Spinach (500 gr)
 * Purslane (150 gr)
-* Parboiled Kidney Beans ~100g
+* Parboiled Kidney Beans (100 gr)
 * 1/3 Cup White Rice 
 * 1/2 Onion (diced)
 * 1 Tblspoons Olive Oil
 * 3 Tblspoons Oatmeal
-* 5 Pieces (10 Halves) Walnut
+* 5 Walnuts
 * 2 Tblspoons Red Pepper Paste, or Tomato Paste
 * Mozeralla (100 gr)
-* Dried Sour Cherries (one bag, 40 gr, about 40 pieces)
+* Dried Sour Cherries (40g)
 * Bread crumbs
 
 Boil the rice, until its water evaporates. Turn off heat, add the
