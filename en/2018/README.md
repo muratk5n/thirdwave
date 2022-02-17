@@ -110,6 +110,8 @@
 
 [#voterShaming](08/votershaming.md)
 
+[Global E-mail Patterns Reveal “Clash of Civilizations”..](09/global-e-mail-patterns-reveal-clash-of.md)
+
 [Globalization](09/globalization.md)
 
 [Hyundai Nexo](09/hyunda-nexo-additions.md)

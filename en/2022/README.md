@@ -4,3 +4,5 @@
 
 [Particles, Science and AI](01/particles-and-ai.md)
 
+[The Popeye Paste (Mostly Vegan)](02/popeye-paste.md)
+
