@@ -1,4 +1,4 @@
-# The Popeye Paste (Mostly Vegan)
+# The Popeye Paste
 
 Ingredients 
 
