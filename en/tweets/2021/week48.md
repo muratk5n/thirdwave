@@ -229,16 +229,6 @@ with stylus—and ruthlessly refining it"
 
 ---
 
-\#bubbles \#value \#buffett
-
-"If a comp is worth 10 bil dollars, it's got to be able to give you
-700-800 mil next year [if not] maybe 10% more than that the year
-after"
-
-[[-]](https://youtu.be/o72rIKMQQyM?t=224)
-
----
-
 H2 Fuel-Cell Vehicles do not require cobalt.
 
 ---

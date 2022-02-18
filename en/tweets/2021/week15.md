@@ -1,21 +1,5 @@
 # Week 15
 
-"@gabriel_zucman
-
-Post Trump tax reform, the United States collects less corporate
-income tax revenue (as a fraction of GDP) than all other OECD
-countries. Even Hungary, with its 9% tax rate, does better than the
-US...
-
-This matters because, fundamentally, the corporate tax is a minimum
-tax for the very rich. Bezos, Buffett, Zuckerberg, etc can avoid the
-individual income tax by asking their companies not to pay
-dividends. But they still have to pay the corporate tax
-
-Except now it's almost gone"
-
----
-
 Having worked on control code for inverted pendulum, can say this is awesome
 
 <iframe width="340"  src="https://www.youtube.com/embed/cyN-CRNrb3E?start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

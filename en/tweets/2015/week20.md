@@ -672,54 +672,6 @@ Agree
 
 ---
 
-Warren Buffett
-
-The American Dream promises that a combination of education, hard work
-and good behavior can move any citizen from humble beginnings to at
-least reasonable success. And for many, that promise has been
-fulfilled. At the extreme, we have the Forbes 400, most of whom did
-not come from privileged backgrounds.
-
-Recently, however, the economic rewards flowing to people with
-specialized talents have grown dramatically faster than those going to
-equally decent men and women possessing more commonplace skills. In
-1982, the first year the Forbes 400 was compiled, those listed had a
-combined net worth of $93 billion. Today, the 400 possess $2.3
-trillion, up 2,400% in slightly more than three decades, a period in
-which the median household income rose only about 180%.
-
-Meanwhile, a huge number of their fellow citizens have been living the
-American Nightmare—behaving well and working hard but barely getting
-by. In 1982, 15% of Americans were living below the poverty level; in
-2013 the proportion was nearly the same, a dismaying 14.5%. In recent
-decades, our country’s rising tide has not lifted the boats of the
-poor [..].
-
-That mismatch is neither the fault of the market system nor the fault
-of the disadvantaged individuals. It is simply a consequence of an
-economic engine that constantly requires more high-order talents while
-reducing the need for commodity-like tasks.
-
-The remedy usually proposed for this mismatch is education. Indeed, a
-top-notch school system available to all is hugely important. But even
-with the finest educational system in the world, a significant portion
-of the population will continue, in a nation of great abundance, to
-earn no more than a bare subsistence.
-
-To see why that is true, imagine we lived in a sports-based
-economy. In such a marketplace, I would be a flop. You could supply me
-with the world’s best instruction, and I could endlessly strive to
-improve my skills. But, alas, on the gridiron or basketball court I
-would never command even a minimum wage.
-
-True
-
-WB's suggested remedy is earned income credit. It certainly sounds
-better than the minimum wage alternative. But basic income would be
-easier to administer and check.
-
----
-
 Twitter User
 
 [O]dd that dystopia assumes govt is most technologically advanced

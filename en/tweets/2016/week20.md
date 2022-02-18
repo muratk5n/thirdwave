@@ -1,25 +1,5 @@
 # Week 20
 
-Comment
-
-Warren Bufett picks great stocks, does better than hedge funds.
-
-He is a value investor
-
-.. and a stock picker. Hedge funds have them too. WB is an incredibly
-good one of course, but his is one style among many.
-
-Value investors are by nature contrarians. They see value when others
-don't. They are right, everyone else is a dickhead. It works in the
-other direction too; some see "un-value" in a company, they short the
-stock, or an entire industry, and make money when the stock
-falls. Famous investor John Paulson shorted the subprime mortgage
-lending market - he is a reverse value-investor - scifi would probably
-have made him Warren Buffett's evil twin from another universe with a
-goatee.
-
----
-
 Question
 
 Who is your favorite evil twin?
@@ -31,22 +11,6 @@ Hands down.. He had the evil twin car, the friggin cane... Evil Twin perfection.
 ![](spock-424x318.jpg)
 
 ![](GARTH.jpg)
-
----
-
-Anonymous
-
-But Warren Buffett invests in companies, he is in for the long term,
-he is not a speculator.
-
-Incorrect
-
-WB is a speculator, only his time frame is longer than most. There was
-a big splash when he bought some shares of Goldman Sachs, year
-2008. Where those shares at now? That's right, he sold good chunk of
-it, and made some $$$$ in the process. This is completely fine -
-speculators, in any shape or form, are beneficial to the economy, as
-are high-frequency traders. They all provide liquidity.
 
 ---
 

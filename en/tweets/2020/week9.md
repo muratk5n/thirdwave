@@ -1173,14 +1173,6 @@ spent on fiber"
 
 ---
 
-Translation: I am a Republican-lite and would have no problem voting
-for another Republican-lite.
-
-"Warren Buffett says 'I'm a Democrat,' and would have 'no trouble'
-voting for Bloomberg""
-
----
-
 Unbelievable.
 
 \#M4A \#ASAP

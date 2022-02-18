@@ -93,12 +93,6 @@ The currency market has liquidity (much better than "stocks") but Buffy is not i
 
 ---
 
-@WSJ
-
-Warren Buffett's Berkshire Hathaway swung to a $25.4 billion loss in the fourth quarter due in part to an unexpected write-down at Kraft Heinz
-
----
-
 @skwp Feb 21 More Building on @BtcpayServer is surreal. In a day I
  have a functional site accepting payments from anywhere in the world
  directly to my wallet. Neither I as a merchant nor they as the

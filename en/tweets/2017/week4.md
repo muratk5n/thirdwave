@@ -325,16 +325,6 @@ First, the Sterling bet was mostly Druckenmiller, and the basis of it all was wa
 
 There is one instance  where Soros heard the German central banker Schlesinger at a central bankers’ gathering in Basel where he "declared publicly that he could make no guarantees about the future course of interest rates", Soros approaches him to double-check if he meant what he said, and he did. That comment indicated to him the Italian lira would be weak, so Soros and Druckenmiller add the lira to the basket of currencies to be shorted. But this is all connecting the dots.. noone comes to Soros and whispers in his ear "buy this at this time, sell this other thing". He used information available to everyone.
 
-Question
-
-Why are there so many people in finance?
-
-Okay..
-
-So what have we learned so far? Traders are speculators (even Warren
-Buffett is one), the markets will not work without speculators, and
-traders are not gamblers.
-
 But not all participants in the markets are traders.
 
 Let's take this case: Consider Company Z on March 1, 2009, which due

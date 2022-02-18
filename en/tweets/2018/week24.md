@@ -168,21 +168,6 @@ on non-interventionism. 
 
 ---
 
-George Friedman
-
-How does Germany exporting 50% of its GDP survive? 10% loss in exports
-is a 5% loss in GDP.
-
-Ouch
-
-So over-reliance on exports is not good either.
-
-BTW, Warren Buffett apparently had an
-[idea](http://www.levyinstitute.org/pubs/wp_538.pdf) / mechanism to
-reduce trade deficits.
-
----
-
 Book (The Great Rebalancing)
 
 There have been after all many well-recorded financial crises in

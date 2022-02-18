@@ -258,12 +258,6 @@ https://youtu.be/TaxAsHhex10
 
 ---
 
-Buffett: Single-Payer. Go Buffy
-
-[[-]](https://youtu.be/r75Mi2B0YXE)
-
----
-
 The History of Medical Billing
 
 [[-]](https://youtu.be/CeDOQpfaUc8)

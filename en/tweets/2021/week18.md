@@ -458,14 +458,6 @@ distribution of music streaming apps, the European Commission said"
 
 ---
 
-"Warren Buffett faces showdown with ordinary savers over refusal to
-act on climate crisis.. Buffett’s company, Berkshire Hathaway, refuses
-to publish information on his company’s climate impact and the risks
-it faces as temperatures rise; now shareholders are taking a stand. By
-Ben Chapman"
-
----
-
 Culture is not something that is "declared", and "assumed". It is
 burned in the brain through the culture around you, through osmosis at
 around age 7. First generation children of immig parents are getting

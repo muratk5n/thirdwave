@@ -554,12 +554,6 @@ Seriously. It doesn't get more IT than that. Shit shuffling for $200 mil?
 
 ---
 
-I wonder why
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Warren Buffett has $128 billion in cash and analysts can&#39;t figure out why he isn&#39;t spending it. <a href="https://t.co/ZaJ9piL20p">https://t.co/ZaJ9piL20p</a> <a href="https://t.co/FoUAgWTa52">pic.twitter.com/FoUAgWTa52</a></p>&mdash; CNBC (@CNBC) <a href="https://twitter.com/CNBC/status/1196031758145339393?ref_src=twsrc%5Etfw">November 17, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 It's funny - but her songs still give me gas
 
 "@dbenderstern

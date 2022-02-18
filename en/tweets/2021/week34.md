@@ -372,19 +372,6 @@ WMT ['Revenue  (ttm): 566.14B', "Capital Expenditure: ('-11,714,000', '-10,264,0
 
 [New Code](yf.py) with capex
 
----
-
-Makes sense, if you are continuously spending money to make money,
-during high inflation u'd need to more of that money to make the same
-amount. Sure cld pass the cost to consumers, but that's no fun..
-
-CNBC: "'The best businesses during inflation are the businesses that
-you buy once and then you don’t have to keep making capital
-investments subsequently,' Buffett said, adding that 'any business
-with heavy capital investment tends to be a poor business to be in in
-inflation and often it’s a poor business to be in generally.'"
-
----
 
 🤣 Good one.. Bcz cockroaches wld make it right, survive a
 cataclysm.

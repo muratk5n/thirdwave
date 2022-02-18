@@ -274,33 +274,6 @@ aloud to me through Text-to-Speech, or have re-runs of MASH.
 
 ---
 
-WB/Munger joint interviews are hilarious. Munger keeps calling other
-approaches "twaddle".
-
----
-
-Buy/hold is not always boring. Can still do "quickies", bcz you know
-something others dont, the company is good.. Falls will be accompanied
-by rises, there'll be return to trend.
-
----
-
-But these days ironically Berksh has a lot of cash on hand; cant find
-good companies to invest in or cant find any good company that is not
-overvalued? 🤔 Probably the latter. Wilshire Index is through the
-roof.
-
----
-
-So Buffett / Munger approach is not timing the market, buy stock if
-value looks good. 60/40, 70/30 doesnt matter (as in stocks/bonds),
-it's all about companies. Diversification doesn't matter which in
-their method is a sign of ignorance. There is no "cash position", u
-end up with it if cant find a good company to invest in, it is not an
-investment vehicle.
-
----
-
 "She put pineapples on my pizza" 🤨
  
 ---
