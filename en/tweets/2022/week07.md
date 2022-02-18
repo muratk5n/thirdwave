@@ -371,10 +371,6 @@ if lower GPM, problem.
 
 ---
 
-What is gross profit margin? See Buffett's [open buffet](https://finance.yahoo.com/news/buffett-financial-statements-income-statement-204642939.html)
-
----
-
 Revenue growth fine, gross profit margin doesn't look great - DIS
 spending too much on non-profitable projects? 🤔 IMO last quarter saw
 some triumphs, but also a lot of misses. 
