@@ -232,6 +232,10 @@ most vulnerable, while asking others to look after themselves at home"
 
 ---
 
+Sheeeee-iiit is Southern drawl, not "African"
+
+---
+
 MLK and Mohammad Ali were polar opposites; one for integration, one
 for segregation (yes there were non-whites for segregation). They were
 apparently good friends behind the scenes, wasn't known at the time.
