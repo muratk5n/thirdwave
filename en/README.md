@@ -242,7 +242,7 @@ MLK never [talked about tolerence](https://youtu.be/5mKCqVRDTuI?t=224).
 
 ---
 
-Whenever I hear "toleration" it sounds like ghetto toleration to me..
+Whenever I hear "tolerance" it sounds like ghetto toleration to me..
 
 ---
 
