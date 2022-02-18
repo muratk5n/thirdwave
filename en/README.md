@@ -147,7 +147,7 @@ gallons of gas bursts into flames after crash [in Long Island, NY]"
 ---
 
 Carbon increase in the atmo continued in January, YoY increase as
-percentage is plotted too know, notice the acceleration of the
+percentage is plotted too, notice the acceleration of the
 increase. That plot *never* goes below zero, the increases are not
 offset by decreases.
 
