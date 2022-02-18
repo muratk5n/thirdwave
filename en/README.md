@@ -192,14 +192,6 @@ The Mark Duval Big Band - The Race Machine \#music
 
 ---
 
-
-UKR/RU crisis got worse when US/UK were involved, seemingly improved
-after Schultz involvement, worse again once US kept talking.. 🤔 UK
-meetings were really bad - afterwards Lavrov humiliated the other
-side.
-
----
-
 The Guardian: "Workers in Belgium now have the right to ask their
 employers for a four-day workweek. The Belgian government on Tuesday
 passed the reform, along with a bundle of other revisions to the
