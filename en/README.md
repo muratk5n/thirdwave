@@ -162,7 +162,9 @@ out during the Volkswagen emission cheating scandal.
 
 Gas is not clean. Fugitive methane emissions are a climate menace.
 
-Time for a boost of this incredible [graphic](https://twitter.com/justdanfornow/status/1309310657611706368)"
+Time for a boost of this incredible [graphic](https://pbs.twimg.com/media/EiuaeZPVoAEckhC?format=jpg&name=medium)"
+
+[[-]](https://twitter.com/justdanfornow/status/1309310657611706368)
 
 ---
 
