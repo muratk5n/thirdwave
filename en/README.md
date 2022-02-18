@@ -176,9 +176,7 @@ Time for a boost of this incredible [graphic](https://pbs.twimg.com/media/EiuaeZ
 
 Cool
 
-"@KyleMorgenstein
-
-couldn’t sleep last night, so I derived E=mc^2"
+"@KyleMorgenstein couldn’t sleep last night, so I derived E=mc^2"
 
 [[-]](https://mobile.twitter.com/KyleMorgenstein/status/1493637977414774784)
 
