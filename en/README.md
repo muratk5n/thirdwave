@@ -246,8 +246,8 @@ Whenever I hear "toleration" it sounds like ghetto toleration to me..
 
 ---
 
-Some think relating to minorities should be like interacting with
-alien species.. They like to play *Dances with Wolves* with "foreign
+Some think relating to any minority should be like interacting with
+aliens.. They like to play *Dances with Wolves* with "foreign
 cultures", so they try create foreigners from Wakanda, "African
 Americans" in their own countries, not humans just like them who
 happens to be a visually different. They want cultural ghettos they
