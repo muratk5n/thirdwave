@@ -98,7 +98,14 @@ Rochester area, New York, next quarter"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We sued Apple, Tesla and others for using DRC cobalt mined by children who are often killed in the mines. Despite boasting of their &quot;policies&quot; against child labor, they convinced a judge they have no responsibility for the child miners. We have appealed. <a href="https://t.co/IThMfI3FOX">https://t.co/IThMfI3FOX</a></p>&mdash; Terry Collingsworth (@tpcollingsworth) <a href="https://twitter.com/tpcollingsworth/status/1479141028628160513?ref_src=twsrc%5Etfw">January 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"@tpcollingsworth
+
+We sued Apple, Tesla and others for using DRC cobalt mined by children
+who are often killed in the mines. Despite boasting of their
+"policies" against child labor, they convinced a judge they have no
+responsibility for the child miners. We have appealed"
+
+[[-]](https://twitter.com/tpcollingsworth/status/1479141028628160513)
 
 ---
 
