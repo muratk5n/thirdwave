@@ -6,9 +6,9 @@
 
 ---
 
-H2 View: "easyJet: Hydrogen flights can’t come soon enough.. 'When we
-[easyJet] looked back a few years ago, we realised clearly that the
-climate emergency is coming our way and that we needed to address our
+H2 View: "easyJet: Hydrogen flights can’t come soon enough.. 'When
+we.. looked back a few years ago, we realised clearly that the climate
+emergency is coming our way and that we needed to address our
 sustainability issue – and we knew that our passengers care about that
 as well..
 
@@ -34,7 +34,8 @@ produce green hydrogen using geothermal energy to power the process"
 
 ---
 
-Whatever can do long-distance, air flight, heavy-duty, will do it all
+And the tech that can do long-distance, air flight, heavy-duty, will
+end up doing it all
 
 H2 View: "Transitus Energy has received new funds that will enable the
 company to scale its operations in the UK and Thailand in order to
@@ -182,14 +183,13 @@ The Mark Duval Big Band - The Race Machine \#music
 
 ---
 
-UK/RU meetings were really bad - afterwards Lavrov humiliated the
-other side
-
----
 
 UKR/RU crisis got worse when US/UK were involved, seemingly improved
 after Schultz involvement, worse again once US started talking
 again.. 🤔
+
+UK meetings were really bad - afterwards Lavrov humiliated the other
+side.
 
 ---
 
