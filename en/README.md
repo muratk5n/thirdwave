@@ -139,7 +139,7 @@ secretary of the DOI [.. during] the Deepwater Horizon spill"
 
 ---
 
-No more transporting of fossil
+No more transportation of fossil
 
 "‘One of the worst things I’ve seen’: Tanker truck carrying 9,000
 gallons of gas bursts into flames after crash [in Long Island, NY]"
