@@ -13,11 +13,11 @@ sustainability issue – and we knew that our passengers care about that
 as well..
 
 It was about the time when we started to see the first electric cars,
-the Tesla vehicles were being invented, and there was expectation that
-everything would go electric. However, once we got into the detail and
-the physics and the science behind electric, it became clear that
-battery-powered aeroplanes were not going to have sufficient energy
-density to power a large commercial aircraft'"
+the Tesla vehicles.. and there was expectation that everything would
+go electric. However, once we got into the detail and the physics and
+the science behind electric, it became clear that battery-powered
+aeroplanes were not going to have sufficient energy density to power a
+large commercial aircraft'"
 
 ---
 
