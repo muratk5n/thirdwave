@@ -232,6 +232,11 @@ most vulnerable, while asking others to look after themselves at home"
 
 ---
 
+I don't dispute there's been good comedy around this stuff.. But at some
+point one has to ask, how much of it is real?
+
+---
+
 Sheeeee-iiit is Southern drawl, not "African"
 
 ---
