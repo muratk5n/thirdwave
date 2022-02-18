@@ -232,15 +232,6 @@ most vulnerable, while asking others to look after themselves at home"
 
 ---
 
-I don't dispute there's been some great comedy around this stuff.. But
-at some point one has to ask how much of it is real?
-
----
-
-Sheeeee-iiit is Southern drawl, not "African"
-
----
-
 MLK and Mohammad Ali were polar opposites; one for integration, one
 for segregation (yes there were non-whites for segregation). They were
 apparently good friends behind the scenes, wasn't known at the time.
