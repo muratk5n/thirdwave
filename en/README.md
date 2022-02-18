@@ -194,9 +194,9 @@ The Mark Duval Big Band - The Race Machine \#music
 
 
 UKR/RU crisis got worse when US/UK were involved, seemingly improved
-after Schultz involvement, worse again once US started talking
-again.. 🤔 UK meetings were really bad - afterwards Lavrov humiliated
-the other side. 
+after Schultz involvement, worse again once US keep talking.. 🤔 UK
+meetings were really bad - afterwards Lavrov humiliated the other
+side.
 
 ---
 
