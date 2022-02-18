@@ -98,6 +98,12 @@ Rochester area, New York, next quarter"
 
 ---
 
+Afro Celt Sound System - Release \#music
+
+[[-]](https://youtu.be/_xuGqoB9gG4)
+
+---
+
 "@tpcollingsworth
 
 We sued Apple, Tesla and others for using DRC cobalt mined by children
@@ -202,12 +208,6 @@ employers for a four-day workweek. The Belgian government on Tuesday
 passed the reform, along with a bundle of other revisions to the
 country's labor laws. ... Employees requesting a four-day workweek
 will be expected to work longer hours but won't lose any salary"
-
----
-
-Afro Celt Sound System - Release \#music
-
-[[-]](https://youtu.be/_xuGqoB9gG4)
 
 ---
 
