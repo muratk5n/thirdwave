@@ -2,6 +2,37 @@
 
 ---
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hydrogen fuel cell vehicles seized the spotlight at the Beijing Winter Olympics, with over 1,000 vehicles ferrying athletes and staff around event sites. <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/hydrogennow?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennow</a> <a href="https://twitter.com/hashtag/H2?src=hash&amp;ref_src=twsrc%5Etfw">#H2</a> <a href="https://t.co/Tm1ngnUe9W">https://t.co/Tm1ngnUe9W</a></p>&mdash; Linde plc (@Lindeplc) <a href="https://twitter.com/Lindeplc/status/1493301770537340928?ref_src=twsrc%5Etfw">February 14, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+"@jyjault
+
+China is using the Beijing Winter Olympics to showcase fuel cell vehicles"
+
+---
+
+"@RalphMorton
+
+In the cold of the Winter Olympics, \#hydrogen is having its moment on the sun"
+
+---
+
+"@CHosford1
+
+Some good news for fans of \#hydrogen \#fuelcell vehicles. @Bloomberg
+reports the Beijing \#WinterOlympics is showcasing the technology and
+fuel cell vehicles of all types"
+
+---
+
+Bloomberg: "China's Giant New Hydrogen Plant to Power Olympics Fuel
+Cell EVs.. One of the world's largest green hydrogen plants has
+started production to power.. fuel-cell vehicles during the Beijing
+Winter Olympic Games"
+
+---
+
 Shapes with CSP panels.. Nice
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">More than 27000 <a href="https://twitter.com/hashtag/heliostats?src=hash&amp;ref_src=twsrc%5Etfw">#heliostats</a> of SUPCONSOLAR delingha 50MW CSP plant spell out the Olympic Rings to create an unforgettable <a href="https://twitter.com/hashtag/Olympic?src=hash&amp;ref_src=twsrc%5Etfw">#Olympic</a> moment! <a href="https://twitter.com/hashtag/CosinSolar?src=hash&amp;ref_src=twsrc%5Etfw">#CosinSolar</a> cheers Chinese Athletes on! Go China! <a href="https://twitter.com/hashtag/TogetherForASharedFuture?src=hash&amp;ref_src=twsrc%5Etfw">#TogetherForASharedFuture</a> <a href="https://twitter.com/hashtag/Beijing2022?src=hash&amp;ref_src=twsrc%5Etfw">#Beijing2022</a> <a href="https://t.co/fIaWvNWf3Y">pic.twitter.com/fIaWvNWf3Y</a></p>&mdash; Cosin Solar (@Cosinsolar) <a href="https://twitter.com/Cosinsolar/status/1492862970325389315?ref_src=twsrc%5Etfw">February 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
