@@ -215,16 +215,6 @@ previous year.
 
 ---
 
-Need to move from whiny, climate change awereness phase to providing
-solutions phase. There are tough choices, which one can't be whiny
-about. Conservatives can be supportive with some of those choices, and
-we all can get to somewhere.
-
-Unless of course limpdick libs want to remain whiny, want to fight a
-culture war, don't care about anything else anyway.
-
----
-
 😂
 
 "@Econ_Marshall
