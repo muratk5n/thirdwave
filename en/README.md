@@ -205,7 +205,7 @@ energy transport cables (electricity, gas, oil)"
 
 ---
 
-The Pacemaker.. wasn't too bad.
+The Pacemaker.. not bad.
 
 ---
 
