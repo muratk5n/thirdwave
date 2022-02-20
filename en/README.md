@@ -130,6 +130,19 @@ the torch that lit the snowflake-shaped cauldron at the
 
 ---
 
+Oil spills are enough to make switch to green fuels. Anyone can see
+the damage there, it is clear-and-present danger. Green fuel pipeline
+instead of oil pipeline would have saved California's beaches just the
+previous year.
+
+---
+
+Need to transition to discussing climate solutions than expanding
+'awareness' on climate change. Some solutions can garner broad
+support, and have good economics behind them.
+
+---
+
 CNBC: "61% of people working from home are doing so because they want
 to, even though their office is open.. Teleworkers say they’re
 choosing to stay home for better work-life balance, productivity or
@@ -145,11 +158,6 @@ bonds and also cryptocurrencies"
 Another map - deepest part of Medi is right under Italy's boot
 
 [[-]](https://cdn.britannica.com/04/6004-050-EBC240F4/depth-contours-Atlantic-Ocean-submarine-features.jpg)
-
----
-
-HTF did I end up with 'Murlow' instead of 'Farlow'. Wow. Written 10 yrs
-ago..
 
 ---
 
@@ -205,19 +213,6 @@ Gold is like a bond with 0% coupon. Who would buy a bond with 0%
 coupon when there are ones with 4-5% coupon? Rising rates will lead
 exactly to that. Except a few fools who think gold is protection
 against "money being debased", most will sell gold.
-
----
-
-Oil spills are enough to make switch to green fuels. Anyone can see
-the damage there, it is clear-and-present danger. Green fuel pipeline
-instead of oil pipeline would have saved California's beaches just the
-previous year.
-
----
-
-Need to transition to discussing climate solutions than expanding
-'awareness' on climate change. Some solutions can garner broad
-support, and have good economics behind them.
 
 ---
 
