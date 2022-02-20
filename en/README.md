@@ -20,11 +20,11 @@ least 22 fuel cell buses daily in the city of Frankfurt, Germany"
 
 ---
 
-H2 View: "The US Department of Energy (DOE) revealed.. its innovative
-H2 Matchmaker Map.. to support the growing hydrogen sector.. [H2M] is
-a resource helping clean hydrogen producers, end-users, and others
-find opportunities to develop networks of production, storage, and
-transportation infrastructure"
+H2 View: "[DOE] revealed.. its innovative H2 Matchmaker Map.. to
+support the growing hydrogen sector.. [H2M] is a resource helping
+clean hydrogen producers, end-users, and others find opportunities to
+develop networks of production, storage, and transportation
+infrastructure"
 
 ---
 
