@@ -47,7 +47,7 @@ first part of its national hydrogen policy"
 No wonder Blackrock is world's largest asset manager. Fink has a good
 nose for upcoming opportunities, unlike some 'genius' investors who
 merely rode the wave of FONO and low rates, this guy pinpointed a
-fundamental, game changing tech early. That is skill.
+fundamental, game changing tech early. That is skill. 
 
 ---
 
@@ -64,6 +64,11 @@ search engine, won't be a media company, they'll be businesses
 developing green hydrogen, green agriculture, green steel and green
 cement,' Fink said Monday at the Middle East Green Initiative Summit
 in Riyadh, Saudi Arabia"
+
+---
+
+[Look at that bad boy](https://pbs.twimg.com/media/FMA3m-DWUAMDe-D?format=jpg&name=small).
+Arrrr.. The wind cannot knock this down!
 
 ---
 
