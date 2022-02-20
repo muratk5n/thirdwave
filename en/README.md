@@ -1,246 +1,251 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">800+ Hydrogen Fuel Cell Buses Serve Beijing 2022 Winter Olympic Games<a href="https://t.co/Dlv9pbGQUp">https://t.co/Dlv9pbGQUp</a> <a href="https://t.co/MdK9GKlYvG">pic.twitter.com/MdK9GKlYvG</a></p>&mdash; Chinabuses (@chinabusescom) <a href="https://twitter.com/chinabusescom/status/1491589507547680768?ref_src=twsrc%5Etfw">February 10, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-H2 View: "easyJet: Hydrogen flights can’t come soon enough.. 'When
-we.. looked back a few years ago, we realised clearly that the climate
-emergency is coming our way and that we needed to address our
-sustainability issue – and we knew that our passengers care about that
-as well..
+<img width="95%" src="https://pbs.twimg.com/media/FL4ZvylXwAUpWcm?format=png&name=small"/>
 
-It was about the time when we started to see the first electric cars,
-the Tesla vehicles.. and there was expectation that everything would
-go electric. However, once we got into the detail and the physics and
-the science behind electric, it became clear that battery-powered
-aeroplanes were not going to have sufficient energy density to power a
-large commercial aircraft'"
+H2 View: "Renault has.. teased its concept-car of the future, equipped
+with a hydrogen engine"
 
 ---
 
-H2 View: "Major green hydrogen infrastructure system proposed for Los
-Angeles.. SoCalGas wants to develop what it says will be the US’
-largest green hydrogen infrastructure system to deliver clean,
-reliable energy to the city of Los Angeles"
+H2 View: "Yamaha to develop a five-litre V8 high-performance hydrogen
+internal combustion engine for Toyota"
 
 ---
 
-H2 Fuel News: "CeraPhi Energy and Climate Change Ventures (CCV)
-recently announced that they are partnering on a project that will
-produce green hydrogen using geothermal energy to power the process"
+H2 View: "A brand-new heavy-duty hydrogen station is set to fuel at
+least 22 fuel cell buses daily in the city of Frankfurt, Germany"
 
 ---
 
-And the tech that can do long-distance, air flight, heavy-duty, will
-end up doing it all
-
-H2 View: "Transitus Energy has received new funds that will enable the
-company to scale its operations in the UK and Thailand in order to
-support the production of blue hydrogen... Jack Peck, CEO of Transitus
-Energy, said, 'Hydrogen will be our best chance of reaching Net Zero
-carbon targets, because hydrogen decarbonises those parts of the
-economy that electrification cannot meet. Hydrogen is especially
-suitable for domestic and industrial heating, long distance
-transportation, industrial manufacturing, shipping, air travel, and
-power balancing'"
+H2 View: "The US Department of Energy (DOE) revealed.. its innovative
+H2 Matchmaker Map.. to support the growing hydrogen sector.. [H2M] is
+a resource helping clean hydrogen producers, end-users, and others
+find opportunities to develop networks of production, storage, and
+transportation infrastructure"
 
 ---
 
-H2 View: "Nel electrolyser order pipeline stands at 22GW"
+H2 View: "Barbados will become home to [a] hydrogen power project in
+the Caribbean with capacity for 128MWh of green hydrogen storage"
 
 ---
 
-H2 View: "A creative new method to produce sustainable hydrogen from
-natural gas or biogas has received a $3.4m backing by the European
-Union to scale the technology... Developed by Norway-based SEID, the
-Project ColdSpark technology produces hydrogen in a low temperature
-and pressure environment unlike other high-temperature pyrolysis
-techniques"
+5 x 1e9 x 33.6 / (365 x 24 x 1e6) computes over 19 Gigawatts of
+capacity. Huge.  Equivalent to 19 nuclear plants.
+
+Arab News: "India plans to produce 5 million tonnes of green hydrogen
+a year by 2030 as it seeks to exploit low renewable energy costs to
+become a global exporter of the sustainable fuel... The target was
+announced by India’s power ministry on Thursday as it revealed the
+first part of its national hydrogen policy"
 
 ---
 
-CNBC: "German power firm RWE has signed an agreement with Neptune
-Energy to develop a green hydrogen demonstration project in the Dutch
-North Sea, targeting an electrolyzer capacity of 300 to 500
-megawatts.. [and use an] existing pipeline used to funnel the hydrogen
-to shore. The pipeline’s capacity ranges between 10 to 12 gigawatts,
-the companies said.
-
-'The energy transition can be faster, cheaper and cleaner if we
-integrate existing gas infrastructure into new systems,' Lex de Groot,
-who is managing director of Neptune Energy in the Netherlands, said"
+H2 View: "[Jan 31] Hydrogen refuelling network to be developed in the
+US by Daimler Truck, NextEra and BlackRock"
 
 ---
 
-H2 View: "NEOM’s $5bn industrial complex to manufacture heavy-duty
-hydrogen fuel cell stacks"
+CNBC: "Larry Fink, the CEO and Chairman of Blackrock, sees addressing
+climate change as a massive potential for new businesses. 'It is my
+belief that the next 1,000 unicorns — companies that have a market
+valuation over a billion dollars — won't be a search engine, won't be
+a media company, they'll be businesses developing green hydrogen,
+green agriculture, green steel and green cement,' Fink said Monday at
+the Middle East Green Initiative Summit in Riyadh, Saudi Arabia"
 
 ---
 
-H2 View: "BorgWarner to decarbonise European off-road mobility with
-its hydrogen injector system.. In a bid to support the growing
-hydrogen sector in Europe, BorgWarner has expressed today.. plans to
-expand its efforts in hydrogen combustion technologies with its
-injection system"
+[Channel 4](https://youtu.be/PRLcksCJNgw?t=1017) \#eunice \#thegrid
 
 ---
 
-"9.5GW integrated renewable hydrogen hub plans unveiled for Spain"
+Electric cables are an inefficient way of transporting energy. A wind
+can damage the wires easily. A clean gas pipeline is very close or
+under the ground, and a robust construction. Also transmits power 10
+times faster at eighth the cost.
+
+"Storm Eunice batters Europe..  More than 100,000 people were hit by
+power cuts as lines were torn down and ancient trees keeled over"
+
+[[-]](https://www.aljazeera.com/news/2022/2/18/storm-eunice-batters-europe-eight)
 
 ---
 
-H2 View: "A brand-new US fuel cell and green hydrogen electrolysis
-research and development centre will be operational in the Greater
-Rochester area, New York, next quarter"
+Daam. That's lota flame 
+
+[[-]](https://pbs.twimg.com/media/FL-TzH_XEAEg09O?format=jpg&name=small)
 
 ---
 
-Afro Celt Sound System - Release \#music
-
-[[-]](https://youtu.be/_xuGqoB9gG4)
-
----
-
-"@tpcollingsworth
-
-We sued Apple, Tesla and others for using DRC cobalt mined by children
-who are often killed in the mines. Despite boasting of their
-"policies" against child labor, they convinced a judge they have no
-responsibility for the child miners. We have appealed"
-
-[[-]](https://twitter.com/tpcollingsworth/status/1479141028628160513)
+JFK "Eternal Flame"? They have this f-ing gas powered thing burning
+since the 60s, non-stop, "in memory of JFK". You need to put that shit
+out. The mucker was undeserving for that gesture for one, and it is
+releasing GHG.
 
 ---
 
-The Mandarin: "[AU] PM tells NSW government ‘no’ for proposed offshore
-petroleum exploration.. Scott Morrison has denied the permit required
-for the proposed offshore petroleum exploration permit"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Compared to BEVs, whose batteries can drain faster in cold weather, hydrogen-powered vehicles are better suited for wintry climates like Zhangjiakou, where temperatures during competition have plummeted to -17° C. <a href="https://t.co/EF6LlYZFj7">https://t.co/EF6LlYZFj7</a> via <a href="https://twitter.com/business?ref_src=twsrc%5Etfw">@business</a> <a href="https://twitter.com/hashtag/copolitics?src=hash&amp;ref_src=twsrc%5Etfw">#copolitics</a> <a href="https://twitter.com/hashtag/coleg?src=hash&amp;ref_src=twsrc%5Etfw">#coleg</a> <a href="https://twitter.com/GovofCO?ref_src=twsrc%5Etfw">@GovofCO</a></p>&mdash; Reuben Espinosa (@reubenesp) <a href="https://twitter.com/reubenesp/status/1494615837512142848?ref_src=twsrc%5Etfw">February 18, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Offshore is too risky. Am fine with fossil as long as wildlife is not
-harmed. For NG, no flaring, no fracking. 
+"@HTAutotweets
 
-"[Haaland's DOI's] highest-profile action so far has been
-November’s auction of oil and gas drilling leases in the Gulf of
-Mexico, the largest in the Gulf’s history, justified by spurious
-logic. The department claimed it was compelled, hands tied, to hold
-the sale due to an earlier court ruling that reversed the pause on new
-drilling permits on public lands in the Gulf. In August, a memo filed
-by the Department of Justice contradicted that assertion, finding that
-the government was not, in fact, forced to issue new permits...
-
-Among those top-level aides is David Hayes, special assistant to the
-president for climate policy. A BigLaw alum from the firm Latham &
-Watkins, Hayes first served under Bill Clinton’s interior secretary,
-Bruce Babbitt, and then eventually as the Senate-confirmed deputy
-secretary of the interior under Clinton. After spending the Bush years
-at Latham, he returned [to the department... ] where he was the deputy
-secretary of the DOI [.. during] the Deepwater Horizon spill"
-
-[[-]](https://prospect.org/environment/a-look-inside-interior/)
+Hydrogen-powered vehicles are better suited for wintry climates and
+refilling them takes only minutes, much faster than charging electric
+vehicles"
 
 ---
 
-No more transportation of fossil
+"@fromYanK
 
-"‘One of the worst things I’ve seen’: Tanker truck carrying 9,000
-gallons of gas bursts into flames after crash [in Long Island, NY]"
-
----
-
-Carbon increase in the atmo continued in January, YoY increase as
-percentage is plotted, notice the acceleration of the increase.
-
-[[-]](2015/08/temp-increase.md#carbon)
+Energy transition reached a new level as environmentally friendly
+hydrogen was used to power the torch that lit the cauldron at the
+Beijing Winter Olympics opening ceremony. It was the first time in
+Olympic history that a zero-emissions torch had been used for such an
+occasion"
 
 ---
 
-Most of the leaks are at end-user and transmission level. Regulation
-can clamp down on the source easily, the rest is very hard as we found
-out during the Volkswagen emission cheating scandal.
+"@official_cnpc
 
-"@justdanfornow
-
-Gas is not clean. Fugitive methane emissions are a climate menace.
-
-Time for a boost of this incredible [graphic](https://pbs.twimg.com/media/EiuaeZPVoAEckhC?format=jpg&name=medium)"
-
-[[-]](https://twitter.com/justdanfornow/status/1309310657611706368)
+\#CNPC Transportation Company sends 14 kg of hydrogen to the Bird's
+Nest (aka National Stadium) every two or three days to supply the fuel
+for the torch"
 
 ---
 
-Cool
+"@SinopecNews
 
-"@KyleMorgenstein couldn’t sleep last night, so I derived E=mc^2"
-
-[[-]](https://mobile.twitter.com/KyleMorgenstein/status/1493637977414774784)
-
----
-
-WSJ: "No More Insider Trading in Congress.. The current penalties are
-so small that lawmakers hardly take them seriously."
+Environmental-friendly hydrogen produced by Sinopec was used to power
+the torch that lit the snowflake-shaped cauldron at the
+\#OpeningCeremony of the Beijing 2022 Winter Olympics"
 
 ---
 
-The Mark Duval Big Band - The Race Machine \#music
-
-[[-]](https://youtu.be/0taq78DElkY)
+"[Dec 8] PetroChina's Huabei Petrochemical ships first hydrogen fuel cargo"
 
 ---
 
-The Guardian: "Workers in Belgium now have the right to ask their
-employers for a four-day workweek. The Belgian government on Tuesday
-passed the reform, along with a bundle of other revisions to the
-country's labor laws. ... Employees requesting a four-day workweek
-will be expected to work longer hours but won't lose any salary"
+CNBC: "61% of people working from home are doing so because they want
+to, even though their office is open.. Teleworkers say they’re
+choosing to stay home for better work-life balance, productivity or
+because they’ve relocated away from the office"
 
 ---
 
-"@seanhecht
-
-Difficult situation on campus. Traffic jam of automated food delivery
-robots, apparently all stuck behind a carelessly discarded scooter. I
-just observed a couple of students clearing a path out of pity for the
-robots. This is our future, I guess"
-
-<img width="340" src="https://pbs.twimg.com/media/FLm9DCbVUAAIw_I?format=jpg&name=small"/>
+CNBC: "Fed approves rules banning its officials from trading stocks,
+bonds and also cryptocurrencies"
 
 ---
 
-"As Omicron Surges, South Korea Eases Pandemic Interference.. With
-Omicron spreading quickly, the government says it will focus on the
-most vulnerable, while asking others to look after themselves at home"
+Another map - deepest part of Medi is right under Italy's boot
+
+[[-]](https://cdn.britannica.com/04/6004-050-EBC240F4/depth-contours-Atlantic-Ocean-submarine-features.jpg)
 
 ---
 
-"Saudi job advert for 30 female train drivers attracts 28,000 applications"
+HTF did I end up with 'Murlow' instead of 'Farlow'. Wow. Written 10 yrs
+ago..
 
 ---
 
-MLK and Mohammad Ali were polar opposites; one for integration, one
-for segregation (yes there were non-whites for segregation). They were
-apparently good friends behind the scenes, wasn't known at the time.
+I guess there was a time you could walk from Paris France to Paris Texas.
 
 ---
 
-MLK never [talked about tolerence](https://youtu.be/5mKCqVRDTuI?t=224).
+Looks like someone pulled two sides of a piece and it broke into two,
+but a third middle part remained. That's what that mountain looks like.
 
 ---
 
-Whenever I hear "tolerance" it sounds like ghetto toleration to me..
+There is a legit underwater mountain in the middle of the Atlatic
 
 ---
 
-Some think relating to any minority should be like interacting with
-aliens.. They like to play *Dances with Wolves* with "foreign
-cultures", so they try to create foreigners from Wakanda, "African
-Americans" in their own countries, not humans just like them who
-happens to be visually different. They want cultural ghettos they
-can peek into and tell their friends about to prove how cool they are.
+Sea Depth Map (from the [Economist](https://www.economist.com/1843/2014/12/27/the-first-map-of-the-depths))
+
+<img width="340" src="https://pbs.twimg.com/media/FL7uQFqXwAMW6Kg?format=jpg&name=small"/>
+
+---
+
+6000 meters pretty much covers the Mediterrenian (max depth < 6km),
+most of the world's oceans too actually except a few places. Africa
+energy pipelines will fall under that monitoring I bet.
+
+---
+
+Seabed Warfare? Dam
+
+"France Unveils New Seabed Warfare Strategy.. The strategy aims at
+broadening the capabilities of anticipation and action of the French
+Navy (Marine Nationale) up to 6,000 m depth...
+
+[S]trategic interests in this space [are]:
+
+Guarantee the freedom of action of the French Armed Forces in the face
+of submarine surveillance and interdiction strategies potentially
+deployed from the seabed..
+
+Protect France’s underwater infrastructures such as communication and
+energy transport cables (electricity, gas, oil)"
+
+[[-]](https://www.navalnews.com/naval-news/2022/02/france-unveils-new-seabed-warfare-strategy/)
+
+---
+
+The Pacemaker.. wasn't too bad.
+
+---
+
+Gold is like a bond with 0% coupon. Who would buy a bond with 0%
+coupon when there are ones with 4-5% coupon? Rising rates will lead
+exactly to that. Except a few fools who think gold is protection
+against "money being debased", most will sell gold.
+
+---
+
+Oil spills are enough to make switch to green fuels. Anyone can see
+the damage there, it is clear-and-present danger. Green fuel pipeline
+instead of oil pipeline would have saved California's beaches just the
+previous year.
+
+---
+
+Need to move from whiny, climate change awereness phase to providing
+solutions phase. There are tough choices, which one can't be whiny
+about. Conservatives can be supportive with some of those choices, and
+we all can get to somewhere.
+
+Unless of course limpdick libs want to remain whiny, want to fight a
+culture war, don't care about anything else anyway.
+
+---
+
+😂
+
+"@Econ_Marshall
+
+where to begin
+
+'@Noahpinion Historians are far more powerful than economists, and
+their theories gain wide acceptance with far less solid evidence to
+back them up.'"
+
+---
+
+*Severence* is some cooky shit.. I like it
+
+---
+
+Southerners are 'mericans, aren't they?
+
+---
+
+Sheeee-iiiit is Southern drawl, not "African"
 
 ---
 

@@ -34,7 +34,7 @@ from Latrobe Valley coal and biomass via gasification"
 
 ---
 
-H2 Fuel News: "Hydrogen refuelling network to be developed in the US by
+H2 View: "Hydrogen refuelling network to be developed in the US by
 Daimler Truck, NextEra, LLC, and BlackRock"
 
 ---
