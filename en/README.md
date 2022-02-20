@@ -208,13 +208,6 @@ The Pacemaker.. not bad.
 
 ---
 
-Gold is like a bond with 0% coupon. Who would buy a bond with 0%
-coupon when there are ones with 4-5% coupon? Rising rates will lead
-exactly to that. Except a few fools who think gold is protection
-against "money being debased", most will sell gold.
-
----
-
 😂
 
 "@Econ_Marshall
