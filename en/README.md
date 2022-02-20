@@ -235,7 +235,7 @@ Southerners are 'mericans, aren't they?
 
 ---
 
-Sheeee-iiiit is Southern drawl, not "African"
+Sheeee-iiiit is Southern drawl, not African
 
 ---
 
