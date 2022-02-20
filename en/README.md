@@ -237,7 +237,7 @@ back them up.'"
 
 ---
 
-*Severence* is some cooky shit.. I like it
+*Severence* is some cooky shit.. Saw first ep, I like it
 
 ---
 
