@@ -65,8 +65,9 @@ the Middle East Green Initiative Summit in Riyadh, Saudi Arabia"
 
 Electric cables are an inefficient way of transporting energy. A wind
 can damage the wires easily. A clean gas pipeline is very close or
-under the ground, and a robust construction. Also transmits power 10
-times faster at eighth the cost.
+under the ground, and a robust construction, would be harmed by
+adverse weather easily. Also transmits power 10 times faster at eighth
+the cost.
 
 "Storm Eunice batters Europe..  More than 100,000 people were hit by
 power cuts as lines were torn down and ancient trees keeled over"
