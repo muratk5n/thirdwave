@@ -104,9 +104,9 @@ undeserving for that gesture for one, and it is emitting GHG.
 
 ---
 
-Oil spills are enough to make switch to green fuels. Green fuel
-pipeline instead of oil pipeline would have saved California's beaches
-just the previous year.
+Pollution (air, sea -oil spills-) is enough to entice a switch to
+green fuels. Green fuel pipeline instead of oil pipeline would have
+saved California's beaches just the previous year.
 
 ---
 
