@@ -175,9 +175,9 @@ I guess there was a time you could walk from Paris France to Paris Texas.
 
 ---
 
-Looks like someone pulled two sides of a piece and it broke, two big
-pieces and a third middle part remained. That's what that mountain
-looks like.
+Looks like someone pulled two sides of a single block and it broke,
+two big pieces and a third middle part remained. That's what that
+mountain looks like.
 
 ---
 
