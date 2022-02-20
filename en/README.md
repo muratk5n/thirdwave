@@ -138,7 +138,8 @@ the torch that lit the snowflake-shaped cauldron at the
 
 Need to transition to discussing climate solutions than expanding
 'awareness' on climate change. Some solutions can garner broad
-support, and have good economics behind them.
+support, and have good economics behind them. The new bidness
+possibilities can overcome some doubts.
 
 ---
 
