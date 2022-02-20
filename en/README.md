@@ -88,6 +88,12 @@ releasing GHG.
 
 ---
 
+Oil spills are enough to make switch to green fuels. Green fuel
+pipeline instead of oil pipeline would have saved California's beaches
+just the previous year.
+
+---
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Compared to BEVs, whose batteries can drain faster in cold weather, hydrogen-powered vehicles are better suited for wintry climates like Zhangjiakou, where temperatures during competition have plummeted to -17° C. <a href="https://t.co/EF6LlYZFj7">https://t.co/EF6LlYZFj7</a> via <a href="https://twitter.com/business?ref_src=twsrc%5Etfw">@business</a> <a href="https://twitter.com/hashtag/copolitics?src=hash&amp;ref_src=twsrc%5Etfw">#copolitics</a> <a href="https://twitter.com/hashtag/coleg?src=hash&amp;ref_src=twsrc%5Etfw">#coleg</a> <a href="https://twitter.com/GovofCO?ref_src=twsrc%5Etfw">@GovofCO</a></p>&mdash; Reuben Espinosa (@reubenesp) <a href="https://twitter.com/reubenesp/status/1494615837512142848?ref_src=twsrc%5Etfw">February 18, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
@@ -127,13 +133,6 @@ the torch that lit the snowflake-shaped cauldron at the
 ---
 
 "[Dec 8] PetroChina's Huabei Petrochemical ships first hydrogen fuel cargo"
-
----
-
-Oil spills are enough to make switch to green fuels. Anyone can see
-the damage there, it is clear-and-present danger. Green fuel pipeline
-instead of oil pipeline would have saved California's beaches just the
-previous year.
 
 ---
 
