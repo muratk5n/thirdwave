@@ -75,7 +75,7 @@ power cuts as lines were torn down and ancient trees keeled over"
 
 ---
 
-Daam. That's lota flame 
+Lota mucking flame 
 
 [[-]](https://pbs.twimg.com/media/FL-TzH_XEAEg09O?format=jpg&name=small)
 
