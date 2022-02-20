@@ -67,7 +67,7 @@ in Riyadh, Saudi Arabia"
 
 ---
 
-[Look at that bad boy](https://pbs.twimg.com/media/FMA3m-DWUAMDe-D?format=jpg&name=small).
+Look at that [bad boy](https://pbs.twimg.com/media/FMA3m-DWUAMDe-D?format=jpg&name=small).
 Arrrr.. The wind cannot knock this down!
 
 ---
