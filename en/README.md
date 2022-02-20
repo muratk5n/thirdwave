@@ -215,6 +215,12 @@ previous year.
 
 ---
 
+Need to transition to discussing climate solutions than expanding
+'awareness' on climate change. Some solutions can garner broad
+support, and have good economics behind them.
+
+---
+
 😂
 
 "@Econ_Marshall
