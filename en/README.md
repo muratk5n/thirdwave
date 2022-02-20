@@ -191,14 +191,11 @@ Seabed Warfare? Dam
 broadening the capabilities of anticipation and action of the French
 Navy (Marine Nationale) up to 6,000 m depth...
 
-[S]trategic interests in this space [are]:
-
-Guarantee the freedom of action of the French Armed Forces in the face
-of submarine surveillance and interdiction strategies potentially
-deployed from the seabed..
-
-Protect France’s underwater infrastructures such as communication and
-energy transport cables (electricity, gas, oil)"
+[S]trategic interests in this space [are]: Guarantee the freedom of
+action of the French Armed Forces in the face of submarine
+surveillance and interdiction strategies potentially deployed from the
+seabed.. Protect France’s underwater infrastructures such as
+communication and energy transport cables (electricity, gas, oil)"
 
 [[-]](https://www.navalnews.com/naval-news/2022/02/france-unveils-new-seabed-warfare-strategy/)
 
