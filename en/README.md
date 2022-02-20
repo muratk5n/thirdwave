@@ -44,7 +44,7 @@ first part of its national hydrogen policy"
 
 ---
 
-H2 View: "[Jan 31] Hydrogen refuelling network to be developed in the
+H2 View: "Hydrogen refuelling network to be developed in the
 US by Daimler Truck, NextEra and BlackRock"
 
 ---
