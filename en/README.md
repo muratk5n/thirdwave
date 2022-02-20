@@ -44,10 +44,10 @@ first part of its national hydrogen policy"
 
 ---
 
-No wonder Blackrock is world's largest asset manager. Fink has a good
-nose for upcoming opportunities, unlike some 'genius' investors who
-merely rode the wave of FONO and low rates, this guy pinpointed a
-fundamental, game changing tech early. That is skill. 
+No wonder Blackrock is world's largest asset manager; LF has a good
+nose for promising opportunities. Unlike some 'genius' investors who
+merely rode the wave of FOMO and low rates, this guy pinpointed a
+fundamental, game changing tech early. That is skill.
 
 ---
 
