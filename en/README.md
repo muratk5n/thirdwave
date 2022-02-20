@@ -44,6 +44,13 @@ first part of its national hydrogen policy"
 
 ---
 
+No wonder Blackrock is world's largest asset manager. Fink has a good
+nose for upcoming opportunities, unlike some 'genius' investors who
+merely rode the wave of FONO and low rates, this guy pinpointed a
+fundamental, game changing tech early. That is skill.
+
+---
+
 H2 View: "Hydrogen refuelling network to be developed in the
 US by Daimler Truck, NextEra and BlackRock"
 
