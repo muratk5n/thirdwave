@@ -76,7 +76,7 @@ Arrrr.. The wind cannot knock this down!
 Electric cables are an inefficient way of transporting energy. Strong
 winds can damage wires easily. A clean gas pipeline is very close or
 under the ground, and a robust construction, would not be harmed by
-adverse weather easily. Also transmits power 10 times faster at eighth
+adverse weather easily. Also transmits power 10 times faster at 8th
 the cost.
 
 "Storm Eunice batters Europe..  More than 100,000 people were hit by
