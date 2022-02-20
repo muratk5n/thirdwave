@@ -81,10 +81,9 @@ Daam. That's lota flame
 
 ---
 
-JFK "Eternal Flame"? They have this f-ing gas powered thing burning
-since the 60s, non-stop, "in memory of JFK". You need to put that shit
-out. The mucker was undeserving for that gesture for one, and it is
-releasing GHG.
+JFK "Eternal Flame"? They have this bloody gas powered thing burning
+since the 60s, non-stop. Need to put that shit out. The mucker was
+undeserving for that gesture for one, and it is releasing GHG.
 
 ---
 
