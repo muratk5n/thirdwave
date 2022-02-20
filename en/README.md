@@ -49,13 +49,14 @@ US by Daimler Truck, NextEra and BlackRock"
 
 ---
 
-CNBC: "Larry Fink, the CEO and Chairman of Blackrock, sees addressing
-climate change as a massive potential for new businesses. 'It is my
-belief that the next 1,000 unicorns — companies that have a market
-valuation over a billion dollars — won't be a search engine, won't be
-a media company, they'll be businesses developing green hydrogen,
-green agriculture, green steel and green cement,' Fink said Monday at
-the Middle East Green Initiative Summit in Riyadh, Saudi Arabia"
+CNBC: "[Oct 2021] Larry Fink, the CEO and Chairman of Blackrock, sees
+addressing climate change as a massive potential for new
+businesses. 'It is my belief that the next 1,000 unicorns — companies
+that have a market valuation over a billion dollars — won't be a
+search engine, won't be a media company, they'll be businesses
+developing green hydrogen, green agriculture, green steel and green
+cement,' Fink said Monday at the Middle East Green Initiative Summit
+in Riyadh, Saudi Arabia"
 
 ---
 
