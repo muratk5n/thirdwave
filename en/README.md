@@ -180,8 +180,8 @@ Sea Depth Map (from the [Economist](https://www.economist.com/1843/2014/12/27/th
 ---
 
 6000 meters pretty much covers the Mediterrenian (max depth < 6km),
-most of the world's oceans too actually except a few places. Africa
-energy pipelines will fall under that monitoring I bet.
+most of the world's oceans too except a few places. Africa energy
+pipelines will fall under that monitoring I bet.
 
 ---
 
