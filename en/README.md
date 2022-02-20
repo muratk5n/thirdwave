@@ -223,6 +223,14 @@ Pacemaker.. not bad.
 
 ---
 
+Suicided?
+
+TDB: "Jean-Luc Brunel, a French modeling agent accused of procuring
+underage women for Jeffrey Epstein, was found hanged in his Paris jail
+cell—in a shocking replay of how Epstein himself died"
+
+---
+
 😂
 
 "@Econ_Marshall
