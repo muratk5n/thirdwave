@@ -217,7 +217,7 @@ communication and energy transport cables (electricity, gas, oil)"
 
 ---
 
-The Pacemaker.. not bad.
+Pacemaker.. not bad.
 
 ---
 
