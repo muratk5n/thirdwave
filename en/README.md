@@ -60,7 +60,9 @@ in Riyadh, Saudi Arabia"
 
 ---
 
-[Channel 4](https://youtu.be/PRLcksCJNgw?t=1017) \#eunice \#thegrid
+\#eunice \#thegrid
+
+[Channel 4](https://youtu.be/PRLcksCJNgw?t=1017) 
 
 ---
 
