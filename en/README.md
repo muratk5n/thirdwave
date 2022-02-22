@@ -108,7 +108,7 @@ other. That does not lead to a democratic environment.
 
 UNSC permanent members are basically the victors of WWII; from
 long-time ago. A more inclusive org with major teeth is needed. The
-new org should also decide on on a majority vote basis. If you piss
+new org should also decide on a majority vote basis. If you piss
 off more than half the countries, it should mean something.
 
 "Why does membership in UNSC and G7 matter in world matters?'
