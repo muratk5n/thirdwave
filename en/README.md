@@ -37,13 +37,17 @@ reaction which releases the stored energy"
 
 ---
 
+Li-on batteries are limited by world lithium reserves. At its max this
+tech can only handled 5% of global storage need. They are doomed to
+remain marginal, and eventually irrelevant.
+
+---
+
 Switch to a green econ cannot be accomplished on the backs on bunch of
 people "putting up solar panels on their rooftops". That's good, but
 not everyone lives in a setting they can do that easily. Green energy
 needs to be a product, which can be transmitted easily, and stored as
-needed in huge amounts (batteries can only handle 5% of global storage
-need, so they are doomed to remain marginal, and eventually irrelevant
-IMO).
+needed in huge amounts.
 
 ---
 
