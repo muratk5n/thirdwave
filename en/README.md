@@ -1,7 +1,6 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-"$127.9m boost for zero $127.9m boost for zero emissions vehicles in
-Australia vehicles in Australia"
+"$127.9m boost for zero emissions vehicles in Australia"
 
 ---
 
