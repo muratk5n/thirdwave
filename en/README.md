@@ -60,8 +60,6 @@ Wow. Scholz has just announced that NordStream 2 will not be certified"
 
 "If it aint Bieing I aint going". That used to be a saying?
 
-Maybe it changed a little bit.. as in 'I aint going".
-
 ---
 
 "Germany will offer its population a new protein-based Covid-19
