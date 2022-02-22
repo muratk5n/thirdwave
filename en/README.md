@@ -58,7 +58,8 @@ Wow. Scholz has just announced that NordStream 2 will not be certified"
 
 ---
 
-"If it aint Bieing I aint going". That used to be a saying?
+"If it aint Boeing I aint going". That used to be a saying? Maybe the
+saying changed a little bit recently, no?
 
 ---
 
