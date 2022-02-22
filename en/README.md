@@ -51,7 +51,7 @@ needed in huge amounts.
 
 ---
 
-With all that solar capacity there is no reason China should not one
+With all that solar potential there is no reason China should not one
 day become energy independent.
 
 ---
