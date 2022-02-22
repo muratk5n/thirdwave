@@ -1,6 +1,6 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-"$127.9m boost for zero emissions vehicles in
+H2 View: "$127.9m boost for zero emissions vehicles in
 Australia.. Unveiled.. by the Australian Renewable Energy Agency
 (ARENA) on the behalf of the Australian Government, the Future Fuels
 Programme will see funding dedicated to the roll-out of hydrogen fuel
@@ -8,7 +8,7 @@ cell vehicles and the supporting infrastructure"
 
 ---
 
-"Deutsche Telekom is trialling hydrogen technologies for the
+H2 View: "Deutsche Telekom is trialling hydrogen technologies for the
 carbon-neutral powering of its mobile sites in a mission to slash its
 emissions"
 
@@ -16,9 +16,9 @@ emissions"
 
 Freaking massive
 
-"The Southern California Gas Company (SoCalGas) has announced that it
-is submitting a green hydrogen infrastructure application to construct
-an electrolyzer with a capacity between 10GW and 20GW"
+H2 View: "The Southern California Gas Company (SoCalGas) has announced
+that it is submitting a green hydrogen infrastructure application
+to construct an electrolyzer with a capacity between 10GW and 20GW"
 
 ---
 
