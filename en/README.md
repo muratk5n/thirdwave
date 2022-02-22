@@ -42,7 +42,8 @@ people "putting up solar panels on their rooftops". That's good, but
 not everyone lives in a setting they can do that easily. Green energy
 needs to be a product, which can be transmitted easily, and stored as
 needed in huge amounts (batteries can only handle 5% of global storage
-need, so they are doomed to remain marginal).
+need, so they are doomed to remain marginal, and eventually irrelevant
+IMO).
 
 ---
 
