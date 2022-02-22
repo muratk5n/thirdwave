@@ -22,19 +22,16 @@ to construct an electrolyzer with a capacity between 10GW and 20GW"
 
 ---
 
-CSP usually stores energy in molten salt. Interesting alternative
-below.
-
-"As alternative to molten salts-based systems, other energy storage
-systems are being proposed in the last years ... Limestone, which is
-the second most abundant material on Earth after water, can be
-employed for this purpose. In the so-called Calcium Looping (CaL)
-process, direct solar radiation is used to carry out the endothermic
-calcination reaction releasing CO2 and CaO as products that are stored
-separately. Storage conditions and time depends on the energy
-demand. When energy is needed, the stored products are brought
-together to carry out the exothermic carbonation reaction which
-releases the stored energy"
+"As alternative to molten salts-based systems [used by most CSPs],
+other energy storage systems are being proposed in the last years
+... Limestone, which is the second most abundant material on Earth
+after water, can be employed for this purpose. In the so-called
+Calcium Looping (CaL) process, direct solar radiation is used to carry
+out the endothermic calcination reaction releasing CO2 and CaO as
+products that are stored separately. Storage conditions and time
+depends on the energy demand. When energy is needed, the stored
+products are brought together to carry out the exothermic carbonation
+reaction which releases the stored energy"
 
 [[PDF]](https://idus.us.es/bitstream/handle/11441/87668/preprint_CSP-CaL.pdf)
 
