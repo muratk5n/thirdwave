@@ -22,7 +22,8 @@ to construct an electrolyzer with a capacity between 10GW and 20GW"
 
 ---
 
-CSP uses molten salt to store energy. Interesting alternative below.
+CSP usually stores energy in molten salt. Interesting alternative
+below.
 
 "As alternative to molten salts-based systems, other energy storage
 systems are being proposed in the last years ... Limestone, which is
