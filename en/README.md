@@ -38,7 +38,7 @@ reaction which releases the stored energy"
 ---
 
 Li-on batteries are limited by world lithium reserves. At its max this
-tech can only handled 5% of global storage need. They are doomed to
+tech can only handle 5% of global storage need. They are doomed to
 remain marginal, and eventually irrelevant.
 
 ---
