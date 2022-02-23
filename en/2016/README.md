@@ -30,8 +30,6 @@
 
 [#ouch](03/ouch.md)
 
-[Wall Street, Main Street](03/wall-street-main-street.md)
-
 [#yep](03/yep.md)
 
 [#yesweknow](03/yesweknow.md)

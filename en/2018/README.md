@@ -100,8 +100,6 @@
 
 [Entrepreneurship Insurance](08/entrepreneurship-insurance.md)
 
-[Movement for a People's Party](08/movement-for-peoples-party.md)
-
 [#nra](08/nra.md)
 
 [#russia #russia #russia](08/russia-russia-russia.md)
