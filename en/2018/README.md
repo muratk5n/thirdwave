@@ -178,8 +178,6 @@
 
 [Renewable Fuels are the Solution](12/renewable-fuel-is-the-solution.md)
 
-[Slack](12/slack.md)
-
 [The Road to Oblivion](12/the-road-to-oblivion.md)
 
 [Green Train](12/train.md)
