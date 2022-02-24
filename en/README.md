@@ -100,7 +100,7 @@ UKR gov is no more Nazi then the Kremlin is an Eskimo.
 
 ---
 
-Nazis? 🤨 That's stupid. Could be good propaganda though.. it aims to
+Nazis? 🤨 That's stupid. Only makes sense as propaganda.. it aims to
 mobilize RU by conjuring up memories of their last great victory --
 against Nazis.
 
