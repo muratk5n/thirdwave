@@ -80,8 +80,9 @@ Jane's Defense: "US deploying ground and air-attack assets to Baltic region"
 
 ---
 
-Yeea why not.. He doesn't even see them as a f-ing country. So by
-implication they cannot govern themselves, so you step in.
+Yeea why not.. invade Ukraine. He doesn't even see them as a f-ing
+country. So by implication they cannot govern themselves, so you step
+in.
 
 The Independent: "Putin declares war on Ukraine and warns foreign
 powers of ‘consequences’ if they interfere.. US president Joe Biden
