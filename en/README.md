@@ -93,9 +93,9 @@ UKR gov is no more Nazi then the Kremlin is an Eskimo.
 
 ---
 
-🤨 That's stupid. Could be good propaganda though.. it aims to mobilize
-RU by conjuring up memories of their last great victory -- against
-Nazis.
+Nazis? 🤨 That's stupid. Could be good propaganda though.. it aims to
+mobilize RU by conjuring up memories of their last great victory --
+against Nazis.
 
 The Guardian: "Russian forces have unleashed an attack of Ukraine
 .. [RU claims] it was for the “demilitarisation and denazification” of
