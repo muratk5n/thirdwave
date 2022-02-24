@@ -6,8 +6,8 @@
 
 ---
 
-CNBC: ""Hydrogen generation could become a $1 trillion per year
-market, Goldman Sachs says""
+CNBC: "Hydrogen generation could become a $1 trillion per year market,
+Goldman Sachs says"
 
 ---
 
