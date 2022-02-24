@@ -97,7 +97,7 @@ says US and allies will respond in ‘decisive way’"
 
 ---
 
-UKR gov is no more Nazi then the Kremlin is an Eskimo.
+UKR gov is no more Nazi then the Kremlin is Eskimo.
 
 ---
 
