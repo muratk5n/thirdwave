@@ -142,7 +142,7 @@ plant, that's it, nothing that can turn everything upside down. NS2's
 significance was more symbolic than in substance. It bypasses Ukraine
 so there was a message there. Plus the pipeline is new, its shutting
 down would not harming existing gas transportation, only future new
-transportation. NS2 was mostly a bellweather for Germany's stance
+transportation. NS2 was mostly a bellwether for Germany's stance
 toward Russia.
 
 ---
