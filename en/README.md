@@ -75,8 +75,6 @@ Trump's talk on NATO's irrelevance might have helped to quell RU fears
 on issues related to Ukraine.. But WH did sell anti-tank weapons to
 UKR in 2019.
 
----
-
 The Independent: "Russia conflict separates GOP traditionalists from
 newcomers.. Divisions in a rapidly changing Republican Party are
 evident in the divergent responses to the tensions in Ukraine"
