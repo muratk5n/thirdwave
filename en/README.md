@@ -137,11 +137,11 @@ U-oh.. be careful lets not become too relevant now
 
 ---
 
-I calculated Nodstream 2 to be at 1 GW capacity. That's good but its
-not like it can turn everything upside down. NS2's significance was
-more symbolic than in substance. It bypasses Ukraine so there was a
-message there. Plus the pipeline is new, its shutting down would not
-harming existing gas transportation, only future new
+I calculated Nodstream 2 to be at 1 GW capacity. That's one nuclear
+plant, that's it, nothing that can turn everything upside down. NS2's
+significance was more symbolic than in substance. It bypasses Ukraine
+so there was a message there. Plus the pipeline is new, its shutting
+down would not harming existing gas transportation, only future new
 transportation. NS2 was mostly a bellweather for Germany's stance
 toward Russia.
 
