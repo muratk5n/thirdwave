@@ -120,8 +120,8 @@ down on bitcoin’s price"
 
 ---
 
-Viacom CBS stock. Major fail started in 2017. What 2017 event could be
-the trigger?
+Viacom CBS stock. Major fail started in 2017. Which event could be the
+trigger?
 
 Ah, I have it. Star Trek Discovery -- playfully called by many Trek
 fans as "STD". Created by franchise destroyers Jar Jar and the bitches
