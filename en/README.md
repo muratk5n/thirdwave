@@ -41,14 +41,15 @@ permits"
 
 ---
 
-"The German government has announced that it intends to transfer
-hydrogen production technology to countries in Africa. This strategy
-is meant to work with Germany’s strategy to eliminate its reliance on
-coal and nuclear energy. To replace nuclear and coal, Germany will
-have to import about 40 to 60 percent of the H2 it will need... The
-announcement was made by an official from the German government who
-explained the country’s intentions just ahead of a meeting between the
-European Union and the African Union that took place in Brussels"
+Reuters: "The German government has announced that it intends to
+transfer hydrogen production technology to countries in Africa. This
+strategy is meant to work with Germany’s strategy to eliminate its
+reliance on coal and nuclear energy. To replace nuclear and coal,
+Germany will have to import about 40 to 60 percent of the H2 it will
+need... The announcement was made by an official from the German
+government who explained the country’s intentions just ahead of a
+meeting between the European Union and the African Union that took
+place in Brussels"
 
 ---
 
