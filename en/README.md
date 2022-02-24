@@ -1,117 +1,141 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-H2 View: "$127.9m boost for zero emissions vehicles in
-Australia.. Unveiled.. by the Australian Renewable Energy Agency
-(ARENA) on the behalf of the Australian Government, the Future Fuels
-Programme will see funding dedicated to the roll-out of hydrogen fuel
-cell vehicles and the supporting infrastructure"
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Japan will next month begin trialling its first-ever <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a>-powered train as the country looks to cut emissions from its high emitting transportation sector. <a href="https://t.co/xoNUQzdDz0">https://t.co/xoNUQzdDz0</a></p>&mdash; Joanna Sampson (@JoSamps92) <a href="https://twitter.com/JoSamps92/status/1496106767138402306?ref_src=twsrc%5Etfw">February 22, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-H2 View: "Deutsche Telekom is trialling hydrogen technologies for the
-carbon-neutral powering of its mobile sites in a mission to slash its
-emissions"
+CNBC: ""Hydrogen generation could become a $1 trillion per year
+market, Goldman Sachs says""
 
 ---
 
-Freaking massive
-
-H2 View: "The Southern California Gas Company (SoCalGas) has announced
-that it is submitting a green hydrogen infrastructure application
-to construct an electrolyzer with a capacity between 10GW and 20GW"
+H2 View: "Chesapeake Utilities successfully trials hydrogen blends at
+combined heat and power plant"
 
 ---
 
-"As alternative to molten salts-based systems [used by most CSPs],
-other energy storage systems are being proposed in the last years
-... Limestone, which is the second most abundant material on Earth
-after water, can be employed for this purpose. In the so-called
-Calcium Looping (CaL) process, direct solar radiation is used to carry
-out the endothermic calcination reaction releasing CO2 and CaO as
-products that are stored separately. Storage conditions and time
-depends on the energy demand. When energy is needed, the stored
-products are brought together to carry out the exothermic carbonation
-reaction which releases the stored energy"
-
-[[PDF]](https://idus.us.es/bitstream/handle/11441/87668/preprint_CSP-CaL.pdf)
+H2 View: "Everfuel founder and CEO: green hydrogen has been cost
+competitive since 2019"
 
 ---
 
-Li-on batteries are limited by world lithium reserves. At its max this
-tech can only handle 5% of global storage need. They are doomed to
-remain marginal, and eventually irrelevant.
+Where is Boeing?
+
+Where are they going ? 😆 😆 😆
+
+H2 View: "Hydrogen-powered Airbus A380 to take flight this decade"
 
 ---
 
-Switch to a green econ cannot be accomplished on the backs on bunch of
-people "putting up solar panels on their rooftops". That's good, but
-not everyone lives in a setting they can do that easily. Green energy
-needs to be a product, which can be transmitted easily, and stored as
-needed in huge amounts.
+H2 View: "Finnish city bets big on hydrogen with multiple production
+plans.. [P]reliminary studies are already taking place for the
+construction of a hydrogen gas pipeline in the northern Baltic Sea,
+running from Raahe to Leleå, Sweden, and then to Skellefteå"
 
 ---
 
-With all that solar potential there is no reason China should not one
-day become energy independent.
+"[Oz state] NSW won’t support further offshore mining and exploration
+permits"
 
 ---
 
-That sucks for Russia
-
-"@JeremyCliffe
-
-Wow. Scholz has just announced that NordStream 2 will not be certified"
-
----
-
-"If it aint Boeing I aint going". That used to be a saying? Maybe the
-saying changed a little bit recently, no?
+"The German government has announced that it intends to transfer
+hydrogen production technology to countries in Africa. This strategy
+is meant to work with Germany’s strategy to eliminate its reliance on
+coal and nuclear energy. To replace nuclear and coal, Germany will
+have to import about 40 to 60 percent of the H2 it will need... The
+announcement was made by an official from the German government who
+explained the country’s intentions just ahead of a meeting between the
+European Union and the African Union that took place in Brussels"
 
 ---
 
-"Germany will offer its population a new protein-based Covid-19
-vaccine comparable to conventional flu jabs this week, in the hope of
-swaying a sizeable minority that remains sceptical of the novel mRNA
-technology used in the most commonly used vaccines"
+"FKAB Marine Design is set to transform the maritime sector with its
+hydrogen-powered MR Tanker"
 
 ---
 
-Mango is potent.. Planning to add it to the veg patty mix. Replaced
-marmite with avacado (high on the B vitamins, w fats), added spinach
-for lutein (for eyesight longevity). Testing.
+"Salzgitter secures hydrogen supply for green steelmaking ambitions"
 
 ---
 
-"@kachayev
-
-Most likely you're reading my tweets because I'm an engineer, and I
-talk a lot about it. But, first and foremost, I'm Ukrainian. And I
-just spent an hour of my life listening to the president of another
-country ranting about how my country shouldn't exist"
-
----
-
-Oz had really locked it all down hadn't it.. This is good
-
-The Guardian: "Emotional scenes at Sydney airport as families, friends
-and lovers reunite after 704 days of Covid restrictions"
+"In the latest move to develop the state of Texas into a leading
+player in the world of hydrogen, plans have been unveiled for a
+gigawatt-scale green fuels hub – and it could produce green hydrogen
+in volumes not yet seen in the US... Apex Clean Energy is behind the
+ambitious plans, having inked a Memorandum of Understanding (MoU) with
+the Port of Corpus Christi Authority and EPIC Midstream"
 
 ---
 
-It matters bcz countries will attempt to pull discussion to bodies
-they are part of, and by doing that they might be pushing some
-countries out of the discussion. China might steer things to UNSC bcz
-it is a permanent member there, away from G7, while Germany might do
-the reverse. US, being in both, can pick and choose, select either
-format just to freeze out countries that are not in one or the
-other. That does not lead to a democratic environment.
+The Independent: "Russia conflict separates GOP traditionalists from
+newcomers.. Divisions in a rapidly changing Republican Party are
+evident in the divergent responses to the tensions in Ukraine"
 
-UNSC permanent members are basically the victors of WWII; from
-long-time ago. A more inclusive org with major teeth is needed. The
-new org should also decide on a majority vote basis. If you piss
-off more than half the countries, it should mean something.
+---
 
-"Why does membership in UNSC and G7 matter in world matters?'
+Jane's Defense: "US deploying ground and air-attack assets to Baltic region"
+
+---
+
+Yeea why not.. He doesn't even see them as a f-ing country. So by
+implication they cannot govern themselves, so you step in.
+
+The Independent: "Putin declares war on Ukraine and warns foreign
+powers of ‘consequences’ if they interfere.. US president Joe Biden
+says US and allies will respond in ‘decisive way’"
+
+---
+
+UKR gov is no more Nazi then the Kremlin is an Eskimo.
+
+---
+
+🤨 That's stupid. Could be good propaganda though.. it aims to mobilize
+RU by conjuring up memories of their last great victory -- against
+Nazis.
+
+The Guardian: "Russian forces have unleashed an attack of Ukraine
+.. [RU claims] it was for the “demilitarisation and denazification” of
+Ukraine, echoing a theme of Kremlin propaganda, the false claim that
+the Kyiv government is controlled by the far right"
+
+---
+
+CNBC: "The case for bitcoin as ‘digital gold’ is falling
+apart. Bitcoin fell to a two-week low Tuesday after Russia ordered
+troops into two separatist regions in eastern Ukraine. Geopolitical
+tensions and climbing inflation are among the key factors weighing
+down on bitcoin’s price"
+
+---
+
+Viacom CBS stock. Major fail started in 2017. What 2017 event could be
+the trigger?
+
+Ah, I have it. Star Trek Discovery -- playfully called by many Trek
+fans as "STD". Created by franchise destroyers Jar Jar and the bitches
+around him.
+
+<img width="340" src="https://pbs.twimg.com/media/FMSZf6OX0Ac9fxp?format=jpg&name=medium"/>
+
+---
+
+U-oh.. be careful lets not become too relevant now
+
+"UN slams 'aggressive' formula milk marketing"
+
+---
+
+I calculated Nodstream 2 to be at 1 GW capacity. That's good but its
+not like it can turn everything upside down. NS2's significance was
+more symbolic than in substance. It bypasses Ukraine so there was a
+message there. Plus the pipeline is new, its shutting down would not
+harming existing gas transportation, only future new
+transportation. NS2 was mostly a bellweather for Germany's stance
+toward Russia.
 
 ---
 
