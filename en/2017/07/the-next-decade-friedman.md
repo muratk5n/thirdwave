@@ -1,4 +1,6 @@
-# The Next Decade, Friedman
+# The Next Decade
+
+G. Friedman
 
 <a name='eurasia'/>
 

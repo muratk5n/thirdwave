@@ -52,13 +52,9 @@
 
 [War on People](06/war-on-people.md)
 
-[Iraq Part Deux](07/iraq-part-deux.md)
-
 [#jobs](07/jobs.md)
 
-[#MTPGA](07/mtpga.md)
-
-[The Next Decade, Friedman](07/the-next-decade-friedman.md)
+[The Next Decade](07/the-next-decade-friedman.md)
 
 [Economic Complexity, Capability](08/economic-complexity-hidalgo.md)
 
