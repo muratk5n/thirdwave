@@ -43,10 +43,8 @@ investigated..
 the solar receiver. Two examples of the circulating approach are DLR’s
 Centrec receiver in Germany, operating like a cement mixer, has
 recently advanced into its first commercial pilots via the spin-off
-HelioHeat, providing heat for a pasta firm. The Swiss laboratory ETH
-developed another design, now further developed by the DLR spin-off
-Synhelion for manufacturing high temperature processes like solar
-aviation fuel; an absorbing gas solar receiver.
+HelioHeat... The Swiss laboratory ETH developed another design, now
+further developed by the DLR spin-off Synhelion..
 
 Very high temperature solar research is even more relevant in sunny
 Australia where large mining industries have world class potential to
