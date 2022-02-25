@@ -97,6 +97,12 @@ waters"
 
 ---
 
+Cats And The Fiddle - Public Jitterbug No. 1 \#music
+
+[[-]](https://youtu.be/xSAaXov-QxA)
+
+---
+
 But still upcoming sanctions can damage EU-RU bilateral relations for
 a long time to come. Mission accomplished (for UK/US, per scenario).
 
@@ -189,12 +195,6 @@ Really? NATO is sitting ducks?
 Jane's Defense: "NATO loses ISR capability over Ukraine as Putin closes
 airspace.. NATO has lost its ability to conduct airborne intelligence,
 surveillance, and reconnaissance (ISR) overflights of Ukraine"
-
----
-
-Cats And The Fiddle - Public Jitterbug No. 1 \#music
-
-[[-]](https://youtu.be/xSAaXov-QxA)
 
 ---
 
