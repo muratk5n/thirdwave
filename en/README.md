@@ -15,13 +15,6 @@ up to 680 kilometres"
 
 ---
 
-Texas has a bright future, H2 production will be a boon for the state
-just as oil had been. They have the sunshine and expertise in handling
-various chemical, transporting, storing, processing.. If there was a
-stock for the state I'd buy it
-
----
-
 H2 View: "The HyDeal European green [H2 project]..  will bring a total
 installed capacity to 9.5 GW of solar power and 7.4 GW of
 electrolyzers..  by 2030.
@@ -66,6 +59,13 @@ at the University of Adelaide"
 <img width="340" src="https://pbs.twimg.com/media/FMWC6TsXoAMDs9Z?format=jpg&name=small"/>
 
 [[-]](https://www.solarpaces.org/new-solar-receiver-for-thermochemistry-at-1000-c/)
+
+---
+
+Texas has a bright future, H2 production will be a boon for the state
+just as oil had been. They have the sunshine and expertise in handling
+various chemical, transporting, storing, processing.. If there was a
+stock for the state I'd buy it
 
 ---
 
@@ -118,7 +118,8 @@ what the Russian op plan might look like"
 ---
 
 It is claimed Macron suggested "Finlandization" to VZ in a recent
-meeting to overt RU attack.
+meeting. Not followed. EM did not appear antagonistic toward RU, one
+of the few leaders to receive one-on-one meeting with Pute.
 
 ---
 
