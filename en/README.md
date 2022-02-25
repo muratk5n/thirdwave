@@ -106,7 +106,7 @@ ed, all of it is a big pile of shit.
 ---
 
 In this scenario a surgical strike against the UKR government is the
-play, and the attack plan cld be like this guy says.
+play, and the attack plan cld be like this guy says. 
 
 "@KofmanMichael
 
@@ -149,7 +149,8 @@ either saw that as weakness, or was scared.
 ---
 
 If one accepts the great fear of US-UK was a EU-RU entente, the latest
-invasion has been a "gift". 
+invasion has been a "gift". There will be sanctions up to galore,
+potentially damaging EU-RU bilateral relation for a long time to come.
 
 [[-]](2017/07/the-next-decade-friedman.md#eurasia)
 
