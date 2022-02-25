@@ -142,8 +142,8 @@ seperatists in UKR East.
 
 After one Biden-Zelensky meeting (May 2021) talk of "NATO membership"
 made the news, later denied, but VZ cld have received a tentative
-agreement on NATO in that meeting. Then there was the denial.. Puten
-either saw that as weakness, or was scared.
+agreement on NATO in that meeting. Then denial.. Puten either saw that
+as weakness, or was scared.
 
 ---
 
