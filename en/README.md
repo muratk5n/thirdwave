@@ -118,7 +118,7 @@ what the Russian op plan might look like"
 ---
 
 It is claimed Macron suggested "Finlandization" to VZ in a recent
-meeting. Not followed. EM did not appear antagonistic toward RU, one
+meeting. Not followed. EM had a non-antagonistic stance toward RU, one
 of the few leaders to receive one-on-one meeting with Pute.
 
 ---
