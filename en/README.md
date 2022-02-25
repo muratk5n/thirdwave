@@ -97,8 +97,8 @@ waters"
 
 ---
 
-But still upcoming sanctions cld potentially damage EU-RU bilateral
-relations for a long time to come. Mission accomplished - per scenario.
+But still upcoming sanctions can damage EU-RU bilateral relations for
+a long time to come. Mission accomplished (for UK/US, per scenario).
 
 ---
 
