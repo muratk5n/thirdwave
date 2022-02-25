@@ -64,8 +64,8 @@ at the University of Adelaide"
 
 Texas has a bright future, H2 production will be a boon for the state
 just as oil had been. They have the sunshine and expertise in handling
-various chemical, transporting, storing, processing.. If there was a
-stock for the state I'd buy it
+various chemical, transporting, storing, processing them.. If there
+was a stock for the state I'd buy it
 
 ---
 
