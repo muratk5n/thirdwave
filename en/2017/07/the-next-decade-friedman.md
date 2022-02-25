@@ -11,6 +11,13 @@ create a force whose population, technological and industrial
 capability, and natural resources would at the very least equal
 America’s, and in all likelihood outstrip them. ...
 
+The response of the United States to a Russian-German entente must be
+the same during the next ten years as it was in the twentieth
+century. The United States must continue to do everything it can to
+block a German-Russian entente and to limit the effect that Russia’s
+sphere of influence might have on Europe, because the very presence of
+a militarily powerful Russia changes the way Europe behaves.
+
 Russia
 
 Putin’s strategy of focusing on energy production and export is a
