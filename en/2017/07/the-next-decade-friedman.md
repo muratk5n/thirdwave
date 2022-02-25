@@ -6,6 +6,10 @@ G. Friedman
 
 Eurasia
 
+For generations, keeping the technological sophistication of Europe
+separated from the natural resources and manpower of Russia has been
+one of the key aims of American foreign policy...
+
 The American interest in Eurasia—understood as Russia and the European
 peninsula—is the same as U.S. interest everywhere: for no single power
 or coalition to dominate. The unification of Russia and Europe would
