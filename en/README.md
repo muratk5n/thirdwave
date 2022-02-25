@@ -104,9 +104,8 @@ a bad ideas.
 
 ---
 
-In that scenario a surgical strike against the UKR government is the
+In this scenario a surgical strike against the UKR government is the
 play, and the attack plan cld be like this guy says.
-
 
 "@KofmanMichael
 
