@@ -100,7 +100,8 @@ waters"
 ---
 
 I do not support any war. Crimea annex, the breakaway regions too were
-a bad ideas.
+a bad ideas. The world system is fucked, top to bottom. Energy system,
+ed, all of it is a big pile of shit.
 
 ---
 
