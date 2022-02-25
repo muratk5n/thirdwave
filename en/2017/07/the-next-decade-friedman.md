@@ -24,7 +24,7 @@ block a German-Russian entente and to limit the effect that Russia’s
 sphere of influence might have on Europe..
 
 In the next ten years, an ideal solution from the American point of
-view would be to split the Franco- German bloc, and in fact the
+view would be to split the Franco-German bloc, and in fact the
 president should work to open as wide a breach as possible between the
 two countries.. The United States must focus on limiting the power of
 the center while simultaneously doing all it can to thwart a
