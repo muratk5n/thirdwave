@@ -99,9 +99,8 @@ waters"
 
 ---
 
-I do not support any war. Crimea annex, the breakaway regions too were
-a bad ideas. The world system is fucked, top to bottom. Energy system,
-ed, all of it is a big pile of shit.
+But still upcoming sanctions cld potentially damage EU-RU bilateral
+relations for a long time to come. Mission accomplished - per scenario.
 
 ---
 
@@ -149,8 +148,7 @@ either saw that as weakness, or was scared.
 ---
 
 If one accepts the great fear of US-UK was a EU-RU entente, the latest
-invasion has been a "gift". There will be sanctions up to galore,
-potentially damaging EU-RU bilateral relation for a long time to come.
+invasion has been a "gift". 
 
 [[-]](2017/07/the-next-decade-friedman.md#eurasia)
 
