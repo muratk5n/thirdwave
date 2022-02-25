@@ -130,6 +130,8 @@ fight rather than avoid collusion by accepting his country’s neutral
 status or agreeing to implement the Minsk agreements, as Russia
 demanded prior to the invasion"
 
+[[-]](https://www.aljazeera.com/opinions/2022/2/24/is-putins-gamble-on-ukraine-rational)
+
 ---
 
 But let's continue: Putin was provoked through NATO. Brits had their
