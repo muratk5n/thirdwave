@@ -116,6 +116,11 @@ what the Russian op plan might look like"
 
 ---
 
+It is claimed Macron suggested "Finlandization" to VZ in a recent
+meeting to overt RU attack.
+
+---
+
 And Zelensky did not reach agreement when he could..
 
 The plot thickens..
