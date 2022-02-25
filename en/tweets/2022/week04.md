@@ -237,11 +237,6 @@ side.. You dont want that job.
 
 ---
 
-I bet the Poles are itching to go in there; help Ukraine. They don't like
-Russians much.
-
----
-
 "Investors have poured some $2 billion into cultured meat start-ups in
 the last two years, according to Crunchbase data"
 
