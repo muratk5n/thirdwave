@@ -57,7 +57,7 @@ World system is fukked - needs a change from top to bottom.
 
 ---
 
-And he Russian guy is like "but I can veto this resolution bitch"
+And the Russian guy is like "but I can veto this resolution bitch"
 
 US side at UN: "You cannot veto our voices; You cannot veto the truth;
 You cannot veto our principles; You cannot veto the Ukrainian people".
