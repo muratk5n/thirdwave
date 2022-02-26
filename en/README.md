@@ -33,7 +33,7 @@ solar, biomass, natural gas and other energy resources"
 "Hyundai, Shell to support the hydrogen mobility market under new
 deal.. Low carbon emissions products and services, including hydrogen
 offerings for the mobility market, are the key focus of a new
-agreement inked today (Feb 25) between Hyundai Motor Company and Shell"
+agreement between Hyundai Motor Company and Shell"
 
 ---
 
