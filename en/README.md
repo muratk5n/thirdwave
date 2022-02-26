@@ -66,7 +66,7 @@ You cannot veto our principles; You cannot veto the Ukrainian people".
 
 No shit
 
-<img width="340" src="https://pbs.twimg.com/media/FMgM9oSXsAY8ZYa?format=jpg&name=small"/>
+"Russia vetoes UN Security Council resolution that denounces its invasion of Ukraine"
 
 ---
 
