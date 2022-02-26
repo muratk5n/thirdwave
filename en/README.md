@@ -138,9 +138,8 @@ Unfair; but funny
 ---
 
 ML is also AI, and AI is Frankenstein / Pinoccio. Take your pick. So
-by optimizing you could be bringing about Skynet.
-
-So say bunch of IT dipshits who pose like science geniuses.
+by optimizing you could be bringing about Skynet. So say bunch of IT
+dipshits who pose like science geniuses.
 
 "@MadVictorZ
 
