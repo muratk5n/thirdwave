@@ -26,11 +26,10 @@ Fantastic.
 "Colorado, Utah and Wyoming will all compete for a portion of the $8bn
 allocated by the US Department of Energy for the development of
 regional clean hydrogen hubs as they look to play pivotal roles in the
-US hydrogen economy. Governors of the above states on Thursday (Feb
-24) unveiled their intentions to develop a New Mexico hydrogen hub to
-utilise heavily available natural resources in the region, such as
-high-quality wind, solar, biomass, natural gas and other energy
-resources"
+US hydrogen economy. Governors of the above states unveiled their
+intentions to develop a New Mexico hydrogen hub to utilise heavily
+available natural resources in the region, such as high-quality wind,
+solar, biomass, natural gas and other energy resources"
 
 ---
 
