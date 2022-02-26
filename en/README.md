@@ -112,8 +112,8 @@ a father'.
 ---
 
 Yea well.. Hopefully the end does not resemble Chechen war. Remember
-satellite images of their capital Grozny after the war.  The only
-thing flatter than that city would be a parking lot.
+satellite images of their capital Grozny afterwards.. The only thing
+flatter than that city would be a parking lot.
 
 "@RALee85
 
