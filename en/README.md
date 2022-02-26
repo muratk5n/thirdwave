@@ -89,13 +89,13 @@ NATO membership"
 
 ---
 
-\#Finlandisation
+\#Finlandization
 
 [[-]](https://youtu.be/N6aOk0SiHgI)
 
 ---
 
-Oh no.. what word will we use then instead of Finlandisation?
+Oh no.. what word will we use then instead of Finlandization?
 
 "Finnish Prime Minister Sanna Marin said that Russia's invasion in
 Ukraine 'will change' debate surrounding Finland's accession to NATO"
