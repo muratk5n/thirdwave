@@ -102,7 +102,7 @@ NATO membership"
 Oh no.. what word will we use then instead of Finlandisation?
 
 "Finnish Prime Minister Sanna Marin said that Russia's invasion in
-Ukraine "will change" debate surrounding Finland's accession to NATO"
+Ukraine 'will change' debate surrounding Finland's accession to NATO"
 
 ---
 
