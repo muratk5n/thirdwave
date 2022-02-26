@@ -7,9 +7,9 @@
 
 ---
 
-Once US catches momentum it will be like nothing anyone has
-ever seen..  Our American friends are good at scale. This thing will
-be huge.
+Once US catches momentum it will be like nothing anyone has ever
+seen..  Our American friends are good at scale. This thing will be
+huge.
 
 ---
 
@@ -137,7 +137,7 @@ Unfair; but funny
 
 ---
 
-ML is also AI, and AI is Frankenstein / Pinoccio. Take your pick. So
+ML is also AI, and AI is Frankenstein / Pinoccio. Take your pick. Ergo
 by optimizing you could be bringing about Skynet. So say bunch of IT
 dipshits who pose like science geniuses.
 
