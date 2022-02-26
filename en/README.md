@@ -13,8 +13,8 @@ huge.
 
 ---
 
-To repeat US sunshine states CA, NV, UT, AZ, NM, CO. They clearly have
-bunch of other resources to boot.. And perhaps expertise around
+To repeat, US sunshine states are CA, NV, UT, AZ, NM, CO. They clearly
+have bunch of other resources to boot.. And perhaps expertise around
 handling chemicals, storage, transport.
 
 <img width="150" src="https://pbs.twimg.com/media/FD5oGr5XsAEuaFz?format=png&name=small"/>
