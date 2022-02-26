@@ -133,7 +133,7 @@ Tony Burgos & His Swing Shift Orchestra - Little Girl \#music
 
 Unfair; but funny
 
-[[-]](https://pbs.twimg.com/media/FMZvpzzXsAETcJH?format=jpg&name=medium)
+[[-]](https://pbs.twimg.com/media/FMZvpzzXsAETcJH?format=jpg&name=small)
 
 ---
 
