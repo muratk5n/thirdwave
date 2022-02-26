@@ -8,7 +8,7 @@
 ---
 
 To repeat, US sunshine states are CA, NV, UT, AZ, NM, CO. They clearly
-have of other resources too.. And perhaps expertise around handling
+have other resources too.. And perhaps expertise around handling
 chemicals, storage, transport.
 
 Once US catches momentum it will be like nothing anyone has ever
