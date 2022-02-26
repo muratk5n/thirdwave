@@ -7,15 +7,12 @@
 
 ---
 
-Once US catches momentum it will be like nothing anyone has ever
-seen..  Our American friends are good at scale. This thing will be
-huge.
-
----
-
 To repeat, US sunshine states are CA, NV, UT, AZ, NM, CO. They clearly
-have bunch of other resources to boot.. And perhaps expertise around
-handling chemicals, storage, transport.
+have of other resources too.. And perhaps expertise around handling
+chemicals, storage, transport.
+
+Once US catches momentum it will be like nothing anyone has ever
+seen.. US is good at scale. 
 
 <img width="150" src="https://pbs.twimg.com/media/FD5oGr5XsAEuaFz?format=png&name=small"/>
 
