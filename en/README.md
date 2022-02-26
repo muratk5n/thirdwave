@@ -74,7 +74,7 @@ No shit
 
 ---
 
-If SE,FI has Russian minorities kick them out now
+If SE, FI has Russian minorities kick them out now
 
 ---
 
