@@ -58,7 +58,7 @@ Canada. Any analysis of this country needs to take that into account.
 
 ---
 
-Dude in the back just dropped his magazine on the floor, WTF
+Dude in the back just dropped his magazine on the ground, WTF
 
 [[-]](https://youtu.be/6SOVTHjHjbw?t=19)
 
