@@ -22,7 +22,7 @@ help for post-Ukraine invasion 2014.
 
 Trying to "shame" RU on moral grounds is useless. Even if they are an
 evil force, there is a rational way to deal with them. Their actions
-do not reflect on democracy, as RU cannot claim to be one. But
+do not reflect on full democracy, as RU cannot claim to be one. But
 democratically elected leaders, being responsible for the safety of
 their citizens, are on the hook to provide safety. They need to have
 the capability to handle this "evil force". You might be
