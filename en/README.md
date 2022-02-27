@@ -1,150 +1,85 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
+---
+
+Best part of the speech (see link).
+
+"German Chancellor Olaf Scholz on Ukraine"
+
+[[-]](https://youtu.be/9_DMcayCtnA?t=1832)
 
 ---
 
-"Chevron, Iwatani to develop 30 hydrogen stations in California by 2026"
+Go for neutrality. Finlandization. Or maybe in the future we will call
+it "Ukranianization".
+
+"Ukraine agrees to hold talks with Russia at the Belarusian border"
 
 ---
 
-To repeat, US sunshine states are CA, NV, UT, AZ, NM, CO, ID, WY. They
-clearly have other resources too.. And perhaps expertise around
-handling chemicals, storage, transport.
+Additional manpower, weapons did not help in Syria. Sanctions did not
+help for post-Ukraine invasion 2014.
 
-Once US catches momentum it will be like nothing anyone has ever
-seen.. US is good at scale. 
-
-<img width="150" src="https://pbs.twimg.com/media/FD5oGr5XsAEuaFz?format=png&name=small"/>
-
----
-
-Fantastic. 
-
-"Colorado, Utah and Wyoming will all compete for a portion of the $8bn
-allocated by the US Department of Energy for the development of
-regional clean hydrogen hubs as they look to play pivotal roles in the
-US hydrogen economy. Governors of the above states unveiled their
-intentions to develop a New Mexico hydrogen hub to utilise heavily
-available natural resources in the region, such as high-quality wind,
-solar, biomass, natural gas and other energy resources"
+Trying to "shame" RU on moral grounds is useless. Even if they are an
+evil force, there is a rational way to deal with them. Their actions
+do not reflect on democracy, as RU cannot claim to be one. But
+democratically elected leaders, being responsible for the safety of
+their citizens, are on the hook to provide safety. They need to have
+the capability to handle this "evil force". You might be
+democratically elected, but then have democratically get bit in the
+ass by a wild bear, and democratically have your ass handed to you.
 
 ---
 
-"Hyundai, Shell to support the hydrogen mobility market under new
-deal.. Low carbon emissions products and services, including hydrogen
-offerings for the mobility market, are the key focus of a new
-agreement between Hyundai Motor Company and Shell"
+Its clearly about tanks, as we see now.
+
+Not just tanks, I dont want to nag on the "weapon help" countries are
+providing to UKR, even manpower, but it's more than that, you need to
+have an integrated warfare capability just like RU (and US).
 
 ---
 
-:) This guy is good.. I am stashing these
+The grand chess master..
 
-"If you are fluent you are congruent"
+@Kasparov63
 
----
-
-Hah. From a self-help type person
-
-"Your action steps build up - piggy banks become biggy banks"
+[2014] You don't need tanks, you need banks [against Putin]"
 
 ---
 
-Jane's Defense: "Philippines signs contract for 32 S-70i Black Hawks"
+Vid on RU landmass
+
+[[-]](https://youtu.be/HBlZlmXyR5M?t=8)
 
 ---
 
-World system is fukked - needs a change from top to bottom.
+Canada is large. But you know who is larger? Russia. Twice the size of
+Canada. Any analysis of this country needs to take that into account.
 
 ---
 
-And the Russian guy is like "but I can veto this resolution bitch"
+Dude in the back just dropped his magazine on the floor, WTF
 
-US side at UN: "You cannot veto our voices; You cannot veto the truth;
-You cannot veto our principles; You cannot veto the Ukrainian people".
-
----
-
-No shit
-
-"Russia vetoes UN Security Council resolution that denounces its invasion of Ukraine"
+[[-]](https://youtu.be/6SOVTHjHjbw?t=19)
 
 ---
 
-If SE, FI has Russian minorities kick them out now
+Thats the guy - "Putin's son"
+
+Reuters: "Ramzan Kadyrov, the leader of Russia's Chechnya region and
+an ally of Russian President Vladimir Putin, said on Saturday that
+Chechen fighters had been deployed to Ukraine and urged Ukrainians to
+overthrow their government"
 
 ---
 
-😂 😂 Part of me wants to see it happen just to see what they would do
-for the f--k of it
-
-"Finland, Sweden brush off Moscow's warning on joining NATO"
+"India Avoids Condemning Russia's Invasion of Ukraine, Despite
+U.S. Pressure"
 
 ---
 
-On cue..
-
-"Russia's Ministry of Foreign Affairs says there would be 'serious
-military and political repercussions' if Finland were to be granted
-NATO membership"
-
----
-
-\#Finlandization
-
-[[-]](https://youtu.be/N6aOk0SiHgI)
-
----
-
-Oh no.. what word will we use then instead of Finlandization?
-
-"Finnish Prime Minister Sanna Marin said that Russia's invasion in
-Ukraine 'will change' debate surrounding Finland's accession to NATO"
-
----
-
-Now Chechnia is ruled by a Kremlin stooge who says 'he loves Putin like
-a father'.
-
----
-
-Yea well.. Hopefully the end doesn't resemble the Chechen
-war. Remember satellite images of the capital Grozny, afterwards.. The
-only thing flatter than that city would be a parking lot.
-
-"@RALee85
-
-Two US officials confirmed that Ukraine shot down a second Il-76
-transport aircraft tonight. If true, this would be a really
-significant mistake for the Russian military, and possibly the worst
-loss of life for the Russian Airborne Forces since the 2nd Chechen
-War"
-
----
-
-Tony Burgos & His Swing Shift Orchestra - Little Girl \#music
-
-[[-]](https://youtu.be/ga8XdpAkDnk)
-
----
-
-Unfair; but funny
-
-[[-]](https://pbs.twimg.com/media/FMZvpzzXsAETcJH?format=jpg&name=small)
-
----
-
-ML is also AI, and AI is Frankenstein / Pinoccio. Take your pick. Ergo
-by optimizing you could be bringing about Skynet. So say bunch of IT
-dipshits who pose like science geniuses.
-
-"@MadVictorZ
-
-So, according to ML jargon, solving this problem:
-
-min f(x) s.t. g(x)=0
-
-means that I am 'learning' its solution.  Therefore, optimization is
-just ML. Gotcha"
+"China refuses to call Russian attack on Ukraine an ‘invasion,’
+deflects blame to U.S."
 
 ---
 

@@ -2,6 +2,151 @@
 
 ---
 
+"Chevron, Iwatani to develop 30 hydrogen stations in California by 2026"
+
+---
+
+To repeat, US sunshine states are CA, NV, UT, AZ, NM, CO, ID, WY. They
+clearly have other resources too.. And perhaps expertise around
+handling chemicals, storage, transport.
+
+Once US catches momentum it will be like nothing anyone has ever
+seen.. US is good at scale. 
+
+<img width="150" src="https://pbs.twimg.com/media/FD5oGr5XsAEuaFz?format=png&name=small"/>
+
+---
+
+Fantastic. 
+
+"Colorado, Utah and Wyoming will all compete for a portion of the $8bn
+allocated by the US Department of Energy for the development of
+regional clean hydrogen hubs as they look to play pivotal roles in the
+US hydrogen economy. Governors of the above states unveiled their
+intentions to develop a New Mexico hydrogen hub to utilise heavily
+available natural resources in the region, such as high-quality wind,
+solar, biomass, natural gas and other energy resources"
+
+---
+
+"Hyundai, Shell to support the hydrogen mobility market under new
+deal.. Low carbon emissions products and services, including hydrogen
+offerings for the mobility market, are the key focus of a new
+agreement between Hyundai Motor Company and Shell"
+
+---
+
+:) This guy is good.. I am stashing these
+
+"If you are fluent you are congruent"
+
+---
+
+Hah. From a self-help type person
+
+"Your action steps build up - piggy banks become biggy banks"
+
+---
+
+Jane's Defense: "Philippines signs contract for 32 S-70i Black Hawks"
+
+---
+
+World system is fukked - needs a change from top to bottom.
+
+---
+
+And the Russian guy is like "but I can veto this resolution bitch"
+
+US side at UN: "You cannot veto our voices; You cannot veto the truth;
+You cannot veto our principles; You cannot veto the Ukrainian people".
+
+---
+
+No shit
+
+"Russia vetoes UN Security Council resolution that denounces its invasion of Ukraine"
+
+---
+
+If SE, FI has Russian minorities kick them out now
+
+---
+
+😂 😂 Part of me wants to see it happen just to see what they would do
+for the f--k of it
+
+"Finland, Sweden brush off Moscow's warning on joining NATO"
+
+---
+
+On cue..
+
+"Russia's Ministry of Foreign Affairs says there would be 'serious
+military and political repercussions' if Finland were to be granted
+NATO membership"
+
+---
+
+\#Finlandization
+
+[[-]](https://youtu.be/N6aOk0SiHgI)
+
+---
+
+Oh no.. what word will we use then instead of Finlandization?
+
+"Finnish Prime Minister Sanna Marin said that Russia's invasion in
+Ukraine 'will change' debate surrounding Finland's accession to NATO"
+
+---
+
+Now Chechnia is ruled by a Kremlin stooge who says 'he loves Putin like
+a father'.
+
+---
+
+Yea well.. Hopefully the end doesn't resemble the Chechen
+war. Remember satellite images of the capital Grozny, afterwards.. The
+only thing flatter than that city would be a parking lot.
+
+"@RALee85
+
+Two US officials confirmed that Ukraine shot down a second Il-76
+transport aircraft tonight. If true, this would be a really
+significant mistake for the Russian military, and possibly the worst
+loss of life for the Russian Airborne Forces since the 2nd Chechen
+War"
+
+---
+
+Tony Burgos & His Swing Shift Orchestra - Little Girl \#music
+
+[[-]](https://youtu.be/ga8XdpAkDnk)
+
+---
+
+Unfair; but funny
+
+[[-]](https://pbs.twimg.com/media/FMZvpzzXsAETcJH?format=jpg&name=small)
+
+---
+
+ML is also AI, and AI is Frankenstein / Pinoccio. Take your pick. Ergo
+by optimizing you could be bringing about Skynet. So say bunch of IT
+dipshits who pose like science geniuses.
+
+"@MadVictorZ
+
+So, according to ML jargon, solving this problem:
+
+min f(x) s.t. g(x)=0
+
+means that I am 'learning' its solution.  Therefore, optimization is
+just ML. Gotcha"
+
+---
+
 H2 View: "Sweden’s ‘first’ hydrogen truck to soon hit roads.. Swedish
 transport group MaserFrakt will bring what it says will be Sweden’s
 first hydrogen-powered heavy-duty truck into commercial operation
