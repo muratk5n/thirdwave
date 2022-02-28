@@ -4,6 +4,8 @@ What Can I Do?
 
 [Renewable Fuels are the Solution](renewable-fuel-is-the-solution.md)
 
+[H2 Production Methods](../../2022/02/h2-production.md)
+
 [H2 Storage Options](../../2020/10/h2-storage.md)
 
 [H2 Numbers](../../2020/07/h2-numbers.md)
