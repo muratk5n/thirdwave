@@ -56,8 +56,8 @@ Satire is dead"
 
 Hopefully with pilots?.. Watch for those S-400s.. one of the most
 capable air-defense systems currently in production.. Can UKR achieve
-air superiority with these fighter-jets? NATO itself cannot fly on UKR
-right now. Drones had some success though
+air superiority with these fighter-jets? NATO itself could not fly
+over UKR right now. Drones had some success though
 
 "'Fighter jets' are to be provided to Ukraine"
 
