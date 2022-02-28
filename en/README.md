@@ -175,7 +175,7 @@ to Europe"
 
 ---
 
-Some
+Selected
 
 "EU, US, UK to exclude some Russian banks from SWIFT.. Germany and its
 Western allies agreed Saturday to cut 'selected' Russian banks out of
