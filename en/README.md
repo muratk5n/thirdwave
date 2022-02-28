@@ -199,13 +199,13 @@ potentially against someone, even in defensive form.
 
 ---
 
-It was more of the former, but, still good
+It was the former IMO
 
 ---
 
 Mustache is now saying 'Trump was too buddy-buddy with Putin but we
 sent ATWs to Ukraine behind his back, that's why there was no
-invasion' 😆
+invasion during his time' 😆
 
 ---
 
