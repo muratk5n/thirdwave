@@ -47,3 +47,4 @@ considered, SMR-52% and ATR are economically preferable to NGD and
 SMR-85%. SMR-52% could outperform ATR-CCS when the natural gas price
 decreases and the rate of return increases.
 
+[[⇪Up]](h2-production.md)
