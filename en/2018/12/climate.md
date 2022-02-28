@@ -1,7 +1,5 @@
 # Climate Change
 
-What Can I Do?
-
 [Renewable Fuels are the Solution](renewable-fuel-is-the-solution.md)
 
 [H2 Production Methods](../../2022/02/h2-production.md)
@@ -20,8 +18,6 @@ What Can I Do?
 
 [The Sunshine Map](https://pbs.twimg.com/media/FCtre5sWEAgFFp9?format=png&name=small)
 
-Is It Real?
-
 [Temparature Increase](../../2015/08/temp-increase.md)
 
 [January Temperatures](../../2018/01/january-temperatures.md)
@@ -33,6 +29,3 @@ Is It Real?
 [Fires](fires-history.md)
 
 [[⇪Up]](../..)
-
-
-
