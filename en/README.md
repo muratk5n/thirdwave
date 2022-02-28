@@ -11,7 +11,7 @@ the amount of time they can spend underwater"
 
 ---
 
-H2 from waste
+H2 from waste. It is surprisingly cost-effective.
 
 [[-]](2022/02/h2-waste.md)
 
