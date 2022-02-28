@@ -41,7 +41,7 @@ have an integrated warfare capability just like RU (and US).
 
 The grand chess master..
 
-@Kasparov63
+"@Kasparov63
 
 [2014] You don't need tanks, you need banks [against Putin]"
 
