@@ -33,7 +33,7 @@ parties left and right were protesting against the war.
 
 ---
 
-CDU Twitter (DE convervatives) is full of 'getting tough' talk. Tough
+CDU Twitter (DE conservatives) is full of 'getting tough' talk. Tough
 on who? Last I checked your country was under military occupation by
 US of A.
 
