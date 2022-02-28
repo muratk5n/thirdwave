@@ -191,8 +191,8 @@ reaction to Russia’s war in Ukraine"
 
 ---
 
-If it is not important why are you trying to expand it? It clearly
-*means* something to be in this thing, as well as outside, and it is
+If it is not important why are some trying to expand it? It clearly
+*means* something to be in it, as well as outside, and it is
 potentially against someone, even in defensive form.
 
 "But NATO is not that important, RU is making a big deal of it"
