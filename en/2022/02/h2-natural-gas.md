@@ -8,11 +8,9 @@ per kg H2 depending on the production technology.
 
 Autothermal reforming (ATR) with carbon capture and storage (CCS) and
 natural gas decomposition with CCS produce H2 has the lowest and
-highest cost, respectively.
-
-Blue hydrogen from ATR process has the lowest GHG emissions, 3.91 kg
-CO2 eq/kg H2. The economics of a steam reforming plant depends on the
-CO2 capture rate.
+highest cost, respectively. Blue hydrogen from ATR process has the
+lowest GHG emissions, 3.91 kg CO2 eq/kg H2. The economics of a steam
+reforming plant depends on the CO2 capture rate.
 
 Interest in blue hydrogen production technologies is growing. Some
 researchers have evaluated the environmental and/or economic
