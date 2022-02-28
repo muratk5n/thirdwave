@@ -17,9 +17,8 @@ Details on H2 production from waste
 
 ---
 
-Painting RU as irrational helps to justify US presence (need a big
-power to balance this 'irrational' bad power) in Europe and puts a
-constant wedge between EU/RU.
+Painting RU as irrational might help to justify a certain military
+posture, with US at its center.
 
 ---
 
