@@ -4,5 +4,5 @@
 
 [H2 From Methane (Natural Gas)](waste-to-h2.md)
 
-[Waste to H2](waste-to-h2.md)
+[Waste to H2](h2-waste.md)
 
