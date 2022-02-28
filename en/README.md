@@ -11,7 +11,7 @@ the amount of time they can spend underwater"
 
 ---
 
-Details on H2 production from waste
+H2 from waste
 
 [[-]](2022/02/h2-waste.md)
 
