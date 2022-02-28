@@ -119,7 +119,7 @@ They probably don't care as much as assumed
 
 ---
 
-Biden is not talking to MBS? Why not? Bcz he is bad? he had a journo
+Biden is not talking to MBS? Why not? Bcz he is bad? Had a journo
 killed (which is bad)... Putin flattened Grozny and everyone was still
 talking to him afterwards.
 
