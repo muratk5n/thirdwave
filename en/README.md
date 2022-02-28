@@ -27,9 +27,9 @@ Ukraine"
 
 ---
 
-The DE Rammstein US base is so huge it has its own *shopping
-mall*. The entire 2003 Iraq War was supported from Rammstein while DE
-parties left and right were protesting against the war.
+The DE Ramstein US base is so huge it has its own *shopping mall*. The
+entire 2003 Iraq War was supported from Ramstein while DE parties left
+and right were protesting against the war.
 
 ---
 
