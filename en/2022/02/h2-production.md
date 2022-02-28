@@ -6,3 +6,5 @@
 
 [Waste to H2](h2-waste.md)
 
+[Thermo-Chemical Water Splitting](h2-thermo-chemical.md)
+
