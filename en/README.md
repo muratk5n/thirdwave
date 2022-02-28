@@ -18,7 +18,8 @@ H2 from waste. It is surprisingly cost-effective.
 ---
 
 Painting RU as irrational might help to justify a certain military
-posture, with US at its center.
+posture, with US at its center. Might not understand a country,
+but if they are consistent, can deal with them. 
 
 ---
 
