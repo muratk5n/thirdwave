@@ -28,7 +28,49 @@ higher level of CO 2 capture (around 98%) in oxy-combustion and IGCC
 plants. In the oxy- combustion case this was achieved by passing the
 vent gas from CO 2 purification through a membrane separation
 unit. For gasification based plants an additional MDEA solvent
-scrubbing stage was added after the Selexol scrubber.
+scrubbing stage was added after the Selexol scrubber...
+
+A summary of the performance of the baseline power plants with and
+without capture is given in [table below]
 
 ![](h2-coal-01.png)
+
+CO2 capture almost eliminates SOx emissions and also reduces NOx emissions..
+
+Levelised costs of electricity (LCOE) and CO 2 avoidance cost (CAC)
+are shown [below]. The costs of the IGCC plants are higher than those
+of the pulverised coal combustion plants, mainly because of higher
+capital costs and higher fixed operating and maintenance (O+M) costs,
+particularly maintenance costs...
+
+![](h2-coal-02.png)
+
+The thermal efficiencies of power plants with CCS based on pulverised
+coal combustion with post combustion capture, oxy-combustion and IGCC
+with pre-combustion capture are 34.8 - 35.7% LHV basis, which is
+around 9 percentage points lower than a reference pulverised coal
+plant without capture.
+
+The levelised cost of base load electricity generation is about 92
+€/MWh for boiler-based plants with oxy-combustion or post combustion
+capture and 115 €/MWh for IGCC plants with pre-combustion
+capture. This is about 75-125% higher than the reference pulverised
+coal plant without CCS...
+
+The net efficiency of producing hydrogen by coal gasification with CCS
+is 57.8% on an LHV basis (65.5% HHV basis) and the levelised cost of
+hydrogen is 16.1 €/GJ LHV basis (13.6 €/GJ HHV). 
+
+[PDF](https://www.researchgate.net/publication/228537942_Prospects_for_building_a_hydrogen_energy_infrastructure)
+
+![](h2-coal-03.png)
+
+
+
+
+
+
+
+[[⇪Up]](h2-production.md)
+
 
