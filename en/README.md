@@ -63,8 +63,6 @@ Power Plant, Longview Power Plant, Morgantown Energy Facility,
 Mountaineer Power Plant, Mount Storm Power Station, Pleasants Power
 Station?
 
-I dont think any of these plants have CCS.
-
 ---
 
 West Virginia produces clean energy? Really?
@@ -84,12 +82,13 @@ Gov, policy needs to whip ppl into shape. Unless the cost of those
 investments increase, the direction of tech will never change.
 
 It is tough to argue against high power prices in the middle of a
-winter of course when ppl are freezing their asses off, but offset
-that price somehow, start somewhere. The good news is the tech exists,
-has a specific price tag, which will only come down in the future.
-As a all-around-shoot-the-shit blogger I can only talk about broad
-directions. How they translate into the minutea of policy, reg is
-the job of government.
+winter of course when ppl are freezing their asses off, but can offset
+that price somehow.
+
+The good news is the tech exists, has a specific price tag, which will
+only come down in the future.  As a all-around-shoot-the-shit blogger
+I can only talk about broad directions. How they translate into the
+minutea of policy, reg is the job of government.
 
 ---
 
