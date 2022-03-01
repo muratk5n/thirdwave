@@ -176,7 +176,7 @@ Events might develop for the worse, that would make the war even more
 damaging by then.
 
 "Would it be beneficial for the US admin for a possible Ukrainian deal
-(a loss) to happen after midterms?"
+(tantamount to admitting defeat) to happen after midterms?"
 
 ---
 
