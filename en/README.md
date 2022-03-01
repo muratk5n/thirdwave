@@ -86,9 +86,7 @@ winter of course when ppl are freezing their asses off, but can offset
 that price somehow.
 
 The good news is the tech exists, has a specific price tag, which will
-only come down in the future.  As a all-around-shoot-the-shit blogger
-I can only talk about broad directions. How they translate into the
-minutea of policy, reg is the job of government.
+only come down in the future. 
 
 ---
 
