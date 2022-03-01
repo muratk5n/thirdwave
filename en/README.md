@@ -112,8 +112,8 @@ $1.5 trillion to the industry since 2019"
 
 ---
 
-Gobble gobble restricts warship passage thru the straits? After all RU
-ships already went to Black Sea.. Great timing. 
+Gobble gobble restricts warship passage thru the straits? After all
+needed RU ships already went to the Black Sea.. Great timing.
 
 ---
 
