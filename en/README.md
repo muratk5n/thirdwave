@@ -174,7 +174,7 @@ prepare for the washout"
 
 ---
 
-Things might get worse, which would make the war even more politically
+Events might develop for the worse, that would make the war even more
 damaging by then.
 
 "Would it be beneficial for the US admin for a possible Ukrainian deal
