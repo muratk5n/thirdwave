@@ -12,6 +12,8 @@ large-scale, central production facilities that could be tied directly
 to renewable or other non-greenhouse-gas-emitting forms of electricity
 production.
 
+![](h2-electrolysis-01.png)
+
 Like fuel cells, electrolyzers consist of an anode and a cathode
 separated by an electrolyte. Different electrolyzers function in
 different ways, mainly due to the different type of electrolyte
