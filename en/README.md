@@ -12,9 +12,8 @@ possible"
 ---
 
 H2 View: "Enapter launches one-size-fits-all electrolyser.. In an
-effort to boost the green hydrogen market, Enapter has today (March 1)
-launched its first standardised electrolyser suitable for mass
-production"
+effort to boost the green hydrogen market, Enapter has launched its
+first standardised electrolyser suitable for mass production"
 
 ---
 
