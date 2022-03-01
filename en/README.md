@@ -48,6 +48,10 @@ hub in Florida, US"
 
 ---
 
+CCS Dat Biatch
+
+---
+
 It's tough to argue against coal, where it is available it is abundant as fuck
 
 ---
