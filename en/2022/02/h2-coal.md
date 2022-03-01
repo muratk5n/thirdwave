@@ -14,11 +14,11 @@ pre-combustion capture...
 The study also assesses the following hydrogen production plants, all
 based on GE oxygen blown gasification and Selexol solvent scrubbing:
 
-* Plant with high net electricity co-production, including two 130MW e
-E class gas turbines
+* Plant with high net electricity co-production, including two
+  130MW.. gas turbines
 
 * Plant with intermediate net electricity co-production, including two
-77MW e F class gas turbines
+77MW.. gas turbines
 
 * Plant with low electricity co-production, including a PSA off-gas
 fired boiler.  All of these baseline plants have 90% CO2 capture...
