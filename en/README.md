@@ -94,6 +94,8 @@ the job of government.
 
 ---
 
+Do these financed plants have CCS? Likely not.
+
 CNBC: "Banks haven’t quit coal. Study says commercial lenders have channeled
 $1.5 trillion to the industry since 2019"
 
