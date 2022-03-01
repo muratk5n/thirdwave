@@ -188,7 +188,7 @@ You dont have to like the other side's stance, but it they are
 consistent, stance fits into a power structure, you can work with
 that. After 9/11 US gov types were like 'these jihadi mfkers are f-ing
 weirdos.. I miss the Cold War at least *the other side was
-rational*'. Well here are the Russkies, they are back. Deal with it.
+rational*'. Well here are the Russkies, they are back. 
 
 ---
 
