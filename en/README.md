@@ -92,7 +92,7 @@ average again for coal + CCS (my prefered scenario).
 Gov, policy needs to whip ppl into shape. Unless the cost of those
 investments increase, the direction of money flow will never change.
 
-High power prices in the middle of a winter can be pleasant, with ppl
+High power prices in the middle of a winter cannot be pleasant, with ppl
 are freezing their asses off, but maybe reg can offset that price
 somehow.
 
