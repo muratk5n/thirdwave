@@ -182,8 +182,8 @@ prepare for the washout"
 
 ---
 
-Events might develop for the worse, that would make the war even more
-damaging by then.
+Events might develop for the worse, making the war even more damaging
+by then.
 
 "Would it be beneficial for the US admin for a possible Ukrainian deal
 (tantamount to admitting defeat) to happen after midterms?"
