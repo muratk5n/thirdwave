@@ -36,20 +36,23 @@ fully built in the next 18 months"
 
 ---
 
-"Significant breakthrough for hydrogen transportation achieved with
-GenCell’s green ammonia synthesis project.. Unveiled today the
-breakthrough in ammonia technology will enable cost-competitive
-transportation of hydrogen in the form of ammonia directly from water
-at a very low temperature and pressure"
+H2 View: "Significant breakthrough for hydrogen transportation
+achieved with GenCell’s green ammonia synthesis project.. Unveiled
+today the breakthrough in ammonia technology will enable
+cost-competitive transportation of hydrogen in the form of ammonia
+directly from water at a very low temperature and pressure"
+
+[[-]](https://www.h2-view.com/story/significant-breakthrough-for-hydrogen-transportation-achieved-with-gencells-green-ammonia-synthesis-project/)
 
 ---
 
-"Norway to build new facility that uses electrolysers to create e-fuels for aircraft"
+H2 View: "Norway to build new facility that uses electrolysers to
+create e-fuels for aircraft"
 
 ----
 
-"Cummins to supply a 25MW electrolyser system for hydrogen production
-hub in Florida, US"
+H2 View: "Cummins to supply a 25MW electrolyser system for hydrogen
+production hub in Florida, US"
 
 ---
 
