@@ -87,7 +87,7 @@ Manchin"
 
 LCOE (total cost of electricity) will increase with CCS, over 70% in
 all cases. Levelised cost of hydrogen is about 50% higher than the
-average again from coal + CCS (my prefered scenario).
+average again for coal + CCS (my prefered scenario).
 
 Gov, policy needs to whip ppl into shape. Unless the cost of those
 investments increase, the direction of money flow will never change.
