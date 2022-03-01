@@ -18,24 +18,29 @@ first standardised electrolyser suitable for mass production"
 ---
 
 
-"Airbus demonstrator hydrogen airplane to be ready in handful of years
-The Airline’s zero-emission tech demonstrator will be ready by mid-decade"
+H2 Fuel News: "Airbus demonstrator hydrogen airplane to be ready in
+handful of years The Airline’s zero-emission tech demonstrator will be
+ready by mid-decade"
 
 ---
 
-"A 55MW electrolyser is set to deliver a safe, reliable and commercial
-scale green hydrogen supply chain in the city of Newcastle, Australia"
+H2 View: "A 55MW electrolyser is set to deliver a safe, reliable and
+commercial scale green hydrogen supply chain in the city of Newcastle,
+Australia"
 
 ---
 
-"Australia will accelerate development of a hydrogen-powered boat with
-Poseidon Marine H2 revealing ambitions for a vessel to be fully built
-in the next 18 months"
+H2 View: "Australia will accelerate development of a hydrogen-powered
+boat with Poseidon Marine H2 revealing ambitions for a vessel to be
+fully built in the next 18 months"
 
 ---
 
 "Significant breakthrough for hydrogen transportation achieved with
-GenCell’s green ammonia synthesis project"
+GenCell’s green ammonia synthesis project.. Unveiled today the
+breakthrough in ammonia technology will enable cost-competitive
+transportation of hydrogen in the form of ammonia directly from water
+at a very low temperature and pressure"
 
 ---
 
