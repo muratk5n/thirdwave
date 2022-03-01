@@ -186,12 +186,6 @@ damaging by then.
 
 ---
 
-This thing wont be won by Twitter put-downs, UKR President selfies, or
-"looking brave". You could do all these things and still get your ass
-kicked. 
-
----
-
 You dont have to like the other side's stance, but it they are
 consistent, stance fits into a power structure, you can work with
 that. After 9/11 US gov types were like 'these jihadi mfkers are f-ing
