@@ -105,9 +105,7 @@ $1.5 trillion to the industry since 2019"
 ---
 
 Gobble gobble restricts warship passage thru the straits? After all RU
-ships already went to Black Sea.. Great timing. Asia Minor is actually
-both Britain's bitch and partially Russia's bitch.. passed around.. It
-wldnt do anything that would piss either side too much
+ships already went to Black Sea.. Great timing. 
 
 ---
 
