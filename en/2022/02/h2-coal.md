@@ -7,7 +7,7 @@ constitutes an autonomous and independent framework within the
 International Energy Agency (IEA) network*
 
 In recent years IEAGHG has undertaken a series of studies on the
-performance and costs of plants incorporating the three leading CO 2
+performance and costs of plants incorporating the three leading CO2
 capture technologies: post combustion, oxy- combustion and
 pre-combustion capture...
 
@@ -24,9 +24,9 @@ E class gas turbines
 fired boiler.  All of these baseline plants have 90% CO2 capture...
 
 This study assessed the technical feasibility and costs of achieving a
-higher level of CO 2 capture (around 98%) in oxy-combustion and IGCC
+higher level of CO2 capture (around 98%) in oxy-combustion and IGCC
 plants. In the oxy- combustion case this was achieved by passing the
-vent gas from CO 2 purification through a membrane separation
+vent gas from CO2 purification through a membrane separation
 unit. For gasification based plants an additional MDEA solvent
 scrubbing stage was added after the Selexol scrubber...
 
@@ -37,9 +37,9 @@ without capture is given in [table below]
 
 CO2 capture almost eliminates SOx emissions and also reduces NOx emissions..
 
-Levelised costs of electricity (LCOE) and CO 2 avoidance cost (CAC)
-are shown [below]. The costs of the IGCC plants are higher than those
-of the pulverised coal combustion plants, mainly because of higher
+Levelised costs of electricity (LCOE) and CO2 avoidance cost (CAC) are
+shown [below]. The costs of the IGCC plants are higher than those of
+the pulverised coal combustion plants, mainly because of higher
 capital costs and higher fixed operating and maintenance (O+M) costs,
 particularly maintenance costs...
 
