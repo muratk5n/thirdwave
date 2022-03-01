@@ -190,7 +190,7 @@ damaging by then.
 
 ---
 
-"Russia used vacuum bomb during invasion, Ukrainian ambassador claims"
+The Independent: "Russia used vacuum bomb during invasion, Ukrainian ambassador claims"
 
 ---
 
@@ -205,11 +205,11 @@ back.
 
 Take the deal
 
-"The Ukrainian side emerged from the talks with little optimism, and
-Russian President Vladimir Putin has shown no flexibility thus
-far... Putin told French President Emmanuel Macron that Ukraine must
-disarm, proclaim its neutrality, and recognize Crimea as Russian, per
-state media"
+Yahoo News: "The Ukrainian side emerged from the talks with little
+optimism, and Russian President Vladimir Putin has shown no
+flexibility thus far... Putin told French President Emmanuel Macron
+that Ukraine must disarm, proclaim its neutrality, and recognize
+Crimea as Russian, per state media"
 
 ---
 
