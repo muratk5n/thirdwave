@@ -67,9 +67,8 @@ of shit.
 
 ---
 
-12 GW/28 GWh? Charge/recharge every 2-3 hours.. Within that time
-period the world consumption requires **53,931** GWh of
-storage. 
+12 GW/28 GWh? That means for 2-3 hour period.. Well within that time
+period the world consumption requires **53,931** GWh of storage.
 
 "Wood Mackenzie: Global [battery] energy storage to reach 12 GW/28 GWh in 2021"
 
