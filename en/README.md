@@ -62,7 +62,7 @@ print ('%0.2f percent' % (bats / need * 100))
 
 Current installed bat capacity is enough for only 0.05 percent of the
 global demand. Double it, triple it, still won't make a dent. Mine all
-the lithium, cannot handle more than 5% of need. This tech is a piece
+the lithium, cannot handle more than 5%. This tech is a complete piece
 of shit.
 
 ---
