@@ -6,6 +6,13 @@
 
 ---
 
+H2 View: "ExxonMobil unveils ambitious blue hydrogen targets for
+integrated refining and petrochemical site. ExxonMobil wants to
+produce one billion cubic feet of blue hydrogen daily at its
+integrated refining and petrochemical site in Baytown, Texas, US"
+
+---
+
 "Clean Hydrogen Partnership: €300m fund to be made available for
 hydrogen and fuel cells in Europe"
 
