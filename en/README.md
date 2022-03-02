@@ -135,8 +135,7 @@ Oh no... Its for US. Darn.
 
 ---
 
-It's partly white-collar office dwelling dickwads, partly
-straight-up Republicans.
+Part white-collar office dwelling dickwads, part straight-up Republicans.
 
 ---
 
