@@ -162,8 +162,7 @@ taking place now was also ok for US.
 
 ---
 
-Biden's net popularity took another dive 02/24 - 03-01. Can it get any
-lower? One wonders.
+Biden's net popularity took another dive 02/24 - 03-01. 
 
 ```
 2022-02-23   -10.278493
