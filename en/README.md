@@ -13,8 +13,13 @@ integrated refining and petrochemical site in Baytown, Texas, US"
 
 ---
 
-"Clean Hydrogen Partnership: €300m fund to be made available for
-hydrogen and fuel cells in Europe"
+H2 View: "Clean Hydrogen Partnership: €300m fund to be made available
+for hydrogen and fuel cells in Europe"
+
+---
+
+H2 View: "Australian project to convert recycled water into renewable
+hydrogen with $43.3m backing"
 
 ---
 
