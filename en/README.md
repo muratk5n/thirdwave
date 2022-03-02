@@ -13,6 +13,11 @@ integrated refining and petrochemical site in Baytown, Texas, US"
 
 ---
 
+H2 Fuel News: "Raahe [Finland] to become H2 producer for Baltic Sea
+hydrogen pipeline"
+
+---
+
 H2 View: "Clean Hydrogen Partnership: €300m fund to be made available
 for hydrogen and fuel cells in Europe"
 
