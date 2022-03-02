@@ -1,4 +1,6 @@
-# H2 Stats, Data
+# Base Energy Numbers, Data
+
+Energy Densities
 
 Crude oil 44 MJ/kg
 
