@@ -768,7 +768,7 @@ import pandas as pd, requests
 from datetime import date
 
 api_key = open('.key/.eiakey').read()
-url = 'http://api.eia.gov/series/?api_key=' + api_key + '&series_id=STEO.COPR_OPEC.M' 
+url = 'https://api.eia.gov/series/?api_key=' + api_key + '&series_id=STEO.COPR_OPEC.M' 
 r = requests.get(url)
 json_data = r.json()
 df = pd.DataFrame(json_data.get('series')[0].get('data'))
@@ -778,6 +778,11 @@ df['Month'] = df[0].astype(str).str[4:]
 df['Day'] = 1
 df['Date'] = pd.to_datetime(df[['Year','Month','Day']])
 df = df.set_index('Date')
+
+today = datetime.datetime.now()
+today = today.strftime('%Y-%m-%d')
+df = df[df.index <= today]
+
 df[1].plot()
 print (df[1].head(5))
 plt.legend(['Oil Production Per Month (mil barrels per day)'])
@@ -786,11 +791,11 @@ plt.savefig('opec.png')
 
 ```text
 Date
-2023-12-01    28.838708
-2023-11-01    28.850048
-2023-10-01    28.871389
-2023-09-01    28.887729
-2023-08-01    28.899069
+2022-03-01    28.392854
+2022-02-01    28.377194
+2022-01-01    27.760000
+2021-12-01    27.860000
+2021-11-01    27.745000
 Name: 1, dtype: float64
 ```
 
@@ -805,7 +810,7 @@ import pandas as pd, requests
 from datetime import date
 
 api_key = open('.key/.eiakey').read()
-url = 'http://api.eia.gov/series/?api_key=' + api_key + '&series_id=INTL.53-1-WORL-TBPD.M' 
+url = 'https://api.eia.gov/series/?api_key=' + api_key + '&series_id=INTL.53-1-WORL-TBPD.M' 
 r = requests.get(url)
 json_data = r.json()
 df = pd.DataFrame(json_data.get('series')[0].get('data'))
@@ -814,9 +819,20 @@ df['Month'] = df[0].astype(str).str[4:]
 df['Day'] = 1
 df['Date'] = pd.to_datetime(df[['Year','Month','Day']])
 df = df.set_index('Date')
+print (df[1].head(5))
 df[1].plot()
 plt.legend(['World Oil Production Per Month (thousand barrels per day)'])
 plt.savefig('crude-production.png')
+```
+
+```text
+Date
+2021-10-01    97795.404031
+2021-09-01    96358.074629
+2021-08-01    96218.291462
+2021-07-01    96770.780873
+2021-06-01    95154.407890
+Name: 1, dtype: float64
 ```
 
 ![](crude-production.png)
@@ -845,13 +861,13 @@ plt.savefig('natgas.png')
 
 ```text
 Date
-2022-01-07    3.916
-2022-01-10    4.079
-2022-01-11    4.249
-2022-01-12    4.857
-2022-01-13    4.270
-2022-01-14    4.262
-2022-01-14    4.228
+2022-02-22    4.498
+2022-02-23    4.623
+2022-02-24    4.568
+2022-02-25    4.470
+2022-02-28    4.402
+2022-03-01    4.573
+2022-03-02    4.700
 Name: Adj Close, dtype: float64
 ```
 
@@ -885,13 +901,13 @@ plt.savefig('eunatgas.png')
 
 ```text
 Date
-2022-01-20    75.203003
-2022-01-21    78.980003
-2022-01-24    93.000000
-2022-01-25    93.582001
-2022-01-26    91.836998
-2022-01-27    92.301003
-2022-01-28    92.061996
+2022-02-18     73.762001
+2022-02-22     79.789001
+2022-02-23     88.890999
+2022-02-24    134.315994
+2022-02-25     94.421997
+2022-02-28     98.595001
+2022-03-01    121.674004
 Name: Adj Close, dtype: float64
 ```
 
@@ -922,13 +938,13 @@ plt.savefig('coal.png')
 
 ```text
 Date
-2022-01-23    162.675003
-2022-01-24    163.350006
-2022-01-25    164.250000
-2022-01-26    165.699997
-2022-01-27    165.649994
-2022-01-28    167.199997
-2022-01-30    167.199997
+2022-02-18    185.00
+2022-02-22    189.00
+2022-02-23    190.75
+2022-02-24    192.00
+2022-02-25    194.50
+2022-02-28    194.50
+2022-03-01    194.50
 Name: Adj Close, dtype: float64
 ```
 
@@ -1009,7 +1025,7 @@ DATE
 2021-01-01    182.993106
 2021-04-01    181.919434
 2021-07-01    180.886665
-2021-10-01    177.899564
+2021-10-01    177.858166
 Freq: QS-OCT, Name: Credit to GDP, dtype: float64
 ```
 
@@ -1042,10 +1058,10 @@ plt.savefig('debt.png')
 
 ```text
 DATE
-2021-08-01    18.464180
-2021-09-01    18.368829
-2021-10-01    18.233940
-2021-11-01    18.400624
+2021-09-01    18.360515
+2021-10-01    18.216223
+2021-11-01    18.377920
+2021-12-01    18.456635
 Freq: MS, Name: debt, dtype: float64
 ```
 
