@@ -70,4 +70,10 @@ by 80% to $1 per 1 kilogram in 1 decade ("1 1 1"). Hydrogen produced
 via electrolysis can result in zero greenhouse gas emissions,
 depending on the source of the electricity used.
 
+[Wiki](https://en.wikipedia.org/wiki/Electrolysis_of_water)
+
+Current best processes for water electrolysis (PEM or alkaline
+electrolysis) have an effective electrical efficiency of 70–80%,
+producing 1 kg of hydrogen requires 50–55 kW⋅h of electricity.
+
 [[⇪Up]](h2-production.md)

@@ -140,13 +140,12 @@ straight-up Republicans.
 
 ---
 
-So *The West Wing*.. trying to look, sound intelligent through
-day-trader quant-like correlation-speak (mostly spurious) while the
-real world rolls on. This is what a section of Dems have become; white
-collar office dwelling dickwads passing papers to eachother in the
-hallway trying to look cool. Let's hope the 'evil Putin' mantra is
-enough to lull everyone into forgetting what happened, and wasn't made
-to happen.
+So *The West Wing*.. bunch of day-trader quant-like correlation-speak
+(mostly spurious) while the real world rolls on. This is what a
+section of Dems have become; white collar office dwelling dickwads
+passing papers to eachother in the hallway trying to look cool. Let's
+hope the 'evil Putin' mantra is enough to lull everyone into
+forgetting the leadership fail.
 
 ---
 
