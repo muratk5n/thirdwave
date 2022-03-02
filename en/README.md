@@ -61,14 +61,15 @@ print ('%0.2f percent' % (bats / need * 100))
 ```
 
 Current installed bat capacity is enough for only 0.05 percent of the
-global demand. Double it, triple it, still won't make a dent. Mine
-all the lithium, cannot handle more than 5% of need.
+global demand. Double it, triple it, still won't make a dent. Mine all
+the lithium, cannot handle more than 5% of need. This tech is a piece
+of shit.
 
 ---
 
 12 GW/28 GWh? Charge/recharge every 2-3 hours.. Within that time
 period the world consumption requires **53,931** GWh of
-storage. This tech is a piece of shit.
+storage. 
 
 "Wood Mackenzie: Global [battery] energy storage to reach 12 GW/28 GWh in 2021"
 
