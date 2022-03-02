@@ -28,7 +28,7 @@ hydrogen with $43.3m backing"
 
 ---
 
-Pakistan has good potential. 10 Terrawatts.
+Pakistan has good solar / CSP potential. 10 Terrawatts.
 
 "In this study..  [we investigated] Direct Normal Irradiance, air
 temperature,.. at different timescales and locations over Pakistan
