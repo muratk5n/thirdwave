@@ -92,7 +92,7 @@ of victory.
 
 ---
 
-A-uh.. Triangulation time? 
+A-oh.. Triangulation time? 
 
 TDB: "But rather than front-load proposals on increased social
 spending on programs.. Biden largely focused on GOP-friendly issues"
