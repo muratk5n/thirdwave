@@ -164,17 +164,6 @@ taking place now was also ok for US.
 
 ---
 
-Gov health sites talk about health insurance (companies) so why not I
-guess..
-
----
-
-Why does FEMA talk about "flood insurance"? 
-
-[[-]](https://www.fema.gov/flood-insurance)
-
----
-
 Biden's net popularity took another dive 02/24 - 03-01. Can it get any
 lower? One wonders.
 
