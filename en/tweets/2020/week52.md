@@ -171,7 +171,7 @@ gain? Big Tech and Big Content"
 
 ---
 
-Numbers dont [look good](2020/07/h2-numbers.md#ukcar) for merely
+Numbers dont [look good](../../2022/02/base-energy-numbers.md#ukcar) for merely
 driving either.. Current calc does not leave much room for error,
 growth
 

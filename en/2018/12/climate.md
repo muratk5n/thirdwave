@@ -6,7 +6,7 @@
 
 [H2 Storage Options](../../2020/10/h2-storage.md)
 
-[H2 Numbers](../../2020/07/h2-numbers.md)
+[H2 Numbers](../../2022/02/base-energy-numbers.md)
 
 [Flow Batteries, Built with Iron and Water](../../2018/07/battery-fueled-by-iron-and-water.md)
 

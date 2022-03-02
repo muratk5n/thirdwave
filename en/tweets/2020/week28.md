@@ -650,7 +650,7 @@ The winning sand sculpture of the Texas Sand Sculpture Festival"
 
 ---
 
-How much money can Anatolians generate from H2? Based on [H2 numbers](../../2020/07/h2-numbers.md),
+How much money can Anatolians generate from H2? Based on [H2 numbers](../../2022/02/base-energy-numbers.md),
 
 Panels can produce 1000 W/$m^2$. 
 

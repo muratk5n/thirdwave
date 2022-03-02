@@ -10,7 +10,7 @@ Russia, UK, Japan, Germany, France, and Canada.
 What to do about it? Without sacrificing our current modern way of
 life, there are but a few options. If our cars do not run on fossil
 fuels, what do they run on? Lithium based batteries cannot be a
-solution, world lithium reserves are [limited](../../2020/07/h2-numbers.md).
+solution, world lithium reserves are [limited](../../2022/02/base-energy-numbers.md).
 Carbon markets that allow one to trade, "offset" carbon are too open
 for cheating. Need I mention the biggest emission scandal of all time
 had a well-known automaker, Volkswagen as its offender, where they

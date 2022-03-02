@@ -4,6 +4,10 @@
 
 [Particles, Science and AI](01/particles-and-ai.md)
 
+[H2 Stats, Data](02/base-energy-numbers.md)
+
+[H2 Production From Coal / CCS](02/h2-coal.md)
+
 [H2 Production via Electrolysis](02/h2-electrolysis.md)
 
 [H2 From Methane (Natural Gas)](02/h2-natural-gas.md)
