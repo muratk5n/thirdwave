@@ -83,7 +83,7 @@ Opec crude production still down..
 This culture war (battle) is getting old.. Need a new one. They'll
 probably soon create it.
 
-"Much-Hyped D.C. Trucker Rally Turns Out to Be a Complete Joke"
+TDB: "Much-Hyped D.C. Trucker Rally Turns Out to Be a Complete Joke"
 
 ---
 
@@ -94,8 +94,8 @@ of victory.
 
 A-uh.. Triangulation time? 
 
-"But rather than front-load proposals on increased social spending on
-programs.. Biden largely focused on GOP-friendly issues"
+TDB: "But rather than front-load proposals on increased social
+spending on programs.. Biden largely focused on GOP-friendly issues"
 
 ---
 
