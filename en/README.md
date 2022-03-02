@@ -157,8 +157,8 @@ point of this whole ordeal. Where did that come from? NYT?
 
 ---
 
-"Predicting" UKR invasion a few weeks ahead with boat loads of IMINT,
-SIGINT and God knows what else is not some magic skill. The real skill
+"Predicting" UKR invasion a few weeks ahead with boat loads of SIGINT,
+GEOINT and God knows what else is not some magic skill. The real skill
 wld be to proactively act, months, years ago in ways so invasion is
 made unnecessary through some diplom and horse trading (where US/UKR
 gave some and obtained peace in return). Unless of course what is
