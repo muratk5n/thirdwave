@@ -31,8 +31,8 @@ hydrogen with $43.3m backing"
 Pakistan has good potential. 10 Terrawatts.
 
 "In this study..  [we investigated] Direct Normal Irradiance, air
-temperature,.. at different timescales and locations over
-Pakistan... In the second part, spatial feasibility and Analytical
+temperature,.. at different timescales and locations over Pakistan
+[for CSP]... In the second part, spatial feasibility and Analytical
 Hierarchy Process based site suitability is assessed.. Moreover,
 multi-parametric evaluation of techno-economic potential is performed
 using bias-corrected datasets... Additionally, cost of water usage is
