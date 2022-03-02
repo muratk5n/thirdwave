@@ -87,6 +87,10 @@ TDB: "Much-Hyped D.C. Trucker Rally Turns Out to Be a Complete Joke"
 
 ---
 
+<img width="200" src="https://i.pinimg.com/originals/64/3c/d5/643cd5fb6f6b57719be90ff8102b1b07.gif"/>
+
+---
+
 So much clapping all over the place.. you'd think there was some kind
 of victory. 
 
