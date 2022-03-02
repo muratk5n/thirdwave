@@ -151,7 +151,7 @@ to happen.
 ---
 
 And that 'frozen ground', 'waiting for thaw' shit was truly the low
-point of this whole endevor. Where did that come from? NYT?
+point of this whole ordeal. Where did that come from? NYT?
 
 ---
 
