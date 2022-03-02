@@ -90,7 +90,8 @@ all cases. Levelised cost of hydrogen is about 50% higher than the
 average again for coal + CCS (my prefered scenario).
 
 Gov, policy needs to whip ppl into shape. Unless the cost of those
-investments increase, the direction of money flow will never change.
+non-ccs investments increase, the direction of money flow will never
+change.
 
 High power prices in the middle of a winter cannot be pleasant, with ppl
 freezing their asses off, but maybe reg can offset that price
