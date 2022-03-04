@@ -137,7 +137,7 @@ create, read, update, delete.
 
 ---
 
-Of course there are funcs for delete
+Yes there are funcs for delete dumb ass [eyes rolling]
 
 ---
 
