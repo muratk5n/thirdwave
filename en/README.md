@@ -94,9 +94,10 @@ current capacity"
 ---
 
 They produce the neutral fuels by mixing in carbon into a clean fuel,
-turning it into synthetic fossil fuel which existing engines are
-prepared for. If the carbon is captured "from the air" then putting it
-back through combustion would not change the overall budget, voila.
+turning it into synthetic fossil fuel, since it is fossil existing
+engines are already prepared for it. If the carbon is captured "from
+the air" then putting it back through combustion would not change the
+overall budget, voila.
 
 Cant say I'm crazy about the approach, creates a path too easy to
 cheat. Remember Volkswagen, a world famous company, w production at
