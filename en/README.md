@@ -163,7 +163,7 @@ guys get killed it will be a huge bummer.
 ---
 
 Leaders don't stand alone either. Democratic ones rely on a larger
-winning coalition, but even the most autocratic leader a WC. When
+winning coalition, but even the most autocratic leader has a WC. When
 Putin annexed Crimea Gorbachev was cheering that shit.
 
 ---
