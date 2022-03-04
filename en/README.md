@@ -173,7 +173,7 @@ WSJ: "As Russian Invasion Widens, the West's Options Shrink"
 ---
 
 These wars are fought at another level.. Just like regular individual
-is insufficient for governance but people's romantic notions of
+is insufficient for modern governance but people's romantic notions of
 'community governance' remains, so is 'civic bravity' in modern war.
 WWI, WWII should have beaten that out of societies but people forget.
 
