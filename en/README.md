@@ -93,15 +93,17 @@ current capacity"
 
 ---
 
-They produce this stuff by mixing in carbon into a clean fuel, turning
-it into synthetic fossil fuel (which existing engines are prepared
-for). If the carbon is captured "from the air" then putting it back
-through combustion does not change the overall budget.  Cant say Im
-crazy about the approach, creates a path too easy to cheat. Just look
-at Volkswagen, a famous company, at huge scale, headquartered smack in
-the middle of Europe went ahead and cheated on its emissions. With
-synthetic fuels one day they'll just burn some coal and get its
-carbon, then we will be back to square one.
+They produce the neutral fuels by mixing in carbon into a clean fuel,
+turning it into synthetic fossil fuel which existing engines are
+prepared for. If the carbon is captured "from the air" then putting it
+back through combustion would not change the overall budget, voila.
+
+Cant say I'm crazy about the approach, creates a path too easy to
+cheat. Remember Volkswagen, a world famous company, w production at
+huge scale, headquartered smack in the middle of Europe still cheated
+on their emissions mechanism.. With synthetic fuels one day companies
+might just burn some coal on the side, get its carbon, then we will be
+back to square one.
 
 "@FlySWISS and its parent company, the @lufthansa Group, have partnered
 with synthetic fuel group Synhelion to use its solar fuel"
