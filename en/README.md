@@ -117,8 +117,8 @@ mind-boggling.
 IT has a long history now around adopting, popularizing, marketing
 packages; lots depend on them. Each has its own way of use / access,
 and professionals want to learn a few, stick to that, and sell it,
-"evangalize" it to others. They mostly have no idea what the f--k
-goes on inside.
+"evangalize" it to others. They mostly have no bleeping idea about
+what goes on inside.
 
 ---
 
