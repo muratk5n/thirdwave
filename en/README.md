@@ -110,9 +110,8 @@ with synthetic fuel group Synhelion to use its solar fuel"
 
 ---
 
-Why do people make things seem harder than they are? I culled this
-guy's script to fourth its size. The spaghetti in the older code was
-mind-boggling.
+I culled this guy's script to fourth its size. The spaghetti in the
+older code was mind-boggling.
 
 ---
 
