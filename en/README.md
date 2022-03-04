@@ -122,7 +122,7 @@ goes on inside.
 
 ---
 
-That is another reason why this "AI" talk is prevalent, bcz IT types
+This is another reason why this "AI" talk is prevalent, bcz IT types
 picked up on it, they see it as a nice "package". And current
 incarnation of this said AI is exactly that, a black box essentially,
 you shove data into from one end, "predictions" come out from the
