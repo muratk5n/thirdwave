@@ -2,181 +2,193 @@
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/gencellenergy?ref_src=twsrc%5Etfw">@gencellenergy</a> announces significant breakthrough in our <a href="https://twitter.com/hashtag/GreenAmmonia?src=hash&amp;ref_src=twsrc%5Etfw">#GreenAmmonia</a> synthesis project, after which <a href="https://twitter.com/TDK_Corporation?ref_src=twsrc%5Etfw">@TDK_Corporation</a> within cooperation agreement exercises right to continue investment in project. Read more: <a href="https://t.co/YxDX3Gp08E">https://t.co/YxDX3Gp08E</a><a href="https://twitter.com/hashtag/FuelCells?src=hash&amp;ref_src=twsrc%5Etfw">#FuelCells</a> <a href="https://twitter.com/hashtag/BackupPower?src=hash&amp;ref_src=twsrc%5Etfw">#BackupPower</a> <a href="https://twitter.com/hashtag/SayNoToDiesel?src=hash&amp;ref_src=twsrc%5Etfw">#SayNoToDiesel</a></p>&mdash; GenCell Energy (@gencellenergy) <a href="https://twitter.com/gencellenergy/status/1498226492026888192?ref_src=twsrc%5Etfw">February 28, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Swiss-based Destinus SA has closed a seed round of $29m as the company looks to utilise the funds to develop and test the “first” supersonic flights powered by <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> engines in the next 18 months. <a href="https://t.co/NcYJloKEey">https://t.co/NcYJloKEey</a></p>&mdash; Joanna Sampson (@JoSamps92) <a href="https://twitter.com/JoSamps92/status/1491444278169681922?ref_src=twsrc%5Etfw">February 9, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-H2 View: "ExxonMobil unveils ambitious blue hydrogen targets for
-integrated refining and petrochemical site. ExxonMobil wants to
-produce one billion cubic feet of blue hydrogen daily at its
-integrated refining and petrochemical site in Baytown, Texas, US"
+H2 View: "McLaren Applied to manufacture and supply components for
+BAK’s innovative hydrogen hybrid hyper-car"
 
 ---
 
-H2 Fuel News: "Raahe [Finland] to become H2 producer for Baltic Sea
-hydrogen pipeline"
+H2 View: "GenH2’s global headquarters to be located in Florida.. GenH2
+will build its new 10.5-acre global headquarters in Florida as it
+looks to grow its presence in the liquid hydrogen infrastructure
+industry – and it has now received a financial boost"
 
 ---
 
-H2 View: "Clean Hydrogen Partnership: €300m fund to be made available
-for hydrogen and fuel cells in Europe"
+H2 View: "German port of Wilhelmshaven to be converted into a
+world-scale hydrogen hub.. Tree Energy Solutions (TES) is accelerating
+the development of a world-scale hydrogen hub in the German port of
+Wilhelmshaven which will support the growth of the hydrogen sector in
+Europe"
 
 ---
 
-H2 View: "Australian project to convert recycled water into renewable
-hydrogen with $43.3m backing"
+H2 Fuel News: "UK government funds non-toxic and safe hydrogen storage
+test.. The program is broken into two phases, the first of which will
+be a feasibility study.. H2, a zero-carbon emission fuel that can be
+stored more efficiently for longer periods of time than batteries and
+can meet the performance needs of heavier-duty vehicles such as HGVs
+and buses. H2 refueling is simple and takes about the same amount of
+time as refueling gasoline or diesel"
 
 ---
 
-Pakistan has good solar / CSP potential. 10 Terrawatts.
-
-"In this study..  [we investigated] Direct Normal Irradiance, air
-temperature,.. at different timescales and locations over Pakistan
-[for CSP]... In the second part, spatial feasibility and Analytical
-Hierarchy Process based site suitability is assessed.. Moreover,
-multi-parametric evaluation of techno-economic potential is performed
-using bias-corrected datasets... Additionally, cost of water usage is
-introduced in estimation of Levelized Cost of Electricity besides
-other parameters. Cumulative power capacity potential of 10,035 GW is
-identified for country, with net cost estimated below 0.096
-USD/kWh. Nine sites are found to have generation potential greater
-than 1200 TWh/year, the individual capacity to fulfil total predicted
-energy demand of the country for year 2030"
-
-[[-]](https://www.sciencedirect.com/science/article/abs/pii/S0196890422001625)
+H2 View: "National Fuel joins the US Clean Hydrogen Partnership
+consortium.. US-based National Fuel Gas Distribution has joined a new
+consortium that is aiming to build the clean hydrogen economy in the
+US and scale the technology in order to decarbonise hard-to-abate
+sectors"
 
 ---
 
+H2 View: "Hydrogen homes now being assembled in California.. Southern
+California Gas (SoCalGas) will showcase hydrogen’s potential in the
+domestic heating sector in Downey, California, with its landmark H2
+Hydrogen Home project that is now under assembly"
+
+---
+
+H2 View: "Fortescue begins construction of a 2GW electrolyser facility in Australia"
+
+---
+
+
+"[2021] Saudi Arabia to use $110 billion natural gas field for blue
+hydrogen.. A large portion of gas from the.. Jafurah development will
+be used for blue hydrogen, according to Energy Minister Abdulaziz bin
+Salman"
+
+---
+
+H2 under ambient conditions 11.9 m3 / kg
 
 ```python
-bats = 28 # GWh
-need = (157481*1000) / (365*8)
-print ("%d GWh" % need)
-print ('%0.2f percent' % (bats / need * 100))
+prod = 1e9 * 0.028 # m3
+dens = 0.003 # MWh / m3
+print (prod * dens / (24*1000), 'GW')
 ```
 
 ```text
-53931 GWh
-0.05 percent
+3.5 GW
 ```
 
-Current installed bat capacity is enough for only 0.05 percent of the
-global demand. Double it, triple it, still won't make a dent. Mine all
-the lithium, cannot handle more than 5%. This tech is a complete piece
-of shit.
+---
+
+The output of that Texas plant will be equivalent to 3.5 Gigawatts.
+⚡ 💧 ⚛️ &#9981; 🚙 👍 👍 👍 
+
+Yahoo Finance: "ExxonMobil said today it is planning a hydrogen
+production plant and one of the world’s largest carbon capture and
+storage projects at its integrated refining and petrochemical site at
+Baytown, Texas..  The proposed hydrogen facility would produce up to 1
+billion cubic feet per day of "blue" hydrogen, which is an industry
+term for hydrogen produced from natural gas and supported by carbon
+capture and storage. The carbon capture infrastructure for this
+project would have the capacity to transport and store up to 10
+million metric tons of CO2 per year, more than doubling ExxonMobil’s
+current capacity"
 
 ---
 
-12 GW/28 GWh? That means for 2-3 hour period.. Well within that time
-period the world consumption requires **53,931** GWh of storage.
+They produce this stuff by mixing in carbon into a clean fuel, turning
+it into synthetic fossil fuel (which existing engines are prepared
+for). If the carbon is captured "from the air" then putting it back
+through combustion does not change the overall budget.  Cant say Im
+crazy about the approach, creates a path too easy to cheat. Just look
+at Volkswagen, a famous company, at huge scale, headquartered smack in
+the middle of Europe went ahead and cheated on its emissions. With
+synthetic fuels one day they'll just burn some coal and get its
+carbon, then we will be back to square one.
 
-"Wood Mackenzie: Global [battery] energy storage to reach 12 GW/28 GWh in 2021"
-
----
-
-Opec crude production still down..
-
-[[-]](2019/05/stats.md#opec)
-
----
-
-This culture war (battle) is getting old.. Need a new one. They'll
-probably soon create it.
-
-TDB: "Much-Hyped D.C. Trucker Rally Turns Out to Be a Complete Joke"
+"@FlySWISS and its parent company, the @lufthansa Group, have partnered
+with synthetic fuel group Synhelion to use its solar fuel"
 
 ---
 
-<img width="200" src="https://i.pinimg.com/originals/64/3c/d5/643cd5fb6f6b57719be90ff8102b1b07.gif"/>
+Why do people make things seem harder than they are? I culled this
+guy's script to fourth its size. The spaghetti in the older code was
+mind-boggling.
 
 ---
 
-So much clapping all over the place.. you'd think there was some kind
-of victory. 
+IT has a long history now around adopting, popularizing, marketing
+packages; lots depend on them. Each has its own way of use / access,
+and professionals want to learn a few, stick to that, and sell it,
+"evangalize" it to others. They mostly have no idea what the f--k
+goes on inside.
 
 ---
 
-A-oh.. Triangulation time? 
-
-TDB: "But rather than front-load proposals on increased social
-spending on programs.. Biden largely focused on GOP-friendly issues"
-
----
-
-TDB: "Biden Finds Unity on Ukraine, But Little Else in First State of
-the Union..
-
-Less than 10 months ago, President Joe Biden came before Congress and
-laid out an ambitious domestic agenda..
-
-With much of that agenda dead, his approval rating near record lows,
-and a Russian invasion of Ukraine suddenly seizing the attention of
-both the administration and an anxious world, Biden pivoted to a
-foreign policy-heavy address Tuesday night"
+That is another reason why this "AI" talk is prevalent, bcz IT types
+picked up on it, they see it as a nice "package". And current
+incarnation of this said AI is exactly that, a black box essentially,
+you shove data into from one end, "predictions" come out from the
+other (which of course is the problem as far as AGI is concerned).
 
 ---
 
-F24: "Iran's leader says Ukraine is 'victim' of US policy.. said US
-policies are to blame for Russia's invasion of Ukraine, calling for an
-end to the war that broke out last week. 'The root cause of the
-Ukraine crisis is the US and the West's policies.. The United States
-regime is a crisis-creating and crisis-living one. It feeds on
-crisis'"
+These are such common operations they are known as C.R.U.D. - 
+create, read, update, delete.
 
 ---
 
-I would be. But that ain't happening.
-
-"If Ukraine beat back RU would you be happy?
+Of course there are funcs for delete
 
 ---
 
-No fly zone!
-
-Oh no... Its for US. Darn.
-
-"Biden Announces Russian Planes Will Be Banned From U.S. Airspace"
-
----
-
-Part white-collar office dwelling dickwads, part straight-up Republicans.
+IT profession today is mostly about packages, Gone are the days of a
+"hacker" coding up everything from scratch (Linus Torvalds is probably
+the last famous one who did). Now it's all about a package, picking
+one, learning one.. IT professionals do not write a database from
+scratch to insert a new record. There is a database *package* and they
+just call a function named `insert` in that package, passing data as
+parameter, and voila. A new record.
 
 ---
 
-So *The West Wing*.. bunch of day-trader quant-like correlation-speak
-(mostly spurious) while the real world rolls on. This is what a
-section of Dems have become; white collar office dwelling dickwads
-passing papers to eachother in the hallway trying to look cool. Let's
-hope the 'evil Putin' mantra is enough to lull everyone into
-forgetting the leadership fail.
+Misa Blam - Gorila \#music
+
+[[-]](https://youtu.be/jg07YiU4TJU)
 
 ---
 
-And that 'frozen ground', 'waiting for thaw' shit was truly the low
-point of this whole ordeal. Where did that come from? NYT?
+I hope the Klitschkos make it. Everyone too of course, but if those
+guys get killed it will be a huge bummer.
 
 ---
 
-"Predicting" UKR invasion a few weeks ahead with boat loads of SIGINT,
-GEOINT and God knows what else is not some magic skill. The real skill
-wld be to proactively act, months, years ago in ways so invasion is
-made unnecessary through some diplom and horse trading (where US/UKR
-gave some and obtained peace in return). Unless of course what is
-taking place now was also ok for US.
+Leaders don't stand alone either. Democratic ones rely on a larger
+winning coalition, but even the most autocratic leader a WC. When
+Putin annexed Crimea Gorbachev was cheering that shit.
 
 ---
 
-Biden's net popularity took another dive 02/24 - 03-01. 
+WSJ: "As Russian Invasion Widens, the West's Options Shrink"
 
-```
-2022-02-23   -10.278493
-2022-02-24   -10.636767
-2022-02-25   -12.375218
-2022-02-26   -12.375218
-2022-02-27   -12.888120
-2022-02-28   -12.638364
-2022-03-01   -12.372100
-```
+---
+
+These wars are fought at another level.. Just like regular individual
+is insufficient for governance but people's romantic notions of
+'community governance' remains, so is 'civic bravity' in modern war.
+WWI, WWII should have beaten that out of societies but people forget.
+
+---
+
+Modern war is not unlike a natural disaster, sudden, faceless,
+overwhelming, and destructive. There is no mano-o-mano, bravity
+against it. If you are in its path, you get destroyed.
+
+---
+
+Ukranian guy I was following was like 'we will fight!' but then he got
+the f-k outa there, over a week ago.
+
+---
+
+I dont think Ukranians are any more Nazi then Russians themselves are.
 
 ---
 

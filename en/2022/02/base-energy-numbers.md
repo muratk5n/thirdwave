@@ -2,6 +2,20 @@
 
 Energy Densities
 
+1 kg has H2 energy of 33.6 kWh (143 MJ).
+
+H2 under ambient conditions 3 KWh / m3
+
+H2 under ambient conditions 11.9 m3 / kg
+
+Density of liquid ammonia 682 kg/m³ 
+
+At 500 bar, 33 kg H2 /m3.
+
+At 350 bars H2 density is 28 kg/m3.
+
+At 300 bars H2 density is 20 kg/m3.
+
 Crude oil 44 MJ/kg
 
 Ammonia 22.5 MJ/kg
@@ -12,17 +26,7 @@ Petroleum 34.2 MJ/L
 
 LNG 22.2 MJ/L
 
-Density of liquid ammonia 682 kg/m³ 
-
 Density of light crude oil 875.7 kg/m3
-
-1 kg has energy of 33.6 kWh (143 MJ).
-
-At 500 bar, 33 kg H2 /m3.
-
-At 350 bars density is 28 kg/m3.
-
-At 300 bars density is 20 kg/m3.
 
 Liquid hydrogen has a density of 8 MJ/L.
 
