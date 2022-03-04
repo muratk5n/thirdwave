@@ -63,7 +63,7 @@ Salman"
 
 ---
 
-H2 under ambient conditions 11.9 m3 / kg
+H2 under ambient conditions has 3 kWh / m3
 
 ```python
 prod = 1e9 * 0.028 # m3
