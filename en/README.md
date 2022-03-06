@@ -165,17 +165,19 @@ in February 2014...  [T]he russians are not going to roll over and
 play dead,.. they're going to crush the Ukrainians, they're going to
 bring out the big guns, .. to turn places like [Kyiv] and other cities
 in Ukraine into rubble. They're going to do Fallujas, they're going to
-do Mosuls, they're going to do Groznies. You know what happened in
-[WWII] when the United States was faced with the possibility of having
-to invade the Japanese home islands in early 1945. The idea of
-invading the Japanese home islands after what happened at Iwo Jima and
-then later what happened in Okinawa really spooked us, so you know
-what we did, we decided to burn Japanese cities to the ground starting
-on March 10th 1945. We killed more people the first night, we
-firebombed Tokyo, than we killed at either Hiroshima or Nagasaki, and
-we were systematically burning Japanese cities to the ground. Why?
-Because we did not want to invade the Japanese main islands. [This is
-what happens w]hen a great power feels threatened"
+do Mosuls, they're going to do Groznies.
+
+You know what happened in [WWII] when the United States was faced with
+the possibility of having to invade the Japanese home islands in early
+1945. The idea of invading the Japanese home islands after what
+happened at Iwo Jima and then later what happened in Okinawa really
+spooked us, so you know what we did, we decided to burn Japanese
+cities to the ground starting on March 10th 1945. We killed more
+people the first night, we firebombed Tokyo, than we killed at either
+Hiroshima or Nagasaki, and we were systematically burning Japanese
+cities to the ground. Why?  Because we did not want to invade the
+Japanese main islands. [This is what happens w]hen a great power feels
+threatened"
 
 ---
 
