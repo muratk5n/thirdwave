@@ -164,7 +164,7 @@ than what happened in April 2008, and a much worse outcome .. [than]
 in February 2014...  [T]he russians are not going to roll over and
 play dead,.. they're going to crush the Ukrainians, they're going to
 bring out the big guns, .. to turn places like [Kyiv] and other cities
-in ukraine into rubble. They're going to do Fallujas, they're going to
+in Ukraine into rubble. They're going to do Fallujas, they're going to
 do Mosuls, they're going to do Groznies. You know what happened in
 [WWII] when the United States was faced with the possibility of having
 to invade the Japanese home islands in early 1945. The idea of
