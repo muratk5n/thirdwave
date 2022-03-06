@@ -2,195 +2,237 @@
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Swiss-based Destinus SA has closed a seed round of $29m as the company looks to utilise the funds to develop and test the “first” supersonic flights powered by <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> engines in the next 18 months. <a href="https://t.co/NcYJloKEey">https://t.co/NcYJloKEey</a></p>&mdash; Joanna Sampson (@JoSamps92) <a href="https://twitter.com/JoSamps92/status/1491444278169681922?ref_src=twsrc%5Etfw">February 9, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Wow! 😎 💥 ⚡️ ⚡️ ⚡️ 👏 <br><br>A major new hydrogen project in the US, touted as the “world’s largest” green hydrogen production and storage hub, is set to be developed in Texas with a capacity of 60GW.<br><br>Dubbed Hydrogen City, the project is being developed by…<a href="https://t.co/0oPhvZ5l6V">https://t.co/0oPhvZ5l6V</a></p>&mdash; steve haak (@stevehaak) <a href="https://twitter.com/stevehaak/status/1499808549337067521?ref_src=twsrc%5Etfw">March 4, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+--- 
+
+H2 View: "[Washington state launched].. a new association dedicated to
+reducing air and water pollution, creating clean energy jobs and
+growing the US state into a major hydrogen producer... [The] Board
+[has] Tacoma Power, the Douglas County Public Utility District, Toyota
+Motor North America, and the Bonneville Environmental Foundation"
 
 ---
 
-H2 View: "McLaren Applied to manufacture and supply components for
-BAK’s innovative hydrogen hybrid hyper-car"
+H2 View: "‘President Ursula von der Leyen of the European Commission,
+spoke of the role hydrogen can have in displacing Russian gas
+dependency"
 
 ---
 
-H2 View: "GenH2’s global headquarters to be located in Florida.. GenH2
-will build its new 10.5-acre global headquarters in Florida as it
-looks to grow its presence in the liquid hydrogen infrastructure
-industry – and it has now received a financial boost"
+H2 View: "New breakthrough catalyst-coated membrane to reduce
+electrolyser costs by 25%... Within lab testing, [Honeywell] has found
+that the technology enables higher electrolyser efficiency and higher
+electric current density which is estimated to also provide a 25%
+reduction in electrolyser stack costs"
 
 ---
 
-H2 View: "German port of Wilhelmshaven to be converted into a
-world-scale hydrogen hub.. Tree Energy Solutions (TES) is accelerating
-the development of a world-scale hydrogen hub in the German port of
-Wilhelmshaven which will support the growth of the hydrogen sector in
-Europe"
+H2 View: "Finnish start-up commits to 50 hydrogen station developments by 2030"
 
 ---
 
-H2 Fuel News: "UK government funds non-toxic and safe hydrogen storage
-test.. The program is broken into two phases, the first of which will
-be a feasibility study.. H2, a zero-carbon emission fuel that can be
-stored more efficiently for longer periods of time than batteries and
-can meet the performance needs of heavier-duty vehicles such as HGVs
-and buses. H2 refueling is simple and takes about the same amount of
-time as refueling gasoline or diesel"
+H2 View: "Indonesia has set its sights on the hydrogen opportunity
+with the country ready to utilise green hydrogen, ammonia and carbon
+capture and storage to reduce its carbon footprint.. This is according
+to Antara News, who reported that a value chain for each of these
+technologies will be explored in Indonesia in order to create a hub
+for clean energy and operations"
 
 ---
 
-H2 View: "National Fuel joins the US Clean Hydrogen Partnership
-consortium.. US-based National Fuel Gas Distribution has joined a new
-consortium that is aiming to build the clean hydrogen economy in the
-US and scale the technology in order to decarbonise hard-to-abate
-sectors"
+Different core energy sources all generating H2 fuel will
+automatically ensure supply availability. Most cars use gasoline -from
+crude oil-, much of heating uses natural gas.. But if crude oil and
+natural gas *both* generate H2, and cars and heating *both* use H2,
+then supply problems with either NG, or crude will be less
+important. Not to mention solar, hydro which can be used to generate
+clean fuel as well, adding to the supply, increasing the overall
+resillience of the energy system. H2/NH3 will be the "molecular lingua
+franca" of energy transmission, allowing all kinds of raw energy
+source to be used by varied types of consumption.
 
 ---
 
-H2 View: "Hydrogen homes now being assembled in California.. Southern
-California Gas (SoCalGas) will showcase hydrogen’s potential in the
-domestic heating sector in Downey, California, with its landmark H2
-Hydrogen Home project that is now under assembly"
+WION, Sharma Upadhyay, they have some interesting angles. Boy can she
+monologue.. I once saw that woman talk for four straight hours.. Had
+the channel on, went away came back, she was still talking. 
 
 ---
 
-H2 View: "Fortescue begins construction of a 2GW electrolyser facility in Australia"
+Haha "We are running out of toiler paper -- we should stop writing on it"
 
 ---
 
-
-"[2021] Saudi Arabia to use $110 billion natural gas field for blue
-hydrogen.. A large portion of gas from the.. Jafurah development will
-be used for blue hydrogen, according to Energy Minister Abdulaziz bin
-Salman"
+"In November of 1973, *The Tonight Show* host Johnny Carson made a joke
+about a toilet paper shortage, prompting a run on toilet paper as
+Americans rushed to buy every roll they could find"
 
 ---
 
-H2 under ambient conditions has 3 kWh / m3
+♪♬ Bombs blow, let the Benjamins flow ♪♬
 
-```python
-prod = 1e9 * 0.028 # m3
-dens = 0.003 # MWh / m3
-print (prod * dens / (24*1000), 'GW')
-```
-
-```text
-3.5 GW
-```
+Jane's Defense: "Russian invasion of Ukraine to impact Pentagon budget"
 
 ---
 
-The output of that Texas plant will be equivalent to 3.5 Gigawatts.
-⚡ 💧 ⚛️ &#9981; 🚙 👍 👍 👍 
-
-Yahoo Finance: "ExxonMobil said today it is planning a hydrogen
-production plant and one of the world’s largest carbon capture and
-storage projects at its integrated refining and petrochemical site at
-Baytown, Texas..  The proposed hydrogen facility would produce up to 1
-billion cubic feet per day of "blue" hydrogen, which is an industry
-term for hydrogen produced from natural gas and supported by carbon
-capture and storage. The carbon capture infrastructure for this
-project would have the capacity to transport and store up to 10
-million metric tons of CO2 per year, more than doubling ExxonMobil’s
-current capacity"
+<blockquote width="200" class="twitter-tweet"><p lang="en" dir="ltr">i love how they can’t even coherently explain why the “best experience” needs internet so they just force you to do it <a href="https://t.co/CJ9VldOaKw">https://t.co/CJ9VldOaKw</a></p>&mdash; Internet of Shit (@internetofshit) <a href="https://twitter.com/internetofshit/status/1500156415863787520?ref_src=twsrc%5Etfw">March 5, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-They produce the neutral fuels by mixing in carbon into a clean fuel,
-turning it into synthetic fossil fuel, since it is fossil existing
-engines are already prepared for it. If the carbon is captured "from
-the air" then putting it back through combustion would not change the
-overall budget, voila.
+The American Prospect: "The Biden Education Department Drags a
+Bankrupt Cancer Patient Into Court.. Despite vowing to change the way
+student loans are treated in bankruptcy, the administration is still
+using its discretion to limit payouts"
 
-Cant say I'm crazy about the approach, creates a path too easy to
-cheat. Remember Volkswagen, a world famous company, w production at
-huge scale, headquartered smack in the middle of Europe still cheated
-on their emissions mechanism.. With synthetic fuels one day companies
-might just burn some coal on the side, get its carbon, then we will be
-back to square one.
-
-"@FlySWISS and its parent company, the @lufthansa Group, have partnered
-with synthetic fuel group Synhelion to use its solar fuel"
+[[-]](https://prospect.org/education/biden-education-department-drags-bankrupt-cancer-patient-into-court/)
 
 ---
 
-I culled this guy's script to fourth its size. The spaghetti in the
-older code was mind-boggling.
+Now Trump is going gung-ho in the other direction to offset this narrative
+
+"@NBCNews
+
+Former Vice President Pence to tell GOP donors in a speech Friday
+there 'is no room in this party for apologists for Putin,'"
 
 ---
 
-IT has a long history now around adopting, popularizing, marketing
-packages; lots depend on them. Each has its own way of use / access,
-and professionals want to learn a few, stick to that, and sell it,
-"evangalize" it to others. They mostly have no bleeping idea about
-what goes on inside.
+"@sheslostheplot
+
+My apartment has an app to use the washing machines and now my washing
+machine is sending me marketing emails"
 
 ---
 
-This is another reason why this "AI" talk is prevalent, bcz IT types
-picked up on it, they see it as a nice "package". And current
-incarnation of this said AI is exactly that, a black box essentially,
-you shove data into from one end, "predictions" come out from the
-other (which of course is the problem as far as AGI is concerned).
+Foolio - List Of Dead Opps - "that boy was a fighter, but, he got lit
+likе a lighter". The full lyrics are hard core 
 
 ---
 
-These are such common operations they are known as C.R.U.D. - 
-create, read, update, delete.
+Yes
+
+"@AdamSerwer
+
+I don’t think Russian artists should be forced to take public disloyalty oaths"
 
 ---
 
-Yes there are funcs for delete dumb ass [eyes rolling]
+Europe, landmass-wise, is very small compared to Asia. US/Canada are
+far from the West direction, but they can keep bickering over on the
+Pacific.  Maybe good for my native hood, both sides go the f--k away
+to somewhere else
+
+[[-]](https://pbs.twimg.com/media/FNHXrneXMAA--B0?format=png&name=small)
 
 ---
 
-IT profession today is mostly about packages, Gone are the days of a
-"hacker" coding up everything from scratch (Linus Torvalds is probably
-the last famous one who did). Now it's all about a package, picking
-one, learning one.. IT professionals do not write a database from
-scratch to insert a new record. There is a database *package* and they
-just call a function named `insert` in that package, passing data as
-parameter, and voila. A new record.
+Extreme case, if UKR is pacified it will be a true buffer with the
+West, there will be mega sanctions and RU will "decouple", lean
+towards Asia. 
 
 ---
 
-Misa Blam - Gorila \#music
-
-[[-]](https://youtu.be/jg07YiU4TJU)
-
----
-
-I hope the Klitschkos make it. Everyone too of course, but if those
-guys get killed it will be a huge bummer.
+One can read too much into this "pipeline-politics", its related
+strategery.. "Control through pipelines" etc.. "Dude what's the
+path?". Nordstream 2 does not go through UKR, but some ppl there were
+flipping out about Nordstream 1 *because* it would go through
+Ukraine. The reasoning was 'Russia will hold that pipeline over
+Ukrain, if they cut it we wont get our transit fees' 🤔
 
 ---
 
-Leaders don't stand alone either. Democratic ones rely on a larger
-winning coalition, but even the most autocratic leader has a WC. When
-Putin annexed Crimea Gorbachev was cheering that shit.
+Need that IRN gas output in case RU becomes unavailable, or at least
+to bring the current prices down. Crude oil too. IRN has vast NG
+reserves.
+
+"Iran, IAEA hold talks as nuclear negotiations near finish line"
 
 ---
 
-WSJ: "As Russian Invasion Widens, the West's Options Shrink"
+US stawk trouble..? Due to people or companies having investments in
+RU.
+
+"Moscow to ban foreign investors from selling Russian assets"
 
 ---
 
-These wars are fought at another level.. Just like regular individual
-is insufficient for modern governance but people's romantic notions of
-'community governance' remains, so is 'civic bravity' in modern war.
-WWI, WWII should have beaten that out of societies but people forget.
+\#Mearsheimer
+
+"Now [some are] talking about a situation where you defeat the Russians
+in Ukraine. This is a much worse outcome for the Russians than what
+happened in April 2008, and a much worse outcome .. in February
+2014...  [T]he russians are not going to roll over and play
+dead,.. they're going to crush the Ukrainians, they're going to bring
+out the big guns, .. to turn places like [Kyiv] and other cities in
+ukraine into rubble. They're going to do Fallujas, they're going to do
+Mosuls, they're going to do Groznies. You know what happened in [WWII]
+when the United States was faced with the possibility of having to
+invade the Japanese home islands in early 1945. The idea of invading
+the Japanese home islands after what happened at Iwo Jima and then
+later what happened in Okinawa really spooked us, so you know what we
+did, we decided to burn Japanese cities to the ground starting on
+March 10th 1945. We killed more people the first night, we firebombed
+Tokyo, than we killed at either Hiroshima or Nagasaki, and we were
+systematically burning Japanese cities to the ground. Why? Because we
+did not want to invade the Japanese main islands. [This is what
+happens w]hen a great power feels threatened"
 
 ---
 
-Modern war is not unlike a natural disaster, sudden, faceless,
-overwhelming, and destructive. There is no mano-o-mano, bravity
-against it. If you are in its path, you get destroyed.
+Mearsheimer, on Ukraine, Russia, NATO expansion
+
+[[-]](https://youtu.be/ppD_bhWODDc?t=795)
 
 ---
 
-Ukranian guy I was following was like 'we will fight!' but then he got
-the f-k outa there, over a week ago.
+UKR is fighting at home turf, other side will not shy away from
+turning all cities to rubble until RU gets its 'buffer'. 
 
 ---
 
-I dont think Ukranians are any more Nazi then Russians themselves are.
+News media likes stories like "Ukranian moms making molotof cocktails
+in the kitchen" but cant win modern wars through moms making molotof
+cocktails in the kitchen. 
+
+---
+
+"White House knocks down talk of banning Russian oil imports"
+
+---
+
+WSJ: "Refugees Fleeing Ukraine Now Represent Biggest Movement of
+People in Europe Since World War II"
+
+---
+
+That's funny \#batman
+
+[[-]](https://pbs.twimg.com/media/FM9QDfyXMAEme9z?format=jpg&name=small)
+
+---
+
+Chizzle that shizzle
+
+---
+
+"@MartinNobel_
+
+Microsoft cancelling HoloLens 3 means they know there's no actual
+future for a Metaverse"
+
+---
+
+The Independent: "France accuses UK of ‘lack of humanity’ after 150
+Ukraine refugees turned away at Calais"
+
+---
+
+I wouldn't read too much into that
+
+Politico: "Putin blows up Brexit.. While the EU-UK relationship has been
+acrimonious since the latter left the bloc, Russia’s invasion of
+Ukraine has seen a rapprochement"
 
 ---
 
