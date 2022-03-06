@@ -55,8 +55,7 @@ source to be used by varied types of consumption.
 ---
 
 WION, Sharma Upadhyay, they have some interesting angles. Boy can she
-monologue.. I once saw that woman talk for four straight hours.. Had
-the channel on, went away came back, she was still talking. 
+monologue.. 
 
 ---
 
