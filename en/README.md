@@ -133,7 +133,7 @@ towards Asia.
 ---
 
 One can read too much into this "pipeline-politics", its related
-strategery.. "Control through pipelines" etc.. "Dude what's the
+"strategery".. "Control through pipelines" etc.. "Dude what's the
 path?". Nordstream 2 does not go through UKR, but some ppl there were
 flipping out about Nordstream 1 *because* it would go through
 Ukraine. The reasoning was 'Russia will hold that pipeline over
