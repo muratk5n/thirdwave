@@ -152,7 +152,7 @@ RU.
 "Now [some are] talking about a situation where you defeat the
 Russians in Ukraine. This is a much worse outcome for the Russians
 than what happened in April 2008, and a much worse outcome .. [than]
-in February 2014...  [T]he russians are not going to roll over and
+in February 2014...  [The R]ussians are not going to roll over and
 play dead,.. they're going to crush the Ukrainians, they're going to
 bring out the big guns, .. to turn places like [Kyiv] and other cities
 in Ukraine into rubble. They're going to do Fallujas, they're going to
