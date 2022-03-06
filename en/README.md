@@ -127,8 +127,8 @@ f--k away, do your shit somewhere else
 ---
 
 Extreme case for RU, if UKR is "pacified", it will be a true buffer
-with the West, the mega-sanctions will ensure that, and RU will
-"decouple", lean towards Asia.
+with the West, and RU will "decouple", the mega-sanctions will ensure
+that, Russia lean towards Asia.
 
 ---
 
