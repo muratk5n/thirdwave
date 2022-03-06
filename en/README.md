@@ -192,8 +192,8 @@ turning all cities to rubble until RU gets its 'buffer'.
 ---
 
 News media likes stories like "Ukranian moms making molotof cocktails
-in the kitchen" but cant win modern wars through moms making molotof
-cocktails in the kitchen. 
+in their kitchen" but cant win modern wars through "moms making molotof
+cocktails in the kitchen".
 
 ---
 
