@@ -187,7 +187,7 @@ Mearsheimer, on Ukraine, Russia, NATO expansion
 ---
 
 UKR is fighting at home turf, other side will not shy away from
-turning all cities to rubble until RU gets its 'buffer'. 
+turning all cities to rubble until it gets its 'buffer'. 
 
 ---
 
