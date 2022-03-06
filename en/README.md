@@ -59,7 +59,7 @@ monologue..
 
 ---
 
-Haha "We are running out of toiler paper -- we should stop writing on it"
+Haha "We are running out of toiler paper -- maybe we should stop writing on it"
 
 ---
 
