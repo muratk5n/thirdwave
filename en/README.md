@@ -109,7 +109,7 @@ likе a lighter". The full lyrics are hard core
 
 ---
 
-Yes
+Agree
 
 "@AdamSerwer
 
