@@ -117,10 +117,10 @@ I don’t think Russian artists should be forced to take public disloyalty oaths
 
 ---
 
-Europe, landmass-wise, is very small compared to Asia. US/Canada are
-far from the West direction, but they can go on bickering on the East,
-over the Pacific... Maybe good for my native hood; Both sides, go the
-f--k away, do your shit somewhere else
+Asia has huge landmass compared to Europe.. US/Canada are far from the
+West direction, but if RU becomes Asia/Pacific oriented, both sides
+can go on bickering over there.. Could be good for my native hood;
+Just get the f--k outa here and do your shit elsewhere
 
 [[-]](https://pbs.twimg.com/media/FNHXrneXMAA--B0?format=png&name=small)
 
