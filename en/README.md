@@ -118,9 +118,9 @@ I don’t think Russian artists should be forced to take public disloyalty oaths
 ---
 
 Europe, landmass-wise, is very small compared to Asia. US/Canada are
-far from the West direction, but they can keep bickering over on the
-Pacific.  Maybe good for my native hood, both sides go the f--k away
-to somewhere else
+far from the West direction, but they can go on bickering on the East,
+over the Pacific... Maybe good for my native hood, both sides go the
+f--k away to somewhere else
 
 [[-]](https://pbs.twimg.com/media/FNHXrneXMAA--B0?format=png&name=small)
 
