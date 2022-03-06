@@ -167,9 +167,9 @@ bring out the big guns, .. to turn places like [Kyiv] and other cities
 in Ukraine into rubble. They're going to do Fallujas, they're going to
 do Mosuls, they're going to do Groznies.
 
-You know what happened in [WWII] when the United States was faced with
-the possibility of having to invade the Japanese home islands in early
-1945. The idea of invading the Japanese home islands after what
+[Remember] what happened in [WWII] when the United States was faced
+with the possibility of having to invade the Japanese home islands in
+early 1945. The idea of invading the Japanese home islands after what
 happened at Iwo Jima and then later what happened in Okinawa really
 spooked us, so you know what we did, we decided to burn Japanese
 cities to the ground starting on March 10th 1945. We killed more
