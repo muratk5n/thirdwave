@@ -120,7 +120,7 @@ I don’t think Russian artists should be forced to take public disloyalty oaths
 Asia has huge landmass compared to Europe.. US/Canada are far from the
 West direction, but if RU becomes Asia/Pacific oriented, both sides
 can go on bickering over there.. Could be good for my native hood;
-Just get the f--k outa here and do your shit elsewhere
+Just get the f--k out, do your shit elsewhere
 
 [[-]](https://pbs.twimg.com/media/FNHXrneXMAA--B0?format=png&name=small)
 
