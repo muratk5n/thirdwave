@@ -176,10 +176,7 @@ command-and-control (C2) structure to co-ordinate its multipronged
 invasion of Ukraine. For the first time it is simultaneously running a
 major operation through the headquarters of four military districts,
 which are the equivalent of four-star headquarters in Western military
-organisations. These new command arrangements have significantly
-contributed to the slow rate of advance of the Russian forces in the
-opening phase of the war, according to senior Western intelligence
-sources"
+organisations"
 
 ---
 
