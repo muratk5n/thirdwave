@@ -205,8 +205,8 @@ for this,’ embassy says"
 
 ---
 
-We were joking abt this before but now US politics now truly became
-Russia Russia Russia. 
+We were joking abt this before but now US politics truly became Russia
+Russia Russia.
 
 ---
 
