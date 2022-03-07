@@ -197,10 +197,6 @@ People in Europe Since World War II"
 
 ---
 
-I haven't seen the movie yet.. But I'm hearing good things about it
-
----
-
 That's funny \#batman
 
 [[-]](https://pbs.twimg.com/media/FM9QDfyXMAEme9z?format=jpg&name=small)
