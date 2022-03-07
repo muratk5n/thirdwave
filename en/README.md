@@ -113,7 +113,7 @@ and now mostly disappeared.
 They are all related, like inbred probably, everybody's somebody
 else's mother, half-brother, father, cousin, they they all have weird
 relations, maybe including the royal goat (royalty is a product of
-agrarian era, you never know what goes on in there in those
+agrarian era, you never know what goes on in there, at those
 palaces. It's f--ked up).
 
 ---
