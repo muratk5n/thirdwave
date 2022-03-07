@@ -118,7 +118,7 @@ agrarian era, you never know what goes on in there in those palaces).
 ---
 
 I first saw this angle in a 2021 movie in all places, *The King's Man*,
-pretty well done movie historically.
+was pretty well done historically.
 
 End of WWI saw the fall of two of those monarchs, and others too in
 Europe. Maybe they got what they deserved, paid the price for their
