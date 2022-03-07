@@ -18,3 +18,5 @@
 
 [Waste-to-Hydrogen](02/h2-waste.md)
 
+[Principles of International Politics](03/principles-of-int-politics-mesquita.md)
+

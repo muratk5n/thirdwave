@@ -1,5 +1,7 @@
 # Principles of International Politics
 
+Bruce Mesquita
+
 [US]..  emerged as the most powerful nation in the world [after
 WWI]. Wilson’s Fourteen Points called for a major transformation in
 international politics. In an effort to prevent a future Great War,
