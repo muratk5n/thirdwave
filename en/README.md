@@ -221,7 +221,7 @@ ploy.. Your war was someone else's gain.
 
 ---
 
-Oh no.. losing the consultants.. What will Russia do?
+Nooo.. losing the consultants.. What will Russia do?
 
 Reuters: "Accounting firms KPMG and PwC to exit Russia"
 
