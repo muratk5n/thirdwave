@@ -232,9 +232,9 @@ legend you are
 
 ---
 
-Secular peak? At $12, two years ago?
+Secular peak? Going back to $12.. ?
 
-Even before Feb invasion crude was over $80
+Note: Even before Feb invasion crude was over $80
 
 [[-]](https://pbs.twimg.com/media/FNNsxPRXwAAQq82?format=jpg&name=small)
 
