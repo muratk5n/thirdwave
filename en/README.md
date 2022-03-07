@@ -59,7 +59,7 @@ happy now, feel taken care of, BOY?
 
 I repeat the scenario. This whole ordeal can still be an answer to a
 long-running ploy to cut off EU/RU energy relation, to stop the
-formation of an Eurasion Superpowah.. RU gets tired of the little
+formation of an Eurasian Superpowah.. RU gets tired of the little
 blocks, delays here and there, throws down the gauntlet. 'We either
 form a good relationship, or there is trouble'
 
