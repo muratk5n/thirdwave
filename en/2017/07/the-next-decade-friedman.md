@@ -2,72 +2,6 @@
 
 G. Friedman
 
-<a name='eurasia'/>
-
-Eurasia
-
-For generations, keeping the technological sophistication of Europe
-separated from the natural resources and manpower of Russia has been
-one of the key aims of American foreign policy...
-
-The American interest in Eurasia—understood as Russia and the European
-peninsula—is the same as U.S. interest everywhere: for no single power
-or coalition to dominate. The unification of Russia and Europe would
-create a force whose population, technological and industrial
-capability, and natural resources would at the very least equal
-America’s, and in all likelihood outstrip them. ...
-
-The response of the United States to a Russian-German entente must be
-the same during the next ten years as it was in the twentieth
-century. The United States must continue to do everything it can to
-block a German-Russian entente and to limit the effect that Russia’s
-sphere of influence might have on Europe..
-
-In the next ten years, an ideal solution from the American point of
-view would be to split the Franco-German bloc, and in fact the
-president should work to open as wide a breach as possible between the
-two countries.. The United States must focus on limiting the power of
-the center while simultaneously doing all it can to thwart a
-Russo-German entente. In other words, it must apply the principle of
-balance of power to Europe, much as Britain did. Ironically, the first
-phase of this U.S. strategy must be to retain its current relationship
-with Britain.
-
-Russia
-
-Putin’s strategy of focusing on energy production and export is a
-superb short-term tool, but it works only if it forms the basis for
-major economic expansion. To achieve this larger objective, Russia has
-to deal with its underlying structural weaknesses, yet these
-weaknesses are rooted in geographical problems that are not readily
-overcome.
-
-Unlike much of the industrial world, Russia has both a relatively
-small population for its size and a population that is highly
-dispersed, tied together by little more than a security apparatus and
-a common culture.
-
-Even the major cities, such as Moscow and St. Petersburg, are not the
-centers of a giant megalopolis. They are stand-alone entities,
-separated from each other by vast distances of farmland and
-forest. Leaving apart the fact that the Russian population is in
-decline, the current distribution of population makes a modern
-economy, or even efficient distribution of food, difficult, if not
-impossible. The infrastructure connecting farming areas to the city is
-poor, as is the infrastructure connecting industrial and commercial
-centers.
-
-<a name='rurivers'/>
-
-The problem in connectivity stems from the fact that Russia’s rivers
-go the wrong way. Unlike American rivers, which connect farming
-country to ports where food can be distributed, Russian rivers merely
-create barriers. Neither the czars and their railway bonds nor Stalin
-with his enforced starvation ever came close to overcoming the
-problem, and the cost of building a connective tissue for the Russian
-economy—extensive rail systems and roads—remains staggering. Russia
-has always wielded a military force that outstripped its economy,
-
 Germany
 
 History had placed Germany on the north of the North European Plain,
@@ -435,3 +369,87 @@ fix.[..] No significant political coalition in the United States is
 prepared to embrace the principle of crushing the illegal drug trade
 by legalization. So, like national identity cards, legalization simply
 won’t fly, for internal ideological reasons.
+
+<a name='eurasia'/>
+
+Eurasia
+
+For generations, keeping the technological sophistication of Europe
+separated from the natural resources and manpower of Russia has been
+one of the key aims of American foreign policy...
+
+The American interest in Eurasia—understood as Russia and the European
+peninsula—is the same as U.S. interest everywhere: for no single power
+or coalition to dominate. The unification of Russia and Europe would
+create a force whose population, technological and industrial
+capability, and natural resources would at the very least equal
+America’s, and in all likelihood outstrip them. ...
+
+The response of the United States to a Russian-German entente must be
+the same during the next ten years as it was in the twentieth
+century. The United States must continue to do everything it can to
+block a German-Russian entente and to limit the effect that Russia’s
+sphere of influence might have on Europe..
+
+In the next ten years, an ideal solution from the American point of
+view would be to split the Franco-German bloc, and in fact the
+president should work to open as wide a breach as possible between the
+two countries.. The United States must focus on limiting the power of
+the center while simultaneously doing all it can to thwart a
+Russo-German entente. In other words, it must apply the principle of
+balance of power to Europe, much as Britain did. Ironically, the first
+phase of this U.S. strategy must be to retain its current relationship
+with Britain.
+
+Russia
+
+Putin’s strategy of focusing on energy production and export is a
+superb short-term tool, but it works only if it forms the basis for
+major economic expansion. To achieve this larger objective, Russia has
+to deal with its underlying structural weaknesses, yet these
+weaknesses are rooted in geographical problems that are not readily
+overcome.
+
+Unlike much of the industrial world, Russia has both a relatively
+small population for its size and a population that is highly
+dispersed, tied together by little more than a security apparatus and
+a common culture.
+
+Even the major cities, such as Moscow and St. Petersburg, are not the
+centers of a giant megalopolis. They are stand-alone entities,
+separated from each other by vast distances of farmland and
+forest. Leaving apart the fact that the Russian population is in
+decline, the current distribution of population makes a modern
+economy, or even efficient distribution of food, difficult, if not
+impossible. The infrastructure connecting farming areas to the city is
+poor, as is the infrastructure connecting industrial and commercial
+centers.
+
+<a name='rurivers'/>
+
+The problem in connectivity stems from the fact that Russia’s rivers
+go the wrong way. Unlike American rivers, which connect farming
+country to ports where food can be distributed, Russian rivers merely
+create barriers. Neither the czars and their railway bonds nor Stalin
+with his enforced starvation ever came close to overcoming the
+problem, and the cost of building a connective tissue for the Russian
+economy—extensive rail systems and roads—remains staggering. Russia
+has always wielded a military force that outstripped its economy,
+
+<a name='ukrgap'/>
+
+The turning point in relations between the United States and Russia
+came in 2004, when events in Ukraine convinced the Russians that the
+U.S.  intended to destroy or at least tightly control them. A large
+nation, Ukraine covers the entire southwestern frontier of Russia, and
+from the Russian point of view, it is the key to Russian national
+security.
+
+The Russian territory lying between Ukraine and Kazakhstan is only
+three hundred miles wide, and all of Russia’s influence in the
+Caucasus—along with a good deal of the oil in the pipelines to the
+south—flows through this gap. At the center of the gap is Volgograd,
+formerly Stalingrad. During World War II, the Soviets sacrificed one
+million lives in the battle to keep that gap from being closed by the
+Germans.
+
