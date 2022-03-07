@@ -106,7 +106,7 @@ Merschmellows - Soulpower (Jazzanova Rework) \#music
 All those relations could not stop (allegedly fueled) a World War, one
 would assume relatives holding high positions in each country could
 act as natural ambassadors to eachother's countries, but no. They failed
-and mostly disappeared.
+and now mostly disappeared.
 
 ---
 
