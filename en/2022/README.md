@@ -6,6 +6,8 @@
 
 [Base Energy Numbers, Data](02/base-energy-numbers.md)
 
+[Energy Production Costs, LCOE](02/costs-lcoe.md)
+
 [H2 Production From Coal / CCS](02/h2-coal.md)
 
 [H2 Production via Electrolysis](02/h2-electrolysis.md)

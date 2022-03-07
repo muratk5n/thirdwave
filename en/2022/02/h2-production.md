@@ -10,3 +10,5 @@
 
 [Waste to H2](h2-waste.md)
 
+[Costs](costs-lcoe.md)
+
