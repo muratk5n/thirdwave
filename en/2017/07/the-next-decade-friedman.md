@@ -438,6 +438,8 @@ has always wielded a military force that outstripped its economy,
 
 <a name='ukrgap'/>
 
+The Gap
+
 The turning point in relations between the United States and Russia
 came in 2004, when events in Ukraine convinced the Russians that the
 U.S.  intended to destroy or at least tightly control them. A large
