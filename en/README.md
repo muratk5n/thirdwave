@@ -118,12 +118,14 @@ palaces. It's f--ked up).
 
 ---
 
-I first saw this angle in a 2021 movie in all places, *The King's Man*,
-was pretty well done historically.
+I first heard this angle in a 2021 movie in all places, *The King's
+Man*, was pretty well done historically.
 
 End of WWI saw the fall of two of those monarchs, and others too in
 Europe. Maybe they got what they deserved, paid the price for their
 uselessness.
+
+---
 
 "Was WWI caused by a family feud?
 
