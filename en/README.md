@@ -209,11 +209,11 @@ Russia Russia Russia.
 
 ---
 
-Zelensky might have been had by that drone help by Anatolians, which
-itself might have been spurred by Brits. They weren't helping you out
-of the goodness of their hearts.. If shit hit the fan over there that
-would be good for them bcz that would mean less pressure on Idlib
-(which Russia/Assad want to take back). Then there is the energy
+Zelensky might have been had by that drone help by Anatolian gov,
+which itself might have been spurred by Brits. They weren't helping
+you out of the goodness of their hearts.. If shit hit the fan over
+there that would be good for them bcz that would mean less pressure on
+Idlib (which Russia/Assad want to take back). Then there is the energy
 ploy.. Your war was someone else's gain.
 
 ---
