@@ -82,7 +82,7 @@ I'm glad Germany denied the ban.
 ---
 
 I really wanted to see RU part of this whole H2/NH3 transition..
-Latest events can be a huge bummer on that angle. 
+Hopefully latest events are not a show-stopper in the long-term.
 
 ---
 
