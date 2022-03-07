@@ -240,13 +240,7 @@ A large LNG tanker can hold 266,000 cubic meters of LNG.
 
 CSP
 
-"Our benchmark is based on a plant of approximately 100 MW with 14
-hours of thermal energy storage. We model that plant would have an
-LCOE of 9.5 cents/kWh (with no incentives) if built in the US today"
-
 https://www.utilitydive.com/news/cheapest-is-not-always-best-concentrated-solar-power-could-beat-lower-pric/574154/
-
-https://www.energy.gov/sites/prod/files/2015/08/f25/LCOE.pdf
 
 https://www.evwind.es/2020/07/29/the-cost-of-concentrated-solar-power-fell-by-47-between-2010-and-2019/76120
 
