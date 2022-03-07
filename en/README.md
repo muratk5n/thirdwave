@@ -147,6 +147,8 @@ cousins exacted a geopolitical price. 'As relationships between the
 royal cousins waxed and waned, so did the relationships between their
 countries,' the Daily Mail's Ruth Styles says"
 
+[[-]](https://www.theweek.co.uk/59782/how-did-the-first-world-war-start)
+
 ---
 
 Interesting point on League of Nations too, that US itself would not
