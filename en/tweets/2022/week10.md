@@ -188,10 +188,6 @@ cocktails in the kitchen".
 
 ---
 
-"White House knocks down talk of banning Russian oil imports"
-
----
-
 WSJ: "Refugees Fleeing Ukraine Now Represent Biggest Movement of
 People in Europe Since World War II"
 
