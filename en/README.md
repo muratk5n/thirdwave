@@ -142,7 +142,7 @@ the world to the brink of war.
 The three monarchs were like 'sleepwalkers stepping towards an open
 lift shaft', Richard Davenport-Hines says in his review of Miranda
 Carter's book on the subject, *The Three Emperors*. The events leading
-pup to the conflict are 'a study in the envy, insincerity, festering
+up to the conflict are 'a study in the envy, insincerity, festering
 rancour and muddle that only families can manage'.
 
 Unlike many family feuds, however, disagreements between the royal
