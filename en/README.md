@@ -2,10 +2,10 @@
 
 ---
 
-H2 View: "JBIC invests $108m in Hy24 to support the ‘world’s largest’
-clean hydrogen infrastructure investment fund. The Japan Bank for
-International Cooperation (JBIC) has revealed plans to invest up to
-€100m (108m dollars) into a clean hydrogen infrastructure fund"
+H2 View: "JBIC invests.. support the ‘world’s largest’ clean hydrogen
+infrastructure investment fund. The Japan Bank for International
+Cooperation (JBIC) has revealed plans to invest up to €100m ($108m)
+into a clean hydrogen infrastructure fund"
 
 ---
 
