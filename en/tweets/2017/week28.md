@@ -136,6 +136,12 @@ so some aspects of life need to be simplified to compensate.
 
 ---
 
+Jobs, the nerd Jesus \#burr
+
+[[-]](https://www.youtube.com/watch?v=E3s-qZsjK8I)
+
+---
+
 If a country does not have full labor participation, then should we
 limit hours worked so everyone gets a fair chance, as in France? They
 have 35 hour work-week limitation.
