@@ -52,8 +52,6 @@
 
 [War on People](06/war-on-people.md)
 
-[#jobs](07/jobs.md)
-
 [The Next Decade](07/the-next-decade-friedman.md)
 
 [Economic Complexity, Capability](08/economic-complexity-hidalgo.md)
