@@ -26,7 +26,7 @@ If only savings were lent out, growth + same money base = deflation.
 
 Are government deficits inflationary? If new, more money reaches
 citizens directly then it could be... If new money goes to
-corporations, then no. [Research](https://anpec.org.br/revista/vol12/vol12n2p215_237.pdf)
+corporations, then no. [Research](https://www.researchgate.net/publication/227368010_Inflation_and_Budget_Deficit_What_is_the_Relationship_in_Portugal)
 on this area found a lagged response in inflation for government spending
 where it existed. The true determinant seemed to be unit labor costs.
 
