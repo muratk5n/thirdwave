@@ -5,11 +5,11 @@ directly to people (which has happened in some countries) inflation is
 almost always highly correlated with wages. People need to have more
 than they have so they spend more, so prices increase.
 
-Wages come from employers, businesses. Because businesses work on
-credit, and credit is always newly printed money. Therefore when
-businesses hand out salaries they are handing out that new money. That
-could result in inflation, if there is too much credit out there, then
-the economy "stars to heat up" i.e. inflation.
+Wages come from employers, businesses. Businesses work on credit, and
+credit is always newly printed money. Therefore when businesses hand
+out salaries they are handing out that new money. That could result in
+inflation, if there is too much credit out there, then the economy
+"stars to heat up" i.e. inflation.
 
 Note that bank credit does not come from bank customers' savings, they
 are printed money, so money base expands. The system works because
@@ -27,8 +27,8 @@ If only savings were lent out, growth + same money base = deflation.
 Are government deficits inflationary? If new, more money reaches
 citizens directly then it could be... If new money goes to
 corporations, then no. [Research](https://anpec.org.br/revista/vol12/vol12n2p215_237.pdf)
-on this area found a lagged response in inflation for government spending. The
-true determinant was unit labor costs.
+on this area found a lagged response in inflation for government spending
+where it existed. The true determinant seemed to be unit labor costs.
 
 Marginal Revolution University
 
