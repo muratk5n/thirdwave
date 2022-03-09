@@ -26,5 +26,5 @@ Causes of Inflation
 
 Why inflate
 
-<iframe width="729" height="410" src="https://www.youtube.com/embed/E6A_WpUY2LI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="340" src="https://www.youtube.com/embed/E6A_WpUY2LI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
