@@ -32,7 +32,7 @@ industry in an effort to decarbonise the future of flying"
 
 ---
 
-I wonder if petrodollar system goes bust after latest events.
+Petrodollar system going bust after latest events? It is possible.
 
 ---
 
@@ -64,6 +64,11 @@ f--k out.
 Why is it assumed there will be 'urban fighting' in Kyiv, Ukranian
 cities? Attackers can easily shell, bomb Kyiv into a big pile of
 rubble wout taking a step into the city.
+
+---
+
+WaPo: "Zelensky receives standing ovation, calls for more support in
+address to U.K. Parliament via video"
 
 ---
 
