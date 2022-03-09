@@ -1417,14 +1417,24 @@ References
 
 [1] [WTWRFN](https://www.amazon.com/Why-West-Rules-Now-Patterns/dp/0312611692)
 
+---
 
+Bancor requires no anchor; There are a certain group of econs out
+there who have an odd infatuation with gold (Keynes despised it,
+called it a barbaric relic). The yellow metal is nothing special. We
+*imbue* moneyness on things ourselves, from the beginning of ancient
+times (money is created by armies. King deploys soldiers to get slaves
+to dig x out of the ground, gives x to the soldiers as minted money,
+and taxes ordinary people in x [2]).
 
+Bancor discourages both creditors and debtors, PLUS adjusts the
+exchange rate depending on the status of countries, whether on the
+plus side, or the minus side of the ledger. In essence what should
+have happened through "floating" currency exchanges, happens through
+bancor.
 
+---
 
+[Bancor](../../2019/06/bancor.md)
 
-
-
-
-
-
-
+---
