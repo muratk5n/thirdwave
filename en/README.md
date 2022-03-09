@@ -54,7 +54,7 @@ But forget about that - [let's clap](https://i.pinimg.com/originals/64/3c/d5/643
 
 ---
 
-Watch Mariupol, a city in the South under attack. It is slowly turning
+Watch Mariupol, a city in the South, under attack. It is slowly turning
 into a parking lot. The soundbytes coming out of there are not 'the
 resistance' but 'humanitarian corridors'. People are trying to get the
 f--k out.
