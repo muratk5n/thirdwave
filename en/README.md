@@ -79,10 +79,10 @@ Politico: "UN: 2 million people have now fled Ukraine"
 Failure of monarchs (first wave concept) being in disagreement with
 the modern states (second wave concept) is actually normal. Feudal,
 1st wave ruling is about land expansion, posh elites who do whatever
-in their palaces (thanks beating on peasants, taking their money), and
-unaccountable. Second wave structures are different, waves cannot mix
-like oil and water. The incompatbility could cause major suffering,
-as in the alleged fueling of WWI.
+in their palaces (thanks beating on peasants, taking their
+money). Second wave structures are different, waves cannot mix like
+oil and water. The incompatbility could cause major suffering, as in
+the alleged fueling of WWI.
 
 ---
 
