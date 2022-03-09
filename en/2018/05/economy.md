@@ -4,11 +4,9 @@
 
 [Money](../../2012/01/money.md)
 
-[Inflation](https://www.youtube.com/watch?v=gi7jx5IJtik)
+[Inflation](inflation.md)
 
 [Price Is a Signal](https://www.youtube.com/watch?v=aBYzvPbIFNw)
-
-[Why Inflate](https://www.youtube.com/watch?v=E6A_WpUY2LI)
 
 [Economic Complexity, Capability, Hidalgo](../../2017/08/economic-complexity-hidalgo.md)
 
