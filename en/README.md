@@ -32,7 +32,7 @@ industry in an effort to decarbonise the future of flying"
 
 ---
 
-Petrodollar system going bust after latest events? It is possible.
+Petrodollar system going bust after latest events? Not unlikely. 
 
 ---
 
