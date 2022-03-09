@@ -19,6 +19,11 @@ products, services are circulating, but more money does not chase
 after the same amount of goods, it chases after more amt of goods - no
 inflation.
 
+Bank credit is "printed money", brought into existence out of thin
+air.. Just type bunch of numbers on a computer, boom. New money. There
+is good reason for creating money and not simply lending out savings;
+If only savings were lent out, growth + same money base = deflation.
+
 Marginal Revolution University
 
 Causes of Inflation
