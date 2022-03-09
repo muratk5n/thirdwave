@@ -50,9 +50,7 @@ Axios: "Biden advisers weigh Saudi Arabia trip for more oil"
 
 ---
 
-But forget about that - let's clap
-
-<img width="200" src="https://i.pinimg.com/originals/64/3c/d5/643cd5fb6f6b57719be90ff8102b1b07.gif"/>
+But forget about that - [let's clap](https://i.pinimg.com/originals/64/3c/d5/643cd5fb6f6b57719be90ff8102b1b07.gif)
 
 ---
 
