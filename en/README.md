@@ -126,8 +126,8 @@ Testing the fruit quince for new veg mix
 
 ---
 
-Thought ZC was done until the Olympics. Now that is over, any reason
-to continue it? Omicron will overwhelm it anyway..
+Thought ZC was done until the Winter Olympics. Now that WO is over,
+any reason to continue it? Omicron will overwhelm it anyway..
 
 South China Morning Post: "Shenzhen electronics market shut as
 zero-Covid policy forces lockdown"
