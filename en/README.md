@@ -98,9 +98,7 @@ consensus made to avoid something?
 
 ---
 
-Why was the quince was selected for this idiom? It is somewhat tougher
-to chew on, compared to some other fruits, perhaps. But still it is
-good shit.
+Q is somewhat tougher to chew on maybe that's why is used in idiom.
 
 ---
 
