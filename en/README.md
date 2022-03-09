@@ -90,7 +90,7 @@ their hands and go "well, it's a mystery, year after year, stimulus
 after stimulus, there is still no inflation". The obvious was avoided
 -- the money was going to corporations, not to people.
 
-Likely same w WWI, the bigger reason is "unknown". The assasination of
+Same with WWI, the bigger reason is "unknown". The assasination of
 Franz Ferdinand is the obvious 'trigger', but the plethora of equally
 viable (and contradicting) theories fail to reach a conclusion. People
 throw up their hands and say "still a big mystery to us". 🤨 Is the
