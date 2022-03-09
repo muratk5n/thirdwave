@@ -24,6 +24,12 @@ air.. Just type bunch of numbers on a computer, boom. New money. There
 is good reason for creating money and not simply lending out savings;
 If only savings were lent out, growth + same money base = deflation.
 
+Are government deficits inflationary? If new, more money reaches
+citizens directly then it could be... If new money goes to
+corporations, then no. [Research](https://anpec.org.br/revista/vol12/vol12n2p215_237.pdf)
+on this area found a lagged response in inflation for government spending. The
+true determinant was unit labor costs.
+
 Marginal Revolution University
 
 Causes of Inflation
