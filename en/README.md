@@ -111,7 +111,7 @@ Q is somewhat tougher to chew on maybe that's why is used in the idiom.
 
 This cld be where the tigger idiom *ayvayı yedi* comes from, 'he ate
 the quince'; a way of saying 'you stepped in it' when a person messes
-up, blows it and is now in trouble.
+up, stuff goes wrong, and is now in trouble.
 
 ---
 
