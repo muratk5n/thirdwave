@@ -98,7 +98,7 @@ Same with WWI, the bigger reason is "unknown". The assasination of
 Franz Ferdinand is the obvious 'trigger', but the plethora of equally
 viable (and contradicting) theories fail to reach a conclusion. People
 throw up their hands and say "still a big mystery to us". 🤨 Is the
-consensus made to avoid something?
+consensus trying to avoid certain conslusions?
 
 ---
 
