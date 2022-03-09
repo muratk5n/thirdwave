@@ -101,6 +101,10 @@ consensus made to avoid something?
 
 ---
 
+Yes you could say Ukraine 'ate the quince'
+
+---
+
 Q is somewhat tougher to chew on maybe that's why is used in idiom.
 
 ---
