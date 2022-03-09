@@ -8,7 +8,8 @@ than they have so they spend more, so prices increase.
 Wages come from employers, businesses. Because businesses work on
 credit, and credit is always newly printed money. Therefore when
 businesses hand out salaries they are handing out that new money. That
-could result in inflation.
+could result in inflation, if there is too much credit out there, then
+the economy "stars to heat up" i.e. inflation.
 
 Note that bank credit does not come from bank customers' savings, they
 are printed money, so money base expands. The system works because
