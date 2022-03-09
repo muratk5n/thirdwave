@@ -87,11 +87,12 @@ the alleged fueling of WWI.
 ---
 
 WWI being caused by a family feud.. Sometimes real answers are avoided
-bcz mainstream (history/politics) wants to hide something. While
-studying finance I'd read journos; columnists would regularly throw up
-their hands and go "well, it's a mystery, year after year, stimulus
-after stimulus, there is still no inflation". The obvious was avoided
--- the money was going to corporations, not to people.
+bcz mainstream (history/politics) wants to hide something or mired in
+self-delusion. While studying finance I'd read journos; columnists
+would regularly throw up their hands and go "well, it's a mystery,
+year after year, stimulus after stimulus, there is still no
+inflation". The obvious was avoided -- the money was going to
+corporations, not to people.
 
 Same with WWI, the bigger reason is "unknown". The assasination of
 Franz Ferdinand is the obvious 'trigger', but the plethora of equally
