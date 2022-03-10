@@ -2,6 +2,8 @@
 
 Energy Densities
 
+1 Megajoule is 0.227 Kilowatt hours
+
 1 kg has H2 energy of 33.6 kWh (143 MJ).
 
 H2 under ambient conditions 3 KWh / m3

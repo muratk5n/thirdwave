@@ -150,5 +150,17 @@ employs that template in the wider world?
 
 That formidable state will end up embracing liberal hegemony, a highly
 interventionist foreign policy that involves fighting wars and doing
-significant social engineering in countries throughout the world.
+significant social engineering in countries throughout the world. Its main
+aim will be to spread liberal democracy, toppling authoritarian regimes in
+the process, with the ultimate goal of creating a world populated solely by
+liberal democracies. In effect, a state pursuing liberal hegemony aims to
+remake the international system in its own image. It will also work to foster
+an open world economy and build international institutions to deal with
+both economic and security issues...
 
+Liberalism has to have a night watchman if it is to work: it demands a
+hierarchic political system such as exists inside the state
+itself. But the international system is anarchic, not hierarchic. As
+long as liberal states operate in either bipolarity or multipolarity,
+they have no choice but to act toward each other according to realist
+logic.
