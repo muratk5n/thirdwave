@@ -28,8 +28,8 @@ hydrogen production projects across the globe"
 
 ---
 
-Canada has lots of hydrocarbons; they can generate clean fuel, and
-ship it to DE.
+Canada has lots of hydrocarbons; generate clean fuel + ccs, ship to
+DE.
 
 ---
 
