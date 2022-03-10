@@ -39,7 +39,7 @@ approximately 100 MW with 14 hours of thermal energy storage. We model
 that plant would have an LCOE of 9.5 cents/kWh (with no incentives) if
 built in the US today"
 
-* Conversion Factors, H2 143 MJ/kg, 0.143 GJ/kg
+* Conversion Factors, H2 has 0.143 GJ/kg
 
 LCOH
 
