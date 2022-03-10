@@ -20,5 +20,7 @@
 
 [Waste-to-Hydrogen](02/h2-waste.md)
 
+[The Great Delusion: Liberal Dreams and International Realities](03/liberal-dreams-intl-realities.md)
+
 [Principles of International Politics](03/principles-of-int-politics-mesquita.md)
 
