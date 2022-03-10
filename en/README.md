@@ -66,8 +66,7 @@ provision"
 ---
 
 Al Jazeera: "Brazil is one of the world’s top food producers and the
-largest importer of potash, powder that is obtained from the ashes of
-burned wood and sometimes used as fertiliser. The country relies on
+largest importer of potash.. used as fertiliser. The country relies on
 imports for 85 percent of the fertiliser used for its grain crops. And
 a quarter of Brazil’s demand for potash has usually been met by
 Russia, which halted exports...
