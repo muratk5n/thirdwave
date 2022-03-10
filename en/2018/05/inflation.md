@@ -11,7 +11,7 @@ Wages come from employers. Businesses work on credit, and credit is
 always newly printed money. Therefore when businesses hand out
 salaries they are handing out new money. That could result in
 inflation, if there is too much credit out there, then the economy
-"stars to heat up" i.e. causing inflation.
+"stars to heat up" i.e. inflation.
 
 Note that bank credit does not originate from bank customers' savings,
 they are printed money, so money base expands. The system works
