@@ -19,9 +19,8 @@ H2 View: "Wales to gain hydrogen-powered trains"
 
 ---
 
-
-Canada has lots of hydrocarbons; they can generate H2, and ship it to
-DE.
+Canada has lots of hydrocarbons; they can generate clean fuel, and
+ship it to DE.
 
 ---
 
