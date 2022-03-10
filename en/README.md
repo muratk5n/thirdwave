@@ -2,12 +2,12 @@
 
 ---
 
-"Air Products has said will it develop a 10 metric ton per day liquid
+H2 View: "Air Products has said will it develop a 10 metric ton per day liquid
 hydrogen plant in Casa Grande, Arizona"
 
 ---
 
-"Elogen selects French town [Vendôme] for its electrolyser
+H2 View: "Elogen selects French town [Vendôme] for its electrolyser
 manufacturing gigafactory"
 
 ---
@@ -16,8 +16,8 @@ H2 View: "Wales to gain hydrogen-powered trains"
 
 ---
 
-"Alberta Industrial Heartland to integrate low-carbon hydrogen through
-new Keyera, Shell Canada partnership"
+H2 Fuel News: "Alberta Industrial Heartland to integrate low-carbon
+hydrogen through new Keyera, Shell Canada partnership"
 
 ---
 
@@ -27,7 +27,6 @@ thyssenkrupp nucera to support the development of large-scale green
 hydrogen production projects across the globe"
 
 ---
-
 
 Canada has lots of hydrocarbons; they can generate clean fuel, and
 ship it to DE.
