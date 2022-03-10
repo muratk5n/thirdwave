@@ -35,7 +35,9 @@ ship it to DE.
 
 \#Scholz #Trudeau \#H2 
 
-[[-]](https://youtu.be/nIr949iow0w?t=755)
+[[-]](https://youtu.be/nIr949iow0w?t=761)
+
+https://youtu.be/nIr949iow0w?t=758
 
 ---
 
