@@ -58,8 +58,8 @@ LCOE
 |Source         |Overn Cost ($/KW)   |LCOE ($/MWh)|Reference| 
 |---------------|--------------------|------------|----------|
 |Wind, Onshore  |                    | 31.45      |[IEA](https://www.iea.org/reports/projected-costs-of-generating-electricity-2020)
-|Coal Wout CCS  |                    | 68.64      ||
 |Nuclear        |     3125           | 53.4       |[Paper](https://link.springer.com/content/pdf/10.1007/s11356-021-18129-3.pdf/)|
+|Coal Wout CCS  |                    | 68.64      ||
 |CSP (100 MW)   |                    | 93.6       |DOE (see above)|
 |Wind, Offshore |                    | 115.04     |[IEA](https://www.iea.org/reports/projected-costs-of-generating-electricity-2020)
 |CSP            |                    | 121.0      |[IEA](https://www.iea.org/reports/projected-costs-of-generating-electricity-2020)
