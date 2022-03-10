@@ -60,6 +60,8 @@
 
 [Faux Nobel Prize for Economists](05/faux-nobel.md)
 
+[Inflation](05/inflation.md)
+
 [#noOccupation](05/nooccupation.md)
 
 [US Polarization](05/polarization.md)
