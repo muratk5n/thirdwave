@@ -2,7 +2,7 @@
 
 Unless the government is literally printing money and handing out
 directly to people (which has happened in some countries), and/or
-supply-chain related issues are present,inflation is almost always
+supply-chain related issues are present, inflation is almost always
 highly correlated with wages. People need to have more money so they
 spend more, on an unchanging set of goods and services, which causes
 prices to increase.
