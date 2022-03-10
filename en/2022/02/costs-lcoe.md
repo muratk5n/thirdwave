@@ -2,13 +2,12 @@
 
 Levelized Cost of Energy (LCOE)
 
-[DOE](https://www.energy.gov/sites/prod/files/2015/08/f25/LCOE.pdf)
-
 LCOE measures lifetime costs divided by energy production. Calculates
 present value of the total cost of building and operating a power
 plant over an assumed lifetime. Allows the comparison of different
 technologies (e.g., wind, solar, natural gas) of unequal life spans,
-project size, different capital cost, risk, return, and capacities.
+project size, different capital cost, risk, return, and capacities
+([DOE](https://www.energy.gov/sites/prod/files/2015/08/f25/LCOE.pdf)).
 
 Levelized Cost of Hydrogen (LCOH)
 
