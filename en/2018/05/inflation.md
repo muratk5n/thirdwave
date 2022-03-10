@@ -1,9 +1,10 @@
 # Inflation
 
 Unless the government is not literally printing money and handing out
-directly to people (which has happened in some countries) inflation is
-almost always highly correlated with wages. People need to have more
-than they have so they spend more, so prices increase.
+directly to people (which has happened in some countries), and/or
+supply-chain related issues are present,inflation is almost always
+highly correlated with wages. People need to have more than they have
+so they spend more, so prices increase.
 
 Wages come from employers, businesses. Businesses work on credit, and
 credit is always newly printed money. Therefore when businesses hand
