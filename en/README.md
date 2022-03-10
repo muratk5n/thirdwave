@@ -56,12 +56,9 @@ provision"
 
 ---
 
-WION: "Volodymyr Zelensky has announced that Ukraine will no longer be
-seeking NATO membership, a delicate issue cited by Russia as a reason
-for invading its pro-Western neighbor.. Zelensky also said he is open
-to "compromise" over the status of two breakaway pro-Russian
-territories that Putin recognized as independent just before the
-invasion"
+\#ukraine \#foxnews 
+
+[[-]](https://youtu.be/FtGnDNeAQVk?t=77)
 
 ---
 
@@ -71,9 +68,12 @@ Gravitas LIVE with Palki, First signs of a compromise in Ukraine?
 
 ---
 
-\#ukraine \#foxnews 
-
-[[-]](https://youtu.be/FtGnDNeAQVk?t=77)
+WION: "Volodymyr Zelensky has announced that Ukraine will no longer be
+seeking NATO membership, a delicate issue cited by Russia as a reason
+for invading its pro-Western neighbor.. Zelensky also said he is open
+to "compromise" over the status of two breakaway pro-Russian
+territories that Putin recognized as independent just before the
+invasion"
 
 ---
 
