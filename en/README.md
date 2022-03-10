@@ -45,9 +45,9 @@ of German gas supply comes from Russian imports"
 ---
 
 Toronto Sun: "German Foreign Minister Annalena Baerbock said there was
-no point in supporting such a [Russian energy] ban, 'if in three weeks
-we find that we only have a few days of electricity left in Germany,
-and therefore we have to go back on these sanctions.'"
+no point in supporting.. [a Russian energy] ban, 'if in three weeks we
+find that we only have a few days of electricity left in Germany, and
+therefore we have to go back on these sanctions.'"
 
 ---
 
