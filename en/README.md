@@ -108,8 +108,8 @@ hits wheat imports"
 ---
 
 Why not - Pakistan certainly needs energy.. A developing country, why
-should they give up on their energy needs for a war "encouraged" by
-the West
+should they give up on their energy needs for a war partly
+"encouraged" by the West
 
 The Independent: "Pakistan’s prime minister Imran Khan has struck a
 deal to import natural gas from Russia – despite outcry over the
