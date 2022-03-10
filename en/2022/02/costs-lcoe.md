@@ -60,6 +60,9 @@ Levelized Cost of Hydrogen
 
 |Source         |Overnight Cost      |LCOH ($/GJ)|Reference| 
 |---------------|--------------------|------------|----------|
+|NG CCS         |                    | 13.98      | [Paper](https://www.linkedin.com/pulse/what-levelized-cost-clean-hydrogen-production-greg-perkins/)  |
 |Coal IGCC CCS  |                    | 21.25      | [IEAGHG](https://ieaghg.org/docs/General_Docs/Reports/2014-03.pdf)  |
+|PV             |                    | 26.00      | [Paper](https://www.cell.com/cell-reports-physical-science/pdfExtended/S2666-3864(20)30224-1)  |
+|CSP Thermochem |                    | 42.08      | [Paper](https://www.mdpi.com/1996-1073/12/3/352/pdf-vor)  |
 
 
