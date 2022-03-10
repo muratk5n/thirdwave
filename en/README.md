@@ -37,8 +37,6 @@ DE.
 
 [[-]](https://youtu.be/nIr949iow0w?t=761)
 
-https://youtu.be/nIr949iow0w?t=758
-
 ---
 
 "In February 2022, economy and climate minister.. said that 55 percent
