@@ -51,17 +51,17 @@ and therefore we have to go back on these sanctions.'"
 
 ---
 
+Politico: "House temporarily punts vote on Russia oil
+ban.. Republicans complained that the bill did not include a key trade
+provision"
+
+---
+
 The US ban is largely symbolic. It's easy to be bold and courageous
 when only a fraction of your energy comes from Russia Russia Russia
 and live on a country blessed with all kinds of natural resources.
 
 "Last year, roughly 8% of U.S. imports of oil and petroleum products came from Russia"
-
----
-
-Politico: "House temporarily punts vote on Russia oil
-ban.. Republicans complained that the bill did not include a key trade
-provision"
 
 ---
 
