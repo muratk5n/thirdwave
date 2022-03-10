@@ -30,7 +30,7 @@ Overnight cost
 
 The overnight cost is a part of the capital cost. It includes
 construction, system cost, procurement cost, engineering cost, cost of
-equipment, frst fuel load, and other costs (
+equipment, frst fuel load, and other costs.
 
 Some Data Points
 
