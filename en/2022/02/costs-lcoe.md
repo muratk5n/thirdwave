@@ -23,7 +23,7 @@ Calculating and comparing LCOE can: Measure value across the longer
 term, showing projected life-cycle costs.. Highlight opportunities for
 Tribes to develop different scales of projects (facility, community,
 or commercial).. Inform decisions to pursue projects on an economic
-basis, compared to utility rates
+basis, compared to utility rates.
 
 Overnight cost
 
@@ -63,6 +63,6 @@ LCOE
 |Wind, Offshore |                    | 115.04     |[IEA](https://www.iea.org/reports/projected-costs-of-generating-electricity-2020)
 |CSP            |                    | 121.0      |[IEA](https://www.iea.org/reports/projected-costs-of-generating-electricity-2020)
 |Batteries      |                    | 121.84     |[EIA](https://www.eia.gov/outlooks/aeo/pdf/electricity_generation.pdf)|
-|Coal Comb CCS  |                    | 122.7      ||
-|Coal IGCC CCS  |                    | 151.8      ||
+|Coal Comb CCS  |                    | 122.7      |[IEAGHG](https://ieaghg.org/docs/General_Docs/Reports/2014-03.pdf)|
+|Coal IGCC CCS  |                    | 151.8      |[IEAGHG](https://ieaghg.org/docs/General_Docs/Reports/2014-03.pdf)|
 
