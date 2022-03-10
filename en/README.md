@@ -2,136 +2,105 @@
 
 ---
 
-H2 View: "EU draws out plan to increase hydrogen production to replace
-Russian fossil fuels and gas dependency.. The European Commission has
-revealed a brand-new plan in which to phase out dependency on Russian
-gas and fossil fuels with hydrogen a key aspect of this"
+H2 Fuel News: "Texas will be home to the world’s biggest green
+hydrogen plant.. The renewable H2 will be used for powering vehicles
+throughout the aerospace industry"
 
 ---
 
-H2 View: "Air Liquide gains French State support for 200MW Normandy
-hydrogen production project"
+H2 View: "Agfa to provide its innovative separator membrane for large-scale,
+cost-competitive green hydrogen production.. Agfa has been selected by
+thyssenkrupp nucera to support the development of large-scale green
+hydrogen production projects across the globe"
 
 ---
 
-H2 View: "Australia, Germany officially open new incubator to support
-hydrogen projects and reduce its cost.. Australia and Germany have
-both solidified their commitments to hydrogen with the official
-opening of the Innovation and Technology Incubator aimed at
-collaborations between the two countries"
+H2 View: "Wales to gain hydrogen-powered trains"
 
 ---
 
-H2 View: "Fortescue Future Industries (FFI) and Airbus have formed a
-focused taskforce to implement green hydrogen within the aviation
-industry in an effort to decarbonise the future of flying"
+
+Canada has lots of hydrocarbons; they can generate H2, and ship it to
+DE.
 
 ---
 
-[Bancor](2019/06/bancor.md)
+\#Scholz #Trudeau \#H2 
+
+[[-]](https://youtu.be/nIr949iow0w?t=755)
 
 ---
 
-Petrodollar system going bust after latest events? It is possible.
+"In February 2022, economy and climate minister.. said that 55 percent
+of German gas supply comes from Russian imports"
 
 ---
 
-😂 
-
-MarketWatch: "Leaders of Saudi Arabia, UAE declined calls with Biden
-amid Ukraine crisis"
-
----
-
-Better meet MBS, shake the man's hand and give a good, wide smile
-while doing it
-
-Axios: "Biden advisers weigh Saudi Arabia trip for more oil"
+Toronto Sun: "German Foreign Minister Annalena Baerbock said there was
+no point in supporting such a [Russian energy] ban, 'if in three weeks
+we find that we only have a few days of electricity left in Germany,
+and therefore we have to go back on these sanctions.'"
 
 ---
 
-But forget about that - [let's clap](https://i.pinimg.com/originals/64/3c/d5/643cd5fb6f6b57719be90ff8102b1b07.gif)
+The US ban is largely symbolic. It's easy to be bold and courageous
+when only a fraction of your energy comes from Russia Russia Russia
+and live on a country blessed with all kinds of natural resources.
+
+"Last year, roughly 8% of U.S. imports of oil and petroleum products came from Russia"
 
 ---
 
-Watch Mariupol, a city in the South, under attack. It is slowly turning
-into a parking lot. The soundbytes coming out of there are not 'the
-resistance' but 'humanitarian corridors'. People are trying to get the
-f--k out.
+Politico: "House temporarily punts vote on Russia oil
+ban.. Republicans complained that the bill did not include a key trade
+provision"
 
 ---
 
-Why is it assumed there will be 'urban fighting' in Kyiv, Ukranian
-cities? Attackers can easily shell, bomb Kyiv into a big pile of
-rubble wout taking a step into the city.
+WION: "Volodymyr Zelensky has announced that Ukraine will no longer be
+seeking NATO membership, a delicate issue cited by Russia as a reason
+for invading its pro-Western neighbor.. Zelensky also said he is open
+to "compromise" over the status of two breakaway pro-Russian
+territories that Putin recognized as independent just before the
+invasion"
 
 ---
 
-WaPo: "Zelensky receives standing ovation, calls for more support in
-address to U.K. Parliament via video"
+Gravitas LIVE with Palki, First signs of a compromise in Ukraine?
+
+[[-]](https://youtu.be/n1nD-k2Zn2k)
 
 ---
 
-Politico: "UN: 2 million people have now fled Ukraine"
+\#ukraine \#foxnews 
+
+[[-]](https://youtu.be/FtGnDNeAQVk?t=77)
 
 ---
 
-Failure of monarchs (first wave concept) being in disagreement with
-the modern states (second wave concept) is actually normal. Feudal,
-1st wave ruling is about land expansion, posh elites who do whatever
-in their palaces (thanks beating on peasants, taking their
-money). Second wave structures are different, waves cannot mix like
-oil and water. The incompatbility could cause major suffering, as in
-the alleged fueling of WWI.
+Al-Monitor: "Egypt to have eight months of wheat reserves, says minister"
 
 ---
 
-WWI being caused by a family feud.. Sometimes real answers are avoided
-bcz mainstream (history/politics) wants to hide something or mired in
-self-delusion. While studying finance I'd read journos; columnists
-would regularly throw up their hands and go "well, it's a mystery,
-year after year, stimulus after stimulus, there is still no
-inflation". The obvious was avoided -- the money was going to
-corporations, not to people.
-
-Same with WWI, the bigger reason is "unknown". The assasination of
-Franz Ferdinand is the obvious 'trigger', but the plethora of equally
-viable (and contradicting) theories fail to reach a conclusion. People
-throw up their hands and say "still a big mystery to us". 🤨 Is the
-consensus trying to avoid certain conslusions?
+The Guardian: "‘We need bread’: fears in Middle East as Ukraine war
+hits wheat imports"
 
 ---
 
-Yes you could say Ukraine 'ate the quince'
+Why not - Pakistan surely needs energy.. A developing country, should
+they give up on their well-being for a war triggered by the West
+
+The Independent: "Pakistan’s prime minister Imran Khan has struck a
+deal to import natural gas from Russia – despite outcry over the
+invasion of Ukraine.. As countries impose sanctions and seek to
+isolate Vladimir Putin, Khan became the first leader to sign a new
+trade deal with Russia since the attack"
 
 ---
 
-Q is somewhat tougher to chew on maybe that's why is used in the idiom.
+Collated comments on inflation
 
----
-
-This could be where the tigger idiom *ayvayı yedi* comes from, 'he ate
-the quince'; a way of saying 'you stepped in it' when a person messes
-up, stuff goes wrong, and is now in trouble.
-
----
-
-Haha
-
-"The quince may have in fact been the 'forbidden fruit' in the Garden
-of Eden that tempted Eve"
-
----
-
-Testing the fruit quince for new veg mix
-
----
-
-Thought ZC was done until the Winter Olympics. Now that WO is over,
-any reason to continue it? Omicron will overwhelm it anyway..
-
-South China Morning Post: "Shenzhen electronics market shut as
-zero-Covid policy forces lockdown"
+[[-]](2018/05/inflation.md)
 
 ---
 

@@ -2,6 +2,139 @@
 
 ---
 
+H2 View: "EU draws out plan to increase hydrogen production to replace
+Russian fossil fuels and gas dependency.. The European Commission has
+revealed a brand-new plan in which to phase out dependency on Russian
+gas and fossil fuels with hydrogen a key aspect of this"
+
+---
+
+H2 View: "Air Liquide gains French State support for 200MW Normandy
+hydrogen production project"
+
+---
+
+H2 View: "Australia, Germany officially open new incubator to support
+hydrogen projects and reduce its cost.. Australia and Germany have
+both solidified their commitments to hydrogen with the official
+opening of the Innovation and Technology Incubator aimed at
+collaborations between the two countries"
+
+---
+
+H2 View: "Fortescue Future Industries (FFI) and Airbus have formed a
+focused taskforce to implement green hydrogen within the aviation
+industry in an effort to decarbonise the future of flying"
+
+---
+
+[Bancor](2019/06/bancor.md)
+
+---
+
+Petrodollar system going bust after latest events? It is possible.
+
+---
+
+😂 
+
+MarketWatch: "Leaders of Saudi Arabia, UAE declined calls with Biden
+amid Ukraine crisis"
+
+---
+
+Better meet MBS, shake the man's hand and give a good, wide smile
+while doing it
+
+Axios: "Biden advisers weigh Saudi Arabia trip for more oil"
+
+---
+
+But forget about that - [let's clap](https://i.pinimg.com/originals/64/3c/d5/643cd5fb6f6b57719be90ff8102b1b07.gif)
+
+---
+
+Watch Mariupol, a city in the South, under attack. It is slowly turning
+into a parking lot. The soundbytes coming out of there are not 'the
+resistance' but 'humanitarian corridors'. People are trying to get the
+f--k out.
+
+---
+
+Why is it assumed there will be 'urban fighting' in Kyiv, Ukranian
+cities? Attackers can easily shell, bomb Kyiv into a big pile of
+rubble wout taking a step into the city.
+
+---
+
+WaPo: "Zelensky receives standing ovation, calls for more support in
+address to U.K. Parliament via video"
+
+---
+
+Politico: "UN: 2 million people have now fled Ukraine"
+
+---
+
+Failure of monarchs (first wave concept) being in disagreement with
+the modern states (second wave concept) is actually normal. Feudal,
+1st wave ruling is about land expansion, posh elites who do whatever
+in their palaces (thanks beating on peasants, taking their
+money). Second wave structures are different, waves cannot mix like
+oil and water. The incompatbility could cause major suffering, as in
+the alleged fueling of WWI.
+
+---
+
+WWI being caused by a family feud.. Sometimes real answers are avoided
+bcz mainstream (history/politics) wants to hide something or mired in
+self-delusion. While studying finance I'd read journos; columnists
+would regularly throw up their hands and go "well, it's a mystery,
+year after year, stimulus after stimulus, there is still no
+inflation". The obvious was avoided -- the money was going to
+corporations, not to people.
+
+Same with WWI, the bigger reason is "unknown". The assasination of
+Franz Ferdinand is the obvious 'trigger', but the plethora of equally
+viable (and contradicting) theories fail to reach a conclusion. People
+throw up their hands and say "still a big mystery to us". 🤨 Is the
+consensus trying to avoid certain conslusions?
+
+---
+
+Yes you could say Ukraine 'ate the quince'
+
+---
+
+Q is somewhat tougher to chew on maybe that's why is used in the idiom.
+
+---
+
+This could be where the tigger idiom *ayvayı yedi* comes from, 'he ate
+the quince'; a way of saying 'you stepped in it' when a person messes
+up, stuff goes wrong, and is now in trouble.
+
+---
+
+Haha
+
+"The quince may have in fact been the 'forbidden fruit' in the Garden
+of Eden that tempted Eve"
+
+---
+
+Testing the fruit quince for new veg mix
+
+---
+
+Thought ZC was done until the Winter Olympics. Now that WO is over,
+any reason to continue it? Omicron will overwhelm it anyway..
+
+South China Morning Post: "Shenzhen electronics market shut as
+zero-Covid policy forces lockdown"
+
+---
+
 H2 View: "JBIC invests.. support the ‘world’s largest’ clean hydrogen
 infrastructure investment fund. The Japan Bank for International
 Cooperation (JBIC) has revealed plans to invest up to €100m ($108m)
