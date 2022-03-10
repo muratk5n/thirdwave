@@ -242,8 +242,6 @@ CSP
 
 https://www.utilitydive.com/news/cheapest-is-not-always-best-concentrated-solar-power-could-beat-lower-pric/574154/
 
-https://www.evwind.es/2020/07/29/the-cost-of-concentrated-solar-power-fell-by-47-between-2010-and-2019/76120
-
 Initial investment cost cost 5200/kw. Advanced nuclear reactors are
 estimated to cost $5,366 for every kilowatt of capacity. They are same but
 nuke plants have LCOE $0.096/kWh.

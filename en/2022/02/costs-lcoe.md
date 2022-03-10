@@ -1,8 +1,8 @@
 # Energy Production Costs, LCOE
 
-Levelized Cost of Energy (LCOE) - DOE
-([PDF](https://www.energy.gov/sites/prod/files/2015/08/f25/LCOE.pdf))
+Levelized Cost of Energy (LCOE)
 
+See DOE - ([PDF](https://www.energy.gov/sites/prod/files/2015/08/f25/LCOE.pdf)).
 LCOE measures lifetime costs divided by energy production
 
 * Calculates present value of the total cost of building and operating
@@ -27,6 +27,12 @@ projects (facility, community, or commercial)
 * Inform decisions to pursue projects on an economic
 basis, compared to utility rates
 
+Overnight cost
+
+The overnight cost is a part of the capital cost. It includes
+construction, system cost, procurement cost, engineering cost, cost of
+equipment, frst fuel load, and other costs (
+
 Some Data Points
 
 * Avi Shultz (DOE) on CSP: "Our benchmark is based on a plant of
@@ -34,12 +40,26 @@ approximately 100 MW with 14 hours of thermal energy storage. We model
 that plant would have an LCOE of 9.5 cents/kWh (with no incentives) if
 built in the US today"
 
+LCOE
 
-|Source|Initial Capital Cost|LCOE|
-|----------|----------------|--------------|
-|aaa|	bbbb	|cccc|
-|aaa|	bbbb	|cccc|
-|aaa|	bbbb	|cccc|
-|aaa|	bbbb	|cccc|
+
+|Source         |Capital Cost ($/KW) |LCOE ($/MWh)|Reference| 
+|---------------|--------------------|------------|----------|
+|Wind, Onshore  |                    | 31.45      |[IEA](https://www.iea.org/reports/projected-costs-of-generating-electricity-2020)
+|Coal Wout CCS  |                    | 68.64      ||
+|Nuclear        |     3125           | 53.4       |[Paper](https://link.springer.com/content/pdf/10.1007/s11356-021-18129-3.pdf/)|
+|CSP (100 MW)   |                    | 93.6       |DOE (see above)|
+|Wind, Offshore |                    | 115.04     |[IEA](https://www.iea.org/reports/projected-costs-of-generating-electricity-2020)
+|CSP            |                    | 121.0      |[IEA](https://www.iea.org/reports/projected-costs-of-generating-electricity-2020)
+|Batteries      |                    | 121.84     |[EIA](https://www.eia.gov/outlooks/aeo/pdf/electricity_generation.pdf)|
+|Coal Comb CCS  |                    | 122.7      ||
+|Coal IGCC CCS  |                    | 151.8      ||
+
+
+Levelized Cost of Hydrogen
+
+|Source         |Overnight Cost      |LCOH ($/GJ)|Reference| 
+|---------------|--------------------|------------|----------|
+|Coal IGCC CCS  |                    | 21.25      | [IEAGHG](https://ieaghg.org/docs/General_Docs/Reports/2014-03.pdf)  |
 
 
