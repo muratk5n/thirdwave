@@ -1,6 +1,7 @@
 # Energy Production Costs, LCOE
 
-Levelized Cost of Energy (LCOE) - DOE, [PDF](https://www.energy.gov/sites/prod/files/2015/08/f25/LCOE.pdf)
+Levelized Cost of Energy (LCOE) - DOE
+([PDF](https://www.energy.gov/sites/prod/files/2015/08/f25/LCOE.pdf))
 
 LCOE measures lifetime costs divided by energy production
 
@@ -26,10 +27,19 @@ projects (facility, community, or commercial)
 * Inform decisions to pursue projects on an economic
 basis, compared to utility rates
 
-Info Points on various energy source costs
+Some Data Points
 
-Avi Shultz (DOE) on CSP: "Our benchmark is based on a plant of
+* Avi Shultz (DOE) on CSP: "Our benchmark is based on a plant of
 approximately 100 MW with 14 hours of thermal energy storage. We model
 that plant would have an LCOE of 9.5 cents/kWh (with no incentives) if
 built in the US today"
+
+
+|Source|Initial Capital Cost|LCOE|
+|----------|----------------|--------------|
+|aaa|	bbbb	|cccc|
+|aaa|	bbbb	|cccc|
+|aaa|	bbbb	|cccc|
+|aaa|	bbbb	|cccc|
+
 
