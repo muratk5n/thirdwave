@@ -65,6 +65,24 @@ provision"
 
 ---
 
+Why not - Pakistan certainly needs energy.. A developing country, why
+should they give up on their energy needs for a war partly
+"encouraged" by the West
+
+The Independent: "Pakistan’s prime minister Imran Khan has struck a
+deal to import natural gas from Russia – despite outcry over the
+invasion of Ukraine.. As countries impose sanctions and seek to
+isolate Vladimir Putin, Khan became the first leader to sign a new
+trade deal with Russia since the attack"
+
+---
+
+K.. likely due to some US pressure.. 
+
+"Oil price dips as UAE endorses increased production"
+
+---
+
 Al Jazeera: "Brazil is one of the world’s top food producers and the
 largest importer of potash.. used as fertiliser. The country relies on
 imports for 85 percent of the fertiliser used for its grain crops. And
@@ -104,18 +122,6 @@ Al-Monitor: "Egypt to have eight months of wheat reserves, says minister"
 
 The Guardian: "‘We need bread’: fears in Middle East as Ukraine war
 hits wheat imports"
-
----
-
-Why not - Pakistan certainly needs energy.. A developing country, why
-should they give up on their energy needs for a war partly
-"encouraged" by the West
-
-The Independent: "Pakistan’s prime minister Imran Khan has struck a
-deal to import natural gas from Russia – despite outcry over the
-invasion of Ukraine.. As countries impose sanctions and seek to
-isolate Vladimir Putin, Khan became the first leader to sign a new
-trade deal with Russia since the attack"
 
 ---
 
