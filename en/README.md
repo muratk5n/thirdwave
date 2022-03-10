@@ -2,9 +2,22 @@
 
 ---
 
-H2 Fuel News: "Texas will be home to the world’s biggest green
-hydrogen plant.. The renewable H2 will be used for powering vehicles
-throughout the aerospace industry"
+"Air Products has said will it develop a 10 metric ton per day liquid
+hydrogen plant in Casa Grande, Arizona"
+
+---
+
+"Elogen selects French town [Vendôme] for its electrolyser
+manufacturing gigafactory"
+
+---
+
+H2 View: "Wales to gain hydrogen-powered trains"
+
+---
+
+"Alberta Industrial Heartland to integrate low-carbon hydrogen through
+new Keyera, Shell Canada partnership"
 
 ---
 
@@ -15,9 +28,6 @@ hydrogen production projects across the globe"
 
 ---
 
-H2 View: "Wales to gain hydrogen-powered trains"
-
----
 
 Canada has lots of hydrocarbons; they can generate clean fuel, and
 ship it to DE.
@@ -53,6 +63,19 @@ and live on a country blessed with all kinds of natural resources.
 Politico: "House temporarily punts vote on Russia oil
 ban.. Republicans complained that the bill did not include a key trade
 provision"
+
+---
+
+Al Jazeera: "Brazil is one of the world’s top food producers and the
+largest importer of potash, powder that is obtained from the ashes of
+burned wood and sometimes used as fertiliser. The country relies on
+imports for 85 percent of the fertiliser used for its grain crops. And
+a quarter of Brazil’s demand for potash has usually been met by
+Russia, which halted exports...
+
+Brazil has large reserves of potash underground in the Amazon
+rainforest, including in and around lands inhabited by Indigenous
+people, whose concerns have held up some mining projects for years"
 
 ---
 
