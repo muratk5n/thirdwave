@@ -21,9 +21,9 @@ Simple LCOE Concept
 
 Calculating and comparing LCOE can: Measure value across the longer
 term, showing projected life-cycle costs.. Highlight opportunities for
-Tribes to develop different scales of projects (facility, community,
-or commercial).. Inform decisions to pursue projects on an economic
-basis, compared to utility rates.
+investors to develop different scales of projects (facility,
+community, or commercial).. Inform decisions to pursue projects on an
+economic basis, compared to utility rates.
 
 Overnight cost
 
