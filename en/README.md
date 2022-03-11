@@ -127,10 +127,10 @@ carrot, no stick.
 Liberalism is about the individual, who can think freely, but that can
 lead to conflicts, so you need a state to protect rights. Therefore,
 one can continue, if everyone has such inalienable rights, they do so
-all over the world too, a liberal state can be pushed to try to expand
-it abroad (be that state that protects right for others too) --
-through coercion, or sometimes by force, which can entice 'the other
-side' to the same.
+all over the world too, a liberal state can be tempted to try to
+expand lib abroad (wanting to become that intl watcher that protects
+right for others too) -- through coercion, or sometimes by force,
+which can entice 'the other side' to the same.
 
 ---
 
