@@ -13,3 +13,7 @@ if sys.argv[1] == 'years':
     for year in range(2008,2023):
         os.system("echo '# %d\n' > %d/README.md" % (year,year))
         os.system("python -u gen.py %d >> %d/README.md" % (year,year))
+
+if sys.argv[1] == 'twimg':
+    print (sys.argv[2])
+    

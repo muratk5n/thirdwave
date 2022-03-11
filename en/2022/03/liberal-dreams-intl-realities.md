@@ -123,11 +123,7 @@ status is, or whether they can afford the treatment. In effect, this
 law says that health care is a human right. In fact, Reagan said as
 early as 1961 that “any person in the United States who requires
 medical attention and cannot provide itfor himself should have it
-provided for him”. Further evidence that Republicans recognize this
-right comes from the often-repeated slogan “repeal and replace.” They
-understand they cannot simply eliminate the Affordable Care Act but
-must substitute another system that aims to provide Americans with
-decent health care. Republican presidents oversaw the beginnings of
+provided for him”... Republican presidents oversaw the beginnings of
 the Interstate Highway System, the Environmental Protection Agency,
 and the Department of Homeland Security. Republicans, in short, are
 deeply committed to the interventionist state and the extensive social
