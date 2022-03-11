@@ -124,9 +124,10 @@ have only carrot, no stick.
 ---
 
 Liberalism is about the individual, who can think freely, but that can
-lead to conflicts, so you need a state to protect rights. Therefore,
-one can continue, if everyone has such inalienable rights, they do so
-all over the world too, a liberal state could then also try to to
+lead to conflicts, so you need a state to protect rights.
+
+Therefore, one can continue, if everyone has such inalienable rights,
+they do so all over the world too, a liberal state is pushed to try to
 expand it abroad -- through coercion, or sometimes by force.
 
 ---
