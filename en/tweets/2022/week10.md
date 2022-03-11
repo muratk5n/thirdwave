@@ -235,7 +235,8 @@ Yes you could say Ukraine 'ate the quince'
 
 ---
 
-Q is somewhat tougher to chew on maybe that's why is used in the idiom.
+Q is somewhat tougher to chew on too, maybe that's another why is used
+in the idiom.
 
 ---
 
