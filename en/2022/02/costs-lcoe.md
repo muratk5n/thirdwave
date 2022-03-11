@@ -62,10 +62,11 @@ LCOE
 
 |Source         |Overn Cost ($/KW)   |LCOE ($/MWh)|Reference| 
 |---------------|--------------------|------------|----------|
-|Biomass        | 4524               | 53.4       |[Paper](https://link.springer.com/content/pdf/10.1007/s11356-021-18129-3.pdf/)|
-|Nuclear        | 7030               | 53.4       |[Paper](https://link.springer.com/content/pdf/10.1007/s11356-021-18129-3.pdf/)|
+|Solar          |                    | 32.78      |[IEA](https://www.iea.org/reports/projected-costs-of-generating-electricity-2020)
 |Wind, Onshore  | 1718               | 50.0       |[IEA](https://www.iea.org/reports/projected-costs-of-generating-electricity-2020)
+|Nuclear        | 7030               | 53.4       |[Paper](https://link.springer.com/content/pdf/10.1007/s11356-021-18129-3.pdf/)|
 |Wind, Offshore | 4833               | 88.0       |[EIA](https://www.eia.gov/outlooks/aeo/assumptions/pdf/table_8.2.pdf),[IEA](https://www.iea.org/reports/projected-costs-of-generating-electricity-2020)
+|Biomass        | 4524               | 89.0       |[EIA](https://www.eia.gov/outlooks/aeo/pdf/electricity_generation.pdf)|
 |Coal Wout CCS  | 4074               | 68.64      |[EIA](https://www.eia.gov/outlooks/aeo/assumptions/pdf/table_8.2.pdf)|
 |CSP (100 MW)   | 7895               | 95.0       |[EIA](https://www.eia.gov/outlooks/aeo/assumptions/pdf/table_8.2.pdf),DOE (see above)|
 |Batteries      |                    | 121.84     |[EIA](https://www.eia.gov/outlooks/aeo/pdf/electricity_generation.pdf)|
