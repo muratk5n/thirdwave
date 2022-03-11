@@ -181,9 +181,7 @@ They clearly belive they have the upper hand. Took huge risk going in
 and now want the payoff.
 
 Politico: "Russia doesn’t budge in high-level talks with Ukraine.. And
-those demands are untenable for Ukraine: full demilitarization, full
-surrender — essentially full subjugation to Russia... Lavrov didn’t
-deny Kuleba’s account in his own press conference"
+those demands are .. essentially full subjugation to Russia"
 
 ---
 
