@@ -139,8 +139,8 @@ mental block..  See [Meirsheimer](2022/03/liberal-dreams-intl-realities.md).
 
 ---
 
-What's the deal w NATO chief Stoltenberg 'Central Bank appointent
-announcement' right in the beginning of the conflict? Is he being
+What's the deal w NATO chief Stoltenberg "Central Bank appointment
+announcement" right in the beginning of the conflict? Is he being
 'demoted upwards'? He was talking tough game early on, then NATO got
 cucked.
 
