@@ -154,6 +154,19 @@ remake the international system in its own image. It will also work to foster
 an open world economy and build international institutions to deal with
 both economic and security issues...
 
+The prominence that liberalism accords to the notion of inalienable or
+universal rights means that a foreign policy based on liberal
+principles requires careful monitoring of other countries’ human
+rights performance.  When the rights of foreigners are threatened, a
+powerful state pursuing liberal hegemony will likely feel compelled to
+intervene to protect the rights of those individuals. That state is
+apt to conclude that the best way to ameliorate, even eliminate, the
+threat to individual rights is to make sure that as many people as
+possible live in a liberal democracy, where respect for individual
+rights is of great importance. This logic leads straight to an active
+policy of regime change aimed at toppling autocracies and replacing
+them with liberal democracies.
+
 Liberalism has to have a night watchman if it is to work: it demands a
 hierarchic political system such as exists inside the state
 itself. But the international system is anarchic, not hierarchic. As
