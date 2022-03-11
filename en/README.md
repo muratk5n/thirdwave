@@ -146,17 +146,13 @@ cucked.
 
 ---
 
-Putin finds those blind spots, and exploits them well. 'Rules based
-order' means ppl following them are predictable.
-
----
-
 NATO was sadly a disadvantage in this conflict. Motto "one for all,
 all for one" works *if you are in it*. If outside, the deterrent
 aspect becomes a disadvantage. They are built to kick some serious
 ass, which means going all in, with everyone on board, which you
 cannot do even partially in a situation such as in UKR. So they were
-reduced to watching the whole conf from the sidelines.
+reduced to watching the whole conf from the sidelines. Putin finds
+those blind spots, and exploits them well.
 
 ---
 
