@@ -119,7 +119,7 @@ Bloomberg: "OPEC+ Member the UAE Says Group Should Boost Oil Output"
 
 Am fine personally with individual, even positive rights. Just saying
 countries can be on a different path, schedule. If a new non-military
-org was to be founded for democracies, I'd argue it should have only
+org was to be founded for democracies, I'd argue it should only offer
 carrot, no stick.
 
 ---
