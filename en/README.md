@@ -117,10 +117,9 @@ Bloomberg: "OPEC+ Member the UAE Says Group Should Boost Oil Output"
 
 ---
 
-Am fine personally with individual, even positive rights. Just saying
-not everyone cld be on the same boat, on the same schedule. If a new
-non-military org was to be founded for democracies, I'd argue it
-should have only carrot, no stick.
+Am fine personally with individual, even positive rights. Not for
+war. If a new non-military org was to be founded for democracies, I'd
+argue it should have only carrot, no stick.
 
 ---
 
