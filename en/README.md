@@ -2,132 +2,197 @@
 
 ---
 
-H2 View: "Air Products has said will it develop a 10 metric ton per day liquid
-hydrogen plant in Casa Grande, Arizona"
+Toyota has it all - fuel cells, H2 combustion. Fantastic.
+
+<iframe width="95%" src="https://www.youtube.com/embed/2dgzKW8EKMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-H2 View: "Elogen selects French town [Vendôme] for its electrolyser
-manufacturing gigafactory"
+"At the end of April 2021, Toyota announced it would be testing the
+performance of a new hydrogen-fuelled internal combustion engine by
+installing it in a racecar that would compete in one of Japan’s
+toughest motorsports events: The NAPAC Fuji Super TEC 24 Hours [race
+already happened, the H2 car did great]"
+
+[[-]](https://www.racecar-engineering.com/articles/toyota-debuts-hydrogen-fuelled-internal-combustion-race-engine/#:~:text=At%20the%20end%20of%20April,Fuji%20Super%20TEC%2024%20Hours.)
 
 ---
 
-H2 View: "Wales to gain hydrogen-powered trains"
+Forbes: "[March 2021] As Hydrogen’s Levelized Cost Projections Fall
+Toyota Sends It Racing.. [H2] levelized cost, or the measure of
+average net present cost of production as a fuel or heat source for a
+generating plant over its lifetime, especially from renewable energy
+via electrolysis of water, is likely to fall considerably over the
+coming years..
+
+Should the forecasts materialize, such 'low renewable hydrogen costs
+could completely rewrite the energy map," says Martin Tengler, lead
+hydrogen analyst at BNEF. "It shows that in future, at least a third
+of the world economy could be powered by clean energy for not a cent
+more than it pays for fossil fuels.'..
+
+Automakers and their partner fuel vendors in many quarters remain
+suitably excited, and none more so than Toyota. The Japanese automaker
+has consistently nailed its colors to the mast via its Mirai range. It
+is now going one step further by testing the performance of a new
+hydrogen [combustion] engine by installing it in a race car that will
+compete in one of Japan's toughest motorsport events"
+
+[[-]](https://www.forbes.com/sites/gauravsharma/2021/04/23/as-hydrogens-levelized-cost-projections-fall-toyota-sends-it-racing/)
 
 ---
 
-H2 Fuel News: "Alberta Industrial Heartland to integrate low-carbon
-hydrogen through new Keyera, Shell Canada partnership"
+Started a doc on energy plant costs, LCOE, and 'overnight costs' 🚧
+
+[[-]](2022/02/costs-lcoe.md)
 
 ---
 
-H2 View: "Agfa to provide its innovative separator membrane for large-scale,
-cost-competitive green hydrogen production.. Agfa has been selected by
-thyssenkrupp nucera to support the development of large-scale green
-hydrogen production projects across the globe"
+Energy Voice: "[Scated] also recently signed an agreement with India’s
+ACME Group to build and operate a green ammonia plant in Oman. The
+first phase will produce 100,000 tpy of green ammonia, scaling up to
+1.2mn tpy"
 
 ---
 
-Canada has lots of hydrocarbons; generate clean fuel + ccs, ship to
-DE.
+Energy Voice: "[Norway's] Scatec signs up to mammoth green ammonia
+plan in Egypt.. a memorandum of understanding (MoU) for a green
+hydrogen and ammonia plant in Egypt [was signed]...  The plant will
+produce 1 million tonnes per year of green ammonia initially, it
+said. It will have the opportunity to reach 3mn tpy ultimately"
 
 ---
 
-\#Scholz #Trudeau \#H2 
+Sounds like a smart guy, obviously knows where the action is
 
-[[-]](https://youtu.be/nIr949iow0w?t=761)
-
----
-
-"In February 2022, economy and climate minister.. said that 55 percent
-of German gas supply comes from Russian imports"
-
----
-
-Toronto Sun: "German Foreign Minister Annalena Baerbock said there was
-no point in supporting.. [a Russian energy] ban, 'if in three weeks we
-find that we only have a few days of electricity left in Germany, and
-therefore we have to go back on these sanctions.'"
+The Sydney Morning Herald: "[Reserve Bank of Australia] heir apparent
+Guy Debelle unexpectedly quits to join Forrest’s green hydrogen
+play.. The future of [RBA] has been upended with the man considered
+most likely to lead the interest rate setting institution through the
+rest of the decade quitting to join private sector efforts to secure
+Australia’s green hydrogen future. Dr Guy Debelle, deputy to governor
+Philip Lowe since 2016 and perceived by many as one of the RBA’s
+brightest minds, stunned monetary policy circles on Thursday by
+revealing plans to become Fortescue Future Industries’ chief financial
+officer"
 
 ---
 
-Politico: "House temporarily punts vote on Russia oil
-ban.. Republicans complained that the bill did not include a key trade
-provision"
+H2 View: "UK-based Levidian recently developed a device which uses
+plasma technology to separate methane into its constituent atoms:
+carbon, locked into high-quality graphene, and hydrogen, which can
+either be used immediately or stored for future use. According to the
+climate-tech company, their model means they can offer turquoise
+hydrogen at little to no cost, as there is a thriving market for the
+by-product produced during the process – high-quality graphene"
 
 ---
 
-The US ban is largely symbolic. It's easy to be bold and courageous
-when only a fraction of your energy comes from Russia Russia Russia
-and live on a country blessed with all kinds of natural resources.
+Thats good but fixing base energy infra (clean fuels) wld fix all
+pollution in one fell swoop. 
 
-"Last year, roughly 8% of U.S. imports of oil and petroleum products came from Russia"
+"@shafikyaghmour
 
----
-
-Why not - Pakistan certainly needs energy.. A developing country, why
-should they give up on their energy needs for a war partly
-"encouraged" by the West
-
-The Independent: "Pakistan’s prime minister Imran Khan has struck a
-deal to import natural gas from Russia – despite outcry over the
-invasion of Ukraine.. As countries impose sanctions and seek to
-isolate Vladimir Putin, Khan became the first leader to sign a new
-trade deal with Russia since the attack"
+Hong Kong using roadside sensors to detect most polluting cars and
+force them to get fixed"
 
 ---
 
-K.. likely due to some US pressure.. 
-
-"Oil price dips as UAE endorses increased production"
-
----
-
-Al Jazeera: "Brazil is one of the world’s top food producers and the
-largest importer of potash.. used as fertiliser. The country relies on
-imports for 85 percent of the fertiliser used for its grain crops. And
-a quarter of Brazil’s demand for potash has usually been met by
-Russia, which halted exports...
-
-Brazil has large reserves of potash underground in the Amazon
-rainforest, including in and around lands inhabited by Indigenous
-people, whose concerns have held up some mining projects for years"
+They got shaky legs there little bit.. US probably got them
+through Dubai, the place lives on intl connections, tourism, u can
+really clamp down on it.. But then backtracked on backtracking..
+Sup
 
 ---
 
-\#ukraine \#foxnews 
+😂 
 
-[[-]](https://youtu.be/FtGnDNeAQVk?t=77)
-
----
-
-Gravitas LIVE with Palki, First signs of a compromise in Ukraine?
-
-[[-]](https://youtu.be/n1nD-k2Zn2k)
+Markets Insider: "Oil prices climb 5% after UAE appears to backtrack
+on its earlier call for OPEC+ to boost output faster"
 
 ---
 
-WION: "Volodymyr Zelensky has announced that Ukraine will no longer be
-seeking NATO membership, a delicate issue cited by Russia as a reason
-for invading its pro-Western neighbor.. Zelensky also said he is open
-to "compromise" over the status of two breakaway pro-Russian
-territories that Putin recognized as independent just before the
-invasion"
+Bloomberg: "OPEC+ Member the UAE Says Group Should Boost Oil Output"
 
 ---
 
-Al-Monitor: "Egypt to have eight months of wheat reserves, says minister"
+Am fine personally with indiv, even positive rights. Just saying not
+everyone cld be on the same boat, on the same schedule. If a new
+non-mil org was to be founded for democracies, I'd argue it should
+have only carrot, no stick.
 
 ---
 
-The Guardian: "‘We need bread’: fears in Middle East as Ukraine war
-hits wheat imports"
+Liberalism is about the individual, who can think freely, but that can
+lead to conflicts, so you need a state to protect rights. Therefore,
+one can continue, if everyone has such inalienable rights, they do so
+all over the world too, a liberal state could then also try to to
+expand it abroad -- through coercion, or sometimes by force.
 
 ---
 
-Collated comments on inflation
+Surely 'not understanding' states like Russia cld be due to a
+progressive liberalism's mental block..  See [Meirsheimer](2022/03/liberal-dreams-intl-realities.md).
 
-[[-]](2018/05/inflation.md)
+---
+
+What was with that NATO chief Stoltenberg 'Central Bank appointent
+announcement' right in the beginning of the conflict? Is he being
+'demoted upwards'? He was talking tough game early on, then NATO
+got cucked.
+
+---
+
+Putin finds those dead zones, blind spots, and exploits them
+well. 'Rules based order' means ppl following them are predictable too.
+
+---
+
+NATO was sadly a disadvantage in this conflict. Motto "one for all,
+all for one" works *if you are in it*. If outside, the deterrent
+aspect becomes a disadvantage. They are built to kick some serious
+ass, which means going all in, with everyone on board, which you
+cannot do even partially in a situation such as in UKR. So they were
+reduced to watching the whole conf from the sidelines.
+
+---
+
+My assumption was since 2014 UKR had been loading for bear, have all
+aspects of a possible war covered, with NATO's help. Then found out
+abt the air/sea shortcomings, it became clear this cld turn into
+another Aleppo, Grozny.
+
+---
+
+CNBC: "Deutsche Bank defends decision not to exit Russia: It's not
+'practical' right now"
+
+---
+
+That whole Polish jet deal talk was a total chaos
+
+---
+
+F24: "Half of Kyiv's population has fled Russian invasion, mayor says"
+
+---
+
+They clearly belive they have the upper hand. Took huge risk going in
+and now want the payoff.
+
+Politico: "Russia doesn’t budge in high-level talks with Ukraine.. And
+those demands are untenable for Ukraine: full demilitarization, full
+surrender — essentially full subjugation to Russia... Lavrov didn’t
+deny Kuleba’s account in his own press conference"
+
+---
+
+CNBC: "Bitcoin drops below $40,000, almost wiping out gains from
+Biden's crypto executive order"
+
+---
+
+Arab News: "Narendra Modi’s BJP wins big in India’s largest state election"
 
 ---
 
