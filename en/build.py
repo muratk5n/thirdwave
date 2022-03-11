@@ -1,4 +1,4 @@
-import datetime, sys, os, re
+import datetime, sys, os, re, urllib.request
 
 if len(sys.argv) < 2:
     print ("options: week | years")
@@ -15,9 +15,13 @@ if sys.argv[1] == 'years':
         os.system("python -u gen.py %d >> %d/README.md" % (year,year))
 
 if sys.argv[1] == 'twimg':
+    # python -u build.py twimg tweets/2022/week01.md
     fin = sys.argv[2]
     content = open(fin).read()
     print (fin)
-    print (content)
     res = re.findall('https://pbs.twimg.com(.*?)["\)]',content)
-    print (res)
+    for x in res:
+        url = "https://pbs.twimg.com" + x
+        print (url)
+        urllib.request.urlretrieve(url, "out.png")
+        break
