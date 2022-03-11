@@ -156,10 +156,10 @@ those blind spots, and exploits them well.
 
 ---
 
-My assumption was since 2014 UKR had been loading for bear, have all
-aspects of a possible war covered, with NATO's help. Then found out
-abt the air/sea shortcomings, it became clear this cld turn into
-another Aleppo, Grozny.
+My assumption was since 2014 UKR had been loading for bear (no pun
+intende), have all aspects of a possible war covered, with NATO's
+help. Then found out abt the air/sea shortcomings, it became clear
+this cld turn into another Aleppo, Grozny.
 
 ---
 
