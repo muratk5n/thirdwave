@@ -101,8 +101,8 @@ force them to get fixed"
 
 They got shaky legs there little bit.. US probably did some arm
 twisting through Dubai, the place lives on intl connections, tourism,
-u can really clamp down on it, but then backtracked on backtracking..
-Sup
+u can really clamp down on it, but then UAE backtracked on
+backtracking..  Sup
 
 ---
 
@@ -129,7 +129,8 @@ lead to conflicts, so you need a state to protect rights. Therefore,
 one can continue, if everyone has such inalienable rights, they do so
 all over the world too, a liberal state can be pushed to try to expand
 it abroad (be that state that protects right for others too) --
-through coercion, or sometimes by force.
+through coercion, or sometimes by force, which can entice 'the other
+side' to the same.
 
 ---
 
