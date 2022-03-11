@@ -1,4 +1,4 @@
-import datetime, sys, os
+import datetime, sys, os, re
 
 if len(sys.argv) < 2:
     print ("options: week | years")
@@ -15,5 +15,9 @@ if sys.argv[1] == 'years':
         os.system("python -u gen.py %d >> %d/README.md" % (year,year))
 
 if sys.argv[1] == 'twimg':
-    print (sys.argv[2])
-    
+    fin = sys.argv[2]
+    content = open(fin).read()
+    print (fin)
+    print (content)
+    res = re.findall('https://pbs.twimg.com(.*?)["\)]',content)
+    print (res)
