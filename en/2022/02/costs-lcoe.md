@@ -11,9 +11,9 @@ project size, different capital cost, risk, return, and capacities
 
 Levelized Cost of Hydrogen (LCOH)
 
-Similar to LCOE but for pure hydrogen generation. Since there are
-other routes to H2 generation other than electrolysis (therefore using
-electricity) such direct demonstration of a cost can be beneficial.
+Similar to LCOE but for pure hydrogen generation. There are multiple
+routes to H2 generation other than electrolysis (using electricity) a
+cost calculation of the final product can be beneficial.
 
 Simple LCOE Concept
 
