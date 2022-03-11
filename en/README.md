@@ -27,7 +27,7 @@ coming years..
 
 Should the forecasts materialize, such 'low renewable hydrogen costs
 could completely rewrite the energy map," says Martin Tengler, lead
-hydrogen analyst at BNEF. "It shows that in future, at least a third
+hydrogen analyst at BNEF. 'It shows that in future, at least a third
 of the world economy could be powered by clean energy for not a cent
 more than it pays for fossil fuels.'..
 
