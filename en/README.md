@@ -98,9 +98,9 @@ force them to get fixed"
 
 ---
 
-They got shaky legs there little bit.. US probably got them
-through Dubai, the place lives on intl connections, tourism, u can
-really clamp down on it.. But then backtracked on backtracking..
+They got shaky legs there little bit.. US probably slapped them a
+little through Dubai, the place lives on intl connections, tourism, u
+can really clamp down on it, but then backtracked on backtracking..
 Sup
 
 ---
