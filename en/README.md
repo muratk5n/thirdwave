@@ -131,7 +131,7 @@ expand it abroad -- through coercion, or sometimes by force.
 
 ---
 
-Surely 'not understanding' states like Russia cld be due to a
+'Not understanding' states like Russia cld be due to a
 progressive liberalism's mental block..  See [Meirsheimer](2022/03/liberal-dreams-intl-realities.md).
 
 ---
