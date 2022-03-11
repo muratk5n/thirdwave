@@ -79,6 +79,8 @@ means losing the war.  What started off as a desire to know why
 democracies don’t fight each other ended up telling us how nations
 fight and what they fight over.
 
+<a name='fidelche'/>
+
 Fidel and Che
 
 Lest there be doubt that those who share the risks of coming to power
