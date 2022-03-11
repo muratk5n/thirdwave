@@ -8,11 +8,12 @@ Toyota has it all - fuel cells, H2 combustion. Fantastic.
 
 ---
 
+This race already happened, the H2 car did great
+
 "At the end of April 2021, Toyota announced it would be testing the
 performance of a new hydrogen-fuelled internal combustion engine by
 installing it in a racecar that would compete in one of Japan’s
-toughest motorsports events: The NAPAC Fuji Super TEC 24 Hours [race
-already happened, the H2 car did great]"
+toughest motorsports events: The NAPAC Fuji Super TEC 24 Hours"
 
 [[-]](https://www.racecar-engineering.com/articles/toyota-debuts-hydrogen-fuelled-internal-combustion-race-engine/#:~:text=At%20the%20end%20of%20April,Fuji%20Super%20TEC%2024%20Hours.)
 
