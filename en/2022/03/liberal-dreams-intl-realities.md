@@ -50,17 +50,17 @@ unalienable Rights, that among these are Life, Liberty and the pursuit
 of Happiness.'..
 
 [But some] people feel so passionately about particular aspects of the
-good life that they cannot abide disagreement.  They find it
-impossible to believe that other worldviews can be held in good
-faith—the people who hold those views, they imagine, must be
-deliberately turning away from the truth and are perhaps evil. This
-intolerant mind-set makes them a threat not just to their antagonists
-but to liberal society itself.  The fact that not everyone will be
-committed to value pluralism brings us to the third prong in the
-liberal strategy: a strong state that sits above society and maintains
-order. The state is well suited for this task because, as Max Weber
-famously said, it holds a 'monopoly of the legitimate use of physical
-force within a given territory.'
+good life that they cannot abide disagreement. They find it impossible
+to believe that other worldviews can be held in good faith—the people
+who hold those views, they imagine, must be deliberately turning away
+from the truth and are perhaps evil. This intolerant mind-set makes
+them a threat not just to their antagonists but to liberal society
+itself.  The fact that not everyone will be committed to value
+pluralism brings us to the third prong in the liberal strategy: a
+strong state that sits above society and maintains order. The state is
+well suited for this task because, as Max Weber famously said, it
+holds a 'monopoly of the legitimate use of physical force within a
+given territory.'
 
 The state, to maintain order, assumes three principal roles. Most
 importantly, it acts as a night watchman that protects individual
@@ -72,15 +72,15 @@ lengths not to trample on individual rights. These rules allow
 individuals or groups to interact in civil ways as each pursues its
 own version of the good life. Finally, the state acts as an arbiter
 when serious disputes arise, to ensure that conflicts do not lead to
-violence. 10 The state, in other words, functions as rule maker,
-umpire, and night watchman.
+violence. The state, in other words, functions as rule maker, umpire,
+and night watchman.
 
 The liberal state obviously performs more functions than those aimed
 at keeping domestic order. Progressive liberals want the state to
 promote equal opportunity for its citizens and engage in other forms
 of social engineering as well. Modus vivendi liberals would surely
 object, but even they mostly agree that the state has to manage its
-economy and conduct foreign policy.  A host of other matters, such as
+economy and conduct foreign policy. A host of other matters, such as
 education, social security, housing, and labor relations, also require
 the attention of even a laissez-faire government, if it hopes to avoid
 economic depression, chaos, and unrest. In short, modern liberalism
@@ -123,7 +123,7 @@ status is, or whether they can afford the treatment. In effect, this
 law says that health care is a human right. In fact, Reagan said as
 early as 1961 that “any person in the United States who requires
 medical attention and cannot provide itfor himself should have it
-provided for him.” 62 Further evidence that Republicans recognize this
+provided for him”. Further evidence that Republicans recognize this
 right comes from the often-repeated slogan “repeal and replace.” They
 understand they cannot simply eliminate the Affordable Care Act but
 must substitute another system that aims to provide Americans with
