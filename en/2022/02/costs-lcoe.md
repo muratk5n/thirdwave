@@ -27,9 +27,16 @@ basis, compared to utility rates.
 
 Overnight cost
 
-The overnight cost is a part of the capital cost. It includes
-construction, system cost, procurement cost, engineering cost, cost of
-equipment, frst fuel load, and other costs.
+Overnight cost is the cost of a construction project if no interest
+was incurred during construction, as if the project was completed
+"overnight". The overnight cost is a part of the capital cost. It
+includes construction, system cost, procurement cost, engineering
+cost, cost of equipment, frst fuel load, and other costs. For quick
+comparisons, firms will look at what the cost of building a plant
+overnight would be or the overnight cost of capital. This is a
+hypothetical scenario because a plant cannot be constructed in one
+night, but it evaluates the cost of a plant if it were built right
+away, with current prices.
 
 Some Data Points
 
