@@ -88,8 +88,8 @@ by-product produced during the process – high-quality graphene"
 
 ---
 
-Thats good but fixing base energy infra (clean fuels) wld fix all
-pollution in one fell swoop. 
+Thats good but fixing the base energy infrastructure (using clean
+fuels everywhere) would fix all pollution in one fell swoop.
 
 "@shafikyaghmour
 
