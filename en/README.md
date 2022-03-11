@@ -144,7 +144,7 @@ got cucked.
 ---
 
 Putin finds those blind spots, and exploits them well. 'Rules based
-order' means ppl following them are predictable too.
+order' means ppl following them are predictable.
 
 ---
 
