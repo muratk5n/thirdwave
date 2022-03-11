@@ -2,7 +2,7 @@
 
 ---
 
-Toyota has it all - fuel cells, H2 combustion. Fantastic.
+Toyota has it all - fuel cells, H2 combustion. 
 
 <iframe width="95%" src="https://www.youtube.com/embed/2dgzKW8EKMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
