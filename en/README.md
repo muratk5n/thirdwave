@@ -143,8 +143,8 @@ got cucked.
 
 ---
 
-Putin finds those dead zones, blind spots, and exploits them
-well. 'Rules based order' means ppl following them are predictable too.
+Putin finds those blind spots, and exploits them well. 'Rules based
+order' means ppl following them are predictable too.
 
 ---
 
@@ -169,7 +169,7 @@ CNBC: "Deutsche Bank defends decision not to exit Russia: It's not
 
 ---
 
-That whole Polish jet deal talk was a total chaos
+That whole Polish jet deal talk was just sad
 
 ---
 
