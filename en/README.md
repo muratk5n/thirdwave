@@ -143,12 +143,6 @@ WION just called Pakistan a terrorist state 😂 Ok I see your bias..
 
 ---
 
-Is this name like Indian Amit, Patel? I knew an Amit Patel at
-school. The school had so many Amit Patels their usernames had to be
-numbered (my friend was apatel9)
-
----
-
 Al Jazeera has a reporter named Imran Khan. "Reporting from Kyiv" That
 guy needs a nickname.. I was like, 'why the f wld Pakistani PM wld go
 to Kyiv'?
