@@ -91,8 +91,7 @@ conversion capacity of up to 50,000 tonnes per annum (50KTPA) by 2027
 for export in MCH form to Japan, where the clean hydrogen will be
 distributed to Japanese industries through ENEOS’ refineries. Once
 onstream, the project could potentially be the first commercial scale
-hydrogen-to-MCH undertaking in the world. Its Final Investment
-Decision is expected by the end of 2023.
+hydrogen-to-MCH undertaking in the world...
 
 Through ENEOS, this hydrogen-to-MCH project has been selected as one
 of the Green Innovation Fund project by the Japanese Government, a
