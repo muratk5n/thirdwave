@@ -20,8 +20,8 @@ toluene in an electrochemical process using solar energy. The toluene
 was converted into a substance called methyl cyclohexane (MCH) using
 JXTG’s process powered by QUT’s solar arrays".
 
-Methyl cyclohexane is apparently a convenient carrier for H2, as
-liquid and at normal temparatures.
+Methyl cyclohexane is a convenient carrier for H2, as liquid and at
+normal temparatures.
 
 "Methyl cyclohexane is a clear colorless liquid with a petroleum-like
 odor. Flash point 25°F. Less dense than water and insoluble in
