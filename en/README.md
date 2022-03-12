@@ -203,7 +203,7 @@ in the supply chain to this point"
 
 ---
 
-Does not suggest total war from the RU side, yet.
+Does not suggest total war on the RU side, but that can change.
 
 [[-]](https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment-march-10)
 
