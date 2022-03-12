@@ -113,9 +113,8 @@ The Mandarin: "China plans to build 450 GW of wind and solar power in the desert
 
 'If more people had a voice outcome wld be different?'. The mass
 'having a voice' is less valuable than thought leaders thinking better
-who can then shape the opinion. Have a voice, fine, but wouldn't
-expect much from it. Society does not improve politically w people
-dancing on Tiktok.
+who can then shape the opinion. Have a voice, fine, but modern society
+does not improve politically through people dancing on Tiktok.
 
 "[2019] Zuckerberg says the Iraq War motivated him to create Facebook"
 
