@@ -163,11 +163,6 @@ this cld turn into another Aleppo, Grozny.
 
 ---
 
-CNBC: "Deutsche Bank defends decision not to exit Russia: It's not
-'practical' right now"
-
----
-
 That whole Polish jet deal talk was just sad
 
 ---

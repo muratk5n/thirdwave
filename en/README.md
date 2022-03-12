@@ -127,15 +127,6 @@ figure, US study suggests"
 
 ---
 
-Some Dems like Cuba, Castro. Or, they "like liking" Cuba.. Because
-they are mostly shitlibs, Cuba is their way of redeeming themselves --
-they butter up the US military, push for privatized healthcare, drone
-bunch of people to death but then 'they are friendly to Cuba' at least
-more than those 'crazy Republican guys over there'. And voila, all of
-a sudden they feel like a leftist again. Feels so good. 
-
----
-
 That soldier might have pulled the trigger but Fidel is the
 [true killer](2015/04/dictators-handbook-mesquita.md#fidelche)
 of Che.
