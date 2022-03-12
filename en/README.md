@@ -179,11 +179,6 @@ Here are some other Nazis
 
 ---
 
-Below is a general commentary on all electorate in all countries,
-around policy. 
-
----
-
 The same "people" wanted an Iraqi invasion after 9/11.
 
 ---
