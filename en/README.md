@@ -158,7 +158,7 @@ are u muckers? Poodle hawks for US.
 
 ---
 
-The same "people" wanted an Iraqi invasion after 9/11.
+"People" wanted an Iraqi invasion after 9/11 lets not forget.
 
 ---
 
