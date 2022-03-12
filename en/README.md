@@ -31,12 +31,11 @@ H2 Fuel News: "Floating green hydrogen production vessel under
 development.. A statement from RINA explained that the Thessalonica
 Hydroship will be able to produce renewable H2 by using wind and tidal
 stream turbines to generate the electricity to power the
-electrolysis. This way, using Floating production storage and
+electrolysis. This way, using Floating production storage and
 offloading (FPSO) is unnecessary, substantially reducing the overall
-levelized cost of energy (LCOE) to generate cost competitive H2 fuel.
-
-The vessel will be constructed using off-the-shelf electrolyzers and
-ready-made wind and tidal stream turbine"
+levelized cost of energy (LCOE) to generate cost competitive H2
+fuel. The vessel will be constructed using off-the-shelf electrolyzers
+and ready-made wind and tidal stream turbine"
 
 ---
 
