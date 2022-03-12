@@ -72,10 +72,10 @@ supply chain
 
 "Traditionally, the Scottish Highlands have been renowned for majestic
 and wild scenery, as well as its famous whiskey, but soon the region
-will also be well-known a network of green hydrogen hubs. A Memorandum
-of Understanding (MoU) inked between H2 Green Limited and Getech has
-set out to carry out the vision of the proposed hubs, in an effort to
-accelerate decarbonisation in the Highlands"
+will also be well-known a network of green hydrogen hubs. [An MoU]
+inked between H2 Green Limited and Getech has set out to carry out the
+vision of the proposed hubs, in an effort to accelerate
+decarbonisation in the Highlands"
 
 ---
 
