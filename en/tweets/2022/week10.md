@@ -45,7 +45,7 @@ compete in one of Japan's toughest motorsport events"
 
 Started a doc on energy plant costs, LCOE, and 'overnight costs' 🚧
 
-[[-]](2022/02/costs-lcoe.md)
+[[-]](../../2022/02/costs-lcoe.md)
 
 ---
 
@@ -135,7 +135,7 @@ other side' to the same.
 ---
 
 'Not understanding' states like Russia cld be due to liberalism's
-mental block..  See [Meirsheimer](2022/03/liberal-dreams-intl-realities.md).
+mental block..  See [Meirsheimer](../../2022/03/liberal-dreams-intl-realities.md).
 
 ---
 
@@ -318,7 +318,7 @@ hits wheat imports"
 
 Collated comments on inflation
 
-[[-]](2018/05/inflation.md)
+[[-]](../../2018/05/inflation.md)
 
 ---
 
@@ -348,7 +348,7 @@ industry in an effort to decarbonise the future of flying"
 
 ---
 
-[Bancor](2019/06/bancor.md)
+[Bancor](../../2019/06/bancor.md)
 
 ---
 
@@ -620,7 +620,7 @@ Comrade Ho
 Fought for self-determination but then his system devolved into
 dictatorship? Great job, Ho
 
-[[-]](2022/03/principles-of-int-politics-mesquita.md)
+[[-]](../../2022/03/principles-of-int-politics-mesquita.md)
 
 ---
 
@@ -648,7 +648,7 @@ Gravitas Plus: Did NATO push Ukraine into war?
 
 Stalingrad, "the gap", Ukraine
 
-[[-]](2017/07/the-next-decade-friedman.md#ukrgap)
+[[-]](../../2017/07/the-next-decade-friedman.md#ukrgap)
 
 ---
 
