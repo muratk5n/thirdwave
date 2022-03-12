@@ -165,10 +165,11 @@ took pieces of the country, what else would there be a 'rise' of?
 
 ---
 
-That was Iranian linked Hezbollah BTW. Were they expounding the
-principles of the Aryan race, believe they came from Atlantis?
-No. They are flashing the salute to troll Jewish Israelis.. This is
-the extent of "Nazism" in Ukraine.
+That is Iranian linked Hezbollah in the photo (taken from a
+funeral). Was Hezbollah expounding the principles of the Aryan race in
+that photo, believe they came from Atlantis?  No. They are flashing
+the salute to troll Jewish Israelis.. This is the extent of "Nazism"
+in Ukraine.
 
 ---
 
