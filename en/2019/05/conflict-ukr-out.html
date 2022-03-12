@@ -1,0 +1,1062 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_3eda9001a1fc4930848f56dbace47b0f {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_3eda9001a1fc4930848f56dbace47b0f" ></div>
+        
+</body>
+<script>    
+    
+            var map_3eda9001a1fc4930848f56dbace47b0f = L.map(
+                "map_3eda9001a1fc4930848f56dbace47b0f",
+                {
+                    center: [34.933582413578954, 42.04398758620605],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 7,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_ca7d1f4f53514518a8648756f37e6afc = L.tileLayer(
+                "https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.jpg",
+                {"attribution": "Map tiles by \u003ca href=\"http://stamen.com\"\u003eStamen Design\u003c/a\u003e, under \u003ca href=\"http://creativecommons.org/licenses/by/3.0\"\u003eCC BY 3.0\u003c/a\u003e. Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://creativecommons.org/licenses/by-sa/3.0\"\u003eCC BY SA\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_3eda9001a1fc4930848f56dbace47b0f);
+        
+    
+            var marker_984d1e0fc3f44774af49255d1203409d = L.marker(
+                [35.0, 38.0],
+                {}
+            ).addTo(map_3eda9001a1fc4930848f56dbace47b0f);
+        
+    
+        var popup_a6094a1b57de48668b5d0a42ef0dfdfb = L.popup({"maxWidth": "100%"});
+
+        
+            var html_6b3fc23c853b4cd4a4eed8c6479c8503 = $(`<div id="html_6b3fc23c853b4cd4a4eed8c6479c8503" style="width: 100.0%; height: 100.0%;"><a href='https://www.middleeasteye.net/news/russia-ukraine-war-israel-airline-mir-payment-system-slammed' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_a6094a1b57de48668b5d0a42ef0dfdfb.setContent(html_6b3fc23c853b4cd4a4eed8c6479c8503);
+        
+
+        marker_984d1e0fc3f44774af49255d1203409d.bindPopup(popup_a6094a1b57de48668b5d0a42ef0dfdfb)
+        ;
+
+        
+    
+    
+            marker_984d1e0fc3f44774af49255d1203409d.bindTooltip(
+                `<div>
+                     ISR
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_2a5d56ecec7b4f98aeca2bd0b5f6b4a8 = L.marker(
+                [33.0, 44.0],
+                {}
+            ).addTo(map_3eda9001a1fc4930848f56dbace47b0f);
+        
+    
+        var popup_0d80e8bca11e48ee8182cffa051cb49a = L.popup({"maxWidth": "100%"});
+
+        
+            var html_be3fbb9ec93a4e76a30a5ec104559d85 = $(`<div id="html_be3fbb9ec93a4e76a30a5ec104559d85" style="width: 100.0%; height: 100.0%;"><a href='https://www.voanews.com/a/journalists-at-slovenian-public-broadcaster-push-back-at-government-critics-/6480272.html' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_0d80e8bca11e48ee8182cffa051cb49a.setContent(html_be3fbb9ec93a4e76a30a5ec104559d85);
+        
+
+        marker_2a5d56ecec7b4f98aeca2bd0b5f6b4a8.bindPopup(popup_0d80e8bca11e48ee8182cffa051cb49a)
+        ;
+
+        
+    
+    
+            marker_2a5d56ecec7b4f98aeca2bd0b5f6b4a8.bindTooltip(
+                `<div>
+                     USA
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_105ba3d048eb492d80b1ed8d9e7a53e0 = L.marker(
+                [33.5, 36.3],
+                {}
+            ).addTo(map_3eda9001a1fc4930848f56dbace47b0f);
+        
+    
+        var popup_3dbd8ae929814aa088fc39990937013a = L.popup({"maxWidth": "100%"});
+
+        
+            var html_9f1fa27527ab4476a15cb14a655e17ae = $(`<div id="html_9f1fa27527ab4476a15cb14a655e17ae" style="width: 100.0%; height: 100.0%;"><a href='https://www.devdiscourse.com/article/law-order/1954339-iran-vows-to-avenge-two-irgc-members-killed-in-israeli-attack-in-syria--press-tv' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_3dbd8ae929814aa088fc39990937013a.setContent(html_9f1fa27527ab4476a15cb14a655e17ae);
+        
+
+        marker_105ba3d048eb492d80b1ed8d9e7a53e0.bindPopup(popup_3dbd8ae929814aa088fc39990937013a)
+        ;
+
+        
+    
+    
+            marker_105ba3d048eb492d80b1ed8d9e7a53e0.bindTooltip(
+                `<div>
+                     ISR
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_2c23966472f64bdeb17bc0b217ff36f0 = L.marker(
+                [33.5, 36.3],
+                {}
+            ).addTo(map_3eda9001a1fc4930848f56dbace47b0f);
+        
+    
+        var popup_4c41a98f38a34c58bcc9ff92e2b85d96 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_6cd24f96de87435d839b3b8257183c45 = $(`<div id="html_6cd24f96de87435d839b3b8257183c45" style="width: 100.0%; height: 100.0%;"><a href='https://schema-root.org/commerce/corporations/military/mercenaries/' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_4c41a98f38a34c58bcc9ff92e2b85d96.setContent(html_6cd24f96de87435d839b3b8257183c45);
+        
+
+        marker_2c23966472f64bdeb17bc0b217ff36f0.bindPopup(popup_4c41a98f38a34c58bcc9ff92e2b85d96)
+        ;
+
+        
+    
+    
+            marker_2c23966472f64bdeb17bc0b217ff36f0.bindTooltip(
+                `<div>
+                     UKR
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_431b494df5c44e66b9cec07f98b0f0e9 = L.marker(
+                [33.5, 36.3],
+                {}
+            ).addTo(map_3eda9001a1fc4930848f56dbace47b0f);
+        
+    
+        var popup_c0f217aad2564daea83cbc1675c08bc5 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_9079746fbc9c4446bb3b086625fc03b9 = $(`<div id="html_9079746fbc9c4446bb3b086625fc03b9" style="width: 100.0%; height: 100.0%;"><a href='https://www.jns.org/syrian-foreign-minister-says-country-can-respond-any-day-to-israeli-airstrikes/' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_c0f217aad2564daea83cbc1675c08bc5.setContent(html_9079746fbc9c4446bb3b086625fc03b9);
+        
+
+        marker_431b494df5c44e66b9cec07f98b0f0e9.bindPopup(popup_c0f217aad2564daea83cbc1675c08bc5)
+        ;
+
+        
+    
+    
+            marker_431b494df5c44e66b9cec07f98b0f0e9.bindTooltip(
+                `<div>
+                     SYR
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_c85a007ad3dd4e18a6bb01f10fdaa906 = L.marker(
+                [33.0, 44.0],
+                {}
+            ).addTo(map_3eda9001a1fc4930848f56dbace47b0f);
+        
+    
+        var popup_bfbcb8f90a04440d9afe8c8ee1f9e32a = L.popup({"maxWidth": "100%"});
+
+        
+            var html_b5b6ab4164da483caa177b7682851619 = $(`<div id="html_b5b6ab4164da483caa177b7682851619" style="width: 100.0%; height: 100.0%;"><a href='http://www.tnledger.com/editorial/Article.aspx?id=151273' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_bfbcb8f90a04440d9afe8c8ee1f9e32a.setContent(html_b5b6ab4164da483caa177b7682851619);
+        
+
+        marker_c85a007ad3dd4e18a6bb01f10fdaa906.bindPopup(popup_bfbcb8f90a04440d9afe8c8ee1f9e32a)
+        ;
+
+        
+    
+    
+            marker_c85a007ad3dd4e18a6bb01f10fdaa906.bindTooltip(
+                `<div>
+                     IRQ
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_2d6d3cfb0d2941e1a6e2b067bbfebc54 = L.marker(
+                [36.3078, 36.6889],
+                {}
+            ).addTo(map_3eda9001a1fc4930848f56dbace47b0f);
+        
+    
+        var popup_79844fb119df4598a8cb0cfe4e1242be = L.popup({"maxWidth": "100%"});
+
+        
+            var html_72c223ddeb1f4da988801be4c8038f5e = $(`<div id="html_72c223ddeb1f4da988801be4c8038f5e" style="width: 100.0%; height: 100.0%;"><a href='https://www.theguardian.com/world/2022/mar/11/islamic-state-names-new-leader-confirming-us-raid-killed-predecessor' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_79844fb119df4598a8cb0cfe4e1242be.setContent(html_72c223ddeb1f4da988801be4c8038f5e);
+        
+
+        marker_2d6d3cfb0d2941e1a6e2b067bbfebc54.bindPopup(popup_79844fb119df4598a8cb0cfe4e1242be)
+        ;
+
+        
+    
+    
+            marker_2d6d3cfb0d2941e1a6e2b067bbfebc54.bindTooltip(
+                `<div>
+                     SYR
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_6c38058c7b314c9fafdddec7d361357c = L.marker(
+                [33.0, 44.0],
+                {}
+            ).addTo(map_3eda9001a1fc4930848f56dbace47b0f);
+        
+    
+        var popup_1a87299423b64a2aa519a63c8db6fdb9 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_6e284b254feb4b619aeecb59800469a1 = $(`<div id="html_6e284b254feb4b619aeecb59800469a1" style="width: 100.0%; height: 100.0%;"><a href='https://torontosun.com/news/world/team-canada-top-canadian-sniper-hunts-invaders-in-ukraine-war-zone' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_1a87299423b64a2aa519a63c8db6fdb9.setContent(html_6e284b254feb4b619aeecb59800469a1);
+        
+
+        marker_6c38058c7b314c9fafdddec7d361357c.bindPopup(popup_1a87299423b64a2aa519a63c8db6fdb9)
+        ;
+
+        
+    
+    
+            marker_6c38058c7b314c9fafdddec7d361357c.bindTooltip(
+                `<div>
+                     IRQ
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_9eae4971382d46e399170cb8133f9c7f = L.marker(
+                [35.0, 38.0],
+                {}
+            ).addTo(map_3eda9001a1fc4930848f56dbace47b0f);
+        
+    
+        var popup_e6758b04935249c9ac9948e7a5b8d12f = L.popup({"maxWidth": "100%"});
+
+        
+            var html_3ed89c6e66c240a4b65987ee873eed66 = $(`<div id="html_3ed89c6e66c240a4b65987ee873eed66" style="width: 100.0%; height: 100.0%;"><a href='https://www.foxnews.com/world/ukraine-russia-un-security-council-biolabs' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_e6758b04935249c9ac9948e7a5b8d12f.setContent(html_3ed89c6e66c240a4b65987ee873eed66);
+        
+
+        marker_9eae4971382d46e399170cb8133f9c7f.bindPopup(popup_e6758b04935249c9ac9948e7a5b8d12f)
+        ;
+
+        
+    
+    
+            marker_9eae4971382d46e399170cb8133f9c7f.bindTooltip(
+                `<div>
+                     SYR
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_3d61a0487ab047f490ca797071f52df3 = L.marker(
+                [35.0, 38.0],
+                {}
+            ).addTo(map_3eda9001a1fc4930848f56dbace47b0f);
+        
+    
+        var popup_a18ff7df97904f7683e7b149f92a967a = L.popup({"maxWidth": "100%"});
+
+        
+            var html_d8ccbe5984fc47788fcde7ffb8661732 = $(`<div id="html_d8ccbe5984fc47788fcde7ffb8661732" style="width: 100.0%; height: 100.0%;"><a href='https://www.aljazeera.com/news/2022/3/10/isil-confirms-leader-killed-in-syria' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_a18ff7df97904f7683e7b149f92a967a.setContent(html_d8ccbe5984fc47788fcde7ffb8661732);
+        
+
+        marker_3d61a0487ab047f490ca797071f52df3.bindPopup(popup_a18ff7df97904f7683e7b149f92a967a)
+        ;
+
+        
+    
+    
+            marker_3d61a0487ab047f490ca797071f52df3.bindTooltip(
+                `<div>
+                     TUR
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_562fd4a0f10e4382b780eb789220d1d0 = L.marker(
+                [33.5, 36.3],
+                {}
+            ).addTo(map_3eda9001a1fc4930848f56dbace47b0f);
+        
+    
+        var popup_85f4b94ea00441e4b6eb2fa8f9323c3c = L.popup({"maxWidth": "100%"});
+
+        
+            var html_ead787af786448748b5ba156a47fa5b8 = $(`<div id="html_ead787af786448748b5ba156a47fa5b8" style="width: 100.0%; height: 100.0%;"><a href='https://eaworldview.com/2022/03/israel-strikes-damascus/' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_85f4b94ea00441e4b6eb2fa8f9323c3c.setContent(html_ead787af786448748b5ba156a47fa5b8);
+        
+
+        marker_562fd4a0f10e4382b780eb789220d1d0.bindPopup(popup_85f4b94ea00441e4b6eb2fa8f9323c3c)
+        ;
+
+        
+    
+    
+            marker_562fd4a0f10e4382b780eb789220d1d0.bindTooltip(
+                `<div>
+                     ISR
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_4e13f3c3a7084e549264fe299d247f8b = L.marker(
+                [33.1259, 35.8246],
+                {}
+            ).addTo(map_3eda9001a1fc4930848f56dbace47b0f);
+        
+    
+        var popup_2ae6f0388046455bb9089db0f146e3db = L.popup({"maxWidth": "100%"});
+
+        
+            var html_0cec5eaa6abb480fabe4fcde92336501 = $(`<div id="html_0cec5eaa6abb480fabe4fcde92336501" style="width: 100.0%; height: 100.0%;"><a href='https://www.israelnationalnews.com/news/323413' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_2ae6f0388046455bb9089db0f146e3db.setContent(html_0cec5eaa6abb480fabe4fcde92336501);
+        
+
+        marker_4e13f3c3a7084e549264fe299d247f8b.bindPopup(popup_2ae6f0388046455bb9089db0f146e3db)
+        ;
+
+        
+    
+    
+            marker_4e13f3c3a7084e549264fe299d247f8b.bindTooltip(
+                `<div>
+                     SYR
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_6e3ac35431894c028bf80f378c5c188e = L.marker(
+                [40.0, 45.0],
+                {}
+            ).addTo(map_3eda9001a1fc4930848f56dbace47b0f);
+        
+    
+        var popup_2fea79af426e43049126c010b327ca2a = L.popup({"maxWidth": "100%"});
+
+        
+            var html_3868e89b76844867b83630c81d52c0f5 = $(`<div id="html_3868e89b76844867b83630c81d52c0f5" style="width: 100.0%; height: 100.0%;"><a href='https://www.nytimes.com/2022/03/11/travel/ukraine-architecture-war.html' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_2fea79af426e43049126c010b327ca2a.setContent(html_3868e89b76844867b83630c81d52c0f5);
+        
+
+        marker_6e3ac35431894c028bf80f378c5c188e.bindPopup(popup_2fea79af426e43049126c010b327ca2a)
+        ;
+
+        
+    
+    
+            marker_6e3ac35431894c028bf80f378c5c188e.bindTooltip(
+                `<div>
+                     RUS
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_d5f960d2e47d4200acdf31d2d229ab64 = L.marker(
+                [33.8719, 35.5097],
+                {}
+            ).addTo(map_3eda9001a1fc4930848f56dbace47b0f);
+        
+    
+        var popup_fa4d11fa9bae4321a6ce33c253a6d2b8 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_04cf450a07fe4ce38eba72c4dd9a592d = $(`<div id="html_04cf450a07fe4ce38eba72c4dd9a592d" style="width: 100.0%; height: 100.0%;"><a href='https://schema-root.org/region/middle_east/lebanon/militants/hezbollah/' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_fa4d11fa9bae4321a6ce33c253a6d2b8.setContent(html_04cf450a07fe4ce38eba72c4dd9a592d);
+        
+
+        marker_d5f960d2e47d4200acdf31d2d229ab64.bindPopup(popup_fa4d11fa9bae4321a6ce33c253a6d2b8)
+        ;
+
+        
+    
+    
+            marker_d5f960d2e47d4200acdf31d2d229ab64.bindTooltip(
+                `<div>
+                     YEM
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_d85bf68b1d4e4c2e8a3040cb59d7ca38 = L.marker(
+                [33.5, 36.3],
+                {}
+            ).addTo(map_3eda9001a1fc4930848f56dbace47b0f);
+        
+    
+        var popup_6b08b1017896489a88c6232507e20a8f = L.popup({"maxWidth": "100%"});
+
+        
+            var html_eef9c8315b4d498f864bc7291e6460dc = $(`<div id="html_eef9c8315b4d498f864bc7291e6460dc" style="width: 100.0%; height: 100.0%;"><a href='https://www.economist.com/news/2022/03/11/could-russia-use-chemical-weapons-in-ukraine' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_6b08b1017896489a88c6232507e20a8f.setContent(html_eef9c8315b4d498f864bc7291e6460dc);
+        
+
+        marker_d85bf68b1d4e4c2e8a3040cb59d7ca38.bindPopup(popup_6b08b1017896489a88c6232507e20a8f)
+        ;
+
+        
+    
+    
+            marker_d85bf68b1d4e4c2e8a3040cb59d7ca38.bindTooltip(
+                `<div>
+                     GBR
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_efe1c081d3ad4ebab760fb94cc667b4e = L.marker(
+                [35.0, 38.0],
+                {}
+            ).addTo(map_3eda9001a1fc4930848f56dbace47b0f);
+        
+    
+        var popup_82b7480f60f643f5a311dd58c25136d7 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_ebd55e294d6047ed85da0c57906682d3 = $(`<div id="html_ebd55e294d6047ed85da0c57906682d3" style="width: 100.0%; height: 100.0%;"><a href='https://www.msn.com/en-us/news/world/ukrainian-embassy-in-us-americans-want-to-join-fight-vs-russia/ar-AAUTPcm' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_82b7480f60f643f5a311dd58c25136d7.setContent(html_ebd55e294d6047ed85da0c57906682d3);
+        
+
+        marker_efe1c081d3ad4ebab760fb94cc667b4e.bindPopup(popup_82b7480f60f643f5a311dd58c25136d7)
+        ;
+
+        
+    
+    
+            marker_efe1c081d3ad4ebab760fb94cc667b4e.bindTooltip(
+                `<div>
+                     IRQ
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_4831eaa1912d4f27a72e8c2f9ee13e16 = L.marker(
+                [35.0, 38.0],
+                {}
+            ).addTo(map_3eda9001a1fc4930848f56dbace47b0f);
+        
+    
+        var popup_10d75a04ed364c7685bc8fabd2a1e094 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_de163bc1d7364170a4533e1df2e4991a = $(`<div id="html_de163bc1d7364170a4533e1df2e4991a" style="width: 100.0%; height: 100.0%;"><a href='https://www.bbc.com/news/world-europe-60705486' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_10d75a04ed364c7685bc8fabd2a1e094.setContent(html_de163bc1d7364170a4533e1df2e4991a);
+        
+
+        marker_4831eaa1912d4f27a72e8c2f9ee13e16.bindPopup(popup_10d75a04ed364c7685bc8fabd2a1e094)
+        ;
+
+        
+    
+    
+            marker_4831eaa1912d4f27a72e8c2f9ee13e16.bindTooltip(
+                `<div>
+                     USA
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_40afdddb53df4fc1ba5b6bbd2d681eac = L.marker(
+                [33.5, 36.3],
+                {}
+            ).addTo(map_3eda9001a1fc4930848f56dbace47b0f);
+        
+    
+        var popup_9c0ed2b878a74154be7ce085a466a8bc = L.popup({"maxWidth": "100%"});
+
+        
+            var html_c5fe00a0dba24589976c5aea7d3d6d7f = $(`<div id="html_c5fe00a0dba24589976c5aea7d3d6d7f" style="width: 100.0%; height: 100.0%;"><a href='https://www.timesofisrael.com/liveblog_entry/syria-claims-two-civilians-killed-in-israeli-attack-near-damascus/' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_9c0ed2b878a74154be7ce085a466a8bc.setContent(html_c5fe00a0dba24589976c5aea7d3d6d7f);
+        
+
+        marker_40afdddb53df4fc1ba5b6bbd2d681eac.bindPopup(popup_9c0ed2b878a74154be7ce085a466a8bc)
+        ;
+
+        
+    
+    
+            marker_40afdddb53df4fc1ba5b6bbd2d681eac.bindTooltip(
+                `<div>
+                     SYR
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_4d881f1a24b948ae8dfe857f02928106 = L.marker(
+                [33.1259, 35.8246],
+                {}
+            ).addTo(map_3eda9001a1fc4930848f56dbace47b0f);
+        
+    
+        var popup_5e1c51f491fd4e17a9a8e5ca972ae8a7 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_ce6dc99eb91440ffbd61a50c0db0d7c7 = $(`<div id="html_ce6dc99eb91440ffbd61a50c0db0d7c7" style="width: 100.0%; height: 100.0%;"><a href='https://www.israelnationalnews.com/news/323413' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_5e1c51f491fd4e17a9a8e5ca972ae8a7.setContent(html_ce6dc99eb91440ffbd61a50c0db0d7c7);
+        
+
+        marker_4d881f1a24b948ae8dfe857f02928106.bindPopup(popup_5e1c51f491fd4e17a9a8e5ca972ae8a7)
+        ;
+
+        
+    
+    
+            marker_4d881f1a24b948ae8dfe857f02928106.bindTooltip(
+                `<div>
+                     SYR
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_35986c6346bd46d28c311dbb394f2dd2 = L.marker(
+                [33.0, 44.0],
+                {}
+            ).addTo(map_3eda9001a1fc4930848f56dbace47b0f);
+        
+    
+        var popup_28ee831aaec24b76b151457dd51422ac = L.popup({"maxWidth": "100%"});
+
+        
+            var html_1d330e05ce1d4d2d92b140935b34980f = $(`<div id="html_1d330e05ce1d4d2d92b140935b34980f" style="width: 100.0%; height: 100.0%;"><a href='https://www.jns.org/idf-says-it-downed-iranian-drones-in-foreign-countries-using-f-35-jets/' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_28ee831aaec24b76b151457dd51422ac.setContent(html_1d330e05ce1d4d2d92b140935b34980f);
+        
+
+        marker_35986c6346bd46d28c311dbb394f2dd2.bindPopup(popup_28ee831aaec24b76b151457dd51422ac)
+        ;
+
+        
+    
+    
+            marker_35986c6346bd46d28c311dbb394f2dd2.bindTooltip(
+                `<div>
+                     ISR
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_f858589fcfb045a18cd1284e28e171c0 = L.marker(
+                [38.1701, 41.1477],
+                {}
+            ).addTo(map_3eda9001a1fc4930848f56dbace47b0f);
+        
+    
+        var popup_b62744d8f7434de4ac75747e05c20159 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_00b0588663d64ec992033ea1ed090c21 = $(`<div id="html_00b0588663d64ec992033ea1ed090c21" style="width: 100.0%; height: 100.0%;"><a href='https://www.gatestoneinstitute.org/18272/turkey-war-crimes' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_b62744d8f7434de4ac75747e05c20159.setContent(html_00b0588663d64ec992033ea1ed090c21);
+        
+
+        marker_f858589fcfb045a18cd1284e28e171c0.bindPopup(popup_b62744d8f7434de4ac75747e05c20159)
+        ;
+
+        
+    
+    
+            marker_f858589fcfb045a18cd1284e28e171c0.bindTooltip(
+                `<div>
+                     SYR
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_ab8b561a4d3e4a728a96da7cae2a32e6 = L.marker(
+                [36.2028, 37.1586],
+                {}
+            ).addTo(map_3eda9001a1fc4930848f56dbace47b0f);
+        
+    
+        var popup_37d1e98db44c493e90aa10a990a40bde = L.popup({"maxWidth": "100%"});
+
+        
+            var html_1fc12193d12d4159b7a3e0a142b210f8 = $(`<div id="html_1fc12193d12d4159b7a3e0a142b210f8" style="width: 100.0%; height: 100.0%;"><a href='https://news.wfsu.org/all-npr-news/2022-03-07/russia-is-trying-to-recruit-syrians-to-fight-in-ukraine-u-s-says' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_37d1e98db44c493e90aa10a990a40bde.setContent(html_1fc12193d12d4159b7a3e0a142b210f8);
+        
+
+        marker_ab8b561a4d3e4a728a96da7cae2a32e6.bindPopup(popup_37d1e98db44c493e90aa10a990a40bde)
+        ;
+
+        
+    
+    
+            marker_ab8b561a4d3e4a728a96da7cae2a32e6.bindTooltip(
+                `<div>
+                     SYR
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_f75ada2072ec44eaad685c952332a600 = L.marker(
+                [36.2028, 37.1586],
+                {}
+            ).addTo(map_3eda9001a1fc4930848f56dbace47b0f);
+        
+    
+        var popup_cb80acfb325c480b9e8cebdf260c5e61 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_7eb925abb57e4c06bacf457ba2dd0c08 = $(`<div id="html_7eb925abb57e4c06bacf457ba2dd0c08" style="width: 100.0%; height: 100.0%;"><a href='https://www.wprl.org/npr-news/2022-03-07/russia-is-trying-to-recruit-syrians-to-fight-in-ukraine-u-s-says' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_cb80acfb325c480b9e8cebdf260c5e61.setContent(html_7eb925abb57e4c06bacf457ba2dd0c08);
+        
+
+        marker_f75ada2072ec44eaad685c952332a600.bindPopup(popup_cb80acfb325c480b9e8cebdf260c5e61)
+        ;
+
+        
+    
+    
+            marker_f75ada2072ec44eaad685c952332a600.bindTooltip(
+                `<div>
+                     SYR
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_5282b10cb92c4674b0fb4a2ae2c0c06b = L.marker(
+                [40.0, 45.0],
+                {}
+            ).addTo(map_3eda9001a1fc4930848f56dbace47b0f);
+        
+    
+        var popup_0967788cabc441009ef87ad85ee39e51 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_49d378256b7f45e3ab817752efcd1105 = $(`<div id="html_49d378256b7f45e3ab817752efcd1105" style="width: 100.0%; height: 100.0%;"><a href='https://www.latimes.com/california/story/2022-03-07/two-men-sentenced-hate-motivated-attack-at-turkish-restaurant-in-beverly-hills' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_0967788cabc441009ef87ad85ee39e51.setContent(html_49d378256b7f45e3ab817752efcd1105);
+        
+
+        marker_5282b10cb92c4674b0fb4a2ae2c0c06b.bindPopup(popup_0967788cabc441009ef87ad85ee39e51)
+        ;
+
+        
+    
+    
+            marker_5282b10cb92c4674b0fb4a2ae2c0c06b.bindTooltip(
+                `<div>
+                     TUR
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_b20857a5c5ef49c795a9819ad9d174e9 = L.marker(
+                [33.5, 36.3],
+                {}
+            ).addTo(map_3eda9001a1fc4930848f56dbace47b0f);
+        
+    
+        var popup_5344e256903a4d038367e84ec54fd15a = L.popup({"maxWidth": "100%"});
+
+        
+            var html_db84637c0d634c3498477f014de0c838 = $(`<div id="html_db84637c0d634c3498477f014de0c838" style="width: 100.0%; height: 100.0%;"><a href='https://www.middleeastmonitor.com/20220309-iran-admits-2-irgc-members-killed-by-israel-strike-in-syria/' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_5344e256903a4d038367e84ec54fd15a.setContent(html_db84637c0d634c3498477f014de0c838);
+        
+
+        marker_b20857a5c5ef49c795a9819ad9d174e9.bindPopup(popup_5344e256903a4d038367e84ec54fd15a)
+        ;
+
+        
+    
+    
+            marker_b20857a5c5ef49c795a9819ad9d174e9.bindTooltip(
+                `<div>
+                     IRN
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_924fbfeaced34391902a2220a483db2f = L.marker(
+                [35.9306, 36.6339],
+                {}
+            ).addTo(map_3eda9001a1fc4930848f56dbace47b0f);
+        
+    
+        var popup_4f5a23efe2034d2ba9f3f51f9eed68c5 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_b9b33a84d5c64aa4808e800679b393be = $(`<div id="html_b9b33a84d5c64aa4808e800679b393be" style="width: 100.0%; height: 100.0%;"><a href='https://www.heritage.org/middle-east/commentary/putin-weaponizes-refugees-ukraine-just-he-did-syria' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_4f5a23efe2034d2ba9f3f51f9eed68c5.setContent(html_b9b33a84d5c64aa4808e800679b393be);
+        
+
+        marker_924fbfeaced34391902a2220a483db2f.bindPopup(popup_4f5a23efe2034d2ba9f3f51f9eed68c5)
+        ;
+
+        
+    
+    
+            marker_924fbfeaced34391902a2220a483db2f.bindTooltip(
+                `<div>
+                     RUS
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_6c88e8f8f9714f3894f223fa4376d8af = L.marker(
+                [33.0, 44.0],
+                {}
+            ).addTo(map_3eda9001a1fc4930848f56dbace47b0f);
+        
+    
+        var popup_df5be59b6416432397a8d2465c33c078 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_a3856414583f40b7ac21a7b81df02dbe = $(`<div id="html_a3856414583f40b7ac21a7b81df02dbe" style="width: 100.0%; height: 100.0%;"><a href='https://www.veteranstoday.com/2022/03/10/around-100-americans-screened-to-join-ukrainian-forces-via-zoom/' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_df5be59b6416432397a8d2465c33c078.setContent(html_a3856414583f40b7ac21a7b81df02dbe);
+        
+
+        marker_6c88e8f8f9714f3894f223fa4376d8af.bindPopup(popup_df5be59b6416432397a8d2465c33c078)
+        ;
+
+        
+    
+    
+            marker_6c88e8f8f9714f3894f223fa4376d8af.bindTooltip(
+                `<div>
+                     USA
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_1335a81735004110a1c9a88a7c8d12c6 = L.marker(
+                [40.1811, 44.5136],
+                {}
+            ).addTo(map_3eda9001a1fc4930848f56dbace47b0f);
+        
+    
+        var popup_74b67f31c3524921a2e95367ce4859ef = L.popup({"maxWidth": "100%"});
+
+        
+            var html_29acb3b28d1247cfa953d46a3c366b26 = $(`<div id="html_29acb3b28d1247cfa953d46a3c366b26" style="width: 100.0%; height: 100.0%;"><a href='https://www.armenpress.am/eng/news/1077296/' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_74b67f31c3524921a2e95367ce4859ef.setContent(html_29acb3b28d1247cfa953d46a3c366b26);
+        
+
+        marker_1335a81735004110a1c9a88a7c8d12c6.bindPopup(popup_74b67f31c3524921a2e95367ce4859ef)
+        ;
+
+        
+    
+    
+            marker_1335a81735004110a1c9a88a7c8d12c6.bindTooltip(
+                `<div>
+                     ARM
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_bcdeaadcab23411093c34c0df3f29c46 = L.marker(
+                [33.0, 44.0],
+                {}
+            ).addTo(map_3eda9001a1fc4930848f56dbace47b0f);
+        
+    
+        var popup_aa77184f0e7e48fbaba5ff8577566815 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_295336ec4d324ab398ffd1e21ab9399f = $(`<div id="html_295336ec4d324ab398ffd1e21ab9399f" style="width: 100.0%; height: 100.0%;"><a href='https://dailyridge.com/2020/02/04/u-s-army-reserve-captain-reads-to-preschool-students-upon-returning-home/' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_aa77184f0e7e48fbaba5ff8577566815.setContent(html_295336ec4d324ab398ffd1e21ab9399f);
+        
+
+        marker_bcdeaadcab23411093c34c0df3f29c46.bindPopup(popup_aa77184f0e7e48fbaba5ff8577566815)
+        ;
+
+        
+    
+    
+            marker_bcdeaadcab23411093c34c0df3f29c46.bindTooltip(
+                `<div>
+                     IRN
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_bb18a4ac429d4b9c887f06b4f466481b = L.marker(
+                [33.3386, 44.3939],
+                {}
+            ).addTo(map_3eda9001a1fc4930848f56dbace47b0f);
+        
+    
+        var popup_5a2c1dc6aaea4b5db0c9089b7e9c98c4 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_a1153f27eb1c41238c5101e3d9ab8a34 = $(`<div id="html_a1153f27eb1c41238c5101e3d9ab8a34" style="width: 100.0%; height: 100.0%;"><a href='https://kesq.com/news/2022/03/09/iraq-weapons-inspections-fast-facts-2/' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_5a2c1dc6aaea4b5db0c9089b7e9c98c4.setContent(html_a1153f27eb1c41238c5101e3d9ab8a34);
+        
+
+        marker_bb18a4ac429d4b9c887f06b4f466481b.bindPopup(popup_5a2c1dc6aaea4b5db0c9089b7e9c98c4)
+        ;
+
+        
+    
+    
+            marker_bb18a4ac429d4b9c887f06b4f466481b.bindTooltip(
+                `<div>
+                     GBR
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_e14d17d0a2fc42d29d370bee0cc5225f = L.marker(
+                [39.7028, 42.1456],
+                {}
+            ).addTo(map_3eda9001a1fc4930848f56dbace47b0f);
+        
+    
+        var popup_37b37c0142cf44afb0e5f56632bbce93 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_3b27f938fc714e39807b9b33645ca956 = $(`<div id="html_3b27f938fc714e39807b9b33645ca956" style="width: 100.0%; height: 100.0%;"><a href='https://thefederalist.com/2022/03/07/russias-latest-military-maneuvers-suggest-a-long-destructive-battle-for-ukraine/' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_37b37c0142cf44afb0e5f56632bbce93.setContent(html_3b27f938fc714e39807b9b33645ca956);
+        
+
+        marker_e14d17d0a2fc42d29d370bee0cc5225f.bindPopup(popup_37b37c0142cf44afb0e5f56632bbce93)
+        ;
+
+        
+    
+    
+            marker_e14d17d0a2fc42d29d370bee0cc5225f.bindTooltip(
+                `<div>
+                     UKR
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_b50ea66223a7427e8de20c59e3d61b9d = L.marker(
+                [33.8719, 35.5097],
+                {}
+            ).addTo(map_3eda9001a1fc4930848f56dbace47b0f);
+        
+    
+        var popup_76f6b07b1589409caead268cafc5aa2e = L.popup({"maxWidth": "100%"});
+
+        
+            var html_70f303b1e92d46d1bf5f5aa64b55236b = $(`<div id="html_70f303b1e92d46d1bf5f5aa64b55236b" style="width: 100.0%; height: 100.0%;"><a href='https://www.bbc.com/news/world-middle-east-60691507' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_76f6b07b1589409caead268cafc5aa2e.setContent(html_70f303b1e92d46d1bf5f5aa64b55236b);
+        
+
+        marker_b50ea66223a7427e8de20c59e3d61b9d.bindPopup(popup_76f6b07b1589409caead268cafc5aa2e)
+        ;
+
+        
+    
+    
+            marker_b50ea66223a7427e8de20c59e3d61b9d.bindTooltip(
+                `<div>
+                     SYR
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_87fef5b97f7c4a34a7406ef6f40b6d5f = L.marker(
+                [33.5, 36.3],
+                {}
+            ).addTo(map_3eda9001a1fc4930848f56dbace47b0f);
+        
+    
+        var popup_b75ee682aaa6486c8a495127f036c224 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_bfc09b1b35754bc7a425442973c274f1 = $(`<div id="html_bfc09b1b35754bc7a425442973c274f1" style="width: 100.0%; height: 100.0%;"><a href='https://www.9and10news.com/2022/03/07/two-syrian-civilians-killed-in-missile-attack/' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_b75ee682aaa6486c8a495127f036c224.setContent(html_bfc09b1b35754bc7a425442973c274f1);
+        
+
+        marker_87fef5b97f7c4a34a7406ef6f40b6d5f.bindPopup(popup_b75ee682aaa6486c8a495127f036c224)
+        ;
+
+        
+    
+    
+            marker_87fef5b97f7c4a34a7406ef6f40b6d5f.bindTooltip(
+                `<div>
+                     ISR
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_c239cbe259c94b1aa06232c69961f663 = L.marker(
+                [33.833333, 35.833333],
+                {}
+            ).addTo(map_3eda9001a1fc4930848f56dbace47b0f);
+        
+    
+        var popup_38b26a669f4941eb9f5bfb15a4382a0e = L.popup({"maxWidth": "100%"});
+
+        
+            var html_ce77c44274234cf38f024ac175406eb5 = $(`<div id="html_ce77c44274234cf38f024ac175406eb5" style="width: 100.0%; height: 100.0%;"><a href='https://www.presstv.ir/Detail/2022/03/10/678346/Lebanon-Tribunal-convicts-another-two-men-for-2005-Hariri-assassination' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_38b26a669f4941eb9f5bfb15a4382a0e.setContent(html_ce77c44274234cf38f024ac175406eb5);
+        
+
+        marker_c239cbe259c94b1aa06232c69961f663.bindPopup(popup_38b26a669f4941eb9f5bfb15a4382a0e)
+        ;
+
+        
+    
+    
+            marker_c239cbe259c94b1aa06232c69961f663.bindTooltip(
+                `<div>
+                     LBN
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_a03309b4d54249d698181fcd93b35b2c = L.marker(
+                [33.5, 36.3],
+                {}
+            ).addTo(map_3eda9001a1fc4930848f56dbace47b0f);
+        
+    
+        var popup_699acdd60bfe4ffaa7bb141b65d72fe5 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_9c5d3a6a2b2e48eca7efba3dd42482cd = $(`<div id="html_9c5d3a6a2b2e48eca7efba3dd42482cd" style="width: 100.0%; height: 100.0%;"><a href='https://www.i24news.tv/en/news/israel/defense/1646632003-syrian-army-says-israeli-airstrike-near-damascus-killed-2-people' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_699acdd60bfe4ffaa7bb141b65d72fe5.setContent(html_9c5d3a6a2b2e48eca7efba3dd42482cd);
+        
+
+        marker_a03309b4d54249d698181fcd93b35b2c.bindPopup(popup_699acdd60bfe4ffaa7bb141b65d72fe5)
+        ;
+
+        
+    
+    
+            marker_a03309b4d54249d698181fcd93b35b2c.bindTooltip(
+                `<div>
+                     ISR
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_20a38597db7046dab242f5e5433f5c47 = L.marker(
+                [35.3359, 40.1408],
+                {}
+            ).addTo(map_3eda9001a1fc4930848f56dbace47b0f);
+        
+    
+        var popup_178bab7143d24d38b25e5d9d61651fe6 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_e04f2b7f8fd040f38539e8951176d406 = $(`<div id="html_e04f2b7f8fd040f38539e8951176d406" style="width: 100.0%; height: 100.0%;"><a href='http://www.msn.com/en-us/news/world/russia-is-recruiting-syrian-fighters-to-aid-in-the-ukraine-invasion-and-help-take-kyiv-report/ar-AAUHO2P' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_178bab7143d24d38b25e5d9d61651fe6.setContent(html_e04f2b7f8fd040f38539e8951176d406);
+        
+
+        marker_20a38597db7046dab242f5e5433f5c47.bindPopup(popup_178bab7143d24d38b25e5d9d61651fe6)
+        ;
+
+        
+    
+    
+            marker_20a38597db7046dab242f5e5433f5c47.bindTooltip(
+                `<div>
+                     RUS
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_1f25d22242ea46dfa1ca73922b5ecefb = L.marker(
+                [35.0, 38.0],
+                {}
+            ).addTo(map_3eda9001a1fc4930848f56dbace47b0f);
+        
+    
+        var popup_8ec14dc3eff34a3b8481da782a9fb54c = L.popup({"maxWidth": "100%"});
+
+        
+            var html_c9345707bb84400eb6fe924c5acb6d11 = $(`<div id="html_c9345707bb84400eb6fe924c5acb6d11" style="width: 100.0%; height: 100.0%;"><a href='https://www.israelnationalnews.com/flashes/570104' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_8ec14dc3eff34a3b8481da782a9fb54c.setContent(html_c9345707bb84400eb6fe924c5acb6d11);
+        
+
+        marker_1f25d22242ea46dfa1ca73922b5ecefb.bindPopup(popup_8ec14dc3eff34a3b8481da782a9fb54c)
+        ;
+
+        
+    
+    
+            marker_1f25d22242ea46dfa1ca73922b5ecefb.bindTooltip(
+                `<div>
+                     GBR
+                 </div>`,
+                {"sticky": true}
+            );
+        
+</script>
