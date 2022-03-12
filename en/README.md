@@ -71,7 +71,7 @@ temperatures"
 ---
 
 'First commercial scale hydrogen-to-MCH' undertaking.. Interesting.
-Posted about [before](2020/10/methyl-cyclohexane-h2.md).
+Posted about MCH [here](2020/10/methyl-cyclohexane-h2.md).
 
 "PETRONAS Hydrogen.. and ENEOS Corporation.. have signed a Joint
 Feasibility Study Agreement (JFSA) to advance the studies for a
