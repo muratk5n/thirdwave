@@ -47,29 +47,6 @@ renewable hydrogen"
 
 ---
 
-[P]roduction of low carbon hydrogen from PETRONAS’ existing
-facilities, production of green hydrogen from a new hydro-powered
-electrolyser facility, and hydrogen conversion into methylcyclohexane
-(MCH). The agreement is part of the long-term Memorandum of
-Understanding (MoU) signed last August for the development of a clean
-hydrogen supply chain between Malaysia and Japan.
-
-The facilities are projected to have a total hydrogen production and
-conversion capacity of up to 50,000 tonnes per annum (50KTPA) by 2027
-for export in MCH form to Japan, where the clean hydrogen will be
-distributed to Japanese industries through ENEOS’ refineries. Once
-onstream, the project could potentially be the first commercial scale
-hydrogen-to-MCH undertaking in the world. Its Final Investment
-Decision is expected by the end of 2023.
-
-Through ENEOS, this hydrogen-to-MCH project has been selected as one
-of the Green Innovation Fund project by the Japanese Government, a
-testament to the project's viability and competitiveness which is a
-critical aspect in the development of the nascent clean hydrogen
-supply chain
-
----
-
 "Traditionally, the Scottish Highlands have been renowned for majestic
 and wild scenery, as well as its famous whiskey, but soon the region
 will also be well-known a network of green hydrogen hubs. [An MoU]
@@ -91,6 +68,37 @@ to even test. The tech is inferior.
 "BMW is pushing its iX5 Hydrogen to the limits, with the vehicle
 manufacturer currently testing the zero-emission vehicle in Sweden to
 ensure extreme performance can be achieved in sub-zero temperatures"
+
+---
+
+'First commercial scale hydrogen-to-MCH' undertaking.. Interesting.
+Posted about [before](2020/10/methyl-cyclohexane-h2.md).
+
+"PETRONAS Hydrogen.. and ENEOS Corporation.. have signed a Joint
+Feasibility Study Agreement (JFSA) to advance the studies for a
+commercial hydrogen production and conversion project in [Malaysia].
+
+Under the JFSA, both parties will pursue detailed technical and
+commercial feasibility studies for the production of low carbon
+hydrogen from PETRONAS’ existing facilities, production of green
+hydrogen from a new hydro-powered electrolyser facility, and hydrogen
+conversion into methylcyclohexane (MCH). The agreement is part of the
+long-term [MoU] signed last August for the development of a clean
+hydrogen supply chain between Malaysia and Japan.
+
+The facilities are projected to have a total hydrogen production and
+conversion capacity of up to 50,000 tonnes per annum (50KTPA) by 2027
+for export in MCH form to Japan, where the clean hydrogen will be
+distributed to Japanese industries through ENEOS’ refineries. Once
+onstream, the project could potentially be the first commercial scale
+hydrogen-to-MCH undertaking in the world. Its Final Investment
+Decision is expected by the end of 2023.
+
+Through ENEOS, this hydrogen-to-MCH project has been selected as one
+of the Green Innovation Fund project by the Japanese Government, a
+testament to the project's viability and competitiveness which is a
+critical aspect in the development of the nascent clean hydrogen
+supply chain"
 
 ---
 
