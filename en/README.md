@@ -140,7 +140,7 @@ WION just called Pakistan a 'terrorist state' 😂 Ok I see your bias..
 ---
 
 Al Jazeera has a reporter named Imran Khan. "Reporting from Kyiv" That
-guy needs a nickname.. I was like, 'why the f wld Pakistani PM wld go
+guy needs a nickname.. I thought, 'why the f wld Pakistani PM wld go
 to Kyiv'?
 
 ---
