@@ -180,12 +180,16 @@ Here are some other Nazis
 
 ---
 
-That is a general comment on all electorate in all countries, for
-policy.
+Merely comments on all electorate in all countries, for policy. 
 
 ---
 
-They are bleeping clueless who gives a shit abt what they think
+The same "people" supported the Iraq War after 9/11.
+
+---
+
+They are bleeping clueless who gives a shit abt what they think.
+Deliver on needs, based on idio, then sell.
 
 "Almost three out of four Americans support Ukraine no-fly zone"
 
