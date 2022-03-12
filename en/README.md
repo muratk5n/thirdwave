@@ -129,10 +129,6 @@ figure, US study suggests"
 
 ---
 
-Politico: "EU leaders back Ukraine but balk at fast-track membership"
-
----
-
 Some Dems like Cuba, Castro. Or, they "like liking" Cuba.. Because
 they are mostly shitlibs, Cuba is their way of redeeming themselves --
 they butter up the US military, push for privatized healthcare, drone
@@ -205,6 +201,10 @@ country’s west have come under such heavy mortars since the first day
 of the invasion. The airport at Lutsk took substantial fire, pocking
 its runway and rendering it useless. The airport had been a key link
 in the supply chain to this point"
+
+---
+
+Politico: "EU leaders back Ukraine but balk at fast-track membership"
 
 ---
 
