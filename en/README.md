@@ -185,7 +185,7 @@ Merely comments on all electorate in all countries, for policy.
 
 ---
 
-The same "people" supported the Iraq War after 9/11.
+The same "people" wanted an Iraqi invasion after 9/11.
 
 ---
 
