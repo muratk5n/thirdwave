@@ -153,11 +153,6 @@ to Kyiv'?
 
 ---
 
-German convervatives are such NATO sluts.. What kind of conservatives
-are u muckers? Poodle hawks for US. 
-
----
-
 "People" wanted an Iraqi invasion after 9/11 lets not forget.
 
 ---
