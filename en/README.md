@@ -2,194 +2,205 @@
 
 ---
 
-Toyota has it all - fuel cells, H2 combustion. 
-
-<iframe width="95%" src="https://www.youtube.com/embed/2dgzKW8EKMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-This race already happened, the H2 car did great
-
-"At the end of April 2021, Toyota announced it would be testing the
-performance of a new hydrogen-fuelled internal combustion engine by
-installing it in a racecar that would compete in one of Japan’s
-toughest motorsports events: The NAPAC Fuji Super TEC 24 Hours"
-
-[[-]](https://www.racecar-engineering.com/articles/toyota-debuts-hydrogen-fuelled-internal-combustion-race-engine/#:~:text=At%20the%20end%20of%20April,Fuji%20Super%20TEC%2024%20Hours.)
+"Universal Hydrogen to make $254m investment in New Mexico
+manufacturing hub.. New Mexico is set to be the heart of Universal
+Hydrogen’s zero-emissions flight mission"
 
 ---
 
-Forbes: "[March 2021] As Hydrogen’s Levelized Cost Projections Fall
-Toyota Sends It Racing.. [H2] levelized cost, or the measure of
-average net present cost of production as a fuel or heat source for a
-generating plant over its lifetime, especially from renewable energy
-via electrolysis of water, is likely to fall considerably over the
-coming years..
-
-Should the forecasts materialize, such 'low renewable hydrogen costs
-could completely rewrite the energy map," says Martin Tengler, lead
-hydrogen analyst at BNEF. 'It shows that in future, at least a third
-of the world economy could be powered by clean energy for not a cent
-more than it pays for fossil fuels.'..
-
-Automakers and their partner fuel vendors in many quarters remain
-suitably excited, and none more so than Toyota. The Japanese automaker
-has consistently nailed its colors to the mast via its Mirai range. It
-is now going one step further by testing the performance of a new
-hydrogen [combustion] engine by installing it in a race car that will
-compete in one of Japan's toughest motorsport events"
-
-[[-]](https://www.forbes.com/sites/gauravsharma/2021/04/23/as-hydrogens-levelized-cost-projections-fall-toyota-sends-it-racing/)
+"UK could increase its targets for hydrogen and transition away from
+Russian fossil fuel and gas reliance"
 
 ---
 
-Started a doc on energy plant costs, LCOE, and 'overnight costs' 🚧
-
-[[-]](2022/02/costs-lcoe.md)
-
----
-
-Energy Voice: "[Scated] also recently signed an agreement with India’s
-ACME Group to build and operate a green ammonia plant in Oman. The
-first phase will produce 100,000 tpy of green ammonia, scaling up to
-1.2mn tpy"
+ABB has been awarded two major contracts by Plug Power Inc. (NASDAQ:
+PLUG).. a leading provider of turnkey solutions for the global green
+hydrogen economy, to provide the electrical systems for two new
+hydrogen plants in North America, set to collectively produce 60 tons
+of green hydrogen per day. 
 
 ---
 
-Energy Voice: "[Norway's] Scatec signs up to mammoth green ammonia
-plan in Egypt.. a memorandum of understanding (MoU) for a green
-hydrogen and ammonia plant in Egypt [was signed]...  The plant will
-produce 1 million tonnes per year of green ammonia initially, it
-said. It will have the opportunity to reach 3mn tpy ultimately"
+H2 Fuel News: "Floating green hydrogen production vessel under
+development.. A statement from RINA explained that the Thessalonica
+Hydroship will be able to produce renewable H2 by using wind and tidal
+stream turbines to generate the electricity to power the
+electrolysis. This way, using Floating production storage and
+offloading (FPSO) is unnecessary, substantially reducing the overall
+levelized cost of energy (LCOE) to generate cost competitive H2 fuel.
+
+The vessel will be constructed using off-the-shelf electrolyzers and
+ready-made wind and tidal stream turbine"
 
 ---
 
-Sounds like a smart guy, obviously knows where the action is
-
-The Sydney Morning Herald: "[Reserve Bank of Australia] heir apparent
-Guy Debelle unexpectedly quits to join Forrest’s green hydrogen
-play.. The future of [RBA] has been upended with the man considered
-most likely to lead the interest rate setting institution through the
-rest of the decade quitting to join private sector efforts to secure
-Australia’s green hydrogen future. Dr Guy Debelle, deputy to governor
-Philip Lowe since 2016 and perceived by many as one of the RBA’s
-brightest minds, stunned monetary policy circles on Thursday by
-revealing plans to become Fortescue Future Industries’ chief financial
-officer"
+"In response to the European Commission’s plan to make Europe
+independent from Russian fossil fuels before 2030, Nel is increasing
+its electrolyser production capacity to meet raised ambitions for
+renewable hydrogen"
 
 ---
 
-H2 View: "UK-based Levidian recently developed a device which uses
-plasma technology to separate methane into its constituent atoms:
-carbon, locked into high-quality graphene, and hydrogen, which can
-either be used immediately or stored for future use. According to the
-climate-tech company, their model means they can offer turquoise
-hydrogen at little to no cost, as there is a thriving market for the
-by-product produced during the process – high-quality graphene"
+[P]roduction of low carbon hydrogen from PETRONAS’ existing
+facilities, production of green hydrogen from a new hydro-powered
+electrolyser facility, and hydrogen conversion into methylcyclohexane
+(MCH). The agreement is part of the long-term Memorandum of
+Understanding (MoU) signed last August for the development of a clean
+hydrogen supply chain between Malaysia and Japan.
+
+The facilities are projected to have a total hydrogen production and
+conversion capacity of up to 50,000 tonnes per annum (50KTPA) by 2027
+for export in MCH form to Japan, where the clean hydrogen will be
+distributed to Japanese industries through ENEOS’ refineries. Once
+onstream, the project could potentially be the first commercial scale
+hydrogen-to-MCH undertaking in the world. Its Final Investment
+Decision is expected by the end of 2023.
+
+Through ENEOS, this hydrogen-to-MCH project has been selected as one
+of the Green Innovation Fund project by the Japanese Government, a
+testament to the project's viability and competitiveness which is a
+critical aspect in the development of the nascent clean hydrogen
+supply chain
 
 ---
 
-Thats good but fixing the base energy infrastructure (using clean
-fuels everywhere) would fix all pollution in one fell swoop.
-
-"@shafikyaghmour
-
-Hong Kong using roadside sensors to detect most polluting cars and
-force them to get fixed"
-
----
-
-They got shaky legs there little bit.. US probably did some arm
-twisting through Dubai, the place lives on intl connections, tourism,
-u can really clamp down on it, but then UAE backtracked on
-backtracking..  Sup
+"Traditionally, the Scottish Highlands have been renowned for majestic
+and wild scenery, as well as its famous whiskey, but soon the region
+will also be well-known a network of green hydrogen hubs. A Memorandum
+of Understanding (MoU) inked between H2 Green Limited and Getech has
+set out to carry out the vision of the proposed hubs, in an effort to
+accelerate decarbonisation in the Highlands"
 
 ---
 
-😂 
-
-Markets Insider: "Oil prices climb 5% after UAE appears to backtrack
-on its earlier call for OPEC+ to boost output faster"
-
----
-
-Bloomberg: "OPEC+ Member the UAE Says Group Should Boost Oil Output"
+"Suburban Propane is extending its reach into the hydrogen market with
+the company unveiling a new 25% equity stake in Independence Hydrogen
+to localise hydrogen production and distribution"
 
 ---
 
-Am fine personally with individual, even positive rights. Just saying
-countries can be on a different path, schedule. If a new non-military
-org was to be founded for democracies, I'd argue it should only offer
-carrot, no stick.
+"BMW is pushing its iX5 Hydrogen to the limits, with the vehicle
+manufacturer currently testing the zero-emission vehicle in Sweden to
+ensure extreme performance can be achieved in sub-zero temperatures"
 
 ---
 
-Liberalism is about the individual, who can think freely, but that can
-lead to conflicts, so you need a state to protect rights. Therefore,
-one can continue, if everyone has such inalienable rights, they do so
-all over the world too, a liberal state can try to expand lib abroad
-(wanting to become that intl watcher that protects right for others
-too) -- through coercion, or sometimes by force, which can entice 'the
-other side' to the same.
+"Louisiana, Oklahoma, Arkansas, unveil plans to create a regional clean
+hydrogen hub"
 
 ---
 
-'Not understanding' states like Russia cld be due to liberalism's
-mental block..  See [Meirsheimer](2022/03/liberal-dreams-intl-realities.md).
+That's just massive
+
+The Mandarin: "China plans to build 450 GW of wind and solar power in the desert"
 
 ---
 
-What was the deal w NATO chief Stoltenberg "Central Bank appointment
-announcement" right in the beginning of the conflict? Is he being
-'demoted upwards'? He was talking tough game early on, then NATO got
-cucked.
+'If more people had a voice outcome wld be different?'.
+
+The mass 'having a voice' is less valuable than thought leaders
+thinking better. Have a voice, fine, but won't change anything.
+
+"[2019] Zuckerberg says the Iraq War motivated him to create Facebook"
 
 ---
 
-NATO was sadly a disadvantage in this conflict. Motto "one for all,
-all for one" works *if you are in it*. If outside, the deterrent
-aspect becomes a disadvantage. They are built to kick some serious
-ass, which means going all in, with everyone on board, which you
-cannot do even partially in a situation such as in UKR. So they were
-reduced to watching the whole conf from the sidelines. Putin finds
-those blind spots, and exploits them well.
+What is the true role of Luigi Mengele in it - that's what I wanna know
+
+Arab News: "Global pandemic deaths could be three times official
+figure, US study suggests"
 
 ---
 
-My assumption was since 2014 UKR had been loading for bear (no pun
-intended), had all aspects of a possible war covered, with NATO's
-help. Then found out abt the air/sea shortcomings, it became clear
-this cld turn into another Aleppo, Grozny.
+Politico: "EU leaders back Ukraine but balk at fast-track membership"
 
 ---
 
-CNBC: "Deutsche Bank defends decision not to exit Russia: It's not
-'practical' right now"
+Some Dems like Cuba, Castro. Or, they "like liking" Cuba.. Because
+they are mostly shitlibs, Cuba is their way of redeeming themselves --
+they butter up the US military, push for privatized healthcare, drone
+bunch of people to death but then 'they are friendly to Cuba' at least
+more than those 'crazy Republican guys over there'. And voila, all of
+a sudden they feel like a leftist again. Feels so good. 
 
 ---
 
-That whole Polish jet deal talk was just sad
+That soldier might have pulled the trigger but Fidel is the
+[true killer](2015/04/dictators-handbook-mesquita.md#fidelche)
+of Che.
+
+"Bolivian soldier who shot dead revolutionary Che Guevara dies at 80"
 
 ---
 
-F24: "Half of Kyiv's population has fled Russian invasion, mayor says"
+WION just called Pakistan a terrorist state 😂 Ok I see your bias..
 
 ---
 
-They clearly belive they have the upper hand. Took huge risk going in
-and now want the payoff.
-
-Politico: "Russia doesn’t budge in high-level talks with Ukraine.. And
-those demands are .. essentially full subjugation to Russia"
+Is this name like Indian Amit, Patel? I knew an Amit Patel at
+school. The school had so many Amit Patels their usernames had to be
+numbered (my friend was apatel9)
 
 ---
 
-CNBC: "Bitcoin drops below $40,000, almost wiping out gains from
-Biden's crypto executive order"
+Al Jazeera has a reporter named Imran Khan. "Reporting from Kyiv" That
+guy needs a nickname.. I was like, 'why the f wld Pakistani PM wld go
+to Kyiv'?
 
 ---
 
-Arab News: "Narendra Modi’s BJP wins big in India’s largest state election"
+German convervatives are such NATO sluts.. What kind of conservatives
+are u muckers? Poodle hawks for US.
+
+---
+
+'But there has been a rise of nationalism in Ukraine recently'.  RU
+took pieces of the country, what else would there be a 'rise' of?
+
+---
+
+That was Iranian linked Hezbollah BTW. Were they expounding the
+principles of the Aryan race, believe they came from Atlantis?
+No. They are flashing the salute to troll Jewish Israelis.. This is
+the extent of "Nazism" in Ukraine.
+
+---
+
+Nazis in Ukraine..
+
+Here are some other Nazis
+
+[[-]](https://pbs.twimg.com/media/FNjIZsDVIA8Mhta?format=jpg&name=small)
+
+---
+
+That is a general comment on all electorate in all countries, for
+policy.
+
+---
+
+They are bleeping clueless who gives a bleep abt what they think
+
+Almost three out of four Americans support Ukraine no-fly zone 
+
+---
+
+TDB: "It is the first time previously unaffected cities in the
+country’s west have come under such heavy mortars since the first day
+of the invasion. The airport at Lutsk took substantial fire, pocking
+its runway and rendering it useless. The airport had been a key link
+in the supply chain to this point"
+
+---
+
+Does not suggest total war from the RU side, yet.
+
+[[-]](https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment-march-10)
+
+---
+
+Wion: "West made a mistake by promising NATO membership to Ukraine: EU
+foreign policy chief Borrell"
 
 ---
 
