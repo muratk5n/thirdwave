@@ -181,7 +181,7 @@ Here are some other Nazis
 
 ---
 
-Merely comments on all electorate in all countries, for policy. 
+THis is commentary on all electorate in all countries, around policy. 
 
 ---
 
