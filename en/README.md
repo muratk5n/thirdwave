@@ -96,7 +96,7 @@ hydrogen hub"
 
 ---
 
-That's just massive
+That is Gigawatt, the G is not a typo.
 
 The Mandarin: "China plans to build 450 GW of wind and solar power in the desert"
 
@@ -105,7 +105,7 @@ The Mandarin: "China plans to build 450 GW of wind and solar power in the desert
 'If more people had a voice outcome wld be different?'.
 
 The mass 'having a voice' is less valuable than thought leaders
-thinking better. Have a voice, fine, but won't change anything.
+thinking better. Have a voice, fine, but won't change much.
 
 "[2019] Zuckerberg says the Iraq War motivated him to create Facebook"
 
