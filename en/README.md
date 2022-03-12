@@ -1,7 +1,5 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
----
-
 Pinned Tweet
 
 <iframe width="95%" src="https://www.youtube.com/embed/2dgzKW8EKMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
