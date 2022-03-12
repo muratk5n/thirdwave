@@ -107,7 +107,7 @@ hydrogen hub"
 
 ---
 
-That is Gigawatt, the G is not a typo.
+That is *Gigawatts*, the G is not a typo.
 
 The Mandarin: "China plans to build 450 GW of wind and solar power in the desert"
 
