@@ -62,8 +62,8 @@ to localise hydrogen production and distribution"
 
 ---
 
-Batteries would have died instantly at those temperatures no need
-to even test. The tech is inferior.
+Batteries would have died there at those temperatures no need to even
+test. 
 
 "BMW is pushing its iX5 Hydrogen to the limits, with the vehicle
 manufacturer currently testing the zero-emission vehicle in Sweden to
