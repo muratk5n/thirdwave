@@ -204,13 +204,13 @@ in the supply chain to this point"
 
 ---
 
-Politico: "EU leaders back Ukraine but balk at fast-track membership"
-
----
-
 Does not suggest total war from the RU side, yet.
 
 [[-]](https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment-march-10)
+
+---
+
+Politico: "EU leaders back Ukraine but balk at fast-track membership"
 
 ---
 
