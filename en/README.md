@@ -161,7 +161,7 @@ to Kyiv'?
 ---
 
 German convervatives are such NATO sluts.. What kind of conservatives
-are u muckers? Poodle hawks for US.
+are u muckers? Poodle hawks for US. 
 
 ---
 
@@ -170,11 +170,10 @@ took pieces of the country, what else would there be a 'rise' of?
 
 ---
 
-That is Iranian linked Hezbollah in the photo (taken from a
-funeral). Was Hezbollah expounding the principles of the Aryan race in
-that photo, believe they came from Atlantis?  No. They are flashing
-the salute to troll Jewish Israelis.. This is the extent of "Nazism"
-in Ukraine.
+That is Iranian linked Hezbollah [photo taken at a funeral). Was
+Hezbollah expounding the principles of the Aryan race in that photo,
+believe they came from Atlantis?  No. They are flashing the salute to
+troll Jewish Israelis.. This is the extent of "Nazism" in Ukraine.
 
 ---
 
