@@ -178,8 +178,8 @@ Here are some other Nazis
 
 ---
 
-THis is commentary on all electorate in all countries, around policy.
-They are fine deciding on leaders. 
+Below is a general commentary on all electorate in all countries,
+around policy. 
 
 ---
 
