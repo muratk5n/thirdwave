@@ -121,7 +121,7 @@ dancing on Tiktok.
 
 ---
 
-What is the true role of Luigi Mengele in it - that's what I wanna know
+Blame Luigi Mengele - all his fault
 
 Arab News: "Global pandemic deaths could be three times official
 figure, US study suggests"
