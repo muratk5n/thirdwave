@@ -158,6 +158,20 @@ are u muckers? Poodle hawks for US.
 
 ---
 
+The same "people" wanted an Iraqi invasion after 9/11.
+
+---
+
+Deliver on needs, based on idio, then sell.
+
+---
+
+They are bleeping clueless who gives a shit abt what they think.
+
+"Almost three out of four Americans support Ukraine no-fly zone"
+
+---
+
 'But there has been a rise of nationalism in Ukraine recently'.  RU
 took pieces of the country, what else would there be a 'rise' of?
 
@@ -176,20 +190,6 @@ Nazis in Ukraine..
 Here are some other Nazis
 
 [[-]](https://pbs.twimg.com/media/FNjIZsDVIA8Mhta?format=jpg&name=small)
-
----
-
-The same "people" wanted an Iraqi invasion after 9/11.
-
----
-
-Deliver on needs, based on idio, then sell.
-
----
-
-They are bleeping clueless who gives a shit abt what they think.
-
-"Almost three out of four Americans support Ukraine no-fly zone"
 
 ---
 
