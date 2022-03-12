@@ -166,7 +166,7 @@ Deliver on needs, based on idio, then sell.
 
 ---
 
-They are bleeping clueless who gives a shit abt what they think.
+They are bleeping clueless - who gives a shit abt what they think.
 
 "Almost three out of four Americans support Ukraine no-fly zone"
 
