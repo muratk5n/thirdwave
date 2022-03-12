@@ -8,22 +8,22 @@ Pinned Tweet
 
 ---
 
-"Universal Hydrogen to make $254m investment in New Mexico
+H2 View: "Universal Hydrogen to make $254m investment in New Mexico
 manufacturing hub.. New Mexico is set to be the heart of Universal
 Hydrogen’s zero-emissions flight mission"
 
 ---
 
-"UK could increase its targets for hydrogen and transition away from
-Russian fossil fuel and gas reliance"
+H2 View: "UK could increase its targets for hydrogen and transition
+away from Russian fossil fuel and gas reliance"
 
 ---
 
-ABB has been awarded two major contracts by Plug Power Inc. (NASDAQ:
-PLUG).. a leading provider of turnkey solutions for the global green
-hydrogen economy, to provide the electrical systems for two new
-hydrogen plants in North America, set to collectively produce 60 tons
-of green hydrogen per day. 
+H2 View: "ABB has been awarded two major contracts by Plug Power
+Inc. (NASDAQ: PLUG).. a leading provider of turnkey solutions for the
+global green hydrogen economy, to provide the electrical systems for
+two new hydrogen plants in North America, set to collectively produce
+60 tons of green hydrogen per day"
 
 ---
 
@@ -39,34 +39,36 @@ and ready-made wind and tidal stream turbine"
 
 ---
 
-"In response to the European Commission’s plan to make Europe
+H2 View: "In response to the European Commission’s plan to make Europe
 independent from Russian fossil fuels before 2030, Nel is increasing
 its electrolyser production capacity to meet raised ambitions for
 renewable hydrogen"
 
 ---
 
-"Traditionally, the Scottish Highlands have been renowned for majestic
-and wild scenery, as well as its famous whiskey, but soon the region
-will also be well-known a network of green hydrogen hubs. [An MoU]
-inked between H2 Green Limited and Getech has set out to carry out the
-vision of the proposed hubs, in an effort to accelerate
-decarbonisation in the Highlands"
+H2 Fuel News: "Traditionally, the Scottish Highlands have been
+renowned for majestic and wild scenery, as well as its famous whiskey,
+but soon the region will also be well-known a network of green
+hydrogen hubs. [An MoU] inked between H2 Green Limited and Getech has
+set out to carry out the vision of the proposed hubs, in an effort to
+accelerate decarbonisation in the Highlands"
 
 ---
 
-"Suburban Propane is extending its reach into the hydrogen market with
-the company unveiling a new 25% equity stake in Independence Hydrogen
-to localise hydrogen production and distribution"
+H2 View: "Suburban Propane is extending its reach into the hydrogen
+market with the company unveiling a new 25% equity stake in
+Independence Hydrogen to localise hydrogen production and
+distribution"
 
 ---
 
 Batteries would have died there at those temperatures no need to even
 test. 
 
-"BMW is pushing its iX5 Hydrogen to the limits, with the vehicle
-manufacturer currently testing the zero-emission vehicle in Sweden to
-ensure extreme performance can be achieved in sub-zero temperatures"
+H2 View: "BMW is pushing its iX5 Hydrogen to the limits, with the
+vehicle manufacturer currently testing the zero-emission vehicle in
+Sweden to ensure extreme performance can be achieved in sub-zero
+temperatures"
 
 ---
 
@@ -100,8 +102,8 @@ supply chain"
 
 ---
 
-"Louisiana, Oklahoma, Arkansas, unveil plans to create a regional clean
-hydrogen hub"
+H2 View: "Louisiana, Oklahoma, Arkansas, unveil plans to create a
+regional clean hydrogen hub"
 
 ---
 
