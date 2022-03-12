@@ -139,7 +139,7 @@ of Che.
 
 ---
 
-WION just called Pakistan a terrorist state 😂 Ok I see your bias..
+WION just called Pakistan a 'terrorist state' 😂 Ok I see your bias..
 
 ---
 
