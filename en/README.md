@@ -120,7 +120,7 @@ does not improve politically through people dancing on Tiktok.
 
 ---
 
-Blame Luigi Mengele - all his fault
+Blame Luigi Mengele; all his fault
 
 Arab News: "Global pandemic deaths could be three times official
 figure, US study suggests"
