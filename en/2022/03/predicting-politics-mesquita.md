@@ -11,7 +11,7 @@ agreement is not possible. Resolution or breakdown occurs when the
 costs of continued negotiation are estimated to exceed the expected
 benefits from such continued discussions. The model assumes that each
 player has the same time discount rate. When the shift in the median
-voter position (or position based on some other pertinent deci- sion
+voter position (or position based on some other pertinent decision
 rule) predicted from one round to the next is small enough, given the
 time discount rate, then the model assumes bargaining ends. The
 outcome predicted at this point depends upon the decision rule in
@@ -21,17 +21,17 @@ median voter's policy position at the end of bargaining if majority
 rule is in force) is the predicted outcome. If there is a veto player
 and that veto player does not agree with the identified outcome, then
 agreement is not reached and the result is that the issue remains
-unre- solved. 15 If there is more than one veto player, then, of
-course, for there to be a predicted agreement, the veto players must
-have converged to about the same position.
+unresolved. 15 If there is more than one veto player, then, of course,
+for there to be a predicted agreement, the veto players must have
+converged to about the same position.
 
 In the game, each player knows three factors: the potential power and
 stated or inferred policy position of each actor on each issue
 examined, and the salience each actor associates with those
 issues. The decision makers, stakeholders, or players do not know how
-much others value alternative out- comes or what perceptions others
-have about their risks and opportunities.  Each decision maker chooses
-based on his or her perceptions and expecta- tions, with these
+much others value alternative outcomes or what perceptions others have
+about their risks and opportunities. Each decision maker chooses
+based on his or her perceptions and expectations, with these
 perceptions and expectations about the play of others and the general
 situation sometimes being in error.
 
@@ -44,9 +44,9 @@ Decision makers care about the policy choice on the issue continuum
 and so, from that perspective, are reluctant to move from the position
 with which they have associated themselves to a position on the
 opposite side of the median voter. However, they also are interested
-in enhancing their per- sonal welfare by being seen as instrumental in
+in enhancing their personal welfare by being seen as instrumental in
 helping to form a winning coalition. Naturally, the location of the
-winning coalition may not be con- strained to fall on the same side of
+winning coalition may not be constrained to fall on the same side of
 the issue continuum (relative to the median voter's position) as their
 own stated negotiating stance. If a player values credit for helping
 to forge a winning coalition sufficiently, then the player will be
@@ -54,8 +54,8 @@ prepared to shift positions, even moving to the opposite side of the
 policy space provided doing so supplies sufficient utility regarding
 credit for helping to "make a deal." Such a player can be attracted to
 a new position without being coerced. Such a player may strike a
-policy compro- mise with others in order to gain credit as the broker
-of an agreement.
+policy compromise with others in order to gain credit as the broker of
+an agreement.
 
 The issue examined in Table 3.1 [inputs are for political reform in
 China, assuming the death of Deng Xiao Ping, the stances of each actor
