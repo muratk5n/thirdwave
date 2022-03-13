@@ -6,24 +6,25 @@ The model itself depicts a game in which actors simultaneously make
 proposals and exert influence on one another. They then evaluate
 options and build coalitions by shifting positions on the issue in
 question. The above steps are repeated sequentially until the issue is
-resolved or the players break off discussions, having concluded that
-agreement is not possible. Resolution or breakdown occurs when the
-costs of continued negotiation are estimated to exceed the expected
-benefits from such continued discussions. The model assumes that each
-player has the same time discount rate. When the shift in the median
-voter position (or position based on some other pertinent decision
-rule) predicted from one round to the next is small enough, given the
-time discount rate, then the model assumes bargaining ends. The
-outcome predicted at this point depends upon the decision rule in
-force. If majority rule (or some super-majority rule) is in force,
-then the policy outcome that corresponds with the rule (e.g., the
-median voter's policy position at the end of bargaining if majority
-rule is in force) is the predicted outcome. If there is a veto player
-and that veto player does not agree with the identified outcome, then
-agreement is not reached and the result is that the issue remains
-unresolved. 15 If there is more than one veto player, then, of course,
-for there to be a predicted agreement, the veto players must have
-converged to about the same position.
+resolved... Resolution or breakdown occurs when the costs of continued
+negotiation are estimated to exceed the expected benefits from such
+continued discussions.
+
+The model assumes that each player has the same time discount
+rate. When the shift in the median voter position (or position based
+on some other pertinent decision rule) predicted from one round to the
+next is small enough, given the time discount rate, then the model
+assumes bargaining ends. The outcome predicted at this point depends
+upon the decision rule in force. If majority rule (or some
+supermajority rule) is in force, then the policy outcome that
+corresponds with the rule (e.g., the median voter's policy position at
+the end of bargaining if majority rule is in force) is the predicted
+outcome. If there is a veto player and that veto player does not agree
+with the identified outcome, then agreement is not reached and the
+result is that the issue remains unresolved. 15 If there is more than
+one veto player, then, of course, for there to be a predicted
+agreement, the veto players must have converged to about the same
+position.
 
 In the game, each player knows three factors: the potential power and
 stated or inferred policy position of each actor on each issue
