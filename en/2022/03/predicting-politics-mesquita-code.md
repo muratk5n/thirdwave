@@ -39,6 +39,8 @@ Hong-Kong           	Position: 1.00	Capability: 0.25	Salience: 0.85
 Guandung            	Position: 0.44	Capability: 0.30	Salience: 0.70
 ```
 
+The final consensus reached after all rounds finish gives 0.11.
+Needless to say China did not democratize after 1991.
 
 [Code](bdm.py)
 

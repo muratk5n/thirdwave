@@ -57,14 +57,15 @@ a new position without being coerced. Such a player may strike a
 policy compro- mise with others in order to gain credit as the broker
 of an agreement.
 
-The issue examined in Table 3.1 [looks at] greater centralization
-(position 0 on the scale) or greater democratization (full democracy
-at position 100 on the issue scale) in China..  The data were
-collected in October 1991.. I display just five bargaining rounds
-here, but discuss twenty-five such rounds for these data in chapter
-6. The first five rounds appear to paint an optimistic picture of
-Chinese liberalization, a picture that is diminished when we look
-farther out in time..
+The issue examined in Table 3.1 [inputs are for political reform in
+China, assuming the death of Deng Xiao Ping, the stances of each actor
+on what to do next] greater centralization (position 0 on the scale)
+or greater democratization (full democracy at position 100 on the
+issue scale) in China..  The data were collected in October 1991.. I
+display just five bargaining rounds here, but discuss twenty-five such
+rounds for these data [later]. The first five rounds appear to paint
+an optimistic picture of Chinese liberalization, a picture that is
+diminished when we look farther out in time..
 
 [Code](predicting-politics-mesquita-code.md)
 
