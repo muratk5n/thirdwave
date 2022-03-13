@@ -19,12 +19,7 @@ upon the decision rule in force. If majority rule (or some
 supermajority rule) is in force, then the policy outcome that
 corresponds with the rule (e.g., the median voter's policy position at
 the end of bargaining if majority rule is in force) is the predicted
-outcome. If there is a veto player and that veto player does not agree
-with the identified outcome, then agreement is not reached and the
-result is that the issue remains unresolved. 15 If there is more than
-one veto player, then, of course, for there to be a predicted
-agreement, the veto players must have converged to about the same
-position.
+outcome...
 
 In the game, each player knows three factors: the potential power and
 stated or inferred policy position of each actor on each issue
