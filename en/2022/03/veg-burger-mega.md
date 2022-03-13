@@ -6,6 +6,7 @@ Ingredients (for 10 patties)
 * 1/2 Cup Dried Sour Cherries (or dried berries, or another fruit)
 * 1/3 Cup Raw Buckwheat
 * 2 Bunches Spinach
+* 1/2 Lemon (Squeezed)
 * 1 Quince (grated, Mango if not available)
 * 1 Onion (diced)
 * Bread Crumbs
@@ -15,8 +16,10 @@ Ingredients (for 10 patties)
 
 Cook spinach, onions, cherries, olive oil in a pot w high heat, until
 spinach is tender and the water is mosty boiled away. Mix occasionally
-while cooking. When done transfer to a bowl, add everything else, and
-blend. Add oatmeal flakes until the mix becomes firmer. Mix in bread
-crumbs last to make the mix able to hold it shape. Now make patties
-and fry on a pan with the cooking oil.
+while cooking.
+
+When done transfer to a bowl, add everything else, and blend. Add
+oatmeal flakes until the mix becomes firmer. Mix in bread crumbs last
+to help the mix able to hold it shape. Now make patties and fry on a
+pan with veg oil.
 
