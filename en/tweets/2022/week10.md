@@ -67,7 +67,7 @@ temperatures"
 ---
 
 'First commercial scale hydrogen-to-MCH' project.. Interesting.
-Posted about MCH [here](2020/10/methyl-cyclohexane-h2.md).
+Posted about MCH [here](../../2020/10/methyl-cyclohexane-h2.md).
 
 "PETRONAS Hydrogen.. and ENEOS Corporation.. have signed a Joint
 Feasibility Study Agreement (JFSA) to advance the studies for a
@@ -124,7 +124,7 @@ figure, US study suggests"
 ---
 
 That soldier might have pulled the trigger but Fidel is the
-[true killer](2015/04/dictators-handbook-mesquita.md#fidelche)
+[true killer](../../2015/04/dictators-handbook-mesquita.md#fidelche)
 of Che.
 
 "Bolivian soldier who shot dead revolutionary Che Guevara dies at 80"
