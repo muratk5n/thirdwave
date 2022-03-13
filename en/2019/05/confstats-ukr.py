@@ -36,8 +36,6 @@ now = datetime.datetime.now()
 dfs = []
 clat,clon = "49.3357;32.1835714".split(';')
 clat,clon=float(clat),float(clon)
-clat = 34.933582413578954
-clon = 42.04398758620605
 m = folium.Map(location=[clat, clon], zoom_start=7, tiles="Stamen Terrain")
 
 def dist(x):
