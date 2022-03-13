@@ -28,22 +28,6 @@ CNBC: "Russian-backed cable news network RT America shuts down"
 
 ---
 
-I hoped didnt have to do this, but here it is
-
-[[-]](2019/05/confstats.md#gdeltukr)
-
----
-
-Ironically the mapping software itself, Leaflet, is written by a Ukranian.
-
----
-
-Needless to say my GDELT conflict map around Ukraine became massive
-(too many data points, over 800 attack reports in 5 days). I had to
-downsample, otherwise the map would not be responsive.
-
----
-
 "Andrew Bacevich: Ukraine is Paying the Price for the U.S. 'Recklessly'
 Pushing NATO Expansion"
 
@@ -65,9 +49,7 @@ RFERL: "Russia Says It Could Target Western Arms Supplies To Ukraine"
 
 ---
 
-Sad
-
-\#refugees
+\#refugees 
 
 [[-]](https://pbs.twimg.com/media/FNocmtIWQAEyI5O?format=jpg&name=small)
 
