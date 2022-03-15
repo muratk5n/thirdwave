@@ -87,8 +87,8 @@ created past certain time. Is this the answer?
 
 I would not want a system that disallows new money creation by
 design.. Money creation through private channels may not the way to
-go, but through digital UBI which can be lent to businesses, as
-"public credit" cld be a way? 
+go, but through digital UBI maybe, which can be lent to businesses, as
+"public credit"?
 
 Such UBI could be somewhat inflationary but that's good, existing
 wealth would be inflated away. 
