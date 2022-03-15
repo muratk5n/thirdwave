@@ -193,7 +193,6 @@ they still win.
 Here is my raw data. Agree?
 
 ```python
-
 s = """
 Stakeholder,Clout,Position,Salience
 Russia,70,100,100
