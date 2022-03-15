@@ -66,7 +66,7 @@ Will there be clapping?
 
 ---
 
-Dining Rooms - La Citta' Nuda \#music
+Dining Rooms - La Citta Nuda \#music
 
 [[-]](https://youtu.be/qSElwl8aklw)
 
