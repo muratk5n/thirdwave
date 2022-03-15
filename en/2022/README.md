@@ -28,5 +28,5 @@
 
 [Principles of International Politics](03/principles-of-int-politics-mesquita.md)
 
-[Vegetarian Burger Deluxe](03/veg-burger-mega.md)
+[Semi Vegetarian Burger Deluxe](03/semi-veg-burger-mega.md)
 

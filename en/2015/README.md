@@ -68,7 +68,7 @@
 
 [Greece's Current Account](07/greece-current-account.md)
 
-[Bruce bd Mesquita's Game Theoretical Method, Greece Debt Relief](07/mesquita-game-theory-greece.md)
+[Greece Debt Relief, Game Theory](07/mesquita-game-theory-greece.md)
 
 [#papers](07/papers.md)
 

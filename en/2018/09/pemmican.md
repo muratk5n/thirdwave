@@ -8,5 +8,9 @@ trade naturally, through different companies.
 
 Funny story here is the competition got out of hand and certain
 factions fought a war over pemmican. Brits had to step in and merge
-the two companies. Blimey.
+the two companies. 
+
+How to Make It
+
+http://www.traditionaltx.us/images/PEMMICAN.pdf
 
