@@ -154,8 +154,8 @@ should still have the code.
 ---
 
 For full-blown game dynamic result talk to Dr Bruce M. He has a
-consulting company now apparently. But the final outcome will probably
-be close to this.
+consulting company now I hear.. But the final outcome will probably be
+close to the one below.
 
 ---
 
