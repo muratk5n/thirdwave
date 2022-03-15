@@ -148,14 +148,6 @@ idea"
 
 ---
 
-Not referring to anything current
-
----
-
-*qui Deo placeat et utilis sit regno*.. Nice
-
----
-
 68 suggests a final outcome closer to Russia's position. No Nato,
 neutral, but maybe with some military presence, and some sanctions
 remain in place?
@@ -222,6 +214,14 @@ is neutral, demilitarized, no Nato.
 
 Curious abt the "mean voer position" of the UKR-RU dynamic, talks,
 per [here](2015/07/game-theory-greece.md). Cranking some numbers...
+
+---
+
+Not referring to anything current
+
+---
+
+*qui Deo placeat et utilis sit regno*.. Nice
 
 ---
 
