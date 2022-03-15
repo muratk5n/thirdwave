@@ -66,11 +66,6 @@ Will there be clapping?
 
 ---
 
-"Kremlin doesn't rule out taking 'full control' of major Ukraine
-cities"
-
----
-
 Dining Rooms - La Citta' Nuda \#music
 
 [[-]](https://youtu.be/qSElwl8aklw)
@@ -134,6 +129,11 @@ citizens and businesses', and is a reform to the monetary system which
 idea"
 
 [[-]](https://positivemoney.org/2019/09/mark-carney-there-will-be-change-in-unsustainable-monetary-system)
+
+---
+
+"Kremlin doesn't rule out taking 'full control' of major Ukraine
+cities"
 
 ---
 
