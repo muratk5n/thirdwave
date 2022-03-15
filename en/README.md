@@ -167,7 +167,7 @@ remain in place?
 
 ```python
 import pandas as pd, io
-df = pd.read_csv(io.StringIO(s))
+df = pd.read_csv(io.StringIO(data))
 
 def weighted_mode(df):
     df['w'] = df.Clout*df.Salience 
@@ -196,7 +196,7 @@ they still win.
 Here is my raw data. Agree?
 
 ```python
-s = """
+data = """
 Stakeholder,Clout,Position,Salience
 Russia,70,100,100
 Ukraine,40,40,100
