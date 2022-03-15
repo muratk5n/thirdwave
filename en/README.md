@@ -162,6 +162,7 @@ remain in place?
 
 ---
 
+```python
 import pandas as pd, io
 df = pd.read_csv(io.StringIO(s))
 
