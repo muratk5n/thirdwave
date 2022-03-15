@@ -49,20 +49,20 @@ built in the US today"
 
 LCOH
 
-|Source         |LCOH ($/GJ) |Reference| 
-|---------------|------------|----------|
-|Natgas, CCS    | 13.98      | [Paper](https://www.linkedin.com/pulse/what-levelized-cost-clean-hydrogen-production-greg-perkins/)  |
-|Nuclear HTGR   | 17.55      | [Book](https://books.google.com.tr/books?id=BpZ7DwAAQBAJ)  |
-|Coal IGCC, CCS | 21.25      | [IEAGHG](https://ieaghg.org/docs/General_Docs/Reports/2014-03.pdf)  |
-|PV             | 26.00      | [Paper](https://www.cell.com/cell-reports-physical-science/pdfExtended/S2666-3864(20)30224-1)  |
-|CSP Thermochem | 42.08      | [Paper](https://www.mdpi.com/1996-1073/12/3/352/pdf-vor)  |
+|Source             |LCOH ($/GJ) |Reference| 
+|-------------------|------------|----------|
+|Natgas, CCS        | 13.98      | [Paper](https://www.linkedin.com/pulse/what-levelized-cost-clean-hydrogen-production-greg-perkins/)  |
+|Nuclear HTGR       | 17.55      | [Book](https://books.google.com.tr/books?id=BpZ7DwAAQBAJ)  |
+|Coal IGCC, CCS     | 21.25      | [IEAGHG](https://ieaghg.org/docs/General_Docs/Reports/2014-03.pdf)  |
+|PV                 | 26.00      | [Paper](https://www.cell.com/cell-reports-physical-science/pdfExtended/S2666-3864(20)30224-1)  |
+|CSP Therm + Ceria  | 42.08      | [Paper](https://www.mdpi.com/1996-1073/12/3/352/pdf-vor)  |
 
 LCOE
 
 
 |Source         |Overn Cost ($/KW)   |LCOE ($/MWh)|Reference| 
 |---------------|--------------------|------------|----------|
-|Solar          |                    | 32.78      |[IEA](https://www.iea.org/reports/projected-costs-of-generating-electricity-2020)
+|PV Solar       | 1327               | 32.78      |[EIA](https://www.eia.gov/outlooks/aeo/assumptions/pdf/table_8.2.pdf),[IEA](https://www.iea.org/reports/projected-costs-of-generating-electricity-2020)
 |Wind, Onshore  | 1718               | 50.0       |[IEA](https://www.iea.org/reports/projected-costs-of-generating-electricity-2020)
 |Nuclear        | 7030               | 53.4       |[Paper](https://link.springer.com/content/pdf/10.1007/s11356-021-18129-3.pdf/)|
 |Wind, Offshore | 4833               | 88.0       |[EIA](https://www.eia.gov/outlooks/aeo/assumptions/pdf/table_8.2.pdf),[IEA](https://www.iea.org/reports/projected-costs-of-generating-electricity-2020)
@@ -71,5 +71,5 @@ LCOE
 |CSP (100 MW)   | 7895               | 95.0       |[EIA](https://www.eia.gov/outlooks/aeo/assumptions/pdf/table_8.2.pdf),DOE (see above)|
 |Batteries      |                    | 121.84     |[EIA](https://www.eia.gov/outlooks/aeo/pdf/electricity_generation.pdf)|
 |Coal Comb CCS  |                    | 122.7      |[IEAGHG](https://ieaghg.org/docs/General_Docs/Reports/2014-03.pdf)|
-|Coal IGCC CCS  |                    | 151.8      |[IEAGHG](https://ieaghg.org/docs/General_Docs/Reports/2014-03.pdf)|
+|Coal IGCC CCS  | 3819               | 151.8      |[Doc](https://atb-archive.nrel.gov/electricity/2017/index.html?t=cc&s=cx),[IEAGHG](https://ieaghg.org/docs/General_Docs/Reports/2014-03.pdf)|
 
