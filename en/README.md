@@ -49,80 +49,6 @@ Al Jazeera: "Oil concerns give Iran the upper hand in nuclear talks"
 
 ---
 
-68 suggests a final outcome closer to Russia's position. No Nato,
-neutral, but maybe with some military presence, and some sanctions
-remain in place?
-
----
-
-import pandas as pd, io
-df = pd.read_csv(io.StringIO(s))
-
-def weighted_mode(df):
-    df['w'] = df.Clout*df.Salience 
-    df['w'] = df['w'] / df['w'].sum()
-    df['w'] = df['w'].cumsum()
-    return float(df[df['w']>=0.5].head(1).Position)    
-def mean(df):
-    return (df.Clout*df.Position*df.Salience).sum() / \
-           (df.Clout*df.Salience).sum()
-
-print ('mean voter %0.2f' % mean(df))
-```
-
-```text
-mean voter 68.83
-```
-
----
-
-I assigned salience 70 to US, bcz strategically I dont think they give
-a shit; stuff goes bad, Russia is outcast, EU-RU relation is screwed,
-they still win.
-
----
-
-Here is my raw data. Agree?
-
-```python
-
-s = """
-Stakeholder,Clout,Position,Salience
-Russia,70,100,100
-Ukraine,40,40,100
-USA,80,40,70
-Europe,50,60,100
-China,60,80,100
-India,40,80,80
-"""
-
----
-
-Encode decision range as 0: Sanctions, Ukraine gov remains, no promise
-on Nato, pre-war status continues, 100: All sanctions lifted, Ukraine
-is neutral, demilitarized, no Nato.
-
----
-
-[Link](https://drive.google.com/uc?export=view&id=1XHVZ3G6muR29BGSAsV2zBOqtn9TIvJHA)
-
----
-
-[Link](https://drive.google.com/uc?export=view&id=1GFoFGDg3N0PcnkrbW0lwUGjHwmmD0G-Y)
-
----
-
-Might share later. For now "mean voer position", as in
-[here](2015/07/game-theory-greece.md).
-
-Prelim results dont show change in mean anyway.
-
----
-
-Ah found some code for B. Mesquita's IR, politics simulation
-
----
-
 Gov is more at fault to be sure but most of the folks in Congress went
 along with Russia Russia Russia when they didn't have to, and likely
 contributed to a future crisis that could be averted.
@@ -227,6 +153,74 @@ Not referring to anything current
 ---
 
 *qui Deo placeat et utilis sit regno*.. Nice
+
+---
+
+68 suggests a final outcome closer to Russia's position. No Nato,
+neutral, but maybe with some military presence, and some sanctions
+remain in place?
+
+---
+
+import pandas as pd, io
+df = pd.read_csv(io.StringIO(s))
+
+def weighted_mode(df):
+    df['w'] = df.Clout*df.Salience 
+    df['w'] = df['w'] / df['w'].sum()
+    df['w'] = df['w'].cumsum()
+    return float(df[df['w']>=0.5].head(1).Position)    
+def mean(df):
+    return (df.Clout*df.Position*df.Salience).sum() / \
+           (df.Clout*df.Salience).sum()
+
+print ('mean voter %0.2f' % mean(df))
+```
+
+```text
+mean voter 68.83
+```
+
+---
+
+I assigned salience 70 to US, bcz strategically I dont think they give
+a shit; stuff goes bad, Russia is outcast, EU-RU relation is screwed,
+they still win.
+
+---
+
+Here is my raw data. Agree?
+
+```python
+
+s = """
+Stakeholder,Clout,Position,Salience
+Russia,70,100,100
+Ukraine,40,40,100
+USA,80,40,70
+Europe,50,60,100
+China,60,80,100
+India,40,80,80
+"""
+
+---
+
+Encode decision range as 0: Sanctions, Ukraine gov remains, no promise
+on Nato, pre-war status continues, 100: All sanctions lifted, Ukraine
+is neutral, demilitarized, no Nato.
+
+---
+
+[Link](https://drive.google.com/uc?export=view&id=1XHVZ3G6muR29BGSAsV2zBOqtn9TIvJHA)
+
+---
+
+[Link](https://drive.google.com/uc?export=view&id=1GFoFGDg3N0PcnkrbW0lwUGjHwmmD0G-Y)
+
+---
+
+Curious abt the "mean voer position" of the UKR-RU dynamic, talks,
+per [here](2015/07/game-theory-greece.md). Cranking some numbers...
 
 ---
 
