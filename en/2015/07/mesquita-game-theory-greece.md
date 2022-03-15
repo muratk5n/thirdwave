@@ -1,4 +1,4 @@
-# Bruce bd Mesquita's Game Theoretical Method, Greece Debt Relief
+# Greece Debt Relief, Game Theory
 
 Bruce bd Mesquita (BdM) developed a method to predict how decisions
 are formed within a group of people, nations, alliances, parliaments

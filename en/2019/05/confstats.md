@@ -10,7 +10,7 @@ Deaths, Incidences, Globally
 import pandas as pd
 
 def overall_deaths(mon):
-   url = 'https://ucdp.uu.se/downloads/candidateged/GEDEvent_v21_0_%d.csv' % mon
+   url = 'https://ucdp.uu.se/downloads/candidateged/GEDEvent_v22_0_%d.csv' % mon
    df = pd.read_csv(url)
    g = df[['country','deaths_b']].\
        groupby(['country']).\
@@ -18,32 +18,32 @@ def overall_deaths(mon):
    g.columns = ['incidents','deaths']
    return g.sort_values('deaths',ascending=False)
 
-print (overall_deaths(mon=9).head(20))
+print (overall_deaths(mon=1).head(20))
 ```
 
 ```text
-                          incidents  deaths
-country                                    
-Afghanistan                      47     265
-Yemen (North Yemen)              63     223
-Nigeria                          55     119
-Ethiopia                         15      67
-DR Congo (Zaire)                 69      55
-Myanmar (Burma)                  78      55
-Mozambique                       16      34
-Iraq                             31      32
-Philippines                      15      32
-Pakistan                         19      30
-Colombia                         13      21
-Syria                            54      19
-Mexico                          328      18
-Kenya                             5      15
-Cameroon                         33      12
-India                            15      12
-Mali                             17       9
-Central African Republic         18       8
-Ukraine                          14       7
-Israel                            4       7
+                     incidents  deaths
+country                               
+Nigeria                     54     239
+Burkina Faso                19     231
+Somalia                     39     147
+Syria                       39     129
+DR Congo (Zaire)           129     103
+Mali                        29      88
+Yemen (North Yemen)         80      74
+Myanmar (Burma)             92      60
+Iraq                        11      30
+India                       29      30
+Pakistan                    27      26
+Kenya                        9      22
+Afghanistan                 13      19
+Mexico                     268      18
+Chad                         1      14
+Philippines                 10      13
+Niger                        5      12
+Cameroon                    18      12
+Morocco                      2       4
+Thailand                     3       4
 ```
 
 Details for Specific Country
