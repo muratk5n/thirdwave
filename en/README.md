@@ -55,7 +55,7 @@ contributed to a future crisis that could be averted.
 
 ---
 
-Like we f--d shit up and hope now ppl forget we f--d shit up kind of
+Like 'we f--d shit up and hope now ppl forget we f--d shit up' kind of
 clapping? I really wanna see that
 
 ---
