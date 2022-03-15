@@ -148,6 +148,11 @@ attacks"
 
 ---
 
+For full-blown game dynamic result talk to Dr Bruce M. He has a
+consulting company now apparently.
+
+---
+
 68 suggests a final outcome closer to Russia's position. No Nato,
 neutral, but maybe with some military presence, and some sanctions
 remain in place?
