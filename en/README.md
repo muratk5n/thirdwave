@@ -149,7 +149,8 @@ attacks"
 ---
 
 For full-blown game dynamic result talk to Dr Bruce M. He has a
-consulting company now apparently.
+consulting company now apparently. But the final outcome will probably
+be close to this.
 
 ---
 
