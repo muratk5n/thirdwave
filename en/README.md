@@ -26,10 +26,9 @@ Heinenoord."
 ---
 
 In my [costs](2022/02/costs-lcoe.md) doc I have the so-called nuclear
-HTGR tech to have a low LCOH (levelized cost of H2).
-$17.55/Gigajoules is pretty good. Initial (overnight) costs can be
-high, and there is the waste issue, but hey, overall not too
-shabby.
+HTGR tech with a low LCOH (levelized cost of H2).  $17.55/Gigajoules
+is pretty good. Initial (overnight) costs can be high, and there is
+the waste issue, but hey, overall not too shabby.
 
 H2 View: "Large-scale nuclear hydrogen generation to be explored in Ontario, Canada"
 
