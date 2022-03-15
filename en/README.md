@@ -102,7 +102,7 @@ impact? He could be right..
 
 ---
 
-He admitted BTW bank credit is newly created money. Most econs are not
+He admitted bank credit is newly created money BTW. Most econs are not
 even aware this is the case; their monkey theories always talk about
 money being 'the veil of barter' - a completely false claim.
 
