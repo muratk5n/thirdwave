@@ -212,8 +212,9 @@ is neutral, demilitarized, no Nato.
 
 ---
 
-Curious abt the "mean voer position" of the UKR-RU dynamic, talks,
-per [here](2015/07/mesquita-game-theory-greece.md). Cranking some numbers...
+Curious abt the "mean voter position" of the UKR-RU dynamic, talks,
+per [here](2015/07/mesquita-game-theory-greece.md). Cranking some
+numbers...
 
 ---
 
