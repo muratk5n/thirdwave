@@ -77,17 +77,6 @@ Dining Rooms - La Citta' Nuda \#music
 
 ---
 
-The Independent: "What weapons does Russia have? The deadly arms Putin
-could use in Ukraine war from cluster to vacuum bombs.. Thermobaric
-rocket launchers have been seen moving towards Kyiv"
-
----
-
-LA Times: "Russia strikes Ukraine army base near Poland as it widens
-attacks"
-
----
-
 "Trumpublican"
 
 ---
@@ -145,6 +134,17 @@ citizens and businesses', and is a reform to the monetary system which
 idea"
 
 [[-]](https://positivemoney.org/2019/09/mark-carney-there-will-be-change-in-unsustainable-monetary-system)
+
+---
+
+The Independent: "What weapons does Russia have? The deadly arms Putin
+could use in Ukraine war from cluster to vacuum bombs.. Thermobaric
+rocket launchers have been seen moving towards Kyiv"
+
+---
+
+LA Times: "Russia strikes Ukraine army base near Poland as it widens
+attacks"
 
 ---
 
