@@ -47,7 +47,7 @@ next two years"
 
 ---
 
-Funky. What is the LCOE, ONC?
+Funky. What would be the LCOE, ONC I wonder..
 
 <img width="340" src="https://pbs.twimg.com/media/FN4pryWXwAQdox8?format=png&name=small"/>
 
