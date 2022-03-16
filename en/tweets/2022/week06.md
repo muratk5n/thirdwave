@@ -387,9 +387,6 @@ deaths"
 
 ---
 
-I believe 1/3 of ppl received Sinovac 2/3 BioNTech right? The deaths
-cld be due to that..
-
 The Atlantic: "Hong Kong.. pursues a zero-COVID strategy. Flight bans
 have caused air traffic to plummet. On January 31, just 100 passengers
 arrived at Hong Kong International Airport, previously one of the
