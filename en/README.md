@@ -39,7 +39,7 @@ National Laboratories), and a third pathway exploring the use of gas
 as heat transfer material (led by Brayton Energy).
 
 In March of 2021, DOE down-selected among the three pathways to fund
-further research into particle-based storage, butm also created an
+further research into particle-based storage, but also created an
 opportunity for NREL to further develop the liquid pathway over the
 next two years"
 
