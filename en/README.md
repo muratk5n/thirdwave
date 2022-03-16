@@ -84,7 +84,8 @@ friends, remember Rambo 3?'. A marker in history.
 ---
 
 American Indians could survive on Pemmican, for a long time, which is
-basically dried red meat, mixed with fat and berries.
+basically dried red meat (from grass-fed animals), mixed with fat and
+berries.
 
 ---
 
