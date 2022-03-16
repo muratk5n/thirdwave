@@ -102,8 +102,8 @@ Massachusetts could expand protections to tens of millions of people"
 ---
 
 Putin's gonna Putin. Whachu gonna do 'bout it? That has been the
-issue. Now an entire country is being bombed with millions of
-refugees.
+issue. Now an entire country is being bombed, and there are millions
+of refugees.
 
 ---
 
