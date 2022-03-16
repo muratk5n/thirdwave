@@ -115,6 +115,18 @@ In 13 days, #Ukraine has gone from breadbasket to bread handouts"
 
 ---
 
+Putin's gonna Putin. Whachu gonna do 'bout it? That has been the
+issue. Now an entire country is being bombed, and there are millions
+of refugees.
+
+---
+
+They didn't foresee a problem. They *are* the problem.
+
+"But can't we say 'Russia Russia Russia' crowd foresaw a problem?"
+
+---
+
 Better that than the loose cannons who invade countries left and right
 in order to spread liberalism, and the in-between do-nothings who
 somehow think muddling through the swamp left for them by liberal
@@ -141,18 +153,6 @@ he might given some bad advice.
 ---
 
 Jake Sullivan keeps slinging around threats to countries..  
-
----
-
-Putin's gonna Putin. Whachu gonna do 'bout it? That has been the
-issue. Now an entire country is being bombed, and there are millions
-of refugees.
-
----
-
-They didn't foresee a problem. They *are* the problem.
-
-"But can't we say 'Russia Russia Russia' crowd foresaw a problem?"
 
 ---
 
