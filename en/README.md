@@ -99,7 +99,7 @@ Massachusetts could expand protections to tens of millions of people"
 
 ---
 
-Putin's gonna Putin. Whachu gonna do 'bout it?
+Putin's gonna Putin. Whachu gonna do 'bout it? That is the issue here.
 
 ---
 
