@@ -156,8 +156,8 @@ Jake Sullivan keeps slinging around threats to countries..
 
 ---
 
-Yea go ahead, keep on enforcing that flank.. Look busy. I'll clap for
-you.
+Yea go ahead, keep on reinforcing that flank.. Look busy. I'll clap
+for you.
 
 "US and allies considering steps ‘to reinforce NATO’s eastern flank’"
 
