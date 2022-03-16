@@ -109,11 +109,8 @@ They didn't foresee a problem. They *are* the problem.
 
 ---
 
-I am totally clapping for it now.
-
----
-
-Yeah.. go ahead, keep enforcing that flank.. Look busy
+Yeah.. go ahead, keep on enforcing that flank.. Look busy. I'll
+clap for you.
 
 "US and allies considering steps ‘to reinforce NATO’s eastern flank’"
 
