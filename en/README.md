@@ -152,7 +152,7 @@ sitting director of CIA.
 
 Had nothing against JS, first thing I heard about him was before
 NatSec he was part of the Dems trying to push for more left-leaning
-policies?  The negative he was in that Russia Russia Russia crowd pre
+policies? A negative, he was in that Russia Russia Russia crowd pre
 2020, now it looks like he was more shitlib then left, and on RU front
 he might given some bad advice.
 
