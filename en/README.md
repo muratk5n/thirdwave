@@ -68,6 +68,10 @@ Solar Chimney Power Plant? Seriously.
 
 ---
 
+Bloomberg: "Petro-Yuan Still Far-Fetched Even Amid Saudi Mulling Oil Deals"
+
+---
+
 Tadadadaaaa
 
 WSJ: "Saudi Arabia Considers Accepting Yuan Instead of Dollars for Chinese Oil Sales"
