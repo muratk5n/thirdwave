@@ -29,14 +29,14 @@ H2 coming out of all those plants.
 ---
 
 "To spur CSP industry advancement and achieve an energy cost goal of 5
-cents per kWh, the U.S. Department of Energy’s (DOE’s) Gen3 CSP
-program funds research to explore the potential of several heat
-transfer mediums... Investigating three heat transfer materials: [the]
-liquid pathway (exploring use of molten salt as a heat transfer
-material, led by NREL), a particle pathway (using sand-like particles
-as a heat transfer material, led by Sandia National Laboratories), and
-a third pathway exploring the use of gas as heat transfer material
-(led by Brayton Energy).
+cents per kWh [currently it is at 9 cents/kWh], the U.S. Department of
+Energy’s (DOE’s) Gen3 CSP program funds research to explore the
+potential of several heat transfer mediums... Investigating three heat
+transfer materials: [the] liquid pathway (exploring use of molten salt
+as a heat transfer material, led by NREL), a particle pathway (using
+sand-like particles as a heat transfer material, led by Sandia
+National Laboratories), and a third pathway exploring the use of gas
+as heat transfer material (led by Brayton Energy).
 
 In March of 2021, DOE down-selected among the three pathways to fund
 further research into particle-based storage, butm also created an
