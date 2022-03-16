@@ -74,12 +74,6 @@ WSJ: "Saudi Arabia Considers Accepting Yuan Instead of Dollars for Chinese Oil S
 
 ---
 
-Yeah, go ahead, keep on enforcing that flank, look busy
-
-"US and allies considering steps ‘to reinforce NATO’s eastern flank’"
-
----
-
 The era, region was shown with some style, and now movie almost has a
 documentary feel to it bcz, well, that's how things were back
 then. Now many years later we can refer to it and say 'mujaheddin were
@@ -102,6 +96,26 @@ unbalanced eating habits.
 Bloomberg: "Yes, You Can Still Be Fired for Being Fat..Weight-based
 discrimination costs some Americans their jobs. Bills in New York and
 Massachusetts could expand protections to tens of millions of people"
+
+---
+
+Putin's gonna Putin. Whachu gonna do 'bout it?
+
+---
+
+They didn't foresee a problem. They *are* the problem.
+
+"But can't we say 'Russia Russia Russia' crows foresaw a problem?"
+
+---
+
+I am totally clapping for it now.
+
+---
+
+Yeah.. go ahead, keep enforcing that flank.. Look busy
+
+"US and allies considering steps ‘to reinforce NATO’s eastern flank’"
 
 ---
 
