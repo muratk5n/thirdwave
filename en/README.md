@@ -105,7 +105,7 @@ Putin's gonna Putin. Whachu gonna do 'bout it? That is the issue here.
 
 They didn't foresee a problem. They *are* the problem.
 
-"But can't we say 'Russia Russia Russia' crows foresaw a problem?"
+"But can't we say 'Russia Russia Russia' crowd foresaw a problem?"
 
 ---
 
