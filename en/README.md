@@ -77,7 +77,8 @@ WSJ: "Saudi Arabia Considers Accepting Yuan Instead of Dollars for Chinese Oil S
 The era, region was shown with some style, and now movie almost has a
 documentary feel to it bcz, well, that's how things were back
 then. Now many years later we can refer to it and say 'mujaheddin were
-friends, remember Rambo 3?'. A marker in history.
+friends, remember Rambo 3?'. A marker in history. Can't ask for
+anything more.
 
 "Was Rambo 3 US mil propaganda, showing the 'friends' at the time as good guys?"
 
