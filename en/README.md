@@ -155,11 +155,6 @@ from afar" the reason for US's own independence from Britain?
 
 ---
 
-Last time they the trio talked about it was end of 2019. Then covid hits..
-🤔 Now they try again.
-
----
-
 :)
 
 "@theRealKiyosaki
