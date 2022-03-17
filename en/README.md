@@ -160,10 +160,12 @@ Last time they the trio talked about it was end of 2019. Then covid hits..
 
 ---
 
+:)
+
 "@theRealKiyosaki
 
-End of US [dollar]?  Saudi Arabia just agreed to sell China oil and
-trade in Chinese Yuan, not US $. US hegemony ending. US less of a
+End of US [dollar]?  Saudi Arabia [is considering] to sell China oil
+and trade in Chinese Yuan, not US $. US hegemony ending. US less of a
 world power. Thank you Brandon. Just what happens next is in
 question. I will do my best to keep you posted before things
 happen. Take care. Not good"
