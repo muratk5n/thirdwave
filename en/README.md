@@ -145,6 +145,10 @@ just been deleted by YouTube"
 
 ---
 
+Bloomberg: "Petro-Yuan Still Far-Fetched Even Amid Saudi Mulling Oil Deals"
+
+---
+
 The dollar system created an extremely lopsided world. If you think
 about it, after RU invasion due to sanctions there was now the danger
 for countries who want Russian gas would not be able to pay for the
@@ -180,6 +184,23 @@ ISW: "Russian forces in southeastern Ukraine continue to demonstrate
 the greatest capabilities to date and are steadily advancing in three
 directions: northeast from Kherson, taking territory in Donetsk and
 Luhansk Oblasts, and reducing the Ukrainian pocket in Mariupol"
+
+---
+
+
+Peter Hitchens: "We've used Ukraine as a battering ram against Russia"
+
+[[-]](https://youtu.be/XvmddazUW3I?t=62)
+
+---
+
+I believe 1/3 of ppl received Sinovac 2/3 BioNTech right? The deaths
+cld be due to that..
+
+"@business
+
+Hong Kong’s crematoriums are straining under the pressure of the
+world’s highest Covid-19 death rate"
 
 ---
 
