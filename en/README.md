@@ -110,13 +110,6 @@ against?"
 
 ---
 
-"@EmpireFiles
-
-All 550 episodes of @AbbyMartin's.. The Set have just been deleted by
-YouTube"
-
----
-
 The change described below would mean adding a few Ukraine-level food
 shortage issues on top of ones we already have.
 
