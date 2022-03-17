@@ -14,11 +14,11 @@ plans at H2 View’s Virtual Hydrogen Summit Europe 2022"
 
 H2 at $1.50/kg means 10.48 dollars/Gigajoules, in the range of the
 table [here](2022/02/costs-lcoe.md) that beats natgas. NG is still
-good, but Hysata's number is better. 
+good, but Hysata's number is better.    
 
 ---
 
-Good development
+Great development
 
 H2 View: "Breakthrough technology to enable hydrogen production of
 below $1.50/kg in Australia.. Based in Australia, Hysata’s
@@ -95,18 +95,6 @@ hydrogen"
 WION: "India's first Hydrogen-powered car to be unveiled.. India's
 Minister for Road Transport and Highways Mr Nitin Gadkari made a big
 announcement at WION Climate Summit on March 15"
-
----
-
-Not cool.. not cool at all
-
-"@LeeCamp
-
-My TV show Redacted Tonight has been deleted from @YouTube . So, even
-if you hate everything I ever said, are we all cool with this? Big
-tech deletes anything that goes against the corporate state. Does that
-sound fine? Or has America become the monster it claims to fight
-against?"
 
 ---
 
