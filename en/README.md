@@ -6,160 +6,196 @@ Pinned Tweet
 
 ---
 
-H2 Fuel News: "EU plunges into green hydrogen and renewables plans as
-it sidesteps Russian gas Commission says the RePowerEU plan will
-achieve independence from Russian energy before 2030.  The European
-Commission claims that its plan for using renewables and green
-hydrogen will ensure that the EU will achieve independence from
-Russian fossil fuels 'well before 2030.''
+H2 View: "[Secretary General of Hydrogen Europe] Jorgo Chatzimarkakis
+unveils proposal for hydrogen to be included in European gas reserve
+plans at H2 View’s Virtual Hydrogen Summit Europe 2022"
 
 ---
 
-H2 Fuel News: "Green hydrogen fuel to become competitive due to war in
-Ukraine, says BNEF report"
+H2 at $1.50/kg means 10.48 dollars/Gigajoules, in the range of the
+table [here](2022/02/costs-lcoe.md) that beats natgas. NG is still
+good, but Hysata's number is better. ⚡ 💧 ⚛️ &#9981; 🚙
 
 ---
 
-Coal IGCC tech + CCS overnight capital cost is $3819/KW, almost on par
-with coal plant wout CCS. LCOE is high but LCOH is low. Letz have blue
-H2 coming out of all those plants.
+⚡ 💧 ⚛️ &#9981; 🚙 
 
-[[-]](2022/02/costs-lcoe.md)
+H2 View: "Breakthrough technology to enable hydrogen production of
+below $1.50/kg in Australia.. Based in Australia, Hysata’s
+capillary-fed electrolysis cell is capable of producing green hydrogen
+from water at 98% cell energy efficiency..
 
----
-
-"To spur CSP industry advancement and achieve an energy cost goal of 5
-cents per kWh [currently it is at 9 cents/kWh], the U.S. Department of
-Energy’s (DOE’s) Gen3 CSP program funds research to explore the
-potential of several heat transfer mediums... Investigating three heat
-transfer materials: [the] liquid pathway (exploring use of molten salt
-as a heat transfer material, led by NREL), a particle pathway (using
-sand-like particles as a heat transfer material, led by Sandia
-National Laboratories), and a third pathway exploring the use of gas
-as heat transfer material (led by Brayton Energy).
-
-In March of 2021, DOE down-selected among the three pathways to fund
-further research into particle-based storage, but also created an
-opportunity for NREL to further develop the liquid pathway over the
-next two years"
-
-[[-]](https://energypost.eu/getting-concentrating-solar-power-csp-down-to-0-05-per-kwh/)
+The technology was invented by scientists at the University of
+Wollongong and is now being commercialised by Hysata, with backing
+from IP Group and the Clean Energy Finance Corporation (CEFC)"
 
 ---
 
-Funky. What would be the LCOE, ONC I wonder..
-
-<img width="340" src="https://pbs.twimg.com/media/FN4pryWXwAQdox8?format=png&name=small"/>
-
----
-
-Wiki: "The solar updraft tower.. is a design concept for a
-renewable-energy power plant for generating electricity from low
-temperature solar heat. Sunshine heats the air beneath a very wide
-greenhouse-like roofed collector structure surrounding the central
-base of a very tall chimney tower. The resulting convection causes a
-hot air updraft in the tower by the chimney effect. This airflow
-drives wind turbines, placed in the chimney updraft or around the
-chimney base, to produce electricity"
+H2 View: "Bavaria’s first hydrogen train to hit tracks next year.. The
+German state of Bavaria will soon boast its first-ever
+hydrogen-powered train – and it will be presented to the public this
+spring"
 
 ---
 
-Solar Chimney Power Plant? Seriously.
+Only had 17 cloudy days btw Aug-Feb..? Some fine-ass DNI boi!
 
 ---
 
-Tadadadaaaa
-
-WSJ: "Saudi Arabia Considers Accepting Yuan Instead of Dollars for Chinese Oil Sales"
-
----
-
-The era, region was shown with some style, and now movie almost has a
-documentary feel to it bcz, well, that's how things were back
-then. Now many years later we can refer to it and say 'mujaheddin were
-friends, remember Rambo 3?'. A marker in history. Can't ask for
-anything more.
-
-"Was Rambo 3 US mil propaganda, showing the 'friends' at the time as good guys?"
+Cosin is in Qinghai. Yep.. Tibet, Qinghai, Sichuan, Shaanxi. All have
+a lot of potential. Talked abt this before. [Map](https://pbs.twimg.com/media/FD5unTVXsAUe4PI?format=png&name=small).
 
 ---
 
-American Indians could survive on Pemmican, for a long time, which is
-basically dried red meat (from grass-fed animals), mixed with fat and
-berries.
+SolarPaces: "Cosin Solar.. seemed to burst on the global [CSP] scene
+as a fully fledged Chinese CSP firm. Among China’s pilot projects, the
+Supcon Delingha 50 MW tower CSP with 7 hours of storage in Qinghai
+Province was among the few to succeed in China’s pilot program.
+
+The project reached full load much faster than the first CSP projects
+in the US.., and entering regular operation recorded by the government
+by late 2019. I spoke with Cosin Solar Chairman Jin Jianxiang..
+
+JJ: 'Many people who don’t know our background think we succeeded in
+the first shot. In fact, we have been researching CSP technology for
+over 12 years from lab tests to demonstration pilots..
+
+From 2013 to 2015, through 3 years of experimental research, we
+successfully solved the problems of mirror field control, heat
+absorber tube burst, molten salt valve leak, electrical heat tracing
+failure etc...
+
+For the last 187 days, from 26th August 2021 to 28th February 2022, we
+had 17 cloudy days and actually operated for 170 days. We’ve averaged
+over 100% of expected generation for 103 of those days, and the
+remaining 67 days were a little under 100%. During this period since
+August last year, aggregate DNI was 1197 kWh/m², for a theoretical
+production of 91 GWh. Yet our actual production was 92 GWh, and our
+average power generation achievement rate was 101%"
 
 ---
 
-I think firing based on fatness should be legit. But then people
-should be able to sue soft drink companies, even the government who
-advocated low-fat high-sugar diets all these years leading to bizarre
-unbalanced eating habits.
+H2 View: "[Michelin is] betting big on [H2, as] the energy carrier, as
+[VP] Sabet made clear in his presentation. Through a vast array of
+projects and collaborations, the company is expanding its footprint in
+the hydrogen mobility space. Detailing one of many projects the
+Michelin is currently working on, Sabet said, 'We are working on a
+hydrogen corridor project. It was the first of its kind back in 2017
+and it has a vision to create a hydrogen [station] corridor of 20
+sites to refuel 1,200 vehicles.'
 
-Bloomberg: "Yes, You Can Still Be Fired for Being Fat..Weight-based
-discrimination costs some Americans their jobs. Bills in New York and
-Massachusetts could expand protections to tens of millions of people"
-
----
-
-"@Channel4News
-
-The head of the World Food Programme (@WFPChief) tells @krishgm that
-$600 million is needed to tackle the food crisis in Ukraine for three
-months"
+Hympulsion, a joint venture between Michelin and Engie, is making the
+corridor come to life, having invested ?8m in deploying refuelling
+stations and catalysts for distributing and producing decarbonised
+hydrogen"
 
 ---
 
-"@WFPChief
-
-In 13 days, #Ukraine has gone from breadbasket to bread handouts"
-
----
-
-Putin's gonna Putin. Whachu gonna do 'bout it? That has been the
-issue. Now an entire country is being bombed, and there are millions
-of refugees.
+WION: "India's first Hydrogen-powered car to be unveiled.. India's
+Minister for Road Transport and Highways Mr Nitin Gadkari made a big
+announcement at WION Climate Summit on March 15"
 
 ---
 
-They didn't foresee a problem. They *are* the problem.
+That means add a few Ukraine-level food shortage issues on top of ones
+we already have.
 
-"But can't we say 'Russia Russia Russia' crowd foresaw a problem?"
+NBC News: "The report from the Intergovernmental Panel on Climate
+Change examined how agriculture will be affected by global warming, as
+well as how food production and other changes in land use are expected
+to contribute to climate change in the future. The panel concluded
+that if average global temperatures rise 2 degrees Celsius over the
+pre-industrial average — something that previous reports by the panel
+have suggested could happen by the end of the century — the risk of
+food supply instabilities 'are projected to be very high,' according
+to the report, which was written by more than 100 scientists from
+around the world.
 
----
-
-Better that than the loose cannons who invade countries left and right
-in order to spread liberalism, and the in-between do-nothings who
-somehow think muddling through the swamp left for them by liberal
-preachers is manageable.
-
----
-
-Kissinger is what Mearsheimer would call a realist. It's a thing.
-
----
-
-I hate to say it, and some people really dislike him, but Kissenger
-always warned against NATO expansion. William Burns too BTW, the
-sitting director of CIA.
-
----
-
-Had nothing against JS, first thing I heard before NatSec was part of
-the Dems trying to push for more left-leaning policies? A negative,
-part of that Russia Russia Russia crowd pre 2020, now it looks like he
-was more shitlib then left, and on RU front probably gave some bad
-advice.
+One of the key ways food production could be affected is by extreme
+weather events. Studies have shown that climate change is increasing
+both the frequency and severity of extreme weather, causing more
+intense downpours during storms or lengthening extreme heat waves, for
+example, which can disrupt crops or alter growing seasons.. 'In the
+past, bad weather in one area has been compensated by perhaps better
+weather in another, but some of our research has shown that as we move
+toward 2 degrees Celsius of warming, the probability of major cereal
+producers facing synchronous shocks in the same season goes way up,'
+said Rosamond Naylor, director of the Center on Food Security and the
+Environment at Stanford University"
 
 ---
 
-Jake Sullivan keeps slinging around threats to countries..  
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
-Yea go ahead, keep on reinforcing that flank.. Look busy. I'll clap
-for you.
+Not cool.. not cool at all
 
-"US and allies considering steps ‘to reinforce NATO’s eastern flank’"
+"@LeeCamp
+
+My TV show Redacted Tonight has been deleted from @YouTube . So, even
+if you hate everything I ever said, are we all cool with this? Big
+tech deletes anything that goes against the corporate state. Does that
+sound fine? Or has America become the monster it claims to fight
+against?"
+
+---
+
+@EmpireFiles
+
+All 550 episodes of @AbbyMartin’s legendary show Breaking The Set have
+just been deleted by YouTube
+
+---
+
+The dollar system created an extremely lopsided world. If you think
+about it, after RU invasion due to sanctions there was now the danger
+for countries who want Russian gas would not be able to pay for the
+Russian gas. Under the current system that payment can surely get cut,
+but then the system itself comes into question.. "Who the muck are
+they to dictate how two neighbors trade from the other side of the
+world?"  will be the thought. Right? Wasn't "the inability to govern
+from afar" the reason for US's own independence from Britain?
+
+---
+
+Last time they the trio talked about it was end of 2019. Then covid hits..
+🤔 Now they try again.
+
+---
+
+"@theRealKiyosaki
+
+End of US [dollar]?  Saudi Arabia just agreed to sell China oil and
+trade in Chinese Yuan, not US $. US hegemony ending. US less of a
+world power. Thank you Brandon. Just what happens next is in
+question. I will do my best to keep you posted before things
+happen. Take care. Not good"
+
+---
+
+Mint: "Russia, India explore opening alternative payment channels amid sanctions"
+
+---
+
+Economic Times: "[Nov 2019] India-Russia-China explore alternative to SWIFT payment"
+
+---
+
+ISW: "Russian forces in southeastern Ukraine continue to demonstrate
+the greatest capabilities to date and are steadily advancing in three
+directions: northeast from Kherson, taking territory in Donetsk and
+Luhansk Oblasts, and reducing the Ukrainian pocket in Mariupol"
 
 ---
 
