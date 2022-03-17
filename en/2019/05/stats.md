@@ -968,7 +968,7 @@ sources = ('coal','TOTAL.CLTCBUS.M'),('hydro','TOTAL.HVTCBUS.M'),\
 dfall = []
 descs = []
 for desc,lab in sources:
-    url = 'http://api.eia.gov/series/?api_key=' + api_key + '&series_id=' + lab
+    url = 'https://api.eia.gov/series/?api_key=' + api_key + '&series_id=' + lab
     r = requests.get(url)
     json_data = r.json()
     df = pd.DataFrame(json_data.get('series')[0].get('data'))
@@ -993,6 +993,26 @@ plt.savefig('energy-sources.png')
 ```
 
 ![](energy-sources.png)
+
+Looking at YoY increases per source
+
+```python
+dfeng = dfall[descs]
+source = 'solar'
+dfeng[source+'prev'] = dfeng[source].shift(-12)
+dfeng[source+'yoy'] = (dfeng[source]-dfeng[source+'prev']) / dfeng[source+'prev'] * 100.0
+print (dfeng[source+'yoy'].dropna().head(5))
+```
+
+```text
+Date
+2021-02-01    23.864871
+2021-01-01    23.464886
+2020-12-01    23.901563
+2020-11-01    22.981503
+2020-10-01    22.238344
+Name: solaryoy, dtype: float64
+```
 
 ## Wealth, Debt
 
