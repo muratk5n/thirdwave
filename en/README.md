@@ -126,8 +126,8 @@ Environment at Stanford University"
 
 ---
 
-1/3 of ppl received Sinovac 2/3 BioNTech afaik.. High \# of deaths cld
-be due to that..
+1/3 of ppl received Sinovac 2/3 BioNTech afaik.. High number of deaths
+cld be due to that..
 
 "@business
 
@@ -155,7 +155,7 @@ from afar" the reason for US's own independence from Britain?
 
 "@theRealKiyosaki
 
-End of US [dollar]?  Saudi Arabia [is considering] to sell China oil
+End of US [dollar] ?  Saudi Arabia [is considering] to sell China oil
 and trade in Chinese Yuan, not US $. US hegemony ending. US less of a
 world power. Thank you Brandon. Just what happens next is in
 question. I will do my best to keep you posted before things
@@ -167,7 +167,7 @@ Mint: "Russia, India explore opening alternative payment channels amid sanctions
 
 ---
 
-Economic Times: "[Nov 2019] India-Russia-China explore alternative to SWIFT payment"
+Economic Times: "(Nov 2019) India-Russia-China explore alternative to SWIFT payment"
 
 ---
 
