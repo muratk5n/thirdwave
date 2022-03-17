@@ -112,8 +112,8 @@ against?"
 
 "@EmpireFiles
 
-All 550 episodes of @AbbyMartin’s legendary show Breaking The Set have
-just been deleted by YouTube"
+All 550 episodes of @AbbyMartin’s.. The Set have just been deleted by
+YouTube"
 
 ---
 
