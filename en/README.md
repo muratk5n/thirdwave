@@ -38,7 +38,7 @@ spring"
 
 ---
 
-Only had 17 cloudy days btw Aug-Feb..? Some fine-ass DNI boi!
+Only had 17 cloudy days btw Aug-Feb..? Some fine-ass DNI!
 
 ---
 
