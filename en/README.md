@@ -98,6 +98,25 @@ announcement at WION Climate Summit on March 15"
 
 ---
 
+Not cool.. not cool at all
+
+"@LeeCamp
+
+My TV show Redacted Tonight has been deleted from @YouTube . So, even
+if you hate everything I ever said, are we all cool with this? Big
+tech deletes anything that goes against the corporate state. Does that
+sound fine? Or has America become the monster it claims to fight
+against?"
+
+---
+
+"@EmpireFiles
+
+All 550 episodes of @AbbyMartin’s legendary show Breaking The Set have
+just been deleted by YouTube"
+
+---
+
 The change described below would mean adding a few Ukraine-level food
 shortage issues on top of ones we already have.
 
