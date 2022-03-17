@@ -166,7 +166,7 @@ Russian gas. Under the current system that payment can surely get cut,
 but then the system itself comes into question.. "Who the muck are
 they to dictate how two neighbors trade from the other side of the
 world?"  will be the thought. Right? Wasn't "the inability to govern
-from afar" the reason for US's own independence from Britain?
+from afar" the reason for US's own independence from Britain? 
 
 ---
 
