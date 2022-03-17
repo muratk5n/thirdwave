@@ -43,7 +43,7 @@ Only had 17 cloudy days btw Aug-Feb..? Some fine-ass DNI!
 ---
 
 Cosin is in Qinghai. Yep.. Tibet, Qinghai, Sichuan, Shaanxi. All have
-a lot of potential. China can become energy independent, using
+great potential. China can become energy independent, using
 solar alone.
 
 ---
