@@ -112,7 +112,7 @@ against?"
 
 "@EmpireFiles
 
-All 550 episodes of @AbbyMartin’s.. The Set have just been deleted by
+All 550 episodes of @AbbyMartin's.. The Set have just been deleted by
 YouTube"
 
 ---
