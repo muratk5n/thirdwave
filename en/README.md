@@ -86,9 +86,9 @@ and it has a vision to create a hydrogen [station] corridor of 20
 sites to refuel 1,200 vehicles.'
 
 Hympulsion, a joint venture between Michelin and Engie, is making the
-corridor come to life, having invested ?8m in deploying refuelling
-stations and catalysts for distributing and producing decarbonised
-hydrogen"
+corridor come to life, having invested 8m [Eur] in deploying
+refuelling stations and catalysts for distributing and producing
+decarbonised hydrogen"
 
 ---
 
