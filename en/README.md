@@ -14,11 +14,11 @@ plans at H2 View’s Virtual Hydrogen Summit Europe 2022"
 
 H2 at $1.50/kg means 10.48 dollars/Gigajoules, in the range of the
 table [here](2022/02/costs-lcoe.md) that beats natgas. NG is still
-good, but Hysata's number is better. ⚡ 💧 ⚛️ &#9981; 🚙
+good, but Hysata's number is better. 
 
 ---
 
-⚡ 💧 ⚛️ &#9981; 🚙 
+Good development
 
 H2 View: "Breakthrough technology to enable hydrogen production of
 below $1.50/kg in Australia.. Based in Australia, Hysata’s
