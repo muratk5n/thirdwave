@@ -97,8 +97,8 @@ announcement at WION Climate Summit on March 15"
 
 ---
 
-That means add a few Ukraine-level food shortage issues on top of ones
-we already have.
+The change described below would mean adding a few Ukraine-level food
+shortage issues on top of ones we already have.
 
 NBC News: "The report from the Intergovernmental Panel on Climate
 Change examined how agriculture will be affected by global warming, as
