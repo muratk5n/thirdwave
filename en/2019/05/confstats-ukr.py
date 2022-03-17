@@ -45,19 +45,23 @@ for i in range(5):
     d = now - datetime.timedelta(days=i+1)
     sd = "%d%02d%02d" % (d.year, d.month, d.day)
     url = base_conflict_url + "/%s.export.CSV.zip" % sd
-    r = urllib2.urlopen(url).read()
-    file = ZipFile(BytesIO(r))
-    csv = file.open("%s.export.CSV" % sd)
-    df = pd.read_csv(csv,sep='\t',header=None)    
-    urls = df[57]        
-    df2 = df[range(len(conf_cols))]
-    df2 = pd.concat((df2,urls),axis=1)    
-    df2.columns = conf_cols + ['url']
-    df3 = df2[(df2.EventCode==190)|(df2.EventCode==195)|(df2.EventCode==194)]
-    df3.loc[:,'dist'] = df3.apply(dist, axis=1)
-    df3 = df3[df3.dist < how_far]
-    dft = df3[['EventCode','Actor1CountryCode','Actor1Name','Actor2Name','Actor2Geo_Lat','Actor2Geo_Long','url']].copy()
-    dfs.append(dft)
+    try: 
+        r = urllib2.urlopen(url).read()
+        file = ZipFile(BytesIO(r))
+        csv = file.open("%s.export.CSV" % sd)
+        df = pd.read_csv(csv,sep='\t',header=None)    
+        urls = df[57]        
+        df2 = df[range(len(conf_cols))]
+        df2 = pd.concat((df2,urls),axis=1)    
+        df2.columns = conf_cols + ['url']
+        df3 = df2[(df2.EventCode==190)|(df2.EventCode==195)|(df2.EventCode==194)]
+        df3.loc[:,'dist'] = df3.apply(dist, axis=1)
+        df3 = df3[df3.dist < how_far]
+        dft = df3[['EventCode','Actor1CountryCode','Actor1Name','Actor2Name','Actor2Geo_Lat','Actor2Geo_Long','url']].copy()
+        dfs.append(dft)
+    except:
+        print (url, 'missing')
+        continue
 
 df4 = pd.concat(dfs,axis=0)
 

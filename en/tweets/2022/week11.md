@@ -18,7 +18,7 @@ Coal IGCC tech + CCS overnight capital cost is $3819/KW, almost on par
 with coal plant wout CCS. LCOE is high but LCOH is low. Letz have blue
 H2 coming out of all those plants.
 
-[[-]](2022/02/costs-lcoe.md)
+[[-]](../../2022/02/costs-lcoe.md)
 
 ---
 
@@ -176,7 +176,7 @@ Heinenoord."
 
 ---
 
-In my [costs](2022/02/costs-lcoe.md) doc I have the so-called nuclear
+In my [costs](../../2022/02/costs-lcoe.md) doc I have the so-called nuclear
 HTGR tech with a low LCOH (levelized cost of H2).  $17.55/Gigajoules
 is pretty good. Initial (overnight) costs can be high, and there is
 the waste issue, but hey, overall not too shabby.
@@ -247,7 +247,7 @@ wealth would be inflated away.
 
 'Private money creation has negative consequences' he says.. Because
 it potentially allows limitless growth, with material usage
-[implications](2021/03/less-is-more-hickel.md), and environmental
+[implications](../../2021/03/less-is-more-hickel.md), and environmental
 impact? He could be right.. 
 
 ---
@@ -374,7 +374,7 @@ is neutral, demilitarized, no Nato.
 ---
 
 Curious abt the "mean voter position" of the UKR-RU dynamic, talks,
-per [here](2015/07/mesquita-game-theory-greece.md). Cranking some
+per [here](../../2015/07/mesquita-game-theory-greece.md). Cranking some
 numbers...
 
 ---
@@ -444,7 +444,7 @@ My GDELT conflict map around Ukraine became massive (too many data
 points, over 800 attack reports in 5 days). Had to downsample,
 otherwise UI isn't responsive.
 
-[[-]](2019/05/confstats.md#gdeltukr)
+[[-]](../../2019/05/confstats.md#gdeltukr)
 
 ---
 
