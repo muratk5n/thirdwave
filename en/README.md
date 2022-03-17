@@ -145,6 +145,16 @@ just been deleted by YouTube"
 
 ---
 
+1/3 of ppl received Sinovac 2/3 BioNTech afaik.. High \# of deaths cld
+be due to that..
+
+"@business
+
+Hong Kong’s crematoriums are straining under the pressure of the
+world’s highest Covid-19 death rate"
+
+---
+
 Bloomberg: "Petro-Yuan Still Far-Fetched Even Amid Saudi Mulling Oil Deals"
 
 ---
@@ -187,20 +197,9 @@ Luhansk Oblasts, and reducing the Ukrainian pocket in Mariupol"
 
 ---
 
-
 Peter Hitchens: "We've used Ukraine as a battering ram against Russia"
 
 [[-]](https://youtu.be/XvmddazUW3I?t=62)
-
----
-
-I believe 1/3 of ppl received Sinovac 2/3 BioNTech right? The deaths
-cld be due to that..
-
-"@business
-
-Hong Kong’s crematoriums are straining under the pressure of the
-world’s highest Covid-19 death rate"
 
 ---
 
