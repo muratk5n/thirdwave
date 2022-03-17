@@ -126,25 +126,6 @@ Environment at Stanford University"
 
 ---
 
-Not cool.. not cool at all
-
-"@LeeCamp
-
-My TV show Redacted Tonight has been deleted from @YouTube . So, even
-if you hate everything I ever said, are we all cool with this? Big
-tech deletes anything that goes against the corporate state. Does that
-sound fine? Or has America become the monster it claims to fight
-against?"
-
----
-
-"@EmpireFiles
-
-All 550 episodes of @AbbyMartin’s legendary show Breaking The Set have
-just been deleted by YouTube"
-
----
-
 1/3 of ppl received Sinovac 2/3 BioNTech afaik.. High \# of deaths cld
 be due to that..
 
