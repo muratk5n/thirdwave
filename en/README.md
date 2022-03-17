@@ -125,20 +125,6 @@ Environment at Stanford University"
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
----
-
 Not cool.. not cool at all
 
 "@LeeCamp
