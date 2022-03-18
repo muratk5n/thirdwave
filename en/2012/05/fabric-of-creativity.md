@@ -183,8 +183,8 @@ permission or being subjected to any kind of oversight -- the team
 sought out the official support of the larger company, which they
 needed to actually take the product to market [..].
 
-Gore's humanistic culture is the legacy of Bill Gore, who died in
-1986. If you were asked to list the great visionaries of American
+Gore's humanistic culture is the legacy of Bill Gore, who died in 1986.
+If you were asked to list the great visionaries of American
 business in the 20th century, other names would be more famous, but
 Wilbert L. Gore surely deserves to be on the roster. He's the closest
 thing to an East Coast version of David Packard and William Hewlett,
