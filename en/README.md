@@ -178,7 +178,8 @@ Really?
 ---
 
 Remember the US firebombing of Tokyo, that was executed through air
-raids, planes, dropping 2000 tons of bombs in 48 hours.
+raids, planes, dropping 2000 tons of bombs in 48 hours, killing over
+100K people, mostly civilians (war crime?).
 
 ---
 
