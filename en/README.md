@@ -177,8 +177,8 @@ Really?
 
 ---
 
-Remember the firebombing of Tokyo, that was executed through air
-raids, planes dropping 2000 tons of bombs in 48 hours.
+Remember the US firebombing of Tokyo, that was executed through air
+raids, planes, dropping 2000 tons of bombs in 48 hours.
 
 ---
 
