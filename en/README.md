@@ -149,12 +149,6 @@ Vox: The Middle East's cold war, explained
 
 ---
 
-Blinken reminds me of that gov official in *Under Siege*; in the
-situation room one general leans over and tells him, if things go
-wrong 'we'll just blame the cook' and he says 'absolutely'. That guy.
-
----
-
 Dracula Poontang :)
 
 ---
@@ -189,10 +183,16 @@ Really?
 
 ---
 
-If a total war starts and one of those gigantic Tupalevs start carpet
+If total war starts and one of those gigantic Tupalevs start carpet
 bombing cities you'll understand why.
 
 "Why does this No-Fly Zone matter anyway?"
+
+---
+
+Blinken reminds me of that gov official in *Under Siege*; in the
+situation room one general leans over and tells him, if things go
+wrong 'we'll just blame the cook' and he says 'absolutely'. That guy.
 
 ---
 
