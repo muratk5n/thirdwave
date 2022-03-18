@@ -113,7 +113,7 @@ Punta la Tegra consumed 1,602 Terrawatt-hours in 2020. Oil and natural
 gas at the top, hydro is very little 63,838 GWh. Other renewables
 (wind, solar) generate more actually.
 
-[[-]](../../../tr/2022/02/base-energy-numbers.md)
+[[-]](../tr/2022/02/base-energy-numbers.md)
 
 ---
 
