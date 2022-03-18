@@ -129,7 +129,7 @@ I suspect hardball
 
 Not cool.. not cool at all
 
-<img width="340" src="https://pbs.twimg.com/media/FOCorITXEAYG_J_?format=png&name=small"/>
+<img width="340" src="https://pbs.twimg.com/media/FOGqvPgWUAoffbd?format=png&name=small"/>
 
 ---
 
