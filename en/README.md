@@ -168,7 +168,7 @@ Fresh Prez of D.C. Russia Edition
 It's likely he is precisely in jail bcz he could be an alternative,
 i.e. the RU state actually could work with him. Either way in power he
 cld be somewhat 'better' but I wouldn't expect a rosy character. Maybe
-there would not be a Ukranian War Part II, but there wld be a Georgia?
+there would not be a Ukranian War Part II, but there wld be.. a Georgia?
 A little Chechnia on the side?
 
 ---
