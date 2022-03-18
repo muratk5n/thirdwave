@@ -177,8 +177,13 @@ Really?
 
 ---
 
+Remember the firebombing of Tokyo, that was executed through air
+raids, planes dropping 2000 tons of bombs in 48 hours.
+
+---
+
 If total war starts and one of those gigantic Tupalevs start carpet
-bombing cities you'll understand why.
+bombing cities you'll understand why. 
 
 "Why does this No-Fly Zone matter anyway?"
 
