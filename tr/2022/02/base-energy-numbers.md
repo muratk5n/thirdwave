@@ -14,8 +14,6 @@ Hidro 281,229 (63,838 GWh)
 
 Bioenerji, artik 149,557 (33,949 GWh)
 
-491466+380843+375558+141689+63838+149557
-
 Toplam = 1,602 Terrawatt-Saat
 
 
