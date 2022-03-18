@@ -137,12 +137,6 @@ Not cool.. not cool at all
 
 ---
 
-Saudis, UAE are probably more on edge (talking abt ditching the
-dollar) bcz of the upcoming Iran deal.? They publicly declare support,
-but u'd never know..
-
----
-
 Vox: The Middle East's cold war, explained
 
 [[-]](https://youtu.be/veMFCFyOwFI)
