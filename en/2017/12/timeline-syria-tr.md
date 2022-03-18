@@ -51,6 +51,7 @@
   * 07/06: TR ruling party loses majority as pro-Kurdish HDP gains seats
   * 18/06: Kurdish forces capture Tel Abyad enabling the geographical link between Kobane and Cizire
   * 30/06: Greece defaults on IMF debt spurring crisis, another bailout programme is signed, EU/Germany's image is a tough austerian
+  * 15/07: The Iran nuclear deal, JCPOA, is signed between Iran and the P5+1 countries.
   * 20/07: ISIS does the 2015 Suruç bombing, killing 32 people, largely Kurdish
   * 24/07: Large scale TR police and mil operations start, Kurdish PKK announces end of cessation of hostilities, the Peace Process is effectively dead
   * 06/09: Mafia violence against newspaper Hurriyet allegedly with government support
