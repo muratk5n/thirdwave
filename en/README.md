@@ -135,9 +135,9 @@ power of the social media giants"
 ---
 
 The Hunter Biden thing surfacing again might have to do with the
-establishment giving a message to WH.. The current state of play is no
-good, largely US's fault, and the HB expose is key bcz there is the
-word 'Ukraine' written all over it.
+establishment giving a message to WH.. The current state of play in
+UKR is no good, largely US's fault, and the HB expose is key bcz there
+is the word 'Ukraine' written all over it.
 
 ---
 
