@@ -88,7 +88,7 @@ Al Monitor: "Syria's Assad visits UAE, first trip to an Arab state since war"
 
 Karsh Kale - Supernova \#music
 
-[[-]](https://youtu.be/UtY3SU1kq5s)
+[[-]](https://youtu.be/D_Kch1CXzX4)
 
 ---
 
