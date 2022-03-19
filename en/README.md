@@ -79,8 +79,8 @@ Starbucks to head their union busting efforts"
 
 ---
  
-US gov is 'condemning' the move? Wow. 'We dont want piece anywhere'
-basically.. Is that the message?
+US gov is 'condemning' the move? 'We dont want piece anywhere'
+basically.. 
 
 Al Monitor: "Syria's Assad visits UAE, first trip to an Arab state since war"
 
