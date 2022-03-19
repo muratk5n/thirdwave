@@ -108,7 +108,7 @@ Punta la Tegra consumed 1,602 Terrawatt-hours in 2020. Oil and natural
 gas at the top, hydro is very little 63,838 GWh. Other renewables
 (wind, solar) generate more actually.
 
-[[-]](../tr/2022/02/base-energy-numbers.md)
+[[-]](../../../tr/2022/02/base-energy-numbers.md)
 
 ---
 
@@ -207,7 +207,7 @@ plans at H2 View’s Virtual Hydrogen Summit Europe 2022"
 ---
 
 H2 at $1.50/kg means 10.48 dollars/Gigajoules, in the range of the
-table [here](2022/02/costs-lcoe.md) that beats natgas. NG is still
+table [here](../../2022/02/costs-lcoe.md) that beats natgas. NG is still
 good, but Hysata's number is better.    
 
 ---
