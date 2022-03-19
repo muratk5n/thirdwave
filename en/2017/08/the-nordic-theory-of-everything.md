@@ -1,6 +1,6 @@
 # The Nordic Theory of Everything
 
-Anu Partanen, from the book with the same name
+Anu Partanen
 
 "In Finland, in the decade-plus of my working life as a newspaper and
 magazine writer and editor, I’d lived a comfortable middle-class
