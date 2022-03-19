@@ -79,13 +79,6 @@ Starbucks to head their union busting efforts"
 
 ---
  
-US gov is 'condemning' the move? 'We dont want piece anywhere'
-basically.. 
-
-Al Monitor: "Syria's Assad visits UAE, first trip to an Arab state since war"
-
----
-
 Karsh Kale - Supernova \#music
 
 [[-]](https://youtu.be/D_Kch1CXzX4)
@@ -102,6 +95,13 @@ Houston disproportionately had votes thrown out"
 Cuck Todd.
 
 It's still funny
+
+---
+
+US gov is 'condemning' the move? 'We dont want piece anywhere'
+basically.. 
+
+Al Monitor: "Syria's Assad visits UAE, first trip to an Arab state since war"
 
 ---
 
