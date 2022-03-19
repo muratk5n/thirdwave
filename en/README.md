@@ -1,207 +1,241 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-Pinned Tweet
+---
 
-<iframe width="95%" src="https://www.youtube.com/embed/2dgzKW8EKMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">COULD A FUTURE MUSTANG RUN ON HYDROGEN? FORD PATENTS TURBOCHARGED HYDROGEN COMBUSTION ENGINE <a href="https://t.co/92EAqPqtVe">https://t.co/92EAqPqtVe</a></p>&mdash; Leo Sfikas (@SfikasLeo) <a href="https://twitter.com/SfikasLeo/status/1503728987922571265?ref_src=twsrc%5Etfw">March 15, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-H2 View: "FlyZero report reveals liquid hydrogen could fuel
-medium-sized aircraft from London to San Francisco directly.. A new
-report concludes that liquid hydrogen could power a midsize aircraft
-with 280 passengers from London to San Francisco directly, or from
-London to Auckland with just one stop...This will broaden the UK’s
-aviation market with new zero-emission technologies providing a basis
-to scale the technology and prompt innovation in the sector"
+Motor Authority: "Ford Patents Hydrogen-Fueled Combustion Engine"
 
 ---
 
-H2 Fuel News: "Fukushima, Japan shifts its focus to hydrogen fuel and
-robotics.. The prefecture is taking on a new strategy as it moves away
-from nuclear and its tainted reputation"
+H2 View: "[2019] Siemens announced its “Murchison Renewable Hydrogen
+Project – a large scale (up to 5,000 MW) combined solar and wind farm
+to produce low-cost renewable"
 
 ---
 
-H2 View: "The global hydrogen market is forecast to grow one
-thousand-fold by 2040, with demand for clean hydrogen projected to
-reach 500 million tonnes a year between now and 2050"
+H2 View: "[2020] The Asian Renewable Energy Hub will generate 26,000
+MW of renewable energy in Western Australia"
+
+[[-]](https://asianrehub.com/)
 
 ---
 
-H2 View: "Europe continues to explore opportunities to transition away
-from Russian fossil fuel and gas reliance with Germany and Norway to
-study the feasibility of transporting hydrogen via a pipeline between
-the two countries."
+H2 Fuel News: "Oklahoma’s hydrogen fuel industry could get a shot in
+the arm from a new bill..SB 1857 would widen tax credits for
+businesses that use H2 as a source of fuel or energy"
 
 ---
 
-H2 View: "Hydrogen fuel cells to power Swiss residential and
-commercial buildings.. Loop Energy intends to supply a 30kW eFlow
-hydrogen fuel cell system to Innotest who will then integrate it into
-a home power energy system"
+H2 View: "Petrofac to develop 125,000 tonne per year green hydrogen to
+ammonia project in Egypt.. The exports will be achieved through a
+facility based at Ain Sokhna Port on the Gulf of Suez, providing a
+corridor for international exportation of ammonia... [Petrofoc
+manager:] “Egypt is moving fast to develop its natural advantages for
+green energy with its abundant solar and wind resources, coupled with
+its strategic geographic location for exporting zero carbon products,
+and Petrofac is thrilled to be supporting this growth.”
 
 ---
 
-H2 View: "Nitin Gadkari, [Indian] Union Minister for Road Transport
-and Highways India, said, 'Green Hydrogen can be generated from
-renewable energy and abundantly available biomass. Introduction and
-adoption of technology to tap into the green hydrogen’s potential will
-play a key role in securing a clean and affordable energy future for
-India. FCEV powered by Hydrogen is one of the best zero-emission
-solutions. It is completely environment friendly with no tailpipe
-emissions other than water.'"
+Denmark to establish 6GW electrolyser capacity by 2030
 
 ---
 
-H2 View: "20GW green hydrogen plant planned for Kazakhstan.. Svevind
-Energy wants to develop a 20GW green hydrogen facility in the
-Mangystau region of Western Kazakhstan"
+H2@Scale: "It is expected that Japan will start importing carbon free
+ammonia as fuel for power generation to replace 20% of the coal from
+2030"
+
+[[-]](https://www.energy.gov/sites/default/files/2021-08/15-green-blue-ammonia.pdf)
 
 ---
 
-H2 Fuel News: "The Washington Green Hydrogen Alliance has praised the
-passage of [a new bill] SB 5910.. that will help to establish the
-green hydrogen economy in the state. The advocacy group applauded the
-legislation that will provide an affordable zero-carbon fuel
-source. The legislation was approved in a 49-0 vote held in the
-Washington Senate last month. It then passed the House on March 7 in a
-96-2 vote, followed by a March 9 unanimous concurrence vote in the
-Senate"
+Because they have leftism there.. See [here](2017/08/the-nordic-theory-of-everything.md)
+
+"Finland has been named the world's happiest country for the fifth
+year in a row"
 
 ---
 
-H2 Fuel News: Spain gets its first industrial renewable hydrogen plant in Mallorca
+"@mkerrhardy
+
+Welp, @Meta locked me out of my Facebook account because I don't have
+two-factor authentication set up. When I try to set it up, I get an
+error. Fun!
+
+My account is now so secure that even I can't access it"
 
 ---
 
-H2 View: "Universal Hydrogen and H3 Dynamics [unveiled] a new
-partnership to explore hydrogen powertrains for unmanned aircraft"
+It's like a joke. 
+
+"@HeerJeet
+
+If Hillary Clinton had won in 2016, she planned to nominate Howard
+Schultz to be Secretary of Labor. He's currently returning to
+Starbucks to head their union busting efforts"
+
+---
+ 
+US gov is 'condemning' the move? Wow. 'We dont want piece anywhere'
+basically.. Is that the message?
+
+Al Monitor: "Syria's Assad visits UAE, first trip to an Arab state since war"
 
 ---
 
-H2 View: "[A] joint venture between Renault and Plug Power, has
-unveiled a new plant in Flins, France aiming to support the growing
-hydrogen mobility sector"
+Karsh Kale - Supernova \#music
+
+[[-]](https://youtu.be/UtY3SU1kq5s)
 
 ---
 
-H2 View: "Tenaris has successfully qualified its line pipeline of
-medium and large diameters, to allow hydrogen contents of 100% at 200
-bar. Tenaris is addressing the need for reliable and high-performance
-materials in hydrogen environments with the development of
-THera™. This is a new technology that offers long-lasting and
-completely recyclable material with a verified product lifecycle,
-thanks to material testing in pressurised hydrogen environments"
+NYT: "Mail Ballot Rejections Surge in Texas, With Signs of a Race Gap A new
+Republican voting law led to the sharp rise in rejected ballots in the
+state’s recent primary election. An analysis shows that Black areas of
+Houston disproportionately had votes thrown out"
 
 ---
 
-Project Syndicate: "Although more countries and businesses have made
-commitments to achieve carbon neutrality in the decades ahead, a
-net-zero economy will not be possible without additional substitutes
-for fossil fuels. Fortunately, the tiny hydrogen molecule holds the
-key"
+Cuck Todd.
 
-[[-]](https://www.project-syndicate.org/onpoint/green-hydrogen-the-key-to-net-zero-by-thomas-koch-blank-2021-09)
+It's still funny
 
 ---
 
-"Koch Industries stays in Russia, backs groups opposing U.S. sanctions"
+Devine, *Laptop from Hell*: "Five days after Costello’s late-night
+call, on Wednesday, October 14, 2020, the *New York Post* published
+the first of a series of front-page bombshells,.. culled from the
+contents of Hunter’s laptop. The story, headlined 'Biden’s Secret
+Emails,' revealed a bombshell 2015 email indicating that Joe, as vice
+president, had met in Washington with a high-ranking representative of
+the corrupt Ukrainian energy company that was paying his junkie son a
+million dollars a year to sit on its board. Eight months after the
+meeting, Joe flew to Kyiv and threatened to withhold $1 billion in US
+aid unless the Ukrainian government fired its top prosecutor, Viktor
+Shokin, who was pursuing Burisma for corruption at the time. The email
+was news, in anyone’s language.
+
+But soon after the Post’s story broke online, social media censored
+it. Facebook announced it had throttled the story’s reach. Twitter
+locked the Post’s account for two weeks, then admitted after the
+election that it had made a mistake. It was a chilling exercise of raw
+political power by an unaccountable Big Tech—the term given to the
+oligopoly of global corporations that dominate the information
+technology industry.
+
+The coordinated censorship of America’s oldest newspaper, with the
+fourth largest circulation in the nation, amounted to election
+interference. It was a historic moment that rang alarm bells around
+the world and would harden resolve on Capitol Hill to rein in the
+power of the social media giants"
 
 ---
 
-Punta la Tegra consumed 1,602 Terrawatt-hours in 2020. Oil and natural
-gas at the top, hydro is very little 63,838 GWh. Other renewables
-(wind, solar) generate more actually.
-
-[[-]](../tr/2022/02/base-energy-numbers.md)
-
----
-
-Hardball?
-
-"UAE cargo ship carrying 30 crew members sinks off Iran coast"
+The Hunter Biden thing surfacing again might have to do with the
+establishment giving a message to WH.. The current state of play is no
+good, largely US's fault, and the HB expose is key bcz there is the
+word 'Ukraine' written all over it.
 
 ---
 
-"Fed raises rates for the first time since 2018"
+F24: "Ukraine's leader Volodymyr Zelensky made a fresh appeal for
+meaningful talks with Moscow on Saturday to end the war as Russia said
+its soldiers had entered the centre of the besieged city of Mariupol,
+'tightening the noose' around the key port"
 
 ---
 
-Not cool.. not cool at all
+Various end results for UKR-RU are possible .. One assesment I saw
+claimed RU will take everything east of the Dnipro river; i.e. all of
+Eastern Ukraine. UKR is close in culture to Russians, but the East is
+even more so.. Then maybe RU is feeling out how things develop, doing
+a little head fake on the North, but invading strongly from Southeast,
+and if no agreement is forthcoming, no substantial concessions in tune
+of what they wanted, they'll just take Eastern Ukraine and call it a
+day.
 
-<img width="340" src="https://pbs.twimg.com/media/FOGqvPgWUAoffbd?format=png&name=small"/>
-
----
-
-<img width="340" src="https://pbs.twimg.com/media/FOCokZ8WUAEnxIW?format=png&name=small"/>
-
----
-
-Vox: The Middle East's cold war, explained
-
-[[-]](https://youtu.be/veMFCFyOwFI)
-
----
-
-Dracula Poontang :)
+Combined geographically w previously acquired regions, the whole block
+actually makes sense, there is a geographical boundary between East
+and West anyway, a river, and it connects nicely with the 'seperatist'
+regions, plus Crimea. RU's needed 'buffer' will get bigger, and the
+remaining gov in the West will probably not utter the word NATO ever
+again.
 
 ---
 
-Fresh Prez of D.C. Russia Edition
-
-[[-]](https://youtu.be/pTRoFkw1Vlw?t=225)
-
----
-
-It's likely he is precisely in jail bcz he could be an alternative,
-i.e. the RU state actually could work with him. Either way in power he
-cld be somewhat 'better' but I wouldn't expect a rosy character. Maybe
-there would not be a Ukranian War Part II, but there wld be.. a Georgia?
-A little Chechnia on the side?
+Today India and Russia need eachother in case of a resurgent China
+(and China needs Russia against a overmeddling West).  So I dont think
+"the Quad", or any other pact can override the India-Russia
+relationship.
 
 ---
 
-Mind you, this is the opposition figure *in jail*.
+"Gravitas Plus: India & Russia: A time-tested friendship"
 
-The Atlantic: "[Navalny] supported Russia in its war against Georgia
-in August 2008, using a derogatory term for Georgians in some of his
-blog posts and calling for all Georgians to be expelled from
-Russia. He has since apologized for using the racist epithet, but says
-he stands by the other positions he took at that time"
+[[-]](https://youtu.be/exlRuebKgqA)
 
 ---
 
-Really? 
-
-"Ew but things would be so much better with Aleksei Navalny"..
-
----
-
-Remember the US firebombing of Tokyo, that was executed through air
-raids, planes, dropping 2000 tons of bombs in 48 hours, killing over
-100K people, mostly civilians (war crime?).
+I wouldnt expect too much from pulling India out of its Russia
+friendship either..  See history (above)
 
 ---
 
-If total war starts and one of those gigantic Tupalevs start carpet
-bombing cities you'll understand why. 
-
-"Why does this No-Fly Zone matter anyway?"
-
----
-
-Blinken reminds me of that gov official in *Under Siege*; in the
-situation room one general leans over and tells him, if things go
-wrong 'we'll just blame the cook' and he says 'absolutely'. That guy.
+The Guardian: "Beijing’s readout of the [Biden-Xi] call did not
+suggest any Chinese role in ending the war. It quoted Xi as referring
+to a favourite aphorism, 'Let he who tied the bell on the tiger’s neck
+take it off' , a seeming reference to China’s position that the US and
+Nato are ultimately to blame"
 
 ---
 
-"People say 'well are you justifying [the Ukraine invasion]'... I say,
-look if I see a child annoying a wasp, and the the wasps stings the
-child, and I say to the child 'that was your stupid fault' am I
-defending the wasp?"
+"The U.S. believed that a brief period of non-assertive foreign policy
+from the mid-1980s to mid-1990s had become the new norm for
+Russia. This period was not the norm but an anomaly. Putin’s foreign
+policy has always been assertive, similar to Russia’s historic foreign
+policy"
 
-[[-]](https://youtu.be/XvmddazUW3I?t=121)
+[[-]](https://www.understandingwar.org/report/how-we-got-here-russia-kremlins-worldview)
+
+---
+
+Al Jazeera: "This is not the time to brand Vladimir Putin an ‘evil
+madman’. Simplifying the war in Ukraine into a binary of ‘good’ versus
+‘evil’ will not save us from another world war...
+
+Whether it’s describing Saddam Hussein as a 'madman,' Gaddafi as
+'insane,' or Putin as a 'megalomaniac,' such caricatures serve broader
+political objectives by simplifying any conflict into a clear binary
+of 'good' versus 'evil'... The Israeli state often indulges in such
+framing to delegitimise Palestinians – even questioning their
+intelligence, by repeating ad nauseum the trope that they 'never lose
+an opportunity to lose an opportunity'...
+
+Such framing is now being tactfully employed to
+explain away the Russian invasion of Ukraine – a manipulative
+discourse construction that facilitates a fog of war"
+
+[[-]](https://www.aljazeera.com/opinions/2022/3/19/this-is-not-the-time-to-brand-putin-an-evil-madman)
+
+---
+
+Al-Monitor: "Soaring bread prices sparked by Russia's invasion of
+Ukraine have bitten into the purchasing power of consumers in Egypt"
+
+---
+
+How can a food/energy self-sufficient country face such shortages due
+to sanctions?
+
+---
+
+I think they are blowing smoke up your ass.. 
+
+"UK intel says Russian troops facing food and fuel shortage as Moscow
+faces new sanctions"
 
 ---
 
