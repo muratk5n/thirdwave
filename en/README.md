@@ -166,10 +166,10 @@ again.
 
 ---
 
-Today India and Russia need eachother in case of a resurgent China
-(and China needs Russia against a overmeddling West).  So I dont think
-"the Quad", or any other pact can override the India-Russia
-relationship.
+Today India and Russia need eachother in case of a resurgent China and
+China needs Russia against what they view as a overly meddling
+West. So I dont think "the Quad", or any other pact can override the
+India-Russia relationship.
 
 ---
 
