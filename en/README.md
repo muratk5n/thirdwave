@@ -136,8 +136,8 @@ power of the social media giants"
 
 Even some in the establishment must have seen the current state of
 play in UKR is no good, largely US's fault. The Hunter Biden thing
-resurfacing again might be a message to WH..  The HB expose is key bcz
-'Ukraine' is written all over that whole mess.
+resurfacing might be a message to WH..  The HB expose is key bcz it
+has the word 'Ukraine' written all over it.
 
 ---
 
