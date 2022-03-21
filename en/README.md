@@ -52,8 +52,8 @@ seaborne strategic and tactical lift"
 
 ---
 
-RU is a weapons exporter has no need for weapons from others. This is
-a mudslinging move to shame China into their corner.
+RU is a weapons exporter would not have urgent need for weapons from
+others. This is a mudslinging move to shame China into their corner.
 
 NDTV: "Amid Flack, China's US Envoy Says Beijing Now Not Sending Arms To Russia"
 
