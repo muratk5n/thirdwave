@@ -34,7 +34,7 @@ Movie backdrop is the 80s.. Ancient history!
 ---
 
 Panama (2022), good movie.. the rhythm feels different, un-Holywood,
-but that's fine
+but that's fine. 
 
 ---
 
@@ -88,7 +88,7 @@ sanctions on Japan cutting its oil (which triggered a Japanese gamble
 on Pearl Harbor to cripple US while it could take all those resources,
 US responded).
 
-But US the priority was clear, attack the land-based powers, keep them
+But US priority was clear, attack the land-based powers, keep them
 locked in their places, that's fine.. If you try to be a naval power
 yourself, you are in trouble. Then Japan was nuked, firebombed into
 submission.
