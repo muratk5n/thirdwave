@@ -90,8 +90,8 @@ US responded).
 
 But US priority was clear, attack the land-based powers, keep them
 locked in their places, that's fine.. If you try to be a naval power
-yourself, you are in trouble. Then Japan was nuked, firebombed into
-submission.
+yourself, you are in trouble. When Japan tried that it was nuked,
+firebombed into submission.
 
 [[-]](https://youtu.be/so4v_2zq35k?t=275)
 
