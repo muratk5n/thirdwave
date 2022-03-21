@@ -38,8 +38,7 @@ but that's fine
 
 ---
 
-The show on WeWork called *WeCrashed* should be named WeSuck. Boring
-as hell.. 
+The show on WeWork called *WeCrashed* should be named WeSuck. Thumbs down.
 
 ---
 
