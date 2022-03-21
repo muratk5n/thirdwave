@@ -70,6 +70,7 @@ France has been active on the high-seas, a seafaring nation, but its
 history and strategic needs is too tied to the greater Eurasian
 landmass, so it mostly behaves like an inner. That is why FR is never
 accepted to "the club", the "Five Eyes"; see the recent AUKUS debacle.
+They didn't just kick out France, they reveled in it.
 
 ---
 
