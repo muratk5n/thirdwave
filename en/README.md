@@ -83,7 +83,7 @@ the inners to stay where they are, contained.
 
 Interesting to note during WWII when Japan was attacking Soviets, and
 China, the US was fine with that. After the northward attack stalled
-though, and Japan changed focus to the South, the islands, then US put
+though, and Japan changed focus to the south, the islands, then US put
 sanctions on Japan cutting its oil (which triggered a Japanese gamble
 on Pearl Harbor to cripple US while it could take all those resources,
 US responded).
