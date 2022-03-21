@@ -22,9 +22,8 @@ to 'establish a hydrogen partnership in the medium term'"
 
 ---
 
-H2 Fuel News: "State-of-the-art facility supporting the creation of
-cost-competitive green hydrogen with innovative coating. A
-state-of-the-art coating facility is being developed by TFP Hydrogen
+H2 Fuel News: "A state-of-the-art coating facility [for the generation
+of cost-competitive green hydrogen] is being developed by TFP Hydrogen
 Products in North America"
 
 ---
