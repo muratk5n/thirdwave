@@ -106,8 +106,7 @@ UN Refugee Agency"
 
 Guy sets up an entire heating/cooking system with chimney at camp, in
 a tent. Extremely wasteful IMO. Would not carry anything that would
-need cooking. If mobile, act mobile. When not in Rome, no need to act
-like a burgeios cocksucker. 
+need cooking. 
 
 ---
 
