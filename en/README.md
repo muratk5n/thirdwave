@@ -14,7 +14,7 @@ Mirai"
 
 H2 generation from NG using steam-methane reforming + CCS is one of
 the cheapest methods. Both of those suppliers should be able to
-produce the needed supply. They obviously also have mad solar DNI
+produce the needed supply. They obviously also have some mad solar DNI.
 
 Al Jazeera: "Germany courts Qatar and UAE for alternatives to Russian
 gas.. Habeck, before the trip starting on Saturday, said the goal was
