@@ -81,11 +81,12 @@ the inners to stay where they are, contained.
 
 ---
 
-Interesting to note during WWII when Japan was attacking Soviets,
-China, US was fine with that. After that stalled, and Japan changed
-focus to the South, the islands, then US put sanctions on Japan
-cutting its oil (which triggered a Japanese gamble on Pearl Harbor to
-cripple US while it could take all those resources, US responded).
+Interesting to note during WWII when Japan was attacking Soviets, and
+China, the US was fine with that. After that stalled, and Japan
+changed focus to the South, the islands, then US put sanctions on
+Japan cutting its oil (which triggered a Japanese gamble on Pearl
+Harbor to cripple US while it could take all those resources, US
+responded).
 
 But the priority was clear, attack the land-based powers, keep them
 locked in their places, that's fine.. If you try to be a naval power
