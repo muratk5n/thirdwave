@@ -116,7 +116,7 @@ WION: "‘Let’s Go Brandon’ store opens in New Jersey, gets flagged by Faceb
 
 Beans are high on fiber. 
 
-Cheese, eggs - low fiber.
+Cheese, eggs - low
 
 ---
 
