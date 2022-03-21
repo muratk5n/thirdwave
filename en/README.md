@@ -17,8 +17,9 @@ the cheapest methods. Both of those suppliers should be able to
 produce the needed supply. They obviously also have some mad solar DNI.
 
 Al Jazeera: "Germany courts Qatar and UAE for alternatives to Russian
-gas.. Habeck, before the trip starting on Saturday, said the goal was
-to 'establish a hydrogen partnership in the medium term'"
+gas.. [German Economy Minister] Habeck, before the trip starting on
+Saturday, said the goal was to 'establish a hydrogen partnership in
+the medium term'"
 
 ---
 
