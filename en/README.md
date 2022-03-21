@@ -43,7 +43,7 @@ The show on WeWork called *WeCrashed* should be named WeSuck. Thumbs down.
 
 ---
 
-Two words: Indo-China
+Two words: Indo-Pacific
 
 Jane's Defense: "DARPA sets goals for Liberty Lifter heavy-lift
 seaplane.. The US Defense Advanced Research Projects Agency (DARPA)
