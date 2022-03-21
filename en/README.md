@@ -115,18 +115,16 @@ WION: "‘Let’s Go Brandon’ store opens in New Jersey, gets flagged by Faceb
 
 ---
 
-Cheese, eggs - low.
+Beans are high on fiber. 
+
+Cheese, eggs - low fiber.
 
 ---
 
 .. which means high food-to-poop ratio (or low poop-to-food, 💩 / 🍔 =
-0.0001). Less time on the stool. Less Shatner. Less Leonardo di Caprio.
+0.0001). Less time on the stool. Less Shatner. Less Leonardo di Caprio
 
 "Red meat has no fiber"
-
----
-
-Beans are high on fiber. 
 
 ---
 
