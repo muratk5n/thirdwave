@@ -88,7 +88,7 @@ sanctions on Japan cutting its oil (which triggered a Japanese gamble
 on Pearl Harbor to cripple US while it could take all those resources,
 US responded).
 
-But the priority was clear, attack the land-based powers, keep them
+But US the priority was clear, attack the land-based powers, keep them
 locked in their places, that's fine.. If you try to be a naval power
 yourself, you are in trouble. Then Japan was nuked, firebombed into
 submission.
