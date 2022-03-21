@@ -120,8 +120,12 @@ Cheese, eggs - low fiber.
 
 ---
 
+$\lim$ 🍔 $\to 0$ 💩 / 🍔 = 0
+
+---
+
 .. which means high food-to-poop ratio (or low poop-to-food, 💩 / 🍔 =
-0.0001). Less time on the stool. Less Shatner. Less Leonardo di Caprio
+$\epsilon$). Less time on the stool. Less Shatner. Less Leonardo di Caprio
 
 "Red meat has no fiber"
 
