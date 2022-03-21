@@ -121,8 +121,8 @@ Cheese, eggs - low
 
 ---
 
-.. which means high food-to-poop ratio (or low poop-to-food, 💩 / 🍔 =
-$\epsilon$). Less time on the stool. Less Shatner. Less Leonardo di Caprio
+.. which means high food-to-poop ratio (or low poop-to-food). Less
+Shatner, Leonardo di Caprio
 
 "Red meat has no fiber"
 
