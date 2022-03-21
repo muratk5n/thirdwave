@@ -61,8 +61,9 @@ NDTV: "Amid Flack, China's US Envoy Says Beijing Now Not Sending Arms To Russia"
 ---
 
 RU invades UKR, and outer outpost on RU border, the most fervent
-denials come from US, UK, Oz. Distance-wise the support makes no
-sense; but makes sense from a larger view.
+denials come from US, UK, Oz. Distance-wise these countries are far,
+far away, the feverishness of the support makes no sense; but from a
+larger view it does.
 
 ---
 
