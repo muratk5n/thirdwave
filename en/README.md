@@ -134,7 +134,7 @@ became part of the 'outer belt'. The recent Johnson
 makes this clear; in the Brexiter mind these two issues are linked,
 not in the way BJ expressed obviously, but in a larger sense,
 exclusively being in that alliance forced them to be a "good soldier",
-extremely pro-Ukraine for it that was unavoidable after Brexit.
+extremely pro-Ukraine for that was unavoidable after Brexit.
 
 ---
 
