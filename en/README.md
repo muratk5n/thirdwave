@@ -63,10 +63,9 @@ WSJ: "Hong Kong eases quarantine amid angst over ‘zero COVID’ isolation"
 
 ---
 
-At a very coarse level (and that is all they see) people must be
-seeing 'potus wanted something not done, it was done'. Simple
-really. Bada bing, bada boom. Wanted no bada boom, but there was bada
-boom.
+At a very coarse level (and that is all they see) people perceived
+'potus wanted something not done, it was done'. Simple really. Bada
+bing, bada boom. Wanted no bada boom, but there was bada boom.
 
 ---
 
