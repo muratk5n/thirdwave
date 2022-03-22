@@ -146,7 +146,7 @@ entire Iraq war effort (the first one).
 
 Japan after giving up on its imperial ambitions became a pacified part
 of the 'outers'. They are a recent addition to the Five Eyes network
-too actually (now the org is Six Eyes).
+too actually (I guess now the org is Six Eyes).
 
 ---
 
