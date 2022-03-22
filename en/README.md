@@ -139,8 +139,8 @@ unavoidable after Brexit.
 
 ---
 
-Japan has been the ultimate "money guy". They picked up the tab for
-the entire Iraq war effort (the first one).
+Japan has been the ultimate "money guy" for the group. They picked up
+the tab for the entire Iraq war effort (the first one).
 
 ---
 
