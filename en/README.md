@@ -133,9 +133,9 @@ UK was part of the inners (the EU), but left it due to a stupid choice
 became part of the 'outer belt'. The recent Johnson
 [comment](https://www.bbc.com/news/uk-politics-60809454) on UKR/Brexit
 makes this clear; in the Brexiter mind these two issues are linked,
-not in the way BJ expressed obviously, but in a larger sense, being
-part of a new alliance forced them to be a "good soldier" that was
-unavoidable after Brexit.
+not in the way BJ expressed obviously, but in a larger sense,
+exclusively being in that alliance forced them to be a "good soldier"
+for it that was unavoidable after Brexit.
 
 ---
 
