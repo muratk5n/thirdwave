@@ -1,6 +1,6 @@
 # Democracy
 
-[Greece Debt Relief, Game Theory](../../2015/07/game-theory-greece.md)
+[Greece Debt Relief, Game Theory](../../2015/07/mesquita-game-theory-greece.md)
 
 [The Logic of Political Survival](../../2015/09/the-logic-of-political-survival-mesquita.md)
 
