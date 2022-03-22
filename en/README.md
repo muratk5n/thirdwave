@@ -84,8 +84,8 @@ Al Jazeera: "US sends Patriot interceptors to Saudi to ease tensions"
 
 ---
 
-Outers are feverishly trying to peel off some inners to have them join
-their side.
+Outers are feverishly trying to peel off some inners to entice them to
+join their side.
 
 ---
 
