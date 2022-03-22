@@ -7,15 +7,15 @@ construction this month"
 
 ---
 
-H2 View: "Thyssenkrupp Steel partners with STEAG to integrate hydrogen into
-‘Europe’s largest’ steelmaking site"
-
----
-
 H2 View: "UAE, Germany strengthens hydrogen collaboration with several
 key strategic partnership agreements.. The UAE has received a boost to
 its hydrogen ambitions with ADNOC securing several strategic
 partnership agreements with leading German hydrogen companies"
+
+---
+
+H2 View: "Thyssenkrupp Steel partners with STEAG to integrate hydrogen into
+‘Europe’s largest’ steelmaking site"
 
 ---
 
