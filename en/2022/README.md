@@ -22,11 +22,7 @@
 
 [The Great Delusion: Liberal Dreams and International Realities](03/liberal-dreams-intl-realities.md)
 
-[Code for Predicting Politics](03/predicting-politics-mesquita-code.md)
-
 [Predicting Politics](03/predicting-politics-mesquita.md)
 
 [Principles of International Politics](03/principles-of-int-politics-mesquita.md)
-
-[Semi Vegetarian Burger Deluxe](03/semi-veg-burger-mega.md)
 

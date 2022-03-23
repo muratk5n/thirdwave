@@ -18,6 +18,8 @@ At 350 bars H2 density is 28 kg/m3.
 
 At 300 bars H2 density is 20 kg/m3.
 
+At 250 bars H2 has energy density is 2400 kwh/m3, see [18].
+
 Crude oil 44 MJ/kg
 
 Ammonia 22.5 MJ/kg
@@ -284,3 +286,5 @@ References
 [16] https://www.eia.gov/todayinenergy/detail.php?id=17991
 
 [17] https://www.h2-view.com/story/worlds-first-liquid-hydrogen-carrier-on-route-to-japan/
+
+[18] https://www.researchgate.net/publication/228651542_UUV_FCEPS_technology_assessment_and_design_process
