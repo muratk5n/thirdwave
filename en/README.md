@@ -44,6 +44,12 @@ can store massive amounts of H2.
 
 ---
 
+Presentation about all three options
+
+[PDF](https://www.hydrogen.energy.gov/pdfs/review19/st001_ahluwalia_2019_o.pdf)
+
+---
+
 Salt caverns, and lined rock caverns.. There is a third method, using
 pipeline pieces actually, underground..  We know a pipeline network
 itself is also a storage mechanism, well, why not use pieces of
