@@ -58,11 +58,6 @@ uber storage system?
 
 ---
 
-As a comparison, largest lion bat installations are at 1600-2000 Mwh
-range. 
-
----
-
 Here is another method
 
 CNBC: "[2020] Caverns can be created in salt domes by drilling into
