@@ -191,9 +191,9 @@ print (datetime.datetime.now(), res['pm2_5'])
 ---
 
 WION had a segment on New Delhi air quality. One report found over 96
-mg/m3 PM 2.5 concentration? Segment had doubts on the company, IOAir,
-which sells air purifier products. Good to know, who is behind the
-report... I double-checked though and it is true, PM 2.5 is high.
+mg/m3 PM 2.5 concentration? Segment had doubts on the sponsor of the
+report, IOAir, which sells air purifier products. Good to know... I
+double-checked though and it is true, PM 2.5 is high.
 
 [[-]](https://pbs.twimg.com/media/FOisLPCXEAc10_w?format=jpg&name=small)
 
