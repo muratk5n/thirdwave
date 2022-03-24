@@ -125,9 +125,9 @@ strategy"
 
 ---
 
-Ran the code below at regular intervals, mostly PM 2.5 is above 80.
-Many other cities are in bad shape too, thanks to fossil. Data is
-from Openweathermap. See [code](tweets/2022/util.py).
+Ran the code below at different times, PM 2.5 is mostly above 80.
+Many other cities are in bad shape too, thanks to fossil. Data is from
+Openweathermap. See [code](tweets/2022/util.py).
 
 ```python
 import util, datetime
