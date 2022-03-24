@@ -179,7 +179,7 @@ Tokyo's strong response to the invasion of Ukraine."
 Petrodollar vs gasruble 
 
 "Putin says will accept only rubles for gas sales to ‘unfriendly
-nations’ [now including Europe]"
+nations’"
 
 ---
 
