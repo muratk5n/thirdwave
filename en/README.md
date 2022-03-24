@@ -124,12 +124,6 @@ Ketanji BJ comes across as good judge.. Defended detainees at Gitmo?
 
 ---
 
-Bruno Bete \#UKR
-
-[[-]](https://youtu.be/A9EFikGLp1g?t=80)
-
----
-
 "@DrLeanaWen [Public health professor George Washington Public Health]
 
 For those who don’t agree that the vaccinated can return to
@@ -174,6 +168,12 @@ report, IOAir, which sells air purifier products. Good to know... I
 double-checked though and it is true, PM 2.5 is high.
 
 [[-]](https://pbs.twimg.com/media/FOisLPCXEAc10_w?format=jpg&name=small)
+
+---
+
+Bruno Bete \#UKR
+
+[[-]](https://youtu.be/A9EFikGLp1g?t=80)
 
 ---
 
