@@ -18,7 +18,13 @@ At 350 bars H2 density is 28 kg/m3.
 
 At 300 bars H2 density is 20 kg/m3.
 
-At 250 bars H2 has energy density is 2400 kwh/m3, see [18].
+At 100 bars H2 has energy density is 250 kwh/m3, at ambient temp, see [18].
+
+At 200 bars H2 has energy density is 500 kwh/m3, ditto.
+
+At 250 bars H2 has energy density is 700 kwh/m3, ditto.
+
+At 300 bars H2 has energy density is 750 kwh/m3, ditto.
 
 Crude oil 44 MJ/kg
 
