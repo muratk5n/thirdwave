@@ -72,7 +72,7 @@ containers of batteries to store that much energy in each cavern.'"
 
 26.7 million dollars for 100 m3 storage. At 250 bars H2 has energy
 density is 700 kwh/m3, this is 70 MWh of storage. It's pretty cheap.
-The equivalent lion battery install would cost $44 million. 
+The equivalent lion battery install would cost over $50 million. 
 
 ---
 
