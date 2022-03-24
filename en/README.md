@@ -62,9 +62,9 @@ salt. The resulting brine is extracted, leaving a large cavity. The
 next step is storing hydrogen in the cavern...
 
 '[One] formation has the potential to create up to 100 caverns, each
-one capable of holding 150,000 MWh of energy,' says Browning. 'It
-would take 40,000 shipping containers of batteries to store that much
-energy in each cavern.'"
+one capable of holding 150,000 MWh of energy,' says Browning [CEO of
+Mitsubishi Power US, now at Fortesque]. 'It would take 40,000 shipping
+containers of batteries to store that much energy in each cavern.'"
 
 [[-]](https://www.cnbc.com/2020/11/01/how-salt-caverns-may-trigger-11-trillion-hydrogen-energy-boom-.html)
 
