@@ -51,10 +51,10 @@ Presentation about all three options
 ---
 
 Salt caverns, and lined rock caverns.. There is a third method, using
-pipeline pieces actually, underground..  We know a pipeline network
-itself is also a storage mechanism, well, why not use pieces of
-pipeline hardware and stack them on top of eachother underground,
-creating an uber storage system?
+pipeline pieces, underground..  We know a pipeline network itself is
+also a storage mechanism, well, why not use pieces of pipeline
+hardware and stack them on top of eachother underground, creating an
+uber storage system?
 
 ---
 
