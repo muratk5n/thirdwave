@@ -6,8 +6,6 @@
 
 ---
 
-Manchin FTW
-
 H2 View: "In a bid to secure US Department of Energy (DOE) funding for
 the development of a hydrogen hub, the West Virginia Hydrogen Hub
 Coalition has officially submitted its proposal. The state becomes one
@@ -28,8 +26,6 @@ US Senator Joe Manchin, Chairman of the Senate Energy and Natural
 Resources Committee, said, 'With our abundant energy sources and
 strong partnerships, our state is uniquely situated to compete to
 develop a hydrogen hub..'"
-
-[[-]](https://www.h2-view.com/story/west-virginia-officially-submits-bid-to-transform-the-mountain-state-into-a-hydrogen-hub/)
 
 ---
 
