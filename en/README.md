@@ -120,16 +120,6 @@ Al Jazeera: "China sets green hydrogen target for 2025, eying widespread use"
 ---
 
 
-
-
-
-Petrodollar vs gasruble 
-
-"Putin says will accept only rubles for gas sales to ‘unfriendly
-nations’ [now including Europe]"
-
----
-
 Ketanji BJ comes across as good judge.. Defended detainees at Gitmo?
 
 ---
@@ -137,19 +127,6 @@ Ketanji BJ comes across as good judge.. Defended detainees at Gitmo?
 Bruno Bete \#UKR
 
 [[-]](https://youtu.be/A9EFikGLp1g?t=80)
-
----
-
-It sucks
-
-Arab News: "Japan said Tuesday it 'strongly protests' Russia's
-decision to abandon talks on a World War II peace treaty because of
-Tokyo's strong response to the invasion of Ukraine."
-
----
-
-Lebanon: a joke of a country. I'd give parts of it to Saudi Arabia,
-the rest to Syria and be done with it. Right now it's a total dump.
 
 ---
 
@@ -197,6 +174,21 @@ report, IOAir, which sells air purifier products. Good to know... I
 double-checked though and it is true, PM 2.5 is high.
 
 [[-]](https://pbs.twimg.com/media/FOisLPCXEAc10_w?format=jpg&name=small)
+
+---
+
+It sucks
+
+Arab News: "Japan said Tuesday it 'strongly protests' Russia's
+decision to abandon talks on a World War II peace treaty because of
+Tokyo's strong response to the invasion of Ukraine."
+
+---
+
+Petrodollar vs gasruble 
+
+"Putin says will accept only rubles for gas sales to ‘unfriendly
+nations’ [now including Europe]"
 
 ---
 
