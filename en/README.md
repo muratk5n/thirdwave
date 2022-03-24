@@ -40,7 +40,7 @@ can store massive amounts of H2.
 
 ---
 
-Presentation about all three options
+Presentation about underground H2 storage methods
 
 [PDF](https://www.hydrogen.energy.gov/pdfs/review19/st001_ahluwalia_2019_o.pdf)
 
