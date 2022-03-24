@@ -163,8 +163,8 @@ strategy"
 
 ---
 
-Ran the code below at regular intervals, mostly PM 2.5 is above
-80. Data is from Openweathermap. See [code](tweets/2022/util.py).
+Ran the code below at regular intervals, mostly PM 2.5 is above80.
+Data is from Openweathermap. See [code](tweets/2022/util.py).
 
 ```python
 import util, datetime
