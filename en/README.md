@@ -132,7 +132,7 @@ plus some optimization.
 
 US Navy drone sensor network in the Gulf 
 
-'Total surveilance'. Sounds freaky.. like London's CCTV
+'Total surveilance' eh? .. 
 
 [[-]](https://youtu.be/4RwU1tc_E7Y)
 
@@ -157,15 +157,16 @@ After Midnight - Bei Mir Bist Du Schon \#music
 
 ---
 
-"Egypt will apply for a new loan from the IMF, the Washington-based
-crisis lender announced Wednesday, after Russia's invasion of Ukraine
-caused inflation to spike in the Middle Eastern nation"
+F24: "Egypt will apply for a new loan from the IMF, the
+Washington-based crisis lender announced Wednesday, after Russia's
+invasion of Ukraine caused inflation to spike in the Middle Eastern
+nation"
 
 ---
 
-"[The war] in Ukraine has brutally exposed the flaws in Western
-security architecture.. 'The United Nations Security Council has
-proven once again to be useless,' one political scientist said"
+Politico: "[The war] in Ukraine has brutally exposed the flaws in
+Western security architecture.. 'The United Nations Security Council
+has proven once again to be useless,' one political scientist said"
 
 ---
 
