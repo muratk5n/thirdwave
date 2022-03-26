@@ -55,7 +55,7 @@ eastern seaboard"
 ---
 
 Same argument applies for ammonia (clean H2 carrier) or LH2, CH2.
-Base molecules as fuel as energy carrier, storage are unbeatable.
+Base molecules as fuel, as energy carrier / storage are efficient.
 
 ---
 
