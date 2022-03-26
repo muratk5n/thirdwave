@@ -54,6 +54,11 @@ eastern seaboard"
 
 ---
 
+Same argument applies for ammonia (clean H2 carrier) or LH2, CH2.
+Base molecules as fuel as energy carrier, storage are unbeatable.
+
+---
+
 Molecules vs lion bat
 
 [[-]](https://youtu.be/Hatav_Rdnno?t=117)
