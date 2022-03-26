@@ -90,9 +90,9 @@ Instagram "I'll show that pic to fam, so phat, no cap!!"
 
 ---
 
-Now there is time travel.. But that's like ST IV *The Voyage Home*.
-
-Like when Spock became a hippie, there was that whale?
+There is time travel! That's original.. Now we are in ST IV *The
+Voyage Home* territory. Like when Spock became a hippie, there was
+that whale?
 
 Dude. I'm so bored already.
 
