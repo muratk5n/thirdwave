@@ -47,8 +47,7 @@ project in Finland"
 
 ---
 
-For concentrating sunlight through a lens, no need for hard lens, even
-water will do.
+For concentrating sunlight through a lens, even water will do.
 
 1/3 KWatt is it? Wow
 
