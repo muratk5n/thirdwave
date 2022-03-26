@@ -42,9 +42,9 @@ H2 View: "UAE, the Netherlands sign agreement to collaborate on clean hydrogen"
 
 ---
 
-Fortesque is creating a major tac-team around H2. They snagged the guy
-from Mitsubishi Power US, Browning, then the next-in-line at Oz
-Central Bank leadership.. Impressive. They are gearing up for major
+Fortesque is creating a major team around clean fuels. They snagged
+the guy from Mitsubishi Power US, Browning, then the next-in-line at
+Oz Central Bank leadership.. Impressive. They are gearing up for major
 energy world domination.
 
 ---
