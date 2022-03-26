@@ -8,9 +8,6 @@ Pinned Tweet
 
 ---
 
-
----
-
 H2 Fuel News: "[Senators] Coons,.. Cornyn... introduced the new
 Hydrogen for Trucks Act, S 3806. It was introduced to support the
 widespread adoption of hydrogen fuel cell trucks, heavy duty vehicles
@@ -27,9 +24,9 @@ New York wants to become a hydrogen hub"
 
 H2 View: "€3.5bn project to create 1,500km hydrogen backbone pipeline
 for Germany.. Hydrogen infrastructure in Germany has been handed a
-significant boost today (March 24) with RWE and OGE unveiling a
-hydrogen infrastructure concept including 1GW of new electrolyser
-capacity and 1,500km of pipeline...
+significant boost with RWE and OGE unveiling a hydrogen infrastructure
+concept including 1GW of new electrolyser capacity and 1,500km of
+pipeline...
 
 Dubbed *H2ercules* the plans aim to install an additional 1GW of
 electrolyser capacity whilst also linking it via pipeline
