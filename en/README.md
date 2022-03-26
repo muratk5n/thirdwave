@@ -76,8 +76,13 @@ For concentrating sunlight through a lens, even water will do.
 
 ---
 
+---
+
 I fast-forwarded a lot of stuff - Picard looks only half-dead w/ ff,
-fans shld try (if there are any)
+fans shld try (if there are any).
+
+The show is plastic, derivative, soulless. I would expect nothing less
+from the muckers around Jar Jar Ibrahim.
 
 ---
 
