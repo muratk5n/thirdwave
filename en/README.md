@@ -42,17 +42,6 @@ H2 View: "UAE, the Netherlands sign agreement to collaborate on clean hydrogen"
 
 ---
 
-H2 View: "Sunfire to provide electrolyser for 20MW hydrogen production
-project in Finland"
-
----
-
-For concentrating sunlight through a lens, even water will do.
-
-[[-]](https://youtu.be/eeSyHgO5fmQ?t=28)
-
----
-
 Fortesque is creating a major tac-team around H2. They snagged the guy
 from Mitsubishi Power US, Browning, then the next-in-line at Oz
 Central Bank leadership.. Impressive. They are gearing up for major
@@ -68,6 +57,17 @@ eastern seaboard"
 Molecules vs lion bat
 
 [[-]](https://youtu.be/Hatav_Rdnno?t=117)
+
+---
+
+H2 View: "Sunfire to provide electrolyser for 20MW hydrogen production
+project in Finland"
+
+---
+
+For concentrating sunlight through a lens, even water will do.
+
+[[-]](https://youtu.be/eeSyHgO5fmQ?t=28)
 
 ---
 
