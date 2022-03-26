@@ -99,8 +99,8 @@ Dude. I'm so bored already.
 
 *Picard* is turning into STE *In a Mirror Darkly*.. The engineer gets
 a scar, the female first officer an open belly uniform? (Rrrr that was
-good actually). There's acting out of the character, and of course,
-someone gets a goatee
+good). There's acting out of the character, and of course, someone
+gets a goatee
 
 ---
 
