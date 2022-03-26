@@ -17,8 +17,8 @@ introduced in the House, HR 7064 by Representatives Katie Porter
 
 ---
 
-H2 View: "New York Governor.. Governor Kathy Hochul has confirmed that
-New York wants to become a hydrogen hub"
+H2 View: "New York Governor Kathy Hochul has confirmed that New York
+wants to become a hydrogen hub"
 
 ---
 
