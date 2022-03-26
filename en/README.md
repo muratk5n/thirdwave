@@ -2,190 +2,213 @@
 
 ---
 
+Pinned Tweet
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">In a bid to secure <a href="https://twitter.com/hashtag/US?src=hash&amp;ref_src=twsrc%5Etfw">#US</a> <a href="https://twitter.com/ENERGY?ref_src=twsrc%5Etfw">@ENERGY</a> (DOE) funding for the development of a <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> hub, the <a href="https://twitter.com/hashtag/WestVirginia?src=hash&amp;ref_src=twsrc%5Etfw">#WestVirginia</a> Hydrogen Hub Coalition has officially submitted its proposal.<a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/H2View?src=hash&amp;ref_src=twsrc%5Etfw">#H2View</a><a href="https://t.co/uHWGAor2nr">https://t.co/uHWGAor2nr</a></p>&mdash; H2 View (@h2_view) <a href="https://twitter.com/h2_view/status/1506200810857844740?ref_src=twsrc%5Etfw">March 22, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-H2 View: "In a bid to secure US Department of Energy (DOE) funding for
-the development of a hydrogen hub, the West Virginia Hydrogen Hub
-Coalition has officially submitted its proposal. The state becomes one
-of the first to officially submit a proposal with the Mountain State’s
-abundance of renewable energy set to be coupled for mass hydrogen
-production and the integration of several end applications to boost
-the hydrogen economy..
-
-West Virginia already has a rich background in coal, gas and oil and
-thus could have an extensive list of potential hydrogen customers that
-can be utilised to surge demand for the clean energy carrier. Another
-important factor is the availability of skill energy workforce and
-with West Virginia’s already established energy sector, the jobs could
-transition to hydrogen and support the emerging technologies and
-wprojects.
-
-US Senator Joe Manchin, Chairman of the Senate Energy and Natural
-Resources Committee, said, 'With our abundant energy sources and
-strong partnerships, our state is uniquely situated to compete to
-develop a hydrogen hub..'"
 
 ---
 
-Places for salt cavern storage in US, below, taken from [paper](https://www.sciencedirect.com/science/article/abs/pii/S0360319921030834)
-
-[[-]](https://pbs.twimg.com/media/FOiY5s6XMAI57n8?format=png&name=small)
-
----
-
-And there is that huge ammonia option, a whole seperate mechanism that
-can store massive amounts of H2.
+H2 Fuel News: "[Senators] Coons,.. Cornyn... introduced the new
+Hydrogen for Trucks Act, S 3806. It was introduced to support the
+widespread adoption of hydrogen fuel cell trucks, heavy duty vehicles
+and fueling stations. Moreover, companion legislation has been
+introduced in the House, HR 7064 by Representatives Katie Porter
+(D-California) and Gus Bilirakis (R-Florida)"
 
 ---
 
-Presentation about underground H2 storage methods
-
-[PDF](https://www.hydrogen.energy.gov/pdfs/review19/st001_ahluwalia_2019_o.pdf)
-
----
-
-Salt caverns, and lined rock caverns.. There is a third method, using
-pipeline pieces, underground..  We know a pipeline network itself is
-also a storage mechanism, well, why not use pieces of pipeline
-hardware and stack them on top of eachother underground, creating an
-uber storage system?
+H2 View: "New York Governor.. Governor Kathy Hochul has confirmed that
+New York wants to become a hydrogen hub"
 
 ---
 
-Here is another method
+H2 View: "€3.5bn project to create 1,500km hydrogen backbone pipeline
+for Germany.. Hydrogen infrastructure in Germany has been handed a
+significant boost today (March 24) with RWE and OGE unveiling a
+hydrogen infrastructure concept including 1GW of new electrolyser
+capacity and 1,500km of pipeline...
 
-CNBC: "[2020] Caverns can be created in salt domes by drilling into
-the salt dome and injecting the rock with water, which dissolves the
-salt. The resulting brine is extracted, leaving a large cavity. The
-next step is storing hydrogen in the cavern...
-
-'[One] formation has the potential to create up to 100 caverns, each
-one capable of holding 150,000 MWh of energy,' says Browning [CEO of
-Mitsubishi Power US, now at Fortesque]. 'It would take 40,000 shipping
-containers of batteries to store that much energy in each cavern.'"
-
-[[-]](https://www.cnbc.com/2020/11/01/how-salt-caverns-may-trigger-11-trillion-hydrogen-energy-boom-.html)
+Dubbed *H2ercules* the plans aim to install an additional 1GW of
+electrolyser capacity whilst also linking it via pipeline
+infrastructure to storage and import facilities in Northern Germany"
 
 ---
 
-26.7 million dollars for 100 m3 storage. At 250 bars H2 has energy
-density is 700 kwh/m3, this is 70 MWh of storage. It's pretty cheap.
-The equivalent lion battery install would cost over $50 million. 
+H2 View: "Celtic Sea to host gigawatt-scale green hydrogen production project"
 
 ---
 
-Daily Scandanavian: "Hydrogen Storage Facility in Sweden Has Reached
-Halfway Point in Construction..  Construction of the 100-cubic-meter..
-rock cavern storage facility 30 meters below ground is done by
-Vattenfall AB in collaboration with Swedish steel company SSAB AB..,
-iron ore miner Luossavaara-Kiirunavaara AB..  The three owners
-invested around USD 21.4m.. in three equal parts, with the Swedish
-Energy Agency contributing just over SEK 52 million towards the
-hydrogen storage construction.
-
-The cavern is being built via the so-called lined rock cavern (LRC)
-approach, which involves covering the walls of the cavern with a
-selected matter. The technology for storing gas in a lined rock cavern
-(LRC) is well proven and has been used in southern Sweden for about 20
-years for storing natural gas. However, the technology is now taking
-another step forward as it’s being developed for the first time with
-hydrogen gas on a large pilot scale... The finished plant will contain
-hydrogen gas pressurized up to 250 bar"
-
-[[-]](https://www.dailyscandinavian.com/hydrogen-storage-facility-in-sweden-is-has-reached-halfway-point-in-construction/)
+H2 View: "UAE, the Netherlands sign agreement to collaborate on clean hydrogen"
 
 ---
 
-H2 View: "The Australian town of Chinchilla, located in the state of
-Queensland, will soon be home to a brand-new hydrogen plant capable of
-producing 50,000kg of renewable hydrogen annually"
+H2 View: "Sunfire to provide electrolyser for 20MW hydrogen production
+project in Finland"
 
 ---
 
-Al Jazeera: "China sets green hydrogen target for 2025, eying widespread use"
+For concentrating sunlight through a lens, no need for hard lens, even
+water will do.
+
+1/3 KWatt is it? Wow
+
+[[-]](https://youtu.be/eeSyHgO5fmQ?t=28)
 
 ---
 
-
-Ketanji BJ comes across as good judge.. Defended detainees at Gitmo?
-
----
-
-"@DrLeanaWen [Public health professor George Washington Public Health]
-
-For those who don’t agree that the vaccinated can return to
-pre-pandemic normal, I ask: What should we all do? Perpetual masking?
-Forever not dining out, avoiding large weddings & indoor gatherings,
-etc? Virtually everything has risk, and zero covid is not a viable
-strategy"
+Fortesque is creating a major tac-team around H2. They snagged the guy
+from Mitsubishi Power US, Browning, then the next-in-line at Oz
+Central Bank leadership.. Impressive. They are gearing up for major
+energy world domination.
 
 ---
 
-Ran the code below at different times, PM 2.5 is mostly above 80.
-Many other cities are in bad shape too, thanks to fossil. Data is from
-Openweathermap who take their data directly from [SILAM](http://silam.fmi.fi/aqforecast.html).
-My access code is [here](tweets/2022/util.py).
-
-```python
-import util, datetime
-aqi, res = util.pollution(28,77)
-print (datetime.datetime.now(), res['pm2_5'])
-```
-
-```text
-2022-03-23 20:41:17.464611 82.25
-```
-
-```text
-2022-03-23 16:41:01.053968 53.17
-```
-
-```text
-2022-03-23 10:22:56.050570, 91.42
-```
-
-```text
-2022-03-22 24:19:55.815364, 94.01
-```
+H2 View: "Hydrogen ‘superhighway’ to be developed across Australia’s
+eastern seaboard"
 
 ---
 
-WION had a segment on New Delhi air quality. One report found over 96
-mg/m3 PM 2.5 concentration? Segment had doubts on the sponsor of the
-report, IOAir, which sells air purifier products. Good to know... I
-double-checked though and it is true, PM 2.5 is high.
+Molecules vs lion bat
 
-[[-]](https://pbs.twimg.com/media/FOisLPCXEAc10_w?format=jpg&name=small)
+[[-]](https://youtu.be/Hatav_Rdnno?t=117)
 
 ---
 
-Bruno Bete \#UKR
-
-[[-]](https://youtu.be/A9EFikGLp1g?t=89)
-
----
-
-It sucks
-
-Arab News: "Japan said Tuesday it 'strongly protests' Russia's
-decision to abandon talks on a World War II peace treaty because of
-Tokyo's strong response to the invasion of Ukraine."
+I fast-forwarded a lot of stuff - Picard looks only half-dead w/ ff,
+fans shld try (if there are any)
 
 ---
 
-Petrodollar vs gasruble 
-
-"Putin says will accept only rubles for gas sales to ‘unfriendly
-nations’"
+They go back to 2024; maybe they'll talk to teenagers posting on
+Instagram "I'll show that pic to fam, so phat, no cap!!"
 
 ---
 
-Politico: "An immediate ban on Russian energy imports would trigger an
-economic recession in Germany and across Europe, German Chancellor
-Olaf Scholz warned Wednesday... arguing that sanctions 'must not hit
-the European countries harder than the Russian leadership.'"
+[Link](https://pbs.twimg.com/media/FOtz1wGWYAEXD-l?format=jpg&name=small)
+
+---
+
+Now there is time travel.. But that's like ST IV *The Voyage Home*.
+
+Like when Spock became a hippie, there was that whale?
+
+Dude. I'm so bored already.
+
+---
+
+[Link](https://pbs.twimg.com/media/FOtwzPcXIAM0ZV6?format=jpg&name=small)
+
+---
+
+*Picard* is turning into STE *In a Mirror Darkly*.. The engineer gets
+a scar, the female first officer an open belly uniform? (Rrrr that was
+good actually). There's acting out of the character, and of course,
+someone gets a goatee
+
+---
+
+"Singapore to ease Covid measures, reopen borders and drop outdoor
+mask mandate"
+
+---
+
+Chris Joss - Re-volt \#music
+
+[[-]](https://youtu.be/mrJVQWvOuCE)
+
+---
+
+WION: "China, Solomon Islands finalising pact to establish military
+presence at ‘Australia’s backyard’"
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">smart ovens on the block chain are gonna rule. will take 10 hours just to verify you&#39;re allowed to start it up. <a href="https://t.co/V7tyo9cRqb">https://t.co/V7tyo9cRqb</a></p>&mdash; Internet of Shit (@internetofshit) <a href="https://twitter.com/internetofshit/status/1506733827581915137?ref_src=twsrc%5Etfw">March 23, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+The AI mentioned is weak AI, some dumb neural network with lots of data
+stuffed in at best. Or it's misuse of terminology, a statistical model
+plus some optimization.
+
+---
+
+US Navy drone sensor network in the Gulf 
+
+'Total surveilance'. Sounds freaky.. like London's CCTV
+
+[[-]](https://youtu.be/4RwU1tc_E7Y)
+
+---
+
+"We asked [researcher] Leigh what sparked his interest in severe
+weather 'It was an actual spark that sparked my interest! When I was
+five years old, shortly after my family moved into a new house in
+western Massachusetts, our house was struck by lightning'"
+
+[PDF](https://futurumcareers.com/Leigh-Orf-Using-supercomputers-to-simulate-super-tornadoes.pdf)
+
+---
+
+<img width="340" src="https://pbs.twimg.com/media/FOoQsDfVEAA8zRL?format=jpg&name=small"/>
+
+---
+
+After Midnight - Bei Mir Bist Du Schon \#music
+
+[[-]](https://youtu.be/cwXRsXTPzfs)
+
+---
+
+"Egypt will apply for a new loan from the IMF, the Washington-based
+crisis lender announced Wednesday, after Russia's invasion of Ukraine
+caused inflation to spike in the Middle Eastern nation"
+
+---
+
+"[The war] in Ukraine has brutally exposed the flaws in Western
+security architecture.. 'The United Nations Security Council has
+proven once again to be useless,' one political scientist said"
+
+---
+
+Back during WWI artillery at least had some adventure, 'battlefield
+bravery' associated with it, in one case infantry would advance under
+artillery protection / shelling ahead of troops, so when soldiers got
+to the area the place would be enemy-free. Troops had to move very
+carefully tho, otherwise u get hit too..? The danger! I believe Canada
+used this tecnqique succesfully a few times.
+
+Nowadays after the advent of radio communication, it all changed.
+Infantry will explore, pick a target, report back to artillery group,
+who will bomb the place from 20 kilometers away. The poor sod getting
+blown up won't know what hit him, being shelled by someone who has no
+idea who he is, identified by infantry who is completely seperate from
+the bombing itself. Tis the modern war.
+
+---
+
+It's true.. 
+
+Al Jazeera: "'This fighting is not how you imagine it from the
+movies,' said [Ukrainian filmmaker] Sentsov.. 'Close contact, shooting
+from small arms, there is not so much of it. Most of the time this is
+artillery and your task is to hold the front line in the trenches, and
+not to die from the shelling'
+
+---
+
+I see; if captured they could be used as a propaganda tool.. makes
+sense
+
+---
+
+Then the "sniper king" Wali shouldn't have gone?
+
+"Canada bars its soldiers from joining Ukraine’s foreign legion"
 
 ---
 
