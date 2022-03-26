@@ -180,7 +180,7 @@ bravery' associated with it, one tactic had infantry advance under
 artillery protection / shelling ahead of troops, so when soldiers
 reached their target the place would be enemy-free. Troops had to move
 very carefully tho, otherwise u get hit too..? The danger!.. I believe
-Canada used this tecnqique succesfully a few times.
+Canada used this technique succesfully a few times.
 
 Nowadays after the advent of radio communication, it's all different.
 Infantry will explore, pick a target, report back to artillery group,
