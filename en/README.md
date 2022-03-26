@@ -49,8 +49,6 @@ project in Finland"
 
 For concentrating sunlight through a lens, even water will do.
 
-1/3 KWatt is it? Wow
-
 [[-]](https://youtu.be/eeSyHgO5fmQ?t=28)
 
 ---
