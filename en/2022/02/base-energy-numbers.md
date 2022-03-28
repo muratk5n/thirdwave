@@ -28,6 +28,8 @@ At 300 bars H2 has energy density is 750 kwh/m3, ditto.
 
 Crude oil 44 MJ/kg
 
+1 barrel of oil has 1700 kWh of energy
+
 Ammonia 22.5 MJ/kg
 
 Ammonia 15.6 MJ/L

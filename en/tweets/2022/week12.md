@@ -541,7 +541,7 @@ ammonia as fuel for power generation to replace 20% of the coal from
 
 ---
 
-Because they have leftism there.. See [post](2017/08/the-nordic-theory-of-everything.md)
+Because they have leftism there.. See [post](../../2017/08/the-nordic-theory-of-everything.md)
 
 "Finland has been named the world's happiest country for the fifth
 year in a row"

@@ -8,212 +8,232 @@ Pinned Tweet
 
 ---
 
-H2 Fuel News: "[Senators] Coons,.. Cornyn... introduced the new
-Hydrogen for Trucks Act, S 3806. It was introduced to support the
-widespread adoption of hydrogen fuel cell trucks, heavy duty vehicles
-and fueling stations. Moreover, companion legislation has been
-introduced in the House, HR 7064 by Representatives Katie Porter
-(D-California) and Gus Bilirakis (R-Florida)"
+LCOH for salt caverns and LRC are very good (same doc)
 
 ---
 
-H2 View: "New York Governor Kathy Hochul has confirmed that New York
-wants to become a hydrogen hub"
+H2 underground storage using salt cav., LRC, and pipes have capital
+cost 35, 51, 386 dollars/KW respectively. That's just crazy
+(cheap). 
+
+[[-]](2022/02/costs-lcoe.md)
 
 ---
 
-H2 View: "€3.5bn project to create 1,500km hydrogen backbone pipeline
-for Germany.. Hydrogen infrastructure in Germany has been handed a
-significant boost with RWE and OGE unveiling a hydrogen infrastructure
-concept including 1GW of new electrolyser capacity and 1,500km of
-pipeline...
+Same paper
 
-Dubbed *H2ercules* the plans aim to install an additional 1GW of
-electrolyser capacity whilst also linking it via pipeline
-infrastructure to storage and import facilities in Northern Germany"
-
----
-
-H2 View: "Celtic Sea to host gigawatt-scale green hydrogen production project"
+"One spherical or cylindrical receiver is used to heat HTF to the
+levels needed for the [thermochemical water splitting cycle]... The
+optical efficiency of the ASC is high and reaches 91% in practice,
+while it is 100% theoretically like the parabolic dish. Since the wind
+flows through its conical rings, the wind load of the ASC is about 10%
+that of the parabolic dish of the same dimensions"
 
 ---
 
-H2 View: "UAE, the Netherlands sign agreement to collaborate on clean hydrogen"
+Beam-down is interesting bcz can reach high temperatures easily, and
+at that temperature, water can be split just by sheer heat energy, no
+need for electricity.
 
 ---
 
-Fortesque is creating a major team around clean fuels. They snagged
-the guy from Mitsubishi Power US, Browning, then the next-in-line at
-Oz Central Bank leadership.. Impressive. They are gearing up for major
-energy world domination.
+"[2021] Recently, Al-Maaitah.. has developed a high flux solar
+concentrator with a lower focal point fixed to the ground composed of
+nested conical reflective rings resulting in high solar concentrations
+and temperatures well above 1,000 C. Since the focal point is fixed on
+the ground, then the high-temperature and high-pressure HTF can easily
+be conveyed through solid inexpensive pipes to the storage tank
+sitting at the ground underneath the receiver or next to it. A 10 m in
+diameter concentrator was built and tested in Masdar Institute Solar
+Platform in Abu Dhabi (UAE) where temperatures exceeding 1,000 C have
+been reached at the fixed focal point even at low DNI"
+
+[[-]](https://www.researchgate.net/publication/351585416_Hydrogen_Production_by_Solar_Thermochemical_Water-Splitting_Cycle_via_a_Beam_Down_Concentrator)
 
 ---
 
-H2 View: "Hydrogen ‘superhighway’ to be developed across Australia’s
-eastern seaboard"
+What is the latest on this tech..? Can it be scaled?
 
 ---
 
-Same argument applies for ammonia (clean H2 carrier) or LH2, CH2.
-Base molecules as fuel, as energy carrier / storage are efficient.
+Solar beam-down hardware in UAE - looks scifi
+
+[[-]](https://pbs.twimg.com/media/FOzPnrcWUAEdFTz?format=jpg&name=small)
 
 ---
 
-Molecules vs lion bat
-
-[[-]](https://youtu.be/Hatav_Rdnno?t=117)
+Focusing solar through lenses seem to be somewhat unexplored.
 
 ---
 
-H2 View: "Sunfire to provide electrolyser for 20MW hydrogen production
-project in Finland"
+For CSP, thermal storage is completely unnecessary in a H2, NH3
+generation scenario, bcz renewable fuel itself is a form of backup.
 
 ---
 
-For concentrating sunlight through a lens, even water will do.
+That's like saying filling up, and emptying the gas tank degrades the
+tank, and after a few thousand fills you can't use half of it.
 
-[[-]](https://youtu.be/eeSyHgO5fmQ?t=28)
-
----
-
----
-
-I fast-forwarded a lot of stuff - Picard looks only half-dead w/ ff,
-fans shld try (if there are any).
-
-The show is plastic, derivative, soulless. I would expect nothing less
-from the muckers around Jar Jar Ibrahim.
+That ain't  technology - it's a joke.
 
 ---
 
-They go back to 2024; maybe they'll talk to teenagers posting on
-Instagram "I'll show that pic to fam, so phat, no cap!!"
+Cycling through bats degrade it? And eventually it's dead. Sad
+
+[[-]](https://youtu.be/Qgv6Lgvy8Lc?t=495)
 
 ---
 
-[Link](https://pbs.twimg.com/media/FOtz1wGWYAEXD-l?format=jpg&name=small)
+OMG, cold survival camping! Watched a vid on someone's 'survival'
+experience.. It's not exactly roughing it.. I ask; what was the
+heating mechanism?  2 KW heater, **and** 3.5 inches (~9 cm) of
+styrafoam insulation on the walls, floor and ceiling. That's how u
+survive -29C.
 
 ---
 
-There is time travel! That's original.. Now we are in ST IV *The
-Voyage Home* territory. Like when Spock became a hippie, there was
-that whale?
+1 barrel of oil has 1700 kWh of energy, 7000x1700/(24x1e6) is 500
+MW. Half a nuclear plant, and something solar can match, easily.  If
+H2 is generated on-site from that crude and clean fuel is shipped as
+export, fine.
 
-Dude. I'm so bored already.
-
----
-
-[Link](https://pbs.twimg.com/media/FOtwzPcXIAM0ZV6?format=jpg&name=small)
-
----
-
-*Picard* is turning into STE *In a Mirror Darkly*.. The engineer gets
-a scar, the female first officer an open belly uniform? (Rrrr that was
-good). There's crazy behaviour, captain is weird (he bad), and of
-course, someone gets a goatee
+Oil Review Africa: "Eni, Sonatrach announce oil and gas discovery in
+Berkine North Basin in the Algerian desert. Early estimates place the
+size of the find at around 140 million barrels of oil... During the
+production test, the well delivered 7000 barrels of oil per day"
 
 ---
 
-"Singapore to ease Covid measures, reopen borders and drop outdoor
-mask mandate"
+Indonesia is huge. Covers a lot of land and sea area. They have a half
+of New Guinea.
 
 ---
 
-Chris Joss - Re-volt \#music
+The Douche and Douchess, failing at PR. Not their fault, the
+institution is defunct IMO.. esp in a Brexit Britain, with less shine,
+glitter it's harder to sell this lemon.
 
-[[-]](https://youtu.be/mrJVQWvOuCE)
-
----
-
-WION: "China, Solomon Islands finalising pact to establish military
-presence at ‘Australia’s backyard’"
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">smart ovens on the block chain are gonna rule. will take 10 hours just to verify you&#39;re allowed to start it up. <a href="https://t.co/V7tyo9cRqb">https://t.co/V7tyo9cRqb</a></p>&mdash; Internet of Shit (@internetofshit) <a href="https://twitter.com/internetofshit/status/1506733827581915137?ref_src=twsrc%5Etfw">March 23, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+The Guardian: "It was supposed to be a visit to mark the Queen's
+diamond jubilee - a chance to present the modern face of the British
+monarchy to a region where republican sentiment is on the rise. But it
+really didn't turn out that way.. the tour may have accelerated moves
+to ditch the Queen as the head of state"
 
 ---
 
-The AI mentioned is weak AI, some dumb neural network with lots of data
-stuffed in at best. Or it's misuse of terminology, a statistical model
-plus some optimization.
+It's like, we will soon find out about that, won't we, Focker?
+
+Remember the circle of trust 👌
+
+NYT: "[Peter Thiel interview, 2017] It’s like, even if you appointed a
+whole series of conservative Supreme Court justices, I’m not sure that
+Roe v. Wade would get overturned.. I don’t know if people even care
+about the Supreme Court"
+
+[[-]](https://www.nytimes.com/2017/01/11/fashion/peter-thiel-donald-trump-silicon-valley-technology-gawker.html)
 
 ---
 
-US Navy drone sensor network in the Gulf 
-
-'Total surveilance' eh? .. 
-
-[[-]](https://youtu.be/4RwU1tc_E7Y)
+Pakistan has great access; and the country is always in a state of
+chaos. They want them in constant trouble, turned inward? One
+wonders..
 
 ---
 
-"We asked [researcher] Leigh what sparked his interest in severe
-weather 'It was an actual spark that sparked my interest! When I was
-five years old, shortly after my family moved into a new house in
-western Massachusetts, our house was struck by lightning'"
-
-[PDF](https://futurumcareers.com/Leigh-Orf-Using-supercomputers-to-simulate-super-tornadoes.pdf)
+Apparently the waters until that island chain are shallow so any sub
+sailing there would have its ass sticking out, waiting to get hit
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/FOoQsDfVEAA8zRL?format=jpg&name=small"/>
+At first u think 'ah China is doing fine, [look at](https://pbs.twimg.com/media/FO3P7q7XsAkh0Wz?format=png&name=small)
+all that access".
+
+Then you zoom in and [boom](https://pbs.twimg.com/media/FO3P-S2XoAUWn6o?format=png&name=small)!
+Notice that island chain is lined up like a f-ing firing squad, with
+Okinawa smack in the middle housing one of the largest US bases. No wonder
+China wants Taiwan (at the end of that island chain) to break
+through the encirclement.
 
 ---
 
-After Midnight - Bei Mir Bist Du Schon \#music
-
-[[-]](https://youtu.be/cwXRsXTPzfs)
-
----
-
-F24: "Egypt will apply for a new loan from the IMF, the
-Washington-based crisis lender announced Wednesday, after Russia's
-invasion of Ukraine caused inflation to spike in the Middle Eastern
-nation"
+Iraq, Bahrain, Qatar, UAE are in abysmal state (same map), for high
+seas. Iraq's access to even *Persian Gulf* is terrible... No wonder
+Saddam invaded Kuwait.
 
 ---
 
-Politico: "[The war] in Ukraine has brutally exposed the flaws in
-Western security architecture.. 'The United Nations Security Council
-has proven once again to be useless,' one political scientist said"
+Iran is ok.. but still can be blocked
+
+[[-]](https://pbs.twimg.com/media/FO2mD50XEAEypm8?format=jpg&name=small)
 
 ---
 
-Back during WWI artillery at least had some adventure, 'battlefield
-bravery' associated with it, one tactic had infantry advance under
-artillery protection / shelling ahead of troops, so when soldiers
-reached their target the place would be enemy-free. Troops had to move
-very carefully tho, otherwise u get hit too..? The danger!.. I believe
-Canada used this technique succesfully a few times (yes, Canada!).
+Saudi Arabia is an 'inner' country. They got'em locked in good, behind
+Yemen, Oman, and UAE with a few tiny access points to the high seas,
+which can be blocked with ease.
 
-Nowadays after the advent of radio communication, it's all different.
-Infantry will explore, pick a target, report back to artillery group,
-who will bomb the place from 20 kilometers away. The poor sod getting
-blown up won't know what hit him, being shelled by someone who has no
-idea who he is, identified by infantry who is completely seperate from
-the bombing itself. Tis the modern war.
+[[-]](https://pbs.twimg.com/media/FO2l_dLX0AYGKeg?format=png&name=small)
 
 ---
 
-It's true.. 
-
-Al Jazeera: "'This fighting is not how you imagine it from the
-movies,' said [Ukrainian filmmaker] Sentsov.. 'Close contact, shooting
-from small arms, there is not so much of it. Most of the time this is
-artillery and your task is to hold the front line in the trenches, and
-not to die from the shelling'
+F24: "Western powers want Saudi Arabia to pump more oil to ease
+surging prices driven by the Ukraine war, but the kingdom has its own
+demand: support for its war in Yemen"
 
 ---
 
-I see; if captured they could be used as a propaganda tool.. makes
-sense
+Hungarian FM talking about US/EU natgas deal (on ships, as LNG):
+Supposedly shipments wld make up for a future RU shortfall but the
+amount planned is only enough for 10% of EU's need.
 
 ---
 
-Then the "sniper king" Wali shouldn't have gone?
+The attack was probably a message to JB while visiting Rzeszów,
+Poland, right across the border, very close to Lviv.
 
-"Canada bars its soldiers from joining Ukraine’s foreign legion"
+"Just when many thought Eastern Ukraine was the focus, there was the
+Russian attack on a Western town, Lviv"
+
+---
+
+F24: "Macron warns against 'escalation' after Biden calls Putin a 'butcher'"
+
+---
+
+My native country is an outer's outpost (in NATO). Been fine with this
+alliance personally i.e. it is in homie interest to have a defense
+against Russia. We fought these people for centuries; once RU army was
+15 km near Stanpoli nearly took the city. It was through major diplom,
+'alligianery' that all was saved. Keeping 'future naval powers' at bay
+cld be in US citizens' interest too...
+
+But, the system is fraying on the edges.. The alliance arrives with
+crass ideology creating unrest leading to ultra-nationalist
+movements. The pack leader US doesn't seem to be willing to fight all
+the time, so in order to keep the inners "contained", chaos is created
+on the edges e.g. Iraq, Libya, Syria, Ukraine... The spillover effect
+is toxic for all, especially the outposts, one could argue, even for
+the seat of the empire itself.
+
+---
+
+John Mearsheimer on rights, realism
+
+[[-]](https://youtu.be/2_WrqOMbpLU?t=404)
+
+---
+
+China/India can have a fine partnership.. Chindia? 
+
+CNBC: "In a visit shrouded in secrecy, Chinese Foreign Minister Wang
+Yi flew to India and met his Indian counterpart Subrahmanyam
+Jaishankar for three-hour-long talks on Friday"
+
+---
+
+Politico: "Macron says France will spearhead operation to evacuate
+Mariupol.. ‘Exceptional humanitarian operation’ will be discussed with
+Putin within days, French president says"
 
 ---
 
