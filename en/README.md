@@ -140,7 +140,7 @@ wonders..
 
 ---
 
-Apparently the waters until that island chain are shallow so any sub
+Apparently the waters until those islands are shallow so any sub
 sailing there would have its ass sticking out, waiting to get hit
 
 ---
