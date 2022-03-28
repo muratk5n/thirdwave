@@ -198,7 +198,8 @@ demand: support for its war in Yemen"
 
 Hungarian FM talking about US/EU natgas deal (on ships, as LNG):
 Supposedly shipments wld make up for a future RU shortfall but the
-amount planned is only enough for 10% of EU's need. Chump change.
+amount planned is only enough for 10% of EU's need. Mere appetizer
+not the main course.
 
 ---
 
