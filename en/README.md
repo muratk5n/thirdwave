@@ -72,7 +72,7 @@ scenario, bcz renewable fuel itself is a form of backup.
 ---
 
 That's like saying filling up, and emptying the gas tank degrades the
-tank, and after a few thousand fills you can't use half of it.
+tank, and after a while you can't use half of it.
 
 That ain't  technology - it's a joke.
 
