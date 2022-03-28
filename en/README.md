@@ -202,8 +202,8 @@ Gravitas Plus: The story of Ukraine's President Volodymyr Zelensky
 The attack was probably a message to JB while visiting Rzeszów,
 Poland, right across the border, very close to Lviv.
 
-"Just when many thought Eastern Ukraine was the focus, there was the
-Russian attack on a Western town, Lviv"
+"As focus shifted to Eastern Ukraine, there was a Russian attack on
+a Western town, Lviv"
 
 ---
 
