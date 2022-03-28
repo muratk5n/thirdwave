@@ -121,6 +121,11 @@ to ditch the Queen as the head of state"
 
 ---
 
+A liberterian working against individual liberty.. Politics is fun in US.
+Ultra-rich cunts make it interesting. 
+
+---
+
 It's like, we will soon find out about that, won't we, Focker?
 
 Remember the circle of trust 👌
