@@ -110,8 +110,8 @@ of New Guinea.
 ---
 
 The Douche and Douchess, failing at PR. Not their fault, the
-institution is defunct IMO.. esp in a Brexit Britain, with less shine,
-glitter it's harder to sell this lemon.
+institution becoming defunct IMO.. esp in a Brexit Britain, with less
+shine, glitter it's harder to sell this lemon.
 
 The Guardian: "It was supposed to be a visit to mark the Queen's
 diamond jubilee - a chance to present the modern face of the British
