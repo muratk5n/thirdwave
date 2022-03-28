@@ -193,12 +193,6 @@ amount planned is only enough for 10% of EU's need. Chump change.
 
 ---
 
-Gravitas Plus: The story of Ukraine's President Volodymyr Zelensky
-
-[[-]](https://youtu.be/Kn2TCq6R8Tw?t=244)
-
----
-
 The attack was probably a message to JB while visiting Rzeszów,
 Poland, right across the border, close to Lviv.
 
