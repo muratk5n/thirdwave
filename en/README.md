@@ -92,7 +92,7 @@ survive -29C.
 
 ---
 
-1 barrel of oil has 1700 kWh of energy, 7000x1700/(24x1e6) is 500
+1 barrel of oil has 1700 kWh of energy, 7000x1700/(24x1e3) is 500
 MW. Half a nuclear plant, and something solar can match, easily.  If
 H2 is generated on-site from that crude and clean fuel is shipped as
 export, fine.
