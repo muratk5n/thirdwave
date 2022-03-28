@@ -92,10 +92,10 @@ survive -29C.
 
 ---
 
-1 barrel of oil has 1700 kWh of energy, 7000x1700/(24x1e3) is 500
-MW. Half a nuclear plant, and something solar can match, easily.  If
-H2 is generated on-site from that crude and clean fuel is shipped as
-export, fine.
+1 barrel of oil has 1700 kWh of energy, 7000 x 1700 / (24 x 1e3) is
+500 MW. Half a nuclear plant, and something solar can match, easily.
+If H2 is generated on-site from that crude and clean fuel is shipped
+as export, fine.
 
 Oil Review Africa: "Eni, Sonatrach announce oil and gas discovery in
 Berkine North Basin in the Algerian desert. Early estimates place the
