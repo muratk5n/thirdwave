@@ -121,8 +121,8 @@ to ditch the Queen as the head of state"
 
 ---
 
-A liberterian working against individual liberty.. Politics is fun in US.
-Ultra-rich cunts make it interesting. 
+A liberterian working against individual liberty.. Politics is fun in
+US thanks to ultra-rich cunts.
 
 ---
 
