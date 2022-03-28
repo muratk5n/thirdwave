@@ -41,12 +41,13 @@ need for electricity.
 concentrator with a lower focal point fixed to the ground composed of
 nested conical reflective rings resulting in high solar concentrations
 and temperatures well above 1,000 C. Since the focal point is fixed on
-the ground, then the high-temperature and high-pressure HTF can easily
-be conveyed through solid inexpensive pipes to the storage tank
-sitting at the ground underneath the receiver or next to it. A 10 m in
-diameter concentrator was built and tested in Masdar Institute Solar
-Platform in Abu Dhabi (UAE) where temperatures exceeding 1,000 C have
-been reached at the fixed focal point even at low DNI"
+the ground, then the high-temperature and high-pressure [high
+temparature fluid] can easily be conveyed through solid inexpensive
+pipes to the storage tank sitting at the ground underneath the
+receiver or next to it. A 10 m in diameter concentrator was built and
+tested in Masdar Institute Solar Platform in Abu Dhabi (UAE) where
+temperatures exceeding 1,000 C have been reached at the fixed focal
+point even at low DNI"
 
 [[-]](https://www.researchgate.net/publication/351585416_Hydrogen_Production_by_Solar_Thermochemical_Water-Splitting_Cycle_via_a_Beam_Down_Concentrator)
 
