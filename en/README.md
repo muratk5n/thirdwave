@@ -66,8 +66,8 @@ Focusing solar through lenses seem to be somewhat unexplored.
 
 ---
 
-For CSP, thermal storage is completely unnecessary in a H2, NH3
-generation scenario, bcz renewable fuel itself is a form of backup.
+For CSP, thermal storage is unnecessary in a H2, NH3 generation
+scenario, bcz renewable fuel itself is a form of backup.
 
 ---
 
