@@ -104,6 +104,14 @@ production test, the well delivered 7000 barrels of oil per day"
 
 ---
 
+[Link](https://drive.google.com/uc?export=view&id=1I3idJhWDMpFe-g8Sgx1BojfUUTUMqPMT)
+
+---
+
+R. Rock bslapped. Daam!
+
+---
+
 Indonesia is huge. Covers a lot of land and sea area. They have a half
 of New Guinea.
 
@@ -189,7 +197,7 @@ demand: support for its war in Yemen"
 
 Hungarian FM talking about US/EU natgas deal (on ships, as LNG):
 Supposedly shipments wld make up for a future RU shortfall but the
-amount planned is only enough for 10% of EU's need. 
+amount planned is only enough for 10% of EU's need. Chump change.
 
 ---
 
