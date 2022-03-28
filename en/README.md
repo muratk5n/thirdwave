@@ -221,10 +221,10 @@ cld be in US citizens' interest too...
 But, the system is fraying on the edges.. The alliance arrives with
 crass ideology creating unrest leading to ultra-nationalist
 movements. The pack leader US doesn't seem to be willing to fight all
-the time, so in order to keep the inners "contained", chaos is
-created, 'allowed' on the edges e.g. Iraq, Libya, Syria,
-Ukraine... The spillover effect is toxic for all, especially the
-outposts, one could argue, even for the seat of the empire itself.
+the time, so in order to keep the inners contained, chaos is created,
+'allowed' on the edges e.g. Iraq, Libya, Syria, Ukraine... The
+spillover effect is toxic for all, especially the outposts, one could
+argue, even for the seat of the empire itself.
 
 ---
 
