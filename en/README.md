@@ -122,7 +122,7 @@ to ditch the Queen as the head of state"
 ---
 
 A liberterian working against individual liberty.. Politics is [fun](https://www.bloomberg.com/news/features/2021-09-15/peter-thiel-gamed-silicon-valley-tech-trump-taxes-and-politics)
-in US thanks to ultra-rich cunts.
+in US thanks to the ultra-rich.
 
 ---
 
