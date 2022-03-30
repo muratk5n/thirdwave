@@ -150,9 +150,8 @@ Discoveries have been falling in a big way since 2008.
 ---
 
 Has 50 mil barrels worth, if they extracted it in a year that would be
-abt 140K barrels a day, 9 Gigawatts of energy.
-
-However in a year, it is all GONE. Tapped out.
+abt 140K barrels a day, 9 Gigawatts of energy. However in a year it
+wld all be GONE. Tapped out.
 
 "New oil discovery in Gulf of Suez is one of area’s largest in 20
 years.. As reported by Reuters, Egypt’s Petroleum Minister, Tarek El
