@@ -136,7 +136,8 @@ find another Ghawar 'nam sayin'?
 
 Units boe are barrels of oil, mb, or mboe is million barrels, for gas
 they use boe too - in terms of energy they calculated the equivalent
-amount from gas volume into barrels.  Gboe is billions of barrels.
+amount from gas volume into barrels, so oil and gas can be measured in
+same units. Gboe is billions of barrels.
 
 ---
 
