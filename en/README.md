@@ -72,15 +72,12 @@ H2 production is possible with chemical looping
 
 "[2012] As one of the potential [CCS] solutions, chemical looping
 technologies are projected to be economically advantageous in a
-carbon-constrained scenario... The chemical looping tecnology is
-capable of..  reducing the energy intensive carbon capture step due to
-its in-situ CO2 separation inherent in the reaction pathway
-design.. [The tech] utilizes a metal oxide material as an oxygen
-carrier medium to indirectly oxidize the fuel and generate
-high-quality heat and/or H2. Cyclic reduction–oxidation reactions are
-performed in discrete reactor vessels allowing for inherent air–fuel
-separation, which provides intrinsic CO2 separation thus mitigating
-the cost for CO2 capture...
+carbon-constrained scenario... [The tech] utilizes a metal oxide
+material as an oxygen carrier medium to indirectly oxidize the fuel
+and generate high-quality heat and/or H2. Cyclic reduction–oxidation
+reactions are performed in discrete reactor vessels allowing for
+inherent air–fuel separation, which provides intrinsic CO2 separation
+thus mitigating the cost for CO2 capture...
 
 Chemical looping processes can be described by two key applications:
 chemical looping combustion (CLC) and chemical looping gasification
@@ -196,7 +193,7 @@ to increase oil production"
 ---
 
 CH picked a relatively unattended part of the map though, Indonesia,
-PNG seem to be 'neutral'.
+PNG seem to be 'neutral'?
 
 ---
 
