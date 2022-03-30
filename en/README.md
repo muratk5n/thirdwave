@@ -251,15 +251,9 @@ Western Balkans open to ‘outside influence’ like Russia"
 
 ---
 
-Sounds bad-ass (but it's just math)
-
-"Hyperbolische Erhaltungsgleichungen"
-
----
-
 WION called Middle East as "West Asia". I like it. Middle East is too
 European centric, bcz the region is *to their* East. But West Asia is
-more neutral, doesn't assume an origin of view.
+neutral, doesn't assume an origin of view.
 
 ---
 
