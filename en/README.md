@@ -212,7 +212,7 @@ WION: "Solomon Islands' PM calls China security deal backlash 'insulting'"
 ---
 
 PBS Space Time had a [video](https://youtu.be/gJ5KV3rzuag) on that
-very same approach.
+very same idea.
 
 ---
 
