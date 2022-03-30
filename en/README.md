@@ -195,9 +195,13 @@ to increase oil production"
 
 ---
 
+CH picked a relatively unattended part of the map though, Indonesia,
+PNG neutral seem to be 'neutral'.
+
+---
+
 China wants a base at Solomon Islands (lower left corner). Blue marks
-are known US bases. CH picked a relatively unattended part of the map
-though, Indonesia, PNG neutral seem to be 'neutral'.
+are known US bases. 
 
 [[-]](https://pbs.twimg.com/media/FO9GAupXEAk1yVO?format=jpg&name=small)
 
