@@ -111,7 +111,7 @@ order to obtain a flow of pure CO2 suitable for low-cost capture"
 
 ---
 
-I hate to say it, Le Pen is saying some good things on energy
+I hate to say it, Le Pen mentioned some good things on energy
 
 ---
 
