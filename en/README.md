@@ -164,7 +164,7 @@ extracted, which could be done in less than a year"
 ---
 
 Most new fossil action is offshore. ExxonMobil upped its estimate for
-the "Stabroek Block" find offshore Guyana is approximately 10 billion
+the "Stabroek Block" find offshore Guyana, which is approx 10 billion
 barrels. Largest in the world, Ghawar Saudi Arabia, had 96
 billion. West Qurna Field in Iraq, 14 billion, and it is in Top 20.
 
