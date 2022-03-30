@@ -116,7 +116,7 @@ I hate to say it, Le Pen mentioned some good things on energy
 ---
 
 Politician mass media access is monitored by watchdog. They have
-people watching, logging everything.. Wow
+people watching, logging everything.. Wow \#France
 
 [[-]](https://youtu.be/VEG6g3xOhyY?t=423)
 
