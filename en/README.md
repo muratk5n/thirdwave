@@ -18,8 +18,10 @@ carbon emission goals"
 
 ---
 
-H2 View: "GE commences assessment to introduce 40% hydrogen blends into Uniper’s
-Kent power station"
+H2 View: "GE commences assessment to introduce.. hydrogen blends into
+Uniper’s Kent power station.. [the] plant assessment..  will seek to
+develop detailed solutions to enable the 1,365MW combined-cycle gas
+turbine (CCGT) plant to use blends of hydrogen up to 40% by volume"
 
 ---
  
