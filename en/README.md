@@ -196,7 +196,7 @@ to increase oil production"
 ---
 
 CH picked a relatively unattended part of the map though, Indonesia,
-PNG neutral seem to be 'neutral'.
+PNG seem to be 'neutral'.
 
 ---
 
