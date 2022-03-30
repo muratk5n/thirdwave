@@ -223,7 +223,7 @@ gravity, an atmosphere thick enough to provide robust protection from
 cosmic rays..
 
 An alternative to terraforming the surface of Venus would be to
-colonize the upper atmosphere..  Taking advantage of the twin facts
+colonize the upper atmosphere.. Taking advantage of the twin facts
 that the upper atmosphere of Venus at an altitude of 50-55 km has a
 similar temperature and pressure to Earth’s surface, and that nitrogen
 and oxygen are lifting gases in Venus’s CO2 atmosphere, it would be
@@ -231,14 +231,7 @@ possible to construct 'cloud cities' using aerostats filled with
 breathable air that could be inhabited by humans. This method
 sidesteps most of the problems of colonizing the surface; it would be
 achievable with current technology, and it has reached the level of a
-mission concept..
-
-In this paper, I propose a method of terraforming Venus that similarly
-sidesteps most of the problems posed by the hostile conditions on the
-surface by expanding the cloud city concept to 'cloud continents,'..
-Nearly all of the requisite materials for the project would be
-produced locally on Venus, while water could be delivered from Mars
-via space elevator"
+mission concept"
 
 [PDF](https://arxiv.org/pdf/2203.06722.pdf)
 
