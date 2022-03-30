@@ -256,7 +256,7 @@ Western Balkans open to ‘outside influence’ like Russia"
 ---
 
 WION called Middle East as "West Asia". I like it. Middle East is too
-Western centric, bcz the region is *to their* East. But West Asia is
+'Western' centric, bcz the region is *to their* East. But West Asia is
 neutral, doesn't assume an origin of view.
 
 ---
