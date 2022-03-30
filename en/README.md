@@ -197,7 +197,7 @@ PNG seem to be 'neutral'?
 
 ---
 
-China wants a base at Solomon Islands (lower left corner). Blue marks
+China wants a base at Solomon Islands (lower right corner). Blue marks
 are known US bases. 
 
 [[-]](https://pbs.twimg.com/media/FO9GAupXEAk1yVO?format=jpg&name=small)
