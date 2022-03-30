@@ -101,7 +101,7 @@ Video on [CLC](https://youtu.be/YD3LtbZohSc?t=30)
 
 ---
 
-Promising carbon capture tech
+Promising carbon capture tech. 
 
 "[A] Sino-European consortium of leading researchers and
 manufacturers, has announced the construction of the world's largest
