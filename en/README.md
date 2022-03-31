@@ -2,12 +2,6 @@
 
 ---
 
-Pinned Tweet
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">In a bid to secure <a href="https://twitter.com/hashtag/US?src=hash&amp;ref_src=twsrc%5Etfw">#US</a> <a href="https://twitter.com/ENERGY?ref_src=twsrc%5Etfw">@ENERGY</a> (DOE) funding for the development of a <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> hub, the <a href="https://twitter.com/hashtag/WestVirginia?src=hash&amp;ref_src=twsrc%5Etfw">#WestVirginia</a> Hydrogen Hub Coalition has officially submitted its proposal.<a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/H2View?src=hash&amp;ref_src=twsrc%5Etfw">#H2View</a><a href="https://t.co/uHWGAor2nr">https://t.co/uHWGAor2nr</a></p>&mdash; H2 View (@h2_view) <a href="https://twitter.com/h2_view/status/1506200810857844740?ref_src=twsrc%5Etfw">March 22, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 H2 View: "A “first-of-its-kind” facility in Israel capable of
 producing 600MW of green hydrogen per year has started
 development.. The.. systems will be based on a new patented technology
