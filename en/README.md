@@ -90,10 +90,7 @@ Name: Oil - Proved reserves, dtype: float64
 
 :) There is no such thing as "Turk". Just like there are no Italians,
 Irish, or "African-Americans" in US. People have bizarre ideas on
-culture, nationhood, and their interactions thereof.. It usually only
-helps someone else's agenda (that's why the ideas are there), and
-pushed heavily through MSM. Are they valid? Or even still useful?
-Needs to be thought about..
+culture, nationhood, and their interactions thereof.. 
 
 ---
 
