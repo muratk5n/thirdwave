@@ -51,8 +51,10 @@ waste-to-hydrogen project in Aragón, Spain"
 ---
 
 Notice the relative flattening of the curve.. Oil is becoming harder
-and harder to find? This jels with Hubbard's thesis BTW who made some
-good calls on US oil exploration leves before the 70s.
+and harder to find? More offhore, and especially "deep offshore"
+exploration might be proof that it is. That jels with Hubbard's thesis
+who had made some good calls on US oil exploration leves before the
+70s.
 
 ---
 
