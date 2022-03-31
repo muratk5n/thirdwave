@@ -53,8 +53,7 @@ had made some good calls on US oil exploration leves before the 70s.
 
 40 years give and take, taking population increase into
 account. Things can work backwards of course, population can decrease
-due to lower "carrying capacity".  It wld be a sad world tho if it is
-still relying mostly on fossil by that time
+due to lower "carrying capacity". 
 
 ---
 
