@@ -139,10 +139,11 @@ civilians".
 ---
 
 Harry Truman was a war criminal. Targeted and killed civilians right?
+
 "They started it"? (With Pearl Harbor). US had sanctioned Japan
-earlier which was a form of attack. Then during Pearl Harbor they hit
-military targets, not civilian. Later in the war US targeted civilians
-through its nuke and firebombing campaigns.
+earlier - a form of attack. Then during Pearl Harbor Japan hit
+military targets, not civilian. But later in the war US targeted
+civilians through its nuke and firebombing campaigns.
 
 ---
 
