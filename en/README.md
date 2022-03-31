@@ -92,7 +92,7 @@ nationhood, and their interactions thereof..
 
 ---
 
-*Pastırma* is Byzantian. It was called *paston* (παστόν) back then.
+*Pastırma* is Byzantian. It was called *paston* (παστόν) during that time.
 
 ---
 
