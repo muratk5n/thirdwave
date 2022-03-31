@@ -88,9 +88,9 @@ Name: Oil - Proved reserves, dtype: float64
 
 ---
 
-:) There is no such thing as "Turk". Just like there are no Italians,
-Irish, or "African-Americans" in US. People have bizarre ideas on
-culture, nationhood, and their interactions thereof.. 
+Nope, no such thing as "Turk". Just like there are no Italians, Irish,
+or "African-Americans" in US. People have bizarre ideas on culture,
+nationhood, and their interactions thereof..
 
 ---
 
