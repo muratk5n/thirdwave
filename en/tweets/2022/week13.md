@@ -166,7 +166,7 @@ Guyana is the neighbor of Venezuela, in northern SA.
 I estimate gasoline's LCOE to be at about $34/MWh. It is better than
 wind, nuclear, even coal. No wonder they still seek the shit.
 
-[[-]](2022/02/costs-lcoe.md)
+[[-]](../../2022/02/costs-lcoe.md)
 
 ---
 
@@ -250,7 +250,7 @@ H2 underground storage using salt cav., LRC, and pipes have capital
 cost 35, 51, 386 dollars/KW respectively. That's just crazy
 (cheap). 
 
-[[-]](2022/02/costs-lcoe.md)
+[[-]](../../2022/02/costs-lcoe.md)
 
 ---
 
