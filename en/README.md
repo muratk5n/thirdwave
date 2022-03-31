@@ -76,10 +76,9 @@ reserves would last about 50 years.
 ```python
 import pandas as pd
 df = pd.read_csv('oil-proved-reserves.csv')
-df2 = df[df.Entity=='World']
-df2 = df2.set_index('Year')
-df2['Oil - Proved reserves'].plot()
-print (df2['Oil - Proved reserves'].tail(4))
+df = df[df.Entity=='World'].set_index('Year')
+df['Oil - Proved reserves'].plot()
+print (df['Oil - Proved reserves'].tail(4))
 ```
 
 ```text
