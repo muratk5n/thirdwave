@@ -113,9 +113,7 @@ has *pastırma*, others have their own .
 ---
 
 NDTV: "UN General Assembly Demands Russia Withdraw From
-Ukraine.. China was among the 35 countries which abstained, while just
-five -- Eritrea, North Korea, Syria, Belarus and of course Russia --
-voted against"
+Ukraine.. China was among the 35 countries which abstained"
 
 ---
 
