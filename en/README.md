@@ -67,7 +67,7 @@ exclusively on fossil by that time
 
 World oil reserves from [Our World in Data](https://ourworldindata.org/grapher/oil-proved-reserves?country=~OWID_WRL).
 Looks like they are subtracting the extracted amount from an initial reserve estimate,
-so the final number is the latest level available, currently it stands at
+so the numbers are always available amt at that time, currently it stands at
 1732 billion barrels of oil.
 
 The world consumes 35 gboe per year. If no new oil was found current
