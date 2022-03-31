@@ -50,7 +50,7 @@ waste-to-hydrogen project in Aragón, Spain"
 
 ---
 
-Notice the relative flattening of the curve.. Oil is becoming harder
+There's a relative flattening of the curve.. Oil is becoming harder
 and harder to find? More offhore, and especially "deep offshore"
 exploration might be proof that it is. That jels with Hubbard's thesis
 who had made some good calls on US oil exploration leves before the
@@ -67,7 +67,7 @@ exclusively on fossil by that time
 
 World oil reserves from [Our World in Data](https://ourworldindata.org/grapher/oil-proved-reserves?country=~OWID_WRL).
 Looks like they are subtracting the extracted amount from an initial reserve estimate,
-so the numbers are always the current level for each date, currently it stands at
+so the numbers are always the current level for each date , currently it stands at
 1732 billion barrels of oil.
 
 The world consumes 35 gboe per year. If no new oil was found current
