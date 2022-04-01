@@ -128,8 +128,8 @@ shit on the sitting PM, his coalition partner, were leaked. Weird.
 
 ---
 
-Imran Khan isn't exactly pro-establishment, world-order kind a guy.. I
-heard him defend Julian Assange once.
+Pak PM Imran Khan is in trouble? IK isn't exactly pro-establishment,
+world-order kind a guy.. I heard him defend Julian Assange once.
 
 ---
 
