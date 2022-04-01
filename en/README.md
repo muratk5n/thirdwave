@@ -105,8 +105,8 @@ plt.legend(h1+h2, l1+l2, loc=2)
 
 ---
 
-Paper on long-run rel between housing prices and rent. Says there is
-causality with a delay. Let's check.
+Paper on long-run relation between housing prices and rent. Says there
+is causality with a delay. Let's check.
 
 [PDF](https://www.federalreserve.gov/pubs/feds/2004/200450/200450pap.pdf)
 
