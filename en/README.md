@@ -31,10 +31,6 @@ fuel instead, is already being built"
 
 ---
 
-TDB: "Putin to Europe: Pay for Your Gas in Rubles or We’ll Cut You Off"
-
----
-
 Water shortage worries? Clean water will be all about
 energy. Desalination is getting cheaper.. Energy consumption of
 seawater desalination reached as low as 4 kWh/m3. If we can increase
@@ -42,6 +38,10 @@ energy output, especially green energy output, we can heat, cool,
 desalinate to our heart's content.
 
 [[-]](https://en.wikipedia.org/wiki/Desalination#Energy_consumption)
+
+---
+
+TDB: "Putin to Europe: Pay for Your Gas in Rubles or We’ll Cut You Off"
 
 ---
 
