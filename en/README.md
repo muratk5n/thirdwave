@@ -93,7 +93,6 @@ df = df.interpolate()
 df['incrent'] = (df.CUUR0000SEHA-df.CUUR0000SEHA.shift(12))/df.CUUR0000SEHA.shift(12)*100
 df['inchouse'] = (df.MSPUS-df.MSPUS.shift(12))/df.MSPUS.shift(12)*100
 
-plt.figure()
 ax1 = df.incrent.plot(color='blue', grid=True, label='rent')
 ax2 = df.inchouse.plot(color='red', grid=True, label='house price (median)',secondary_y=True)
 h1, l1 = ax1.get_legend_handles_labels()
