@@ -45,12 +45,6 @@ desalinate to our heart's content.
 
 ---
 
-
-
-
-
----
-
 House prices were (are) up because FED rates were low (2 yrs ago was
 start of covid). In low rate environments too much speculative money
 chases housing, raising the price.. If two years ago the rates went
