@@ -78,7 +78,7 @@ Not a small effect there.. since we time shifted, hint at causation
 That means it takes ~2 years for house price changes to effect rent changes.
 
 If there is mega rent increase now there was mega house price increase
-2 years ago
+starting 2 years ago.
 
 ---
 
