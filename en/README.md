@@ -118,9 +118,8 @@ cost lately"
 
 Oz deputy PM too said some mild things about Assange, that he is an
 Australian citizen -which is true- and should not be tried abroad, and
-boy did he get it afterwards.. They leaked his SMS talking shit on the
-sitting PM (some time ago), his coalition partner. These muckers don't
-fool around.
+some odd stuff (!) happened afterwards.. His SMS some time ago talking
+shit on the sitting PM, his coalition partner, were leaked. 
 
 ---
 
