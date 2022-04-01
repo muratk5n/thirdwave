@@ -132,7 +132,7 @@ world-order kind a guy.. I heard him defend Julian Assange once.
 
 ---
 
-GCHQ says so.. really? It must be true then 😶
+GCHQ says so.. really? It must be true then 
 
 FT: "China’s interests ‘not well served’ by aligning with Russia, GCHQ says"
 
