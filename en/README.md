@@ -79,7 +79,6 @@ If there is mega rent increase now there was mega house price increase
 YoY rent and house price % increases below,
 
 ```python
-import urllib.request as urllib2, time as timelib
 import pandas as pd, datetime
 from pandas_datareader import data
 
