@@ -2,136 +2,146 @@
 
 ---
 
-H2 View: "A “first-of-its-kind” facility in Israel capable of
-producing 600MW of green hydrogen per year has started
-development.. The.. systems will be based on a new patented technology
-called Electrochemical – Thermally Activated Chemical (E-TAC).. The
-technology is a breakthrough for the hydrogen industry having a 95%
-efficiency rate whilst also costing less than an electrolyser to
-create.. Once operational, these systems will enable the production of
-hydrogen at scale for a rate around $1/kg"
+H2 View: "Siemens Energy to begin industrial-scale electrolyser
+manufacturing in Berlin, Germany"
 
 ---
 
-H2 View: "Green hydrogen capacity in Germany could reach 28GW in 8
-years.. The DWV said that it is possible that the country will have
-reached a maximum green hydrogen supply capacity of 16.25 GW per year
-by 2025. Then, by 2030, that number will have exploded to 27.8GW. This
-represents a considerably higher achievement than the goal the country
-has set for itself"
+H2 View: "TECO2030, Narvik Hydrogen sign agreement to develop the
+Norwegian hydrogen value chain"
 
 ---
 
-H2 View: "Hypersonix Launch Systems has received a boost in the
-development of its hydrogen-fuelled platform with the [Oz] Federal
-Government providing $2.95m to support its development.
-
-The project, titled ‘DART CMP Airframe – a reusable hypersonic
-platform’, is an unmanned aerial vehicle (UAV) that can travel at
-hypersonic speeds up to Mach 12 (12 times the speed of sound) and is
-powered by a SPARTAN hydrogen fuelled scramjet engine"
+H2 View: "Baker Hughes has revealed plans to provide hydrogen-ready
+turbo-compression technology for a pipeline in Greece... This could be
+a vital development not only for the Greek hydrogen value chain but
+also the wider European market with a hydrogen pipeline backbone vital
+in accelerating the adoption of hydrogen"
 
 ---
 
-H2 View: "Landmark agreement to make E.ON and Fortescue Future
-Industries Europe’s ‘largest’ supplier and distributor of renewable
-hydrogen"
+Strategic Petroleum Reserve is 714 million barrels.. US consumes 19.78
+mil barrels per day on avg; Month and a half worth of storage.
 
 ---
 
-H2 View: "Raven SR to develop 1,600 metric tonne per year
-waste-to-hydrogen project in Aragón, Spain"
+H2 Fuel News: "[USG] has announced that the infrastructure necessary
+to support natural gas shipments to Europe, and eventually hydrogen
+fuel instead, is already being built"
 
 ---
 
-There's a relative flattening of the curve.. Oil is becoming harder
-and harder to find? More offhore, and especially "deep offshore"
-exploration might be proof that it is. That fits Hubbard's thesis, he
-made some good calls on US oil exploration levels before the 70s.
+TDB: "Putin to Europe: Pay for Your Gas in Rubles or We’ll Cut You Off"
 
 ---
 
-40 years give and take, taking population increase into
-account. Things can work backwards of course, population can decrease
-due to lower "carrying capacity". 
+Water shortage worries? Clean water will be all about
+energy. Desalination is getting cheaper.. Energy consumption of
+seawater desalination reached as low as 4 kWh/m3. If we can increase
+energy output, especially green energy output, we can heat, cool,
+desalinate to our heart's content.
+
+[[-]](https://en.wikipedia.org/wiki/Desalination#Energy_consumption)
 
 ---
 
-World oil reserves from [Our World in Data](https://ourworldindata.org/grapher/oil-proved-reserves?country=~OWID_WRL).
-Looks like they are subtracting the extracted amount from an initial reserve estimate,
-so the numbers are always the current level for each date , currently it stands at
-1732 billion barrels of oil.
 
-The world consumes 35 gboe per year. If no new oil was found current
-reserves would last about 50 years.
+
+
+
+---
+
+House prices were (are) up because FED rates were low (2 yrs ago was
+start of covid). In low rate environments too much speculative money
+chases housing, raising the price.. If two years ago the rates went
+up, US would not be in this situation today.
+
+---
+
+Time shift housing (2 yrs back) and check against rent, to see if
+house price changes in the past caused rent increases,
 
 ```python
-import pandas as pd
-df = pd.read_csv('oil-proved-reserves.csv')
-df = df[df.Entity=='World'].set_index('Year')
-df['Oil - Proved reserves'].plot()
-print (df['Oil - Proved reserves'].tail(4))
+df.incrent.corr(df.inchouse.shift(24))
 ```
 
 ```text
-Year
-2017    1.728171e+12
-2018    1.736144e+12
-2019    1.734811e+12
-2020    1.732366e+12
-Name: Oil - Proved reserves, dtype: float64
+Out[1]: 0.6125240660940487
 ```
 
-[Graph](https://pbs.twimg.com/media/FPF4zH4X0AYbcDU?format=png&name=small)
+Not a small effect there.. since we time shifted, hint at causation
+
+That means it takes ~2 years for house price changes to effect rent changes.
+
+If there is mega rent increase now there was mega house price increase
+2 years ago
 
 ---
 
-Nope, no such thing as "Turk". Just like there are no Italians, Irish,
-or "African-Americans" in US. People have bizarre ideas on culture,
-nationhood, and their interactions thereof..
+YoY rent and house price % increases below,
+
+```python
+import urllib.request as urllib2, time as timelib
+import pandas as pd, datetime
+from pandas_datareader import data
+
+today = datetime.datetime.now()
+start=datetime.datetime(1970, 1, 1)
+end=datetime.datetime(today.year, today.month, today.day)
+cols = ['CUUR0000SEHA','MSPUS']
+df = data.DataReader(cols, 'fred', start, end)
+df = df.interpolate()
+
+df['incrent'] = (df.CUUR0000SEHA-df.CUUR0000SEHA.shift(12))/df.CUUR0000SEHA.shift(12)*100
+df['inchouse'] = (df.MSPUS-df.MSPUS.shift(12))/df.MSPUS.shift(12)*100
+
+plt.figure()
+ax1 = df.incrent.plot(color='blue', grid=True, label='rent')
+ax2 = df.inchouse.plot(color='red', grid=True, label='house price (median)',secondary_y=True)
+h1, l1 = ax1.get_legend_handles_labels()
+h2, l2 = ax2.get_legend_handles_labels()
+plt.legend(h1+h2, l1+l2, loc=2)
+```
+
+[Graph](https://pbs.twimg.com/media/FPM5z4wWQAAr9eg?format=png&name=small)
 
 ---
 
-*Pastırma* is Byzantian. It was called *paston* (παστόν) during that time.
+Paper on long-run rel between housing prices and rent. Says there is
+causality with a delay. Let's check.
+
+[PDF](https://www.federalreserve.gov/pubs/feds/2004/200450/200450pap.pdf)
 
 ---
 
-Experimenting with air-dried cured beef in camp food mix.. Asia Minor
-has *pastırma*, others have their own .
+"@FatherlyHQ
+
+Rent, one of the most basic payments that many millions of Americans
+have to pay monthly, is just one of the things that has exploded in
+cost lately"
 
 ---
 
-NDTV: "UN General Assembly Demands Russia Withdraw From
-Ukraine.. China was among the 35 countries which abstained"
+Oz deputy PM too said some mild things about Assange, that he is an
+Australian citizen -which is true- and should not be tried abroad, and
+boy did he get it afterwards.. They leaked his SMS talking shit on the
+sitting PM (some time ago), his coalition partner. These muckers don't
+fool around.
 
 ---
 
-FT: "[Russia] is prepared to let Kyiv join the EU if it remains
-militarily non-aligned as part of ceasefire negotiations"
+Imran Khan isn't exactly pro-establishment, world-order kind a guy.. I
+heard him defend Julian Assange once.
 
 ---
 
-I guess these "Nazis" weren't such a big deal then, eh? 😉
-
-FT: "Russia no longer requesting Ukraine be ‘denazified’ as part of ceasefire talks'
+Al Jazeera: "India-Russia explore a rupee-rouble payment scheme to bypass war"
 
 ---
 
-That's weak. A deep rabbit hole there.. Anything can be justified through this
-reasoning.
+GCHQ says so.. really? It must be true then 😶
 
-"By using overwhelming force US helped both sides avoid casualties,
-including Japanese. So in essence US ended up saving lives by targeting
-civilians".
-
----
-
-Harry Truman was a war criminal. Targeted and killed civilians right?
-
-"They started it"? (With Pearl Harbor). US had sanctioned Japan
-earlier - a form of attack. Then during Pearl Harbor Japan hit
-military targets, not civilian. But later in the war US targeted
-civilians through its nuke and firebombing campaigns.
+FT: "China’s interests ‘not well served’ by aligning with Russia, GCHQ says"
 
 ---
 
