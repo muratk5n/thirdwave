@@ -45,6 +45,10 @@ desalinate to our heart's content.
 
 ---
 
+Al Jazeera: "India-Russia explore a rupee-rouble payment scheme to bypass war"
+
+---
+
 House prices were (are) up because FED rates were low (2 yrs ago was
 start of covid). In low rate environments too much speculative money
 chases housing, raising the price.. If two years ago the rates went
@@ -60,7 +64,7 @@ df.incrent.corr(df.inchouse.shift(24))
 ```
 
 ```text
-Out[1]: 0.6125240660940487
+Out[1]: 0.612
 ```
 
 Not a small effect there.. since we time shifted, hint at causation
@@ -125,10 +129,6 @@ shit on the sitting PM, his coalition partner, were leaked.
 
 Imran Khan isn't exactly pro-establishment, world-order kind a guy.. I
 heard him defend Julian Assange once.
-
----
-
-Al Jazeera: "India-Russia explore a rupee-rouble payment scheme to bypass war"
 
 ---
 
