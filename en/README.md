@@ -20,8 +20,9 @@ in accelerating the adoption of hydrogen"
 
 ---
 
-Strategic Petroleum Reserve is 714 million barrels.. US consumes 19.78
-mil barrels per day on avg; Month and a half worth of storage.
+Strategic Petroleum Reserve has 714 million barrels capacity.. US
+consumes 19.78 mil barrels per day on avg, SDR is month and a half
+worth of storage.
 
 ---
 
