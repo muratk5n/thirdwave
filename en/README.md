@@ -49,8 +49,8 @@ Al Jazeera: "India-Russia explore a rupee-rouble payment scheme to bypass war"
 
 ---
 
-Low rates in a sane environment are a result of stagnant wages,
-no growth, no inflation
+Low rates themselves, in a sane environment, are a result of stagnant
+wages, no growth, no inflation.
 
 ---
 
