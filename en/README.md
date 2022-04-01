@@ -49,6 +49,11 @@ Al Jazeera: "India-Russia explore a rupee-rouble payment scheme to bypass war"
 
 ---
 
+Low rates in a sane environment are a result of stagnant wages,
+no growth, no inflation
+
+---
+
 House prices were (are) up because FED rates were low (2 yrs ago was
 start of covid). In low rate environments too much speculative money
 chases housing, raising the price.. If two years ago the rates were
