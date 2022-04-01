@@ -51,8 +51,8 @@ Al Jazeera: "India-Russia explore a rupee-rouble payment scheme to bypass war"
 
 House prices were (are) up because FED rates were low (2 yrs ago was
 start of covid). In low rate environments too much speculative money
-chases housing, raising the price.. If two years ago the rates went
-up, US would not be in this situation today.
+chases housing, raising the price.. If two years ago the rates were
+higher, US would not be in this situation today.
 
 ---
 
