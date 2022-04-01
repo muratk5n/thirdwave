@@ -7,7 +7,7 @@ manufacturing in Berlin, Germany"
 
 ---
 
-H2 View: "TECO2030, Narvik Hydrogen sign agreement to develop the
+H2 View: "Teco 2030, Narvik Hydrogen sign agreement to develop the
 Norwegian hydrogen value chain"
 
 ---
