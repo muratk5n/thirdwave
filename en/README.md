@@ -55,13 +55,6 @@ wages, no growth, no inflation.
 
 ---
 
-House prices were (are) up because FED rates were low (2 yrs ago was
-start of covid). In low rate environments too much speculative money
-chases housing, raising the price.. If two years ago the rates were
-higher, US would not be in this situation today.
-
----
-
 Time shift housing (2 yrs back) and check against rent, to see if
 house price changes in the past caused rent increases,
 
@@ -79,6 +72,13 @@ That means it takes ~2 years for house price changes to effect rent changes.
 
 If there is mega rent increase now there was mega house price increase
 starting 2 years ago.
+
+That makes sense bcz 2 yrs ago was start of covid, FED rates went to
+zero. In low rate environments too much speculative money chases
+housing, raising the price..
+
+If two years ago rates were higher, US would not be in this situation
+today.
 
 ---
 
