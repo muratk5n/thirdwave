@@ -81,8 +81,7 @@ the Europeans (after DJT Iran deal cancellation).
 
 ---
 
-Mr Freeze stays, he says "I like it here, it's cool over the summah, I
-will move in buy a Gotham ice condo".
+Mr Freeze stays. "I like it here, it's cool over the summah"
 
 ---
 
