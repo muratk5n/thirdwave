@@ -92,7 +92,7 @@ move to Gotham build an ice condo".
 ---
 
 Batman movies could be much shorter.. Bruce Wayne sees lots of crime,
-then he thinks about what to do.. think.. think.. while the camera
+then he thinks about what to do.. he think.. thinks.. while the camera
 moves closer; the last scene is a near shot on BW when he says "I
 guess I should pay my taxes". End of the movie.
 
