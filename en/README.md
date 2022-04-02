@@ -87,7 +87,7 @@ Gotham. The sequel is titled "*Batman: Defunding the Police*". It
 works, Joker, Two-Face get bored after a while, they declare they wont
 show up in the trilogy, or even the prequels. Everyone leaves except
 Mr Freeze he says "I like it here, it's cool over the summah, I will
-move to Gotham and build an ice condo".
+move to Gotham build an ice condo".
 
 ---
 
