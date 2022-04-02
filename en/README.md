@@ -91,7 +91,7 @@ government for his tax dollars to be spent more on social help, less
 on stop-and-frisk bust-head-and-crack-skull approach mostly used in
 Gotham. The sequel is titled "*Batman: Defunding the Police*". It
 works, Joker, Two-Face get bored after a while, they declare they wont
-show up in the trilogy, or even the prequels. 
+show up for the whole trilogy, or even the prequels. 
 
 ---
 
