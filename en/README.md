@@ -34,7 +34,7 @@ fossil.
 They had a seperatist group Tamil Tigers.. While in US one of my
 coworkers was from Sri Lanka and Tamil Tiger symphatizer. The group
 was defeated later, I looked it up now 2009, with 40,000 ethnic Tamils
-dead throughout the conflict. Getting some carma blowback here?
+dead throughout the conflict. Getting some karma blowback here?
 
 ---
 
