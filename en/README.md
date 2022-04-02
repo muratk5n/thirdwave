@@ -1,146 +1,128 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
----
-
-H2 View: "Siemens Energy to begin industrial-scale electrolyser
-manufacturing in Berlin, Germany"
 
 ---
 
-H2 View: "Teco 2030, Narvik Hydrogen sign agreement to develop the
-Norwegian hydrogen value chain"
+H2 View: "Yara to boost the hydrogen industry with the creation of [a]
+carbon-free ammonia fuel bunker network"
 
 ---
 
-H2 View: "Baker Hughes has revealed plans to provide hydrogen-ready
-turbo-compression technology for a pipeline in Greece... This could be
-a vital development not only for the Greek hydrogen value chain but
-also the wider European market with a hydrogen pipeline backbone vital
-in accelerating the adoption of hydrogen"
+H2 View: "Lidl puts 98 green hydrogen-powered warehouse trucks into
+operation in France"
 
 ---
 
-Strategic Petroleum Reserve has 714 million barrels capacity.. US
-consumes 19.78 mil barrels per day on avg, SDR is month and a half
-worth of storage.
+H2 View: "Nel continues to back hydrogen refuelling infrastructure
+with orders in Poland and Canada"
 
 ---
 
-H2 Fuel News: "[USG] has announced that the infrastructure necessary
-to support natural gas shipments to Europe, and eventually hydrogen
-fuel instead, is already being built"
+These materials are even cheaper.. great
+
+H2 Fuel News: "The research team [at Cornell] developed a nitrogen-doped,
+carbon-coated nickel anode for use as a catalyst."
 
 ---
 
-Water shortage worries? Clean water will be all about
-energy. Desalination is getting cheaper.. Energy consumption of
-seawater desalination reached as low as 4 kWh/m3. If we can increase
-energy output, especially green energy output, we can heat, cool,
-desalinate to our heart's content.
-
-[[-]](https://en.wikipedia.org/wiki/Desalination#Energy_consumption)
+Sri Lanka has massive solar potential with mad DNI. They could be
+generating renewable fuel instead they are in queues waiting for
+fossil. 
 
 ---
 
-TDB: "Putin to Europe: Pay for Your Gas in Rubles or We’ll Cut You Off"
+They had a seperatist group Tamil Tigers I remember now.. While in US
+one of my coworkers was from Sri Lanka and TT symphatizer. The group
+was defeated later, I looked it up now 2009, with 40,000 ethnic Tamils
+dead throughout the conflict. Getting some carma blowback here?
 
 ---
 
-Al Jazeera: "India-Russia explore a rupee-rouble payment scheme to bypass war"
+
+"How Sri Lanka Has Fallen Into Darkness..
+
+April is the hottest month in Sri Lanka. Just unbelievably hot, like a
+fever that doesn’t break until the rains. Heat makes everybody cranky,
+irritable, and I suppose violent. April is the cruelest month, as they
+say.  This is the worst April in Sri Lanka’s history. I don’t mean
+that worse things haven’t happened—we’ve had pogroms, a tsunami,
+various insurrections, a good thirty years of war—I just mean this
+catastrophe is happening to all of Sri Lanka, all at once. No one is
+safe from this disaster. It affects every single home.  At a very
+fundamental level, the island has just fallen into the sea...
+
+Why did this happen? Many reasons, and one family (the Rajapaksas).
+Sri Lanka was an ancient irrigation civilization and in modern times
+50% of our electricity comes from water (hydro). However, after
+‘liberalizing’ in the 1980s we stopped building anything
+useful. Instead we built giant generators that burn fucking oil for
+the rest of our needs. This has been a farce forever. Now it’s a
+tragedy.  Now we’re run out of oil for this generator, foreign capital
+flows have dried up, and the whole thing has been managed
+abysmally. The ruling family’s elder brother ran up the credit card a
+decade ago and now the younger brother is paying off those commercial
+bank loans instead of providing for our families.  And so the entire
+country has blackouts, every day, for hours at a time. The entire
+country waits in petrol and diesel queues"
+
+[[-]](https://indica.medium.com/how-sri-lanka-has-fallen-into-darkness-9e2d76f071bd)
 
 ---
 
-Low rates themselves, in a sane environment, are a result of stagnant
-wages, no growth, no inflation. Tis all connected.
+<img width="340" src="https://pbs.twimg.com/media/FPDNAgbX0Ao5YMC?format=jpg&name=small"/>
 
 ---
 
-Time shift housing (2 yrs back) and check against rent, to see if
-house price changes in the past caused rent increases,
+A good summary on how the world soured on the dollar, bit by bit, even
+the Europeans (after DJT Iran deal cancellation).
 
-```python
-df.incrent.corr(df.inchouse.shift(24))
-```
-
-```text
-Out[1]: 0.612
-```
-
-Not a small effect there.. since we time shifted, hint at causation
-
-That means it takes ~2 years for house price changes to effect rents.
-
-If there is mega rent increase now there was mega house price increase
-starting 2 years ago.
-
-That makes sense bcz 2 yrs ago was start of covid, FED rates went to
-zero. In low rate environments too much speculative money chases
-housing, raising the price..
-
-If two years ago rates were higher, US would not be in this situation
-today.
+[[-]](https://inews.co.uk/news/long-reads/russia-china-us-dollar-undermine-change-world-cryptocurrency-1548200)
 
 ---
 
-YoY rent and house price % increases below,
-
-```python
-import pandas as pd, datetime
-from pandas_datareader import data
-
-today = datetime.datetime.now()
-start=datetime.datetime(1970, 1, 1)
-end=datetime.datetime(today.year, today.month, today.day)
-cols = ['CUUR0000SEHA','MSPUS']
-df = data.DataReader(cols, 'fred', start, end)
-df = df.interpolate()
-
-df['incrent'] = (df.CUUR0000SEHA-df.CUUR0000SEHA.shift(12))/df.CUUR0000SEHA.shift(12)*100
-df['inchouse'] = (df.MSPUS-df.MSPUS.shift(12))/df.MSPUS.shift(12)*100
-
-plt.figure()
-ax1 = df.incrent.plot(color='blue', grid=True, label='rent inc %')
-ax2 = df.inchouse.plot(color='red', grid=True, label='house price inc %',secondary_y=True)
-h1, l1 = ax1.get_legend_handles_labels()
-h2, l2 = ax2.get_legend_handles_labels()
-plt.legend(h1+h2, l1+l2, loc=2)
-plt.savefig('out.png')
-```
-
-<img width="340" src="https://pbs.twimg.com/media/FPO1uM_XsAgAA2x?format=png&name=small"/>
+There is a sequal too.. In this one Bruce Wayne decides to lobby the
+government for his tax dollars to be spent more on social help, less
+on stop-and-frisk bust-head-and-crack-skull approach mostly used in
+Gotham. The sequel is titled "*Batman: Defunding the Police*". It
+works, Joker, Two-Face get bored after a while, they declare they wont
+show up in the trilogy, or even the prequels. Everyone leaves except
+Mr Freeze he says "I like it here, it's cool over the summah, I will
+move to Gotham and build an ice condo".
 
 ---
 
-Paper on long-run relation between housing prices and rent. Says there
-is causality with a delay. Let's check.
-
-[PDF](https://www.federalreserve.gov/pubs/feds/2004/200450/200450pap.pdf)
-
----
-
-"@FatherlyHQ
-
-Rent, one of the most basic payments that many millions of Americans
-have to pay monthly, is just one of the things that has exploded in
-cost lately"
+Batman movies could be much shorter.. Bruce Wayne sees lots of crime,
+then he thinks about what to do.. think.. think.. while the camera
+moves closer; the last scene is a near shot on BW when he says "I
+guess I should pay my taxes". End of the movie.
 
 ---
 
-Oz deputy PM too said some mild things about Assange, that he is an
-Australian citizen -which is true- and should not be tried abroad, and
-some odd stuff (!) happened afterwards.. His SMS talking shit on the
-sitting PM some time ago were leaked. Weird.
+The saddest part in the Batman movies is when they lit up that 'bat
+sign', essentially making city gov look like bufoons; the sales pitch
+is wouldn't an ultra-rich twat be better to save your ass then the
+elected government?
 
 ---
 
-Pak PM Imran Khan is in trouble? IK isn't exactly pro-establishment,
-world-order kind a guy.. I heard him defend Julian Assange once.
+The gun is symbolism for a dick basically
 
 ---
 
-GCHQ says so.. really? It must be true then 
+It was [another time](https://pbs.twimg.com/media/FPPRIWWWUAcqYd7?format=jpg&name=small)
 
-FT: "China’s interests ‘not well served’ by aligning with Russia, GCHQ says"
+---
+
+Damn Clint! (at the end). He probably feels different about that stuff
+now
+
+"@rafaelshimunov
+
+1973: Native American actor Sacheen Littlefeather boo'd (and cheered)
+by Hollywood at the Oscars.. asking that Indigenous people not to be
+dehumanized in film"
+
+[Video](https://twitter.com/rafaelshimunov/status/1447570025494327300)
 
 ---
 
