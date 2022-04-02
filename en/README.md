@@ -99,9 +99,9 @@ guess I should pay my taxes". End of the movie.
 ---
 
 The saddest part in the Batman movies is when they lit up that 'bat
-sign', essentially making city gov look like bufoons; the sales pitch
-is wouldn't an ultra-rich twat be better to save your ass then the
-elected government?
+sign', essentially making city gov look like bufoons; the
+establishment sales pitch here is "wouldn't an ultra-rich twat be
+better to save your ass then the elected government?"
 
 ---
 
