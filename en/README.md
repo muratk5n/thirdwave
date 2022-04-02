@@ -31,11 +31,10 @@ fossil.
 
 ---
 
-They had a seperatist group Tamil Tigers.. While in US one of my
-coworkers was from Sri Lanka and Tamil Tiger symphatizer. The group
-was defeated later, I looked it up now 2009, with 40,000 ethnic Tamils
-dead throughout the conflict. Is Sri Lanka getting some karma blowback
-here?
+They had a seperatist group Tamil Tigers.. A coworker of mine was from
+Sri Lanka and Tamil Tiger symphatizer. The group was defeated later, I
+looked it up now, in 2009, with 40,000 ethnic Tamils dead throughout
+the conflict. Is Sri Lanka getting some karma blowback here?
 
 ---
 
