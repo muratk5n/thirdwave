@@ -80,14 +80,17 @@ the Europeans (after DJT Iran deal cancellation).
 
 ---
 
+Mr Freeze stays, he says "I like it here, it's cool over the summah, I
+will move to Gotham build an ice condo".
+
+--
+
 There is a sequel too.. In this one Bruce Wayne decides to lobby the
 government for his tax dollars to be spent more on social help, less
 on stop-and-frisk bust-head-and-crack-skull approach mostly used in
 Gotham. The sequel is titled "*Batman: Defunding the Police*". It
 works, Joker, Two-Face get bored after a while, they declare they wont
-show up in the trilogy, or even the prequels. Everyone leaves except
-Mr Freeze he says "I like it here, it's cool over the summah, I will
-move to Gotham build an ice condo".
+show up in the trilogy, or even the prequels. 
 
 ---
 
