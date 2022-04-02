@@ -81,11 +81,6 @@ the Europeans (after DJT Iran deal cancellation).
 
 ---
 
-Mr Freeze stays. "I like it here, it's cool over the summah. I'll
-buy an ice condo".
-
----
-
 There is a sequel too.. In this one Bruce Wayne decides to lobby the
 government for his tax dollars to be spent more on social help, less
 on stop-and-frisk bust-head-and-crack-skull approach mostly used in
