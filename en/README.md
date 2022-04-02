@@ -81,7 +81,7 @@ the Europeans (after DJT Iran deal cancellation).
 
 ---
 
-Mr Freeze stays. "I like it here, it's cool over the summah"
+Mr Freeze stays. "I like it here, it's cool over the summah". 
 
 ---
 
