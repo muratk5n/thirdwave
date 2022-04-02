@@ -82,7 +82,7 @@ the Europeans (after DJT Iran deal cancellation).
 ---
 
 Mr Freeze stays, he says "I like it here, it's cool over the summah, I
-will move to Gotham build an ice condo".
+will move to Gotham buy an ice condo".
 
 --
 
