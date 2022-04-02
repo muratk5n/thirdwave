@@ -80,7 +80,7 @@ the Europeans (after DJT Iran deal cancellation).
 
 ---
 
-There is a sequal too.. In this one Bruce Wayne decides to lobby the
+There is a sequel too.. In this one Bruce Wayne decides to lobby the
 government for his tax dollars to be spent more on social help, less
 on stop-and-frisk bust-head-and-crack-skull approach mostly used in
 Gotham. The sequel is titled "*Batman: Defunding the Police*". It
