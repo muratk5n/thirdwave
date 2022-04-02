@@ -18,8 +18,6 @@ with orders in Poland and Canada"
 
 ---
 
-These materials are even cheaper.. great
-
 H2 Fuel News: "The research team [at Cornell] developed a nitrogen-doped,
 carbon-coated nickel anode for use as a catalyst."
 
