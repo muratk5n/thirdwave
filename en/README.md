@@ -94,7 +94,7 @@ them astray, or at best, keeps them stagnant which is the case today
 
 Because US was caught doing undemocratic shit, its protests on the
 Egyptian coup registered less. The revelations might have even given
-Sisi the PR cover needed for the coup.
+Sisi the PR cover he needed for the coup.
 
 ---
 
