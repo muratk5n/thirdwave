@@ -52,7 +52,7 @@ question before buzzing in"
 
 
 Sounds like bunch of unnecessary pain.. Test based restrictions are
-excessive.. Left over from beginning of pandemic.
+excessive.. Left over policy from beginning of pandemic.
 
 TDB: "On the day my wife and I were to fly home from London after a
 brief visit, we took a COVID-19 test.. My wife’s test was negative. My
