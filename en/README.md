@@ -4,37 +4,6 @@
 
 ---
 
-Some claim the dimming event triggered seismic changes in history;
-famine displaced people who displaced others, discredited some
-existing religions increased interest for new ones (eg Islam, Mohammed
-was born in 570).
-
-History Channel: "[I]n 536 A.D., much of the world went dark for a
-full 18 months, as a mysterious fog rolled over Europe, the Middle
-East and parts of Asia. The fog blocked the sun during the day,
-causing temperatures to drop, crops to fail and people to die... 
-
-Now, researchers have discovered one of the main sources of that
-fog. The team reported in Antiquity that a volcanic eruption in
-Iceland in early 536 helped spread ash across the Northern Hemisphere,
-creating the fog. Like the 1815 Mount Tambora eruption—the deadliest
-volcanic eruption on record—this eruption was big enough to alter
-global climate patterns, causing years of famine.
-
-What exactly did the first 18 months of darkness look like? The
-Byzantine historian Procopius wrote that 'the sun gave forth its light
-without brightness, like the moon, during this whole year.' He also
-wrote that it seemed like the sun was constantly in eclipse"
-
-[[-]](https://www.history.com/news/536-volcanic-eruption-fog-eclipse-worst-year)
-
----
-
-New Scientist: "In the year 536 the sun dimmed and the world shivered,
-leading to famine, plague and the fall of empires"
-
----
-
 Fermilab physics video below. Summary: Mass is an illusion. Proton,
 neutrons are the shit. Higgs Boson is not a big deal.
 
