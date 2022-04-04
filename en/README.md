@@ -88,8 +88,8 @@ astray, or at best, stagnant.
 ---
 
 Because US was caught doing undemocratic shit, its protests on the
-Egyptian coup were ignored. The revelations might have even given Sisi
-the PR cover needed for the coup.
+Egyptian coup registered less. The revelations might have even given
+Sisi the PR cover needed for the coup.
 
 ---
 
