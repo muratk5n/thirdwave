@@ -167,17 +167,17 @@ all sea access. No wonder Odessa is being attacked.
 
 ---
 
-The map suggests a next region for attack would be that pocket shown
-with arrow, and yes, Severodonetsk, Rubizhne, Lysychansk, Kreminna,
-Hirske, Popasna Berezove, Toshkivka - all being shelled. If RU takes
-the region the red block  will get bigger.
+The map suggests a possible region for attack would be that pocket
+shown with arrow, and yes, Severodonetsk, Rubizhne, Lysychansk,
+Kreminna, Hirske, Popasna Berezove, Toshkivka - all being shelled. If
+RU takes the region the red block will get bigger.
 
 [[-]](https://pbs.twimg.com/media/FPZVQEpWYAE1r0R?format=png&name=small)
 
 ---
 
 MSM is not even providing Liveuamap level reporting here. See the red
-regions in the map. Those are RU areas; not newsworth? \#liveuamap
+regions in the map. Those are RU areas; not newsworthy? 
 
 [[-]](https://pbs.twimg.com/media/FPZWhNmX0AQ7ALF?format=png&name=small)
 
