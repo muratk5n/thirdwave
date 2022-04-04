@@ -1,17 +1,9 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-
-
-Summary: Mass is an illusion. Proton, neutrons are the shit. Higgs
-Boson is not a big deal.
-
-[[-]](https://youtu.be/x8grN3zP8cg?t=81)
-
----
-
-Crazy. Some claim this event caused a lot of changes; famine displaced
-people who displaced others, even increased interest for the new
-religion Islam later (Mohammed was born 570).
+Some claim this event triggered seismic changes in history; famine
+displaced people who displaced others, discredited some existing
+religions increased interest for new ones (eg Islam, note Mohammed was
+born in 570).
 
 History Channel: "[I]n 536 A.D., much of the world went dark for a
 full 18 months, as a mysterious fog rolled over Europe, the Middle
@@ -39,7 +31,7 @@ leading to famine, plague and the fall of empires"
 
 ---
 
-Sounds bunch of unnecessary pain.. Test based restrictions are
+Sounds like bunch of unnecessary pain.. Test based restrictions are
 excessive.. Left over from beginning of pandemic.
 
 TDB: "On the day my wife and I were to fly home from London after a
@@ -61,6 +53,13 @@ CNBC: "Charlie Munger warns Gen Z investors.. 'It’s going to be way
 harder for the group that’s graduated from college now ... to get rich
 and stay rich,' Munger, 98, said. 'Think what it [used to] cost to own
 a house in a desirable neighborhood in a city like Los Angeles.'"
+
+---
+
+Summary: Mass is an illusion. Proton, neutrons are the shit. Higgs
+Boson is not a big deal.
+
+[[-]](https://youtu.be/x8grN3zP8cg?t=81)
 
 ---
 
