@@ -162,8 +162,8 @@ all the way to the Black Sea, areas currently belong to Ukraine.
 
 ---
 
-If the areas in the immediate UKR south are closed off Ukraine loses
-all sea access. No wonder Odessa is being attacked.
+Immediate UKR south is in danger being closed off to sea access for
+Ukraine. No wonder Odessa is being attacked.
 
 ---
 
