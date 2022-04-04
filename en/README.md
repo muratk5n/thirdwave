@@ -133,15 +133,15 @@ according to two people monitoring the flow of mercenaries"
 
 ---
 
-Moldova is NATO-friendly? If they were opportunistic they would
-give Russia access in return for Odessa Oblast. 
-
----
-
 TBH Ukraine had ownership of some prime land that was beyond its
 capacity to hold onto. They needed massive deterrence, or major
 forsight on diplomacy to make self less threathening to others
 (RU). Ukraine had neither.
+
+---
+
+Moldova is NATO-friendly? If they were opportunistic they would
+give Russia access in return for Odessa Oblast. 
 
 ---
 
