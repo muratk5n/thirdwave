@@ -157,8 +157,8 @@ to the Black Sea, which currently belongs to Ukraine.
 
 ---
 
-If regions in the immediate south are closed off Ukraine loses all sea
-access. Odessa is being attacked, makes sense for that aim.
+If the areas in the immediate UKR south are closed off Ukraine loses
+all sea access. Odessa is being attacked, makes sense for that aim.
 
 ---
 
