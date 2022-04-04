@@ -151,10 +151,10 @@ give Russia access in return for Odessa Oblast.
 
 ---
 
-Moldova has been screwed good; had zero sea access until 2005, now
-have a *tiny* port, reminds me the bitch borders of Iraq drawn up by
-Western powers.. And Moldova had to trade land with Ukraine to get
-it. Sad.
+Moldova was screwed, historically speaking; had zero sea access until
+2005, now have a *tiny* port, reminds me the bitch borders of Iraq
+drawn up by Western powers.. And Moldova had to trade land with
+Ukraine to get it. Sad.
 
 In a natural evolution of borders Moldova would have the land reaching
 to the Black Sea, which currently belongs to Ukraine.
