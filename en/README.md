@@ -35,7 +35,7 @@ leading to famine, plague and the fall of empires"
 
 ---
 
-Fermilab physics video below Summary: Mass is an illusion. Proton,
+Fermilab physics video below. Summary: Mass is an illusion. Proton,
 neutrons are the shit. Higgs Boson is not a big deal.
 
 [[-]](https://youtu.be/x8grN3zP8cg?t=81)
