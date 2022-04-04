@@ -139,9 +139,9 @@ give Russia access in return for Odessa Oblast.
 ---
 
 TBH Ukraine had ownership of some prime land that was beyond its
-capacity to hold onto. They needed massive deterrence to keep all
-that, or major forsight on diplomacy to make self less threathening to
-others (RU). Ukraine had neither.
+capacity to hold onto. They needed massive deterrence, or major
+forsight on diplomacy to make self less threathening to others
+(RU). Ukraine had neither.
 
 ---
 
