@@ -87,9 +87,8 @@ But the act is getting old.. Plus TR's problems compound whose very
 foundation was crooked (that's what you get with second rate
 founders). People live in a bastardized world of their true culture
 which is incompatible with national narrative that constantly leads
-them astray, or at best, keeps them stagnant which is the case today;
-the middle-income trap. "TR" cannot move forward because its base is
-rotten.
+them astray, or at best, keeps them stagnant which is the case today
+(middle-income trap). 
 
 ---
 
