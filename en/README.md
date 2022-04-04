@@ -74,10 +74,9 @@ question before buzzing in"
 Besides the need to provide bed-time stories for their shoddy
 nation-building, Asia Minor Turkist propaganda was useful for British
 interests; they could use it as a cudgel for the continuation of the
-Great Game in Asia, eg if you can create an illusion of ethnic unity
-between TR and "the Stans", some of which are "ethnically similar", u
-could then be provoke those countries against their immediate
-neighbor. 
+Great Game in Asia, eg if you can create an illusion of unity between
+TR and "the Stans", some of which are "ethnically similar", u could
+then be provoke those countries against their immediate neighbor.
 
 But the act is getting old.. Plus TR's problems compound whose very
 foundation was crooked (that's what you get with second rate
