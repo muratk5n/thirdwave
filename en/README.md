@@ -1,17 +1,6 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-TDB: "IBM’s Watson, who trounced the greatest Jeopardy! players on the
-classic game show—but needed to be hard-wired to the show’s
-question-posing system. He was incapable of doing an autonomous task
-that any three-year-old could do: listening for the host to finish a
-question before buzzing in"
-
----
-
-Summary: Mass is an illusion. Proton, neutrons are the shit. Higgs
-Boson is not a big deal.
-
-[[-]](https://youtu.be/x8grN3zP8cg?t=81)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">In a top <a href="https://twitter.com/hashtag/H2View?src=hash&amp;ref_src=twsrc%5Etfw">#H2View</a> <a href="https://twitter.com/hashtag/hydrogennews?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennews</a> story this week we saw that Germany’s <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> refuelling infrastructure will receive a substantial boost.<a href="https://twitter.com/Hy24partners?ref_src=twsrc%5Etfw">@Hy24partners</a> is set to provide €70m ($77m) in funding to support <a href="https://twitter.com/H2_MOBILITY_DE?ref_src=twsrc%5Etfw">@H2_MOBILITY_DE</a>.<a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a><a href="https://t.co/rPitiEnVi1">https://t.co/rPitiEnVi1</a></p>&mdash; H2 View (@h2_view) <a href="https://twitter.com/h2_view/status/1510343781991817224?ref_src=twsrc%5Etfw">April 2, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
@@ -45,6 +34,22 @@ New Scientist: "In the year 536 the sun dimmed and the world shivered,
 leading to famine, plague and the fall of empires"
 
 ---
+
+Summary: Mass is an illusion. Proton, neutrons are the shit. Higgs
+Boson is not a big deal.
+
+[[-]](https://youtu.be/x8grN3zP8cg?t=81)
+
+---
+
+TDB: "IBM’s Watson, who trounced the greatest Jeopardy! players on the
+classic game show—but needed to be hard-wired to the show’s
+question-posing system. He was incapable of doing an autonomous task
+that any three-year-old could do: listening for the host to finish a
+question before buzzing in"
+
+---
+
 
 Sounds like bunch of unnecessary pain.. Test based restrictions are
 excessive.. Left over from beginning of pandemic.
