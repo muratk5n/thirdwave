@@ -162,10 +162,10 @@ access. Odessa is being attacked, makes sense for that aim.
 
 ---
 
-The map suggests next region for attack would that pocket shown with
-arrow, and yes, Severodonetsk, Rubizhne, Lysychansk, Kreminna, Hirske,
-Popasna Berezove, Toshkivka - all being shelled. It is likely RU will
-take the region and the red block in the map will get bigger.
+The map suggests a next region for attack would be that pocket shown
+with arrow, and yes, Severodonetsk, Rubizhne, Lysychansk, Kreminna,
+Hirske, Popasna Berezove, Toshkivka - all being shelled. It is likely
+RU will take the region and the red block in the map will get bigger.
 
 [[-]](https://pbs.twimg.com/media/FPZVQEpWYAE1r0R?format=png&name=small)
 
