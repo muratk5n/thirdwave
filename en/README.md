@@ -185,7 +185,7 @@ regions in the map. Those are RU areas; not newsworth? \#liveuamap
 ---
 
 Watching the corporate media you'd think Ukraine is winning big, if
-there just had some extra hardware, they'd finish the war today
+there was just some extra hardware, they'd finish the war today
 
 ---
 
