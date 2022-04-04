@@ -113,7 +113,7 @@ China.. But what happens after Duterte?
 ---
 
 Orban wins again. He is lambasted on immigration, but on process we
-have to accept forcing countries to accept people if their
+have to accept forcing countries to accept new people if their
 democratically elected government does not agree to do so would be
 undemocratic.
 
