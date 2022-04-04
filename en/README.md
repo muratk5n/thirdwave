@@ -146,8 +146,8 @@ forsight on diplomacy to make self less threathening to others
 
 ---
 
-Moldova is NATO-friendly? If they were opportunistic they would
-give Russia access in return for Odessa Oblast. 
+Moldova is NATO-friendly? If they were opportunistic they would give
+Russia access for Western Ukraine in return for Odessa Oblast.
 
 ---
 
