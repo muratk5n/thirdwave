@@ -1,5 +1,20 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
+TDB: "IBM’s Watson, who trounced the greatest Jeopardy! players on the
+classic game show—but needed to be hard-wired to the show’s
+question-posing system. He was incapable of doing an autonomous task
+that any three-year-old could do: listening for the host to finish a
+question before buzzing in"
+
+---
+
+Summary: Mass is an illusion. Proton, neutrons are the shit. Higgs
+Boson is not a big deal.
+
+[[-]](https://youtu.be/x8grN3zP8cg?t=81)
+
+---
+
 Some claim the dimming event triggered seismic changes in history;
 famine displaced people who displaced others, discredited some
 existing religions increased interest for new ones (eg Islam, Mohammed
@@ -53,21 +68,6 @@ CNBC: "Charlie Munger warns Gen Z investors.. 'It’s going to be way
 harder for the group that’s graduated from college now ... to get rich
 and stay rich,' Munger, 98, said. 'Think what it [used to] cost to own
 a house in a desirable neighborhood in a city like Los Angeles.'"
-
----
-
-Summary: Mass is an illusion. Proton, neutrons are the shit. Higgs
-Boson is not a big deal.
-
-[[-]](https://youtu.be/x8grN3zP8cg?t=81)
-
----
-
-TDB: "IBM’s Watson, who trounced the greatest Jeopardy! players on the
-classic game show—but needed to be hard-wired to the show’s
-question-posing system. He was incapable of doing an autonomous task
-that any three-year-old could do: listening for the host to finish a
-question before buzzing in"
 
 ---
 
