@@ -105,8 +105,7 @@ with the media. Americans learn that their government was spying
 broadly on its own people.
 
 July 2013: A military coup in Egypt removes President Morsi from
-power, Morsi is of the Moslem Brotherhood movement, supported by
-Qatar.
+power.
 
 ---
 
