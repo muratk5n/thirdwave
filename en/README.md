@@ -1,9 +1,9 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-Some claim this event triggered seismic changes in history; famine
-displaced people who displaced others, discredited some existing
-religions increased interest for new ones (eg Islam, note Mohammed was
-born in 570).
+Some claim the dimming event triggered seismic changes in history;
+famine displaced people who displaced others, discredited some
+existing religions increased interest for new ones (eg Islam, note
+Mohammed was born in 570).
 
 History Channel: "[I]n 536 A.D., much of the world went dark for a
 full 18 months, as a mysterious fog rolled over Europe, the Middle
