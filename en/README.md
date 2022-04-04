@@ -151,9 +151,9 @@ forsight on diplomacy to make self less threathening to others
 ---
 
 Moldova was screwed, historically speaking; had zero sea access until
-2005, now have a *tiny* port, and Moldova had to trade land with
-Ukraine to get it. Reminds me the bitch borders of Iraq drawn up by
-Western powers..  Sad.
+2005, now have a *tiny* port, and had to trade land with Ukraine to
+get it. Reminds me the bitch borders of Iraq drawn up by Western
+powers..  Sad.
 
 In a natural evolution of borders Moldova would have the land reaching
 all the way to the Black Sea, areas currently belong to Ukraine.
