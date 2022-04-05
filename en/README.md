@@ -129,7 +129,7 @@ touristic attraction apparently.
 ---
 
 The migration that resulted due to the partition was especially bad
-with deaths reaching a million. That too is on the Brits.
+with deaths reaching up to a million. That too is on the Brits.
 
 Al Jazeera: Before leaving India [1947], the British made sure a
 united India would not be possible... East and West Pakistan were
