@@ -84,6 +84,12 @@ Trump gone, he gone.
 
 ---
 
+The backdrop changed of course throughout the Craig era; there was the
+2008 crisis, Syria, refugees, Trump. Surely these effected the mood of
+the later movies.
+
+---
+
 *Bourne Identity*, the first movie in the series, isn't exactly a post
 9/11 movie. It was written, filmed 1999/2000, due to delays etc it hit
 the theathers 2002. That is clear to see in the content; plus the
