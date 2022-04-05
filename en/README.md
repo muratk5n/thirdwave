@@ -95,12 +95,7 @@ these effected the mood of the later movies.
 theathers 2002. That is clear to see in the content; plus the director
 Liman's father was Senate chief counsel on the Iran-Contra affair, so
 he was making a movie around that stuff, shady biz, underhanded
-spycraft etc.
-
-*The Bourne Supremacy* is different, that's the true post 9/11
-version. That movie has scenes JB beating up on black people (actually
-strangles one), so proper message was sent to all fureigners, A-rabs
-through that. Hey if Bond goes 9/11, Bourne has to do it too. Both JB's.
+spycraft etc. Later two Bourne movies are different.
 
 ---
 
