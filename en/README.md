@@ -85,8 +85,8 @@ Trump gone, he gone.
 ---
 
 The backdrop changed of course throughout the Craig era; there was the
-2008 crisis, Syria, refugees, failures in Iraq, Trump. Surely these
-effected the mood of the later movies.
+2008 crisis, failures in Iraq, Syria, refugees, more crisis.. Surely
+these effected the mood of the later movies.
 
 ---
 
