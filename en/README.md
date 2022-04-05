@@ -109,7 +109,7 @@ A-rabs. Hey if Bond goes 9/11, Bourne has to do it too.
 ---
 
 After much globetrotting adventures (an "outer belt" hero, the master
-of the all Far Lands) 9/11 Bond died near European landmass, while
+of the all Far Lands) 9/11 Bond died near European landmass, after
 fighting a foe played by an ethnically Egyptian actor.
 
 ---
