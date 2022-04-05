@@ -1,162 +1,163 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">In a top <a href="https://twitter.com/hashtag/H2View?src=hash&amp;ref_src=twsrc%5Etfw">#H2View</a> <a href="https://twitter.com/hashtag/hydrogennews?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennews</a> story this week we saw that Germany’s <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> refuelling infrastructure will receive a substantial boost.<a href="https://twitter.com/Hy24partners?ref_src=twsrc%5Etfw">@Hy24partners</a> is set to provide €70m ($77m) in funding to support <a href="https://twitter.com/H2_MOBILITY_DE?ref_src=twsrc%5Etfw">@H2_MOBILITY_DE</a>.<a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a><a href="https://t.co/rPitiEnVi1">https://t.co/rPitiEnVi1</a></p>&mdash; H2 View (@h2_view) <a href="https://twitter.com/h2_view/status/1510343781991817224?ref_src=twsrc%5Etfw">April 2, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">👀 🛩 GTL ultralight aircraft tank just 67kg holds ~150kg of liquid <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> 💪enough for 8hr 4,500km flight with <a href="https://twitter.com/hypointinc?ref_src=twsrc%5Etfw">@hypointinc</a> system. The future of <a href="https://twitter.com/hashtag/zeroemission?src=hash&amp;ref_src=twsrc%5Etfw">#zeroemission</a> ☘️flight. H2 tech just keeps on accelerating <a href="https://t.co/0BSPCaf0UB">https://t.co/0BSPCaf0UB</a></p>&mdash; Jon Hunt (@JontheHunt) <a href="https://twitter.com/JontheHunt/status/1510898984365301763?ref_src=twsrc%5Etfw">April 4, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Fermilab physics video below. Summary: Mass is an illusion. Proton,
-neutrons are the shit. Higgs Boson is not a big deal.
-
-[[-]](https://youtu.be/x8grN3zP8cg?t=81)
-
----
-
-TDB: "IBM’s Watson, who trounced the greatest Jeopardy! players on the
-classic game show—but needed to be hard-wired to the show’s
-question-posing system. He was incapable of doing an autonomous task
-that any three-year-old could do: listening for the host to finish a
-question before buzzing in"
+H2 Fuel News: "HyPoint predicts fuel cell aircraft with 4 times range
+of conventional planes.. The company expects that this will occur
+because of the ultra-light cryotank developed by GTL"
 
 ---
 
-
-Sounds like bunch of unnecessary pain.. Test based restrictions are
-excessive.. Left over policy from beginning of pandemic.
-
-TDB: "On the day my wife and I were to fly home from London after a
-brief visit, we took a COVID-19 test.. My wife’s test was negative. My
-test was positive. She flew out.... So I was looking at 10 days of
-hotels, which are not cheap in London. It’s not as if I can call a
-friend here and say, “Hey, I got covid. Can I crash on your living
-room sofa?”
-
-[Gets covid] My symptoms quickly went away, and after four days I felt
-fine again... But, now, how do I get back? Here’s the problem. There
-is a chance that some little piece of the virus remains in my body. So
-if I take another test and it’s positive, I’m stuck here again—with no
-symptoms except a bleeding wallet"
+WION: "United Nations warns that it's 'now or never' to avoid climate catastrophe"
 
 ---
 
-CNBC: "Charlie Munger warns Gen Z investors.. 'It’s going to be way
-harder for the group that’s graduated from college now ... to get rich
-and stay rich,' Munger, 98, said. 'Think what it [used to] cost to own
-a house in a desirable neighborhood in a city like Los Angeles.'"
+H2 View: "One solution [for H2 storage] that has been overlooked is
+liquid organic hydrogen carriers.. LOHC are organic compounds that can
+absorb and release hydrogen through chemical reactions... In
+principle, every unsaturated compound (organic molecules with C-C
+double or triple bonds) can take up hydrogen during hydrogenation..
+One m³ LOHC enables the safe storage of 57 kg H2"
 
 ---
 
-Besides the need to provide bed-time stories for their shoddy
-nation-building, Asia Minor Turkist propaganda was useful for British
-interests; they could use it as a cudgel for the continuation of the
-Great Game in Asia, eg if you can create an illusion of unity between
-TR and "the Stans", some of which are "ethnically similar", u could
-then be provoke those countries against their immediate neighbor.
-
-But the act is getting old.. Plus TR's problems compound whose very
-foundation was crooked (that's what you get with second rate
-founders). People live in a bastardized world of their true culture
-which is incompatible with national narrative that constantly leads
-them astray, or at best, keeps them stagnant which is the case today
-(middle-income trap). 
+H2 View: "France has recently announced a €7bn package to build a
+carbon-free hydrogen industry. Germany issued a similar program of
+€9bn and that has intensified as their reliance on Russian gas is
+threatened. In July, the European Commission said it is looking to
+increase its production capacity of electrolysers from 250MW today to
+40GW in 2030. Similar strategies have been released by the UK,
+Australia, and Asian countries. These are just some of the most recent
+announcements, but they show a clear trend towards massive public
+investments in the sector"
 
 ---
 
-Because US was caught doing undemocratic shit, its protests on the
-Egyptian coup registered less. The revelations might have even given
-Sisi the PR cover he needed for the coup.
+Businesswire: "Locosoco pleased to announce discussions are underway
+with Proton Technologies, a leader in the field of Clean Hydrogen
+Production that utilises existing fossil fuel infrastructure.. Proton
+Technologies [tech creates] carbon-free, low-cost opportunity for
+extracting hydrogen using previously expensed infrastructure and known
+energy deposits. [Tech allows] extraction of clean hydrogen whilst
+sequestering carbon within existing oil wells"
 
 ---
 
-Timeline reminder
+Not *only* renewable energy; We could complement the transition with
+CCS. German Greens are fine with blue H2 generated from natgas with
+carbon capture (of course solar is preferable). People who lobby,
+produce lit on this stuff need to laser focus on proper engineering,
+and costs.
 
-June 2013: An NSA contractor Edward Snowden starts sharing gov secrets
-with the media. Americans learn that their government was spying
-broadly on its own people.
-
-July 2013: A military coup in Egypt removes President Morsi from
-power.
-
----
-
-Looking at the map, Philippines would be key for the outers to contain
-China.. But what happens after Duterte?
-
-"U.S., Philippines Hold One of Their Largest-Ever Military Exercises"
+Report: "Greenhouse gas emissions need to be reduced by 43% and methane
+by about a third by 2030 that can only happen if countries reduce
+their dependence on fossil fuels and replace it with renewable energy"
 
 ---
 
-Orban wins again. He is lambasted on immigration, but on process we
-have to accept forcing countries to accept new people if their
-democratically elected government does not agree would be
-undemocratic.
+Condemnation rituals.. How will that help?
+
+Maybe Japan should have condemned Harry Truman for war crimes in Japan
+in 1945.
 
 ---
 
-FT: "China has reaffirmed its partnership with Russia in the wake of
-the Ukraine invasion and says it wants to push bilateral relations 'to
-a higher level'"
+FT: "The UK government says it is ‘unsustainable’ to continue to spend
+£2bn a month on free Covid testing for the general public"
 
 ---
 
-NYT: "Syrian mercenaries deploy to Russia en route to Ukrainian
-battlefields Hundreds of Syrian fighters are en route to join Russian
-forces in Ukraine, effectively returning the favour to Moscow for
-helping President Bashar Assad crush rebels in an 11-year civil war,
-according to two people monitoring the flow of mercenaries"
+Maybe the play was an inner-outer battle again.. Abdullah's mother is
+British - some say the only reason he got the job
 
 ---
 
-Moldova is NATO-friendly? If they were opportunistic they would give
-Russia access for Western Ukraine in return for Odessa Oblast.
+Jordan is land-locked too except a tiny sea access. 
 
 ---
 
-TBH Ukraine had ownership of some prime land that was beyond its
-capacity to hold onto. They needed massive deterrence, or major
-forsight on diplomacy to make self less threathening to others
-(RU). Ukraine had neither.
+What was the aim for toppling Abdullah again? He wasn't for the accords?
+
+I know Abdul is a Trekkie (had a cameo on Voyager) nothing particularly against him
 
 ---
 
-Moldova was screwed, historically speaking; had zero sea access until
-2005, now have a *tiny* port, and had to trade land with Ukraine to
-get it. Reminds me the bitch borders of Iraq drawn up by Western
-powers..  Sad.
+Trump's gone, he gone. 
 
-In a natural evolution of borders Moldova would have the land reaching
-all the way to the Black Sea, areas currently belong to Ukraine.
-
-[[-]](https://pbs.twimg.com/media/FPZe1sNXoAcqpvu?format=jpg&name=small)
+"[King's brother] Jordan's Hamzah renounces title of prince"
 
 ---
 
-Immediate UKR south is in danger being closed off to sea access for
-Ukraine. No wonder Odessa is being attacked.
+*Bourne Identity*, the first movie in the series, isn't exactly a post
+9/11 movie. It was written, filmed 1999/2000, due to delays etc it hit
+the theathers 2002. That is clear to see in the content; plus the
+director Liman's father was Senate chief counsel on the Iran-Contra
+affair, so he was making a movie around that stuff, shady biz,
+underhanded spycraft etc.
+
+*The Bourne Supremacy* is different, that's the true post 9/11
+one. That movie has scenes JB beating up on black people (actually
+strangles one) which was key. Hey if Bond goes 9/11, Bourne has to do
+it too.
 
 ---
 
-The map suggests a possible region for attack would be that pocket
-shown with arrow, and yes, Severodonetsk, Rubizhne, Lysychansk,
-Kreminna, Hirske, Popasna Berezove, Toshkivka - all being shelled. If
-RU takes the region the red block will get bigger.
-
-[[-]](https://pbs.twimg.com/media/FPZVQEpWYAE1r0R?format=png&name=small)
+*Casino Royale* was a good action movie, no arguments there.
 
 ---
 
-MSM is not even providing Liveuamap level reporting here. See the red
-regions in the map. Those are RU areas; not newsworthy? 
-
-[[-]](https://pbs.twimg.com/media/FPZWhNmX0AQ7ALF?format=png&name=small)
+After much globetrotting adventures (an outer here, the master of all)
+9/11 Bond died near European landmass.
 
 ---
 
-Watching the corporate media you'd think Ukraine is winning big, if
-there was just some extra hardware, they'd finish the war today
+The 9/11 Bond, "James Blonde", has died. It's interesting the first
+major action scene has Bond killing, beating on colored people in a
+Caribbean setting. Post 9/11 Jason Bourne would soon follow suit.
+
+Arabs aren't black but hey, close enough, they just found the nearest
+non-whites and beat up on them.
 
 ---
 
-*The Contractor*, not bad
+:) James Bond's grave at Foroes Island (spoiler: in the final movie
+Bond dies there), the island uses it as touristic attraction.
+
+[[-]](https://pbs.twimg.com/media/FOrhf5CXMAg-Z3g?format=jpg&name=small)
+
+---
+
+Al Jazeera: Before leaving India [1947], the British made sure a
+united India would not be possible... East and West Pakistan were
+hacked off the stooped shoulders of India by the departing
+British.. Within months, India and Pakistan were embroiled in a war
+over Kashmir, the consequences of which still affect us today. The
+creation and perpetuation of Hindu-Muslim antagonism was the most
+significant accomplishment of British imperial policy: the colonial
+project of 'divide et impera' (divide and rule) fomented religious
+antagonisms to facilitate continued imperial rule"
+
+---
+
+Kashmir? Britain's fault
+
+---
+
+It makes sense for Pak to get buddy-buddy w China, Russia; since India
+rels are always on the rocks. Cant blame a guy for wanting friends,
+energy deals, ports and roads for his country.
+
+---
+
+Also see [here](2021/03/unrivaled-beckley.md#taiwan).
+
+---
+
+Al Jazeera: How hard would it be for China to invade Taiwan? | Project Force 
+
+[[-]](https://youtu.be/qaYQNyJlNFk)
 
 ---
 
