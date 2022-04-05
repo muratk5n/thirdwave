@@ -129,6 +129,9 @@ Bond dies there), the island uses it as touristic attraction.
 
 ---
 
+The migration that resulted due to the partition was extremely bad.
+That too is on the Brits.
+
 Al Jazeera: Before leaving India [1947], the British made sure a
 united India would not be possible... East and West Pakistan were
 hacked off the stooped shoulders of India by the departing
@@ -151,7 +154,7 @@ energy deals, ports and roads for his country.
 
 ---
 
-Also see [here](2021/03/unrivaled-beckley.md#taiwan).
+Additional info [here](2021/03/unrivaled-beckley.md#taiwan).
 
 ---
 
