@@ -40,7 +40,7 @@ with Proton Technologies, a leader in the field of Clean Hydrogen
 Production that utilises existing fossil fuel infrastructure.. Proton
 Technologies [tech creates] carbon-free, low-cost opportunity for
 extracting hydrogen using previously expensed infrastructure and known
-energy deposits. [Tech allows] extraction of clean hydrogen whilst
+energy deposits.. [which allows] extraction of clean hydrogen whilst
 sequestering carbon within existing oil wells"
 
 ---
