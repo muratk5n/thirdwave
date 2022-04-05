@@ -10,10 +10,6 @@ because of the ultra-light cryotank developed by GTL"
 
 ---
 
-WION: "United Nations warns that it's 'now or never' to avoid climate catastrophe"
-
----
-
 H2 View: "One solution [for H2 storage] that has been overlooked is
 liquid organic hydrogen carriers.. LOHC are organic compounds that can
 absorb and release hydrogen through chemical reactions... In
@@ -54,6 +50,10 @@ and costs.
 Report: "Greenhouse gas emissions need to be reduced by 43% and methane
 by about a third by 2030 that can only happen if countries reduce
 their dependence on fossil fuels and replace it with renewable energy"
+
+---
+
+WION: "United Nations warns that it's 'now or never' to avoid climate catastrophe"
 
 ---
 
