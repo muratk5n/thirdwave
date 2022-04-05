@@ -103,8 +103,8 @@ spycraft etc. Later two Bourne movies are different.
 
 ---
 
-After many globetrotting adventures (an "outer belt" hero, the master
-of the all Faraway Lands) 9/11 Bond died near European landmass, after
+After many globetrotting adventures (an "outer belt" hero, Master of
+all Faraway Lands) 9/11 Bond died near European landmass, after
 fighting a foe played by an ethnically Egyptian actor.
 
 ---
