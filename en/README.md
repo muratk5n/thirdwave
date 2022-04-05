@@ -93,7 +93,7 @@ affair, so he was making a movie around that stuff, shady biz,
 underhanded spycraft etc.
 
 *The Bourne Supremacy* is different, that's the true post 9/11
-one. That movie has scenes JB beating up on black people (actually
+version. That movie has scenes JB beating up on black people (actually
 strangles one), so proper message was sent to all fureigners,
 A-rabs. Hey if Bond goes 9/11, Bourne has to do it too.
 
