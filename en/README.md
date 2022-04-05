@@ -64,11 +64,6 @@ in Japan in 1945, instead of making a deal.
 
 ---
 
-FT: "The UK government says it is ‘unsustainable’ to continue to spend
-£2bn a month on free Covid testing for the general public"
-
----
-
 Maybe the play was an inner-outer battle again.. Abdullah's mother is
 British - some say the only reason he got the job
 
