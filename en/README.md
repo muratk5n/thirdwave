@@ -79,7 +79,7 @@ I know Abdul is a Trekkie (had a cameo on Voyager) nothing particularly against 
 
 ---
 
-Trump's gone, he gone. 
+Trump gone, he gone.
 
 "[King's brother] Jordan's Hamzah renounces title of prince"
 
