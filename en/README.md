@@ -155,7 +155,7 @@ Also see [here](2021/03/unrivaled-beckley.md#taiwan).
 
 ---
 
-Al Jazeera: How hard would it be for China to invade Taiwan? | Project Force 
+Al Jazeera: How hard would it be for China to invade Taiwan?
 
 [[-]](https://youtu.be/qaYQNyJlNFk)
 
