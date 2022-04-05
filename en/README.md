@@ -91,11 +91,11 @@ these effected the mood of the later movies.
 ---
 
 *Bourne Identity*, the first movie in the series, isn't exactly a post
-9/11 movie. It was written, filmed 1999/2000, due to delays etc it hit
-the theathers 2002. That is clear to see in the content; plus the
-director Liman's father was Senate chief counsel on the Iran-Contra
-affair, so he was making a movie around that stuff, shady biz,
-underhanded spycraft etc.
+9/11 movie. It was written, filmed 1999/2000, due to delays it hit the
+theathers 2002. That is clear to see in the content; plus the director
+Liman's father was Senate chief counsel on the Iran-Contra affair, so
+he was making a movie around that stuff, shady biz, underhanded
+spycraft etc.
 
 *The Bourne Supremacy* is different, that's the true post 9/11
 version. That movie has scenes JB beating up on black people (actually
