@@ -118,7 +118,7 @@ non-white folk and beat up on them.
 
 ---
 
-:) James Bond's grave at Foroes Island
+:) James Bond's grave at Faroes Island
 
 Spoiler: the last movie has Bond die there. The island now uses it as
 touristic attraction.
