@@ -108,8 +108,8 @@ A-rabs. Hey if Bond goes 9/11, Bourne has to do it too.
 
 ---
 
-After much globetrotting adventures (an "outer belt" hero, the master
-of the all Far Lands) 9/11 Bond died near European landmass, after
+After many globetrotting adventures (an "outer belt" hero, the master
+of the all Faraway Lands) 9/11 Bond died near European landmass, after
 fighting a foe played by an ethnically Egyptian actor.
 
 ---
@@ -126,7 +126,7 @@ non-white folk and beat up on them.
 :) James Bond's grave at Faroe Islands
 
 Spoiler: the last movie has Bond die there. The island now uses it as
-touristic attraction.
+touristic attraction apparently.
 
 [[-]](https://pbs.twimg.com/media/FOrhf5CXMAg-Z3g?format=jpg&name=small)
 
