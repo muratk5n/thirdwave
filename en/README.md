@@ -114,7 +114,8 @@ major action scene has Bond killing, beating on colored people in a
 Caribbean setting. Post 9/11 Jason Bourne would soon follow suit.
 
 Arabs aren't black but hey, close enough, they just found the nearest
-non-white folk and beat up on them.
+non-white folk and beat up on them. Fureigners, A-rabs and the like,
+you've been warned.
 
 ---
 
