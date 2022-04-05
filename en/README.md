@@ -59,8 +59,8 @@ their dependence on fossil fuels and replace it with renewable energy"
 
 Condemnation rituals.. How will that help?
 
-Maybe Japan should have condemned Harry Truman for war crimes in Japan
-in 1945.
+Maybe Japan should have just condemned Harry Truman for his war crimes
+in Japan in 1945, instead of making a deal.
 
 ---
 
