@@ -57,7 +57,7 @@ WION: "United Nations warns that it's 'now or never' to avoid climate catastroph
 
 ---
 
-Condemnation rituals.. How will that help?
+Condemnation rituals.. Will that help? 
 
 Maybe Japan should have just condemned Harry Truman for his war crimes
 in Japan in 1945, instead of making a deal.
