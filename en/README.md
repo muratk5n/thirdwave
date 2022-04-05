@@ -63,7 +63,7 @@ in Japan in 1945, instead of making a deal.
 
 ---
 
-The play could be an inner-outer battle again.. Abdullah's mother is
+The play could be an inner-outer battle too.. Abdullah's mother is
 British - some say the only reason he got the job
 
 ---
