@@ -95,7 +95,7 @@ these effected the mood of the later movies.
 theathers 2002. That is clear to see in the content; plus the director
 Liman's father was Senate chief counsel on the Iran-Contra affair, so
 he was making a movie around that stuff, shady biz, underhanded
-spycraft etc.
+spycraft.
 
 *The Bourne Supremacy* is different, that's the true post 9/11
 version. That movie has scenes JB beating up on black people (actually
