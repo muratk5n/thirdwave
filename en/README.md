@@ -41,7 +41,7 @@ sequestering carbon within existing oil wells"
 
 ---
 
-Not *only* renewable energy; We could complement the transition with
+Not 'only' renewable energy; We could complement the transition with
 CCS. German Greens are fine with blue H2 generated from natgas with
 carbon capture (of course solar is preferable). People who lobby,
 produce lit on this stuff need to laser focus on proper engineering,
