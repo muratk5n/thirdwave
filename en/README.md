@@ -99,8 +99,8 @@ underhanded spycraft etc.
 
 *The Bourne Supremacy* is different, that's the true post 9/11
 one. That movie has scenes JB beating up on black people (actually
-strangles one) which was key. Hey if Bond goes 9/11, Bourne has to do
-it too.
+strangles one), so proper message was sent to all fureigners,
+A-rabs. Hey if Bond goes 9/11, Bourne has to do it too.
 
 ---
 
@@ -109,7 +109,8 @@ it too.
 ---
 
 After much globetrotting adventures (an "outer belt" hero, the master
-of all the New Lands) 9/11 Bond died near European landmass.
+of all the New Lands) 9/11 Bond died near European landmass, while
+fighting a Middle Eastern looking foe.
 
 ---
 
