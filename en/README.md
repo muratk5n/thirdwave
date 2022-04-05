@@ -100,7 +100,7 @@ spycraft etc.
 *The Bourne Supremacy* is different, that's the true post 9/11
 version. That movie has scenes JB beating up on black people (actually
 strangles one), so proper message was sent to all fureigners, A-rabs
-through that. Hey if Bond goes 9/11, Bourne has to do it too.
+through that. Hey if Bond goes 9/11, Bourne has to do it too. Both JB's.
 
 ---
 
