@@ -41,11 +41,10 @@ sequestering carbon within existing oil wells"
 
 ---
 
-Not 'only' renewable energy; We could complement the transition with
-CCS. Many green advocates are fine with blue H2 generated from natgas
-with carbon capture (of course solar is preferable). People who lobby,
-produce lit on this stuff need to laser focus on proper engineering,
-and costs.
+We could complement the transition with CCS. Many green advocates are
+fine with blue H2 generated from natgas with carbon capture (of course
+solar is preferable). People who lobby, produce lit on this stuff need
+to laser focus on proper engineering, and costs.
 
 Report: "Greenhouse gas emissions need to be reduced by 43% and methane
 by about a third by 2030 that can only happen if countries reduce
