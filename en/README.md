@@ -108,8 +108,8 @@ it too.
 
 ---
 
-After much globetrotting adventures (an outer here, the master of all)
-9/11 Bond died near European landmass.
+After much globetrotting adventures (an "outer belt" hero, the master
+of all the New Lands) 9/11 Bond died near European landmass.
 
 ---
 
@@ -118,12 +118,14 @@ major action scene has Bond killing, beating on colored people in a
 Caribbean setting. Post 9/11 Jason Bourne would soon follow suit.
 
 Arabs aren't black but hey, close enough, they just found the nearest
-non-whites and beat up on them.
+non-white folk and beat up on them.
 
 ---
 
-:) James Bond's grave at Foroes Island (spoiler: in the final movie
-Bond dies there), the island uses it as touristic attraction.
+:) James Bond's grave at Foroes Island
+
+Spoiler: the last movie has Bond die there. The island now uses it as
+touristic attraction.
 
 [[-]](https://pbs.twimg.com/media/FOrhf5CXMAg-Z3g?format=jpg&name=small)
 
