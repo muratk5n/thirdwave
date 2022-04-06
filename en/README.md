@@ -6,8 +6,8 @@ Video on the First Light tech
 
 ---
 
-Again, simple fuel, projectile, molecule based approach is much better
-than bitch-laser, bitch-magnets, bitch-electric based approaches.
+Simple fuel, projectile, molecule based approach is much better than
+bitch-electric, bitch-magnet, bitch-laser approaches.
 
 "Fusion shown with projectile approach for first time.. Breakthrough
 achieved faster and cheaper than traditional fusion approaches.. First
@@ -31,8 +31,8 @@ ties.
 ---
 
 H2 View: "[European Investment Bank] and ICO invest €88m to develop
-‘one of the largest’ green hydrogen production plants for industrial
-use in Europe"
+one of the largest green hydrogen production plants for industrial use
+in Europe"
 
 ---
 
