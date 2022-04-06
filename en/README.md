@@ -24,7 +24,7 @@ tremendous speed"
 
 ---
 
-This Dr. Tatsuya Kodama does good work; does reseerch on solar
+This Dr. Tatsuya Kodama does good work; does research on solar
 beam-down and H2 generation through high heat, wout electrolysis, has
 Oz CSIRO ties.
 
@@ -43,7 +43,7 @@ Their punch bowl is being taken away no more parteh
 CNBC: "Key people from the Fed just spooked the markets - here's what
 they said.. Fed Governor Lael Brainard and San Francisco Fed President
 Mary Daly both issued comments that showed they both envision higher
-rates and, in the former?s case, an aggressive drawdown of the assets
+rates and, in the former's case, an aggressive drawdown of the assets
 the central bank is holding on its balance sheet..
 
 Investors didn't particularly like what they heard, sending major
