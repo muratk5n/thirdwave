@@ -4,14 +4,6 @@
 
 ---
 
-This Dr. Tatsuya Kodama does good work, w solar beam-down and H2
-generation tech through high heat, wout electrolysis, has Oz CSIRO
-ties.
-
-[[-]](https://pbs.twimg.com/media/FPpiN4eXEAQTllx?format=jpg&name=small)
-
----
-
 Again, simple fuel, projectile, molecule based approach is much better
 than bitch-laser, bitch-magnets, bitch-electric based approaches.
 
@@ -25,6 +17,14 @@ conditions for fusion, First Light’s approach compresses the fuel
 inside a target using a projectile travelling at tremendous speed"
 
 [[-]](https://firstlightfusion.com/media/fusion)
+
+---
+
+This Dr. Tatsuya Kodama does good work, w solar beam-down and H2
+generation tech through high heat, wout electrolysis, has Oz CSIRO
+ties.
+
+[[-]](https://pbs.twimg.com/media/FPpiN4eXEAQTllx?format=jpg&name=small)
 
 ---
 
