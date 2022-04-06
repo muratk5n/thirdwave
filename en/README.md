@@ -94,7 +94,8 @@ enlightenment"
 Why not? The job may not involve high skill but there is clearly a
 demand for it.
 
-"Truck drivers cannot make the same amt of money as software developer"
+"Truck drivers should not make the same amt of money as software
+developer"
 
 ---
 
