@@ -11,14 +11,12 @@ bitch-electric, bitch-magnet, bitch-laser approaches. Heat, pressure,
 mass, molecules, protons, neutrons - these form the crux of what's out
 there, ie reality.
 
-"Breakthrough achieved faster and cheaper than traditional fusion
-approaches.. First Light is taking a unique projectile fusion approach
-to solve [the] challenge, which it believes offers the fastest,
-simplest and cheapest route to commercial fusion power. This means
-that instead of using complex and expensive lasers or magnets to
-generate or maintain the conditions for fusion, First Light’s approach
-compresses the fuel inside a target using a projectile travelling at
-tremendous speed"
+"First Light is taking a unique projectile fusion approach to solve
+[the] challenge, which it believes offers the fastest, simplest and
+cheapest route to commercial fusion power. This means that instead of
+using complex and expensive lasers or magnets to generate or maintain
+the conditions for fusion, First Light’s approach compresses the fuel
+inside a target using a projectile travelling at tremendous speed"
 
 [[-]](https://firstlightfusion.com/media/fusion)
 
