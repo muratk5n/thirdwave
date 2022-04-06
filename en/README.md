@@ -7,7 +7,9 @@ Video on the First Light tech
 ---
 
 Simple fuel, projectile, molecule based approach is much better than
-bitch-electric, bitch-magnet, bitch-laser approaches.
+bitch-electric, bitch-magnet, bitch-laser approaches. Heat, pressure,
+mass, molecules, neutrons - the basis of reality.
+
 
 "Fusion shown with projectile approach for first time.. Breakthrough
 achieved faster and cheaper than traditional fusion approaches.. First
