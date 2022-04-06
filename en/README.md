@@ -107,7 +107,6 @@ of.. something. Maybe at Amazon you won't be allowed to take a
 bathroom break.
 
 
-
 ```python
 import pandas as pd, datetime
 from pandas_datareader import data
