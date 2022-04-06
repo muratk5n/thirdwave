@@ -24,9 +24,8 @@ tremendous speed"
 
 ---
 
-This Dr. Tatsuya Kodama does good work, w solar beam-down and H2
-generation tech through high heat, wout electrolysis, has Oz CSIRO
-ties.
+This Dr. Tatsuya Kodama does good work; works on solar beam-down and
+H2 generation through high heat, wout electrolysis, has Oz CSIRO ties.
 
 [[-]](https://pbs.twimg.com/media/FPpiN4eXEAQTllx?format=jpg&name=small)
 
