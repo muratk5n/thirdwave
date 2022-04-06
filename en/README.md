@@ -1,6 +1,6 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-Video on the First Light tech
+Video on the First Light technology
 
 <blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">⚛️ It says the method is simpler and more energy efficient than rival approaches, and it has reached this point at record rates of progress… <a href="https://t.co/6ZP23dfSO2">pic.twitter.com/6ZP23dfSO2</a></p>&mdash; Telegraph Business (@telebusiness) <a href="https://twitter.com/telebusiness/status/1511292001530036224?ref_src=twsrc%5Etfw">April 5, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
