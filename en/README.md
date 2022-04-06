@@ -8,8 +8,8 @@ Video on the First Light technology
 
 Simple fuel, projectile, molecule based approach is much better than
 bitch-electric, bitch-magnet, bitch-laser approaches. Heat, pressure,
-mass, molecules, neutrons - these form the crux of what's out there,
-ie reality.
+mass, molecules, protons, neutrons - these form the crux of what's out
+there, ie reality.
 
 "Breakthrough achieved faster and cheaper than traditional fusion
 approaches.. First Light is taking a unique projectile fusion approach
@@ -115,7 +115,6 @@ start=datetime.datetime(1945, 1, 1)
 end=datetime.datetime(today.year, today.month, today.day)
 df = data.DataReader(['GDPC1','B4701C0A222NBEA','IMPGS'], 'fred', start, end)
 df = df.interpolate()
-
 df['hrs_per_dollar'] = df.B4701C0A222NBEA/(df.GDPC1-df.IMPGS)
 print (df['hrs_per_dollar'].tail(4))
 df['hrs_per_dollar'].plot()
