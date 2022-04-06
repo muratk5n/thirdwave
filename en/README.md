@@ -39,7 +39,7 @@ in Europe"
 
 Their punch bowl is being taken away no more parteh
 
-CNBC: "Key people from the Fed just spooked the markets ? here?s what
+CNBC: "Key people from the Fed just spooked the markets - here's what
 they said.. Fed Governor Lael Brainard and San Francisco Fed President
 Mary Daly both issued comments that showed they both envision higher
 rates and, in the former?s case, an aggressive drawdown of the assets
