@@ -109,16 +109,16 @@ truckers are forced to put up with"
 
 ---
 
-The reason is either technology, or too much efficiency is being squeezed
-out of employees at the expense of.. something. Maybe at Amazon you won't
-be allowed to take a bathroom break. 
-
----
-
 Subtract imports from GDP (to see locally produced goods with locally
 worked hours), divided total hours worked with it - gives numbers of
 hours worked per unit GDP. Ratio has been decreasing for the past 70
 years.
+
+The reason for that decrease IMO is either technology, or too much
+efficiency is being squeezed out of employees at the expense
+of.. something. Maybe at Amazon you won't be allowed to take a
+bathroom break.
+
 
 
 ```python
@@ -150,7 +150,7 @@ Freq: QS-OCT, Name: hrs_per_dollar, dtype: float64
 
 Data disagrees - see above
 
-"Productiviy is stagnant"
+"Productivity is stagnant"
 
 ---
 
