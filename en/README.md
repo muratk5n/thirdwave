@@ -145,8 +145,8 @@ First U.S. Amazon Union"
 
 ---
 
-Blue Origin can do some good in space industry.. I like the O'Neill Cylinder
-approach and the infrastructure-take on space.
+AMZN, Blue Origin can do some good in space industry.. When are
+they building O'Neill Cylinders?
 
 [[-]](2020/09/space-exploration-goals-colonization.md#oneill)
 
