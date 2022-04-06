@@ -49,22 +49,6 @@ averages considerably lower on the day"
 
 ---
 
-AFP: "Amazon has secured deals to launch up to 83 rockets carrying its
-internet satellites into low earth orbit, in what is believed to be
-the largest such procurement in the history of the space industry"
-
----
-
-TDB: "[T]he Federal Election Commission fined Hillary Clinton’s
-presidential campaign and the Democratic National Committee for
-misreporting political payments in 2016 that funded the explosive
-Steele dossier, the news attracted plenty of media attention. The
-penalties themselves, however, had nothing to do with the actual
-content, creation, or distribution of that infamous document. Instead,
-the FEC dinged the Democrats on a clerical issue"
-
----
-
 Unforscene - Dirty and Dark \#music
 
 [[-]](https://youtu.be/FXw3r6r9R28)
@@ -164,6 +148,12 @@ Blue Origin can do some good in space industry.. I like the O'Neill Cylinder
 approach and the infrastructure-take on space.
 
 [[-]](2020/09/space-exploration-goals-colonization.md#oneill)
+
+---
+
+AFP: "Amazon has secured deals to launch up to 83 rockets carrying its
+internet satellites into low earth orbit, in what is believed to be
+the largest such procurement in the history of the space industry"
 
 ---
 
