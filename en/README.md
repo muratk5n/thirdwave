@@ -8,7 +8,8 @@ Video on the First Light tech
 
 Simple fuel, projectile, molecule based approach is much better than
 bitch-electric, bitch-magnet, bitch-laser approaches. Heat, pressure,
-mass, molecules, neutrons - the basis of reality.
+mass, molecules, neutrons - these form the crux of what's out there,
+ie reality.
 
 
 "Fusion shown with projectile approach for first time.. Breakthrough
