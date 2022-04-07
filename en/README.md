@@ -65,8 +65,7 @@ Defund the grid. [Pipes over wires](https://pbs.twimg.com/media/EvdKNhvXAAE9Rr2?
 
 The Independent: "Storms batter aging power grid as climate disasters
 spread.. Power outages from severe weather have roughly doubled over
-the past two decades across the U.S. as a warming climate stirs more
-destructive storms"
+the past two decades"
 
 ---
 
