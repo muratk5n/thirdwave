@@ -74,12 +74,6 @@ Dude forget that cos, sin, arccos spherical distance shit,
 
 ---
 
-Keith Mansfield - Blockbuster \#music
-
-[[-]](https://youtu.be/pDIhpSPiYpM)
-
----
-
 Some claim the dimming event triggered seismic changes in history;
 famine displaced people who displaced others, discredited some
 existing religions increased interest for new ones (eg Islam, Mohammed
