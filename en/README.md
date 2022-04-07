@@ -61,12 +61,6 @@ technology and Enerkem’s waste-to-fuels technology"
 
 ---
 
-:) A Manchin fan.. I dont see many in my media feed 
-
-[[-]](https://twitter.com/JackBones10/status/1510351228571553795)
-
----
-
 Defund the grid. [Pipes over wires](https://pbs.twimg.com/media/EvdKNhvXAAE9Rr2?format=png&name=small).
 
 The Independent: "Storms batter aging power grid as climate disasters
