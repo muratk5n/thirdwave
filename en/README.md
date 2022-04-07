@@ -1,193 +1,149 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-Video on the First Light technology
-
-<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">⚛️ It says the method is simpler and more energy efficient than rival approaches, and it has reached this point at record rates of progress… <a href="https://t.co/6ZP23dfSO2">pic.twitter.com/6ZP23dfSO2</a></p>&mdash; Telegraph Business (@telebusiness) <a href="https://twitter.com/telebusiness/status/1511292001530036224?ref_src=twsrc%5Etfw">April 5, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">EHB targets 28,000km of hydrogen pipelines by 2030 <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/energy?src=hash&amp;ref_src=twsrc%5Etfw">#energy</a> <a href="https://twitter.com/hashtag/renewablenergy?src=hash&amp;ref_src=twsrc%5Etfw">#renewablenergy</a><a href="https://t.co/HsAI9evVvQ">https://t.co/HsAI9evVvQ</a></p>&mdash; EnergyNews.biz (@EnergyNews_Biz) <a href="https://twitter.com/EnergyNews_Biz/status/1511617823545729024?ref_src=twsrc%5Etfw">April 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Simple fuel, projectile, molecule based approach is much better than
-bitch-electric, bitch-magnet, bitch-laser approaches. Heat, pressure,
-mass, molecules, protons, neutrons - these form the crux of what's out
-there, ie reality.
-
-"First Light is taking a unique projectile fusion approach to solve
-[the] challenge, which it believes offers the fastest, simplest and
-cheapest route to commercial fusion power. This means that instead of
-using complex and expensive lasers or magnets to generate or maintain
-the conditions for fusion, First Light’s approach compresses the fuel
-inside a target using a projectile travelling at tremendous speed"
-
-[[-]](https://firstlightfusion.com/media/fusion)
+H2 View: "25GW hydrogen megaproject in Oman gains traction with a
+potential output of 1.8 million tonnes of green hydrogen per year"
 
 ---
 
-This Dr. Tatsuya Kodama does good work; does research on solar
-beam-down and H2 generation through high heat, wout electrolysis, has
-Oz CSIRO ties.
-
-[[-]](https://pbs.twimg.com/media/FPpiN4eXEAQTllx?format=jpg&name=small)
+H2 View: "Scotland will gain a new green hydrogen production project
+with SSE Renewables and Siemens Gamesa Renewable Energy partnering to
+convert 100MW of onshore wind energy into the clean energy carrier"
 
 ---
 
-H2 View: "[European Investment Bank] and ICO invest €88m to develop
-one of the largest green hydrogen production plants for industrial use
-in Europe"
+H2 View: "Revolutionary floating offshore hydrogen production plant
+awarded... [to be] developed by J-DeEP in Scotland"
 
 ---
 
-Their punch bowl is being taken away no more parteh
+"@CSIRO
 
-CNBC: "Key people from the Fed just spooked the markets - here's what
-they said.. Fed Governor Lael Brainard and San Francisco Fed President
-Mary Daly both issued comments that showed they both envision higher
-rates and, in the former's case, an aggressive drawdown of the assets
-the central bank is holding on its balance sheet..
+Dr Patrick Hartley, head of our Hydrogen Industry Mission, with Dr
+Alan Finkel @AusGov_OSALET and our @toyota_aus Mirai hydrogen vehicle
+at last week’s arrival in \#Melbourne of the world’s first liquefied
+\#hydrogen carrier, the Suiso Frontier"
 
-Investors didn't particularly like what they heard, sending major
-averages considerably lower on the day"
+[[-]](https://twitter.com/CSIRO/status/1486896827022594052)
 
 ---
 
-Unforscene - Dirty and Dark \#music
+"@AusGov_OSALET [Feb 2022, Alan Finkel]
 
-[[-]](https://youtu.be/FXw3r6r9R28)
+Good news from the fourth India-Australia Energy Dialogue!
+@AngusTaylorMP and @OfficeOfRKSingh have signed the Letter of Intent
+on New and Renewable Energy Technology. The focus is on ultra low-cost
+\#solar and clean \#hydrogen"
 
----
-
-T. Frank: "Frederick Dutton, Democratic Party power
-broker.. identified workers, the core of the New Deal coalition, as
-'the principal group arrayed against the forces of change'... The
-culture in those years was saturated with depictions of blue-collar
-bigots doing scary things like shooting the main characters in Easy
-Rider and rioting in support of the Vietnam War...
-
-Still, a man like Dutton should have known better. A glance at the
-union placards carried by marchers at Martin Luther King’s 1963 March
-on Washington —or at the way the United Auto Workers lobbied for the
-Civil Rights Act of 1964 —or at the 1968 strike of black sanitation
-workers in Memphis—should have been enough to suggest that the Archie
-Bunker stereotype was not the whole story. Besides, what kind of
-Democrat gives up on basic economic issues in order to focus on
-matters of 'the psyche' and 'the soul'? This was not politics; it was
-psychotherapy. Worse: it was aristocratic hauteur disguised as
-enlightenment"
+[[-]](https://twitter.com/AusGov_OSALET/status/1493820327750553600)
 
 ---
 
-Why not? The job may not involve high skill but there is clearly a
-demand for it.
+"Suncor getting out of wind and solar; will shift focus to hydrogen and
+renewable fuel..  the Calgary-based company says it still intends to
+be net-zero emissions by 2050, but will accelerate progress towards
+that target by focusing on hydrogen and renewable fuels instead..
 
-"Truck drivers should not make the same amt of money as software
-developer"
+[They will replace] coke-fired boilers at its Base Plant oilsands
+project near Fort McMurray, Alta., with lower emission cogeneration
+units, as well as accelerating commercial-scale deployment of carbon
+capture technology...
 
----
+It also notes it’s partnering with ATCO on a project to build a
+world-scale hydrogen project in Alberta and deploying next-generation
+renewable fuel technologies like LanzaJet’s sustainable aviation fuel
+technology and Enerkem’s waste-to-fuels technology"
 
-Are they unionized? They could push for workplace rules.
-
-Rollling Stone (via Jon Oliver): "There are about 3.5 million truck
-drivers in America, yet trucking companies have long claimed there’s a
-shortage of drivers that threatens to derail — OK, further derail —
-the supply chain. Except, the actual problem isn’t too few truckers,
-it’s too few truckers willing to put up with all the terrible bullshit
-truckers are forced to put up with"
-
----
-
-Subtract imports from GDP (to see locally produced goods with locally
-worked hours), divided total hours worked with it - gives numbers of
-hours worked per unit GDP. Ratio has been decreasing for the past 70
-years.
-
-The reason for that decrease IMO is either technology, or too much
-efficiency is being squeezed out of employees at the expense
-of.. something. Maybe at Amazon you won't be allowed to take a
-bathroom break.
-
-
-```python
-import pandas as pd, datetime
-from pandas_datareader import data
-today = datetime.datetime.now()
-start=datetime.datetime(1945, 1, 1)
-end=datetime.datetime(today.year, today.month, today.day)
-df = data.DataReader(['GDPC1','B4701C0A222NBEA','IMPGS'], 'fred', start, end)
-df = df.interpolate()
-df['hrs_per_dollar'] = df.B4701C0A222NBEA/(df.GDPC1-df.IMPGS)
-print (df['hrs_per_dollar'].tail(4))
-df['hrs_per_dollar'].plot()
-```
-
-```text
-DATE
-2021-01-01    15.413216
-2021-04-01    15.265204
-2021-07-01    15.244684
-2021-10-01    15.118662
-Freq: QS-OCT, Name: hrs_per_dollar, dtype: float64
-```
-
-[Graph](https://pbs.twimg.com/media/FPfMHYJWUAAsACj?format=png&name=small)
+[[-]](https://pipelineonline.ca/suncor-getting-out-of-wind-and-solar-will-shift-focus-to-hydrogen-and-renewable-fuel/#/?playlistId=0&videoId=0)
 
 ---
 
-Data disagrees - see above
+:) A Manchin fan.. I dont see many in my media feed 
 
-"Productivity is stagnant"
-
----
-
-Left Voice: "In a Historic Victory, Staten Island Workers Form the
-First U.S. Amazon Union"
+[[-]](https://twitter.com/JackBones10/status/1510351228571553795)
 
 ---
 
-AMZN, Blue Origin can do some good in space industry.. When are
-they building O'Neill Cylinders?
+Defund the grid. [Pipes over wires](https://pbs.twimg.com/media/EvdKNhvXAAE9Rr2?format=png&name=small).
 
-[[-]](2020/09/space-exploration-goals-colonization.md#oneill)
-
----
-
-AFP: "Amazon has secured deals to launch up to 83 rockets carrying its
-internet satellites into low earth orbit, in what is believed to be
-the largest such procurement in the history of the space industry"
+The Independent: "Storms batter aging power grid as climate disasters
+spread.. Power outages from severe weather have roughly doubled over
+the past two decades across the U.S. as a warming climate stirs more
+destructive storms"
 
 ---
 
-AFP: "Amazon has announced deals with Arianespace, Blue Origin and
-United Launch Alliance to take thousands of satellites into orbit for
-a space internet network called Project Kuiper"
+Dude forget that cos, sin, arccos spherical distance shit,
+`pygeodesy.sphericalNvector` is your friend
 
 ---
 
-😂 
+Keith Mansfield - Blockbuster \#music
 
-"1984: Chlolesterol, and now the bad news..
-
-2014: Eat Butter"
-
-[[-]](https://pbs.twimg.com/media/FPk32mnWQAYJ8oA?format=jpg&name=small)
+[[-]](https://youtu.be/pDIhpSPiYpM)
 
 ---
 
-Leaving a sinking ship?
+Some claim the dimming event triggered seismic changes in history;
+famine displaced people who displaced others, discredited some
+existing religions increased interest for new ones (eg Islam, Mohammed
+was born in 570).
 
-"Jen Psaki to leave White House for MSNBC gig"
+History Channel: "[I]n 536 A.D., much of the world went dark for a
+full 18 months, as a mysterious fog rolled over Europe, the Middle
+East and parts of Asia. The fog blocked the sun during the day,
+causing temperatures to drop, crops to fail and people to die... 
+
+Now, researchers have discovered one of the main sources of that
+fog. The team reported in Antiquity that a volcanic eruption in
+Iceland in early 536 helped spread ash across the Northern Hemisphere,
+creating the fog. Like the 1815 Mount Tambora eruption—the deadliest
+volcanic eruption on record—this eruption was big enough to alter
+global climate patterns, causing years of famine.
+
+What exactly did the first 18 months of darkness look like? The
+Byzantine historian Procopius wrote that 'the sun gave forth its light
+without brightness, like the moon, during this whole year.' He also
+wrote that it seemed like the sun was constantly in eclipse"
+
+[[-]](https://www.history.com/news/536-volcanic-eruption-fog-eclipse-worst-year)
 
 ---
 
-Left Voice: "Greek Railroad Workers Block Delivery of U.S. Tanks to
-Ukraine"
+New Scientist: "In the year 536 the sun dimmed and the world shivered,
+leading to famine, plague and the fall of empires"
 
 ---
 
-Can cause a contagion
+Hey I like this "neomodernism"
 
-CNBC: "Russia debt default prospect resurfaces as U.S. blocks bond
-payment"
+Wiki: "Neomodernists maintain that truth still exists in a universal
+form and directly refute existentialist and postmodern viewpoints that
+the essence of an existent is formed in the observer's
+bias. [N]eomodernism rejects postmodernism as:
+
+Unscientific: the ability of science to generate useful knowledge
+cannot be waved away as "scientism".
+
+Journalism: as not giving any explanation as to how or why things
+happen.
+
+Local: as being unable to recognize patterns that occur across time or
+location.
+
+Unverified: as lacking any validation process, and therefore
+proceeding by fad and hierarchy"
 
 ---
+
+FT: "The UK government says it is ‘unsustainable’ to continue to spend
+£2bn a month on free Covid testing for the general public"
+
+---
+
 
 ## For Members
 
