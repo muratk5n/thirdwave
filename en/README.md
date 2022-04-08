@@ -116,22 +116,13 @@ hydrogen from 4GW of offshore wind farms in the Netherlands"
 
 ---
 
-
-
-
-
-
-
-
-
-
 A city cannot have people living on sidewalks.. If they have rights,
 as a city inhabitant, so do we. And the larger injustices need to be
 addressed I agree. Homes are too expensive thanks to ultra low rates.
 
 ---
 
-Good move.. are they provided housing? If yes, even better.
+Good move.. do they also provide housing? 
 
 "Mayor Adams invokes cleared NYC homeless encampments"
 
