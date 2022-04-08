@@ -113,10 +113,10 @@ hydrogen from 4GW of offshore wind farms in the Netherlands"
 
 ---
 
-Cannot have people living on sidewalks.. If they have rights, as a
-city inhabitant, so do we. And the larger injustices need to be
-addressed I agree. Homes have been too expensive, effecting all prices
-down the line.
+Cannot have people living on sidewalks.. If they have rights, as city
+inhabitants, so do we. And the larger injustices need to be addressed
+I agree. Homes have been too expensive, effecting all prices down the
+line.
 
 ---
 
