@@ -118,7 +118,7 @@ hydrogen from 4GW of offshore wind farms in the Netherlands"
 
 A city cannot have people living on sidewalks.. If they have rights,
 as a city inhabitant, so do we. And the larger injustices need to be
-addressed I agree. Homes are too expensive thanks to ultra low rates.
+addressed I agree. Homes are too expensive bcz ultra low rates.
 
 ---
 
