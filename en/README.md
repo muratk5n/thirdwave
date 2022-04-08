@@ -200,7 +200,7 @@ bases in the South, the real aim is good ol' containment 🤔 ?
 ---
 
 There are so many US bases in SoKo that, at a certain zoom level, it
-blocks the entire country from the view on a map.
+blocks the entire country from view on a map.
 
 [[-]](https://pbs.twimg.com/media/FPuKPElXwAQ53sQ?format=png&name=small)
 
