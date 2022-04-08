@@ -84,7 +84,7 @@ Done.
 
 ---
 
-Ming-boggling.. 
+Mind-boggling.. 
 
 The Mirror: "The sky could be the brightest blue, but in the winter
 months no one in Mongolia’s capital city would be able to tell because
