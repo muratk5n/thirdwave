@@ -1,136 +1,281 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">EHB targets 28,000km of hydrogen pipelines by 2030 <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/energy?src=hash&amp;ref_src=twsrc%5Etfw">#energy</a> <a href="https://twitter.com/hashtag/renewablenergy?src=hash&amp;ref_src=twsrc%5Etfw">#renewablenergy</a><a href="https://t.co/HsAI9evVvQ">https://t.co/HsAI9evVvQ</a></p>&mdash; EnergyNews.biz (@EnergyNews_Biz) <a href="https://twitter.com/EnergyNews_Biz/status/1511617823545729024?ref_src=twsrc%5Etfw">April 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">In Forkliftaction News – German engine maker Deutz has launched their first hydrogen engine, the TCG 7.8 H2. Read the report: <a href="https://t.co/HL2eTIMv6G">https://t.co/HL2eTIMv6G</a><a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> <a href="https://twitter.com/hashtag/Engines?src=hash&amp;ref_src=twsrc%5Etfw">#Engines</a> <a href="https://twitter.com/hashtag/ForkliftactionNews?src=hash&amp;ref_src=twsrc%5Etfw">#ForkliftactionNews</a></p>&mdash; Forkliftaction - FLA (@Forkliftaction) <a href="https://twitter.com/Forkliftaction/status/1434838289371078661?ref_src=twsrc%5Etfw">September 6, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-H2 View: "25GW hydrogen megaproject in Oman gains traction with a
-potential output of 1.8 million tonnes of green hydrogen per year"
+H2 View: "[Woodplc] unveils next generation SMR technology to reduce
+hydrogen production’s carbon intensity The company has said that the
+new SMR technology, applicable for both greenfield and brownfield
+projects, will reduce CAPEX and OPEX for operators while improving the
+environmental footprint and efficiency of new or existing hydrogen
+production assets through integrated pre-combustion carbon capture"
+
+[[-]](https://www.h2-view.com/story/wood-unveils-next-generation-smr-technology-to-reduce-hydrogen-productions-carbon-intensity/)
 
 ---
 
-H2 View: "Scotland will gain a new green hydrogen production project
-with SSE Renewables and Siemens Gamesa Renewable Energy partnering to
-convert 100MW of onshore wind energy into the clean energy carrier"
+"@ArgusMedia
+
+The European Hydrogen Backbone (EHB) initiative has stepped up its
+ambitions for a pan-European hydrogen pipeline network in response to
+EU proposals to boost green hydrogen production and imports"
 
 ---
 
-H2 View: "Revolutionary floating offshore hydrogen production plant
-awarded... [to be] developed by J-DeEP in Scotland"
+"@hazergroupltd
+
+Utilities companies @RWE_AG & @OpenGridEurope have announced a €3.5
+billion investment into Germany’s hydrogen infrastructure, with plans
+to increase its electrolyser capacity to and build a pipeline network"
 
 ---
 
-"@CSIRO
-
-Dr Patrick Hartley, head of our Hydrogen Industry Mission, with Dr
-Alan Finkel @AusGov_OSALET and our @toyota_aus Mirai hydrogen vehicle
-at last week’s arrival in \#Melbourne of the world’s first liquefied
-\#hydrogen carrier, the Suiso Frontier"
-
-[[-]](https://twitter.com/CSIRO/status/1486896827022594052)
+H2 View: "McDermott’s to build green hydrogen production plant spheres
+for Plug Power.. CB&I will be constructing two 500,000-gallon
+double-wall liquid H2 spheres in New York state"
 
 ---
 
-"@AusGov_OSALET [Feb 2022, Alan Finkel]
-
-Good news from the fourth India-Australia Energy Dialogue!
-@AngusTaylorMP and @OfficeOfRKSingh have signed the Letter of Intent
-on New and Renewable Energy Technology. The focus is on ultra low-cost
-\#solar and clean \#hydrogen"
-
-[[-]](https://twitter.com/AusGov_OSALET/status/1493820327750553600)
+H2 View: "IPCC sixth assessment report on climate change highlights
+the vital role hydrogen will have in tackling global warming"
 
 ---
 
-"Suncor getting out of wind and solar; will shift focus to hydrogen and
-renewable fuel..  the Calgary-based company says it still intends to
-be net-zero emissions by 2050, but will accelerate progress towards
-that target by focusing on hydrogen and renewable fuels instead..
-
-[They will replace] coke-fired boilers at its Base Plant oilsands
-project near Fort McMurray, Alta., with lower emission cogeneration
-units, as well as accelerating commercial-scale deployment of carbon
-capture technology...
-
-It also notes it’s partnering with ATCO on a project to build a
-world-scale hydrogen project in Alberta and deploying next-generation
-renewable fuel technologies like LanzaJet’s sustainable aviation fuel
-technology and Enerkem’s waste-to-fuels technology"
-
-[[-]](https://pipelineonline.ca/suncor-getting-out-of-wind-and-solar-will-shift-focus-to-hydrogen-and-renewable-fuel/#/?playlistId=0&videoId=0)
+H2 View: "US Defense Innovation Unit awards Skydweller $14m to
+continue development of hydrogen-powered aircraft"
 
 ---
 
-Defund the grid. [Pipes over wires](https://pbs.twimg.com/media/EvdKNhvXAAE9Rr2?format=png&name=small).
-
-The Independent: "Storms batter aging power grid as climate disasters
-spread.. Power outages from severe weather have roughly doubled over
-the past two decades"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">More than 100 million tonnes of <a href="https://twitter.com/hashtag/GreenHydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#GreenHydrogen</a> will be traded internationally each year by 2050 says <a href="https://twitter.com/IRENA?ref_src=twsrc%5Etfw">@IRENA</a> with Chile, North Africa and Spain would together represent almost 75% of the global pipeline hydrogen trade | via <a href="https://twitter.com/rechargenews?ref_src=twsrc%5Etfw">@rechargenews</a> <a href="https://t.co/5ixjfOXZ2K">https://t.co/5ixjfOXZ2K</a> <a href="https://twitter.com/hashtag/cleanenergy?src=hash&amp;ref_src=twsrc%5Etfw">#cleanenergy</a> <a href="https://t.co/gpsx322j8L">pic.twitter.com/gpsx322j8L</a></p>&mdash; Scott Poulter (@sfpoulter) <a href="https://twitter.com/sfpoulter/status/1511614045488652291?ref_src=twsrc%5Etfw">April 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Dude forget that cos, sin, arccos spherical distance shit,
-`pygeodesy.sphericalNvector` is your friend
+"@ArgusMedia
+
+Australian energy regulators have proposed drafting a change of rules
+governing the gas sector to allow the blending of \#hydrogen.. in gas
+pipeline networks"
+
+[[-]](https://twitter.com/ArgusMedia/status/1509479174867722242)
 
 ---
 
-Some claim the dimming event triggered seismic changes in history;
-famine displaced people who displaced others, discredited some
-existing religions increased interest for new ones (eg Islam, Mohammed
-was born in 570).
+H2 View: "CEO of Raven SR, on their waste-to-hydrogen technology: [W]e
+can take the Chinese take away, process the rice that’s inside of it,
+the cardboard container, the plastic fork or the plastic chopsticks
+that are with it and the little metal container. The whole thing can
+go into our system. I don’t have to separate all that and we take it
+wet, which is really unique. Many processes have to dry it. Many
+processes have to be very selective on their waste, so it gives us
+that ability to work very closely where waste is, whatever that waste
+might be.
 
-History Channel: "[I]n 536 A.D., much of the world went dark for a
-full 18 months, as a mysterious fog rolled over Europe, the Middle
-East and parts of Asia. The fog blocked the sun during the day,
-causing temperatures to drop, crops to fail and people to die... 
-
-Now, researchers have discovered one of the main sources of that
-fog. The team reported in Antiquity that a volcanic eruption in
-Iceland in early 536 helped spread ash across the Northern Hemisphere,
-creating the fog. Like the 1815 Mount Tambora eruption—the deadliest
-volcanic eruption on record—this eruption was big enough to alter
-global climate patterns, causing years of famine.
-
-What exactly did the first 18 months of darkness look like? The
-Byzantine historian Procopius wrote that 'the sun gave forth its light
-without brightness, like the moon, during this whole year.' He also
-wrote that it seemed like the sun was constantly in eclipse"
-
-[[-]](https://www.history.com/news/536-volcanic-eruption-fog-eclipse-worst-year)
+The purpose of this analogy is a perfect example of why Raven SR’s
+technology is making such waves in the industry. Several waste
+products can be taken, including negative wastes such as plastics, and
+be converted into hydrogen"
 
 ---
 
-New Scientist: "In the year 536 the sun dimmed and the world shivered,
-leading to famine, plague and the fall of empires"
+Mongolian gov should encourage converting those coal plants into IGCC,
+or oxy-combustion coal plants which have CCS. Generate clean fuel,
+pipe fuel to homes. Install [H2 ready boilers](https://pbs.twimg.com/media/FPxKxr1X0Ag0WD7?format=jpg&name=small).
+Done. 
 
 ---
 
-Hey I like this "neomodernism"
+Ming-boggling.. Humanity is not doing well
 
-Wiki: "Neomodernists maintain that truth still exists in a universal
-form and directly refute existentialist and postmodern viewpoints that
-the essence of an existent is formed in the observer's
-bias. [N]eomodernism rejects postmodernism as:
-
-Unscientific: the ability of science to generate useful knowledge
-cannot be waved away as "scientism".
-
-Journalism: as not giving any explanation as to how or why things
-happen.
-
-Local: as being unable to recognize patterns that occur across time or
-location.
-
-Unverified: as lacking any validation process, and therefore
-proceeding by fad and hierarchy"
+The Mirror: "The sky could be the brightest blue, but in the winter
+months no one in Mongolia’s capital city would be able to tell because
+of the lingering smog.. In winter, temperatures in the world’s coldest
+capital can plummet to minus 20 and the only way for many people to
+stay warm is to burn raw coal"
 
 ---
 
-FT: "The UK government says it is ‘unsustainable’ to continue to spend
-£2bn a month on free Covid testing for the general public"
+H2 Fuel News: "Leading Indian oil refiners invest in renewable
+hydrogen projects.. The largest oil refiner in India, the Indian Oil
+Corp. Ltd., and a large H2 user have entered into a partnership for
+producing renewable hydrogen with clean energy company ReNew Power and
+Larsen & Toubro Ltd"
 
 ---
 
+H2 Fuel News: "Hyundai subsidiary Supernal plans for hydrogen
+aviation.. The firm has intentions for both H2 aircraft and eVTOL
+craft for use for regional flights"
+
+---
+
+H2 View: "Mitsubishi, Shell to collaborate on generating green
+hydrogen from 4GW of offshore wind farms in the Netherlands"
+
+---
+
+
+
+
+
+
+
+
+
+
+A city cannot have people living on sidewalks.. If they have rights,
+as a city inhabitant, so do we. And the larger injustices need to be
+addressed I agree. Homes are too expensive thanks to ultra low rates.
+
+---
+
+Good move.. are they provided housing? If yes, even better.
+
+"Mayor Adams invokes cleared NYC homeless encampments"
+
+---
+
+Some snippets from recent news; "Germans are arming", "Russians are
+regrouping". Historically when you heard these words it was time to
+run the other way.
+
+---
+
+Japan wanted to buy F-22 but were denied. So they built their own,
+the so-called F-X.
+
+---
+
+F-35 always sounded like a produce-by-commitee, bastardized version of
+a combat airplane. F-22 though more expensive was top notch right (but
+discontinued). An updated F-22 would be a boon but US spending is too
+much on def already. And still no M4A.
+
+---
+
+Business Insider: "The era of unlimited options at the grocery store
+is likely a thing of the past. Have you been to the grocery store
+recently and noticed that one of your regular buys was missing? You're
+not going crazy. The pandemic has caused workforce issues that mean
+it’s more expensive to produce the same amount of goods, and a key
+strategy to deal with that is to reduce the varieties of products
+manufactured"
+
+---
+
+He should be able to control who is allowed into his state. Good
+stunt too.
+
+CNN: "Texas to send busloads of undocumented immigrants to the US
+Capitol, Gov. Greg Abbott says"
+
+---
+
+It has to be tough being a Brit; a lot of the current hotspots are
+there because of your country's past (and current) deeds. Dam.
+
+---
+
+They can't assert shit unless somebody is blowing that wind beneath
+their wings.. His father Haydar came to power thanks to a "BP Coup" as
+in British Petroleum, and recent war gains are due to a nudge from
+them the other "poodle's poodle".
+
+"Aliyev is flying high, sounds like a strong leader with assertive
+policies"
+
+---
+
+
+[Link](https://drive.google.com/uc?export=view&id=1CwjA1jcslEULRm7FS4EAFqex7WOv9sCW)
+
+---
+
+Rules are needed to 'rule' over a distance right; They are good
+internally, but they are *especially* needed to rule over subjects
+externally, at a distance. Rules. If ppl dont follow them, send a
+"double O agent" with a license to kill.
+
+"AUKUS makes ‘unwavering’ pledge to peaceful, rules-based order"
+
+---
+
+IS NoKo animosity partly manfactured to justify the presence of US
+bases in the South, the real aim is good ol' containment 🤔
+
+---
+
+There are so many US bases in SoKo that, at a certain zoom level, it
+blocks the entire country from the view on a map.
+
+[[-]](https://pbs.twimg.com/media/FPuKPElXwAQ53sQ?format=png&name=small)
+
+---
+
+This guy is a win for the 'inner alliance'. Also possibly a reaction
+to over-capitalism; *Squid Game* is not a one off aberation? There
+could be trouble in paradise. Still in general South Korea did well.
+Has famous brands, good inno, a leg-up on clean fuels.
+
+"South Korea's president-elect wants US nuclear bombers, submarines to return"
+
+---
+
+War crime
+
+Politico: "After a period of testing, on this day in 1962, President
+John F. Kennedy gave final approval to.. a massive effort to defoliate
+the forests of Vietnam, Cambodia and Laos with an herbicide known as
+Agent Orange...During the decade of spraying, more than 5 million
+acres of forest and 500,000 acres of crops were heavily damaged or
+destroyed...
+
+Dean Rusk.. had told Kennedy.. that '[t]he use of defoliant does not
+violate any rule of international law concerning the conduct of
+chemical warfare and is an accepted tactic of war. Precedent has been
+established by the British during the emergency in Malaya in their use
+of aircraft for destroying crops by chemical spraying.'
+
+In 1967, 17 Nobel laureates and 5,000 other scientists signed a
+petition asking for the immediate end to the use of herbicides in
+Vietnam. The administration ignored it...
+
+The spraying program led some 3 million Vietnamese to suffer health
+problems caused by exposure to Agent Orange, including a million birth
+defects"
+
+---
+
+US, RU trade \#WION
+
+[[-]](https://youtu.be/joleQTFv0T8?t=458)
+
+---
+
+WSJ: "Zelensky rejected peace offer days before Russian offensive"
+
+[[-]](https://www.rt.com/news/553213-zelensky-scholz-ukraine-peace/)
+
+---
+
+WION: "Hungary: Ready to pay for gas in rubles"
+
+---
+
+I see; 'material' not 'financial'. 
+
+"Russia-Ukraine war: US threatens Beijing with sanctions if it
+provides ‘material support’ to Moscow"
+
+---
+
+Nat King Cole - Lush-Life (Remix by Cee-Lo) \#music
+
+[[-]](https://youtu.be/rBuIySLwIwE)
+
+---
 
 ## For Members
 
