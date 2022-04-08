@@ -71,12 +71,9 @@ go into our system. I don’t have to separate all that and we take it
 wet, which is really unique. Many processes have to dry it. Many
 processes have to be very selective on their waste, so it gives us
 that ability to work very closely where waste is, whatever that waste
-might be.
-
-The purpose of this analogy is a perfect example of why Raven SR’s
-technology is making such waves in the industry. Several waste
-products can be taken, including negative wastes such as plastics, and
-be converted into hydrogen"
+might be.. [This is] why Raven SR’s technology is making such waves in
+the industry. Several waste products can be taken, including negative
+wastes such as plastics, and be converted into hydrogen"
 
 ---
 
