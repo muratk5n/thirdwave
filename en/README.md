@@ -194,8 +194,8 @@ externally, at a distance. Rules. If ppl dont follow them, send a
 
 ---
 
-IS NoKo animosity partly manfactured to justify the presence of US
-bases in the South, the real aim is good ol' containment 🤔
+Is NoKo animosity partly manfactured to justify the presence of US
+bases in the South, the real aim is good ol' containment 🤔 ?
 
 ---
 
