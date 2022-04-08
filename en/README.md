@@ -157,7 +157,8 @@ manufactured"
 
 ---
 
-He should be able to control who is allowed into his state. 
+Governors, local politicians should have a say on who is allowed into
+their states.
 
 CNN: "Texas to send busloads of undocumented immigrants to the US
 Capitol, Gov. Greg Abbott says"
