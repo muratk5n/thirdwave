@@ -157,8 +157,7 @@ manufactured"
 
 ---
 
-He should be able to control who is allowed into his state. And a good
-stunt.
+He should be able to control who is allowed into his state. 
 
 CNN: "Texas to send busloads of undocumented immigrants to the US
 Capitol, Gov. Greg Abbott says"
