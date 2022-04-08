@@ -207,7 +207,7 @@ blocks the entire country from the view on a map.
 ---
 
 This guy is a win for the 'inner alliance'. Also possibly a reaction
-to over-capitalism; *Squid Game* is not a one off aberation? There
+to over-capitalism; *Squid Game* is not a one-off aberation? There
 could be trouble in paradise. Still in general South Korea did well.
 Has famous brands, good inno, a leg-up on clean fuels.
 
