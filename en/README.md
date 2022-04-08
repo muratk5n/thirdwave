@@ -141,7 +141,7 @@ the so-called F-X.
 ---
 
 F-35 always sounded like a produce-by-commitee, bastardized version of
-a combat airplane. F-22 though more expensive was top notch right (but
+a combat airplane. F-22 though more expensive was top notch (but
 discontinued). An updated F-22 would be a boon but US spending is too
 much on def already. And still no M4A.
 
