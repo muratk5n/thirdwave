@@ -258,8 +258,8 @@ WION: "Hungary: Ready to pay for gas in rubles"
 
 I see; 'material' not 'financial'. 
 
-"Russia-Ukraine war: US threatens Beijing with sanctions if it
-provides ‘material support’ to Moscow"
+WION: "US threatens Beijing with sanctions if it provides ‘material
+support’ to Moscow"
 
 ---
 
