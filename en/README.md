@@ -172,8 +172,8 @@ there because of your country's past (and current) deeds. Dam.
 
 They can't assert shit unless somebody is blowing that wind beneath
 their wings.. His father Haydar came to power thanks to a "BP Coup" as
-in British Petroleum, and recent war gains are due to a nudge from
-them the other "poodle's poodle".
+in British Petroleum, and recent war gains are possibly due to a nudge
+from them and the other "poodle's poodle".
 
 "Aliyev is flying high, sounds like a strong leader with assertive
 policies"
