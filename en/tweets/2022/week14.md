@@ -101,8 +101,8 @@ years.
 
 The reason for that decrease IMO is either technology, or too much
 efficiency is being squeezed out of employees at the expense
-of.. something. Maybe at Amazon you won't be allowed to take a
-bathroom break.
+of.. something. Wages? Maybe at Amazon you won't be allowed to take a
+bathroom break?
 
 
 ```python
