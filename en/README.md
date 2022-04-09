@@ -170,8 +170,8 @@ there because of your country's past (and current) deeds. Dam.
 They can't assert shit unless somebody is blowing that wind beneath
 their wings.. That's how you "fly high". Papa Aliyev had come to power
 thanks to a "BP Coup" back in the day, BP as in British Petroleum, and
-recent war gains are possibly due to a nudge from them and the other
-"poodle's poodle".
+recent war gains are possibly due to a nudge from UK again and the
+other "poodle's poodle".
 
 "Aliyev is flying high, sounds like a strong leader with assertive
 policies"
