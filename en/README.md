@@ -126,12 +126,6 @@ Good move.. do they also provide housing?
 
 ---
 
-Some snippets from recent news; "Germans are arming", "Russians are
-regrouping". Historically when you heard these words it was time to
-run the other way.
-
----
-
 Japan wanted to buy F-22 but were denied. So they built their own,
 the so-called F-X.
 
