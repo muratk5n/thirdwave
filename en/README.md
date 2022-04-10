@@ -69,7 +69,7 @@ open borders.
 ---
 
 How are unionizing efforts at Walmart? The Atlantic had an [article](https://www.theatlantic.com/business/archive/2015/06/how-walmart-convinces-its-employees-not-to-unionize/395051/)
-on that in 2015, any changes?
+on that in 2015.
 
 ---
 
