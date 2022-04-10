@@ -118,7 +118,7 @@ the help of people's 2nd, 3rd level choices. It's unlikely but possible.
 
 ---
 
-Mélenchon is at 3rd place, very close to 2nd (Le Pen) \#france \#firstRound
+Leftist Mélenchon is at 3rd place, very close to 2nd (Le Pen) \#france \#firstRound
 
 ---
 
@@ -144,8 +144,8 @@ WION: "China 'accelerating' nuclear programme over US threat"
 
 Covid could be an attack; Look at China, they act like they are under
 siege, have a lockdown in the entire city of Shangai? Why are they not
-quitting zero-covid? No mRNA vax for them? Maybe they don't trust it
-either, suspect bio targeting. It looks like a war.
+quitting zero-covid? No mRNA vax for them? Maybe they don't trust it,
+suspect bio targeting. It looks like a war.
 
 ---
 
