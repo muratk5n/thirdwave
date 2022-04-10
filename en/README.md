@@ -35,7 +35,7 @@ again, will be a greater normalization of Ponzinomics"
 
 ---
 
-Mad skillz \#bird
+Mad Skillz \#bird
 
 [[-]](https://twitter.com/DrChrisCombs/status/1512539769577824257)
 
@@ -108,12 +108,6 @@ The other is the e-battery e-jagoff before cosmetic make-over.
 🤣 
 
 "Peter Thiel Calls Warren Buffett a sociopath"
-
----
-
-Too many f-ing Brits at France 24.. Where are the French people?
-Mostly shitlib hooligan dickwads too, always angling for that cheap RU
-antagonism. Work it 
 
 ---
 
