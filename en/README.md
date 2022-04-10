@@ -73,7 +73,7 @@ on that in 2015, any changes?
 
 ---
 
-BTW, Amazon is not the biggest in retail. Walmart is. 
+BTW, Amazon is not the biggest in retail. Walmart is. 2018 retail sales,
 
 Walmart	$387.66
 
