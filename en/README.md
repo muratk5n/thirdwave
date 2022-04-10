@@ -1,263 +1,190 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">More than 100 million tonnes of <a href="https://twitter.com/hashtag/GreenHydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#GreenHydrogen</a> will be traded internationally each year by 2050 says <a href="https://twitter.com/IRENA?ref_src=twsrc%5Etfw">@IRENA</a> with Chile, North Africa and Spain would together represent almost 75% of the global pipeline hydrogen trade | via <a href="https://twitter.com/rechargenews?ref_src=twsrc%5Etfw">@rechargenews</a> <a href="https://t.co/5ixjfOXZ2K">https://t.co/5ixjfOXZ2K</a> <a href="https://twitter.com/hashtag/cleanenergy?src=hash&amp;ref_src=twsrc%5Etfw">#cleanenergy</a> <a href="https://t.co/gpsx322j8L">pic.twitter.com/gpsx322j8L</a></p>&mdash; Scott Poulter (@sfpoulter) <a href="https://twitter.com/sfpoulter/status/1511614045488652291?ref_src=twsrc%5Etfw">April 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-H2 View: "[Woodplc] unveils next generation SMR technology to reduce
-hydrogen production’s carbon intensity The company has said that the
-new SMR technology, applicable for both greenfield and brownfield
-projects, will reduce CAPEX and OPEX for operators while improving the
-environmental footprint and efficiency of new or existing hydrogen
-production assets through integrated pre-combustion carbon capture"
-
-[[-]](https://www.h2-view.com/story/wood-unveils-next-generation-smr-technology-to-reduce-hydrogen-productions-carbon-intensity/)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The European Hydrogen Backbone (EHB) initiative is a group of European energy infrastructure operators which published a vision paper for a dedicated hydrogen pipeline infrastructure, based on repurposed natural gas pipelines in July 2020. <a href="https://t.co/bcuOiOYUJ7">https://t.co/bcuOiOYUJ7</a>. Read this!! <a href="https://t.co/SLpB2hs9BM">pic.twitter.com/SLpB2hs9BM</a></p>&mdash; Denis Jenkins (@JenkinsDenis) <a href="https://twitter.com/JenkinsDenis/status/1512948187102732297?ref_src=twsrc%5Etfw">April 10, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"@ArgusMedia
-
-The European Hydrogen Backbone (EHB) initiative has stepped up its
-ambitions for a pan-European hydrogen pipeline network in response to
-EU proposals to boost green hydrogen production and imports"
+H2 View: "NuScale Power receives $15m investment to support its
+innovative nuclear technology for clean hydrogen production"
 
 ---
 
-"@hazergroupltd
-
-Utilities companies @RWE_AG & @OpenGridEurope have announced a €3.5
-billion investment into Germany’s hydrogen infrastructure, with plans
-to increase its electrolyser capacity to and build a pipeline network"
+H2 View: "Bloom Energy achieves first international deployment of its
+electrolyser system"
 
 ---
 
-H2 View: "McDermott’s to build green hydrogen production plant spheres
-for Plug Power.. CB&I will be constructing two 500,000-gallon
-double-wall liquid H2 spheres in New York state"
+H2 Fuel News: "A recent report in PV Magazine pointed to a green
+hydrogen economy as Africa’s best opportunity for unity and unity for
+Africa’s best opportunity to become powerful in renewable energy.  The
+report showed that the potential from renewable power is great enough
+that it could possibly help countries throughout the continent to
+overcome the obstacles to using the sustainable resources that are
+abundantly available there"
 
 ---
 
-H2 View: "IPCC sixth assessment report on climate change highlights
-the vital role hydrogen will have in tackling global warming"
+"@concodanomics
+
+There's no innovation in crypto. It's centuries-old ideas painted as
+new ones but with added blockchain fetishism. The end result, yet
+again, will be a greater normalization of Ponzinomics"
 
 ---
 
-H2 View: "US Defense Innovation Unit awards Skydweller $14m to
-continue development of hydrogen-powered aircraft"
+Mad skillz \#bird
+
+[[-]](https://twitter.com/DrChrisCombs/status/1512539769577824257)
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">In Forkliftaction News – German engine maker Deutz has launched their first hydrogen engine, the TCG 7.8 H2. Read the report: <a href="https://t.co/HL2eTIMv6G">https://t.co/HL2eTIMv6G</a><a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> <a href="https://twitter.com/hashtag/Engines?src=hash&amp;ref_src=twsrc%5Etfw">#Engines</a> <a href="https://twitter.com/hashtag/ForkliftactionNews?src=hash&amp;ref_src=twsrc%5Etfw">#ForkliftactionNews</a></p>&mdash; Forkliftaction - FLA (@Forkliftaction) <a href="https://twitter.com/Forkliftaction/status/1434838289371078661?ref_src=twsrc%5Etfw">September 6, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+\#MI7 \#cats
+
+[[-]](https://mobile.twitter.com/alex_wohlrab/status/1512750950330642432)
 
 ---
 
-"@ArgusMedia
+Asking ppl for up and down vote on reprentatives, fine. Asking on
+policy, not fine.
 
-Australian energy regulators have proposed drafting a change of rules
-governing the gas sector to allow the blending of \#hydrogen.. in gas
-pipeline networks"
-
-[[-]](https://twitter.com/ArgusMedia/status/1509479174867722242)
+"In an unusual step, Mexico president asks voters if he should go"
 
 ---
 
-H2 View: "CEO of Raven SR, on their waste-to-hydrogen technology: [W]e
-can take the Chinese take away, process the rice that’s inside of it,
-the cardboard container, the plastic fork or the plastic chopsticks
-that are with it and the little metal container. The whole thing can
-go into our system. I don’t have to separate all that and we take it
-wet, which is really unique. Many processes have to dry it. Many
-processes have to be very selective on their waste, so it gives us
-that ability to work very closely where waste is, whatever that waste
-might be.. [This is] why Raven SR’s technology is making such waves in
-the industry. Several waste products can be taken, including negative
-wastes such as plastics, and be converted into hydrogen"
+Excessive love for immigration, wanting open-borders are likely a
+distorted by-product of rabid liberalism with its focus on
+individuality.. To them the immigrant is expressing his/her
+individuality by choosing to come to a liberal country like US. They
+want to fight for the immigrant just like they fight for people's
+inalinable rights abroad and topple governments in their name (which
+actually benefit oil and weapons producers but hey it's the intent
+that counts). However such free love creates a point of contention
+with tradiotionally left leaning labor as more people increase
+competition for wages. Cesar Chavez, a Hispanic union leader [did not support](2021/03/ship-of-fools.md#chavez)
+open borders.
 
 ---
 
-Mongolian gov should encourage converting those coal plants into IGCC,
-or oxy-combustion coal plants which have CCS. Generate clean fuel,
-pipe fuel to homes. Install [H2 ready boilers](https://pbs.twimg.com/media/FPxKxr1X0Ag0WD7?format=jpg&name=small).
-Done. 
+How are unionizing efforts at Walmart? The Atlantic had an [article](https://www.theatlantic.com/business/archive/2015/06/how-walmart-convinces-its-employees-not-to-unionize/395051/)
+on that in 2015, any changes?
 
 ---
 
-Mind-boggling.. 
+BTW, Amazon is not the biggest in retail. Walmart is. 
 
-The Mirror: "The sky could be the brightest blue, but in the winter
-months no one in Mongolia’s capital city would be able to tell because
-of the lingering smog.. In winter, temperatures in the world’s coldest
-capital can plummet to minus 20 and the only way for many people to
-stay warm is to burn raw coal"
+Walmart	$387.66
 
----
+Amazon.com  $120.93
 
-H2 Fuel News: "Leading Indian oil refiners invest in renewable
-hydrogen projects.. The largest oil refiner in India, the Indian Oil
-Corp. Ltd., and a large H2 user have entered into a partnership for
-producing renewable hydrogen with clean energy company ReNew Power and
-Larsen & Toubro Ltd"
+The Kroger Co. $119.70
 
 ---
 
-H2 Fuel News: "Hyundai subsidiary Supernal plans for hydrogen
-aviation.. The firm has intentions for both H2 aircraft and eVTOL
-craft for use for regional flights"
+Great job. Leadership - it matters. Can't have a headless mob running amok
+dancing on Tiktok hoping for a change.
+
+The Guardian: "‘The revolution is here’: Chris Smalls’ union win sparks
+a movement at other Amazon warehouses"
 
 ---
 
-H2 View: "Mitsubishi, Shell to collaborate on generating green
-hydrogen from 4GW of offshore wind farms in the Netherlands"
+Someone needs to look into that Roth IRA trick Focker pulled off to evade taxes.
+
+People in this Paypal mafia are bizarre self-serving weirdos
 
 ---
 
-Cannot have people living on sidewalks.. If they have rights, as city
-inhabitants, so do we. And the larger injustices need to be addressed
-I agree. Homes have been too expensive, effecting all prices down the
-line.
+Focker always looked like a jagoff apparently.
+
+The other is the e-battery e-jagoff before cosmetic make-over.
+
+[Pic](https://pbs.twimg.com/media/FP_um-IWQAofztK?format=jpg&name=small)
 
 ---
 
-Good move.. do they also provide housing? 
+🤣 
 
-"Mayor Adams invokes cleared NYC homeless encampments"
-
----
-
-Japan wanted to buy F-22 but were denied. So they built their own,
-the so-called F-X.
+"Peter Thiel Calls Warren Buffett a sociopath"
 
 ---
 
-F-35 always sounded like a produce-by-commitee, bastardized version of
-a combat airplane. F-22 though more expensive was top notch (but
-discontinued). An updated F-22 would be a boon but US spending is too
-much on def already. And still no M4A.
+Too many f-ing Brits at France 24.. Where are the French people?
+Mostly shitlib hooligan dickwads too, always angling for that cheap RU
+antagonism. Work it 
 
 ---
 
-Business Insider: "The era of unlimited options at the grocery store
-is likely a thing of the past. Have you been to the grocery store
-recently and noticed that one of your regular buys was missing? You're
-not going crazy. The pandemic has caused workforce issues that mean
-it’s more expensive to produce the same amount of goods, and a key
-strategy to deal with that is to reduce the varieties of products
-manufactured"
+Another advantage of ranked-choice system over the two-round approach;
+TRS cuts off the next round candidates at two. With RCS the third
+candidate close to the second (and the first) might have shot up with
+the help of people's 2nd, 3rd level choices. It's unlikely but possible.
 
 ---
 
-Governors, local politicians should have a say on who is allowed into
-their states.
-
-CNN: "Texas to send busloads of undocumented immigrants to the US
-Capitol, Gov. Greg Abbott says"
+Mélenchon is at 3rd place, very close to 2nd (Le Pen) \#france \#firstRound
 
 ---
 
-It has to be tough being a Brit; a lot of the current hotspots are
-there because of your country's past (and current) deeds. Dam.
+<iframe width="340" src="https://www.youtube.com/embed/n8Kt2p97VGE?start=1410&end=2590" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-They can't assert shit unless somebody is blowing that wind beneath
-their wings.. That's how you "fly high". Papa Aliyev had come to power
-thanks to a "BP Coup" back in the day, BP as in British Petroleum, and
-recent war gains are possibly due to a nudge from UK again and the
-other "poodle's poodle".
-
-"Aliyev is flying high, sounds like a strong leader with assertive
-policies"
+If there was media that went beyond fan-fiction we'd have received
+this info, but sadly objective coverage is AWOL
 
 ---
 
+They might be lulling you into a false sense of security, don't fall
+for it. In the meantime UKR is covering its military losses. 
 
-[Link](https://drive.google.com/uc?export=view&id=1CwjA1jcslEULRm7FS4EAFqex7WOv9sCW)
-
----
-
-Rules are needed to 'rule' over a distance right; They are good
-internally, but they are *especially* needed to rule over subjects
-externally, at a distance. Rules. If ppl dont follow them, send a
-"double O agent" with a license to kill.
-
-"AUKUS makes ‘unwavering’ pledge to peaceful, rules-based order"
+"Kremlin spox has admitted high losses so they must be losing"
 
 ---
 
-Is NoKo animosity partly manfactured to justify the presence of US
-bases in the South, the real aim is good ol' containment 🤔 ?
+WION: "China 'accelerating' nuclear programme over US threat"
 
 ---
 
-There are so many US bases in SoKo that, at a certain zoom level, it
-blocks the entire country from view on a map.
-
-[[-]](https://pbs.twimg.com/media/FPuKPElXwAQ53sQ?format=png&name=small)
-
----
-
-This guy is a win for the 'inner alliance'. Also possibly a reaction
-to over-capitalism; *Squid Game* is not a one-off aberation? There
-could be trouble in paradise. Still in general South Korea did well.
-Has famous brands, good inno, a leg-up on clean fuels.
-
-"South Korea's president-elect wants US nuclear bombers, submarines to return"
+Covid could be an attack; Look at China, they act like they are under
+siege, have a lockdown in the entire city of Shangai? Why are they not
+quitting zero-covid? No mRNA vax for them? Maybe they don't trust it
+either, suspect bio targeting. It looks like a war.
 
 ---
 
-War crime
+2019: India-Russia-China explored alternative to SWIFT payments.
 
-Politico: "After a period of testing, on this day in 1962, President
-John F. Kennedy gave final approval to.. a massive effort to defoliate
-the forests of Vietnam, Cambodia and Laos with an herbicide known as
-Agent Orange...During the decade of spraying, more than 5 million
-acres of forest and 500,000 acres of crops were heavily damaged or
-destroyed...
+2020: Covid.
 
-Dean Rusk.. had told Kennedy.. that '[t]he use of defoliant does not
-violate any rule of international law concerning the conduct of
-chemical warfare and is an accepted tactic of war. Precedent has been
-established by the British during the emergency in Malaya in their use
-of aircraft for destroying crops by chemical spraying.'
-
-In 1967, 17 Nobel laureates and 5,000 other scientists signed a
-petition asking for the immediate end to the use of herbicides in
-Vietnam. The administration ignored it...
-
-The spraying program led some 3 million Vietnamese to suffer health
-problems caused by exposure to Agent Orange, including a million birth
-defects"
+🤔
 
 ---
 
-US, RU trade \#WION
-
-[[-]](https://youtu.be/joleQTFv0T8?t=458)
-
----
-
-WSJ: "Zelensky rejected peace offer days before Russian offensive"
-
-[[-]](https://www.rt.com/news/553213-zelensky-scholz-ukraine-peace/)
+CNBC: "War crime charges won't be enough to deter Putin — even as
+evidence of Russian atrocities mounts"
 
 ---
 
-WION: "Hungary: Ready to pay for gas in rubles"
+New attacks in the ME are likely proxy attacks on US/NATO. As things
+get worse between inners/outers, latest in Ukraine, places could be
+targeted. The more the war lingers on, the more everyone will lose.
 
 ---
 
-I see; 'material' not 'financial'. 
-
-WION: "US threatens Beijing with sanctions if it provides ‘material
-support’ to Moscow"
+"Middle East reeling from historically high food prices"
 
 ---
 
-Nat King Cole - Lush-Life (Remix by Cee-Lo) \#music
+Hopefully no backdoor left in the hardware? Its RU tech after all
 
-[[-]](https://youtu.be/rBuIySLwIwE)
+"Slovakia gives S-300 air defence system to Ukraine"
+
+---
+
+<iframe width="340"  src="https://www.youtube.com/embed/S8A3kv1pIsk?start=381&end=531" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 

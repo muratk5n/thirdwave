@@ -2,9 +2,11 @@
 
 T. Carlson
 
-Chavez led the legendary Delano grape
-strike, which lasted for five years and inspired college students
-across the country to wear 'Boycott Grapes' pins.
+<a name='chavez'/>
+
+Chavez led the legendary Delano grape strike, which lasted for five
+years and inspired college students across the country to wear
+'Boycott Grapes' pins.
 
 Chavez’s signature rallying cry, 'Si, se puede!' ('Yes we can!'),
 became so famous among well-educated liberals that Barack Obama used
@@ -17,8 +19,7 @@ California named after him, more than George Washington. That doesn’t
 include the many Cesar Chavez academic buildings, student centers, and
 at least one college. Cesar Chavez Day is a California state holiday.
 
-Most enduring is Chavez’s 'Si, se puede!' Wherever left-wing
-demonstrators gather, you’ll hear it. It’s most common at
+Most enduring is Chavez’s 'Si, se puede!' [.. is] most common at
 pro-immigration rallies. Several times I’ve seen illegal aliens scream
 it while carrying Mexican flags. Every time, I say a silent prayer of
 thanks that Cesar Chavez is long dead. It would have been torture for

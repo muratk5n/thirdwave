@@ -65,7 +65,7 @@ LCOE
 
 |Source            |Overn Cost ($/KW)   |LCOE ($/MWh)|Reference| 
 |------------------|--------------------|------------|----------|
-|LOHC              |                    |            |[Paper](https://www.hydrogen.energy.gov/pdfs/review19/st001_ahluwalia_2019_o.pdf) |
+|LOHC              | 0.02               |            |[Paper](https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5c551f4c2&appId=PPGMS) |
 |H2 Undergr. Salt  | 35                 |            |[Paper](https://www.hydrogen.energy.gov/pdfs/review19/st001_ahluwalia_2019_o.pdf) |
 |H2 Undergr. LRC   | 51                 |            |[Paper](https://www.hydrogen.energy.gov/pdfs/review19/st001_ahluwalia_2019_o.pdf) |
 |H2 Undergr. Pipes | 386                |            |[Paper](https://www.hydrogen.energy.gov/pdfs/review19/st001_ahluwalia_2019_o.pdf) |
