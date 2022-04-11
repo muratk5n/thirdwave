@@ -30,8 +30,6 @@
 
 [B. Mesquita and Iran](04/mesquita-iran.md)
 
-[Poor Egypt](04/poor-egypt.md)
-
 [Predicting Presidential Elections](04/predicting-presidential-elections.md)
 
 [Prez Prediction, Past Elections, Leave-One-Out Check](04/prez-loo.md)
@@ -41,6 +39,8 @@
 [Rules and More Rules](04/rules-and-more-rules.md)
 
 [Venezuela reaches the final stage of socialism: no toilet paper](04/venezuela-reaches-final-stage-of.md)
+
+[Why Nations Fail](04/why-nations-fail-acemoglu.md)
 
 [H.R. 2048](05/hr-2048.md)
 
