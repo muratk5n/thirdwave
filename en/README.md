@@ -27,14 +27,6 @@ abundantly available there"
 
 ---
 
-"@concodanomics
-
-There's no innovation in crypto. It's centuries-old ideas painted as
-new ones but with added blockchain fetishism. The end result, yet
-again, will be a greater normalization of Ponzinomics"
-
----
-
 Mad Skillz \#bird
 
 [[-]](https://twitter.com/DrChrisCombs/status/1512539769577824257)
