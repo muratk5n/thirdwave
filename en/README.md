@@ -134,7 +134,7 @@ this info, but sadly objective coverage is AWOL
 They might be lulling you into a false sense of security, don't fall
 for it. In the meantime UKR is covering its military losses. 
 
-"Kremlin spox has admitted high losses so they must be losing"
+"Kremlin spox has admitted high casualties so they must be losing"
 
 ---
 
