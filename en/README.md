@@ -56,8 +56,8 @@ policy, not fine.
 
 Excessive love for immigration, wanting open-borders are likely a
 distorted by-product of rabid liberalism with its focus on
-individuality.. To them the immigrant is expressing his/her
-individuality by choosing to come to a liberal country like US. They
+individuality.. To them the immigrant is 'expressing his/her
+individuality' by choosing to emigrate to a liberal country like US. They
 want to fight for the immigrant just like they fight for people's
 inalinable rights abroad and topple governments in their name (which
 actually benefit oil and weapons producers but hey it's the intent
