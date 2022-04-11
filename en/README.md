@@ -46,17 +46,17 @@ policy, not fine.
 
 ---
 
-Excessive love for immigration, wanting open-borders are likely a
-distorted by-product of rabid liberalism with its focus on
+Excessive love for immigration, wanting open-borders is likely a
+deluded by-product of rabid liberalism with its focus on
 individuality.. To them the immigrant is 'expressing his/her
-individuality' by choosing to emigrate to a liberal country like US. They
-want to fight for the immigrant just like they fight for people's
-inalienable rights abroad and topple governments in their name (which
-actually benefit oil and arms manufacturers but hey it's the intent
-that counts). However such free love creates a point of contention
-with traditionally left-leaning labor as more people increase
-competition for wages. Cesar Chavez, a Hispanic union leader [did not support](2021/03/ship-of-fools.md#chavez)
-open borders.
+individuality' by choosing to emigrate to a liberal country like
+US. They want to fight for the immigrant just like they fight for
+people's inalienable rights abroad and topple governments in their
+name (which actually benefit oil and arms manufacturers but hey it's
+the intent that counts). However such free love creates a point of
+contention with traditionally left-leaning labor as more people
+increase competition for wages. Cesar Chavez, a Hispanic union leader
+[did not support](2021/03/ship-of-fools.md#chavez) open borders.
 
 ---
 
