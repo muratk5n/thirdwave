@@ -93,7 +93,7 @@ a movement at other Amazon warehouses"
 
 Someone needs to look into that Roth IRA trick Focker pulled off to evade taxes.
 
-People in this Paypal mafia are bizarre self-serving weirdos
+People in this Paypal mafia are bizarre self-serving weirdos.
 
 ---
 
@@ -168,7 +168,7 @@ targeted. The more the war lingers on, the more everyone will lose.
 
 ---
 
-"Middle East reeling from historically high food prices"
+Al Monitor: "Middle East reeling from historically high food prices"
 
 ---
 
