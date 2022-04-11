@@ -93,8 +93,7 @@ and steeper.
 
 ## Next Elections
 
-Time for Change [model](https://pollyvote.com/en/components/models/hybrid/time-for-change-model/),
-([my post](../../2015/04/predicting-2016-presidential-election.md))
+Time for Change [model](https://pollyvote.com/en/components/models/hybrid/time-for-change-model/).
 
 ```python
 from io import StringIO
