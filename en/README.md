@@ -59,7 +59,7 @@ distorted by-product of rabid liberalism with its focus on
 individuality.. To them the immigrant is 'expressing his/her
 individuality' by choosing to emigrate to a liberal country like US. They
 want to fight for the immigrant just like they fight for people's
-inalinable rights abroad and topple governments in their name (which
+inalienable rights abroad and topple governments in their name (which
 actually benefit oil and weapons producers but hey it's the intent
 that counts). However such free love creates a point of contention
 with tradiotionally left leaning labor as more people increase
