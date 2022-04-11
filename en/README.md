@@ -39,7 +39,7 @@ Mad Skillz \#bird
 
 ---
 
-Asking ppl for up and down vote on reprentatives, fine. Asking on
+Asking ppl for up and down vote on representatives, fine. Asking on
 policy, not fine.
 
 "In an unusual step, Mexico president asks voters if he should go"
