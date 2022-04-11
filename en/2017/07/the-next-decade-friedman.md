@@ -298,6 +298,18 @@ create a force whose population, technological and industrial
 capability, and natural resources would at the very least equal
 America’s, and in all likelihood outstrip them. ...
 
+<a name='three'/>
+
+During the twentieth century, the United States acted three times to
+prevent the kind of Russian-German entente that could unify Eurasia
+and threaten fundamental American interests. In 1917, Russia’s
+separate peace with the Germans turned the tide against the
+Anglo-French in World War I. The U.S.  intervened in World War II,
+supplying the British and especially the Soviets, who bled the
+Wehrmacht and prevented a German takeover of the vast Russian
+territories. In 1944, the United States then invaded Western Europe,
+blocking not only the Germans but the Soviets as well...
+
 The response of the United States to a Russian-German entente must be
 the same during the next ten years as it was in the twentieth
 century. The United States must continue to do everything it can to
