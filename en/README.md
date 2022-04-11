@@ -83,8 +83,7 @@ The Kroger Co. $119.70
 
 ---
 
-Great job. Leadership - it matters. Can't have a headless mob running amok
-dancing on Tiktok hoping for a change.
+Great job. Leadership - it matters. 
 
 The Guardian: "‘The revolution is here’: Chris Smalls’ union win sparks
 a movement at other Amazon warehouses"
