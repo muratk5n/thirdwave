@@ -1,5 +1,8 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Saudi Arabia’s hydrogen strategy to attract around $36B investment <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/energy?src=hash&amp;ref_src=twsrc%5Etfw">#energy</a> <a href="https://twitter.com/hashtag/renewablenergy?src=hash&amp;ref_src=twsrc%5Etfw">#renewablenergy</a><a href="https://t.co/hChGbekuVK">https://t.co/hChGbekuVK</a></p>&mdash; EnergyNews.biz (@EnergyNews_Biz) <a href="https://twitter.com/EnergyNews_Biz/status/1513163573274501130?ref_src=twsrc%5Etfw">April 10, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
