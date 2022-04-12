@@ -111,7 +111,7 @@ market.. Government under pressure after prices climbed by more than
 
 ---
 
-Around 2008 the speculation on real-estate was so excessive, I once
+Around 2006/7 the speculation on real-estate was so excessive, I once
 heard a real-estate reference on a military show, *The Unit*
 (2006-2009). A housewife was talking about "flipping" houses, and was
 actively involved in the market.. This was a show about the life of
