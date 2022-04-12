@@ -112,8 +112,6 @@ increase of 62% over the past 20 years"
 
 ---
 
-Lota demand for houses in CA, heard abt that.. 
-
 "Canada bans foreign homebuyers for two years in effort to cool
 market.. Government under pressure after prices climbed by more than
 20% last year, while rental rates have also been rising"
