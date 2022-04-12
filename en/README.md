@@ -77,8 +77,7 @@ soda and a smile and shut the phuck up.
 ---
 
 The parliament choice on its own is democratic can't deny that. If IK
-uses the event to mobilize supporters and come back stronger, that's
-great too.
+uses the event to mobilize supporters and come back stronger, great.
 
 "Shehbaz Sharif elected as Pakistan’s new prime minister.. Election by
 parliament comes after.. Imran Khan.. lost a vote of no confidence"
