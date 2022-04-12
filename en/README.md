@@ -59,20 +59,11 @@ AU federal election is near. Current gov did some good on H2 econ.
 
 ---
 
-
-
-
-
-
-
-
----
-
 PAK army is too involved in civilian politics. They "talk too much". I
 remember it like yesterday Asia Minor right-wing fascist coup leader
 Evren and theirs Zia ul-Haq shaking hands smiling to the cameras and
 calling eachother brothers. Overly meddling mil types need to get a
-soda and a smile and shut the phuck up.
+soda and a smile and shut the phuck up. Go to your barracks asshole
 
 ---
 
