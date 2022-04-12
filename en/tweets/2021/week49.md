@@ -569,10 +569,6 @@ post goes viral"
 
 ---
 
-*Moonfall*, trailer looks promising.
-
----
-
 Kayrros claims they have satellite based methane monitoring? Checked
 out the site; need to open up ur data. 
 

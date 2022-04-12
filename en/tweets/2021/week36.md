@@ -414,7 +414,3 @@ Powered Drones"
 [Link](https://bit.ly/3yy1uWn )
 
 ---
-
-Trailers *Moonfall*, *Red Notice*, *Mayor of Kingstown* look good.. 
-
----
