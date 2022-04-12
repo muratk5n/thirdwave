@@ -85,7 +85,7 @@ parliament comes after.. Imran Khan.. lost a vote of no confidence"
 
 ---
 
-"Stranger things have happened".. No - I don't think so.
+"Stranger things have happened". Nope.. I don't think so..
 
 ---
 
@@ -112,7 +112,7 @@ increase of 62% over the past 20 years"
 
 ---
 
-Makes sense. Lota demand for houses in CA, been hearing that.. 
+Lota demand for houses in CA, heard abt that.. 
 
 "Canada bans foreign homebuyers for two years in effort to cool
 market.. Government under pressure after prices climbed by more than
@@ -134,11 +134,11 @@ government employees BTW.
 
 Inner/outer bickering is not a mere extension of a "post-WWII order".
 China was on the winning side then (notice the seat at the UNSC), but
-they are now 'the competition'. After the fall of the Berlin Wall
-Russia transitioned into free markets, democracy, yet they still had
-NATO crawling up their ass. No, the reason for the animosity is beyond
-the so-called spread of freedom. Russia could be a bastion of
-democracy tomorrow, they would still not be accepted as an ally.
+they are now the competition. After the fall of the Berlin Wall Russia
+transitioned into free markets, democracy, yet they still had NATO
+crawling up their ass. No the reason for the animosity is beyond the
+so-called spread of freedom. Russia could be a bastion of democracy
+tomorrow, they would still not be accepted as an ally.
 
 ---
 
