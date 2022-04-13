@@ -93,8 +93,8 @@ Mediterranean seagrass"
 
 ---
 
-How about that base in West Africa? Gov says CH want it, *Foreign
-Policy* mag says they are lying. 
+How about that base in West Africa? Gov says CH wants it, *Foreign
+Policy* mag says they are lying.
 
 ---
 
