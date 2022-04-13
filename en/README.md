@@ -86,13 +86,6 @@ WSJ: "U.K.'s Boris Johnson to Be Fined Over Lockdown Parties"
 
 ---
 
-Tourists
-
-WION: "Scientists find sunscreen lotion chemical accumulating in
-Mediterranean seagrass"
-
----
-
 How about that base in West Africa? Gov says CH wants it, *Foreign
 Policy* mag says they are lying.
 
@@ -161,6 +154,13 @@ deeply concerned with the plight of the poor and disenfranchised"
 Afro Celt Sound System - Rise Above It \#music
 
 [[-]](https://youtu.be/Z-rGmgpVBkY)
+
+---
+
+Tourists
+
+WION: "Scientists find sunscreen lotion chemical accumulating in
+Mediterranean seagrass"
 
 ---
 
