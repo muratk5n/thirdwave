@@ -110,13 +110,6 @@ Amel Larrieux - Sweet Misery \#music
 
 ---
 
-
-Afro Celt Sound System - Rise Above It \#music
-
-[[-]](https://youtu.be/Z-rGmgpVBkY)
-
----
-
 *The Losers* (2010) good. They dont make'm like that anymore
 
 ---
@@ -165,9 +158,9 @@ deeply concerned with the plight of the poor and disenfranchised"
 
 ---
 
-Taj Mahal - You're Going To Need Somebody On Your Bond \#music
+Afro Celt Sound System - Rise Above It \#music
 
-[[-]](https://youtu.be/338dJYdoGBU)
+[[-]](https://youtu.be/Z-rGmgpVBkY)
 
 ---
 
