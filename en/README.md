@@ -135,8 +135,8 @@ Politico: "Mélenchon’s far-left voters become France’s reluctant kingmakers
 ---
 
 'Certain section of MSM' keeps harping about "left's major loss" in
-the FR first round. Yet Le Pen (who softened her positions) took 1.1%
-more than Mélenchon but is deemed as 'resurgent'. Gaslighters..
+the FR first round. Yet Le Pen took 1.1% more than Mélenchon but is
+deemed as 'resurgent'. Gaslighters..
 
 ---
 
