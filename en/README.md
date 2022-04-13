@@ -80,7 +80,7 @@ says [listing] its top stock picks"
 
 ---
 
-RULES-BASED ORDER
+RULES BASED ORDER
 
 WSJ: "U.K.'s Boris Johnson to Be Fined Over Lockdown Parties"
 
