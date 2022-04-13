@@ -2,158 +2,172 @@
 
 ---
 
+Pinned Tweet
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Saudi Arabia’s hydrogen strategy to attract around $36B investment <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/energy?src=hash&amp;ref_src=twsrc%5Etfw">#energy</a> <a href="https://twitter.com/hashtag/renewablenergy?src=hash&amp;ref_src=twsrc%5Etfw">#renewablenergy</a><a href="https://t.co/hChGbekuVK">https://t.co/hChGbekuVK</a></p>&mdash; EnergyNews.biz (@EnergyNews_Biz) <a href="https://twitter.com/EnergyNews_Biz/status/1513163573274501130?ref_src=twsrc%5Etfw">April 10, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"@EnergyNews_Biz
-
-KEYOU unveils its first hydrogen-powered vehicles.. wo prototypes were
-shown to demonstrate the technology’s versatility: an 18-ton truck and
-a 12-meter city bus. Both types produce up to 210 kilowatts of
-electricity by converting current diesel engines to hydrogen. The
-company claims 500 kilometers of autonomy with a full tank"
+H2 View: "Swiss hydrogen plant to be fully operational next
+year.. [the] project could be producing 300 tonnes of green hydrogen
+annually in Western Switzerland by 2023. H-Tec Systems and Groupe E
+said they have joined forces to develop the site that will help the
+decarbonisation of freight transportation"
 
 ---
 
-H2 Energy News: "Complete conversion to hydrogen is possible in the
-medium term.. Roland Harings, CEO of Aurubis, Europe’s largest copper
-producer, has devised a contingency plan in the event of a gas
-shortage"
-
-[[-]](https://energynews.biz/complete-conversion-to-hydrogen-is-possible-in-the-medium-term/)
-
----
-
-H2 View: "[With a new] process.. methane pyrolysis is used to produce
-hydrogen. The input is methane (or natural gas)... Rather than CO2,
-the process creates carbon black as a by-product. Unlike CO2, carbon
-black is a solid product and hence easy to capture and use or
-sequester. Carbon black in turn is used to produce the rubber for
-tires amongst other applications, giving it resale value rather than
-being a pure waste product"
+H2 View: "Californian hydrogen truck project being driven forward by
+Michelin and partners... [the] hydrogen-powered regional-haul Class 8
+truck, set to match the performance of a 15-litre diesel truck, is
+currently under development in California as part of a state-supported
+hydrogen mobility project"
 
 ---
 
-H2 Fuel News: "Nevada Air Liquide hydrogen plant to produce fuel from
-garbage gas"
+H2 View: "10GW hydrogen project plans unveiled for Australia.. Dubbed
+Desert Bloom Hydrogen, the $10.75bn 10GW site will be located in the
+North Territory, Australia, and, once at full scale, will produce
+~410,000 metric tonnes of green hydrogen annually with the help of a
+series of modular 2MW hydrogen production units"
 
 ---
 
-H2 View: "Lhyfe and wpd have partnered to develop a large-scale green
-hydrogen production facility which will harness 600MW of wind energy
-to produce the clean energy carrier in Sweden"
+H2 View: "Airbus and Kawasaki Heavy Industries will work together in
+order to develop a hydrogen fuelled ecosystem and build out it supply
+chains into airports"
 
 ---
 
-H2 View: "Elogen and Sarralle have signed a green hydrogen generation
-agreement that will see the clean energy carrier integrated into the
-steel manufacturing sector"
+H2 View: "Infinite Blue Energy (IBE) and Boya Energy [agreed] to build
+and develop a MEG HP1 hydrogen plant...This particular plant is
+expected to produce up to four tonnes per day of green hydrogen to
+meet the expected growth in hydrogen demand for medium and heavy-duty
+transport"
 
 ---
 
-"@EnergyNews_Biz
-
-DOE gives $4M to increase the efficiency of hydrogen-fueled turbines"
-
----
-
-PAK army is too involved in civilian politics. They "talk too much". I
-remember it like yesterday Asia Minor right-wing fascist coup leader
-Evren and theirs Zia ul-Haq shaking hands smiling to the cameras and
-calling eachother brothers. Overly meddling mil types need to get a
-soda and a smile and shut the phuck up. Go to your barracks muckers
+H2 View: "Hydrogène de France (HDF Energy) has acquired a majority
+stake in a NewGen project aiming to be the first industrial project to
+produce green hydrogen in the Caribbean"
 
 ---
 
-The parliament choice on its own is democratic can't deny that. If IK
-uses the event to mobilize supporters and come back stronger, great.
+H2 View: "Two landmark hydrogen carriers are currently being developed
+by Gen2 Energy and Sirius Design & Integration as part of a newly
+inked contract. The duo said they are currently building the
+190-meter-long vessels for the safe and effective transportation of
+hydrogen to countries in Northern Europe.
 
-"Shehbaz Sharif elected as Pakistan’s new prime minister.. Election by
-parliament comes after.. Imran Khan.. lost a vote of no confidence"
-
----
-
-"Stranger things have happened". Nope.. I don't think so..
-
----
-
-That guy almost became Labor Secretary BTW
+Designed to use hydrogen in the propulsion systems of the vessel, the
+ship is expected to leave a minimal carbon footprint and set the stage
+for future hydrogen carrier developments"
 
 ---
 
-😂
-
-"@MorePerfectUS
-
-.. In Long Beach, CA, on Friday workers challenged Starbucks' illegal
-union busting campaign. 'If you hate Starbucks so much, why don’t you
-go somewhere else?'  Schultz shot back"
+H2 View: "Greenko, John Cockerill partner to develop India’s ‘largest’
+green hydrogen electrolyser Gigafactory"
 
 ---
 
-Covid and high home prices likely the cause. Rates have been too low for too long..
+CNBC Pro: "Green hydrogen looks attractive right now, Bernstein
+says [listing] its top stock picks"
 
-"[T]here are 11.2 million RV-owning households in the U.S., an
-increase of 62% over the past 20 years"
-
-[[-]](https://www.rvtravel.com/study-shows-millions-americans-rvs/)
+[[-]](https://www.cnbc.com/2022/04/06/bernsteins-top-stock-picks-as-green-hydrogen-becomes-more-attractive.html)
 
 ---
 
-"Canada bans foreign homebuyers for two years in effort to cool
-market.. Government under pressure after prices climbed by more than
-20% last year, while rental rates have also been rising"
+<iframe width="340" src="https://www.youtube.com/embed/RFHvq-8np1o?start=0&end=289" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-Around 2006/7 the speculation on real-estate was so excessive, I once
-heard a real-estate reference on a military show, *The Unit*
-(2006-2009). A housewife was talking about "flipping" houses, and was
-actively involved in the market.. This was a show about the life of
-government employees BTW.
+RULES-BASED ORDER
+
+WSJ: "U.K.'s Boris Johnson to Be Fined Over Lockdown Parties"
 
 ---
 
-[Link](2017/07/the-next-decade-friedman.md#three)
+Effin tourists
+
+WION: "Scientists find sunscreen lotion chemical accumulating in
+Mediterranean seagrass"
 
 ---
 
-Inner/outer bickering is not a mere extension of a "post-WWII order".
-China was on the winning side then (notice the seat at the UNSC), but
-they are now the competition. After the fall of the Berlin Wall Russia
-transitioned into free markets, democracy, yet they still had NATO
-crawling up their ass. No the reason for the animosity is beyond the
-so-called spread of freedom. Russia could be a bastion of democracy
-tomorrow, they would still not be accepted as an ally.
+How about that base in West Africa? Gov says CH want it, *Foreign
+Policy* mag says they are lying. 
 
 ---
 
-The Times: "Finland and Sweden set to join Nato as soon as summer"
+WION: "Reports claim Chinese companies are looking for 'strategic'
+pieces of land around the world close to US military installations
+including around key sea lanes and straits"
 
 ---
 
-Al Jazeera: "Russia says it struck S-300 systems given to Ukraine by EU state"
+Amel Larrieux - Sweet Misery \#music
+
+[[-]](https://youtu.be/jHtOGgr0j6U)
 
 ---
 
-Democracy Now: "End the Double Standard: U.S. Accuses Russia of War
-Crimes While Continuing to Oppose the ICC"
 
-[[-]](https://www.democracynow.org/2022/4/8/un_removes_russia_human_rights_council)
+Afro Celt Sound System - Rise Above It \#music
 
----
-
-SOTU 2002
+[[-]](https://youtu.be/Z-rGmgpVBkY)
 
 ---
 
-There was a lot of clapping for [that guy](https://drive.google.com/uc?export=view&id=1CsRJd0stQfuMOOfXK0LNiuIQEctNVhuC)
-too, remember him? What happened to his country?
+*The Losers* (2010) good. They dont make'm like that anymore
 
 ---
 
-These people just love clapping.. Festive muthafuckas
+*Moonfall* (2022) sucked.
+
+---
+
+I dont like TRS; proposed changes cld be good. At least ranked-choice
+for Presidency
+
+WSJ: "Marine Le Pen Proposes Overhaul of French Legislative, Electoral
+Systems .. [by] apportioning at least two thirds of Parliament seats
+according to representation rather than using the country’s current
+two-round voting system"
+
+---
+
+This is better
+
+Politico: "Mélenchon’s far-left voters become France’s reluctant kingmakers"
+
+---
+
+'Certain section of MSM' keeps harping about "left's major loss" in
+the FR first round. Yet Le Pen (who softened her positions) took 1.1%
+more than Mélenchon but is deemed as 'resurgent'. Gaslighters..
+
+---
+
+Aha.. Sarko has followers on the right.. working against Le Pen
+
+Politico: "Sarkozy calls on supporters to back Emmanuel Macron"
+
+---
+
+'Integrating into a burning house'. Wow
+
+MLK: "We have fought hard and long for integration.. and I know we
+will win, but I have come to believe that we are integrating into a
+burning house... I’m afraid that even as we integrate, we are walking
+into a place that does not understand that this nation needs to be
+deeply concerned with the plight of the poor and disenfranchised"
+
+[[-]](https://amsterdamnews.com/news/2017/01/12/dr-martin-luther-king-jr-i-fear-i-am-integrating-m/)
+
+---
+
+Taj Mahal - You're Going To Need Somebody On Your Bond \#music
+
+[[-]](https://youtu.be/338dJYdoGBU)
 
 ---
 

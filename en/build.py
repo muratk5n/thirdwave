@@ -6,7 +6,9 @@ if len(sys.argv) < 2:
     
 if sys.argv[1] == 'week':
     my_date = datetime.date.today() # if date is 01/01/2018
+    #my_date = datetime.datetime.strptime('2022-3-22', "%Y-%m-%d")
     year, week_num, day_of_week = my_date.isocalendar()
+    print (my_date)
     print("Week #" + str(week_num) + " of year " + str(year))
 
 if sys.argv[1] == 'years':
