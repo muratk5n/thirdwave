@@ -86,7 +86,7 @@ WSJ: "U.K.'s Boris Johnson to Be Fined Over Lockdown Parties"
 
 ---
 
-Effin tourists
+Tourists
 
 WION: "Scientists find sunscreen lotion chemical accumulating in
 Mediterranean seagrass"
