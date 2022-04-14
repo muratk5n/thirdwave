@@ -18,32 +18,32 @@ def overall_deaths(mon):
    g.columns = ['incidents','deaths']
    return g.sort_values('deaths',ascending=False)
 
-print (overall_deaths(mon=1).head(20))
+print (overall_deaths(mon=2).head(20))
 ```
 
 ```text
-                     incidents  deaths
-country                               
-Nigeria                     54     239
-Burkina Faso                19     231
-Somalia                     39     147
-Syria                       39     129
-DR Congo (Zaire)           129     103
-Mali                        29      88
-Yemen (North Yemen)         80      74
-Myanmar (Burma)             92      60
-Iraq                        11      30
-India                       29      30
-Pakistan                    27      26
-Kenya                        9      22
-Afghanistan                 13      19
-Mexico                     268      18
-Chad                         1      14
-Philippines                 10      13
-Niger                        5      12
-Cameroon                    18      12
-Morocco                      2       4
-Thailand                     3       4
+                          incidents  deaths
+country                                    
+Nigeria                          68     228
+Yemen (North Yemen)              63     154
+DR Congo (Zaire)                 75     134
+Myanmar (Burma)                  99     119
+Ukraine                         139     118
+Mali                             21     115
+Somalia                          39     103
+Burkina Faso                      8      75
+Syria                            73      66
+Iraq                             18      65
+Pakistan                         28      59
+Colombia                          2      23
+Mozambique                       19      23
+Philippines                      14      14
+India                            17      13
+Kenya                             8       8
+Algeria                           1       7
+Central African Republic          6       6
+Cameroon                         15       6
+Russia (Soviet Union)             1       5
 ```
 
 Details for Specific Country

@@ -103,7 +103,7 @@ Amel Larrieux - Sweet Misery \#music
 
 ---
 
-*The Losers* (2010) good. They dont make'm like that anymore
+*The Losers* (2010) good. 
 
 ---
 
