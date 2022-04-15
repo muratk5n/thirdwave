@@ -123,8 +123,8 @@ oxygen atoms they have relative to hydrogen, the most common element"
 
 ---
 
-They cld also be indirectly taking on the he exam obsession,
-cram-school stress situation in SoKo.
+They cld also be indirectly taking on the exam obsession, cram-school
+stress situation in SoKo.
 
 ---
 
