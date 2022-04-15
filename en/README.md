@@ -77,8 +77,8 @@ FUKKED
 Calc assumed known distance between Sun and the Earth, known period of
 revolution, the constant $G$ (already known from experiment, not
 through reworking same equation). Sun's distance, volume could be
-known optically or now through spacecraft having actually traveled
-there. Then calculate mass, divide by volume, obtain density.
+estimated optically or now through spacecraft having actually traveled
+there. We then calculate mass, divide by volume, obtain density.
 
 ---
 
