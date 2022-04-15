@@ -53,8 +53,9 @@ originator, then second, third resale would have no meaning, in
 digital realm. With a real Picasso painting, the connection to the
 originator is through the hard painting itself.
 
-WION: "Crypto entrepreneur re-auctions Jack Dorsey's first tweet NFT
-for 48mn dollars, gets bid for only $280"
+AFP: "NFT of first-ever tweet a dud in online auction. The highest
+offer so far is just shy of $10,000 -- a year after it was bought for
+2.9 million dollars."
 
 ---
 
