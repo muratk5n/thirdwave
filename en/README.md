@@ -100,7 +100,7 @@ disprove the Sun is not plasma?
 
 ---
 
-I see, less dense
+I see, less dense..
 
 "Like gases, plasmas..  are less dense than solids or liquids"
 
