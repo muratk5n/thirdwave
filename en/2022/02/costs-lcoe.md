@@ -71,13 +71,14 @@ LCOE
 |H2 Undergr. Pipes | 386                |            |[Paper](https://www.hydrogen.energy.gov/pdfs/review19/st001_ahluwalia_2019_o.pdf) |
 |PV Solar          | 1327               | 32.78      |[EIA](https://www.eia.gov/outlooks/aeo/assumptions/pdf/table_8.2.pdf),[IEA](https://www.iea.org/reports/projected-costs-of-generating-electricity-2020)
 |Gasoline          |                    | 34.11      |[Link](https://voltaoil.com/what-makes-up-retail-price-for-gasoline)
+|Natgas CLC        | 1652               | 55.0       |[Paper](https://www.sciencedirect.com/science/article/pii/S175058361730693X),[Paper](https://www.researchgate.net/publication/326160300_Techno-Economic_Analysis_of_a_Carbon_Capture_Chemical_Looping_Combustion_Power_Plant)  |
 |Wind, Onshore     | 1718               | 50.0       |[IEA](https://www.iea.org/reports/projected-costs-of-generating-electricity-2020)
 |Nuclear           | 7030               | 53.4       |[Paper](https://link.springer.com/content/pdf/10.1007/s11356-021-18129-3.pdf/)|
 |Wind, Offshore    | 4833               | 88.0       |[EIA](https://www.eia.gov/outlooks/aeo/assumptions/pdf/table_8.2.pdf),[IEA](https://www.iea.org/reports/projected-costs-of-generating-electricity-2020)
 |Biomass           | 4524               | 89.0       |[EIA](https://www.eia.gov/outlooks/aeo/pdf/electricity_generation.pdf)|
 |Coal Wout CCS     | 4074               | 68.64      |[EIA](https://www.eia.gov/outlooks/aeo/assumptions/pdf/table_8.2.pdf)|
 |CSP (100 MW)      | 7895               | 95.0       |[EIA](https://www.eia.gov/outlooks/aeo/assumptions/pdf/table_8.2.pdf),DOE (see above)|
-|Natgas + CCS      |                    | 112        |[EIA](https://www.eia.gov/outlooks/aeo/assumptions/pdf/table_8.2.pdf),[IEA](https://www.iea.org/reports/projected-costs-of-generating-electricity-2020)
+|Natgas + CCS      |                    | 112.0      |[EIA](https://www.eia.gov/outlooks/aeo/assumptions/pdf/table_8.2.pdf),[IEA](https://www.iea.org/reports/projected-costs-of-generating-electricity-2020)
 |Batteries         |                    | 121.84     |[EIA](https://www.eia.gov/outlooks/aeo/pdf/electricity_generation.pdf)|
 |Coal Comb CCS     |                    | 122.7      |[IEAGHG](https://ieaghg.org/docs/General_Docs/Reports/2014-03.pdf)|
 |Coal IGCC CCS     | 3819               | 151.8      |[Doc](https://atb-archive.nrel.gov/electricity/2017/index.html?t=cc&s=cx),[IEAGHG](https://ieaghg.org/docs/General_Docs/Reports/2014-03.pdf)|
