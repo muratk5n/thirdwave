@@ -118,7 +118,7 @@ The Sun is plasma they say
 
 ---
 
-🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 
+[facepalm]
 
 PBS: "[2020] Astronomers still don’t know exactly what the sun is made
 of.. It's not just the true nature of dark matter that eludes them; so
@@ -131,7 +131,7 @@ oxygen atoms they have relative to hydrogen, the most common element"
 
 ---
 
-They cld also be indirectly taking on the he exam obsessed,
+They cld also be indirectly taking on the he exam obsession,
 cram-school stress situation in SoKo.
 
 ---
