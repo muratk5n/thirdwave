@@ -126,7 +126,7 @@ stress situation in SoKo.
 
 ---
 
-'Squid Game' director says series poses questions on competitive
+"'Squid Game' director says series poses questions on competitive
 capitalism, [adds] "I've asked questions like who made this
 competition system in our society, who drives us into a corner"
 
