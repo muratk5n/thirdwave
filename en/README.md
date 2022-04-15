@@ -52,9 +52,9 @@ hydrogen ambition"
 ---
 
 Makes sense; if value of NFT art is its direct connection to the true
-originator, then te second, third resale would have no meaning,
-*especially* in digital realm. With a real Picasso painting, the
-connection to the originator is through the hard painting itself.
+originator, then te second, third resale would have no meaning, in
+digital realm. With a real Picasso painting, the connection to the
+originator is through the hard painting itself.
 
 WION: "Crypto entrepreneur re-auctions Jack Dorsey's first tweet NFT
 for 48mn dollars, gets bid for only $280"
