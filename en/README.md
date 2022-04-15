@@ -8,159 +8,178 @@ Pinned Tweet
 
 ---
 
-H2 View: "Swiss hydrogen plant to be fully operational next
-year.. [the] project could be producing 300 tonnes of green hydrogen
-annually in Western Switzerland by 2023. H-Tec Systems and Groupe E
-said they have joined forces to develop the site that will help the
-decarbonisation of freight transportation"
+Hydrogen Central: "DOE announces $4 million for improving hydrogen
+turbine performance and reducing hydrogen-based energy costs.
+
+The U.S. Department of Energy’s (DOE) Office of Fossil Energy and
+Carbon Management (FECM) announced $4 million in funding to advance
+the development of ceramic-based materials to improve the efficiency
+of hydrogen-fueled turbines that may one day be used in clean power
+plants.
+
+Specifically, this R&D will enable operation at 150 degrees Celsius
+(°C) higher than current CMC technology and 450 °C higher than
+existing nickel-based materials allow, while reducing the amount of
+cooling air required"
 
 ---
 
-H2 View: "Californian hydrogen truck project being driven forward by
-Michelin and partners... [the] hydrogen-powered regional-haul Class 8
-truck, set to match the performance of a 15-litre diesel truck, is
-currently under development in California as part of a state-supported
-hydrogen mobility project"
+Hydrogen Central: "Loop Energy Outperforms Competition to be Selected
+as Tevva Fuel Cell Supplier and Grows European Customer Base"
 
 ---
 
-H2 View: "10GW hydrogen project plans unveiled for Australia.. Dubbed
-Desert Bloom Hydrogen, the $10.75bn 10GW site will be located in the
-North Territory, Australia, and, once at full scale, will produce
-~410,000 metric tonnes of green hydrogen annually with the help of a
-series of modular 2MW hydrogen production units"
+"Shell first customer of hydrogen pipeline at Rotterdam port"
+
+[[-]](https://www.energate-messenger.com/news/221663/shell-becomes-first-customer-for-rotterdam-hydrogen-pipeline)
 
 ---
 
-H2 View: "Airbus and Kawasaki Heavy Industries will work together in
-order to develop a hydrogen fuelled ecosystem and build out it supply
-chains into airports"
+NewAtlas: "[Hyundai] has made a presentation at the Vertical Flight
+Society's H2 Aero workshop to confirm that it's also bringing its
+hydrogen expertise into the aviation world"
 
 ---
 
-H2 View: "Infinite Blue Energy (IBE) and Boya Energy [agreed] to build
-and develop a MEG HP1 hydrogen plant...This particular plant is
-expected to produce up to four tonnes per day of green hydrogen to
-meet the expected growth in hydrogen demand for medium and heavy-duty
-transport"
+"@westaustralian
+
+Andrew Forrest is considering investing in US power stations and
+converting them to run on renewable energy as part of his green
+hydrogen ambition"
+
+[[-]](https://bit.ly/362QGr8)
 
 ---
 
-H2 View: "Hydrogène de France (HDF Energy) has acquired a majority
-stake in a NewGen project aiming to be the first industrial project to
-produce green hydrogen in the Caribbean"
+
+
+
+
+
 
 ---
 
-H2 View: "Two landmark hydrogen carriers are currently being developed
-by Gen2 Energy and Sirius Design & Integration as part of a newly
-inked contract. The duo said they are currently building the
-190-meter-long vessels for the safe and effective transportation of
-hydrogen to countries in Northern Europe.
 
-Designed to use hydrogen in the propulsion systems of the vessel, the
-ship is expected to leave a minimal carbon footprint and set the stage
-for future hydrogen carrier developments"
+That makes sense; if the selling point of these NFTs is its connection
+to the true originator, then te second, third resale would have no
+meaning, *especially* in digital realm. With a real Picasso painting,
+the connection to the originator is through the hard painting itself. 
 
----
-
-H2 View: "Greenko, John Cockerill partner to develop India’s ‘largest’
-green hydrogen electrolyser Gigafactory"
+WION: "Crypto entrepreneur re-auctions Jack Dorsey's first tweet NFT
+for 48mn dollars, gets bid for only $280"
 
 ---
 
-CNBC Pro: "Green hydrogen looks attractive right now, Bernstein
-says [listing] its top stock picks"
-
-[[-]](https://www.cnbc.com/2022/04/06/bernsteins-top-stock-picks-as-green-hydrogen-becomes-more-attractive.html)
+They can experiment on this; take frozen lava pieces, heat them
+up to 5600 and see if they become "plasma".
 
 ---
 
-<iframe width="340" src="https://www.youtube.com/embed/RFHvq-8np1o?start=0&end=289" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Magma goes as high as 1600 C and magma is liquid so we know high temp
+allows liquids. The Sun surface is 5600 C.
 
 ---
 
-RULES-BASED ORDER
-
-WSJ: "U.K.'s Boris Johnson to Be Fined Over Lockdown Parties"
-
----
-
-How about that base in West Africa? Gov says CH wants it, *Foreign
-Policy* mag says they are lying.
+If the Sun is not gaseous a lot of the theories on the Universe are
+FUKKED
 
 ---
 
-WION: "Reports claim Chinese companies are looking for 'strategic'
-pieces of land around the world close to US military installations
-including around key sea lanes and straits"
+Water's density as we know is 1 $g/cm^3$. Sun's estimated density 1.41
+$g/cm^3$ is greater.
+
+The calculation assumed a known distance between Sun and the Earth, a
+known period of revolution, the constant $G$ (already known from
+experiment, not through reworking same equation). Sun's distance,
+volume could be known optically or now through spacecraft having
+actually traveled there. Then calculate mass, divide by volume, obtain
+density. And we saw ain't less dense than solid or liquid. Aw slam!
 
 ---
 
-Amel Larrieux - Sweet Misery \#music
+Oh yeeeaaa
 
-[[-]](https://youtu.be/jHtOGgr0j6U)
-
----
-
-*The Losers* (2010) good. 
+[[-]](2022/04/sun-estimate.md)
 
 ---
 
-*Moonfall* (2022) sucked.
+Then if we can prove Sun is more dense, say than water, do we disprove
+the Sun is not plasma?
 
 ---
 
-I dont like TRS; proposed changes cld be good. At least ranked-choice
-for Presidency
+Note: *Less dense* 
 
-WSJ: "Marine Le Pen Proposes Overhaul of French Legislative, Electoral
-Systems .. [by] apportioning at least two thirds of Parliament seats
-according to representation rather than using the country’s current
-two-round voting system"
+"Like gases, plasmas..  are less dense than solids or liquids"
 
 ---
 
-This is better
-
-Politico: "Mélenchon’s far-left voters become France’s reluctant kingmakers"
+The Sun is plasma they say
 
 ---
 
-'Certain section of MSM' keeps harping about "left's major loss" in
-the FR first round. Yet Le Pen took 1.1% more than Mélenchon but is
-deemed as 'resurgent'. Gaslighters..
+🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 
+
+PBS: "[2020] Astronomers still don’t know exactly what the sun is made
+of.. It's not just the true nature of dark matter that eludes them; so
+does the essence of the stars that speckle the sky and populate the
+many galaxies throughout the cosmos. Surprisingly, no one knows the
+stars' exact chemical composition: how many carbon, nitrogen and
+oxygen atoms they have relative to hydrogen, the most common element"
+
+[[-]](https://www.pbs.org/newshour/amp/science/astronomers-still-dont-know-exactly-what-the-sun-is-made-of)
 
 ---
 
-Aha.. Sarko has followers on the right.. working against Le Pen
-
-Politico: "Sarkozy calls on supporters to back Emmanuel Macron"
-
----
-
-'Integrating into a burning house'. Wow
-
-MLK: "We have fought hard and long for integration.. and I know we
-will win, but I have come to believe that we are integrating into a
-burning house... I’m afraid that even as we integrate, we are walking
-into a place that does not understand that this nation needs to be
-deeply concerned with the plight of the poor and disenfranchised"
-
-[[-]](https://amsterdamnews.com/news/2017/01/12/dr-martin-luther-king-jr-i-fear-i-am-integrating-m/)
+They cld also be indirectly taking on the he exam obsessed,
+cram-school stress situation in SoKo.
 
 ---
 
-Afro Celt Sound System - Rise Above It \#music
-
-[[-]](https://youtu.be/Z-rGmgpVBkY)
+'Squid Game' director says series poses questions on competitive
+capitalism, [adds] "I've asked questions like who made this
+competition system in our society, who drives us into a corner"
 
 ---
 
-Tourists
+What interests are behind this campaign I wonder.. Is BoJo now 'bad
+for business'?
 
-WION: "Scientists find sunscreen lotion chemical accumulating in
-Mediterranean seagrass"
+---
+
+WION: "UK PM Johnson to receive three more fines for lockdown breaching parties"
+
+---
+
+Schroder, Putin, Chirac shooting the shit, it's funny
+
+---
+
+[Link](https://www.nbcnews.com/id/wbna8470933)
+
+---
+
+Neither was Chirac
+
+"Neither Macron nor MLP are antagonistic enough against Putin"
+
+---
+
+"Don’t send weapons to Ukraine, look for rapprochement between NATO,
+Russia after war, says France's Le Pen"
+
+---
+
+CNBC: "After buying cheap Russian oil, India is now setting sights on its coal"
+
+---
+
+The Independent: "Russia has said there will be 'no more talk of a
+nuclear-free Baltic' if Sweden and Finland join Nato"
+
+---
+
+"Russia is jamming GPS satellite signals in Ukraine, US Space Force says"
 
 ---
 
