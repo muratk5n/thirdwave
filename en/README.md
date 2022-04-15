@@ -61,7 +61,7 @@ for 48mn dollars, gets bid for only $280"
 
 ---
 
-Hot molten magma
+Hot molten *magma*
 
 ---
 
