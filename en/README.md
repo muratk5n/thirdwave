@@ -9,13 +9,10 @@ Pinned Tweet
 ---
 
 Hydrogen Central: "DOE announces $4 million for improving hydrogen
-turbine performance and reducing hydrogen-based energy costs.
-
-The U.S. Department of Energy’s (DOE) Office of Fossil Energy and
-Carbon Management (FECM) announced $4 million in funding to advance
-the development of ceramic-based materials to improve the efficiency
-of hydrogen-fueled turbines that may one day be used in clean power
-plants.
+turbine performance and reducing hydrogen-based energy costs.. [DOE
+announced] funding to advance the development of ceramic-based
+materials to improve the efficiency of hydrogen-fueled turbines that
+may one day be used in clean power plants.
 
 Specifically, this R&D will enable operation at 150 degrees Celsius
 (°C) higher than current CMC technology and 450 °C higher than
