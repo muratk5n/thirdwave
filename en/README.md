@@ -106,7 +106,7 @@ I see, less dense..
 
 ---
 
-The sun is plasma they say
+The sun is plasma some say
 
 ---
 
