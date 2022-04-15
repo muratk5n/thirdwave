@@ -1,12 +1,12 @@
 # Sun's Mass and Density 
 
-We are attempting to calculate Sun's mass using only orbital
-information, to find the mass that can cause the orbit known. Using
-the Earth’s orbit [1] and the law of centripetal force, we get that
-the Sun must be gravitationally pulling on the Earth with a force of
-$F=mr(\frac{2\pi}{T})^2$ where m is the mass of the Earth, $r$ the
-radius of the Earth’s orbit and T the time it takes the Earth to go
-around the Sun.
+We are attempting to calculate Sun's mass using few assumptions, ie
+only orbital information - the mass that can cause the orbit we
+observe today. Using the Earth’s orbit [1] and the law of centripetal
+force, we get that the Sun must be gravitationally pulling on the
+Earth with a force of $F=mr(\frac{2\pi}{T})^2$ where m is the mass of
+the Earth, $r$ the radius of the Earth’s orbit and T the time it takes
+the Earth to go around the Sun.
 
 On the other hand, Newton’s law of gravitation states that
 
