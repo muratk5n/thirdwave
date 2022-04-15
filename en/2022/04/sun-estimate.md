@@ -48,8 +48,6 @@ print (M)
 1.9887409506724918e+30
 ```
 
-And in fact $1.988 \cdot 10^{30}$ is the accepted value.
-
 Using Sun's volume, divide the mass with it,
 
 
