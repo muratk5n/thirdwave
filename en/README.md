@@ -142,8 +142,8 @@ competition system in our society, who drives us into a corner"
 
 ---
 
-What interests are behind this campaign I wonder.. Is BoJo now 'bad
-for business'?
+What interests are behind this campaign I wonder.. Is BJ now 'bad for
+business'?
 
 ---
 
