@@ -83,9 +83,8 @@ density.
 
 ---
 
-Water's density as we know is 1 $g/cm^3$. Sun's estimated density 1.41
-$g/cm^3$ is greater. We see it ain't less dense than solid or
-liquid. 
+Water's density is 1 $g/cm^3$. Sun's estimated density 1.41 $g/cm^3$,
+greater. So not less dense than solid or liquid.
 
 ---
 
