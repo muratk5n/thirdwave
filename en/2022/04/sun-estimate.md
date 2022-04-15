@@ -48,7 +48,7 @@ print (M)
 1.9887409506724918e+30
 ```
 
-Using Sun's volume, divide the mass with it,
+Get Sun's volume, divide the mass with it,
 
 
 ```python
