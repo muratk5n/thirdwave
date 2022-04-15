@@ -89,15 +89,18 @@ FUKKED
 
 ---
 
-Water's density as we know is 1 $g/cm^3$. Sun's estimated density 1.41
-$g/cm^3$ is greater.
-
 The calculation assumed a known distance between Sun and the Earth, a
 known period of revolution, the constant $G$ (already known from
 experiment, not through reworking same equation). Sun's distance,
 volume could be known optically or now through spacecraft having
 actually traveled there. Then calculate mass, divide by volume, obtain
-density. And we saw ain't less dense than solid or liquid. Aw slam!
+density.
+
+---
+
+Water's density as we know is 1 $g/cm^3$. Sun's estimated density 1.41
+$g/cm^3$ is greater. We see it ain't less dense than solid or
+liquid. Aw slam!
 
 ---
 
