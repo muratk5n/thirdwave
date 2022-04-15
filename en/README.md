@@ -64,12 +64,12 @@ Hot molten *magma*
 ---
 
 Magma goes as high as 1600 C and is liquid so we know high temp allows
-liquids. The Sun surface is 5600 C. Easy experiment, take frozen lava
+liquids. The sun surface is 5600 C. Easy experiment, take frozen lava
 pieces, heat them up to 5600 and see if they become "plasma".
 
 ---
 
-If the Sun is not gaseous a lot of the theories on the Universe are
+If the sun is not gaseous a lot of the theories on the Universe are
 FUKKED
 
 ---
