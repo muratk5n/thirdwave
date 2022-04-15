@@ -1,4 +1,4 @@
-# Sun's Mass and Density 
+# Sun Mass and Density
 
 We are attempting to calculate Sun's mass using few assumptions, ie
 only orbital information - the mass that can cause the orbit we
