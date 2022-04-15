@@ -51,15 +51,6 @@ hydrogen ambition"
 
 ---
 
-
-
-
-
-
-
----
-
-
 That makes sense; if the selling point of these NFTs is its connection
 to the true originator, then te second, third resale would have no
 meaning, *especially* in digital realm. With a real Picasso painting,
@@ -69,7 +60,6 @@ WION: "Crypto entrepreneur re-auctions Jack Dorsey's first tweet NFT
 for 48mn dollars, gets bid for only $280"
 
 ---
-
 
 Hot molten magma
 
