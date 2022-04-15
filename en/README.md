@@ -48,8 +48,8 @@ hydrogen ambition"
 
 ---
 
-Makes sense; if value of NFT art is its direct connection to the true
-originator, then te second, third resale would have no meaning, in
+Well if value of NFT art is its direct connection to the true
+originator, then second, third resale would have no meaning, in
 digital realm. With a real Picasso painting, the connection to the
 originator is through the hard painting itself.
 
