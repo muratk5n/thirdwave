@@ -40,9 +40,9 @@ hydrogen expertise into the aviation world"
 
 "@westaustralian
 
-Andrew Forrest is considering investing in US power stations and
-converting them to run on renewable energy as part of his green
-hydrogen ambition"
+[Fortescue chairman] Andrew Forrest is considering investing in US
+power stations and converting them to run on renewable energy as part
+of his green hydrogen ambition"
 
 [[-]](https://bit.ly/362QGr8)
 
