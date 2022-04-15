@@ -75,6 +75,10 @@ up to 5600 and see if they become "plasma".
 
 ---
 
+Hot molten magma
+
+---
+
 Magma goes as high as 1600 C and magma is liquid so we know high temp
 allows liquids. The Sun surface is 5600 C.
 
