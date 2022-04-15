@@ -142,16 +142,11 @@ competition system in our society, who drives us into a corner"
 
 ---
 
-What interests are behind this campaign I wonder.. Is BJ now 'bad for
-business'?
-
----
-
 WION: "UK PM Johnson to receive three more fines for lockdown breaching parties"
 
 ---
 
-Schroder, Putin, Chirac shooting the shit, it's funny
+Schroder, Putin, Chirac shooting the shit, hah
 
 ---
 
@@ -165,8 +160,8 @@ Neither was Chirac
 
 ---
 
-"Don’t send weapons to Ukraine, look for rapprochement between NATO,
-Russia after war, says France's Le Pen"
+WION: "Don’t send weapons to Ukraine, look for rapprochement between
+NATO, Russia after war, says France's Le Pen"
 
 ---
 
