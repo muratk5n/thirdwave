@@ -25,9 +25,9 @@ made great progress on its large-scale hydrogen project, that will see
 
 ---
 
-NATO-style.. Then there is no point in giving up on NATO membership
-bcz this is a non-concession "concession". No wonder UKR-RU
-discussions are dead.
+NATO-style.. Then what is the point in giving up NATO membership? This
+sounds like a non-concession concession. No wonder UKR-RU discussions
+are dead.
 
 Reuters: "[Mar 29] Ukraine offers neutrality in exchange for
 NATO-style security guarantees at Russia talks"
