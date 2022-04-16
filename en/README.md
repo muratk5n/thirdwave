@@ -46,7 +46,7 @@ WION: "Desperate Putin may use nuclear weapons, says CIA Chief"
 
 ---
 
-"Rouble trouble". I thought there would be rouble 'rubble'
+"Rouble trouble". I guess no rouble 'rubble'
 
 "Rouble Trouble: Why the New Russian Gas Payment Scheme Matters"
 
