@@ -8,163 +8,49 @@ Pinned Tweet
 
 ---
 
-Hydrogen Central: "DOE announces $4 million for improving hydrogen
-turbine performance and reducing hydrogen-based energy costs.. [DOE
-announced] funding to advance the development of ceramic-based
-materials to improve the efficiency of hydrogen-fueled turbines that
-may one day be used in clean power plants.
-
-Specifically, this R&D will enable operation at 150 degrees Celsius
-(°C) higher than current CMC technology and 450 °C higher than
-existing nickel-based materials allow, while reducing the amount of
-cooling air required"
+H2 View: "Australian hydrogen vehicle manufacturer H2X is looking to
+further advance its innovations, having entered into a partnership
+with KTM Technologies to enhance both the vehicle chassis and
+construction programmes"
 
 ---
 
-Hydrogen Central: "Loop Energy Outperforms Competition to be Selected
-as Tevva Fuel Cell Supplier and Grows European Customer Base"
+H2 View: "Chilean green hydrogen project progresses.. Total Eren has
+made great progress on its large-scale hydrogen project, that will see
+10GW of installed wind capacity and 8GW of electrolysis capacity"
 
 ---
 
-"Shell first customer of hydrogen pipeline at Rotterdam port"
-
-[[-]](https://www.energate-messenger.com/news/221663/shell-becomes-first-customer-for-rotterdam-hydrogen-pipeline)
+<iframe width="340" src="https://www.youtube.com/embed/8Jr0PCU4m7M?start=242&end=466" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-NewAtlas: "[Hyundai] has made a presentation at the Vertical Flight
-Society's H2 Aero workshop to confirm that it's also bringing its
-hydrogen expertise into the aviation world"
+NATO-style.. Then there is no point in giving up on NATO membership
+bcz this is a non-concession "concession". No wonder UKR-RU
+discussions are dead.
+
+Reuters: "[Mar 29] Ukraine offers neutrality in exchange for
+NATO-style security guarantees at Russia talks"
 
 ---
 
-"@westaustralian
-
-[Fortescue chairman] Andrew Forrest is considering investing in US
-power stations and converting them to run on renewable energy as part
-of his green hydrogen ambition"
-
-[[-]](https://bit.ly/362QGr8)
+WION: "More than 4.7 million Ukrainians have fled their country in the
+50 days since Russia invaded, the United Nations said Thursday"
 
 ---
 
-Well if value of NFT art is its direct connection to the true
-originator, then second, third resale would have no meaning, in
-digital realm. With a real Picasso painting, the connection to the
-originator is through the hard painting itself.
+If a 1945 newspaper headline was 'Desperate Harry Truman may use
+nuclear weapons', what would the world's advice to the Japanese be?
 
-AFP: "NFT of first-ever tweet a dud in online auction. The highest
-offer so far is just shy of $10,000 -- a year after it was bought for
-2.9 million dollars."
+WION: "Desperate Putin may use nuclear weapons, says CIA Chief"
 
 ---
 
-Hot molten *magma*
+"Rouble trouble". I thought there would be rouble 'rubble'
 
----
+"Rouble Trouble: Why the New Russian Gas Payment Scheme Matters"
 
-Magma goes as high as 1600 C and is liquid so we know high temp allows
-liquids. The sun surface is 5600 C. Easy experiment, take frozen lava
-pieces, heat them up to 5600 and see if they become "plasma".
-
----
-
-If the sun is not gaseous a lot of the theories on the Universe are
-FUKKED
-
----
-
-Calc assumed known distance between Sun and the Earth, known period of
-revolution, the constant $G$ (already known from experiment, not
-through reworking same equation). Sun's distance, volume could be
-estimated optically or now through spacecraft having actually traveled
-there. We then calculate mass, divide by volume, obtain density.
-
----
-
-Water's density is 1 $g/cm^3$. Sun's estimated density 1.41 $g/cm^3$,
-greater. So not less dense than solid or liquid. 
-
----
-
-Oh yeeeaaa
-
-[[-]](2022/04/sun-estimate.md)
-
----
-
-Then if we can prove the sun is more dense, say than water, do we
-disprove the Sun is not plasma?
-
----
-
-I see, less dense..
-
-"Like gases, plasmas..  are less dense than solids or liquids"
-
----
-
-The sun is plasma some say
-
----
-
-[facepalm]
-
-PBS: "[2020] Astronomers still don’t know exactly what the sun is made
-of.. It's not just the true nature of dark matter that eludes them; so
-does the essence of the stars that speckle the sky and populate the
-many galaxies throughout the cosmos. Surprisingly, no one knows the
-stars' exact chemical composition: how many carbon, nitrogen and
-oxygen atoms they have relative to hydrogen, the most common element"
-
-[[-]](https://www.pbs.org/newshour/amp/science/astronomers-still-dont-know-exactly-what-the-sun-is-made-of)
-
----
-
-They cld also be indirectly taking on the exam obsession, cram-school
-stress situation in SoKo.
-
----
-
-"'Squid Game' director says series poses questions on competitive
-capitalism, [adds] "I've asked questions like who made this
-competition system in our society, who drives us into a corner"
-
----
-
-WION: "UK PM Johnson to receive three more fines for lockdown breaching parties"
-
----
-
-Schroder, Putin, Chirac shooting the shit, hah
-
----
-
-[Link](https://www.nbcnews.com/id/wbna8470933)
-
----
-
-Neither was Chirac
-
-"Neither Macron nor MLP are antagonistic enough against Putin"
-
----
-
-WION: "Don’t send weapons to Ukraine, look for rapprochement between
-NATO, Russia after war, says France's Le Pen"
-
----
-
-CNBC: "After buying cheap Russian oil, India is now setting sights on its coal"
-
----
-
-The Independent: "Russia has said there will be 'no more talk of a
-nuclear-free Baltic' if Sweden and Finland join Nato"
-
----
-
-"Russia is jamming GPS satellite signals in Ukraine, US Space Force says"
+[[-]](https://www.algebris.com/market-views/rouble-trouble-why-the-new-russian-gas-payment-scheme-matters/)
 
 ---
 

@@ -25,7 +25,7 @@ investors to develop different scales of projects (facility,
 community, or commercial).. Inform decisions to pursue projects on an
 economic basis, compared to utility rates.
 
-Overnight cost
+CAPEX / Overnight cost
 
 Overnight cost is the cost of a construction project if no interest
 was incurred during construction, as if the project was completed
@@ -60,25 +60,35 @@ LCOH
 |PV                 | 26.00      |[Paper](https://www.cell.com/cell-reports-physical-science/pdfExtended/S2666-3864(20)30224-1)  |
 |CSP Therm + Ceria  | 42.08      |[Paper](https://www.mdpi.com/1996-1073/12/3/352/pdf-vor)  |
 
-LCOE
+
+Capex and LCOE
 
 
-|Source            |Overn Cost ($/KW)   |LCOE ($/MWh)|Reference| 
-|------------------|--------------------|------------|----------|
-|LOHC              | 0.02               |            |[Paper](https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5c551f4c2&appId=PPGMS) |
-|H2 Undergr. Salt  | 35                 |            |[Paper](https://www.hydrogen.energy.gov/pdfs/review19/st001_ahluwalia_2019_o.pdf) |
-|H2 Undergr. LRC   | 51                 |            |[Paper](https://www.hydrogen.energy.gov/pdfs/review19/st001_ahluwalia_2019_o.pdf) |
-|H2 Undergr. Pipes | 386                |            |[Paper](https://www.hydrogen.energy.gov/pdfs/review19/st001_ahluwalia_2019_o.pdf) |
-|PV Solar          | 1327               | 32.78      |[EIA](https://www.eia.gov/outlooks/aeo/assumptions/pdf/table_8.2.pdf),[IEA](https://www.iea.org/reports/projected-costs-of-generating-electricity-2020)
-|Gasoline          |                    | 34.11      |[Link](https://voltaoil.com/what-makes-up-retail-price-for-gasoline)
-|Natgas CLC        | 1652               | 55.0       |[Paper](https://www.sciencedirect.com/science/article/pii/S175058361730693X),[Paper](https://www.researchgate.net/publication/326160300_Techno-Economic_Analysis_of_a_Carbon_Capture_Chemical_Looping_Combustion_Power_Plant)  |
-|Wind, Onshore     | 1718               | 50.0       |[IEA](https://www.iea.org/reports/projected-costs-of-generating-electricity-2020)
-|Nuclear           | 7030               | 53.4       |[Paper](https://link.springer.com/content/pdf/10.1007/s11356-021-18129-3.pdf/)|
-|Wind, Offshore    | 4833               | 88.0       |[EIA](https://www.eia.gov/outlooks/aeo/assumptions/pdf/table_8.2.pdf),[IEA](https://www.iea.org/reports/projected-costs-of-generating-electricity-2020)
-|Biomass           | 4524               | 89.0       |[EIA](https://www.eia.gov/outlooks/aeo/pdf/electricity_generation.pdf)|
-|Coal Wout CCS     | 4074               | 68.64      |[EIA](https://www.eia.gov/outlooks/aeo/assumptions/pdf/table_8.2.pdf)|
-|CSP (100 MW)      | 7895               | 95.0       |[EIA](https://www.eia.gov/outlooks/aeo/assumptions/pdf/table_8.2.pdf),DOE (see above)|
-|Natgas + CCS      |                    | 112.0      |[EIA](https://www.eia.gov/outlooks/aeo/assumptions/pdf/table_8.2.pdf),[IEA](https://www.iea.org/reports/projected-costs-of-generating-electricity-2020)
-|Batteries         |                    | 121.84     |[EIA](https://www.eia.gov/outlooks/aeo/pdf/electricity_generation.pdf)|
-|Coal Comb CCS     |                    | 122.7      |[IEAGHG](https://ieaghg.org/docs/General_Docs/Reports/2014-03.pdf)|
-|Coal IGCC CCS     | 3819               | 151.8      |[Doc](https://atb-archive.nrel.gov/electricity/2017/index.html?t=cc&s=cx),[IEAGHG](https://ieaghg.org/docs/General_Docs/Reports/2014-03.pdf)|
+|Source               | Capex ($/KW)       |LCOE ($/MWh)|Reference| 
+|---------------------|--------------------|------------|----------|
+|Natgas Plant >200MW  | 500                |            |[Paper](https://www.sciencedirect.com/topics/engineering/natural-gas-combined-cycle) |
+|Natgas Plant Typical | 1044               |            |[Statista](https://www.statista.com/statistics/243707/capital-costs-of-a-typical-us-combined-cycle-power-plant/#:~:text=The%20capital%20expenditure%20of%20a,dollars%20per%20kilowatt%20by%202050.)  |
+|PV Solar             | 1327               | 32.78      |[EIA](https://www.eia.gov/outlooks/aeo/assumptions/pdf/table_8.2.pdf),[IEA](https://www.iea.org/reports/projected-costs-of-generating-electricity-2020)
+|Gasoline             |                    | 34.11      |[Link](https://voltaoil.com/what-makes-up-retail-price-for-gasoline)
+|Natgas CLC           | 1652               | 55.0       |[Paper](https://www.sciencedirect.com/science/article/pii/S175058361730693X),[Paper](https://www.researchgate.net/publication/326160300_Techno-Economic_Analysis_of_a_Carbon_Capture_Chemical_Looping_Combustion_Power_Plant)  |
+|Wind, Onshore        | 1718               | 50.0       |[IEA](https://www.iea.org/reports/projected-costs-of-generating-electricity-2020)
+|Nuclear              | 7030               | 53.4       |[Paper](https://link.springer.com/content/pdf/10.1007/s11356-021-18129-3.pdf/)|
+|Wind, Offshore       | 4833               | 88.0       |[EIA](https://www.eia.gov/outlooks/aeo/assumptions/pdf/table_8.2.pdf),[IEA](https://www.iea.org/reports/projected-costs-of-generating-electricity-2020)
+|Biomass              | 4524               | 89.0       |[EIA](https://www.eia.gov/outlooks/aeo/pdf/electricity_generation.pdf)|
+|Coal Wout CCS        | 4074               | 68.64      |[EIA](https://www.eia.gov/outlooks/aeo/assumptions/pdf/table_8.2.pdf)|
+|CSP (100 MW)         | 7895               | 95.0       |[EIA](https://www.eia.gov/outlooks/aeo/assumptions/pdf/table_8.2.pdf),DOE (see above)|
+|Natgas + CCS         |                    | 112.0      |[EIA](https://www.eia.gov/outlooks/aeo/assumptions/pdf/table_8.2.pdf),[IEA](https://www.iea.org/reports/projected-costs-of-generating-electricity-2020)
+|Coal Comb CCS        |                    | 122.7      |[IEAGHG](https://ieaghg.org/docs/General_Docs/Reports/2014-03.pdf)|
+|Coal IGCC CCS        | 3819               | 151.8      |[Doc](https://atb-archive.nrel.gov/electricity/2017/index.html?t=cc&s=cx),[IEAGHG](https://ieaghg.org/docs/General_Docs/Reports/2014-03.pdf)|
+
+
+
+
+
+|H2 Storage           | Capex ($/KW)       |LCOE ($/MWh)|Reference| 
+|---------------------|--------------------|------------|----------|
+|LOHC                 | 0.02               |            |[Paper](https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5c551f4c2&appId=PPGMS) |
+|H2 Undergr. Salt     | 35                 |            |[Paper](https://www.hydrogen.energy.gov/pdfs/review19/st001_ahluwalia_2019_o.pdf) |
+|H2 Undergr. LRC      | 51                 |            |[Paper](https://www.hydrogen.energy.gov/pdfs/review19/st001_ahluwalia_2019_o.pdf) |
+|H2 Undergr. Pipes    | 386                |            |[Paper](https://www.hydrogen.energy.gov/pdfs/review19/st001_ahluwalia_2019_o.pdf) |
+|Batteries            |                    | 121.84     |[EIA](https://www.eia.gov/outlooks/aeo/pdf/electricity_generation.pdf)|
