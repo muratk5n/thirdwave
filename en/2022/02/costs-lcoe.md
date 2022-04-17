@@ -82,6 +82,7 @@ Capex and LCOE
 |Coal Wout CCS        | 4074               | 68.64      |[EIA](https://www.eia.gov/outlooks/aeo/assumptions/pdf/table_8.2.pdf)|
 |CSP (100 MW)         | 7895               | 95.0       |[EIA](https://www.eia.gov/outlooks/aeo/assumptions/pdf/table_8.2.pdf),DOE (see above)|
 |Natgas + CCS         |                    | 112.0      |[EIA](https://www.eia.gov/outlooks/aeo/assumptions/pdf/table_8.2.pdf),[IEA](https://www.iea.org/reports/projected-costs-of-generating-electricity-2020)
+|Batteries            |                    | 121.84     | [EIA](https://www.eia.gov/outlooks/aeo/pdf/electricity_generation.pdf)  |
 |Coal Comb CCS        |                    | 122.7      |[IEAGHG](https://ieaghg.org/docs/General_Docs/Reports/2014-03.pdf)|
 |Coal IGCC CCS        | 3819               | 151.8      |[Doc](https://atb-archive.nrel.gov/electricity/2017/index.html?t=cc&s=cx),[IEAGHG](https://ieaghg.org/docs/General_Docs/Reports/2014-03.pdf)|
 
