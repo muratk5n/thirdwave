@@ -26,5 +26,5 @@
 
 [Principles of International Politics](03/principles-of-int-politics-mesquita.md)
 
-[Sun's Mass and Density](04/sun-estimate.md)
+[Sun Mass and Density](04/sun-estimate.md)
 
