@@ -66,6 +66,10 @@ Capex and LCOE
 
 |Source               | Capex ($/KW)       |LCOE ($/MWh)|Reference| 
 |---------------------|--------------------|------------|----------|
+|LOHC                 | 0.02               |            |[Paper](https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5c551f4c2&appId=PPGMS) |
+|H2 Undergr. Salt     | 35                 |            |[Paper](https://www.hydrogen.energy.gov/pdfs/review19/st001_ahluwalia_2019_o.pdf) |
+|H2 Undergr. LRC      | 51                 |            |[Paper](https://www.hydrogen.energy.gov/pdfs/review19/st001_ahluwalia_2019_o.pdf) |
+|H2 Undergr. Pipes    | 386                |            |[Paper](https://www.hydrogen.energy.gov/pdfs/review19/st001_ahluwalia_2019_o.pdf) |
 |Natgas Plant >200MW  | 500                |            |[Paper](https://www.sciencedirect.com/topics/engineering/natural-gas-combined-cycle) |
 |Natgas Plant Typical | 1044               |            |[Statista](https://www.statista.com/statistics/243707/capital-costs-of-a-typical-us-combined-cycle-power-plant/#:~:text=The%20capital%20expenditure%20of%20a,dollars%20per%20kilowatt%20by%202050.)  |
 |PV Solar             | 1327               | 32.78      |[EIA](https://www.eia.gov/outlooks/aeo/assumptions/pdf/table_8.2.pdf),[IEA](https://www.iea.org/reports/projected-costs-of-generating-electricity-2020)
@@ -82,13 +86,3 @@ Capex and LCOE
 |Coal IGCC CCS        | 3819               | 151.8      |[Doc](https://atb-archive.nrel.gov/electricity/2017/index.html?t=cc&s=cx),[IEAGHG](https://ieaghg.org/docs/General_Docs/Reports/2014-03.pdf)|
 
 
-
-
-
-|H2 Storage           | Capex ($/KW)       |LCOE ($/MWh)|Reference| 
-|---------------------|--------------------|------------|----------|
-|LOHC                 | 0.02               |            |[Paper](https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5c551f4c2&appId=PPGMS) |
-|H2 Undergr. Salt     | 35                 |            |[Paper](https://www.hydrogen.energy.gov/pdfs/review19/st001_ahluwalia_2019_o.pdf) |
-|H2 Undergr. LRC      | 51                 |            |[Paper](https://www.hydrogen.energy.gov/pdfs/review19/st001_ahluwalia_2019_o.pdf) |
-|H2 Undergr. Pipes    | 386                |            |[Paper](https://www.hydrogen.energy.gov/pdfs/review19/st001_ahluwalia_2019_o.pdf) |
-|Batteries            |                    | 121.84     |[EIA](https://www.eia.gov/outlooks/aeo/pdf/electricity_generation.pdf)|
