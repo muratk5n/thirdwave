@@ -52,5 +52,5 @@
 
 [Culture and Empire](12/culture-and-empire.md)
 
-[Doner is Not Invented in Berlin](12/doner-not-invented-in-berlin.md)
+[Doner is Not Invented in Berlin or Europe](12/doner-not-invented-in-berlin.md)
 

@@ -1,4 +1,4 @@
-# Doner is Not Invented in Berlin
+# Doner is Not Invented in Berlin or Europe
 
 What is this urban legend about Berlin being the birthplace of
 *döner*? This is simply not true. I could not believe my ears when I
