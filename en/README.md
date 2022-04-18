@@ -161,7 +161,7 @@ article, talking about Bretton Woods III.
 
 ---
 
-Flournoy is in there too. War-mongering freak bitch.. They destroyed Libya.
+Flournoy is in there too - war-mongering freak bitch.. They destroyed Libya.
 
 The Lever: "The Defense Industry’s Ukraine Pundits.. To explain the
 crisis, corporate news networks are leaning on hawkish ex-military
