@@ -144,7 +144,7 @@ and much more correlated. It’s scarier"
 
 ---
 
-Did Russkies leav that big fat pile of reserve dough out there so they
+Did Russkies leave that big fat pile of reserve dough out there so they
 could be seized, giving them excuse to demand rouble for gas? Makes
 one wonder.
 
