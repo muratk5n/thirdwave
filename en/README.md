@@ -132,20 +132,18 @@ unicorns"
 
 ---
 
-Pozsar: "The commodities market is much more financialized and
-leveraged today than it was during the 1973 OPEC supply crisis, and
-today’s Russian supply crisis is much bigger, much more broad-based,
-and much more correlated. It’s scarier"
-
----
-
 By CC=1 he means individual commodity prices are going up and down in
 sync.
 
 Pozsar: "Commodity correlations are also at 1, which, to stress, is
 never a good thing. But that’s precisely what happens when the West
 sanctions the single-largest commodity producer of the world, which
-sells virtually everything"
+sells virtually everything..
+
+The commodities market is much more financialized and
+leveraged today than it was during the 1973 OPEC supply crisis, and
+today’s Russian supply crisis is much bigger, much more broad-based,
+and much more correlated. It’s scarier"
 
 ---
 
