@@ -80,9 +80,44 @@ Orcheis malakas
 
 ---
 
-Wow.. A lot of commentary on one word: *tetelestai*
+Lota commentary on one word: *tetelestai*
 
 [[-]](https://www.christianity.com/jesus/death-and-resurrection/last-words/what-was-finished.html)
+
+---
+
+Pozsar: "If we are right, and if this is a “crisis of commodities” – a
+2008 of sorts thematically, if not in terms of size or severity – who
+will provide the backstop?  We see but only one entity: the PBoC!
+Western central banks cannot close the gaping “commodities basis”
+because their respective sovereigns are the ones driving the
+sanctions. They will have to deal with the inflationary impacts of the
+“commodities basis” and try to cool them with rate hikes, but they
+will not be able to provide the outside spreads and won’t be able to
+provide balance sheet to close “Russia-non-Russia” spreads.  Commodity
+traders won’t be able to either. Remember that Glencore rose from the
+ashes of Marc Rich + Co, and with Switzerland along with the
+sanctions, Swiss-based commodity traders will think twice about
+arbitraging the spreads.
+
+But the PBoC [Chinese Central Bank] can…
+
+.. as it banks for a sovereign who can dance to its own tune. To make
+things more complicated, China is probably thinking deep and hard
+about the value of the inside money claims in its FX reserves, now
+that the G7 seized Russia’s...
+
+The Fed and other central banks will be able to provide liquidity
+backstops.. .. but those will be Band-Aid solutions. The true problem
+here is not liquidity per se. Liquidity is just a manifestation of a
+larger problem, which is the Russian-non-Russian commodities basis,
+which only China will be able to close..
+
+From the Bretton Woods era backed by gold bullion, to Bretton Woods II
+backed by inside money (Treasuries with un-hedgeable confiscation
+risks), to Bretton Woods III backed by outside money (gold bullion and
+other commodities).  After this war is over, “money” will never be the
+same again"
 
 ---
 
@@ -95,13 +130,13 @@ unicorns"
 
 Pozsar: "The commodities market is much more financialized and
 leveraged today than it was during the 1973 OPEC supply crisis, and
-today’s Russian supply crisis is much bigger, much more broad -based,
+today’s Russian supply crisis is much bigger, much more broad-based,
 and much more correlated. It’s scarier"
 
 ---
 
-By CC he means individual comm prices are going up and down in
-sync. 
+By CC he means individual commodity prices are going up and down in
+sync.
 
 Pozsar: "Commodity correlations are also at 1, which, to stress, is
 never a good thing. But that’s precisely what happens when the West
