@@ -2,8 +2,6 @@
 
 ---
 
-
-
 SoCalGas: Introducing Angeles Link
 
 <iframe width="340"  src="https://www.youtube.com/embed/tuTnalOdApc?start=36" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -39,7 +37,7 @@ coast"
 
 ---
 
-Energy is expensive; the typical 200MW natural gas plant costs a
+Energy is costly business; the typical 200MW natural gas plant costs a
 cool 100 mil $ according to CAPEX.
 
 [[-]](2022/02/costs-lcoe.md)
