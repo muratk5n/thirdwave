@@ -55,9 +55,8 @@ def trump_approval():
     df['net'] = df['approve'] - df['disapprove']
     return df
 
-def ukr_war_map(dt):
+def fetch_ukr_war_map(dt):
     base = "https://www.understandingwar.org/sites/default/files/DraftUkraineCoT"
-    dt = datetime.datetime(2022,4,16)
     sd = dt.strftime("%B%-d,%Y")
     url = base + sd + ".png"
     outfile = "/tmp/isw-ukr-%d%d%d.png" % (dt.year,dt.month,dt.day)
