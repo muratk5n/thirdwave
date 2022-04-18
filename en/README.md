@@ -95,16 +95,6 @@ Wow.. A lot of commentary on one word: *tetelestai*
 
 ---
 
-It's stange how rough, "public" perception works.. Escalating the war
-in Vietnam, Agent Prange, general war-mongering behaviour is
-associated with Nixon, piece, decisive action, the moon landing with
-Kennedy. Yet these events, their originators are completely the other
-way around. Nixon ended the war in Vietnam, landed a man on the Moon,
-made gutsy calls at home and abroad. Kennedy.. made that one speech on
-the Moon, "we go to the Moon because I'm haahd". 🤨 
-
----
-
 Pozsar: "[I]f you believe that the West can craft sanctions that
 maximize pain for Russia while minimizing financial stability risks
 and price stability risks in the West, you could also believe in
