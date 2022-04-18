@@ -146,7 +146,7 @@ and much more correlated. It’s scarier"
 
 Did Russkies leave that big fat pile of reserve dough out there so they
 could be seized, giving them excuse to demand rouble for gas? Makes
-one wonder.
+u wonder.
 
 Pozsar: "Bretton Woods II was built on inside money [as in
 petrodollar], and its foundations crumbled a week ago when the G7
