@@ -48,6 +48,14 @@ FT: "Planting trees in Scotland will not fix climate change"
 
 ---
 
+FT: "When so many are struggling [in UK], why is it that an estimated
+£15bn worth of means-tested benefits go unclaimed in the UK every
+year?"
+
+[[-]](https://www.ft.com/content/ececde8c-76dc-456d-8b27-6f408ae6f064)
+
+---
+
 \#Twitter
 
 "@SloopJD
@@ -55,14 +63,6 @@ FT: "Planting trees in Scotland will not fix climate change"
 Liberals last week: "Everyone needs to go out and buy a \#Tesla."
 
 Liberals this week: crickets"
-
----
-
-FT: "When so many are struggling [in UK], why is it that an estimated
-£15bn worth of means-tested benefits go unclaimed in the UK every
-year?"
-
-[[-]](https://www.ft.com/content/ececde8c-76dc-456d-8b27-6f408ae6f064)
 
 ---
 
