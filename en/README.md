@@ -171,7 +171,8 @@ officials — without disclosing their current defense industry ties"
 
 ---
 
-[Code](tweets/2022/util.py) to fetch war map from ISW for any date,
+[Code](tweets/2022/util.py) to fetch UKR-RU war map from ISW for a
+given date,
 
 ```python
 import util, datetime
