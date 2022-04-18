@@ -71,8 +71,8 @@ Bourne beating up on 'terrorists'.. After Iraq mishaps, financial
 crisis, there was partial return to normality, some backlash, minor
 Woke - not too bad. It was after Trump ppl really went batshit, 'oh no
 it aint over' kind of realization set it, then we had mega backlash,
-mega Woke. Recent commentary here have mostly been on this last phase.
-We are in it, sadly.
+mega Woke, overcuck. Recent commentary here have mostly been on this
+last phase.  We are in it, sadly.
 
 ---
 
@@ -115,13 +115,7 @@ The Fed and other central banks will be able to provide liquidity
 backstops.. .. but those will be Band-Aid solutions. The true problem
 here is not liquidity per se. Liquidity is just a manifestation of a
 larger problem, which is the Russian-non-Russian commodities basis,
-which only China will be able to close..
-
-From the Bretton Woods era backed by gold bullion, to Bretton Woods II
-backed by inside money (Treasuries with un-hedgeable confiscation
-risks), to Bretton Woods III backed by outside money (gold bullion and
-other commodities).  After this war is over, “money” will never be the
-same again"
+which only China will be able to close"
 
 ---
 
