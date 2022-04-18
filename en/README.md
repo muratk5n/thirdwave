@@ -67,11 +67,11 @@ year?"
 ---
 
 Woke has history.. Post 9/11 there was Jack Bauer, James Blonde,
-Bourne beating up on 'terrorists'.. After Iraq mishaps, crisis, there
-was partial return to normality, some backlash, minor Woke - not too
-bad. It was after Trump ppl really went batshit, 'oh no it aint over'
-kind of realization set it, then we had mega backlash, mega
-Woke. Recent commentary here have mostly been on this last phase.
+Bourne beating up on 'terrorists'.. After Iraq mishaps, financial
+crisis, there was partial return to normality, some backlash, minor
+Woke - not too bad. It was after Trump ppl really went batshit, 'oh no
+it aint over' kind of realization set it, then we had mega backlash,
+mega Woke. Recent commentary here have mostly been on this last phase.
 We are in it, sadly.
 
 ---
