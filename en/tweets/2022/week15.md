@@ -86,7 +86,7 @@ Oh yeeeaaa
 ---
 
 Then if we can prove the sun is more dense, say than water, do we
-disprove the Sun is not plasma?
+sprove the Sun is not plasma?
 
 ---
 
