@@ -154,7 +154,7 @@ seized Russia’s FX reserves"
 
 ---
 
-The Finance Twitter, \#fintwit, is abuzz with this Zoltan Pozsar
+The Finance Twitter, \#fintwit, is abuzz with that Zoltan Pozsar
 article, talking about Bretton Woods III.
 
 [PDF](https://plus2.credit-suisse.com/content/dam/credit-suisse-research/SearchPDF?DocumentID=1191091&DocumentType=NR%20Publication&documentClick=true&AuthRequired=true&tagFormat=PDF)
