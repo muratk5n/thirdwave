@@ -1,16 +1,26 @@
+import requests, urllib.parse, json
+from pandas_datareader import data, wb
+import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
-from pandas_datareader import data, wb
 
-import requests, urllib.parse, json
+def fetch_ukr_war_map(dt):
+    base = "https://www.understandingwar.org/sites/default/files/DraftUkraineCoT"
+    sd = dt.strftime("%B%-d,%Y")
+    url = base + sd + ".png"
+    outfile = "/tmp/isw-ukr-%d%d%d.png" % (dt.year,dt.month,dt.day)
+    import urllib.request as urllib2
+    request = urllib2.Request(url)
+    pic = urllib2.urlopen(request)
+    with open(outfile, 'wb') as localFile:
+        localFile.write(pic.read())        
 
-"""
-Register with Openweathermap site and get a API key, place it
-in a file called .owm under .key directory. For limited use
-it is free.
-"""
 def pollution(lat,lon):
+    """
+    Register with Openweathermap site and get a API key, place it
+    in a file called .owm under .key directory. For limited use
+    it is free.
+    """    
     url = 'http://api.openweathermap.org/data/2.5/air_pollution?'
     weatherapi = open(".key/.owm").read() # your api key goes in that file    
     payload = { 'lat': str(lat), 'lon': str(lon), 'appid': weatherapi }
@@ -54,18 +64,6 @@ def trump_approval():
     df = df.sort_index()
     df['net'] = df['approve'] - df['disapprove']
     return df
-
-def fetch_ukr_war_map(dt):
-    base = "https://www.understandingwar.org/sites/default/files/DraftUkraineCoT"
-    sd = dt.strftime("%B%-d,%Y")
-    url = base + sd + ".png"
-    outfile = "/tmp/isw-ukr-%d%d%d.png" % (dt.year,dt.month,dt.day)
-    import urllib.request as urllib2
-    request = urllib2.Request(url)
-    pic = urllib2.urlopen(request)
-    with open(outfile, 'wb') as localFile:
-        localFile.write(pic.read())        
-
 
 if __name__ == "__main__": 
 
