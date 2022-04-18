@@ -72,7 +72,7 @@ crisis, there was partial return to normality, some backlash, minor
 Woke - not too bad. It was after Trump ppl really went batshit, 'oh no
 it aint over' kind of realization set it, then we had mega backlash,
 mega Woke, overcuck. Recent commentary here have mostly been on this
-last phase.  We are in it, sadly.
+last phase.
 
 ---
 
