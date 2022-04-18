@@ -179,7 +179,7 @@ import util, datetime
 util.fetch_ukr_war_map(datetime.datetime(2022,4,17))
 ```
 
-[[-]](https://pbs.twimg.com/media/FQkUauxWQAct5Cn?format=jpg&name=small)
+[[-]](https://pbs.twimg.com/media/FQnXq6OWQAM9F_A?format=jpg&name=small)
 
 ---
 
