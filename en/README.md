@@ -149,8 +149,9 @@ sells virtually everything"
 
 ---
 
-Russkies clda left that big fat USD cash so they would be seized,
-giving them excuse to demand rouble for gas.
+Did Russkies leav that big fat pile of reserve dough out there so they
+could be seized, giving them excuse to demand rouble for gas? Makes
+one wonder.
 
 Pozsar: "Bretton Woods II was built on inside money [as in
 petrodollar], and its foundations crumbled a week ago when the G7
