@@ -90,8 +90,8 @@ Lota commentary on one word: *tetelestai*
 
 ---
 
-The claim is BW III will create a new commodity based Asian money -
-the new major currency.
+The claim is BW III will create a new commodity based Asian currency -
+replacing the dollar-based system.
 
 Pozsar: "If we are right, and if this is a “crisis of commodities” – a
 2008 of sorts thematically, if not in terms of size or severity – who
