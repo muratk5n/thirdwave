@@ -48,13 +48,6 @@ FT: "Planting trees in Scotland will not fix climate change"
 
 ---
 
-Al Monitor: "Israel to top up shrinking Sea of Galilee with
-desalinated water.. Israel, a leader in making seawater drinkable,
-plans to pump excess output from its desalination plants into the Sea
-of Galilee, depleted by overuse and threatened by climate change"
-
----
-
 \#Twitter
 
 "@SloopJD
