@@ -161,6 +161,8 @@ article, talking about Bretton Woods III.
 
 ---
 
+Flourney is in there too.. War-mongering freak bitch. They destroyed Libya.
+
 The Lever: "The Defense Industry’s Ukraine Pundits.. To explain the
 crisis, corporate news networks are leaning on hawkish ex-military
 officials — without disclosing their current defense industry ties"
