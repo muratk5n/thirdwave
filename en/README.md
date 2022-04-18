@@ -139,7 +139,7 @@ and much more correlated. It’s scarier"
 
 ---
 
-By CC he means individual commodity prices are going up and down in
+By CC=1 he means individual commodity prices are going up and down in
 sync.
 
 Pozsar: "Commodity correlations are also at 1, which, to stress, is
