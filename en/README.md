@@ -144,7 +144,7 @@ sync.
 
 Pozsar: "Commodity correlations are also at 1, which, to stress, is
 never a good thing. But that’s precisely what happens when the West
-sanctions the single -largest commodity producer of the world, which
+sanctions the single-largest commodity producer of the world, which
 sells virtually everything"
 
 ---
