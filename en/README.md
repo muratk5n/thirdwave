@@ -2,55 +2,165 @@
 
 ---
 
-Pinned Tweet
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Saudi Arabia’s hydrogen strategy to attract around $36B investment <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/energy?src=hash&amp;ref_src=twsrc%5Etfw">#energy</a> <a href="https://twitter.com/hashtag/renewablenergy?src=hash&amp;ref_src=twsrc%5Etfw">#renewablenergy</a><a href="https://t.co/hChGbekuVK">https://t.co/hChGbekuVK</a></p>&mdash; EnergyNews.biz (@EnergyNews_Biz) <a href="https://twitter.com/EnergyNews_Biz/status/1513163573274501130?ref_src=twsrc%5Etfw">April 10, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
----
+SoCalGas: Introducing Angeles Link
 
-H2 View: "Australian hydrogen vehicle manufacturer H2X is looking to
-further advance its innovations, having entered into a partnership
-with KTM Technologies to enhance both the vehicle chassis and
-construction programmes"
+<iframe width="340"  src="https://www.youtube.com/embed/tuTnalOdApc?start=36" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-H2 View: "Chilean green hydrogen project progresses.. Total Eren has
-made great progress on its large-scale hydrogen project, that will see
-10GW of installed wind capacity and 8GW of electrolysis capacity"
+H2 Fuel News: "The new [Siemens] production lines for the hydrogen
+electrolyzers are already being constructed. They are being set up on
+2,000 square meters (over 6,500 square feet) of the Berlin location
+and will come with an estimated cost of â‚¬30 million ($33
+million). Production will begin in 2023 at the Huittenstrasse where
+there is already an existing production hall to be converted"
 
 ---
 
-<iframe width="340" src="https://www.youtube.com/embed/8Jr0PCU4m7M?start=238&end=468" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Mi chiamano il fottuto dottore
 
 ---
 
-NATO-style.. Then what was the point of all that 'giving up NATO
-membership' talk? This sounds like a non-concession concession. No
-wonder UKR-RU discussions are dead.
+È molto buono mi piace
 
-Reuters: "[Mar 29] Ukraine offers neutrality in exchange for
-NATO-style security guarantees at Russia talks"
+"Il 99% della rete di Snam è già ‘hydrogen ready’"
 
----
-
-WION: "More than 4.7 million Ukrainians have fled their country in the
-50 days since Russia invaded, the United Nations said Thursday"
+[[-]](https://hydronews.it/il-99-della-rete-di-snam-e-gia-hydrogen-ready/)
 
 ---
 
-If a 1945 newspaper headline was 'Desperate Harry Truman may use
-nuclear weapons', what would the world's advice to the Japanese be?
+If that ship carried H2 (as liquid, or LOHC) nothing wld happen. No
+pollution.
 
-WION: "Desperate Putin may use nuclear weapons, says CIA Chief"
+Al Jazeera: "Ship carrying 750 tonnes of diesel fuel sinks off Tunisia’s
+coast"
 
 ---
 
-"Rouble trouble". Then there will be no rouble 'rubble'
+Energy is expensive; the typical 200MW natural gas plant costs a
+cool 100 mil $ according to CAPEX.
 
-"Rouble Trouble: Why the New Russian Gas Payment Scheme Matters"
+[[-]](2022/02/costs-lcoe.md)
 
-[[-]](https://www.algebris.com/market-views/rouble-trouble-why-the-new-russian-gas-payment-scheme-matters/)
+---
+
+FT: "Planting trees in Scotland will not fix climate change"
+
+---
+
+Al Monitor: "Israel to top up shrinking Sea of Galilee with
+desalinated water.. Israel, a leader in making seawater drinkable,
+plans to pump excess output from its desalination plants into the Sea
+of Galilee, depleted by overuse and threatened by climate change"
+
+---
+
+\#Twitter
+
+"@SloopJD
+
+Liberals last week: "Everyone needs to go out and buy a \#Tesla."
+
+Liberals this week: crickets"
+
+---
+
+FT: "When so many are struggling [in UK], why is it that an estimated
+£15bn worth of means-tested benefits go unclaimed in the UK every
+year?"
+
+[[-]](https://www.ft.com/content/ececde8c-76dc-456d-8b27-6f408ae6f064)
+
+---
+
+Woke has history.. Post 9/11 there was Jack Bauer, James Blonde,
+Bourne beating up on 'terrorists'.. After Iraq mishaps, crisis, there
+was partial return to normality, some backlash, minor Woke - not too
+bad. It was after Trump ppl really went batshit, 'oh no it aint over'
+kind of realization set it, then we had mega backlash, mega
+Woke. Recent commentary here have mostly been on this last phase.
+We are in it, sadly.
+
+---
+
+Orcheis malakas
+
+---
+
+Wow.. A lot of commentary on one word: *tetelestai*
+
+[[-]](https://www.christianity.com/jesus/death-and-resurrection/last-words/what-was-finished.html)
+
+---
+
+It's stange how rough, "public" perception works.. Escalating the war
+in Vietnam, Agent Prange, general war-mongering behaviour is
+associated with Nixon, piece, decisive action, the moon landing with
+Kennedy. Yet these events, their originators are completely the other
+way around. Nixon ended the war in Vietnam, landed a man on the Moon,
+made gutsy calls at home and abroad. Kennedy.. made that one speech on
+the Moon, "we go to the Moon because I'm haahd". 🤨 
+
+---
+
+Pozsar: "[I]f you believe that the West can craft sanctions that
+maximize pain for Russia while minimizing financial stability risks
+and price stability risks in the West, you could also believe in
+unicorns"
+
+---
+
+Pozsar: "The commodities market is much more financialized and
+leveraged today than it was during the 1973 OPEC supply crisis, and
+today’s Russian supply crisis is much bigger, much more broad -based,
+and much more correlated. It’s scarier"
+
+---
+
+By CC he means individual comm prices are going up and down in
+sync. 
+
+Pozsar: "Commodity correlations are also at 1, which, to stress, is
+never a good thing. But that’s precisely what happens when the West
+sanctions the single -largest commodity producer of the world, which
+sells virtually everything"
+
+---
+
+I wonder if Russkies left that big fat USD cash so they would be
+seized, giving them excuse to demand rouble for gas. 
+
+Pozsar: "Bretton Woods II was built on inside money [as in
+petrodollar], and its foundations crumbled a week ago when the G7
+seized Russia’s FX reserves"
+
+---
+
+The Finance Twitter, \#fintwit, is abuzz with this Zoltan Pozsar
+article, talking about Bretton Woods III.
+
+[PDF](https://plus2.credit-suisse.com/content/dam/credit-suisse-research/SearchPDF?DocumentID=1191091&DocumentType=NR%20Publication&documentClick=true&AuthRequired=true&tagFormat=PDF)
+
+---
+
+The Lever: "The Defense Industry’s Ukraine Pundits.. To explain the
+crisis, corporate news networks are leaning on hawkish ex-military
+officials — without disclosing their current defense industry ties"
+
+[[-]](https://www.levernews.com/the-defense-industrys-ukraine-pundits/)
+
+---
+
+[Code](tweets/2022/util.py) to fetch war map from ISW for any date,
+
+```python
+import util, datetime
+util.fetch_ukr_war_map(datetime.datetime(2022,4,16))
+```
+
+[[-]](https://pbs.twimg.com/media/FQkUauxWQAct5Cn?format=jpg&name=small)
 
 ---
 
