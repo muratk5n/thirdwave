@@ -2,6 +2,7 @@ import requests, urllib.parse, json
 from pandas_datareader import data, wb
 import matplotlib.pyplot as plt
 import pandas as pd
+import datetime
 import numpy as np
 
 def fetch_ukr_war_map(dt):
@@ -67,7 +68,12 @@ def trump_approval():
 
 if __name__ == "__main__": 
 
+    '''
     df = biden_approval()
     print (df.net.tail(10))
     df.net.plot()
     plt.show()
+    '''
+
+    fetch_ukr_war_map(datetime.datetime(2022,4,18))
+    

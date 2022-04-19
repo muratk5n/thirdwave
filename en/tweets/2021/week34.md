@@ -408,6 +408,11 @@ its own construction in the third act". Darn. Is it like *Tenet*?
 
 ---
 
+RT gone; try [this](https://web.archive.org/web/20220125181227/https://www.youtube.com/watch?v=MwCsCDGOEyM),
+at 12:09, title is "Keiser Report: Can the system be unrigged? (E1265)"
+
+---
+
 I have to [share](https://youtu.be/MwCsCDGOEyM?t=729) this again..
 
 ---
