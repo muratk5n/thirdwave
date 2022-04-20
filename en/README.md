@@ -76,8 +76,8 @@ speed or greater. Again, simple works; mass, speed, pressure, heat.
 
 Hypersonics can be a big problem for ships.. I dont think a swarm of
 HS can be stopped, they could potentially take out an aircraft carrier
-if attacker knows where they are. With high-res satellite imaging that
-too could be possible.
+if attacker knows where they are. With high-res satellite imaging
+pinpointing a fleet could be possible too.
 
 ---
 
