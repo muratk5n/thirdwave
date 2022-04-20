@@ -108,8 +108,9 @@ Police Interrogations: Last Week Tonight with John Oliver
 ---
 
 Mapping software Leaflet is great, but it needs backend
-connectivity. That spiffy zoom-in/out feature doesn't work by magic..
-It gets additional data as needed from a server to make that happen.
+connectivity. That spiffy dynamic zoom-in feature doesn't work by
+magic..  It gets additional data as needed from a server to make that
+happen.
 
 ---
 
