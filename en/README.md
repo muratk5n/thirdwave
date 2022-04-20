@@ -60,7 +60,7 @@ delivered by SoCalGas today"
 
 ---
 
-Hey it's not like the world needs the extra capacity 🤨
+Hey it's not like the world needs the extra capacity ;|
 
 "[Libya's] National Oil Corporation warns of a ‘painful wave of
 closures’ after forces in the east expanded their blockade of the
@@ -180,24 +180,10 @@ Sky News: "Government expands home buyer’s scheme for thousands of Australians
 
 ---
 
-I still haven't seen *The Batman*. I dont think this character
-deserves this much screen time. It is The Hulk of DC; better in small
-doses and in other characters' movies.
-
----
-
 I bet Moldova dislikes UKR more than they dislike RU. It is Ukraine
 who blocks their path to the sea with a piece of land that should be a
-natural continuation of their country. I'm sure they'd like to take it.
-
----
-
-TDB: "Noam Chomsky Is Right, the U.S. Should Work to Negotiate an End
-to the War in Ukraine"
-
----
-
-"Five 'powerful' missiles hit Lviv as Russia bombards multiple Ukrainian cities"
+natural continuation of their country. I'm sure they'd like to take
+that land.
 
 ---
 

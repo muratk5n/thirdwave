@@ -81,7 +81,7 @@ greater. So not less dense than solid or liquid.
 
 Oh yeeeaaa
 
-[[-]](2022/04/sun-estimate.md)
+[[-]](../../2022/04/sun-estimate.md)
 
 ---
 
@@ -429,7 +429,7 @@ government employees BTW.
 
 ---
 
-[Link](2017/07/the-next-decade-friedman.md#three)
+[Link](../../2017/07/the-next-decade-friedman.md#three)
 
 ---
 
