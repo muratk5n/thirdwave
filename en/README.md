@@ -77,7 +77,8 @@ speed or greater. Again, simple works; mass, speed, pressure, heat.
 Hypersonics can be a big problem for ships.. I dont think a swarm of
 HS can be stopped, they could potentially take out an aircraft carrier
 if attacker knows where they are. With high-res satellite imaging
-pinpointing a fleet could be possible too.
+pinpointing a fleet could be possible too. Then during a war satellites
+become a target. Space Force.
 
 ---
 
@@ -152,7 +153,7 @@ Now I got to the parts where even Strang is hand-waving. Danger zone
 
 ---
 
-That's still about Texas size.. Not bad
+That's still about same as the Texas landmass. Not bad.
 
 "About 90% [of Oz] is classed as uninhabitable [leaving 768,685 km2 of
 habitable land]".
