@@ -115,8 +115,8 @@ happen.
 
 ---
 
-IoT is a foolish new "industry", just like Pokémon Go, 3D TVs, or
-battery-electric cars. Less connectivity is needed not more.  Aim for
+IoT is a foolish new "industry", just like 3D TVs, battery-electric
+cars, or Pokémon Go. Less connectivity is needed not more.  Aim for
 offline, standalone, intermittent.
 
 ---
