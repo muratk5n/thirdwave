@@ -62,9 +62,9 @@ will help replace oil, natural gas and coal"
 
 Hey it's not like the world needs the extra capacity
 
-"[Libya's] National Oil Corporation warns of a ‘painful wave of
-closures’ after forces in the east expanded their blockade of the
-sector"
+Al Jazeera: "[Libya's] National Oil Corporation warns of a ‘painful
+wave of closures’ after forces in the east expanded their blockade of
+the sector"
 
 ---
 
