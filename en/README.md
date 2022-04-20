@@ -20,33 +20,33 @@ delivered by SoCalGas today"
 
 ---
 
-The Brazil-Germany Alliance for Green Hydrogen has launched a new
-Innovation Programme aiming to enhance the hydrogen value chain within
-Brazil and strengthen cooperation between the countries.
+H2 View: 'The Brazil-Germany Alliance for Green Hydrogen has launched
+a new Innovation Programme aiming to enhance the hydrogen value chain
+within Brazil and strengthen cooperation between the countries"
 
 ---
 
-Two hydrogen hubs within Western Australia have received $140m
+H2 View: "Two hydrogen hubs within Western Australia have received $140m
 bipartisan federal support in order to turn the region into a booming
-capital for hydrogen technologies.
+capital for hydrogen technologies"
 
 ---
 
-"German green energy hub central to overcoming European energy
-crisis..[TES Chief Commercial Officer Otto Waterlander: Production]
-will increase to 250 TWh per year and more than five million metric
-tons of hydrogen in a final stage. The green hydrogen will be produced
-using exclusively renewable sources, mainly solar and in several
-cases, wind and/or hydroelectricity.'"
+H2 View: "German green energy hub central to overcoming European
+energy crisis..[TES Chief Commercial Officer Otto Waterlander:
+Production] will increase to 250 TWh per year and more than five
+million metric tons of hydrogen in a final stage. The green hydrogen
+will be produced using exclusively renewable sources, mainly solar and
+in several cases, wind and/or hydroelectricity.'"
 
 ---
 
-"Morocco seeks to establish a gas infrastructure worthy of the 21st
-century, said minister.. Leïla Benali... Morocco is also called upon
-to become a leader in competitive hydrogen, said Ms. Benali, stressing
-the importance of the gas infrastructure of the 21st century “which
-can allow us to mix hydrogen like the countries which mix in existing
-gas pipelines 30 pc of hydrogen.”
+H2 View: "Morocco seeks to establish a gas infrastructure worthy of
+the 21st century, said minister.. Leïla Benali... Morocco is also
+called upon to become a leader in competitive hydrogen, said
+Ms. Benali, stressing the importance of the gas infrastructure of the
+21st century “which can allow us to mix hydrogen like the countries
+which mix in existing gas pipelines 30 pc of hydrogen.”
 
 ---
 
@@ -60,7 +60,7 @@ will help replace oil, natural gas and coal"
 
 ---
 
-Hey it's not like the world needs the extra capacity ;|
+Hey it's not like the world needs the extra capacity
 
 "[Libya's] National Oil Corporation warns of a ‘painful wave of
 closures’ after forces in the east expanded their blockade of the
