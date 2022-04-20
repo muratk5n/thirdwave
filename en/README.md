@@ -101,9 +101,9 @@ I hear there are some engine issues though..
 
 ---
 
-J-20 is CH next-gen combat fighter plane. I dont think J-20 can take
-on F-35s, certainly F-22s one-on-one, but I believe they designed this
-thing with "a certain mission" in mind. It has long range. 
+J-20 is CH next-gen combat fighter plane. I dont think it can take on
+F-35s, esp F-22s one-on-one, but I believe they designed this
+thing with "a certain mission" in mind. It has long range.
 
 ---
 
@@ -162,8 +162,8 @@ Now I got to the parts where even Strang is hand-waving. Danger zone
 
 ---
 
-Oz economist Saul Eslake: "Schemes that allow people to pay more for
-housing than they otherwise would, will result in more expensive
+Oz Economist Saul Eslake \#ABC: "Schemes that allow people to pay more
+for housing than they otherwise would, will result in more expensive
 housing, rather than more people owning housing. I dont think it's any
 coincidence home ownership rate has been declining ever since the
 first census after the first homeowner's grant was introduced by the
