@@ -79,8 +79,7 @@ Hypersonics can be a big problem for ships.. I dont think a swarm of
 HS can be stopped, they could potentially take out an aircraft carrier
 if attacker knows where they are. With high-res satellite imaging
 pinpointing a fleet could be possible too. Then during a war
-satellites become a target. Enter Space Force. Action-Reaction; it
-goes on and on.
+satellites become a target. Enter Space Force. It goes on and on.
 
 ---
 
