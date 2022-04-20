@@ -70,7 +70,8 @@ the sector"
 
 Some versions of HS missiles dont even have explosives - just sheer
 kinetic energy; a mass of metal crushing into something else at Mach 5
-speed or greater. Again, simple works; mass, speed, pressure, heat.
+speed or greater. Simple, fundamental works; mass, speed, pressure,
+heat.
 
 ---
 
