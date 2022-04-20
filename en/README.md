@@ -145,9 +145,8 @@ lockdown of Shanghai"
 
 "Yemen’s Houthis Went From Ragtag Militia to Force Threatening Gulf
 Powers.. Iran’s cultivation of the Houthis over the years of war in
-Yemen has armed them with missiles and drones, endangering
-Washington’s partners and Tehran’s rivals, Saudi Arabia and the United
-Arab Emirates"
+Yemen has armed them with missiles and drones, endangering.. Saudi
+Arabia and the United Arab Emirates"
 
 ---
 
