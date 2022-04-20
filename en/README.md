@@ -178,13 +178,6 @@ Sky News: "Government expands home buyer’s scheme for thousands of Australians
 
 ---
 
-I bet Moldova dislikes UKR more than they dislike RU. It is Ukraine
-who blocks their path to the sea with a piece of land that should be a
-natural continuation of their country. I'm sure they'd like to take
-that land.
-
----
-
 ## For Members
 
 [Link](https://thirdwave-members.herokuapp.com)
