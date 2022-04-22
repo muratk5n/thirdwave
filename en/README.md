@@ -8,9 +8,9 @@ Pinned Tweet
 
 ---
 
-H2 View: "Denmark’s green logistics hub situated in Fredericia is to
-be expanded by Everfuel and Taulov Dry Port to become the country’s
-largest hydrogen station"
+H2 View: "Denmark’s green logistics hub [Fredericia] is to be expanded
+by Everfuel and Taulov Dry Port to become the country’s largest
+hydrogen station"
 
 ---
 
