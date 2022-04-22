@@ -39,9 +39,13 @@ India Times: "Dung power: India taps new energy cash cow"
 
 ---
 
-Cow dung! Nice... They are producing synthetic natgas? Methane can
-leak from that. H2 would be better. I'd look up Raven SR Inc - awesome
-tech. Egypt is building 1 GW waste-to-h2 plant.
+They are producing synthetic natgas? Methane can leak from that. H2
+would be better. I'd look up Raven SR Inc - awesome tech. Egypt is
+building 1 GW waste-to-h2 plant.
+
+---
+
+Cow dung! 
 
 The South African: "Cow Dung power: India is tapping into a new energy source"
 
