@@ -2,6 +2,12 @@
 
 ---
 
+Pinned Tweet
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">All Californians deserve access to options that will drive a more sustainable future.  <br>  <br>That’s why we’ve proposed to develop Angeles Link: a <a href="https://twitter.com/hashtag/green?src=hash&amp;ref_src=twsrc%5Etfw">#green</a> hydrogen pipeline system designed to significantly cut greenhouse gas emissions.<br><br>More <a href="https://twitter.com/SeeNewsRenew?ref_src=twsrc%5Etfw">@SeeNewsRenew</a>: <a href="https://t.co/0Q4i2x80bU">https://t.co/0Q4i2x80bU</a> <a href="https://t.co/YyUU4PREqC">pic.twitter.com/YyUU4PREqC</a></p>&mdash; SoCalGas (@socalgas) <a href="https://twitter.com/socalgas/status/1511434086211981315?ref_src=twsrc%5Etfw">April 5, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 H2 View: "Denmark’s green logistics hub situated in Fredericia is to
 be expanded by Everfuel and Taulov Dry Port to become the country’s
 largest hydrogen station"
