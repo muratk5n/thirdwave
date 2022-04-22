@@ -147,12 +147,12 @@ protein content; cant possibly get more than 30% protein from meat
 
 ---
 
-Toss raw spinach, diced onions, some olive oil together, cook 5 mins
-medium heat. Wait until cold, mix in plain yogurt. 
-[Boom](https://pbs.twimg.com/media/FQm9U8BWUAcMm_F?format=jpg&name=small).
+So many simple dishes out there. Toss raw spinach, diced onions, some
+olive oil together, cook 5 mins medium heat. Wait until cold, mix in
+plain yogurt. [Boom](https://pbs.twimg.com/media/FQm9U8BWUAcMm_F?format=jpg&name=small).
 
 Similar to Persian borani, Greeks have a version too. Rich in lutein,
-iron (obviously) and with yogurt u get lots of calcium, protein.
+iron and with yogurt u get lots of calcium, protein.
 
 ---
 
