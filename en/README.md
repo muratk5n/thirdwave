@@ -128,11 +128,11 @@ profile for Python. Can't way to use it"
 
 ---
 
-A cow gives 240 kg of meat.. Not 'eating a cow' every month, let's relax.
+A cow gives 240 kg.. Not 'eating a cow' every month, let's relax.
 
 ---
 
-For 80g prot intake daily, for 10 days, u'd need roughly 3 kg of
+For 80g prot intake daily, for 10 days, u'd need roughly 3 kg of red
 meat. Dam.
 
 ---
