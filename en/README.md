@@ -69,7 +69,7 @@ that appeals to many, albeit differently. Example *Forest Gump*. Libs
 could watch it and laugh at FG, conservatives would be like 'that guy
 is exactly like me'. But FG still achieved things, that was a
 positive.. Now u always have to bang on the drum, for something..
-Massive propaganda, Goevels level stuff.
+Massive propaganda.
 
 ---
 
