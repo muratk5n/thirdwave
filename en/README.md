@@ -131,8 +131,7 @@ profile for Python. Can't way to use it"
 
 ---
 
-A cow gives 240 kg of meat.. That's a lot. It'd be a bummer if I 'ate
-a cow' every month.
+A cow gives 240 kg of meat.. Not 'eating a cow' every month, let's relax.
 
 ---
 
