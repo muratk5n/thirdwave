@@ -64,18 +64,6 @@ innovative liquid hydrogen storage technology"
 
 ---
 
-
-
-
-
-
-
-
-
-
-
----
-
 Holywood will soon lose the skill of making big tent movies; stuff
 that appeals to many, albeit differently. Example *Forest Gump*. Libs
 could watch it and laugh at FG, conservatives would be like 'that guy
@@ -206,8 +194,13 @@ endDate
 
 ---
 
-TDB: "Noam Chomsky Is Right, the U.S. Should Work to Negotiate an End
-to the War in Ukraine"
+Al Jazeera: "Fix poverty first to counter China, Solomon Islanders tell West"
+
+---
+
+The Guardian: "Tuesday night, news broke that the Pacific nation, less
+than 2,000km from Australia's east coast, had signed a security deal
+with China"
 
 ---
 
@@ -216,6 +209,11 @@ Al Jazeera: "China’s Xi says talks, not sanctions, should resolve disputes"
 ---
 
 WION: "Chinese president reiterates opposition to use of economic sanctions"
+
+---
+
+TDB: "Noam Chomsky Is Right, the U.S. Should Work to Negotiate an End
+to the War in Ukraine"
 
 ---
 
