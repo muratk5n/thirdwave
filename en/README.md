@@ -43,8 +43,8 @@ India Times: "Dung power: India taps new energy cash cow"
 ---
 
 They are producing synthetic natgas? Methane can leak from that. H2
-would be better. Raven SR Inc has awesome tech. Egypt is building 1 GW
-waste-to-h2 plant.
+would be better. American Raven SR has awesome tech. Egypt is building
+1 GW waste-to-h2 plant.
 
 ---
 
