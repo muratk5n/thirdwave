@@ -144,7 +144,7 @@ protein content; cant possibly get more than 30% protein from meat
 
 ---
 
-So many simple dishes out there. Toss raw spinach, diced onions, some
+Many simple dishes out there. Toss raw spinach, diced onions, some
 olive oil together, cook 5 mins medium heat. Wait until cold, mix in
 plain yogurt. [Boom](https://pbs.twimg.com/media/FQm9U8BWUAcMm_F?format=jpg&name=small).
 
