@@ -105,8 +105,8 @@ BJ did the elite thing, it became 10 times more damaging.
 
 The new off kilter ideology backdrop cld also be partly why UK BJ was
 too gung-ho on Russia (even before the war); conservatives are
-generally hawkish, well, this was still one 'conservative' thing he
-could do..
+generally hawkish, well, this was one 'conservative' thing he could
+still do..
 
 ---
 
