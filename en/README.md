@@ -89,9 +89,8 @@ CLASS. By ignoring the rules BJ said "I'm above you" (reachers emo
 brain, very powerful). It's particularly damaging for BJ bcz his whole
 shtick was being "against the elites". "Elites" wanted Bremain,
 "people" needed Brexit. Cameron looked like an "elite", BJ was the
-pudgy, everyman looking guy (both grads of Eton but hey, let's not go
-there), so when BJ did the elite thing, it became 10 times more
-damaging.
+pudgy, everyman looking guy (both grads of Eton but ssshhh), so when
+BJ did the elite thing, it became 10 times more damaging.
 
 ---
 
