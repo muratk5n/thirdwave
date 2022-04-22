@@ -221,10 +221,6 @@ Al Jazeera: "China’s Xi says talks, not sanctions, should resolve disputes"
 
 ---
 
-WION: "Chinese president reiterates opposition to use of economic sanctions"
-
----
-
 TDB: "Noam Chomsky Is Right, the U.S. Should Work to Negotiate an End
 to the War in Ukraine"
 
