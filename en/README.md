@@ -33,7 +33,7 @@ H2 View: "Walmart to acquire 20 tonnes of liquid hydrogen per day from Plug Powe
 
 ---
 
-:) Cash cow.. Hah
+:) Cash cow.. Very good
 
 India Times: "Dung power: India taps new energy cash cow"
 
