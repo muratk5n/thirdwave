@@ -27,9 +27,8 @@ networks to be fossil-free by 2050"
 
 "@fuelcellsworks
 
-\#H2FLY Sets #Hydrogen Fuel Cell-Electric Flight World Record - The
-HY4 passenger aircraft sets new world record, flying above 7,000 ft
-for the first time on April 13th"
+The HY4 [fuel-cell] passenger aircraft sets new world record, flying
+above 7,000 ft"
 
 ---
 
