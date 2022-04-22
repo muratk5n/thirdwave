@@ -213,9 +213,9 @@ Al Jazeera: "Fix poverty first to counter China, Solomon Islanders tell West"
 
 ---
 
-The Guardian: "Tuesday night, news broke that the Pacific nation, less
-than 2,000km from Australia's east coast, had signed a security deal
-with China"
+The Guardian: "Tuesday night, news broke that the Pacific nation
+[Solomon Islands], less than 2,000km from Australia's east coast, had
+signed a security deal with China"
 
 ---
 
