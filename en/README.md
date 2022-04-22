@@ -120,6 +120,11 @@ profile for Python. Can't way to use it"
 
 ---
 
+A cow gives 240 kg of meat.. That's a lot. It'd be a bummer if I 'ate
+a cow' every month.
+
+---
+
 For 80g prot intake daily, for 10 days, u'd need roughly 3 kg of
 meat. Dam.
 
@@ -173,8 +178,8 @@ you unique.
 
 ---
 
-Netflix stawk in trouble. Their financials until 21Q4 has been good;
-stellar even. High GPM.
+Netflix stawk in trouble. But their financials until 21Q4 has been
+good; stellar even. High GPM.
 
 ```python
 import pandas as pd, yf
