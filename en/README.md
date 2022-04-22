@@ -74,7 +74,7 @@ Massive propaganda, Goevels level stuff.
 ---
 
 Why did Chapek get pulled into that mess on public schools, sex ed etc?
-Completely unnecessary, dumb bullshit. \#Disney
+Completely unnecessary \#Disney
 
 ---
 
