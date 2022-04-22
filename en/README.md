@@ -137,9 +137,9 @@ meat. Dam.
 
 ---
 
-It's not uncommon to get 70-80% mass reduction on meat after
+It's not uncommon to get 70-80% mass reduction on poultry/meat after
 dehydration. Makes sense we know we are 70% water. That hints at max
-protein content; cant possibly get more than 30% protein from meat
+protein content; cant possibly get more than 30% protein from red meat
 (lit says 26%), bcz the rest is water.
 
 ---
