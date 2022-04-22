@@ -94,7 +94,7 @@ Yonderboi - I Am Cgi \#music
 ---
 
 Lockdown parties.. bad bad. Britain's culture code for itself is
-CLASS. By ignoring the rules BJ said "I'm above you" (reachers emo
+CLASS. By ignoring the rules BJ said "I'm above you" (reaches emo
 brain, very powerful). It's particularly damaging for BJ bcz his whole
 shtick was being "against the elites". "Elites" wanted Bremain,
 "people" needed Brexit. Cameron looked like an "elite", BJ was the
