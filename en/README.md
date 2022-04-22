@@ -76,6 +76,8 @@ Massive propaganda, Goevels level stuff.
 Why did Chapek get pulled into that mess on public schools, sex ed etc?
 Completely unnecessary \#Disney
 
+Lota culture war material triggered from Florida these days. 
+
 ---
 
 Yonderboi - I Am Cgi \#music
