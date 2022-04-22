@@ -153,8 +153,8 @@ iron and with yogurt u get lots of calcium, protein.
 
 ---
 
-Scott Adams says it's about eating the right food, cooking knowledge
-helps you enjoy the right food. 
+Scott Adams says it's about eating the right food, gastro knowledge
+will help you enjoy the right food.
 
 [[-]](https://youtu.be/N96UmjmpTVg?t=46)
 
