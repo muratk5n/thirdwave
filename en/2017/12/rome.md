@@ -12,7 +12,7 @@
 
 [Kurds in Anatolia](../../2020/07/kurds-anatolia.md)
 
-[Armenians, Kurds](../../2009/09/armenians-kurds.md)
+[Armenians, Kurds](../../2009/09/modern-history-of-kurds-mcdowall.md)
 
 [Rome by Rifkin](../../2020/07/the-emphatic-civilization-rifkin.md)
 

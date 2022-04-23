@@ -1,4 +1,4 @@
 # 2009
 
-[Ottomans, Armenians, Kurds](09/armenians-kurds.md)
+[A Modern History of the Kurds](09/modern-history-of-kurds-mcdowall.md)
 

@@ -74,7 +74,7 @@ Good stuff
 ---
 
 TR is a permanent morass of defunct ideologies.. The suffering of
-Armenians [was there](2009/09/armenians-kurds.md#hamidiyaArmenian)
+Armenians [was there](2009/09/modern-history-of-kurds-mcdowall.md#hamidiya)
 during Hamid of Otto, and they persisted during the regime which
 displaced it. Then Kurds started to suffer in similar ways in the
 Republic which supposedly "unlike" all the previous...
