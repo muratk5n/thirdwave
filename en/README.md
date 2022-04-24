@@ -80,9 +80,9 @@ Chris Joss - Surrounded \#music
 
 ---
 
-Latest Israeli violence.. I'm watching Raam; how will they react?
-Raam is the Arab-Israeli party in the coalition. They claim suspension
-of their membership, what's next?
+Latest Israeli violence.. I'm watching Raam; they are the Arab-Israeli
+party in the coalition. They claim suspension of their membership,
+what's next?
 
 ---
 
