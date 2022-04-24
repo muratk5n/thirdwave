@@ -196,8 +196,8 @@ Emancipator - Land & Sea (Feat. Molly Parti) \#music
 Secret RU oil shipments to the West? Destination Unknown.. The Latvian
 Blend.. \#WION
 
-Whoever needs oil, should get the oil. This is an unnecessary proxy
-war, people should not pay the price.
+Whoever needs oil, should get the oil. UKR-RU conflict is an
+unnecessary proxy war, people should not pay the price.
 
 [[-]](https://youtu.be/9tbgMKk0bEM?t=220)
 
