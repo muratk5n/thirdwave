@@ -80,13 +80,13 @@ Chris Joss - Surrounded \#music
 
 ---
 
-Latest Israeli violence.. I'm watching Raam; they are the Arab-Israeli
-party in the coalition. They claim suspension of their membership,
-what's next?
+WION: "New Zealanders are ordering grocery from Australia, even saving money"
 
 ---
 
-WION: "New Zealanders are ordering grocery from Australia, even saving money"
+Latest Israeli violence.. I'm watching Raam; they are the Arab-Israeli
+party in the coalition. They claim suspension of their membership,
+what's next?
 
 ---
 
