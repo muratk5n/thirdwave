@@ -119,10 +119,10 @@ Emancipator - Land & Sea (Feat. Molly Parti) \#music
 
 ---
 
-Wanted: data journalism. Instead of just pretty maps, supply the data
-too (like below).. The ISW war map could be shared as JSON data -
-regions are just a collection of lat,lon points of a "polygon" after
-all, offer download and let users plot, process DIY.
+Wanted: data journalism. Instead of just pretty maps, also supply the
+data as below.. The ISW war map could be shared as JSON data - regions
+are just a collection of lat,lon points of a "polygon" after all,
+offer download and let users plot, process DIY.
 
 ---
 
@@ -131,8 +131,8 @@ And of course - the usual troublemaker country [appears](https://english.alaraby
 ---
 
 Current news: there are TR attacks toward all PKK areas, in Syria and
-Iraq, even the Iraqi gov joined in for attack on Sinjar. Andn trouble
-around Idlib..
+Iraq, even the Iraqi gov joined in for attack on Sinjar. Trouble
+around Idlib too..
 
 Asia Minor incursion required KDP (Barzani family) help, and they are
 helping, with cries of backstabbing, "Kurd against Kurd violence"
