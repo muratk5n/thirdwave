@@ -212,7 +212,8 @@ to beat? Map above,
 
 ---
 
-Secret RU oil shipments to the West? \#WION
+Secret RU oil shipments to the West? Destination Unknown.. The Latvian
+Blend.. \#WION
 
 Whoever needs oil, should get the oil. This is an unnecessary proxy
 war, people should not pay the price.
