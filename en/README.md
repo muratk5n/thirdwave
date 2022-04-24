@@ -79,21 +79,7 @@ and great-great grandfather of Matt Murdock (Raven founder)"
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Latest Israeli violence.. ? I'm watching Raam; how will they react?
+Latest Israeli violence.. I'm watching Raam; how will they react?
 Raam is the Arab-Israeli party in the coalition. They claim suspension
 of their membership, wonder what's next.
 
