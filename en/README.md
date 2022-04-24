@@ -38,17 +38,15 @@ Atura Power and Plains All American"
 ---
 
 Oil and Gas: "The remarkable fall in the cost of renewable power has
-surely enabled commercial green hydrogen ventures such as NEOM... To
-really launch a MENA hydrogen economy, Matthes points to a key piece
-of infrastructure that could come about through international
-collaboration. A pipeline connecting the eastern Mediterranean with
-Europe [is being considered]. While natural gas pipelines in the
-western Mediterranean currently link Algeria, Tunisia, and Morocco to
-Spain, Portugal and Italy, there is no pipeline in the east. But a
-hydrogen-capable pipeline there could be a breakthrough for NEOM and
-others.. [W]ithin a 300-kilometre radius of Sharm el-Sheikh (where the
-COP 27 conference will occur this fall) are places with potential 100+
-GW production potential in Saudi Arabia, Egypt, and Jordan"
+surely enabled commercial green hydrogen ventures such as NEOM... A
+pipeline connecting the eastern Mediterranean with Europe [is being
+considered]. While natural gas pipelines in the western Mediterranean
+currently link Algeria, Tunisia, and Morocco to Spain, Portugal and
+Italy, there is no pipeline in the east. But a hydrogen-capable
+pipeline there could be a breakthrough for NEOM and others.. [W]ithin
+a 300-kilometre radius of Sharm el-Sheikh (where the COP 27 conference
+will occur this fall) are places with potential 100+ GW production
+potential in Saudi Arabia, Egypt, and Jordan"
 
 ---
 
