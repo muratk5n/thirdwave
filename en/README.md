@@ -8,7 +8,7 @@ CSP, Heliogen, H2
 
 ---
 
-H2 View: "[South Korean] Scientists create new non-metallic
+H2 View: "[South Korean scientists created a] new non-metallic
 photocatalyst for green hydrogen production.. Inha University
 researchers had developed a high-performance non-metallic carbon
 nitride photocatalyst with a newly designed structural shape. It can
