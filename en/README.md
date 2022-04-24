@@ -113,7 +113,7 @@ And of course - the usual troublemaker country [appears](https://english.alaraby
 
 Current news: there are TR attacks toward all PKK areas, in Syria and
 Iraq, even the Iraqi gov joined in for attack on Sinjar. Trouble
-around Idlib too..
+around Idlib too.. Somebody is eager for a 'Tamil Tiger moment'.
 
 Asia Minor incursion required KDP (Barzani family) help, and they are
 helping, with cries of backstabbing, "Kurd against Kurd violence"
