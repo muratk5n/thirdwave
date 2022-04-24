@@ -224,18 +224,16 @@ Turkish rule after a brief spate of liberalism led to disorder [pg
 The Evren Coup
 
 The military coup of 1980 had already brought a more stringent regime
-to Kurdistan. The army had had relatively little to do with the
-struggle between Left and Right on university campuses and in the
-slums and, apart from Korea (1950-52), Cyprus (1974) and its role
-within NATO, its prime experience and justification over half a
-century had been in holding the Kurds down. It was natural therefore
-for the army to focus on Kurdistan but by its methods it helped fulfil
-its own worst fears.
+to Kurdistan. The army's [prime experience and justification].. apart
+from Korea (1950-52), Cyprus (1974) and its role within NATO.. over
+half a century had been in holding the Kurds down. It was natural
+therefore for the army to focus on Kurdistan but by its methods it
+helped fulfil its own worst fears.
 
 First, it tried to stifle Kurdish culture. In October 1983 it
 introduced Law 2932 prohibiting the use of Kurdish. Already the term
 'Kurdish' was such a bogey that the law found a form of words to make
-its prohibition explicit without mentioning the offending wordY Such a
+its prohibition explicit without mentioning the offending word. Such a
 prohibition primarily affected the literate and activist classes. But
 the administration went further to remind the illiterates too that alI
 trace of Kurdish identity was to be banned...
@@ -262,13 +260,9 @@ Few escaped the trauma or frequency of security operations. In some
 cases 'capture and kill' orders were issued. In the words of one
 asylum seeker, 'The children became so fearful that whenever a
 policeman came to the house they would immediately put their hands on
-their heads as a gesture of surrender.'13 Those detained were kept in
-inhumane conditions and frequently received bastinado (fa/aka),
-electric shocks or sexual abuse. In the words of one peasant, 'I was
-ready to confess that I had killed one hundred men, because they
-brought my wife and sister, stripped and threatened to rape them right
-there.'!4 In Diyarbakir prison 32 were officially acknowledged to have
-died in custody between 1981 and 1984. Unofficial sources estimated
-twice this number, including four prisoners who immolated themselves
-to escape their tormentors.
+their heads as a gesture of surrender.' Those detained were kept in
+inhumane conditions and frequently received [torture]..'! In
+Diyarbakir prison 32 were officially acknowledged to have died in
+custody between 1981 and 1984. Unofficial sources estimated twice this
+number.. 
 
