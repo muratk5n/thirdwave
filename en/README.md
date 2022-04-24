@@ -230,9 +230,9 @@ Arab News: "Unlikely change in Delhi-Moscow ties as UK PM visits India"
 
 ---
 
-Weapons and Resources \#FoxNews \#Carlson
+\#UKR \#FoxNews \#Carlson
 
-[[-]](https://youtu.be/4IEuCJI6coA?t=50)
+[[-]](https://youtu.be/4IEuCJI6coA?t=152)
 
 ---
 
