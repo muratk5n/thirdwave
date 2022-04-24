@@ -2,230 +2,251 @@
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/H2X?src=hash&amp;ref_src=twsrc%5Etfw">#H2X</a> in Agreement With <a href="https://twitter.com/TrelleborgGroup?ref_src=twsrc%5Etfw">@TrelleborgGroup</a> Municipality to Supply <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> Buses and Waste Truck - as part of the company&#39;s development of local, sustainable energy solutions - <a href="https://t.co/kw6ClCGlmP">https://t.co/kw6ClCGlmP</a> <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/HydrogenEconomy?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenEconomy</a> <a href="https://twitter.com/hashtag/HydrogenNews?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNews</a> <a href="https://twitter.com/hashtag/H2?src=hash&amp;ref_src=twsrc%5Etfw">#H2</a> <a href="https://twitter.com/hashtag/CleanHydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#CleanHydrogen</a> <a href="https://twitter.com/hashtag/Decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#Decarbonise</a> <a href="https://t.co/jvfA723Tlb">pic.twitter.com/jvfA723Tlb</a></p>&mdash; Fuel Cells Works (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1517135958407274496?ref_src=twsrc%5Etfw">April 21, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+CSP, Heliogen, H2 
+
+<iframe width="340" src="https://www.youtube.com/embed/ZvdENQ5KMjo?start=192" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-H2 View: "Denmark’s green logistics hub [Fredericia] is to be expanded
-by Everfuel and Taulov Dry Port to become the country’s largest
-hydrogen station"
+H2 View: "[South Korean] Scientists create new non-metallic
+photocatalyst for green hydrogen production.. Inha University
+researchers had developed a high-performance non-metallic carbon
+nitride photocatalyst with a newly designed structural shape. It can
+be employed to use sunlight for breaking down the molecules of water
+into oxygen and H2"
 
 ---
 
-H2 View: "H2X Global has revealed that it will supply the first of its
-high floor hydrogen buses into Sweden through Trelleborg Energi"
+H2 Fuel News: "H2-Industries to develop US $1.4 billion
+waste-to-hydrogen plant in Oman"
 
 ---
 
-"@fuelcellsworks
-
-.@nationalgridus Announces Historic Fossil-Free Plan That Includes
-Green Hydrogen for Massachusetts and New York. Gas and electric
-networks to be fossil-free by 2050"
+H2 View: "€1bn investment in Sines, Portugal, will see the
+construction of a 500MW green hydrogen project"
 
 ---
 
-"@fuelcellsworks
-
-The HY4 [fuel-cell] passenger aircraft sets new world record, flying
-above 7,000 ft"
+H2 Fuel News: "Plug Power to supply Walmart with up to 20 daily tons
+of green liquid hydrogen"
 
 ---
 
-H2 View: "Walmart to acquire 20 tonnes of liquid hydrogen per day from Plug Power"
+H2 View: "Large-scale hydrogen salt cavern storage to be explored by
+Atura Power and Plains All American"
 
 ---
 
-:) Cash cow.. Very good
+Oil and Gas: "The remarkable fall in the cost of renewable power has
+surely enabled commercial green hydrogen ventures such as NEOM... To
+really launch a MENA hydrogen economy, Matthes points to a key piece
+of infrastructure that could come about through international
+collaboration. A pipeline connecting the eastern Mediterranean with
+Europe would be the kind of ‘Marshall Plan’ project [Cornelius
+Matthes, CEO of Dii Desert Energy] has in mind.
 
-India Times: "Dung power: India taps new energy cash cow"
-
----
-
-They are producing synthetic natgas? Methane can leak from that. H2
-would be better. American Raven SR has awesome tech. Egypt is building
-1 GW waste-to-h2 plant.
-
----
-
-Cow dung! 
-
-The South African: "Cow Dung power: India is tapping into a new energy source"
-
----
-
-The construction video looks great
-
-"@FuelCell_Energy
-
-@Toyota's Port of Long Beach.. fuelcell plant will provide a steady
-supply of \#hydrogen to power Toyota’s zero-emission fuel cell trucks
-& consumer vehicles at the @Shell hydrogen station"
-
-[[-]](https://twitter.com/FuelCell_Energy/status/1516781170276675592)
+While natural gas pipelines in the western Mediterranean currently
+link Algeria, Tunisia, and Morocco to Spain, Portugal and Italy, there
+is no pipeline in the east. But a hydrogen-capable pipeline there
+could be a breakthrough for NEOM and others. Matthes says that within
+a 300-kilometre radius of Sharm el-Sheikh (where the COP 27 conference
+will occur this fall) are places with potential 100+ GW production
+potential in Saudi Arabia, Egypt, and Jordan"
 
 ---
 
-H2 View: "Hexagon Purus acquires 40% stake in Cryoshelter for its
-innovative liquid hydrogen storage technology"
+Pipeline Journal: "Osaka Gas and Pipeline Company Delves Into Green Hydogen"
 
 ---
 
-Holywood will soon lose the skill of making big tent movies; stuff
-that appeals to many, albeit differently. Example *Forest Gump*. Libs
-could watch it and laugh at FG, conservatives would be like 'that guy
-is exactly like me'. But FG still achieved things, that was a
-positive.. Now u always have to bang on the drum, for something..
-Massive propaganda.
+"Dr. Terry Galloway [led] the team of astronomers at Chabot Observatory
+who calculated the position of, and therefore helped save, the Apollo
+13 spacecraft and crew"
 
 ---
 
-Why did Chapek get pulled into that mess on public schools, sex ed etc?
-Completely unnecessary \#Disney
+"At Raven [SR Inc], we are revolutionizing the way the world uses
+waste. We take any organic waste and convert it to clean hydrogen and
+synthetic Fischer-Tropsch fuels through our patented Steam/CO2
+Reforming process. We use steam and a chemical process, not
+combustion, to process mixed feedstock (biogenics, plastics and/or
+methane) into saleable products in an environmentally friendly,
+efficient and profitable way. Our story begins in 1885 with Daniel
+Best – great-grandfather of Dr. Terry Galloway (technology creator)
+and great-great grandfather of Matt Murdock (Raven founder)"
 
-Lota culture war material triggered from Florida these days. 
-
----
-
-Yonderboi - I Am Cgi \#music
-
-[[-]](https://youtu.be/h3aKQIqwn18)
-
----
-
-Lockdown parties.. bad bad. Britain's culture code for itself is
-CLASS. By ignoring the rules BJ said "I'm above you" (reaches emo
-brain, very powerful). It's particularly damaging for BJ bcz his whole
-shtick was being "against the elites". "Elites" wanted Bremain,
-"people" needed Brexit. Cameron looked like an "elite", BJ was the
-pudgy, everyman looking guy (both grads of Eton but ssshhh), so when
-BJ did the elite thing, it became 10 times more damaging.
+[[-]](https://ravensr.com/about/#about-history)
 
 ---
 
-The new off kilter ideology backdrop cld also be partly why UK BJ was
-too gung-ho on Russia (even before the war); conservatives are
-generally hawkish, well, this was one 'conservative' thing he could
-still do..
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Latest Israeli violence.. ? I'm watching Raam; how will they react?
+Raam is the Arab-Israeli party in the coalition. They claim suspension
+of their membership, wonder what's next.
 
 ---
 
-Politics in some Western countries are off-kilter.. During the UK
-trucker shortages I actually heard PM BJ say "well if there are
-shortages, maybe businesses should pay better wages". A Tory
-PM. Asking higher wages. It's like someone said the moon is made of
-cheese, or I walked to school and back, up the hill both ways..
-It's good to hear but from a supposedly con party?
+"US urges Iraqi government formation as stalemate drags on"
 
 ---
 
-"@1st1
+Chris Joss - Surrounded \#music
 
-WOW. Bloomberg finally opensourced memray—a new versatile memory
-profile for Python. Can't way to use it"
-
-<img width="340" src="https://pbs.twimg.com/media/FQz1nTZUYAENhyy?format=jpg&name=small"/>
+[[-]](https://youtu.be/nxm2qD7_Bjc)
 
 ---
 
-A cow gives 240 kg.. Not 'eating a cow' every month, let's relax.
+WION: "New Zealanders are ordering grocery from Australia, even saving money"
 
 ---
 
-For 80g prot intake daily, for 10 days, u'd need roughly 3 kg of red
-meat. Dam.
+Emancipator - Land & Sea (Feat. Molly Parti) \#music
+
+[[-]](https://youtu.be/zEOH_BAQWhg)
 
 ---
 
-It's not uncommon to get 70-80% mass reduction on poultry/meat after
-dehydration. Makes sense we know we are 70% water. That hints at max
-protein content; cant possibly get more than 30% protein from red meat
-(lit says 26%), bcz the rest is water.
+Wanted: data journalism. Instead of just pretty maps, supply the data
+too (like below).. The ISW war map could be shared as JSON data -
+regions are just a collection of lat,lon points of a "polygon" after
+all, offer download and let users plot, process DIY.
 
 ---
 
-Many simple dishes out there. Toss raw spinach, diced onions, some
-olive oil together, cook 5 mins medium heat. Wait until cold, mix in
-plain yogurt. [Boom](https://pbs.twimg.com/media/FQm9U8BWUAcMm_F?format=jpg&name=small).
-
-Similar to Persian borani, Greeks have a version too. Rich in lutein,
-iron and with yogurt u get lots of calcium, protein.
+And of course - the usual troublemaker country [appears](https://english.alaraby.co.uk/news/krg-pm-barzani-hit-eggs-during-visit-london).
 
 ---
 
-Scott Adams says it's about eating the right food, gastro knowledge
-will help you enjoy the right food.
+Current news: there are TR attacks toward all PKK areas, in Syria and
+Iraq, even the Iraqi gov joined in for attack on Sinjar. Andn trouble
+around Idlib..
 
-[[-]](https://youtu.be/N96UmjmpTVg?t=46)
-
----
-
-The persecution of the religious folk played a major role for
-enshrining freedoms into law in US, not "the affluents" feeling
-slighted by bakers when denied a cake.
+Asia Minor incursion required KDP (Barzani family) help, and they are
+helping, with cries of backstabbing, "Kurd against Kurd violence"
+blame thrown at them.
 
 ---
 
-Things go off the rails sadly when they ask children to "choose" a
-gender identity (be individual, early). But these are kids at an age
-when they are busy playing make-belief games. One thinks he is a
-robot, the other an elf.. One says he is a garbage truck. How do you
-handle that one? Now your kid is a garbage truck. Do you treat him as
-such?
+From TR standpoint, the more PKK was attacked the more it spread.
+So policy has been a fail so far.
 
 ---
 
-US libs are so fervent believers of individuality that they will
-create previously non-existing categories to give ppl "more
-opportunities" to exercise that individuality. Notice the ever
-increasing new letters to that already huge moniker, L, G, B, T, Q, it
-goes on, I, A, 2S,.. They added a + on there too just to signal there
-could be more. Pick any letter, pick two or three, see how that makes
-you unique.
+The fascist coup of 80s fueled PKKs rise
+
+[[-]](2009/09/modern-history-of-kurds-mcdowall.md#pkk80s)
 
 ---
 
-Netflix stawk in trouble. But their financials until 21Q4 has been
-good; stellar even. High GPM.
+Fields connected by pipeline, did not help patch things up between all
+stakeholders?
+
+[[-]](https://pbs.twimg.com/media/FQ28zalWQAA0C7w?format=png&name=small)
+
+---
+
+Post Arab Spring PKK spread to Sinjar, near Syria (red cross in map),
+helping anti-ISIS fight there, after the fight they stayed. Then they
+linked with Syrian NE. Then the sister org there declared autonomy,
+2017. Territory where PKK / sister YPG is active is in [yellow](https://pbs.twimg.com/media/FQ28SJdXoAEcSjR?format=jpg&name=small).
+Lots of oil/gas.
+
+[[-]](https://www.crisisgroup.org/europe-central-asia/western-europemediterranean/turkey/turkeys-pkk-conflict-regional-battleground-flux)
+
+---
+
+Various paths from that Qandil mountain to TR; one from Iraq but they
+cld easily enter through Iran, immediately cross the Iranian border,
+go north and enter from there.. I'm sure they received a lot of help
+from Iran over the years.
+
+---
+
+[Data](tweets/2022/kurd1.json)
+
+---
 
 ```python
-import pandas as pd, yf
-df = yf.get_income('NFLX')
-pd.set_option('display.max_columns', None)
-print (df[['grossProfit','totalRevenue','grossProfitMargin']])
+import json, simplegeomap
+
+clat,clon=37.377413, 42.78591;zoom=0.6
+simplegeomap.plot_countries(clat,clon,zoom)
+simplegeomap.plot_elevation(clat,clon,zoom)
+d = json.loads(open("kurd1.json").read())
+simplegeomap.plot_region(np.array(d['duhok']),color='seagreen')
+simplegeomap.plot_region(np.array(d['erbil']),color='seagreen')
+simplegeomap.plot_region(np.array(d['suleymaniah'],),color='mediumseagreen')
+pars = [(40,38,'TR'),(46,37,'Iran'),(43,35,'Iraq'),(40,36,'Syria')]
+for x in pars: plt.text(*x)
+lon,lat = d['qandil']; plt.plot(lat,lon,'rd')
+lon,lat = d['sinjar']; plt.plot(lat,lon,'rx')
 ```
 
-```text
-Breakdown  grossProfit totalRevenue grossProfitMargin
-endDate                                              
-2021-03-31     3294.77      7163.28           45.9953
-2021-06-30     3323.77      7341.78            45.272
-2021-09-30     3276.88      7483.47           43.7882
-2021-12-31     2469.74      7709.32           32.0358
-```
+<img width="340" src="https://pbs.twimg.com/media/FQ5hHcJXEAYefG6?format=png&name=small"/>
+
+The darker green areas are Kurdish regions of Iraq, recognized by
+central gov, with three governates, associated with two seperate
+Kurdish Regional Gov families (north vs south), KDP and PUK. PKK
+nestled itself at the intersection of three of these actors, KDP, PUK,
+Iran, and on top of the hightest mountain of Iraq (the red dot).
+KDP/PUK fought before, while in alliance now, doesn't hurt to
+stay right between them for max leverage.
 
 ---
 
-Al Jazeera: "Fix poverty first to counter China, Solomon Islanders tell West"
+Why has the Kurdish terrorist group PKK active in TR been so difficult
+to beat? Map above,
 
 ---
 
-The Guardian: "Tuesday night, news broke that the Pacific nation
-[Solomon Islands], less than 2,000km from Australia's east coast, had
-signed a security deal with China"
+Secret RU oil shipments to the West? \#WION
+
+Whoever needs oil, should get the oil. This is an unnecessary proxy
+war, people should not pay the price.
+
+[[-]](https://youtu.be/9tbgMKk0bEM?t=220)
 
 ---
 
-Al Jazeera: "China’s Xi says talks, not sanctions, should resolve disputes"
+Al Jazeera: "Russian media report alleges that the SAS has deployed to
+the Lviv region in western Ukraine"
 
 ---
 
-TDB: "Noam Chomsky Is Right, the U.S. Should Work to Negotiate an End
-to the War in Ukraine"
+Arab News: "Unlikely change in Delhi-Moscow ties as UK PM visits India"
 
 ---
 
-WSJ: "Russia Says It Controls Mariupol"
+Weapons and Resources \#FoxNews \#Carlson
+
+[[-]](https://youtu.be/4IEuCJI6coA?t=50)
+
+---
+
+WSJ: "World Governments Confront Grim Ukraine Toll"
+
+---
+
+Jane's Defense: "Russia begins Donbas offensive"
+
+---
+
+AFP: "The Russian army will aim to take full control over eastern and
+southern Ukraine, Russian news agencies quotes a top general as
+saying, a day after Moscow announced the 'liberation' of Mariupol"
 
 ---
 
