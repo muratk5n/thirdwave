@@ -160,8 +160,8 @@ stakeholders?
 
 Post Arab Spring PKK spread to Sinjar, near Syria (red cross in map),
 helping anti-ISIS fight there, after the fight they stayed. Then they
-linked with Syrian NE. Then the sister org there declared autonomy,
-2017. Territory where PKK / sister YPG is active is in [yellow](https://pbs.twimg.com/media/FQ28SJdXoAEcSjR?format=jpg&name=small).
+linked with Syrian NE. Then the sister org there declared autonomy, 2017.
+Territory where PKK / sister YPG is active is in [yellow](https://pbs.twimg.com/media/FQ28SJdXoAEcSjR?format=jpg&name=small).
 Lots of oil/gas.
 
 [[-]](https://www.crisisgroup.org/europe-central-asia/western-europemediterranean/turkey/turkeys-pkk-conflict-regional-battleground-flux)
