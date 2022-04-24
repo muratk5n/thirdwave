@@ -74,19 +74,15 @@ and great-great grandfather of Matt Murdock (Raven founder)"
 
 ---
 
-Latest Israeli violence.. I'm watching Raam; how will they react?
-Raam is the Arab-Israeli party in the coalition. They claim suspension
-of their membership, what's next?
-
----
-
-"US urges Iraqi government formation as stalemate drags on"
-
----
-
 Chris Joss - Surrounded \#music
 
 [[-]](https://youtu.be/nxm2qD7_Bjc)
+
+---
+
+Latest Israeli violence.. I'm watching Raam; how will they react?
+Raam is the Arab-Israeli party in the coalition. They claim suspension
+of their membership, what's next?
 
 ---
 
@@ -94,9 +90,7 @@ WION: "New Zealanders are ordering grocery from Australia, even saving money"
 
 ---
 
-Emancipator - Land & Sea (Feat. Molly Parti) \#music
-
-[[-]](https://youtu.be/zEOH_BAQWhg)
+"US urges Iraqi government formation as stalemate drags on"
 
 ---
 
@@ -190,6 +184,12 @@ stay right between them for max leverage.
 
 Why has the Kurdish terrorist group PKK active in TR been so difficult
 to beat? Map above,
+
+---
+
+Emancipator - Land & Sea (Feat. Molly Parti) \#music
+
+[[-]](https://youtu.be/zEOH_BAQWhg)
 
 ---
 
