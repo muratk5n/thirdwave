@@ -124,7 +124,7 @@ blame thrown at them.
 ---
 
 From TR standpoint, the more PKK was attacked the more it spread.
-So policy has been a fail so far.
+So war-war policy has been a fail so far.
 
 ---
 
