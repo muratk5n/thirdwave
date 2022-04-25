@@ -120,7 +120,7 @@ So war-war policy has been a fail so far.
 
 ---
 
-The fascist coup of 80s fueled PKKs rise
+The fascist coup of 1980 fueled PKKs rise
 
 [[-]](2009/09/modern-history-of-kurds-mcdowall.md#pkk80s)
 
