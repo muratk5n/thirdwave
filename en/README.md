@@ -122,9 +122,9 @@ the market which fails to insure everyone (Obamacare).
 For housing, gov can pay, employ, manage projects seperately, outside
 the market structure to build, deliver housing. Slightly nudging one
 rate here, fiddling with the market there can create unwanted
-side-effects. In US we saw it happen; Eddie, Freddie, Fannie whatever
-muck these orgs, been there for decades, yet in US house prices now
-reached nearly half a million dollars. Fannie Freddie being the
+side-effects. In US we saw it happen; those orgs Eddie, Freddie,
+Fannie, whatever, they've there for decades, yet in US house prices
+now reached nearly half a million dollars. Fannie, Freddie being the
 bizarre in/out market creations they are, fueled the Great Financial
 Crisis too and nearly caused the collapse of the system.
 
