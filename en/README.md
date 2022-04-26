@@ -100,11 +100,11 @@ The Sound Stylistics - Get Ya Some \#music
 ---
 
 True liberterians could actually affect some change here; they would
-be (and most are) for the abolition of Fannie, Freddie. If democracy
-worked they'd do their thing, the left would do the outside-the-market
-help thing, overall things would approach to some kind of working
-setup. Instead there is a weird mush of market/non-market solutions,
-and the 'heated debates' are on stupid culture war.
+be for the abolition of F-F. If democracy worked they'd do their
+thing, the left would do the outside-the-market help thing, overall
+things would approach to some kind of working setup. Instead there is
+a weird mush of market/non-market solutions, and the 'heated debates'
+are on stupid culture war.
 
 ---
 
