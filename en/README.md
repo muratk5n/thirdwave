@@ -206,7 +206,7 @@ Solomon Islands would be a 'red line' for his government"
 
 ---
 
-Dug it up; here it is; thank you Wayback Machine (at 12:27)
+Dug it up - here it is. Thank you Wayback Machine (at 12:27)
 
 [[-]](https://web.archive.org/web/20220125181227/https://www.youtube.com/watch?v=MwCsCDGOEyM)
 
