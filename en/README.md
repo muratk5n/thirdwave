@@ -171,7 +171,7 @@ Tyson Fury wins again
 
 ---
 
-Hah. Movie is called *Bear Witness* about a dude following around wild
+Hah. Movie titled *Bear Witness* about a dude following around wild
 bears and filming them.
 
 ---
@@ -180,9 +180,9 @@ But it is very likely MI6 had her killed. That part is a tragedy.
 
 ---
 
-That is a stretch.. I remember after her death they were throwing out
-those words, 'she was like Mother Teresa'.. fem acquiantences at the
-time took a major issue with that.. Mother Teresa lived with the poor,
+Not really.. I remember after her death they were throwing out those
+words, 'she was like Mother Teresa'.. fem acquiantences at the time
+took a major issue with that.. Mother Teresa lived with the poor,
 spent her life among them. What did Diana do? Make a diva entrance to
 some event, and disappear afterwards? C'mon.
 
