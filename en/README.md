@@ -49,14 +49,15 @@ in Sweden"
 
 ---
 
-Reuters: "Egypt to work with UAE's Masdar to make [4 GW] green
+Reuters: "Egypt to work with UAE's Masdar to make green
 hydrogen.. Egypt said on Sunday it would cooperate with the United
 Arab Emirate's Abu Dhabi Future Energy Company (Masdar) on the
 production of green hydrogen. Masdar and Hassan Allam (HA) Utilities,
 a subsidiary of Hassan Allam Holding, will form a strategic alliance
 to develop green hydrogen production plants in the Suez Canal Economic
 Zone and on the Mediterranean coast, to produce up to 480,000 tons of
-green hydrogen annually, the Egyptian cabinet said in a statement.
+green hydrogen annually [equals to 4 GW], the Egyptian cabinet said in
+a statement.
 
 ---
 
