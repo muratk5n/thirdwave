@@ -359,24 +359,31 @@ create barriers. Neither the czars and their railway bonds nor Stalin
 with his enforced starvation ever came close to overcoming the
 problem, and the cost of building a connective tissue for the Russian
 economy—extensive rail systems and roads—remains staggering. Russia
-has always wielded a military force that outstripped its economy,
+has always wielded a military force that outstripped its economy
 
 <a name='ukrgap'/>
 
-The Gap
-
-The turning point in relations between the United States and Russia
-came in 2004, when events in Ukraine convinced the Russians that the
-U.S.  intended to destroy or at least tightly control them. A large
-nation, Ukraine covers the entire southwestern frontier of Russia, and
-from the Russian point of view, it is the key to Russian national
-security.
-
-The Russian territory lying between Ukraine and Kazakhstan is only
-three hundred miles wide, and all of Russia’s influence in the
+Ukraine covers the entire southwestern frontier of Russia, and from
+the Russian point of view, it is the key to Russian national
+security.. The Russian territory lying between Ukraine and Kazakhstan
+is only three hundred miles wide, and all of Russia’s influence in the
 Caucasus—along with a good deal of the oil in the pipelines to the
 south—flows through this gap. At the center of the gap is Volgograd,
 formerly Stalingrad. During World War II, the Soviets sacrificed one
 million lives in the battle to keep that gap from being closed by the
 Germans.
+
+<a name='nuketech'/>
+
+Nuke Tech
+
+Only one country ever produced a nuclear weapon from scratch, and that
+was the United States. The British got their nukes in compensation for
+their contribution to the American research effort. The French also
+acquired the technology from the Americans, which they then regifted
+to Israel. The Russians stole the knowledge from the Americans, then
+transferred it to both the Chinese and the Indians. The Chinese gave
+the technology to the Pakistanis. The point is, the development of
+these weapons through an independent research program is enormously
+difficult..
 
