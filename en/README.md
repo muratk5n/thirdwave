@@ -209,7 +209,7 @@ Solomon Islands would be a 'red line' for his government"
 
 ---
 
-[Link](https://pbs.twimg.com/media/FRICdUdXoAEqeLS?format=jpg&name=small)
+[Link](https://pbs.twimg.com/media/FRP_Wc9XEAAFFLD?format=png&name=small)
 
 ---
 
