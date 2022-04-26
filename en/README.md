@@ -189,7 +189,7 @@ some event, and disappear afterwards? C'mon.
 Most Kurds live without an official country. They certainly cannot
 join NATO, have no diplomatic basis to even consider it. The Kurds who
 were a threat to TR became that way because of latter's failed
-policies, its nation creation project.
+policies, its faulty nation creation project.
 
 "Isn't the situation of Kurds same as Ukraine's?
 
@@ -219,7 +219,7 @@ the Tony Blair impression?
 
 ---
 
-No *Entente Cordiale* saz the article..
+No *entente cordiale* saz the article..
 
 Politico: "Don’t expect Macron’s win to reset UK-France ties.. Yet
 British officials — who have previously blamed the French electoral
