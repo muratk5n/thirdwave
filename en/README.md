@@ -149,11 +149,12 @@ too, but I mean publishing of raw data as journalism.
 
 ---
 
-Data journalism would be fly; imagine there is `http://data.nytimes.com`,
-or `data.washingtonpost.com`,  and every major event, like war, gets
-its relative URL, for Ukraine-Russia war situation the regions assesed,
-claimed could be published in daily JSON files; `http://data.nytimes.com/conflict/ukr/20220424/map.json`;
-people interested can fetch, process, plot.
+Data journalism would be fly; imagine there is
+http://data.nytimes.com, or `data.washingtonpost.com`, and every major
+event, like war, gets its relative URL, for Ukraine-Russia war
+situation the regions assesed, claimed could be published in daily
+JSON files on /conflict/ukr/20220424/map.json; people interested can
+fetch, process, plot.
 
 ---
 
