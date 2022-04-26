@@ -165,7 +165,7 @@ Tyson Fury wins again
 
 ---
 
-Movie is called *Bear Witness* about a dude following around wild
+Hah. Movie is called *Bear Witness* about a dude following around wild
 bears and filming them.
 
 ---
@@ -219,7 +219,7 @@ the Tony Blair impression?
 
 ---
 
-No *Entente Cordiale*?
+No *Entente Cordiale* saz the article..
 
 Politico: "Don’t expect Macron’s win to reset UK-France ties.. Yet
 British officials — who have previously blamed the French electoral
