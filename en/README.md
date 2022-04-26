@@ -170,9 +170,7 @@ bears and filming them.
 
 ---
 
-I'm sure she had her share of pain and tragedy, but they seem mostly
-first-world issues. 'Ew I dont like the flower arrangement over
-here'.. 'my rich husband doesn't like me'.. Bitch please
+But it is very likely MI6 had her assasinated. That part is a tragedy.
 
 ---
 
