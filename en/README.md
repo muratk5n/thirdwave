@@ -145,6 +145,8 @@ vitamin C was 300 mg.
 Paper finds 300 mg / 100g of Vit C preserved in pineapple fruit after
 drying..
 
+[[-]](https://www.researchgate.net/publication/346469985_Effect_of_Drying_Temperatures_on_the_Vitamin_C_Content_of_Pineapple_Fruit_Ananas_comosus)
+
 ---
 
 Pickled in red beets? Daaemn
