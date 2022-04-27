@@ -4,7 +4,7 @@ H2 View: "Sea Change hydrogen ferry to launch in San Francisco Bay next month"
 
 ---
 
-H2 View: "Major maritime hydrogen hub to be developed in Kristiansand, Norway"
+H2 Fuel News: "Major maritime hydrogen hub to be developed in Kristiansand, Norway"
 
 ---
 
