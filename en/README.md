@@ -129,9 +129,9 @@ is expected to grow by four or six times by 2050"
 
 ---
 
-Pineapple is 87% water. If we were to adjust for the water loss, 47.8
-* (100/13.) = 367 mg. Of that 300 mg was preserved, ~82% Vit C. Not
-bad..
+If we were to adjust for the water loss, pineapple is 87% water, 47.8
+* (100/13.) = 367 mg. Of that 300 mg was preserved, ~82% Vit C
+remained after dehyd. Not bad..
 
 The optimal temp was 50 deg Celcius. 
 
