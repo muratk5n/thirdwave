@@ -185,15 +185,6 @@ of the key shipping hub"
 
 ---
 
-"Ivermectin does not reduce risk of COVID-19 hospitalization, clinical
-study shows.. The peer-reviewed study also showed ivermectin treatment
-did not help with various other health measures related to the virus
-such as viral clearance after a week, speed of recovery or risk of
-death. The study results were published in the New England Journal of
-Medicine"
-
----
-
 That is correct.. And a great way to teach / prove the former is with
 the latter.
 
