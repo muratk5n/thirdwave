@@ -232,7 +232,10 @@ potential recession in the region."
 
 ---
 
-WSJ: "Russia Halting Gas Flows to Poland, Bulgaria Over Payment Terms"
+Rumble over rouble (still no rubble)
+
+Reuters: "Russia's Gazprom halted gas supplies to Poland and Bulgaria
+on Wednesday over their refusal to pay in roubles"
 
 ---
 
