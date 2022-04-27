@@ -1,243 +1,252 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
----
-
-Pinned Tweet: CSP, Heliogen
-
-<iframe width="340" src="https://www.youtube.com/embed/ZvdENQ5KMjo?start=192" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+H2 View: "Sea Change hydrogen ferry to launch in San Francisco Bay next month"
 
 ---
 
-H2 Fuel News: "Canadian-based Hydrofuel has completed an exclusive
-licence agreement with Georgia Institute of Technology for the patent
-pending MAPS system that could unlock green hydrogen and ammonia that
-is cheaper than fossil fuels.
-
-According to the company, the MAPS system enables high-yield,
-sustainable ammonia synthesis from air and water with high efficiency
-using a gas-phase electrochemical process"
+H2 View: "Major maritime hydrogen hub to be developed in Kristiansand, Norway"
 
 ---
 
-H2 View: "Large-scale hydrogen production to be incorporated into a
-green industrial hub in Northern Norway"
+H2 View: "Nel announced the official opening of its fully automated
+electrolyser production facility in Herøya, Norway"
 
 ---
 
-[nordichydrogenroute.com](https://nordichydrogenroute.com)
+H2 View: "Infinity Fuel Cell and Hydrogen will continue with its NASA
+testing which aims to integrate a lunar regenerative hydrogen fuel
+cell system to power moon bases"
 
 ---
 
-"@maximsagot
-
-In 🇸🇪 and 🇫🇮 gas network operators present the Nordic Hydrogen Route project:
-
-- 1,000 km of new hydrogen pipelines
-- commissioning around 2030
-- a local demand of 65 TWh of H2 (2 Mt) at 2050
-- a reduction of 20 Mt of CO2"
-
-[[-]](https://pbs.twimg.com/media/FRLhBPPXIAEQRM0?format=jpg&name=small)
+H2 Fuel News: "Cornell joins hydrogen fuel hub consortium in New York"
 
 ---
 
-"@DanFrov
-
-The Swedish and Finnish system operators for gas transmission, Nordion
-Energi and Gasgrid, are now presenting concrete plans for a 1000 km
-long hydrogen pipeline that will run from Örnsköldsvik to Vaasa,
-Finland"
+H2 View: "Riversimple signs agreement with the California Mobility
+Center to support mass production of hydrogen vehicles"
 
 ---
 
-H2 View:"Permacand to develop a large-scale green hydrogen production facility
-in Sweden"
+H2 View: "Canada to gain a new 150 tonne per day low-carbon hydrogen
+production hub.. [T]his project will be developed in partnership with
+Nikola and present an opportunity to produce low-carbon hydrogen and
+decarbonise the sector"
 
 ---
 
-Reuters: "Egypt to work with UAE's Masdar to make green
-hydrogen.. Egypt said on Sunday it would cooperate with the United
-Arab Emirate's Abu Dhabi Future Energy Company (Masdar) on the
-production of green hydrogen. Masdar and Hassan Allam (HA) Utilities,
-a subsidiary of Hassan Allam Holding, will form a strategic alliance
-to develop green hydrogen production plants in the Suez Canal Economic
-Zone and on the Mediterranean coast, to produce up to 480,000 tons of
-green hydrogen annually, the Egyptian cabinet said in a statement.
+H2 View: "[Heliogen CEO]: Hydrogen use is forecast to grow from 115
+million metric tonnes currently to 500-800 million metric tonnes a
+year by 2050.. Hydrogen projects already announced represent over
+300bn dollars in spending across the value chain, and McKinsey &
+Company analysts expect at least $150bn of that spend to be related to
+hydrogen production"
+
+[[-]](https://www.h2-view.com/open-access/the-new-way-to-power-the-planet/)
+
 
 ---
 
-H2 View: "Kawaski and Airbus to create the Japanese hydrogen fuel infrastructure"
+H2 Fuel News: "Green Ammonia and Hydrogen Now Cheaper than Fossil
+Fuels..  Utilizing [Georgia Tech] MAPS technology with renewable
+energy to produce cost effective green ammonia.. along with Kontak‘s
+technology, which Hydrofuel has previously acquired.. allow Hydrofuel
+to produce Green NH3.. for as low as $220 a tonne, whereas
+fossil-fuel derived NH3 is currently selling at 1,500 to 2,000 dollars
+a tonne.
 
 ---
 
-H2 View: "Hyzon Motors to establish hydrogen truck depot in
-Australia.. The American company is working with an Australian
-heavy-duty commercial fleet operator"
+Making the case for nuclear with "we'll build smaller reactors" is not
+a strong argument. What's the difference btw four small reactors
+costing 250 mil each instead of one that costs 1 billion (w power
+output equaling four plants)?  But a new type of reactor using
+different fission material can fly. That would be a new argument.
 
 ---
 
-The Guardian: "After the relentless rain, South Africa sounds the
-alarm on the climate crisis"
+High torium concentration in US, in states NV, UT, AZ, CO, KS, WY
+
+[[-]](https://pbs.twimg.com/media/FRS6EeRXoAAJjvb?format=jpg&name=small)
 
 ---
 
-"@hertzsprrrung
-
-What reader would ever complain about overly detailed derivations? Not
-me, for sure; I've Iost countless hours figuring out those missing
-steps!"
+Lookit; Asia Minor is 4th in the list of Th estimated abundance;
+344,000 tons. 
 
 ---
 
-"@HiroNishikawa
+"Thorium is three to five times more abundant than uranium in the
+earth's crust..  produces less radiotoxicity than the U02 because it
+produces fewer amounts of actinides, reducing the radiotoxicity of
+long life nuclear waste. Th02 has higher corrosion resistance than
+U02, besides being chemically stable due to their low water
+solubility. The burning of Pu in a reactor based in thorium also
+decreases the inventories of Pu from the current fuel cycles,
+resulting in lower risks of material diversion for use in nuclear
+weapons"
 
-Now a reviewer says there are too many details in the
-derivations. Sometimes, too much information is better than lack of
-information; it helps avoid confusions and ambiguities. But for this I
-can cut a lot of intermediate steps; and I can leave them all in a
-preprint"
-
----
-
-The Sound Stylistics - Get Ya Some \#music
-
-[[-]](https://youtu.be/PStFpLhJIv0)
+[PDF](https://inis.iaea.org/collection/NCLCollectionStore/_Public/45/068/45068136.pdf)
 
 ---
 
-True liberterians could actually affect some change here; they would
-be for the abolition of F-F. If democracy worked they'd do their
-thing, the left would do the outside-the-market help thing, overall
-things would approach to some kind of working setup. Instead there is
-a weird mush of market/non-market solutions, and the 'heated debates'
-are on stupid culture war.
+Wiki: "The discharged wastes are mostly fission products (nuclear
+ashes) with shorter half-lives. This reduces the needed geologic
+containment to 300 years rather than the tens of thousands of years
+needed by a light-water reactor's spent nuclear fuel"
 
 ---
 
-On the previously shared Eslake comment "Schemes that allow people to
-pay more for housing than they otherwise would, will result in more
-expensive housing". Then how can we help people to have housing?
+Wiki: "A molten salt reactor (MSR) is a class of nuclear fission
+reactor in which the primary nuclear reactor coolant and/or the fuel
+is a molten salt mixture... 1960's Molten-Salt Reactor Experiment
+aimed to prove the concept of a nuclear power plant which implements a
+thorium fuel cycle in a breeder reactor. Increased research into
+Generation IV reactor designs began to renew interest in the
+technology, with multiple nations having projects and, as of September
+2021, China is on the verge of starting its TMSR-LF1 thorium MSR..
 
-Increasingly it looks like butting into market mechanism can
-backfire. So best help in any area should aim to take entire swaths of
-said area out of the market-based system. For health insurance,
-single-payer is much better right (which takes nearly the totality of
-health insurance out of private scheme) than trying to co-exist with
-the market which fails to insure everyone (Obamacare).
-
-For housing, gov can pay, employ, manage projects seperately, outside
-the market structure to build, deliver housing. Slightly nudging one
-rate here, fiddling with the market there can create unwanted
-side-effects. In US we saw it happen; those orgs Eddie, Freddie,
-Fannie, whatever, they've been there for decades, yet in US median
-house price now reached nearly half a million dollars. Fannie, Freddie
-being the bizarre in/out market creations they are, fueled the Great
-Financial Crisis too and nearly caused the collapse of the system.
+A further key characteristic of MSRs is operating temperatures of
+around 700 °C (1,292 °F), significantly higher than traditional LWRs
+at around 300 °C (572 °F).. economical hydrogen production."
 
 ---
 
-Madagascar in food trouble.. A lot of regions there with food security
-problems, i.e. hunger. How hard is it to ship bunch of dried meat,
-fruit to this place?
-
-[[-]](https://pbs.twimg.com/media/FRIE2qWXsAASg2o?format=png&name=small)
-
----
-
-Food Security Map
-
-[[-]](https://hungermap.wfp.org/)
+Terrestrial Energy is a nuke energy play. But these guys do a
+different kind of fission, "Generation IV molten salt fission
+technology". Can use thorium instead of uranium. Th more abundant, has
+better waste management features.
 
 ---
 
-Some use the term as in journalism done with raw data; That's nice
-too, but I mean publishing of raw data as journalism.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Terrestrial Energy has joined the Fuel Cell and Hydrogen Energy Association, the national industry association for the fast growing fuel cell and <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> sectors.<a href="https://twitter.com/hashtag/NuclearEnergy?src=hash&amp;ref_src=twsrc%5Etfw">#NuclearEnergy</a> <a href="https://twitter.com/hashtag/GreenHydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#GreenHydrogen</a><a href="https://twitter.com/FCHEA_News?ref_src=twsrc%5Etfw">@FCHEA_News</a> <a href="https://t.co/aZ3X7JD3xM">https://t.co/aZ3X7JD3xM</a> <a href="https://t.co/7ItgHNSdpL">pic.twitter.com/7ItgHNSdpL</a></p>&mdash; Terrestrial Energy (@TerrestrialMSR) <a href="https://twitter.com/TerrestrialMSR/status/1518951699771277315?ref_src=twsrc%5Etfw">April 26, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Data journalism would be fly; imagine there is http://data.nytimes.com,
-or data.washingtonpost.com, and every major event, like war, gets its
-relative URL, for Ukraine-Russia war situation the regions assesed,
-claimed could be published in daily JSON files on /conflict/ukr/20220424/map.json;
-people interested can fetch, process, plot.
+H2 View: "As the renewable energy revolution continues to gain
+traction across the globe, McKinsey has revealed that hydrogen demand
+is expected to grow by four or six times by 2050"
 
 ---
 
-TF was named after Mike Tyson but he fights more like Mohammad Ali. 
+Pineapple is 87% water. If we were to adjust for the water loss, 47.8
+* (100/13.) = 367 mg. Of that 300 mg was preserved, ~82% Vit C. Not
+bad..
+
+The optimal temp was 50 deg Celcius. 
 
 ---
 
-Tyson Fury wins again
+Ah - they dried, collected 100 g sample of dried pineapple, in that,
+vitamin C was 300 mg.
 
 ---
 
-Hah. Movie titled *Bear Witness* about a dude following around wild
-bears and filming them.
+??? Pineapple has 47.8 mg VitC, drying "increased" vitamin C
 
 ---
 
-But it is very likely MI6 had her killed. That part is a tragedy.
+Paper finds 300 mg / 100g of Vit C preserved in pineapple fruit after
+drying..
 
 ---
 
-That's a stretch. I remember after her death they were throwing out
-those words, 'she was like Mother Teresa'.. fem acquiantences at the
-time took a major issue with that.. Mother Teresa lived with the poor,
-spent her life among them. What did Diana do? Make a diva entrance to
-some event, and disappear afterwards? C'mon.
+Pickled in red beets? Daaemn
 
-"Lady Di was such a big humanitarian, a saint"
+<img width="150" src="https://www.craftbeering.com/wp-content/uploads/2019/02/Pickled-Eggs-Soleier-2.jpg"/>
 
 ---
 
-Most Kurds live without an official country. They certainly cannot
-join NATO, have no diplomatic basis to even consider it. The Kurds who
-were a threat to TR became that way because of latter's failed
-policies, its faulty nation creation project.
+Of course.. there is pickling of nearly everything else; why not eggs?
 
-"Isn't the situation of Kurds same as Ukraine's?
+"@fyfluiddynamics
 
----
-
-CH-SI deal was signed but the language is reportedly vague on the
-military aspects.. The base can happen. And now tough talk coming from
-OZ.
-
-SCMP: "Australian PM Scott Morrison said a Chinese military base in the
-Solomon Islands would be a 'red line' for his government"
+Many cultures around the world marinate hard-boiled eggs -- like
+pickled eggs in Europe or tea- and soy-infused eggs from Asia. These
+delicacies offer a fun (and tasty) way to demonstrate the concept of
+diffusion"
 
 ---
 
-[Link](https://pbs.twimg.com/media/FRP_Wc9XEAAFFLD?format=png&name=small)
+AFP: "China's low Covid-19 death toll prompts questions. China has
+recorded fewer than 5,000 deaths from Covid since the start of the
+pandemic. Now a resurgent outbreak has revived questions about how the
+country counts deaths from the virus"
 
 ---
 
-Dug it up - here it is. Thank you Wayback Machine (at 12:27)
+CNBC: "Here’s what the world’s first floating city in Busan, South
+Korea, could look like...  The United Nations, a floating city
+architecture firm called Oceanix, and the South Korean city of Busan
+on Tuesday unveiled the prototype for a floating, sustainable version
+of the key shipping hub"
 
-[[-]](https://web.archive.org/web/20220125181227/https://www.youtube.com/watch?v=MwCsCDGOEyM)
+<img width="340" src="https://image.cnbcfm.com/api/v1/image/107051317-1650925971528-OCEANIX_BUSAN_12_Rio.jpg"/>
 
 ---
 
-Bummer - RT on YouTube gone, Keiser Report archives are gone; where is
-the Tony Blair impression?
+"Ivermectin does not reduce risk of COVID-19 hospitalization, clinical
+study shows.. The peer-reviewed study also showed ivermectin treatment
+did not help with various other health measures related to the virus
+such as viral clearance after a week, speed of recovery or risk of
+death. The study results were published in the New England Journal of
+Medicine"
 
 ---
 
-No *entente cordiale* saz the article..
+That is correct.. And a great way to teach / prove the former with the
+latter.
 
-Politico: "Don’t expect Macron’s win to reset UK-France ties.. Yet
-British officials — who have previously blamed the French electoral
-campaign for rows with Macron’s government on everything from
-post-Brexit fishing rights to a nuclear submarine deal with Australia
-and the treatment of undocumented Channel migrants — don’t expect a
-huge diplomatic reset to follow the result.
+\#Rolle \#MVT 
 
-Instead, they’re eyeing more modest wins, and hoping for more dialogue
-between the two leaders in the coming months. And, despite Johnson’s
-hopeful remarks, the mood music coming out of the French government
-Monday wasn’t drastically different either"
+[[-]](https://pbs.twimg.com/media/FRVjzP4XIAE9IXf?format=jpg&name=small)
 
-[[-]](https://www.politico.eu/article/france-2022-presidential-election-emmanuel-macron-uk-relationship-boris-johnson-entente-cordiale)
+---
+
+Nuke Tech \#friedman
+
+[[-]](2017/07/the-next-decade-friedman.md#nuketech)
+
+---
+
+FT: "Will Boris Johnson's government face an immigration backlash?
+Brexit votes were promised 'control' during the referendum, but many
+wanted numbers significantly reduced. That's not what is happening
+under the new system"
+
+---
+
+The Guardian: "Why are UK supermarkets rationing cooking oil?.. Tesco,
+Morrisons and Waitrose have limited sales after concerns over
+shortages caused by Ukraine war"
+
+---
+
+Politico: "Russia targeting Western weapons shipments in Ukraine as
+Donbas assault begins"
+
+---
+
+FT: "By targeting Ukraine’s entire agricultural economy, destroying
+fields, farm equipment, warehouses, roads, bridges, and ports, Russia
+intends to cut off a major source of Ukraine’s income and the food
+crisis could last well into 2023 if ports remain closed"
+
+---
+
+FT: "The war in Ukraine is impacting exports, causing a worldwide
+problem — and poorer countries will feel it the most"
+
+---
+
+CNBC: "Euro slides to five-year low on Russian energy supply, slowdown
+fears.. The euro tumbled against the U.S. dollar Wednesday morning as
+investors grew increasingly concerned with energy supply and a
+potential recession in the region."
+
+---
+
+WSJ: "Russia Halting Gas Flows to Poland, Bulgaria Over Payment Terms"
 
 ---
 
