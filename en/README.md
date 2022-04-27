@@ -142,7 +142,7 @@ vitamin C was 300 mg.
 
 ---
 
-??? Pineapple has 47.8 mg VitC, drying "increased" vitamin C
+?? Pineapple has 47.8 mg VitC, drying "increased" vitamin C ?
 
 ---
 
