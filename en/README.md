@@ -137,12 +137,9 @@ The optimal temp was 50 deg Celcius.
 
 ---
 
-Ah - they dried, collected 100 g sample of dried pineapple, in that,
+Pineapple has 47.8 mg VitC, looks like drying "increased" vitamin
+C. But they dried, collected 100 g sample of dried pineapple, in that,
 vitamin C was 300 mg.
-
----
-
-?? Pineapple has 47.8 mg VitC, drying "increased" vitamin C ?
 
 ---
 
