@@ -194,8 +194,8 @@ Medicine"
 
 ---
 
-That is correct.. And a great way to teach / prove the former with the
-latter.
+That is correct.. And a great way to teach / prove the former is with
+the latter.
 
 \#Rolle \#MVT 
 
