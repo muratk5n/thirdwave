@@ -50,8 +50,8 @@ hydrogen production"
 H2 Fuel News: "Green Ammonia and Hydrogen Now Cheaper than Fossil
 Fuels..  Utilizing [Georgia Tech] MAPS technology with renewable
 energy to produce cost effective green ammonia.. along with Kontak‘s
-technology, which Hydrofuel has previously acquired.. allow Hydrofuel
-to produce Green NH3.. for as low as $220 a tonne, whereas
+technology, which Hydrofuel has previously acquired.. [will] allow
+Hydrofuel to produce Green NH3.. for as low as $220 a tonne, whereas
 fossil-fuel derived NH3 is currently selling at 1,500 to 2,000 dollars
 a tonne.
 
