@@ -239,8 +239,7 @@ problem — and poorer countries will feel it the most"
 
 ---
 
-CNBC: "Euro slides to five-year low on Russian energy supply, slowdown
-fears.. The euro tumbled against the U.S. dollar Wednesday morning as
+CNBC: "The euro tumbled against the U.S. dollar Wednesday morning as
 investors grew increasingly concerned with energy supply and a
 potential recession in the region."
 
