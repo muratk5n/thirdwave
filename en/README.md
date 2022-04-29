@@ -155,7 +155,7 @@ tuition crisis).
 
 ---
 
-Bingo - Sallie Mae. Founded in 70s
+Bingo - Sallie Mae, founded in the 70s
 
 Forbes: "Congress also created a new entity, Sallie Mae, with the
 right to borrow at rock-bottom interest rates. Such a creature was
@@ -175,7 +175,7 @@ the same time, student loan defaults soared. So did college tuition"
 
 ---
 
-Tuition graph for private colleges, the first critical spike happens
+Tuition graph for private colleges - the first critical rise happens
 during the 70s
 
 [[-]](https://pbs.twimg.com/media/FRfUD4KXMAAjSjj?format=png&name=small)
