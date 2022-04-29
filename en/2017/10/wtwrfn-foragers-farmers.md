@@ -3,7 +3,7 @@
 [Ian Morris](https://www.amazon.de/Why-West-Rules-Now-Patterns/dp/0312611692)
 
 The early farmers of the Hilly Flanks [an area covering today's Iraq,
-Syria] transformed the way people lived [..]
+Syria, TR] transformed the way people lived [..]
 
 Female foragers, who regularly carry their infants with them as they
 walk thousands of miles every year gathering plants. Not surprisingly,
@@ -32,13 +32,12 @@ option but to push into the (in their eyes) marginal territories of
 the foragers [later either forager would became farmer, or were pushed
 away to the edges of their continent through sheer numbers].
 
-By 6500 Çatalhöyük in modern Turkey had perhaps three thousand.  These
-were villages on steroids, and they had all the problems that
-implies...  [P]eople simply dumped garbage and night soil in stinking
-heaps between houses, to be trodden into the dust and mud. The filth
-would have appalled hunter-gatherers but surely delighted rats, flies,
-and fleas... Yet for all the squalor, this was clearly what people
-wanted.
+By 6500 Çatalhöyük [TR] had perhaps three thousand.  These were
+villages on steroids, and they had all the problems that implies...
+[P]eople simply dumped garbage and night soil in stinking heaps
+between houses, to be trodden into the dust and mud. The filth would
+have appalled hunter-gatherers but surely delighted rats, flies, and
+fleas... Yet for all the squalor, this was clearly what people wanted.
 
 Little hunter-gatherer bands had had broad geographical horizons but
 narrow social ones: the landscape changed but the faces did not. The
