@@ -6,8 +6,6 @@
 
 [10 Myths about Israel by Pappe](../../2020/06/10-myths-israel.md)
 
-[Alex](../../2014/10/alex.md)
-
 [The Private Security State](../../2018/08/the-security-state.md)
 
 [The Forgotten Legacy of the Six-Day War](../../2018/05/the-forgotten-legacy-of-six-day-war.md)
