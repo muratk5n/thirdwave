@@ -90,7 +90,7 @@ first-wave agrarian. The newer wave always wins.
 
 ---
 
-'Cob' as in corn on the cock 
+'Cob' as in 'corn on the cock'
 
 ---
 
