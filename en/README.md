@@ -71,22 +71,6 @@ resource of approximately 5 trillion to 8 trillion cubic feet"
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 "@jackcalifano
 
 I don’t want 8K TVs and self driving cars. I want a 4 day work week
@@ -261,8 +245,7 @@ system"
 ---
 
 Al Jazeera: "Germany’s Uniper to pay for Russian gas via Russia bank
-account.. This offers some countries a loophole to keep buying Russian
-gas against Western currencies"
+account"
 
 ---
 
