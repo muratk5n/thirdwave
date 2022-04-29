@@ -152,8 +152,8 @@ backed loans for anything. Private schools can be mandated to accept a
 certain percentage tuition-free (not through a grant, or scholarship),
 those seats would essentially be completely outside the market
 structure.  Clear-cut division. Bizarre interaction with the market
-will backfire, or will sadly fall short (Obamacare, Fannie-Freddie,
-tuition crisis).
+will backfire, or will sadly fall short (see Obamacare,
+Fannie-Freddie, tuition crisis).
 
 ---
 
