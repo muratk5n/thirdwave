@@ -215,8 +215,8 @@ Ouch - \#AmberTurd was trending
 ---
 
 The grand US strategy, foundation of its empire is based on meddling
-in Eurasia. Even places like Kosova got military love (whereas Rwanda
-didn't), bcz of US need to be 'involved' there.
+in Eurasian landmass. Even places like Kosova got military love
+(whereas Rwanda didn't), bcz of US need to be 'involved' there.
 
 ---
 
