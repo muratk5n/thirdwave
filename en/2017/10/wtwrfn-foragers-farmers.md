@@ -111,11 +111,11 @@ years ago] in both East and West. Both regions saw the domestication
 of dogs, the cultivation of plants, and domestication of large (by
 which I mean weighing over a hundred pounds) animals. Both saw the
 gradual development of “full” farming (by which I mean high-yield,
-labor-intensive systems with fully 143domesticated plants and wealth
-and gender hierarchy), the rise of big villages (by which I mean more
-than a hundred people), and, after another two to three thousand
-years, towns (by which I mean more than a thousand people). In both
-regions people constructed elaborate buildings and fortifications,
+labor-intensive systems with fully domesticated plants and wealth and
+gender hierarchy), the rise of big villages (by which I mean more than
+a hundred people), and, after another two to three thousand years,
+towns (by which I mean more than a thousand people). In both regions
+people constructed elaborate buildings and fortifications,
 experimented with protowriting, painted beautiful designs on pots,
 used lavish tombs, were fascinated with ancestors, sacrificed humans.
 
