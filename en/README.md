@@ -182,7 +182,7 @@ during the 70s
 
 ---
 
-Er no, I dont think RR has the primary responsibility here
+Er no, I dont think RR is the primary culprit here
 
 CNBC: "Reagan cut higher education funding and student aid, and
 college costs boomed as a result. "
