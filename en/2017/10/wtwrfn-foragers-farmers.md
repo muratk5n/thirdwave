@@ -1,6 +1,6 @@
 # WTWRFN (Foragers, Farmers)
 
-Ian Morris, [WTWRFN](https://www.amazon.de/Why-West-Rules-Now-Patterns/dp/0312611692)
+[Ian Morris](https://www.amazon.de/Why-West-Rules-Now-Patterns/dp/0312611692)
 
 The early farmers of the Hilly Flanks [an area covering today's Iraq,
 Syria] transformed the way people lived [..]
