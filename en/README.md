@@ -84,7 +84,7 @@ to visits now it is coming back to life.
 
 ---
 
-Otto was done-in by inter-wave conflict; second wave industrial vs
+Otto was done-in by inter-wave conflict; second-wave industrial vs
 first-wave agrarian. The newer wave always wins.
 
 ---
