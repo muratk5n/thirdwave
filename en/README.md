@@ -94,12 +94,13 @@ first-wave agrarian. The newer wave always wins.
 
 ---
 
-Pre-modern agro implies certain lifestyle; staticity, relationship
-with the goat (let's define "what 'is' is" kind of relationship)
-worshipping ancestors, and of course they were driven to sacrifice the
-odd human here and there. These were feudal cobsuckers. Then they
-would be run over by an empire like the Romans, Otto (there is always
-a bigger cobsucker) and this pattern would continue for centuries.
+Pre-modern agro implies certain lifestyle; staticity, unorthodox
+relationships with the goat (let's define "what 'is' is" kind of
+relationship) worshipping ancestors, and of course they were driven to
+sacrifice the odd human here and there. These were feudal
+cobsuckers. Then they would be run over by an empire like the Romans,
+Otto (there is always a bigger cobsucker) and this pattern would
+continue for centuries.
 
 ---
 
