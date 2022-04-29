@@ -232,6 +232,11 @@ sites closed. But Russia’s invasion has pushed prices sharply higher"
 
 ---
 
+The Independent: "Ukraine war contributing to largest commodity shock
+in 50 years, says World Bank"
+
+---
+
 Big claim. Wonder if it's true - the one on F-35s
 
 Eurasian Times: "Not Only Stealth F-35s, Russian S-500 Missile Can
@@ -246,11 +251,6 @@ system"
 
 Al Jazeera: "Germany’s Uniper to pay for Russian gas via Russia bank
 account"
-
----
-
-The Independent: "Ukraine war contributing to largest commodity shock
-in 50 years, says World Bank"
 
 ---
 
