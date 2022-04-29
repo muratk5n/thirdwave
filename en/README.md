@@ -211,10 +211,9 @@ Reshoots of *Aquaman 2* in the works? Holy turd!
 
 Ouch - \#AmberTurd was trending
 
----
-The grand US strategy, its foundation of the empire is based on
-meddling in Eurasia. Even places like Kosova got military love, bcz of
-their need to be 'involved'.
+--- The grand US strategy, its foundation of the empire is based on
+meddling in Eurasia. Even places like Kosova got military love
+(whereas Rwanda didn't), bcz of their need to be 'involved'.
 
 ---
 
