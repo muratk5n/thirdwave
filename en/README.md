@@ -124,13 +124,13 @@ Authority said"
 
 BEVs are also an ineffective, retarded midway creations right? They
 exist at the intersection of the wall plug and the auto
-vehicle. Popularized by white-collar office dwelling limpdicks whose
-view of the "outside" never goes beyond that wall plug, a bastardized
-product came into being which is the battery-electric car. Electricity
-transmission is not efficient, refueling, sorry recharging, certainly
-isn't - but a certain crowd likes these half-way, co-existing
-solution-looking non-solutions, so it received certain amt of undue
-attention.
+vehicle. Popularized by white-collar office dwelling Dem limpdicks
+whose view of the "outside" never goes beyond that wall plug, a
+bastardized product came into being which is the battery-electric
+car. Electricity transmission is not efficient, refueling, sorry
+recharging, certainly isn't - but a certain crowd likes these
+half-way, co-existing solution-looking non-solutions, so it received
+certain amt of undue attention.
 
 ---
 
