@@ -103,7 +103,7 @@ a bigger cobsucker) and this pattern would continue for centuries.
 ---
 
 All agro societies had sacrifices, it comes with the territory,
-or.. the material "superstructure" - see [Morris](wtwrfn-foragers-farmers.md#eastwest).
+or.. the material "superstructure" - see [Morris](2017/10/wtwrfn-foragers-farmers.md#eastwest).
 
 WION: "A crime scene? 150 skulls found in Mexican cave turn out to be
 remains of sacrificial victims from AD 900"
