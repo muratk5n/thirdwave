@@ -2,6 +2,15 @@
 
 ---
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Aviation H2, a company aiming to develop a <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a>-fuelled aircraft by 2023, has launched a capital raise today (April 28). <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/H2View?src=hash&amp;ref_src=twsrc%5Etfw">#H2View</a> <a href="https://t.co/XpBc2pGyNF">https://t.co/XpBc2pGyNF</a></p>&mdash; H2 View (@h2_view) <a href="https://twitter.com/h2_view/status/1519646343320461313?ref_src=twsrc%5Etfw">April 28, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+H2 View: "Aviation H2 selects liquid ammonia to fuel its
+hydrogen-powered aircraft slated for 2023"
+
+---
+
 H2 Fuel News: "Advanced Ionics Secures $4.2 Million to Enable a New
 Era for Decarbonization of Industrial Hydrogen Production..  Led by
 Clean Energy Ventures, the investment will pave the way for Advanced
@@ -20,11 +29,6 @@ into a hub for hydrogen"
 
 H2 View: "Vietnam project to support the hydrogen value chain with
 green ammonia export opportunity"
-
----
-
-H2 View: "Aviation H2 selects liquid ammonia to fuel its
-hydrogen-powered aircraft slated for 2023"
 
 ---
 
