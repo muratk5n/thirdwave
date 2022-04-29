@@ -191,7 +191,7 @@ college costs boomed as a result. "
 ---
 
 If making it easier to 'afford' something blows up its price, where
-else can we apply that? College tuition prices are through the roof;
+else can we such effects? College tuition prices are through the roof;
 and voila - look at outstanding student debt (also at stratospheric
 levels)
 
