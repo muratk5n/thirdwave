@@ -107,7 +107,7 @@ consolidating holdings. The rich got richer.
 <a name='eastwest'/>
 
 [R]oughly the same things happened [after invention of agriculture 10k
-years aago] in both East and West. Both regions saw the domestication
+years ago] in both East and West. Both regions saw the domestication
 of dogs, the cultivation of plants, and domestication of large (by
 which I mean weighing over a hundred pounds) animals. Both saw the
 gradual development of “full” farming (by which I mean high-yield,
