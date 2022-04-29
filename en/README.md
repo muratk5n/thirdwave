@@ -130,8 +130,8 @@ whose view of the "outside" never goes beyond that wall plug, a
 bastardized product was popularized which is the battery-electric
 car. Electricity transmission is not efficient, refueling, sorry
 recharging, certainly isn't - but a certain crowd likes these
-half-way, co-existing solution-looking non-solutions, and the country,
-the world is paying the price for it.
+half-way, co-existing solution-looking non-solutions, and the world,
+econ can pay a huge price for it.
 
 ---
 
