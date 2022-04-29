@@ -75,7 +75,7 @@ resource of approximately 5 trillion to 8 trillion cubic feet"
 "@jackcalifano
 
 I don’t want 8K TVs and self driving cars. I want a 4 day work week
-and rent contro"
+and rent control"
 
 ---
 
