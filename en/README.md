@@ -59,8 +59,9 @@ Blocks - apparently exploration of Blocks 6 and 3 caused tensions
 ---
 
 That would be 1.3 gboe (giga barrels of oil equivalent). They seem to
-find the biggest fields away from the Northern part of the island, homie
-lives there. Cyprus per history, is divided into two, Greek vs homie
+find the biggest fields away from the Northern part of the island
+where homie lives. Cyprus per history, is divided into two, Greek vs
+homie
 
 "[2019] The well, located in Block 10 [near Cyprus], encountered a
 gas-bearing reservoir..  Based on preliminary interpretation of the
