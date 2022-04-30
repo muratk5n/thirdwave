@@ -67,6 +67,19 @@ def trump_approval():
     df['net'] = df['approve'] - df['disapprove']
     return df
 
+def isw_scale(pix):
+    luhansk=(457,426,48.56534020711602,39.3020952880228)
+    svatove=(308,251,49.402385466589465,38.17335779607319)
+
+    dx = (luhansk[3]-svatove[3])/(luhansk[0]-svatove[0])
+    dy = (luhansk[2]-svatove[2])/(luhansk[1]-svatove[1])
+    res = []
+    for p in pix:
+      x = ((p[0]-svatove[0])*dx) + svatove[3]
+      y = ((p[1]-svatove[1])*dy) + svatove[2]
+      res.append([np.round(y,4),np.round(x,4)])
+    return res
+
 if __name__ == "__main__": 
 
     '''
@@ -76,5 +89,5 @@ if __name__ == "__main__":
     plt.show()
     '''
 
-    fetch_ukr_war_map(datetime.datetime(2022,4,27))
+    fetch_ukr_war_map(datetime.datetime(2022,4,29))
     
