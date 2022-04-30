@@ -604,15 +604,6 @@ made great progress on its large-scale hydrogen project, that will see
 
 ---
 
-NATO-style.. Then what was the point of all that 'giving up NATO
-membership' talk? This sounds like a non-concession concession. No
-wonder UKR-RU discussions are dead.
-
-Reuters: "[Mar 29] Ukraine offers neutrality in exchange for
-NATO-style security guarantees at Russia talks"
-
----
-
 WION: "More than 4.7 million Ukrainians have fled their country in the
 50 days since Russia invaded, the United Nations said Thursday"
 
