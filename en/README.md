@@ -146,7 +146,7 @@ information... Liveuamap assumes control by drawing a polygon around
 events and, given the large number of social media events it contains,
 is able to generate areas of control"
 
-[PDF](https://acleddata.com/acleddatanew/wp-content/uploads/2019/03/ACLED_Syria-Map-Methodology_Version2_3.2019-1.pdf	)
+[PDF](https://acleddata.com/acleddatanew/wp-content/uploads/2019/03/ACLED_Syria-Map-Methodology_Version2_3.2019-1.pdf)
 
 ---
 
