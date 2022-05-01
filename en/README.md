@@ -112,7 +112,7 @@ dabbled in Syrian affairs too according to some.
 
 ---
 
-Bottom of his heart.. How sweet
+Bottom of his heart.. How **sweet**.
 
 Wikileaks: "Sarkozy is the French politician who most supports the
 role of the United States in the world.. His nickname is 'Sarkozy the
