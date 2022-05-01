@@ -95,12 +95,6 @@ Woke went broke - again
 
 ---
 
-Dehydrated poultry, beef toughens. Must be why blender is used for
-pemmican. How abt cook first, blend, then dehyd; cooked pieces should
-seperate during dehyd - sounds easier.
-
----
-
 Al Monitor: "Iran-Saudi tensions near end, Iraq PM says"
 
 ---
