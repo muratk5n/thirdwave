@@ -178,9 +178,9 @@ Yea.. not looking good; Lyman is nearly inside that front line
 
 ---
 
-Just watched Ukranian guy on Al Jazeera, from the town Lyman near RU
+Just saw Ukranian guy on Al Jazeera, from the town Lyman near RU
 front, said he heard from ppl next town mil gave up, so the advance is
-now coming for him 
+now coming for him
 
 ---
 
