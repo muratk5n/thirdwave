@@ -100,7 +100,7 @@ Al Monitor: "Iran-Saudi tensions near end, Iraq PM says"
 ---
 
 The person in charge looks like another one of those "regime change
-Democrats". Woke morons who like battery-electric cars.
+Democrats". I bet she is woke and likes battery-electric cars.
 
 "The Department of Homeland Security is setting up a Disinformation
 Governance Board to try to counter the spread of false
