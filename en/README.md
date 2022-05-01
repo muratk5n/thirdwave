@@ -149,7 +149,7 @@ is able to generate areas of control"
 ---
 
 The RU advance is reverse-engineered from Liveuamap images; given two
-known pixel-coordinate mappings, calculate lat,lon from pixels. In
+known pixel-coordinate mappings, can calculate lat,lon from image. In
 small areas it's close enough.
 
 ---
