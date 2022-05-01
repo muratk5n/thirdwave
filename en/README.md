@@ -2,6 +2,10 @@
 
 ---
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A new gigawatt-scale electrolyser manufacturing plant will be developed in <a href="https://twitter.com/hashtag/Texas?src=hash&amp;ref_src=twsrc%5Etfw">#Texas</a>, US, to support the creation of a 60GW <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> hub. <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/H2View?src=hash&amp;ref_src=twsrc%5Etfw">#H2View</a> <a href="https://t.co/uc8m343nwk">https://t.co/uc8m343nwk</a></p>&mdash; H2 View (@h2_view) <a href="https://twitter.com/h2_view/status/1519606935456292865?ref_src=twsrc%5Etfw">April 28, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 H2 News: "Canadian Aboriginal community explores hydrogen fuel plant deal"
 
 ---
