@@ -61,14 +61,6 @@ Including Hydrogen Blends Up to 50%"
 
 ---
 
-"@StevenTDennis
-
-[Manchin.. ] is pushing WH to accelerate the Mountain Valley Pipeline,
-which would ship 2 billion cubic feet of methane per day and he says
-can be upgraded to export hydrogen from West Virginia"
-
----
-
 "PetroChina building China’s first dedicated pipeline for green
 hydrogen The six-kilometre line will have a throughput capacity of
 10,000 cubic metres per hour"
