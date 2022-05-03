@@ -53,7 +53,7 @@ target of 10% hydrogen blending [in the state’s gas grid] by 2030'"
 
 ---
 
-Life is too financialized. Does all prices need to go up?
+Life is too financialized. Do all prices always have to go up?
 
 Ideally homeowner bought home to live in, for a while. But then homes
 become a "financial assets", expectations changed.
