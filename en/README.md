@@ -121,13 +121,13 @@ illegal Israeli settlers"
 Arab Nationalism could be a threat for France I guess through Algeria,
 Morocco, so they wanted it 'handled' through Israel.
 
-"Israel had long wanted a nuclear weapon of its own, but was isolated
-diplomatically in the years after its founding in 1948. But by the
-mid-1950s, that had changed. Western powers were so concerned at the
-rise of Arab nationalism, and in particular the leadership of Gamal
-Abdel Nasser, that they conspired in 1956 to use Israel to attack
-Egypt and bring down Nasser. That plan failed, but it began a long
-association between the West and Israel.
+The National News: "Israel had long wanted a nuclear weapon of its
+own, but was isolated diplomatically in the years after its founding
+in 1948. But by the mid-1950s, that had changed. Western powers were
+so concerned at the rise of Arab nationalism, and in particular the
+leadership of Gamal Abdel Nasser, that they conspired in 1956 to use
+Israel to attack Egypt and bring down Nasser. That plan failed, but it
+began a long association between the West and Israel.
 
 It was France, in particular, enraged by the failure in 1956, that
 began building Israel’s bomb. By the end of the 1950s, there were
@@ -147,8 +147,8 @@ after a secret trial"
 
 ---
 
-I knew about the China-Pakistan nuke share. France-Israel was
-news.. What did FR have to gain from that?
+China-Pakistan nuke share is widely known. France-Israel rel is
+interesting.. What did FR have to gain from that?
 
 ---
 
