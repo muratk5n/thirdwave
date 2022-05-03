@@ -118,6 +118,13 @@ illegal Israeli settlers"
 
 ---
 
+NYT: "[Peter Thiel interview, 2017] It’s like, even if you appointed a
+whole series of conservative Supreme Court justices, I’m not sure that
+Roe v. Wade would get overturned.. I don’t know if people even care
+about the Supreme Court"
+
+---
+
 US National News: "Leaked Supreme Court document suggests vote will
 overturn Roe v. Wade, Politico reports"
 
