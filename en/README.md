@@ -118,6 +118,12 @@ illegal Israeli settlers"
 
 ---
 
+US National News: "Leaked Supreme Court document suggests vote will
+overturn Roe v. Wade, Politico reports"
+
+---
+
+
 Arab Nationalism could be a threat for France I guess through Algeria,
 Morocco, so they wanted it 'handled' through Israel.
 
