@@ -156,9 +156,10 @@ From an earlier share on nuke tech; Russia gave nuke tech to China and
 India. Some look for RU-CH rivalry, but when RU could withhold one of
 the most destructive weapons ever invented by mankind, they didn't
 even blink and chose to share - just gave it away to those two
-countries. RU,CH,IN, likely feel more threathened from outside than
-inside, instinctively untrusting towards outer countries.. That nuke
-share needs to figure into every analysis on the region.
+countries. They wanted strong neighors IMO towards outside, rather
+than weak neighbors they could lord over. RU,CH,IN, likely feel more
+threathened from outside than inside.. That nuke share needs to figure
+into every analysis on the region.
 
 [[-]](2017/07/the-next-decade-friedman.md#nuketech)
 
