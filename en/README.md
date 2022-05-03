@@ -123,6 +123,8 @@ series of conservative Supreme Court justices, I’m not sure that Roe
 v. Wade would get overturned.. I don’t know if people even care about
 the Supreme Court"
 
+[[-]](https://www.nytimes.com/2017/01/11/fashion/peter-thiel-donald-trump-silicon-valley-technology-gawker.html)
+
 ---
 
 US National News: "Leaked Supreme Court document suggests vote will
