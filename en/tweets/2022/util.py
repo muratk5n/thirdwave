@@ -10,7 +10,7 @@ def fetch_ukr_war_map(dt):
     sd = dt.strftime("%B%-d,%Y")
     url = base + sd + ".png"
     print (url)
-    outfile = "/tmp/isw-ukr-%d%d%d.png" % (dt.year,dt.month,dt.day)
+    outfile = "/tmp/isw-ukr-%d%d%02d.png" % (dt.year,dt.month,dt.day)
     import urllib.request as urllib2
     request = urllib2.Request(url)
     pic = urllib2.urlopen(request)
@@ -89,5 +89,5 @@ if __name__ == "__main__":
     plt.show()
     '''
 
-    fetch_ukr_war_map(datetime.datetime(2022,4,29))
+    fetch_ukr_war_map(datetime.datetime(2022,5,1))
     

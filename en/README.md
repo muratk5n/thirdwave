@@ -12,7 +12,7 @@ India Germany Ink Pact On Green Hydrogen During Modi s Berlin Visit"
 
 ---
 
-Modi - Scholz press briefing, talked about green H2 coopoeration,
+Modi - Scholz press briefing, talked about green H2 cooperation,
 creation of green H2 taskforce, and 10 billion euros aid from DE to IN
 for green tech.
 

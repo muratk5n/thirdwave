@@ -163,10 +163,8 @@ clat,clon=48.70665, 37.5; zoom = 0.27
 
 ukr = json.loads(open("ukraine1.json").read())
 ru = np.array(ukr['front']['20220430'])
-
 sm.plot_countries(clat,clon,zoom,outcolor='lavenderblush')
 sm.plot_line(ru,color='red',linestyle='dashed')
-
 for city in ['donetsk','luhansk','volnovakha','lyman']:
    c = sm.find_city(city,"ukraine")[0]
    plt.text(float(c[9]),float(c[8]),c[1])
