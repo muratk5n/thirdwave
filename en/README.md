@@ -68,7 +68,7 @@ Multi-tower CSP with heat-engine.
 
 ---
 
-Mozarella dries very fast - 2 hrs tops at 80 C.
+Grated cheddar type cheese dries very fast - 2 hrs tops at 80 C.
 
 ---
 
