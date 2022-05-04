@@ -2,7 +2,7 @@
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">OUT NOW📢Today, the European Hydrogen Backbone initiative published a paper detailing an updated, extended, and accelerated EHB vision now involving 31 <a href="https://twitter.com/hashtag/energy?src=hash&amp;ref_src=twsrc%5Etfw">#energy</a> infrastructure companies from 28 countries. Scroll below for more info👇<br><br>📲Download full paper: <a href="https://t.co/UX0NExqACh">https://t.co/UX0NExqACh</a> <a href="https://t.co/rpMJl1sw4Y">pic.twitter.com/rpMJl1sw4Y</a></p>&mdash; European Hydrogen Backbone (@ehb_europe) <a href="https://twitter.com/ehb_europe/status/1511252147169603588?ref_src=twsrc%5Etfw">April 5, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Gasgrid Finland participates in the update of <a href="https://twitter.com/ehb_europe?ref_src=twsrc%5Etfw">@ehb_europe</a> development vision – the hydrogen backbone to support the achievement of climate goals, REPowerEU plans, and developing the resilience of the European energy system. <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/EHB?src=hash&amp;ref_src=twsrc%5Etfw">#EHB</a> <a href="https://t.co/adljzgqa2X">https://t.co/adljzgqa2X</a> <a href="https://t.co/fdAbz5wzwC">pic.twitter.com/fdAbz5wzwC</a></p>&mdash; Gasgrid Finland Oy (@GasgridFinland) <a href="https://twitter.com/GasgridFinland/status/1511248215798161410?ref_src=twsrc%5Etfw">April 5, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
