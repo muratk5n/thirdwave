@@ -40,15 +40,14 @@ to take part in Chinese megaprojects"
 ---
 
 Undoubtedly an H2 based economy will play into the strengths of some
-new players, Germany, China, they can get reach sunshine regions
-easier then they could reach oil/gas rich regions, and import energy
-cleanly through renewable fuels. US was the king of an earlier era, it
-had the natural resources, and the military to get to OPP (other
-people's petroleum). But we cannot keep the existing system
-forever.. The world needs more energy, and climate change threatens to
-destroy us all. I believe renewable fuels will democratize the use of
-energy and make everyone richer. Power dynamics will change but that
-cannot be helped.
+new players who can reach sunshine regions easier then they could
+reach oil/gas rich regions, and import energy cleanly through
+renewable fuels. US was the king of an earlier era, it had the natural
+resources, and the military to get to OPP (other people's
+petroleum). But we cannot keep the existing system forever.. The world
+needs more energy, and climate change threatens to destroy us all. I
+believe renewable fuels will democratize the use of energy and make
+everyone richer. Power dynamics will change but that cannot be helped.
 
 ---
 
