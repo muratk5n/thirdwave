@@ -1,7 +1,5 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-
-
 ---
 
 H2 View: "Everfuel to develop a hydrogen refuelling station for the
@@ -68,30 +66,6 @@ hydrogen hub with EverWind Fuels announcing its intentions"
 Multi-tower CSP with heat-engine.
 
 [[-]](https://youtu.be/SFDuB0a7Uzc?t=36)
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-East of Dniporo is too ready made for RU invasion; its immediate north
-is belarus, now 100% putin ally. the rest is russia on the east,
 
 ---
 
