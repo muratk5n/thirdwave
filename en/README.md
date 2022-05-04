@@ -185,7 +185,7 @@ maybe you could reach the number of Jews killed by the Nazis.
 Current cultural and genetic make-up of Anatolia is overwhelmingly
 local. Similar people, culture have been in the land for at last ten
 thousand years, not a few hundred, or even thousand. They are not
-foreigners in their own land. Tigger nationalists are lying cunts.
+foreigners in their own land. Tigger nationalists are lying.
 
 ---
 
