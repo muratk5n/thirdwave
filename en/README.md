@@ -166,7 +166,8 @@ would the US Apollo program be possible without Wernher von Braun?  He
 developed his trade while building rockets for Nazis. If there is no
 space program there are no additional inno that comes from
 it. Scratch-resistant lenses, teflon, velcro.. Have a funky sport shoe
-with velcro? You can thank Hitler for that.
+with velcro? You can thank the Nazis for that. You can thank the Brits
+for..  some institutions here and there, fine.
 
 "Britain's presence in some countries helped their democratic
 institutions"
