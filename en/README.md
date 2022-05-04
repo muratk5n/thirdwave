@@ -230,7 +230,7 @@ through Taiwan Strait"
 
 ---
 
-It was an obvious bullshot story. But MSM lept it up. Suckaz.
+It was an obvious bullshit story. But MSM lept it up. Suckaz.
 
 "Ukraine admits ‘Ghost of Kyiv’ fighter pilot is a myth"
 
