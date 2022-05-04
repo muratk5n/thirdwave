@@ -219,6 +219,12 @@ to the same period previous year"
 
 ---
 
+Politico: "[Chancelor] Olaf Scholz holds off on Ukraine visit, citing
+diplomatic snub.. Berlin didn't take kindly to Kyiv's refusal to
+welcome the German president last month"
+
+---
+
 Reuters: "[5/2] Chinese carrier sails through waters near Okinawa,
 Japan says"
 
@@ -238,12 +244,6 @@ It was an obvious bullshit story. But MSM lept it up. Suckaz.
 WSJ: "With war in Ukraine upending global grain trade, other countries
 scramble to fill the gap in supplies, but soaring prices threaten to
 worsen food insecurity in poor regions"
-
----
-
-Politico: "[Chancelor] Olaf Scholz holds off on Ukraine visit, citing
-diplomatic snub.. Berlin didn't take kindly to Kyiv's refusal to
-welcome the German president last month"
 
 ---
 
