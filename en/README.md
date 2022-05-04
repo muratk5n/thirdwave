@@ -108,7 +108,7 @@ had a few conservative governments since the enactment of single-payer
 
 Actually the permanent policy of left should be to *always* cancel the
 student debt whenever they are in power. I bet that would encourage
-the right to abollish those programs **pronto** when the can; and
+the right to abollish those programs **pronto** when they can; and
 that's fine too, the left can then later enact less market-intrusive
 programs, they'd remain (bcz they'd f-ing work).
 
