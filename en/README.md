@@ -181,10 +181,10 @@ maybe you could reach the number of Jews killed by the Nazis.
 
 ---
 
-Current cultural and genetic make-up of Anatolia is 90% local. Similar
-people, culture have been in the land for at last ten thousand years,
-not a few hundres, or even thousand years. They are not foreigners in
-their own land. Nationalists have been lying to all.
+Current cultural and genetic make-up of Anatolia is overwhelmingly
+local. Similar people, culture have been in the land for at last ten
+thousand years, not a few hundres, or even thousand years. They are
+not foreigners in their own land. Nationalists have been lying to all.
 
 ---
 
@@ -212,11 +212,9 @@ exclusive podcast interview"
 
 WION: "Even as energy shipments to Europe remain uncertain due to
 ongoing hostilities, Russian energy giant Gazprom declared a large
-increase in exports on Sunday.
-
-In the first four months of 2022, Russia's gas shipments to China
-increased by as much as 60% compared to the same period previous
-year"
+increase in exports on Sunday. In the first four months of 2022,
+Russia's gas shipments to China increased by as much as 60% compared
+to the same period previous year"
 
 ---
 
