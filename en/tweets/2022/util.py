@@ -68,15 +68,15 @@ def trump_approval():
     return df
 
 def isw_scale(pix):
-    luhansk=(457,426,48.56534020711602,39.3020952880228)
-    svatove=(308,251,49.402385466589465,38.17335779607319)
+    a=(402,423,47.08663463830697, 37.5382073671603) # mariopol
+    b=(418,329,48.01772552348221, 37.80499020789566) # donetsk
 
-    dx = (luhansk[3]-svatove[3])/(luhansk[0]-svatove[0])
-    dy = (luhansk[2]-svatove[2])/(luhansk[1]-svatove[1])
+    dx = (a[3]-b[3])/(a[0]-b[0])
+    dy = (a[2]-b[2])/(a[1]-b[1])
     res = []
     for p in pix:
-      x = ((p[0]-svatove[0])*dx) + svatove[3]
-      y = ((p[1]-svatove[1])*dy) + svatove[2]
+      x = ((p[0]-b[0])*dx) + b[3]
+      y = ((p[1]-b[1])*dy) + b[2]
       res.append([np.round(y,4),np.round(x,4)])
     return res
 
