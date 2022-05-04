@@ -2,21 +2,12 @@
 
 ---
 
-H2 View: "Everfuel to develop a hydrogen refuelling station for the
-Danish-German Fehmarn Belt"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">OUT NOW📢Today, the European Hydrogen Backbone initiative published a paper detailing an updated, extended, and accelerated EHB vision now involving 31 <a href="https://twitter.com/hashtag/energy?src=hash&amp;ref_src=twsrc%5Etfw">#energy</a> infrastructure companies from 28 countries. Scroll below for more info👇<br><br>📲Download full paper: <a href="https://t.co/UX0NExqACh">https://t.co/UX0NExqACh</a> <a href="https://t.co/rpMJl1sw4Y">pic.twitter.com/rpMJl1sw4Y</a></p>&mdash; European Hydrogen Backbone (@ehb_europe) <a href="https://twitter.com/ehb_europe/status/1511252147169603588?ref_src=twsrc%5Etfw">April 5, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/FR2-MChXMAAlc1F?format=jpg&name=small"/>
-
-"Revolutionary liquid hydrogen tanker to scale hydrogen adoption in the
-mobility market.. C-Job Naval Architects has.. co-designed [the
-vessel] with LH2 Europe.. [which] is.. equipped with three liquid
-hydrogen storage tanks with a total capacity of 37,500m3.. [the plan
-is] to initially deliver 100 tons per day (t/d) of green hydrogen and
-ramp up production to 300 t/d within three years, depending on demand"
-
-[[-]](https://www.h2-view.com/story/revolutionary-liquid-hydrogen-tanker-to-scale-hydrogen-adoption-in-the-mobility-market/)
+H2 View: "Everfuel to develop a hydrogen refuelling station for the
+Danish-German Fehmarn Belt"
 
 ---
 
@@ -39,11 +30,24 @@ to take part in Chinese megaprojects"
 
 ---
 
+<img width="340" src="https://pbs.twimg.com/media/FR2-MChXMAAlc1F?format=jpg&name=small"/>
+
+"Revolutionary liquid hydrogen tanker to scale hydrogen adoption in the
+mobility market.. C-Job Naval Architects has.. co-designed [the
+vessel] with LH2 Europe.. [which] is.. equipped with three liquid
+hydrogen storage tanks with a total capacity of 37,500m3.. [the plan
+is] to initially deliver 100 tons per day (t/d) of green hydrogen and
+ramp up production to 300 t/d within three years, depending on demand"
+
+[[-]](https://www.h2-view.com/story/revolutionary-liquid-hydrogen-tanker-to-scale-hydrogen-adoption-in-the-mobility-market/)
+
+---
+
 Undoubtedly an H2 based economy will play into the strengths of some
 new players who can reach sunshine regions easier then they could
 reach oil/gas rich regions, and import energy cleanly through
-renewable fuels. US was the king of an earlier era, it had the natural
-resources, and the military to get to OPP (other people's
+renewable fuels. US was the king of an earlier era, it had its own
+natural resources, and the military to get to OPP (other people's
 petroleum). But we cannot keep the existing system forever.. The world
 needs more energy, and climate change threatens to destroy us all. I
 believe renewable fuels will democratize the use of energy and make
