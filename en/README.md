@@ -146,9 +146,9 @@ Caravan Palace - Black Betty \#music
 
 'Morgage stress'? But lower house prices would translate into lower
 rent prices in a few years.. Renters don't matter? In Oz home owners
-do not dominate as I understand even with historically (bcz low rates
-create a flurry of activity pushing the home prices up so high most
-cannot affor them even with low rates).
+do not dominate as I understand even with historically low rates (bcz
+low rates create a flurry of activity pushing the home prices up so
+high most cannot afford them, even with low rates).
 
 ---
 
