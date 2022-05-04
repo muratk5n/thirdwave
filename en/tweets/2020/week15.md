@@ -889,13 +889,13 @@ for private jets? Of course it did"
 
 ---
 
-[Hidalgo](../../2017/08/hidalgo.md)
+[Hidalgo](../../2017/08/hidalgo.html)
 
-[Sornette](../../2017/03/bubble_nb.md)
+[Sornette](../../2017/03/bubble_nb.html)
 
 ---
 
-Just redid Keen's [math](../../2018/02/keen_math.md)
+Just redid Keen's [math](../../2018/02/keen_math.html)
 
 ---
 

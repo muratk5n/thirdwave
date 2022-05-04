@@ -207,7 +207,7 @@ habits etc.
 
 ---
 
-My favorite part from Pappe is [this](2020/06/10-myths-israel.md):
+My favorite part from Pappe is [this](2020/06/10-myths-israel.html):
 
 >The myth insists that the Jews who arrived in 1882 were the
 >descendants of the Jews expelled by the Romans around 70 CE. The

@@ -236,7 +236,7 @@ the alloy used in the Lavo storage system"
 
 ---
 
-Hydride based H2 storage was listed [here](2020/10/h2-storage.md).
+Hydride based H2 storage was listed [here](2020/10/h2-storage.html).
 
 ---
 
@@ -270,7 +270,7 @@ payload versus battery electric vehicles"
 
 ---
 
-It's not surprising fascists sometimes [offering](2020/07/right-acting-left.md) left
+It's not surprising fascists sometimes [offering](2020/07/right-acting-left.html) left
 solutions. While it's fine to get some left policies, you really don't need the
 accompanying drama, or deaths, and the errant stupidity.
 
@@ -515,7 +515,7 @@ to be as hands-off as possible (refs for everything). It works.
 
 ---
 
-[Standardization](2011/03/fundamentals-of-industrial-ideologies_standardization.md).. 👎
+[Standardization](2011/03/fundamentals-of-industrial-ideologies_standardization.html).. 👎
 
 The Independent, 2015: "Schools are using 'dubious practices' and even
 cheating to achieve better performance results because of the intense

@@ -345,9 +345,9 @@ snub".
 ---
 
 Addn'l gems here on DARPA, gov, and innovation -
-[1](../../2021/10/entrepreneuel-state-mazzucato.md),
-[2](../../2021/10/mission-economy.md),
-[3](../../2021/10/the-value-of-everything.md)
+[1](../../2021/10/entrepreneuel-state-mazzucato.html),
+[2](../../2021/10/mission-economy.html),
+[3](../../2021/10/the-value-of-everything.html)
 
 ---
 
@@ -448,7 +448,7 @@ statistical test wld agree. Clustering disproved.
 
 ---
 
-Why the Poisson distribution usage in this [post](../../2021/08/bermuda.md)?
+Why the Poisson distribution usage in this [post](../../2021/08/bermuda.html)?
 Event counts tend to be distributed that way.. Let's take the London
 bombing [example](https://www.cambridge.org/core/journals/journal-of-the-institute-of-actuaries/article/abs/an-application-of-the-poisson-distribution/F75111847FDA534103BD4941BD96A78E).
 They were wondering if bombings were clustering at specific places.

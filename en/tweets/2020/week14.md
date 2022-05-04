@@ -2,7 +2,7 @@
 
 Update of econ numbers. VIX is down to 46. Dollar >100.
 
-[Link](../../2019/05/stats.md)
+[Link](../../2019/05/stats.html)
 
 ---
 

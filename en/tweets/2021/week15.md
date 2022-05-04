@@ -198,7 +198,7 @@ Not into ironing..
 ---
 
 It's like Israelis. The Jews didnt "leave" the region, they converted and
-[they stayed](../../2020/06/10-myths-israel.md). Leaving is hard, ppl usually dont.
+[they stayed](../../2020/06/10-myths-israel.html). Leaving is hard, ppl usually dont.
 
 ---
 
@@ -239,7 +239,7 @@ within two and a half hours instead"
 
 ---
 
-Talked abt that before; see the [South Korean](../../2018/06/guiding-regulation-south-korea.md)
+Talked abt that before; see the [South Korean](../../2018/06/guiding-regulation-south-korea.html)
 example. It's the invisible hand approach, with a caveat, the invisible hand is
 government's 😶
 
@@ -252,7 +252,7 @@ I am not saying make war, but if there was war, it wld not be good for Iran.
 ---
 
 US power is hundreds of times more than Iran's. Israel is way ahead of
-them too (see [method](../../2021/03/power-of-nations-beckley-code.md))
+them too (see [method](../../2021/03/power-of-nations-beckley-code.html))
 
 ```python
 import pandas as pd
@@ -357,7 +357,7 @@ Minister Lee Hsien Loong"
 
 Added new page for conflict stats
 
-[Link](../../2019/05/confstats.md)
+[Link](../../2019/05/confstats.html)
 
 ---
 

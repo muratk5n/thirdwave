@@ -165,11 +165,11 @@ Smart actor.
 
 ---
 
-Other [H2 storage methods](../../2020/10/h2-storage.md)
+Other [H2 storage methods](../../2020/10/h2-storage.html)
 
 ---
 
-Blogged about [LOHC](../../2020/11/h2-toloune-lohc.md) before.
+Blogged about [LOHC](../../2020/11/h2-toloune-lohc.html) before.
 
 ---
 
@@ -394,7 +394,7 @@ his approach to history.
 
 ---
 
-[Anatolia](../../2021/05/anatolia.md)
+[Anatolia](../../2021/05/anatolia.html)
 
 ---
 
@@ -446,7 +446,7 @@ must scarcely have existed at all"
 
 ---
 
-Governance culture can be different from people culture. As Tolay [said](../../2020/07/migrations-anatolia.md)
+Governance culture can be different from people culture. As Tolay [said](../../2020/07/migrations-anatolia.html)
 
 >The Persian dominance in Anatolia until Alexander the Great’s
 >conquests in 380 BCE had a great impact on the political structure of

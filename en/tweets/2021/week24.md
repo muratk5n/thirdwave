@@ -112,7 +112,7 @@ the coming weeks" via @internetofshit
 
 Interesting topic:
 
-[Ammonia Refigration](../../2021/06/ammonia-refrigration.md)
+[Ammonia Refigration](../../2021/06/ammonia-refrigration.html)
 
 ---
 

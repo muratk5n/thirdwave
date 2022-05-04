@@ -525,9 +525,9 @@ crimes against US citizens based on outright disinformation"
 
 ---
 
-[Here is](../../2020/07/migrations-anatolia.md)
-an American on the Anatolian history. She emphasized many of the same point
-that I had, hell she even used a Gellner reference.
+[Here is](../../2020/07/migrations-anatolia.html) an American on the Anatolian
+history. She emphasized many of the same point that I had, hell she even
+used a Gellner reference.
 
 ---
 

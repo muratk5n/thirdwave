@@ -123,7 +123,7 @@ to the "know-how network" of that country, and such networks can only
 form in close proximity. All of that contribute positively to
 growth. 
 
-[Link](../../en/2017/08/hidalgo.md)
+[Link](../../en/2017/08/hidalgo.html)
 
 ---
 

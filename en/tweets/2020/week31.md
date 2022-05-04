@@ -223,7 +223,7 @@ cares less abt the market]"
 
 ---
 
-They were MIA. Example of [left acting right](../../2020/07/left-acting-right.md).
+They were MIA. Example of [left acting right](../../2020/07/left-acting-right.html).
 Corporatism is one of its main tenets. As long as you are wearing a
 rainbow shirt, have a few black friends, and fighting "sexism", "racism"
 *especially* at a personal level where you are constantly naval gazing
@@ -580,7 +580,7 @@ Mm.. word is he botched the corona response
 
 ---       
 
-[See](../../2013/08/great-picture.md) (from 2013). 
+[See](../../2013/08/great-picture.html) (from 2013). 
 
 ---
 

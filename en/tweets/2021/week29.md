@@ -46,7 +46,7 @@ We use a little trick in this site.. I "have a guy" for each sub
 domain. That guy (or gal) is the sole voice for that domain. For
 anthropology Ian Morris, for social/tech Toffler,
 psychology/marketing Rapaille, etc. I weave these pieces together
-to achieve [greater-sum](../../2021/04/sum-greater-than-whole-reductionism.md).
+to achieve [greater-sum](../../2021/04/sum-greater-than-whole-reductionism.html).
 In a way I simulate an insitutional setting. But still, u r better off
 following MSM. You will rise or sink with the muckers.
 

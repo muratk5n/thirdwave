@@ -502,7 +502,7 @@ recruited me promised me free stuff"
 
 ---
 
-Re-share -- [Ancient](../../2020/07/ancient.md)
+Re-share -- [Ancient](../../2020/07/ancient.html)
 
 ---
 
@@ -627,7 +627,7 @@ If you go with that, Stallone is Jewish.
 
 Haha. He comes across 100% culturally American of course, I mean the
 actor himself.. which is also true for most [minorities in
-US](../../2019/11/faux-ambassadors.md). He acts a certain streotype
+US](../../2019/11/faux-ambassadors.html). He acts a certain streotype
 well though.. the take is somewhat comical most likely based on
 impressions he gleaned while growing up among real Italians, u know,
 the ones *truly* off the boat.
@@ -650,7 +650,7 @@ The winning sand sculpture of the Texas Sand Sculpture Festival"
 
 ---
 
-How much money can Anatolians generate from H2? Based on [H2 numbers](../../2022/02/base-energy-numbers.md),
+How much money can Anatolians generate from H2? Based on [H2 numbers](../../2022/02/base-energy-numbers.html),
 
 Panels can produce 1000 W/$m^2$. 
 

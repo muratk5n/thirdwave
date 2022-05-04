@@ -64,7 +64,7 @@ their internal forums, the problem was posts got out and media caused a frenzy"
 
 ---
 
-[Marx](../../2019/08/marx.md)
+[Marx](../../2019/08/marx.html)
 
 ---
 

@@ -772,7 +772,7 @@ days.
 
 ---
 
-I bet [you can't](../../2020/04/asia-minor-population.md)
+I bet [you can't](../../2020/04/asia-minor-population.html)
 
 "Tigger: But I bet I can find our nat roots in the population data"
 

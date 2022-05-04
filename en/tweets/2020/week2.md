@@ -261,7 +261,7 @@ live alone in the woods,"
 
 ---
 
-Great story on Dantzig (shared [here](../../2016/08/dantzig.md) before) -
+Great story on Dantzig (shared [here](../../2016/08/dantzig.html) before) -
 he comes late to class copying down the problems on the
 blackboard thinking they were homework problems, solves them, it turns
 out the probs were two (then) hardest, yet unsolved problems of

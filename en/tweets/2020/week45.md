@@ -241,7 +241,7 @@ then you miss out on the occasional good observation. Censoring is bad
 Cant go to the movies? Movie theathers were overrated anyway...
 
 2W was about
-[synchronization](../../2011/03/fundamentals-of-industrial-ideologies_synchronization.md);
+[synchronization](../../2011/03/fundamentals-of-industrial-ideologies_synchronization.html);
 in entertainment, in production, in ed. There can still be a place
 called school, somewhere outside of home, kids are dropped off useful
 for cases when home env is stressful, but ed itself will be be

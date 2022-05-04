@@ -435,7 +435,7 @@ by Emmanuel Macron, but almost half plan to break the new rules"
 
 ---
 
-Unions [lost a lot of power](../../2019/08/focus-group-democracy.md) after
+Unions [lost a lot of power](../../2019/08/focus-group-democracy.html) after
 70s. The left sufered due to losing org structure and
 leadership. Politicians themselves like that single contact to be
 lobbied by, u cant have bunch of random ppl running around trying to
@@ -603,7 +603,7 @@ innovation, doesn't that sound like simple addition?"
 
 ---
 
-It's true. [See](../../2021/04/suez-aftermath-ike-didnt-like.md)
+It's true. [See](../../2021/04/suez-aftermath-ike-didnt-like.html)
 
 "@rabrowne75
 

@@ -602,8 +602,7 @@ A+"
 
 ---
 
-Like [this one](../../2020/03/monolith.md),
-it was bang on. 
+Like [this one](../../2020/03/monolith.html), it was bang on. 
 
 ---
 
