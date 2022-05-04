@@ -108,7 +108,7 @@ Punta la Tegra consumed 1,602 Terrawatt-hours in 2020. Oil and natural
 gas at the top, hydro is very little 63,838 GWh. Other renewables
 (wind, solar) generate more actually.
 
-[[-]](../../../tr/2022/02/base-energy-numbers.md)
+[[-]](../../../tr/2022/02/base-energy-numbers.html)
 
 ---
 
@@ -207,7 +207,7 @@ plans at H2 View’s Virtual Hydrogen Summit Europe 2022"
 ---
 
 H2 at $1.50/kg means 10.48 dollars/Gigajoules, in the range of the
-table [here](../../2022/02/costs-lcoe.md) that beats natgas. NG is still
+table [here](../../2022/02/costs-lcoe.html) that beats natgas. NG is still
 good, but Hysata's number is better.    
 
 ---
@@ -396,7 +396,7 @@ Coal IGCC tech + CCS overnight capital cost is $3819/KW, almost on par
 with coal plant wout CCS. LCOE is high but LCOH is low. Letz have blue
 H2 coming out of all those plants.
 
-[[-]](../../2022/02/costs-lcoe.md)
+[[-]](../../2022/02/costs-lcoe.html)
 
 ---
 
@@ -554,7 +554,7 @@ Heinenoord."
 
 ---
 
-In my [costs](../../2022/02/costs-lcoe.md) doc I have the so-called nuclear
+In my [costs](../../2022/02/costs-lcoe.html) doc I have the so-called nuclear
 HTGR tech with a low LCOH (levelized cost of H2).  $17.55/Gigajoules
 is pretty good. Initial (overnight) costs can be high, and there is
 the waste issue, but hey, overall not too shabby.
@@ -625,7 +625,7 @@ wealth would be inflated away.
 
 'Private money creation has negative consequences' he says.. Because
 it potentially allows limitless growth, with material usage
-[implications](../../2021/03/less-is-more-hickel.md), and environmental
+[implications](../../2021/03/less-is-more-hickel.html), and environmental
 impact? He could be right.. 
 
 ---
@@ -752,7 +752,7 @@ is neutral, demilitarized, no Nato.
 ---
 
 Curious abt the "mean voter position" of the UKR-RU dynamic, talks,
-per [here](../../2015/07/mesquita-game-theory-greece.md). Cranking some
+per [here](../../2015/07/mesquita-game-theory-greece.html). Cranking some
 numbers...
 
 ---

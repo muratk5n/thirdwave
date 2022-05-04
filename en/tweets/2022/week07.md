@@ -340,7 +340,7 @@ Re-ran the code to plot the graphs, the 'tornado graph' is back.  See
 bottom, the three-variable graph between unemployment rate, inflation
 and debt.
 
-[[-]](../../2018/02/keen_math.md)
+[[-]](../../2018/02/keen_math.html)
 
 ---
 

@@ -736,7 +736,7 @@ Da fuq?
 ---
 
 They even had a guy in jail while some were in the bunker... Perfect
-modern setup. Like Toffler [says](../../2011/03/fundamentals-of-industrial-ideologies_concentration.md)
+modern setup. Like Toffler [says](../../2011/03/fundamentals-of-industrial-ideologies_concentration.html)
 
 >Nor was it only energy and work that were concentrated. Writing in the
 >British social science journal New Society, Stan Cohen has pointed out
@@ -784,7 +784,7 @@ Portable panels charged portable camp light in 3 hours.
 ---
 
 So if we could cut CO2 emissions in half we'd fix the problem (granted
-we fix methane, and that freaky [SF6](../../2019/09/sf6.md)
+we fix methane, and that freaky [SF6](../../2019/09/sf6.html)
 thing).
 
 Demirel, *Green Energy and Technology*: "The burning of fossil fuels
@@ -934,7 +934,7 @@ will eventually be nonsensical. It's just a matter of when'"
 
 Power, Watts, mAh, etc
 
-[Link](../../2020/06/power.md)
+[Link](../../2020/06/power.html)
 
 ---
 

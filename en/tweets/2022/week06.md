@@ -135,7 +135,7 @@ thinking"
 
 ---
 
-There are many [tricks](../../2017/10/tax-avoidence-tricks.md)
+There are many [tricks](../../2017/10/tax-avoidence-tricks.html)
 
 "How does tax avoidance work?"
 
@@ -310,7 +310,7 @@ have bunch of random people running around jumping up and down
 'protesting', dancing on TikTok and hope there'll be a
 change. Organization, leadership is needed.
 
-[[-]](2019/08/../../focus-group-democracy.md)
+[[-]](2019/08/../../focus-group-democracy.html)
 
 ---
 
@@ -418,7 +418,7 @@ Republicans. All those merry band of cocksuckers around Peter Thiel do
 nothing but that.. The German version of a libertarian will fight
 an abortion rule created by *actual Nazis*, US faux-libertarians will
 stand silent on the issue to weasel their way in to Rep circles then once
-inside push for [anti-green agenda](../../2022/01/faux-contrarians-faux-liberterians.md).
+inside push for [anti-green agenda](../../2022/01/faux-contrarians-faux-liberterians.html).
 These are truly some wretched cocksuckers.
 
 ---
@@ -757,7 +757,7 @@ says her father lost his job to outsourcing (China) back in the day.
 
 ---
 
-Alfred Nobel never wanted an econ prize, his relatives say [kill it](../../2018/05/faux-nobel.md)
+Alfred Nobel never wanted an econ prize, his relatives say [kill it](../../2018/05/faux-nobel.html)
 today. Rabid speculators like Sholes won it before, 1997, a year before his
 hedge fund would crash using his "Nobel level" techniques, causing bunch
 of collateral damage around it. 

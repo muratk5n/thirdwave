@@ -472,7 +472,7 @@ only come down in the future.
 
 ---
 
-[H2 From Coal](../../2022/02/h2-coal.md)
+[H2 From Coal](../../2022/02/h2-coal.html)
 
 ---
 
@@ -595,7 +595,7 @@ the amount of time they can spend underwater"
 
 H2 production from waste.. surprisingly cost-effective.
 
-[[-]](../../2022/02/h2-waste.md)
+[[-]](../../2022/02/h2-waste.html)
 
 ---
 

@@ -916,7 +916,7 @@ we could eliminate these sequences and as a result stop the pandemic"
 
 ---
 
-I mentioned this [early Feb](week5.md), that Indian research, but
+I mentioned this [early Feb](week5.html), that Indian research, but
 there wasn't any follow-up.
 
 "According to Professor Luc Montagnier, winner of the Nobel Prize for

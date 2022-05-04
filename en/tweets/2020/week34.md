@@ -692,15 +692,15 @@ The stock market is now more overbought, see Wilshire.
 
 Same old story, stawks good, the rest so-so
 
-Latest [stats](2019/05/stats.md)
+Latest [stats](2019/05/stats.html)
 
 ---
 
-All posts [on patents](2018/09/patents.md)
+All posts [on patents](2018/09/patents.html)
 
 ---
 
-Knuth [on patents](2020/08/knuth-on-patents.md)
+Knuth [on patents](2020/08/knuth-on-patents.html)
 
 ---
 

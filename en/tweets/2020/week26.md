@@ -423,7 +423,7 @@ following court rulings"
 
 Collected excerpts from  Gen Spaldings's book *Stealth War*
 
-[Link](../../2020/07/china-stealth-war-spalding.md)
+[Link](../../2020/07/china-stealth-war-spalding.html)
 
 ---
 
@@ -505,7 +505,7 @@ development (R&D) activities and is subject to appropriations"
 
 ---
 
-[Answer](../../2020/07/ancient.md)
+[Answer](../../2020/07/ancient.html)
 
 "But country XYZ is ancient, it has a grand history"
 
@@ -664,8 +664,8 @@ It's like they have built-in head stabilization software
 Powell says FED accounts could work too well (destroying private
 banks' business). Well I cant blame a guy for not wanting to destroy
 the system he's tasked to run. FED sits at the
-[center](../../2011/03/fundamentals-of-industrial-ideologies_centralization.md) of a
-[concentrated](../../2011/03/fundamentals-of-industrial-ideologies_concentration.md)
+[center](../../2011/03/fundamentals-of-industrial-ideologies_centralization.html) of a
+[concentrated](../../2011/03/fundamentals-of-industrial-ideologies_concentration.html)
 system of other banks.
 
 This is why *wave changes* are so great. All individual waves have an
@@ -956,7 +956,7 @@ will run out of panel space, etc etc)
 ---
 
 Not much; Markowitz model has $R^2$ 90% , conf intervals on the
-[prediction](../../2015/04/predicting-presidential-elections.md)
+[prediction](../../2015/04/predicting-presidential-elections.html)
 are usually tight.
 
 Gelman: "How unpredictable is the 2020 election?"
@@ -971,12 +971,12 @@ whether he is richer or poorer. Incumbency for >1 terms or not; that
 is a fact. This leaves popularity of the incumbent, the only thing
 where a judgement is applied. It works bcz the measure is coarse
 (individuals judgement will have errors, normally distributed which
-can be [corrected](../../2020/07/crowd-wisdom.md)
+can be [corrected](../../2020/07/crowd-wisdom.html)
 through an average).
 
 ---
 
-Elections are a vote on the incumbent, on three [broad parameters](../../2015/04/predicting-presidential-elections.md).
+Elections are a vote on the incumbent, on three [broad parameters](../../2015/04/predicting-presidential-elections.html).
 
 "GOP fears Biden's low-key campaign is paying off"
 

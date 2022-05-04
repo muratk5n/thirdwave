@@ -109,7 +109,7 @@ webcasting from Japan does not mean you will. Are you interested in
 bonsai? Is it part of your culture?"
 
 
-[[-]](../../2018/09/global-e-mail-patterns-reveal-clash-of.md)
+[[-]](../../2018/09/global-e-mail-patterns-reveal-clash-of.html)
 
 ---
 

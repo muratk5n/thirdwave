@@ -67,7 +67,7 @@ temperatures"
 ---
 
 'First commercial scale hydrogen-to-MCH' project.. Interesting.
-Posted about MCH [here](../../2020/10/methyl-cyclohexane-h2.md).
+Posted about MCH [here](../../2020/10/methyl-cyclohexane-h2.html).
 
 "PETRONAS Hydrogen.. and ENEOS Corporation.. have signed a Joint
 Feasibility Study Agreement (JFSA) to advance the studies for a
@@ -242,7 +242,7 @@ compete in one of Japan's toughest motorsport events"
 
 Started a doc on energy plant costs, LCOE, and 'overnight costs' 🚧
 
-[[-]](../../2022/02/costs-lcoe.md)
+[[-]](../../2022/02/costs-lcoe.html)
 
 ---
 
@@ -332,7 +332,7 @@ other side' to the same.
 ---
 
 'Not understanding' states like Russia cld be due to liberalism's
-mental block..  See [Meirsheimer](../../2022/03/liberal-dreams-intl-realities.md).
+mental block..  See [Meirsheimer](../../2022/03/liberal-dreams-intl-realities.html).
 
 ---
 
@@ -510,7 +510,7 @@ hits wheat imports"
 
 Collated comments on inflation
 
-[[-]](../../2018/05/inflation.md)
+[[-]](../../2018/05/inflation.html)
 
 ---
 
@@ -540,7 +540,7 @@ industry in an effort to decarbonise the future of flying"
 
 ---
 
-[Bancor](../../2019/06/bancor.md)
+[Bancor](../../2019/06/bancor.html)
 
 ---
 
@@ -812,7 +812,7 @@ Comrade Ho
 Fought for self-determination but then his system devolved into
 dictatorship? Great job, Ho
 
-[[-]](../../2022/03/principles-of-int-politics-mesquita.md)
+[[-]](../../2022/03/principles-of-int-politics-mesquita.html)
 
 ---
 

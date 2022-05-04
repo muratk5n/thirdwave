@@ -281,7 +281,7 @@ Biden administration"
 ---
 
 Institutional left lost a lot of ground in the near past, and we were
-all worse for it.. See [link](../../2019/08/focus-group-democracy.md).
+all worse for it.. See [link](../../2019/08/focus-group-democracy.html).
 
 ---
 
@@ -545,7 +545,7 @@ left was that the broad is really dumb
 
 ---
 
-*The Nordic Theory of Everything* book [opens](../../2017/08/the-nordic-theory-of-everything.md)
+*The Nordic Theory of Everything* book [opens](../../2017/08/the-nordic-theory-of-everything.html)
 with Clinton introducing Finland President Halonen, praising the country
 for its .. leftists ways 😶. BC atoning for some of his sins.,? Democrat Prez
 is a Democrat Prez, cant help but feel bad for some of the shit that went

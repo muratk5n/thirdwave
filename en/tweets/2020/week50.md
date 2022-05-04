@@ -328,7 +328,7 @@ enough, one must create the need for them.
 ---
 
 It's weird when I had to do food conserving, the simplest veg/meat
-cook/save method worked for me; But I [grew up](../../2011/08/living-in-factory.md)
+cook/save method worked for me; But I [grew up](../../2011/08/living-in-factory.html)
 around a plant whose sole purpose was turning out products to conserve food...
 Wouldn't I just buy one of them? What does that say about capitalism? 
 
@@ -419,7 +419,7 @@ tasks"
 
 ---
 
-I never discounted the possibility, [see UFOs](../../2015/08/ufo.md).
+I never discounted the possibility, [see UFOs](../../2015/08/ufo.html).
 
 "Former Israeli space security chief says aliens exist, humanity not ready"
 
@@ -588,7 +588,7 @@ brutally repetitious operations"
 
 ---
 
-[The Industrial Man](../../2008/03/industrial-man-toffler.md)
+[The Industrial Man](../../2008/03/industrial-man-toffler.html)
 
 ---
 
@@ -659,7 +659,7 @@ corporate immunity and nothing for the working class"
 Pro debt / anti debt... The right answer depends on the (ideologically
 distinct) party. Oscillation btw the two will lead to an optimal final
 IMO, in the long run..but neither is an illegitimate position. See
-[Austerity](../../2020/07/austerity.md).
+[Austerity](../../2020/07/austerity.html).
 
 ---
 

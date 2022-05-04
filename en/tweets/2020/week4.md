@@ -39,7 +39,7 @@ career. I’m not exaggerating... "
 
 ---
 
-Inflation [increased](../../2019/05/stats.md) to 2.28%, non-farm
+Inflation [increased](../../2019/05/stats.html) to 2.28%, non-farm
 payroll decelerated to %1.40
 
 Fourth quarter earnings are expected to [decrease](https://lipperalpha.refinitiv.com/2020/01/this-week-in-earnings-9/) 0.5% from 18Q4
@@ -253,7 +253,7 @@ history (re)construction.
 
 Whole lota utilitarianism. The past changes according to what is
 needed today. That's why ordinary Russkies know "[the real version vs
-the state](../../2014/10/alex.md) version" on any topic.
+the state](../../2014/10/alex.html) version" on any topic.
 
 "Putin has made a series of statements that Poland started World War
 II, and that the Hitler-Stalin pact was forced on Russia by British
@@ -331,7 +331,7 @@ indictment of Julian Assange'"
 
 Terry Jones RIP
 
-This [docu](../../2019/10/terry-jones-barbarians.md) was great 
+This [docu](../../2019/10/terry-jones-barbarians.html) was great 
 
 ---
 
@@ -563,7 +563,7 @@ Avoidance of carbon leakage through borders - hard core.
 
 ---
 
-I hate to say it, the [European Green Deal](../../2020/01/european-green-deal.md)
+I hate to say it, the [European Green Deal](../../2020/01/european-green-deal.html)
 looks better than the US GND.
 
 \#EUGreenDeal

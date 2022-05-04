@@ -305,7 +305,7 @@ thoughts, anywhere coming to fruition within my lifetime.
 
 ---
 
-Its very [national narrative and identity](2020/04/turks-culture-national-narrative.md)
+Its very [national narrative and identity](2020/04/turks-culture-national-narrative.html)
 
 "What is constructed wrong in TR?"
 
@@ -400,7 +400,7 @@ Just saw this one from 2017
 
 ---
 
-Collated [past notes](2017/10/tax-avoidence-tricks.md) on global tax
+Collated [past notes](2017/10/tax-avoidence-tricks.html) on global tax
 avoidence, and ideas. The [double-dip](2017/10/road-to-ruin-rickards.md#doubleDip)
 trick is freaky.
 
@@ -746,7 +746,7 @@ Floating City Design.
 
 Even high-rise buildings can withstand some serious impact.
 
-[Link](../../2020/10/floating-city.md)
+[Link](../../2020/10/floating-city.html)
 
 ---
 

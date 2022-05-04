@@ -219,7 +219,7 @@ all that "euphoria", there is no way US would not end up tilting to
 right especially since Reagan and HW were seen who crushed the
 Soviets, two Republican presidents (just like Democrats winning WWII
 gave their slant of governance legitimacy). Afterwards left would go
-right, right would go insane, [polarization](../../2018/05/polarization.md)
+right, right would go insane, [polarization](../../2018/05/polarization.html)
 would increase.. on and on.. 
 
 Now there is need for some correction.. 
@@ -586,7 +586,7 @@ I’ll go first: White Russian"
 
 From almost 10 years ago. 
 
-[Answer](../../2011/09/lottery.md)
+[Answer](../../2011/09/lottery.html)
 
 "Lotteries are stupid. My math friend told me so"
 
@@ -808,7 +808,7 @@ growing stronger"
 
 ---
 
-It's probably [cultural](../../2020/07/robot-frankenstein.md). Fine 4
+It's probably [cultural](../../2020/07/robot-frankenstein.html). Fine 4
 you, but at policy level morons think culturally. You can *sell*
 culturally but that's different.
 

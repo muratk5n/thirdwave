@@ -201,7 +201,7 @@ https://youtu.be/oDAw7vW7H0c
 
 Whatever.. I'll give it for free
 
-[[-]](../../2014/08/vlad.md)
+[[-]](../../2014/08/vlad.html)
 
 ---
 

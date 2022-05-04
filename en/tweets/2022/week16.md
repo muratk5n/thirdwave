@@ -444,7 +444,7 @@ coast"
 Energy is costly business; the typical 200MW natural gas plant costs a
 cool 100 mil $ according to CAPEX.
 
-[[-]](../../2022/02/costs-lcoe.md)
+[[-]](../../2022/02/costs-lcoe.html)
 
 ---
 

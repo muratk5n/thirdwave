@@ -335,15 +335,14 @@ photo.
 
 ---
 
-Otto loss during WWI? Also [inevitable](../../2015/03/gallipoli.md). There
+Otto loss during WWI? Also [inevitable](../../2015/03/gallipoli.html). There
 was a not-bad show of defense, at Gallipoli for instance, but failed
 to change the final outcome.
 
 ---
 
-Germany - Otto alliance during WWI? An act of
-[desparation](../../2020/08/germany-otto-alliance.md), not triggered by
-"ideology changes" on the part of Otto. 
+Germany - Otto alliance during WWI? An act of [desparation](../../2020/08/germany-otto-alliance.html),
+not triggered by "ideology changes" on the part of Otto. 
 
 ---
 
@@ -432,7 +431,7 @@ products, the higher your GDP.
 Why does success story belong to host country for even late
 immigrating scientists? Power of expertise networks. Working side by
 side is an effective knowledge xfer channel, that's why inno likes
-such pockets ... See [Hidalgo](../../2017/08/economic-complexity-hidalgo.md).
+such pockets ... See [Hidalgo](../../2017/08/economic-complexity-hidalgo.html).
 U go to expt network, u benefit from it, inno flows from it. Those
 pockets, its country, get the credit.
 

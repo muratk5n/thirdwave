@@ -369,7 +369,7 @@ gal, gets the content, so a poor student won't have to settle with Bob
 Buttfuck from Bumblefuck, they'll have the best on video, in lecture
 materials as PDFs, offline viewable HTML with animation etc.
 
-"So your proposal [on ed](../../2018/09/public-education.md) creates 'a
+"So your proposal [on ed](../../2018/09/public-education.html) creates 'a
 certifier' and does away with teachers. Certifier will sit in
 classrooms, will be able to answer questions. But will s/he not be
 overloaded?"
@@ -469,7 +469,7 @@ ten-foot pole.
 
 ---
 
-True. US has [faux polarization](../../2018/05/polarization.md). 
+True. US has [faux polarization](../../2018/05/polarization.html). 
 
 Caitlin Johnstone: "When you look at US politics, it appears as though
 there are two mainstream political factions that very strongly

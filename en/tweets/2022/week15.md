@@ -81,7 +81,7 @@ greater. So not less dense than solid or liquid.
 
 Oh yeeeaaa
 
-[[-]](../../2022/04/sun-estimate.md)
+[[-]](../../2022/04/sun-estimate.html)
 
 ---
 
