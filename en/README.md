@@ -82,13 +82,10 @@ H2 Fuel News: "Gilbarco Veeder-root Prepares For The Hydrogen
 Transport Revolution.. It is making available a suite of compression,
 dispensing and software solutions, allowing the creation of a network
 of renewable or low-carbon hydrogen refuelling stations around the
-world.
-
-The company is now at advanced stages of developing new technologies
-and creating partnerships to bring solutions to market that will allow
-existing fuel retailers and other stakeholders to offer gaseous
-hydrogen to serve an ever-increasing number of hydrogen fuel-cell
-powered vehicles"
+world. The company is now at advanced stages of developing new
+technologies and creating partnerships to.. offer gaseous hydrogen to
+serve an ever-increasing number of hydrogen fuel-cell powered
+vehicles"
 
 ---
 
