@@ -52,8 +52,9 @@ crude tanker size is 100K barrels. Liquid hydrogen has a an energy
 density of 2216 kwh/m3, ship carry capacity of 37,500m3 means,
 
 
-```python tanker_barrel = 100*1000 (tanker_barrel * 136 * 10) / 1e6 #
-gwh ```
+```python
+100*1000 (tanker_barrel * 136 * 10) / 1e6 # gwh
+```
 
 ```text
 Out[1]: 136.0
