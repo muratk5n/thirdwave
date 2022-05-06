@@ -47,7 +47,7 @@ And of course there is always ammonia, LOCH, and bunch of other stuff..
 ---
 
 Comparing the capacity of that three-dome LH2 carrier to crude; 1
-Barrel of oil is 136 kg. Energy density of crude oil 10 kwh/kg.  Small
+barrel of oil is 136 kg. Energy density of crude oil 10 kwh/kg.  Small
 crude tanker size is 100K barrels. Liquid hydrogen has a an energy
 density of 2216 kwh/m3, ship carry capacity of 37,500m3 means,
 
