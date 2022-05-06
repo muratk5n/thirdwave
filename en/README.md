@@ -53,7 +53,7 @@ density of 2216 kwh/m3, ship carry capacity of 37,500m3 means,
 
 
 ```python
-100*1000 (tanker_barrel * 136 * 10) / 1e6 # gwh
+100*1000 * 136 * 10 / 1e6 # gwh
 ```
 
 ```text
@@ -61,7 +61,7 @@ Out[1]: 136.0
 ```
 
 ```python
-(2216*37500) / 1e6 # gwh
+2216*37500 / 1e6 # gwh
 ```
 
 ```text
