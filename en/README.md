@@ -2,252 +2,222 @@
 
 ---
 
+Pinned Tweet
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Gasgrid Finland participates in the update of <a href="https://twitter.com/ehb_europe?ref_src=twsrc%5Etfw">@ehb_europe</a> development vision – the hydrogen backbone to support the achievement of climate goals, REPowerEU plans, and developing the resilience of the European energy system. <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/EHB?src=hash&amp;ref_src=twsrc%5Etfw">#EHB</a> <a href="https://t.co/adljzgqa2X">https://t.co/adljzgqa2X</a> <a href="https://t.co/fdAbz5wzwC">pic.twitter.com/fdAbz5wzwC</a></p>&mdash; Gasgrid Finland Oy (@GasgridFinland) <a href="https://twitter.com/GasgridFinland/status/1511248215798161410?ref_src=twsrc%5Etfw">April 5, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-H2 View: "Everfuel to develop a hydrogen refuelling station for the
-Danish-German Fehmarn Belt"
+H2 View: "Heliogen receives $89m from Woodside and US Department of
+Energy to unlock large-scale green hydrogen production"
 
 ---
 
-H2 View: "ArcelorMittal carries out successful hydrogen-derived DRI
-[iron processing] in Canada..  [T]he company integrated green hydrogen
-into the production of direct reduced iron (DRI) providing a new
-market in which the Canadian hydrogen sector can explore. As part of
-the test, the company assessed the ability to replace the use of
-natural gas with green hydrogen within the iron ore reduction
-process. The first test, 6.8% of natural gas was replaced with green
-hydrogen during a 24-hour period, which is said to have contributed to
-a measurable reduction in carbon emissions"
+H2 View: "Hydroplane remains on course for first hydrogen demonstration
+flight by 2023 with new US Air Force contract"
 
 ---
 
-H2 View: "Nel joins Norwegian network to develop hydrogen megaprojects
-in China.. As Norway continues to grow its hydrogen infrastructure,
-Nel ASA has joined a network of Norwegian technology companies aiming
-to take part in Chinese megaprojects"
+H2 Fuel News: "EDP Brasil is one of the leading companies in the
+country’s energy sector and will play a critical part in the Brazil
+green hydrogen production strategy. It will begin activities at a
+renewable H2 production unit located in São Gonçalo do Amarante,
+Ceará.. The EDP plant will power the electrolyzer using photovoltaic
+solar energy.. it is expected to have a production capacity of 22.5
+kilograms per hour"
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/FR2-MChXMAAlc1F?format=jpg&name=small"/>
-
-"Revolutionary liquid hydrogen tanker to scale hydrogen adoption in the
-mobility market.. C-Job Naval Architects has.. co-designed [the
-vessel] with LH2 Europe.. [which] is.. equipped with three liquid
-hydrogen storage tanks with a total capacity of 37,500m3.. [the plan
-is] to initially deliver 100 tons per day (t/d) of green hydrogen and
-ramp up production to 300 t/d within three years, depending on demand"
-
-[[-]](https://www.h2-view.com/story/revolutionary-liquid-hydrogen-tanker-to-scale-hydrogen-adoption-in-the-mobility-market/)
+H2 View: "Bosch to develop smart modules for electrolysis units and
+ramp up hydrogen production"
 
 ---
 
-Undoubtedly an H2 based economy will play into the strengths of some
-new players who can reach sunshine regions easier then they could
-reach oil/gas rich regions, and import energy cleanly through
-renewable fuels. US was the king of an earlier era, it had its own
-natural resources, and the military to get to OPP (other people's
-petroleum). But we cannot keep the existing system forever.. The world
-needs more energy, and climate change threatens to destroy us all. I
-believe renewable fuels will democratize the use of energy and make
-everyone richer. Power dynamics will change but that cannot be helped.
+H2 View: "Sunshine Hydro unveils $2bn hydrogen production mega-project
+in Queensland, Australia"
 
 ---
 
-H2 Fuel News: "New green hydrogen deal between Plug Power and MOL
-Group.. The fuel cell manufacturer and oil and gas giant have teamed
-up for new Hungary-based plants"
+H2 View: "Toyota to supply hydrogen fuel cells for Mercedes-Benz buses"
 
 ---
 
-H2 View: "Nova Scotia, Canada, will be transformed into a green
-hydrogen hub with EverWind Fuels announcing its intentions"
+And of course there is always ammonia, LOCH, and bunch of other stuff..
 
 ---
 
-Multi-tower CSP with heat-engine.
+Comparing the capacity of that three-dome LH2 carrier to crude; 1
+Barrel of oil is 136 kg. Energy density of crude oil 10 kwh/kg.  Small
+crude tanker size is 100K barrels. Liquid hydrogen has a an energy
+density of 2216 kwh/m3, ship carry capacity of 37,500m3 means,
 
-[[-]](https://youtu.be/SFDuB0a7Uzc?t=36)
 
----
+```python tanker_barrel = 100*1000 (tanker_barrel * 136 * 10) / 1e6 #
+gwh ```
 
-Grated cheddar type cheese dries very fast - 2 hrs tops at 80 C.
+```text
+Out[1]: 136.0
+```
 
----
+```python
+kwh = 2216
+(kwh*37500) / 1e6 # gwh
+```
 
-Video on making pemmican. Runs dried meat through blender.
+```text
+Out[1]: 83.1
+```
 
-One idea is blending right after cooking, it would be easier,
-especially for poultry, one can mix anything in at that stage too,
-veg, fruit, spices in raw form. Then dry that whole mix; cooked pieces
-seperate easier during dehyd bcz previous blending already cut
-everything into little pieces.
-
-[[-]](https://youtu.be/MElMJsIP1Y0?t=267)
-
----
-
-"@anacondainc
-
-📢 Did you hear the news from PyCon!? We are thrilled to introduce
-PyScript, a framework that allows users to create rich Python
-applications IN THE BROWSER using a mix of Python with standard HTML!
-Head to https://bit.ly/3LwOmrT for more information. 🧠 💥"
+136 gwh vs 83 gwh capacity.. It's getting there.. 
 
 ---
 
-"Cancel the debt then change the system" - that comment from before
-sounded conflated, actions with political ideologies..  What is
-described would be the outcome, the long-run result of right-left
-back-and-forth oscillation, not one party doing it all.
+H2 View: "Ionomr Innovations achieves crucial milestone with
+electrolyser durability test to produce cost-competitive green
+hydrogen"
 
 ---
 
-Right-wing wouldn't remove functional programs. Look at Canada. They
-had a few conservative governments since the enactment of single-payer
-(Tommy Douglas!). Were they removed? No.
+H2 Fuel News: "Gilbarco Veeder-root Prepares For The Hydrogen
+Transport Revolution.. It is making available a suite of compression,
+dispensing and software solutions, allowing the creation of a network
+of renewable or low-carbon hydrogen refuelling stations around the
+world.
+
+The company is now at advanced stages of developing new technologies
+and creating partnerships to bring solutions to market that will allow
+existing fuel retailers and other stakeholders to offer gaseous
+hydrogen to serve an ever-increasing number of hydrogen fuel-cell
+powered vehicles"
 
 ---
 
-Actually the permanent policy of left should be to *always* cancel the
-student debt whenever they are in power. I bet that would encourage
-the right to abollish those programs **pronto** when they can; and
-that's fine too, the left can then later enact less market-intrusive
-programs, they'd remain (bcz they'd f-ing work).
+H2 View: "Shenzhen State Fuel Cell Corporation seeks $1 billion US listing"
 
 ---
 
-This is the craziest so far 
-
-Spiderbait - Black Betty \#music
-
-[[-]](https://youtu.be/nU1VfYYKMDk)
+H2 View: "Fortescue and Firstgas to investigate New Zealand’s green hydrogen distribution"
 
 ---
 
-Oh no, Tom Jones
 
-Black Betty \#music
 
-[[-]](https://youtu.be/93j1EO_witw?t=26)
 
----
 
-We are on a Black Betty roll here..
 
-Ram Jam - Black Betty \#music
 
-[[-]](https://youtu.be/4cn_woPvjQI)
 
----
 
-Caravan Palace - Black Betty \#music
 
-[[-]](https://youtu.be/D_JxMb8RLEY)
 
----
 
-'Morgage stress'? But lower house prices would translate into lower
-rent prices in a few years.. Renters don't matter? In Oz home owners
-do not dominate as I understand even with historically low rates (bcz
-low rates create a flurry of activity pushing the home prices up so
-high most cannot afford them, even with low rates).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
-Rates can go up just like they can go down.. it's party of a cycle.
-There is nothing ultimately right or wrong about it..
+Wout vax things wld have been even worse
 
-The Mandarin: "[Oz] Reserve Bank governor Philip Lowe said the board
-believed it was the right time to start pulling back the support it
-has given to the economy during the pandemic."
+"WHO says 15 million deaths linked to Covid-19, almost three times the
+official toll"
 
 ---
 
-There is no deying that. But Nazis also created some fringe benefits;
-would the US Apollo program be possible without Wernher von Braun?  He
-developed his trade while building rockets for Nazis. If there is no
-space program there are no additional inno that comes from
-it. Scratch-resistant lenses, teflon, velcro.. Have a funky sport shoe
-with velcro? You can thank the Nazis for that. You can thank the Brits
-for..  some institutions here and there, fine.
+Speedometer - Tomahawk \#music
 
-"Britain's presence in some countries helped their democratic
-institutions"
+[[-]](https://youtu.be/qsVE3RdTSoU)
 
 ---
 
-Do I think Brits caused as much damage as Nazis? That's probably
-true... The partition in India alone caused 1 million deaths. That was
-done for strategic reasons, it didn't have to be done, but it was done
-so UK could meddle easier in the region's affairs. Tally it all up
-maybe you could reach the number of Jews killed by the Nazis.
+"@JeffSharlet
+
+Few days shy of 50 and when I ask my super goth 13-year-old what
+they're listening to they tell me it's a band I probably don't know
+called The Cure"
 
 ---
 
-Current cultural and genetic make-up of Anatolia is overwhelmingly
-local. Similar people, culture have been in the land for at last ten
-thousand years, not a few hundred, or even thousand. They are not
-foreigners in their own land. Nationalists are deluded.
+New routine; after every gender related semi-scandal, we repeat "why
+did Al Franken have to resign?".
 
 ---
 
-For the outers having the Turkist ideology active in Anatolia was
-useful; it reinforced an 'outpost' mentality among the
-locals. Followers of the ideo foolishly believe they 'just' arrived,
-right? Hence they are constantly 'fighting to hold on to their new
-home land', they see everyone around them as enemies. That is useful
-for the outers, here is a guy on guard, fearing every near neighbor,
-well then they would be more willing to ask 'friendly' outers for
-help, include them in their affairs more, wouldn't they?
+What happens to stawks? OMG!
 
 ---
 
-Al Monitor: "Israel's Liberman talks wheat, strategy in visit to Azerbaijan"
+Noooooooo oooo ooooooo 
+
+CNBC: "Fed raises rates by half a percentage point — the biggest hike
+in two decades — to fight inflation"
 
 ---
 
-Al Monitor: "Gantz says Israel still coordinates with Russia on
-Syria.. Israeli Defense Minister Benny Gantz discussed Israel's
-delicate strategic balance between Ukraine, Russia and Iran in an
-exclusive podcast interview"
+Al Jazeera: "Labour takes key London district from UK’s ruling Conservatives"
 
 ---
 
-WION: "Even as energy shipments to Europe remain uncertain due to
-ongoing hostilities, Russian energy giant Gazprom declared a large
-increase in exports on Sunday. In the first four months of 2022,
-Russia's gas shipments to China increased by as much as 60% compared
-to the same period previous year"
+\#Taiwan \#FirstIslandChain
+
+<iframe width="340"  src="https://www.youtube.com/embed/p6sCsOdqXQw?start=460&end=1157" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-Politico: "[Chancelor] Olaf Scholz holds off on Ukraine visit, citing
-diplomatic snub.. Berlin didn't take kindly to Kyiv's refusal to
-welcome the German president last month"
+The Mandarin: "Defence minister Peter Dutton says Australia will have
+autonomous robotic undersea warfare capability in about four years."
 
 ---
 
-Reuters: "[5/2] Chinese carrier sails through waters near Okinawa,
-Japan says"
+Heimatschutzregiment!
+
+Jane's Defense: "Germany stands up first homeland defence regiment"
 
 ---
 
-Stripes: "[4/27] China protests another 'routine' US Navy transit
-through Taiwan Strait"
+Reuters: "Brazil's Lula says Zelenskiy 'as responsible as Putin' for Ukraine war"
 
 ---
 
-It was an obvious bullshit story. But MSM lept it up. Suckaz.
-
-"Ukraine admits ‘Ghost of Kyiv’ fighter pilot is a myth"
+Politico: "Pope says NATO may have caused Russia’s invasion of Ukraine"
 
 ---
 
-WSJ: "With war in Ukraine upending global grain trade, other countries
-scramble to fill the gap in supplies, but soaring prices threaten to
-worsen food insecurity in poor regions"
+Arab News: "Belarus launches ‘surprise’ military maneuvers..
+Kyiv.. accused Belarus of planning to send troops into Ukraine to
+help Russia’s military operation"
+
+---
+
+WSJ: "Hungary has repeatedly said it could veto an oil package that
+doesn't give it enough time and financial assistance"
+
+---
+
+Who needs Russian oil when you can get 'Latvian blend'?
+
+WSJ: "EU Proposes Ban on Russian Oil Imports"
+
+---
+
+WSJ: "Russia Steps Up Attacks on Ukraine Railways, Other Infrastructure"
+
+---
+
+Voltaire Net: "The Russian armed forces arrested Canadian General
+Trevor Cadieu in Mariupol.. [who] was apparently not on a mission for
+his government, but was in charge of [a] biolaboratory"
 
 ---
 

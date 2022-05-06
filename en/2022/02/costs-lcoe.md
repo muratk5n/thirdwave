@@ -66,7 +66,6 @@ Capex and LCOE
 
 |Source               | Capex ($/KW)       |LCOE ($/MWh)|Reference| 
 |---------------------|--------------------|------------|----------|
-|LOHC                 | 0.02               |            |[Paper](https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5c551f4c2&appId=PPGMS) |
 |H2 Undergr. Salt     | 35                 |            |[Paper](https://www.hydrogen.energy.gov/pdfs/review19/st001_ahluwalia_2019_o.pdf) |
 |H2 Undergr. LRC      | 51                 |            |[Paper](https://www.hydrogen.energy.gov/pdfs/review19/st001_ahluwalia_2019_o.pdf) |
 |H2 Undergr. Pipes    | 386                |            |[Paper](https://www.hydrogen.energy.gov/pdfs/review19/st001_ahluwalia_2019_o.pdf) |
@@ -74,6 +73,7 @@ Capex and LCOE
 |Natgas Plant Typical | 1044               |            |[Statista](https://www.statista.com/statistics/243707/capital-costs-of-a-typical-us-combined-cycle-power-plant/#:~:text=The%20capital%20expenditure%20of%20a,dollars%20per%20kilowatt%20by%202050.)  |
 |PV Solar             | 1327               | 32.78      |[EIA](https://www.eia.gov/outlooks/aeo/assumptions/pdf/table_8.2.pdf),[IEA](https://www.iea.org/reports/projected-costs-of-generating-electricity-2020)
 |Gasoline             |                    | 34.11      |[Link](https://voltaoil.com/what-makes-up-retail-price-for-gasoline)
+|LOHC                 | 0.02               | 46.24      |[Paper](https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5c551f4c2&appId=PPGMS) |
 |Natgas CLC           | 1652               | 55.0       |[Paper](https://www.sciencedirect.com/science/article/pii/S175058361730693X),[Paper](https://www.researchgate.net/publication/326160300_Techno-Economic_Analysis_of_a_Carbon_Capture_Chemical_Looping_Combustion_Power_Plant)  |
 |Wind, Onshore        | 1718               | 50.0       |[IEA](https://www.iea.org/reports/projected-costs-of-generating-electricity-2020)
 |Nuclear              | 7030               | 53.4       |[Paper](https://link.springer.com/content/pdf/10.1007/s11356-021-18129-3.pdf/)|

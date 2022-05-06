@@ -26,9 +26,7 @@ At 250 bars H2 has energy density is 700 kwh/m3, ditto.
 
 At 300 bars H2 has energy density is 750 kwh/m3, ditto.
 
-Crude oil 44 MJ/kg
-
-1 barrel of oil has 1700 kWh of energy
+Crude oil 10.215 kwh / kg
 
 Ammonia 22.5 MJ/kg
 
@@ -40,12 +38,14 @@ LNG 22.2 MJ/L
 
 Density of light crude oil 875.7 kg/m3
 
-Liquid hydrogen has a density of 8 MJ/L.
+Liquid hydrogen has a an energy density of 2216 kwh/m3
+
+Liquid hydrogen has a weight density of 71 kg/m³.
 
 Gasoline has a density of 32 MJ/L. 
 
-As standard the 1 barrel (119 liter) of crude oil produce
-approximately 159 liters of petrol.
+As standard the 1 barrel (119 liter) of crude oil produce approximately
+159 liters of gasoline / petrol.
 
 H2 pipelines can carry 7 GW for 36 inch and 13 GW for 48-inch pipelines.
 
@@ -191,7 +191,7 @@ crude output's equiv energy,
 Production is 9.01 million barrels / day (Nov 2020).
 
 1 Barrel of oil is 136 kg. 1 barrel is 0.16 m3. Energy density of
-crude oil 158.4 Kwh/kg. 1 million barrels of oil can produce half a
+crude oil 10.2 Kwh/kg. 1 million barrels of oil can produce half a
 million barrels of gasoline. Gasoline energy density is 12.88 kwh/kg.
 
 Largest oil fields
@@ -207,9 +207,6 @@ Largest oil fields
 'Upper Zakum Oil Field, UAE',1*1e6
 'Ahvaz Field, Iran',750*1e3
 'Burgan Field, Kuwait',1.68*1e6
-
-
-
 
 Sun energy falling on Earth 1 kW/m2, 24 KWh/m2 in a day.
 
@@ -246,24 +243,8 @@ Largest liquid H2 ship 1,250 m3 capacity carries gas cooled to -253°C
 
 In 2010 Japan's imported 3.75 million barrels of crude oil a day
 
-2 million barrels of crude oil is transported with a large tanker [16] 
-
-
-```python
-vlcc_liter = 2*1e6 * 119 
-print (vlcc_liter)
-amm_liter = 87000 * 1000
-print (amm_liter)
-print (vlcc_liter / amm_liter)
-print ('avg tanker capacity %0.2f million barrels' % (3.75*365 / 837))
-```
-
-```text
-238000000.0
-87000000
-2.735632183908046
-avg tanker capacity 1.64 million barrels
-```
+An LR1 [long range] tanker can carry about 400,000 barrels of light
+sweet crude oil.
 
 A large LNG tanker can hold 266,000 cubic meters of LNG.
 
@@ -315,4 +296,7 @@ References
 [18] https://www.researchgate.net/publication/228651542_UUV_FCEPS_technology_assessment_and_design_process
 
 [19] https://stacker.com/stories/3860/largest-oil-fields-world
+
+[20] https://www.eia.gov/todayinenergy/detail.php?id=17991
+
 
