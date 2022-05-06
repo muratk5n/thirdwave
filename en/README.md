@@ -100,34 +100,6 @@ H2 View: "Fortescue and Firstgas to investigate New Zealand’s green hydrogen d
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
 Wout vax things wld have been even worse
 
 "WHO says 15 million deaths linked to Covid-19, almost three times the
