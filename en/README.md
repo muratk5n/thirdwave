@@ -126,7 +126,7 @@ Worth noting that unemployment rapidly dropped after Britney Spears
 
 ---
 
-Let's hope he unseats Bolsonaro.
+Lula can win, unseat Bolsonaro. 
 
 The Jakarta Post: "Leftist icon Lula launches presidential campaign to 'rebuild Brazil'"
 
