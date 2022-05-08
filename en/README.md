@@ -93,7 +93,8 @@ home-ownership out of reach for Canadians"
 
 ---
 
-They were talking about that 2012 Meet the Press appearance, joking
+They were talking about that 2012 Meet the Press appearance, Im kidding.
+We kid here.
 
 ---
 
