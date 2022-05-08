@@ -8,183 +8,197 @@ Pinned Tweet
 
 ---
 
-H2 View: "Heliogen receives $89m from Woodside and US Department of
-Energy to unlock large-scale green hydrogen production"
+H2 View: "[A new] study has found that using a [polymer based]
+photocatalyst under simulated sunlight facilitates the decomposition
+of water, when loaded with an iridium catalyst, which in turn
+generates hydrogen. The photocatalysts.. are of huge interest as their
+properties can be tuned.. The researchers have also said that another
+potential advantage of this technique.. is that ‘polymers are
+printable’, which would allow for cost-effective production techniques
+for scaling up"
+
+[[-]](https://www.h2-view.com/story/study-suggests-solar-energy-potential-solution-for-green-hydrogen-production/)
 
 ---
 
-H2 View: "Hydroplane remains on course for first hydrogen demonstration
-flight by 2023 with new US Air Force contract"
+H2 View: "European electrolyser manufacturers and the European
+Commission have committed to increase their annual hydrogen
+manufacturing capacity to 15.5GW by 2025 in a joint declaration"
 
 ---
 
-H2 Fuel News: "EDP Brasil is one of the leading companies in the
-country’s energy sector and will play a critical part in the Brazil
-green hydrogen production strategy. It will begin activities at a
-renewable H2 production unit located in São Gonçalo do Amarante,
-Ceará.. The EDP plant will power the electrolyzer using photovoltaic
-solar energy.. it is expected to have a production capacity of 22.5
-kilograms per hour"
+"@AirLiquideUSA
+
+In today’s \#SenateENR hearing on the [DOE] budget, @SenCortezMasto
+and @SecGranholm discuss their recent visit to our new hydrogen
+facility in Nevada"
+
+[[-]](https://mobile.twitter.com/AirLiquideUSA/status/1522318903204093954)
 
 ---
 
-H2 View: "Bosch to develop smart modules for electrolysis units and
-ramp up hydrogen production"
+H2 View: "Preliminary approval brings hydrogen-powered ships closer to
+Norway.. HAV Group ASA announced that it has received preliminary
+approval for its hydrogen-based energy system, pushing forward hopes
+of using hydrogen fuel in commercial ships"
 
 ---
 
-H2 View: "Sunshine Hydro unveils $2bn hydrogen production mega-project
-in Queensland, Australia"
+H2 View: A pre-feasibility study has been announced that will assess
+the viability to produce and transport green hydrogen in Western
+Australia, using existing pipelines.
 
 ---
 
-H2 View: "Toyota to supply hydrogen fuel cells for Mercedes-Benz buses"
+H2 View: "ScottishPower and Storegga announced plans to build a series
+of megawatt-scale green hydrogen projects in the Scottish Highlands"
 
 ---
 
-And of course there is always ammonia, LOCH, and bunch of other stuff..
+H2 Fuel News: "Smartpipe Technologies recently announced that it has
+received a $6.6 million investment from Enbridge for the development
+of innovative pipelinew technology [for H2 and CO2]."
 
 ---
 
-Comparing the capacity of that three-dome LH2 carrier to crude; 1
-barrel of oil is 136 kg. Energy density of crude oil 10 kwh/kg.  Small
-crude tanker size is 100K barrels. Liquid hydrogen has a an energy
-density of 2216 kwh/m3, ship carry capacity of 37,500m3 means,
+"@hyzonmotors
 
-
-```python
-100*1000 * 136 * 10 / 1e6 # gwh
-```
-
-```text
-Out[1]: 136.0
-```
-
-```python
-2216*37500 / 1e6 # gwh
-```
-
-```text
-Out[1]: 83.1
-```
-
-136 gwh vs 83 gwh capacity.. It's getting there.. 
+... Hyzon fuel cell trucks will be operating with a lower total cost
+of ownership than diesel trucks in California before the end of 2022"
 
 ---
 
-H2 View: "Ionomr Innovations achieves crucial milestone with
-electrolyser durability test to produce cost-competitive green
-hydrogen"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The launch of Anglo American’s <a href="https://twitter.com/hashtag/nuGen?src=hash&amp;ref_src=twsrc%5Etfw">#nuGen</a>™️ Zero Emission Haulage Solution haulage solution, a hydrogen-powered, ultra-class mine haul truck, is currently underway at the Mogalakwena PGM mine in Mokopane, Limpopo. <a href="https://twitter.com/hashtag/HydrogenPower?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenPower</a> <a href="https://twitter.com/hashtag/GrowSouthAfrica?src=hash&amp;ref_src=twsrc%5Etfw">#GrowSouthAfrica</a> <a href="https://t.co/EGZWTSuQmn">pic.twitter.com/EGZWTSuQmn</a></p>&mdash; Presidency | South Africa 🇿🇦 (@PresidencyZA) <a href="https://twitter.com/PresidencyZA/status/1522526875209371650?ref_src=twsrc%5Etfw">May 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-H2 Fuel News: "Gilbarco Veeder-root Prepares For The Hydrogen
-Transport Revolution.. It is making available a suite of compression,
-dispensing and software solutions, allowing the creation of a network
-of renewable or low-carbon hydrogen refuelling stations around the
-world. The company is now at advanced stages of developing new
-technologies and creating partnerships to.. offer gaseous hydrogen to
-serve an ever-increasing number of hydrogen fuel-cell powered
-vehicles"
+The energy ref is good. 
+
+DMT: "For the uninitiated, “Halo” is a military science fiction media
+[video game now adapted for the screen] .. Madrigal is home to a plant
+that has the galaxy’s highest concentration of heavy hydrogen, which
+can be used to power ships as well as drugs. Since resources are
+probably finite in the 26th century as well, the UNSC is looking to
+put their stamp on Madrigal"
 
 ---
 
-H2 View: "Shenzhen State Fuel Cell Corporation seeks $1 billion US listing"
+Makes sense.. Vancouver was a favorite among foreigners I hear.
+
+"@politico
+
+Justin Trudeau intends to ban foreigners from buying houses in Canada
+as the country grapples with booming markets that are putting
+home-ownership out of reach for Canadians"
 
 ---
 
-H2 View: "Fortescue and Firstgas to investigate New Zealand’s green hydrogen distribution"
+They were talking about that 2012 Meet the Press appearance, joking
 
 ---
 
-"WHO says 15 million deaths linked to Covid-19, almost three times the
-official toll"
+Mrs Biden is a guy? I didnt know!
+
+Politico: "How Same-Sex Marriage Shaped Joe Biden"
 
 ---
 
-Speedometer - Tomahawk \#music
-
-[[-]](https://youtu.be/qsVE3RdTSoU)
+Pompeo slammed Oz, who was previously endorsed by DJT. 
 
 ---
 
-"@JeffSharlet
-
-Few days shy of 50 and when I ask my super goth 13-year-old what
-they're listening to they tell me it's a band I probably don't know
-called The Cure"
+Poor guy's reply is full of spurious correlations now.
 
 ---
 
-New routine; after every gender related semi-scandal, we repeat "why
-did Al Franken have to resign?".
+That's from a reply to the trending Douthat tweet; as an example for a
+spurious correlation, like his 
 
 ---
 
-What happens to stawks? OMG!
+😂 
+
+"@donmoyn
+
+Worth noting that unemployment rapidly dropped after Britney Spears
+[released](https://pbs.twimg.com/media/FSFHKPDWQAEFlbU?format=jpg&name=small)
+'Work Bitch'"
 
 ---
 
-Noooooooo oooo ooooooo 
+Let's hope he unseats Bolsonaro.
 
-CNBC: "Fed raises rates by half a percentage point — the biggest hike
-in two decades — to fight inflation"
-
----
-
-Al Jazeera: "Labour takes key London district from UK’s ruling Conservatives"
+The Jakarta Post: "Leftist icon Lula launches presidential campaign to 'rebuild Brazil'"
 
 ---
 
-\#Taiwan \#FirstIslandChain
+The market has been overvalued for a long time. 
 
-<iframe width="340"  src="https://www.youtube.com/embed/p6sCsOdqXQw?start=460&end=1157" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-The Mandarin: "Defence minister Peter Dutton says Australia will have
-autonomous robotic undersea warfare capability in about four years."
+CNBC: "Stock markets are set for more heavy selling this summer as
+central banks around the world hike interest rates to fight spiraling
+inflation, said one economist"
 
 ---
 
-Heimatschutzregiment!
+AP News: "[New] post-Brexit rules, which took effect after Britain
+left the European Union, have imposed customs and border checks on
+some goods entering Northern Ireland from the rest of the U.K. The
+arrangement was designed to keep an open border between Northern
+Ireland and EU member Ireland, a key pillar of the peace process.
 
-Jane's Defense: "Germany stands up first homeland defence regiment"
-
----
-
-Reuters: "Brazil's Lula says Zelenskiy 'as responsible as Putin' for Ukraine war"
-
----
-
-Politico: "Pope says NATO may have caused Russia’s invasion of Ukraine"
-
----
-
-Arab News: "Belarus launches ‘surprise’ military maneuvers..
-Kyiv.. accused Belarus of planning to send troops into Ukraine to
-help Russia’s military operation"
+But the rules angered many [DUP members], who maintain that the new
+checks have created a barrier between Northern Ireland and the rest of
+the U.K. that undermines their British identity. In February, the
+DUP’s Paul Givan resigned as first minister in protest against the
+arrangements, triggering a a fresh political crisis in Northern
+Ireland"
 
 ---
 
-WSJ: "Hungary has repeatedly said it could veto an oil package that
-doesn't give it enough time and financial assistance"
+The party that wants broken island calls themselves 'unionists' BTW;
+effective word play. They want to 'unify' with England of course.
+
+"Belfast results show [DUP] unionists can’t win vote on Brexit protocol"
 
 ---
 
-Who needs Russian oil when you can get 'Latvian blend'?
-
-WSJ: "EU Proposes Ban on Russian Oil Imports"
-
----
-
-WSJ: "Russia Steps Up Attacks on Ukraine Railways, Other Infrastructure"
+UK limped on by playing an inner-outer game; it tried to balance both,
+until it couldn't - enter Brexit. 
 
 ---
 
-Voltaire Net: "The Russian armed forces arrested Canadian General
-Trevor Cadieu in Mariupol.. [who] was apparently not on a mission for
-his government, but was in charge of [a] biolaboratory"
+I hope Ireland is unified, leaves UK. Ditto for Scotland.
+England-centric UK proved it doesn't deserve to remain as single
+entity. Plus now solidly in the outer alliance, they flail around
+f-ing shit up everywhere appealing to some historical idea of Britain,
+trying to revive 'that old good feeling'. 
+
+---
+
+Sinn Fein wants the eventual unification of Ireland, their rival DUP
+is pro-England.
+
+---
+
+Brexit England is getting the shit kicked out of it; I like it
+
+NYT: "Northern Ireland Turns to Sinn Fein.. Election results reflected the
+demoralization of unionist voters, the disarray of their leaders and
+an electorate with new priorities — much of which can be traced to
+Brexit"
+
+---
+
+First Post: "How Narendra Modi deftly walked Ukraine tightrope to
+bring India and Europe closer"
+
+---
+
+Al Jazeera: "Putin believes he cannot ‘afford to lose’ Ukraine war: CIA chief"
+
+---
+
+Politico: "The war in Ukraine has revived Washington’s once-deflated hawks"
 
 ---
 
