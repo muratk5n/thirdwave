@@ -94,7 +94,7 @@ Politico: "How Same-Sex Marriage Shaped Joe Biden"
 
 ---
 
-Pompeo slammed Oz, who was previously endorsed by DJT. 
+Pompeo slammed Oz, who was previously endorsed by DJT. What's up
 
 ---
 
