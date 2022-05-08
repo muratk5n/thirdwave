@@ -44,9 +44,9 @@ of using hydrogen fuel in commercial ships"
 
 ---
 
-H2 View: A pre-feasibility study has been announced that will assess
+H2 View: "A pre-feasibility study has been announced that will assess
 the viability to produce and transport green hydrogen in Western
-Australia, using existing pipelines.
+Australia, using existing pipelines"
 
 ---
 
@@ -77,9 +77,9 @@ The energy ref is good.
 DMT: "For the uninitiated, “Halo” is a military science fiction media
 [video game now adapted for the screen] .. Madrigal is home to a plant
 that has the galaxy’s highest concentration of heavy hydrogen, which
-can be used to power ships as well as drugs. Since resources are
-probably finite in the 26th century as well, the UNSC is looking to
-put their stamp on Madrigal"
+can be used to power ships... Since resources are probably finite in
+the 26th century as well, the UNSC is looking to put their stamp on
+Madrigal"
 
 ---
 
