@@ -83,8 +83,8 @@ Madrigal"
 
 ---
 
-They were talking about that 2012 Meet the Press appearance, Im kidding.
-We kid here.
+They were talking about that 2012 Meet the Press appearance, Im just
+kidding.. We kid here.
 
 ---
 
