@@ -156,7 +156,7 @@ Ireland"
 ---
 
 The party that wants broken island calls themselves 'unionists' BTW;
-effective word play. They want to 'unify' with England of course.
+effective word play. They actually want to 'unify' with England.
 
 "Belfast results show [DUP] unionists can’t win vote on Brexit protocol"
 
