@@ -169,9 +169,9 @@ until it couldn't - enter Brexit.
 
 I hope Ireland is unified, leaves UK. Ditto for Scotland.
 England-centric UK proved it doesn't deserve to remain as single
-entity. Plus now solidly in the outer alliance, they flail around
-f-ing shit up everywhere appealing to some historical idea of Britain,
-trying to revive 'that old good feeling'. 
+entity. Now solidly in the outer alliance, they flail around in
+desperation f-ing shit up everywhere appealing to some historical idea
+of Britain, trying to revive 'that old good feeling'.
 
 ---
 
