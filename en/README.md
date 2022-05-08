@@ -83,16 +83,6 @@ Madrigal"
 
 ---
 
-Makes sense.. Vancouver was a favorite among foreigners I hear.
-
-"@politico
-
-Justin Trudeau intends to ban foreigners from buying houses in Canada
-as the country grapples with booming markets that are putting
-home-ownership out of reach for Canadians"
-
----
-
 They were talking about that 2012 Meet the Press appearance, Im kidding.
 We kid here.
 
