@@ -117,17 +117,17 @@ Worth noting that unemployment rapidly dropped after Britney Spears
 
 ---
 
-Lula can win, unseat Bolsonaro. 
-
-The Jakarta Post: "Leftist icon Lula launches presidential campaign to 'rebuild Brazil'"
-
----
-
 The market has been overvalued for a long time. 
 
 CNBC: "Stock markets are set for more heavy selling this summer as
 central banks around the world hike interest rates to fight spiraling
 inflation, said one economist"
+
+---
+
+Lula can win, unseat Bolsonaro. 
+
+The Jakarta Post: "Leftist icon Lula launches presidential campaign to 'rebuild Brazil'"
 
 ---
 
