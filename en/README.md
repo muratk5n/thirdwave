@@ -150,7 +150,7 @@ can work. This is the way
 ---
 
 \#Documentary \#WSJ "Trucking used to be one of the very best blue
-collar jobs in the US.  The the industry was almost fully unionized by
+collar jobs in the US. The the industry was almost fully unionized by
 the teamsters union.  Unionized truck drivers were making up to 20%
 more than even unionized steel workers or auto workers. It was one of
 the best jobs you could get, and when you got one of those good jobs
