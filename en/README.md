@@ -185,9 +185,10 @@ Little image processing action to reverse-eng UKR-RU frontline. Works ok
 
 ```python
 from skimage.color import rgb2gray, rgb2lab, deltaE_cie76
-from skimage import io, measure
 from skimage.segmentation import felzenszwalb
 from skimage.morphology import binary_closing
+from skimage import io, measure
+
 threshold = 15
 img = io.imread("ua-ukr-20220504.png")
 lab = rgb2lab(img[:,:,[0,1,2]])
