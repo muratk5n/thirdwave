@@ -199,7 +199,7 @@ flt[(d1 < threshold)] = 1; flt[(d1 >= threshold)] = 0
 flt[(d2 < threshold)] = 1; 
 flt = flt.astype(bool)
 flt = binary_closing(flt)
-seg = felzenszwalb(filt, scale=50, sigma=2, min_size=8000)
+seg = felzenszwalb(flt, scale=50, sigma=2, min_size=8000)
 fig, axes = plt.subplots(1, 2, figsize=(8, 3), sharey=True)
 axes[0].imshow(img)
 axes[1].imshow(seg)
