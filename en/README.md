@@ -112,7 +112,7 @@ problem doesn't make it go away.
 
 ---
 
-Interesting, though the this tool is overused these days as a literary
+Interesting, though this tool is overused these days as a literary
 crutch. Ditto for 'alternate universes'.
 
 "[Twain novel] *A Connecticut Yankee in King Arthur’s Court*.. is often
