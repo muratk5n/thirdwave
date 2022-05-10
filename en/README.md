@@ -189,7 +189,6 @@ from skimage import io, measure
 from skimage.segmentation import felzenszwalb
 from skimage.morphology import binary_closing
 threshold = 15
-fig, axes = plt.subplots(1, 2, figsize=(8, 3), sharey=True)
 img = io.imread("ua-ukr-20220504.png")
 lab = rgb2lab(img[:,:,[0,1,2]])
 d1 = deltaE_cie76(rgb2lab(np.uint8(np.asarray([243,178,182])) ), lab)
@@ -200,10 +199,9 @@ flt[(d2 < threshold)] = 1;
 flt = flt.astype(bool)
 flt = binary_closing(flt)
 seg = felzenszwalb(filt, scale=50, sigma=2, min_size=8000)
-
+fig, axes = plt.subplots(1, 2, figsize=(8, 3), sharey=True)
 axes[0].imshow(img)
 axes[1].imshow(seg)
-
 contours = measure.find_contours(seg, 0.8)
 for c in contours:
     axes[1].plot(c[:, 1], c[:, 0], color='white',linewidth=2)
