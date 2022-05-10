@@ -125,7 +125,7 @@ MT depiction in Trek Next Gen was good.
 
 ---
 
-It's weird how the image of Twain today is excessively desanitized.
+It's weird how the image of Twain today is excessively sanitized.
 Mark Twain was a vocal anti-war proponent in his day.. He even once
 suggested that the stars in the flag be "replaced by skulls and
 cross-bones".
