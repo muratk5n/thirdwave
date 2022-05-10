@@ -113,7 +113,7 @@ problem doesn't make it go away.
 ---
 
 Interesting, though the this tool is overused these days as a literary
-clutch. Ditto for 'alternate universes'.
+crutch. Ditto for 'alternate universes'.
 
 "[Twain novel] *A Connecticut Yankee in King Arthur’s Court*.. is often
 said to be the forerunner of all science fiction tales about time
