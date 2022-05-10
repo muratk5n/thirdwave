@@ -176,8 +176,8 @@ the Year for 1952. A terrible fate befell him..
 Had to guide the processing towards the goal; remove small patches,
 tell the segmentation algo to look at coarse objects, put a lower
 limit on segment size.. lots of small nudges here and there. There is
-no free lunch. Cant do 'Alexa give me the interesting image blocks and
-boundaries in this image'.
+no free lunch. There is no 'Alexa give me the interesting image blocks
+and boundaries in this image'.
 
 ---
 
