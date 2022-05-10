@@ -121,7 +121,7 @@ travel"
 
 ---
 
-MT depiction is Trek Next Gen was good.
+MT depiction in Trek Next Gen was good.
 
 ---
 
