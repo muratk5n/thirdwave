@@ -173,31 +173,6 @@ the Year for 1952. A terrible fate befell him..
 
 ---
 
-Al Monitor: "Yazidis displaced anew by north Iraq violence"
-
----
-
-NI is seperated by the North Channel from UK just as UK is seperated
-by the English Channel from EU mainland - yet the latter went through
-Brexit, severing its connection to that mainland. Well here is another
-Channel and maybe another "exit".
-
-"Northern Island is so close to UK, it's logical they want to be
-closely connected"
-
----
-
-Aw man but UK is such a 'leader' in the RU/UKR fight (while also
-quietly enjoying the mess it helped create inside European
-landmass). Can't you cut them a little slack?
-
-Politico: "Take a chill pill, EU tells UK over Northern Ireland
-protocol.. London needs to 'dial down the rhetoric' and 'find
-solutions' to trade issues within the framework of the deal, European
-Commission Vice President Maros Sefcovic says"
-
----
-
 Had to guide the processing towards the goal; remove small patches,
 tell the segmentation algo to look at coarse objects, put a lower
 limit on segment size.. lots of small nudges here and there. There is
@@ -235,6 +210,31 @@ for c in contours:
 ```
 
 <img width="350" src="https://pbs.twimg.com/media/FSWZvWtXwAAfZVv?format=png&name=small"/>
+
+---
+
+Al Monitor: "Yazidis displaced anew by north Iraq violence"
+
+---
+
+NI is seperated by the North Channel from UK just as UK is seperated
+by the English Channel from EU mainland - yet the latter went through
+Brexit, severing its connection to that mainland. Well here is another
+Channel and maybe another "exit".
+
+"Northern Island is so close to UK, it's logical they want to be
+closely connected"
+
+---
+
+Aw man but UK is such a 'leader' in the RU/UKR fight (while also
+quietly enjoying the mess it helped create inside European
+landmass). Can't you cut them a little slack?
+
+Politico: "Take a chill pill, EU tells UK over Northern Ireland
+protocol.. London needs to 'dial down the rhetoric' and 'find
+solutions' to trade issues within the framework of the deal, European
+Commission Vice President Maros Sefcovic says"
 
 ---
 
