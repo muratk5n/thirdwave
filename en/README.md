@@ -61,14 +61,6 @@ H2 View: "Enertrag to develop 15,000 tonnes green hydrogen production hub in Uru
 
 ---
 
-"@TimRuhr
-
-.. At Kemira's Joutseno plant hydrogen is a byproduct of chlorate
-production and they want to sell it to the Ovako steel mill in Imatra.
-@GasgridFinland is onboard to help with the pipelines"
-
----
-
 "@CHEManager_EU
 
 @Shell is the first company to sign an agreement to use the
@@ -97,6 +89,14 @@ H2 View: "Hyundai unveils plans to expand hydrogen fuel cell tractors to the US"
 
 H2 View: "Hydrogen trucks are the most eco-friendly zero-emission
 vehicle, says ATRI [American Transportation Research Institute]"
+
+---
+
+"@TimRuhr
+
+.. At Kemira's Joutseno plant hydrogen is a byproduct of chlorate
+production and they want to sell it to the Ovako steel mill in Imatra.
+@GasgridFinland is onboard to help with the pipelines"
 
 ---
 
