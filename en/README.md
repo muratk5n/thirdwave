@@ -112,7 +112,7 @@ the 'NOPEC' bill] intended to regulate its output"
 
 ---
 
-Cert as in 'digital certification'? Hilarious.
+Cert as in 'digital certification' from the vendor? Hilarious.
 
 \#iot @internetofshit
 
