@@ -1,186 +1,186 @@
 # 2018
 
-[Bernie Sanders' Medicare for All Town Hall](01/bernie-sanders-medicare-for-all-town.md)
+[Bernie Sanders' Medicare for All Town Hall](01/bernie-sanders-medicare-for-all-town.html)
 
-[EaaS - Education as a Service](01/eaas-education-as-service.md)
+[EaaS - Education as a Service](01/eaas-education-as-service.html)
 
-[January Temperatures](01/january-temperatures.md)
+[January Temperatures](01/january-temperatures.html)
 
-[#MRI](01/mri.md)
+[#MRI](01/mri.html)
 
-[](01/nytemp.md)
+[](01/nytemp.html)
 
-[The Lost Einsteins](01/the-lost-einsteins.md)
+[The Lost Einsteins](01/the-lost-einsteins.html)
 
-[The Origin and Prevention of Major Wars](01/the-origin-and-prevention-major-wars-mesquita.md)
+[The Origin and Prevention of Major Wars](01/the-origin-and-prevention-major-wars-mesquita.html)
 
-[GroKo](02/groko.md)
+[GroKo](02/groko.html)
 
-[Interference](02/interference.md)
+[Interference](02/interference.html)
 
-[Steve Keen's Macroeconomic Model](02/keen.md)
+[Steve Keen's Macroeconomic Model](02/keen.html)
 
-[Steve Keen's Macroeconomic Model, Derivation, Code](02/keen_math.md)
+[Steve Keen's Macroeconomic Model, Derivation, Code](02/keen_math.html)
 
-[Late-Stage Capitalism](02/late-stage-capitalism.md)
+[Late-Stage Capitalism](02/late-stage-capitalism.html)
 
-[#bernie #cnn](03/bernie-cnn.md)
+[#bernie #cnn](03/bernie-cnn.html)
 
-[Chia and the Blockchain](03/chia-and-blockchain.md)
+[Chia and the Blockchain](03/chia-and-blockchain.html)
 
-[#guns #lotsOfGuns](03/guns-lotsofguns.md)
+[#guns #lotsOfGuns](03/guns-lotsofguns.html)
 
-[#msnbc](03/lie.md)
+[#msnbc](03/lie.html)
 
-[Modern-Day Debtors' Prisons, Privatization](03/modern-day-debtors-prisons.md)
+[Modern-Day Debtors' Prisons, Privatization](03/modern-day-debtors-prisons.html)
 
-[Multiversed](03/multiversed.md)
+[Multiversed](03/multiversed.html)
 
-[#oprah](03/oprah.md)
+[#oprah](03/oprah.html)
 
-[RIP Petrodollar?](03/rip-petrodollar.md)
+[RIP Petrodollar?](03/rip-petrodollar.html)
 
-[Scapegoat du Jour](03/scapegoat-du-jour.md)
+[Scapegoat du Jour](03/scapegoat-du-jour.html)
 
-[#secularStagnation](03/secularstagnation.md)
+[#secularStagnation](03/secularstagnation.html)
 
-[#skeptics](03/skeptics.md)
+[#skeptics](03/skeptics.html)
 
-[Two Deficits](03/two-deficits.md)
+[Two Deficits](03/two-deficits.html)
 
-[Banking Scams](04/banking-scams.md)
+[Banking Scams](04/banking-scams.html)
 
-[#dccc #badabim #badaboom](04/dccc-badabim-badabum.md)
+[#dccc #badabim #badaboom](04/dccc-badabim-badabum.html)
 
-[#petrodollar](04/petrodollar.md)
+[#petrodollar](04/petrodollar.html)
 
-[Yo Bitch](04/yo-bitch.md)
+[Yo Bitch](04/yo-bitch.html)
 
-[Economy](05/economy.md)
+[Economy](05/economy.html)
 
-[Faux Nobel Prize for Economists](05/faux-nobel.md)
+[Faux Nobel Prize for Economists](05/faux-nobel.html)
 
-[Inflation](05/inflation.md)
+[Inflation](05/inflation.html)
 
-[#noOccupation](05/nooccupation.md)
+[#noOccupation](05/nooccupation.html)
 
-[US Polarization](05/polarization.md)
+[US Polarization](05/polarization.html)
 
-[Princes of Mayhem](05/princes-of-mayhem.md)
+[Princes of Mayhem](05/princes-of-mayhem.html)
 
-[Quantity Theory of Money](05/quantity-theory-of-money.md)
+[Quantity Theory of Money](05/quantity-theory-of-money.html)
 
-[Settlements, Explained](05/settlements-explained.md)
+[Settlements, Explained](05/settlements-explained.html)
 
-[The Forgotten Legacy of the Six-Day War](05/the-forgotten-legacy-of-six-day-war.md)
+[The Forgotten Legacy of the Six-Day War](05/the-forgotten-legacy-of-six-day-war.html)
 
-[Work, etc](05/work-etc_25.md)
+[Work, etc](05/work-etc_25.html)
 
-[#AGI](06/agi.md)
+[#AGI](06/agi.html)
 
-[#frank](06/frank.md)
+[#frank](06/frank.html)
 
-[Governments, Money, Economy](06/governments-money-economy.md)
+[Governments, Money, Economy](06/governments-money-economy.html)
 
-[Guiding Regulation, South Korea](06/guiding-regulation-south-korea.md)
+[Guiding Regulation, South Korea](06/guiding-regulation-south-korea.html)
 
-[#piece](06/piece_15.md)
+[#piece](06/piece_15.html)
 
-[#russia #russia #russia](06/russia-russia-russia.md)
+[#russia #russia #russia](06/russia-russia-russia.html)
 
-[The West Bank](06/westbank.md)
+[The West Bank](06/westbank.html)
 
-[Flow Batteries, Built with Iron and Water](07/battery-fueled-by-iron-and-water.md)
+[Flow Batteries, Built with Iron and Water](07/battery-fueled-by-iron-and-water.html)
 
-[#koch](07/koch.md)
+[#koch](07/koch.html)
 
-[#meghan #joy](07/meghan-mccain.md)
+[#meghan #joy](07/meghan-mccain.html)
 
-[Monetary Diversity](07/monetary-diversity.md)
+[Monetary Diversity](07/monetary-diversity.html)
 
-[Plant-Based Meat](07/plant-based-meat.md)
+[Plant-Based Meat](07/plant-based-meat.html)
 
-[Entrepreneurship Insurance](08/entrepreneurship-insurance.md)
+[Entrepreneurship Insurance](08/entrepreneurship-insurance.html)
 
-[#nra](08/nra.md)
+[#nra](08/nra.html)
 
-[#russia #russia #russia](08/russia-russia-russia.md)
+[#russia #russia #russia](08/russia-russia-russia.html)
 
-[The Private Security State](08/the-security-state.md)
+[The Private Security State](08/the-security-state.html)
 
-[#voterShaming](08/votershaming.md)
+[#voterShaming](08/votershaming.html)
 
-[Global E-mail Patterns Reveal “Clash of Civilizations”..](09/global-e-mail-patterns-reveal-clash-of.md)
+[Global E-mail Patterns Reveal “Clash of Civilizations”..](09/global-e-mail-patterns-reveal-clash-of.html)
 
-[Globalization](09/globalization.md)
+[Globalization](09/globalization.html)
 
-[Hyundai Nexo](09/hyunda-nexo-additions.md)
+[Hyundai Nexo](09/hyunda-nexo-additions.html)
 
-[Part-Time Employees](09/part-time-employees.md)
+[Part-Time Employees](09/part-time-employees.html)
 
-[Patents](09/patents.md)
+[Patents](09/patents.html)
 
-[Pemmican](09/pemmican.md)
+[Pemmican](09/pemmican.html)
 
-[Public Education](09/public-education.md)
+[Public Education](09/public-education.html)
 
-[#science](09/science.md)
+[#science](09/science.html)
 
-[The Myth of the Liberal International Order](09/the-myth-of-liberal-international-order.md)
+[The Myth of the Liberal International Order](09/the-myth-of-liberal-international-order.html)
 
-[Watergate Babies](09/watergate-babies.md)
+[Watergate Babies](09/watergate-babies.html)
 
-[Ammonia](10/ammonia.md)
+[Ammonia](10/ammonia.html)
 
-[CSIRO](10/csiro.md)
+[CSIRO](10/csiro.html)
 
-[Element One](10/element-one.md)
+[Element One](10/element-one.html)
 
-[Fracked Up (and Ammonia)](10/fracked-up.md)
+[Fracked Up (and Ammonia)](10/fracked-up.html)
 
-[LPG Cylinders, Energy, Taxis, Kitchens](10/lpg-cylinder-gas-kitchen-cab.md)
+[LPG Cylinders, Energy, Taxis, Kitchens](10/lpg-cylinder-gas-kitchen-cab.html)
 
-[Paraffin Wax](10/paraffin-wax.md)
+[Paraffin Wax](10/paraffin-wax.html)
 
-[Patent Codebook](10/patents-code.md)
+[Patent Codebook](10/patents-code.html)
 
-[The Case Against Patents](10/the-case-against-patents.md)
+[The Case Against Patents](10/the-case-against-patents.html)
 
-[Drinking Water from Air](11/drinking-water-from-air.md)
+[Drinking Water from Air](11/drinking-water-from-air.html)
 
-[Going Bi](11/going-bi_24.md)
+[Going Bi](11/going-bi_24.html)
 
-[Guns Again](11/guns-again.md)
+[Guns Again](11/guns-again.html)
 
-[Making Food from Electricity, Water and Air - Solarfoods](11/making-food-from-electricity-water-and.md)
+[Making Food from Electricity, Water and Air - Solarfoods](11/making-food-from-electricity-water-and.html)
 
-[#martyr](11/martyr.md)
+[#martyr](11/martyr.html)
 
-[Midterm 2018](11/midterm-.md)
+[Midterm 2018](11/midterm-.html)
 
-[MPP Analysis](11/mpp-analysis.md)
+[MPP Analysis](11/mpp-analysis.html)
 
-[#russia #russia #russia](11/russia-russia-russia.md)
+[#russia #russia #russia](11/russia-russia-russia.html)
 
-[Solid H2, Nanopowders](11/solid-h2-nanopowders.md)
+[Solid H2, Nanopowders](11/solid-h2-nanopowders.html)
 
-[The surprising resurgence of hydrogen fuel](11/the-surprising-resurgence-of-hydrogen.md)
+[The surprising resurgence of hydrogen fuel](11/the-surprising-resurgence-of-hydrogen.html)
 
-[BDS](12/bds.md)
+[BDS](12/bds.html)
 
-[Climate Change](12/climate.md)
+[Climate Change](12/climate.html)
 
-[Forest Fire Historical Data](12/fires-history.md)
+[Forest Fire Historical Data](12/fires-history.html)
 
-[Friedman on US, Europe, The World](12/friedman-europe.md)
+[Friedman on US, Europe, The World](12/friedman-europe.html)
 
-[Da Collapse, Macro Investing, McCollough](12/macro-mccollough.md)
+[Da Collapse, Macro Investing, McCollough](12/macro-mccollough.html)
 
-[](12/quads.md)
+[](12/quads.html)
 
-[Renewable Fuels are the Solution](12/renewable-fuel-is-the-solution.md)
+[Renewable Fuels are the Solution](12/renewable-fuel-is-the-solution.html)
 
-[The Road to Oblivion](12/the-road-to-oblivion.md)
+[The Road to Oblivion](12/the-road-to-oblivion.html)
 
-[Green Train](12/train.md)
+[Green Train](12/train.html)
 

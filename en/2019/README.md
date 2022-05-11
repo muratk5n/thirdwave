@@ -1,102 +1,102 @@
 # 2019
 
-[Capitalism Eating Itself](01/capitalism.md)
+[Capitalism Eating Itself](01/capitalism.html)
 
-[Carbon Capture](01/carboncapture.md)
+[Carbon Capture](01/carboncapture.html)
 
-[E-Diesel](01/ediesel.md)
+[E-Diesel](01/ediesel.html)
 
-[Solar Ammonia](01/solarammonia.md)
+[Solar Ammonia](01/solarammonia.html)
 
-[Transportation Infrastructure, NH3](01/transportation.md)
+[Transportation Infrastructure, NH3](01/transportation.html)
 
-[X3 Ion Thruster](01/x3.md)
+[X3 Ion Thruster](01/x3.html)
 
-[#brexitexit](02/brexitexit.md)
+[#brexitexit](02/brexitexit.html)
 
-[A Matter of Degrees](03/degrees.md)
+[A Matter of Degrees](03/degrees.html)
 
-[H2@Scale](03/h2scale.md)
+[H2@Scale](03/h2scale.html)
 
-[Wires vs Pipes](03/wirespipes.md)
+[Wires vs Pipes](03/wirespipes.html)
 
-[Green Ammonia](04/greenammonia.md)
+[Green Ammonia](04/greenammonia.html)
 
-[Infrastructure for Space, Bezos](05/bezos-space-infrastructure.md)
+[Infrastructure for Space, Bezos](05/bezos-space-infrastructure.html)
 
-[Conflict Statistics](05/confstats.md)
+[Conflict Statistics](05/confstats.html)
 
-[Get On With It](05/geton.md)
+[Get On With It](05/geton.html)
 
-[Hurricanes, Integrated Kinetic Energy](05/ike.md)
+[Hurricanes, Integrated Kinetic Energy](05/ike.html)
 
-[Natural Disasters](05/natdisaster.md)
+[Natural Disasters](05/natdisaster.html)
 
-[Reports](05/reports.md)
+[Reports](05/reports.html)
 
-[Slippage, H2, the Transition](05/slippage.md)
+[Slippage, H2, the Transition](05/slippage.html)
 
-[Economy, Calculations, Data](05/stats.md)
+[Economy, Calculations, Data](05/stats.html)
 
-[Unfettered Capitalism](05/unfettered.md)
+[Unfettered Capitalism](05/unfettered.html)
 
-[US Bases and Navy Locations](05/usmil.md)
+[US Bases and Navy Locations](05/usmil.html)
 
-[Bancor](06/bancor.md)
+[Bancor](06/bancor.html)
 
-[GE Unleashing a Hydrogen Gas Power Future](06/ge-h2.md)
+[GE Unleashing a Hydrogen Gas Power Future](06/ge-h2.html)
 
-[Hope for Jaded Green Investors](06/jaded-h2.md)
+[Hope for Jaded Green Investors](06/jaded-h2.html)
 
-[Underactuated](06/underactuated.md)
+[Underactuated](06/underactuated.html)
 
-[GenCell and Ammonia](07/gencell.md)
+[GenCell and Ammonia](07/gencell.html)
 
-[The Math for Greenhouse Effect and Global Warming](07/greenhouse-effect-math.md)
+[The Math for Greenhouse Effect and Global Warming](07/greenhouse-effect-math.html)
 
-[The Middle East, Israel, Palestine](07/middleeast.md)
+[The Middle East, Israel, Palestine](07/middleeast.html)
 
-[Focus-Group Democracy](08/focus-group-democracy.md)
+[Focus-Group Democracy](08/focus-group-democracy.html)
 
-[Future Shock](08/future-shock-toffler.md)
+[Future Shock](08/future-shock-toffler.html)
 
-[Manganese Hydride](08/manganese-hydride.md)
+[Manganese Hydride](08/manganese-hydride.html)
 
-[Marx](08/marx.md)
+[Marx](08/marx.html)
 
-[The Memristor](08/memristors.md)
+[The Memristor](08/memristors.html)
 
-[Microgrids](08/microgrids.md)
+[Microgrids](08/microgrids.html)
 
-[Quantum Theory as a Theory of Shadows](08/qm-theory-of-shadows.md)
+[Quantum Theory as a Theory of Shadows](08/qm-theory-of-shadows.html)
 
-[Quantity over Quality](08/quantity-over-quality.md)
+[Quantity over Quality](08/quantity-over-quality.html)
 
-[Lee Smolin](08/smolin.md)
+[Lee Smolin](08/smolin.html)
 
-[1.8 Trillion $ Theft](08/trillion-dollar-theft.md)
+[1.8 Trillion $ Theft](08/trillion-dollar-theft.html)
 
-[Anti-Zionism, Anti-Semitism](08/zionism-antisemitism.md)
+[Anti-Zionism, Anti-Semitism](08/zionism-antisemitism.html)
 
-[Aluminum Trihydride - Alane](09/alane.md)
+[Aluminum Trihydride - Alane](09/alane.html)
 
-[Science Is Not about Getting More "Likes"](09/science-likes.md)
+[Science Is Not about Getting More "Likes"](09/science-likes.html)
 
-[The Most Powerful Greenhouse Gas Known to Man](09/sf6.md)
+[The Most Powerful Greenhouse Gas Known to Man](09/sf6.html)
 
-[My Life](10/my-life-clinton.md)
+[My Life](10/my-life-clinton.html)
 
-[Terry Jones' Barbarians](10/terry-jones-barbarians.md)
+[Terry Jones' Barbarians](10/terry-jones-barbarians.html)
 
-[America's Secret War](11/americas-secret-war-friedman.md)
+[America's Secret War](11/americas-secret-war-friedman.html)
 
-[Hacking the Constitution](11/constitution.md)
+[Hacking the Constitution](11/constitution.html)
 
-[Cultures, Identities, Something Dash Something Americans, Immigrants](11/faux-ambassadors.md)
+[Cultures, Identities, Something Dash Something Americans, Immigrants](11/faux-ambassadors.html)
 
-[A Post-Scarcity World](11/post-scarcity.md)
+[A Post-Scarcity World](11/post-scarcity.html)
 
-[Civilized to Death](12/civilized-to-death.md)
+[Civilized to Death](12/civilized-to-death.html)
 
-[Evolution](12/evolution.md)
+[Evolution](12/evolution.html)
 

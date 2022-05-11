@@ -5,5 +5,5 @@ for f in sorted(glob.glob(d + '/*/*.md')):
     fin = open(f)
     for line in fin.readlines():
         ff = f.replace(d, '')[1:]
-        print ("[%s](%s)\n" % (line[2:].strip(), ff))
+        print ("[%s](%s)\n" % (line[2:].strip(), ff.replace(".md",".html")))
         break

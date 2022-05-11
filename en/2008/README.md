@@ -1,6 +1,6 @@
 # 2008
 
-[Industrial Man](03/industrial-man-toffler.md)
+[Industrial Man](03/industrial-man-toffler.html)
 
-[Revolutionary Wealth](03/revolutionary-wealth-toffler.md)
+[Revolutionary Wealth](03/revolutionary-wealth-toffler.html)
 
