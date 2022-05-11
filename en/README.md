@@ -144,6 +144,11 @@ Hi-Fi Companions - The Livin End \#music
 
 ---
 
+What I am saying is without the open and *free* software, today's
+Big Tech would not exist at the scale it does today.
+
+---
+
 The motivation for the shift to OSS 
 
 [[-]](2013/09/why-open-source.html)
