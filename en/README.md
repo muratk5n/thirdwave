@@ -152,7 +152,7 @@ The motivation for the shift to OSS
 
 Start-ups or many estab players mostly dont pay for databases either;
 Bigger players build their own DB software eventually but there is
-Postgresql, and various other choices for others.
+Postgresql, and various other choices for all.
 
 ---
 
