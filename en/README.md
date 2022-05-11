@@ -107,8 +107,8 @@ rarely leaked.
 
 ---
 
-CNBC: "Top OPEC ministers have hit back at new U.S. legislation [some call
-the 'NOPEC' bill] intended to regulate its output"
+CNBC: "Top OPEC ministers have hit back at new U.S. legislation
+[called 'NOPEC' bill by some] intended to regulate its output"
 
 ---
 
