@@ -524,7 +524,7 @@ plotting to topple Assad. Dunno if true, but QTR did act "outside the
 mainstream ME power centers" in near past, and had a few scuffles with
 SA.
 
-Added those to the [timeline](../../2017/12/timeline-syria-tr.md),
+Added those to the [timeline](../../2017/12/timeline-syria-tr.html),
 search for SA, QTR. 
 
 ---

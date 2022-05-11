@@ -39,7 +39,7 @@ Looks fun
 
 ---
 
-You got that [backwards](../../2020/05/roman-anatolia.md)
+You got that [backwards](../../2020/05/roman-anatolia.html)
 
 "Paraphrasing: the arriving ppl from Central As changed Anatolia"
 

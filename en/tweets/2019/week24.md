@@ -1142,7 +1142,7 @@ It starts with F, ends with rance.
 
 Unfettered trade is not a win-win for all. Comparative advantage is
 false. Only a 1st year student of classical macro would believe this
-nonsense. Through [recent research](../../2017/08/economic-complexity-hidalgo.md)
+nonsense. Through [recent research](../../2017/08/economic-complexity-hidalgo.html)
 (thanks to physicists barging into economics) we know that what matters is
 diversity of products each country produces, not some empty notion of
 "trade". "France should specialize on wine, UK on fish and chips". No;
@@ -1435,6 +1435,6 @@ bancor.
 
 ---
 
-[Bancor](../../2019/06/bancor.md)
+[Bancor](../../2019/06/bancor.html)
 
 ---

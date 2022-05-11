@@ -31,7 +31,7 @@ Not in near future
 
 <a name="sornette"/>
 
-Here's the [doc](../../2017/03/bubble_nb.md) for calculation and
+Here's the [doc](../../2017/03/bubble_nb.html) for calculation and
 derivation of the reduced form of formula. [geek] For the reduced form
 (no log oscillations) you start with the logistic equation, but relax
 the carrying capacity, let it grow along with p(t). Rearrange for a

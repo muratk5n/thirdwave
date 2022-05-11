@@ -43,13 +43,13 @@ critical.
 
 ---
 
-Here is another [paper](../../2020/07/austerity.md) that says
+Here is another [paper](../../2020/07/austerity.html) that says
 "moreover, it seems that trade openness and population growth do not
 have a statistically significant impact on growth"
 
 ---
 
-I replicated Hidalgo's research [here](../../2017/08/hidalgo-code.md), data,
+I replicated Hidalgo's research [here](../../2017/08/hidalgo-code.html), data,
 Python code included. The jujitsi move is excellent. Economists, take note. All I
 hear from them is "if this goes up, that comes down, this comes down
 the other thing goes up". Angle of the dangle is inversely
@@ -72,7 +72,7 @@ richer.
 
 ---
 
-Wrong. Hidalgo's [analysis](../../2017/08/economic-complexity-hidalgo.md) says
+Wrong. Hidalgo's [analysis](../../2017/08/economic-complexity-hidalgo.html) says
 both countries should produce (in varying amount of course) product
 X and Y, because IMO only then can a third inventor, seeing and
 making use of a richer manufacturing base producing X and Y

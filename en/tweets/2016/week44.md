@@ -6,7 +6,7 @@ proves.
 Which "models" are you talking about?
 
 The one I
-[used](../../2015/04/predicting-presidential-elections.md), called
+[used](../../2015/04/predicting-presidential-elections.html), called
 Time for Change model did well. If you fed it the June data (the
 creator of the model, Abramovitz, always takes June numbers to predict
 November), Bama's net popularity is at 5%, gdp growth 2.5%, then the

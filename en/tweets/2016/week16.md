@@ -227,7 +227,7 @@ of 25 million years, and one for around 70 - dinosaurs were wiped out
 [1](ex1.png)
 [2](ex2.png)
 [3](extinct.csv)
-[4](extinct.md)
+[4](extinct.html)
 
 ---
 

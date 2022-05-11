@@ -352,7 +352,7 @@ Literally scores of cities increased PD funding and saw a rise in murders"
 Confused about gobble gobble, Syria etc? I've been recording the major
 events. Looking at it broadly, a picture can emerge
 
-[Events](../../2017/12/timeline-syria-tr.md)
+[Events](../../2017/12/timeline-syria-tr.html)
 
 ---
 
@@ -490,7 +490,7 @@ their perceptions.. "People dont take positions because they find
 themselves reasoned into those positions, they take positions they
 want to take for emotional or ideological reasons and they mobilize
 their reasoning power to justify taking the positions they want to
-take". Essentially [same analysis](2014/06/the-culture-code.md) given
+take". Essentially [same analysis](2014/06/the-culture-code.html) given
 in *The Culture Code*. Emotional brain (containing culture) overrides
 the analytical. Politics 101.
 

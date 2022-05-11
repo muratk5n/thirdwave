@@ -561,7 +561,7 @@ replaced by a reputable researcher, and his videos be made
 available. Videos can be rewound, watched, rewatched. I want students
 to see how a master thinks. Then you complement that with new age
 teaching material, such as KhanAcademy, 3Blue1Brown. Then you add a
-certification mechanism [around it](../../2018/09/public-education.md)
+certification mechanism [around it](../../2018/09/public-education.html)
 , now you are starting to get a semblance of education, that can be
 scaled.
 

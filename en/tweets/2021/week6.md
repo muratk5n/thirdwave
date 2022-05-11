@@ -99,7 +99,7 @@ The Middle. Of the slammer.
 
 ---
 
-There is much wisdom in population [models](../../2011/12/more-on-logistic-equation.md).
+There is much wisdom in population [models](../../2011/12/more-on-logistic-equation.html).
 I talked abt widespread deaths ~10 yrs ago. Logistic eqn models deaths proportional
 to ppl interactions (implying rush towards same resources can kill).
 A pandemic is similar, ppl interaction causes deaths.
@@ -594,7 +594,7 @@ American workers in the United States"
 
 ---
 
-[Ph.D. is about depth](../../2011/10/phd-graduate-studies.md), not breadth.
+[Ph.D. is about depth](../../2011/10/phd-graduate-studies.html), not breadth.
 The joke is "a PhD knows more and more about less and less until he
 knows everything about nothing.". But then, there is something of
 everything in that nothing :), so you'll have learned a lot, at the

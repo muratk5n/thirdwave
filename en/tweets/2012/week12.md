@@ -250,6 +250,6 @@ to terms with the necessity of transititioning to a more knowledge
 intensive and service related economy.
 
 
-[[-]](../../2012/04/the-third-industrial-revolution.md)
+[[-]](../../2012/04/the-third-industrial-revolution.html)
 
 ---

@@ -290,7 +290,7 @@ Re-share. Brexiters up to no good on healthcare.
 
 ---
 
-[Excerpt](../../2019/10/my-life-clinton.md)
+[Excerpt](../../2019/10/my-life-clinton.html)
 
 The dynamic explained there still exists BTW, through media,
 Internet. Does this mean ppl are even less skillful on politics than
@@ -604,7 +604,7 @@ libertardism, sometimes centrism. The best politically-aware coworker
 I knew could drop that spiffy *Team of Rivals* reference, but that
 just means you read the *New York Times*. If that were enough there'd
 be political genuises all around us already. U need take that [extra
-step](../../2018/12/the-road-to-oblivion.md), if not more.
+step](../../2018/12/the-road-to-oblivion.html), if not more.
 
 Now there is some backbone, social awereness in open-source circles -
 but you won't come across to these guys in polite company.

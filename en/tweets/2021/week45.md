@@ -460,7 +460,7 @@ World Crude Oil Production, now through EIA API. Good source.
 
 ---
 
-Global conflict [stats](../../2019/05/confstats.md) for September.
+Global conflict [stats](../../2019/05/confstats.html) for September.
 
 Afghanistan deaths way down (surprise), from over 4000. Incident count
 too high for Mexico, though deaths not much.. drug related attacks,
@@ -508,7 +508,7 @@ transmission, keeping electrification at a minimum.
 
 ---
 
-Wind turbines use that f-ing [SF6](../../2019/09/sf6.md), truly disgusting stuff
+Wind turbines use that f-ing [SF6](../../2019/09/sf6.html), truly disgusting stuff
 
 ---
 

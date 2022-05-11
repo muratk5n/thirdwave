@@ -449,7 +449,7 @@ assumed-or-given-identity-is-culture delusion.
 
 He is a German of TR origin..
 
-He went there at a very young age, and what does [culture code](2014/06/the-culture-code.md)
+He went there at a very young age, and what does [culture code](2014/06/the-culture-code.html)
 say?  He is a product of their culture, schools, etc.
 
 "The new covid drug was invented by someone from TR"

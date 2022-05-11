@@ -129,7 +129,7 @@ Iran"
 
 ---
 
-New items added to [timeline](../../2017/12/timeline-syria-tr.md). See 2010.
+New items added to [timeline](../../2017/12/timeline-syria-tr.html). See 2010.
 
 ---
 

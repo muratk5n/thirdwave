@@ -497,7 +497,7 @@ Use the coal to produce renewable fuel. Ship it.
 ---
 
 Smooth over the data, singular days can be noisy. What does the
-trend say? I [looked](../../2018/01/january-temperatures.md)
+trend say? I [looked](../../2018/01/january-temperatures.html)
 at NYC January temparatures, the trend is up.
 
 "Denier: But how come it is still cold? It is getting colder. Coldest day ever today"

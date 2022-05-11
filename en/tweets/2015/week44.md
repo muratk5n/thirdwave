@@ -408,6 +408,6 @@ seems to me; overfitting is well known in statistics, you keep adding
 more knobs, more flexibility to the model until it "explains" the data
 perfectly, but it's ability to predict suffers as a result.
 
-[[-]](../../2015/11/not-even-wrong.md)
+[[-]](../../2015/11/not-even-wrong.html)
 
 ---

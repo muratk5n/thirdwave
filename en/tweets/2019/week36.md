@@ -369,7 +369,7 @@ languages, mathematical constructs come and go, but I always handle
 them through this tech that never changes (all tech is a form of
 language anyway).
 
-[Link](../../2019/08/future-shock-toffler.md)
+[Link](../../2019/08/future-shock-toffler.html)
 
 ---
 

@@ -1083,7 +1083,7 @@ circle and start singing Kumbaya... This is the ideal for most people.
 
 Deaths due to war, disease etc are directly proportional to the
 density of a population. I wrote about it on 2011,
-[here](../../2011/11/logistic-equation.md) and [here](../../2011/12/more-on-logistic-equation.md).
+[here](../../2011/11/logistic-equation.html) and [here](../../2011/12/more-on-logistic-equation.html).
 
 Logistic equation, the best predictor of population growth, works well
 because it includes a death rate inversely proportional to the density

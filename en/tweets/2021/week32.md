@@ -19,7 +19,7 @@ That's a big fat scifi experience on the ol' CV.
 
 Reshare (with some additions)
 
-[Wires vs Pipes](../../2019/03/wirespipes.md)
+[Wires vs Pipes](../../2019/03/wirespipes.html)
 
 ---
 

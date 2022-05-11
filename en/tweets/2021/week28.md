@@ -128,7 +128,7 @@ cumulative carbon pollution since the 18th century.
 
 Don't get me started on natural gas, fracking and 'flaring'.
 
-[Analysis](../../2021/07/historical-carbon-emissions.md)
+[Analysis](../../2021/07/historical-carbon-emissions.html)
 
 ---
 

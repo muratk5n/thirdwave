@@ -875,7 +875,7 @@ secure a loan, fixed the banking system, and it was done.
 
 ---
 
-[[On Greece]](../../2015/06/on-greece.md)
+[[On Greece]](../../2015/06/on-greece.html)
 
 ---
 

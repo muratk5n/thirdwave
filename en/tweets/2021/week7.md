@@ -650,7 +650,7 @@ closely resembles the physics being done today"
 
 ---
 
-Creator is [more likely](../../2015/04/god.md)
+Creator is [more likely](../../2015/04/god.html)
 
 "Which is likely? Creator or not?"
 

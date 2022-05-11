@@ -1,9 +1,10 @@
 # Week 28
 
-According to argument [here](../../2019/11/americas-secret-war-friedman.md), after 9/11 United States was getting
-kicked out of SA, so it not only needed a new base that'd be strategic
-enough to project power into Middle East and beyond, they also needed
-to force Saudis (and Pakistani) cooperation (SA was encircled by US
+According to argument [here](../../2019/11/americas-secret-war-friedman.html),
+after 9/11 United States was getting kicked out of SA, so it not
+only needed a new base that'd be strategic enough to project
+power into Middle East and beyond, they also needed to
+force Saudis (and Pakistani) cooperation (SA was encircled by US
 after the invasion "oddly enough"), at the same time also demonstrate
 power -especially important- unilateral power to the Muslim
 world. Hence Iraq.
@@ -293,7 +294,7 @@ And usually the largest force in play is geography.
 
 G. Friedman
 
-[See](the-next-decade-friedman.md)
+[See](../../2017/07/the-next-decade-friedman.html)
 
 Interesting
 

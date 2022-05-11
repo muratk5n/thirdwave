@@ -494,7 +494,7 @@ patent-based funding model puts profit over public health"
 
 ---
 
-Gravity is the [main issue](../../2020/09/space-exploration-goals-colonization.md).
+Gravity is the [main issue](../../2020/09/space-exploration-goals-colonization.html).
 Must have a near-Earth gravity.
 
 "Why not go to any ol' place in space and colonize?"

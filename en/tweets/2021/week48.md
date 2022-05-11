@@ -72,7 +72,7 @@ science any time soon"
 
 Reshare on "AI", by F. Chollet
 
-[[-]](../../2016/08/deep-learning-general-ai.md)
+[[-]](../../2016/08/deep-learning-general-ai.html)
 
 ---
 

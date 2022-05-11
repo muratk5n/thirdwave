@@ -130,7 +130,7 @@ Al Jazeera: "Labour takes key London district from UK’s ruling Conservatives"
 
 \#Taiwan \#FirstIslandChain
 
-<iframe width="340"  src="https://www.youtube.com/embed/p6sCsOdqXQw?start=460&end=1157" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="340"  src="https://www.youtube.com/embed/p6sCsOdqXQw?start=460&end=884" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 

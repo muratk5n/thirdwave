@@ -842,7 +842,7 @@ value." --Smolin
 
 ---
 
-Tooze on [focus group democracy](../../2019/08/focus-group-democracy.md). 
+Tooze on [focus group democracy](../../2019/08/focus-group-democracy.html).
 
 It can't be a coincidence that of the last 4 presidents, 3 were *I am
 CRM* types who need to listen to others. Because the spirit of the

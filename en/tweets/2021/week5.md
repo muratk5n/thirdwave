@@ -373,7 +373,7 @@ like that in nature
 
 To elaborate more on how consensus among (knowledgeable) people can
 result in correct decisions.. Remember earlier
-[post](../../2020/07/crowd-wisdom.md) at a country fair 800 people estimated
+[post](../../2020/07/crowd-wisdom.html) at a country fair 800 people estimated
 the weight of an ox. Statistician Francis Galton observed that the
 median guess, 1207 pounds, was accurate within 1% of the true
 weight. Magic.

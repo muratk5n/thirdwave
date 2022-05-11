@@ -669,7 +669,7 @@ to add or subtract anything to that, it's already funny. This kinda
 stuff can be source material. 
 
 E.g. the conversation sequence I did
-[here](../../2013/04/the-new-star-wars.md) (not that I am pro on this
+[here](../../2013/04/the-new-star-wars.html) (not that I am pro on this
 at all), where an imaginary Pickard says "while you take a number two,
 try not to pass any gas", I stole that from someone I knew. I went to
 high-school with him actually, so this kid got it into his head he

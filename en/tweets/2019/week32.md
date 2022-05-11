@@ -403,7 +403,7 @@ quality troll.
 
 Why is it good to have researchers, the best, teaching (even for the
 lowest levels), fired all teachers, relied on [digital
-content](../../2018/09/public-education.md)
+content](../../2018/09/public-education.html)
 for each subject? Feynman could be teaching your kid algebra,
 Einstein, arithmetic, or someone like them.
 
@@ -653,7 +653,7 @@ nothing can stand in its way.
 
 Guns, abortion, etc. These are issues Reps need to remain intractable
 on in order to emphasize their difference from the "other party" who
-keeps trying to be [like them](../../2018/05/polarization.md).
+keeps trying to be [like them](../../2018/05/polarization.html).
 
 Stop whining centrist Democrat. The blood is still on your hands.
 

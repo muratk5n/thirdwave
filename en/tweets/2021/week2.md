@@ -543,7 +543,7 @@ of currency on their own. Some elderly couples whose savings had been
 destroyed would go into the kitchen, hold hands, place their heads in
 the oven and turn on the gas in a poignant form of suicide"
 
-[Link](../../2016/03/hyperinflation.md)
+[Link](../../2016/03/hyperinflation.html)
 
 ---
 
