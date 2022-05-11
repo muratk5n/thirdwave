@@ -162,10 +162,10 @@ Postgresql, and various other choices for all.
 ---
 
 Before Linux, before open-source, commoditization, it would cost a
-fortune to build a server farm.. I used to work in software
-consulting, the price tag we gave to clients for a few commercial
-machines with commercial OS, and databases would make anyone's eyes pop
-today.
+fortune to build a server farm.. I used to work in software consulting
+pre OSS, the price tag we gave to clients for a few commercial
+machines with commercial OS, and databases would make anyone's eyes
+pop today.
 
 ---
 
