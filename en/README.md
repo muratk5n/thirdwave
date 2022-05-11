@@ -150,11 +150,11 @@ can work. This is the way
 ---
 
 \#Documentary \#WSJ "Trucking used to be one of the very best blue
-collar jobs in the US. The the industry was almost fully unionized by
-the teamsters union.  Unionized truck drivers were making up to 20%
-more than even unionized steel workers or auto workers. It was one of
-the best jobs you could get, and when you got one of those good jobs
-you were likely to stay in it until you until you retired. [But] the
+collar jobs in the US. The industry was almost fully unionized by the
+teamsters union.  Unionized truck drivers were making up to 20% more
+than even unionized steel workers or auto workers. It was one of the
+best jobs you could get, and when you got one of those good jobs you
+were likely to stay in it until you until you retired. [But] the
 industry was deregulated 1980, the union was pushed out of the big
 segments of the of the industry, and and wages and working conditions
 followed [became worse]"
