@@ -171,7 +171,7 @@ variation of open-source Linux. Cheap and cheap.
 
 ---
 
-GPM for Facebook is insanely high
+GPM for Facebook is pretty high
 
 ```python
 import yf; yf.get_income('FB')['grossProfitMargin']
