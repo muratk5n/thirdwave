@@ -114,7 +114,7 @@ CNBC: "Top OPEC ministers have hit back at new U.S. legislation
 
 Cert as in 'digital certification' from the vendor? Hilarious.
 
-\#iot @internetofshit
+@internetofshit \#iot 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Never thought I’d say this: My window blinds won’t open because of an expired cert. 🤦‍♂️</p>&mdash; Joey Piccola (@joeypiccola) <a href="https://twitter.com/joeypiccola/status/1524134464992931840?ref_src=twsrc%5Etfw">May 10, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
