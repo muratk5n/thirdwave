@@ -21,13 +21,12 @@ Programmers gain certain key benefits from OS: in the knowledge econ
 when careers are fluid where there is a lot of shift from one company
 to the next, OS software know-how is something they can take with
 them. They can build expertise on an OS software while working in one
-company, and continue using it in another company. A huge benefit. And
-the mechanics of this use/move/reuse?
+company, and continue using it in another company. A huge benefit. 
 
-.. which brings us to the motivation of the second actor in the
-system: managers deciding which software to use. Choosing free over
-commercial is much easier in terms of budget - as long as the quality
-is comparable to commercial software.
+The motivation of the second actor in the system: managers deciding
+which software to use. Choosing free over commercial is much easier in
+terms of budget - as long as the quality is comparable to commercial
+software.
 
 And that brings us to the third actor in the system: the producers of
 software which ironically in the OS world happen to be the programmers
