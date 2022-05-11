@@ -1,239 +1,292 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
----
-
-Pinned Tweet
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Gasgrid Finland participates in the update of <a href="https://twitter.com/ehb_europe?ref_src=twsrc%5Etfw">@ehb_europe</a> development vision – the hydrogen backbone to support the achievement of climate goals, REPowerEU plans, and developing the resilience of the European energy system. <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/EHB?src=hash&amp;ref_src=twsrc%5Etfw">#EHB</a> <a href="https://t.co/adljzgqa2X">https://t.co/adljzgqa2X</a> <a href="https://t.co/fdAbz5wzwC">pic.twitter.com/fdAbz5wzwC</a></p>&mdash; Gasgrid Finland Oy (@GasgridFinland) <a href="https://twitter.com/GasgridFinland/status/1511248215798161410?ref_src=twsrc%5Etfw">April 5, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-H2 View: "A cooperation agreement to develop hydrogen refuelling
-infrastructure capable of refuelling 100,000 hydrogen-powered vehicles
-in the Nordic region has been signed.. Norwegian Hydrogen AS,
-FirstElement Fuel Inc. and Mitsui & Co, announced the companies would
-be working together to accelerate the expansion of the hydrogen
-network across the entire Nordic region"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">ZeroAvia makes major strides in Hydrogen refueling with Shell collaboration and airport pipeline launch.<a href="https://twitter.com/ZeroAvia?ref_src=twsrc%5Etfw">@ZeroAvia</a> <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/H2?src=hash&amp;ref_src=twsrc%5Etfw">#H2</a><a href="https://t.co/NADYvdCAH1">https://t.co/NADYvdCAH1</a></p>&mdash; Hive PR Middle East (@hiveprme) <a href="https://twitter.com/hiveprme/status/1524006850349441025?ref_src=twsrc%5Etfw">May 10, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-H2 View: "Aviation H2 signs major deal with FalconAir to aid in
-developing hydrogen aircraft by 2023. As development of Australia’s
-first hydrogen-powered plane ramps up, the company behind the
-aircraft, Aviation H2, has unveiled a new major partnership with
-FalconAir"
+H2 Fuel News: "Green hydrogen-fuel plant starts production in
+Spain.. The H2 facility was developed to produce power in cumulative
+phases of 20 MW, 30 MW and 50 MW, until they reach a total of 100 MW
+once the entire plant’s development is completed. It will have an
+annual production capacity as large as 14,400 tons of H2, which will
+be distributed by hydrogen tank truck and by injection into a hydro
+pipeline. When it reaches full production, it is expected to prevent
+over 12,000 tons of carbon dioxide emissions every month"
 
 ---
 
-H2 Bulletin: "ZeroAvia Kicks Off US 19-seat Aircraft Testing and
-Demonstration Program on Path to Worldwide Application of its
-Powertrain Technology"
+H2 View: "The project [in South Africa] will build a massive 210
+metric ton hydrogen truck to be used by the mining industry"
 
 ---
 
-H2 View: "Texas, US, continues to ramp up its hydrogen capabilities
-with Enbridge and Humble Midstream revealing plans to develop
-low-carbon hydrogen and ammonia facilities"
+H2 View: "[T]he recently announced electrolyser target raise in the EU
+to 17.5GW by 2025, the market for green hydrogen is set to grow
+significantly in the near future"
 
 ---
 
-H2 Fuel News: "Hydrogen trucks are the most eco-friendly zero-emission
+H2 View: "Wystrach GmbH (Wystrach), a subsidiary of Hexagon Purus, has
+received a €20m ($21.1m) order for hydrogen storage systems from HPS
+Home Power Solutions (HPS)... [T]he German based HPS will use
+Wystrach’s storage systems in its green hydrogen-based electricity
+storage for homes, apartments, and commercial properties.
+
+HPS’s products produce green hydrogen for properties using surplus
+solar power during the summer using an electrolyser and converts it
+back into electricity over the winter months"
+
+---
+
+H2 View: "Hyundai unveils plans to expand hydrogen fuel cell tractors to the US"
+
+---
+
+H2 View: "As a clear sign of a strong customer demand for green steel,
+Swedish-based H2 Green Steel announced it has signed contracts for
+over 1.5 million tonnes per year."
+
+---
+
+H2 View: "A collaboration between Strohm and Lhyfe is aiming to launch the
+‘first floating wind turbine with an integrated hydrogen production
+system’ worth approximately €60m"
+
+---
+
+H2 View: "Enertrag to develop 15,000 tonnes green hydrogen production hub in Uruguay"
+
+---
+
+"@TimRuhr
+
+.. At Kemira's Joutseno plant hydrogen is a byproduct of chlorate
+production and they want to sell it to the Ovako steel mill in Imatra.
+@GasgridFinland is onboard to help with the pipelines"
+
+---
+
+"@CHEManager_EU
+
+@Shell is the first company to sign an agreement to use the
+\#HyTransPort \#hydrogen pipeline in the Netherlands that will run
+from \#Maasvlakte in the @PortOfRotterdam to Pernis"
+
+---
+
+"@ZulfiqarAhmed69
+
+[New Zealand] has a plan to get rid of natural gas and replace it with
+hydrogen.  Hydrogen to Replace Gas Pipelines Across New Zealand by
+2050"
+
+---
+
+H2 Fuel News: "Bosch to develop water electrolyzer components.. The
+company has announced that it will investing €500 million into the
+technology by 2030"
+
+---
+
+H2 View: "Hyundai unveils plans to expand hydrogen fuel cell tractors to the US"
+
+---
+
+H2 View: "Hydrogen trucks are the most eco-friendly zero-emission
 vehicle, says ATRI [American Transportation Research Institute]"
 
 ---
 
-H2 View: "Elcogen announced that it has received a €24m ($25.25m)
-investment to aid the expansion of its capabilities to produce green
-hydrogen, using its reversible solid oxide fuel cell (SOFC)
-technology, from HydrogenOne Capital Growth Plc (HydrogenOne)... The
-investment is set to allow Elcogen to drive forward its expansion of
-facilities in Tallinn, Estonia, to create an automated production line
-for SOFCs"
+H2 would need no cleanup.. comes from water goes into water - if
+rarely leaked.
+
+"UN says 'imminent' Yemen oil spill would cost $20 bn to clean up"
 
 ---
 
-H2 View: "Lhyfe has officially launched its initial public offering (IPO) to
-support the development of the company’s green hydrogen production
-technology and ambitions... The capital increase has soared to over
-€145m ($152m)"
+CNBC: "Top OPEC ministers have hit back at new U.S. legislation [some call
+the 'NOPEC' bill] intended to regulate its output"
 
 ---
 
-Thorium on the other hand, can be found in Egypt, Australia, Canada,
-US, Brazil, Asia Minor.. Molten-salt reactors show some hope; can
-produce H2 easily, added bonus.
+Cert as in 'digital certification'? Hilarious.
+
+\#iot @internetofshit
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Never thought I’d say this: My window blinds won’t open because of an expired cert. 🤦‍♂️</p>&mdash; Joey Piccola (@joeypiccola) <a href="https://twitter.com/joeypiccola/status/1524134464992931840?ref_src=twsrc%5Etfw">May 10, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Wanna do more nuclear? A lot of the fuel for that also comes from
-Russia Russia Russia.
+Janko Nilovic - Soul Impression \#music
+
+[[-]](https://youtu.be/DgD5AZKMxYk)
 
 ---
 
-[Link](https://drive.google.com/uc?export=view&id=1n0aVnSajhY5RR18uEk-tvTD0aRGzQc8D)
+\#socmedia \#bullshitjobs
+
+[[-]](https://youtu.be/mOFBrCqx2r4?t=1594)
 
 ---
 
-Saw another asshat claiming 'maybe the Sun just *reflects* GR from
-everywhere else' 😂 
+Salaries 
+
+"If socializing entire services is good what else can be socialized?"
 
 ---
 
-Of course, dark matter, near black hole, across a time dilation field
-seeping into our universe from another. You got it all figured out
-champ...
+Hi-Fi Companions - The Livin End \#music
 
-"Dark Matter could be involved here too"
+[[-]](https://youtu.be/UYVlCScPHSQ)
 
 ---
 
-Activity would disrupt the activity on that surface, so Gamma rays
-would decrease. That's why there is strong anti-correlation. 
+The motivation for the shift to OSS 
+
+[[-]](2013/09/why-open-source.html)
 
 ---
 
-Nuclear reactions on the surface of the Sun is enough to explain
-that. See 'lattice confinement fusion'. Have to accept the Sun does
-have a surface, it aint bunch of 'hot gas'.
-
-SciAm: "The Sun Is Spitting Out Strange Patterns of Gamma Rays—and No
-One Knows Why.. To their surprise, the researchers found the most
-intense gamma rays appear strangely synced with the quietest part of
-the solar cycle"
-
-[[-]](https://www.scientificamerican.com/article/the-sun-is-spitting-out-strange-patterns-of-gamma-rays-and-no-one-knows-why/)
+Start-ups or many estab players mostly dont pay for databases either;
+Bigger players build their own DB software eventually but there is
+Postgresql, and various other choices for others.
 
 ---
 
-Many-Worlds Interpretation of QM is made possible by ignoring the
-measurement problem, not solving it. 'The collapse' of the
-wavefunction is essentially swept under the carpet, but ignoring the
-problem doesn't make it go away. 
+Before Linux, before open-source, commoditization, it would cost a
+fortune to build a server farm.. I used to work in software
+consulting, the price tag we gave to clients for a few commercial
+machines with commercial OS, and databaes would make anyone's eyes pop
+today.
 
 ---
 
-Interesting, though this tool is overused these days as a literary
-crutch. Ditto for 'alternate universes'.
-
-"[Twain novel] *A Connecticut Yankee in King Arthur’s Court*.. is often
-said to be the forerunner of all science fiction tales about time
-travel"
+It makes sense, they spend a pittance to make that money. Big tech's
+top item costs are probably mostly talent and server farms. The
+machines in those farms are nowadays commodity hardware and run a
+variation of open-source Linux. Cheap and cheap.
 
 ---
 
-MT depiction in Trek Next Gen was good.
-
----
-
-It's weird how the image of Twain today is excessively sanitized.
-Mark Twain was a vocal anti-war proponent in his day.. He even once
-suggested that the stars in the flag be "replaced by skulls and
-cross-bones".
-
-"During the Spanish-American War, [Mark] Twain became a fervent
-anti-imperialist, even joining the Anti-Imperialist League. His
-sentiments about the war and the war in the Phillippines were
-published nationwide"
-
----
-
-Some accents at the UN pronounce piece as 'piss'. Have to work on that
-bruh.
-
----
-
-Social rentals (gov-built rent-controlled homes) as a % of total
-housing; France 14%, Denmark 21%, Netherlands 37%. \#ABC \#Oz. That is
-a huge number. Taking services completely outside the market structure
-can work. This is the way
-
----
-
-\#Documentary \#WSJ "Trucking used to be one of the very best blue
-collar jobs in the US. The industry was almost fully unionized by the
-teamsters union.  Unionized truck drivers were making up to 20% more
-than even unionized steel workers or auto workers. It was one of the
-best jobs you could get, and when you got one of those good jobs you
-were likely to stay in it until you until you retired. [But] the
-industry was deregulated 1980, the union was pushed out of the big
-segments of the of the industry, and and wages and working conditions
-followed [became worse]"
-
----
-
-He had kicked out the foreigners and nationalized the oil
-industry. Then boom - toppled by an 'Anglo' coup.
-
----
-
-Pity. Iran's democratically elected leader Mossadeg was Time's Man of
-the Year for 1952. A terrible fate befell him..
-
-[[-]](https://pbs.twimg.com/media/FSWaDakXMAEnhI5?format=jpg&name=small)
-
----
-
-Had to guide the processing towards the goal; remove small patches,
-tell the segmentation algo to look at coarse objects, put a lower
-limit on segment size.. lots of small nudges here and there. There is
-no free lunch. There is no 'Alexa give me the interesting image blocks
-and boundaries in this image'.
-
----
-
-Little image processing action to reverse-eng UKR-RU frontline. Works ok
+GPM for Facebook is insanely high
 
 ```python
-from skimage.color import rgb2gray, rgb2lab, deltaE_cie76
-from skimage.segmentation import felzenszwalb
-from skimage.morphology import binary_closing
-from skimage import io, measure
-
-threshold = 15
-img = io.imread("ua-ukr-20220504.png")
-lab = rgb2lab(img[:,:,[0,1,2]])
-d1 = deltaE_cie76(rgb2lab(np.uint8(np.asarray([243,178,182])) ), lab)
-d2 = deltaE_cie76(rgb2lab(np.uint8(np.asarray([253,35,36])) ), lab)
-flt = rgb2gray(img.copy())
-flt[(d1 < threshold)] = 1; flt[(d1 >= threshold)] = 0
-flt[(d2 < threshold)] = 1; 
-flt = flt.astype(bool)
-flt = binary_closing(flt)
-seg = felzenszwalb(flt, scale=50, sigma=2, min_size=8000)
-fig, axes = plt.subplots(1, 2, figsize=(8, 3), sharey=True)
-axes[0].imshow(img)
-axes[1].imshow(seg)
-contours = measure.find_contours(seg, 0.8)
-for c in contours:
-    axes[1].plot(c[:, 1], c[:, 0], color='white',linewidth=2)
+import yf; yf.get_income('FB')['grossProfitMargin']
 ```
 
-<img width="350" src="https://pbs.twimg.com/media/FSWZvWtXwAAfZVv?format=png&name=small"/>
+```text
+Out[1]: 
+endDate
+2021-06-30    81.4321
+2021-09-30    80.1069
+2021-12-31     81.147
+2022-03-31    78.4829
+Name: grossProfitMargin, dtype: object
+```
 
 ---
 
-Al Monitor: "Yazidis displaced anew by north Iraq violence"
+Wages have been growing aroung 5% YoY
+
+```
+2021-10-01    4.901961
+2022-01-01    4.982699
+```
 
 ---
 
-NI is seperated by the North Channel from UK just as UK is seperated
-by the English Channel from EU mainland - yet the latter went through
-Brexit, severing its connection to that mainland. Well here is another
-Channel and maybe another "exit".
+Latest US inflation
 
-"Northern Island is so close to UK, it's logical they want to be
-closely connected"
+```
+2022-04-01  8.258629
+```
 
 ---
 
-Aw man but UK is such a 'leader' in the RU/UKR fight (while also
-quietly enjoying the mess it helped create inside European
-landmass). Can't you cut them a little slack?
+That's the other Rajapaksa isn't it. These guys were everywhere.
 
-Politico: "Take a chill pill, EU tells UK over Northern Ireland
-protocol.. London needs to 'dial down the rhetoric' and 'find
-solutions' to trade issues within the framework of the deal, European
-Commission Vice President Maros Sefcovic says"
+Al Jazeera: "After PM, Sri Lanka protesters now want president to quit"
+
+----
+
+Al Jazeera: "Sri Lanka gives emergency powers to army, police after
+violence"
+
+---
+
+WSJ: "Sri Lankan Prime Minister Mahinda Rajapaksa Resigns Amid
+Economic Crisis"
+
+---
+
+Davis: "At present, most indicators, fundamentals of war, and current
+battlefield trendlines support the prospect of a Ukrainian defeat...
+
+In mid-April, Russia captured the critical transportation hub of Izyum
+near the northern shoulder of the Donbas lines. Just days ago, after
+nearly a two-month battle, Putin’s troops captured another key city in
+northern Donbas that controls several essential road junctions in
+Popasnaya. Kremlin forces have now pushed deeper into Severdonetsk,
+putting Ukrainian troops at risk at Lysychansk, just to the southwest
+of Severdonetsk...
+
+Whether Putin has enough troops, ammunition, and time to complete the
+destruction of the UAF positions in the Donbas without mobilizing some
+portion of its reserve forces is an open question. What is clear,
+however, is that Russia’s current operations are slowly strangling
+Ukrainian troops in the Donbas and that despite optimistic rhetoric
+out of Kyiv and Western capitals, the battle is trending towards a
+Russian tactical success, possibly within two months...
+
+Militarily speaking, there is very little hope that even all the
+promised support of heavy weapons and ammunition from the West can be
+delivered to the front, the Ukrainian troops adequately trained, and
+firepower brought to bear in time to change the course...
+
+By continuing to seek a military victory in Ukraine, Ukraine’s troops
+will continue fighting, no negotiated settlement will be realistically
+sought, and most likely Russian troops continue making progress. As a
+result, more Ukrainian civilians and troops will continue to be killed
+and wounded, more cities destroyed, and the economic and food crises –
+for both Ukraine and the world – will worsen. The most likely outcome
+will not change (a negotiated settlement, not a Ukrainian military
+victory), but the cost to Kyiv will be much, much worse"
+
+[[-]](https://www.19fortyfive.com/2022/05/russias-slow-and-steady-war-in-the-donbas-means-ukraine-wont-win/)
+
+---
+
+Lt. Col Daniel Davis
+
+\#rising \#ukraine
+
+[[-]](https://youtu.be/fnqpUq2EZmU?t=43)
+
+---
+
+Says who? Brits? I'm sure Putin will carefully consider it and file it
+under "I don't give a shit" right next to "I don't give a flying
+fuck".
+
+"The sanctions on Putin circle are permanent whatever the outcome in
+Ukraine"
+
+---
+
+Arab News: "Marcos has been short on specifics about foreign policy,
+but in interviews he said he wanted to pursue closer ties with China,
+including possibly setting aside a 2016 ruling by a tribunal in The
+Hague that invalidated almost all of China’s historical claims to the
+South China Sea"
+
+---
+
+Al Jazeera: "The [US Department of State] website previously..
+acknowledged there is 'one China' made up of both China and Taiwan. In
+its place, it simply refers to Taiwan as a close ally in Asia"
 
 ---
 
