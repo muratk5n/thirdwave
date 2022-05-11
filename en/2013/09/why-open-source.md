@@ -34,5 +34,5 @@ the software community at large reached a certain maturity.
 
 If we throw all choices, priorities into the bowl and stir, optimize
 it is clear the equilibrium point for all can be none other than open
-source.
+source. Good ol' self-interest made that happen. 
 
