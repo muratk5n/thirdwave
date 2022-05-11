@@ -28,11 +28,11 @@ which software to use. Choosing free over commercial is much easier in
 terms of budget - as long as the quality is comparable to commercial
 software.
 
-And that brings us to the third actor in the system: the producers of
-software which ironically in the OS world happen to be the programmers
-themselves. Or managers. Or anyone. They could contribute code to OS
-because it is possible, and easy. The capability of the software
-community at large reached a certain maturity.
+The final actor in the system: the producers of software which
+ironically in the OS world happen to be the programmers themselves. Or
+managers. Or anyone. They could contribute code to OS because it is
+possible, and easy. The capability of the software community at large
+reached a certain maturity.
 
 If we throw all choices, priorities, can-do, cannot-do items, stir,
 and optimize (not for a single actor, for the entire system), it is
