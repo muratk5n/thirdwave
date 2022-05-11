@@ -145,7 +145,7 @@ Hi-Fi Companions - The Livin End \#music
 ---
 
 What I am saying is without the open and *free* software, today's
-Big Tech would not exist at the scale it does today.
+Big Tech would not exist at the scale it does now.
 
 ---
 
