@@ -172,7 +172,7 @@ anyone's eyes pop today.
 It makes sense, they spend a pittance to make that money. Big tech's
 top item costs are probably mostly talent and server farms. The
 machines in those farms are nowadays commodity hardware and run a
-variation of open-source Linux. Cheap and cheap.
+variation of open-source software Linux. Cheap and cheap.
 
 ---
 
