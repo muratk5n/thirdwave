@@ -112,7 +112,7 @@ CNBC: "Top OPEC ministers have hit back at new U.S. legislation
 
 ---
 
-Cert as in 'digital certification' from the vendor? Hilarious.
+Cert as in 'digital certification' from the vendor? That's hilarious.
 
 @internetofshit \#iot 
 
