@@ -42,7 +42,9 @@ Liquid hydrogen has a an energy density of 2216 kwh/m3
 
 Liquid hydrogen has a weight density of 71 kg/m³.
 
-Gasoline has a density of 32 MJ/L. 
+Gasoline has a density of 32 MJ/L.
+
+Natural gas has 10.55 kWh per cubic meters
 
 As standard the 1 barrel (119 liter) of crude oil produce approximately
 159 liters of gasoline / petrol.
@@ -234,6 +236,8 @@ A tree can absorb 25kg of CO2 per year. When burned that carbon is
 released into the air.
 
 Transport
+
+Europe imported 380 million cubic meters per day of gas by pipeline from Russia in 2021
 
 Largest ammonia ship 87,000 m3 [14]
 

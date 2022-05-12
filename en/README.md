@@ -268,7 +268,7 @@ Lt. Col Daniel Davis
 
 \#rising \#ukraine
 
-[[-]](https://youtu.be/fnqpUq2EZmU?t=43)
+[[-]](https://youtu.be/fnqpUq2EZmU?t=52)
 
 ---
 
