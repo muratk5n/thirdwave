@@ -190,8 +190,9 @@ presence of great professors whose research is paid by the government,
 roads paved, energy infra created by the government, the security
 provided by the government and the open-source software provided by
 mostly nameless contributers around the world. Well it is easy to be
-'wild and innovative' a budding entrepreneur in this scenario... being
-the topping of the cake while making use of free. We need free.
+'wild and innovative' a budding entrepreneur in this
+scenario... providing the topping of the cake while making use of
+free. We need free.
 
 ---
 
