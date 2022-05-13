@@ -1,9 +1,60 @@
+import pandas as pd, datetime, numpy as np
 import requests, urllib.parse, json
 from pandas_datareader import data, wb
 import matplotlib.pyplot as plt
-import pandas as pd
-import datetime
-import numpy as np
+
+from skimage.color import rgb2gray, rgb2lab, deltaE_cie76
+from skimage.segmentation import felzenszwalb
+from skimage.morphology import binary_closing
+from skimage import io, measure
+
+import simplegeomap as sm, json, util
+
+def plot_before_after(clat,clon,zoom,befidx,aftidx,pix_city):
+    sm.plot_countries(clat,clon,zoom,outcolor='lavenderblush')
+
+    res = util.get_ru_front(befidx)
+    ru = util.conv_pix_geo(res, pix_city[befidx]['mariupol'], pix_city[befidx]['donetsk'])
+    ru = np.array(ru[100:-300])
+    sm.plot_line(ru,color='green',linestyle='dashed')
+
+    res = util.get_ru_front(aftidx)
+    ru = util.conv_pix_geo(res, pix_city[aftidx]['mariupol'], pix_city[aftidx]['donetsk'])
+    ru = np.array(ru[900:-400])
+    sm.plot_line(ru,color='red',linestyle='dashed')    
+
+def get_ru_front(idx):
+
+    threshold = 15
+    img = io.imread(idx)
+    lab = rgb2lab(img[:,:,[0,1,2]])
+    d1 = deltaE_cie76(rgb2lab(np.uint8(np.asarray([243,178,182])) ), lab)
+    d2 = deltaE_cie76(rgb2lab(np.uint8(np.asarray([253,35,36])) ), lab)
+    flt = rgb2gray(img.copy())
+    flt[(d1 < threshold)] = 1; flt[(d1 >= threshold)] = 0
+    flt[(d2 < threshold)] = 1; 
+    flt = flt.astype(bool)
+    flt = binary_closing(flt)
+    seg = felzenszwalb(flt, scale=50, sigma=2, min_size=8000)
+    contours = measure.find_contours(seg, 0.8)
+    res = []
+    for c in contours:
+        for cc in c: res.append([cc[1],cc[0]])
+    res = np.array(res)
+    return res
+
+def conv_pix_geo(pix,mpix,dpix):
+    a=(mpix[0],mpix[1],47.08663463830697, 37.5382073671603) # mariopol
+    b=(dpix[0],dpix[1],48.01772552348221, 37.80499020789566) # donetsk
+
+    dx = (a[3]-b[3])/(a[0]-b[0])
+    dy = (a[2]-b[2])/(a[1]-b[1])
+    res = []
+    for p in pix:
+      x = ((p[0]-b[0])*dx) + b[3]
+      y = ((p[1]-b[1])*dy) + b[2]
+      res.append([np.round(y,4),np.round(x,4)])
+    return res
 
 def fetch_ukr_war_map(dt):
     base = "https://www.understandingwar.org/sites/default/files/DraftUkraineCoT"
@@ -67,18 +118,6 @@ def trump_approval():
     df['net'] = df['approve'] - df['disapprove']
     return df
 
-def isw_scale(pix):
-    a=(402,423,47.08663463830697, 37.5382073671603) # mariopol
-    b=(418,329,48.01772552348221, 37.80499020789566) # donetsk
-
-    dx = (a[3]-b[3])/(a[0]-b[0])
-    dy = (a[2]-b[2])/(a[1]-b[1])
-    res = []
-    for p in pix:
-      x = ((p[0]-b[0])*dx) + b[3]
-      y = ((p[1]-b[1])*dy) + b[2]
-      res.append([np.round(y,4),np.round(x,4)])
-    return res
 
 if __name__ == "__main__": 
 
