@@ -1,291 +1,235 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Cummins unveiled its 15-litre <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> engine at the Alternative Clean Transport (ACT) Expo in Long Beach, California, on Monday (May 9). <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/H2View?src=hash&amp;ref_src=twsrc%5Etfw">#H2View</a> <a href="https://t.co/zveCatHxHd">https://t.co/zveCatHxHd</a></p>&mdash; H2 View (@h2_view) <a href="https://twitter.com/h2_view/status/1524351434271215619?ref_src=twsrc%5Etfw">May 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">ZeroAvia makes major strides in Hydrogen refueling with Shell collaboration and airport pipeline launch.<a href="https://twitter.com/ZeroAvia?ref_src=twsrc%5Etfw">@ZeroAvia</a> <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/H2?src=hash&amp;ref_src=twsrc%5Etfw">#H2</a><a href="https://t.co/NADYvdCAH1">https://t.co/NADYvdCAH1</a></p>&mdash; Hive PR Middle East (@hiveprme) <a href="https://twitter.com/hiveprme/status/1524006850349441025?ref_src=twsrc%5Etfw">May 10, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"[Governor of Connecticut] @GovNedLamont
+
+I took two new @Toyota hydrogen-powered fuel cell vehicles for a spin
+today. They sure have some juice!"
+
+[[-]](https://twitter.com/GovNedLamont/status/1524469546735734784)
 
 ---
 
-H2 Fuel News: "Green hydrogen-fuel plant starts production in
-Spain.. The H2 facility was developed to produce power in cumulative
-phases of 20 MW, 30 MW and 50 MW, until they reach a total of 100 MW
-once the entire plant’s development is completed. It will have an
-annual production capacity as large as 14,400 tons of H2, which will
-be distributed by hydrogen tank truck and by injection into a hydro
-pipeline. When it reaches full production, it is expected to prevent
-over 12,000 tons of carbon dioxide emissions every month"
+H2 View: "The technology produced by US-based Versogen is a new class
+of electrolyser, built with patented anion exchange membrane (AEM)
+technology, is engineered to reduce the costs of producing green
+hydrogen at every stage with the most advanced membranes that offer
+durability, performance and scalability"
 
 ---
 
-H2 View: "The project [in South Africa] will build a massive 210
-metric ton hydrogen truck to be used by the mining industry"
+H2 View: "French hydrogen-powered vehicles manufacturer Hopium, has
+partnered with Bridgestone tyres, to develop bespoke tyres for its
+luxury Machina road car"
 
 ---
 
-H2 View: "[T]he recently announced electrolyser target raise in the EU
-to 17.5GW by 2025, the market for green hydrogen is set to grow
-significantly in the near future"
+H2 View: "LONGi to provide alkaline electrolysers to world’s largest
+green hydrogen project... One year after its inception, LONGi Hydrogen
+has won the Sinopec Green Hydrogen Demonstration Project, to supply
+‘world leading large scale’ alkaline water electrolyser equipment"
 
 ---
 
-H2 View: "Wystrach GmbH (Wystrach), a subsidiary of Hexagon Purus, has
-received a €20m ($21.1m) order for hydrogen storage systems from HPS
-Home Power Solutions (HPS)... [T]he German based HPS will use
-Wystrach’s storage systems in its green hydrogen-based electricity
-storage for homes, apartments, and commercial properties.
-
-HPS’s products produce green hydrogen for properties using surplus
-solar power during the summer using an electrolyser and converts it
-back into electricity over the winter months"
+H2 Fuel News: "Ballard and Wisdom.. .are working to accelerate the use
+of the [H2 fuel-cell] vehicles in Hong Kong"
 
 ---
 
-H2 View: "Hyundai unveils plans to expand hydrogen fuel cell tractors to the US"
+H2EG: "The landmark agreement [btw Shell and ZeroAvia] is expected to
+be Europe’s first with eyes on creating a 100-metre-long hydrogen
+pipeline that will run alongside the ZeroAvia hangar... With this
+development, a suitable hydrogen refuelling infrastructure will be in
+place in order to establish hydrogen technologies at the airport
+leading to further innovation within the aviation industry.
+
+Oliver Bishop, General Manager of Hydrogen at Shell, said, 'Shell
+recognises the aviation sector has unique challenges in
+decarbonization and needs practical and scalable net-zero
+solutions.. We believe ZeroAvia’s technology is a viable option, and
+this agreement will allow us to demonstrate successful provision of
+low-carbon hydrogen supply while supporting development of codes,
+standards, and refuelling protocols for hydrogen-powered aviation.'"
 
 ---
 
-H2 View: "As a clear sign of a strong customer demand for green steel,
-Swedish-based H2 Green Steel announced it has signed contracts for
-over 1.5 million tonnes per year."
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">What’s heavy-duty, runs on hydrogen, and is driving us towards zero-emissions transportation? 🌎 The newest truck collaboration between <a href="https://twitter.com/Cummins?ref_src=twsrc%5Etfw">@Cummins</a> and <a href="https://twitter.com/DaimlerTruckNA?ref_src=twsrc%5Etfw">@DaimlerTruckNA</a>! <a href="https://twitter.com/hashtag/Cummins?src=hash&amp;ref_src=twsrc%5Etfw">#Cummins</a> <a href="https://twitter.com/hashtag/fuelcells?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcells</a> <a href="https://twitter.com/hashtag/heavydutytrucking?src=hash&amp;ref_src=twsrc%5Etfw">#heavydutytrucking</a> <a href="https://t.co/QQR0x7JYFD">https://t.co/QQR0x7JYFD</a></p>&mdash; Cummins Inc. (@Cummins) <a href="https://twitter.com/Cummins/status/1524432662026412035?ref_src=twsrc%5Etfw">May 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-H2 View: "A collaboration between Strohm and Lhyfe is aiming to launch the
-‘first floating wind turbine with an integrated hydrogen production
-system’ worth approximately €60m"
+Aaand here is another port - great. 
+
+H2 View: "Port of Duisburg and Port of Rotterdam to jointly develop
+hydrogen hubs.. A letter of intent (LOI) has been agreed between the
+Port of Rotterdam and the Port of Duisburg with plans to establish
+hydrogen hubs in the surrounding areas of Germany and the Netherlands"
 
 ---
 
-H2 View: "Enertrag to develop 15,000 tonnes green hydrogen production hub in Uruguay"
+Rotterdam is a huge port sure, but still, there could be more, energy
+cld be generated in Spain, Portugal, or imported into them from
+anywhere in the Atlantic or NW Africa..
 
 ---
 
-"@CHEManager_EU
+OK.. If Rotterdam will import 20 million tonnes of hydrogen (per year
+I assume),
 
-@Shell is the first company to sign an agreement to use the
-\#HyTransPort \#hydrogen pipeline in the Netherlands that will run
-from \#Maasvlakte in the @PortOfRotterdam to Pernis"
-
----
-
-"@ZulfiqarAhmed69
-
-[New Zealand] has a plan to get rid of natural gas and replace it with
-hydrogen.  Hydrogen to Replace Gas Pipelines Across New Zealand by
-2050"
-
----
-
-H2 Fuel News: "Bosch to develop water electrolyzer components.. The
-company has announced that it will investing €500 million into the
-technology by 2030"
-
----
-
-H2 View: "Hyundai unveils plans to expand hydrogen fuel cell tractors to the US"
-
----
-
-H2 View: "Hydrogen trucks are the most eco-friendly zero-emission
-vehicle, says ATRI [American Transportation Research Institute]"
-
----
-
-"@TimRuhr
-
-.. At Kemira's Joutseno plant hydrogen is a byproduct of chlorate
-production and they want to sell it to the Ovako steel mill in Imatra.
-@GasgridFinland is onboard to help with the pipelines"
-
----
-
-H2 would need no cleanup.. comes from water goes into water - if
-rarely leaked.
-
-"UN says 'imminent' Yemen oil spill would cost $20 bn to clean up"
-
----
-
-CNBC: "Top OPEC ministers have hit back at new U.S. legislation
-[called 'NOPEC' bill by some] intended to regulate its output"
-
----
-
-Cert as in 'digital certification' from the vendor? That's hilarious.
-
-@internetofshit \#iot 
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Never thought I’d say this: My window blinds won’t open because of an expired cert. 🤦‍♂️</p>&mdash; Joey Piccola (@joeypiccola) <a href="https://twitter.com/joeypiccola/status/1524134464992931840?ref_src=twsrc%5Etfw">May 10, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-Janko Nilovic - Soul Impression \#music
-
-[[-]](https://youtu.be/DgD5AZKMxYk)
-
----
-
-\#socmedia \#bullshitjobs
-
-[[-]](https://youtu.be/mOFBrCqx2r4?t=1594)
-
----
-
-Salaries 
-
-"If socializing entire services is good what else can be socialized?"
-
----
-
-What I am saying is without the open and *free* software, Big Tech
-would not exist at the scale it does now.
-
----
-
-The motivation for the shift to OSS 
-
-[[-]](2013/09/why-open-source.html)
-
----
-
-Start-ups or many estab players mostly dont pay for databases either;
-Bigger players build their own DB software eventually but there is
-Postgresql, and various other choices for all.
-
----
-
-Before Linux, before open-source, commoditization, it would cost a
-fortune to build a server farm.. I used to work in software consulting
-partially during pre-OSS days, the price tag we gave to clients for a
-few commercial machines with commercial OS, and databases would make
-anyone's eyes pop today.
-
----
-
-It makes sense, they spend a pittance to make that money. Big tech's
-top item costs are probably mostly talent and server farms. The
-machines in those farms are nowadays commodity hardware and run a
-variation of open-source software Linux. Cheap and cheap.
-
----
-
-GPM for Facebook is pretty high
 
 ```python
-import yf; yf.get_income('FB')['grossProfitMargin']
+print ('%d Gigawatts' % (33.6*20*1e6*1000/(1e6*365*24)))
 ```
 
 ```text
-Out[1]: 
-endDate
-2021-06-30    81.4321
-2021-09-30    80.1069
-2021-12-31     81.147
-2022-03-31    78.4829
-Name: grossProfitMargin, dtype: object
+76 Gigawatts
 ```
 
----
-
-Wages have been growing around 5% YoY
-
-```
-2021-10-01    4.901961
-2022-01-01    4.982699
-```
+That's pretty good... And that's just one port.
 
 ---
 
-Latest US inflation
+Europe imported 380 million cubic meters per day of gas by pipeline
+from Russia in 2021. Natural gas has 10.55 kWh per cubic meters,
 
-```
-2022-04-01  8.258629
+```python
+print ('%d Gigawatts' % (10.55*380*1e6/(24*1000*1000)))
 ```
 
----
+```text
+167 Gigawatts
+```
 
-That's the other Rajapaksa isn't it. These guys were everywhere.
-
-Al Jazeera: "After PM, Sri Lanka protesters now want president to quit"
-
-----
-
-Al Jazeera: "Sri Lanka gives emergency powers to army, police after
-violence"
+That is f--ing massive amt of energy; 167 nuclear plant worth of
+energy right there. Mind boggling.
 
 ---
 
-WSJ: "Sri Lankan Prime Minister Mahinda Rajapaksa Resigns Amid
-Economic Crisis"
+H2 View: "The Queensland Government has signed a Memorandum of
+Understanding.. with the Port of Rotterdam to jointly develop green
+hydrogen export supply chains... [Minister for Energy] said, 'This
+landmark agreement is another ringing endorsement of Queensland’s
+quest to be a green hydrogen superpower'. The Port of Rotterdam has a
+target to import up to 20 million tonnes of hydrogen by 2050, starting
+with imports of ammonia in 2025"
 
 ---
 
-Davis: "At present, most indicators, fundamentals of war, and current
-battlefield trendlines support the prospect of a Ukrainian defeat...
-
-In mid-April, Russia captured the critical transportation hub of Izyum
-near the northern shoulder of the Donbas lines. Just days ago, after
-nearly a two-month battle, Putin’s troops captured another key city in
-northern Donbas that controls several essential road junctions in
-Popasnaya. Kremlin forces have now pushed deeper into Severdonetsk,
-putting Ukrainian troops at risk at Lysychansk, just to the southwest
-of Severdonetsk...
-
-Whether Putin has enough troops, ammunition, and time to complete the
-destruction of the UAF positions in the Donbas without mobilizing some
-portion of its reserve forces is an open question. What is clear,
-however, is that Russia’s current operations are slowly strangling
-Ukrainian troops in the Donbas and that despite optimistic rhetoric
-out of Kyiv and Western capitals, the battle is trending towards a
-Russian tactical success, possibly within two months...
-
-Militarily speaking, there is very little hope that even all the
-promised support of heavy weapons and ammunition from the West can be
-delivered to the front, the Ukrainian troops adequately trained, and
-firepower brought to bear in time to change the course...
-
-By continuing to seek a military victory in Ukraine, Ukraine’s troops
-will continue fighting, no negotiated settlement will be realistically
-sought, and most likely Russian troops continue making progress. As a
-result, more Ukrainian civilians and troops will continue to be killed
-and wounded, more cities destroyed, and the economic and food crises –
-for both Ukraine and the world – will worsen. The most likely outcome
-will not change (a negotiated settlement, not a Ukrainian military
-victory), but the cost to Kyiv will be much, much worse"
-
-[[-]](https://www.19fortyfive.com/2022/05/russias-slow-and-steady-war-in-the-donbas-means-ukraine-wont-win/)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">data is glorified 0 1 which is glorified +/- (5?)v <a href="https://t.co/N3J48UMpoK">https://t.co/N3J48UMpoK</a></p>&mdash; cosameer^ (@Lavoisierbug) <a href="https://twitter.com/Lavoisierbug/status/1518590072433803264?ref_src=twsrc%5Etfw">April 25, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Lt. Col Daniel Davis
+"@LaurelCoons
 
-\#rising \#ukraine
+🧂Zombify a dead fish by adding #salt"
 
-[[-]](https://youtu.be/fnqpUq2EZmU?t=52)
-
----
-
-Says who? Brits? I'm sure Putin will carefully consider it and file it
-under "I don't give a shit" right next to "I don't give a flying
-fuck".
-
-"The sanctions on Putin circle are permanent whatever the outcome in
-Ukraine"
+[[-]](https://twitter.com/LaurelCoons/status/1102434296667824128)
 
 ---
 
-Arab News: "Marcos has been short on specifics about foreign policy,
-but in interviews he said he wanted to pursue closer ties with China,
-including possibly setting aside a 2016 ruling by a tribunal in The
-Hague that invalidated almost all of China’s historical claims to the
-South China Sea"
+\#mirror @internetofshit
+
+[[-]](https://pbs.twimg.com/media/FSgM48PXoAsSXZA?format=jpg&name=medium)
 
 ---
 
-Al Jazeera: "The [US Department of State] website previously..
-acknowledged there is 'one China' made up of both China and Taiwan. In
-its place, it simply refers to Taiwan as a close ally in Asia"
+TDB: "Gotta Have More Spice, Baby! Christopher Walken Joins the Cast of ‘Dune: Part Two’"
+
+---
+
+Royal Crown Revue - Viva Las Vegas \#music
+
+[[-]](https://youtu.be/l1odLicPEhc)
+
+---
+
+Al Jazeera: "Google to pay over 300 European news publishers for content"
+
+---
+
+Economics and money - [Keen](2022/05/the-new-economics-keen.md)
+
+---
+
+CNBC: "More than $200 billion erased from entire crypto market in a
+day as sell-off intensifies"
+
+---
+
+"@schwarz
+
+If you bought $1000 of a bitcoin ETF when Matt Damon's 'Fortune Favors
+the Brave!' crypto ad premiered on October 28 last year, you would now
+have 554"
+
+---
+
+CNBC: "Controversial stablecoin UST which is meant to be pegged to the dollar
+plummets below 30 cents"
+
+---
+
+Crypto was supposed to be a hedge against inflation (fiat is not
+'sound money').. Now it is crypto that doesn't look too sound.
+
+"Coinbase plunges to new lows as cryptocurrency skepticism spreads"
+
+---
+
+'No free-lunch' is a figure of speech (also a theorem in optimization).
+
+In real-world it holds true.. noone eats for free. Unless *someone
+else pays for it* ;) More socially minded say that other person can be
+gov. The government already pays for many things that pro-business
+folk take for granted (and exist because of it). SValley makes use of
+the presence of great professors whose research is paid by the
+government, roads paved, energy infra created by the government, the
+security provided by the government and the open-source software
+provided by mostly nameless contributers around the world. Well it is
+easy to be 'wild and innovative' a budding entrepreneur in this
+scenario... But they are only the tip of an iceberg, the topping of a
+cake, not the underlying substance itself.
+
+---
+
+Al Monitor: "Egypt considers issuing bonds in China’s yuan"
+
+---
+
+\#firstIslandChain
+
+The map was so good, I had to share it again
+
+[[-]](https://pbs.twimg.com/media/FSiNe_oXMAAGPve?format=jpg&name=large)
+
+---
+
+It's sad the killing of that Al Jazeera Palestenian/American
+journalist. It sounds like they specifically targeted her. I wonder
+why.
+
+---
+
+"@DanielLDavis1
+
+The comprehensive picture of the \#BattleofDonbas is troubling, as RU
+troops continue to squeeze UAF troops in northern shoulder of Donbas
+near Severdonetsk"
+
+---
+
+\#MTG \#proxywar
+
+[[-]](https://pbs.twimg.com/media/FSg9hlsX0AUrpkB?format=jpg&name=large)
+
+---
+
+Voltaire Net: "Pentagon confirms having sent weapons to Ukraine as
+soon as Biden instated"
 
 ---
 
