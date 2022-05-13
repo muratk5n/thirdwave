@@ -105,7 +105,7 @@ print ('%d Gigawatts' % (10.55*380*1e6/(24*1000*1000)))
 ```
 
 That is f--ing massive amt of energy; 167 nuclear plant worth of
-energy right there. Mind boggling.
+energy right there. Dam
 
 ---
 
