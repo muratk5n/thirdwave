@@ -173,8 +173,8 @@ plummets below 30 cents"
 
 ---
 
-Crypto was supposed to be a hedge against inflation (fiat is not
-'sound money').. Now it is crypto that doesn't look too sound.
+Crypto was supposed to be a hedge against inflation bcz fiat is not
+'sound money'?.. Now it is crypto that doesn't look too sound.
 
 "Coinbase plunges to new lows as cryptocurrency skepticism spreads"
 
