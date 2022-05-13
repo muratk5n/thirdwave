@@ -182,8 +182,8 @@ Crypto was supposed to be a hedge against inflation (fiat is not
 
 'No free-lunch' is a figure of speech (also a theorem in optimization).
 
-In real-world it holds true.. noone eats for free, unless someone else
-pays for it. Leftists can say that other person can be gov. The
+In real-world it holds true. Most do not eat for free, but someone
+else pays for it ;) Left can say that other person can be gov. The
 government already pays for many things that pro-business folk take
 for granted (and exist because of it). SValley makes use of the
 presence of great professors whose research is paid by the government,
@@ -191,7 +191,7 @@ roads paved, energy infra created by the government, the security
 provided by the government and the open-source software provided by
 mostly nameless contributers around the world. Well it is easy to be
 'wild and innovative' a budding entrepreneur in this scenario... being
-the topping of the cake.
+the topping of the cake while making use of free.
 
 ---
 
