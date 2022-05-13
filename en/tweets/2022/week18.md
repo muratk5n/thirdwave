@@ -600,7 +600,7 @@ over inside. RU,CH,IN, likely feel more threathened from outsiders
 than eachother.. That nuke share needs to figure into every analysis
 on the region.
 
-[[-]](2017/07/the-next-decade-friedman.md#nuketech)
+[[-]](../../2017/07/the-next-decade-friedman.html#nuketech)
 
 ---
 
