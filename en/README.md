@@ -222,14 +222,24 @@ near Severdonetsk"
 
 ---
 
+Voltaire Net: "Pentagon confirms having sent weapons to Ukraine as
+soon as Biden instated"
+
+---
+
 \#MTG \#proxywar
 
 [[-]](https://pbs.twimg.com/media/FSg9hlsX0AUrpkB?format=jpg&name=large)
 
 ---
 
-Voltaire Net: "Pentagon confirms having sent weapons to Ukraine as
-soon as Biden instated"
+The Independent: "China accuses US of ‘political manipulation’ for
+changing wording about Taiwan on website"
+
+---
+
+WION: "Despite sanctions, Russian ruble is the world's top performing
+currency in 2022"
 
 ---
 
