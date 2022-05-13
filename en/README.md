@@ -188,7 +188,7 @@ Name: grossProfitMargin, dtype: object
 
 ---
 
-Wages have been growing aroung 5% YoY
+Wages have been growing around 5% YoY
 
 ```
 2021-10-01    4.901961
