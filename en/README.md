@@ -182,8 +182,8 @@ Crypto was supposed to be a hedge against inflation (fiat is not
 
 'No free-lunch' is a figure of speech (also a theorem in optimization).
 
-In real-world it holds true.. noone eats for free. Unless *someone
-else pays for it* ;) More socially minded say that other person can be
+In real-world it holds true.. noone eats for free, unless someone else
+pays for it. More socially minded say that other person can be
 gov. The government already pays for many things that pro-business
 folk take for granted (and exist because of it). SValley makes use of
 the presence of great professors whose research is paid by the
@@ -191,8 +191,7 @@ government, roads paved, energy infra created by the government, the
 security provided by the government and the open-source software
 provided by mostly nameless contributers around the world. Well it is
 easy to be 'wild and innovative' a budding entrepreneur in this
-scenario... But they are only the tip of an iceberg, the topping of a
-cake, not the underlying substance itself.
+scenario... being the topping of a cake.
 
 ---
 
@@ -208,9 +207,13 @@ The map was so good, I had to share it again
 
 ---
 
+The Independent: "China accuses US of ‘political manipulation’ for
+changing wording about Taiwan on website"
+
+---
+
 It's sad the killing of that Al Jazeera Palestenian/American
-journalist. It sounds like they specifically targeted her. I wonder
-why.
+journalist. It sounds like they specifically targeted her. 
 
 ---
 
@@ -230,11 +233,6 @@ soon as Biden instated"
 \#MTG \#proxywar
 
 [[-]](https://pbs.twimg.com/media/FSg9hlsX0AUrpkB?format=jpg&name=large)
-
----
-
-The Independent: "China accuses US of ‘political manipulation’ for
-changing wording about Taiwan on website"
 
 ---
 
