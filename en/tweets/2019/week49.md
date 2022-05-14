@@ -615,10 +615,6 @@ from that as well.
 
 ---
 
-Profits are [down](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#cpyoy) -0.8% YoY - [link](https://twitter.com/KeithMcCullough/status/1200394586008489984)
-
----
-
 Stupidest thing I've ever heard... If Brits had US mentality on guns,
 the attacker would be armed with AR-15, he'd not only kill more ppl
 he'd [hold

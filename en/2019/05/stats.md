@@ -446,36 +446,41 @@ plt.savefig('gdp-ism.png')
 
 ![](gdp-ism.png)
 
-<a name="cpyoy"></a>
+<a name="pm"></a>
 
-Profits YoY
+Profit Margins
+
+Divide (1) by (2) as suggested in [4],
+
+(1) Corporate Profits After Tax (without IVA and CCAdj) (CP)
+
+(2) Real Final Sales of Domestic Product (FINSLC1)
+
 
 ```python
 import pandas as pd, datetime
 from pandas_datareader import data
-
+pd.set_option('display.max_columns', None)
 today = datetime.datetime.now()
-start=datetime.datetime(2000, 1, 1)
+start=datetime.datetime(1980, 1, 1)
 end=datetime.datetime(today.year, today.month, today.day)
-cols = ['CPROFIT']
-df = data.DataReader(cols, 'fred', start, end)
-df['cpyoy'] = (df.CPROFIT - df.CPROFIT.shift(4)) / df.CPROFIT.shift(4) * 100.0
+df = data.DataReader(['CP','FINSLC1'], 'fred', start, end)
+df['PM'] = df['CP'] / df['FINSLC1'] * 100.0
+df.PM.plot()
 print (df.tail(4))
-df.cpyoy.plot()
-plt.grid(True)
-plt.savefig('profit.png')
+plt.savefig('profitmargin.png')
 ```
 
 ```text
-             CPROFIT      cpyoy
-DATE                           
-2020-10-01  2427.518   0.930172
-2021-01-01  2551.412  17.605585
-2021-04-01  2819.190  45.122409
-2021-07-01  2916.068  19.734996
+                  CP    FINSLC1         PM
+DATE                                      
+2021-04-01  2690.388  19449.270  13.832848
+2021-07-01  2721.601  19453.436  13.990336
+2021-10-01  2700.326  19524.288  13.830599
+2022-01-01       NaN  19495.526        NaN
 ```
 
-![](profit.png)
+![](profitmargin.png)
 
 ## Finance
 
@@ -1159,3 +1164,4 @@ key in a `.quandl` file in the same directory as this file.
 
 [3] [Mathworks](https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/28080/versions/1/previews/gini.m/index.html)
 
+[4] https://www.philosophicaleconomics.com/2014/03/foreignpm/
