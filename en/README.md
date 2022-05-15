@@ -286,9 +286,9 @@ Politico: "G7 ‘will never recognize’ redrawn borders in Ukraine"
 
 ---
 
-"European Russia is the western and most populated part of Russia,
-which is geographically situated in Europe. European Russia accounts
-for about 75% of Russia's total population"
+Wiki: "European Russia is the western and most populated part of
+Russia, which is geographically situated in Europe. European Russia
+accounts for about 75% of Russia's total population"
 
 [[-]](https://pbs.twimg.com/media/FSx4MANXEAEB3LK?format=jpg&name=small)
 
