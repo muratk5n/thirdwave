@@ -82,7 +82,7 @@ plans to build a pipeline to export hydrogen to Morocco"
 
 ---
 
-I like the picture, H2 molecule with two atoms and the bond.. Cool
+That's the H2 molecule with two atoms and the bond.. Nice
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The <a href="https://twitter.com/hashtag/port?src=hash&amp;ref_src=twsrc%5Etfw">#port</a> of <a href="https://twitter.com/hashtag/Rotterdam?src=hash&amp;ref_src=twsrc%5Etfw">#Rotterdam</a> and the cluster of companies operating here can supply north western Europe with 4.6 million tonnes of <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> annually by 2030, it has been revealed. <a href="https://twitter.com/hashtag/fluidhandling?src=hash&amp;ref_src=twsrc%5Etfw">#fluidhandling</a> <a href="https://twitter.com/hashtag/pipelines?src=hash&amp;ref_src=twsrc%5Etfw">#pipelines</a> <a href="https://twitter.com/hashtag/pumps?src=hash&amp;ref_src=twsrc%5Etfw">#pumps</a> <a href="https://twitter.com/hashtag/Europe?src=hash&amp;ref_src=twsrc%5Etfw">#Europe</a> <a href="https://twitter.com/hashtag/green?src=hash&amp;ref_src=twsrc%5Etfw">#green</a> <a href="https://twitter.com/hashtag/blue?src=hash&amp;ref_src=twsrc%5Etfw">#blue</a><a href="https://t.co/wN4HBQkZEu">https://t.co/wN4HBQkZEu</a> <a href="https://t.co/V5Vf9N4Coz">pic.twitter.com/V5Vf9N4Coz</a></p>&mdash; Fluid Handling International (@FluidHandIntl) <a href="https://twitter.com/FluidHandIntl/status/1525034782010253313?ref_src=twsrc%5Etfw">May 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
