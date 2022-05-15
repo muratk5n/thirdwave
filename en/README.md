@@ -112,7 +112,7 @@ their content are used online"
 ---
 
 Ineqality measure Gini fall continued for 2021 Q4; could also be due
-to ultra-rich becoming less so, and that's a good thing..
+to ultra-rich becoming less ultra-rich, and that's a good thing too..
 
 [[-]](2019/05/stats.html#gini)
 
