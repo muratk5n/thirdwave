@@ -65,8 +65,8 @@ west. It is a vital link in India's national gas grid"
 ---
 
 H2 View: "GAIL (India) Limited has awarded a contract to set up one of
-the ‘largest’ Proton Exchange Membrane (PEM) electrolyser in India, in
-line with the country’s National Hydrogen Mission."
+the largest Proton Exchange Membrane electrolyser in India, in line
+with the country’s National Hydrogen Mission."
 
 ---
 
