@@ -205,7 +205,7 @@ Investor George Noble (Peter Lynch protege):
 
 "There are stocks that are 20/30 times their revenues..  What happens
 when you buy stock 10 times its revenue? Data shows that stock has 55%
-of prob of being **delisted**"
+of probability of being **delisted**"
 
 "This is the biggest everything bubble I've seen in my career"
 
