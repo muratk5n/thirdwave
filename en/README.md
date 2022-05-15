@@ -92,8 +92,11 @@ You're luggage
 
 ---
 
-Let's see how this *Eraser: Reborn* is any good.. But nothing compare
-to the Ahnuld version.
+Nothing can compare to the Ahnuld version
+
+---
+
+Let's see how this *Eraser: Reborn* is any good.. 
 
 ---
 
