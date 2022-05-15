@@ -96,7 +96,7 @@ Nothing can compare to the Ahnuld version
 
 ---
 
-Let's see how this *Eraser: Reborn* is any good.. 
+Let's see if this *Eraser: Reborn* is any good.. 
 
 ---
 
