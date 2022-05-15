@@ -1,244 +1,293 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
----
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Cummins unveiled its 15-litre <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> engine at the Alternative Clean Transport (ACT) Expo in Long Beach, California, on Monday (May 9). <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/H2View?src=hash&amp;ref_src=twsrc%5Etfw">#H2View</a> <a href="https://t.co/zveCatHxHd">https://t.co/zveCatHxHd</a></p>&mdash; H2 View (@h2_view) <a href="https://twitter.com/h2_view/status/1524351434271215619?ref_src=twsrc%5Etfw">May 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-"[Governor of Connecticut] @GovNedLamont
-
-I took two new @Toyota hydrogen-powered fuel cell vehicles for a spin
-today. They sure have some juice!"
-
-[[-]](https://twitter.com/GovNedLamont/status/1524469546735734784)
 
 ---
 
-H2 View: "The technology produced by US-based Versogen is a new class
-of electrolyser, built with patented anion exchange membrane (AEM)
-technology, is engineered to reduce the costs of producing green
-hydrogen at every stage with the most advanced membranes that offer
-durability, performance and scalability"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Paving the way for a seamless and carbon-free experience of mobility.<br>NAMX and <a href="https://twitter.com/hashtag/PININFARINA?src=hash&amp;ref_src=twsrc%5Etfw">#PININFARINA</a> unveil the HUV, a hydrogen-powered SUV partially fueled by removable capsules.<br>Know more: <a href="https://t.co/n0LlbwVVzP">https://t.co/n0LlbwVVzP</a> <a href="https://t.co/VPEe3KdNv2">pic.twitter.com/VPEe3KdNv2</a></p>&mdash; Pininfarina (@PininfarinaSpA) <a href="https://twitter.com/PininfarinaSpA/status/1524440172095578113?ref_src=twsrc%5Etfw">May 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-H2 View: "French hydrogen-powered vehicles manufacturer Hopium, has
-partnered with Bridgestone tyres, to develop bespoke tyres for its
-luxury Machina road car"
+The study confirms the optimal transport capability of H2; we can
+project that scenario to onshore-onshore as well.. Producing green
+fuel in North Africa pipelining it into Europe, or within the states
+of US. See [Wires vs Pipes](2019/03/wirespipes.html).
+
+Aquaventus: "In all three dimensions examined, offshore electrolysis
+with pipeline connection emerges as the best approach: According to
+the study, a pipeline for hydrogen generated offshore can be realized
+up to five and a half years faster than submarine cable connections
+for offshore electricity.. In addition, the investment would require
+up to 6 billion euros less, reducing the production costs for green
+hydrogen. From a permitting perspective and with a focus on
+environmental protection, 610 kilometres of pipeline versus 3720
+kilometres of high-voltage lines as well as the location of
+electrolysis on the high seas also mean significant advantages in
+terms of environmental impact"
+
+[[-]](https://aquaventus.org/en/press-releases/study-illustrates-clear-advantages-of-hydrogen-production-at-sea/)
 
 ---
 
-H2 View: "LONGi to provide alkaline electrolysers to world’s largest
-green hydrogen project... One year after its inception, LONGi Hydrogen
-has won the Sinopec Green Hydrogen Demonstration Project, to supply
-‘world leading large scale’ alkaline water electrolyser equipment"
+H2 Fuel News: "Siemens Mobility and Deutsche Bahn (DB) have unveiled
+their latest hydrogen train, called the Mireo Plus H... This Siemens
+news also included the unveiling of a new H2 storage tank trailer by
+DB to accommodate mobile refueling. The components the companies have
+unveiled are designed for the H2goesRail hydrogen train project"
 
 ---
 
-H2 Fuel News: "Ballard and Wisdom.. .are working to accelerate the use
-of the [H2 fuel-cell] vehicles in Hong Kong"
+H2 View: "Fortescue Future Industries (FFI) announced today (May 13),
+that it will evaluate the feasibility of converting a former coal mine
+into a green hydrogen production facility in Lewis County, Washington,
+US."
 
 ---
 
-H2EG: "The landmark agreement [btw Shell and ZeroAvia] is expected to
-be Europe’s first with eyes on creating a 100-metre-long hydrogen
-pipeline that will run alongside the ZeroAvia hangar... With this
-development, a suitable hydrogen refuelling infrastructure will be in
-place in order to establish hydrogen technologies at the airport
-leading to further innovation within the aviation industry.
-
-Oliver Bishop, General Manager of Hydrogen at Shell, said, 'Shell
-recognises the aviation sector has unique challenges in
-decarbonization and needs practical and scalable net-zero
-solutions.. We believe ZeroAvia’s technology is a viable option, and
-this agreement will allow us to demonstrate successful provision of
-low-carbon hydrogen supply while supporting development of codes,
-standards, and refuelling protocols for hydrogen-powered aviation.'"
+H2 View: "NEOM Green Hydrogen Company’s (NGHC) board announced the
+appointment of David Edmondson as Chief Executive Officer of the
+company... Nadhmi Al-Nasr, CEO at NEOM and Chairman of NEOM Green
+Hydrogen Company, said, 'The appointment of David Edmondson as NGHC’s
+CEO is a natural follow-up to our recent agreement to build the
+world’s largest green hydrogen plant, which will produce 1.2 million
+tonnes of hydrogen per year'"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">What’s heavy-duty, runs on hydrogen, and is driving us towards zero-emissions transportation? 🌎 The newest truck collaboration between <a href="https://twitter.com/Cummins?ref_src=twsrc%5Etfw">@Cummins</a> and <a href="https://twitter.com/DaimlerTruckNA?ref_src=twsrc%5Etfw">@DaimlerTruckNA</a>! <a href="https://twitter.com/hashtag/Cummins?src=hash&amp;ref_src=twsrc%5Etfw">#Cummins</a> <a href="https://twitter.com/hashtag/fuelcells?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcells</a> <a href="https://twitter.com/hashtag/heavydutytrucking?src=hash&amp;ref_src=twsrc%5Etfw">#heavydutytrucking</a> <a href="https://t.co/QQR0x7JYFD">https://t.co/QQR0x7JYFD</a></p>&mdash; Cummins Inc. (@Cummins) <a href="https://twitter.com/Cummins/status/1524432662026412035?ref_src=twsrc%5Etfw">May 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+The Economic Times: "[PIL] Ltd has signed a pact with state-owned GAIL
+for jointly developing a hydrogen-based ecosystem in India... GAIL is
+India's largest gas transporting and marketing company. It owns about
+two-thirds of truck pipelines... PIL owns and operates a 48-inch
+diameter, 1,480 km long Kakinada to Bharuch gas pipeline that connects
+major domestic supply hubs on the east to key demand centers in the
+west. It is a vital link in India's national gas grid"
 
 ---
 
-Aaand here is another port - great. 
-
-H2 View: "Port of Duisburg and Port of Rotterdam to jointly develop
-hydrogen hubs.. A letter of intent (LOI) has been agreed between the
-Port of Rotterdam and the Port of Duisburg with plans to establish
-hydrogen hubs in the surrounding areas of Germany and the Netherlands"
+H2 View: "GAIL (India) Limited has awarded a contract to set up one of
+the ‘largest’ Proton Exchange Membrane (PEM) electrolyser in India, in
+line with the country’s National Hydrogen Mission."
 
 ---
 
-Rotterdam is a huge port sure, but still, there could be more, energy
-cld be generated in Spain, Portugal, or imported into them from
-anywhere in the Atlantic or NW Africa..
+Recharge: "'Green hydrogen imports will be cheaper than locally
+produced H2 in Europe from 2024': [non-profit RMI] study"
 
 ---
 
-OK.. If Rotterdam will import 20 million tonnes of hydrogen (per year
-I assume),
+"@MoroccoWNews
 
-
-```python
-print ('%d Gigawatts' % (33.6*20*1e6*1000/(1e6*365*24)))
-```
-
-```text
-76 Gigawatts
-```
-
-That's pretty good... And that's just one port.
+CEO of Spanish energy company Cepsa Maarten Wetselaar has announced
+plans to build a pipeline to export hydrogen to Morocco"
 
 ---
 
-Europe imported 380 million cubic meters per day of gas by pipeline
-from Russia in 2021. Natural gas has 10.55 kWh per cubic meters,
+I like the picture, H2 molecule with two atoms and the bond.. Cool
 
-```python
-print ('%d Gigawatts' % (10.55*380*1e6/(24*1000*1000)))
-```
-
-```text
-167 Gigawatts
-```
-
-That is f--ing massive amt of energy; 167 nuclear plant worth right
-there. Dam
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The <a href="https://twitter.com/hashtag/port?src=hash&amp;ref_src=twsrc%5Etfw">#port</a> of <a href="https://twitter.com/hashtag/Rotterdam?src=hash&amp;ref_src=twsrc%5Etfw">#Rotterdam</a> and the cluster of companies operating here can supply north western Europe with 4.6 million tonnes of <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> annually by 2030, it has been revealed. <a href="https://twitter.com/hashtag/fluidhandling?src=hash&amp;ref_src=twsrc%5Etfw">#fluidhandling</a> <a href="https://twitter.com/hashtag/pipelines?src=hash&amp;ref_src=twsrc%5Etfw">#pipelines</a> <a href="https://twitter.com/hashtag/pumps?src=hash&amp;ref_src=twsrc%5Etfw">#pumps</a> <a href="https://twitter.com/hashtag/Europe?src=hash&amp;ref_src=twsrc%5Etfw">#Europe</a> <a href="https://twitter.com/hashtag/green?src=hash&amp;ref_src=twsrc%5Etfw">#green</a> <a href="https://twitter.com/hashtag/blue?src=hash&amp;ref_src=twsrc%5Etfw">#blue</a><a href="https://t.co/wN4HBQkZEu">https://t.co/wN4HBQkZEu</a> <a href="https://t.co/V5Vf9N4Coz">pic.twitter.com/V5Vf9N4Coz</a></p>&mdash; Fluid Handling International (@FluidHandIntl) <a href="https://twitter.com/FluidHandIntl/status/1525034782010253313?ref_src=twsrc%5Etfw">May 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-H2 View: "The Queensland Government has signed a Memorandum of
-Understanding.. with the Port of Rotterdam to jointly develop green
-hydrogen export supply chains... [Minister for Energy] said, 'This
-landmark agreement is another ringing endorsement of Queensland’s
-quest to be a green hydrogen superpower'. The Port of Rotterdam has a
-target to import up to 20 million tonnes of hydrogen by 2050, starting
-with imports of ammonia in 2025"
+You're luggage
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">data is glorified 0 1 which is glorified +/- (5?)v <a href="https://t.co/N3J48UMpoK">https://t.co/N3J48UMpoK</a></p>&mdash; cosameer^ (@Lavoisierbug) <a href="https://twitter.com/Lavoisierbug/status/1518590072433803264?ref_src=twsrc%5Etfw">April 25, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Let's see how this *Eraser: Reborn* is any good.. But nothing compare
+to the Ahnuld version.
 
 ---
 
-"@LaurelCoons
-
-🧂Zombify a dead fish by adding #salt"
-
-[[-]](https://twitter.com/LaurelCoons/status/1102434296667824128)
-
----
-
-\#mirror @internetofshit
-
-[[-]](https://pbs.twimg.com/media/FSgM48PXoAsSXZA?format=jpg&name=medium)
+Google: "[Our company will license] content from news publishers under
+the EU Copyright Directive.. [W]e have been negotiating with news
+publishers to license content under the European Copyright Directive,
+which EU countries are in the process of implementing into national
+law... The Directive allows search engines like Google to freely link
+to, and use 'very short extracts' of press publishers' content. The
+law also creates new rights for publishers when longer previews of
+their content are used online"
 
 ---
 
-TDB: "Gotta Have More Spice, Baby! Christopher Walken Joins the Cast of ‘Dune: Part Two’"
+Ineqality measure Gini fall continued for 2021 Q4; could also be due
+to ultra-rich becoming less so, and that's a good thing..
+
+[[-]](2019/05/stats.html#gini)
 
 ---
 
-Royal Crown Revue - Viva Las Vegas \#music
+Reshare
 
-[[-]](https://youtu.be/l1odLicPEhc)
-
----
-
-Al Jazeera: "Google to pay over 300 European news publishers for content"
+<img width="200" src="tweets/2022/matrix-transform-joke.png"/>
 
 ---
 
-Economics and money - [Keen](2022/05/the-new-economics-keen.md)
+WION: "1995 UFO sighting in US was actually of celestial bodies, claim
+astronomers"
 
 ---
 
-CNBC: "More than $200 billion erased from entire crypto market in a
-day as sell-off intensifies"
+People use crypto in retirement plans? 
+
+"@Zachary
+
+AARP says it is a 'horrible mistake' to use crypto in retirement
+plans. 'The last week to 10 days or so proved that point for us.'"
 
 ---
 
-"@schwarz
+\#crypto \#mcdonalds
 
-If you bought $1000 of a bitcoin ETF when Matt Damon's 'Fortune Favors
-the Brave!' crypto ad premiered on October 28 last year, you would now
-have 554"
+[[-]](https://pbs.twimg.com/media/FSoZFGTWAAMjXF_?format=jpg&name=small)
 
 ---
 
-CNBC: "Controversial stablecoin UST which is meant to be pegged to the dollar
-plummets below 30 cents"
+Bloomberg: "Novogratz, who has championed TerraUSD, saw his fortune
+nosedive to $2.5 billion, from 8.5 billion in early November."
 
 ---
 
-Crypto was supposed to be a hedge against inflation bcz fiat is not
-'sound money'?.. Now it is crypto that doesn't look too sound.
+"@iamtrask
 
-"Coinbase plunges to new lows as cryptocurrency skepticism spreads"
+It just occurred to me - if you zoom out enough - working from home is
+the norm - not the exception.
 
----
+For a bajillion years people worked in the local vicinity of where
+they lived. Farming, hunting, and caring for their house and home.
 
-'No free-lunch' is a figure of speech (also a theorem in optimization).
-
-In real-world it holds true. Most do not eat for free, but someone
-else can pay for it ;) Left can say that other person can be gov. The
-government already pays for many things that pro-business folk take
-for granted (and exist because of it). SValley makes use of the
-presence of great professors whose research is paid by the government,
-roads paved, energy infra created by the government, the security
-provided by the government and the open-source software provided by
-mostly nameless contributers around the world. Well it is easy to be
-'wild and innovative' a budding entrepreneur in this
-scenario... providing the topping of the cake while making use of
-free. We need free.
+Going to an office to work is weird"
 
 ---
 
-Al Monitor: "Egypt considers issuing bonds in China’s yuan"
+"1/3 or 1/4 of workers are now permamently remote working. That
+changes consumption patterns. People consume more stuff. Work pattern
+change is underestimated". \#JimBianco
+
+[[-]](https://www.pewresearch.org/social-trends/2022/02/16/covid-19-pandemic-continues-to-reshape-work-in-america/)
 
 ---
 
-\#firstIslandChain
-
-The map was so good, I had to share it again
-
-[[-]](https://pbs.twimg.com/media/FSiNe_oXMAAGPve?format=jpg&name=large)
-
----
-
-The Independent: "China accuses US of ‘political manipulation’ for
-changing wording about Taiwan on website"
-
----
-
-It's sad the killing of that Al Jazeera Palestenian/American
-journalist. It sounds like they specifically targeted her. 
+"40% of the American public has less than a thousand dollars of savings
+and they rent. Those people are seeing a huge reverse wealth effect
+because.. they don't own a home they don't have a stock
+portfolio. Because of the inflationary spurt through 2021 their
+paycheck bought less and less they had a huge reverse wealth effect. I
+think now FED policy is now oriented towards those 40 percent they
+need to get inflation down.. Now we've got the politicians demanding
+that they raise rates and raise rates aggressively to deal with
+inflation because that 40 percent is behind" \#JimBianco
 
 ---
 
-"@DanielLDavis1
-
-The comprehensive picture of the \#BattleofDonbas is troubling, as RU
-troops continue to squeeze UAF troops in northern shoulder of Donbas
-near Severdonetsk"
+"'Tightening financial conditions' is euphemism for lower stock
+prices. But FED thinks rate hikes will not cause unemployment but rain
+in prices" \#JimBianco 
 
 ---
 
-Voltaire Net: "Pentagon confirms having sent weapons to Ukraine as
-soon as Biden instated"
+Huge number. To decrease that, decrease house prices, for that, rates
+need to rise - which they are now. By 2024 changes will take effect.
+
+"Tenant and owners' equivalent rent comprise 40% of core CPI"
 
 ---
 
-\#MTG \#proxywar
+Noble says to look at historical chart of profit margins (income
+divided by revenue). Checked, yes there was an uptrend, especially
+after 2000.
 
-[[-]](https://pbs.twimg.com/media/FSg9hlsX0AUrpkB?format=jpg&name=large)
+[[-]](2019/05/stats.html#pm)
 
 ---
 
-WION: "Despite sanctions, Russian ruble is the world's top performing
-currency in 2022"
+Investor George Noble (Peter Lynch protege):
+
+"There are stocks that are 20/30 times their revenues..  What happens
+when you buy stock 10 times its revenue? Data shows that stock has 55%
+of prob of being **delisted**"
+
+"This is the biggest everything bubble I've seen in my career"
+
+"The only way to kill inflation is to have a recession.. [T]his idea
+that somehow we're going to have a soft landing.. like a nice airplane
+coming in.. Not going to happen. Look throughout history it never
+works that way. We file that one away under the heading of
+'stockbroker economics'"
+
+"Cathie Wood blew billions of people's money. We've seen this movie
+before. There is nothing new under the Sun. 1999-2000 their names were
+Wagoner, Kevin Landis, Ryan Jacob, .. same old same old"
+
+"David Portnoy was schooling Warren Buffett [when everything was going
+up]. Remember [what] he would do, he had a bunch of dice or whatever
+in one of his cups and he shook it up and depending on the letters
+that came out that would be the stock that he was buying, and it was
+going up. I mean, I wanted to shoot myself... Did DP discover the
+secret of investing? No"
+
+---
+
+"@TheRealHoarse
+
+Infant formula is a near monopoly. It is an oligopoly. Two main
+producers. They serve a captive market without real alternatives...
+
+People have no idea how many industries have consolidated down to only
+a few very large players. The results are anti-competitive. The infant
+formula shortage isn’t the crisis. The crisis is the country’s willful
+failure to regulate capitalism. A formula shortage because of one
+hiccup at one producer is just a symptom.
+
+---
+
+Voltaire Net: "The appointment of Michael Ratney as new US ambassador
+to Saudi Arabia has been read by Riyadh as proof of Washington's
+disinterest in the Saudi monarchy"
+
+---
+
+Arab News: "India has banned wheat exports that the world was counting
+on to alleviate supply disruptions sparked by the war in Ukraine,
+saying that its own food security is threatened by a sudden spike in
+global prices of the grain"
+
+---
+
+Davis: "In the modern era of warfare, there are a few key factors that
+almost always result in victory for the side that best employs
+them. In this war, Russia has advantages over the Ukraine armed in
+important categories that will be hard for the UAF to overcome. First
+is a clear Russian command of the skies. Yes, as many have pointed
+out, Russia was unable to completely knock out the Ukrainian air
+defenses, but they have badly degraded them such that Russia is
+routinely able to fly between 200 to 300 sorties per day.
+
+About a month ago, there was much notoriety that Ukraine had gained
+the use of 20 fighter jets owing to supply parts provided by the
+West. Yet there has been no apparent increase in the number of
+Ukrainian jets attacking Russian positions beyond the five to 10 per
+day reported earlier in the war. The reason is clear: Russian air
+defense capabilities remain fully in tact and employ modern S-400
+systems that makes any attempt to fly by Ukrainian pilots a likely
+death sentence. Ukrainian air defenses still exist, but were badly
+degraded at the start of the war, and continue to be knocked out by
+Russian attacks. These realities underscore how hard it would be for
+Ukraine to reverse the momentum in the Donbas"
+
+[[-]](https://www.19fortyfive.com/2022/05/war-in-ukraine-reality-check-combat-fundamentals-still-favor-russia-in-donbas/)
+
+---
+
+Half-admitting I guess border redrawing will happen
+
+Politico: "G7 ‘will never recognize’ redrawn borders in Ukraine"
+
+---
+
+"European Russia is the western and most populated part of Russia,
+which is geographically situated in Europe. European Russia accounts
+for about 75% of Russia's total population"
+
+[[-]](https://pbs.twimg.com/media/FSx4MANXEAEB3LK?format=jpg&name=small)
 
 ---
 
