@@ -120,7 +120,7 @@ to ultra-rich becoming less so, and that's a good thing..
 
 Reshare
 
-<img width="200" src="tweets/2022/matrix-transform-joke.png"/>
+<img width="350" src="tweets/2022/matrix-transform-joke.png"/>
 
 ---
 
