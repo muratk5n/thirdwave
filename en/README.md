@@ -182,8 +182,8 @@ inflation because that 40 percent is behind" \#JimBianco
 ---
 
 "'Tightening financial conditions' is euphemism for lower stock
-prices. But FED thinks rate hikes will not cause unemployment but rain
-in prices" \#JimBianco 
+prices. FED thinks rate hikes will not cause unemployment but rain in
+prices" \#JimBianco
 
 ---
 
