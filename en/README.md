@@ -215,9 +215,9 @@ coming in.. Not going to happen. Look throughout history it never
 works that way. We file that one away under the heading of
 'stockbroker economics'"
 
-"Cathie Wood blew billions of people's money. We've seen this movie
-before. There is nothing new under the Sun. 1999-2000 their names were
-Wagoner, Kevin Landis, Ryan Jacob, .. same old same old"
+"Cathie Wood blew away billions of people's money. We've seen this
+movie before. There is nothing new under the Sun. 1999-2000 their
+names were Wagoner, Kevin Landis, Ryan Jacob, .. same old same old"
 
 "David Portnoy was schooling Warren Buffett [when everything was going
 up]. Remember [what] he would do, he had a bunch of dice or whatever
