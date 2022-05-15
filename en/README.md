@@ -37,10 +37,9 @@ unveiled are designed for the H2goesRail hydrogen train project"
 
 ---
 
-H2 View: "Fortescue Future Industries (FFI) announced today (May 13),
-that it will evaluate the feasibility of converting a former coal mine
-into a green hydrogen production facility in Lewis County, Washington,
-US."
+H2 View: "Fortescue Future Industries (FFI) announced that it will
+evaluate the feasibility of converting a former coal mine into a green
+hydrogen production facility in Lewis County, Washington, US."
 
 ---
 
