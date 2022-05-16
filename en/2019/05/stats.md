@@ -859,7 +859,7 @@ Name: Adj Close, dtype: float64
 
 <a name="eunatgas"></a>
 
-EI Natural Gas Price
+EU Natural Gas Price
 
 Price is from Dutch TTF contract which is considered as the benchmark
 price for natural gas in Europe. Unit is 1 MW of energy, priced in
