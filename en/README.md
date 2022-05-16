@@ -160,7 +160,7 @@ Going to an office to work is weird"
 
 ---
 
-"1/3 or 1/4 of workers are now permamently remote working. That
+"1/3 or 1/4 of workers are now permanently remote working. That
 changes consumption patterns. People consume more stuff. Work pattern
 change is underestimated". \#JimBianco
 
