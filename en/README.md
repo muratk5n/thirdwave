@@ -114,7 +114,7 @@ WION: "‘No option’: Poor workers struggle amid India’s brutal heatwave"
 
 ---
 
-Who would I vote for to serve in that commmitee? Michael Hudson, Steve
+Who would I vote for to serve in that commitee? Michael Hudson, Steve
 Keen, Richard Werner..
 
 ---
