@@ -100,7 +100,7 @@ represent RETURN FREE RISK
 ---
 
 Train in Peru offers *oxygen* on board because it goes so high in
-altitude and some might need it at that elevation. That's a trip
+altitude and some might need it. That's a trip
 
 ---
 
