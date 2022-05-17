@@ -35,8 +35,8 @@ ultimately, from fossil fuels"
 
 ---
 
-Energy content, capacity is reported in kilowatt-hour or gigawatt-hour
-- that is the amoung of energy. Gigawatt (wout the hour) is a rate, a
+Energy content, capacity is reported in kilowatt-hour or gigawatt-hour - that
+is the amoung of energy. Gigawatt (wout the hour) is a rate, a
 flow of sorts; I lift a ton of water up, it has potential energy (kwh,
 gwh). Poke a hole, water will flow out, which has power, it can turn a
 wheel, do work. Water can have 2 KWh of (potential) energy, if I poked
