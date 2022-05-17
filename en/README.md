@@ -81,7 +81,7 @@ time; Expectations subverted.
 
 Actually maybe the writing wasn't fantasticaly great, it just wasn't
 insanely stupid, had a natural flow, things made sense, which nowadays
-comes across pure genius.
+comes across as pure genius.
 
 ---
 
