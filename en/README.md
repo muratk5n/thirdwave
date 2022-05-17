@@ -99,6 +99,12 @@ represent RETURN FREE RISK
 
 ---
 
+Bobby Hughes Experience - Sahara 72 \#music
+
+[[-]](https://youtu.be/UAA9NC-Ie-E)
+
+---
+
 Train in Peru offers *oxygen* on board because it goes so high in
 altitude and some might need it. That's a trip
 
@@ -139,6 +145,12 @@ Russian demands and keep the gas flowing"
 
 ---
 
+Western MSM news cycle has tired of the RU-UKR war already.. 'Ew not
+fun anymore'.. Maybe that will push them to start telling 'both sides'
+to negotitate.
+
+---
+
 Lookit - best buddies already
 
 WION: "As India’s wheat export ban causes ripples in global markets,
@@ -158,12 +170,6 @@ Brussels, Washington and other NATO capitals'"
 
 Al Jazeera: "[After Finland] Sweden announces NATO bid, ending its
 historic neutrality"
-
----
-
-Bobby Hughes Experience - Sahara 72 \#music
-
-[[-]](https://youtu.be/UAA9NC-Ie-E)
 
 ---
 
