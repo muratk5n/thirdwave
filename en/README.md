@@ -172,7 +172,7 @@ Top Belarus exports: refined petroleum, fertilizers, food items,
 trucks, tractors
 
 WION: "Belarusian PM Roman Golovchenko says Western sanctions are
-blocking exports worth more
+blocking exports worth more than $16 billion"
 
 ---
 
