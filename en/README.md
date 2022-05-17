@@ -146,9 +146,9 @@ Russian demands and keep the gas flowing"
 
 ---
 
-Western MSM news cycle has tired of the RU-UKR war already.. 'Ew not
-fun anymore'.. Maybe that will push them to start telling 'both sides'
-to negotitate.
+Western MSM news cycle has tired of the RU-UKR war.. 'Ew not fun
+anymore'.. Maybe that will push them to start telling 'both sides' to
+negotitate.
 
 ---
 
