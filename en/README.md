@@ -60,7 +60,7 @@ int(1700*13*1e6/(24*1000*1000))
 Out[1]: 920
 ```
 
-920 GW, nearly 1 **Terrawatt** of energy output. It is insane.
+920 GW, nearly 1 *terrawatt* of energy output. It is insane.
 
 ---
 
