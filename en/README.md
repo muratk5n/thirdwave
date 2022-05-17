@@ -69,9 +69,9 @@ Out[1]: 920
 
 ---
 
-Trying to remember the last movie w Chris Walken.. has to be *Last Man
-Standing* along Bruce Willis. BW enters the town, leaves the town -
-everyone is dead.
+Trying to remember the last movie I saw w Chris Walken.. has to be
+*Last Man Standing* along Bruce Willis. BW enters the town, leaves the
+town - everyone is dead.
 
 ---
 
