@@ -36,7 +36,7 @@ ultimately, from fossil fuels"
 ---
 
 Energy content, capacity is reported in kilowatt-hour or
-gigawatt-hour; that is the amount of energy. Gigawatt (wout the hour)
+gigawatt-hour; this is the amount of energy. Gigawatt (wout the hour)
 is a rate, a flow of sorts; I lift a tons of water up, it has
 potential stored energy (kwh, gwh). Poke a hole, water will flow out,
 which has power in kw or gw, flow can turn a wheel, do work. Water can
