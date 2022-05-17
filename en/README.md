@@ -108,6 +108,11 @@ WION: "‘No option’: Poor workers struggle amid India’s brutal heatwave"
 
 ---
 
+Who would I vote for to serve in that commmitee? Michael Hudson, Steve
+Keen, Richard Werner..
+
+---
+
 How much new money? Decided by crypto-reps. That commitee would be
 deciding an upper bound for the inflation essentially, since price
 rises by definition could not exceed that amount. Too many money
