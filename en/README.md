@@ -44,9 +44,9 @@ have 2 KWh of (potential) energy, if I poked a hole for 1 kilowatt
 worth, water runs out in two hours.
 
 That's how conversion is done; if I have a fuel amount in a certain
-time, eg barrel per day as below, I calculate GWh from that, divide by
-24, I get the power. It's easier to compare when all output is brought
-down to unit time level. 
+time, eg in barrels per day as below, I calculate GWh from that,
+divide by 24, I get the power. It's easier to compare when all output
+is brought down to unit time level.
 
 ---
 
