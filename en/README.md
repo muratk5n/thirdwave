@@ -35,6 +35,20 @@ ultimately, from fossil fuels"
 
 ---
 
+Energy content, capacity is reported in kilowatt-hour or gigawatt-hour
+- that is the amoung of energy. Gigawatt (wout the hour) is a rate, a
+flow of sorts; I lift a ton of water up, it has potential energy (kwh,
+gwh). Poke a hole, water will flow out, which has power, it can turn a
+wheel, do work. Water can have 2 KWh of (potential) energy, if I poked
+a hole for 1 kilowatt worth, water runs out in two hours.
+
+That's how conversion is done; if I have a fuel amount in a certain
+time, eg barrel per day as below, I calculate GWh from that, divide by
+24, I get the power. It's easier to compare when all output is brought
+down to unit time level. 
+
+---
+
 1 barrel of crude oil carries approximately 1700 kwh of energy. An
 output of 13 million barrels of oil per day translates into,
 
