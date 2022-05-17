@@ -68,26 +68,6 @@ Out[1]: 920
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
 Trying to remember the last movie w Chris Walken.. has to be *Last Man
 Standing* along Bruce Willis. BW enters the town, leaves the town -
 everyone is dead.
@@ -161,6 +141,10 @@ Chinese media backs move"
 
 ---
 
+Russian-Finnish border is 830 mile-long. That is a long-ass border.
+
+---
+
 WION: "Russia's warning on NATO Nordic expansion: 'They should have no
 illusions that we will simply put up with it - and nor should
 Brussels, Washington and other NATO capitals'"
@@ -175,10 +159,6 @@ historic neutrality"
 Bobby Hughes Experience - Sahara 72 \#music
 
 [[-]](https://youtu.be/UAA9NC-Ie-E)
-
----
-
-Russian-Finnish border is 830 mile-long. That is a long-ass border.
 
 ---
 
