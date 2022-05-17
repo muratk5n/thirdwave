@@ -89,7 +89,7 @@ comes across pure genius.
 
 ---
 
-Aha, RFR instead of risk free return.. good one
+Return-free risk instead of risk-free return.. good one
 
 @gnoble79
 
