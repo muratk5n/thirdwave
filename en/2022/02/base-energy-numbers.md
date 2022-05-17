@@ -46,6 +46,8 @@ Gasoline has a density of 32 MJ/L.
 
 Natural gas has 10.55 kWh per cubic meters
 
+! barrel of crude oil carries approximately 1700 kwh of energy.
+
 As standard the 1 barrel (119 liter) of crude oil produce approximately
 159 liters of gasoline / petrol.
 
