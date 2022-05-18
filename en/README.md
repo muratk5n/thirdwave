@@ -149,11 +149,11 @@ strategic interest"
 ---
 
 Recently US seems to prefer creating chaos to balance this or that
-force in foreign lands; being aware of not being able to perform
-global cop duties. It is the worst of both worlds, 'meddly US and
+force in foreign lands; due to (some) political restrictions around
+acting as global cop. It is the worst of both worlds, 'meddly US and
 chaos'. Jihadi m-f-kers trained and sent to Syria that later blow shit
 up in Africa. Help Saddam, so he attacks Iran, then he attacks Kuwait,
-shit - now he is bad, kill Saddam. 
+shit - now he is bad, kill Saddam.
 
 The Spectator World: "‘America or chaos’ is a false choice.. There is
 an age-old dogma in the US foreign policy establishment: when America
