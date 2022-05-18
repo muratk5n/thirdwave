@@ -2,189 +2,175 @@
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Siemens Mobility presented the new Mireo Plus H <a href="https://t.co/jBbdPQePvi">https://t.co/jBbdPQePvi</a></p>&mdash; Railway-Business (@AfroRailBus) <a href="https://twitter.com/AfroRailBus/status/1525221232446160901?ref_src=twsrc%5Etfw">May 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+H2 Fuel News: "LONGi Hydrogen, a startup that is only a year old, has
+won the largest green hydrogen project in the world for the supply of
+renewable H2 at scale...
+
+The Sinopec Green Hydrogen Demonstration Project will require the
+company to supply ALK electrolysis equipment at the largest scale in
+the world...
+
+The total investment into this China energy deal will be as high as
+$442,021,500 (RMB 3 billion) for the construction of a new 300 MW
+photovoltaic power plant as well as an electrolytic water hydrogen
+production plant for the generation of 618 million kWh of renewable
+electricity and 20,000 tons of renewable H2 per year"
 
 ---
 
-H2 View: "HH2E raises funds to support hydrogen pipeline in Germany worth €500m"
+H2 View: "Europe’s first cross-border hydrogen networks to be
+developed across Belgium and the Netherlands"
 
 ---
 
-H2 View: "GenCell partners with RedHawk Energy to deliver hydrogen
-fuel cell backup power for US markets"
+H2 View: "Mobile hydrogen fuelling unit could see prices as low as
+€1/kg.. Danish company, Everfuel launched its mobile hydrogen
+refuelling unit, the ‘Everfiller’, today (May 18), which could see
+hydrogen as cheap as €1 ($1.05) per kilogram"
 
 ---
 
-H2 View: "Pennsylvania Governor, Tom Wolf announced that he intends to
-streamline the decarbonisation of the industrial sector in the state
-[through H2]"
+H2 Fuel News: "Raven SR expands waste-to-hydrogen technology into
+Australia with partnership"
 
 ---
 
-H2 can be turned into food! Can fuel machines, can fuel people!
-
-NovoNutrients: "[Our] fermentation platform is powered by patent
-pending microbes and proprietary bioreactors. The organisms transform
-emissions, along with hydrogen and oxygen, into complete, safe,
-natural single cell protein (SCP). This first harvest is then dried
-and refined to the desired concentration of protein... The result? A
-new pillar of the food system, decoupled from agriculture and,
-ultimately, from fossil fuels"
-
-[[-]](https://www.novonutrients.com/)
+H2 View: "Thyssenkrupp expands to Australia to supply its gigawatt-scale
+hydrogen production technology"
 
 ---
 
-Energy content, capacity is reported in kilowatt-hour or
-gigawatt-hour; this is the amount of energy. Gigawatt (wout the hour)
-is a rate, a flow of sorts; I lift a tons of water up, it has
-potential stored energy (kwh, gwh). Poke a hole, water will flow out,
-which has power in kw or gw, flow can turn a wheel, do work. Water can
-have 2 KWh of (potential) energy, if I poked a hole for 1 kilowatt
-worth, water runs out in two hours.
-
-If there is fuel amount produced in a certain time period, eg x
-barrels per day as below, I calculate GWh from that, divide by 24, I
-get the power. It's easier to compare when all output is brought down
-to unit time level.
+H2 View: "Air Liquide, CaetonaBus and Toyota Motor Europe have joined forces
+with the aim of developing ‘integrated hydrogen solutions’, to
+accelerate the expansion of hydrogen mobility in Europe"
 
 ---
 
-1 barrel of crude oil carries approximately 1700 kwh of energy. An
-output of 13 million barrels of oil per day translates into,
-
-```python
-int(1700*13*1e6/(24*1000*1000))
-```
-
-```text
-Out[1]: 920
-```
-
-920 GW, nearly 1 *terrawatt* of energy output. 
+H2 View: "Plans ramp up to turn Saskatchewan, Canada, into a hydrogen hub"
 
 ---
 
-"Saudi expects 13 million bpd oil capacity by 2027"
+H2 View: "DNV [has] plans to evaluate blending hydrogen in [Czech
+Republic] natural gas pipeline. Working in conjunction with NET4GAS,
+DNV will evaluate the hydrogen suitability of an existing DN 1400
+pressure natural gas transmission pipeline and related stations"
 
 ---
 
-Trying to remember the last movie I saw w Chris Walken.. has to be
-*Last Man Standing* along Bruce Willis. BW enters the town, leaves the
-town - everyone is dead.
+H2 View: "Plastic Omnium revealed that it has established a
+partnership with Hyliko, a mobility company that specialises in
+integrating hydrogen storage systems into heavy-vehicle
+fleets... [T]he partners are also planning to develop new hydrogen
+storage systems together, which will increase truck ranges by nearly
+60% to over 750km (403 miles)"
 
 ---
 
-They did have a crocodile.. But he was one of the 'good guys' this
-time; Expectations subverted.
+H2 Fuel News: "Automotive and energy company, First Hydrogen, have
+announced that its first hydrogen-powered light commercial vehicles
+(LCV) is set to begin operational testing next month"
 
 ---
 
-Actually maybe the writing wasn't fantasticaly great, it just wasn't
-insanely stupid, had a natural flow, things made sense, which nowadays
-comes across as pure genius.
+There are products for fruit leather - Saw one by Mixmey in Asia Minor
+once. It is advertised as 100% fruit, I'm sure it's true, bcz prod is
+incredibly easy to make, doesn't take much processing nor additives.
 
 ---
 
-*Eraser: Reborn* was a good movie. Good writing, well directed, well acted.
+Simply dehydrating blended fruit gives 'fruit leather'. 6-12 hrs at 60
+degrees. Done. Portable fruit, it wont go bad for a long time.
+
+[[-]](https://pbs.twimg.com/media/FS8hD1OXwAIDZTq?format=jpg&name=small)
 
 ---
 
-Return-free risk instead of risk-free return.. good one
-
-@gnoble79
-
-.. I remain very bearish. Yes there will be counter trend bear market
-rallies but stocks will ultimately go MUCH lower. Equities continue to
-represent RETURN FREE RISK
+CNBC: "Investors withdraw over $7 billion from tether, raising fresh
+fears about stablecoin's backing"
 
 ---
 
-Bobby Hughes Experience - Sahara 72 \#music
+"@BW
 
-[[-]](https://youtu.be/UAA9NC-Ie-E)
-
----
-
-Train in Peru offers *oxygen* on board because it goes so high in
-altitude and some might need it. That's a trip
+Tech’s high-flying startup scene gets a crushing reality check. Job
+cuts and a sour investment climate are hitting big companies like
+Stripe and Instacart, and may slam smaller ones as damage spreads"
 
 ---
 
-WION: "‘No option’: Poor workers struggle amid India’s brutal heatwave"
+Econ structure is a bizarrely convoluted mess. Credit is given to
+companies who use it to pay salaries to people. To increase salaries
+you have increase credit. But there is no assurance that credit will
+go to salaries, it can end up in the stock market. If money does go to
+salaries, in excess, this can cause inflation which decreases the
+benefit of that increase 🤦‍♂️ Also too much wage increase can hurt
+company bottom line, then biz has to cut costs, fire people - now you
+have no salary.
 
 ---
 
-Who would I vote for to serve in that commitee? Michael Hudson, Steve
-Keen, Richard Werner..
+There is nothing special about creating a "bidness". No need to label
+these ppl as lyncpins of society. Too much pressure, plus, they r not
+able to carry such heavy social function. 
 
 ---
 
-How much new money? Decided by crypto-reps. That commitee would be
-deciding an upper bound for the inflation essentially, since price
-rises by definition could not exceed that amount. Too many money
-hoarders? Up new money creation to 50%, inflate away their shit, then
-come back to 2%.
+Currently new money is given as credit to business, who in turn give
+(some) of that money to people as employees. Money reaches regular
+people through employment. That creates too much dependency on biz,
+also gives them too much power.
+
+The direction of money flow needs to turn upside down; people get the
+money first, and *maybe*, businesses get credit down the line. Growth
+should not be the primary goal, nor full employment. Right now both of
+these issues command an overriding attention because, well, people's
+livelihood depend on them.
 
 ---
 
-An improved crypto would print money as UBI each month, grow the
-money base and new money can be lent as credit to businesses, through
-crypto-reps chosen by people annually. Currently new money enters econ
-through credit to businesses. New money needs to go to people first.
+Defense Priorities: "U.S. military bases and logistics hubs in and
+near the Middle East are the primary examples—they make foolish wars
+too easy to start. Maintaining the ability to use rapid military force
+in the region has become an end unto itself, unmoored from any clear
+vital strategic interest"
+
+[[-]](https://www.defensepriorities.org/explainers/bases-logistics-and-the-problem-of-temptation-in-the-middle-east)
 
 ---
 
-CNBC: "Europe drops mask mandate for flights and airports, loosening
-Covid rules further"
+Actually recently US seems to prefer creating chaos to balance this or
+that force in foreign lands; being aware of not being able to perform
+global cop duties. It is the worst of both worlds, 'meddly US and
+chaos'. Jihadi m-f-kers trained and sent to Syria that later blow shit
+up in Africa. Help Saddam, so he attacks Iran, then he attacks Kuwait,
+shit now he is bad, kill Saddam.
+
+The Spectator World: "‘America or chaos’ is a false choice.. There is
+an age-old dogma in the US foreign policy establishment: when America
+pulls back, chaos ensues. Like an anti-inflammatory that keeps
+arthritis under control, Washington’s presence in this or that region
+keeps enemies cowed, partners reassured, and the barbarians at the
+gates"
 
 ---
 
-Al Jazeera: "EU gives companies green light to buy gas from
-Russia.. European companies are starting to move ahead to comply with
-Russian demands and keep the gas flowing"
+"@VALERIEinNYT
+
+After weeks of trying to hammer out a peace deal, negotiators for
+Russia + Ukraine appear further apart than at any other point in
+nearly 3 mos of war"
 
 ---
 
-Western MSM news cycle has tired of the RU-UKR war.. 'Ew not fun
-anymore'.. Maybe that will push them to start telling 'both sides' to
-negotitate.
+Politico: "We’re not all Ukrainians now.. Insisting that the United
+States and its NATO allies should want exactly what Ukraine does is
+understandable politics — but it’s also dangerous policy.. Such
+insistence not only risks dragging us potentially into a nuclear war,
+it also risks giving Ukraine false hope and delaying a settlement. And
+our natural sympathy for Ukraine shouldn’t be confused for fully
+aligned interests"
 
----
-
-Lookit - best buddies already
-
-WION: "As India’s wheat export ban causes ripples in global markets,
-Chinese media backs move"
-
----
-
-Russian-Finnish border is 830 mile-long. That is a long-ass border.
-
----
-
-WION: "Russia's warning on NATO Nordic expansion: 'They should have no
-illusions that we will simply put up with it - and nor should
-Brussels, Washington and other NATO capitals'"
-
----
-
-Al Jazeera: "[After Finland] Sweden announces NATO bid, ending its
-historic neutrality"
-
----
-
-If you factor in the 'Latvian Blend' I bet the share is still at %35
-
-"EU imports of Russian oil already dropped to 12% from pre-war 35%"
-
----
-
-Top Belarus exports: refined petroleum, fertilizers, food items,
-trucks, tractors
-
-WION: "Belarusian PM Roman Golovchenko says Western sanctions are
-blocking exports worth more than $16 billion"
+[[-]](https://www.politico.eu/article/ukraine-russia-war-nato-eu-us-alliance-solidarity/)
 
 ---
 
