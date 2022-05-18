@@ -133,10 +133,10 @@ able to carry such heavy social function.
 
 ---
 
-Currently new money is given as credit to business, who in turn give
-(some) of that money to people as employees. Money reaches regular
-people through employment. That creates too much dependency on biz,
-also gives them too much power.
+Money system: new money is given as credit to business, who in turn
+give (some) of that money to people as employees. Money reaches
+regular people through employment. That creates too much dependency on
+biz, also gives them too much power.
 
 The direction of money flow needs to turn upside down; people get the
 money first, and *maybe*, businesses get credit down the line. Growth
