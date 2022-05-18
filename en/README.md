@@ -128,8 +128,8 @@ have no salary.
 ---
 
 There is nothing special about creating a "bidness". No need to label
-these ppl as lyncpins of society. Too much pressure, plus, they r not
-able to carry such heavy social function. 
+these ppl as linchpins of society. Too much pressure, plus, they r not
+able to carry such heavy social function.
 
 ---
 
