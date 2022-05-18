@@ -90,9 +90,9 @@ announced that its first hydrogen-powered light commercial vehicles
 
 ---
 
-Mixmey in Asia Minor has prods for 'fruite leather'. It is advertised
-as 100% fruit, I'm sure it's true, bcz prod is incredibly easy to
-make, doesn't take much processing nor additives.
+Mixmey in Asia Minor has prods for this fruit leather. It is
+advertised as 100% fruit, I'm sure it's true, bcz prod is incredibly
+easy to make, doesn't take much processing nor additives.
 
 ---
 
