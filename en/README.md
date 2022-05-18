@@ -2,6 +2,10 @@
 
 ---
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Global Energy Ventures has reached a key milestone the development of its GH2 <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> carrier with the design package 70% complete and set for delivery in June 2022. <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/H2View?src=hash&amp;ref_src=twsrc%5Etfw">#H2View</a> <a href="https://t.co/re2lo5gKai">https://t.co/re2lo5gKai</a></p>&mdash; H2 View (@h2_view) <a href="https://twitter.com/h2_view/status/1526883830967181314?ref_src=twsrc%5Etfw">May 18, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 H2 Fuel News: "LONGi Hydrogen, a startup that is only a year old, has
 won the largest green hydrogen project in the world for the supply of
 renewable H2 at scale...
