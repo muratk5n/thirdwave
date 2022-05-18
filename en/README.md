@@ -116,10 +116,10 @@ Stripe and Instacart, and may slam smaller ones as damage spreads"
 
 ---
 
-Econ structure is a bizarrely convoluted mess. Credit is given to
-companies who use it to pay salaries to people. To increase salaries
-you have increase credit. But there is no assurance that credit will
-go to salaries, it can end up in the stock market. If money does go to
+Econ structure is a convoluted mess. Credit is given to companies who
+use it to pay salaries to people. To increase salaries you have
+increase credit. But there is no assurance that credit will go to
+salaries, it can end up in the stock market. If money does go to
 salaries, in excess, this can cause inflation which decreases the
 benefit of that increase 🤦‍♂️ Also too much wage increase can hurt
 company bottom line, then biz has to cut costs, fire people - now you
