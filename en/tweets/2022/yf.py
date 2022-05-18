@@ -1,10 +1,10 @@
 '''
 Scrapes Yahoo Finance and gets the information listed below.
 '''
+from yahoo_fin.stock_info import get_income_statement, get_earnings_history, get_quote_table
 from bs4 import BeautifulSoup
 from bs4.element import Comment
-import re, requests
-from yahoo_fin.stock_info import get_income_statement
+import re, requests, pandas as pd
 
 headers = { 'User-Agent': 'UCWEB/2.0 (compatible; Googlebot/2.1; +google.com/bot.html)'}
 
@@ -106,19 +106,26 @@ def get_income(ticker):
     df = df / 1e6
     df['grossProfitMargin'] = df.grossProfit / df.totalRevenue * 100.0
     return (df)
+
+def get_earnings(ticker):
+    res =  get_earnings_history(ticker)
+    df = pd.DataFrame.from_dict(res)
+    return df
+
+def fetch_quote_table(ticker):
+    res = get_quote_table(ticker)
+    return res
     
 def get_disp(ticker, atts):
     q = get_financials(ticker)
     print (ticker, [(a + ': ' + str(q[a])) for a in atts])
 
-def test1():    
+if __name__ == "__main__": 
+    
     res = get_financials("AMZN")
     print (res)
     atts = ["Revenue  (ttm)", "Capital Expenditure"] 
     q = get_disp("SHOP", atts)
 
-def test2():    
     res = get_income("DIS")
     
-if __name__ == "__main__": 
-    test2()
