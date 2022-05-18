@@ -18,6 +18,20 @@ electricity and 20,000 tons of renewable H2 per year"
 
 ---
 
+CNBC: "Toyota Motor Europe, CaetanoBus and Air Liquide have signed an
+agreement related to the development of hydrogen-based transport
+options, as the race to develop low and zero-emission vehicles heats
+up"
+
+---
+
+H2 View: "Rystad Energy anticipate green hydrogen boom in
+Egypt.. According to a Rystad Energy report, the Egyptian Government
+is set to release a $40bn national hydrogen plan in the coming months,
+to attract foreign investment"
+
+---
+
 H2 View: "Europe’s first cross-border hydrogen networks to be
 developed across Belgium and the Netherlands"
 
