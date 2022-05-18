@@ -8,11 +8,9 @@
 
 H2 Fuel News: "LONGi Hydrogen, a startup that is only a year old, has
 won the largest green hydrogen project in the world for the supply of
-renewable H2 at scale...
-
-The Sinopec Green Hydrogen Demonstration Project will require the
-company to supply ALK electrolysis equipment at the largest scale in
-the world...
+renewable H2 at scale... The Sinopec Green Hydrogen Demonstration
+Project will require the company to supply ALK electrolysis equipment
+at the largest scale in the world...
 
 The total investment into this China energy deal will be as high as
 $442,021,500 (RMB 3 billion) for the construction of a new 300 MW
