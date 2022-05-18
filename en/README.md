@@ -156,8 +156,8 @@ vital strategic interest"
 
 ---
 
-Actually recently US seems to prefer creating chaos to balance this or
-that force in foreign lands; being aware of not being able to perform
+Recently US seems to prefer creating chaos to balance this or that
+force in foreign lands; being aware of not being able to perform
 global cop duties. It is the worst of both worlds, 'meddly US and
 chaos'. Jihadi m-f-kers trained and sent to Syria that later blow shit
 up in Africa. Help Saddam, so he attacks Iran, then he attacks Kuwait,
