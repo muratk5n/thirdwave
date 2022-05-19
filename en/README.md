@@ -2,185 +2,199 @@
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Global Energy Ventures has reached a key milestone the development of its GH2 <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> carrier with the design package 70% complete and set for delivery in June 2022. <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/H2View?src=hash&amp;ref_src=twsrc%5Etfw">#H2View</a> <a href="https://t.co/re2lo5gKai">https://t.co/re2lo5gKai</a></p>&mdash; H2 View (@h2_view) <a href="https://twitter.com/h2_view/status/1526883830967181314?ref_src=twsrc%5Etfw">May 18, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Cummins partners with Freightliner on hydrogen fuel-cell truck.. The
+Freightliner Cascadia chassis will be equipped with fourth generation
+equipment from Cummins... [The companies] have announced that they
+will be working together on a new hydrogen fuel-cell truck that is
+intended for the North American market.
 
 ---
 
-H2 Fuel News: "LONGi Hydrogen, a startup that is only a year old, has
-won the largest green hydrogen project in the world for the supply of
-renewable H2 at scale... The Sinopec Green Hydrogen Demonstration
-Project will require the company to supply ALK electrolysis equipment
-at the largest scale in the world...
-
-The total investment into this China energy deal will be as high as
-$442,021,500 (RMB 3 billion) for the construction of a new 300 MW
-photovoltaic power plant as well as an electrolytic water hydrogen
-production plant for the generation of 618 million kWh of renewable
-electricity and 20,000 tons of renewable H2 per year"
+H2 View: "The much anticipated, REPowerEU Plan has been presented by
+the European Commission, and has set a target of 10 million tonnes of
+domestic renewable hydrogen by 2030"
 
 ---
 
-CNBC: "Toyota Motor Europe, CaetanoBus and Air Liquide have signed an
-agreement related to the development of hydrogen-based transport
-options, as the race to develop low and zero-emission vehicles heats
-up"
+I collect a lot of base numbers [here](2022/02/base-energy-numbers.html)
 
 ---
 
-H2 View: "Rystad Energy anticipate green hydrogen boom in
-Egypt.. According to a Rystad Energy report, the Egyptian Government
-is set to release a $40bn national hydrogen plan in the coming months,
-to attract foreign investment"
+Provaris Energy is a BUY
 
 ---
 
-H2 View: "Europe’s first cross-border hydrogen networks to be
-developed across Belgium and the Netherlands"
+It is great Europe is creating the demand upfront, that can spur
+companies to get their tech in order; Provaris CEO attended an H2 conf
+and says the demand from them is clear, EU wants tons of this
+stuff. Where there is demand, there will be supply.. so they are
+building the tech for it. THis will create a snowball effect; seeing
+supply, products will arrive to use it, which will create more
+demand. Snowball. Only policy could kick that off, bidness could not
+do it on its own.
+
 
 ---
 
-H2 View: "Mobile hydrogen fuelling unit could see prices as low as
-€1/kg.. Danish company, Everfuel launched its mobile hydrogen
-refuelling unit, the ‘Everfiller’, today (May 18), which could see
-hydrogen as cheap as €1 ($1.05) per kilogram"
+Previous ship used low energy. The GH2 ship uses compression. The AU
+company building it is called Provaris Energy. Presentation on the
+tech and planned infra below. First ship is 26,000 m3 another planned
+120,000 m3, compressed H2 at 250 bar can carry 700 kwh/m3 which means
+one trip will carry 84.0 Gigawatt-hours, that is mid-size crude oil
+tanker equivalent. Very good.
+
+[PDF](https://assets.website-files.com/626b0112d67346fa8eab974d/6280ef3d5ce3f07d709f43a7_Provaris%20-%20Corporate%20Deck%20-%2016%20May%202022%20ASX.pdf)
 
 ---
 
-H2 Fuel News: "Raven SR expands waste-to-hydrogen technology into
-Australia with partnership"
+H2 View: "Offshore green hydrogen production unit unveiled.. Technip
+Energies and its affiliates, Kanfa and Inocean announced the launch of
+its suite of offshore green hydrogen production solutions, GO.H2 TM by
+T.EN"
 
 ---
 
-H2 View: "Thyssenkrupp expands to Australia to supply its gigawatt-scale
-hydrogen production technology"
+H2 View: "A new ship that will collect ocean plastic and produce
+hydrogen to be designed.. H2 Industries and naval architecture
+company, TECHNOLOG Services have revealed a partnership to design a
+ship that will collect plastic waste and convert it into hydrogen"
 
 ---
 
-H2 View: "Air Liquide, CaetonaBus and Toyota Motor Europe have joined forces
-with the aim of developing ‘integrated hydrogen solutions’, to
-accelerate the expansion of hydrogen mobility in Europe"
+This means LH2 storage does not require extra energy..? That's smart.
+
+"Suiso Frontier (hydrogen tanker) is a custom-built vessel with
+double-shell vacuum insulation that enables liquid hydrogen to be
+transported without any coolant"
+
+[[-]](https://www.nature.com/articles/d42473-020-00544-8)
 
 ---
 
-H2 View: "Plans ramp up to turn Saskatchewan, Canada, into a hydrogen hub"
+Can work backwards from capacity to output. LNG replacement? Get ship
+capacity, number of trips, or simply an annual export amount giving a
+Gwh, now work backwards from there, divide by 365, then 24 - once we
+have calc down to Watt-hour within an hour, we can drop the hour, get
+Wattage.
 
 ---
 
-H2 View: "DNV [has] plans to evaluate blending hydrogen in [Czech
-Republic] natural gas pipeline. Working in conjunction with NET4GAS,
-DNV will evaluate the hydrogen suitability of an existing DN 1400
-pressure natural gas transmission pipeline and related stations"
+Converting energy numbers to a Wattage (kilo,giga) as in power input /
+output helps to gauge how much of a power need can be met by existing
+sources, and compare sources with eachother, no matter how long that
+power would be needed (which takes us into Watt-hour, storage capacity
+territory). A TV pulls in 60 Watts, an oven 1500 W. Russian NG export
+to Europe is 167 Gigawatts (a lot of TVs can run on that
+energy). Typical nuclear plant output is 1 GW, Fukushima (the one that
+had the meltdown) was 5 GW. We see it will take 33 Fukushima's to
+replace Russian exports to Europe. Now in terms of environment policy
+that is probably a non-starter. 
 
 ---
 
-H2 View: "Plastic Omnium revealed that it has established a
-partnership with Hyliko, a mobility company that specialises in
-integrating hydrogen storage systems into heavy-vehicle
-fleets... [T]he partners are also planning to develop new hydrogen
-storage systems together, which will increase truck ranges by nearly
-60% to over 750km (403 miles)"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
-H2 Fuel News: "Automotive and energy company, First Hydrogen, have
-announced that its first hydrogen-powered light commercial vehicles
-(LCV) is set to begin operational testing next month"
+"@christo92787346
+
+I can't wait for Raytheon baby formula with laser targeted nutrition"
 
 ---
 
-Simply dehydrating blended fruit gives 'fruit leather'. 6-12 hrs at 60
-degrees. Done. Portable fruit, it wont go bad for a long time.
-
-[[-]](https://pbs.twimg.com/media/FS8hD1OXwAIDZTq?format=jpg&name=small)
+AP: "Biden invokes Defense Production Act to boost baby formula
+production, authorizes flights to bring imports from overseas"
 
 ---
 
-CNBC: "Investors withdraw over $7 billion from tether, raising fresh
-fears about stablecoin's backing"
+If there is an `import` for a library, utility code and cannot find
+it as a package, its `.py` file will be under that year's archive.
+For example `yf.py`  is under `en/tweets/2022` folder. 
 
 ---
 
-"@BW
-
-Tech’s high-flying startup scene gets a crushing reality check. Job
-cuts and a sour investment climate are hitting big companies like
-Stripe and Instacart, and may slam smaller ones as damage spreads"
-
----
-
-Econ structure is a convoluted mess. Credit is given to companies who
-use it to pay salaries to people. To increase salaries you have
-increase credit. But there is no assurance that credit will go to
-salaries, it can end up in the stock market. If money does go to
-salaries, in excess, this can cause inflation which decreases the
-benefit of that increase 🤦‍♂️ Also too much wage increase can hurt
-company bottom line, then biz has to cut costs, fire people - now you
-have no salary.
+If people's buying patterns truly changed, and -per that great WSJ
+supply chain docu- there is about a year's worth of journey behind
+every product even though the last-mile delivery of the product looks
+instantenous, then changes on demand could manifest itself as supply
+chain problems. Then there was covid itself effecting the production.
 
 ---
 
-There is nothing special about creating a "bidness". No need to label
-these ppl as linchpins of society. Too much pressure, plus, they r not
-able to carry such heavy social function.
+Saw Target CEO on CNBC, the main complaint was basically 'supply chain
+supply chain supply chain'
 
 ---
 
-Money system: new money is given as credit to business, who in turn
-give (some) of that money to people as employees. Money reaches
-regular people through employment. That creates too much dependency on
-biz, also gives them too much power.
+Their stocks were hammered. 
 
-The direction of money flow needs to turn upside down; people get the
-money first, and *maybe*, businesses get credit down the line. Growth
-should not be the primary goal, nor full employment. Right now both of
-these issues command an overriding attention because, well, people's
-livelihood depend on them.
+```python
+import yf
+fig, axes = plt.subplots(2, 1, figsize=(6, 4), sharey=True)
+df = yf.get_stock_price('WMT')
+df.plot(ax=axes[0],legend=False,sharex = True,title='WMT')
+df = yf.get_stock_price('TGT')
+df.plot(ax=axes[1],legend=False,title='TGT')
+```
 
----
-
-Defense Priorities: "U.S. military bases and logistics hubs in and
-near the Middle East.. make foolish wars too easy to
-start. Maintaining the ability to use rapid military force in the
-region has become an end unto itself, unmoored from any clear vital
-strategic interest"
-
-[[-]](https://www.defensepriorities.org/explainers/bases-logistics-and-the-problem-of-temptation-in-the-middle-east)
+<img width="340" src="https://pbs.twimg.com/media/FTGwlY6XEAIbG03?format=png&name=small"/>
 
 ---
 
-Recently US seems to prefer creating chaos to balance this or that
-force in foreign lands; due to (some) political restrictions around
-acting as global cop. It is the worst of both worlds, 'meddly US and
-chaos'. Jihadi m-f-kers trained and sent to Syria that later blow shit
-up in Africa. Help Saddam, so he attacks Iran, then he attacks Kuwait,
-shit - now he is bad, kill Saddam.
+Doh!
 
-The Spectator World: "‘America or chaos’ is a false choice.. There is
-an age-old dogma in the US foreign policy establishment: when America
-pulls back, chaos ensues. Like an anti-inflammatory that keeps
-arthritis under control, Washington’s presence in this or that region
-keeps enemies cowed, partners reassured, and the barbarians at the
-gates"
+```python
+import yf;yf.get_earnings("WMT").head(4)[['startdatetime','epsestimate','epsactual']]
+```
 
----
+```text
+Out[1]: 
+              startdatetime  epsestimate  epsactual
+0  2023-02-21T07:00:00.000Z          NaN        NaN
+1  2022-11-15T07:00:00.000Z          NaN        NaN
+2  2022-08-16T07:00:00.000Z         1.88        NaN
+3  2022-05-17T07:02:00.000Z         1.48        1.3
+```
 
-"@VALERIEinNYT
-
-After weeks of trying to hammer out a peace deal, negotiators for
-Russia + Ukraine appear further apart than at any other point in
-nearly 3 mos of war"
+1.3 vs 1.48 for Walmart.
 
 ---
 
-Politico: "We’re not all Ukrainians now.. Insisting that the United
-States and its NATO allies should want exactly what Ukraine does is
-understandable politics — but it’s also dangerous policy.. Such
-insistence not only risks dragging us potentially into a nuclear war,
-it also risks giving Ukraine false hope and delaying a settlement. And
-our natural sympathy for Ukraine shouldn’t be confused for fully
-aligned interests"
+Both Target and Walmart had a miss on earnings estimates. 
 
-[[-]](https://www.politico.eu/article/ukraine-russia-war-nato-eu-us-alliance-solidarity/)
+---
+
+He admitted it \#Iraq \#W \#empire
+
+[[-]](https://twitter.com/sahilkapur/status/1527092111195226114)
+
+---
+
+They haven't shrunk enough.. need to shrink some more. Still meddly
+meddly, messing stuff up all over the place. Get off Asia Minor's ass
+for one
+
+"The incredible shrinking Global Britain.. Funding cuts and staffing
+turmoil at the Foreign Office are scaling back the UK’s international
+ambition"
+
+---
+
+CNBC: "India is not alone. In addition to Russia and Ukraine, Egypt,
+Kazakhstan, Kosovo and Serbia have also banned wheat exports"
 
 ---
 

@@ -2,6 +2,9 @@
 Scrapes Yahoo Finance and gets the information listed below.
 '''
 from yahoo_fin.stock_info import get_income_statement, get_earnings_history, get_quote_table
+import pandas as pd, datetime, time as timelib
+import urllib.request as urllib2, io
+from io import BytesIO
 from bs4 import BeautifulSoup
 from bs4.element import Comment
 import re, requests, pandas as pd
@@ -34,7 +37,6 @@ labels_ks = ['Market Cap \(intraday\)','Enterprise Value','Trailing P/E',
              'Short % of Shares Outstanding \(... \d\d, \d\d\d\d\)','Forward Annual Dividend Rate',
              'Forward Annual Dividend Yield','Trailing Annual Dividend Rate','Trailing Annual Dividend Yield',
              'Year Average Dividend Yield','Payout Ratio','Last Split Factor']
-
 
 def tag_visible(element):
     if element.parent.name in ['style', 'script', 'head', 'title', 'meta', '[document]']:
@@ -112,13 +114,25 @@ def get_earnings(ticker):
     df = pd.DataFrame.from_dict(res)
     return df
 
-def fetch_quote_table(ticker):
-    res = get_quote_table(ticker)
-    return res
-    
 def get_disp(ticker, atts):
     q = get_financials(ticker)
     print (ticker, [(a + ': ' + str(q[a])) for a in atts])
+
+def fetch_quote_table(ticker):
+    res = get_quote_table(ticker)
+    return res
+
+def get_stock_price(ticker):
+    end = datetime.datetime.now()
+    start=end-datetime.timedelta(days=90)
+    start = int(timelib.mktime(start.timetuple()))
+    end = int(timelib.mktime(end.timetuple()))
+    url = "https://query1.finance.yahoo.com/v7/finance/download/"+ticker+"?period1=" + str(start) + "&period2=" + str(end) + "&interval=1d&events=history&includeAdjustedClose=true"
+    r = urllib2.urlopen(url).read()
+    file = BytesIO(r)
+    df = pd.read_csv(file,index_col='Date',parse_dates=True)
+    return df[['Close']]
+    
 
 if __name__ == "__main__": 
     
