@@ -31,7 +31,7 @@ policy could kick that off, bidness could not do it on its own.
 
 ---
 
-Previous ship used low energy. The GH2 ship uses compression. The AU
+Suiso ship used low temperature. The GH2 ship uses compression. The AU
 company building it is called Provaris Energy. Presentation on the
 tech and planned infra below. First ship is 26,000 m3 another planned
 120,000 m3, compressed H2 at 250 bar can carry 700 kwh/m3 which means
