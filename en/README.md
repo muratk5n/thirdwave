@@ -2,6 +2,10 @@
 
 ---
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It’s <a href="https://twitter.com/hashtag/WorldBookDay?src=hash&amp;ref_src=twsrc%5Etfw">#WorldBookDay</a>, so I’m going to take a moment to highlight my fav <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> book 📖 If you haven’t already, you should check out <a href="https://twitter.com/malvera1?ref_src=twsrc%5Etfw">@malvera1</a>’s “The Hydrogen Revolution.” It’s a fav amongst the <a href="https://twitter.com/HystarH2?ref_src=twsrc%5Etfw">@HystarH2</a> team, too! <a href="https://t.co/zzBwkopctO">pic.twitter.com/zzBwkopctO</a></p>&mdash; Leila A. Danielsen (@lasdal) <a href="https://twitter.com/lasdal/status/1517920683443081218?ref_src=twsrc%5Etfw">April 23, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 Cummins partners with Freightliner on hydrogen fuel-cell truck.. The
 Freightliner Cascadia chassis will be equipped with fourth generation
 equipment from Cummins... [The companies] have announced that they
