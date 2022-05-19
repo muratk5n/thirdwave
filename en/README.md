@@ -20,7 +20,7 @@ domestic renewable hydrogen by 2030"
 
 ---
 
-I collect a lot of base numbers [here](2022/02/base-energy-numbers.html)
+Some base data is maintained [here](2022/02/base-energy-numbers.html)
 
 ---
 
