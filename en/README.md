@@ -36,11 +36,11 @@ policy could kick that off, bidness could not do it on its own.
 ---
 
 Suiso ship used low temperature. The GH2 ship uses compression. The AU
-company building it is called Provaris Energy. Presentation on the
-tech and planned infra below. First ship is 26,000 m3 another planned
-120,000 m3, compressed H2 at 250 bar can carry 700 kwh/m3 which means
-one trip will carry 84.0 Gigawatt-hours, that is mid-size crude oil
-tanker equivalent. Very good.
+company that built it is Provaris Energy. Presentation on the tech and
+planned infra below. First ship is 26,000 m3 another planned 120,000
+m3, compressed H2 at 250 bar can carry 700 kwh/m3 which means one trip
+will carry 84.0 Gigawatt-hours, that is mid-size crude oil tanker
+equivalent. Very good.
 
 [PDF](https://assets.website-files.com/626b0112d67346fa8eab974d/6280ef3d5ce3f07d709f43a7_Provaris%20-%20Corporate%20Deck%20-%2016%20May%202022%20ASX.pdf)
 
