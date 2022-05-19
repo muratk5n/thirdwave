@@ -20,10 +20,6 @@ domestic renewable hydrogen by 2030"
 
 ---
 
-Some base data is maintained [here](2022/02/base-energy-numbers.html)
-
----
-
 It is great Europe is creating the demand upfront, that can spur
 companies to get their tech in order; Provaris CEO attended an H2 conf
 and says the demand from EU is there, they want tons of this
