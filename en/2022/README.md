@@ -28,3 +28,7 @@
 
 [Sun Mass and Density](04/sun-estimate.html)
 
+[The New Economics](05/the-new-economics-keen.html)
+
+[The H2 Revolution](06/the-h2-revolution-almeda.html)
+
