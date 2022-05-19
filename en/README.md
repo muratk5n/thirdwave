@@ -113,7 +113,7 @@ If people's buying patterns truly changed, and -per WSJ supply chain
 docu- there is about a year's worth of journey behind every product
 even though the last-mile delivery of the product looks instantenous,
 then changes on demand could manifest itself as supply chain
-problems. Then covid also effected the production itself.
+problems. And covid also effected the production itself.
 
 ---
 
