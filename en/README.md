@@ -115,9 +115,10 @@ production, authorizes flights to bring imports from overseas"
 
 ---
 
-If there is an `import` for a library, utility code and cannot find
-it as a package, its `.py` file will be under that year's archive.
-For example `yf.py`  is under `en/tweets/2022` folder. 
+How to get the code references here? If there is an `import` for a
+library, but it is not an official Python lib, its `.py` file will be
+under that year's archive.  For example `yf.py` is under
+`en/tweets/2022` folder.
 
 ---
 
