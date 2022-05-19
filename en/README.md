@@ -178,9 +178,8 @@ He admitted it \#Iraq \#W \#empire
 
 ---
 
-They haven't shrunk enough.. need to shrink some more. Still meddly
-meddly, messing stuff up all over the place. Get off Asia Minor's ass
-for one
+There will be more shrinkage I bet. Still meddly meddly, messing stuff
+up all over the place. Leave Asia Minor alone
 
 "The incredible shrinking Global Britain.. Funding cuts and staffing
 turmoil at the Foreign Office are scaling back the UK’s international
