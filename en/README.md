@@ -134,8 +134,8 @@ chain problems. Then there was covid itself effecting the production.
 
 ---
 
-Saw Target CEO on CNBC, his main complaint was basically 'supply chain
-supply chain supply chain'
+Saw Target CEO on CNBC, his main complaint was 'supply chain supply
+chain supply chain'
 
 ---
 
