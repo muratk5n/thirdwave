@@ -20,18 +20,13 @@ I collect a lot of base numbers [here](2022/02/base-energy-numbers.html)
 
 ---
 
-Provaris Energy is a BUY
-
----
-
 It is great Europe is creating the demand upfront, that can spur
 companies to get their tech in order; Provaris CEO attended an H2 conf
 and says the demand from them is clear, EU wants tons of this
 stuff. Where there is demand, there will be supply.. so they are
-building the tech for it. THis will create a snowball effect; seeing
-supply, products will arrive to use it, which will create more
-demand. Snowball. Only policy could kick that off, bidness could not
-do it on its own.
+building the tech for it. Enter the snowball effect; seeing supply,
+products will arrive to use it, which will create more demand. Only
+policy could kick that off, bidness could not do it on its own.
 
 
 ---
