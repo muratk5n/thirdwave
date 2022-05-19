@@ -121,8 +121,8 @@ production, authorizes flights to bring imports from overseas"
 
 How to get the code referenced here? If there is an `import` for a
 library, but it is not an official Python lib, its `.py` file will be
-under that year's archive.  For example `yf.py` is under
-`en/tweets/2022` folder.
+under that year's archive. Script `yf.py` is under `en/tweets/2022`
+folder.
 
 ---
 
