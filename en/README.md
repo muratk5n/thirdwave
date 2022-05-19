@@ -6,17 +6,17 @@
 
 ---
 
-Cummins partners with Freightliner on hydrogen fuel-cell truck.. The
-Freightliner Cascadia chassis will be equipped with fourth generation
-equipment from Cummins... [The companies] have announced that they
-will be working together on a new hydrogen fuel-cell truck that is
-intended for the North American market.
-
----
-
 H2 View: "The much anticipated, REPowerEU Plan has been presented by
 the European Commission, and has set a target of 10 million tonnes of
 domestic renewable hydrogen by 2030"
+
+---
+
+H2 View: "Cummins partners with Freightliner on hydrogen fuel-cell
+truck.. The Freightliner Cascadia chassis will be equipped with fourth
+generation equipment from Cummins... [The companies] have announced
+that they will be working together on a new hydrogen fuel-cell truck
+that is intended for the North American market"
 
 ---
 
@@ -27,7 +27,6 @@ stuff. Where there is demand, there will be supply.. so PE is building
 tech for it. Enter the snowball effect; seeing supply, products will
 arrive, which will create more supply. Only policy could start that
 chain, bidness could not do it on its own.
-
 
 ---
 
