@@ -152,11 +152,11 @@ Out[1]:
 3  2022-05-17T07:02:00.000Z         1.48        1.3
 ```
 
-1.3 vs 1.48 for Walmart.
+Real was 1.3 vs estimate 1.48 for Walmart.
 
 ---
 
-Both Target and Walmart had a miss on earnings estimates. 
+Both Target and Walmart had a miss on earnings.
 
 ---
 
