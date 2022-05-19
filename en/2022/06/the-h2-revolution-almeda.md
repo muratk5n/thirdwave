@@ -1,9 +1,11 @@
 # The H2 Revolution
 
+<a name='deaths'/>
+
 If we hadn’t had Covid-19, 2020 would be remembered for the Australian
 bushfire disaster, which killed thirty- four people and more than
 three billion animals, and for the unprecedented 8wildfires in Brazil
-and California..a
+and California..
 
 Yes, renewable electricity was making great strides, but electricity
 only accounts for 20% of our energy use. Even if we cleaned all of
@@ -11,19 +13,18 @@ that up completely, using the sun and wind to generate clean
 electrons, we would still have the other 80% of the energy system to
 worry about. That’s the energy we use in transport, industry and
 heating, which today rely mainly on molecules from coal, oil and
-natural gas.
+natural gas...
 
-We can switch some of those end-uses from molecules to electricity, of
-course. That’s what we are trying to do with electric vehicles, and
-electric heating for the home. But there’s a limit to how much of the
-energy system we can switch to renewable electricity. Some sectors,
-such as heavy transport, industry and winter heating are particularly
-difficult for electricity to fully penetrate. The International
-Renewable Energy Agency (IRENA), sees electricity rising to just under
-50% of the energy mix by 2050, which is wonderful, but still leaves
-another 50% to worry about. If we are serious about avoiding
-catastrophe, we need other technologies as well as renewable
-electricity – and we need them fast..
+<a name='electrif'/>
+
+But there’s a limit to how much of the energy system we can switch to
+renewable electricity. Some sectors, such as heavy transport, industry
+and winter heating are particularly difficult for electricity to fully
+penetrate. The International Renewable Energy Agency (IRENA), sees
+electricity rising to just under 50% of the energy mix by 2050, which
+is wonderful, but still leaves another 50% to worry about. If we are
+serious about avoiding catastrophe, we need other technologies as well
+as renewable electricity – and we need them fast..
 
 The model [forecasting an energy mix for a clean future] was
 forecasting that there was going to be a lot of cheap hydrogen for us
@@ -53,6 +54,8 @@ pollution kills more than 4 million people every year – twice as many
 as Covid-19 killed in 2020, and twice as many as are killed every year
 by malaria and tuberculosis combined..
 
+<a name='peros'/>
+
 One fast-improving solar technology uses perovskites, crystal
 structures first discovered in the Ural Mountains in 1839, which will
 reduce the cost of converting solar power into electricity. Films much
@@ -71,20 +74,22 @@ especially in the face of seasonal energy needs. In some industries
 and long-range transport, direct electrification just won’t
 work. Renewables are going to need a partner..
 
-Lithium-ion batteries have improved a lot – they can be recharged
-hundreds of times, and they have a higher energy density than other
-battery technologies – but still they don’t hold much energy for a
-given weight. A kilogram of gasoline holds 13 kilowatt-hours (kWh) of
-energy; a kilogram of lithium-ion battery holds less than 0.3
-kWh. This means electricity isn’t going to be the best way of powering
-sectors which need to take lots of energy with them. Just think of
-long-haul flying: we would need so many heavy batteries that the plane
-wouldn’t be able to take off. And batteries won’t compete with
-molecules to propel cargo ships across oceans. While for shorter
-distances battery-powered trucks look like a hot contender, for
-long-distance trucking, the amount of space and weight that the
-batteries would add (and the difficulty of charging them quickly)
-makes it hard to imagine their widespread use...
+<a name='lion'/>
+
+Lithium-ion batteries have improved a lot.. but still they don’t hold
+much energy for a given weight. A kilogram of gasoline holds 13
+kilowatt-hours (kWh) of energy; a kilogram of lithium-ion battery
+holds less than 0.3 kWh. This means electricity isn’t going to be the
+best way of powering sectors which need to take lots of energy with
+them. Just think of long-haul flying: we would need so many heavy
+batteries that the plane wouldn’t be able to take off. And batteries
+won’t compete with molecules to propel cargo ships across
+oceans. While for shorter distances battery-powered trucks look like a
+hot contender, for long-distance trucking, the amount of space and
+weight that the batteries would add (and the difficulty of charging
+them quickly) makes it hard to imagine their widespread use...
+
+<a name='grid'/>
 
 Up to 8% of generated electricity is lost between the power station
 and your home. You can actually hear this happening if you’re close to
