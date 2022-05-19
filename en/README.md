@@ -84,10 +84,10 @@ sources, and compare sources with eachother, no matter how long that
 power would be needed (which takes us into Watt-hour, storage capacity
 territory). A TV pulls in 60 Watts, an oven 1500 W. Russian NG export
 to Europe is 167 Gigawatts (a lot of TVs can run on that
-energy). Typical nuclear plant output is 1 GW, Fukushima (the one that
-had the meltdown) was 5 GW. We see it will take 33 Fukushima's to
-replace Russian exports to Europe. Now in terms of environment policy
-that is probably a non-starter. 
+energy). Typical nuclear plant output is 1 GW, Fukushima (the one with
+the meltdown) was 5 GW. We see it will take 33 Fukushima's to replace
+Russian exports to Europe. Now in terms of environment policy that is
+probably a non-starter.
 
 ---
 
