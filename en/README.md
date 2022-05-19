@@ -29,8 +29,8 @@ companies to get their tech in order; Provaris CEO attended an H2 conf
 and says the demand from EU is there, they want tons of this
 stuff. Where there is demand, there will be supply.. so PE is building
 tech for it. Enter the snowball effect; seeing supply, products will
-arrive to use it, which will create more demand. Only policy could
-kick that off, bidness could not do it on its own.
+arrive, which will create more demand. Only policy could start that
+chain, bidness could not do it on its own.
 
 
 ---
