@@ -256,11 +256,11 @@ A large LNG tanker can hold 266,000 cubic meters of LNG.
 
 CSP
 
-https://www.utilitydive.com/news/cheapest-is-not-always-best-concentrated-solar-power-could-beat-lower-pric/574154/
+[Link](https://www.utilitydive.com/news/cheapest-is-not-always-best-concentrated-solar-power-could-beat-lower-pric/574154/)
 
 Initial investment cost cost 5200/kw. Advanced nuclear reactors are
-estimated to cost $5,366 for every kilowatt of capacity. They are same but
-nuke plants have LCOE $0.096/kWh.
+estimated to cost 5,366 ollar for every kilowatt of capacity. They are
+same but nuke plants have LCOE 0.096 dollar/kWh.
 
 
 References
@@ -299,7 +299,7 @@ References
 
 [17] https://www.h2-view.com/story/worlds-first-liquid-hydrogen-carrier-on-route-to-japan/
 
-[18] https://www.researchgate.net/publication/228651542_UUV_FCEPS_technology_assessment_and_design_process
+[18] [Link](https://www.researchgate.net/publication/228651542_UUV_FCEPS_technology_assessment_and_design_process)
 
 [19] https://stacker.com/stories/3860/largest-oil-fields-world
 
