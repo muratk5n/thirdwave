@@ -59,7 +59,7 @@ about their H2 pipeline work.
 
 ---
 
-Almera book talks about only parts of econ being electrified. Those
+Alvera book talks about only parts of econ being electrified. Those
 parts will likely be gasified too eventually.. The base tech that can
 do all, will end up doing all \#h2book
 
