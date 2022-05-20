@@ -114,9 +114,9 @@ BTW the heating energy calc [here](2022/01/heating-calculation-fourier.html) act
 takes energy used for cooling into account, indirectly; It calculates
 the energy needed to raise (the average world temperature) from 13
 to (room temperature) 22. Well, there are many temp levels
-during the year that contribute to  that average. Sometimes, it is -20,
-sometimes 10, and sometimes 30. So by calculating from 13->22 switch,
-we are also calculating 40 to 22, for some places. 
+during the year that contribute to  that average. Sometimes it is -20,
+sometimes 10, or 30. So by calculating 13->22 switch, we are
+also calculating 40 to 22, for some places. 
 
 ---
 
