@@ -8,10 +8,10 @@ Pinned Tweet
 
 ---
 
-Vid talks about problems with long-distance electricity transmission,
-and the failed DESERTEC plan. All of the issues raised there are moot
-around H2 pipelines. We can transmit ten times more energy at one eighth
-the cost through pipelines. 
+Seperate vid talks about problems with long-distance electricity
+transmission, and the ill-fated DESERTEC plan. All of the issues
+raised there are moot for H2 pipelines which can transmit ten times
+more energy at one eighth the cost compared to the grid.
 
 [[-]](https://youtu.be/7OpM_zKGE4o?t=262)
 
