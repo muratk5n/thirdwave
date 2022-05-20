@@ -1,4 +1,4 @@
-# Energy Needed for Heating
+# Energy for Heating
 
 We can use the heat conduction formula due to Fourier,
 
