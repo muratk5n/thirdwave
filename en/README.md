@@ -2,176 +2,193 @@
 
 ---
 
+Pinned Tweet
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">It’s <a href="https://twitter.com/hashtag/WorldBookDay?src=hash&amp;ref_src=twsrc%5Etfw">#WorldBookDay</a>, so I’m going to take a moment to highlight my fav <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> book 📖 If you haven’t already, you should check out <a href="https://twitter.com/malvera1?ref_src=twsrc%5Etfw">@malvera1</a>’s “The Hydrogen Revolution.” It’s a fav amongst the <a href="https://twitter.com/HystarH2?ref_src=twsrc%5Etfw">@HystarH2</a> team, too! <a href="https://t.co/zzBwkopctO">pic.twitter.com/zzBwkopctO</a></p>&mdash; Leila A. Danielsen (@lasdal) <a href="https://twitter.com/lasdal/status/1517920683443081218?ref_src=twsrc%5Etfw">April 23, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-H2 View: "The much anticipated, REPowerEU Plan has been presented by
-the European Commission, and has set a target of 10 million tonnes of
-domestic renewable hydrogen by 2030"
+Vid talks about problems with long-distance electricity transmission,
+and the failed DESERTEC plan. All of the issues raised there are moot
+around H2 pipelines. We can transmit ten times more energy at one eighth
+the cost through pipelines. 
+
+[[-]](https://youtu.be/7OpM_zKGE4o?t=262)
 
 ---
 
-H2 View: "Cummins partners with Freightliner on hydrogen fuel-cell
-truck.. The Freightliner Cascadia chassis will be equipped with fourth
-generation equipment from Cummins... [The companies] have announced
-that they will be working together on a new hydrogen fuel-cell truck
-that is intended for the North American market"
+Limitations of the grid \#h2book
+
+[[-]](2022/06/the-h2-revolution-almeda.html#grid)
 
 ---
 
-It is great Europe is creating the demand upfront, that can spur
-companies to get their tech in order; Provaris CEO attended an H2 conf
-and says the demand from EU is there, they want tons of this
-stuff. Where there is demand, there will be supply.. so PE is building
-tech for it. Enter the snowball effect; seeing supply, products will
-arrive, which will create more supply. Only policy could start that
-chain, bidness could not do it on its own.
+Hear hear \#lion \#h2book
+
+[[-]](2022/06/the-h2-revolution-almeda.html#lion)
 
 ---
 
-Suiso ship used low temperature. The GH2 ship uses compression. The AU
-company that built it is Provaris Energy. Presentation on the tech and
-planned infra below. First ship is 26,000 m3 another planned 120,000
-m3, compressed H2 at 250 bar can carry 700 kwh/m3 which means one trip
-will carry 84.0 Gigawatt-hours, that is mid-size crude oil tanker
-equivalent. Very good.
+Forbes: "Perovskite is found in Earth's mantle has been mined in
+Arkansas, the Urals, Switzerland, Sweden, and Germany"
+
+---
+
+Perovskite can do better solar \#h2book
+
+[[-]](2022/06/the-h2-revolution-almeda.html#peros)
+
+---
+ 
+"[A]mbient air pollution kills more than 4 million people every year
+twice as many as Covid-19 killed in 2020, and twice as many as are
+killed every year by malaria and tuberculosis combined" \#h2book
+
+---
+
+Three **billion** animals died during Oz wildfires? \#h2book
+
+[[-]](2022/06/the-h2-revolution-almeda.html#deaths)
+
+---
+
+Almera is the CEO of Snam. Shared one vid of him previously talking
+about their H2 pipeline work.
+
+[[-]](https://youtu.be/sZlHFKaKJU0?t=273)
+
+---
+
+Almera book talks about only parts of econ being electrified. Those
+parts will likely be gasified too eventually.. The base tech that can
+do all, will end up doing all \#h2book
+
+[[-]](2022/06/the-h2-revolution-almeda.html#electrif)
+
+---
+
+Still, NH3 on its own is still useful as energy vector, it can be
+combusted in a turbine (Japan Mitsubishi has the tech), used for
+carrier for other kinds of fuel-cells.
+
+---
+
+That must be why ammonia company GenCell tout alkaline fuel-cells, the
+tech works even with non high-purity H2, as opposed to PEM which needs
+high-purity.
+
+[[-]](https://www.ammoniaenergy.org/articles/gencell-launches-commercial-alkaline-fuel-cell-using-cracked-ammonia-fuel/)
+
+---
+
+Looking at the PE presentation again; they are especially focused on
+compression, bcz apparently getting high-purity H2 is easiest that
+way. Ammonia can carry huge amounts of H2, but getting high purity is
+tough. From pg 10,
+
+- Compression is integral to all three supply chains to increase the
+volumetric energy density of H2
+
+- Compression has minimal technical barriers..
+
+- LH2 [liquid form] supply chain is significantly more complex with
+additional energy intensive processes as well as onshore storage
+requirements
+
+- NH3 involves mature and well-developed technologies. However, if the
+end user requires high purity hydrogen, then technical barriers and
+energy penalty to crack and purify (reconversion)
 
 [PDF](https://assets.website-files.com/626b0112d67346fa8eab974d/6280ef3d5ce3f07d709f43a7_Provaris%20-%20Corporate%20Deck%20-%2016%20May%202022%20ASX.pdf)
 
 ---
 
-H2 View: "Offshore green hydrogen production unit unveiled.. Technip
-Energies and its affiliates, Kanfa and Inocean announced the launch of
-its suite of offshore green hydrogen production solutions, GO.H2 TM by
-T.EN"
+Provaris CEO says 'it's very clear Europe has 10 million tons of
+demand [for H2] by 2030'.
+
+[[-]](https://youtu.be/JgyD2k1xWEI?t=86)
 
 ---
 
-H2 View: "A new ship that will collect ocean plastic and produce
-hydrogen to be designed.. H2 Industries and naval architecture
-company, TECHNOLOG Services have revealed a partnership to design a
-ship that will collect plastic waste and convert it into hydrogen"
+BTW the heating energy calc [here](2022/01/heating-calculation-fourier.html) actually
+takes energy used for cooling into account, indirectly; It calculates
+the energy needed to raise (the average world temperature) from 13
+to (room temperature) 22. Well, there are many temp levels
+during the year that contribute to  that average. Sometimes, it is -20,
+sometimes 10, and sometimes 30. So by calculating from 13->22 switch,
+we are also calculating 40 to 22, for some places. 
 
 ---
 
-This means LH2 storage does not require extra energy..? That's smart.
-
-"Suiso Frontier (hydrogen tanker) is a custom-built vessel with
-double-shell vacuum insulation that enables liquid hydrogen to be
-transported without any coolant"
-
-[[-]](https://www.nature.com/articles/d42473-020-00544-8)
+The Guardian: "But air conditioning and refrigeration are doubly
+polluting: not only are they produced from climate-warming fossil
+fuels, but the HFCs and other refrigerants cooling systems use produce
+greenhouse gases that can be 4,000 times more potent than carbon
+dioxide"
 
 ---
 
-Can work backwards from capacity to output. LNG replacement? Get ship
-capacity, number of trips, or simply an annual export amount giving a
-Gwh, now work backwards from there, divide by 365, then 24 - once we
-have calc down to Watt-hour within an hour, we can drop the hour, get
-Wattage.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hydrogen Rising is a great podcast from <a href="https://twitter.com/KLGates?ref_src=twsrc%5Etfw">@KLGates</a> for <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> and <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> industry insiders and newcomers - check out the latest episode featuring FCHEA President Frank Wolak - <a href="https://t.co/ckGVo3dr9w">https://t.co/ckGVo3dr9w</a>!</p>&mdash; Fuel Cell and Hydrogen Energy Association (@FCHEA_News) <a href="https://twitter.com/FCHEA_News/status/1527316122181087233?ref_src=twsrc%5Etfw">May 19, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Converting energy numbers to a Wattage (kilo,giga) as in power input /
-output helps to gauge how much of a power need can be met by existing
-sources, and compare sources with eachother, no matter how long that
-power would be needed (which takes us into Watt-hour, storage capacity
-territory). A TV pulls in 60 Watts, an oven 1500 W. Russian NG export
-to Europe is 167 Gigawatts (a lot of TVs can run on that
-energy). Typical nuclear plant output is 1 GW, Fukushima (the one with
-the meltdown) was 5 GW. Then it takes 33 Fukushimas to replace Russian
-exports to Europe. Now in terms of environment policy that is probably
-a non-starter.
+"@Zachary
+
+@CFTCbehnam urged digital asset firms to disclose their energy
+footprint. He said the industry’s economic output might not be worth
+the wattage"
 
 ---
 
-"@christo92787346
+New Deal - Deep Sun \#music
 
-I can't wait for Raytheon baby formula with laser targeted nutrition"
-
----
-
-AP: "Biden invokes Defense Production Act to boost baby formula
-production, authorizes flights to bring imports from overseas"
+[[-]](https://youtu.be/RIMwiJ-nuEA)
 
 ---
 
-How to get the code referenced here? If there is an `import` for a
-library, but it is not an official Python lib, its `.py` file will be
-under that year's archive. Script `yf.py` is under `en/tweets/2022`
-folder.
+It isn't, bcz there is a clear beginning of the snowball. With the
+chicken-and-egg "connondrum" as well there is a beginning; There was
+something like a chicken which laid something that looked like an egg,
+that started the process. Gov policy gives the push, starts the snowball.
+
+"The demand-supply-more demand you described sounds like a
+chicken-and-egg process / problem"
 
 ---
 
-If people's buying patterns truly changed, and -per WSJ supply chain
-docu- there is about a year's worth of journey behind every product
-even though the last-mile delivery of the product looks instantenous,
-then changes on demand could manifest itself as supply chain
-problems. And covid also effected the production itself.
+Charly Antolini's Power Dozen - Nofretete's Headache \#music
+
+[[-]](https://youtu.be/ORh-qFb3wXE)
 
 ---
 
-Saw Target CEO on CNBC, his main complaint was 'supply chain supply
-chain supply chain'
+Klement Julienne - Mannix \#music
+
+[[-]](https://youtu.be/LeIdR3zhXDI)
 
 ---
 
-Their stocks were hammered. 
-
-```python
-import yf
-fig, axes = plt.subplots(2, 1, figsize=(6, 4), sharey=True)
-df = yf.get_stock_price('WMT')
-df.plot(ax=axes[0],legend=False,sharex = True,title='WMT')
-df = yf.get_stock_price('TGT')
-df.plot(ax=axes[1],legend=False,title='TGT')
-```
-
-<img width="340" src="https://pbs.twimg.com/media/FTGwlY6XEAIbG03?format=png&name=small"/>
+JP does good things on H2 though, work in that domain is paying off.
 
 ---
 
-Doh!
+Overwork, Japan - with all that overtime, productivity isn't that
+high.. 
 
-```python
-import yf;yf.get_earnings("WMT").head(4)[['startdatetime','epsestimate','epsactual']]
-```
-
-```text
-Out[1]: 
-              startdatetime  epsestimate  epsactual
-0  2023-02-21T07:00:00.000Z          NaN        NaN
-1  2022-11-15T07:00:00.000Z          NaN        NaN
-2  2022-08-16T07:00:00.000Z         1.88        NaN
-3  2022-05-17T07:02:00.000Z         1.48        1.3
-```
-
-Real was 1.3 vs estimate 1.48 for Walmart.
+[[-]](https://youtu.be/9Y-YJEtxHeo?t=17)
 
 ---
 
-Both Target and Walmart had a miss on earnings.
+Mr. Scruff - Champion Nibble \#music
+
+[[-]](https://youtu.be/MHgC7Nta0ks)
 
 ---
 
-He admitted it \#Iraq \#W \#empire
-
-[[-]](https://twitter.com/sahilkapur/status/1527092111195226114)
-
----
-
-There will be more shrinkage I bet. Still meddly meddly, messing stuff
-up all over the place. Leave Asia Minor alone
-
-"The incredible shrinking Global Britain.. Funding cuts and staffing
-turmoil at the Foreign Office are scaling back the UK’s international
-ambition"
-
----
-
-CNBC: "India is not alone. In addition to Russia and Ukraine, Egypt,
-Kazakhstan, Kosovo and Serbia have also banned wheat exports"
+Walmart, Target stocks were hit especially bad maybe bcz if during
+high inflation era value, 'substance' will matter more, and WMT, TGT 
+would be safe-havens for that kind of buy, then they missed their
+earnings. Nosedive.
 
 ---
 
