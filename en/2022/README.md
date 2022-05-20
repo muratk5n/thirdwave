@@ -2,6 +2,8 @@
 
 [Faux Contrarians, Faux Libertarians](01/faux-contrarians-faux-liberterians.html)
 
+[Energy Needed for Heating](01/heating-calculation-fourier.html)
+
 [Particles, Science and AI](01/particles-and-ai.html)
 
 [Base Energy Numbers, Data](02/base-energy-numbers.html)
