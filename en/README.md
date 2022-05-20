@@ -67,9 +67,9 @@ do all, will end up doing all \#h2book
 
 ---
 
-Still, NH3 on its own is still useful as energy vector, it can be
-combusted in a turbine (Japan Mitsubishi has the tech), used for
-carrier for other kinds of fuel-cells.
+NH3 is still useful as energy vector, it can be combusted in a turbine
+(Japan Mitsubishi has the tech), used for carrier for other kinds of
+fuel-cells.
 
 ---
 
