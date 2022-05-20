@@ -187,8 +187,8 @@ Mr. Scruff - Champion Nibble \#music
 
 Walmart, Target stocks were hit especially bad maybe bcz if during
 high inflation era value, 'substance' will matter more, and WMT, TGT 
-would be safe-havens for that kind of buy, then they missed their
-earnings. Nosedive.
+would be safe-havens for that kind of buy, when they missed their
+earnings, value seekers were shocked. Nosedive.
 
 ---
 
