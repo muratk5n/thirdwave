@@ -172,8 +172,7 @@ JP does good things on H2 though, work in that domain is paying off.
 
 ---
 
-Overwork, Japan - with all that overtime, productivity isn't that
-high.. 
+Overwork, Japan - all that overtime doesn't seem to help productivity?
 
 [[-]](https://youtu.be/9Y-YJEtxHeo?t=17)
 
