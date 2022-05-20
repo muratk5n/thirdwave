@@ -52,7 +52,7 @@ Three **billion** animals died during Oz wildfires? \#h2book
 
 ---
 
-Almera is the CEO of Snam. Shared one vid of him previously talking
+Alvera is the CEO of Snam. Shared one vid of him previously talking
 about their H2 pipeline work.
 
 [[-]](https://youtu.be/sZlHFKaKJU0?t=273)
