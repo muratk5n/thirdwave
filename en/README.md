@@ -149,7 +149,8 @@ New Deal - Deep Sun \#music
 It isn't, bcz there is a clear beginning of the snowball. With the
 chicken-and-egg "connondrum" as well there is a beginning; There was
 something like a chicken which laid something that looked like an egg,
-that started the process. Gov policy gives the push, starts the snowball.
+that started the process. Gov policy gives the push, starts the
+snowball, more eggs.
 
 "The demand-supply-more demand you described sounds like a
 chicken-and-egg process / problem"
