@@ -168,7 +168,7 @@ Klement Julienne - Mannix \#music
 
 ---
 
-JP does good things on H2 though, work in that domain is paying off.
+JP does good things on H2 though, kudos there
 
 ---
 
