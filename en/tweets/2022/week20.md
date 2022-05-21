@@ -13,13 +13,13 @@ more energy at one eighth the cost compared to the grid.
 
 Limitations of the grid \#h2book
 
-[[-]](2022/06/the-h2-revolution-almeda.html#grid)
+[[-]](../../2022/06/the-h2-revolution-almeda.html#grid)
 
 ---
 
 Hear hear \#lion \#h2book
 
-[[-]](2022/06/the-h2-revolution-almeda.html#lion)
+[[-]](../../2022/06/the-h2-revolution-almeda.html#lion)
 
 ---
 
@@ -30,7 +30,7 @@ Arkansas, the Urals, Switzerland, Sweden, and Germany"
 
 Perovskite can do better solar \#h2book
 
-[[-]](2022/06/the-h2-revolution-almeda.html#peros)
+[[-]](../../2022/06/the-h2-revolution-almeda.html#peros)
 
 ---
  
@@ -42,7 +42,7 @@ killed every year by malaria and tuberculosis combined" \#h2book
 
 Three **billion** animals died during Oz wildfires? \#h2book
 
-[[-]](2022/06/the-h2-revolution-almeda.html#deaths)
+[[-]](../../2022/06/the-h2-revolution-almeda.html#deaths)
 
 ---
 
