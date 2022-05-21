@@ -124,7 +124,7 @@ line. * That contrasts with a gas network. When you put natural gas in
 pipelines, you can vary the pressure so as to pack it in more or less
 tightly, meaning that you have lots of flexibility to satisfy demand
 fluctuations without resorting to additional generation or storage
-[same with H2 pipeplines].
+[same with H2 pipelines].
 
 [M]ost pumped hydro schemes need mountain lakes to site their upper
 reservoir, and such places are scarce. Smaller still is the number of
