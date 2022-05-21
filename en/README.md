@@ -142,11 +142,9 @@ is the end of an era"
 
 ---
 
-"Italy’s transport unions are observing a one-day strike, in part to
-protest against the government’s military support for Ukraine and to
-call for an immediate ceasefire in the conflict"
-
-[[-]](https://on.ft.com/3PKCsxp)
+FT: "Italy’s transport unions are observing a one-day strike, in part
+to protest against the government’s military support for Ukraine and
+to call for an immediate ceasefire in the conflict"
 
 ---
 
