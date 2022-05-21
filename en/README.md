@@ -79,10 +79,9 @@ are versatile"
 
 ---
 
-Clearly their products is based on alkaline fuel-cell tech, which
-means it will not need high-purity H2 to function. Their target is
-customers who need renewable gas based heating which is potentially
-huge.
+Clearly their product is based on alkaline fuel-cell tech, which means
+it will not need high-purity H2 to function. Their target is customers
+who need renewable gas based heating which is potentially huge.
 
 H2 View: "Alkaline Fuel Cell Power achieves first major millstone for
 innovative hydrogen technology.. [and] is now believed to be working
