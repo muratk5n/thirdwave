@@ -98,9 +98,9 @@ Strawb is 91% water. That's where..
 
 ---
 
-That is genius; put everything in raw, the whole thing is cooked
-in closed form, kill germs inside, and can be sure no more will
-enter the can is opened. 
+That is genius; put all ingredientss in raw, then the whole thing is
+cooked as closed, that cooking kill germs inside, and can be sure no
+more will enter until the can is opened.
 
 "Canned chicken is pressure cooked right in the can in a process called
 retort cooking".
