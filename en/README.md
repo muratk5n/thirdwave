@@ -8,187 +8,154 @@ Pinned Tweet
 
 ---
 
-Seperate vid talks about problems with long-distance electricity
-transmission, and the ill-fated DESERTEC plan. All of the issues
-raised there are moot for H2 pipelines which can transmit ten times
-more energy at one eighth the cost compared to the grid.
-
-[[-]](https://youtu.be/7OpM_zKGE4o?t=262)
 
 ---
 
-Limitations of the grid \#h2book
-
-[[-]](2022/06/the-h2-revolution-almeda.html#grid)
+"Aramco and [Thai energy company] PTT team up on green and blue hydrogen"
 
 ---
 
-Hear hear \#lion \#h2book
-
-[[-]](2022/06/the-h2-revolution-almeda.html#lion)
-
----
-
-Forbes: "Perovskite is found in Earth's mantle has been mined in
-Arkansas, the Urals, Switzerland, Sweden, and Germany"
+H2 View: "Australian energy company, Woodside, announced that it has
+officially changed its name to Woodside Energy Group Ltd. Previously
+Woodside Petroleum Ltd., the name change reflects the company’s recent
+sustainable efforts, with significant ventures into green hydrogen"
 
 ---
 
-Perovskite can do better solar \#h2book
+H2 View: "Copenhagen Infrastructure Partners (CIP) have announced a
+proposal to build a dedicated artificial island in the North Sea, for
+large-scale green hydrogen production, called ‘Brintø’. Brintø, Danish
+for ‘Hydrogen Island’, would provide a significant contribution
+towards Denmark’s ambitious hydrogen strategy, with its ability to
+supply up to 1 million tonnes of green hydrogen per year once at full
+capacity of 10GW..
 
-[[-]](2022/06/the-h2-revolution-almeda.html#peros)
-
----
- 
-"[A]mbient air pollution kills more than 4 million people every year
-twice as many as Covid-19 killed in 2020, and twice as many as are
-killed every year by malaria and tuberculosis combined" \#h2book
-
----
-
-Three **billion** animals died during Oz wildfires? \#h2book
-
-[[-]](2022/06/the-h2-revolution-almeda.html#deaths)
+CIP have suggested that Brintø could be operational by 2030, and could
+prove to be a vital step in securing green energy supply for
+Europe. The hydrogen produced via Power-to-X will use offshore wind
+electricity and will be hoped to be exported to countries such as,
+Germany, the Netherlands, and Belgium using pipelines"
 
 ---
 
-Alvera is the CEO of Snam. Shared one vid of him previously talking
-about their H2 pipeline work.
-
-[[-]](https://youtu.be/sZlHFKaKJU0?t=273)
+Alstom, PKN ORLEN sign agreement to introduce hydrogen trains and
+infrastructure to Poland
 
 ---
 
-Alvera book talks about only parts of econ being electrified. Those
-parts will likely be gasified too eventually.. The base tech that can
-do all, will end up doing all \#h2book
-
-[[-]](2022/06/the-h2-revolution-almeda.html#electrif)
-
----
-
-NH3 is still useful as energy vector, it can be combusted in a turbine
-(Japan Mitsubishi has the tech), used for carrier for other kinds of
-fuel-cells.
+H2 View: "Six African countries formerly launched the Africa Green
+Hydrogen Alliance, which aims to make the continent a frontrunner in
+the green hydrogen development race. The Alliance, formed by Kenya,
+South Africa, Namibia, Egypt, Morocco, and Mauritania, intend to
+accelerate the transition from fossil fuels, which hopes to open
+access to clean and affordable energy supplies"
 
 ---
 
-That must be why ammonia company GenCell tout alkaline fuel-cells, the
-tech works even with non high-purity H2, as opposed to PEM which needs
-high-purity.
-
-[[-]](https://www.ammoniaenergy.org/articles/gencell-launches-commercial-alkaline-fuel-cell-using-cracked-ammonia-fuel/)
+H2 View: "Germany, Denmark, Belgium, and the Netherlands partner to
+generate 20GW of green hydrogen in the North Sea by 2030"
 
 ---
 
-Looking at the PE presentation again; they are especially focused on
-compression, bcz apparently getting high-purity H2 is easiest that
-way. Ammonia can carry huge amounts of H2, but getting high purity is
-tough. From pg 10,
-
-- Compression is integral to all three supply chains to increase the
-volumetric energy density of H2
-
-- Compression has minimal technical barriers..
-
-- LH2 [liquid form] supply chain is significantly more complex with
-additional energy intensive processes as well as onshore storage
-requirements
-
-- NH3 involves mature and well-developed technologies. However, if the
-end user requires high purity hydrogen, then technical barriers and
-energy penalty to crack and purify (reconversion)
-
-[PDF](https://assets.website-files.com/626b0112d67346fa8eab974d/6280ef3d5ce3f07d709f43a7_Provaris%20-%20Corporate%20Deck%20-%2016%20May%202022%20ASX.pdf)
+H2 View: "Renault to relaunch its Scenic with hydrogen powertrain"
 
 ---
 
-Video: Provaris CEO: 'it's very clear Europe has 10 million tons of
-demand [for H2] by 2030'.
+Their combustion engine is "robust to hydrogen fuel
+impurities". Spread of this tech will increases options for transport;
+can get fuel through ammonia, LH2, LOHC, as well as pipeline, CH2...
 
-[[-]](https://youtu.be/JgyD2k1xWEI?t=86)
-
----
-
-BTW the heating energy calc [here](2022/01/heating-calculation-fourier.html) actually
-takes energy used for cooling into account, indirectly; It calculates
-the energy needed to raise (the average world temperature) from 13
-to (room temperature) 22. Well, there are many temp levels
-during the year that contribute to  that average. Sometimes it is -20,
-sometimes 10, or 30. So by calculating 13->22 switch, we are
-also calculating 40 to 22, for some places. 
+H2 View: "Cummins: We need decarbonisation solutions for the mobility
+industry, and hydrogen internal combustion engines are a practical
+option. Hydrogen engines are a breakthrough technology essential to
+reaching Destination Zero. They are low cost, highly efficient,
+perform like diesel in aggressive duty cycles, are robust to hydrogen
+fuel impurities, are durable in extreme operating environments, and
+are versatile"
 
 ---
 
-The Guardian: "But air conditioning and refrigeration are doubly
-polluting: not only are they produced from climate-warming fossil
-fuels, but the HFCs and other refrigerants cooling systems use produce
-greenhouse gases that can be 4,000 times more potent than carbon
-dioxide"
+Clearly their products is based on alkaline fuel-cell tech, which
+means it will not need high-purity H2 to function. Their target is
+customers who need renewable gas based heating which is potentially
+huge.
+
+H2 View: "Alkaline Fuel Cell Power achieves first major millstone for
+innovative hydrogen technology.. [and] is now believed to be working
+to towards commercialising a 4kW micro-combined heat and power
+(Micro-CHP) system. The.. system could be a major technology for the
+hydrogen industry and is a crucial step in the creation of the
+Company’s manufacturing capabilities"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hydrogen Rising is a great podcast from <a href="https://twitter.com/KLGates?ref_src=twsrc%5Etfw">@KLGates</a> for <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> and <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> industry insiders and newcomers - check out the latest episode featuring FCHEA President Frank Wolak - <a href="https://t.co/ckGVo3dr9w">https://t.co/ckGVo3dr9w</a>!</p>&mdash; Fuel Cell and Hydrogen Energy Association (@FCHEA_News) <a href="https://twitter.com/FCHEA_News/status/1527316122181087233?ref_src=twsrc%5Etfw">May 19, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+How strawberries lose mass after dehyd never seizes to amaze..  1 kilo
+of the stuff, gone, down to mere dried slice. Where did it all go?
+Strawb is 91% water. That's where..
 
 ---
 
-"@Zachary
+That is genius; put everything in raw, the whole thing is cooked
+in closed form, kill germs inside, and can be sure no more will
+enter the can is opened. 
 
-@CFTCbehnam urged digital asset firms to disclose their energy
-footprint. He said the industry’s economic output might not be worth
-the wattage"
-
----
-
-New Deal - Deep Sun \#music
-
-[[-]](https://youtu.be/RIMwiJ-nuEA)
+"Canned chicken is pressure cooked right in the can in a process called
+retort cooking".
 
 ---
 
-It isn't, bcz there is a clear beginning of the snowball. With the
-chicken-and-egg "connondrum" as well there is a beginning; There was
-something like a chicken which laid something that looked like an egg,
-that started the process. Gov policy gives the push, starts the
-snowball, more eggs.
+"@gnoble79
 
-"The demand-supply-more demand you described sounds like a
-chicken-and-egg process / problem"
+'The role of a bear market is to return capital to its rightful owner.'"
 
 ---
 
-Charly Antolini's Power Dozen - Nofretete's Headache \#music
+Great news. More leftists in the Congress.
 
-[[-]](https://youtu.be/ORh-qFb3wXE)
-
----
-
-Klement Julienne - Mannix \#music
-
-[[-]](https://youtu.be/LeIdR3zhXDI)
+Politico: "De Blasio announces run for open New York congressional seat"
 
 ---
 
-JP does good things on H2 though, kudos there
+FT: "Albanese set to be first Australian Labor prime minister in nine years"
 
 ---
 
-Overwork, Japan - all that overtime doesn't seem to help productivity?
+Where is Soros?
 
-[[-]](https://youtu.be/9Y-YJEtxHeo?t=17)
-
----
-
-Mr. Scruff - Champion Nibble \#music
-
-[[-]](https://youtu.be/MHgC7Nta0ks)
+CNBC: "Traders are lining up to short the British pound with a
+possible recession on the horizon"
 
 ---
 
-Walmart, Target stocks were hit especially bad maybe bcz if during
-high inflation era value, 'substance' will matter more, and WMT, TGT 
-would be safe-havens for that kind of buy, when they missed their
-earnings, value seekers were shocked. Nosedive.
+WION: "China quietly purchasing large amounts of low-priced Russian oil"
+
+---
+
+What was that maxim..? Two countries with McDonalds never fought? Or
+ones in the same supply chain never fought..? Something like that
+
+CNBC: "Goodbye, American soft power: McDonald’s exiting Russia after 32 years
+is the end of an era"
+
+---
+
+"Italy’s transport unions are observing a one-day strike, in part to
+protest against the government’s military support for Ukraine and to
+call for an immediate ceasefire in the conflict"
+
+[[-]](https://on.ft.com/3PKCsxp)
+
+---
+
+Lots of displaced tech talent; somebody's loss is another's win
+
+Al Monitor: "Israel high-tech sector looks to Ukraine, Arab world to
+address labor shortage"
+
+---
+
+CNBC: "Russia will shut off gas to Finland from Saturday, Finnish
+energy provider says"
 
 ---
 
