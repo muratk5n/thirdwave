@@ -92,7 +92,7 @@ Company’s manufacturing capabilities"
 
 ---
 
-How strawberries lose mass after dehyd never seizes to amaze..  1 kilo
+How strawberries lose mass after dehyd never ceases to amaze..  1 kilo
 of the stuff, gone, down to mere dried slice. Where did it all go?
 Strawb is 91% water. That's where..
 
