@@ -66,7 +66,7 @@ H2 View: "Renault to relaunch its Scenic with hydrogen powertrain"
 ---
 
 Their combustion engine is "robust to hydrogen fuel
-impurities". Spread of this tech will increases options for transport;
+impurities". Spread of this tech will increase options for transport;
 can get fuel through ammonia, LH2, LOHC, as well as pipeline, CH2...
 
 H2 View: "Cummins: We need decarbonisation solutions for the mobility
