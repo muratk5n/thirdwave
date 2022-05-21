@@ -8,13 +8,14 @@ Pinned Tweet
 
 ---
 
-Here is the link for the excerpts from the Alvera book again
+Here is the link for collated excerpts from the Alvera book again
 
 [[-]](2022/06/the-h2-revolution-almeda.html)
 
 ---
 
-"Aramco and [Thai energy company] PTT team up on green and blue hydrogen"
+H2 Fuel News: "Aramco and [Thai energy company] PTT team up on green
+and blue hydrogen"
 
 ---
 
@@ -41,8 +42,8 @@ Germany, the Netherlands, and Belgium using pipelines"
 
 ---
 
-Alstom, PKN ORLEN sign agreement to introduce hydrogen trains and
-infrastructure to Poland
+H2 Fuel News: "Alstom, PKN ORLEN sign agreement to introduce hydrogen
+trains and infrastructure to Poland"
 
 ---
 
