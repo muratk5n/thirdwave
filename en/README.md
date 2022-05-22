@@ -179,7 +179,7 @@ Normandy]"
 ---
 
 Haha US itself planned the invasion of Taiwan once during WWII but
-gave up, decided it would be too hard
+decided against it, judging the invasion would be too hard
 
 ---
 
