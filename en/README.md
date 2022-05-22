@@ -132,10 +132,10 @@ silver is connected with their past political history.
 
 ---
 
-It's not surprising why the ultra-rich like the current incarnation of
-digital cash, or crypto - they are based on finite amount money base,
-so the rich figure if "I put my money in this thing it won't
-depreceate because it will maintain its value".
+It's not surprising the ultra-rich like the current incarnation of
+digital cash, "crypto" - they are based on finite amount money base,
+so rich ppl figure if "I put my money in this thing it won't
+depreciate because it will maintain its value".
 
 ---
 
