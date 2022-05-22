@@ -2,7 +2,7 @@
 
 [Faux Contrarians, Faux Libertarians](01/faux-contrarians-faux-liberterians.html)
 
-[Energy Needed for Heating](01/heating-calculation-fourier.html)
+[Energy for Heating](01/heating-calculation-fourier.html)
 
 [Particles, Science and AI](01/particles-and-ai.html)
 
@@ -32,5 +32,5 @@
 
 [The New Economics](05/the-new-economics-keen.html)
 
-[The H2 Revolution](06/the-h2-revolution-almeda.html)
+[The H2 Revolution](06/the-h2-revolution-alvera.html)
 
