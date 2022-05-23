@@ -43,8 +43,8 @@ fuel-cells. Or in [Toyota combustion-engine cars](https://www.youtube.com/watch?
 ---
 
 Brand new ship cost around.. $30 mil? Shipping itself is
-cheap. Fukushima level plant cost **30 billion** just for starters, to
-build. 
+cheap. Typical 1GW nuclear plant cost 6 **billion**, Fukushima level
+output would cost 30 bil? It's crazy.
 
 ---
 
