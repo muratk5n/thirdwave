@@ -194,10 +194,11 @@ and is mostly artillery war which favors the Russians.
 ---
 
 P. Zeihan says there are 9 paths for invading Russia, they always try
-to fortify them [his map orientation was screwed up, rotated it, the
-text is still messed up]. But then says RU has to invade Poland. I
-dont think that's in the cards. Sure feeling less threat from nearby
-regions would matter to them but at what cost
+to fortify them. But then says RU has to invade Poland. I dont think
+that's in the cards. Sure feeling less threat from nearby regions
+would matter to them but at what cost.
+
+(Map orientation below was screwed up, pic rotated, the text is off)
 
 [[-]](https://pbs.twimg.com/media/FTYUb8PX0AA4P_5?format=jpg&name=small)
 
