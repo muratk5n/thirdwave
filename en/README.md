@@ -252,7 +252,7 @@ minister"
 
 ---
 
-I bet RU has good intel too; not just satellite, SIGINT, but leaks
+RU appears to have good intel; not just satellite, SIGINT, but leaks
 from UKR mil as well. When the "sniper king" Wali went to UKR, he says
 nearly got his ass blown up by tanks on first mission, it sounded like
 they specifically targeted his area, which means knew he was
