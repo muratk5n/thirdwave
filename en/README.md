@@ -90,12 +90,6 @@ rest no matter what is raging in their minds"
 
 ---
 
-BTFD via @gnoble79
-
-[[-]](https://youtu.be/l4v8rLEI4Pg?t=17)
-
----
-
 "@MetreSteven
 
 Investors have been buying the dip hoping the Fed will soon
