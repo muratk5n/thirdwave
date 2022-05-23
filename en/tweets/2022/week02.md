@@ -551,34 +551,6 @@ H2 View: "Aramco sponsors Dakar Rally’s first hydrogen racing truck"
 
 ---
 
-Similar calculation holds for France (for territories near Madagascar)
-and Japan. The Japanese are already on the case afaik.
-
----
-
-Largest ammonia ship can carry 87,000 m3. With energy density 15.6
-MJ/liter, assuming 60 ship deliveries per year,
-
-```python
-amm_ship = 87000 * 3 # m3
-dens = 15.6*1000 # MJ/m3
-mjkwh = 0.27
-arrivals = 60
-ann_energy = amm_ship * dens * mjkwh * arrivals
-print ("%0.1f GW" % (ann_energy / (365*24*1e6)))
-```
-
-```text
-7.5 GW
-```
-
-Nearly 8 GW could be delivered.. Assuming 2 month round trip per ship,
-a fleet of 10 ships would be enough? We're talking about huge amt of power,
-equivalent to the output of 8 nuclear plants. It could justify a fleet
-of 10 ships.
-
----
-
 [Map](https://pbs.twimg.com/media/FIGS9apWQAEkT5u?format=jpg&name=small)
 
 They are in the maximum sunshine [zone](https://pbs.twimg.com/media/FCtre5sWEAgFFp9?format=png&name=small).
