@@ -59,9 +59,9 @@ forth can supply to 0.3 GW equivalent, like a pipeline.
 
 It's possible to create a 'virtual pipeline' through shipping. Ships
 constantly go back and forth carrying clean fuel is like a pipeline of
-sorts. There is a constant flow over within a period of time Like
-mentioned before we can compute a Gigawatt measure for that. Compute
-annual Watt-hour, divide by 365*24, get Wattage.
+sorts. There is a constant flow within a period of time Like mentioned
+before we can compute a Gigawatt measure for that. Compute annual
+Watt-hour, divide by 365*24, get Wattage.
 
 ---
 
