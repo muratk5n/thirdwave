@@ -48,10 +48,10 @@ output would cost 30 bil? It's crazy.
 
 ---
 
-Example Australia-Japan. Largest ammonia ship can carry 87,000
-m3. Ammonia energy density is 4332 kwh/m3, round trip from
-Australia-Japan takes two months. 1 ship continuously moving back and
-forth can supply to 0.3 GW equivalent, like a pipeline.
+Australia-Japan: Largest ammonia ship can carry 87,000 m3. Ammonia
+energy density is 4332 kwh/m3, round trip from Australia-Japan takes
+two months. 1 ship continuously moving back and forth can supply to
+0.3 GW equivalent, like a pipeline.
 
 30 ships will give 7.7 Gigawatts. Better than one Fukushima.
 
