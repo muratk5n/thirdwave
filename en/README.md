@@ -103,10 +103,6 @@ capitulate. Wait until they realize the Fed is serious this time"
 
 ---
 
-[Link](https://youtu.be/ReSGy26GOvM?t=17)
-
----
-
 Reagan was pro-choice, made abortion legal in California, then he
 changed his tune to appeal to evangalicals
 
