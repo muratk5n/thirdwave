@@ -187,7 +187,7 @@ to fortify them. But then says RU has to invade Poland. I dont think
 that's in the cards. Sure feeling less threat from nearby regions
 would matter to them but at what cost.
 
-(Map orientation below was screwed up, pic rotated, the text is off)
+(Orig map orientation was screwed up, pic rotated, the text is off)
 
 [[-]](https://pbs.twimg.com/media/FTYUb8PX0AA4P_5?format=jpg&name=small)
 
