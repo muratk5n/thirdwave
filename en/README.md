@@ -31,8 +31,8 @@ terrestrial planets larger than Mars...[it should be] an important
 constituent in other terrestrial planets if their rocky mantles
 contain substantial volumes above ~23 GPa. Venus, being similar in
 size and mass to Earth, should also host Mg-perovskite as its most
-abundant mineral phase. The base of Mars’ mantle, on the other hand,
-is estimated to be 19 to 27 GPa [too bad]"
+abundant mineral phase. The base of Mars’ mantle, on the other hand
+[has lower pressure]"
 
 [[-]](https://www.researchgate.net/publication/320967307_Perovskite_in_Earth's_deep_interior)
 
