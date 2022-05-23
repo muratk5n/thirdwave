@@ -116,7 +116,8 @@ TDB: "Arkansas Guv Shies Away From Extreme Abortion Ban He Signed"
 
 ---
 
-Chicken-and-egg process again (egg -money- arrived later)
+Chicken-and-egg process again (king is the chicken, egg -money-
+arrived later)
 
 ---
 
