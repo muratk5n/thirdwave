@@ -112,11 +112,6 @@ TDB: "Arkansas Guv Shies Away From Extreme Abortion Ban He Signed"
 
 ---
 
-Chicken-and-egg process again (king is the chicken, egg -money-
-arrived later)
-
----
-
 All finite-amount crypto is essentially right-wing. Money invariably
 has politics associated with it. Crypto proponents think they can
 sidestep all that with 'some bits", but that is extremely naive; money
