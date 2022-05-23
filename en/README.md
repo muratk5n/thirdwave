@@ -24,6 +24,21 @@ terminals"
 
 ---
 
+Snam CEO on H2 pipelines
+
+[[-]](2022/06/the-h2-revolution-alvera.md#pipelines)
+
+---
+
+"@amitakshatriya
+
+India also has not developed an extensive natural gas network so far,
+which is a blessing in disguise. As it would now be possible to build
+gas pipeline grid which will first transport natural gas and will
+eventually be used to transport first blue & then green hydrogen"
+
+---
+
 Not on Mars apparently
 
 "[Perovskite] is also expected to be an abundant mineral in other
@@ -39,21 +54,6 @@ abundant mineral phase. The base of Mars’ mantle, on the other hand
 ---
 
 This perovskite is a fantastic material, abundant too
-
----
-
-Snam CEO on H2 pipelines
-
-[[-]](2022/06/the-h2-revolution-alvera.md#pipelines)
-
----
-
-"@amitakshatriya
-
-India also has not developed an extensive natural gas network so far,
-which is a blessing in disguise. As it would now be possible to build
-gas pipeline grid which will first transport natural gas and will
-eventually be used to transport first blue & then green hydrogen"
 
 ---
 
