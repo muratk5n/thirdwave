@@ -202,18 +202,8 @@ not bear" sort of stuff.
 
 ---
 
-Meh; "A drawdown with at least a 20% fall in it" could capture it
+Tried it - meh; "A drawdown with at least a 20% fall in it" could capture it
 better perhaps.. 
-
----
-
-```python
-import util; util.plot_20_drawdown_sp500()
-```
-
-[[-]](https://pbs.twimg.com/media/FTX_uvuWAAI6B1T?format=png&name=small)
-
----
 
 "When the market is down 20% for at least a two-month period. 'If
 somebody were to say that we were in a bear market in the S&P 500,
