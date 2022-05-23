@@ -189,7 +189,7 @@ would matter to them but at what cost.
 
 Here is the link for collated excerpts from the Alvera book again
 
-[[-]](2022/06/the-h2-revolution-alvera.html)
+[[-]](../../2022/06/the-h2-revolution-alvera.html)
 
 ---
 
