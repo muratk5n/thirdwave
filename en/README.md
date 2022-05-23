@@ -183,13 +183,13 @@ Taiwan is not Ukraine. Taiwan has a moat (and more)
 
 ---
 
-Ukraine is not Afghanisan. AFG terrain is much more hostile (see
-the list of empires getting their ass kicked there)
+Ukraine is not Afghanistan. AFG terrain is much more hostile (see the
+list of empires getting their ass kicked there)
 
 ---
 
-PZ gets some things right; UKR war is taking place on flatlands,
-and is mostly artillery war which favors the Russians.
+PZ gets some things right; UKR war is taking place on flatlands, and
+is mostly an artillery war which favors the Russians.
 
 ---
 
