@@ -189,7 +189,7 @@ without traditional asset markets’ guardrails"
 
 ---
 
-Talking code, or talk-friendly descr is always better then verbal
+Talking code, or code-friendly descr is always better then verbal
 descriptions, "if it goes up, this goes down, if down, other up" ???
 WTF?
 
