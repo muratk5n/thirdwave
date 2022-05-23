@@ -206,4 +206,32 @@ happening in some places. The UK distribution network, for instance,
 is being replaced as we speak, from mainly wrought-iron pipes to
 polyethylene pipes, which happily can carry pure hydrogen.
 
+<a name='storage'/>
+
+Storage
+
+The petrochemical industry in Texas need[ed] a continuous supply of
+hydrogen to its refineries and their solution has been to store it in
+caverns. The Chevron Phillips Clemens Terminal in Texas, for example,
+has stored hydrogen in a disused salt cavern since the
+1980s. Meanwhile, in the UK, there are three salt caverns safely
+storing hydrogen... Underground gas storage involves compressing and
+injecting the gas into a cavity of some sort. Gas is released under
+pressure when needed. For natural gas, underground storage in disused
+fields is remarkably cheap, at something like $10/MWh even if you only
+use it once a year...
+
+There are lots of other storage options.. [an] intriguing option is
+pipe storage. We already know that pipelines can hold hydrogen gas at
+pressure, but what’s to stop you from laying down a series of cheap,
+standardised pipelines with sealed ends and using them as storage? A
+kilometre of pipeline (of the same diameter and pressure that you’d
+use for natural gas) could hold approximately 12 tonnes of hydrogen. 3
+Another clever idea is to line a rock cavern with a thin layer of
+steel. This has been done in Skallen, Sweden, for use with natural
+gas. It allows you to ramp up the storage pressure to 200 atmospheres,
+because the rock formation carries the main structural load, and would
+be cheaper and easier than a massive tank.
+
+
 
