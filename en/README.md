@@ -164,14 +164,11 @@ Everything is for sale these days
 Al Monitor: "Fearing visa hassles could cost him his job in Dubai
 while an economic collapse had dashed any homecoming options, Lebanese
 executive Jad splurged around $135,000 on a new citizenship for
-himself and his wife.
-
-Within a month of making the payment last year, the 43-year-old
-businessman received a small package in his mailbox.
-
-Inside were two navy blue passports from the Caribbean island nation
-of Saint Kitts and Nevis -- his ticket to visa-free access to more
-than 150 countries, including in Europe"
+himself and his wife. Within a month of making the payment last year,
+the 43-year-old businessman received a small package in his
+mailbox. Inside were two navy blue passports from the Caribbean island
+nation of Saint Kitts and Nevis -- his ticket to visa-free access to
+more than 150 countries, including in Europe"
 
 ---
 
