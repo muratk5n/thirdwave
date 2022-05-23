@@ -84,9 +84,9 @@ there will be new players who can innovate and expand, hire.
 
 ---
 
-The spread of H2 infrastructure (over other types of infra needs to be
-official left policy. Renewable gas based tech will deliver cheap
-energy to people from all walks of life, especially the poor. 
+The spread of H2 infrastructure needs to be official left
+policy. Renewable gas based tech will deliver cheap energy to people
+from all walks of life, especially the poor.
 
 ---
 
@@ -109,11 +109,10 @@ No bitch magnets, bitch electricity, bitch lasers
 ---
 
 "Nick Hawker might have solved the nuclear fusion equation, leading to
-‘unlimited’ clean energy..
-
-There’s a new fusion kid on the block. His name is Nick Hawker and he
-carries a very big gun – 22m long. It fires a projectile at around
-7km/s and aims to hit a bullseye only two atoms wide.
+‘unlimited’ clean energy.. There’s a new fusion kid on the block. His
+name is Nick Hawker and he carries a very big gun – 22m long. It fires
+a projectile at around 7km/s and aims to hit a bullseye only two atoms
+wide.
 
 Fusion, of course, is nothing new. The sun has been at it for the last
 few billion years and is still going strong, producing vast amounts of
