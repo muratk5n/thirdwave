@@ -125,10 +125,9 @@ has politics associated with it. Crypto proponents think they can
 sidestep all that with 'some bits", but that is extremely naive; money
 never existed disconnected from a social order.. Gold was *made* into
 money through kings (they demanded taxes be paid to them in currency
-made from gold, silver, which created demand for those currencies).
-Such metals had no intrinsic value, at least nothing at the level that
-primes them to be **the** money. Even the current demand for gold,
-silver is connected with their past political history.
+made from gold, silver, creating demand for those currencies).  Such
+metals had no intrinsic value, at least nothing at the level that
+primes them to be **the** money. 
 
 ---
 
