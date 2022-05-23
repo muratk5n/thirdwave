@@ -226,7 +226,7 @@ pipe storage. We already know that pipelines can hold hydrogen gas at
 pressure, but what’s to stop you from laying down a series of cheap,
 standardised pipelines with sealed ends and using them as storage? A
 kilometre of pipeline (of the same diameter and pressure that you’d
-use for natural gas) could hold approximately 12 tonnes of hydrogen. 3
+use for natural gas) could hold approximately 12 tonnes of hydrogen.
 Another clever idea is to line a rock cavern with a thin layer of
 steel. This has been done in Skallen, Sweden, for use with natural
 gas. It allows you to ramp up the storage pressure to 200 atmospheres,
