@@ -86,7 +86,7 @@ there will be new players who can innovate and expand, hire.
 
 The spread of H2 infrastructure needs to be official left
 policy. Renewable gas based tech will deliver cheap energy to people
-from all walks of life, especially the poor.
+from all walks of life, especially the poor. 
 
 ---
 
