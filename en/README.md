@@ -126,6 +126,16 @@ crypto around the clock"
 
 ---
 
+She surely believes in that political choice, but what I'm saying is
+the system will pull people that fit to a certain mold, from bizarre
+extremes. The pro-choice Catholic ends up in Dem leadership, the only
+Episcopalian who is anti-choice ends up as Fox News anchor. These
+actors will heatedly argue over stuff that could've easily been
+handled (in fact was) years ago. This situation is created by centrist
+Democrats. They are responsible for the Original Sin - Know Thy Side.
+
+---
+
 Abortion is the other hot-button issue Dems helped become this
 entangled mess.. Now it's incredible hard to be in Dem leadership and
 to be anti-choice. NP is Catholic, but can't be pro-life and still
