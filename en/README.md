@@ -98,6 +98,11 @@ Davos set"
 
 ---
 
+Someone called the Bene Gesserit in *Dune* "Ninja Nuns". :) That is
+correct.
+
+---
+
 It cld be helpful for the new actor.. No need to ask director what
 s/he wants.. It's like 'look at the shot already there give me that
 (with some reinterp surely)'.
@@ -137,6 +142,12 @@ Abortion is the other hot-button issue Dems helped become this
 entangled mess.. Now it's incredible hard to be in Dem leadership and
 be anti-abortion. NP is Catholic, but can't be against abortion and
 still hold that seat. Not anymore.
+
+---
+
+Send in Van Helsing
+
+[[-]](https://drive.google.com/uc?export=view&id=1SDNfs2ROjJPgu_Khu69LntnBSktokoKo)
 
 ---
 
