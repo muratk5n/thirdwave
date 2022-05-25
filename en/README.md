@@ -145,12 +145,6 @@ still hold that seat. Not anymore.
 
 ---
 
-Send in Van Helsing
-
-[[-]](https://drive.google.com/uc?export=view&id=1SDNfs2ROjJPgu_Khu69LntnBSktokoKo)
-
----
-
 🤣 🤣 Excommunicated by the Church.
 
 "Pelosi denied Holy Communion by San Francisco archbishop for pushing
