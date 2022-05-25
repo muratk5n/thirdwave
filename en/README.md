@@ -111,7 +111,7 @@ Reshooting a movie isn't impossible; they do it all the time.
 ---
 
 That's crazy. That will help turn crypto even more of a speculative
-asset. Nearly all of coins are incorrectly designed as currency, dont
+asset. Nearly all coins are incorrectly designed as currency, dont
 want more people rushing into these things, creating fragility in the
 system.
 
