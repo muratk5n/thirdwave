@@ -170,7 +170,7 @@ The Telegraph: "Henry Kissinger: Ukraine must give Russia
 territory.. Kissinger has urged the West to stop trying to inflict a
 crushing defeat on Russian forces in Ukraine. The veteran US statesman
 said that it would have disastrous consequences for the long term
-stability of Europe
+stability of Europe"
 
 ---
 
