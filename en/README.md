@@ -98,7 +98,7 @@ Davos set"
 
 ---
 
-It cld be helpful for the new actor too.. No need to ask director what
+It cld be helpful for the new actor.. No need to ask director what
 s/he wants.. It's like 'look at the shot already there give me that
 (with some reinterp surely)'.
 
@@ -111,8 +111,8 @@ the Future had a third of its scenes re-filmed (with MJ Fox).
 
 That's crazy. That will help turn crypto even more of a speculative
 asset. Nearly all of coins are incorrectly designed as currency, dont
-want more people rushing into these things. Such purchases will create
-fragility in the system.
+want more people rushing into these things, creating fragility in the
+system.
 
 Politico: "FTX, a global crypto exchange led by 30 year-old
 billionaire and political mega-donor Sam Bankman-Fried, has engaged in
@@ -122,13 +122,13 @@ crypto around the clock"
 
 ---
 
-She surely believes in that political choice, but what I'm saying is
-the system will pull people from extremes fitting a certain mold. The
+She surely believes in that political choice, what I'm saying is the
+system will pull people from extremes fitting a certain mold. The
 pro-choice Catholic ends up in Dem leadership, the only Episcopalian
 who is anti-abortion ends up as Fox News anchor. These actors will
 heatedly argue over stuff that could've easily been handled (in fact
-was) years ago. This situation is created by centrist Democrats. They
-committed the Original Sin. Know Thy Side.
+was) years ago. Centrist Democrats did that. They committed the
+Original Sin. Know Thy Side.
 
 ---
 
@@ -150,8 +150,8 @@ That choice was indirectly forced on them by centrist Democrats bcz of
 their need for [triangulation](2021/10/all-too-human.html#triangulation).
 By trying to be too much like Reps on major issues, they pushed them
 further right on social issues, creating deadlock. Dems are the sole
-reason for the culture war. Need less bipartisanship, less unity
-more division on major stuff. At every school shooting, remember,
+reason for the culture war. Need less bipartisanship, less unity,
+more division on major stuff. After every school shooting remember,
 it's Bill Clinton's fault.
 
 "@brianklaas
