@@ -143,7 +143,7 @@ hold that seat. Not anymore.
 
 ---
 
-🤣 🤣 Excommunicated by the Catholic Church.
+🤣 🤣 Excommunicated by the Church.
 
 "Pelosi denied Holy Communion by San Francisco archbishop for pushing
 abortion rights"
