@@ -2,10 +2,6 @@
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The US Department of Energy (<a href="https://twitter.com/ENERGY?ref_src=twsrc%5Etfw">@ENERGY</a>) has provided a grant in order to support the development of an ultra-low <a href="https://twitter.com/hashtag/NOx?src=hash&amp;ref_src=twsrc%5Etfw">#NOx</a> <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> burner technology which will enable the adoption of hydrogen fuel for industrial heating. <a href="https://twitter.com/hashtag/hydrogennow?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennow</a> <a href="https://twitter.com/hashtag/H2View?src=hash&amp;ref_src=twsrc%5Etfw">#H2View</a><a href="https://t.co/Ax0XLgWZwC">https://t.co/Ax0XLgWZwC</a></p>&mdash; H2 View (@h2_view) <a href="https://twitter.com/h2_view/status/1529124482530648072?ref_src=twsrc%5Etfw">May 24, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 H2 View: "CleanSign receives US DOE grant to develop an ultra-low NOx
 hydrogen burner technology.. The US Department of Energy (DOE) has
 provided a grant in order to support the development of an ultra-low
