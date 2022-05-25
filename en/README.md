@@ -128,7 +128,7 @@ pro-choice Catholic ends up in Dem leadership, the only Episcopalian
 who is anti-choice ends up as Fox News anchor. These actors will
 heatedly argue over stuff that could've easily been handled (in fact
 was) years ago. This situation is created by centrist Democrats. They
-are responsible for the Original Sin - not Knowing Thy Side.
+committed the Original Sin. Know Thy Side.
 
 ---
 
