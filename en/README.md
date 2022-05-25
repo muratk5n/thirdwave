@@ -126,6 +126,20 @@ crypto around the clock"
 
 ---
 
+Abortion is the other hot-button issue Dems helped become this
+entangled mess.. Now it's incredible hard to be in Dem leadership and
+to be anti-choice. NP is guinea and Catholic, but can't be pro-life
+and still hold that seat. Not anymore.
+
+---
+
+🤣 🤣 Excommunicated by the Catholic Church.
+
+"Pelosi denied Holy Communion by San Francisco archbishop for pushing
+abortion rights"
+
+---
+
 That choice was indirectly forced on them by centrist Democrats bcz of
 their need for [triangulation](2021/10/all-too-human.html#triangulation).
 By trying to be too much like Reps on major issues, they pushed them
