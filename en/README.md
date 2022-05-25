@@ -95,7 +95,7 @@ a hydrogen powerhouse"
 
 ---
 
-Al Jazeera: "Davos is dead. Amid a pandemic and a cost of living
+Al Jazeera: "Davos is dead. [After] a pandemic and a cost of living
 crisis, the people have no patience for the virtue signalling of the
 Davos set"
 
