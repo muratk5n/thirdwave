@@ -2,284 +2,170 @@
 
 ---
 
-Pinned Tweet
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It’s <a href="https://twitter.com/hashtag/WorldBookDay?src=hash&amp;ref_src=twsrc%5Etfw">#WorldBookDay</a>, so I’m going to take a moment to highlight my fav <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> book 📖 If you haven’t already, you should check out <a href="https://twitter.com/malvera1?ref_src=twsrc%5Etfw">@malvera1</a>’s “The Hydrogen Revolution.” It’s a fav amongst the <a href="https://twitter.com/HystarH2?ref_src=twsrc%5Etfw">@HystarH2</a> team, too! <a href="https://t.co/zzBwkopctO">pic.twitter.com/zzBwkopctO</a></p>&mdash; Leila A. Danielsen (@lasdal) <a href="https://twitter.com/lasdal/status/1517920683443081218?ref_src=twsrc%5Etfw">April 23, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The US Department of Energy (<a href="https://twitter.com/ENERGY?ref_src=twsrc%5Etfw">@ENERGY</a>) has provided a grant in order to support the development of an ultra-low <a href="https://twitter.com/hashtag/NOx?src=hash&amp;ref_src=twsrc%5Etfw">#NOx</a> <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> burner technology which will enable the adoption of hydrogen fuel for industrial heating. <a href="https://twitter.com/hashtag/hydrogennow?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennow</a> <a href="https://twitter.com/hashtag/H2View?src=hash&amp;ref_src=twsrc%5Etfw">#H2View</a><a href="https://t.co/Ax0XLgWZwC">https://t.co/Ax0XLgWZwC</a></p>&mdash; H2 View (@h2_view) <a href="https://twitter.com/h2_view/status/1529124482530648072?ref_src=twsrc%5Etfw">May 24, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-H2 View: "Danish chemical processing company, Topsoe has announced its
-intention to construct the world’s largest electrolyser plant with an
-initial 500MW capacity, which can be scaled to 5GW, for Power-to-X
-solutions"
+H2 View: "CleanSign receives US DOE grant to develop an ultra-low NOx
+hydrogen burner technology.. The US Department of Energy (DOE) has
+provided a grant in order to support the development of an ultra-low
+NOx hydrogen burner technology which will enable the adoption of
+hydrogen fuel for industrial heating"
 
 ---
 
-H2 View: "Portugal is set to gain a new hydrogen blending project with Wärtsilä
-partnering with Capwatt"
+H2 View: "PESTECH International Berhad and Hydorgéne de France SA (HDF
+Energy) have partnered to collaborate on green hydrogen production
+from hydro power plants in Cambodia and Malaysia"
 
 ---
 
-H2 Fuel News: "Indiana, Ohio and Kentucky vie for blue hydrogen hub
-federal funding.. The states are competing to obtain a portion of $8
-billion set aside for the H2 supply chain project"
+Australia to Singapore freight shipping takes about two
+weeks. That is sweet.  Ship NH3, CH2, from there pipeline green gas to
+Malaysia, Thailand, even Vietnam
 
 ---
 
-H2 View: "MSC Group to incorporate hydrogen fuel cells into its
-next-generation World Europa cruise ship"
+Financial Review: "Global energy consultancy Wood Mackenzie estimates
+the seaborne trade of hydrogen will grow to 150 million tonnes by
+2050.. Europe alone is expected to import 10 million tonnes of
+hydrogen by 2030. To meet that demand, ports are being specially
+designed to feed into dedicated hydrogen infrastructure across the
+Netherlands and into Germany"
+
+[[-]](https://todayspaper.smedia.com.au/afr/shared/ShowArticle.aspx?doc=AFR%2F2022%2F05%2F23&entity=Ar03801&sk=DC5FB829&mode=text)
 
 ---
 
-H2 View: "Texas, US, continues to be a hotspot for hydrogen
-technologies and innovation with Clean Energy Holdings, ING Americas,
-and Equix, starting development of a 250MW green hydrogen project"
+99 Percent ?! Excellent.
+
+Science.org: "[Discovered an] alternative to directly transporting
+hydrogen produced at large scales through steam reforming for
+applications such as vehicular fueling is smaller scale, on-site
+production from methane or carriers such as ammonia. The hydrogen
+produced must be separated from co-produced carbon dioxide or
+nitrogen.
+
+Proton ceramic electrochemical reactors can extract pure hydrogen from
+gas mixtures by electrolytically pumping protons across the membrane
+at 800°C, but as the extraction proceeds, temperature gradients and
+entropic effects lead to efficiency drops. Clark et al. developed a
+nickel-based glass-ceramic composite interconnect that allowed for the
+design of a more complex reactor pathway (see the Perspective by Shih
+and Haile). Counterflowing streams balanced heat flows and maintained
+stable operating conditions that enabled 99% efficiency of hydrogen
+recovery"
+
+[[-]](https://www.science.org/doi/10.1126/science.abj3951)
 
 ---
 
-Ammonia can be combusted in turbines. Crack it and use H2 in alkaline
-fuel-cells. Or in [Toyota combustion-engine cars](https://www.youtube.com/watch?v=2dgzKW8EKMc).
+H2 View: "Mote to develop a new wood waste-to-hydrogen production facility in
+California, US"
 
 ---
 
-Brand new ship cost around.. $30 mil? Shipping itself is
-cheap. Typical 1GW nuclear plant cost 6 **billion**, Fukushima level
-output would cost 30 bil? Factor in a billion per GW to generate
-ammonia from solar, you still won't reach that kind of cost. It's
-crazy.
+Company Site: "Mote is a spinout of the carbon removal effort at
+Lawrence Livermore, where Mote CTO Joshuah Stolaroff previously led
+the carbon capture program. Mote’s technology approach draws from the
+Lab’s groundbreaking research and development"
 
 ---
 
-Australia-Japan: Largest ammonia ship can carry 87,000 m3. Ammonia
-energy density is 4332 kwh/m3, round trip from Australia-Japan takes
-two months. 1 ship continuously moving back and forth can supply to
-0.3 GW equivalent, like a pipeline.
-
-30 ships will give 7.7 Gigawatts. Better than one Fukushima.
+Yahoo Finance: "Mote Enters Advanced Stage of Engineering Design for
+Southern California Carbon-Negative Hydrogen Facility"
 
 ---
 
-It's possible to create a 'virtual pipeline' through shipping. Ships
-constantly go back and forth carrying clean fuel is like a pipeline of
-sorts. There is a constant flow within a period of time, like
-mentioned before we can compute a Gigawatt measure for that. Compute
-annual Watt-hour, divide by 365*24, get Wattage.
+Emerson teams with Toyota Australia to create commercial-grade
+hydrogen production, storage and refuelling plants.. As Toyota
+continues to develop hydrogen refuelling infrastructure in Australia,
+Emerson has been selected to provide its advanced automation
+technology for the refuelling and production plants.
 
 ---
 
-WION: "Climate change grips Europe: Tornado in Germany, heatwave in Spain"
+Air Liquide hydrogen plant officially opened in North Las Vegas
 
 ---
 
-On H2 storage \#h2book
-
-[[-]](2022/06/the-h2-revolution-alvera.html#storage)
-
----
-
-Many fossil players are *also* in the H2 game but that is a good
-thing. That means the switch to green energy can be faster, with their
-input.  Green fuels are great, there is something in it for
-everyone. People will get cheap energy, faster, fossil players build
-on their gas/liquid handling expertise and keep making money, and
-there will be new players who can innovate and expand, hire.
+H2 View: "Successful pre-feasibility study could see Mauritania become
+a hydrogen powerhouse"
 
 ---
 
-The spread of H2 infrastructure needs to be official left
-policy. Renewable gas based tech will deliver cheap energy to people
-from all walks of life, especially the poor. 
+That's crazy. That turns crypto into a speculative asset. Most of
+these coins are badly designed, dont want more morons rushing into
+these things. It will create fragility in the system.
+
+Politico: "FTX, a global crypto exchange led by 30 year-old
+billionaire and political mega-donor Sam Bankman-Fried, has engaged in
+a full-court press convincing the Commodity Futures Trading Commission
+to sign off on its plan to let investors use borrowed money to trade
+crypto around the clock"
 
 ---
 
-Even with limitless energy we'd need green fuels as an energy
-carrier.. We cant have a fusion reactor in every car, in every home,
-so cars would need a fuel in the tank that was generated by
-fusion. From fusion reactor to homes something needs to be piped in,
-fast, efficiently.  That something is still H2.
+That choice was indirectly forced on them by centrist Democrats bcz of
+their need for [triangulation](2021/10/all-too-human.html#triangulation).
+By trying to be too much like Reps on major issues, they pushed them
+further right on social issues, creating deadlock. Dems are the sole
+reason for the culture war. Need less bipartisanship, less unity
+more division on major stuff. At every school shooting remember,
+it's Bill Clinton's fault.
+
+"@brianklaas
+
+.. Not solving [the gun issue] is a policy choice, made by Republicans"
 
 ---
 
-[Link](https://youtu.be/oLGDKVJlqL0?t=42)
+Comments show that Kissinger, when he was liked or hated, was always
+acting as a realist. Surely he was part of a lot of unfavorable
+decisions; but he also negotiated an end to the Vietnam War.
 
 ---
 
-Mass, pressure, heat, kinetic energy; that is where it's at.
-
-No bitch magnets, bitch electricity, bitch lasers
-
----
-
-"Nick Hawker might have solved the nuclear fusion equation, leading to
-‘unlimited’ clean energy.. There’s a new fusion kid on the block. His
-name is Nick Hawker and he carries a very big gun – 22m long. It fires
-a projectile at around 7km/s and aims to hit a bullseye only two atoms
-wide.
-
-Fusion, of course, is nothing new. The sun has been at it for the last
-few billion years and is still going strong, producing vast amounts of
-energy..  The fundamental fact [is].. that fusing two hydrogen nuclei
-together is hard. They are both positively charged particles and
-therefore mutually repulsive...
-
-In contrast, Hawker and his crew have come up with a radically
-different approach to pulling off fusion and “getting it done” sooner
-too. “Projectile fusion” as practised at First Light, in comparison
-with “magnetic confinement fusion” is simpler, cheaper...
-
-Hawker has taken the concept of the pistol shrimp – or the shrimp’s
-claw – and converted it into an extremely long pistol, a light gas
-gun, with a barrel 22m long, that propels a projectile at around 7km/s
-into a cube of fusion fuel, turning it into thermal plasma, which is
-so dense that it approaches the density of the core of the sun. When
-the projectile hits the outer layer of the cube it produces a shock
-wave bubble – just like the shrimp – that then compresses the fusion
-fuel and under huge pressures and very high temperature for a
-billionth of a second causes ions to fuse and release energy"
-
-[[-]](https://edition.independent.co.uk/edition/uk.co.independent.issue.190522/156388/index.html)
+The Telegraph: "Henry Kissinger: Ukraine must give Russia
+territory.. Henry Kissinger has urged the West to stop trying to
+inflict a crushing defeat on Russian forces in Ukraine. The veteran US
+statesman said that it would have disastrous consequences for the long
+term stability of Europe
 
 ---
 
-Sound Stylistics - The Crisis Generator \#music
-
-[[-]](https://youtu.be/DxouLqLMpJk)
-
----
-
-WION: "Villagers in Russia's Siberia have spotted a giant crater that
-is sinking and appearing to pull in everything around it"
+Amid a pandemic and a cost of living crisis, the people have no
+patience for the virtue signalling of the Davos set.
 
 ---
 
-Franco Micalizzi - Running Away From Jerzy \#music
-
-[[-]](https://youtu.be/MLI4mJNNM4s)
-
----
-
-Pretty cheap for life-long visa access.
-
-Everything is for sale these days
-
-Al Monitor: "Fearing visa hassles could cost him his job in Dubai
-while an economic collapse had dashed any homecoming options, Lebanese
-executive Jad splurged around $135,000 on a new citizenship for
-himself and his wife. Within a month of making the payment last year,
-the 43-year-old businessman received a small package in his
-mailbox. Inside were two navy blue passports from the Caribbean island
-nation of Saint Kitts and Nevis -- his ticket to visa-free access to
-more than 150 countries, including in Europe"
+It cld be helpful for the new actor too.. No need to ask director what
+s/he wants.. It's like 'look at the shot already there give me that
+(with some reinterp surely)'.
 
 ---
 
-That El Salvador President, "Bukake", is in love with Bitcoin, and
-crypto. Of course he is a rich guy, a "supply sider".. They want their
-*stash* not to depreciate. That's what it is all about.
+Reshooting a movie isn't impossible; they do it all the time. Back to
+the Future had a third of its scenes re-filmed (with MJ Fox).
 
 ---
 
-"@Nouriel
+"@DanDePetris
 
-Crypto Meltdown Exposes Hollowness of Its Libertarian Promise - WSJ
-Unable to displace the dollar, crypto became just another asset
-without traditional asset markets’ guardrails"
+If you’re only interested in diplomacy when it doesn’t involve
+concessions, then you really aren’t interested in diplomacy.
 
----
-
-[Link](https://youtu.be/ReSGy26GOvM?t=17)
+'Anne Appelbaum NYT: Offering the Russian president a face-saving
+compromise will only enable future aggressions'"
 
 ---
 
-Talking code, or code-friendly descr is always better then verbal
-descriptions, "if it goes up, this goes down, if down, other up" ???
-WTF?
+"@DanielLDavis1
 
-What is the angle of the dangle?
-
----
-
-Some quant-fu uses moving averages, "when close is over MA200 bull, if
-not bear" sort of stuff.
-
----
-
-Tried it - meh; "A drawdown with at least a 20% fall in it" could capture it
-better perhaps.. 
-
-"When the market is down 20% for at least a two-month period. 'If
-somebody were to say that we were in a bear market in the S&P 500,
-that means that we were down 20% from peak to trough,' says
-[expert]. 'Once it crosses 20%, you stay 20% or you go further
-down. You’re just in a bear market'"
-
-[[-]](https://time.com/nextadvisor/investing/bull-bear-markets-explained/)
-
----
-
-What is the definition of bear market anyway?
-
----
-
-Yep. Don't [jog](2010/04/new-evolution-diet-devany.html) like a
-dumbass..  HIT means spurts of high activity, not bouncing up and down
-rhythmically on bitch Nike shoes
-
----
-
-\#Brendborg
-
-"Living at high altitude and getting vaccinated both help you live
-longer - but the most influential factor is exercise..he recommends
-high intensity interval training (HIIT workouts)" 
-
----
-
-From Nicklas Brendborg, *Jellyfish Age Backwards*.
-
-"People who take multivitamins also seem to die earlier - perhaps
-because of the iron in them. Iron, Brendborg says, 'works almost like
-fertiliser for the growth of bacteria'. This could also explain why
-blood donors tend to live longer, as they get rid of excess iron"
-
----
-
-WION: "UK man dumps wife, runs off with Ukrainian refugee who moved in
-few days ago"
-
----
-
-WION: "Ukraine's EU membership '15 or 20 years' away, says French
-minister"
-
----
-
-RU appears to have good intel; not just satellite, SIGINT, but leaks
-from UKR mil as well. When the "sniper king" Wali went to UKR, he says
-nearly got his ass blown up by tanks on first mission, it sounded like
-they specifically targeted his area, which means knew he was
-there. Right afterwards RU declared him dead (nearly true). My guess
-is Wali's location was leaked and RU went after him - for a quick
-propaganda win. Now, that kind of intel indicates HUMINT; UKR mil is
-leaking like a sieve. Maybe that's not surprising, UKR could have a
-lot of RU symphatizers.
-
----
-
-They took Popasnaya, now moving ahead to close the small pocket
-
-Al Jazeera: "Russia bombards Severodonetsk from all sides"
-
----
-
-You fight artillery with artillery. Also with airbombing, but Ukraine
-does not air superiority, Russia does. They can take out rival
-artillery units from the air, if not overpower the ones on the ground
-with their own ground units (have better numbers, and their supply
-line is closer and more secure, right over the border whereas
-Ukraine's logistic situation is harder).
-
-"How do you fight against artillery?"
+It is shocking how easily some pundits suggest the US go to war
+against China over Taiwan, as @gen_jackkeane does... Losing 1000s of
+US troops - and maybe losing US cities to nuclear strikes - doesn't
+concern them"
 
 ---
 

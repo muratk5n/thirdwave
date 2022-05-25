@@ -692,13 +692,13 @@ plt.savefig('vix.png')
 
 ```text
 Date
-2022-01-20    25.590000
-2022-01-21    28.850000
-2022-01-24    29.900000
-2022-01-25    31.160000
-2022-01-26    31.959999
-2022-01-27    30.490000
-2022-01-28    27.660000
+2022-05-16    27.469999
+2022-05-17    26.100000
+2022-05-18    30.959999
+2022-05-19    29.350000
+2022-05-20    29.430000
+2022-05-23    28.480000
+2022-05-24    29.889999
 Name: Adj Close, dtype: float64
 ```
 
@@ -734,11 +734,11 @@ plt.savefig('oil.png')
 
 ```text
 Date
-2022-05-09    103.089996
-2022-05-10     99.760002
-2022-05-11    105.709999
-2022-05-12    106.129997
-2022-05-13    110.489998
+2022-05-18    109.589996
+2022-05-19    112.209999
+2022-05-20    113.230003
+2022-05-23    110.290001
+2022-05-24    110.360001
 Name: Close, dtype: float64
 ```
 
@@ -784,42 +784,6 @@ Name: 1, dtype: float64
 ```
 
 ![](opec.png)
-
-<a name="worldoil"></a>
-
-World Oil Production 
-
-```python
-import pandas as pd, requests
-from datetime import date
-
-api_key = open('.key/.eiakey').read()
-url = 'https://api.eia.gov/series/?api_key=' + api_key + '&series_id=INTL.53-1-WORL-TBPD.M' 
-r = requests.get(url)
-json_data = r.json()
-df = pd.DataFrame(json_data.get('series')[0].get('data'))
-df['Year'] = df[0].astype(str).str[:4]
-df['Month'] = df[0].astype(str).str[4:]
-df['Day'] = 1
-df['Date'] = pd.to_datetime(df[['Year','Month','Day']])
-df = df.set_index('Date')
-print (df[1].head(5))
-df[1].plot()
-plt.legend(['World Oil Production Per Month (thousand barrels per day)'])
-plt.savefig('crude-production.png')
-```
-
-```text
-Date
-2022-01-01    98105.116795
-2021-12-01    98204.723559
-2021-11-01    98630.339031
-2021-10-01    97990.174403
-2021-09-01    96558.050120
-Name: 1, dtype: float64
-```
-
-![](crude-production.png)
 
 <a name="natgas"></a>
 
@@ -885,13 +849,13 @@ plt.savefig('eunatgas.png')
 
 ```text
 Date
-2022-05-05    106.508003
-2022-05-06    101.708000
-2022-05-09     93.787003
-2022-05-10     98.801003
-2022-05-11     94.012001
-2022-05-12    106.700996
-2022-05-13     96.880997
+2022-05-16    92.860001
+2022-05-17    94.175003
+2022-05-18    94.538002
+2022-05-19    91.024002
+2022-05-20    87.902000
+2022-05-23    83.288002
+2022-05-24    86.875000
 Name: Adj Close, dtype: float64
 ```
 
@@ -990,11 +954,11 @@ print (dfeng[source+'yoy'].dropna().head(5))
 
 ```text
 Date
-2021-02-01    23.864871
-2021-01-01    23.464886
-2020-12-01    23.901563
-2020-11-01    22.981503
-2020-10-01    22.238344
+2021-04-01    24.301684
+2021-03-01    24.618614
+2021-02-01    24.098390
+2021-01-01    23.621993
+2020-12-01    24.047727
 Name: solaryoy, dtype: float64
 ```
 
