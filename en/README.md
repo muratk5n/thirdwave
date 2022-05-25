@@ -134,9 +134,9 @@ the Original Sin. Know Thy Side.
 ---
 
 Abortion is the other hot-button issue Dems helped become this
-entangled mess.. Now it's incredible hard to be in Dem leadership and
-be anti-abortion. NP is Catholic, but can't be against abortion and
-still hold that seat. Not anymore.
+entangled mess.. Likely not possible to be in Dem leadership and be
+anti-abortion. NP is Catholic, but can't be against abortion and still
+hold that seat. Not anymore.
 
 ---
 
