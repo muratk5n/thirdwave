@@ -104,8 +104,9 @@ s/he wants.. It's like 'look at the shot already there give me that
 
 ---
 
-Reshooting a movie isn't impossible; they do it all the time. Back to
-the Future had a third of its scenes re-filmed (with MJ Fox).
+Reshooting a movie isn't impossible; they do it all the time.
+*Back to the Future* had a third of its scenes re-filmed
+(with MJ Fox).
 
 ---
 
