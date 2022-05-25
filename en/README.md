@@ -98,11 +98,6 @@ Davos set"
 
 ---
 
-Someone called the Bene Gesserit in *Dune* "Ninja Nuns". :) That is
-correct.
-
----
-
 It cld be helpful for the new actor.. No need to ask director what
 s/he wants.. It's like 'look at the shot already there give me that
 (with some reinterp surely)'.
