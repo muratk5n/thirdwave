@@ -78,15 +78,16 @@ Southern California Carbon-Negative Hydrogen Facility"
 
 ---
 
-Emerson teams with Toyota Australia to create commercial-grade
-hydrogen production, storage and refuelling plants.. As Toyota
-continues to develop hydrogen refuelling infrastructure in Australia,
-Emerson has been selected to provide its advanced automation
-technology for the refuelling and production plants.
+H2 View: "Emerson teams with Toyota Australia to create
+commercial-grade hydrogen production, storage and refuelling
+plants.. As Toyota continues to develop hydrogen refuelling
+infrastructure in Australia, Emerson has been selected to provide its
+advanced automation technology for the refuelling and production
+plants"
 
 ---
 
-Air Liquide hydrogen plant officially opened in North Las Vegas
+H2 View: "Air Liquide hydrogen plant officially opened in North Las Vegas"
 
 ---
 
