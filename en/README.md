@@ -155,7 +155,7 @@ their need for [triangulation](2021/10/all-too-human.html#triangulation).
 By trying to be too much like Reps on major issues, they pushed them
 further right on social issues, creating deadlock. Dems are the sole
 reason for the culture war. Need less bipartisanship, less unity
-more division on major stuff. At every school shooting remember,
+more division on major stuff. At every school shooting, remember,
 it's Bill Clinton's fault.
 
 "@brianklaas
