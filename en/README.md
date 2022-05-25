@@ -138,7 +138,7 @@ are responsible for the Original Sin - not Knowing Thy Side.
 
 Abortion is the other hot-button issue Dems helped become this
 entangled mess.. Now it's incredible hard to be in Dem leadership and
-to be anti-choice. NP is Catholic, but can't be pro-life and still
+be anti-choice. NP is Catholic, but can't be pro-life and still
 hold that seat. Not anymore.
 
 ---
