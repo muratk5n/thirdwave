@@ -167,10 +167,10 @@ decisions; but he also negotiated an end to the Vietnam War.
 ---
 
 The Telegraph: "Henry Kissinger: Ukraine must give Russia
-territory.. Henry Kissinger has urged the West to stop trying to
-inflict a crushing defeat on Russian forces in Ukraine. The veteran US
-statesman said that it would have disastrous consequences for the long
-term stability of Europe
+territory.. Kissinger has urged the West to stop trying to inflict a
+crushing defeat on Russian forces in Ukraine. The veteran US statesman
+said that it would have disastrous consequences for the long term
+stability of Europe
 
 ---
 
