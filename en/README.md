@@ -127,8 +127,8 @@ system will pull people from extremes fitting a certain mold. The
 pro-choice Catholic ends up in Dem leadership, the only Episcopalian
 who is anti-abortion ends up as Fox News anchor. These actors will
 heatedly argue over stuff that could've easily been handled (in fact
-was) years ago. Centrist Democrats did that. They committed the
-Original Sin. Know Thy Side.
+was) years ago. Centrist Democrats created that mess. They committed
+the Original Sin. Know Thy Side.
 
 ---
 
