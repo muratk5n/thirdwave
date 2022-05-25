@@ -67,7 +67,7 @@ WION: "Climate change grips Europe: Tornado in Germany, heatwave in Spain"
 
 On H2 storage \#h2book
 
-[[-]](2022/06/the-h2-revolution-alvera.html#storage)
+[[-]](../../2022/06/the-h2-revolution-alvera.html#storage)
 
 ---
 
@@ -215,7 +215,7 @@ What is the definition of bear market anyway?
 
 ---
 
-Yep. Don't [jog](2010/04/new-evolution-diet-devany.html) like a
+Yep. Don't [jog](../../2010/04/new-evolution-diet-devany.html) like a
 dumbass..  HIT means spurts of high activity, not bouncing up and down
 rhythmically on bitch Nike shoes
 

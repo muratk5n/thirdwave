@@ -34,7 +34,7 @@ Netherlands and into Germany"
 ---
 
 99 Percent.. The tech sounds like an uber H2 extractor; from methane,
-*and* from ammonia? Both a steam reformer and a cracker.
+*and* from ammonia? Both a steam reformer and a 'cracker'.
 
 Science.org: "[Discovered an] alternative to directly transporting
 hydrogen produced at large scales through steam reforming for
