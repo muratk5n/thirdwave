@@ -95,6 +95,23 @@ a hydrogen powerhouse"
 
 ---
 
+Al Jazeera: "Davos is dead. Amid a pandemic and a cost of living
+crisis, the people have no patience for the virtue signalling of the
+Davos set"
+
+---
+
+It cld be helpful for the new actor too.. No need to ask director what
+s/he wants.. It's like 'look at the shot already there give me that
+(with some reinterp surely)'.
+
+---
+
+Reshooting a movie isn't impossible; they do it all the time. Back to
+the Future had a third of its scenes re-filmed (with MJ Fox).
+
+---
+
 That's crazy. That turns crypto into a speculative asset. Most of
 these coins are badly designed, dont want more morons rushing into
 these things. It will create fragility in the system.
@@ -132,22 +149,6 @@ territory.. Henry Kissinger has urged the West to stop trying to
 inflict a crushing defeat on Russian forces in Ukraine. The veteran US
 statesman said that it would have disastrous consequences for the long
 term stability of Europe
-
----
-
-Amid a pandemic and a cost of living crisis, the people have no
-patience for the virtue signalling of the Davos set.
-
----
-
-It cld be helpful for the new actor too.. No need to ask director what
-s/he wants.. It's like 'look at the shot already there give me that
-(with some reinterp surely)'.
-
----
-
-Reshooting a movie isn't impossible; they do it all the time. Back to
-the Future had a third of its scenes re-filmed (with MJ Fox).
 
 ---
 
