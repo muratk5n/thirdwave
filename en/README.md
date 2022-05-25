@@ -110,9 +110,9 @@ the Future had a third of its scenes re-filmed (with MJ Fox).
 ---
 
 That's crazy. That will help turn crypto even more of a speculative
-asset. Nearly all of coins are incorrectly designed, dont want more
-morons rushing into these things. It will create fragility in the
-system.
+asset. Nearly all of coins are incorrectly designed as currency, dont
+want more people rushing into these things. Such purchases will create
+fragility in the system.
 
 Politico: "FTX, a global crypto exchange led by 30 year-old
 billionaire and political mega-donor Sam Bankman-Fried, has engaged in
