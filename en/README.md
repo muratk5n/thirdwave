@@ -41,10 +41,10 @@ hydrogen from gas mixtures by electrolytically pumping protons across
 the membrane at 800°C, but as the extraction proceeds, temperature
 gradients and entropic effects lead to efficiency drops. Clark et
 al. developed a nickel-based glass-ceramic composite interconnect that
-allowed for the design of a more complex reactor pathway (see the
-Perspective by Shih and Haile). Counterflowing streams balanced heat
-flows and maintained stable operating conditions that enabled 99%
-efficiency of hydrogen recovery"
+allowed for the design of a more complex reactor
+pathway... Counterflowing streams balanced heat flows and maintained
+stable operating conditions that enabled 99% efficiency of hydrogen
+recovery"
 
 [[-]](https://www.science.org/doi/10.1126/science.abj3951)
 
