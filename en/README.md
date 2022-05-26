@@ -129,7 +129,8 @@ was amazon" via @gnoble79
 ---
 
 All religion is at its inception left-wing. Then it is co-opted by the
-system, it becomes a mere extension of it. See [Morris](farmers-foragers-fossils.md#olddeal)
+system, it becomes a mere extension of it.
+See [Morris](2021/05/farmers-foragers-fossils.html#olddeal)
 
 ---
 
