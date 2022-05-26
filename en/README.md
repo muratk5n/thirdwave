@@ -194,7 +194,7 @@ then?
 
 ---
 
-When the transistor density doubles, clock rate can go up 1.4x, while
+"When the transistor density doubles, clock rate can go up 1.4x, while
 power consumption stays the same (despite having twice the number of
 transistors running faster). Ceased to apply [since] ~2005 (because
 leakage became significant), [now]
