@@ -2,188 +2,270 @@
 
 ---
 
-H2 View: "CleanSign receives US DOE grant to develop an ultra-low NOx
-hydrogen burner technology.. The US Department of Energy (DOE) has
-provided a grant in order to support the development of an ultra-low
-NOx hydrogen burner technology which will enable the adoption of
-hydrogen fuel for industrial heating"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hydrogen-powered internal combustion engines could provide another emission-free solution for transportation. <br><br>Learn how <a href="https://twitter.com/Toyota?ref_src=twsrc%5Etfw">@Toyota</a> &amp; <a href="https://twitter.com/YamahaMotorUSA?ref_src=twsrc%5Etfw">@yamahamotorusa</a> joined forces to develop an engine that pushes the boundaries of hydrogen technology. <a href="https://t.co/3XJ9Cgnmw9">https://t.co/3XJ9Cgnmw9</a></p>&mdash; SoCalGas (@socalgas) <a href="https://twitter.com/socalgas/status/1511060577828827139?ref_src=twsrc%5Etfw">April 4, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-H2 View: "PESTECH International Berhad and Hydorgéne de France SA (HDF
-Energy) have partnered to collaborate on green hydrogen production
-from hydro power plants in Cambodia and Malaysia"
+H2 View: "The US Department of Energy’s (DOE) Office of Fossil Energy
+and Carbon Management has awarded two projects more than $12m to
+develop and test key components required for high hydrogen combustion"
 
 ---
 
-Australia to Singapore freight shipping takes about two
-weeks. That is sweet.  Ship NH3, CH2, from there pipeline green gas to
-Malaysia, Thailand, even Vietnam
+H2 View: "Spanish utility company.. Iberdrola.. has announced that the company
+will invest €3bn ($3.2bn) in green hydrogen to accelerate the
+‘European Green Deal"
 
 ---
 
-Financial Review: "Global energy consultancy Wood Mackenzie estimates
-the seaborne trade of hydrogen will grow to 150 million tonnes by
-2050.. Europe alone is expected to import 10 million tonnes of
-hydrogen by 2030. To meet that demand, ports are being specially
-designed to feed into dedicated hydrogen infrastructure across the
-Netherlands and into Germany"
-
-[[-]](https://todayspaper.smedia.com.au/afr/shared/ShowArticle.aspx?doc=AFR%2F2022%2F05%2F23&entity=Ar03801&sk=DC5FB829&mode=text)
+H2 View: "Plasma electrolysers can use wastewater to produce clean
+hydrogen.. German sustainable solutions company Graforce has developed
+plasma electrolysis technology that can produce hydrogen from methane
+and wastewater"
 
 ---
 
-99 Percent.. The tech sounds like an uber H2 extractor; from methane,
-*and* from ammonia? Both a steam reformer and a 'cracker'.
-
-Science.org: "Proton ceramic electrochemical reactors can extract pure
-hydrogen from gas mixtures by electrolytically pumping protons across
-the membrane at 800°C, but as the extraction proceeds, temperature
-gradients and entropic effects lead to efficiency drops. Clark et
-al. developed a nickel-based glass-ceramic composite interconnect that
-allowed for the design of a more complex reactor
-pathway... Counterflowing streams balanced heat flows and maintained
-stable operating conditions that enabled 99% efficiency of hydrogen
-recovery"
-
-[[-]](https://www.science.org/doi/10.1126/science.abj3951)
+H2 View: "Johnson Matthey secures €20m stake in hydrogen pioneer Enapter"
 
 ---
 
-H2 View: "Mote to develop a new wood waste-to-hydrogen production facility in
-California, US"
+H2 Fuel News: "Charbone Hydrogen and the New York State Energy Research and
+Development Authority (NYSERDA) will aim to create a clean hydrogen
+hub in Northeast US"
 
 ---
 
-Company Site: "Mote is a spinout of the carbon removal effort at
-Lawrence Livermore, where Mote CTO Joshuah Stolaroff previously led
-the carbon capture program. Mote’s technology approach draws from the
-Lab’s groundbreaking research and development"
+H2 View: "Large-scale liquid hydrogen storage is set to be explored in
+South Korea, after McDermott’s CB&I partners with Korea Gas
+Corporation (KOGAS)"
 
 ---
 
-Yahoo Finance: "Mote Enters Advanced Stage of Engineering Design for
-Southern California Carbon-Negative Hydrogen Facility"
+H2 Fuel News: "TES Wilhelmshaven hydrogen import terminal gets priority
+project from German Government"
 
 ---
 
-H2 View: "Emerson teams with Toyota Australia to create
-commercial-grade hydrogen production, storage and refuelling
-plants.. As Toyota continues to develop hydrogen refuelling
-infrastructure in Australia, Emerson has been selected to provide its
-advanced automation technology for the refuelling and production
-plants"
+H2 View: "The California Hydrogen Coalition has launched a digital and
+television campaign this week to win support in the California
+legislature for additional funding to develop hydrogen fuelling
+stations across the state"
 
 ---
 
-H2 View: "Air Liquide hydrogen plant officially opened in North Las Vegas"
+H2 View: "Sweden could be set to gain yet another green hydrogen production
+project with Lhyfe and Trelleborgs Energi partnering"
 
 ---
 
-H2 View: "Successful pre-feasibility study could see Mauritania become
-a hydrogen powerhouse"
+H2 View: "A new agreement is set to see the commercialisation of green
+hydrogen in South Korea has been announced by Elogen and Valmax
+Technology Corporation"
 
 ---
 
-Al Jazeera: "Davos is dead. [After] a pandemic and a cost of living
-crisis, the people have no patience for the virtue signalling of the
-Davos set"
+"@PlugPowerInc
+
+Attending the US-Egypt Business Roundtable with the PM of Egypt. The
+PM has emphasized over and over the importance of green hydrogen and
+COP27"
 
 ---
 
-It cld be helpful for the new actor.. No need to ask director what
-s/he wants.. It's like 'look at the shot already there give me that
-(with some reinterp surely)'.
+"@GovSisolak
+
+The Air Liquide facility is now the largest liquid hydrogen production
+and logistics infrastructure project in the world! It will boost
+Nevada’s economy, bringing clean energy, good-paying jobs to our state
+-- and take bold climate action at the same time"
 
 ---
 
-Reshooting a movie isn't impossible; they do it all the time.
-*Back to the Future* had a third of its scenes re-filmed
-(with MJ Fox).
+FT: "Vanguard, the world’s second-largest asset manager, has refused to
+stop new investments in fossil fuel projects"
 
 ---
 
-That's crazy. That will help turn crypto even more of a speculative
-asset. Nearly all coins are incorrectly designed as currency, dont
-want more people rushing into these things, creating fragility in the
-system.
-
-Politico: "FTX, a global crypto exchange led by 30 year-old
-billionaire and political mega-donor Sam Bankman-Fried, has engaged in
-a full-court press convincing the Commodity Futures Trading Commission
-to sign off on its plan to let investors use borrowed money to trade
-crypto around the clock"
+It's highly likely H2 boilers, such as the one sold by [Worcester Bosch](https://www.worcester-bosch.co.uk/hydrogen),
+can handle impurities in fuel (combustion has a way of 'handling' such things
+-by just burning it off-), so ammonia-converted H2 can also be used in a H2
+boiler scenario. 
 
 ---
 
-She surely believes in that political choice, what I'm saying is the
-system will pull people from extremes fitting a certain mold. The
-pro-choice Catholic ends up in Dem leadership, the only Episcopalian
-who is anti-abortion ends up as Fox News anchor. These actors will
-heatedly argue over stuff that could've easily been handled (in fact
-was) years ago. Centrist Democrats created that mess. They committed
-the Original Sin. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
-Abortion is the other hot-button issue Dems helped become this
-entangled mess.. Likely not possible to be in Dem leadership and be
-anti-abortion. NP is Catholic, but can't be against abortion and still
-hold that seat. Not anymore.
+*The Gray Man*, definitely watching that
 
 ---
 
-🤣 🤣 Excommunicated by the Church.
-
-"Pelosi denied Holy Communion by San Francisco archbishop for pushing
-abortion rights"
+Hah someone called the Bene Gesserit in *Dune* "Ninja Nuns". That
+sounds right
 
 ---
 
-That choice was indirectly forced on them by centrist Democrats bcz of
-their need for [triangulation](2021/10/all-too-human.html#triangulation).
-By trying to be too much like Reps on major issues, they pushed them
-further right on social issues, creating deadlock. Dems are the sole
-reason for the culture war. Need less bipartisanship, less unity,
-more division on major stuff. After every school shooting remember,
-it's Bill Clinton's fault.
+"@ebitdaddy90
 
-"@brianklaas
-
-.. Not solving [the gun issue] is a policy choice, made by Republicans"
+My favorite part of investor letters lately is how apparently in the
+current market prices are detached from fundamentals. But a year ago
+when their shitcos were up 10x the market was being totally rational"
 
 ---
 
-Comments show that Kissinger, when he was liked or hated, was always
-acting as a realist. Surely he was part of a lot of unfavorable
-decisions; but he also negotiated an end to the Vietnam War.
+via @KailashConcepts
+
+[CVNA](https://pbs.twimg.com/media/FTjTvnRUAAE7xN3?format=png&name=small)
 
 ---
 
-The Telegraph: "Henry Kissinger: Ukraine must give Russia
-territory.. Kissinger has urged the West to stop trying to inflict a
-crushing defeat on Russian forces in Ukraine. The veteran US statesman
-said that it would have disastrous consequences for the long term
-stability of Europe"
+Who is Garbo? Ross Gerber?
+
+"@ebitdaddy90 
+
+Who remembers the January letter of RV Capital peddling CVNA saying
+the value is $96b vs then cap of $25b (now $4b)? All those pages of
+momentum bro Garbo on culture, brand, scale, and so little on
+liquidity or access to funding. He bought a subprime bank thinking it
+was amazon" via @gnoble79
 
 ---
 
-"@DanDePetris
-
-If you’re only interested in diplomacy when it doesn’t involve
-concessions, then you really aren’t interested in diplomacy.
-
-'Anne Appelbaum NYT: Offering the Russian president a face-saving
-compromise will only enable future aggressions'"
+They wouldn't have known iron, calcium back then, but likely went by
+taste and a general feeling after meal. Dark greens tend to have a
+sharp taste, they wld have experimented with stuff to soften that, and
+provide extra proteins in the meantime; eggs, yogurt would work for
+there. And if after meal person feels full, not quesy, not nauseous,
+you've got yourself a new dish.
 
 ---
 
-"@DanielLDavis1
+Eggs on spinach? It exists. I've seen'em do it man.. An entire egg
+plopped on a bed of spinach. Boom.
 
-It is shocking how easily some pundits suggest the US go to war
-against China over Taiwan, as @gen_jackkeane does... Losing 1000s of
-US troops - and maybe losing US cities to nuclear strikes - doesn't
-concern them"
+---
+
+No wonder the favorite Medi dish/dip with spinach is mixed with
+yogurt.  Spinach is high in iron, yogurt has calcium.
+
+---
+
+Excess iron is bad. What neutralizes it? Calcium they say, and eggs?
+
+---
+
+All religion is at its inception left-wing. Then it is co-opted by the
+system, it becomes a mere extension of the system.
+See [Morris](farmers-foragers-fossils.md#olddeal)
+
+---
+
+Representation is out of whack.. Culture Codes matter more (which is
+Protestan for US), so all of these ppl are 'merican, but to the extent
+their religion effects political choices, the balance is out of whack.
+
+Gallup: "22% of the adult population [in US] identifies as Catholic,
+as opposed to the 67% Catholic representation on the [Supreme Court]"
+
+---
+
+Pro-life position isn't necessarily Christian; but it is definitely
+*Roman* (Catholic). Rome needed soldiers. Now Rome is gone, but some
+of its culture lives on, through the Church.
+
+---
+
+Degenerate discussions on \#MeToo, too much \#Woke is
+Gender. Bulllshit LGBT issues are Gays, Gender. Bizarre denialism,
+culture war around climate is Green, abortion related to God (though
+different religions seem to be interpreting that God differently).
+
+---
+
+US stuck on 5G - Guns, Gays, Green, God, Gender.
+
+---
+
+Crops would be easier to get at so they would be prefered in most
+cases, but that comes with its own social problems (kings, landowning,
+bizarre religions). Humans domesticate plants, then are domesticated
+by them.
+
+---
+
+Hunting, fishing diet needs no 'supplementing'. 
+
+---
+
+Crops and pyramids - they go hand in hand.
+
+"@WSJscience
+
+Scientists discovered ancient Amazonian settlements including pyramids
+as tall as eight-story buildings in Bolivia.. Researchers used a
+helicopter equipped with light detection and ranging (lidar) equipment
+to scan a total area of 77 square miles, since the details of the
+settlements were not visible from the ground..
+
+The settlements are believed to have been built by the Casarabe
+culture in what is now Bolivia between about 600 and 1,500 years
+ago. They successfully cultivated maize and other crops, supplementing
+their diets with protein from hunting and fishing"
+
+---
+
+"Babylonians already knew Newton's Method!". M-f-ker did Babylonians
+know Calculus? No. How could they have discovered Newton's Method
+then?
+
+---
+
+When the transistor density doubles, clock rate can go up 1.4x, while
+power consumption stays the same (despite having twice the number of
+transistors running faster). Ceased to apply [since] ~2005 (because
+leakage became significant), [now]
+
+- Clock speed bounded
+
+- Energy consumption becomes critical
+
+- Drive to many core machines [bcz single 'core' cannot go faster anymore]
+
+[PDF](https://www.ucl.ac.uk/research-it-services/sites/research_it_services/files/socials-20200715-cownie.pdf)
+
+---
+
+Great. Let's surveil more.
+
+WION: "It has come to light that Texas gunman had declared his
+intentions on social media before the attack"
+
+---
+
+That is a win for the outer alliance. 
+
+AFP: "President-elect Ferdinand Marcos Junior says Philippines will
+uphold international ruling against Beijing over disputed South China
+Sea"
 
 ---
 
