@@ -93,28 +93,6 @@ boiler scenario.
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
 *The Gray Man*, definitely watching that
 
 ---
