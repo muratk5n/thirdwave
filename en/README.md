@@ -172,9 +172,9 @@ of its culture lives on, through the Church.
 ---
 
 Degenerate discussions on \#MeToo, too much \#Woke is
-Gender. Bulllshit LGBT issues are Gays, Gender. Bizarre denialism,
-culture war around climate is Green, abortion related to God (though
-different religions seem to be interpreting that God differently).
+Gender. Bulllshit LGBT issues are Gays, denialism, culture war around
+climate is Green, abortion related to God (though different religions
+seem to be interpreting that God differently).
 
 ---
 
