@@ -160,8 +160,8 @@ US stuck on 5G - Guns, Gays, Green, God, Gender.
 
 ---
 
-But 'crops' would be easier to get at in some settings so they would
-be prefered, but that comes with its own social problems (kings,
+'Crops' would be easier to get at in some settings so they would be
+prefered, but that comes with its own social problems (kings,
 landowning, bizarre religions, goat girlfriend). Humans domesticate
 plants, then are domesticated by them.
 
