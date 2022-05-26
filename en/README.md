@@ -135,8 +135,7 @@ system, it becomes a mere extension of it. See [Morris](farmers-foragers-fossils
 
 Representation is out of whack.. Culture Codes matter more (which is
 Protestan for US), the judges are 'merican culturally, but to the
-extent their religion effects political choices, the balance is out of
-whack.
+extent their religion effects political choices, the balance is off.
 
 Gallup: "22% of the adult population [in US] identifies as Catholic,
 as opposed to the 67% Catholic representation on the [Supreme Court]"
