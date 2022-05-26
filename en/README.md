@@ -119,7 +119,7 @@ boiler scenario.
 
 ---
 
-Hah someone called the Bene Gesserit in *Dune* "Ninja Nuns". That
+Hah someone called *Dune* characters Bene Gesserit "Ninja Nuns". That
 sounds right
 
 ---
