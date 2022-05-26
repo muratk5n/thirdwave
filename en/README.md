@@ -121,7 +121,7 @@ Who is Garbo? Ross Gerber?
 "@ebitdaddy90 
 
 Who remembers the January letter of RV Capital peddling CVNA saying
-the value is $96b vs then cap of $25b (now 4b)? All those pages of
+the value is $96b vs then cap of 25b (now 4b)? All those pages of
 momentum bro Garbo on culture, brand, scale, and so little on
 liquidity or access to funding. He bought a subprime bank thinking it
 was amazon" via @gnoble79
