@@ -160,14 +160,14 @@ US stuck on 5G - Guns, Gays, Green, God, Gender.
 
 ---
 
-Crops would be easier to get at so they would be prefered in most
-cases, but that comes with its own social problems (kings, landowning,
-bizarre religions). Humans domesticate plants, then are domesticated
-by them.
+But 'crops' would be easier to get at in some settings so they would
+be prefered, but that comes with its own social problems (kings,
+landowning, bizarre religions). Humans domesticate plants, then are
+domesticated by them.
 
 ---
 
-Hunting, fishing diet needs no 'supplementing'. 
+Hunting, fishing diet needs no 'supplementing' BTW. 
 
 ---
 
@@ -203,7 +203,7 @@ leakage became significant), [now]
 
 - Energy consumption becomes critical
 
-- Drive to many core machines [bcz single 'core' cannot go faster anymore]
+- Drive to many core machines [bcz single 'core' cannot go faster anymore]"
 
 [PDF](https://www.ucl.ac.uk/research-it-services/sites/research_it_services/files/socials-20200715-cownie.pdf)
 
