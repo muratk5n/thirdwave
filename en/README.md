@@ -166,8 +166,8 @@ as opposed to the 67% Catholic representation on the [Supreme Court]"
 ---
 
 Pro-life position isn't necessarily Christian; but it is definitely
-*Roman* (Catholic). Rome needed soldiers. Now Rome is gone, but some
-of its culture lives on, through the Church.
+*Roman* (Catholic). Rome needed soldiers. Rome is gone, but some of
+its culture lives on, through the Church.
 
 ---
 
