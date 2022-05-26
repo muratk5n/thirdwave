@@ -259,9 +259,9 @@ three was a chattel slave, and few if any farming societies did
 without slavery or serfdom altogether. Forced labor, like patriarchy,
 was functionally necessary to farming societies..
 
-The Old Deal
-
 <a name='olddeal'/>
+
+The Old Deal
 
 [The] image of the king as his people’s shepherd, dealing directly
 with the divine sphere on their behalf and protecting them from
@@ -274,16 +274,6 @@ inequality together and justifying both. Virtue and power followed
 each other: because the gods loved the rulers, the rulers were rich,
 and the fact that the rulers were rich showed that the gods loved
 them...
-
-When protests and threats failed to change elite behavior, farmers
-sometimes took direct action, but when they did do this, they
-regularly insisted that they were attacking only the local authorities
-rather than the ultimate authority, be he king, emperor, or pope. The
-distant ruler, they asserted, remained virtuous, but his underlings
-were betraying him (“The tsar is good, but the boyars are bad,” went a
-Russian saying).  By attacking these wicked minions, the logic of
-peasant resistance said, rebels were actually helping the king
-maintain the Old Deal...
 
 Socrates, the Buddha, Zoroaster, and Jesus [called Axial thinkers]
 .. seem to have agreed on the general point of the exercise: that

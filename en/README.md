@@ -36,22 +36,15 @@ Netherlands and into Germany"
 99 Percent.. The tech sounds like an uber H2 extractor; from methane,
 *and* from ammonia? Both a steam reformer and a 'cracker'.
 
-Science.org: "[Discovered an] alternative to directly transporting
-hydrogen produced at large scales through steam reforming for
-applications such as vehicular fueling is smaller scale, on-site
-production from methane or carriers such as ammonia. The hydrogen
-produced must be separated from co-produced carbon dioxide or
-nitrogen.
-
-Proton ceramic electrochemical reactors can extract pure hydrogen from
-gas mixtures by electrolytically pumping protons across the membrane
-at 800°C, but as the extraction proceeds, temperature gradients and
-entropic effects lead to efficiency drops. Clark et al. developed a
-nickel-based glass-ceramic composite interconnect that allowed for the
-design of a more complex reactor pathway (see the Perspective by Shih
-and Haile). Counterflowing streams balanced heat flows and maintained
-stable operating conditions that enabled 99% efficiency of hydrogen
-recovery"
+Science.org: "Proton ceramic electrochemical reactors can extract pure
+hydrogen from gas mixtures by electrolytically pumping protons across
+the membrane at 800°C, but as the extraction proceeds, temperature
+gradients and entropic effects lead to efficiency drops. Clark et
+al. developed a nickel-based glass-ceramic composite interconnect that
+allowed for the design of a more complex reactor pathway (see the
+Perspective by Shih and Haile). Counterflowing streams balanced heat
+flows and maintained stable operating conditions that enabled 99%
+efficiency of hydrogen recovery"
 
 [[-]](https://www.science.org/doi/10.1126/science.abj3951)
 
