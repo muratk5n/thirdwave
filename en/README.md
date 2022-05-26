@@ -150,29 +150,6 @@ was amazon" via @gnoble79
 
 ---
 
-They wouldn't have known iron, calcium back then, but likely went by
-taste and a general feeling after meal. Dark greens tend to have a
-sharp taste, they wld have experimented with stuff to soften that, and
-provide extra proteins in the meantime; eggs, yogurt would work for
-there. And if after meal person feels full, not quesy, not nauseous,
-you've got yourself a new dish.
-
----
-
-Eggs on spinach? It exists. I've seen'em do it man.. An entire egg
-plopped on a bed of spinach. Boom.
-
----
-
-No wonder the favorite Medi dish/dip with spinach is mixed with
-yogurt.  Spinach is high in iron, yogurt has calcium.
-
----
-
-Excess iron is bad. What neutralizes it? Calcium they say, and eggs?
-
----
-
 All religion is at its inception left-wing. Then it is co-opted by the
 system, it becomes a mere extension of the system.
 See [Morris](farmers-foragers-fossils.md#olddeal)
