@@ -8,24 +8,25 @@ Pinned Tweet
 
 ---
 
-H2 View: "Planned for Oman’s Salalah Free Zone, [a new] project will
+H2 View: "Planned for Oman’s.. Free Zone, [a new] project will
 integrate renewable power from solar, wind and storage; production of
 hydrogen by electrolysis; production of nitrogen by air separation;
-and production of green ammonia.
+and production of green ammonia...
 
-Seifi Ghasemi, Chairman, President and CEO at Air Products, said, “We
-are delighted and honoured to work with the government of Oman to
-develop this multibillion-dollar project, which would be similar to
-the world-scale green hydrogen project we are implementing with our
-partners in NEOM in the Kingdom of Saudi Arabia"
+CEO at Air Products, said, 'We are delighted and honoured to work with
+the government of Oman to develop this multibillion-dollar project,
+which would be similar to the world-scale green hydrogen project we
+are implementing with our partners in NEOM in the Kingdom of Saudi
+Arabia'"
 
 ---
 
 Need to treat electricity like the plague. Play whack-a-mole with
-it. Whenever it is generated, make it go away; use it (through an
-electrolyzer) to produce H2, send gas over the pipeline, done. Or
-convert to ammonia, ship it overseas on large ships; no more
-electricity.
+it. Whenever it is generated, use it and make it go away; run it
+through an electrolyzer, produce H2, then send the gas over the
+pipeline, done. Or convert to ammonia, ship it overseas on large
+ships. The longer energy stays in this inefficient form, the worse
+it is. 
 
 ---
 
