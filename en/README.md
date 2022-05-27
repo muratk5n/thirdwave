@@ -2,225 +2,103 @@
 
 ---
 
+Pinned Tweet
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hydrogen-powered internal combustion engines could provide another emission-free solution for transportation. <br><br>Learn how <a href="https://twitter.com/Toyota?ref_src=twsrc%5Etfw">@Toyota</a> &amp; <a href="https://twitter.com/YamahaMotorUSA?ref_src=twsrc%5Etfw">@yamahamotorusa</a> joined forces to develop an engine that pushes the boundaries of hydrogen technology. <a href="https://t.co/3XJ9Cgnmw9">https://t.co/3XJ9Cgnmw9</a></p>&mdash; SoCalGas (@socalgas) <a href="https://twitter.com/socalgas/status/1511060577828827139?ref_src=twsrc%5Etfw">April 4, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-H2 View: "The US Department of Energy’s (DOE) Office of Fossil Energy
-and Carbon Management has awarded two projects more than $12m to
-develop and test key components required for high hydrogen combustion"
+H2 View: "Planned for Oman’s Salalah Free Zone, [a new] project will
+integrate renewable power from solar, wind and storage; production of
+hydrogen by electrolysis; production of nitrogen by air separation;
+and production of green ammonia.
+
+Seifi Ghasemi, Chairman, President and CEO at Air Products, said, “We
+are delighted and honoured to work with the government of Oman to
+develop this multibillion-dollar project, which would be similar to
+the world-scale green hydrogen project we are implementing with our
+partners in NEOM in the Kingdom of Saudi Arabia"
 
 ---
 
-H2 View: "Spanish utility company.. Iberdrola.. has announced that the company
-will invest €3bn ($3.2bn) in green hydrogen to accelerate the
-‘European Green Deal"
+Need to treat electricity like the plague. Play whack-a-mole with
+it. Whenever it is generated, make it go away; use it (through an
+electrolyzer) to produce H2, send gas over the pipeline, done. Or
+convert to ammonia, ship it overseas on large ships; no more
+electricity.
 
 ---
 
-H2 View: "Plasma electrolysers can use wastewater to produce clean
-hydrogen.. German sustainable solutions company Graforce has developed
-plasma electrolysis technology that can produce hydrogen from methane
-and wastewater"
+The grid 'cannot take it' because it is defective technology. Need to
+transmit molecules (renewable gas), and convert to electricity as
+required within cities. The crux of all storage, transmission, and
+even end-use needs to be based on molecules. It will be more
+[efficient](https://pbs.twimg.com/media/EvdKNhvXAAE9Rr2?format=png&name=small)
+that way. The 10/8 rule is an engineering fact.
+
+"We will bring more renewables online but the grid won't take it, so we
+need to update the grid"
 
 ---
 
-H2 View: "Johnson Matthey secures €20m stake in hydrogen pioneer Enapter"
+H2 Energy Book, Zohouri: "The need to reduce CO2 emissions has pushed
+towards creation of new 'clean' electricity production paths, such as
+photovoltaic or wind power, with hydropower still in use. Although the
+number of facilities has exploded mostly because of subsidies, these
+facilities now allow for a significant production of renewable
+electricity, which can reach more than 50% of total electricity
+production, depending on the country and weather conditions.
+
+Electricity production unfortunately has a major drawback:
+variability. Mainly depends on meteorological conditions such as wind
+and sunshine. Even if forecasts are fairly accurate, production maxima
+do not always coincide with consumption, resulting in higher than
+demand production; hence, there arises the need to be able to store
+this excess electricity for later use, regardless of its form...
+
+What technology should be used to store this excess electricity? The
+first solution that comes to mind is batteries. Although some have
+relatively large storage capacity, costs and limited lifetime do not
+allow for large-scale use. Other solutions exist, but all are limited
+in their storage capacity, compared to expected surpluses.
+
+Apart from direct storage of electricity, the other approach is to
+convert it into another form to be able to store it. This is where
+electrolysis comes into play, i.e. conversion to hydrogen and oxygen,
+hence the name power-to-gas"
 
 ---
 
-H2 Fuel News: "Charbone Hydrogen and the New York State Energy Research and
-Development Authority (NYSERDA) will aim to create a clean hydrogen
-hub in Northeast US"
+@Bitfinexed
+
+Tether likely to lose over half a billion dollars from the Celsius
+Ponzi scam implosion. Don't worry, they'll start a new Ponzi scam to
+rip off everyone to make the money back.
 
 ---
 
-H2 View: "Large-scale liquid hydrogen storage is set to be explored in
-South Korea, after McDermott’s CB&I partners with Korea Gas
-Corporation (KOGAS)"
+US News: "[Ray] Liotta always assumed he was mostly Italian — the
+movies did too. But later in life while searching for his birth
+parents, he discovered he's actually Scottish"
 
 ---
 
-H2 Fuel News: "TES Wilhelmshaven hydrogen import terminal gets priority
-project from German Government"
+"@peterbakernyt
+
+It used to be kids were twice as likely to die in auto accidents than
+by gunshot. But in 2020 for the first time, firearms became the
+leading cause of death among American kids, surpassing motor vehicles".
 
 ---
 
-H2 View: "The California Hydrogen Coalition has launched a digital and
-television campaign this week to win support in the California
-legislature for additional funding to develop hydrogen fuelling
-stations across the state"
-
----
-
-H2 View: "Sweden could be set to gain yet another green hydrogen production
-project with Lhyfe and Trelleborgs Energi partnering"
-
----
-
-H2 View: "A new agreement is set to see the commercialisation of green
-hydrogen in South Korea has been announced by Elogen and Valmax
-Technology Corporation"
-
----
-
-"@PlugPowerInc
-
-Attending the US-Egypt Business Roundtable with the PM of Egypt. The
-PM has emphasized over and over the importance of green hydrogen and
-COP27"
-
----
-
-"@GovSisolak
-
-The Air Liquide facility is now the largest liquid hydrogen production
-and logistics infrastructure project in the world! It will boost
-Nevada’s economy, bringing clean energy, good-paying jobs to our state
--- and take bold climate action at the same time"
-
----
-
-FT: "Vanguard, the world’s second-largest asset manager, has refused to
-stop new investments in fossil fuel projects"
-
----
-
-It's highly likely H2 boilers, such as the one sold by [Worcester Bosch](https://www.worcester-bosch.co.uk/hydrogen),
-can handle impurities in fuel (combustion has a way of 'handling' such things
--by just burning it off-), so ammonia-converted H2 can also be used in a H2
-boiler scenario. 
-
----
-
-*The Gray Man*, definitely watching that
-
----
-
-Hah someone called *Dune* characters Bene Gesserit "Ninja Nuns". That
-sounds right
-
----
-
-"@ebitdaddy90
-
-My favorite part of investor letters lately is how apparently in the
-current market prices are detached from fundamentals. But a year ago
-when their shitcos were up 10x the market was being totally rational"
-
----
-
-via @KailashConcepts
-
-[CVNA](https://pbs.twimg.com/media/FTjTvnRUAAE7xN3?format=png&name=small)
-
----
-
-Who is Garbo? Ross Gerber?
-
-"@ebitdaddy90 
-
-Who remembers the January letter of RV Capital peddling CVNA saying
-the value is $96b vs then cap of 25b (now 4b)? All those pages of
-momentum bro Garbo on culture, brand, scale, and so little on
-liquidity or access to funding. He bought a subprime bank thinking it
-was amazon" via @gnoble79
-
----
-
-All religion is at its inception left-wing. Then it is co-opted by the
-system, it becomes a mere extension of it.
-See [Morris](2021/05/farmers-foragers-fossils.html#olddeal)
-
----
-
-Representation is out of whack.. Culture Codes matter more (which is
-Protestan for US), the judges are 'merican culturally, but to the
-extent their religion effects political choices, the balance is off.
-
-Gallup: "22% of the adult population [in US] identifies as Catholic,
-as opposed to the 67% Catholic representation on the [Supreme Court]"
-
----
-
-Pro-life position isn't necessarily Christian; but it is definitely
-*Roman* (Catholic). Rome needed soldiers. Rome is gone, but some of
-its culture lives on, through the Church.
-
----
-
-Degenerate discussions on \#MeToo, too much \#Woke is
-Gender. Bulllshit LGBT issues are Gays, denialism, culture war around
-climate is Green, abortion related to God (though different religions
-seem to be interpreting that God differently).
-
----
-
-US stuck on 5G - Guns, Gays, Green, God, Gender.
-
----
-
-'Crops' would be easier to get at in some settings so they would be
-prefered, but that comes with its own social problems (kings,
-landowning, bizarre religions, goat girlfriend). Humans domesticate
-plants, then are domesticated by them.
-
----
-
-Hunting, fishing diet needs no 'supplementing' BTW. 
-
----
-
-Crops and pyramids - they go hand in hand.
-
-"@WSJscience
-
-Scientists discovered ancient Amazonian settlements including pyramids
-as tall as eight-story buildings in Bolivia.. Researchers used a
-helicopter equipped with light detection and ranging (lidar) equipment
-to scan a total area of 77 square miles, since the details of the
-settlements were not visible from the ground..
-
-The settlements are believed to have been built by the Casarabe
-culture in what is now Bolivia between about 600 and 1,500 years
-ago. They successfully cultivated maize and other crops, supplementing
-their diets with protein from hunting and fishing"
-
----
-
-"Babylonians already knew Newton's Method!". M-f-ker did Babylonians
-know Calculus? No. How could they have discovered Newton's Method
-then?
-
----
-
-"When the transistor density doubles, clock rate can go up 1.4x, while
-power consumption stays the same (despite having twice the number of
-transistors running faster). Ceased to apply [since] ~2005 (because
-leakage became significant), [now]
-
-- Clock speed bounded
-
-- Energy consumption becomes critical
-
-- Drive to many core machines [bcz single 'core' cannot go faster anymore]"
-
-[PDF](https://www.ucl.ac.uk/research-it-services/sites/research_it_services/files/socials-20200715-cownie.pdf)
-
----
-
-Great. Let's surveil more.
-
-WION: "It has come to light that Texas gunman had declared his
-intentions on social media before the attack"
-
----
-
-That is a win for the outer alliance. 
-
-AFP: "President-elect Ferdinand Marcos Junior says Philippines will
-uphold international ruling against Beijing over disputed South China
-Sea"
+If Brits did not force the partition in India creating Pakistan,
+Afghanistan "problem" would perhaps be easier to handle; India would
+have a border with Afghanistan instead of Pakistan, the "porous"
+border between PAK and AFG (official look other way while fighters
+come and go) could have been less of an issue. The Taliban insurgency
+then benefited a lot from that border, being next to Pakistan, their
+intel services. It kept the alive, then one day they came back. All
+thanks to Brits.
 
 ---
 
