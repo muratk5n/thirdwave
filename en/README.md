@@ -41,12 +41,12 @@ is.
 
 ---
 
-The grid 'cannot take it' because it is defective technology. Need to
-transmit molecules (renewable gas), and convert to electricity as
-required within cities. The crux of all storage, transmission, and
-even end-use needs to be based on molecules. It will be more
-[efficient](https://pbs.twimg.com/media/EvdKNhvXAAE9Rr2?format=png&name=small)
-that way. 
+The grid 'cannot take it' because it is defective, inferior
+technology. Need to transmit molecules (renewable gas), and convert to
+electricity as required within cities. The crux of all storage,
+transmission, and even end-use needs to be based on molecules. It will
+be more [efficient](https://pbs.twimg.com/media/EvdKNhvXAAE9Rr2?format=png&name=small)
+that way.
 
 "We will bring more renewables online but the grid won't take it, so we
 need to update the grid"
