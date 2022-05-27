@@ -8,6 +8,18 @@ Pinned Tweet
 
 ---
 
+H2 View: "Three projects in Chile could double world electrolyser capacity..
+
+The Government organisation signed three agreements with GNL Quintera,
+CAP SA, and Air Liquide, to develop the first industry-scale green
+hydrogen production plants in Chile.
+
+The three projects, set to launch in December 2025, are part of six
+projects selected by Corfo in December 2021 and are hoped to bring
+$1bn in investments and produce 45,000 tonnes of hydrogen a year"
+
+---
+
 H2 View: "Planned for Oman’s.. Free Zone, [a new] project will
 integrate renewable power from solar, wind and storage; production of
 hydrogen by electrolysis; production of nitrogen by air separation;
