@@ -53,7 +53,8 @@ need to update the grid"
 
 ---
 
-H2 Energy Book, Zohouri: "The need to reduce CO2 emissions has pushed
+H2 Energy [Book](https://www.amazon.com/Hydrogen-Energy-Challenges-Solutions-Cleaner/dp/3030066657),
+Zohouri: "The need to reduce CO2 emissions has pushed
 towards creation of new 'clean' electricity production paths, such as
 photovoltaic or wind power, with hydropower still in use. Although the
 number of facilities has exploded mostly because of subsidies, these
