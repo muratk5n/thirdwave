@@ -27,7 +27,7 @@ grid. That is why some say it is foolish to try to switch over to
 electric heating — the power grid could not cope without massive
 expansion [..]
 
-<img width="96%" src="https://pbs.twimg.com/media/EvdKNhvXAAE9Rr2?format=png&name=small"/>
+<img width="96%" src="wirespipes_01.png"/>
 
 We have a polarity of views – essentially between backers of 'pipes
 and 'wires'. Moving the context to the climate debate, the electric
