@@ -33,11 +33,11 @@ Arabia'"
 ---
 
 Need to treat electricity like the plague. Play whack-a-mole with
-it. Whenever it is generated, use it and make it go away; run it
-through an electrolyzer, produce H2, then send the gas over the
-pipeline, done. Or convert to ammonia, ship it overseas on large
-ships. The longer energy stays in this inefficient form, the worse
-it is. 
+it. Whenever it is generated, use it and make it go away; quash
+it. Run it through an electrolyzer, produce H2, then send the gas over
+the pipeline, done. Or convert to ammonia, ship it overseas on large
+ships. The longer energy stays in this inefficient form, the worse it
+is.
 
 ---
 
