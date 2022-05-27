@@ -35,7 +35,7 @@ transmit molecules (renewable gas), and convert to electricity as
 required within cities. The crux of all storage, transmission, and
 even end-use needs to be based on molecules. It will be more
 [efficient](https://pbs.twimg.com/media/EvdKNhvXAAE9Rr2?format=png&name=small)
-that way. The 10/8 rule is an engineering fact.
+that way. 
 
 "We will bring more renewables online but the grid won't take it, so we
 need to update the grid"
@@ -70,11 +70,11 @@ hence the name power-to-gas"
 
 ---
 
-@Bitfinexed
+"@Bitfinexed
 
 Tether likely to lose over half a billion dollars from the Celsius
 Ponzi scam implosion. Don't worry, they'll start a new Ponzi scam to
-rip off everyone to make the money back.
+rip off everyone to make the money back"
 
 ---
 
