@@ -108,9 +108,9 @@ Afghanistan "problem" would perhaps be easier to handle; India would
 have a border with Afghanistan instead of Pakistan, the "porous"
 border between PAK and AFG (official look other way while fighters
 come and go) could have been less of an issue. The Taliban insurgency
-then benefited a lot from that border, being next to Pakistan, their
-intel services. It kept the alive, then one day they came back. All
-thanks to Brits.
+back then benefited hugely from that border, being next to Pakistan,
+their intel services. It kept them alive, then one day as we all know
+they came back. All thanks to Brits.
 
 ---
 
