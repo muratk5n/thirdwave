@@ -46,11 +46,11 @@ high-purity hydrogen recovery"
 
 ---
 
-"Kidnappings. Outbreaks. Earthquakes. The president assassinated — this
-time in his bedroom.How is it possible, many ask, that Haiti shares an
-island with the Dominican Republic, with its underground subway
-system, health care coverage, public schools, teeming resorts and
-impressive stretches of economic growth? Corruption is the usual
+"Kidnappings. Outbreaks. Earthquakes. The president assassinated —
+this time in his bedroom. How is it possible, many ask, that Haiti
+shares an island with the Dominican Republic, with its underground
+subway system, health care coverage, public schools, teeming resorts
+and impressive stretches of economic growth? Corruption is the usual
 explanation..
 
 [I]f Haiti had not been forced to pay its former slave masters, one
