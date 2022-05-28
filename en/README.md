@@ -97,9 +97,9 @@ transmission.
 
 ---
 
-Highway ♪♬ to-the ♪♬ Danger Zone ♪♬ Wa wa wawawa
+♪♬ Gonna take it right ♪♬ into the ♪♬ Danger Zone ♪♪
 
-♪♬ Gonna take it right ♪♬ into the ♪♬ Danger Zone ♪♪ Wa wa wawawa
+Wa wa wawawa
 
 ---
 
