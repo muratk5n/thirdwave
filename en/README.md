@@ -128,11 +128,11 @@ dollars. Both tokens are now essentially worthless.
 
 ---
 
-Oh yes but they didnt have a Bill Clinton, or the centrist Democratic
+Oh yes but they didn't have a Bill Clinton, or the centrist Democratic
 Party.
 
-US shootings: Norway and Finland have similar levels of gun ownership,
-but far less gun crime
+"Norway and Finland have similar levels of gun ownership, but far less
+gun crime"
 
 ---
 
