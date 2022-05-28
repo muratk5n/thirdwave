@@ -126,7 +126,7 @@ was amazon" via @gnoble79
 
 All religion is at its inception left-wing. Then it is co-opted by the
 system, it becomes a mere extension of it.
-See [Morris](2021/05/farmers-foragers-fossils.html#olddeal)
+See [Morris](../../2021/05/farmers-foragers-fossils.html#olddeal)
 
 ---
 
@@ -359,7 +359,7 @@ abortion rights"
 ---
 
 That choice was indirectly forced on them by centrist Democrats bcz of
-their need for [triangulation](2021/10/all-too-human.html#triangulation).
+their need for [triangulation](../../2021/10/all-too-human.html#triangulation).
 By trying to be too much like Reps on major issues, they pushed them
 further right on social issues, creating deadlock. Dems are the sole
 reason for the culture war. Need less bipartisanship, less unity,

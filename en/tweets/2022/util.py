@@ -158,5 +158,5 @@ if __name__ == "__main__":
     plt.show()
     '''
 
-    fetch_ukr_war_map(datetime.datetime(2022,5,19))
+    fetch_ukr_war_map(datetime.datetime(2022,5,27))
     

@@ -1,4 +1,5 @@
 import datetime, sys, os, re, urllib.request
+import datetime, random
 
 if len(sys.argv) < 2:
     print ("options: week | years")
@@ -16,6 +17,11 @@ if sys.argv[1] == 'years':
         os.system("echo '# %d\n' > %d/README.md" % (year,year))
         os.system("python -u gen.py %d >> %d/README.md" % (year,year))
 
+if sys.argv[1] == 'release':
+    seed = int(datetime.datetime.now().strftime("%Y%m%d"))
+    random.seed(seed)
+    print (random.choice([False,True]))
+    
 if sys.argv[1] == 'twimg':
     # python -u build.py twimg tweets/2022/week01.md
     fin = sys.argv[2]
