@@ -8,110 +8,203 @@ Pinned Tweet
 
 ---
 
-H2 View: "Three projects in Chile could double world electrolyser
-capacity.. The Government organisation signed three agreements with
-GNL Quintera, CAP SA, and Air Liquide, to develop the first
-industry-scale green hydrogen production plants in Chile.
-
-The three projects, set to launch in December 2025, are part of six
-projects selected by Corfo in December 2021 and are hoped to bring
-$1bn in investments and produce 45,000 tonnes of hydrogen a year"
+H2 View: "Leading European healthcare and tech-related company
+independent investment bank Bryan Garnier was Lhyfe’s joint global
+coordinator and joint bookrunner at the green hydrogen company’s €110
+million IPO on Euronext Paris"
 
 ---
 
-H2 View: "Planned for Oman’s.. Free Zone, [a new] project will
-integrate renewable power from solar, wind and storage; production of
-hydrogen by electrolysis; production of nitrogen by air separation;
-and production of green ammonia...
-
-CEO at Air Products, said, 'We are delighted and honoured to work with
-the government of Oman to develop this multibillion-dollar project,
-which would be similar to the world-scale green hydrogen project we
-are implementing with our partners in NEOM in the Kingdom of Saudi
-Arabia'"
+H2 Fuel News: "The Québec Government in Canada has released it Québec
+Green Hydrogen and Bioenergy Strategy to accelerate the production,
+distribution and use of green hydrogen and bioenergy"
 
 ---
 
-Need to treat electricity like the plague. Play whack-a-mole with
-it. Whenever it is generated, use it and make it go away; quash
-it. Run it through an electrolyzer, produce H2, then send the gas over
-the pipeline, done. Or convert to ammonia, ship it overseas on large
-ships. The longer energy stays in this inefficient form, the worse it
-is.
+H2 View: "Queensland puts A$2m into local wastewater hydrogen
+project.. Goondiwindi Wastewater Treatment Plant (WWTP) in Queensland,
+Australia, is set to expand into hydrogen production, using solar
+energy following A$2m ($1.4m) of state funding"
 
 ---
 
-The grid 'cannot take it' because it is defective, inferior
-technology. Need to transmit molecules (renewable gas), and convert to
-electricity as required within cities. The crux of all storage,
-transmission, and even end-use needs to be based on molecules. It will
-be more [efficient](https://pbs.twimg.com/media/EvdKNhvXAAE9Rr2?format=png&name=small)
-that way.
-
-"We will bring more renewables online but the grid won't take it, so we
-need to update the grid"
+H2 View: "Chemours explores hydrogen electrolysis and fuel cell
+investments. Global chemistry company, Chemours Company has said it is
+exploring hydrogen economy capacity investments which could support
+the growth of electrolysis and fuel cell technology"
 
 ---
 
-H2 Energy [Book](https://www.amazon.com/Hydrogen-Energy-Challenges-Solutions-Cleaner/dp/3030066657),
-Zohouri: "The need to reduce CO2 emissions has pushed
-towards creation of new 'clean' electricity production paths, such as
-photovoltaic or wind power, with hydropower still in use. Although the
-number of facilities has exploded mostly because of subsidies, these
-facilities now allow for a significant production of renewable
-electricity, which can reach more than 50% of total electricity
-production, depending on the country and weather conditions.
+H2 Fuel News: "Feasibility study to clean up hydrogen production in
+Kansas, US announced.. The study will evaluate the applications of
+carbon capture and hydrogen purification in an effort to reduce the
+company’s emissions....
 
-Electricity production unfortunately has a major drawback:
-variability. Mainly depends on meteorological conditions such as wind
-and sunshine. Even if forecasts are fairly accurate, production maxima
-do not always coincide with consumption, resulting in higher than
-demand production; hence, there arises the need to be able to store
-this excess electricity for later use, regardless of its form...
-
-What technology should be used to store this excess electricity? The
-first solution that comes to mind is batteries. Although some have
-relatively large storage capacity, costs and limited lifetime do not
-allow for large-scale use. Other solutions exist, but all are limited
-in their storage capacity, compared to expected surpluses.
-
-Apart from direct storage of electricity, the other approach is to
-convert it into another form to be able to store it. This is where
-electrolysis comes into play, i.e. conversion to hydrogen and oxygen,
-hence the name power-to-gas"
+Honeywell claims its technology can recover more than 99% of carbon
+dioxide emissions in the existing hydrogen plant, while increasing
+high-purity hydrogen recovery"
 
 ---
 
-"@Bitfinexed
-
-Tether likely to lose over half a billion dollars from the Celsius
-Ponzi scam implosion. Don't worry, they'll start a new Ponzi scam to
-rip off everyone to make the money back"
-
----
-
-US News: "[Ray] Liotta always assumed he was mostly Italian — the
-movies did too. But later in life while searching for his birth
-parents, he discovered he's actually Scottish"
+Paper: "The performance of high-yield bonds in the US domestic market
+mirrors economic performance in the US overall. The yield spread of
+high-yield debt over investment grade corporate bonds is more of a
+function of the general outlook of the economy than of the health of
+the issuing companies themselves, although the latter is obviously
+important"
 
 ---
 
-"@peterbakernyt
 
-It used to be kids were twice as likely to die in auto accidents than
-by gunshot. But in 2020 for the first time, firearms became the
-leading cause of death among American kids, surpassing motor vehicles".
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
-If Brits did not force the partition in India creating Pakistan,
-Afghanistan "problem" would perhaps be easier to handle; India would
-have a border with Afghanistan instead of Pakistan, the "porous"
-border between PAK and AFG (official look other way while fighters
-come and go) could have been less of an issue. The Taliban insurgency
-back then benefited hugely from that border, being next to Pakistan,
-their intel services. It kept them alive, then one day as we all know
-they came back. All thanks to Brits.
+"Kidnappings. Outbreaks. Earthquakes. The president assassinated — this
+time in his bedroom.How is it possible, many ask, that Haiti shares an
+island with the Dominican Republic, with its underground subway
+system, health care coverage, public schools, teeming resorts and
+impressive stretches of economic growth? Corruption is the usual
+explanation..
+
+[I]f Haiti had not been forced to pay its former slave masters, one
+team of international scholars recently estimated, the country’s per
+capita income in 2018 could have been almost six times as large —
+about the same as in its next-door neighbor, the Dominican
+Republic.They called the burden imposed on Haiti “perhaps the single
+most odious sovereign debt in history.'"
+
+[[-]](https://www.nytimes.com/2022/05/20/world/americas/haiti-history-colonized-france.html)
+
+---
+
+The 'gun problem' cannot be fixed by simply harping about gun control.
+'Guns are killing people, fix guns'. Nope. Centrist Dems starting with
+Bill Clinton created a culture war around this issue, so one-step
+solution will meet intense objection. But if all parties are
+ideologically distinct, seperate and secure in their seperation
+(dividers not uniters) then 5G issues will find easier agreement. We
+know this can happen because it happened before; Reagan was for gun
+control. Nixon founded the EPA. Two steps; fix ideology first, gun
+agreement later.
+
+---
+
+The world is sufficiently fucked that one-step solution are no more
+enough to fix problems. We cant fix the 'green energy problem' by
+simply producing 'green electricity'. What will come after? How do you
+transmit the energy? 'Well we just extend existing transmission lines'
+(it wont work). So the one step taken to make electricity 'green'
+failed. Two-steps was needed not just one. First step; the energy
+transmission mechanism changes, becomes gas based. Second step; Green
+energy is produced, converted into green gas, using the new
+transmission.
+
+---
+
+Highway ♪♬ to-the ♪♬ Danger Zone ♪♬ Wa wa wawawa
+
+♪♬ Gonna take it right ♪♬ into the ♪♬ Danger Zone ♪♪ Wa wa wawawa
+
+---
+
+A lot riding on Maverick
+
+---
+
+Bloomberg: "Theathers pin hopes on new *Top Gun*"
+
+---
+
+"@0xfoobar
+
+Luna 2 investors"
+
+[[-]](https://twitter.com/0xfoobar/status/1530409704387657729)
+
+---
+
+Luna 2.0? 
+
+---
+
+Luna and UST had a combined market value of almost 60 billion
+dollars. Both tokens are now essentially worthless.
+
+---
+
+Oh yes but they didnt have a Bill Clinton, or the centrist Democratic
+Party.
+
+US shootings: Norway and Finland have similar levels of gun ownership,
+but far less gun crime
+
+---
+
+Yes this whole thing will be solved in a jif by skillful Twitter
+put-downs. \#Guns
+
+---
+
+That won't happen; at worst their military takes over, as they've done
+many times before, and they run the country along with its nukes.
+Obviously a coup would be bad.
+
+"Pakistan's could become a failed state and their nukes could fall in
+the hands of extremists"
+
+---
+
+You really haven't done shit have you..?
+
+Why does UN exist anyway?
+
+"UN’s Bachelet wraps up Xinjiang trip without seeing where China locks
+up Uyghur activists"
+
+---
+
+In what sounds like bargaining rather than an unconditional promise,
+Russian President Vladimir Putin toyed with the idea of reopening the
+Odesa port for grain exports — while again calling for the lifting of
+Western sanctions against Russia.
+
+Putin made the remarks during a call Saturday with French President
+Emmanuel Macron and German Chancellor Olaf Scholz, as concerns
+worsened over a looming food crisis due to the inability to export
+Ukraine’s grain amid the conflict.
+
+---
+
+"China signs deal with Samoa as Australia vows Pacific Islands plan"
+
+---
+
+Live: More western arms supplies to Ukraine risks ‘further
+destabilisation’, Putin warns
+
+---
+
+Wrote about that place 3 weeks ago. It's gone. Shit is no joke.
+
+NDTV: "Russia Confirms Capture of Eastern Ukraine Town Lyman"
 
 ---
 
