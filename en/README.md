@@ -65,8 +65,8 @@ most odious sovereign debt in history.'"
 ---
 
 The 'gun problem' cannot be fixed by simply harping about gun control.
-'Guns are killing people, fix guns'. Nope. Centrist Dems starting with
-Bill Clinton created a culture war around this issue, so one-step
+'Guns are killing people, fix guns'. Nope. Centrist Dems starting
+during the 90s created a culture war around this issue, so one-step
 solution will meet intense objection. But if all parties are
 ideologically distinct, seperate and secure in their seperation
 (dividers not uniters) then 5G issues will find easier agreement. We
