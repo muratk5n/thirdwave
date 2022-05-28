@@ -171,6 +171,10 @@ destabilisation’, Putin warns"
 
 ---
 
+That was 'too slow'? A lot of military experts here
+
+---
+
 Wrote about that place 3 weeks ago. It's gone. Shit is no joke.
 
 NDTV: "Russia Confirms Capture of Eastern Ukraine Town Lyman"
