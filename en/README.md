@@ -136,7 +136,7 @@ gun crime"
 
 ---
 
-Yes this whole thing will be solved in a jif by skillful Twitter
+Sure this whole thing will be solved in a jif by skillful Twitter
 put-downs. \#Guns
 
 ---
