@@ -123,8 +123,8 @@ Luna 2.0?
 
 ---
 
-Luna and UST had a combined market value of almost 60 billion
-dollars. Both tokens are now essentially worthless.
+"Luna and UST had a combined market value of almost 60 billion
+dollars. Both tokens are now essentially worthless"
 
 ---
 
