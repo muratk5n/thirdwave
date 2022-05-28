@@ -145,17 +145,8 @@ That won't happen; at worst their military takes over, as they've done
 many times before, and they run the country along with its nukes.
 Obviously a coup would be bad.
 
-"Pakistan's could become a failed state and their nukes could fall in
+"Pakistan could become a failed state and their nukes could fall in
 the hands of extremists"
-
----
-
-You really haven't done shit have you..?
-
-Why does UN exist anyway?
-
-"UN’s Bachelet wraps up Xinjiang trip without seeing where China locks
-up Uyghur activists"
 
 ---
 
