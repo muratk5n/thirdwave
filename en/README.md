@@ -159,23 +159,23 @@ up Uyghur activists"
 
 ---
 
-In what sounds like bargaining rather than an unconditional promise,
-Russian President Vladimir Putin toyed with the idea of reopening the
-Odesa port for grain exports — while again calling for the lifting of
-Western sanctions against Russia.
+Politico: "In what sounds like bargaining rather than an unconditional
+promise, Russian President Vladimir Putin toyed with the idea of
+reopening the Odesa port for grain exports — while again calling for
+the lifting of Western sanctions against Russia.
 
 Putin made the remarks during a call Saturday with French President
 Emmanuel Macron and German Chancellor Olaf Scholz, as concerns
 worsened over a looming food crisis due to the inability to export
-Ukraine’s grain amid the conflict.
+Ukraine’s grain amid the conflict"
 
 ---
 
-"China signs deal with Samoa as Australia vows Pacific Islands plan"
+Reuters: "China signs deal with Samoa as Australia vows Pacific Islands plan"
 
 ---
 
-"More western arms supplies to Ukraine risks ‘further
+WION: "More western arms supplies to Ukraine risks ‘further
 destabilisation’, Putin warns"
 
 ---
