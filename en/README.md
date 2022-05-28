@@ -21,10 +21,10 @@ distribution and use of green hydrogen and bioenergy"
 
 ---
 
-H2 View: "Queensland puts A$2m into local wastewater hydrogen
+H2 View: "Queensland puts 2 million AUD into local wastewater hydrogen
 project.. Goondiwindi Wastewater Treatment Plant (WWTP) in Queensland,
 Australia, is set to expand into hydrogen production, using solar
-energy following A$2m ($1.4m) of state funding"
+energy following A$2m (1.4m) of state funding"
 
 ---
 
