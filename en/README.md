@@ -46,15 +46,6 @@ high-purity hydrogen recovery"
 
 ---
 
-Paper: "The performance of high-yield bonds in the US domestic market
-mirrors economic performance in the US overall. The yield spread of
-high-yield debt over investment grade corporate bonds is more of a
-function of the general outlook of the economy than of the health of
-the issuing companies themselves, although the latter is obviously
-important"
-
----
-
 "Kidnappings. Outbreaks. Earthquakes. The president assassinated — this
 time in his bedroom.How is it possible, many ask, that Haiti shares an
 island with the Dominican Republic, with its underground subway
@@ -89,8 +80,8 @@ The world is sufficiently fucked that one-step solution are no more
 enough to fix problems. We cant fix the 'green energy problem' by
 simply producing 'green electricity'. What will come after? How do you
 transmit the energy? 'Well we just extend existing transmission lines'
-(it wont work). So the one step taken to make electricity 'green'
-failed. Two-steps was needed not just one. First step; the energy
+(suboptimal). So the one step taken to make electricity 'green'
+fails. Two-steps was needed not just one. First step; the energy
 transmission mechanism changes, becomes gas based. Second step; Green
 energy is produced, converted into green gas, using the new
 transmission.
@@ -108,6 +99,15 @@ A lot riding on Maverick
 ---
 
 Bloomberg: "Theathers pin hopes on new *Top Gun*"
+
+---
+
+Paper: "The performance of high-yield bonds in the US domestic market
+mirrors economic performance in the US overall. The yield spread of
+high-yield debt over investment grade corporate bonds is more of a
+function of the general outlook of the economy than of the health of
+the issuing companies themselves, although the latter is obviously
+important"
 
 ---
 
