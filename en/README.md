@@ -117,7 +117,7 @@ look ahead, could have climbed the nearest *shorter* hill.
 
 ---
 
-:) NIce.. All girl Japanese funk band
+All girl Japanese funk band. Funky.
 
 Funk No.1 - TOKYO GROOVE JYOSHI \#music
 
@@ -134,6 +134,12 @@ four-day workweek"
 
 ---
 
+WION: "A 390 million-year-old fish-like creature with four limbs that
+was discovered in Scotland in the 1890s has been revealed to be the
+first ancestor of all four-limbed animals, including humans"
+
+---
+
 Jenin, the place where that poor female journalist was killed
 recently, is in northern West Bank. Jenin is obviously behind the
 wall, but still under military occupation. Extremely poor, workers
@@ -144,9 +150,9 @@ Israel to work.
 
 If Gaza and West Bank are both surrounded by walls, why the need for
 the military occupation, in the West Bank? The walls also create a
-Palestian state already. Egypt takes Gaza, West Bank declares
+Palestian state already. Egypt can take Gaza, West Bank can declare
 statehood, w East Jerusalem as the capital. Absent the one-state
-solution, is this workable?
+solution, what else is there?
 
 ---
 
@@ -183,15 +189,11 @@ NATO countries BTW)?
 Done well? Part of their country is *taken*. Over 6 million of the
 country's citizens are now refugees. I dont think they are doing well.
 
-All that is MSM concocted bullshit - delivered next to segments on
-'moms making molotof cocktails in their kitchen' or 'regular people
-learning to fight (just saw one such seg yesterday)'.
-
 "But Ukraine has done well so far"
 
 ---
 
-Ukraine is no NATO. NATO-trained yes
+Ukraine is not NATO. NATO-trained yes
 
 ---
 
@@ -205,7 +207,7 @@ with any other power. With nukes involved obviously everyone loses.
 
 Massive electronic-warfare utilization, can have incoming missiles go
 haywire. Increased target acquisition capab for later artillery
-bombardment.. Can't fight this shit through proxy. Just saying.
+bombardment.. Can't fight this shit through proxy. Looks bad.
 
 ---
 
