@@ -117,7 +117,7 @@ look ahead, could have climbed the nearest *shorter* hill.
 
 ---
 
-:) I love it.. All girl Japanese funk band
+:) NIce.. All girl Japanese funk band
 
 Funk No.1 - TOKYO GROOVE JYOSHI \#music
 
