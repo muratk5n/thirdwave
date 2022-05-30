@@ -84,7 +84,7 @@ kilograms, or 25 per cent of the car’s weight...
 
 Then there’s the composition of the lithium-ion battery: 80 per cent
 nickel, 15 per cent cobalt, 5 per cent aluminium, as well as lithium,
-copper, manganese, steel, and graphite. 7 By now, we are familiar with
+copper, manganese, steel, and graphite. By now, we are familiar with
 the conditions in which these minerals are extracted in China,
 Kazakhstan, and the Democratic Republic of the Congo. But we also need
 to consider how these minerals are refined, not to mention the
