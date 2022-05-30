@@ -96,8 +96,8 @@ at "local solutions".
 ---
 
 In that case climb down, apply same technique in a different
-direction, or try to see two steps ahead if possible; meaning take a
-planning two-steps ahead not just one.
+direction, or try to see two steps ahead if possible; that is havine a
+two-step plan instead of just one.
 
 ---
 
