@@ -24,12 +24,10 @@ import pandas as pd
 df = pd.read_csv('oil-proved-reserves.csv')
 df = df[df.Entity=='World'].set_index('Year')
 print ('%',np.round(df['Oil - Proved reserves'].pct_change().mean()*100.0,2))
-print ('%',np.round((1732-1724)/1724*100.0,2))
 ```
 
 ```text
 % 2.4
-% 0.46
 ```
 
 ---
