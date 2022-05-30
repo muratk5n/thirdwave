@@ -69,8 +69,8 @@ Bloomberg: "White House Eyes Restarting Idle Refineries to Tame Fuel Prices"
 
 ---
 
-They didn't use their biggest bullet. You are thinking too global, too
-free market.
+They didn't use their biggest bullet. You are thinking too globalist,
+too free market.
 
 Yahoo: "Gas prices have hit record highs but don't expect Biden to
 lower them: 'They already used their biggest bullet' [meaning the use
