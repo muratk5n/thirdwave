@@ -88,7 +88,7 @@ at "local solutions".
 ---
 
 In that case climb down, apply same technique in a different
-direction, or try to see two steps ahead if possible; that is have a
+direction, or try to see two steps ahead if possible; that means have a
 two-step plan instead of just one.
 
 ---
