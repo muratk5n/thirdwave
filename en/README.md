@@ -136,9 +136,9 @@ first ancestor of all four-limbed animals, including humans"
 
 Jenin, the place where that poor female journalist was killed
 recently, is in northern West Bank. Jenin is obviously behind the
-wall, but still under military occupation. Extremely poor, workers
-from there have to pass through checkpoints, with permits, to enter
-Israel to work.
+wall, but still under military occupation. Extremely low income,
+workers from there have to pass through checkpoints, with permits, to
+enter Israel to work.
 
 ---
 
