@@ -34,6 +34,30 @@ DATE
 
 ![](currxch.png)
 
+Ithalat Ihracat Orani ve Kur
+
+```python
+from pandas_datareader import data
+import datetime
+
+def get_fred(year, series):
+    today = datetime.datetime.now()
+    start=datetime.datetime(1970, 1, 1)
+    end=datetime.datetime(today.year, today.month, today.day)
+    df = data.DataReader(series, 'fred', start, end)
+    return df
+
+df = get_fred(1990, ['TURIMPORTADSMEI','TUREXPORTADSMEI','RBTRBIS'])
+df = df[df.index > '1999-01-01']
+df.columns = ['import','export','forex']
+df = df.interpolate()
+df['ratio'] = df['import'] / df['export']
+df['forex'] = (df.forex / 100.0)
+df[['ratio','forex']].plot()
+plt.savefig('impexp.png')
+
+![](impexp.png)
+
 
 Dollar / TL
 

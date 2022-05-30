@@ -17,10 +17,10 @@ if sys.argv[1] == 'years':
         os.system("echo '# %d\n' > %d/README.md" % (year,year))
         os.system("python -u gen.py %d >> %d/README.md" % (year,year))
 
-if sys.argv[1] == 'release':
+if sys.argv[1] == 'rel':
     seed = int(datetime.datetime.now().strftime("%Y%m%d"))
     random.seed(seed)
-    print (random.choice([False,True]))
+    print (random.choice([False, True]))
     
 if sys.argv[1] == 'twimg':
     # python -u build.py twimg tweets/2022/week01.md

@@ -15,6 +15,13 @@ import urllib.request as urllib2
 from io import BytesIO
 import pandas_ta as ta
 
+def get_fred(year, series):
+    today = datetime.datetime.now()
+    start=datetime.datetime(1970, 1, 1)
+    end=datetime.datetime(today.year, today.month, today.day)
+    df = data.DataReader(series, 'fred', start, end)
+    return df
+
 def plot_20_drawdown_sp500():
     end = datetime.datetime.now()
     start=end-datetime.timedelta(days=356*40)
