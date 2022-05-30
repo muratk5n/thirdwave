@@ -54,7 +54,7 @@ that can produce clean molecules with CCS.
 
 ---
 
-Put two and two together; US looking at refining capacity, has
+Put the two and two together; US looking at refining capacity, has
 crude.. Maybe US will simply stop exporting, refine its own oil and
 release to the market, reintroducing the export ban? That'll get you
 an additional 8 mb/d of oil pretty quick. US could essentially double
