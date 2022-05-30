@@ -47,8 +47,8 @@ would b a US price, an EU price, so on..
 
 ---
 
-And here we are discussing effin fossil.. I ask for CCS-enabled new
-refineries that can produce clean molecules.
+And here we are discussing bleeping fossil again.. I ask for
+CCS-enabled new refineries that can produce clean molecules.
 
 ---
 
