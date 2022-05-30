@@ -2,9 +2,10 @@
 
 ---
 
-Pinned Tweet
+Oman has sunshine, has great access to the high seas. Perfect industry
+for them. Export clean molecules to India, Europe, even Japan.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hydrogen-powered internal combustion engines could provide another emission-free solution for transportation. <br><br>Learn how <a href="https://twitter.com/Toyota?ref_src=twsrc%5Etfw">@Toyota</a> &amp; <a href="https://twitter.com/YamahaMotorUSA?ref_src=twsrc%5Etfw">@yamahamotorusa</a> joined forces to develop an engine that pushes the boundaries of hydrogen technology. <a href="https://t.co/3XJ9Cgnmw9">https://t.co/3XJ9Cgnmw9</a></p>&mdash; SoCalGas (@socalgas) <a href="https://twitter.com/socalgas/status/1511060577828827139?ref_src=twsrc%5Etfw">April 4, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our third ⭐ most-read ⭐ <a href="https://twitter.com/hashtag/H2View?src=hash&amp;ref_src=twsrc%5Etfw">#H2View</a> story this week saw a joint development agreement (JDA) toward a ‘multibillion-dollar investment’ in a world-scale <a href="https://twitter.com/hashtag/greenhydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#greenhydrogen</a>-based <a href="https://twitter.com/hashtag/ammonia?src=hash&amp;ref_src=twsrc%5Etfw">#ammonia</a> production facility in <a href="https://twitter.com/hashtag/Oman?src=hash&amp;ref_src=twsrc%5Etfw">#Oman</a> was signed. <a href="https://twitter.com/hashtag/hydrogennow?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennow</a> <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a><a href="https://t.co/ZovuhoCxNN">https://t.co/ZovuhoCxNN</a></p>&mdash; H2 View (@h2_view) <a href="https://twitter.com/h2_view/status/1530700461145313282?ref_src=twsrc%5Etfw">May 29, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
@@ -40,13 +41,6 @@ increase.
 
 Oil and Gas Journal: "According to [our] annual assessment, the
 world’s proved oil reserves total 1,724.5 billion bbl at yearend 2021"
-
----
-
-Oman has sunshine, has great access to the high seas. Perfect industry
-for them. Export clean molecules to India, Europe, even Japan.
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our third ⭐ most-read ⭐ <a href="https://twitter.com/hashtag/H2View?src=hash&amp;ref_src=twsrc%5Etfw">#H2View</a> story this week saw a joint development agreement (JDA) toward a ‘multibillion-dollar investment’ in a world-scale <a href="https://twitter.com/hashtag/greenhydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#greenhydrogen</a>-based <a href="https://twitter.com/hashtag/ammonia?src=hash&amp;ref_src=twsrc%5Etfw">#ammonia</a> production facility in <a href="https://twitter.com/hashtag/Oman?src=hash&amp;ref_src=twsrc%5Etfw">#Oman</a> was signed. <a href="https://twitter.com/hashtag/hydrogennow?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennow</a> <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a><a href="https://t.co/ZovuhoCxNN">https://t.co/ZovuhoCxNN</a></p>&mdash; H2 View (@h2_view) <a href="https://twitter.com/h2_view/status/1530700461145313282?ref_src=twsrc%5Etfw">May 29, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
