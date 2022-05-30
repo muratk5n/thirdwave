@@ -164,8 +164,8 @@ cut themselves off from the EU which forced them to cut UK into pieces
 ---
 
 They haven't delivered shit. They swept the hard issues under the
-carpet, or didn't even address them, ending up with worst of both
-worlds. Those issues are coming back to bite them in the ass now.
+carpet, ending up with worst of both worlds. Those issues are coming
+back to bite them in the ass now.
 
 "Current UK government delivered Brexit"
 
