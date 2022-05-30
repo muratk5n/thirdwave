@@ -176,13 +176,9 @@ WION: "Sri Lanka buys Russian oil amid economic meltdown"
 ---
 
 I saw the George Friedman 'rebuttal' to Kissinger. It's full of
-generalities.. Countries that are... blah blah.. should not blah blah.
-
-GF is good on collecting useful base info but has a problem delivering
-the slam-dunk using them. That's why he goes off in wild tangents
-predicting the next 10 years, 100 years so forth. One prediction was a
-war between Asia Minor and Poland? How the hell will that happen (both
-NATO countries BTW)?
+generalities.. Countries that are... blah blah.. should not blah
+blah. GF is good on collecting useful base info but can't deliver
+the final analysis on current events all the time. 
 
 ---
 
