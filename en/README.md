@@ -125,7 +125,7 @@ Funk No.1 - TOKYO GROOVE JYOSHI \#music
 
 ---
 
-YTD market summary: FOMO turned to FUD. TARFU next?
+YTD market summary: FOMO turned to FUD. 
 
 ---
 
