@@ -71,16 +71,12 @@ Bloomberg: "White House Eyes Restarting Idle Refineries to Tame Fuel Prices"
 
 ---
 
-They didn't use the biggest bullet. You are thinking too global, too
-free market son
+They didn't use their biggest bullet. You are thinking too global, too
+free market.
 
 Yahoo: "Gas prices have hit record highs but don't expect Biden to
 lower them: 'They already used their biggest bullet' [meaning the use
 of petroleum reserves]"
-
----
-
-Protest fine, but can we not burn f-ing tires?
 
 ---
 
