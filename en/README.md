@@ -125,10 +125,6 @@ Funk No.1 - TOKYO GROOVE JYOSHI \#music
 
 ---
 
-*Kenobi*, not bad. It is *Star Wars* enough, so far. 
-
----
-
 YTD market summary: FOMO turned to FUD. TARFU next?
 
 ---
