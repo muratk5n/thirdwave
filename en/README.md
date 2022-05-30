@@ -148,13 +148,6 @@ WION: "Sri Lanka buys Russian oil amid economic meltdown"
 
 ---
 
-I saw the George Friedman 'rebuttal' to Kissinger. It's full of
-generalities.. Countries that are... blah blah.. should not blah
-blah. GF is good on collecting useful base info but can't deliver
-the final analysis on current events all the time. 
-
----
-
 Done well? Part of their country is *taken*. Over 6 million of the
 country's citizens are now refugees. I dont think they are doing well.
 
