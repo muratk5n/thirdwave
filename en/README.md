@@ -15,11 +15,9 @@ Party-pooper indeed..
 
 ---
 
-On average reserves increased by 2.4% annually. Latest increase was 0.46%.
-
-Besides that new action offshore around Surinam we don't hear any big
-news anymore on oil finds, do we? Where is the next Ghawar? That big
-bonanza of energy?
+On average reserves increased by 2.4% annually. Latest increase was
+0.46%. Besides that new action offshore around Surinam we don't hear
+any big news anymore on oil finds. The next Ghawar eludes all. 
 
 ```python
 import pandas as pd
@@ -44,8 +42,8 @@ world’s proved oil reserves total 1,724.5 billion bbl at yearend 2021"
 
 ---
 
-What happens to the global price of crude? Who cares? There is a US
-price, an EU price, so on..
+What happens to the global price of crude they ask. Who cares? There
+would b a US price, an EU price, so on..
 
 ---
 
