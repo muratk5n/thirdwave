@@ -134,12 +134,6 @@ four-day workweek"
 
 ---
 
-WION: "A 390 million-year-old fish-like creature with four limbs that
-was discovered in Scotland in the 1890s has been revealed to be the
-first ancestor of all four-limbed animals, including humans"
-
----
-
 Jenin, the place where that poor female journalist was killed
 recently, is in northern West Bank. Jenin is obviously behind the
 wall, but still under military occupation. Extremely poor, workers
