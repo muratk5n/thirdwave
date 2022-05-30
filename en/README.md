@@ -93,10 +93,6 @@ two-step plan instead of just one.
 
 ---
 
-[Link](https://pbs.twimg.com/media/FT3wrouWQAIZqaL?format=png&name=small)
-
----
-
 The one-step vs two-step solution issue is related to tactical
 wins. Imagine being outside, during a fog, night time, how to reach
 the top of a highest near hill? Simple solution - always move in the
@@ -105,7 +101,8 @@ vision, improving the current situation builds up in the long-run,
 leads to global solution.
 
 But, one can still get stuck on a "local minima". Because we didn't
-look ahead, could have climbed the nearest *shorter* hill.
+look ahead, could have climbed the nearest *shorter* hill. The fog clears
+we see [this](https://pbs.twimg.com/media/FT3wrouWQAIZqaL?format=png&name=small).
 
 ---
 
