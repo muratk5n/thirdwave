@@ -134,22 +134,6 @@ first ancestor of all four-limbed animals, including humans"
 
 ---
 
-Jenin, the place where that poor female journalist was killed
-recently, is in northern West Bank. Jenin is obviously behind the
-wall, but still under military occupation. Extremely low income,
-workers from there have to pass through checkpoints, with permits, to
-enter Israel to work.
-
----
-
-If Gaza and West Bank are both surrounded by walls, why the need for
-the military occupation, in the West Bank? The walls also create a
-Palestian state already. Egypt can take Gaza, West Bank can declare
-statehood, w East Jerusalem as the capital. Absent the one-state
-solution, what else is there?
-
----
-
 Didn't PM May say "no UK prime minister could ever agree" to an Irish
 Sea border? Well there is one now. There is a customs border in the
 Irish Sea. That means Brexiters broke the UK to 'deliver Brexit'. They
