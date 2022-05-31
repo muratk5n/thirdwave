@@ -45,8 +45,8 @@ pollution](2021/10/the-rare-metals-war.html).
 Obviously the implication below is people are half idiots, and that is
 mostly true. But more than that, they are just busy. They have other
 things to worry about, jobs, family, which take time. Politics,
-statecraft is a profession. Just like you cant form an opinion on your
-root canal and replace your dentist by 'following the media' cant do
+statecraft is a profession. Just like we cant form an opinion on our
+root canal and replace the dentist by 'following the media' cant do
 the same for statecraft. People vote on their well-being, on the
 incumbent, based on a few (three) general parameters which is enough
 for democracy. The rest is rationalizations to sound cool around the
