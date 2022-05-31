@@ -27,15 +27,16 @@ Renault Scenic H2 Tech
 ---
 
 That is absolutely true.. An incremental change in a largely useless
-direction. Perfect example of 'getting stuck at local minima'. The one-step change marketed to office-dwelling limpdicks who
-"like" electricity (they can see the wall plug at home/work, it looks
+direction. Perfect example of 'getting stuck at local minima'. The
+one-step change marketed to office-dwelling limpdicks who "like"
+electricity (they can see the wall plug at home/work, it looks
 sterile, 'clean', 'magical' unlike fuels which are mostly, like, ew).
 The sale was done on the basis of "we'll make that magical thing
 'green' for you by taking your cool laptop's battery and put it on the
 car".  Despite appearances office dwelling limpdicks were too
 uninformed or too fucking dumb to realize such approach could not
-scale. That behind the magic there would be even
-[more pollution](2021/10/the-rare-metals-war.html).
+scale. That behind the magic there would be even [more
+pollution](2021/10/the-rare-metals-war.html).
 
 "Battery-electric tech is the Obamacare of green energy"
 
@@ -105,7 +106,7 @@ That's the other thing; people are locked up in a prison-like system
 behind walls, *but* Israel needs workers, so people go through
 checkpoints daily to work in Israel. Got walls, but we need workers,
 and oh, also, we want to settle behind that wall, inside settlements
-which themselves are behind walls. The situation is obnoxiously
+which themselves need their own walls. The situation is obnoxiously
 stupid. I think deep down Israelis believe Palestenians will just
 disappear somehow and they'll have the land all for themselves.
 
