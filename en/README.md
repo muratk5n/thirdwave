@@ -133,7 +133,7 @@ land, that's where the need for 'extra protection' comes from.
 
 ---
 
-Left-right combination. One neutralizes the other.
+Left-right combo. One hand giveth the other hand taketh away.
 
 Al Jazeera: "Israel set to approve 4,000 settler units in occupied West Bank"
 
