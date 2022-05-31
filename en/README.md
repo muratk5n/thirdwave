@@ -42,7 +42,7 @@ pollution](2021/10/the-rare-metals-war.html).
 
 ---
 
-Obviously the implication below is people are morons, and that is
+Obviously the implication below is people are half idiots, and that is
 mostly true. But more than that, they are just busy. They have other
 things to worry about, jobs, family, which take time. Politics,
 statecraft is a profession. Just like you cant form an opinion on your
