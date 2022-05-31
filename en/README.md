@@ -168,7 +168,7 @@ for city in ['lakshadweep','minicoy','andaman','nicobar']:
 ```
 
 
-<img width="200" src="https://pbs.twimg.com/media/FUELuB9WYAAjBfk?format=png&name=small"/>
+<img width="340" src="https://pbs.twimg.com/media/FUELuB9WYAAjBfk?format=png&name=small"/>
 
 ---
 
