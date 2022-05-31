@@ -156,7 +156,7 @@ India has some good radar coverage there, monitoring a lot of key naval space
 
 ```python
 import simplegeomap as sm
-clat,clon=18.11882428082428, 77.66296479392845; zoom = 3.0
+clat,clon=18, 77; zoom = 3.0
 sm.plot_countries(clat,clon,zoom)
 plt.text(78,20,"India")
 for city in ['lakshadweep','minicoy','andaman','nicobar']:
