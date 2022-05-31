@@ -27,8 +27,7 @@ Renault Scenic H2 Tech
 ---
 
 That is absolutely true.. An incremental change in a largely useless
-direction. Perfect example of 'getting stuck at local minima' I talked
-about. The one-step change marketed to office-dwelling limpdicks who
+direction. Perfect example of 'getting stuck at local minima'. The one-step change marketed to office-dwelling limpdicks who
 "like" electricity (they can see the wall plug at home/work, it looks
 sterile, 'clean', 'magical' unlike fuels which are mostly, like, ew).
 The sale was done on the basis of "we'll make that magical thing
@@ -52,9 +51,9 @@ incumbent, based on a few (three) general parameters which is enough
 for democracy. The rest is rationalizations to sound cool around the
 water-cooler for a decision that was already made on a much more baser
 level. This analysis is offputting for some, further away than a
-Renaissance society they dreamt about but it's life. The sights and
-people we saw on Jaywalking are not the exception, or even an American
-phenomenon, they are the rule.
+Renaissance society they might have dreamt about but it's life. The
+sights and people we saw on Jaywalking are not the exception, or even
+an American phenomenon, they are the rule.
 
 ---
 
