@@ -20,8 +20,7 @@ Russian oil and gas"
 
 ---
 
-It's good but eventually I'd just remove the battery, dead-end
-dead-weight tech, just run on the HFC.
+It's good but eventually I'd just remove the battery just run on the HFC.
 
 <iframe width="340" src="https://www.youtube.com/embed/6mlMihcgEtY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
