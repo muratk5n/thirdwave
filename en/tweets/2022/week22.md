@@ -9,7 +9,7 @@ for them. Export clean molecules to India, Europe, even Japan.
 
 Party-pooper indeed..
 
-[[-]](2021/10/the-rare-metals-war.md#ref2)
+[[-]](../../2021/10/the-rare-metals-war.html#ref2)
 
 ---
 
