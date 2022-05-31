@@ -27,15 +27,15 @@ dead-weight tech, just run on the HFC.
 
 ---
 
-That is absolutely true.. An incremental, one-step change in a largely
-useless direction. Perfect example of 'getting stuck at local minima'
-I talked about. The one-step change marketed to office-dwelling
-limpdicks who "like" electricity (they can see the wall plug at
-home/work, it looks sterile, 'clean', 'magical' unlike fuels which are
-mostly, like, ew).  The sale was done on the basis of "we'll make that
-magical thing 'green' for you by taking your cool laptop's battery and
-put it on the car.  Despite appearances office dwelling limpdicks were
-too uninformed or too fucking dumb to realize such approach could not
+That is absolutely true.. An incremental change in a largely useless
+direction. Perfect example of 'getting stuck at local minima' I talked
+about. The one-step change marketed to office-dwelling limpdicks who
+"like" electricity (they can see the wall plug at home/work, it looks
+sterile, 'clean', 'magical' unlike fuels which are mostly, like, ew).
+The sale was done on the basis of "we'll make that magical thing
+'green' for you by taking your cool laptop's battery and put it on the
+car.  Despite appearances office dwelling limpdicks were too
+uninformed or too fucking dumb to realize such approach could not
 scale.
 
 "Battery-electric tech is the Obamacare of green energy"
