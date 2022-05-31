@@ -34,7 +34,7 @@ about. The one-step change marketed to office-dwelling limpdicks who
 sterile, 'clean', 'magical' unlike fuels which are mostly, like, ew).
 The sale was done on the basis of "we'll make that magical thing
 'green' for you by taking your cool laptop's battery and put it on the
-car.  Despite appearances office dwelling limpdicks were too
+car".  Despite appearances office dwelling limpdicks were too
 uninformed or too fucking dumb to realize such approach could not
 scale.
 
