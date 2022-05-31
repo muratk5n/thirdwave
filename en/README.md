@@ -43,32 +43,6 @@ scale. That behind the magic there would be even
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
 Obviously the implication below is people are morons, and that is
 mostly true. But more than that, they are just busy. They have other
 things to worry about, jobs, family, which take time. Politics,
