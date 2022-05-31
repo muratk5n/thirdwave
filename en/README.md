@@ -149,6 +149,29 @@ debt to fill it."
 
 ---
 
+India has some good radar coverage there, monitoring a lot of key naval space
+
+---
+
+
+```python
+import simplegeomap as sm
+clat,clon=18.11882428082428, 77.66296479392845; zoom = 3.0
+sm.plot_countries(clat,clon,zoom)
+plt.text(78,20,"India")
+for city in ['lakshadweep','minicoy','andaman','nicobar']:
+   c = sm.find_city(city,"india")
+   if (len(c)==1):
+       lat,lon,n=float(c[0][9]),float(c[0][8]),c[0][1]
+       plt.text(lat,lon,n)
+       plt.plot(lat,lon,'rd')
+```
+
+
+[Map Output](https://pbs.twimg.com/media/FUELuB9WYAAjBfk?format=png&name=small)
+
+---
+
 Jane's Defense: "India to install Phase 2 of coastal radar network by
 2023..  [R]emote static sensors [were installed] at 46 locations.. 36
 of the stations are on the mainland and 10 on island territories,
