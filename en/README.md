@@ -45,12 +45,12 @@ pollution](2021/10/the-rare-metals-war.html).
 Obviously the implication below is people are half idiots, and that is
 mostly true. But more than that, they are just busy. They have other
 things to worry about, jobs, family, which take time. Politics,
-statecraft is a profession. Just like we cant form an opinion on our
-root canal and replace the dentist by 'following the media' cant do
-the same for statecraft. People vote on their well-being, on the
-incumbent, based on a few (three) general parameters which is enough
-for democracy. The rest is rationalizations to sound cool around the
-water-cooler for a decision that was already made on a much more baser
+statecraft is a profession. Just like we cant form an in-depth opinion
+on a root canal and replace the dentist by 'media', cant do the same
+for statecraft. People vote on their well-being, on the incumbent,
+based on a few (three) general parameters which is enough for
+democracy. The rest is rationalizations to sound cool around the
+water-cooler for a decision that was already made on a much baser
 level. This analysis is offputting for some, further away than a
 Renaissance society they might have dreamt about but it's life. The
 sights and people we saw on Jaywalking are not the exception, or even
