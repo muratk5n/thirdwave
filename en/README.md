@@ -36,7 +36,8 @@ The sale was done on the basis of "we'll make that magical thing
 'green' for you by taking your cool laptop's battery and put it on the
 car".  Despite appearances office dwelling limpdicks were too
 uninformed or too fucking dumb to realize such approach could not
-scale. That behind the magic there would be even [more pollution](2021/10/the-rare-metals-war.md).
+scale. That behind the magic there would be even
+[more pollution](2021/10/the-rare-metals-war.html).
 
 "Battery-electric tech is the Obamacare of green energy"
 
