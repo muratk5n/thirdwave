@@ -50,7 +50,7 @@ root canal and replace your dentist by 'following the media' cant do
 the same for statecraft. People vote on their well-being, on the
 incumbent, based on a few (three) general parameters which is enough
 for democracy. The rest is rationalizations to sound cool around the
-water-cooler on a decision that was already made on a much more baser
+water-cooler for a decision that was already made on a much more baser
 level. This analysis is offputting for some, further away than a
 Renaissance society they dreamt about but it's life. The sights and
 people we saw on Jaywalking are not the exception, or even an American
