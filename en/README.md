@@ -27,7 +27,7 @@ Renault Scenic H2 Tech
 ---
 
 That is absolutely true.. An incremental change in a largely useless
-direction. Perfect example of 'getting stuck at local minima'. The
+direction. Perfect example of 'getting stuck at local maxima'. The
 one-step change marketed to office-dwelling limpdicks who "like"
 electricity (they can see the wall plug at home/work, it looks
 sterile, 'clean', 'magical' unlike fuels which are mostly, like, ew).
