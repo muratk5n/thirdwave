@@ -2,9 +2,6 @@
 
 ---
 
-
----
-
 H2 View: "Green hydrogen projects in desert regions using
 desalinization to provide the H2 production with water could also be
 used to boost potable water levels for the people living there,
