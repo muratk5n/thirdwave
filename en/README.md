@@ -77,6 +77,10 @@ captive audiences. We are all walking live chats"
 
 ---
 
+Dirty Loops is what you'd get if you melded Michael Jackson with Rush.
+
+---
+
 Frank Grillo's last monologue in *The Grey* was excellent.. Reminds me
 this C. Ryan [excerpt](2019/12/civilized-to-death.html#vacation).
 
@@ -90,11 +94,6 @@ the country's head of state"
 ---
 
 WaPo: "Israel, UAE sign free trade deal, first with an Arab country"
-
----
-
-
-Dirty Loops is what you'd get if you melded Michael Jackson with Rush.
 
 ---
 
