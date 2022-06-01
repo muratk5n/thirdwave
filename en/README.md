@@ -26,7 +26,7 @@ combined heat and power (CHP) system for building heating and cooling"
 
 ---
 
-H2 View: "Agreement signed for $4bn waste-to-hydrogen facility planned
+H2 View: "Agreement signed for 4bn waste-to-hydrogen facility planned
 on the Suez Canal.. A memorandum of understanding announced between
 the General Authority for Suez Canal Economic Zone (SCZONE) and
 H2-Industries Inc. plans for a $4bn waste-to-hydrogen facility at the
