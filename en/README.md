@@ -128,7 +128,7 @@ country would be the largest one there.
 
 ---
 
-It's goes both ways.. Russia is a huge country in Asia every country
+It goes both ways.. Russia is a huge country in Asia every country
 wants to, has to, be in good terms with it.. RU pays back in kind,
 friendly with both India *and* China. Gave both nukes!
 
