@@ -1,6 +1,6 @@
 # Civilized to Death
 
-Excerpts from the book by Christopher Ryan
+Christopher Ryan
 
 Jared Diamond’s 1999 essay about the transition to agriculture is
 called, ominously, “The Worst Mistake in the History of the Human

@@ -475,10 +475,10 @@ plt.savefig('profitmargin.png')
 ```text
                   CP    FINSLC1         PM
 DATE                                      
-2021-01-01  2367.593  19076.120  12.411292
 2021-04-01  2690.388  19449.270  13.832848
 2021-07-01  2721.601  19453.436  13.990336
 2021-10-01  2700.326  19524.288  13.830599
+2022-01-01  2740.104  19503.110  14.049575
 ```
 
 ![](profitmargin.png)
@@ -514,12 +514,12 @@ plt.savefig('dollar.png')
 
 ```text
 Date
-2022-05-10    103.919998
-2022-05-11    103.849998
-2022-05-12    104.849998
-2022-05-13    104.559998
+2022-05-27    101.669998
+2022-05-29           NaN
+2022-05-31    101.750000
+2022-06-01    101.996002
 Name: Adj Close, dtype: float64
-[ 80.79253626 111.15903426]
+[ 80.80663481 111.15948977]
 ```
 
 ![](dollar.png)
@@ -547,10 +547,10 @@ plt.savefig('wilshire.png')
 ```text
             WILL5000IND
 DATE                   
-2022-05-09       195.21
-2022-05-10       195.56
-2022-05-11       192.07
-2022-05-12       192.21
+2022-05-24       192.93
+2022-05-25       195.13
+2022-05-26       199.17
+2022-05-27       204.26
 ```
 
 ![](wilshire.png)
@@ -579,12 +579,12 @@ plt.savefig('junkbond.png')
 ```text
             BAMLH0A2HYBEY
 DATE                     
-2022-05-05           7.30
-2022-05-06           7.51
-2022-05-09           7.79
-2022-05-10           7.80
-2022-05-11           7.83
-2022-05-12           8.00
+2022-05-23           8.18
+2022-05-24           8.22
+2022-05-25           7.98
+2022-05-26           7.59
+2022-05-27           7.37
+2022-05-30           7.37
 ```
 
 ![](junkbond.png)
@@ -692,13 +692,13 @@ plt.savefig('vix.png')
 
 ```text
 Date
-2022-05-16    27.469999
-2022-05-17    26.100000
-2022-05-18    30.959999
-2022-05-19    29.350000
 2022-05-20    29.430000
 2022-05-23    28.480000
-2022-05-24    29.889999
+2022-05-24    29.450001
+2022-05-25    28.370001
+2022-05-26    27.500000
+2022-05-27    25.719999
+2022-05-31    26.190001
 Name: Adj Close, dtype: float64
 ```
 
@@ -734,11 +734,11 @@ plt.savefig('oil.png')
 
 ```text
 Date
-2022-05-18    109.589996
-2022-05-19    112.209999
-2022-05-20    113.230003
-2022-05-23    110.290001
-2022-05-24    110.360001
+2022-05-25    110.330002
+2022-05-26    114.089996
+2022-05-27    115.070000
+2022-05-31    114.669998
+2022-06-01    115.269997
 Name: Close, dtype: float64
 ```
 
@@ -775,11 +775,11 @@ plt.savefig('opec.png')
 
 ```text
 Date
-2022-01-01    27.820000
 2022-02-01    28.575000
 2022-03-01    28.215000
 2022-04-01    28.490000
 2022-05-01    28.932083
+2022-06-01    29.076941
 Name: 1, dtype: float64
 ```
 
@@ -809,57 +809,17 @@ plt.savefig('natgas.png')
 
 ```text
 Date
-2022-05-05    8.783
-2022-05-06    8.043
-2022-05-09    7.026
-2022-05-10    7.385
-2022-05-11    7.640
-2022-05-12    7.739
-2022-05-13    7.663
+2022-05-23    8.744
+2022-05-24    8.796
+2022-05-25    8.971
+2022-05-26    8.908
+2022-05-27    8.727
+2022-05-31    8.145
+2022-06-01    8.346
 Name: Adj Close, dtype: float64
 ```
 
 ![](natgas.png)
-
-<a name="eunatgas"></a>
-
-EU Natural Gas Price
-
-Price is from Dutch TTF contract which is considered as the benchmark
-price for natural gas in Europe. Unit is 1 MW of energy, priced in
-Euros.
-
-```python
-import pandas as pd, datetime, time as timelib
-import urllib.request as urllib2, io
-end = datetime.datetime.now()
-start=datetime.datetime(2010, 1, 1)
-start = int(timelib.mktime(start.timetuple()))
-end = int(timelib.mktime(end.timetuple()))
-base_fin_url = "https://query1.finance.yahoo.com/v7/finance/download"
-url = base_fin_url + "/TTF=F?period1=" + str(start) + "&period2=" + str(end) + "&interval=1d&events=history&includeAdjustedClose=true"
-r = urllib2.urlopen(url).read()
-file = io.BytesIO(r)
-df = pd.read_csv(file,index_col='Date',parse_dates=True)['Adj Close']
-df.plot()
-plt.plot(df.tail(1).index, df.tail(1),'ro')
-print (df.tail(7))
-plt.savefig('eunatgas.png')
-```
-
-```text
-Date
-2022-05-16    92.860001
-2022-05-17    94.175003
-2022-05-18    94.538002
-2022-05-19    91.024002
-2022-05-20    87.902000
-2022-05-23    83.288002
-2022-05-24    86.875000
-Name: Adj Close, dtype: float64
-```
-
-![](eunatgas.png)
 
 <a name="coal"></a>
 
