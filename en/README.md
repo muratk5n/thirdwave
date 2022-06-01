@@ -98,23 +98,6 @@ Dirty Loops is what you'd get if you melded Michael Jackson with Rush.
 
 ---
 
-Sometimes it's pure pandering; build up your followers (you are great,
-you are awesome, we need you) they feel special and be more willing
-to support cause laid out by the media personality.
-
----
-
-Cries of "but listen to the people" for policy reasons is mentioned by
-media personalities (mainstream or alternative) who have some amt of
-followers behind them. What they want is the opinion of that mass to
-be followed because they are in a position to shape their opinion. They
-want the hordes they are able to direct, to run roughshod over any
-form of representation whose make-up they do not control. That is the
-origin of their cries of "listen to the people".  What they mean is
-listen to *my* people.
-
----
-
 "Euro zone inflation hits yet another record high as food and energy
 prices soar"
 
