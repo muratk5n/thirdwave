@@ -81,7 +81,7 @@ captive audiences. We are all walking live chats"
 ---
 
 Frank Grillo's last monologue in *The Grey* was excellent.. Reminds me
-this C Ryan [excerpt](2019/12/civilized-to-death.html#vacation).
+this C. Ryan [excerpt](2019/12/civilized-to-death.html#vacation).
 
 ---
 
