@@ -77,7 +77,7 @@ captive audiences. We are all walking live chats"
 
 ---
 
-Dirty Loops is what you'd get if you melded Michael Jackson with Rush.
+Dirty Loops is what you get if you melded Michael Jackson with Rush.
 
 ---
 
