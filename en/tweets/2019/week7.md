@@ -1,8 +1,11 @@
 
 
-"1K$/month UBI is not enough to live on" say some, but there are places in US where u can perfectly live on that amt. The keyword is: live.
+"1K$/month UBI is not enough to live on" say some, but there are
+places in US where u can perfectly live on that amt. The keyword is:
+live.
 
-UBI might encourage moving to cheaper more sparsely populated places, and that might not altogether be a bad thing.
+UBI might encourage moving to cheaper more sparsely populated places,
+and that might not altogether be a bad thing.
 
 ---
 

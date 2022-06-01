@@ -1,17 +1,27 @@
 
+---
+
 China: USTC Researchers Discover Cheaper Approach to Producing Hydrogen
 
 [Link](https://fuelcellsworks.com/news/china-ustc-researchers-discover-cheaper-approach-to-producing-hydrogen/)
 
 ---
 
-The only conclusive thing you can say about pop growth -> econ growth causal relation is that it is inconclusive. You can argue tech (econ) -> pop growth easier in many ways than the other direction. Noone can disagree indust revolution helped populations grow.
+The only conclusive thing you can say about pop growth -> econ growth
+causal relation is that it is inconclusive. You can argue tech (econ)
+-> pop growth easier in many ways than the other direction. Noone can
+disagree indust revolution helped populations grow.
 
 ---
 
-Impeachment proceedings would energize centrists a little more and help Biden to get nom, and he would lose the general in a big way. Or Bernie gets nom has more of a chance in gen (but still with disadvant). Either way I dont care. 1st opt centrists will get a major hit tho.
+Impeachment proceedings would energize centrists a little more and
+help Biden to get nom, and he would lose the general in a big way. Or
+Bernie gets nom has more of a chance in gen (but still with
+disadvant). Either way I dont care. 1st opt centrists will get a major
+hit tho.
 
-Is there enough to impeach: no. After Russia hoax this is another line that helps unify Dems and cuddle centrist losers.
+Is there enough to impeach: no. After Russia hoax this is another line
+that helps unify Dems and cuddle centrist losers.
 
 ---
 
