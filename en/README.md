@@ -86,10 +86,10 @@ Frank Grillo's last monologue in *The Grey* was excellent.. Reminds me
 
 ---
 
-"Australia step closer to replacing Queen as it appoints ‘minister for
-republic’.. There is now an 'assistant minister for the republic' in
-Australia, raising the possibility that the Queen will no longer be
-the country's head of state"
+WION: "Australia step closer to replacing Queen.. There is now an
+'assistant minister for the republic' in Australia, raising the
+possibility that the Queen will no longer be the country's head of
+state"
 
 ---
 
