@@ -64,7 +64,7 @@ age population ratio and gdp per capita. In fact I've never seen a
 less uncorrelated graph in my life, on an issue whose claims are so big..
 
 They constantly use Japan as an example in this space, 'population
-collapse' yet Japan is doing fine.
+collapse', yet Japan is doing fine.
 
 I repeat the argument I used last time - how many people does it take
 to invent a f-ing Walkman?
