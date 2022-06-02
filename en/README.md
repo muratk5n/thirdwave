@@ -26,6 +26,11 @@ scale pipeline corridors planned for EU"
 
 ---
 
+H2 View: "Airbus facility to develop cryogenic hydrogen tank system
+for future planes"
+
+---
+
 "@WeAreEnergyNL
 
 Nathan Ashcroft, Strategic Business Developer, Stantec Consulting Ltd.
