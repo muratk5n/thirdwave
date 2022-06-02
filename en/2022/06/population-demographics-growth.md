@@ -22,14 +22,9 @@ ratio, against GDP per capita.
 ```python
 import util
     
-cols = ['LFWA64TTUSM647S','POPTHM','GDPC1','LFWA64TTJPM647S','POPTOTJPA647NWDB','JPNRGDPEXP','LFWA64TTAUM647N','POPTOTAUA647NWDB','NGDPRSAXDCAUQ']
-df = util.get_fred(1950, cols)
-df = df.dropna()
-df.columns = ['us_wapop','us_pop','us_rgdp','jp_wapop','jp_pop','jp_rgdp','au_wapop','au_pop','au_rgdp']
-df.to_csv('pop_wage_gdp.csv')
-```
+# FRED 'LFWA64TTUSM647S','POPTHM','GDPC1','LFWA64TTJPM647S','POPTOTJPA647NWDB',
+# 'JPNRGDPEXP','LFWA64TTAUM647N','POPTOTAUA647NWDB','NGDPRSAXDCAUQ']
 
-```python
 import pandas as pd
 df = pd.read_csv('pop_wage_gdp.csv',index_col=0,parse_dates=True)
 
