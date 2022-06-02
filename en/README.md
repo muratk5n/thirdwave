@@ -63,7 +63,7 @@ surprising.
 
 ---
 
-I already [some good material](2022/06/population-demographics-growth.html)
+I already had [some good material](2022/06/population-demographics-growth.html)
 on the topic, then added some extra analysis (same post,
 bottom part). No blatant correlation visible between working age population
 (ratio) and gdp per capita. In fact I've never seen a less uncorrelated
