@@ -43,7 +43,7 @@ creations at best.
 
 That's why the e-jagoff keeps [badmouthing](https://www.cnbc.com/2021/12/06/elon-musk-has-strong-views-on-hydrogen-and-not-everyone-agrees.html)
 the 'other option' bcz he remembers at one point in his sad
-company's history, resources were taken from them, and
+company's history, resources were taken from that other option, and
 given to him. That, combined with low rates made that company
 what it is today, not any solid foresight on tech or brains.
 
