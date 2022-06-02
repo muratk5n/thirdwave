@@ -34,10 +34,10 @@ doable & we have the capabilities in NL"
 
 ---
 
-Obama created this cunt. It might be his biggest mistake. He gave him
-bunch of space contracts, which were used to create a geek image and
-that image helped propel other other ventures, shoddy "gizmo-biz"
-creations at best.
+It is true Obama created this cunt. It might be his biggest
+mistake. He gave him bunch of space contracts, which were used to
+create a geek image and that image helped propel other other ventures,
+shoddy "gizmo-biz" creations at best.
 
 ---
 
