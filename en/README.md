@@ -79,9 +79,9 @@ sophisticated-ish sound bytes wout much work.
 
 ---
 
-Sample output below Not bad.
+Sample output below. Not bad..
 
-Might switch to this package.
+I might switch to this package.
 
 ```python
 import trafilatura
