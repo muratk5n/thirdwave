@@ -81,7 +81,7 @@ sophisticated-ish sound bytes wout much work.
 
 Sample output below. Not bad..
 
-I might switch to this package.
+I might switch to this lib.
 
 ```python
 import trafilatura
