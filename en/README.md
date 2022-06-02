@@ -6,13 +6,14 @@
 
 ---
 
-Gold Coast Transit District receives hydrogen fuel cell bus for testing
+H2 Fuel News: "Gold Coast Transit District receives hydrogen fuel cell
+bus for testing"
 
 ---
 
-"Hydrogen compression specialists, Calvera Industrial Group, has
-signed a strategic alliance in a bid to consolidate its international
-growth and presence in the US."
+H2 View: "Hydrogen compression specialists, Calvera Industrial Group,
+has signed a strategic alliance in a bid to consolidate its
+international growth and presence in the US."
 
 ---
 
@@ -34,7 +35,7 @@ doable & we have the capabilities in NL"
 
 ---
 
-It is true Obama created this cunt. It might be his biggest
+It is true - Obama created this cunt. It might be his biggest
 mistake. He gave him bunch of space contracts, which were used to
 create a geek image, and that helped propel other ventures, shoddy
 "gizmo-biz" creations at best.
