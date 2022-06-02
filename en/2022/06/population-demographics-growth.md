@@ -11,7 +11,7 @@ growth, yet they had a rapid increase in per capita GDP. Clearly,
 there is more to achieving gains in per capita income than a simple
 slowing in population growth"
 
-<img width="340" src="https://open.lib.umn.edu/app/uploads/sites/180/2016/05/3b6c5ad5055b1ac4e51356db8856d325.jpg"/>
+<img width="340" src="popgr1.jpg"/>
 
 Data
 
