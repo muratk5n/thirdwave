@@ -15,9 +15,9 @@ slowing in population growth"
 
 Data
 
-I did some data wrangling below, for US, JP, Oz I fetch Working age
-population, total population, and GDP; then I plot working age population
-ratio, against GDP Per Capita.
+I did some data wrangling below, for US, JP, Oz. I fetched working age
+population, total population, and GDP; then I plot working age pop
+ratio, against GDP per capita.
 
 ```python
 import util
