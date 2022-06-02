@@ -42,7 +42,6 @@ h1, l1 = ax1.get_legend_handles_labels()
 h2, l2 = ax2.get_legend_handles_labels()
 plt.title('USA')
 plt.legend(h1+h2, l1+l2, loc=2)
-plt.savefig('out1.png')
 
 plt.clf()
 df['jp_wa'] = df.jp_wapop*100 / (df.jp_pop)
@@ -53,7 +52,6 @@ h1, l1 = ax1.get_legend_handles_labels()
 h2, l2 = ax2.get_legend_handles_labels()
 plt.legend(h1+h2, l1+l2, loc=2)
 plt.title('Japan')
-plt.savefig('out2.png')
 
 plt.clf()
 df['au_wa'] = df.au_wapop*100 / (df.au_pop)
@@ -64,7 +62,6 @@ h1, l1 = ax1.get_legend_handles_labels()
 h2, l2 = ax2.get_legend_handles_labels()
 plt.title('Australia')
 plt.legend(h1+h2, l1+l2, loc=2)
-plt.savefig('out3.png')
 ```
 
 ![](out1.png)
