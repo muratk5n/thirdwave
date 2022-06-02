@@ -119,6 +119,10 @@ Remy shows increase in earnings.
 
 ---
 
+Politico: "Croatia on track to adopt the euro"
+
+---
+
 "@DanielLDavis1
 
 Biden's rockets to Ukraine are modern, precision weapons, but won't
