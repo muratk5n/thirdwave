@@ -59,10 +59,10 @@ surprising.
 ---
 
 I already [some good material](2022/06/population-demographics-growth.html)
-on the topic, but I did some extra data analysis myself (same post,
-bottom part). Can't see a blatant correlation between working
-age population ratio and gdp per capita. In fact I've never seen a
-less uncorrelated graph in my life, on an issue whose claims are so big..
+on the topic, but I did some extra data analysis (same post,
+bottom part). No blatant correlation between working age population
+(ratio) and gdp per capita. In fact I've never seen a less uncorrelated
+graph in my life, on an issue whose claims are so big..
 
 They constantly use Japan as an example in this space, 'population
 collapse', yet Japan is doing fine.
