@@ -86,12 +86,10 @@ Might switch to this package.
 ```python
 import trafilatura
 downloaded = trafilatura.fetch_url('https://www.cnbc.com')
-res = trafilatura.extract(downloaded)
-print (res)
+print (trafilatura.extract(downloaded))[2300:2500]
 ```
 
 ```python
-print (res[2300:2500])
 ```
 
 ```text
