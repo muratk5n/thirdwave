@@ -2,6 +2,138 @@
 
 ---
 
+H2 Fuel News: "Gold Coast Transit District receives hydrogen fuel cell
+bus for testing"
+
+---
+
+H2 View: "Hydrogen compression specialists, Calvera Industrial Group,
+has signed a strategic alliance in a bid to consolidate its
+international growth and presence in the US."
+
+---
+
+"@Lavjit_Singh
+
+To meet the crazy 2030 hydrogen demand & supply targets, the 5 large
+scale pipeline corridors planned for EU"
+
+[[-]](https://twitter.com/Lavjit_Singh/status/1532263190951763968)
+
+---
+
+H2 View: "Airbus facility to develop cryogenic hydrogen tank system
+for future planes"
+
+---
+
+"@WeAreEnergyNL
+
+Nathan Ashcroft, Strategic Business Developer, Stantec Consulting Ltd.
+spoke about hydrogen from a global perspective. Shared there are lots
+of regional opportunities; hydrogen production moving by pipeline is
+doable & we have the capabilities in NL"
+
+---
+
+Obama created this cunt. It might be his biggest mistake. He gave him
+bunch of space contracts, which were used to create a geek image, and
+that helped propel other ventures, shoddy "gizmo-biz" concoctions at
+best.
+
+---
+
+That's why the e-jagoff keeps [badmouthing](https://www.cnbc.com/2021/12/06/elon-musk-has-strong-views-on-hydrogen-and-not-everyone-agrees.html)
+the 'other option' bcz he remembers at one point in his sad
+company's history, resources were taken from that other option, and
+given to him. That, combined with low rates made that company
+what it is today, not any solid foresight on tech or brains.
+
+---
+
+Bama admin did make that wrong emphasis on battery electric. They went
+for the Obamacare of green tech, I guess that should not be
+surprising.
+
+[[-]](https://www.planetizen.com/node/72399)
+
+---
+
+I already had [some good material](2022/06/population-demographics-growth.html)
+on the topic, then added some extra analysis (same post,
+bottom part). No blatant correlation visible between working age population
+(ratio) and gdp per capita. In fact I've never seen a less uncorrelated
+graph in my life, on a viewpoint whose claims are so big..
+
+They constantly use Japan as an example in this space, 'population
+collapse', yet Japan is doing fine.
+
+I repeat the argument I used last time - how many people does it take
+to invent a f-ing Walkman?
+
+"Working age population decreasing will mean the collapse of economies"
+
+---
+
+"Ew but demographics". That old chestnut.. is getting old 🤨. This is
+the go-to analysis for people who want to throw around some
+sophisticated-ish sound bytes wout much work.
+
+---
+
+Sample output below. Not bad..
+
+I might switch to this lib.
+
+```python
+import trafilatura
+downloaded = trafilatura.fetch_url('https://www.cnbc.com')
+print (trafilatura.extract(downloaded))[2300:2500]
+```
+
+```python
+```
+
+```text
+cks making the biggest moves midday: Salesforce, Delta, Albemarle and more
+1 Hour Ago
+SeatGeek terminates deal to go public with Billy Beane's SPAC due to volatility
+1 Hour Ago
+The Fed's Mary Daly say
+```
+
+---
+
+Found out about a web scraping package `trafilatura`
+
+---
+
+How about Henny? Or Crissie?
+
+---
+
+Remy shows increase in earnings. 
+
+---
+
+"Veritas numquam perit". Hah
+
+---
+
+Politico: "Croatia on track to adopt the euro"
+
+---
+
+"@DanielLDavis1
+
+Biden's rockets to Ukraine are modern, precision weapons, but won't
+chg tactical outcome - and raise many questions. Wisest course remains
+Ukraine seeking best deal possible"
+
+[[-]](https://twitter.com/DanielLDavis1/status/1532033848019668992)
+
+---
+
 H2 View: "Green hydrogen projects in desert regions using
 desalinization to provide the H2 production with water could also be
 used to boost potable water levels for the people living there,

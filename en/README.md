@@ -6,135 +6,123 @@
 
 ---
 
-H2 Fuel News: "Gold Coast Transit District receives hydrogen fuel cell
-bus for testing"
+"@OdedRechavi
+
+Paradigm shift"
+
+[[-]](https://pbs.twimg.com/media/FUL4cLlXsAATFJh?format=png&name=small)
 
 ---
 
-H2 View: "Hydrogen compression specialists, Calvera Industrial Group,
-has signed a strategic alliance in a bid to consolidate its
-international growth and presence in the US."
+WION: "Suicide by firearms among youth in the United States highest in
+20 years"
 
 ---
 
-"@Lavjit_Singh
-
-To meet the crazy 2030 hydrogen demand & supply targets, the 5 large
-scale pipeline corridors planned for EU"
-
-[[-]](https://twitter.com/Lavjit_Singh/status/1532263190951763968)
+True on Bay right? Bland stories but his movies just grind it out,
+scene after scene, explosion by explosion..  Every scene is visually
+pleasing, feels like they need to be paid attention to, but
+underneath.. there isn't much.
 
 ---
 
-H2 View: "Airbus facility to develop cryogenic hydrogen tank system
-for future planes"
+Kosinski directed *Top Gun Maverick*? *Oblivion* was a great movie. 
 
 ---
 
-"@WeAreEnergyNL
-
-Nathan Ashcroft, Strategic Business Developer, Stantec Consulting Ltd.
-spoke about hydrogen from a global perspective. Shared there are lots
-of regional opportunities; hydrogen production moving by pipeline is
-doable & we have the capabilities in NL"
+Good story with good directing is Hitchcock. 
 
 ---
 
-Obama created this cunt. It might be his biggest mistake. He gave him
-bunch of space contracts, which were used to create a geek image, and
-that helped propel other ventures, shoddy "gizmo-biz" concoctions at
-best.
+Good directing without good story is Michal Bay.
 
 ---
 
-That's why the e-jagoff keeps [badmouthing](https://www.cnbc.com/2021/12/06/elon-musk-has-strong-views-on-hydrogen-and-not-everyone-agrees.html)
-the 'other option' bcz he remembers at one point in his sad
-company's history, resources were taken from that other option, and
-given to him. That, combined with low rates made that company
-what it is today, not any solid foresight on tech or brains.
+Couldn't they cut them in? Russia I mean; somehow make them part of
+the process, so they would have less of an incentive to invade? 
 
 ---
 
-Bama admin did make that wrong emphasis on battery electric. They went
-for the Obamacare of green tech, I guess that should not be
-surprising.
+Energy will always find customers.
 
-[[-]](https://www.planetizen.com/node/72399)
+Even Europe can get that same energy they boycott eventually as
+"Hungarian blend", or "Latvian Blend" one day.
 
----
-
-I already had [some good material](2022/06/population-demographics-growth.html)
-on the topic, then added some extra analysis (same post,
-bottom part). No blatant correlation visible between working age population
-(ratio) and gdp per capita. In fact I've never seen a less uncorrelated
-graph in my life, on a viewpoint whose claims are so big..
-
-They constantly use Japan as an example in this space, 'population
-collapse', yet Japan is doing fine.
-
-I repeat the argument I used last time - how many people does it take
-to invent a f-ing Walkman?
-
-"Working age population decreasing will mean the collapse of economies"
-
----
-
-"Ew but demographics". That old chestnut.. is getting old 🤨. This is
-the go-to analysis for people who want to throw around some
-sophisticated-ish sound bytes wout much work.
-
----
-
-Sample output below. Not bad..
-
-I might switch to this lib.
-
-```python
-import trafilatura
-downloaded = trafilatura.fetch_url('https://www.cnbc.com')
-print (trafilatura.extract(downloaded))[2300:2500]
-```
-
-```python
-```
-
-```text
-cks making the biggest moves midday: Salesforce, Delta, Albemarle and more
-1 Hour Ago
-SeatGeek terminates deal to go public with Billy Beane's SPAC due to volatility
-1 Hour Ago
-The Fed's Mary Daly say
-```
-
----
-
-Found out about a web scraping package `trafilatura`
-
----
-
-How about Henny? Or Crissie?
-
----
-
-Remy shows increase in earnings. 
-
----
-
-"Veritas numquam perit". Hah
-
----
-
-Politico: "Croatia on track to adopt the euro"
+"Putin scored an own goal by invading Ukraine it will put his Europe
+energy exports at risk"
 
 ---
 
 "@DanielLDavis1
 
-Biden's rockets to Ukraine are modern, precision weapons, but won't
-chg tactical outcome - and raise many questions. Wisest course remains
-Ukraine seeking best deal possible"
+News flooding out of \#BattleofDonbas reveals balance of pwr tilting
+more heavily in RU's favor despite what any of us want. It's time to
+consider the unthinkable - trading land for peace"
 
-[[-]](https://twitter.com/DanielLDavis1/status/1532033848019668992)
+[[-]](https://mobile.twitter.com/DanielLDavis1/status/1532345442394161152)
+
+---
+
+"The Russian sniper is a specially selected and skilled soldier
+who.. is part of the target acquisition system... Objectives of a
+sniper team during en masse employments are to hinder or channelize
+movement of tactical formations and then direct artillery fire on
+prioritized targets...
+
+In Russian Military culture, artillery is called the 'God of War.'
+Whereas U.S. forces rely on artillery to support maneuver, the
+Russians take the opposite approach: maneuver supports artillery.
+Artillery is the decisive finishing arm for the Russian Army..
+
+The employment of UAS by Russian Forces adds another dimension to
+their fires capability.  In Eastern Ukraine, Russian Forces have
+demonstrated their ability to direct and adjust fires with their
+drones. Ukrainian forces have repeatedly seen a systematic approach by
+the Russians to acquire a target with a UAS. A high level UAS will
+identify a Ukrainian target. It will then pass off that target to
+another lower level UAS to determine the target coordinates. Then the
+Russians will adjust their fire with the UAS based on the initial
+artillery strikes. The total time for this process can be as little as
+10-15 minutes...
+
+One thing noticeably absent from Russian UAS employment is the kind of
+surgical drone strike that the U.S. has used to great effect in the
+past 15 years. Russia does not currently possess a weaponized UAS
+similar to a Predator"
+
+[PDF](https://info.publicintelligence.net/AWG-RussianNewWarfareHandbook.pdf)
+
+---
+
+Chevron, Shell had all moved in to develop Ukrainian fields.. But they
+forgot about the bear next door.
+
+---
+
+Look at the potential new gas fields; all areas being invaded right now
+
+[[-]](https://pbs.twimg.com/media/FUQZArcWYAAe841?format=jpg&name=small)
+
+---
+
+That translates to approx 12 gboe (gigabarrels of oil equivalent),
+about one tenth of largest known oil field. Not bad. That'll push a
+man to invade combined with all other insecurities building up at
+those borders.
+
+Wiki: "The Yuzivska gas field is a Ukrainian natural gas field that
+was discovered in 2010. It was expected to begin production in 2017,
+but development was halted because of the outbreak of the 2014 war in
+the Donbas region. The total proven reserves of the Yuzivska gas field
+are around 70.8 trillion cubic feet"
+
+[[-]](https://en.wikipedia.org/wiki/Yuzivska_gas_field)
+
+---
+
+\#ukraine \#natgas
+
+[[-]](https://youtu.be/Eo6w5R6Uo8Y?t=1493)
 
 ---
 
