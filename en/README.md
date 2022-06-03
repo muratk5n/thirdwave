@@ -77,14 +77,6 @@ are around 70.8 trillion cubic feet"
 
 ---
 
-"@OdedRechavi
-
-Paradigm shift"
-
-[[-]](https://pbs.twimg.com/media/FUL4cLlXsAATFJh?format=png&name=small)
-
----
-
 WION: "Suicide by firearms among youth in the United States highest in
 20 years"
 
