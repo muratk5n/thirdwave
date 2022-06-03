@@ -6,6 +6,27 @@
 
 ---
 
+'@KeAppunn
+
+'Price for natural gas in Germany will never be as low again as before
+Ukraine war -- because of that there is now a business case for
+ramping up hydrogen,' says German econ & climate min \#Habeck @BMWK at
+\#bdewk22 conference \#EnergyTransition"
+
+---
+
+Recarge News: "Richest nations pledge support for blue H2 and hydrogen
+use in natural gas infrastructure and thermal power plants"
+
+---
+
+"@plasturgieweb
+
+ZeroAvia makes major strides in hydrogen refueling with shell
+collaboration and airport pipeline launch"
+
+---
+
 "@OdedRechavi
 
 Paradigm shift"
