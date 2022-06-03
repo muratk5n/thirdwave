@@ -97,18 +97,6 @@ underneath.. there isn't much.
 
 ---
 
-Kosinski directed *Top Gun Maverick*? *Oblivion* was a great movie. 
-
----
-
-Good story with good directing is Hitchcock. 
-
----
-
-Good directing without good story is Michal Bay.
-
----
-
 Energy will always find its customers. 
 
 "Putin scored an own goal by invading Ukraine it will put his Europe
