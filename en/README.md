@@ -33,6 +33,12 @@ collaboration and airport pipeline launch"
 
 ---
 
+H2 Stove by Empa
+
+[[-]](https://www.empa.ch/web/self/hydrogen-cooker)
+
+---
+
 "@OdedRechavi
 
 Paradigm shift"
