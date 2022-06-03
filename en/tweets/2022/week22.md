@@ -2,6 +2,10 @@
 
 ---
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">To deliver the accelerated 2030 <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> 𝐝𝐞𝐦𝐚𝐧𝐝 &amp; 𝐬𝐮𝐩𝐩𝐥𝐲 𝐭𝐚𝐫𝐠𝐞𝐭𝐬 set by the <a href="https://twitter.com/hashtag/repowereu?src=hash&amp;ref_src=twsrc%5Etfw">#repowereu</a> plan, 5️⃣ large-scale <a href="https://twitter.com/hashtag/pipeline?src=hash&amp;ref_src=twsrc%5Etfw">#pipeline</a> corridors are envisaged. Read more: <a href="https://t.co/DS59rtNn5Q">https://t.co/DS59rtNn5Q</a> <a href="https://t.co/3d5s6LuPEm">pic.twitter.com/3d5s6LuPEm</a></p>&mdash; Fluxys (@FluxysGroup) <a href="https://twitter.com/FluxysGroup/status/1531965543477088263?ref_src=twsrc%5Etfw">June 1, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 H2 Fuel News: "Gold Coast Transit District receives hydrogen fuel cell
 bus for testing"
 
