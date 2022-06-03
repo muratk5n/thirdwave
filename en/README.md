@@ -77,6 +77,19 @@ are around 70.8 trillion cubic feet"
 
 ---
 
+Jane's Defense: "Incoming Australian defence minister to focus on
+sovereign submarine capability"
+
+----
+
+Japan Times: "Biden to visit former 'pariah' Saudi Arabia"
+
+---
+
+F24: "White House changes tone on Saudi prince MBS ahead of potential Biden visit"
+
+---
+
 WION: "Suicide by firearms among youth in the United States highest in
 20 years"
 
@@ -127,6 +140,10 @@ past 15 years. Russia does not currently possess a weaponized UAS
 similar to a Predator"
 
 [PDF](https://info.publicintelligence.net/AWG-RussianNewWarfareHandbook.pdf)
+
+---
+
+WSJ: "Thousands Flee Front-Line Towns in Ukraine as Russian Forces Advance"
 
 ---
 
