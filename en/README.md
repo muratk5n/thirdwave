@@ -39,6 +39,44 @@ H2 Stove by Empa
 
 ---
 
+Couldn't Ukraine/West cut them in? Russia I mean; somehow make them
+part of the process, so they would have less of an incentive to
+invade?
+
+---
+
+Chevron, Shell had all moved in to develop Ukrainian fields.. But they
+forgot about the bear next door.
+
+---
+
+Look at the potential new gas fields; all areas being invaded right now
+
+[[-]](https://pbs.twimg.com/media/FUQZArcWYAAe841?format=jpg&name=small)
+
+---
+
+That translates to approx 12 gboe (gigabarrels of oil equivalent),
+about one tenth of largest known oil field. Not bad. That'll push a
+man to invade combined with all other insecurities building up at
+those borders.
+
+Wiki: "The Yuzivska gas field is a Ukrainian natural gas field that
+was discovered in 2010. It was expected to begin production in 2017,
+but development was halted because of the outbreak of the 2014 war in
+the Donbas region. The total proven reserves of the Yuzivska gas field
+are around 70.8 trillion cubic feet"
+
+[[-]](https://en.wikipedia.org/wiki/Yuzivska_gas_field)
+
+---
+
+\#ukraine \#natgas
+
+[[-]](https://youtu.be/Eo6w5R6Uo8Y?t=1493)
+
+---
+
 "@OdedRechavi
 
 Paradigm shift"
@@ -71,12 +109,7 @@ Good directing without good story is Michal Bay.
 
 ---
 
-Couldn't they cut them in? Russia I mean; somehow make them part of
-the process, so they would have less of an incentive to invade? 
-
----
-
-Energy will always its customers. 
+Energy will always find its customers. 
 
 "Putin scored an own goal by invading Ukraine it will put his Europe
 energy exports at risk"
@@ -121,38 +154,6 @@ past 15 years. Russia does not currently possess a weaponized UAS
 similar to a Predator"
 
 [PDF](https://info.publicintelligence.net/AWG-RussianNewWarfareHandbook.pdf)
-
----
-
-Chevron, Shell had all moved in to develop Ukrainian fields.. But they
-forgot about the bear next door.
-
----
-
-Look at the potential new gas fields; all areas being invaded right now
-
-[[-]](https://pbs.twimg.com/media/FUQZArcWYAAe841?format=jpg&name=small)
-
----
-
-That translates to approx 12 gboe (gigabarrels of oil equivalent),
-about one tenth of largest known oil field. Not bad. That'll push a
-man to invade combined with all other insecurities building up at
-those borders.
-
-Wiki: "The Yuzivska gas field is a Ukrainian natural gas field that
-was discovered in 2010. It was expected to begin production in 2017,
-but development was halted because of the outbreak of the 2014 war in
-the Donbas region. The total proven reserves of the Yuzivska gas field
-are around 70.8 trillion cubic feet"
-
-[[-]](https://en.wikipedia.org/wiki/Yuzivska_gas_field)
-
----
-
-\#ukraine \#natgas
-
-[[-]](https://youtu.be/Eo6w5R6Uo8Y?t=1493)
 
 ---
 
