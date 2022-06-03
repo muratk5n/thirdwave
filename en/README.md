@@ -147,7 +147,7 @@ WSJ: "Thousands Flee Front-Line Towns in Ukraine as Russian Forces Advance"
 
 ---
 
-"NATO-trained" (as opposed to being NATO) could have actually worked
+"NATO-trained" (as opposed to being NATO) actually might have worked
 against Ukraine. NATO likely trained them as it trains itself, to be
 able to integrate indiv country's forces so they can fight
 together. That can make u lax; They did not think an integrated mil
