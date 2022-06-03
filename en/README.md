@@ -90,13 +90,6 @@ WION: "Suicide by firearms among youth in the United States highest in
 
 ---
 
-True on Bay right? Bland stories but his movies just grind it out,
-scene after scene, explosion by explosion..  Every scene is visually
-pleasing, feels like they need to be paid attention to, but
-underneath.. there isn't much.
-
----
-
 Energy will always find its customers. 
 
 "Putin scored an own goal by invading Ukraine it will put his Europe
