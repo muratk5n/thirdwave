@@ -76,6 +76,13 @@ the process, so they would have less of an incentive to invade?
 
 ---
 
+Energy will always its customers. 
+
+"Putin scored an own goal by invading Ukraine it will put his Europe
+energy exports at risk"
+
+---
+
 "@DanielLDavis1
 
 News flooding out of \#BattleofDonbas reveals balance of pwr tilting
