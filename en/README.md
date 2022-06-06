@@ -176,7 +176,7 @@ Vladimir Putin in Sochi today"
 
 ---
 
-Yuzivska field is shale-gas tho.. Fracking is bad.
+Yuzivska field is shale-gas though.. Fracking is bad.
 
 ---
 
