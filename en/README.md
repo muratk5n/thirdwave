@@ -145,10 +145,9 @@ just some f-ing weirdos who cant get their shit together.
 ---
 
 Prof Avi Loeb makes a good case; Oumuamua could be an artificial
-man-made (or little-green-men-made) object. He is not that excited
-about UFO sightings, bashes ppl wasting time on string theory
-(gymnastics in Anti-de Sitter space), and the multiverse. He seems to
-have the right kind of bullshit filter.
+object. He is not that excited about UFO sightings, bashes ppl wasting
+time on string theory (gymnastics in Anti-de Sitter space), and the
+multiverse. He seems to have the right kind of bullshit filter.
 
 ---
 
