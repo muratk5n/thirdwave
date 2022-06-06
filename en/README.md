@@ -116,7 +116,7 @@ bitcoin with rent deposits'.
 
 ---
 
-FOMO markets created an 'investor' out of everyone
+FOMO markets created 'investors' out of everyone
 
 ---
 
@@ -151,8 +151,8 @@ project they thought was worth their time.
 ---
 
 Prof Avi Loeb makes a good case; Oumuamua could be an artificial
-object. He is not that excited about UFOs, and he bashes ppl wasting
-time on string theory (gymnastics in Anti-de Sitter space), the
+object. He is not that excited about UFO sightings, bashes ppl wasting
+time on string theory (gymnastics in Anti-de Sitter space), and the
 multiverse. He seems to have the right kind of bullshit filter.
 
 ---
