@@ -171,7 +171,7 @@ be inflationary \#Bloomberg
 
 ---
 
-Jack Arel - Enter the Ironman | Battlefield Bad Company 2: Vietnam OST \#music
+Jack Arel - Enter the Ironman \#music
 
 [[-]](https://youtu.be/PNrOj1QxE5I)
 
