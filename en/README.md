@@ -169,7 +169,7 @@ Discipline problems, morale down?
 
 Military Analyst: "Ukraine military wanted to apply a new law which
 would have given commanders the ability to punish soldiers, it was not
-approved by gov for now"
+approved by gov, for now"
 
 ---
 
