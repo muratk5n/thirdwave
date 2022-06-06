@@ -879,7 +879,7 @@ from Iran over the years.
 
 ---
 
-[Data](../../tweets/2022/kurd1.json)
+[Data](kurd1.json)
 
 ---
 
