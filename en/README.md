@@ -92,9 +92,9 @@ the old episodes'
 
 ---
 
-Some say time to get out of the market is when the cabbie driver asks
-you about stocks. We can replace that with 'when landlords buy bitcoin
-with rent deposits'.
+Some say time to get out of the market is when the cabbie driver gives
+you tips on stocks. We can replace that with 'when landlords buy
+bitcoin with rent deposits'.
 
 ---
 
