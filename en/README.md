@@ -92,21 +92,11 @@ Kosinski directed *Top Gun Maverick*? *Oblivion* was great.
 
 ---
 
-Japanese funk band shared before reminded me of Marcus Miller, and yes
-the cover was one of his. I bet the basist had them do it, MM is major
-name in slap-bass technique.
-
----
-
 "@MikeJudge
 
 .. [N]ew Beavis and Butthead movie coming to Paramount + on June
 23rd. The brand new series will follow shortly after, along with all
 the old episodes'
-
----
-
-*The Spy Who Never Dies*, off kilter but funny
 
 ---
 
