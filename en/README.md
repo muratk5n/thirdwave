@@ -217,7 +217,7 @@ Yuzivska gas field juxtaposed on the conflict map.
 
 ---
 
-"In 2010, gas reserve was discovered in Donbas Ukraine. The [IEA]
+"In 2010, gas [reserves were] discovered in Donbas Ukraine. The [IEA]
 reported the natural gas reserves are estimated at 5.4 trillion cubic
 meters, which is worth $4.8 trillion and can supply the European Union
 countries gas demands for forty five years... [In] April 8, 2022,
