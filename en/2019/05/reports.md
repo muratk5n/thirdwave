@@ -14,4 +14,6 @@
 
 [US Bases](usmil.md#bases)
 
+[Oil and Gas Fields](oilgas-out.html)
+
 
