@@ -140,7 +140,7 @@ maybe left-over tech from a civ which may or may not still be around.
 This ET biz doesn't have to be flashy; civs can die out, not around,
 we run into their leftovers, ones that are alive might not have
 space-faring capability, and/or we are not that interesting anyway,
-just some f-ing weirdos who cant get their shit together.
+just some effin weirdos who cant get their shit together.
 
 ---
 
