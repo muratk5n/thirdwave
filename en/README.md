@@ -153,12 +153,6 @@ be inflationary \#Bloomberg
 
 ---
 
-Jack Arel - Enter the Ironman \#music
-
-[[-]](https://youtu.be/PNrOj1QxE5I)
-
----
-
 Discipline problems, morale down?
 
 Military Analyst: "Ukraine military wanted to apply a new law which
