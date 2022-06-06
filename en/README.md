@@ -132,7 +132,7 @@ project they thought was worth their time.
 
 ---
 
-Relative to objects around it the object was actually standing still,
+Relative to others around it the object was actually standing still,
 we ran into it, pushed it away (through solar energy). AL claims the
 object was likely a buoy of sorts, just sitting there, as a marker,
 maybe left-over tech from a civ which may or may not still be around.
