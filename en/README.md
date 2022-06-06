@@ -168,8 +168,8 @@ be inflationary \#Bloomberg
 Discipline problems, morale down?
 
 Military Analyst: "Ukraine military wanted to apply a new law which
-would have given commanders to punish soldiers, it was not approved by
-gov for now"
+would have given commanders the ability to punish soldiers, it was not
+approved by gov for now"
 
 ---
 
