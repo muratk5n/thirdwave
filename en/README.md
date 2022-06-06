@@ -69,7 +69,7 @@ crude oil"
 
 I'd ban crypto mining period (if possible), carbon or green; it's
 completely unnecessary to create a digital cash. Plus it's not like
-green energy is growing on trees either.
+green energy is growing on trees.
 
 "The New York Senate has passed a bill that bans crypto mining
 operations that use carbon-based fuel to power their facilities"
