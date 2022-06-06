@@ -1,19 +1,18 @@
 # Reports
 
-[Economy](stats.md)
+[Economy](stats.html)
 
-[Conflicts](confstats.md)
+[Conflicts](confstats.html)
 
-[Earthquakes](natdisaster.md#equakes)
+[Earthquakes](natdisaster.html#equakes)
 
-[Fires](natdisaster.md#fires)
+[Fires](natdisaster.html#fires)
 
-[Unarmed Non-Whites Shot By the Police](confstats.md#unarmed)
+[Unarmed Non-Whites Shot By the Police](confstats.html#unarmed)
 
-[US Navy Location](usmil.md#navy)
+[US Navy Location](usmil.html#navy)
 
-[US Bases](usmil.md#bases)
+[US Bases](usmil.html#bases)
 
-[Oil and Gas Fields](oilgas-out.html)
-
+[Oil and Gas Fields](oilgas.html)
 
