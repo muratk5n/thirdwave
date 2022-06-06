@@ -80,15 +80,7 @@ operations that use carbon-based fuel to power their facilities"
 
 ---
 
-"@OdedRechavi
-
-Paradigm shift"
-
-[[-]](https://pbs.twimg.com/media/FUL4cLlXsAATFJh?format=png&name=small)
-
----
-
-Kosinski directed *Top Gun Maverick*? *Oblivion* was great.
+J. Kosinski directed *Top Gun Maverick*? *Oblivion* was great.
 
 ---
 
