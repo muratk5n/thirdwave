@@ -132,6 +132,18 @@ project they thought was worth their time.
 
 ---
 
+Relative to objects around it the object was actually standing still,
+we ran into it, pushed it away (through solar energy). AL claims the
+object was likely a buoy of sorts, just sitting there, as a marker,
+maybe left-over tech from a civ which may or may not still be around.
+
+This ET biz doesn't have to be flashy; civs can die out, not around,
+we run into their leftovers, ones that are alive might not have
+space-faring capability, and/or we are not that interesting anyway,
+just some f-ing weirdos who cant get their shit together.
+
+---
+
 Prof Avi Loeb makes a good case; Oumuamua could be an artificial
 man-made (or little-green-men-made) object. He is not that excited
 about UFO sightings, bashes ppl wasting time on string theory
