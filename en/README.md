@@ -214,11 +214,11 @@ main goal, the liberation of Donbass.'"
 
 Yea.. that wld be escalatory..  
 
-"UK ‘not to send warships to Black Sea’ to escort Ukrainian grain
-shipments.. Earlier, UK newspaper the Times reported, citing its
-sources, that Britain was considering sending warships to the Black
-Sea to escort ships carrying Ukrainian grain, the export of which is
-being blocked by Russia"
+Yahoo News: "UK 'not to send warships to Black Sea' to escort
+Ukrainian grain shipments.. Earlier, UK newspaper the Times reported,
+citing its sources, that Britain was considering sending warships to
+the Black Sea to escort ships carrying Ukrainian grain, the export of
+which is being blocked by Russia"
 
 ---
 
