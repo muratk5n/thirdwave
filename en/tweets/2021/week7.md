@@ -468,7 +468,7 @@ They need to take that shite off the Internet.
 ---
 
 If an area as large as Texas was covered with panels today, it would
-[provide](../../2019/05/bezos-space-infrastructure.md#energy) ample energy,
+[provide](../../2019/06/bezos-space-infrastructure.html#energy) ample energy,
 twice of what is required actually, for the entire world.
 
 Colonization fine for other things, not urgent for energy.

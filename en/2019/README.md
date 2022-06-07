@@ -36,8 +36,6 @@
 
 [Economy, Calculations, Data](05/stats.html)
 
-[Unfettered Capitalism](05/unfettered.html)
-
 [US Bases and Navy Locations](05/usmil.html)
 
 [Bancor](06/bancor.html)

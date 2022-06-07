@@ -951,7 +951,7 @@ OUT.
 Double-check on Bezos energy projections / fears (10 KW / person, we
 will run out of panel space, etc etc)
 
-[Link](../../2019/05/bezos-space-infrastructure.md#energy)
+[Link](../../2019/06/bezos-space-infrastructure.html#energy)
 
 ---
 

@@ -369,3 +369,10 @@ different interests pullling to all different directions. You cant
 just "get on with it". If they could they would have by now.
 
 ---
+
+What Greed has Done: Chris Hedges
+
+[[-]](https://youtu.be/6w-DVGWVhIw?t=75)
+
+---
+
