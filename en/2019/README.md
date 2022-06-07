@@ -26,8 +26,6 @@
 
 [Conflict Statistics](05/confstats.html)
 
-[Get On With It](05/geton.html)
-
 [Natural Disasters](05/natdisaster.html)
 
 [Oil and Gas Fields](05/oilgas.html)
