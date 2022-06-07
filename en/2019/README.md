@@ -28,9 +28,9 @@
 
 [Get On With It](05/geton.html)
 
-[Hurricanes, Integrated Kinetic Energy](05/ike.html)
-
 [Natural Disasters](05/natdisaster.html)
+
+[Oil and Gas Fields](05/oilgas.html)
 
 [Reports](05/reports.html)
 
@@ -45,6 +45,8 @@
 [Bancor](06/bancor.html)
 
 [GE Unleashing a Hydrogen Gas Power Future](06/ge-h2.html)
+
+[Hurricanes, Integrated Kinetic Energy](06/ike.html)
 
 [Hope for Jaded Green Investors](06/jaded-h2.html)
 

@@ -32,5 +32,9 @@
 
 [The New Economics](05/the-new-economics-keen.html)
 
+[Extraterrestrial](06/extraterrestrial-loeb.html)
+
+[Population Growth, Demographics, Economics](06/population-demographics-growth.html)
+
 [The H2 Revolution](06/the-h2-revolution-alvera.html)
 
