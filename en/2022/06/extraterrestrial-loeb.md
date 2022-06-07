@@ -4,10 +4,10 @@ Avi Loeb
 
 Oumuamua
 
-For starters, prior to Oumuamua’s discovery, no confirmed
-interstellar object had ever been observed in our own solar
-system. That alone made 29Oumuamua historic, and it was enough to
-draw many astronomers’ attention..
+For starters, prior to Oumuamua’s discovery, no confirmed interstellar
+object had ever been observed in our own solar system. That alone made
+Oumuamua historic, and it was enough to draw many astronomers’
+attention..
 
 And once we had our telescopes trained on Oumuamua, we looked for one
 bit of information in particular: how Oumuamua reflected sunlight.
@@ -78,8 +78,7 @@ String Theory, Multiverse, The Large Hadron Collider
 I have long been aware that within the discipline of astronomy, SETI
 faces hostility.. Mainstream theoretical physicists now widely accept
 the study of extra-spatial dimensions beyond the three we are all
-familiar with—plainly put, height, width, and depth—and the fourth
-dimension, time. This is despite the fact that there is no evidence
+familiar with..  This is despite the fact that there is no evidence
 for any such extra dimensions. Similarly, a hypothetical multiverse—an
 infinite number of universes all existing simultaneously in which
 everything that could conceivably happen is happening—occupies many of
