@@ -306,7 +306,7 @@ Integrated Kinetic Energy calculation for hurricanes. The particular
 NOAA archive I used does not have the most recent events, but Katrina,
 Sandy dates are there.
 
-[[-]](../../2019/05/ike.md)
+[[-]](../../2019/06/ike.md)
 
 ---
 
