@@ -271,5 +271,3 @@ Hindustan Times: "Russia shipped 'stolen' wheat to ally Syria?"
 [Search](search.html)
 
 [Tweet Archive](tweets/README.html)
-
-
