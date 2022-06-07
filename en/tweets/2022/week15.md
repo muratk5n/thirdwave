@@ -429,7 +429,7 @@ government employees BTW.
 
 ---
 
-[Link](../../2017/07/the-next-decade-friedman.md#three)
+[Link](../../2017/07/the-next-decade-friedman.html#three)
 
 ---
 
@@ -524,7 +524,7 @@ name (which actually benefit oil and arms manufacturers but hey it's
 the thought that counts). However such free love creates a point of
 contention with traditionally left-leaning labor as more people
 increase competition for wages. Cesar Chavez, a Hispanic union leader
-[did not support](../../2021/03/ship-of-fools.md#chavez) open borders.
+[did not support](../../2021/03/ship-of-fools.html#chavez) open borders.
 
 ---
 

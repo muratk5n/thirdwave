@@ -560,7 +560,7 @@ This aint like talking shit on CNN with your American accent is it
 Netan?
 
 "Hamas! Hamas!" he used to say, on US TV, all the time.. Now we know
-Hamas is [their creation](../../2020/06/10-myths-israel.md#hamas).
+Hamas is [their creation](../../2020/06/10-myths-israel.html#hamas).
 
 ---
 

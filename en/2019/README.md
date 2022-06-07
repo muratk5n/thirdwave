@@ -22,8 +22,6 @@
 
 [Green Ammonia](04/greenammonia.html)
 
-[Infrastructure for Space, Bezos](05/bezos-space-infrastructure.html)
-
 [Conflict Statistics](05/confstats.html)
 
 [Natural Disasters](05/natdisaster.html)
@@ -39,6 +37,8 @@
 [US Bases and Navy Locations](05/usmil.html)
 
 [Bancor](06/bancor.html)
+
+[Infrastructure for Space, Bezos](06/bezos-space-infrastructure.html)
 
 [GE Unleashing a Hydrogen Gas Power Future](06/ge-h2.html)
 

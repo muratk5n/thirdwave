@@ -374,7 +374,7 @@ states is where you draw the line?
 
 4.4 M more claims. 
 
-[Link](../../2019/05/stats.md#claims)
+[Link](../../2019/05/stats.html#claims)
 
 ---
 
@@ -586,7 +586,7 @@ Fully stocked.
 Just realized that Pikkety book came out in '13, around peak year of
 US inequality.
 
-[Link](../../2019/05/stats.md#gini)
+[Link](../../2019/05/stats.html#gini)
 
 ---
 

@@ -724,7 +724,7 @@ Businesses to receive $500 hand outs. More details to come..."
 
 Junk bond rates are in the upswing, yield at 7.69% from 6.10% on Mar 5.
 
-[Link](../../2019/05/stats.md#junkbond)
+[Link](../../2019/05/stats.html#junkbond)
 
 ---
 
@@ -1204,7 +1204,7 @@ HFC tractor from Netherlands
 
 Volatity Index 
 
-[Link](../../2019/05/stats.md#vix)
+[Link](../../2019/05/stats.html#vix)
 
 ---
 

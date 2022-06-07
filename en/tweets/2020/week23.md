@@ -83,7 +83,7 @@ was black"
 
 ---
 
-[7-11%](../../2020/04/turks-culture-national-narrative.md#gene).
+[7-11%](../../2020/04/turks-culture-national-narrative.html#gene).
 That makes sense.
 
 ---
@@ -953,7 +953,7 @@ There's actually a great deal of evidence that police violence is so much more p
 
 ---
 
-You don't know what ur [talking about](../../2020/07/kurds-anatolia.md#opressword)...
+You don't know what ur [talking about](../../2020/07/kurds-anatolia.html#opressword)...
 
 "You say TR identity is used in an opressive way. It can't be that bad.."
 

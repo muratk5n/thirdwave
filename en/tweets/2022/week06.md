@@ -90,7 +90,7 @@ World Energy Consumption by Source, Monthly (twh)
 
 <img width="340" src="https://pbs.twimg.com/media/FLQGtjrWUAIvLbw?format=png&name=small"/>
 
-[[-]](../../2019/05/stats.md#engconsumption)
+[[-]](../../2019/05/stats.html#engconsumption)
 
 ---
 
@@ -150,7 +150,7 @@ would be visible to see.
 
 NFT is simply a record of ownership, it's intangible; but there is a
 lot of intangible even in the most tangible asset there is -
-[property](../../2008/03/revolutionary-wealth-toffler.md#intangible).
+[property](../../2008/03/revolutionary-wealth-toffler.html#intangible).
 
 Without the record of who owns what real-estate would have no meaning.
 In some distant future such record-keeping could completely move to
@@ -161,7 +161,7 @@ ownership.
 
 ---
 
-Globalization (now re-globalization) happened [before](../../2008/03/revolutionary-wealth-toffler.md#globalization)
+Globalization (now re-globalization) happened [before](../../2008/03/revolutionary-wealth-toffler.html#globalization)
 (didn't end well).
 
 ---
@@ -170,7 +170,7 @@ Diversity of products a country can produce raises its econ, not how much it is 
 
 ---
 
-The theory of [economic complexity](../../2017/08/economic-complexity-hidalgo.md#global)
+The theory of [economic complexity](../../2017/08/economic-complexity-hidalgo.html#global)
 says otherwise.
 
 "Globalization will always work, division of labor idea of Adam Smith says so"
@@ -446,7 +446,7 @@ This is some kind of crazy science!
 
 ---
 
-[Stochastic parrot](../../2020/07/ai-comments.md#parrot)
+[Stochastic parrot](../../2020/07/ai-comments.html#parrot)
 
 ---
 
@@ -654,7 +654,7 @@ in Ecuador in a protected area of the Amazon"
 
 ---
 
-Maybe a [parallel to econ](../../2022/01/particles-and-ai.md#econ) will help
+Maybe a [parallel to econ](../../2022/01/particles-and-ai.html#econ) will help
 
 "I still dont get the comment on the particle / formula distinction"
 

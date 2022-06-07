@@ -104,7 +104,7 @@ religious, Kemalist and Ottomanist (quite ironic since Kemal was a
 staunch anti-royalist), a weird potpourri of ideologies, except space
 for Kurds, who stayed away from this crooked identity en masse, to
 their detriment. A grab-bag of ideologies thrown together is obviously
-a perfect example of [fascism](../../2020/07/right-acting-left.md#fascism).
+a perfect example of [fascism](../../2020/07/right-acting-left.html#fascism).
 
 If more and more admins to follow emphasized the fairy tales less and
 less, gradually it would help alleviate the bizarreness. The problem

@@ -35,7 +35,7 @@ noone wants.
 
 ---
 
-[Exactly](2015/09/the-logic-of-political-survival-mesquita.md#elections). People don't
+[Exactly](2015/09/the-logic-of-political-survival-mesquita.html#elections). People don't
 know shit.  That's why you dont put them on the spot for specific
 policy (see Brexit).  
 
@@ -502,7 +502,7 @@ Clean Hydrogen Alliance!"
 
 ---
 
-If one has certain [socdyn ability](2015/07/mesquita-game-theory.md#inborn),
+If one has certain [socdyn ability](2015/07/mesquita-game-theory.html#inborn),
 an idea is to use it to find good anchor points, calculations, measurements, lit,
 and use that to build more know-how around. Can lead to more replicatable
 results and might even to something resembling science. I did this bcz

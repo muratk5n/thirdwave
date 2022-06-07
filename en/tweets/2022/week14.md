@@ -532,7 +532,7 @@ First U.S. Amazon Union"
 AMZN, Blue Origin can do some good in space industry.. When are
 they building O'Neill Cylinders?
 
-[[-]](2020/09/space-exploration-goals-colonization.md#oneill)
+[[-]](2020/09/space-exploration-goals-colonization.html#oneill)
 
 ---
 
@@ -729,7 +729,7 @@ energy deals, ports and roads for his country.
 
 ---
 
-Additional info [here](2021/03/unrivaled-beckley.md#taiwan).
+Additional info [here](2021/03/unrivaled-beckley.html#taiwan).
 
 ---
 

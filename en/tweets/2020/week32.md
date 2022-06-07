@@ -44,7 +44,8 @@ functional in the entire bunch!!
 
 ---
 
-Makes sense, [AFAIK](../../2017/07/the-next-decade-friedman.md#lebanon) Lebanon came to being bcz of France.
+Makes sense, [AFAIK](../../2017/07/the-next-decade-friedman.html#lebanon)
+Lebanon came to being bcz of France.
 
 Macron: "France will never give up on Lebanon"
 

@@ -268,7 +268,7 @@ period the world consumption requires **53,931** GWh of storage.
 
 Opec crude production still down..
 
-[[-]](2019/05/stats.md#opec)
+[[-]](2019/05/stats.html#opec)
 
 ---
 

@@ -171,7 +171,7 @@ gain? Big Tech and Big Content"
 
 ---
 
-Numbers dont [look good](../../2022/02/base-energy-numbers.md#ukcar) for merely
+Numbers dont [look good](../../2022/02/base-energy-numbers.html#ukcar) for merely
 driving either.. Current calc does not leave much room for error,
 growth
 
@@ -325,7 +325,7 @@ part.  Wasting time bad.. every move needs to count.
 
 ---
 
-[This](.././2017/07/the-next-decade-friedman.md#australia) is why Oz is
+[This](.././2017/07/the-next-decade-friedman.html#australia) is why Oz is
 friendly with a naval power, first Britain, than US. They get naval
 help, but then have to provide military assist to it.
 
@@ -366,7 +366,7 @@ Ok..Ok.. We'll do Eulerian style too 🙄
 
 ---
 
-Looking at the religious [make-up](2020/04/turks-culture-national-narrative.md#religion)
+Looking at the religious [make-up](2020/04/turks-culture-national-narrative.html#religion)
 of the area is demonstrative.
 
 ---

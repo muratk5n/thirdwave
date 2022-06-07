@@ -803,7 +803,7 @@ terminals"
 
 Snam CEO on H2 pipelines
 
-[[-]](2022/06/the-h2-revolution-alvera.md#pipelines)
+[[-]](2022/06/the-h2-revolution-alvera.html#pipelines)
 
 ---
 

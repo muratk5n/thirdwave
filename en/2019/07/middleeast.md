@@ -1,6 +1,6 @@
 # The Middle East, Israel, Palestine
 
-[Palestine, Lebanon, Hashemites](../../2017/07/the-next-decade-friedman.md#lebanon)
+[Palestine, Lebanon, Hashemites](../../2017/07/the-next-decade-friedman.html#lebanon)
 
 [Some Myths about the Israeli-Palestinian Conflict](../../2014/07/israeli-myths-hammond.md)
 

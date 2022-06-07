@@ -311,7 +311,7 @@ Death came a knocking- Ruthie Foster \#music
 
 ---
 
-[FRED graph](2019/05/stats.md#t3mff), 3-month treasury and FEDFUNDS
+[FRED graph](2019/05/stats.html#t3mff), 3-month treasury and FEDFUNDS
 differential.
 
 When the difference is out of whack, it can be a signal things are

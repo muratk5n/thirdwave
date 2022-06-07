@@ -124,7 +124,7 @@ figure, US study suggests"
 ---
 
 That soldier might have pulled the trigger but Fidel is the
-[true killer](../../2015/04/dictators-handbook-mesquita.md#fidelche)
+[true killer](../../2015/04/dictators-handbook-mesquita.html#fidelche)
 of Che.
 
 "Bolivian soldier who shot dead revolutionary Che Guevara dies at 80"
@@ -840,7 +840,7 @@ Gravitas Plus: Did NATO push Ukraine into war?
 
 Stalingrad, "the gap", Ukraine
 
-[[-]](../../2017/07/the-next-decade-friedman.md#ukrgap)
+[[-]](../../2017/07/the-next-decade-friedman.html#ukrgap)
 
 ---
 

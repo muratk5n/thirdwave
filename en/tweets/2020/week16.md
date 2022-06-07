@@ -300,7 +300,7 @@ effect the average of next N days, new cases then divided by the past
 average can give an R estimate. The estimate shows the world has now R
 < 1. US is not out of the woods (R around 1.2 but decreasing trend).
 
-[Link](../../2020/02/corona_math.md#r0est)
+[Link](../../2020/02/corona_math.html#r0est)
 
 ---
  
@@ -1063,7 +1063,7 @@ probably go down.
 ---
 
 Labeled administrations on the [Gini
-plot](../../2019/05/stats.md#gini). Ineq rose under W, net gain
+plot](../../2019/05/stats.html#gini). Ineq rose under W, net gain
 only under HW and DJT (so far). Granted Obama admin began during GFC
 aftermath, things improved later starting '12, but looking at the net
 he finished in the red. Same for Clinton.

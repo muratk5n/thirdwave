@@ -296,7 +296,7 @@ Excessive capitalism is killing people
 How deadly is Omicron? See below. Not as bad as October peak of Delta
 so far, but it doesn't look harmless either. 
 
-[[-]](../../2020/02/corona.md#usdailydeath)
+[[-]](../../2020/02/corona.html#usdailydeath)
 
 ---
 

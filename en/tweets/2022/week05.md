@@ -65,13 +65,13 @@ globally in 2020"
 
 EU natgas also, three times the average
 
-[[-]](../../2019/05/stats.md#eunatgas)
+[[-]](../../2019/05/stats.html#eunatgas)
 
 ---
 
 Coal price still high
 
-[[-]](../../2019/05/stats.md#coal)
+[[-]](../../2019/05/stats.html#coal)
 
 ---
 
@@ -207,7 +207,7 @@ GDP. Ideal rate $r^\ast$ is assumed to be 2.0, $\pi_t$ is current
 inflation, $\pi^\ast$ is target inflation, $Gap_t$ is the difference
 between real and potential GDP.
 
-[Result](../../2019/05/stats.md#taylor)
+[Result](../../2019/05/stats.html#taylor)
 
 The graphs are somewhat close, but they diverge at certain points. For
 example during the 80s (Volcker years) the FF rate was much higher
@@ -308,7 +308,7 @@ wage increases cause inflation?"
 
 World / Opec oil production is down for sure.
 
-[[-]](../../2019/05/stats.md#opec)
+[[-]](../../2019/05/stats.html#opec)
 
 ---
 
@@ -316,7 +316,7 @@ Gas prices were high during W, even higher than now.. Interesting, the
 uptrend seems to have started at around 2003 -- after the invasion of
 Iraq? Major uptick again post Libya 2011.
 
-[[-]](../../2019/05/stats.md#gasoline)
+[[-]](../../2019/05/stats.html#gasoline)
 
 ---
 
@@ -409,7 +409,7 @@ military takeovers"
 Found a dataset from Illinois Uni (below). Overall trend seems down
 (does not contain recent data). 
 
-[[-]](../../2015/09/democracy-status.md#coups)
+[[-]](../../2015/09/democracy-status.html#coups)
 
 ---
 
@@ -581,11 +581,11 @@ hyperinflation.
 
 GDP growth YoY 5.5%. Still making up for pandemic related losses.
 
-[[Data]](../../2019/05/stats.md#cycle)
+[[Data]](../../2019/05/stats.html#cycle)
 
 Crazy wage growth (prev quarter) 4.6%
 
-[[Data]](../../2019/05/stats.md#wages)
+[[Data]](../../2019/05/stats.html#wages)
 
 Wage growth could be contributing to inflation as well, which is, if
 we go by the textbook, always the main source of inflation.

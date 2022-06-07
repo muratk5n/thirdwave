@@ -224,7 +224,7 @@ Q2 US Private Debt to GDP was at 191%?
 2020-04-01    191.103939
 ```
 
-[Link](../../2019/05/stats.md#credit)
+[Link](../../2019/05/stats.html#credit)
 
 ---
 
@@ -633,7 +633,7 @@ They also don't know if u r a dog, so why not
 
 ---
 
-Democracy status of [some countries](../../2015/09/the-logic-of-political-survival-mesquita.md.md#status).
+Democracy status of [some countries](../../2015/09/the-logic-of-political-survival-mesquita.html#status).
 
 Ukraine has improved.
 

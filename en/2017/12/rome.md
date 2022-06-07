@@ -1,36 +1,36 @@
 # "Holy" Rome, First Wave, Religion
 
-[Terry Jones' Barbarians - Videos](../../2019/10/terry-jones-barbarians.md)
+[Terry Jones' Barbarians - Videos](../../2019/10/terry-jones-barbarians.html)
 
-[Terry Jones' Barbarians - Book](../../2020/06/terry-jones-barbarians.md)
+[Terry Jones' Barbarians - Book](../../2020/06/terry-jones-barbarians.html)
 
-[Turks, Culture, National Narrative](../../2020/04/turks-culture-national-narrative.md)
+[Turks, Culture, National Narrative](../../2020/04/turks-culture-national-narrative.html)
 
-[Tolay, National Narratives, Migrations, Anatolia](../../2020/07/migrations-anatolia.md)
+[Tolay, National Narratives, Migrations, Anatolia](../../2020/07/migrations-anatolia.html)
 
-[Ghazi Warfare](../../2018/01/the-origin-and-prevention-major-wars-mesquita.md#ghazi)
+[Ghazi Warfare](../../2018/01/the-origin-and-prevention-major-wars-mesquita.html#ghazi)
 
-[Kurds in Anatolia](../../2020/07/kurds-anatolia.md)
+[Kurds in Anatolia](../../2020/07/kurds-anatolia.html)
 
-[Armenians, Kurds](../../2009/09/modern-history-of-kurds-mcdowall.md)
+[Armenians, Kurds](../../2009/09/modern-history-of-kurds-mcdowall.html)
 
-[Rome by Rifkin](../../2020/07/the-emphatic-civilization-rifkin.md)
+[Rome by Rifkin](../../2020/07/the-emphatic-civilization-rifkin.html)
 
-[Foragers, Farmers by Morris](../../2017/10/wtwrfn-foragers-farmers.md)
+[Foragers, Farmers by Morris](../../2017/10/wtwrfn-foragers-farmers.html)
 
-[Foragers, Farmers, Fossil Fuels by Morris](../../2021/05/farmers-foragers-fossils.md)
+[Foragers, Farmers, Fossil Fuels by Morris](../../2021/05/farmers-foragers-fossils.html)
 
-[Not An Empire](../../2015/01/not-empire.md)
+[Not An Empire](../../2015/01/not-empire.html)
 
-[The Inheritance of Rome](../../2011/06/inheritance-of-rome.md)
+[The Inheritance of Rome](../../2011/06/inheritance-of-rome.html)
 
-[Slavery](../../2020/07/agro-slavery.md)
+[Slavery](../../2020/07/agro-slavery.html)
 
-[Ancient](../../2020/07/ancient.md)
+[Ancient](../../2020/07/ancient.html)
 
-[God](../../2015/04/god.md)
+[God](../../2015/04/god.html)
 
-[Religion](../../2015/04/religion.md)
+[Religion](../../2015/04/religion.html)
 
 
 [[⇪Up]](../..)

@@ -15,7 +15,7 @@ the hell else would they be half way around the world near a country
 they had no quarrel with? Good thing some ppl started to challenge
 this nationalistic non-sense.
 
-Here is [the reason](2017/07/the-next-decade-friedman.md#australia)
+Here is [the reason](2017/07/the-next-decade-friedman.html#australia)
 why Oz attaches itself to a naval power's interest, because of
 strategic need.
 

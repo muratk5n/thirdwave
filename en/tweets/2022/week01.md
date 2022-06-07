@@ -103,7 +103,7 @@ Corporate marketing, again.
 ---
 
 Not suprising, humans are not built to run that way; Nike marketing
-advertised such style of running so they could [sell products for it](../../2019/12/civilized-to-death.md#nike).
+advertised such style of running so they could [sell products for it](../../2019/12/civilized-to-death.html#nike).
 
 Again we see regular people, consumers are taken for fools. They have
 no mechanism to protect against such interjections save gov
@@ -388,7 +388,7 @@ the highest risk categories"
 
 US Omicron deaths still less than Delta, no uptrend
 
-[[-]](../../2020/02/corona.md#usdailydeath)
+[[-]](../../2020/02/corona.html#usdailydeath)
 
 ---
 
@@ -467,7 +467,7 @@ the boom of all booms.
 
 ---
 
-Not that it hasn't happened [before](../../2020/03/appelbaum.md#transistor).
+Not that it hasn't happened [before](../../2020/03/appelbaum.html#transistor).
 
 ---
 
@@ -592,6 +592,6 @@ For European natgas prices, the future contract Dutch TTF can be used.
 
 EU natgas price has been at insane levels.. fell somewhat recently.
 
-[[-]](../../2019/05/stats.md#eunatgas)
+[[-]](../../2019/05/stats.html#eunatgas)
 
 ---

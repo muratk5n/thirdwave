@@ -381,7 +381,7 @@ More [here](https://www.lisep.org/)
 
 ---
 
-Even [this method](../../2019/05/stats.md#unempl) is undercounting it then.
+Even [this method](../../2019/05/stats.html#unempl) is undercounting it then.
 
 ---
 
@@ -401,7 +401,7 @@ Just saw this one from 2017
 ---
 
 Collated [past notes](2017/10/tax-avoidence-tricks.html) on global tax
-avoidence, and ideas. The [double-dip](2017/10/road-to-ruin-rickards.md#doubleDip)
+avoidence, and ideas. The [double-dip](2017/10/road-to-ruin-rickards.html#doubleDip)
 trick is freaky.
 
 ---
@@ -453,7 +453,7 @@ France now,
 1.1410738
 ```
 
-[Link](2020/02/corona.md#Rt)
+[Link](2020/02/corona.html#Rt)
 
 ---
 

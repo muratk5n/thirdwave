@@ -395,7 +395,7 @@ access near the equator cld create floating panel structures.
 ---
 
 How much solar panel space would Saudi Arabia need to produce its
-crude output's equiv energy? [Here](../../2022/02/base-energy-numbers.md#arabia). An
+crude output's equiv energy? [Here](../../2022/02/base-energy-numbers.html#arabia). An
 square with 280 km on each side... It's not a small area, sure, but
 not insane large, like Texas? If we are desparate, we might see some
 unorthodox engineering.
@@ -639,7 +639,7 @@ article shared previously
 ---
 
 So-called "Turks" need alternative (read: real) explanations for the
-history of their lands.. They [live](2020/07/migrations-anatolia.md#unique) in
+history of their lands.. They [live](../../2020/07/migrations-anatolia.html#unique) in
 a world of delusion.
 
 ---

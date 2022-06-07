@@ -29,7 +29,7 @@ spinach, in the same family
 
 ---
 
-Showed calculation [before](../../2022/02/base-energy-numbers.md#arabia); Replacing
+Showed calculation [before](../../2022/02/base-energy-numbers.html#arabia); Replacing
 Saudi Arabia's oil output with solar equiv w/ panels wld need a square
 area with 290 km on each side. A big area. Then, at least at first,
 renewable fuel generation through fossil + CCS at the source could

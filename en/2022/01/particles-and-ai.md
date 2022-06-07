@@ -111,7 +111,7 @@ relations are captured correctly, this formula can then be manipulated
 to yield interesting results perhaps suggesting new relations
 previously unseen, allow discovery, concoction of functions to make
 precise calculations, predictions. The latter is science. The former,
-dreaming of the day "if I had a [bigger computer](../../2020/07/ai-comments.md#parrot)"
+dreaming of the day "if I had a [bigger computer](../../2020/07/ai-comments.html#parrot)"
 so all monkey particles could be accounted for, "or more data", "then
 whole of economics could be simulated" is not.
 

@@ -30,7 +30,7 @@ we should start by protecting at least 30% of it by 2030"
 
 ---
 
-Lots of problems are caused by civilization [itself](../../2019/12/civilized-to-death.md#teeth)
+Lots of problems are caused by civilization [itself](../../2019/12/civilized-to-death.html#teeth)
 
 "@ProSyn
 

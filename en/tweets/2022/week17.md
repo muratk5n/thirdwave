@@ -105,7 +105,7 @@ continue for centuries.
 ---
 
 All agro societies had sacrifices, it comes with the territory,
-or.. the material "superstructure" - see [Morris](../../2017/10/wtwrfn-foragers-farmers.md#eastwest).
+or.. the material "superstructure" - see [Morris](../../2017/10/wtwrfn-foragers-farmers.html#eastwest).
 
 WION: "A crime scene? 150 skulls found in Mexican cave turn out to be
 remains of sacrificial victims from AD 900"
@@ -451,7 +451,7 @@ the latter.
 
 Nuke Tech \#friedman
 
-[[-]](../../2017/07/the-next-decade-friedman.md#nuketech)
+[[-]](../../2017/07/the-next-decade-friedman.html#nuketech)
 
 ---
 
@@ -851,7 +851,7 @@ So war-war policy has been a fail so far.
 
 The fascist coup of 1980 fueled PKKs rise
 
-[[-]](../../2009/09/modern-history-of-kurds-mcdowall.md#pkk80s)
+[[-]](../../2009/09/modern-history-of-kurds-mcdowall.html#pkk80s)
 
 ---
 

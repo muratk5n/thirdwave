@@ -822,7 +822,7 @@ My GDELT conflict map around Ukraine became massive (too many data
 points, over 800 attack reports in 5 days). Had to downsample,
 otherwise UI isn't responsive.
 
-[[-]](../../2019/05/confstats.md#gdeltukr)
+[[-]](../../2019/05/confstats.html#gdeltukr)
 
 ---
 

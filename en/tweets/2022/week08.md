@@ -302,7 +302,7 @@ as weakness, or was scared.
 If one accepts the great fear of US-UK was a EU-RU entente, the latest
 invasion has been a "gift". 
 
-[[-]](../../2017/07/the-next-decade-friedman.md#eurasia)
+[[-]](../../2017/07/the-next-decade-friedman.html#eurasia)
 
 ---
 

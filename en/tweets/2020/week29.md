@@ -588,7 +588,7 @@ Key codes change across models...? So says `xev`.
 
 ---
 
-[Unemployment](../../2019/05/stats.md#unempl) 
+[Unemployment](../../2019/05/stats.html#unempl) 
 
 ```
 2020-06-01    22.37%
