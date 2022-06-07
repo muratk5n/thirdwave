@@ -58,15 +58,97 @@ space around Oumuamua did not reveal any trace of water, carbon-based
 gases, or dust, ruling out the possibility that it was being pushed by
 cometary vapor or visible dust particles. Moreover, it did not change
 its spin rate as it should have if one-sided jets were pushing it
-sideways, as they often do in comets.
+sideways, as they often do in comets...
 
+And then there is the evidence that the extra force acting on
+Oumuamua, the force that was causing it to deviate, declined in
+inverse proportion to the square of ‘Oumuamua’s distance from the
+Sun. If the extra force were the result of outgassing, we would expect
+a faster deceleration of an object as it rapidly distances itself from
+the Sun.. When I read reports that the extra force on ‘Oumuamua
+declined inversely with the distance from the Sun squared, I wondered
+what could be pushing it if not outgassing or disintegration. The only
+explanation that came to mind was the sunlight bouncing off its
+surface like wind off a thin sail.
 
+<a name='junkscience'/>
 
+String Theory, Multiverse, The Large Hadron Collider
 
+I have long been aware that within the discipline of astronomy, SETI
+faces hostility.. Mainstream theoretical physicists now widely accept
+the study of extra-spatial dimensions beyond the three we are all
+familiar with—plainly put, height, width, and depth—and the fourth
+dimension, time. This is despite the fact that there is no evidence
+for any such extra dimensions. Similarly, a hypothetical multiverse—an
+infinite number of universes all existing simultaneously in which
+everything that could conceivably happen is happening—occupies many of
+our planet’s most admired minds, again despite the fact that there is
+no evidence that such a thing is possible.
 
+[P]hysicists [should] measure their success by how well their ideas
+align with data rather than by how popular those ideas are.. But that
+is not what we discover when we survey the landscape of theoretical
+physics.  Fashions frequently dictate funding, sometimes despite
+anything close to a commensurate return on investments.
 
+Despite the absence of experimental evidence, the mathematical ideas
+of supersymmetry, extra-spatial dimensions, string theory, Hawking
+radiation, and the multiverse are considered irrefutable and
+self-evident by the mainstream of theoretical physics. In the words of
+a prominent physicist at a conference that I attended: “These ideas
+must be true even without experimental tests to support them, because
+thousands of physicists believe in them and it is difficult to imagine
+that such a large community of mathematically gifted scientists could
+be wrong.”
 
+But go beyond the groupthink and look more closely at these ideas. For
+instance, supersymmetry. This theory, which postulates that all
+particles have partners, is not as natural as prominent theorists
+predicted it would be. The latest data from the Large Hadron Collider
+at CERN did not find any of the evidence expected at the energy scales
+it probed to support supersymmetry.  Other speculative ideas
+pertaining to the nature of dark matter, dark energy, extra
+dimensions, and string theory have yet to be even tested.
 
+Imagine that the data suggesting that ‘Oumuamua is extraterrestrial
+technology is stronger than the data suggesting supersymmetry theory
+is valid. What might follow? Just a bit under five billion dollars was
+spent to construct the Large Hadron Collider, a particle accelerator
+built in hopes of attaining confirming evidence of supersymmetry, and
+running it costs another one billion dollars a year. If the scientific
+consensus eventually gives up on the theory, it will do so after vast
+expense and generations of effort. Until we have invested similarly in
+the search for extraterrestrial intelligence, flat declarations about
+what ‘Oumuamua is and isn’t should be judged accordingly.
 
+A host of theories beyond supersymmetry—the multiverse leaps to mind—
+are given thoughtful, respectful attention in and out of the academy
+despite the absence of evidence for them. That should give us pause,
+and not because of the absence of evidence. Rather, it should concern
+us because of what it reveals about the scientific enterprise itself...
 
+An earlier generation of theoretical physicists was open to the
+humility of seeing their theories proven wrong by experimental
+data. But a new culture, one that thrives in its own theoretical sauce
+and exercises influence over award committees and funding agencies, is
+populated by advocates of popular yet unproven paradigms. When
+scientists double down on supersymmetry despite the Large Hadron
+Collider finding no evidence for it or when they insist that the
+multiverse must exist despite there being no data to support the
+theory, they are wasting precious time and money and talent. And we
+have not only finite funds to spend, but finite time...
+
+A scientific culture that has not learned this lesson—that does not
+require external verification in observable, confirmable data and that
+advocates for ideas deemed inherently correct due to their
+mathematical beauty—strikes me as a culture at risk of losing its
+grounding. Getting data and comparing it to our theoretical ideas
+provides a reality check and tells us that we are not
+hallucinating. What is more, it reconfirms what is central to the
+discipline.  Physics is not a recreational activity intended to make
+us feel good about ourselves. Physics is a dialogue with nature, not a
+monologue. We are supposed to have skin in the game and make testable
+predictions, and this requires that scientists put themselves at risk
+of error.
 
