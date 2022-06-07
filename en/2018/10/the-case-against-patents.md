@@ -131,7 +131,7 @@ or as a rent seeking tool [..]
 
 ---
 
-I was able to [replicate](patents-code.md) the regression [geek] with
+I was able to [replicate](patents-code.html) the regression [geek] with
 fixed effects, accounting for year and industry [/geek] between TFP
 and number of patents per year - see code, data ref is also there. TFP
 is total factor productivity [geek] the portion of output not

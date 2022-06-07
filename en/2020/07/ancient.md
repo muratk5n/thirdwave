@@ -8,7 +8,7 @@ armies, kill others and build arenas, roads which later generations as
 tourist can gape at like morons.
 
 However, and in the light of agriculture being the root ill of many of
-the later predicaments [as we now know](../../2017/12/rome.md), one
+the later predicaments [as we now know](../../2017/12/rome.html), one
 could guess countries who were at the center of these "ancient"
 developments would clearly be worse off. And they are. The Han,
 Ottocuck, Egypt, Sassanid, Rome... agro-centric centralized mafia

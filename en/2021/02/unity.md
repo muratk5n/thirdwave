@@ -18,7 +18,7 @@ ask for unity, you dont get it, than you immediately blame the other
 side as a cover for you not doing anything.
 
 There cld be some old cultural aspects involved; we talked abt during
-[Pemmican Wars](../../2018/09/pemmican.md) Brits had to step in and *merge*
+[Pemmican Wars](../../2018/09/pemmican.html) Brits had to step in and *merge*
 two companies. If such things happened more than once, maybe it became
 "the legitimate thing", "the grown up thing" in the eyes of the US
 political class, persisted in its DNA, at the very least, as a

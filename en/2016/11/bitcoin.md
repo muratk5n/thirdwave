@@ -76,7 +76,7 @@ follow enough threads we land on Hal Finney who was the "number two"
 in Bitcoin land whose "Running bitcoin [for the first time]" tweet is
 still around today. Finney had a next door neighbor whose name was
 Satoshi Nakamoto who was burned by the 2008 crisis. The other possibility
-based on [word frequency analysis](../../2021/09/satoshi-identification.md) is
+based on [word frequency analysis](../../2021/09/satoshi-identification.html) is
 Gavin Andressen. 
 
 Alternatives

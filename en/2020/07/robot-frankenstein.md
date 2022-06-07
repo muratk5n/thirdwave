@@ -51,4 +51,4 @@ teaching. The combination of cultural, demographic, and technological
 factors means that we will get our first glimpse of a world full of
 robots in East Asia.
 
-[[⇪Up]](ai.md)
+[[⇪Up]](ai.html)

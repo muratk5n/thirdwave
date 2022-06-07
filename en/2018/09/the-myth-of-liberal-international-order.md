@@ -82,9 +82,9 @@ Everyone does what they think will work for them.
 
 See also:
 
-[Globaloney](../../2011/04/globaloney.md)
+[Globaloney](../../2011/04/globaloney.html)
 
-[Global E-mail Patterns Reveal “Clash of Civilizations”](../../2013/07/global-e-mail-patterns-reveal-clash-of.md)
+[Global E-mail Patterns Reveal “Clash of Civilizations”](../../2013/07/global-e-mail-patterns-reveal-clash-of.html)
 
-[Economic Complexity, Capability, Hidalgo](../../2017/08/economic-complexity-hidalgo.md)
+[Economic Complexity, Capability, Hidalgo](../../2017/08/economic-complexity-hidalgo.html)
 

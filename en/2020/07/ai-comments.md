@@ -117,7 +117,7 @@ The reason AI come alive story is used more in movies these days is
 not bcz Holywood necessarily knows what the phuck is going on on the
 tech side.. They are basically repurposing the Pinoccio story for a
 new domain. The "inanimate object coming alive" angle.. that's
-all. Pinoccio for the good side, [Frankenstein](../../2020/07/robot-frankenstein.md)
+all. Pinoccio for the good side, [Frankenstein](../../2020/07/robot-frankenstein.html)
 for the bad. Old story adapted to something new, wout any change in semantics.
 
 Storyline preference becomes clear around the issue of identity. They
@@ -142,4 +142,4 @@ TIME article
 increases in the speed and performance of computers do not necessarily
 imply that we will attain strong AI soon"
 
-[[⇪Up]](ai.md)
+[[⇪Up]](ai.html)

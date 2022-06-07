@@ -1,7 +1,7 @@
 # The Power of Nations Code
 
 Checking if Michale Beckley's GDP x GDP Per Capita measure can predict
-war outcomes. Excerpts from the article are [here](power-of-nations-beckley.md).
+war outcomes. Excerpts from the article are [here](power-of-nations-beckley.html).
 Data comes from [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/58KDCM)
 
 `reiterwars.tab` has wars from past few centuries, `power1.tab`

@@ -29,4 +29,4 @@ hydrogen production technologies – steam methane reforming (SMR),
 autothermal reforming (ATR), and natural gas decomposition (NGD) to
 address these research gaps.
 
-[[⇪Up]](h2-production.md)
+[[⇪Up]](h2-production.html)

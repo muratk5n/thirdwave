@@ -1,12 +1,12 @@
 # AI
 
-[Robot Frankenstein](robot-frankenstein.md)
+[Robot Frankenstein](robot-frankenstein.html)
 
-[Computing AI](../../2021/09/computing-ai.md)
+[Computing AI](../../2021/09/computing-ai.html)
 
-[Is Deep Learning, AI Overhyped?](../../2016/08/deep-learning-general-ai.md)
+[Is Deep Learning, AI Overhyped?](../../2016/08/deep-learning-general-ai.html)
 
-[AI Collated Comments](ai-comments.md)
+[AI Collated Comments](ai-comments.html)
 
-[Particles, Science and AI](../../2022/01/particles-and-ai.md)
+[Particles, Science and AI](../../2022/01/particles-and-ai.html)
 

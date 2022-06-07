@@ -1,6 +1,6 @@
 # The Logic of Political Survival Code
 
-[Article](the-logic-of-political-survival-mesquita.md)
+[Article](the-logic-of-political-survival-mesquita.html)
 
 B. de Mesquita's research indicates democratic nations are richer, and
 they are richer because of democracy. The relationship is not mere
@@ -111,14 +111,14 @@ coalition to its maximum from the worst adds to per capita more than
 
 [geek]
 
-I ran the regressions [myself](lops1.md), both as ordinary linear
+I ran the regressions [myself](lops1.html), both as ordinary linear
 regression and as a multilevel model using region/year as the group. I
 was able to reproduce results close to what BBM reports, I say close
 because I left out some variables (the stuff that BBM ended up finding
 unimportant). In kleptocracy model for example R^2 is 20% (BBM gets
 over 40%) which is very good. All variables are significant.
 
-[Here](lops2.md) is how to reproduce W from scratch.
+[Here](lops2.html) is how to reproduce W from scratch.
 
 There is some mad skillz displayed in accounting for "traditional
 democratic" effects that could be seperate from W and S. For that, BBM
@@ -233,7 +233,7 @@ parties.. There can be no gaps, nothing left out, otherwise fascists
 will step in to fill the void. Obviously some coalitions will be able
 to deliver more than others, but at least seperate parties decide how
 that coalition is formed, on their own terms. Each viewpoint
-contributes, and by [averaging](../../2020/07/crowd-wisdom.md)
+contributes, and by [averaging](../../2020/07/crowd-wisdom.html)
 the optimal decision is reached.
 
 BTW "average" could also be a long-run average between two (or more)

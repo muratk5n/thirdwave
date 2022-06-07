@@ -71,6 +71,6 @@ hydrogen is 16.1 €/GJ LHV basis (13.6 €/GJ HHV).
 
 
 
-[[⇪Up]](h2-production.md)
+[[⇪Up]](h2-production.html)
 
 

@@ -154,7 +154,7 @@ in a regime where the quiescence trap is strong.
 
 References
 
-[Hidalgo Code](hidalgo-code.md)
+[Hidalgo Code](hidalgo-code.html)
 
 [Paper](https://oec.world/pdf/economic-complexity-theory-and-applications.pdf)
 

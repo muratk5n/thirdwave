@@ -148,7 +148,7 @@ Addendums
 
 <a name='population'/>
 
-See [population](asia-minor-population.md)
+See [population](asia-minor-population.html)
 
 <a name='gene'/>
 

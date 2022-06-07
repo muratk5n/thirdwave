@@ -17,8 +17,7 @@ the CSIRO invention mentioned above H2 can simply be taken out of NH3,
 on site. Where does the ammonia come from? Ammonia is already produced
 in huge amounts in our economy, transported easily as liquid at room
 temparature. We do need to make sure tho the production of ammonia is
-green as well, but this is already
-[doable](../../2018/10/fracked-up.md).
+green as well, but this is already [doable](../../2018/10/fracked-up.html).
 
 All this sounds like a major slam-dunk. What remains is
 enterpreneurial, policy push to implement it at scale. CSIRO probably

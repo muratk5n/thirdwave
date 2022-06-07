@@ -76,4 +76,4 @@ Current best processes for water electrolysis (PEM or alkaline
 electrolysis) have an effective electrical efficiency of 70–80%,
 producing 1 kg of hydrogen requires 50–55 kW⋅h of electricity.
 
-[[⇪Up]](h2-production.md)
+[[⇪Up]](h2-production.html)

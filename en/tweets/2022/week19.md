@@ -151,7 +151,7 @@ Al Jazeera: "Google to pay over 300 European news publishers for content"
 
 ---
 
-Economics and money - [Keen](2022/05/the-new-economics-keen.md)
+Economics and money - [Keen](../../2022/05/the-new-economics-keen.html)
 
 ---
 

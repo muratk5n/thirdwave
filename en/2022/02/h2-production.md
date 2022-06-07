@@ -1,14 +1,14 @@
 # H2 Production Methods
 
-[Electrolysis](h2-electrolysis.md)
+[Electrolysis](h2-electrolysis.html)
 
-[H2 From Methane, Natural Gas + CCS](h2-natural-gas.md)
+[H2 From Methane, Natural Gas + CCS](h2-natural-gas.html)
 
-[Thermo-Chemical Water Splitting](h2-thermo-chemical.md)
+[Thermo-Chemical Water Splitting](h2-thermo-chemical.html)
 
-[Coal to H2 + CCS](h2-coal.md)
+[Coal to H2 + CCS](h2-coal.html)
 
-[Waste to H2](h2-waste.md)
+[Waste to H2](h2-waste.html)
 
-[Costs](costs-lcoe.md)
+[Costs](costs-lcoe.html)
 

@@ -62,6 +62,5 @@ not what minimizes their tax liability"
 
 Rickards
 
-See book excerpts [link](road-to-ruin-rickards.md),
-[link](../../2016/04/death-of-money-rickards.md).
+See book excerpts [link](road-to-ruin-rickards.html), [link](../../2016/04/death-of-money-rickards.html).
 

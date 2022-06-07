@@ -62,7 +62,7 @@ them. Their prediction method is within 20 basis points of the real
 GDP and inflation. As a point of reference, FED's success rate is 200
 basis points. Yes the Federal Reserve.
 
-I was able to replicate historical quads, [code](quads.md),
+I was able to replicate historical quads, [code](quads.html),
 [graph](quads.png). Took a stab on prediction as well (same doc),
 looks like there is a pattern. For more, follow Hedgeye.
 

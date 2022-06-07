@@ -57,6 +57,6 @@ The char that was recovered from the gasification vessel is burned in
 a separate vessel to provide the 1,000°C heat, which is used to heat
 the ceramic beads.
 
-[[⇪Up]](h2-production.md)
+[[⇪Up]](h2-production.html)
 
 

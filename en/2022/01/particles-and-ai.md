@@ -103,7 +103,7 @@ difficulty of such a computation considerably. It makes such a
 simulation almost impossible to plan.
 
 Instead, what do the economists (the good ones at least) do?
-[They](../../2018/02/keen_math.md) take broad, general measures we can
+[They](../../2018/02/keen_math.html) take broad, general measures we can
 see, measure, such as inflation, employment, credit, market conditions
 and form relationships between them, akin to using pressure,
 viscosity, density in a fluid. If the measurements are good, and the
@@ -115,4 +115,4 @@ dreaming of the day "if I had a [bigger computer](../../2020/07/ai-comments.html
 so all monkey particles could be accounted for, "or more data", "then
 whole of economics could be simulated" is not.
 
-[[⇪Up]](../../2020/07/ai.md)
+[[⇪Up]](../../2020/07/ai.html)

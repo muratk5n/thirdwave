@@ -209,5 +209,5 @@ References
 
 [1] [Article](https://www.mitpressjournals.org/doi/pdf/10.1162/isec_a_00328)
 
-[2] [Code](power-of-nations-beckley-code.md)
+[2] [Code](power-of-nations-beckley-code.html)
 

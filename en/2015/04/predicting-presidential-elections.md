@@ -89,7 +89,7 @@ throw you outa there, if there is no growth, the incumbent is not
 popular, the climb for the candidate from that party becomes steeper
 and steeper.
 
-[Past Elections Check](prez-loo.md)
+[Past Elections Check](prez-loo.html)
 
 ## Next Elections
 

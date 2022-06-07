@@ -38,4 +38,4 @@ Exciting progress continues in this field, leveraging synergies with
 concentrated solar power technologies, and with emerging solar-fuel
 production technologies.
 
-[[⇪Up]](h2-production.md)
+[[⇪Up]](h2-production.html)

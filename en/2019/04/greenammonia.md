@@ -72,14 +72,14 @@ increase in agriculture output.
 
 Also
 
-[Ammonia](../../2018/10/ammonia.md)
+[Ammonia](../../2018/10/ammonia.html)
 
-[Fracked Up (and Ammonia)](../../2018/10/fracked-up.md)
+[Fracked Up (and Ammonia)](../../2018/10/fracked-up.html)
 
-[CSIRO](../../2018/10/csiro.md)
+[CSIRO](../../2018/10/csiro.html)
 
 [Bill David Presentation](https://youtu.be/qEut7o-b5hY?t=250)
 
-[GenCell and Ammonia](2019/07/gencell.md)
+[GenCell and Ammonia](2019/07/gencell.html)
 
 
