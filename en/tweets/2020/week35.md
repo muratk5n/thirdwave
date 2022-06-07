@@ -640,7 +640,7 @@ do science by publicity.
 
 ---
 
-[Whatever it takes](../../2020/07/right-acting-left.md#tmp1)
+[Whatever it takes](../../2020/07/right-acting-left.html#tmp1)
 
 ---
 

@@ -149,7 +149,7 @@ Clinton, W, and partially Obama time will be reversed in abt 15 years.
 
 ---
 
-GINI [update](../../2019/05/stats.md#gini). 
+GINI [update](../../2019/05/stats.html#gini). 
 
 ---
 
@@ -357,7 +357,7 @@ there that shouldn't be there.
 Troop deployments in the past five days (gdelt somehow also captures
 troop undeployments but.. anyway). Experimental text-to-geoloc script.
 
-[Link](../../2019/05/confstats.md#gdtroop)
+[Link](../../2019/05/confstats.html#gdtroop)
 
 ---
 

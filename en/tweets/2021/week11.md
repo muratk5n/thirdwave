@@ -113,7 +113,7 @@ industries, RWE exec says"
 
 ---
 
-[What of it?](../../2021/03/unrivaled-beckley.md#chru)
+[What of it?](../../2021/03/unrivaled-beckley.html#chru)
 
 "But what of the China-Russia alliance?"
 
@@ -143,7 +143,7 @@ Light Through The Veins (Tom Middleton Remix) \#music
 ---
 
 Anti-lessons from TR; keep national narrative / identity as simple as
-possible, dont overload it with [political preferences](../../2020/04/turks-culture-national-narrative.md#add1).
+possible, dont overload it with [political preferences](../../2020/04/turks-culture-national-narrative.html#add1).
 Imbuing political choices on identity can turn it into a fascist
 propaganda tool.
 

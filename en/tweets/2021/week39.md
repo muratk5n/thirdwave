@@ -17,7 +17,7 @@ years.. You dont come back from that e-z.
 
 ---
 
-One addition here; CH is [not a rising superpower](../../2021/03/power-of-nations-beckley.md#chsuperpower).
+One addition here; CH is [not a rising superpower](../../2021/03/power-of-nations-beckley.html#chsuperpower).
 
 ---
 
@@ -320,7 +320,7 @@ Gordon Goodwin's Big Phat Band - Sing Sang Sung \#music
 
 2020 data for CO2 emissions. China is still the top polluter.
 
-[[-]](../../2021/07/historical-carbon-emissions.md#2020)
+[[-]](../../2021/07/historical-carbon-emissions.html#2020)
 
 ---
 
@@ -363,7 +363,7 @@ coalition. No posturing, kinda good
 
 ---
 
-When you are [hiring](../../2021/03/unrivaled-beckley.md#ed) from among the
+When you are [hiring](../../2021/03/unrivaled-beckley.html#ed) from among the
 best and brightest, you can let these ppl roam free. Most of the world
 cannot replicate that. Then quality needs to be delivered in a
 different way -- electronically.

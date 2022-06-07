@@ -154,7 +154,7 @@ and improve efficiency of producing hydrogen using electrolyzers"
 
 ---
 
-[ME attacks](../../2019/05/confstats.md#gdelt) GDELT update. Now plotting
+[ME attacks](../../2019/05/confstats.html#gdelt) GDELT update. Now plotting
 US bases alongside attacks.
 
 Heavy US presence in Northeast Syria, an area that doesnt seem to get
@@ -166,7 +166,7 @@ Yes there is an increase
 
 ---
 
-US gun violence increased? [Check](../../2019/05/confstats.md#usgun)
+US gun violence increased? [Check](../../2019/05/confstats.html#usgun)
 
 ---
 
@@ -254,7 +254,7 @@ about to change
 
 ---
 
-US bases [around the world](../../2019/05/usmil.md#bases) 
+US bases [around the world](../../2019/05/usmil.html#bases) 
 
 ---
 
@@ -497,7 +497,7 @@ plans to test it out this year"
 
 ---
 
-I see .. The overall quality of teachers, especially in US, [is low](../../2021/03/unrivaled-beckley.md#ed).
+I see .. The overall quality of teachers, especially in US, [is low](../../2021/03/unrivaled-beckley.html#ed).
 Therefore they come across as unskilled workers, "wage earners" which
 makes progs want to protect them.
 
@@ -649,7 +649,7 @@ largest naval exercise in the Pacific since Cold War"
 
 ---
 
-Conflict stats [update](../../2019/05/confstats.md#gdelt)
+Conflict stats [update](../../2019/05/confstats.html#gdelt)
 
 ---
 
@@ -661,7 +661,7 @@ But I still dont see a runaway process here.
 
 ---
 
-Let's [take a look](../../2019/05/stats.md#infexp)
+Let's [take a look](../../2019/05/stats.html#infexp)
 
 "How about consumer's inflation expectation?"
 

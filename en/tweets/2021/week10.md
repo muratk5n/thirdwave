@@ -162,7 +162,7 @@ a-ok.
 
 ---
 
-Another ex of CINC problems [applied](../../2021/03/power-of-nations-beckley.md#ukch)
+Another ex of CINC problems [applied](../../2021/03/power-of-nations-beckley.html#ukch)
 to UK/CH.
 
 ---
@@ -318,7 +318,7 @@ U cld say 2008-16 admin was also diverted, bcz of ISIS.
 
 ---
 
-US was "diverted" away from Indo-Pacific [20 yrs ago](../../2019/11/americas-secret-war-friedman.md#china).
+US was "diverted" away from Indo-Pacific [20 yrs ago](../../2019/11/americas-secret-war-friedman.html#china).
 They are likely more intent to engage this time around.
 
 ---
@@ -372,7 +372,7 @@ leadership.
 ---
 
 Marx missed that same point about the Second Wave; thinking
-[too highly](../../2011/03/integrators.md#marx) of the masses.
+[too highly](../../2011/03/integrators.html#marx) of the masses.
 
 ---
 

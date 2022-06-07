@@ -61,7 +61,7 @@ Good good..
 
 ---
 
-[Answer](../../2020/04/turks-culture-national-narrative.md#whyfix)
+[Answer](../../2020/04/turks-culture-national-narrative.html#whyfix)
 
 "Why fix TR identity?"
 
@@ -74,7 +74,7 @@ Good good..
 ---
 
 I wouldn't f--k with democracies son. They'll whoop ur ass. They are
-[better at war](../../2015/09/the-logic-of-political-survival-mesquita-code.md#war),
+[better at war](../../2015/09/the-logic-of-political-survival-mesquita-code.html#war),
 for very rational reasons.
 
 Conversely one could say countries with less democracies will be worse
@@ -140,7 +140,7 @@ technology — originally developed for @NASA"
  
 ---
 
-[Answer](../../2020/04/turks-culture-national-narrative.md#wolf)
+[Answer](../../2020/04/turks-culture-national-narrative.html#wolf)
 
 "Why do TR nats, its mob, make a heavy metal sign, what does that
 mean?"
@@ -294,7 +294,7 @@ origin.
 
 ---
 
-Don't [jog](../../2010/04/new-evolution-diet-devany.md#jogging). Outside, great.
+Don't [jog](../../2010/04/new-evolution-diet-devany.html#jogging). Outside, great.
 
 "I miss jogging, being outside"
 

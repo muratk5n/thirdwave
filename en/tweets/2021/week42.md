@@ -251,7 +251,7 @@ Reuters: "Centre-left wins Italian mayoral run-offs as right flounders"
 
 ---
 
-[More](../../2021/09/computing-ai.md#car) on the shortcomings
+[More](../../2021/09/computing-ai.html#car) on the shortcomings
 
 ---
 

@@ -186,7 +186,7 @@ of a [larger issue](https://www.theglobeandmail.com/opinion/editorials/article-a
 
 ---
 
-How did Powell "score one on the libs"? [Here](../../2021/10/all-too-human.md#gaysinmil).
+How did Powell "score one on the libs"? [Here](../../2021/10/all-too-human.html#gaysinmil).
 
 ---
 
@@ -552,7 +552,7 @@ millions.
 ---
 
 Cheap contrarianism. It was clear-cut. Foragers were
-[replaced](../../2017/10/wtwrfn-foragers-farmers.md#replaced) en masse by
+[replaced](../../2017/10/wtwrfn-foragers-farmers.html#replaced) en masse by
 farmers.
 
 "The progression of history was not clear-cut, from hunter-gathering to

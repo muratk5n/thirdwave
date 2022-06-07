@@ -14,7 +14,7 @@ the time was "yielding Gaza would help promote goodwill and peace".
 But when did anyone leave territory without anything substantial in
 return?
 
-We also know Hamas is an [Israeli creation](../../2020/06/10-myths-israel.md#hamas).
+We also know Hamas is an [Israeli creation](../../2020/06/10-myths-israel.html#hamas).
 
 Put the two together.. maybe Israel wanted that persistent flashpoint
 to fight against, to keep the right mobilized, and militarized, and
@@ -282,7 +282,7 @@ energy at the same pressure"
 
 ---
 
-The [Old Deal](../../2021/05/farmers-foragers-fossils.md#olddeal).
+The [Old Deal](../../2021/05/farmers-foragers-fossils.html#olddeal).
 
 - The "benevolent king / rulers" who is "kind and just" to its
 subjects narrative of the agro age cements the status of both.
@@ -350,7 +350,7 @@ Program-Includes FuelCell Hydrogen Vehicles"
 
 What is being "commemorated" is always related to what the nation
 wants to do in the future.. In that war Oz offered manpower due to its
-[quid-pro-quo](../../2017/07/the-next-decade-friedman.md#australia) for
+[quid-pro-quo](../../2017/07/the-next-decade-friedman.html#australia) for
 naval protection with the UK. That's how Oz soldiers ended up on the
 other side of the planet. The same need exists today, albeit with a
 different naval power, US, so the nation commemorates to keep that
@@ -688,7 +688,7 @@ DATE
 2021-04-01     6.1    10.4    11.852126  
 ```
 
-[Link](../../2019/05/stats.md#unempl)
+[Link](../../2019/05/stats.html#unempl)
 
 ---
 

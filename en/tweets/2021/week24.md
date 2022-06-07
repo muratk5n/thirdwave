@@ -16,12 +16,13 @@ will ever make A.I. more human-like"
 
 ---
 
-You could argue Ottomans were [simple bandits](../../2021/06/org-crime-asia-minor.md#otto1)
+You could argue Ottomans were [simple bandits](../../2021/06/org-crime-asia-minor.html#otto1)
 themselves.
 
 ---
 
-TR mafia, minorities, *çete*, the empire.. there is a [long history](../../2021/06/org-crime-asia-minor.md#cup1) here.
+TR mafia, minorities, *çete*, the empire.. there is a
+[long history](../../2021/06/org-crime-asia-minor.html#cup1) here.
 
 ---
 
@@ -43,13 +44,13 @@ Reuters: "Russian-annexed Crimea declares state of emergency over floods"
 
 ---
 
-Marx [missed](../../2011/03/integrators.md#marx) this point about
+Marx [missed](../../2011/03/integrators.html#marx) this point about
 "integrators" too and look what happened to his followers.. modern era
 political movements need leaders.
 
 ---
 
-Some of the talk around the "elites" sound outdated, [harks back](../../2021/03/private-government.md#elites)
+Some of the talk around the "elites" sound outdated, [harks back](../../2021/03/private-government.html#elites)
 to a time when there were like f-ing yeoman farmers and things..
 not much industry.. 
 
@@ -311,7 +312,7 @@ Japan, and Vietnam / Singapore.
 Navy location map update. Added more destroyers, and guided missile
 cruisers.
 
-[Link](../../2019/05/usmil.md#navy)
+[Link](../../2019/05/usmil.html#navy)
 
 ---
 
@@ -321,7 +322,7 @@ cruisers.
 
 ---
 
-Conflict stat [update](../../2019/05/confstats.md#gdelt).
+Conflict stat [update](../../2019/05/confstats.html#gdelt).
 
 ---
 
@@ -412,7 +413,7 @@ nationalism, but in a bizarre reversal, they assumed it (the tortured
 imitating the torturer), and under the protective shield of their
 victimization nursed it to this day.
 
-See [people without a land, and a land without people](../../2020/06/10-myths-israel.md#land)
+See [people without a land, and a land without people](../../2020/06/10-myths-israel.html#land)
 
 Similar bullshit: "we arrived in the our lands, and there was noone
 there".
@@ -572,7 +573,7 @@ it is around Oman.
 US Navy deployment map below, for a few carriers and destroyers, to
 give a rough idea of the focus.. 
 
-[Link](../../2019/05/usmil.md#navy)
+[Link](../../2019/05/usmil.html#navy)
 
 ---
 

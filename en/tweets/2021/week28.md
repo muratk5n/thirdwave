@@ -20,7 +20,7 @@ waste on band-aid, marginal solutions.
  
 ---
 
-Lithium reserves [aren't even enough](../../2022/02/base-energy-numbers.md#driving) for cars.
+Lithium reserves [aren't even enough](../../2022/02/base-energy-numbers.html#driving) for cars.
 
 ---
 
@@ -104,7 +104,7 @@ vaccine, his office confirmed Wednesday [but kept mum, 4/2021]"
 That's not how it works.. One general approach, the one that is
 simplest, do the most with least will dominate. H2 can replace that
 84%. Batteries cannot. There isn't enough lithium in the world
-[for it](../../2022/02/base-energy-numbers.md#lithium).
+[for it](../../2022/02/base-energy-numbers.html#lithium).
 
 "We could support 'a mix of solutions' for a net zero world, have a basket"
 
@@ -218,7 +218,7 @@ work around it. [#ABC](https://thumbs.gfycat.com/AncientAllBasenji-size_restrict
 
 ---
 
-GDELT troop deployment [update](../../2019/05/confstats.md#gdtroop)
+GDELT troop deployment [update](../../2019/05/confstats.html#gdtroop)
 
 ---
 
@@ -367,7 +367,7 @@ Force); that financial support was terminated on 29 February 2020."
 
 ---
 
-Up until 2020 BTI data confirms a [decline](../../2015/09/the-logic-of-political-survival-mesquita-code.md#btiall)
+Up until 2020 BTI data confirms a [decline](../../2015/09/the-logic-of-political-survival-mesquita-code.html#btiall)
 (2000-2020). The fall is not excessive but it is there.
 
 Polity results (same page) shows pre 2000 status.
@@ -380,7 +380,7 @@ democracy has been steep during the past 10 years.'"
 
 ---
 
-ME conflict [stats](../../2019/05/confstats.md#gdeltme)
+ME conflict [stats](../../2019/05/confstats.html#gdeltme)
 
 ---
 
@@ -405,7 +405,7 @@ the original statement is correct.
 
 ---
 
-The answer [is yes](../../2015/08/temp-increase.md#carbon)
+The answer [is yes](../../2015/08/temp-increase.html#carbon)
 
 "Does carbon levels in atmo cause temparature increase?"
 

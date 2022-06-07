@@ -198,7 +198,7 @@ people deal with every day with their 'real intelligence'.
 
 ---
 
-Yes but then they go ahead and [train](../../2021/03/unrivaled-beckley.md#ruch) with
+Yes but then they go ahead and [train](../../2021/03/unrivaled-beckley.html#ruch) with
 eachother's enemies too. Did this strategic situation change? Probably not.
 
 WSJ: "China, Russia Hold Military Drills Amid Regional Security Concerns"
@@ -235,7 +235,7 @@ kW green hydrogen pilot project at SNM Hospital in Leh, Ladakh"
 
 ---
 
-The inflation expectation is around 4.7, steadily [increased](../../2019/05/stats.md#infexp)
+The inflation expectation is around 4.7, steadily [increased](../../2019/05/stats.html#infexp)
 to this from 3.1 back in March. We shall see. 
 
 Vox: "America isn’t panicking about inflation"

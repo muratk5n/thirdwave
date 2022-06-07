@@ -426,7 +426,7 @@ can safely be eliminated from diets.
 
 ---
 
-There was no god damn [missile gap](../../2021/08/cuban-missile-crisis.md#gap).
+There was no god damn [missile gap](../../2021/08/cuban-missile-crisis.html#gap).
 JFK either lied or foolishly believed in it himself, likely the former.
 There was a missile gap much earlier, that's why US placed missiles in TR.
 Bcz of the 60s missile gap, this time with USSR at a disadvantage, USSR
@@ -436,7 +436,7 @@ wanted to place missiles in Cuba.
 
 ---
 
-Another Berlin story, [Checkpoint Charlie](../../2021/08/cuban-missile-crisis.md#berlin). 
+Another Berlin story, [Checkpoint Charlie](../../2021/08/cuban-missile-crisis.html#berlin). 
 One tank moves back five meters, the other too, and another.. Major standoff. 
 
 ---

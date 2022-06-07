@@ -43,7 +43,7 @@ That will of course mean less f-ing Clinton people around, like Summers
 
 ---
 
-Latest inequality, Gini [calculations](../../2019/05/stats.md#gini) with the latest data
+Latest inequality, Gini [calculations](../../2019/05/stats.html#gini) with the latest data
 
 ```
 2020-04-01    0.463

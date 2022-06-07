@@ -35,11 +35,11 @@ be useful..
 New monthly equake counts, since 2013. There's been a spike recently,
 undeniable.
 
-[[-]](2019/05/natdisaster.md#equakes)
+[[-]](../../2019/05/natdisaster.html#equakes)
 
 ---
 
-Its biggest problem is [deflation](2016/11/bitcoin.md#deflation)
+Its biggest problem is [deflation](2016/11/bitcoin.html#deflation)
 
 "Why is Bitcoin not suitable as a currency?"
 
@@ -288,7 +288,7 @@ Imagine that, trying to dial people with that wheel..
 
 ---
 
-So that governments [can fuel](../../2021/10/entrepreneuel-state-mazzucato.md#jobs) the
+So that governments [can fuel](../../2021/10/entrepreneuel-state-mazzucato.html#jobs) the
 research that companies like theirs feast off regularly.
 
 "Why should companies pay their taxes, like Apple?"
@@ -333,7 +333,7 @@ Pikketty book was published on the same theme.
 Latest inequality GINI stat, major fall. Biden's term looking good on
 that score so far,
 
-[[-]](../../2019/05/stats.md#gini)
+[[-]](../../2019/05/stats.html#gini)
 
 ---
 
@@ -356,7 +356,7 @@ Mearsheimer. Just as "balance of power" analysis' are insufficient, so
 is "maximizing power for safety".  Every decision a leader makes is
 influenced by nominal selectorate, the real selectorate, and the
 winning coalition. The size of each of these groups
-[determine](../../2015/04/dictators-handbook-mesquita.md#war) the war/piece
+[determine](../../2015/04/dictators-handbook-mesquita.html#war) the war/piece
 decision. 
 
 ---
@@ -398,7 +398,7 @@ the ferrofluid dances to the audio"
 
 Less than a billion ppl live in Southern Hemisphere, most are in the
 North. That's why their (our) winter matters more, and why we can
-suspect heating for [this](../../2015/08/temp-increase.md#carbon) type of
+suspect heating for [this](../../2015/08/temp-increase.html#carbon) type of
 seasonal increase.
 
 ---

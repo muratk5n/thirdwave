@@ -156,7 +156,7 @@ Powell to his credit recently said the real rate is closer to 10.
 
 ---
 
-Attempted to replicate the Komlos calculation [here](../../2019/05/stats.md#unempl).
+Attempted to replicate the Komlos calculation [here](../../2019/05/stats.html#unempl).
 This is now **my** official unemployment rate.
 
 Says the real rate is 12.52%, while official is 6.3%. Even U6
@@ -324,7 +324,7 @@ No, Unzic is proposing a new math to simplify current approaches, a
 more expressive language in a way.. Not stuffing, squeezing shite into
 extra dimensions so some data fits better.
 
-"Is the [quaternion idea](../../2021/02/unzicker.md#quaternions) an hidden
+"Is the [quaternion idea](../../2021/02/unzicker.html#quaternions) an hidden
 dimension approach to physics?"
 
 ---

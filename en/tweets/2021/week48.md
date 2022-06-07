@@ -89,7 +89,7 @@ when you are near it. Arthur Mattuck shared this story during a lecture.
 
 ---
 
-Non-farm payroll YoY increase was 4% for Nov. See [graph](../../2019/05/stats.md#nfp).
+Non-farm payroll YoY increase was 4% for Nov. See [graph](../../2019/05/stats.html#nfp).
 
 ---
 
@@ -147,7 +147,7 @@ action was around in the region..
 
 ---
 
-Military Deployment [stats](../../2019/05/confstats.md#gdtroop).
+Military Deployment [stats](../../2019/05/confstats.html#gdtroop).
 
 It's busy around Eastern Europe and Russia! Even Estonia is freaked
 out!
@@ -208,7 +208,7 @@ thing; ideas that benefit society is another.
 ---
 
 Xerox did some good innovation as a private company, though the lab
-was heavily, heavily funded by [gov](../../2021/10/entrepreneuel-state-mazzucato.md#corplabs).
+was heavily, heavily funded by [gov](../../2021/10/entrepreneuel-state-mazzucato.html#corplabs).
 But even this type of long-term, basic research fell out of favor at companies.
 There are cases where the founder is a researcher himself, other than
 that it is more of a hand-to-mouth existence now, whatever is "out there",
@@ -219,7 +219,7 @@ fire (which sadly, it does).
 ---
 
 Apple [and MS] stole the desktop GUI idea from Xerox Parc BTW as
-admitted to by [Bill Gates](../../2021/10/the-one-device-merchant.md#xerox).
+admitted to by [Bill Gates](../../2021/10/the-one-device-merchant.html#xerox).
 
 ---
 

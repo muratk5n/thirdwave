@@ -104,7 +104,7 @@ Kidding
 
 ---
 
-Monthly atmo carbon content [graph](../../2015/08/temp-increase.md#carbon).
+Monthly atmo carbon content [graph](../../2015/08/temp-increase.html#carbon).
 It increases every year (except during warmer seasons when
 it is flat).
 
@@ -122,7 +122,7 @@ Clearly the judge was biased; not possible to request a new judge?
 
 ---
 
-The [latest](../../2021/10/donziger-chevron.md#oct2021) on Donziger.  Poor
+The [latest](../../2021/10/donziger-chevron.html#oct2021) on Donziger.  Poor
 guy had to sit there and listen to a "federal judge compare him to a
 mule who needed to be beaten with a piece of wood". This is unreal.
 
@@ -214,7 +214,7 @@ Which power indicator was used for that analysis?
 Natural Gas prices are up.. some claim this drove coal prices up,
 ppl switching to coal from NG.
 
-[Stat](../../2019/05/stats.md#natgas)
+[Stat](../../2019/05/stats.html#natgas)
 
 ---
 
@@ -338,7 +338,7 @@ priorities"
 ---
 
 I guess nothing interesting happens in the Anglosphere wout France
-getting screwed in the process somehow.. Invason of Iraq: France [lost](../../2019/11/americas-secret-war-friedman.md#france)
+getting screwed in the process somehow.. Invason of Iraq: France [lost](../../2019/11/americas-secret-war-friedman.html#france)
 Eastern Europeans, they sided with US, snubbed. And now the AU "sub
 snub".
 
@@ -385,7 +385,7 @@ project H2Wind"
 
 ---
 
-Coal prices are through [the roof](../../2019/05/stats.md#coal)
+Coal prices are through [the roof](../../2019/05/stats.html#coal)
 
 ---
 
@@ -474,7 +474,7 @@ next door actually), Israel.
 
 ---
 
-The tech is [too noisy](../../2021/03/unrivaled-beckley.md#sub)
+The tech is [too noisy](../../2021/03/unrivaled-beckley.html#sub)
 
 "China has nuclear subs too"
 

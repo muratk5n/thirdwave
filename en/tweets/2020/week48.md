@@ -282,8 +282,7 @@ A coalition statement signed by 62 companies was unveiled at the
 
 It's still hilarious to me as an observation that our vacation
 activities, "rest", "fun" used to be simply "regular life" for the
-longest span of our lives. Good
-[analysis](2019/12/civilized-to-death.md#vacation) by C. Ryan.
+longest span of our lives. Good [analysis](2019/12/civilized-to-death.html#vacation) by C. Ryan.
 
 ---
 
@@ -338,7 +337,7 @@ all week"
 ---
 
 Patriarchy didnt start with religion. It started with organized
-[agriculture](2017/10/foragers-farmers-morris.md#patriarchy).  And
+[agriculture](2017/10/foragers-farmers-morris.html#patriarchy).  And
 agriculture started around the Medi. Ground zero. Root of all ills.
 
 ---
@@ -511,8 +510,8 @@ Saturday, without providing their names"
 
 ---
 
-Against EU-RU alliance, same as Trump. See [here](2017/07/the-next-decade-friedman.md#eurasia)
-and [here](2017/06/friedman-100-years.md#navies).
+Against EU-RU alliance, same as Trump. See [here](2017/07/the-next-decade-friedman.html#eurasia)
+and [here](2017/06/friedman-100-years.html#navies).
 
 "Joe Biden opposes Russian-German Nord Stream 2 pipeline"
 

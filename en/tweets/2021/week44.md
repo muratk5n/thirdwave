@@ -79,7 +79,7 @@ checks, so we all can look at it and weep
 
 Processing raw climate data now.. This is some next level shit right there
 
-[[-]](../../2015/08/temp-increase.md#berkeley)
+[[-]](../../2015/08/temp-increase.html#berkeley)
 
 ---
 
@@ -87,7 +87,7 @@ Oil prices and OPEC output [graph](opec-price.png). [Code](opec.py).
 
 ---
 
-New [graph](../../2019/05/stats.md#opec) for OPEC output (monthly), data from EIA. 
+New [graph](../../2019/05/stats.html#opec) for OPEC output (monthly), data from EIA. 
 
 CNBC: "Biden has squarely blamed the reluctance of OPEC+ to pump more
 oil for the sharp rise in energy prices in the U.S. and around the
@@ -197,7 +197,7 @@ like gun control and a woman's right to choose"
 ---
 
 Obviously both sides in US partook in this culture war, especially 90s
-Dems. See [triangulation](../../2021/10/all-too-human.md#triangulation)
+Dems. See [triangulation](../../2021/10/all-too-human.html#triangulation)
 \#GSteph8s
 
 ---

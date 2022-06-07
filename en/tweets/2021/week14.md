@@ -422,7 +422,7 @@ little toy examples in 2D not 3D? Pass.
 ---
 
 Sounds like a culture code is in play here. French cultural tug of war
-is between freedom and privelege. See [Rapaille](../../2014/06/the-culture-code.md#france).
+is between freedom and privelege. See [Rapaille](../../2014/06/the-culture-code.html#france).
 
 "Covid: Paris police probe 'secret luxury dinner parties'"
 
@@ -595,7 +595,7 @@ Ill Boogs - Super Suede \#music
 
 ---
 
-[Answer](../../2021/04/sum-greater-than-whole-reductionism.md#circle)
+[Answer](../../2021/04/sum-greater-than-whole-reductionism.html#circle)
 
 "I read somewhere that Calculus is all about dividing something into
 pieces and putting it back together.. In terms of the basis of

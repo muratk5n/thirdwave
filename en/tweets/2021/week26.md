@@ -145,7 +145,7 @@ something worse (for them).
 
 ---
 
-[ME Conflict Stats](../../2019/05/confstats.md#gdelt)
+[ME Conflict Stats](../../2019/05/confstats.html#gdelt)
 
 ---
 
@@ -185,11 +185,11 @@ man on the street cheered on.
 
 ---
 
-Nationalism, and the mafia, [Part 3](../../2021/06/org-crime-asia-minor.md#deep) \#TR
+Nationalism, and the mafia, [Part 3](../../2021/06/org-crime-asia-minor.html#deep) \#TR
 
 ---
 
-Banditry [Part 2](../../2021/06/org-crime-asia-minor.md#otto2) \#TR
+Banditry [Part 2](../../2021/06/org-crime-asia-minor.html#otto2) \#TR
 
 ---
 
@@ -333,7 +333,7 @@ bar"
 
 There was an assasination attempt on Hamid (pre-CUP, Otto
 sultan). Makes sense, bcz Armenian killings started during
-[his time](../../2009/09/modern-history-of-kurds-mcdowall.md#hamidiya).
+[his time](../../2009/09/modern-history-of-kurds-mcdowall.html#hamidiya).
 
 ---
 
@@ -345,7 +345,7 @@ Ismet's father was Kurd.
 
 How did these people end up with extreme ethnic nationalism is beyond me.
 
-[Link](../../2021/06/eternal-dawn-kemal.md#cupethnic)
+[Link](../../2021/06/eternal-dawn-kemal.html#cupethnic)
 
 ---
 

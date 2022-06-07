@@ -85,7 +85,7 @@ follow.
 
 ---
 
-This is already known, see [link](../../2016/03/life.md#unique); "life’s
+This is already known, see [link](../../2016/03/life.html#unique); "life’s
 simpler building blocks are so prevalent in the universe that
 molecules from space may have seeded life on earth itself".
 
@@ -145,7 +145,7 @@ means something"
 ---
 
 Why did LBJ escalate the Vietnam conflict? He saw the alternative as
-[appeasement](../../2021/02/into-the-quagmire.md#lbj). Costly decision.
+[appeasement](../../2021/02/into-the-quagmire.html#lbj). Costly decision.
 
 ---
 

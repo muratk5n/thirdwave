@@ -19,7 +19,7 @@ self-defense'"
 
 Conflict Stats code update: 
 
-New [script](2019/05/confstats.md#gdelt) takes GDELT conflict data set
+New [script](2019/05/confstats.html#gdelt) takes GDELT conflict data set
 for past 7 days (for Iraq and Syria) and plots attacks on a map,
 markers showing the "from" actor. GDELT event codes used for filtering
 were 190, 194 and 195 (the "AI" producing GDELT data isn't too
@@ -209,7 +209,7 @@ EU countries"
 
 ---
 
-And the mission after that: [LANDO](../../2020/09/space-exploration-goals-colonization.md#lando).
+And the mission after that: [LANDO](../../2020/09/space-exploration-goals-colonization.html#lando).
 
 ---
 
@@ -389,7 +389,7 @@ He sure as shit didn't look Asiatic.
 ---
 
 It's true.. for someone who wanted science based, pro-Western reforms,
-Kemal was pretty [unscientific](../../2021/05/anatolia.md#unscientific) in
+Kemal was pretty [unscientific](../../2021/05/anatolia.html#unscientific) in
 his approach to history.
 
 ---

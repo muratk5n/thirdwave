@@ -82,7 +82,7 @@ have airbases nearby. Weakens alien hypothesis somewhat
 
 New UFO plot / analysis below. 
 
-[Link](../../2015/08/ufo.md#analysis1)
+[Link](../../2015/08/ufo.html#analysis1)
 
 ---
 
@@ -139,7 +139,7 @@ Union (#EU)"
 
 US / Europe Nuclear Missile, Bomb Locations
 
-[Link](../../2019/05/usmil.md#nuke)
+[Link](../../2019/05/usmil.html#nuke)
 
 ---
 
@@ -159,7 +159,7 @@ Barely
 
 ---
 
-Your country, such as it is, is quite [new](../../2017/07/the-next-decade-friedman.md#lebanon).
+Your country, such as it is, is quite [new](../../2017/07/the-next-decade-friedman.html#lebanon).
 I wouldn't have qualms about joining a larger entity. Centuries old European
 states do it all the time, including now.
 
@@ -240,7 +240,7 @@ own countrymen without leaving the comfort of their home.
 
 ---
 
-Yes the Berlin Wall construction took place during [his watch](../../2021/08/cuban-missile-crisis.md#berlin).
+Yes the Berlin Wall construction took place during [his watch](../../2021/08/cuban-missile-crisis.html#berlin).
 
 ---
 
@@ -329,7 +329,7 @@ ARKK buys 'bright shiny object' tech, the kind favored by libcucks.
 
 ---
 
-New UFO [dataset and code](../../2015/08/ufo.md#nuforc). This one has
+New UFO [dataset and code](../../2015/08/ufo.html#nuforc). This one has
 latitude and longitude. 
 
 ---

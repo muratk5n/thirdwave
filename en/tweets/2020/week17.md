@@ -759,7 +759,7 @@ Daaaaaam \#oil
 2020-04-21     0.010000
 ```
 
-[Link](../../2019/05/stats.md#oil)
+[Link](../../2019/05/stats.html#oil)
 
 ---
 

@@ -661,7 +661,7 @@ been doing, albeit in a little different setting.
 It's weird, Reps didn't have to end up being such corporate
 sluts. Appelbaum on why that could have happened.
 
-[Link](../../2020/03/appelbaum.md#corp)
+[Link](../../2020/03/appelbaum.html#corp)
 
 ---
 

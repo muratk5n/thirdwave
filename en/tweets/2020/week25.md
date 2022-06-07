@@ -115,7 +115,7 @@ Aahh, the right keyword makes all the difference; "variable pitch".
 
 ---
 
-No. It's a [First Wave](../../2017/10/foragers-farmers-morris.md#hierarchy)
+No. It's a [First Wave](../../2017/10/foragers-farmers-morris.html#hierarchy)
 thing.
 
 "Womens being treated as second-class citizens in history all around
@@ -326,7 +326,7 @@ consoles?"
 
 No. The US non-insistence is part of the assimilation actually, it
 works well.. 10 times better than the TR approach. If TR appr was used
-in US, [here is](../../2020/04/turks-culture-national-narrative.md#amish)
+in US, [here is](../../2020/04/turks-culture-national-narrative.html#amish)
 how it would go. 
 
 "But then should we tell ppl to supress their 'identity' as deluded as
