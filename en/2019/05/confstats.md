@@ -150,7 +150,6 @@ import pandas as pd, zipfile
 pd.set_option('display.max_columns', None)
 df =  pd.read_csv('us-mass-shootings.csv')
 df['Date'] = df.apply(lambda x: pd.to_datetime(x['Incident Date']), axis=1)
-df = df[df.Date < '2022-06-01']
 df['DateYM'] = df.apply(lambda x: "%d%02d" % (x['Date'].year, x['Date'].month), axis=1)
 g = df.groupby('DateYM').agg({'Incident ID':'count', '# Killed': 'sum'})
 g['# Killed (Avg)'] = g['# Killed'].rolling(10).mean()
