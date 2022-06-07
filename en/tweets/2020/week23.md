@@ -984,12 +984,6 @@ for a H2 ambition"
 
 ---
 
-Sweet! Let's haul that sucker to Earth!
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">‘Oumuamua isn’t an alien spaceship, but new research suggests the first known interstellar object to grace our solar system could be something even stranger. <a href="https://t.co/QiABVnOSr7">https://t.co/QiABVnOSr7</a></p>&mdash; WIRED (@WIRED) <a href="https://twitter.com/WIRED/status/1266410798051663873?ref_src=twsrc%5Etfw">May 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The way that certain tech plutocrats have latched onto philosophical terms and used them to make themselves sound smarter or more educated is really something</p>&mdash; Susan Fowler (@susanthesquark) <a href="https://twitter.com/susanthesquark/status/1266396594947022848?ref_src=twsrc%5Etfw">May 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
