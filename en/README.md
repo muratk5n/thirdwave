@@ -129,7 +129,7 @@ feet of gas"
 
 AL on Einstein: He did theorize wout checking much with real data but
 he was the exception not the rule. Other great theoreticians at AE
-level mostly verify against data.
+level mostly start with and verify against data.
 
 ---
 
@@ -151,8 +151,8 @@ Latest from Gun Violence Archive data, new plot. Obviously May looks bad.
 ---
 
 I read one kid saved himself during a shooting by playing dead. Forget
-fortifying schools, arming teachers; learn to play dead. That seems to
-be a key skill.
+fortifying schools, arming teachers; learn to play dead. That is the
+key skill.
 
 ---
 
