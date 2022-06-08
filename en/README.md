@@ -161,7 +161,7 @@ key skill.
 
 Catchy. That'll do the trick.. Gun problem fixed.
 
-Protestors: "N-R-A. Go-Away"
+Protestors: "N-R-A. Go-A-way"
 
 ---
 
