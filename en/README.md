@@ -167,7 +167,7 @@ Protestors: "N-R-A. Go-Away"
 
 U-oh.. Theory made the calculation assuming there was a Big Bang and
 cosmic microwave background is real.. Maybe there wasn't a Big Bang
-and the oft-quoted CMB isn't real. It was water reflection
+and the oft-quoted CMB isn't real. It was water reflection 😱
 
 [[-]](https://pbs.twimg.com/media/FUjMqu8WAAM0O5L?format=png&name=small)
 
