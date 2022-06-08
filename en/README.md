@@ -123,6 +123,9 @@ feet of gas"
 
 ---
 
+Click "Output" for map. Added new fields that I hear about to a
+seperate file.
+
 [World Oil and Gas Fields](2019/05/oilgas.html)
 
 ---
