@@ -123,8 +123,8 @@ feet of gas"
 
 ---
 
-Click "Output" for map. Added new fields that I hear about to a
-seperate file.
+Click "Output" for map. Added new fields I hear about to a seperate
+file. Hovering over field shows its size.
 
 [World Oil and Gas Fields](2019/05/oilgas.html)
 
