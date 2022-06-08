@@ -2,233 +2,198 @@
 
 ---
 
-Nordic Business: "Renewable-Powered Trains Are On Track In The
-Nordics.. 'Hydrogen trains can be used on lines where it isn’t
-feasible to establish catenary lines and where there’s a need for
-heavier and longer transport than what battery-powered trains can
-manage. Hydrogen can be refuelled in less than 20 minutes and cover up
-to 18 hours of driving. and often the cost of setting up a refuelling
-station will be lower than setting up an electric charging station,
-for instance if this requires reinforcement of the power grid,' says
-Kristina Fløche Juelsgaard, head of business development at Ballard
-Europe.
-
-Ballard Europe makes fuel cells for buses, ships and trains, among
-other things. The company is part of Canada’s Ballard Power Systems
-which has so far supplied fuel cells for a passenger train in the UK
-and a locomotive in Canada. Ballard Europa is also involved in two
-projects in Norway, one of which aims to develop a hydrogen and fuel
-cell solution for a locomotive to be used for transporting ore"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Toyota and Woven Planet develop portable hydrogen cartridge prototype - Green Car <a href="https://t.co/wUEV1NMU9Q">https://t.co/wUEV1NMU9Q</a> This cartridge design will facilitate the everyday transport and supply of hydrogen energy to power a broad range of daily life applications in and outside of the home.</p>&mdash; Tatiana Hürlimann (@solar1408) <a href="https://twitter.com/solar1408/status/1533026746488193024?ref_src=twsrc%5Etfw">June 4, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-H2 View: "Caterpillar has launched a three-year energy project in
-Minnesota and has partnered with District Energy St. Paul for the
-testing and demonstration of a combined heat and power (CHP) system
-powered by hydrogen fuel"
+H2 View: "Announcement puts US Regional Clean Hydrogen Hubs on the
+horizon.. The US Department of Energy (DOE) released a Notice of
+Intent to fund the Bipartisan Infrastructure Law’s $8bn programme to
+develop regional clean hydrogen hubs.. across the country"
 
 ---
 
-H2 Fuel News: "Automakers focus on hydrogen transportation in
-California and Oklahoma.. The two states have passed numerous bills
-relating to H2 production, usage and storage"
+"[2020] POSCO Energy, South Korea’s largest private energy producer,
+completed the world’s largest fuel cell manufacturing plant in
+2015..
+
+South Korea’s priorities are leadership in fuel cell cars and large
+scale stationary fuel cells for power generation. According to the
+“Hydrogen Economy Roadmap of Korea”, the government aims to reach the
+production of 6.2 million FCEVs by 2040 with 2.9 million units for the
+domestic market and 3.3 million for export. The target for fuel cell
+power generation is 15 gigawatts (GW) by 2040, including 7 GW for
+export. The roadmap also sets a target for stationary fuel cell’s
+application in buildings (2.1 GW by 2040)...
+
+[South Korea's] biggest car manufacturer Hyundai is betting big on
+H2. According to its FCEV Vision 2030.. the company plans to expand
+its fuel cell production capacity to 700,000 units per year by 2030"
 
 ---
 
-H2 View: "Construction of Namibia’s $10bn hydrogen project set to start
-in 2025. The ambitious time-scale plans will see the commissioning of
-the first phase of the project by the end of 2026, with an estimated
-300,000 tonnes of green hydrogen production per year once at full
-capacity"
+H2 View: "Hydrogen fuel cell power plant planned in South Korea... for
+the 500,000MWh/y [production], that marks just one of many South
+Korean-based hydrogen projects that are set to be carried out by the
+venture"
 
 ---
 
-“Longer-term, a hydrogen pipeline network offers the most
-cost-efficient means of distribution. For example, pipelines can
-transmit 10 times the energy at one-eighth the costs associated with
-electricity transmission lines and have capex costs similar to those
-for natural gas. The industry can partially reuse existing gas
-infrastructure, but even newly constructed pipelines would not be cost
-prohibitive"
-
-[Report](https://hydrogencouncil.com/wp-content/uploads/2021/02/Hydrogen-Insights-2021-Report.pdf)
+H2 Fuel News: "First hydrogen-powered buses planned to hit Melbourne streets"
 
 ---
 
-S&P Global: "Australia is on course to hit a notable century – but not
-on the cricket field. Around 98 hydrogen projects have been chalked up
-in recent months, a substantial number aimed at a future export
-market. And in February one of them, Victoria's Hydrogen Energy Supply
-Chain (HESC), created a minor sensation with the first trial cargo of
-liquid hydrogen to Japan... Australia is anxious to get a foothold in
-the nascent hydrogen market to counter its established,
-climate-compromised position as a major exporter of coal, LNG and
-crude oil"
+H2 View: "India to gain $6.7m green hydrogen and green ammonia
+project.. The project plans to produce 1.2 million tonnes of green
+hydrogen and ammonia per year, with an additional ‘captive solar
+unit’. ACME Group have said construction will take place between 2022
+and 2027... Over the past year, India’s interest in hydrogen has
+dramatically increased, with the unveiling of the country’s National
+Hydrogen Mission, which plans to cut carbon-emissions and meet its
+climate targets"
 
 ---
 
-I'd ban crypto mining period (if possible), carbon or green; it's
-completely unnecessary to create a digital cash. Plus it's not like
-green energy is growing on trees.
-
-"The New York Senate has passed a bill that bans crypto mining
-operations that use carbon-based fuel to power their facilities"
+H2 Fuel News: "Green hydrogen ecosystem planned for German
+City.. French-based Lhyfe announced it has received approval from the
+German city of Schwäbish Gmünd (Baden-Württemberg), to develop a
+‘local renewable green hydrogen ecosystem’"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">my coffee is cold because the mug is stuck in a software update and I&#39;m wondering how I got here</p>&mdash; James Kirk (@Jiminy_Kirket) <a href="https://twitter.com/Jiminy_Kirket/status/1532368972141801472?ref_src=twsrc%5Etfw">June 2, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"@KeithDPatch
+
+Pattern Energy @PatternEnergy @CanadaPattern plans Newfoundland 🇨🇦
+site study for wind energy→green hydrogen→storage→export for EU 🇪🇺 use
+or green ammonia production"
 
 ---
 
-J. Kosinski directed *Top Gun Maverick*? *Oblivion* was great.
+H2 View: "Loop Energy joins NSW hydrogen-powered bus trial.. A New
+South Wales (NSW), Australia, hydrogen-powered bus trial, will receive
+fuel cell modules from Canadian-based Loop Energy"
 
 ---
 
-"@MikeJudge
+"@FCHEA_News
 
-.. [N]ew Beavis and Butthead movie coming to Paramount + on June
-23rd. The brand new series will follow shortly after, along with all
-the old episodes'
-
----
-
-Some say time to get out of the market is when the cabbie driver gives
-you tips on stocks. We can replace that with 'when landlords buy
-bitcoin with rent deposits'.
+Thank you to @SecGranholm and @ENERGY for their leadership and
+encouragement of the #hydrogen industry! Today at the Hydrogen AMR,
+Secretary Granholm announced the hydrogen shot incubator prize and
+today's publication of the Hydrogen Hubs Notice of Intent"
 
 ---
 
-FOMO markets created 'investors' out of everyone
+FEM and H2 in the same news... (FEM is a famous compsci approach)
+
+H2 View: "Poseidon Marine H2 has made another dive towards having a
+hydrogen-powered boat in the water by the third quarter of 2023, as it
+commissions finite element analysis of its designs"
 
 ---
 
-\#landlords \#bitcoin
-
-[[-]](https://pbs.twimg.com/media/FUV8tftXoAIRB_Z?format=jpg&name=small)
+H2 View: "$2.6m Hydrogen Shot Incubator Prize launched by DOE"
 
 ---
 
-Hampton Hawes - Web \#music
+That. Is. Wild.. Surely ID is good tech but if one rocket gets
+through, can make major damage. That is one high-value target.
 
-[[-]](https://youtu.be/EJVqxBLzICk)
-
----
-
-CNBC: "Facebook says Apple iOS privacy change will result in $10
-billion revenue hit this year"
-
----
-
-How did *free* help tech companies? It gave rise to huge server farms
-and the "cloud business" which would not be possible wout free OS.
-Imagine paying OS license fees for every one of those nodes in a
-server farm... That would cost an arm and a leg. Now content creators
-create their "livestreams" wout giving a second thought on how many
-computing resources that entails. All that needs resources, which used
-cost *more* before open-source software. The revolution, such as it
-is, did not take place through commercial companies, it happened
-through free software, through people contributing their time to a
-project they thought was worth their time.
+The Times of Israel: "Israel said preparing to defend new Karish gas
+rig from Hezbollah attack.. According to Kan, Navy using vessels
+including submarines to protect drilling site; Iron Dome battery to be
+placed nearby as well"
 
 ---
 
-Relative to others around it the object was actually standing still,
-we ran into it, pushed it away (through solar energy). AL claims the
-object was likely a buoy of sorts, just sitting there, as a marker,
-maybe left-over tech from a civ which may or may not still be around.
+I guess the rigs fall under the range of Hezbollah rockets.
 
-This ET biz doesn't have to be flashy; civs can die out, not around,
-we run into their leftovers, ones that are alive might not have
-space-faring capability, and/or we are not that interesting anyway,
-just some effin weirdos who cant get their shit together.
+"Lebanese Hezbollah yesterday warned that it would not accept Israel
+to work in the Karish gas field in the disputed maritime zone.. This
+came following the arrival of the Greek floating production and
+storage rig, Energean, to the area"
 
 ---
 
-Prof Avi Loeb makes a good case; Oumuamua could be an artificial
-object. He is not that excited about UFO sightings, bashes ppl wasting
-time on string theory (gymnastics in Anti-de Sitter space), and the
-multiverse. He seems to have the right kind of bullshit filter.
+Equivalent to 600 mil boe.
+
+"The Karish and Tanin gas fields [natural gas reservoir located off
+the coast of Israel] together are estimated to hold 2–3 trillion cubic
+feet of gas"
 
 ---
 
-New York, Texas, Tennesee, Philadelphia, South Carolina.. it's carnage
-over there man.. Really sad
+[World Oil and Gas Fields](2019/05/oilgas.html)
 
 ---
 
-AP News: "McCormick concedes to Oz in Pennsylvania GOP Senate primary"
+AL on Einstein: He did theorize wout checking much with real data but
+he was the exception not the rule. Other great theoreticians at AE
+level mostly verify against data.
 
 ---
 
-Larry Fink says globalization was inflationary, deglobalization would
-be inflationary \#Bloomberg
+Avi Loeb book [excerpts](2022/06/extraterrestrial-loeb.html). Can skip forward
+[here](2022/06/extraterrestrial-loeb.html#junkscience) for the good parts
+on the string theory, the multiverse, and theoretical physics losing its way.
 
 ---
 
-Discipline problems, morale down?
-
-Military Analyst: "Ukraine military wanted to apply a new law which
-would have given commanders the ability to punish soldiers, it was not
-approved by gov, for now"
+I hate to say it there is a seasonality to mass shootings.. Every 10
+months it peaks.
 
 ---
 
-Now Africa is going to Putin begging for grain.. 
+Latest from Gun Violence Archive data, new plot. Obviously May looks bad.
 
-Politico: "Senegalese President Macky Sall, who is also the chair of
-the African Union, gave credence to Russia's pledge that it will allow
-the safe export of Ukraine's grain stocks after meeting President
-Vladimir Putin in Sochi today"
+[[-]](2019/05/confstats.html#usgun)
 
 ---
 
-Yuzivska field is shale-gas though.. Fracking is bad.
+I read one kid saved himself during a shooting by playing dead. Forget
+fortifying schools, arming teachers; learn to play dead. That seems to
+be a key skill.
 
 ---
 
-In 5-10 yrs it can all be forgotten, most of the actors that are in
-office now won't be around.
+Catchy. That'll do the trick.. Gun problem fixed.
 
-"But after the war the relationship between RU/West is fatally damaged"
-
----
-
-With those energy resources Ukraine could supplant Russia and become
-the EU's top supplier. If taken RU will continue to be the top supplier
-of energy in the region.
+Protestors: "N-R-A. Go-Away"
 
 ---
 
-Yuzivska gas field juxtaposed on the conflict map.
+U-oh.. Theory made the calculation assuming there was a Big Bang and
+cosmic microwave background is real.. Maybe there wasn't a Big Bang
+and the oft-quoted CMB isn't real. It was water reflection
 
-[[-]](https://pbs.twimg.com/media/FUbvwhrWUAIOUX8?format=png&name=small)
-
----
-
-"In 2010, gas [reserves were] discovered in Donbas Ukraine. The [IEA]
-reported the natural gas reserves are estimated at 5.4 trillion cubic
-meters, which is worth $4.8 trillion and can supply the European Union
-countries gas demands for forty five years... [In] April 8, 2022,
-Sergei Rudskoi, head of the Russian [mil], said in a speech: 'The main
-objectives of the first stage of the operation have generally been
-accomplished… [now we can] focus our core efforts on achieving the
-main goal, the liberation of Donbass.'"
-
-[[-]](https://california-business-lawyer-corporate-lawyer.com/4-8-trillion-why-russia-ukraine-eu-and-us-is-making-donbas-ukraine-the-last-stand-on-the-russian-invasion/)
+[[-]](https://pbs.twimg.com/media/FUjMqu8WAAM0O5L?format=png&name=small)
 
 ---
 
-Yea.. that wld be escalatory..  
-
-Yahoo News: "UK 'not to send warships to Black Sea' to escort
-Ukrainian grain shipments.. Earlier, UK newspaper the Times reported,
-citing its sources, that Britain was considering sending warships to
-the Black Sea to escort ships carrying Ukrainian grain, the export of
-which is being blocked by Russia"
+NDTV: "Lagarde, the President of the European Central Bank, stated
+that cryptocurrencies were 'based on nothing' and should be regulated
+to prevent people from risking their life savings on them"
 
 ---
 
-Hindustan Times: "Russia shipped 'stolen' wheat to ally Syria?"
+Al Jazeera: "The Israeli government has failed to pass a bill that
+would renew and uphold the legal status of illegal Israeli settlers in
+the occupied West Bank.. The failure to renew the bill on Monday
+highlighted the separate legal systems in the occupied West Bank,
+where nearly 500,000 Israeli settlers enjoy the benefits of Israeli
+citizenship and law while some 3 million Palestinians live under
+military rule that is now well into its sixth decade...
+
+Some 500,000 Israeli settlers live in more than 120 settlements and
+outposts across the occupied West Bank that are considered illegal
+under international law. The settlements, which are fortified,
+Jewish-only housing complexes, are continuing to expand in the
+occupied West Bank as well as occupied East Jerusalem. They are seen
+as a major obstacle to any potential deal with Israel..
+
+Attacks by Israeli settlers against Palestinians and their property
+are common. Settlers are usually backed by armed Israeli forces when
+committing such attacks"
 
 ---
 
