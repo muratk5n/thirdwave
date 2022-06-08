@@ -62,10 +62,10 @@ sideways, as they often do in comets...
 
 And then there is the evidence that the extra force acting on
 Oumuamua, the force that was causing it to deviate, declined in
-inverse proportion to the square of ‘Oumuamua’s distance from the
+inverse proportion to the square of Oumuamua’s distance from the
 Sun. If the extra force were the result of outgassing, we would expect
 a faster deceleration of an object as it rapidly distances itself from
-the Sun.. When I read reports that the extra force on ‘Oumuamua
+the Sun.. When I read reports that the extra force on Oumuamua
 declined inversely with the distance from the Sun squared, I wondered
 what could be pushing it if not outgassing or disintegration. The only
 explanation that came to mind was the sunlight bouncing off its
@@ -110,7 +110,7 @@ it probed to support supersymmetry.  Other speculative ideas
 pertaining to the nature of dark matter, dark energy, extra
 dimensions, and string theory have yet to be even tested.
 
-Imagine that the data suggesting that ‘Oumuamua is extraterrestrial
+Imagine that the data suggesting that Oumuamua is extraterrestrial
 technology is stronger than the data suggesting supersymmetry theory
 is valid. What might follow? Just a bit under five billion dollars was
 spent to construct the Large Hadron Collider, a particle accelerator
@@ -119,7 +119,7 @@ running it costs another one billion dollars a year. If the scientific
 consensus eventually gives up on the theory, it will do so after vast
 expense and generations of effort. Until we have invested similarly in
 the search for extraterrestrial intelligence, flat declarations about
-what ‘Oumuamua is and isn’t should be judged accordingly.
+what Oumuamua is and isn’t should be judged accordingly.
 
 A host of theories beyond supersymmetry—the multiverse leaps to mind—
 are given thoughtful, respectful attention in and out of the academy
