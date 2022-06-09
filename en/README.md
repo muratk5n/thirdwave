@@ -102,20 +102,6 @@ next five to seven years"
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
----
-
 Police is clearly no good to stop gun violence. Time to defund the
 police?
 
