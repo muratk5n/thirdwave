@@ -205,8 +205,8 @@ dispute over drilling in the eastern Mediterranean Sea"
 
 ---
 
-IMO the initial Northern attack was a faint, so RU could have a
-freerer rain in the East.
+IMO the initial Northern attack was a faint, so RU could have a freer
+rain in the East.
 
 ---
 
