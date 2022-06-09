@@ -77,6 +77,14 @@ former UN climate envoy Mary Robinson has said"
 
 ---
 
+[Link](https://drive.google.com/uc?export=view&id=18Stk7VoQ7X3l5yMO0sTs4Qejpzsq2h4V)
+
+---
+
+Blue steel was the other thing 🤣 \#zoolander
+
+---
+
 I like the name; GREEN STEEL
 
 H2 Green Steel: "Steel production accounts for 25 percent of Europe’s
