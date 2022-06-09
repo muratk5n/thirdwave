@@ -119,6 +119,11 @@ It is based on the Linux OS (free, open-source).
 
 ---
 
+That superannuation thing at the end was somewhat dogdy too; It even
+freaked *me* out and I'm just an outside observer.
+
+---
+
 The AUKUS thing was a bit too on the nose though, came across
 off-putting as though being 'us against the rest', all parties
 involved made a mistake there, UK, US as well.
