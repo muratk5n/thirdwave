@@ -36,7 +36,7 @@ H2 Fuel News: "India aims for cheaper green hydrogen to accelerate its
 use.. India wants the World Bank and other global funders to establish
 guarantee programs to assist in making low-rate funds accessible, said
 Kant. The goal is to reduce the cost of transitioning to – and using –
-renewable H2, particularly in sectors where decarbonization is
+renewable H2, particularly in sectors where decarbonization is
 difficult, such as fertilizer manufacturing, steel production and
 refineries"
 
@@ -53,8 +53,8 @@ few, large installations.
 
 VW now like battery-electric cars, these people clearly alternate
 between being a crook and a moron; but the energy infra should not
-give them a chance to be either. Clean molecules, in storage, in
-tranmission, and in consumption can achieve that.
+give them a chance to be either. Clean molecules in storage,
+tranmission, and consumption can achieve that.
 
 ---
 
