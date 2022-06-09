@@ -575,18 +575,6 @@ officials — without disclosing their current defense industry ties"
 
 ---
 
-[Code](tweets/2022/util.py) to fetch UKR-RU war map from ISW for a
-given date,
-
-```python
-import util, datetime
-util.fetch_ukr_war_map(datetime.datetime(2022,4,17))
-```
-
-[[-]](https://pbs.twimg.com/media/FQnXq6OWQAM9F_A?format=jpg&name=small)
-
----
-
 H2 View: "Australian hydrogen vehicle manufacturer H2X is looking to
 further advance its innovations, having entered into a partnership
 with KTM Technologies to enhance both the vehicle chassis and

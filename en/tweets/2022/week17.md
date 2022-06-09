@@ -823,13 +823,6 @@ what's next?
 
 ---
 
-Wanted: data journalism. Instead of just pretty maps, also supply the
-data as below.. The ISW war map could be shared as JSON data - regions
-are just a collection of lat,lon points of a "polygon" after all,
-offer download and let users plot, process DIY.
-
----
-
 And of course - the usual troublemaker country [appears](https://english.alaraby.co.uk/news/krg-pm-barzani-hit-eggs-during-visit-london).
 
 ---

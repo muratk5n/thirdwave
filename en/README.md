@@ -2,201 +2,220 @@
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Toyota and Woven Planet develop portable hydrogen cartridge prototype - Green Car <a href="https://t.co/wUEV1NMU9Q">https://t.co/wUEV1NMU9Q</a> This cartridge design will facilitate the everyday transport and supply of hydrogen energy to power a broad range of daily life applications in and outside of the home.</p>&mdash; Tatiana Hürlimann (@solar1408) <a href="https://twitter.com/solar1408/status/1533026746488193024?ref_src=twsrc%5Etfw">June 4, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We’re thrilled to announce that we’ve signed an agreement to build a 35-tons-per-day green hydrogen generation plant at <a href="https://twitter.com/PortofAntBruges?ref_src=twsrc%5Etfw">@PortofAntBruges</a>. This 100-megawatt plant will produce up to 12,500 tons per year of liquid and gaseous green hydrogen. Read more: <a href="https://t.co/y6fLlktAhM">https://t.co/y6fLlktAhM</a> <a href="https://t.co/RNdYSTXcmH">pic.twitter.com/RNdYSTXcmH</a></p>&mdash; Plug Power Inc. (@PlugPowerInc) <a href="https://twitter.com/PlugPowerInc/status/1534510695752015873?ref_src=twsrc%5Etfw">June 8, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-H2 View: "Announcement puts US Regional Clean Hydrogen Hubs on the
-horizon.. The US Department of Energy (DOE) released a Notice of
-Intent to fund the Bipartisan Infrastructure Law’s $8bn programme to
-develop regional clean hydrogen hubs.. across the country"
+"@CAHydrogen
+
+Renewable, clean #hydrogen would allow for jobs in the fossil fuel
+sector to transition to a clean energy economy, and be retained,
+creating support from those union and trade groups, says Senator
+@NancySkinnerCA"
 
 ---
 
-"[2020] POSCO Energy, South Korea’s largest private energy producer,
-completed the world’s largest fuel cell manufacturing plant in
-2015..
+Underground pipe storage. Salt caverns. Lining a rock cavern
+with a thin layer of steel. [There are](2022/06/the-h2-revolution-alvera.md#storage)
+many options. 
 
-South Korea’s priorities are leadership in fuel cell cars and large
-scale stationary fuel cells for power generation. According to the
-“Hydrogen Economy Roadmap of Korea”, the government aims to reach the
-production of 6.2 million FCEVs by 2040 with 2.9 million units for the
-domestic market and 3.3 million for export. The target for fuel cell
-power generation is 15 gigawatts (GW) by 2040, including 7 GW for
-export. The roadmap also sets a target for stationary fuel cell’s
-application in buildings (2.1 GW by 2040)...
-
-[South Korea's] biggest car manufacturer Hyundai is betting big on
-H2. According to its FCEV Vision 2030.. the company plans to expand
-its fuel cell production capacity to 700,000 units per year by 2030"
+"In a statement GenH2 asked, 'How will liquid hydrogen be stored at these new hubs?'
 
 ---
 
-H2 View: "Hydrogen fuel cell power plant planned in South Korea... for
-the 500,000MWh/y [production], that marks just one of many South
-Korean-based hydrogen projects that are set to be carried out by the
-venture"
+H2 View: "Cummins announced that it has joined the Hydrogen Engine
+Alliance, an initiative bringing together European industry
+representatives to support research and development for sustainable
+hydrogen internal combustion engines (ICE)"
 
 ---
 
-H2 Fuel News: "First hydrogen-powered buses planned to hit Melbourne streets"
+H2 Fuel News: "India aims for cheaper green hydrogen to accelerate its
+use.. India wants the World Bank and other global funders to establish
+guarantee programs to assist in making low-rate funds accessible, said
+Kant. The goal is to reduce the cost of transitioning to – and using –
+renewable H2, particularly in sectors where decarbonization is
+difficult, such as fertilizer manufacturing, steel production and
+refineries"
 
 ---
 
-H2 View: "India to gain $6.7m green hydrogen and green ammonia
-project.. The project plans to produce 1.2 million tonnes of green
-hydrogen and ammonia per year, with an additional ‘captive solar
-unit’. ACME Group have said construction will take place between 2022
-and 2027... Over the past year, India’s interest in hydrogen has
-dramatically increased, with the unveiling of the country’s National
-Hydrogen Mission, which plans to cut carbon-emissions and meet its
-climate targets"
+H2 View: "Two hydrogen refuelling stations planned for Poland"
 
 ---
 
-H2 Fuel News: "Green hydrogen ecosystem planned for German
-City.. French-based Lhyfe announced it has received approval from the
-German city of Schwäbish Gmünd (Baden-Württemberg), to develop a
-‘local renewable green hydrogen ecosystem’"
+VW now like battery-electric cars, these people clearly alternate
+between being a crook and a moron; but the energy infra should not
+give them a chance to be either. Clean molecules, in storage, in
+tranmission, and in consumption will achieve that.
 
 ---
 
-"@KeithDPatch
-
-Pattern Energy @PatternEnergy @CanadaPattern plans Newfoundland 🇨🇦
-site study for wind energy→green hydrogen→storage→export for EU 🇪🇺 use
-or green ammonia production"
-
----
-
-H2 View: "Loop Energy joins NSW hydrogen-powered bus trial.. A New
-South Wales (NSW), Australia, hydrogen-powered bus trial, will receive
-fuel cell modules from Canadian-based Loop Energy"
+The longer fossil stays in the system, stored, transmitted, the more
+the chances are for "leaking or cheating". If oil pipeline breaks it
+causes environmental damage. If fossil allowed in cars with 'emission
+control' instituted, it will lead to cheating as in Volkswagen's case. 
 
 ---
 
-"@FCHEA_News
+They can have their cake and eat it. Generate 'blue' H2 and pipeline
+it to customers. Clean, after CCS at the source can have no emissions
+down the line, including the end-user.
 
-Thank you to @SecGranholm and @ENERGY for their leadership and
-encouragement of the #hydrogen industry! Today at the Hydrogen AMR,
-Secretary Granholm announced the hydrogen shot incubator prize and
-today's publication of the Hydrogen Hubs Notice of Intent"
-
----
-
-FEM and H2 in the same news... (FEM is a famous compsci approach)
-
-H2 View: "Poseidon Marine H2 has made another dive towards having a
-hydrogen-powered boat in the water by the third quarter of 2023, as it
-commissions finite element analysis of its designs"
+The Guardian: "Ex-UN climate envoy says continent’s need for energy is
+so great it should be able to widely use the fossil fuel. African
+countries should be able to exploit their vast natural gas reserves
+despite the urgent need to cut global greenhouse gas emissions, the
+former UN climate envoy Mary Robinson has said"
 
 ---
 
-H2 View: "$2.6m Hydrogen Shot Incubator Prize launched by DOE"
+I like the name; GREEN STEEL
+
+H2 Green Steel: "Steel production accounts for 25 percent of Europe’s
+industrial CO2 emissions, which is more than the Nordics’ total CO2
+emissions, or more than all flights departing from the
+EU. Decarbonization is a must for the industry and disruptive
+technology will be a key enabler..
+
+So, how does it all work? In traditional steel making, reduction of
+iron ore is done by heating it together with coal, utilizing a
+chemical reaction that separates the oxygen from the iron, forming and
+emitting CO2. In our production, green hydrogen reacts with iron ore
+similarly to carbon, resulting in the extraction of oxygen. But
+instead of creating CO2, the main by-product is H2O.
+
+Large-scale green hydrogen production will enable the transition of
+hard-to-abate industries towards sustainable operations. And as a
+front-runner, H2 Green Steel will play an important part in
+accelerating decarbonization"
 
 ---
 
-That. Is. Wild.. Surely ID is good tech but if one rocket gets
-through, can make major damage. That is one high-value target.
-
-The Times of Israel: "Israel said preparing to defend new Karish gas
-rig from Hezbollah attack.. According to Kan, Navy using vessels
-including submarines to protect drilling site; Iron Dome battery to be
-placed nearby as well"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Sweden&#39;s H2 Green Steel signs 14-TWh PPA to power planned electrolyzer - S&amp;P Global <a href="https://t.co/VtOkYNdWBp">https://t.co/VtOkYNdWBp</a></p>&mdash; Green Energy (@GreenEnergy) <a href="https://twitter.com/GreenEnergy/status/1534572751658229761?ref_src=twsrc%5Etfw">June 8, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-I guess the rigs fall under the range of Hezbollah rockets.
-
-"Lebanese Hezbollah yesterday warned that it would not accept Israel
-to work in the Karish gas field in the disputed maritime zone.. This
-came following the arrival of the Greek floating production and
-storage rig, Energean, to the area"
+"Sweden-based H2 Green Steel.. announced that it had signed contracts
+to produce over 1.5 million tonnes of green steel annually over the
+next five to seven years"
 
 ---
 
-Equivalent to 600 mil boe.
 
-"The Karish and Tanin gas fields [natural gas reservoir located off
-the coast of Israel] together are estimated to hold 2–3 trillion cubic
-feet of gas"
 
----
 
-Click "Output" for map. Added new fields I hear about to a seperate
-file. Hovering over field shows its size. Data contains 'large' fields.
 
-[World Oil and Gas Fields](2019/05/oilgas.html)
 
----
 
-AL on Einstein: He did theorize wout checking much with real data but
-he was the exception not the rule. Other great theoreticians at AE
-level mostly start with and verify against data.
+
+
+
+
+
 
 ---
 
-Avi Loeb book [excerpts](2022/06/extraterrestrial-loeb.html). Can skip forward
-[here](2022/06/extraterrestrial-loeb.html#junkscience) for the good parts
-on the string theory, the multiverse, and theoretical physics losing its way.
+Police is clearly no good to stop gun violence. Time to defund the
+police?
 
 ---
 
-I hate to say it there is a seasonality to mass shootings.. Every 10
-months it peaks.
+"Ew but I use Apple, I'm all commercial". Apple datacenters run on
+Linux (free, open-source).
 
 ---
 
-Latest from Gun Violence Archive data, new plot. Obviously May looks bad.
-
-[[-]](2019/05/confstats.html#usgun)
-
----
-
-I read one kid saved himself during a shooting by playing dead. Forget
-fortifying schools, arming teachers; learn to play dead. That is the
-key skill.
+The AUKUS thing was a bit too on the nose though, came across
+off-putting as though being 'us against the rest', all parties
+involved made a mistake there, UK, US as well.
 
 ---
 
-Catchy. That'll do the trick.. Gun problem fixed.
-
-Protestors: "N-R-A. Go-A-way"
-
----
-
-U-oh.. Theory made the calculation assuming there was a Big Bang and
-cosmic microwave background is real.. Maybe there wasn't a Big Bang
-and the oft-quoted CMB isn't real. It was water reflection 😱
-
-[[-]](https://pbs.twimg.com/media/FUjMqu8WAAM0O5L?format=png&name=small)
+Scott Morrison did some good things on renewable energy; have to give
+him that. Was PM during a very difficult time.
 
 ---
 
-NDTV: "Lagarde, the President of the European Central Bank, stated
-that cryptocurrencies were 'based on nothing' and should be regulated
-to prevent people from risking their life savings on them"
+New Lib leader badmouthing previous leader, I guess he wants to
+differentiate himself.
 
 ---
 
-Al Jazeera: "The Israeli government has failed to pass a bill that
-would renew and uphold the legal status of illegal Israeli settlers in
-the occupied West Bank.. The failure to renew the bill on Monday
-highlighted the separate legal systems in the occupied West Bank,
-where nearly 500,000 Israeli settlers enjoy the benefits of Israeli
-citizenship and law while some 3 million Palestinians live under
-military rule that is now well into its sixth decade...
+BARRACUDA
 
-Some 500,000 Israeli settlers live in more than 120 settlements and
-outposts across the occupied West Bank that are considered illegal
-under international law. The settlements, which are fortified,
-Jewish-only housing complexes, are continuing to expand in the
-occupied West Bank as well as occupied East Jerusalem. They are seen
-as a major obstacle to any potential deal with Israel..
+Jane's Defense: "The French Navy's first Suffren-class (Barracuda)
+nuclear-powered attack submarine (SSN), Suffren (S 635), was
+commissioned into service"
 
-Attacks by Israeli settlers against Palestinians and their property
-are common. Settlers are usually backed by armed Israeli forces when
-committing such attacks"
+---
+
+Jane's Defense: "Portugal to build multi-purpose unmanned
+carrier.. The Portuguese Navy announced on 27 May that it is planning
+to design and build an offshore multi-purpose surface ship dedicated
+to deploying unmanned surface vessels"
+
+---
+
+Wiki: "The *Clan del Golfo* (The Gulf Clan)..  is a prominent
+Colombian neo-paramilitary group and currently the country's largest
+drug cartel. [It] is considered the most powerful criminal
+organization in Colombia, [.. having] recruited accomplices at the
+highest level of the military hierarchy, such as generals and
+colonels"
+
+---
+
+AP News: "Italy seizes 4 tons of cocaine linked to Colombian Gulf Clan"
+
+---
+
+Arab News: "Israel mainly to blame for [the Palestinian]
+conflict.. Israel's occupation and discrimination against Palestinians
+are the main causes of the endless cycles of violence, UN
+investigators said Tuesday, prompting angry Israeli protests"
+
+---
+
+Al Monitor: "'Saudi Arabia, Cyprus set up joint business
+council.. Mohammed bin Salman is planning to visit Cyprus on an
+international trip that will also bring him to Greece and
+Turkey. Saudi Arabia is currently pursuing rapprochement with Turkey
+but has also expressed support for Cyprus in the two countries’
+dispute over drilling in the eastern Mediterranean Sea"
+
+---
+
+IMO the initial Northern attack was a faint, so RU could have a
+freerer rain in the East.
+
+---
+
+RU/UKR war animated. 
+
+[Video](https://drive.google.com/uc?export=view&id=1DoIMz-gfOF4c-9dZDMw4cOrI43x1bn-N)
+
+---
+
+Ukraine complains about Germany denying them NATO entry '08. But then
+they continued to increase NATO relationship, train with them as if
+they will *definitely* join one day..  Were they waiting for the next
+German chancelor that would say Ja one day for their membership?
+Isn't that such a big bet, on your country's security, that it might,
+can, maybe could one day happen?
+
+Dont get me started on the Americans.
+
+---
+
+Bloomberg: "Merkel Warns Isolating Russia Long Term Is Not Possible"
+
+---
+
+Arab News: "Ukrainian forces may have to retreat from the eastern city
+of Severodonetsk which is being shelled by Russian troops '24 hours a
+day,' an official said Wednesday, following days of raging street
+battles"
 
 ---
 
