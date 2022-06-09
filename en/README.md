@@ -51,7 +51,7 @@ few, large installations.
 
 ---
 
-VW now like battery-electric cars, these people clearly alternate
+VW now likes battery-electric cars, these people clearly alternate
 between being a crook and a moron; but the energy infra should not
 give them a chance to be either. Clean molecules in storage,
 tranmission, and consumption can achieve that.
