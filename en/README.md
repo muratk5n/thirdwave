@@ -107,6 +107,10 @@ next five to seven years"
 
 ---
 
+BBC: "US House passes gun bill doomed to fail in senate"
+
+---
+
 Police is clearly no good to stop gun violence. Time to defund the
 police?
 
