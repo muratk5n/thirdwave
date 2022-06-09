@@ -195,7 +195,7 @@ they continued to increase NATO relationship, train with them as if
 they will *definitely* join at some point.. Were they waiting for the
 next German chancelor that would say Ja one day for their membership?
 Isn't that such a big bet, on your country's security, that it might,
-can, maybe could one day happen?
+could, maybe one day happen?
 
 ---
 
