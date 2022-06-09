@@ -170,7 +170,7 @@ AP News: "Italy seizes 4 tons of cocaine linked to Colombian Gulf Clan"
 
 ---
 
-Arab News: "Israel mainly to blame for [the Palestinian]
+Arab News: "UN: Israel mainly to blame for [the Palestinian]
 conflict.. Israel's occupation and discrimination against Palestinians
 are the main causes of the endless cycles of violence, UN
 investigators said Tuesday, prompting angry Israeli protests"
