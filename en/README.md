@@ -16,7 +16,8 @@ creating support from those union and trade groups, says Senator
 ---
 
 As gas, underground pipe storage. Salt caverns. Lining a rock cavern
-with a thin layer of steel are all possible technologies. [There are](2022/06/the-h2-revolution-alvera.md#storage)
+with a thin layer of steel are all possible technologies. There is ammonia.
+[There are](2022/06/the-h2-revolution-alvera.md#storage)
 many options. 
 
 "In a statement GenH2 asked, 'How will.. hydrogen be stored at these
