@@ -121,8 +121,15 @@ police?
 
 ---
 
-"Ew but I use Apple, I'm all commercial". Apple datacenters run on
-Linux (free, open-source).
+Apple datacenters run on Linux.
+
+"Ew but I use Apple, I'm all commercial". 
+
+---
+
+It is based on the Linux OS (free, open-source).
+
+"My Android phone is so sleek, fine commercial product"
 
 ---
 
