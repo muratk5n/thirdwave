@@ -97,6 +97,8 @@ hard-to-abate industries towards sustainable operations. And as a
 front-runner, H2 Green Steel will play an important part in
 accelerating decarbonization"
 
+[[-]](https://www.h2greensteel.com/)
+
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Sweden&#39;s H2 Green Steel signs 14-TWh PPA to power planned electrolyzer - S&amp;P Global <a href="https://t.co/VtOkYNdWBp">https://t.co/VtOkYNdWBp</a></p>&mdash; Green Energy (@GreenEnergy) <a href="https://twitter.com/GreenEnergy/status/1534572751658229761?ref_src=twsrc%5Etfw">June 8, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
