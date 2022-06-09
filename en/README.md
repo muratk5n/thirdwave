@@ -59,8 +59,8 @@ control' instituted, it will lead to cheating as in Volkswagen's case.
 ---
 
 They can have their cake and eat it. Generate 'blue' H2 and pipeline
-it to customers. Clean, after CCS at the source can have no emissions
-down the line, including the end-user.
+it to customers. Clean, easy to regulate after CCS at the source can
+have no emissions down the line, including the end-user.
 
 The Guardian: "Ex-UN climate envoy says continent’s need for energy is
 so great it should be able to widely use the fossil fuel. African
