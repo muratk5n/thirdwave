@@ -17,7 +17,7 @@ creating support from those union and trade groups, says Senator
 
 Underground pipe storage. Salt caverns. Lining a rock cavern
 with a thin layer of steel. [There are](2022/06/the-h2-revolution-alvera.md#storage)
-many options. 
+options. 
 
 "In a statement GenH2 asked, 'How will liquid hydrogen be stored at these new hubs?'
 
