@@ -137,7 +137,7 @@ him that. Was PM during a very difficult time.
 
 ---
 
-New Lib leader badmouthing previous leader, I guess he wants to
+New Oz Lib leader badmouthing previous leader, I guess he wants to
 differentiate himself.
 
 ---
