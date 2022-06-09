@@ -6,7 +6,7 @@ Marco Alvera, CEO of SNAM, an energy infrastructure company
 
 If we hadn’t had Covid-19, 2020 would be remembered for the Australian
 bushfire disaster, which killed thirty- four people and more than
-three billion animals, and for the unprecedented 8wildfires in Brazil
+three billion animals, and for the unprecedented wildfires in Brazil
 and California..
 
 Yes, renewable electricity was making great strides, but electricity
