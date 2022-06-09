@@ -119,8 +119,8 @@ It is based on the Linux OS (free, open-source).
 
 ---
 
-That superannuation thing at the end was somewhat dogdy too; It even
-freaked *me* out and I'm just an outside observer.
+That superannuation biz too at the end, was somewhat dogdy; It even
+freaked *me* out, and I'm just an outside observer.
 
 ---
 
