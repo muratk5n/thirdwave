@@ -132,8 +132,8 @@ involved made a mistake there, UK, US as well.
 
 ---
 
-Scott Morrison did some good things on H2; have to give him that. Was
-PM during a very difficult time.
+Scott Morrison did some good things on H2; have to give him that. He
+was PM during a very difficult time.
 
 ---
 
