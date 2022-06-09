@@ -1,6 +1,6 @@
 # The H2 Revolution
 
-Marco Alvera
+Marco Alvera, CEO of SNAM, an energy infrastructure company
 
 <a name='deaths'/>
 
