@@ -204,8 +204,6 @@ next German chancelor that would say Ja one day for their membership?
 Isn't that such a big bet, on your country's security, that it might,
 can, maybe could one day happen?
 
-Dont get me started on the Americans.
-
 ---
 
 Bloomberg: "Merkel Warns Isolating Russia Long Term Is Not Possible"
