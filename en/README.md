@@ -44,6 +44,11 @@ H2 View: "Two hydrogen refuelling stations planned for Poland"
 
 ---
 
+CCS at the source is much easier to regulate, gov would be checking a
+few, large installations.
+
+---
+
 VW now like battery-electric cars, these people clearly alternate
 between being a crook and a moron; but the energy infra should not
 give them a chance to be either. Clean molecules, in storage, in
@@ -59,8 +64,8 @@ control' instituted, it will lead to cheating as in Volkswagen's case.
 ---
 
 They can have their cake and eat it. Generate 'blue' H2 and pipeline
-it to customers. Clean, easy to regulate after CCS at the source can
-have no emissions down the line, including the end-user.
+it to customers. Clean, after CCS at the source can have no emissions
+down the line, including the end-user. 
 
 The Guardian: "Ex-UN climate envoy says continent’s need for energy is
 so great it should be able to widely use the fossil fuel. African
