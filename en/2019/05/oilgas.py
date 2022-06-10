@@ -1,25 +1,24 @@
 import pandas as pd
 import folium, re, sys
 
+def plot_rows(df, m):
+    for index, row in df.iterrows(): # 
+        color = 'red'
+        if 'Gas' in row['FIELD_TYPE']:
+           color = 'blue'
+        folium.CircleMarker(
+            [row['LAT_DD'], row['LON_DD']], 
+            color=color,
+            tooltip=row['FLD_NAME'] + " " + str(int(row['EUR_MMBOE'])) + " mmboe (" + row['FIELD_TYPE'] + ")",
+            radius=3
+        ).add_to(m)
+
 def fields():
     m = folium.Map(location=[30, 20], zoom_start=3, tiles="Stamen Terrain")
-
-    def plot_rows(df):
-        for index, row in df.iterrows():
-            color = 'red'
-            if 'Gas' in row['FIELD_TYPE']:
-               color = 'blue'
-            folium.CircleMarker(
-                [row['LAT_DD'], row['LON_DD']], 
-                color=color,
-                tooltip=row['FLD_NAME'] + " " + str(int(row['EUR_MMBOE'])) + " mmboe (" + row['FIELD_TYPE'] + ")",
-                radius=3
-            ).add_to(m)
-
     df = pd.read_csv('oilgas-2018.csv')
-    plot_rows(df)
+    plot_rows(df,m)
     df = pd.read_csv('oilgas-plus.csv')
-    plot_rows(df)
+    plot_rows(df,m)
     m.save('oilgas-out.html')
 
 def pipelines():
@@ -53,6 +52,11 @@ def pipelines():
           if len(points)==0: continue
           folium.PolyLine(points, color='blue', weight=2.0, tooltip=ts).add_to(m)
 
+    df = pd.read_csv('oilgas-2018.csv')
+    plot_rows(df,m)
+    df = pd.read_csv('oilgas-plus.csv')
+    plot_rows(df,m)
+          
     m.save('pipelines.html')
 
 if __name__ == "__main__": 
