@@ -1,6 +1,5 @@
 # Week 23
 
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Toyota and Woven Planet develop portable hydrogen cartridge prototype - Green Car <a href="https://t.co/wUEV1NMU9Q">https://t.co/wUEV1NMU9Q</a> This cartridge design will facilitate the everyday transport and supply of hydrogen energy to power a broad range of daily life applications in and outside of the home.</p>&mdash; Tatiana Hürlimann (@solar1408) <a href="https://twitter.com/solar1408/status/1533026746488193024?ref_src=twsrc%5Etfw">June 4, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -127,7 +126,7 @@ feet of gas"
 Click "Output" for map. Added new fields I hear about to a seperate
 file. Hovering over field shows its size. Data contains 'large' fields.
 
-[World Oil and Gas Fields](2019/05/oilgas.html)
+[World Oil and Gas Fields](../../2019/05/oilgas.html)
 
 ---
 
@@ -137,8 +136,8 @@ level mostly start with and verify against data.
 
 ---
 
-Avi Loeb book [excerpts](2022/06/extraterrestrial-loeb.html). Can skip forward
-[here](2022/06/extraterrestrial-loeb.html#junkscience) for the good parts
+Avi Loeb book [excerpts](../../2022/06/extraterrestrial-loeb.html). Can skip forward
+[here](../../2022/06/extraterrestrial-loeb.html#junkscience) for the good parts
 on the string theory, the multiverse, and theoretical physics losing its way.
 
 ---
@@ -150,7 +149,7 @@ months it peaks.
 
 Latest from Gun Violence Archive data, new plot. Obviously May looks bad.
 
-[[-]](2019/05/confstats.html#usgun)
+[[-]](../../2019/05/confstats.html#usgun)
 
 ---
 
