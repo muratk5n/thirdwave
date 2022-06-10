@@ -35,7 +35,7 @@ def pipelines():
     df = pd.read_csv('pipelines.csv',sep=';')
     m = folium.Map(location=[30, 20], zoom_start=3, tiles="Stamen Terrain")
     for index, row in df.iterrows():
-       if 'Cancelled' in row['Status']: continue
+       if 'Cancelled' in row['Status'] or 'Shelved' in row['Status']: continue
        segments = []
        ts = row['PipelineName'] + " " + row['StartCountry']+"-"+row['EndCountry'] + " "
        if 'nan' not in str(row['Capacity']):
@@ -43,7 +43,7 @@ def pipelines():
           if "MMcf/d" in str(row['CapacityUnits']):
               ts += str(int(float(row['Capacity'])*1e6/5800)) + " boe/d "
           if "bcm/year" in str(row['CapacityUnits']) or "bcm/y" in str(row['CapacityUnits']):
-              ts += str(int(float(row['Capacity'])*1e9/(5800*365))) + " boe/d "
+              ts += str(int(float(row['Capacity'])*1e9/(170*365))) + " boe/d "
        ts += "(" + row['Status'] + ") "
        if "MULTILINESTRING" in row['WKTFormat']:
           c = row['WKTFormat'].replace("MULTILINESTRING","")
