@@ -1,16 +1,5 @@
 # US Bases and Navy Locations
 
-<a name='navy'/>
-
-Navy
-
-Locations for a few US aircraft carriers, and destroyers. To see the map
-click on the Output at the bottom.
-
-[Script](usnavy.py)
-
-[Output](navy-out.html)
-
 <a name='bases'/>
 
 US Bases around the World
