@@ -1,6 +1,6 @@
 # Oil and Gas 
 
-Fields
+## Fields
 
 [Data Source](https://github.com/alexis-ribal/giant-oil-and-gas-field-discoveries/)
 
@@ -12,7 +12,7 @@ Fields
 
 <a name='pipelines'/>
 
-Pipelines
+## Pipelines
 
 [Data Source](https://globalenergymonitor.org/)
 
