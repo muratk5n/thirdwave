@@ -41,9 +41,9 @@ def pipelines():
        if 'nan' not in str(row['Capacity']):
           ts += str(row['Capacity']) + " " + str(row['CapacityUnits']) + " "          
           if "MMcf/d" in str(row['CapacityUnits']):
-              ts += str(int(float(row['Capacity'])*1e6/5800)) + " boe/d "
+              ts += str(int(float(row['Capacity'])*1e6/(5800*1000))) + " kboe/d "
           if "bcm/year" in str(row['CapacityUnits']) or "bcm/y" in str(row['CapacityUnits']):
-              ts += str(int(float(row['Capacity'])*1e9/(170*365))) + " boe/d "
+              ts += str(int(float(row['Capacity'])*1e9/(170*365*1000))) + " kboe/d "
        ts += "(" + row['Status'] + ") "
        if "MULTILINESTRING" in row['WKTFormat']:
           c = row['WKTFormat'].replace("MULTILINESTRING","")

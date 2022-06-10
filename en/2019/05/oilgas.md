@@ -17,6 +17,9 @@ the time of discovery.
 
 ### Pipelines
 
+All units are converted to kboe/d meaning kilo (thousand) barrels of
+oil equivalent per day.
+
 [Data Source](https://globalenergymonitor.org/)
 
 [Data](pipelines.csv)
