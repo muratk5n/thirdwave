@@ -21,18 +21,19 @@ def fields():
     plot_rows(df,m)
     m.save('oilgas-out.html')
 
+def get_linestring(content):
+   points = []
+   c = content.replace("LINESTRING","").replace("(","").replace(")","")
+   res = c.split(",")
+   for x in res:
+      cs = x.split()
+      if len(cs)<2: continue
+      points.append((float(cs[1]), float(cs[0])))
+   return points
+    
 def pipelines():
     df = pd.read_csv('pipelines.csv',sep=';')
     m = folium.Map(location=[30, 20], zoom_start=3, tiles="Stamen Terrain")
-    def get_linestring(content):
-       points = []
-       c = content.replace("LINESTRING","").replace("(","").replace(")","")
-       res = c.split(",")
-       for x in res:
-          cs = x.split()
-          if len(cs)<2: continue
-          points.append((float(cs[1]), float(cs[0])))
-       return points
     for index, row in df.iterrows():
        segments = []
        ts = row['PipelineName']
