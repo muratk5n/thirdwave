@@ -167,7 +167,7 @@ the base. Not a mere trickle either, it was a flood.
 
 ---
 
-Why is Gross Profit Margin over 80% noteworthy? My friend, that is a
+Why is gross profit margin over 80% noteworthy? My friend, that is a
 crazy number. Let's remember the Buffett criteria.. 20% is ok, 40%
 great. This is over *eighty percent*. If you farted into a bottle and
 sold it as a new fragrance you could not reach that number. The
