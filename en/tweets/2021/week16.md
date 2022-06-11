@@ -47,20 +47,7 @@ photosynthesis"
 
 ---
 
-"Vertical farming is the practice of producing food on vertically
-inclined surfaces. Instead of farming vegetables and other foods on a
-single level, such as in a field or a greenhouse, this method produces
-foods in vertically stacked layers commonly integrated into other
-structures like a skyscraper, shipping container or repurposed
-warehouse...
 
-Instead of soil, aeroponic, aquaponic or hydroponic growing mediums
-are used. Peat moss or coconut husks and similar non-soil mediums are
-very common in vertical farming. Finally, the vertical farming method
-uses various sustainability features to offset the energy cost of
-farming. In fact, vertical farming uses 95% less water"
-
-[Link](https://www.thebalancesmb.com/what-you-should-know-about-vertical-farming-4144786)
 
 ---
 

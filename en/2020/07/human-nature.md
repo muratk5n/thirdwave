@@ -16,5 +16,9 @@
 
 [Myers-Briggs](../../2012/01/mbti.html)
 
+[Ferming (Not Farming), Lab-Grown Meat](../../2022/06/lab-grown-meat.html)
+
+[Vertical Farming](../../2022/06/vertical-farming.html)
+
 [[⇪Up]](../..)
 

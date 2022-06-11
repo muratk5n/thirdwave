@@ -48,7 +48,7 @@ Natural gas has 10.55 kWh per cubic meters
 
 Natural gas 5800 cubic feet for one BOE.
 
-! barrel of crude oil carries approximately 1700 kwh of energy.
+1 barrel of crude oil carries approximately 1700 kwh of energy.
 
 As standard the 1 barrel (119 liter) of crude oil produce approximately
 159 liters of gasoline / petrol.

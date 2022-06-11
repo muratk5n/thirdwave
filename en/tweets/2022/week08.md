@@ -478,16 +478,6 @@ U-oh.. be careful lets not become too relevant now
 
 ---
 
-I calculated Nodstream 2 to be at 1 GW capacity. That's one nuclear
-plant, that's it, nothing that can turn everything upside down. NS2's
-significance was more symbolic than in substance. It bypasses Ukraine
-so there was a message there. Plus the pipeline is new, its shutting
-down would not harming existing gas transportation, only future new
-transportation. NS2 was mostly a bellwether for Germany's stance
-toward Russia.
-
----
-
 H2 View: "$127.9m boost for zero emissions vehicles in
 Australia.. Unveiled.. by the Australian Renewable Energy Agency
 (ARENA) on the behalf of the Australian Government, the Future Fuels
