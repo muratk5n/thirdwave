@@ -147,7 +147,7 @@ A. Loeb says cosmic rays will fry your brain on Mars.
 
 ---
 
-Lab-grown salmon; Ferming is the way, better than farming
+Lab-grown salmon; Ferming FTW
 
 [[-]](2022/06/lab-grown-meat.html)
 
