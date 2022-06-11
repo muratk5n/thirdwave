@@ -2,237 +2,280 @@
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We’re thrilled to announce that we’ve signed an agreement to build a 35-tons-per-day green hydrogen generation plant at <a href="https://twitter.com/PortofAntBruges?ref_src=twsrc%5Etfw">@PortofAntBruges</a>. This 100-megawatt plant will produce up to 12,500 tons per year of liquid and gaseous green hydrogen. Read more: <a href="https://t.co/y6fLlktAhM">https://t.co/y6fLlktAhM</a> <a href="https://t.co/RNdYSTXcmH">pic.twitter.com/RNdYSTXcmH</a></p>&mdash; Plug Power Inc. (@PlugPowerInc) <a href="https://twitter.com/PlugPowerInc/status/1534510695752015873?ref_src=twsrc%5Etfw">June 8, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;SoCalGas is preparing a new hydrogen pipeline. A first-of-its-kind project for California, Angeles Link would supply renewable hydrogen to a variety of industries...&quot;<a href="https://t.co/ZALxxTfOBK">https://t.co/ZALxxTfOBK</a></p>&mdash; Pipeline Safety Trust (@pstrust) <a href="https://twitter.com/pstrust/status/1534613995717419008?ref_src=twsrc%5Etfw">June 8, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"@CAHydrogen
-
-Renewable, clean #hydrogen would allow for jobs in the fossil fuel
-sector to transition to a clean energy economy, and be retained,
-creating support from those union and trade groups, says Senator
-@NancySkinnerCA"
+H2 View: "The US Department of Energy (DOE) said it has closed a
+$504.4m loan guarantee for what is said to be the world’s largest
+clean hydrogen and energy storage project in Utah"
 
 ---
 
-As gas, underground pipe storage. Salt caverns. Lining a rock cavern
-with a thin layer of steel are all possible technologies. There is ammonia.
-[There are](2022/06/the-h2-revolution-alvera.md#storage)
-many options. 
-
-"In a statement GenH2 asked, 'How will.. hydrogen be stored at these
-new hubs?'
+H2 Fuel News: "German Government supports waste-to-hydrogen to supply
+the nation.. The German Government has agreed to facilitate the
+purchase of green hydrogen produced from organic waste in the Middle
+East and North Africa (MENA) region"
 
 ---
 
-H2 View: "Cummins announced that it has joined the Hydrogen Engine
-Alliance, an initiative bringing together European industry
-representatives to support research and development for sustainable
-hydrogen internal combustion engines (ICE)"
+H2 View: "Technische Universität (TU) Braunschweig, Germany and the
+University of Strathclyde, Glasgow, UK, have agreed to create a
+‘digital toolbox’ to accelerate hydrogen production... The so-called
+digital toolbox is set to be provide modelling framework, mapping
+technological advances and how they will translate into performance
+improvements at electrolyser and energy grid level"
 
 ---
 
-H2 Fuel News: "India aims for cheaper green hydrogen to accelerate its
-use.. India wants the World Bank and other global funders to establish
-guarantee programs to assist in making low-rate funds accessible, said
-Kant. The goal is to reduce the cost of transitioning to – and using –
-renewable H2, particularly in sectors where decarbonization is
-difficult, such as fertilizer manufacturing, steel production and
-refineries"
+H2 Fuel News: "Autonomous driving technology is the focus of a
+brand-new hydrogen truck manufacturer that is targeting mass
+production by 2024. Dubbed Hydron, the arguably futuristic firm was
+today (June 10) launched by Mo Chen, co-founder of San Diego-based
+TuSimple... Now, under the Hydron name, he is gearing up to transform
+hydrogen-powered long-haul freight transportation with similar
+technologies. With his new entity, the Canadian entrepreneur hopes to
+combine the self-driving technology with hydrogen-powered Class 8
+trucks to make trucking safer, cleaner, and more efficient"
 
 ---
 
-H2 View: "Two hydrogen refuelling stations planned for Poland"
+H2 View: "Report finds Germany, Netherlands, Australia, Korea, and
+Japan as leaders in the hydrogen market"
 
 ---
 
-CCS at the source is much easier to regulate, gov would be checking a
-few, large installations.
+H2 View: "Bosch [says] 'We are all in for the hydrogen economy’.. Tech
+giant Bosch has announced it will invest $1.3bn in hydrogen technology
+by 2025, as the company continues its focus on climate-neutral
+technology"
 
 ---
 
-VW now likes battery-electric cars, these people clearly alternate
-between being a crook and a moron; but the energy infra should not
-give them a chance to be either. Clean molecules in storage,
-tranmission, and consumption can achieve that.
+H2 Fuel News: "Liquide opens Las Vegas facility to meet rising hydrogen
+fuel cell vehicles demand"
 
 ---
 
-The longer fossil stays in the system, stored, transmitted, the more
-the chances are for "leaking or cheating". If oil pipeline breaks it
-causes environmental damage. If fossil allowed in cars with 'emission
-control' instituted, it will lead to cheating as in Volkswagen's case. 
+H2 View: "UK to gain second plastic-to-hydrogen facility with £20m
+project.. A £20m ($25m) project to build the UK’s second
+plastic-to-hydrogen facility has been given the greenlight by West
+Dunbartonshire Council"
 
 ---
 
-They can have their cake and eat it. Generate 'blue' H2 and pipeline
-it to customers. Clean, after CCS at the source can have no emissions
-down the line, including the end-user. 
-
-The Guardian: "Ex-UN climate envoy says continent’s need for energy is
-so great it should be able to widely use the fossil fuel. African
-countries should be able to exploit their vast natural gas reserves
-despite the urgent need to cut global greenhouse gas emissions, the
-former UN climate envoy Mary Robinson has said"
+H2 View: "Firm order of hydrogen conversion kits for US regional
+airline.. Californian aviation company Universal Hydrogen and
+Massachusetts-based Connect Airlines announced a firm order to convert
+75 ATR 72-600 regional aircraft to be powered by green hydrogen"
 
 ---
 
-[Link](https://drive.google.com/uc?export=view&id=18Stk7VoQ7X3l5yMO0sTs4Qejpzsq2h4V)
+UP Jobs News: "Gas Networks Ireland joins major European hydrogen
+project.. The European Hydrogen Backbone initiative is focused on
+planning for the future development of a European hydrogen market
+through new pan-European hydrogen transport infrastructure.
+
+Five large-scale pipeline corridors are envisaged. These new corridors
+will initially connect domestic local hydrogen supply and demand in
+Europe, before expanding and connecting European regions amongst each
+other, and then connecting neighbouring regions with hydrogen export
+potential... The planned backbone network will largely be based on
+repurposing existing natural gas infrastructure.
+
+Gas Networks Ireland’s director.. David Kelly [says] 'Mapping the five
+corridors in the new pan-European backbone will create more certainty
+about the deployment of this new hydrogen infrastructure.. [T]he need
+for hydrogen pipeline transport in the future European energy system
+is clear"
+
+[[-]](https://upjobsnews.com/gas-networks-ireland-involved-in-major-european-hydrogen-project-more-news-here/)
 
 ---
 
-Blue steel was the other thing 🤣 \#zoolander
+CNBC: "Goodbye gasoline cars? EU lawmakers vote to ban new sales from
+2035"
 
 ---
 
-I like the name; GREEN STEEL
-
-H2 Green Steel: "Steel production accounts for 25 percent of Europe’s
-industrial CO2 emissions, which is more than the Nordics’ total CO2
-emissions, or more than all flights departing from the
-EU. Decarbonization is a must for the industry and disruptive
-technology will be a key enabler..
-
-So, how does it all work? In traditional steel making, reduction of
-iron ore is done by heating it together with coal, utilizing a
-chemical reaction that separates the oxygen from the iron, forming and
-emitting CO2. In our production, green hydrogen reacts with iron ore
-similarly to carbon, resulting in the extraction of oxygen. But
-instead of creating CO2, the main by-product is H2O.
-
-Large-scale green hydrogen production will enable the transition of
-hard-to-abate industries towards sustainable operations. And as a
-front-runner, H2 Green Steel will play an important part in
-accelerating decarbonization"
-
-[[-]](https://www.h2greensteel.com/)
+H2 View: "Latin America’s first hydrogen airport planned in Chile"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Sweden&#39;s H2 Green Steel signs 14-TWh PPA to power planned electrolyzer - S&amp;P Global <a href="https://t.co/VtOkYNdWBp">https://t.co/VtOkYNdWBp</a></p>&mdash; Green Energy (@GreenEnergy) <a href="https://twitter.com/GreenEnergy/status/1534572751658229761?ref_src=twsrc%5Etfw">June 8, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+H2 Fuel News: "Canadian bio-methanol-to-hydrogen firm strikes deal
+with Californian university"
 
 ---
 
-"Sweden-based H2 Green Steel.. announced that it had signed contracts
-to produce over 1.5 million tonnes of green steel annually over the
-next five to seven years"
+TE uses thorium rather than uranium
+
+Yahoo Finance: "KBR and Terrestrial Energy agree to collaborate on the
+application of zero-emissions thermal energy for green hydrogen and
+ammonia production.. KBR is a global leader in the supply of ammonia
+production technology to operators of chemical facilities worldwide...
+
+Terrestrial Energy’s IMSR plant is a cogeneration facility that
+supplies zero-emissions thermal energy at high-temperature for direct
+use in industrial process.. The plant uses the company’s IMSR
+technology, a Generation IV fission technology, which drives the
+plant’s 585o C thermal energy supply, a heat quality essential for
+broad industrial use, including green hydrogen and ammonia production"
 
 ---
 
-BBC: "US House passes gun bill doomed to fail in senate"
+H2 View: "Walmart to expand hydrogen fuel cell delivery vehicle pilot"
 
 ---
 
-Police is clearly no good to stop gun violence. Time to defund the
-police?
+H2 View: "Toyota subsidiary Woven Planet creates exchangeable hydrogen cartridge"
 
 ---
 
-Apple datacenters run on Linux.
-
-"Ew but I use Apple, I'm all commercial". 
+Cauliflower high on Vitamin C. Bland as muck but good stuff 
 
 ---
 
-It is based on the Linux OS (free, open-source).
-
-"My Android phone is so sleek, fine commercial product"
-
----
-
-That superannuation biz too at the end, was somewhat dogdy; It even
-freaked *me* out, and I'm just an outside observer.
+It seems to me the amt of engineering required to make Mars habitable
+is better spent on other places, bcz even if cosmic rays are handled,
+the [gravity problem](https://youtu.be/gJ5KV3rzuag?t=123) cannot.
 
 ---
 
-The AUKUS thing was a bit too on the nose though, came across
-off-putting as though being 'us against the rest', all parties
-involved made a mistake there, UK, US as well.
+A. Loeb says cosmic rays will fry your brain on Mars.
+
+[[-]](https://youtu.be/plcc6E-E1uU?t=5791)
 
 ---
 
-Scott Morrison did some good things on H2; have to give him that. He
-was PM during a very difficult time.
+Lab-grown salmon; Ferming is the way, better than farming
+
+[[-]](2022/06/lab-grown-meat.html)
 
 ---
 
-New Oz Lib leader badmouthing previous leader, I guess he wants to
-differentiate himself.
+Hmm.. But salmon is nutritious food, low iron too..
+
+"Rich and healthy people eat salmon, but they are not healthy bcz they
+eat salmon, they can simply afford to eat salmon"
 
 ---
 
-BARRACUDA
-
-Jane's Defense: "The French Navy's first Suffren-class (Barracuda)
-nuclear-powered attack submarine (SSN), Suffren (S 635), was
-commissioned into service"
-
----
-
-Jane's Defense: "Portugal to build multi-purpose unmanned
-carrier.. The Portuguese Navy announced on 27 May that it is planning
-to design and build an offshore multi-purpose surface ship dedicated
-to deploying unmanned surface vessels"
+Neolib econ was more of a "trickle-up economy".. The gov funded
+research, cheap credit, cheap global labor, commodity hardware, free
+software created conditions for money flowing towards the top, from
+the base. Not a mere trickle either, it was a flood.
 
 ---
 
-Wiki: "The *Clan del Golfo* (The Gulf Clan)..  is a prominent
-Colombian neo-paramilitary group and currently the country's largest
-drug cartel. [It] is considered the most powerful criminal
-organization in Colombia, [.. having] recruited accomplices at the
-highest level of the military hierarchy, such as generals and
-colonels"
+Why is Facebook Gross Margin Profit over 80% noteworthy? My friend,
+that is a crazy number. Let's remember the Buffett criteria.. 20% is
+ok, 40% great. This is over *eighty percent*. If you farted into a
+bottle and sold it as a new fragrance you could not reach that
+number. The bottling cost would kill you. But Big Tech just shifts
+some bits around, builds on a monopoly position, uses open-source
+*free* software, and commodity hardware in the backend - voila! Money
+pours down like rain.
 
 ---
 
-AP News: "Italy seizes 4 tons of cocaine linked to Colombian Gulf Clan"
+FT: "Brazilian left-wing former president Lula da Silva would scrap
+the country's constitutionally mandated spending cap 'to put the poor
+and the workers back into the budget' if he were to return to power,
+according to a draft manifesto shared by his campaign"
 
 ---
 
-Arab News: "UN: Israel mainly to blame for [the Palestinian]
-conflict.. Israel's occupation and discrimination against Palestinians
-are the main causes of the endless cycles of violence, UN
-investigators said Tuesday, prompting angry Israeli protests"
+"The United States has announced that #COVID19 tests will no longer be
+demanded for international travelers arriving by air, a major step in
+the country's gradual lifting of pandemic restrictions"
 
 ---
 
-Al Monitor: "'Saudi Arabia, Cyprus set up joint business
-council.. Mohammed bin Salman is planning to visit Cyprus on an
-international trip that will also bring him to Greece and
-Turkey. Saudi Arabia is currently pursuing rapprochement with Turkey
-but has also expressed support for Cyprus in the two countries’
-dispute over drilling in the eastern Mediterranean Sea"
+Signal for higher rates; The 2-year should actually *be* fedfunds.
+
+"2-year Treasury rate surges to highest level since 2008 on
+hotter-than-expected inflation report"
 
 ---
 
-IMO the initial Northern attack was a faint, so RU could have a freer
-rein in the East.
+Also now the war + sanctions..
+
+IMF: "Why inflation is high and whether it will persist is a topic of
+active debate..
+
+First, supply chain bottlenecks: The pandemic had two separate effects
+on global supply chains. In the early phase, lockdowns and mobility
+restrictions led to severe disruptions in various supply chains,
+causing short-term supply shortages... In the later stage of the
+pandemic, however, various supply chain bottlenecks have emerged as a
+result of strong overall demand from the economic recovery, the sharp
+increase in relative demand for durable goods..
+
+Second, a shift in demand toward goods and away from services: The
+pandemic brought about an initial significant shift in what consumers
+buy; spending on goods rose dramatically. Consequently, much of the
+rise in inflation in the near term reflected inflation in durable
+goods (including used cars), while service inflation increased only
+moderately...
+
+[Third] Households were running down the savings they had
+accumulated earlier in the pandemic (including from the stimulus and
+transfers), which led to a surge in aggregate demand and a
+stronger-than-expected economic recovery.
+
+Fourth, a shock to labor supply: Labor market disruptions from the
+pandemic continue even two years after it began. Labor supply
+participation remains below pre-pandemic levels in several
+countries. Among advanced economies, the impact has been relatively
+larger in the United States, where participation is about 1.5 percent
+lower than before the pandemic (about 4 million fewer workers)"
+
+[[-]](https://www.imf.org/en/Publications/fandd/issues/2022/03/Future-of-inflation-partI-Agarwal-kimball)
 
 ---
 
-RU/UKR war animated. 
-
-[Video](https://drive.google.com/uc?export=view&id=1DoIMz-gfOF4c-9dZDMw4cOrI43x1bn-N)
-
----
-
-Ukraine complains about Germany denying them NATO entry '08. But then
-they continued to increase NATO relationship, train with them as if
-they will *definitely* join at some point.. Were they waiting for the
-next German chancelor that would say Ja one day for their membership?
-Isn't that such a big bet, on your country's security, that it might,
-could, maybe one day happen?
+Janes Defense: "The Japan Ground Self-Defense Force (JGSDF) will
+establish three new electronic warfare (EW) units as well as expand
+two existing EW units in 2022"
 
 ---
 
-Bloomberg: "Merkel Warns Isolating Russia Long Term Is Not Possible"
+India came to Qatar's aid, interesting. Natgas relationship, or Indian
+workers in Qatar?
+
+First Post: "In 2017, Qatar was blockaded by Bahrain, Egypt, Saudi
+Arabia, and the United Arab Emirates over alleged support of Islamists
+and Iran... The acute food crisis in Qatar was solved by India with
+the institution of a new sea supply line called India Qatar Express
+Service"
 
 ---
 
-Arab News: "Ukrainian forces may have to retreat from the eastern city
-of Severodonetsk which is being shelled by Russian troops '24 hours a
-day,' an official said Wednesday, following days of raging street
-battles"
+Janes Defense: "South Korea has stepped up its programme to replace
+defence imports, allocating a sixfold increase in funding for
+dedicated ‘parts localisation' projects in the past two years, new
+data shows"
+
+---
+
+"@DanielLDavis1
+
+With Ukraine suffering a 40-1 disadvantage in artillery ammo, there's
+little Kyiv can do to stop the RU onslaught in Donbas"
+
+[[-]](https://twitter.com/DanielLDavis1/status/1535261610599763968)
+
+---
+
+Some fields and pipeline start-end points could be off, either field
+was not too large so not included in db, or parts of network isn't
+reported.
+
+---
+
+World Natural Gas Pipelines 
+
+[[-]](2019/05/oilgas.html#pipelines)
 
 ---
 
