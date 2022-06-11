@@ -31,12 +31,12 @@ improvements at electrolyser and energy grid level"
 H2 Fuel News: "Autonomous driving technology is the focus of a
 brand-new hydrogen truck manufacturer that is targeting mass
 production by 2024. Dubbed Hydron, the arguably futuristic firm was
-today (June 10) launched by Mo Chen, co-founder of San Diego-based
-TuSimple... Now, under the Hydron name, he is gearing up to transform
-hydrogen-powered long-haul freight transportation with similar
-technologies. With his new entity, the Canadian entrepreneur hopes to
-combine the self-driving technology with hydrogen-powered Class 8
-trucks to make trucking safer, cleaner, and more efficient"
+launched by Mo Chen, co-founder of San Diego-based TuSimple... Now,
+under the Hydron name, he is gearing up to transform hydrogen-powered
+long-haul freight transportation with similar technologies. With his
+new entity, the Canadian entrepreneur hopes to combine the
+self-driving technology with hydrogen-powered Class 8 trucks to make
+trucking safer, cleaner, and more efficient"
 
 ---
 
