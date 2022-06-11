@@ -167,14 +167,14 @@ the base. Not a mere trickle either, it was a flood.
 
 ---
 
-Why is Facebook Gross Margin Profit over 80% noteworthy? My friend,
-that is a crazy number. Let's remember the Buffett criteria.. 20% is
-ok, 40% great. This is over *eighty percent*. If you farted into a
-bottle and sold it as a new fragrance you could not reach that
-number. The bottling cost would kill you. But Big Tech just shifts
-some bits around, builds on a monopoly position, uses open-source
-*free* software, and commodity hardware in the backend - voila! Money
-pours down like rain.
+Why is Gross Profit Margin over 80% noteworthy? My friend, that is a
+crazy number. Let's remember the Buffett criteria.. 20% is ok, 40%
+great. This is over *eighty percent*. If you farted into a bottle and
+sold it as a new fragrance you could not reach that number. The
+bottling cost would kill you. But Big Tech just shifts some bits
+around, builds on a monopoly position, uses open-source *free*
+software, and commodity hardware in the backend - voila! Money pours
+down like rain.
 
 ---
 
