@@ -1,4 +1,4 @@
-# Ferming (Not Farming), Lab-Grown Meat
+# Ferming Over Farming, Lab-Grown Meat
 
 [Link](https://amp.theguardian.com/commentisfree/2020/jan/08/lab-grown-food-destroy-farming-save-planet)
 
