@@ -30,10 +30,6 @@ metals"
 
 ---
 
-Oddly enough the only country I've ever visited in the region was Qatar.
-
----
-
 All that in little dinky Qatar.. The neighbors musta want a big bite
 out of their NG reserves..
 
