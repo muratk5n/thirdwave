@@ -104,9 +104,9 @@ countries \#ngmap
 
 ---
 
-Nordstream 2.. The infamous project..  Earlier calc had bad data.. I
-see 55 bcm/y now, more than a few Fukushimas worth. Huge amt of energy
-\#ngmap
+Nordstream 2.. The infamous project..  Data used in earlier calc was
+off. I see 55 bcm/y now, more than a few Fukushimas worth. Huge amt of
+energy \#ngmap
 
 ---
 
