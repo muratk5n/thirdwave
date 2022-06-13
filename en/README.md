@@ -9,7 +9,7 @@ at Georgia Power?s Plant McDonough-Atkinson in Smyrna"
 
 ---
 
-Two-step forward looking change utilizing existing know-how around
+Two-step forward looking change utilizing fundamental know-how around
 base materials and infrastructure ☝ 💧
 
 H2 Central: "Gasunie – Parallel Construction of Natural Gas and
