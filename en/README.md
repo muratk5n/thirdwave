@@ -31,7 +31,7 @@ Pitron: "For example, there is 1,000 times less neodymium and 2,200
 times less gallium than there is iron in the ground. The properties of
 these metals make them essential resources for the [pure
 electrification] energy transition. For instance, the engines of most
-“zero-emission” cars and the rotors of offshore wind turbines are both
+'zero-emission' cars and the rotors of offshore wind turbines are both
 made of neodymium, a rare metal particularly prized for its magnetic
 properties. Likewise, batteries of a large share of electric cars
 could not be manufactured without resources such as cobalt, graphite,
