@@ -2,17 +2,15 @@
 
 ---
 
-"Hydrogen blending success at Georgia, US, power plant.. Hydrogen and
-natural gas blending in Georgia, US have been successful at partial
-and full loads on an M501G natural gas turbine at Georgia Power?s
-Plant McDonough-Atkinson in Smyrna"
+H2 View: "Hydrogen blending success at Georgia, US, power
+plant.. Hydrogen and natural gas blending in Georgia, US have been
+successful at partial and full loads on an M501G natural gas turbine
+at Georgia Power?s Plant McDonough-Atkinson in Smyrna"
 
 ---
 
 H2 based tech requires less rare earth. There are some likely tech
-routes even that can require zero. Same cannot be said for "full
-electrification". They suffer from darth of choices and inflexible,
-suboptimal base technology.
+routes even that wld require zero. 
 
 Pitron: "For example, there is 1,000 times less neodymium and 2,200
 times less gallium than there is iron in the ground.11 The properties
