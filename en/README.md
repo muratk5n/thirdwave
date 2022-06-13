@@ -61,7 +61,7 @@ London-listed Energean Plc arrived in the Karish gas field last week"
 
 ---
 
-Aha. "Stan" pipes go through Xinjiang, the Uygur region.
+"Stan" pipes go through Xinjiang, the Uygur region. \#ngmap
 
 ---
 
