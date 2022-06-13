@@ -56,7 +56,7 @@ out of their NG reserves..
 ---
 
 North Field.. Its reserves on discovery stood at 176 gboe, larger than
-the largest oil field in the world, in terms of raw energy (boe).
+the largest oil field in the world, in terms of comparable raw energy (boe).
 
 [[-]](https://pbs.twimg.com/media/FVE4GDzXwAEPUTX?format=png&name=small)
 
