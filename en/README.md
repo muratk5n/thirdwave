@@ -24,8 +24,8 @@ says matter-of-factly.
 
 ---
 
-H2 based tech requires less rare earth. There are even some likely
-tech routes that wld require zero.
+H2 based tech requires substantially less rare earth materials. There
+are even some likely tech routes that wld require zero.
 
 Pitron: "For example, there is 1,000 times less neodymium and 2,200
 times less gallium than there is iron in the ground. The properties of
