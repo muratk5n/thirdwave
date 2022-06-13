@@ -78,7 +78,7 @@ makes sense \#pipeline
 ---
 
 Major pipeline proposed for Iran-Pakistan-India, due to sanctions it
-delayed, India gave up.. Sanctions are truly a tax on developing
+delayed, India eventually gave up.. Sanctions are a tax on developing
 countries \#pipeline
 
 ---
