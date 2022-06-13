@@ -73,19 +73,19 @@ China has an intensive internal pipeline network, where are they
 connected to / take gas from?  Eyeballing possible sources..  I see
 some from "the Stans", but not much. A big source could be the LNG
 terminals in the East, via ship. CH worries around its sea access
-makes sense \#pipeline
+makes sense \#ngmap
 
 ---
 
 Major pipeline proposed for Iran-Pakistan-India, due to sanctions it
 delayed, India eventually gave up.. Sanctions are a tax on developing
-countries \#pipeline
+countries \#ngmap
 
 ---
 
 Nordstream 2.. The infamous project..  Earlier calc must have had bad
 data.. I see 55 bcm/y now, more than a few Fukushimas worth. Huge amt
-of energy \#pipeline
+of energy \#ngmap
 
 ---
 
@@ -93,13 +93,13 @@ There isn't much going on betwen Japan and Russkie; they clearly do
 not get along. Even before the Ukraine war, likely due to disputed
 islands and other issues (inner/outer divide) their energy relation
 was small. Japan gets oil via supertankers from Saudi Arabia, but not
-via pipeline natgas from neighboring Russia \#pipeline
+via pipeline natgas from neighboring Russia \#ngmap
 
 ---
 
 The pipeline map.. The route around West Africa is nuts; It is between
 Nigeria and Spain, but all the countries in between likely wanted a
-cut, so little pieces go into all of them during transit \#pipeline
+cut, so little pieces go into all of them during transit \#ngmap
 
 [[-]](2019/05/oilgas.html#pipelines)
 
