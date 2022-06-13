@@ -45,6 +45,11 @@ metals"
 
 ---
 
+They wanna do [this](https://drive.google.com/uc?export=view&id=1cy61FHtjHKMNu_QI53cBZD3QhDUrNCkd)
+to Qatar's reserves.
+
+---
+
 All that in little dinky Qatar.. The neighbors musta want a big bite
 out of their NG reserves..
 
