@@ -2,280 +2,153 @@
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;SoCalGas is preparing a new hydrogen pipeline. A first-of-its-kind project for California, Angeles Link would supply renewable hydrogen to a variety of industries...&quot;<a href="https://t.co/ZALxxTfOBK">https://t.co/ZALxxTfOBK</a></p>&mdash; Pipeline Safety Trust (@pstrust) <a href="https://twitter.com/pstrust/status/1534613995717419008?ref_src=twsrc%5Etfw">June 8, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"Hydrogen blending success at Georgia, US, power plant.. Hydrogen and
+natural gas blending in Georgia, US have been successful at partial
+and full loads on an M501G natural gas turbine at Georgia Power?s
+Plant McDonough-Atkinson in Smyrna"
 
 ---
 
-H2 View: "The US Department of Energy (DOE) said it has closed a
-$504.4m loan guarantee for what is said to be the world’s largest
-clean hydrogen and energy storage project in Utah"
+H2 based tech requires less rare earth. There are some likely tech
+routes even that can require zero. Same cannot be said for "full
+electrification". They suffer from darth of choices and inflexible,
+suboptimal base technology.
+
+Pitron: "For example, there is 1,000 times less neodymium and 2,200
+times less gallium than there is iron in the ground.11 The properties
+of these metals make them essential resources for the energy
+transition. For instance, the engines of most “zero-emission” cars and
+the rotors of offshore wind turbines are both made of neodymium, a
+rare metal particularly prized for its magnetic properties. Likewise,
+batteries of a large share of electric cars could not be manufactured
+without resources such as cobalt, graphite, or even lithium...
+
+By seeking to break free from fossil fuels and create a new, greener
+world, we are setting ourselves up for a new and more potent reliance
+on China, which controls most of the production of rare and critical
+metals"
+
+[PDF](https://cpb-us-e1.wpmucdn.com/blogs.gwu.edu/dist/1/2181/files/2019/03/Pitron_TWQ_45-1.pdf)
 
 ---
 
-H2 Fuel News: "German Government supports waste-to-hydrogen to supply
-the nation.. The German Government has agreed to facilitate the
-purchase of green hydrogen produced from organic waste in the Middle
-East and North Africa (MENA) region"
+Oddly enough the only country I've ever visited in the region was Qatar.
 
 ---
 
-H2 View: "Technische Universität (TU) Braunschweig, Germany and the
-University of Strathclyde, Glasgow, UK, have agreed to create a
-‘digital toolbox’ to accelerate hydrogen production... The so-called
-digital toolbox is set to be provide modelling framework, mapping
-technological advances and how they will translate into performance
-improvements at electrolyser and energy grid level"
+All that in little dinky Qatar.. The neighbors musta want a big bite
+out of their NG reserves..
 
 ---
 
-H2 Fuel News: "Autonomous driving technology is the focus of a
-brand-new hydrogen truck manufacturer that is targeting mass
-production by 2024. Dubbed Hydron, the arguably futuristic firm was
-launched by Mo Chen, co-founder of San Diego-based TuSimple... Now,
-under the Hydron name, he is gearing up to transform hydrogen-powered
-long-haul freight transportation with similar technologies. With his
-new entity, the Canadian entrepreneur hopes to combine the
-self-driving technology with hydrogen-powered Class 8 trucks to make
-trucking safer, cleaner, and more efficient"
+North Field.. In terms of boe, its reserves on discovery stood at 176
+gboe, larger than the largest oil field in the world. Karaze.
+
+[[-]](https://pbs.twimg.com/media/FVE4GDzXwAEPUTX?format=png&name=small)
 
 ---
 
-H2 View: "Report finds Germany, Netherlands, Australia, Korea, and
-Japan as leaders in the hydrogen market"
+Al Monitor: "Qatar on Sunday named France's TotalEnergies as its first
+foreign partner to expand the world's largest natural gas field and
+eventually help ease Europe's energy fears... The French energy major
+will spend an estimated $2 billion for a 6.25-percent share of the
+giant North Field East project that will help Qatar increase its
+liquefied natural gas (LNG) production by more than 60 percent by
+2027, TotalEnergies chief executive Patrick Pouyanne told AFP.
 
 ---
 
-H2 View: "Bosch [says] 'We are all in for the hydrogen economy’.. Tech
-giant Bosch has announced it will invest $1.3bn in hydrogen technology
-by 2025, as the company continues its focus on climate-neutral
-technology"
+F24: "Hundreds of people and several lawmakers protested Saturday in
+southern Lebanon against Israel moving a gas production vessel into an
+offshore field partly claimed by Beirut.The demonstration comes just
+days before the US envoy mediating maritime border talks between the
+two neighbours is expected in Lebanon, and after the ship operated by
+London-listed Energean Plc arrived in the Karish gas field last week"
 
 ---
 
-H2 Fuel News: "Liquide opens Las Vegas facility to meet rising hydrogen
-fuel cell vehicles demand"
+Aha. "Stan" pipes go through Xinjiang, the Uygur region.
 
 ---
 
-H2 View: "UK to gain second plastic-to-hydrogen facility with £20m
-project.. A £20m ($25m) project to build the UK’s second
-plastic-to-hydrogen facility has been given the greenlight by West
-Dunbartonshire Council"
+Two big pipelines projects from Russia into CH are under construction.
 
 ---
 
-H2 View: "Firm order of hydrogen conversion kits for US regional
-airline.. Californian aviation company Universal Hydrogen and
-Massachusetts-based Connect Airlines announced a firm order to convert
-75 ATR 72-600 regional aircraft to be powered by green hydrogen"
+China has an intensive internal pipeline network, where are they
+connected to / take gas from?  Eyeballing possible sources..  I see
+some from "the Stans", but not much. A big source could be the LNG
+terminals in the East, via ship. CH worries around its sea access
+makes sense \#pipeline
 
 ---
 
-UP Jobs News: "Gas Networks Ireland joins major European hydrogen
-project.. The European Hydrogen Backbone initiative is focused on
-planning for the future development of a European hydrogen market
-through new pan-European hydrogen transport infrastructure.
-
-Five large-scale pipeline corridors are envisaged. These new corridors
-will initially connect domestic local hydrogen supply and demand in
-Europe, before expanding and connecting European regions amongst each
-other, and then connecting neighbouring regions with hydrogen export
-potential... The planned backbone network will largely be based on
-repurposing existing natural gas infrastructure.
-
-Gas Networks Ireland’s director.. David Kelly [says] 'Mapping the five
-corridors in the new pan-European backbone will create more certainty
-about the deployment of this new hydrogen infrastructure.. [T]he need
-for hydrogen pipeline transport in the future European energy system
-is clear"
-
-[[-]](https://upjobsnews.com/gas-networks-ireland-involved-in-major-european-hydrogen-project-more-news-here/)
+Major pipeline proposed for Iran-Pakistan-India, due to sanctions it
+delayed, India gave up.. Sanctions are truly a tax on developing
+countries \#pipeline
 
 ---
 
-CNBC: "Goodbye gasoline cars? EU lawmakers vote to ban new sales from
-2035"
+Nordstream 2.. The infamous project..  Earlier calc must have had bad
+data.. I see 55 bcm/y now, more than a few Fukushimas worth. Huge amt
+of energy \#pipeline
 
 ---
 
-H2 View: "Latin America’s first hydrogen airport planned in Chile"
+There isn't much going on betwen Japan and Russkie; they clearly do
+not get along. Even before the Ukraine war, likely due to disputed
+islands and other issues (inner/outer divide) their energy relation
+was small. Japan gets oil via supertankers from Saudi Arabia, but not
+via pipeline natgas from neighboring Russia \#pipeline
 
 ---
 
-H2 Fuel News: "Canadian bio-methanol-to-hydrogen firm strikes deal
-with Californian university"
-
----
-
-TE uses thorium rather than uranium
-
-Yahoo Finance: "KBR and Terrestrial Energy agree to collaborate on the
-application of zero-emissions thermal energy for green hydrogen and
-ammonia production.. KBR is a global leader in the supply of ammonia
-production technology to operators of chemical facilities worldwide...
-
-Terrestrial Energy’s IMSR plant is a cogeneration facility that
-supplies zero-emissions thermal energy at high-temperature for direct
-use in industrial process.. The plant uses the company’s IMSR
-technology, a Generation IV fission technology, which drives the
-plant’s 585o C thermal energy supply, a heat quality essential for
-broad industrial use, including green hydrogen and ammonia production"
-
----
-
-H2 View: "Walmart to expand hydrogen fuel cell delivery vehicle pilot"
-
----
-
-H2 View: "Toyota subsidiary Woven Planet creates exchangeable hydrogen cartridge"
-
----
-
-Cauliflower high on Vitamin C. Bland as muck but good stuff 
-
----
-
-It seems to me the amt of engineering required to make Mars habitable
-is better spent on other places, bcz even if cosmic rays are handled,
-the [gravity problem](https://youtu.be/gJ5KV3rzuag?t=123) cannot.
-
----
-
-A. Loeb says cosmic rays will fry your brain on Mars.
-
-[[-]](https://youtu.be/plcc6E-E1uU?t=5791)
-
----
-
-Lab-grown salmon; Ferming FTW
-
-[[-]](2022/06/lab-grown-meat.html)
-
----
-
-Hmm.. But salmon is nutritious food, low iron too..
-
-"Rich and healthy people eat salmon, but they are not healthy bcz they
-eat salmon, they can simply afford to eat salmon"
-
----
-
-Neolib econ was more of a "trickle-up economy".. The gov funded
-research, cheap credit, cheap global labor, commodity hardware, free
-software created conditions for money flowing towards the top, from
-the base. Not a mere trickle either, it was a flood.
-
----
-
-Why is gross profit margin over 80% noteworthy? My friend, that is a
-crazy number. Let's remember the Buffett criteria.. 20% is ok, 40%
-great. This is over *eighty percent*. If you farted into a bottle and
-sold it as a new fragrance you could not reach that number. The
-bottling cost would kill you. But Big Tech just shifts some bits
-around, builds on a monopoly position, uses open-source *free*
-software, and commodity hardware in the backend - voila! Money pours
-down like rain.
-
----
-
-FT: "Brazilian left-wing former president Lula da Silva would scrap
-the country's constitutionally mandated spending cap 'to put the poor
-and the workers back into the budget' if he were to return to power,
-according to a draft manifesto shared by his campaign"
-
----
-
-"The United States has announced that #COVID19 tests will no longer be
-demanded for international travelers arriving by air, a major step in
-the country's gradual lifting of pandemic restrictions"
-
----
-
-Signal for higher rates; The 2-year should actually *be* fedfunds.
-
-"2-year Treasury rate surges to highest level since 2008 on
-hotter-than-expected inflation report"
-
----
-
-Also now the war + sanctions..
-
-IMF: "Why inflation is high and whether it will persist is a topic of
-active debate..
-
-First, supply chain bottlenecks: The pandemic had two separate effects
-on global supply chains. In the early phase, lockdowns and mobility
-restrictions led to severe disruptions in various supply chains,
-causing short-term supply shortages... In the later stage of the
-pandemic, however, various supply chain bottlenecks have emerged as a
-result of strong overall demand from the economic recovery, the sharp
-increase in relative demand for durable goods..
-
-Second, a shift in demand toward goods and away from services: The
-pandemic brought about an initial significant shift in what consumers
-buy; spending on goods rose dramatically. Consequently, much of the
-rise in inflation in the near term reflected inflation in durable
-goods (including used cars), while service inflation increased only
-moderately...
-
-[Third] Households were running down the savings they had
-accumulated earlier in the pandemic (including from the stimulus and
-transfers), which led to a surge in aggregate demand and a
-stronger-than-expected economic recovery.
-
-Fourth, a shock to labor supply: Labor market disruptions from the
-pandemic continue even two years after it began. Labor supply
-participation remains below pre-pandemic levels in several
-countries. Among advanced economies, the impact has been relatively
-larger in the United States, where participation is about 1.5 percent
-lower than before the pandemic (about 4 million fewer workers)"
-
-[[-]](https://www.imf.org/en/Publications/fandd/issues/2022/03/Future-of-inflation-partI-Agarwal-kimball)
-
----
-
-Janes Defense: "The Japan Ground Self-Defense Force (JGSDF) will
-establish three new electronic warfare (EW) units as well as expand
-two existing EW units in 2022"
-
----
-
-India came to Qatar's aid, interesting. Natgas relationship, or Indian
-workers in Qatar?
-
-First Post: "In 2017, Qatar was blockaded by Bahrain, Egypt, Saudi
-Arabia, and the United Arab Emirates over alleged support of Islamists
-and Iran... The acute food crisis in Qatar was solved by India with
-the institution of a new sea supply line called India Qatar Express
-Service"
-
----
-
-Janes Defense: "South Korea has stepped up its programme to replace
-defence imports, allocating a sixfold increase in funding for
-dedicated ‘parts localisation' projects in the past two years, new
-data shows"
-
----
-
-"@DanielLDavis1
-
-With Ukraine suffering a 40-1 disadvantage in artillery ammo, there's
-little Kyiv can do to stop the RU onslaught in Donbas"
-
-[[-]](https://twitter.com/DanielLDavis1/status/1535261610599763968)
-
----
-
-Some fields and pipeline start-end points could be off, either field
-was not too large so not included in db, or parts of network isn't
-reported.
-
----
-
-World Natural Gas Pipelines 
+The pipeline map.. The route around West Africa is nuts; It is between
+Nigeria and Spain, but all the countries in between likely wanted a
+cut, so little pieces go into all of them during transit \#pipeline
 
 [[-]](2019/05/oilgas.html#pipelines)
+
+---
+
+Er maybe like dont 'simulate' stuff?
+
+Also let's not experiment on viruses so they "gain function"?
+
+"Last year, current and former world leaders joined experts to conduct
+a tabletop exercise simulating a deadly monkeypox outbreak"
+
+[[-]](https://www.newsweek.com/report-simulating-monkeypox-outbreak-released-six-months-ago-1709520)
+
+---
+
+Mirror: "Queen to be removed as head of state in Jamaica following same move by Barbados"
+
+---
+
+Voltaire Net: "Israel now capable of striking Iran.. Israel is said to
+have improved its F-35s, which have a range of 1,400 kilometers, so
+that they can strike Iran"
+
+---
+
+At the very least AUKUS presentation was off. The group projected a
+"running the world" vibe, an "Anglo" formation evoking the previous
+(and current) imperial structures. Execution was off; Macron was
+slighted, he took a dig in the AU PM later which became campaign
+fodder and it hurt the libs at the polls. China too, made a move in
+the Solomon islands, very publicly, and I believe speficially timed to
+influence the Oz election because they felt attacked through the AUKUS
+deal.
+
+Might have even annoyed Russia; All of a sudden all your detractors
+are up on a stage looking like the *pezzonovante* of the region,
+gearing up to go after China, they'll think who is next?
+
+---
+
+Business Standard: "Ukraine's border guard service has said that
+Poland's Warsaw and Krakow can no longer accept refugees from Ukraine"
 
 ---
 

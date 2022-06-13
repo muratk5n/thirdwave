@@ -366,7 +366,7 @@ These girls are really good
 
 What is hip ? (cover ) - TOKYO GROOVE JYOSHI \#music
 
-[[-]](https://youtu.be/tA8PKx09ao8?list=RDEMi8T6ODBXgCEFmubP_nMAhA)
+[[-]](https://youtu.be/tA8PKx09ao8)
 
 ---
 
