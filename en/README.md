@@ -51,7 +51,7 @@ to Qatar's reserves.
 
 ---
 
-All that in little dinky Qatar.. The neighbors musta want a big bite
+All that in dinky little Qatar.. The neighbors musta want a big bite
 out of their NG reserves..
 
 ---
