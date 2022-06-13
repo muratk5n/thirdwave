@@ -143,7 +143,7 @@ deal.
 
 Might have even annoyed Russia; All of a sudden all your detractors
 are up on a stage looking like the *pezzonovante* of the region,
-gearing up to go after China, they'll think who is next?
+seemingly gearing up to go after China, they'll think who is next?
 
 ---
 
