@@ -108,7 +108,7 @@ There isn't much going on betwen Japan and Russkie; they clearly do
 not get along. Even before the Ukraine war, likely due to disputed
 islands and other issues (inner/outer divide) their energy relation
 was small. Japan gets oil via supertankers from Saudi Arabia, but not
-via pipeline natgas from neighboring Russia \#ngmap
+ng via pipeline from neighboring Russia \#ngmap
 
 ---
 
