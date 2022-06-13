@@ -91,7 +91,7 @@ construction. \#ngmap
 
 ---
 
-China has an intensive internal pipeline network, where are they
+China has an extensive internal pipeline network, where are they
 connected to / take gas from?  Eyeballing possible sources..  I see
 some from "the Stans", but not much. A big source could be the LNG
 terminals in the East, via ship. CH worries around its sea access
