@@ -46,7 +46,7 @@ metals"
 
 ---
 
-The neighbors wanna do [this](https://drive.google.com/uc?export=view&id=1cy61FHtjHKMNu_QI53cBZD3QhDUrNCkd)
+The neighbors want to do [this](https://drive.google.com/uc?export=view&id=1cy61FHtjHKMNu_QI53cBZD3QhDUrNCkd)
 to Qatar's reserves.
 
 ---
