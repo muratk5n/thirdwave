@@ -35,8 +35,8 @@ out of their NG reserves..
 
 ---
 
-North Field.. In terms of boe, its reserves on discovery stood at 176
-gboe, larger than the largest oil field in the world. Karaze.
+North Field.. Its reserves on discovery stood at 176 gboe, larger than
+the largest oil field in the world. 
 
 [[-]](https://pbs.twimg.com/media/FVE4GDzXwAEPUTX?format=png&name=small)
 
