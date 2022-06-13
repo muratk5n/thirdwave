@@ -12,13 +12,13 @@ at Georgia Power?s Plant McDonough-Atkinson in Smyrna"
 Two-step forward looking change utilizing fundamental know-how around
 base materials and infrastructure ☀️💧 ⚛️ &#9981; 🚙
 
-H2 Central: "Gasunie – Parallel Construction of Natural Gas and
-Hydrogen Pipeline: Business as Usual.. [An engineer] Johan is
-supervising the construction of a natural gas and a hydrogen pipeline
-near Emmen.. 'The construction of these parallel pipelines is a first
-for Gasunie: it is the first pipeline to be laid specifically for the
-transmission of hydrogen. But ‘whether it’s a natural gas pipeline or
-a hydrogen pipeline, the method of construction, the technology we
+H2 Central: "Parallel Construction of Natural Gas and Hydrogen
+Pipeline: Business as Usual.. [An engineer] Johan is supervising the
+construction of a natural gas and a hydrogen pipeline near
+Emmen.. 'The construction of these parallel pipelines is a first for
+[his company]: it is the first pipeline to be laid specifically for
+the transmission of hydrogen. But ‘whether it’s a natural gas pipeline
+or a hydrogen pipeline, the method of construction, the technology we
 use, the material for the pipelines, it’s all exactly the same,' Johan
 says matter-of-factly.
 
