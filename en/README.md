@@ -10,7 +10,7 @@ at Georgia Power?s Plant McDonough-Atkinson in Smyrna"
 ---
 
 Two-step forward looking change utilizing fundamental know-how around
-base materials and infrastructure ☝ 💧
+base materials and infrastructure ☀️💧 ⚛️ &#9981; 🚙
 
 H2 Central: "Gasunie – Parallel Construction of Natural Gas and
 Hydrogen Pipeline: Business as Usual.. [An engineer] Johan is
