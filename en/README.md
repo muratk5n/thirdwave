@@ -86,7 +86,8 @@ Stan pipelines go through Xinjiang, the Uygur region. \#ngmap
 
 ---
 
-Two big pipelines projects from Russia into CH are under construction. \#ngmap
+Two big pipeline projects from Russia into CH are under
+construction. \#ngmap
 
 ---
 
