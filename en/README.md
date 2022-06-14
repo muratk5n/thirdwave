@@ -13,7 +13,7 @@ transform the energy landscape in India with over $50bn of investments
 over the next decade... Indian, Adani and TotalEnergies of France,
 announced that they have entered a partnership to create the world’s
 largest green hydrogen ecosystem, to deliver green hydrogen at the
-‘lowest cost’ to consumers"
+lowest cost to consumers"
 
 ---
 
