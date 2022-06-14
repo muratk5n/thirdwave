@@ -71,7 +71,7 @@ times greater than carbon dioxide.' – Professor Bryce Kelly, UNSW"
 
 ---
 
-Bryce Kelly from UNSW did the measurement on methane.
+Bryce Kelly from UNSW on methane emissions.
 
 [[-]](https://www.abc.net.au/news/2021-09-28/methane-emissions-higher-than-estimates-in-coal-seam-gas-region/100497292)
 
