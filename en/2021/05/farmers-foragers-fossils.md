@@ -2,6 +2,37 @@
 
 Ian Morris
 
+<a name='donkey'/>
+
+Greece, A Donkey
+
+In 1982, I went on my first archaeological excavation in Greece..
+
+One evening, an old man came down the dirt road past the house, riding
+sidesaddle on a donkey, tapping the animal with a stick. Next to him
+was an old woman, on foot, bent under the weight of a bulging sack. As
+they passed, one of my fellow students greeted them in broken Greek.
+
+The old man stopped, all smiles. He exchanged a few sentences with our
+spokesman, and then the little party trudged on.
+
+“That was Mr. George,” our interpreter explained.
+
+“What did you ask him?” one of us said.
+
+“How he’s doing. And why his wife isn’t riding the donkey.”
+
+There was a pause. “And?”
+
+“He says she doesn’t have one.”
+
+It was my first taste of the classic anthropological experience of
+culture shock.  Back in Birmingham, a man who rode a donkey while his
+wife struggled with a huge sack would have seemed selfish (or
+worse). Here in Assiros, however, the arrangement was clearly so
+natural, and the reasons for it so self-evident, that our question
+apparently struck Mr. George as simpleminded...
+
 I am convinced, like the eighteenth-century philosophical historians,
 that the sources of energy available to a society set the limits on
 what kinds of values can flourish. Foragers living off wild plants and
