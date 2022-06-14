@@ -172,9 +172,9 @@ extended to everyone, a new study says"
 
 ---
 
-"Australia has made its boldest move in decades to sever its colonial
-links to the British crown: appointing a minister to remove the Queen
-as head of state"
+FT: "Australia has made its boldest move in decades to sever its
+colonial links to the British crown: appointing a minister to remove
+the Queen as head of state"
 
 ---
 
