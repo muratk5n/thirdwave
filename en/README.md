@@ -77,8 +77,9 @@ Bryce Kelly from UNSW did the measurement on methane.
 
 ---
 
-CCS at the source cuz if natgas travels in the pipes, goes into
-cities, heaters, storage, it will leak. See [the picture](https://pbs.twimg.com/media/EiuaeZPVoAEckhC?format=jpg&name=medium)
+CCS at the source is ideal bcz if natgas travels in the pipes, goes
+into cities, heaters, storage, it will leak. See
+[this picture](https://pbs.twimg.com/media/EiuaeZPVoAEckhC?format=jpg&name=medium)
 from Australia.
 
 ---
