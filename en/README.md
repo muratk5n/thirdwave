@@ -43,7 +43,7 @@ H2 View: "Toyota places fresh focus on liquid hydrogen following Fuji
 spotlight on the automaker's new raised focus on liquid hydrogen for
 its developmental Corolla racer following the car's finish in its
 second Fuji 24 Hours earlier this month. Behind the wheel aboard the
-hydrogen fuelled car were Toyota president Akio Toyota..
+hydrogen fuelled car were Toyota president Akio Toyota"
 
 ---
 
