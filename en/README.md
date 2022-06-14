@@ -131,7 +131,9 @@ call. Whatever happened to don’t fight the Fed?"
 You could replace the word Greece with Asia Minor and the story would
 still make sense. Means of production defines (nearly)
 everything. Cultures around near regions are similar (bcz they produce
-similarly). Asia Minor has a lot of Hellenic culture in it.
+similarly). Asia Minor has a lot of Hellenic culture in it. Obviously
+as countries modernize they go through changes, but I argue similar
+countries still modernize similarly.
 
 ---
 
