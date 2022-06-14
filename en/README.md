@@ -118,7 +118,7 @@ inflows in 10 of the last 13 weeks despite a 50% YTD decline in share
 price.. These are things one does not see at a bottom. The complacency
 is staggering.  I fear that the investing public will soon get the
 memo and that there will be a rush for the exits. The Fed safety net
-has Ben removed. In fact, the Fed put has been replaced by a Fed
+has Been removed. In fact, the Fed put has been replaced by a Fed
 call. Whatever happened to don’t fight the Fed?"
 
 ---
