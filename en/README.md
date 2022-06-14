@@ -11,8 +11,8 @@ attention to H2 tech and its industry potential"
 H2 View: "A new partnership centred on green hydrogen hopes to
 transform the energy landscape in India with over $50bn of investments
 over the next decade... Indian, Adani and TotalEnergies of France,
-announced that they have entered a partnership to create the ‘world’s
-largest’ green hydrogen ecosystem, to deliver green hydrogen at the
+announced that they have entered a partnership to create the world’s
+largest green hydrogen ecosystem, to deliver green hydrogen at the
 ‘lowest cost’ to consumers"
 
 ---
