@@ -87,7 +87,7 @@ The amount of potential energy sitting in reserves in the form of
 natural gas is huge, it would be foolish not to use it. Shared a post
 on the Qatar North Field before. Saudi Ghawar oil field is big, this
 thing is bigger. Ghawar has been producing crude oil for the entire
-world since the 40s - and NF tops that!
+world since the 40s - NF tops that!
 
 ---
 
