@@ -2,6 +2,8 @@
 
 [Economy](stats.html)
 
+[Energy](energy.html)
+
 [Conflicts](confstats.html)
 
 [Earthquakes](natdisaster.html#equakes)

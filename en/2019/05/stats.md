@@ -25,7 +25,7 @@ DATE
 2021-04-01    6.726283
 2021-07-01    2.303426
 2021-10-01    6.894521
-2022-01-01   -1.414108
+2022-01-01   -1.509503
 Name: growann, dtype: float64
 ```
 
@@ -285,10 +285,10 @@ plt.savefig('icsa.png')
 ```text
               ICSA
 DATE              
-2022-04-16  185000
-2022-04-23  181000
-2022-04-30  202000
-2022-05-07  203000
+2022-05-14  218000
+2022-05-21  211000
+2022-05-28  202000
+2022-06-04  229000
 ```
 
 ![](icsa.png)
@@ -319,18 +319,18 @@ plt.savefig('pay-wage.png')
 
 ```text
 DATE
-2021-11-01    6.540931
-2021-12-01    6.195393
 2022-01-01    6.711676
 2022-02-01    6.690420
 2022-03-01    6.745562
+2022-04-01    6.630051
+2022-05-01    6.466693
 Name: wageyoy, dtype: float64
 DATE
-2021-11-01    4.235268
-2021-12-01    4.732029
 2022-01-01    4.703637
-2022-02-01    4.708232
-2022-03-01    4.496265
+2022-02-01    4.683184
+2022-03-01    4.448491
+2022-04-01    4.559968
+2022-05-01    4.506652
 Name: nfpyoy, dtype: float64
 ```
 
@@ -364,11 +364,11 @@ plt.savefig('unemploy.png')
 ```text
             UNRATE  U6RATE  REAL_UNRATE  REAL_UNEMP_LEVEL
 DATE                                                     
-2021-12-01     3.9     7.3     8.624164           13996.5
 2022-01-01     4.0     7.1     8.599034           14075.5
 2022-02-01     3.8     7.2     8.349544           13692.5
 2022-03-01     3.6     6.9     8.377887           13774.0
 2022-04-01     3.6     7.0     8.422333           13816.5
+2022-05-01     3.6     7.1     8.392344           13795.0
 ```
 
 ![](unemploy.png)
@@ -514,12 +514,12 @@ plt.savefig('dollar.png')
 
 ```text
 Date
-2022-05-27    101.669998
-2022-05-29           NaN
-2022-05-31    101.750000
-2022-06-01    101.996002
+2022-06-10    104.150002
+2022-06-12           NaN
+2022-06-13    105.080002
+2022-06-14    105.114998
 Name: Adj Close, dtype: float64
-[ 80.80663481 111.15948977]
+[ 80.81750067 111.16071316]
 ```
 
 ![](dollar.png)
@@ -547,10 +547,10 @@ plt.savefig('wilshire.png')
 ```text
             WILL5000IND
 DATE                   
-2022-05-24       192.93
-2022-05-25       195.13
-2022-05-26       199.17
-2022-05-27       204.26
+2022-06-07       204.81
+2022-06-08       202.55
+2022-06-09       197.70
+2022-06-10       191.86
 ```
 
 ![](wilshire.png)
@@ -579,12 +579,12 @@ plt.savefig('junkbond.png')
 ```text
             BAMLH0A2HYBEY
 DATE                     
-2022-05-23           8.18
-2022-05-24           8.22
-2022-05-25           7.98
-2022-05-26           7.59
-2022-05-27           7.37
-2022-05-30           7.37
+2022-06-03           7.53
+2022-06-06           7.57
+2022-06-07           7.65
+2022-06-08           7.70
+2022-06-09           7.81
+2022-06-10           8.08
 ```
 
 ![](junkbond.png)
@@ -619,12 +619,12 @@ plt.savefig('yield-curve.png')
 ```text
             DGS10  DGS3MO  Yield Curve
 DATE                                  
-2022-01-06   1.73    0.10         1.63
-2022-01-07   1.76    0.10         1.66
-2022-01-10   1.78    0.13         1.65
-2022-01-11   1.75    0.11         1.64
-2022-01-12   1.74    0.12         1.62
-2022-01-13   1.70    0.12         1.58
+2022-06-03   2.96    1.21         1.75
+2022-06-06   3.04    1.26         1.78
+2022-06-07   2.98    1.26         1.72
+2022-06-08   3.03    1.28         1.75
+2022-06-09   3.04    1.30         1.74
+2022-06-10   3.15    1.39         1.76
 ```
 
 ![](yield-curve.png)
@@ -704,224 +704,6 @@ Name: Adj Close, dtype: float64
 
 ![](vix.png)
 
-## Commodities
-
-<a name="oil"></a>
-
-Oil Price (Futures, Continuous Contract, Front Month)
-
-```python
-import pandas as pd, datetime, time as timelib
-import urllib.request as urllib2, io
-
-end = datetime.datetime.now()
-start = datetime.datetime(1980, 1, 1)
-start = int(timelib.mktime(start.timetuple()))
-end = int(timelib.mktime(end.timetuple()))
-base_fin_url = "https://query1.finance.yahoo.com/v7/finance/download"
-url = base_fin_url + "/CL=F?period1=" + str(start) + "&period2=" + str(end) + "&interval=1d&events=history&includeAdjustedClose=true"
-r = urllib2.urlopen(url).read()
-file = io.BytesIO(r)
-df = pd.read_csv(file,index_col='Date',parse_dates=True)['Close']
-
-print (df.tail(5))
-plt.plot(df.tail(1).index, df.tail(1),'ro')
-df.plot()
-plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
-plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
-plt.savefig('oil.png')
-```
-
-```text
-Date
-2022-05-25    110.330002
-2022-05-26    114.089996
-2022-05-27    115.070000
-2022-05-31    114.669998
-2022-06-01    115.269997
-Name: Close, dtype: float64
-```
-
-![](oil.png)
-
-<a name="opec"></a>
-
-Opec Oil Production
-
-```python
-import pandas as pd, requests
-from datetime import date
-
-api_key = open('.key/.eiakey').read()
-url = 'https://api.eia.gov/series/?api_key=' + api_key + '&series_id=STEO.COPR_OPEC.M' 
-r = requests.get(url)
-json_data = r.json()
-df = pd.DataFrame(json_data.get('series')[0].get('data'))
-df['Year'] = df[0].astype(str).str[:4]
-df['Month'] = df[0].astype(str).str[4:]
-df['Day'] = 1
-df['Date'] = pd.to_datetime(df[['Year','Month','Day']])
-df = df.set_index('Date')
-
-today = datetime.datetime.now()
-today = today.strftime('%Y-%m-%d')
-df = df[df.index <= today]
-df = df.sort_index()
-df[1].plot()
-print (df[1].tail(5))
-plt.legend(['Oil Production Per Month (mil barrels per day)'])
-plt.savefig('opec.png')
-```
-
-```text
-Date
-2022-02-01    28.575000
-2022-03-01    28.215000
-2022-04-01    28.490000
-2022-05-01    28.932083
-2022-06-01    29.076941
-Name: 1, dtype: float64
-```
-
-![](opec.png)
-
-<a name="natgas"></a>
-
-World Natural Gas Price
-
-```python
-import pandas as pd, datetime, time as timelib
-import urllib.request as urllib2, io
-end = datetime.datetime.now()
-start=datetime.datetime(2010, 1, 1)
-start = int(timelib.mktime(start.timetuple()))
-end = int(timelib.mktime(end.timetuple()))
-base_fin_url = "https://query1.finance.yahoo.com/v7/finance/download"
-url = base_fin_url + "/NG=F?period1=" + str(start) + "&period2=" + str(end) + "&interval=1d&events=history&includeAdjustedClose=true"
-r = urllib2.urlopen(url).read()
-file = io.BytesIO(r)
-df = pd.read_csv(file,index_col='Date',parse_dates=True)['Adj Close']
-df.plot()
-plt.plot(df.tail(1).index, df.tail(1),'ro')
-print (df.tail(7))
-plt.savefig('natgas.png')
-```
-
-```text
-Date
-2022-05-23    8.744
-2022-05-24    8.796
-2022-05-25    8.971
-2022-05-26    8.908
-2022-05-27    8.727
-2022-05-31    8.145
-2022-06-01    8.346
-Name: Adj Close, dtype: float64
-```
-
-![](natgas.png)
-
-<a name="coal"></a>
-
-Coal Price
-
-```python
-import pandas as pd, datetime, time as timelib
-import urllib.request as urllib2, io
-end = datetime.datetime.now()
-start=datetime.datetime(2010, 1, 1)
-start = int(timelib.mktime(start.timetuple()))
-end = int(timelib.mktime(end.timetuple()))
-base_fin_url = "https://query1.finance.yahoo.com/v7/finance/download"
-url = base_fin_url + "/MTF=F?period1=" + str(start) + "&period2=" + str(end) + "&interval=1d&events=history&includeAdjustedClose=true"
-r = urllib2.urlopen(url).read()
-file = io.BytesIO(r)
-df = pd.read_csv(file,index_col='Date',parse_dates=True)['Adj Close']
-df = df.interpolate()
-df.plot()
-plt.plot(df.tail(1).index, df.tail(1),'ro')
-print (df.tail(7))
-plt.savefig('coal.png')
-```
-
-```text
-Date
-2022-02-18    185.00
-2022-02-22    189.00
-2022-02-23    190.75
-2022-02-24    192.00
-2022-02-25    194.50
-2022-02-28    194.50
-2022-03-01    194.50
-Name: Adj Close, dtype: float64
-```
-
-![](coal.png)
-
-<a name='engconsumption'/>
-
-World Energy Consumption by Source, Monthly (twh)
-
-```python
-import pandas as pd, requests
-from datetime import date
-
-api_key = open('.key/.eiakey').read()
-
-sources = ('coal','TOTAL.CLTCBUS.M'),('hydro','TOTAL.HVTCBUS.M'),\
-	   ('natgas','TOTAL.NNTCBUS.M'),('oil','TOTAL.PMTCBUS.M'),\
-	   ('nuclear','TOTAL.NUETBUS.M'),('solar','TOTAL.SOTCBUS.M'),\
-	   ('wind','TOTAL.WYTCBUS.M')
-
-dfall = []
-descs = []
-for desc,lab in sources:
-    url = 'https://api.eia.gov/series/?api_key=' + api_key + '&series_id=' + lab
-    r = requests.get(url)
-    json_data = r.json()
-    df = pd.DataFrame(json_data.get('series')[0].get('data'))
-    df = pd.DataFrame(json_data.get('series')[0].get('data'))
-    df['Year'] = df[0].astype(str).str[:4]
-    df['Month'] = df[0].astype(str).str[4:]
-    df['Day'] = 1
-    df['Date'] = pd.to_datetime(df[['Year','Month','Day']])
-    df = df.set_index('Date')
-    df = df.rename(columns={1: desc})
-    df = df[df.index > '2000-01-01-']
-    df[desc] = df[desc].rolling(10).mean() * 0.293    
-    descs.append(desc)
-    dfall.append(df)
-
-dfall = pd.concat(dfall,axis=1)
-pd.set_option('display.max_columns', None)
-
-dfall[descs].plot()
-plt.title('Monthly World Energy Consumption (twh)')
-plt.savefig('energy-sources.png')
-```
-
-![](energy-sources.png)
-
-Looking at YoY increases per source
-
-```python
-dfeng = dfall[descs]
-source = 'solar'
-dfeng[source+'prev'] = dfeng[source].shift(-12)
-dfeng[source+'yoy'] = (dfeng[source]-dfeng[source+'prev']) / dfeng[source+'prev'] * 100.0
-print (dfeng[source+'yoy'].dropna().head(5))
-```
-
-```text
-Date
-2021-04-01    24.301684
-2021-03-01    24.618614
-2021-02-01    24.098390
-2021-01-01    23.621993
-2020-12-01    24.047727
-Name: solaryoy, dtype: float64
-```
-
 ## Wealth, Debt
 
 <a name="credit"/>
@@ -950,10 +732,10 @@ print (df['Credit to GDP'].tail(4))
 
 ```text
 DATE
-2021-04-01    182.002632
-2021-07-01    183.254685
-2021-10-01    180.225494
-2022-01-01    180.868332
+2021-04-01    182.096956
+2021-07-01    183.534829
+2021-10-01    184.152878
+2022-01-01    184.854458
 Freq: QS-OCT, Name: Credit to GDP, dtype: float64
 ```
 
@@ -986,10 +768,10 @@ plt.savefig('debt.png')
 
 ```text
 DATE
-2021-12-01    18.271381
-2022-01-01    18.246076
-2022-02-01    18.400681
-2022-03-01    18.615730
+2022-01-01    18.237931
+2022-02-01    18.377958
+2022-03-01    18.572099
+2022-04-01    18.728221
 Freq: MS, Name: debt, dtype: float64
 ```
 
@@ -1035,7 +817,7 @@ plt.axvspan('1993-01-01','1993-01-01',color='y')
 plt.axvspan('2001-01-01','2001-01-01',color='y')
 plt.axvspan('2009-01-01','2009-01-01',color='y')
 plt.axvspan('2017-01-01','2017-01-01',color='y')
-h
+
 plt.axvspan('2020-12-01','2020-12-01',color='y')
 plt.text('1990-01-01',0.44,'HW')
 plt.text('1994-01-01',0.46,'Clinton')
