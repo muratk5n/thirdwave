@@ -124,7 +124,7 @@ access to the outside world. Only three remain open"
 
 ---
 
-Why is AMLO going after Lyin Ted?
+AMLO going after Lyin Ted for some reason - it's funny.
 
 ---
 
