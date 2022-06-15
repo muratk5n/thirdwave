@@ -49,7 +49,7 @@ to help overcome cost and sustainability challenges"
 
 Gas-fired plants with CCS generating electricity is relatively clean
 but inefficient. Electricity as a transmission mechanism has problems;
-it is slow, generation has to match demand, exactly every time. That
+it is slow, generation has to match demand, exactly, every time. That
 causes power plants to unnecessarily ramp-up, ramp-down their
 production, and/or complicated mechanisms to try to predict power
 usage. Storing electricity is expensive, batteries are too heavy,
