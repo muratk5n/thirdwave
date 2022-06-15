@@ -93,9 +93,8 @@ world since the 40s - NF tops that!
 ---
 
 That is great actually.. With some additional cost for CCS, blue H2
-production can have little or emissions. Until green forms of
-production, if it arrives, the natgas path will increase H2
-adoption. 
+production can have little or no emissions. Until green forms of
+production, if it arrives, the natgas path will increase H2 adoption.
 
 H2 Fuel News: "US hydrogen production gets support from $8 billion
 H2Hubs program.. The Department of Energy launched the program this
