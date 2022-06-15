@@ -16,7 +16,7 @@ thermal energy"
 ---
 
 H2 View: "Oil major, bp is set to take a 40.5% stake in one of the
-‘world’s largest’ renewables and green hydrogen energy hubs in Western
+world’s largest renewables and green hydrogen energy hubs in Western
 Australia, which could produce 1.6 million tonnes of green hydrogen
 per year. bp has announced it has agreed to acquire a 40.5% equity
 stake in and become the operator of the Asian Renewable Energy Hub
