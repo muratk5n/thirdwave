@@ -74,9 +74,9 @@ for our own gas"
 The problem likely is when your domestic resources become part of an
 international supply/demand mechanism pricing problems can
 ensue. You'd have the resources locally, but essentially be competing
-against international customers to get reach those resources. No
-wonder some countries even nationalized the resource production
-capacity outright.
+against international customers to get at those resources. No wonder
+some countries even nationalized the resource production capacity
+outright.
 
 ---
 
