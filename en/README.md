@@ -103,7 +103,7 @@ restore balance — it sheds the load"
 
 ---
 
-I wanna see handshake. A big wide smile.. I wanna see f-ing Camelot
+I wanna see a handshake. A big wide smile.. I wanna see f-ing Camelot
 oozing outa that. Do it Biden
 
 Al Monitor: "Biden gambles there's more to gain by courting
