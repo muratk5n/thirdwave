@@ -139,8 +139,7 @@ shoot the shit intelligently on any topic; it created parrots who
 merely transmit talking points they hear on MSM; they only act
 intelligently for show, to look cool by the watercooler, as if in an
 episode of *The West Wing*. The Renaissance Man or Woman remains a
-distant mirage, people are as stupid as ever. If January 6 didn't
-convince you of that, nothing ever will.
+distant mirage, people are as stupid as ever. 
 
 ---
 
