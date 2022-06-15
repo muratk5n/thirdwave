@@ -128,12 +128,6 @@ AMLO going after Lyin Ted for some reason - it's funny.
 
 ---
 
-CNBC: "Put simply, bear market is the term used to describe when the
-equity markets are down 20% or more from their most recent all-time
-high"
-
----
-
 The spread of white collar work did not create smarter people who can
 shoot the shit intelligently on any topic; it created parrots who
 merely transmit talking points they hear on MSM; they only act
