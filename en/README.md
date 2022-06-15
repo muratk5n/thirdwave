@@ -6,7 +6,7 @@
 
 ---
 
-I like red - bypass electricity whereever possible
+I like red - bypass electricity wherever possible
 
 H2 Fuel News: "The following is how red, pink and purple nuclear
 hydrogen are made.. Red hydrogen – This form is made by using the
