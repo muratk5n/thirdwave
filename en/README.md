@@ -92,8 +92,8 @@ the spot market"
 
 ---
 
-Load shedding basically means there isn't enough supply. Oz has vast
-natural resources though, they should be fine. 
+Load shedding basically means there isn't enough supply so delivery is
+cut (shed). Oz has vast natural resources though, they should be fine.
 
 ABC AU: "In the electricity industry no two words instil a greater
 sense of fear or failure as load shedding.. In order to avoid
