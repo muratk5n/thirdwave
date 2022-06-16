@@ -173,7 +173,8 @@ USA trying to assasinate him.
 
 Captured near the gobble gobble controlled area apparently. That
 should be no surprise; US itself helped most of those force to topple
-Assad with TR help, those f-kers would roam for sure in the same area.
+Assad with TR help, those f-kers would roam around for sure in the
+same area.
 
 ABC News: "Senior IS leader captured in US-led military raid in Syria"
 
