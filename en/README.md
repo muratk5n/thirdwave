@@ -10,7 +10,7 @@ Pinned Tweet
 
 I dont think that supply can match even a single pipeline from RU,
 plus the pipeline envisioned (in my natgas map) is a proposal, it
-doesn't yet exist, at least 7 yrs away.
+doesn't yet exist, at least 7 yrs away according to reports.
 
 Al Jazeera: "Is the EU deal with Israel and Egypt a way out from
 Russian gas?.. Critics argue that the EU will face problems dealing
