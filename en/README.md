@@ -122,9 +122,9 @@ FT: "Christopher Geidt resigned as ethics adviser to Boris Johnson
 after a potential breach of World Trade Organization rules proved the
 final straw following the partygate controversy"
 
---
+---
 
-OMG 😱 😨 😨
+OMG 😱 
 
 CNBC: "Dow falls 700 points, tumbling below 30,000 to the lowest level in more than a year"
 
