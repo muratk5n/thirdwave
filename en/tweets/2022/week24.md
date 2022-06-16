@@ -136,7 +136,7 @@ countries still modernize similarly.
 
 Interesting story from anthropologist Ian Morris
 
-[[-]](2021/05/farmers-foragers-fossils.md#donkey)
+[[-]](../../2021/05/farmers-foragers-fossils.md#donkey)
 
 ---
 
@@ -337,7 +337,7 @@ The pipeline map.. The route around West Africa is nuts; It is between
 Nigeria and Spain, but all the countries in between likely wanted a
 cut, so little pieces go into all of them during transit \#ngmap
 
-[[-]](2019/05/oilgas.html#pipelines)
+[[-]](../../2019/05/oilgas.html#pipelines)
 
 ---
 

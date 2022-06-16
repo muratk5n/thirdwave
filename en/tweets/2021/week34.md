@@ -240,7 +240,7 @@ own countrymen without leaving the comfort of their home.
 
 ---
 
-Yes the Berlin Wall construction took place during [his watch](../../2021/08/cuban-missile-crisis.html#berlin).
+Yes the Berlin Wall construction took place during [his watch](../../2021/08/nuclear-folly-plokhy.md.html#berlin).
 
 ---
 
