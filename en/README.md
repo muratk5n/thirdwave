@@ -166,7 +166,7 @@ Al Monitor: "Saudi embassy in Washington now on 'Jamal Khashoggi Way'"
 ---
 
 If there was a conspiracy for the assasination of JFK it was a
-conspiracy originating from Cuba; Castro could've wanted payback for
+conspiracy originating from Cuba; Castro might have wanted payback for
 USA trying to assasinate him.
 
 ---
