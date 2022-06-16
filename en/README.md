@@ -163,7 +163,7 @@ the whole thing. The plan followed by the military was the one approved by WH.
 What would the military-industrial complex have to gain from JFK's
 death? He was good to them. Increased their budget many times over the
 years (whenever he was bitchslapped by the Soviets he'd go to Congress
-and ask for more money, give it to them).
+and ask for more money, give it to mil).
 
 ---
 
