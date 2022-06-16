@@ -84,8 +84,8 @@ ploy to deny involvement in the planned invasion not only on the part
 of American forces but also on that of the president...
 
 The invaders had little air cover: the surviving Cuban planes
-outnumbered the six aircraft provided by the CIA to support Brigade
-2506. They would soon lose two ships, the USS Houston and the USS Rio
+outnumbered the six aircraft provided by the CIA to support Brigade 2506.
+They would soon lose two ships, the USS Houston and the USS Rio
 Escondido, which carried their supplies of fuel, ammunition, and
 medicine. Besides, the coral reefs that CIA scouts had mistaken for
 seaweed prevented the rest of the transport ships from reaching the
