@@ -129,8 +129,6 @@ final straw following the partygate controversy"
 
 ---
 
-Ow. My. Gawd. 
-
 CNBC: "Dow falls 700 points, tumbling below 30,000 to the lowest level in more than a year"
 
 ---
