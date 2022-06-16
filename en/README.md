@@ -24,8 +24,8 @@ regenerated.. It was as though JEJ was speaking. Uncanny.
 ---
 
 *Obi-Wan Kenobi* Episode 5 was good; Vader, OWK were in top form.
-Little Leia is an adorable little kid, the character is absolutely a
-younger form of Leia. Great to see McGregor, Christensen again.
+Little Leia's character definitely reminds one of adule Leia. Great to
+see McGregor, Christensen again.
 
 ---
 
