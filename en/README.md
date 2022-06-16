@@ -29,10 +29,12 @@ younger form of Leia. Great to see McGregor, Christensen again.
 
 ---
 
-What are the features of this robot? Can it perform all the tasks a
-goat can?
-
 If yes then the product can do well in rural areas, farms.
+
+---
+
+What are the features of this robot? Can it perform all the tasks a
+goat can? 😶
 
 FT: "Japanese goat robot helps ageing society. Engineers at Japan's
 Kawasaki Heavy Industries show off their latest invention: a
@@ -125,7 +127,7 @@ final straw following the partygate controversy"
 
 ---
 
-Ow. My. Gawd.
+Ow. My. Gawd. 
 
 CNBC: "Dow falls 700 points, tumbling below 30,000 to the lowest level in more than a year"
 
