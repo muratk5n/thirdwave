@@ -76,14 +76,33 @@ The CIA deputy director for plans, Richard M. Bissell, the former
 administrator of the Marshall Plan in postwar Germany, was the
 principal author of the plan, which proposed to land on Cuba hundreds
 of guerrilla fighters recruited from the ranks of Cuban exiles and
-trained in CIA camps in Guatemala.
+trained in CIA camps in Guatemala...
 
-Kennedy decided to approve the invasion during the Easter break.. With
-the invasion planned for Sunday, April 16, Kennedy decided to spend
-that weekend away from the White House at his family retreat in Glen
-Ora, Virginia. Since the media knew his whereabouts, this was one more
-ploy to deny involvement in the planned invasion not only on the part
-of American forces but also on that of the president...
+Kennedy suggested the infiltration of the task force in small groups,
+with their first big operation to be conducted from Cuban bases, not
+“as an invasion force sent by the Yankees.” Neither the CIA nor the
+military liked that idea. On March 11, the CIA’s Bissell presented a
+memorandum that effectively rejected Kennedy’s idea of infiltration of
+small groups, arguing that without air support and tanks guerrilla
+groups had little chance of making it from the beaches to the
+mountains. Bissell recommended instead “landing in full force.”
+Kennedy was not pleased. Once again, he sent the CIA back to the
+drawing board, asking for a plan that would make the US involvement
+“less obvious.”  Four days later, on March 15, Bissell proposed an
+alternative plan. He still insisted on air support but suggested that
+the planes to be used in the operation be camouflaged as Cuban rather
+than American. To make the claim work, an airstrip on Cuban territory
+would be needed to serve as the base of operations for alleged
+anti-Castro rebels in the Cuban Air Force...  Kennedy approved the new
+plan with one caveat. To ensure deniability he wanted a night landing
+on the island, with the ships carrying the task force to be removed
+from the area by dawn...
+
+With the invasion planned for Sunday, April 16, Kennedy decided to
+spend that weekend away from the White House at his family retreat in
+Glen Ora, Virginia. Since the media knew his whereabouts, this was one
+more ploy to deny involvement in the planned invasion not only on the
+part of American forces but also on that of the president...
 
 The invaders had little air cover: the surviving Cuban planes
 outnumbered the six aircraft provided by the CIA to support Brigade 2506.
