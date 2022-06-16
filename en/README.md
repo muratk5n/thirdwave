@@ -139,16 +139,13 @@ Al Monitor: "Saudi embassy in Washington now on 'Jamal Khashoggi Way'"
 
 Am I for lifting sanctions on Cuba? Sure why not - but the party doing
 it would get killed in Florida. They're crazy about that stuff over
-there. Emotional subject; very hard to work around. Electorally
-speaking, not recommended. Ideally, hey, wouldn't we all want world
-piece?
+there. Emotional subject; very hard to work around. 
 
 ---
 
 It was Eisenhower's plan with lots of odd restrictions added on
 top. JFK had mil experience but for some reason had bizarre ideas
-about mil operations and did not utilize his own military efficiently
-(the responsibility of the leader).
+about mil operations and did not utilize his own military efficiently.
 
 ---
 
