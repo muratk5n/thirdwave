@@ -62,6 +62,8 @@ stake...
 
 <a name='bayofpigs'/>
 
+Bay of Pigs
+
 In March 1960, with agrarian reform in Cuba already underway but
 confiscation of American commercial properties not yet announced,
 Eisenhower decided to bring about regime change in Cuba. Castro was to
