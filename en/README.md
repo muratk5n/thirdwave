@@ -61,10 +61,11 @@ American Indians mixed fat into pemmican.
 
 ---
 
-Is this permanent resettlement status numbers? This API sucks. Also a
-simple CSV file per year, from-country, to-country counts would be
-fine for a general outlook. Details, demographics etc can be in a
-seperate file.
+Is this permanent resettlement status numbers? How about all peoples
+who left their country and entered this other one? This API
+sucks. Also a simple CSV file per year, from-country, to-country
+counts would be fine for a general outlook. Details, demographics etc
+can be in a seperate file.
 
 ---
 
