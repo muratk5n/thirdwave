@@ -178,6 +178,11 @@ should be no surprise; US itself helped most of those force to topple
 Assad with TR help, those f-kers would roam around for sure in the
 same area.
 
+The op was conducted along with fighters from NE Syria, the
+Kurdish-controlled territory, it appears US sent a message with the
+op.
+
+
 ABC News: "Senior IS leader captured in US-led military raid in Syria"
 
 ---
