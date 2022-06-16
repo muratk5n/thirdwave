@@ -130,6 +130,12 @@ CNBC: "Dow falls 700 points, tumbling below 30,000 to the lowest level in more t
 
 ---
 
+Oooww burn 🔥 
+
+Al Monitor: "Saudi embassy in Washington now on 'Jamal Khashoggi Way'"
+
+---
+
 Am I for lifting sanctions on Cuba? Sure why not - but the party doing
 it would get killed in Florida. They're crazy about that stuff over
 there. Emotional subject; very hard to work around. Electorally
@@ -156,12 +162,6 @@ What would the military-industrial complex have to gain from JFK's
 death? He was good to them. Increased their budget many times over the
 years (whenever he was bitchslapped by the Soviets he'd go to Congress
 and ask for more money, give it to them).
-
----
-
-Oooww burn 🔥 
-
-Al Monitor: "Saudi embassy in Washington now on 'Jamal Khashoggi Way'"
 
 ---
 
