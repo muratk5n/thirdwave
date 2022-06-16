@@ -1,5 +1,11 @@
 # Week 24 
 
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Bosch North America announced it will be investing $1.3 billion in hydrogen fuel cell and electrolyzer technology by 2025. <a href="https://t.co/r2Sl5ePqSp">https://t.co/r2Sl5ePqSp</a> <a href="https://t.co/farrACJmR7">pic.twitter.com/farrACJmR7</a></p>&mdash; Jason Curtis (@ski_jason) <a href="https://twitter.com/ski_jason/status/1536758744297644036?ref_src=twsrc%5Etfw">June 14, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 I like red - bypass electricity wherever possible
 
 H2 Fuel News: "The following is how red, pink and purple nuclear
