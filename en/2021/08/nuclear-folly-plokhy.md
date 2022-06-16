@@ -116,7 +116,7 @@ save was wet and often inoperable. Short of weapons, supplies, and
 ammunition, they were also outnumbered and outgunned once Castro’s
 reinforcements began to arrive at the Bay of Pigs—altogether close to
 twenty thousand police officers, soldiers, and members of local
-militias. They were assisted by crews in Soviet-made T-34 tanks. 17
+militias. They were assisted by crews in Soviet-made T-34 tanks. 
 The CIA asked Kennedy to authorize the use of US airplanes to help the
 invasion force, but he refused...
 
