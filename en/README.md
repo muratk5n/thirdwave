@@ -159,7 +159,7 @@ and ask for more money, give it to them).
 
 ---
 
-🔥 
+Oooww burn 🔥 
 
 Al Monitor: "Saudi embassy in Washington now on 'Jamal Khashoggi Way'"
 
