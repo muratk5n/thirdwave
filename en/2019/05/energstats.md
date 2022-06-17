@@ -70,9 +70,9 @@ plt.savefig('opec.png')
 Date
 2022-02-01    28.575000
 2022-03-01    28.215000
-2022-04-01    28.490000
-2022-05-01    28.932083
-2022-06-01    29.076941
+2022-04-01    28.590000
+2022-05-01    28.294654
+2022-06-01    28.786941
 Name: 1, dtype: float64
 ```
 
@@ -102,54 +102,17 @@ plt.savefig('natgas.png')
 
 ```text
 Date
-2022-05-23    8.744
-2022-05-24    8.796
-2022-05-25    8.971
-2022-05-26    8.908
-2022-05-27    8.727
-2022-05-31    8.145
-2022-06-01    8.346
+2022-06-09    8.963
+2022-06-10    8.850
+2022-06-13    8.609
+2022-06-14    7.189
+2022-06-15    7.420
+2022-06-16    7.464
+2022-06-17    6.988
 Name: Adj Close, dtype: float64
 ```
 
 ![](natgas.png)
-
-<a name="coal"></a>
-
-Coal Price
-
-```python
-import pandas as pd, datetime, time as timelib
-import urllib.request as urllib2, io
-end = datetime.datetime.now()
-start=datetime.datetime(2010, 1, 1)
-start = int(timelib.mktime(start.timetuple()))
-end = int(timelib.mktime(end.timetuple()))
-base_fin_url = "https://query1.finance.yahoo.com/v7/finance/download"
-url = base_fin_url + "/MTF=F?period1=" + str(start) + "&period2=" + str(end) + "&interval=1d&events=history&includeAdjustedClose=true"
-r = urllib2.urlopen(url).read()
-file = io.BytesIO(r)
-df = pd.read_csv(file,index_col='Date',parse_dates=True)['Adj Close']
-df = df.interpolate()
-df.plot()
-plt.plot(df.tail(1).index, df.tail(1),'ro')
-print (df.tail(7))
-plt.savefig('coal.png')
-```
-
-```text
-Date
-2022-02-18    185.00
-2022-02-22    189.00
-2022-02-23    190.75
-2022-02-24    192.00
-2022-02-25    194.50
-2022-02-28    194.50
-2022-03-01    194.50
-Name: Adj Close, dtype: float64
-```
-
-![](coal.png)
 
 <a name='engconsumption'/>
 
