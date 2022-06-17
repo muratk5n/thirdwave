@@ -168,8 +168,8 @@ of energy.
 
 ---
 
-NG has 10.55 kWh per cubic meters. `10.55*70*1e6/(24*1000*1000)`
-equals 30 GW, nearly half of Norstream 1. 
+NG has 10.55 kWh per cubic meters.  10.55 x 70 x 1e6 / (24 x 1000
+x1000) equals 30 GW, nearly half of Norstream 1.
 
 BBC: "The boss of Russian state-controlled gas giant Gazprom has said
 it is a case of 'our product, our rules' after the firm halved its
