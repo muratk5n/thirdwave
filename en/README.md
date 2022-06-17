@@ -156,7 +156,7 @@ overwhelming display of selling in history"
 
 ---
 
-RU is playing hardball
+Hardball. RU is sending a message.
 
 WION: "Russia-Ukraine war: Italy's Eni says Gazprom to reduce gas
 supply Friday by 50%"
