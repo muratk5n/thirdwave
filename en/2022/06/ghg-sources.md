@@ -68,11 +68,10 @@ Table
 	 
          <tr>
 	 <td>
-          <li>Wetlands</li>
+          Wetlands
 	 </td>
 	 <td>
-	  <li>Rice Fields</li>
-	  <li>Cows</li>
+	  Rice Fields, Cows
 	 </td>
          </tr>
 	 
