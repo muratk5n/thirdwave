@@ -112,7 +112,11 @@ frontrunners. EURACTIV France reports"
 I'm sure they can turn out the next product for 100% H2 usage if
 circumstances require.
 
-<img width="200" src="https://pbs.twimg.com/media/FVNIUTVXoAA1pzO?format=jpg&name=small"/>
+---
+
+Looks like a fine product
+
+<img width="340" src="https://pbs.twimg.com/media/FVNIUTVXoAA1pzO?format=jpg&name=small"/>
 
 ---
 
