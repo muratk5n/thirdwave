@@ -122,6 +122,12 @@ GHG? 80% CO2, 20% methane. Methane is 60% human caused, 40% natural.
 
 ---
 
+That is a funny story \#leemack 
+
+[[-]](https://youtu.be/dmbpagijVkk?t=40)
+
+---
+
 "@anjilslaire
 
 I get in my car this afternoon to go to a Dr appointment and the
@@ -147,12 +153,6 @@ It's the 5th time in the past 7 days.
 
 Since 1928, there have been exactly 0 precedents. This is the most
 overwhelming display of selling in history"
-
----
-
-That is a funny story \#leemack 
-
-[[-]](https://youtu.be/dmbpagijVkk?t=40)
 
 ---
 
