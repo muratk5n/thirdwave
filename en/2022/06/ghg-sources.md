@@ -1,7 +1,5 @@
 # GHG Sources
 
-CO2
-
 Methane
 
 "Today, about 60 percent of the methane in the atmosphere comes from
@@ -78,14 +76,12 @@ Table
       </table>
     </td>
   </tr>
-  
-
+ 
 </table>
 
+CO2
 
-
-
-
+tbd
 
 References
 
