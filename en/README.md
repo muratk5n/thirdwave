@@ -8,187 +8,182 @@ Pinned Tweet
 
 ---
 
-The pipeline envisioned (in my natgas map) through Cyprus is a
-proposal, it doesn't yet exist, at least 7 yrs away according to
-reports. 
+H2 Central: "MAN Engines put its first two dual fuel hydrogen-powered
+engines for work boats into serial operation. These comprise two
+twelve-cylinder diesel engines of type MAN D2862 LE448, each with an
+output of 749 kW (1019 hp) at 2100 rpm"
 
-Al Jazeera: "Is the EU deal with Israel and Egypt a way out from
-Russian gas?.. Critics argue that the EU will face problems dealing
-with Israel and Egypt despite Brussels's enthusiasm"
+----
 
----
-
-Apparently the voice-over is James-Earl Jones' earlier work resampled,
-regenerated.. It was as though JEJ was speaking. Uncanny.
+H2 View: "Torrens Island, Adelaide, Australia is set to become the
+focus of a feasibility study to transform the island into a green
+hydrogen energy hub"
 
 ---
 
-*Obi-Wan Kenobi* Episode 5 was good; Vader, OWK were in top form.
-Little Leia's character definitely reminds one of the adult Leia. The
-story complements the original trilogy, now we know how Leia knew
-about OWK, she asked for his help later in trilogy bcz knew him from
-before. Great to see McGregor, Christensen again.
+H2 View: "Rock cavern hydrogen storage pilot inaugurated in
+Sweden.. SSAD, LKAB and Vattenfall announced they were inaugurating
+HYBRIT’s pilot rock cavern hydrogen storage facility at Svartöberget,
+in Luleå, Sweden"
 
 ---
 
-If yes then the product can do well in rural areas, farms.
+H2 Central: "Hexagon Purus, through its wholly owned subsidiary
+Wystrach GmbH.. has received a follow-on order for hydrogen
+distribution systems from.. a company owned by ZE PAK, Poland’s
+largest privately owned [energy producer].. The follow-on order can be
+viewed in conjunction with the announcement in Hexagon Purus’ Q4 2021
+presentation for hydrogen distribution systems and mobile hydrogen
+refueling stations. The value of the follow-on order is approximately
+EUR 3.5 million.. [VP] Maciej Stec.. said 'As a Group, we want to
+change the world, and the world is turning to green hydrogen'"
 
 ---
 
-What are the features of this robot? Can it perform all the tasks a
-goat can? 😶
-
-FT: "Japanese goat robot helps ageing society. Engineers at Japan's
-Kawasaki Heavy Industries show off their latest invention: a
-four-legged rideable robot modelled after an Ibex"
-
----
-
-Interesting, [this guy](https://youtu.be/MElMJsIP1Y0?t=404) puts in
-melted liquid tallow on top of dried beef, the whole thing hardens
-together. It's true, melted fat binds together extremely well once
-cooled.
+H2 Central: "Morocco has now added another ambitious objective through
+its energy policy agenda: it hopes to become the world market leader
+in the production of green hydrogen. Soaring demand for the new
+zero-emissions fuel means that hydrogen production is a sure-fire
+future sector"
 
 ---
 
-Draxe: "Tallow is rich in CLA, a fatty acid that studies suggest can
-support a healthy metabolism and may lead to fat burning. There's some
-evidence demonstrating that CLA also has anti-inflammatory and
-immune-supporting properties, possibly even fighting growth of tumors,
-as does the fatty acid oleic acid"
+H2 Central: "GE – New Gas Turbine to Help Smooth Florida Transition to
+a Solar-Heavy Grid, to Burn a Fuel Mix Blending Natural Gas with up to
+50% Hydrogen"
 
 ---
 
-How to make beef tallow? Axe the butcher, 'need beef fat', they'll
-have it on the side. Tallow has CLA, can't do without. No wonder
-American Indians mixed fat into pemmican.
+H2 View: "GE hopes to explore hydrogen in gas turbines further.. The
+new GE gas turbine has the capability to burn up to 50% by volume of
+hydrogen when blended with natural gas, the company has claimed"
 
 ---
 
-Is this permanent resettlement status numbers? How about all peoples
-who left their country and entered this other one? This API
-sucks. Also a simple CSV file per year, from-country, to-country
-counts would be fine for a general outlook. Details, demographics etc
-can be in a seperate file.
+H2 Central: "The European Commission unveiled its plans to kick off a
+European Electrolyser Partnership. This Partnership aims to address
+the challenges in establishing and maturing a strong industrial
+manufacturing base in Europe and identify potential mitigating
+policies and actions where necessary"
 
 ---
 
-[Link](https://drive.google.com/uc?export=view&id=1KdW52Guba1DGZyioXMrc9BU8OMBfFcmh)
+H2 Central: "South Korean plant builder Doosan Enerbility
+Co. announced that it had signed an agreement with KEPCO Engineering &
+Construction Co. and Samsung C&T Corp. to invigorate mixed combustion
+technologies that generate electricity using green ammonia"
 
 ---
 
-Says a total 270K people went from Syria into TR? There were more
-people than that!
+H2 Central: "Japanese thermal power producer Jera and refiner Idemitsu
+have agreed to jointly consider developing a hydrogen supply chain in
+central Japan’ Ise bay area, where various industries are concentrated
+and demand for the clean fuel is expected to increase with a drive
+towards decarbonisation. Jera and Idemitsu will mainly study setting
+up bases to receive, stock, process and dispatch hydrogen using their
+existing facilities in the region"
 
 ---
 
-🤨 🤨 🤨 
-
-```python
-import pandas as pd, datetime, io
-import urllib.request as urllib2
-
-url = "http://api.unhcr.org/rsq/v1/export/csv?type=submissions&year="+\
-      "2012,2013,2014,2015,2016,2017,2018,2019,2020"+\
-      "&origin=SYR&resettlement=TRY"
-
-r = urllib2.urlopen(url).read()
-df = pd.read_csv(url,sep=',',skiprows=11)[['Year','Total submissions (persons)']]
-df.columns = ['Year','Refugees']
-df = df.set_index('Year').dropna()
-print (df,'\n\n','Total',np.float(df.sum()))
-```
-
-```text
-      Refugees
-Year          
-2012      90.0
-2013    5277.0
-2014   21154.0
-2015   53305.0
-2016   77254.0
-2017   37332.0
-2018   28189.0
-2019   29660.0
-2020   18220.0 
-
- Total 270481.0
-```
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Great Wall Motor stable is set to expand to include a new, high-end brand specialising in hydrogen fuel-cell electric vehicles. <a href="https://twitter.com/hashtag/GreatWallMotors?src=hash&amp;ref_src=twsrc%5Etfw">#GreatWallMotors</a> <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> <a href="https://twitter.com/hashtag/News?src=hash&amp;ref_src=twsrc%5Etfw">#News</a> <a href="https://twitter.com/hashtag/SWMFeed?src=hash&amp;ref_src=twsrc%5Etfw">#SWMFeed</a> <a href="https://twitter.com/hashtag/GreatWallMotor?src=hash&amp;ref_src=twsrc%5Etfw">#GreatWallMotor</a> <a href="https://twitter.com/hashtag/GWM?src=hash&amp;ref_src=twsrc%5Etfw">#GWM</a> <a href="https://twitter.com/hashtag/HydrogenFcevs?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenFcevs</a> <a href="https://twitter.com/hashtag/HydrogenFuelCellElectricVehicle?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenFuelCellElectricVehicle</a><a href="https://t.co/0m6lbdCpfb">https://t.co/0m6lbdCpfb</a></p>&mdash; CarExpert (@CarExpertAus) <a href="https://twitter.com/CarExpertAus/status/1531067458504761345?ref_src=twsrc%5Etfw">May 30, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-UN has a data API `api.unhcr.org`, allows data access to refugee
-numbers. Checking
+H2 Fuel News: "Mitsubishi Power, Georgia Power and EPRI have completed
+the largest H2 carbon reduction mix...  The hydrogen fuel blending
+took place at the Plant McDonough-Atkinson owned by Georgia Power, in
+Smyrna, Georgia. The combination took place as a part of a
+demonstration project. It was the first to have validated a 20 percent
+H2 blending on an advanced class gas turbine in North
+America. Moreover, it also represents the largest of its kind to date,
+with a 20 percent mix, which reduces the carbon emissions by 7 percent
+when compared with natural gas alone"
 
 ---
 
-FT: "Christopher Geidt resigned as ethics adviser to Boris Johnson
-after a potential breach of World Trade Organization rules proved the
-final straw following the partygate controversy"
+H2 Central: "Fleets of hydrogen taxis are picking up across
+Europe... Europe’s market for hydrogen-powered taxis is becoming
+increasingly competitive, with French company Hype, which has
+developed them in Paris since 2015, being among the
+frontrunners. EURACTIV France reports"
 
 ---
 
-CNBC: "Dow falls 700 points, tumbling below 30,000 to the lowest level in more than a year"
+I'm sure they can turn out the next product for 100% H2 usage if
+circumstances require.
+
+<img width="200" src="https://pbs.twimg.com/media/FVNIUTVXoAA1pzO?format=jpg&name=small"/>
 
 ---
 
-Oooww burn 🔥 
+GHG? 80% CO2, 20% methane. Methane is 60% human caused, 40% natural.
 
-Al Monitor: "Saudi embassy in Washington now on 'Jamal Khashoggi Way'"
-
----
-
-Am I for lifting sanctions on Cuba? Sure why not - but the party doing
-it would get killed in Florida. They're crazy about that stuff over
-there. Emotional subject; very hard to work around. 
+[[-]](2022/06/ghg-sources.html)
 
 ---
 
-It was Eisenhower's plan with lots of odd restrictions added on
-top. JFK had mil experience but for some reason had bizarre ideas
-about mil operations and did not utilize his own military efficiently.
+"@anjilslaire
+
+I get in my car this afternoon to go to a Dr appointment and the
+dashboard screen says 'Update available. Park vehicle. Turn off
+ignition. Car will be inoperable until completion. ETA 15min'
+sigh. Paging @internetofshit"
 
 ---
 
-Bay of Pigs failure resp lies with Kennedy, [bungled](2021/08/nuclear-folly-plokhy.html#bayofpigs)
-the whole thing. The plan followed by the military was the one approved by WH.
+@EvanHillHB
 
-"Bay of Pigs was US military's fault"
+THIS TOASTER HAS A FUCKING HOME SCREEN
 
----
-
-What would the military-industrial complex have to gain from JFK's
-death? He was good to them. Increased their budget many times over the
-years (whenever he was smacked around by the Soviets he'd go to
-Congress and ask for more money, give it to mil).
+[[-]](https://pbs.twimg.com/media/FVbMaftUYAAs7fC?format=jpg&name=small)
 
 ---
 
-If there was a conspiracy for the assasination of JFK it was a
-conspiracy originating from Cuba; Castro might have wanted payback for
-USA trying to assasinate him.
+"@jasongoepfert
+
+More than 90% of stocks in the S&P 500 declined today.
+
+It's the 5th time in the past 7 days.
+
+Since 1928, there have been exactly 0 precedents. This is the most
+overwhelming display of selling in history"
 
 ---
 
-Captured near the gobble gobble controlled area apparently. That
-should be no surprise; US itself helped most of those force to topple
-Assad with TR help, those f-kers would roam around for sure in the
-same area.
+That is a funny story \#leemack 
 
-The op was conducted along with fighters from NE Syria, the
-Kurdish-controlled territory, it appears US sent a message with the
-op.
-
-
-ABC News: "Senior IS leader captured in US-led military raid in Syria"
+[[-]](https://youtu.be/dmbpagijVkk?t=40)
 
 ---
 
-Al Jazeera: "As Russia advances, is Western support for Ukraine
-faltering? Kyiv is appealing for more heavy weapons from its backers,
-but Western leaders' rhetoric suggests support may be ebbing"
+WION: "Russia-Ukraine war: Italy's Eni says Gazprom to reduce gas
+supply Friday by 50%"
 
 ---
+
+NS1 and NS2 together would deliver upwards of 120 GW power. Insane amt
+of energy. 
+
+---
+
+NG has 10.55 kWh per cubic meters. `10.55*70*1e6/(24*1000*1000)`
+equals 30 GW, nearly half of Norstream 1. 
+
+BBC: "The boss of Russian state-controlled gas giant Gazprom has said
+it is a case of "our product, our rules" after the firm halved its
+supply to Germany.. to under 70m cubic metres per day - well under
+half the current rate"
+
+---
+
+
+
+
+
+
+
+
+
 
 ## For Members
 
