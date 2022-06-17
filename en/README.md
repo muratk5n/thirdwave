@@ -156,6 +156,8 @@ That is a funny story \#leemack
 
 ---
 
+RU is playing hardball
+
 WION: "Russia-Ukraine war: Italy's Eni says Gazprom to reduce gas
 supply Friday by 50%"
 
@@ -170,20 +172,11 @@ NG has 10.55 kWh per cubic meters. `10.55*70*1e6/(24*1000*1000)`
 equals 30 GW, nearly half of Norstream 1. 
 
 BBC: "The boss of Russian state-controlled gas giant Gazprom has said
-it is a case of "our product, our rules" after the firm halved its
+it is a case of 'our product, our rules' after the firm halved its
 supply to Germany.. to under 70m cubic metres per day - well under
 half the current rate"
 
 ---
-
-
-
-
-
-
-
-
-
 
 ## For Members
 

@@ -144,7 +144,7 @@ about mil operations and did not utilize his own military efficiently.
 
 ---
 
-Bay of Pigs failure resp lies with Kennedy, [bungled](2021/08/nuclear-folly-plokhy.html#bayofpigs)
+Bay of Pigs failure resp lies with Kennedy, [bungled](../../2021/08/nuclear-folly-plokhy.html#bayofpigs)
 the whole thing. The plan followed by the military was the one approved by WH.
 
 "Bay of Pigs was US military's fault"
