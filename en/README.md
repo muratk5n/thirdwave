@@ -25,8 +25,8 @@ regenerated.. It was as though JEJ was speaking. Uncanny.
 
 *Obi-Wan Kenobi* Episode 5 was good; Vader, OWK were in top form.
 Little Leia's character definitely reminds one of the adult Leia. The
-story complements the trilogy in a way, now we know how Leia knew
-about OWK, she asked for his help later in trilogy bcz knew from
+story complements the original trilogy, now we know how Leia knew
+about OWK, she asked for his help later in trilogy bcz knew him from
 before. Great to see McGregor, Christensen again.
 
 ---
