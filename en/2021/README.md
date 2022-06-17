@@ -46,7 +46,7 @@
 
 [The Bermuda Triangle](08/bermuda.html)
 
-[The Cuban Missile Crisis](08/cuban-missile-crisis.html)
+[The Cuban Missile Crisis](08/nuclear-folly-plokhy.html)
 
 [Computing AI](09/computing-ai.html)
 

@@ -34,7 +34,13 @@
 
 [Extraterrestrial](06/extraterrestrial-loeb.html)
 
+[GHG Sources](06/ghg-sources.html)
+
+[Ferming Over Farming, Lab-Grown Meat](06/lab-grown-meat.html)
+
 [Population Growth, Demographics, Economics](06/population-demographics-growth.html)
 
 [The H2 Revolution](06/the-h2-revolution-alvera.html)
+
+[Vertical Farming](06/vertical-farming.html)
 

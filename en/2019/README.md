@@ -24,9 +24,11 @@
 
 [Conflict Statistics](05/confstats.html)
 
+[Energy Stats](05/energstats.html)
+
 [Natural Disasters](05/natdisaster.html)
 
-[Oil and Gas Fields](05/oilgas.html)
+[Oil and Gas](05/oilgas.html)
 
 [Reports](05/reports.html)
 

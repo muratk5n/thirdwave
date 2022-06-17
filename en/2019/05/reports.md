@@ -2,7 +2,7 @@
 
 [Economy](stats.html)
 
-[Energy](energy.html)
+[Energy](energstats.html)
 
 [Conflicts](confstats.html)
 
