@@ -196,9 +196,8 @@ Roman / Byzantium / Ottoman past. Remember the Praetorian Guard? In
 sum, if agrarian-taxer-plunderer parasitic-government culture becomes
 entrenched, it creates the types of people in society who think anyone
 with military power can and should take the reins by force. This is
-the feudal way (other side effects are paternalism, hierarchy,
-inequality and more). Coups are, therefore, pre-modern creations
-experienced in countries on the road towards modernity.
+the feudal way. Coups are, therefore, pre-modern creations experienced
+in countries on the road towards modernity.
 
 ---
 
