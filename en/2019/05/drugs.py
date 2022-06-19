@@ -1,5 +1,7 @@
 import pandas as pd
 
+# country lat,lon in countries.csv
+
 # data from https://dataunodc.un.org/ids DS Report 2011-2016.xlsx
 def preproc():
     xls = pd.ExcelFile('drugs.xlsx')
