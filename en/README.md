@@ -99,19 +99,14 @@ output is about 1 Terrawatt.
 
 ---
 
+CNBC: "Look for more selling pressure next week as investors learn the
+hard way not to fight the Fed"
 
+---
 
+Al Jazeera: "Apple Inc workers in Maryland, US vote to join a union"
 
-
-
-
-
-
-
-
-
-
-
+---
 
 All previous reports, graphs, maps shared are accessible from the
 [reports](2019/05/reports.html) page.
