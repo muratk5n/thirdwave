@@ -169,7 +169,7 @@ h2, l2 = ax2.get_legend_handles_labels()
 plt.legend(h1+h2, l1+l2, loc=2)
 ```
 
-<img width="200" src="https://pbs.twimg.com/media/FVgvWwKUcAIfD3k?format=png&name=small"/>
+<img width="340" src="https://pbs.twimg.com/media/FVgvWwKUcAIfD3k?format=png&name=small"/>
 
 ---
 
