@@ -137,8 +137,8 @@ today I just don't get to eat breakfast I guess"
 
 When dollar is strong, other countries have trouble securing the
 dollars to buy the oil with, ergo oil demand (and global price)
-decreases. Non-US demand would effect oil price more obviously there
-are more people outside US.
+decreases. Non-US demand would effect oil price more, there are more
+people outside US.
 
 The Balance: "When it comes to international trade for raw materials,
 the dollar is the exchange mechanism... When the value of the dollar
