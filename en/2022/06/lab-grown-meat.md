@@ -45,8 +45,8 @@ Hoxton Farms says plant-based meat alternatives are missing 'one
 crucial ingredient': fat.. [S]tart-up Hoxton Farms is cultivating
 animal fat for plant-based meat alternatives. What is the secret to
 the duo’s competitive edge? Computational biology, the founders tell
-FoodNavigator. The global meat market is worth some $1.3trn. The
-newer, plant-based meat alternative market is valued around the $4.3bn
+FoodNavigator. The global meat market is worth some 1.3trn. The newer,
+plant-based meat alternative market is valued around the 4.3bn
 mark. Yet despite their sizeable values, entrepreneurs Ed Steele and
 Dr Max Jamilly say both industries have serious flaws. “The global
 meat market is broken. It’s killing us, it’s killing the planet,” ​said
