@@ -471,7 +471,7 @@ url = base_fin_url + "/DX-Y.NYB?period1=" + str(start) + "&period2=" + str(end) 
 r = urllib2.urlopen(url).read()
 file = io.BytesIO(r)
 df = pd.read_csv(file,index_col='Date',parse_dates=True)['Adj Close']
-
+df = df.interpolate()
 print (df.tail(4))
 m,s = df.mean(),df.std()
 print (np.array([m-s,m+s]).T)
@@ -482,12 +482,12 @@ plt.savefig('dollar.png')
 
 ```text
 Date
-2022-06-10    104.150002
-2022-06-12           NaN
-2022-06-13    105.080002
-2022-06-14    105.114998
+2022-06-14    105.519997
+2022-06-15    105.160004
+2022-06-16    103.629997
+2022-06-17    104.650002
 Name: Adj Close, dtype: float64
-[ 80.81750067 111.16071316]
+[ 80.8216839  111.41399208]
 ```
 
 ![](dollar.png)
