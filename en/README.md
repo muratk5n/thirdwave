@@ -118,10 +118,6 @@ Likely due to the "war against fat" wave..
 
 ---
 
-The article doesn't mention it but animal fat is healthier too
-
----
-
 Aaand here it is - [lab-grown fat](2022/06/lab-grown-meat.md#fat)
 
 ---
