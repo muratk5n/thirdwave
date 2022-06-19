@@ -2,183 +2,260 @@
 
 ---
 
-Pinned Tweet
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Bosch North America announced it will be investing $1.3 billion in hydrogen fuel cell and electrolyzer technology by 2025. <a href="https://t.co/r2Sl5ePqSp">https://t.co/r2Sl5ePqSp</a> <a href="https://t.co/farrACJmR7">pic.twitter.com/farrACJmR7</a></p>&mdash; Jason Curtis (@ski_jason) <a href="https://twitter.com/ski_jason/status/1536758744297644036?ref_src=twsrc%5Etfw">June 14, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<iframe width="340" src="https://www.youtube.com/embed/B3knAZxXMzo?start=195" title="How Hydrogen Could Solve the Energy Crisis: Bloomberg Green" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-H2 Central: "MAN Engines put its first two dual fuel hydrogen-powered
-engines for work boats into serial operation. These comprise two
-twelve-cylinder diesel engines of type MAN D2862 LE448, each with an
-output of 749 kW (1019 hp) at 2100 rpm"
+Fast Company: "Of course, the sun—and wind, for that matter—aren’t
+always available, and certainly not everywhere. 'Heavy industry runs
+24-7. You don’t find any factories that shut down and only run one
+shift,' says Bill Gross, founder and CEO of Heliogen, a company that
+stores as much thermal energy as possible to then convert to green
+hydrogen, an alternative fuel..
 
-----
+'I feel it’s all about using science and technology to find a way to
+beat that price of fossil fuel,' Gross says. Heliogen has built a
+“sunlight refinery”: a setup whereby thousands of mirrors.. reflect
+beams of sunlight.. onto a single spot at the top of a tower, the size
+of a basketball hoop. That concentration allows the collected sunlight
+to reach temperatures of more than 1,000 degrees Celsius.. 
 
-H2 View: "Torrens Island, Adelaide, Australia is set to become the
-focus of a feasibility study to transform the island into a green
-hydrogen energy hub"
+It then stores that thermal energy in tanks of gravel. 'Imagine a
+thousand pizza stones in an oven where you close the door after you’ve
+heated them up,' Gross says. 'Those are going to stay hot for a very
+long time.' The energy can then be easily transported to less sunny
+climes, wherever it’s needed. 'It allows us to run on cloudy days. It
+allows us to run through any other kind of interruption. That’s what’s
+crucial for the world because we all want to have uninterruptible
+power.
 
----
+They then convert that energy into green hydrogen via electrolysis,
+which essentially splits the hydrogen from water (and an important
+distinction from dirty hydrogen, which is traditionally produced from
+methane). “When you burn hydrogen, it releases nothing,' Gross
+says. 'It releases just water vapor to the atmosphere. That’s the
+beauty of hydrogen.'"
 
-H2 View: "Rock cavern hydrogen storage pilot inaugurated in
-Sweden.. SSAD, LKAB and Vattenfall announced they were inaugurating
-HYBRIT’s pilot rock cavern hydrogen storage facility at Svartöberget,
-in Luleå, Sweden"
-
----
-
-H2 Central: "Hexagon Purus, through its wholly owned subsidiary
-Wystrach GmbH.. has received a follow-on order for hydrogen
-distribution systems from.. a company owned by ZE PAK, Poland’s
-largest privately owned [energy producer].. The follow-on order can be
-viewed in conjunction with the announcement in Hexagon Purus’ Q4 2021
-presentation for hydrogen distribution systems and mobile hydrogen
-refueling stations. The value of the follow-on order is approximately
-EUR 3.5 million.. [VP] Maciej Stec.. said 'As a Group, we want to
-change the world, and the world is turning to green hydrogen'"
-
----
-
-H2 Central: "Morocco has now added another ambitious objective through
-its energy policy agenda: it hopes to become the world market leader
-in the production of green hydrogen. Soaring demand for the new
-zero-emissions fuel means that hydrogen production is a sure-fire
-future sector"
+[[-]](https://www.fastcompany.com/90756680/how-much-could-renewable-sources-like-solar-and-thermal-shape-our-future-energy-needs)
 
 ---
 
-H2 Central: "GE – New Gas Turbine to Help Smooth Florida Transition to
-a Solar-Heavy Grid, to Burn a Fuel Mix Blending Natural Gas with up to
-50% Hydrogen"
+H2 Central: "Engines equipped with H2-HPDI (High Pressure Direct
+Injection) fuel systems run on hydrogen and offer a spectrum of
+advantages over other technologies, making it possible to accelerate
+H2 adoption as a component of sustainably operating heavy-duty
+vehicles. Among the advantages of using H2-HPDI systems from Westport
+Fuel Systems include its practicality for fleet managers that require
+straightforward operations and maintenance in the transition toward
+improved sustainability. Furthermore, engines equipped with these
+systems can exceed the performance of current heavy-duty diesel
+vehicles while simultaneously minimizing greenhouse gas emissions to
+the point that they are nearly eliminated"
 
 ---
 
-H2 View: "GE hopes to explore hydrogen in gas turbines further.. The
-new GE gas turbine has the capability to burn up to 50% by volume of
-hydrogen when blended with natural gas, the company has claimed"
+H2 Fuel News: "Pilot Company expands into compressed natural gas and
+hydrogen: partners with VoltaGrid. Pilot Company, one of the leading
+suppliers of fuel and the largest operator of travel centers in North
+America, announced that the company is building upon its current
+initiatives in the alternative fuels space with a new compressed
+natural gas (CNG) and hydrogen delivery platform. This expansion
+includes a partnership with VoltaGrid LLC (“VoltaGrid”) to develop a
+low-carbon fuels network that contributes to reduced emissions and
+decarbonization for third-party customers in industries like water
+disposal, dual-fuel applications, water heating operations, and
+natural disaster response"
 
 ---
 
-H2 Central: "The European Commission unveiled its plans to kick off a
-European Electrolyser Partnership. This Partnership aims to address
-the challenges in establishing and maturing a strong industrial
-manufacturing base in Europe and identify potential mitigating
-policies and actions where necessary"
+H2 View: 'Nuvera Fuel Cells, LLC, a provider of heavy-duty hydrogen
+fuel cell engines for on- and off-road mobility and other
+applications, announces an order for an E-Series Fuel Cell Engine from
+CMT, a propulsion technology research institute at the Universitat
+Politècnica de València, Spain. Focusing on accelerating the
+widespread adoption of zero-emission vehicle power sources, CMT is
+building a 200 kW fuel cell test bench facility in collaboration with
+AVL, a worldwide engineering leader"
 
 ---
 
-H2 Central: "South Korean plant builder Doosan Enerbility
-Co. announced that it had signed an agreement with KEPCO Engineering &
-Construction Co. and Samsung C&T Corp. to invigorate mixed combustion
-technologies that generate electricity using green ammonia"
+H2 View: "GRTgaz and Fluxys are Willing to Develop The First
+Open-Access, Cross-Border Hydrogen Transmission Network Between France
+and Belgium"
 
 ---
 
-H2 Central: "Japanese thermal power producer Jera and refiner Idemitsu
-have agreed to jointly consider developing a hydrogen supply chain in
-central Japan’ Ise bay area, where various industries are concentrated
-and demand for the clean fuel is expected to increase with a drive
-towards decarbonisation. Jera and Idemitsu will mainly study setting
-up bases to receive, stock, process and dispatch hydrogen using their
-existing facilities in the region"
+Al Monitor: "Saudi Arabia's futuristic planned city NEOM plans to
+build a water desalination plant powered by renewable energy"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Great Wall Motor stable is set to expand to include a new, high-end brand specialising in hydrogen fuel-cell electric vehicles. <a href="https://twitter.com/hashtag/GreatWallMotors?src=hash&amp;ref_src=twsrc%5Etfw">#GreatWallMotors</a> <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> <a href="https://twitter.com/hashtag/News?src=hash&amp;ref_src=twsrc%5Etfw">#News</a> <a href="https://twitter.com/hashtag/SWMFeed?src=hash&amp;ref_src=twsrc%5Etfw">#SWMFeed</a> <a href="https://twitter.com/hashtag/GreatWallMotor?src=hash&amp;ref_src=twsrc%5Etfw">#GreatWallMotor</a> <a href="https://twitter.com/hashtag/GWM?src=hash&amp;ref_src=twsrc%5Etfw">#GWM</a> <a href="https://twitter.com/hashtag/HydrogenFcevs?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenFcevs</a> <a href="https://twitter.com/hashtag/HydrogenFuelCellElectricVehicle?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenFuelCellElectricVehicle</a><a href="https://t.co/0m6lbdCpfb">https://t.co/0m6lbdCpfb</a></p>&mdash; CarExpert (@CarExpertAus) <a href="https://twitter.com/CarExpertAus/status/1531067458504761345?ref_src=twsrc%5Etfw">May 30, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+The increase in renewables is great, but we are still inching forward
+megawatt by megawatt and 1 GW plant is considered a big deal. Still
+tough to keep up with oil / natgas resources of eg US, Iran, Qatar or
+Russia. Guy digs one hole in the ground and boom: 60 Gigawatts. Need
+more? Another hole, boom. Another 60. Saudi Arabia's total energy
+output is about 1 Terrawatt.
 
 ---
 
-H2 Fuel News: "Mitsubishi Power, Georgia Power and EPRI have completed
-the largest H2 carbon reduction mix...  The hydrogen fuel blending
-took place at the Plant McDonough-Atkinson owned by Georgia Power, in
-Smyrna, Georgia. The combination took place as a part of a
-demonstration project. It was the first to have validated a 20 percent
-H2 blending on an advanced class gas turbine in North
-America. Moreover, it also represents the largest of its kind to date,
-with a 20 percent mix, which reduces the carbon emissions by 7 percent
-when compared with natural gas alone"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+All previous reports, graphs, maps shared are accessible from the
+[reports](2019/05/reports.html) page.
 
 ---
 
-H2 Central: "Fleets of hydrogen taxis are picking up across
-Europe... Europe’s market for hydrogen-powered taxis is becoming
-increasingly competitive, with French company Hype, which has
-developed them in Paris since 2015, being among the
-frontrunners. EURACTIV France reports"
+McDonalds switched to veg oil from tallow for cooking its fries?
+Likely due to the "war against fat" wave.. 
 
 ---
 
-I'm sure they can turn out the next product for 100% H2 usage if
-circumstances require.
+The article doesn't mention it but animal fat is healthier too
 
 ---
 
-Looks like a fine product
-
-<img width="340" src="https://pbs.twimg.com/media/FVNIUTVXoAA1pzO?format=jpg&name=small"/>
+Aaand here it is - [lab-grown fat](2022/06/lab-grown-meat.md#fat)
 
 ---
 
-GHG? 80% CO2, 20% methane. Methane is 60% human caused, 40% natural.
+"@MoonmanND
 
-[[-]](2022/06/ghg-sources.html)
+The only vending machine has to connect to the internet apparently, so
+today I just don't get to eat breakfast I guess"
 
----
-
-That is a funny story \#leemack 
-
-[[-]](https://youtu.be/dmbpagijVkk?t=40)
+[[-]](https://twitter.com/MoonmanND/status/1537366091441356800)
 
 ---
 
-"@anjilslaire
+When dollar is strong, other countries have trouble securing the
+dollars to buy the oil with, ergo oil demand (and global price)
+decreases. Non-US demand would effect oil price more obviously there
+are more people outside US.
 
-I get in my car this afternoon to go to a Dr appointment and the
-dashboard screen says 'Update available. Park vehicle. Turn off
-ignition. Car will be inoperable until completion. ETA 15min'
-sigh. Paging @internetofshit"
-
----
-
-@EvanHillHB
-
-THIS TOASTER HAS A FUCKING HOME SCREEN
-
-[[-]](https://pbs.twimg.com/media/FVbMaftUYAAs7fC?format=jpg&name=small)
+The Balance: "When it comes to international trade for raw materials,
+the dollar is the exchange mechanism... When the value of the dollar
+drops, it costs more dollars to buy commodities. At the same time, it
+costs a lesser amount of other currencies when the dollar is moving
+lower"
 
 ---
 
-"@jasongoepfert
-
-More than 90% of stocks in the S&P 500 declined today.
-
-It's the 5th time in the past 7 days.
-
-Since 1928, there have been exactly 0 precedents. This is the most
-overwhelming display of selling in history"
+Historically there was a reverse correlation between dollar and oil.
+Strong dollar, weak oil, and vica versa. The relation broke recently
+we'll see if it sticks. Is the petrodollar system broken already?
 
 ---
 
-Hardball. RU is sending a message.
+Dollar and Oil
 
-WION: "Russia-Ukraine war: Italy's Eni says Gazprom to reduce gas
-supply Friday by 50%"
+```python
+import util
+df = pd.merge(util.get_yahoofin(1990,"CL=F"),
+              util.get_fred(1990,['DTWEXBGS']),
+              left_index=True,right_index=True)
+df.columns = ['oil','dollar']
+ax1 = df.dollar.plot(color='blue', grid=True, label='dollar')
+ax2 = df.oil.plot(color='red', grid=True, label='oil',secondary_y=True)
+h1, l1 = ax1.get_legend_handles_labels()
+h2, l2 = ax2.get_legend_handles_labels()
+plt.legend(h1+h2, l1+l2, loc=2)
+```
+
+<img width="200" src="https://pbs.twimg.com/media/FVgvWwKUcAIfD3k?format=png&name=small"/>
 
 ---
 
-NS1 and NS2 together would deliver upwards of 120 GW power. Insane amt
-of energy. 
+Investopedia: "With the Federal Reserve raising rates and expected to
+continue to do so, the U.S. Dollar has been growing stronger"
 
 ---
 
-NG has 10.55 kWh per cubic meters.  10.55 x 70 x 1e6 / (24 x 1000
-x1000) equals 30 GW, nearly half of Norstream 1.
+"The FED giveth, and the FED taketh away" Hah
 
-BBC: "The boss of Russian state-controlled gas giant Gazprom has said
-it is a case of 'our product, our rules' after the firm halved its
-supply to Germany.. to under 70m cubic metres per day - well under
-half the current rate"
+---
+
+"Flat is the new up". Heard on fin channel
+
+---
+
+Bloomberg: "'Not Buying This Dip,' Says BlackRock's Brazier"
+
+---
+
+Italy's Rome went gone long time ago - that helped Italy 
+
+---
+
+The coup culture is usually connected to a previous feudal culture;
+Greece and Asia Minor suffered various coups because of their earlier
+Roman / Byzantium / Ottoman past. Remember the Praetorian Guard? In
+sum, if agrarian-taxer-plunderer parasitic-government culture becomes
+entrenched, it creates the types of people in society who think anyone
+with military power can and should take the reins by force. This is
+the feudal way (other side effects are paternalism, hierarchy,
+inequality and more). Coups are, therefore, pre-modern creations
+experienced in countries on the road towards modernity.
+
+---
+
+Quora: "Why there have been frequent military coups in Pakistan as
+compared to it's neighbour India?..
+
+The British always divided Hindus and Muslims by treating Muslims
+preferentially by recruiting Muslims/Sikhs in army under the concept
+of Martial races. Indian army had excessive percentage of Pujabi
+Muslim Army units. The units were organised with people from single
+regions or castes. They were led by British officers and this resulted
+excessive allegiance by minority units like punjabi Muslims who
+imitated British officers and this perceived superiority complex
+exists even today in Pakistan society.  This was broken by India once
+India became free and the rule of Martial races in recruitment was
+buried. Chaudhries and sardars were thrown out of the window giving a
+body blow to Feudals. Feudalism was weakened by land reforms.
+Pakistan continued in the old ways.and new Feudals are the Army,
+Sardars in NWFP, KPK, POK, Baluchstan, Bueraucrats, and now a small
+bands of industrialists.
+
+---
+
+Janes Defense: "Reacting to pressure from NATO's former Warsaw Pact
+members and Russia's brutal war tactics in Ukraine, the alliance is
+ditching its thin, so-called tripwire line of defence along its
+eastern flank for a military posture more redolent of decades past:
+more troop deployments, more pre-positioned weapons and supplies
+across the region, and a return to Cold War-like pre-designated areas
+for particular allies to defend on short notice"
+
+---
+
+"A recent Bloomberg report called attention to the unwelcome but
+predictable consequences of broad Russia sanctions: “But some Biden
+administration officials are now privately expressing concern that
+rather than dissuading the Kremlin as intended, the penalties are
+instead exacerbating inflation, worsening food insecurity and
+punishing ordinary Russians more than Putin or his allies.”.. These
+harmful effects of broad sanctions should not come as a surprise to
+anyone that has followed these issues closely, since this is what
+almost always happens when a country’s entire economy is targeted for
+punishment. The inability to change the behavior of a targeted
+government is even less surprising, since it is extremely rare for
+unfriendly authoritarian states to knuckle under in the face of
+U.S.-led pressure campaigns"
+
+[[-]](https://responsiblestatecraft.org/2022/06/17/we-shouldve-known-sanctions-on-russia-wouldnt-work-as-intended/)
 
 ---
 
