@@ -1,0 +1,819 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_26bc4838369646e3a06faf9068a6e3ac {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_26bc4838369646e3a06faf9068a6e3ac" ></div>
+        
+</body>
+<script>    
+    
+            var map_26bc4838369646e3a06faf9068a6e3ac = L.map(
+                "map_26bc4838369646e3a06faf9068a6e3ac",
+                {
+                    center: [30.0, 20.0],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 3,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_125fde8582f648728f316ea000392137 = L.tileLayer(
+                "https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.jpg",
+                {"attribution": "Map tiles by \u003ca href=\"http://stamen.com\"\u003eStamen Design\u003c/a\u003e, under \u003ca href=\"http://creativecommons.org/licenses/by/3.0\"\u003eCC BY 3.0\u003c/a\u003e. Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://creativecommons.org/licenses/by-sa/3.0\"\u003eCC BY SA\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            var poly_line_f9ab3e226a534204902534ba50373dff = L.polyline(
+                [[-34.0, -64.0], [40.0, -4.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_f9ab3e226a534204902534ba50373dff.bindTooltip(
+                `<div>
+                     Argentina-Spain 390
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_f809d87b95204797a57de5215634d73e = L.polyline(
+                [[40.0, 45.0], [60.0, -95.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_f809d87b95204797a57de5215634d73e.bindTooltip(
+                `<div>
+                     Armenia-Canada 1935
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_526cb01ca2d046b699f68ba2cc6fc272 = L.polyline(
+                [[50.83333333, 4.0], [38.0, -97.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_526cb01ca2d046b699f68ba2cc6fc272.bindTooltip(
+                `<div>
+                     Belgium-United States 456
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_abed61dc7bac46b2aebfd29d05d07567 = L.polyline(
+                [[-17.0, -65.0], [33.0, 44.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_abed61dc7bac46b2aebfd29d05d07567.bindTooltip(
+                `<div>
+                     Bolivia-Iraq 310
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_07943975d764461291f7028a9a156d89 = L.polyline(
+                [[-17.0, -65.0], [-23.0, -58.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_07943975d764461291f7028a9a156d89.bindTooltip(
+                `<div>
+                     Bolivia-Paraguay 369
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_5981dfa831914a4db50e2cc31320fe8f = L.polyline(
+                [[-17.0, -65.0], [40.0, -4.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_5981dfa831914a4db50e2cc31320fe8f.bindTooltip(
+                `<div>
+                     Bolivia-Spain 808
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_a05195a62c40493fa3d6924deb116b16 = L.polyline(
+                [[-10.0, -55.0], [47.0, 20.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_a05195a62c40493fa3d6924deb116b16.bindTooltip(
+                `<div>
+                     Brazil-Hungary 438
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_f9ff28d190014be7b6acb95afbe90eac = L.polyline(
+                [[-10.0, -55.0], [42.83333333, 12.83333333]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_f9ff28d190014be7b6acb95afbe90eac.bindTooltip(
+                `<div>
+                     Brazil-Italy 915
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_299b90f3130d4cd58fd3ee9f95714d00 = L.polyline(
+                [[-10.0, -55.0], [39.5, -8.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_299b90f3130d4cd58fd3ee9f95714d00.bindTooltip(
+                `<div>
+                     Brazil-Portugal 2773
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_ac092dd572954e24833503d348b99ead = L.polyline(
+                [[-10.0, -55.0], [40.0, -4.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_ac092dd572954e24833503d348b99ead.bindTooltip(
+                `<div>
+                     Brazil-Spain 1939
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_f856cd3876884fe8abc6d6d0a5e09117 = L.polyline(
+                [[-30.0, -71.0], [42.83333333, 12.83333333]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_f856cd3876884fe8abc6d6d0a5e09117.bindTooltip(
+                `<div>
+                     Chile-Italy 533
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_6ac353b17d32449d8ecd78ee8ab57c5f = L.polyline(
+                [[-30.0, -71.0], [40.0, -4.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_6ac353b17d32449d8ecd78ee8ab57c5f.bindTooltip(
+                `<div>
+                     Chile-Spain 764
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_b4c00396f9db498a90a5caa8d780f3ba = L.polyline(
+                [[35.0, 105.0], [43.0, 25.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_b4c00396f9db498a90a5caa8d780f3ba.bindTooltip(
+                `<div>
+                     China-Bulgaria 4717
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_975fb0463cef4ff5adb516f78b3c7bbd = L.polyline(
+                [[35.0, 105.0], [-23.0, -58.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_975fb0463cef4ff5adb516f78b3c7bbd.bindTooltip(
+                `<div>
+                     China-Paraguay 380
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_3e579a04931541388d9f40b0dd1a3a03 = L.polyline(
+                [[4.0, -72.0], [50.83333333, 4.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_3e579a04931541388d9f40b0dd1a3a03.bindTooltip(
+                `<div>
+                     Colombia-Belgium 1473
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_cc6206b4d1b746e9b8e5c87a7e2c988a = L.polyline(
+                [[4.0, -72.0], [46.0, 2.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_cc6206b4d1b746e9b8e5c87a7e2c988a.bindTooltip(
+                `<div>
+                     Colombia-France 439
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_60f00bb8895e42edb132161e765a7a02 = L.polyline(
+                [[4.0, -72.0], [42.83333333, 12.83333333]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_60f00bb8895e42edb132161e765a7a02.bindTooltip(
+                `<div>
+                     Colombia-Italy 592
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_73eeffc3ed5d42e9805d72542b40a427 = L.polyline(
+                [[4.0, -72.0], [40.0, -4.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_73eeffc3ed5d42e9805d72542b40a427.bindTooltip(
+                `<div>
+                     Colombia-Spain 2685
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_37d3904a619e4bc1957cf52f4f4d25e4 = L.polyline(
+                [[4.0, -72.0], [38.0, -97.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_37d3904a619e4bc1957cf52f4f4d25e4.bindTooltip(
+                `<div>
+                     Colombia-United States 1762
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_943e012b44034f9c9a3942a8267554fa = L.polyline(
+                [[10.0, -84.0], [40.0, -4.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_943e012b44034f9c9a3942a8267554fa.bindTooltip(
+                `<div>
+                     Costa Rica-Spain 385
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_7af06430fcff414db2e26dde2d86a6ce = L.polyline(
+                [[19.0, -70.66666666], [40.0, 45.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_7af06430fcff414db2e26dde2d86a6ce.bindTooltip(
+                `<div>
+                     Dominican Republic-Armenia 2939
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_3cfe10bd00d943a7a0d4e02cce62af2b = L.polyline(
+                [[19.0, -70.66666666], [40.0, -4.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_3cfe10bd00d943a7a0d4e02cce62af2b.bindTooltip(
+                `<div>
+                     Dominican Republic-Spain 1328
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_6f375d55f1ca44f59c5a55ed8a2c2080 = L.polyline(
+                [[-2.0, -77.5], [40.0, -4.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_6f375d55f1ca44f59c5a55ed8a2c2080.bindTooltip(
+                `<div>
+                     Ecuador-Spain 4912
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_58906fbfe8bc405996602294722b4a1b = L.polyline(
+                [[15.5, -90.25], [23.0, -102.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_58906fbfe8bc405996602294722b4a1b.bindTooltip(
+                `<div>
+                     Guatemala-Mexico 9280
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_12e1048590f74aa3b3f7eac28e32bbf0 = L.polyline(
+                [[32.0, 53.0], [40.0, 45.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_12e1048590f74aa3b3f7eac28e32bbf0.bindTooltip(
+                `<div>
+                     Iran-Armenia 852
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_cca6cd60cbd6430286396ca01c3002ed = L.polyline(
+                [[32.0, 53.0], [50.83333333, 4.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_cca6cd60cbd6430286396ca01c3002ed.bindTooltip(
+                `<div>
+                     Iran-Belgium 505
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_d03d8a637b5a4e0e8226887dfd5b50e3 = L.polyline(
+                [[32.0, 53.0], [42.0, 43.5]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_d03d8a637b5a4e0e8226887dfd5b50e3.bindTooltip(
+                `<div>
+                     Iran-Georgia 927
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_3e3e6e5a527842aeaa48ccf0b1721492 = L.polyline(
+                [[32.0, 53.0], [52.5, 5.75]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_3e3e6e5a527842aeaa48ccf0b1721492.bindTooltip(
+                `<div>
+                     Iran-Netherlands 392
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_a3a72553944741e5a5dc6c2e498bac67 = L.polyline(
+                [[32.0, 53.0], [49.0, 32.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_a3a72553944741e5a5dc6c2e498bac67.bindTooltip(
+                `<div>
+                     Iran-Ukraine 605
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_b271344401884644b9ad5f6f1ca06d41 = L.polyline(
+                [[1.0, 38.0], [43.0, 25.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_b271344401884644b9ad5f6f1ca06d41.bindTooltip(
+                `<div>
+                     Kenya-Bulgaria 379
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_042d44dd263b4cc793b38ed54e4ec05c = L.polyline(
+                [[2.5, 112.5], [15.0, 100.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_042d44dd263b4cc793b38ed54e4ec05c.bindTooltip(
+                `<div>
+                     Malaysia-Thailand 1145
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_b051bfc41ef341b690907f635e90b1f7 = L.polyline(
+                [[52.5, 5.75], [39.0, 35.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_b051bfc41ef341b690907f635e90b1f7.bindTooltip(
+                `<div>
+                     Netherlands-Turkey 384
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_f0b6c6ade0a6420a8567491b024e7c06 = L.polyline(
+                [[30.0, 70.0], [9.5, 2.25]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_f0b6c6ade0a6420a8567491b024e7c06.bindTooltip(
+                `<div>
+                     Pakistan-Benin 759
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_b4c78d0fc4b84106810d9ba9249994fd = L.polyline(
+                [[30.0, 70.0], [60.0, -95.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_b4c78d0fc4b84106810d9ba9249994fd.bindTooltip(
+                `<div>
+                     Pakistan-Canada 716
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_493fa96a52914d53baad8f8effa1c33c = L.polyline(
+                [[30.0, 70.0], [32.0, 53.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_493fa96a52914d53baad8f8effa1c33c.bindTooltip(
+                `<div>
+                     Pakistan-Iran 2060
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_c1df63112df9407195d04e943cff1eab = L.polyline(
+                [[30.0, 70.0], [8.0, -5.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_c1df63112df9407195d04e943cff1eab.bindTooltip(
+                `<div>
+                     Pakistan-Ivory Coast 556
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_d0590f992379446db7cadb84d957d3a0 = L.polyline(
+                [[30.0, 70.0], [2.5, 112.5]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_d0590f992379446db7cadb84d957d3a0.bindTooltip(
+                `<div>
+                     Pakistan-Malaysia 1458
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_40c967fa18b84c7ba70a7c8393d68d09 = L.polyline(
+                [[30.0, 70.0], [10.0, 8.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_40c967fa18b84c7ba70a7c8393d68d09.bindTooltip(
+                `<div>
+                     Pakistan-Nigeria 12274
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_ef3a256398244ac4b7f483ec6b7ab906 = L.polyline(
+                [[30.0, 70.0], [25.0, 45.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_ef3a256398244ac4b7f483ec6b7ab906.bindTooltip(
+                `<div>
+                     Pakistan-Saudi Arabia 356
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_a91e5f71d47641ce8dfd6d007236b0c7 = L.polyline(
+                [[30.0, 70.0], [7.0, 81.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_a91e5f71d47641ce8dfd6d007236b0c7.bindTooltip(
+                `<div>
+                     Pakistan-Sri Lanka 374
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_e66c530a311f4bd9b1691141efc1b8f4 = L.polyline(
+                [[30.0, 70.0], [1.0, 32.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_e66c530a311f4bd9b1691141efc1b8f4.bindTooltip(
+                `<div>
+                     Pakistan-Uganda 391
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_81d591f41d4042f3a6caa6f4cdc9040e = L.polyline(
+                [[30.0, 70.0], [54.0, -2.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_81d591f41d4042f3a6caa6f4cdc9040e.bindTooltip(
+                `<div>
+                     Pakistan-United Kingdom 1560
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_637be4d167544007985953e46c01e68c = L.polyline(
+                [[-23.0, -58.0], [-17.0, -65.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_637be4d167544007985953e46c01e68c.bindTooltip(
+                `<div>
+                     Paraguay-Bolivia 1000
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_c755a59b78ec464380d3e2102d7ddc81 = L.polyline(
+                [[-23.0, -58.0], [42.83333333, 12.83333333]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_c755a59b78ec464380d3e2102d7ddc81.bindTooltip(
+                `<div>
+                     Paraguay-Italy 342
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_f69238f712d14a21a2136cc17e67a5e8 = L.polyline(
+                [[-10.0, -76.0], [40.0, -4.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_f69238f712d14a21a2136cc17e67a5e8.bindTooltip(
+                `<div>
+                     Peru-Spain 1320
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_89a3644ac2194e11b3b4b4142e19df15 = L.polyline(
+                [[39.5, -8.0], [40.0, -4.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_89a3644ac2194e11b3b4b4142e19df15.bindTooltip(
+                `<div>
+                     Portugal-Spain 1286
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_a2e53fc3d429483b878ec504fdfcc392 = L.polyline(
+                [[44.0, 21.0], [47.0, 20.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_a2e53fc3d429483b878ec504fdfcc392.bindTooltip(
+                `<div>
+                     Serbia-Hungary 514
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_0611183757c5488bb04489c3a246d56c = L.polyline(
+                [[18.033333, -63.05], [39.5, -8.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_0611183757c5488bb04489c3a246d56c.bindTooltip(
+                `<div>
+                     Sint Maarten-Portugal 1140
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_d4e3faa3b9fb4415ab8ce7ab797fae41 = L.polyline(
+                [[-6.0, 35.0], [54.0, -2.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_d4e3faa3b9fb4415ab8ce7ab797fae41.bindTooltip(
+                `<div>
+                     Tanzania-United Kingdom 351
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_54dbb5440cee4cd0a14a8703b029d8e1 = L.polyline(
+                [[-6.0, 35.0], [-15.0, 30.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_54dbb5440cee4cd0a14a8703b029d8e1.bindTooltip(
+                `<div>
+                     Tanzania-Zambia 492
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_a6a383e6d8e4423488073278bcb81c97 = L.polyline(
+                [[39.0, 35.0], [43.0, 25.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_a6a383e6d8e4423488073278bcb81c97.bindTooltip(
+                `<div>
+                     Turkey-Bulgaria 1886
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_b8809ab005134069966c33a12c06bf33 = L.polyline(
+                [[54.0, -2.0], [42.83333333, 12.83333333]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_b8809ab005134069966c33a12c06bf33.bindTooltip(
+                `<div>
+                     United Kingdom-Italy 329
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_261a5015ecf64c92b99d7894c3a3d6fa = L.polyline(
+                [[8.0, -66.0], [39.5, -8.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_261a5015ecf64c92b99d7894c3a3d6fa.bindTooltip(
+                `<div>
+                     Venezuela-Portugal 534
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_890f71e164d5499782439c5709f37bfb = L.polyline(
+                [[8.0, -66.0], [40.0, -4.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_26bc4838369646e3a06faf9068a6e3ac);
+        
+    
+            poly_line_890f71e164d5499782439c5709f37bfb.bindTooltip(
+                `<div>
+                     Venezuela-Spain 1148
+                 </div>`,
+                {"sticky": true}
+            );
+        
+</script>
