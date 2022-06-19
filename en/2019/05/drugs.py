@@ -13,10 +13,9 @@ def concat():
     res = []
     for i in range(2011,2017):
         res.append(pd.read_csv("drugs-%d.csv" % i,sep=';'))
-
     df = pd.concat(res)
     df = df[df['DRUG_NAME'].str.contains("Cannabis")==False]
-    df.to_csv('out.csv',sep=';',index=None)
+    #df.to_csv('out.csv',sep=';',index=None)
 
 # ecstasy $30 per 300 mg tablet 
 # pseudoephedrine $11 for a supply of 24 30 mg tablets 
@@ -37,10 +36,15 @@ def drugs():
     with zipfile.ZipFile(f, 'r') as z:
         df = pd.read_csv(z.open('drug-trafficking-unodc.csv'),sep=';')
 
+        df['weight'] = df[df['DRUG_UNIT']=='Gram']['AMOUNT']/1000.0
+        df['weight'] = df[df['DRUG_UNIT']=='Kilogram']['AMOUNT']
+        df = df.dropna(subset=['weight'])
+        
         def chgcountry(x,y):
             df.loc[df['DESTINATION_COUNTRY']==x,'DESTINATION_COUNTRY'] = y
             df.loc[df['COUNTRY']==x,'COUNTRY'] = y
             df.loc[df['DEPARTURE_COUNTRY']==x,'DEPARTURE_COUNTRY'] = y
+            df.loc[df['PRODUCING_COUNTRY']==x,'PRODUCING_COUNTRY'] = y
             
         chgcountry('Russian Federation','Russia')
         chgcountry('Bolivia, Plurinational State of','Bolivia')
@@ -51,24 +55,62 @@ def drugs():
         chgcountry('Korea, Republic of','South Korea')
         chgcountry('Taiwan, Province of China','Taiwan')
         chgcountry('Congo, the Democratic Republic of the','Congo')
+        chgcountry('United Kingdom (England and Wales)','United Kingdom')
+        chgcountry('Iraq (Central Iraq)','Iraq')
+        chgcountry('Cabo Verde','Cape Verde')
+        chgcountry("Côte d'Ivoire","Ivory Coast")
+        chgcountry('Trinidad and Tobago','Trinidad And Tobago')
+        chgcountry('Viet Nam','Vietnam')
+        chgcountry('Libyan Arab Jamahiriya','Libya')
+        chgcountry('Syrian Arab Republic','Syria')
+        chgcountry('Kosovo under UNSCR 1244','Kosovo')
+        chgcountry('Lao Peoples Democratic Republic','Laos')
+        chgcountry('Macau, SAR of China','Macau')
+        chgcountry("Netherlands Antilles","Sint Maarten")
+        chgcountry('Guernsey','Guernsey and Alderney')
+        chgcountry("Korea, Democratic People's Republic of","North Korea")
+        chgcountry('Réunion','Reunion')
+        chgcountry('Bosnia and Herzegovina','Bosnia')
         
         df['dest'] = df['DESTINATION_COUNTRY']
-        f = df['dest'].str.contains('nan') | df['dest'].str.contains('Unknown')
-        df.loc[f,'dest'] = df['COUNTRY']
+        def chg_dest(x):
+            if x['dest']=='nan' or x['dest']=='Unknown':
+                if x['COUNTRY']!='nan' and x['COUNTRY'] != 'Unknown':
+                    return x['COUNTRY']
+            return x['dest']
+               
+        df['dest'] = df.apply(chg_dest, axis=1)        
         
-        for index, row in df.iterrows():
-            if 'Unknown' in str(row['dest']) or 'nan' in str(row['dest']): continue
-            print (row['dest'])
+        df['source'] = df['DEPARTURE_COUNTRY']
+        def chg_source(x):
+            if x['source']=='nan' or x['source']=='Unknown':
+                if x['PRODUCING_COUNTRY']!='nan' and x['PRODUCING_COUNTRY']!='Unknown':
+                    return x['PRODUCING_COUNTRY']
+            return x['source']
 
-    #    dest=row['DESTINATION_COUNTRY']
-    #if row['DEPARTURE_COUNTRY']=='nan' or row['DEPARTURE_COUNTRY']=='Unknown':
-    #    if row['PRODUCING_COUNTRY']!='nan' and row['PRODUCING_COUNTRY']!='Unknown':
-    #        source = row['PRODUCING_COUNTRY']
-    #else:
-    #    dest = row['DEPARTURE_COUNTRY']
-    #if source=='' or dest == '' or 'nan' in source or 'nan' in dest: continue
-    #print (source,'-',dest)
-    
+        
+        df['source'] = df.apply(chg_source, axis=1)        
+
+        df = df[df['source'].str.contains('Unknown')==False]
+        df = df[df['dest'].str.contains('Unknown')==False]
+
+        g = df.groupby(['source','dest']).sum()[['weight']]
+        g = g.reset_index()
+        
+        m = folium.Map(location=[30, 20], zoom_start=3, tiles="Stamen Terrain")
+        for index, row in g.iterrows():
+            if row['source']==row['dest']: continue
+            if row['source']=='Other' or row['dest']=='Other': continue
+            if row['weight'] < 300: continue
+            points = [
+                [cdict[row['source']]['latitude'],cdict[row['source']]['longitude']],
+                [cdict[row['dest']]['latitude'],cdict[row['dest']]['longitude']]
+            ]
+            ts = row['source']+"-"+row['dest'] + " " + str(int(row['weight']))
+            folium.PolyLine(points, color='blue', weight=2.0, tooltip=ts).add_to(m)
+
+        m.save('drugs-out.html')
+                            
 if __name__ == "__main__": 
 
     drugs()
