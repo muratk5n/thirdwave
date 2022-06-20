@@ -107,7 +107,7 @@ Al Jazeera: "Apple Inc workers in Maryland, US vote to join a union"
 ---
 
 All previous reports, graphs, maps shared are accessible from the
-[reports](2019/05/reports.html) page.
+[reports](../../2019/05/reports.html) page.
 
 ---
 
@@ -116,7 +116,7 @@ Likely due to the "war against fat" wave..
 
 ---
 
-Aaand here it is - [lab-grown fat](2022/06/lab-grown-meat.md#fat)
+Aaand here it is - [lab-grown fat](../../2022/06/lab-grown-meat.html#fat)
 
 ---
 
