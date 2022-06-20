@@ -49,9 +49,9 @@ part in women's races"
 
 ---
 
-Sea canals, if large enough, could also provide a natural border,
-barrier and protection.  All neighbors of Russia, build your canals
-now! If I were Kazakhstan I'd start diggin ASAP.
+Canals, if large enough, could also provide a natural border, barrier
+and protection.  All neighbors of Russia, build your canals now! If I
+were Kazakhstan I'd start diggin ASAP.
 
 ---
 
