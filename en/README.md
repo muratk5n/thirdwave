@@ -35,12 +35,6 @@ Investments in Low-Carbon Hydrogen appeared first on Hydrogen Central"
 
 ---
 
-[Link](https://youtu.be/GLDvtpSC_98)
-
----
-
-It's a beumb
-
 The Independent: "A man in Pennsylvania man died after he attempted to
 light a cigarette while using an oxygen concentrator at his home in
 North Coventry Township"
