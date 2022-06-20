@@ -81,8 +81,8 @@ Beta wasn't low enough, now we are switching to gamma.
 
 ---
 
-On some issues the Chinese act like the worst type of centrist
-gamma cuck Democrat. 
+On some issues the Chinese act like the worst type of Democrat
+centrist gamma cuck.
 
 NDTV: "China's mass testing mantra is building a waste mountain"
 
