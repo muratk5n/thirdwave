@@ -17,6 +17,10 @@ them into weights as well. I filter out all cannabis related transport
 as this drug is becoming accepted at the same level of alcohol these
 days, report's focus is harder drugs.
 
+Routes are drawn from country's center coordinate to another's center
+coordinate, the places per country are nothing special (they are not
+cities, ports).
+
 Arrest location counts below;
 
 ```python
