@@ -138,7 +138,7 @@ I wonder what Petro will do about the Colombian drug trade
 
 The left in ascendance. 
 
-The Independent: "Colombia picks 1st leftist president [Petros] in
+The Independent: "Colombia picks 1st leftist president [Petro] in
 tight runoff contest"
 
 ---
