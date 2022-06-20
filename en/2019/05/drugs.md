@@ -2,18 +2,20 @@
 
 ### Routes
 
-Data comes from arrests, if they caught it en route, from and to
-country were recorded, or the intented destination had the transport
-went ahead. Sometimes source, target is missing. If they record the
-production country of the drug I take that as source if missing. If
-destination is missing, I take country of arrest as final destination.
+Data comes from UNODC, collected from individual arrests between
+2011-2016. If they caught the smuggling en route from and to country
+are usually recorded, or the intented destination had the transport
+went ahead. Sometimes source, target is missing, but if they recorded
+the production country I take that as source. If destination is
+missing, I take country of arrest as final destination.
 
-Per route weights of all drugs are summed as if they are one drug, to
-give a general idea. I multiply tablet quantity with 100 mg per tablet
-to turn it into weight. I filtered out all cannabis related transport
-as it is becoming accepted as a soft drug anyway, at a level of
-alcohol in US.
-
+Report treats the weights of all drugs as equivalent, they are summed
+per from-to route, to give a general idea of the importance of each
+route. I multiply tablet quantities with 100 mg per tablet to turn
+them into weights as well. I filter out all cannabis related transport
+as this drug is becoming accepted at the same level of alcohol these
+days, report's focus is harder drugs, opium, heroine, meth, and
+others.
 
 The strategy followed is to sum weight of all drugs
 
