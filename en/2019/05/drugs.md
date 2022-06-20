@@ -6,8 +6,8 @@ Data comes from UNODC, apparently based on law enforcement data on
 individual arrests between 2011-2016. If they caught the smuggling en
 route from-to-country they are usually recorded. Sometimes source,
 target is missing, but if they recorded the production country, code
-takes that as source, if destination is missing,country of arrest as
-destination is used.
+takes that as source, if destination is missing, country of arrest is
+used.
 
 Report treats the weights of all drugs as equivalent, they are summed
 per route, to give a general idea of the importance of each
