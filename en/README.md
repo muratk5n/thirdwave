@@ -133,11 +133,11 @@ naturally such as Colombia.
 
 ---
 
-I wonder what will Petros will do about the Colombian drug trade
+I wonder what Petro will do about the Colombian drug trade
 
 ---
 
-The left in ascendance.
+The left in ascendance. 
 
 The Independent: "Colombia picks 1st leftist president [Petros] in
 tight runoff contest"
