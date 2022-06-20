@@ -71,10 +71,6 @@ against the Kremlin"
 
 ---
 
-No it isn't overrated
-
----
-
 Overkill
 
 NDTV: "China's mass testing mantra is building a waste mountain"
