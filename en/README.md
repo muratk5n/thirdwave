@@ -26,9 +26,9 @@ Southern Green Hydrogen project"
 
 ---
 
-"Chevron Eyes $2.5bn Investments in Low-Carbon Hydrogen.. Chevron
-plans to spend about $2.5-billion building up its hydrogen business
-this decade as the oil major accelerates investment in low-carbon
+"Chevron Eyes 2.5bn Investments in Low-Carbon Hydrogen.. Chevron plans
+to spend about 2.5-billion building up its hydrogen business this
+decade as the oil major accelerates investment in low-carbon
 technologies. Chevron will develop both green and blue hydrogen, said
 Austin Knight, vice president of […] The post Chevron Eyes $2.5bn
 Investments in Low-Carbon Hydrogen appeared first on Hydrogen Central"
