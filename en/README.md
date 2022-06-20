@@ -77,12 +77,7 @@ against the Kremlin"
 
 ---
 
-Beta wasn't low enough, now we are switching to gamma.
-
----
-
-On some issues the Chinese act like the worst type of Democrat
-centrist gamma cuck.
+Overtesting
 
 NDTV: "China's mass testing mantra is building a waste mountain"
 
