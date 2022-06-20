@@ -10,7 +10,10 @@ destination is missing, I take country of arrest as final destination.
 
 Per route weights of all drugs are summed as if they are one drug, to
 give a general idea. I multiply tablet quantity with 100 mg per tablet
-to turn it into weight. I filtered out all cannabis related transport.
+to turn it into weight. I filtered out all cannabis related transport
+as it is becoming accepted as a soft drug anyway, at a level of
+alcohol in US.
+
 
 The strategy followed is to sum weight of all drugs
 
