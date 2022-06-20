@@ -1,30 +1,18 @@
 import zipfile, folium
 import pandas as pd
 
-# country lat,lon in countries.csv
-
-# data from https://dataunodc.un.org/ids DS Report 2011-2016.xlsx
+# data from https://dataunodc.un.org/ids 
 def preproc():
-    xls = pd.ExcelFile('drugs.xlsx')
-    df1 = pd.read_excel(xls, '2011') # repeat for 2012,2013,..
-    df1.to_csv('drugs-2011.csv',sep=';',index=None)
-
-def concat():    
-    res = []
+    xls = pd.ExcelFile('ids DS Report 2011-2016.xlsx')
     for i in range(2011,2017):
-        res.append(pd.read_csv("drugs-%d.csv" % i,sep=';'))
-    df = pd.concat(res)
+        df = pd.read_excel(xls, str(i)) 
+        df.to_csv('drugs-2011.csv',sep=';',index=None)
+    dfs = []
+    for i in range(2011,2017):
+        dfs.append(pd.read_csv("drugs-%d.csv" % i,sep=';'))
+    df = pd.concat(dfs)
     df = df[df['DRUG_NAME'].str.contains("Cannabis")==False]
-    #df.to_csv('out.csv',sep=';',index=None)
-
-# ecstasy $30 per 300 mg tablet 
-# pseudoephedrine $11 for a supply of 24 30 mg tablets 
-# methamphetamine $50 per gram
-# synthetic cannabinoid
-# buprenorphine $72.33 for 10, 8MG Tablet Sublingual
-# heroine $152 per gram 
-# cocaine $100 per gram
-# opium $34 per gram, estimated yields of heroin from raw opium are between 6 percent and 10 percent.
+    dfs.to_csv('/tmp/drug-trafficking-unodc.csv',sep=';',index=None)
     
 def drugs():
 
