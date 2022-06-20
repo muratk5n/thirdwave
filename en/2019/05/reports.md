@@ -12,7 +12,7 @@
 
 [Unarmed Non-Whites Shot By the Police](confstats.html#unarmed)
 
-[US Bases](usmil.html#bases)
+[US Military (Bases, Nukes)](usmil.html)
 
 [Oil and Gas](oilgas.html)
 

@@ -1,4 +1,4 @@
-# US Bases and Navy Locations
+# US Military
 
 <a name='bases'/>
 
