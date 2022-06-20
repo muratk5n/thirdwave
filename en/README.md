@@ -190,11 +190,9 @@ officially partake in it themselves.
 ---
 
 Data from a UN agency, at least some vaguely proper data is there this
-time, but they put each year in a seperate Excel sheet. Brother, why
-do some people are so against a single flat file with everything? I
-had to write bunch of extra "preprocessing" code to combine stuff. Do
-a simple file.  Put it on Github so it is version controlled. This is
-all easy stuff.
+time, but every year's data is in a seperate Excel sheet. ??. I had to
+write extra "preprocessing" code to combine stuff. Keep it simple.
+Put data on Github so it is version controlled. 
 
 ---
 
