@@ -96,8 +96,9 @@ Segments about young people are getting old.. Funny. And sad.
 
 ---
 
-Program about "generation change"; the younger generation supposedly
-wanting change and proposing stuff.. Even that is getting old.
+News segment about "generation change"; the younger generation
+supposedly wanting change and proposing stuff.. Even that is getting
+old.
 
 ---
 
