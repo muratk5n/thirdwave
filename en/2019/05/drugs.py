@@ -36,6 +36,7 @@ def drugs():
     with zipfile.ZipFile(f, 'r') as z:
         df = pd.read_csv(z.open('drug-trafficking-unodc.csv'),sep=';')
 
+        df['weight'] = df[df['DRUG_UNIT']=='Tablet']['AMOUNT']*0.0001
         df['weight'] = df[df['DRUG_UNIT']=='Gram']['AMOUNT']/1000.0
         df['weight'] = df[df['DRUG_UNIT']=='Kilogram']['AMOUNT']
         df = df.dropna(subset=['weight'])
