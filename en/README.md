@@ -162,13 +162,13 @@ Taliban are jihadi mofos too, in a different way
 
 ---
 
-Maybe "somebody" was bothered about their drug money being cut, over
-on the Pakistani side, ppl with connection in mil and a line into the
-jihadi m--f--kers, used one of them to send a message.
+Maybe "somebody" was bothered about their drug money being cut on the
+Pakistani side, ppl with connection in mil and a line into the jihadi
+m--f--kers used one of them to send a message.
 
 ---
 
-Hmm.. Coincidence?
+Coincidence? Hmmm
 
 CBC News: "Islamic State says attack on Sikh temple is revenge for Prophet insults"
 
