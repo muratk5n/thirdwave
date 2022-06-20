@@ -141,8 +141,8 @@ tight runoff contest"
 
 ---
 
-French leftist coalition reached second place in votes, Le Pen made
-some gains too..
+French leftist coalition earned second place in parliamentary seats,
+Le Pen made some gains too..
 
 ---
 
