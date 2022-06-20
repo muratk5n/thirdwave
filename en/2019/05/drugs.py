@@ -14,14 +14,11 @@ def preproc():
     df = df[df['DRUG_NAME'].str.contains("Cannabis")==False]
     dfs.to_csv('/tmp/drug-trafficking-unodc.csv',sep=';',index=None)
     
-def drugs():
-
-    f = 'drug-trafficking-unodc.zip'
-    c = 'countries.csv'
-    c = pd.read_csv(c)
+def routes_map():
+    c = pd.read_csv('countries.csv')
     cdict = c[['name','latitude','longitude']].set_index('name').to_dict('index')
 
-    with zipfile.ZipFile(f, 'r') as z:
+    with zipfile.ZipFile('drug-trafficking-unodc.zip', 'r') as z:
         df = pd.read_csv(z.open('drug-trafficking-unodc.csv'),sep=';')
 
         df['weight'] = df[df['DRUG_UNIT']=='Tablet']['AMOUNT']*0.0001
@@ -66,8 +63,7 @@ def drugs():
             if x['dest']=='nan' or x['dest']=='Unknown':
                 if x['COUNTRY']!='nan' and x['COUNTRY'] != 'Unknown':
                     return x['COUNTRY']
-            return x['dest']
-               
+            return x['dest']               
         df['dest'] = df.apply(chg_dest, axis=1)        
         
         df['source'] = df['DEPARTURE_COUNTRY']
@@ -75,9 +71,7 @@ def drugs():
             if x['source']=='nan' or x['source']=='Unknown':
                 if x['PRODUCING_COUNTRY']!='nan' and x['PRODUCING_COUNTRY']!='Unknown':
                     return x['PRODUCING_COUNTRY']
-            return x['source']
-
-        
+            return x['source']        
         df['source'] = df.apply(chg_source, axis=1)        
 
         df = df[df['source'].str.contains('Unknown')==False]
@@ -102,6 +96,6 @@ def drugs():
                             
 if __name__ == "__main__": 
 
-    drugs()
+    routes_map()
 
     
