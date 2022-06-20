@@ -97,15 +97,6 @@ The output of the code is below
 
 [Output](conflict-out.html)
 
-
-<a name='gdeltukr'/>
-
-### GDELT Ukraine
-
-[Script](confstat-ukr.py)
-
-[Output](conflict-ukr-out.html)
-
 <a name='gdtroop'/>
 
 ### GDELT, Troop Deployments

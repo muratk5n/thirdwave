@@ -4,17 +4,16 @@
 
 Data comes from UNODC, apparently based on law enforcement data on
 individual arrests between 2011-2016. If they caught the smuggling en
-route from-to-country they are usually recorded, or the intented
-destination had the transport went ahead. Sometimes source, target is
-missing, but if they recorded the production country I take that as
-source. If destination is missing, I take country of arrest as
-destination.
+route from-to-country they are usually recorded. Sometimes source,
+target is missing, but if they recorded the production country code
+takes that as source, if destination is missing,country of arrest as
+destination is used.
 
 Report treats the weights of all drugs as equivalent, they are summed
-per route, to give a general idea of the importance of each route. I
-also multiply tablet based drugs with 100 mg per tablet, to turn them
-into a kilo weight as well. Cannabis arrests are removed to focus on
-harder drugs.
+per route, to give a general idea of the importance of each
+route. Code also multiplies tablet based drugs with 100 mg per tablet,
+to turn them into a kilo weight. Cannabis arrests are removed to focus
+on harder drugs.
 
 Routes are drawn from country's center coordinate to another's center
 coordinate, so the places seen at end points of routes are nothing
