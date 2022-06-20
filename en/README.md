@@ -101,7 +101,7 @@ wanting change and proposing stuff.. Even that is getting old.
 
 ---
 
-Heard on a news network: "[US] military-entertainment complex"
+"[US] military-entertainment complex". Yes.
 
 ---
 
