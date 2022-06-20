@@ -55,7 +55,7 @@ now! If I were Kazakhstan I'd start diggin ASAP.
 
 ---
 
-Maybe we should just dig canals everywhere instead of bulding roads.
+Maybe we should just dig canals everywhere instead of bulding roads 🤨
 
 ---
 
