@@ -95,10 +95,6 @@ old.
 
 ---
 
-"[US] military-entertainment complex". Yes.
-
----
-
 Hindustan Times: "UK pushed 100,000 people into poverty by lifting pension age"
 
 ---
