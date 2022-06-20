@@ -35,10 +35,6 @@ Investments in Low-Carbon Hydrogen appeared first on Hydrogen Central"
 
 ---
 
-My man Toro.. this guy's done it all. That Jacobian derivation kicked ass 
-
----
-
 [Link](https://youtu.be/GLDvtpSC_98)
 
 ---
