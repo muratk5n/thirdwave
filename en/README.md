@@ -68,8 +68,8 @@ friction to worry about on land.. it messes up everything.
 
 ---
 
-They also seem to have a major drug trafficking problem - see the drug
-map below.
+They also have a major drug trafficking problem - see the drug map
+below.
 
 "Bulgaria’s government faces collapse this week.. PM Kiril Petkov
 sought to tackle rampant corruption and to take a strong position
