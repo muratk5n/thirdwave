@@ -49,12 +49,6 @@ part in women's races"
 
 ---
 
-Canals, if large enough, could also provide a natural border, barrier
-and protection.  All neighbors of Russia, build your canals now! If I
-were Kazakhstan I'd start diggin ASAP.
-
----
-
 Maybe we should just dig canals everywhere instead of bulding roads 🤨
 
 ---
