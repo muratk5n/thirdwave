@@ -67,12 +67,12 @@ dens = 33.6 # kWh/kg
 kg_vol = 28 # kg/m^3 at 350 bars
 v = 10 # m/s, conservative flow speed
 A = 1 # m^2, pipe crosssection area
-kg_1h = v*A*kg_vol*60*60
-print (kg_1h*dens / 1000.0, 'MWh')
+kg_1h = v*A*kg_vol*60*60 # in one hour
+print (kg_1h*dens / 1000.0, 'MW')
 ```
 
 ```text
-33868.8 MWh
+33868.8 MW
 ```
 
 This is the power carried by gas pipeline in one hour compared to 2400

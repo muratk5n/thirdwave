@@ -49,7 +49,7 @@ part in women's races"
 
 ---
 
-Maybe we should just dig canals everywhere instead of bulding roads 🤨
+Maybe we should just dig canals everywhere instead of building roads 🤨
 
 ---
 
