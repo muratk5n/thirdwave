@@ -44,7 +44,7 @@ production technologies.
 
 Nuclear, Molten Salt
 
-A molten salt reactor (MSR) is a class of nuclear fission
+Wikipedia: "A molten salt reactor (MSR) is a class of nuclear fission
 reactor in which the primary nuclear reactor coolant and/or the fuel
 is a molten salt mixture... 1960's Molten-Salt Reactor Experiment
 aimed to prove the concept of a nuclear power plant which implements a
@@ -55,6 +55,18 @@ technology, with multiple nations having projects and, as of September
 
 A further key characteristic of MSRs is operating temperatures of
 around 700 °C (1,292 °F), significantly higher than traditional LWRs
-at around 300 °C (572 °F).. economical hydrogen production.
+at around 300 °C (572 °F).. economical hydrogen production"
+
+[PDF](https://inis.iaea.org/collection/NCLCollectionStore/_Public/45/068/45068136.pdf)
+
+"Thorium is three to five times more abundant than uranium in the
+earth's crust..  produces less radiotoxicity than the U02 because it
+produces fewer amounts of actinides, reducing the radiotoxicity of
+long life nuclear waste. Th02 has higher corrosion resistance than
+U02, besides being chemically stable due to their low water
+solubility. The burning of Pu in a reactor based in thorium also
+decreases the inventories of Pu from the current fuel cycles,
+resulting in lower risks of material diversion for use in nuclear
+weapons"
 
 [[⇪Up]](h2-production.html)
