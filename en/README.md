@@ -22,9 +22,8 @@ one of the largest in the world for the production of green H2"
 ---
 
 H2 Fuel News: "Charbone plan to establish a green hydrogen production
-facility in Nova Scotia, Canada with its announcement today (June 21)
-of a signed Memorandum of Understanding (MoU) with Port Hawkesbury
-Paper (PHP)"
+facility in Nova Scotia, Canada with its announcement of a signed
+Memorandum of Understanding (MoU) with Port Hawkesbury Paper (PHP)"
 
 ---
 
