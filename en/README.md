@@ -8,11 +8,6 @@ Pinned Tweet
 
 ---
 
-
-
-
----
-
 H2 View: "BP hydrogen team gets a shot in the arm as oil giant bets on
 H2.. This announcement has also arrived as the company announced that
 it would be purchasing a 40.5 percent stake in an Australian renewable
