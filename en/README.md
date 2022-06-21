@@ -54,7 +54,7 @@ Maybe we should just dig canals everywhere instead of bulding roads 🤨
 ---
 
 Hah. Floating stuff vs land transport.. If you do the physics, that
-would probably check out. Moving stuff horizontally on sea probably
+would likely check out. Moving stuff horizontally on sea probably
 takes less energy than on land, even with rail. There is that pesky
 friction to worry about on land.. it messes up everything.
 
