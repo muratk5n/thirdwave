@@ -112,9 +112,9 @@ near the border in Qalqilya city."
 
 ---
 
-If govs wanted these ppl can be hurt in a big way at the major hubs,
-UK, Spain, Italy (which made a big bust recently). At sources too
-naturally such as Colombia. 
+If govs wanted drug traffickers can be hurt in a big way at the major
+hubs, UK, Spain, Italy (which made a big bust recently). At sources
+too naturally such as Colombia.
 
 ---
 
