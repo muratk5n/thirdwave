@@ -1,5 +1,7 @@
 # Thermo-Chemical Water Splitting
 
+Solar
+
 [DOE](https://www.energy.gov/eere/fuelcells/hydrogen-production-thermochemical-water-splitting)
 
 Thermochemical water splitting uses high temperatures—from
@@ -37,5 +39,22 @@ emissions using water and either sunlight or nuclear energy...
 Exciting progress continues in this field, leveraging synergies with
 concentrated solar power technologies, and with emerging solar-fuel
 production technologies.
+
+<a name='thorium'/>
+
+Nuclear, Molten Salt
+
+A molten salt reactor (MSR) is a class of nuclear fission
+reactor in which the primary nuclear reactor coolant and/or the fuel
+is a molten salt mixture... 1960's Molten-Salt Reactor Experiment
+aimed to prove the concept of a nuclear power plant which implements a
+thorium fuel cycle in a breeder reactor. Increased research into
+Generation IV reactor designs began to renew interest in the
+technology, with multiple nations having projects and, as of September
+2021, China is on the verge of starting its TMSR-LF1 thorium MSR..
+
+A further key characteristic of MSRs is operating temperatures of
+around 700 °C (1,292 °F), significantly higher than traditional LWRs
+at around 300 °C (572 °F).. economical hydrogen production.
 
 [[⇪Up]](h2-production.html)
