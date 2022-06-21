@@ -27,3 +27,17 @@ mobilize labor to dig canals stretching hundreds of miles through
 rocky, undulating landscapes with little more than stone picks. All to
 float what was the pinnacle of human transport technology well into
 the second millennium CE: the lowly barge.
+
+<a name='untouchables'/>
+
+The Untouchables
+
+Human poo proved to be one of the best fertilizer and growth mediums
+not just in the pre-civilized world, but right up until the mass
+introduction of chemical fertilizers in the mid-nineteenth century—and
+in some parts of the world, even today. Managing poo introduced us to
+some of our first class- based distinctions. After all, no one really
+wanted to gather and inventory and distribute and . . . apply the
+stuff. It is part of why India’s Untouchables were/are so
+. . . untouchable—they did the messy work of collecting and
+distributing “night soil.” *
