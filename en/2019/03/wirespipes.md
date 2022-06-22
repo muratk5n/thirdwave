@@ -75,8 +75,8 @@ print (kg_1h*dens / 1000.0, 'MW')
 33868.8 MW
 ```
 
-This is the power carried by gas pipeline in one hour compared to 2400
-MWh by typical 765 kV electrical tower.
+This is the power carried by gas pipeline compared to 2400 MW by
+typical 765 kV electrical tower.
 
 <a name='doe'/>
 
