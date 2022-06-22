@@ -113,7 +113,7 @@ I said "know how to sell" but get the policy right first.
 ---
 
 If exclusively emphasized green production was the right play, after
-all this investment and though-energy going into them, this would be
+all this investment and thought-energy going into them, this would be
 their moment to shine. Where are they? All the talk is about Russian,
 Qatari gas, Saudi Arabia and now coal (it's back!)  which people were
 thinking was being phased out.
