@@ -27,8 +27,8 @@ hydrogen fuel cell trucks by 2025"
 
 ---
 
-H2 View: "A 600m hydrogen distribution network planned between Sydney
-and Melbourne, Australia.. It was announced a A$600m (413.3m) green
+H2 View: "A hydrogen distribution network planned between Sydney and
+Melbourne, Australia.. It was announced a A$600m (413.3m) green
 hydrogen distribution network in Australia has been agreed to be
 planned and built by Hydrogen Fuels Australia (H2FA) and CLARA
 Energy."
