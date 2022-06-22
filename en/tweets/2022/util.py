@@ -1,7 +1,7 @@
-import pandas as pd, datetime, numpy as np
+import pandas as pd, datetime, numpy as np, requests
 import requests, urllib.parse, json
 from pandas_datareader import data, wb
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt, math
 
 from skimage.color import rgb2gray, rgb2lab, deltaE_cie76
 from skimage.segmentation import felzenszwalb
@@ -9,11 +9,59 @@ from skimage.morphology import binary_closing
 from skimage import io, measure
 
 import simplegeomap as sm, json, util
-
 import datetime, time as timelib
 import urllib.request as urllib2
 from io import BytesIO
 import pandas_ta as ta
+
+def eq_at(lat,lon,radius=2000,ago=20):
+    lat1,lon1 = to_bearing(lat,lon,np.deg2rad(45),radius)
+    lat2,lon2 = to_bearing(lat,lon,np.deg2rad(225),radius)
+    minx=np.min((lon1,lon2))
+    maxx=np.max((lon1,lon2))
+    miny=np.min((lat1,lat2))
+    maxy=np.max((lat1,lat2))
+    df = get_eq(minx,maxx,miny,maxy,days=ago)
+    return df
+    
+
+def get_eq(minx,maxx,miny,maxy,days,today = datetime.datetime.now()):    
+    start = today - datetime.timedelta(days=days)
+
+    req = 'https://earthquake.usgs.gov/fdsnws'
+    req+='/event/1/query.geojson?starttime=%s&endtime=%s'
+    req+='&minlatitude=%d&maxlatitude=%d&minlongitude=%d&maxlongitude=%d'
+    req+='&minmagnitude=3.0&orderby=time&limit=300'
+    req = req % (start.isoformat(), today.isoformat(),miny,maxy,minx,maxx)
+    qr = requests.get(req).json()
+    res = []
+    for i in range(len(qr['features'])):
+        lat = qr['features'][i]['geometry']['coordinates'][1]
+        lon = qr['features'][i]['geometry']['coordinates'][0]
+        rad = qr['features'][i]['geometry']['coordinates'][2]
+        d = datetime.datetime.fromtimestamp(qr['features'][i]['properties']['time']/1000.0)
+        s = np.float(qr['features'][i]['properties']['mag'])
+        diff = (today-d).days+1
+        res.append([d,s,lat,lon,rad,diff])
+
+    df = pd.DataFrame(res).sort_values(by=0)
+    df.columns = ['date','mag','lat','lon','rad','ago']
+    df = df.set_index('date')
+    
+    return df
+
+def to_bearing(lat,lon,brng,d):
+    R = 6378.1 #Radius of the Earth
+    lat1 = math.radians(lat)
+    lon1 = math.radians(lon)
+    lat2 = math.asin( math.sin(lat1)*math.cos(d/R) +
+         math.cos(lat1)*math.sin(d/R)*math.cos(brng))
+    lon2 = lon1 + math.atan2(math.sin(brng)*math.sin(d/R)*math.cos(lat1),
+                 math.cos(d/R)-math.sin(lat1)*math.sin(lat2))
+    lat2 = math.degrees(lat2)
+    lon2 = math.degrees(lon2)
+    return lat2,lon2
+
 
 def get_yahoofin(year,ticker):
     end = datetime.datetime.now()
