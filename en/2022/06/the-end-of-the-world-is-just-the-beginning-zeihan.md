@@ -40,4 +40,5 @@ some of our first class- based distinctions. After all, no one really
 wanted to gather and inventory and distribute and . . . apply the
 stuff. It is part of why India’s Untouchables were/are so
 . . . untouchable—they did the messy work of collecting and
-distributing “night soil.” *
+distributing “night soil.”
+
