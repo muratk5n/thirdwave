@@ -61,7 +61,7 @@ think about what allowed that to happen.
 
 ---
 
-Perskovites.. Somebody is on it that's good. 
+Perovskites.. Somebody is on it that's good.
 
 [[-]](https://www.energy.gov/eere/solar/perovskite-solar-cells)
 
