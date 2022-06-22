@@ -236,7 +236,7 @@ Pre-modern agro always implied hierarchy. About India's Untouchables below.
 
 ---
 
-Former Raytheon board member DefSec is of course recommending the
+Former Raytheon board member SecDef is of course recommending the
 purchase of more hardware "for Ukraine", but is that truly helping?
 
 ---
