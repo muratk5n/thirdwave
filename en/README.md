@@ -8,37 +8,34 @@ Pinned Tweet
 
 ---
 
-
----
-
 H2 View: "DIF Capital Partners, through DIF Infrastructure VI, and
 Virya Energy have joined forces to acquire a stake in the Dutch green
 hydrogen developer, VoltH2"
 
 ---
 
-H2 View: "RWE and ArcelorMittal today (June 22) have announced a
-partnership to develop, build, and operate offshore wind farms and
-hydrogen production facilities to supply ArcelorMittal’s steel
-production sites in Germany"
+H2 View: "RWE and ArcelorMittal have announced a partnership to
+develop, build, and operate offshore wind farms and hydrogen
+production facilities to supply ArcelorMittal’s steel production sites
+in Germany"
 
 ---
 
-H2 View: "Gemini Motor has set out to revolutionise long-haul logistics
-as it announces today (June 22) plans to launch a fleet of autonomous
+H2 View: "Gemini Motor has set out to revolutionise long-haul
+logistics as it announces plans to launch a fleet of autonomous
 hydrogen fuel cell trucks by 2025"
 
 ---
 
-H2 View: "A$600m hydrogen distribution network planned between Sydney
-and Melbourne, Australia.. It was announced a A$600m ($413.3m) green
+H2 View: "A 600m hydrogen distribution network planned between Sydney
+and Melbourne, Australia.. It was announced a A$600m (413.3m) green
 hydrogen distribution network in Australia has been agreed to be
 planned and built by Hydrogen Fuels Australia (H2FA) and CLARA
 Energy."
 
 ---
 
-H2 View: "A new screening tool could save £7bn ($8.6bn) and  give oil
+H2 View: "A new screening tool could save £7bn (8.6bn) and  give oil
 and gas infrastructure a new lease of life with hydrogen and carbon
 capture and storage (CCS). The tool developed by the North Sea
 Transition Authority (NSTA) is set to be handed out to operators with
