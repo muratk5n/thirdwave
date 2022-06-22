@@ -57,7 +57,7 @@ to the public for the first time"
 Your tax dollars at work.. Gov official 'exploring pathways', toiling
 away in obscurity. This is how innovation moves forward. When you see
 the next jackass tech CEO strut on stage during a "tech conference"
-think about what caused that to happen.
+think about what allowed that to happen.
 
 ---
 
