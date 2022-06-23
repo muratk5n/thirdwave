@@ -61,8 +61,8 @@ conclusion. 5G issues were meant to be the side-show, creating the
 illusion of disagreement between parties while agreeing on everything
 else (bipartisanship, unity), allowing corporations buy America. But
 side issues got worse, and the unnecessarily funded police is
-unnecessarily being accused of why they did not rush in as if acting
-on *Commando*.
+unnecessarily being accused of why they did not rush in as if on the
+movie set of *Commando*.
 
 ---
 
