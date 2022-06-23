@@ -129,13 +129,12 @@ slopes got hit with landslies pulled everything down?
 The elevation there
 
 ```python
-import util; util.elev_at(33.0,64.0)
+import util; util.elev_at(33.0924,69.5135)
 ```
 
 ```text
-Out: 2275
+Out[1]: 2573
 ```
-
 ---
 
 Surpasses 1000? For effs sake..
