@@ -4,14 +4,7 @@
 
 Pinned Tweet
 
-<iframe width="340" src="https://www.youtube.com/embed/B3knAZxXMzo?start=195" title="How Hydrogen Could Solve the Energy Crisis: Bloomberg Green" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-H2 View: "EIB and Mauritania to scale green hydrogen investments.. The
-European Investment Bank (EIB) and Mauritania, Africa have agreed to
-strengthen their cooperation to scale up green hydrogen, wind and
-solar investment"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Bulgaria, Greece to build hydrogen pipeline – <a href="https://twitter.com/EURACTIV?ref_src=twsrc%5Etfw">@EURACTIV</a> <a href="https://t.co/uEAJca0Nby">https://t.co/uEAJca0Nby</a></p>&mdash; Ron Loveland (@welshronald) <a href="https://twitter.com/welshronald/status/1539496062896979969?ref_src=twsrc%5Etfw">June 22, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
@@ -19,6 +12,13 @@ H2 View: "Finland to establish national hydrogen network.. The Finnish
 Government said a national hydrogen network will be established in the
 country, in an effort to meet climate goals and phase out Russian
 fossil fuels"
+
+---
+
+H2 View: "EIB and Mauritania to scale green hydrogen investments.. The
+European Investment Bank (EIB) and Mauritania, Africa have agreed to
+strengthen their cooperation to scale up green hydrogen, wind and
+solar investment"
 
 ---
 
