@@ -1,6 +1,6 @@
 # Ekonomik İstatistikler
 
-Cari acik ile kur iliskisi
+Cari açık ile kur ilişkisi
 
 ```python
 from pandas_datareader import data
@@ -34,7 +34,9 @@ DATE
 
 ![](currxch.png)
 
-Ithalat Ihracat Orani ve Kur
+<a name='impexp'/>
+
+İthalat İhracat Oranı ve Kur
 
 ```python
 from pandas_datareader import data

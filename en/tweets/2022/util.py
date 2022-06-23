@@ -14,6 +14,14 @@ import urllib.request as urllib2
 from io import BytesIO
 import pandas_ta as ta
 
+def elev_at(lat,lon):
+    data = '[[%f,%f]]' % (lat,lon)
+    response = requests.post('https://elevation.racemap.com/api',
+                             headers={'Content-Type': 'application/json',},
+                             data=data)
+    res = response.text
+    return json.loads(res)[0]
+
 def eq_at(lat,lon,radius=2000,ago=20):
     lat1,lon1 = to_bearing(lat,lon,np.deg2rad(45),radius)
     lat2,lon2 = to_bearing(lat,lon,np.deg2rad(225),radius)
