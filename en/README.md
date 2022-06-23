@@ -55,7 +55,7 @@ soldier skillset and rush in as if acting in the movie
 in that force.  The point is not to put them, any police, in that
 situation, or having those situation be extremely rare. Sadly such
 shootings aren't rare these days, due to lax gun laws. You can thank
-to Bill Clinton and centrist gamma cuck Dems for that, their their
+to Bill Clinton and centrist gamma cuck Dems for that, their
 triangulation finally brought the country here. 5G issues were meant
 to be the side-show, creating the illusion of disagreement between
 parties while agreeing on everything else (bipartisanship, unity),
