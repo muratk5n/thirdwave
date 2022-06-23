@@ -128,21 +128,11 @@ slopes got hit with landslies pulled everything down?
 The elevation there
 
 ```python
-import requests, json
-def elev_at(lat,lon):
-    data = '[[%f,%f]]' % (lat,lon)
-    response = requests.post('https://elevation.racemap.com/api',
-                             headers={'Content-Type': 'application/json',},
-                             data=data)
-    res = response.text
-    return json.loads(res)[0]
-    
-e = elev_at(33.0,64.0)
-print (e,'meters')
+import util; util.elev_at(33.0,64.0)
 ```
 
 ```text
-2275 meters
+Out: 2275
 ```
 
 ---
