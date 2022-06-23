@@ -20,7 +20,7 @@ def elev_at(lat,lon):
                              headers={'Content-Type': 'application/json',},
                              data=data)
     res = response.text
-    return json.loads(res)[0]
+    return int(json.loads(res)[0])
 
 def eq_at(lat,lon,radius=2000,ago=20):
     lat1,lon1 = to_bearing(lat,lon,np.deg2rad(45),radius)
