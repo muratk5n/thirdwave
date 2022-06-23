@@ -97,7 +97,7 @@ into the zeitgeist,’ says labor economist"
 
 ---
 
-20% is bear market. What is this?
+20% fall is bear market. What is this?
 
 Bloomberg: "Bitcoin down 70% from peak in November"
 
