@@ -218,7 +218,7 @@ Dirty Loops is what you get if you melded Michael Jackson with Rush.
 ---
 
 Frank Grillo's last monologue in *The Grey* was excellent.. Reminds me
-[this](2019/12/civilized-to-death.html#vacation) C. Ryan excerpt.
+[this](../../2019/12/civilized-to-death.html#vacation) C. Ryan excerpt.
 
 ---
 

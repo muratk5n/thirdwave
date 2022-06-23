@@ -624,7 +624,7 @@ Put data on Github so it is version controlled.
 
 ---
 
-[Map of Drug Routes](2019/05/drugs.html)
+[Map of Drug Routes](../../2019/05/drugs.html)
 
 ---
 

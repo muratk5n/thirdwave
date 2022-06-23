@@ -116,7 +116,7 @@ Looks like a fine product
 
 GHG? 80% CO2, 20% methane. Methane is 60% human caused, 40% natural.
 
-[[-]](2022/06/ghg-sources.html)
+[[-]](../../2022/06/ghg-sources.html)
 
 ---
 
