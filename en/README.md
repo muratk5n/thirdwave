@@ -60,9 +60,9 @@ triangulation finally brought the country to its ultimate
 conclusion. 5G issues were meant to be the side-show, creating the
 illusion of disagreement between parties while agreeing on everything
 else (bipartisanship, unity), allowing corporations buy America. But
-side issues got worse, people die, and the unnecessarily funded police
-is unnecessarily being accused of why they did not rush in as if
-acting on *Commando*.
+side issues got worse, and the unnecessarily funded police is
+unnecessarily being accused of why they did not rush in as if acting
+on *Commando*.
 
 ---
 
