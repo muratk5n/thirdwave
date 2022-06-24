@@ -8,9 +8,9 @@ Pinned Tweet
 
 ---
 
-H2 View: "The Goodwood Festival of Speed, UK, today (June 23) saw the debut of a
-brand new, Italian styled hydrogen-powered hypercar, offering a vision
-for a zero-emissions performance future"
+H2 View: "The Goodwood Festival of Speed, UK saw the debut of a brand
+new, Italian styled hydrogen-powered hypercar, offering a vision for a
+zero-emissions performance future"
 
 ---
 
