@@ -37,7 +37,7 @@ said"
 
 Roe vs Wade is overturned.. There are too many Catholics in the
 SCOTUS. Someone needs to do something about that. They go to church
-such cock.. They go hoem suck cock... And now they go to work they
+suck cock.. They go hoem suck cock... And now they go to work they
 still suck cock. Even Italians aren't this repulsively Roman
 anymore.. C'mon
 
