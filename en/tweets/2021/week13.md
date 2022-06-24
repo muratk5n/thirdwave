@@ -502,7 +502,7 @@ Dude can rearrange shit at a molecular level.. It's not even fair.
 
 ---
 
-[Doh!](https://pbs.twimg.com/media/ExjsLenXEAISkRY?format=jpg&name=small)
+[Doh!](molecule_man.jpeg)
 
 ---
 
