@@ -8,195 +8,101 @@ Pinned Tweet
 
 ---
 
-H2 View: "Finland to establish national hydrogen network.. The Finnish
-Government said a national hydrogen network will be established in the
-country, in an effort to meet climate goals and phase out Russian
-fossil fuels"
+H2 View: "The Goodwood Festival of Speed, UK, today (June 23) saw the debut of a
+brand new, Italian styled hydrogen-powered hypercar, offering a vision
+for a zero-emissions performance future"
 
 ---
 
-H2 View: "EIB and Mauritania to scale green hydrogen investments.. The
-European Investment Bank (EIB) and Mauritania, Africa have agreed to
-strengthen their cooperation to scale up green hydrogen, wind and
-solar investment"
+H2 View: "Hydrogen to take the lead in Ferrari’s race to carbon
+neutrality.. In the race to carbon neutrality, the Italian automotive
+superpower, Ferrari has teamed up with Bloom Energy to decarbonise its
+manufacturing facility in Maranello, Italy, with fuel cells that can
+run on hydrogen"
 
 ---
 
-"@PipelineandGas
-
-The U.S. DOE closed on a $504.4 million loan guarantee to help finance
-the construction of the Advanced Clean Energy Storage I project in
-Utah, the world’s largest industrial green hydrogen storage facility"
+H2 Fuel News: "DKK 88.8m grant for Power-to-X and green hydrogen
+development in Denmark"
 
 ---
 
-H2 Fuel News: "Volvo begins testing hydrogen fuel cell trucks.. The
-vehicles are able to refuel in as little as under 15 minutes for zero
-carbon emission operation"
+.. and the tech that can do it all, will end up doing it all \#deelectrify
+
+H2 View: "Hydrogen is a ‘slam dunk’ for taking possession of
+heavy-duty long distance transportation, a Rethink Energy report has
+said"
 
 ---
 
-H2 View: "Egypt, Saudi Arabia Sign 14 Investment Agreements Worth
-$7.7B, Hydrogen Included"
+Roe vs Wade is overturned.. There are too many Catholics in the
+SCOTUS. Someone needs to do something about that. They go to church
+such cock.. They go hoem suck cock... And now they go to work they
+still suck cock. Even Italians aren't this repulsively Roman
+anymore.. C'mon
 
 ---
 
-H2 Central: "Gemini Motor announces plan for a fleet of autonomous
-hydrogen fuel cell trucks, disrupting long-haul
-logistics... Autonomously driven trucks powered by hydrogen fuel cells
-significantly increase operational efficiency and accelerate
-decarbonization in the transportation industry"
+The new gun law is useless.. 
 
 ---
 
-The police is being blamed for not immediately turning on the super
-soldier skillset and rush in as if acting in the movie
-*Commando*. That type of violence is probably foreign to many of them
-in that force.  The point is not to put them, any police, in that
-situation, or having those situation be extremely rare. Sadly such
-shootings aren't rare these days, due to lax gun laws. You can thank
-to Bill Clinton and centrist gamma cuck Dems for that, their
-triangulation finally brought the country to its ultimate
-conclusion. 5G issues were meant to be the side-show, creating the
-illusion of disagreement between parties while agreeing on everything
-else (bipartisanship, unity), allowing corporations buy out
-America. But side issues got worse, and now the unnecessarily funded
-police is unnecessarily being accused of why they did not rush in as
-if on the movie set of *Commando*.
+Bloomberg: "$100 million worth of crypto has been stolen in another major hack"
 
 ---
 
-If we fire the Uvalde police chief we will feel much better!! Yey!
+"@dougbeck
+
+Joining a shared tmux session is so much fun"
 
 ---
 
-The new *Doctor Strange*..  It was pretty average, weak story (also
-based on shoddy science -multiverse-). WTF with the zombie stuff I
-thought apparently the director had previous zombie cred. Raimi's
-earlier work *Spiderman 2* was widely considered as the best comic
-book movie adaption until that point, but I cant see that presence
-here. He was likely straightjacketed by Marvel. 
+FT: "Selling to yourself: the private equity groups that buy companies
+they own.. Some of private equity’s own investors complain that the
+deals can in some cases serve to enrich buyout billionaires and
+multimillionaires at the expense of their pension fund clients by
+enabling them to keep levying fees. The Securities and Exchange
+Commission wants to reform the market, requiring more checks that
+valuations are fair"
+
+[[-]](https://www.ft.com/content/11549c33-b97d-468b-8990-e6fd64294f85)
 
 ---
 
-Hope to see Johnny Depp in future movies now that he cleared his
-name.. Back in the day I used to watch *21st Jump Street*. I really
-liked *Donny Brasco* BTW, read the book afterwards bcz of the
-movie. Forget about it!
+"@gnoble79
+
+Michael Howell is the #1 liquidity analyst in the world. He is one of
+the elite few who correctly called this bear market... Michael remains
+very negative on risk assets as liquidity continues to contract. The
+S&P could easily fall another 20% based on his forecasts"
 
 ---
 
-♬ And i just quit my job ♪ I’m gonna find new drive 
-♪ Damn they work me so damn hard ♬ Work by nine. Then off past five
-♪ And they work my nerves ♪ That’s why i cannot sleep at night
+Exports and imports are the primary factors on a country's currency,
+unless save for money flows - it's all about the demand for a
+country's currency, vs demand on others.
+
+Let's look at TR import/export ratio compare it to its currency [here](../tr/2019/05/stats.html#impexp).
+
+The relationship is pretty close. Since 2019 it breaks, after BJ
+became UK PM? TR started doing UK's bidding in return they give cash?
 
 ---
 
-CNBC: "Beyonce’s ‘Break My Soul’ is a sign the Great Resignation ‘has seeped
-into the zeitgeist,’ says labor economist"
+A drug route all the way from Dominican Republic into Armenia? But
+there aren't rich countries around Armenia.. What gives? But I see
+transport into Canada; are they using Armenian diaspora in rich
+countries to distribute the stuff?
+
+[[-]](2019/05/drugs.html)
 
 ---
 
-20% fall is bear market. What is this?
+@DanDePetris
 
-Bloomberg: "Bitcoin down 70% from peak in November"
-
----
-
-CNBC: "Another 'algorithmic' stablecoin has fallen below its 1 dollar
-peg.. USDD, a so-called "algorithmic" stablecoin that's meant to
-always be worth $1, plunged as low as 93 cents on Sunday"
-
----
-
-"@nypost
-
-The UFO story the media has been reporting for over 4 years is wrong.
-
-Our recent video report exposes intentional deception to cover up a
-much stranger story about how the Pentagon spent $22 million on
-werewolves, ghosts and goblins"
-
-[[-]](https://twitter.com/nypost/status/1539659954638016514)
-
----
-
-The AFG area is over 2 kilometers high .. Shoddy houses built on
-slopes got hit with landslies pulled everything down?
-
----
-
-The elevation there
-
-```python
-import util; util.elev_at(33.0924,69.5135)
-```
-
-```text
-Out[1]: 2573
-```
----
-
-Surpasses 1000? For effs sake..
-
-Hindustan Times: "Afghanistan earthquake death toll surpasses 1000"
-
----
-
-WION: "More than 700 people were locked inside a hotel and casino
-resort in one of the world’s biggest gambling hubs Macau, China,
-following a coronavirus"
-
----
-
-WSJ: "Sri Lanka's Prime Minister Says Economy Faces 'Complete
-Collapse'"
-
----
-
-"@DanDePetris
-
-NOT an article from the Onion"
-
-[[-]](https://pbs.twimg.com/media/FV4vjTVXoAMoyNh?format=jpg&name=small)
-
----
-
-Politico: "NATO chief wants Sweden, Finland in alliance ‘soon’ — but
-can’t guarantee it"
-
----
-
-"@defpriorities
-
-'American and European policymakers evidently fooled themselves into
-believing that cutting off Russian oil would be the beginning of the
-end of Putin's war machine,' @DanDePetris writes in @TheSpectator 'But
-the market has something else in mind.'"
-
----
-
-It is a "border region" so RU could claim it isn't invading anyone,
-but effectively create a supply line to Khaliningrad. A gray area,
-with distant Russkies.. this is right up Putin's alley. He might just
-go for it.
-
----
-
-[The Suwalki Gap](https://pbs.twimg.com/media/FV6sTunXgAAIiZW?format=jpg&name=medium)
-
----
-
-"An organisation representing residents in the Suwałki Gap – an area
-along the Polish-Lithuanian border lying between the Russian exclave
-of Kaliningrad and Belarus – has appealed for the authorities to
-create emergency shelters in case the Kremlin decides to launch
-military action. The corridor has long been seen as a potential weak
-point in a war with Russia. Tensions there have recently increased
-after Lithuania blocked some goods from being transferred by rail to
-Kaliningrad, leading Moscow to warn of 'serious consequences'"
-
-[[-]](https://notesfrompoland.com/2022/06/21/residents-of-polands-suwalki-gap-appeal-for-emergency-shelters-in-case-of-russian-invasion/)
+With the war having moved on from its initial euphoric phase of a
+Ukrainian military victory, Volodymyr Zelensky is confronted with a
+list of difficult questions"
 
 ---
 
