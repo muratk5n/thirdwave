@@ -57,9 +57,9 @@ df['ratio'] = df['import'] / df['export']
 df['forex'] = (df.forex / 100.0)
 df[['ratio','forex']].plot()
 plt.savefig('impexp.png')
+```
 
 ![](impexp.png)
-
 
 Dollar / TL
 
