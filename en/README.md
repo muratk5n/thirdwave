@@ -104,6 +104,8 @@ With the war having moved on from its initial euphoric phase of a
 Ukrainian military victory, Volodymyr Zelensky is confronted with a
 list of difficult questions"
 
+[[-]](https://twitter.com/DanDePetris/status/1540003276745314306)
+
 ---
 
 ## For Members
