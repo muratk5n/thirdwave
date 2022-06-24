@@ -98,6 +98,12 @@ The new gun law is useless..
 
 ---
 
+Arab News: "Ukrainian forces will retreat from Severodonetsk in the
+face of a brutal Russian offensive that is reducing the battleground
+city to rubble, a senior Ukrainian official said Friday"
+
+---
+
 @DanDePetris
 
 With the war having moved on from its initial euphoric phase of a
