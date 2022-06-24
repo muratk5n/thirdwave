@@ -89,10 +89,10 @@ became UK PM? TR started doing UK's bidding in return they give cash?
 
 ---
 
-A drug route all the way from Dominican Republic into Armenia? But
-there aren't rich countries around Armenia.. What gives? But I see
-transport into Canada; are they using Armenian diaspora in rich
-countries to distribute the stuff?
+A drug route all the way from Dominican Republic into
+Armenia.. Hmm.. But there aren't rich countries around Armenia.. What
+gives? But I see transport into Canada; are they using Armenian
+diaspora in rich countries to distribute the stuff?
 
 [[-]](2019/05/drugs.html)
 
