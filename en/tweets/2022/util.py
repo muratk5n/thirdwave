@@ -92,31 +92,6 @@ def get_fred(year, series):
     df = data.DataReader(series, 'fred', start, end)
     return df
 
-def plot_20_drawdown_sp500():
-    end = datetime.datetime.now()
-    start=end-datetime.timedelta(days=356*40)
-    start = int(timelib.mktime(start.timetuple()))
-    end = int(timelib.mktime(end.timetuple()))
-    url = "https://query1.finance.yahoo.com/v7/finance/download/^GSPC?period1=" + str(start) + "&period2=" + str(end) + "&interval=1d&events=history&includeAdjustedClose=true"
-    r = urllib2.urlopen(url).read()
-    file = BytesIO(r)
-    df = pd.read_csv(file,index_col='Date',parse_dates=True)
-
-    df['wmax'] = df['Close'].rolling(60).apply(lambda x: x.max() )
-    df['bear'] = 0
-
-    lastmax = 0
-    for idx,row in df.iterrows():
-        if row['wmax'] > lastmax: lastmax = row['wmax']
-        if row['Close'] < lastmax*0.8:
-            df.at[idx,'bear'] = 1
-        else:
-            lastmax = 0
-
-    df.Close.plot()
-    plt.fill_between(df.index, 0, 5000, df.bear, alpha=0.3)
-
-
 def plot_before_after(clat,clon,zoom,befidx,aftidx,pix_city):
     sm.plot_countries(clat,clon,zoom,outcolor='lavenderblush')
 
