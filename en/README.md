@@ -101,8 +101,8 @@ the ruling has provided for two generations of Americans."
 
 ---
 
-IOW how to do incremental fixes on an incremental fix that is
-not good enough. Kind of like battery electric cars.
+IOW how to do incremental fixes on an incremental fix which itself
+wasn't good enough to begin with.. Kind of like battery electric cars.
 
 "Dems weigh new plan to defuse Obamacare subsidy bomb"
 
