@@ -196,9 +196,9 @@ Washington Examier: "After a month of holding out, the Ukrainian high
 command ordered the remaining defenders in Severodonetsk, the
 administrative capital of Luhansk, to beat a tactical retreat out of
 the city and fortify their defenses in Lysychansk, the sister city to
-the west of the Seversky Donets River. "Remaining in positions smashed
+the west of the Seversky Donets River. 'Remaining in positions smashed
 to pieces over many months just for the sake of staying there does not
-make sense," Luhansk Gov. Serhiy Haidai said...
+make sense,' Luhansk Gov. Serhiy Haidai said...
 
 Russian forces were making slow progress in the Severodonetsk pocket
 for weeks, using their advantage in artillery to pummel everything in
