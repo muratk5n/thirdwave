@@ -142,7 +142,8 @@ masse. Their failure is absolute"
 ---
 
 IOW how to do incremental fixes on an incremental fix which itself
-wasn't good enough to begin with.. Reminds me battery electric cars.
+wasn't good enough to begin with.. Reminds me of battery electric
+cars as a "green solution".
 
 "Dems weigh new plan to defuse Obamacare subsidy bomb"
 
