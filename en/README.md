@@ -8,109 +8,208 @@ Pinned Tweet
 
 ---
 
-H2 View: "The Goodwood Festival of Speed, UK saw the debut of a brand
-new, Italian styled hydrogen-powered hypercar, offering a vision for a
-zero-emissions performance future"
 
 ---
 
-H2 View: "Hydrogen to take the lead in Ferrari’s race to carbon
-neutrality.. In the race to carbon neutrality, the Italian automotive
-superpower, Ferrari has teamed up with Bloom Energy to decarbonise its
-manufacturing facility in Maranello, Italy, with fuel cells that can
-run on hydrogen"
+H2 Central: "A leading group of German companies along with
+Australia’s Fortescue Future Industries (FFI) has released a green
+hydrogen roadmap, outlining a set of recommendations for government
+and industry, to meet the ambitious target of importing large amounts
+of green hydrogen from Australia to Germany.
+
+The Green Hydrogen Taskforce, created earlier this year, is a
+collaborative effort between FFI, and some of the strongest energy,
+industrial, and technology companies in Germany, including Covestro,
+E.ON, Linde, Luthardt, SAP, Schaeffler, thyssenkrupp Nucera and
+thyssenkrupp Uhde"
 
 ---
 
-H2 Fuel News: "DKK 88.8m grant for Power-to-X and green hydrogen
-development in Denmark"
+If m t / y means megaton per year that translates to 10 GW of output.
+Good. And we need more. A few more at this scale.
+
+All fossil producers need to generate this stuff.. as much as humanly
+possible.
+
+"@H2Standard
+
+The prospects for green hydrogen have been given a boost as a market
+landgrab by oil and gas majors continues. June has seen BP and
+TotalEnergies buying stakes in projects with a combined production
+capacity of 2.6 m t/y"
 
 ---
 
-.. and the tech that can do it all, will end up doing it all \#deelectrify
+Looks simple - good recipe
 
-H2 View: "Hydrogen is a ‘slam dunk’ for taking possession of
-heavy-duty long distance transportation, a Rethink Energy report has
-said"
+[[-]](https://youtu.be/P2Ns5waSDog)
 
 ---
 
-Bloomberg: "$100 million worth of crypto has been stolen in another major hack"
+Kenobi finale was ⭐ ⭐ ⭐ ⭐ ⭐
 
 ---
 
-"@dougbeck
-
-Joining a shared tmux session is so much fun"
-
----
-
-FT: "Selling to yourself: the private equity groups that buy companies
-they own.. Some of private equity’s own investors complain that the
-deals can in some cases serve to enrich buyout billionaires and
-multimillionaires at the expense of their pension fund clients by
-enabling them to keep levying fees. The Securities and Exchange
-Commission wants to reform the market, requiring more checks that
-valuations are fair"
-
-[[-]](https://www.ft.com/content/11549c33-b97d-468b-8990-e6fd64294f85)
+CNBC: "El Salvador's $425 million bitcoin experiment isn't saving the
+country's finances. The government's crypto coffers have been cut in
+half, bitcoin adoption nationwide isn't really taking off, and the
+country has big upcoming debt payments"
 
 ---
 
-"@gnoble79
-
-Michael Howell is the #1 liquidity analyst in the world. He is one of
-the elite few who correctly called this bear market... Michael remains
-very negative on risk assets as liquidity continues to contract. The
-S&P could easily fall another 20% based on his forecasts"
+Look at the friend [e-jagoff](tweets/2022/muskthiel.jpeg). He likes
+battery electric cars. 
 
 ---
 
-Exports and imports are the primary factors on a country's currency,
-unless save for money flows - it's all about the demand for a
-country's currency, vs demand on others.
-
-Let's look at TR import/export ratio compare it to its currency [here](../tr/2019/05/stats.html#impexp).
-
-The relationship is pretty close. Since 2019 it breaks, after BJ
-became UK PM? TR started doing UK's bidding in return they give cash?
+You got your answer didn't you, Focker. You are not in the circle of trust anymore 👌
 
 ---
 
-A drug route all the way from Dominican Republic into
-Armenia.. Hmm.. But there aren't rich countries around Armenia.. What
-gives? But I see transport into Canada; are they using Armenian
-diaspora in rich countries to distribute the stuff?
+US liberterian right there
 
-[[-]](2019/05/drugs.html)
+NYT: "[Peter Thiel interview, 2017] It’s like, even if you appointed a
+whole series of conservative Supreme Court justices, I’m not sure that
+Roe v. Wade would get overturned.. I don’t know if people even care
+about the Supreme Court"
 
----
-
-Roe vs Wade is overturned.. There are too many Catholics in the
-SCOTUS. Someone needs to do something about that. They go to church
-suck cock.. They go home they suck cock... And now they go to work
-they still suck cock. Even Italians aren't this repulsively Roman
-anymore.. C'mon
+[[-]](https://www.nytimes.com/2017/01/11/fashion/peter-thiel-donald-trump-silicon-valley-technology-gawker.html)
 
 ---
 
-The new gun law is useless.. 
+Germnan liberterians supported ending the ban - because of, you know,
+liberty.
+
+NYT: "Germany Ends Ban on Abortion Advertisement.. The vote to scrap
+the law came on the same day that Roe v. Wade was overturned by the
+U.S. Supreme Court.
+
+Lawmakers voted on Friday to end a Nazi-era ban on the advertisement
+of abortion services, a measure that had effectively criminalized
+doctors who provided information about the procedure.The law, though
+ignored for years, had recently prompted several high-profile legal
+cases against doctors. That, in turn, led to a sustained campaign by
+abortion-rights activists for repeal of the advertising ban, which
+Germany’s relatively new government had made a goal"
 
 ---
 
-Arab News: "Ukrainian forces will retreat from Severodonetsk in the
-face of a brutal Russian offensive that is reducing the battleground
-city to rubble, a senior Ukrainian official said Friday"
+Manchin: "I trusted Justice Gorsuch and Justice Kavanaugh when they
+testified under oath that they also believed Roe v. Wade was settled
+legal precedent and I am alarmed they chose to reject the stability
+the ruling has provided for two generations of Americans."
 
 ---
 
-@DanDePetris
+"Dems weigh new plan to defuse Obamacare subsidy bomb"
 
-With the war having moved on from its initial euphoric phase of a
-Ukrainian military victory, Volodymyr Zelensky is confronted with a
-list of difficult questions"
+---
 
-[[-]](https://twitter.com/DanDePetris/status/1540003276745314306)
+And now they will say 'vote for us to bring back Roe'; the culture war
+dividend never ends.
+
+---
+
+TDB: "And yet, even with the challenge of pandemic recovery, we are
+not facing “stagflation,” a word that ruled our economic lives 40
+years ago and now is a term that I have to explain to my younger
+students. Stagflation was something that once seemed impossible: high
+inflation, low growth, and high unemployment all at the same
+time. This happened in the 1970s, but it isn’t happening now—or at
+least, it isn’t happening yet—and it’s one reason treating 2022 as if
+it’s 1979 doesn’t make much sense.Let’s also admit an obvious
+political reality about the expectations of the American voter: Many
+of the people who are fed up with inflation in 2022 are angry mostly
+because until about a year ago, they’d never actually experienced
+it. Yes, it’s been a rough year, but in 1979 Americans were despairing
+because high inflation had already been around for several
+years. Richard Nixon, Gerald Ford, and Carter all tussled with it. We
+tried everything from wage and price controls to “Whip inflation now”
+sloganeering—as if consumers could join the fight by wearing
+buttons.The same is true of interest rates. Today’s younger consumers
+may be shocked that mortgages are breaking 6 percent—but again, this
+is because they have become accustomed to ridiculously low rates. Even
+50 years ago, the average rates were about 7 percent; they’ve been
+lower than that for two decades now"
+
+---
+
+FT: "US and allies launch initiative to help Pacific Island nations"
+
+---
+
+RU had 10 times more artillery attacks for that day than UKR
+
+
+```python
+import pandas as pd
+pd.set_option('display.max_columns', None)
+d = 20220622
+df = pd.read_csv('events_latest.csv')
+dfr = df[ (df.a_rus_b==1) & (df.date==d) ]
+print ("ru artillery:", dfr.t_artillery_b.sum())
+dfu = df[ (df.a_ukr_b==1) & (df.date==d) ]
+print ("ukr artillery:", dfu.t_artillery_b.sum())
+```
+
+```text
+ru artillery: 61
+ukr artillery: 6
+```
+
+---
+
+Code sifts through RU, UKR media sources, and pulls out relevant info
+automagically using "high dimensional ad-hoc nonlinear statistics"
+sometimes called machine learning, but these days usually mistakenly
+called "AI".
+
+---
+
+New data source for UKR/RU war.. Seems to be updated regularly ,
+and shares areas of control in a simple file!
+
+[[-]](https://github.com/zhukovyuri/VIINA)
+
+---
+
+"@adam_tooze
+
+'One of the most frustrating aspects of America’s Ukraine debate is
+its degree of self-deception about global unity. The assumption is
+false.' Spot on from @EdwardGLuce"
+
+---
+ 
+NYT: "Russian Elites Show No Sign of Broad Challenge to Putin"
+
+---
+
+"@JeffreyStClair3
+
+The leadership of the Democratic Party, which for 20 years has said
+the only reason to vote for them is to protect Roe, should resign en
+masse. Their failure is absolute"
+
+---
+
+Washington Examier: "After a month of holding out, the Ukrainian high
+command ordered the remaining defenders in Severodonetsk, the
+administrative capital of Luhansk, to beat a tactical retreat out of
+the city and fortify their defenses in Lysychansk, the sister city to
+the west of the Seversky Donets River. "Remaining in positions smashed
+to pieces over many months just for the sake of staying there does not
+make sense," Luhansk Gov. Serhiy Haidai said...
+
+Russian forces were making slow progress in the Severodonetsk pocket
+for weeks, using their advantage in artillery to pummel everything in
+their path before sending ground forces into the area. Russia’s war
+plan, to put it in the most unsophisticated way possible, was to
+overwhelm the Ukrainian defenders with constant bombardment until they
+relented. For Ukraine, the only other alternative would have been to
+stick around and risk total encirclement — a strategy that would have
+been indefensible, if not insane, when the Ukrainian military is
+already losing perhaps 200 soldiers a day"
 
 ---
 
