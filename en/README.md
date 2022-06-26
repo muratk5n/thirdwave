@@ -132,7 +132,7 @@ because until about a year ago, they’d never actually experienced
 it. Yes, it’s been a rough year, but in 1979 Americans were despairing
 because high inflation had already been around for several
 years. Richard Nixon, Gerald Ford, and Carter all tussled with it. We
-tried everything from wage and price controls to “Whip inflation now”
+tried everything from wage and price controls to 'Whip inflation now'
 sloganeering—as if consumers could join the fight by wearing
 buttons.The same is true of interest rates. Today’s younger consumers
 may be shocked that mortgages are breaking 6 percent—but again, this
