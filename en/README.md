@@ -110,6 +110,14 @@ dividend never ends.
 
 ---
 
+"@JeffreyStClair3
+
+The leadership of the Democratic Party, which for 20 years has said
+the only reason to vote for them is to protect Roe, should resign en
+masse. Their failure is absolute"
+
+---
+
 TDB: "And yet, even with the challenge of pandemic recovery, we are
 not facing “stagflation,” a word that ruled our economic lives 40
 years ago and now is a term that I have to explain to my younger
@@ -184,13 +192,6 @@ NYT: "Russian Elites Show No Sign of Broad Challenge to Putin"
 
 ---
 
-"@JeffreyStClair3
-
-The leadership of the Democratic Party, which for 20 years has said
-the only reason to vote for them is to protect Roe, should resign en
-masse. Their failure is absolute"
-
----
 
 Washington Examier: "After a month of holding out, the Ukrainian high
 command ordered the remaining defenders in Severodonetsk, the
