@@ -87,11 +87,13 @@ battery electric cars.
 
 ---
 
-US libertarian right there.
-
 You got your answer didn't you, Focker.
 
 You are not in the circle of trust anymore 👌
+
+---
+
+US libertarian right there.
 
 NYT: "[Peter Thiel interview, 2017] It’s like, even if you appointed a
 whole series of conservative Supreme Court justices, I’m not sure that
