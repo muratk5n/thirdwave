@@ -91,7 +91,7 @@ You got your answer didn't you, Focker. You are not in the circle of trust anymo
 
 ---
 
-US liberterian right there
+US libertarian right there
 
 NYT: "[Peter Thiel interview, 2017] It’s like, even if you appointed a
 whole series of conservative Supreme Court justices, I’m not sure that
@@ -102,7 +102,7 @@ about the Supreme Court"
 
 ---
 
-German liberterians supported ending the ban - because of, you know,
+German libertarians supported ending the ban - because of, you know,
 liberty.
 
 NYT: "Germany Ends Ban on Abortion Advertisement.. The vote to scrap
