@@ -143,7 +143,6 @@ RU had 10 times more artillery attacks for that day than UKR
 
 ```python
 import pandas as pd
-pd.set_option('display.max_columns', None)
 d = 20220622
 df = pd.read_csv('events_latest.csv')
 dfr = df[ (df.a_rus_b==1) & (df.date==d) ]
