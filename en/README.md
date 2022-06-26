@@ -119,7 +119,7 @@ masse. Their failure is absolute"
 ---
 
 TDB: "And yet, even with the challenge of pandemic recovery, we are
-not facing “stagflation,” a word that ruled our economic lives 40
+not facing 'stagflation,' a word that ruled our economic lives 40
 years ago and now is a term that I have to explain to my younger
 students. Stagflation was something that once seemed impossible: high
 inflation, low growth, and high unemployment all at the same
