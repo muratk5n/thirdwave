@@ -82,7 +82,7 @@ lower than that for two decades now"
 
 ---
 
-Look at the friend [e-jagoff](tweets/2022/muskthiel.jpeg). He likes
+He has a friend, [e-jagoff](tweets/2022/muskthiel.jpeg).. He likes
 battery electric cars. 
 
 ---
