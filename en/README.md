@@ -57,6 +57,31 @@ country has big upcoming debt payments"
 
 ---
 
+
+TDB: "And yet, even with the challenge of pandemic recovery, we are
+not facing 'stagflation,' a word that ruled our economic lives 40
+years ago and now is a term that I have to explain to my younger
+students. Stagflation was something that once seemed impossible: high
+inflation, low growth, and high unemployment all at the same
+time. This happened in the 1970s, but it isn’t happening now—or at
+least, it isn’t happening yet—and it’s one reason treating 2022 as if
+it’s 1979 doesn’t make much sense.Let’s also admit an obvious
+political reality about the expectations of the American voter: Many
+of the people who are fed up with inflation in 2022 are angry mostly
+because until about a year ago, they’d never actually experienced
+it. Yes, it’s been a rough year, but in 1979 Americans were despairing
+because high inflation had already been around for several
+years. Richard Nixon, Gerald Ford, and Carter all tussled with it. We
+tried everything from wage and price controls to 'Whip inflation now'
+sloganeering—as if consumers could join the fight by wearing
+buttons.The same is true of interest rates. Today’s younger consumers
+may be shocked that mortgages are breaking 6 percent—but again, this
+is because they have become accustomed to ridiculously low rates. Even
+50 years ago, the average rates were about 7 percent; they’ve been
+lower than that for two decades now"
+
+---
+
 Look at the friend [e-jagoff](tweets/2022/muskthiel.jpeg). He likes
 battery electric cars. 
 
@@ -77,7 +102,7 @@ about the Supreme Court"
 
 ---
 
-Germnan liberterians supported ending the ban - because of, you know,
+German liberterians supported ending the ban - because of, you know,
 liberty.
 
 NYT: "Germany Ends Ban on Abortion Advertisement.. The vote to scrap
@@ -101,13 +126,6 @@ the ruling has provided for two generations of Americans."
 
 ---
 
-IOW how to do incremental fixes on an incremental fix which itself
-wasn't good enough to begin with.. Kind of like battery electric cars.
-
-"Dems weigh new plan to defuse Obamacare subsidy bomb"
-
----
-
 And now they will say 'vote for us to bring back Roe'; the culture war
 dividend never ends.
 
@@ -121,27 +139,10 @@ masse. Their failure is absolute"
 
 ---
 
-TDB: "And yet, even with the challenge of pandemic recovery, we are
-not facing 'stagflation,' a word that ruled our economic lives 40
-years ago and now is a term that I have to explain to my younger
-students. Stagflation was something that once seemed impossible: high
-inflation, low growth, and high unemployment all at the same
-time. This happened in the 1970s, but it isn’t happening now—or at
-least, it isn’t happening yet—and it’s one reason treating 2022 as if
-it’s 1979 doesn’t make much sense.Let’s also admit an obvious
-political reality about the expectations of the American voter: Many
-of the people who are fed up with inflation in 2022 are angry mostly
-because until about a year ago, they’d never actually experienced
-it. Yes, it’s been a rough year, but in 1979 Americans were despairing
-because high inflation had already been around for several
-years. Richard Nixon, Gerald Ford, and Carter all tussled with it. We
-tried everything from wage and price controls to 'Whip inflation now'
-sloganeering—as if consumers could join the fight by wearing
-buttons.The same is true of interest rates. Today’s younger consumers
-may be shocked that mortgages are breaking 6 percent—but again, this
-is because they have become accustomed to ridiculously low rates. Even
-50 years ago, the average rates were about 7 percent; they’ve been
-lower than that for two decades now"
+IOW how to do incremental fixes on an incremental fix which itself
+wasn't good enough to begin with.. Kind of like battery electric cars.
+
+"Dems weigh new plan to defuse Obamacare subsidy bomb"
 
 ---
 
@@ -194,7 +195,6 @@ false.' Spot on from @EdwardGLuce"
 NYT: "Russian Elites Show No Sign of Broad Challenge to Putin"
 
 ---
-
 
 Washington Examier: "After a month of holding out, the Ukrainian high
 command ordered the remaining defenders in Severodonetsk, the
