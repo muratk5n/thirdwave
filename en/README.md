@@ -29,7 +29,7 @@ If m t / y means megaton per year that translates to 10 GW of output.
 Good. And we need more. A few more at this scale.
 
 All fossil producers need to generate this stuff.. as much as humanly
-possible.
+possible. Green, blue, any color.
 
 "@H2Standard
 
