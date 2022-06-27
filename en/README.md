@@ -145,8 +145,8 @@ to the Americans to try out the long-term trends, directions, you just
 take the idea, implement it better. Can't argue with the cost side, it
 could more profitable simply to follow. But US errs, and in past few
 decades errs big. The dream machine is generating too much junk, tech
-direction is relying on too many stupid people. I believe more than a
-few countries started to realize this situation
+direction is relying on too many stupid people and I believe more than
+a few countries started to realize the situation
 
 ---
 
