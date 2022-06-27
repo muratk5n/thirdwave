@@ -121,21 +121,6 @@ located, according to data from consulting firm Wood Mackenzie"
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
 CBS: "Attorneys General in 22 states issue joint statement reaffirming
 abortion protections"
 
