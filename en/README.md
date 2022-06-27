@@ -202,11 +202,10 @@ to be paid from that stash.
 CNBC: "Russia has entered its first major foreign debt default for
 over a century, after a grace period on two international bond
 payments lapsed on Sunday night... The Kremlin has rejected the claim
-that Russia is in default, with spokesperson Dmitry Peskov reportedly
-telling a press call this morning that Russia made the bond payments
-due in May but they have been blocked by Euroclear due to Western
-sanctions, rendering the non-delivery of payments 'not [Russia’s]
-problem.'"
+that Russia is in default..  telling a press call this morning that
+Russia made the bond payments due in May but they have been blocked by
+Euroclear due to Western sanctions, rendering the non-delivery of
+payments 'not [Russia’s] problem.'"
 
 ---
 
