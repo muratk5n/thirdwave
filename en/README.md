@@ -25,7 +25,7 @@ in Pilbara, Western Australia, Upon completion, the hub should be able
 to deliver 1.6 million tonnes ofgreen hydrogen a year, BP
 said. TotalEnergies, meanwhile,said it was taking a stake in Adani New
 Industries Limited of India, which is aiming to produce a million
-tonnes ofgreen hydrogen a year by 2030.
+tonnes of green hydrogen a year by 2030.
 
 While the announcements clearly show oil majors are warming to green
 hydrogen,the industry has not yet given up on more controversial blue
