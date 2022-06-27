@@ -217,7 +217,7 @@ you. What were they thinking?
 ---
 
 "Support Ukraine" rhetoric is also partly there to cover up previous
-fucks up of the West, especially of Britain and US. If we treat UKR
+fuck ups of the West, especially of Britain and US. If we treat UKR
 gov as good capable leaders only lacking some weapons under the attack
 of a mean Russia, then their mistakes get erased, forgotten
 
