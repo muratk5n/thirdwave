@@ -210,9 +210,9 @@ payments 'not [Russia’s] problem.'"
 
 UKR did not implement Minsk agreements, and sent bombing sorties
 toward Russian seperatists with those little toy planes from
-"Britain's other bitch" causing damage on equipment.. All with the
-support of US/UK. You poked the bear and now the bear is coming for
-you. What were they thinking?
+"Britain's other bitch" going on the offense.. All with the support of
+US/UK. You poked the bear and now the bear is coming for you. What
+were they thinking?
 
 ---
 
