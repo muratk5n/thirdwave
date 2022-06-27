@@ -111,8 +111,8 @@ Negócios"
 Hey I hope this transition happens. The current energy shortage could
 still have been avoided though... Timely investment in H2 and CCS
 would have guaranteed enough supply of clean fuel no matter the
-primary energy source. Transition could be smooth. Oh well, instead
-we get a street-fight.
+primary energy source. Transition could have been smooth. Instead we
+are in a street-fight.
 
 "In the first quarter of 2022, Spain already comprised 20 percent of
 the green hydrogen projects worldwide. That placed it in second place
