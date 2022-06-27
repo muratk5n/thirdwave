@@ -146,8 +146,8 @@ take the idea, implement it better. Can't argue with the cost side, it
 could more profitable simply to follow. But US errs, and in past few
 decades errs big. The dream machine is generating too much junk, tech
 direction is relying on stupid people, who flab around wildly try to
-make up shortcoming with celebrity. Recently a few countries started
-to realize this fact
+make up shortcoming with celebrity. I believe more than a few
+countries started to realize this fact
 
 ---
 
