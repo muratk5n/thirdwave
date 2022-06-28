@@ -110,9 +110,10 @@ transport land troops for subsequent land invasion. When they used the
 sea they tried to invent mechanisms to merely complement their land
 strength, sometimes in bizarre ways. One invention was a huge landing
 platform bolted in the middle of the ship, plan was to pull it down
-during ship-to-ship conflict on top of the other ship so your guys can
-rush over there. But the mechanism wasn't designed well it screwed up
-the balance of the ships, they routinely sank.
+during ship-to-ship conflict on top of the other ship so regular
+legionaires can rush over there and do legionaire shit.. But the
+mechanism wasn't designed well it screwed up the balance of the ships,
+they routinely sank.
 
 ---
 
