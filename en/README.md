@@ -71,8 +71,8 @@ infrastructure are sufficient enough for the future"
 
 ---
 
-Pipeline is currently shut off. Hopefully is enabled one day to
-transport blue H2.
+NS2 is currently shut off. Hopefully is enabled one day to transport
+blue H2.
 
 EnergyNews: "[02/2022] It is estimated that the percentage of hydrogen
 in future pipelines such as Nord Stream would reach 70 percent,
