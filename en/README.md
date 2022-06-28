@@ -186,9 +186,8 @@ strong (possibly remembering the ass-kicking they received decades
 earlier), go blitzkrieg to create a psyc scare factor; AFG army would
 have to think "OMG US is leaving" along with "OMG Tali is coming
 in". That was their goal and they succeeded. Of course it looked bad
-for US, it sucked. But on the whole these people are poor live out of
-shoddy shacks with a few sheep hopefully used for regular things not
-taken advantage of.
+for US, it sucked. But on the whole these people are poor, live out of
+shoddy shacks with a few sheep
 
 ---
 
