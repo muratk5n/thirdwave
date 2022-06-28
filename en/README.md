@@ -66,8 +66,7 @@ blue hydrogen demands huge investments and a marketplace that needs
 collaboration between different nations, said Nabil Nuaim, Saudi
 Aramco’s chief digital officer... Nuaim also said that Aramco is
 looking at options to reduce the cost of hydrogen production and
-transport, and the company is checking whether existing pipelines and
-infrastructure are sufficient enough for the future"
+transport, and the company is checking.. existing pipelines"
 
 ---
 
