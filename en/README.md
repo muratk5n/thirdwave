@@ -116,8 +116,8 @@ TG. As Trump VP if he runs again?
 Turkists gaslight. Asia Minor relation in the seas could simply be
 explained by looking at the other nations in the area, but no...  We
 have to come up with some bed time story about a "migrant" who is
-"new" and "different" to the area because such narrative (at one
-point) was useful (it isn't even useful anymore, on top of being a
+"new" and "different" to the area because such narrative -at one
+point- was useful (it isn't even useful anymore, on top of being a
 blatant lie).
 
 ---
