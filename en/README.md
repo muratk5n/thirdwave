@@ -109,7 +109,7 @@ message would be 'see even my biggest detractor is in my corner now'.
 During Dem debates Gabbard was likely making a VP play (attacked
 Kamala, the other likely non-white female candidate
 -competition-). Now looks like some at Fox making another VP play for
-TG. As Trump VP if he runs again?
+her? As Trump VP if he runs again?
 
 ---
 
