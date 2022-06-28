@@ -81,7 +81,7 @@ according to Gazprom"
 ---
 
 Kamala attacked JB now she is VP. Actually attacking can be more
-fruitful, because if picked as VP candidate that can sell better, the
+useful, because if picked as VP candidate that can sell better, the
 message would be 'see even my biggest detractor is in my corner now'.
 
 ---
