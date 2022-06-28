@@ -80,6 +80,10 @@ according to Gazprom"
 
 ---
 
+Not that any of that matters now; JB net popularity sank further, -%16
+
+---
+
 Kamala attacked JB now she is VP. Actually attacking can be more
 useful, because if picked as VP candidate that can sell better, the
 message would be 'see even my biggest detractor is in my corner now'.
