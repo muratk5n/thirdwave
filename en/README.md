@@ -2,7 +2,16 @@
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Green Hydrogen in Play For Airbus Hydrogen Hub Scheme <a href="https://t.co/MHeX6n7yTg">https://t.co/MHeX6n7yTg</a></p>&mdash; CleanTechnica (@cleantechnica) <a href="https://twitter.com/cleantechnica/status/1541822635213996035?ref_src=twsrc%5Etfw">June 28, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<img width="95%" src="https://pbs.twimg.com/media/FWcaeXTWYAEPxfQ?format=jpg&name=small"/>
+
+CleanTechnica: "Green Hydrogen In Play For Airbus Hydrogen Hub
+Scheme.. Air travel has been inching towards decarbonization..  but
+the pace could pick up as Airbus follows through on its plan to
+develop hydrogen hubs at airports around the world. Not too long ago,
+that would involve a copious amount of fossil energy. However, Airbus
+has just inked an agreement with the global industrial gas firm Linde
+to help carry out its plan, and Linde has plans for juicing the green
+hydrogen supply chain""
 
 ---
 
