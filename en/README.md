@@ -167,11 +167,11 @@ this to take their place.
 There was no other way that stuff could have gone down... US is
 getting out, they are coming in. End of story. Tali had to come in
 strong (possibly remembering the ass-kicking they received decades
-earlier), go blitzkrieg to create a psyc scare factor; AFG army would
-have to think "OMG US is leaving" along with "OMG Tali is coming
-in". That was their goal and they succeeded. Of course it looked bad
-for US, it sucked. But on the whole these people are poor, live out of
-shoddy shacks with a few sheep
+earlier), go blitzkrieg to create a psyc scare factor; AFG army had to
+think "OMG US is leaving" along with "OMG Tali is coming in". That was
+their goal and they succeeded. Of course it looked bad for US, it
+sucked. But on the whole these people are poor, live out of shoddy
+shacks with a few sheep
 
 ---
 
