@@ -26,7 +26,7 @@ power to their global sustainable racing series"
 
 ---
 
-Hydrogen fuel cell patents rise, with China leading the way
+H2 Fuel News: "Hydrogen fuel cell patents rise, with China leading the way"
 
 ---
 
