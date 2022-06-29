@@ -96,7 +96,7 @@ her? As Trump VP if he runs again?
 
 ---
 
-Nationalists gaslight. Asia Minor relation in the seas could simply be
+Nationalists gaslight. Asia Minor relation to the seas could simply be
 explained by looking at the other nations in the area, but no...  We
 have to come up with some bed time story about a "migrant" who is
 "new" and "different" to the area because such narrative -at one
