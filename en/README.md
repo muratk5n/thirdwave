@@ -16,9 +16,9 @@ hydrogen supply chain""
 ---
 
 H2 View: "New hydrogen refuelling station ‘gold standard for
-speed’.. It was revealed today (June 29) an Austrian food retailer has
-started up Europe’s ‘most powerful’ hydrogen refuelling station
-designed and built by Linde Engineering in Völs, Austria"
+speed’.. It was revealed an Austrian food retailer has started up
+Europe’s ‘most powerful’ hydrogen refuelling station designed and
+built by Linde Engineering in Völs, Austria"
 
 ---
 
