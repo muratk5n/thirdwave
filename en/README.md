@@ -29,9 +29,9 @@ network"
 
 <img width="98%" src="https://pbs.twimg.com/media/FWcYY-wXgAA0s3R?format=jpg&name=small"/>
 
-"Extreme E announced today a multi-year relationship with ENOWA, NEOM’s
-energy, water and hydrogen subsidiary, to introduce green hydrogen
-power to their global sustainable racing series"
+Zawya: "Extreme E announced today a multi-year relationship with
+ENOWA, NEOM’s energy, water and hydrogen subsidiary, to introduce
+green hydrogen power to their global sustainable racing series"
 
 ---
 
