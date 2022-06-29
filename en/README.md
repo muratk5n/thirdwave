@@ -35,6 +35,16 @@ green hydrogen power to their global sustainable racing series"
 
 ---
 
+Gasunie.nl: "Gasunie starts construction of national hydrogen network
+in the Netherlands.. Today, Dutch Minister for Climate and Energy Rob
+Jetten announced new plans for the construction of a national
+transport network for hydrogen. Gasunie will develop the hydrogen
+network in the Netherlands in the coming years, after which it will
+assume the role of TSO (Transmission System Operator). Gasunie will
+also play an important role in the storage and import of hydrogen"
+
+---
+
 H2 Fuel News: "Hydrogen fuel cell patents rise, with China leading the way"
 
 ---
