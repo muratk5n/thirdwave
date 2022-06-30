@@ -102,15 +102,6 @@ image)..
 
 ---
 
-Former BOE head says central banks shouldn't have stimulated econ back
-during start of covid. Econ slowing down at that point wasn't
-textbook, in which case you'd have to lower rates, stimulate, it was
-the case of deliberately shutting down econ to stop spread of covid.
-
-[[-]](https://youtu.be/B6Zb_AvxT8g?t=198)
-
----
-
 Already looking ahead to the 'next challenge'? Done with Russia?
 Speculation: Everyone is guessing where the war is headed..  RU will
 finalize the conflict in its own terms, and be done attacking shit
