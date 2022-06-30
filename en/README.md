@@ -2,6 +2,12 @@
 
 ---
 
+Pinned Tweet
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Green Shipping Would Add Just 8 Cents to a Pair of <a href="https://twitter.com/hashtag/Nikes?src=hash&amp;ref_src=twsrc%5Etfw">#Nikes</a> - Running ships on <a href="https://twitter.com/hashtag/renewablehydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#renewablehydrogen</a> has almost no impact on the price of consumer goods from trainers to televisions - <a href="https://t.co/QOH5Sq9srL">https://t.co/QOH5Sq9srL</a> <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/HydrogenEconomy?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenEconomy</a> <a href="https://twitter.com/hashtag/HydrogenNews?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNews</a> <a href="https://twitter.com/hashtag/H2?src=hash&amp;ref_src=twsrc%5Etfw">#H2</a> <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> <a href="https://twitter.com/hashtag/FuelCells?src=hash&amp;ref_src=twsrc%5Etfw">#FuelCells</a> <a href="https://t.co/6DOHm3A6lo">pic.twitter.com/6DOHm3A6lo</a></p>&mdash; Fuel Cells Works (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1542127102941691904?ref_src=twsrc%5Etfw">June 29, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 World Finance: "Canadian Pacific on track with hydrogen
 locomotives.. With a focus on the transition to a low-carbon economy,
 Canadian Pacific has been developing North America’s first line-haul
