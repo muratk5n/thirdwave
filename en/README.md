@@ -97,7 +97,7 @@ Al Monitor: "Syria seizes record 2.3 tonnes of captagon: ministry"
 
 Some sites block copy and paste action; highly annoying. Don't make me
 PDF your site and `ocrmypdf` the whole thing (pulls out text out of
-image).. Cuz I will
+image).. 
 
 ---
 
