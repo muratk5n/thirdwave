@@ -35,7 +35,7 @@ gas (GHG) emissions by over 100,000 tonnes"
 
 H2 View: "The Australian Pilot Energy.. has concluded a Memorandum of
 Understanding (MoU) with 8 Rivers Capital to accelerate the deployment
-of 8 Rivers’ 8RH2 blue green hydrogen process and clean ammonia
+of 8 Rivers’ 8RH2 blue green hydrogen process and clean ammonia
 production at the project... 8 Rivers will also secure an offtake
 option for 172,500 tonnes per annum for clean ammonia-export from the
 Pilot site"
@@ -57,18 +57,6 @@ protest against layoffs by parent company Rogers Sports and Media"
 
 ---
 
-Not trying to make an incendiary remark on NATO, the org is useful
-where it is available.
-
----
-
-Wooow.. my map shows a drug export route from Belgium to US.. Maybe
-this nato connection was key for that..
-
-Voltaire.net: "Ecstasy lab seized on Kleine-Brogel NATO base"
-
----
-
 Another reason why we should switch to sealed-off controlled
 vertical-farming style environments. It is baffling humankind is
 relying on some bees or natural pollinators to suvive (if the
@@ -80,11 +68,15 @@ no more plants, no more animals, no more man."
 
 ---
 
-First Post: "70 per cent of Ukraine's exports, which account for 44
-per cent of its GDP, moved through its ports on the Black Sea and the
-Sea of Azar. These ports are now under Russian control and it is
-extremely unlikely that they will be back in Ukrainian hands in the
-foreseeable future"
+Not trying to make an incendiary remark on NATO, the org is useful
+where it is available.
+
+---
+
+Wooow.. my map shows a drug export route from Belgium to US.. Maybe
+this nato connection was key for that..
+
+Voltaire.net: "Ecstasy lab seized on Kleine-Brogel NATO base"
 
 ---
 
