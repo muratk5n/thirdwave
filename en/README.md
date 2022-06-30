@@ -80,7 +80,7 @@ where it is available.
 ---
 
 Wooow.. my map shows a drug export route from Belgium to US.. Maybe
-this nato connection was key for that..
+this NATO connection was key for that..
 
 Voltaire.net: "Ecstasy lab seized on Kleine-Brogel NATO base"
 
