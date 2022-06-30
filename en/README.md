@@ -134,7 +134,8 @@ shutting down communications and signals across a broad spectrum"
 
 ---
 
-Excessive comm can be a problem; RU prepared itself for that
+Excessive comm can be a problem; RU is prepared for that bcz it is
+preferred by NATO.
 
 NYT: "On Front Lines, Communication Breakdowns Prove Costly for
 Ukraine.. In the waning days of the battle for the eastern city of
