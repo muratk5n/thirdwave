@@ -2,82 +2,167 @@
 
 ---
 
-<img width="95%" src="https://pbs.twimg.com/media/FWcaeXTWYAEPxfQ?format=jpg&name=small"/>
+World Finance: "Canadian Pacific on track with hydrogen
+locomotives.. With a focus on the transition to a low-carbon economy,
+Canadian Pacific has been developing North America’s first line-haul
+hydrogen locomotive as a solution for freight rail decarbonisation"
 
-CleanTechnica: "Green Hydrogen In Play For Airbus Hydrogen Hub
-Scheme.. Air travel has been inching towards decarbonization..  but
-the pace could pick up as Airbus follows through on its plan to
-develop hydrogen hubs at airports around the world. Not too long ago,
-that would involve a copious amount of fossil energy. However, Airbus
-has just inked an agreement with the global industrial gas firm Linde
-to help carry out its plan, and Linde has plans for juicing the green
-hydrogen supply chain""
 
 ---
 
-H2 View: "New hydrogen refuelling station ‘gold standard for
-speed’.. It was revealed an Austrian food retailer has started up
-Europe’s ‘most powerful’ hydrogen refuelling station designed and
-built by Linde Engineering in Völs, Austria"
+H2 Fuel News: "Chevron to pour $2.5 billion into green and blue
+hydrogen.. Chevron has already invested into Hydrogenious, a liquid
+organic H2 carrier company, as well as Raven SR, a waste-to-H2
+company. The energy giant has also entered into a spectrum of
+collaboration agreements and memoranda of understanding with various
+organizations focusing on blue and green hydrogen such a Cummins,
+Caterpillar and Toyota"
 
 ---
 
-H2 View: "The Netherlands releases plans for national hydrogen
-network"
+H2 View: "Spanish hydrogen transport solutions firm, H2SITE, announced
+it has raised €12.5m ($13m) to scale up its technologies for ammonia
+or methanol cracking to produce hydrogen"
 
 ---
 
-<img width="98%" src="https://pbs.twimg.com/media/FWcYY-wXgAA0s3R?format=jpg&name=small"/>
-
-Zawya: "Extreme E announced today a multi-year relationship with
-ENOWA, NEOM’s energy, water and hydrogen subsidiary, to introduce
-green hydrogen power to their global sustainable racing series"
-
----
-
-Gasunie.nl: "Gasunie starts construction of national hydrogen network
-in the Netherlands.. Today, Dutch Minister for Climate and Energy Rob
-Jetten announced new plans for the construction of a national
-transport network for hydrogen. Gasunie will develop the hydrogen
-network in the Netherlands in the coming years, after which it will
-assume the role of TSO (Transmission System Operator). Gasunie will
-also play an important role in the storage and import of hydrogen"
+H2 View: "€770,000 ($802,900) have been awarded to chemicals
+manufacturer, INEOS, by a German state to support a feasibility study
+for hydrogen production in Köln, Germany, which could cut greenhouse
+gas (GHG) emissions by over 100,000 tonnes"
 
 ---
 
-H2 Fuel News: "Hydrogen fuel cell patents rise, with China leading the way"
+H2 View: "The Australian Pilot Energy.. has concluded a Memorandum of
+Understanding (MoU) with 8 Rivers Capital to accelerate the deployment
+of 8 Rivers’ 8RH2 blue green hydrogen process and clean ammonia
+production at the project... 8 Rivers will also secure an offtake
+option for 172,500 tonnes per annum for clean ammonia-export from the
+Pilot site"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Green Shipping Would Add Just 8 Cents to a Pair of <a href="https://twitter.com/hashtag/Nikes?src=hash&amp;ref_src=twsrc%5Etfw">#Nikes</a> - Running ships on <a href="https://twitter.com/hashtag/renewablehydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#renewablehydrogen</a> has almost no impact on the price of consumer goods from trainers to televisions - <a href="https://t.co/QOH5Sq9srL">https://t.co/QOH5Sq9srL</a> <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/HydrogenEconomy?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenEconomy</a> <a href="https://twitter.com/hashtag/HydrogenNews?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNews</a> <a href="https://twitter.com/hashtag/H2?src=hash&amp;ref_src=twsrc%5Etfw">#H2</a> <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> <a href="https://twitter.com/hashtag/FuelCells?src=hash&amp;ref_src=twsrc%5Etfw">#FuelCells</a> <a href="https://t.co/6DOHm3A6lo">pic.twitter.com/6DOHm3A6lo</a></p>&mdash; Fuel Cells Works (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1542127102941691904?ref_src=twsrc%5Etfw">June 29, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+WION: "New research claims that huge businesses like Coca-Cola and
+Unilever are misleading consumers by claiming that their plastic
+packaging is environmentally friendly reports, The Guardian"
 
 ---
 
-The Mandarin: "Agritech startups have grown by more than 80% since
-2012... Along with the world’s largest technology-focused investment
-fund, they’re injecting around US$200 million into vertical indoor
-farming startup 'Plenty'"
+The Guardian: "Mystery as Canadian radio station plays Rage Against
+the Machine song nonstop.. [S]omeone at a pop and soft rock station in
+Vancouver, Canada, began playing the song Killing in the Name by Rage
+Against the Machine... By midday, the song had played hundreds of
+times... prompting online speculation that the singular choice was a
+protest against layoffs by parent company Rogers Sports and Media"
 
 ---
 
-"@sturdyAlex
-
-'I'm absolutely astonished', @andrealeadsom says, 'that Nicola
-Sturgeon is allocating twenty million quid of taxpayers' money on a
-referendum... It's an SNP obsession, a vanity project.'
-
-How much has the Tory obsession, the Brexit vanity project cost the UK
-so far, Ms Leadsom"
+Not trying to make an incendiary remark on NATO, the org is useful
+where it is available.
 
 ---
 
-"@ExpectedValues
+Wooow.. my map shows a drug export route from Belgium to US.. Maybe
+this nato connection was key for that..
 
-FAANG Portfolio is down -39.17% YTD and going lower. Global REAL
-ESTATE is next. Real estate's rising prices create an illusion of
-strong fundamentals. 
+Voltaire.net: "Ecstasy lab seized on Kleine-Brogel NATO base"
 
-[[-]](https://bit.ly/3y5cm01)
+---
+
+Another reason why we should switch to sealed-off controlled
+vertical-farming style environments. It is baffling humankind is
+relying on some bees or natural pollinators to suvive (if the
+statement is true). Let's take nature out of the natural (food).
+
+"If the bees disappear off the surface of the globe then man would
+only have four years of life left. No more bees, no more pollination,
+no more plants, no more animals, no more man."
+
+---
+
+First Post: "70 per cent of Ukraine's exports, which account for 44
+per cent of its GDP, moved through its ports on the Black Sea and the
+Sea of Azar. These ports are now under Russian control and it is
+extremely unlikely that they will be back in Ukrainian hands in the
+foreseeable future"
+
+---
+
+That's a lot.. Where was the shipment going? Doesn't say in the news
+item. I'd like to kep my trafficking database up-to-date.
+
+Al Monitor: "Syria seizes record 2.3 tonnes of captagon: ministry"
+
+---
+
+Some sites block copy and paste action; highly annoying. Don't make me
+PDF your site and `ocrmypdf` the whole thing (pulls out text out of
+image).. Cuz I will
+
+---
+
+Former BOE gov says central banks shouldn't have stimulated econ back
+during start of covid. Econ slowing down at that point wasn't
+textbook, in which case you'd have to lower rates, stimulate, it was
+the case of deliberately shutting down econ to stop spread of covid.
+
+[[-]](https://youtu.be/B6Zb_AvxT8g?t=198)
+
+---
+
+Already looking ahead to the 'next challenge'? Done with Russia?
+Speculation: Everyone is guessing where the war is headed..  RU will
+finalize the conflict in its own terms, and be done attacking shit
+left and right for a while. NATO will need something to do in the
+meantime.
+
+Al Jazeera: "NATO declares China a security challenge for the first time"
+
+---
+
+"The key cornerstone of U.S. and NATO methodology is maneuver
+warfare. Maneuver warfare depends on communication and synchronization
+of assets. The U.S. has communication infrastructure down to the four
+man Infantry Fire Team level and the ability to battle track those
+formations with almost real-time speed. When everything functions as
+designed, these smaller formations can achieve much larger effects
+than their Russian equivalent..
+
+Because of maneuver warfare’s reliance on communication, Russia has
+invested heavily in Electronic Warfare systems which are capable of
+shutting down communications and signals across a broad spectrum"
+
+[RU NewGen Warfware Handbook]https://info.publicintelligence.net/AWG-RussianNewWarfareHandbook.pdf
+
+---
+
+Excessive comm can be a problem; RU prepared itself for that
+
+NYT: "On Front Lines, Communication Breakdowns Prove Costly for
+Ukraine.. In the waning days of the battle for the eastern city of
+Sievierodonetsk, a Ukrainian National Guard sergeant had a problem:
+His platoon’s flank was exposed and he needed to tell his men the
+Russians were approaching.But he couldn’t. For 15 soldiers spread
+across a defensive line stretching roughly 200 yards, he had only two
+radios.. By the time the sergeant.. managed to run to his men’s
+position, three of them had been killed"
+
+---
+
+"@DanDePetris
+
+The 'rules-based international order' is actually the U.S.-dominated
+international order. That’s what U.S. officials mean when they use the
+term"
+
+---
+
+Al Monitor: "Ukraine war causes major food, fuel price hikes across Middle East"
+
+---
+
+"Europe Moves to Defuse Tension With Moscow Over Russian Exclave
+Kaliningrad"
 
 ---
 

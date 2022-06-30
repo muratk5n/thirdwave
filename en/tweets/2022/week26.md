@@ -1,5 +1,85 @@
 # Week 26 
 
+
+<img width="95%" src="https://pbs.twimg.com/media/FWcaeXTWYAEPxfQ?format=jpg&name=small"/>
+
+CleanTechnica: "Green Hydrogen In Play For Airbus Hydrogen Hub
+Scheme.. Air travel has been inching towards decarbonization..  but
+the pace could pick up as Airbus follows through on its plan to
+develop hydrogen hubs at airports around the world. Not too long ago,
+that would involve a copious amount of fossil energy. However, Airbus
+has just inked an agreement with the global industrial gas firm Linde
+to help carry out its plan, and Linde has plans for juicing the green
+hydrogen supply chain""
+
+---
+
+H2 View: "New hydrogen refuelling station ‘gold standard for
+speed’.. It was revealed an Austrian food retailer has started up
+Europe’s ‘most powerful’ hydrogen refuelling station designed and
+built by Linde Engineering in Völs, Austria"
+
+---
+
+H2 View: "The Netherlands releases plans for national hydrogen
+network"
+
+---
+
+<img width="98%" src="https://pbs.twimg.com/media/FWcYY-wXgAA0s3R?format=jpg&name=small"/>
+
+Zawya: "Extreme E announced today a multi-year relationship with
+ENOWA, NEOM’s energy, water and hydrogen subsidiary, to introduce
+green hydrogen power to their global sustainable racing series"
+
+---
+
+Gasunie.nl: "Gasunie starts construction of national hydrogen network
+in the Netherlands.. Today, Dutch Minister for Climate and Energy Rob
+Jetten announced new plans for the construction of a national
+transport network for hydrogen. Gasunie will develop the hydrogen
+network in the Netherlands in the coming years, after which it will
+assume the role of TSO (Transmission System Operator). Gasunie will
+also play an important role in the storage and import of hydrogen"
+
+---
+
+H2 Fuel News: "Hydrogen fuel cell patents rise, with China leading the way"
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Green Shipping Would Add Just 8 Cents to a Pair of <a href="https://twitter.com/hashtag/Nikes?src=hash&amp;ref_src=twsrc%5Etfw">#Nikes</a> - Running ships on <a href="https://twitter.com/hashtag/renewablehydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#renewablehydrogen</a> has almost no impact on the price of consumer goods from trainers to televisions - <a href="https://t.co/QOH5Sq9srL">https://t.co/QOH5Sq9srL</a> <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/HydrogenEconomy?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenEconomy</a> <a href="https://twitter.com/hashtag/HydrogenNews?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNews</a> <a href="https://twitter.com/hashtag/H2?src=hash&amp;ref_src=twsrc%5Etfw">#H2</a> <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> <a href="https://twitter.com/hashtag/FuelCells?src=hash&amp;ref_src=twsrc%5Etfw">#FuelCells</a> <a href="https://t.co/6DOHm3A6lo">pic.twitter.com/6DOHm3A6lo</a></p>&mdash; Fuel Cells Works (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1542127102941691904?ref_src=twsrc%5Etfw">June 29, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+The Mandarin: "Agritech startups have grown by more than 80% since
+2012... Along with the world’s largest technology-focused investment
+fund, they’re injecting around US$200 million into vertical indoor
+farming startup 'Plenty'"
+
+---
+
+"@sturdyAlex
+
+'I'm absolutely astonished', @andrealeadsom says, 'that Nicola
+Sturgeon is allocating twenty million quid of taxpayers' money on a
+referendum... It's an SNP obsession, a vanity project.'
+
+How much has the Tory obsession, the Brexit vanity project cost the UK
+so far, Ms Leadsom"
+
+---
+
+"@ExpectedValues
+
+FAANG Portfolio is down -39.17% YTD and going lower. Global REAL
+ESTATE is next. Real estate's rising prices create an illusion of
+strong fundamentals. 
+
+[[-]](https://bit.ly/3y5cm01)
+
+---
+
 H2 Fuel News: "Gasgrid Finland mandated to promote hydrogen
 infrastructure development.. The Finnish government is also mandating
 that this occurs on both a national and international level"
