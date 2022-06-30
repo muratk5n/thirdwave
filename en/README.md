@@ -67,7 +67,7 @@ Not about this bee thing per se, but the world should switch to
 sealed-off controlled vertical-farming style environments, plus
 lab-farm meat and related products.. It is baffling humankind is
 relying on so many natural processes to survive.. Let's take nature
-out of the natural, nam sayin'?
+out of the natural ;|
 
 ---
 
