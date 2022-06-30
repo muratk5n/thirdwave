@@ -133,7 +133,7 @@ Because of maneuver warfare’s reliance on communication, Russia has
 invested heavily in Electronic Warfare systems which are capable of
 shutting down communications and signals across a broad spectrum"
 
-[RU NewGen Warfware Handbook](https://info.publicintelligence.net/AWG-RussianNewWarfareHandbook.pdf)
+[RU NewGen Warfare Handbook](https://info.publicintelligence.net/AWG-RussianNewWarfareHandbook.pdf)
 
 ---
 
