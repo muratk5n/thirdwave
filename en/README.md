@@ -60,7 +60,7 @@ protest against layoffs by parent company Rogers Sports and Media"
 Another reason why we should switch to sealed-off controlled
 vertical-farming style environments. It is baffling humankind is
 relying on some bees or natural pollinators to suvive (if the
-statement is true). Let's take nature out of the natural (food).
+statement is true). Let's take nature out of the natural, nam sayin'?
 
 "If the bees disappear off the surface of the globe then man would
 only have four years of life left. No more bees, no more pollination,
