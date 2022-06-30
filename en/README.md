@@ -90,7 +90,7 @@ Voltaire.net: "Ecstasy lab seized on Kleine-Brogel NATO base"
 ---
 
 That's a lot.. Where was the shipment going? Doesn't say in the news
-item. I'd like to kep my trafficking database up-to-date.
+item. I'd like to keep my trafficking database up-to-date.
 
 Al Monitor: "Syria seizes record 2.3 tonnes of captagon: ministry"
 
