@@ -102,7 +102,7 @@ image)..
 
 ---
 
-Former BOE gov says central banks shouldn't have stimulated econ back
+Former BOE head says central banks shouldn't have stimulated econ back
 during start of covid. Econ slowing down at that point wasn't
 textbook, in which case you'd have to lower rates, stimulate, it was
 the case of deliberately shutting down econ to stop spread of covid.
