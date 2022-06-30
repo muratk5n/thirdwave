@@ -103,7 +103,7 @@ image)..
 ---
 
 Already looking ahead to the 'next challenge'? Done with Russia?
-Speculation: Everyone is guessing where the war is headed..  RU will
+Speculation: Most can guess where the war is headed..  RU will
 finalize the conflict in its own terms, and be done attacking shit
 left and right for a while. NATO will need something to do in the
 meantime.
