@@ -29,6 +29,12 @@ Electrolyzer.
 
 ---
 
+"@PlugPowerInc, Engie New Ventures among founding shareholders of
+GravitHy scheme to build French plant that will use nuclear and
+renewables for hydrogen-backed green steel"
+
+---
+
 Proactive Investors: "AFC Energy says interest in hydrogen projects at
 'unpredecented' levels"
 
