@@ -117,7 +117,7 @@ Its hilarious.. so much ho/bro energy..
 
 "@wallstreetpro
 
-This did not age well. Remember this guy? ￼ #BlockFi"
+This did not age well. Remember this guy?"
 
 [[-]](https://mobile.twitter.com/wallstreetpro/status/1541776499942035458)
 
