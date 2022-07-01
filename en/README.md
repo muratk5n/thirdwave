@@ -8,6 +8,11 @@ Pinned Tweet
 
 ---
 
+H2 View: "European consortium bets big on hydrogen produced green
+steel.. [A] consortium with its sights set on leading the market for
+green iron and steel from hydrogen was announced, with plans to
+mobilise €2.2bn ($2.3bn) of investment"
+
 @JoSamps92
 
 @RollsRoyce is entering the #hydrogen production market and acquiring
