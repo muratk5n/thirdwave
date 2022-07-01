@@ -13,6 +13,14 @@ steel.. [A] consortium with its sights set on leading the market for
 green iron and steel from hydrogen was announced, with plans to
 mobilise €2.2bn ($2.3bn) of investment"
 
+---
+
+H2 Fuel News: "ExxonMobil partnership investigates Norwegian green
+hydrogen and ammonia.. The effort is being made to use H2 for the
+purpose of decarbonizing the marine industry"
+
+---
+
 @JoSamps92
 
 @RollsRoyce is entering the #hydrogen production market and acquiring
