@@ -8,154 +8,112 @@ Pinned Tweet
 
 ---
 
-World Finance: "Canadian Pacific on track with hydrogen
-locomotives.. With a focus on the transition to a low-carbon economy,
-Canadian Pacific has been developing North America’s first line-haul
-hydrogen locomotive as a solution for freight rail decarbonisation"
+@JoSamps92
 
-
----
-
-H2 Fuel News: "Chevron to pour $2.5 billion into green and blue
-hydrogen.. Chevron has already invested into Hydrogenious, a liquid
-organic H2 carrier company, as well as Raven SR, a waste-to-H2
-company. The energy giant has also entered into a spectrum of
-collaboration agreements and memoranda of understanding with various
-organizations focusing on blue and green hydrogen such a Cummins,
-Caterpillar and Toyota"
+@RollsRoyce is entering the #hydrogen production market and acquiring
+a 54% majority stake in electrolysis stack specialist Hoeller
+Electrolyzer.
 
 ---
 
-H2 View: "Spanish hydrogen transport solutions firm, H2SITE, announced
-it has raised €12.5m ($13m) to scale up its technologies for ammonia
-or methanol cracking to produce hydrogen"
+Proactive Investors: "AFC Energy says interest in hydrogen projects at
+'unpredecented' levels"
 
 ---
 
-H2 View: "€770,000 ($802,900) have been awarded to chemicals
-manufacturer, INEOS, by a German state to support a feasibility study
-for hydrogen production in Köln, Germany, which could cut greenhouse
-gas (GHG) emissions by over 100,000 tonnes"
+Euractiv: "Germany’s Scholz rallies G7 countries behind ‘climate club’
+idea..
+
+It will be built on three policies. Firstly, ambitious climate
+“mitigation” policies to reduce emission intensities of participating
+economies where members share best practices and work towards a common
+understanding of the economic impacts of “mitigation” policies, such
+as through explicit carbon pricing.
+
+A second pillar will be the joint transformation of industry through
+the industrial decarbonisation agenda, the hydrogen action pact and by
+expanding markets for green industrial products, which often struggle
+to compete on price with their more polluting fossil competitors.
+
+The climate club’s third pillar will be partnerships and cooperation,
+with the statement highlighting the “Just Energy Transition
+Partnerships” (JETPs), which are schemes tailored to countries like
+South Africa or India. Countries will receive financial support and
+technology transfers depending on their level of climate ambition
+through these JETPs"
 
 ---
 
-H2 View: "The Australian Pilot Energy.. has concluded a Memorandum of
-Understanding (MoU) with 8 Rivers Capital to accelerate the deployment
-of 8 Rivers’ 8RH2 blue green hydrogen process and clean ammonia
-production at the project... 8 Rivers will also secure an offtake
-option for 172,500 tonnes per annum for clean ammonia-export from the
-Pilot site"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Queensland airline Skytrans unveils plans for Australia’s first <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a>-fuelled plane.<br><br>The airline, which operates out of Cairns and flies to Cape York and the Torres Strait, says the first plane will be in the air by 2026. Via <a href="https://twitter.com/guardian?ref_src=twsrc%5Etfw">@guardian</a> <a href="https://t.co/sW0Eg6VqN2">https://t.co/sW0Eg6VqN2</a></p>&mdash; Joanna Sampson (@JoSamps92) <a href="https://twitter.com/JoSamps92/status/1542418919415320576?ref_src=twsrc%5Etfw">June 30, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-WION: "New research claims that huge businesses like Coca-Cola and
-Unilever are misleading consumers by claiming that their plastic
-packaging is environmentally friendly reports, The Guardian"
+<img width="340" src="https://pbs.twimg.com/media/FWjzSrBXEAAvsiu?format=jpg&name=small"/>
+
+via @elerianm
 
 ---
 
-The Guardian: "Mystery as Canadian radio station plays Rage Against
-the Machine song nonstop.. [S]omeone at a pop and soft rock station in
-Vancouver, Canada, began playing the song Killing in the Name by Rage
-Against the Machine... By midday, the song had played hundreds of
-times... prompting online speculation that the singular choice was a
-protest against layoffs by parent company Rogers Sports and Media"
+Asia minor is kicked out of the program, Greece will get the planes
+
+Janes Defense: "Greece submits letter of request for F-35"
 
 ---
 
-Not about this bee thing per se, but the world should switch to
-sealed-off controlled vertical-farming style environments, plus
-lab-farm meat and related products.. It is baffling humankind is
-relying on so many natural processes to survive.. Let's take nature
-out of the natural ;|
+Quick let's buy this dip!
+
+Aw shit
 
 ---
 
-"If the bees disappear off the surface of the globe then man would
-only have four years of life left. No more bees, no more pollination,
-no more plants, no more animals, no more man."
+Wah wah wah waaah
+
+<img width="340" src="https://pbs.twimg.com/media/FWgo4FsUIAUmcem?format=png&name=small"/>
 
 ---
 
-Not trying to make an incendiary remark on NATO, the org is useful
-where it is available.
+The Apollo missions were not dumb tries; had clear goals (Lyndon
+Johnson knew his shit).
+
+Kennedy just made that speech, "we go to the Moon because I'm haahd"..
+that's it. The idea was LBJ's. Clear goal backed with know-how.
 
 ---
 
-Wooow.. my map shows a drug export route from Belgium to US.. Maybe
-the NATO connection was key for that..
-
-Voltaire.net: "Ecstasy lab seized on Kleine-Brogel NATO base"
-
----
-
-That's a lot.. Where was the shipment going? Doesn't say in the news
-item. I'd like to keep my trafficking database up-to-date.
-
-Al Monitor: "Syria seizes record 2.3 tonnes of captagon: ministry"
+Electrification goal: another dumb try. There isn't enough lithium in
+the world. The electric grid is inefficient and will always be so; the
+base science is screwed up. Can't "tinker", "take a chance" your way
+out of this problem.
 
 ---
 
-Some sites block copy and paste action; highly annoying. Don't make me
-PDF your site and `ocrmypdf` the whole thing (pulls out text out of
-image).. 
+A lot about US is about "dumb tries". You win by trying a lot, and
+hopefully 'striking gold'. That approach might be reaching the end of
+its usefulness. The culture likely formed while exploring the "new
+lands", all you needed was courage, a push, enough for you to start
+the journey, the rest would be adventure and hopefully a lot of gains.
+
+But tinkering with a dangerous virus gave us covid. Stupid courage can
+push you to Mars, but will also kill you there. Crossing the Atlantic
+to reach new lands was different type of experimentation.. There was
+still land, air, the downside for failure actually wasn't too high.
 
 ---
 
-Already looking ahead to the 'next challenge'? Done with Russia?
-Speculation: Most can guess where the war is headed..  RU will
-finalize the conflict in its own terms, and be done attacking shit
-left and right for a while. NATO will need something to do in the
-meantime.
+Its hilarious.. so much ho/bro energy.. 
 
-Al Jazeera: "NATO declares China a security challenge for the first time"
+"@wallstreetpro
 
----
+This did not age well. Remember this guy? ￼ #BlockFi"
 
-"The key cornerstone of U.S. and NATO methodology is maneuver
-warfare. Maneuver warfare depends on communication and synchronization
-of assets. The U.S. has communication infrastructure down to the four
-man Infantry Fire Team level and the ability to battle track those
-formations with almost real-time speed. When everything functions as
-designed, these smaller formations can achieve much larger effects
-than their Russian equivalent..
-
-Because of maneuver warfare’s reliance on communication, Russia has
-invested heavily in Electronic Warfare systems which are capable of
-shutting down communications and signals across a broad spectrum"
-
-[RU NewGen Warfare Handbook](https://info.publicintelligence.net/AWG-RussianNewWarfareHandbook.pdf)
+[[-]](https://mobile.twitter.com/wallstreetpro/status/1541776499942035458)
 
 ---
 
-Excessive comm can be a problem; RU is prepared for that bcz is
-preferred by NATO.
-
-NYT: "On Front Lines, Communication Breakdowns Prove Costly for
-Ukraine.. In the waning days of the battle for the eastern city of
-Sievierodonetsk, a Ukrainian National Guard sergeant had a problem:
-His platoon’s flank was exposed and he needed to tell his men the
-Russians were approaching.But he couldn’t. For 15 soldiers spread
-across a defensive line stretching roughly 200 yards, he had only two
-radios.. By the time the sergeant.. managed to run to his men’s
-position, three of them had been killed"
-
----
-
-"@DanDePetris
-
-The 'rules-based international order' is actually the U.S.-dominated
-international order. That’s what U.S. officials mean when they use the
-term"
-
----
-
-Al Monitor: "Ukraine war causes major food, fuel price hikes across Middle East"
-
----
-
-"Europe Moves to Defuse Tension With Moscow Over Russian Exclave
-Kaliningrad"
+"EU agrees on landmark regulation to clean up crypto 'Wild West'.. The
+new law, known as Markets in Crypto-Assets (MiCA), is the first
+attempt at creating a comprehensive regulatory framework for digital
+assets in the EU"
 
 ---
 
