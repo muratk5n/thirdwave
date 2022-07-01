@@ -94,8 +94,9 @@ Wah wah wah waaah
 The Apollo missions were not dumb tries; had clear goals (Lyndon
 Johnson knew his shit).
 
-Kennedy just made that speech, "we go to the Moon because I'm haahd"..
-that's it. The idea was LBJ's. Clear goal backed with know-how.
+Kennedy just made that one speech, "we go to the Moon because I'm
+haahd"..  that's it. The idea was LBJ's. Clear goal backed with
+know-how.
 
 ---
 
