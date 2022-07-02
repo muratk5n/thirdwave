@@ -150,7 +150,7 @@ to the police scanner"
 ---
 
 Yeah? One for all, all for one type of deal? A Mini Medi-NATO? That is
-significant. FR has some strat interest in Eastern Medi for sure.
+significant. FR has some strat interest in Eastern Med for sure.
 
 "[9/2021] Under the conditions of the agreement signed by [Greece and
 France], France has pledged to provide immediate military assistance
