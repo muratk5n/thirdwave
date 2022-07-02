@@ -75,15 +75,15 @@ nothing. Good actor.
 
 ---
 
-Centrist Democrats started this whole mess by inflaming culture wars,
+Centrist Democrats caused this whole mess by inflaming culture wars,
 then not being able to fight it, were hammered, the current SCOTUS is
 the result of that. But the starting of that fight could have been a
-sign of desperation itself, pols could find a working political setup
-at the federal level, so they resorted to these secondary measures,
-issues (and some are pummeled by them, and now the whole country looks
-like a f-ing joke, the place who fought for slavery cannot guarantee
-basic freedoms to women). If you cant handle the federal level, then
-well, maybe you don't have a federal level.
+sign of desperation, pols could find a working political setup at the
+federal level, so they resorted to these secondary measures, issues
+(and some are pummeled by them, and now the parties look like a joke,
+the country who fought for slavery cannot guarantee basic freedoms to
+half of its population). If you cant handle the federal level, then
+well, maybe soon you won't have a federal level.
 
 ---
 
