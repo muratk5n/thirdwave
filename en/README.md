@@ -77,13 +77,13 @@ nothing. Not a bad actor.
 
 Centrist Democrats caused this whole mess by inflaming culture wars,
 then not being able to fight it, were hammered, the current SCOTUS is
-the result of that. But the starting of that fight could have been a
-sign of desperation, pols could find a working political setup at the
-federal level, so they resorted to these secondary measures, issues
-(and were pummeled by them, now the system looks like a joke, the
-country who fought for abolishing slavery cannot guarantee basic
-freedoms to half of its population). If you cant handle the federal
-level then, well, maybe you won't have a federal level.
+the result of that. But it cld be a sign of desperation too, pols
+could find a working political setup at the federal level, so they
+resorted to these secondary issues, measures (and were pummeled by
+them, making the system look like a joke -the country who fought for
+abolishing slavery cannot guarantee basic freedoms to half of its
+population-). Cant handle the federal level? Then well, maybe won't
+have a federal level pretty soon.
 
 ---
 
