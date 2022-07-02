@@ -82,8 +82,8 @@ could find a working political setup at the federal level, so they
 resorted to these secondary issues, measures (and were pummeled by
 them, making the system look like a joke -the country who fought for
 abolishing slavery cannot guarantee basic freedoms to half of its
-population-). Cant handle the federal level? Then well, maybe won't
-have a federal level pretty soon.
+population-). Cant handle the federal level? Then well, maybe soon
+won't have a federal level.
 
 ---
 
