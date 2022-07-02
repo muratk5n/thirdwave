@@ -38,7 +38,7 @@ H2 View: "Chinese 560 horsepower hydrogen-powered engine
 ignited.. Chinese engine manufacturer, Yuchai, has taken yet another
 step forward in its development of hydrogen-powered engines, as it
 announces the ignition of what it says is China’s largest and most
-powerful hydrogen-fuelled"
+powerful hydrogen-fuelled engine"
 
 ---
 
