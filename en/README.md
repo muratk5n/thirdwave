@@ -103,7 +103,7 @@ a clean slate, then start over. Be less united, then try again.
 What to do about the "dumb tinkering" approach commonly seen in US?
 Maybe bcz of latest SCOTUS actions against the "administrative state",
 will have the side effect of US eventually disintegrating. Then there
-won't be any experiementation of any kind at gov level, bcz nothing
+won't be any experimentation of any kind at gov level, bcz nothing
 will get done at that level.
 
 ---
@@ -115,7 +115,7 @@ doesn't know much about economics, but not bad here.
 ---
 
 Politico: "After decades of illegally crushing competition at the
-expense of consumers and small businesses, .. "Big Tech".. are finally
+expense of consumers and small businesses, .. 'Big Tech'.. are finally
 facing their antitrust comeuppance in Washington.. American Innovation
 and Choice Online Act (AICO).. would ban Big Tech companies from
 unfairly giving their products a boost over competitors. The prospect
