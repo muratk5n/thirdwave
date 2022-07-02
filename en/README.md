@@ -82,8 +82,8 @@ sign of desperation, pols could find a working political setup at the
 federal level, so they resorted to these secondary measures, issues
 (and were pummeled by them, now the system looks like a joke, the
 country who fought for slavery cannot guarantee basic freedoms to half
-of its population). If you cant handle the federal level, then well,
-maybe soon you won't have a federal level.
+of its population). If you cant handle the federal level then, well,
+maybe you won't have a federal level.
 
 ---
 
