@@ -78,14 +78,6 @@ diaspora in rich countries to distribute the stuff?
 
 ---
 
-Roe vs Wade is overturned.. There are too many Catholics in the
-SCOTUS. Someone needs to do something about that. They go to church
-suck cock.. They go home they suck cock... And now they go to work
-they still suck cock. Even Italians aren't this repulsively Roman
-anymore.. C'mon
-
----
-
 The new gun law is useless.. 
 
 ---

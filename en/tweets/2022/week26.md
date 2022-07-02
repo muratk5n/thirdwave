@@ -377,8 +377,7 @@ health care system"
 
 ---
 
-This guy is sucking his own cock. He thinks he is the shit.. Are you
-the Magister Equitum over there bitch?
+Are you the Magister Equitum over there bitch?
 
 NBC: "[Judge] Alito [said] that the Justices who previously backed
 'Roe' were wrong"
