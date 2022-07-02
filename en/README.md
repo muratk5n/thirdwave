@@ -71,7 +71,7 @@ nothing. Good actor.
 
 ---
 
-*The Terminal List* - going great so far.. Fine action, story. 
+*The Terminal List* - going great so far.. Fine story, good action.
 
 ---
 
