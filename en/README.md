@@ -101,7 +101,7 @@ a clean slate, then start over. Be less united, then try again.
 ---
 
 What to do about the "dumb tinkering" approach commonly seen in US?
-Maybe bcz of latest SCOTUS actions against the "administrative state",
+Maybe the latest SCOTUS stance against the "administrative state",
 will have the side effect of US eventually disintegrating. Then there
 won't be any experimentation of any kind at gov level, bcz nothing
 will get done at that level.
