@@ -67,7 +67,7 @@ renewable energy hydrogen supply chain between the countries"
 
 The friend, Ben.. I was wondering where that actor had gone.. Saw the
 guy on *Battleship* (good mov), one X-Men, *John Carter* (WTF?), then
-nothing. Good actor.
+nothing. Not a bad actor.
 
 ---
 
