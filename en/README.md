@@ -8,132 +8,172 @@ Pinned Tweet
 
 ---
 
-H2 View: "European consortium bets big on hydrogen produced green
-steel.. [A] consortium with its sights set on leading the market for
-green iron and steel from hydrogen was announced, with plans to
-mobilise €2.2bn ($2.3bn) of investment"
+H2 Central: "Ports of Stockholm and CMB.TECH are joining forces in a
+unique hydrogen collaboration at Stockholm Norvik Port. The investment
+in hydrogen will encompass port operations and will also expand
+service offerings to shipping companies and haulage firms, as well as
+other customers and collaboration partners.. The goal is for Stockholm
+Norvik Port to be Sweden’s most climate-smart and sustainable port"
 
 ---
 
-H2 Fuel News: "ExxonMobil partnership investigates Norwegian green
-hydrogen and ammonia.. The effort is being made to use H2 for the
-purpose of decarbonizing the marine industry"
+H2 Central: "The Commission aims to significantly boost the import and
+production of renewable hydrogen. In Fit for 55 – a major legislative
+overhaul as part of the EU’s Green Deal initiative – an initial 5,6
+million tons/anno of renewable hydrogen by 2030 were agreed upon,
+which are now raised by an additional 14,4 million tons/anno with the
+REPowerEU approach"
 
 ---
 
-@JoSamps92
-
-@RollsRoyce is entering the #hydrogen production market and acquiring
-a 54% majority stake in electrolysis stack specialist Hoeller
-Electrolyzer.
-
----
-
-"@PlugPowerInc, Engie New Ventures among founding shareholders of
-GravitHy scheme to build French plant that will use nuclear and
-renewables for hydrogen-backed green steel"
+H2 View: "H2SITE Raises 12,5M€ to Scale Membrane Reactor Breakthrough
+Technology.. The funding will accelerate the scale up of H2SITE’s
+integrated membrane reactor and membrane separation technologies to
+obtain fuel cell purity hydrogen from ammonia or methanol cracking, or
+enable hydrogen transportation in existing natural gas infrastructure"
 
 ---
 
-Proactive Investors: "AFC Energy says interest in hydrogen projects at
-'unpredecented' levels"
+H2 View: "Chinese 560 horsepower hydrogen-powered engine
+ignited.. Chinese engine manufacturer, Yuchai, has taken yet another
+step forward in its development of hydrogen-powered engines, as it
+announces the ignition of what it says is China’s largest and most
+powerful hydrogen-fuelled"
 
 ---
 
-Euractiv: "Germany’s Scholz rallies G7 countries behind ‘climate club’
-idea..
-
-It will be built on three policies. Firstly, ambitious climate
-“mitigation” policies to reduce emission intensities of participating
-economies where members share best practices and work towards a common
-understanding of the economic impacts of “mitigation” policies, such
-as through explicit carbon pricing.
-
-A second pillar will be the joint transformation of industry through
-the industrial decarbonisation agenda, the hydrogen action pact and by
-expanding markets for green industrial products, which often struggle
-to compete on price with their more polluting fossil competitors.
-
-The climate club’s third pillar will be partnerships and cooperation,
-with the statement highlighting the “Just Energy Transition
-Partnerships” (JETPs), which are schemes tailored to countries like
-South Africa or India. Countries will receive financial support and
-technology transfers depending on their level of climate ambition
-through these JETPs"
+H2 Central: "Ambassador of Armenia in France, Children of Armenia Fund
+(COAF) and HyGreenCo company.. have consented to sign a partnership
+agreement aimed at the construction of the first industrial
+demonstrator of.. the entire chain production of green hydrogen [in
+Armenia]"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Queensland airline Skytrans unveils plans for Australia’s first <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a>-fuelled plane.<br><br>The airline, which operates out of Cairns and flies to Cape York and the Torres Strait, says the first plane will be in the air by 2026. Via <a href="https://twitter.com/guardian?ref_src=twsrc%5Etfw">@guardian</a> <a href="https://t.co/sW0Eg6VqN2">https://t.co/sW0Eg6VqN2</a></p>&mdash; Joanna Sampson (@JoSamps92) <a href="https://twitter.com/JoSamps92/status/1542418919415320576?ref_src=twsrc%5Etfw">June 30, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"India Hydrogen Alliance Seeks $360 Million from Government to Deploy
+25 Green Hubs"
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/FWjzSrBXEAAvsiu?format=jpg&name=small"/>
+"@ANativeAngeleno
 
-via @elerianm
+Germany and Chile on Tuesday signed a letter of intent for a bilateral
+alliance on hydrogen production and trade to try to facilitate a
+renewable energy hydrogen supply chain between the countries"
 
----
-
-Asia minor is kicked out of the program, Greece will get the planes
-
-Janes Defense: "Greece submits letter of request for F-35"
+[[-]](http://ow.ly/8fy550JMXie )
 
 ---
 
-Quick let's buy this dip!
-
-Aw shit
-
----
-
-Wah wah wah waaah
-
-<img width="340" src="https://pbs.twimg.com/media/FWgo4FsUIAUmcem?format=png&name=small"/>
+The friend, Ben.. I was wondering where that actor had gone.. Saw the
+guy on *Battleship* (good mov), one X-Men, *John Carter* (WTF?), then
+nothing. Good actor.
 
 ---
 
-The Apollo missions were not dumb tries; had clear goals (Lyndon
-Johnson knew his shit).
-
-Kennedy just made that one speech, "we go to the Moon because I'm
-haahd"..  that's it. The idea was LBJ's. Clear goal backed with
-know-how.
+*The Terminal List* - going great so far.. Fine action, story. 
 
 ---
 
-Electrification goal: another dumb try. There isn't enough lithium in
-the world. The electric grid is inefficient and will always be so; the
-base science is screwed up. Can't "tinker", "take a chance" your way
-out of this problem.
+Centrist Democrats started this whole mess by inflaming culture wars,
+then not being able to fight it, were hammered, the current SCOTUS is
+the result of that. But the starting of that fight could have been a
+sign of desperation itself, pols could find a working political setup
+at the federal level, so they resorted to these secondary measures,
+issues (and some are pummeled by them, and now the whole country looks
+like a f-ing joke, the place who fought for slavery cannot guarantee
+basic freedoms to women). If you cant handle the federal level, then
+well, maybe you don't have a federal level.
 
 ---
 
-A lot about US is about "dumb tries". You win by trying a lot, and
-hopefully 'striking gold'. That approach might be reaching the end of
-its usefulness. The culture likely formed while exploring the "new
-lands", all you needed was courage, a push, enough for you to start
-the journey, the rest would be adventure and hopefully a lot of gains.
+One could argue United States became united without proper discussion,
+without proper debate, in a modern context. There was the civil war
+around slavery, federal/local divide was always an issue, but division
+settled.. too soon..? Post WWII the war-state bulldozed over
+everything anyway and took over, without much discussion.
 
-But tinkering with a dangerous virus gave us covid. Stupid courage can
-push you to Mars, but will also kill you there. Crossing the Atlantic
-to reach new lands was different type of experimentation.. There was
-still land, air, the downside for failure actually wasn't too high.
-
----
-
-Its hilarious.. so much ho/bro energy.. 
-
-"@wallstreetpro
-
-This did not age well. Remember this guy?"
-
-[[-]](https://mobile.twitter.com/wallstreetpro/status/1541776499942035458)
+Europe is going through that discussion now, how states work together,
+while still being distinctly seperate, we see some states join (and
+some leave).  Stuff is being worked on... Maybe US needs to go back to
+a clean slate, then start over. Be less united, then try again.
 
 ---
 
-"EU agrees on landmark regulation to clean up crypto 'Wild West'.. The
-new law, known as Markets in Crypto-Assets (MiCA), is the first
-attempt at creating a comprehensive regulatory framework for digital
-assets in the EU"
+What to do about the "dumb tinkering" approach commonly seen in US?
+Maybe bcz of latest SCOTUS actions against the "administrative state",
+will have the side effect of US eventually disintegrating. Then there
+won't be any experiementation of any kind at gov level, bcz nothing
+will get done at that level.
+
+---
+
+I say this about El Salvador's Bukake; his country does not show up in
+my drug trafficking map, so tough on drugs stance must be working. He
+doesn't know much about economics, but not bad here.
+
+---
+
+Politico: "After decades of illegally crushing competition at the
+expense of consumers and small businesses, .. "Big Tech".. are finally
+facing their antitrust comeuppance in Washington.. American Innovation
+and Choice Online Act (AICO).. would ban Big Tech companies from
+unfairly giving their products a boost over competitors. The prospect
+of this widely popular bill passing has led Big Tech to engage in one
+of the most desperate lobbying sprees in recent history. Big Tech’s
+“see-what-sticks” smear campaign against antitrust has encompassed
+everything from false claims about content moderation to urging
+consultants to pushing the message.. that AICO 'will harm communities
+of color'"
+
+---
+
+The Atlantic: "In May, the Tribune was acquired by Alden Global
+Capital, a secretive hedge fund that has quickly, and with remarkable
+ease, become one of the largest newspaper operators in the
+country. The new owners did not fly to Chicago to address the staff,
+nor did they bother with paeans to the vital civic role of
+journalism. Instead, they gutted the place...
+
+The hollowing-out of the Chicago Tribune was noted in the national
+press, of course. There were sober op-eds and lamentations on Twitter
+and expressions of disappointment by professors of journalism. But
+outside the industry, few seemed to notice. Meanwhile, the Tribune’s
+remaining staff, which had been spread thin even before Alden came
+along, struggled to perform the newspaper’s most basic
+functions. After a powerful Illinois state legislator resigned amid
+bribery allegations, the paper didn’t have a reporter in Springfield
+to follow the resulting scandal. And when Chicago suffered a brutal
+summer crime wave, the paper had no one on the night shift to listen
+to the police scanner"
+
+---
+
+Yeah? One for all, all for one type of deal? A mini-Medi NATO? That is
+significant. FR has some strat interest in Eastern Medi for sure.
+
+"[9/2021] Under the conditions of the agreement signed by [Greece and
+France], France has pledged to provide immediate military assistance
+to Greece – and vice versa – in the event of an attack by a third
+country, even if that country is in one of their alliances (such as
+Turkey, which is a NATO member)"
+
+[[-]](https://greekreporter.com/2021/09/28/the-entire-france-greece-defense-and-security-agreement/)
+
+---
+
+BBC: "Russia moves to take control of Sakhalin-2 oil and gas project..
+The project, which supplies about 4% of the world's current liquefied
+natural gas (LNG) market, is 50% owned and operated by Gazprom..  This
+appears to be a deeply political move. The impact is likely to be felt
+most keenly in Japan, which has been heavily involved in sanctions
+against Russia... Japan.. is heavily reliant on imports of liquid
+natural gas. Competition for shipments globally is currently intense -
+and the Sakhalin project alone currently meets about 8% of its needs"
+
+---
+
+WION: "First bus service between Crimea and Russian-held Ukraine territory starts"
 
 ---
 
