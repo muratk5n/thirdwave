@@ -112,7 +112,7 @@ worldwide deployments, by all countries.
 
 <a name='unarmed'/>
 
-### Unarmed Non-Whites Shot By Police
+### Unarmed People Shot By the Police
 
 Data is from WaPo Github [repo](https://github.com/washingtonpost/data-police-shootings).
 
@@ -120,9 +120,12 @@ Data is from WaPo Github [repo](https://github.com/washingtonpost/data-police-sh
 import pandas as pd
 f = 'https://raw.githubusercontent.com/washingtonpost/data-police-shootings/master/fatal-police-shootings-data.csv'
 df = pd.read_csv(f)
-df = df[(df.race != 'W') & (df.armed == 'unarmed')]
 df['year'] = pd.to_datetime(df['date']).dt.year
-df.groupby('year').size().plot(kind='bar')
+df1 = df[(df.race != 'W') & (df.armed == 'unarmed')]
+df1.groupby('year').size().plot()
+df2 = df[(df.race == 'W') & (df.armed == 'unarmed')]
+df2.groupby('year').size().plot()
+plt.legend(['Non-white','White'])
 plt.savefig('unarmed.png')
 ```
 
