@@ -28,10 +28,9 @@ enable a greater variety of research tests.
 
 'Currently nothing exists in this realm for this type of fueling. NASA
 does things like extremely high-mass transfer rates of liquid
-hydrogen, but this is completely new territory for the fuel-cell
-electric truck market,' he noted, adding that hydrogen-fueled trucks
-in operation are for light duty and use that type of refueling
-hardware.
+hydrogen, but this is completely new territory for the [FC] truck
+market,' he noted, adding that hydrogen-fueled trucks in operation are
+for light duty and use that type of refueling hardware.
 
 'Some manufacturers use one nozzle or two to fuel the
 trucks. Everything is based now on light-duty. This work will enable
