@@ -157,10 +157,10 @@ on June 24, Russian forces set their sights on neighboring
 Lysychansk.The twin cities were the last major population centers in
 Luhansk Province under Ukrainian control. Now with both in hand,
 Russia effectively controls all of the resource-rich region and can
-regroup with Donetsk in its cross hairs.Controlling Sievierodonetsk
+regroup with Donetsk in its cross hairs. Controlling Sievierodonetsk
 and Lysychansk means Russia could position its forces to mount
 offensives on cities to the southwest, notably Sloviansk, Kramatorsk
-and Bakhmut.Kramatorsk is one of the last major cities still under
+and Bakhmut. Kramatorsk is one of the last major cities still under
 Ukrainian control in Donetsk. If Kramatorsk falls, Mr. Putin's forces
 will in effect control the whole Donbas region"
 
