@@ -50,34 +50,10 @@ level"
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-"Several dozen Romanian and Bulgarian firefighters took up their posts
-in Greece on Saturday, the first members of a European force being
-deployed to the country to provide backup in case of major wildfires
-during the summer"
+Reuters: "Several dozen Romanian and Bulgarian firefighters took up
+their posts in Greece on Saturday, the first members of a European
+force being deployed to the country to provide backup in case of major
+wildfires during the summer"
 
 ---
 
