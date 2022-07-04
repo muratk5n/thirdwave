@@ -97,7 +97,7 @@ production scales one product design to many. Ed is still resisting
 such "economies of scale" benefits by insisting in-person delivery of
 content.
 
-"But Finland finds good teachers"
+"But Finland finds good teachers, and in sufficient numbers"
 
 ---
 
