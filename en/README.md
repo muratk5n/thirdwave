@@ -64,11 +64,11 @@ field... Karish"
 
 ---
 
-
 Update of the graph Unarmed People Shot By the Poh-lice, now show both
 whites and non-whites. Non-whites are being killed consistently more
-than whites, but overall numbers seem to be decreasing on a yearly
-basis.
+than whites, but overall numbers seem to be decreasing.
+
+Still, shot at 90 times? Dam \#akron
 
 [[-]](2019/05/confstats.html#unarmed)
 
