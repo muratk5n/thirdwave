@@ -113,7 +113,7 @@ face-to-face"
 
 Nation Building Masterclass
 
-[[-]](https://youtu.be/YKNFOq5nN0A)
+[[-]](https://youtu.be/YKNFOq5nN0A?t=44)
 
 ---
 
