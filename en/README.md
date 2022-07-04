@@ -161,7 +161,7 @@ regroup with Donetsk in its cross hairs.Controlling Sievierodonetsk
 and Lysychansk means Russia could position its forces to mount
 offensives on cities to the southwest, notably Sloviansk, Kramatorsk
 and Bakhmut.Kramatorsk is one of the last major cities still under
-Ukrainian control in Donetsk. If Kramatorsk falls, Mr. Putin?s forces
+Ukrainian control in Donetsk. If Kramatorsk falls, Mr. Putin's forces
 will in effect control the whole Donbas region"
 
 ---
