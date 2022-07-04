@@ -42,7 +42,7 @@ said"
 
 H2 Central: "Researchers at The Hong Kong University of Science and
 Technology (HKUST) have developed a new hydrogen fuel cell which is
-not only the world’s most durable1 to date, but is also more
+not only the world’s most durable to date, but is also more
 cost-effective..  [R]esearch team led by Prof.. Minhua.. found a new
 formula which not only could cut down the proportion of platinum used
 by 80 percent, but also set a record in terms of the cell’s durability
