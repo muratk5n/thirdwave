@@ -125,7 +125,7 @@ almost 2.9 million'"
 
 ---
 
-Ljung-Box Q-statistic 
+Ljung-Box 
 
 ```python
 acf,confint,qstat,pvalues = sm.tsa.acf(results.resid, nlags=4, alpha=95,qstat=True, unbiased=True)
