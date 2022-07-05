@@ -125,7 +125,7 @@ almost 2.9 million'"
 
 ---
 
-Ljung-Box 
+Ljung-Box
 
 ```python
 acf,confint,qstat,pvalues = sm.tsa.acf(results.resid, nlags=4, alpha=95,qstat=True, unbiased=True)
@@ -137,6 +137,8 @@ print (pvalues)
 [1.         0.99585547 0.99164499 0.98737151 0.98305291]
 [1.02286496e-121 5.63735022e-239 0.00000000e+000 0.00000000e+000]
 ```
+
+Low pval means autocorr
 
 ---
 
