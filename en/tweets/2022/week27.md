@@ -122,15 +122,14 @@ goods to the Russian exclave of Kaliningrad"
 
 ---
 
-Poland had made some noises some time ago on that saying Western
+Poland had made some noises some time ago on that too saying Western
 Ukraine is 'historically Polish'; code-word for 'we can take it'.  If
 RU successfully landlocks Ukraine the remaining parts will have a
 tough time on their own.
 
 ---
 
-Aha. Can Belarus use the opp to move South and take what is left of
-Ukraine (its western side)?
+Aha. Can Belarus use the opp to move South and take Western UKR?
 
 WION: "Lukashenko accuses Kyiv of firing missiles at Belarus: 'Will
 fight if our territory invaded'"
