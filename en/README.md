@@ -263,7 +263,7 @@ the same?
 
 ---
 
-The pre-1967 borders talk came up during 2010s, Netanya said
+Israel: The pre-1967 borders talk came up during 2010s, Netanya said
 'those borders were indefensible'. Of course the argument was
 [bullshit](https://www.972mag.com/netanyahus-lie-regrading-indefensible-1967-borders/).
 
