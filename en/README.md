@@ -109,7 +109,7 @@ One billion years of tectonic plate movements"
 
 "@dancow
 
-anyway I was thinking of Jack’s first tweet cratering in value b/c
+.. I was thinking of Jack’s first tweet cratering in value b/c
 it’s now July 2022, and brain geniuses are still horny posting on
 LinkedIn about how we’ll get rich by selling our airline ticket
 stubs. Please if you must do grifts I just want new believable ones"
