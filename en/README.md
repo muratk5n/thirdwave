@@ -180,7 +180,7 @@ raises to quash that self-reinforcing effect.
 ---
 
 They are likely paid from taxes, which means existing money, do not
-expand the money base. No new inflation.
+expand the money base. 
 
 ---
 
@@ -201,7 +201,7 @@ TDB: "‘Active Shooter’ Attacks July 4 Parade in Chicago Suburb"
 
 F-ing cops.. They shoot 90 times at the unarmed guy \#Akron, but won't
 go in to fight against the actually armed guy killing people
-\#Uwalde.. \#defundThePolice
+\#Uwalde.. What use are they? \#defundThePolice
 
 ---
 
