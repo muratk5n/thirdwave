@@ -78,6 +78,7 @@ lines, if they want a rebate on that tax, station has to prove their
 carbon emission is low. So gov is not 'regulating' but simply
 'checking' if company would be elligeble for a rebate.
 
+
 ---
 
 NYT: "Japan Swelters Through a Punishing Heat Wave.. Temperatures in
