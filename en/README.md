@@ -72,11 +72,11 @@ Just fold'em out they are ready to go
 
 ---
 
-SCOTUS struck down carbon regulation? Work-around idea; power stations
-can be charged a high blanket tax for energy transmission across state
-lines, if they want a rebate on that tax, station has to prove their
-carbon emission is low. So gov is not 'regulating' but simply
-'checking' if company would be elligeble for a rebate.
+SCOTUS limits EPA emission reg ability? Work-around idea; power
+stations can be charged a high blanket tax for energy transmission
+across state lines, if they want a rebate on that tax, station has to
+prove their carbon emission is low. So gov is not 'regulating' but
+simply 'checking' if company would be elligeble for a rebate.
 
 
 ---
