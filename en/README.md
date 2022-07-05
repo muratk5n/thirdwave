@@ -238,14 +238,14 @@ History Channel: "Israel’s stunning victory in the Six-Day War of 1967
 left the Jewish nation in control of territory four times its previous
 size. Egypt lost the 23,500-square-mile Sinai Peninsula and the Gaza
 Strip, Jordan lost the West Bank and East Jerusalem, and Syria lost
-the strategic Golan Heights. When Anwar el-Sadat (1918-81) became
-president of Egypt in 1970, he found himself leader of an economically
-troubled nation that could ill afford to continue its endless crusade
-against Israel. He wanted to make peace and thereby achieve stability
-and recovery of the Sinai, but after Israel’s 1967 victory it was
-unlikely that Israel’s peace terms would be favorable to Egypt. So
-Sadat conceived of a daring plan to attack Israel again, which, even
-if unsuccessful, might convince the Israelis that peace with Egypt was
+the strategic Golan Heights. When Anwar el-Sadat became president of
+Egypt in 1970, he found himself leader of an economically troubled
+nation that could ill afford to continue its endless crusade against
+Israel. He wanted to make peace and thereby achieve stability and
+recovery of the Sinai, but after Israel’s 1967 victory it was unlikely
+that Israel’s peace terms would be favorable to Egypt. So Sadat
+conceived of a daring plan to attack Israel again, which, even if
+unsuccessful, might convince the Israelis that peace with Egypt was
 necessary.
 
 In 1972, Sadat expelled 20,000 Soviet advisers from Egypt and opened
