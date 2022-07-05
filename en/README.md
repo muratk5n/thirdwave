@@ -215,10 +215,10 @@ related to federal writs of habeas corpus"
 
 ---
 
-"Suez Canal Expansion Accelerated as April Traffic Breaks Historic
-Records.. Tanker transit statistics via the Suez Canal broke historic
-records in April as Europe sought to import more crude oil and LNG
-from the Arab Gulf"
+"[4/2022] Suez Canal Expansion Accelerated as April Traffic Breaks
+Historic Records.. Tanker transit statistics via the Suez Canal broke
+historic records in April as Europe sought to import more crude oil
+and LNG from the Arab Gulf"
 
 [[-]](https://jpt.spe.org/suez-canal-expansion-accelerated-as-april-traffic-breaks-historic-records)
 
