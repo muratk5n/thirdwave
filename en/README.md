@@ -205,8 +205,9 @@ go in to fight against the actually armed guy killing people
 
 ---
 
-Politico: "Acting in concert, the president and Congress may shape
-both the size and purview of the court. They can declare individual
+Politico: "How the Founders Intended to Check the Supreme Court’s
+Power.. Acting in concert, the president and Congress may shape both
+the size and purview of the court. They can declare individual
 legislative measures or entire topics beyond their scope of
 review. It’s happened before, notably in 1868, when Congress passed
 legislation stripping the Supreme Court of its jurisdiction over cases
