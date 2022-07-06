@@ -165,7 +165,7 @@ iPhone, no way around that.
 
 ---
 
-That is as useless as making Bitcoin as the official currency.
+That is as useless as making Bitcoin the official currency.
 
 "Zimbabwe to introduce gold coins as local currency tumbles"
 
