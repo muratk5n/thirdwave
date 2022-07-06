@@ -168,7 +168,7 @@ no way around that.
 
 ---
 
-That is as useless as making Bitcoin as the official currency of your
+That is as useless as making Bitcoin as the official currency of a
 country. 
 
 "Zimbabwe to introduce gold coins as local currency tumbles"
