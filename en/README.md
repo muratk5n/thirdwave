@@ -175,11 +175,14 @@ country.
 
 ---
 
-Looks like US is stalling as much as Iran. \#JCPOA Does this have to
-with the fact that all functioning nuke weapon products are ultimately
-tied to the original US research, and since noone will give Iran that
-res, govs are not afraid of an Iranian nuke? What if the make dirty
-bombs with the uranium they have? Not an issue?
+Apparently all functioning nuke weapon products are ultimately tied to
+the original US research, and since noone will give Iran that, are
+govs not afraid of an Iranian nuke? Is that the reason for the lack of
+urgency? What if the make dirty bombs with the uranium they have? 
+
+---
+
+Looks like US is stalling as much as Iran is. \#JCPOA 
 
 [[-]](https://menaaffairs.com/what-would-the-us-and-iran-do-if-the-jcpoa-is-not-revived-policy-options/)
 
