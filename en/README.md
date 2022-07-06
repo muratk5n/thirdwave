@@ -121,6 +121,11 @@ they're published—or even written"
 
 ---
 
+I am not refering to JStew per se, just a general air of shitlib-ness,
+some of what he did surely falls in that category.
+
+---
+
 I'm not making this up, how pol discussion was diverted is now a [historical fact](2021/10/all-too-human.html#triangulation).
 
 ---
