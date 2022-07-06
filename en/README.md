@@ -128,7 +128,7 @@ Shitlibs gallantly fought [that war](https://drive.google.com/uc?export=view&id=
 for decades, then got egg on their face, and *still* no universal
 healthcare to show for it.. I guess they were fighting the wrong war..
 Or, to be exact, the war others manufactured for them to divert
-attention from other "less pressing" issues.
+attention from "unimportant" issues.
 
 ---
 
