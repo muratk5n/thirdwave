@@ -151,7 +151,7 @@ Fatback Band - Mister Bass Man \#music
 
 ---
 
-But hey these days bushels of wheat is becoming more valueable, so
+But hey these days bushels of wheat are becoming more valueable, so
 maybe soon 20 bushels will buy one iPhone.. Brighter days might be
 lying ahead for the wheat country.
 
