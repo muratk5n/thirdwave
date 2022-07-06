@@ -24,16 +24,16 @@ amounts of dedicated renewables"
 [Methane Prolysis](https://pbs.twimg.com/media/FW6zGhaWAAcNDyO?format=jpg&name=medium)
 
 ---
-	
-Gasworld: "FortisBC Energy, Suncor Energy and Hazer Group unveiled
-plans for a pilot project at Suncor’s Burrard Terminal site that will
-use methane pyrolysis technology to produce hydrogen while storing the
-carbon by-product as solid synthetic graphite..
 
-The technology set to be deployed at the Canadian site will be
-provided Australia’s Hazer Group and will generate approximately
-300,000 gigajoules of clean-burning gas energy that can replace the
-equivalent annual natural gas usage of approximately 3,300
+"Storing the carbon by-product as solid synthetic graphite". Good good...
+
+Gasworld: "FortisBC Energy, Suncor Energy and Hazer Group unveiled
+plans for a pilot project.. that will use methane pyrolysis technology
+to produce hydrogen while storing the carbon by-product as solid
+synthetic graphite.. The technology set to be deployed at the Canadian
+site will be provided Australia’s Hazer Group and will generate
+approximately 300,000 gigajoules of clean-burning gas energy that can
+replace the equivalent annual natural gas usage of approximately 3,300
 B.C. households"
 
 ---
