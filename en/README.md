@@ -88,9 +88,7 @@ mushroom packaging.. Magical Mushroom Company, a UK-based firm, mixes
 agricultural waste with the ‘root structure of a mushroom’ in order to
 make biodegradable material that is similar to other packaging options
 in terms of cost. It is touted as an alternative to plastic
-packaging.. At this point, the adverse effects of plastic – especially
-single-use or disposably plastic which never breaks down completely –
-on our oceans, our soil and our environment are well known"
+packaging"
 
 ---
 
