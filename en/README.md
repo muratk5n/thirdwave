@@ -159,9 +159,9 @@ lying ahead for the wheat country.
 
 If country wants to fix the value of its currency, it needs to produce
 goods, services foreigners are willing to buy, and stop printing
-money, handing it to people that will be inflationary.. If all country
-has is bushels of wheat, $10 per bushel 50 of that will buy 1 iPhone,
-no way around that. 
+money, handing it to people that will be inflationary.. If the only
+export item is bushels of wheat, $10 per bushel 50 of that will buy 1
+iPhone, no way around that.
 
 ---
 

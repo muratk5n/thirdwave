@@ -122,7 +122,8 @@ almost 2.9 million'"
 Ljung-Box
 
 ```python
-acf,confint,qstat,pvalues = sm.tsa.acf(results.resid, nlags=4, alpha=95,qstat=True, unbiased=True)
+import statsmodels.tsa.stattools as tsa
+acf,confint,qstat,pvalues = tsa.acf(results.resid, nlags=4, alpha=95,qstat=True, unbiased=True)
 print (acf)
 print (pvalues)
 ```
