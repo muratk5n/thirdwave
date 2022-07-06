@@ -121,8 +121,7 @@ they're published—or even written"
 
 ---
 
-I am not refering to JStew per se, just a general shitlib-ness, some
-of what he did surely falls in that category.
+Not refering to JStew per se, no
 
 ---
 
