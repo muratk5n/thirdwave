@@ -94,7 +94,7 @@ on our oceans, our soil and our environment are well known"
 
 ---
 
-Watched all of *The Terminal List*. Highly recommended 👍 
+Watched *The Terminal List*. Highly recommended.
 
 ---
 
