@@ -25,7 +25,7 @@ amounts of dedicated renewables"
 
 ---
 
-"Storing the carbon by-product as solid synthetic graphite". Nice.
+"Storing the carbon by-product as solid synthetic graphite". 
 
 Gasworld: "FortisBC Energy, Suncor Energy and Hazer Group unveiled
 plans for a pilot project.. that will use methane pyrolysis technology
