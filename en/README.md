@@ -185,7 +185,7 @@ Looks like US is stalling as much as Iran is. \#JCPOA
 
 ---
 
-Oil-rich nation has 'planned power cuts'. 
+Oil-rich nation with 'power cuts'. 
 
 "Libya protests planned over power cuts, political deadlock.. Libyans
 angered by rising prices, chronic power cuts and political deadlock
