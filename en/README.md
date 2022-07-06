@@ -2,9 +2,6 @@
 
 ---
 
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Daimler Truck Tests Fuel-Cell Truck with Liquid Hydrogen <a href="https://t.co/bo4Wqop4Ah">https://t.co/bo4Wqop4Ah</a> <a href="https://t.co/aEp9BsyjMF">pic.twitter.com/aEp9BsyjMF</a></p>&mdash; DOFT (@doft_com) <a href="https://twitter.com/doft_com/status/1541654639459717120?ref_src=twsrc%5Etfw">June 28, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
@@ -56,10 +53,10 @@ hydrogen will have a role to play in fuelling the sector"
 
 ---
 
-H2 View: "6.6bn dollar plan for 1.5GW green hydrogen and ammonia
-project in India.. ACME Group have announced further plans to scale up
-green hydrogen production in India, as it reveals an agreement for a
-Rs 52,474 crore ($6.6bn) green hydrogen and ammonia project in the
+H2 View: "$6.6bn plan for 1.5GW green hydrogen and ammonia project in
+India.. ACME Group have announced further plans to scale up green
+hydrogen production in India, as it reveals an agreement for a Rs
+52,474 crore (6.6bn dollar) green hydrogen and ammonia project in the
 state of Tamil Nadu"
 
 ---
