@@ -104,20 +104,20 @@ gangs transport vast quantities of drugs from Morocco to Spain"
 
 ---
 
-Reason: "Sensitivity Readers Are the New Literary Gatekeepers
-Overzealous gatekeeping on race and gender is killing books before
-they're published—or even written"
-
-[[-]](https://reason.com/2022/07/05/rise-of-the-sensitivity-reader/)
-
----
-
 The Boston Globe: "Two-plus years into the pandemic, many companies
 are anxious to get back to in-person work, but find their workers like
 hybrid life just fine. There’s a new turf war shaping up at work:
 managers who want everyone back in the “real” office vs. employees who
 prefer the one at home. And that standoff is leading to some
 irreconcilable conflicts"
+
+---
+
+Reason: "Sensitivity Readers Are the New Literary Gatekeepers
+Overzealous gatekeeping on race and gender is killing books before
+they're published—or even written"
+
+[[-]](https://reason.com/2022/07/05/rise-of-the-sensitivity-reader/)
 
 ---
 
