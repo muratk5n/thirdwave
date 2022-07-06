@@ -121,18 +121,14 @@ they're published—or even written"
 
 ---
 
-Not refering to JStew per se, no
-
----
-
 I'm not making this up, how pol discussion was diverted is now a [historical fact](2021/10/all-too-human.html#triangulation).
 
 ---
 
-Yea.. Fought [that war](https://drive.google.com/uc?export=view&id=1r8wAGwhOmflPy0vCbbSEM0mSb16Ua7qF)
-for decades, then got egg on your face shitlib, and *still* no universal
-healthcare to show for it.. I'm thinking you were fighting the wrong war.
-Or, to be exact, the war others manufactured for you to divert
+Shitlibs gallantly fought [that war](https://drive.google.com/uc?export=view&id=1r8wAGwhOmflPy0vCbbSEM0mSb16Ua7qF)
+for decades, then got egg on their face, and *still* no universal
+healthcare to show for it.. I guess they were fighting the wrong war..
+Or, to be exact, the war others manufactured for them to divert
 attention from other "less pressing" issues.
 
 ---
