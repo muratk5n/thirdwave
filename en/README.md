@@ -63,11 +63,10 @@ state of Tamil Nadu"
 
 "@H2Standard
 
-French companies plans to develop the first h2-powered fuel cell barge
+French companies plans to develop the first H2-powered fuel-cell barge
 to provide power for ships while at berth in port. The goal is to
 develop a green or low carbon alternative to provide cold ironing
-services for containerships, tankers & cruise
-ships"
+services for containerships, tankers & cruise ships"
 
 [[-]](https://bit.ly/2X5Jje3)
 
