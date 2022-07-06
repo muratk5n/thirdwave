@@ -178,7 +178,7 @@ country.
 Apparently all functioning nuke weapon products are ultimately tied to
 the original US research, and since noone will give Iran that, are
 govs not afraid of an Iranian nuke? Is that the reason for the lack of
-urgency? What if the make dirty bombs with the uranium they have? 
+urgency? 
 
 ---
 
