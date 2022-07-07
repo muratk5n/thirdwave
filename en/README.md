@@ -98,7 +98,7 @@ df.plot(grid=True,title='US Gas Price $/Gallon')
 
 ---
 
-The series was 'all about revenge'? That's like saying *Fight Club* is
+The series was 'all about revenge'? That's like saying *Fight Club* was
 all about fighting.
 
 ---
