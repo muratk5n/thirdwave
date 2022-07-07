@@ -46,8 +46,8 @@ largest companies in energy and industry in Estonia"
 
 ---
 
-I didn't like a lot of intl actions of the gov, but there were some
-good moves on domestic energy front. 
+I didn't like a lot of intl actions of the UK gov, but there were some
+good moves on domestic energy front.
 
 ---
 
