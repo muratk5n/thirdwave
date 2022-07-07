@@ -157,6 +157,11 @@ WION: "India and China spend $24 billion on cheap Russian energy imports"
 
 ---
 
+Brits also need to reverse this f--king Brexit. It caused nothing but
+headaches for you. Join the inner alliance, ditch the outer alliance.
+
+---
+
 Pick someone who is not 'strong on Russia' meaning someone who won't
 unnecesarily stir shit up to create trouble for Europe
 
