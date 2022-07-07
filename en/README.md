@@ -157,14 +157,14 @@ WION: "India and China spend $24 billion on cheap Russian energy imports"
 
 ---
 
-Hahaha.. [just like Thatcher](https://www.bbc.com/news/av/uk-politics-27053536)
-
-"[Earlier, in Jul 6] Asked if he would quit, UK PM Boris Johnson says 'no, no, no'"
+Brits also need to reverse this f--king Brexit, it caused nothing but
+headaches for you. Join the inner alliance, ditch the outer alliance.
 
 ---
 
-Brits also need to reverse this f--king Brexit. It caused nothing but
-headaches for you. Join the inner alliance, ditch the outer alliance.
+Hahaha.. [just like Thatcher](https://www.bbc.com/news/av/uk-politics-27053536)
+
+"[Earlier, in Jul 6] Asked if he would quit, UK PM Boris Johnson says 'no, no, no'"
 
 ---
 
