@@ -25,7 +25,7 @@ emissions cap over 20 years"
 
 ---
 
-This is my worry... focus on pure green sources, while welcome, would
+This was my worry... focus on pure green sources, while welcome, would
 not be enough. All raw sources of energy need to be used, including
 fossil. Targeting blue or green H2, we generate clean fuel any way
 possible.
