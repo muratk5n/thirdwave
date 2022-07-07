@@ -25,10 +25,10 @@ emissions cap over 20 years"
 
 ---
 
-That was the worry... that focus on pure green sources, while welcome,
-would not be enough. All raw sources of energy need to be used,
-including fossil. Targeting blue or green H2, we generate clean fuel
-any way possible.
+Yep there it is... focus on pure green sources, while welcome, would
+not be enough. All raw sources of energy need to be used, including
+fossil. Targeting blue or green H2, we generate clean fuel any way
+possible.
 
 "Wind energy is still 25.5 GW short.. EU steel producers are interested
 in clean H2 but point to a shortage of renewable energy"
