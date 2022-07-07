@@ -122,7 +122,7 @@ that ceiling recently.
 
 ---
 
-Looking at Industrial Production Index from FRED, called `INDPRO``;
+Looking at Industrial Production Index from FRED, called `INDPRO`;
 interesting.. 
 
 ```python
