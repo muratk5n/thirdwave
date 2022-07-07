@@ -1,6 +1,6 @@
 # Energy Stats
 
-Oil Price (Futures, Continuous Contract, Front Month)
+### Oil Price (Futures, Continuous Contract, Front Month)
 
 ```python
 import pandas as pd, datetime, time as timelib
@@ -39,7 +39,7 @@ Name: Close, dtype: float64
 
 <a name="opec"></a>
 
-Opec Oil Production
+### Opec Oil Production
 
 ```python
 import pandas as pd, requests
@@ -80,7 +80,7 @@ Name: 1, dtype: float64
 
 <a name="natgas"></a>
 
-World Natural Gas Price
+### World Natural Gas Price
 
 ```python
 import pandas as pd, datetime, time as timelib
@@ -116,7 +116,7 @@ Name: Adj Close, dtype: float64
 
 <a name='engconsumption'/>
 
-World Energy Consumption by Source, Monthly (twh)
+### World Energy Consumption by Source, Monthly (twh)
 
 ```python
 import pandas as pd, requests
@@ -177,3 +177,30 @@ Date
 2020-12-01    24.047727
 Name: solaryoy, dtype: float64
 ```
+
+<a name='gasolineState'/>
+
+### US Retail Gasoline Prices per State
+
+
+```python
+states = \
+[("PET.EMM_EPM0_PTE_SCA_DPG.M","CA"),
+ ("PET.EMM_EPM0_PTE_STX_DPG.M","TX"),
+ ("PET.EMM_EPM0_PTE_SFL_DPG.M","FL"),
+ ("PET.EMM_EPM0_PTE_SNY_DPG.M","NY"),
+ ("PET.EMM_EPM0_PTE_NUS_DPG.M","USA")]
+retail = [ (s[1],float(util.get_eia(s[0]).tail(1))) for s in states]
+dfs = pd.DataFrame(retail); dfs.columns = ['state','price']
+print (dfs)
+```
+
+```text
+  state  price
+0    CA  6.294
+1    TX  4.670
+2    FL  4.809
+3    NY  4.954
+4   USA  5.032
+```
+
