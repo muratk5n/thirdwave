@@ -75,7 +75,7 @@ hydrogen combustion technology, offering zero carbon emissions"
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/FXDjOaLX0AEZjq3?format=png&name=small"/>
+<img width="240" src="https://pbs.twimg.com/media/FXDjOaLX0AEZjq3?format=png&name=small"/>
 
 H2 Central: "China Yuchai introduces China’s largest and highest
 horsepower hydrogen engine... With a displacement of 15.93 liters and
@@ -94,7 +94,7 @@ import util; df = util.get_eia("PET.EMM_EPM0_PTE_NUS_DPG.M")
 df.plot(grid=True,title='US Gas Price $/Gallon')
 ```
 
-<img width="240" src="https://pbs.twimg.com/media/FXDcWzuXkAERpSZ?format=png&name=small"/>
+<img width="340" src="https://pbs.twimg.com/media/FXDcWzuXkAERpSZ?format=png&name=small"/>
 
 ---
 
