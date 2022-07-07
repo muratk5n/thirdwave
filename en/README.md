@@ -98,12 +98,6 @@ df.plot(grid=True,title='US Gas Price $/Gallon')
 
 ---
 
-'People retire too early, we pay too much'; I find such talk
-inhumane. A minimum amount should be given to all no matter if they
-work, not work, retire, early or late. 
-
----
-
 The show is 'all about revenge'? That's like saying *Fight Club* is
 all about fighting.
 
@@ -142,6 +136,12 @@ that sound like? Or when? Sounds like a 2015 to me..
 
 Just passed a farm with a big 'no vaccines we trust god sign' next to
 the sign advertising that they were selling seedless watermelons"
+
+---
+
+'People retire too early, we pay too much'; I find such talk
+inhumane. A minimum amount should be given to all no matter if they
+work, not work, retire, early or late. 
 
 ---
 
