@@ -114,7 +114,7 @@ There are some detractors of *The Terminal List*..
 ---
 
 Description says index shows "durable and nondurable manufacturing,
-mining, and utilities", meaning `INDRO` is the measure of actual
+mining, and utilities", meaning `INDPRO` is the measure of actual
 physical stuff being produced in US. It could be useful..
 
 Production hit a ceiling 2008, and it only barely started to surpass
