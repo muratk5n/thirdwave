@@ -2,206 +2,171 @@
 
 ---
 
+Pinned Tweet
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Daimler Truck Tests Fuel-Cell Truck with Liquid Hydrogen <a href="https://t.co/bo4Wqop4Ah">https://t.co/bo4Wqop4Ah</a> <a href="https://t.co/aEp9BsyjMF">pic.twitter.com/aEp9BsyjMF</a></p>&mdash; DOFT (@doft_com) <a href="https://twitter.com/doft_com/status/1541654639459717120?ref_src=twsrc%5Etfw">June 28, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-H2 View: "Hydrogen heavy-duty trucks set to get their fill in
-Québec.. Hydrolux has unveiled its plan which hopes to kick-start
-refuelling for heavy-duty hydrogen-powered trucks in Quebec, Canada"
+The restrictions on the gas-fired plants sound fine.
+
+Politico: "EU lawmakers Wednesday voted in favor of a European
+Commission proposal to allow nuclear and natural gas-fired power
+plants to be marketed as sustainable investments on financial
+markets... Under the new rules — known as the taxonomy — new gas-fired
+plants built through 2030 will be recognized as a transitional energy
+source as long as they replace a coal- or fuel oil-fired plant, switch
+to a low-carbon gas like hydrogen by 2035 and stay under a maximum
+emissions cap over 20 years"
 
 ---
 
-"Pyrolysis should be more scalable than electrolysis as resources of
-affordable natural gas are readily available, enabling large
-quantities of Hydrogen to be produced without relying on significant
-amounts of dedicated renewables"
-
-[PDF](https://www.adb.org/sites/default/files/project-documents/52041/52041-003-tacr-en_3.pdf)
+"IEA wants surplus nuclear energy to power hydrogen production"
 
 ---
 
-[Methane Prolysis](https://pbs.twimg.com/media/FW6zGhaWAAcNDyO?format=jpg&name=medium)
+That was the worry... that focus on pure green sources, while welcome,
+would not be enough. All raw sources of energy need to be used,
+including fossil. Targeting blue or green H2, we generate clean fuel
+any way possible.
+
+"Wind energy is still 25.5 GW short.. EU steel producers are interested
+in clean H2 but point to a shortage of renewable energy"
 
 ---
 
-They can store the carbon by-product as solid synthetic graphite.. Good.
-
-Gasworld: "FortisBC Energy, Suncor Energy and Hazer Group unveiled
-plans for a pilot project.. that will use methane pyrolysis technology
-to produce hydrogen while storing the carbon by-product as solid
-synthetic graphite.. The technology set to be deployed at the Canadian
-site will be provided Australia’s Hazer Group and will generate
-approximately 300,000 gigajoules of clean-burning gas energy that can
-replace the equivalent annual natural gas usage of approximately 3,300
-B.C. households"
+H2 Central: "In times of widespread energy crisis, the urgency for
+energy independence and need to green the energy system is felt across
+Estonia. Anticipating the implementation of European Green Deal
+legislation, many organisations and cities have committed to become
+climate neutral to future proof their business... Therefore, the first
+nationwide Hydrogen Valley ever is now being developed in close
+cooperation between three regions, one university and five of the
+largest companies in energy and industry in Estonia"
 
 ---
 
-H2 View: "bp, BOC study results set to accelerate hydrogen uptake in
-UK road freight.. the joint study found distributing hydrogen as a
-compressed gas via road trailer is the best option to stimulate the UK
-market to take up hydrogen fuel for heavy-duty transport over the
-mid-term..
-
-The companies say the nine-month study has provided important insights
-into requirements and options for hydrogen distribution, station
-design, and dispensing costs for heavy-duty applications.
-
-In the long-term, the study anticipates that both gaseous and liquid
-hydrogen will have a role to play in fuelling the sector"
+Right when BJ gets hammered.. Well.. I didnt a lot of intl actions of
+the gov, but there were some good moves on domestic energy front.
 
 ---
 
-H2 View: "$6.6bn plan for 1.5GW green hydrogen and ammonia project in
-India.. ACME Group have announced further plans to scale up green
-hydrogen production in India, as it reveals an agreement for a Rs
-52,474 crore (6.6bn dollar) green hydrogen and ammonia project in the
-state of Tamil Nadu"
+"@HydrogenCouncil
+
+The new UK Energy Security Bill, introduced to Parliament today, is
+set to deliver the biggest proposed changes to energy laws in a
+decade. The Bill includes measures to increase investment in
+\#hydrogen"
 
 ---
 
-"@H2Standard
-
-French companies plans to develop the first H2-powered fuel-cell barge
-to provide power for ships while at berth in port. The goal is to
-develop a green or low carbon alternative to provide cold ironing
-services for containerships, tankers & cruise ships"
-
-[[-]](https://bit.ly/2X5Jje3)
+The etimology of the word is com- meaning from Latin, with, together,
+and bust as in *busting that ass*, together with the fuel, so you have
+com- bust. 
 
 ---
 
-The Mandarin: "Collaboration mission for CSIRO’s hydrogen knowledge
-centre... CEO Dr Larry Marshall: 'We’re seeing the hydrogen industry
-in Australia go from strength to strength — Australian hydrogen
-production for export and domestic use could generate significant
-economic growth while helping drive down emissions.. The Hydrogen
-Knowledge Centre will help avoid duplication.. needed for Australia to
-take a world-leading role in developing and exporting hydrogen'"
+Combustion 👍 👍 👍 👍 
+
+H2 View: "Hydrogen heated water set to be trialled in
+Australia.. Rinnai Japan has said it has successfully developed a
+continuous flow hot water system for the domestic market, using 100%
+hydrogen combustion technology, offering zero carbon emissions"
 
 ---
 
-FirstPost: "As India bans single-use plastic, a look at biodegradable
-mushroom packaging.. Magical Mushroom Company, a UK-based firm, mixes
-agricultural waste with the ‘root structure of a mushroom’ in order to
-make biodegradable material that is similar to other packaging options
-in terms of cost. It is touted as an alternative to plastic
-packaging"
+<img width="340" src="https://pbs.twimg.com/media/FXDjOaLX0AEZjq3?format=png&name=small"/>
+
+H2 Central: "China Yuchai introduces China’s largest and highest
+horsepower hydrogen engine... With a displacement of 15.93 liters and
+a maximum horsepower of 560 horsepower, YCK16H is the largest and most
+powerful hydrogen internal combustion heavy-duty engine being launched
+in China"
 
 ---
 
-Watched *The Terminal List*. Highly recommended.
+2008-9 was bad, so was 2011-2015.. the new rises are something else.
 
 ---
 
-Great.. Spain is a huge target of such smuggling..
+```python
+import util; df = util.get_eia("PET.EMM_EPM0_PTE_NUS_DPG.M")
+df.plot(grid=True,title='US Gas Price $/Gallon')
+```
 
-"Spain seizes drug gang’s underwater smuggling drones.. On Monday, the
-Spanish police seized three underwater drones that were helping drug
-gangs transport vast quantities of drugs from Morocco to Spain"
-
----
-
-The Boston Globe: "Two-plus years into the pandemic, many companies
-are anxious to get back to in-person work, but find their workers like
-hybrid life just fine. There’s a new turf war shaping up at work:
-managers who want everyone back in the “real” office vs. employees who
-prefer the one at home. And that standoff is leading to some
-irreconcilable conflicts"
+<img width="340" src="https://pbs.twimg.com/media/FXDcWzuXkAERpSZ?format=png&name=small"/>
 
 ---
 
-Reason: "Sensitivity Readers Are the New Literary Gatekeepers
-Overzealous gatekeeping on race and gender is killing books before
-they're published—or even written"
-
-[[-]](https://reason.com/2022/07/05/rise-of-the-sensitivity-reader/)
+'People retire too early, we pay too much'; I find such talk
+inhumane. A minimum amount should be given to all no matter if they
+work, not work, retire, early or late. 
 
 ---
 
-I'm not making this up, how pol discussion was diverted is now a [historical fact](2021/10/all-too-human.html#triangulation).
+The show is 'all about revenge'? That's like saying *Fight Club* is
+all about fighting.
 
 ---
 
-Shitlibs gallantly fought [that war](https://drive.google.com/uc?export=view&id=1r8wAGwhOmflPy0vCbbSEM0mSb16Ua7qF)
-for decades, then got egg on their face, and *still* no universal
-healthcare to show for it.. I guess they were fighting the wrong war..
-Or, to be exact, the war others manufactured for them to divert
-attention from "unimportant" issues.
+There are some detractors of *The Terminal List*..
 
 ---
 
-Al Monitor: "Lapid will go head-to-head against former Prime Minister
-Benjamin Netanyahu from the position of prime minister. Lapid will
-lead the center-left bloc, while Netanyahu will lead the
-rightwing-ultra-Orthodox bloc, with each trying to win the 61 seats
-needed to form a coalition. That is why Lapid is targeting all the
-Arab parties as partners in his efforts, and not just coalition
-partner Ra’am... Lapid even sees the opposition Arab Joint List as a
-potential partner. In a television interview this week, Lapid said,
-'There hasn’t been an Arab party in the government for the past 74
-years. We’re in the process of changing that now.'"
+Description says index shows "durable and nondurable manufacturing,
+mining, and utilities", meaning `INDRO` is the measure of actual
+physical stuff being produced in US. It could be useful..
+
+Production hit a ceiling 2008, and it only barely started to surpass
+that ceiling recently.
 
 ---
 
-Fatback Band - Mister Bass Man \#music
+Looking at Industrial Production Index from FRED, called `INDPRO``;
+interesting.. 
 
-[[-]](https://youtu.be/qL7t9ChdgrE)
+```python
+import util; df = util.get_fred(1980, 'INDPRO'); df.plot(grid=True)
+```
 
----
-
-But hey these days bushels of wheat are becoming more valueable, so
-maybe soon 20 bushels will buy one iPhone.. Brighter days might be
-ahead for the wheat country.
-
----
-
-If country wants to fix the value of its currency, it needs to produce
-goods, services foreigners are willing to buy, and stop printing
-money, handing it to people that will be inflationary.. If the only
-export item is bushels of wheat, $10 per bushel 50 of that will buy 1
-iPhone, no way around that.
+<img width="340" src="https://pbs.twimg.com/media/FXC8QuDXEAESNuH?format=png&name=small"/>
 
 ---
 
-That is as useless as making Bitcoin the official currency.
-
-"Zimbabwe to introduce gold coins as local currency tumbles"
-
----
-
-Apparently all functioning nuke weapon products are ultimately tied to
-the original US research, and since noone will give Iran that, are
-govs not afraid of an Iranian nuke? Is that the reason for the lack of
-urgency? 
+Trump is all over the news again, getting free publicity.. What does
+that sound like? Or when? Sounds like a 2015 to me..
 
 ---
 
-Looks like US is stalling as much as Iran is. \#JCPOA 
+"@behindyourback
 
-[[-]](https://menaaffairs.com/what-would-the-us-and-iran-do-if-the-jcpoa-is-not-revived-policy-options/)
-
----
-
-Oil-rich nation with 'power cuts'. 
-
-"Libya protests planned over power cuts, political deadlock.. Libyans
-angered by rising prices, chronic power cuts and political deadlock
-planned further demonstrations"
+Just passed a farm with a big 'no vaccines we trust god sign' next to
+the sign advertising that they were selling seedless watermelons"
 
 ---
 
-Strangely these claims surface mostly when Russia's conflicts with the
-"rules-based order" increase. 
+Al Jazeera: "US Fed: ‘More restrictive’ rates possible if inflation persists"
 
 ---
 
-Putin must be a very sick man.. He has been dying [for many years](2022/07/putin-health.html) now..
+Politico: "Global hunger figures rose to 828M in 2021, UN says"
 
-"Western intelligence officials believe Vladimir Putin could become
-medically incapacitated 'within three-six months', a former spy has
-claimed"
+---
+
+WION: "India and China spend $24 billion on cheap Russian energy imports"
+
+---
+
+Pick someone who is not 'strong on Russia' meaning someone who won't
+unnecesarily stir shit up to create trouble for Europe
+
+"Who can replace UK’s Prime Minister Boris Johnson?"
+
+---
+
+@JustinTLogan
+
+Alexander Boris de Pfeffel Johnson, out.
 
 ---
 
