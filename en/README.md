@@ -62,7 +62,7 @@ decade. The Bill includes measures to increase investment in
 
 The etimology of the word is com- meaning from Latin, with, together,
 and bust as in *busting that ass*, together with the fuel, so you have
-com- bust. 
+com- bust.. nam' sayin?
 
 ---
 
