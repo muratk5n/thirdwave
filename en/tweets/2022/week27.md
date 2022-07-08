@@ -287,7 +287,7 @@ they're published—or even written"
 
 ---
 
-I'm not making this up, how pol discussion was diverted is now a [historical fact](2021/10/all-too-human.html#triangulation).
+I'm not making this up, how pol discussion was diverted is now a [historical fact](../../2021/10/all-too-human.html#triangulation).
 
 ---
 
@@ -364,7 +364,7 @@ Strangely these claims surface mostly when Russia's conflicts with the
 
 ---
 
-Putin must be a very sick man.. He has been dying [for many years](2022/07/putin-health.html) now..
+Putin must be a very sick man.. He has been dying [for many years](../../2022/07/putin-health.html) now..
 
 "Western intelligence officials believe Vladimir Putin could become
 medically incapacitated 'within three-six months', a former spy has
