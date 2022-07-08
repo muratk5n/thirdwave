@@ -183,6 +183,8 @@ Name: solaryoy, dtype: float64
 ### US Retail Gasoline Prices per State
 
 ```python
+import util
+
 states = \
 [("PET.EMM_EPM0_PTE_SCA_DPG.M","CA"),
  ("PET.EMM_EPM0_PTE_STX_DPG.M","TX"),
