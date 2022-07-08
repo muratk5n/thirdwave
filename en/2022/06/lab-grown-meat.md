@@ -36,7 +36,7 @@ the water and out of farms”. It will also be far less cruel"
 
 <a name='fat'/>
 
-Lab-grown Fat
+Lab-grown Fat, Hoxton Farms
 
 Cultivating animal fat for plant-based meat: ‘Nobody wants a burger
 that tastes of coconut’
@@ -111,3 +111,43 @@ flavours and taste compositions, for example, or different nutritional
 profiles, densities, and melting properties – all of which are really
 important to plant-based meat companies.
 
+<a name='fat2'/>
+
+[Link](https://www.foodnavigator-usa.com/Article/2022/03/03/Fat-the-final-frontier-for-meat-alternatives-Designer-fat-co-Lypid-raises-4m-to-commercialize-microencapsulated-vegan-oils-that-behave-like-animal-fat)
+
+Lab-grown Fat, Lypid
+
+Most plant-based burgers currently on the market include a hard fat
+such as coconut oil, which is high in saturated fat, doesn’t taste
+like animal fat, and melts when the burger starts cooking, leaking out
+of the food matrix.
+
+As a result, the race is on to find alternatives with better
+functionality, flavor, and environmental credentials, with some
+foodtech startups such Yali Bio​, Zero Acre Farms​, c16 Biosciences​,​ and
+Nourish ​producing animal-like fats via engineered microbes; while
+others such as Mission Barns​ are creating ‘real’ animal fat (without
+animals) in bioreactors from animal cells (although this would clearly
+compromise a burger's 100% plant-based credentials).
+
+Motif FoodWorks​ meanwhile, is developing oleogels that trap liquid
+oils within an ethyl cellulose scaffold to create fats that can be
+co-extruded with plant-based proteins, creating a “ veining and
+marbling effect" emulating conventional meat.
+
+Sunnyvale-based startup Lypid​, by contrast, is taking a different
+approach, microencapsulating liquid plant oils in water to create
+spongy fats with very high melting points, co-founder Dr Jen-Yu Huang
+told FoodNavigator- USA.
+
+“ The challenge is that vegan fats - even harder ones like coconut oil
+- actually still have a very low melting point, so the appearance
+after cooking isn’t right and the texture isn’t right as the oil leaks
+out.”
+
+PhytoFat, however, maintains its animal fat-like qualities when heated
+above 329°​F (165°​C), keeping more fat in a burger as it cooks, claimed
+Huang, who said the seed round - led by Green Generation Fund with
+additional support from Big Idea Ventures, SOSV’s IndieBio, and others
+- would help Lypid scale up manufacturing, with the longer-term plan
+to produce up to 10 tons of PhytoFat per year.
