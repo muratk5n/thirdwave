@@ -8,176 +8,226 @@ Pinned Tweet
 
 ---
 
-The restrictions on the gas-fired plants sound fine.
+Forbes: "This summer, when the first bulldozers rumble across central
+Utah and begin excavating brine ponds, the Advanced Clean Energy
+Storage hub will be breaking ground in multiple ways.
 
-Politico: "EU lawmakers Wednesday voted in favor of a European
-Commission proposal to allow nuclear and natural gas-fired power
-plants to be marketed as sustainable investments on financial
-markets... Under the new rules — known as the taxonomy — new gas-fired
-plants built through 2030 will be recognized as a transitional energy
-source as long as they replace a coal- or fuel oil-fired plant, switch
-to a low-carbon gas like hydrogen by 2035 and stay under a maximum
-emissions cap over 20 years"
+The construction will create massive underground salt caverns, giving
+rise to the largest renewable energy storage facility anywhere in the
+world. It also will kick off a new phase of the energy
+transition. This unique project – part energy conversion, part
+long-duration storage – promises to empower the technological and
+infrastructure advances needed to realize hydrogen’s potential in a
+net zero carbon future...
 
----
-
-"IEA wants surplus nuclear energy to power hydrogen production"
-
----
-
-This was my worry... focus on pure green sources, while welcome, would
-not be enough. All raw sources of energy need to be used, including
-fossil. Targeting blue or green H2, we generate clean fuel any way
-possible.
-
-"Wind energy is still 25.5 GW short.. EU steel producers are interested
-in clean H2 but point to a shortage of renewable energy"
+In June, the Department of Energy announced a $504 million loan
+guarantee for the hub’s first phase, allowing construction to get
+underway. As Energy Secretary Jennifer Granholm put it, “This is a big
+deal for the clean hydrogen space.”
 
 ---
 
-H2 Central: "In times of widespread energy crisis, the urgency for
-energy independence and need to green the energy system is felt across
-Estonia. Anticipating the implementation of European Green Deal
-legislation, many organisations and cities have committed to become
-climate neutral to future proof their business... Therefore, the first
-nationwide Hydrogen Valley ever is now being developed in close
-cooperation between three regions, one university and five of the
-largest companies in energy and industry in Estonia"
+"@EsselLeroy
+
+[A] company in Canada will change the world.. [of] energy. Check out
+@Proton_Canada that will supply the world with 800 years of hydrogen
+gaseous fuel. The cancelled Keystone pipeline because of polluting
+tarsand oil will become zero pollution hydrogen instead"
 
 ---
 
-Most of UK gov's intl actions werent that good, but there were some
-nice moves on domestic energy front.
+Upstream: "Two tantalising tender processes have been launched for
+contracts worth $1.3 billion linked to the 2000-kilometre East
+Mediterranean (EastMed) pipeline that will carry gas from Israel,
+Cyprus and Egypt to the European Union"
 
 ---
 
-"@HydrogenCouncil
-
-The new UK Energy Security Bill, introduced to Parliament today, is
-set to deliver the biggest proposed changes to energy laws in a
-decade. The Bill includes measures to increase investment in
-\#hydrogen"
+CNBC: "Shell to build Europe's 'largest' renewable hydrogen plant to
+help power Dutch refinery"
 
 ---
 
-The etimology of the word is com- meaning from Latin, with, together,
-and bust as in *busting that ass*, together with the fuel, so you have
-com- bust.. nam' sayin?
+"@JoSamps92
+
+One quarter of the world’s green \#hydrogen will be traded
+internationally in 2050, with three quarters produced and used
+locally, according to a new report by @IRENA . Via @rechargenews"
 
 ---
 
-Combustion 👍 👍 👍 👍 
-
-H2 View: "Hydrogen heated water set to be trialled in
-Australia.. Rinnai Japan has said it has successfully developed a
-continuous flow hot water system for the domestic market, using 100%
-hydrogen combustion technology, offering zero carbon emissions"
-
----
-
-<img width="240" src="https://pbs.twimg.com/media/FXDjOaLX0AEZjq3?format=png&name=small"/>
-
-H2 Central: "China Yuchai introduces China’s largest and highest
-horsepower hydrogen engine... With a displacement of 15.93 liters and
-a maximum horsepower of 560 horsepower, YCK16H is the largest and most
-powerful hydrogen internal combustion heavy-duty engine being launched
-in China"
+Energynews.biz: "[A] massive pipeline project in eastern Germany that
+aims to jumpstart the hydrogen market there by 2027. For the eastern
+German hydrogen grid, the GASCADE-Fluxys project calls for
+constructing a new 50-kilometer hydrogen pipeline from the Baltic Sea
+region around Rostock all the way to the south. Hydrogen production,
+storage, and demand will all be connected through this system, making
+it a potent node in the hydrogen supply chain"
 
 ---
 
-2008-9 was bad, so was 2011-2015.. the new rises are something else.
+H2 Fuel News: "University of Oxford and University of Cardiff
+academics are working with CarbonMeta Technologies on a plastic waste
+to hydrogen fuel project. The researchers are using 'microwave
+catalysis' technology"
 
 ---
 
-```python
-import util; df = util.get_eia("PET.EMM_EPM0_PTE_NUS_DPG.M")
-df.plot(grid=True,title='US Gas Price $/Gallon')
-```
-
-<img width="340" src="https://pbs.twimg.com/media/FXDcWzuXkAERpSZ?format=png&name=small"/>
-
----
-
-The series was 'all about revenge'? That's like saying *Fight Club* was
-all about fighting.
+H2 Central: "Hawaii Gov. David Ige has signed into law a package of
+bills that includes SB2570 (Act 241) – Relating to Zero Emission
+Vehicle Fueling Rebates, which aims to create a renewable hydrogen
+refueling system rebate program for the state. According to the bill,
+developers of new hydrogen refueling infrastructure are eligible for
+rebates up to $200,000"
 
 ---
 
-There are some detractors of *The Terminal List*..
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+That's one big-ass "et al". Esp for a paper that was "unable to predict".
+
+"@emollick
+
+.. Using machine learning & tons of psychological variables, this
+study was unable to predict which relationships will improve (or fall
+apart) over time"
+
+[[-]](https://twitter.com/emollick/status/1544796403469373443)
 
 ---
 
-Description says index shows "durable and nondurable manufacturing,
-mining, and utilities", meaning `INDPRO` is the measure of actual
-physical stuff being produced in US. It could be useful..
+Noise-canceling tech is a fantastic invention
 
-Production hit a ceiling 2008, and it only barely started to surpass
-that ceiling recently.
-
----
-
-Looking at Industrial Production Index from FRED, called `INDPRO`;
-interesting.. 
-
-```python
-import util; df = util.get_fred(1980, 'INDPRO'); df.plot(grid=True)
-```
-
-<img width="340" src="https://pbs.twimg.com/media/FXC8QuDXEAESNuH?format=png&name=small"/>
+"Sony’s MX5 headphones use microphones to pick up low-frequency noise
+[from outside] before it reaches the ear by playing ambient sound,
+effectively canceling out the invasive sounds... the music you’re
+listening to is outputted at a lower frequency... less damaging to
+your ears than just turning up the volume on your earbuds to make
+external noise quieter. These next-level headphones truly mute.. the
+volume of the outside world, making a simple walk around the
+neighborhood feel like a cinematic experience or focusing while
+working from home with loud roommates well, possible"
 
 ---
 
-Trump is all over the news again, getting free publicity.. What does
-that sound like? Or when? Sounds like a 2015 to me..
+"@EllieGeranmayeh
+
+Reminder: \#Iran never left \#JCPOA - it's Washington that has to
+return to agreement. Since US max pressure policy in 2019, Iran
+reduced compliance with deal in stages. 3 yrs+ later: with no US
+policy change & no tangible offers from E3/China/Russia- Iran hollowed
+out deal..
+
+With Biden weak & chances of Dems 2024 win dwindling - decision maker
+in Tehran have cold feet if 2 year JCPOA worthwhile"
 
 ---
 
-"@behindyourback
-
-Just passed a farm with a big 'no vaccines we trust god sign' next to
-the sign advertising that they were selling seedless watermelons"
+NDTV: "After ban on wheat grain, India tightens export rules for flour"
 
 ---
 
-'People retire too early, we pay too much'; I find such talk
-inhumane. A minimum amount should be given to all no matter if they
-work, not work, retire, early or late. 
+"@WillRuger
+
+What does it even mean to 'deserve to be in NATO'?  He is right that
+no country would 'bring more to the table,' including an ongoing
+territorial dispute and war, corruption & extremism problems, the risk
+of escalatory spiral w/ a nuclear adversary, & it is difficult to
+defend.
+
+'@apmassaro3
+
+Scholz at it again. Effectively says Ukraine cannot be in NATO. Yet no
+country deserves to be in NATO more than Ukraine. No country would
+bring more to the table'"
 
 ---
 
-Al Jazeera: "US Fed: ‘More restrictive’ rates possible if inflation persists"
+The Atlantic: "Not too long ago, I heard one of the leading Brexiteers
+describe his political philosophy in a room full of CEOs and senior
+politicians. He started by talking to this elite group about the great
+division between 'elites' and 'the people,' the victors and the
+victims of globalization, the haves and the have-nots of
+modernity. The longer he spoke, the more his words began to seem rote,
+remote, and stale. The energizing slogans of the Brexit campaign of
+2016 sounded hollow and clich​​éd in 2022. Partly, this is because the
+slogans were not true.
+
+Globalization was indeed bad for some people and good for others, but
+those groups didn’t split neatly along a rural-urban or rich-poor
+divide, or along any other easily defined demographic line. Some
+farmers in the distant countryside turned out to be huge beneficiaries
+of Britain’s European Union membership. Some of the least-well-off
+Britons benefited from foreign investment.
+
+Besides, many of the people loudly attacking the “elite” were not
+actually among globalization’s losers themselves. Boris Johnson was
+the standout example of this phenomenon: He attended Eton and
+Oxford.. , and his campaign was paid for by hedge-fund managers and
+billionaires. More important, Brexit, the solution to the problem
+Johnson and his supporters described, was based on a series of
+lies. The electorate was promised that departure from the EU would
+lead not only to fewer immigrants but to greater prosperity, more
+welfare spending, less crowded hospitals. Instead, six years after the
+vote, Britain is less prosperous and more unequal. Brexit reduced the
+U.K. GDP by at least 1.5 percent even before it took full effect; the
+U.K. has the highest inflation rate in the G7; small businesses,
+especially importers, have been crushed by Brexit-related red tape and
+supply-chain problems. Though committees have been set up to look for
+'benefits from Brexit,' few are available"
 
 ---
 
-Politico: "Global hunger figures rose to 828M in 2021, UN says"
+Assasination attempt on Abe; the outer alliance is on the back foot.
+Losing in Ukraine, Mr. Brexit is on the way out, right-wing (ultra
+outer) Abe is shot leading many in China to celebrate, calling the
+assasin a hero.
 
 ---
 
-WION: "India and China spend $24 billion on cheap Russian energy imports"
+"@ThePrittster
+
+David Cameron lost the PM'ship because of Boris Johnson.
+
+Theresa May lost the PM'ship because of Boris Johnson.
+
+And now Boris Johnson has lost the PM'ship because of Boris Johnson.
+
+The circle is fucking complete. 
+
+Hat-trick Motherfucker!!!"
 
 ---
 
-Brits also need to reverse this f--king Brexit, it caused nothing but
-headaches for you. Join the inner alliance, ditch the outer alliance.
+This gets better and better
 
----
-
-Hahaha.. [just like Thatcher](https://www.bbc.com/news/av/uk-politics-27053536)
-
-"[Earlier, in Jul 6] Asked if he would quit, UK PM Boris Johnson says 'no, no, no'"
-
----
-
-Pick someone who is not 'strong on Russia' meaning someone who won't
-unnecesarily stir shit up to create trouble for Europe
-
-"Who can replace UK’s Prime Minister Boris Johnson?"
-
----
-
-@JustinTLogan
-
-Alexander Boris de Pfeffel Johnson, out.
+The Guardian: "Margaret Thatcher’s infamous 'No, no, no' retort to
+Jacques Delors, a historic moment in the UK’s relationship with
+Europe, which also had the effect of precipitating her downfall, was
+partly inspired by an article penned by a young journalist named Boris
+Johnson, her newly released private papers show"
 
 ---
 
