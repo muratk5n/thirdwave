@@ -82,30 +82,6 @@ rebates up to $200,000"
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 That's one big-ass "et al". Esp for a paper that was "unable to predict".
 
 "@emollick
@@ -200,10 +176,10 @@ supply-chain problems. Though committees have been set up to look for
 
 ---
 
-Assasination attempt on Abe; the outer alliance is on the back foot.
-Losing in Ukraine, Mr. Brexit is on the way out, right-wing (ultra
-outer) Abe is shot leading many in China to celebrate, calling the
-assasin a hero.
+Assasination of Abe; the outer alliance is on the back foot.  Losing
+in Ukraine, Mr. Brexit is on the way out, right-wing (ultra outer) Abe
+is shot leading many in China to celebrate, calling the assasin a
+hero.
 
 ---
 
