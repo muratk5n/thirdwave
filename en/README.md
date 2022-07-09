@@ -97,7 +97,7 @@ that if he resigned, he'd have their support as next PM.
 
 ---
 
-They are really spinning that "SPD oil sale to China" story, and
+They are really spinning that "SPR oil sale to China" story, and
 spinning hard. Oil export ban can get ahead of the spin.
 
 ---
