@@ -8,12 +8,6 @@ Pinned Tweet
 
 ---
 
-H2 View: "@RollsRoyce is set to enter the #hydrogen production market
-with the acquisition of a 54% stake in German #electrolysis stack
-specialist, @Hoeller_H2"
-
----
-
 "@Breakthrough 
 
 Clean hydrogen – the 'Swiss Army knife' of decarbonization – could
