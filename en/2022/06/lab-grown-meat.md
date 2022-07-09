@@ -151,3 +151,4 @@ who said the seed round - led by Green Generation Fund with additional
 support from Big Idea Ventures, SOSV’s IndieBio, and others - would
 help Lypid scale up manufacturing, with the longer-term plan to
 produce up to 10 tons of PhytoFat per year.
+
