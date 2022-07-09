@@ -19,9 +19,9 @@ in order for hydrogen to reach its potential" \#Gates
 
 ---
 
-Rolls-Royce is set to enter the hydrogen production market with the
+"Rolls-Royce is set to enter the hydrogen production market with the
 acquisition of a 54% stake in German electrolysis stack specialist,
-Hoeller Electrolyzer.
+Hoeller Electrolyzer"
 
 ---
 
