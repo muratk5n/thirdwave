@@ -74,8 +74,7 @@ Heat"
 
 Coconut oil apparently melts too fast while cooking; it also doesn't
 have conj. linoleic acids (CLA), which means plant based meats are not
-exactly replacing real meat in nutrition - unless they add these new
-fats some are working on.
+exactly replacing real meats in nutrition.
 
 "Most plant-based burgers currently on the market include a hard fat
 such as coconut oil"
