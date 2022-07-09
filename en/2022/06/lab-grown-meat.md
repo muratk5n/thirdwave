@@ -140,14 +140,14 @@ approach, microencapsulating liquid plant oils in water to create
 spongy fats with very high melting points, co-founder Dr Jen-Yu Huang
 told FoodNavigator- USA.
 
-“ The challenge is that vegan fats - even harder ones like coconut oil
-- actually still have a very low melting point, so the appearance
+“ The challenge is that vegan fats - even harder ones like coconut oil -
+actually still have a very low melting point, so the appearance
 after cooking isn’t right and the texture isn’t right as the oil leaks
 out.”
 
 PhytoFat, however, maintains its animal fat-like qualities when heated
-above 329°​F (165°​C), keeping more fat in a burger as it cooks, claimed
-Huang, who said the seed round - led by Green Generation Fund with
-additional support from Big Idea Ventures, SOSV’s IndieBio, and others
-- would help Lypid scale up manufacturing, with the longer-term plan
-to produce up to 10 tons of PhytoFat per year.
+above 165 C, keeping more fat in a burger as it cooks, claimed Huang,
+who said the seed round - led by Green Generation Fund with additional
+support from Big Idea Ventures, SOSV’s IndieBio, and others - would
+help Lypid scale up manufacturing, with the longer-term plan to
+produce up to 10 tons of PhytoFat per year.
