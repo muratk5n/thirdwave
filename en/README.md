@@ -81,12 +81,6 @@ More on fat foodtech
 
 ---
 
-Michael Harrison - Moondance Of The Leprechauns \#music
-
-[[-]](https://youtu.be/pxXSd18lmbo)
-
----
-
 'But he resigned due to this reason, that reason'.. The last scandal
 wasn't any more 'scandalous' than the one before it; the truth the
 matter is the opposition, inside and outside, wanted BJ gone and they
