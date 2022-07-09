@@ -138,7 +138,7 @@ longer than most PMs so he could have provided some stability there.
 
 ---
 
-🤣 🤣 🤣 So long sucka
+😂 So long sucka
 
 "Sri Lankan President Rajapaksa flees after protesters enter residence"
 
