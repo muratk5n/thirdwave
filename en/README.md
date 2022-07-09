@@ -97,7 +97,7 @@ Michael Harrison - Moondance Of The Leprechauns \#music
 'But he resigned due to this reason, that reason'.. The last scandal
 wasn't any more 'scandalous' than the one before it; the truth the
 matter is the opposition, inside and outside, wanted BJ gone and they
-throw everything but the kitchen sink at it to finish the job.
+threw everything but the kitchen sink at it to finish the job.
 
 ---
 
