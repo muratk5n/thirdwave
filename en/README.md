@@ -119,8 +119,7 @@ year
 ```
 
 If trend continues ships `5303*4=21212` and net tonnage `313*4=1252`
-will beat the previous year's numbers. Busy busy busy.. We need more
-canals, wider canals..
+will beat the previous year's numbers. Busy busy busy.. 
 
 ---
 
