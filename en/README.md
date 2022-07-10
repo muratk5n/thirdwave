@@ -32,9 +32,8 @@ flight by 2023 with new US Air Force contract"
 ---
 
 The grid even looks like shit. [Seriously](https://pbs.twimg.com/media/FXSTCWYWAAIHhx1?format=jpg&name=small). 
-
-But see a [pipeline](https://pbs.twimg.com/media/FMA3m-DWUAMDe-D?format=jpg&name=small).
-A straight-forward, efficient structure.
+But a [pipeline](https://pbs.twimg.com/media/FMA3m-DWUAMDe-D?format=jpg&name=small),
+lookit. Straight-forward, efficient.
 
 ---
 
