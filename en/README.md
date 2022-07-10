@@ -98,8 +98,7 @@ would make blatanty clear the popular conception was shit.
 
 Scientists roam... they roam the media, MSM, alternative, or
 otherwise..  Yet most of these people are just trend followers.. They
-followed the electrification mantra without thinking about it
-themselves. 
+followed the electrification mantra without thinking about it.
 
 ---
 
