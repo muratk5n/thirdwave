@@ -188,7 +188,7 @@ FT: 'Is the west’s increased defence spending even necessary?'"
 ---
 
 Talks of intl criminal law? Make sure to start proceedings on US
-crimes in Hiroshima, Nagasaki and around the firebombing of Tokyo..
+crimes in Hiroshima, Nagasaki and the firebombing of Tokyo..
 
 ---
 
