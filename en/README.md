@@ -39,7 +39,7 @@ A straight-forward, efficient structure.
 ---
 
 H2 pipelines are equally efficient compared to the grid. So there is
-no need to remain as an 'electricity person'.
+no need to remain an 'electricity person'.
 
 "@LionHirth
 
