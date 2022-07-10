@@ -69,20 +69,21 @@ The entire world reserve for lithium is estimated to be ~17 million
 tonnes.
 
 According to [EIA](https://en.wikipedia.org/wiki/World_energy_consumption),
-estimated world energy consumption was 157,481 Terrawatt Hours in 2013.
-If we were to store today's energy consumption one day in batteries,
+estimated world energy consumption was 157,481 Terrawatt Hours in 2013, 
+meaning 431 TWh/day. If we were to store today's energy consumption one
+day in batteries,
 
 ```python
-consumed_one_day = (157481. / (365)) * 1e9 # Kwh
+consumed_one_day = 431 * 1e9 # Kwh
 reserves = 17.0 # mtones
 req = ((consumed_one_day / 70.0) * 60.0) / 1e9
 print ("%d mil. tons" % req)
-print ("%0.2f percent of available reserves" % ((reserves / req)*100.0) )
+print ("Can hold %0.2f percent of required energy" % ((reserves / req)*100.0) )
 ```
 
 ```text
 369 mil. tons
-4.60 percent of available reserves
+Can hold 4.60 percent of required energy
 ```
 
 .. it would require over 20 times the amount of available lithium in
