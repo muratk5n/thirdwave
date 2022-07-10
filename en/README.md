@@ -133,7 +133,7 @@ them.
 Culture Codes can and are frequently used to influence voters who can
 end up voting for stuff that are against their interests. Culture is
 in emotional brain, stronger in effect than the analytic.  That's how
-successful ads work too. An ad that highlights the IDENTITY will sell
+successful ads work too. An ad that highlights IDENTITY will sell
 better in US than an ad which talks about the technical specifications
 of a car.
 
