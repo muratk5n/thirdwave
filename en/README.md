@@ -73,17 +73,14 @@ different type than pre-modern religious, but a herd all the same.
 
 ---
 
-Here's something funnier; the fossil fuel lobby might have allowed
-these imbeciles to become visible because the lobby knew they'd go
-around and around, hit a brick wall, fail and eventually come back to
-their arms in desperation, wanting more fossil fuel.
-
-This would have been diabolical but still shortsighted... e-retards
-managed to create a retarded buzz which grew also thanks to low
-rates. At the same time climate was truly in danger, **and** there was
-a viable option which remained unexplored because of retards wasting
-time / resources. Double whammy. Fossil lobby would have been better
-served to find that optimal, clean route that benefited everyone.
+Fossil fuel lobby might have allowed electrification to be popular
+because the lobby knew fools would go around and around, hit a brick
+wall, fail and eventually come back to their arms in desperation,
+wanting more fossil fuel. Diabolical yes but still
+shortsighted... e-retards did create a buzz which grew to certain
+degree. At the same time climate was truly in danger, **and** there
+was a viable option which remained unexplored for a while because of
+the e-retards.
 
 ---
 
