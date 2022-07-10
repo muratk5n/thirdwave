@@ -130,9 +130,9 @@ Canal during the first quarter of 2022"
 
 ---
 
-The implication being people are morons, never had or can have extra
-wisdom on governance issues as they are easily led by the nose one way
-or another. Want better resuls? Lead better.
+The implication is people are fools, never had or can have extra
+wisdom on governance as they are easily led by the nose one way or
+another. Want better resuls? Lead better.
 
 ---
 
