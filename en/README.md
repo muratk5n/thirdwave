@@ -150,7 +150,7 @@ from real issues, he achived the same result in the United Kingdom. If
 there was a psyop agent that aimed to undermine common people's
 interests, it's this guy. In both cases he ended up helping the
 well-to-do, the rich oligarchy by creating a smokescreen, so they hid
-behind it while others yelled at eachother on "social issues" and/or
+behind it while others yelled at eachother on bizarre issues and/or
 at organizations such as the EU.
 
 ---
