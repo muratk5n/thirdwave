@@ -68,8 +68,8 @@ as they have "advanced beyond that" and are now "enlightened". But
 they do follow things -secular media, officials' edicts- and they do
 follow quite blindly. Electrification mantra was handed down from such
 channels, and these fuckers ate that up like there was no tomorrow,
-and asked for more. That makes them a herd of sorts, albeit of a
-different type than pre-modern religious, but a herd all the same.
+and asked for more. That makes them a herd of sorts, different type
+than pre-modern religious, but a herd all the same.
 
 ---
 
