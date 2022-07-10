@@ -26,6 +26,8 @@
 
 [Fires](fires-history.html)
 
+[Oil and Gas](../../2019/05/oilgas.html)
+
 [Flow Batteries, Built with Iron and Water](../../2018/07/battery-fueled-by-iron-and-water.html)
 
 [[⇪Up]](../..)
