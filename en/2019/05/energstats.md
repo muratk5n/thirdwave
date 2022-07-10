@@ -205,3 +205,22 @@ print (dfs)
 4   USA  5.032
 ```
 
+<a name='lng'/>
+
+### LNG Traffic per Year
+
+In billion cubic meters 
+
+```python
+import pandas as pd
+df = pd.read_csv('lng.csv',sep=';',index_col=0)
+df.plot(); plt.savefig('lng.png')
+```
+
+![](lng.png)
+
+
+
+
+
+
