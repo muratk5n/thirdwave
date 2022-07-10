@@ -92,7 +92,7 @@ math..  But dividing 431 by 70 and multiplying by 60? Nah can't do that.
 That calc would have [given them](2022/02/base-energy-numbers.html#lithium)
 the amount of lithium required to store one day's worth of energy on
 batteries, and compared to 17 mtonnes (available reserves), it
-would make blatanty clear the popular conception was shit.
+would make blatanty clear the popular view was shit.
 
 ---
 
