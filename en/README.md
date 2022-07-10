@@ -155,9 +155,9 @@ at organizations such as the EU.
 
 ---
 
-Dick Morris [again](2021/10/all-too-human.html#triangulation), providing
-services on another hot-button war, playing on cultural rifts,
-engaging in dubious voter manipulation.
+Dick Morris [again](2021/10/all-too-human.html#triangulation),
+providing services on another hot-button division, playing on cultural
+rifts, engaging in dubious voter manipulation.
 
 "UKIP's triumphal march in England and Wales began in 2004. However,
 arguably this 'Cinderella story' would not have materialised without
