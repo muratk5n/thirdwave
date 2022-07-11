@@ -69,6 +69,8 @@ inventing or finding the techniques for solving the problem.
   the answer either – if they did, it wouldn’t be research. Many
   students have a hard time with working independently
 
+<a name='advisor'/> 
+
 • In classes, you are constantly being given grades and you are
   constantly being told what to do next. In research, there are no
   grades. There is some instruction (from your advisor), but mostly
