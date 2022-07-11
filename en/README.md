@@ -59,7 +59,7 @@ the target of 5 million tonnes of green hydrogen production by 2030"
 I'm sure "pro-bidness" governor is fine with that
 
 Texas Tribune: "Texans face skyrocketing home energy bills as the
-state exports more natural gas than ever The cost of electricity in
+state exports more natural gas than ever. The cost of electricity in
 Texas is tightly tied to the price of natural gas, which has more than
 doubled since Russia invaded Ukraine in late February"
 
