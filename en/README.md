@@ -8,12 +8,12 @@ Pinned Tweet
 
 ---
 
-@IllumingPower
+"@IllumingPower
 
 \#NewYork has signed a multi-state agreement that includes 40 private
 & public sector entities to develop a proposal for a regional clean
 #hydrogen hub in a bid to grab part of $8bn of funding from the
-Department of Energy. 🗽
+Department of Energy 🗽"
 
 [[-]](https://twitter.com/IllumingPower/status/1546151234620596224)
 
