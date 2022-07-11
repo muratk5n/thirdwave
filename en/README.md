@@ -91,8 +91,8 @@ Caucuses, Central As against Russia (if it can peel off a few
 countries here and there based on "common ethnicity" the better)-. So
 this is the reason especially post 80s the state narrative emphasized
 turning Kemal into a deitic figure, citizens were supposed to worship
-Kemal, and he looks Anglo, so through Kemal you worship the Anglo (by
-implication your alliance with them).
+Kemal, and he looks Anglo, so through Kemal you worship the Anglo
+(your alliance with them).
 
 ---
 
@@ -102,7 +102,7 @@ Now that I think about it the "Grand Ancestor" Kemal looks Anglo
 
 These canals are so tiny; saw Panama Canal on a map, holy thin little
 slice that was. Where is that wide effin cahuna of canal?  I'm talking
-about the Grand Canyon of Water Canals. Like Boom! 
+about the Grand Canyon of Water Canals. Like Boom! MIA
 
 ---
 
