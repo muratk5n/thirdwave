@@ -8,9 +8,6 @@ Pinned Tweet
 
 ---
 
-
----
-
 @IllumingPower
 
 \#NewYork has signed a multi-state agreement that includes 40 private
