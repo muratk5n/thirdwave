@@ -91,6 +91,16 @@ Built To Spill - Wherever You Go \#music
 
 ---
 
+Left-wing Catholics aren't much of a Catholic but they cling on to the
+title, especially if it is part of a minority ethnic position; it's
+like a lastname that is passed down, the thing parents say they are
+and the thing others call them that "sets them apart". In cultural
+terms it matters little, grander society will assimilate no running
+away from it, and then they go against the teachings.
+
+---
+
+
 Turkist ideology was always useful for the Anglo. Imagine you have
 bunch of deluded people in a strategic peninsula who think they are
 not from there, that will encourage "frontier" mentality in that
@@ -106,6 +116,12 @@ them).
 ---
 
 Now that I think about it the "Grand Ancestor" Kemal looks Anglo
+
+---
+
+These canals are so tiny; saw Panama Canal on a map, holy thin little
+slice that was. Where is that wide effin cahuna of canal?  I'm talking
+about the Grand Canyon of Water Canals. Like, Boom! Canal.  Boom! MIA
 
 ---
 
