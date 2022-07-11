@@ -70,6 +70,11 @@ The Flipped Classroom Model
 [[-]](https://youtu.be/qdKzSq_t8k8)
 
 ---
+
+Methodists? That's like Catholicism without the cocksuckers at the
+church isn't it?
+
+---
 	
 Left-wing Catholics aren't much of a Catholic but they cling on to the
 title, especially if it is part of a minority ethnic position; it's
