@@ -76,8 +76,7 @@ title, especially if it is part of a minority ethnic position; it's
 like a lastname that is passed down, the thing parents say they are
 and the thing others call them that "sets them apart". In cultural
 terms it matters little, grander society will assimilate no running
-away from it. On top of that they go against the teachings. So why
-bother?
+away from it. Then they go against the teachings. So why bother? 
 
 ---
 
