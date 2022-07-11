@@ -66,19 +66,6 @@ doubled since Russia invaded Ukraine in late February"
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
----
-
 The Flipped Classroom Model
 
 [[-]](https://youtu.be/qdKzSq_t8k8)
