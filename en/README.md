@@ -102,7 +102,7 @@ Now that I think about it the "Grand Ancestor" Kemal looks Anglo
 
 These canals are so tiny; saw Panama Canal on a map, holy thin little
 slice that was. Where is that wide effin cahuna of canal?  I'm talking
-about the Grand Canyon of Water Canals. Like Boom! Let's dig more.
+about the Grand Canyon of Water Canals. Like Boom! 
 
 ---
 
