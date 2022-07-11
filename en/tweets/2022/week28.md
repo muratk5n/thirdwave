@@ -50,7 +50,7 @@ equivalent to 10 Nordstream pipelines. Not bad.
 
 LNG ship traffic per year
 
-[[-]](2019/05/energstats.html#lng)
+[[-]](../../2019/05/energstats.html#lng)
 
 ---
 
