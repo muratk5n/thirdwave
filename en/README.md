@@ -90,12 +90,12 @@ bunch of deluded people in a strategic peninsula who think they are
 not from there, that will encourage "frontier" mentality in that
 country. Frontier for what? Frontier for the Anglo. That is why the
 outer alliance likes Turkist ideology - also useful for them in the
-Caucuses against Russia (if it can peel off a few countries here and
-there based on "common ethnicity" the better)-. So this is the reason
-especially post 80s the state narrative emphasized turning Kemal into
-a deitic figure, citizens were supposed to worship Kemal, and he looks
-Anglo, so through Kemal you worship the Anglo (and your alliance with
-them).
+Caucuses, Central As against Russia (if it can peel off a few
+countries here and there based on "common ethnicity" the better)-. So
+this is the reason especially post 80s the state narrative emphasized
+turning Kemal into a deitic figure, citizens were supposed to worship
+Kemal, and he looks Anglo, so through Kemal you worship the Anglo (and
+your alliance with them).
 
 ---
 
