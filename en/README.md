@@ -80,7 +80,8 @@ title, especially if it is part of a minority ethnic position; it's
 like a lastname that is passed down, the thing parents say they are
 and the thing others call them that "sets them apart". In cultural
 terms it matters little, grander society will assimilate no running
-away from it, and then they go against the teachings.
+away from it. On top of that they go against the teachings. So why
+bother?
 
 ---
 
@@ -94,8 +95,8 @@ Caucuses, Central As against Russia (if it can peel off a few
 countries here and there based on "common ethnicity" the better)-. So
 this is the reason especially post 80s the state narrative emphasized
 turning Kemal into a deitic figure, citizens were supposed to worship
-Kemal, and he looks Anglo, so through Kemal you worship the Anglo (and
-your alliance with them).
+Kemal, and he looks Anglo, so through Kemal you worship the Anglo (by
+implication your alliance with them).
 
 ---
 
