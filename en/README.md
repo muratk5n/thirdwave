@@ -39,6 +39,8 @@ This Week with George Stephanopolous show promoting green
 USA and I have been watching very closely. An inflection point in H2
 adoption trajectory"
 
+[[-]](https://twitter.com/respectmyplanet/status/1546124490995863553)
+
 ---
 
 Times of India: "The Adani Group recently made an announcement that it
