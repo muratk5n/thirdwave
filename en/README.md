@@ -106,12 +106,12 @@ about the Grand Canyon of Water Canals. Like Boom! Let's dig more.
 
 ---
 
-@DanDePetris
+"@DanDePetris
 
 Name a period in U.S. history when human rights were at the center of
 U.S. foreign policy. I can’t think of any. A lot of presidents insist
 that human rights serve as a foundation. Then they realize that, gosh,
-working with autocracies is an unavoidable part of the job.
+working with autocracies is an unavoidable part of the job"
 
 ---
 
