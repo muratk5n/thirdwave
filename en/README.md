@@ -73,7 +73,7 @@ The Flipped Classroom Model
 
 Hillary is a Methodist? Well then there will be some dicksucking
 around you, being married to Bill Clinton and all.. But shit won't be
-"holy" nam sayin?
+"holy" know wha I mean?
 
 ---
 
