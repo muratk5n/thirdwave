@@ -70,7 +70,7 @@ The Flipped Classroom Model
 [[-]](https://youtu.be/qdKzSq_t8k8)
 
 ---
-
+	
 Left-wing Catholics aren't much of a Catholic but they cling on to the
 title, especially if it is part of a minority ethnic position; it's
 like a lastname that is passed down, the thing parents say they are
@@ -102,7 +102,7 @@ Now that I think about it the "Grand Ancestor" Kemal looks Anglo
 
 These canals are so tiny; saw Panama Canal on a map, holy thin little
 slice that was. Where is that wide effin cahuna of canal?  I'm talking
-about the Grand Canyon of Water Canals. Like, Boom! Canal.
+about the Grand Canyon of Water Canals. Like Boom! Let's dig more.
 
 ---
 
