@@ -71,6 +71,12 @@ The Flipped Classroom Model
 
 ---
 
+Hillary is a Methodist? Well then there will be some dick sucking
+around you, being married to Bill Clinton and all.. But shit won't be
+"holy" nam sayin?
+
+---
+
 Methodists? That's like Catholicism without the cocksuckers at the
 church isn't it?
 
