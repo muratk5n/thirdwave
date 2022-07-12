@@ -1,5 +1,112 @@
 # Week 28 
 
+"@IllumingPower
+
+\#NewYork has signed a multi-state agreement that includes 40 private
+& public sector entities to develop a proposal for a regional clean
+#hydrogen hub in a bid to grab part of $8bn of funding from the
+Department of Energy 🗽"
+
+[[-]](https://twitter.com/IllumingPower/status/1546151234620596224)
+
+---
+
+Gasworld: "The UK is set to propel its transition to a more
+sustainable and secure energy environment following the introduction
+of its landmark Energy Security Bill.. the Bill is considered to be
+the most ambitious package of energy measures to go before parliament
+in a decade. Containing 26 measures based around the deployment of low
+carbon technologies such as carbon capture, usage, and storage (CCUS),
+and hydrogen, in addition to suggesting measures to mitigate rising
+energy costs, the Bill will be introduced by Business and Energy
+Secretary Kwasi Kwarteng"
+
+---
+
+"@respectmyplanet
+
+Today Sunday July 10, 2022 I saw a TV commercial on ABC during the
+This Week with George Stephanopolous show promoting green
+\#hydrogen. This is first time ever I have seen such a thing in the
+USA and I have been watching very closely. An inflection point in H2
+adoption trajectory"
+
+[[-]](https://twitter.com/respectmyplanet/status/1546124490995863553)
+
+---
+
+Times of India: "The Adani Group recently made an announcement that it
+has partnered with France's TotalEnergies to create a green hydrogen
+ecosystem. On the other side, Reliance Industries will also invest Rs
+75,000 crore over the next three years to set up a new clean-energy
+business...
+
+The government launched the National Hydrogen Energy Mission (NHEM) in
+2021-22. This year, the Ministry of Power notified Green Hydrogen
+Policy (GHP) and welcomed industry leaders. The policy will help meet
+the target of 5 million tonnes of green hydrogen production by 2030"
+
+---
+
+I'm sure "pro-bidness" governor is fine with that
+
+Texas Tribune: "Texans face skyrocketing home energy bills as the
+state exports more natural gas than ever. The cost of electricity in
+Texas is tightly tied to the price of natural gas, which has more than
+doubled since Russia invaded Ukraine in late February"
+
+---
+
+The Flipped Classroom Model
+
+[[-]](https://youtu.be/qdKzSq_t8k8)
+
+---
+
+	
+Left-wing Catholics aren't much of a Catholic but they cling on to the
+title, especially if it is part of a minority ethnic position; it's
+like a lastname that is passed down, the thing parents say they are
+and the thing others call them that "sets them apart". In cultural
+terms it matters little, grander society will assimilate no running
+away from it. Then they go against the teachings. So why bother? 
+
+---
+
+
+Turkist ideology was always useful for the Anglo. Imagine you have
+bunch of deluded people in a strategic peninsula who think they are
+not from there, that will encourage "frontier" mentality in that
+country. Frontier for what? Frontier for the Anglo. That is why the
+outer alliance likes Turkist ideology - also useful for them in the
+Caucuses, Central As against Russia (if it can peel off a few
+countries here and there based on "common ethnicity" the better)-. So
+this is the reason especially post 80s the state narrative emphasized
+turning Kemal into a deitic figure, citizens were supposed to worship
+Kemal, and he looks Anglo, so through Kemal you worship the Anglo
+(your alliance with them).
+
+---
+
+Now that I think about it the "Grand Ancestor" Kemal looks Anglo
+
+---
+
+These canals are so tiny; saw Panama Canal on a map, holy thin little
+slice that was. Where is that wide effin cahuna of canal?  I'm talking
+about the Grand Canyon of Water Canals. Like Boom! MIA
+
+---
+
+"@DanDePetris
+
+Name a period in U.S. history when human rights were at the center of
+U.S. foreign policy. I can’t think of any. A lot of presidents insist
+that human rights serve as a foundation. Then they realize that, gosh,
+working with autocracies is an unavoidable part of the job"
+
+---
+
 H2 Fuel News: "Gilbarco Veeder-root Prepares For The Hydrogen
 Transport Revolution.. It is making available a suite of compression,
 dispensing and software solutions, allowing the creation of a network
