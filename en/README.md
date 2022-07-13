@@ -138,10 +138,6 @@ schooling, education systems or anything else"
 
 ---
 
-Osmium! Diamonds look ok too.
-
----
-
 Available materials throughout history, strength/density graph
 
 We've discovered some interesting new materials eh?
