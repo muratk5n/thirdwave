@@ -124,7 +124,7 @@ MCU Secret Wars?
 
 ---
 
-It makes sense why the right does not like teachers; they are the
+It makes sense the right does not like teachers; they are the
 personification of a dumb shitlib who doesn't know anything but simply
 relays knowledge from some kind of 'authority' to the student but
 thinks are always right because those authorities happen to be secular
