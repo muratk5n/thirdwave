@@ -111,7 +111,7 @@ to see it finally materialize
 Read both 80s and 2015.
 
 MCU is building up to this? The 80s one was weird (but made money they
-say). 2015 could be their target. Dr Doom kills Thanos! 😶 Spoiled
+say). 2015 could be their target. Dr Doom kills Thanos! 😂 Spoiled
 that muthaf..ka didn't I? Aw shit
 
 ---
