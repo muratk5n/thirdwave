@@ -8,142 +8,209 @@ Pinned Tweet
 
 ---
 
-H2 Central: "Fabrum partner with HWR to decarbonise its transport
-fleet with hydrogen... Fabrum’s world-leading AFCryocooler cryogenic
-technology, which enables gas separation and liquefaction, combined
-with patented Membrane-Free Electrolyser™ technology from UK company
-Clean Power Hydrogen (CPH2) – splits water into pure hydrogen and
-medical grade oxygen – without the polymer membrane used in common PEM
-electrolysers. A 1.1 MW system can produce 450kg of hydrogen per day
-from water"
 
 ---
 
-FCHEA: "As more and more countries continue to use hydrogen, it’s
-worth revisiting countries.. such as China and India...
+H2 Central: "Thyssengas is planning an 800-kilometer hydrogen launch
+grid in Germany... The transmission system operator Thyssengas
+currently operates a 4,400-kilometre-long transmission network, most
+of which still transports natural gas. But that is about to change. In
+the future, these pipelines will gradually be converted to hydrogen..
 
-China has been an early adopter of hydrogen, and many of its
-previous laws and regulations called for the adoption of a hydrogen
-economy. Recently however, the Chinese government published the first
-official hydrogen plan for the country, designed to set specific
-guidelines, and long-term growth targets for the hydrogen industry.
-The plan covers a wide range of areas, from manufacturing, and
-research capabilities, manufacturing targets, and specific goals for
-hydrogen production and consumption... Overall, the central government
-seeks to “significantly improve” the portion of clean hydrogen in use
-across China by 2035. To do so, the government released some nearer
-term targets to produce up to 200,000 tons of clean hydrogen.. In
-addition to the central government, local governments and the private
-sector are also getting involved in the clean hydrogen economy...
+With the establishment of a “Thyssengas H2 start network” based on the
+existing natural gas network, Thyssengas wants to underline its own
+claim to be a pioneer and designer of the energy transition... [Its
+CEO] sees the establishment of an H2 network based on existing natural
+gas pipelines as a necessary lever and an important signal to
+producers, importers and consumers in the Thyssengas grid area...
 
-India has also begun to recognize clean hydrogen as essential to
-decarbonization. The Indian government recently announced a “phase
-one” document for clean hydrogen production, and released a set of
-policies in early 2022. The policies include allowing clean hydrogen
-producers to buy renewable energy at reduced rates, simplifying the
-permitting and licensing process to prioritize clean hydrogen, and
-allowing the construction of storage containers next to ports designed
-for hydrogen. The government has also promised to waive inter-state
-transmission charges for 25 years if the project is commissioned
-before June 30, 2025. This would significantly reduce the cost of
-clean hydrogen, potentially jumpstarting the hydrogen economy in
-India. This is all part of the government’s effort to reduce carbon
-emissions to zero by 2070. The government plans to release more
-policies to encourage the use of hydrogen production, including
-manufacturing zones dedicated to clean hydrogen"
+Thyssengas’ hydrogen grid planning is based on around 45 declarations
+of intent (MoUs) that Thyssengas has concluded with potential hydrogen
+producers and customers as part of a market survey conducted by FNB
+Gas e.V., an association of supra-regional gas transport companies.
+
+Over the 800 kilometres of pipeline identified, these future customers
+are to be reliably supplied with hydrogen from 2030 at the
+latest. These are lines that are to be successively rededicated for
+hydrogen transport or rebuilt in parts"
 
 ---
 
-ERR News: "Estonia is aiming to create a nationwide Hydrogen Valley to
-further develop energy independence and in anticipation of the
-European Green Deal.. In the coming six years, green hydrogen
-production will be developed in at least six regions in the
-country. The hydrogen produced in Estonia will be used for hydrogen
-fuelling public transport, heavy-duty vehicles, rail, shipping,
-aviation, and other transport modalities. During this time, it is
-planned to form a "complete and full nationwide hydrogen value chain"
-that will accelerate the energy transition and independence of the
-whole country under the motto '"from zero to green", a press release
-issued by Tartu City Council said"
+H2 View: "Nel Hydrogen US, a subsidiary of Nel ASA, has received a €4m
+purchase order from Viva Energy Australia Pty. Ltd. (Viva Energy) for
+a MC500 containerised PEM electrolyser"
 
 ---
 
-H2 Central: "The Korea H2 Business Summit, a hydrogen council
-established primarily by major companies such as Hyundai Motor, SK and
-POSCO, set up a fund to promote the hydrogen industry.
-
-The fund worth 500 billion won (US$383 million) will be established
-via investments from domestic member companies and foreign investors
-and is expected to be liquidated after 10 years of operation...
-
-Bahn Sang-woo, a managing director of Mirae Asset Securities, said:
-'The fund set the yield rate target at 8 percent, with 70 percent of
-the fund used for the establishment of infrastructure and 30 percent
-for technology investment'"
+H2 View: "H2 Clipper hires veteran aerospace
+executive.. California-based H2 Clipper, Inc., an aerospace and
+alternative energy company developing uniquely capable
+hydrogen-powered airships and end-to-end hydrogen infrastructure
+solutions, has announced that Joe Massaquoi has joined the company as
+Chief Financial Officer (CFO)"
 
 ---
 
-H2 Fuel News: "Hydrogen fuel cell plant opens near Vancouver,
-Canada.. The multimillion-dollar Cellcentric facility will produce the
-units as well as stacks for truck makers"
+If a heavy hitter is on it; this is serious business.
+
+"@E_H_Krasniqi
+
+Germany appoints former energy state secretary Rainer Baake as special
+emissary for energy cooperation with Namibia, tasked with implementing
+the gigantic ramp-up of a green hydrogen economy in the Southern
+African country"
 
 ---
 
-H2 View: "Isuzu, DENSO, Toyota, Hino, and CJPT to Start Planning and
-Foundational Research on Hydrogen Engines for Heavy-Duty Commercial
-Vehicles"
+H2 Central: "EVs will be overtaken by hydrogen cars by 2030, predicts
+auto expert.. An automotive industry expert in Germany recently issued
+a bold dismissal of electric vehicles, declaring that EVs will be
+overtaken by hydrogen-powered cars. Before an audience, Dr. Felix
+Gress, head of Continental’s corporate communications and public
+affairs, argued that battery-electric vehicles represent poor value
+for money"
 
 ---
 
-"@H2Standard
-
-The city of Shanghai has announced plans for a network of over 70
-hydrogen refueling stations (HRS). Of this total, Shenneng has won
-tenders to build about 20"
-
-[[-]](https://bit.ly/3NUSpi3)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">India Says on Track to Be a Solar <a href="https://twitter.com/hashtag/solar?src=hash&amp;ref_src=twsrc%5Etfw">#solar</a> and Green Hydrogen Powerhouse - Bloomberg <a href="https://t.co/V8orRN8tOm">https://t.co/V8orRN8tOm</a></p>&mdash; The Solar Move (@TheSolarMove) <a href="https://twitter.com/TheSolarMove/status/1546800307425882112?ref_src=twsrc%5Etfw">July 12, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Politico: "The question of whether to grant an exception to sanctions
-on Russia in order to fix the Nord Stream 1 pipeline saw Canada torn
-between the demands of Germany, which remains dependent on Russian
-fuel, and Ukraine’s pleas to cut Russian revenue streams.
-
-Canada will grant a 'time-limited and revocable permit' so Siemens can
-deliver turbines to Germany following their maintenance in Montreal,
-Natural Resources Minister.. announced'"
+WION: "Greenhouse gas emissions from US inflicted damage worth almost
+$2 trillion on other countries"
 
 ---
 
-Davis: "There Is No ‘Magic Bullet’ That Can Turn The Tide For
-Ukraine... In some instances, fighting tenaciously in the face of
-considerable enemy superiority can prove to be the difference between
-victory and defeat. For example, in the famous Battle of the Bulge,
-the U.S. 101st Airborne Division refused to surrender in Bastogne even
-after it had been surrounded and cut off by the advancing German
-army...
 
-The U.S. commander, however, had good reason to hold on even against
-an enemy with overwhelming numbers of artillery and tanks: as soon as
-the fog and cloud cover broke, the U.S. commander could expect massive
-air support to break the back of the German assaults and aerial
-resupply of ammunition and food to Bastogne’s defenders. More
-critically, Gen. George S. Patton’s 4th Armored Division was also
-racing north to relieve the 101st. For the Ukraine defenders, on the
-other hand, there is no such help coming...
 
-The much-ballyhooed supply of 'heavy weapons' from the West..  will
-not be enough to turn the tide"
 
-[[-]](https://www.19fortyfive.com/2022/07/there-is-no-magic-bullet-that-can-turn-the-tide-for-ukraine/)
+
+
+
+
+
+
+
+
+
+
 
 ---
 
-"Austrian Armed Forces Colonel Markus Reisner gives an update on the
-situation in Eastern Ukraine"
+TDB: "The Marvel Cinematic Universe’s Phase 4 Has Been a Total Train
+Wreck.. [T]hough CinemaScore grades are reliably unreliable, the fact
+that three of the four most poorly rated MCU films have premiered in
+the past 12 months isn’t a coincidence. The quality has noticeably
+dipped, and when coupled with a general sense of aimlessness, it’s
+time to begin wondering if there’s a coherent plan guiding the MCU
+into its future—and if all of its fans will stick around long enough
+to see it finally materialize
 
-[[-]](https://youtu.be/dEbLuAPobao?t=74)
+---
+
+Read both 80s and 2015.
+
+MCU is building up to this? The 80s one was weird (but made money they
+say). 2015 could be their target. Dr Doom kills Thanos! 😶 Spoiled
+that muthaf..ka didn't I? Aw shit
+
+---
+
+OK. I read the comic what about it?
+
+---
+
+MCU Secret Wars? 
+
+---
+
+It makes sense why the right does not like teachers; they are the
+personification of a dumb shitlib who doesn't know anything but simply
+relays knowledge from some kind of 'authority' to the student but
+thinks are always right because those authorities happen to be secular
+-which of course is no guarantee for anything-.
+
+---
+
+I recommend, teachers, record your own lectures, and flip the
+classroom. Next stage, flip the classroom around *someone else's
+lecture*, students get quality that way if the teacher is a 'dud'.
+
+---
+
+The lack of focus on the latter part causes focus on the
+former..
+
+Alternative ed is not being discussed, so within the confines of
+current system teacher quality would be the focus - that is the only
+parameter that can be tuned.
+
+On that, [some countries](2021/03/unrivaled-beckley.html#ed) do well,
+but most others dont.. I don't think you can do Finland style ed
+without being Finland. We need a scalable new approach.
+
+The Mandarin: "Remember when former [Oz] Morrison government minister
+Stuart Robert lashed out at 'dud' teachers? In March, the then-acting
+education minister said the 'bottom 10%' of teachers 'can’t read and
+write' and blamed them for declining academic results.. We are fixated
+on 'teacher quality'.. My analysis found the focus on 'quality' was
+far more on teachers than, say, teaching approaches, schools,
+schooling, education systems or anything else"
+
+---
+
+Osmium! Diamonds look ok too.
+
+---
+
+Available materials throughout history, strength/density graph
+
+We've discovered some interesting new materials eh?
+
+[[-]](https://pbs.twimg.com/media/FXd7Ba1WAAAWvvN?format=jpg&name=medium)
+
+---
+
+The outer alliance did a good job isolating Europe from its energy
+supply. Look anywhere in the map where Europe can get energy, "the
+Anglos" created major trouble. Oil-rich Libya? Turned into a
+'shitshow' thanks to US. Iran with massive oil/gas reserves is
+constantly kept outside the system... Iraq is a clusterfuck, but by
+now an old story. Russian relationship? Turned sour thanks to US
+meddling in Ukraine. I bet these muckers would mess with Norway if
+they could because they are suppling energy to Europe.
+
+---
+
+Covid: My vote is still is accidential lab leak of engineered virus
+(US's fault for allowing research to begin with and using an
+unreliable lab) or, less likely but still possible, intentional leak
+triggered by shadowy US figures. I put intentional China leak below
+those two - the aftermath makes it less likely, China had no good
+vaccines, and continued lockdowns, workplace interruptions caused
+major headaches for them.
+
+---
+
+Lech Walesa is a legend; but this ain't the 80s.
+
+---
+
+Yeah; good luck with that
+
+"[F]ormer Polish President and Nobel Peace Prize winner Lech Walesa
+spoke out in support of dismantling the Russian Federation"
+
+---
+
+"@DanielLDavis1
+
+The US gives Ukraine sophisticated HIMARs rocket launchers that hurt
+Russia. Moscow responds by getting 100s of sophisticated attack drones
+from Iran that will likely hurt Ukraine. Neither is a 'game changer'
+for either side"
+
+[[-]](https://twitter.com/DanielLDavis1/status/1546885454997471235)
 
 ---
 
