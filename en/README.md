@@ -158,12 +158,12 @@ they could because they are supplying energy to Europe.
 ---
 
 Covid: My vote is still is accidential lab leak of engineered virus
-(US's fault for allowing research to begin with and using an
-unreliable lab) or, less likely but still possible, intentional leak
-triggered by shadowy US figures. I put intentional China triggered
-leak below those two - the aftermath makes it less likely, China had
-no good vaccines, and continued lockdowns, workplace interruptions
-caused major headaches for them.
+(US's fault for allowing research to begin and using an unreliable
+lab) or, less likely but still possible, intentional leak triggered by
+shadowy US figures. I put intentional China triggered leak below those
+two - the aftermath makes it less likely, China had no good vaccines,
+and continued lockdowns, workplace interruptions caused major
+headaches for them.
 
 ---
 

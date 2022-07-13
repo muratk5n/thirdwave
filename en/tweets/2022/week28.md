@@ -387,7 +387,7 @@ at organizations such as the EU.
 
 ---
 
-Dick Morris [again](2021/10/all-too-human.html#triangulation),
+Dick Morris [again](../../2021/10/all-too-human.html#triangulation),
 providing services on another hot-button division, playing on cultural
 rifts, engaging in dubious voter manipulation.
 
