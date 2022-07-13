@@ -167,7 +167,7 @@ caused major headaches for them.
 
 ---
 
-Lech Walesa is a legend; but this ain't the 80s.
+Lech Walesa is a legend - but this ain't the 80s.
 
 ---
 
