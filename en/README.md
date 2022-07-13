@@ -101,10 +101,7 @@ TDB: "The Marvel Cinematic Universe’s Phase 4 Has Been a Total Train
 Wreck.. [T]hough CinemaScore grades are reliably unreliable, the fact
 that three of the four most poorly rated MCU films have premiered in
 the past 12 months isn’t a coincidence. The quality has noticeably
-dipped, and when coupled with a general sense of aimlessness, it’s
-time to begin wondering if there’s a coherent plan guiding the MCU
-into its future—and if all of its fans will stick around long enough
-to see it finally materialize
+dipped"
 
 ---
 
