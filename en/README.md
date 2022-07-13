@@ -81,22 +81,6 @@ $2 trillion on other countries"
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
 TDB: "The Marvel Cinematic Universe’s Phase 4 Has Been a Total Train
 Wreck.. [T]hough CinemaScore grades are reliably unreliable, the fact
 that three of the four most poorly rated MCU films have premiered in
@@ -173,7 +157,7 @@ Anglos" created major trouble. Oil-rich Libya? Turned into a
 constantly kept outside the system... Iraq is a clusterfuck, but by
 now an old story. Russian relationship? Turned sour thanks to US
 meddling in Ukraine. I bet these muckers would mess with Norway if
-they could because they are suppling energy to Europe.
+they could because they are supplying energy to Europe.
 
 ---
 
