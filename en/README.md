@@ -51,7 +51,7 @@ Chief Financial Officer (CFO)"
 
 ---
 
-If a heavy hitter is on it; this is serious business.
+Heavy hitter is on it; this is serious business.
 
 "@E_H_Krasniqi
 
