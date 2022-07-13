@@ -42,37 +42,18 @@ Name: Close, dtype: float64
 ### Opec Oil Production
 
 ```python
-import pandas as pd, requests
-from datetime import date
-
-api_key = open('.key/.eiakey').read()
-url = 'https://api.eia.gov/series/?api_key=' + api_key + '&series_id=STEO.COPR_OPEC.M' 
-r = requests.get(url)
-json_data = r.json()
-df = pd.DataFrame(json_data.get('series')[0].get('data'))
-df['Year'] = df[0].astype(str).str[:4]
-df['Month'] = df[0].astype(str).str[4:]
-df['Day'] = 1
-df['Date'] = pd.to_datetime(df[['Year','Month','Day']])
-df = df.set_index('Date')
-
-today = datetime.datetime.now()
-today = today.strftime('%Y-%m-%d')
-df = df[df.index <= today]
-df = df.sort_index()
-df[1].plot()
-print (df[1].tail(5))
+import util; df = util.get_eia("STEO.COPR_OPEC.M"); df.plot()
 plt.legend(['Oil Production Per Month (mil barrels per day)'])
 plt.savefig('opec.png')
+print (df.tail(4))
 ```
 
 ```text
 Date
-2022-02-01    28.575000
-2022-03-01    28.215000
 2022-04-01    28.590000
-2022-05-01    28.294654
-2022-06-01    28.786941
+2022-05-01    28.154654
+2022-06-01    28.410000
+2022-07-01    28.877896
 Name: 1, dtype: float64
 ```
 
