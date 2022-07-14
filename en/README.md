@@ -115,9 +115,9 @@ political capital (now all lost).
 
 ---
 
-I bet Labour would have liked to run against Johnson with popularity
-being low and all, but now a fresh new leader can complicate their
-oppo strategy.
+I bet Labour would have liked to run against Johnson in the next
+election with popularity being low and all, but now a fresh new leader
+can complicate their oppo strategy.
 
 ---
 
