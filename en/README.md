@@ -97,8 +97,8 @@ Steppenwolf - The Ostrich \#music
 
 ---
 
-Updated Taylor Rule calculation below suggests a much higher fedfunds
-which amounts to ripping off the band aid - Volcker style. 
+Updated Taylor Rule calculation says a high fedfunds meaning ripping
+off the band aid - Volcker style.
 
 [[-]](2019/05/stats.html#taylor)
 
