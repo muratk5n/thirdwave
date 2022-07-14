@@ -4,6 +4,8 @@
 
 [Wires vs Pipes](../../2019/03/wirespipes.html)
 
+[Energy Statistics](../../2019/05/energstats.html)
+
 [The surprising resurgence of hydrogen fuel](../../2018/11/the-surprising-resurgence-of-hydrogen.html)
 
 [H2 Production Methods](../../2022/02/h2-production.html)
