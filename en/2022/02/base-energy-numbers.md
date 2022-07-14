@@ -55,6 +55,8 @@ Natural gas 170 cubic metres for one BOE.
 As standard the 1 barrel (119 liter) of crude oil produce approximately
 159 liters of gasoline / petrol.
 
+8 kWh of heat can be generated from 1 kg of coal
+
 H2 pipelines can carry 7 GW for 36 inch and 13 GW for 48-inch pipelines.
 
 <a name='lithium'/>

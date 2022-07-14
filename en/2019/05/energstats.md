@@ -70,27 +70,46 @@ Name: Close, dtype: float64
 
 ![](natgas.png)
 
-<a name='engconsumption'/>
+<a name='sources'/>
 
-Looking at YoY increases per source
+[Data](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy/downloads.html)
+
+kbd Thousand of Barrels Per Day
+
+Ej = Exajoules = 277.778 TWh
 
 ```python
-dfeng = dfall[descs]
-source = 'solar'
-dfeng[source+'prev'] = dfeng[source].shift(-12)
-dfeng[source+'yoy'] = (dfeng[source]-dfeng[source+'prev']) / dfeng[source+'prev'] * 100.0
-print (dfeng[source+'yoy'].dropna().head(5))
+import pandas as pd
+
+df = pd.read_csv('bp-stats-review-2022-consolidated-dataset-panel-format.csv')
+df = df[df.Country == 'Total World']
+df = df.set_index('Year')
+df = df[df.index > 1980]
+df = df[['wind_twh','solar_twh','oilprod_kbd','nuclear_twh','hydro_twh','gasprod_ej','coalprod_ej']]
+
+df['oil_twh'] = df.oilprod_kbd * 365 * 1700 * 1000 / 1e9
+df['coal_twh'] = df.coalprod_ej * 277.778 
+df['gas_twh'] = df.gasprod_ej * 277.778
+df[['wind_twh','solar_twh','oil_twh','nuclear_twh','hydro_twh','gas_twh','coal_twh']].plot()
+plt.savefig('out.png')
+print (df.tail(3))
 ```
 
 ```text
-Date
-2021-06-01    24.957553
-2021-05-01    24.686058
-2021-04-01    24.301684
-2021-03-01    24.618614
-2021-02-01    24.098390
-Name: solaryoy, dtype: float64
+         wind_twh    solar_twh  oilprod_kbd  nuclear_twh    hydro_twh  \
+Year                                                                    
+2019  1420.544110   703.949763  94915.69056  2796.354063  4231.376747   
+2020  1596.428212   846.229368  88494.23210  2693.978613  4345.990451   
+2021  1861.939824  1032.501231  89876.88077  2800.267792  4273.827522   
+
+      gasprod_ej  coalprod_ej       oil_twh      coal_twh       gas_twh  
+Year                                                                     
+2019  142.838417   167.140798  58895.185992  46428.036448  39677.369853  
+2020  139.014553   158.646502  54910.671018  44068.508171  38615.184559  
+2021  145.327780   167.582177  55768.604518  46550.642074  40368.860045  
 ```
+
+![](energy-sources.png)
 
 <a name='gasolineState'/>
 
