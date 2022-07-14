@@ -23,7 +23,32 @@ Name: Close, dtype: float64
 
 ![](oil.png)
 
-<a name="opec"></a>
+<a name='worldoil'/>
+
+### World Oil Production
+
+INTL.57-1-WORL-TBPD.M
+
+<a name="worldoil"></a>
+
+```python
+import util; df = util.get_eia("INTL.57-1-WORL-TBPD.M");
+df = df[df.index > '2000-01-01']; df.plot()
+plt.legend(['Oil Production (mil barrels per day)'])
+plt.savefig('worldoil.png')
+print (df.tail(4))
+```
+
+```text
+Date
+2021-12-01    79580.084317
+2022-01-01    79700.653163
+2022-02-01    80673.678911
+2022-03-01    80551.963939
+Name: 1, dtype: float64
+```
+
+![](worldoil.png)
 
 ### Opec Oil Production
 
@@ -68,9 +93,9 @@ Date
 Name: Close, dtype: float64
 ```
 
-### World Energy Production by Source
-
 ![](natgas.png)
+
+### World Energy Production by Source
 
 <a name='sources'/>
 
@@ -91,23 +116,24 @@ df = df[['wind_twh','solar_twh','oilprod_kbd','nuclear_twh','hydro_twh','gasprod
 df['oil_twh'] = df.oilprod_kbd * 365 * 1700 * 1000 / 1e9
 df['coal_twh'] = df.coalprod_ej * 277.778 
 df['gas_twh'] = df.gasprod_ej * 277.778
-df[[x for x in df.columns if '_twh' in x]].plot()
+cols = [x for x in df.columns if '_twh' in x]
+df[cols].plot()
 plt.savefig('energy-sources.png')
-print (df.tail(3))
+print (df[cols].tail(3))
 ```
 
 ```text
-         wind_twh    solar_twh  oilprod_kbd  nuclear_twh    hydro_twh  \
-Year                                                                    
-2019  1420.544110   703.949763  94915.69056  2796.354063  4231.376747   
-2020  1596.428212   846.229368  88494.23210  2693.978613  4345.990451   
-2021  1861.939824  1032.501231  89876.88077  2800.267792  4273.827522   
-
-      gasprod_ej  coalprod_ej       oil_twh      coal_twh       gas_twh  
+         wind_twh    solar_twh  nuclear_twh    hydro_twh       oil_twh  \
 Year                                                                     
-2019  142.838417   167.140798  58895.185992  46428.036448  39677.369853  
-2020  139.014553   158.646502  54910.671018  44068.508171  38615.184559  
-2021  145.327780   167.582177  55768.604518  46550.642074  40368.860045  
+2019  1420.544110   703.949763  2796.354063  4231.376747  58895.185992   
+2020  1596.428212   846.229368  2693.978613  4345.990451  54910.671018   
+2021  1861.939824  1032.501231  2800.267792  4273.827522  55768.604518   
+
+          coal_twh       gas_twh  
+Year                              
+2019  46428.036448  39677.369853  
+2020  44068.508171  38615.184559  
+2021  46550.642074  40368.860045  
 ```
 
 ![](energy-sources.png)
