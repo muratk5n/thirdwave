@@ -817,4 +817,5 @@ key in a `.quandl` file in the same directory as this file.
 
 [3] [Mathworks](https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/28080/versions/1/previews/gini.m/index.html)
 
-[4] https://www.philosophicaleconomics.com/2014/03/foreignpm/
+[4] [Philosophical Economics](https://www.philosophicaleconomics.com/2014/03/foreignpm/)
+
