@@ -112,15 +112,6 @@ Inflation is way up
 
 ---
 
-How did I find out my coworker was Tamil Tiger synphatizer? I read a
-lot IR related books, novels, I'd read a novel refering to that
-particular insurgency..  Then when coworker said he is from Sri Lanka
-I immediately said "Tamil Tigers!" gave a thumbs up in a half-assed
-joke. But the coworker lit up, he goes "f--k yeah!"  turns out he was
-a true supporter. I had no idea.
-
----
-
 \#SriLanka Rajapaksas were everywhere... should've guessed some were
 obviously connected to the last major success in that nation, beating
 the Tamil Tigers.. Gotabaya was apparently SecDef when that happened,
