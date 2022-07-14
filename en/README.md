@@ -85,8 +85,8 @@ economy"
 ---
 
 OPEC oil production below. The supply just isn't there.. No wonder
-prices are high. At peak it was around 32 million barrels per day, now
-it's at 29 mil.
+prices are high. At peak production was around 32 million barrels per
+day, now it's at 29 mil.
 
 [[-]](2019/05/energstats.html#opec)
 
