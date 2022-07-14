@@ -17,13 +17,14 @@ hydrogen in Canada"
 
 ---
 
-H2 View: "A Norwegian school is planned to become home to what is said
-to be the ‘world’s largest’ metal hydride-based hydrogen storage
-facility.
+Metal hydrides are very promising tech for storage, see Australian
+company Lavo.
 
-Hybrid Energy revealed on Tuesday (July 12), that its daughter company
-Hystorsys had won a contract to install the hydrogen storage at the
-Vestiden Junior Highschool in Kongsberg, Norway.
+H2 View: "A Norwegian school is planned to become home to what is said
+to be the world’s largest metal hydride-based hydrogen storage
+facility. Hybrid Energy revealed on Tuesday (July 12), that its
+daughter company Hystorsys had won a contract to install the hydrogen
+storage at the Vestiden Junior Highschool in Kongsberg, Norway.
 
 Hystorsys, a spin off from the Norwegian Institute for Energy
 Technology (IFE), plans to install its storage solution at the school
