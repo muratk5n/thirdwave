@@ -129,6 +129,16 @@ political capital (they seem to have lost it all now).
 
 ---
 
+I bet Labour would have liked to run against Johnson with popularity
+being low and all, but now a fresh new leader can complicate their
+oppo strategy.
+
+---
+
+WION: "Rishi Sunak emerges on top in first round of Conservative Party vote"
+
+---
+
 "@DRoverala
 
 The USA Special Operations forces are involved in a low-profile proxy
@@ -149,16 +159,6 @@ The Guardian: "Canada exempts Russian gas turbine from sanctions amid
 Europe energy crisis.. Ottawa defies Ukraine’s objections to return of
 equipment for Nord Stream 1 pipeline, saying it needs to support
 Europe’s access to ‘reliable and affordable energy'"
-
----
-
-I bet Labour would have liked to run against Johnson with popularity
-being low and all, but now a fresh new leader can complicate their
-oppo strategy.
-
----
-
-WION: "Rishi Sunak emerges on top in first round of Conservative Party vote"
 
 ---
 
