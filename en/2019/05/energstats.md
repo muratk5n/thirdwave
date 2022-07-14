@@ -136,6 +136,29 @@ Year
 
 ![](energy-sources.png)
 
+```python
+df2 = df[cols].tail(1).unstack()
+df2 = (df2 / df2.sum())*100.0
+df2.plot(kind="pie")
+plt.savefig('source-pie.png')
+df2
+```
+
+```text
+Out[1]: 
+             Year
+wind_twh     2021     1.219691
+solar_twh    2021     0.676355
+nuclear_twh  2021     1.834357
+hydro_twh    2021     2.799634
+oil_twh      2021    36.532052
+coal_twh     2021    30.493689
+gas_twh      2021    26.444221
+dtype: float64
+```
+
+![](source-pie.png)
+
 <a name='gasolineState'/>
 
 ### US Retail Gasoline Prices per State
