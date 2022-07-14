@@ -29,11 +29,12 @@ Name: Close, dtype: float64
 
 <a name="worldoil"></a>
 
+Million barrels a day
+
 ```python
 import util; df = util.get_eia("INTL.57-1-WORL-TBPD.M");
 df = df[df.index > '2000-01-01'] / 1000.0
-df.plot(); plt.legend(['Oil Production (mil barrels per day)'])
-plt.savefig('worldoil.png')
+df.plot(); plt.savefig('worldoil.png')
 print (df.tail(4))
 ```
 
@@ -50,9 +51,10 @@ Name: 1, dtype: float64
 
 ### Opec Oil Production
 
+Million barrels a day
+
 ```python
 import util; df = util.get_eia("STEO.COPR_OPEC.M"); df.plot()
-plt.legend(['Oil Production (mil barrels per day)'])
 plt.savefig('opec.png')
 print (df.tail(4))
 ```
