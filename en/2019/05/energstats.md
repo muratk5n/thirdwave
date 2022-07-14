@@ -31,18 +31,18 @@ Name: Close, dtype: float64
 
 ```python
 import util; df = util.get_eia("INTL.57-1-WORL-TBPD.M");
-df = df[df.index > '2000-01-01']; df.plot()
-plt.legend(['Oil Production (mil barrels per day)'])
+df = df[df.index > '2000-01-01'] / 1000.0
+df.plot(); plt.legend(['Oil Production (mil barrels per day)'])
 plt.savefig('worldoil.png')
 print (df.tail(4))
 ```
 
 ```text
 Date
-2021-12-01    79580.084317
-2022-01-01    79700.653163
-2022-02-01    80673.678911
-2022-03-01    80551.963939
+2021-12-01    79.580084
+2022-01-01    79.700653
+2022-02-01    80.673679
+2022-03-01    80.551964
 Name: 1, dtype: float64
 ```
 
