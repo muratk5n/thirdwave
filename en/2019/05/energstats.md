@@ -101,6 +101,8 @@ Name: Close, dtype: float64
 
 [Data](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy/downloads.html)
 
+Units are terrawatt hours
+
 kbd Thousand of Barrels Per Day
 
 Ej = Exajoules = 277.778 TWh
