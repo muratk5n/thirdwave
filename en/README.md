@@ -125,7 +125,7 @@ a true supporter. I had no idea.
 obviously connected to the last major success in that nation, beating
 the Tamil Tigers.. Gotabaya was apparently SecDef when that happened,
 brother was President. That kind of success buys you a lot of
-political capital (they seem to have lost it all now).
+political capital (now all lost).
 
 ---
 
