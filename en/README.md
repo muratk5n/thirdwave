@@ -107,7 +107,7 @@ Inflation is way up
 
 ---
 
-\#SriLanka Rajapaksas were everywhere... should've guessed some were
+Rajapaksas were everywhere \#SriLanka... should've guessed some were
 obviously connected to the last major success in that nation, beating
 the Tamil Tigers.. Gotabaya was apparently SecDef when that happened,
 brother was President. That kind of success buys you a lot of
