@@ -82,18 +82,17 @@ Ej = Exajoules = 277.778 TWh
 
 ```python
 import pandas as pd
-
+pd.set_option('display.max_columns', None)
 df = pd.read_csv('bp-stats-review-2022-consolidated-dataset-panel-format.csv')
 df = df[df.Country == 'Total World']
 df = df.set_index('Year')
 df = df[df.index > 1980]
 df = df[['wind_twh','solar_twh','oilprod_kbd','nuclear_twh','hydro_twh','gasprod_ej','coalprod_ej']]
-
 df['oil_twh'] = df.oilprod_kbd * 365 * 1700 * 1000 / 1e9
 df['coal_twh'] = df.coalprod_ej * 277.778 
 df['gas_twh'] = df.gasprod_ej * 277.778
-df[['wind_twh','solar_twh','oil_twh','nuclear_twh','hydro_twh','gas_twh','coal_twh']].plot()
-plt.savefig('out.png')
+df[[x for x in df.columns if '_twh' in x]].plot()
+plt.savefig('energy-sources.png')
 print (df.tail(3))
 ```
 
