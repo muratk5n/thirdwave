@@ -68,6 +68,8 @@ Date
 Name: Close, dtype: float64
 ```
 
+### World Energy Production by Source
+
 ![](natgas.png)
 
 <a name='sources'/>
