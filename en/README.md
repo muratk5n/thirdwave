@@ -9,9 +9,9 @@
 "@PlugPowerInc
 
 Plug is proud to be selected by @IrvingOil, a 100-year-old
-international energy company, to provide a 5-megawatt PEM electrolyzer
-to its Saint John refinery, which currently produces about 7% of all
-hydrogen in Canada"
+international energy company, to provide a.. PEM electrolyzer to its
+Saint John refinery, which currently produces about 7% of all hydrogen
+in Canada"
 
 [[-]](https://bit.ly/3c17m4V)
 
