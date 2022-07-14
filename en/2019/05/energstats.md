@@ -29,7 +29,7 @@ Name: Close, dtype: float64
 
 ```python
 import util; df = util.get_eia("STEO.COPR_OPEC.M"); df.plot()
-plt.legend(['Oil Production Per Month (mil barrels per day)'])
+plt.legend(['Oil Production (mil barrels per day)'])
 plt.savefig('opec.png')
 print (df.tail(4))
 ```
