@@ -92,12 +92,6 @@ day, now it's at 29 mil.
 
 ---
 
-Steppenwolf - The Ostrich \#music
-
-[[-]](https://youtu.be/XNO37aFAfkg)
-
----
-
 Updated Taylor Rule calculation says a high fedfunds meaning ripping
 off the band aid - Volcker style.
 
