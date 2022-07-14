@@ -92,8 +92,9 @@ day, now it's at 29 mil.
 
 ---
 
-Updated Taylor Rule calculation says a high fedfunds meaning ripping
-off the band aid - Volcker style.
+Updated Taylor Rule calculation says a high fedfunds ie ripping off
+the band aid - Volcker style. But the FED is on a rate hike path
+already..
 
 [[-]](2019/05/stats.html#taylor)
 
