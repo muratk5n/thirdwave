@@ -27,8 +27,6 @@ Name: Close, dtype: float64
 
 ### World Oil Production
 
-INTL.57-1-WORL-TBPD.M
-
 <a name="worldoil"></a>
 
 ```python
