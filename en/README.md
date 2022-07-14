@@ -2,190 +2,167 @@
 
 ---
 
-Pinned Tweet
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Daimler Truck Tests Fuel-Cell Truck with Liquid Hydrogen <a href="https://t.co/bo4Wqop4Ah">https://t.co/bo4Wqop4Ah</a> <a href="https://t.co/aEp9BsyjMF">pic.twitter.com/aEp9BsyjMF</a></p>&mdash; DOFT (@doft_com) <a href="https://twitter.com/doft_com/status/1541654639459717120?ref_src=twsrc%5Etfw">June 28, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">NOTICE: On Tuesday, July 19, Chairman <a href="https://twitter.com/Sen_JoeManchin?ref_src=twsrc%5Etfw">@Sen_JoeManchin</a> and <a href="https://twitter.com/EnergyDems?ref_src=twsrc%5Etfw">@EnergyDems</a> will convene to examine federal regulatory authorities governing the development of interstate hydrogen pipelines, storage, import and export facilities.<br><br>For more information: <a href="https://t.co/mq82qoT3hI">https://t.co/mq82qoT3hI</a> <a href="https://t.co/UBeHioKNqp">pic.twitter.com/UBeHioKNqp</a></p>&mdash; SenateEnergyDems (@EnergyDems) <a href="https://twitter.com/EnergyDems/status/1547258476308697088?ref_src=twsrc%5Etfw">July 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
+"@PlugPowerInc
+
+Plug is proud to be selected by @IrvingOil, a 100-year-old
+international energy company, to provide a 5-megawatt PEM electrolyzer
+to its Saint John refinery, which currently produces about 7% of all
+hydrogen in Canada"
+
+[[-]](https://bit.ly/3c17m4V)
 
 ---
 
-H2 Central: "Thyssengas is planning an 800-kilometer hydrogen launch
-grid in Germany... The transmission system operator Thyssengas
-currently operates a 4,400-kilometre-long transmission network, most
-of which still transports natural gas. But that is about to change. In
-the future, these pipelines will gradually be converted to hydrogen..
+H2 View: "A Norwegian school is planned to become home to what is said
+to be the ‘world’s largest’ metal hydride-based hydrogen storage
+facility.
 
-With the establishment of a “Thyssengas H2 start network” based on the
-existing natural gas network, Thyssengas wants to underline its own
-claim to be a pioneer and designer of the energy transition... [Its
-CEO] sees the establishment of an H2 network based on existing natural
-gas pipelines as a necessary lever and an important signal to
-producers, importers and consumers in the Thyssengas grid area...
+Hybrid Energy revealed on Tuesday (July 12), that its daughter company
+Hystorsys had won a contract to install the hydrogen storage at the
+Vestiden Junior Highschool in Kongsberg, Norway.
 
-Thyssengas’ hydrogen grid planning is based on around 45 declarations
-of intent (MoUs) that Thyssengas has concluded with potential hydrogen
-producers and customers as part of a market survey conducted by FNB
-Gas e.V., an association of supra-regional gas transport companies.
+Hystorsys, a spin off from the Norwegian Institute for Energy
+Technology (IFE), plans to install its storage solution at the school
+to store excess energy produced by solar panels during the summer as
+hydrogen, ready for winter consumption..
 
-Over the 800 kilometres of pipeline identified, these future customers
-are to be reliably supplied with hydrogen from 2030 at the
-latest. These are lines that are to be successively rededicated for
-hydrogen transport or rebuilt in parts"
+Hybrid Energy says its storage solution has the ability to store 1kg
+of hydrogen in a 17-litre metal hydride unit at 30 bar, by comparison
+to more traditional storage units offering 1kg in 42-litre units at
+350 bar"
 
 ---
 
-H2 View: "Nel Hydrogen US, a subsidiary of Nel ASA, has received a €4m
-purchase order from Viva Energy Australia Pty. Ltd. (Viva Energy) for
-a MC500 containerised PEM electrolyser"
+H2 View: "500MW green hydrogen plant plans for Port of Amsterdam unveiled"
 
 ---
 
-H2 View: "H2 Clipper hires veteran aerospace
-executive.. California-based H2 Clipper, Inc., an aerospace and
-alternative energy company developing uniquely capable
-hydrogen-powered airships and end-to-end hydrogen infrastructure
-solutions, has announced that Joe Massaquoi has joined the company as
-Chief Financial Officer (CFO)"
+Express: "A Japanese energy company is set to sign a £26million deal
+to develop green hydrogen projects in Wales"
 
 ---
 
-Heavy hitter is on it; this is serious business.
-
-"@E_H_Krasniqi
-
-Germany appoints former energy state secretary Rainer Baake as special
-emissary for energy cooperation with Namibia, tasked with implementing
-the gigantic ramp-up of a green hydrogen economy in the Southern
-African country"
+H2 Fuel News: "Airbus turns its focus toward a green hydrogen hub
+strategy.. As the global clean energy supply chain continues to build,
+the aerospace corporation intends to lead"
 
 ---
 
-H2 Central: "EVs will be overtaken by hydrogen cars by 2030, predicts
-auto expert.. An automotive industry expert in Germany recently issued
-a bold dismissal of electric vehicles, declaring that EVs will be
-overtaken by hydrogen-powered cars. Before an audience, Dr. Felix
-Gress, head of Continental’s corporate communications and public
-affairs, argued that battery-electric vehicles represent poor value
-for money"
+H2 View: "Hydrogen fuel cells could get a lot cheaper with newly
+developed iron catalyst.. New research shows that the low-cost
+material could provide a viable platinum alternative"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">India Says on Track to Be a Solar <a href="https://twitter.com/hashtag/solar?src=hash&amp;ref_src=twsrc%5Etfw">#solar</a> and Green Hydrogen Powerhouse - Bloomberg <a href="https://t.co/V8orRN8tOm">https://t.co/V8orRN8tOm</a></p>&mdash; The Solar Move (@TheSolarMove) <a href="https://twitter.com/TheSolarMove/status/1546800307425882112?ref_src=twsrc%5Etfw">July 12, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"@RHAMembers
+
+Green hydrogen refuelling firm Element 2 recruits ExxonMobil veteran Nick Shelley"
 
 ---
 
-WION: "Greenhouse gas emissions from US inflicted damage worth almost
-$2 trillion on other countries"
+"@VolvoGroup
+
+@VolvoTrucks showcases a new zero-emissions truck powered by hydrogen!"
+
+[[-]](http://ow.ly/4IT950JBr1U)
 
 ---
 
-TDB: "The Marvel Cinematic Universe’s Phase 4 Has Been a Total Train
-Wreck.. [T]hough CinemaScore grades are reliably unreliable, the fact
-that three of the four most poorly rated MCU films have premiered in
-the past 12 months isn’t a coincidence. The quality has noticeably
-dipped"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The <a href="https://twitter.com/hashtag/UK?src=hash&amp;ref_src=twsrc%5Etfw">#UK</a> getting ready for a <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> future this week:<br>In an effort to prepare for hydrogen integration, UK-based <a href="https://twitter.com/OxfordFlow?ref_src=twsrc%5Etfw">@OxfordFlow</a> has today (July 4) unveiled its hydrogen-ready, gas pressure regulator, the IM-S valve. <a href="https://twitter.com/hashtag/H2View?src=hash&amp;ref_src=twsrc%5Etfw">#H2View</a> <a href="https://twitter.com/hashtag/repost?src=hash&amp;ref_src=twsrc%5Etfw">#repost</a><a href="https://t.co/o1MAmxRhr8">https://t.co/o1MAmxRhr8</a></p>&mdash; H2 View (@h2_view) <a href="https://twitter.com/h2_view/status/1545860426155655169?ref_src=twsrc%5Etfw">July 9, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-MCU is building up to this? Read both 80s and 2015. The 80s one was
-weird (but made money they say). 2015 could be their target. Dr Doom
-kills Thanos! 😂 Spoiled that muthaf..ka didn't I? Aw shit
+Bloomberg: "Oil’s Spectacular Covid Crash Set the World Up for $100
+Crude.. The energy industry cut back during the pandemic, paving the
+way for a runaway rally that has huge implications for the global
+economy"
 
 ---
 
-OK. I read the comic what about it?
+OPEC oil production below. The supply just isn't there.. No wonder
+prices are high. At peak it was around 32 million barrels per day, now
+it's at 29 mil.
+
+[[-]](2019/05/energstats.html#opec)
 
 ---
 
-MCU Secret Wars? 
+Steppenwolf - The Ostrich \#music
+
+[[-]](https://youtu.be/XNO37aFAfkg)
 
 ---
 
-It makes sense the right does not like teachers; they are the
-personification of the dumb shitlib who doesn't know anything but
-simply relays knowledge from some kind of 'authority' to the student
-but thinks are always right because those authorities happen to be
-secular -which of course is no guarantee for anything-.
+Updated Taylor Rule calculation below suggests a much higher fedfunds
+which amounts to ripping off the band aid - Volcker style. 
+
+[[-]](2019/05/stats.html#taylor)
 
 ---
 
-I recommend, teachers, record your own lectures, and flip the
-classroom. Next stage, flip the classroom around *someone else's
-lecture*, students get quality that way if the teacher is a 'dud'.
+Inflation is way up
+
+`2022-06-01  9.059758`
+
+[[-]](2019/05/stats.html#cycle)
 
 ---
 
-The lack of focus on the latter part causes focus on the
-former..
-
-Alternative ed is not being discussed, so within the confines of
-current system teacher quality would be the focus - that is the only
-parameter that can be tuned.
-
-On that, [some countries](2021/03/unrivaled-beckley.html#ed) do well,
-but most others dont.. I don't think you can do Finland style ed
-without being Finland. We need a scalable new approach.
-
-The Mandarin: "Remember when former [Oz] Morrison government minister
-Stuart Robert lashed out at 'dud' teachers? In March, the then-acting
-education minister said the 'bottom 10%' of teachers 'can’t read and
-write' and blamed them for declining academic results.. We are fixated
-on 'teacher quality'.. My analysis found the focus on 'quality' was
-far more on teachers than, say, teaching approaches, schools,
-schooling, education systems or anything else"
+How did I find out my coworker was Tamil Tiger synphatizer? I read a
+lot IR related books, novels, I'd read a novel refering to that
+particular insurgency..  Then when coworker said he is from Sri Lanka
+I immediately said "Tamil Tigers!" gave a thumbs up in a half-assed
+joke. But the coworker lit up, he goes "f--k yeah!"  turns out he was
+a true supporter. I had no idea.
 
 ---
 
-Available materials throughout history, strength/density graph
-
-We've discovered some interesting new materials eh?
-
-[[-]](https://pbs.twimg.com/media/FXd7Ba1WAAAWvvN?format=jpg&name=medium)
-
----
-
-The outer alliance did a good job isolating Europe from its energy
-supply. Look anywhere in the map where Europe can get energy, "the
-Anglos" created major trouble. Oil-rich Libya? Turned into a
-'shitshow' thanks to US. Iran with massive oil/gas reserves is
-constantly kept outside the system... Iraq is a clusterfuck, but by
-now an old story. Russian relationship? Turned sour thanks to US
-meddling in Ukraine. I bet these muckers would mess with Norway if
-they could because they are supplying energy to Europe.
+\#SriLanka Rajapaksas were everywhere... should've guessed some were
+obviously connected to the last major success in that nation, beating
+the Tamil Tigers.. Gotabaya was apparently SecDef when that happened,
+brother was President. That kind of success buys you a lot of
+political capital (they seem to have lost it all now).
 
 ---
 
-Covid: My vote is still is accidential lab leak of engineered virus
-(US's fault for allowing research to begin and using an unreliable
-lab) or, less likely but still possible, intentional leak triggered by
-shadowy US figures. I put intentional China triggered leak below those
-two - the aftermath makes it less likely, China had no good vaccines,
-and continued lockdowns, workplace interruptions caused major
-headaches for them.
+"@DRoverala
+
+The USA Special Operations forces are involved in a low-profile proxy
+war program - 127e program - on a far greater scale than previously
+known, not just in multiple countries in #Africa, as previously
+reported, but also in the MiddleEast & AsiaPacific"
+
+[[-]](https://mobile.twitter.com/DRovera/status/1543478335551971329)
 
 ---
 
-Lech Walesa is a legend - but this ain't the 80s.
+Arab News: "US destroyer sails near disputed South China Sea islands,
+Beijing says it ‘drove’ ship away"
 
 ---
 
-Yeah; good luck with that
-
-"[F]ormer Polish President and Nobel Peace Prize winner Lech Walesa
-spoke out in support of dismantling the Russian Federation"
+The Guardian: "Canada exempts Russian gas turbine from sanctions amid
+Europe energy crisis.. Ottawa defies Ukraine’s objections to return of
+equipment for Nord Stream 1 pipeline, saying it needs to support
+Europe’s access to ‘reliable and affordable energy'"
 
 ---
 
-"@DanielLDavis1
+I bet Labour would have liked to run against Johnson with popularity
+being low and all, but now a fresh new leader can complicate their
+oppo strategy.
 
-The US gives Ukraine sophisticated HIMARs rocket launchers that hurt
-Russia. Moscow responds by getting 100s of sophisticated attack drones
-from Iran that will likely hurt Ukraine. Neither is a 'game changer'
-for either side"
+---
 
-[[-]](https://twitter.com/DanielLDavis1/status/1546885454997471235)
+WION: "Rishi Sunak emerges on top in first round of Conservative Party vote"
+
+---
+
+Al Jazeera: "EU says Russian rail transport to Kaliningrad not banned"
 
 ---
 
