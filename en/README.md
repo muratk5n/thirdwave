@@ -86,8 +86,8 @@ Is that significant? Only 20% of overall energy consumption is
 electicity, which means 2% of overall energy production is wind and
 solar.
 
-CNN: "Wind and solar generated a record 10% of the world's power in
-2021, report shows"
+CNN: "Wind and solar generated a record 10% of the world's
+[electricity] power in 2021, report shows"
 
 ---
 
