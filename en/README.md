@@ -2,9 +2,6 @@
 
 ---
 
-
----
-
 H2 Fuel News: "EU prepares green hydrogen import deal with Namibia"
 
 ---
@@ -90,21 +87,6 @@ solar.
 
 CNN: "Wind and solar generated a record 10% of the world's power in
 2021, report shows"
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 
