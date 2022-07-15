@@ -27,8 +27,6 @@ Name: Close, dtype: float64
 
 ### World Oil Production
 
-<a name="worldoil"></a>
-
 Million barrels a day
 
 ```python
