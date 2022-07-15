@@ -12,8 +12,8 @@ production agreement"
 ---
 
 H2 Central: "Electrolyser capital costs have fallen from more than
-$3,700 per kW in 2020 to about $2,700 per kW today and will drop to
-below $200 per kW by 2050 under the agency’s most optimistic
+$3,700 per kW in 2020 to about 2,700 dollar per kW today and will drop
+to below 200 dollar per kW by 2050 under the agency’s most optimistic
 scenario. Under its most pessimistic scenario, capital costs will
 decline to about $800 per kW, national science agency CSIRO said in
 its annual GenCost report.
