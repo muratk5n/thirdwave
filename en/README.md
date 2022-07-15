@@ -2,154 +2,174 @@
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">NOTICE: On Tuesday, July 19, Chairman <a href="https://twitter.com/Sen_JoeManchin?ref_src=twsrc%5Etfw">@Sen_JoeManchin</a> and <a href="https://twitter.com/EnergyDems?ref_src=twsrc%5Etfw">@EnergyDems</a> will convene to examine federal regulatory authorities governing the development of interstate hydrogen pipelines, storage, import and export facilities.<br><br>For more information: <a href="https://t.co/mq82qoT3hI">https://t.co/mq82qoT3hI</a> <a href="https://t.co/UBeHioKNqp">pic.twitter.com/UBeHioKNqp</a></p>&mdash; SenateEnergyDems (@EnergyDems) <a href="https://twitter.com/EnergyDems/status/1547258476308697088?ref_src=twsrc%5Etfw">July 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"@PlugPowerInc
-
-Plug is proud to be selected by @IrvingOil, a 100-year-old
-international energy company, to provide a.. PEM electrolyzer to its
-Saint John refinery, which currently produces about 7% of all hydrogen
-in Canada"
-
-[[-]](https://bit.ly/3c17m4V)
+H2 Fuel News: "EU prepares green hydrogen import deal with Namibia"
 
 ---
 
-Metal hydrides are very promising tech for storage, see Australian
-company Lavo.
-
-H2 View: "A Norwegian school is planned to become home to what is said
-to be the world’s largest metal hydride-based hydrogen storage
-facility. Hybrid Energy revealed on Tuesday (July 12), that its
-daughter company Hystorsys had won a contract to install the hydrogen
-storage at the Vestiden Junior Highschool in Kongsberg, Norway.
-
-Hystorsys, a spin off from the Norwegian Institute for Energy
-Technology (IFE), plans to install its storage solution at the school
-to store excess energy produced by solar panels during the summer as
-hydrogen, ready for winter consumption..
-
-Hybrid Energy says its storage solution has the ability to store 1kg
-of hydrogen in a 17-litre metal hydride unit at 30 bar, by comparison
-to more traditional storage units offering 1kg in 42-litre units at
-350 bar"
+H2 Fuel News: "bp and thyssenkrupp sign green hydrogen powered steel
+production agreement"
 
 ---
 
-H2 View: "500MW green hydrogen plant plans for Port of Amsterdam unveiled"
+H2 Central: "Electrolyser capital costs have fallen from more than
+$3,700 per kW in 2020 to about $2,700 per kW today and will drop to
+below $200 per kW by 2050 under the agency’s most optimistic
+scenario. Under its most pessimistic scenario, capital costs will
+decline to about $800 per kW, national science agency CSIRO said in
+its annual GenCost report.
+
+The main driver of falling electrolyser costs will be scale as the
+size of systems grows from an average of 10 MW today to 100 MW modular
+units in the coming years, CSIRO said.
+
+CSIRO, said: 'Applying typical engineering cost scaling factors this
+movement to full scale accounts for around an 80% reduction in
+costs'. Electrolyser deployment is being supported by a substantial
+number of hydrogen supply and end- use trials globally and in
+Australia.'"
 
 ---
 
-Express: "A Japanese energy company is set to sign a £26million deal
-to develop green hydrogen projects in Wales"
+H2 Central: "Hycc Launches 500-Megawatt Hydrogen Project in The Port
+of Amsterdam"
 
 ---
 
-H2 Fuel News: "Airbus turns its focus toward a green hydrogen hub
-strategy.. As the global clean energy supply chain continues to build,
-the aerospace corporation intends to lead"
+This is a fine output capacity.
+
+"@XCHGroup
+
+China Huadian Corporation released its first alkaline electrolyzer
+with a capacity of 1,200Nm3/h"
 
 ---
 
-H2 View: "Hydrogen fuel cells could get a lot cheaper with newly
-developed iron catalyst.. New research shows that the low-cost
-material could provide a viable platinum alternative"
+\#H2 \#Engines \#Cummins
+
+https://twitter.com/Cummins/status/1547265670953504769
 
 ---
 
-"@RHAMembers
-
-Green hydrogen refuelling firm Element 2 recruits ExxonMobil veteran Nick Shelley"
-
----
-
-"@VolvoGroup
-
-@VolvoTrucks showcases a new zero-emissions truck powered by hydrogen!"
-
-[[-]](http://ow.ly/4IT950JBr1U)
+"EU grants for clean hydrogen | Shell, RWE and Air Liquide among
+winners from €1.8bn handout"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The <a href="https://twitter.com/hashtag/UK?src=hash&amp;ref_src=twsrc%5Etfw">#UK</a> getting ready for a <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> future this week:<br>In an effort to prepare for hydrogen integration, UK-based <a href="https://twitter.com/OxfordFlow?ref_src=twsrc%5Etfw">@OxfordFlow</a> has today (July 4) unveiled its hydrogen-ready, gas pressure regulator, the IM-S valve. <a href="https://twitter.com/hashtag/H2View?src=hash&amp;ref_src=twsrc%5Etfw">#H2View</a> <a href="https://twitter.com/hashtag/repost?src=hash&amp;ref_src=twsrc%5Etfw">#repost</a><a href="https://t.co/o1MAmxRhr8">https://t.co/o1MAmxRhr8</a></p>&mdash; H2 View (@h2_view) <a href="https://twitter.com/h2_view/status/1545860426155655169?ref_src=twsrc%5Etfw">July 9, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+World Oil Production
+
+[[-]](2019/05/energstats.html#wordoil)
 
 ---
 
-Bloomberg: "Oil’s Spectacular Covid Crash Set the World Up for $100
-Crude.. The energy industry cut back during the pandemic, paving the
-way for a runaway rally that has huge implications for the global
-economy"
+What is CCUS?
+
+[[-]](https://youtu.be/HSvWrjviqZM?t=73)
 
 ---
 
-OPEC oil production below. The supply just isn't there.. No wonder
-prices are high. At peak production was around 32 million barrels per
-day, now it's at 29 mil.
+Update on world energy production in TWh by source, new data comes
+from BP. Renewables don't look good. The 2% guesstimate below checks
+out in the data (1.9% to be exact -see the pie chart-).
 
-[[-]](2019/05/energstats.html#opec)
-
----
-
-Updated Taylor Rule calculation says a high fedfunds ie ripping off
-the band aid - Volcker style. But the FED is on a rate hike path
-already..
-
-[[-]](2019/05/stats.html#taylor)
+[[-]](2019/05/energstats.html#sources)
 
 ---
 
-Inflation is way up
-
-`2022-06-01  9.059758`
-
-[[-]](2019/05/stats.html#cycle)
+I am all for pure green power generation, but until we get there clean
+fuel generation from any source coupled with massive CCUS capability
+should be fine too. This is a perfectly reachable goal, and clean.
 
 ---
 
-Rajapaksas were everywhere \#SriLanka... should've guessed some were
-obviously connected to the last major success in that nation, beating
-the Tamil Tigers.. Gotabaya was apparently SecDef when that happened,
-brother was President. That kind of success buys you a lot of
-political capital (now all lost).
+Is that significant? Only 20% of overall energy consumption is
+electicity, which means 2% of overall energy production is wind and
+solar.
+
+CNN: "Wind and solar generated a record 10% of the world's power in
+2021, report shows"
 
 ---
 
-I bet Labour would have liked to run against Johnson in the next
-election with popularity being low and all, but now a fresh new leader
-can complicate their oppo strategy.
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
-WION: "Rishi Sunak emerges on top in first round of Conservative Party vote"
+Alan Hawkshaw - Hawkind And Fire \#music
+
+[[-]](https://youtu.be/82BRAlgbq7c)
 
 ---
 
-"@DRoverala
+They jumped from one dubious concept to another... What's next? The
+Big-Bang Theory? Time travel? Multiverses?
 
-The USA Special Operations forces are involved in a low-profile proxy
-war program - 127e program - on a far greater scale than previously
-known, not just in multiple countries in #Africa, as previously
-reported, but also in the MiddleEast & AsiaPacific"
-
-[[-]](https://mobile.twitter.com/DRovera/status/1543478335551971329)
-
----
-
-Arab News: "US destroyer sails near disputed South China Sea islands,
-Beijing says it ‘drove’ ship away"
+Voit: "Each summer for nearly a quarter-century there has been a big
+yearly conference bringing together the string theory community..
+Taking a look at the program, one thing that stands out is that the
+string theory community has almost completely stopped doing string
+theory...but.. the string theory community has found to replace string
+theory: black holes"
 
 ---
 
-The Guardian: "Canada exempts Russian gas turbine from sanctions amid
-Europe energy crisis.. Ottawa defies Ukraine’s objections to return of
-equipment for Nord Stream 1 pipeline, saying it needs to support
-Europe’s access to ‘reliable and affordable energy'"
+That's some mad skillz right there
+
+"@gunsnrosesgirl3
+
+Interacting votices"
+
+[[-]](https://twitter.com/gunsnrosesgirl3/status/1547304871753400321)
 
 ---
 
-Al Jazeera: "EU says Russian rail transport to Kaliningrad not banned"
+CNBC: "Dow futures fall more than 400 points as traders weigh potential for
+big rate hikes"
+
+---
+
+"@JoannaStern
+
+Bought new house. House has smart sprinkler system. Previous owners
+turned off WiFi. Grass died because… no WiFi. House now has
+WiFi. Grass is slowly coming back to life"
+
+---
+
+Steppenwolf - The Ostrich \#music
+
+[[-]](https://youtu.be/XNO37aFAfkg)
+
+---
+
+Cargo delivery system shows, live, the number of stops left until the
+delivery person reaches the door. It's pretty cool.
+
+---
+
+Jane's Defense: "Boeing has concluded a demonstration of the F/A-18
+Super Hornet's ability to launch from Indian aircraft carriers with
+two Boeing AGM-84 Harpoon missiles"
+
+---
+
+"@tparsi
+
+Biden's Iran policy is endorsed by Mark Dubowitz, who led the charge
+to kill the JCPOA"
 
 ---
 
