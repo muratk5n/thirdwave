@@ -35,6 +35,9 @@ of Amsterdam"
 
 ---
 
+H2 under ambient conditions 11.9 m3 / kg, `1200 / 11.9 * 24` gives
+2420 kg per day. Good
+
 "@XCHGroup
 
 China Huadian Corporation released its first alkaline electrolyzer
