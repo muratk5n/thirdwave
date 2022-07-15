@@ -73,9 +73,9 @@ exact -see the pie chart-).
 
 ---
 
-I am all for pure green power generation, but until we get there clean
-fuel generation from any source coupled with massive CCUS capability
-should be fine too. This is a perfectly reachable goal, and clean.
+Am all for green power gen. Until we get there, clean (blue) fuel
+generation from fossil with CCUS should be fine. A perfectly reachable
+goal.
 
 ---
 
