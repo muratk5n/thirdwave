@@ -99,7 +99,7 @@ Name: Close, dtype: float64
 
 [Data](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy/downloads.html)
 
-For all global production, units are terrawatt hours
+Global production, units terrawatt hours
 
 kbd Thousand of Barrels Per Day
 
