@@ -70,7 +70,7 @@ Name: 1, dtype: float64
 
 <a name="natgas"></a>
 
-### World Natural Gas Price
+### Natural Gas Price
 
 ```python
 import util; df = util.get_yahoofin(2010,"NG=F")
@@ -93,13 +93,13 @@ Name: Close, dtype: float64
 
 ![](natgas.png)
 
-### World Energy Production by Source
+### Energy Production by Source
 
 <a name='sources'/>
 
 [Data](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy/downloads.html)
 
-Units are terrawatt hours
+For all global production, units are terrawatt hours
 
 kbd Thousand of Barrels Per Day
 
