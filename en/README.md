@@ -35,8 +35,6 @@ of Amsterdam"
 
 ---
 
-This is a fine output capacity.
-
 "@XCHGroup
 
 China Huadian Corporation released its first alkaline electrolyzer
@@ -46,7 +44,7 @@ with a capacity of 1,200Nm3/h"
 
 \#H2 \#Engines \#Cummins
 
-https://twitter.com/Cummins/status/1547265670953504769
+[[-]](https://twitter.com/Cummins/status/1547265670953504769)
 
 ---
 
