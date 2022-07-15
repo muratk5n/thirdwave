@@ -65,9 +65,9 @@ What is CCUS?
 
 ---
 
-Update on world energy production in TWh by source, new data comes
-from BP. Renewables don't look good. The 2% guesstimate below checks
-out in the data (1.9% to be exact -see the pie chart-).
+Update on energy production by source, new data from BP. Renewables
+don't look good. The 2% guesstimate checks out in the data (1.9% to be
+exact -see the pie chart-).
 
 [[-]](2019/05/energstats.html#sources)
 
