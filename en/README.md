@@ -2,157 +2,166 @@
 
 ---
 
-H2 Fuel News: "EU prepares green hydrogen import deal with Namibia"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">EU launches 5.4-billion-euro hydrogen project with Alstom, Daimler, others <a href="https://t.co/X0j7xLCuJr">https://t.co/X0j7xLCuJr</a> <a href="https://t.co/IEOy9wYMPz">pic.twitter.com/IEOy9wYMPz</a></p>&mdash; Reuters (@Reuters) <a href="https://twitter.com/Reuters/status/1547931774629470208?ref_src=twsrc%5Etfw">July 15, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-H2 Fuel News: "bp and thyssenkrupp sign green hydrogen powered steel
-production agreement"
+H2 Fuel News: "Houston, Texas-based Utility Global claims to have
+invented the industry’s first non-electric electrolysis technology
+platform for the ability to produce Net Zero hydrogen
+conversion... The process is achieved by removing the external
+electrical circuit from an electrolyser and instead driving the
+electrolysis reaction with the over-potential (voltage) that exists
+between different gas compositions"
 
 ---
 
-H2 Central: "Electrolyser capital costs have fallen from more than
-$3,700 per kW in 2020 to about 2,700 dollar per kW today and will drop
-to below 200 dollar per kW by 2050 under the agency’s most optimistic
-scenario. Under its most pessimistic scenario, capital costs will
-decline to about 800 dol per kW, national science agency CSIRO said in
-its annual GenCost report.
-
-The main driver of falling electrolyser costs will be scale as the
-size of systems grows from an average of 10 MW today to 100 MW modular
-units in the coming years, CSIRO said.
-
-CSIRO, said: 'Applying typical engineering cost scaling factors this
-movement to full scale accounts for around an 80% reduction in
-costs'. Electrolyser deployment is being supported by a substantial
-number of hydrogen supply and end- use trials globally and in
-Australia.'"
+H2 View: "Leading gas and engineering company BOC, a Linde company,
+and bp Australia have announced a new agreement to build a hydrogen
+refuelling station at the bp Truckstop in Lytton, Queensland"
 
 ---
 
-H2 Central: "Hycc Launches 500-Megawatt Hydrogen Project in The Port
-of Amsterdam"
+FT: "Alicia Eastman: Green hydrogen will be price-competitive by
+2030..  Coastal sites are key to creating green energy that can be
+exported around the world, says InterContinental Energy president"
 
 ---
 
-H2 under ambient conditions 11.9 m3 / kg, `1200 / 11.9 * 24` gives
-2420 kg per day. Good
-
-"@XCHGroup
-
-China Huadian Corporation released its first alkaline electrolyzer
-with a capacity of 1,200Nm3/h"
+H2 View: "Amazon backs German electrolyser manufacturer’s scale-up
+plans.. German electrolyser developer and manufacturer, Sunfire
+announced on Wednesday it had become the first green hydrogen company
+based in the European Union to receive an investment from Amazon’s
+$2bn Climate Pledge Fund"
 
 ---
 
-\#H2 \#Engines \#Cummins
-
-[[-]](https://twitter.com/Cummins/status/1547265670953504769)
-
----
-
-"EU grants for clean hydrogen | Shell, RWE and Air Liquide among
-winners from €1.8bn handout"
+H2 View: "DNV, PIL to collaborate on hydrogen blending in India.. A
+newly revealed collaboration has set out to integrate hydrogen into
+gas network assets in India to support the country in its efforts
+towards decarbonising its economy"
 
 ---
 
-World Oil Production
-
-[[-]](2019/05/energstats.html#worldoil)
-
----
-
-What is CCUS?
-
-[[-]](https://youtu.be/HSvWrjviqZM?t=73)
+If renewable energy gen increased 10-fold, that would reach a
+respectable 20% of overall generation. But even then 20% ain't 100%,
+so need to convert polluting fossil into non-poluting fuels in either
+case.
 
 ---
 
-Update on energy production by source, new data from BP. Renewables
-don't look good. The 2% guesstimate checks out in the data (1.9% to be
-exact -see the pie chart-).
-
-[[-]](2019/05/energstats.html#sources)
+Al Jazeera: "UK declares national emergency over ‘exceptional’ temperatures"
 
 ---
 
-Am all for green power gen. Until we get there, clean (blue) fuel
-generation from fossil with CCUS should be fine. A perfectly reachable
-goal.
+Jens Buchert - Dominion \#music
+
+[[-]](https://youtu.be/fWzCp_cecXg)
 
 ---
 
-Is that significant? Only 20% of overall energy consumption is
-electricity, which means 2% of overall energy production is wind and
-solar.
+The display is approx the size of a small smartphone. Extremely compact.
+The green piece is the RPi.
 
-CNN: "Wind and solar generated a record 10% of the world's
-[electricity] power in 2021, report shows"
+[[-]](https://pbs.twimg.com/media/FXt5w2WVQAE80gK?format=jpg&name=small)
 
 ---
 
-Alan Hawkshaw - Hawkind And Fire \#music
+$130 Raspberry Pi 3
 
-[[-]](https://youtu.be/82BRAlgbq7c)
+$35 4.3 inch Capacitive Touch Display 800×480 
 
----
+$28 Keyboard 
 
-They jumped from one dubious concept to another... What's next? The
-Big-Bang Theory? Time travel? Multiverses?
-
-Voit: "Each summer for nearly a quarter-century there has been a big
-yearly conference bringing together the string theory community..
-Taking a look at the program, one thing that stands out is that the
-string theory community has almost completely stopped doing string
-theory...but.. the string theory community has found to replace string
-theory: black holes"
+Total roughly $200
 
 ---
 
-That's some mad skillz right there
-
-"@gunsnrosesgirl3
-
-Interacting votices"
-
-[[-]](https://twitter.com/gunsnrosesgirl3/status/1547304871753400321)
+One major adv here is RPi has full-blown Linux OS (not hidden behind
+layers of crud like on Android), coding on it natively is possible,
+without going through bizarre auxilary programs.
 
 ---
 
-CNBC: "Dow futures fall more than 400 points as traders weigh potential for
-big rate hikes"
+Bought a small touch display for Raspberry Pi computing board, hooked
+up a wireless keyboard, now have a mobile computing platform. Bolt RPI
+to the display, now the thing looks like a smartphone. Acts like it
+too, with touch display!
 
 ---
 
-"@JoannaStern
+I see.. doesn't sound good
 
-Bought new house. House has smart sprinkler system. Previous owners
-turned off WiFi. Grass died because… no WiFi. House now has
-WiFi. Grass is slowly coming back to life"
+"@CheddarFlow
 
----
-
-Steppenwolf - The Ostrich \#music
-
-[[-]](https://youtu.be/XNO37aFAfkg)
+$JPM to Temporarily Suspend Share Buybacks, as shared in their ER this Morning"
 
 ---
 
-Cargo delivery system shows, live, the number of stops left until the
-delivery person reaches the door. I dig it.
+Paying back loans, investments underperforming?
+
+"@rcwhalen
+
+Notice that the $JPM balance sheet is shrinking pretty fast...."
 
 ---
 
-Jane's Defense: "Boeing has concluded a demonstration of the F/A-18
-Super Hornet's ability to launch from Indian aircraft carriers with
-two Boeing AGM-84 Harpoon missiles"
+Davis: "Supporting Ukraine For ‘As Long As It Takes’ Is Not A Strategy..
+
+Russia was presumed to require an operational pause after taking
+Severodonetsk and Lysychansk in late June, but current evidence
+suggests that, to the contrary, Moscow has kept the pressure on the
+Ukrainian defenders. When the Ukrainian troops withdrew from
+Lysychansk, they repositioned along a new line of defense,
+north-to-south from Seversk, to Soledar, to Bahkmut.
+
+As of Thursday, Russian and Western media were reporting that Russian
+troops were already in the outskirts of Seversk, and within a few
+miles of both Soledar and Bahkmut – and all three are receiving
+withering artillery and rocket fire, along with air strikes. Once
+Russian forces break through this new line of defense, the twin-cities
+of Slavyansk and Kramatorsk lie barely 25 miles to the west. The
+Ukrainian troops would be hard-pressed to put up a successful defense
+of either, as Russia could drive the attack with its forces from three
+sides"
+
+[[-]](https://www.19fortyfive.com/2022/07/supporting-ukraine-for-as-long-as-it-takes-is-not-a-strategy/)
 
 ---
 
-"@tparsi
+He is basically saying 'cut your losses'. Bolso was an army captain
+right? Well there you go
 
-Biden's Iran policy is endorsed by Mark Dubowitz, who led the charge
-to kill the JCPOA"
+WION: "Brazil's Jair Bolsonaro says he knows how the Russia-Ukraine
+war could be resolved.. 'The solution to this case would be like how
+Argentina's war with the UK ended in 1982'. Bolsonaro didn't provide
+any other details.
+
+The war began in April 1982 when Argentine troops landed on the
+British-controlled islands. The naval task force was sent by Britain
+to retake them. Argentina surrendered two months later"
+
+---
+
+Wooing India 
+
+WION: "US House passes amendment to exempt India under CAATSA over
+Russian S-400 missile deal"
+
+---
+
+One theory is UAE, SA ave no more capacity. It is more likely they have
+capacity but are not utilizing it.
+
+---
+
+Interesting.. We'll see soon enough if the claim pans out
+
+Newsweek: "Joe Biden's Oil Gamble Set to Backfire as Saudi Arabia
+Sticks With Russia.. convincing Saudi Arabia to increase production
+looks set to fail as Saudi officials have indicated the country is not
+willing to abandon its oil production alliance with Russia, which
+Washington has claimed is part of the reason for sky-high fuel costs"
 
 ---
 
