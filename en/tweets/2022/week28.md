@@ -56,7 +56,7 @@ winners from €1.8bn handout"
 
 World Oil Production
 
-[[-]](2019/05/energstats.html#worldoil)
+[[-]](../../2019/05/energstats.html#worldoil)
 
 ---
 
@@ -70,7 +70,7 @@ Update on energy production by source, new data from BP. Renewables
 don't look good. The 2% guesstimate checks out in the data (1.9% to be
 exact -see the pie chart-).
 
-[[-]](2019/05/energstats.html#sources)
+[[-]](../../2019/05/energstats.html#sources)
 
 ---
 
@@ -240,7 +240,7 @@ OPEC oil production below. The supply just isn't there.. No wonder
 prices are high. At peak production was around 32 million barrels per
 day, now it's at 29 mil.
 
-[[-]](2019/05/energstats.html#opec)
+[[-]](../../2019/05/energstats.html#opec)
 
 ---
 
@@ -248,7 +248,7 @@ Updated Taylor Rule calculation says a high fedfunds ie ripping off
 the band aid - Volcker style. But the FED is on a rate hike path
 already..
 
-[[-]](2019/05/stats.html#taylor)
+[[-]](../../2019/05/stats.html#taylor)
 
 ---
 
@@ -256,7 +256,7 @@ Inflation is way up
 
 `2022-06-01  9.059758`
 
-[[-]](2019/05/stats.html#cycle)
+[[-]](../../2019/05/stats.html#cycle)
 
 ---
 
@@ -422,7 +422,7 @@ Alternative ed is not being discussed, so within the confines of
 current system teacher quality would be the focus - that is the only
 parameter that can be tuned.
 
-On that, [some countries](2021/03/unrivaled-beckley.html#ed) do well,
+On that, [some countries](../../2021/03/unrivaled-beckley.html#ed) do well,
 but most others dont.. I don't think you can do Finland style ed
 without being Finland. We need a scalable new approach.
 
