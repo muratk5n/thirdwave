@@ -143,7 +143,7 @@ to retake them. Argentina surrendered two months later"
 
 ---
 
-Wooing India 
+First US slapped CAATSA on them now they backtracked. Wooing India.
 
 WION: "US House passes amendment to exempt India under CAATSA over
 Russian S-400 missile deal"
