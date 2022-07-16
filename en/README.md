@@ -153,7 +153,7 @@ have the capacity, but are not utilizing it.
 
 ---
 
-Interesting.. We'll see soon enough if the claim pans out
+We'll see soon enough if the claim pans out
 
 Newsweek: "Joe Biden's Oil Gamble Set to Backfire as Saudi Arabia
 Sticks With Russia.. convincing Saudi Arabia to increase production
