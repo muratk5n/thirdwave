@@ -195,19 +195,37 @@ Name: primary_twh, dtype: float64
 ![](world-energy-combined.png)
 
 
+```python
+import util, pandas as pd
+df = util.get_eia("PET.EMM_EPM0_PTE_NUS_DPG.M")
+print (df.tail(4))
+```
+
+<a name='usgasoline'/>
+
+### US Retail Gasoline Prices
+
+```text
+Date
+2022-03-01    4.322
+2022-04-01    4.213
+2022-05-01    4.545
+2022-06-01    5.032
+Name: 1, dtype: float64
+```
+
 <a name='gasolineState'/>
 
 ### US Retail Gasoline Prices per State
 
 ```python
-import util
+import util, pandas as pd
 
 states = \
 [("PET.EMM_EPM0_PTE_SCA_DPG.M","CA"),
  ("PET.EMM_EPM0_PTE_STX_DPG.M","TX"),
  ("PET.EMM_EPM0_PTE_SFL_DPG.M","FL"),
- ("PET.EMM_EPM0_PTE_SNY_DPG.M","NY"),
- ("PET.EMM_EPM0_PTE_NUS_DPG.M","USA")]
+ ("PET.EMM_EPM0_PTE_SNY_DPG.M","NY")]
 retail = [ (s[1],float(util.get_eia(s[0]).tail(1))) for s in states]
 dfs = pd.DataFrame(retail); dfs.columns = ['state','price']
 print (dfs)
@@ -219,7 +237,6 @@ print (dfs)
 1    TX  4.670
 2    FL  4.809
 3    NY  4.954
-4   USA  5.032
 ```
 
 <a name='lng'/>
