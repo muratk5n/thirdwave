@@ -108,7 +108,8 @@ Ej = Exajoules = 277.778 TWh
 ```python
 import pandas as pd
 pd.set_option('display.max_columns', None)
-df = pd.read_csv('bp-stats-review-2022-consolidated-dataset-panel-format.csv')
+fbp = 'bp-stats-review-2022-consolidated-dataset-panel-format.csv'
+df = pd.read_csv(fbp)
 df = df[df.Country == 'Total World']
 df = df.set_index('Year')
 df = df[df.index > 1980]
@@ -160,6 +161,39 @@ dtype: float64
 ```
 
 ![](source-pie.png)
+
+<a name='primary'/>
+
+### Primary Energy Consumption
+
+In terrawatt hours. Primary energy comprises commercially-traded
+fuels, including modern renewables. Energy from all sources of
+non-fossil power generation is accounted for on an input-equivalent
+basis.
+
+```python
+import pandas as pd
+df = pd.read_csv(fbp)
+df = df[df.Country == 'Total World']
+df = df.set_index('Year')
+df = df[['primary_ej']]
+df['primary_twh'] = df.primary_ej * 277.778
+print (df.primary_twh.tail(4))
+df.primary_twh.plot()
+plt.savefig('world-energy-combined.png')
+```
+
+```text
+Year
+2018    161772.761640
+2019    163174.086345
+2020    156670.066530
+2021    165319.812784
+Name: primary_twh, dtype: float64
+```
+
+![](world-energy-combined.png)
+
 
 <a name='gasolineState'/>
 
