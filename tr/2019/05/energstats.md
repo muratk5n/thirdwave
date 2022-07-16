@@ -35,9 +35,12 @@ Year
 2021          0.0   573.235049    524.657636  
 ```
 
-
-
 ![](energy-sources.png)
+
+
+Çeşitlere göre önceki senenin enerji verileri. `_cons` değişkenleri
+sadece tüketimi gösterir, o birimler ülkede üretilmemekte,`gas_prod`,
+`oil_prod` sıfır seviyesinde.
 
 ```python
 df2 = df[cols].tail(1).unstack()
