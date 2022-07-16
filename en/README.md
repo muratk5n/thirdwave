@@ -134,11 +134,10 @@ right? There you go
 WION: "Brazil's Jair Bolsonaro says he knows how the Russia-Ukraine
 war could be resolved.. 'The solution to this case would be like how
 Argentina's war with the UK ended in 1982'. Bolsonaro didn't provide
-any other details.
-
-The war began in April 1982 when Argentine troops landed on the
-British-controlled islands. The naval task force was sent by Britain
-to retake them. Argentina surrendered two months later"
+any other details. [Falklands] war began in April 1982 when Argentine
+troops landed on the British-controlled islands. The naval task force
+was sent by Britain to retake them. Argentina surrendered two months
+later"
 
 ---
 
