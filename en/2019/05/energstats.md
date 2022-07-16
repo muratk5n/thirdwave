@@ -194,25 +194,26 @@ Name: primary_twh, dtype: float64
 
 ![](world-energy-combined.png)
 
-
-```python
-import util, pandas as pd
-df = util.get_eia("PET.EMM_EPM0_PTE_NUS_DPG.M")
-print (df.tail(4))
-```
-
 <a name='usgasoline'/>
 
 ### US Retail Gasoline Prices
 
-```text
-Date
-2022-03-01    4.322
-2022-04-01    4.213
-2022-05-01    4.545
-2022-06-01    5.032
-Name: 1, dtype: float64
+```python
+import util, pandas as pd
+    
+df = util.get_eia_week("PET.EMM_EPM0_PTE_NUS_DPG.W")
+print (df.tail(4))
 ```
+
+```text
+            Value
+Date             
+2022-06-20  5.066
+2022-06-27  4.979
+2022-07-04  4.879
+2022-07-11  4.754
+```
+
 
 <a name='gasolineState'/>
 
