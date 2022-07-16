@@ -1,9 +1,10 @@
-# Enerji Istatistikleri
+# Enerji İstatistikleri
 
 ```python
 import pandas as pd
 pd.set_option('display.max_columns', None)
-df = pd.read_csv('../../../en/2019/05/bp-stats-review-2022-consolidated-dataset-panel-format.csv')
+fin = '../../../en/2019/05/bp-stats-review-2022-consolidated-dataset-panel-format.csv'
+df = pd.read_csv(fin)
 df = df[df.Country == 'Turkey']
 df = df.set_index('Year')
 df = df[df.index > 1980]
@@ -54,4 +55,6 @@ dtype: float64
 ```
 
 ![](source-pie.png)
+
+
 
