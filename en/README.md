@@ -44,9 +44,8 @@ towards decarbonising its economy"
 ---
 
 If renewable energy gen increased 10-fold, that would reach a
-respectable 20% of overall generation. But even then 20% ain't 100%,
-so need to convert polluting fossil into non-poluting fuels in either
-case.
+respectable 20% of overall generation. But 20% ain't 100%, so need to
+convert polluting fossil into non-poluting fuels in either case.
 
 ---
 
@@ -130,7 +129,7 @@ sides"
 ---
 
 He is basically saying 'cut your losses'. Bolso was an army captain
-right? Well there you go
+right? There you go
 
 WION: "Brazil's Jair Bolsonaro says he knows how the Russia-Ukraine
 war could be resolved.. 'The solution to this case would be like how
