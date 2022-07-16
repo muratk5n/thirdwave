@@ -150,8 +150,8 @@ Russian S-400 missile deal"
 
 ---
 
-One theory is UAE, SA ave no more capacity. It is more likely they have
-capacity but are not utilizing it.
+One theory is UAE, SA have no more capacity. It is more likely they
+have the capacity, but are not utilizing it.
 
 ---
 
