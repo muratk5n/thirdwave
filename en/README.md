@@ -8,11 +8,6 @@ Pinned Tweet
 
 ---
 
-If coal gasification can generate natural gas feed into methane pyrolysis,
-generate clean gas.
-
----
-
 H2 Central: "Monolith, a global leader in clean hydrogen, carbon black
 and ammonia, announced its latest investment round of more than $300
 million..
