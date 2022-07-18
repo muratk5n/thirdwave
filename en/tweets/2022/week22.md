@@ -504,7 +504,7 @@ any big news anymore on oil finds. The next Ghawar eludes all.
 
 ```python
 import pandas as pd
-df = pd.read_csv('oil-proved-reserves.csv')
+df = pd.read_csv('../../2019/05/oil-proved-reserves.csv')
 df = df[df.Entity=='World'].set_index('Year')
 print ('%',np.round(df['Oil - Proved reserves'].pct_change().mean()*100.0,2))
 ```

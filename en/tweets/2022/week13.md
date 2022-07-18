@@ -207,30 +207,7 @@ so the numbers are always the current level for each date , currently it stands 
 The world consumes 35 gboe per year. If no new oil was found current
 reserves would last about 50 years.
 
-```python
-import pandas as pd
-df = pd.read_csv('oil-proved-reserves.csv')
-df = df[df.Entity=='World'].set_index('Year')
-df['Oil - Proved reserves'].plot()
-print (df['Oil - Proved reserves'].tail(4))
-```
-
-```text
-Year
-2017    1.728171e+12
-2018    1.736144e+12
-2019    1.734811e+12
-2020    1.732366e+12
-Name: Oil - Proved reserves, dtype: float64
-```
-
-[Graph](https://pbs.twimg.com/media/FPF4zH4X0AYbcDU?format=png&name=small)
-
----
-
-Nope, no such thing as "Turk". Just like there are no Italians, Irish,
-or "African-Americans" in US. People have bizarre ideas on culture,
-nationhood, and their interactions thereof..
+[[-]](../../2019/05/energstats.html#oilreserves)
 
 ---
 

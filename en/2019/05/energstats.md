@@ -68,6 +68,33 @@ Name: 1, dtype: float64
 
 ![](opec.png)
 
+<a name="oilreserves"></a>
+
+### World Oil Reserves
+
+Data from [Our World in Data](https://ourworldindata.org/grapher/oil-proved-reserves?country=~OWID_WRL).
+Estimated amount of oil underground that can be dug up and brought to the
+market.
+
+```python
+import pandas as pd
+df = pd.read_csv('oil-proved-reserves.csv')
+df = df[df.Entity=='World'].set_index('Year')
+df['Oil - Proved reserves'].plot()
+print (df['Oil - Proved reserves'].tail(4))
+```
+
+```text
+Year
+2017    1.728171e+12
+2018    1.736144e+12
+2019    1.734811e+12
+2020    1.732366e+12
+Name: Oil - Proved reserves, dtype: float64
+```
+
+![](oilreserves.png)
+
 <a name="natgas"></a>
 
 ### Natural Gas Price
@@ -252,4 +279,5 @@ df.plot(); plt.savefig('lng.png')
 ```
 
 ![](lng.png)
+
 
