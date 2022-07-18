@@ -128,8 +128,7 @@ US gas prices falling.. been falling since last month
 ---
 
 All energy consumption, 2021 number stands at a whopping 165,319
-Twh. World energy consumption *quadrupled* compared to consumption in
-60s.
+Twh. World energy consumption *quadrupled* compared to 60s.
 
 [[-]](2019/05/energstats.html#primary)
 
