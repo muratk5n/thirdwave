@@ -188,7 +188,7 @@ Hubble tension"
 
 ---
 
-Some countries get **better** then they deserve, that's when they do
+Some countries get **better** than they deserve, that's when they do
 well. Americans deserve Hoover, Harding, JFK, Buchanan; But also had
 FDR, Lincoln, Washington.
 
