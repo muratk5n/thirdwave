@@ -140,13 +140,6 @@ Twh. World energy consumption *quadrupled* compared to consumption in
 
 ---
 
-When it is all burning remember it was also the electrification
-imbeciles who brought you here - when there was chance for improvement
-early it was wasted, and they still linger on wasting time and
-resources. These people are cancer
-
----
-
 Carbon ppm increased as usual.. by 0.50%. There was an 'acceleration'
 too.. usually inc is around 0.25%. 
 
