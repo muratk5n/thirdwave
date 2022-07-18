@@ -217,8 +217,8 @@ GDP number for Q2 comes out.
 
 ---
 
-I bet Penny M is backed by BJ - word is he is pissed at Rishi because
-he betrayed him with the resignation. 
+I bet Penny M is backed by BJ - word is he is pissed at Rishi for his
+'betrayal', the resignation.
 
 NYT: "Rishi Sunak, the former chancellor of the Exchequer, is the
 current front-runner, but Penny Mordaunt, a junior trade minister, is
