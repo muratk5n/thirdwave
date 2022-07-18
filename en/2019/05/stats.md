@@ -1,5 +1,7 @@
 # Economy, Calculations, Data
 
+<a name='gdp'/>
+
 ## GDP
 
 GDP calc seen below is computed as annualized quarterly growth rate,
