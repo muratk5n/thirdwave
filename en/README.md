@@ -40,12 +40,6 @@ Ammonia from Oman"
 
 ---
 
-H2 Central: "Clean Hydrogen Company Monolith Raises More than $300
-Million In Latest Funding Round Led by Tpg Rise Climate,
-Decarbonization Partners"
-
----
-
 H2 View: "CMIC delivered its hydrogen compressor package to enter the booming
 hydrogen refuleing market... The two sets of hydrogen compressors
 organized to be packaged by GHT this time, using the American PDC
