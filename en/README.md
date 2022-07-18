@@ -135,8 +135,8 @@ Twh. World energy consumption *quadrupled* compared to consumption in
 
 ---
 
-Carbon ppm increased as usual.. by 0.50%. There was an 'acceleration'
-too.. usually inc is around 0.25%. 
+Carbon ppm YoY increased as usual.. by 0.50%. There was an
+'acceleration' too.. usually inc is around 0.25%.
 
 ```
 2022-05-01    0.443776
