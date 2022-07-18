@@ -60,9 +60,9 @@ H2, NH3 can do long-distance, short-distance. Can do massive storage,
 small storage, long-term storage, any kind of storage without much
 added bizarre tech.
 
-If we play this right motorheads even will have their beloved
+If we play this right motorheads will even have their beloved
 combustion engines with all the familiar dynamics attached to them.
-Heating, cooling will be solved, efficiently. 
+Heating, cooling will be solved, efficiently.
 
 ---
 
