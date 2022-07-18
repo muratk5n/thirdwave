@@ -187,7 +187,7 @@ FDR, Lincoln, Washington.
 
 Is US in recession? Econ defines it as two consecutive quarters of neg
 growth. Q1 quarterly growth rate annualized [was](2019/05/stats.html#gdp)
-already -1.57%. Guesstimate for this Q, from FRED (the
+already -1.57%. Guesstimate for last Q, from FRED (the
 so-called GDPNow number) is
 
 ```python
