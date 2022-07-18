@@ -140,10 +140,10 @@ Twh. World energy consumption *quadrupled* compared to consumption in
 
 ---
 
-When it is all burning remember it's the electrification imbeciles who
-brought you here - when there was chance for improvement early it was
-wasted, and they still linger on wasting time and resources. These
-people are cancer
+When it is all burning remember it was also the electrification
+imbeciles who brought you here - when there was chance for improvement
+early it was wasted, and they still linger on wasting time and
+resources. These people are cancer
 
 ---
 
