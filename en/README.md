@@ -2,6 +2,9 @@
 
 ---
 
+Pinned Tweet
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">EU launches 5.4-billion-euro hydrogen project with Alstom, Daimler, others <a href="https://t.co/X0j7xLCuJr">https://t.co/X0j7xLCuJr</a> <a href="https://t.co/IEOy9wYMPz">pic.twitter.com/IEOy9wYMPz</a></p>&mdash; Reuters (@Reuters) <a href="https://twitter.com/Reuters/status/1547931774629470208?ref_src=twsrc%5Etfw">July 15, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
