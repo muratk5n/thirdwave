@@ -71,9 +71,9 @@ stupid experiment, right?
 
 ---
 
-Article prefaced comment with 'still' assuming both previous projects
-listed were not related to oil and gas? The clean ammonia project was
-blue ammonia, meaning it was generated from natgas + CCUS.
+Article prefaced that comment with 'still' assuming both previous
+projects listed were not related to oil and gas? The clean ammonia
+project was blue ammonia, meaning it was generated from natgas + CCUS.
 
 Al Monitor: "[R]ecently, the Abu Dhabi National Oil Company sent the
 experimental energy form clean ammonia to Japan. In May, the Emirati
