@@ -201,8 +201,8 @@ DATE
 2022-04-01 -1.5245
 ```
 
-Then chances are high there will be a recession declaration when the
-GDP number for Q2 comes out.
+Then there might be a recession declaration when the GDP number for Q2
+comes out.
 
 ---
 
