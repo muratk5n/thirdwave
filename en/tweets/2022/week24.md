@@ -1117,42 +1117,6 @@ hotter-than-expected inflation report"
 
 ---
 
-Also now the war + sanctions..
-
-IMF: "Why inflation is high and whether it will persist is a topic of
-active debate..
-
-First, supply chain bottlenecks: The pandemic had two separate effects
-on global supply chains. In the early phase, lockdowns and mobility
-restrictions led to severe disruptions in various supply chains,
-causing short-term supply shortages... In the later stage of the
-pandemic, however, various supply chain bottlenecks have emerged as a
-result of strong overall demand from the economic recovery, the sharp
-increase in relative demand for durable goods..
-
-Second, a shift in demand toward goods and away from services: The
-pandemic brought about an initial significant shift in what consumers
-buy; spending on goods rose dramatically. Consequently, much of the
-rise in inflation in the near term reflected inflation in durable
-goods (including used cars), while service inflation increased only
-moderately...
-
-[Third] Households were running down the savings they had
-accumulated earlier in the pandemic (including from the stimulus and
-transfers), which led to a surge in aggregate demand and a
-stronger-than-expected economic recovery.
-
-Fourth, a shock to labor supply: Labor market disruptions from the
-pandemic continue even two years after it began. Labor supply
-participation remains below pre-pandemic levels in several
-countries. Among advanced economies, the impact has been relatively
-larger in the United States, where participation is about 1.5 percent
-lower than before the pandemic (about 4 million fewer workers)"
-
-[[-]](https://www.imf.org/en/Publications/fandd/issues/2022/03/Future-of-inflation-partI-Agarwal-kimball)
-
----
-
 Janes Defense: "The Japan Ground Self-Defense Force (JGSDF) will
 establish three new electronic warfare (EW) units as well as expand
 two existing EW units in 2022"
