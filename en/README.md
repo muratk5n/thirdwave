@@ -151,11 +151,6 @@ like to do, and it is sounds exactly like *Secret Wars*
 
 ---
 
-Short of "cooking oil", sunflower, olive bcz of the war in Ukraine?
-Use animal fat
-
----
-
 Ghee is expensive compared to regular oils, butter; must be the extra
 processing.
 
