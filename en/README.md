@@ -194,7 +194,9 @@ My favorite Sopranos character? It was Furio.
 ---
 
 US relationship with its 'ethnicities' is just bizarre. Most of the
-time assumed ethnic/cultural connection does not exist.
+time ppl are delusional about their assumed ethnic/cultural
+connection. It's as bad as Asia Minor "Turks" a buffonish made-up
+identity
 
 ---
 
