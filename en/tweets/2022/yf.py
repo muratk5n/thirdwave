@@ -132,7 +132,10 @@ def get_stock_price(ticker):
     file = BytesIO(r)
     df = pd.read_csv(file,index_col='Date',parse_dates=True)
     return df[['Close']]
-    
+
+def get_eps(ticker):
+    pd.set_option('display.max_columns', None)
+    return get_earnings(ticker).head(4)[['startdatetime','epsestimate','epsactual']]
 
 if __name__ == "__main__": 
     

@@ -11,6 +11,8 @@ out fires below a certain brightness threshold. MODIS works through
 satellite images, it scans for certain brighness, color on all Earth
 images.
 
+[Archive files](https://firms.modaps.eosdis.nasa.gov/country/) for past fires.
+
 [Script](fires.py)
 
 [Output](fires-out.html)

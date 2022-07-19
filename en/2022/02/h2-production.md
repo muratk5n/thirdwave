@@ -12,3 +12,5 @@
 
 [Costs](costs-lcoe.html)
 
+[Safety](h2-safety.html)
+
