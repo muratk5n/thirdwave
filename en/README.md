@@ -103,10 +103,6 @@ methane pyrolysis to generate clean gas?
 
 ---
 
-[H2 Safety](2022/02/h2-safety.html)
-
----
-
 Vehicles of this type will shift to H2
 
 CNBC: "Ford Unleashes A 700-Horsepower V8 In The F-150 Raptor
