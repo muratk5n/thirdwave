@@ -14,6 +14,15 @@ import urllib.request as urllib2
 from io import BytesIO
 import pandas_ta as ta
 
+def plot_fred(year, series):
+    today = datetime.datetime.now()
+    start=datetime.datetime(year, 1, 1)
+    end=datetime.datetime(today.year, today.month, today.day)
+    df = data.DataReader(series, 'fred', start, end)
+    print (df.tail(3))
+    df.plot(); plt.savefig('out.png')
+    return df
+    
 def get_eia(series):
     api_key = open('.key/.eiakey').read()
     url = 'https://api.eia.gov/series/?api_key=%s&series_id=%s'

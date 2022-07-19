@@ -104,7 +104,7 @@ H2 generation from coal with CCS of course.
 
 ---
 
-Vehicles of this type will shift to H2
+Vehicles of this type will shift to H2 quicker
 
 CNBC: "Ford Unleashes A 700-Horsepower V8 In The F-150 Raptor
 R... Ford revealed the pickup truck as the most powerful Raptor ever

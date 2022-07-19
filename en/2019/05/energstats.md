@@ -47,6 +47,7 @@ Name: 1, dtype: float64
 
 ![](worldoil.png)
 
+
 ### Opec Oil Production
 
 Million barrels a day
@@ -74,23 +75,26 @@ Name: 1, dtype: float64
 
 Data from [Our World in Data](https://ourworldindata.org/grapher/oil-proved-reserves?country=~OWID_WRL).
 Estimated amount of oil underground that can be dug up and brought to the
-market.
+market. Units are billion barrels. 
 
 ```python
 import pandas as pd
-df = pd.read_csv('oil-proved-reserves.csv')
-df = df[df.Entity=='World'].set_index('Year')
-df['Oil - Proved reserves'].plot()
-print (df['Oil - Proved reserves'].tail(4))
+fbp = 'bp-stats-review-2022-consolidated-dataset-panel-format.csv'
+df = pd.read_csv(fbp)
+df = df[df.Country == 'Total World']
+df = df.set_index('Year')
+print (df.oilreserves_bbl.tail(4))
+df.oilreserves_bbl.plot(grid=True)
+plt.savefig('oilreserves.png')
 ```
 
 ```text
 Year
-2017    1.728171e+12
-2018    1.736144e+12
-2019    1.734811e+12
-2020    1.732366e+12
-Name: Oil - Proved reserves, dtype: float64
+2018    1736.144020
+2019    1734.810537
+2020    1732.366175
+2021            NaN
+Name: oilreserves_bbl, dtype: float64
 ```
 
 ![](oilreserves.png)
