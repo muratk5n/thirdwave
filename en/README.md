@@ -170,7 +170,7 @@ Recommender recommends *Hell or High Water*
 
 ---
 
-My favorite Sopranos character? It was Furio. He was legit
+My favorite *Sopranos* character? It was Furio. He was legit
 off-the-boat European, not like those fake New Jersey Italians.
 
 ---
