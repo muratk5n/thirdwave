@@ -99,7 +99,8 @@ years"
 ---
 
 If coal gasification can generate natural gas, can that be fed into
-methane pyrolysis to generate clean gas?
+methane pyrolysis to generate clean gas? There are other methods for
+H2 generation from coal with CCS of course.
 
 ---
 
