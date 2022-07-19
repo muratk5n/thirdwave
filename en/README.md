@@ -120,7 +120,8 @@ Mystery US buyer.. Who is you mofo? Show yourself
 
 "@JoSamps92
 
-'Largest ever order' | @nelhydrogen to supply 200MW of #hydrogen electrolysers to mystery US buyer in €45m deal"
+'Largest ever order' - @nelhydrogen to supply 200MW of #hydrogen
+electrolysers to mystery US buyer in €45m deal"
 
 ---
 
