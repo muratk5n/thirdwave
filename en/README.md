@@ -173,17 +173,6 @@ Recommender recommends *Hell or High Water*
 
 ---
 
-The second Dr. Strange movie was a chick flick. I guess same is true
-for the new Thor. I see a new pattern, Woke doesn't sell, but they can
-sell chick flicky movies or create pockets of Woke in good movies, an
-"isolated cuck" approach if you will. People run around in that pocket
-do whatever dipshit stuff they do, it doesn't effect the plot, it's
-basically useless, a filler. Viewer will subconciously ignore those
-parts and media comps get to check some boxes. Everyone (sort of)
-wins.
-
----
-
 My favorite Sopranos character? It was Furio. He was legit
 off-the-boat European, not like those fake New Jersey Italians.
 
