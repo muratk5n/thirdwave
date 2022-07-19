@@ -184,12 +184,8 @@ wins.
 
 ---
 
-He was legit off-the-boat European, not like those fake New Jersey
-Italians.
-
----
-
-My favorite Sopranos character? It was Furio.
+My favorite Sopranos character? It was Furio. He was legit
+off-the-boat European, not like those fake New Jersey Italians.
 
 ---
 
