@@ -160,7 +160,7 @@ actually.
 ---
 
 I use "cosine distance" to find users that are similar to my picks. My
-mov ratings are in one vector, another person's in another, similarity
+mov ratings are in one vector, someone else's in another, similarity
 amounts to a "dot product" essentially.
 
 ---
