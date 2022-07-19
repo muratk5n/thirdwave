@@ -196,7 +196,8 @@ Pompeo looked like jolly fat man, now he looks just serious thin guy
 
 ---
 
-Used car prices (an index) rose substantially? Why?
+Used car prices (an index) rose substantially? Why this sudden
+interest in used cars rather than new cars?
 
 ```python
 import util; df = util.get_fred(2010,['CUSR0000SETA02']); df.plot()
