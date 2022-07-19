@@ -198,8 +198,8 @@ time assumed ethnic/cultural connection does not exist.
 
 ---
 
-Yeah. Because Italians like to wolf down cheeseburgers whenever they
-have the chance.. Some Italian you are
+Italians like to wolf down cheeseburgers whenever they have the chance
+don't they.. Some Italian you are
 
 NY Post: "'We are Italian'.. When he traveled, Pompeo said .. 'I went
 back to the room and kept working, and ate my cheeseburger. That was
