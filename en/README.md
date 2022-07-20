@@ -127,8 +127,8 @@ world.
 ---
 
 IMO one has to try harder to make the case for green H2, but I will
-anywa; even though its capacity might not reach blue levels, it will
-incentivize blue H2 transition along with green H2 production. 
+anyway; even though its capacity might not reach blue levels, it will
+incentivize blue H2 transition along with green H2 production.
 
 ---
 
