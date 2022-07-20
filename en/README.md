@@ -8,7 +8,7 @@ Pinned Tweets
 
 ---
 
-\#Trump 🔥  🔥 
+\#Trump 🔥  🔥  🔥 
 
 [[-]](https://pbs.twimg.com/media/FXgBn5GX0AEm32x?format=jpg&name=small)
 
