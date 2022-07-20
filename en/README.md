@@ -155,7 +155,9 @@ in H2 vehicles — with significant financial backing from UK government"
 
 ---
 
-The grid.. what a piece of shit technology
+The grid.. what a piece of shit. H2 pipelines can transmit energy 10
+times faster and Texas has lots of natural resources to generate that
+clean gas. 
 
 CNBC: "Concerns Grow Over Texas Power Grid As Temperatures Rise"
 
