@@ -47,7 +47,7 @@ infrastructure in Shanghai Chemical Industry Park (SCIP).
 These units will bring significant environmental benefits, as they are
 designed to replace current supply from a third party coal-based
 gasification unit, will be equipped with CO2 capture and recycle
-technology and will be connected to SCIPIG existing local network
+technology and will be connected to SCIPIG existing local network"
 
 ---
 
