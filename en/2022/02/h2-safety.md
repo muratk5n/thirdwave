@@ -1,6 +1,6 @@
 # H2 Safety
 
-[Link](https://hydrogen-central.com/why-hydrogen-safer-you-might-think-bayotech/)
+[H2 Central](https://hydrogen-central.com/why-hydrogen-safer-you-might-think-bayotech/)
 
 Hydrogen is the lightest of all elements – it’s fourteen times lighter
 than air and rises quickly in the event of a leak, dispersing
