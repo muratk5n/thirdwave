@@ -74,6 +74,7 @@ Name: 1, dtype: float64
 ### World Oil Reserves
 
 Data from [BP](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy/downloads.html).
+Unit is billion barrels. 
 
 ```python
 import pandas as pd
