@@ -119,9 +119,10 @@ diesel.'"
 
 ---
 
-Hell, maybe the engineering will pick up so fast we'll get 60 mega CSP
-installations on the Sahara with a combined output of 60 GW that will
-generate green fuels, it will be shipped, piped all over the world.
+And, hell, maybe the engineering will pick up so fast we'll get 60
+mega CSP installations on the Sahara with a combined output of 60 GW
+that will generate green fuels, it will be shipped, piped all over the
+world.
 
 ---
 
