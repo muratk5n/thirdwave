@@ -192,8 +192,7 @@ This is a good article on the subject from May 2022, by Isabel Schnabel.
 
 When govs decided to protect employment the direct result of that
 would be inflation. No escape from that. The spend-thrift whiner has
-no extra analysis, he keeps repeating the same thing over and over
-anyway.
+no extra analysis, he keeps repeating the same thing over and over.
 
 ---
 
