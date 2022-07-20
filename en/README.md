@@ -2,306 +2,255 @@
 
 ---
 
-Pinned Tweet
+Pinned Tweets
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">EU launches 5.4-billion-euro hydrogen project with Alstom, Daimler, others <a href="https://t.co/X0j7xLCuJr">https://t.co/X0j7xLCuJr</a> <a href="https://t.co/IEOy9wYMPz">pic.twitter.com/IEOy9wYMPz</a></p>&mdash; Reuters (@Reuters) <a href="https://twitter.com/Reuters/status/1547931774629470208?ref_src=twsrc%5Etfw">July 15, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"@JoSamps92
-
-'Hydrogen long-term solution to net-zero target' | @Airbus CEO sees
-first H2 planes on regional routes"
-
----
-
-FT: "Rolls-Royce to run engine tests with hydrogen as emissions pressure grows"
-
----
-
-Reuters: "Johnson Matthey to build 80 million pound hydrogen cell
-manufacturing facility"
-
----
-
-Nikkei Asia: "China closes in on Japan's hydrogen technology patent
-lead..  Though Japan continues to lead the world in hydrogen-related
-technology, its edge is narrowing as new patent filings by the
-country's companies and research institutions slow while Chinese
-players forge ahead with government backing"
-
----
-
-Renew Economy: "'Eureka moment' as Australian researchers make
-hydrogen storage breakthrough.. A team from Deakin University’s
-Institute for Frontier Materials (IFM) in Melbourne says it has found
-a new mechanochemical way of separating and storing gases, which is
-safe, uses a tiny fraction of the energy compared to traditional
-methods and creates zero waste.
-
-The hero ingredient in the breakthrough is boron nitride powder, which
-is has a knack for absorbing substances, being small, but with a large
-amount of surface area. It’s also classed as a “level-0 chemical,”
-something that is deemed perfectly safe to have in your house.
-
-The researchers put boron nitride powder into a ball mill – a type of
-grinder containing small stainless-steel balls in a chamber – along
-with the gases that need to be separated.
-
-As the chamber rotates at a higher and higher speed, the balls collide
-with the powder and the wall of the chamber triggers a mechanochemical
-reaction resulting in gas being absorbed into the powder.
-
-One type of gas is absorbed quicker, separating it out from the
-others, and allowing it to be easily removed from the mill. The
-process can be repeated over several stages to separate the gases one
-by one.
-
-<img width="200" src="https://pbs.twimg.com/media/FX9zA-MWAAAxXrO?format=jpg&name=small"/>
-
-All up, the process consumes 76.8 KJ/s to store and separate 1000L of
-gases, which means it uses at least 90 per cent less than the current
-gas separation process commonly used in the petroluem industry...
-
-Even more significantly, once the gas is absorbed into the powder it
-gas can be transported safely and easily. When the gas is needed, the
-powder can be simply heated in a vacuum to release the gas unchanged...
-
-[The team shows] there’s mechanochemical alternative, using ball
-milling to store gas in the nanomaterial at room temperature. It
-doesn’t require high pressure or low temperatures, so it would offer a
-much cheaper and safer way to develop things like hydrogen powered
-vehicles.
-
-The next step for the IFM team is to gather industry support and scale
-the process up to a full pilot. A provisional patent application has
-been submitted for the process"
-
-[[-]](https://reneweconomy.com.au/eureka-moment-as-australian-researchers-make-hydrogen-storage-breakthrough)
-
----
-
-H2 Central: "SoCalGas launches green hydrogen storage pilot project in
-the US.. For this new pilot project, SoCalGas is collaborating with
-GKN Hydrogen, a green hydrogen producer from Bonn, Germany, as well as
-with the US National Renewable Energy Laboratory (NREL)..
-
-The US Department of Energy (DoE) has provided 1.7 million in funding
-and SoCalGas has provided additional support including $400,000. The
-pilot will bring together two of GKN Hydrogen’s HY2MEGA H2 storage
-subsystems with 500 kilograms of capacity for H2 storage...
-
-The green H2 will be stored in a solid state under low pressure in
-HY2MEGA hydrogen storage tank, which is a modular metal hydride
-technology solution which has been under development for about ten
-years"
-
----
-
-If coal gasification can generate natural gas, can that be fed into
-methane pyrolysis to generate clean gas? There are other methods for
-H2 generation from coal with CCS of course.
-
----
-
-Vehicles of this type will shift to H2 quicker
-
-CNBC: "Ford Unleashes A 700-Horsepower V8 In The F-150 Raptor
-R... Ford revealed the pickup truck as the most powerful Raptor ever
-for high-performance off-roading, designed to make the hairs on your
-neck stand up"
-
----
-
-Mystery US buyer.. Who is you mofo? Show yourself
-
-"@JoSamps92
-
-'Largest ever order' - @nelhydrogen to supply 200MW of #hydrogen
-electrolysers to mystery US buyer in €45m deal"
-
----
-
-"@Saur_energy
-
-Pipeline Infrastructure And DNV Collaborate To Integrate Hydrogen In India"
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">SoCalGas begins developing 100% clean hydrogen pipeline system <a href="https://t.co/qT6ibx4ShT">https://t.co/qT6ibx4ShT</a></p>&mdash; Careers In Utilities (@utilitycareers) <a href="https://twitter.com/utilitycareers/status/1548819934553284608?ref_src=twsrc%5Etfw">July 18, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-🤣 That. Is. Funny
+\#Trump
 
 [[-]](https://pbs.twimg.com/media/FXgBn5GX0AEm32x?format=jpg&name=small)
 
 ---
 
-"Flood, Evacuate, Rinse, Repeat: A Relentless Pattern Batters
-Australia.. Storms brought 30 inches of rain to areas near Sydney
-recently, and some residents have seen their homes flooded for the
-third or fourth time in 16 months"
+Al Monitor: "Abu Dhabi National Oil Company to work with France’s
+TotalEnergies on carbon capture.. The deal came during UAE President
+Sheikh Mohammed bin Zayed Al Nahyan’s visit to France, where he
+strengthened energy relations with the European country. The two
+countries have grown closer over Libya and energy exploration in the
+Eastern Mediterranean"
 
 ---
 
-Missing ratings on either side are not a problem (most ppl dont watch
-everything so they are many). In sparse matrix format missing vals are
-not stored, dot product calculation is smart enough to skip them and
-treat them as zero. If nothing matched dot product gives a zero which
-is cosine of 90. You are at 90 degrees to this person, "orthogonal",
-at odds shall we say - no matches.  I don't pick that person's movies
-for recommendation. The whole thing is calculated is pretty fast
-actually.
+Bloomberg: "UK Moves to Boost Green Hydrogen Amid Soaring Gas
+Prices.. Government to meet with businesses to stimulate
+investment.. Hydrogen could be key to maximizing UK wind resources"
 
 ---
 
-I use "cosine distance" to find users that are similar to my picks. My
-mov ratings are in one vector, someone else's in another, similarity
-amounts to a "dot product" essentially.
+Clean Energy Wire: "Egypt’s president Abdel Fattah al-Sisi pledged to
+assist Germany’s move towards independence from Russia by supplying
+natural gas and agreed on a green hydrogen partnership during a
+meeting with German chancellor Olaf Scholz at the Petersberg Climate
+Dialogue in Berlin"
 
 ---
 
-Not bad, not bad.. \#hellOrHighWater
+H2 Central: "Air Liquide to build two new hydrogen production units
+with carbon capture technology in Shanghai Chemical Industry
+Park. Shanghai Chemical Industry Park Industrial Gases Co., Ltd
+(SCIPIG), a subsidiary of Air Liquide, will invest more than 200
+million euros to build two hydrogen production units and related
+infrastructure in Shanghai Chemical Industry Park (SCIP).
+
+These units will bring significant environmental benefits, as they are
+designed to replace current supply from a third party coal-based
+gasification unit, will be equipped with CO2 capture and recycle
+technology and will be connected to SCIPIG existing local network
 
 ---
 
-Recommender recommends *Hell or High Water*
+"Canada’s regional aviation market looks set to become cleaner as
+Universal Hydrogen announces the firm order from Avmax Aircraft
+Leasing to convert 20 regional aircraft to run on green hydrogen"
 
 ---
 
-My favorite *Sopranos* character? It was Furio. He was legit
-off-the-boat European, not like those fake New Jersey Italians.
+"H2Accelerate collaboration published a new whitepaper in support of
+the use of hydrogen in long-haul trucking, demonstrating what it calls
+‘high customer interest’ for hydrogen trucks"
 
 ---
 
-US relationship with its 'ethnicities' is just bizarre. Most of the
-time ppl are delusional about their assumed ethnic/cultural
-connection. It's as bad as Asia Minor "Turks" following a buffonish
-made-up identity
+NZ Herald: "Hyundai NZ reveals its first hydrogen truck customer: NZ Post"
 
 ---
 
-Italians like to wolf down cheeseburgers whenever they have the chance
-don't they.. Some Italian you are
-
-NY Post: "'We are Italian'.. When he traveled, Pompeo said .. 'I went
-back to the room and kept working, and ate my cheeseburger. That was
-my pattern of life'"
-
----
-
-Pompeo looked like jolly fat man, now he looks just serious thin guy
-😶 Non-fat Pompeo
+H2 View: "Plans for fuel cell gigafactory to accelerate transport
+decarbonisation in UK revealed.. Sustainable technology leader,
+Johnson Matthey (JM), revealed plans to build an £80m ($96m)
+gigafactory at its existing site in Royston, UK, to boost its
+manufacturing capacity of hydrogen fuel cell components"
 
 ---
 
-Used car prices (an index) rose substantially? Why this sudden
-interest in used cars rather than new cars?
+H2 View: "ZeroAvia, PowerCell partner to develop aviation optimised
+fuel cell stacks"
+
+---
+
+Linde Engineering: "Transformational technologies to accelerate the
+transition to a low-carbon economy by pipelining hydrogen to the point
+of use Hydrogen holds great promise for the world’s decarbonization
+journey. But the point of production rarely corresponds to the point
+of use. Now, at the world’s first real-scale pilot plant in Dormagen,
+Germany, Linde is providing proof-of-concept for a market-ready
+transformational technology that connects the two. The plant combines
+Linde’s HISELECT® powered by Evonik membranes with pressure swing
+adsorption technology to extract hydrogen from natural gas pipeline
+blends – so hydrogen can be tapped as needed"
+
+---
+
+[H2 Safety](2022/02/h2-safety.html)
+
+---
+
+Plug Power: "The hydrogen economy is growing rapidly, but the federal
+government can accelerate the clean energy transition, Plug CEO Andy
+Marsh told the U.S. Senate Committee on Energy and Natural
+Resources... In a written testimony to the Committee, chaired by
+Sen. Joe Manchin (D-W.Va.), Marsh wrote that '.. In many cases, green
+hydrogen and fuel cell technologies are the best replacement for
+diesel.'"
+
+---
+
+\#H2 \#PlugPower 
+
+[[-]](https://youtu.be/qrMqsVOj0UU)
+
+---
+
+\#H2 \#Hearing \#Manchin
+
+[[-]](https://youtu.be/DFXchLOKxrs?t=39)
+
+---
+
+Hell, maybe the engineering will pick up so fast we'll get 60 mega CSP
+installations on the Sahara with a combined output of 60 GW that will
+generate green fuels, it will be shipped, piped all over the world.
+
+---
+
+Here is the real case for green H2; even though its capacity might not
+reach blue levels, it will incentivize blue H2 transition along with
+green H2 production. 
+
+---
+
+FT: "Case for ‘blue’ hydrogen suffers in Europe as war rages on
+Reliance on natural gas gives its green counterpart the edge but, in
+the US, the ‘real money’ is still betting on blue"
+
+---
+
+\#UK \#H2
+
+[[-]](https://www.offshore-energy.biz/uks-first-hydrogen-champion-named/)
+
+---
+
+Recharge: "Liebreich: 'We have to learn to love blue hydrogen — and
+make sure it's as clean as possible'"
+
+---
+
+Recharge: "Vote of confidence in H2 trucks | UK to plough 'multiple
+millions' into $96m hydrogen fuel-cell gigafactory.. New Johnson
+Matthey plant will make components for 3GW of PEM fuel cells — for use
+in H2 vehicles — with significant financial backing from UK government"
+
+---
+
+The grid.. what a piece of shit technology
+
+CNBC: "Concerns Grow Over Texas Power Grid As Temperatures Rise"
+
+---
+
+Redid reserves.. it's looking flat flat flat, as in "peak"
+
+[[-]](2019/05/energstats.html#oilreserves)
+
+---
+
+That BP data file truly has everything.. Oil reserve levels are on it too
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&#39;<a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> long-term solution to net-zero target&#39; | <a href="https://twitter.com/Airbus?ref_src=twsrc%5Etfw">@Airbus</a> CEO sees first H2 planes on regional routes. Via <a href="https://twitter.com/rechargenews?ref_src=twsrc%5Etfw">@rechargenews</a> <a href="https://t.co/7Zie3wksXL">https://t.co/7Zie3wksXL</a></p>&mdash; Joanna Sampson (@JoSamps92) <a href="https://twitter.com/JoSamps92/status/1549079647383601154?ref_src=twsrc%5Etfw">July 18, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+[Link](https://pbs.twimg.com/media/FYBx3jlXgAQRREp?format=jpg&name=small)
+
+---
+
+'What do you do to help your homies anyway..?' I dabble.. I try to
+help, when I can
+
+---
+
+This is a good article on the subject from May 2022, by Isabel Schnabel.
+
+[[-]](https://www.ecb.europa.eu/press/key/date/2022/html/ecb.sp220511_1~e9ba02e127.en.html)
+
+---
+
+When govs decided to protect employment the direct result of that
+would be inflation. No escape from that. The spend-thrift whiner has
+no extra analysis, he keeps repeating the same thing over and over
+anyway.
+
+---
+
+Govs around the world wanted to protect businesses, through payment protection
+schemes, encouraging them to keep employees. So many people stayed at home
+getting payments, building up savings. After opening up those savings
+became excess demand which helped a rise in inflation. Since many countries
+(especially in the West) followed similar schemes, global inflation was
+pushed up. Then there was the supply disruptions. 
+
+---
+
+People's savings during covid increased, much more than the cash payments
 
 ```python
-import util; df = util.get_fred(2010,['CUSR0000SETA02']); df.plot()
-```
-
-[[-]](https://pbs.twimg.com/media/FX-Ikn9X0AAvwyY?format=png&name=small)
-
----
-
-China export rose - they are still producing, the world is
-still buying.. 
-
-```python
-import util; df = util.get_fred(2010,['XTEXVA01CNM667S']); df.plot()
-```
-
-[[-]](https://pbs.twimg.com/media/FX9DuUnWYAA43-N?format=png&name=small)
-
----
-
-'Consumption habits are changing.. consumption of goods vs services
-flipped due to covid' they say..
-
-See below. There was a flip but then it went back to trend, which was
-already in the direction of more goods and less services
-
-
-```python
-import util; df = util.get_fred(2010,['DGDSRX1','PCESC96'])
-df['Total'] = df.sum(axis=1)
-df['Goods'] = df.DGDSRX1 / df.Total
-df['Services'] = df.PCESC96 / df.Total
-print (df[['Goods','Services']].tail(3))
-ax1 = df.Goods.plot(color='blue', grid=True, label='Goods')
-ax2 = df.Services.plot(color='red', grid=True, label='Services',secondary_y=True)
-h1, l1 = ax1.get_legend_handles_labels()
-h2, l2 = ax2.get_legend_handles_labels()
-plt.legend(h1+h2, l1+l2, loc=2)
-plt.savefig('goods-services.png')
+import util; df = util.plot_fred(2010, "PSAVE")
+print ('\n',df.max())
 ```
 
 ```text
-               Goods  Services
-DATE                          
-2022-03-01  0.391748  0.608252
-2022-04-01  0.391868  0.608132
-2022-05-01  0.387325  0.612675
+               PSAVE
+DATE                
+2021-07-01  1726.446
+2021-10-01  1446.674
+2022-01-01  1022.936
+
+ PSAVE    4771.973
+dtype: float64
 ```
 
-![](https://pbs.twimg.com/media/FX9DN66WIAIHZY8?format=png&name=small)
+<img width="340" src="https://pbs.twimg.com/media/FYDrwJLXwAACm3e?format=png&name=small"/>
 
 ---
 
-Why a 2022 Recession Would Be Unlike Any Other
+"The federal government made direct payments to individuals totaling
+$931 billion to help with COVID-19"
 
-[[-]](https://youtu.be/WUKEYDep8as)
-
----
-
-"Housing Boom Fades World-Wide as Interest Rates Climb"
+[[-]](https://www.gao.gov/products/gao-22-106044)
 
 ---
 
-Yo that one area near Baghdad is like 44 degrees C.
+That was only part of the story - and a small part in that
 
-[[-]](https://pbs.twimg.com/media/FX9Ja0wWQAAKLoX?format=png&name=small)
-
----
-
-"@FCNL
-
-Really encouraging news from Capitol Hill. There is strong bipartisan
-support for repealing the 2002 Iraq war authorization and taking back
-Congress' war powers!"
+"US gov shouldn't have given cash payments to citizens during covid,
+that spurred inflation"
 
 ---
 
-Less oversight is never good
+Stan Lefort feat. JC Sindress - Aravibes \#music
 
-"Rep. Schiff Wants to Block Oversight of Some Military Operations"
-
----
-
-Regular cops naturally chickened out. People with skills and training
-to handle that stuff cannot be housed in every town, they need to be
-transported from somewhere else, which take time. The easiest solution
-would be gun control but thanks to Bill Clinton that stuff is all part
-of the culture war now, each side clings to it for their 'political
-survival' while people die. 
-
-The Independent: "Texas House report slams ‘lackadaisical approach’ to
-Uvalde shooting where 400 officers stalled for 77 minutes"
+[[-]](https://youtu.be/LY_5nz6NhWE)
 
 ---
 
-Everyone with covid was shot?
-
-"North Korea says nearing end of COVID crisis"
-
----
-
-"The EU signed a new gas deal with Azerbaijan on Monday, as officials
-scramble to secure future supplies amid growing fears about a Russian
-cutoff"
+NY Times: "Many Democrats — both politicians and voters.. seem more
+focused on divisive cultural issues than on most Americans’ everyday
+concerns, like inflation"
 
 ---
 
