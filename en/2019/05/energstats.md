@@ -73,9 +73,7 @@ Name: 1, dtype: float64
 
 ### World Oil Reserves
 
-Data from [Our World in Data](https://ourworldindata.org/grapher/oil-proved-reserves?country=~OWID_WRL).
-Estimated amount of oil underground that can be dug up and brought to the
-market. Units are billion barrels. 
+Data from [BP](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy/downloads.html).
 
 ```python
 import pandas as pd
