@@ -190,6 +190,13 @@ This is a good article on the subject from May 2022, by Isabel Schnabel.
 
 ---
 
+There is a place for the thriftiness in the pol spectrum, it
+contributes to the average. I'm not interested in the spectrum which
+actually indicates failure of analysis. The aim for analysis should be
+the average leader-voters would converge on to.
+
+---
+
 When govs decided to protect employment the direct result of that
 would be inflation. No escape from that. The spend-thrift whiner has
 no extra analysis, he keeps repeating the same thing over and over.
