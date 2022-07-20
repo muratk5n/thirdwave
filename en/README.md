@@ -128,7 +128,7 @@ world.
 
 IMO one has to try harder to make the case for green H2, but I will
 anyway; even though its capacity might not reach blue levels, it will
-incentivize clean fuel transition  along with green H2 production.
+incentivize clean fuel transition.
 
 ---
 
