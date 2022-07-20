@@ -406,14 +406,14 @@ US gas prices falling.. been falling since last month
 2022-07-11  4.754
 ```
 
-[[-]](2019/05/energstats.html#usgasoline)
+[[-]](../../2019/05/energstats.html#usgasoline)
 
 ---
 
 All energy consumption, 2021 number stands at a whopping 165,319
 Twh. World energy consumption *quadrupled* compared to 60s.
 
-[[-]](2019/05/energstats.html#primary)
+[[-]](../../2019/05/energstats.html#primary)
 
 ---
 
@@ -425,7 +425,7 @@ Carbon ppm YoY increased as usual.. by 0.50%. There was an
 2022-06-01    0.489330
 ```
 
-[[-]](2015/08/temp-increase.html#carbonyoy)
+[[-]](../../2015/08/temp-increase.html#carbonyoy)
 
 ---
 
@@ -475,7 +475,7 @@ FDR, Lincoln, Washington.
 ---
 
 Is US in recession? Econ defines it as two consecutive quarters of neg
-growth. Q1 quarterly growth rate annualized [was](2019/05/stats.html#gdp)
+growth. Q1 quarterly growth rate annualized [was](../../2019/05/stats.html#gdp)
 already -1.57%. Guesstimate for last Q, from FRED (the
 so-called GDPNow number) is
 
