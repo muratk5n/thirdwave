@@ -196,7 +196,7 @@ This is a good article on the subject from May 2022, by Isabel Schnabel.
 There is a place for the thriftiness in the pol spectrum, it
 contributes to the average. I'm not interested in the spectrum which
 actually indicates failure of analysis. The aim for analysis should be
-the average leader-voters would converge on to.
+to pinpoint the optimality before it is reached.
 
 ---
 
