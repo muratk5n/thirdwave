@@ -201,8 +201,8 @@ to pinpoint the optimality before it is reached.
 ---
 
 When govs decided to protect employment the direct result of that
-would be inflation. No escape from that. The spend-thrift whiner has
-no extra analysis, he keeps repeating the same thing over and over.
+would be inflation. No escape from that. The spend-thrift guy has no
+extra analysis, he keeps repeating the same thing over and over.
 
 ---
 
