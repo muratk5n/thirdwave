@@ -138,7 +138,7 @@ the US, the ‘real money’ is still betting on blue"
 
 ---
 
-\#UK \#H2
+"UK’s first Hydrogen Champion named"
 
 [[-]](https://www.offshore-energy.biz/uks-first-hydrogen-champion-named/)
 
