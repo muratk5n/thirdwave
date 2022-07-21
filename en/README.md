@@ -214,8 +214,8 @@ is a blow to Putin's critics who believed the Russian leader was ill"
 
 ---
 
-Savings level, goods/services purchasing ratios, China exports, Suez
-canal traffic are all back to pre-pandemic trend. 
+Savings level, goods/services purchase ratio, China exports, Suez
+canal traffic are all back to pre-pandemic trend.
 
 ---
 
