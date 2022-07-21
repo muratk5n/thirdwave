@@ -177,8 +177,8 @@ bcz printing at pre-decided level is the norm.
 
 ---
 
-An early demo of what is possible with synthetic fuel generation. Once
-you add CCS on top, you get clean fuel.
+That WWII experiemtn was an early demonstration of what is possible
+with synthetic fuels. Once you add CCS on top, you get clean fuel.
 
 ---
 
