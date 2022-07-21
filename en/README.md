@@ -182,7 +182,8 @@ you add CCS on top, you get clean fuel.
 
 ---
 
-The Allies bombed those synfuel plants, that's why Germany 'ran out of fuel'.
+The Allies bombed those synfuel plants, that's why Germany ran out of
+fuel, or synfuel.
 
 ---
 
