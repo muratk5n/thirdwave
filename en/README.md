@@ -117,10 +117,10 @@ Hyundai’s brand HTWO (and is going to produce buses in Italy)"
 ---
 
 Now a fraction of energy production is green... What would happen if
-wout ramping up that production massive demand is unleashed? Prices
-could skyrocket. On the cost side sure, green production is costing
-less and less, that is great. Do we have the capacity though and can
-we build it in time? That is the question.
+massive demand is unleashed? Prices could skyrocket. On the cost side
+sure, green production is costing less and less, that is great. Do we
+have the capacity though and can we build it in time? That is the
+question.
 
 ---
 
