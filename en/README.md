@@ -74,11 +74,9 @@ conference on Tuesday"
 ---
 
 H2 Central: "Hydra Energy completes hydrogen conversion of [an]
-armoured vehicle..
-
-"[H]ow many heavy-duty truck fleet owners, let alone owners of
-purpose-built armoured vehicles, can state they are reducing CO2
-emissions by 40% per truck without reducing truck performance and
+armoured vehicle..[H]ow many heavy-duty truck fleet owners, let alone
+owners of purpose-built armoured vehicles, can state they are reducing
+CO2 emissions by 40% per truck without reducing truck performance and
 without any financial burden on the fleet operator?'..
 
 This allows the truck to automatically run on hydrogen up to 40% of
@@ -101,13 +99,6 @@ for zero emission mobility within long-haul trucking"
 H2 Central: "Queensland launches roadmap for hydrogen skills
 development. The Queensland government has launched Australia’s first
 dedicated workforce development plan for the hydrogen industry"
-
----
-
-CNBC: "A critical shipping lane in Europe’s economic heart is drying
-up in the searing heat.. The water levels in the River Rhine are
-running perilously low in the searing heat the region has been
-experiencing"
 
 ---
 
@@ -203,6 +194,13 @@ MSM.. It's a strange world..
 
 Politico: "CIA Director: Putin 'too healthy'.. William Burns' comment
 is a blow to Putin's critics who believed the Russian leader was ill"
+
+---
+
+CNBC: "A critical shipping lane in Europe’s economic heart is drying
+up in the searing heat.. The water levels in the River Rhine are
+running perilously low in the searing heat the region has been
+experiencing"
 
 ---
 
