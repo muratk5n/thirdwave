@@ -190,8 +190,6 @@ MSM.. It's a strange world..
 
 ---
 
-😂 😂 😂 
-
 Politico: "CIA Director: Putin 'too healthy'.. William Burns' comment
 is a blow to Putin's critics who believed the Russian leader was ill"
 
