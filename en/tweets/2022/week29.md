@@ -79,7 +79,7 @@ blends – so hydrogen can be tapped as needed"
 
 ---
 
-[H2 Safety](2022/02/h2-safety.html)
+[H2 Safety](../../2022/02/h2-safety.html)
 
 ---
 
@@ -152,7 +152,7 @@ CNBC: "Concerns Grow Over Texas Power Grid As Temperatures Rise"
 
 Redid reserves.. it's looking flat flat flat, as in "peak"
 
-[[-]](2019/05/energstats.html#oilreserves)
+[[-]](../../2019/05/energstats.html#oilreserves)
 
 ---
 
