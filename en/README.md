@@ -228,14 +228,12 @@ CNBC: "Russia resumes gas flows to Europe after fears of a total shutdown"
 ----
 
 Militarization, Russia related issues have been simmering in Italy
-since this April, and now they blew up, destroying the government.
-
-Yet all you hear on MSM (who is pro-war, pro-military industrial
-complex in whatever country) blamed it all on "argumentive Italians"
-messing up another fine government, breaking unity. There was a
-serious issue, a serious disagreement, so the parliamentary make-up
-did its magic.. If pols wanted to keep the gov together, had to offer
-concessions. 
+since this April, finally it all blew up, destroying the
+government. Yet all you hear on MSM (who is pro-war, pro-military
+industrial complex) blamed it all on "argumentive Italians" messing up
+another fine government, breaking unity. But there was a serious issue
+being discussed, a major disagreement, so the parliamentary make-up
+did its magic.. 
 
 ---
 
