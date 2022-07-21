@@ -198,7 +198,7 @@ petroleum from Germany's abundant coal supplies"
 
 ---
 
-To repeat, Germany did not lose WWII because "it ran out of fuel". See above
+No, Germany did not lose WWII because "it ran out of fuel". See above
 
 ---
 
