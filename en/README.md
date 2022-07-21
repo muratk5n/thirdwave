@@ -14,252 +14,250 @@ Pinned Tweets
 
 ---
 
-Al Monitor: "Abu Dhabi National Oil Company to work with France’s
-TotalEnergies on carbon capture.. The deal came during UAE President
-Sheikh Mohammed bin Zayed Al Nahyan’s visit to France, where he
-strengthened energy relations with the European country. The two
-countries have grown closer over Libya and energy exploration in the
-Eastern Mediterranean"
+H2 Central: "[S]ignificant reductions in emissions can be achieved by
+using blue hydrogen, which is made from natural gas but incorporates
+CO2 capture in its production...
+
+The Sustainable Hydrogen & Recovery of Carbon (SHARC) project [of
+Neste] involves water electrolysis technology for the production of
+green hydrogen as well as carbon capture from existing hydrogen
+production, and the permanent storage of captured CO2. Altogether the
+project is set to achieve a reduction of more than 4 million tons of
+CO2 emissions at the site in the first 10 years of operation..
+
+To reduce these emissions many countries including the US, Canada, UK,
+the Netherlands and Australia are currently investing heavily in blue
+hydrogen technology"
 
 ---
 
-Bloomberg: "UK Moves to Boost Green Hydrogen Amid Soaring Gas
-Prices.. Government to meet with businesses to stimulate
-investment.. Hydrogen could be key to maximizing UK wind resources"
+H2 Central: "Isuzu, Toyota, Hino, and CJPT to Promote Planning and
+Development of Mass-Market Light-Duty Fuel Cell Electric Trucks"
 
 ---
 
-Clean Energy Wire: "Egypt’s president Abdel Fattah al-Sisi pledged to
-assist Germany’s move towards independence from Russia by supplying
-natural gas and agreed on a green hydrogen partnership during a
-meeting with German chancellor Olaf Scholz at the Petersberg Climate
-Dialogue in Berlin"
+H2 Central: "easyJet and Rolls-Royce announced a ground-breaking new
+partnership, H2ZERO, that will pioneer the development of hydrogen
+combustion engine technology capable of powering a range of aircraft,
+including those in the narrow-body market segment"
 
 ---
 
-H2 Central: "Air Liquide to build two new hydrogen production units
-with carbon capture technology in Shanghai Chemical Industry
-Park. Shanghai Chemical Industry Park Industrial Gases Co., Ltd
-(SCIPIG), a subsidiary of Air Liquide, will invest more than 200
-million euros to build two hydrogen production units and related
-infrastructure in Shanghai Chemical Industry Park (SCIP).
-
-These units will bring significant environmental benefits, as they are
-designed to replace current supply from a third party coal-based
-gasification unit, will be equipped with CO2 capture and recycle
-technology and will be connected to SCIPIG existing local network"
+"Green \#hydrogen could 'supply 32% of aviation energy demand by
+2050'. Via @rechargenews"
 
 ---
 
-"Canada’s regional aviation market looks set to become cleaner as
-Universal Hydrogen announces the firm order from Avmax Aircraft
-Leasing to convert 20 regional aircraft to run on green hydrogen"
+"HVN Plus UK to consider mandatory sale of ‘hydrogen ready’ boilers
+from 2026"
 
 ---
 
-"H2Accelerate collaboration published a new whitepaper in support of
-the use of hydrogen in long-haul trucking, demonstrating what it calls
-‘high customer interest’ for hydrogen trucks"
+[Air Liquide Carbon Capture](https://energies.airliquide.com/energies-clean-energy-supply/clean-hydrogen#carbon-capture)
 
 ---
 
-NZ Herald: "Hyundai NZ reveals its first hydrogen truck customer: NZ Post"
+Bloomberg Law: "FERC Authority Could Speed Hydrogen Build-Out, Manchin
+Says.. The Federal Energy Regulatory Commission should oversee any
+future build-out of hydrogen pipelines, Sen. Joe Manchin, chairman of
+the Senate Energy and Natural Resources Committee, said Tuesday"
 
 ---
 
-H2 View: "Plans for fuel cell gigafactory to accelerate transport
-decarbonisation in UK revealed.. Sustainable technology leader,
-Johnson Matthey (JM), revealed plans to build an £80m ($96m)
-gigafactory at its existing site in Royston, UK, to boost its
-manufacturing capacity of hydrogen fuel cell components"
+H2 Central: "Hydrogen will give US natgas pipes new life in
+carbon-free world... Natural gas companies plan to use hydrogen and
+renewable natural gas (RNG) made from landfills or agricultural waste
+to extend the life of existing pipelines in a future carbon-free
+world, energy executives said at the Reuters Global Energy Transition
+conference on Tuesday"
 
 ---
 
-H2 View: "ZeroAvia, PowerCell partner to develop aviation optimised
-fuel cell stacks"
+H2 Central: "Hydra Energy completes hydrogen conversion of [an]
+armoured vehicle..
+
+"[H]ow many heavy-duty truck fleet owners, let alone owners of
+purpose-built armoured vehicles, can state they are reducing CO2
+emissions by 40% per truck without reducing truck performance and
+without any financial burden on the fleet operator?'..
+
+This allows the truck to automatically run on hydrogen up to 40% of
+the time and seamlessly switch to diesel when there’s no more hydrogen
+in the tanks. Hydrogen refuelling is also as quick as diesel and the
+truck will not experience any loss in fuel efficiency, range, power,
+torque, or payload capacity on VEXSL’s routes transporting climate
+sensitive, high-risk, high-value goods for its clients"
 
 ---
 
-Linde Engineering: "Transformational technologies to accelerate the
-transition to a low-carbon economy by pipelining hydrogen to the point
-of use Hydrogen holds great promise for the world’s decarbonization
-journey. But the point of production rarely corresponds to the point
-of use. Now, at the world’s first real-scale pilot plant in Dormagen,
-Germany, Linde is providing proof-of-concept for a market-ready
-transformational technology that connects the two. The plant combines
-Linde’s HISELECT® powered by Evonik membranes with pressure swing
-adsorption technology to extract hydrogen from natural gas pipeline
-blends – so hydrogen can be tapped as needed"
+H2 Central: "Everfuel to support testing of Volvo hydrogen
+trucks... Everfuel A/S announce a collaboration with Volvo Group
+whereby the company will support Volvo’s recently announced testing of
+fuel cell trucks by supplying green hydrogen and fuelling solutions
+for zero emission mobility within long-haul trucking"
 
 ---
 
-[H2 Safety](2022/02/h2-safety.html)
+H2 Central: "Queensland launches roadmap for hydrogen skills
+development. The Queensland government has launched Australia’s first
+dedicated workforce development plan for the hydrogen industry"
 
 ---
 
-Plug Power: "The hydrogen economy is growing rapidly, but the federal
-government can accelerate the clean energy transition, Plug CEO Andy
-Marsh told the U.S. Senate Committee on Energy and Natural
-Resources... In a written testimony to the Committee, chaired by
-Sen. Joe Manchin (D-W.Va.), Marsh wrote that '.. In many cases, green
-hydrogen and fuel cell technologies are the best replacement for
-diesel.'"
+CNBC: "A critical shipping lane in Europe’s economic heart is drying
+up in the searing heat.. The water levels in the River Rhine are
+running perilously low in the searing heat the region has been
+experiencing"
 
 ---
 
-\#H2 \#PlugPower 
-
-[[-]](https://youtu.be/qrMqsVOj0UU)
-
----
-
-\#H2 \#Hearing \#Manchin
-
-[[-]](https://youtu.be/DFXchLOKxrs?t=39)
+H2 Live: "Iveco Bus to equip its fuel cell buses with technology by
+Hyundai’s brand HTWO (and is going to produce buses in Italy)"
 
 ---
 
-And, hell, maybe the engineering will pick up so fast we'll get 60
-mega CSP installations on the Sahara with a combined output of 60 GW
-that will generate green fuels, it will be shipped, piped all over the
-world.
+Now a fraction of energy production is green... What would happen if
+wout ramping up that production massive demand is unleashed? Prices
+could skyrocket. On the cost side sure, green production is costing
+less and less, that is great. Do we have the capacity though and can
+we build it in time? That is the question.
 
 ---
 
-IMO one has to try harder to make the case for green H2, but I will
-anyway; even though its capacity might not reach blue levels, it will
-incentivize clean fuel transition.
+Talking about price or cost? IMO more green production is needed for
+an effective comparison. 
+
+WSJ: "Green Hydrogen Is Cheaper Than LNG in Europe"
 
 ---
 
-FT: "Case for ‘blue’ hydrogen suffers in Europe as war rages on
-Reliance on natural gas gives its green counterpart the edge but, in
-the US, the ‘real money’ is still betting on blue"
+"US oil refiner [Phillips 66, in a joint venture with Switzerland's H2
+Energy Europea] set to more than double the number of hydrogen filling
+stations in Europe by 2026"
 
 ---
 
-"UK’s first Hydrogen Champion named"
-
-[[-]](https://www.offshore-energy.biz/uks-first-hydrogen-champion-named/)
-
----
-
-Recharge: "Liebreich: 'We have to learn to love blue hydrogen — and
-make sure it's as clean as possible'"
+Jeff Bridges, good actor. But he did coast in some roles..  When he
+made that Oscar speech a lot of people realized he wasn't acting in
+*The Big Lebowski*. The guy really is The Dude, in the flesh.
 
 ---
 
-Recharge: "Vote of confidence in H2 trucks | UK to plough 'multiple
-millions' into $96m hydrogen fuel-cell gigafactory.. New Johnson
-Matthey plant will make components for 3GW of PEM fuel cells — for use
-in H2 vehicles — with significant financial backing from UK government"
+"@lindwalk44
+
+You should send him a list of ALL the trades Pelosi has done and how
+they coincide with lawmaker developments.
+
+'@unusual_whales
+
+Josh Hawley has called for a Senate hearing on banning lawmakers from trading stocks.
+
+He mentioned Paul Pelosi’s recent purchase of $NVDA'"
 
 ---
 
-The grid.. what a piece of shit. H2 pipelines can transmit energy 10
-times faster and Texas has lots of natural resources to generate that
-clean gas. 
-
-CNBC: "Concerns Grow Over Texas Power Grid As Temperatures Rise"
+People would work just fine even with UBI. There will be no labor shortage.
 
 ---
 
-Redid reserves.. it's looking flat flat flat, as in "peak"
-
-[[-]](2019/05/energstats.html#oilreserves)
-
----
-
-That BP data file truly has everything.. Oil reserve levels are on it too
+Crises' happen because the system insists on printing new money for
+business credit which can cause bubbles, inflation, wage stagnation,
+unemployment, and everythin in between. The transmission mechanism is
+too kludgy.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&#39;<a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> long-term solution to net-zero target&#39; | <a href="https://twitter.com/Airbus?ref_src=twsrc%5Etfw">@Airbus</a> CEO sees first H2 planes on regional routes. Via <a href="https://twitter.com/rechargenews?ref_src=twsrc%5Etfw">@rechargenews</a> <a href="https://t.co/7Zie3wksXL">https://t.co/7Zie3wksXL</a></p>&mdash; Joanna Sampson (@JoSamps92) <a href="https://twitter.com/JoSamps92/status/1549079647383601154?ref_src=twsrc%5Etfw">July 18, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+It would be ideal if the econ system was ready for a pandemic from
+get-go; Lockdown caused savings build-up and supply disruptions,
+globally. A money system prepared for that would have used digital
+money that "prints" UBI monthly for everyone, by default, business
+credit would get doled out of this new money, therefore people always
+have money to keep them afloat. There can never be excessive printing
+bcz printing at pre-decided level is the norm. 
 
 ---
 
-[Link](https://pbs.twimg.com/media/FYBx3jlXgAQRREp?format=jpg&name=small)
+An early demo of what is possible with synthetic fuel generation. Once
+you add CCS on top, you get clean fuel.
 
 ---
 
-'What do you do to help your homies anyway..?' I dabble.. I try to
-help, when I can
+The Allies bombed those synfuel plants, that's why Germany 'ran out of fuel'.
 
 ---
 
-This is a good article on the subject from May 2022, by Isabel Schnabel.
+Reshare
 
-[[-]](https://www.ecb.europa.eu/press/key/date/2022/html/ecb.sp220511_1~e9ba02e127.en.html)
+"[B]efore the War, experts had scoffed at Adolph Hitler's idea that he
+could conquer the world largely because Germany had almost no
+indigenous supplies of petroleum. Hitler, however, had begun
+assembling a large industrial complex to manufacture synthetic
+petroleum from Germany's abundant coal supplies"
 
----
-
-There is a place for the thriftiness in the pol spectrum, it
-contributes to the average. I'm not interested in the spectrum which
-actually indicates failure of analysis. The aim for analysis should be
-to pinpoint the optimality before it is reached.
-
----
-
-When govs decided to protect employment the direct result of that
-would be inflation. No escape from that. The spend-thrift guy has no
-extra analysis, he keeps repeating the same thing over and over.
+[Link](https://www.energy.gov/fe/early-days-coal-research)
 
 ---
 
-Govs around the world wanted to protect businesses, through payment protection
-schemes, encouraging them to keep employees. So many people stayed at home
-getting payments, building up savings. After opening up those savings
-became excess demand which helped a rise in inflation. Since many countries
-(especially in the West) followed similar schemes, global inflation was
-pushed up. Then there was the supply disruptions. 
+To repeat, Germany did not lose WWII because "it ran out of fuel". See above
 
 ---
 
-People's savings during covid increased, much more than the cash payments
-
-```python
-import util; df = util.plot_fred(2010, "PSAVE")
-print ('\n',df.max())
-```
-
-```text
-               PSAVE
-DATE                
-2021-07-01  1726.446
-2021-10-01  1446.674
-2022-01-01  1022.936
-
- PSAVE    4771.973
-dtype: float64
-```
-
-<img width="340" src="https://pbs.twimg.com/media/FYDrwJLXwAACm3e?format=png&name=small"/>
+Getting less disinformation from the CIA these days compared to US/UK
+MSM.. It's a strange world..
 
 ---
 
-"The federal government made direct payments to individuals totaling
-$931 billion to help with COVID-19"
+😂 😂 😂 
 
-[[-]](https://www.gao.gov/products/gao-22-106044)
-
----
-
-That was only part of the story - and a small part in that
-
-"US gov shouldn't have given cash payments to citizens during covid,
-that spurred inflation"
+Politico: "CIA Director: Putin 'too healthy'.. William Burns' comment
+is a blow to Putin's critics who believed the Russian leader was ill"
 
 ---
 
-Stan Lefort feat. JC Sindress - Aravibes \#music
-
-[[-]](https://youtu.be/LY_5nz6NhWE)
+Savings level, goods/services purchasing ratios, China exports, Suez
+canal traffic are all back to pre-pandemic trend. 
 
 ---
 
-NY Times: "Many Democrats — both politicians and voters.. seem more
-focused on divisive cultural issues than on most Americans’ everyday
-concerns, like inflation"
+Al Monitor: "Russia to invest $40 billion in Iran’s oil sector"
+
+---
+
+CNBC: "Russia resumes gas flows to Europe after fears of a total shutdown"
+
+----
+
+Militarization, Russia related issues have been simmering in Italy
+since this April, and now they blew up, destroying the government.
+
+Yet all you hear on MSM (who is pro-war, pro-military industrial
+complex in whatever country) blamed it all on "argumentive Italians"
+messing up another fine government, breaking unity. There was a
+serious issue, a serious disagreement, so the parliamentary make-up
+did its magic.. If pols wanted to keep the gov together, had to offer
+concessions. 
+
+---
+
+F24: "[June 2022] Turbulence returned to Italian politics this week
+thanks to a fallout between the Five Star Movement’s two top
+figures. Party leader Giuseppe Conte opposes Prime Minister Mario
+Draghi’s support for Ukraine. Foreign Minister Luigi di Maio fervently
+backs Draghi’s approach, so he stormed out of Five Star on Tuesday,
+taking dozens of MPs with him and splitting in two the biggest member
+of Italy’s national unity government"
+
+---
+
+Politico: "[April 2022] Italy’s looming fault line.. Conte — who now
+heads the 5Star Movement, the biggest party within Italian Prime
+Minister Mario Draghi’s government — expressed wariness about
+longer-term pledges from Italy and others to boost defense spending
+after Russia’s invasion of Ukraine"
+
+---
+
+Italian government collapsed.. Let's rewind
 
 ---
 
