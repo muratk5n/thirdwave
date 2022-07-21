@@ -44,7 +44,7 @@ including those in the narrow-body market segment"
 ---
 
 "Green \#hydrogen could 'supply 32% of aviation energy demand by
-2050'. Via @rechargenews"
+2050'"
 
 ---
 
