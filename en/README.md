@@ -156,10 +156,6 @@ He mentioned Paul Pelosi’s recent purchase of $NVDA'"
 
 ---
 
-People would work just fine even with UBI. There will be no labor shortage.
-
----
-
 Crises' happen because the system insists on printing new money for
 business credit which can cause bubbles, inflation, wage stagnation,
 unemployment, and everything in between. The transmission mechanism is
