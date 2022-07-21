@@ -157,7 +157,7 @@ bcz printing at pre-decided level is the norm.
 
 ---
 
-That WWII experiemtn was an early demonstration of what is possible
+That WWII experiment was an early demonstration of what is possible
 with synthetic fuels. Once you add CCS on top, you get clean fuel.
 
 ---
