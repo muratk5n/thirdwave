@@ -137,12 +137,6 @@ stations in Europe by 2026"
 
 ---
 
-Jeff Bridges, good actor. But he did coast in some roles..  When he
-made that Oscar speech a lot of people realized he wasn't acting in
-*The Big Lebowski*. The guy really is The Dude, in the flesh.
-
----
-
 "@lindwalk44
 
 You should send him a list of ALL the trades Pelosi has done and how
