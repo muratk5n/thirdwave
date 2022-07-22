@@ -111,7 +111,7 @@ installed capacity of 2.25GW and it spans 14,000 acres"
 
 *Ghost in the Shell*, how come I missed this? Thank you DIY
 recommender. Part *Bladerunner*, part *The Matrix*, a better filmed
-*Johnny Mnemonic*... Fine movie.
+*Johnny Mnemonic*... 
 
 ---
 
