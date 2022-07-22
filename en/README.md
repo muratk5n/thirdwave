@@ -43,8 +43,8 @@ including those in the narrow-body market segment"
 
 ---
 
-"Green \#hydrogen could 'supply 32% of aviation energy demand by
-2050'"
+"Green \#hydrogen could supply [over 30%] of aviation energy demand by
+2050"
 
 ---
 
@@ -182,11 +182,6 @@ petroleum from Germany's abundant coal supplies"
 No, Germany did not lose WWII because "it ran out of fuel (due to not
 having access to oil wells -at home and abroad- to keep its military
 supplied)". See above
-
----
-
-Getting less disinformation from the CIA these days compared to US/UK
-MSM.. It's a strange world..
 
 ---
 

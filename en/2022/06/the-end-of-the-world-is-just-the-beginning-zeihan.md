@@ -42,3 +42,25 @@ stuff. It is part of why India’s Untouchables were/are so
 . . . untouchable—they did the messy work of collecting and
 distributing “night soil.”
 
+<a name='silicon'/>
+
+Silicon
+
+[T]he absolute lowest grade for silicon as an actual industrial input
+is 99.95 percent pure.  Getting there requires a blast furnace, which
+typically requires a lot of coal.  Overall, the process isn’t all that
+complicated—you basically just bake the quartz until anything that is
+not silicon burns away—which means some 90 percent of this firststep
+processing tends to be done in countries like Russia and China,
+countries with a lot of surplus industrial capacity that don’t give
+two shits about environmental issues...
+
+The 99.95 percent purity of “standard” silicon isn’t anywhere enough
+[for solar panels]. A second round in the blast furnace gets the
+silicon up to 99.99999 percent pure. * Round two is far more
+sophisticated than round one’s bake-it-pure. China’s GCL Group is the
+only Chinese entity that can manage such precision at scale, making it
+responsible for one-third of global supply. The rest comes from a
+smattering of developed-world companies.  This pure silicon is
+incorporated into the solar cells that make solar panels do their
+thing, with the assembly work more often than not done in China.
