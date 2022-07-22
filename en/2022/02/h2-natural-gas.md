@@ -1,32 +1,61 @@
 # H2 From Methane (Natural Gas)
 
-[Article](https://www.sciencedirect.com/science/article/pii/S0196890422000413)
+[Article](https://www.energy.gov/eere/fuelcells/hydrogen-production-natural-gas-reforming)
 
-We investigated the costs and GHG emissions of three blue hydrogen
-production technologies. Blue hydrogen cost ranges from $1.69-$2.55
-per kg H2 depending on the production technology.
+Natural gas contains methane (CH4) that can be used to produce
+hydrogen with thermal processes, such as steam-methane reformation and
+partial oxidation.
 
-Autothermal reforming (ATR) with carbon capture and storage (CCS) and
-natural gas decomposition with CCS produce H2 has the lowest and
-highest cost, respectively. Blue hydrogen from ATR process has the
-lowest GHG emissions, 3.91 kg CO2 eq/kg H2. The economics of a steam
-reforming plant depends on the CO2 capture rate.
+Steam-Methane Reforming
 
-Interest in blue hydrogen production technologies is growing. Some
-researchers have evaluated the environmental and/or economic
-feasibility of producing blue hydrogen, but a holistic assessment is
-still needed. Many aspects of hydrogen production have not been
-investigated. There is very limited information in the literature on
-the impact of plant size on production and the extent of carbon
-capture on the cost and life cycle greenhouse gas (GHG) emissions of
-blue hydrogen production through various production pathways. Detailed
-uncertainty and sensitivity analyses have not been included in most of
-the earlier studies.
+Most hydrogen produced today in the United States is made via
+steam-methane reforming, a mature production process in which
+high-temperature steam (700°C–1,000°C) is used to produce hydrogen
+from a methane source, such as natural gas. In steam-methane
+reforming, methane reacts with steam under 3–25 bar pressure (1 bar =
+14.5 psi) in the presence of a catalyst to produce hydrogen, carbon
+monoxide, and a relatively small amount of carbon dioxide. Steam
+reforming is endothermic—that is, heat must be supplied to the process
+for the reaction to proceed.
 
-This study conducts a holistic comparative cost and life cycle GHG
-emissions’ footprint assessment of three natural gas-based blue
-hydrogen production technologies – steam methane reforming (SMR),
-autothermal reforming (ATR), and natural gas decomposition (NGD) to
-address these research gaps.
+Subsequently, in what is called the "water-gas shift reaction," the
+carbon monoxide and steam are reacted using a catalyst to produce
+carbon dioxide and more hydrogen. In a final process step called
+"pressure-swing adsorption," carbon dioxide and other impurities are
+removed from the gas stream, leaving essentially pure hydrogen. Steam
+reforming can also be used to produce hydrogen from other fuels, such
+as ethanol, propane, or even gasoline.
+
+Steam-methane reforming reaction
+
+CH4 + H2O (+ heat) → CO + 3H2
+
+Water-gas shift reaction
+
+CO + H2O → CO2 + H2 (+ small amount of heat)
+
+Partial Oxidation
+
+In partial oxidation, the methane and other hydrocarbons in natural
+gas react with a limited amount of oxygen (typically from air) that is
+not enough to completely oxidize the hydrocarbons to carbon dioxide
+and water. With less than the stoichiometric amount of oxygen
+available, the reaction products contain primarily hydrogen and carbon
+monoxide (and nitrogen, if the reaction is carried out with air rather
+than pure oxygen), and a relatively small amount of carbon dioxide and
+other compounds. Subsequently, in a water-gas shift reaction, the
+carbon monoxide reacts with water to form carbon dioxide and more
+hydrogen.
+
+Partial oxidation is an exothermic process—it gives off heat. The
+process is, typically, much faster than steam reforming and requires a
+smaller reactor vessel. As can be seen in chemical reactions of
+partial oxidation, this process initially produces less hydrogen per
+unit of the input fuel than is obtained by steam reforming of the same
+fuel.
+
+Methane Prolysis by C-Zero
+
+<iframe width="340" src="https://www.youtube.com/embed/JGe8R0N20ps?start=412&end=545" title="How Cheap Hydrogen Could Become the Next Clean Fuel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [[⇪Up]](h2-production.html)
