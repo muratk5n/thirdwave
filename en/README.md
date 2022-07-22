@@ -145,7 +145,7 @@ How China (Actually) Got Rich
 ---
 
 Pandemic-proofing is a good measure for any system's improvement.
-Education can pandemic-proofed by relying on pre-recorded lecture
+Education can be pandemic-proofed by relying on pre-recorded lecture
 videos, less on teachers. Econ, by always paying digital UBI just
 enough to keep ppl afloat. Lack of healthcare wld be acutely felt
 during pandemic, enter single-payer. Etc.
