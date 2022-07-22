@@ -65,7 +65,7 @@ hydrogen and solid carbon in a process known as methane pyrolysis."
 ---
 
 Nordstream 2 has same capacity as Nordstream 1. It is blocked though,
-first by US (due to its persistent strategy around sawing discord in
+first by US (due to its persistent strategy around sowing discord in
 Eurasia), now it won't get turned on due to the war in Ukraine. 1 and
 2 combined gives 130 GW. 
 
