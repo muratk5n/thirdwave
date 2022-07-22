@@ -60,8 +60,6 @@ hydrogen and solid carbon in a process known as methane pyrolysis."
 
 ---
 
-Company named C-Zero, they have blue H2 tech
-
 <iframe width="340" src="https://www.youtube.com/embed/JGe8R0N20ps?start=412&end=545" title="How Cheap Hydrogen Could Become the Next Clean Fuel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
