@@ -138,7 +138,7 @@ Now CH has a debt problem; but hey, gotta have a crisis or two right?
 
 ---
 
-How China (Actually) Got Rich \#music
+How China (Actually) Got Rich
 
 [[-]](https://youtu.be/K_57-OOjoP8?t=60)
 
