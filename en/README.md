@@ -115,7 +115,7 @@ recommender. Part *Bladerunner*, part *The Matrix*, a better filmed
 
 ---
 
-A theory: Crisis' kill the elderly, the weak. The young remain, and
+A theory: Crises kill the elderly, the weak. The young remain, and
 their attention is unleashed elsewhere, creating a more agressive
 society. True or false? Thinking of Germany before WWII, Russia after
 90s..
