@@ -1,6 +1,6 @@
 # Climate Change
 
-[Renewable Fuels are the Solution](renewable-fuel-is-the-solution.html)
+[Clean Fuels are the Solution](clean-fuel-is-the-solution.html)
 
 [Wires vs Pipes](../../2019/03/wirespipes.html)
 
