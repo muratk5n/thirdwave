@@ -14,231 +14,177 @@ Pinned Tweets
 
 ---
 
-H2 Central: "[S]ignificant reductions in emissions can be achieved by
-using blue hydrogen, which is made from natural gas but incorporates
-CO2 capture in its production...
-
-The Sustainable Hydrogen & Recovery of Carbon (SHARC) project [of
-Neste] involves water electrolysis technology for the production of
-green hydrogen as well as carbon capture from existing hydrogen
-production, and the permanent storage of captured CO2. Altogether the
-project is set to achieve a reduction of more than 4 million tons of
-CO2 emissions at the site in the first 10 years of operation..
-
-To reduce these emissions many countries including the US, Canada, UK,
-the Netherlands and Australia are currently investing heavily in blue
-hydrogen technology"
+H2 Fuel News: "Network of hydrogen fuel stations to roll out from
+Sydney to Melbourne.. The $20 million Australian strategy will involve
+constructing at least four refueling locations"
 
 ---
 
-H2 Central: "Isuzu, Toyota, Hino, and CJPT to Promote Planning and
-Development of Mass-Market Light-Duty Fuel Cell Electric Trucks"
+ClassNK: "Tokyo - ClassNK has issued an Approval in Principle (AiP)
+for an ammonia-fueled tugboat (A-Tug) jointly developed by Nippon
+Yusen Kabushiki Kaisha (NYK Line) and IHI Power Systems Co.,
+Ltd.. Ammonia is expected to be used as ship fuel for decarbonization
+since it does not emit CO2 when combusted"
 
 ---
 
-H2 Central: "easyJet and Rolls-Royce announced a ground-breaking new
-partnership, H2ZERO, that will pioneer the development of hydrogen
-combustion engine technology capable of powering a range of aircraft,
-including those in the narrow-body market segment"
+The Advocate: "Premier sells Japan on NSW green hydrogen.. With the
+war in Ukraine driving up oil and gas prices, alternative sources of
+clean energy, particularly green hydrogen, underscore NSW Premier
+Dominic Perrottet's trade mission to Japan...
+
+He hoped his government would have a whopping $270 billion invested
+into the.. industry as the world pushes for decarbonisation..
+
+With a blue Toyota hydrogen-powered vehicle parked behind him, the
+premier said NSW has the scale and infrastructure to supply Japan and
+other markets with 110,000 tonnes of green hydrogen annually by 2030"
 
 ---
 
-"Green \#hydrogen could supply [over 30%] of aviation energy demand by
-2050"
+"@AirbusPRESS
+
+Airbus invests in world’s largest clean hydrogen infrastructure fund
+managed by Hy24"
+
+[[-]](https://fly.airbus.com/3RMcR8h #FIA2022)
 
 ---
 
-"HVN Plus UK to consider mandatory sale of ‘hydrogen ready’ boilers
-from 2026"
+Aha this is the famous methane pyrolysis process.. Nice.
+
+"C-Zero's technology, which was initially developed at the University
+of California Santa Barbara, uses high temperatures to split methane -
+the primary molecule in natural gas and renewable natural gas- into
+hydrogen and solid carbon in a process known as methane pyrolysis."
 
 ---
 
-[Air Liquide Carbon Capture](https://energies.airliquide.com/energies-clean-energy-supply/clean-hydrogen#carbon-capture)
+Company named C-Zero, they have blue H2 tech
+
+<iframe width="340" src="https://www.youtube.com/embed/JGe8R0N20ps?start=412&end=545" title="How Cheap Hydrogen Could Become the Next Clean Fuel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-Bloomberg Law: "FERC Authority Could Speed Hydrogen Build-Out, Manchin
-Says.. The Federal Energy Regulatory Commission should oversee any
-future build-out of hydrogen pipelines, Sen. Joe Manchin, chairman of
-the Senate Energy and Natural Resources Committee, said Tuesday"
+Nordstream 2 has same capacity as Nordstream 1. It is blocked though,
+first by US (due to its persistent strategy around sawing discord in
+Eurasia), now it won't get turned on due to the war in Ukraine. 1 and
+2 combined gives 130 GW. 
 
 ---
 
-H2 Central: "Hydrogen will give US natgas pipes new life in
-carbon-free world... Natural gas companies plan to use hydrogen and
-renewable natural gas (RNG) made from landfills or agricultural waste
-to extend the life of existing pipelines in a future carbon-free
-world, energy executives said at the Reuters Global Energy Transition
-conference on Tuesday"
+As a comparison.. Norstream 1 has a full daily gas capacity of around
+150 million cubic meters. Natural gas has 10.55 kWh per cubic
+meters. `10.55*150*1000000 / (24*1e6)` gives you 65 Gigawatts. 
 
 ---
 
-H2 Central: "Hydra Energy completes hydrogen conversion of [an]
-armoured vehicle..[H]ow many heavy-duty truck fleet owners, let alone
-owners of purpose-built armoured vehicles, can state they are reducing
-CO2 emissions by 40% per truck without reducing truck performance and
-without any financial burden on the fleet operator?'..
+Silicon production for solar panels. Dam
 
-This allows the truck to automatically run on hydrogen up to 40% of
-the time and seamlessly switch to diesel when there’s no more hydrogen
-in the tanks. Hydrogen refuelling is also as quick as diesel and the
-truck will not experience any loss in fuel efficiency, range, power,
-torque, or payload capacity on VEXSL’s routes transporting climate
-sensitive, high-risk, high-value goods for its clients"
+[[-]](2022/06/the-end-of-the-world-is-just-the-beginning-zeihan.html#silicon)
 
 ---
 
-H2 Central: "Everfuel to support testing of Volvo hydrogen
-trucks... Everfuel A/S announce a collaboration with Volvo Group
-whereby the company will support Volvo’s recently announced testing of
-fuel cell trucks by supplying green hydrogen and fuelling solutions
-for zero emission mobility within long-haul trucking"
+Need cheaper, more easily accessible materials.. What's up with those
+perovskites?
 
 ---
 
-H2 Central: "Queensland launches roadmap for hydrogen skills
-development. The Queensland government has launched Australia’s first
-dedicated workforce development plan for the hydrogen industry"
+An area at 56 km2, a square whose side is over 7 kilometers..
+
+Great - let's have more of such plants.
+
+It's a massive area though, trying to think of the materials required
+to make that happen..
 
 ---
 
-H2 Live: "Iveco Bus to equip its fuel cell buses with technology by
-Hyundai’s brand HTWO (and is going to produce buses in Italy)"
+"The Bhadla Solar Park, which is the largest solar power plant in the
+world, is based in Bhadla village, in India's Rajasthan's Jodhpur
+district – a region known for its solar-friendly high
+temperatures. The power plant was commissioned in March 2020 with an
+installed capacity of 2.25GW and it spans 14,000 acres"
 
 ---
 
-Now a fraction of energy production is green... What would happen if
-massive demand is unleashed? Prices could skyrocket. On the cost side
-sure, green production costs less and less, fine. Do we have the
-capacity though, and can we build it in time? That is the question.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Queensland government has started work on Australia’s first hydrogen refuelling facility at one of Brisbane’s busiest stations. The <a href="https://twitter.com/bp_plc?ref_src=twsrc%5Etfw">@bp_plc</a> truck stop at Brisbane Port, a critical link on the east coast hydrogen superhighway.<br><br>Read more here: <a href="https://t.co/u5KwsfAmc1">https://t.co/u5KwsfAmc1</a> <a href="https://t.co/0iKO48hWNf">pic.twitter.com/0iKO48hWNf</a></p>&mdash; Hazer Group Ltd (@hazergroupltd) <a href="https://twitter.com/hazergroupltd/status/1549907444175970304?ref_src=twsrc%5Etfw">July 21, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Talking about price or cost? IMO more green production is needed for
-an effective comparison. 
-
-WSJ: "Green Hydrogen Is Cheaper Than LNG in Europe"
-
----
-
-"US oil refiner [Phillips 66, in a joint venture with Switzerland's H2
-Energy Europea] set to more than double the number of hydrogen filling
-stations in Europe by 2026"
+*Ghost in the Shell*, how come I missed this? Thank you DIY
+recommender. Part *Bladerunner*, part *The Matrix*, a better filmed
+*Johnny Mnemonic*... Fine movie.
 
 ---
 
-"@lindwalk44
-
-You should send him a list of ALL the trades Pelosi has done and how
-they coincide with lawmaker developments.
-
-'@unusual_whales
-
-Josh Hawley has called for a Senate hearing on banning lawmakers from trading stocks.
-
-He mentioned Paul Pelosi’s recent purchase of $NVDA'"
+A theory: Crisis' kill the elderly, the weak. The young remain, and
+their attention is unleashed elsewhere, creating a more agressive
+society. True or false? Thinking of Germany before WWII, Russia after
+90s..
 
 ---
 
-Crises' happen because the system insists on printing new money for
-business credit which can cause bubbles, inflation, wage stagnation,
-unemployment, and everything in between. The transmission mechanism is
-too kludgy.
+Russians still talk about the 90s crisis, why not? It must have been a
+humiliating period for them. The US Great Depression was over 70 years
+ago, still remembered today right? Well the Russian crisis was worse,
+and not that long ago - relatively speaking.
 
 ---
 
-It would be ideal if the econ system was ready for a pandemic from
-get-go; Lockdown caused savings build-up and supply disruptions,
-globally. A money system prepared for that would have used digital
-money that "prints" UBI monthly for everyone, by default, business
-credit would get doled out of this new money, therefore people always
-have money to keep them afloat. There can never be excessive printing
-bcz printing at pre-decided level is the norm. 
+The vid says Russian economic contraction and its effects were worse than
+US's Great Depression.
 
 ---
 
-That WWII experiment was an early demonstration of what is possible
-with synthetic fuels. Once you add CCS on top, you get clean fuel.
+Now CH has a debt problem; but hey, gotta have a crisis or two right? 
 
 ---
 
-The Allies bombed those synfuel plants, that's why Germany ran out of
-fuel, or synfuel.
+How China (Actually) Got Rich \#music
+
+[[-]](https://youtu.be/K_57-OOjoP8?t=60)
 
 ---
 
-Reshare
-
-"[B]efore the War, experts had scoffed at Adolph Hitler's idea that he
-could conquer the world largely because Germany had almost no
-indigenous supplies of petroleum. Hitler, however, had begun
-assembling a large industrial complex to manufacture synthetic
-petroleum from Germany's abundant coal supplies"
-
-[Link](https://www.energy.gov/fe/early-days-coal-research)
+Pandemic-proofing is a good measure for any system's improvement.
+Education can pandemic-proofed by relying on pre-recorded lecture
+videos, less on teachers. Econ, by always paying digital UBI just
+enough to keep ppl afloat. Lack of healthcare wld be acutely felt
+during pandemic, enter single-payer. Etc.
 
 ---
 
-No, Germany did not lose WWII because "it ran out of fuel (due to not
-having access to oil wells -at home and abroad- to keep its military
-supplied)". See above
+The guinea is pretty varied, a mosaic of guinea people
 
 ---
 
-Politico: "CIA Director: Putin 'too healthy'.. William Burns' comment
-is a blow to Putin's critics who believed the Russian leader was ill"
+The right-wing party that is ahead in polls for next election,
+Brotherhood of Italy is headed up by a woman, oddly enough (and she
+looks Anglo). Party wasn't overtly anti-Russia but after the war
+changed their tune somewhat.. The Italian right overall though is not
+RU antogonistic.
 
 ---
 
-CNBC: "A critical shipping lane in Europe’s economic heart is drying
-up in the searing heat.. The water levels in the River Rhine are
-running perilously low in the searing heat the region has been
-experiencing"
+The entire Italian government did not collapse just due to a bleeping
+garbage incinerator I can guarantee that.
 
 ---
 
-Savings level, goods/services purchase ratio, China exports, Suez
-canal traffic are all back to pre-pandemic trend.
+Al Jazeera: "EU launches new legal procedures against UK over Northern Ireland"
 
 ---
 
-Al Monitor: "Russia to invest $40 billion in Iran’s oil sector"
+Finally Asia Minor is doing something useful
 
 ---
 
-CNBC: "Russia resumes gas flows to Europe after fears of a total shutdown"
+Obviously RU got somethimg out of the deal too
 
-----
-
-Militarization, Russia related issues have been simmering in Italy
-since this April, finally it all blew up, destroying the
-government. Yet all you hear on MSM (who is pro-war, pro-military
-industrial complex) blamed it all on "argumentive Italians" messing up
-another fine government, breaking unity. But there was a serious issue
-being discussed, a major disagreement, so the parliamentary make-up
-did its magic.. 
-
----
-
-F24: "[June 2022] Turbulence returned to Italian politics this week
-thanks to a fallout between the Five Star Movement’s two top
-figures. Party leader Giuseppe Conte opposes Prime Minister Mario
-Draghi’s support for Ukraine. Foreign Minister Luigi di Maio fervently
-backs Draghi’s approach, so he stormed out of Five Star on Tuesday,
-taking dozens of MPs with him and splitting in two the biggest member
-of Italy’s national unity government"
-
----
-
-Politico: "[April 2022] Italy’s looming fault line.. Conte — who now
-heads the 5Star Movement, the biggest party within Italian Prime
-Minister Mario Draghi’s government — expressed wariness about
-longer-term pledges from Italy and others to boost defense spending
-after Russia’s invasion of Ukraine"
-
----
-
-Italian government collapsed.. Let's rewind
+Al Jazeera: "Russia, Ukraine poised to sign grain deal at Istanbul
+ceremony.. The anticipated agreement will also 'pave the way for
+Russian food and fertilisers to reach world markets as well' after
+Moscow struggled with exports as a result of Western sanctions"
 
 ---
 
