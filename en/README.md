@@ -158,11 +158,11 @@ The guinea is pretty varied, a mosaic of guinea people
 
 ---
 
-The right-wing party that is ahead in polls for next election,
-Brotherhood of Italy is headed up by a woman, oddly enough (and she
+The right-wing ITN party that is ahead in polls for next election,
+Brotherhood of Italy is headed up by a woman oddly enough (and she
 looks Anglo). Party wasn't overtly anti-Russia but after the war
-changed their tune somewhat.. The Italian right overall though is not
-RU antogonistic.
+changed their tune somewhat.. Their right overall is not RU
+antogonistic.
 
 ---
 
