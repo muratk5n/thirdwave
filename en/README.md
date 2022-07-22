@@ -177,7 +177,7 @@ Finally Asia Minor is doing something useful
 
 ---
 
-Obviously RU got somethimg out of the deal too
+Obviously RU got something out of the deal too
 
 Al Jazeera: "Russia, Ukraine poised to sign grain deal at Istanbul
 ceremony.. The anticipated agreement will also 'pave the way for
