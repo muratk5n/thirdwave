@@ -97,6 +97,14 @@ confirmed, or outright invasion? We don't know.
 
 ---
 
+"@EmmaMAshford
+
+Hang on. Are we seriously considering precipitating an unnecessary
+crisis on Taiwan, at the same time as we’re engaged in a major proxy
+war in Europe, and facing down a potential nuclear crisis with Iran? 🤔"
+
+---
+
 Davis: "Bucking Basic (Western) Beliefs: Ukraine is in far worse shape
 than portrayed – Ukrainian officials claim their forces are ready to
 launch a “million-man offensive” against Russian forces next month,
@@ -122,6 +130,8 @@ control of all of Ukraine east of the Dnieper River. .. Once the
 fighting gets to that point, however, Ukraine will have effectively
 lost the war. The chances of it ever regaining any lost territories
 would be virtually nil"
+
+[[-]](https://www.19fortyfive.com/2022/07/how-the-ukraine-war-could-end-stalemate-or-russia-captures-kharkiv-and-odessa/)
 
 ---
 
