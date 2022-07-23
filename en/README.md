@@ -106,7 +106,7 @@ launch a “million-man offensive” against Russian forces next month,
 while retired U.S. generals talk confidently about the war ending on
 Ukraine’s terms by the end of this year. But an unemotional and
 realistic assessment of the war’s most likely trajectory paints a
-different picture.
+different picture...
 
 Ukraine War Scenario Two: Russian Capture of Kharkiv & Odessa.. 
 
