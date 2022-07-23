@@ -70,7 +70,7 @@ when it was found to be emerging from a cannabis plant"
 
 ---
 
-US needs gun control for the police, and speficially for the
+US needs gun control for the police, and specifically for the
 police. That would change their conduct, interactions with the people
 right? Right now they are probably confronting every situation while
 thinking about using their gun to handle it.
