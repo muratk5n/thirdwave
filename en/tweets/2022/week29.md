@@ -65,7 +65,7 @@ meters, 10.55 * 150 * 1000000 / (24*1e6) equals 65 Gigawatts.
 
 Silicon production for solar panels. Dam
 
-[[-]](2022/06/the-end-of-the-world-is-just-the-beginning-zeihan.html#silicon)
+[[-]](../../2022/06/the-end-of-the-world-is-just-the-beginning-zeihan.html#silicon)
 
 ---
 
