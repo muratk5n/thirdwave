@@ -52,11 +52,6 @@ Northern California"
 
 ---
 
-H2 Fuel News: "$38.7m state funding for hydrogen buses and refuelling
-in California"
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">California is a global leader in energy innovation thanks to companies like <a href="https://twitter.com/Bloom_Energy?ref_src=twsrc%5Etfw">@Bloom_Energy</a> &amp; their new facility in Fremont is creating hundreds of jobs.<br><br>Our state’s clean and reliable energy future depends on the hard work and innovation of California-bred companies. <a href="https://t.co/edfUV0UhES">pic.twitter.com/edfUV0UhES</a></p>&mdash; Office of the Governor of California (@CAgovernor) <a href="https://twitter.com/CAgovernor/status/1549867050465562624?ref_src=twsrc%5Etfw">July 20, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
