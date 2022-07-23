@@ -194,12 +194,12 @@ dtype: float64
 
 <a name='primary'/>
 
-### Primary Energy Consumption
+### Global Primary Energy Consumption
 
-Globally, in terrawatt hours. "Primary energy comprises
-commercially-traded fuels, including modern renewables. Energy from
-all sources of non-fossil power generation is accounted for on an
-input-equivalent basis".
+In terrawatt hours. "Primary energy comprises commercially-traded
+fuels, including modern renewables. Energy from all sources of
+non-fossil power generation is accounted for on an input-equivalent
+basis".
 
 ```python
 import pandas as pd
@@ -223,6 +223,56 @@ Name: primary_twh, dtype: float64
 ```
 
 ![](world-energy-combined.png)
+
+<a name='primcountry'/>
+
+### Per Country Energy Consumption
+
+Units are Gigawatts (not GWh or TWh, indicating the necessary power
+input required at each instant to keep a country supplied)
+
+```python
+import pandas as pd
+df = pd.read_csv('bp-stats-review-2022-consolidated-dataset-panel-format.csv')
+year = df.Year.max()
+df = df[df.Year == year]
+df = df.set_index('Country')
+df = df[['primary_ej']]
+df['primary_twh'] = df.primary_ej * 277.778
+df = df['primary_twh'].sort_values(ascending=False).dropna()
+df = df[df.index.str.contains('Total')==False]
+df = (df*1000 / (365*24)).astype(int)
+df.head(20)
+```
+
+```text
+Out[1]: 
+Country
+China                 4998
+US                    2948
+India                 1123
+Russian Federation     992
+Japan                  562
+Canada                 441
+Germany                400
+South Korea            398
+Brazil                 398
+Iran                   386
+Saudi Arabia           343
+France                 298
+Indonesia              263
+Other Africa           247
+United Kingdom         227
+Turkey                 216
+Mexico                 215
+Italy                  201
+Australia              181
+Spain                  177
+Name: primary_twh, dtype: int64
+```
+
+`
+
 
 <a name='usgasoline'/>
 

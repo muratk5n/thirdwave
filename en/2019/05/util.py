@@ -50,3 +50,24 @@ def get_eia_week(series):
     df = df.set_index('Date')
     df = df.sort_index()
     return df
+
+def get_bp_country(country):
+    fin = 'bp-stats-review-2022-consolidated-dataset-panel-format.csv'
+    df = pd.read_csv(fin)
+    df = df[df.Country == 'Germany']
+    df = df.set_index('Year')
+    df = df[df.index > 1980]
+    df = df[['wind_twh','solar_twh','oilprod_kbd','nuclear_twh','hydro_twh','gasprod_ej','coalprod_ej','coalcons_ej','gascons_ej','oilcons_ej']]
+    df['oil_twh'] = df.oilprod_kbd * 365 * 1700 * 1000 / 1e9
+    df['coal_twh'] = df.coalprod_ej * 277.778
+    df['gasprod_twh'] = df.gasprod_ej * 277.778
+    df['gascons_twh'] = df.gascons_ej * 277.778
+    df['oil_cons_twh'] = df.oilcons_ej * 277.778
+    df['coal_imp_twh'] = df['coalcons_ej'] * 277.778 - df.coal_twh
+    cols = [x for x in df.columns if '_twh' in x]
+    df = df[cols].fillna(0)
+    df2 = df[cols].tail(1).unstack()
+    df2 = (df2 / df2.sum())*100.0
+    df2 = df2.dropna()
+    return df2
+
