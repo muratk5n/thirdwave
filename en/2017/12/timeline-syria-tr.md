@@ -2,6 +2,8 @@
 
 * 2008
   * 14/03: A court case to close the governing party AK starts, the Constitutional Court is one vote short to ban the party. It is widey speculated that the army chief at the time, Basbug, convinced gov officials behind the scenes for CC to change its mind.
+* 2009
+  * 17/12: Obama announces troop surge in Afghanistan
 * 2010
   * 05/08: Once in a century draught in Russia devastated wheat crops forcing Russia announce a ban on wheat export. 80% of Middle East's wheat came from Russia.
   * 18/12: The Arab Spring is sparked by the first protests that occurred in Tunisia, following a street vendor's self-immolation

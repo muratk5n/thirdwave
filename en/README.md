@@ -4,7 +4,7 @@
 
 Pinned Tweets
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">EU launches 5.4-billion-euro hydrogen project with Alstom, Daimler, others <a href="https://t.co/X0j7xLCuJr">https://t.co/X0j7xLCuJr</a> <a href="https://t.co/IEOy9wYMPz">pic.twitter.com/IEOy9wYMPz</a></p>&mdash; Reuters (@Reuters) <a href="https://twitter.com/Reuters/status/1547931774629470208?ref_src=twsrc%5Etfw">July 15, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<iframe width="95%" src="https://www.youtube.com/embed/JGe8R0N20ps?start=412&end=545" title="How Cheap Hydrogen Could Become the Next Clean Fuel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -14,175 +14,114 @@ Pinned Tweets
 
 ---
 
-H2 Fuel News: "Network of hydrogen fuel stations to roll out from
-Sydney to Melbourne.. The $20 million Australian strategy will involve
-constructing at least four refueling locations"
+H2 Central: "[T]he Wyoming Energy Authority has released a roadmap
+that outlines the path to building a hydrogen economy in the state...
+'Hydrogen’s role as a decarbonized energy carrier with unprecedented
+transportation and consumption utility makes this a truly
+transformational opportunity for the entire state.'
+
+Hydrogen can be produced from a wide variety of feedstocks – including
+coal, natural gas, wind and even nuclear power – bringing the
+potential to help sustain the wide variety of Wyoming’s abundant
+natural reserves. In addition, hydrogen’s flexible structure can be
+converted and transported in various ways, allowing Wyoming to utilize
+its existing infrastructure, including an extensive natural gas
+transmission system.
+
+Hydrogen can also be added to existing raw low-value energy sources to
+significantly increase the resiliency of Wyoming’s value chain and
+provide processing opportunities within the state"
 
 ---
 
-ClassNK: "Tokyo - ClassNK has issued an Approval in Principle (AiP)
-for an ammonia-fueled tugboat (A-Tug) jointly developed by Nippon
-Yusen Kabushiki Kaisha (NYK Line) and IHI Power Systems Co.,
-Ltd.. Ammonia is expected to be used as ship fuel for decarbonization
-since it does not emit CO2 when combusted"
+H2 Central: "While scaling up the production of electrolyser systems is paramount,
+the importance of how green hydrogen will be transported cannot be
+overstated...
+
+For distances below 1,500km, transporting hydrogen as a gas via
+pipeline is “generally the cheapest delivery option”; above 1,500km,
+shipping hydrogen as ammonia or an LOHC may be more cost-effective, it
+said, citing data from the International Energy Agency’s ‘The Future
+of hydrogen – Seizing today’s opportunities’ report"
 
 ---
 
-The Advocate: "Premier sells Japan on NSW green hydrogen.. With the
-war in Ukraine driving up oil and gas prices, alternative sources of
-clean energy, particularly green hydrogen, underscore NSW Premier
-Dominic Perrottet's trade mission to Japan...
-
-He hoped his government would have a whopping $270 billion invested
-into the.. industry as the world pushes for decarbonisation..
-
-With a blue Toyota hydrogen-powered vehicle parked behind him, the
-premier said NSW has the scale and infrastructure to supply Japan and
-other markets with 110,000 tonnes of green hydrogen annually by 2030"
+H2 Central: "Humboldt Transit Authority Awarded $38.7 Million Grant to
+Buy Fleet of Hydrogen Powered Buses, Enhance Connectivity Across
+Northern California"
 
 ---
 
-"@AirbusPRESS
-
-Airbus invests in world’s largest clean hydrogen infrastructure fund
-managed by Hy24"
-
-[[-]](https://fly.airbus.com/3RMcR8h #FIA2022)
+H2 Fuel News: "$38.7m state funding for hydrogen buses and refuelling
+in California"
 
 ---
 
-Aha this is the famous methane pyrolysis process.. Nice.
-
-"C-Zero's technology, which was initially developed at the University
-of California Santa Barbara, uses high temperatures to split methane -
-the primary molecule in natural gas and renewable natural gas- into
-hydrogen and solid carbon in a process known as methane pyrolysis."
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">California is a global leader in energy innovation thanks to companies like <a href="https://twitter.com/Bloom_Energy?ref_src=twsrc%5Etfw">@Bloom_Energy</a> &amp; their new facility in Fremont is creating hundreds of jobs.<br><br>Our state’s clean and reliable energy future depends on the hard work and innovation of California-bred companies. <a href="https://t.co/edfUV0UhES">pic.twitter.com/edfUV0UhES</a></p>&mdash; Office of the Governor of California (@CAgovernor) <a href="https://twitter.com/CAgovernor/status/1549867050465562624?ref_src=twsrc%5Etfw">July 20, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-<iframe width="340" src="https://www.youtube.com/embed/JGe8R0N20ps?start=412&end=545" title="How Cheap Hydrogen Could Become the Next Clean Fuel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+The sky cld get even more pink if you smoked it
+
+Hindustan Times: "Sky turns pink in Australia town, locals think of
+aliens. What actually happened.. Locals, fascinated by the phenomenon,
+considered outworldly possibilities. But they were fairly disappointed
+when it was found to be emerging from a cannabis plant"
 
 ---
 
-Nordstream 2 has same capacity as Nordstream 1. It is blocked though,
-first by US (due to its persistent strategy around sowing discord in
-Eurasia), now it won't get turned on due to the war in Ukraine. 1 and
-2 combined gives 130 GW. 
+US needs gun control for the police, and speficially for the
+police. That would change their conduct, interactions with the people
+right? Right now they are probably confronting every situation while
+thinking about using their gun to handle it.
+
+"Denver police opened fire into a crowd, injuring 6 bystanders, while
+going after a suspect who never fired a gun"
 
 ---
 
-As a comparison.. Norstream 1 has a full daily gas capacity of around
-150 million cubic meters. Natural gas has 10.55 kWh per cubic
-meters, 10.55 * 150 * 1000000 / (24*1e6) equals 65 Gigawatts. 
+Baba Vanga predictions.. "a psycic seer" who died 1996.. Two of the
+2022 predictions came true apparently, floods and drought. Now let's
+assume this psycic truly had some skill, some wires crossed in the
+"simulation" and information is leaking and that is what's being
+reported...
+
+But the predictions are still open to interpretation. Like one that
+said "the Russian city of Kursk would be covered with water and the
+whole world will weep over it".  Nothing happened to the city, but the
+the Kursk *submarine* sank and 118 military personnel died. So a name
+and a general nationality was right, the sinking, but the scale is
+completely off. How do we treat other predictions now? One mentions
+alien invasion, does that simply mean reports of alien presence being
+confirmed, or outright invasion? We don't know.
 
 ---
 
-Silicon production for solar panels. Dam
+Davis: "Bucking Basic (Western) Beliefs: Ukraine is in far worse shape
+than portrayed – Ukrainian officials claim their forces are ready to
+launch a “million-man offensive” against Russian forces next month,
+while retired U.S. generals talk confidently about the war ending on
+Ukraine’s terms by the end of this year. But an unemotional and
+realistic assessment of the war’s most likely trajectory paints a
+different picture.
 
-[[-]](2022/06/the-end-of-the-world-is-just-the-beginning-zeihan.html#silicon)
+Ukraine War Scenario Two: Russian Capture of Kharkiv & Odessa.. 
 
----
+If Kharkiv falls, Ukraine will have even fewer troops left with which
+to defend Odessa. If Russia were to mobilize enough men, it is
+conceivable that they could invest Odessa even before Kharkiv was
+completely captured. But whether simultaneously or sequentially, if
+Russia moved on Odessa they would almost certainly employ the same
+strategy they’ve used countless times already in this war, surround
+the city, cut off its defenders, and then crush the city with
+saturating firepower.
 
-Need cheaper, more easily accessible materials.. What's up with those
-perovskites?
-
----
-
-An area at 56 km2, a square whose side is over 7 kilometers..
-
-Great - let's have more of such plants.
-
-It's a massive area though, trying to think of the materials required
-to make that happen..
-
----
-
-"The Bhadla Solar Park, which is the largest solar power plant in the
-world, is based in Bhadla village, in India's Rajasthan's Jodhpur
-district – a region known for its solar-friendly high
-temperatures. The power plant was commissioned in March 2020 with an
-installed capacity of 2.25GW and it spans 14,000 acres"
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Queensland government has started work on Australia’s first hydrogen refuelling facility at one of Brisbane’s busiest stations. The <a href="https://twitter.com/bp_plc?ref_src=twsrc%5Etfw">@bp_plc</a> truck stop at Brisbane Port, a critical link on the east coast hydrogen superhighway.<br><br>Read more here: <a href="https://t.co/u5KwsfAmc1">https://t.co/u5KwsfAmc1</a> <a href="https://t.co/0iKO48hWNf">pic.twitter.com/0iKO48hWNf</a></p>&mdash; Hazer Group Ltd (@hazergroupltd) <a href="https://twitter.com/hazergroupltd/status/1549907444175970304?ref_src=twsrc%5Etfw">July 21, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-*Ghost in the Shell*, how come I missed this? Thank you DIY
-recommender. Part *Bladerunner*, part *The Matrix*, a better filmed
-*Johnny Mnemonic*... 
-
----
-
-A theory: Crises kill the elderly, the weak. The young remain, and
-their attention is unleashed elsewhere, creating a more agressive
-society. True or false? Thinking of Germany before WWII, Russia after
-90s..
-
----
-
-Russians still talk about the 90s crisis, why not? It must have been a
-humiliating period for them. The US Great Depression was over 70 years
-ago, still remembered today right? Well the Russian crisis was worse,
-and not that long ago - relatively speaking.
-
----
-
-The vid says Russian economic contraction and its effects were worse than
-US's Great Depression.
-
----
-
-Now CH has a debt problem; but hey, gotta have a crisis or two right? 
-
----
-
-How China (Actually) Got Rich
-
-[[-]](https://youtu.be/K_57-OOjoP8?t=60)
-
----
-
-Pandemic-proofing is a good measure for any system's improvement.
-Education can be pandemic-proofed by relying on pre-recorded lecture
-videos, less on teachers. Econ, by always paying digital UBI just
-enough to keep ppl afloat. Lack of healthcare wld be acutely felt
-during pandemic, enter single-payer. Etc.
-
----
-
-The guinea is pretty varied, a mosaic of guinea people
-
----
-
-The right-wing ITN party that is ahead in polls for next election,
-Brotherhood of Italy is headed up by a woman oddly enough (and she
-looks Anglo). Party wasn't overtly anti-Russia but after the war
-changed their tune somewhat.. Their right overall is not RU
-antogonistic.
-
----
-
-The entire Italian government did not collapse just due to a bleeping
-garbage incinerator I can guarantee that.
-
----
-
-Al Jazeera: "EU launches new legal procedures against UK over Northern Ireland"
-
----
-
-Finally Asia Minor is doing something useful
-
----
-
-Obviously RU got benefits out of the deal too
-
-Al Jazeera: "Russia, Ukraine poised to sign grain deal at Istanbul
-ceremony.. The anticipated agreement will also 'pave the way for
-Russian food and fertilisers to reach world markets as well' after
-Moscow struggled with exports as a result of Western sanctions"
+If Russia were to successfully take both Kharkiv and Odessa (after
+having taken the Donbas before), then Russia would essentially be in
+control of all of Ukraine east of the Dnieper River. .. Once the
+fighting gets to that point, however, Ukraine will have effectively
+lost the war. The chances of it ever regaining any lost territories
+would be virtually nil"
 
 ---
 
