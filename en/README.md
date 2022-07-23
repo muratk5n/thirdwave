@@ -56,7 +56,7 @@ Northern California"
 
 ---
 
-The sky cld get even more pink if you smoked it
+The sky cld get even more pink if you smoked their product
 
 Hindustan Times: "Sky turns pink in Australia town, locals think of
 aliens. What actually happened.. Locals, fascinated by the phenomenon,
