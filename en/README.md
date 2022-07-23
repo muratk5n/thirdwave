@@ -92,8 +92,8 @@ whole world will weep over it".  Nothing happened to the city, but the
 the Kursk *submarine* sank and 118 military personnel died. So a name
 and a general nationality was right, the sinking, the scale is
 completely off. How do we treat other predictions now? One mentions
-alien invasion, does that simply mean reports of alien presence being
-confirmed, or outright invasion? We don't know.
+alien invasion, does that simply mean alien signals being confirmed,
+or outright invasion? We don't know.
 
 ---
 
