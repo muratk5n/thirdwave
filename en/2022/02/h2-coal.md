@@ -1,5 +1,13 @@
 # H2 Production From Coal / CCS
 
+The process was described to me by a professor in the field as such:
+
+"Make syngas through gasification (H2 + CO), then water gas shift (H2O
++ CO --> H2 + CO2) so then what you have at the end is H2 + CO2. You
+can either capture the CO2 with an amine leaving H2 with some CO2 in
+it, or you use pressure swing adsorption to capture H2 at high purity,
+leaving CO2 with H2 in it"
+
 IEAGHG Report - [PDF](https://ieaghg.org/docs/General_Docs/Reports/2014-03.pdf)
 
 *The IEA Greenhouse Gas R&D Programme (IEAGHG) was formed in 1991,
@@ -64,11 +72,6 @@ hydrogen is 16.1 €/GJ LHV basis (13.6 €/GJ HHV).
 [PDF](https://www.researchgate.net/publication/228537942_Prospects_for_building_a_hydrogen_energy_infrastructure)
 
 ![](h2-coal-03.png)
-
-
-
-
-
 
 
 [[⇪Up]](h2-production.html)

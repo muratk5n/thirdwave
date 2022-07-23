@@ -57,7 +57,7 @@ Eurasia), now it won't get turned on due to the war in Ukraine. 1 and
 
 ---
 
-As a comparison.. Norstream 1 has a full daily gas capacity of around
+As a comparison.. Nordstream 1 has a full daily gas capacity of around
 150 million cubic meters. Natural gas has 10.55 kWh per cubic
 meters, 10.55 * 150 * 1000000 / (24*1e6) equals 65 Gigawatts. 
 

@@ -271,9 +271,6 @@ Spain                  177
 Name: primary_twh, dtype: int64
 ```
 
-`
-
-
 <a name='usgasoline'/>
 
 ### US Retail Gasoline Prices
