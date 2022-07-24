@@ -168,6 +168,8 @@
 
 [BDS](12/bds.html)
 
+[Clean Fuels are the Solution](12/clean-fuel-is-the-solution.html)
+
 [Climate Change](12/climate.html)
 
 [Forest Fire Historical Data](12/fires-history.html)
@@ -177,8 +179,6 @@
 [Da Collapse, Macro Investing, McCollough](12/macro-mccollough.html)
 
 [](12/quads.html)
-
-[Renewable Fuels are the Solution](12/renewable-fuel-is-the-solution.html)
 
 [The Road to Oblivion](12/the-road-to-oblivion.html)
 

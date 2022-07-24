@@ -14,7 +14,7 @@
 
 [H2 Numbers](../../2022/02/base-energy-numbers.html)
 
-[Carbon Capture](../../2019/01/carboncapture.html)
+[Carbon Capture](../../2022/02/h2-co2-capture.html)
 
 [The Sunshine Map](https://pbs.twimg.com/media/FCtre5sWEAgFFp9?format=png&name=small)
 

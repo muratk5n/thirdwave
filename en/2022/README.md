@@ -10,6 +10,8 @@
 
 [Energy Production Costs, LCOH, LCOE](02/costs-lcoe.html)
 
+[Carbon Capture](02/h2-co2-capture.html)
+
 [H2 Production From Coal / CCS](02/h2-coal.html)
 
 [H2 Production via Electrolysis](02/h2-electrolysis.html)
@@ -17,6 +19,8 @@
 [H2 From Methane (Natural Gas)](02/h2-natural-gas.html)
 
 [H2 Production Methods](02/h2-production.html)
+
+[H2 Safety](02/h2-safety.html)
 
 [Thermo-Chemical Water Splitting](02/h2-thermo-chemical.html)
 
@@ -40,7 +44,11 @@
 
 [Population Growth, Demographics, Economics](06/population-demographics-growth.html)
 
+[The End of the World is Just the Beginning](06/the-end-of-the-world-is-just-the-beginning-zeihan.html)
+
 [The H2 Revolution](06/the-h2-revolution-alvera.html)
 
 [Vertical Farming](06/vertical-farming.html)
+
+[UK/US Claims on Putin's Health](07/putin-health.html)
 

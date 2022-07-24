@@ -24,6 +24,8 @@
 
 [Conflict Statistics](05/confstats.html)
 
+[Drugs](05/drugs.html)
+
 [Energy Stats](05/energstats.html)
 
 [Natural Disasters](05/natdisaster.html)
@@ -36,7 +38,7 @@
 
 [Economy, Calculations, Data](05/stats.html)
 
-[US Bases and Navy Locations](05/usmil.html)
+[US Military](05/usmil.html)
 
 [Bancor](06/bancor.html)
 
