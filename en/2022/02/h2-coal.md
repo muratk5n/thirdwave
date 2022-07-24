@@ -1,6 +1,7 @@
 # H2 Production From Coal / CCS
 
-The process was described to me by a professor in the field as such:
+One process through gasification was described to me by a researcher
+as such:
 
 "Make syngas through gasification (H2 + CO), then water gas shift (H2O
 + CO --> H2 + CO2) so then what you have at the end is H2 + CO2. You
@@ -16,7 +17,7 @@ International Energy Agency (IEA) network*
 
 In recent years IEAGHG has undertaken a series of studies on the
 performance and costs of plants incorporating the three leading CO2
-capture technologies: post combustion, oxy- combustion and
+capture technologies: post combustion, oxy-combustion and
 pre-combustion capture...
 
 The study also assesses the following hydrogen production plants, all
@@ -33,10 +34,10 @@ fired boiler.  All of these baseline plants have 90% CO2 capture...
 
 This study assessed the technical feasibility and costs of achieving a
 higher level of CO2 capture (around 98%) in oxy-combustion and IGCC
-plants. In the oxy- combustion case this was achieved by passing the
-vent gas from CO2 purification through a membrane separation
-unit. For gasification based plants an additional MDEA solvent
-scrubbing stage was added after the Selexol scrubber...
+plants. In the oxy-combustion case this was achieved by passing the
+vent gas from CO2 purification through a membrane separation unit. For
+gasification based plants an additional MDEA solvent scrubbing stage
+was added after the Selexol scrubber...
 
 A summary of the performance of the baseline power plants with and
 without capture is given in [table below]
@@ -75,5 +76,3 @@ hydrogen is 16.1 €/GJ LHV basis (13.6 €/GJ HHV).
 
 
 [[⇪Up]](h2-production.html)
-
-

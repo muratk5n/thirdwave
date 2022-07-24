@@ -14,6 +14,29 @@ import urllib.request as urllib2
 from io import BytesIO
 import pandas_ta as ta
 
+def get_bp_country(country):
+    fin = '../../2019/05/bp-stats-review-2022-consolidated-dataset-panel-format.csv'
+    df = pd.read_csv(fin)
+    df = df[df.Country == country]
+    df = df.set_index('Year')
+    df = df[df.index > 1980]
+    
+    df = df[['wind_twh','solar_twh','oilprod_kbd','nuclear_twh','hydro_twh',\
+             'gasprod_ej','coalprod_ej','coalcons_ej','gascons_ej','oilcons_ej']]
+
+    df['oil_twh'] = df.oilprod_kbd * 365 * 1700 * 1000 / 1e9
+    df['coal_twh'] = df.coalprod_ej * 277.778
+    df['gasprod_twh'] = df.gasprod_ej * 277.778
+    df['oil_imp_twh'] = (df.oilcons_ej * 277.778) - df.oil_twh.fillna(0)
+    df['gas_imp_twh'] = (df.gascons_ej * 277.778) - df.gasprod_twh.fillna(0)
+    df['coal_imp_twh'] = (df.coalcons_ej * 277.778) - df.coal_twh.fillna(0)
+    cols = [x for x in df.columns if '_twh' in x]
+    df = df[cols].fillna(0)
+    df2 = df[cols].tail(1).unstack()
+    df2 = (df2 / df2.sum())*100.0
+    df2 = df2.dropna()
+    return df2
+
 def plot_fred(year, series):
     today = datetime.datetime.now()
     start=datetime.datetime(year, 1, 1)
