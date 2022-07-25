@@ -31,7 +31,7 @@ Silicon production, solar panels.
 
 ---
 
-For countries, esp. developing, focusing on Coal-H2+CCS route wld make
+For countries, esp. developing, focusing on Coal-H2+CCS route makes
 sense; most countries have coal, no problem securing supply. Can scale
 output up and down wout being restricted by land availability,
 panels. The rest would be perfecting the chemistry, optimizing
