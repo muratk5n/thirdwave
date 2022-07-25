@@ -177,8 +177,10 @@ I dont think that's true... Checking the BP file
 ---
 
 Producer can send clean fuel over pipes, if natgas is sent it is
-converted at the receiving end. Ammonia shipping is better, if you
-ship LNG, a plant at the port does the conversion. #H2
+converted at the receiving end.
+
+Ammonia is sent via ship, if LNG is used, a plant at the port does the
+conversion. #H2
 
 ---
 
