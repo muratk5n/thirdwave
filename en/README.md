@@ -127,8 +127,9 @@ ELECTRICITY DOES NOT EQUAL ALL ENERGY
 
 ---
 
-Wind and solar is about 6% of their energy consumption. the `_imp` columns
-are imports for that energy sources. The right column is percentages.
+Wind and solar is about 6% of their energy consumption. the `_imp`
+columns are imports for that energy source. The right column is
+in percentage.
 
 ```python
 import util; util.get_bp_country('Germany')
