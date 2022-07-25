@@ -246,9 +246,9 @@ The Black Keys - Wild Child \#music
 
 ---
 
-Bcz I saw vids of chefs making the pizza and while they placed the
-sauce they only referenced the tomatoes, sometimes where they are
-from, but that was it.
+I saw vids of chefs making the pizza and while they add the sauce they
+only referenced the tomatoes, sometimes where they are from, but that
+was it.
 
 ---
 
@@ -262,7 +262,7 @@ research, I found that my suspicion was correct"
 
 ---
 
-The sauce is only tomatoes it seems, nothing crazy.
+The sauce is only tomatoes looks like, nothing crazy.
 
 ---
 
@@ -270,8 +270,8 @@ Neapolitan pizza looks easy to make
 
 ---
 
-Lula is doing good in the polls. I'm hoping he wins and the left is
-back in power.
+Lula is looking fine in the polls.. Hopefully he wins and the left is
+back in power in Brasil.
 
 ---
 
