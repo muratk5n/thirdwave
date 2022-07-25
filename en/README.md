@@ -245,7 +245,7 @@ research, I found that my suspicion was correct"
 
 ---
 
-The sauce is only tomatoes looks like, nothing crazy.
+The sauce is only tomatoes IMO, nothing crazy.
 
 ---
 
