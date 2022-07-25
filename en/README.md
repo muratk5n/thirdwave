@@ -258,16 +258,6 @@ back in power in Brasil.
 
 ---
 
-Brutal
-
-"@ByDonkeys
-
-This is Brexit"
-
-[[-]](https://twitter.com/ByDonkeys/status/1551138151934066688)
-
----
-
 ## For Members
 
 [Link](https://thirdwave-members.herokuapp.com)
