@@ -181,7 +181,7 @@ Let's not forget how these muckers cheated with their emissions before.
 
 ---
 
-Who has two middle fingers and is glad to hear that news? This guy 🖕😊🖕 
+Who has two middle fingers and happy to hear that news? This guy 🖕😊🖕 
 
 ---
 
