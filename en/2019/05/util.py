@@ -6,7 +6,7 @@ from datetime import date
 
 def get_yahoofin(year,ticker):
     end = datetime.datetime.now()
-    start = datetime.datetime(1980, 1, 1)
+    start = datetime.datetime(year, 1, 1)
     start = int(timelib.mktime(start.timetuple()))
     end = int(timelib.mktime(end.timetuple()))
     base_fin_url = "https://query1.finance.yahoo.com/v7/finance/download"
