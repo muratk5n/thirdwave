@@ -160,7 +160,7 @@ Report-style action sci-fi starring Hugh Jackman"
 
 ---
 
-[Fires](../../2018/12/fires-history.html)
+[Fires](../../2019/05/natdisaster.html#fires)
 
 ---
 

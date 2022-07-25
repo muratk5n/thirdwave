@@ -26,7 +26,7 @@
 
 [Historical Carbon Emissions](../../2021/07/historical-carbon-emissions.html)
 
-[Fires](fires-history.html)
+[Fires](../../2019/05/natdisaster.html#fires)
 
 [Oil and Gas](../../2019/05/oilgas.html)
 
