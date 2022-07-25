@@ -459,20 +459,7 @@ Dollar
 <a name="dollar"></a>
 
 ```python
-import pandas as pd, datetime, time as timelib
-import urllib.request as urllib2, io
-
-end = datetime.datetime.now()
-start = datetime.datetime(1980, 1, 1)
-start = int(timelib.mktime(start.timetuple()))
-end = int(timelib.mktime(end.timetuple()))
-
-base_fin_url = "https://query1.finance.yahoo.com/v7/finance/download"
-url = base_fin_url + "/DX-Y.NYB?period1=" + str(start) + "&period2=" + str(end) + "&interval=1d&events=history&includeAdjustedClose=true"
-r = urllib2.urlopen(url).read()
-file = io.BytesIO(r)
-df = pd.read_csv(file,index_col='Date',parse_dates=True)['Adj Close']
-df = df.interpolate()
+import util; df = util.get_yahoofin(1980, "DX-Y.NYB").interpolate()
 print (df.tail(4))
 m,s = df.mean(),df.std()
 print (np.array([m-s,m+s]).T)
@@ -483,12 +470,12 @@ plt.savefig('dollar.png')
 
 ```text
 Date
-2022-06-14    105.519997
-2022-06-15    105.160004
-2022-06-16    103.629997
-2022-06-17    104.650002
-Name: Adj Close, dtype: float64
-[ 80.8216839  111.41399208]
+2022-07-21    106.910004
+2022-07-22    106.730003
+2022-07-24    106.582000
+2022-07-25    106.433998
+Name: Close, dtype: float64
+[ 80.85641886 111.42774855]
 ```
 
 ![](dollar.png)
@@ -640,17 +627,7 @@ DATE
 VIX
 
 ```python
-import pandas as pd, datetime, time as timelib
-import urllib.request as urllib2, io
-end = datetime.datetime.now()
-start=datetime.datetime(2000, 1, 1)
-start = int(timelib.mktime(start.timetuple()))
-end = int(timelib.mktime(end.timetuple()))
-base_fin_url = "https://query1.finance.yahoo.com/v7/finance/download"
-url = base_fin_url + "/^VIX?period1=" + str(start) + "&period2=" + str(end) + "&interval=1d&events=history&includeAdjustedClose=true"
-r = urllib2.urlopen(url).read()
-file = io.BytesIO(r)
-df = pd.read_csv(file,index_col='Date',parse_dates=True)['Adj Close']
+import util; df = util.get_yahoofin(2000,"^VIX")
 df.plot()
 plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
 plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
@@ -661,14 +638,14 @@ plt.savefig('vix.png')
 
 ```text
 Date
-2022-05-20    29.430000
-2022-05-23    28.480000
-2022-05-24    29.450001
-2022-05-25    28.370001
-2022-05-26    27.500000
-2022-05-27    25.719999
-2022-05-31    26.190001
-Name: Adj Close, dtype: float64
+2022-07-15    24.230000
+2022-07-18    25.299999
+2022-07-19    24.500000
+2022-07-20    23.879999
+2022-07-21    23.110001
+2022-07-22    23.030001
+2022-07-25    23.840000
+Name: Close, dtype: float64
 ```
 
 ![](vix.png)
