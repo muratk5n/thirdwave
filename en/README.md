@@ -94,7 +94,7 @@ dtype: float64
 
 Let's remember the numbers, Nordstream is 65 GW each, Fukushima (was)
 5 GW, the largest solar plant is 2.25GW, 1 GW is considered quite
-large for solar, Ghawar oil field output is 269 GIGAWATTS.
+large for solar, Ghawar oil field output is 269 WG.
 
 ---
 
