@@ -21,7 +21,7 @@ installed global wind and solar capacity"
 
 ---
 
-FT: "[I]n the US, the ‘real money’ is still betting on blue [hydrogen]"
+FT: "[I]n the US, the ‘real money’ is still betting on blue [H2]"
 
 ---
 
