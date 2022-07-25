@@ -226,10 +226,10 @@ Name: primary_twh, dtype: float64
 
 <a name='primcountry'/>
 
-### Per Country Energy Consumption
+### Energy Consumption Per Country
 
-Units are Gigawatts (not GWh or TWh, indicating the necessary power
-input required at each instant to keep a country supplied)
+For 2021. Units are Gigawatts (not GWh or TWh, shows the necessary
+power input required at each instant).
 
 ```python
 import pandas as pd

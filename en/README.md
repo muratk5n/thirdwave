@@ -125,8 +125,9 @@ due to energy savings... Germany is at 400 Gigawatts.
 
 ---
 
-Energy (all energy) consumption per country (in GW); annual TWh
-consumption is divided by 365*24, gives wattage
+Energy (all energy) consumption per country (in GW)
+
+Annual TWh consumption is divided by 365*24, gives wattage
 
 [[-]](2019/05/energstats.html#primcountry)
 
