@@ -46,9 +46,6 @@ for y in [2000,2005,2010,2015,2020]:
 2021 : 23078
 ```
 
-The number of fires have been increasing each period, in two they
-actually doubled.
-
 <a name='equakes'/>
 
 ### Earthquake Stats
