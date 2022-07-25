@@ -330,7 +330,16 @@ df.plot(); plt.savefig('lng.png')
 
 ![](lng.png)
 
-<a name='lumber'/>
+<a name='coal'/>
+
+### Coal
+
+```python
+import util; df = util.get_yahoofin(2018,"MTF=F").interpolate();
+df.plot(); plt.savefig('coal.png')
+```
+
+![](coal.png)
 
 ### Lumber
 
@@ -339,9 +348,6 @@ import util; df = util.get_yahoofin(2015,"LBS=F"); df.plot(); plt.savefig('lumbe
 ```
 
 ![](lumber.png)
-
-
-
 
 
 
