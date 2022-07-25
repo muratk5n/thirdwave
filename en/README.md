@@ -31,28 +31,6 @@ Silicon production, solar panels.
 
 ---
 
-I bet trying to capture in the post- looks easier by retrofitting
-existing plants, but is expensive, so it is avoided. If policy pushes
-for better designed CCUS plants they can be built from scratch, at
-least core pieces of existing plants with efficient CCUS.
-
-Paper: "[C]apturing CO2 from traditional combustion exhaust gases is
-expensive, both from a capital and energy perspective, because the CO2
-in the exhaust is greatly diluted with N2 . For example, adding
-post-combustion capture capability to a traditional pulverized coal
-plant increases the levelized-cost..  by as much as 85% and reduces
-the efficiency by 12 percentage points"
-
----
-
-Increase needed 
-
-IEA: "Currently, two large‑scale CCUS facilities operate in the power
-sector, the Petra Nova Carbon Capture project and the Boundary Dam
-Carbon Capture project"
-
----
-
 For countries, esp. developing, focusing on Coal-H2+CCS route wld make
 sense; most countries have coal, no problem securing supply. Can scale
 output up and down wout being restricted by land availability,
