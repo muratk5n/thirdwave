@@ -166,8 +166,8 @@ conversion. #H2
 ---
 
 In terms of clean energy transition (not necessarily exclusively
-renewables based) priority-wise my vote is going gung-ho on blue H2
-(indicating CCUS). Let's convert every bit of CH4 (natgas) into H2
+renewables based) priority-wise my vote is going gung-ho on blue
+H2 + CCUS. Let's convert every bit of CH4 (natgas) into H2
 whereever possible.
 
 ---
