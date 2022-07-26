@@ -234,8 +234,8 @@ only Washington can give"
 
 ---
 
-Building 130 solar farms in time..?  Or dozens of Fukushima level nuclear
-plants? That is a tall order.
+Building >100 solar farms in time..?  Or dozens of Fukushima level
+nuclear plants? That is a tall order.
 
 ---
 
