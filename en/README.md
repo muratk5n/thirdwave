@@ -139,7 +139,7 @@ it nothing works.
 
 ---
 
-De-globalize. De-electrify. Hate to be the bearer of bad news.. but
+De-globalize. De-electrify. Hate to be the bearer of "bad news".. but
 MSM has been feeding people lies, faux dreams.
 
 ---
