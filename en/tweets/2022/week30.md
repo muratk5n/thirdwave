@@ -25,7 +25,7 @@ FT: "In the US, the ‘real money’ is still betting on blue [H2]"
 
 Silicon production, solar panels.
 
-[[-]](2022/06/the-end-of-the-world-is-just-the-beginning-zeihan.html#silicon)
+[[-]](../../2022/06/the-end-of-the-world-is-just-the-beginning-zeihan.html#silicon)
 
 ---
 
@@ -44,13 +44,13 @@ plentiful. What's the holdup?
 
 Post on Coal
 
-[[-]](2022/02/h2-coal.html)
+[[-]](../../2022/02/h2-coal.html)
 
 ---
 
 Collated info on carbon capture.
 
-[[-]](2022/02/h2-co2-capture.html)
+[[-]](../../2022/02/h2-co2-capture.html)
 
 ---
 
@@ -107,7 +107,7 @@ Energy (all energy) consumption per country (in GW)
 
 Annual TWh consumption is divided by 365*24, gives wattage
 
-[[-]](2019/05/energstats.html#primcountry)
+[[-]](../../2019/05/energstats.html#primcountry)
 
 ---
 
@@ -214,7 +214,7 @@ change"
 
 2021 fires increased by a whopping 40% compared to 2020
 
-[[-]](2019/05/natdisaster.html#fires)
+[[-]](../../2019/05/natdisaster.html#fires)
 
 ---
 
