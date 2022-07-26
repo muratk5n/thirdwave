@@ -349,5 +349,3 @@ import util; df = util.get_yahoofin(2015,"LBS=F"); df.plot(); plt.savefig('lumbe
 
 ![](lumber.png)
 
-
-

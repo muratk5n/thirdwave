@@ -33,9 +33,31 @@ def get_bp_country(country):
     cols = [x for x in df.columns if '_twh' in x]
     df = df[cols].fillna(0)
     df2 = df[cols].tail(1).unstack()
-    df2 = (df2 / df2.sum())*100.0
+    df2 = (df2[df2>0] / df2[df2>0].sum())*100.0
     df2 = df2.dropna()
     return df2
+
+def get_bp_country2(country):
+    fin = '../../2019/05/bp-stats-review-2022-consolidated-dataset-panel-format.csv'
+    df = pd.read_csv(fin)
+    df = df[df.Country == country]
+    df = df.set_index('Year')
+    df = df[df.index > 1980]
+    
+    df = df[['wind_twh','solar_twh','nuclear_twh','hydro_twh',\
+             'coalcons_ej','gascons_ej','oilcons_ej']]
+
+    df['oil_twh'] = (df.oilcons_ej * 277.778)
+    df['gas_twh'] = (df.gascons_ej * 277.778)
+    df['coal_twh'] = (df.coalcons_ej * 277.778)
+    cols = [x for x in df.columns if '_twh' in x]
+    df = df[cols].fillna(0)
+    df2 = df[cols].tail(1).unstack()
+    df2 = (df2[df2>0] / df2.sum())*100.0
+    df2 = df2.dropna()
+    return df2
+
+
 
 def plot_fred(year, series):
     today = datetime.datetime.now()
@@ -124,7 +146,7 @@ def to_bearing(lat,lon,brng,d):
 
 def get_yahoofin(year,ticker):
     end = datetime.datetime.now()
-    start = datetime.datetime(1980, 1, 1)
+    start = datetime.datetime(year, 1, 1)
     start = int(timelib.mktime(start.timetuple()))
     end = int(timelib.mktime(end.timetuple()))
     base_fin_url = "https://query1.finance.yahoo.com/v7/finance/download"

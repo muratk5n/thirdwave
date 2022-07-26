@@ -1,1 +1,3 @@
 out.html
+*.pyc
+__pycache__
