@@ -364,10 +364,6 @@ Al Monitor: "Russia to invest $40 billion in Iran’s oil sector"
 
 ---
 
-CNBC: "Russia resumes gas flows to Europe after fears of a total shutdown"
-
-----
-
 Militarization, Russia related issues have been simmering in Italy
 since this April, finally it all blew up, destroying the
 government. Yet all you hear on MSM (who is pro-war, pro-military

@@ -244,6 +244,11 @@ Carbon
 A tree can absorb 25kg of CO2 per year. When burned that carbon is
 released into the air.
 
+1011 g / kwh emitted from coal [21].
+
+400 g / kwh emitted from natgas.
+
+
 Transport
 
 Europe imported 380 million cubic meters per day of gas by pipeline from Russia in 2021
@@ -312,4 +317,4 @@ References
 
 [20] https://www.eia.gov/todayinenergy/detail.php?id=17991
 
-
+[21] https://www.eia.gov/tools/faqs/faq.php?id=74&t=11
