@@ -1,4 +1,5 @@
 # Week 30 
+
 "ZeroAvia hydrogen aviation gains $30 million in additional
 funding.. Investors include the International Airlines Group,
 Barclays, NEOM and the AENU"
@@ -112,7 +113,7 @@ Spinning in His Grave Over the Modern Franchise"
 
 ---
 
-[Lumbeeeeer](2019/05/energstats.html#lumber)
+[Lumbeeeeer](../../2019/05/energstats.html#lumber)
 
 ---
 
@@ -151,7 +152,7 @@ knowledge.
 
 ---
 
-As [Hidalgo](2017/08/economic-complexity-hidalgo.html) proved,
+As [Hidalgo](../../2017/08/economic-complexity-hidalgo.html) proved,
 know-how is what makes economies tick and countries to advance (not
 necessarily "education" which doesn't always translate into actionable
 knowledge). Hidalgo measures this through the diversity of products a
