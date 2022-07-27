@@ -1,32 +1,28 @@
 
 
-
 ```python
-import util; util.country_bp("Turkey")
+import util; util.country_bp("Total Europe")
 ```
 
 ```text
              Year
-wind_twh     2021     1.851617
-solar_twh    2021     0.763178
-nuclear_twh  2021     0.000000
-hydro_twh    2021     3.311971
-oil_twh      2021    31.199272
-gas_twh      2021    34.087975
-coal_twh     2021    28.785986
+wind_twh     2021     2.736601
+solar_twh    2021     1.063862
+nuclear_twh  2021     4.802530
+hydro_twh    2021     3.534304
+oil_twh      2021    41.664577
+gas_twh      2021    31.067577
+coal_twh     2021    15.130549
 dtype: float64
 
 Production As Percentage of Consumption
 
-   Perc Commodity
-0   0.0       Oil
-1   0.0       Gas
-2  43.1      Coal
+    Perc Commodity
+0  27.71       Oil
+1  36.85       Gas
+2  57.76      Coal
 
 Total
 
-191.97 GW
+2098.33 GW
 ```
-
-
-
