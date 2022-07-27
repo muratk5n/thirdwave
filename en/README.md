@@ -73,8 +73,8 @@ Out[1]: (2103.05, 'GW')
 
 ---
 
-This electrification business is a complete racket. It has been a fish
-bait for morons.
+This electrification business is a complete racket. Fish bait for
+complete morons.
 
 ---
 
