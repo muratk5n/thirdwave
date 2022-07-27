@@ -73,7 +73,7 @@ Out[1]: (2103.05, 'GW')
 ---
 
 This electrification business is a complete racket. Fish bait for
-fucking morons.
+idiots.
 
 ---
 
