@@ -169,7 +169,7 @@ I bet this guy is full of shit
 
 ---
 
-😂 It's so sad had to laugh
+Sad and hilarious in a way
 
 Al Jazeera: "South Africa calls for Israel to be declared an ‘apartheid state’"
 
