@@ -2,11 +2,7 @@
 
 
 ```python
-import util
-df, prod_perc = util.get_bp_country2("Turkey")
-print (df)
-print ('\nProduction As Percentage of Consumption\n')
-print (prod_perc)
+import util; util.country_bp("Turkey")
 ```
 
 ```text
@@ -26,17 +22,17 @@ Production As Percentage of Consumption
 0   0.0       Oil
 1   0.0       Gas
 2  43.1      Coal
+
+Total
+
+191.97 GW
 ```
 
 
 
 
 ```python
-import util
-df, prod_perc = util.get_bp_country2("Norway")
-print (df)
-print ('\nProduction As Percentage of Consumption\n')
-print (prod_perc)
+import util; util.country_bp("Norway")
 ```
 
 ```text
@@ -56,4 +52,8 @@ Production As Percentage of Consumption
 0  1196.47       Oil
 1  2668.60       Gas
 2     0.00      Coal
+
+Total
+
+35.62 GW
 ```
