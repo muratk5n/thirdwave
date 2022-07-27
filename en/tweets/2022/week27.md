@@ -629,19 +629,6 @@ attention from "unimportant" issues.
 
 ---
 
-Al Monitor: "Lapid will go head-to-head against former Prime Minister
-Benjamin Netanyahu from the position of prime minister. Lapid will
-lead the center-left bloc, while Netanyahu will lead the
-rightwing-ultra-Orthodox bloc, with each trying to win the 61 seats
-needed to form a coalition. That is why Lapid is targeting all the
-Arab parties as partners in his efforts, and not just coalition
-partner Ra’am... Lapid even sees the opposition Arab Joint List as a
-potential partner. In a television interview this week, Lapid said,
-'There hasn’t been an Arab party in the government for the past 74
-years. We’re in the process of changing that now.'"
-
----
-
 Fatback Band - Mister Bass Man \#music
 
 [[-]](https://youtu.be/qL7t9ChdgrE)
