@@ -241,9 +241,6 @@ negligible. They have given minimal support – enough to be seen as
 or their own economies, or to risk being dragged into the conflict
 themselves...
 
-Western contributions have been painful but still doable until
-now. That dynamic may start changing later this summer...
-
 Already the economies of the West are showing signs that a recession
 is coming. In part as a result of massive sanctions levied on Russia,
 gasoline prices have risen to historic highs, global food supplies
