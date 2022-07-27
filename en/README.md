@@ -12,9 +12,6 @@ Financial Times: "In the US, the ‘real money’ is still betting on blue hydro
 
 ---
 
-
----
-
 H2 Fuel News: "Universal Hydrogen and Avmax announce hydrogen fuel
 aircraft deal"
 
