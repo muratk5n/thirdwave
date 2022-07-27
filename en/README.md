@@ -205,12 +205,10 @@ most others in that panel.
 ---
 
 I'm not sure why Ukraine MPs input matters, they are not part of NATO
-(hence the pickle they are in).
-
-Right on a likely French veto.. If the trouble triggered by UK/US
-meddling is any guide, a new head from an outer alliance country would
-cause nothing but more trouble, would be against the interests of
-Europe, France.
+(hence the pickle they are in). Right on a likely French veto.. If the
+trouble triggered by UK/US meddling is any guide, a new head from an
+outer alliance country would cause nothing but more trouble, would be
+against the interests of Europe, France.
 
 ---
 
