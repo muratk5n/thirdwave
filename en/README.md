@@ -120,7 +120,7 @@ production. The tech is there.
 ---
 
 I bet this guy mixed up electricity with total energy like most of his
-white-collar dingbat brethren.
+white-collar electrified dipshit brethren.
 
 ---
 
