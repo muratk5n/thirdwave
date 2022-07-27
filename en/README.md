@@ -272,8 +272,8 @@ Actually according to analysis Russia did not structure its modern
 military assuming it will always have air superiority, quite the
 reverse. They watched Desert Storm, and other US, NATO interventions,
 the lessons they learned from that was air superiority is not
-guaranteed for them, hence the investment in air defense, the most
-notable being the S-series SAM tech.
+guaranteed, hence the investment in air defense, the most notable
+being the S-series SAM tech.
 
 ---
 
