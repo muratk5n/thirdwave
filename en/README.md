@@ -54,9 +54,8 @@ its A$593m hydrogen jobs plan"
 
 ---
 
-That is US level of usage; granted even a massive Russia pipeline
-cannot take care all of that, but it still beats not having that
-input.
+EU usage nears US level; granted even a massive Russia pipeline cannot
+take care all of that, but it still beats not having that input.
 
 ---
 
