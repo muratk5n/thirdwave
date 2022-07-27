@@ -130,7 +130,7 @@ reserves.
 
 ---
 
-He is... 
+He is full of shit
 
 ```python
 import util; util.country_bp("Norway")
