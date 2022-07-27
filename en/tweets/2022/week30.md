@@ -388,11 +388,6 @@ ELECTRICITY DOES NOT EQUAL ALL ENERGY
 
 ---
 
-The `_imp` columns are imports for that energy source. The right
-column is in percentage.
-
----
-
 Wind and solar is about 6% of their energy consumption. 
 
 ```python
