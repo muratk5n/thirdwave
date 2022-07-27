@@ -223,11 +223,11 @@ French veto"
 
 ---
 
-Most Likely Scenario (Collapse of Western Support).. Without
-remarkable levels of financial and military support from Western
-countries, Russia might well have conquered far more territory, and
-far faster, than it already has. Moscow might have even forced an
-end-of-war settlement on Kyiv by now...
+Davis: "[In Ukraine] Most Likely Scenario (Collapse of Western
+Support).. Without remarkable levels of financial and military support
+from Western countries, Russia might well have conquered far more
+territory, and far faster, than it already has. Moscow might have even
+forced an end-of-war settlement on Kyiv by now...
 
 Most Western countries have a reflexive opposition to Russia. They
 regard Moscow’s invasion of Ukraine with a combination of anger, fear,
