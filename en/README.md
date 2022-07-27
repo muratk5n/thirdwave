@@ -2,264 +2,281 @@
 
 ---
 
-Pinned Tweet
+Pinned Tweets
 
 <iframe width="95%" src="https://www.youtube.com/embed/JGe8R0N20ps?start=412&end=545" title="How Cheap Hydrogen Could Become the Next Clean Fuel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-"ZeroAvia hydrogen aviation gains $30 million in additional
-funding.. Investors include the International Airlines Group,
-Barclays, NEOM and the AENU"
+Financial Times: "In the US, the ‘real money’ is still betting on blue hydrogen"
 
 ---
 
-H2 Central: "Serbia, Hungary sign Memorandum of understanding [on
-H2. Hungarian MP] said that the field for which the Memorandum was
-signed today include.. issues such as production, storage and
-transport of hydrogen, and that Hungary, which already has some
-experience, is ready to share with Serbia its strategies, regulations,
-investment plans and projects"
 
 ---
 
-H2 Fuel News: "Johnson Matthey (JM) a sustainable technologies leader,
-has announced that it will be building an £80 million hydrogen
-gigafactory at the firm’s existing Royston, UK site... Earlier in
-2022, JM announced a new strategy for the purpose of being the “market
-leader in performance components for fuel cells and electrolysers,”
-focusing on over £200 million sales in H2 tech by the close of the
-2024/2025 fiscal year.
+H2 Fuel News: "Universal Hydrogen and Avmax announce hydrogen fuel
+aircraft deal"
 
 ---
 
-CNBC: "Toyota plans to roll out hydrogen fuel-cell trucks for the
-Japanese market next year"
+H2 Central: "Lower Saxony’s Environment Minister Olaf presented the
+funding notification of €2.375 million for Uniper’s planned hydrogen
+pilot project at the Krummhoern natural gas storage site [for reusing
+it o H2]...
+
+Uniper Energy Storage will test the construction and operation of a
+new salt cavern specifically built for hydrogen storage on a large
+scale and in a real-world environment at the natural gas storage
+facility in Krummhoern, Northern Germany"
 
 ---
 
-"@Fuelcellbus
+NTT is the third largest company of Japan in market cap.
 
-Bratislava's public transport operator, @dpbratislava , will be the
-first to operate a fleet of hydrogen-powered buses in Slovakia!"
-
----
-
-Gasworld: "Air Products will spend or commit at least $4bn in
-additional new capital to support the clean energy transition over the
-next five years, bringing its total commitment to first-mover projects
-to 15bn by 2027. The industrial gas company made the pledge as part of
-its newly published ‘Third by 30’ carbon dioxide (CO2) emissions
-intensity goal for Scope 3 emissions, an addition to its existing
-Scope 1 and 2 goal to reach Net Zero from its operations by 2050.
-
-In order to reach its ambitious targets, Air Products has identified
-tangible transition plans for new investments and modifications of
-existing company assets, including low- and zero- carbon hydrogen and
-carbon capture technologies"
+H2 Central: "[Japanese] NTT.. announced a joint research and
+development project to study safety measures for the mass
+transportation of hydrogen through existing pipeline infrastructure.
 
 ---
 
-"@BallardPwr
+"UK hydrogen pipeline project receives Government funding.. SPS has
+revealed it plans to begin feasibility work with Smartflow Couplings
+at SPS’ site in East Heslerton, North Yorkshire to support the switch
+from natural gas to hydrogen"
+     
+---
 
-A report by global engineering design and consulting firm Arcadis
-shows that hydrogen is both cheaper and more efficient than using
-diesel to power trains along the proposed Melbourne to Brisbane Inland
-Rail route"
+"@KeithDPatch · Air Products.. new ESG goals include converting its
+fleet of ≈2,000 trucks to hydrogen!"
 
 ---
 
-70kW \#hydrogen #fuelcell mobile generator on @netflix film set
-
-<blockquote class="twitter-tweet"><p lang="fr" dir="ltr">🇨🇵 Avec <a href="https://twitter.com/hashtag/Netflix?src=hash&amp;ref_src=twsrc%5Etfw">#Netflix</a>, l&#39;<a href="https://twitter.com/hashtag/hydrog%C3%A8ne?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogène</a> fait son cinéma.🎬 ⤵️<a href="https://t.co/fhJKEh4BDq">https://t.co/fhJKEh4BDq</a></p>&mdash; Corinne Bordry (@Corinne_Bordry) <a href="https://twitter.com/Corinne_Bordry/status/1551235940185686016?ref_src=twsrc%5Etfw">July 24, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-That guy was an official in some government I didn't catch which. He
-has wrong info. Sad.
+H2 View: "South Australian Government announces global interest for
+its A$593m hydrogen jobs plan"
 
 ---
 
-Not true. **Over 90%** of energy produced is fossil based.
-
-"2/3 of energy produced in the world is fossil-fuel based"
-
----
-
-More is needed here.
-
-IEA: "Currently, two large‑scale CCUS facilities operate in the power
-sector, the Petra Nova Carbon Capture project and the Boundary Dam
-Carbon Capture project"
+That is US level of usage; granted even a massive Russia pipeline
+cannot take care all of that, but it still beats not having that
+input.
 
 ---
 
-Lessons are clear. Don't make movies cuck, don't mess with the story
-for some bizarre agenda, have a good story and directing, and wait for
-the cashier go ka-ching!
-
-CNBC: "Top Gun: Maverick nears $1.3 billion worldwide"
-
----
-
-Whatitdo Archive Group - Blood Chief \#music
-
-[[-]](https://youtu.be/qCS4pEhEDEQ)
-
----
-
-:) Wild
-
-"[The computer game] Doom can now be played inside another copy of Doom"
-
-[[-]](https://www.ruetir.com/2022/07/13/doom-can-now-be-played-inside-another-copy-of-doom/)
-
----
-
-Reddit: "Shatner Says Star Trek Creator [Roddenberry] Would Be
-Spinning in His Grave Over the Modern Franchise"
-
----
-
-[Lumbeeeeer](2019/05/energstats.html#lumber)
-
----
-
-Interesting.. I'll be watching
-
-"@philrosenn
-
-LUMBER prices are set for a shakeup as a new type of futures contracts
-rolls out - and a top broker.. says trading volume could soar 10x📊"
-
----
-
-Obviously energy is the other cruicial input to an economy.. Without
-it nothing works.
-
----
-
-De-globalize. De-electrify. Hate to be the bearer of "bad news".. but
-MSM has been feeding people lies, faux dreams.
-
----
-
-Take Germany. Their numerous *Mittelstand* the small-to-mid size
-businesses represent the depth of that type of knowledge. There will
-be one obscure guy producing some funky valve that noone in the world
-produces. And guess what, he finds customers and can charge top dollar
-(or euros). Further innovation builds on top of this diversity, if you
-want to build a clean-fuel combustion engine, chances are you will
-find the parts, the know-how associated with the subcomponents of that
-engine.
-
-Producing a piece, any piece of a "globalized supply chain" doesn't
-necessarily get you there. Producing the cap of Coke bottles makes
-country part of the supply chain but won't provide much deep
-knowledge.
-
----
-
-As [Hidalgo](2017/08/economic-complexity-hidalgo.html) proved,
-know-how is what makes economies tick and countries to advance (not
-necessarily "education" which doesn't always translate into actionable
-knowledge). Hidalgo measures this through the diversity of products a
-country produces, which is a sign of the depth of a country's
-actionable skillset.
-
----
-
-If China has a crisis, it will hurt for sure, but afterwards they will
-still have their know-how. They built up a lot of that over the years.
-
----
-
-CNBC: "Natural gas hits highest level since 2008, on pace for best
-month ever as Russia cuts supply"
-
----
-
-NYT: "As Ukraine Signs Up Soldiers, Questions Arise About How It
-Chooses.. Recruiters approach young men on the street, but the
-standards are not always clear"
-
----
-
-Davis: "It would take a country the size of Ukraine the better part of
-a decade and a massive level of support from friendly nations to
-recover from the devastation the Ukraine military has already
-suffered. The idea that the UAF – or the armed forces of any nation on
-earth – can recover from the level of destruction they’ve suffered to
-date and rebuild the strength necessary to drive an invader out while
-at the same time fighting an existential battle, is flatly
-unrealistic.
-
-Russia continues to take severe losses itself. Putin’s forces are not
-immune to the consequences of losing trained and experienced
-personnel, but as previously noted, Russia has millions more men from
-which to draw new conscripts and hundreds of thousands of other active
-troops that can be repurposed to ground combat. It is by no means
-guaranteed that Russia would be able to achieve total victory over
-Ukraine, but the fundamentals are present to give the idea some chance
-of success. For Ukraine, however, there is minuscule chance of winning
-and a higher probability of failure if they try to launch an
-offensive.
-
-An unemotional assessment of this war would lead to the conclusion
-that the Ukrainian political leadership should seek the
-best-negotiated settlement it could get now, while it still has
-complete control of Kharkiv, Odesa, and most of Donetsk Oblast – and
-before another significant city is turned to rubble and tens of
-thousands more of its citizens killed or wounded"
-
-[[-]](https://www.19fortyfive.com/2022/07/the-dark-scenario-ukraines-military-cant-beat-russia-and-collapses/)
-
----
-
-Al Jazeera: "Hungary’s Orban says EU sanctions on Russia have
-failed.. 'A new strategy is needed which should focus peace talks and
-drafting a good peace proposal … instead of winning the war,' Orban
-said in a speech in Romania on Saturday... Orban said this strategy
-has failed as governments in Europe are collapsing 'like dominoes',
-energy prices have surged and a new strategy was needed now. He said
-Ukraine will never win the war this way 'quite simply because the
-Russian army has assymetrical dominance'.
-
-Orban called for Russia and the United States to hold negotiations to
-bring about an end to the war... He said 'only Russian-US talks can
-put an end to the conflict because Russia wants security guarantees'
-only Washington can give"
-
-[[-]](https://www.aljazeera.com/news/2022/7/23/hungarys-orban-says-eu-sanctions-on-russia-have-failed)
-
----
-
-Building >100 solar farms in time..?  Or dozens of Fukushima level
-nuclear plants? That is a tall order.
-
----
-
-Europe could have 130 GW of power with the flick of a switch, instead
-it will now have <15% GW.
-
----
-
-The market is smelling blood in the water.. European Stock Market
-Futures Eurostoxx is down since the start of the UKR-RU war.
+Total European energy usage
 
 ```python
-import util; df = util.get_yahoofin(2018, "^STOXX50E"); df.plot(grid=True);
+_,_,tot = util.get_bp_country("Total Europe")
+np.round(tot*1000 / (365*24),2),'GW'
 ```
 
-<img width="340" src="https://pbs.twimg.com/media/FYkpNAaXkAAZju5?format=png&name=small"/>
+```text
+Out[1]: (2103.05, 'GW')
+```
 
 ---
 
-F24: "Fresh Russian gas cuts threaten economic pain in
-Europe.. Russian energy giant Gazprom on Monday said gas flows to
-Germany through the Nord Stream 1 pipeline would fall to 33 million
-cubic metres (MCM) per day from Wednesday, down from its full capacity
-of more than 160 MCM per day"
+This electrification business is a complete racket. It has been a fish
+bait for morons.
+
+---
+
+Lithium? You have to drive the electric car for two years before it
+offsets the CO2 emitted while digging up, preparing its lithium. And
+that's just the lithium. 
+
+---
+
+Natgas emissions 400 g CO2 / kWh. After 95% capture (which can
+actually go even higher for natgas) the result is 20 g CO2 / kwh which
+makes it nearly twice better than solar panels.
+
+---
+
+How to compare CO2 emissions from solar (yes there is some) vs fossil taking
+into account the entire lifetime? [This paper](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1530-9290.2011.00439.x)
+puts that value at around 55 g / kwh thorughout the lifetime of a solar panel
+(there is massive carbon emitted while producing the panel).
+
+For coal that value is 1011 g CO2 / kWh. But once CCS is factored in,
+assuming 95% is captured, lifetime emission of coal falls to 50 g /
+kwh. Meaning, coal + CCS is cleaner than solar panels. 
+
+---
+
+Simulation is done with a software called Aspen Plus. Click and the
+plant would calculate its internal parameters.. Fantastic.
+
+I've seen a few books that use direct Python programming too which
+obviously jives with my toolset.
+
+---
+
+[Link](https://pbs.twimg.com/media/FYnxj9BXgAI8kqb?format=png&name=small)
+
+---
+
+The professor I talked to on Coal-CCS sent me bunch of links, among
+them is an industrial plant simulation file for blue hydrogen
+production. The tech is there.
+
+---
+
+I bet this guy mixed up electricity with total energy like most of his
+white-collar dingbat brethren.
+
+---
+
+Norway's renewable energy comprises 50% of is consumption. But even if
+they didn't have that, wouldn't have mattered, NW has huge oil and gas
+reserves.
+
+---
+
+He is... 
+
+```python
+import util; util.country_bp("Norway")
+```
+
+```text
+             Year
+wind_twh     2021     3.770902
+solar_twh    2021     0.063139
+nuclear_twh  2021     0.000000
+hydro_twh    2021    45.855275
+oil_twh      2021    33.651383
+gas_twh      2021    13.727958
+coal_twh     2021     2.931343
+dtype: float64
+
+Production As Percentage of Consumption
+
+      Perc Commodity
+0  1196.47       Oil
+1  2668.60       Gas
+2     0.00      Coal
+
+Total
+
+35.62 GW
+```
+
+---
+
+I bet this guy is full of shit
+
+"@ErikSolheim.. 
+
+[Norway is] almost entirely powered by renewable energy"
+
+---
+
+😂 It's so sad had to laugh
+
+Al Jazeera: "South Africa calls for Israel to be declared an ‘apartheid state’"
+
+---
+
+"@eidsuleman
+
+Demolition of Palestinian house in Um Qusah"
+
+[[-]](https://twitter.com/eidsuleman/status/1551537342032273417)
+
+---
+
+"@DalrympleWill
+
+British wine wholesaler ‘leaves Brexitland for good’ over
+paperwork.. Daniel Lambert, who supplies M&S, Waitrose and 300
+independent retailers, to set up in France after £150,000 hole in
+revenue"
+
+---
+
+"Taipei to stage street evacuation air raid dril"
+
+---
+
+Hopefully the RU debacle strengthens parties not antagonistic toward
+Russia going forward... I remember in one German debate before last
+election Janine Wissler from Die Linke said some supportive words in
+that vein and boy, was she gazed upon as some kind of freak weirdo by
+most others in that panel.
+
+---
+
+I'm not sure why Ukraine MPs input matters, they are not part of NATO
+(hence the pickle they are in).
+
+Right on a likely French veto.. If the trouble triggered by UK/US
+meddling is any guide, a new head from an outer alliance country would
+cause nothing but more trouble, would be against the interests of
+Europe, France.
+
+---
+
+That would be hilarious..
+
+"Boris Johnson tipped to become next secretary general of
+Nato.. Ukrainian and Tory MPs support idea of PM being a possible
+candidate, though sceptics suggest he would likely be greeted with a
+French veto"
+
+---
+
+Most Likely Scenario (Collapse of Western Support).. Without
+remarkable levels of financial and military support from Western
+countries, Russia might well have conquered far more territory, and
+far faster, than it already has. Moscow might have even forced an
+end-of-war settlement on Kyiv by now...
+
+Most Western countries have a reflexive opposition to Russia. They
+regard Moscow’s invasion of Ukraine with a combination of anger, fear,
+and for some, hatred. All Western governments believe that Moscow’s
+invasion was illegal and unjustified, and they want Putin to fail. But
+each nation is also primarily concerned about its own national
+security and interests. That self-interest balances their desire for
+Russian failure. They do not want their support to cross a line and
+draw them into conflict with Russia...
+
+An additional and often overlooked factor is that some Western
+governments view the threat of a conventional attack from Moscow to be
+negligible. They have given minimal support – enough to be seen as
+“doing something,” yet not enough to risk harming their own militaries
+or their own economies, or to risk being dragged into the conflict
+themselves...
+
+Western contributions have been painful but still doable until
+now. That dynamic may start changing later this summer...
+
+Already the economies of the West are showing signs that a recession
+is coming. In part as a result of massive sanctions levied on Russia,
+gasoline prices have risen to historic highs, global food supplies
+have risen to near crisis-levels (raising the price of nearly all
+groceries), and inflation in the U.S. and UK remains at a four-decade
+high. But the gas situation in Europe may prove to be the trigger for
+a retrenchment of Western support to Ukraine..
+
+The populations of Germany, Italy, France, Spain, and other Western
+European nations, however, recognize there is effectively *no*
+conventional threat to them from Moscow. Why, they will begin asking
+with increasing stridency, should they sacrifice their own economic
+security, struggle to put food on their tables, and scramble to heat
+their homes during winter so that their governments can support
+Ukraine in a war that is not necessary for European security?..
+
+[[-]](https://www.19fortyfive.com/2022/07/the-ukraine-war-could-end-with-western-discontent/)
+
+---
+
+Actually according to analysis Russia did not structure its modern
+military assuming it will always have air superiority, quite the
+reverse. They watched Desert Storm, and other US, NATO interventions,
+the lessons they learned from that was air superiority is not
+guaranteed for them, hence the investment in air defense, the most
+notable being the S-series SAM tech.
 
 ---
 
