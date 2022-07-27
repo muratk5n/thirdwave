@@ -20,7 +20,7 @@ aircraft deal"
 H2 Central: "Lower Saxony’s Environment Minister Olaf presented the
 funding notification of €2.375 million for Uniper’s planned hydrogen
 pilot project at the Krummhoern natural gas storage site [for reusing
-it o H2]...
+it on H2]...
 
 Uniper Energy Storage will test the construction and operation of a
 new salt cavern specifically built for hydrogen storage on a large
