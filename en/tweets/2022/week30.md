@@ -70,23 +70,30 @@ be at insane levels.
 
 
 ```python
-util.get_bp_country('China')
+import util; util.country_bp("China")
 ```
 
 ```text
-Out[1]: 
-              Year
-wind_twh      2021     1.684796
-solar_twh     2021     0.840342
-nuclear_twh   2021     1.047215
-hydro_twh     2021     3.340810
-oil_twh       2021     6.368756
-coal_twh      2021    60.780671
-gasprod_twh   2021     5.376470
-oil_imp_twh   2021    15.473949
-gas_imp_twh   2021     4.355431
-coal_imp_twh  2021     0.731558
+             Year
+wind_twh     2021     1.684796
+solar_twh    2021     0.840342
+nuclear_twh  2021     1.047215
+hydro_twh    2021     3.340810
+oil_twh      2021    21.842706
+gas_twh      2021     9.731901
+coal_twh     2021    61.512229
 dtype: float64
+
+Production As Percentage of Consumption
+
+    Perc Commodity
+0  29.16       Oil
+1  55.25       Gas
+2  98.81      Coal
+
+Total
+
+4442.09 GW
 ```
 ---
 
@@ -133,23 +140,30 @@ column is in percentage.
 Wind and solar is about 6% of their energy consumption. 
 
 ```python
-import util; util.get_bp_country('Germany')
+import util; util.country_bp("Germany")
 ```
 
 ```text
-Out[1]: 
-              Year
-wind_twh      2021     4.044645
-solar_twh     2021     1.683837
-nuclear_twh   2021     2.371118
-hydro_twh     2021     0.656353
-oil_twh       2021     0.000000
-coal_twh      2021    11.006037
-gasprod_twh   2021     1.559034
-oil_imp_twh   2021    39.939558
-gas_imp_twh   2021    29.550848
-coal_imp_twh  2021     9.188570
+             Year
+wind_twh     2021     4.044645
+solar_twh    2021     1.683837
+nuclear_twh  2021     2.371118
+hydro_twh    2021     0.656353
+oil_twh      2021    39.939558
+gas_twh      2021    31.109882
+coal_twh     2021    20.194607
 dtype: float64
+
+Production As Percentage of Consumption
+
+    Perc Commodity
+0   0.00       Oil
+1   5.01       Gas
+2  54.50      Coal
+
+Total
+
+332.19 GW
 ```
 
 ---
