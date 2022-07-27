@@ -115,7 +115,7 @@ obviously jives with my toolset.
 
 The professor I talked to on Coal-CCS sent me bunch of links, among
 them is an industrial plant simulation file for blue hydrogen
-production. The tech is there.
+production. The tech exists.
 
 ---
 
