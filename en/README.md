@@ -125,8 +125,7 @@ white-collar dingbat brethren.
 ---
 
 Norway's renewable energy comprises 50% of is consumption. But even if
-they didn't have that, wouldn't have mattered, NW has huge oil and gas
-reserves.
+they didn't have that, NW has huge oil and gas reserves.
 
 ---
 
