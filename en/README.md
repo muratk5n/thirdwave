@@ -54,6 +54,11 @@ its A$593m hydrogen jobs plan"
 
 ---
 
+Let's do green H2, sure, but priority IMO should be the more available
+resource; natgas and coal.
+
+---
+
 EU usage nears US level; granted even a massive Russia pipeline cannot
 take care all of that, but it still beats not having that input.
 
