@@ -192,18 +192,6 @@ revenue"
 
 ---
 
-Euro News: "Taipei to stage street evacuation air raid dril"
-
----
-
-Hopefully the RU debacle strengthens parties not antagonistic toward
-Russia going forward... I remember in one German debate before last
-election Janine Wissler from Die Linke said some supportive words in
-that vein and boy, was she gazed upon as some kind of freak weirdo by
-most others in that panel.
-
----
-
 I'm not sure why Ukraine MPs input matters, they are not part of NATO
 (hence the pickle they are in). Right on a likely French veto.. If the
 trouble triggered by UK/US meddling is any guide, a new head from an
@@ -218,6 +206,18 @@ That would be hilarious..
 Nato.. Ukrainian and Tory MPs support idea of PM being a possible
 candidate, though sceptics suggest he would likely be greeted with a
 French veto"
+
+---
+
+Euro News: "Taipei to stage street evacuation air raid dril"
+
+---
+
+Hopefully the RU debacle strengthens parties not antagonistic toward
+Russia going forward... I remember in one German debate before last
+election Janine Wissler from Die Linke said some supportive words in
+that vein and boy, was she gazed upon as some kind of freak weirdo by
+most others in that panel.
 
 ---
 
