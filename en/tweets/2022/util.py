@@ -29,11 +29,11 @@ def get_bp_country(country):
     df = df.set_index('Year')
     df = df[df.index == df.index.max()]    
     df = df[['wind_twh','solar_twh','nuclear_twh','hydro_twh',\
-             'coalcons_ej','gascons_ej','oilcons_ej','ethanol_cons_pj']]
+             'coalcons_ej','gascons_ej','oilcons_ej','biogeo_ej']]
     df['oil_twh'] = (df.oilcons_ej * 277.778)
     df['gas_twh'] = (df.gascons_ej * 277.778)
     df['coal_twh'] = (df.coalcons_ej * 277.778)
-    df['ethanol_twh'] = (df.ethanol_cons_pj * 0.277778)
+    df['biogeo_twh'] = (df.biogeo_ej * 277.778)
     cols = [x for x in df.columns if '_twh' in x]    
     df2 = df[cols].fillna(0).unstack()
     total = df2.sum()
