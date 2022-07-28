@@ -142,9 +142,9 @@ unemployment checks are 'socialism?'"
 
 ---
 
-Surely wage decrease sounds bad.. this is how the mechanism works - sadly.
-That's why I advocate new money entering the economy through people rather
-than businesses.
+Surely wage decrease sounds bad.. this is how the mechanism works
+though - sadly.  That's the reason I advocate new money entering the
+economy through people rather than businesses.
 
 ---
 
