@@ -133,6 +133,18 @@ for countries who want to pursue it, there it is.
 
 ---
 
+Politico: "Senate Majority Leader Chuck Schumer and Sen. Joe Manchin
+salvaged a deal on Wednesday for a bill..devoting hundreds of billions
+of dollars to clean energy technologies...
+
+The figure is roughly in line with funding levels discussed earlier in
+July among Senate Democrats that called for about $300 billion in tax
+credits for a slate of clean energy technologies, including solar and
+wind power, energy storage, carbon capture, hydrogen and small-scale
+nuclear power"
+
+---
+
 "@DanPriceSeattle
 
 So a $700 billion bailout for the banks, an 80 billion bailout for the
