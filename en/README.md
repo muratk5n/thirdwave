@@ -160,13 +160,12 @@ the country that birthed the Arab Spring"
 
 ---
 
-Al Monitor: "Pro-Sadr protesters storm parliament.. Sadr's bloc won 73
-seats in Iraq's October 2021 election, making it the largest faction
-in the 329-seat parliament. But since the vote, talks to form a new
-government have stalled.
-
-The oil-rich country remains mired in a political and a socioeconomic
-crisis, despite elevated global oil prices"
+Al Monitor: "Pro-Sadr protesters storm [the Iraqi] parliament.. Sadr's
+bloc won 73 seats in.. 2021 election, making it the largest faction in
+the 329-seat parliament. But since the vote, talks to form a new
+government have stalled. The oil-rich country remains mired in a
+political and a socioeconomic crisis, despite elevated global oil
+prices"
 
 ---
 
