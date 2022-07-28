@@ -20,11 +20,11 @@ petroleum refining, renewable energy and clean hydrogen"
 
 ---
 
-Electricity is suitable as the *last* step in the energy chain, not
-the first nor the middle. It can be generated close to its consumers,
-through fuel-cells.. But since its storage and transmisson is too
-inefficient, its usage as the centerpiece of an energy system is
-problematic.
+Electricity is partially suitable as the *last* step in the energy
+chain, not the first nor the middle. It can be generated close to its
+consumers, through fuel-cells.. But since its storage and transmisson
+is too inefficient, its usage as the centerpiece of an energy system
+is problematic.
 
 ---
 
