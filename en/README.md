@@ -142,6 +142,14 @@ unemployment checks are 'socialism?'"
 
 ---
 
+Some could say the system turned the world into a basketcase, creating
+pollution, environment disasters, and encouraging material extraction
+beyond the carrying capacity of Earth.
+
+"But the existing system brought us much dynamism"
+
+---
+
 Surely wage decrease sounds bad.. this is how the mechanism works
 though - sadly.  That's the reason I advocate new money entering the
 economy through people rather than businesses.
