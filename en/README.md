@@ -187,7 +187,7 @@ Ukraine invasion'"
 
 ---
 
-Can't we like do another Twitter Revolution and fix all that? 😶
+Can't we, like have another Twitter Revolution and fix all that? 😶
 
 Al Monitor: "Tunisia has approved a new constitution that critics say
 cements [the sitting President's] one-man rule and reverses hard-won
