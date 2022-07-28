@@ -53,7 +53,7 @@ level. From f-ing corn.. Hey, I'll take it.
 ---
 
 Ethanol production is very little but highest in US compared to
-some other countries I looked at
+some other countries.
 
 ```python
 import util; util.country_bp("US")
