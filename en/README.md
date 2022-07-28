@@ -177,6 +177,15 @@ decrease, causing a decrease in prices.
 
 ---
 
+"@QuincyInst
+
+Good.
+
+'Axios.com: Blinken to speak to Russia's Lavrov for first time since
+Ukraine invasion'"
+
+---
+
 Can't we like do another Twitter Revolution and fix all that? 😶
 
 Al Monitor: "Tunisia has approved a new constitution that critics say
