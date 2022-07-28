@@ -143,6 +143,12 @@ unemployment checks are 'socialism?'"
 
 ---
 
+Surely wage decrease sounds bad.. this is how the mechanism works - sadly.
+That's why I advocate new money entering the economy through people rather
+than businesses.
+
+---
+
 Certain MSM narrative is "if interest rates fall, spending increases,
 because people borrow to spend". That is not the primary driver of
 price levels. The major transmission mechanism (though crude) is
