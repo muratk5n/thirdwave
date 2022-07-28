@@ -158,8 +158,8 @@ decrease, causing a decrease in prices.
 ---
 
 Al Monitor: "Tunisia has approved a new constitution that critics say
-cements Saied's one-man rule and reverses hard-won democratic gains in
-the country that birthed the Arab Spring"
+cements [the sitting President's] one-man rule and reverses hard-won
+democratic gains in the country that birthed the Arab Spring"
 
 ---
 
