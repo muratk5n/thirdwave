@@ -6,11 +6,6 @@
 
 ---
 
-FuelCellsWorks: "BMW CEO Zipse 'Hydrogen as an energy carrier will play
-an important role in many regions of the world'"
-
----
-
 H2 Central: "World’s eyes on Whyalla [Oz] as 60 companies bid for
 green hydrogen plant work. Whyalla’s $593 million green hydrogen plant
 is putting the town on the global map"
