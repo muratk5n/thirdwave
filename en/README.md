@@ -85,13 +85,13 @@ Total
 
 ---
 
-- CAPER achieves process intensified hydrogen production from ethanol.
+- "CAPER achieves process intensified hydrogen production from ethanol.
 
 - High-pressure H2 is electrochemically produced at low temperatures and voltages.
 
 - CO2 is captured within the caustic electrolyte for a carbon-neutral process.
 
-- 100% Faraday efficiency and pure H2 in the gas phase is achieved.
+- 100% Faraday efficiency and pure H2 in the gas phase is achieved"
 
 [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0926860X22001703)
 
