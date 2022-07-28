@@ -174,7 +174,7 @@ economy through people rather than businesses.
 
 ---
 
-Certain MSM narrative is "if interest rates fall, spending increases,
+Certain MSM narrative is "if interest rates fall, spending decreases,
 because people borrow to spend". That is not the primary driver of
 price levels. The major transmission mechanism (though crude) is
 through businesses borrowing and expanding less, wages and spending
