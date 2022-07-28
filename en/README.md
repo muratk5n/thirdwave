@@ -182,6 +182,8 @@ decrease, causing a decrease in prices.
 
 ---
 
+Can't we like do another Twitter Revolution and fix all that? 😶
+
 Al Monitor: "Tunisia has approved a new constitution that critics say
 cements [the sitting President's] one-man rule and reverses hard-won
 democratic gains in the country that birthed the Arab Spring"
