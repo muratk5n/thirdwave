@@ -142,9 +142,10 @@ unemployment checks are 'socialism?'"
 
 ---
 
-Some could say the system turned the world into a basketcase, creating
-pollution, environment disasters, and encouraging material extraction
-beyond the carrying capacity of Earth.
+Some could argue the existing system turned the world into a
+basketcase, creating pollution, environment disasters, and encouraging
+material extraction beyond the carrying capacity of Earth, while still
+not being able to beat global poverty. 
 
 "But the existing system brought us much dynamism"
 
