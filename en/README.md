@@ -129,7 +129,7 @@ Some articles on crude oil gasification -
 [paper](https://www.tandfonline.com/doi/abs/10.1080/10916466.2016.1255643),
 [paper](https://www.researchgate.net/publication/328087957_Modeling_crude_oil_gasification),
 [paper](https://www.researchgate.net/publication/320261146_Kinetic_modeling_of_crude_oil_gasification_for_hydrogen_production_with_in_situ_CO_2_capture).
-This method is less widely used though compared to coal and natgas. But still
+This method is less widely used though compared to coal and natgas. Still,
 for countries who want to pursue it, there it is. 
 
 ---
