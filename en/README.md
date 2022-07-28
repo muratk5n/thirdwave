@@ -146,7 +146,7 @@ unemployment checks are 'socialism?'"
 Certain MSM narrative is "if interest rates fall, spending increases,
 because people borrow to spend". That is not the primary driver of
 price levels. The major transmission mechanism (though crude) is
-through *businesses* borrowing and expanding less, wages and spending
+through businesses borrowing and expanding less, wages and spending
 decrease, causing a decrease in prices.
 
 ---
