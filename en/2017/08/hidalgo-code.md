@@ -1,13 +1,5 @@
 # Product-Item, Economic Complexity, Country Competitiveness, Hidalgo
 
-Data From
-
-[Link](http://atlas.media.mit.edu/en/resources/data/)
-
-Curated version,
-
-[Link](https://drive.google.com/uc?export=view&id=1gYwaE_aLDQIfcGxIKiRcroHBTsvguBxP)
-
 Below we create a model that represents a country's economy based on
 the products it produces, and the complexity of those
 products. "Complexity" of both the country and products it produces
@@ -247,5 +239,7 @@ Inoua, <a href="https://arxiv.org/pdf/1601.05012.pdf">Simple Measure of Economic
 
 [Hidalgo](economic-complexity-hidalgo.html)
 
-[Data](https://drive.google.com/uc?export=view&id=1gYwaE_aLDQIfcGxIKiRcroHBTsvguBxP)
+[Original Data](http://atlas.media.mit.edu/en/resources/data/)
+
+[Curated version](https://drive.google.com/uc?export=view&id=1gYwaE_aLDQIfcGxIKiRcroHBTsvguBxP)
 
