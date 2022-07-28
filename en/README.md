@@ -2,276 +2,171 @@
 
 ---
 
-Pinned Tweets
-
-<iframe width="95%" src="https://www.youtube.com/embed/JGe8R0N20ps?start=412&end=545" title="How Cheap Hydrogen Could Become the Next Clean Fuel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Goodbye E-cars: BMW Wants to Mass-Produce Hydrogen Cars <a href="https://t.co/C6OnEFBilM">https://t.co/C6OnEFBilM</a></p>&mdash; Kevin Morgan (@KevinMo95499403) <a href="https://twitter.com/KevinMo95499403/status/1552561038775799809?ref_src=twsrc%5Etfw">July 28, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Financial Times: "In the US, the ‘real money’ is still betting on blue hydrogen"
+H2 Central: "World’s eyes on Whyalla [Oz] as 60 companies bid for
+green hydrogen plant work. Whyalla’s $593 million green hydrogen plant
+is putting the town on the global map"
 
 ---
 
-H2 Fuel News: "Universal Hydrogen and Avmax announce hydrogen fuel
-aircraft deal"
+H2 Central: "[SA] Minister of Energy..  met..  Monday with Thailand
+Deputy Prime Minister and Minister of Energy..  and his accompanying
+delegation. During the meeting, they discussed aspects of cooperation
+between the two friendly countries in the fields of energy, including:
+petroleum refining, renewable energy and clean hydrogen"
 
 ---
 
-H2 Central: "Lower Saxony’s Environment Minister Olaf presented the
-funding notification of €2.375 million for Uniper’s planned hydrogen
-pilot project at the Krummhoern natural gas storage site [for reusing
-it on H2]...
+👍 👍 👍 
 
-Uniper Energy Storage will test the construction and operation of a
-new salt cavern specifically built for hydrogen storage on a large
-scale and in a real-world environment at the natural gas storage
-facility in Krummhoern, Northern Germany"
+"@SunHydrogenInc
+
+SunHydrogen’s nanoparticle technology directly uses. sunlight to
+generate hydrogen – no grid power or costly power electronics
+required"
 
 ---
 
-NTT is the third largest company of Japan in market cap.
-
-H2 Central: "[Japanese] NTT.. announced a joint research and
-development project to study safety measures for the mass
-transportation of hydrogen through existing pipeline infrastructure.
-
----
-
-"UK hydrogen pipeline project receives Government funding.. SPS has
-revealed it plans to begin feasibility work with Smartflow Couplings
-at SPS’ site in East Heslerton, North Yorkshire to support the switch
-from natural gas to hydrogen"
-     
----
-
-"@KeithDPatch · Air Products.. new ESG goals include converting its
-fleet of ≈2,000 trucks to hydrogen!"
+Electricity is suitable as the *last* step in the energy chain, not
+the first. It can be generated close to its consumers, through
+fuel-cells, fine. But since its storage and transmisson is too
+inefficient, it's usage into the centerpiece of an energy system is
+problematic. Its proponents are too blind to see this, they chose the
+route wout much thinking anyway, merely followed trend handed down by
+deluded adminstrations, faux-genius jackoffs, and dumb tech-bros who
+like bright shiny objects that shine when plugged in
 
 ---
 
-H2 View: "South Australian Government announces global interest for
-its A$593m hydrogen jobs plan"
+It's a matter of existing infrastructure, know-how. But take water, go
+ahead, electrolyze, or just as good, let's develop [thermochemical water splitting](2022/02/h2-thermo-chemical.html).
+Especially [molten salt reactors](2022/02/h2-thermo-chemical.html#thorium) have
+promise in this area (uses thorium, the waste product is better manageable).
+
+"But there is already H atoms inside water? Why bother with hydrocarbons"
 
 ---
 
-Let's do green H2, sure, but priority IMO should be the more available
-resource; natgas and coal.
+That could produce 3.5 GW equivalent of H2.. A big solar plant
+level. From f-ing corn.. Hey, I'll take it.
 
 ---
 
-EU usage nears US level; granted even a massive Russia pipeline cannot
-take care all of that, but it still beats not having that input.
-
----
-
-Total European energy usage
+Ethanol production is very little but highest in US compared to
+some other countries I looked at
 
 ```python
-_,_,tot = util.get_bp_country("Total Europe")
-np.round(tot*1000 / (365*24),2),'GW'
-```
-
-```text
-Out[1]: (2103.05, 'GW')
-```
-
----
-
-This electrification business is a complete racket. Fish bait for
-idiots.
-
----
-
-Lithium? You have to drive the electric car for two years before it
-offsets the CO2 emitted while digging up, preparing its lithium. And
-that's just the lithium. 
-
----
-
-Natgas emissions 400 g CO2 / kWh. After 95% capture (which can
-actually go even higher for natgas) the result is 20 g CO2 / kwh which
-makes it nearly twice better than solar panels.
-
----
-
-How to compare CO2 emissions from solar (yes there is some) vs fossil taking
-into account the entire lifetime? [This paper](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1530-9290.2011.00439.x)
-puts that value at around 55 g / kwh thorughout the lifetime of a solar panel
-(there is massive carbon emitted while producing the panel).
-
-For coal that value is 1011 g CO2 / kWh. But once CCS is factored in,
-assuming 95% is captured, lifetime emission of coal falls to 50 g /
-kwh. Meaning, coal + CCS is cleaner than solar panels. 
-
----
-
-Simulation is done with a software called Aspen Plus. Click and the
-plant would calculate its internal parameters.. Fantastic.
-
-I've seen a few books that use direct Python programming too which
-obviously jives with my toolset.
-
----
-
-[Link](https://pbs.twimg.com/media/FYnxj9BXgAI8kqb?format=png&name=small)
-
----
-
-The professor I talked to on Coal-CCS sent me bunch of links, among
-them is an industrial plant simulation file for blue hydrogen
-production. The tech exists.
-
----
-
-I bet this guy mixed up electricity with total energy like most of his
-white-collar electric-loving dipshit brethren.
-
----
-
-Norway's renewable energy comprises 50% of is consumption. But even if
-they didn't have that, NW has huge oil and gas reserves.
-
----
-
-He is full of shit
-
-```python
-import util; util.country_bp("Norway")
+import util; util.country_bp("US")
 ```
 
 ```text
              Year
-wind_twh     2021     3.770902
-solar_twh    2021     0.063139
-nuclear_twh  2021     0.000000
-hydro_twh    2021    45.855275
-oil_twh      2021    33.651383
-gas_twh      2021    13.727958
-coal_twh     2021     2.931343
+wind_twh     2021     1.654620
+solar_twh    2021     0.713243
+nuclear_twh  2021     3.533104
+hydro_twh    2021     1.111511
+oil_twh      2021    42.327231
+gas_twh      2021    35.659344
+coal_twh     2021    12.666405
+biogeo_twh   2021     0.989210
+ethanol_twh  2021     1.345333
 dtype: float64
 
 Production As Percentage of Consumption
 
-      Perc Commodity
-0  1196.47       Oil
-1  2668.60       Gas
-2     0.00      Coal
+     Perc Commodity
+0  104.87       Oil
+1  113.00       Gas
+2  110.18      Coal
 
 Total
 
-35.62 GW
+2646.55 GW
 ```
 
 ---
 
-I bet this guy is full of shit
+- CAPER achieves process intensified hydrogen production from ethanol.
 
-"@ErikSolheim.. 
+- High-pressure H2 is electrochemically produced at low temperatures and voltages.
 
-[Norway is] almost entirely powered by renewable energy"
+- CO2 is captured within the caustic electrolyte for a carbon-neutral process.
 
----
+- 100% Faraday efficiency and pure H2 in the gas phase is achieved.
 
-Sad and hilarious in a way
-
-Al Jazeera: "South Africa calls for Israel to be declared an ‘apartheid state’"
+[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0926860X22001703)
 
 ---
 
-"@eidsuleman
+Ethanol is produced in US mostly from corn AFAIK
 
-Demolition of Palestinian house in Um Qusah"
-
-[[-]](https://twitter.com/eidsuleman/status/1551537342032273417)
-
----
-
-"@DalrympleWill
-
-British wine wholesaler ‘leaves Brexitland for good’ over
-paperwork.. Daniel Lambert, who supplies M&S, Waitrose and 300
-independent retailers, to set up in France after £150,000 hole in
-revenue"
+"CAPER .. [process] converts aqueous-phase ethanol into high-purity,
+high-pressure hydrogen. This technique is sustainable because the
+caustic electrolyte solution captures and processes any greenhouse gas
+emissions"
 
 ---
 
-I'm not sure why Ukraine MPs input matters, they are not part of NATO
-(hence the pickle they are in). Right on a likely French veto.. If the
-trouble triggered by UK/US meddling is any guide, a new head from an
-outer alliance country would cause nothing but more trouble, would be
-against the interests of Europe, France.
+H2 Central: "Romania Endorses Procurement of Twelve Hydrogen Trains"
 
 ---
 
-That would be hilarious..
+Brian Bennet - Boogie Juice \#music
 
-"Boris Johnson tipped to become next secretary general of
-Nato.. Ukrainian and Tory MPs support idea of PM being a possible
-candidate, though sceptics suggest he would likely be greeted with a
-French veto"
+[[-]](https://youtu.be/V9HcjhfVKnU)
 
 ---
 
-Euro News: "Taipei to stage street evacuation air raid dril"
+"@H2Europe
+
+As a result of a collaboration among @SSAB, @LKABgroup &
+@VattenfallGroup, the @hybrit_project represents a complete industrial
+value chain for fossil-free hydrogen-based iron and steelmaking"
 
 ---
 
-Hopefully the RU debacle strengthens parties not antagonistic toward
-Russia going forward... I remember in one German debate before last
-election Janine Wissler from Die Linke said some supportive words in
-that vein and boy, was she gazed upon as some kind of freak weirdo by
-most others in that panel.
+Some articles on crude oil gasification -
+[paper](https://www.tandfonline.com/doi/abs/10.1080/10916466.2016.1255643),
+[paper](https://www.researchgate.net/publication/328087957_Modeling_crude_oil_gasification),
+[paper](https://www.researchgate.net/publication/320261146_Kinetic_modeling_of_crude_oil_gasification_for_hydrogen_production_with_in_situ_CO_2_capture).
+This method is less widely used though compared to coal and natgas. But still
+for countries who want to pursue it, there it is. 
 
 ---
 
-Davis: "[In Ukraine] Most Likely Scenario (Collapse of Western
-Support).. Without remarkable levels of financial and military support
-from Western countries, Russia might well have conquered far more
-territory, and far faster, than it already has. Moscow might have even
-forced an end-of-war settlement on Kyiv by now...
+"@DanPriceSeattle
 
-Most Western countries have a reflexive opposition to Russia. They
-regard Moscow’s invasion of Ukraine with a combination of anger, fear,
-and for some, hatred. All Western governments believe that Moscow’s
-invasion was illegal and unjustified, and they want Putin to fail. But
-each nation is also primarily concerned about its own national
-security and interests. That self-interest balances their desire for
-Russian failure. They do not want their support to cross a line and
-draw them into conflict with Russia...
-
-An additional and often overlooked factor is that some Western
-governments view the threat of a conventional attack from Moscow to be
-negligible. They have given minimal support – enough to be seen as
-“doing something,” yet not enough to risk harming their own militaries
-or their own economies, or to risk being dragged into the conflict
-themselves...
-
-Already the economies of the West are showing signs that a recession
-is coming. In part as a result of massive sanctions levied on Russia,
-gasoline prices have risen to historic highs, global food supplies
-have risen to near crisis-levels (raising the price of nearly all
-groceries), and inflation in the U.S. and UK remains at a four-decade
-high. But the gas situation in Europe may prove to be the trigger for
-a retrenchment of Western support to Ukraine..
-
-The populations of Germany, Italy, France, Spain, and other Western
-European nations, however, recognize there is effectively *no*
-conventional threat to them from Moscow. Why, they will begin asking
-with increasing stridency, should they sacrifice their own economic
-security, struggle to put food on their tables, and scramble to heat
-their homes during winter so that their governments can support
-Ukraine in a war that is not necessary for European security?..
-
-[[-]](https://www.19fortyfive.com/2022/07/the-ukraine-war-could-end-with-western-discontent/)
+So a $700 billion bailout for the banks, an 80 billion bailout for the
+auto industry, a 50 billion bailout for the airlines and a 3 trillion
+dollar Fed bailout for the stock market are all "capitalism" but
+unemployment checks are 'socialism?'"
 
 ---
 
-Actually according to analysis Russia did not structure its modern
-military assuming it will always have air superiority, quite the
-reverse. They watched Desert Storm, and other US, NATO interventions,
-the lessons they learned from that was air superiority is not
-guaranteed, hence the investment in air defense, the most notable
-being the S-series SAM tech.
+Certain MSM narrative is "if interest rates fall, spending increases,
+because people borrow to spend". That is not the primary driver of
+prices. The major transmission mechanism (though byzantian and crude)
+is through *businesses* borrowing and expanding less, wages and
+spending decrease, causing a decrease in prices.
+
+---
+
+Al Monitor: "Tunisia has approved a new constitution that critics say
+cements Saied's one-man rule and reverses hard-won democratic gains in
+the country that birthed the Arab Spring"
+
+---
+
+Al Monitor: "Pro-Sadr protesters storm parliament.. Sadr's bloc won 73
+seats in Iraq's October 2021 election, making it the largest faction
+in the 329-seat parliament. But since the vote, talks to form a new
+government have stalled.
+
+The oil-rich country remains mired in a political and a socioeconomic
+crisis, despite elevated global oil prices"
 
 ---
 
