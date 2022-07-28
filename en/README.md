@@ -139,8 +139,8 @@ for countries who want to pursue it, there it is.
 ---
 
 Politico: "Senate Majority Leader Chuck Schumer and Sen. Joe Manchin
-salvaged a deal on Wednesday for a bill..devoting hundreds of billions
-of dollars to clean energy technologies...
+salvaged a deal on Wednesday for a bill.. devoting hundreds of
+billions of dollars to clean energy technologies...
 
 The figure is roughly in line with funding levels discussed earlier in
 July among Senate Democrats that called for about $300 billion in tax
