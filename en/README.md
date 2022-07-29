@@ -86,6 +86,11 @@ crazy number.
 
 ---
 
+Add to that the limited reserves of lithium the problem with battery
+electric approach becomes clearer. This approach was nothing but a fad
+triggered by few foolish administrations, faux genius jackoff CEOs,
+and deluded white-collar cuck media.
+
 "@GregKable
 
 We need to be talking about this
@@ -94,7 +99,7 @@ We need to be talking about this
 
 - IER report: 2.27 million litres of water required to extract 1 ton of lithium
 
-- average annual rainfall: 2mm *
+- average annual rainfall: 2mm
 
 - Atacama water table losing 1950 liters/second"
 
