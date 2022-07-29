@@ -1,5 +1,9 @@
 # Week 30 
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Goodbye E-cars: BMW Wants to Mass-Produce Hydrogen Cars <a href="https://t.co/C6OnEFBilM">https://t.co/C6OnEFBilM</a></p>&mdash; Kevin Morgan (@KevinMo95499403) <a href="https://twitter.com/KevinMo95499403/status/1552561038775799809?ref_src=twsrc%5Etfw">July 28, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 H2 Central: "World’s eyes on Whyalla [Oz] as 60 companies bid for
 green hydrogen plant work. Whyalla’s $593 million green hydrogen plant
 is putting the town on the global map"
