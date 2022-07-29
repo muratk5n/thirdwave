@@ -47,7 +47,7 @@ delivery company.. to Grow Presence in North America"
 
 ---
 
-H2 Central: "GTT has been granted two Approvals in Principle (AIP1 )
+H2 Central: "GTT has been granted two Approvals in Principle (AIP1)
 from the leading classification society DNV for the design of a
 membrane type containment system for liquefied hydrogen (LH2) and for
 the preliminary concept design of a LH2 carrier.
