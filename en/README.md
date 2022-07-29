@@ -160,7 +160,7 @@ Gas prices are falling
 
 ---
 
-Sharknado is the one where they come in inside a hurricane 
+Sharknado is the one where they arrive inside a hurricane 
 
 ---
 
