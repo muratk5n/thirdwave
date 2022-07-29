@@ -203,7 +203,7 @@ Two GDP contractions in a row.. But let's not use the R word
 
 ---
 
-2020 has been surpassed already?
+2020 has been surpassed already
 
 "@IrenaBuzarewicz
 
