@@ -86,10 +86,11 @@ crazy number.
 
 ---
 
-Add to that the limited reserves of lithium the problem with battery
-electric approach becomes clearer. This approach was nothing but a fad
-triggered by few foolish administrations, faux genius jackoff CEOs,
-and deluded white-collar cuck media.
+Add to that the limited reserves of lithium, the problem with battery
+electric approach becomes clearer.. This tech was nothing but a fad
+triggered by few uninformed administrations, faux genius jackoff CEOs,
+and mainstream media who is too fucking dumb to seperate the wheat
+from the chaff. 
 
 "@GregKable
 
