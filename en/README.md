@@ -224,11 +224,11 @@ that goes along with it, but the reverse is happening.
 
 Customer churn analysis has these type of problems..  Tough to pin
 down what churn is. Two months of non-activity considered churn? Maybe
-the guy will be back after 65th day..? Maybe he was on
-vacation. Survival Analysis, a related field. One approach I saw
-formulates the reverse, try to predict how long 'not churn' will
-last. Then can ask the model for a probability of certain 'not churn'
-period ahead, apply cutoff, threshold on that.
+the guy will be back after 65th day..? Maybe he was on vacation. One
+approach I saw formulates the reverse (surv analysis), try to predict
+how long 'not churn' will last. Then can ask the model for a
+probability of certain 'not churn' period ahead, apply cutoff,
+threshold on that.
 
 ---
 
