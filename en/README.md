@@ -79,7 +79,7 @@ reduction process took only 4 min"
 
 Microwave oven based thermochemical water splitting paper says "at 700
 W, a temperature of 600 Celcius could be reached.. At this power, the
-highest oxygen and hydrogen yields were [obtained]". 700 W is not that
+highest oxygen and hydrogen yields were [obtained]". 700 W is not a
 crazy number.
 
 [[-]](https://www.mdpi.com/1996-1073/15/9/3044/pdf)
