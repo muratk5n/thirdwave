@@ -152,7 +152,7 @@ uranium and thorium fluorides"
 
 ---
 
-Gas prices are falling
+Gasoline prices are falling
 
 ```
 2022-07-25  4.440
