@@ -64,16 +64,14 @@ Project, 400MW Green Hydrogen and Ammonia Projects"
 
 H2 Central: "Zara founder Amancio Ortega acquired a stake in Enagas
 SA’s renewable energy unit as the textile billionaire bets on new
-types of energy.
-
-Ortega’s family office Pontegadea bought 5% of the Enagas Renovable
-unit for an undisclosed amount, Madrid-based Enagas said in a press
-statement on Wednesday"
+types of energy... Ortega’s family office Pontegadea bought 5% of the
+Enagas Renovable unit for an undisclosed amount, Madrid-based Enagas
+said in a press statement on Wednesday"
 
 ---
 
 "The maximum hydrogen yield was 122 mL/g at 700 W..  the thermal
-reduction process took only 4 min"
+reduction process took only 4 min". Ok..
 
 ---
 
