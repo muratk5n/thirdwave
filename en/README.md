@@ -130,7 +130,7 @@ Truck fuelled with liquid hydrogen"
 
 ---
 
-Big claim - awesome if true
+Big claim - great if true
 
 "ThorCon generates reliable electric power cheaper than coal,
 competitive with natural gas, cheaper than LNG, cheaper than
