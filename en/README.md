@@ -218,7 +218,7 @@ Not directly addressing UKR-RU issue here.. Theirs is a
 multidimensional beef. But UKR arming itself before the war surely
 bothered Russia.
 
-Get arma fine obv as long as can deliver the ass-kicking that goes
+Get arms fine obv as long as can deliver the ass-kicking that goes
 along with it, but that didn't happen.
 
 ---
