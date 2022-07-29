@@ -6,201 +6,239 @@
 
 ---
 
-H2 Central: "World’s eyes on Whyalla [Oz] as 60 companies bid for
-green hydrogen plant work. Whyalla’s $593 million green hydrogen plant
-is putting the town on the global map"
+
 
 ---
 
-H2 Central: "[SA] Minister of Energy..  met..  Monday with Thailand
-Deputy Prime Minister and Minister of Energy..  and his accompanying
-delegation. During the meeting, they discussed aspects of cooperation
-between the two friendly countries in the fields of energy, including:
-petroleum refining, renewable energy and clean hydrogen"
+A MOON-LANDING MOMENT 
+
+Microsoft: "Hydrogen fuel cells could provide emission free backup
+power at datacenters.. A round of applause and shouts of joy from
+engineers at Plug, who built the fuel cell system... The moment was
+the latest milestone on Microsoft’s quest to find a zero-carbon
+emissions replacement for the backup diesel-powered generators that
+support continuous operations in the event of power outages and other
+service disruptions.
+
+'What we just witnessed was, for the datacenter industry, a moon
+landing moment,” said Sean James, Microsoft’s director of datacenter
+research. “We have a generator that produces no emissions. It’s
+mind-blowing.'"
 
 ---
 
-Electricity is partially suitable as the *last* step in the energy
-chain, not the first nor the middle. It can be generated close to its
-consumers, through fuel-cells.. But since its storage and transmisson
-is too inefficient, its usage as the centerpiece of an energy system
-is problematic.
+Manchin FTW. Give credit where it's due.
+
+Recharge: "US green hydrogen would become world's cheapest form of H2
+under tax-credit plan in new Manchin-approved bill.. Producers would
+receive up to $3 per kg — depending on level of lifecycle greenhouse
+gas emissions and staff wages — if Inflation Reduction Act clears
+Congress
+
+The surprise breakthrough tax and climate bill agreed yesterday by
+maverick coal-state Democratic senator Joe Manchin and Senate majority
+leader Chuck Schumer includes generous tax credits that would make
+green hydrogen cheaper to produce than grey in many parts of the US"
 
 ---
 
-👍 👍 👍 
-
-"@SunHydrogenInc
-
-SunHydrogen’s nanoparticle technology directly uses. sunlight to
-generate hydrogen – no grid power or costly power electronics
-required"
+H2 Fuel News: "GenCell Energy, the leading provider of hydrogen and
+ammonia to power fuel cell solutions.. announces entering a strategic
+partnership with the ONEC pGrnoup, a mid-sized Canadian project
+delivery company.. to Grow Presence in North America"
 
 ---
 
-It's a matter of existing infrastructure, know-how. But go ahead,
-electrolyze, or just as good, let's develop [thermochemical water splitting](2022/02/h2-thermo-chemical.html).
-Especially [molten salt reactors](2022/02/h2-thermo-chemical.html#thorium)
-have promise in this area (uses thorium, the waste product is better manageable).
+H2 Central: "GTT has been granted two Approvals in Principle (AIP1 )
+from the leading classification society DNV for the design of a
+membrane type containment system for liquefied hydrogen (LH2) and for
+the preliminary concept design of a LH2 carrier.
 
-"But there is already H atoms inside water? Why bother with hydrocarbons"
-
----
-
-That could produce 3.5 GW equivalent of H2.. A big solar plant
-level. From f-ing corn.. Hey, I'll take it.
+These approvals are part of the agreement with Shell, announced in
+February 2022, and pave the way for the next stages of the project"
 
 ---
 
-Ethanol production is very little but highest in US compared to
-some other countries.
+H2 Central: "ATOME Energy Signs Up FEED Contractor for Villeta
+Project, 400MW Green Hydrogen and Ammonia Projects"
 
-```python
-import util; util.country_bp("US")
+---
+
+H2 Central: "Zara founder Amancio Ortega acquired a stake in Enagas
+SA’s renewable energy unit as the textile billionaire bets on new
+types of energy.
+
+Ortega’s family office Pontegadea bought 5% of the Enagas Renovable
+unit for an undisclosed amount, Madrid-based Enagas said in a press
+statement on Wednesday"
+
+---
+
+"The maximum hydrogen yield was 122 mL/g at 700 W..  the thermal
+reduction process took only 4 min"
+
+---
+
+Microwave oven based thermochemical water splitting paper says "at 700
+W, a temperature of 600 Celcius could be reached.. At this power, the
+highest oxygen and hydrogen yields were [obtained]". 700 W is not that
+crazy number.
+
+[[-]](https://www.mdpi.com/1996-1073/15/9/3044/pdf)
+
+---
+
+"@GregKable
+
+We need to be talking about this
+
+- Atacama salt flat (Chile) claimed to hold 27% of global lithium reserves
+
+- IER report: 2.27 million litres of water required to extract 1 ton of lithium
+
+- average annual rainfall: 2mm *
+
+- Atacama water table losing 1950 liters/second"
+
+---
+
+"@DWV_H2
+
+'…. and taking into account that we have to import the vast majority
+of #energy for #mobility, the real advantage of FCEVs becomes
+apparent: higher efficiency, fast refueling, cheaper infrastructure,
+security of supply 24/7!'"
+
+[[-]](https://twitter.com/BioWouter/status/1552261590673760256)
+
+---
+
+"@JoSamps92
+
+@DaimlerTruck continues to develop its hydrogen-based drives with an
+announcement on July 27 revealing plans to test a Mercedes-Benz GenH2
+Truck fuelled with liquid hydrogen"
+
+---
+
+\#apple \#fuelcell \#2020
+
+[[-]](https://www.techradar.com/news/apple-patent-hydrogen-fuel-cell-macbook-ipad)
+
+---
+
+Big claim - awesome if true
+
+"ThorCon generates reliable electric power cheaper than coal,
+competitive with natural gas, cheaper than LNG, cheaper than
+storage-buffered wind and solar"
+
+[[-]](https://thorconpower.com/economics/)
+
+---
+
+"ThorCon is a molten salt fission reactor. Unlike all current nuclear
+reactors, the fuel is in liquid form. It can be moved around with a
+pump, and passively drained in the event of a casualty.ThorCon’s
+reactor operates at about the same pressure as your garden
+hose. Standard nuclear reactors operate at up to 160 bar (2300
+psi). They require 9 inch thick pressure vessels and massive piping..
+The pump takes liquid fuelsalt — a mixture of sodium, beryllium,
+uranium and thorium fluorides"
+
+[[-]](https://thorconpower.com/design/#fission-island)
+
+---
+
+Gas prices are falling
+
+```
+2022-07-25  4.440
 ```
 
-```text
-             Year
-wind_twh     2021     1.654620
-solar_twh    2021     0.713243
-nuclear_twh  2021     3.533104
-hydro_twh    2021     1.111511
-oil_twh      2021    42.327231
-gas_twh      2021    35.659344
-coal_twh     2021    12.666405
-biogeo_twh   2021     0.989210
-ethanol_twh  2021     1.345333
-dtype: float64
+---
 
-Production As Percentage of Consumption
+Sharknado is the one where they come in inside a hurricane 
 
-     Perc Commodity
-0  104.87       Oil
-1  113.00       Gas
-2  110.18      Coal
+---
 
-Total
+Sharktopus
 
-2646.55 GW
+These are all real movies.. Eric Roberts played in this one
+
+---
+
+Sharkula.. Sharknado.. Sharkenstein
+
+One day I'll sit down and watch all in order
+
+---
+
+Jurassic Shark! **Aqua**pocalypse 😂 
+
+---
+
+"@olexandr
+
+geometric deep-learning that does fast molecular docking is the
+biggest scam since Theranos"
+
+---
+
+For admin "R word" sounds bad.. For the FED one reason to play down
+recession cld be not wanting to be pressured into raising before
+inflation goes lower.
+
+---
+
+Two GDP contractions in a row.. But let's not use the R word
+
+```
+2022-01-01   -1.573400
+2022-04-01   -0.934183
 ```
 
 ---
 
-- "CAPER achieves process intensified hydrogen production from ethanol.
+2020 has been surpassed already?
 
-- High-pressure H2 is electrochemically produced at low temperatures and voltages.
+"@IrenaBuzarewicz
 
-- CO2 is captured within the caustic electrolyte for a carbon-neutral process.
+2022"
 
-- 100% Faraday efficiency and pure H2 in the gas phase is achieved"
-
-[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0926860X22001703)
+[[-]](https://twitter.com/IrenaBuzarewicz/status/1552518376844664835)
 
 ---
 
-Ethanol is produced in US mostly from corn AFAIK
+Not directly addressing UKR-RU issue here.. Theirs is a
+multidimensional beef. But UKR arming itself before the war surely
+bothered Russia.
 
-"CAPER .. [process] converts aqueous-phase ethanol into high-purity,
-high-pressure hydrogen. This technique is sustainable because the
-caustic electrolyte solution captures and processes any greenhouse gas
-emissions"
-
----
-
-H2 Central: "Romania Endorses Procurement of Twelve Hydrogen Trains"
+Do that, fine of course, as long as one can deliver the ass-kicking
+that goes along with it, but the reverse is happening.
 
 ---
 
-Brian Bennet - Boogie Juice \#music
-
-[[-]](https://youtu.be/V9HcjhfVKnU)
-
----
-
-"@H2Europe
-
-As a result of a collaboration among @SSAB, @LKABgroup &
-@VattenfallGroup, the @hybrit_project represents a complete industrial
-value chain for fossil-free hydrogen-based iron and steelmaking"
+Customer churn analysis has this sort of stuff..  Tough to pin down
+what churn is. wo month non-actifity considered churn? Maybe the guy
+will be back after 65th day..? Maybe he was on vacation. Survival
+Analysis, a related field. One approach I saw formulates the reverse,
+try to predict how long 'not churn' will last. Then can ask the model
+for a probability of certain 'not churn' period ahead, apply cutoff,
+threshold on that.
 
 ---
 
-Some articles on crude oil gasification -
-[paper](https://www.tandfonline.com/doi/abs/10.1080/10916466.2016.1255643),
-[paper](https://www.researchgate.net/publication/328087957_Modeling_crude_oil_gasification),
-[paper](https://www.researchgate.net/publication/320261146_Kinetic_modeling_of_crude_oil_gasification_for_hydrogen_production_with_in_situ_CO_2_capture).
-This method is less widely used though compared to coal and natgas. Still,
-for countries who want to pursue it, there it is. 
+How to prove that from data..? Data would have armament levels of both
+sides over the years, plus whether they fought a war.. But how about
+armaments which did *not* result in war..?
 
----
+'Not war' is hard to pick from the data. If left out will introduce
+(survivorship) bias. We see in data what we *can* see, not what is
+actully happening.
 
-Politico: "Senate Majority Leader Chuck Schumer and Sen. Joe Manchin
-salvaged a deal on Wednesday for a bill.. devoting hundreds of
-billions of dollars to clean energy technologies...
-
-The figure is roughly in line with funding levels discussed earlier in
-July among Senate Democrats that called for about $300 billion in tax
-credits for a slate of clean energy technologies, including solar and
-wind power, energy storage, carbon capture, hydrogen and small-scale
-nuclear power"
-
----
-
-"@DanPriceSeattle
-
-So a $700 billion bailout for the banks, an 80 billion bailout for the
-auto industry, a 50 billion bailout for the airlines and a 3 trillion
-dollar Fed bailout for the stock market are all "capitalism" but
-unemployment checks are 'socialism?'"
-
----
-
-Some could argue the existing system turned the world into a
-basketcase, creating pollution, environment disasters, and encouraging
-material extraction beyond the carrying capacity of Earth, while still
-not being able to beat global poverty. 
-
-"But the existing system brought us much dynamism"
-
----
-
-Surely wage decrease sounds bad.. this is how the mechanism works
-though - sadly.  That's the reason I advocate new money entering the
-economy through people rather than businesses.
-
----
-
-Certain MSM narrative is "if interest rates rise, spending decreases,
-because people borrow to spend". That is not the primary driver of
-price levels. The major transmission mechanism (though crude) is
-through businesses borrowing and expanding less, so wages and spending
-decrease, causing a decrease in prices.
-
----
-
-"@QuincyInst
-
-Good.
-
-'Axios.com: Blinken to speak to Russia's Lavrov for first time since
-Ukraine invasion'"
-
----
-
-Can't we, like have another Twitter Revolution and fix all that? 😶
-
-Al Monitor: "Tunisia has approved a new constitution that critics say
-cements [the sitting President's] one-man rule and reverses hard-won
-democratic gains in the country that birthed the Arab Spring"
-
----
-
-Al Monitor: "Pro-Sadr protesters storm [the Iraqi] parliament.. Sadr's
-bloc won 73 seats in.. 2021 election, making it the largest faction in
-the 329-seat parliament. But since the vote, talks to form a new
-government have stalled. The oil-rich country remains mired in a
-political and a socioeconomic crisis, despite elevated global oil
-prices"
+"There is something called the security dilemma one side arming can
+cause another to arm, we can prove it"
 
 ---
 
