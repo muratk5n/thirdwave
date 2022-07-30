@@ -188,7 +188,7 @@ biggest scam since Theranos"
 ---
 
 For admin "R word" sounds bad.. For the FED one reason to play down
-recession cld be not wanting to be pressured into raising before
+recession cld be not wanting to be pressured into lowering before
 inflation goes lower.
 
 ---
