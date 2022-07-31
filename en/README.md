@@ -177,9 +177,9 @@ one. But cinematically wonderful, has its own pace, well acted.
 
 ---
 
-Hungary expects to agree on a new deal with Russia this summer that
-would provide the country with an additional 700 million cubic meters
-of gas, Prime Minister Viktor Orbán said Friday.
+Politico: "Hungary expects to agree on a new deal with Russia this
+summer that would provide the country with an additional 700 million
+cubic meters of gas, Prime Minister Viktor Orbán said Friday"
 
 ---
 
