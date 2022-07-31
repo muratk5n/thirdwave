@@ -8,239 +8,268 @@ Pinned Tweet
 
 ---
 
-A MOON-LANDING MOMENT 
 
-Microsoft: "Hydrogen fuel cells could provide emission free backup
-power at datacenters.. A round of applause and shouts of joy from
-engineers at Plug, who built the fuel cell system... The moment was
-the latest milestone on Microsoft’s quest to find a zero-carbon
-emissions replacement for the backup diesel-powered generators that
-support continuous operations in the event of power outages and other
-service disruptions.
-
-'What we just witnessed was, for the datacenter industry, a moon
-landing moment,” said Sean James, Microsoft’s director of datacenter
-research. “We have a generator that produces no emissions. It’s
-mind-blowing.'"
 
 ---
 
-Manchin FTW. Give credit where it's due.
-
-Recharge: "US green hydrogen would become world's cheapest form of H2
-under tax-credit plan in new Manchin-approved bill.. Producers would
-receive up to $3 per kg — depending on level of lifecycle greenhouse
-gas emissions and staff wages — if Inflation Reduction Act clears
-Congress
-
-The surprise breakthrough tax and climate bill agreed yesterday by
-maverick coal-state Democratic senator Joe Manchin and Senate majority
-leader Chuck Schumer includes generous tax credits that would make
-green hydrogen cheaper to produce than grey in many parts of the US"
+H2 View: "Hopes for hydrogen in the US have been heightened after the
+breakthrough Tax and Climate Bill was agreed on Thursday (July 28),
+seeing the US Senate offer a $3 per kg in tax credits, that look to
+make green hydrogen cheaper to produce than grey.".
 
 ---
 
-H2 Fuel News: "GenCell Energy, the leading provider of hydrogen and
-ammonia to power fuel cell solutions.. announces entering a strategic
-partnership with the ONEC pGrnoup, a mid-sized Canadian project
-delivery company.. to Grow Presence in North America"
+H2 View: "Hydrogen mixing gas turbine project takes slice of $4.2m
+funding [from US Advanced Research Projects Agency-Energy]"
 
 ---
 
-H2 Central: "GTT has been granted two Approvals in Principle (AIP1)
-from the leading classification society DNV for the design of a
-membrane type containment system for liquefied hydrogen (LH2) and for
-the preliminary concept design of a LH2 carrier.
+The Lighthouse: "Designer bacteria could fuel the future with cheap
+hydrogen.. Macquarie synthetic biologists have made a breakthrough in
+renewable energy production by creating genetically-engineered
+sugar-loving bacteria that can produce on-demand, zero-emission
+hydrogen fuel..
 
-These approvals are part of the agreement with Shell, announced in
-February 2022, and pave the way for the next stages of the project"
+The genetic engineering of the microbes is partly funded by a $1.1
+million grant from the Australian Government’s Renewable Energy Agency
+(ARENA) and supported by industry partners BOC Australia and
+Bioplatforms Australia.
 
----
+'This is renewable energy that uses a two-part system; first, the
+bacteria consume the sugar and as it digests the sugar it produces the
+hydrogen gas,' [researcher] explains...
 
-H2 Central: "ATOME Energy Signs Up FEED Contractor for Villeta
-Project, 400MW Green Hydrogen and Ammonia Projects"
+Farming bacteria to produce hydrogen also has economic and
+environmental advantages – in the right setting, bacteria rapidly
+multiply, they are cheap to create and don’t need much space...
 
----
+The University team has used genetic engineering approaches to change
+the DNA of certain strains of E. coli bacteria to produce hydrogen
+from sugars.
 
-H2 Central: "Zara founder Amancio Ortega acquired a stake in Enagas
-SA’s renewable energy unit as the textile billionaire bets on new
-types of energy... Ortega’s family office Pontegadea bought 5% of the
-Enagas Renovable unit for an undisclosed amount, Madrid-based Enagas
-said in a press statement on Wednesday"
+By accelerating the metabolism of the bacteria and finding the optimum
+conditions for production, they have produced a strain that makes
+hydrogen at rates higher than any previous published rates of
+bacterial bio-hydrogen.
 
----
+Many bio-hydrogen developers are using algae to produce hydrogen but
+Willows says that bacteria have the advantage of much faster
+production and lower inputs – they also don’t require big ponds for
+cultivation.
 
-"The maximum hydrogen yield was 122 mL/g at 700 W..  the thermal
-reduction process took only 4 min". Ok..
+The strain that the team has developed is also very stable, he
+adds. 'We have bacteria that we made more than four months ago that
+are still producing hydrogen at the same rate,” he says. “They are not
+growing or dividing – this is exciting as all of the enzymes that are
+required within the bacterial cell seem to be stable for about three
+or four months, or possibly longer.'
 
----
+Unlike ethanol – a fuel that must grow new yeast for each new batch –
+Macquarie’s bacterial hydrogen producers can keep brewing gas without
+a fresh biological agent added for each batch"
 
-Microwave oven based thermochemical water splitting paper says "at 700
-W, a temperature of 600 Celcius could be reached.. At this power, the
-highest oxygen and hydrogen yields were [obtained]". 700 W is not a
-crazy number.
-
-[[-]](https://www.mdpi.com/1996-1073/15/9/3044/pdf)
-
----
-
-Add to that the limited reserves of lithium, the problem with battery
-electric approach becomes clearer.. This tech was nothing but a fad
-triggered by few uninformed administrations, faux genius jackoff CEOs,
-and mainstream media who is too fucking dumb to seperate the wheat
-from the chaff. 
-
-"@GregKable
-
-We need to be talking about this
-
-- Atacama salt flat (Chile) claimed to hold 27% of global lithium reserves
-
-- IER report: 2.27 million litres of water required to extract 1 ton of lithium
-
-- average annual rainfall: 2mm
-
-- Atacama water table losing 1950 liters/second"
+[[-]](https://lighthouse.mq.edu.au/article/september2/designer-bacteria-could-fuel-the-future-with-cheap-hydrogen)
 
 ---
 
-"@DWV_H2
-
-'…. and taking into account that we have to import the vast majority
-of #energy for #mobility, the real advantage of FCEVs becomes
-apparent: higher efficiency, fast refueling, cheaper infrastructure,
-security of supply 24/7!'"
-
-[[-]](https://twitter.com/BioWouter/status/1552261590673760256)
+Cows produce methane naturally right? Surely lots can be done through
+bio for H2 production.
 
 ---
 
-"@JoSamps92
-
-@DaimlerTruck continues to develop its hydrogen-based drives with an
-announcement on July 27 revealing plans to test a Mercedes-Benz GenH2
-Truck fuelled with liquid hydrogen"
-
----
-
-\#apple \#fuelcell \#2020
-
-[[-]](https://www.techradar.com/news/apple-patent-hydrogen-fuel-cell-macbook-ipad)
+Utility Dive: "Carbon capture projects, regional CO2 pipeline design
+to get $2.6B in DOE funding proposal.. The Department of Energy plans
+to offer $2.54 billion to help finance six carbon capture and storage,
+or CCS, demonstration projects at coal- and gas-fired power plants as
+well as at industrial facilities, according to a notice of intent
+issued Wednesday"
 
 ---
 
-Big claim - great if true
+That is around 300 mmboe.. They have [larger fields](https://muratk5n.github.io/thirdwave/en/2019/05/oilgas.html#fields)
+over there, but it's not nothing.
 
-"ThorCon generates reliable electric power cheaper than coal,
-competitive with natural gas, cheaper than LNG, cheaper than
-storage-buffered wind and solar"
-
-[[-]](https://thorconpower.com/economics/)
-
----
-
-"ThorCon is a molten salt fission reactor. Unlike all current nuclear
-reactors, the fuel is in liquid form. It can be moved around with a
-pump, and passively drained in the event of a casualty.ThorCon’s
-reactor operates at about the same pressure as your garden
-hose. Standard nuclear reactors operate at up to 160 bar (2300
-psi). They require 9 inch thick pressure vessels and massive piping..
-The pump takes liquid fuelsalt — a mixture of sodium, beryllium,
-uranium and thorium fluorides"
-
-[[-]](https://thorconpower.com/design/#fission-island)
+Al Monitor: "More gas discovered off coast of Abu Dhabi.. The
+discovery in the Offshore Block 2 Exploration Concession off the cost
+of Abu Dhabi amounts to 1-1.5 trillion standard cubic feet of gas. The
+field is operated by the Italian energy giant Eni"
 
 ---
 
-Gasoline prices are falling
+Hopefully Wagner doesn't sabotage the shit out of that pipeline.
 
-```
-2022-07-25  4.440
+---
+
+Ok.. now we're talkin. This is some NStream level shit.
+
+```python
+print (int((30*1e9*10.55) / (1e6*365*24)), 'GW')3
 ```
 
----
-
-Sharknado is the one where they arrive inside a hurricane 
-
----
-
-Sharktopus
-
-These are all real movies.. Eric Roberts played in this one
-
----
-
-Sharkula.. Sharknado.. Sharkenstein
-
-One day I'll sit down and watch all in order
-
----
-
-Jurassic Shark! **Aqua**pocalypse 😂 
-
----
-
-"@olexandr
-
-geometric deep-learning that does fast molecular docking is the
-biggest scam since Theranos"
-
----
-
-For admin "R word" sounds bad.. For the FED one reason to play down
-recession cld be not wanting to be pressured into lowering before
-inflation goes lower.
-
----
-
-Two GDP contractions in a row.. But let's not use the R word
-
+```text
+36 GW
 ```
-2022-01-01   -1.573400
-2022-04-01   -0.934183
-```
+---
+
+[Link](https://pbs.twimg.com/media/FY2MsoEXoAMjv5-?format=jpg&name=small)
 
 ---
 
-2020 has been surpassed already
-
-"@IrenaBuzarewicz
-
-2022"
-
-[[-]](https://twitter.com/IrenaBuzarewicz/status/1552518376844664835)
-
----
-
-Not directly addressing UKR-RU issue here.. Theirs is a
-multidimensional beef. But UKR arming itself before the war surely
-bothered Russia.
-
-Get arms fine obv as long as can deliver the ass-kicking that goes
-along with it, but that didn't happen.
+Xinhuanet: "Algeria, Niger, Nigeria ink deal to build trans-Saharan
+gas pipeline..  [who] signed on Thursday a memorandum of
+understanding.. for the construction of a gas pipeline across the
+Sahara Desert that will supply Europe with additional gas.. [The
+project will link] is expected to span 4,000 km and could send up to
+30 billion cubic meters of natural gas per year"
 
 ---
 
-Customer churn analysis has these type of problems..  Tough to pin
-down what churn is. Two months of non-activity considered churn? Maybe
-the guy will be back after 65th day..? Maybe he was on vacation. One
-approach I saw formulates the reverse (surv analysis), try to predict
-how long 'not churn' will last. Then can ask the model for a
-probability of certain 'not churn' period ahead, apply cutoff,
-threshold on that.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
-How to prove that from data..? Data would have armament levels of both
-sides over the years, plus whether they fought a war.. But how about
-armaments which did *not* result in war..?
+CNBC: "[We] spoke to several pilots flying for major airlines, all of
+whom described fatigue due to long hours and what they said was
+opportunism and a desire to cut costs as part of a toxic 'race to the
+bottom' culture pervading the industry and worsening the messy
+situation that travelers are facing today.
 
-'Not war' is hard to pick from the data. If left out will introduce
-(survivorship) bias. We see in data what we *can* see, not what is
-actully happening.
+'Leading into the summer, it was absolute carnage because airlines
+didn’t know what they were doing. They didn’t have a proper plan in
+place. All they knew they wanted to do was try and fly as much as
+humanly possible – almost as if the pandemic had never happened,' the
+pilot said.
 
-"There is something called the security dilemma one side arming can
-cause another to arm, we can prove it"
+'But they forgot that they’d cut all of their resources.'"
+
+---
+
+Mind Soup - Dawn Of Caspian \#music
+
+[[-]](https://youtu.be/8albXL68H-M?t=82)
+
+---
+
+If heat works so well for water splitting, one idea is lowering water
++ catalyst down near Earth's crust, and pipeline the generated H2 to
+the surface.. It's pretty tough to drill all the way towards that
+layer sure, but one $1 billion project attempted it.
+
+---
+
+Peter Voit: "There’s a new book out this month, Before the Big Bang: The
+Origin off the Universe from the Multiverse..
+
+I spent a few minutes today looking through the book in the bookstore,
+trying to figure out where to find the details of the “spectacularly
+vindicated with observational evidence.” I didn’t see any references
+in the book..  For many years I’ve spent a significant amount of time
+reading books and papers purporting to offer scientific evidence for a
+multiverse, trying to carefully understand the author’s arguments and
+write about them here (one example involved earlier claims by this
+author, see here). Few physicists though seem to care that bogus
+claims and pseudo-science about the multiverse have overrun their
+field and become its public face. I’ve come to the conclusion that
+best to not waste more time on this"
+
+[[-]](https://www.math.columbia.edu/~woit/wordpress/?p=12997)
+
+---
+
+*Accident Man*, fine movie. Rated R.
+
+---
+
+*A Quiet Place*, not my kind of thing.. Recommender little off on this
+one. But cinematically wonderful, has its own pace, well acted.
+
+---
+
+Hungary expects to agree on a new deal with Russia this summer that
+would provide the country with an additional 700 million cubic meters
+of gas, Prime Minister Viktor Orbán said Friday.
+
+---
+
+Sound Stylistics - El Nino \#music
+
+[[-]](https://youtu.be/yhMNb_8c8Kc)
+
+---
+
+The Independent: "Brexit bad for business, says Tory mayor Andy
+Street’s comments come after Tory leadership contenders insisted
+Brexit has provided opportunities"
+
+---
+
+That looks pretty nice \#taipei
+
+[[-]](https://pbs.twimg.com/media/FY8Go4GWIAENqVW?format=jpg&name=small)
+
+---
+
+Taiwan invasion: Nov-March too windy, May-June has fog, July-September
+Typhoon season.. Which leaves only April or October. 
+
+---
+
+US "one China policy" might have a hidden gag in it.. bcz natioalists
+who lost the civil war and ran to Taiwan also considered themselves
+'the true government of China'.
+
+---
+
+RU reorg of its mil worked for them.. they saw major US air power in
+display in Desert Storm, and in later conflicts, units that can
+communicate effectively, be deployed anywhere... How do you fight
+that? So they worked on disrupting communications (major jamming
+capab), developed strong air defense, and built their offense on the
+type of war *they* would fight - against neighbors, mostly on
+land. Then tactics are centered around tanks and artillery, even
+snipers pass intel to them, air defense protects them, and they attack
+with overwhelming force, not with the precision US military can
+muster, but still through sheer numbers it is effective.
+
+---
+
+It wont; RU can still hit transport with anti-ship missiles in Crimea,
+and Kherson. See [here](https://pbs.twimg.com/media/FY5ZWQKWIAE2LD_?format=jpg&name=small).
+
+"Ukraine retaking of the Snake Island will help ease the blockade of
+grain shipments"
+
+---
+
+Davis: "Ukraine’s Big ‘Million Man’ Offensive Against Russia Is A
+Mistake... As someone who has fought in large tank battles and spent
+years participating in large-scale mechanized war games in Europe, I
+cannot stress how difficult a task it is for an army to mount an
+offensive operation when it has lost a sizeable portion of its
+experienced leaders, is filled with large numbers of raw recruits, and
+have a patchwork of limited armored vehicles and ammunition...
+
+The danger in shooting for a miracle and trying the offensive anyway
+is that Ukraine would risk suffering even more casualties, losing more
+irreplaceable equipment, and in the end potentially suffering the loss
+of even more territory than they had at the beginning of the
+battle. All Russia would have to do is absorb the blows, yield only
+when required to avoid encirclement, and then when the Ukrainian side
+had expended its striking power, launch a counter-offensive to drive
+the weakened troops further west"
 
 ---
 
