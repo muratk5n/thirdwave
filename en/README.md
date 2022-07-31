@@ -142,8 +142,8 @@ Mind Soup - Dawn Of Caspian \#music
 
 ---
 
-If heat works so well for water splitting, one idea is lowering water
-+ catalyst down near Earth's crust, and pipeline the generated H2 to
+If heat works so well for water splitting, one idea is lowering water + catalyst
+down near Earth's crust, and pipeline the generated H2 to
 the surface.. It's pretty tough to drill all the way towards that
 layer sure, but one $1 billion project attempted it.
 
