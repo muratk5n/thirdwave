@@ -115,8 +115,8 @@ Xinhuanet: "Algeria, Niger, Nigeria ink deal to build trans-Saharan
 gas pipeline..  [who] signed on Thursday a memorandum of
 understanding.. for the construction of a gas pipeline across the
 Sahara Desert that will supply Europe with additional gas.. [The
-project will link] is expected to span 4,000 km and could send up to
-30 billion cubic meters of natural gas per year"
+pipeline] is expected to span 4,000 km and could send up to 30 billion
+cubic meters of natural gas per year"
 
 ---
 
