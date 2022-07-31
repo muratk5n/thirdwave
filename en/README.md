@@ -213,15 +213,14 @@ who lost the civil war and ran to Taiwan also considered themselves
 ---
 
 RU reorg of its mil worked for them.. they saw major US air power in
-display in Desert Storm, and in later conflicts, units that can
+display in Desert Storm, and in later conflicts, saw units that can
 communicate effectively, be deployed anywhere... How do you fight
-that? So they worked on disrupting communications (major jamming
-capab), developed strong air defense, and built their offense on the
-type of war *they* would fight - against neighbors, mostly on
-land. Then tactics are centered around tanks and artillery, even
-snipers pass intel to them, air defense protects them, and they attack
-with overwhelming force, not with the precision US military can
-muster, but still through sheer numbers it is effective.
+that? Disrupt communications through major jamming capab, develop
+strong air defense, and center it around the type of war *they* would
+fight - against a neighbor, mostly on land. Tactics feed into tanks
+and artillery, even snipers pass intel to them, air defense protects
+them, and they attack with overwhelming force, not with the precision
+of US military, but still through sheer numbers it is effective.
 
 ---
 
