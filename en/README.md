@@ -143,7 +143,7 @@ Mind Soup - Dawn Of Caspian \#music
 ---
 
 Peter Voit (Not Even Wrong Blog): "There’s a new book out this month,
-Before the Big Bang: The Origin off the Universe from the Multiverse..
+'Before the Big Bang: The Origin off the Universe from the Multiverse'..
 
 I spent a few minutes today looking through the book in the bookstore,
 trying to figure out where to find the details of the 'spectacularly
