@@ -273,8 +273,8 @@ required"
 ---
 
 It's a matter of existing infrastructure, know-how. But go ahead,
-electrolyze, or just as good, let's develop [thermochemical water splitting](2022/02/h2-thermo-chemical.html).
-Especially [molten salt reactors](2022/02/h2-thermo-chemical.html#thorium)
+electrolyze, or just as good, let's develop [thermochemical water splitting](../../2022/02/h2-thermo-chemical.html).
+Especially [molten salt reactors](../../2022/02/h2-thermo-chemical.html#thorium)
 have promise in this area (uses thorium, the waste product is better manageable).
 
 "But there is already H atoms inside water? Why bother with hydrocarbons"
