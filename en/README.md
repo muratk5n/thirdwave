@@ -75,7 +75,7 @@ bio for H2 production.
 
 Utility Dive: "Carbon capture projects, regional CO2 pipeline design
 to get $2.6B in DOE funding proposal.. The Department of Energy plans
-to offer $2.54 billion to help finance six carbon capture and storage,
+to offer 2.54 billion to help finance six carbon capture and storage,
 or CCS, demonstration projects at coal- and gas-fired power plants as
 well as at industrial facilities, according to a notice of intent
 issued Wednesday"
