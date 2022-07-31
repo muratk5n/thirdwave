@@ -96,6 +96,10 @@ Hopefully Wagner doesn't sabotage the shit out of that pipeline.
 
 ---
 
+[Link](https://pbs.twimg.com/media/FY2MsoEXoAMjv5-?format=jpg&name=small)
+
+---
+
 Ok.. now we're talkin. This is some NStream level shit.
 
 ```python
@@ -107,16 +111,19 @@ int((30*1e9*10.55) / (1e6*365*24)), 'GW'
 ```
 ---
 
-[Link](https://pbs.twimg.com/media/FY2MsoEXoAMjv5-?format=jpg&name=small)
-
----
-
 Xinhuanet: "Algeria, Niger, Nigeria ink deal to build trans-Saharan
 gas pipeline..  [who] signed on Thursday a memorandum of
 understanding.. for the construction of a gas pipeline across the
 Sahara Desert that will supply Europe with additional gas.. [The
 project will link] is expected to span 4,000 km and could send up to
 30 billion cubic meters of natural gas per year"
+
+---
+
+If heat works so well for water splitting, one idea is lowering water + catalyst
+down near Earth's crust, and pipeline the generated H2 to
+the surface.. It's pretty tough to drill all the way towards that
+layer sure, but one $1 billion project attempted it.
 
 ---
 
@@ -139,13 +146,6 @@ pilot said.
 Mind Soup - Dawn Of Caspian \#music
 
 [[-]](https://youtu.be/8albXL68H-M?t=82)
-
----
-
-If heat works so well for water splitting, one idea is lowering water + catalyst
-down near Earth's crust, and pipeline the generated H2 to
-the surface.. It's pretty tough to drill all the way towards that
-layer sure, but one $1 billion project attempted it.
 
 ---
 
