@@ -9,9 +9,9 @@ Pinned Tweet
 ---
 
 H2 View: "Hopes for hydrogen in the US have been heightened after the
-breakthrough Tax and Climate Bill was agreed on Thursday (July 28),
-seeing the US Senate offer a $3 per kg in tax credits, that look to
-make green hydrogen cheaper to produce than grey.".
+breakthrough Tax and Climate Bill was agreed seeing the US Senate
+offer a $3 per kg in tax credits, that look to make green hydrogen
+cheaper to produce than grey.".
 
 ---
 
