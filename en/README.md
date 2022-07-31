@@ -235,6 +235,8 @@ when required to avoid encirclement, and then when the Ukrainian side
 had expended its striking power, launch a counter-offensive to drive
 the weakened troops further west"
 
+[[-]](https://www.19fortyfive.com/2022/07/ukraines-big-million-man-offensive-against-russia-seems-like-a-mistake/)
+
 ---
 
 ## For Members
