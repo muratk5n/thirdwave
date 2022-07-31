@@ -89,49 +89,36 @@ in da house too long, people want to throw you outa there, if there is
 no growth, the incumbent is not popular, the climb for the candidate
 from that party becomes steeper and steeper.
 
-## Next Elections
-
-Time for Change [model](https://pollyvote.com/en/components/models/hybrid/time-for-change-model/).
-
 ```python
-from io import StringIO
-import statsmodels.formula.api as smf
-import pandas as pd
-
-s="""year,gdp_growth,net_approval,two_terms,incumbent_vote
-2012,1.3,-0.8,0,52
-2008,1.3,-37,1,46.3
-2004,2.6,-0.5,0,51.2
-2000,8,19.5,1,50.3
-1996,7.1,15.5,0,54.7
-1992,4.3,-18,1,46.5
-1988,5.2,10,1,53.9
-1984,7.1,20,0,59.2
-1980,-7.9,-21.7,0,44.7
-1976,3,5,1,48.9
-1972,9.8,26,0,61.8
-1968,7,-5,1,49.6
-1964,4.7,60.3,0,61.3
-1960,-1.9,37,1,49.9
-1956,3.2,53.5,0,57.8
-1952,0.4,-27,1,44.5
-1948,7.5,-6,1,52.4
-"""
-df = pd.read_csv(StringIO(s))
-regr = 'incumbent_vote ~ gdp_growth + net_approval + two_terms'
-results = smf.ols(regr, data=df).fit()
-
-print ('R^2', results.rsquared)
 conf = results.conf_int()
-
 net_approv = -10.0; gdp_growth = 0.0
 pred = [1., gdp_growth, net_approv, 0]
 print (np.dot(pred, conf), np.dot(pred, results.params))
 ```
 
 ```text
-R^2 0.9011858911763367
 [49.14454875 51.75431018] 50.4494294659622
+```
+
+## 2020
+
+The massive fall in GDP QoQ decline due to covid made that part of the
+prediction parameter meaningless. When we assign a zero to that
+parameter, we are effectively taking it out of the equation, then
+using the remaining incumbency, net popularity, we can still predict
+an advantage for Biden, as Trump's net popularity was at -15%.
+It turns out Trump lost the election.
+
+```python
+conf = results.conf_int()
+
+net_approv = -15.0; gdp_growth = 0.0; two_terms = 0
+pred = [1., gdp_growth, net_approv, two_terms]
+print (np.dot(pred, conf), np.dot(pred, results.params))
+```
+
+```text
+[48.87488244 51.03707002] 49.95597622911089
 ```
 
 ## 2024
@@ -153,4 +140,6 @@ print (np.dot(pred, conf), np.dot(pred, results.params))
 [49.46892671 52.58969759] 51.02931215012675
 ```
 
+References
 
+Time for Change [model](https://pollyvote.com/en/components/models/hybrid/time-for-change-model/).
