@@ -1,7 +1,5 @@
 # Predicting Presidential Elections
 
-## 2016
-
 One of the better known models in this area is the *Time for Change*
 Model designed by A. Abramowitz. The model uses three factors—the
 incumbent president’s net approval rating at the end of June (approval
@@ -48,7 +46,9 @@ print ('R^2',results.rsquared)
 R^2 0.9011858911763367
 ```
 
-For the future, we ran couple of scenarios.
+Also see [Past Elections Check](prez-loo.html)
+
+## 2016
 
 We used different GDP growth and approval rating scenarios for current
 adminstration come June; These are growth 1% net popularity 0, growth
@@ -79,17 +79,15 @@ and 52%, likely loss. The second one at 2% growth and net popularity
 5 is also likely loss. The third is a toss up.
 
 It is interesting to note that Bill Clinton, known as a good
-campaigner, had significant advantages going into the 1992
-election. It is also interesting so much hinges on a very rough number
-such as growth and general popularity. But in a way this makes sense;
-Voting for a single person is a blunt instrument really, hence, the
-basis people use to judge it is also pretty general. Intuitively it
-makes sense; if a party stays in da house too long, people want to
-throw you outa there, if there is no growth, the incumbent is not
-popular, the climb for the candidate from that party becomes steeper
-and steeper.
-
-[Past Elections Check](prez-loo.html)
+campaigner, had significant advantages going into the 1992 election
+unlike his wife now going up against Trump. It is also interesting so
+much hinges on a very rough number such as growth and general
+popularity. But in a way this makes sense; Voting for a single person
+is a blunt instrument really, hence, the basis people use to judge it
+is also pretty general. Intuitively it makes sense; if a party stays
+in da house too long, people want to throw you outa there, if there is
+no growth, the incumbent is not popular, the climb for the candidate
+from that party becomes steeper and steeper.
 
 ## Next Elections
 
@@ -135,3 +133,24 @@ print (np.dot(pred, conf), np.dot(pred, results.params))
 R^2 0.9011858911763367
 [49.14454875 51.75431018] 50.4494294659622
 ```
+
+## 2024
+
+```python
+conf = results.conf_int()
+
+net_approv = -18.0; gdp_growth = -1.0; two_terms = 0
+pred = [1., gdp_growth, net_approv, two_terms]
+print (np.dot(pred, conf), np.dot(pred, results.params))
+
+net_approv = -10.0; gdp_growth = 1.0; two_terms = 0
+pred = [1., gdp_growth, net_approv, two_terms]
+print (np.dot(pred, conf), np.dot(pred, results.params))
+```
+
+```text
+[48.38870469 49.77133852] 49.08002160283556
+[49.46892671 52.58969759] 51.02931215012675
+```
+
+
