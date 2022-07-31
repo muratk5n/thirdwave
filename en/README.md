@@ -181,8 +181,8 @@ That looks nice \#taipei
 
 ---
 
-Taiwan invasion: Analyst says Nov-March too windy, May-June has fog,
-July-September Typhoon season.. That leaves April or October.
+Possible Taiwan invasion: Analyst says Nov-March too windy, May-June
+has fog, July-September Typhoon season.. That leaves April or October.
 
 ---
 
