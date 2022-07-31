@@ -195,7 +195,7 @@ Brexit has provided opportunities"
 
 ---
 
-That looks pretty nice \#taipei
+That looks nice \#taipei
 
 [[-]](https://pbs.twimg.com/media/FY8Go4GWIAENqVW?format=jpg&name=small)
 
