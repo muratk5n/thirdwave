@@ -120,13 +120,6 @@ project will link] is expected to span 4,000 km and could send up to
 
 ---
 
-If heat works so well for water splitting, one idea is lowering water + catalyst
-down near Earth's crust, and pipeline the generated H2 to
-the surface.. It's pretty tough to drill all the way towards that
-layer sure, but one $1 billion project attempted it.
-
----
-
 CNBC: "[We] spoke to several pilots flying for major airlines, all of
 whom described fatigue due to long hours and what they said was
 opportunism and a desire to cut costs as part of a toxic 'race to the
