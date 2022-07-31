@@ -153,8 +153,8 @@ Peter Voit (Not Even Wrong Blog): "There’s a new book out this month,
 Before the Big Bang: The Origin off the Universe from the Multiverse..
 
 I spent a few minutes today looking through the book in the bookstore,
-trying to figure out where to find the details of the “spectacularly
-vindicated with observational evidence.” I didn’t see any references
+trying to figure out where to find the details of the 'spectacularly
+vindicated with observational evidence.' I didn’t see any references
 in the book..  For many years I’ve spent a significant amount of time
 reading books and papers purporting to offer scientific evidence for a
 multiverse, trying to carefully understand the author’s arguments and
