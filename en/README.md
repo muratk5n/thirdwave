@@ -169,12 +169,6 @@ one. But cinematically wonderful, has its own pace, well acted.
 
 ---
 
-Politico: "Hungary expects to agree on a new deal with Russia this
-summer that would provide the country with an additional 700 million
-cubic meters of gas, Prime Minister Viktor Orbán said Friday"
-
----
-
 Sound Stylistics - El Nino \#music
 
 [[-]](https://youtu.be/yhMNb_8c8Kc)
@@ -201,6 +195,12 @@ July-September Typhoon season.. Which leaves only April or October.
 US "one China policy" might have a hidden gag in it.. bcz CH
 nationalists who lost the civil war and ran to Taiwan also considered
 themselves 'the one true government of China'.
+
+---
+
+Politico: "Hungary expects to agree on a new deal with Russia this
+summer that would provide the country with an additional 700 million
+cubic meters of gas, Prime Minister Viktor Orbán said Friday"
 
 ---
 
