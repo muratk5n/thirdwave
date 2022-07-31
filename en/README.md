@@ -158,8 +158,7 @@ vindicated with observational evidence.' I didn’t see any references
 in the book..  For many years I’ve spent a significant amount of time
 reading books and papers purporting to offer scientific evidence for a
 multiverse, trying to carefully understand the author’s arguments and
-write about them here (one example involved earlier claims by this
-author, see here). Few physicists though seem to care that bogus
+write about them here.. Few physicists though seem to care that bogus
 claims and pseudo-science about the multiverse have overrun their
 field and become its public face. I’ve come to the conclusion that
 best to not waste more time on this"
@@ -172,7 +171,7 @@ best to not waste more time on this"
 
 ---
 
-*A Quiet Place*, not my kind of thing.. Recommender little off on this
+*A Quiet Place*, not my kind of thing.. Recommender tad off on this
 one. But cinematically wonderful, has its own pace, well acted.
 
 ---
