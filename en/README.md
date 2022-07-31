@@ -200,8 +200,8 @@ That looks nice \#taipei
 
 ---
 
-Taiwan invasion: Nov-March too windy, May-June has fog, July-September
-Typhoon season.. Which leaves only April or October. 
+Taiwan invasion: Analyst says Nov-March too windy, May-June has fog,
+July-September Typhoon season.. Which leaves only April or October.
 
 ---
 
