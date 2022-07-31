@@ -92,7 +92,7 @@ field is operated by the Italian energy giant Eni"
 
 ---
 
-Hopefully Wagner doesn't sabotage the shit out of that pipeline.
+Hopefully Wagner doesn't sabotage that pipeline.
 
 ---
 
