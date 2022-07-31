@@ -124,12 +124,12 @@ CNBC: "[We] spoke to several pilots flying for major airlines, all of
 whom described fatigue due to long hours and what they said was
 opportunism and a desire to cut costs as part of a toxic 'race to the
 bottom' culture pervading the industry and worsening the messy
-situation that travelers are facing today.
+situation that travelers are facing today...
 
 'Leading into the summer, it was absolute carnage because airlines
 didn’t know what they were doing. They didn’t have a proper plan in
 place. All they knew they wanted to do was try and fly as much as
-humanly possible – almost as if the pandemic had never happened,' the
+humanly possible – almost as if the pandemic had never happened,' [a]
 pilot said.
 
 'But they forgot that they’d cut all of their resources.'"
