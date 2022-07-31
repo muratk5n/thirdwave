@@ -168,7 +168,7 @@ best to not waste more time on this"
 
 ---
 
-*Accident Man*, fine movie. Rated R.
+*Accident Man*, my kinda thing.. Rated R.
 
 ---
 
