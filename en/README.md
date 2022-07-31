@@ -100,7 +100,7 @@ Hopefully Wagner doesn't sabotage that pipeline.
 
 ---
 
-Ok.. now we're talkin. This is some NStream level shit.
+Now we're talkin. This is some NStream level shit.
 
 ```python
 int((30*1e9*10.55) / (1e6*365*24)), 'GW'
