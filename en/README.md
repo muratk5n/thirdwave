@@ -205,9 +205,9 @@ Typhoon season.. Which leaves only April or October.
 
 ---
 
-US "one China policy" might have a hidden gag in it.. bcz natioalists
-who lost the civil war and ran to Taiwan also considered themselves
-'the true government of China'.
+US "one China policy" might have a hidden gag in it.. bcz CH
+nationalists who lost the civil war and ran to Taiwan also considered
+themselves 'the one true government of China'.
 
 ---
 
