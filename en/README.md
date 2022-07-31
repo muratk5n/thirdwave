@@ -92,7 +92,9 @@ field is operated by the Italian energy giant Eni"
 
 ---
 
-Hopefully Wagner doesn't sabotage that pipeline.
+Hopefully Wagner doesn't sabotage that pipeline. "I saw a Nazi over there
+around the corner, across that thing, next to the other thing, I shot it,
+and it hit the pipeline!"
 
 ---
 
