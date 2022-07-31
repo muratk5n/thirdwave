@@ -68,8 +68,8 @@ a fresh biological agent added for each batch"
 
 ---
 
-Cows produce methane naturally right? Surely lots can be done through
-bio for H2 production.
+Cows produce methane naturally.. Surely much can be done through bio
+for H2 production.
 
 ---
 
