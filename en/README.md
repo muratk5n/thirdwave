@@ -99,7 +99,7 @@ Hopefully Wagner doesn't sabotage the shit out of that pipeline.
 Ok.. now we're talkin. This is some NStream level shit.
 
 ```python
-print (int((30*1e9*10.55) / (1e6*365*24)), 'GW')3
+int((30*1e9*10.55) / (1e6*365*24)), 'GW'
 ```
 
 ```text
