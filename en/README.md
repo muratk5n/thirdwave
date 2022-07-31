@@ -120,11 +120,11 @@ cubic meters of natural gas per year"
 
 ---
 
-CNBC: "[We] spoke to several pilots flying for major airlines, all of
-whom described fatigue due to long hours and what they said was
-opportunism and a desire to cut costs as part of a toxic 'race to the
-bottom' culture pervading the industry and worsening the messy
-situation that travelers are facing today...
+CNBC: "Air travel chaos.. [We] spoke to several pilots flying for
+major airlines, all of whom described fatigue due to long hours and
+what they said was opportunism and a desire to cut costs as part of a
+toxic 'race to the bottom' culture pervading the industry and
+worsening the messy situation that travelers are facing today...
 
 'Leading into the summer, it was absolute carnage because airlines
 didn’t know what they were doing. They didn’t have a proper plan in
