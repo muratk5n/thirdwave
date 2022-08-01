@@ -771,7 +771,7 @@ Pipeline Infrastructure And DNV Collaborate To Integrate Hydrogen In India"
 
 🤣 That. Is. Funny
 
-[[-]](https://pbs.twimg.com/media/FXgBn5GX0AEm32x?format=jpg&name=small)
+[[-]](ejagofftrump.jpeg)
 
 ---
 

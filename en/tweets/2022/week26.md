@@ -882,7 +882,7 @@ lower than that for two decades now"
 
 ---
 
-Focker has a friend, [e-jagoff](muskthiel.jpeg).. He likes battery
+Focker has a friend, [e-jagoff](ejagoffthiel.jpeg).. He likes battery
 electric cars.
 
 ---

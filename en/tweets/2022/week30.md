@@ -959,7 +959,7 @@ of more than 160 MCM per day"
 
 Trump 🔥 🔥 🔥 
 
-[[-]](https://pbs.twimg.com/media/FXgBn5GX0AEm32x?format=jpg&name=small)
+[[-]](ejagofftrump.jpeg)
 
 ---
 

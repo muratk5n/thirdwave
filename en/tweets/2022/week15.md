@@ -560,7 +560,7 @@ Focker always looked like a jagoff apparently.
 
 The other is the e-battery e-jagoff before cosmetic make-over.
 
-[Pic](muskthiel.jpeg)
+[Pic](ejagoffthiel.jpeg)
 
 ---
 
