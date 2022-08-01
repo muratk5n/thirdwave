@@ -1,6 +1,6 @@
 # Dried Poultry Meat with Fruit and Veg
 
-Ingredients (for three patties)
+Ingredients
 
 * 3/4 kg Turkey (or Chicken) Meat
 * 1/2 Bunch Swiss chards 
