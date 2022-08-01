@@ -36,7 +36,7 @@ df = pd.read_csv('straits.csv',sep=';')
 m = folium.Map(location=[30, 20], zoom_start=3, tiles="Stamen Terrain")
 for index, row in df.iterrows():
     points = json.loads(row['Path'])
-    ts = "%s, %0.2f mboe/day" % (row['Location'],row['Volume'])
+    ts = "%s, %0.2f mboe/day, %d Vessels/Year" % (row['Location'],row['Oil'],row['Ships'])
     folium.PolyLine(points, color='red', tooltip=ts, weight=4.0).add_to(m)
     
 m.save('straits-out.html')
