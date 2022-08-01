@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_6cb4d0ce252e4ae088a5f85dad63ee35 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_6cb4d0ce252e4ae088a5f85dad63ee35" ></div>
+        
+</body>
+<script>    
+    
+            var map_6cb4d0ce252e4ae088a5f85dad63ee35 = L.map(
+                "map_6cb4d0ce252e4ae088a5f85dad63ee35",
+                {
+                    center: [30.0, 20.0],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 3,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_5aac935593a9453ba241a4f3a24269a6 = L.tileLayer(
+                "https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.jpg",
+                {"attribution": "Map tiles by \u003ca href=\"http://stamen.com\"\u003eStamen Design\u003c/a\u003e, under \u003ca href=\"http://creativecommons.org/licenses/by/3.0\"\u003eCC BY 3.0\u003c/a\u003e. Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://creativecommons.org/licenses/by-sa/3.0\"\u003eCC BY SA\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_6cb4d0ce252e4ae088a5f85dad63ee35);
+        
+    
+            var poly_line_e7076fce652948058daa1d1914212b1c = L.polyline(
+                [[25.95423339, 54.286556], [26.36258644, 55.612322], [26.74205513, 56.550271], [26.03567838, 56.815349], [25.08387104, 57.28553]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 4.0}
+            ).addTo(map_6cb4d0ce252e4ae088a5f85dad63ee35);
+        
+    
+            poly_line_e7076fce652948058daa1d1914212b1c.bindTooltip(
+                `<div>
+                     Strait of Hormuz, 18.50 mboe/day
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_90578057f9e446fa979f8de740763271 = L.polyline(
+                [[2.8597841, 100.900591], [2.3430572, 101.648275], [1.6281875, 102.638907], [1.2319154, 103.255861], [1.1214319, 103.658761], [1.2693862, 104.140535], [1.4286635, 104.591188]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 4.0}
+            ).addTo(map_6cb4d0ce252e4ae088a5f85dad63ee35);
+        
+    
+            poly_line_90578057f9e446fa979f8de740763271.bindTooltip(
+                `<div>
+                     Strait of Malacca, 16.00 mboe/day
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_46b63f4de27e40a98c787a4183dad435 = L.polyline(
+                [[29.928733, 32.555618], [29.967714, 32.58654214], [30.003546, 32.58228195], [30.059301, 32.57161691], [30.130519, 32.57012362], [30.190354, 32.56710364], [30.235506, 32.54471127], [30.268483, 32.48116279], [30.28172, 32.43588289]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 4.0}
+            ).addTo(map_6cb4d0ce252e4ae088a5f85dad63ee35);
+        
+    
+            poly_line_46b63f4de27e40a98c787a4183dad435.bindTooltip(
+                `<div>
+                     Suez Canal and SUMED Pipeline, 5.50 mboe/day
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_0fbd5131af6749d6a657021c95665b1d = L.polyline(
+                [[13.33084236, 42.9634559], [12.82612011, 43.357697], [12.23879989, 43.7841013], [12.02981845, 44.6993532]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 4.0}
+            ).addTo(map_6cb4d0ce252e4ae088a5f85dad63ee35);
+        
+    
+            poly_line_0fbd5131af6749d6a657021c95665b1d.bindTooltip(
+                `<div>
+                     Bab el-Mandab, 4.80 mboe/day
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_6afbcded850646c9b34352a83dfccbf1 = L.polyline(
+                [[54.67376, 12.81721], [54.43214, 11.7776], [54.72688, 10.85669], [55.23152, 11.04331], [55.83255, 10.80526], [56.32248, 11.2942]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 4.0}
+            ).addTo(map_6cb4d0ce252e4ae088a5f85dad63ee35);
+        
+    
+            poly_line_6afbcded850646c9b34352a83dfccbf1.bindTooltip(
+                `<div>
+                     Danish Straits, 3.20 mboe/day
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_fd46aff14e4b4a93aef2d2a0080a80b8 = L.polyline(
+                [[41.21956, 29.1298], [41.15138, 29.05745], [41.08222, 29.05961], [40.99388, 28.99444], [40.74814, 27.87039], [40.54569, 27.14911], [40.30179, 26.5907], [40.02387, 26.22532]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 4.0}
+            ).addTo(map_6cb4d0ce252e4ae088a5f85dad63ee35);
+        
+    
+            poly_line_fd46aff14e4b4a93aef2d2a0080a80b8.bindTooltip(
+                `<div>
+                     Bosporus and Dardanelles Straits, 2.40 mboe/day
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_011131f4925a47c9b4830d47606172c0 = L.polyline(
+                [[8.91854, -79.5486], [9.03488, -79.6378], [9.10666, -79.6875], [9.1212, -79.7905], [9.17207, -79.8199], [9.20813, -79.9004], [9.35635, -79.9284]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 4.0}
+            ).addTo(map_6cb4d0ce252e4ae088a5f85dad63ee35);
+        
+    
+            poly_line_011131f4925a47c9b4830d47606172c0.bindTooltip(
+                `<div>
+                     Panama Canal, 0.90 mboe/day
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_266748257bb64488aad9204413b481fa = L.polyline(
+                [[-33.2723, 16.82795], [-34.7157, 18.3735], [-35.233, 21.53741]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 4.0}
+            ).addTo(map_6cb4d0ce252e4ae088a5f85dad63ee35);
+        
+    
+            poly_line_266748257bb64488aad9204413b481fa.bindTooltip(
+                `<div>
+                     Cape of Good Hope, 5.80 mboe/day
+                 </div>`,
+                {"sticky": true}
+            );
+        
+</script>
