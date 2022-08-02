@@ -208,6 +208,18 @@ Straits, Chokepoints
 
 ---
 
+But China says, no, [all that shit](https://pbs.twimg.com/media/FZIt5JHXgAA4COR?format=png&name=small) 
+is mine
+
+---
+
+UN recognized maritime borders in South China Sea based on 12 mile
+rule.. Looks fair
+
+[[-]](https://pbs.twimg.com/media/FZItfqnWIAAxvOd?format=png&name=small)
+
+---
+
 Claims on the South China Sea.. from [this paper](https://www.researchgate.net/publication/342610470_Hydrocarbon_reserves_of_the_South_China_Sea_Implications_for_regional_energy_security).
 Pretty much everyone's claimed sea space overlap and of course,
 there is oil and gas involved.
