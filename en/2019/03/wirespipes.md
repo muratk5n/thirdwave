@@ -90,6 +90,8 @@ Gulf Coast region. Transporting gaseous hydrogen via existing
 pipelines is a low-cost option for delivering large volumes of
 hydrogen"
 
+This paper [4] also verifies the efficiency of gas transmission over electricity.
+
 References
 
 [1] Typical Elec Tower [Pic](https://pbs.twimg.com/media/EvasTd_XEAAQ86Q?format=jpg&name=small)
@@ -98,3 +100,4 @@ References
 
 [3] [H2 Pipelines Capacity](https://pbs.twimg.com/media/EvdKNhvXAAE9Rr2?format=png&name=small)
 
+[4] [Cost of long-distance energy transmission by different carriers](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8661478/)
