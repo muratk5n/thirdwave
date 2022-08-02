@@ -1,6 +1,7 @@
 # The H2 Revolution
 
-Marco Alvera, CEO of SNAM, an energy infrastructure company
+Marco Alvera is the former CEO of SNAM, an energy infrastructure
+company, now at Tree Energy Solutions, an H2 startup.
 
 <a name='deaths'/>
 
