@@ -35,6 +35,6 @@ well with the meat, drying expands the whole mix into into a small
 chewable pieces.
 
 Note: If swiss chards are not available, similar green veg low in iron
-can be used (ie not spinach, or purslane). 
+can be used.
 
 
