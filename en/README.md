@@ -188,6 +188,10 @@ footprint of a country define which tariffs get applied to it?
 
 ---
 
+The Danish Strait - dam. It's busy up there..
+
+---
+
 Malacca is *closer* to the optimal path I bet corps shaving off cents
 from their cost needed that path. 
 
