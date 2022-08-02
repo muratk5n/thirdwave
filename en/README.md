@@ -154,7 +154,7 @@ recession, giving it a 'partly false' rating"
 
 Portable food: dried poultry mixed with fruit/veg. 
 
-[[-]](2022/07/dried-txxurkey-veg.html)
+[[-]](2022/07/dried-turkey-veg.html)
 
 ---
 
