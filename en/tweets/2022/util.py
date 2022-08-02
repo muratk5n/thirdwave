@@ -15,10 +15,11 @@ from io import BytesIO
 import pandas_ta as ta
 
 def country_bp(country):
-    df, prod_perc, tot = util.get_bp_country(country)
+    df, prod_perc, tot, elec = util.get_bp_country(country)
     print (df)
     print ('\nProduction As Percentage of Consumption\n')
     print (prod_perc)
+    print ('\nElectricity',np.round(elec/tot*100,2),'%')
     print ('\nTotal\n')
     print (np.round(tot*1000 / (365*24),2),'GW')
 
@@ -27,7 +28,8 @@ def get_bp_country(country):
     df = pd.read_csv(fin)
     df = df[df.Country == country]
     df = df.set_index('Year')
-    df = df[df.index == df.index.max()]    
+    df = df[df.index == df.index.max()]
+    elec = float(df['elect_twh'])
     df = df[['wind_twh','solar_twh','nuclear_twh','hydro_twh',\
              'coalcons_ej','gascons_ej','oilcons_ej','biogeo_ej',
              'ethanol_cons_pj']]
@@ -57,7 +59,7 @@ def get_bp_country(country):
         (np.round(float(df3['coal_twh']) / float(df['coal_twh']) * 100,2), 'Coal'),
     ]
     
-    return df2, pd.DataFrame(prod_perc,columns=['Perc','Commodity']), total
+    return df2, pd.DataFrame(prod_perc,columns=['Perc','Commodity']), total, elec
 
 def plot_fred(year, series):
     today = datetime.datetime.now()

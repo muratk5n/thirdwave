@@ -8,7 +8,7 @@ Ingredients
 * 1 Diced Onion
 * 1 Teaspoon Turmeric
 * 1 Teaspoon Pepper Flakes
-* 1 kg yogurt
+* 1 kg plain yogurt
 
 Cut meat into chunks and place on aliminum foil sheet. Add the
 turmeric, diced onions, peppers on top, wrap the foil around close off
