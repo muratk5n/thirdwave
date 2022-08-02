@@ -175,7 +175,7 @@ race"
 
 ---
 
-Can we sanction US for its sanctions?
+Let's sanction US for its sanctions
 
 "U.S. Eyes Sanctions Against Network It Believes Is Shipping Iranian Oil"
 
