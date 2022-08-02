@@ -146,12 +146,6 @@ controlled by Israeli security forces"
 
 ---
 
-NY Post: "A prominent economist has revealed that Facebook placed a
-fact-checking label on a post asserting that the US has entered a
-recession, giving it a 'partly false' rating"
-
----
-
 Portable food: dried poultry mixed with fruit/veg. Prot, vita, fat and
 CLA all in one place.
 
