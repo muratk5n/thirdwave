@@ -152,7 +152,8 @@ recession, giving it a 'partly false' rating"
 
 ---
 
-Portable food: dried poultry mixed with fruit/veg. 
+Portable food: dried poultry mixed with fruit/veg. Prot, vita, fat and
+CLA all in one place.
 
 [[-]](2022/07/dried-turkey-veg.html)
 
