@@ -16,8 +16,8 @@ all sides. Place pocket in oven at 200 C for 1/2 hours or until meat
 is well cooked.
 
 Once done open foil, drain away any fat, water, onions, only keep the
-meat. Put in bowl, add chards. Cut orange into pieces each, add the
-flesh in the bowl as well. Now blend.
+meat. Put in bowl, add chards. Cut orange into pieces, add the flesh
+in the bowl as well. Now blend.
 
 Put the mix in spoon-sized pieces on a drier at 55 degrees C and dry
 for 7-8 hours.
