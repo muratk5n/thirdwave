@@ -135,7 +135,7 @@ know everything? No. That's why we have professions.
 
 ---
 
-More dark comedy.. Just look at the picture.
+More dark comedy.. 
 
 Al Monitor: "Palestinian family encircled by Israeli settlement.. An
 eight-metre high metal fence surrounds the Gharib family home in the
