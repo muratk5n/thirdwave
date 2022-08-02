@@ -209,7 +209,7 @@ Straits, Chokepoints
 ---
 
 Claims on the South China Sea.. from [this paper](https://www.researchgate.net/publication/342610470_Hydrocarbon_reserves_of_the_South_China_Sea_Implications_for_regional_energy_security).
-Pretty much noone in he region agree on maritime borders - and of course,
+Pretty much everyone's claimed sea space overlap and of course,
 there is oil and gas involved.
 
 [[-]](https://pbs.twimg.com/media/FZGH3_eWIAI0Vqz?format=png&name=small)
