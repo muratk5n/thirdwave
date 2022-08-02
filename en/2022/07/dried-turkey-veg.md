@@ -1,4 +1,4 @@
-# Dried Poultry Meat with Fruit and Veg
+# Dried Poultry + Veg
 
 Ingredients
 
