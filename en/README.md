@@ -181,15 +181,21 @@ Can we sanction US for its sanctions?
 
 ---
 
-If China consumes this much amount of dirty coal, and the entire world
-depends on them to produce stuff, then to lower emissions maybe
-countries should not depend on China for so many products. Should the
-the environmental footprint of a country define which tariffs get
-applied to it?
+If China consumes a lot of dirty coal, and the entire world depends on
+them to produce stuff, then to lower emissions maybe countries should
+not depend on China for so many products. Should the the environmental
+footprint of a country define which tariffs get applied to it?
 
 ---
 
-Is "the Malacca Strait worry" overblown? There are alternatives.. 
+Malacca is *closer* to the optimal path I bet corps shaving off cents
+from their cost needed that path. 
+
+---
+
+Is "the Malacca Strait worry" overblown? There are alternatives..
+Sunda and Lombok Strait are both available and actually spacier for
+ship traffic. 
 
 ---
 
