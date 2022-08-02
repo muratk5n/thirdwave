@@ -10,7 +10,7 @@
 
 [H2 Production Methods](../../2022/02/h2-production.html)
 
-[H2 Storage Options](../../2020/10/h2-storage.html)
+[H2 Storage Options](../../2022/02/h2-storage.html)
 
 [H2 Numbers](../../2022/02/base-energy-numbers.html)
 

@@ -22,9 +22,15 @@
 
 [H2 Safety](02/h2-safety.html)
 
+[H2 Storage Options](02/h2-storage.html)
+
 [Thermo-Chemical Water Splitting](02/h2-thermo-chemical.html)
 
 [Waste-to-Hydrogen](02/h2-waste.html)
+
+[Liquified H2](02/liquified-h2.html)
+
+[Methyl Cyclohexane for H2 Storage](02/methyl-cyclohexane-h2.html)
 
 [The Great Delusion: Liberal Dreams and International Realities](03/liberal-dreams-intl-realities.html)
 
@@ -50,7 +56,7 @@
 
 [Vertical Farming](06/vertical-farming.html)
 
-[Dried Poultry Meat with Fruit and Veg](07/dried-turkey-veg.html)
+[Dried Poultry + Veg](07/dried-turkey-veg.html)
 
 [UK/US Claims on Putin's Health](07/putin-health.html)
 

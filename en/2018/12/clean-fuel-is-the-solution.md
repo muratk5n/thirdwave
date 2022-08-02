@@ -21,7 +21,7 @@ We can fix this problem at the source. If we effectively control,
 regulate the production of a clean fuels, all the way down the chain
 the energy use will be clean. The only element that can serve as clean
 storage, clean fuel (produced in one place, and can be shipped
-elsewhere) is hydrogen. H2 can be [stored](../../2020/10/h2-storage.html) in many
+elsewhere) is hydrogen. H2 can be [stored](../../2022/02/h2-storage.html) in many
 medium; gas, liquid, in ammonia, even through various catalytic
 mechanisms in metallic form. 
 

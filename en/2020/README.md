@@ -62,12 +62,6 @@
 
 [Floating City Design](10/floating-city.html)
 
-[H2 Storage Options](10/h2-storage.html)
-
-[Liquified H2](10/liquified-h2.html)
-
-[Methyl Cyclohexane for H2 Storage](10/methyl-cyclohexane-h2.html)
-
 [Bedazzled by Tech](11/bedazzled-by-tech.html)
 
 [LOHC, Toloune](11/h2-toloune-lohc.html)

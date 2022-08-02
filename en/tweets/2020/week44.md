@@ -236,7 +236,7 @@ the alloy used in the Lavo storage system"
 
 ---
 
-Hydride based H2 storage was listed [here](2020/10/h2-storage.html).
+Hydride based H2 storage was listed [here](../../2022/02/h2-storage.html).
 
 ---
 

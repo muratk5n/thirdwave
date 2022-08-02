@@ -165,7 +165,7 @@ Smart actor.
 
 ---
 
-Other [H2 storage methods](../../2020/10/h2-storage.html)
+Other [H2 storage methods](../../2022/02/h2-storage.html)
 
 ---
 
