@@ -128,8 +128,8 @@ a media release issued by the company"
 
 ---
 
-The "Mandela Effect"? Most think Mandela died in prison instead of in
-2013. That is an "effect".. I think it's just people being dumb (or
+The "Mandela Effect"? Most think Mandela died in prison instead of in 2013.
+That is an "effect".. I think it's just people being dumb (or
 uninformed). It's fine, really.. Does the man on the street need to
 know everything? No. That's why we have professions.
 
@@ -186,6 +186,10 @@ depends on them to produce stuff, then to lower emissions maybe
 countries should not depend on China for so many products. Should the
 the environmental footprint of a country define which tariffs get
 applied to it?
+
+---
+
+Is "the Malacca Strait worry" overblown? There are alternatives.. 
 
 ---
 
