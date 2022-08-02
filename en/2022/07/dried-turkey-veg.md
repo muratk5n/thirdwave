@@ -20,13 +20,12 @@ meat. Put in bowl, add chards. Cut orange into pieces, add the flesh
 in the bowl as well. Now blend.
 
 Put the mix in spoon-sized lumps on a drier at 55 degrees C and dry
-for 7-8 hours.
+for 7-8 hours. 
 
 Seperately, dry yogurt in the oven at 100 C or so until it loses all
 water.
 
-Now put dried meat + chard + orange mix in a dry bowl, add the dried
-yogurt, mix it well. 
+Now put meat mix in a dry bowl, add the dried yogurt, mix.
 
 That's it. 
 
