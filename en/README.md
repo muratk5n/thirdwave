@@ -114,6 +114,10 @@ energy across Europe"
 
 ---
 
+Then this silicon-based powder sort of becomes the fuel, the thing
+that gets stored, transported etc; since it can take H2 out of any
+water.
+
 H2 Fuel News: "Si+ material to make hydrogen fuel transportation and
 storage safer.. The silicon-based powder acts as a solid-state H2
 making it safer to both store and transport... The breakthrough was
