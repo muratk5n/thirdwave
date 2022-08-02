@@ -146,8 +146,8 @@ controlled by Israeli security forces"
 
 ---
 
-Portable food: dried poultry mixed with fruit/veg. Prot, vita, fat and
-CLA all in one place.
+Portable food: dried poultry mixed with fruit/veg. Protein, vita,
+CLA/fat all in one place.
 
 [[-]](2022/07/dried-turkey-veg.html)
 
