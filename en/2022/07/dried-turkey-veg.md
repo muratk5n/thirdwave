@@ -35,6 +35,7 @@ well with the meat, drying expands the whole mix into into a small
 chewable pieces.
 
 Note: If swiss chards are not available, similar green veg low in iron
-can be used.
+can be used. Instead of yogurt, tallow is fine too, melt, pour on
+dried meat, mix.
 
 
