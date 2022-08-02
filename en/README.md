@@ -208,6 +208,11 @@ Straits, Chokepoints
 
 ---
 
+The now militarized Spratly Islands are smack in the middle of
+international waters
+
+---
+
 But China says, no, [all that shit](https://pbs.twimg.com/media/FZIt5JHXgAA4COR?format=png&name=small) 
 is mine
 
