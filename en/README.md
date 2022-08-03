@@ -2,7 +2,7 @@
 
 ---
 
-Pinned Tweet
+Pinned Tweets
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Goodbye E-cars: BMW Wants to Mass-Produce Hydrogen Cars <a href="https://t.co/C6OnEFBilM">https://t.co/C6OnEFBilM</a></p>&mdash; Kevin Morgan (@KevinMo95499403) <a href="https://twitter.com/KevinMo95499403/status/1552561038775799809?ref_src=twsrc%5Etfw">July 28, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -19,219 +19,215 @@ for hydrogen pipelines"
 
 ---
 
-He referenced the paper above
+The government informed that the draft Hydrogen Mission document has
+been prepared. In his Independence Day speech last year, Prime
+Minister Narendra Modi had announced the launch of the National
+Hydrogen Mission...
 
-"@BrianGitt
+According to the [Minister of State for New and Renewable Energy] the
+draft mission proposes a framework for demand creation, a basket of
+measures to support production and utilisation of green hydrogen and
+support for indigenous manufacturing.
 
-Capital cost of long-distance energy transmission ($/mile-MW):
-
-Electrical lines = $1,502
-
-Hydrogen pipeline = $166
-
-Natural gas pipeline  = $97
-
-Oil pipeline = $16"
-
----
-
-"@H2Societies
-
-Just a single company - Air Products - has over 600 miles of hydrogen
-pipeline in operation around the US Gulf Coast"
+Besides, it also includes research and development work, pilot
+projects, enabling policies and regulations, and infrastructure
+development.
 
 ---
 
-Ammonia Energy: "Mitsui & Co. and CF Industries will jointly develop a
-greenfield facility that will produce CCS ammonia on the US Gulf
-Coast. The partners are targeting a reduction of at least 60%
-emissions compared to conventional ammonia production, with the
-selection of a technology provider in its final stages..
+The Australia Today: "In a research paper published in the prestigious
+journal *Materials Today* [Deakin University researchers] have offered
+a novel way to separate, store and transport huge amounts of hydrogen
+gas safely and with almost no wastage..
 
-[CF said:] 'Our work with Mitsui has reinforced our shared belief that
-blue ammonia will play a critical role in accelerating the world’s
-transition to clean energy and that demand for blue ammonia will grow
-meaningfully in the second half of this decade. We believe that the
-United States offers considerable advantages for blue ammonia
-production due to access to plentiful and low-cost natural gas, the
-regulatory and legal framework in place, and the geology suitable for
-permanent carbon sequestration.'
+The traditional oil refinery methods make up 15 per cent of the
+world’s energy use [which] uses a high-energy ‘cryogenic distillation’
+process to separate crude oil into different gases that are further
+used by consumers as petrol and household gas.
 
-In November last year we reported that, thanks to planned upgrades at
-their existing Donaldsonville and Yazoo City plants, CF Industries was
-targeting CCS ammonia production of 1.25 million tonnes per year from
-2024"
+IFM researchers in their papers have outlined a completely different
+mechanochemical way of separating and storing gases that use a tiny
+fraction of the energy and create zero waste...
 
----
+The researchers say that the special ingredient in their process is
+boron nitride powder"
 
-[General Authority for Suez Canal Economic Zone] Signs MOU with Indian
-Renew Power for 220,000 Tons of Green Hydrogen Production – $8B
-Investment... 'The site initially will be set on an area of ​​600,000
-square meters in the Sokhna integrated Zone, bringing the production
-capacity of the two phases of green hydrogen to 220,000 tons and 1,100
-million tons of green ammonia.' [SCZONE chairman] Zaki added"
+[[-]](https://www.theaustraliatoday.com.au/indian-australian-scientist-contributes-to-breakthrough-research-that-could-make-hydrogen-safer-to-use/)
 
 ---
 
-H2 Central: "Hydrogen turbines – GE Gas Power awarded $4,2M in funding
-from ARPA-E.. [The] funding is focused on two projects entitled
-'Lifted-flame combustion for high-hydrogen reheat gas turbines' and
-'Manufacturing high-yield investment castings with minimal energy.'
-Both initiatives will be led by GE Gas Power and conducted at GE’s
-Global Technology Center in Greenville, South Carolina... As part of
-these projects, GE will conduct cutting-edge research for gas turbine
-decarbonization"
+H2 Central: "World's first vessel powered by an H2-storing salt gets
+construction green light..The world’s first ship to be powered using a
+solid form of hydrogen — said to be far safer and easier to store than
+compressed or liquid H2 — is due to go into operational trials at the
+Port of Amsterdam next June... The *Neo Orbis* passenger vessel —
+designed to operate in Amsterdam’s canals and in the channel between
+the city and the North Sea — will be powered by hydrogen released from
+a salt called sodium borohydride (NaBH4)"
+
+[[-]](https://www.rechargenews.com/energy-transition/solid-hydrogen-worlds-first-vessel-powered-by-an-h2-storing-salt-gets-construction-green-light/2-1-1269510?a=)
 
 ---
 
-OCI is a Netherlands based chemical company.. NL is becoming huge in
-H2 energy and regulation would be strict.. The ammonia is certainly
-clean. My only worry is not being able to generate clean fuels fast
-enough, but in terms of tech, there is a pathway to a clean energy
-future through both green and blue H2/NH3.
+Collated post on underground H2 storage.
+
+[[-]](2022/02/h2-underground.html)
 
 ---
 
-First shipment from this venture arrived to Japan recently 
+Newatlas: "EAT's silicon-based powder doesn't require you to start off
+with any hydrogen at all – and getting the hydrogen back out is even
+easier... The Si+ powder can be made using a (preferably renewable)
+energy source, as well as metallurgical-grade silicon – which itself
+can be made from sand, or from crushed-up recycled solar panels and
+electronics. EAT's process results in a porous silicon powder that's
+completely safe and easy to transport...
 
-"[06/2021: A] joint venture between Adnoc and OCI, will join the
-development of a large blue ammonia plant in the UAE’s downstream
-centre in Ruwais... The blue aspect refers to hydrogen derived from
-natural gas feedstocks. The plant will have a production capacity of
-1,000 kilotonnes a year"
-
----
-
-"@H2Europe
-
-The #hydrogen start-up [Tree Energy] has secured €65 million in its
-latest funding round.  @malvera1, the CEO, affirmed that the company
-is looking to become one of the world’s largest buyers of #renewable
-energy. Belgium-based company seeks to expand the use of renewable
-energy across Europe"
+When you need the hydrogen, you dump the Si+ powder into water, mix it
+around a bit, and ... that's pretty much it. At a wide range of
+ambient temperatures between 0-80 °C (32-176 °F), hydrogen gas will
+start bubbling out. The chemical equation, says EAT, looks like this:
+Si + 2H2O -> SiO2 + 2H2. Thus, apart from the hydrogen gas, all that's
+left over is silicon dioxide, also known as silica, or the major
+constituent of sand"
 
 ---
 
-Then this silicon-based powder sort of becomes the fuel, the thing
-that gets stored, transported etc; since it can take H2 out of any
-water easily.
+Hyzon has good PR department; Kudos. 
 
-H2 Fuel News: "Si+ material to make hydrogen fuel transportation and
-storage safer.. The silicon-based powder acts as a solid-state H2
-making it safer to both store and transport... The breakthrough was
-announced by the EPRO Advance Technology (EAT) renewable energy
-company...
+"@hyzonmotors
 
-'EAT has developed a revolutionary porous silicon material, known as
-Si+, which has the ability to generate ultra-pure hydrogen from a
-water source and which acts as a solid-state hydrogen generating
-material – one that is compact, robust, and easily transportable' said
-a media release issued by the company"
+More than 6 billion \#Google searches will be made globally today. The
+Hyzon team dug into these searches to find what the world wonders most
+about hydrogen. Among the top 10 is pollution-related & we share what
+a #hydrogen vehicle does actually emit"
 
 ---
 
-The "Mandela Effect"? Most think Mandela died in prison instead of in 2013.
-That is an "effect".. I think it's just people being dumb (or
-uninformed). It's fine, really.. Does the man on the street need to
-know everything? No. That's why we have professions.
+"@HydrogenCentral
+
+Shell and Shenergy Form Joint Venture to Develop Hydrogen Refuelling
+Network in China"
 
 ---
 
-More dark comedy.. 
+Transport only clean molecules \#H2 \#NH3
 
-Al Monitor: "Palestinian family encircled by Israeli settlement.. An
-eight-metre high metal fence surrounds the Gharib family home in the
-occupied West Bank. To reach it they must pass through a gate remotely
-controlled by Israeli security forces"
+"Methane at Sea: Finding the Invisible Climate Killer.. T&E's
+investigation into so-called ‘green’ liquid natural gas (LNG) ships
+uncovers significant amounts of invisible methane being released into
+the atmosphere"
 
-[[-]](https://pbs.twimg.com/media/FZFdyBCXwAQFYKg?format=jpg&name=small)
-
----
-
-Portable food: dried poultry mixed with fruit/veg. Protein, vita,
-CLA/fat all in one place.
-
-[[-]](2022/07/dried-turkey-veg.html)
+[[-]](https://www.transportenvironment.org/discover/methane-finding-the-invisible/)
 
 ---
 
-CNBC: "The death of easy money: Why 20% annual returns are over in
-crypto lending.. '$3 trillion of liquidity will likely be taken out of
-markets globally by central banks over the next 18 months,' said.. a
-global crypto and digital asset strategist at Bank of America"
+Recharge: "Australian start-up Hysata that says it has developed the
+world’s most efficient electrolyser has attracted A$42.5m ($29.4m) in
+an oversubscribed Series A funding round.. The Hysata electrolyser
+operates at 95% system efficiency (41.5 kWh/kg), delivering a giant
+leap in performance and cost over incumbent technologies"
 
 ---
 
-WION: "Lebanon: People queue up to buy bread, six breads sell for $20
-on black market"
+Tree Energy Solutions snagged Marco Alvera, the author of
+[this book](2022/06/the-h2-revolution-alvera.html), prev CEO of
+Snam. First project of TES is the Wilhelmshaven Green Energy Hub in
+Germany, set to supply 250 TWh/year carbon-neutral energy of which H2
+is a big part of. 250 TWh/y means 28 GW, not a small thing.
 
 ---
 
-Yahoo News: "Truss surges ahead, wins key backers in UK leadership
-race"
+This level is pretty standard for most countries.. Electricity is already
+not the preferred energy transfer medium. Let's keep it that way. Let's
+not insist on stupid.
 
 ---
 
-Let's sanction US for its sanctions
+Electricity as percentage of oveall energy consumption
 
-"U.S. Eyes Sanctions Against Network It Believes Is Shipping Iranian Oil"
+```python
+import util; _,_,_,e = util.get_bp_country("China"); e
+```
 
----
+```text
+Out[1]: 19.49
+```
 
-If China consumes a lot of dirty coal, and the entire world depends on
-them to produce stuff, then to lower emissions maybe countries should
-not depend on China for so many products. Should the the environmental
-footprint of a country define which tariffs get applied to it?
+```python
+_,_,_,e = util.get_bp_country("US"); e
+```
 
----
-
-The Danish Strait - dam. It's busy up there..
-
----
-
-Malacca is *closer* to the optimal path I bet corps shaving off cents
-from their cost needed that path. 
+```text
+Out[1]: 17.06
+```
 
 ---
 
-Is "the Malacca Strait worry" overblown? There are alternatives..
-Sunda and Lombok Strait are both available and actually spacier for
-ship traffic. 
+US imports of Chinese goods back to trend.. 
+
+```python
+import util; util.plot_fred(1990, "IMPCH")
+```
+
+```text
+                   IMPCH
+DATE                    
+2022-03-01  47373.521578
+2022-04-01  41772.201093
+2022-05-01  43864.418558
+```
+
+[[-]](https://pbs.twimg.com/media/FZLpzsNWIAweDZa?format=png&name=small)
 
 ---
 
-Straits, Chokepoints
+If latest GDP figure repeats before the next election, and net
+popularity doesn't change it's a loss for Biden if he runs again. But
+a mere -10% (an improvement) and GDP growth of 1% would give an
+advantage to him, or to the "next Dem nominee".
 
-[[-]](2019/05/oilgas.html#straits)
-
----
-
-The now militarized Spratly Islands are smack in the middle of
-international waters
+[[-]](2015/04/predicting-presidential-elections.html#2024)
 
 ---
 
-But China says, no, [all that shit](https://pbs.twimg.com/media/FZIt5JHXgAA4COR?format=png&name=small) 
-is mine
+Note that US transport did not fly over the South China Sea, scared
+the plane could get shot down on that route.
 
 ---
 
-UN recognized maritime borders in the SCC based on 12 mile
-rule.. Looks fair
-
-[[-]](https://pbs.twimg.com/media/FZItfqnWIAAxvOd?format=png&name=small)
-
----
-
-Claims on the South China Sea.. from [paper](https://www.researchgate.net/publication/342610470_Hydrocarbon_reserves_of_the_South_China_Sea_Implications_for_regional_energy_security).
-Pretty much everyone's claimed sea space overlap and of course,
-there is oil and gas involved.
-
-[[-]](https://pbs.twimg.com/media/FZGH3_eWIAI0Vqz?format=png&name=small)
+SOH Taiwan visit doesn't seem to have helped.. Just like the famed 90s
+"Tinnamen visit" clearly did nothing for democracy in China. Publicity
+stunt?
 
 ---
 
-WION: "Russia Pummels Ukraine's Mykolaiv, Killing Top Businessman"
+"@Bundeskanzler [Scholz]
+
+At @Siemens_Energy I could see with my own eyes: The serviced turbine
+is there and ready for use at any time. It only has to be requested
+from Russia. So there are no technical reasons to reduce gas supplies"
+
+---
+
+WION: "Rafael Grossi, the UN nuclear chief has shot out a warning to
+the world leaders, stating that Ukraine's Zaporizhzhia nuclear power
+plant..  'is completely out of control.. Every principle of nuclear
+safety has been violated. What is at stake is extremely serious and
+extremely grave and dangerous,' said Grossi"
+
+---
+
+Guessing once artillery fired nearby its location is pinpointed by
+this system, for an immediate counterfire.. Probably too late for UKR
+but it could be useful for someone else..
+
+---
+
+Effective at what range? 
+
+Jane's Defense: "Microflown Avisa applies 3D shockwave detection for
+improved counter-artillery capability"
 
 ---
 
