@@ -20,8 +20,6 @@
 
 [Wires vs Pipes](03/wirespipes.html)
 
-[Green Ammonia](04/greenammonia.html)
-
 [Conflict Statistics](05/confstats.html)
 
 [Drugs](05/drugs.html)
@@ -62,8 +60,6 @@
 
 [Future Shock](08/future-shock-toffler.html)
 
-[Manganese Hydride](08/manganese-hydride.html)
-
 [Marx](08/marx.html)
 
 [The Memristor](08/memristors.html)
@@ -79,8 +75,6 @@
 [1.8 Trillion $ Theft](08/trillion-dollar-theft.html)
 
 [Anti-Zionism, Anti-Semitism](08/zionism-antisemitism.html)
-
-[Aluminum Trihydride - Alane](09/alane.html)
 
 [Science Is Not about Getting More "Likes"](09/science-likes.html)
 

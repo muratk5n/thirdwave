@@ -1,7 +1,5 @@
 # 2021
 
-[Power Paste (Solid Magnesium Hydride)](02/h2-power-paste.html)
-
 [Into the Quagmire](02/into-the-quagmire.html)
 
 [Nutritional Values, Requirements](02/nutritional-values.html)

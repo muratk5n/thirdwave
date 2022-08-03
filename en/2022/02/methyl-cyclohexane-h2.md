@@ -40,3 +40,4 @@ invite them to set up shop in my country, let them produce, export H2
 (to themselves in Japan) from sunshine, tax their ass, and use the
 money for whatever. U'd literally be making money out of thin air. 
 
+[[⇪Up]](h2-storage.html)

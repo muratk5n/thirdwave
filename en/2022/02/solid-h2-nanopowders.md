@@ -21,3 +21,4 @@ vehicle powered by solid hydrogen fuel emitted from Nanopowders.
 induced magnesium hydride adsorption by ultra-smooth granules of the
 glass alloy (ZrNiPd)," Al-Sayegh added.
 
+[[⇪Up]](h2-storage.html)

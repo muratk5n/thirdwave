@@ -45,4 +45,4 @@ density.' The Fraunhofer scientists even say that the driver should
 achieve a similar range with the power paste extrapolated to a car as
 they would with the same amount of petrol, if not greater"
 
-
+[[⇪Up]](h2-storage.html)

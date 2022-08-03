@@ -64,5 +64,3 @@
 
 [Bedazzled by Tech](11/bedazzled-by-tech.html)
 
-[LOHC, Toloune](11/h2-toloune-lohc.html)
-

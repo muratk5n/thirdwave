@@ -6,9 +6,13 @@
 
 [Particles, Science and AI](01/particles-and-ai.html)
 
+[Aluminum Trihydride - Alane](02/alane.html)
+
 [Base Energy Numbers, Data](02/base-energy-numbers.html)
 
 [Energy Production Costs, LCOH, LCOE](02/costs-lcoe.html)
+
+[Green Ammonia](02/greenammonia.html)
 
 [Carbon Capture](02/h2-co2-capture.html)
 
@@ -18,6 +22,8 @@
 
 [H2 From Methane (Natural Gas)](02/h2-natural-gas.html)
 
+[Power Paste (Solid Magnesium Hydride)](02/h2-power-paste.html)
+
 [H2 Production Methods](02/h2-production.html)
 
 [H2 Safety](02/h2-safety.html)
@@ -26,11 +32,21 @@
 
 [Thermo-Chemical Water Splitting](02/h2-thermo-chemical.html)
 
+[LOHC, Toloune](02/h2-toloune-lohc.html)
+
+[H2 Underground Storage](02/h2-underground.html)
+
 [Waste-to-Hydrogen](02/h2-waste.html)
 
 [Liquified H2](02/liquified-h2.html)
 
+[Manganese Hydride](02/manganese-hydride.html)
+
 [Methyl Cyclohexane for H2 Storage](02/methyl-cyclohexane-h2.html)
+
+[Paraffin Wax](02/paraffin-wax.html)
+
+[Solid H2, Nanopowders](02/solid-h2-nanopowders.html)
 
 [The Great Delusion: Liberal Dreams and International Realities](03/liberal-dreams-intl-realities.html)
 

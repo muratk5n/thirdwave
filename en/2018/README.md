@@ -140,8 +140,6 @@
 
 [LPG Cylinders, Energy, Taxis, Kitchens](10/lpg-cylinder-gas-kitchen-cab.html)
 
-[Paraffin Wax](10/paraffin-wax.html)
-
 [Patent Codebook](10/patents-code.html)
 
 [The Case Against Patents](10/the-case-against-patents.html)
@@ -161,8 +159,6 @@
 [MPP Analysis](11/mpp-analysis.html)
 
 [#russia #russia #russia](11/russia-russia-russia.html)
-
-[Solid H2, Nanopowders](11/solid-h2-nanopowders.html)
 
 [The surprising resurgence of hydrogen fuel](11/the-surprising-resurgence-of-hydrogen.html)
 
