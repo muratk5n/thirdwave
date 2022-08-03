@@ -144,4 +144,5 @@ print (np.dot(pred, conf), np.dot(pred, results.params))
 
 References
 
-Time for Change [model](https://pollyvote.com/en/components/models/hybrid/time-for-change-model/).
+[Time for Change](https://pollyvote.com/en/components/models/hybrid/time-for-change-model/).
+
