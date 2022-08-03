@@ -146,7 +146,7 @@ not the preferred energy transfer medium. Suboptimal.
 Electricity as percentage of oveall energy consumption
 
 ```python
-import util; r = util.get_bp_country("China"); r[3]
+import util; r = util.get_bp_country("China")[3]
 ```
 
 ```text
@@ -154,7 +154,7 @@ Out[1]: 19.49
 ```
 
 ```python
-r = util.get_bp_country("US"); r[3]
+util.get_bp_country("US")[3]
 ```
 
 ```text
