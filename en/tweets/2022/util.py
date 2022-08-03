@@ -19,7 +19,7 @@ def country_bp(country):
     print (df)
     print ('\nProduction As Percentage of Consumption\n')
     print (prod_perc)
-    print ('\nElectricity',np.round(elec/tot*100,2),'%')
+    print ('\nElectricity',np.round(elec,2),'%')
     print ('\nTotal\n')
     print (np.round(tot*1000 / (365*24),2),'GW')
 
@@ -29,7 +29,7 @@ def get_bp_country(country):
     df = df[df.Country == country]
     df = df.set_index('Year')
     df = df[df.index == df.index.max()]
-    elec = float(df['elect_twh'])
+    elec = np.round(float(df['elect_twh']) / (float(df['primary_ej'])*277.778)*100,2)
     df = df[['wind_twh','solar_twh','nuclear_twh','hydro_twh',\
              'coalcons_ej','gascons_ej','oilcons_ej','biogeo_ej',
              'ethanol_cons_pj']]
