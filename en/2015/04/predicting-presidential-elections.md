@@ -106,11 +106,10 @@ print (np.dot(pred, conf), np.dot(pred, results.params))
 ## 2020
 
 The massive fall in GDP QoQ decline due to covid made that part of the
-prediction parameter meaningless. When we assign a zero to that
-parameter, we are effectively taking it out of the equation, then
-using the remaining incumbency, net popularity, we can still predict
-an advantage for Biden, as Trump's net popularity was at -15%.
-It turns out Trump lost the election.
+pred paramete meaningless. But we can assign a zero to that parameter,
+effectively taking it out of the equation, then using the remaining
+incumbency, net popularity params, still can predict an advantage for
+Biden, as Trump's net popularity was at -15%. Trump lost the election.
 
 ```python
 conf = results.conf_int()
