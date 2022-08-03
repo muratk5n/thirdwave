@@ -19,9 +19,9 @@ for hydrogen pipelines"
 
 ---
 
-The government informed that the draft Hydrogen Mission document has
-been prepared. In his Independence Day speech last year, Prime
-Minister Narendra Modi had announced the launch of the National
+H2 Central: "The government informed that the draft Hydrogen Mission
+document has been prepared. In his Independence Day speech last year,
+Prime Minister Narendra Modi had announced the launch of the National
 Hydrogen Mission...
 
 According to the [Minister of State for New and Renewable Energy] the
@@ -31,7 +31,7 @@ support for indigenous manufacturing.
 
 Besides, it also includes research and development work, pilot
 projects, enabling policies and regulations, and infrastructure
-development.
+development"
 
 ---
 
