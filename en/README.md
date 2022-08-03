@@ -8,8 +8,6 @@ Pinned Tweet
 
 ---
 
----
-
 Paper: "Cost of long-distance energy transmission by different
 carriers.. This paper compares the relative cost of long-distance,
 large-scale energy transmission by electricity, gaseous, and liquid..
