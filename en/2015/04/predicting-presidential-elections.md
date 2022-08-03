@@ -72,11 +72,16 @@ print (np.dot(pred, conf), np.dot(pred, results.params))
 [43.48008619 51.95566396] 47.71787507411282
 [44.07413046 53.50829153] 48.79121099512867
 [44.66817473 55.0609191 ] 49.864546916144526
+[43.7497525  52.67290412] 48.21132831096413
 ```
 
 For the first scenario Hillary's chances of winning are between 43%
-and 52%, likely loss. The second one at 2% growth and net popularity
-5 is also likely loss. The third is a toss up.
+and 52%, likely loss. The second one at 2% growth and net popularity 5
+is also likely loss. The third is a toss up
+
+[Note after the election: the final numbers were growth 1.2%, net
+popularity 6, close to the second case, and Hillary lost the
+election].
 
 It is interesting to note that Bill Clinton, known as a good
 campaigner, had significant advantages going into the 1992 election
