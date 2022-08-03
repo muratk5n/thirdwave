@@ -195,7 +195,7 @@ the plane could get shot down on that route.
 
 ---
 
-SOH Taiwan visit doesn't seem to have helped.. Just like the famed 90s
+SOH Taiwan visit didn't seem to help.. Just like the famed 90s
 "Tinnamen visit" clearly did nothing for democracy in China. Publicity
 stunt?
 
