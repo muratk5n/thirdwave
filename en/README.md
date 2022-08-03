@@ -163,7 +163,7 @@ Out[1]: 17.06
 
 ---
 
-US imports of Chinese goods back to trend.. 
+US imports of Chinese goods back to trend (in millions).. 
 
 ```python
 import util; util.plot_fred(1990, "IMPCH")
