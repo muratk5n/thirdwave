@@ -191,7 +191,7 @@ advantage to him, or to the "next Dem nominee".
 ---
 
 Note that US transport did not fly over the South China Sea, scared
-the plane could get shot down on that route.
+the plane could get shot down there.
 
 ---
 
