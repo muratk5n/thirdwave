@@ -143,7 +143,7 @@ controlled by Israeli security forces"
 Portable food: dried poultry mixed with fruit/veg. Protein, vita,
 CLA/fat all in one place.
 
-[[-]](2022/07/dried-turkey-veg.html)
+[[-]](../../2022/07/dried-turkey-veg.html)
 
 ---
 
@@ -194,7 +194,7 @@ ship traffic.
 
 Straits, Chokepoints
 
-[[-]](2019/05/oilgas.html#straits)
+[[-]](../../2019/05/oilgas.html#straits)
 
 ---
 
