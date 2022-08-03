@@ -139,8 +139,7 @@ is a big part of. 250 TWh/y means 28 GW, not a small thing.
 ---
 
 This level is pretty standard for most countries.. Electricity is already
-not the preferred energy transfer medium. Let's keep it that way. Let's
-not insist on stupid.
+not the preferred energy transfer medium. Suboptimal.
 
 ---
 
