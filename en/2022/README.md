@@ -14,6 +14,8 @@
 
 [Green Ammonia](02/greenammonia.html)
 
+[H2 Production via Biology](02/h2-biology.html)
+
 [Carbon Capture](02/h2-co2-capture.html)
 
 [H2 Production From Coal / CCS](02/h2-coal.html)

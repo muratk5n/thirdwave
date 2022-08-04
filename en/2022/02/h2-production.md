@@ -10,6 +10,8 @@
 
 [Waste to H2](h2-waste.html)
 
+[H2 Production via Biology](h2-biology.html)
+
 [Costs](costs-lcoe.html)
 
 [Safety](h2-safety.html)
