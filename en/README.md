@@ -77,12 +77,6 @@ annum, according to the Ministry of Trade, Industry and Energy"
 
 ---
 
-Electricity can be generated near point of consumption with
-fuel-cells. No need for inefficient transmission, or inefficient
-storage (batteries).
-
----
-
 Haha, UK doc about "electricity storage" is talking about H2 a lot. 
 
 [PDF](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1095997/benefits-long-duration-electricity-storage.pdf)
