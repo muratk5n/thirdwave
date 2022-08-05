@@ -41,10 +41,6 @@ Norwegian natural gas"
 
 ---
 
-"Hyundai Motor’s XCIENT Fuel Cell Heavy-Duty Trucks to Hit German Roads"
-
----
-
 Dr. Willows and team are working on commercial scale demo of their bio-based
 H2 generation tech.
 
@@ -74,6 +70,10 @@ The Pyeongtaek base, located at the Asan Industrial Complex, some 60
 kilometers south of Seoul, will have the capacity of providing 430,000
 hydrogen-fueled vehicles, including commercial ones, with energy per
 annum, according to the Ministry of Trade, Industry and Energy"
+
+---
+
+"Hyundai Motor’s XCIENT Fuel Cell Heavy-Duty Trucks to Hit German Roads"
 
 ---
 
