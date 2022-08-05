@@ -137,8 +137,8 @@ Pakistan — powered by 1.2GW of \#wind and \#solar"
 
 That will require massive renewable energy generation
 
-"The global green hydrogen market will expand from $2.14bn last year to
-$135.73bn by 2031.. according to a new study from Indian/US firm
+"The global green hydrogen market will expand from $2.14bn last year
+to 135.73bn by 2031.. according to a new study from Indian/US firm
 Transparency Market Research (TMR)... Similar growth was forecast in
 April by US analyst Guidehouse Insights, which forecast that the
 global manufacturing of electrolysers — the machines that produce
