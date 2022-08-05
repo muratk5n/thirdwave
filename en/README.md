@@ -150,9 +150,8 @@ dominating the electrolyser market"
 
 ---
 
-That's the German Chancelor standing next to a bleeping Siemens
-turbine for a gas pipeline; a wild guess here - molecule transport is
-crucial.
+That's the German Chancelor standing next to a Siemens turbine for a
+gas pipeline; a wild guess here - molecule transport is crucial.
 
 [[-]](https://twitter.com/Bundeskanzler/status/1554749662594211841)
 
