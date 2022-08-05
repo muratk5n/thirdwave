@@ -19,214 +19,198 @@ for hydrogen pipelines"
 
 ---
 
-H2 Central: "The government informed that the draft Hydrogen Mission
-document has been prepared. In his Independence Day speech last year,
-Prime Minister Narendra Modi had announced the launch of the National
-Hydrogen Mission...
-
-According to the [Minister of State for New and Renewable Energy] the
-draft mission proposes a framework for demand creation, a basket of
-measures to support production and utilisation of green hydrogen and
-support for indigenous manufacturing.
-
-Besides, it also includes research and development work, pilot
-projects, enabling policies and regulations, and infrastructure
-development"
+H2 Central: "Liberty Hydrogen has launched with development
+plans.. [for] an industrial-scale biomass to green ammonia
+facility. The global production capacity of grey ammonia is expected
+to expand from around 235 million metric tons in 2019, to nearly 290
+million metric tons by 2030. For companies to meet net-zero targets,
+ammonia production will need to transition to a low-carbon ‘green’
+process. Liberty Hydrogen’s green ammonia facility is targeting a
+starting capacity of 100,000 tonnes of green ammonia positioning
+itself as a leader in the burgeoning low-carbon ammonia sector."
 
 ---
 
-The Australia Today: "In a research paper published in the prestigious
-journal *Materials Today* [Deakin University researchers] have offered
-a novel way to separate, store and transport huge amounts of hydrogen
-gas safely and with almost no wastage..
+"German oil and gas company Wintershall Dea and compatriot pipeline
+operator Nord-West Oelleitung (NWO) have signed an agreement for the
+BlueHyNow hydrogen production plant in Wilhelmshaven... Wintershall
+Dea plans a plant for producing large volumes of hydrogen using
+Norwegian natural gas"
 
-The traditional oil refinery methods make up 15 per cent of the
-world’s energy use [which] uses a high-energy ‘cryogenic distillation’
-process to separate crude oil into different gases that are further
-used by consumers as petrol and household gas.
-
-IFM researchers in their papers have outlined a completely different
-mechanochemical way of separating and storing gases that use a tiny
-fraction of the energy and create zero waste...
-
-The researchers say that the special ingredient in their process is
-boron nitride powder"
-
-[[-]](https://www.theaustraliatoday.com.au/indian-australian-scientist-contributes-to-breakthrough-research-that-could-make-hydrogen-safer-to-use/)
+[[-]](https://www.offshore-energy.biz/wintershall-dea-and-nwo-to-work-on-bluehynow-hydrogen-production-plant/)
 
 ---
 
-H2 Central: "World's first vessel powered by an H2-storing salt gets
-construction green light..The world’s first ship to be powered using a
-solid form of hydrogen — said to be far safer and easier to store than
-compressed or liquid H2 — is due to go into operational trials at the
-Port of Amsterdam next June... The *Neo Orbis* passenger vessel —
-designed to operate in Amsterdam’s canals and in the channel between
-the city and the North Sea — will be powered by hydrogen released from
-a salt called sodium borohydride (NaBH4)"
-
-[[-]](https://www.rechargenews.com/energy-transition/solid-hydrogen-worlds-first-vessel-powered-by-an-h2-storing-salt-gets-construction-green-light/2-1-1269510?a=)
+"Hyundai Motor’s XCIENT Fuel Cell Heavy-Duty Trucks to Hit German Roads"
 
 ---
 
-Collated post on underground H2 storage.
+Dr. Willows and team are working on commercial scale demo of their bio-based
+H2 generation tech.
 
-[[-]](2022/02/h2-underground.html)
-
----
-
-Newatlas: "EAT's silicon-based powder doesn't require you to start off
-with any hydrogen at all – and getting the hydrogen back out is even
-easier... The Si+ powder can be made using a (preferably renewable)
-energy source, as well as metallurgical-grade silicon – which itself
-can be made from sand, or from crushed-up recycled solar panels and
-electronics. EAT's process results in a porous silicon powder that's
-completely safe and easy to transport...
-
-When you need the hydrogen, you dump the Si+ powder into water, mix it
-around a bit, and ... that's pretty much it. At a wide range of
-ambient temperatures between 0-80 °C (32-176 °F), hydrogen gas will
-start bubbling out. The chemical equation, says EAT, looks like this:
-Si + 2H2O -> SiO2 + 2H2. Thus, apart from the hydrogen gas, all that's
-left over is silicon dioxide, also known as silica, or the major
-constituent of sand"
+[[-]](https://arena.gov.au/projects/biological-hydrogen-production/)
 
 ---
 
-Hyzon has good PR department; Kudos. 
+H2 Bio Info
 
-"@hyzonmotors
-
-More than 6 billion \#Google searches will be made globally today. The
-Hyzon team dug into these searches to find what the world wonders most
-about hydrogen. Among the top 10 is pollution-related & we share what
-a #hydrogen vehicle does actually emit"
+[[-]](2022/02/h2-biology.html)
 
 ---
 
-"@HydrogenCentral
-
-Shell and Shenergy Form Joint Venture to Develop Hydrogen Refuelling
-Network in China"
-
----
-
-Transport only clean molecules \#H2 \#NH3
-
-"Methane at Sea: Finding the Invisible Climate Killer.. T&E's
-investigation into so-called ‘green’ liquid natural gas (LNG) ships
-uncovers significant amounts of invisible methane being released into
-the atmosphere"
-
-[[-]](https://www.transportenvironment.org/discover/methane-finding-the-invisible/)
+"The revolutionary patent-pending technology will allow any internal
+combustion engine in a current road vehicle to be converted into
+zero-emissions.. [The tech] can convert petrol and diesel engines
+within a day ending harmful emissions"
 
 ---
 
-Recharge: "Australian start-up Hysata that says it has developed the
-world’s most efficient electrolyser has attracted A$42.5m ($29.4m) in
-an oversubscribed Series A funding round.. The Hysata electrolyser
-operates at 95% system efficiency (41.5 kWh/kg), delivering a giant
-leap in performance and cost over incumbent technologies"
+"A second hydrogen production base in Korea is set to kick off
+operations in Pyeongtaek, Gyeonggi Province, next month, to improve
+the supply volume of energy to vehicle charging stations in Seoul and
+neighboring cities.
+
+The Pyeongtaek base, located at the Asan Industrial Complex, some 60
+kilometers south of Seoul, will have the capacity of providing 430,000
+hydrogen-fueled vehicles, including commercial ones, with energy per
+annum, according to the Ministry of Trade, Industry and Energy"
 
 ---
 
-Tree Energy Solutions snagged Marco Alvera, the author of
-[this book](2022/06/the-h2-revolution-alvera.html), prev CEO of
-Snam. First project of TES is the Wilhelmshaven Green Energy Hub in
-Germany, set to supply 250 TWh/year carbon-neutral energy of which H2
-is a big part of. 250 TWh/y means 28 GW, not a small thing.
+Electricity can be generated near point of consumption with
+fuel-cells. No need for inefficient transmission, or inefficient
+storage (batteries).
 
 ---
 
-This level is pretty standard for most countries.. Electricity is already
-not the preferred energy transfer medium. Suboptimal.
+Haha, UK doc about "electricity storage" is talking about H2 a lot. 
+
+[PDF](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1095997/benefits-long-duration-electricity-storage.pdf)
 
 ---
 
-Electricity as percentage of oveall energy consumption
+I believe the poster below used the words "as of 2020" to report a
+cumulative number as in **all** renewable elec generated by 2020, not
+the annual number. The cumulative is an odd thing to report - you'd do
+it of course to inflate your results...
+
+---
 
 ```python
-import util; util.get_bp_country("China")[3]
+import pandas as pd
+df = pd.read_csv('../../2019/05/bp-stats-review-2022-consolidated-dataset-panel-format.csv')
+df = df[(df.Country == 'Total World') & (df.Year == 2020)]
+x = float(df['electbyfuel_ren_power'])
+t = float(df['primary_ej'])*277.778
+print ("%0.2f Twh, %0.2f percent" % (x, x/t*100))
 ```
 
 ```text
-Out[1]: 19.49
-```
-
-```python
-util.get_bp_country("US")[3]
-```
-
-```text
-Out[1]: 17.06
+3146.57 Twh, 2.01 percent
 ```
 
 ---
 
-US imports of Chinese goods back to trend (in millions).. 
+In year 2020 renewable electricity was at 3146 TWh, half of the number
+below. 3146 TWh represents 2% of all energy production of that year.
 
-```python
-import util; util.plot_fred(1990, "IMPCH")
-```
-
-```text
-                   IMPCH
-DATE                    
-2022-03-01  47373.521578
-2022-04-01  41772.201093
-2022-05-01  43864.418558
-```
-
-[[-]](https://pbs.twimg.com/media/FZLpzsNWIAweDZa?format=png&name=small)
+"@IRENA Renewable Energy Statistics 2022 shows that the amount of
+electricity generated from renewables reached 7468 TWh as of 2020"
 
 ---
 
-If latest GDP figure repeats before the next election, and net
-popularity doesn't change it's a loss for Biden if he runs again. But
-a mere -10% (an improvement) and GDP growth of 1% would give an
-advantage to him, or to the "next Dem nominee".
+It will take 80 of these things to create serious competition with a
+major oil and natgas find - but green is good.
 
-[[-]](2015/04/predicting-presidential-elections.html#2024)
+"@SolarPowerWorld
 
----
-
-Note that US transport did not fly over the South China Sea, scared
-the plane could get shot down there.
+250-MW Arizona solar project 1 step closer to construction"
 
 ---
 
-SOH Taiwan visit didn't seem to help.. Just like the famed 90s
-"Tinnamen visit" clearly did nothing for democracy in China. Publicity
-stunt?
+"@LeighCollinsREC
+
+Green light given to Dubai royal’s 400MW green \#hydrogen project in
+Pakistan — powered by 1.2GW of \#wind and \#solar"
 
 ---
 
-"@Bundeskanzler [Scholz]
+That will require massive renewable energy generation
 
-At @Siemens_Energy I could see with my own eyes: The serviced turbine
-is there and ready for use at any time. It only has to be requested
-from Russia. So there are no technical reasons to reduce gas supplies"
+"The global green hydrogen market will expand from $2.14bn last year to
+$135.73bn by 2031.. according to a new study from Indian/US firm
+Transparency Market Research (TMR)... Similar growth was forecast in
+April by US analyst Guidehouse Insights, which forecast that the
+global manufacturing of electrolysers — the machines that produce
+green hydrogen from renewable electricity..
 
----
-
-WION: "Rafael Grossi, the UN nuclear chief has shot out a warning to
-the world leaders, stating that Ukraine's Zaporizhzhia nuclear power
-plant..  'is completely out of control.. Every principle of nuclear
-safety has been violated. What is at stake is extremely serious and
-extremely grave and dangerous,' said Grossi"
-
----
-
-Guessing once artillery fired nearby its location is pinpointed by
-this system, for an immediate counterfire.. Probably too late for UKR
-but it could be useful for someone else..
+The study adds that solar energy will be the leading source of power
+for green hydrogen over the forecasted period, with PEM technology
+dominating the electrolyser market"
 
 ---
 
-Effective at what range? 
+That's the German Chancelor standing next to a bleeping Siemens
+turbine for a gas pipeline; a wild guess here - molecule transport is
+crucial.
 
-Jane's Defense: "Microflown Avisa applies 3D shockwave detection for
-improved counter-artillery capability"
+[[-]](https://twitter.com/Bundeskanzler/status/1554749662594211841)
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">California&#39;s leadership is helping guide the auto industry and other states in the development of a <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> economy. With growing support from automakers, the opportunities for hydrogen-powered transportation continue to grow. <a href="https://t.co/ygrFeriT5w">https://t.co/ygrFeriT5w</a> <a href="https://t.co/ypJ0dblS3D">pic.twitter.com/ypJ0dblS3D</a></p>&mdash; SoCalGas (@socalgas) <a href="https://twitter.com/socalgas/status/1554912361760169984?ref_src=twsrc%5Etfw">August 3, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+A hit already.. 2019 movie *Yesterday*. Brilliant. Haven't had this
+much fun with a story on the music industry since *That Thing You Do*
+and *Rockstar*.
+
+---
+
+New Netflix ratings data file, sweet.. This one includes 2019. The
+code works on it. More data to chew on.. 
+
+---
+
+They have an actor on the lam - as in he is running away *from the
+law*, right now. They are looking for this guy. Imagine how messed up
+that is.
+
+---
+
+The new CEO is fixing some stuff but boy, was Warner Bros in a mess..
+
+---
+
+If China consumes twice as much energy as India with about same amt of
+people, that means they are producing something in excess, and that
+something is goods for the world. The energy to make that stuff mostly
+comes from dirty coal.
+
+It seems to me some developed countries simply shifted their polluting
+over to China and think they are scotfree. if they really cared about
+the environment they would tariff that pollution. Of course that would
+be inflationary and/or could mean less shopping. But let's think about
+that - do kids really need that Mr. Potatohead toy? Parents can make
+it from potato from the grocery store.
+
+---
+
+Yahoo Finance: "OPEC Confirms Smallest Ever Output Increase.. The
+world's largest oil exporters agreed to a token increase in crude
+production from September, unable and unwilling to compensate for the
+tightening of the world market by western sanctions on Russia"
+
+---
+
+'@DanDePetris
+
+Pelosi may no longer be in Taiwan, but the mess she helped create
+remains. I still have no clue why she made the trip, and her op-ed in
+the Washington Post yesterday didn’t really give me a convincing
+answer. Blurp blurp, bleep bleep, democracy vs. autocracy, bleep
+bleep"
 
 ---
 
