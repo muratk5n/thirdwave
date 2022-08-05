@@ -192,8 +192,8 @@ It seems to me some developed countries simply shifted their polluting
 over to China and think they are scotfree. if they really cared about
 the environment they would tariff that pollution. Of course that would
 be inflationary and/or could mean less shopping. But let's think about
-that - do kids really need that Mr. Potatohead toy? Parents can make
-it from potato from the grocery store.
+that - do kids really need that Mr. Potatohead toy? Parents can DIY make
+it using regular potato.
 
 ---
 
