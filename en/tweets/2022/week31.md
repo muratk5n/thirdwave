@@ -31,7 +31,7 @@ H2 generation tech.
 
 H2 Bio Info
 
-[[-]](2022/02/h2-biology.html)
+[[-]](../../2022/02/h2-biology.html)
 
 ---
 
@@ -242,7 +242,7 @@ a salt called sodium borohydride (NaBH4)"
 
 Collated post on underground H2 storage.
 
-[[-]](2022/02/h2-underground.html)
+[[-]](../../2022/02/h2-underground.html)
 
 ---
 
@@ -302,7 +302,7 @@ leap in performance and cost over incumbent technologies"
 ---
 
 Tree Energy Solutions snagged Marco Alvera, the author of
-[this book](2022/06/the-h2-revolution-alvera.html), prev CEO of
+[this book](../../2022/06/the-h2-revolution-alvera.html), prev CEO of
 Snam. First project of TES is the Wilhelmshaven Green Energy Hub in
 Germany, set to supply 250 TWh/year carbon-neutral energy of which H2
 is a big part of. 250 TWh/y means 28 GW, not a small thing.
@@ -357,7 +357,7 @@ popularity doesn't change it's a loss for Biden if he runs again. But
 a mere -10% (an improvement) and GDP growth of 1% would give an
 advantage to him, or to the "next Dem nominee".
 
-[[-]](2015/04/predicting-presidential-elections.html#2024)
+[[-]](../../2015/04/predicting-presidential-elections.html#2024)
 
 ---
 
