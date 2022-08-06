@@ -151,7 +151,7 @@ item picker.
 
 Says 'find an output that is transient'; I guess the output of a Unix
 process list is pretty transient - new programs get created,
-destroyed, their uptime, ordering can change which changes the output,
+destroyed, their uptime, ordering can change that changes the output,
 which will give a near-random looking digest.
 
 ---
