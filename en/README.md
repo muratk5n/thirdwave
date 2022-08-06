@@ -209,7 +209,7 @@ it's a big "EEZ off".
 
 ---
 
-That's why the so-called Blue Homeland EEZ was enacted unilaterally
+That's why the so-called "Blue Homeland" EEZ was enacted unilaterally
 since 2013, and is now being followed. The corridor with Libya was
 agreed upon based on this EEZ.
 
