@@ -1,8 +1,16 @@
+from pandas_datareader import data, wb
 import datetime, time as timelib
 import urllib.request as urllib2
 import pandas as pd, requests, datetime
 from io import BytesIO
 from datetime import date
+
+def get_fred(year, series):
+    today = datetime.datetime.now()
+    start=datetime.datetime(year, 1, 1)
+    end=datetime.datetime(today.year, today.month, today.day)
+    df = data.DataReader(series, 'fred', start, end)
+    return df
 
 def get_yahoofin(year,ticker):
     end = datetime.datetime.now()

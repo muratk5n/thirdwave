@@ -123,7 +123,6 @@ Freq: AS-JAN, Name: Taylor, dtype: float64
 
 ![](taylor.png)
 
-
 ## Wages and Unemployment
 
 <a name="nfp"/>
@@ -341,6 +340,20 @@ DATE
 ```
 
 ![](unemploy.png)
+
+<a name='vacrate'/>
+
+Vacancy rate, job openings divided by unemployed people
+
+```python
+import util; df = util.get_fred(2000, ['JTSJOL','UNEMPLOY'])
+df = df.dropna()
+df['VRATE'] = df.JTSJOL / df.UNEMPLOY
+df.VRATE.plot()
+plt.savefig('vrate.png')
+```
+
+![](vrate.png)
 
 <a name="pmi"></a>
 

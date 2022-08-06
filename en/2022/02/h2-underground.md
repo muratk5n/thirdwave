@@ -53,6 +53,8 @@ pressure when needed. For natural gas, underground storage in disused
 fields is remarkably cheap, at something like $10/MWh even if you only
 use it once a year...
 
+<a name='pipe'/>
+
 ### Pipe Storage
 
 Alvera, *The Hydrogen Revolution*

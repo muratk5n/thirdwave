@@ -19,11 +19,17 @@ Britain’s mass market Sun newspaper suggests that Russian President
 Vladimir Putin may have Parkinson’s disease and be poised to quit early
 next year.
 
+[2020/02/27](https://www.bbc.com/news/world-europe-51658065): Putin dismisses rumours he uses body doubles for security.
+
 ### 2016
 
 [2016/10/11](https://www.express.co.uk/news/world/731307/Vladimir-Putin-resign-Russian-president-quit):
 UK Express: Putin could be forced to quit the Kremlin next year because of his worsening
 health, an insider has claimed.
+
+[2016/12/24](https://www.dailystar.co.uk/news/latest-news/vladimir-putin-russia-body-double-17083215):
+"VLADIMIR Putin was killed in a plot by the CIA and MI6 and replaced
+with a body double who still leads Russia"
 
 ### 2015
 
