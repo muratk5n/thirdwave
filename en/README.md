@@ -123,12 +123,6 @@ Lewis Taylor - Lucky (Kruder & Dorfmeister) \#music
 
 ---
 
-Long-ass numbers. To pick something out of a list (song, video) take
-mod (divide, use remainder) by number of items, that's your random
-item picker.
-
----
-
 ```python
 import hashlib, subprocess
 def rand():
@@ -149,7 +143,11 @@ rand()
 Out[1]: 10192885274940431714481800575362464434
 ```
 
-Excellent
+Excellent.
+
+Long-ass numbers. To pick something out of a list (song, video) take
+mod (divide, use remainder) by number of items, that's your random
+item picker.
 
 ---
 
