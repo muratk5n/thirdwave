@@ -189,11 +189,12 @@ that hard.
 ---
 
 Now here's some more crazier stuff; TR/US rel soured. Russkie has
-access to EastMed (through Syria) and now perhaps most of northern
+access to EastMed (through Syria) and soon perhaps most of northern
 Black Sea EEZ. A confluence of interest occured, TR will increase RU
-rel, provide transit to RU exports, and will buy more military hardware
-from Russia, and in return recruit some RU help in the EastMed.
-TR/RU on one side, Greece, Egypt, Israel, (EU?) on the other.
+rel, provide transit to RU exports, and will buy more military
+hardware from Russia, and in return recruit some RU help in the
+EastMed.  TR/RU on one side, Greece, Egypt, Israel, (EU?) on the
+other.
 
 ---
 
