@@ -101,11 +101,10 @@ That is a good campaign jab
 
 "John Fetterman Enlists New Jersey Legend Steven Van Zandt To Troll
 Dr. Oz..  Fetterman on Tuesday posted a video of the New Jersey
-legend, musician-actor Steven Van Zandt, telling Oz to ― and we’re
-paraphrasing here ― get back to where he belongs. 'What are you doing
-in Pennsylvania? Everybody knows you live in New Jersey..  come on
-back to Jersey where you belong and we’ll have some fun, eh? We’ll go
-to the beach. We’ll go surfing. You know?  C’mon.'"
+legend, musician-actor Steven Van Zandt, telling Oz.. 'What are you
+doing in Pennsylvania? Everybody knows you live in New Jersey..  come
+on back to Jersey where you belong and we’ll have some fun, eh? We’ll
+go to the beach. We’ll go surfing. You know?  C’mon.'"
 
 ---
 
