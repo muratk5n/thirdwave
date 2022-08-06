@@ -19,193 +19,230 @@ for hydrogen pipelines"
 
 ---
 
-H2 Central: "Liberty Hydrogen has launched with development
-plans.. [for] an industrial-scale biomass to green ammonia
-facility. The global production capacity of grey ammonia is expected
-to expand from around 235 million metric tons in 2019, to nearly 290
-million metric tons by 2030. For companies to meet net-zero targets,
-ammonia production will need to transition to a low-carbon ‘green’
-process. Liberty Hydrogen’s green ammonia facility is targeting a
-starting capacity of 100,000 tonnes of green ammonia positioning
-itself as a leader in the burgeoning low-carbon ammonia sector."
+FHCEA: "How the Inflation Reduction Act of 2022 Will Advance a
+U.S. Hydrogen Economy.. [IRA] of 2022 was recently introduced by
+Senators Manchin and Majority Leader Schumer. The new legislation
+would invest $369 billion in energy security and climate change
+provisions, including new and critical ones for hydrogen and fuel
+cells"
+
+[[-]](https://www.fchea.org/transitions/2022/8/5/how-the-inflation-reduction-act-of-2022-will-advance-a-us-hydrogen-economy)
 
 ---
 
-"German oil and gas company Wintershall Dea and compatriot pipeline
-operator Nord-West Oelleitung (NWO) have signed an agreement for the
-BlueHyNow hydrogen production plant in Wilhelmshaven... Wintershall
-Dea plans a plant for producing large volumes of hydrogen using
-Norwegian natural gas"
+Great news - Russkie has long history on fundamental science, there
+could be fine discoveries from there.
 
-[[-]](https://www.offshore-energy.biz/wintershall-dea-and-nwo-to-work-on-bluehynow-hydrogen-production-plant/)
-
----
-
-Dr. Willows and team are working on commercial scale demo of their bio-based
-H2 generation tech.
-
-[[-]](https://arena.gov.au/projects/biological-hydrogen-production/)
+"Russian university is looking to develop hydrogen technologies.. The
+Siberian Federal University’s School of Natural Gas and Petroleum has
+opened a new ‘intersectoral’ research centre for innovative
+technologies, the SIDERA Centre, with plans of introducing hydrogen
+technologies into various industries"
 
 ---
 
-H2 Bio Info
-
-[[-]](2022/02/h2-biology.html)
-
----
-
-"The revolutionary patent-pending technology will allow any internal
-combustion engine in a current road vehicle to be converted into
-zero-emissions.. [The tech] can convert petrol and diesel engines
-within a day ending harmful emissions"
+"Saudi Arabian oil company Aramco and SABIC Agri-Nutrients (AN)
+Company announced the firms have obtained the world’s first
+independent certifications recognising blue hydrogen and ammonia
+production. Aramco said in a statement the German-based testing,
+inspection, and certification agency TÜV Rheinland granted the
+certifications to SABIC AN for 37,800 tonnes of blue ammonia and
+Aramco’s wholly owned refinery for 8,075 tonnes of blue hydrogen"
 
 ---
 
-"A second hydrogen production base in Korea is set to kick off
-operations in Pyeongtaek, Gyeonggi Province, next month, to improve
-the supply volume of energy to vehicle charging stations in Seoul and
-neighboring cities.
-
-The Pyeongtaek base, located at the Asan Industrial Complex, some 60
-kilometers south of Seoul, will have the capacity of providing 430,000
-hydrogen-fueled vehicles, including commercial ones, with energy per
-annum, according to the Ministry of Trade, Industry and Energy"
+"Goldman Sachs doesn’t see nuclear as a transformational technology for the future"
 
 ---
 
-"Hyundai Motor’s XCIENT Fuel Cell Heavy-Duty Trucks to Hit German Roads"
+"Oracle Power PLC, the international natural resources project
+developer announce that the Company has received a letter from the
+Directorate of Alternative Energy of the Government of Sindh
+confirming that it will issue a LOI to Oracle regarding the
+establishment of a 1,200MW hybrid solar/wind, green hydrogen/power
+project in Pakistan"
 
 ---
 
-Haha, UK doc about "electricity storage" is talking about H2 a lot. 
-
-[PDF](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1095997/benefits-long-duration-electricity-storage.pdf)
-
----
-
-It will take 80 of these things to create serious competition with a
-major oil and natgas find.
-
-But green is great. Let's do more.
-
-"@SolarPowerWorld
-
-250-MW Arizona solar project 1 step closer to construction"
+Don't have suitable salt cavern location for H2 storage? [Pipe storage](2022/02/h2-underground.html#pipe)
+is possible, feasible, cheap.
 
 ---
 
-"@LeighCollinsREC
+Vacancy rate, the number of job openings per unemployed which showes
+"labor market tighness" is through the roof. The great resignation
+might have had an effect here. There be slowdown and a tight labor
+market at the same time with these conditions. WSJ is right - every
+crisis is different.
 
-Green light given to Dubai royal’s 400MW green \#hydrogen project in
-Pakistan — powered by 1.2GW of \#wind and \#solar"
-
----
-
-That will require massive renewable energy generation
-
-"The global green hydrogen market will expand from $2.14bn last year
-to 135.73bn by 2031.. according to a new study from Indian/US firm
-Transparency Market Research (TMR)... Similar growth was forecast in
-April by US analyst Guidehouse Insights, which forecast that the
-global manufacturing of electrolysers — the machines that produce
-green hydrogen from renewable electricity..
-
-The study adds that solar energy will be the leading source of power
-for green hydrogen over the forecasted period, with PEM technology
-dominating the electrolyser market"
+[[-]](2019/05/stats.html#vacrate)
 
 ---
 
-That's the German Chancelor standing next to a Siemens turbine for a
-gas pipeline; a wild guess here - molecule transport is crucial.
+"@Jousefm2
 
-[[-]](https://twitter.com/Bundeskanzler/status/1554749662594211841)
+This non-newtonian fluid made from cornstarch and water changes from
+fluid to solid when external force is applied"
+
+[[-]](https://twitter.com/Jousefm2/status/1555665569050935299)
 
 ---
 
-I believe the poster below used the words "as of 2020" to report a
-cumulative number as in **all** renewable elec generated by 2020, not
-the annual number. The cumulative is an odd thing to report - you'd do
-it of course to inflate your results...
+@blackpillreport
+
+Alex Jones gets 1 thing wrong (and even that's debated to this day) in
+25 years, apologizes dozens of times, and he has to pay $4M via court
+order. MSM deliberately lies every day, yet no court orders to pay
+anyone anything.
+
+---
+
+That is a good campaign jab
+
+"John Fetterman Enlists New Jersey Legend Steven Van Zandt To Troll
+Dr. Oz..  Fetterman on Tuesday posted a video of the New Jersey
+legend, musician-actor Steven Van Zandt, telling Oz to ― and we’re
+paraphrasing here ― get back to where he belongs. 'What are you doing
+in Pennsylvania? Everybody knows you live in New Jersey..  come on
+back to Jersey where you belong and we’ll have some fun, eh? We’ll go
+to the beach. We’ll go surfing. You know?  C’mon.'"
+
+---
+
+"@JustinTLogan
+
+First the fake money crashed, now fake real estate?
+
+'The Metaverse Real Estate Boom Turns Into a Bust'"
+
+---
+
+Lewis Taylor - Lucky (Kruder & Dorfmeister) \#music
+
+[[-]](https://youtu.be/sWkKZZH9Ha4)
+
+---
+
+Long-ass numbers. To pick something out of a list (song, video) take
+mod (divide, use remainder) by number of items, that's your random no
+generator...
 
 ---
 
 ```python
-import pandas as pd
-df = pd.read_csv('../../2019/05/bp-stats-review-2022-consolidated-dataset-panel-format.csv')
-df = df[(df.Country == 'Total World') & (df.Year == 2020)]
-x = float(df['electbyfuel_ren_power'])
-t = float(df['primary_ej'])*277.778
-print ("%0.2f Twh, %0.2f percent" % (x, x/t*100))
+import hashlib, subprocess
+def rand():
+   p = subprocess.Popen(['ps','gaux'], stdout=subprocess.PIPE)
+   return int(hashlib.md5(p.stdout.read()).hexdigest(),16)
+rand()
 ```
 
 ```text
-3146.57 Twh, 2.01 percent
+Out[1]: 284579101370724514305309891673109024539
 ```
 
----
+```python
+rand()
+```
 
-In year 2020 renewable electricity was at 3146 TWh, half of the number
-below. 3146 TWh represents 2% of all energy production of that year.
+```text
+Out[1]: 10192885274940431714481800575362464434
+```
 
-"@IRENA Renewable Energy Statistics 2022 shows that the amount of
-electricity generated from renewables reached 7468 TWh as of 2020"
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">California&#39;s leadership is helping guide the auto industry and other states in the development of a <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> economy. With growing support from automakers, the opportunities for hydrogen-powered transportation continue to grow. <a href="https://t.co/ygrFeriT5w">https://t.co/ygrFeriT5w</a> <a href="https://t.co/ypJ0dblS3D">pic.twitter.com/ypJ0dblS3D</a></p>&mdash; SoCalGas (@socalgas) <a href="https://twitter.com/socalgas/status/1554912361760169984?ref_src=twsrc%5Etfw">August 3, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Excellent
 
 ---
 
-A hit already.. 2019 movie *Yesterday*. Brilliant. Haven't had this
-much fun with a story on the music industry since *That Thing You Do*
-and *Rockstar*.
+Says 'find an output that is transient'; I guess the output of a Unix
+process is pretty transient - new programs get created, destroyed,
+their uptime, ordering can change which changes the output, which will
+give a near-random looking digest.
 
 ---
 
-New Netflix ratings data file, sweet.. This one includes 2019. The
-code works on it. More data to chew on.. 
+Unix book suggests take output of `ps gaux` generate a digest (single
+number) from it.. Good idea
 
 ---
 
-They have an actor on the lam - as in he is running away *from the
-law*, right now. They are looking for this guy. Imagine how messed up
-that is.
+Random num generator started to repeat.. No good. All my digi jukebox
+code relies on that. 
 
 ---
 
-The new CEO is fixing some stuff but boy, was Warner Bros in a mess..
+If international institutions had muscle and foresight coulda preempt
+this shit - now navies are patrol the area, there can be a nice little
+war one day with gazillions of interests at risk.
 
 ---
 
-If China consumes twice as much energy as India with about same amt of
-people, that means they are producing something in excess, and that
-something is goods for the world. The energy to make that stuff mostly
-comes from dirty coal.
-
-It seems to me some developed countries simply shifted their polluting
-over to China and think they are scotfree. if they really cared about
-the environment they would tariff that pollution. Of course that would
-be inflationary and/or could mean less shopping. But let's think about
-that - do kids really need that Mr. Potatohead toy? Parents can DIY make
-it using regular potato.
+According to 1923 Lausanne Treaty the islands near Asia Minor were
+supposed to be demilitarized. This rule has not been followed by
+Greece. 
 
 ---
 
-Yahoo Finance: "OPEC Confirms Smallest Ever Output Increase.. The
-world's largest oil exporters agreed to a token increase in crude
-production from September, unable and unwilling to compensate for the
-tightening of the world market by western sanctions on Russia"
+Is anybody following this shit? If there was an MSM with half a brain
+there would be 5 min programs outlining this whole thing. It ain't
+that hard.
 
 ---
 
-'@DanDePetris
+Now here's some more crazier stuff; TR/US rel soured. Russkie has
+access to EastMed (through Syria) and now perhaps most of northern
+Black Sea EEZ. A confluence of interest occured, TR will increase RU
+rel, provide transit to RU exports, and will buy more military hardware
+from Russia, and in return recruit some RU help in the EastMed.
+TR/RU on one side, Greece, Egypt, Israel, (EU?) on the other.
 
-Pelosi may no longer be in Taiwan, but the mess she helped create
-remains. I still have no clue why she made the trip, and her op-ed in
-the Washington Post yesterday didn’t really give me a convincing
-answer. Blurp blurp, bleep bleep, democracy vs. autocracy, bleep
-bleep"
+---
+
+Planned EastMed pipeline, first found problematic (by US/EU now back
+in play due to problems with Russian gas) goes right through
+disputed areas
+
+[[-]](https://pbs.twimg.com/media/FZf65PrWQAE8HFX?format=jpg&name=small)
+
+---
+
+Greece and Egypt have a counter-agreement that contradicts Libya-TR,
+it's a big "EEZ off". 
+
+[[-]](https://pbs.twimg.com/media/FZf5voIXgAE71Wn?format=png&name=small)
+
+---
+
+That's why the so-called Blue Homeland EEZ was enacted unilaterally
+since 2013, and is now being followed. The corridor with Libya was
+agreed upon based on this EEZ.
+
+[[-]](https://pbs.twimg.com/media/FZf38WYXkAIRz4W?format=png&name=small)
+
+---
+
+The problem between Greece and Asia Minor is Greece has too many
+islands close to AM restricting its access - combined with Cyprus
+(the whole of which is still considered Greek) the EEZs become massive.
+That ain't fair for homie.
+
+[[-]](https://pbs.twimg.com/media/FZf03hiWIAA6tIc?format=jpg&name=small)
+
+---
+
+12 nautical miles off coast is territorial waters.
+
+200 nautical miles is EEZ (exclusive econ zone, rights for explotation
+of resources).
+
+If EEZ of two countries overlap, a line is drawn in the middle
+usually. Example Sri Lanka and India [here](https://pbs.twimg.com/media/FZf0YjmXoAYKHEh?format=png&name=small).
+
+---
+
+😂 Good one.. But that also [isn't](https://www.dailystar.co.uk/news/latest-news/vladimir-putin-russia-body-double-17083215)
+exactly original.
+
+NY Post: "Ukraine pushes Putin body-double theory"
 
 ---
 
