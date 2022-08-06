@@ -154,9 +154,9 @@ Excellent
 ---
 
 Says 'find an output that is transient'; I guess the output of a Unix
-process is pretty transient - new programs get created, destroyed,
-their uptime, ordering can change which changes the output, which will
-give a near-random looking digest.
+process list is pretty transient - new programs get created,
+destroyed, their uptime, ordering can change which changes the output,
+which will give a near-random looking digest.
 
 ---
 
