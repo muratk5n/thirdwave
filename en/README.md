@@ -71,9 +71,8 @@ is possible, feasible, cheap.
 
 Vacancy rate, the number of job openings per unemployed which showes
 "labor market tighness" is through the roof. The great resignation
-might have had an effect here. There be slowdown and a tight labor
-market at the same time with these conditions. WSJ is right - every
-crisis is different.
+might have had an effect here. Slowdown and a tight labor market at
+the same time? WSJ is right - every recession is different.
 
 [[-]](2019/05/stats.html#vacrate)
 
