@@ -124,8 +124,8 @@ Lewis Taylor - Lucky (Kruder & Dorfmeister) \#music
 ---
 
 Long-ass numbers. To pick something out of a list (song, video) take
-mod (divide, use remainder) by number of items, that's your random no
-generator...
+mod (divide, use remainder) by number of items, that's your random
+item picker.
 
 ---
 
