@@ -165,8 +165,8 @@ number) from it.. Good idea
 
 ---
 
-Random num generator started to repeat.. No good. All my digi jukebox
-code relies on that. 
+Random num generator not looking good.. I started noticing repeats on
+my jukebox. New one is needed.
 
 ---
 
