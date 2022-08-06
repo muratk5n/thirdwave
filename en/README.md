@@ -33,11 +33,11 @@ cells"
 Great news - Russkie has long history on fundamental science, there
 could be fine discoveries from there.
 
-"Russian university is looking to develop hydrogen technologies.. The
-Siberian Federal University’s School of Natural Gas and Petroleum has
-opened a new ‘intersectoral’ research centre for innovative
-technologies, the SIDERA Centre, with plans of introducing hydrogen
-technologies into various industries"
+H2 View: "Russian university is looking to develop hydrogen
+technologies.. The Siberian Federal University’s School of Natural Gas
+and Petroleum has opened a new ‘intersectoral’ research centre for
+innovative technologies, the SIDERA Centre, with plans of introducing
+hydrogen technologies into various industries"
 
 ---
 
