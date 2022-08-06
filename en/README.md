@@ -236,8 +236,7 @@ usually. Example Sri Lanka and India [here](https://pbs.twimg.com/media/FZf0YjmX
 
 ---
 
-:) Good one.. But that too [isn't](https://www.dailystar.co.uk/news/latest-news/vladimir-putin-russia-body-double-17083215)
-exactly original.
+:) Good one.. But that too isn't exactly original (see 2019 news [item](https://www.dailystar.co.uk/news/latest-news/vladimir-putin-russia-body-double-17083215))
 
 NY Post: "Ukraine pushes Putin body-double theory"
 
