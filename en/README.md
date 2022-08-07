@@ -66,7 +66,7 @@ is possible, feasible, cheap.
 
 ---
 
-Vacancy rate, the number of job openings per unemployed which showes
+Vacancy rate, the number of job openings per unemployed which shows
 "labor market tightness" is through the roof. The great resignation
 might have had an effect here.
 
