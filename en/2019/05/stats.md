@@ -10,13 +10,7 @@ quarter growth compared to previous quarter,
 
 
 ```python
-import pandas as pd, datetime
-from pandas_datareader import data
-
-today = datetime.datetime.now()
-start=datetime.datetime(1945, 1, 1)
-end=datetime.datetime(today.year, today.month, today.day)
-df = data.DataReader(['GDPC1'], 'fred', start, end)
+import util; df = util.get_fred(1945,'GDPC1')
 df['growann'] = (  (  (1+df.pct_change())**4  )-1.0  )*100.0
 print (df['growann'].tail(5))
 ```
@@ -38,16 +32,10 @@ Name: growann, dtype: float64
 ![](cycle.png)
 
 ```python
-import pandas as pd, datetime
-from pandas_datareader import data
-
-today = datetime.datetime.now()
-start=datetime.datetime(1970, 1, 1)
-end=datetime.datetime(today.year, today.month, today.day)
+import util; df = util.get_fred(1970,'GDPC1')
 
 fig, axs = plt.subplots(2)
 
-df = data.DataReader(['GDPC1'], 'fred', start, end)
 df['gdpyoy'] = (df.GDPC1 - df.GDPC1.shift(4)) / df.GDPC1.shift(4) * 100.0
 df['gdpyoy'].plot(ax=axs[0],title="GDP and Inflation (CPI YoY)")
 axs[0].axvspan('01-11-1973', '01-03-1975', color='y', alpha=0.5, lw=0)
@@ -57,7 +45,7 @@ axs[0].axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
 axs[0].axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
 print (df[['gdpyoy']].tail(6))
 
-df = data.DataReader(['CPIAUCNS'], 'fred', start, end)
+df = util.get_fred(1970,'CPIAUCNS')
 df['inf'] = (df.CPIAUCNS - df.CPIAUCNS.shift(12)) / df.CPIAUCNS.shift(12) * 100.0
 df['inf'].plot(ax=axs[1])
 axs[1].axvspan('01-11-1973', '01-03-1975', color='y', alpha=0.5, lw=0)
@@ -94,13 +82,7 @@ DATE
 The Taylor Rule
 
 ```python
-import pandas as pd, datetime
-from pandas_datareader import data
-
-today = datetime.datetime.now()
-start=datetime.datetime(1970, 1, 1)
-end=datetime.datetime(today.year, today.month, today.day)
-df = data.DataReader(['GDPC1','GDPPOT','PCEPI','FEDFUNDS'], 'fred', start, end)
+import util; df = util.get_fred(1970,['GDPC1','GDPPOT','PCEPI','FEDFUNDS'])
 
 df = df.interpolate().resample('AS').mean()
 longrun = 2.0
@@ -117,7 +99,7 @@ DATE
 2019-01-01    3.017600
 2020-01-01    0.024595
 2021-01-01    5.984414
-2022-01-01    7.327278
+2022-01-01    7.657455
 Freq: AS-JAN, Name: Taylor, dtype: float64
 ```
 
@@ -130,14 +112,7 @@ Freq: AS-JAN, Name: Taylor, dtype: float64
 Non-Farm Payroll
 
 ```python
-import pandas as pd, datetime
-from pandas_datareader import data
-
-today = datetime.datetime.now()
-start=datetime.datetime(1986, 1, 1)
-end=datetime.datetime(today.year, today.month, today.day)
-cols = ['PAYEMS']
-df = data.DataReader(cols, 'fred', start, end)
+import util; df = util.get_fred(1986,['PAYEMS'])
 df['nfpyoy'] = (df.PAYEMS - df.PAYEMS.shift(12)) / df.PAYEMS.shift(12) * 100.0
 print (df.tail(7))
 df.nfpyoy.plot()
@@ -152,13 +127,13 @@ plt.savefig('nfp.png')
 ```text
             PAYEMS    nfpyoy
 DATE                        
-2021-10-01  148005  4.024487
-2021-11-01  148652  4.235268
-2021-12-01  149240  4.732029
 2022-01-01  149744  4.703637
 2022-02-01  150458  4.683184
-2022-03-01  150886  4.469262
-2022-04-01  151314  4.575172
+2022-03-01  150856  4.448491
+2022-04-01  151224  4.512972
+2022-05-01  151610  4.457045
+2022-06-01  152008  4.330876
+2022-07-01  152536  4.200510
 ```
 
 ![](nfp.png)
@@ -168,14 +143,7 @@ DATE
 Job Quits, Resignations
 
 ```python
-import pandas as pd, datetime
-from pandas_datareader import data
-
-today = datetime.datetime.now()
-start=datetime.datetime(1986, 1, 1)
-end=datetime.datetime(today.year, today.month, today.day)
-cols = ['JTSQUR']
-df = data.DataReader(cols, 'fred', start, end)
+import util; df = util.get_fred(1986,['JTSQUR'])
 print (df.JTSQUR.tail(5))
 df.JTSQUR.plot()
 plt.axvspan('01-09-1990', '01-07-1991', color='y', alpha=0.5, lw=0)
@@ -187,11 +155,11 @@ plt.savefig('quits.png')
 
 ```text
 DATE
-2022-01-01    2.8
 2022-02-01    2.9
 2022-03-01    2.9
 2022-04-01    2.9
 2022-05-01    2.8
+2022-06-01    2.8
 Name: JTSQUR, dtype: float64
 ```
 
