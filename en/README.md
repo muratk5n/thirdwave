@@ -71,7 +71,7 @@ is possible, feasible, cheap.
 
 Vacancy rate, the number of job openings per unemployed which showes
 "labor market tightness" is through the roof. The great resignation
-might had an effect here.
+might have had an effect here.
 
 [[-]](2019/05/stats.html#vacrate)
 
