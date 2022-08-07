@@ -332,7 +332,7 @@ df.plot(); plt.savefig('lng.png')
 
 <a name='coal'/>
 
-### Coal
+### Coal Price
 
 ```python
 import util; df = util.get_yahoofin(2018,"MTF=F").interpolate();
