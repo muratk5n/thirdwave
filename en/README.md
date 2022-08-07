@@ -88,10 +88,9 @@ fluid to solid when external force is applied"
 
 @blackpillreport
 
-Alex Jones gets 1 thing wrong (and even that's debated to this day) in
-25 years, apologizes dozens of times, and he has to pay $4M via court
-order. MSM deliberately lies every day, yet no court orders to pay
-anyone anything.
+Alex Jones gets [a] thing wrong.. apologizes dozens of times, and he
+has to pay $4M via court order. MSM deliberately lies every day, yet
+no court orders to pay anyone anything.
 
 ---
 
