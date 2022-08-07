@@ -30,9 +30,6 @@ cells"
 
 ---
 
-Great news - Russkie has long history on fundamental science, there
-could be fine discoveries from there.
-
 H2 View: "Russian university is looking to develop hydrogen
 technologies.. The Siberian Federal University’s School of Natural Gas
 and Petroleum has opened a new ‘intersectoral’ research centre for
