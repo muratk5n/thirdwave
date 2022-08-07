@@ -170,14 +170,7 @@ Name: JTSQUR, dtype: float64
 Wages
 
 ```python
-import pandas as pd, datetime
-from pandas_datareader import data
-
-start=datetime.datetime(1950, 1, 1)
-today = datetime.datetime.now()
-end=datetime.datetime(today.year, today.month, today.day)
-cols = ['ECIWAG']
-df3 = data.DataReader(cols, 'fred', start, end)
+import util; df3 = util.get_fred(1950,['ECIWAG'])
 df3 = df3.dropna()
 df3['ECIWAG2'] = df3.shift(4).ECIWAG
 df3['wagegrowth'] = (df3.ECIWAG-df3.ECIWAG2) / df3.ECIWAG2 * 100.
@@ -188,10 +181,10 @@ plt.savefig('wages.png')
 
 ```text
 DATE
-2021-04-01    3.551136
 2021-07-01    4.590395
 2021-10-01    4.901961
 2022-01-01    4.982699
+2022-04-01    5.692730
 Name: wagegrowth, dtype: float64
 ```
 
@@ -202,14 +195,7 @@ Name: wagegrowth, dtype: float64
 Claims
 
 ```python
-import pandas as pd, datetime
-from pandas_datareader import data
-
-today = datetime.datetime.now()
-start=datetime.datetime(1995, 1, 1)
-end=datetime.datetime(today.year, today.month, today.day)
-cols = ['ICSA']
-df = data.DataReader(cols, 'fred', start, end)
+import util; df = util.get_fred(1995,'ICSA')
 df.ICSA.plot()
 print (df.tail(4))
 plt.title("Initial Unemployment Claims")
@@ -221,10 +207,10 @@ plt.savefig('icsa.png')
 ```text
               ICSA
 DATE              
-2022-05-14  218000
-2022-05-21  211000
-2022-05-28  202000
-2022-06-04  229000
+2022-07-09  244000
+2022-07-16  261000
+2022-07-23  254000
+2022-07-30  260000
 ```
 
 ![](icsa.png)
