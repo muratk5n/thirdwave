@@ -14,6 +14,15 @@ import urllib.request as urllib2
 from io import BytesIO
 import pandas_ta as ta
 
+def sm_plot_cities(clat,clon,zoom,country,cities,eps=0.1):
+    sm.plot_countries(clat,clon,zoom)
+    for i,city in enumerate(cities):
+       c = sm.find_city(city,"greece")
+       if (len(c)==1):
+           lat,lon,n=float(c[0][9]),float(c[0][8]),c[0][1]
+           plt.text(lat+eps,lon+eps,i+1)
+           plt.plot(lat,lon,'ro')
+    
 def country_bp(country):
     df, prod_perc, tot, elec = util.get_bp_country(country)
     print (df)
