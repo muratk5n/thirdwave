@@ -162,8 +162,8 @@ my jukebox. New one is needed.
 ---
 
 If international institutions had muscle and foresight coulda preempt
-some of this - but now navies are patrol the area, there can be a nice
-little war one day with gazillions of interests at risk.
+some of this - but now navies are patroling the area, there can be a
+nice little war one day with gazillions of interests at risk.
 
 ---
 
