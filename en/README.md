@@ -86,11 +86,11 @@ fluid to solid when external force is applied"
 
 ---
 
-@blackpillreport
+"@blackpillreport
 
 Alex Jones gets [a] thing wrong.. apologizes dozens of times, and he
 has to pay $4M via court order. MSM deliberately lies every day, yet
-no court orders to pay anyone anything.
+no court orders to pay anyone anything"
 
 ---
 
