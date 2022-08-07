@@ -220,8 +220,8 @@ That ain't fair for homie.
 
 12 nautical miles off coast is territorial waters.
 
-200 nautical miles is EEZ (exclusive econ zone, rights for explotation
-of resources).
+200 nautical miles is EEZ (exclusive econ zone, rights for
+exploitation of resources).
 
 If EEZ of two countries overlap, a line is drawn in the middle
 usually. Example Sri Lanka and India [here](https://pbs.twimg.com/media/FZf0YjmXoAYKHEh?format=png&name=small).
