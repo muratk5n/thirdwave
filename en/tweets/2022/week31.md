@@ -159,10 +159,10 @@ The new CEO is fixing some stuff but boy, was Warner Bros in a mess..
 
 ---
 
-If China consumes twice as much energy as India with about same amt of
-people, that means they are producing something in excess, and that
-something is goods for the world. The energy to make that stuff mostly
-comes from dirty coal.
+If China consumes five times as much energy as India with about same
+amt of people, that means they are producing something in excess, and
+that something is goods for the world. The energy to make that stuff
+mostly comes from dirty coal.
 
 It seems to me some developed countries simply shifted their polluting
 over to China and think they are scotfree. if they really cared about
