@@ -177,12 +177,6 @@ Greece.
 
 ---
 
-Is anybody following this shit? If there was an MSM with half a brain
-there would be 5 min programs outlining this whole thing. It ain't
-that hard.
-
----
-
 Now here's some crazier stuff; TR/US rel soured. Russkie has access to
 EastMed (through Syria) and soon perhaps most of northern Black Sea
 EEZ. A confluence of interest occured, TR will increase RU rel,
