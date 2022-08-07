@@ -220,14 +220,7 @@ DATE
 Difference Between Wage Growth YoY and Payrolls (Hiring)
 
 ```python
-import pandas as pd, datetime
-from pandas_datareader import data
-
-today = datetime.datetime.now()
-start=datetime.datetime(1986, 1, 1)
-end=datetime.datetime(today.year, today.month, today.day)
-cols = ['PAYEMS','AHETPI']
-df = data.DataReader(cols, 'fred', start, end)
+import util; df = util.get_fred(1986,['PAYEMS','AHETPI'])
 df['nfpyoy'] = (df.PAYEMS - df.PAYEMS.shift(12)) / df.PAYEMS.shift(12) * 100.0
 df['wageyoy'] = (df.AHETPI - df.AHETPI.shift(12)) / df.AHETPI.shift(12) * 100.0
 df[['wageyoy','nfpyoy']].plot()
@@ -241,18 +234,18 @@ plt.savefig('pay-wage.png')
 
 ```text
 DATE
-2022-02-01    6.690420
 2022-03-01    6.745562
 2022-04-01    6.630051
 2022-05-01    6.427737
-2022-06-01    6.354126
+2022-06-01    6.392871
+2022-07-01    6.201849
 Name: wageyoy, dtype: float64
 DATE
-2022-02-01    4.683184
 2022-03-01    4.448491
 2022-04-01    4.512972
-2022-05-01    4.455667
-2022-06-01    4.311658
+2022-05-01    4.457045
+2022-06-01    4.330876
+2022-07-01    4.200510
 Name: nfpyoy, dtype: float64
 ```
 
@@ -265,14 +258,8 @@ Unemployment
 Calculation is based on [2]
 
 ```python
-import pandas as pd, datetime
-from pandas_datareader import data
-
-today = datetime.datetime.now()
-start=datetime.datetime(1986, 1, 1)
-end=datetime.datetime(today.year, today.month, today.day)
 cols = ['LNS12032194','UNEMPLOY','NILFWJN','LNS12600000','CLF16OV','UNRATE','U6RATE']
-df = data.DataReader(cols, 'fred', start, end)
+import pandas as pd, util; df = util.get_fred(1986,cols)
 df['REAL_UNEMP_LEVEL'] = df.LNS12032194*0.5 + df.UNEMPLOY + df.NILFWJN
 df['REAL_UNRATE'] = (df.REAL_UNEMP_LEVEL / df.CLF16OV) * 100.0
 pd.set_option('display.max_columns', None)
@@ -286,11 +273,11 @@ plt.savefig('unemploy.png')
 ```text
             UNRATE  U6RATE  REAL_UNRATE  REAL_UNEMP_LEVEL
 DATE                                                     
-2022-02-01     3.8     7.2     8.349544           13692.5
 2022-03-01     3.6     6.9     8.377887           13774.0
 2022-04-01     3.6     7.0     8.422333           13816.5
 2022-05-01     3.6     7.1     8.392344           13795.0
 2022-06-01     3.6     6.7     8.156478           13378.5
+2022-07-01     3.5     6.7     8.259332           13542.0
 ```
 
 ![](unemploy.png)
@@ -394,13 +381,7 @@ Divide (1) by (2) as suggested in [4],
 
 
 ```python
-import pandas as pd, datetime
-from pandas_datareader import data
-pd.set_option('display.max_columns', None)
-today = datetime.datetime.now()
-start=datetime.datetime(1980, 1, 1)
-end=datetime.datetime(today.year, today.month, today.day)
-df = data.DataReader(['CP','FINSLC1'], 'fred', start, end)
+import util; df = util.get_fred(1980, ['CP','FINSLC1'])
 df = df.dropna()
 df['PM'] = df['CP'] / df['FINSLC1'] * 100.0
 df.PM.plot()
@@ -452,14 +433,7 @@ Name: Close, dtype: float64
 Total Market Cap / GDP
 
 ```python
-import pandas as pd, datetime
-from pandas_datareader import data
-
-today = datetime.datetime.now()
-start=datetime.datetime(1995, 1, 1)
-end=datetime.datetime(today.year, today.month, today.day)
-cols = ['WILL5000IND']
-df = data.DataReader(cols, 'fred', start, end)
+import util; df = util.get_fred(1995,['WILL5000IND'])
 print (df.tail(4))
 df.plot()
 plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
@@ -470,10 +444,10 @@ plt.savefig('wilshire.png')
 ```text
             WILL5000IND
 DATE                   
-2022-07-22       195.27
-2022-07-25       195.55
-2022-07-26       193.20
-2022-07-27       198.25
+2022-08-01       203.13
+2022-08-02       201.96
+2022-08-03       205.19
+2022-08-04       205.04
 ```
 
 ![](wilshire.png)
@@ -483,14 +457,7 @@ DATE
 Junk Bond Yields
 
 ```python
-import pandas as pd, datetime
-from pandas_datareader import data
-
-today = datetime.datetime.now()
-start=datetime.datetime(1980, 1, 1)
-end=datetime.datetime(today.year, today.month, today.day)
-cols = ['BAMLH0A2HYBEY']
-df = data.DataReader(cols, 'fred', start, end)
+import util; df = util.get_fred(1980,['BAMLH0A2HYBEY'])
 print (df.tail(6))
 df.plot()
 plt.plot(df.tail(1).index, df.tail(1),'ro')
@@ -502,12 +469,12 @@ plt.savefig('junkbond.png')
 ```text
             BAMLH0A2HYBEY
 DATE                     
-2022-06-03           7.53
-2022-06-06           7.57
-2022-06-07           7.65
-2022-06-08           7.70
-2022-06-09           7.81
-2022-06-10           8.08
+2022-07-29           8.08
+2022-07-31           8.12
+2022-08-01           8.07
+2022-08-02           8.04
+2022-08-03           7.98
+2022-08-04           7.88
 ```
 
 ![](junkbond.png)
@@ -519,16 +486,7 @@ Yield Curve, Rates
 10 Year Treasury Yield - 3 Month Bills
 
 ```python
-import pandas as pd, datetime
-from pandas_datareader import data
-
-pd.set_option('display.max_columns', 10)
-
-today = datetime.datetime.now()
-start=datetime.datetime(1980, 1, 1)
-end=datetime.datetime(today.year, today.month, today.day)
-cols = ['DGS10','DGS3MO']
-df = data.DataReader(cols, 'fred', start, end)
+import util; df = util.get_fred(1980,['DGS10','DGS3MO'])
 df['Yield Curve'] = df.DGS10 - df.DGS3MO
 print (df.tail(6))
 plt.plot(df.tail(1).index, df.tail(1)['Yield Curve'],'ro')
@@ -542,52 +500,15 @@ plt.savefig('yield-curve.png')
 ```text
             DGS10  DGS3MO  Yield Curve
 DATE                                  
-2022-06-03   2.96    1.21         1.75
-2022-06-06   3.04    1.26         1.78
-2022-06-07   2.98    1.26         1.72
-2022-06-08   3.03    1.28         1.75
-2022-06-09   3.04    1.30         1.74
-2022-06-10   3.15    1.39         1.76
+2022-07-28   2.68    2.42         0.26
+2022-07-29   2.67    2.41         0.26
+2022-08-01   2.60    2.56         0.04
+2022-08-02   2.75    2.56         0.19
+2022-08-03   2.73    2.52         0.21
+2022-08-04   2.68    2.50         0.18
 ```
 
 ![](yield-curve.png)
-
-Gold and 10 Year Treasuries
-
-```python
-from pandas_datareader import data
-import datetime
-
-today = datetime.datetime.now()
-start=datetime.datetime(2000, 1, 1)
-end=datetime.datetime(today.year, today.month, today.day)
-df = data.DataReader(['DGS10', 'GOLDAMGBD228NLBM'], 'fred', start, end)
-df = df.interpolate()
-print (df.tail(10))
-ax1 = df.DGS10.plot(color='blue', grid=True, label='10Y')
-ax2 = df.GOLDAMGBD228NLBM.plot(color='red', grid=True, label='GOLD',secondary_y=True)
-h1, l1 = ax1.get_legend_handles_labels()
-h2, l2 = ax2.get_legend_handles_labels()
-plt.legend(h1+h2, l1+l2, loc=2)
-plt.savefig('10yrgld.png')
-```
-
-```text
-            DGS10  GOLDAMGBD228NLBM
-DATE                               
-2022-01-10  1.780           1800.55
-2022-01-11  1.750           1805.20
-2022-01-12  1.740           1816.40
-2022-01-13  1.700           1822.40
-2022-01-14  1.780           1822.25
-2022-01-17  1.825           1820.05
-2022-01-18  1.870           1810.80
-2022-01-19  1.830           1817.50
-2022-01-20  1.830           1836.70
-2022-01-21  1.830           1834.25
-```
-
-![](10yrgld.png)
 
 <a name="vix"></a>
 
@@ -624,14 +545,7 @@ Name: Close, dtype: float64
 Private Debt to GDP Ratio
 
 ```python
-import pandas as pd, datetime
-from pandas_datareader import data
-
-today = datetime.datetime.now()
-start=datetime.datetime(1960, 1, 1)
-end=datetime.datetime(today.year, today.month, today.day)
-
-df = data.DataReader(['GDPC1','QUSPAMUSDA'], 'fred', start, end)
+import util; df = util.get_fred(1960,['GDPC1','QUSPAMUSDA'])
 df = df.interpolate()
 df['Credit to GDP'] = (df.QUSPAMUSDA / df.GDPC1)*100.0
 df['Credit to GDP'].plot()
@@ -659,15 +573,7 @@ Freq: QS-OCT, Name: Credit to GDP, dtype: float64
 Total Consumer Credit Outstanding as % of GDP
 
 ```python
-import pandas as pd, datetime
-from pandas_datareader import data
-
-pd.set_option('display.max_columns', 10)
-today = datetime.datetime.now()
-start=datetime.datetime(1980, 1, 1)
-end=datetime.datetime(today.year, today.month, today.day)
-cols = ['TOTALSL','GDP']
-df = data.DataReader(cols, 'fred', start, end)
+import util; df = util.get_fred(1980,['TOTALSL','GDP'])
 df = df.interpolate(method='linear')
 df['debt'] =   df.TOTALSL / df.GDP * 100.0
 print (df.debt.tail(4))
@@ -681,10 +587,10 @@ plt.savefig('debt.png')
 
 ```text
 DATE
-2022-02-01    18.259950
-2022-03-01    18.337763
-2022-04-01    18.371283
-2022-05-01    18.461203
+2022-03-01    18.336338
+2022-04-01    18.362806
+2022-05-01    18.458544
+2022-06-01    18.620119
 Freq: MS, Name: debt, dtype: float64
 ```
 
@@ -697,9 +603,6 @@ Wealth Inequality - GINI Index
 Code taken from [3]
 
 ```python
-import pandas as pd, datetime
-from pandas_datareader import data
-
 def gini(pop,val):
     pop = list(pop); pop.insert(0,0.0)
     val = list(val); val.insert(0,0.0)        
@@ -716,11 +619,8 @@ def gini(pop,val):
     g = 1 - np.sum((relz[0:-1]+relz[1:]) * np.diff(relpop))
     return np.round(g,3)
 
-today = datetime.datetime.now()
-start=datetime.datetime(1989, 1, 1)
-end=datetime.datetime(today.year, today.month, today.day)
 cols = ['WFRBLT01026', 'WFRBLN09053','WFRBLN40080','WFRBLB50107']
-df = data.DataReader(cols, 'fred', start, end)
+import util; df = util.get_fred(1989,cols)
 p = [0.01, 0.09, 0.40, 0.50]
 g = df.apply(lambda x: gini(p,x),axis=1)
 print (g.tail(4))
