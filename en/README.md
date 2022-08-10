@@ -2,10 +2,6 @@
 
 ---
 
-<img width="95%" src="https://pbs.twimg.com/media/FZn8K7fXoAAFvWS?format=jpg&name=small"/>
-
----
-
 ## For Members
 
 [Link](https://thirdwave-members.herokuapp.com)
