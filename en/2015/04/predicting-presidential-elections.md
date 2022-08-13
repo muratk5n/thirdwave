@@ -46,8 +46,6 @@ print ('R^2',results.rsquared)
 R^2 0.9011858911763367
 ```
 
-Also see [Past Elections Check](prez-loo.html)
-
 ## 2016
 
 We used different GDP growth and approval rating scenarios for current
@@ -145,5 +143,7 @@ print (np.dot(pred, conf), np.dot(pred, results.params))
 
 References
 
-[Time for Change](https://pollyvote.com/en/components/models/hybrid/time-for-change-model/).
+[Time for Change](https://pollyvote.com/en/components/models/hybrid/time-for-change-model/)
+
+[Past Elections Check](prez-loo.html)
 
