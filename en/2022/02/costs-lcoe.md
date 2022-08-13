@@ -1,5 +1,7 @@
 # Energy Production Costs, LCOH, LCOE
 
+### Terminology
+
 Levelized Cost of Energy (LCOE)
 
 LCOE measures lifetime costs divided by energy production. Calculates
@@ -47,6 +49,8 @@ built in the US today"
 
 * Conversion Factors, H2 has 0.143 GJ/kg
 
+### Storage
+
 LCOH
 
 |Source             |LCOH ($/GJ) |Reference| 
@@ -54,6 +58,21 @@ LCOH
 |H2 Undergr. Salt   | 1.46       |[Paper](https://www.hydrogen.energy.gov/pdfs/review19/st001_ahluwalia_2019_o.pdf) |
 |H2 Undergr. LRC    | 2.51       |[Paper](https://www.hydrogen.energy.gov/pdfs/review19/st001_ahluwalia_2019_o.pdf) |
 |H2 Undergr. Pipes  | 15.17      |[Paper](https://www.hydrogen.energy.gov/pdfs/review19/st001_ahluwalia_2019_o.pdf) |
+
+Capex and LCOE
+
+|Source               | Capex ($/KW)       |LCOE ($/MWh)|Reference| 
+|---------------------|--------------------|------------|----------|
+|H2 Undergr. Salt     | 35                 |            |[Paper](https://www.hydrogen.energy.gov/pdfs/review19/st001_ahluwalia_2019_o.pdf) |
+|H2 Undergr. LRC      | 51                 |            |[Paper](https://www.hydrogen.energy.gov/pdfs/review19/st001_ahluwalia_2019_o.pdf) |
+|H2 Undergr. Pipes    | 386                |            |[Paper](https://www.hydrogen.energy.gov/pdfs/review19/st001_ahluwalia_2019_o.pdf) |
+
+### Production
+
+LCOH
+
+|Source             |LCOH ($/GJ) |Reference| 
+|-------------------|------------|----------|
 |Natgas, CCS        | 13.98      |[Paper](https://www.linkedin.com/pulse/what-levelized-cost-clean-hydrogen-production-greg-perkins/)  |
 |Nuclear HTGR       | 17.55      |[Book](https://books.google.com.tr/books?id=BpZ7DwAAQBAJ)  |
 |Coal IGCC, CCS     | 21.25      |[IEAGHG](https://ieaghg.org/docs/General_Docs/Reports/2014-03.pdf)  |
@@ -63,12 +82,8 @@ LCOH
 
 Capex and LCOE
 
-
 |Source               | Capex ($/KW)       |LCOE ($/MWh)|Reference| 
 |---------------------|--------------------|------------|----------|
-|H2 Undergr. Salt     | 35                 |            |[Paper](https://www.hydrogen.energy.gov/pdfs/review19/st001_ahluwalia_2019_o.pdf) |
-|H2 Undergr. LRC      | 51                 |            |[Paper](https://www.hydrogen.energy.gov/pdfs/review19/st001_ahluwalia_2019_o.pdf) |
-|H2 Undergr. Pipes    | 386                |            |[Paper](https://www.hydrogen.energy.gov/pdfs/review19/st001_ahluwalia_2019_o.pdf) |
 |Natgas Plant >200MW  | 500                |            |[Paper](https://www.sciencedirect.com/topics/engineering/natural-gas-combined-cycle) |
 |Natgas Plant Typical | 1044               |            |[Statista](https://www.statista.com/statistics/243707/capital-costs-of-a-typical-us-combined-cycle-power-plant/#:~:text=The%20capital%20expenditure%20of%20a,dollars%20per%20kilowatt%20by%202050.)  |
 |PV Solar             | 1327               | 32.78      |[EIA](https://www.eia.gov/outlooks/aeo/assumptions/pdf/table_8.2.pdf),[IEA](https://www.iea.org/reports/projected-costs-of-generating-electricity-2020)
