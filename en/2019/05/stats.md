@@ -381,7 +381,8 @@ Divide (1) by (2) as suggested in [4],
 
 
 ```python
-import util; df = util.get_fred(1980, ['CP','FINSLC1'])
+import pandas as pd; pd.set_option('display.max_columns', None)
+import util; df = util.get_fred(1980, ['CP','FINSLC1']); df = df.interpolate()
 df = df.dropna()
 df['PM'] = df['CP'] / df['FINSLC1'] * 100.0
 df.PM.plot()
@@ -392,10 +393,10 @@ plt.savefig('profitmargin.png')
 ```text
                   CP    FINSLC1         PM
 DATE                                      
-2021-04-01  2690.388  19449.270  13.832848
 2021-07-01  2721.601  19453.436  13.990336
 2021-10-01  2700.326  19524.288  13.830599
 2022-01-01  2726.711  19463.672  14.009232
+2022-04-01  2726.711  19516.499  13.971312
 ```
 
 ![](profitmargin.png)
