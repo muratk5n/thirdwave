@@ -8,24 +8,16 @@ Ingredients
 * 1 Diced Onion
 * 1 Teaspoon Turmeric
 * 1 Teaspoon Pepper Flakes
-* 1 kg plain yogurt
+* 1/2 kg high-fat dry cheese
 
-Cut meat into chunks and place on aliminum foil sheet. Add the
-turmeric, diced onions, peppers on top, wrap the foil around close off
-all sides. Place pocket in oven at 200 C for 1/2 hours or until meat
-is well cooked.
+Cut meat into chunks and place in dish add the turmeric, diced onions,
+peppers on top. Place in oven at 200 C for 1/2 hours or until meat is
+well cooked. Once done throw away any fat, water, onions. Put turkey
+meat in bowl, add chards, orange flesh. Now blend (hand-held blender
+works well). Put the mix in spoon-sized lumps on a drier at 55 degrees
+C and dry for 7-8 hours.
 
-Once done open foil, drain away any fat, water, onions, only keep the
-meat. Put in bowl, add chards. Cut orange into pieces, add the flesh
-in the bowl as well. Now blend (hand-held blender works well).
-
-Put the mix in spoon-sized lumps on a drier at 55 degrees C and dry
-for 7-8 hours. 
-
-Seperately, dry yogurt in the oven at 100 C or so until it loses all
-water.
-
-Now put meat mix in a dry bowl, add the dried yogurt, mix.
+Now put meat mix in a dry bowl, add cheese, mix.
 
 That's it. 
 
@@ -37,5 +29,9 @@ chewable pieces.
 Note: If swiss chards are not available, similar green veg low in iron
 can be used. Instead of yogurt, tallow is fine too, melt, pour on
 dried meat, mix.
+
+Note: If high-fat dry cheese such as brynza is not available, dedhyd
+your own, or buy tallow, melt, pour on the poultry. Alternatively dry
+yogurt.
 
 
