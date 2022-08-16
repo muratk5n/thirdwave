@@ -305,7 +305,7 @@ detect and defend against.
 store 30 tonnes of H2 which equals to 12x3000x33.6/1e3 = 1206 MWh.
 Easy to procure - manufactured already for regular gas networks. A
 large, expensive battery installation is at 900 MWh made from lithium
-whose mining that destroys the environment and cannot easily be
+whose mining destroys the environment and cannot easily be
 recycled. There isn't even a comparison here.
 
 ---
