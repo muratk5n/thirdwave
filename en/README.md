@@ -339,11 +339,11 @@ util.sm_plot_cities(38,24,0.8,"greece",cs)
 
 ---
 
-Perhaps US wanted to preemp more RU presence in EastMed, more likely
-if allied with TR, so Greece was courted for US mil presence. There is
-now the Alexandroupoli port deploy, right near Dardanelles, there is
-Volos, Skyros, Chalkidona. US was already present in Souda (Crete),
-one report says now there are plans for a second base. 'merica
+US blob never lets a rivalry go to waste, esp. if RU can be involved
+somehow.. Greece was courted for US mil presence, there is now the
+Alexandroupoli port deploy, right near Dardanelles, there is Volos,
+Skyros, Chalkidona. US was already present in Souda (Crete), one
+report says now there are plans for a second base. 'merica
 everywhere. Like Coca-Cola.
 
 ---
