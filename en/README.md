@@ -266,12 +266,12 @@ Professional identity..  They shouldn't have any.. self-guided
 material plus video lectures can replace them.
 
 The Mandarin: "Why a move to outsource lesson planning has [Oz] NSW
-teachers hopping mad.. [NSW] state’s education minister.. announced
-teachers will be given curriculum lesson plans, texts and learning
-materials to ease the pressure on their workloads.. This taps into
-existing concerns about.. teachers having less autonomy over what to
-teach and how to teach it. It also strikes at the heart of teachers’
-core professional identity"
+teachers hopping mad.. state’s education minister.. announced teachers
+will be given curriculum lesson plans, texts and learning materials to
+ease the pressure on their workloads.. This taps into existing
+concerns about.. teachers having less autonomy over what to teach and
+how to teach it. It also strikes at the heart of teachers’ core
+professional identity"
 
 ---
 
