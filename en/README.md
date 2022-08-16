@@ -225,14 +225,6 @@ eventually follow with US in AFG.
 
 ---
 
-"@Gabriele_Corno
-
-Waterfall Swing"
-
-[[-]](https://twitter.com/Gabriele_Corno/status/1555250968656240648)
-
----
-
 Bloomberg: "Saudi Aramco plans to begin permanently storing carbon
 dioxide from 2026 in one of the largest facilities of its kind, as the
 state oil giant seeks to reach its goal of net-zero emissions by

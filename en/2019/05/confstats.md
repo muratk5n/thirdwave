@@ -18,32 +18,32 @@ def overall_deaths(mon):
    g.columns = ['incidents','deaths']
    return g.sort_values('deaths',ascending=False)
 
-print (overall_deaths(mon=2).head(20))
+print (overall_deaths(mon=6).head(20))
 ```
 
 ```text
                           incidents  deaths
 country                                    
-Nigeria                          68     228
-Yemen (North Yemen)              63     154
-DR Congo (Zaire)                 75     134
-Myanmar (Burma)                  99     119
-Ukraine                         139     118
-Mali                             21     115
-Somalia                          39     103
-Burkina Faso                      8      75
-Syria                            73      66
-Iraq                             18      65
-Pakistan                         28      59
-Colombia                          2      23
-Mozambique                       19      23
-Philippines                      14      14
-India                            17      13
-Kenya                             8       8
-Algeria                           1       7
-Central African Republic          6       6
-Cameroon                         15       6
-Russia (Soviet Union)             1       5
+Nigeria                          90     180
+Ukraine                         408     128
+Somalia                          17     116
+Iraq                             25     109
+Ethiopia                         11      73
+Myanmar (Burma)                 117      71
+Mali                             34      67
+Burkina Faso                     20      57
+Afghanistan                      48      54
+India                            38      43
+Niger                             7      42
+DR Congo (Zaire)                102      39
+Pakistan                         25      32
+Central African Republic         11      28
+Syria                            36      24
+Yemen (North Yemen)              30      24
+Philippines                      12      18
+Egypt                            15      16
+Cameroon                         33      13
+Mozambique                       34      10
 ```
 
 Details for Specific Country
@@ -61,18 +61,18 @@ def country_attacked(mon, country):
    g.columns = ['incidents','deaths']
    return g.sort_values('deaths',ascending=False)
 
-print (country_attacked(9, 'Syria'))
+print (country_attacked(6, 'Syria'))
 ```
 
 ```text
-                                                incidents  deaths
-side_b                                 country                   
-Syrian insurgents                      Syria           21      15
-SDF                                    Syria           14       3
-PKK                                    Syria            1       1
-Civilians                              Syria            2       0
-Government of United States of America Syria            1       0
-IS                                     Syria           15       0
+                              incidents  deaths
+side_b               country                   
+Syrian insurgents    Syria           22      27
+SDF                  Syria           16       8
+Civilians            Syria            8       0
+Government of Israel Syria            1       0
+Government of Syria  Syria            1       0
+IS                   Syria           15       0
 ```
 
 <a name='gdeltme'/>
@@ -96,6 +96,18 @@ are also added.
 The output of the code is below
 
 [Output](conflict-out.html)
+
+<a name='ukraine'/>
+
+### Ukraine
+
+Below is the output from VIINA project, it releases a "control file"
+which lists, for every town in Ukraine, whether it is under Russian or
+Ukrainian control.
+
+[Code](viina-ukr.py)
+
+[Output](viina-control.png)
 
 <a name='gdtroop'/>
 
