@@ -43,7 +43,7 @@ project in Pakistan"
 
 ---
 
-Don't have suitable salt cavern location for H2 storage? [Pipe storage](2022/02/h2-underground.html#pipe)
+Don't have suitable salt cavern location for H2 storage? [Pipe storage](../../2022/02/h2-underground.html#pipe)
 is possible, feasible, cheap.
 
 ---
@@ -52,7 +52,7 @@ Vacancy rate, the number of job openings per unemployed which shows
 "labor market tightness" is through the roof. The great resignation
 might have had an effect here.
 
-[[-]](2019/05/stats.html#vacrate)
+[[-]](../../2019/05/stats.html#vacrate)
 
 ---
 
