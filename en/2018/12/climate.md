@@ -16,6 +16,8 @@
 
 [Carbon Capture](../../2022/02/h2-co2-capture.html)
 
+[The Rare Metals War](../../2021/10/the-rare-metals-war.html)
+
 [The Sunshine Map](https://pbs.twimg.com/media/FCtre5sWEAgFFp9?format=png&name=small)
 
 [Temparature Increase](../../2015/08/temp-increase.html)
