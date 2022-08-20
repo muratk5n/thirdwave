@@ -210,11 +210,9 @@ Not bad for a farmer.
 
 ---
 
-"@wowinteresting8
+"Mongolian way of cutting watermelon"
 
-Mongolian way of cutting watermelon"
-
-[[-]](https://twitter.com/wowinteresting8/status/1556349534783311872)
+[[-]](https://imgur.com/k8SSQkh)
 
 ---
 
