@@ -20,6 +20,7 @@ df3 = df2.sum(axis=0).tail(600)
 df4 = pd.DataFrame(df3)
 df4['newidx'] = [pd.to_datetime(x[4:12] + " " + x[12:16]) for x in df3.index]
 df4 = df4.set_index('newidx')
-print (df4.tail(4))
-df4[0].tail(450).plot()
+idx = df4.index.floor('D')
+df4 = df4[~idx.duplicated(keep='last') | ~idx.duplicated(keep=False)]
+df4[0].tail(80).plot()
 plt.savefig('viina-control.png')
