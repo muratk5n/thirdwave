@@ -3,7 +3,7 @@
 Ingredients
 
 * 1 kg Turkey (or Chicken) Meat
-* 1/2 Bunch Swiss chards 
+* 2 Cups Shredded Swiss chards, or Cabbage
 * 2 Oranges
 * 1 Diced Onion
 * 1 Teaspoon Turmeric
@@ -26,12 +26,8 @@ their water which will be dried anyway. Once the veg+fruit are mixed
 well with the meat, drying expands the whole mix into into a small
 chewable pieces.
 
-Note: If swiss chards are not available, similar green veg low in iron
-can be used. Instead of yogurt, tallow is fine too, melt, pour on
-dried meat, mix.
-
-Note: If high-fat dry cheese such as brynza is not available, dedhyd
-your own, or buy tallow, melt, pour on the poultry. Alternatively dry
-yogurt.
+Note: Instead of yogurt, tallow is fine, melt, pour on dried meat,
+mix. Or high-fat dry cheese eg brynza, mix as-is since such cheeses
+are already pretty dry.
 
 
