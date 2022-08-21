@@ -202,7 +202,7 @@ production of that food. Free markets by themselves are not enough.
 ---
 
 Gobble gobble gov subsidizing 75% of gobble gobble farms for capacity
-over 7000? Interesting.. The bird grows in half a year, so 140,000
+over 7000? Interesting.. The bird grows in half a year, so 14,000
 birds a year, markets sell a kilo for 6 USD, say farms sell it for 3
 USD a piece, 7000 x 2 x 4 x 3 = 168000 USD per year, since costs are
 mostly subsidized, cld leave over 120K USD after subtracting costs..

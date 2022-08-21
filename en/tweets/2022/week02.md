@@ -696,13 +696,6 @@ good thing. Plus rcv is a money saver.
 
 ---
 
-Lee Pace (Cleon of the genetic dynasty) as the new Nicholas Cage?
-I ask a remake of *Face Off*.
-
-\#foundation
-
----
-
 Demerzel was different than I expected, and the genetic dynasty wasn't
 there in the Asimov books, but it's ok..
 
