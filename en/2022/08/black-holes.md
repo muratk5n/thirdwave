@@ -1,4 +1,4 @@
-# Black Holes
+# Black Holes or Burning Disks
 
 [Wolfgang Kundt](https://arxiv.org/abs/0902.3151)
 
