@@ -27,7 +27,7 @@ past), forming (binary) white dwarfs, binary neutron stars, and AGN –
 this universal type of engine looks like a rotating magnet, not like a
 [black hole]..
 
-[Wolfgang Kundt](https://link.springer.com/article/10.1007/s10714-009-0815-9)
+[Link](https://link.springer.com/article/10.1007/s10714-009-0815-9)
 
 These [galaxy] centers should behave as flat stars, or as (nuclear-)
 burning disks (BDs) [Kundt's alternative theory instead of black
@@ -47,3 +47,45 @@ words like ”downsizing”, ”antihierarchical”, ”co-evolution”, ”feed
 from SNe and AGN”, and the like; the BH paradigm must not be
 sacrificed.
 
+[Link](https://www.researchgate.net/publication/272370922_A_Brief_Observational_History_of_the_Black-Hole_Spacetimes)
+
+Already Victor Ambartsumian noted.. that galactic centers are observed
+to eject, rather than to swallow... 
+
+[M]idi BHs have only been considered seriously once in 1974, as a
+possible explanation for the 1908 Tunguska catastrophe, even though no
+mechanism for their formation had ever been proposed. They were
+refuted by Beasley and Tinsley [26], based on an absence of tsunamis
+in the Pacific during the days of that event (which would have been
+raised by the midi BH during its exit from the ocean, after having
+crossed the Earth). Note that in my understanding, the Tunguska event
+has not been an infall event from outside, rather an ejection event
+from inside, a kimberlite.
+
+Next, explosions of mini BHs have been ruled out by Joe Taylor by a
+large margin, via an absence of detected radio bursts of the implied
+kind. And I have never been shown convincing evidence of a maxi BH
+either, throughout the decades since their proposition [12]. Note that
+yet another class of BHs has been taken seriously in 2012, when CERN’s
+Large Hadron Collider was assigned to search for the Higgs particle,
+quantum mini BHs, much lighter than the Planck mass, whose growth was
+feared to possibly swallow the whole city of Geneva. Fortunately for
+our home planet Earth, this most dangerous class of BHs has not shown
+up either.
+
+BHs have thus remained unobserved objects in all weight classes. Even
+worse, the book by Yvan Leblanc claims that BH thermodynamics is
+inconsistent with standard textbooks on physics. A number of further
+people support his view, among them Vladimir Belinski. The publication
+of my own reply to Hawking’s launching paper on BH entropy, in [1976],
+was delayed by more than half a year and eventually printed without
+sending me proof sheets and with 13 typos added. In it, I pointed out
+that his definition of BH entropy was inconsistent with the textbook
+definition of entropy in physics. (Textbook entropy scales linearly
+with mass, Hawking’s entropy scales quadratically with it.)
+
+Concerning proposals to combine GR with quantum mechanics, my own
+understanding is that quantum theory must not be applied to systems
+all of whose particles are purely macroscopic, that is, are much
+larger than their de Broglie wavelength. This criterion covers also
+the very recent proposal by Vaz. 
