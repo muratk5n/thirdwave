@@ -499,12 +499,6 @@ and solar PPAs could run about 35 dollars/MWh"
 
 ---
 
-DJ Food - Well Swung \#music
-
-[Link](https://youtu.be/2JteUnNch3o)
-
----
-
 That much-awaited [decoupling](../../2021/03/less-is-more-hickel.html#decouple)
 did not take place. In the umpteenth step of a fully fledged knowledge econ (3W),
 maybe, it cld happen. But we are far off from that.

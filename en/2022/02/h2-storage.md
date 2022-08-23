@@ -2,7 +2,7 @@
 
 [Liquified H2](liquified-h2.html)
 
-[Ammonia](greenammonia.html)
+[Ammonia](ammonia.html)
 
 [Underground](h2-underground.html)
 

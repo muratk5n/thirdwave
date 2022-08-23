@@ -52,4 +52,43 @@ conditions for production, they have produced a strain that makes
 hydrogen at rates higher than any previous published rates of
 bacterial bio-hydrogen.
 
+<a name='ammonia'/>
+
+[Link](https://pubs.acs.org/doi/10.1021/jacs.2c01886)
+
+There is an evergrowing demand for environment-friendly processes to
+synthesize ammonia (NH3) from atmospheric nitrogen (N2). Although
+diazotrophic N2 fixation represents an undeniably “green” process of
+NH3 synthesis, the slow reaction rate makes it less suitable for
+industrially meaningful large-scale production. Here, we report the
+photoinduced N2 fixation using a hybrid system composed of colloidal
+quantum dots (QDs) and aerobic N2-fixing bacteria, *Azotobacter
+vinelandii*
+
+[Link](https://www.anthropocenemagazine.org/2022/02/ammonia-secreting-bacteria-bring-us-closer-to-a-world-free-of-industrial-fertilizers%EF%BF%BC/)
+
+Researchers have engineered a common soil bacteria to steadily secrete
+ammonia... One day, these novel engineered microbes could replace the
+chemical fertilizers that are ubiquitous on farmland.. the researchers
+introduce their star candidate: a bacteria called Azotobacter
+vinelandii which is part of the diazotroph family. Diazotrophs are
+biologically equipped to fix nitrogen from the atmosphere, turning it
+into the compound known as ammonia, which it leaches out in varied and
+typically low concentrations.
+
+Because ammonia is so fundamental to the growth of plants,
+A. vinelandii has long been of interest to researchers, who had also
+identified a particular gene in this bacteria that seems to be
+involved in regulating its natural ammonia production. But, until now
+no one has understood exactly how this gene drives the
+ammonia-excreting behavior—which would be the key to controlling it,
+and perhaps boosting ammonia production to make it functionally useful
+for crops.
+
+The researchers set out to discover this by experimentally tweaking
+the gene to see how that impacted its functioning. Through this they
+discovered they could influence the bacteria to start producing
+ammonia—and critically, they could dial up its production to create
+larger quantities than before..
+
 [[⇪Up]](h2-production.html)
