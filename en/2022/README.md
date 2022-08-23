@@ -8,11 +8,11 @@
 
 [Aluminum Trihydride - Alane](02/alane.html)
 
+[Ammonia](02/ammonia.html)
+
 [Base Energy Numbers, Data](02/base-energy-numbers.html)
 
 [Energy Production Costs, LCOH, LCOE](02/costs-lcoe.html)
-
-[Green Ammonia](02/greenammonia.html)
 
 [H2 Production via Biology](02/h2-biology.html)
 

@@ -130,8 +130,6 @@
 
 [Watergate Babies](09/watergate-babies.html)
 
-[Ammonia](10/ammonia.html)
-
 [CSIRO](10/csiro.html)
 
 [Element One](10/element-one.html)
