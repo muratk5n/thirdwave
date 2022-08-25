@@ -277,8 +277,9 @@ consumers en masse has more backfire potential - too many student
 cheap loans blows up tuition prices, easy credit for consumption,
 mortgages can blow up prices on goods, homes. Tougher to control
 effect on "the many". During 08 crisis gazillions were thrown at
-corporations, yet no inflation (except in the stock market). Inflation
-did not show up bcz money did not end up in people's pockets.
+corporations, yet no inflation (except in the stock market,
+housing). Inflation did not show up bcz money did not reach people's
+pockets.
 
 ---
 
