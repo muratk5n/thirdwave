@@ -215,10 +215,6 @@ order to bleed and stall Russian forces"
 
 ---
 
-*Annihilation* looked like a badly done *Event Horizon*. I gave it a big fat 3. 
-
----
-
 Israel is the ultimate 'frontier country' for the outer alliance. That
 is their function, and a role they liked to play recently. It is more
 suitable for them compared to say "Turks" whose bizarre national
