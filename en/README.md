@@ -231,11 +231,6 @@ these conditions in Palestine?
 
 ---
 
-Saw the new *Top Gun*.. Actors had to fly actual planes while filming?
-Nicely done.
-
----
-
 Medicare Shmedicare.. It's the enemy that will need care when we
 whoop that ass!
 
@@ -289,6 +284,11 @@ Just released Numba 0.1.  Thanks Jon Riehl from Resilient Science for
 all the hard work.  Binaries to follow"
 
 [[-]](http://py2llvm.org)
+
+---
+
+Saw the new *Top Gun*.. Actors had to fly actual planes while filming?
+Nicely done.
 
 ---
 
