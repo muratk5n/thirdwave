@@ -275,8 +275,7 @@ pockets.
 
 ---
 
-Numba is a fantastic OSS - Pythonic science FTW. Oliphant keeps
-delivering
+Numba is a fantastic OSS - Pythonic science FTW. 
 
 "@teoliphant
 
