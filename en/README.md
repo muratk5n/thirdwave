@@ -98,7 +98,8 @@ A genetically modified bacteria can generate ammonia.. wonderful.
 
 ---
 
-Running VNC on RPi, desktop output to the smartphone. 
+Running VNC on RPi, desktop output to the smartphone. Board gets IP
+through DHCP/Wifi from phone's hotspot. 
 
 ---
 
