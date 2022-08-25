@@ -274,7 +274,7 @@ ad-hoc statistics", I'd prefer curated data but doesn't hurt to share.
 Targeted gov intervention works better on the supply side,
 incentivizing companies towards certain goals.. Incentivizing
 consumers en masse has more backfire potential - too many student
-cheap loans blows up tuition prices, too easy credit for consumption,
+cheap loans blows up tuition prices, easy credit for consumption,
 mortgages can blow up prices on goods, homes. Tougher to control
 effect on "the many". During 08 crisis gazillions were thrown at
 corporations, yet no inflation (except in the stock market). Inflation
