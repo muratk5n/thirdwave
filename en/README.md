@@ -315,7 +315,7 @@ problem. Have a better, accountable state.
 
 ---
 
->>Brian Williams: Did anyone [at the NSA] know or care that I Googled
+>Brian Williams: Did anyone [at the NSA] know or care that I Googled
 the final score of the Rangers-Canadiens game last night because I was
 traveling here?
 
