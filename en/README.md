@@ -69,7 +69,7 @@ The fight for water - DW Documentary
 ---
 
 If made clean, NH3 from coal can be shipped to power plants that can
-combust it for power, or with "crackers" extract H2 whereever needed.
+combust it for power.
 
 ---
 
