@@ -92,6 +92,22 @@ A genetically modified bacteria can generate ammonia.. wonderful.
 
 ---
 
+Medicare Shmedicare.. It's the enemy that will need care when we
+whoop that ass!
+
+"@YoBenCohen
+
+A country that 'cannot afford' Medicare For All, shouldn't be spending
+tax dollars to maintain over 800 military bases around the world"
+
+---
+
+\#Afghanistan \#Oliver
+
+[[-]](https://youtu.be/x2hw_ghPcQs?t=563)
+
+---
+
 Running VNC on RPi, desktop output to the smartphone. Board gets IP
 through DHCP/Wifi from phone's hotspot. 
 
@@ -228,22 +244,6 @@ opportunity
 
 Constant attacks, military occupation; how could there be piece under
 these conditions in Palestine?
-
----
-
-Medicare Shmedicare.. It's the enemy that will need care when we
-whoop that ass!
-
-"@YoBenCohen
-
-A country that 'cannot afford' Medicare For All, shouldn't be spending
-tax dollars to maintain over 800 military bases around the world"
-
----
-
-\#Afghanistan \#Oliver
-
-[[-]](https://youtu.be/x2hw_ghPcQs?t=563)
 
 ---
 
