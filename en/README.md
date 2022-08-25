@@ -225,7 +225,8 @@ suitable for them compared to say "Turks" whose bizarre national
 identity causes them think they are outsiders, but Israel at least
 legitimately can claim, looking at its near past, that it was an
 outsider, culturally different (European) and not liked by many of its
-neighbors.
+neighbors. Still it is better for them in the long run to play nice in
+their own region.
 
 ---
 
