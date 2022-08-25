@@ -88,7 +88,7 @@ cleanly in turbines and generate power. Ammonia cld even be combusted
 along with coal to reduce a plant's carbon footprint. Plus NH3 is
 useful as fertilizer.
 
-Carrier, fertilizer, fuel - no other molecule checks so many boxes.
+Carrier, fertilizer, fuel - no other base tech checks so many boxes.
 
 ---
 
