@@ -47,7 +47,7 @@ by 2025"
 ---
 
 Sat system measures Earth's grav field changes to determine water
-amount under in a location. Smart.
+amount in a location. Smart.
 
 "[A] NASA team proposed 'weighing' Earth's water by measuring its
 gravitational force. 'Newton's laws tell us that anything that has
