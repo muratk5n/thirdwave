@@ -2,6 +2,8 @@
 
 ---
 
+Damns are mostly built for needs other than power apparetly
+
 "Out of the 38,000 large scale dams registered by the International
 Commission on Large Dams (ICOLD), an international organization that
 sets the standards for dams, 50 percent are used for irrigation, 18
@@ -9,11 +11,6 @@ percent for hydropower, 12 percent for water supply and 10 percent for
 flood control and the rest for other functions"
 
 [[-]](http://12.000.scripts.mit.edu/mission2017/dams-and-reservoirs/)
-
----
-
-I bet damns are mostly built for needs other than power, ie farming,
-drinking water etc
 
 ---
 
