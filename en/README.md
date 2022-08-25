@@ -102,8 +102,8 @@ Running VNC on RPi, desktop output to the smartphone.
 
 ---
 
-RPi board literally fits into a small plastic soap box. Have a
-`recollindex` job running there now that I check through `tmux` - it
+Raspberry Pi board literally fits into a small plastic soap box. Have
+a `recollindex` job running there now that I check through `tmux` - it
 feels strange to `tmux` into a little plastic soap box.
 
 ---
