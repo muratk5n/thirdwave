@@ -12,8 +12,8 @@ flood control and the rest for other functions"
 
 ---
 
-I bet the main reason for damns is for other needs, farming, water
-reservoir etc
+I bet damns are mostly built for needs other than power, ie farming,
+drinking water etc
 
 ---
 
