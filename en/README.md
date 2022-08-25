@@ -221,11 +221,11 @@ order to bleed and stall Russian forces"
 
 Israel is the ultimate 'frontier country' for the outer alliance. That
 is their function, and a role they liked to play recently. It is more
-suitable for them compared to say "Turks" whose retarded national
-identity causs them think they are outsiders, but Israel at least
+suitable for them compared to say "Turks" whose bizarre national
+identity causes them think they are outsiders, but Israel at least
 legitimately can claim, looking at its near past, that it was an
 outsider, culturally different (European) and not liked by many of its
-neighbors. 
+neighbors.
 
 ---
 
