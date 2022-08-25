@@ -226,7 +226,7 @@ identity causes them think they are outsiders, but Israel at least
 legitimately can claim, looking at its near past, that it was an
 outsider, culturally different (European) and not liked by many of its
 neighbors. Still it is better for them in the long run to play nice in
-their own region.
+their own region. Can't keep playing Cowboys and Indians forever.
 
 ---
 
