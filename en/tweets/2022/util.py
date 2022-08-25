@@ -14,6 +14,17 @@ import urllib.request as urllib2
 from io import BytesIO
 import pandas_ta as ta
 
+def bp_hydro_elec_perc(country):
+    fin = '../../2019/05/bp-stats-review-2022-consolidated-dataset-panel-format.csv'
+    df = pd.read_csv(fin)
+    df = df[df.Country == country]
+    df = df.set_index('Year')
+    df = df[df.index == df.index.max()]
+    elec = float(df['elect_twh'])
+    prim = float(df['primary_ej'])*277.778
+    h = float(df.hydro_twh)
+    return np.round(h*100/elec,2), np.round(h*100/prim,2)
+
 def sm_plot_cities(clat,clon,zoom,country,cities,eps=0.1):
     sm.plot_countries(clat,clon,zoom)
     for i,city in enumerate(cities):
