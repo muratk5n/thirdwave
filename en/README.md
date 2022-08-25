@@ -18,7 +18,7 @@ drinking water etc
 ---
 
 ```python
-import util; util.1bp_hydro_elec_perc("China")
+import util; util.bp_hydro_elec_perc("China")
 ```
 
 ```text
