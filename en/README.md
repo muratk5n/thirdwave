@@ -305,8 +305,8 @@ When do I not want to Paste as Plain Text?"
 
 ---
 
-No need to 'abolish the administrative state' to fix this
-problem. Have a better, accountable state. 
+No need to 'abolish the administrative state' to fix problems such as
+these..  Have a better, accountable state.
 
 ---
 
