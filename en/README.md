@@ -260,11 +260,11 @@ tax dollars to maintain over 800 military bases around the world"
 
 ---
 
-How did I process the data? [geek] File has towns in rows, dates in
-columns, for a town on a particular date file has 'RU', or 'UA'; I
-replace those with 1 and 0, then sum all the rows (which obviously
-adds only 1's) - the total gives a chronological progr of total towns
-under RU control [/geek].
+How did I process the data? File has towns in rows, dates in columns,
+for a town on a particular date file has 'RU', or 'UA'; I replace
+those with 1 and 0, then sum all the rows (which obviously adds only
+1's) - the total gives a chronological progr of total towns under RU
+control.
 
 ---
 
