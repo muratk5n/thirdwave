@@ -319,7 +319,7 @@ problem. Have a better, accountable state.
 >Brian Williams: Did anyone [at the NSA] know or care that I Googled
 the final score of the Rangers-Canadiens game last night because I was
 traveling here?
-
+>
 >Snowden: You might say, does anybody really care that I’m looking up
 the score for the Rangers game? Well, a government or a hacker or some
 other nefarious individual would say yes, they’re very interested in
@@ -328,7 +328,7 @@ probably speak English. It says you’re probably an American, you’re
 interested in this sport. And they might know what your habits are.
 Where were you in the world when you checked the score? Did you check
 it when you travel, or did you check it when you’re just at home?
-
+>
 >They’d be able to tell something called your pattern of life: when are
 you doing these kind of activities? When do you wake up? When do you
 go to sleep? What other phones are around you when you wake up and go
@@ -343,9 +343,9 @@ misconstrued, misinterpreted, and used to harm you as an individual
 even without the government having any intent to do you wrong. The
 problem is that the capabilities themselves are unregulated,
 uncontrolled, and dangerous.
-
+>
 >Williams: All because I Googled “Rangers-Canadiens final score”?
-
+>
 >Snowden: Exactly. 
 
 ---
