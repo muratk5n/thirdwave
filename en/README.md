@@ -38,6 +38,11 @@ electricity shortages".
 
 ---
 
+The student-loan forgiveness is a good move.. it can help raise potus
+popularity.
+
+---
+
 Bloomberg: "Germany Taps ‘Boundless’ Fuel Potential in Canada Hydrogen
 Deal.. Canada intends to start shipping green hydrogen..  to Germany
 by 2025"
