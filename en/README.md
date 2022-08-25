@@ -84,9 +84,9 @@ NH3 is key; it is an H2 carrier, can extract H2 out of it, pipe it to
 homes, fuel cars..
 
 Ammonia itself can be [combusted](https://youtu.be/5ejL65tKsGM?t=107)
-in turbines and generate power. Ammonia cld even be combusted along
-with coal to reduce a plant's carbon footprint. Plus NH3 is useful as
-fertilizer.
+cleanly in turbines and generate power. Ammonia cld even be combusted
+along with coal to reduce a plant's carbon footprint. Plus NH3 is
+useful as fertilizer.
 
 Carrier, fertilizer, fuel - no other molecule checks so many boxes.
 
