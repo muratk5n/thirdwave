@@ -103,7 +103,8 @@ The output of the code is below
 
 Below is the output from VIINA project, it releases a "control file"
 which lists, for every town in Ukraine, whether it is under Russian or
-Ukrainian control.
+Ukrainian control. The report sums Russian controlled towns for each
+time period.
 
 [Code](confstats-ukr.py)
 
