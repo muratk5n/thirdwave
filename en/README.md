@@ -2,8 +2,6 @@
 
 ---
 
-Damns are mostly built for needs other than power apparetly
-
 "Out of the 38,000 large scale dams registered by the International
 Commission on Large Dams (ICOLD), an international organization that
 sets the standards for dams, 50 percent are used for irrigation, 18
