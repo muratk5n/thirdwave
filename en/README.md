@@ -354,10 +354,6 @@ guy; imagine a team of capable people like him, planning for weeks.
 
 ---
 
-## For Members
-
-[Link](https://thirdwave-members.herokuapp.com)
-
 ## Reference
 
 [Nations and Nationalism, Culture, Narratives](2013/02/nations-and-nationalism.html)
@@ -387,6 +383,8 @@ guy; imagine a team of capable people like him, planning for weeks.
 [TR](../tr)
 
 ## Browse
+
+[Members](2022/08/members.html]
 
 [By Year](years.html)
 
