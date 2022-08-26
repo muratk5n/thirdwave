@@ -384,7 +384,7 @@ guy; imagine a team of capable people like him, planning for weeks.
 
 ## Browse
 
-[Members](2022/08/members.html]
+[Members](2022/08/members.html)
 
 [By Year](years.html)
 
