@@ -242,7 +242,7 @@ opportunity
 
 ---
 
-Constant attacks, military occupation; how could there be piece under
+Constant attacks, military occupation; how could there be peace under
 these conditions in Palestine?
 
 ---
