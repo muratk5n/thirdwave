@@ -26,8 +26,8 @@ plan to tackle poverty"
 ---
 
 FBI raiding Maga Lago.. Dems either definitely want to run against
-Trump or definitely don't want to. Will the attention will help DJT in
-a 2015 redux?
+Trump or definitely don't want to. The attention can help DJT, in a
+2015 redux.
 
 ---
 
