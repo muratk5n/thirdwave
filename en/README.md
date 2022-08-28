@@ -102,7 +102,7 @@ down history as the man who started covid.
 
 ---
 
-That's some repugnant shit.. This tech is inferior in more ways than one.
+Bad bad bad...
 
 "That's because the lithium salts in the battery are self-oxidizing,
 which means that they can't be "starved out" like a traditional fire."
