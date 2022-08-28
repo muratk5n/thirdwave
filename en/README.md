@@ -40,8 +40,8 @@ outer alliance (a frontier country) it all makes sense; Accusing
 someone being pro-Russia and anti-Semitic is merely different sides of
 the same coin.
 
-Pro-ISR stance in UK (and US) is a secret handshake of sorts.. Instead
-of saying 'I am wholeheartedly supportive of my country's long-running
+Supportive statements are a secret handshake of sorts.. Instead of
+saying 'I am wholeheartedly supportive of my country's long-running
 strategy of containing the inner countries, block their access to the
 high seas and position selves so we can choke off their trade at a
 moment's notice" you just say "I dislike anti-Semitism and will repeat
