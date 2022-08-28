@@ -37,7 +37,7 @@ sense at first, such talk in a country who was "on the right side" of
 WWII fighting against the Nazis being so enthusiastic to prove its
 anti-Semitic credentials, but once we understand Israel's role in the
 outer alliance (a frontier country) it all makes sense; Accusing
-someone being pro-Russia and anti-Semitic is merely different sides of
+someone being pro-Russia and anti-Semitic is merely two sides of
 the same coin.
 
 Supportive statements are a secret handshake of sorts.. Instead of
