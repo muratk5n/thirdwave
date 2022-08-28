@@ -64,16 +64,6 @@ hydrogen to power world markets.
 
 ---
 
-"H2 Green Steel Breaks Ground at Boden Industrial Park for Hydrogen
-Production Facility. The green steel plant in Boden is one of the
-largest industrial projects in Sweden’s history and at H2 Green Steel
-this is an investment for the future. Not because the first delivery
-is expected three years ahead – but since the need to produce modern
-steel with a significantly lower carbon footprint than is currently
-the case"
-
----
-
 "[NY] Governor Hochul Announces Maine and Rhode Island Join
 Multi-State Agreement to Propose a Regional Clean Hydrogen Hub"
 
