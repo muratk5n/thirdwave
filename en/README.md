@@ -164,11 +164,6 @@ I’d rather fist a dog than be in a relationship. Piss my pants!"
 
 ---
 
-An analyst said it is actually Russia who is moving slow in terms of
-space, they want to cause losses in UKR troop numbers.. 
-
----
-
 Trains based on elecricity seem wasteful to me, based on crappy tech,
 not to mention unsafe.. Extremely high-voltage is required to transmit
 that power. Why bother when one car of a train can carry the fuel for
