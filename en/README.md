@@ -119,12 +119,6 @@ before the U.S. invasion in 2001"
 
 ---
 
-Maga Lago raids.. What a load of shit - Dems either definitely want to
-run against Trump, or definitely don't want to.. It's free publicity
-for DJT
-
----
-
 I wonder if shadowy figures in US delibaretely targeted Greece post
 2008 so they took on a ginormous debt; Goldman Sachs underwrote those
 loans and they likely egged them on; as a result Greece was saddled
