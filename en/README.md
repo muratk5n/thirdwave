@@ -13,8 +13,9 @@ came coupled with a pro-Russia "accusation".  It may not have made
 sense at first, such talk in a country who was "on the right side" of
 WWII fighting against the Nazis being so enthusiastic to prove its
 anti-Semitic credentials, but once we understand Israel's role in the
-outer alliance it all makes sense; Accusing someone being pro-Russia
-and anti-Semitic is merely different sides of the same coin.
+outer alliance (a frontier country) it all makes sense; Accusing
+someone being pro-Russia and anti-Semitic is merely different sides of
+the same coin.
 
 Pro-ISR stance in UK (and US) is a secret handshake of sorts.. Instead
 of saying 'I am wholeheartedly supportive of my country's long-running
