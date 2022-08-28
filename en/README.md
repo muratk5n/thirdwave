@@ -240,7 +240,7 @@ reach its goal of net-zero"
 
 ---
 
-*War Dogs*, closer to near historic events than eg *Lord of War*. Loved it.
+*War Dogs*, a more grounded *Lord of War*, hilarious at times. Loved it.
 
 ---
 
