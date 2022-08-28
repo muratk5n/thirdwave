@@ -183,8 +183,7 @@ are running on the line in Lower Saxony, Germany."
 
 ---
 
-That is not a typo.. it says FIVE HUNDRED **GIGA**WATTS. An
-eye-popping amount. Massive.
+That is not a typo.. it says FIVE HUNDRED **GIGA**WATTS. Huge.
 
 H2 Central: "Green Hydrogen International announces.. green hydrogen
 hub – a gigascale green hydrogen production and storage complex to be
