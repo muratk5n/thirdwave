@@ -32,7 +32,7 @@ Trump or definitely don't want to. The attention can help DJT, in a
 ---
 
 Anti-semitism, critical of Israel.. what's the difference. People's
-eyes will float, brains not registering anything past "anti-", and the
+eyes will float, brains not registering anything past "anti-", but the
 right corners will get the message.
 
 ---
