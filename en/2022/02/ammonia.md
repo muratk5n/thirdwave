@@ -79,3 +79,5 @@ Info from Japan on [direct combustion](https://youtu.be/5ejL65tKsGM?t=107)
 [Bill David Presentation](https://youtu.be/qEut7o-b5hY?t=250)
 
 [GenCell and Ammonia](2019/07/gencell.html)
+
+[[⇪Up]](h2-storage.html)

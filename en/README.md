@@ -2,355 +2,214 @@
 
 ---
 
-"Out of the 38,000 large scale dams registered by [an] International
-Commission.. 50 percent are used for irrigation, 18 percent for
-hydropower, 12 percent for water supply and 10 percent for flood
-control and the rest for other functions"
-
-[[-]](http://12.000.scripts.mit.edu/mission2017/dams-and-reservoirs/)
+FBI raiding Maga Lago.. Dems either definitely want to run against
+Trump or definitely don't want to. The attention will likely help
+DJT in a 2015 redux.
 
 ---
 
-```python
-import util; util.bp_hydro_elec_perc("China")
-```
+Notice when they were hitting Corbyn with that how the narrative also
+came coupled with a pro-Russia "accusation".  It may not have made
+sense at first, such talk in a country who was "on the right side" of
+WWII fighting against the Nazis being so enthusiastic to prove its
+anti-Semitic credentials, but once we understand Israel's role in the
+outer alliance it all makes sense; Accusing someone being pro-Russia
+and anti-Semitic is merely different sides of the same coin.
 
-```text
-Out[1]: (15.23, 2.97)
-```
-
-15% of electricity, 3% of overall energy is from hydro. I guess that
-could cause *some* shortages... more in certain places.. but the
-numbers above are too small.
-
----
-
-What do the numbers say?
-
-"There is drought in China, it means less hydropower which causes
-electricity shortages".
+Pro-ISR stance in UK (and US) is a secret handshake of sorts.. Instead
+of saying 'I am wholeheartedly supportive of my country's long-running
+strategy of containing the inner countries, block their access to the
+high seas and position selves so we can choke off their trade at a
+moment's notice" you just say "I dislike anti-Semitism and will repeat
+that 100 more times just to make sure you get 😉 my 😉 meaning 😉".
 
 ---
 
-The student-loan forgiveness is a good move.. it can help raise potus
-popularity.
+Anti-semitism talk in UK politics doesn't have anything to do with
+anti-semitism per se, it has everthing to do with signaling loyalty to
+the interest of the outer alliance.
 
 ---
 
-Bloomberg: "Germany Taps ‘Boundless’ Fuel Potential in Canada Hydrogen
-Deal.. Canada intends to start shipping green hydrogen..  to Germany
-by 2025"
+Canada and Germany.. entered into an agreement to stimulate the
+development of green hydrogen production in Canada for supply to
+Germany at what is scheduled to be Canada’s first large-scale green
+hydrogen facility... World Energy GH2 officially launched its project
+to invest $12 billion in Newfoundland and Labrador to produce green
+hydrogen to power world markets.
 
 ---
 
-Sat system measures Earth's grav field changes to determine water
-amount in a location. Smart.
-
-"[A] NASA team proposed 'weighing' Earth's water by measuring its
-gravitational force. 'Newton's laws tell us that anything that has
-mass will have a gravitational attraction,' explains GRACE project
-scientist.. That means a mountain exerts more gravitational pull than
-a hill, an ocean more than a stream"
-
-[[-]](https://www.amnh.org/explore/videos/earth-and-climate/grace-tracking-water-from-space/article-grace-watches-earth-s-water)
+"H2 Green Steel Breaks Ground at Boden Industrial Park for Hydrogen
+Production Facility. The green steel plant in Boden is one of the
+largest industrial projects in Sweden’s history and at H2 Green Steel
+this is an investment for the future. Not because the first delivery
+is expected three years ahead – but since the need to produce modern
+steel with a significantly lower carbon footprint than is currently
+the case"
 
 ---
 
-The fight for water - DW Documentary	
-
-[[-]](https://youtu.be/1MZFrJPPIQ8)
-
----
-
-If made clean, NH3 from coal can be shipped to power plants that can
-combust it for power.
+"[NY] Governor Hochul Announces Maine and Rhode Island Join
+Multi-State Agreement to Propose a Regional Clean Hydrogen Hub"
 
 ---
 
-Can CCUS be added to this process easily?
+"@ScienceInsider
 
-Wiki: "Ammonia made from coal is a process mainly practised by
-China. China produced about 32.6% of the global production in 2014"
-
----
-
-NH3 is key; it is an H2 carrier, can extract H2 out of it, pipe it to
-homes, fuel cars..
-
-Ammonia itself can be [combusted](https://youtu.be/5ejL65tKsGM?t=107)
-cleanly in turbines and generate power. Ammonia cld even be combusted
-along with coal to reduce a plant's carbon footprint. Plus NH3 is
-useful as fertilizer.
-
-Carrier, fertilizer, fuel - no other base tech checks so many boxes.
+BREAKING: White House issues new policy that will require, by 2026,
+all federally-funded research results to be freely available to public
+without delay, ending longstanding ability of journals to paywall
+results for up to 1 year"
 
 ---
 
-A genetically modified bacteria can generate ammonia.. wonderful.
+"@INTELPSF
 
-[[-]](2022/02/h2-biology.html#ammonia)
+Extreme floods continue this morning in Malakand division of #Swat,
+\#Pakistan"
 
----
-
-Medicare Shmedicare.. It's the enemy that will need care when we
-whoop that ass!
-
-"@YoBenCohen
-
-A country that 'cannot afford' Medicare For All, shouldn't be spending
-tax dollars to maintain over 800 military bases around the world"
+[Video](https://twitter.com/INTELPSF/status/1563075096289284097)
 
 ---
 
-\#Afghanistan \#Oliver
-
-[[-]](https://youtu.be/x2hw_ghPcQs?t=563)
-
----
-
-Running VNC on RPi, desktop output to the smartphone. Board gets IP
-through DHCP/Wifi from phone's hotspot. 
+Admin is getting rid of Luigi.. That is good news. Probably will go
+down history as the person who started covid.
 
 ---
 
-Raspberry Pi board literally fits into a small plastic soap box. Have
-a `recollindex` job running there now that I check through `tmux` - it
-feels strange to `tmux` into a little plastic soap box.
+"@CostsOfWar
+
+NEW: A year after the U.S. withdrew from Afghanistan, several key
+indicators reveal that the country is not better off than it was
+before the U.S. invasion in 2001"
+
+[[-]](https://twitter.com/CostsOfWar/status/1563220879047176193)
 
 ---
 
-Yes Maverick can take out fifth gen aircraft with a f-ing propeller
-plane.. For everyone else they are deadly.
+Maga Lago raids.. What a load of shit - Dems either definitely want to
+run against Trump, or definitely don't want to.. It's free publicity
+for DJT
 
 ---
 
-Thrust vectoring FTW.. fifth gen aircraft 
-
-"F-22 Raptor doing a Power Loop maneuver"
-
-[[-]](https://www.reddit.com/r/gifs/comments/woprio/f22_raptor_doing_a_power_loop_maneuver/)
-
----
-
-Yoon Seok-youl of South Korea has net approval of -53. Get a load of
-that! Didn't they just vote for this guy? The new president of SK
-right? WTF?
+I wonder if shadowy figures in US delibaretely targeted Greece post
+2008 so they took on a ginormous debt; Goldman Sachs underwrote those
+loans and they likely egged them on; as a result Greece was saddled
+with an onerous contract, later US obtained military bases perhaps in
+return for lenience, help? Who knows
 
 ---
 
-Wired: "A series of papers described astonishing results from using
-machine learning, the technique beloved by tech giants that underpins
-[so-called AI]. Applying it to data such as a country’s gross domestic
-product and unemployment rate was said to beat more conventional
-statistical methods at predicting [an event] by almost 20 percentage
-points...
-
-'They were claiming near-perfect accuracy, but we found that in each
-of these cases, there was an error in the machine-learning pipeline,'
-says [researcher]. When [they] fixed those errors, in every instance
-they found that modern AI offered virtually no advantage"
+Spying scandal in Greece
 
 ---
 
-Columbia Biz School - Python Beats Excel
+"One year after the presentation of the first Hopium Machina rolling
+prototype, the French manufacturer of high-end hydrogen-powered
+sedans, reveals today its concept car, Hopium Machina Vision, and
+offers for the first time an immersion inside the cabin"
 
-[[-]](https://pbs.twimg.com/media/Faw7QobWQAAoaPZ?format=jpg&name=small)
-
----
-
-People living on highlands have the right idea - it is generally
-cooler and less humid up there... Find the plateau.. Be the
-highlander. There can be more than one.
+[[-]](https://www.multivu.com/players/uk/9058251-hopium-machina-vision-the-hydrogen-powered-sedan-unveils-its-interior/)
 
 ---
 
-Not a slam-dunk of an idea as previously thought eh? Sad... BH concept
-went to the way of the multiverse, and string theory.
-
-[[-]](2022/08/black-holes.html)
+Scalia died shortly afterwards - historical note
 
 ---
 
-How Johnny Harris Rewrites History 
+This is a DDV classic
 
-[[-]](https://youtu.be/pAeoJVXrZo4?t=74)
-
----
-
-Between long covid and boomers retiring (earlier due to pandemic) we
-could perhaps explain the missing worker numbers. How much of the wage
-rises are due missing workers? Remaining ppl get more money, not a
-signal for overheating (therefore inflationary), it is due to missing
-ppl's money going to them, there is no significant increase.
+[[-]](https://pbs.twimg.com/media/D0-7dRpWoAAw_rr?format=jpg&name=small)
 
 ---
 
-Brookings: Two studies of long Covid patients found that 23% and 28%,
-respectively, were out of work due to long Covid at the time of the
-study. That suggests there may have been about 1.1 million Americans
-not working due to long Covid at any given time.
+😆 
 
-Additionally, some long Covid patients reduced hours rather than
-taking time off: 46% according to a study in The Lancet. That is
-another 2.1 million workers. If those workers reduced their hours by
-only a quarter, that would increase the labor market impact to 1.6
-million full-time equivalent workers. In other words, under reasonable
-assumptions given the data available, long Covid could account for 15%
-of the nation’s 10.6 million unfilled jobs.
+"@DannyDeVito
+
+I’d rather fist a dog than be in a relationship. Piss my pants!"
 
 ---
 
-Cant add gpx files to Maps.me? 👎 Enter OsmAnd.
+An analyst said it is actually Russia who is moving slow in terms of
+space, they want to cause losses in UKR troop numbers.. So RU is
+trading time for space, time being on their side.
 
 ---
 
-Hydrogen was already used to remove sulphur during the refining
-process, for fossil. That's why oil majors know a lot about our magic
-molecule... Salt caves, hundreds of miles of *existing* H2 pipelines -
-the know-how beind that was all due an existing need. Now they can put
-that knowledge into use, for H2 as the primary energy carrier. 
+Trains based on elecricity seem wasteful to me, based on crappy tech,
+not to mention unsafe.. Extremely high-voltage is required to transmit
+that power. Why bother when one car of a train can carry all the fuel
+train will ever need for multiple trips?
 
 ---
 
-Russia can bring in a million more troops easy
+Yahoo Finance: "The first fully hydrogen-powered passenger train
+service is now up and running. Coradia iLint trains built by Alstom
+are running on the line in Lower Saxony, Germany."
 
 ---
 
-Ukraine is also trading its own soldiers' lives for time. They are
-losing a lot of people that are hard to replace.
+That is not a typo.. it says FIVE HUNDRED **GIGA**WATTS. An
+eye-popping amount. Massive.
 
-"It’s become a truism, in the sixth month of Russia’s wider war on
-Ukraine, that Ukrainian forces trade space for time, staging a
-fighting retreat from less important towns, especially in the east, in
-order to bleed and stall Russian forces"
-
----
-
-Israel is the ultimate 'frontier country' for the outer alliance. That
-is their function, and a role they liked to play recently. It is more
-suitable for them compared to say "Turks" whose bizarre national
-identity causes them think they are outsiders, but Israel at least
-legitimately can claim, looking at its near past, that it was an
-outsider, culturally different (European) and not liked by many of its
-neighbors. Still it is better for them in the long run to play nice in
-their own region. Can't keep playing Cowboys and Indians forever.
+H2 Central: "Green Hydrogen International announces.. green hydrogen
+hub – a gigascale green hydrogen production and storage complex to be
+built in Nova Scotia, Canada. Spirit of Scotia will be an integrated
+green hydrogen production, storage, and transport project to be built
+in phases up to a potential 500GW in size to supply a secure source of
+green hydrogen to European and North American markets"
 
 ---
 
-Israelis never miss an opportunity to cause Palestenians to miss an
-opportunity
+Quanta Magazine: "‘Post-Quantum’ Cryptography Scheme Is Cracked on a Laptop"
 
 ---
 
-Constant attacks, military occupation; how could there be peace under
-these conditions in Palestine?
+Fortune: "At the latest reading, Moody’s Analytics finds 183 of the
+nation’s 413 largest regional housing markets are 'overvalued' by more
+than 25%"
 
 ---
 
-How did I process the data? File has towns in rows, dates in columns,
-for a town on a particular date file has 'RU', or 'UA'; I replace
-those with 1 and 0, then sum all the rows (which obviously adds only
-1's) - the total gives a chronological progr of total towns under RU
-control.
+Web app hosting platform Heroku is shutting off its freebie services..
+Due to end of e-z money? TW member serv on HK is switching to
+newsletter format. Q&A will continue. My personal code is moving to a
+'mobile server'".
 
 ---
 
-Counts of Ukrainian towns under RU control. Data is collected by
-software that parses news sources, tweets. Uses NLP, and "nonlinear
-ad-hoc statistics", I'd prefer curated data but doesn't hurt to share.
+Financial Post: "Ballard Power Systems Inc., the Vancouver-based maker
+of hydrogen fuel cells for use in trucks, trains and ships,... share
+price jumped five per cent to $11.39, the highest point since early
+May, extending a 33-per-cent surge since late July.. Investor
+excitement appears.. connected to the U.S. Inflation Reduction Act,
+which has a massive climate-change component that could allocate
+billions of dollars to incentivize the construction of hydrogen
+infrastructure...
 
-[[-]](2019/05/confstats.html#ukraine)
-
----
-
-Targeted gov intervention works better on the supply side,
-incentivizing companies towards certain goals.. Incentivizing
-consumers en masse has more backfire potential - too many student
-cheap loans blows up tuition prices, easy credit for consumption,
-mortgages can blow up prices on goods, homes. Tougher to control
-effect on "the many". During 08 crisis gazillions were thrown at
-corporations, yet no inflation (except in the stock market,
-housing). Inflation did not show up bcz money did not reach people's
-pockets.
-
----
-
-Numba is a fantastic OSS - Pythonic science FTW. 
-
-"@teoliphant
-
-Just released Numba 0.1.  Thanks Jon Riehl from Resilient Science for
-all the hard work.  Binaries to follow"
-
-[[-]](http://py2llvm.org)
+Suddenly, in a major and largely unexpected shift, the bill has
+positioned the United States to emerge as a major hydrogen economy and
+a potentially lucrative market for Ballard products. 'It wasn’t too
+long ago, maybe two years ago, where the U.S. market really was not a
+high priority for us,' [CEO] told analysts.. 'In fact, we had really
+characterized the U.S. market as a California market. That has clearly
+changed.'"
 
 ---
 
-Saw the new *Top Gun*.. Actors had to fly actual planes while filming?
-Nicely done.
+"@PlugPowerInc
+
+Plug is proud to announce a new agreement with longtime customer
+@Amazon to supply 10,950 tons per year of liquid #greenhydrogen to
+fuel Amazon operations. Green hydrogen is the key to helping Amazon
+reach its goal of net-zero"
 
 ---
 
-@hrgoliverpool
-
-'Could a six-hour workday be a reality?'
-
-[[-]](https://twitter.com/hrgoliverpool/status/1550431208508739584)
-
----
-
-"@jchawner
-
-When do I not want to Paste as Plain Text?"
-
----
-
-No need to 'abolish the administrative state' to fix problems such as
-these..  Have a better, accountable state.
-
----
-
->Brian Williams: Did anyone [at the NSA] know or care that I Googled
-the final score of the Rangers-Canadiens game last night because I was
-traveling here?
->
->Snowden: You might say, does anybody really care that I’m looking up
-the score for the Rangers game? Well, a government or a hacker or some
-other nefarious individual would say yes, they’re very interested in
-that, because that tells a lot about you. First off, it tells you
-probably speak English. It says you’re probably an American, you’re
-interested in this sport. And they might know what your habits are.
-Where were you in the world when you checked the score? Did you check
-it when you travel, or did you check it when you’re just at home?
->
->They’d be able to tell something called your pattern of life: when are
-you doing these kind of activities? When do you wake up? When do you
-go to sleep? What other phones are around you when you wake up and go
-to sleep? Are you with someone who’s not your wife? Are you doing
-something? Are you someplace you shouldn’t be? According to the
-government—which is arbitrary, you know. Are you engaged in any kind
-of activities that we disapprove of, even if they aren’t technically
-illegal? And all these things can raise your level of scrutiny, even
-if it seems entirely innocent to you, even if you have nothing to
-hide, even if you are doing nothing wrong. These activities can be
-misconstrued, misinterpreted, and used to harm you as an individual
-even without the government having any intent to do you wrong. The
-problem is that the capabilities themselves are unregulated,
-uncontrolled, and dangerous.
->
->Williams: All because I Googled “Rangers-Canadiens final score”?
->
->Snowden: Exactly. 
-
----
-
-Why does blanket surveilance matter? Even if it is for "inocous"
-"harmless" data? I believe that issue was addressed through the
-Snowden leaks. Let's recall that Brian Williams interview when he
-asked something like 'why does it matter if they know I do harmless X
-or Y?'. Remember how Snowden just rattled off bunch of things he could
-do.. That should've scared the shit out of anyone. And that's just one
-guy; imagine a team of capable people like him, planning for weeks.
+*War Dogs*, closer to near historic events than eg *Lord of War*. Loved it.
 
 ---
 
