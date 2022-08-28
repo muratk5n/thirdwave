@@ -130,10 +130,15 @@ tactical) carry less than half the munitions of current
 U.S. submarines and are louder than U.S. submarines from the 1960s.
 Consequently, the U.S. Navy, which operates a sound surveillance
 system in the waters of East Asia, can track China’s nuclear-powered
-submarines at long ranges. China is developing its own sound
+submarines at long ranges.  China is developing its own sound
 surveillance system, but even when it becomes operational (the United
 States spent forty years developing its system) the PLA will have
-difficulty tracking U.S. submarines...
+diffi culty tracking U.S. submarines, which are so quiet that they
+sometimes reduce background noise as they pass by a target.  China’s
+fifty-seven diesel-powered submarines are very quiet when running on
+their electric batteries, but they sail at half the speed and have
+half the endurance of U.S. nuclear-powered submarines, so they rarely
+leave China’s near seas..
 
 [Due to amphibious difficulties] China, therefore, probably could
 not conquer Taiwan, even in the absence of U.S. intervention. Even if

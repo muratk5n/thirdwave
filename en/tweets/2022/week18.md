@@ -768,7 +768,7 @@ import simplegeomap as sm, json
 
 clat,clon=48.70665, 37.5; zoom = 0.27
 
-ukr = json.loads(open("ukraine1.json").read())
+ukr = json.loads(open("ukrdata/ukraine1.json").read())
 ru = np.array(ukr['front']['20220430'])
 sm.plot_countries(clat,clon,zoom,outcolor='lavenderblush')
 sm.plot_line(ru,color='red',linestyle='dashed')

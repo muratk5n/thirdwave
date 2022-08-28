@@ -704,7 +704,7 @@ from skimage.morphology import binary_closing
 from skimage import io, measure
 
 threshold = 15
-img = io.imread("ua-ukr-20220504.png")
+img = io.imread("ukrdata/ua-ukr-20220504.png")
 lab = rgb2lab(img[:,:,[0,1,2]])
 d1 = deltaE_cie76(rgb2lab(np.uint8(np.asarray([243,178,182])) ), lab)
 d2 = deltaE_cie76(rgb2lab(np.uint8(np.asarray([253,35,36])) ), lab)

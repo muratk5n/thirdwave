@@ -20,8 +20,7 @@ acceleration of hydrogen development"
 
 ---
 
-Daleep Singh; [sanction
-guy](https://www.congress.gov/116/meeting/house/109498/witnesses/HHRG-116-BA10-Wstate-SinghD-20190515.pdf).
+Daleep Singh; [sanction guy](https://www.congress.gov/116/meeting/house/109498/witnesses/HHRG-116-BA10-Wstate-SinghD-20190515.pdf).
 Considered for both as NSC and NEC deputy..? US preparing to inflict
 some damage on some autocrats, rogoue states?
 
