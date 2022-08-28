@@ -55,12 +55,12 @@ the interest of the outer alliance.
 
 ---
 
-Canada and Germany.. entered into an agreement to stimulate the
+"Canada and Germany.. entered into an agreement to stimulate the
 development of green hydrogen production in Canada for supply to
 Germany at what is scheduled to be Canada’s first large-scale green
 hydrogen facility... World Energy GH2 officially launched its project
 to invest $12 billion in Newfoundland and Labrador to produce green
-hydrogen to power world markets.
+hydrogen to power world markets"
 
 ---
 
