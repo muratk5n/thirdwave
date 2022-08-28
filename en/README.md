@@ -199,12 +199,6 @@ Quanta Magazine: "‘Post-Quantum’ Cryptography Scheme Is Cracked on a Laptop"
 
 ---
 
-Fortune: "At the latest reading, Moody’s Analytics finds 183 of the
-nation’s 413 largest regional housing markets are 'overvalued' by more
-than 25%"
-
----
-
 Web app hosting platform Heroku is shutting off its freebie services..
 Due to end of e-z money? TW member serv on HK is switching to
 newsletter format. Q&A will continue. My personal code is moving to a
