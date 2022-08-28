@@ -2,6 +2,10 @@
 
 ---
 
+Al Monitor: "Israel pours energy into media blitz against looming Iran nuclear deal"
+
+---
+
 The Guardian: "Colombia’s leftwing government unveils tax-the-rich
 plan to tackle poverty"
 
