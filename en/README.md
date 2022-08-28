@@ -175,13 +175,6 @@ Quanta Magazine: "‘Post-Quantum’ Cryptography Scheme Is Cracked on a Laptop"
 
 ---
 
-Web app hosting platform Heroku is shutting off its freebie services..
-Due to end of e-z money? TW member serv on HK is switching to
-newsletter format. Q&A will continue. My personal code is moving to a
-'mobile server'".
-
----
-
 Financial Post: "Ballard Power Systems Inc., the Vancouver-based maker
 of hydrogen fuel cells for use in trucks, trains and ships,... share
 price jumped five per cent to $11.39, the highest point since early
