@@ -2,6 +2,10 @@
 
 ---
 
+CNBC: "A key leader for Meta's metaverse software is leaving the company"
+
+---
+
 Where was their gun? If there isn't a good guy with a gun, how can you
 stop a bad guy with a gun?
 
