@@ -97,8 +97,15 @@ Extreme floods continue this morning in Malakand division of #Swat,
 
 ---
 
-Admin is getting rid of Luigi.. That is good news. Probably will go
-down history as the person who started covid.
+Admin is getting rid of Luigi..? That is good news. Probably will go
+down history as the man who started covid.
+
+---
+
+That's some repugnant shit.. This tech is inferior in more ways than one.
+
+"That's because the lithium salts in the battery are self-oxidizing,
+which means that they can't be "starved out" like a traditional fire."
 
 ---
 
