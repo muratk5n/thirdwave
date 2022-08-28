@@ -94,8 +94,8 @@ down history as the man who started covid.
 
 Bad bad bad...
 
-"That's because the lithium salts in the battery are self-oxidizing,
-which means that they can't be "starved out" like a traditional fire."
+"Lithium salts in the battery are self-oxidizing, which means that
+they can't be "starved out" like a traditional fire."
 
 ---
 
