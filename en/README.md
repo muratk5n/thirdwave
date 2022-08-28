@@ -31,6 +31,12 @@ Trump or definitely don't want to. The attention can help DJT, in a
 
 ---
 
+Anti-semitism, critical of Israel.. what's the difference. People's
+eyes will float, brains not registering anything past "anti-", and the
+right corners will get the message.
+
+---
+
 Notice when they were hitting Corbyn with that how the narrative also
 came coupled with a pro-Russia "accusation".  It may not have made
 sense at first, such talk in a country who was "on the right side" of
