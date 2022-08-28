@@ -172,8 +172,8 @@ trading time for space, time being on their side.
 
 Trains based on elecricity seem wasteful to me, based on crappy tech,
 not to mention unsafe.. Extremely high-voltage is required to transmit
-that power. Why bother when one car of a train can carry all the fuel
-train will ever need for multiple trips?
+that power. Why bother when one car of a train can carry the fuel for
+even multiple trips?
 
 ---
 
