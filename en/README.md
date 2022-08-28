@@ -137,10 +137,9 @@ Spying scandal in Greece
 
 ---
 
-"One year after the presentation of the first Hopium Machina rolling
-prototype, the French manufacturer of high-end hydrogen-powered
-sedans, reveals today its concept car, Hopium Machina Vision, and
-offers for the first time an immersion inside the cabin"
+"French manufacturer of high-end hydrogen-powered sedans, reveals
+today its concept car, Hopium Machina Vision, and offers for the first
+time an immersion inside the cabin"
 
 [[-]](https://www.multivu.com/players/uk/9058251-hopium-machina-vision-the-hydrogen-powered-sedan-unveils-its-interior/)
 
