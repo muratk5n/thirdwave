@@ -165,8 +165,7 @@ I’d rather fist a dog than be in a relationship. Piss my pants!"
 ---
 
 An analyst said it is actually Russia who is moving slow in terms of
-space, they want to cause losses in UKR troop numbers.. So RU is
-trading time for space, time being on their side.
+space, they want to cause losses in UKR troop numbers.. 
 
 ---
 
