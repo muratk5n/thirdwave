@@ -2,6 +2,11 @@
 
 ---
 
+The Guardian: "Colombia’s leftwing government unveils tax-the-rich
+plan to tackle poverty"
+
+---
+
 FBI raiding Maga Lago.. Dems either definitely want to run against
 Trump or definitely don't want to. The attention will likely help
 DJT in a 2015 redux.
