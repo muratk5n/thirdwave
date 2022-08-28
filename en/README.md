@@ -6,7 +6,7 @@ CNBC: "A key leader for Meta's metaverse software is leaving the company"
 
 ---
 
-Where was their gun? If there isn't a good guy with a gun, how can you
+Where was their gun? If there isn't a good guy with a gun, how can one
 stop a bad guy with a gun?
 
 Arab News: "Dutch commandos wounded in shooting outside hotel in
