@@ -2,6 +2,16 @@
 
 ---
 
+Where was their gun? If there isn't a good guy with a gun, how can you
+stop a bad guy with a gun?
+
+Arab News: "Dutch commandos wounded in shooting outside hotel in
+gun-crazy US..  Three Dutch commandos in the United States for
+training exercises were wounded in a shooting outside their hotel in
+Indianapolis"
+
+---
+
 Al Monitor: "Israel pours energy into media blitz against looming Iran nuclear deal"
 
 ---
