@@ -133,7 +133,7 @@ Scalia died shortly afterwards - historical note
 
 ---
 
-This is a DDV classic
+A DDV classic
 
 [[-]](https://pbs.twimg.com/media/D0-7dRpWoAAw_rr?format=jpg&name=small)
 
