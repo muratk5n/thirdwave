@@ -14,6 +14,18 @@ import urllib.request as urllib2
 from io import BytesIO
 import pandas_ta as ta
 
+def sm_plot_ukr_alt1(file,geo):
+    df = np.array(pd.read_csv('ukrdata/alt1-0828.csv',header=None))
+    df[:, [1, 0]] = df[:, [0, 1]]
+    clat,clon=48, 37; zoom = 0.6
+    sm.plot_countries(clat,clon,zoom,outcolor='lavenderblush')
+    sm.plot_region(df,color='red')
+    eps = 0.1
+    for i,(lat,lon) in enumerate(geo):
+        plt.text(lon+eps,lat+eps,i+1)
+        plt.plot(lon,lat,'gx')
+    
+
 def bp_hydro_elec_perc(country):
     fin = '../../2019/05/bp-stats-review-2022-consolidated-dataset-panel-format.csv'
     df = pd.read_csv(fin)
