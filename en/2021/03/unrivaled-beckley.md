@@ -133,7 +133,7 @@ system in the waters of East Asia, can track China’s nuclear-powered
 submarines at long ranges.  China is developing its own sound
 surveillance system, but even when it becomes operational (the United
 States spent forty years developing its system) the PLA will have
-diffi culty tracking U.S. submarines, which are so quiet that they
+difficulty tracking U.S. submarines, which are so quiet that they
 sometimes reduce background noise as they pass by a target.  China’s
 fifty-seven diesel-powered submarines are very quiet when running on
 their electric batteries, but they sail at half the speed and have
