@@ -105,7 +105,7 @@ From now on assume shared code has `import util as u`
 
 ---
 
-It looks fine, will check later versions
+It looks ok, will check later versions
 
 ---
 
