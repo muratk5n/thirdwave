@@ -93,7 +93,7 @@ anti-sub exercise at the time. They might also have seen the sub but
 kept it to themselves to hide their own detection capabilities.. 
 
 "In 2006 A Chinese submarine came close to the USS Kitty Hawk carrier
-group, they beat their defenses"
+group, slipping through its defense"
 
 ---
 
