@@ -119,7 +119,7 @@ u.sm_plot_ukr_alt1('ukrdata/alt1-0828.csv',geo)
 
 ---
 
-Some other dude DIY publishing UA-RU border data
+Some other dude DIY publishing UA-RU border data, as fighting continues
 
 ---
 
