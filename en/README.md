@@ -123,9 +123,9 @@ Some other dude DIY publishing UA-RU border data, as fighting continues
 
 ---
 
-This data is not curated, so not 100% reliable. I see a town called
-Pisky occuring a few times in the file, all of them seemingly under UA
-control... But latest news suggest RU has this town.
+This data is not curated, so likely not 100% reliable. I see a town
+called Pisky occuring a few times in the file, all of them seemingly
+under UA control... But latest news suggest RU has this town.
 
 ```
 695980,Pisky-Richytski
