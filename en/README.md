@@ -21,7 +21,7 @@ shows breakage in the same place. Now that's teaching...
 
 ---
 
-*The Great Wall*, *Samaritan*, good. The latter had unexpected
+*The Great Wall*, *Samaritan*, good. The latter had interesting
 political undertones... 
 
 ---
