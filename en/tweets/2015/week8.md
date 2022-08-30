@@ -176,30 +176,7 @@ The man is deranged
 Saudi ruling elite themselves go to best schools in the world, then
 they turn around and push this guy on the populace?
 
-Robert Green 
-
-33 Strategies of War
-
-Muslims then marched through the mountain valleys upon Mecca. Muhammad
-divided his force into four columns....  Muhammad gave strict orders
-that no violence was to be used. His own tent was pitched on high
-ground immediately overlooking the town. Eight years before, he had
-fled from Mecca under cover of darkness, and lain hidden three days in
-a cave on Mount Thor, which from his tent he could now see rising
-beyond the city. Now ten thousand warriors were ready to obey his
-least command and his native town lay helpless at his feet.  After a
-brief rest, he [..] entered the town [..]. Muhammad [..] was not
-vindictive. A general amnesty was proclaimed, from which less than a
-dozen persons were excluded, only four being actually
-executed. Ikrima, the son of Abu Jahal, escaped to the Yemen, but his
-wife appealed to the Apostle, who agreed to forgive him.... The Muslim
-occupation of Mecca was thus virtually bloodless. The fiery Khalid ibn
-al Waleed killed a few people at the southern gate and was sharply
-reprimanded by Muhammad for doing so. Although the Apostle had himself
-been persecuted in the city and although many of his bitterest
-opponents were still living there, he won all hearts by his clemency
-on his day of triumph. Such generosity [..] was particularly
-remarkable among Arabs, a race to whom revenge has always been dear.
+[Robert Green](../../2022/08/33-strategies.html#mohammad)
 
 There
 

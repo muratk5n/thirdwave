@@ -463,6 +463,60 @@ Wonder where that saying came from
 
 ---
 
+Some more info on the battle itself from *33 Strategies of War*, by
+R. [Greene](../../2022/08/33-strategies.html#galipoli).
+
+Analysis: If your orders are vague and halfhearted, by the time they
+reach the field they will be meaningless. Let people work unsupervised
+[..] they will see in your orders what they want to see [..] Unless
+you adapt your leadership style to the weaknesses of the people in
+your group, you will almost certainly end up with a break in the chain
+of command"
+
+The excerpt above has some interesting side conclusions: First is,
+even though Galipoli could not be won by the Allies, this did not
+"change the course of the war". Germany and Ottomans eventually
+lost. Second, the battle of Galipoli was Britain's to lose. The other
+side fought well, true, but Brits were planning, attacking, just not
+at the top of their game. If they were, with the right commander in
+charge, the war would have been over. They had everything else in
+place.
+
+If the course of the war did not change, then what did change? The
+only thing Galipoli achieve was propelling the career of a young
+officier named Kemal giving him the hero status who successfully
+fought the British at Suvla. Kemal would later become the founder of
+Turkland.
+
+Germans chose wrong; they partnered up with Ottomans, a land based
+power, who could not complement Germany - another land based
+power. But neither side probably had much choice in the matter given
+the existing arragement of power around the world and the region. The
+ultimate good thing coming out WWI obviously is the eventual collapse
+of the Ottoman Empire which could not be stopped either, as it was
+several centuries in the making.
+
+---
+
+When he spoke about his new film, which is set four years after the
+Battle of Gallipoli, Crowe said that at Gallipoli “Australia invaded a
+sovereign nation” and it was time to stop celebrating the mythology of
+Gallipoli. “You know, I think, after 100 years, it’s time to expand
+that mythology. And I think we should be mature enough as a nation to
+take into account the story that the other blokes have to tell. You
+know, um, because we did invade a soveign nation that we’s never had
+an angry word with".
+
+This is true. The Galipoli loss, for some reason, became part of the
+Aussie national identity. Brits told them to go there and fight, why
+the hell else would they be half way around the world near a country
+they had no quarrel with? Good thing some ppl started to challenge
+this nationalistic non-sense.
+
+Here is [the reason](../../2017/07/the-next-decade-friedman.html#australia)
+why Oz attaches itself to a naval power's interest, because of
+strategic need.
+
 
 
 

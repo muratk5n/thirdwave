@@ -12,8 +12,6 @@
 
 [The Armenians of Anatolia](03/armenians-anatolia.html)
 
-[Gallipoli, Russell Crowe](03/gallipoli.html)
-
 [The Glass Cage: Automation and Us](03/the-glass-cage-automation-and-us.html)
 
 [Robotics Eating Jobs](04/ai-eating-jobs.html)

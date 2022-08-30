@@ -78,7 +78,11 @@
 
 [UK/US Claims on Putin's Health](07/putin-health.html)
 
+[33 Strategies of War](08/33-strategies.html)
+
 [Black Holes or Burning Disks](08/black-holes.html)
 
 [Dark Energy](08/dark-energy.html)
+
+[For Members](08/members.html)
 
