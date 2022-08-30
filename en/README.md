@@ -83,8 +83,8 @@ produce hydrogen"
 ---
 
 Reshare on sub analysis by [Beckley](2021/03/unrivaled-beckley.md#sub).
-In regional terms CH is on a more equal footing, but the other side will
-be full of surprises, if things go that far. 
+In regional terms CH is on a more equal footing, but the other side(s) will
+be full of surprises IMO, if things go that far. 
 
 ---
 
