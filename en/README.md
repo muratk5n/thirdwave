@@ -69,8 +69,7 @@ Gorbacev was the guy to end *their* involvement in [Afghanistan](2022/08/33-stra
 H2 View: "HAV Hydrogen.. is set to launch a deck-based containerised
 hydrogen energy system for ships. Based on 200kW hydrogen fuel cell
 modules, the containerised solution is a stand-alone, scalable power
-supply integrating support and safety systems as well as electrical
-power management"
+supply integrating support and safety systems"
 
 ---
 
