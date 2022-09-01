@@ -162,16 +162,12 @@ homes for a year.'"
 ---
 
 "Cummins Inc. and Buhler Industries Inc., a leading tractor
-manufacturer under the Versatile brand, announced today that they have
-signed a letter of intent and plans to integrate the Cummins 15-liter
-hydrogen engines in Versatile’s equipment to lead the decarbonization
-of the agriculture market...
-
-Hydrogen combustion engines will provide a cost effective zero-carbon
-fueled solution for high load factor and high utilization
-applications. Key benefits of using this technology include enabling a
-more-timely solution to reduce carbon emissions without sacrificing
-productivity"
+manufacturer.. plans to integrate the Cummins 15-liter hydrogen
+engines in Versatile’s equipment to lead the decarbonization of the
+agriculture market... Hydrogen combustion engines will provide a cost
+effective zero-carbon fueled solution... Key benefits of using this
+technology include enabling a more-timely solution to reduce carbon
+emissions without sacrificing productivity"
 
 ---
 
