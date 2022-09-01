@@ -62,10 +62,6 @@ Denzel: "I bet you can get a cab, though". Guy is like, oh yeah
 
 ---
 
-IMO Gorb despised the Soviet system and collapsed it out of spite.
-
----
-
 Gorbacev was the guy to end *their* involvement in [Afghanistan](2022/08/33-strategies.html#afg).
 
 ---
