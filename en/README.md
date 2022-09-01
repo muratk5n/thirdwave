@@ -153,14 +153,6 @@ This bike moves when the rider walks on it"
 
 ---
 
-"@JeremyCliffe
-
-'Germany’s 3-month experiment with super-cheap public transport
-reduced carbon dioxide emissions equivalent to powering about 350,000
-homes for a year.'"
-
----
-
 "Cummins Inc. and Buhler Industries Inc., a leading tractor
 manufacturer.. plans to integrate the Cummins 15-liter hydrogen
 engines in Versatile’s equipment to lead the decarbonization of the
