@@ -74,24 +74,23 @@ Galipoli
 "World War I began in August 1914, and by the end of that year, all
 along the Western Front, the British and French were caught in a
 deadly stalemate with the Germans. Meanwhile, though, on the Eastern
-Front, Germany was badly beating the Russians [getting beat up by
-Germany - again?], allies of Britain and France. Britain's military
-leaders had to try a new strategy, and their plan, backed by [..]
-Churchill and others, was to stage an attack on Gallipoli, a peninsula
-on Turkey's Dardanelles Strait. Turkey was an ally of Germany's, and
-the Dardanelles was the gateway to [Istanbul..]. If the Allies could
-take Gallipoli, [Istanbul] would follow, and Turkey would have to
-leave the war. In addition, using bases in Turkey and the Balkans, the
-Allies could attack Germany from the southeast, dividing its armies
-and weakening its ability to fight on the Western Front. They would
-also have a clear supply line to Russia. Victory at Gallipoli would
-change the course of the war. The plan was approved, and in March
-1915, General Sir Ian Hamilton was named to lead the
-campaign. Hamilton, at sixty-two, was an able strategist and an
-experienced commander. He and Churchill felt certain that their
-forces, including Australians and New Zealanders, would out-match the
-Turks. Churchill's orders were simple: take Constantinople. He left
-the details to the general.
+Front, Germany was badly beating the Russians, allies of Britain and
+France. Britain's military leaders had to try a new strategy, and
+their plan, backed by [..]  Churchill and others, was to stage an
+attack on Gallipoli, a peninsula on Turkey's Dardanelles
+Strait. Turkey was an ally of Germany's, and the Dardanelles was the
+gateway to [Istanbul..]. If the Allies could take Gallipoli,
+[Istanbul] would follow, and Turkey would have to leave the war. In
+addition, using bases in Turkey and the Balkans, the Allies could
+attack Germany from the southeast, dividing its armies and weakening
+its ability to fight on the Western Front. They would also have a
+clear supply line to Russia. Victory at Gallipoli would change the
+course of the war. The plan was approved, and in March 1915, General
+Sir Ian Hamilton was named to lead the campaign. Hamilton, at
+sixty-two, was an able strategist and an experienced commander. He and
+Churchill felt certain that their forces, including Australians and
+New Zealanders, would out-match the Turks. Churchill's orders were
+simple: take Constantinople. He left the details to the general.
 
 Hamilton's plan was to land at three points on the southwestern tip of
 the Gallipoli peninsula, secure the beaches, and sweep north. The
