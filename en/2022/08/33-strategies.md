@@ -147,7 +147,7 @@ race to the finish.
 Hamilton returned to a boat in the harbor to monitor the situation. At
 sunrise the next morning, he watched the battlefield through
 binoculars--and saw, to his horror, the Allied troops in headlong
-retreat to Suvla. A large Turkish force had arrived at Tekke Tepe
+retreat to Suvla. A large [Otto] force had arrived at Tekke Tepe
 thirty minutes before them. In the next few days, the Turks managed to
 regain the flats around Suvla and to pin Hamilton's army on the
 beach. Some four months later, the Allies gave up their attack on
