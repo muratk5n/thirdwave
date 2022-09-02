@@ -22,8 +22,9 @@ at depots. H2 offers longer range and faster fueling than batteries"
 
 ---
 
-This stuff rubs the yankees the wrong way, the American is full of
-dreams and ideas then the Brit goes 'interesting' 🧐 Major downer.
+Culture differences can rub the yankees the wrong way, the American is
+full of dreams and ideas then the Brit goes 'interesting' 🧐 Major
+downer.
 
 ---
 
