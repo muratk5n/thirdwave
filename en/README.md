@@ -2,159 +2,149 @@
 
 ---
 
-CNBC: "An Iran nuclear deal revival could dramatically alter oil
-prices — if it happens.. “Under this scenario my model shows Brent
-dipping to $65″ per barrel in the second half of 2023 [an expert]
-said"
- 
----
-
-"@RepBowman
-
-The Inflation Reduction Act - which every single Senate Republican
-opposed - will directly improve lives and livelihoods in Westchester
-County, The Bronx, and across the country"
+CNN: "Zuck is betting the future of his half-a-trillion-dollar
+company, Meta, on a vision of the future in which all of us spend more
+time in a virtual space known as the metaverse.. The trouble is,
+everything we've seen of that future so far looks lame as hell. 'It's
+genuinely puzzling that Meta spent more than $10 billion on VR last
+year and the graphics in its flagship app still look worse than a 2008
+Wii game,' tweeted New York Times tech columnist Kevin Roose"
 
 ---
 
-That actually makes sense; if they cannot explain lift in
-aerodynamics, they wont be able to explain surfing either... IMO both
-acts utilize the same principle, airplane wings "surf" on air. Stone
-skipping too same idea.
+H2 Fuel News: "Why are fuel cell buses becoming so popular in public
+transportation?.. For many routes, [HFC] buses have proven to have
+considerable performance advantage over battery electrics, becoming
+the top choice for the replacement of traditional diesel models. Among
+the reasons for this included the advantages of zero-emission
+operations without sacrificing schedules, routes or existing functions
+at depots. H2 offers longer range and faster fueling than batteries"
 
 ---
 
-[facepalm]
-
-"The physics of surfing is an enigma. In particular, it is unproven
-how a surfboard accelerates across a wave, and how a surfboard can
-grip the water with sufficient force to allow a surfer to stand at the
-tip.. There is no proven or accepted explanation of surfing supported
-by evidence and experimentation. Surfing has evolved by intuition,
-trial, and error"
+This stuff rubs the yankees the wrong way, the American is full of
+dreams and ideas then the Brit goes 'interesting' 🧐 Major downer.
 
 ---
 
-Even the most white-collar, pro-globalization pols started talking
-about 'workers'. Such worries were previously confined to the realm of
-immigrants (or slave labor working abroad), no need to give much lip
-service to it, except the humanitarian angle and just generally 'being
-nice to immigrants'. Now worker issues are centerstage, bcz it
-involves natives, everyone talks about them, it's the stuff of
-internal politics.
+Haha he got a little stiff upper lip over there didn't he?
+
+"David Lawrence Sackett is widely regarded as 'the father of evidence
+based medicine,' which is arguably the most important movement in
+medicine in the past 25 years... Sackett, although at one time a
+professor in Oxford, had no pomposity whatsoever. Of Oxford he said,
+'They have 20 ways of saying ‘interesting,’ all of them negative'"
 
 ---
 
-Greek debt was denominated in Euros right? I bet they are loving that
-inflation right now.. They will be paying back the same amount but
-with less valueable money.
+Confirmation Pisky is gone
+
+[[-]](https://twitter.com/JulianRoepcke/status/1565255689966157824)
 
 ---
 
-"Euro zone inflation hits another record of 9.1% as food and energy prices soar"
+Röpcke looks to be a legit journo, from the German *Bild*.
 
 ---
 
-Denzel playing NYC cop questioning victim, a Sikh, complains he is
-harrassed all the time , "I get thrown out of a bank.. I go to the
-airport. I can't go through security without a 'random' selection".
-Denzel: "I bet you can get a cab, though". Guy is like, oh yeah
+@JulianRoepcke
+
+It’s disappointing to see that many Ukrainian journalist would rather
+defend each and every move of their government instead of critically
+questioning its concrete actions to defend the nation.  But I guess
+this is what war makes out of journalism during the threat of
+extinction.
 
 ---
 
-Gorbacev was the guy to end *their* involvement in [Afghanistan](2022/08/33-strategies.html#afg).
+Ukrainian counter-offensive? I think they are getting their ass kicked.
+It's sad to watch. 
 
 ---
 
-H2 View: "HAV Hydrogen.. is set to launch a deck-based containerised
-hydrogen energy system for ships. Based on 200kW hydrogen fuel cell
-modules, the containerised solution is a stand-alone, scalable power
-supply integrating support and safety systems"
+Forbes:  "A new study has estimated that life expectancy in the United
+States dropped sharply between 2019 and 2021, decreasing by three
+years on average, the steepest decline in nearly 100 years...
+
+A precise accounting of the causes of this devastating development
+cannot yet be made, but Dr. Steven Woolf, a co-author of the study,
+attributed it broadly to “the U.S. health disadvantage.” 
+
+The United States is over-invested in war and preparation for war, and
+under-invested in measures aimed at alleviating poverty and disease,
+which kill more Americans than any current or recent global conflict,
+by a wide margin"
 
 ---
 
-H2 View: "An ammonia-powered fuel cell generator has been tested at a
-Vodafone mobile telecom tower site in Romania, offering a clean,
-off-grid hydrogen-based power solution. In a collaboration with
-[a].. plant solutions provider,.. GenCell Energy's.. low-temperature
-alkaline fuel cell was tested over a six-week period. According to the
-firms, initial test results indicate that the off-grid system operated
-reliably, providing required power output throughout the entire test,
-operated autonomously.. upon full results, Vodafone will showcase the
-solution to its different business units"
+H2 Central: "DOE Awards Clarkson University $535K to Advance Clean
+Hydrogen Production.. “Metallic Membrane Reactors: An Intensified
+Process to Transforming the Production of Carbon-Neutral Hydrogen,”
+[project].. aims to develop a potentially transformational approach to
+produce low-cost, carbon-neutral hydrogen from biomass gasification
+using hydrogen-selective membrane-assisted water-gas shift reactors"
 
 ---
 
-Blockading Taiwan.. can that be sustained? Ignoring those pesky enemy
-subs that will swim around like sharks, there is wheather situation to
-worry about; Let's say blockade starts in October, one month in, it
-gets windy, seven months in, foggy... July-September is the Typhoon
-season, then the whole things repeats.. Rough.
+H2 Central: "Singapore – Keppel to Develop First Hydrogen Ready Power
+Plant.. Running initially on natural gas as primary fuel, the Keppel
+Sakra Cogen Plant is also designed to operate on fuels with 30%
+hydrogen content and has the capability of shifting to run entirely on
+hydrogen"
 
 ---
 
-Yahoo Finance: "Amazon, Plug Power stocks rise on green hydrogen deal"
+"@Ilhan [Omar]
+
+The House just passed the Inflation Reduction Act! [08/12]. This bill
+will combat the climate crisis, lower drug prices, and create millions
+of good-paying jobs"
 
 ---
 
-CNBC: "The Inflation Reduction Act actually moves up our profitability
-date to 2025, says [H2 electrolyser manufacturer] Plug Power CEO"
-
-[[-]](https://www.cnbc.com/video/2022/08/29/the-inflation-reduction-act-actually-moves-up-our-profitability-date-to-2025-says-plug-power-ceo.html)
-
----
-
-Beavis and Butthead movie - what stayed with me was the machine that
-kicks nads, and Richard Wack
+Palin was probably the first modern-day high-profile Rep to talk about
+Russia without the obligatory animosity. "I can see Russia from
+Alaska". She might have influenced the Trump narrative later on.. She
+was McCain's VP pick who was an extreme Russia hawk.. That was
+strange.
 
 ---
 
-The pro driver with him says H2 engine generates probably 10% more
-torque than gasoline version.
+Palin lost Alaska HoR election.. Cotton jumped to her defense
 
 ---
 
-Look at it go - \#GRYarisH2
-
-[[-]](https://youtu.be/O2pZeDhERyQ?t=20)
+Al Monitor: "Saudi firm Alfanar to build green hydrogen plant in Egypt"
 
 ---
 
-"@H2Europe
-
-@ToyotaMotorCorp President \#AkioToyoda drove the \#GRYarisH2 (a
-special \#hydrogen-engine version of the Toyota GR Yaris) in a demo
-run during Rally Belgium. It's 1st time Toyota had shown an
-under-development H2-engine vehicle on public roads outside Japan"
+Got all of that right? Right? Ok.. Moving on 
 
 ---
 
-That 'little area' RU took so far is equivalent to half of UK in landmass, friend
+Excerpt, F&H paper
+
+<img width="340" src="https://pbs.twimg.com/media/FbjucJKX0AMIhm_?format=png&name=small"/>
 
 ---
 
-"@business
+"@ACSEnergyLett
 
-Canada’s third best wheat harvest in records dating to 1908 may help
-boost world supplies"
-
----
-
-"@wowinteresting8
-
-This bike moves when the rider walks on it"
-
-[[-]](https://twitter.com/wowinteresting8/status/1564410571583148034)
+[We celebrate] Fifty Years of Semiconductor assisted photocatalytic H2
+generation. In 1972 Fujishima and Honda published a paper in
+@Nature.. It remains a seminal paper in the photocatalysis field"
 
 ---
 
-"Cummins Inc. and Buhler Industries Inc., a leading tractor
-manufacturer.. plans to integrate the Cummins 15-liter hydrogen
-engines in Versatile’s equipment to lead the decarbonization of the
-agriculture market... Hydrogen combustion engines will provide a cost
-effective zero-carbon fueled solution... Key benefits of using this
-technology include enabling a more-timely solution to reduce carbon
-emissions without sacrificing productivity"
+Dugina was his father's little girl wasn't she - repeated most of his
+ideas.. Some of them pretty extreme, war-like. UKR probably tried to
+have Dugin assasinated, they missed, got the daughter, it's sad but
+these people were actively in the war in a way, through their propaganda.
+
+---
+
+Liz Cheney lost.. This is the third pol family Trump destroyed - Bush,
+Clinton and now a Cheney. 
 
 ---
 
