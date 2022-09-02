@@ -1,5 +1,11 @@
 # Economy, Calculations, Data
 
+```python
+import util as u
+import pandas as pd
+pd.set_option('display.max_columns', None)
+```
+
 <a name='gdp'/>
 
 ## GDP
@@ -10,7 +16,7 @@ quarter growth compared to previous quarter,
 
 
 ```python
-import util; df = util.get_fred(1945,'GDPC1')
+df = u.get_fred(1945,'GDPC1')
 df['growann'] = (  (  (1+df.pct_change())**4  )-1.0  )*100.0
 print (df['growann'].tail(5))
 ```
@@ -32,7 +38,7 @@ Name: growann, dtype: float64
 ![](cycle.png)
 
 ```python
-import util; df = util.get_fred(1970,'GDPC1')
+df = u.get_fred(1970,'GDPC1')
 
 fig, axs = plt.subplots(2)
 
@@ -82,7 +88,7 @@ DATE
 The Taylor Rule
 
 ```python
-import util; df = util.get_fred(1970,['GDPC1','GDPPOT','PCEPI','FEDFUNDS'])
+df = u.get_fred(1970,['GDPC1','GDPPOT','PCEPI','FEDFUNDS'])
 
 df = df.interpolate().resample('AS').mean()
 longrun = 2.0
@@ -112,7 +118,7 @@ Freq: AS-JAN, Name: Taylor, dtype: float64
 Non-Farm Payroll
 
 ```python
-import util; df = util.get_fred(1986,['PAYEMS'])
+df = u.get_fred(1986,['PAYEMS'])
 df['nfpyoy'] = (df.PAYEMS - df.PAYEMS.shift(12)) / df.PAYEMS.shift(12) * 100.0
 print (df.tail(7))
 df.nfpyoy.plot()
@@ -143,7 +149,7 @@ DATE
 Job Quits, Resignations
 
 ```python
-import util; df = util.get_fred(1986,['JTSQUR'])
+df = u.get_fred(1986,['JTSQUR'])
 print (df.JTSQUR.tail(5))
 df.JTSQUR.plot()
 plt.axvspan('01-09-1990', '01-07-1991', color='y', alpha=0.5, lw=0)
@@ -170,7 +176,7 @@ Name: JTSQUR, dtype: float64
 Wages
 
 ```python
-import util; df3 = util.get_fred(1950,['ECIWAG'])
+df3 = u.get_fred(1950,['ECIWAG'])
 df3 = df3.dropna()
 df3['ECIWAG2'] = df3.shift(4).ECIWAG
 df3['wagegrowth'] = (df3.ECIWAG-df3.ECIWAG2) / df3.ECIWAG2 * 100.
@@ -195,7 +201,7 @@ Name: wagegrowth, dtype: float64
 Claims
 
 ```python
-import util; df = util.get_fred(1995,'ICSA')
+df = u.get_fred(1995,'ICSA')
 df.ICSA.plot()
 print (df.tail(4))
 plt.title("Initial Unemployment Claims")
@@ -220,7 +226,7 @@ DATE
 Difference Between Wage Growth YoY and Payrolls (Hiring)
 
 ```python
-import util; df = util.get_fred(1986,['PAYEMS','AHETPI'])
+df = u.get_fred(1986,['PAYEMS','AHETPI'])
 df['nfpyoy'] = (df.PAYEMS - df.PAYEMS.shift(12)) / df.PAYEMS.shift(12) * 100.0
 df['wageyoy'] = (df.AHETPI - df.AHETPI.shift(12)) / df.AHETPI.shift(12) * 100.0
 df[['wageyoy','nfpyoy']].plot()
@@ -287,7 +293,7 @@ DATE
 Vacancy rate, job openings divided by unemployed people
 
 ```python
-import util; df = util.get_fred(2000, ['JTSJOL','UNEMPLOY'])
+df = u.get_fred(2000, ['JTSJOL','UNEMPLOY'])
 df = df.dropna()
 df['VRATE'] = df.JTSJOL / df.UNEMPLOY
 df.VRATE.plot()
@@ -382,7 +388,7 @@ Divide (1) by (2) as suggested in [4],
 
 ```python
 import pandas as pd; pd.set_option('display.max_columns', None)
-import util; df = util.get_fred(1980, ['CP','FINSLC1']); df = df.interpolate()
+df = u.get_fred(1980, ['CP','FINSLC1']); df = df.interpolate()
 df = df.dropna()
 df['PM'] = df['CP'] / df['FINSLC1'] * 100.0
 df.PM.plot()
@@ -408,7 +414,7 @@ Dollar
 <a name="dollar"></a>
 
 ```python
-import util; df = util.get_yahoofin(1980, "DX-Y.NYB").interpolate()
+df = u.get_yahoofin(1980, "DX-Y.NYB").interpolate()
 print (df.tail(4))
 m,s = df.mean(),df.std()
 print (np.array([m-s,m+s]).T)
@@ -434,7 +440,7 @@ Name: Close, dtype: float64
 Total Market Cap / GDP
 
 ```python
-import util; df = util.get_fred(1995,['WILL5000IND'])
+df = u.get_fred(1995,['WILL5000IND'])
 print (df.tail(4))
 df.plot()
 plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
@@ -458,7 +464,7 @@ DATE
 Junk Bond Yields
 
 ```python
-import util; df = util.get_fred(1980,['BAMLH0A2HYBEY'])
+df = u.get_fred(1980,['BAMLH0A2HYBEY'])
 print (df.tail(6))
 df.plot()
 plt.plot(df.tail(1).index, df.tail(1),'ro')
@@ -487,36 +493,32 @@ Yield Curve, Rates
 10 Year Treasury Yield - 3 Month Bills
 
 ```python
-import util; df = util.get_fred(1980,['DGS10','DGS3MO'])
-df['Yield Curve'] = df.DGS10 - df.DGS3MO
-print (df.tail(6))
-plt.plot(df.tail(1).index, df.tail(1)['Yield Curve'],'ro')
-df['Yield Curve'].plot()
+df = u.get_fred(1980,['DGS3MO','DGS2','DGS10'])
+df.plot()
 plt.axvspan('01-09-1990', '01-07-1991', color='y', alpha=0.5, lw=0)
 plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
 plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
-plt.savefig('yield-curve.png')
+print (df.tail(3))
+plt.savefig('treasuries.png')
 ```
 
 ```text
-            DGS10  DGS3MO  Yield Curve
-DATE                                  
-2022-07-28   2.68    2.42         0.26
-2022-07-29   2.67    2.41         0.26
-2022-08-01   2.60    2.56         0.04
-2022-08-02   2.75    2.56         0.19
-2022-08-03   2.73    2.52         0.21
-2022-08-04   2.68    2.50         0.18
+            DGS3MO  DGS2  DGS10
+DATE                           
+2022-08-29    2.97  3.42   3.12
+2022-08-30    2.97  3.46   3.11
+2022-08-31    2.96  3.45   3.15
 ```
 
-![](yield-curve.png)
+
+![](treasuries.png)
 
 <a name="vix"></a>
 
 VIX
 
 ```python
-import util; df = util.get_yahoofin(2000,"^VIX")
+df = u.get_yahoofin(2000,"^VIX")
 df.plot()
 plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
 plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
@@ -546,7 +548,7 @@ Name: Close, dtype: float64
 Private Debt to GDP Ratio
 
 ```python
-import util; df = util.get_fred(1960,['GDPC1','QUSPAMUSDA'])
+df = u.get_fred(1960,['GDPC1','QUSPAMUSDA'])
 df = df.interpolate()
 df['Credit to GDP'] = (df.QUSPAMUSDA / df.GDPC1)*100.0
 df['Credit to GDP'].plot()
@@ -574,7 +576,7 @@ Freq: QS-OCT, Name: Credit to GDP, dtype: float64
 Total Consumer Credit Outstanding as % of GDP
 
 ```python
-import util; df = util.get_fred(1980,['TOTALSL','GDP'])
+df = u.get_fred(1980,['TOTALSL','GDP'])
 df = df.interpolate(method='linear')
 df['debt'] =   df.TOTALSL / df.GDP * 100.0
 print (df.debt.tail(4))
@@ -621,7 +623,7 @@ def gini(pop,val):
     return np.round(g,3)
 
 cols = ['WFRBLT01026', 'WFRBLN09053','WFRBLN40080','WFRBLB50107']
-import util; df = util.get_fred(1989,cols)
+df = u.get_fred(1989,cols)
 p = [0.01, 0.09, 0.40, 0.50]
 g = df.apply(lambda x: gini(p,x),axis=1)
 print (g.tail(4))
