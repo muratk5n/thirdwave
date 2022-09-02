@@ -47,18 +47,18 @@ Röpcke looks to be a legit journo, from the German *Bild*.
 
 ---
 
-@JulianRoepcke
+"@JulianRoepcke
 
 It’s disappointing to see that many Ukrainian journalist would rather
 defend each and every move of their government instead of critically
 questioning its concrete actions to defend the nation.  But I guess
 this is what war makes out of journalism during the threat of
-extinction.
+extinction"
 
 ---
 
 Ukrainian counter-offensive? I think they are getting their ass kicked.
-It's sad to watch. 
+It is sad to watch. 
 
 ---
 
