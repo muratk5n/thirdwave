@@ -28,7 +28,7 @@ downer.
 
 ---
 
-Haha he got a little stiff upper lip over there didn't he?
+Haha he got a little stiff upper lip there didn't he?
 
 "David Lawrence Sackett is widely regarded as 'the father of evidence
 based medicine,' which is arguably the most important movement in
