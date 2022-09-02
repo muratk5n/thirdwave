@@ -104,8 +104,8 @@ of good-paying jobs"
 
 Palin was probably the first modern-day high-profile Rep to talk about
 Russia without the obligatory animosity. "I can see Russia from
-Alaska". She might have influenced the Trump narrative later on.. She
-was McCain's VP pick who was an extreme Russia hawk.. That was
+Alaska". She might have influenced the Trump narrative later on.. But
+she was McCain's VP pick who was an extreme Russia hawk.. That was
 strange.
 
 ---
