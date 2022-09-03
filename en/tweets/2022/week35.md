@@ -60,7 +60,7 @@ Denzel: "I bet you can get a cab, though". Guy is like, oh yeah
 
 ---
 
-Gorbacev was the guy to end *their* involvement in [Afghanistan](2022/08/33-strategies.html#afg).
+Gorbacev was the guy to end *their* involvement in [Afghanistan](../../2022/08/33-strategies.html#afg).
 
 ---
 
@@ -236,7 +236,7 @@ produce hydrogen"
 
 ---
 
-Reshare on sub analysis by [Beckley](2021/03/unrivaled-beckley.md#sub).
+Reshare on sub analysis by [Beckley](../../2021/03/unrivaled-beckley.md#sub).
 In regional terms CH is on a more equal footing, but the other side(s) will
 be full of surprises IMO, if things go that far. 
 

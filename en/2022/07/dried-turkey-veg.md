@@ -17,9 +17,11 @@ drier at 55 degrees C and dry for 7-8 hours.
 
 Once done add high-fat cheese, mix.
 
-Note: Adding veg and fruit as raw eases the blending process through
-their water.
+Notes:
 
-Note: Instead of cheese tallow is fine, melt, pour on dried meat,
-mix. 
-
+- Adding veg and fruit as raw eases the blending process, through their water.
+- Instead of cheese, tallow is fine; melt, pour on dried meat, mix. 
+- For flavor, instant soups in powder form can be added after drying. Some
+  products even have broth in them, also can contain fats, and milk or
+  yogurt in dried form (such as the Greek *trahana*). If their fat
+  amount is enough, the cheese listed above could perhaps be omitted.

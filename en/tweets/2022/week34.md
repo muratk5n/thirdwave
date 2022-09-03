@@ -88,7 +88,7 @@ Carrier, fertilizer, fuel - no other base tech checks so many boxes.
 
 A genetically modified bacteria can generate ammonia.. wonderful.
 
-[[-]](2022/02/h2-biology.html#ammonia)
+[[-]](../../2022/02/h2-biology.html#ammonia)
 
 ---
 
@@ -167,7 +167,7 @@ highlander. There can be more than one.
 Not a slam-dunk of an idea as previously thought eh? Sad... BH concept
 went to the way of the multiverse, and string theory.
 
-[[-]](2022/08/black-holes.html)
+[[-]](../../2022/08/black-holes.html)
 
 ---
 
@@ -259,7 +259,7 @@ Counts of Ukrainian towns under RU control. Data is collected by
 software that parses news sources, tweets. Uses NLP, and "nonlinear
 ad-hoc statistics", I'd prefer curated data but doesn't hurt to share.
 
-[[-]](2019/05/confstats.html#ukraine)
+[[-]](../../2019/05/confstats.html#ukraine)
 
 ---
 
