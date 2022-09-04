@@ -84,7 +84,7 @@ granules and could be stored for months"
 ---
 
 Pandas is part of much of what we do here. Immensely useful open
-source software thanks to Wes McKinn. 
+source software thanks to Wes McKinney. 
 
 "@wesmckinn
 
