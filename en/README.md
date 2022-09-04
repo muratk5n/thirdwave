@@ -14,11 +14,11 @@ Index are considered unviable"
 
 ---
 
-@divbyzero
+"@divbyzero
 
 My son, a first-year college students, just called me to say he is
-going to LaTeX his math notes. ("How do you do piecewise functions?")
-♥️♥️ So I had to send him my LaTeX cheat sheet
+going to LaTeX his math notes. ("How do you do piecewise
+functions?"). So I had to send him my LaTeX cheat sheet"
 
 ---
 
