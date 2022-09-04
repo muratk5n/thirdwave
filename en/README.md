@@ -103,9 +103,9 @@ with all the know-how that comes with it... Remember *Schindler's
 List* (based on a true story), all those factory workers he saved,
 well, those workers ran his factory, they had to know-how to do it, a
 knowledge bequeathed on them for the simple fact of being in the West.
-After WWII survivors fled, some went to Israel. Israelis became
-"cowboys" for the Americans now, but they largely benefited from the
-knowledge from Western Renaissance.
+After WWII survivors fled, some went to Israel. Now Israelis became
+"cowboys" for the Americans but they largely benefited from the
+knowledge of all Western Renaissance.
 
 ---
 
