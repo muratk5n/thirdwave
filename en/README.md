@@ -125,8 +125,7 @@ Thanks to desalination.
 On smartphone, whole RPi VNC desktop looks too small in landscape
 mode? Use the phone in portrait, zoom to one side of the desktop, and
 start all programs there. RPi res can be fixed on `/boot/config.txt`.
-Editors, PDF readers, all look great with this method which are
-typically tall, thin windows.
+Editors, PDF readers, all look fine, typically tall, thin windows anyway.
 
 ---
 
