@@ -88,8 +88,8 @@ source software thanks to Wes McKinney.
 
 "@wesmckinn
 
-The first copies of Python for Data Analysis 3e are rolling off the
-presses!"
+The first copies of Python for Data Analysis 3e [about Pandas] are
+rolling off the presses!"
 
 ---
 
