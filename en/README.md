@@ -160,7 +160,7 @@ Mississippi don’t have clean *water*"
 ---
 
 At once both naive and shady.. those merry band of mucksuckers around
-Thiel are the same way..
+him are all the same way..
 
 ---
 
