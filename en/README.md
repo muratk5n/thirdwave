@@ -35,10 +35,10 @@ potential will be inflationary.
 
 Credit to businesses can be inflationary.. This is key; most, for some
 reason, exclusively focus on government spending a view goaded by MSM
-likely to deflect the attention from the real source of money printing
-- credit. When businesses go to banks for credit the bank does not use
-customers' savings to hand out loans - they'll just print the
-money. Once that money makes it to people's pockets through wages, if
+likely to deflect the attention from the real source of money printing - credit.
+When businesses go to banks for credit the bank does not use customers'
+savings to hand out loans - they'll just print the money.
+Once that money makes it to people's pockets through wages, if
 in excess amounts, it becomes inflationary.
 
 ---
