@@ -44,9 +44,9 @@ in excess amounts, it becomes inflationary.
 ---
 
 "Total assets on the Fed’s weekly balance sheet as of July.. fell by
-$22 billion from the prior week, and by $74 billion from the peak in
-April, to $8.89 trillion.. as the Fed’s quantitative tightening (QT)
-has kicked off'
+$22 billion from the prior week, and by 74 billion dollars from the
+peak in April, to 8.89 trillion.. as the Fed’s quantitative tightening
+(QT) has kicked off'
 
 ---
 
