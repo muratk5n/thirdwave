@@ -2,7 +2,7 @@
 
 ---
 
-[FinancialPost, 06/2022]: "Zombie firms face slow death as era of easy
+FinancialPost [06/2022]: "Zombie firms face slow death as era of easy
 credit ends.. Zombie firms in the Russell 3000 have plunged 36 per
 cent over the past year on average"
 
