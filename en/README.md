@@ -28,7 +28,7 @@ functions?"). So I had to send him my LaTeX cheat sheet"
 
 Growth potential of a country has an upper bound. Given a skillset
 level, know-how, labor, access to materials, growth can reach a
-certain amount, no more.  Any new money that exceeds that growth
+certain amount, no further.  Any new money that exceeds that growth
 potential will be inflationary. 
 
 ---
