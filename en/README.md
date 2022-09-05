@@ -85,9 +85,9 @@ Comment on oil price cap
 
 ---
 
-One of the key people who sold the Iraq War, R. Kaplan, regrets
-it. One of the most visible 180 degree turns among the neo-cons there
-is.. I appreciate the honesty.
+A key neocon who sold the Iraq War, R. Kaplan, regrets it. One of the
+most visible 180 degree turns among the neo-cons.. I appreciate the
+honesty.
 
 [[-]](https://youtu.be/E28b0uO1I_s?t=346)
 
