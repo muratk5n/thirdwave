@@ -94,6 +94,8 @@ is.. I appreciate the honesty.
 
 ---
 
+Less money in pocket. Protest.
+
 "@pawelwargan
 
 70,000 people took to the streets of Prague in a mass protest.. They
