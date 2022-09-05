@@ -88,11 +88,7 @@ The Civil War is a peculiar place to set such a message. After all, it
 was compromise that permitted the South’s slave empire to grow so
 large—the Compromise of 1850, the Kansas-Nebraska Act, and so on—and
 Abraham Lincoln first rose to prominence as a highly moralistic
-opponent of the last of these. The abolitionist movement itself was
-about ninety-nine parts idealistic grassroots outrage to one part
-Washington machination. And the war itself brought about a popular
-demand for “unconditional surrender,” not further compromise with the
-South.
+opponent of the last of these...
 
 The movie actually goes well beyond celebrating compromise: it also
 justifies corruption. Lincoln and his men, as they are depicted here,
