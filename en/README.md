@@ -8,8 +8,8 @@ a whatever it takes attitude..
 
 ---
 
-Likely wont be a need to new PM can be more popular than BJ for
-the mere fact she is not BJ.
+Likely wont be a need, new PM can be more popular than BJ for the mere
+fact she is not BJ.
 
 ---
 
