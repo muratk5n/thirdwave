@@ -63,12 +63,11 @@ they are aware of it or not"
 
 ---
 
-Chilean contitution proposal rejected; on weightier matters people's
-ideas are a reflection of their thought leaders, and those leaders
-probably thought the prop was trying to bite more than it could chew.
-Chilean existing consitution dates back to Pinochet era, I'm sure
-their left see it as fascist, but the political consensus wasn't ready
-for this kind of change.
+Chilean contitution proposal rejected; thought leaders there probably
+thought the prop was trying to bite more than it could chew. Chilean
+existing consitution dates back to Pinochet era, I'm sure their left
+see it as fascist, the political consensus however wasn't ready for
+this change.
 
 ---
 
