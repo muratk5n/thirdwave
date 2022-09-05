@@ -15,7 +15,6 @@ df2.replace("RU",1,inplace=True)
 df2.replace("UA",0,inplace=True)
 df2.replace("CONTESTED",0,inplace=True)
 print (df2.shape)
-print ('sum')
 df3 = df2.sum(axis=0).tail(600)
 df4 = pd.DataFrame(df3)
 df4['newidx'] = [pd.to_datetime(x[4:12] + " " + x[12:16]) for x in df3.index]

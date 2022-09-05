@@ -70,16 +70,19 @@ politicians must Make Deals. That one must Give Something to Get
 Something.
 
 The film was a study in the “nobility of politics,” declared David
-Brooks in the New York Times; it teaches that elected officials can do
-great things, but only if they “are willing to bamboozle, trim,
-compromise and be slippery and hypocritical.” Michael Gerson of the
-Washington Post suggested that members of Congress be made to watch
-the thing in order to acquire “a greater appreciation for flexibility
-and compromise.”According to Al Hunt of Bloomberg News, the film shows
-our greatest president “doing what politicians are supposed to do, and
-today too often avoid: compromising, calculating, horse trading,
-dealing and preventing the perfect from becoming the enemy of a good
-objective.” [..]
+Brooks in the *New York Times*; it teaches that elected officials can
+do great things, but only if they “are willing to bamboozle, trim,
+compromise and be slippery and hypocritical.”
+
+<a name='linc1'/>
+
+Michael Gerson of the *Washington Post* suggested that members of
+Congress be made to watch the thing in order to acquire “a greater
+appreciation for flexibility and compromise.” According to Al Hunt of
+Bloomberg News, the film shows our greatest president “doing what
+politicians are supposed to do, and today too often avoid:
+compromising, calculating, horse trading, dealing and preventing the
+perfect from becoming the enemy of a good objective.” [..]
 
 The Civil War is a peculiar place to set such a message. After all, it
 was compromise that permitted the South’s slave empire to grow so
