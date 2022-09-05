@@ -26,7 +26,7 @@ charade. If you will lose as a con, lose as a con. Die on that hill.
 
 ---
 
-😶 😶 
+🤣 🤣 
 
 ABC AU: "Hasta la vista, Boris"
 
