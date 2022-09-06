@@ -96,8 +96,8 @@ Crude is indeed down
 ---
 
 CNBC: "Gas prices are falling — Here's why it's happening.. Some
-states have also suspended their gas taxes, which artificially pushes
-prices lower. But the main reason for the fall is the decline in oil
+states.. suspended their gas taxes, which artificially pushes prices
+lower. But the main reason for the fall is the decline in oil
 prices. Crude is the single largest factor influencing gas prices,
 accounting for more than 50% of what we pay at the pump"
 
