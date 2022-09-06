@@ -44,7 +44,7 @@ in South Carolina'
 
 Peter Voit: [See] [The quantum computing bubble](https://www.ft.com/content/6d2e34ab-f9fd-4041-8a96-91802bab7765) 
 at the Financial Times, where Nikita Gourianov argues that there’s a
-speculative bubble going on in this field, and:
+speculative bubble going on in this field, [he says]:
 
 'Well, when exactly the bubble will pop is difficult to say, but at
 some point the claims will be found out and the funding will dry up. I
