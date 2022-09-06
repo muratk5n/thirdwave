@@ -2,130 +2,111 @@
 
 ---
 
-If this election was about selecting the most un-BJ person, that was
-actually Truss. Sunak's attitude was more like BJ, energetic speaking,
-a whatever it takes attitude..
+CNBC: "Apple is gaining on Facebook and Google in online ads after iOS
+privacy change, report shows"
 
 ---
 
-Likely wont be a need to die anywhere, new PM can be more popular than
-BJ for the mere fact she is not BJ.
+Parties sticking to ideologies matters because people don't vote in
+policies, they vote out people. Ergo when a new admim comes in, voters
+should automatically get a different way of governing through that
+different party. If voters are switching between globalist centrist
+cuck \#1 vs globalist centrist cuck \#2, that's not a change.
 
 ---
 
-Why did Tories under BJ went after working class votes? Some of that
-is due to Brexit.. Brexit could only be sold to the working class
-(they were duped obviously), the EU was an "elite thing" and once it
-passed, Tories were now 'stuck' with their new constituency, different
-than their usual.. With BJ as PM they could appeal to them due to his
-personality, but that all put the pro-business conservatives in a
-funk..
+Cowboys.. they've all become cowboys for America
 
-Hopefully the new PM will act more a con, and end this bizarre
-charade. If you will lose as a con, lose as a con. Die on that hill.
+Al Jazeera: "Israel’s shifting narratives on the killing of Shireen
+Abu Akleh.. Israel has now concluded that it is 'highly possible' one
+of its soldiers killed Shireen Abu Akleh"
+
 
 ---
 
-😂 😂 
-
-ABC AU: "Hasta la vista, Boris"
+Al Monitor: "Israel concedes soldier likely shot Al Jazeera journalist"
 
 ---
 
-Truss it is eh
+Al Jazeera: "China registers hottest August since records began"
 
 ---
 
-H2 Central: "China takes aim at leadership in hydrogen fuel vehicle
-industry..
-
-The hydrogen fuel vehicle sector in China is starting to accelerate as
-that country, already the largest H2 producer in the world, sees its
-companies and local governments come together with new technology
-advancements and supportive policies...
-
-China is expected to have 50,000 H2-powered cars and trucks on its
-roads by the close of 2025.
-
-This prediction was issued in March by the National Development and
-Reform Commission and the National Energy Administration in China"
+H2 Fuel News: "BMW begins manufacturing hydrogen fuel cell systems for iX5 SUV"
 
 ---
 
-Without OSS most of those hip Silicon Valley companies would not
-exist.. *Free* makes the world go around..
+H2 Fuel News: "Bosch pours $200M into hydrogen truck fuel cells.. The
+company plans to begin manufacturing the stacks by 2026 at a facility
+in South Carolina'
 
 ---
 
-"Gartner says that over 95% of the IT enterprises across the globe use
-Open Source Software for their mission-critical IT workloads, whether
-they are aware of it or not"
+Peter Voit: [See] [The quantum computing bubble](https://www.ft.com/content/6d2e34ab-f9fd-4041-8a96-91802bab7765) 
+at the Financial Times, where Nikita Gourianov argues that there’s a
+speculative bubble going on in this field, and:
+
+'Well, when exactly the bubble will pop is difficult to say, but at
+some point the claims will be found out and the funding will dry up. I
+just hope that when the music stops and the bubble pops, the public
+will still listen to us physicists'...
+
+I think Gourianov makes an important point for physicists to keep in
+mind. Having this sort of hype blow up in physicist’s faces is not
+going to help with the credibility problems physics already has with
+the public due to decades of hype about non-existent breakthroughs in
+fundamental physics
 
 ---
 
-Chilean constitution proposal rejected; thought leaders there probably
-thought the prop was trying to bite more than it could chew. Chilean
-existing consitution dates back to Pinochet era, I'm sure their left
-see it as fascist, the political consensus however wasn't ready for
-this change.
+The ABC hasta la vista comment was funny because BJ said earlier "I'll
+be back"
 
 ---
 
-"@samuelmoyn
-
-'In the end, the U.S. military is the world’s anti-fascist insurance
-policy.' [referring to [this](https://www.theatlantic.com/ideas/archive/2022/09/liberal-democrat-military-support-ukraine-trump/671328/) article]. 
-I know now that I lived in vain"
+Nuclear fission is also free energy in many ways, the ratio of energy
+obtained with energy applied is immensely large. It is possible to get
+something for nothing.
 
 ---
 
-Comment on oil price cap 
+That sounds like free energy..  No additional energy input is applied,
+when the catalyst splits water, is not reduced itself in the process
+so it could do the splitting forever creating energy.
 
-[[-]](https://youtu.be/ZNAhwYkW48o?t=802)
+H2 Fuel News: "[Researchers] at UCSC [found] a way to complete [water
+splitting for H2 generation] process at room temperature, without the
+requirement of the electric input. They have done so through the
+development of a special aluminum composite that causes a reaction
+with the water at room temperature. Aluminum is naturally a reactive
+material that will cause the oxygen to split away from water
+molecules, allowing the H2 to remain...
 
----
-
-A key neocon who sold the Iraq War, R. Kaplan, regrets it. One of the
-most visible 180 degree turns among the neo-cons.. I appreciate the
-honesty.
-
-[[-]](https://youtu.be/E28b0uO1I_s?t=346)
-
----
-
-Less money in pocket. Protest.
-
-"@pawelwargan
-
-70,000 people took to the streets of Prague in a mass protest.. They
-demanded neutrality in the war and action on energy prices"
-
-[[-]](https://twitter.com/pawelwargan/status/1566182916975099912)
+The researchers discovered that by applying an easily created
+composite of aluminum and gallium, the aluminum will react with water
+even at room temperature, resulting in the production of H2 without
+CO2 emissions"
 
 ---
 
-[Link](2018/12/the-road-to-oblivion.html#linc1)
+Crude is indeed down
+
+[[-]](2019/05/energstats.html)
 
 ---
 
-Rep condemns divisiveness and refers to Abraham Lincoln again :) This
-talking point just keeps on giving
+CNBC: "Gas prices are falling — Here's why it's happening.. Some
+states have also suspended their gas taxes, which artificially pushes
+prices lower. But the main reason for the fall is the decline in oil
+prices. Crude is the single largest factor influencing gas prices,
+accounting for more than 50% of what we pay at the pump"
 
 ---
 
-To understand voters you need to squint, imagine there is fog and you
-are looking through it... It's like the dog in the *Simpsons*. In one
-episode they showed how the dog perceives the world; people would
-talk, then they show his perception, the dog would hear "blah blah
-blah blah", once in a while he'd hear something he wld understand like
-"sit", then he sits. Otherwise it's just blah blah blah blah
-
----
-
-JB net approval rose to -10%. Improvement. Laws passed, "stuff is
-happening" so in the voter mind it could translate to "there is
-forward momentum". Gasoline prices are falling, they can surely
-understand "more money in my pocket".
+SCMP: "Sinopec sets green hydrogen goals to help China reach carbon
+neutrality by 2060.. China’s largest refiner aims to have an installed
+capacity to produce 120,000 tonnes of green hydrogen a year by the end
+of 2025"
 
 ---
 
