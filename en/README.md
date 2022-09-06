@@ -8,7 +8,7 @@ privacy change, report shows"
 ---
 
 Parties sticking to ideologies matters because people don't vote in
-policies, they vote out people. Ergo when a new admim comes in, voters
+policies, they vote out people. Ergo when a new admin comes in, voters
 should automatically get a different way of governing through that
 different party. If voters are switching between globalist centrist
 cuck \#1 vs globalist centrist cuck \#2, that's not a change.
