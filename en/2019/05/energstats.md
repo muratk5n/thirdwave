@@ -3,19 +3,22 @@
 ### Oil Price (Futures, Continuous Contract, Front Month)
 
 ```python
-import util; df = util.get_yahoofin(2010,"CL=F")
+import util as u
+```
+
+```python
+df = u.get_yahoofin(2010,"CL=F")
 print (df.tail(5))
-df.plot()
-plt.savefig('oil.png')
+df.plot(); plt.savefig('oil.png')
 ```
 
 ```text
 Date
-2022-08-30    91.639999
 2022-08-31    89.550003
 2022-09-01    86.610001
 2022-09-02    86.870003
-2022-09-06    88.639999
+2022-09-05          NaN
+2022-09-06    86.940002
 Name: Close, dtype: float64
 ```
 
@@ -28,7 +31,7 @@ Name: Close, dtype: float64
 Million barrels a day
 
 ```python
-import util; df = util.get_eia("INTL.57-1-WORL-TBPD.M");
+df = u.get_eia("INTL.57-1-WORL-TBPD.M");
 df = df[df.index > '2000-01-01'] / 1000.0
 df.plot(); plt.savefig('worldoil.png')
 print (df.tail(4))
@@ -36,10 +39,10 @@ print (df.tail(4))
 
 ```text
 Date
-2022-01-01    79.697775
-2022-02-01    80.673421
-2022-03-01    80.594379
-2022-04-01    79.597223
+2022-02-01    80.668984
+2022-03-01    80.583355
+2022-04-01    79.584856
+2022-05-01    78.947296
 Name: 1, dtype: float64
 ```
 
@@ -51,17 +54,17 @@ Name: 1, dtype: float64
 Million barrels a day
 
 ```python
-import util; df = util.get_eia("STEO.COPR_OPEC.M"); df.plot()
+df = u.get_eia("STEO.COPR_OPEC.M"); df.plot()
 plt.savefig('opec.png')
 print (df.tail(4))
 ```
 
 ```text
 Date
-2022-04-01    28.590000
-2022-05-01    28.154654
-2022-06-01    28.410000
-2022-07-01    28.877896
+2022-06-01    28.32000
+2022-07-01    28.25000
+2022-08-01    28.92585
+2022-09-01    28.72451
 Name: 1, dtype: float64
 ```
 
@@ -101,21 +104,20 @@ Name: oilreserves_bbl, dtype: float64
 ### Natural Gas Price
 
 ```python
-import util; df = util.get_yahoofin(2010,"NG=F")
+df = u.get_yahoofin(2010,"NG=F")
 print (df.tail(7))
-df.plot()
-plt.savefig('natgas.png')
+df.plot(); plt.savefig('natgas.png')
 ```
 
 ```text
 Date
-2022-07-05    5.523
-2022-07-06    5.510
-2022-07-07    6.297
-2022-07-08    6.034
-2022-07-11    6.426
-2022-07-12    6.163
-2022-07-13    6.604
+2022-08-29    9.353
+2022-08-30    9.042
+2022-08-31    9.127
+2022-09-01    9.262
+2022-09-02    8.786
+2022-09-05      NaN
+2022-09-06    8.027
 Name: Close, dtype: float64
 ```
 
@@ -274,19 +276,19 @@ Name: primary_twh, dtype: int64
 ### US Retail Gasoline Prices
 
 ```python
-import util, pandas as pd
+import pandas as pd
     
-df = util.get_eia_week("PET.EMM_EPM0_PTE_NUS_DPG.W")
+df = u.get_eia_week("PET.EMM_EPM0_PTE_NUS_DPG.W")
 print (df.tail(4))
 ```
 
 ```text
             Value
 Date             
-2022-08-01  4.304
 2022-08-08  4.151
 2022-08-15  4.051
 2022-08-22  3.993
+2022-08-29  3.938
 ```
 
 <a name='gasolineState'/>
@@ -294,24 +296,24 @@ Date
 ### US Retail Gasoline Prices per State
 
 ```python
-import util, pandas as pd
+import pandas as pd
 
 states = \
 [("PET.EMM_EPM0_PTE_SCA_DPG.M","CA"),
  ("PET.EMM_EPM0_PTE_STX_DPG.M","TX"),
  ("PET.EMM_EPM0_PTE_SFL_DPG.M","FL"),
  ("PET.EMM_EPM0_PTE_SNY_DPG.M","NY")]
-retail = [ (s[1],float(util.get_eia(s[0]).tail(1))) for s in states]
+retail = [ (s[1],float(u.get_eia(s[0]).tail(1))) for s in states]
 dfs = pd.DataFrame(retail); dfs.columns = ['state','price']
 print (dfs)
 ```
 
 ```text
   state  price
-0    CA  5.897
-1    TX  4.144
-2    FL  4.339
-3    NY  4.696
+0    CA  5.333
+1    TX  3.535
+2    FL  3.722
+3    NY  4.276
 ```
 
 <a name='lng'/>
@@ -333,8 +335,18 @@ df.plot(); plt.savefig('lng.png')
 ### Coal Price
 
 ```python
-import util; df = util.get_yahoofin(2018,"MTF=F").interpolate();
+df = u.get_yahoofin(2018,"MTF=F").interpolate();
+print (df.tail(4))
 df.plot(); plt.savefig('coal.png')
+```
+
+```text
+Date
+2022-08-31    364.549988
+2022-09-01    369.000000
+2022-09-02    373.899994
+2022-09-05    373.899994
+Name: Close, dtype: float64
 ```
 
 ![](coal.png)
@@ -342,7 +354,7 @@ df.plot(); plt.savefig('coal.png')
 ### Lumber
 
 ```python
-import util; df = util.get_yahoofin(2015,"LBS=F"); df.plot(); plt.savefig('lumber.png')
+df = u.get_yahoofin(2015,"LBS=F"); df.plot(); plt.savefig('lumber.png')
 ```
 
 ![](lumber.png)
