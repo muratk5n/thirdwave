@@ -108,17 +108,6 @@ tax dollars to maintain over 800 military bases around the world"
 
 ---
 
-Running VNC on RPi, desktop output to the smartphone. Board gets IP
-through DHCP/Wifi from phone's hotspot. 
-
----
-
-Raspberry Pi board literally fits into a small plastic soap box. Have
-a `recollindex` job running there now that I check through `tmux` - it
-feels strange to `tmux` into a little plastic soap box.
-
----
-
 Yes Maverick can take out fifth gen aircraft with a f-ing propeller
 plane.. For everyone else they are deadly.
 

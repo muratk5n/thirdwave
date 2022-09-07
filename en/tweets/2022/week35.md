@@ -247,18 +247,6 @@ Thanks to desalination.
 
 ---
 
-On smartphone, whole RPi VNC desktop looks too small in landscape
-mode? Use the phone in portrait, zoom to one side of the desktop, and
-start all programs there. RPi res can be fixed on `/boot/config.txt`.
-Editors, PDF readers, all look fine, typically tall, thin windows anyway.
-
----
-
-Using tablet USB output as power source for RPi, good idea. No need
-for a seperate powerbank. Those Li-On batteries are heavy as shit.
-
----
-
 Fortune: "Before ‘quiet quitting’ in the U.S., there was ‘lying flat’
 in China. How the anti-work movement swept the world’s two largest
 economies..
