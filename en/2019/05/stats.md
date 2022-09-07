@@ -655,6 +655,29 @@ dtype: float64
 
 ![](gini.png)
 
+
+## Foreign
+
+Chinese Exports
+
+```python
+import util; df = util.get_fred(2010,['XTEXVA01CNM667S']); df.plot()
+plt.savefig('exchina.png')
+print (df.tail(5))
+```
+
+```text
+            XTEXVA01CNM667S
+DATE                       
+2022-02-01     3.070018e+11
+2022-03-01     3.057753e+11
+2022-04-01     2.840776e+11
+2022-05-01     3.129771e+11
+2022-06-01     3.280552e+11
+```
+
+![](exchina.png)
+
 ---
 
 References, Notes
