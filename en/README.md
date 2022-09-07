@@ -119,8 +119,8 @@ Canada, in which 11 people were killed and 19 others injured"
 ---
 
 Truss was the better campaigner.. That became clear at those
-one-on-one interviews. There is journo, candidate, also live audience,
-but the format is geared towards the questioner. Sunak had a tendency
+one-on-one interviews. There is journo, candidate, and live audience
+but the format was geared towards the questioner. Sunak had a tendency
 to forgo the journo, and say something to rile up the audience, as if
 in an effort to drown out question.. Then you sorta break the format,
 the questioner is annoyed, that reflects badly on you. Maybe not for
