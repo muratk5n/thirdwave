@@ -4,6 +4,15 @@ import urllib.request as urllib2
 import pandas as pd, requests, datetime
 from io import BytesIO
 from datetime import date
+import matplotlib.pyplot as plt
+
+def two_plot(df, col1, col2):
+    plt.figure(figsize=(12,5))
+    ax1 = df[col1].plot(color='blue', grid=True, label=col1)
+    ax2 = df[col2].plot(color='red', grid=True, label=col2,secondary_y=True)
+    h1, l1 = ax1.get_legend_handles_labels()
+    h2, l2 = ax2.get_legend_handles_labels()
+    plt.legend(h1+h2, l1+l2, loc=2) 
 
 def get_fred(year, series):
     today = datetime.datetime.now()

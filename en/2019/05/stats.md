@@ -113,37 +113,6 @@ Freq: AS-JAN, Name: Taylor, dtype: float64
 
 ## Wages and Unemployment
 
-<a name="nfp"/>
-
-Non-Farm Payroll
-
-```python
-df = u.get_fred(1986,['PAYEMS'])
-df['nfpyoy'] = (df.PAYEMS - df.PAYEMS.shift(12)) / df.PAYEMS.shift(12) * 100.0
-print (df.tail(7))
-df.nfpyoy.plot()
-plt.grid(True)
-plt.axvspan('01-09-1990', '01-07-1991', color='y', alpha=0.5, lw=0)
-plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
-plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
-plt.title('Non-Farm Payroll YoY Change %')
-plt.savefig('nfp.png')
-```
-
-```text
-            PAYEMS    nfpyoy
-DATE                        
-2022-01-01  149744  4.703637
-2022-02-01  150458  4.683184
-2022-03-01  150856  4.448491
-2022-04-01  151224  4.512972
-2022-05-01  151610  4.457045
-2022-06-01  152008  4.330876
-2022-07-01  152536  4.200510
-```
-
-![](nfp.png)
-
 <a name="quits"/>
 
 Job Quits, Resignations
@@ -223,7 +192,7 @@ DATE
 
 <a name="wagepayroll"></a>
 
-Difference Between Wage Growth YoY and Payrolls (Hiring)
+Difference Between Wage Growth YoY and Total Payrolls, see [5]
 
 ```python
 df = u.get_fred(1986,['PAYEMS','AHETPI'])
@@ -257,6 +226,32 @@ Name: nfpyoy, dtype: float64
 
 ![](pay-wage.png)
 
+<a name="compprof"></a>
+
+Compensation and Profits Comparison [5]
+
+US Employee Compensation as a % of GVA of Domestic Corporations 
+US Corporate Profits as a % of GDP
+
+```python
+import util as u
+import pandas as pd
+pd.set_option('display.max_columns', None)
+df = u.get_fred(1965, ['A442RC1A027NBEA','A451RC1Q027SBEA','CP','GDP']).interpolate()
+df['profgdp'] = (df.CP / df.GDP)*100.0
+df['compgva'] = (df.A442RC1A027NBEA / df.A451RC1Q027SBEA)*100.0
+u.two_plot(df, 'profgdp','compgva')
+plt.axvspan('01-12-1969', '01-11-1970', color='y', alpha=0.5, lw=0)
+plt.axvspan('01-11-1973', '01-03-1975', color='y', alpha=0.5, lw=0)
+plt.axvspan('01-01-1980', '01-11-1982', color='y', alpha=0.5, lw=0)
+plt.axvspan('01-09-1990', '01-07-1991', color='y', alpha=0.5, lw=0)
+plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
+plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
+plt.savefig('compprof.png')
+```
+
+![](compprof.png)
+
 <a name="unempl"></a>
 
 Unemployment
@@ -265,7 +260,7 @@ Calculation is based on [2]
 
 ```python
 cols = ['LNS12032194','UNEMPLOY','NILFWJN','LNS12600000','CLF16OV','UNRATE','U6RATE']
-import pandas as pd, util; df = util.get_fred(1986,cols)
+df = u.get_fred(1986,cols)
 df['REAL_UNEMP_LEVEL'] = df.LNS12032194*0.5 + df.UNEMPLOY + df.NILFWJN
 df['REAL_UNRATE'] = (df.REAL_UNEMP_LEVEL / df.CLF16OV) * 100.0
 pd.set_option('display.max_columns', None)
@@ -387,7 +382,6 @@ Divide (1) by (2) as suggested in [4],
 
 
 ```python
-import pandas as pd; pd.set_option('display.max_columns', None)
 df = u.get_fred(1980, ['CP','FINSLC1']); df = df.interpolate()
 df = df.dropna()
 df['PM'] = df['CP'] / df['FINSLC1'] * 100.0
@@ -661,7 +655,7 @@ dtype: float64
 Chinese Exports
 
 ```python
-import util; df = util.get_fred(2010,['XTEXVA01CNM667S']); df.plot()
+df = u.get_fred(2010,['XTEXVA01CNM667S']); df.plot()
 plt.savefig('exchina.png')
 print (df.tail(5))
 ```
@@ -691,3 +685,4 @@ key in a `.quandl` file in the same directory as this file.
 
 [4] [Philosophical Economics](https://www.philosophicaleconomics.com/2014/03/foreignpm/)
 
+[5] [Hedgeeye](https://app.hedgeye.com/mu/he_qio_4q19_10-3-2019?encoded_data=ft9F,6yjgJ3+iFdaasKwdMTJVgzgnZlI=,)
