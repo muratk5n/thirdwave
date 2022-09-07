@@ -102,7 +102,7 @@ already too late"
 
 \#H2 \#Canada \#DE
 
-[@JustinTrudeau](https://twitter.com/JustinTrudeau/status/1562246803784974337)
+[[-]](https://twitter.com/JustinTrudeau/status/1562246803784974337)
 
 ---
 
