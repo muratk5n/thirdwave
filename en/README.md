@@ -41,9 +41,9 @@ H2. Grand. Adani clearly sees where things are going..
 ---
 
 Adani Group: "To further reduce the emission-intensity, Adani Power
-Limited — the Group’s thermal power business — plans to blend biomass
-with coal and is investigating pilots for co-firing of hydrogen and
-green ammonia, as well as pilots for carbon capture and utilization.
+Limited.. plans to blend biomass with coal and is investigating pilots
+for co-firing of hydrogen and green ammonia, as well as pilots for
+carbon capture and utilization.
 
 Green hydrogen holds a strong promise for India’s future energy
 self-reliance. It is not too difficult to imagine a scenario where
