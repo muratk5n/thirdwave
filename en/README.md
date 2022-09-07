@@ -77,7 +77,7 @@ but still unique, good story
 ---
 
 "Oxford quantum physicist Nikita Gourianov tore into the quantum
-computing industry this week, comparing the "fanfare" around the tech
+computing industry this week, comparing the 'fanfare' around the tech
 to a financial bubble.. Despite billions of dollars being poured into
 quantum computing, Gourianov argues, the industry has yet to develop a
 single product that's actually capable of solving practical
