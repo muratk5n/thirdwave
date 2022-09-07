@@ -100,14 +100,9 @@ already too late"
 
 ---
 
-"@JustinTrudeau
+\#H2 \#Canada \#DE
 
-From signing agreements with leading German automakers, to announcing
-the Canada-Germany Hydrogen Alliance, @Bundeskanzler Scholz and I have
-been busy this week. Glad you could come to Canada, my friend – let’s
-keep delivering results for Canadian workers"
-
-[[-]](https://twitter.com/JustinTrudeau/status/1562246803784974337)
+[@JustinTrudeau](https://twitter.com/JustinTrudeau/status/1562246803784974337)
 
 ---
 
