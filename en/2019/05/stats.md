@@ -234,9 +234,6 @@ US Employee Compensation as a % of GVA of Domestic Corporations
 US Corporate Profits as a % of GDP
 
 ```python
-import util as u
-import pandas as pd
-pd.set_option('display.max_columns', None)
 df = u.get_fred(1965, ['A442RC1A027NBEA','A451RC1Q027SBEA','CP','GDP']).interpolate()
 df['profgdp'] = (df.CP / df.GDP)*100.0
 df['compgva'] = (df.A442RC1A027NBEA / df.A451RC1Q027SBEA)*100.0
