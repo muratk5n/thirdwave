@@ -7,7 +7,7 @@ alternative; the loans were given in dollars, but now China could say
 "you can pay us back in yuan, at a discount if you chose to do so".
 
 Debtors could prefer that, creating additional demand for yuan raising
-its value.. Actually B&R could be useful for such purpose alone. They
+its value.. Actually B&R could be useful for this purpose alone. They
 got rid of the dollars they don't want, and created yuan demand in
 return.
 
