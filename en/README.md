@@ -24,10 +24,10 @@ supplying gas to Europe.
 
 ---
 
-The Chile fail was surprising because I'd read the Prez Boric is the
-master of wheeling and dealing.. Could have no aggreement with strong
-left elements in it, at least not hostile to left legislation later
-on, ensuring basic rights now, removing the fascist shit in there?
+The Chile fail was surprising because I'd read the Prez is the master
+of wheeling and dealing.. Could have no aggreement with strong left
+elements in it? At least something not hostile to left legislation
+later on, ensuring basic rights now, removing the fascist shit pronto?
 
 ---
 
