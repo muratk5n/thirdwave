@@ -230,8 +230,9 @@ Name: nfpyoy, dtype: float64
 
 Compensation and Profits Comparison [5]
 
-US Employee Compensation as a % of GVA of Domestic Corporations 
-US Corporate Profits as a % of GDP
+1) US Employee Compensation as a % of GVA of Domestic Corporations 
+
+2) US Corporate Profits as a % of GDP
 
 ```python
 df = u.get_fred(1965, ['A442RC1A027NBEA','A451RC1Q027SBEA','CP','GDP']).interpolate()
