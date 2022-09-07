@@ -2,111 +2,146 @@
 
 ---
 
-CNBC: "Apple is gaining on Facebook and Google in online ads after iOS
-privacy change, report shows"
+Analyst speculates China using B&R loans to turn yuan into a dollar
+alternative; the loans were given in dollars, but now China could say
+"you can pay us back in yuan, at a discount if you chose to do so".
+
+Debtors could prefer that, creating additional demand for yuan raising
+its value.. Actually B&R could be useful for such purpose alone. They
+got rid of the dollars they don't want, and created yuan demand in
+return.
 
 ---
 
-Parties sticking to ideologies matters because people don't vote in
-policies, they vote out people. Ergo when a new admin comes in, voters
-should automatically get a different way of governing through that
-different party. If voters are switching between globalist centrist
-cuck \#1 vs globalist centrist cuck \#2, that's not a change.
+Compensation vs Profits graph
+
+[[-]](2019/05/stats.html#compprof)
 
 ---
 
-Cowboys.. they've all become cowboys for America
-
-Al Jazeera: "Israel’s shifting narratives on the killing of Shireen
-Abu Akleh.. Israel has now concluded that it is 'highly possible' one
-of its soldiers killed Shireen Abu Akleh"
-
+Nordstream 1 is cut, how about TiggerStream?  That pipeline is still
+supplying gas to Europe.
 
 ---
 
-Al Monitor: "Israel concedes soldier likely shot Al Jazeera journalist"
+The Chile fail was surprising because I'd read the Prez Boric is the
+master of wheeling and dealing.. Could have no aggreement with strong
+left elements in it, at least not hostile to left legislation later
+on, ensuring basic rights now, removing the fascist shit in there?
 
 ---
 
-Al Jazeera: "China registers hottest August since records began"
+Reuters: "Chile's Boric reshuffles cabinet after voters reject new constitution"
 
 ---
 
-H2 Fuel News: "BMW begins manufacturing hydrogen fuel cell systems for iX5 SUV"
+Talks about co-firing coal with ammonia / H2, and green
+H2. Grand. Adani clearly sees where things are going..
 
 ---
 
-H2 Fuel News: "Bosch pours $200M into hydrogen truck fuel cells.. The
-company plans to begin manufacturing the stacks by 2026 at a facility
-in South Carolina'
+Adani Group: "To further reduce the emission-intensity, Adani Power
+Limited — the Group’s thermal power business — plans to blend biomass
+with coal and is investigating pilots for co-firing of hydrogen and
+green ammonia, as well as pilots for carbon capture and utilization.
+
+Green hydrogen holds a strong promise for India’s future energy
+self-reliance. It is not too difficult to imagine a scenario where
+green hydrogen at a price of less than $1/kg — coupled with the
+projected reduction in the cost of combined cycle hydrogen turbines
+and fuel cells — will not only allow the country to make a transition
+from fossil fuels, but will also free India from the debilitating
+financial burden of energy imports.
+
+This opportunity was signalled by Prime Minister Narendra Modi when he
+announced the National Hydrogen Mission in August 2021 on India’s
+Independence Day. This ambitious plan builds upon India’s target of
+450 GW of renewables by 2030. It sends a strong signal for demand for
+green hydrogen via mandates in sectors such as fertilizers and
+refining, provides for viability gap funding and supply-side
+incentives, such as waivers on import duty for electrolysers, as well
+as manufacturing incentives to assemble and localize electrolyser
+manufacturing. Addressing the UN General Assembly, Prime Minister Modi
+also stated his ambition for India to become one of the largest green
+hydrogen hubs in the world"
 
 ---
 
-Peter Voit: [See] [The quantum computing bubble](https://www.ft.com/content/6d2e34ab-f9fd-4041-8a96-91802bab7765) 
-at the Financial Times, where Nikita Gourianov argues that there’s a
-speculative bubble going on in this field, [he says]:
-
-'Well, when exactly the bubble will pop is difficult to say, but at
-some point the claims will be found out and the funding will dry up. I
-just hope that when the music stops and the bubble pops, the public
-will still listen to us physicists'...
-
-I think Gourianov makes an important point for physicists to keep in
-mind. Having this sort of hype blow up in physicist’s faces is not
-going to help with the credibility problems physics already has with
-the public due to decades of hype about non-existent breakthroughs in
-fundamental physics
+"Indian billionaire [Gautam Adani] closes in on Bezos with 1,000% stock surge"
 
 ---
 
-The ABC hasta la vista comment was funny because BJ said earlier "I'll
-be back"
+*Solomon Kane* ⭐ ⭐ ⭐ ⭐ ⭐ The vibe is reminiscent of *Van Helsing*
+but still unique, good story
 
 ---
 
-Nuclear fission is also free energy in many ways, the ratio of energy
-obtained with energy applied is immensely large. It is possible to get
-something for nothing.
+"Oxford quantum physicist Nikita Gourianov tore into the quantum
+computing industry this week, comparing the "fanfare" around the tech
+to a financial bubble.. Despite billions of dollars being poured into
+quantum computing, Gourianov argues, the industry has yet to develop a
+single product that's actually capable of solving practical
+problems... Contemporary quantum computers are also 'so error-prone
+that any information one tries to process with them will almost
+instantly degenerate into noise,' he [said]...
+
+Despite the industry's less-than-stellar results, investors are still
+funneling untold sums into quantum computing ventures. 'In essence,
+the quantum computing industry has yet to demonstrate any practical
+utility, despite the fanfare,' Gourianov wrote. 'Why is then so much
+money flowing in? Well, it is mainly due to the fanfare.' The money,
+he argues, is coming from investors who typically don't have 'any
+understanding of quantum physics,' while 'taking senior positions in
+companies and focusing solely on generating fanfare.'
+
+In short, Gourianov believes it's only a matter of time until the
+'bubble will pop' and the 'funding will dry up' — at which point, it's
+already too late"
 
 ---
 
-That sounds like free energy..  No additional energy input is applied,
-when the catalyst splits water, is not reduced itself in the process
-so it could do the splitting forever creating energy.
+"@JustinTrudeau
 
-H2 Fuel News: "[Researchers] at UCSC [found] a way to complete [water
-splitting for H2 generation] process at room temperature, without the
-requirement of the electric input. They have done so through the
-development of a special aluminum composite that causes a reaction
-with the water at room temperature. Aluminum is naturally a reactive
-material that will cause the oxygen to split away from water
-molecules, allowing the H2 to remain...
+From signing agreements with leading German automakers, to announcing
+the Canada-Germany Hydrogen Alliance, @Bundeskanzler Scholz and I have
+been busy this week. Glad you could come to Canada, my friend – let’s
+keep delivering results for Canadian workers"
 
-The researchers discovered that by applying an easily created
-composite of aluminum and gallium, the aluminum will react with water
-even at room temperature, resulting in the production of H2 without
-CO2 emissions"
+[[-]](https://twitter.com/JustinTrudeau/status/1562246803784974337)
 
 ---
 
-Crude is indeed down
+Strange.. very strange..
 
-[[-]](2019/05/energstats.html)
-
----
-
-CNBC: "Gas prices are falling — Here's why it's happening.. Some
-states.. suspended their gas taxes, which artificially pushes prices
-lower. But the main reason for the fall is the decline in oil
-prices. Crude is the single largest factor influencing gas prices,
-accounting for more than 50% of what we pay at the pump"
+"[09/04] A mass stabbing occurred in 13 locations.. Saskatchewan,
+Canada, in which 11 people were killed and 19 others injured"
 
 ---
 
-SCMP: "Sinopec sets green hydrogen goals to help China reach carbon
-neutrality by 2060.. China’s largest refiner aims to have an installed
-capacity to produce 120,000 tonnes of green hydrogen a year by the end
-of 2025"
+Truss was the better campaigner.. That became clear at those
+one-on-one interviews. There is journo, candidate, also live audience,
+but the format is geared towards the questioner. Sunak had a tendency
+to forgo the journo, and say something to rile up the audience, as if
+in an effort to drown out question.. Then you sorta break the format,
+the questioner is annoyed, that reflects badly on you. Maybe not for
+people in the audience but others watching through broadcast would
+pick this up.. Gave the impression of a lack of media management
+skills. Truss handled one-on-ones better, spoke direcly to
+questioner. Also overall messaging was consistent.
+
+---
+
+Online digital event \#GénérationHydrogène, I like the poster
+
+[[-]](https://pbs.twimg.com/media/Fb5xqlFWAAA8SDH?format=jpg&name=small)
+
+---
+
+"@JohnCleese
+
+Amazon offered my wife a book they thought she 'might be interested in'
+
+It was my autobiography"
 
 ---
 
