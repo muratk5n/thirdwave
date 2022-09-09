@@ -64,8 +64,8 @@ innovative waste-to-energy technology"
 
 ---
 
-Yes that's what it is.. Ryan Reynolds reminds me of Adam Sandler.  He
-should do a remake of the *The Wedding Singer*.
+Yes that's it.. Ryan Reynolds reminds me of Adam Sandler.  He should
+do a remake of the *The Wedding Singer*.
 
 ---
 
