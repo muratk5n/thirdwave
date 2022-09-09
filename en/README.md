@@ -1,5 +1,23 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
+---
+
+NYT: " The Indian government has begun a campaign for the return of a
+historic 105.6-carat diamond that was either a gift to Queen Victoria
+from the maharajah of Punjab in 1849 or stolen by the British,
+depending on some widely divergent perspectives"
+
+---
+
+😆 😆 
+
+WION: "Queen Consort Camilla to get Queen Elizabeth II's famous Kohinoor crown"
+
+---
+
+France 24: "From mistress to Queen Consort: the redemption of Camilla"
+
+---
 
 Plus low leader approv would increase MP chances of loss, they have
 every reason to vote the leader out. 
