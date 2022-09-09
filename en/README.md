@@ -2,10 +2,10 @@
 
 ---
 
-NYT: " The Indian government has begun a campaign for the return of a
-historic 105.6-carat diamond that was either a gift to Queen Victoria
-from the maharajah of Punjab in 1849 or stolen by the British,
-depending on some widely divergent perspectives"
+NYT: "[2016] The Indian government has begun a campaign for the return
+of a historic 105.6-carat diamond that was either a gift to Queen
+Victoria from the maharajah of Punjab in 1849 or stolen by the
+British, depending on some widely divergent perspectives"
 
 ---
 
