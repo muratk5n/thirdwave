@@ -10,8 +10,8 @@ People also vote for parliament members, within the same party as the
 head, and those members have the ability to change the leader.. If
 people implicated the former they also implicate the latter.
 
-"People vote with a particular party head in mind, changing of that
-head midway is against democracy"
+"People vote with a particular party head in mind, changing that
+midway is against democracy"
 
 ---
 
