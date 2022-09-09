@@ -98,7 +98,7 @@ military exercises that Russia is conducting in its Far Eastern region"
 
 ---
 
-*Shaft* 2019. "It's your duty to please that booty". 
+*Shaft 2019*. "It's your duty to please that booty".
 
 ---
 
