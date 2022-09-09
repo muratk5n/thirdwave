@@ -5,7 +5,13 @@
 NYT: "[2016] The Indian government has begun a campaign for the return
 of a historic 105.6-carat diamond that was either a gift to Queen
 Victoria from the maharajah of Punjab in 1849 or stolen by the
-British, depending on some widely divergent perspectives"
+British, depending on some widely divergent perspectives..
+
+For many Indians, the Koh-i-Noor — or Mountain of Light — is a symbol
+of colonial subjugation and three centuries of exploitation that began
+with the East India Company in the early 17th century, culminated in
+the absorption of India as a colony after a major uprising in 1857 and
+ended with the independence, and partition, of India in 1947"
 
 ---
 
