@@ -3,8 +3,8 @@
 ---
 
 The Kherson offensive did not go well for Ukraine; major losses.  Then
-they started another offensive in the north, Kharkiv, there are some
-gains there, we'll see if they will stick.
+they started another, in the north, Kharkiv, there are some gains
+there, we'll see if it sticks.
 
 ---
 
