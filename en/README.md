@@ -74,7 +74,7 @@ operating system"
 
 Not in the habit of using royal titles if those titles do not exist in
 country I live in.. Never lived anywhere with a monarch, so I treat
-such titles null and void, including 'Sirs" of knighthood. 
+such titles null and void, including 'Sirs' of knighthood.
 
 ---
 
