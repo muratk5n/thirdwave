@@ -25,9 +25,10 @@ including power and shipping fuels"
 The EU is usually ahead on this stuff.. Individual countries are
 advancing, some in a big way, but the EU level needs some more push?
 
-"US Inflation Reduction Act’s 'clear and simple' rules for green H2
-throw a harsh light on EU’s strict additionality requirements, says
-trade association [Hydrogen Europe, Chatzimarkakis]"
+H2 Central: "US Inflation Reduction Act’s 'clear and simple' rules for
+green H2 throw a harsh light on EU’s strict additionality
+requirements, says trade association [Hydrogen Europe,
+Chatzimarkakis]"
 
 ---
 
