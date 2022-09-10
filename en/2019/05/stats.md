@@ -478,11 +478,9 @@ DATE
 
 ![](junkbond.png)
 
-Yield Curve, Rates
+<a name="treas"></a>
 
-<a name="curve"></a>
-
-10 Year Treasury Yield - 3 Month Bills
+3 Month, 2 and 10 Year Treasury Rates
 
 ```python
 df = u.get_fred(1980,['DGS3MO','DGS2','DGS10'])
