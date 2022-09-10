@@ -118,7 +118,7 @@ cig.
 
 With Koh-i-Noor Camilla will be like "it took me over 30 years but I
 got here, I got jewels". Total gangsta. Imma get that crown with the
-mammoth rock on it. Hell yea
+mammoth rock on it... Hell yea
 
 ---
 
