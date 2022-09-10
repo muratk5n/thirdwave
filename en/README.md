@@ -72,7 +72,7 @@ operating system"
 
 Not in the habit of using royal titles if those titles do not exist in
 country I live in.. Never lived anywhere with a monarch, so I ignore
-titles, including 'Sirs' of knighthood.
+titles, including 'Sirs'.
 
 ---
 
