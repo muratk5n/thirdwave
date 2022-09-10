@@ -110,7 +110,7 @@ That's it, that's the one.
 A meme is called for here: thug life. After a take down, people would
 create animations dropping shades, hat, and a cig on someone's head
 and it would say "thug life", remember? Perfect fit here. The crown is
-already gangsta no need for hat (crown stolen property, by an empire
+already gangsta no need for hat (stolen property, by an empire
 responsible for millions of deaths), just drop shades and a cig.
 
 ---
