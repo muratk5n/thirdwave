@@ -8,8 +8,6 @@ gains there, we'll see if they will stick.
 
 ---
 
-Yep case in point
-
 H2 Central "[Dutch] OCI announced it will start construction of a
 world-scale 1.1 million ton per annum blue ammonia project in
 Beaumont, Texas, based on KBR technology. The passage of the US
@@ -73,8 +71,8 @@ operating system"
 ---
 
 Not in the habit of using royal titles if those titles do not exist in
-country I live in.. Never lived anywhere with a monarch, so I treat
-such titles null and void, including 'Sirs' of knighthood.
+country I live in.. Never lived anywhere with a monarch, so I ignore
+titles, including 'Sirs' of knighthood.
 
 ---
 
