@@ -48,7 +48,6 @@ Name: 1, dtype: float64
 
 ![](worldoil.png)
 
-
 ### Opec Oil Production
 
 Million barrels a day

@@ -51,7 +51,7 @@ axs[0].axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
 axs[0].axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
 print (df[['gdpyoy']].tail(6))
 
-df = util.get_fred(1970,'CPIAUCNS')
+df = u.get_fred(1970,'CPIAUCNS')
 df['inf'] = (df.CPIAUCNS - df.CPIAUCNS.shift(12)) / df.CPIAUCNS.shift(12) * 100.0
 df['inf'].plot(ax=axs[1])
 axs[1].axvspan('01-11-1973', '01-03-1975', color='y', alpha=0.5, lw=0)
@@ -72,7 +72,7 @@ DATE
 2021-07-01   4.946556
 2021-10-01   5.533484
 2022-01-01   3.527892
-2022-04-01   1.617963
+2022-04-01   1.709777
                  inf
 DATE                
 2022-02-01  7.871064
