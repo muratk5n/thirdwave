@@ -222,6 +222,7 @@ simultaneously perpetrator and victim.
 
 References
 
+[TR Translation](../../../tr/2020/07/gocebele-anadolu.html)
 
 Anderson, B. R. O. G. (1991). Imagined communities: Reflections on the origin and spread of nationalism. London: Verso
 
