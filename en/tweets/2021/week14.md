@@ -443,14 +443,6 @@ make policy, some kind of filter is necessary.
 
 ---
 
-BTW the so-called Turkish coffee is actually Greek coffee, and that
-itself is similar to a espresso, clearly all originating from
-Aegy/Medi region; bunch of punks from distant whereever did not bring
-it with them... Off-the-boat, or off-the-goat types like everyone else
-who arrived and assimilated, picked these things up from their region.
-
----
-
 Haha.. few Byzantian music samples below.. sounds awfullly like the
 so-called "Turkish" art music, *sanat müziği*.
 
