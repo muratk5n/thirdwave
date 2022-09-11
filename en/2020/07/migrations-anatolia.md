@@ -1,6 +1,9 @@
 # Tolay, National Narratives, Migrations, Anatolia
 
-[Juliette Tolay](https://pennstate.pure.elsevier.com/en/publications/rewriting-national-narratives-through-the-study-of-past-migration)
+Juliette Tolay
+
+[Paper](https://pennstate.pure.elsevier.com/en/publications/rewriting-national-narratives-through-the-study-of-past-migration),
+[Translation](../../../tr/2020/07/gocebele-anadolu.html)
 
 The other important concept at stake when understanding the
 constructed nature of the nation is the idea of a historical national
@@ -221,8 +224,6 @@ recognition of past violence, by seeing the nation as being
 simultaneously perpetrator and victim.
 
 References
-
-[TR Translation](../../../tr/2020/07/gocebele-anadolu.html)
 
 Anderson, B. R. O. G. (1991). Imagined communities: Reflections on the origin and spread of nationalism. London: Verso
 

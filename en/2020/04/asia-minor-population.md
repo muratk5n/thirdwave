@@ -53,7 +53,7 @@ arriving into a population of 8 million. These people came to settle,
 not to battle (unlike Mongols later, who did). Once governance
 structures formed, around them, including them, they would have
 battled with Byzantium and also with eachother causing pop decreases,
-but the real killes were the plaques, and later the Mongols who beat
+but the real killers were the plaques, and later the Mongols who beat
 the gov of the time, the Seljuks. On the Byzantine side the capital
 city was sacked by Crusaders in 1204.
 
