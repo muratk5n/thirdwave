@@ -45,8 +45,8 @@ winter months by combining the dairy with the wheat and leaving in the
 hot summer sun to dry over a few days.
 
 *Döner* (meaning 'it turns') is similar to Greek *gyro*, Arabic
-*shawarma*, or Armenian *tarna* (literally means to turn) are all
-variations of the same idea that were served all over the place in
+*shawarma*, or Armenian *tarna* (which literally means *to turn*)
+are all variations of the same idea that were served all over the place in
 Eastern Europe and Middle East, for thousands of years.
 
 <a name='music'/>
@@ -69,18 +69,22 @@ The reasons are many.
 
 - The collapse of the empire required an identity-rethink: the
 collapse was blamed on back-stabbing neighbors, and the ancient
-locals. The unblemished migrant (who was ignored, taken advantage of,
-by everyone) had to be brought to the fore, in order to create a new
+locals. The unblemished migrant (who was ignored, taken advantage of
+by others) had to be brought to the fore, in order to create a new
 republic.
 
 - The last dominant sultan led a pan-Islam policy, the officers who
-rose up against them and later founding the Republic wanted to rock'n
+rose up against him and later founding the Republic wanted to rock'n
 roll, they made the pure, unblemished migrant also a non-Islamic,
-shamanistic person. This was their foray into secularism.
+shamanistic person. They would achive secularism indirectly, now
+the Turk had something he was connected to before Islam, and
+the narrative had the double side effect of ignoring the religion
+of the region, especially of the "backstabbers".
 
 - Turk always meant Muslim in the Balkans, for recent migrants from
-Balkans who were Muslim this identity wasn't too off-putting (but
-founders pushed Islam in the background, creating a contradiction).
+Balkans who were Muslim this identity wasn't too off-putting. But per
+above founders pushed Islam in the background, creating a
+contradiction.
 
 - The identity worked best for migrants who had truly arrived
 recently, Circassians, Tatars, and others. In the case of Tatars the
@@ -95,8 +99,12 @@ such an ally. Britain always fought against Russia in The Great Game,
 they wanted a bulwark against them. The "Turk" who is unblemished
 therefore still connected to Asia who could stir up trouble there
 among other Turkic nations causing trouble for Russia was a God-sent
-gift for them. To this day Brits are the most fervent supporters of
-this bizarre Turkic identity.
+gift for them. In this narrative the nomadic Turk who is foreign
+to this "new land" could be the perfect frontier infantry, always
+ready to attack Russia or whoever causes trouble for him (creating
+animonities which British diplomats could exploit such as in Cyprus)
+with the added bonus of once in a while they could cause some change
+all the way Central Asia, Caucuses, even Xinjang. 
 
 - Old neighbors becoming enemies certainly contributed. As all good
 Ponzi schemes go, the narrative allowed a way in for everyone,
@@ -105,18 +113,19 @@ become it. But the story, rationalization of the identity had gone so
 off the rails at this point, the more established ancient cultures
 found it absurd, and would never accept it. They were demonized for
 this reason, Kurds were labeled as being "mountain Turks" for example
-who just did not know what they truly were, demonization led to
-rebellion, which caused Kurds to see themselves more and more
-distinct. Now, sadly, even some Kurds want Turks to be Turks - because
-it reinforces their seperatist wishes, their being an independent
-Kurd.
+who just did not know what they truly were, since they were this
+stupid they could be jailed or killed. Opression led to rebellion,
+which caused Kurds to see themselves more and more distinct. Now,
+sadly, even some Kurds want Turks to be Turks - because it reinforces
+their seperatist wishes, their being an independent Kurd.
 
 - Same dynamic worked with Greeks - surely a people of Christian
 denomination, but in cultural matters, especially in Anatolia, that
 matters little. However the War of Independence caused the two people
-to demonize eachother, now they also need the other to be what they are
-so they can tell themselves fairy tales about hordes coming in from
-wherever causing terror and fill the blanks here.
+to demonize eachother, now they also need the other to be what they
+are so they can tell themselves fairy tales about hordes coming in
+from wherever causing terror in the lands therefore one must be
+on guard to protect the Greek nation. 
 
 References
 
