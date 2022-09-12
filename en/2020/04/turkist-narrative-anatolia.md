@@ -116,10 +116,11 @@ beyond fairy tale, most of the notable "other" natives found it
 absurd, and would never accept it. They were demonized for this
 reason, Kurds were labeled as being "mountain Turks" for example who
 just did not know what they truly were, since they were this stupid
-they could be jailed or killed. Opression led to rebellion, which
-caused Kurds to see themselves more and more distinct. Now, sadly,
-even some Kurds want Turks to be Turks - because it reinforces their
-seperatist wishes, their being an independent Kurd.
+they could be jailed or killed. Attacks toward other "non-Turks" also
+increased. Opression led to rebellion, which caused Kurds to see
+themselves more and more distinct. Now, sadly, even some Kurds want
+Turks to be Turks - because it reinforces their seperatist wishes,
+their being a seperate Kurd.
 
 - Same dynamic worked with Greeks - surely a people of Christian
 denomination, but in cultural matters, especially in Anatolia, that
