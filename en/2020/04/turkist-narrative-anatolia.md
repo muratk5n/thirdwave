@@ -29,6 +29,8 @@ over 10,000 years ago ("Turk" migration is little over 1000 yrs
 old). So it should be no surprise inventions around food, tasty
 recipes, preservation methods were first invented there, not by nomads.
 
+<a name='yogurt'/>
+
 Yogurt was invented in the Mediterrenian region, Herodotus talks about
 it in the 5th century B.C. 
 
