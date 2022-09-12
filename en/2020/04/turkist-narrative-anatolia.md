@@ -105,8 +105,8 @@ for Brits. In this narrative the nomadic Turk who is foreign to this
 "new land" could be the perfect frontier infantry, always ready to
 attack Russia or whoever causes trouble for him (creating additional
 animonsiities which could be exploited such as in Cyprus) with the
-added bonus of once in a while they could cause some change all the
-way Central Asia, Caucuses, even Xinjang.
+chaos potential reaching all the way into Central Asia, Caucuses, and
+even Xinjang.
 
 - Old neighbors becoming enemies certainly contributed. As all good
 Ponzi schemes go, the narrative allowed a way in for everyone,
