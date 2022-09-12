@@ -70,10 +70,6 @@ RU hawks.
 
 ---
 
-I must've been lobbying for H2 since 2019.. 
-
----
-
 Hands-on info is always helpful; before writing on H2 I did a little
 water splitting myself. Iron electrodes, wrong path gets you sodium
 chloride, [no-no](https://youtu.be/T-OwWOYHhMI?t=266), used graphite,
