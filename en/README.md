@@ -82,12 +82,12 @@ could make it a reality this decade"
 ---
 
 "Researchers Discover a Single Catalyst Capable of Splitting Both
-Freshwater and Seawater at Low Voltage..  [They] report using a
-nickel/molybdenum/nitrogen compound, tweaked with a small amount of
-iron and grown on nickel foam to efficiently produce hydrogen and
-then, through a process of electrochemical reconstruction sparked by
-cycling voltage, converted to a compound that produced a similarly
-powerful oxygen evolution reaction.
+Freshwater and Seawater at Low Voltage..  [They] report using a nickel
+/ molybdenum / nitrogen compound, tweaked with a small amount of iron
+and grown on nickel foam to efficiently produce hydrogen and then,
+through a process of electrochemical reconstruction sparked by cycling
+voltage, converted to a compound that produced a similarly powerful
+oxygen evolution reaction.
 
 The researchers said using a single compound for both the hydrogen
 evolution reaction (HER) and the oxygen evolution reaction (OER) –
