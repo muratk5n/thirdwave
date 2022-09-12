@@ -119,7 +119,7 @@ what they truly were, since they were this stupid they could be jailed
 or killed. Attacks toward other "non-Turks" also increased. Opression
 led to rebellion, which caused Kurds to see themselves more and more
 distinct. Now, sadly, even some Kurds want Turks to be Turks - because
-it reinforces their seperatist wishes, their being a seperate Kurd.
+it reinforces their seperatist wishes, them being a seperate Kurd.
 
 - Same dynamic worked with Greeks - surely a people of Christian
 denomination, but in cultural matters, especially in Anatolia, that
