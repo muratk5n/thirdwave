@@ -93,7 +93,7 @@ recently, Circassians, Tatars, and others. In the case of Tatars the
 identity worked even better - they looked Asiatic. However as the
 "scratch a Tatar you get a Russian" comment suggests the newly
 arrivals weren't exactly Turkic, then they assimilated into Anatolia
-which wasn't Turkic either. Their story becamse another tragic example
+which wasn't Turkic either. Their story became another tragic example
 of labeling gone wrong.
 
 - Ever-present Russian danger necessitated strong allies. Britain was
