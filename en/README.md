@@ -79,10 +79,10 @@ I must've been lobbying for H2 since 2019..
 
 ---
 
-Hands-on info is always helpful; before I wrote on H2 I checked it out - 
-did a little water splitting myself. Iron electrodes, wrong path gets
-you sodium chloride, [no-no](https://youtu.be/T-OwWOYHhMI?t=266),
-used graphite, it worked - produced some H2 gas. 
+Hands-on info is always helpful; before writing on H2 I did a little
+water splitting myself. Iron electrodes, wrong path gets you sodium
+chloride, [no-no](https://youtu.be/T-OwWOYHhMI?t=266), used graphite,
+it worked - produced H2.
 
 ---
 
