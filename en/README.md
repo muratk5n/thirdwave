@@ -47,8 +47,8 @@ theater is absurd"
 
 ---
 
-One party leader said something on Assange, but he is considered the
-"town fool" by mainstream anyway, the issue was ignored.
+One party leader spoke up for Assange, but he is considered the "town
+fool" by mainstream anyway, the issue was ignored.
 
 ---
 
