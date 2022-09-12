@@ -4,11 +4,13 @@
 
 [Cultures, Identities, Something Dash Something Americans, Immigrants](../../2019/11/faux-ambassadors.html)
 
-[Turkist Narrative, Culture](../../2020/04/turkist-narrative-anatolia.html)
+[Turks, Nationalism](../../2020/04/turks-culture-national-narrative.html)
 
 [Tolay, National Narratives, Migrations, Anatolia](../../2020/07/migrations-anatolia.html)
 
 [The Culture Code](../../2014/06/the-culture-code.html)
+
+[Turkist Narrative, Culture](../../2020/04/turkist-narrative-anatolia.html)
 
 [[⇪Up]](../..)
 
