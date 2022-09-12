@@ -52,13 +52,12 @@ One party leader said something on Assange, but he is considered the
 
 ---
 
-Prev talk on Australia becoming a Republic is now AWOL.
-
-Strategically since they need a relationship with a naval power
+Prev talk on Australia becoming a Republic is now AWOL. Did it ever
+makes sense strategically? They need a relationship with a naval power
 cementing their connection to the outer alliance by still being in
 CWealth would be helpful there.. If the mainstream could not say a
-word edgewise on Assange, I guess not surprising shift to a Republic
-being DOA.
+word edgewise on Assange, why would bother with change into a
+Republic?
 
 ---
 
