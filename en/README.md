@@ -127,7 +127,7 @@ CAPEX and OPEX savings"
 
 ---
 
-Yogurt.. that too is Middle Eastern, Mediterrenian.
+Yogurt.. dumb nationalists are wrong on that one too
 
 [[-]](2020/04/turkist-narrative-anatolia.html#yogurt)
 
