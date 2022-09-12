@@ -14,11 +14,11 @@ largest hydrogen-powered direct reduction plants"
 
 ---
 
-Can latest UKR gain be used as basis for piece summit? Defenders can
+Can latest UKR gains be used as basis for piece summit? Defenders can
 boast they are now negotiating from a "position of strength", RU has
-Donetsk, Crimea and a land bridge from Russia to both.. Time to call
-this thing quits and turn on the gas tap? Or will the war continue
-throughout the winter?
+Donetsk, Crimea and a land bridge from Russia to both.. Maybe time to
+call this thing quits and turn on the gas tap. Or will the war
+continue throughout the winter?
 
 ---
 
