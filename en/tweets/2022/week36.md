@@ -108,7 +108,7 @@ return.
 
 Compensation vs Profits graph
 
-[[-]](2019/05/stats.html#compprof)
+[[-]](../../2019/05/stats.html#compprof)
 
 ---
 
@@ -322,7 +322,7 @@ CO2 emissions"
 
 Crude is indeed down
 
-[[-]](2019/05/energstats.html)
+[[-]](../../2019/05/energstats.html)
 
 ---
 
@@ -443,7 +443,7 @@ demanded neutrality in the war and action on energy prices"
 
 ---
 
-[Link](2018/12/the-road-to-oblivion.html#linc1)
+[Link](../../2018/12/the-road-to-oblivion.html#linc1)
 
 ---
 
