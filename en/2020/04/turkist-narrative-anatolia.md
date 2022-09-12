@@ -35,10 +35,10 @@ Yogurt was invented in the Mediterrenian region, Herodotus talks about
 it in the 5th century B.C. 
 
 The Turkish coffee is a Yemenese invention. I'm talking about using
-coffee beans ground into a fine powder, then boiled in a little [brass pot](https://pbs.twimg.com/media/FB9mjc0XMAU_YNS?format=jpg&name=small)
-is called different names by countries, with many laying claim on its
-discovery. But since the first-use was in Yemen, it should be called
-Yemenese coffee.
+coffee beans ground into a fine powder, then boiled in a little [brass pot](https://pbs.twimg.com/media/FB9mjc0XMAU_YNS?format=jpg&name=small).
+This product is called different names by countries, with many laying
+claim on its discovery. But since the first-use was in Yemen, it should
+be called Yemenese coffee.
 
 Asia Minor *tarhana* soup is actually one of the oldest foods in the
 Eastern Mediterranean called in Greek *trahana*, it was traditionally
