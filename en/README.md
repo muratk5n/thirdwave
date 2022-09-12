@@ -14,11 +14,6 @@ largest hydrogen-powered direct reduction plants"
 
 ---
 
-UKR declares neutrality, never utters the word NATO again, there could
-be a deal
-
----
-
 Can latest UKR gain be used as basis for piece summit? Defenders can
 boast they are now negotiating from a "position of strength", RU has
 Donetsk, Crimea and a land bridge from Russia to both.. Time to call
