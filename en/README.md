@@ -54,7 +54,7 @@ fool" by mainstream anyway, the issue was ignored.
 
 Prev talk on Australia becoming a Republic is now AWOL. Did it ever
 makes sense strategically? They need a relationship with a naval power
-cementing their connection to the outer alliance by still being in
+cementing their connection to the outer alliance still being in
 CWealth would be helpful there.. If the mainstream could not say a
 word edgewise on Assange, why would bother with change into a
 Republic?
