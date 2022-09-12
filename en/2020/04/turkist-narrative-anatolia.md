@@ -103,8 +103,8 @@ therefore still connected to Asia who could stir up trouble there
 among other Turkic nations causing trouble for Russia was a God-sent
 for Brits. In this narrative the nomadic Turk who is foreign to this
 "new land" could be the perfect frontier infantry, always ready to
-attack Russia or whoever causes trouble for him (creating animonities
-which British diplomats could exploit such as in Cyprus) with the
+attack Russia or whoever causes trouble for him (creating additional
+animonsiities which could be exploited such as in Cyprus) with the
 added bonus of once in a while they could cause some change all the
 way Central Asia, Caucuses, even Xinjang.
 
