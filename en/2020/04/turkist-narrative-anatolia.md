@@ -1,4 +1,4 @@
-# Turkist Narratives, Culture
+# Turkist Narrative, Culture
 
 People have an Asia Minor do have a culture, but they name that
 culture incorrectly. The migrants who arrived in Anatolia melted away,
@@ -128,7 +128,7 @@ matters little. However the War of Independence caused the two people
 to demonize eachother, now they also need the other to be what they
 are so they can tell themselves fairy tales about hordes coming in
 from wherever causing terror in the lands therefore one must be
-on guard to protect the Greek nation. 
+on guard to protect the Greek nation at all times. 
 
 References
 
@@ -136,6 +136,7 @@ References
 
 [2] [Turkish Population Structure and Genetic Ancestry](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4904778/)
 
-[3] https://greekcitytimes.com/2022/08/05/traditional-trahana-recipe
+[3]
+[Trahana](https://greekcitytimes.com/2022/08/05/traditional-trahana-recipe)
 
 [4] [National Narratives, Migrations, Anatolia](../../2020/07/migrations-anatolia.html)
