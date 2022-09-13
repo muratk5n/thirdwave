@@ -39,7 +39,7 @@ woman, what was you thinking? Disturbed the image. She dead.
 ---
 
 There is one with Hayden Christensenssensensen. Before Darth Vader he
-apparently did bizarre psych triller, and troubled teen roles. Then he
+apparently did bizarre psych trillers, and troubled teen roles. Then he
 landed the ultimate troubled teen role.
 
 ---
