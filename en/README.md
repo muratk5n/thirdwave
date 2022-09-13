@@ -16,13 +16,11 @@ said, in what is the deadliest such incident involving electric
 vehicles in the country...
 
 A spate of electric scooter fires this year has alarmed the
-government, which is keen to promote the use of the two-wheelers in
-its fight against pollution. Early investigations have identified
-faulty battery cells and battery modules among the main causes..
-
-In March, India launched an investigation over safety concerns after a
-string of e-scooter fires, including one in which a man and his
-daughter died when their e-bike 'went up in flames'".
+government.. Early investigations have identified faulty battery cells
+and battery modules among the main causes.. In March, India launched
+an investigation over safety concerns after a string of e-scooter
+fires, including one in which a man and his daughter died when their
+e-bike 'went up in flames'".
 
 ---
 
