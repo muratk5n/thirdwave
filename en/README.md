@@ -2,124 +2,123 @@
 
 ---
 
-H2 View: "Steel-giant thyssenkrupp has announced it will invest €2bn
-($2.01bn) to transform its plant in Duisburg, Germany into one of the
-largest hydrogen-powered direct reduction plants"
+"Egyptian President Meets with Fortescue Future Industries about Green
+Hydrogen Opportunities Ahead of COP27"
 
 ---
 
-\#Geography \#US 
+I keep saying these lion batteries are dangerous. When they burn it is
+hell fire, firefighters cant put out the fires with regular
+methods. They throw water, the shit keeps on burning! The e-vehicles
+are fire hazard on wheels!
 
-[[-]](https://youtu.be/BubAF7KSs64)
+Al Jazeera: "At least eight people have been killed and 11 injured in
+a fire that started at an electric scooter showroom in India, police
+said, in what is the deadliest such incident involving electric
+vehicles in the country...
 
----
+A spate of electric scooter fires this year has alarmed the
+government, which is keen to promote the use of the two-wheelers in
+its fight against pollution. Early investigations have identified
+faulty battery cells and battery modules among the main causes..
 
-Can latest UKR gains be used as basis for piece summit? Defenders can
-boast they are now negotiating from a "position of strength", RU has
-Donetsk, Luhansk, Crimea and a land bridge from Russia to both.. Maybe
-time to call this thing quits and turn on the gas tap. Or will the war
-continue throughout the winter?
-
----
-
-The Guardian: "Richard Stengel [Dem, formerly State Dept] criticized
-media coverage of the Queen’s death, saying on MSNBC that though Queen
-Elizabeth’s 'unrivaled service' should be lauded, she still presided
-over more than 30 countries as head of state and her family’s legacy
-of colonialism 'had a terrible effect on much of the world'"
-
----
-
-The Guardian: "Harvard University history professor Maya Jasanoff
-wrote in the New York Times that the Queen’s stoic presence in life as
-a 'fixture of stability' underlied a 'stolid traditionalist front over
-decades of violent upheaval'"
+In March, India launched an investigation over safety concerns after a
+string of e-scooter fires, including one in which a man and his
+daughter died when their e-bike 'went up in flames'".
 
 ---
 
-"@MukomaWaNgugi
-
-If the queen had apologized for slavery, colonialism and
-neocolonialism and urged the crown to offer reparations for the
-millions of lives taken in her/their names, then perhaps I would do
-the human thing and feel bad. As a Kenyan, I feel nothing. This
-theater is absurd"
+Bin Laden probably saw that and said "that's some gangsta shit".
+"Taking out my homeboi like that...? Imma git you muthafackas"
 
 ---
 
-One party leader spoke up for Assange, but he is considered the "town
-fool" by mainstream anyway, the issue was ignored.
+The royal fam is all about image. That's mostly the job. Their deep
+state had people killed for the image. Why is Diana dead? Past divorce
+you go off to marry an A-arab? And had a child on the way? Dam woman,
+what was you thinking? Disturbed the image. She dead.
 
 ---
 
-Prev talk on Australia becoming a Republic is now AWOL. Did it ever
-makes sense strategically? They need a relationship with a naval power
-cementing their connection to the outer alliance still being in
-CWealth would be helpful there.. If the mainstream could not say a
-word edgewise on Assange, why would they bother with a change into a
-Republic?
+There is one with Hayden Christensenssensensen - before Darth Vader
+he did bizarre psych triller, and troubled teen roles. Then he
+played the ultimate troubled teen.
 
 ---
 
-The RU gas dependency increased throughout Schroder and Merkel
-era.. Mutti was also keeping the easties in check when they freaked
-out on Russia. The strategy went ahead past 2008, 2014 .. Nordstream 2
-was shepherded through road blocks by CDU itself who now became rapid
-RU hawks. 
+How many movies were made with the title "Awake" exactly? I can't
+find the one I'm looking for
 
 ---
 
-Hands-on info is always helpful; before writing on H2 I did a little
-water splitting myself. Iron electrodes, wrong path gets you sodium
-chloride, [no-no](https://youtu.be/T-OwWOYHhMI?t=266), used graphite,
-it worked - produced H2.
+"@RepJayapal
+
+The Inflation Reduction Act is a major step that will make the largest
+investment in our country's history into climate action"
 
 ---
 
-CNBC: "The clean hydrogen energy economy was a dream. The climate bill
-could make it a reality this decade"
+H2 View: "‘Green ammonia is going to be the fossil-free crude of the
+hydrogen fuel economy’, Colin Hamilton, COO at Verano Energy"
 
 ---
 
-"Researchers Discover a Single Catalyst Capable of Splitting Both
-Freshwater and Seawater at Low Voltage..  [They] report using a nickel
-/ molybdenum / nitrogen compound, tweaked with a small amount of iron
-and grown on nickel foam to efficiently produce hydrogen and then,
-through a process of electrochemical reconstruction sparked by cycling
-voltage, converted to a compound that produced a similarly powerful
-oxygen evolution reaction.
-
-The researchers said using a single compound for both the hydrogen
-evolution reaction (HER) and the oxygen evolution reaction (OER) –
-albeit slightly changed through the reconstruction process – not only
-makes water splitting more affordable, it also simplifies the
-engineering challenges"
-
-[[-]](https://www.uh.edu/news-events/stories/2022-news-articles/september-2022/09082022-hydrogen-seawater.php)
+CNBC: "This Canadian company wants to build a train-plane ‘hybrid'
+that can go 620 miles per hour—take a look.. Toronto-based TransPod
+says FluxJet is "a hybrid between an aircraft and a train" that would
+be faster and cheaper to travel between cities than an airplane"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The First Land Rover Defender Equipped With a Hydrogen Fuel Cell System Is Now a Reality <a href="https://t.co/lm5AootobG">https://t.co/lm5AootobG</a></p>&mdash; Anil Gupta (@anil447_anil) <a href="https://twitter.com/anil447_anil/status/1568038786843688960?ref_src=twsrc%5Etfw">September 9, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+TDB: "The firebombing of Tokyo came at a time when America and the
+Allies were clearly winning the war and in no danger of having their
+homelands bombed. America had a variety of options for bringing the
+war against Japan to a close"
 
 ---
 
-KBR: "[Our] large-scale blue hydrogen process uses its proprietary
-KRES and well-proven SMR-based technology for expanding single-stream
-hydrogen capacity. Bulk of the CO2 generated in the process is
-captured as pure CO2, readily available for CO2 capture
-applications... Flue gas generation is about 50% lower than
-conventional processes.. CO2 recovery >95% of the total CO2 generated
-as process CO2 is feasible with minor energy penalty. This can
-eliminate requirement of post combustion CO2 capture plant - High
-CAPEX and OPEX savings"
+Politico: "70,000 or so Czechs who protested in Prague last weekend
+[were] calling for the resignation of the country’s center-right
+coalition. “The aim of our demonstration is to demand change, mainly
+in solving the issue of energy prices, especially electricity and gas,
+which will destroy our economy this autumn,” event co-organizer Jiri
+Havel told local media.
 
-[PDF](https://www.kbr.com/sites/default/files/2022-02/KBR-Blue-Hydrogen_Brochure.pdf)
+In response, whether wittingly or not, Czech Prime Minister Petr Fiala
+accused protesters of acting on behalf of the Kremlin"
 
 ---
 
-Yogurt.. dumb tigger nationalists are wrong on that one too
+CNBC: "Apple event this year had an unusually dark undertone as it
+leaned into emergency features for a dangerous world..
 
-[[-]](2020/04/turkist-narrative-anatolia.html#yogurt)
+The most significant new iPhone capability this year is called
+'Emergency SOS via satellite,' which can send a message for help even
+if there’s no cell service around for miles"
+
+---
+
+It is of course sad to lose readers
+
+---
+
+George Ellis: "Theoretical physics and cosmology find themselves in a
+strange place. Scientific theories have since the seventeenth century
+been held tight by an experimental leash. In the last twenty years or
+so, both string theory and theories of the multiverse have slipped the
+leash. Their owners argue that this is no time to bring these subjects
+to heel.
+
+It is this that is strange.
+
+Misery Loves Company
+
+The multiverse is a collection, set, or ensemble of possibly disjoint
+universes. They are possible because no one knows whether they
+exist. Max Tegmark has contemplated four different kinds of
+multiverse, and Brian Greene, nine. Nothing exceeds like excess"
+
+[[-]](https://inference-review.com/article/physics-on-edge)
 
 ---
 
