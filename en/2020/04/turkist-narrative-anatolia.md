@@ -127,7 +127,22 @@ matters little. However the War of Independence caused the two people
 to demonize eachother, now they also need the other to be what they
 are so they can tell themselves fairy tales about hordes coming in
 from wherever causing terror in the lands therefore one must be
-on guard to protect the Greek nation at all times. 
+on guard to protect the Greek nation at all times.
+
+<a name='islamoturkist'/>
+
+- After the 80 fascist coup the narrative was expanded to include
+Islam. But the Islamoturkist Synthesis was also strategically crafted
+to fit the needs of the US, Brits and the outer alliance in
+general. In the 80s Islamist Mujaheddin was fighting in Afghanistan
+against the Soviets, religion was needed now, it was back en vogue in
+Pakistand. However this new synthesis increased the internal conflicts
+of the Turkist narrative even further. Founder Kemal ignored religion,
+the Turk was a shaman, now it was back, along with Ottomans and its
+Khalif. Older Turks brought up by the old system continued to believe
+in the Turkishness without religion, new ones pushed and pulled it
+into bizarre new directions. 
+
 
 References
 

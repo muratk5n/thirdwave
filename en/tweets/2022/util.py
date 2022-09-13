@@ -25,12 +25,12 @@ def sm_two_plot_ukr_alt1(file1,file2):
     df[:, [1, 0]] = df[:, [0, 1]]
     sm.plot_line(df,color='green')
     
-def sm_plot_ukr_alt1(file,geo):
-    df = np.array(pd.read_csv('ukrdata/alt1-0828.csv',header=None))
+def sm_plot_ukr(file,geo):
+    df = np.array(pd.read_csv(file,header=None))
     df[:, [1, 0]] = df[:, [0, 1]]
     clat,clon=48, 37; zoom = 0.6
     sm.plot_countries(clat,clon,zoom,outcolor='lavenderblush')
-    sm.plot_region(df,color='red')
+    sm.plot_region(df,color='lightblue')
     eps = 0.1
     for i,(lat,lon) in enumerate(geo):
         plt.text(lon+eps,lat+eps,i+1)
