@@ -26,8 +26,8 @@ daughter died when their e-bike 'went up in flames'".
 
 ---
 
-Bin Laden probably saw that and said "that's some gangsta shit".
-"Taking out my homeboi like that...? Imma git you muthafackas"
+Bin Laden probably saw the whole thing and said "that's some gangsta
+shit".  "Taking out my homeboi like that...? Imma git you muthafackas"
 
 ---
 
