@@ -38,9 +38,9 @@ what was you thinking? Disturbed the image. She dead.
 
 ---
 
-There is one with Hayden Christensenssensensen - before Darth Vader
-he did bizarre psych triller, and troubled teen roles. Then he
-played the ultimate troubled teen.
+There is one with Hayden Christensenssensensen. Before Darth Vader he
+apparently did bizarre psych triller, and troubled teen roles. Then he
+landed the ultimate troubled teen role.
 
 ---
 
