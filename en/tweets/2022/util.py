@@ -13,28 +13,19 @@ import datetime, time as timelib
 import urllib.request as urllib2
 from io import BytesIO
 import pandas_ta as ta
-
-def sm_two_plot_ukr_alt1(file1,file2):
-    clat,clon=48, 37; zoom = 0.6
-    #sm.plot_countries(clat,clon,zoom,outcolor='lavenderblush')
-    #sm.plot_water(clat,clon,zoom)
-    df = np.array(pd.read_csv(file1,header=None))
-    df[:, [1, 0]] = df[:, [0, 1]]
-    sm.plot_line(df,color='red')
-    df = np.array(pd.read_csv(file2,header=None))
-    df[:, [1, 0]] = df[:, [0, 1]]
-    sm.plot_line(df,color='green')
     
-def sm_plot_ukr(file,geo):
+def sm_plot_ukr_alt1(file,geo):
     df = np.array(pd.read_csv(file,header=None))
     df[:, [1, 0]] = df[:, [0, 1]]
     clat,clon=48, 37; zoom = 0.6
     sm.plot_countries(clat,clon,zoom,outcolor='lavenderblush')
-    sm.plot_region(df,color='lightblue')
-    eps = 0.1
+    sm.plot_line(df,color='red')
+    df = np.array(pd.read_csv('ukrdata/donetsk.csv',header=None))
+    sm.plot_line(df,color='pink')
+    eps = -0.3
     for i,(lat,lon) in enumerate(geo):
         plt.text(lon+eps,lat+eps,i+1)
-        plt.plot(lon,lat,'gx')
+        plt.plot(lon,lat,'go')
     
 
 def bp_hydro_elec_perc(country):
