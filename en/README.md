@@ -7,10 +7,8 @@ Hydrogen Opportunities Ahead of COP27"
 
 ---
 
-I keep saying these lion batteries are dangerous. When they burn it is
-hell fire, firefighters cant put out the fires with regular
-methods. They throw water, the shit keeps on burning! The e-vehicles
-are fire hazard on wheels!
+These lion batteries are extremely dangerous. The wrong technology for
+the green transition by any measure. 
 
 Al Jazeera: "At least eight people have been killed and 11 injured in
 a fire that started at an electric scooter showroom in India, police
