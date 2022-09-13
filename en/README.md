@@ -33,7 +33,7 @@ shit".  "Taking out my homeboi like that...? Imma git you muthafackas"
 
 The royal fam is all about image. That's mostly the job. Their deep
 state had people killed for the image. Why is Diana dead? After the
-divorce you go off to marry an A-rab? With a child on the way? Dam
+divorce you go off to date an A-rab? With a child on the way? Dam
 woman, what was you thinking? Disturbed the image. She dead.
 
 ---
