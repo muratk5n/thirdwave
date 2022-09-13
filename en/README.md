@@ -33,7 +33,7 @@ Bin Laden probably saw that and said "that's some gangsta shit".
 
 The royal fam is all about image. That's mostly the job. Their deep
 state had people killed for the image. Why is Diana dead? After the
-divorce you go off to marry an A-arab? With a child on the way? Dam
+divorce you go off to marry an A-rab? With a child on the way? Dam
 woman, what was you thinking? Disturbed the image. She dead.
 
 ---
