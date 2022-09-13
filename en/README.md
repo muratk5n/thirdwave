@@ -62,9 +62,9 @@ hydrogen fuel economy’, Colin Hamilton, COO at Verano Energy"
 ---
 
 CNBC: "This Canadian company wants to build a train-plane ‘hybrid'
-that can go 620 miles per hour—take a look.. Toronto-based TransPod
-says FluxJet is "a hybrid between an aircraft and a train" that would
-be faster and cheaper to travel between cities than an airplane"
+that can go 620 miles per hour.. Toronto-based TransPod says FluxJet
+is "a hybrid between an aircraft and a train" that would be faster and
+cheaper to travel between cities than an airplane"
 
 ---
 
