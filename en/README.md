@@ -7,8 +7,8 @@ about Green Hydrogen Opportunities Ahead of COP27"
 
 ---
 
-These lion batteries are extremely dangerous. The wrong technology for
-the green transition by any measure. 
+Lion batteries... The wrong technology for the green transition by any
+measure.
 
 Al Jazeera: "At least eight people have been killed and 11 injured in
 a fire that started at an electric scooter showroom in India, police
