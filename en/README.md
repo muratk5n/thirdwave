@@ -2,8 +2,8 @@
 
 ---
 
-"Egyptian President Meets with Fortescue Future Industries about Green
-Hydrogen Opportunities Ahead of COP27"
+H2 View: "Egyptian President Meets with Fortescue Future Industries
+about Green Hydrogen Opportunities Ahead of COP27"
 
 ---
 
@@ -77,13 +77,12 @@ war against Japan to a close"
 
 Politico: "70,000 or so Czechs who protested in Prague last weekend
 [were] calling for the resignation of the country’s center-right
-coalition. “The aim of our demonstration is to demand change, mainly
+coalition. 'The aim of our demonstration is to demand change, mainly
 in solving the issue of energy prices, especially electricity and gas,
-which will destroy our economy this autumn,” event co-organizer Jiri
-Havel told local media.
-
-In response, whether wittingly or not, Czech Prime Minister Petr Fiala
-accused protesters of acting on behalf of the Kremlin"
+which will destroy our economy this autumn,' event co-organizer.. told
+local media. In response, whether wittingly or not, Czech Prime
+Minister Petr Fiala accused protesters of acting on behalf of the
+Kremlin"
 
 ---
 
