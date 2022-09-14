@@ -95,13 +95,6 @@ elaborate ceremony.
 
 ---
 
-The TR narrative was expanded in the 80s, turning into the abomination
-it is today, again partly for the benefit of the outer alliance
-
-[[-]](2020/04/turkist-narrative-anatolia.html#islamoturkist)
-
----
-
 "BayoTech, Inc. an innovator in hydrogen solutions, announced the
 Detroit region as the next location for the expansion of its
 distributed hydrogen network in partnership with the American Center
