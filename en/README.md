@@ -2,14 +2,6 @@
 
 ---
 
-RU has unbelivable advantages in the larger region; scanning the map
-at first you see this thin slice of a land seperate from Moldova, and
-wonder WTH is that? It is Transnistria, unrecognised breakaway state
-with Russkies on it. Now Russian advance can attempt to connect to
-that region.
-
----
-
 RU already has all of Luhansk, a portion of Donetsk (the pink area on
 the map). They are still advancing in Donetsk, there is shelling all
 across the east and southern front.
@@ -154,6 +146,14 @@ H2 Fuel News: "Werner Enterprises has announced that it has signed a
 letter of intent with Cummins for the purpose of securing delivery
 of... 15-liter H2 internal combustion engines that will be widely
 deployed"
+
+---
+
+RU has unbelivable advantages in the larger region around UKR;
+scanning the map at first you see this thin slice of a land seperate
+from Moldova, and wonder WTH is that? It is Transnistria, unrecognised
+breakaway state with Russkies on it. Now Russian advance can attempt
+to connect to that region.
 
 ---
 
