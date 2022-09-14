@@ -451,28 +451,6 @@ group, slipping through its defense"
 
 ---
 
-From now on assume shared code has `import util as u`
-
----
-
-It looks ok, will check later versions
-
----
-
-```python
-# pisky, kramatorsk
-geo = [(48.0623163, 37.67371341),(48.7309677, 37.5836740)]
-u.sm_plot_ukr_alt1('ukrdata/alt1-0828.csv',geo)
-```
-
-[[-]](https://pbs.twimg.com/media/FbUcWi8XkAASuzn?format=png&name=small)
-
----
-
-Some other dude DIY publishing UA-RU border data, as fighting continues
-
----
-
 This data is not curated, so likely not 100% reliable. I see a town
 called Pisky occuring a few times in the file, all of them seemingly
 under UA control... But latest news suggest RU has this town.
