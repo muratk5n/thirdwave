@@ -5,7 +5,7 @@
 RU has unbelivable advantages in the larger region; scanning the map
 at first you see this thin slice of a land seperate from Moldova, and
 wonder WTH is that? It is Transnistria, unrecognised breakaway state
-with Russkies on it. Now Russian advance and attempt to connect to
+with Russkies on it. Now Russian advance can attempt to connect to
 that region.
 
 ---
