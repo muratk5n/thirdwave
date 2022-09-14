@@ -26,8 +26,8 @@ Mr. Spastic"... 8-bit as in 80 home PCs? Retro.
 RU has unbelivable advantages in the larger region; scanning the map
 at first you see this thin slice of a land seperate from Moldova, and
 wonder WTH is that? It is Transnistria, unrecognised breakaway state
-with Russkies on it. What an advantage. Now Russian advance and
-attempt to connect to that region.
+with Russkies on it. Now Russian advance and attempt to connect to
+that region.
 
 ---
 
