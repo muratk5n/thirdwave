@@ -2,118 +2,192 @@
 
 ---
 
-H2 View: "Egyptian President Meets with Fortescue Future Industries
-about Green Hydrogen Opportunities Ahead of COP27"
+Dam people are crazy about that new programming language Julia
 
 ---
 
-Lion batteries... The wrong technology for the green transition by any
-measure.
+It is retro. Sounds like Commodore 64 music
 
-Al Jazeera: "At least eight people have been killed and 11 injured in
-a fire that started at an electric scooter showroom in India, police
-said, in what is the deadliest such incident involving electric
-vehicles in the country...
+Mr.Spastic - bad dream ( 8 Bit Music )
 
-A spate of electric scooter fires this year has alarmed the
-government.. Early investigations have identified faulty battery cells
-and battery modules among the main causes.. In March, India launched
-an investigation over safety concerns after a string of e-scooter
-fires, including one in which a man and his daughter died when their
-e-bike 'went up in flames'".
+[[-]](https://youtu.be/wvlug-Z1K1I)
 
 ---
 
-Bin Laden probably saw the whole thing and said "that's some gangsta
-shit".  "Taking out my homeboi like that...? Imma git you muthafackas"
+The same artist also makes "8-bit chipmusic under the name
+Mr. Spastic"... 8-bit as in 80 home PCs? Retro.
 
 ---
 
-The royal fam is all about image. That's mostly the job. Their deep
-state had people killed for the image. Why is Diana dead? After the
-divorce you go off to date an A-rab? With a child on the way? Dam
-woman, what was you thinking? Disturbed the image. She dead.
+"Ruff Bizness" - it's a electronica title not hip-hop
 
 ---
 
-There is one with Hayden Christensenssensensen. Before Darth Vader he
-apparently did bizarre psych thrillers, and troubled teen roles. Then
-he landed the troubled teen role of a lifetime.
+RU has unbelivable advantages in the larger region; scanning the map
+at first you see this thin slice of a land seperate from Moldova, and
+wonder WTH is that? It is Transnistria, unrecognised breakaway state
+with Russkies on it. What an advantage. Now Russian advance and
+attempt to connect to that region.
 
 ---
 
-How many movies were made with the title "Awake" exactly? I can't
-find the one I'm looking for
+RU already has all of Luhansk, a portion of Donetsk (the pink area on
+the map). They are still advancing in Donetsk, there is shelling all
+across the east and southern front.
+
+There is also activity in southwest, towards Odessa. From the attack
+patterns it looks like RU still intends to landlock Ukraine. 
 
 ---
 
-"@RepJayapal
+Latest frontline
 
-The Inflation Reduction Act is a major step that will make the largest
-investment in our country's history into climate action"
+```python
+# kramatorsk, kharkiv
+geo = [(48.7309677, 37.5836740),(49.992383834083824, 36.23871126844284)]
+u.sm_plot_ukr_alt1('ukrdata/alt1-0913.csv',geo)
+```
 
----
-
-H2 View: "‘Green ammonia is going to be the fossil-free crude of the
-hydrogen fuel economy’, Colin Hamilton, COO at Verano Energy"
-
----
-
-CNBC: "This Canadian company wants to build a train-plane ‘hybrid'
-that can go 620 miles per hour.. Toronto-based TransPod says FluxJet
-is 'a hybrid between an aircraft and a train' that would be faster and
-cheaper to travel between cities than an airplane"
+<img width="340" src="https://pbs.twimg.com/media/FckVndGXkAYUx-6?format=png&name=small"/>
 
 ---
 
-TDB: "The firebombing of Tokyo came at a time when America and the
-Allies were clearly winning the war and in no danger of having their
-homelands bombed. America had a variety of options for bringing the
-war against Japan to a close"
+"A few weeks like this and the European economy will just go into a
+full stop," [Belgian PM] told Bloomberg on Thursday. 'Recovering from
+that is going to be much more complicated than intervening in gas
+markets today. The risk of that is de-industrialization and severe
+risk of fundamental social unrest.'"
 
 ---
 
-Politico: "70,000 or so Czechs who protested in Prague last weekend
-[were] calling for the resignation of the country’s center-right
-coalition. 'The aim of our demonstration is to demand change, mainly
-in solving the issue of energy prices, especially electricity and gas,
-which will destroy our economy this autumn,' event co-organizer.. told
-local media. In response, whether wittingly or not, Czech Prime
-Minister Petr Fiala accused protesters of acting on behalf of the
-Kremlin"
+The assasination of Diana was probably race-related. Then Meghan
+Markle events were racism related.. For a country who "abolished
+racism early" they sure have a lot of that over there, especially at
+the top.
 
 ---
 
-CNBC: "Apple event this year had an unusually dark undertone as it
-leaned into emergency features for a dangerous world..
-
-The most significant new iPhone capability this year is called
-'Emergency SOS via satellite,' which can send a message for help even
-if there’s no cell service around for miles"
+There was the talk of a "Kherson annexation referandum" a while
+back. If it is pursued, and people there vote Ja on the Anschluss,
+then they automatically become Russian citizens, and massive
+mobilization to defend them could be in the offing.
 
 ---
 
-It is of course sad to lose readers
+I dont think Russia will leave what it considers crucial areas - the
+land bridge to Ukraine, areas in Donbas.
 
 ---
 
-George Ellis: "Theoretical physics and cosmology find themselves in a
-strange place. Scientific theories have since the seventeenth century
-been held tight by an experimental leash. In the last twenty years or
-so, both string theory and theories of the multiverse have slipped the
-leash. Their owners argue that this is no time to bring these subjects
-to heel.
+\#Davis \#RU \#UA
 
-It is this that is strange.
+[[-]](https://www.19fortyfive.com/2022/09/the-war-in-ukraine-isnt-over-by-a-long-shot/)
 
-Misery Loves Company
+---
 
-The multiverse is a collection, set, or ensemble of possibly disjoint
-universes. They are possible because no one knows whether they
-exist. Max Tegmark has contemplated four different kinds of
-multiverse, and Brian Greene, nine. Nothing exceeds like excess"
+The biggest downside of the royalty is they cement certain type of
+Britain. After Brexit they asked Liz II 'what will happen to us now'?
+She was like "well I'm still here". Royals have certain legitimacy
+(perhaps Europe's institution were also a danger to that legitimacy)
+so their very presence might lulled people thinking all is fine. Get
+rid of Europe, who cares, we have an old lady who feeds ducks in an
+elaborate ceremony.
 
-[[-]](https://inference-review.com/article/physics-on-edge)
+---
+
+The TR narrative was expanded in the 80s, turning into the abomination
+it is today, again partly for the benefit of the outer alliance
+
+[[-]](2020/04/turkist-narrative-anatolia.html#islamoturkist)
+
+---
+
+"BayoTech, Inc. an innovator in hydrogen solutions, announced the
+Detroit region as the next location for the expansion of its
+distributed hydrogen network in partnership with the American Center
+for Mobility. ACM’s 500-acre site in Ypsilanti Township will be home
+to a BayoGaaS™ Hydrogen Hub, producing 350 tonnes per year of
+low-carbon hydrogen.. 'The infrastructure going into ACM will not only
+support users of our facility but the needs for low-carbon hydrogen in
+the region' [says CEO]"
+
+---
+
+"Britain's friends" are all connected.. One makes a gain, the other is
+encouraged. Azeri prez's father came to power thanks to a "BP coup",
+as in British Petroleum. The son plays all sides but Brits still roam
+about and stir shit up.
+
+Reuters: "In a speech to Armenia's parliament, Pashinyan said Baku had
+attacked Armenia's positions overnight"
+
+---
+
+Asia Minor just started talking about such upgrades, and still no
+agreement. Homie had gotten kicked out of the F-35 program, haven't
+secured anything from Russkie as of yet either.
+
+"Greece receives first upgraded F-16s.. (DoD) awarded.. the contract
+to perform the upgrade work in December 2018"
+
+---
+
+Al Monitor: "Egypt enlists Australian company to help develop green
+hydrogen project.. Green hydrogen is receiving more attention in Egypt
+ahead of the upcoming UN climate change conference in Sharm el-Sheikh"
+
+---
+
+Oh no.. she was just a sweet old lady
+
+The Guardian: "Queen’s death intensifies criticism of British empire’s
+violent atrocities.. American commentators, academics and others are
+calling into reconsideration of monarchy’s lasting influences"
+
+---
+
+Wah wah wah waaah
+
+<img width="340" src="https://pbs.twimg.com/media/Fcm4eJyWAAEUOqm?format=png&name=small"/>
+
+---
+
+Now that ppl got the message rate increases are here to stay, the
+market tanked. Whatz gon happen to the poor sucka who bought in
+thinking you always "buy the dip"? He dead.
+
+---
+
+That is the raw CPI compared to previous month. 
+
+CNBC: "The consumer price index increased 0.1% in August."
+
+---
+
+Some decrease in inflation (calculated from CPI YoY), but still high
+
+```
+2022-06-01  9.059758
+2022-07-01  8.524815
+2022-08-01  8.262693
+```
+
+---
+
+H2 Fuel News: "Werner Enterprises has announced that it has signed a
+letter of intent with Cummins for the purpose of securing delivery
+of... 15-liter H2 internal combustion engines that will be widely
+deployed"
+
+---
+
+H2 Central: "South Korean shipbuilders accelerate development of
+hydrogen fuel cell ships"
+
+---
+
+H2 Central: "Rheinmetall Wins Another New Multimillion Euro Order for
+Fuel Cell Components"
 
 ---
 
