@@ -2,27 +2,6 @@
 
 ---
 
-Dam people are crazy about that new programming language Julia
-
----
-
-It is retro. Sounds like Commodore 64 music
-
-Mr.Spastic - bad dream ( 8 Bit Music )
-
-[[-]](https://youtu.be/wvlug-Z1K1I)
-
----
-
-The same artist also makes "8-bit chipmusic under the name
-Mr. Spastic"... 8-bit as in 80 home PCs? Retro.
-
----
-
-"Ruff Bizness" - it's a electronica title not hip-hop
-
----
-
 RU has unbelivable advantages in the larger region; scanning the map
 at first you see this thin slice of a land seperate from Moldova, and
 wonder WTH is that? It is Transnistria, unrecognised breakaway state
@@ -113,6 +92,10 @@ about and stir shit up.
 
 Reuters: "In a speech to Armenia's parliament, Pashinyan said Baku had
 attacked Armenia's positions overnight"
+
+---
+
+Dam people are crazy about that new programming language Julia
 
 ---
 
