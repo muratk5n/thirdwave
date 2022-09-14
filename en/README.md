@@ -2,7 +2,7 @@
 
 ---
 
-RU already has all of Luhansk, a portion of Donetsk (the pink area on
+RU already has all of Luhansk, a portion of Donetsk (the pink lines on
 the map). They are still advancing in Donetsk, there is shelling all
 across the east and southern front.
 
