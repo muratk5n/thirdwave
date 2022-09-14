@@ -33,7 +33,7 @@ risk of fundamental social unrest.'"
 
 The assasination of Diana was probably race-related. Then Meghan
 Markle events were racism related.. For a country who "abolished
-racism early" they sure have a lot of that over there, especially at
+slavery early" they sure have a lot of that over there, especially at
 the top.
 
 ---
