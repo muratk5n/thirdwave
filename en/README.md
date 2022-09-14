@@ -62,7 +62,7 @@ She was like "well I'm still here". Royals have certain legitimacy
 (perhaps Europe's institution were also a danger to that legitimacy)
 so their very presence might lulled people thinking all is fine. Get
 rid of Europe, who cares, we have an old lady who feeds ducks in an
-elaborate ceremony.
+elaborate ceremony once in a while.
 
 ---
 
