@@ -121,7 +121,7 @@ Wah wah wah waaah
 ---
 
 Now that ppl got the message rate increases are here to stay, the
-market tanked. Whatz gon happen to the poor sucka who bought in
+market tanked. But whatz gon happen to the poor sucka who bought in
 thinking you always "buy the dip"? He dead.
 
 ---
