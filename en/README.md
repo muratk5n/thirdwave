@@ -23,8 +23,8 @@ u.sm_plot_ukr_alt1('ukrdata/alt1-0913.csv',geo)
 
 ---
 
-"A few weeks like this and the European economy will just go into a
-full stop," [Belgian PM] told Bloomberg on Thursday. 'Recovering from
+"'A few weeks like this and the European economy will just go into a
+full stop,' [Belgian PM] told Bloomberg on Thursday. 'Recovering from
 that is going to be much more complicated than intervening in gas
 markets today. The risk of that is de-industrialization and severe
 risk of fundamental social unrest.'"
