@@ -25,6 +25,8 @@ million years ago. Our reptilian brains program us for two major
 things: survival and reproduction [.. Rapaille's famous quote here is
 'the reptilian always wins'].
 
+<a name='imprint'/>
+
 [At an emotional level] The Culture Code is the unconscious meaning we
 apply to any given thing a car, a type of food, a relationship, even a
 country via the culture in which we are raised [..] it all comes down
@@ -33,12 +35,9 @@ cultures are different from one another. What most people don't
 realize, however, is that these differences actually lead to our
 processing the same information in different ways [..]. The
 combination of [an] experience and its accompanying emotion creates
-something known widely as an imprint, a term first applied by Konrad
-Lorenz. Once an imprint occurs, it strongly conditions our thought
-processes and shapes our future actions. Each imprint helps make us
-more of who we are. The combination of imprints defines us. An imprint
-and its Code are like a lock and its combination. If you have all o of
-the right numbers in the right sequence, you can open the lock [..]
+something known widely as an imprint..  Once an imprint occurs, it
+strongly conditions our thought processes and shapes our future
+actions. Each imprint helps make us more of who we are [..]
 
 Most of us imprint the meanings of the things most central to our
 lives by the age of seven. This is because emotion is the central
