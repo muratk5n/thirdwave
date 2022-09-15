@@ -13,10 +13,6 @@ create equally significant policy? I don't think so.
 
 ---
 
-In the weeds of policy 
-
----
-
 Hydrogen Europe: "Following the plenary vote on the Renewable Energy
 Directive II (REDII), Hydrogen Europe wholeheartedly welcomes the
 historical European Parliament (EP) decision to commit to ambitious
