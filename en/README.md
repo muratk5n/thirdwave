@@ -135,9 +135,8 @@ into a culture that is only 10% of that. They will never be 100% Irish.
 
 ---
 
-Immigrants contribute to culture formation in proporton to their
-size... 10% of United States is of Irish descent, that probably made
-them 10% Irish in culture.
+Immigrants contribute to culture prop to their size... 10% of United
+States is of Irish desc, that makes them 10% Irish in culture.
 
 ---
 
