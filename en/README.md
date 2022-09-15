@@ -112,7 +112,7 @@ Europe needs a pay rise!"
 
 ---
 
-*Deus*, wonderful, wonderful scifi movie. Recognized Claudia Black from
+*Deus*, wonderful, wonderful scifi movie, starring Claudia Black from
 *Farscape*.
 
 ---
