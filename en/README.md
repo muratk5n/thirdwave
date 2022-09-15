@@ -35,10 +35,13 @@ and avoiding excessive constraints on a nascent market"
 
 ---
 
-Texas gov sent immigrants by bus, he is now outdone. They are not
-jailing, absusing people, they are just like, to other states, "here
-you take'em". "Want open borders? Now that border extends to your
-state"
+They are not jailing, absusing people, they are just like, to other
+states, "here you take'em". "Want open borders? Now that border
+extends to your state"
+
+---
+
+Texas gov sent immigrants by bus, he is now outdone. 
 
 Axios: "Ron DeSantis sends two planes of undocumented migrants to
 Martha’s Vineyard"
