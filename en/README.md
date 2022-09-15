@@ -35,7 +35,7 @@ and avoiding excessive constraints on a nascent market"
 
 ---
 
-They are not jailing, absusing people, they are just like, to other
+They are not jailing, abusing people, they are just like, to other
 states, "here you take'em". "Want open borders? Now that border
 extends to your state"
 
