@@ -57,7 +57,7 @@ right-wing, anti-immigrant bloc"
 
 ---
 
-For the Py interface had to go to sources, run `configure` and `make`.
+For the py interface had to go to sources, run `configure` and `make`.
 Do people still know how to do that, or do you go to TikTok and
 just dance about it?
 
