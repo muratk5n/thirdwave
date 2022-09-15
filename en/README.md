@@ -112,7 +112,7 @@ Europe needs a pay rise!"
 
 A lot of the black cultural artifacts have Southern flavor (ie
 American), repackaged. The showy parts were created so mainstream
-could play Dances with Wolves with it. It is hilarious I refer to it
+could play Dances with Wolves with it. It is hilarious I refer to them
 but may not be beneficial for its supposed owners.
 
 ---
