@@ -117,8 +117,14 @@ Europe needs a pay rise!"
 
 ---
 
-A Hispanic kid born into the culture, same way.. Everyone gets
-culture, by merely being in it.
+A lot of the "black" cultural artifacts are Southern culture (which is
+American), repackaged. The showy parts were created so mainstream
+could play Dances with Wolves with it.
+
+---
+
+A black kid born into the culture, same way.. Everyone gets culture,
+by merely being in it.
 
 ---
 
