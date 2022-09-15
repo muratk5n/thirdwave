@@ -46,7 +46,7 @@ mobilization to defend them could be in the offing.
 ---
 
 I dont think Russia will leave what it considers crucial areas - the
-land bridge to Ukraine, areas in Donbas.
+land bridge to Crimea, areas in Donbas.
 
 ---
 
