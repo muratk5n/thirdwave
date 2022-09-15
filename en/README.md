@@ -85,7 +85,7 @@ Cell Bus, GOLDiON H18"
 
 ---
 
-Two degree of seperation from the lithium boy [e-jagoff](https://pbs.twimg.com/media/EgPe-HTWkAAKbbl?format=jpg&name=small)
+Two degrees of seperation from the lithium boy [e-jagoff](https://pbs.twimg.com/media/EgPe-HTWkAAKbbl?format=jpg&name=small)
 
 ---
 
