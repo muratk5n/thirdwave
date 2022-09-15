@@ -88,7 +88,7 @@ Two degrees of seperation from the lithium boy [e-jagoff](https://pbs.twimg.com/
 
 ---
 
-That's the pedo guy FYI
+That's the pedo guy fyi
 
 "@PoliticsJOE_UK
 
