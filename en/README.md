@@ -106,8 +106,8 @@ Europe needs a pay rise!"
 
 ---
 
-*Deus*, wonderful, wonderful movie. Claudia Black looks bit aged,
-still can carry a scifi prod.
+*Deus*, wonderful, wonderful scifi movie. Recognized Claudia Black from
+*Farscape*.
 
 ---
 
