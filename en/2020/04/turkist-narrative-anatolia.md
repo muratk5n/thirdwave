@@ -136,12 +136,14 @@ Islam. But the Islamoturkist Synthesis was also strategically crafted
 to fit the needs of the US, Brits and the outer alliance in
 general. In the 80s Islamist Mujaheddin was fighting in Afghanistan
 against the Soviets, religion was needed now, it was back en vogue in
-Pakistand. However this new synthesis increased the internal conflicts
-of the Turkist narrative even further. Founder Kemal ignored religion,
-the Turk was a shaman, now it was back, along with Ottomans and its
-Khalif. Older Turks brought up by the old system continued to believe
-in the Turkishness without religion, new ones pushed and pulled it
-into bizarre new directions. 
+Pakistan as well. However this synthesis increased the internal
+inconsistencies of the Turkist narrative even further. What Founder
+Kemal ignored was back, according to earlier story the Turk was a
+shaman, now a bizarre combo, soup was being on display. Ottomans were
+now good along with its Khalif. The reception of the synthesis was
+lukewarm, older Anatolians brought up by the old system continued to
+believe in it, new ones pushed and pulled it into bizarre new
+directions. 
 
 
 References
