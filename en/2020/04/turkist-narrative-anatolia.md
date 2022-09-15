@@ -154,7 +154,6 @@ References
 
 [2] [Turkish Population Structure and Genetic Ancestry](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4904778/)
 
-[3]
-[Trahana](https://greekcitytimes.com/2022/08/05/traditional-trahana-recipe)
+[3] [Trahana](https://greekcitytimes.com/2022/08/05/traditional-trahana-recipe)
 
 [4] [National Narratives, Migrations, Anatolia](../../2020/07/migrations-anatolia.html)
