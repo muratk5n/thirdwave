@@ -140,10 +140,12 @@ vogue in Pakistan, and neighboring countries as well. However this
 synthesis increased the internal inconsistencies of the Turkist
 narrative even further. What Founder Kemal ignored was back, according
 to earlier story the Turk was a shaman, now a bizarre combo, soup was
-being on display. Ottomans were now good along with its Khalif. The
-reception of the synthesis was lukewarm, older Anatolians brought up
-by the old system continued to believe in it, new ones pushed and
-pulled it into bizarre new directions.
+being offered. Expansionist Ottomans were now good along with its
+Khalif, in opposition to non-expansionist secular Republic. The
+reception of the synthesis was lukewarm, older city Anatolians brought
+up by the old system continued to believe in it, new ones pushed and
+pulled it into bizarre new directions, making it into everything,
+which means the narrative means nothing.
 
 
 References
