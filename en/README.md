@@ -2,168 +2,136 @@
 
 ---
 
-RU already has all of Luhansk, a portion of Donetsk (the pink lines on
-the map). They are still advancing in Donetsk, there is shelling all
-across the east and southern front.
+"@AcademicChatter
 
-There is also activity in southwest, towards Odessa. From the attack
-patterns it looks like RU still intends to landlock Ukraine. 
+My favorite part of writing is rearranging my house."
 
 ---
 
-Latest frontline
-
-```python
-# kramatorsk, kharkiv
-geo = [(48.7309677, 37.5836740),(49.992383834083824, 36.23871126844284)]
-u.sm_plot_ukr_alt1('ukrdata/alt1-0913.csv',geo)
-```
-
-<img width="340" src="https://pbs.twimg.com/media/FckVndGXkAYUx-6?format=png&name=small"/>
+Note the policy-fu.. Could we "poll bunch of people" on the street and
+create equally significant policy? I don't think so.
 
 ---
 
-"'A few weeks like this and the European economy will just go into a
-full stop,' [Belgian PM] told Bloomberg on Thursday. 'Recovering from
-that is going to be much more complicated than intervening in gas
-markets today. The risk of that is de-industrialization and severe
-risk of fundamental social unrest.'"
+In the weeds of policy 
 
 ---
 
-The assasination of Diana was probably race-related. Then Meghan
-Markle events were racism related.. For a country who "abolished
-slavery early" they sure have a lot of that over there, especially at
-the top.
+Hydrogen Europe: "Following the plenary vote on the Renewable Energy
+Directive II (REDII), Hydrogen Europe wholeheartedly welcomes the
+historical European Parliament (EP) decision to commit to ambitious
+binding renewable targets and to simplify the regulatory framework...
+
+Further good news from the parliament today is the return of the
+additionality principle to legal regulation, rather than delegating
+this to the European Commission via the Delegated Act of RED II. This
+will ease the implementation of the additionality principle for
+renewable hydrogen. MEPs have listened to the sector’s concerns that
+overly strict regulations would hinder the development of this crucial
+market. Hydrogen Europe fully recognises the importance, and supports,
+the principle of additionality but has expressed concerns regarding
+the practical implementation of the proposed criteria, not the
+principle itself. The task at hand is to find a balance between
+ensuring green hydrogen is produced from new renewable energy capacity
+and avoiding excessive constraints on a nascent market"
+
+[[-]](https://hydrogeneurope.eu/historical-day-for-green-hydrogen/)
 
 ---
 
-There was the talk of a "Kherson annexation referandum" a while
-back. If it is pursued, and people there vote Ja on the Anschluss,
-then they automatically become Russian citizens, and massive
-mobilization to defend them could be in the offing.
+Texas gov sent immigrants by bus, he is now outdone. They are not
+jailing, absusing people, they are just like, to other states, "here
+you take'em". "Want open borders? Now that border extends to your
+state"
+
+Axios: "Ron DeSantis sends two planes of undocumented migrants to
+Martha’s Vineyard"
 
 ---
 
-I dont think Russia will leave what it considers crucial areas - the
-land bridge to Crimea, areas in Donbas.
+The Independent: "Sweden’s first female PM concedes defeat to
+right-wing, anti-immigrant bloc"
 
 ---
 
-\#Davis \#RU \#UA
-
-[[-]](https://www.19fortyfive.com/2022/09/the-war-in-ukraine-isnt-over-by-a-long-shot/)
+[Link](https://drive.google.com/uc?export=view&id=12dVWdh13-tiELrxaRxKotHNeRNL3eLhi)
 
 ---
 
-The biggest downside of the royalty is they cement certain type of
-Britain. After Brexit they asked Liz II 'what will happen to us now'?
-She was like "well I'm still here". Royals have certain legitimacy
-(perhaps Europe's institution were also a danger to that legitimacy)
-so their very presence might lulled people thinking all is fine. Get
-rid of Europe, who cares, we have an old lady who feeds ducks in an
-elaborate ceremony once in a while.
+For the Py interface had to go to sources, run `configure` and `make`.
+Do people still know how to do that, or do you go to TikTok and
+just dance about it?
 
 ---
 
-"BayoTech, Inc. an innovator in hydrogen solutions, announced the
-Detroit region as the next location for the expansion of its
-distributed hydrogen network in partnership with the American Center
-for Mobility. ACM’s 500-acre site in Ypsilanti Township will be home
-to a BayoGaaS™ Hydrogen Hub, producing 350 tonnes per year of
-low-carbon hydrogen.. 'The infrastructure going into ACM will not only
-support users of our facility but the needs for low-carbon hydrogen in
-the region' [says CEO]"
+Book search desktop UI can collect dust.
 
 ---
 
-"Britain's friends" are all connected.. One makes a gain, the other is
-encouraged. Azeri prez's father came to power thanks to a "BP coup",
-as in British Petroleum. The son plays all sides but Brits still roam
-about and stir shit up.
-
-Reuters: "In a speech to Armenia's parliament, Pashinyan said Baku had
-attacked Armenia's positions overnight"
+Web interface a-ok..  Now serving 20 GB of book content based on 1 GB
+index; on a tiny Raspberry Pi.. How about that? 🐍
 
 ---
 
-Dam people are crazy about that new programming language Julia
+Some good things do happen in UK no doubt
+
+H2 Fuel News: "Current Pipeline of Blue Hydrogen Projects Projected to
+Exceed 2030 Targets in The UK"
 
 ---
 
-Asia Minor just started talking about such upgrades, and still no
-agreement. Homie had gotten kicked out of the F-35 program, haven't
-secured anything from Russkie as of yet either.
-
-"Greece receives first upgraded F-16s.. (DoD) awarded.. the contract
-to perform the upgrade work in December 2018"
+H2 Central: "GOLDI Mobility Kft Unveils its 18-Metre Articulated Fuel
+Cell Bus, GOLDiON H18"
 
 ---
 
-Al Monitor: "Egypt enlists Australian company to help develop green
-hydrogen project.. Green hydrogen is receiving more attention in Egypt
-ahead of the upcoming UN climate change conference in Sharm el-Sheikh"
+Two degree of seperation from the lithium boy [e-jagoff](https://pbs.twimg.com/media/EgPe-HTWkAAKbbl?format=jpg&name=small)
 
 ---
 
-Oh no.. she was just a sweet old lady
+That's the pedo guy FYI
 
-The Guardian: "Queen’s death intensifies criticism of British empire’s
-violent atrocities.. American commentators, academics and others are
-calling into reconsideration of monarchy’s lasting influences"
+"@PoliticsJOE_UK
 
----
-
-Wah wah wah waaah
-
-<img width="340" src="https://pbs.twimg.com/media/Fcm4eJyWAAEUOqm?format=png&name=small"/>
+The Duke of York will be a Counsellor of State for the new king"
 
 ---
 
-Now that ppl got the message rate increases are here to stay, the
-market tanked. But whatz gon happen to the poor sucka who bought in
-thinking you always "buy the dip"? He dead.
+"@etuc_ces
+
+The European Parliament has voted to adopt the directive on adequate
+minimum wages and stronger collective bargaining.. This victory for
+the trade union movement couldn't come at a more important moment -
+Europe needs a pay rise!"
 
 ---
 
-That is the raw CPI compared to previous month. 
-
-CNBC: "The consumer price index increased 0.1% in August."
-
----
-
-Some decrease in inflation (calculated from CPI YoY), but still high
-
-```
-2022-06-01  9.059758
-2022-07-01  8.524815
-2022-08-01  8.262693
-```
+*Deus*, wonderful, wonderful movie. Claudia Black looks bit aged
+but can still carry a scifi work.
 
 ---
 
-H2 Fuel News: "Werner Enterprises has announced that it has signed a
-letter of intent with Cummins for the purpose of securing delivery
-of... 15-liter H2 internal combustion engines that will be widely
-deployed"
+That means first, second generation "Irish" doesn't become 100% of
+what their ancestors were, they [assimilate](2014/06/the-culture-code.html#imprint),
+into a culture that is only 10% of that. They will never be 100% Irish. 
 
 ---
 
-RU has unbelivable advantages in the larger region around UKR;
-scanning the map at first you see this thin slice of a land seperate
-from Moldova, and wonder WTH is that? It is Transnistria, unrecognised
-breakaway state with Russkies on it. Now Russian advance can attempt
-to connect to that region.
+Immigrants contribute to culture formation in proporton to their
+size... 10% of United States is of Irish descent, that probably made
+them 10% Irish in culture.
 
 ---
 
-H2 Central: "South Korean shipbuilders accelerate development of
-hydrogen fuel cell ships"
+Found python interface to `recoll`, writing a Flask web based search
+utility now
 
 ---
 
-H2 Central: "Rheinmetall Wins Another New Multimillion Euro Order for
-Fuel Cell Components"
+The TR narrative was expanded in the 80s, turning into the abomination
+it is today, again partly for the benefit of the outer alliance
+
+[[-]](2020/04/turkist-narrative-anatolia.html#islamoturkist)
 
 ---
 
