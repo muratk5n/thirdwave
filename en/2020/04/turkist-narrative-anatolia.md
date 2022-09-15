@@ -145,7 +145,8 @@ Khalif, in opposition to non-expansionist secular Republic. The
 reception of the synthesis was lukewarm, older city Anatolians brought
 up by the old system continued to believe in it, new ones pushed and
 pulled it into bizarre new directions, making it into everything,
-which implies the narrative means nothing.
+which implies previously already defective narrative now also means
+nothing.
 
 
 References
