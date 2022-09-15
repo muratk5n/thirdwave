@@ -117,6 +117,11 @@ Europe needs a pay rise!"
 
 ---
 
+A Hispanic kid born into the culture, same way.. Everyone gets
+culture, by merely being in it.
+
+---
+
 That means first, second generation "Irish" doesn't become 100% of
 what their ancestors were, they [assimilate](2014/06/the-culture-code.html#imprint),
 into a culture that is only 10% of that. They will never be 100% Irish. 
