@@ -1,5 +1,98 @@
 # Hafta 4
 
+---
+
+Anan Yahşi, Baban Yahşi
+
+Ilkokul'daki pek cok ogrenciye 70/80 yillarinda bu monolog verilmis
+herhalde, ben de onun sahnede canlandirmistim. Stand-up havasi var
+metinde.
+
+Geçenlerde bizim akıl doktorunu ziyarete gittim. Bir ara:
+
+Sana bir fıkra anlatayım ! dedi . Delinin biri öbürüne sormuş:"Neden
+anafor var da babafor yok?"
+
+Eve geldim . Aklımdan hep anaforla babafor ve babafingo ile anafingo
+!... Bir de delilik bulaşıcı hastalıklardan değildir derler
+. İnanmayın! İnsanın başına bir saçma musallat olmasın, bal gibi
+saçmalamaya başlıyor .
+
+Zaten delirmek kolay , ama saçma bulmak zormuş . Hamdolsun , ben onun
+zorluğunu da çekmedim . Önce nelerin anası var da babası yok. Onu
+düşünmeye başladım :
+
+Anadolu var babadolu yok-Anafarta var babafarta yok-Anamur var babamur
+yok-Anneanne var babababa yok-Anavatan var babavatan yok-Anadili var
+babadili yok-Anasütü var babasütü yok-Haydi , buna elbette olmaz
+diyeceksiniz . Ana caddeye ne buyrulur?... Ana cadde var da baba cadde
+yok!...Yalnız o değil, ana hat var baba hat yok . Anayasa var babayasa
+yok. Ana kuzusu deriz de baba kuzusu demeyiz . Anam ağladı deriz de
+babam ağladı demeyiz . Bir şeye şaştığımız zaman vay anasını deriz de
+nedense vay babasını demek aklımızdan bile geçmez . Meğer dünya analar
+dünyasıymış . Bu ne saltanat?...
+
+Faize yatırılan paraya bile anapara diyorlar. Keskin zekasıyla göze
+çarpa kimselere de anasının gözü derler . Fakat kimse babasının gözü
+demez!!!
+
+Anasından doğduğuna pişman , anasından emdiği süt burnundan gelmiş
+…. Görüyor musunuz hep ana hep ana!!... Evlenecek kimselere bile öğüt
+şöyle:Anasına bak kızını al ,kenarına bak bezini al!
+
+El oğlu ne acayip?!.. Bir güzel yemek görünce vay anam vay biye
+feryadı basar. Fakat , ancak hayret ettiği zamanlarda vay babam vay
+der!!..
+
+Babalar çocuk doğurmadığı için anadan doğma deyimi yanında bir de
+babadan doğma deyimi bulunmayışını haydi hoş görelim . Donanmada ana
+gemi bulunup da baba gemi bulunmayışına ne dersiniz . Bizim emekli
+Yavuz’a baba gemi lakabı yakışmaz mıydı?
+
+Zaten haksızlık bu kadarla bitmiyor. Masallarda bile dev anası var,
+fakat dev babası yoktur. Hıristiyanların bile Meryem anası var , fakat
+Meryem babası yok.
+
+Düşündükçe insan çileden çıkıyor : Anason var babason yok, Ananas var
+babanas yok . Analiz var babaliz yok. Anatomi var babatomi
+yok. Anahtar var babahtar yok . Anarşi var babarşi yok . Ee..h!.. Bu
+doktor bana zorla keçileri kaçırtacak! Kimin anası var babası yok
+onunla mı uğraşacağım? Aklımdan anaları atmaya çalıştım . Gelgelelim
+bu kez de babalar hücuma geçti . Babaeski var anaeski yok. Babacan var
+anacan yok . Babayiğit var anayiğit yok. Baba inciri var ana inciri
+yok . Vapur iskelelerinin bile babası var anansı yok!..
+
+Bunlar aklıma geldikçe ferahladım . Analardan öç alıyordum .Artık
+analara karşı epeyce bir zafer kazanmıştım . Topuna birden .Oldukça
+kuvvetli bir kriz geçirmiştim. Doktoru çağırmışlar. Vay babam vay, vay
+babam vay . Bu doktor babasının hayrına gelmez !.. Vay dokuz babalı
+herif vay . Ev derseniz ana baba günü . Yahu ne üstüme
+varıyorsunuz. Ben de ana baba evladıyım . Ah rahmetli babaannem olsa
+şimdi beni kucağına alır, masal anlatırdı . Doktor durumu
+sordu:Hiç!.. dedim. Ana baba sorunu. Ne olmuş ana babaya?..
+
+Kiminin anası var babası yok; kiminin de babası var anası yok .Doktor
+çok tuhaf bir adam Acılarımı anlamamış gibi güldü:Aldırma dedi. Anasız
+babasız değilsin . Uzatmayalım bütün ev halkı doktorla ağız birliği
+edip; Rahatsızsın biraz dinlenmen lazım !
+
+Diye tutturdular. Önce kabul etmedim . Gitmem ben deli değilim
+tımarhaneye gitmem! Diye bar bar bağırdım . Ama çok yalvardılar . Anan
+yahşi, baban yahşi diye zorla kandırdılar .Geldik işte!...
+
+---
+
+İlkokulda bir temsil yapmıştım, canlı seyirci önünde, bir komedi
+rutini gibiydi, aklımda kalan tek bölüm "Anadolu var Babadolu yok,
+Anayasa var, Babayasa yok" kısmı.. İnsanların güldüğünü hatırlıyorum,
+şimdi anlıyorum bu bir stand-up performansı gibiydi. Daha da sonra
+aklıma takıldı, büyük bir ihtimalle "merkezden kontrollü" bir metindi
+bu, bizim sınıf öğretmeni bunu metni bana vermişti, İnternet'te
+arayınca hakikaten böyle olduğu anlaşıldı.. Diğer pek çok çocuk aynı
+metni seslendirmiş! Ustte gorulebilir.
+
+---
+
 Anonim
 
 [Bir televizyon programinda] Abdulhamit aslinda meclisi kapatmadi,
