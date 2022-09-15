@@ -97,6 +97,12 @@ The Duke of York will be a Counsellor of State for the new king"
 
 ---
 
+Propellerheads - History Repeating [A. Length Mix] \#music
+
+[[-]](https://youtu.be/-flDM7OrCF8)
+
+---
+
 "@etuc_ces
 
 The European Parliament has voted to adopt the directive on adequate
@@ -108,12 +114,6 @@ Europe needs a pay rise!"
 
 *Deus*, wonderful, wonderful scifi movie. Recognized Claudia Black from
 *Farscape*.
-
----
-
-Propellerheads - History Repeating [A. Length Mix] \#music
-
-[[-]](https://youtu.be/-flDM7OrCF8)
 
 ---
 
