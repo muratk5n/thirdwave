@@ -117,9 +117,10 @@ Europe needs a pay rise!"
 
 ---
 
-A lot of the "black" cultural artifacts are Southern culture (which is
+A lot of the "black" cultural artifacts are Southern culture (ie
 American), repackaged. The showy parts were created so mainstream
-could play Dances with Wolves with it.
+could play Dances with Wolves with it. It is hilarious I refer to it
+but may not be beneficial for its supposed owners.
 
 ---
 
