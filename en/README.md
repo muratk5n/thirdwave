@@ -20,7 +20,7 @@ Is it an accurate term? South Africa thinks so. Do you know better than them?
 
 Haha they used the hastag \#CaptainApartheid
 
-NYT: "Marvel Attracts Criticism With Israeli “Captain America” Superhero"
+NYT: "Marvel Attracts Criticism With Israeli 'Captain America' Superhero"
 
 ---
 
