@@ -103,8 +103,8 @@ Several other senior Russian businessmen and their families have also
 been found dead amid unclear circumstances since Russia started its
 full-scale aggression against Ukraine.
 
-On February 8, KVRD Director General Igor Nosov died at the age of
-43. The death was officially announced as caused by a stroke"
+On February 8, KVRD Director General Igor Nosov died at the age of 43.
+The death was officially announced as caused by a stroke"
 
 ---
 
