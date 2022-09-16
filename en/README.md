@@ -117,20 +117,6 @@ The death was officially announced as caused by a stroke"
 
 ---
 
-RAND denied it but you never know.. 
-
-"Swedish newspaper published leaked U.S. secret plan to destroy German
-economy.. Swedish Nya Dagbladet published what appears to be the
-U.S. classified plans to crush the European economy with a war in
-Ukraine and an induced energy crisis.. [It is] an exceptional internal
-leak from the close-to-government think tank RAND Corporation, known
-among other things to have been behind American foreign and defense
-policy strategy during the Cold War"
-
-[[-]](https://www.riotimesonline.com/brazil-news/modern-day-censorship/swedish-newspaper-publishes-leaked-u-s-strategic-plan-to-destroy-german-economy/)
-
----
-
 ## Reference
 
 [Nations and Nationalism, Culture, Narratives](2013/02/nations-and-nationalism.html)
