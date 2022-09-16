@@ -110,7 +110,7 @@ The death was officially announced as caused by a stroke"
 
 RAND denied it but you never know.. 
 
-p"Swedish newspaper published leaked U.S. secret plan to destroy German
+"Swedish newspaper published leaked U.S. secret plan to destroy German
 economy.. As the first newspaper in Europe, Swedish Nya Dagbladet
 published what appears to be the U.S. classified plans to crush the
 European economy with a war in Ukraine and an induced energy crisis.
