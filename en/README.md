@@ -42,7 +42,7 @@ and have failed to stop the war"
 
 ---
 
-Another DIY UA/RU war event publisher, claim to have "good maps" with
+Another DIY UA/RU war event publisher, claims to have "good maps" with
 raw data but no delination line between RU and UKR. What the F.
 
 ---
