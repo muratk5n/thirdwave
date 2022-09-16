@@ -39,8 +39,7 @@ leave.. Despite the Ukrainian army's rapid counter-offensive, Russian
 forces still occupy vast swathes of Ukraine, including much of Donetsk
 and Luhansk, the two regions that make up the Donbas. Cities in the
 Ukrainian-held parts of the Donetsk region suffer regular shelling,
-suffering significant damage to infrastructure and putting local
-people in danger"
+suffering significant damage to infrastructure"
 
 ---
 
