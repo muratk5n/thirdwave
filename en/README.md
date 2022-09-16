@@ -2,146 +2,126 @@
 
 ---
 
-"@AcademicChatter
+"@stephenwertheim
 
-My favorite part of writing is rearranging my house."
-
----
-
-Note the policy-fu.. Could we "poll bunch of people" on the street and
-create equally significant policy? I don't think so.
+Because Washington is averse to evaluating the effectiveness of the
+economic sanctions it proliferates, it is worth noting the record of
+sanctions so far in the Ukraine war: they failed to deter the invasion
+and have failed to stop the war"
 
 ---
 
-Hydrogen Europe: "Following the plenary vote on the Renewable Energy
-Directive II (REDII), Hydrogen Europe wholeheartedly welcomes the
-historical European Parliament (EP) decision to commit to ambitious
-binding renewable targets and to simplify the regulatory framework...
-
-Further good news from the parliament today is the return of the
-additionality principle to legal regulation, rather than delegating
-this to the European Commission via the Delegated Act of RED II. This
-will ease the implementation of the additionality principle for
-renewable hydrogen. MEPs have listened to the sector’s concerns that
-overly strict regulations would hinder the development of this crucial
-market. Hydrogen Europe fully recognises the importance, and supports,
-the principle of additionality but has expressed concerns regarding
-the practical implementation of the proposed criteria, not the
-principle itself. The task at hand is to find a balance between
-ensuring green hydrogen is produced from new renewable energy capacity
-and avoiding excessive constraints on a nascent market"
-
-[[-]](https://hydrogeneurope.eu/historical-day-for-green-hydrogen/)
+Another DIY UA/RU war news outfit, claim to have "good maps" but no
+delination line between RU and UKR. What the F
 
 ---
 
-They are not jailing, abusing people, they are just like, to other
-states, "here you take'em". "Want open borders? Now that border
-extends to your state"
+Game-changing tech!? Do tell
+
+H2 View: "A game-changing technology for heavy-duty vehicles is about
+to be unveiled in Hannover, during IAA Transportation, from September
+19-25. The grand unveiling will be provided by Westport Fuel Systems..
+about hydrogen and internal combustion engines"
 
 ---
 
-Texas gov sent immigrants by bus, he is now outdone. 
-
-Axios: "Ron DeSantis sends two planes of undocumented migrants to
-Martha’s Vineyard"
+H2 View: "Siemens, Shell to collaborate on green hydrogen"
 
 ---
 
-The Independent: "Sweden’s first female PM concedes defeat to
-right-wing, anti-immigrant bloc"
+H2 View: "Hydrogen trucking could be competitive with diesel by 2030
+with policy support, says whitepaper"
 
 ---
 
-[Link](https://drive.google.com/uc?export=view&id=12dVWdh13-tiELrxaRxKotHNeRNL3eLhi)
+F24: "Citizens of Kramatorsk face dilemma of whether to
+leave.. Despite the Ukrainian army's rapid counter-offensive, Russian
+forces still occupy vast swathes of Ukraine, including much of Donetsk
+and Luhansk, the two regions that make up the Donbas. Cities in the
+Ukrainian-held parts of the Donetsk region suffer regular shelling,
+suffering significant damage to infrastructure and putting local
+people in danger"
 
 ---
 
-For the py interface had to go to sources, run `configure` and `make`.
-Do people still know how to do that, or do you go to TikTok and
-just dance about it?
+In other words, no moves that will trigger a trade war - for now.
+
+"UK tells EU it will keep waiving Northern Ireland Brexit checks"
 
 ---
 
-Book search desktop UI can collect dust.
+E-fuels are a cop-out; I dont think they can be guaranteed be net-zero
+clean. Truly clean fuel from get-go is the way.
+
+"Germany’s finance minister.. Christian Lindner is frantically lobbying
+to keep e-fuels in the mix past 2035"
 
 ---
 
-Web interface a-ok..  Now serving 20 GB of book content based on 1 GB
-index; on a tiny Raspberry Pi.. How about that? 🐍
+Some post-apoclypic ice-age scifi movies have ppl freezing their asses
+off on the surface. Unrealistic bcz there is so much heat below
+ground.
 
 ---
 
-Some good things do happen in UK no doubt
+Earth's core certainly has lots of free energy - heat.
 
-H2 Fuel News: "Current Pipeline of Blue Hydrogen Projects Projected to
-Exceed 2030 Targets in The UK"
-
----
-
-H2 Central: "GOLDI Mobility Kft Unveils its 18-Metre Articulated Fuel
-Cell Bus, GOLDiON H18"
+"DoE launches new Energy Earthshot to make geothermal energy cheaper"
 
 ---
 
-Two degrees of seperation from the lithium boy [e-jagoff](https://pbs.twimg.com/media/EgPe-HTWkAAKbbl?format=jpg&name=small)
+"HDF Energy [of France].. has announced that its green hydrogen fuel
+plant in Namibia – a first in Africa – will start power production in
+2024"
 
 ---
 
-That's the pedo guy fyi
-
-"@PoliticsJOE_UK
-
-The Duke of York will be a Counsellor of State for the new king"
+Inflation didn't increase for August, month-over-month CPI did.
 
 ---
 
-"@etuc_ces
+RFERL: "Another Russian Executive Dies In String Of Strange Deaths Of
+Tycoons.. The top manager at Russia's [KRDV].. Ivan Pechorin, has been
+found dead after media reports said last weekend that he fell out of a
+motorboat.. 
 
-The European Parliament has voted to adopt the directive on adequate
-minimum wages and stronger collective bargaining.. This victory for
-the trade union movement couldn't come at a more important moment -
-Europe needs a pay rise!"
+In early September, LUKoil, Russia's largest private oil company and
+one of the few corporate voices to oppose to the Kremlin's war in
+Ukraine, said its chairman, Ravil Maganov, had died in Moscow
+following a "serious illness," while local media reports said the
+67-year-old tycoon had plunged to his death from a hospital window.
 
----
+In May, Russian media reported that a former top manager of LUKoil,
+Aleksandr Subbotin, was found dead in the basement of a house in the
+town of Mytishchi near Moscow.
 
-*Deus*, wonderful, wonderful scifi movie, starring Claudia Black from
-*Farscape*.
+Weeks before that..  a former top manager at Russian gas giant
+Novatek, Sergei Protosenya, his wife, and daughter had been found dead
+in a rented villa in the town of Lloret de Mar near Barcelona.
 
----
+Several other senior Russian businessmen and their families have also
+been found dead amid unclear circumstances since Russia started its
+full-scale aggression against Ukraine.
 
-A lot of the black cultural artifacts have Southern flavor (ie
-American), repackaged. The showy parts were created so mainstream
-could play Dances with Wolves with it. It is hilarious I refer to them
-but may not be beneficial for its supposed owners.
-
----
-
-A black kid born into the culture, same way.. Everyone gets culture,
-by merely being in it.
-
----
-
-That means first, second generation "Irish" doesn't become 100% of
-what their ancestors were, they [assimilate](2014/06/the-culture-code.html#imprint),
-into a culture that is only 10% of that. They will never be 100% Irish. 
+On February 8, KVRD Director General Igor Nosov died at the age of
+43. The death was officially announced as caused by a stroke"
 
 ---
 
-Immigrants contribute to culture prop to their size... 10% of United
-States is of Irish desc, that makes them 10% Irish in culture.
+RAND denied it but you never know.. 
 
----
+p"Swedish newspaper published leaked U.S. secret plan to destroy German
+economy.. As the first newspaper in Europe, Swedish Nya Dagbladet
+published what appears to be the U.S. classified plans to crush the
+European economy with a war in Ukraine and an induced energy crisis.
 
-Found python interface to `recoll`, writing a Flask web based search
-utility now
+In what appears to be an exceptional internal leak from the
+close-to-government think tank RAND Corporation, known among other
+things to have been behind American foreign and defense policy
+strategy during the Cold War, a detailed account is given of how the
+United States planned the energy crisis in Europe"
 
----
-
-The TR narrative was expanded in the 80s, turning into the abomination
-it is today, again partly for the benefit of the outer alliance
-
-[[-]](2020/04/turkist-narrative-anatolia.html#islamoturkist)
+[[-]](https://www.riotimesonline.com/brazil-news/modern-day-censorship/swedish-newspaper-publishes-leaked-u-s-strategic-plan-to-destroy-german-economy/)
 
 ---
 
