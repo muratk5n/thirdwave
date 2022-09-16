@@ -121,7 +121,7 @@ by merely being in it.
 ---
 
 That means first, second generation "Irish" doesn't become 100% of
-what their ancestors were, they [assimilate](2014/06/the-culture-code.html#imprint),
+what their ancestors were, they [assimilate](../../2014/06/the-culture-code.html#imprint),
 into a culture that is only 10% of that. They will never be 100% Irish. 
 
 ---
@@ -139,7 +139,7 @@ utility now
 The TR narrative was expanded in the 80s, turning into the abomination
 it is today, again partly for the benefit of the outer alliance
 
-[[-]](2020/04/turkist-narrative-anatolia.html#islamoturkist)
+[[-]](../../2020/04/turkist-narrative-anatolia.html#islamoturkist)
 
 ---
 
