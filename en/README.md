@@ -12,7 +12,7 @@ and have failed to stop the war"
 ---
 
 Another DIY UA/RU war news outfit, claim to have "good maps" but no
-delination line between RU and UKR. What the F
+delination line between RU and UKR. What the F.
 
 ---
 
@@ -115,8 +115,7 @@ U.S. classified plans to crush the European economy with a war in
 Ukraine and an induced energy crisis.. [It is] an exceptional internal
 leak from the close-to-government think tank RAND Corporation, known
 among other things to have been behind American foreign and defense
-policy strategy during the Cold War, a detailed account is given of
-how the United States planned the energy crisis in Europe"
+policy strategy during the Cold War"
 
 [[-]](https://www.riotimesonline.com/brazil-news/modern-day-censorship/swedish-newspaper-publishes-leaked-u-s-strategic-plan-to-destroy-german-economy/)
 
