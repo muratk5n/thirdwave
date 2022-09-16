@@ -16,7 +16,7 @@ delination line between RU and UKR. What the F
 
 ---
 
-Game-changing tech!? Do tell
+Game-changing tech!? Do tell.
 
 H2 View: "A game-changing technology for heavy-duty vehicles is about
 to be unveiled in Hannover, during IAA Transportation, from September
