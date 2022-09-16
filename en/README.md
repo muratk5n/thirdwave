@@ -14,6 +14,25 @@ taught'"
 
 ---
 
+Is it an accurate term? South Africa thinks so. Do you know better than them?
+
+---
+
+Haha they used the hastag \#CaptainApartheid
+
+NYT: "Marvel Attracts Criticism With Israeli “Captain America” Superhero"
+
+---
+
+CNBC: "'I accept being ordinary': China's youth are turning their
+backs on hustle culture"
+
+---
+
+The Guardian: "Extreme hunger soaring in world’s climate hotspots, says Oxfam"
+
+---
+
 "@stephenwertheim
 
 Because Washington is averse to evaluating the effectiveness of the
@@ -116,25 +135,6 @@ full-scale aggression against Ukraine.
 
 On February 8, KVRD Director General Igor Nosov died at the age of 43.
 The death was officially announced as caused by a stroke"
-
----
-
-Is it an accurate term? South Africa thinks so. Do you know better than them?
-
----
-
-Haha they used the hastag \#CaptainApartheid
-
-NYT: "Marvel Attracts Criticism With Israeli “Captain America” Superhero"
-
----
-
-CNBC: "'I accept being ordinary': China's youth are turning their
-backs on hustle culture"
-
----
-
-The Guardian: "Extreme hunger soaring in world’s climate hotspots, says Oxfam"
 
 ---
 
