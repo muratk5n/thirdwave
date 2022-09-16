@@ -75,7 +75,7 @@ Ukrainian-held parts of the Donetsk region suffer regular shelling"
 
 In other words, no moves that will trigger a trade war - for now.
 
-"UK tells EU it will keep waiving Northern Ireland Brexit checks"
+Politico: "UK tells EU it will keep waiving Northern Ireland Brexit checks"
 
 ---
 
