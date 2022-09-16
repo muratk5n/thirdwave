@@ -1,5 +1,15 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
+"@Nouriel
+
+Fake. Manipulated. Scammed. Crypto modus operandum
+
+'@JohnReedStark A new Forbes analysis of 157 crypto exchanges finds
+that 51% of the daily bitcoin trading volume being reported is likely
+bogus. Market manipulation of crypto is not only rampant and
+tolerated, but also encouraged. Fraud not only rewarded, but also
+taught'"
+
 ---
 
 "@stephenwertheim
