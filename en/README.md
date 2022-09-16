@@ -76,7 +76,8 @@ plant in Namibia – a first in Africa – will start power production in
 
 ---
 
-Inflation didn't increase for August, month-over-month CPI did.
+Let's get the terms right, inflation *fell* for August, which is
+calculated from CPI YoY.
 
 ---
 
