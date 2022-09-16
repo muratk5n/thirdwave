@@ -68,9 +68,9 @@ to keep e-fuels in the mix past 2035"
 
 ---
 
-Some post-apoclypic ice-age scifi movies have ppl freezing their asses
-off on the surface. Unrealistic bcz there is so much heat below
-ground.
+Some post-apoclypic ice-age scifi movies have most of humanity dying
+off, freezing their asses off on the surface. Unrealistic bcz there is
+so much heat below ground.
 
 ---
 
