@@ -99,9 +99,9 @@ underlying deterministic governing equations.'"
 
 ---
 
-These people don't realize they are now in charge. You are not in Warsaw
-ghettos anymore. No need to put others in ghettos because you were.
-You are now in charge. Don't fuck shit up.
+I don't think these people realize they are now in charge.. You are
+not in Warsaw ghettos anymore. No need to put others in ghettos
+because you were once.. You are now in charge. Don't fuck shit up.
 
 ---
 
