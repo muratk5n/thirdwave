@@ -87,7 +87,7 @@ who took a Nonlinear Dynamics course.
 experimentally — that turbulence can be understood and quantified with
 the help of a relatively small set of special solutions to the
 governing equations of fluid dynamics that can be precomputed for a
-particular geometry, once and for all.
+nparticular geometry, once and for all.
 
 'For nearly a century, turbulence has been described statistically as
 a random process,' said [scientist]. 'Our results provide the first
@@ -96,6 +96,12 @@ dynamics of turbulence is deterministic — and connects it to the
 underlying deterministic governing equations.'"
 
 [[-]](https://cos.gatech.edu/news/physicists-uncover-new-dynamical-framework-turbulence)
+
+---
+
+These people don't realize they are now in charge. You are not in Warsaw
+ghettos anymore. No need to put others in ghettos because you were.
+You are now in charge. Don't fuck shit up.
 
 ---
 
