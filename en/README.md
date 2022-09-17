@@ -41,7 +41,7 @@ reached the 900km mark"
 
 ---
 
-"Siemens commissions one of Germany’s largest green
+H2 Central: "Siemens commissions one of Germany’s largest green
 hydrogen.. generation plant.. to generate 1,350 tons of hydrogen a
 year and cut CO2 emissions by about 13,500 tons. Opening attended by
 Bavarian Minister-President Markus Söder"
