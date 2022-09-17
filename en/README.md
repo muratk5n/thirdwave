@@ -48,7 +48,7 @@ Bavarian Minister-President Markus Söder"
 
 ---
 
-Just like Trump caused derangement, Putin is causing the same in Europe.
+Putin derangement syndrome
 
 ---
 
