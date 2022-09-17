@@ -69,10 +69,10 @@ BBC News: "Energy crisis: Could Italy's next government drop Russian sanctions?"
 ---
 
 BTW "described statistically as a random process" was done to compute
-faster (they surely know the process isn't random). Because for fluid
-dynamics we have the equations that describe the whole process.. To
-simulate turbulance, need fine detail, and that becomes computationally
-costly, in some cases impossible to compute.
+faster (they surely know the process isn't random). For fluid dynamics
+we have the equations that describe the whole process.. But while
+simulating turbulance, need fine detail, and that becomes
+computationally costly, in some cases nearly intractable.
 
 What these guys did was finding patterns within turbulence so it could
 be computed efficiently. Every model is a summary, a shortcut, they
