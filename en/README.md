@@ -2,139 +2,123 @@
 
 ---
 
-"@Nouriel
-
-Fake. Manipulated. Scammed. Crypto modus operandum
-
-'@JohnReedStark A new Forbes analysis of 157 crypto exchanges finds
-that 51% of the daily bitcoin trading volume being reported is likely
-bogus. Market manipulation of crypto is not only rampant and
-tolerated, but also encouraged. Fraud not only rewarded, but also
-taught'"
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">We have just clocked 1,160km with the Alstom Coradia iLint. We are still driving, full (<a href="https://twitter.com/hashtag/emissionfree?src=hash&amp;ref_src=twsrc%5Etfw">#emissionfree</a>) steam ahead. <br><br>Join us live: <a href="https://t.co/JFbaNZmM8d">https://t.co/JFbaNZmM8d</a> <a href="https://t.co/54cCzcfXzd">pic.twitter.com/54cCzcfXzd</a></p>&mdash; Alstom (@Alstom) <a href="https://twitter.com/Alstom/status/1570541398532947970?ref_src=twsrc%5Etfw">September 15, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Is it an accurate term? South Africa thinks so. Do you know better than them?
+@Alstom
+
+\#DYK that our Coradia iLint \#hydrogen fuel cell powered passenger
+train fleet has already completed over 200,000 kilometres of passenger
+service? That’s nearly equal to five times around the planet Earth!
+🚄🌍🚄🌍🚄🌍🚄🌍🚄🌍
 
 ---
 
-Haha they used the hastag \#CaptainApartheid
+"@Alstom
 
-NYT: "Marvel Attracts Criticism With Israeli 'Captain America' Superhero"
-
----
-
-CNBC: "'I accept being ordinary': China's youth are turning their
-backs on hustle culture"
+Along smoothly on our Alstom Coradia iLint distance record run with
+1,077 kms clocked. We can now say that we have established a
+\#worldrecord 🏆"
 
 ---
 
-The Guardian: "Extreme hunger soaring in world’s climate hotspots, says Oxfam"
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">The Alstom Coradia iLint, the world&#39;s first hydrogen train is not only a pioneer, but it also sets the standards. The regulations on <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> were completely written from scratch. <a href="https://t.co/czKJzBIumR">pic.twitter.com/czKJzBIumR</a></p>&mdash; Alstom (@Alstom) <a href="https://twitter.com/Alstom/status/1570515529106096128?ref_src=twsrc%5Etfw">September 15, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"@stephenwertheim
+@Alstom
 
-Because Washington is averse to evaluating the effectiveness of the
-economic sanctions it proliferates, it is worth noting the record of
-sanctions so far in the Ukraine war: they failed to deter the invasion
-and have failed to stop the war"
+This just in from \#TeamAlstom - We've reached a whopping 970km.. on a
+single \#hydrogen filling.
 
 ---
 
-Another DIY UA/RU war event publisher, claims to have "good maps" with
-raw data but no delination line between RU and UKR. What the F.
+"@Alstom
+
+The Alstom Coradia iLint, the world's first #hydrogen train, just
+reached the 900km mark"
 
 ---
 
-Game-changing tech!? Do tell.
-
-H2 View: "A game-changing technology for heavy-duty vehicles is about
-to be unveiled in Hannover, during IAA Transportation, from September
-19-25. The grand unveiling will be provided by Westport Fuel Systems..
-about hydrogen and internal combustion engines"
+"Siemens commissions one of Germany’s largest green
+hydrogen.. generation plant.. to generate 1,350 tons of hydrogen a
+year and cut CO2 emissions by about 13,500 tons. Opening attended by
+Bavarian Minister-President Markus Söder"
 
 ---
 
-H2 View: "Siemens, Shell to collaborate on green hydrogen"
+Just like Trump caused derangement, Putin is causing the same in Europe.
 
 ---
 
-H2 View: "Hydrogen trucking could be competitive with diesel by 2030
-with policy support, says whitepaper"
+Even if they are not in Nato..?  The great Sweden.. ran towards
+UK like a scared little girl.. Now the gov who signed that
+deal is gone, "populists" gained power.
+
+F24: "[5/2022] Britain signs security deal vowing to defend Sweden in case of attack"
 
 ---
 
-F24: "Citizens of Kramatorsk face dilemma of whether to
-leave.. Despite the Ukrainian army's rapid counter-offensive, Russian
-forces still occupy vast swathes of Ukraine, including much of Donetsk
-and Luhansk, the two regions that make up the Donbas. Cities in the
-Ukrainian-held parts of the Donetsk region suffer regular shelling"
+BBC News: "Energy crisis: Could Italy's next government drop Russian sanctions?"
+
+[[-]](https://youtu.be/y2sEWe6lU9I)
 
 ---
 
-In other words, no moves that will trigger a trade war - for now.
+BTW "described statistically as a random process" was done to compute
+faster (they surely know the process isn't random). Because for fluid
+dynamics we have the equations that describe the whole process.. To
+simulate turbulance, need fine detail, and that becomes computationally
+costly, in some cases impossible to compute.
 
-Politico: "UK tells EU it will keep waiving Northern Ireland Brexit checks"
-
----
-
-E-fuels are a cop-out; I dont think they can be guaranteed be net-zero
-clean. Truly clean fuel from get-go is the way.
-
-"Germany’s finance minister.. Christian Lindner is frantically lobbying
-to keep e-fuels in the mix past 2035"
+What these guys did find patterns within turbulence so it could be
+computed efficiently. Every model is a summary, a shortcut, these guys
+found a shortcut within the shortcut.
 
 ---
 
-Some post-apoclypic ice-age scifi movies have most of humanity dying
-off, freezing their asses off on the surface. Unrealistic bcz there is
-so much heat below ground.
+Turbulence is deterministic, of course.. that surprises exactly noone
+who took a Nonlinear Dynamics course.
+
+"[P]hysicists [of Gatech] have demonstrated — numerically and
+experimentally — that turbulence can be understood and quantified with
+the help of a relatively small set of special solutions to the
+governing equations of fluid dynamics that can be precomputed for a
+particular geometry, once and for all.
+
+'For nearly a century, turbulence has been described statistically as
+a random process,' said [scientist]. 'Our results provide the first
+experimental illustration that, on suitably short time scales, the
+dynamics of turbulence is deterministic — and connects it to the
+underlying deterministic governing equations.'"
+
+[[-]](https://cos.gatech.edu/news/physicists-uncover-new-dynamical-framework-turbulence)
 
 ---
 
-Earth's core certainly has lots of free energy - heat.
-
-"DoE launches new Energy Earthshot to make geothermal energy cheaper"
+The second movie? Captain Apartheid: Kosher Soldier
 
 ---
 
-"HDF Energy [of France].. has announced that its green hydrogen fuel
-plant in Namibia – a first in Africa – will start power production in
-2024"
+WION: "South Korea issues arrest warrant for Terra Luna founder on
+charges of 'cryptocrash'"
 
 ---
 
-Let's get the terms right, inflation *fell* for August, which is
-calculated from CPI YoY.
-
----
-
-RFERL: "Another Russian Executive Dies In String Of Strange Deaths Of
-Tycoons.. The top manager at Russia's [KRDV].. Ivan Pechorin, has been
-found dead after media reports said last weekend that he fell out of a
-motorboat.. 
-
-In early September, LUKoil, Russia's largest private oil company and
-one of the few corporate voices to oppose to the Kremlin's war in
-Ukraine, said its chairman, Ravil Maganov, had died in Moscow
-following a "serious illness," while local media reports said the
-67-year-old tycoon had plunged to his death from a hospital window.
-
-In May, Russian media reported that a former top manager of LUKoil,
-Aleksandr Subbotin, was found dead in the basement of a house in the
-town of Mytishchi near Moscow.
-
-Weeks before that..  a former top manager at Russian gas giant
-Novatek, Sergei Protosenya, his wife, and daughter had been found dead
-in a rented villa in the town of Lloret de Mar near Barcelona.
-
-Several other senior Russian businessmen and their families have also
-been found dead amid unclear circumstances since Russia started its
-full-scale aggression against Ukraine.
-
-On February 8, KVRD Director General Igor Nosov died at the age of 43.
-The death was officially announced as caused by a stroke"
+WION: "As a result of the deepening ties between Russia and China, the
+yuan is becoming much more popular as Moscow tries to ditch its
+post-Soviet addiction to cash US dollars. On the basis of a 50-50
+split between the Russian rouble and Chinese yuan, Putin said last
+week that China will pay Gazprom for its gas in national
+currencies. After successfully completing its debut yuan-denominated
+bond placement worth 15 billion yuan ($2.15 billion), Russia's largest
+oil producer Rosneft said it was gradually shifting to foreign trade
+settlements in Russian roubles and national currencies of "friendly"
+countries. While Russia's largest gold producer Polyus issued bonds
+denominated in the Chinese yuan worth 4.6 billion yuan (670 million
+dollars), the country's aluminium producer Rusal tapped the yuan bond
+market on the Moscow Exchange"
 
 ---
 
