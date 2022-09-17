@@ -55,7 +55,7 @@ Putin derangement syndrome
 ---
 
 Even wout Nato..? My o' my.. The great Sweden.. ran towards UK like a
-scared little girl.. Now the gov who signed that deal is gone,
+scared little kid.. Now the gov who signed that deal is gone,
 "populists" gained power.
 
 F24: "[5/2022] Britain signs security deal vowing to defend Sweden in case of attack"
