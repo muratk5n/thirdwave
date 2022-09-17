@@ -72,8 +72,8 @@ dynamics we have the equations that describe the whole process.. To
 simulate turbulance, need fine detail, and that becomes computationally
 costly, in some cases impossible to compute.
 
-What these guys did find patterns within turbulence so it could be
-computed efficiently. Every model is a summary, a shortcut, these guys
+What these guys did was finding patterns within turbulence so it could
+be computed efficiently. Every model is a summary, a shortcut, they
 found a shortcut within the shortcut.
 
 ---
