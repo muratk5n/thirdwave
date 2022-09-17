@@ -27,10 +27,12 @@ Along smoothly on our Alstom Coradia iLint distance record run with
 
 ---
 
-@Alstom
+ON A SINGLE FILLING
+
+"@Alstom
 
 This just in from \#TeamAlstom - We've reached a whopping 970km.. on a
-single \#hydrogen filling.
+single hydrogen filling"
 
 ---
 
