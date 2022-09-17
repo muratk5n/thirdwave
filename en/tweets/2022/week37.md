@@ -435,7 +435,7 @@ largest hydrogen-powered direct reduction plants"
 
 Can latest UKR gains be used as basis for piece summit? Defenders can
 boast they are now negotiating from a "position of strength", RU has
-part of Donetsk, Luhansk, Crimea and a land bridge from Russia to
+part of Donetsk, Luhansk and a land bridge from Russia to
 Crimea.. Maybe time to call this thing quits and turn on the gas
 tap. Or will the war continue throughout the winter?
 
