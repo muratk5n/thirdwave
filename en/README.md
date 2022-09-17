@@ -87,7 +87,7 @@ who took a Nonlinear Dynamics course.
 experimentally — that turbulence can be understood and quantified with
 the help of a relatively small set of special solutions to the
 governing equations of fluid dynamics that can be precomputed for a
-nparticular geometry, once and for all.
+particular geometry, once and for all.
 
 'For nearly a century, turbulence has been described statistically as
 a random process,' said [scientist]. 'Our results provide the first
