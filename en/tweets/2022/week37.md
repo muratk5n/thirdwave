@@ -342,10 +342,6 @@ woman, what was you thinking? Disturbed the image. She dead.
 
 ---
 
-There is one with Hayden Christensenssensensen. 
-
----
-
 How many movies were made with the title "Awake" exactly? I can't
 find the one I'm looking for
 
