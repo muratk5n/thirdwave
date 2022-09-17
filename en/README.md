@@ -52,9 +52,9 @@ Just like Trump caused derangement, Putin is causing the same in Europe.
 
 ---
 
-Even if they are not in Nato..?  The great Sweden.. ran towards
-UK like a scared little girl.. Now the gov who signed that
-deal is gone, "populists" gained power.
+Even wout Nato..? My o' my.. The great Sweden.. ran towards UK like a
+scared little girl.. Now the gov who signed that deal is gone,
+"populists" gained power.
 
 F24: "[5/2022] Britain signs security deal vowing to defend Sweden in case of attack"
 
