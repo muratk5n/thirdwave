@@ -114,7 +114,7 @@ week that China will pay Gazprom for its gas in national
 currencies. After successfully completing its debut yuan-denominated
 bond placement worth 15 billion yuan ($2.15 billion), Russia's largest
 oil producer Rosneft said it was gradually shifting to foreign trade
-settlements in Russian roubles and national currencies of "friendly"
+settlements in Russian roubles and national currencies of 'friendly'
 countries. While Russia's largest gold producer Polyus issued bonds
 denominated in the Chinese yuan worth 4.6 billion yuan (670 million
 dollars), the country's aluminium producer Rusal tapped the yuan bond
