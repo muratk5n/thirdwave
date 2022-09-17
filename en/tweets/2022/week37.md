@@ -483,7 +483,7 @@ Republic?
 The RU gas dependency increased throughout Schroder and Merkel
 era.. Mutti was also keeping the easties in check when they freaked
 out on Russia. The strategy went ahead past 2008, 2014 .. Nordstream 2
-was shepherded through road blocks by CDU itself who now became rapid
+was shepherded through road blocks by CDU itself who now became rabid
 RU hawks. 
 
 ---
