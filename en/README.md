@@ -50,10 +50,6 @@ Bavarian Minister-President Markus Söder"
 
 ---
 
-Putin derangement syndrome
-
----
-
 Even wout Nato..? My o' my.. The great Sweden.. ran towards UK like a
 scared little kid.. Now the gov who signed that deal is gone,
 "populists" gained power.
