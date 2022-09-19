@@ -98,8 +98,8 @@ focus"
 ---
 
 Scott Adkins movies do resemble stock Jason Statham work sometimes,
-the acting and the story are little better. *Accident Man* writing was
-good (apparently SA wrote it himself)
+but the acting and the story are little better. *Accident Man* wasn't
+a bad story (apparently SA wrote it himself)
 
 ---
 
