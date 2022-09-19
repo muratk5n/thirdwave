@@ -16,9 +16,8 @@ apply for membership. Makes sense
 
 ---
 
-Kunafah is a M. Eastern desert. Mad delicious.
-
-On a pizza! IDK.. But menu says it won some kind of award.
+Kunafah is a M. Eastern desert. Mad delicious. On a pizza.. IDK. But
+menu says it won some kind of award.
 
 ---
 
@@ -92,9 +91,10 @@ movement"
 
 ---
 
-H2 Fuel News: "Middle Eastern container ships have the potential to
-one day shift the nature of the region’s energy leadership to clean
-hydrogen as the area undergoes a considerable change in economic
+H2 Fuel News: "Ships leaving ports in that area have the potential to
+allow the region to remain among leaders... Middle Eastern container
+ships [can] shift the nature of the region’s energy leadership to
+clean hydrogen as the area undergoes a considerable change in economic
 focus"
 
 ---
