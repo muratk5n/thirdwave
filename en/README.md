@@ -89,7 +89,7 @@ movement"
 
 ---
 
-H2 Fuel News: "Ships leaving ports in that area have the potential to
+H2 Fuel News: "Ships leaving ports in [ME] area have the potential to
 allow the region to remain among leaders... Middle Eastern container
 ships [can] shift the nature of the region’s energy leadership to
 clean hydrogen as the area undergoes a considerable change in economic
