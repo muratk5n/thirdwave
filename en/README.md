@@ -2,17 +2,15 @@
 
 ---
 
----
-
-Wrote before the EU would not want to allow members that are part of
-existing members bcz that would discourage others joining the EU. But
-it doesnt hurt to have another motivation to join.
+Wrote before the EU would not want to allow pieces of existing members
+to apply anyway bcz that would discourage others joining the EU
+(fearing their subregions would want to apply one day). 
 
 ---
 
-Spain wld want to be an EU member bcz inside it could veto the
-membership of Catalonia were it decide to seperate from Spain and
-apply for membership. Makes sense
+EU membership is good for Spain bcz inside it could veto the
+membership of its subregions, eg. Catalonia, were it decide to
+seperate from Spain and apply for membership seperately. Makes sense.
 
 ---
 
