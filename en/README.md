@@ -35,14 +35,14 @@ Timewarp Inc - Wake Up Bossa (Instumental) \#music
 
 ---
 
-Arising in physical phenomena that is mathematically known *completely*. Ain't
-that crazy?
+All this arises in physical phenomena that is mathematically known
+*completely*. Ain't that crazy?
 
 ---
 
 There - we see a turbulent area but it is localized and there is a
-certain pattern to its outer edges. Capture that in most cases would
-not be a need to know all other details.
+certain pattern to its outer edges. Capture that, in most cases would
+not be a need to know all of the internal details.
 
 [[-]](https://thumbs.gfycat.com/MixedAssuredAnchovy-size_restricted.gif)
 
