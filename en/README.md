@@ -48,15 +48,15 @@ not be a need to know all other details.
 
 ---
 
-Turbulence, randomness.. how was randomness used? They 'represented'
-turbulence statistically, allowing controlled randomness in the model,
-they knew turb is not random. Calculating detailed aero (needed to see
-all of turbulence) is costly, instead, can say for example "I'll treat
-turbulent parts as a blob, I dont care about the internal details of
-that blob but I'll keep track of its location, maybe its size"... That
-could improve calculations, turb is roughly accounted for no need to
-process it in detail, the rest of the computation in non-turbulent
-areas benefit too.
+Turbulence, randomness.. how was randomness used? Calculating detailed
+aero (to see all details of turbulence) is costly. With usual methods
+one represents turbulence statistically, allowing controlled
+randomness in the model, eg one says "I'll treat turbulent parts as a
+blob, I dont care about the internal details of that blob but I'll
+keep track of its location, maybe its size"... That could improve
+calculations, turb is roughly accounted for, no need to process it in
+detail, the rest of the computation in non-turbulent areas benefit
+too.
 
 ---
 
