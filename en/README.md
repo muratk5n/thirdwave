@@ -9,9 +9,9 @@ FT: "Liz Truss admits UK trade deal with US is not on the agenda"
 Daily News Hungary: "According to [Hungarian PM] Orbán, [RUS-UKR] war
 could be around until 2030, and Ukraine could lose a third to even a
 half of its territory. He was sure the war would have been local, but
-the 'West stepped in, making it global', and now we are shooting
-ourselves in the foot in Europe with sanctions. According to Orbán, 40
-percent of European industry could shut down this winter because of
+the 'West stepped in, making it global', and 'now we are shooting
+ourselves in the foot in Europe with sanctions'. According to Orbán,
+40 percent of European industry could shut down this winter because of
 these sanctions"
 
 ---
