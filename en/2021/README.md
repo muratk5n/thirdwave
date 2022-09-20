@@ -42,6 +42,8 @@
 
 [Historical Carbon Emissions](07/historical-carbon-emissions.html)
 
+[Lycia's History - A Struggle For Freedom](07/lycian-history.html)
+
 [The Bermuda Triangle](08/bermuda.html)
 
 [The Cuban Missile Crisis](08/nuclear-folly-plokhy.html)

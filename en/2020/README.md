@@ -12,9 +12,9 @@
 
 [Population of Asia Minor](04/asia-minor-population.html)
 
-[Turkist Narratives, Culture](04/turkist-narrative-anatolia.html)
+[Turkist Narrative, Culture](04/turkist-narrative-anatolia.html)
 
-[Turks, Culture, National Narrative](04/turks-culture-national-narrative.html)
+[Turks, Nationalism](04/turks-culture-national-narrative.html)
 
 [10 Myths about Israel](06/10-myths-israel.html)
 
