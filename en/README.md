@@ -2,108 +2,130 @@
 
 ---
 
-Wrote before the EU would not want to allow pieces of existing members
-to apply anyway bcz that would discourage others joining the EU
-(fearing their subregions would want to apply one day). 
+FT: "Liz Truss admits UK trade deal with US is not on the agenda"
 
 ---
 
-EU membership is good for Spain bcz inside it could veto the
-membership of its subregions, eg. Catalonia, were it decide to
-seperate from Spain and apply for membership seperately. Makes sense.
+Daily News Hungary: "According to [Hungarian PM] Orbán, [RUS-UKR] war
+could be around until 2030, and Ukraine could lose a third to even a
+half of its territory. He was sure the war would have been local, but
+the 'West stepped in, making it global', and now we are shooting
+ourselves in the foot in Europe with sanctions. According to Orbán, 40
+percent of European industry could shut down this winter because of
+these sanctions"
 
 ---
 
-Kunafah is a M. Eastern desert. Mad delicious. On a pizza.. IDK. But
-menu says it won some kind of award.
+🤦‍♂️ 
+
+Vanity Fair: "Ezra Miller’s 'Messiah' Delusions: Inside The Flash
+Star’s Dark Spiral..  This past March, the actor was arrested in a
+tiki bar called Margarita Village in Hilo, Hawaii.. Miller.. barks at
+the cops to state their full names and badge numbers. When one
+attempts to search Miller’s pockets, the actor says twice, rapid-fire,
+'I’m transgender nonbinary. I don’t want to be searched by a man.'
+After being called 'sir,' the actor responds, 'That is an act of
+intentional bigotry and a technical hate crime.'"
 
 ---
 
-Kunafah Pizza? Seriously
+Timewarp Inc - Wake Up Bossa (Instumental) \#music
 
-----
-
-The Atlantic: "The Hobbit King.. Charles III is far more interested in
-the benefits of traditional English hedgerows than the great, global
-glory of Britain.
-
-Far from resisting such royal parochialism, Britain should embrace
-Charles as the emblem of its new normal age. Very few people in the
-world know the names of the Dutch, Danish, or Norwegian monarchs, but
-their citizens are much more prosperous and their kingdoms more
-settled. If Charles joins them in comparative anonymity, that should
-be celebrated.
-
-In 1962, a decade into Britain’s second Elizabethan age, the American
-grandee Dean Acheson caused real hurt and anger in London by declaring
-that Britain had lost an empire but had yet to find a role. The entire
-reign of Elizabeth was filled with her chief ministers searching for
-the answer to this challenge. But with her passing, Britain can cease
-its search. Not playing a central role in the great game is a
-perfectly noble aspiration, a liberating opportunity—and one that King
-Charles is well suited to symbolize"
+[[-]](https://youtu.be/0trL_Lq7iVU)
 
 ---
 
-Politico": "The queen is dead. Is the monarchy next?"
+Arising in physical phenomena that is mathematically known *completely*. Ain't
+that crazy?
 
 ---
 
-Al Jazeera: "[D]egrowth movement has steadily been
-gaining ground. Based on a robust body of scientific literature,
-degrowth proponents suggest that capitalism’s demand for unlimited
-growth is destroying the planet..
+There - we see a turbulent area but it is localized and there is a
+certain pattern to its outer edges. Capture that in most cases would
+not be a need to know all other details.
 
-[M]any people understand degrowth.. as a call for austerity and a
-trigger of recession. In reality, degrowth is just the opposite.
-
-To begin with, austerity is always imposed for the sake of growth. We
-have been convinced, for half a century now, that cutting public
-services is good for us because it will increase competitiveness,
-balance the budget, and eventually lead to growth. Degrowth, by
-contrast, is the argument that we can, and should, move away from an
-economy that exclusively depends on economic growth"
-
-[[-]](https://www.aljazeera.com/opinions/2022/9/19/degrowth-is-not-austerity-it-is-actually-just-the-opposite)
+[[-]](https://thumbs.gfycat.com/MixedAssuredAnchovy-size_restricted.gif)
 
 ---
 
-H2 Central: "Hydrogen cost parity with diesel cut by up to eight years
-with new Loop Energy fuel cell"
+Turbulence, randomness.. how was randomness used? They 'represented'
+turbulence statistically, allowing controlled randomness in the model,
+they knew turb is not random. Calculating detailed aero (needed to see
+all of turbulence) is costly, instead, can say for example "I'll treat
+turbulent parts as a blob, I dont care about the internal details of
+that blob but I'll keep track of its location, maybe its size"... That
+could improve calculations, turb is roughly accounted for no need to
+process it in detail, the rest of the computation in non-turbulent
+areas benefit too.
 
 ---
 
-H2 Central: "POSCO Holdings to cooperate with Samsung Engineering,
-Lotte Chemical, Sarawak Economic Development Corporation Energy, and
-Malaysian Sarawak Energy for Green Hydrogen Business"
+CH has the hardware, manpower to establish a blockade, but can it
+sustain it? Any sub can take a shot at the ships wout giving up their
+country of origin. Any neighbor, or even US could try, once past
+anti-sub defenses.
 
-
----
-
-Al Jazeera: "Third 'armed bank withdrawal' in a week in Lebanon"
-
----
-
-F24: "‘Moment of reckoning’: Queen’s death fuels Jamaica’s republican
-movement"
+WSJ: "China Is Capable of Blockading Taiwan, U.S. Navy Commander
+Says.. ‘If they want to bully and put ships around Taiwan, they very
+much can do that,’ said Vice Adm. Karl Thomas"
 
 ---
 
-H2 Fuel News: "Ships leaving ports in [ME] area have the potential to
-allow the region to remain among leaders... Middle Eastern container
-ships [can] shift the nature of the region’s energy leadership to
-clean hydrogen as the area undergoes a considerable change in economic
-focus"
+Latest EQ summary - 2021 looked bad, new counts normal. Not an
+apocalypse - for now.
+
+[[-]](2019/05/natdisaster.html#equakes)
 
 ---
 
-Scott Adkins movies do resemble stock Jason Statham work sometimes,
-but the acting and the story are little better. *Accident Man* wasn't
-a bad story (apparently SA wrote it himself)
+WSJ: "Strong Earthquake Rocks Southwestern Mexico"
 
 ---
 
-Recommending *Avengement*. 
+Al Monitor: "Cyprus, Israel vow speedy end to [East Med, Aphrodite and
+Yishai deposits] gas row .. [ISR minister] said that, due to the
+global energy crisis and Europe's growing gas needs, 'it is in our
+best interest for both sides to expedite their work for a swift,
+transparent and fair settlement'".
+
+---
+
+H2 Central: "Nel Scientist Wins Top Prize on his Proton Exchange
+Membrane Technology Research"
+
+---
+
+H2 Central: "Woodside and Japanese partners to conduct feasibility
+study on establishing a lower-emissions fuel ammonia supply chain from
+Australia to Japan...
+
+In addition, the [JP] Sixth Strategic Energy Plan.. states that
+ammonia-fueled power generation is one of the most promising options
+for decarbonizing power sources toward achieving carbon neutrality by
+2050 since it does not emit CO2 during combustion and can be utilized
+in many existing power generation facilities such as boilers and
+denitration facilities without modification.
+
+Last year, Woodside, JOGMEC, Marubeni, Hokuriku Electric, and Kansai
+Electric conducted a feasibility study on the entire supply chain,
+including the production of lower emissions ammonia in Australia from
+natural gas with CO2 abatement methods such as Carbon Capture and
+Storage (CCS), Carbon Capture and Utilisation (CCU), and
+biosequestration; marine transportation to Japan; ammonia’s
+utilization as a fuel for power generation and marine use; and
+financing"
+
+---
+
+Electric transmission introduces weaknesses in infra. Pipelines are robust.
+
+Vox: [2018] Hurricane Maria.. did knock down 80 percent of the
+island’s utility poles and all transmission lines.
+
+---
+
+NPR: "Puerto Rico is without electricity as Hurricane Fiona pummels
+the island"
 
 ---
 
