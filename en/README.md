@@ -23,9 +23,7 @@ Star’s Dark Spiral..  This past March, the actor was arrested in a
 tiki bar called Margarita Village in Hilo, Hawaii.. Miller.. barks at
 the cops to state their full names and badge numbers. When one
 attempts to search Miller’s pockets, the actor says twice, rapid-fire,
-'I’m transgender nonbinary. I don’t want to be searched by a man.'
-After being called 'sir,' the actor responds, 'That is an act of
-intentional bigotry and a technical hate crime.'"
+'I’m transgender nonbinary. I don’t want to be searched by a man.'"
 
 ---
 
