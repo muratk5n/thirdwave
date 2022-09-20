@@ -1,4 +1,139 @@
-# Lycia's History - A Struggle For Freedom
+# Lycia
+
+### Who Were the Lycians?
+
+History has not left us with as clear a picture of the Lycians as it
+has with some other ancient civilizations, such as the Greeks.
+However, some questions and facts regarding the Lycians can be
+answered or at least speculated upon.
+
+The Lycians were an ancient people who inhabited the area of present
+day Turkey between the bays of Antalya and Fethiye, a compact,
+mountainous territory. The ancient Greeks knew and admired the
+Lycians, for the Lycians had solved a problem which baffled the
+ancient world: how to reconcile free government in the city-state with
+the needs of a larger political unity. The Lycians had a fierce desire
+for freedom and independence and this found its expression in their
+sense of unity and federation.  The institutions of the democratic
+Lycian Federation (the first democratic union known) were studied and
+envied by most classical writers.  While Greek city-states were
+constantly at war with each other, the Lycian cities enjoyed peace
+amongst themselves.
+
+The Lycians were an important part of the Greek and Near Eastern
+worlds since they lived at the point where the two cultures
+intermingled at an important strategic juncture. The Lycians came
+under the twin influences of their neighbours. As a result they
+developed a very different style of art.
+
+The Lycians were also one of the few non-Hellenistic nations of
+antiquity which could not be called ‘barbarians’. In fact, their image
+in antiquity was much like that of today's Swiss: a hard-working and
+wealthy people, neutral in world affairs but fierce in the defense of
+their freedom and conservative in their attachment to ancestral
+tradition. Lycia was the last region on the entire Mediterranean coast
+to be incorporated as a province in the Roman Empire and even then the
+Lycian Union continued to function independently. The Lycians spoke a
+language of their own, with their own unique alphabet, before adopting
+Greek around the 3rd century BC. Their many monuments, especially
+their beautiful tombs which embody their ancestor cult, still dot the
+entire landscape of the southwest coast of Turkey between the Gulf of
+Fethiye and Phaselis.
+
+Besides their unique form of government, the Lycians may have had one
+unusual custom that the Greeks found very unfamilliar. Herodotos
+noted: "They have customs that resemble no one else’s. They use their
+mother’s name instead of their father’s. If one Lycian asks another
+from whom he is descended, he gives the name of his mother. And if a
+citizen woman should cohabit with a slave, the children are considered
+of free birth; but if a citizen man, even the foremost of them, has a
+foreign wife or mistress, the children are without honour".  However,
+it seems that Herodotos may have been speaking of an older Lycian
+custom, for in Lycian and Greek inscriptions alike a man is described
+as the son of his father.  But it may be that in private life the
+Lycians followed a matriarchal order while adhering to contemporary
+customs in public expression, such as inscriptions on tombs.  So far,
+no one has been able to solve the question. It is noteworthy, however,
+that a woman was allowed to preside over the national assembly held
+each year at the national shrine of Lycia, Letoon.  This is a reminder
+of the ancient matriarchal customs in Anatolia.
+
+The Lycians were most likely in origin an Anatolian people since they
+spoke their own Indo-European language closely related to Luwian and
+Hittite.
+
+From archaelogical excavations in the Karataş-Semahoyuk area near
+Elmali, examples of earthenware pottery have been found reveal that
+the region was settled by the third millennium BC.  Moreover, the fact
+that Lycian place names containing, "-nd", "-nt", "-ss" (Kalynda,
+Arykanda, Telmessos, Idebessos) occur in a number of Anatolian sites
+also dated to the fourth millennium B.C. verifes this early settlement
+date linguistically.  An axe has also been found at Tlos, dated around
+2000 BC.
+
+We know that the Lycians had powerful sea and land forces by the
+second millennium BC and had already established an independent
+state. The earliest historical references to the Lycians date back to
+the Late Bronze Age (ca 1500-1200 BC) in numerous Egyptian, Hittite
+and Ugaritic texts. It is known from these that the Lycians (called
+‘Lukka’ in these sources) were involved in acts of piracy against
+Cyprus around 1400 BC, that they fought against Egypt in the ranks of
+the Hittites during the battle of Kadesh in 1295 BC and that they
+participated with the Libyans.  What is interesting is that in early
+records, the Lycians are referred to as 'Lukka', 'Lukki' or 'Ruw-ku',
+while the Lycians themselves never used these terms, instead calling
+themselves Trmmli (Termilae in Greek) and their country Trmmisa.
+
+Lycia as a rather self-ruling area existed until the Byzantine period
+(ca 395-1176 AD) though it was affected by disturbances during the
+Persian domination (545-333 BC) and the Roman Tyranny in 42 BC by
+Brutus.
+
+In Greek legend the Lycians first appear as allies of Troy in the
+Trojan Wars.  Homer reports: "From distant Lycia and the whirling
+Xanthos came the Lycians led by Sarpedon and heroic Glaucus".  They
+Lycians seem to have identified with this version of history.  The
+reliefs of the Heroon of Trysa, one of the greatest finds of Lycian
+archeology (owned by the Kunsthistorisches Museum, Vienna, though not
+on public display) are unique in classical art as they show scenes of
+the Trojan War from a Trojan rather than a Greek perspective.
+
+In myth the rulers of Lycia also sometimes appear as the offspring of
+the mythical hero Bellerophon.
+
+In the Lycians' early history, they were confined to the Xanthos River
+Valley and in later classical times the country expanded north to the
+Indus River (Dalaman Çayi) and east to Phaselis.  Some scholars
+believe that before the 6th century conquest of Lycia by the Persians,
+Lycia's political boundry only existed no further than the Xanthos
+Valley.  The rest of Lycia's future territory was inhabited by other
+tribes, such as the Solymoi.
+ 
+What Did the Lycians Look Like?
+
+We don't have much of a record of physical descriptions, but one
+interesting aspect of the Lycians may have been their hairstyles, at
+least in earlier times.  Polyaenus notes that a man named Charimenes
+managed to escape across Lycia by putting on false hair.  Oeconomica
+tells a story of Mausolos' hyparch taxing the hair lenght of the
+Lycians.  Long-haired Lycians are also depicted in some relief
+sculptures, on a sacrophagus from Limyra, on some coins and on a
+silver-head vase in the British Museum.  These are the only
+descriptions and depictions we have of long-haired Lycians, however.
+
+In 480 BC the Lycians joined the Persian king Xerxes's invasion of
+Greece with 50 ships. Heredotus gives us this description of the
+Lycian crew:
+
+"The wore greaves and corslets; they carried bows of cornel wood, cane
+arrows without feathers, and javelins. They had goatskin slung round
+their shoulders, and hats stuck round with feathers. They also carried
+daggers and rip-hooks."
+
+This description tells us that the Lycians had a very different
+appearance from other troops from Asia Minor, who wore Greek armor.
+
+### History - A Struggle For Freedom
 
 The history of Lycia is a story of fierce struggles against those who
 sought to invade and dominate it, as it was a very desirable region.
@@ -513,7 +648,7 @@ since the Aegean Greeks preferred to settle by the coast.  However,
 Anatolian Greeks were required to leave Turkey and settle in Greece
 after the war of 1919-1922 with the exchange of populations.
 
-What happened to the remaining Lycians in Lycia?
+### What happened to the remaining Lycians in Lycia?
 
 The Lycians that remained in Lycia following its decline may have
 intermarried with the Aegean Greeks who were resettled in Lycia in the
@@ -559,3 +694,8 @@ centre of Kalkan where houses, shops, pensions and restaurants are
 located - it is a charming area with bougainvillea-draped streets that
 wind down to the harbour.  The rooftop dining on these restaurants
 provide excellent views across the harbour to the islands.
+
+Reference
+
+[Link](https://web.archive.org/web/20210221164622/http://www.lycianturkey.com/who_were_the_lycians.htm)
+
