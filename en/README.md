@@ -2,128 +2,134 @@
 
 ---
 
-FT: "Liz Truss admits UK trade deal with US is not on the agenda"
+I see more pipelines, bigger infra. Sweet.
+
+"European Hydrogen Backbone Infrastructure Maps Update"
+
+[[-]](https://hydrogen-central.com/european-hydrogen-backbone-infrastructure-maps-update-september-including-latest-feasibility-estimates-planned-hydrogen-interconnections/)
 
 ---
 
-Daily News Hungary: "According to [Hungarian PM] Orbán, [RUS-UKR] war
-could be around until 2030, and Ukraine could lose a third to even a
-half of its territory. He was sure the war would have been local, but
-the 'West stepped in, making it global', and 'now we are shooting
-ourselves in the foot in Europe with sanctions'. According to Orbán,
-40 percent of European industry could shut down this winter because of
-these sanctions"
+The grid is incredibly inefficient.. Time to phase it out and
+replace it with fuel based infra. Power can be generated at the
+end-points as needed.
 
 ---
 
-🤦‍♂️ 
+So they will be generating ower from fuel-cells. Great.
 
-Vanity Fair: "Ezra Miller’s 'Messiah' Delusions: Inside The Flash
-Star’s Dark Spiral..  This past March, the actor was arrested in a
-tiki bar called Margarita Village in Hilo, Hawaii.. Miller.. barks at
-the cops to state their full names and badge numbers. When one
-attempts to search Miller’s pockets, the actor says twice, rapid-fire,
-'I’m transgender nonbinary. I don’t want to be searched by a man.'"
+H2 Central: "A Norwegian consortium comprised of four local players,
+PSW Power & Automation, Westgass Hydrogen, CCB and H2 Production, has
+been established to provide a hydrogen-based shore power solution to
+the maritime sector...
 
----
+'We have shown that our container-based power solutions can be fuelled
+by hydrogen, and together with our partners we have demonstrated that
+the value chain for such solutions is in place.'
 
-Timewarp Inc - Wake Up Bossa (Instrumental) \#music
+Platform suppliers, cruise ships, drilling rigs and fish farms that
+rely heavily on diesel generators can each consume the equivalent of
+the power requirement of 400 to 500 houses for their onboard
+operations.
 
-[[-]](https://youtu.be/0trL_Lq7iVU)
-
----
-
-All this arises in physical phenomena that is mathematically known
-*completely*. Ain't that crazy?
-
----
-
-There - we see a turbulent area but it is localized and there is a
-certain pattern to its outer edges. Capture that, in most cases would
-not be a need to know all of the internal details.
-
-[[-]](https://thumbs.gfycat.com/MixedAssuredAnchovy-size_restricted.gif)
+Connecting to onshore power supply when docking at ports and shipyards
+is a preferred solution to reduce emissions, but CCB said it is facing
+significant challenges in meeting demand due to capacity constraints
+in the electricity grid"
 
 ---
 
-Turbulence, randomness.. how was randomness used? Calculating detailed
-aero (to see all details of turbulence) is costly. With usual methods
-one represents turbulence statistically, allowing controlled
-randomness in the model, eg one says "I'll treat turbulent parts as a
-blob, I dont care about the internal details of that blob but I'll
-keep track of its location, maybe its size"... That could improve
-calculations, turb is roughly accounted for, no need to process it in
-detail, the rest of the computation in non-turbulent areas benefit
-too.
+H2 Central: "DAT, Everfuel, and Universal Hydrogen Announce
+Collaboration to Bring True Zero Emissions Passenger Flights to
+Denmark by 2025"
 
 ---
 
-CH has the hardware, manpower to establish a blockade, but can it
-sustain it? Any sub can take a shot at the ships wout giving up their
-country of origin. Any neighbor, or even US could try, once past
-anti-sub defenses.
+Claim is due to limited troops RU had pulled resources from Kharkiv
+and sent them to Donbas which created an opening for UKR to
+exploit. That shortage is now being fixed with partial mobilisation.
 
-WSJ: "China Is Capable of Blockading Taiwan, U.S. Navy Commander
-Says.. ‘If they want to bully and put ships around Taiwan, they very
-much can do that,’ said Vice Adm. Karl Thomas"
-
----
-
-Latest EQ summary - 2021 looked bad, new counts normal. Not an
-apocalypse - for now.
-
-[[-]](2019/05/natdisaster.html#equakes)
+IMO at the end RU will take what they were aiming for, no matter
+what... The only question is how many people die in between now and
+then. According to sources the cost is higher on the UKR side.
 
 ---
 
-WSJ: "Strong Earthquake Rocks Southwestern Mexico"
+300 K RU mobilisation.. why is that surprising? Ukraine is an existential
+issue for Russia.
 
 ---
 
-Al Monitor: "Cyprus, Israel vow speedy end to [East Med, Aphrodite and
-Yishai deposits] gas row .. [ISR minister] said that, due to the
-global energy crisis and Europe's growing gas needs, 'it is in our
-best interest for both sides to expedite their work for a swift,
-transparent and fair settlement'".
+Star comm can lose messages in the middle (not listening) even that
+is preferable to all-connected-to-all style.
 
 ---
 
-H2 Central: "Nel Scientist Wins Top Prize on his Proton Exchange
-Membrane Technology Research"
+It's great when a problem reduces to a mere eigenvector/value calculation
 
 ---
 
-H2 Central: "Woodside and Japanese partners to conduct feasibility
-study on establishing a lower-emissions fuel ammonia supply chain from
-Australia to Japan...
-
-In addition, the [JP] Sixth Strategic Energy Plan.. states that
-ammonia-fueled power generation is one of the most promising options
-for decarbonizing power sources toward achieving carbon neutrality by
-2050 since it does not emit CO2 during combustion and can be utilized
-in many existing power generation facilities such as boilers and
-denitration facilities without modification.
-
-Last year, Woodside, JOGMEC, Marubeni, Hokuriku Electric, and Kansai
-Electric conducted a feasibility study on the entire supply chain,
-including the production of lower emissions ammonia in Australia from
-natural gas with CO2 abatement methods such as Carbon Capture and
-Storage (CCS), Carbon Capture and Utilisation (CCU), and
-biosequestration; marine transportation to Japan; ammonia’s
-utilization as a fuel for power generation and marine use; and
-financing"
+Al Monitor: "Israel must end its occupation of Palestine, Qatari emir
+tells UN General Assembly"
 
 ---
 
-Electric transmission introduces weaknesses in infra. Pipelines are robust.
-
-Vox: [2018] Hurricane Maria.. did knock down 80 percent of the
-island’s utility poles and all transmission lines.
+Al Monitor: "Palestinian street battles point to wider West Bank
+crisis. Gun battles in central Nablus, with young Palestinians
+fighting police and setting blazes that shut the city down, signal
+growing chaos in the northern West Bank that could spiral out of
+control"
 
 ---
 
-NPR: "Puerto Rico is without electricity as Hurricane Fiona pummels
-the island"
+Al Jazeera: "Iraq’s mighty Tigris river is drying up.. Drying
+riverbeds mean Iraqi authorities have had to sharply cut the area of
+cultivated land in the country"
+
+---
+
+H2 Fuel News: "Last Month, Southern California Gas (SoCalGas) and The
+Blue Oval announced that they were developing a Ford F-550 prototype
+for a Super Duty hydrogen fuel cell truck. The project was a component
+of the US Department of Energy (DoE) SuperTruck 3 program for
+considerably reducing medium-and heavy-duty vehicle emissions"
+
+---
+
+H2 News: "UK vehicle maker Tevva launches hydrogen truck"
+
+---
+
+\#Hulk
+
+[[-]](https://pbs.twimg.com/media/EJWxRTHVAAA0Y_6?format=png&name=small)
+
+---
+
+I try to cite sources AMAP, it helps for later study
+
+---
+
+Al Jazeera: "Joint investigation finds Abu Akleh’s killing 'deliberate'"
+
+[[-]](https://youtu.be/QLtU_uqqwfs)
+
+---
+
+By just looking at connectivity graph, one can see man-in-the-middle
+centric star-pattern is more efficient than all-connected-all style.
+The latter would be "participatory" democracy the former is
+representative.
+
+[[-]](https://pbs.twimg.com/media/FdO5FHCWIAAUNRs?format=png&name=small)
+
+---
+
+Overcommunication.. not good
+
+"@mbeisen
+
+The scariest 7 words in English are 'I’ll add you to the Slack channel'"
 
 ---
 
