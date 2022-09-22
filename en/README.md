@@ -54,8 +54,9 @@ then. Sad.
 
 ---
 
-300 K RU mobilisation.. why is that surprising? Ukraine is an existential
-issue for Russia.
+Annexation referandum (whose outcome will surprise noone) and 300 K RU
+mobilisation.. why is that surprising? Ukraine is an existential issue
+for Russia.
 
 ---
 
