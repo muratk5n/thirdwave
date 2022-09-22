@@ -14,8 +14,6 @@ More pipelines, bigger infra clearly visible in the map.
 
 ---
 
-They will be generating power from fuel-cells.
-
 H2 Central: "A Norwegian consortium comprised of four local players,
 PSW Power & Automation, Westgass Hydrogen, CCB and H2 Production, has
 been established to provide a hydrogen-based shore power solution to
