@@ -6,7 +6,8 @@ WION: "US Federal Reserve hikes interest rates to highest level since 2008"
 
 ---
 
-More pipelines, bigger infra clearly visible in the map. 
+More pipelines, bigger infra clearly visible in the map comparing
+before and after. 
 
 "European Hydrogen Backbone Infrastructure Maps Update"
 
@@ -109,10 +110,9 @@ Al Jazeera: "Joint investigation finds Abu Akleh’s killing 'deliberate'"
 
 ---
 
-By just looking at connectivity graph, one can see man-in-the-middle
-centric star-pattern is more efficient than all-connected-all style.
-The latter would be "participatory" democracy the former is
-representative.
+Can see man-in-the-middle centric star-pattern is simpler than
+all-connected-all style. The latter would be "participatory" democracy
+the former representative.
 
 [[-]](https://pbs.twimg.com/media/FdO5FHCWIAAUNRs?format=png&name=small)
 
