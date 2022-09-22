@@ -2,7 +2,7 @@
 
 ---
 
-I see more pipelines, bigger infra. Sweet.
+More pipelines, bigger infra clearly visible in the map. 
 
 "European Hydrogen Backbone Infrastructure Maps Update"
 
