@@ -54,11 +54,6 @@ existential issue for Russia.
 
 ---
 
-Star comm can lose messages in the middle (not listening) even that
-is preferable to all-connected-to-all style.
-
----
-
 It's great when a problem reduces to a mere eigenvector/value calculation
 
 ---
@@ -112,7 +107,8 @@ Al Jazeera: "Joint investigation finds Abu Akleh’s killing 'deliberate'"
 
 Can see man-in-the-middle centric star-pattern is simpler than
 all-connected-all style. The latter would be "participatory" democracy
-the former representative.
+the former representative. Star comm can lose messages in the middle
+(not listening) even that is preferable to higher density.
 
 [[-]](https://pbs.twimg.com/media/FdO5FHCWIAAUNRs?format=png&name=small)
 
