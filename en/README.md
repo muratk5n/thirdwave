@@ -48,15 +48,11 @@ Claim is due to limited troops RU had pulled resources from Kharkiv
 and sent them to Donbas which created an opening for UKR to
 exploit. That shortage is now being fixed with partial mobilisation.
 
-In the end IMO RU will take what they were aiming for, no matter
-what... The only question is how many people die in between now and
-then. Sad.
-
 ---
 
-Annexation referandum (whose outcome will surprise noone) and 300 K RU
-mobilisation.. why is that surprising? Ukraine is an existential issue
-for Russia.
+Annexation referandum (whose outcome will surprise noone I'm sure) and
+300 K RU mobilisation.. why is that surprising? Ukraine is an
+existential issue for Russia.
 
 ---
 
