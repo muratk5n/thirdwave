@@ -42,6 +42,12 @@ Denmark by 2025"
 
 ---
 
+NPR: "[08/2022] Independent Russian news outlet iStories says it
+counted (through open-source information) more than 5,000 Russian
+service members killed, but that the true number could be higher"
+
+---
+
 Claim is due to limited troops RU had pulled resources from Kharkiv
 and sent them to Donbas, Kherson which created an opening for UKR to
 exploit. That shortage is now being fixed with partial mobilisation.
