@@ -44,7 +44,7 @@ Denmark by 2025"
 
 NPR: "[08/2022] Independent Russian news outlet iStories says it
 counted (through open-source information) more than 5,000 Russian
-service members killed"
+service members killed [in the UKR conflict so far]"
 
 ---
 
