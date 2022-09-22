@@ -48,9 +48,9 @@ exploit. That shortage is now being fixed with partial mobilisation.
 
 ---
 
-Annexation referandum (whose outcome will surprise noone I'm sure) and
-300 K RU mobilisation.. why is that surprising? Ukraine is an
-existential issue for Russia.
+Annexation referandum (whose outcome will surely be a yes) and 300 K
+RU mobilisation.. why is that surprising? Ukraine is an existential
+issue for Russia.
 
 ---
 
