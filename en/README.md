@@ -2,6 +2,10 @@
 
 ---
 
+WION: "US Federal Reserve hikes interest rates to highest level since 2008"
+
+---
+
 More pipelines, bigger infra clearly visible in the map. 
 
 "European Hydrogen Backbone Infrastructure Maps Update"
@@ -10,12 +14,7 @@ More pipelines, bigger infra clearly visible in the map.
 
 ---
 
-Let's phase out grids, power can be generated near end-points as
-needed. 
-
----
-
-They will be generating power from fuel-cells. Great.
+They will be generating power from fuel-cells.
 
 H2 Central: "A Norwegian consortium comprised of four local players,
 PSW Power & Automation, Westgass Hydrogen, CCB and H2 Production, has
