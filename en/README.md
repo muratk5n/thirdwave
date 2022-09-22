@@ -43,7 +43,7 @@ Denmark by 2025"
 ---
 
 Claim is due to limited troops RU had pulled resources from Kharkiv
-and sent them to Donbas which created an opening for UKR to
+and sent them to Donbas, Kherson which created an opening for UKR to
 exploit. That shortage is now being fixed with partial mobilisation.
 
 ---
