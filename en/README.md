@@ -54,6 +54,16 @@ existential issue for Russia.
 
 ---
 
+\#Hulk
+
+[[-]](https://pbs.twimg.com/media/EJWxRTHVAAA0Y_6?format=png&name=small)
+
+---
+
+I try to cite sources AMAP, it helps for later study
+
+---
+
 It's great when a problem reduces to a mere eigenvector/value calculation
 
 ---
@@ -86,16 +96,6 @@ considerably reducing medium-and heavy-duty vehicle emissions"
 ---
 
 H2 News: "UK vehicle maker Tevva launches hydrogen truck"
-
----
-
-\#Hulk
-
-[[-]](https://pbs.twimg.com/media/EJWxRTHVAAA0Y_6?format=png&name=small)
-
----
-
-I try to cite sources AMAP, it helps for later study
 
 ---
 
