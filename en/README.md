@@ -51,7 +51,7 @@ exploit. That shortage is now being fixed with partial mobilisation.
 
 In the end IMO RU will take what they were aiming for, no matter
 what... The only question is how many people die in between now and
-then. And let's not forget the cost is higher on the UKR side.
+then. 
 
 ---
 
