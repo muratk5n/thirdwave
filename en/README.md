@@ -16,7 +16,7 @@ end-points as needed.
 
 ---
 
-So they will be generating ower from fuel-cells. Great.
+They will be generating power from fuel-cells. Great.
 
 H2 Central: "A Norwegian consortium comprised of four local players,
 PSW Power & Automation, Westgass Hydrogen, CCB and H2 Production, has
