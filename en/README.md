@@ -10,9 +10,8 @@ I see more pipelines, bigger infra. Sweet.
 
 ---
 
-The grid is incredibly inefficient.. Time to phase it out and
-replace it with fuel based infra. Power can be generated at the
-end-points as needed.
+Let's phase out grids, power can be generated near end-points as
+needed. 
 
 ---
 
