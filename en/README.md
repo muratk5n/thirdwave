@@ -69,7 +69,7 @@ series is coming back to. Buy at the mean sell after certain $\sigma$.
 
 ---
 
-Noise is mean reverting BTW (noise as in say Gaussian $N(0,\sigma)$)
+Noise is mean reverting BTW (noise, as in, eg Gaussian $N(0,\sigma)$)
 
 ---
 
