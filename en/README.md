@@ -57,7 +57,7 @@ Christian Bruhn - Ford Taunus \#music
 
 ---
 
-*Andor*.. One Rottentomatoes comment says "[it] is slow and boring" -
+*Andor*.. One Rotten Tomatoes comment says "[it] is slow and boring" -
 I agree... It's like watching a *Law and Order* episode in the
 backdrop of *The Usual Suspects*. The one positive aspect though is
 *Andor* isn't cuck.
