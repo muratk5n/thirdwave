@@ -146,10 +146,10 @@ start.
 
 ---
 
-RU tried to achieve success on the cheap. Instead of the other method
-of fighting they are known for (sacrificing inordinate amount of men
-for land) they tried to conserve forces this time, not sacrificing
-people for the eff of it. This is new.
+Instead of the other method of fighting they are known for
+(sacrificing inordinate amount of men for land) RU actually tried to
+conserve forces this time, not sacrificing people for the eff of
+it. This is new.
 
 ---
 
