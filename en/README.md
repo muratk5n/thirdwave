@@ -51,12 +51,6 @@ When publishers brainstorm and come up with a new type of Open Access"
 
 ---
 
-Christian Bruhn - Ford Taunus \#music
-
-[[-]](https://youtu.be/wMlBWSdEhb4)
-
----
-
 *Andor*.. One Rotten Tomatoes comment says "[it] is slow and boring" -
 I agree... It's like watching a *Law and Order* episode in the
 backdrop of *The Usual Suspects*. The one positive aspect though is
