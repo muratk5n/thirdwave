@@ -24,7 +24,7 @@ Guess what, ammonia fixes that problem too.. it can replace hydrofluorocarbons c
 Good good..
 
 Politico: "While the Senate is badly divided on most climate issues,
-strong backing from the business community to eliminate
+[but] strong backing from the business community to eliminate
 hydrofluorocarbons, known as HFCs, aligned with environmentalists’
 agenda to help secure enough Republican support to meet the
 Constitution’s requirement of two-thirds support"
