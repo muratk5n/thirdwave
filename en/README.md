@@ -64,8 +64,8 @@ backdrop of *The Usual Suspects*. The one positive aspect though is
 
 ---
 
-You could trade on noise.. Every up has a down, it is known where
-series is coming back to. Buy at the mean sell after certain $\sigma$.
+Can trade on noise.. Every up has a down, it is known where series is
+coming back to. Buy at the mean sell after certain $\sigma$.
 
 ---
 
