@@ -39,7 +39,7 @@ projects on:
 - ️H2-related infrastructure & for the production, storage &
   transport of renewable and low-carbon H2
 
-- technologies for integrating H2 into industrial processes"
+- Technologies for integrating H2 into industrial processes"
 
 ---
 
