@@ -15,7 +15,7 @@ food process- ing industrial application. The ammonia system is over
 
 ---
 
-Guess what, ammonia fixes that problem too.. replacing hydrofluorocarbons.
+Guess what, ammonia fixes that problem too.. it can replace hydrofluorocarbons cleanly.
 
 [PDF](https://www.eceee.org/library/conference_proceedings/eceee_Industrial_Summer_Study/2020/4-technology-products-and-systems/ultra-low-charge-ammonia-chillers-for-energy-efficiency-in-industrial-applications/2020/4-056-20_Amarnath.pdf)
 
@@ -60,7 +60,7 @@ Christian Bruhn - Ford Taunus \#music
 *Andor*.. One Rottentomatoes comment says "[it] is slow and boring" -
 I agree... It's like watching a *Law and Order* episode in the
 backdrop of *The Usual Suspects*. The one positive aspect though is
-*Andor* isn't cuck. 
+*Andor* isn't cuck.
 
 ---
 
