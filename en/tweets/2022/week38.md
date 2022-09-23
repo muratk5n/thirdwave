@@ -1,5 +1,131 @@
 # Week 38 
 
+WION: "US Federal Reserve hikes interest rates to highest level since 2008"
+
+---
+
+More pipelines, bigger infra clearly visible in the map comparing
+before and after. 
+
+"European Hydrogen Backbone Infrastructure Maps Update"
+
+[[-]](https://hydrogen-central.com/european-hydrogen-backbone-infrastructure-maps-update-september-including-latest-feasibility-estimates-planned-hydrogen-interconnections/)
+
+---
+
+H2 Central: "A Norwegian consortium comprised of four local players,
+PSW Power & Automation, Westgass Hydrogen, CCB and H2 Production, has
+been established to provide a hydrogen-based shore power solution to
+the maritime sector...
+
+'We have shown that our container-based power solutions can be fuelled
+by hydrogen, and together with our partners we have demonstrated that
+the value chain for such solutions is in place.'
+
+Platform suppliers, cruise ships, drilling rigs and fish farms that
+rely heavily on diesel generators can each consume the equivalent of
+the power requirement of 400 to 500 houses for their onboard
+operations.
+
+Connecting to onshore power supply when docking at ports and shipyards
+is a preferred solution to reduce emissions, but CCB said it is facing
+significant challenges in meeting demand due to capacity constraints
+in the electricity grid"
+
+---
+
+H2 Central: "DAT, Everfuel, and Universal Hydrogen Announce
+Collaboration to Bring True Zero Emissions Passenger Flights to
+Denmark by 2025"
+
+---
+
+NPR: "[08/2022] Independent Russian news outlet iStories says it
+counted (through open-source information) more than 5,000 Russian
+service members killed [in the UKR conflict so far]"
+
+---
+
+Claim is due to limited troops RU had pulled resources from Kharkiv
+and sent them to Donbas, Kherson which created an opening for UKR to
+exploit. That shortage is now being fixed with partial mobilisation.
+
+---
+
+Annexation referandum (whose outcome will surely be Ja) and 300 K
+RU mobilisation.. why is that surprising? Ukraine is an existential
+issue for Russia.
+
+---
+
+\#Hulk
+
+[[-]](https://pbs.twimg.com/media/EJWxRTHVAAA0Y_6?format=png&name=small)
+
+---
+
+I try to cite sources AMAP, it helps for later study
+
+---
+
+It's great when a problem reduces to a mere eigenvector/value calculation
+
+---
+
+Al Monitor: "Israel must end its occupation of Palestine, Qatari emir
+tells UN General Assembly"
+
+---
+
+Al Monitor: "Palestinian street battles point to wider West Bank
+crisis. Gun battles in central Nablus, with young Palestinians
+fighting police and setting blazes that shut the city down, signal
+growing chaos in the northern West Bank that could spiral out of
+control"
+
+---
+
+Al Jazeera: "Iraq’s mighty Tigris river is drying up.. Drying
+riverbeds mean Iraqi authorities have had to sharply cut the area of
+cultivated land in the country"
+
+---
+
+H2 Fuel News: "Last Month, Southern California Gas (SoCalGas) and The
+Blue Oval announced that they were developing a Ford F-550 prototype
+for a Super Duty hydrogen fuel cell truck. The project was a component
+of the US Department of Energy (DoE) SuperTruck 3 program for
+considerably reducing medium-and heavy-duty vehicle emissions"
+
+---
+
+H2 News: "UK vehicle maker Tevva launches hydrogen truck"
+
+---
+
+Al Jazeera: "Joint investigation finds Abu Akleh’s killing 'deliberate'"
+
+[[-]](https://youtu.be/QLtU_uqqwfs)
+
+---
+
+Can see man-in-the-middle centric star-pattern is simpler than
+all-connected-all style. The latter would be "participatory" democracy
+the former representative. Star comm can lose messages in the middle
+(not listening) even that is preferable to higher density.
+
+[[-]](https://pbs.twimg.com/media/FdO5FHCWIAAUNRs?format=png&name=small)
+
+---
+
+Overcommunication.. not good
+
+"@mbeisen
+
+The scariest 7 words in English are 'I’ll add you to the Slack channel'"
+
+---
+
 FT: "Liz Truss admits UK trade deal with US is not on the agenda"
 
 ---

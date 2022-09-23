@@ -2,129 +2,158 @@
 
 ---
 
-WION: "US Federal Reserve hikes interest rates to highest level since 2008"
+Produce clean ammonia, it can transmit H2, and be used for
+refigration. That is cool - as in refigrator cool.
 
 ---
 
-More pipelines, bigger infra clearly visible in the map comparing
-before and after. 
-
-"European Hydrogen Backbone Infrastructure Maps Update"
-
-[[-]](https://hydrogen-central.com/european-hydrogen-backbone-infrastructure-maps-update-september-including-latest-feasibility-estimates-planned-hydrogen-interconnections/)
-
----
-
-H2 Central: "A Norwegian consortium comprised of four local players,
-PSW Power & Automation, Westgass Hydrogen, CCB and H2 Production, has
-been established to provide a hydrogen-based shore power solution to
-the maritime sector...
-
-'We have shown that our container-based power solutions can be fuelled
-by hydrogen, and together with our partners we have demonstrated that
-the value chain for such solutions is in place.'
-
-Platform suppliers, cruise ships, drilling rigs and fish farms that
-rely heavily on diesel generators can each consume the equivalent of
-the power requirement of 400 to 500 houses for their onboard
-operations.
-
-Connecting to onshore power supply when docking at ports and shipyards
-is a preferred solution to reduce emissions, but CCB said it is facing
-significant challenges in meeting demand due to capacity constraints
-in the electricity grid"
+"HFC refrigerants can be expensive to manufacture and have significant
+negative environmental impact. This paper presents the results of a
+field demonstration of an ammonia-based process cooling system in a
+food process- ing industrial application. The ammonia system is over
+20 % more efficient than comparable HFC based process cooling systems"
 
 ---
 
-H2 Central: "DAT, Everfuel, and Universal Hydrogen Announce
-Collaboration to Bring True Zero Emissions Passenger Flights to
-Denmark by 2025"
+Guess what, ammonia fixes that problem too.. replacing hydrofluorocarbons.
+
+[PDF](https://www.eceee.org/library/conference_proceedings/eceee_Industrial_Summer_Study/2020/4-technology-products-and-systems/ultra-low-charge-ammonia-chillers-for-energy-efficiency-in-industrial-applications/2020/4-056-20_Amarnath.pdf)
+
+---
+
+Good good..
+
+Politico: "While the Senate is badly divided on most climate issues,
+strong backing from the business community to eliminate
+hydrofluorocarbons, known as HFCs, aligned with environmentalists’
+agenda to help secure enough Republican support to meet the
+Constitution’s requirement of two-thirds support"
+
+---
+
+"@H2Europe
+
+@EU_Commission approved 2nd \#IPCEI worth €5.2bn to support hydrogen
+projects on:
+
+- ️H2-related infrastructure & for the production, storage &
+  transport of renewable and low-carbon H2
+
+- technologies for integrating H2 into industrial processes"
+
+---
+
+"@OdedRechavi
+
+When publishers brainstorm and come up with a new type of Open Access"
+
+[[-]](https://twitter.com/OdedRechavi/status/1572838156915085312)
+
+---
+
+Christian Bruhn - Ford Taunus \#music
+
+[[-]](https://youtu.be/wMlBWSdEhb4)
+
+---
+
+*Andor*.. One Rottentomatoes comment says "[it] is slow and boring" -
+I agree... It's like watching a *Law and Order* episode in the
+backdrop of *The Usual Suspects*. The one positive aspect though is
+*Andor* isn't cuck. 
+
+---
+
+You could trade on noise.. Every up has a down, it is known where
+series is coming back to. Buy at the mean sell after certain $\sigma$.
+
+---
+
+Noise is mean reverting BTW (noise as in say Gaussian $N(0,\sigma)$)
+
+---
+
+Can create mean-reverting series using eigenvectors (calculated in a
+certain way, wont detail here). Dam
+
+---
+
+Deadly
+
+"@wowinteresting8
+
+This is how AK47 works"
+
+[[-]](https://twitter.com/wowinteresting8/status/1572745995678617600)
+
+---
+
+It's open season on Trump. I am not sure if they are targeting him, or
+trying to crowd out coverage for other Reps in general.
+
+---
+
+There won't be a green transition even with all the lithium mined. The
+reserves are insufficient (enough only for 5% of all storage needs)
+
+---
+
+I think all the numbers below, except the iStories one, are full of
+shit. It reminds me the ailment, Putin body-double
+[stories](2022/07/putin-health.html).
+
+---
+
+?
+
+Military.com: "[08/2022] Russia Has Suffered Up to 80,000 Military
+Casualties in Ukraine, Pentagon Says"
+
+---
+
+?
+
+TDB: "[07/2022] U.S. intelligence estimates that 15,000 Russian troops
+have been killed in Ukraine in nearly five months of war"
+
+---
+
+? 🤨
+
+US News: "[08/2022] As Many as 80000 Russian Forces Killed, Wounded in
+Ukraine"
+
+---
+
+?
+
+CNBC: "[03/2022] Up to 40,000 Russian soldiers killed, wounded, captured"
+
+---
+
+?
+
+The Telegraph: "[07/2022] More than 75,000 Russian soldiers have been
+killed or injured in the war"
+
+---
+
+Troop shifting around Kharkiv, Donbas likely had to do trying to cover
+a huge area with insufficient forces, and that was true from the
+start.
+
+---
+
+RU tried to achieve success on the cheap. Instead of the other method
+of fighting they are known for (sacrificing inordinate amount of men
+for land) they tried to conserve forces this time, not sacrificing
+people for the eff of it. This is new.
 
 ---
 
 NPR: "[08/2022] Independent Russian news outlet iStories says it
 counted (through open-source information) more than 5,000 Russian
-service members killed [in the UKR conflict so far]"
-
----
-
-Claim is due to limited troops RU had pulled resources from Kharkiv
-and sent them to Donbas, Kherson which created an opening for UKR to
-exploit. That shortage is now being fixed with partial mobilisation.
-
----
-
-Annexation referandum (whose outcome will surely be Ja) and 300 K
-RU mobilisation.. why is that surprising? Ukraine is an existential
-issue for Russia.
-
----
-
-\#Hulk
-
-[[-]](https://pbs.twimg.com/media/EJWxRTHVAAA0Y_6?format=png&name=small)
-
----
-
-I try to cite sources AMAP, it helps for later study
-
----
-
-It's great when a problem reduces to a mere eigenvector/value calculation
-
----
-
-Al Monitor: "Israel must end its occupation of Palestine, Qatari emir
-tells UN General Assembly"
-
----
-
-Al Monitor: "Palestinian street battles point to wider West Bank
-crisis. Gun battles in central Nablus, with young Palestinians
-fighting police and setting blazes that shut the city down, signal
-growing chaos in the northern West Bank that could spiral out of
-control"
-
----
-
-Al Jazeera: "Iraq’s mighty Tigris river is drying up.. Drying
-riverbeds mean Iraqi authorities have had to sharply cut the area of
-cultivated land in the country"
-
----
-
-H2 Fuel News: "Last Month, Southern California Gas (SoCalGas) and The
-Blue Oval announced that they were developing a Ford F-550 prototype
-for a Super Duty hydrogen fuel cell truck. The project was a component
-of the US Department of Energy (DoE) SuperTruck 3 program for
-considerably reducing medium-and heavy-duty vehicle emissions"
-
----
-
-H2 News: "UK vehicle maker Tevva launches hydrogen truck"
-
----
-
-Al Jazeera: "Joint investigation finds Abu Akleh’s killing 'deliberate'"
-
-[[-]](https://youtu.be/QLtU_uqqwfs)
-
----
-
-Can see man-in-the-middle centric star-pattern is simpler than
-all-connected-all style. The latter would be "participatory" democracy
-the former representative. Star comm can lose messages in the middle
-(not listening) even that is preferable to higher density.
-
-[[-]](https://pbs.twimg.com/media/FdO5FHCWIAAUNRs?format=png&name=small)
-
----
-
-Overcommunication.. not good
-
-"@mbeisen
-
-The scariest 7 words in English are 'I’ll add you to the Slack channel'"
+service members killed"
 
 ---
 
