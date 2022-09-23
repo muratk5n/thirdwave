@@ -113,13 +113,6 @@ Casualties in Ukraine, Pentagon Says"
 
 ---
 
-?
-
-TDB: "[07/2022] U.S. intelligence estimates that 15,000 Russian troops
-have been killed in Ukraine in nearly five months of war"
-
----
-
 ? 🤨
 
 US News: "[08/2022] As Many as 80000 Russian Forces Killed, Wounded in
