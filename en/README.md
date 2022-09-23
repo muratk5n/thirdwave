@@ -74,7 +74,7 @@ Noise is mean reverting BTW (noise, as in, eg Gaussian $N(0,\sigma)$)
 ---
 
 Can create mean-reverting series using eigenvectors (calculated in a
-certain way, wont detail here). Dam
+certain way, wont detail here) combining various price data. Dam
 
 ---
 
