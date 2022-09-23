@@ -94,7 +94,9 @@ trying to crowd out coverage for other Reps in general.
 ---
 
 There won't be a green transition even with all the lithium mined. The
-reserves are insufficient (enough only for 5% of all storage needs)
+reserves are insufficient (enough only for 5% of all storage needs).
+
+Exclusive use of clean fuels will however allow a green transition.
 
 ---
 
