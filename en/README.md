@@ -100,7 +100,7 @@ burdensome that one cannot walk away from it.” — Søren Kierkegaard
 
 @FCHEA_News
 
-@ENERGY just announced a historic $7B for regional clean hydrogen
+[DOE] just announced a historic $7B for regional clean hydrogen
 hubs. FCHEA and its members are thrilled by this announcement and the
 ongoing support of our industry by Congress and the Administration.
 
