@@ -33,8 +33,6 @@ breaking Iran's strict rules on wearing the hijab"
 Bulgaria, Hungary, and perhaps soon Italy. The anti-anti-Russia crowd
 growing
 
----
-
 First Post: "In Bulgaria a government that took a strong stand against
 Russia following its invasion of Ukraine collapsed due to infighting
 in June, ever since Bulgaria is being led by an interim government
@@ -43,7 +41,7 @@ Moscow"
 
 ---
 
-Wind gusts of over 200 km/h.. wow
+Wind gusts of over 200 km/h.. intense
 
 [[-]](https://pbs.twimg.com/media/FdW9gavXoAA3im2?format=jpg&name=small)
 
