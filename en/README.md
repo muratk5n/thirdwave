@@ -78,10 +78,6 @@ work on the second Bourne movie was terrible. First one was fine.
 
 ---
 
-Bernoullis.. A busy family weren't they?
-
----
-
 Walking is great. And (insert some literary stuff here like
 Kierkegaaaaard) jogging is really fucking bad.
 
