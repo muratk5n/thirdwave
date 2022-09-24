@@ -35,8 +35,7 @@ hydrogen tank"
 ---
 
 H2 Central: "SSAB and Norsk Stål AS start partnership in fossil-free
-steel, produced using hydrogen, for the Nordic Market. SSAB has
-entered into an agreement with"
+steel, produced using hydrogen, for the Nordic Market."
 
 ---
 
