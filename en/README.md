@@ -41,7 +41,7 @@ Moscow"
 
 ---
 
-Wind gusts of over 200 km/h.. intense
+Mad wind gusts
 
 [[-]](https://pbs.twimg.com/media/FdW9gavXoAA3im2?format=jpg&name=small)
 
