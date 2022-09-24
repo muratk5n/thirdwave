@@ -79,7 +79,7 @@ work on the second Bourne movie was terrible. First one was fine.
 ---
 
 Walking is great. And (insert some literary stuff here like
-Kierkegaaaaard) jogging is really fucking bad.
+Kierkegaaaaard) jogging is fucking bad. 
 
 ---
 
