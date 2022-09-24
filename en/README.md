@@ -12,7 +12,7 @@ engage in political activity in 2022"
 
 ---
 
-H2 Central: "Plug 1mw Electrolyzer Commissioned at World’s First
+H2 Central: "[Plug Power] Electrolyzer Commissioned at World’s First
 Floating Offshore Green Hydrogen Production Site"
 
 ---
