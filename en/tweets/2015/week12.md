@@ -133,7 +133,7 @@ are up in arms about it as they should be.
 
 ---
 
-An economist 
+An economist
 
 [Paraphrasing] In order to spur the economy, in post-modern times, it
 is better for governments to invest in infrastructure.

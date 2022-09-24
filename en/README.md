@@ -2,147 +2,80 @@
 
 ---
 
-Produce clean ammonia, it can transmit H2, and be used for
-refigration. That is cool - as in refigrator cool.
+Wind gusts of over 200 km/h.. Crazy
+
+[[-]](https://pbs.twimg.com/media/FdW9gavXoAA3im2?format=jpg&name=small)
 
 ---
 
-"HFC refrigerants can be expensive to manufacture and have significant
-negative environmental impact. This paper presents the results of a
-field demonstration of an ammonia-based process cooling system in a
-food process- ing industrial application. The ammonia system is over
-20 % more efficient than comparable HFC based process cooling systems"
+Bulgaria, Hungary, and perhaps soon Italy. The anti-anti-Russia crowd
+growing
 
 ---
 
-Guess what, ammonia fixes that problem too.. it can replace hydrofluorocarbons cleanly.
-
-[PDF](https://www.eceee.org/library/conference_proceedings/eceee_Industrial_Summer_Study/2020/4-technology-products-and-systems/ultra-low-charge-ammonia-chillers-for-energy-efficiency-in-industrial-applications/2020/4-056-20_Amarnath.pdf)
-
----
-
-Good good..
-
-Politico: "While the Senate is badly divided on most climate issues,
-[but] strong backing from the business community to eliminate
-hydrofluorocarbons, known as HFCs, aligned with environmentalists’
-agenda to help secure enough Republican support to meet the
-Constitution’s requirement of two-thirds support"
+First Post: "In Bulgaria a government that took a strong stand against
+Russia following its invasion of Ukraine collapsed due to infighting
+in June, ever since Bulgaria is being led by an interim government
+that has pursued a softer stance, willing to negotiate a gas deal with
+Moscow"
 
 ---
 
-"@H2Europe
+Go for it, do the right-wing thing full to the hilt, oppo does the
+reverse once in power - the division should be crystal clear. No more
+centrist cuck business.
 
-@EU_Commission approved 2nd \#IPCEI worth €5.2bn to support hydrogen
-projects on:
-
-- ️H2-related infrastructure & for the production, storage &
-  transport of renewable and low-carbon H2
-
-- Technologies for integrating H2 into industrial processes"
+NYT: "U.K. Government Goes Full Tilt on Tax Cuts and Free-Market Economics"
 
 ---
 
-"@OdedRechavi
-
-When publishers brainstorm and come up with a new type of Open Access"
-
-[[-]](https://twitter.com/OdedRechavi/status/1572838156915085312)
+H2 Fuel News: "Alstom Coradia iLint train travels 1,175 km on one
+hydrogen tank"
 
 ---
 
-*Andor*.. One Rotten Tomatoes comment says "[it] is slow and boring" -
-I agree... It's like watching a *Law and Order* episode in the
-backdrop of *The Usual Suspects*. The one positive aspect though is
-*Andor* isn't cuck.
+H2 Central: "SSAB and Norsk Stål AS start partnership in fossil-free
+steel, produced using hydrogen, for the Nordic Market. SSAB has
+entered into an agreement with"
 
 ---
 
-Can trade on noise.. Every up has a down, it is known where series is
-coming back to. Buy at the mean sell after certain $\sigma$.
+Sup story is pro-immigrant, this one is anti-immigrant? :) That could
+be a message.
 
 ---
 
-Noise is mean reverting BTW (noise, as in, eg Gaussian $N(0,\sigma)$)
+*Brightburn* - alternate Superman story, the horror version.  
 
 ---
 
-Can create mean-reverting series using eigenvectors (calculated in a
-certain way, wont detail here) combining various price data. Dam. \#quant
+Watched a few episodes on Scott Adkins' YT channel talking to guests
+from the action/stunt world.. Everyone seems to agree the shaky-cam
+work on Bourne movie sucked bad. First movie was fine.
 
 ---
 
-Deadly
-
-"@wowinteresting8
-
-This is how AK47 works"
-
-[[-]](https://twitter.com/wowinteresting8/status/1572745995678617600)
+Bernoullis.. A busy family weren't they?
 
 ---
 
-It's open season on Trump. I am not sure if they are targeting him, or
-trying to crowd out coverage for other Reps in general.
+Walking is great. And (insert some literary stuff here like
+Kierkegaaaaard) jogging is a bad fucking exercise. 
 
 ---
 
-There won't be a green transition even with all the lithium mined. The
-reserves are insufficient (enough only for 5% of all storage needs).
-
-Exclusive use of clean fuels will however allow a green transition.
-
----
-
-I think all the numbers below, except the iStories one, are full of
-shit. It reminds me the ailment, Putin body-double
-[stories](2022/07/putin-health.html).
+“Above all, do not lose your desire to walk: Every day I walk myself
+into a state of well-being and walk away from every illness; I have
+walked myself into my best thoughts, and I know of no thought so
+burdensome that one cannot walk away from it.” — Søren Kierkegaard
 
 ---
 
-?
+@FCHEA_News
 
-Military.com: "[08/2022] Russia Has Suffered Up to 80,000 Military
-Casualties in Ukraine, Pentagon Says"
-
----
-
-? 🤨
-
-US News: "[08/2022] As Many as 80000 Russian Forces Killed, Wounded in
-Ukraine"
-
----
-
-?
-
-CNBC: "[03/2022] Up to 40,000 Russian soldiers killed, wounded, captured"
-
----
-
-?
-
-The Telegraph: "[07/2022] More than 75,000 Russian soldiers have been
-killed or injured in the war"
-
----
-
-Troop shifting around Kharkiv, Donbas likely had to do trying to cover
-a huge area with insufficient forces, and that was true from the
-start.
-
----
-
-Instead of the other method of fighting they are known for
-(sacrificing inordinate amount of men for land) RU actually tried to
-conserve forces this time, not sacrificing people for the eff of
-it. This is new.
-
----
-
-NPR: "[08/2022] Independent Russian news outlet iStories says it
-counted (through open-source information) more than 5,000 Russian
-service members killed"
+@ENERGY just announced a historic $7B for regional clean hydrogen
+hubs. FCHEA and its members are thrilled by this announcement and the
+ongoing support of our industry by Congress and the Administration.
 
 ---
 
