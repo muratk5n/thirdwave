@@ -87,7 +87,7 @@ Bernoullis.. A busy family weren't they?
 ---
 
 Walking is great. And (insert some literary stuff here like
-Kierkegaaaaard) jogging is a bad fucking exercise. 
+Kierkegaaaaard) jogging is really fucking bad.
 
 ---
 
