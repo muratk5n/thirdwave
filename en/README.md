@@ -64,8 +64,7 @@ steel, produced using hydrogen, for the Nordic Market."
 
 ---
 
-Sup story is pro-immigrant, this one is anti-immigrant? :) That could
-be a message.
+Sup story is pro-immigrant, this one is anti-immigrant? :) Maybe
 
 ---
 
