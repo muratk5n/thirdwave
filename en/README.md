@@ -22,7 +22,7 @@ Party Conference"
 
 ---
 
-I hope the mullahs are gone but they survived protests before. 
+Mullahs are best gone but they survived protests before. 
 
 CNBC: "Mass protests in Iran, sparked by woman's death in police
 custody.. of 22-year-old Mahsa Amini, who was arrested for allegedly
