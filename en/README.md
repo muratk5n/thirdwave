@@ -2,6 +2,16 @@
 
 ---
 
+Politico: "Donald Trump’s top lieutenants are launching a new super
+PAC that is expected to spend heavily to bolster his endorsed
+candidates in the midterm election — and, some people close to the
+former president say, could become a campaign apparatus if he runs in
+2024... Sanctioned by the former president, the new group, dubbed
+MAGA, Inc., will become the primary vehicle for Trump’s operation to
+engage in political activity in 2022"
+
+---
+
 H2 Central: "Plug 1mw Electrolyzer Commissioned at World’s First
 Floating Offshore Green Hydrogen Production Site"
 
