@@ -22,7 +22,7 @@ Party Conference"
 
 ---
 
-[Link](https://www.washingtontimes.com/news/2009/jun/16/irans-twitter-revolution/).
+[Link](https://www.washingtontimes.com/news/2009/jun/16/irans-twitter-revolution/)
 
 ---
 
