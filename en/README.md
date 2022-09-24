@@ -2,12 +2,6 @@
 
 ---
 
-Wind gusts of over 200 km/h.. Crazy
-
-[[-]](https://pbs.twimg.com/media/FdW9gavXoAA3im2?format=jpg&name=small)
-
----
-
 Bulgaria, Hungary, and perhaps soon Italy. The anti-anti-Russia crowd
 growing
 
@@ -18,6 +12,12 @@ Russia following its invasion of Ukraine collapsed due to infighting
 in June, ever since Bulgaria is being led by an interim government
 that has pursued a softer stance, willing to negotiate a gas deal with
 Moscow"
+
+---
+
+Wind gusts of over 200 km/h.. wow
+
+[[-]](https://pbs.twimg.com/media/FdW9gavXoAA3im2?format=jpg&name=small)
 
 ---
 
