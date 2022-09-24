@@ -22,6 +22,16 @@ Party Conference"
 
 ---
 
+[Link](https://www.washingtontimes.com/news/2009/jun/16/irans-twitter-revolution/).
+
+---
+
+Fighting the bad guys through the Internet. So 2009. 
+
+WION: "US relaxes internet sanctions to help Iranian protestors"
+
+---
+
 Mullahs are best gone but they survived protests before. They have a
 militia specifically for the job: The Basij. Let's see
 
