@@ -30,8 +30,8 @@ breaking Iran's strict rules on wearing the hijab"
 
 ---
 
-Bulgaria, Hungary, and perhaps soon Italy. The anti-anti-Russia crowd
-growing
+Bulgaria, Hungary, and perhaps soon Sweden and Italy. The
+anti-anti-Russia crowd growing
 
 First Post: "In Bulgaria a government that took a strong stand against
 Russia following its invasion of Ukraine collapsed due to infighting
