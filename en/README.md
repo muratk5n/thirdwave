@@ -51,7 +51,7 @@ be a message.
 
 Watched a few episodes on Scott Adkins' YT channel talking to guests
 from the action/stunt world.. Everyone seems to agree the shaky-cam
-work on Bourne movie sucked bad. First movie was fine.
+work on the second Bourne movie was terrible. First one was fine.
 
 ---
 
