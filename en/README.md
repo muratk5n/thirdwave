@@ -2,6 +2,24 @@
 
 ---
 
+H2 Central: "Plug 1mw Electrolyzer Commissioned at World’s First
+Floating Offshore Green Hydrogen Production Site"
+
+---
+
+H2 Central: "Hydrogen UK to Discuss Future of British Energy at Labour
+Party Conference"
+
+---
+
+I hope the mullahs are gone but they survived protests before. 
+
+CNBC: "Mass protests in Iran, sparked by woman's death in police
+custody.. of 22-year-old Mahsa Amini, who was arrested for allegedly
+breaking Iran's strict rules on wearing the hijab"
+
+---
+
 Bulgaria, Hungary, and perhaps soon Italy. The anti-anti-Russia crowd
 growing
 
