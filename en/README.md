@@ -49,9 +49,9 @@ Wind gusts of over 200 km/h.. wow
 
 ---
 
-Go for it, do the right-wing thing full to the hilt, oppo does the
-reverse once in power - the division should be crystal clear. No more
-centrist cuck business.
+Go for it, do the rightist thing, oppo does the reverse once in power
+- the division should be crystal clear. No more centrist cuck
+business.
 
 NYT: "U.K. Government Goes Full Tilt on Tax Cuts and Free-Market Economics"
 
