@@ -28,10 +28,9 @@ Reactor, the HTTR [or HTGR], which Japan wants to be the type of
 reactor that will shape the long-term future of nuclear energy in the
 country..
 
-And the truth is that they are very serious. In fact, this reactor,
-which is located in Ibaraki Prefecture [Ibraaki], has been undergoing
-tests for more than two decades. And now it seems that its time has
-come..
+In fact, [HTTR] reactor, which is located in Ibaraki Prefecture, has
+been undergoing tests for more than two decades. And now it seems that
+its time has come..
 
 [We talked about] three main types of hydrogen: gray, blue and green.
 Well, the truth is that there is another one, a fourth type of
