@@ -2,7 +2,7 @@
 
 By Ilan Pappe
 
-Myth: The Jews Were a People Without Land
+### Myth: The Jews Were a People Without Land
 
 The claim .. is that Palestine was a land without people, goes hand in
 hand with the claim that the Jews were a people without a land...
@@ -13,6 +13,67 @@ counterargument questions this genealogical connection. Quite a hefty
 scholarly effort has shown that the Jews of Roman Palestine remained
 on the land and were first converted to Christianity and then to
 Islam. ...
+
+<a name='uk'/>
+
+A powerful theological and imperial movement emerged [in 18820s
+Britain], that would put the return of the Jews to Palestine at the
+heart of a strategic plan to take over Palestine and turn it into a
+Christian entity..
+
+Lord Shaftesbury a leading British politician and reformer..
+campaigned actively for a Jewish homeland in Palestine. His arguments
+for a greater British presence in Palestine were both religious and
+strategic... Shaftesbury realized that it would not be enough to
+support the return of the Jews, and they would have to be actively
+assisted by Britain in their initial colonization. Such an alliance
+should start, he asserted, by providing material help to the Jews to
+travel to Ottoman Palestine...
+
+Shaftesbury’s gentle lobbying of Palmerston proved successful. For
+political reasons, more than for religious ones, Palmerston too became
+an advocate for Jewish restoration. Among other factors that came into
+play in his deliberations was the “view that the Jews could be useful
+in buttressing the collapsing Ottoman Empire, thus helping to
+accomplish the key object of British foreign policy in the area.”..
+
+This moment of British establishment enthusiasm for the idea of
+restoration should properly be described as proto-Zionism.. [This]
+contemporary ideology.. had all the ingredients that would turn [the]
+ideas into the future justification for erasing and denying the basic
+rights of the indigenous Palestinian population...
+
+The first British consulate in Jerusalem opened in 1838. Its brief
+included informally encouraging Jews to come to Palestine, promising
+to protect them, and in some cases attempting to convert them to
+Christianity. The most well- known of the early consuls was James Finn
+(1806–72), whose character and direct approach made it impossible to
+conceal the implications of this brief from the local Palestinians. He
+wrote openly, and was probably the first to do so, about the
+connection between returning the Jews to Palestine and the possible
+displacement of the Palestinians as a result...
+
+Finn was stationed in Jerusalem between 1845 and 1863. He has been
+lauded by later Israeli historians for helping Jews to settle in their
+ancestral land, and his memoirs have been translated into Hebrew. He
+is not the only historical figure to have appeared in one nation’s
+pantheon and in the rogues’ gallery of another. Finn detested Islam as
+a whole and the notables of Jerusalem in particular...
+
+[Then] in many ways, the strategic imperial impulse of Britain to use
+the Jewish return to Palestine as a means of deepening London’s
+involvement in the “Holy Land” coincided with the emergence of new
+cultural and intellectual visions of Zionism in Europe. For both
+Christians and Jews, therefore, the colonization of Palestine was seen
+as an act of return and redemption. The coincidence of the two
+impulses produced a powerful alliance that turned the anti-Semitic and
+millenarian idea of transferring the Jews from Europe to Palestine
+into a real project of settlement at the expense of the native people
+of Palestine. This alliance became public knowledge with the
+proclamation of the Balfour Declaration on November 2, 1917—a letter
+from the British foreign secretary to the leaders of the Anglo-Jewish
+community in effect promising them full support for the creation of a
+Jewish homeland in Palestine.
 
 <a name='land'/>
 
@@ -31,7 +92,7 @@ shows that, over the centuries, Palestine, rather than being a desert,
 was a thriving Arab society—mostly Muslim, predominantly rural, but
 with vibrant urban centers
 
-Myth: Zionism is Judaism
+### Myth: Zionism is Judaism
 
 The new post-1904 fixation on Palestine as the only territory in which
 Zionism could be implemented was reinforced by the growing power of
@@ -140,7 +201,7 @@ quite a few commentators, a Swiss cheese.
 Once this program became clear, the decline of the negotiations was
 swift ...
 
-Myth around The Oslo Accord 
+### Myth around The Oslo Accord 
 
 In May 2001, [W] appointed Senator Robert Mitchell as a special envoy
 to the Middle East. Mitchell produced a report ... [where] he blamed
@@ -159,7 +220,7 @@ achieved through the barbaric operation of 'Defensive Shield' in 2002
 and the building of the infamous 'apartheid wall' did they succeed
 temporarily in quelling the uprising ...
 
-Myths On Gaza
+### Myths On Gaza
 
 <a name="hamas"/>
 
