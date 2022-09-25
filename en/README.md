@@ -14,12 +14,10 @@ with a combined installed capacity of 6-9 GWe could be built by 2040
 as part of Poland's plan to reduce its historic heavy reliance on
 coal.
 
-S. Korea to raise nuclear power to one third of energy supply The
-target exceeds the OECD nuclear development committee's
-guidance.. France [is looking to] build up to 14 new nuclear reactors
-by 2050.. China alone expects to invest some $400 billion over the
-next 15-20 years to build –hold on to your seat– 150 new nuclear
-reactors.
+S. Korea will raise nuclear power to one third of energy
+supply.. France [is looking to] build up to 14 new nuclear reactors by
+2050.. China alone expects to invest some $400 billion over the next
+15-20 years to build –hold on to your seat– 150 new nuclear reactors.
 
 But what does make Japan a special case is that it had been one of the
 most anti-nuclear countries of the last decade.  And at the same time,
