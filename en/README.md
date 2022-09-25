@@ -44,11 +44,11 @@ are not talking about an idea or a futuristic pipe dream, but a
 fact..
 
 Japan's Strategic Energy Plan, approved in October 2021, states that
-precisely this type of high-temperature gas-fired nuclear reactor will
-be used to produce hydrogen.  In addition, the Green Growth Strategy
-to achieve carbon neutrality by 2050, dated June 2021, states that
-HTTR reactors will be required to produce emission-free hydrogen in
-large quantities and at low cost by 2030. Which, in strategic
+precisely this type of high-temperature gas-cooled nuclear reactor
+will be used to produce hydrogen.  In addition, the Green Growth
+Strategy to achieve carbon neutrality by 2050, dated June 2021, states
+that HTTR reactors will be required to produce emission-free hydrogen
+in large quantities and at low cost by 2030. Which, in strategic
 infrastructure terms means it’s just around the corner"
 
 ---
