@@ -70,10 +70,6 @@ it is able to produce large amounts of hydrogen"
 
 ---
 
-Rumor is going around Zee Ping Ping has been placed under house arrest
-
----
-
 ## Reference
 
 [Nations and Nationalism, Culture, Narratives](2013/02/nations-and-nationalism.html)
