@@ -70,7 +70,7 @@ it is able to produce large amounts of hydrogen"
 
 ---
 
-Rumor is going around Zee Ping Ping is under house arrest
+Rumor is going around Zee Ping Ping has been placed under house arrest
 
 ---
 
