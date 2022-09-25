@@ -73,14 +73,15 @@ weapons"
 
 ### Nuclear, HTGR
 
-High-Temperature Gas-cooled Reactor (HTGR) use helium instead of water
-to cool the nuclear fission reaction, and its inherently safe design
-protects it against meltdowns as seen previously in Three Mile Island,
-Chernobyl, or Fukushima. The fissile material, the fuel is kept in a
-new design called TRISO that streamlines the usage of the fuel, helps
-with its disposal, and guards against most form of proliferation.  The
-high temperatures enable applications such as process heat or hydrogen
-production via the thermochemical sulfur–iodine cycle [1].
+High-Temperature Gas-cooled Reactors (HTGR) use helium instead of
+water to cool the nuclear fission reaction, and its inherently safe
+design protects it against meltdowns as seen previously in Three Mile
+Island, Chernobyl, or Fukushima. The fissile material, the fuel is
+kept in a new design called TRISO that streamlines the usage of the
+fuel, helps with its disposal, and guards against most form of
+proliferation.  The high temperatures enable applications such as
+process heat or hydrogen production via the thermochemical
+sulfur–iodine cycle [1].
 
 Helium is an inert gas, so it will generally not chemically react with
 any material. Additionally, exposing helium to neutron radiation does
