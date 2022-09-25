@@ -15,12 +15,8 @@ Thermochemical water splitting processes use high-temperature heat
 hydrogen. The chemicals used in the process are reused within each
 cycle, creating a closed loop that consumes only water and produces
 hydrogen and oxygen. The necessary high temperatures can be generated
-in the following ways:
-
-Concentrating sunlight onto a reactor tower using a field of mirror
-"heliostats,"..
-
-Using waste heat from advanced nuclear reactors.
+[by] concentrating sunlight onto a reactor tower using a field of mirror
+"heliostats," 
 
 Numerous solar thermochemical water-splitting cycles have been
 investigated for hydrogen production, each with different sets of
@@ -31,10 +27,6 @@ described in the literature.
 Two examples of thermochemical water splitting cycles [are] the
 "direct" two-step cerium oxide thermal cycle and the "hybrid" copper
 chloride cycle...
-
-Solar-and nuclear-driven high-temperature thermochemical
-water-splitting cycles produce hydrogen with near-zero greenhouse gas
-emissions using water and either sunlight or nuclear energy...
 
 Exciting progress continues in this field, leveraging synergies with
 concentrated solar power technologies, and with emerging solar-fuel
