@@ -1,6 +1,6 @@
 # Thermo-Chemical Water Splitting
 
-Solar
+### Solar
 
 [DOE](https://www.energy.gov/eere/fuelcells/hydrogen-production-thermochemical-water-splitting)
 
@@ -42,7 +42,7 @@ production technologies.
 
 <a name='thorium'/>
 
-Nuclear, Molten Salt
+### Nuclear, Molten Salt
 
 Wikipedia: "A molten salt reactor (MSR) is a class of nuclear fission
 reactor in which the primary nuclear reactor coolant and/or the fuel
@@ -68,5 +68,44 @@ solubility. The burning of Pu in a reactor based in thorium also
 decreases the inventories of Pu from the current fuel cycles,
 resulting in lower risks of material diversion for use in nuclear
 weapons"
+
+<a name='htgr'/>
+
+### Nuclear, HTGR
+
+High-Temperature Gas-cooled Reactor (HTGR) use helium instead of water
+to cool the nuclear fission reaction, and its inherently safe design
+protects it against meltdowns as seen previously in Three Mile Island,
+Chernobyl, or Fukushima. The fissile material, the fuel is kept in a
+new design called TRISO that streamlines the usage of the fuel, helps
+with its disposal, and guards against most form of proliferation.  The
+high temperatures enable applications such as process heat or hydrogen
+production via the thermochemical sulfur–iodine cycle [1].
+
+Helium is an inert gas, so it will generally not chemically react with
+any material. Additionally, exposing helium to neutron radiation does
+not make it radioactive, unlike most other possible coolants.
+
+![](htgr.jpg)
+
+Even during the loss of the helium gas coolant initiated by piping
+rupture events, the heat produced by the core will be removed by heat
+dissipation from reactor pressure vessel so that the fuel will not
+failure. This means that the HTGR has significant safety which has no
+concern of core meltdown or radioactivity release accidents [2].
+
+From the economic point of view, HTGR is a superior nuclear reactor
+since it can reduce extra facilities due to its inherent safety and
+achieve high thermal efficiency due to the high temperature heat. The
+power generation cost of the HTGR power plant is estimated to be about
+0.029 USD/kWh [whereas] power generation cost of commercial light
+water reactor is about 0.037 USD/kWh.
+
+References
+
+[1] [Wikipedia](https://en.wikipedia.org/wiki/High-temperature_gas_reactor)
+
+[2] [JAEA](https://www.jaea.go.jp/04/o-arai/nhc/en/faq/)
+
 
 [[⇪Up]](h2-production.html)
