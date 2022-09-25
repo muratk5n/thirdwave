@@ -2,13 +2,11 @@
 
 ### Solar
 
-[DOE](https://www.energy.gov/eere/fuelcells/hydrogen-production-thermochemical-water-splitting)
-
 Thermochemical water splitting uses high temperatures—from
 concentrated solar power or from the waste heat of nuclear power
 reactions—and chemical reactions to produce hydrogen and oxygen from
 water. This is a long-term technology pathway, with potentially low or
-no greenhouse gas emissions.
+no greenhouse gas emissions [3].
 
 Thermochemical water splitting processes use high-temperature heat
 (500°–2,000°C) to drive a series of chemical reactions that produce
@@ -36,18 +34,18 @@ production technologies.
 
 ### Nuclear, Molten Salt
 
-Wikipedia: "A molten salt reactor (MSR) is a class of nuclear fission
-reactor in which the primary nuclear reactor coolant and/or the fuel
-is a molten salt mixture... 1960's Molten-Salt Reactor Experiment
-aimed to prove the concept of a nuclear power plant which implements a
-thorium fuel cycle in a breeder reactor. Increased research into
-Generation IV reactor designs began to renew interest in the
-technology, with multiple nations having projects and, as of September
-2021, China is on the verge of starting its TMSR-LF1 thorium MSR..
+A molten salt reactor (MSR) is a class of nuclear fission reactor in
+which the primary nuclear reactor coolant and/or the fuel is a molten
+salt mixture... 1960's Molten-Salt Reactor Experiment aimed to prove
+the concept of a nuclear power plant which implements a thorium fuel
+cycle in a breeder reactor [4]. Increased research into Generation IV
+reactor designs began to renew interest in the technology, with
+multiple nations having projects and, as of September 2021, China is
+on the verge of starting its TMSR-LF1 thorium MSR..
 
 A further key characteristic of MSRs is operating temperatures of
 around 700 °C (1,292 °F), significantly higher than traditional LWRs
-at around 300 °C (572 °F).. economical hydrogen production"
+at around 300 °C (572 °F).. economical hydrogen production
 
 [PDF](https://inis.iaea.org/collection/NCLCollectionStore/_Public/45/068/45068136.pdf)
 
@@ -100,5 +98,8 @@ References
 
 [2] [JAEA](https://www.jaea.go.jp/04/o-arai/nhc/en/faq/)
 
+[3] [DOE](https://www.energy.gov/eere/fuelcells/hydrogen-production-thermochemical-water-splitting)
+
+[4] https://en.wikipedia.org/wiki/Molten_salt_reactor
 
 [[⇪Up]](h2-production.html)
