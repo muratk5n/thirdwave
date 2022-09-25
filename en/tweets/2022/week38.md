@@ -1,5 +1,112 @@
 # Week 38 
 
+Politico: "Donald Trump’s top lieutenants are launching a new super
+PAC that is expected to spend heavily to bolster his endorsed
+candidates in the midterm election — and, some people close to the
+former president say, could become a campaign apparatus if he runs in
+2024... Sanctioned by the former president, the new group, dubbed
+MAGA, Inc., will become the primary vehicle for Trump’s operation to
+engage in political activity in 2022"
+
+---
+
+H2 Central: "[Plug Power] Electrolyzer Commissioned at World’s First
+Floating Offshore Green Hydrogen Production Site"
+
+---
+
+H2 Central: "Hydrogen UK to Discuss Future of British Energy at Labour
+Party Conference"
+
+---
+
+[Link](https://www.washingtontimes.com/news/2009/jun/16/irans-twitter-revolution/)
+
+---
+
+Fighting the bad guys through the Internet.. So 2009. 
+
+WION: "US relaxes internet sanctions to help Iranian protestors"
+
+---
+
+Mullahs are best gone but they survived protests before. They have a
+militia specifically for the job: The Basij. Let's see
+
+CNBC: "Mass protests in Iran, sparked by woman's death in police
+custody.. of 22-year-old Mahsa Amini, who was arrested for allegedly
+breaking Iran's strict rules on wearing the hijab"
+
+---
+
+Bulgaria, Hungary, and perhaps soon Sweden and Italy. The
+anti-anti-Russia crowd growing
+
+First Post: "In Bulgaria a government that took a strong stand against
+Russia following its invasion of Ukraine collapsed due to infighting
+in June, ever since Bulgaria is being led by an interim government
+that has pursued a softer stance, willing to negotiate a gas deal with
+Moscow"
+
+---
+
+Mad wind gusts
+
+[[-]](https://pbs.twimg.com/media/FdW9gavXoAA3im2?format=jpg&name=small)
+
+---
+
+Go for it, do the rightist thing, oppo does the reverse once in power - 
+the division should be crystal clear. No more centrist cuck business.
+
+NYT: "U.K. Government Goes Full Tilt on Tax Cuts and Free-Market Economics"
+
+---
+
+H2 Fuel News: "Alstom Coradia iLint train travels 1,175 km on one
+hydrogen tank"
+
+---
+
+H2 Central: "SSAB and Norsk Stål AS start partnership in fossil-free
+steel, produced using hydrogen, for the Nordic Market."
+
+---
+
+Sup story is pro-immigrant, this one is anti-immigrant? :) Maybe
+
+---
+
+*Brightburn* - alternate Superman story, the horror version.  
+
+---
+
+Watched a few episodes on Scott Adkins' YT channel talking to guests
+from the action/stunt world.. Everyone seems to agree the shaky-cam
+work on the second Bourne movie was terrible. 
+
+---
+
+Walking is great. And (insert some literary stuff here like
+Kierkegaaaaard) jogging is fucking bad. 
+
+---
+
+Kierkegaard: “Above all, do not lose your desire to walk: Every day I
+walk myself into a state of well-being and walk away from every
+illness; I have walked myself into my best thoughts, and I know of no
+thought so burdensome that one cannot walk away from it.”
+
+---
+
+"@FCHEA_News
+
+[DOE] just announced a historic $7B for regional clean hydrogen
+hubs. FCHEA and its members are thrilled by this announcement and the
+ongoing support of our industry by Congress and the Administration"
+
+---
+
 Produce clean ammonia, it can transmit H2, and be used for
 refigration. That is cool - as in refigrator cool.
 

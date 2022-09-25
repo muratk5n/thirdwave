@@ -2,110 +2,78 @@
 
 ---
 
-Politico: "Donald Trump’s top lieutenants are launching a new super
-PAC that is expected to spend heavily to bolster his endorsed
-candidates in the midterm election — and, some people close to the
-former president say, could become a campaign apparatus if he runs in
-2024... Sanctioned by the former president, the new group, dubbed
-MAGA, Inc., will become the primary vehicle for Trump’s operation to
-engage in political activity in 2022"
+Some collated info on HTGRs
+
+[[-]](2022/02/h2-thermo-chemical.html#htgr)
 
 ---
 
-H2 Central: "[Plug Power] Electrolyzer Commissioned at World’s First
-Floating Offshore Green Hydrogen Production Site"
+"Poland amended laws to speed investment in nuclear energy In September
+last year, it was announced that six large pressurized water reactors
+with a combined installed capacity of 6-9 GWe could be built by 2040
+as part of Poland's plan to reduce its historic heavy reliance on
+coal.
+
+S. Korea to raise nuclear power to one third of energy supply The
+target exceeds the OECD nuclear development committee's
+guidance.. France [is looking to] build up to 14 new nuclear reactors
+by 2050.. China alone expects to invest some $400 billion over the
+next 15-20 years to build –hold on to your seat– 150 new nuclear
+reactors.
+
+But what does make Japan a special case is that it had been one of the
+most anti-nuclear countries of the last decade.  And at the same time,
+also one of the most serious about nuclear research, before Fukushima
+of course.  Thanks to this situation, one of the major players in the
+Japanese plan is now the so-called High Temperature Engineering Test
+Reactor, the HTTR [or HTGR], which Japan wants to be the type of
+reactor that will shape the long-term future of nuclear energy in the
+country..
+
+And the truth is that they are very serious. In fact, this reactor,
+which is located in Ibaraki Prefecture [Ibraaki], has been undergoing
+tests for more than two decades. And now it seems that its time has
+come..
+
+[We talked about] three main types of hydrogen: gray, blue and green.
+Well, the truth is that there is another one, a fourth type of
+hydrogen: pink hydrogen. Which is, precisely, the one produced with
+nuclear energy..
+
+Japan is one of the countries that is taking the hydrogen issue most
+seriously. And as you can now see, their new civil nuclear program has
+a lot to do with it. And if we’re talking about hydrogen and Japan, we
+are not talking about an idea or a futuristic pipe dream, but a
+fact..
+
+Japan's Strategic Energy Plan, approved in October 2021, states that
+precisely this type of high-temperature gas-fired nuclear reactor will
+be used to produce hydrogen.  In addition, the Green Growth Strategy
+to achieve carbon neutrality by 2050, dated June 2021, states that
+HTTR reactors will be required to produce emission-free hydrogen in
+large quantities and at low cost by 2030. Which, in strategic
+infrastructure terms means it’s just around the corner"
 
 ---
 
-H2 Central: "Hydrogen UK to Discuss Future of British Energy at Labour
-Party Conference"
+"[O]ne of the major players in the Japanese plan is now the so-called
+High Temperature Engineering Test Reactor, the HTTR, which Japan wants
+to be the type of reactor that will shape the long-term future of
+nuclear energy in the country... The main peculiarity of this
+helium-cooled reactor is that it does not need water, which means that
+it can be located practically anywhere on the planet. What’s more, due
+to its design, the core cannot go into fusion. So, in theory, it is a
+revolution.  In addition, and this is very important, it can operate
+at very high temperatures, over 900 degrees. And so [with high heat],
+it is able to produce large amounts of hydrogen"
+
+\#Nuclear \#Hydrogen \#Japan 
+
+[Video](https://youtu.be/K0Ff0Fg4mTI?t=512)
 
 ---
 
-[Link](https://www.washingtontimes.com/news/2009/jun/16/irans-twitter-revolution/)
-
----
-
-Fighting the bad guys through the Internet.. So 2009. 
-
-WION: "US relaxes internet sanctions to help Iranian protestors"
-
----
-
-Mullahs are best gone but they survived protests before. They have a
-militia specifically for the job: The Basij. Let's see
-
-CNBC: "Mass protests in Iran, sparked by woman's death in police
-custody.. of 22-year-old Mahsa Amini, who was arrested for allegedly
-breaking Iran's strict rules on wearing the hijab"
-
----
-
-Bulgaria, Hungary, and perhaps soon Sweden and Italy. The
-anti-anti-Russia crowd growing
-
-First Post: "In Bulgaria a government that took a strong stand against
-Russia following its invasion of Ukraine collapsed due to infighting
-in June, ever since Bulgaria is being led by an interim government
-that has pursued a softer stance, willing to negotiate a gas deal with
-Moscow"
-
----
-
-Mad wind gusts
-
-[[-]](https://pbs.twimg.com/media/FdW9gavXoAA3im2?format=jpg&name=small)
-
----
-
-Go for it, do the rightist thing, oppo does the reverse once in power - 
-the division should be crystal clear. No more centrist cuck business.
-
-NYT: "U.K. Government Goes Full Tilt on Tax Cuts and Free-Market Economics"
-
----
-
-H2 Fuel News: "Alstom Coradia iLint train travels 1,175 km on one
-hydrogen tank"
-
----
-
-H2 Central: "SSAB and Norsk Stål AS start partnership in fossil-free
-steel, produced using hydrogen, for the Nordic Market."
-
----
-
-Sup story is pro-immigrant, this one is anti-immigrant? :) Maybe
-
----
-
-*Brightburn* - alternate Superman story, the horror version.  
-
----
-
-Watched a few episodes on Scott Adkins' YT channel talking to guests
-from the action/stunt world.. Everyone seems to agree the shaky-cam
-work on the second Bourne movie was terrible. 
-
----
-
-Walking is great. And (insert some literary stuff here like
-Kierkegaaaaard) jogging is fucking bad. 
-
----
-
-Kierkegaard: “Above all, do not lose your desire to walk: Every day I
-walk myself into a state of well-being and walk away from every
-illness; I have walked myself into my best thoughts, and I know of no
-thought so burdensome that one cannot walk away from it.”
-
----
-
-"@FCHEA_News
-
-[DOE] just announced a historic $7B for regional clean hydrogen
-hubs. FCHEA and its members are thrilled by this announcement and the
-ongoing support of our industry by Congress and the Administration"
+Rumor is going around Zee Ping Ping is under house arrest
 
 ---
 
