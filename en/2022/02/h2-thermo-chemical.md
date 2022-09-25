@@ -47,9 +47,7 @@ A further key characteristic of MSRs is operating temperatures of
 around 700 °C (1,292 °F), significantly higher than traditional LWRs
 at around 300 °C (572 °F).. economical hydrogen production
 
-[PDF](https://inis.iaea.org/collection/NCLCollectionStore/_Public/45/068/45068136.pdf)
-
-"Thorium is three to five times more abundant than uranium in the
+Thorium is three to five times more abundant than uranium in the
 earth's crust..  produces less radiotoxicity than the U02 because it
 produces fewer amounts of actinides, reducing the radiotoxicity of
 long life nuclear waste. Th02 has higher corrosion resistance than
@@ -57,7 +55,7 @@ U02, besides being chemically stable due to their low water
 solubility. The burning of Pu in a reactor based in thorium also
 decreases the inventories of Pu from the current fuel cycles,
 resulting in lower risks of material diversion for use in nuclear
-weapons"
+weapons [5].
 
 <a name='htgr'/>
 
@@ -101,5 +99,7 @@ References
 [3] [DOE](https://www.energy.gov/eere/fuelcells/hydrogen-production-thermochemical-water-splitting)
 
 [4] https://en.wikipedia.org/wiki/Molten_salt_reactor
+
+[5] [PDF](https://inis.iaea.org/collection/NCLCollectionStore/_Public/45/068/45068136.pdf)
 
 [[⇪Up]](h2-production.html)
