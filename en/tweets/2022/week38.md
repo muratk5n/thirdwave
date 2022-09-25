@@ -201,7 +201,7 @@ Exclusive use of clean fuels will however allow a green transition.
 
 I think all the numbers below, except the iStories one, are full of
 shit. It reminds me the ailment, Putin body-double
-[stories](2022/07/putin-health.html).
+[stories](../../2022/07/putin-health.html).
 
 ---
 
@@ -447,7 +447,7 @@ much can do that,’ said Vice Adm. Karl Thomas"
 Latest EQ summary - 2021 looked bad, new counts normal. Not an
 apocalypse - for now.
 
-[[-]](2019/05/natdisaster.html#equakes)
+[[-]](../../2019/05/natdisaster.html#equakes)
 
 ---
 
