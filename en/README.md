@@ -77,8 +77,8 @@ power source as it would produce green hydrogen"
 
 ---
 
-US Congress, W did some stuff on nuclear hydrogen in 2005? See Energy
-Policy Act of 2005 below.
+US Congress, WH apparently did some stuff on nuclear hydrogen in 2005..
+See Energy Policy Act of 2005.
 
 [[-]](https://www.congress.gov/bill/109th-congress/house-bill/6)
 
