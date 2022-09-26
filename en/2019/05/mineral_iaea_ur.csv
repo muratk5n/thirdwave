@@ -897,39 +897,39 @@
 64|USA|750|Mt. Lucas|Sandstone–Roll Front|Depleted|1,000–2,500
 2|USA|751|Mt. Taylor|Sandstone–Tabular|Dormant|25,000–50,000
 3|USA|752|Narrow Canyon|Sandstone–Roll Front|Dormant|2,500–5,000
-4|USA|753|Nell|Sandstone–Roll Front|500–1,000Dormant
-5|USA|1312|Nichols Ranch|Sandstone–Roll Front|500–1,000Exploration
-6|USA|755|Nine Mile Lake|Sandstone–Roll Front|1,000–2,500Dormant
-7|USA|756|North Butte / Brown|Sandstone–Roll Front|2,500–5,000Dormant
-8|USA|757|North Florida|Phosphorite|50,000–100,000Dormant
-9|USA|758|Northeast Florida|Phosphorite|> 100,000Dormant
-11|USA|931|Northwest Unit|Sandstone–Roll Front|1,000–2,500Exploration
-12|USA|759|Nose Rock|Sandstone–Tabular|10,000–25,000Dormant
-13|USA|760|O'Hern|Sandstone–Roll Front|< 500Depleted
-14|USA|761|Orphan Lode|Collapse Breccia Pipe|1,000–2,500Depleted
-15|USA|762|Oshoto Deposit|Sandstone–Roll Front|1,000–2,500Dormant
-16|USA|905|Palangana|Sandstone–Roll Front|1,000–2,500Development
-17|USA|763|Pandora|Sandstone–Tabular|500–1,000Operating
-18|USA|764|Panna Maria|Sandstone–Roll Front|5,000–10,000Depleted
-19|USA|765|Pawnee|Sandstone–Roll Front|500–1,000Depleted
-20|USA|930|Peach|Sandstone–Roll Front|2,500–5,000Development
-21|USA|766|Peterson Ranch|Sandstone–Roll Front|1,000–2,500Dormant
-22|USA|767|Petrotomics / Dave|Sandstone–Roll Front|10,000–25,000Dormant
-23|USA|768|Piedre Lumbre|Sandstone–Roll Front|500–1,000Dormant
-24|USA|769|Pigeon|Collapse Breccia Pipe|1,000–2,500Depleted
-25|USA|770|Pinenut|Collapse Breccia Pipe|1,000–2,500Dormant
-26|USA|918|Pinetree|Sandstone–Roll Front|1,000–2,500Development
-27|USA|771|Pitch|Vein|500–1,000Depleted
-28|USA|772|Poison Canyon|Sandstone–Tabular|500–1,000Depleted
-29|USA|773|Ramco|Unknown|UNKNOWNUnknown
-30|USA|774|Red Desert Basin|Unknown|UNKNOWNUnknown
-31|USA|1313|Reno Creek SouthWest|Sandstone–Roll Front|1,000–2,500Exploration
-32|USA|775|Reno Creek West|Sandstone–Roll Front|2,500–5,000Exploration
-33|USA|932|Reynolds Ranch|Sandstone–Roll Front|5,000–10,000Development
-34|USA|776|Rhode Ranch|Sandstone–Roll Front|2,500–5,000Depleted
-35|USA|777|Rio Puerco|Sandstone–Tabular|1,000–2,500Dormant
-36|USA|778|Rob Rollo|Sandstone–Tabular|1,000–2,500Depleted
-37|USA|779|Roca Honda|Sandstone–Roll Front|1,000–2,500Dormant
+4|USA|753|Nell|Sandstone–Roll Front|Dormant|500–1,000
+5|USA|1312|Nichols Ranch|Sandstone–Roll Front|Exploration|500–1,000
+6|USA|755|Nine Mile Lake|Sandstone–Roll Front|Dormant|1,000–2,500
+7|USA|756|North Butte / Brown|Sandstone–Roll Front|Dormant|2,500–5,000
+8|USA|757|North Florida|Phosphorite|Dormant|50,000–100,000
+9|USA|758|Northeast Florida|Phosphorite|Dormant|> 100,000
+11|USA|931|Northwest Unit|Sandstone–Roll Front|Exploration|1,000–2,500
+12|USA|759|Nose Rock|Sandstone–Tabular|Dormant|10,000–25,000
+13|USA|760|O'Hern|Sandstone–Roll Front|Depleted|< 500
+14|USA|761|Orphan Lode|Collapse Breccia Pipe|Depleted|1,000–2,500
+15|USA|762|Oshoto Deposit|Sandstone–Roll Front|Dormant|1,000–2,500
+16|USA|905|Palangana|Sandstone–Roll Front|Development|1,000–2,500
+17|USA|763|Pandora|Sandstone–Tabular|Operating|500–1,000
+18|USA|764|Panna Maria|Sandstone–Roll Front|Depleted|5,000–10,000
+19|USA|765|Pawnee|Sandstone–Roll Front|Depleted|500–1,000
+20|USA|930|Peach|Sandstone–Roll Front|Development|2,500–5,000
+21|USA|766|Peterson Ranch|Sandstone–Roll Front|Dormant|1,000–2,500
+22|USA|767|Petrotomics / Dave|Sandstone–Roll Front|Dormant|10,000–25,000
+23|USA|768|Piedre Lumbre|Sandstone–Roll Front|Dormant|500–1,000
+24|USA|769|Pigeon|Collapse Breccia Pipe|Depleted|1,000–2,500
+25|USA|770|Pinenut|Collapse Breccia Pipe|Dormant|1,000–2,500
+26|USA|918|Pinetree|Sandstone–Roll Front|Development|1,000–2,500
+27|USA|771|Pitch|Vein|Depleted|500–1,000
+28|USA|772|Poison Canyon|Sandstone–Tabular|Depleted|500–1,000
+29|USA|773|Ramco|Unknown|Unknown|UNKNOWN
+30|USA|774|Red Desert Basin|Unknown|Unknown|UNKNOWN
+31|USA|1313|Reno Creek SouthWest|Sandstone–Roll Front|Exploration|1,000–2,500
+32|USA|775|Reno Creek West|Sandstone–Roll Front|Exploration|2,500–5,000
+33|USA|932|Reynolds Ranch|Sandstone–Roll Front|Development|5,000–10,000
+34|USA|776|Rhode Ranch|Sandstone–Roll Front|Depleted|2,500–5,000
+35|USA|777|Rio Puerco|Sandstone–Tabular|Dormant|1,000–2,500
+36|USA|778|Rob Rollo|Sandstone–Tabular|Depleted|1,000–2,500
+37|USA|779|Roca Honda|Sandstone–Roll Front|Dormant|1,000–2,500
 38|USA|780|Rosita|Sandstone–Roll Front|Depleted|1,000–2,500
 39|USA|781|Ruby|Sandstone–Tabular|Depleted|2,500–5,000
 40|USA|782|Ruby Ranch|Sandstone–Tabular|Dormant|1,000–2,500
