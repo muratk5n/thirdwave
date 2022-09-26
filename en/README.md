@@ -2,12 +2,6 @@
 
 ---
 
-\#internetOfShit \#TV
-
-[[-]](https://pbs.twimg.com/media/FdU6anragAARrgk?format=jpg&name=small)
-
----
-
 For 2025 it predicts Sunni-Shite war. Not good. It is likely too,
 these aren't empty predictions.
 
@@ -22,6 +16,12 @@ younger son will become Kang
 
 WION: "Nostradamus book sells like hot cakes after prophecy on Queen’s
 death proves correct"
+
+---
+
+@internetOfShit \#TV
+
+[[-]](https://pbs.twimg.com/media/FdU6anragAARrgk?format=jpg&name=small)
 
 ---
 
