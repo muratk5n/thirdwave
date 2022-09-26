@@ -1,10 +1,26 @@
-from pandas_datareader import data, wb
+from pandas_datareader import data, wb, re
 import datetime, time as timelib
 import urllib.request as urllib2
 import pandas as pd, requests, datetime
 from io import BytesIO
 from datetime import date
 import matplotlib.pyplot as plt
+from pygeodesy import parse3llh, fstr
+
+def geoname(keyword, ccode):
+    url = "http://www.geonames.org/search.html?q=%s&country=%s" % (keyword,ccode)    
+    url = url.replace(" ","+")
+    print (url)
+    r = urllib2.urlopen(url).read()
+    content = r.decode('utf-8')
+    res = re.findall("Latitude.*?<td nowrap>(.*?)</td><td nowrap>(.*?)</td>",content, re.DOTALL)
+    lats = res[0][1]; lons = res[0][0]
+    lats = lats[1:] + lats[0]
+    lons = lons[1:] + lons[0]
+    geos = lats + "," + lons
+    x = parse3llh(geos)
+    res = fstr(x, prec=6).split(",")
+    return float(res[0]),float(res[1])
 
 def two_plot(df, col1, col2):
     plt.figure(figsize=(12,5))
