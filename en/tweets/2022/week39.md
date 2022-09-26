@@ -2,7 +2,7 @@
 
 Some collated info on HTGRs
 
-[[-]](2022/02/h2-thermo-chemical.html#htgr)
+[[-]](../../2022/02/h2-thermo-chemical.html#htgr)
 
 ---
 
