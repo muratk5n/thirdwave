@@ -283,68 +283,67 @@
 6|Czech Republic|193|Olsi|Vein||2,500–5,000Depleted
 7|Czech Republic|194|Osecna-Kotel|Sandstone–Tabular|Dormant|25,000–50,000
 8|Czech Republic|182|Polna|Vein|Dormant|1,000–2,500
-9|Czech Republic|1160|Predborice|Vein||< 500Depleted
-10|Czech Republic|195|Pribram|Vein||25,000–50,000Depleted
-11|Czech Republic|196|Rozna|Vein||10,000–25,000Operating
-12|Czech Republic|1161|Slavkovice-Petrovice|Vein||< 500Depleted
-13|Czech Republic|1158|Sokolov Tertiary Basin|Lignite||1,000–2,500Dormant
-14|Czech Republic|197|Straz|Sandstone–Tabular||25,000–50,000Operating
-15|Czech Republic|198|Vitkov II|Vein||10,000–25,000Depleted
-16|Czech Republic|199|Vnitrosudetska Panev|Other||2,500–5,000Depleted
-17|Czech Republic|200|Zadni Chodov|Vein||10,000–25,000Depleted
-18|Congo|1163|Kalongwe|Vein||< 500Dormant
-20|Congo|1164|Kambove West|Vein||1,000–2,500Depleted
-22|Congo|433|Kamoto Principal|Vein||1,000–2,500Dormant
-24|Congo|434|Kasompi East|Vein||500–1,000Dormant
-26|Congo|1165|Luena Basin|Lignite||5,000–10,000Dormant
-28|Congo|1166|Musonoi Extension|Vein||2,500–5,000Depleted
-30|Congo|435|Shinkolobwe-Kasolo|Vein||25,000–50,000Depleted
-32|Congo|1167|Swambo|Vein||500–1,000Dormant
-34|Denmark|201|Kvanefjeld|Intrusive||25,000–50,000Exploration
-35|Finland|202|Kesankitunturi|Sandstone–Tabular||500–1,000Dormant
-36|Finland|203|Nuottijarvi|Phosphorite||1,000–2,500Dormant
-37|Finland|204|Pahtavuoma-U|Vein||500–1,000Dormant
-38|Finland|205|Palmottu|Intrusive||1,000–2,500Exploration
-39|Finland|206|Paukkajanvaara|Sandstone–Tabular||< 500Reclaimed
-40|Finland|207|Sokli|Intrusive||2,500–5,000Dormant
-41|Finland|208|Talvivaara|Black Shales||2,500–5,000Development
-42|Finland|209|Vihanti-U|Phosphorite||500–1,000Reclamation
-43|France|1266|Vendée District|Vein||1,000–2,500Depleted
-44|France|956|Ambert (District)|Vein||< 500Depleted
-45|France|1261|Augères|Vein||500–1,000Depleted
-46|France|210|Bellezane|Vein||2,500–5,000Depleted
-47|France|221|Bernardan (Le)|Vein||5,000–10,000Depleted
-48|France|211|Bertholene|Unconformity-Proterozoic||500–1,000Depleted
-49||||Fracture bound||
-50|France|218|Besse (La) District|Vein||1,000–2,500Depleted
-51|France|225|Bois Noirs (Les)|Vein||5,000–10,000Depleted
-52|France|969|Bondons (Les)|Vein||< 500Depleted
-53|France|967|Bretagne (District)|Vein||1,000–2,500Depleted
-54|France|226|Brugeaud (Le)|Vein||1,000–2,500Depleted
-55|France|222|Cellier (Le)–Villeret (Le)|Vein||1,000–2,500Depleted
-56|France|212|Cerilly (District )|Sandstone–Tabular||1,000–2,500Depleted
-57|France|219|Chapelle-Largeau (La)-|Vein||500–1,000Depleted
-59|France|223|Chardon (Le)|Vein||2,500–5,000Depleted
-60|France|958|Château-Chinon|Vein||< 500Depleted
-62|France|220|Commanderie (La)|Vein||2,500–5,000Depleted
-63|France|971|Corrèze (District)|Vein||< 500Depleted
-64|France|213|Coutras|Sandstone–Tabular||10,000–25,000Dormant
-65|France|972|Creuse (District)|Vein||500–1,000Depleted
-2|France|939|Ecarpiere (L')|Vein||2,500–5,000Depleted
-3|France|963|Failles Sud et Centrales|Sandstone–||500–1,000Depleted
-5|France|215|Fanay–Les Sagnes|Vein||2,500–5,000Depleted
-6|France|224|Fraisse (Le)-Les Gorces|Vein||1,000–2,500Depleted
-7|France|216|Grury-Luzy district|Vein||500–1,000Depleted
-8|France|217|Hyverneresse|Vein||500–1,000Depleted
-9|France|230|Lodève District|Sandstone–||500–1,000Depleted
-11|France|227|Loges (Les)|Vein||500–1,000Depleted
-12|France|1262|Marche District|Vein||500–1,000Depleted
-13|France|961|Mares (Les)|Sandstone–||500–1,000Depleted
-15|France|232|Margnac-Peny|Vein||5,000–10,000Depleted
-16|France|1263|Mas d'Alary|Vein||1,000–2,500Depleted
-17|France|231|Mas Lavayre|Sandstone–||10,000–25,000Depleted
-19|France|233|Montulat|Vein||1,000–2,500Dormant
-20|France|234|Pen Ar Ran|Vein||500–1,000Depleted
+9|Czech Republic|1160|Predborice|Vein|Depleted|< 500
+10|Czech Republic|195|Pribram|Vein|Depleted|25,000–50,000
+11|Czech Republic|196|Rozna|Vein|Operating|10,000–25,000
+12|Czech Republic|1161|Slavkovice-Petrovice|Vein|Depleted|< 500
+13|Czech Republic|1158|Sokolov Tertiary Basin|Lignite|Dormant|1,000–2,500
+14|Czech Republic|197|Straz|Sandstone–Tabular|Operating|25,000–50,000
+15|Czech Republic|198|Vitkov II|Vein|Depleted|10,000–25,000
+16|Czech Republic|199|Vnitrosudetska Panev|Other|Depleted|2,500–5,000
+17|Czech Republic|200|Zadni Chodov|Vein|Depleted|10,000–25,000
+18|Congo|1163|Kalongwe|Vein|Dormant|< 500
+20|Congo|1164|Kambove West|Vein|Depleted|1,000–2,500
+22|Congo|433|Kamoto Principal|Vein|Dormant|1,000–2,500
+24|Congo|434|Kasompi East|Vein|Dormant|500–1,000
+26|Congo|1165|Luena Basin|Lignite|Dormant|5,000–10,000
+28|Congo|1166|Musonoi Extension|Vein|Depleted|2,500–5,000
+30|Congo|435|Shinkolobwe-Kasolo|Vein|Depleted|25,000–50,000
+32|Congo|1167|Swambo|Vein|Dormant|500–1,000
+34|Denmark|201|Kvanefjeld|Intrusive|Exploration|25,000–50,000
+35|Finland|202|Kesankitunturi|Sandstone–Tabular|Dormant|500–1,000
+36|Finland|203|Nuottijarvi|Phosphorite|Dormant|1,000–2,500
+37|Finland|204|Pahtavuoma-U|Vein|Dormant|500–1,000
+38|Finland|205|Palmottu|Intrusive|Exploration|1,000–2,500
+39|Finland|206|Paukkajanvaara|Sandstone–Tabular|Reclaimed|< 500
+40|Finland|207|Sokli|Intrusive|Dormant|2,500–5,000
+41|Finland|208|Talvivaara|Black Shales|Development|2,500–5,000
+42|Finland|209|Vihanti-U|Phosphorite|Reclamation|500–1,000
+43|France|1266|Vendée District|Vein|Depleted|1,000–2,500
+44|France|956|Ambert (District)|Vein|Depleted|< 500
+45|France|1261|Augères|Vein|Depleted|500–1,000
+46|France|210|Bellezane|Vein|Depleted|2,500–5,000
+47|France|221|Bernardan (Le)|Vein|Depleted|5,000–10,000
+48|France|211|Bertholene|Unconformity-Proterozoic|Depleted|500–1,000
+50|France|218|Besse (La) District|Vein|Depleted|1,000–2,500
+51|France|225|Bois Noirs (Les)|Vein|Depleted|5,000–10,000
+52|France|969|Bondons (Les)|Vein|Depleted|< 500
+53|France|967|Bretagne (District)|Vein|Depleted|1,000–2,500
+54|France|226|Brugeaud (Le)|Vein|Depleted|1,000–2,500
+55|France|222|Cellier (Le)–Villeret (Le)|Vein|Depleted|1,000–2,500
+56|France|212|Cerilly (District )|Sandstone–Tabular|Depleted|1,000–2,500
+57|France|219|Chapelle-Largeau (La)-|Vein|Depleted|500–1,000
+59|France|223|Chardon (Le)|Vein|Depleted|2,500–5,000
+60|France|958|Château-Chinon|Vein|Depleted|< 500
+62|France|220|Commanderie (La)|Vein|Depleted|2,500–5,000
+63|France|971|Corrèze (District)|Vein|Depleted|< 500
+64|France|213|Coutras|Sandstone–Tabular|Dormant|10,000–25,000
+65|France|972|Creuse (District)|Vein|Depleted|500–1,000
+2|France|939|Ecarpiere (L')|Vein|Depleted|2,500–5,000
+3|France|963|Failles Sud et Centrales|Sandstone–|Depleted|500–1,000
+5|France|215|Fanay–Les Sagnes|Vein|Depleted|2,500–5,000
+6|France|224|Fraisse (Le)-Les Gorces|Vein|Depleted|1,000–2,500
+7|France|216|Grury-Luzy district|Vein|Depleted|500–1,000
+8|France|217|Hyverneresse|Vein|Depleted|500–1,000
+9|France|230|Lodève District|Sandstone–|Depleted|500–1,000
+11|France|227|Loges (Les)|Vein|Depleted|500–1,000
+12|France|1262|Marche District|Vein|Depleted|500–1,000
+13|France|961|Mares (Les)|Sandstone–|Depleted|500–1,000
+15|France|232|Margnac-Peny|Vein|Depleted|5,000–10,000
+16|France|1263|Mas d'Alary|Vein|Depleted|1,000–2,500
+17|France|231|Mas Lavayre|Sandstone–|Depleted|10,000–25,000
+19|France|233|Montulat|Vein|Dormant|1,000–2,500
+20|France|234|Pen Ar Ran|Vein|Depleted|500–1,000
 21|France|235|Piegut- La Cote Moreau|Vein|Depleted|< 500
 22|France|228|Pierres-Plantées (Les)|Vein|Depleted|1,000–2,500
 23|France|237|Saint Hippolyte|Black Shales|Dormant|1,000–2,500
