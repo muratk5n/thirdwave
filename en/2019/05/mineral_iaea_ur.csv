@@ -1,18 +1,18 @@
-0|Algeria|Abankor|Vein|Dormant|5,000–10,000	
-0|Algeria|Daira|Vein|Dormant|UNKNOWN		
-0|Algeria|Tahaggart|Surficial|Dormant|1,000–2,500	
-0|Algeria|Timgaouine|Vein|Dormant|10,000–25,000	
-0|Algeria|Tinef|Vein|Dormant|UNKNOWN		
-0|Argentina|Cerro Solo|Sandstone–Tabular|Dormant|2,500–5,000	
-0|Argentina|Don Otto|Sandstone–Tabular|Depleted|500–1,000	
-0|Argentina|Dr. Baulles|Sandstone–Tabular|Dormant|10,000–25,000	
-0|Argentina|Huemul|Sandstone–Tabular|Dormant|< 500		
-0|Argentina|La Estela|Vein|Depleted|< 500		
-0|Argentina|Rodolfo|Surficial|Dormant|1,000–2,500	
-0|Argentina|Schlagintweit|Vein|Dormant|1,000–2,500	
-0|Australia|Anderson's Lode|Metasomatite|Exploration|2,500–5,000	
-0|Australia|Angela|Sandstone–Roll Front|Dormant|5,000–10,000	
-0|Australia|Angelo River A|Unconformity-Proterozoic|Dormant|500–1,000 
+0|Algeria|0|Abankor|Vein|Dormant|5,000–10,000	
+0|Algeria|0|Daira|Vein|Dormant|UNKNOWN		
+0|Algeria|0|Tahaggart|Surficial|Dormant|1,000–2,500	
+0|Algeria|0|Timgaouine|Vein|Dormant|10,000–25,000	
+0|Algeria|0|Tinef|Vein|Dormant|UNKNOWN		
+0|Argentina|0|Cerro Solo|Sandstone–Tabular|Dormant|2,500–5,000	
+0|Argentina|0|Don Otto|Sandstone–Tabular|Depleted|500–1,000	
+0|Argentina|0|Dr. Baulles|Sandstone–Tabular|Dormant|10,000–25,000	
+0|Argentina|0|Huemul|Sandstone–Tabular|Dormant|< 500		
+0|Argentina|0|La Estela|Vein|Depleted|< 500		
+0|Argentina|0|Rodolfo|Surficial|Dormant|1,000–2,500	
+0|Argentina|0|Schlagintweit|Vein|Dormant|1,000–2,500	
+0|Australia|0|Anderson's Lode|Metasomatite|Exploration|2,500–5,000	
+0|Australia|0|Angela|Sandstone–Roll Front|Dormant|5,000–10,000	
+0|Australia|0|Angelo River A|Unconformity-Proterozoic|Dormant|500–1,000 
 2|Australia|16|Armchair Streitberg|Hematite Breccia Complex|Exploration|1,000–2,500
 3|Australia|17|Ben Lomond|Volcanic|Dormant|5,000–10,000
 4|Australia|18|Bennetts Well|Sandstone–Roll Front|Dormant|1,000–2,500
@@ -244,194 +244,194 @@
 64|Canada|1111|Thorburn Lake|Unconformity-Proterozoic|Dormant|500–1,000
 66|Canada|1114|Tyee|Sandstone–Basal Channel|Dormant|500–1,000
 67|Canada|149|West Bear|Unconformity-Proterozoic|Dormant|500–1,000
-1|China|158.0|Baiyanghe, Junggar-|Volcanic|Depleted|500–1,000||||||||
-3|China|156.0|Bashibulak, Junggar-|Sandstone–Tabular|Exploration|2,500–5,000||||||||
-5|China|157.0|Beimianshi, South|Sandstone–Basal Channel|Dormant|2,500–5,000||||||||
-7|China|159.0|Bentou, South China U|Other|Exploration|500–1,000||||||||
-9|China|160.0|Chanziping, South|Other|Exploration|2,500–5,000||||||||
-11|China|162.0|Chengzishan,|Sandstone–Basal Channel|Dormant|5,000–10,000||||||||
-14|China|161.0|Chenjiazhung|Intrusive|Exploration|500–1,000||||||||
-17|China|163.0|Daladi, Junggar-Tien|Lignite|Depleted|500–1,000||||||||
-19|China|164.0|Guixi, South China U|Volcanic|Depleted|500–1,000||||||||
-21|China|165.0|Guyuan, Yinshan-|Volcanic|Exploration|2,500–5,000||||||||
-23|China|166.0|Hongshiquan, Qilian-|Intrusive|Exploration|500–1,000||||||||
-25|China|167.0|Jiling, Qilian-Quiling U|Vein|Exploration|500–1,000||||||||
-27|China|168.0|Jinyinzhai|Vein|Depleted|5,000–10,000||||||||
-28|China|169.0|Kujie'ertai, Junggar-|Sandstone–Roll Front|Operating|10,000–25,000||||||||
-30|China|170.0|Lianshanguan, Yinshan-|Vein|Operating|2,500–5,000||||||||
-32|China|171.0|Mengqiuguer, Junggar-|Lignite|Depleted|500–1,000||||||||
-34|China|172.0|Nuheting, Yinshan-|Sandstone–Tabular|Exploration|10,000–25,000||||||||
-36|China|173.0|Puquitang|Sandstone–Tabular|Depleted|500–1,000||||||||
-37|China|174.0|Quinglong, Yinshan-|Sandstone–Basal Channel|Dormant|5,000–10,000||||||||
-39|China|1120.0|Shihongtan, Junggar-|Sandstone–Roll Front|Operating|2,500–5,000||||||||
-41|China|175.0|Tengchong, West|Sandstone–Roll Front|Operating|2,500–5,000||||||||
-43|China|176.0|Xiangcao|Sandstone–Roll Front|Exploration|1,000–2,500||||||||
-44|China|180.0|Xiangshan|Volcanic|Operating|10,000–25,000||||||||
-47|China|179.0|Xiazhuang (Xiwang),|Vein|Depleted|5,000–10,000||||||||
-49|China|1121.0|Zaohuohao,Yinshan-|Sandstone–Roll Front|Exploration|5,000–10,000||||||||
-51|Colombia|1305.0|Berlin|Black Shales|Exploration|2,500–5,000||||||||
-52|Czech Republic|181.0|Brevniste|Sandstone–Tabular|Depleted|10,000–25,000||||||||
-53|Czech Republic|183.0|Dylen|Vein|Depleted|2,500–5,000||||||||
-54|Czech Republic|184.0|Hamr|Sandstone–Tabular|Dormant|25,000–50,000||||||||
-55|Czech Republic|185.0|Horni Slavkov|Vein|Depleted|2,500–5,000||||||||
-56|Czech Republic|186.0|Hvezdov|Sandstone–Tabular|Dormant|10,000–25,000||||||||
-57|Czech Republic|187.0|Jachymov|Vein|Depleted|10,000–25,000||||||||
-2|Czech Republic|189|Javornik-Zalesi|Vein||2,500–5,000|||||||Depleted|||||||
-3|Czech Republic|190|Licomerice-Brezinka|Vein||2,500–5,000|||||||Depleted|||||||
-4|Czech Republic|191|Mimon|Sandstone–Tabular||10,000–25,000|||||||Depleted|||||||
-5|Czech Republic|192|Okrouhla Radoun|Vein||2,500–5,000|||||||Depleted|||||||
-6|Czech Republic|193|Olsi|Vein||2,500–5,000|||||||Depleted|||||||
-7|Czech Republic|194|Osecna-Kotel|Sandstone–Tabular||25,000–50,000|||||||Dormant|||||||
-8|Czech Republic|182|Polna|Vein||1,000–2,500|||||||Dormant|||||||
-9|Czech Republic|1160|Predborice|Vein||< 500|||||||Depleted|||||||
-10|Czech Republic|195|Pribram|Vein||25,000–50,000|||||||Depleted|||||||
-11|Czech Republic|196|Rozna|Vein||10,000–25,000|||||||Operating|||||||
-12|Czech Republic|1161|Slavkovice-Petrovice|Vein||< 500|||||||Depleted|||||||
-13|Czech Republic|1158|Sokolov Tertiary Basin|Lignite||1,000–2,500|||||||Dormant|||||||
-14|Czech Republic|197|Straz|Sandstone–Tabular||25,000–50,000|||||||Operating|||||||
-15|Czech Republic|198|Vitkov II|Vein||10,000–25,000|||||||Depleted|||||||
-16|Czech Republic|199|Vnitrosudetska Panev|Other||2,500–5,000|||||||Depleted|||||||
-17|Czech Republic|200|Zadni Chodov|Vein||10,000–25,000|||||||Depleted|||||||
-18|Congo|1163|Kalongwe|Vein||< 500|||||||Dormant|||||||
-20|Congo|1164|Kambove West|Vein||1,000–2,500|||||||Depleted|||||||
-22|Congo|433|Kamoto Principal|Vein||1,000–2,500|||||||Dormant|||||||
-24|Congo|434|Kasompi East|Vein||500–1,000|||||||Dormant|||||||
-26|Congo|1165|Luena Basin|Lignite||5,000–10,000|||||||Dormant|||||||
-28|Congo|1166|Musonoi Extension|Vein||2,500–5,000|||||||Depleted|||||||
-30|Congo|435|Shinkolobwe-Kasolo|Vein||25,000–50,000|||||||Depleted|||||||
-32|Congo|1167|Swambo|Vein||500–1,000|||||||Dormant|||||||
-34|Denmark|201|Kvanefjeld|Intrusive||25,000–50,000|||||||Exploration|||||||
-35|Finland|202|Kesankitunturi|Sandstone–Tabular||500–1,000|||||||Dormant|||||||
-36|Finland|203|Nuottijarvi|Phosphorite||1,000–2,500|||||||Dormant|||||||
-37|Finland|204|Pahtavuoma-U|Vein||500–1,000|||||||Dormant|||||||
-38|Finland|205|Palmottu|Intrusive||1,000–2,500|||||||Exploration|||||||
-39|Finland|206|Paukkajanvaara|Sandstone–Tabular||< 500|||||||Reclaimed|||||||
-40|Finland|207|Sokli|Intrusive||2,500–5,000|||||||Dormant|||||||
-41|Finland|208|Talvivaara|Black Shales||2,500–5,000|||||||Development|||||||
-42|Finland|209|Vihanti-U|Phosphorite||500–1,000|||||||Reclamation|||||||
-43|France|1266|Vendée District|Vein||1,000–2,500|||||||Depleted|||||||
-44|France|956|Ambert (District)|Vein||< 500|||||||Depleted|||||||
-45|France|1261|Augères|Vein||500–1,000|||||||Depleted|||||||
-46|France|210|Bellezane|Vein||2,500–5,000|||||||Depleted|||||||
-47|France|221|Bernardan (Le)|Vein||5,000–10,000|||||||Depleted|||||||
-48|France|211|Bertholene|Unconformity-Proterozoic||500–1,000|||||||Depleted|||||||
+1|China|158.0|Baiyanghe, Junggar-|Volcanic|Depleted|500–1,000|
+3|China|156.0|Bashibulak, Junggar-|Sandstone–Tabular|Exploration|2,500–5,000|
+5|China|157.0|Beimianshi, South|Sandstone–Basal Channel|Dormant|2,500–5,000|
+7|China|159.0|Bentou, South China U|Other|Exploration|500–1,000|
+9|China|160.0|Chanziping, South|Other|Exploration|2,500–5,000|
+11|China|162.0|Chengzishan,|Sandstone–Basal Channel|Dormant|5,000–10,000|
+14|China|161.0|Chenjiazhung|Intrusive|Exploration|500–1,000|
+17|China|163.0|Daladi, Junggar-Tien|Lignite|Depleted|500–1,000|
+19|China|164.0|Guixi, South China U|Volcanic|Depleted|500–1,000|
+21|China|165.0|Guyuan, Yinshan-|Volcanic|Exploration|2,500–5,000|
+23|China|166.0|Hongshiquan, Qilian-|Intrusive|Exploration|500–1,000|
+25|China|167.0|Jiling, Qilian-Quiling U|Vein|Exploration|500–1,000|
+27|China|168.0|Jinyinzhai|Vein|Depleted|5,000–10,000|
+28|China|169.0|Kujie'ertai, Junggar-|Sandstone–Roll Front|Operating|10,000–25,000|
+30|China|170.0|Lianshanguan, Yinshan-|Vein|Operating|2,500–5,000|
+32|China|171.0|Mengqiuguer, Junggar-|Lignite|Depleted|500–1,000|
+34|China|172.0|Nuheting, Yinshan-|Sandstone–Tabular|Exploration|10,000–25,000|
+36|China|173.0|Puquitang|Sandstone–Tabular|Depleted|500–1,000|
+37|China|174.0|Quinglong, Yinshan-|Sandstone–Basal Channel|Dormant|5,000–10,000|
+39|China|1120.0|Shihongtan, Junggar-|Sandstone–Roll Front|Operating|2,500–5,000|
+41|China|175.0|Tengchong, West|Sandstone–Roll Front|Operating|2,500–5,000|
+43|China|176.0|Xiangcao|Sandstone–Roll Front|Exploration|1,000–2,500|
+44|China|180.0|Xiangshan|Volcanic|Operating|10,000–25,000|
+47|China|179.0|Xiazhuang (Xiwang),|Vein|Depleted|5,000–10,000|
+49|China|1121.0|Zaohuohao,Yinshan-|Sandstone–Roll Front|Exploration|5,000–10,000|
+51|Colombia|1305.0|Berlin|Black Shales|Exploration|2,500–5,000|
+52|Czech Republic|181.0|Brevniste|Sandstone–Tabular|Depleted|10,000–25,000|
+53|Czech Republic|183.0|Dylen|Vein|Depleted|2,500–5,000|
+54|Czech Republic|184.0|Hamr|Sandstone–Tabular|Dormant|25,000–50,000|
+55|Czech Republic|185.0|Horni Slavkov|Vein|Depleted|2,500–5,000|
+56|Czech Republic|186.0|Hvezdov|Sandstone–Tabular|Dormant|10,000–25,000|
+57|Czech Republic|187.0|Jachymov|Vein|Depleted|10,000–25,000|
+2|Czech Republic|189|Javornik-Zalesi|Vein|Depleted|2,500–5,000
+3|Czech Republic|190|Licomerice-Brezinka|Vein|Depleted|2,500–5,000
+4|Czech Republic|191|Mimon|Sandstone–Tabular|Depleted|10,000–25,000
+5|Czech Republic|192|Okrouhla Radoun|Vein||2,500–5,000Depleted
+6|Czech Republic|193|Olsi|Vein||2,500–5,000Depleted
+7|Czech Republic|194|Osecna-Kotel|Sandstone–Tabular|Dormant|25,000–50,000
+8|Czech Republic|182|Polna|Vein|Dormant|1,000–2,500
+9|Czech Republic|1160|Predborice|Vein||< 500Depleted
+10|Czech Republic|195|Pribram|Vein||25,000–50,000Depleted
+11|Czech Republic|196|Rozna|Vein||10,000–25,000Operating
+12|Czech Republic|1161|Slavkovice-Petrovice|Vein||< 500Depleted
+13|Czech Republic|1158|Sokolov Tertiary Basin|Lignite||1,000–2,500Dormant
+14|Czech Republic|197|Straz|Sandstone–Tabular||25,000–50,000Operating
+15|Czech Republic|198|Vitkov II|Vein||10,000–25,000Depleted
+16|Czech Republic|199|Vnitrosudetska Panev|Other||2,500–5,000Depleted
+17|Czech Republic|200|Zadni Chodov|Vein||10,000–25,000Depleted
+18|Congo|1163|Kalongwe|Vein||< 500Dormant
+20|Congo|1164|Kambove West|Vein||1,000–2,500Depleted
+22|Congo|433|Kamoto Principal|Vein||1,000–2,500Dormant
+24|Congo|434|Kasompi East|Vein||500–1,000Dormant
+26|Congo|1165|Luena Basin|Lignite||5,000–10,000Dormant
+28|Congo|1166|Musonoi Extension|Vein||2,500–5,000Depleted
+30|Congo|435|Shinkolobwe-Kasolo|Vein||25,000–50,000Depleted
+32|Congo|1167|Swambo|Vein||500–1,000Dormant
+34|Denmark|201|Kvanefjeld|Intrusive||25,000–50,000Exploration
+35|Finland|202|Kesankitunturi|Sandstone–Tabular||500–1,000Dormant
+36|Finland|203|Nuottijarvi|Phosphorite||1,000–2,500Dormant
+37|Finland|204|Pahtavuoma-U|Vein||500–1,000Dormant
+38|Finland|205|Palmottu|Intrusive||1,000–2,500Exploration
+39|Finland|206|Paukkajanvaara|Sandstone–Tabular||< 500Reclaimed
+40|Finland|207|Sokli|Intrusive||2,500–5,000Dormant
+41|Finland|208|Talvivaara|Black Shales||2,500–5,000Development
+42|Finland|209|Vihanti-U|Phosphorite||500–1,000Reclamation
+43|France|1266|Vendée District|Vein||1,000–2,500Depleted
+44|France|956|Ambert (District)|Vein||< 500Depleted
+45|France|1261|Augères|Vein||500–1,000Depleted
+46|France|210|Bellezane|Vein||2,500–5,000Depleted
+47|France|221|Bernardan (Le)|Vein||5,000–10,000Depleted
+48|France|211|Bertholene|Unconformity-Proterozoic||500–1,000Depleted
 49||||Fracture bound||
-50|France|218|Besse (La) District|Vein||1,000–2,500|||||||Depleted|||||||
-51|France|225|Bois Noirs (Les)|Vein||5,000–10,000|||||||Depleted|||||||
-52|France|969|Bondons (Les)|Vein||< 500|||||||Depleted|||||||
-53|France|967|Bretagne (District)|Vein||1,000–2,500|||||||Depleted|||||||
-54|France|226|Brugeaud (Le)|Vein||1,000–2,500|||||||Depleted|||||||
-55|France|222|Cellier (Le)–Villeret (Le)|Vein||1,000–2,500|||||||Depleted|||||||
-56|France|212|Cerilly (District )|Sandstone–Tabular||1,000–2,500|||||||Depleted|||||||
-57|France|219|Chapelle-Largeau (La)-|Vein||500–1,000|||||||Depleted|||||||
-59|France|223|Chardon (Le)|Vein||2,500–5,000|||||||Depleted|||||||
-60|France|958|Château-Chinon|Vein||< 500|||||||Depleted|||||||
-62|France|220|Commanderie (La)|Vein||2,500–5,000|||||||Depleted|||||||
-63|France|971|Corrèze (District)|Vein||< 500|||||||Depleted|||||||
-64|France|213|Coutras|Sandstone–Tabular||10,000–25,000|||||||Dormant|||||||
-65|France|972|Creuse (District)|Vein||500–1,000|||||||Depleted|||||||
-2|France|939|Ecarpiere (L')|Vein||2,500–5,000|||||||Depleted|||||||
-3|France|963|Failles Sud et Centrales|Sandstone–||500–1,000|||||||Depleted|||||||
-5|France|215|Fanay–Les Sagnes|Vein||2,500–5,000|||||||Depleted|||||||
-6|France|224|Fraisse (Le)-Les Gorces|Vein||1,000–2,500|||||||Depleted|||||||
-7|France|216|Grury-Luzy district|Vein||500–1,000|||||||Depleted|||||||
-8|France|217|Hyverneresse|Vein||500–1,000|||||||Depleted|||||||
-9|France|230|Lodève District|Sandstone–||500–1,000|||||||Depleted|||||||
-11|France|227|Loges (Les)|Vein||500–1,000|||||||Depleted|||||||
-12|France|1262|Marche District|Vein||500–1,000|||||||Depleted|||||||
-13|France|961|Mares (Les)|Sandstone–||500–1,000|||||||Depleted|||||||
-15|France|232|Margnac-Peny|Vein||5,000–10,000|||||||Depleted|||||||
-16|France|1263|Mas d'Alary|Vein||1,000–2,500|||||||Depleted|||||||
-17|France|231|Mas Lavayre|Sandstone–||10,000–25,000|||||||Depleted|||||||
-19|France|233|Montulat|Vein||1,000–2,500|||||||Dormant|||||||
-20|France|234|Pen Ar Ran|Vein||500–1,000|||||||Depleted|||||||
-21|France|235|Piegut- La Cote Moreau|Vein||< 500|||||||Depleted|||||||
-22|France|228|Pierres-Plantées (Les)|Vein||1,000–2,500|||||||Depleted|||||||
-23|France|237|Saint Hippolyte|Black Shales||1,000–2,500|||||||Dormant|||||||
-24|France|236|Saint.Pierre Du Cantal|Sandstone–Basal Channel||1,000–2,500|||||||Depleted|||||||
-25|France|1264|Schaenzel|Black Shales||500–1,000|||||||Dormant|||||||
-26|France|974|Siège MCO|Vein||1,000–2,500|||||||Depleted|||||||
-27|France|1265|Teufelsloch-Warik|Black Shales||1,000–2,500|||||||Dormant|||||||
-28|France|965|Vénachat|Vein||500–1,000|||||||Depleted|||||||
-29|Gabon|242|Mounana|Sandstone–||5,000–10,000|||||||Depleted|||||||
-31|Gabon|239|Bangombé|Sandstone–||< 500|||||||Dormant|||||||
-33|Gabon|240|Boyindzi|Sandstone–||1,000–2,500|||||||Depleted|||||||
-35|Gabon|241|Mikouloungou|Sandstone–||1,000–2,500|||||||Depleted|||||||
-37|Gabon|243|Okélobondo Nord|Sandstone–||1,000–2,500|||||||Depleted|||||||
-39|Gabon|900|Okélobondo Satellite|Sandstone–Tabular||< 500|||||||Depleted|||||||
-41|Gabon|899|Okélobondo Satellite|Sandstone–Tabular||< 500|||||||Depleted|||||||
-43|Gabon|898|Okélobondo Sud|Sandstone–||1,000–2,500|||||||Depleted|||||||
-45|Gabon|244|Oklo|Sandstone–||10,000–25,000|||||||Depleted|||||||
-47|Germany|245|Annaberg|Vein||500–1,000|||||||Depleted|||||||
-48|Germany|246|Antonsthal (Weisser|Vein||500–1,000|||||||Depleted|||||||
-50|Germany|247|Culmitzsch|Sandstone–Tabular||10,000–25,000|||||||Depleted|||||||
-51|Germany|248|Freital-Gittersee|Lignite||2,500–5,000|||||||Closed|||||||
-52|Germany|249|Grossschloppen|Vein||1,000–2,500|||||||Dormant|||||||
-53|Germany|250|Johanngeorgenstadt|Vein||5,000–10,000|||||||Depleted|||||||
-54|Germany|251|Koenigstein|Sandstone–Tabular||10,000–25,000|||||||Depleted|||||||
-55|Germany|252|Menzenschwand|Vein||2,500–5,000|||||||Dormant|||||||
-56|Germany|253|Muellenbach|Sandstone–Tabular||2,500–5,000|||||||Dormant|||||||
-57|Germany|255|Niederschlema-|Vein||> 100,000|||||||Depleted|||||||
-59|Germany|953|Oberschlema|Vein||5,000–10,000|||||||Unknown|||||||
-60|Germany|254|Ronneburg Ore Field|Black Shales||> 100,000|||||||Closed|||||||
-61|Germany|256|Schneckenstein|Vein||500–1,000|||||||Depleted|||||||
-62|Germany|257|Tellerhauser|Vein||1,000–2,500|||||||Closed|||||||
-63|Germany|258|Waeldel &|Vein||1,000–2,500|||||||Dormant|||||||
-66|Germany|259|Zobes|Vein||5,000–10,000|||||||Depleted|||||||
-2|Guinea|1267|Firawa|Vein||UNKNOWN|||||||Exploration|||||||
-3|Guyana|1306|Aricheng|Vein||2,500–5,000|||||||Exploration|||||||
-4|Hungary|260|Mecsek|Sandstone–Tabular||25,000–50,000|||||||Closed|||||||
-5|India|261|Bhatin|Vein||1,000–2,500|||||||Operating|||||||
-6|India|262|Domiasat|Sandstone–Tabular||5,000–10,000|||||||Fully explored|||||||
-7|India|263|Jaduguda|Vein||5,000–10,000|||||||Operating|||||||
-8|India|264|Koppunuru|Unconformity-Proterozoic||500–1,000|||||||Exploration|||||||
-10|India|265|Lambapur|Unconformity-Proterozoic||1,000–2,500|||||||Fully explored|||||||
-12|India|266|Narwapahar|Vein||10,000–25,000|||||||Operating|||||||
-13|India|273|Peddagattu|Unconformity-Proterozoic||5,000–10,000|||||||Exploration|||||||
-15|India|268|Rohil|Metasomatite||2,500–5,000|||||||Exploration|||||||
-16|India|269|Tummalapalle–|Other||10,000–25,000|||||||Operating|||||||
-18|India|270|Turamdih|Vein||2,500–5,000|||||||Operating|||||||
-19|India|272|Wahkyn|Sandstone–Tabular||2,500–5,000|||||||Exploration|||||||
-20|Indonesia|954|Lemajung|Vein||500–1,000|||||||Dormant|||||||
-21|Indonesia|274|Remaja-Hitam|Vein||1,000–2,500|||||||Dormant|||||||
-22|Indonesia|267|Rirang|Vein||< 500|||||||Dormant|||||||
-23|Iran|275|Saghand|Metasomatite||1,000–2,500|||||||Development|||||||
-25|Italy|276|Novazza|Volcanic||1,000–2,500|||||||Dormant|||||||
-26|Italy|955|Valvedello|Volcanic||2,500–5,000|||||||Dormant|||||||
-27|Japan|281|Ningyo-Toge Ore Field|Sandstone–Roll Front||1,000–2,500|||||||Dormant|||||||
-28|Japan|282|Tono Ore Field|Sandstone–Roll Front||5,000–10,000|||||||Dormant|||||||
-29|Jordan|277|Al-Abiad|Phosphorite||UNKNOWN|||||||Dormant|||||||
-30|Jordan|278|Al-Hassa|Phosphorite||UNKNOWN|||||||Dormant|||||||
-31|Jordan|279|Eshidia|Phosphorite||UNKNOWN|||||||Dormant|||||||
-32|Jordan|280|Ruseita|Phosphorite||UNKNOWN|||||||Dormant|||||||
-33|Jordan|1168|Siwaqa|Phosphorite||25,000–50,000|||||||Dormant|||||||
-34|Kazakhstan|283|Agashskoe|Vein||5,000–10,000|||||||Dormant|||||||
-35|Kazakhstan|1169|Akdala|Unknown||10,000–25,000|||||||Unknown|||||||
-36|Kazakhstan|285|Assarchik|Sandstone–Roll Front||10,000–25,000|||||||Dormant|||||||
-37|Kazakhstan|286|Balkashinskoye|Vein||2,500–5,000|||||||Dormant|||||||
-38|Kazakhstan|288|Bezymyannoye|Volcanic||500–1,000|||||||Dormant|||||||
-39|Kazakhstan|289|Botaburum|Vein||5,000–10,000|||||||Depleted|||||||
-40|Kazakhstan|290|Budennovskoye|Sandstone–Roll Front||25,000–50,000|||||||Standby|||||||
-41|Kazakhstan|291|Burlukskoye|Vein||2,500–5,000|||||||Dormant|||||||
-42|Kazakhstan|292|Chaglinskoye|Vein||10,000–25,000|||||||Dormant|||||||
-43|Kazakhstan|293|Chayan|Sandstone–Roll Front||500–1,000|||||||Dormant|||||||
-44|Kazakhstan|294|Daba|Volcanic||5,000–10,000|||||||Dormant|||||||
-45|Kazakhstan|295|Dergachevskoye|Vein||500–1,000|||||||Depleted|||||||
-46|Kazakhstan|297|Djusandalynskoye|Vein||5,000–10,000|||||||Partially explored|||||||
-47|Kazakhstan|298|Dzhidely|Volcanic||2,500–5,000|||||||Depleted|||||||
-48|Kazakhstan|299|Fevralskoe|Vein||2,500–5,000|||||||Dormant|||||||
-49|Kazakhstan|300|Glubinnoe|Vein||5,000–10,000|||||||Dormant|||||||
-50|Kazakhstan|301|Grachevskoye|Vein||10,000–25,000|||||||Depleted|||||||
-51|Kazakhstan|302|Granitnoye|Surficial||500–1,000|||||||Dormant|||||||
-52|Kazakhstan|303|Inkai|Sandstone–Roll Front||50,000–100,000|||||||Development|||||||
-53|Kazakhstan|304|Irkol|Sandstone–Roll Front||25,000–50,000|||||||Dormant|||||||
-54|Kazakhstan|305|Ishimskoye|Vein||5,000–10,000|||||||Depleted|||||||
-55|Kazakhstan|306|Kamyshevoe|Vein||10,000–25,000|||||||Dormant|||||||
-56|Kazakhstan|307|Kanzhugan|Sandstone–Roll Front||50,000–100,000|||||||Operating|||||||
-57|Kazakhstan|308|Karakoyn|Sandstone–Roll Front||UNKNOWN|||||||Dormant|||||||
-58|Kazakhstan|309|Karamurun North|Sandstone–Roll Front||25,000–50,000|||||||Operating|||||||
-59|Kazakhstan|310|Karamurun South|Sandstone–Roll Front||25,000–50,000|||||||Operating|||||||
-60|Kazakhstan|311|Karyntarynskoye|Phosphorite||UNKNOWN|||||||Dormant|||||||
+50|France|218|Besse (La) District|Vein||1,000–2,500Depleted
+51|France|225|Bois Noirs (Les)|Vein||5,000–10,000Depleted
+52|France|969|Bondons (Les)|Vein||< 500Depleted
+53|France|967|Bretagne (District)|Vein||1,000–2,500Depleted
+54|France|226|Brugeaud (Le)|Vein||1,000–2,500Depleted
+55|France|222|Cellier (Le)–Villeret (Le)|Vein||1,000–2,500Depleted
+56|France|212|Cerilly (District )|Sandstone–Tabular||1,000–2,500Depleted
+57|France|219|Chapelle-Largeau (La)-|Vein||500–1,000Depleted
+59|France|223|Chardon (Le)|Vein||2,500–5,000Depleted
+60|France|958|Château-Chinon|Vein||< 500Depleted
+62|France|220|Commanderie (La)|Vein||2,500–5,000Depleted
+63|France|971|Corrèze (District)|Vein||< 500Depleted
+64|France|213|Coutras|Sandstone–Tabular||10,000–25,000Dormant
+65|France|972|Creuse (District)|Vein||500–1,000Depleted
+2|France|939|Ecarpiere (L')|Vein||2,500–5,000Depleted
+3|France|963|Failles Sud et Centrales|Sandstone–||500–1,000Depleted
+5|France|215|Fanay–Les Sagnes|Vein||2,500–5,000Depleted
+6|France|224|Fraisse (Le)-Les Gorces|Vein||1,000–2,500Depleted
+7|France|216|Grury-Luzy district|Vein||500–1,000Depleted
+8|France|217|Hyverneresse|Vein||500–1,000Depleted
+9|France|230|Lodève District|Sandstone–||500–1,000Depleted
+11|France|227|Loges (Les)|Vein||500–1,000Depleted
+12|France|1262|Marche District|Vein||500–1,000Depleted
+13|France|961|Mares (Les)|Sandstone–||500–1,000Depleted
+15|France|232|Margnac-Peny|Vein||5,000–10,000Depleted
+16|France|1263|Mas d'Alary|Vein||1,000–2,500Depleted
+17|France|231|Mas Lavayre|Sandstone–||10,000–25,000Depleted
+19|France|233|Montulat|Vein||1,000–2,500Dormant
+20|France|234|Pen Ar Ran|Vein||500–1,000Depleted
+21|France|235|Piegut- La Cote Moreau|Vein|Depleted|< 500
+22|France|228|Pierres-Plantées (Les)|Vein|Depleted|1,000–2,500
+23|France|237|Saint Hippolyte|Black Shales|Dormant|1,000–2,500
+24|France|236|Saint.Pierre Du Cantal|Sandstone–Basal Channel|Depleted|1,000–2,500
+25|France|1264|Schaenzel|Black Shales|Dormant|500–1,000
+26|France|974|Siège MCO|Vein|Depleted|1,000–2,500
+27|France|1265|Teufelsloch-Warik|Black Shales|Dormant|1,000–2,500
+28|France|965|Vénachat|Vein|Depleted|500–1,000
+29|Gabon|242|Mounana|Sandstone–|Depleted|5,000–10,000
+31|Gabon|239|Bangombé|Sandstone–|Dormant|< 500
+33|Gabon|240|Boyindzi|Sandstone–|Depleted|1,000–2,500
+35|Gabon|241|Mikouloungou|Sandstone–|Depleted|1,000–2,500
+37|Gabon|243|Okélobondo Nord|Sandstone–|Depleted|1,000–2,500
+39|Gabon|900|Okélobondo Satellite|Sandstone–Tabular|Depleted|< 500
+41|Gabon|899|Okélobondo Satellite|Sandstone–Tabular|Depleted|< 500
+43|Gabon|898|Okélobondo Sud|Sandstone–|Depleted|1,000–2,500
+45|Gabon|244|Oklo|Sandstone–|Depleted|10,000–25,000
+47|Germany|245|Annaberg|Vein|Depleted|500–1,000
+48|Germany|246|Antonsthal (Weisser|Vein|Depleted|500–1,000
+50|Germany|247|Culmitzsch|Sandstone–Tabular|Depleted|10,000–25,000
+51|Germany|248|Freital-Gittersee|Lignite|Closed|2,500–5,000
+52|Germany|249|Grossschloppen|Vein|Dormant|1,000–2,500
+53|Germany|250|Johanngeorgenstadt|Vein|Depleted|5,000–10,000
+54|Germany|251|Koenigstein|Sandstone–Tabular|Depleted|10,000–25,000
+55|Germany|252|Menzenschwand|Vein|Dormant|2,500–5,000
+56|Germany|253|Muellenbach|Sandstone–Tabular|Dormant|2,500–5,000
+57|Germany|255|Niederschlema-|Vein|Depleted|> 100,000
+59|Germany|953|Oberschlema|Vein|Unknown|5,000–10,000
+60|Germany|254|Ronneburg Ore Field|Black Shales|Closed|> 100,000
+61|Germany|256|Schneckenstein|Vein|Depleted|500–1,000
+62|Germany|257|Tellerhauser|Vein|Closed|1,000–2,500
+63|Germany|258|Waeldel &|Vein|Dormant|1,000–2,500
+66|Germany|259|Zobes|Vein|Depleted|5,000–10,000
+2|Guinea|1267|Firawa|Vein|Exploration|UNKNOWN
+3|Guyana|1306|Aricheng|Vein|Exploration|2,500–5,000
+4|Hungary|260|Mecsek|Sandstone–Tabular|Closed|25,000–50,000
+5|India|261|Bhatin|Vein|Operating|1,000–2,500
+6|India|262|Domiasat|Sandstone–Tabular|Fully explored|5,000–10,000
+7|India|263|Jaduguda|Vein|Operating|5,000–10,000
+8|India|264|Koppunuru|Unconformity-Proterozoic|Exploration|500–1,000
+10|India|265|Lambapur|Unconformity-Proterozoic|Fully explored|1,000–2,500
+12|India|266|Narwapahar|Vein|Operating|10,000–25,000
+13|India|273|Peddagattu|Unconformity-Proterozoic|Exploration|5,000–10,000
+15|India|268|Rohil|Metasomatite|Exploration|2,500–5,000
+16|India|269|Tummalapalle–|Other|Operating|10,000–25,000
+18|India|270|Turamdih|Vein|Operating|2,500–5,000
+19|India|272|Wahkyn|Sandstone–Tabular|Exploration|2,500–5,000
+20|Indonesia|954|Lemajung|Vein|Dormant|500–1,000
+21|Indonesia|274|Remaja-Hitam|Vein|Dormant|1,000–2,500
+22|Indonesia|267|Rirang|Vein|Dormant|< 500
+23|Iran|275|Saghand|Metasomatite|Development|1,000–2,500
+25|Italy|276|Novazza|Volcanic|Dormant|1,000–2,500
+26|Italy|955|Valvedello|Volcanic|Dormant|2,500–5,000
+27|Japan|281|Ningyo-Toge Ore Field|Sandstone–Roll Front|Dormant|1,000–2,500
+28|Japan|282|Tono Ore Field|Sandstone–Roll Front|Dormant|5,000–10,000
+29|Jordan|277|Al-Abiad|Phosphorite|Dormant|UNKNOWN
+30|Jordan|278|Al-Hassa|Phosphorite|Dormant|UNKNOWN
+31|Jordan|279|Eshidia|Phosphorite|Dormant|UNKNOWN
+32|Jordan|280|Ruseita|Phosphorite|Dormant|UNKNOWN
+33|Jordan|1168|Siwaqa|Phosphorite|Dormant|25,000–50,000
+34|Kazakhstan|283|Agashskoe|Vein|Dormant|5,000–10,000
+35|Kazakhstan|1169|Akdala|Unknown|Unknown|10,000–25,000
+36|Kazakhstan|285|Assarchik|Sandstone–Roll Front|Dormant|10,000–25,000
+37|Kazakhstan|286|Balkashinskoye|Vein|Dormant|2,500–5,000
+38|Kazakhstan|288|Bezymyannoye|Volcanic|Dormant|500–1,000
+39|Kazakhstan|289|Botaburum|Vein|Depleted|5,000–10,000
+40|Kazakhstan|290|Budennovskoye|Sandstone–Roll Front|Standby|25,000–50,000
+41|Kazakhstan|291|Burlukskoye|Vein|Dormant|2,500–5,000
+42|Kazakhstan|292|Chaglinskoye|Vein|Dormant|10,000–25,000
+43|Kazakhstan|293|Chayan|Sandstone–Roll Front|Dormant|500–1,000
+44|Kazakhstan|294|Daba|Volcanic|Dormant|5,000–10,000
+45|Kazakhstan|295|Dergachevskoye|Vein|Depleted|500–1,000
+46|Kazakhstan|297|Djusandalynskoye|Vein|Partially explored|5,000–10,000
+47|Kazakhstan|298|Dzhidely|Volcanic|Depleted|2,500–5,000
+48|Kazakhstan|299|Fevralskoe|Vein|Dormant|2,500–5,000
+49|Kazakhstan|300|Glubinnoe|Vein|Dormant|5,000–10,000
+50|Kazakhstan|301|Grachevskoye|Vein|Depleted|10,000–25,000
+51|Kazakhstan|302|Granitnoye|Surficial|Dormant|500–1,000
+52|Kazakhstan|303|Inkai|Sandstone–Roll Front|Development|50,000–100,000
+53|Kazakhstan|304|Irkol|Sandstone–Roll Front|Dormant|25,000–50,000
+54|Kazakhstan|305|Ishimskoye|Vein|Depleted|5,000–10,000
+55|Kazakhstan|306|Kamyshevoe|Vein|Dormant|10,000–25,000
+56|Kazakhstan|307|Kanzhugan|Sandstone–Roll Front|Operating|50,000–100,000
+57|Kazakhstan|308|Karakoyn|Sandstone–Roll Front|Dormant|UNKNOWN
+58|Kazakhstan|309|Karamurun North|Sandstone–Roll Front|Operating|25,000–50,000
+59|Kazakhstan|310|Karamurun South|Sandstone–Roll Front|Operating|25,000–50,000
+60|Kazakhstan|311|Karyntarynskoye|Phosphorite|Dormant|UNKNOWN
 2|Kazakhstan|317|Kostobe|Volcanic|Depleted|500–1,000
 3|Kazakhstan|320|Kurdai|Vein|Depleted|1,000–2,500
 4|Kazakhstan|322|Kyzylkol|Vein|Depleted|500–1,000
