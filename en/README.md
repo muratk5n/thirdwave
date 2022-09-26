@@ -56,10 +56,6 @@ first such facility could be in place by 2030"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The first <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> train in the United States is set to be powered by <a href="https://twitter.com/BallardPwr?ref_src=twsrc%5Etfw">@BallardPwr</a> fuel cell engines.<br><br>The train is expected to be in service in San Bernardino, California in 2024.<br><br>Read the full story 👉 <a href="https://t.co/LnXijc2453">https://t.co/LnXijc2453</a> <a href="https://t.co/xtg7r1Xmqo">pic.twitter.com/xtg7r1Xmqo</a></p>&mdash; Hydrogen Council (@HydrogenCouncil) <a href="https://twitter.com/HydrogenCouncil/status/1574404427351572480?ref_src=twsrc%5Etfw">September 26, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 Japan Forward: "[03/2022] The results of international joint testing
 have proven the safety of the high-temperature gas-cooled reactor
 (HTGR)... [which] proved that it would not melt down even in the event
@@ -74,6 +70,10 @@ design]. The plan is.. mass production of hydrogen that uses only
 iodine, sulfur, and water, and does not emit any carbon dioxide. The
 HTGR at the practical use stage would be the ultimate decarbonized
 power source as it would produce green hydrogen"
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The first <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> train in the United States is set to be powered by <a href="https://twitter.com/BallardPwr?ref_src=twsrc%5Etfw">@BallardPwr</a> fuel cell engines.<br><br>The train is expected to be in service in San Bernardino, California in 2024.<br><br>Read the full story 👉 <a href="https://t.co/LnXijc2453">https://t.co/LnXijc2453</a> <a href="https://t.co/xtg7r1Xmqo">pic.twitter.com/xtg7r1Xmqo</a></p>&mdash; Hydrogen Council (@HydrogenCouncil) <a href="https://twitter.com/HydrogenCouncil/status/1574404427351572480?ref_src=twsrc%5Etfw">September 26, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
