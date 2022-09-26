@@ -930,43 +930,43 @@
 35|USA|777|Rio Puerco|Sandstone–Tabular|1,000–2,500Dormant
 36|USA|778|Rob Rollo|Sandstone–Tabular|1,000–2,500Depleted
 37|USA|779|Roca Honda|Sandstone–Roll Front|1,000–2,500Dormant
-38|USA|780|Rosita|Sandstone–Roll Front|1,000–2,500Depleted
-39|USA|781|Ruby|Sandstone–Tabular|2,500–5,000Depleted
-40|USA|782|Ruby Ranch|Sandstone–Tabular|1,000–2,500Dormant
-41|USA|783|Ruth|Sandstone–Roll Front|500–1,000Dormant
-42|USA|784|Sage|Collapse Breccia Pipe|1,000–2,500Dormant
-43|USA|785|Saint Anthony|Sandstone–Roll Front|2,500–5,000Dormant
-44|USA|786|San Antonio Valley|Sandstone–Tabular|1,000–2,500Dormant
-45|USA|787|Sand Creek|Sandstone–Roll Front|500–1,000Dormant
-46|USA|789|Schwartzwalder|Vein|2,500–5,000Depleted
-47|USA|790|Section 32|Sandstone–Roll Front|1,000–2,500Dormant
-48|USA|791|Sharp Canyon|Sandstone–Tabular|500–1,000Dormant
-49|USA|792|Sherwood Mine|Sandstone–Basal Channel|5,000–10,000Depleted
-50|USA|793|Shinarump|Sandstone–Tabular|500–1,000Depleted
-51|USA|933|Shirley Basin Cameco|Sandstone–Roll Front|1,000–2,500Exploration
-52|USA|794|Shirley Basin Mine|Sandstone–Roll Front|10,000–25,000Closed
-53|USA|796|Slick Rock|Sandstone–Tabular|1,000–2,500Dormant
-54|USA|797|Smith Ranch|Sandstone–Roll Front|5,000–10,000Operating
-55|USA|798|South Florida District|Phosphorite|UNKNOWNDormant
-56|USA|799|South Morton Ranch|Sandstone–Roll Front|5,000–10,000Dormant
-57|USA|800|Sundance|Unknown|UNKNOWNUnknown
-58|USA|801|Swanson|Metasomatite|10,000–25,000Dormant
-59|USA|1315|SWD Claims|Sandstone–Roll Front|500–1,000Exploration
-60|USA|802|Sweetwater Mine|Sandstone–Roll Front|5,000–10,000Depleted
-61|USA|803|Taylor Ranch|Unknown|2,500–5,000Dormant
-62|USA|804|Temple Mountain|Sandstone–Tabular|500–1,000Dormant
-63|USA|805|Tony M. / Shootering|Sandstone–Tabular|1,000–2,500Operating
-2|USA|806|Trevino|Sandstone–Roll Front|1,000–2,500Depleted
-3|USA|936|Uravan District|Sandstone–Tabular|2,500–5,000Operating
-4|USA|809|Uravan-Atkinson Mesas|Sandstone–Tabular|2,500–5,000Dormant
-5|USA|810|Vanadium|Sandstone–Tabular|5,000–10,000Dormant
-6|USA|811|Vanura|Sandstone–Tabular|1,000–2,500Depleted
-7|USA|921|Vasquez|Sandstone–Roll Front|1,000–2,500Unknown
-8|USA|934|West Cole|Sandstone–Roll Front|< 500Depleted
-9|USA|812|West Gas Hills|Sandstone–Roll Front|5,000–10,000Depleted
-10|USA|813|West Largo|Sandstone–Tabular|5,000–10,000Dormant
-11|USA|814|Whiskey Peak / Green|Sandstone–Roll Front|5,000–10,000Dormant
-13|USA|904|Zamzov|Sandstone–Roll Front|UNKNOWNDepleted
+38|USA|780|Rosita|Sandstone–Roll Front|Depleted|1,000–2,500
+39|USA|781|Ruby|Sandstone–Tabular|Depleted|2,500–5,000
+40|USA|782|Ruby Ranch|Sandstone–Tabular|Dormant|1,000–2,500
+41|USA|783|Ruth|Sandstone–Roll Front|Dormant|500–1,000
+42|USA|784|Sage|Collapse Breccia Pipe|Dormant|1,000–2,500
+43|USA|785|Saint Anthony|Sandstone–Roll Front|Dormant|2,500–5,000
+44|USA|786|San Antonio Valley|Sandstone–Tabular|Dormant|1,000–2,500
+45|USA|787|Sand Creek|Sandstone–Roll Front|Dormant|500–1,000
+46|USA|789|Schwartzwalder|Vein|Depleted|2,500–5,000
+47|USA|790|Section 32|Sandstone–Roll Front|Dormant|1,000–2,500
+48|USA|791|Sharp Canyon|Sandstone–Tabular|Dormant|500–1,000
+49|USA|792|Sherwood Mine|Sandstone–Basal Channel|Depleted|5,000–10,000
+50|USA|793|Shinarump|Sandstone–Tabular|Depleted|500–1,000
+51|USA|933|Shirley Basin Cameco|Sandstone–Roll Front|Exploration|1,000–2,500
+52|USA|794|Shirley Basin Mine|Sandstone–Roll Front|Closed|10,000–25,000
+53|USA|796|Slick Rock|Sandstone–Tabular|Dormant|1,000–2,500
+54|USA|797|Smith Ranch|Sandstone–Roll Front|Operating|5,000–10,000
+55|USA|798|South Florida District|Phosphorite|Dormant|UNKNOWN
+56|USA|799|South Morton Ranch|Sandstone–Roll Front|Dormant|5,000–10,000
+57|USA|800|Sundance|Unknown|Unknown|UNKNOWN
+58|USA|801|Swanson|Metasomatite|Dormant|10,000–25,000
+59|USA|1315|SWD Claims|Sandstone–Roll Front|Exploration|500–1,000
+60|USA|802|Sweetwater Mine|Sandstone–Roll Front|Depleted|5,000–10,000
+61|USA|803|Taylor Ranch|Unknown|Dormant|2,500–5,000
+62|USA|804|Temple Mountain|Sandstone–Tabular|Dormant|500–1,000
+63|USA|805|Tony M. / Shootering|Sandstone–Tabular|Operating|1,000–2,500
+2|USA|806|Trevino|Sandstone–Roll Front|Depleted|1,000–2,500
+3|USA|936|Uravan District|Sandstone–Tabular|Operating|2,500–5,000
+4|USA|809|Uravan-Atkinson Mesas|Sandstone–Tabular|Dormant|2,500–5,000
+5|USA|810|Vanadium|Sandstone–Tabular|Dormant|5,000–10,000
+6|USA|811|Vanura|Sandstone–Tabular|Depleted|1,000–2,500
+7|USA|921|Vasquez|Sandstone–Roll Front|Unknown|1,000–2,500
+8|USA|934|West Cole|Sandstone–Roll Front|Depleted|< 500
+9|USA|812|West Gas Hills|Sandstone–Roll Front|Depleted|5,000–10,000
+10|USA|813|West Largo|Sandstone–Tabular|Dormant|5,000–10,000
+11|USA|814|Whiskey Peak / Green|Sandstone–Roll Front|Dormant|5,000–10,000
+13|USA|904|Zamzov|Sandstone–Roll Front|Depleted|UNKNOWN
 14|Uzbekistan|815|Agron|Sandstone–Roll Front|Operating|5,000–10,000
 15|Uzbekistan|816|Aktau|Sandstone–Roll Front|Dormant|5,000–10,000
 16|Uzbekistan|817|Alatanga|Vein|Depleted|2,500–5,000
