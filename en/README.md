@@ -89,6 +89,27 @@ went spaz?
 
 ---
 
+Before the state creation, they asked Otto to give land for Israel -
+Otto was bunch of backward Romanesque inbred boneheads but even they
+smelled a problem, refused.
+
+---
+
+Israel of today continues to be a useful tool for the outer alliance,
+making good use of Britain's investment in the matter.
+
+---
+
+Pakistan - India conflict? Created by the Brits as an imperial project
+through their infamous partition (making sure to leave behind a
+constant struggle that could be exploited later).
+
+Israel-Palestine conflict? Created by the Brits as an imperial
+[project](2020/06/10-myths-israel.html#uk) - the religious aspects on
+both Christian and Jewish believers were utilized for strategic means.
+
+---
+
 H2 View: "One key zero-emissions product Cummins revealed at IAA is
 its fourth-generation hydrogen fuel cell engine. Designed to meet the
 duty-cycle, performance and packaging requirements of medium- and
@@ -112,27 +133,6 @@ Transportation 2022 in Hannover, Germany [..This] efficiency enables
 [a vehicle] to deliver up to 54% fuel to wheel efficiency compared to
 the typical fuel to wheel efficiency delivered by a diesel engine
 powered vehicle of 20% to 25%"
-
----
-
-Before the state creation, they asked Otto to give land for Israel -
-Otto was bunch of backward Romanesque inbred boneheads but even they
-smelled a problem, refused.
-
----
-
-Israel of today continues to be a useful tool for the outer alliance,
-making good use of Britain's investment in the matter.
-
----
-
-Pakistan - India conflict? Created by the Brits as an imperial project
-through their infamous partition (making sure to leave behind a
-constant struggle that could be exploited later).
-
-Israel-Palestine conflict? Created by the Brits as an imperial
-[project](2020/06/10-myths-israel.html#uk) - the religious aspects on
-both Christian and Jewish believers were utilized for strategic means.
 
 ---
 
