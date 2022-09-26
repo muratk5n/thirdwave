@@ -160,7 +160,6 @@
 62|Canada|1251|Conecho|Quartz-pebble|Dormant|1,000–2500
 64|Canada|1058|Cup Lake|Sandstone–Basal Channel|Dormant|< 500
 65|Canada|118|Dawn Lake|Unconformity-Proterozoic|Dormant|2,500–5,000
-0|Country|DepID|Deposit Name|Deposit Type|Status|
 2|Canada|126|Deilmann|Unconformity-Proterozoic|Depleted|25,000–50,000
 4|Canada|119|Denison|Quartz-pebble|Closed|> 100,000
 6|Canada|1252|Double S|Intrusive|Exploration|5,000–10,000
@@ -205,7 +204,6 @@
 63|Canada|134|Michelin|Volcanic|Exploration|25,000–50,000
 64|Canada|135|Midwest|Unconformity-Proterozoic|Dormant|10,000–25,000
 66|Canada|1082|Midwest A|Unconformity-Proterozoic|Exploration|2,500–5,000
-0|Country|DepID|Deposit Name|Deposit Type|Status|
 2|Canada|1254|Millaqua|Quartz-pebble|Dormant|2,500–5,000
 4|Canada|990|Millennium|Unconformity-Proterozoic|Exploration|10,000–25,000
 6|Canada|142|Milliken|Quartz-pebble|Dormant|5,000–10,000
@@ -494,7 +492,6 @@
 62|Mongolia|374|Gurvanbulak|Volcanic|Dormant|10,000–25,000
 63|Mongolia|1178|Khairkhan|Sandstone–Tabular|Exploration|2,500–5,000
 64|Mongolia|375|Kharat|Sandstone–Tabular|Dormant|10,000–25,000
-0|Country|DepID|Deposit Name|Deposit Type|Status|
 2|Mongolia|376|Mardaingol|Volcanic|Dormant|1,000–2,500
 3|Mongolia|377|Nars|Sandstone–Tabular|Dormant|2,500–5,000
 4|Mongolia|378|Nemer|Volcanic|Dormant|2,500–5,000
@@ -600,83 +597,83 @@
 41|Romania|454|Rachitele|Sandstone–Tabular|Dormant|500–1,000
 42|Romania|455|Ranusa|Sandstone–Tabular|Dormant|1,000–2,500
 43|Romania|456|Tulghes|Vein|Operating|5,000–10,000
-44|Russian Federation|457|Agdinskoye|Metasomatite|Dormant|1,000–2,500
-45|Russian Federation|460|Antei|Vein|Operating|25,000–50,000
-46|Russian Federation|461|Argunskoye|Vein|Development|25,000–50,000
-47|Russian Federation|463|Badyelskoye|Lignite|Dormant|5,000–10,000
-48|Russian Federation|1197|Barun-Ulacha|Volcanic|Dormant|1,000–2,500
-49|Russian Federation|466|Belskoje|Lignite|Dormant|5,000–10,000
-50|Russian Federation|468|Beryozovoye|Vein|Development|2,500–5,000
-51|Russian Federation|469|Beshtau|Vein|Depleted|500–1,000
-52|Russian Federation|472|Briketno-Zheltuhinskoye|Lignite|Dormant|5,000–10,000
-53|Russian Federation|474|Buyanovskoye|Sandstone–Roll Front|Dormant|5,000–10,000
-54|Russian Federation|475|Bykogorskoye|Vein|Depleted|1,000–2,500
-55|Russian Federation|477|Bytuguchag|Vein|Depleted|2,500–5,000
-56|Russian Federation|478|Chaika|Volcanic|Dormant|2,500–5,000
-57|Russian Federation|479|Chaplinskoye|Volcanic|Dormant|2,500–5,000
-58|Russian Federation|481|Cherepanovskoye|Surficial|Dormant|2,500–5,000
-59|Russian Federation|482|Crystalnoye|Vein|Dormant|2,500–5,000
-60|Russian Federation|485|Dalmatovskoye|Sandstone–Basal Channel|Operating|10,000–25,000
-61|Russian Federation|483|Dalneye|Volcanic|Dormant|2,500–5,000
-62|Russian Federation|484|Dobrovolnoye|Sandstone–Basal Channel|Dormant|5,000–10,000
-63|Russian Federation|486|Druzhnoye|Metasomatite|Development|50,000–100,000
-64|Russian Federation|487|Dybryn|Sandstone–Basal Channel|Development|2,500–5,000
-2|Russian Federation|488|Dzhigda|Unknown|Exploration|2,500–5,000
-3|Russian Federation|492|Gornoye|Vein|Development|5,000–10,000
-4|Russian Federation|493|Imskoye|Sandstone–Roll Front|Fully explored|10,000–25,000
-5|Russian Federation|494|Interesnoye|Metasomatite|Development|2,500–5,000
-6|Russian Federation|495|Istochnoe|Sandstone–Basal Channel|Exploration|1,000–2,500
-7|Russian Federation|497|Karhu|Unconformity-Proterozoic|Exploration|10,000–25,000
-9|Russian Federation|500|Kedrovoye|Sandstone–Roll Front|Dormant|2,500–5,000
-10|Russian Federation|503|Khiagdinskoye|Sandstone–Basal Channel|Development|10,000–25,000
-11|Russian Federation|504|Khokhlovskoye|Sandstone–Basal Channel|Exploration|10,000–25,000
-12|Russian Federation|505|Kolichikan|Sandstone–Basal Channel|Development|2,500–5,000
-13|Russian Federation|507|Koretkondinskoe|Sandstone–Basal Channel|Exploration|2,500–5,000
-14|Russian Federation|508|Kosmozero|Metasomatite|Exploration|2,500–5,000
-15|Russian Federation|509|Krasnyi Kamen|Vein|Depleted|500–1,000
-16|Russian Federation|512|Labyshkoye|Vein|Dormant|1,000–2,500
-17|Russian Federation|513|Lastochka|Volcanic|Dormant|2,500–5,000
-18|Russian Federation|515|Luchistoye|Volcanic|Operating|10,000–25,000
-19|Russian Federation|516|Malinovskoye|Sandstone–Basal Channel|Exploration|10,000–25,000
-20|Russian Federation|517|Malo-Tulukuevskoye|Volcanic|Development|10,000–25,000
-21|Russian Federation|518|Martovskoye|Volcanic|Operating|2,500–5,000
-22|Russian Federation|520|Meridionalnoye|Vein|Dormant|2,500–5,000
-23|Russian Federation|521|Molodezhnoye|Vein|Dormant|2,500–5,000
-24|Russian Federation|522|Namaru|Sandstone–Basal Channel|Exploration|2,500–5,000
-25|Russian Federation|524|Novogodneye|Vein|Operating|2,500–5,000
-26|Russian Federation|526|Oktyabrskoye|Volcanic|Operating|10,000–25,000
-27|Russian Federation|527|Olovskoye|Volcanic|Development|10,000–25,000
-28|Russian Federation|528|Osenneye|Vein|Dormant|2,500–5,000
-29|Russian Federation|530|Prigorodnoye|Sandstone–Roll Front|Dormant|2,500–5,000
-30|Russian Federation|531|Primorskoye|Sandstone–Roll Front|Dormant|5,000–10,000
-31|Russian Federation|533|Pyatilentneye|Vein|Dormant|2,500–5,000
-32|Russian Federation|534|Radionovskoye|Surficial|Dormant|2,500–5,000
-33|Russian Federation|537|Repyovskoye|Lignite|Dormant|2,500–5,000
-34|Russian Federation|538|Rjabinovoye|Volcanic|Dormant|2,500–5,000
-35|Russian Federation|539|Sanarskoye|Surficial|Depleted|2,500–5,000
-36|Russian Federation|1238|Severnoe|Metasomatite|Development|50,000–100,000
-37|Russian Federation|544|Shirondukuevskoye|Volcanic|Dormant|5,000–10,000
-38|Russian Federation|549|Solonechnoye|Volcanic|Dormant|1,000–2,500
-39|Russian Federation|550|Srednaya Padma|Metasomatite|Dormant|2,500–5,000
-40|Russian Federation|551|Stepnovskoye|Phosphorite|Dormant|10,000–25,000
-41|Russian Federation|553|Stepnoye|Sandstone–Tabular|Dormant|10,000–25,000
-42|Russian Federation|555|Streltsovskoye|Volcanic|Operating|50,000–100,000
-43|Russian Federation|559|Tetrakhskoye|Sandstone–Basal Channel|Exploration|5,000–10,000
-44|Russian Federation|562|Tsarevskoye|Metasomatite|Dormant|2,500–5,000
-45|Russian Federation|563|Tsentralnoye|Lignite|Dormant|2,500–5,000
-46|Russian Federation|564|Tulukuevskoye|Vein|Depleted|25,000–50,000
-47|Russian Federation|565|Urulynguevskoye|Vein|Dormant|2,500–5,000
-48|Russian Federation|566|Ust-Uyukskoye|Sandstone–Tabular|Dormant|10,000–25,000
-49|Russian Federation|567|Verkhnaya Padma|Metasomatite|Partially explored|500–1,000
-50|Russian Federation|568|Vershinnoye|Sandstone–Basal Channel|Exploration|5,000–10,000
-51|Russian Federation|571|Vesenneye-Padma|Metasomatite|Dormant|500–1,000
-52|Russian Federation|569|Vesenneye-Streltsovsk|Volcanic|Dormant|500–1,000
-53|Russian Federation|572|Vinogradovskoye|Surficial|Exploration|2,500–5,000
-54|Russian Federation|573|Vitlausskoye|Surficial|Dormant|2,500–5,000
-55|Russian Federation|576|Yubileinoye|Volcanic|Operating|5,000–10,000
-56|Russian Federation|578|Yugo-Zapadonoye|Vein|Dormant|2,500–5,000
-57|Russian Federation|489|Yuzhnoe (Elkon;|Metasomatite|Development|> 100,000
-61|Russian Federation|580|Zheglovskoe|Sandstone–Basal Channel|Exploration|10,000–25,000
+44|Russia|457|Agdinskoye|Metasomatite|Dormant|1,000–2,500
+45|Russia|460|Antei|Vein|Operating|25,000–50,000
+46|Russia|461|Argunskoye|Vein|Development|25,000–50,000
+47|Russia|463|Badyelskoye|Lignite|Dormant|5,000–10,000
+48|Russia|1197|Barun-Ulacha|Volcanic|Dormant|1,000–2,500
+49|Russia|466|Belskoje|Lignite|Dormant|5,000–10,000
+50|Russia|468|Beryozovoye|Vein|Development|2,500–5,000
+51|Russia|469|Beshtau|Vein|Depleted|500–1,000
+52|Russia|472|Briketno-Zheltuhinskoye|Lignite|Dormant|5,000–10,000
+53|Russia|474|Buyanovskoye|Sandstone–Roll Front|Dormant|5,000–10,000
+54|Russia|475|Bykogorskoye|Vein|Depleted|1,000–2,500
+55|Russia|477|Bytuguchag|Vein|Depleted|2,500–5,000
+56|Russia|478|Chaika|Volcanic|Dormant|2,500–5,000
+57|Russia|479|Chaplinskoye|Volcanic|Dormant|2,500–5,000
+58|Russia|481|Cherepanovskoye|Surficial|Dormant|2,500–5,000
+59|Russia|482|Crystalnoye|Vein|Dormant|2,500–5,000
+60|Russia|485|Dalmatovskoye|Sandstone–Basal Channel|Operating|10,000–25,000
+61|Russia|483|Dalneye|Volcanic|Dormant|2,500–5,000
+62|Russia|484|Dobrovolnoye|Sandstone–Basal Channel|Dormant|5,000–10,000
+63|Russia|486|Druzhnoye|Metasomatite|Development|50,000–100,000
+64|Russia|487|Dybryn|Sandstone–Basal Channel|Development|2,500–5,000
+2|Russia|488|Dzhigda|Unknown|Exploration|2,500–5,000
+3|Russia|492|Gornoye|Vein|Development|5,000–10,000
+4|Russia|493|Imskoye|Sandstone–Roll Front|Fully explored|10,000–25,000
+5|Russia|494|Interesnoye|Metasomatite|Development|2,500–5,000
+6|Russia|495|Istochnoe|Sandstone–Basal Channel|Exploration|1,000–2,500
+7|Russia|497|Karhu|Unconformity-Proterozoic|Exploration|10,000–25,000
+9|Russia|500|Kedrovoye|Sandstone–Roll Front|Dormant|2,500–5,000
+10|Russia|503|Khiagdinskoye|Sandstone–Basal Channel|Development|10,000–25,000
+11|Russia|504|Khokhlovskoye|Sandstone–Basal Channel|Exploration|10,000–25,000
+12|Russia|505|Kolichikan|Sandstone–Basal Channel|Development|2,500–5,000
+13|Russia|507|Koretkondinskoe|Sandstone–Basal Channel|Exploration|2,500–5,000
+14|Russia|508|Kosmozero|Metasomatite|Exploration|2,500–5,000
+15|Russia|509|Krasnyi Kamen|Vein|Depleted|500–1,000
+16|Russia|512|Labyshkoye|Vein|Dormant|1,000–2,500
+17|Russia|513|Lastochka|Volcanic|Dormant|2,500–5,000
+18|Russia|515|Luchistoye|Volcanic|Operating|10,000–25,000
+19|Russia|516|Malinovskoye|Sandstone–Basal Channel|Exploration|10,000–25,000
+20|Russia|517|Malo-Tulukuevskoye|Volcanic|Development|10,000–25,000
+21|Russia|518|Martovskoye|Volcanic|Operating|2,500–5,000
+22|Russia|520|Meridionalnoye|Vein|Dormant|2,500–5,000
+23|Russia|521|Molodezhnoye|Vein|Dormant|2,500–5,000
+24|Russia|522|Namaru|Sandstone–Basal Channel|Exploration|2,500–5,000
+25|Russia|524|Novogodneye|Vein|Operating|2,500–5,000
+26|Russia|526|Oktyabrskoye|Volcanic|Operating|10,000–25,000
+27|Russia|527|Olovskoye|Volcanic|Development|10,000–25,000
+28|Russia|528|Osenneye|Vein|Dormant|2,500–5,000
+29|Russia|530|Prigorodnoye|Sandstone–Roll Front|Dormant|2,500–5,000
+30|Russia|531|Primorskoye|Sandstone–Roll Front|Dormant|5,000–10,000
+31|Russia|533|Pyatilentneye|Vein|Dormant|2,500–5,000
+32|Russia|534|Radionovskoye|Surficial|Dormant|2,500–5,000
+33|Russia|537|Repyovskoye|Lignite|Dormant|2,500–5,000
+34|Russia|538|Rjabinovoye|Volcanic|Dormant|2,500–5,000
+35|Russia|539|Sanarskoye|Surficial|Depleted|2,500–5,000
+36|Russia|1238|Severnoe|Metasomatite|Development|50,000–100,000
+37|Russia|544|Shirondukuevskoye|Volcanic|Dormant|5,000–10,000
+38|Russia|549|Solonechnoye|Volcanic|Dormant|1,000–2,500
+39|Russia|550|Srednaya Padma|Metasomatite|Dormant|2,500–5,000
+40|Russia|551|Stepnovskoye|Phosphorite|Dormant|10,000–25,000
+41|Russia|553|Stepnoye|Sandstone–Tabular|Dormant|10,000–25,000
+42|Russia|555|Streltsovskoye|Volcanic|Operating|50,000–100,000
+43|Russia|559|Tetrakhskoye|Sandstone–Basal Channel|Exploration|5,000–10,000
+44|Russia|562|Tsarevskoye|Metasomatite|Dormant|2,500–5,000
+45|Russia|563|Tsentralnoye|Lignite|Dormant|2,500–5,000
+46|Russia|564|Tulukuevskoye|Vein|Depleted|25,000–50,000
+47|Russia|565|Urulynguevskoye|Vein|Dormant|2,500–5,000
+48|Russia|566|Ust-Uyukskoye|Sandstone–Tabular|Dormant|10,000–25,000
+49|Russia|567|Verkhnaya Padma|Metasomatite|Partially explored|500–1,000
+50|Russia|568|Vershinnoye|Sandstone–Basal Channel|Exploration|5,000–10,000
+51|Russia|571|Vesenneye-Padma|Metasomatite|Dormant|500–1,000
+52|Russia|569|Vesenneye-Streltsovsk|Volcanic|Dormant|500–1,000
+53|Russia|572|Vinogradovskoye|Surficial|Exploration|2,500–5,000
+54|Russia|573|Vitlausskoye|Surficial|Dormant|2,500–5,000
+55|Russia|576|Yubileinoye|Volcanic|Operating|5,000–10,000
+56|Russia|578|Yugo-Zapadonoye|Vein|Dormant|2,500–5,000
+57|Russia|489|Yuzhnoe (Elkon;|Metasomatite|Development|> 100,000
+61|Russia|580|Zheglovskoe|Sandstone–Basal Channel|Exploration|10,000–25,000
 2|Saudi Arabia|1200|Ghurayyah|Intrusive|Exploration|25,000–50,000
 3|Senegal|1201|Saraya|Vein|Exploration|1,000–2,500
 4|Serbia|852|Cigankulja|Vein|Unknown|500–1,000
@@ -782,191 +779,191 @@
 3|Ukraine|651|Vatutinskoye|Metasomatite|Operating|25,000–50,000
 4|Ukraine|652|Yuzhnoye|Intrusive|Dormant|5,000–10,000
 5|Ukraine|653|Zheltorechenskoye|Vein|Depleted|10,000–25,000
-6|United Republic of|1290|Nyota|Surficial|Exploration|10,000–25,000
-8|United Republic of|1288|Henri|Sandstone–Roll Front|Exploration|UNKNOWN
-10|United Republic of|1289|Manyoni C1|Surficial|Exploration|5,000–10,000
-12|USA|654|Abbe|Sandstone–Tabular|Depleted|< 500
-13|USA|655|Alta Mesa|Sandstone–Roll Front|Operating|2,500–5,000
-14|USA|656|Alta Verde|Sandstone–Roll Front|Dormant|2,500–5,000
-15|USA|924|Alzada|Sandstone–Roll Front|Dormant|1,000–2,500
-16|USA|657|Ambrosia Lake (Dysart)|Sandstone–Tabular|Closed|50,000–100,000
-17|USA|658|Anderson|Volcanic|Dormant|10,000–25,000
-18|USA|659|Arizona 1|Collapse Breccia Pipe|Dormant|1,000–2,500
-19|USA|660|Bear Creek|Sandstone–Roll Front|Depleted|2,500–5,000
-20|USA|661|Benevides|Sandstone–Roll Front|Depleted|1,000–2,500
-21|USA|662|Bernabe-Montano|Sandstone–Tabular|Dormant|5,000–10,000
-22|USA|663|Big Buck / Velvet|Sandstone–Tabular|Dormant|2,500–5,000
-23|USA|916|Big Eagle|Sandstone–Tabular|Closed|UNKNOWN
-24|USA|664|Big Eagle Phase 2 /|Sandstone–Tabular|Dormant|10,000–25,000
-26|USA|665|Big Gypsum Creek-|Sandstone–Tabular|Dormant|500–1,000
-28|USA|666|Big Red|Sandstone–Roll Front|Dormant|1,000–2,500
-29|USA|668|Bison Basin|Sandstone–Roll Front|Depleted|1,000–2,500
-30|USA|669|Bokan Mountain|Intrusive||500–1,000Depleted
-31|USA|670|Borrego Pass|Sandstone–Roll Front|Dormant|5,000–10,000
-32|USA|671|Bruni|Sandstone–Roll Front|Dormant|1,000–2,500
-33|USA|672|Buckhingham|Sandstone–Roll Front|Dormant|500–1,000
-34|USA|673|Bull Canyon|Sandstone–Tabular|Dormant|1,000–2,500
-35|USA|937|Bullfrog|Sandstone–Tabular|Exploration|10,000–25,000
-36|USA|674|Burns Ranch|Sandstone–Roll Front|Depleted|1,000–2,500
-37|USA|675|Butler-Weddington|Sandstone–Roll Front|Depleted|2,500–5,000
-38|USA|676|Calamity-N. Outlaw-|Sandstone–Tabular|Dormant|1,000–2,500
-40|USA|927|Canyon|Sandstone–Roll Front|Dormant|1,000–2,500
-41|USA|677|Canyon|Collapse Breccia Pipe|Dormant|1,000–2,500
-42|USA|678|Carpenter Flats|Sandstone–Tabular|Depleted|< 500
-43|USA|679|Cedar Hills|Sandstone–Roll Front|Dormant|1,000–2,500
-44|USA|680|Central Florida|Phosphorite|Closed|> 100,000
-45|USA|681|Chapman|Sandstone–Roll Front|Dormant|500–1,000
-46|USA|682|Charlie|Sandstone–Roll Front|Dormant|1,000–2,500
-47|USA|683|Christensen Ranch|Sandstone–Roll Front|Closed|10,000–25,000
-48|USA|929|Church Rock Section 17|Sandstone–Roll Front|Dormant|2,500–5,000
-49|USA|928|Church Rock Section 8|Sandstone–Roll Front|Dormant|2,500–5,000
-50|USA|684|Churchrock|Sandstone–Tabular|Dormant|50,000–100,000
-51|USA|685|Churchrock NE|Sandstone–Roll Front|Dormant|10,000–25,000
-52|USA|686|Clay West|Sandstone–Roll Front|Depleted|2,500–5,000
-53|USA|687|Cliffside (Section 36)|Sandstone–Tabular|Depleted|25,000–50,000
-54|USA|910|Collins Draw|Sandstone–Roll Front|Unknown|UNKNOWN
-55|USA|688|Copper Mountain|Vein|Dormant|2,500–5,000
-56|USA|689|Crooks Gap|Sandstone–Roll Front|Dormant|10,000–25,000
-57|USA|690|Crow Butte|Sandstone–Roll Front|Operating|10,000–25,000
-58|USA|691|Crownpoint|Sandstone–Tabular|Dormant|25,000–50,000
-59|USA|692|Dalton Pass|Sandstone–Tabular|Dormant|5,000–10,000
-60|USA|693|Day Loma|Sandstone–Roll Front|Depleted|2,500–5,000
-61|USA|917|Desert View / Green|Sandstone–Tabular|Dormant|UNKNOWN
-63|USA|694|Dewey Burdock|Sandstone–Roll Front|Development|2,500–5,000
-64|USA|695|East Florida District|Phosphorite|Closed|> 100,000
-65|USA|696|East Gas Hills|Sandstone–Roll Front|Depleted|2,500–5,000
-2|USA|922|Edgemont District|Sandstone–Roll Front|Depleted|UNKNOWN
-3|USA|697|EZ-2|Collapse Breccia Pipe|Dormant|500–1,000
-4|USA|698|Faith|Collapse Breccia Pipe|Dormant|500–1,000
-5|USA|699|Fernandez Main Ranch|Sandstone–Roll Front|Dormant|2,500–5,000
-6|USA|1314|FMC Claim|Sandstone–Roll Front|Exploration|1,000–2,500
-7|USA|700|Gas Hills Cameco|Sandstone–Roll Front|Development|5,000–10,000
-8|USA|901|Grace #1|Sandstone–Tabular|Dormant|UNKNOWN
-9|USA|902|Grace #2|Sandstone–Tabular|Dormant|UNKNOWN
-10|USA|702|Grover|Sandstone–Roll Front|Dormant|< 500
-11|USA|935|Gruy Ranch|Sandstone–Roll Front|Exploration|< 500
-12|USA|703|Hack Canyon|Collapse Breccia Pipe|Depleted|2,500–5,000
-13|USA|704|Hanson|Sandstone–Basal Channel|Dormant|10,000–25,000
-14|USA|705|Happy Jack|Sandstone–Tabular|Depleted|1,000–2,500
-15|USA|706|Hauber|Sandstone–Roll Front|Dormant|UNKNOWN
-16|USA|707|Hermit|Collapse Breccia Pipe|Depleted|1,000–2,500
-17|USA|708|Hershey|Sandstone–Tabular|Depleted|500–1,000
-18|USA|709|Hideout|Sandstone–Tabular|Depleted|< 500
-19|USA|710|Highland|Sandstone–Roll Front|Operating|10,000–25,000
-20|USA|903|Hobson|Sandstone–Roll Front|Depleted|1,000–2,500
-21|USA|711|Holiday-El Mesquite|Sandstone–Roll Front|Depleted|2,500–5,000
-22|USA|713|Irigaray|Sandstone–Roll Front|Depleted|2,500–5,000
-23|USA|714|J.J.|Sandstone–Roll Front|Dormant|5,000–10,000
-24|USA|716|Jackpile|Sandstone–Tabular|Depleted|25,000–50,000
-25|USA|701|Jackpot / Green|Sandstone–Roll Front|Dormant|10,000–25,000
-27|USA|717|John Brown|Sandstone–Tabular|Depleted|2,500–5,000
-28|USA|718|Johnny-M|Sandstone–Tabular|Dormant|5,000–10,000
-29|USA|920|Juniper|Sandstone–Roll Front|Exploration|1,000–2,500
-30|USA|719|Kanab North|Collapse Breccia Pipe|Dormant|1,000–2,500
-31|USA|720|Keota|Sandstone–Roll Front|Dormant|2,500–5,000
-32|USA|721|King Solomon|Sandstone–Tabular|Depleted|1,000–2,500
-33|USA|722|Kingsville Dome|Sandstone–Roll Front|Dormant|2,500–5,000
-34|USA|723|L Bar|Sandstone–Tabular|Depleted|2,500–5,000
-35|USA|724|La Jara Mesa|Sandstone–Roll Front|Dormant|2,500–5,000
-36|USA|725|La Sal Creek|Sandstone–Tabular|Dormant|500–1,000
-37|USA|726|Lamprecht-Felder|Sandstone–Roll Front|Depleted|2,500–5,000
-38|USA|727|Las Palmas|Sandstone–Roll Front|Depleted|1,000–2,500
-39|USA|728|Lee|Sandstone–Tabular|Dormant|2,500–5,000
-40|USA|729|Legin-Charles T-|Sandstone–Tabular|Closed|2,500–5,000
-42|USA|730|Leuenberger|Sandstone–Roll Front|Dormant|1,000–2,500
-43|USA|731|Long And Horse Mesas|Sandstone–Tabular|Depleted|500–1,000
-44|USA|732|Long Park|Sandstone–Tabular|Dormant|2,500–5,000
-45|USA|733|Los Ochos|Vein|Dormant|500–1,000
-46|USA|734|Lower And Radium|Sandstone–Tabular|Depleted|500–1,000
-48|USA|735|Lucky Mc Mine|Sandstone–Roll Front|Depleted|10,000–25,000
-49|USA|736|Lukachukai Mountains|Sandstone–Tabular|Dormant|1,000–2,500
-50|USA|737|Mancos|Sandstone–Roll Front|Dormant|1,000–2,500
-51|USA|738|Mariano Lake|Sandstone–Tabular|Dormant|10,000–25,000
-52|USA|739|Marquez Canyon|Sandstone–Tabular|Dormant|5,000–10,000
-53|USA|740|Marquez Grant|Sandstone–Tabular|Dormant|1,000–2,500
-54|USA|741|Marysvale|Volcanic|Dormant|500–1,000
-55|USA|742|Mcdermitt|Volcanic|Dormant|5,000–10,000
-56|USA|743|Mi Vida / Lisbon Valley|Sandstone–Tabular|Depleted|10,000–25,000
-57|USA|744|Midnite|Vein|Dormant|2,500–5,000
-58|USA|745|Monogram Mesa|Sandstone–Tabular|Dormant|2,500–5,000
-59|USA|746|Monument No.2|Sandstone–Tabular|Depleted|1,000–2,500
-60|USA|747|Moonlight|Sandstone–Tabular|Depleted|500–1,000
-61|USA|919|Moonshine Springs|Sandstone–Tabular|Dormant|1,000–2,500
-62|USA|748|Moore Ranch|Sandstone–Roll Front|Development|1,000–2,500
-63|USA|749|Mrak|Sandstone–Roll Front|Depleted|500–1,000
-64|USA|750|Mt. Lucas|Sandstone–Roll Front|Depleted|1,000–2,500
-2|USA|751|Mt. Taylor|Sandstone–Tabular|Dormant|25,000–50,000
-3|USA|752|Narrow Canyon|Sandstone–Roll Front|Dormant|2,500–5,000
-4|USA|753|Nell|Sandstone–Roll Front|Dormant|500–1,000
-5|USA|1312|Nichols Ranch|Sandstone–Roll Front|Exploration|500–1,000
-6|USA|755|Nine Mile Lake|Sandstone–Roll Front|Dormant|1,000–2,500
-7|USA|756|North Butte / Brown|Sandstone–Roll Front|Dormant|2,500–5,000
-8|USA|757|North Florida|Phosphorite|Dormant|50,000–100,000
-9|USA|758|Northeast Florida|Phosphorite|Dormant|> 100,000
-11|USA|931|Northwest Unit|Sandstone–Roll Front|Exploration|1,000–2,500
-12|USA|759|Nose Rock|Sandstone–Tabular|Dormant|10,000–25,000
-13|USA|760|O'Hern|Sandstone–Roll Front|Depleted|< 500
-14|USA|761|Orphan Lode|Collapse Breccia Pipe|Depleted|1,000–2,500
-15|USA|762|Oshoto Deposit|Sandstone–Roll Front|Dormant|1,000–2,500
-16|USA|905|Palangana|Sandstone–Roll Front|Development|1,000–2,500
-17|USA|763|Pandora|Sandstone–Tabular|Operating|500–1,000
-18|USA|764|Panna Maria|Sandstone–Roll Front|Depleted|5,000–10,000
-19|USA|765|Pawnee|Sandstone–Roll Front|Depleted|500–1,000
-20|USA|930|Peach|Sandstone–Roll Front|Development|2,500–5,000
-21|USA|766|Peterson Ranch|Sandstone–Roll Front|Dormant|1,000–2,500
-22|USA|767|Petrotomics / Dave|Sandstone–Roll Front|Dormant|10,000–25,000
-23|USA|768|Piedre Lumbre|Sandstone–Roll Front|Dormant|500–1,000
-24|USA|769|Pigeon|Collapse Breccia Pipe|Depleted|1,000–2,500
-25|USA|770|Pinenut|Collapse Breccia Pipe|Dormant|1,000–2,500
-26|USA|918|Pinetree|Sandstone–Roll Front|Development|1,000–2,500
-27|USA|771|Pitch|Vein|Depleted|500–1,000
-28|USA|772|Poison Canyon|Sandstone–Tabular|Depleted|500–1,000
-29|USA|773|Ramco|Unknown|Unknown|UNKNOWN
-30|USA|774|Red Desert Basin|Unknown|Unknown|UNKNOWN
-31|USA|1313|Reno Creek SouthWest|Sandstone–Roll Front|Exploration|1,000–2,500
-32|USA|775|Reno Creek West|Sandstone–Roll Front|Exploration|2,500–5,000
-33|USA|932|Reynolds Ranch|Sandstone–Roll Front|Development|5,000–10,000
-34|USA|776|Rhode Ranch|Sandstone–Roll Front|Depleted|2,500–5,000
-35|USA|777|Rio Puerco|Sandstone–Tabular|Dormant|1,000–2,500
-36|USA|778|Rob Rollo|Sandstone–Tabular|Depleted|1,000–2,500
-37|USA|779|Roca Honda|Sandstone–Roll Front|Dormant|1,000–2,500
-38|USA|780|Rosita|Sandstone–Roll Front|Depleted|1,000–2,500
-39|USA|781|Ruby|Sandstone–Tabular|Depleted|2,500–5,000
-40|USA|782|Ruby Ranch|Sandstone–Tabular|Dormant|1,000–2,500
-41|USA|783|Ruth|Sandstone–Roll Front|Dormant|500–1,000
-42|USA|784|Sage|Collapse Breccia Pipe|Dormant|1,000–2,500
-43|USA|785|Saint Anthony|Sandstone–Roll Front|Dormant|2,500–5,000
-44|USA|786|San Antonio Valley|Sandstone–Tabular|Dormant|1,000–2,500
-45|USA|787|Sand Creek|Sandstone–Roll Front|Dormant|500–1,000
-46|USA|789|Schwartzwalder|Vein|Depleted|2,500–5,000
-47|USA|790|Section 32|Sandstone–Roll Front|Dormant|1,000–2,500
-48|USA|791|Sharp Canyon|Sandstone–Tabular|Dormant|500–1,000
-49|USA|792|Sherwood Mine|Sandstone–Basal Channel|Depleted|5,000–10,000
-50|USA|793|Shinarump|Sandstone–Tabular|Depleted|500–1,000
-51|USA|933|Shirley Basin Cameco|Sandstone–Roll Front|Exploration|1,000–2,500
-52|USA|794|Shirley Basin Mine|Sandstone–Roll Front|Closed|10,000–25,000
-53|USA|796|Slick Rock|Sandstone–Tabular|Dormant|1,000–2,500
-54|USA|797|Smith Ranch|Sandstone–Roll Front|Operating|5,000–10,000
-55|USA|798|South Florida District|Phosphorite|Dormant|UNKNOWN
-56|USA|799|South Morton Ranch|Sandstone–Roll Front|Dormant|5,000–10,000
-57|USA|800|Sundance|Unknown|Unknown|UNKNOWN
-58|USA|801|Swanson|Metasomatite|Dormant|10,000–25,000
-59|USA|1315|SWD Claims|Sandstone–Roll Front|Exploration|500–1,000
-60|USA|802|Sweetwater Mine|Sandstone–Roll Front|Depleted|5,000–10,000
-61|USA|803|Taylor Ranch|Unknown|Dormant|2,500–5,000
-62|USA|804|Temple Mountain|Sandstone–Tabular|Dormant|500–1,000
-63|USA|805|Tony M. / Shootering|Sandstone–Tabular|Operating|1,000–2,500
-2|USA|806|Trevino|Sandstone–Roll Front|Depleted|1,000–2,500
-3|USA|936|Uravan District|Sandstone–Tabular|Operating|2,500–5,000
-4|USA|809|Uravan-Atkinson Mesas|Sandstone–Tabular|Dormant|2,500–5,000
-5|USA|810|Vanadium|Sandstone–Tabular|Dormant|5,000–10,000
-6|USA|811|Vanura|Sandstone–Tabular|Depleted|1,000–2,500
-7|USA|921|Vasquez|Sandstone–Roll Front|Unknown|1,000–2,500
-8|USA|934|West Cole|Sandstone–Roll Front|Depleted|< 500
-9|USA|812|West Gas Hills|Sandstone–Roll Front|Depleted|5,000–10,000
-10|USA|813|West Largo|Sandstone–Tabular|Dormant|5,000–10,000
-11|USA|814|Whiskey Peak / Green|Sandstone–Roll Front|Dormant|5,000–10,000
-13|USA|904|Zamzov|Sandstone–Roll Front|Depleted|UNKNOWN
+6|Tanzania|1290|Nyota|Surficial|Exploration|10,000–25,000
+8|Tanzania|1288|Henri|Sandstone–Roll Front|Exploration|UNKNOWN
+10|Tanzania|1289|Manyoni C1|Surficial|Exploration|5,000–10,000
+12|United States|654|Abbe|Sandstone–Tabular|Depleted|< 500
+13|United States|655|Alta Mesa|Sandstone–Roll Front|Operating|2,500–5,000
+14|United States|656|Alta Verde|Sandstone–Roll Front|Dormant|2,500–5,000
+15|United States|924|Alzada|Sandstone–Roll Front|Dormant|1,000–2,500
+16|United States|657|Ambrosia Lake (Dysart)|Sandstone–Tabular|Closed|50,000–100,000
+17|United States|658|Anderson|Volcanic|Dormant|10,000–25,000
+18|United States|659|Arizona 1|Collapse Breccia Pipe|Dormant|1,000–2,500
+19|United States|660|Bear Creek|Sandstone–Roll Front|Depleted|2,500–5,000
+20|United States|661|Benevides|Sandstone–Roll Front|Depleted|1,000–2,500
+21|United States|662|Bernabe-Montano|Sandstone–Tabular|Dormant|5,000–10,000
+22|United States|663|Big Buck / Velvet|Sandstone–Tabular|Dormant|2,500–5,000
+23|United States|916|Big Eagle|Sandstone–Tabular|Closed|UNKNOWN
+24|United States|664|Big Eagle Phase 2 /|Sandstone–Tabular|Dormant|10,000–25,000
+26|United States|665|Big Gypsum Creek-|Sandstone–Tabular|Dormant|500–1,000
+28|United States|666|Big Red|Sandstone–Roll Front|Dormant|1,000–2,500
+29|United States|668|Bison Basin|Sandstone–Roll Front|Depleted|1,000–2,500
+30|United States|669|Bokan Mountain|Intrusive||500–1,000Depleted
+31|United States|670|Borrego Pass|Sandstone–Roll Front|Dormant|5,000–10,000
+32|United States|671|Bruni|Sandstone–Roll Front|Dormant|1,000–2,500
+33|United States|672|Buckhingham|Sandstone–Roll Front|Dormant|500–1,000
+34|United States|673|Bull Canyon|Sandstone–Tabular|Dormant|1,000–2,500
+35|United States|937|Bullfrog|Sandstone–Tabular|Exploration|10,000–25,000
+36|United States|674|Burns Ranch|Sandstone–Roll Front|Depleted|1,000–2,500
+37|United States|675|Butler-Weddington|Sandstone–Roll Front|Depleted|2,500–5,000
+38|United States|676|Calamity-N. Outlaw-|Sandstone–Tabular|Dormant|1,000–2,500
+40|United States|927|Canyon|Sandstone–Roll Front|Dormant|1,000–2,500
+41|United States|677|Canyon|Collapse Breccia Pipe|Dormant|1,000–2,500
+42|United States|678|Carpenter Flats|Sandstone–Tabular|Depleted|< 500
+43|United States|679|Cedar Hills|Sandstone–Roll Front|Dormant|1,000–2,500
+44|United States|680|Central Florida|Phosphorite|Closed|> 100,000
+45|United States|681|Chapman|Sandstone–Roll Front|Dormant|500–1,000
+46|United States|682|Charlie|Sandstone–Roll Front|Dormant|1,000–2,500
+47|United States|683|Christensen Ranch|Sandstone–Roll Front|Closed|10,000–25,000
+48|United States|929|Church Rock Section 17|Sandstone–Roll Front|Dormant|2,500–5,000
+49|United States|928|Church Rock Section 8|Sandstone–Roll Front|Dormant|2,500–5,000
+50|United States|684|Churchrock|Sandstone–Tabular|Dormant|50,000–100,000
+51|United States|685|Churchrock NE|Sandstone–Roll Front|Dormant|10,000–25,000
+52|United States|686|Clay West|Sandstone–Roll Front|Depleted|2,500–5,000
+53|United States|687|Cliffside (Section 36)|Sandstone–Tabular|Depleted|25,000–50,000
+54|United States|910|Collins Draw|Sandstone–Roll Front|Unknown|UNKNOWN
+55|United States|688|Copper Mountain|Vein|Dormant|2,500–5,000
+56|United States|689|Crooks Gap|Sandstone–Roll Front|Dormant|10,000–25,000
+57|United States|690|Crow Butte|Sandstone–Roll Front|Operating|10,000–25,000
+58|United States|691|Crownpoint|Sandstone–Tabular|Dormant|25,000–50,000
+59|United States|692|Dalton Pass|Sandstone–Tabular|Dormant|5,000–10,000
+60|United States|693|Day Loma|Sandstone–Roll Front|Depleted|2,500–5,000
+61|United States|917|Desert View / Green|Sandstone–Tabular|Dormant|UNKNOWN
+63|United States|694|Dewey Burdock|Sandstone–Roll Front|Development|2,500–5,000
+64|United States|695|East Florida District|Phosphorite|Closed|> 100,000
+65|United States|696|East Gas Hills|Sandstone–Roll Front|Depleted|2,500–5,000
+2|United States|922|Edgemont District|Sandstone–Roll Front|Depleted|UNKNOWN
+3|United States|697|EZ-2|Collapse Breccia Pipe|Dormant|500–1,000
+4|United States|698|Faith|Collapse Breccia Pipe|Dormant|500–1,000
+5|United States|699|Fernandez Main Ranch|Sandstone–Roll Front|Dormant|2,500–5,000
+6|United States|1314|FMC Claim|Sandstone–Roll Front|Exploration|1,000–2,500
+7|United States|700|Gas Hills Cameco|Sandstone–Roll Front|Development|5,000–10,000
+8|United States|901|Grace #1|Sandstone–Tabular|Dormant|UNKNOWN
+9|United States|902|Grace #2|Sandstone–Tabular|Dormant|UNKNOWN
+10|United States|702|Grover|Sandstone–Roll Front|Dormant|< 500
+11|United States|935|Gruy Ranch|Sandstone–Roll Front|Exploration|< 500
+12|United States|703|Hack Canyon|Collapse Breccia Pipe|Depleted|2,500–5,000
+13|United States|704|Hanson|Sandstone–Basal Channel|Dormant|10,000–25,000
+14|United States|705|Happy Jack|Sandstone–Tabular|Depleted|1,000–2,500
+15|United States|706|Hauber|Sandstone–Roll Front|Dormant|UNKNOWN
+16|United States|707|Hermit|Collapse Breccia Pipe|Depleted|1,000–2,500
+17|United States|708|Hershey|Sandstone–Tabular|Depleted|500–1,000
+18|United States|709|Hideout|Sandstone–Tabular|Depleted|< 500
+19|United States|710|Highland|Sandstone–Roll Front|Operating|10,000–25,000
+20|United States|903|Hobson|Sandstone–Roll Front|Depleted|1,000–2,500
+21|United States|711|Holiday-El Mesquite|Sandstone–Roll Front|Depleted|2,500–5,000
+22|United States|713|Irigaray|Sandstone–Roll Front|Depleted|2,500–5,000
+23|United States|714|J.J.|Sandstone–Roll Front|Dormant|5,000–10,000
+24|United States|716|Jackpile|Sandstone–Tabular|Depleted|25,000–50,000
+25|United States|701|Jackpot / Green|Sandstone–Roll Front|Dormant|10,000–25,000
+27|United States|717|John Brown|Sandstone–Tabular|Depleted|2,500–5,000
+28|United States|718|Johnny-M|Sandstone–Tabular|Dormant|5,000–10,000
+29|United States|920|Juniper|Sandstone–Roll Front|Exploration|1,000–2,500
+30|United States|719|Kanab North|Collapse Breccia Pipe|Dormant|1,000–2,500
+31|United States|720|Keota|Sandstone–Roll Front|Dormant|2,500–5,000
+32|United States|721|King Solomon|Sandstone–Tabular|Depleted|1,000–2,500
+33|United States|722|Kingsville Dome|Sandstone–Roll Front|Dormant|2,500–5,000
+34|United States|723|L Bar|Sandstone–Tabular|Depleted|2,500–5,000
+35|United States|724|La Jara Mesa|Sandstone–Roll Front|Dormant|2,500–5,000
+36|United States|725|La Sal Creek|Sandstone–Tabular|Dormant|500–1,000
+37|United States|726|Lamprecht-Felder|Sandstone–Roll Front|Depleted|2,500–5,000
+38|United States|727|Las Palmas|Sandstone–Roll Front|Depleted|1,000–2,500
+39|United States|728|Lee|Sandstone–Tabular|Dormant|2,500–5,000
+40|United States|729|Legin-Charles T-|Sandstone–Tabular|Closed|2,500–5,000
+42|United States|730|Leuenberger|Sandstone–Roll Front|Dormant|1,000–2,500
+43|United States|731|Long And Horse Mesas|Sandstone–Tabular|Depleted|500–1,000
+44|United States|732|Long Park|Sandstone–Tabular|Dormant|2,500–5,000
+45|United States|733|Los Ochos|Vein|Dormant|500–1,000
+46|United States|734|Lower And Radium|Sandstone–Tabular|Depleted|500–1,000
+48|United States|735|Lucky Mc Mine|Sandstone–Roll Front|Depleted|10,000–25,000
+49|United States|736|Lukachukai Mountains|Sandstone–Tabular|Dormant|1,000–2,500
+50|United States|737|Mancos|Sandstone–Roll Front|Dormant|1,000–2,500
+51|United States|738|Mariano Lake|Sandstone–Tabular|Dormant|10,000–25,000
+52|United States|739|Marquez Canyon|Sandstone–Tabular|Dormant|5,000–10,000
+53|United States|740|Marquez Grant|Sandstone–Tabular|Dormant|1,000–2,500
+54|United States|741|Marysvale|Volcanic|Dormant|500–1,000
+55|United States|742|Mcdermitt|Volcanic|Dormant|5,000–10,000
+56|United States|743|Mi Vida / Lisbon Valley|Sandstone–Tabular|Depleted|10,000–25,000
+57|United States|744|Midnite|Vein|Dormant|2,500–5,000
+58|United States|745|Monogram Mesa|Sandstone–Tabular|Dormant|2,500–5,000
+59|United States|746|Monument No.2|Sandstone–Tabular|Depleted|1,000–2,500
+60|United States|747|Moonlight|Sandstone–Tabular|Depleted|500–1,000
+61|United States|919|Moonshine Springs|Sandstone–Tabular|Dormant|1,000–2,500
+62|United States|748|Moore Ranch|Sandstone–Roll Front|Development|1,000–2,500
+63|United States|749|Mrak|Sandstone–Roll Front|Depleted|500–1,000
+64|United States|750|Mt. Lucas|Sandstone–Roll Front|Depleted|1,000–2,500
+2|United States|751|Mt. Taylor|Sandstone–Tabular|Dormant|25,000–50,000
+3|United States|752|Narrow Canyon|Sandstone–Roll Front|Dormant|2,500–5,000
+4|United States|753|Nell|Sandstone–Roll Front|Dormant|500–1,000
+5|United States|1312|Nichols Ranch|Sandstone–Roll Front|Exploration|500–1,000
+6|United States|755|Nine Mile Lake|Sandstone–Roll Front|Dormant|1,000–2,500
+7|United States|756|North Butte / Brown|Sandstone–Roll Front|Dormant|2,500–5,000
+8|United States|757|North Florida|Phosphorite|Dormant|50,000–100,000
+9|United States|758|Northeast Florida|Phosphorite|Dormant|> 100,000
+11|United States|931|Northwest Unit|Sandstone–Roll Front|Exploration|1,000–2,500
+12|United States|759|Nose Rock|Sandstone–Tabular|Dormant|10,000–25,000
+13|United States|760|O'Hern|Sandstone–Roll Front|Depleted|< 500
+14|United States|761|Orphan Lode|Collapse Breccia Pipe|Depleted|1,000–2,500
+15|United States|762|Oshoto Deposit|Sandstone–Roll Front|Dormant|1,000–2,500
+16|United States|905|Palangana|Sandstone–Roll Front|Development|1,000–2,500
+17|United States|763|Pandora|Sandstone–Tabular|Operating|500–1,000
+18|United States|764|Panna Maria|Sandstone–Roll Front|Depleted|5,000–10,000
+19|United States|765|Pawnee|Sandstone–Roll Front|Depleted|500–1,000
+20|United States|930|Peach|Sandstone–Roll Front|Development|2,500–5,000
+21|United States|766|Peterson Ranch|Sandstone–Roll Front|Dormant|1,000–2,500
+22|United States|767|Petrotomics / Dave|Sandstone–Roll Front|Dormant|10,000–25,000
+23|United States|768|Piedre Lumbre|Sandstone–Roll Front|Dormant|500–1,000
+24|United States|769|Pigeon|Collapse Breccia Pipe|Depleted|1,000–2,500
+25|United States|770|Pinenut|Collapse Breccia Pipe|Dormant|1,000–2,500
+26|United States|918|Pinetree|Sandstone–Roll Front|Development|1,000–2,500
+27|United States|771|Pitch|Vein|Depleted|500–1,000
+28|United States|772|Poison Canyon|Sandstone–Tabular|Depleted|500–1,000
+29|United States|773|Ramco|Unknown|Unknown|UNKNOWN
+30|United States|774|Red Desert Basin|Unknown|Unknown|UNKNOWN
+31|United States|1313|Reno Creek SouthWest|Sandstone–Roll Front|Exploration|1,000–2,500
+32|United States|775|Reno Creek West|Sandstone–Roll Front|Exploration|2,500–5,000
+33|United States|932|Reynolds Ranch|Sandstone–Roll Front|Development|5,000–10,000
+34|United States|776|Rhode Ranch|Sandstone–Roll Front|Depleted|2,500–5,000
+35|United States|777|Rio Puerco|Sandstone–Tabular|Dormant|1,000–2,500
+36|United States|778|Rob Rollo|Sandstone–Tabular|Depleted|1,000–2,500
+37|United States|779|Roca Honda|Sandstone–Roll Front|Dormant|1,000–2,500
+38|United States|780|Rosita|Sandstone–Roll Front|Depleted|1,000–2,500
+39|United States|781|Ruby|Sandstone–Tabular|Depleted|2,500–5,000
+40|United States|782|Ruby Ranch|Sandstone–Tabular|Dormant|1,000–2,500
+41|United States|783|Ruth|Sandstone–Roll Front|Dormant|500–1,000
+42|United States|784|Sage|Collapse Breccia Pipe|Dormant|1,000–2,500
+43|United States|785|Saint Anthony|Sandstone–Roll Front|Dormant|2,500–5,000
+44|United States|786|San Antonio Valley|Sandstone–Tabular|Dormant|1,000–2,500
+45|United States|787|Sand Creek|Sandstone–Roll Front|Dormant|500–1,000
+46|United States|789|Schwartzwalder|Vein|Depleted|2,500–5,000
+47|United States|790|Section 32|Sandstone–Roll Front|Dormant|1,000–2,500
+48|United States|791|Sharp Canyon|Sandstone–Tabular|Dormant|500–1,000
+49|United States|792|Sherwood Mine|Sandstone–Basal Channel|Depleted|5,000–10,000
+50|United States|793|Shinarump|Sandstone–Tabular|Depleted|500–1,000
+51|United States|933|Shirley Basin Cameco|Sandstone–Roll Front|Exploration|1,000–2,500
+52|United States|794|Shirley Basin Mine|Sandstone–Roll Front|Closed|10,000–25,000
+53|United States|796|Slick Rock|Sandstone–Tabular|Dormant|1,000–2,500
+54|United States|797|Smith Ranch|Sandstone–Roll Front|Operating|5,000–10,000
+55|United States|798|South Florida District|Phosphorite|Dormant|UNKNOWN
+56|United States|799|South Morton Ranch|Sandstone–Roll Front|Dormant|5,000–10,000
+57|United States|800|Sundance|Unknown|Unknown|UNKNOWN
+58|United States|801|Swanson|Metasomatite|Dormant|10,000–25,000
+59|United States|1315|SWD Claims|Sandstone–Roll Front|Exploration|500–1,000
+60|United States|802|Sweetwater Mine|Sandstone–Roll Front|Depleted|5,000–10,000
+61|United States|803|Taylor Ranch|Unknown|Dormant|2,500–5,000
+62|United States|804|Temple Mountain|Sandstone–Tabular|Dormant|500–1,000
+63|United States|805|Tony M. / Shootering|Sandstone–Tabular|Operating|1,000–2,500
+2|United States|806|Trevino|Sandstone–Roll Front|Depleted|1,000–2,500
+3|United States|936|Uravan District|Sandstone–Tabular|Operating|2,500–5,000
+4|United States|809|Uravan-Atkinson Mesas|Sandstone–Tabular|Dormant|2,500–5,000
+5|United States|810|Vanadium|Sandstone–Tabular|Dormant|5,000–10,000
+6|United States|811|Vanura|Sandstone–Tabular|Depleted|1,000–2,500
+7|United States|921|Vasquez|Sandstone–Roll Front|Unknown|1,000–2,500
+8|United States|934|West Cole|Sandstone–Roll Front|Depleted|< 500
+9|United States|812|West Gas Hills|Sandstone–Roll Front|Depleted|5,000–10,000
+10|United States|813|West Largo|Sandstone–Tabular|Dormant|5,000–10,000
+11|United States|814|Whiskey Peak / Green|Sandstone–Roll Front|Dormant|5,000–10,000
+13|United States|904|Zamzov|Sandstone–Roll Front|Depleted|UNKNOWN
 14|Uzbekistan|815|Agron|Sandstone–Roll Front|Operating|5,000–10,000
 15|Uzbekistan|816|Aktau|Sandstone–Roll Front|Dormant|5,000–10,000
 16|Uzbekistan|817|Alatanga|Vein|Depleted|2,500–5,000
