@@ -558,69 +558,69 @@
 62|Pakistan|409|Baghal Chur|Sandstone–Roll Front|Depleted|< 500
 63|Pakistan|410|Qabul Khel|Sandstone–Tabular|Development|500–1,000
 64|Paraguay|1195|Yuti|Volcanic|Exploration|2,500–5,000
-2|Peru||411|Colquijirca|Other|500–1,000Dormant
-3|Peru||1196|Corachapi|Volcanic|2,500–5,000Exploration
-4|Peru||412|Macusani District|Volcanic|2,500–5,000Exploration
-5|Peru||413|Turmalina|Collapse Breccia Pipe|500–1,000Dormant
-6|Peru||414|Vilacabamba|Vein|500–1,000Dormant
-7|Poland||415|Gzmiaca|Sandstone–Tabular|1,000–2,500Dormant
-8|Poland||416|Kowary|Vein|500–1,000Dormant
-9|Poland||417|Krynica Morska|Sandstone–Tabular|2,500–5,000Dormant
-10|Poland||418|Okrzeszyn|Other|1,000–2,500Dormant
-11|Poland||419|Radoniow|Vein|500–1,000Dormant
-12|Poland||420|Rajsk|Black Shales|5,000–10,000Dormant
-13|Poland||421|Wambierzyce|Black Shales|1,000–2,500Dormant
-14|Portugal||422|Bica|Vein|UNKNOWNDepleted
-15|Portugal||423|Castelejo|Vein|UNKNOWNDepleted
-16|Portugal||424|Chavelhos|Vein|UNKNOWNDormant
-17|Portugal||425|Cunha Baixa|Vein|UNKNOWNDepleted
-18|Portugal||426|Freixiosa|Vein|UNKNOWNDormant
-19|Portugal||427|Mestras|Vein|UNKNOWNDormant
-20|Portugal||428|Nisa|Vein|2,500–5,000Dormant
-21|Portugal||429|Pedreiros|Vein|UNKNOWNDepleted
-22|Portugal||430|Pinhal Do Souto|Vein|UNKNOWNDormant
-23|Portugal||431|Quinta Do Bispo|Vein|UNKNOWNDepleted
-24|Portugal||432|Urgeirica|Vein|1,000–2,500Depleted
-25|Romania||437|Arieseni|Vein|500–1,000Closed
-26|Romania||438|Avram Iancu|Vein|500–1,000Closed
-27|Romania||439|Baita Bihor|Sandstone–Tabular|10,000–25,000Closed
-28|Romania||440|Bicazu Ardelean|Vein|500–1,000Dormant
-29|Romania||441|Botusana|Vein|1,000–2,500Closed
-30|Romania||442|Budurease|Sandstone–Tabular|500–1,000Fully explored
-31|Romania||443|Ciudanovita|Sandstone–Tabular|500–1,000Depleted
-32|Romania||444|Conop|Vein|500–1,000Dormant
-33|Romania||445|Crucea|Vein|2,500–5,000Operating
-34|Romania||446|Dobrei North|Sandstone–Tabular|500–1,000Closed
-35|Romania||447|Dobrei South|Sandstone–Tabular|1,000–2,500Operating
-36|Romania||448|Hojda Magura|Vein|500–1,000Dormant
-37|Romania||450|Ilisova|Volcanic|500–1,000Dormant
-38|Romania||451|Milova|Vein|500–1,000Dormant
-39|Romania||452|Natra|Sandstone–Tabular|500–1,000Depleted
-40|Romania||453|Paiuseni|Vein|500–1,000Dormant
-41|Romania||454|Rachitele|Sandstone–Tabular|500–1,000Dormant
-42|Romania||455|Ranusa|Sandstone–Tabular|1,000–2,500Dormant
-43|Romania||456|Tulghes|Vein|5,000–10,000Operating
-44|Russian Federation||457|Agdinskoye|Metasomatite|1,000–2,500Dormant
-45|Russian Federation||460|Antei|Vein|25,000–50,000Operating
-46|Russian Federation||461|Argunskoye|Vein|25,000–50,000Development
-47|Russian Federation||463|Badyelskoye|Lignite|5,000–10,000Dormant
-48|Russian Federation||1197|Barun-Ulacha|Volcanic|1,000–2,500Dormant
-49|Russian Federation||466|Belskoje|Lignite|5,000–10,000Dormant
-50|Russian Federation||468|Beryozovoye|Vein|2,500–5,000Development
-51|Russian Federation||469|Beshtau|Vein|500–1,000Depleted
-52|Russian Federation||472|Briketno-Zheltuhinskoye|Lignite|5,000–10,000Dormant
-53|Russian Federation||474|Buyanovskoye|Sandstone–Roll Front|5,000–10,000Dormant
-54|Russian Federation||475|Bykogorskoye|Vein|1,000–2,500Depleted
-55|Russian Federation||477|Bytuguchag|Vein|2,500–5,000Depleted
-56|Russian Federation||478|Chaika|Volcanic|2,500–5,000Dormant
-57|Russian Federation||479|Chaplinskoye|Volcanic|2,500–5,000Dormant
-58|Russian Federation||481|Cherepanovskoye|Surficial|2,500–5,000Dormant
-59|Russian Federation||482|Crystalnoye|Vein|2,500–5,000Dormant
-60|Russian Federation||485|Dalmatovskoye|Sandstone–Basal Channel|10,000–25,000Operating
-61|Russian Federation||483|Dalneye|Volcanic|2,500–5,000Dormant
-62|Russian Federation||484|Dobrovolnoye|Sandstone–Basal Channel|5,000–10,000Dormant
-63|Russian Federation||486|Druzhnoye|Metasomatite|50,000–100,000Development
-64|Russian Federation||487|Dybryn|Sandstone–Basal Channel|2,500–5,000Development
+2|Peru|411|Colquijirca|Other|500–1,000Dormant
+3|Peru|1196|Corachapi|Volcanic|2,500–5,000Exploration
+4|Peru|412|Macusani District|Volcanic|2,500–5,000Exploration
+5|Peru|413|Turmalina|Collapse Breccia Pipe|500–1,000Dormant
+6|Peru|414|Vilacabamba|Vein|500–1,000Dormant
+7|Poland|415|Gzmiaca|Sandstone–Tabular|Dormant|1,000–2,500
+8|Poland|416|Kowary|Vein|Dormant|500–1,000
+9|Poland|417|Krynica Morska|Sandstone–Tabular|Dormant|2,500–5,000
+10|Poland|418|Okrzeszyn|Other|Dormant|1,000–2,500
+11|Poland|419|Radoniow|Vein|Dormant|500–1,000
+12|Poland|420|Rajsk|Black Shales|Dormant|5,000–10,000
+13|Poland|421|Wambierzyce|Black Shales|Dormant|1,000–2,500
+14|Portugal|422|Bica|Vein|Depleted|UNKNOWN
+15|Portugal|423|Castelejo|Vein|Depleted|UNKNOWN
+16|Portugal|424|Chavelhos|Vein|Dormant|UNKNOWN
+17|Portugal|425|Cunha Baixa|Vein|Depleted|UNKNOWN
+18|Portugal|426|Freixiosa|Vein|Dormant|UNKNOWN
+19|Portugal|427|Mestras|Vein|Dormant|UNKNOWN
+20|Portugal|428|Nisa|Vein|Dormant|2,500–5,000
+21|Portugal|429|Pedreiros|Vein|Depleted|UNKNOWN
+22|Portugal|430|Pinhal Do Souto|Vein|Dormant|UNKNOWN
+23|Portugal|431|Quinta Do Bispo|Vein|Depleted|UNKNOWN
+24|Portugal|432|Urgeirica|Vein|Depleted|1,000–2,500
+25|Romania|437|Arieseni|Vein|Closed|500–1,000
+26|Romania|438|Avram Iancu|Vein|Closed|500–1,000
+27|Romania|439|Baita Bihor|Sandstone–Tabular|Closed|10,000–25,000
+28|Romania|440|Bicazu Ardelean|Vein|Dormant|500–1,000
+29|Romania|441|Botusana|Vein|Closed|1,000–2,500
+30|Romania|442|Budurease|Sandstone–Tabular|Fully explored|500–1,000
+31|Romania|443|Ciudanovita|Sandstone–Tabular|Depleted|500–1,000
+32|Romania|444|Conop|Vein|Dormant|500–1,000
+33|Romania|445|Crucea|Vein|Operating|2,500–5,000
+34|Romania|446|Dobrei North|Sandstone–Tabular|Closed|500–1,000
+35|Romania|447|Dobrei South|Sandstone–Tabular|Operating|1,000–2,500
+36|Romania|448|Hojda Magura|Vein|Dormant|500–1,000
+37|Romania|450|Ilisova|Volcanic|Dormant|500–1,000
+38|Romania|451|Milova|Vein|Dormant|500–1,000
+39|Romania|452|Natra|Sandstone–Tabular|Depleted|500–1,000
+40|Romania|453|Paiuseni|Vein|Dormant|500–1,000
+41|Romania|454|Rachitele|Sandstone–Tabular|Dormant|500–1,000
+42|Romania|455|Ranusa|Sandstone–Tabular|Dormant|1,000–2,500
+43|Romania|456|Tulghes|Vein|Operating|5,000–10,000
+44|Russian Federation|457|Agdinskoye|Metasomatite|Dormant|1,000–2,500
+45|Russian Federation|460|Antei|Vein|Operating|25,000–50,000
+46|Russian Federation|461|Argunskoye|Vein|Development|25,000–50,000
+47|Russian Federation|463|Badyelskoye|Lignite|Dormant|5,000–10,000
+48|Russian Federation|1197|Barun-Ulacha|Volcanic|Dormant|1,000–2,500
+49|Russian Federation|466|Belskoje|Lignite|Dormant|5,000–10,000
+50|Russian Federation|468|Beryozovoye|Vein|Development|2,500–5,000
+51|Russian Federation|469|Beshtau|Vein|Depleted|500–1,000
+52|Russian Federation|472|Briketno-Zheltuhinskoye|Lignite|Dormant|5,000–10,000
+53|Russian Federation|474|Buyanovskoye|Sandstone–Roll Front|Dormant|5,000–10,000
+54|Russian Federation|475|Bykogorskoye|Vein|Depleted|1,000–2,500
+55|Russian Federation|477|Bytuguchag|Vein|Depleted|2,500–5,000
+56|Russian Federation|478|Chaika|Volcanic|Dormant|2,500–5,000
+57|Russian Federation|479|Chaplinskoye|Volcanic|Dormant|2,500–5,000
+58|Russian Federation|481|Cherepanovskoye|Surficial|Dormant|2,500–5,000
+59|Russian Federation|482|Crystalnoye|Vein|Dormant|2,500–5,000
+60|Russian Federation|485|Dalmatovskoye|Sandstone–Basal Channel|Operating|10,000–25,000
+61|Russian Federation|483|Dalneye|Volcanic|Dormant|2,500–5,000
+62|Russian Federation|484|Dobrovolnoye|Sandstone–Basal Channel|Dormant|5,000–10,000
+63|Russian Federation|486|Druzhnoye|Metasomatite|Development|50,000–100,000
+64|Russian Federation|487|Dybryn|Sandstone–Basal Channel|Development|2,500–5,000
 2|Russian Federation|488|Dzhigda|Unknown|Exploration|2,500–5,000
 3|Russian Federation|492|Gornoye|Vein|Development|5,000–10,000
 4|Russian Federation|493|Imskoye|Sandstone–Roll Front|Fully explored|10,000–25,000
