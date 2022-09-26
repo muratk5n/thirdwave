@@ -96,7 +96,7 @@ smelled a problem, refused.
 ---
 
 Israel of today continues to be a useful tool for the outer alliance,
-making good use of Britain's investment in the matter.
+justifying Britain's long-term investment.
 
 ---
 
