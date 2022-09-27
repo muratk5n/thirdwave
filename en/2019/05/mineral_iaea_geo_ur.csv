@@ -1,0 +1,540 @@
+Country|Region|Lat|Lon|Type|Status|Amount
+Algeria|Abankor|36.256111|6.598611|Vein|Dormant|5,000-10,000	
+Algeria|Daira|34.833333|1.5|Vein|Dormant|UNKNOWN		
+Algeria|Tahaggart|21.59|7.183611|Surficial|Dormant|1,000-2,500	
+Algeria|Timgaouine|19.520833|5.637778|Vein|Dormant|10,000-25,000	
+Algeria|Tinef|22.018889|4.161944|Vein|Dormant|UNKNOWN		
+Argentina|Cerro Solo|-38.517222|-70.864167|Sandstone-Tabular|Dormant|2,500-5,000	
+Argentina|Huemul|-41.103333|-71.396111|Sandstone-Tabular|Dormant|< 500		
+Argentina|La Estela|-28.791667|-61.31|Vein|Depleted|< 500		
+Argentina|Rodolfo|-33.183056|-60.7175|Surficial|Dormant|1,000-2,500	
+Australia|Angela|-23.118333|118.693333|Sandstone-Roll Front|Dormant|5,000-10,000	
+Australia|Ben Lomond|-41.56|147.67|Volcanic|Dormant|5,000-10,000
+Australia|Bennetts Well|-21.516667|138.833333|Sandstone-Roll Front|Dormant|1,000-2,500
+Australia|Beverley|-32.108333|116.927222|Sandstone-Basal Channel|Operating|10,000-25,000
+Australia|Bigrlyi|-22.22|131.036667|Sandstone-Roll Front|Dormant|5,000-10,000
+Australia|Centipede|-22.583333|114.233333|Surficial|Dormant|2,500-5,000
+Australia|Coronation Hill|-34.0075|139.128056|Unconformity-Proterozoic|Dormant|1,000-2,500
+Australia|Crocker Well|-32.016667|139.806667|Intrusive|Exploration|2,500-5,000
+Australia|Dam|-30.485|136.876944|Unconformity-Proterozoic|Dormant|500-1,000
+Australia|Hodgkinson|-16.75|145.0|Hematite Breccia Complex|Dormant|< 500
+Australia|Honeymoon|-37.783056|148.504722|Sandstone-Roll Front|Development|1,000-2,500
+Australia|Jailor Bore|-23.746944|115.325|Surficial|Exploration|500-1,000
+Australia|Kintyre|-27.579167|151.599722|Unconformity-Proterozoic|Dormant|25,000-50,000
+Australia|Kylie|-34.136667|140.764167|Unconformity-Proterozoic|Exploration|UNKNOWN
+Australia|Lake Maitland|-27.185|121.086944|Surficial|Development|5,000-10,000
+Australia|Lake Mason|-27.615278|119.541667|Surficial|Dormant|1,000-2,500
+Australia|Lake Raeside|-29.482222|122.021389|Surficial|Dormant|1,000-2,500
+Australia|Lake Way|-26.811944|120.388889|Surficial|Exploration|2,500-5,000
+Australia|Malbooma|-30.678611|134.178611|Sandstone-Tabular|Dormant|2,500-5,000
+Australia|Manyingee|-22.45|115.2|Sandstone-Roll Front|Dormant|10,000-25,000
+Australia|Mary Kathleen|-20.8|139.783333|Metamorphic|Depleted|10,000-25,000
+Australia|Maureen|-33.786667|150.925278|Volcanic|Dormant|1,000-2,500
+Australia|Mount Fitch|-12.958611|130.956111|Unconformity-Proterozoic|Dormant|2,500-5,000
+Australia|Mount Gee|-30.227222|139.341944|Hematite Breccia Complex|Exploration|10,000-25,000
+Australia|Mount Painter|-30.173056|139.3675|Hematite Breccia Complex|Exploration|5,000-10,000
+Australia|Mount Victoria|-37.0475|147.333889|Intrusive|Dormant|< 500
+Australia|Nabarlek|-12.3|133.323889|Unconformity-Proterozoic|Exploration|5,000-10,000
+Australia|Napperby|-33.157222|138.116389|Surficial|Dormant|500-1,000
+Australia|Nolans Bore|-22.583056|133.233056|Intrusive|Exploration|1,000-2,500
+Australia|Olympic Dam|-30.485|136.876944|Hematite Breccia Complex|Operating|> 100,000
+Australia|Oobagooma|-16.761111|123.988056|Sandstone-Roll Front|Dormant|5,000-10,000
+Australia|Outcamp|-29.263889|120.614722|Sandstone-Tabular|Dormant|500-1,000
+Australia|Pamela|-31.6375|115.658333|Sandstone-Roll Front|Dormant|UNKNOWN
+Australia|Prominent Hill|-29.720833|135.523333|Hematite Breccia Complex|Development|10,000-25,000
+Australia|Radium Hill|-32.3|140.666667|Intrusive|Depleted|500-1,000
+Australia|South Alligator River|-12.25|132.4|Unconformity-Proterozoic|Depleted|500-1,000
+Australia|Sue|-10.207222|142.824722|Sandstone-Tabular|Dormant|500-1,000
+Australia|Thatcher Soak|-28.035833|123.52|Surficial|Dormant|2,500-5,000
+Australia|Trident|-25.266667|147.116667|Volcanic|Dormant|< 500
+Australia|Turee Creek|-23.293611|118.054722|Unconformity-Proterozoic|Dormant|UNKNOWN
+Australia|Valhalla|-37.95|146.45|Metasomatite|Exploration|10,000-25,000
+Australia|Warrior|-9.8|142.966667|Sandstone-Tabular|Exploration|2,500-5,000
+Australia|White's|-34.715|149.734444|Unconformity-Proterozoic|Depleted|500-1,000
+Australia|Yeelirrie|-27.276667|120.095833|Surficial|Dormant|25,000-50,000
+Botswana|Serule|-22.3275|27.493333|Sandstone-Basal Channel|Exploration|25,000-50,000
+Brazil|Amorinopolis|-16.634167|-51.098333|Sandstone-Tabular|Dormant|2,500-5,000
+Brazil|Campos Belos|-13.036667|-46.771667|Vein|Closed|< 500
+Brazil|Espinharas|-6.802222|-37.382222|Metasomatite|Dormant|5,000-10,000
+Brazil|Figueira|-23.861111|-50.420556|Sandstone-Tabular|Dormant|5,000-10,000
+Brazil|Itataia|-4.583333|-39.8|Metasomatite|Development|> 100,000
+Brazil|Lagoa Real|-14.109722|-42.216944|Metasomatite|Operating|50,000-100,000
+Brazil|Pocos De Caldas|-21.787778|-46.561389|Volcanic|Reclamation|10,000-25,000
+Bulgaria|Beslet|41.783333|23.866667|Vein|Depleted|500-1,000
+Bulgaria|Dospat|41.632222|24.1875|Sandstone-|Depleted|500-1,000
+Bulgaria|Gabra|42.533333|23.616667|Sandstone-Tabular|Closed|< 500
+Bulgaria|Gradevo|41.916667|23.2|Sandstone-Tabular|Fully explored|500-1,000
+Bulgaria|Igralishte|41.566667|23.133333|Surficial|Depleted|500-1,000
+Bulgaria|Isgrew|43.298333|27.695556|Sandstone-Roll Front|Depleted|500-1,000
+Bulgaria|Kostenetz|42.3|23.866667|Vein|Depleted|< 500
+Bulgaria|Melnik|41.522778|23.393056|Sandstone-Tabular|Depleted|500-1,000
+Bulgaria|Rosen|42.316667|24.366667|Vein|Depleted|500-1,000
+Bulgaria|Sborishte|42.683333|25.966667|Vein|Closed|500-1,000
+Bulgaria|Simitli|41.883333|23.116667|Sandstone-Tabular|Closed|2,500-5,000
+Bulgaria|Sliven|42.685833|26.329167|Vein|Depleted|500-1,000
+Bulgaria|Smolian|41.574167|24.711944|Volcanic|Closed|2,500-5,000
+Canada|Agnew Lake|46.355278|-81.760833|Quartz-pebble|Depleted|2,500-5,000
+Canada|Andrew Lake|44.350556|-64.648056|Unconformity-Proterozoic|Feasibility study|10,000-25,000
+Canada|Apple|45.566667|-74.249167|Quartz-pebble|Dormant|2,500-5,000
+Canada|Axe Lake|50.291389|-73.567222|Intrusive|Unknown|500-1,000
+Canada|Baie Johan Beetz|50.286667|-62.807222|Intrusive|Unknown|10,000-25,000
+Canada|Banana Lake|54.719722|-113.835833|Quartz-pebble|Unknown|25,000-50,000
+Canada|Bancroft|45.05|-77.849444|Intrusive|Dormant|2,500-5,000
+Canada|Blizzard|47.287778|-76.947222|Sandstone-Basal Channel|Dormant|2,500-5,000
+Canada|Buckels|59.986111|-101.623056|Quartz-pebble|Closed|500-1,000
+Canada|Caribou|48.633056|-55.014722|Unconformity-Proterozoic|Dormant|1,000-2,500
+Canada|Centennial|47.914444|-84.714444|Unconformity-Proterozoic|Exploration|UNKNOWN
+Canada|Cigar Lake|48.685278|-85.965|Unconformity-Proterozoic|Development|> 100,000
+Canada|Collins Bay A|56.433056|-124.403056|Unconformity-Proterozoic|Closed|5,000-10,000
+Canada|Conecho|46.483333|-82.516389|Quartz-pebble|Dormant|1,000-2500
+Canada|Cup Lake|47.410556|-74.805278|Sandstone-Basal Channel|Dormant|< 500
+Canada|Dawn Lake|48.294444|-72.959444|Unconformity-Proterozoic|Dormant|2,500-5,000
+Canada|Denison|45.743889|-72.102222|Quartz-pebble|Closed|> 100,000
+Canada|Double S|45.250556|-61.446667|Intrusive|Exploration|5,000-10,000
+Canada|Eagle Point|68.650833|-78.898056|Unconformity-Proterozoic|Operating|25,000-50,000
+Canada|Fond du Lac|59.334167|-107.181944|Unconformity-Proterozoic|Dormant|< 500
+Canada|Gaertner|46.526944|-77.449722|Unconformity-Proterozoic|Depleted|25,000-50,000
+Canada|Gear|46.3675|-73.688056|Volcanic|Dormant|< 500
+Canada|Gunnar|47.380556|-84.065556|Vein|Depleted|10,000-25,000
+Canada|Hab|59.616667|-108.434167|Vein|Depleted|500-1,000
+Canada|Haynes|49.015|-119.455|Sandstone-Basal Channel|Dormant|500-1,000
+Canada|Horseshoe|44.486667|-79.713889|Unconformity-Proterozoic|Exploration|5,000-10,000
+Canada|Hydraulic Lake|49.760556|-119.186111|Sandstone-Basal Channel|Dormant|1,000-2,500
+Canada|Jacques Lake|47.713056|-72.574444|Volcanic|Exploration|5,000-10,000
+Canada|Kitts|45.286944|-77.757222|Volcanic|Dormant|1,000-2,500
+Canada|L|51.6|-55.531111|Unconformity-Proterozoic|Dormant|1,000-2,500
+Canada|Lac Cinquante|48.973889|-71.805|Vein|Exploration|2,500-5,000
+Canada|Lac Gayot|46.906111|-73.669167|Other|Exploration|25,000-50,000
+Canada|LaRocque Lake|63.05|-107.7175|Unconformity-Proterozoic|Dormant|1,000-2,500
+Canada|Lorado|59.500278|-108.668056|Vein|Dormant|500-1,000
+Canada|Madawaska|45.403333|-76.388333|Intrusive|Closed|2,500-5,000
+Canada|Matoush|52.421389|-70.926389|Other|Development|5,000-10,000
+Canada|Maurice Bay|47.420278|-61.790278|Unconformity-Proterozoic|Dormant|500-1,000
+Canada|Maybelle River|57.916944|-109.918333|Unconformity-Proterozoic|Exploration|UNKNOWN
+Canada|McArthur River|57.833333|-104.600833|Unconformity-Proterozoic|Operating|> 100,000
+Canada|Michelin|46.830833|-73.450833|Volcanic|Exploration|25,000-50,000
+Canada|Midwest|42.041111|-83.149444|Unconformity-Proterozoic|Dormant|10,000-25,000
+Canada|Millennium|49.891667|-97.141944|Unconformity-Proterozoic|Exploration|10,000-25,000
+Canada|Milliken|43.825|-79.298611|Quartz-pebble|Dormant|5,000-10,000
+Canada|Mont Laurier|46.55|-75.499167|Intrusive|Exploration|< 500
+Canada|Mountain Lake|51.083333|-105.233889|Sandstone-Tabular|Dormant|2,500-5,000
+Canada|Nash|47.748889|-74.436944|Volcanic|Exploration|500-1,000
+Canada|Nordic|46.362222|-82.602222|Quartz-pebble|Dormant|10,000-25,000
+Canada|P Patch|46.526667|-84.301944|Unconformity-Proterozoic|Exploration|5,000-10,000
+Canada|Panel|49.483889|-69.508056|Quartz-pebble|Unknown|10,000-25,000
+Canada|Paul Bay|47.440833|-70.498333|Unconformity-Proterozoic|Dormant|5,000-10,000
+Canada|Pronto|46.194444|-82.725833|Quartz-pebble|Depleted|1,000-2,500
+Canada|Quirke|46.534167|-82.604167|Quartz-pebble|Closed|25,000-50,000
+Canada|Rabbit Lake|49.266667|-57.548333|Unconformity-Proterozoic|Depleted|10,000-25,000
+Canada|Rainbow|58.491389|-119.407778|Volcanic|Exploration|1,000-2,500
+Canada|Raven|48.051944|-79.55|Unconformity-Proterozoic|Exploration|2,500-5,000
+Canada|Spanish American|46.715833|-81.690556|Quartz-pebble|Closed|2,500-5,000
+Canada|Sue A|53.379167|-132.193333|Unconformity-Proterozoic|Dormant|500-1,000
+Canada|Sue E|48.665278|-91.786667|Unconformity-Proterozoic|Dormant|2,500-5,000
+Canada|Tamarack|53.464167|-113.362222|Unconformity-Proterozoic|Dormant|5,000-10,000
+Canada|Thorburn Lake|48.266389|-54.148056|Unconformity-Proterozoic|Dormant|500-1,000
+Canada|Tyee|49.982778|-125.902778|Sandstone-Basal Channel|Dormant|500-1,000
+Canada|West Bear|43.477222|-65.645556|Unconformity-Proterozoic|Dormant|500-1,000
+China|Chengzishan,|41.751944|119.758889|Sandstone-Basal Channel|Dormant|5,000-10,000
+China|Guyuan, Yinshan-|36.001944|105.535|Volcanic|Exploration|2,500-5,000
+China|Jinyinzhai|25.947778|109.99|Vein|Depleted|5,000-10,000
+China|Xiangcao|25.185556|111.898056|Sandstone-Roll Front|Exploration|1,000-2,500
+China|Xiangshan|22.523056|113.378889|Volcanic|Operating|10,000-25,000
+Colombia|Berlin|5.904722|-73.943333|Black Shales|Exploration|2,500-5,000
+Czech Republic|Brevniste|50.711111|14.869167|Sandstone-Tabular|Depleted|10,000-25,000
+Czech Republic|Dylen|49.9675|12.503333|Vein|Depleted|2,500-5,000
+Czech Republic|Hamr|50.699444|14.845556|Sandstone-Tabular|Dormant|25,000-50,000
+Czech Republic|Horni Slavkov|50.138611|12.8075|Vein|Depleted|2,500-5,000
+Czech Republic|Hvezdov|50.636944|14.793056|Sandstone-Tabular|Dormant|10,000-25,000
+Czech Republic|Jachymov|50.358333|12.934444|Vein|Depleted|10,000-25,000
+Czech Republic|Javornik-Zalesi|50.359722|16.933056|Vein|Depleted|2,500-5,000
+Czech Republic|Mimon|50.658611|14.724722|Sandstone-Tabular|Depleted|10,000-25,000
+Czech Republic|Okrouhla Radoun|49.239722|15.016944|Vein|nan|2,500-5,000Depleted
+Czech Republic|Olsi|49.155278|15.373056|Vein|nan|2,500-5,000Depleted
+Czech Republic|Osecna-Kotel|50.685|14.946389|Sandstone-Tabular|Dormant|25,000-50,000
+Czech Republic|Polna|49.486944|15.718611|Vein|Dormant|1,000-2,500
+Czech Republic|Predborice|49.855556|15.219444|Vein|Depleted|< 500
+Czech Republic|Pribram|49.689722|14.010278|Vein|Depleted|25,000-50,000
+Czech Republic|Rozna|49.477222|16.238333|Vein|Operating|10,000-25,000
+Czech Republic|Straz|50.702778|14.800833|Sandstone-Tabular|Operating|25,000-50,000
+Czech Republic|Zadni Chodov|49.890278|12.654444|Vein|Depleted|10,000-25,000
+Finland|Kesankitunturi|67.616667|24.266667|Sandstone-Tabular|Dormant|500-1,000
+Finland|Nuottijarvi|67.763889|24.750833|Phosphorite|Dormant|1,000-2,500
+Finland|Talvivaara|63.95|28.183333|Black Shales|Development|2,500-5,000
+France|Bertholene|44.394167|2.778333|Unconformity-Proterozoic|Depleted|500-1,000
+France|Bois Noirs (Les)|45.929444|3.711667|Vein|Depleted|5,000-10,000
+France|Bondons (Les)|44.386111|3.618611|Vein|Depleted|< 500
+France|Brugeaud (Le)|46.116667|1.366667|Vein|Depleted|1,000-2,500
+France|Chapelle-Largeau (La)-|46.946389|-0.8375|Vein|Depleted|500-1,000
+France|Chardon (Le)|45.060833|4.711944|Vein|Depleted|2,500-5,000
+France|Chateau-Chinon|47.044167|4.0225|Vein|Depleted|< 500
+France|Commanderie (La)|42.614444|2.747222|Vein|Depleted|2,500-5,000
+France|Coutras|45.040556|-0.128611|Sandstone-Tabular|Dormant|10,000-25,000
+France|Loges (Les)|49.698333|0.283889|Vein|Depleted|500-1,000
+France|Mares (Les)|49.121389|0.501111|Sandstone-|Depleted|500-1,000
+France|Montulat|46.215278|1.336111|Vein|Dormant|1,000-2,500
+France|Saint Hippolyte|43.965556|3.855833|Black Shales|Dormant|1,000-2,500
+France|Saint.Pierre Du Cantal|45.388333|2.388056|Sandstone-Basal Channel|Depleted|1,000-2,500
+France|Venachat|46.016667|1.316667|Vein|Depleted|500-1,000
+Gabon|Mounana|-1.408333|13.158333|Sandstone-|Depleted|5,000-10,000
+Germany|Annaberg|50.579444|13.006111|Vein|Depleted|500-1,000
+Germany|Culmitzsch|50.766667|12.2|Sandstone-Tabular|Depleted|10,000-25,000
+Germany|Grossschloppen|50.132778|11.936111|Vein|Dormant|1,000-2,500
+Germany|Johanngeorgenstadt|50.4325|12.711389|Vein|Depleted|5,000-10,000
+Germany|Koenigstein|50.179167|8.471111|Sandstone-Tabular|Depleted|10,000-25,000
+Germany|Menzenschwand|47.825|8.072222|Vein|Dormant|2,500-5,000
+Germany|Muellenbach|50.331389|6.939444|Sandstone-Tabular|Dormant|2,500-5,000
+Germany|Niederschlema-|50.6025|12.672778|Vein|Depleted|> 100,000
+Germany|Schneckenstein|50.416667|12.466667|Vein|Depleted|500-1,000
+Germany|Tellerhauser|50.436111|12.891389|Vein|Closed|1,000-2,500
+Germany|Zobes|50.509722|12.255|Vein|Depleted|5,000-10,000
+Guinea|Firawa|9.216667|-9.783333|Vein|Exploration|UNKNOWN
+Guyana|Aricheng|6.223611|-60.244722|Vein|Exploration|2,500-5,000
+Hungary|Mecsek|46.166667|18.3|Sandstone-Tabular|Closed|25,000-50,000
+India|Bhatin|33.271667|75.298056|Vein|Operating|1,000-2,500
+India|Peddagattu|16.605278|79.224722|Unconformity-Proterozoic|Exploration|5,000-10,000
+India|Tummalapalle-|16.473333|80.961667|Other|Operating|10,000-25,000
+Indonesia|Rirang|-0.239722|110.843611|Vein|Dormant|< 500
+Iran|Saghand|32.529167|55.242778|Metasomatite|Development|1,000-2,500
+Italy|Novazza|45.967222|9.916944|Volcanic|Dormant|1,000-2,500
+Jordan|Al-Abiad|31.8275|35.663611|Phosphorite|Dormant|UNKNOWN
+Jordan|Siwaqa|31.361389|36.113889|Phosphorite|Dormant|25,000-50,000
+Kazakhstan|Akdala|42.976389|67.872778|Unknown|Unknown|10,000-25,000
+Kazakhstan|Balkashinskoye|52.517778|68.751389|Vein|Dormant|2,500-5,000
+Kazakhstan|Bezymyannoye|52.859722|61.070833|Volcanic|Dormant|500-1,000
+Kazakhstan|Budennovskoye|44.649444|78.752222|Sandstone-Roll Front|Standby|25,000-50,000
+Kazakhstan|Burlukskoye|53.213333|67.636111|Vein|Dormant|2,500-5,000
+Kazakhstan|Chaglinskoye|53.237222|69.255556|Vein|Dormant|10,000-25,000
+Kazakhstan|Chayan|43.033889|69.380278|Sandstone-Roll Front|Dormant|500-1,000
+Kazakhstan|Dzhidely|43.983333|66.55|Volcanic|Depleted|2,500-5,000
+Kazakhstan|Granitnoye|50.348889|80.473056|Surficial|Dormant|500-1,000
+Kazakhstan|Irkol|48.5|60.533333|Sandstone-Roll Front|Dormant|25,000-50,000
+Kazakhstan|Ishimskoye|53.578333|66.805|Vein|Depleted|5,000-10,000
+Kazakhstan|Kamyshevoe|50.716389|75.022778|Vein|Dormant|10,000-25,000
+Kazakhstan|Kanzhugan|44.016944|69.018611|Sandstone-Roll Front|Operating|50,000-100,000
+Kazakhstan|Kostobe|42.107222|69.836111|Volcanic|Depleted|500-1,000
+Kazakhstan|Kyzylkol|51.021111|54.0175|Vein|Depleted|500-1,000
+Kazakhstan|Kyzyltu|53.416667|62.033333|Sandstone-Roll Front|Dormant|10,000-25,000
+Kazakhstan|Melovoye|51.15|51.483333|Phosphorite|Depleted|25,000-50,000
+Kazakhstan|Mynkuduk|41.775833|67.715278|Sandstone-Roll Front|Operating|> 100,000
+Kazakhstan|Shokpak|50.626111|75.0425|Vein|Dormant|2,500-5,000
+Kazakhstan|Slavyanskoye|40.663333|68.545|Vein|Dormant|5,000-10,000
+Kazakhstan|Talas|42.9|71.366667|Sandstone-Basal Channel|Dormant|500-1,000
+Kazakhstan|Tortkuduk|52.031111|76.246944|Sandstone-Roll Front|Development|25,000-50,000
+Kazakhstan|Uvanas|45.3225|69.077222|Sandstone-Roll Front|Operating|10,000-25,000
+Kazakhstan|Vostok|52.665556|65.516667|Vein|Operating|10,000-25,000
+Kazakhstan|Zaozernoye|53.985278|63.255|Vein|Dormant|10,000-25,000
+Kazakhstan|Zarechnoye|53.197222|69.2225|Sandstone-Roll Front|Development|10,000-25,000
+Kazakhstan|Zhalpak|42.949722|76.654167|Sandstone-Roll Front|Dormant|10,000-25,000
+Kazakhstan|Zhautkan|42.090833|67.627222|Sandstone-Roll Front|Dormant|2,500-5,000
+Kyrgyzstan|Shakaptar|41.248889|71.313333|Vein|Depleted|500-1,000
+Kyrgyzstan|Sumsar|41.248889|71.313333|Unknown|Exploration|UNKNOWN
+Madagascar|Antsirabe|-19.865833|47.033333|Sandstone-Tabular|Dormant|< 500
+Madagascar|Folakara|-18.319722|45.043611|Sandstone-Roll Front|Dormant|5,000-10,000
+Madagascar|Tranomaro|-24.6|46.466667|Intrusive|Exploration|1,000-2,500
+Malawi|Kanyika|-12.709444|33.658056|Intrusive|Exploration|2,500-5,000
+Malawi|Kayelekera|-9.976944|33.628889|Sandstone-Tabular|Development|5,000-10,000
+Mali|Falea|12.264444|-11.275|Sandstone-Roll Front|Exploration|2,500-5,000
+Mauritania|Bir En Nar|24.2|-10.25|Vein|Exploration|UNKNOWN
+Mexico|Coneto|25.031111|-104.733889|Volcanic|Dormant|500-1,000
+Mexico|El Nopal|17.882778|-93.051944|Volcanic|Dormant|1,000-2,500
+Mexico|La Coma|25.879722|-98.761111|Sandstone-Roll Front|Dormant|500-1,000
+Mexico|La Sierrita|32.173333|-116.518611|Sandstone-Roll Front|Dormant|2,500-5,000
+Mexico|Los Amoles|28.439444|-109.348889|Volcanic|Dormant|1,000-2,500
+Mexico|Santa Catarina Tayata|17.346944|-97.556944|Volcanic|Dormant|< 500
+Mexico|Santo Domingo|16.324444|-95.240833|Phosphorite|Dormant|50,000-100,000
+Mongolia|Khairkhan|48.606667|101.936944|Sandstone-Tabular|Exploration|2,500-5,000
+Mongolia|Kharat|44.966667|97.75|Sandstone-Tabular|Dormant|10,000-25,000
+Mongolia|Nars|50.2|106.5|Sandstone-Tabular|Dormant|2,500-5,000
+Mongolia|Ulaan Nuur|49.981111|92.066667|Sandstone-Tabular|Exploration|5,000-10,000
+Morocco|Gantour, Ganntour|32.158333|-8.405|Phosphorite|Dormant|25,000-50,000
+Namibia|Aussinanis|-23.466667|14.95|Surficial|Exploration|2,500-5,000
+Namibia|Goanikontes|-22.666667|14.833333|Intrusive|Dormant|5,000-10,000
+Namibia|Namib Park|-23.083333|15.166667|Surficial|Exploration|2,500-5,000
+Namibia|Roessing|-22.633333|14.65|Intrusive|Operating|> 100,000
+Namibia|Trekkopje|-22.3|15.116667|Surficial|Development|2,500-5,000
+Namibia|Tubas|-22.912778|14.59|Surficial|Exploration|10,000-25,000
+Namibia|Tumas|-23.133333|15.35|Surficial|Exploration|2,500-5,000
+Namibia|Valencia|-23.133333|16.466667|Intrusive|Exploration|10,000-25,000
+Niger|Akola|14.344444|6.656111|Sandstone-Tabular|Operating|25,000-50,000
+Niger|Azelik|17.242778|9.231667|Sandstone-Tabular|Exploration|10,000-25,000
+Niger|Ebala|18.536667|7.355556|Sandstone-Tabular|Exploration|25,000-50,000
+Niger|Imouraren|18.188333|7.284167|Sandstone-Roll Front|Development|> 100,000
+Niger|In Gall|16.787778|6.934167|Sandstone-Tabular|Exploration|1,000-2,500
+Niger|Madaouela|18.657778|7.600278|Sandstone-Tabular|Exploration|5,000-10,000
+Niger|Takriza|18.832778|7.823611|Sandstone-Tabular|Depleted|5,000-10,000
+Niger|Tamgak|19.166667|8.75|Sandstone-Tabular|Exploration|25,000-50,000
+Niger|Tamou|12.755278|2.176667|Sandstone-Tabular|Operating|10,000-25,000
+Niger|Taossa|17.333333|8.983333|Sandstone-Tabular|Dormant|2,500-5,000
+Niger|Teguidda|17.4175|6.644444|Sandstone-Tabular|Dormant|10,000-25,000
+Pakistan|Baghal Chur|30.249444|70.303889|Sandstone-Roll Front|Depleted|< 500
+Peru|Colquijirca|-10.733333|-76.233333|Other|500-1,000Dormant|nan
+Poland|Kowary|50.793056|15.835556|Vein|Dormant|500-1,000
+Poland|Krynica Morska|54.380278|19.443889|Sandstone-Tabular|Dormant|2,500-5,000
+Poland|Okrzeszyn|52.125833|21.141389|Other|Dormant|1,000-2,500
+Poland|Radoniow|51.004167|15.467222|Vein|Dormant|500-1,000
+Poland|Rajsk|52.845833|23.152778|Black Shales|Dormant|5,000-10,000
+Poland|Wambierzyce|50.489167|16.456111|Black Shales|Dormant|1,000-2,500
+Portugal|Bica|38.933333|-8.15|Vein|Depleted|UNKNOWN
+Portugal|Castelejo|40.123889|-7.576944|Vein|Depleted|UNKNOWN
+Portugal|Cunha Baixa|40.553333|-7.748611|Vein|Depleted|UNKNOWN
+Portugal|Freixiosa|40.611944|-7.678056|Vein|Dormant|UNKNOWN
+Portugal|Mestras|37.464444|-8.049444|Vein|Dormant|UNKNOWN
+Portugal|Nisa|39.518056|-7.674722|Vein|Dormant|2,500-5,000
+Portugal|Pedreiros|41.15|-8.233333|Vein|Depleted|UNKNOWN
+Portugal|Quinta Do Bispo|38.7|-8.256389|Vein|Depleted|UNKNOWN
+Portugal|Urgeirica|40.503611|-7.903056|Vein|Depleted|1,000-2,500
+Romania|Arieseni|46.476389|22.755278|Vein|Closed|500-1,000
+Romania|Avram Iancu|46.383333|22.783333|Vein|Closed|500-1,000
+Romania|Baita Bihor|46.481389|22.585278|Sandstone-Tabular|Closed|10,000-25,000
+Romania|Bicazu Ardelean|46.868611|25.925556|Vein|Dormant|500-1,000
+Romania|Botusana|47.683333|25.95|Vein|Closed|1,000-2,500
+Romania|Ciudanovita|45.153056|21.753889|Sandstone-Tabular|Depleted|500-1,000
+Romania|Conop|46.103889|21.880278|Vein|Dormant|500-1,000
+Romania|Crucea|47.374722|25.5925|Vein|Operating|2,500-5,000
+Romania|Milova|46.105833|21.801944|Vein|Dormant|500-1,000
+Romania|Paiuseni|46.249167|22.094167|Vein|Dormant|500-1,000
+Romania|Rachitele|46.706389|22.895|Sandstone-Tabular|Dormant|500-1,000
+Romania|Ranusa|46.430833|22.254444|Sandstone-Tabular|Dormant|1,000-2,500
+Romania|Tulghes|46.925278|25.753056|Vein|Operating|5,000-10,000
+Russia|Argunskoye|47.9625|134.576944|Vein|Development|25,000-50,000
+Russia|Belskoje|57.816111|92.163056|Lignite|Dormant|5,000-10,000
+Russia|Beshtau|44.098333|43.023611|Vein|Depleted|500-1,000
+Russia|Buyanovskoye|50.359722|127.634444|Sandstone-Roll Front|Dormant|5,000-10,000
+Russia|Chaika|60.016944|38.106944|Volcanic|Dormant|2,500-5,000
+Russia|Dalneye|54.7225|21.428333|Volcanic|Dormant|2,500-5,000
+Russia|Dobrovolnoye|56.686944|86.3|Sandstone-Basal Channel|Dormant|5,000-10,000
+Russia|Druzhnoye|53.857222|38.798889|Metasomatite|Development|50,000-100,000
+Russia|Dzhigda|57.546667|135.884444|Unknown|Exploration|2,500-5,000
+Russia|Gornoye|52.284722|128.179444|Vein|Development|5,000-10,000
+Russia|Istochnoe|57.845278|65.2125|Sandstone-Basal Channel|Exploration|1,000-2,500
+Russia|Kedrovoye|57.1575|60.569722|Sandstone-Roll Front|Dormant|2,500-5,000
+Russia|Kosmozero|62.355|35.024722|Metasomatite|Exploration|2,500-5,000
+Russia|Lastochka|52.800556|102.784444|Volcanic|Dormant|2,500-5,000
+Russia|Malinovskoye|55.526667|65.182222|Sandstone-Basal Channel|Exploration|10,000-25,000
+Russia|Molodezhnoye|60.197778|29.515833|Vein|Dormant|2,500-5,000
+Russia|Oktyabrskoye|51.235833|41.944444|Volcanic|Operating|10,000-25,000
+Russia|Prigorodnoye|52.686667|87.323056|Sandstone-Roll Front|Dormant|2,500-5,000
+Russia|Primorskoye|52.846389|156.308333|Sandstone-Roll Front|Dormant|5,000-10,000
+Russia|Radionovskoye|60.2275|36.9875|Surficial|Dormant|2,500-5,000
+Russia|Sanarskoye|46.936944|39.688056|Surficial|Depleted|2,500-5,000
+Russia|Severnoe|55.616667|37.683333|Metasomatite|Development|50,000-100,000
+Russia|Solonechnoye|55.829167|94.958333|Volcanic|Dormant|1,000-2,500
+Russia|Stepnovskoye|44.3|44.583333|Phosphorite|Dormant|10,000-25,000
+Russia|Stepnoye|51.379722|46.849167|Sandstone-Tabular|Dormant|10,000-25,000
+Russia|Tsarevskoye|59.826944|82.212778|Metasomatite|Dormant|2,500-5,000
+Russia|Tsentralnoye|59.036667|62.408056|Lignite|Dormant|2,500-5,000
+Russia|Vershinnoye|58.690278|72.653056|Sandstone-Basal Channel|Exploration|5,000-10,000
+Russia|Vinogradovskoye|55.271944|83.829722|Surficial|Exploration|2,500-5,000
+Senegal|Saraya|13.001389|-11.796111|Vein|Exploration|1,000-2,500
+Serbia|Cigankulja|44.4775|19.472222|Vein|Unknown|500-1,000
+Serbia|Dojkinci|43.226944|22.783333|Sandstone-Tabular|Unknown|1,000-2,500
+Serbia|Ribarice|44.556389|19.46|Sandstone-Tabular|Unknown|500-1,000
+Serbia|Srednje Brdo|43.688889|22.231944|Sandstone-Tabular|Unknown|500-1,000
+Slovakia|Kuriskova|48.763889|21.148056|Volcanic|Exploration|10,000-25,000
+Slovenia|Zirovski Vrh|46.05|14.15|Sandstone-Roll Front|Dormant|5,000-10,000
+Somalia|Dusa Mareb|5.535833|46.386389|Surficial|Dormant|5,000-10,000
+Somalia|Mudug Province|7.0|48.0|Surficial|Dormant|2,500-5,000
+South Africa|Beaufort West|-32.356667|22.582778|Sandstone-Tabular|Unknown|10,000-25,000
+South Africa|Blyvooruitzicht|-26.4|27.4|Quartz-pebble|Development|UNKNOWN
+South Africa|Buffelsfontein|-26.921389|26.8175|Quartz-pebble|Development|5,000-10,000
+South Africa|Denny Dalton|-28.283889|31.233611|Quartz-pebble|Unknown|5,000-10,000
+South Africa|Driefontein Mine|-26.379444|27.516389|Quartz-pebble|Dormant|UNKNOWN
+South Africa|Harmony|-34.116667|18.383333|Quartz-pebble|Dormant|UNKNOWN
+South Africa|Hartebeestfontein|-26.765556|26.42|Quartz-pebble|Operating|5,000-10,000
+South Africa|Henkries|-29.073333|18.155278|Quartz-pebble|Dormant|1,000-2,500
+South Africa|Klerksdorp|-26.851944|26.666667|Quartz-pebble|Unknown|UNKNOWN
+South Africa|Loraine|-26.816667|27.933333|Quartz-pebble|Dormant|UNKNOWN
+South Africa|President Brand Mine|-28.025833|26.769722|Quartz-pebble|Operating|2,500-5,000
+South Africa|President Steyn|-27.9925|26.788056|Quartz-pebble|Operating|5,000-10,000
+South Africa|Ryst Kuil|-32.631389|22.911944|Sandstone-Basal Channel|Exploration|10,000-25,000
+South Africa|Western Deep Levels|-26.418611|27.423611|Quartz-pebble|Dormant|10,000-25,000
+South Africa|Western Rand|-46.891389|37.725278|Quartz-pebble|Development|UNKNOWN
+Spain|Alameda|37.208611|-4.658333|Unknown|Unknown|UNKNOWN
+Spain|Andujar|38.039167|-4.050556|Vein|Dormant|UNKNOWN
+Spain|El Olivar|40.606389|-2.749444|Vein|Exploration|500-1,000
+Spain|El Pedregal|40.779167|-1.570278|Vein|Dormant|1,000-2,500
+Spain|Intermedia|42.550278|1.081111|Vein|Dormant|UNKNOWN
+Spain|Mazarete|41.000833|-2.159167|Sandstone-Tabular|Dormant|2,500-5,000
+Spain|Navalmoral|39.891389|-5.540556|Unknown|Unknown|UNKNOWN
+Spain|Retortillo|41.310833|-2.982222|Vein|Exploration|2,500-5,000
+Spain|Santidad|28.1|-15.511667|Vein|Exploration|1,000-2,500
+Spain|Villavieja|39.85|-0.183333|Unknown|Unknown|UNKNOWN
+Sweden|Arvidsjaur|65.590556|19.281667|Metasomatite|Dormant|UNKNOWN
+Sweden|Duobblon|65.575278|17.031389|Volcanic|Dormant|2,500-5,000
+Sweden|Kvarnan|66.066667|20.683333|Metamorphic|Dormant|1,000-2,500
+Sweden|Lilljuthatten|63.966667|13.85|Vein|Dormant|1,000-2,500
+Sweden|Ranstad|57.15|16.983333|Black Shales|Dormant|50,000-100,000
+Sweden|Sagtjarn|60.283333|13.6|Intrusive|Dormant|< 500
+Sweden|Tasjo|64.203889|16.249444|Phosphorite|Dormant|25,000-50,000
+Tajikistan|Adrasman|40.649167|69.984722|Vein|Depleted|500-1,000
+Tajikistan|Taboshary|40.57|69.641667|Vein|Depleted|1,000-2,500
+Turkey|Demirtepe|38.864167|40.039167|Vein|Dormant|1,000-2,500
+Turkey|Fakili|36.738056|34.195556|Unknown|Dormant|< 500
+Turkey|Manisa-Koprubasi|38.759167|28.409167|Sandstone-Basal Channel|Dormant|2,500-5,000
+Turkey|Yozgat-Sorgun|39.82|35.191944|Sandstone-Basal Channel|Dormant|2,500-5,000
+Ukraine|Adamovskoye|48.396944|34.179722|Other|Dormant|1,000-2,500
+Ukraine|Bratskoye|45.831667|33.921389|Other|Depleted|1,000-2,500
+Ukraine|Krasnooskol'Skoye|49.384444|37.554167|Other|Dormant|500-1,000
+Ukraine|Pervomayskoye|47.056111|37.311667|Vein|Depleted|10,000-25,000
+Ukraine|Sadovoye|48.975|25.204167|Other|Dormant|500-1,000
+Ukraine|Surskoye|48.3|34.883333|Other|Dormant|1,000-2,500
+Ukraine|Yuzhnoye|45.443889|33.961389|Intrusive|Dormant|5,000-10,000
+United States|Abbe|58.798333|-137.076389|Sandstone-Tabular|Depleted|< 500
+United States|Alta Mesa|33.641111|-117.918611|Sandstone-Roll Front|Operating|2,500-5,000
+United States|Alta Verde|33.432778|-114.731944|Sandstone-Roll Front|Dormant|2,500-5,000
+United States|Alzada|45.022778|-104.412222|Sandstone-Roll Front|Dormant|1,000-2,500
+United States|Anderson|31.761944|-95.630556|Volcanic|Dormant|10,000-25,000
+United States|Arizona 1|34.984722|-110.735|Collapse Breccia Pipe|Dormant|1,000-2,500
+United States|Bear Creek|63.574722|-156.149444|Sandstone-Roll Front|Depleted|2,500-5,000
+United States|Benevides|26.272222|-98.558333|Sandstone-Roll Front|Depleted|1,000-2,500
+United States|Bernabe-Montano|35.257778|-106.997778|Sandstone-Tabular|Dormant|5,000-10,000
+United States|Big Eagle|39.476389|-106.574167|Sandstone-Tabular|Closed|UNKNOWN
+United States|Big Gypsum Creek-|44.973056|-108.338889|Sandstone-Tabular|Dormant|500-1,000
+United States|Big Red|31.019167|-91.747778|Sandstone-Roll Front|Dormant|1,000-2,500
+United States|Bison Basin|42.305556|-108.193056|Sandstone-Roll Front|Depleted|1,000-2,500
+United States|Bokan Mountain|54.916389|-132.156667|Intrusive|nan|500-1,000Depleted
+United States|Borrego Pass|35.580278|-107.996389|Sandstone-Roll Front|Dormant|5,000-10,000
+United States|Bruni|40.882222|-121.660556|Sandstone-Roll Front|Dormant|1,000-2,500
+United States|Bull Canyon|37.4725|-112.12|Sandstone-Tabular|Dormant|1,000-2,500
+United States|Bullfrog|37.546389|-110.713611|Sandstone-Tabular|Exploration|10,000-25,000
+United States|Burns Ranch|47.378056|-104.405|Sandstone-Roll Front|Depleted|1,000-2,500
+United States|Canyon|43.540556|-116.563333|Sandstone-Roll Front|Dormant|1,000-2,500
+United States|Canyon|43.540556|-116.563333|Collapse Breccia Pipe|Dormant|1,000-2,500
+United States|Carpenter Flats|38.393333|-108.91|Sandstone-Tabular|Depleted|< 500
+United States|Cedar Hills|40.413889|-111.758333|Sandstone-Roll Front|Dormant|1,000-2,500
+United States|Central Florida|28.589444|-81.889167|Phosphorite|Closed|> 100,000
+United States|Chapman|38.972222|-97.0225|Sandstone-Roll Front|Dormant|500-1,000
+United States|Charlie|45.570278|-95.968333|Sandstone-Roll Front|Dormant|1,000-2,500
+United States|Christensen Ranch|36.871111|-121.336944|Sandstone-Roll Front|Closed|10,000-25,000
+United States|Clay West|46.873611|-96.769444|Sandstone-Roll Front|Depleted|2,500-5,000
+United States|Collins Draw|32.534722|-105.182222|Sandstone-Roll Front|Unknown|UNKNOWN
+United States|Copper Mountain|62.398611|-142.995|Vein|Dormant|2,500-5,000
+United States|Crooks Gap|42.398333|-107.866667|Sandstone-Roll Front|Dormant|10,000-25,000
+United States|Crow Butte|42.6675|-103.331111|Sandstone-Roll Front|Operating|10,000-25,000
+United States|Crownpoint|35.678056|-108.151111|Sandstone-Tabular|Dormant|25,000-50,000
+United States|Dalton Pass|35.648333|-108.328056|Sandstone-Tabular|Dormant|5,000-10,000
+United States|Day Loma|42.736667|-107.678611|Sandstone-Roll Front|Depleted|2,500-5,000
+United States|East Florida District|25.151111|-81.055|Phosphorite|Closed|> 100,000
+United States|Edgemont District|41.713889|-116.151944|Sandstone-Roll Front|Depleted|UNKNOWN
+United States|Faith|48.146111|-91.038056|Collapse Breccia Pipe|Dormant|500-1,000
+United States|Grace #1|13.776667|-60.966111|Sandstone-Tabular|Dormant|UNKNOWN
+United States|Grace #2|13.776667|-60.966111|Sandstone-Tabular|Dormant|UNKNOWN
+United States|Grover|35.121389|-120.621111|Sandstone-Roll Front|Dormant|< 500
+United States|Hack Canyon|36.55|-112.651944|Collapse Breccia Pipe|Depleted|2,500-5,000
+United States|Hanson|43.674722|-97.787222|Sandstone-Basal Channel|Dormant|10,000-25,000
+United States|Happy Jack|34.743333|-111.407222|Sandstone-Tabular|Depleted|1,000-2,500
+United States|Hauber|44.698056|-104.776944|Sandstone-Roll Front|Dormant|UNKNOWN
+United States|Hermit|46.886389|-90.685|Collapse Breccia Pipe|Depleted|1,000-2,500
+United States|Hershey|40.285833|-76.65|Sandstone-Tabular|Depleted|500-1,000
+United States|Hideout|41.427222|-75.3525|Sandstone-Tabular|Depleted|< 500
+United States|Highland|39.184722|-83.600833|Sandstone-Roll Front|Operating|10,000-25,000
+United States|Hobson|34.338056|-119.411389|Sandstone-Roll Front|Depleted|1,000-2,500
+United States|Irigaray|43.773611|-106.513056|Sandstone-Roll Front|Depleted|2,500-5,000
+United States|J.J.|42.183611|-73.406944|Sandstone-Roll Front|Dormant|5,000-10,000
+United States|Jackpile|35.135833|-107.332222|Sandstone-Tabular|Depleted|25,000-50,000
+United States|John Brown|44.080278|-85.259722|Sandstone-Tabular|Depleted|2,500-5,000
+United States|Johnny-M|35.364444|-107.723333|Sandstone-Tabular|Dormant|5,000-10,000
+United States|Juniper|46.390278|-118.850556|Sandstone-Roll Front|Exploration|1,000-2,500
+United States|Kanab North|37.047222|-112.526111|Collapse Breccia Pipe|Dormant|1,000-2,500
+United States|Keota|41.363889|-91.953611|Sandstone-Roll Front|Dormant|2,500-5,000
+United States|King Solomon|37.807778|-107.593889|Sandstone-Tabular|Depleted|1,000-2,500
+United States|L Bar|47.042778|-68.407778|Sandstone-Tabular|Depleted|2,500-5,000
+United States|La Jara Mesa|35.267778|-107.723333|Sandstone-Roll Front|Dormant|2,500-5,000
+United States|La Sal Creek|31.683056|-92.133611|Sandstone-Tabular|Dormant|500-1,000
+United States|Las Palmas|26.201667|-97.7375|Sandstone-Roll Front|Depleted|1,000-2,500
+United States|Lee|26.562778|-81.949444|Sandstone-Tabular|Dormant|2,500-5,000
+United States|Leuenberger|42.914167|-105.674444|Sandstone-Roll Front|Dormant|1,000-2,500
+United States|Long Park|33.8675|-117.998056|Sandstone-Tabular|Dormant|2,500-5,000
+United States|Lukachukai Mountains|36.484444|-109.203611|Sandstone-Tabular|Dormant|1,000-2,500
+United States|Mancos|37.345|-108.289167|Sandstone-Roll Front|Dormant|1,000-2,500
+United States|Mariano Lake|35.591389|-108.273333|Sandstone-Tabular|Dormant|10,000-25,000
+United States|Marquez Canyon|35.348056|-107.665833|Sandstone-Tabular|Dormant|5,000-10,000
+United States|Marysvale|38.449167|-112.23|Volcanic|Dormant|500-1,000
+United States|Mcdermitt|41.997222|-117.718056|Volcanic|Dormant|5,000-10,000
+United States|Midnite|48.712778|-120.598056|Vein|Dormant|2,500-5,000
+United States|Monogram Mesa|38.226111|-108.766944|Sandstone-Tabular|Dormant|2,500-5,000
+United States|Moonlight|36.73|-77.508889|Sandstone-Tabular|Depleted|500-1,000
+United States|Moonshine Springs|40.256944|-114.853333|Sandstone-Tabular|Dormant|1,000-2,500
+United States|Moore Ranch|31.216389|-95.828056|Sandstone-Roll Front|Development|1,000-2,500
+United States|Mrak|38.536944|-121.748889|Sandstone-Roll Front|Depleted|500-1,000
+United States|Mt. Lucas|41.538056|-83.6975|Sandstone-Roll Front|Depleted|1,000-2,500
+United States|Mt. Taylor|32.366389|-99.999444|Sandstone-Tabular|Dormant|25,000-50,000
+United States|Narrow Canyon|43.657778|-114.998333|Sandstone-Roll Front|Dormant|2,500-5,000
+United States|Nell|34.943611|-83.653889|Sandstone-Roll Front|Dormant|500-1,000
+United States|Nichols Ranch|47.677778|-117.024722|Sandstone-Roll Front|Exploration|500-1,000
+United States|Nine Mile Lake|41.403333|-85.703333|Sandstone-Roll Front|Dormant|1,000-2,500
+United States|North Butte / Brown|39.991389|-121.4775|Sandstone-Roll Front|Dormant|2,500-5,000
+United States|North Florida|26.5|-81.0|Phosphorite|Dormant|50,000-100,000
+United States|Northeast Florida|29.957778|-81.341944|Phosphorite|Dormant|> 100,000
+United States|Northwest Unit|48.299722|-116.378611|Sandstone-Roll Front|Exploration|1,000-2,500
+United States|Nose Rock|35.61|-108.616389|Sandstone-Tabular|Dormant|10,000-25,000
+United States|O'Hern|27.393611|-98.8|Sandstone-Roll Front|Depleted|< 500
+United States|Palangana|26.0675|-97.215278|Sandstone-Roll Front|Development|1,000-2,500
+United States|Pandora|40.948056|-83.960833|Sandstone-Tabular|Operating|500-1,000
+United States|Panna Maria|28.958056|-97.8975|Sandstone-Roll Front|Depleted|5,000-10,000
+United States|Pawnee|38.181111|-99.236667|Sandstone-Roll Front|Depleted|500-1,000
+United States|Peach|32.568611|-83.826667|Sandstone-Roll Front|Development|2,500-5,000
+United States|Peterson Ranch|47.607778|-110.906667|Sandstone-Roll Front|Dormant|1,000-2,500
+United States|Pigeon|37.974722|-87.555833|Collapse Breccia Pipe|Depleted|1,000-2,500
+United States|Pinenut|39.911111|-114.931111|Collapse Breccia Pipe|Dormant|1,000-2,500
+United States|Pinetree|42.1925|-89.118889|Sandstone-Roll Front|Development|1,000-2,500
+United States|Pitch|39.446111|-111.703611|Vein|Depleted|500-1,000
+United States|Poison Canyon|38.090278|-110.403611|Sandstone-Tabular|Depleted|500-1,000
+United States|Ramco|41.72|-83.588056|Unknown|Unknown|UNKNOWN
+United States|Red Desert Basin|41.824444|-108.286667|Unknown|Unknown|UNKNOWN
+United States|Reno Creek West|37.970833|-98.204167|Sandstone-Roll Front|Exploration|2,500-5,000
+United States|Reynolds Ranch|39.462222|-105.238056|Sandstone-Roll Front|Development|5,000-10,000
+United States|Rhode Ranch|41.6375|-71.355|Sandstone-Roll Front|Depleted|2,500-5,000
+United States|Rio Puerco|34.888889|-110.121389|Sandstone-Tabular|Dormant|1,000-2,500
+United States|Rosita|28.656389|-100.421944|Sandstone-Roll Front|Depleted|1,000-2,500
+United States|Ruby|40.172778|-115.469444|Sandstone-Tabular|Depleted|2,500-5,000
+United States|Ruby Ranch|40.296111|-115.023889|Sandstone-Tabular|Dormant|1,000-2,500
+United States|Ruth|41.268056|-95.850833|Sandstone-Roll Front|Dormant|500-1,000
+United States|Sage|34.672222|-86.033889|Collapse Breccia Pipe|Dormant|1,000-2,500
+United States|Saint Anthony|45.020278|-93.217778|Sandstone-Roll Front|Dormant|2,500-5,000
+United States|San Antonio Valley|29.561389|-98.226944|Sandstone-Tabular|Dormant|1,000-2,500
+United States|Sand Creek|45.166667|-91.686111|Sandstone-Roll Front|Dormant|500-1,000
+United States|Schwartzwalder|39.846667|-105.282222|Vein|Depleted|2,500-5,000
+United States|Section 32|30.045|-93.104167|Sandstone-Roll Front|Dormant|1,000-2,500
+United States|Sharp Canyon|37.747222|-108.818889|Sandstone-Tabular|Dormant|500-1,000
+United States|Sherwood Mine|39.225833|-106.119444|Sandstone-Basal Channel|Depleted|5,000-10,000
+United States|Shinarump|36.981667|-112.430556|Sandstone-Tabular|Depleted|500-1,000
+United States|Shirley Basin Mine|42.283056|-106.200556|Sandstone-Roll Front|Closed|10,000-25,000
+United States|Slick Rock|37.005833|-85.797778|Sandstone-Tabular|Dormant|1,000-2,500
+United States|Smith Ranch|32.231389|-97.38|Sandstone-Roll Front|Operating|5,000-10,000
+United States|South Florida District|25.151111|-81.055|Phosphorite|Dormant|UNKNOWN
+United States|Sundance|35.601389|-97.7075|Unknown|Unknown|UNKNOWN
+United States|Swanson|46.871667|-122.257222|Metasomatite|Dormant|10,000-25,000
+United States|Sweetwater Mine|41.393333|-109.168056|Sandstone-Roll Front|Depleted|5,000-10,000
+United States|Taylor Ranch|45.103889|-114.855278|Unknown|Dormant|2,500-5,000
+United States|Temple Mountain|32.761111|-114.263889|Sandstone-Tabular|Dormant|500-1,000
+United States|Trevino|44.428333|-92.067778|Sandstone-Roll Front|Depleted|1,000-2,500
+United States|Vanadium|37.966944|-107.971667|Sandstone-Tabular|Dormant|5,000-10,000
+United States|Vanura|38.083333|-108.820556|Sandstone-Tabular|Depleted|1,000-2,500
+United States|Vasquez|39.819722|-105.843333|Sandstone-Roll Front|Unknown|1,000-2,500
+United States|West Cole|38.576667|-92.173333|Sandstone-Roll Front|Depleted|< 500
+United States|West Gas Hills|38.780556|-121.96|Sandstone-Roll Front|Depleted|5,000-10,000
+United States|West Largo|25.086389|-80.447222|Sandstone-Tabular|Dormant|5,000-10,000
+Uzbekistan|Agron|39.53|65.928333|Sandstone-Roll Front|Operating|5,000-10,000
+Uzbekistan|Aktau|42.16|60.5|Sandstone-Roll Front|Dormant|5,000-10,000
+Uzbekistan|Altyntau|42.2475|63.725833|Black Shales|Dormant|500-1,000
+Uzbekistan|Beshkak|40.951667|64.958056|Sandstone-Roll Front|Operating|5,000-10,000
+Uzbekistan|Charkasar|41.023333|70.88|Vein|Depleted|1,000-2,500
+Uzbekistan|Chauli|41.125556|69.752778|Volcanic|Depleted|2,500-5,000
+Uzbekistan|Kanimekh|41.557222|66.074167|Sandstone-Roll Front|Operating|10,000-25,000
+Uzbekistan|Ketmenchi|39.776389|65.618611|Sandstone-Roll Front|Operating|10,000-25,000
+Uzbekistan|Lyavlyakan|41.030833|65.346667|Sandstone-Roll Front|Operating|5,000-10,000
+Uzbekistan|Sabyrsay|39.566667|66.186111|Sandstone-Roll Front|Operating|10,000-25,000
+Uzbekistan|Shark|41.910278|60.900833|Sandstone-Roll Front|Operating|1,000-2,500
+Uzbekistan|Sugraly|41.613889|64.233056|Sandstone-Roll Front|Operating|25,000-50,000
+Uzbekistan|Tutly|39.362222|66.567222|Sandstone-Roll Front|Operating|2,500-5,000
+Uzbekistan|Uchkuduk|42.136667|63.568056|Sandstone-Roll Front|Operating|25,000-50,000
+Uzbekistan|Ulus|40.770278|65.913611|Unknown|Unknown|500-1,000
+Vietnam|An Diem|15.877778|107.878056|Sandstone-Tabular|Exploration|5,000-10,000
+Zambia|Bungua|-16.444444|28.468611|Unknown|Exploration|UNKNOWN
+Zambia|Dibwe|-16.401389|28.405|Sandstone-Tabular|Exploration|2,500-5,000
+Zambia|Lumwana|-11.823333|25.1325|Unknown|Feasibility study|5,000-10,000
+Zambia|Mutanga|-8.4|30.416667|Unknown|Exploration|2,500-5,000
+Zimbabwe|Kanyemba|-15.7|30.316667|Sandstone-Tabular|Dormant|1,000-2,500
+Zimbabwe|Kawanga|-17.15|28.4|Vein|Dormant|2,500-5,000
