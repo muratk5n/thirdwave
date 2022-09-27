@@ -48,37 +48,16 @@ m.save('straits-out.html')
 
 ### Minerals
 
-Base minerals are marked in blue, Uranium is marked in red.
+Base minerals are marked in blue. Uranium is marked in red.
 
 Uranium data is from *World Distribution of Uranium Deposits (UDEPO)*,
 2009 Edition. Base minerals are from [USGS](https://mrdata.usgs.gov/pp1802).
 
-[Data 1](mineral_base.csv), [Data 2](mineral_iaea_geo_ur.csv), [Data 3](mineral_iaea_ur.csv), 
+[Data 1](mineral_base.csv), [Data 2](mineral_iaea_geo_ur.csv), [Data 3](mineral_iaea_ur.csv)
+
+[Code](minerals.py)
 
 [Output](minerals-out.html)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
