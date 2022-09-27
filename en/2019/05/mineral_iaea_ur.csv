@@ -307,9 +307,9 @@
 40|Finland|207|Sokli|Intrusive|Dormant|2,500-5,000
 41|Finland|208|Talvivaara|Black Shales|Development|2,500-5,000
 42|Finland|209|Vihanti-U|Phosphorite|Reclamation|500-1,000
-43|France|1266|Vendée District|Vein|Depleted|1,000-2,500
+43|France|1266|Vendee District|Vein|Depleted|1,000-2,500
 44|France|956|Ambert (District)|Vein|Depleted|< 500
-45|France|1261|Augères|Vein|Depleted|500-1,000
+45|France|1261|Augres|Vein|Depleted|500-1,000
 46|France|210|Bellezane|Vein|Depleted|2,500-5,000
 47|France|221|Bernardan (Le)|Vein|Depleted|5,000-10,000
 48|France|211|Bertholene|Unconformity-Proterozoic|Depleted|500-1,000
@@ -322,9 +322,9 @@
 56|France|212|Cerilly (District )|Sandstone-Tabular|Depleted|1,000-2,500
 57|France|219|Chapelle-Largeau (La)-|Vein|Depleted|500-1,000
 59|France|223|Chardon (Le)|Vein|Depleted|2,500-5,000
-60|France|958|Château-Chinon|Vein|Depleted|< 500
+60|France|958|Chateau-Chinon|Vein|Depleted|< 500
 62|France|220|Commanderie (La)|Vein|Depleted|2,500-5,000
-63|France|971|Corrèze (District)|Vein|Depleted|< 500
+63|France|971|Correze (District)|Vein|Depleted|< 500
 64|France|213|Coutras|Sandstone-Tabular|Dormant|10,000-25,000
 65|France|972|Creuse (District)|Vein|Depleted|500-1,000
 2|France|939|Ecarpiere (L')|Vein|Depleted|2,500-5,000
@@ -333,7 +333,7 @@
 6|France|224|Fraisse (Le)-Les Gorces|Vein|Depleted|1,000-2,500
 7|France|216|Grury-Luzy district|Vein|Depleted|500-1,000
 8|France|217|Hyverneresse|Vein|Depleted|500-1,000
-9|France|230|Lodève District|Sandstone-|Depleted|500-1,000
+9|France|230|Lodeve District|Sandstone-|Depleted|500-1,000
 11|France|227|Loges (Les)|Vein|Depleted|500-1,000
 12|France|1262|Marche District|Vein|Depleted|500-1,000
 13|France|961|Mares (Les)|Sandstone-|Depleted|500-1,000
@@ -343,21 +343,21 @@
 19|France|233|Montulat|Vein|Dormant|1,000-2,500
 20|France|234|Pen Ar Ran|Vein|Depleted|500-1,000
 21|France|235|Piegut- La Cote Moreau|Vein|Depleted|< 500
-22|France|228|Pierres-Plantées (Les)|Vein|Depleted|1,000-2,500
+22|France|228|Pierres-Plantees (Les)|Vein|Depleted|1,000-2,500
 23|France|237|Saint Hippolyte|Black Shales|Dormant|1,000-2,500
 24|France|236|Saint.Pierre Du Cantal|Sandstone-Basal Channel|Depleted|1,000-2,500
 25|France|1264|Schaenzel|Black Shales|Dormant|500-1,000
-26|France|974|Siège MCO|Vein|Depleted|1,000-2,500
+26|France|974|Siege MCO|Vein|Depleted|1,000-2,500
 27|France|1265|Teufelsloch-Warik|Black Shales|Dormant|1,000-2,500
-28|France|965|Vénachat|Vein|Depleted|500-1,000
+28|France|965|Venachat|Vein|Depleted|500-1,000
 29|Gabon|242|Mounana|Sandstone-|Depleted|5,000-10,000
-31|Gabon|239|Bangombé|Sandstone-|Dormant|< 500
+31|Gabon|239|Bangombe|Sandstone-|Dormant|< 500
 33|Gabon|240|Boyindzi|Sandstone-|Depleted|1,000-2,500
 35|Gabon|241|Mikouloungou|Sandstone-|Depleted|1,000-2,500
-37|Gabon|243|Okélobondo Nord|Sandstone-|Depleted|1,000-2,500
-39|Gabon|900|Okélobondo Satellite|Sandstone-Tabular|Depleted|< 500
-41|Gabon|899|Okélobondo Satellite|Sandstone-Tabular|Depleted|< 500
-43|Gabon|898|Okélobondo Sud|Sandstone-|Depleted|1,000-2,500
+37|Gabon|243|Okelobondo Nord|Sandstone-|Depleted|1,000-2,500
+39|Gabon|900|Okelobondo Satellite|Sandstone-Tabular|Depleted|< 500
+41|Gabon|899|Okelobondo Satellite|Sandstone-Tabular|Depleted|< 500
+43|Gabon|898|Okelobondo Sud|Sandstone-|Depleted|1,000-2,500
 45|Gabon|244|Oklo|Sandstone-|Depleted|10,000-25,000
 47|Germany|245|Annaberg|Vein|Depleted|500-1,000
 48|Germany|246|Antonsthal (Weisser|Vein|Depleted|500-1,000
