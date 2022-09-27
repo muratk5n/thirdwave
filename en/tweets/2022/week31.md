@@ -595,7 +595,7 @@ ship traffic.
 
 Straits, Chokepoints
 
-[[-]](../../2019/05/oilgas.html#straits)
+[[-]](../../2019/05/oilgasmin.html#straits)
 
 ---
 
@@ -702,7 +702,7 @@ issued Wednesday"
 
 ---
 
-That is around 300 mmboe.. They have [larger fields](https://muratk5n.github.io/thirdwave/en/2019/05/oilgas.html#fields)
+That is around 300 mmboe.. They have [larger fields](../..//2019/05/oilgasmin.html#fields)
 over there, but it's not nothing.
 
 Al Monitor: "More gas discovered off coast of Abu Dhabi.. The

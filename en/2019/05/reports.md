@@ -14,7 +14,7 @@
 
 [US Military (Bases, Nukes)](usmil.html)
 
-[Oil and Gas](oilgas.html)
+[Oil, Gas and Minerals](oilgasmin.html)
 
 [Drugs](drugs.html)
 

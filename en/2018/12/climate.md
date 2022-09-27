@@ -30,7 +30,7 @@
 
 [Fires](../../2019/05/natdisaster.html#fires)
 
-[Oil and Gas](../../2019/05/oilgas.html)
+[Oil, Gas and Minerals](../../2019/05/oilgasmin.html)
 
 [Flow Batteries, Built with Iron and Water](../../2018/07/battery-fueled-by-iron-and-water.html)
 
