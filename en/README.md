@@ -2,19 +2,6 @@
 
 ---
 
-If everyone charges those f-ing BEVs at home (the premise of the tech)
-you'll either blow a fuse, or the housing block transformer will
-melt. The tech is a piece of shit. 
-
-[[-]](https://aemo.com.au/-/media/files/stakeholder_consultation/consultations/nem-consultations/2020/draft-2020-isp/submissions/paul-matthews-submission-draft-2020-isp.pdf)
-
----
-
-Quartz: "Many homes aren’t ready to charge electric cars without
-blowing the fuse"
-
----
-
 Market competition my ass.. Big pharma pushed for the inclusion of
 this clause in 2003 bcz they did **not** want the buyer (government)
 to negotiate, as they would in any trade (sure gov is a big buyer but
@@ -72,6 +59,14 @@ Boiler Hut: "1kg of hydrogen releases the same energy as 2.8kg of natural gas."
 ---
 
 H2 based heating is efficient as H2 HHV is twice that of natgas.
+
+---
+
+You either blow the fuse at home or at the local [transformer](https://aemo.com.au/-/media/files/stakeholder_consultation/consultations/nem-consultations/2020/draft-2020-isp/submissions/paul-matthews-submission-draft-2020-isp.pdf). 
+The tech is a piece of shit. It needs to be abandoned asap.
+
+Quartz: "Many homes aren’t ready to charge electric cars without
+blowing the fuse"
 
 ---
 
