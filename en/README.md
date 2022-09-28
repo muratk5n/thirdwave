@@ -39,9 +39,9 @@ Minerals Map
 
 ---
 
-Certain H2 setups can generate heat as a *by-product*, fuel-cells,
-LOHC dehydrogenation process... One demo setup shows liquid carrier
-dehyd heating an entire swimming pool.
+Certain H2 setups can generate heat as a by-product, fuel-cells, LOHC
+dehydrogenation process... One demo setup shows liquid carrier dehyd
+heating an entire swimming pool.
 
 ---
 
