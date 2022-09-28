@@ -2,27 +2,6 @@
 
 ---
 
-Market competition my ass.. Big pharma pushed for the inclusion of
-this clause in 2003 bcz they did **not** want the buyer (government)
-to negotiate, as any buyer would in any trade (sure gov is a big buyer
-but can't there be big customers in the market?). IRA is amending that
-no?  Negotiation ability can help people..
-
-"Medicare Part D [included] a “noninterference clause” that protects
-market competition and patient access by prohibiting the government
-from interfering in negotiations among insurers, drug manufacturers,
-and pharmacies"
-
----
-
-Nordstream 1,2 leaks at three points.. Likely sabotage. Cui bono?  Who
-doesn't want energy links between Russia and Europe, especially
-between RU-DE?
-
-[[-]](https://pbs.twimg.com/media/FdrmL0TXkBQ8WN8?format=jpg&name=small)
-
----
-
 They buy from Australia, Canada, Kazakhstan, I see.  Uranium energy
 output is astronomical justifies its price tag surely. A lot of bang
 -ahem- for the buck.
@@ -73,6 +52,27 @@ blowing the fuse"
 De-Phazz - Trash Box \#music
 
 [[-]](https://youtu.be/u9PG7OTZT8o)
+
+---
+
+Market competition my ass.. Big pharma pushed for the inclusion of
+this clause in 2003 bcz they did **not** want the buyer (government)
+to negotiate, as any buyer would in any trade (sure gov is a big buyer
+but can't there be big customers in the market?). IRA is amending that
+no?  Negotiation ability can help people..
+
+"Medicare Part D [included] a “noninterference clause” that protects
+market competition and patient access by prohibiting the government
+from interfering in negotiations among insurers, drug manufacturers,
+and pharmacies"
+
+---
+
+Nordstream 1,2 leaks at three points.. Likely sabotage. Cui bono?  Who
+doesn't want energy links between Russia and Europe, especially
+between RU-DE?
+
+[[-]](https://pbs.twimg.com/media/FdrmL0TXkBQ8WN8?format=jpg&name=small)
 
 ---
 
