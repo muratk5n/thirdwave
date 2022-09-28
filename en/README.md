@@ -45,7 +45,7 @@ Boiler Hut: "1kg of hydrogen releases the same energy as 2.8kg of natural gas."
 
 ---
 
-H2 based heating is efficient as H2 HHV is twice that of natgas.
+H2 based heating is efficient as H2 HHV is more than twice that of natgas.
 
 ---
 
