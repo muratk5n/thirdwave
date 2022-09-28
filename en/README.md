@@ -27,7 +27,9 @@ and pharmacies"
 
 ---
 
-Nordstream 1,2 leaks at three points now.. Sabotage - highly likely.
+Nordstream 1,2 leaks at three points now.. Likely sabotage. Cui bono?
+Who doesn't want energy links between Russia and Europe, especially
+between RU-DE?
 
 [[-]](https://pbs.twimg.com/media/FdrmL0TXkBQ8WN8?format=jpg&name=small)
 
@@ -40,10 +42,6 @@ output is astronomical justifies its price tag surely. A lot of bang
 ---
 
 It looks like Japan doesn't have uranium (either).. 
-
----
-
-Taking table data out of a PDF is a major pain in the ass. No CSV?
 
 ---
 
@@ -62,7 +60,7 @@ dehyd heating an entire swimming pool.
 Think the whole ecosystem too - clean gas is transmitted 10 times
 faster at 8th the cost. Even if fuel generates electricity at end
 points heat-pumps runs on that, overall perf would be more optimal
-than pure electric scenario.
+than the naive pure-grid based scenario.
 
 ---
 
