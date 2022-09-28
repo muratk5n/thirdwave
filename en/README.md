@@ -104,10 +104,10 @@ LOHC.
 
 ---
 
-It looks like LOHCs, Liquid Organic Hydrogen Carriers, had seen some
-commercial development, there is a suite of products from a company
-called Hydregenious, partnered with MAN Diesel&Turbo (known name in
-the petro-chemical industry). If advertisement is true, H2 can be
+LOHCs, Liquid Organic Hydrogen Carriers, have seen some commercial
+development lately, there is a suite of products from a company called
+Hydregenious, partnered with MAN Diesel&Turbo (known name in the
+petro-chemical industry). If advertisement is true, H2 can be
 transported as an oily, diesel-like substance, at room temperature,
 inert.. Therefore any infra (trucks, trailers) that can carry oil can
 be used to carry LOHC.

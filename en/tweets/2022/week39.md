@@ -103,7 +103,7 @@ through their infamous partition (making sure to leave behind a
 constant struggle that could be exploited later).
 
 Israel-Palestine conflict? Created by the Brits as an imperial
-[project](2020/06/10-myths-israel.html#uk) - the religious aspects on
+[project](../../2020/06/10-myths-israel.html#uk) - the religious aspects on
 both Christian and Jewish believers were utilized for strategic means.
 
 ---
