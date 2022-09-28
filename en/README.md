@@ -50,7 +50,7 @@ H2 based heating is efficient as H2 HHV is more than twice that of natgas.
 ---
 
 You either blow the fuse at home or at the local [transformer](https://aemo.com.au/-/media/files/stakeholder_consultation/consultations/nem-consultations/2020/draft-2020-isp/submissions/paul-matthews-submission-draft-2020-isp.pdf). 
-The tech is a piece of shit. It needs to be abandoned asap.
+The tech is crap. It needs to be abandoned asap.
 
 Quartz: "Many homes aren’t ready to charge electric cars without
 blowing the fuse"
