@@ -64,10 +64,9 @@ De-Phazz - Trash Box \#music
 ---
 
 The capitalist is such a little bitch. Everything needs to be the way
-they want, their playground needs to be all nicely defined, with all
-nice toys in it, needs to be watched, but ew dont interfere too much,
-until something bad happens, then interfere big time and make it go
-away. 
+they want, their playground needs to be all nicely defined, with nice
+toys in it, be monitored, but ew dont interfere too much, until
+something bad happens, then interfere big time and make it go away.
 
 ---
 
