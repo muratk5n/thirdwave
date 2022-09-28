@@ -35,7 +35,7 @@ heating an entire swimming pool.
 Think the whole ecosystem too - clean gas is transmitted 10 times
 faster at 8th the cost. Even if fuel generates electricity at end
 points heat-pumps runs on that, overall perf would be more optimal
-than the naive pure-grid based scenario.
+than the naive pure-grid scenario.
 
 ---
 
