@@ -92,7 +92,7 @@ Earlier write-up on the tech
 
 The HDS product suite handles conversion of H2 to LOHC (hydrogenation)
 and taking H2 out of LOHC (dehydrogenation). Storage capacity of the
-products isn't even listed; IMO storage is theoretically unlimited,
+products isn't even listed; IMO storage is practically unlimited,
 anywhere diesel is stored, the organic carrier can be
 stored. Conversion rates are reported (2018), 400 m3/h hyd, and 640
 liter/h dehyd.
