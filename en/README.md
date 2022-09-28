@@ -15,8 +15,8 @@ and pharmacies"
 
 ---
 
-Nordstream 1,2 leaks at three points now.. Likely sabotage. Cui bono?
-Who doesn't want energy links between Russia and Europe, especially
+Nordstream 1,2 leaks at three points.. Likely sabotage. Cui bono?  Who
+doesn't want energy links between Russia and Europe, especially
 between RU-DE?
 
 [[-]](https://pbs.twimg.com/media/FdrmL0TXkBQ8WN8?format=jpg&name=small)
