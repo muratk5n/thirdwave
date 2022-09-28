@@ -4,9 +4,9 @@
 
 Market competition my ass.. Big pharma pushed for the inclusion of
 this clause in 2003 bcz they did **not** want the buyer (government)
-to negotiate, as they would in any trade (sure gov is a big buyer but
-can't there be big buyers in the market?). IRA is amending that no?
-Negotiation ability can help people..
+to negotiate, as any buyer would in any trade (sure gov is a big buyer
+but can't there be big customers in the market?). IRA is amending that
+no?  Negotiation ability can help people..
 
 "Medicare Part D [included] a “noninterference clause” that protects
 market competition and patient access by prohibiting the government
