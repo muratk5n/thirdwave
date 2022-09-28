@@ -18,10 +18,7 @@ large quantities and is not classified as a dangerous good.
 
 Compared to other technologies that store hydrogen at temperatures of
 -253 °C or at pressures up to 500 bar, using LOHC technology greatly
-reduces the cost of handling hydrogen. Transport and storage costs
-account for up to 70 % of the total cost of hydrogen supply using
-traditional high pressure or cryogenic hydrogen storage
-technologies. 
+reduces the cost of handling hydrogen. 
 
 The hydrogen-rich or loaded LOHC (LOHC+) can be transported via
 standard tank trucks to the hydrogen refueling stations, which are
