@@ -2,6 +2,14 @@
 
 ---
 
+Nordstream 1,2 leaks at three points.. Likely sabotage. Cui bono?  Who
+doesn't want energy links between Russia and Europe, especially
+between RU-DE?
+
+[[-]](https://pbs.twimg.com/media/FdrmL0TXkBQ8WN8?format=jpg&name=small)
+
+---
+
 They buy from Australia, Canada, Kazakhstan, I see.  Uranium energy
 output is astronomical justifies its price tag surely. A lot of bang
 -ahem- for the buck.
@@ -65,14 +73,6 @@ no?  Negotiation ability can help people..
 market competition and patient access by prohibiting the government
 from interfering in negotiations among insurers, drug manufacturers,
 and pharmacies"
-
----
-
-Nordstream 1,2 leaks at three points.. Likely sabotage. Cui bono?  Who
-doesn't want energy links between Russia and Europe, especially
-between RU-DE?
-
-[[-]](https://pbs.twimg.com/media/FdrmL0TXkBQ8WN8?format=jpg&name=small)
 
 ---
 
