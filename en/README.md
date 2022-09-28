@@ -82,7 +82,7 @@ De-Phazz - Trash Box \#music
 
 ---
 
-Earlier write-up on LOHC
+Earlier write-up on the tech
 
 [[-]](2022/02/h2-toloune-lohc.md)
 
@@ -91,16 +91,15 @@ Earlier write-up on LOHC
 The HDS product suite handles conversion of H2 to LOHC (hydrogenation)
 and taking H2 out of LOHC (dehydrogenation). Storage capacity of the
 products isn't even listed; IMO storage is theoretically unlimited,
-anywhere diesel is stored, LOHC can be stored. Conversion rates are
-reported (2018), 400 m3/h hyd, and 640 liter/h dehyd.
+anywhere diesel is stored, the organic carrier can be
+stored. Conversion rates are reported (2018), 400 m3/h hyd, and 640
+liter/h dehyd.
 
 ---
 
 Could oil pipelines can be repurposed to carry LOHC since it is an
-oil-like substance?
-
-Natgas pipelines with some refurb carry H2 gas, oil pipelines carry
-LOHC.
+oil-like substance? Natgas pipelines with some refurb carry H2 gas,
+oil pipelines carry this liquid.
 
 ---
 
