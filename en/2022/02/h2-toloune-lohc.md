@@ -1,8 +1,8 @@
 # LOHC, Toloune
 
 The LOHC (liquid organic hydrogen carrier) concept is a capable
-technology for supplying hydrogen refuelling stations due to its high
-hydrogen storage densities (57 $kg_{H2} m_{LOHC}^{-3}$) and easy
+technology [1] for supplying hydrogen refuelling stations due to its
+high hydrogen storage densities (57 $kg_{H2} m_{LOHC}^{-3}$) and easy
 handling (liquid, low toxicity, low flammability). ...
 
 The LOHC technology is based on the chemical bonding of hydrogen to
@@ -28,6 +28,8 @@ refueling station technology. The German Climate Action Plan of 2050
 acknowledges that LOHC technology has considerable potential for
 establishing hydrogen as a fuel.
 
-[Link](https://www.gas-for-energy.com/fileadmin/G4E/pdf_Datein/2019/Fachbericht_Seidel_Hydrogenious/gfe1_19_fb_Seidel_V3.pdf)
+Reference
+
+[1] [Hydrogenious](https://www.gas-for-energy.com/fileadmin/G4E/pdf_Datein/2019/Fachbericht_Seidel_Hydrogenious/gfe1_19_fb_Seidel_V3.pdf)
 
 [[⇪Up]](h2-storage.html)
