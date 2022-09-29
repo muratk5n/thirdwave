@@ -8,12 +8,27 @@ from skimage.segmentation import felzenszwalb
 from skimage.morphology import binary_closing
 from skimage import io, measure
 
-import simplegeomap as sm, json, util
+import simplegeomap as sm, util
 import datetime, time as timelib
 import urllib.request as urllib2
 from io import BytesIO
 import pandas_ta as ta
-    
+
+def sm_plot_kurd1(geo):
+    clat,clon=37, 42; zoom=0.6
+    sm.plot_countries(clat,clon,zoom,outcolor='lavenderblush')
+    sm.plot_elevation(clat,clon,zoom)
+    d = json.loads(open("kurd1.json").read())
+    sm.plot_line(np.array(d['duhok']),color='red')
+    sm.plot_line(np.array(d['erbil']),color='red')
+    sm.plot_line(np.array(d['suleymaniah'],),color='red')    
+    pars = [(40,38,'Asia Minor'),(46,37,'Iran'),(43,35,'Iraq'),(40,36,'Syria')]
+    for x in pars: plt.text(*x,color='red')
+    eps = -0.3
+    for i,(lat,lon) in enumerate(geo):
+        plt.text(lon+eps,lat+eps,i+1)
+        plt.plot(lon,lat,'go')
+
 def sm_plot_ukr_alt1(file,geo):
     df = np.array(pd.read_csv(file,header=None))
     df[:, [1, 0]] = df[:, [0, 1]]

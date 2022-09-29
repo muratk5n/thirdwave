@@ -2,10 +2,9 @@
 
 ```python
 import util as u
-# kramatorsk, kharkiv
-geo = [(48.7309677, 37.5836740),(49.992383834083824, 36.23871126844284)]
-u.sm_plot_ukr_alt1('ukrdata/alt1-0913.csv',geo)
-
+# kama, qandil
+geo = [(36.087341966837975, 44.630878934403924),(36.5414427151871, 44.987436019006175)]
+u.sm_plot_kurd1(geo)
 plt.savefig('/tmp/out1.png')
 ```
 
