@@ -49,8 +49,8 @@ shoestring budget? Excellent work, considering
 ---
 
 Gutfeld *from Fox News* is beating bunch of other late night
-shows.. Stephen Gruyère, Fallon, Kimmel..? Beaten by a show at Fox
-News?
+shows.. Stephen Gruyère, Fallon, Kimmel..? All beaten by a show at Fox
+News - what are they doing wrong?
 
 ---
 
