@@ -8,8 +8,8 @@ Germany, backed by €11.3m ($10.7m) of state funding"
 
 ---
 
-90 mil tonnes of H2 translates into `90*1e6*1000*33.6/(365*24*1e6)`
-which is 354 Gigawatts. A sizable chunk of energy.
+90 mil tonnes of H2 translates into 90 * 1e6 * 1000 * 33.6 / (365 * 24 * 1e6),
+354 Gigawatts. A sizable chunk of energy.
 
 ---
 
