@@ -2,121 +2,143 @@
 
 ---
 
-Nordstream 1,2 leaks at three points.. Likely sabotage. Cui bono?  Who
-doesn't want energy links between Russia and Europe, especially
-between RU-DE?
-
-[[-]](https://pbs.twimg.com/media/FdrmL0TXkBQ8WN8?format=jpg&name=small)
+H2 View: "A BMW Group-led consortium has launched a research project
+to develop 18-tonne and 40-tonne hydrogen combustion engine trucks in
+Germany, backed by €11.3m ($10.7m) of state funding"
 
 ---
 
-They buy from Australia, Canada, Kazakhstan, I see.  Uranium energy
-output is astronomical justifies its price tag surely. A lot of bang
--ahem- for the buck.
+*Universal Soldier: Day of Reckoning* - funky directing; shot on a
+shoestring budget? Excellent work, considering
 
 ---
 
-It looks like Japan doesn't have uranium (either).. 
+90 mil tonnes of H2 translates into `90 * 1e6 * 1000* 33.6 / (365*24*1e6)
+meaning 354 GIGAWATTS. That will make dent for sure ✌️
 
 ---
 
-Minerals Map
-
-[[-]](2019/05/oilgasmin.html#minerals)
-
----
-
-Certain H2 setups can generate heat as a by-product, fuel-cells, LOHC
-dehydrogenation process... One demo setup shows liquid carrier dehyd
-heating an entire swimming pool.
+Reuters: "More than 20 countries, led by Japan, have agreed to boost
+output of low-emission hydrogen to at least 90 million tonnes a year
+by 2030 from 1 million tonnes now, the Japanese industry ministry said
+on Monday"
 
 ---
 
-Think the whole ecosystem too - clean gas is transmitted 10 times
-faster at 8th the cost. Even if fuel generates electricity at end
-points heat-pumps runs on that, overall perf would be more optimal
-than the naive pure-grid scenario.
+"@JSEllenberg
+
+Explained in class today that delta means a small positive number you
+choose and epsilon means a small positive number your enemy chooses"
 
 ---
 
-Boiler Hut: "1kg of hydrogen releases the same energy as 2.8kg of natural gas."
+"@jaztrophysicist
 
-[[-]](https://boilerhut.co.uk/boiler-guides/hydrogen-boiler-explained/)
-
----
-
-H2 based heating is efficient as H2 HHV is more than twice that of natgas.
+Half of a physicist's life is about fixing minus sign errors and the
+other two-thirds is about normalising stuff correctly"
 
 ---
 
-You either blow the fuse at home or at the local [transformer](https://aemo.com.au/-/media/files/stakeholder_consultation/consultations/nem-consultations/2020/draft-2020-isp/submissions/paul-matthews-submission-draft-2020-isp.pdf). 
-The tech is crap. It needs to be abandoned asap.
-
-Quartz: "Many homes aren’t ready to charge electric cars without
-blowing the fuse"
+NYT: "Leaks in Undersea Gas Pipelines After Explosions Point to
+Sabotage, Officials Say"
 
 ---
 
-De-Phazz - Trash Box \#music
-
-[[-]](https://youtu.be/u9PG7OTZT8o)
-
----
-
-The capitalist is such a little bitch. Everything needs to be the way
-they want, their playground needs to be all nicely defined, with nice
-toys in it, be monitored, but ew dont interfere too much, until
-something bad happens, then interfere big time and make it go away.
+Jane's Defense: "Routine USCG patrol notes presence of Russian and
+Chinese naval vessels in US Alaskan EEZ"
 
 ---
 
-Market competition my ass.. Big pharma pushed for the inclusion of
-this clause in 2003 bcz they did **not** want the buyer (government)
-to negotiate, as any buyer would in any trade (sure gov is a big buyer
-but can't there be big customers in the market?). IRA is amending that
-no?  Negotiation ability can help people..
-
-"Medicare Part D [included] a “noninterference clause” that protects
-market competition and patient access by prohibiting the government
-from interfering in negotiations among insurers, drug manufacturers,
-and pharmacies"
+Al Monitor: "Qatari oil, gas exports up 100% in 2022"
 
 ---
 
-Earlier write-up on the tech
-
-[[-]](2022/02/h2-toloune-lohc.md)
-
----
-
-The HDS product suite handles conversion of H2 to LOHC (hydrogenation)
-and taking H2 out of LOHC (dehydrogenation). Storage capacity of the
-products isn't even listed; IMO storage is practically unlimited,
-anywhere diesel is stored, the organic carrier can be
-stored. Conversion rates are reported (2018), 400 m3/h hyd, and 640
-liter/h dehyd.
+Gutfeld *from Fox News* beats bunch of late night shows.. Stephen
+Gruyère, Fallon, Kimmel..? Wow. 
 
 ---
 
-Could oil pipelines can be repurposed to carry LOHC since it is an
-oil-like substance? Natgas pipelines with some refurb carry H2 gas,
-oil pipelines carry this liquid.
+This is sad but was anyone physically hurt by these AJ followers?
+Should freedom of speech be sacrificed for their grieving?
+
+"Alex Jones trial.. Sandy Hook mother tells jury she was sent pictures
+of dead kids by hoax believers"
 
 ---
 
-LOHCs, Liquid Organic Hydrogen Carriers, have seen some commercial
-development lately, there is a suite of products from a company called
-Hydregenious, partnered with MAN Diesel&Turbo (known name in the
-petro-chemical industry). If advertisement is true, H2 can be
-transported as an oily, diesel-like substance, at room temperature,
-inert.. Therefore any infra (trucks, trailers) that can carry oil can
-be used to carry LOHC.
+H2 Fuel News: "Cummins has.. unveiled a medium-duty concept truck
+using an H2-fueled internal combustion engine (ICE), which drew
+substantial attention in Germany at the IAA Transportation
+exhibition. Similarly, Westport Fuel Systems also unveiled its own
+HPDI hydrogen ICE engine for heavy duty vehicles earlier this month...
+
+There are a number of benefits that hydrogen combustion engines have
+to offer over fuel cells. To start, the technology used by ICE is
+already familiar to engineers and mechanics worldwide who provide
+maintenance and repairs to trucks and other medium- and heavy-duty
+forms of vehicle, equipment and machinery. The technology could be
+incorporated into a spectrum of types of vehicles and machinery, not
+just trucks...
+
+Cummins demonstrated the ease of H2 ICE deployment by exchanging
+a Mercedes-Benz Atego 4×2 truck’s diesel engine for a 6.7-liter H2 ICE
+engine. Performance, cargo capacity and payload were all fully
+preserved.
+
+Westport has gone so far as to say that its own H2 ICE engine offers a
+notable increase in performance when compared to its diesel
+equivalent, including 20 percent more power and 18 percent improved
+torque.
+
+By using diesel engine architecture and engine manufacturing
+infrastructure already in place, Westport has said that its engine
+offers the lowest-cost opportunity for achieving CO2 reduction target
+compliance. This could also help to minimize a company’s transition
+cost while decarbonizing.
+
+'We like to think of it as a game changer without the change,' said
+Westport Fuel Systems CEO David Johnson when referring to hydrogen
+combustion engines"
 
 ---
 
-"A report.. [claims] that the bulk of the.. hydrogen [transport]
-around the world will be split between pipelines and liquid organic
-hydrogen carriers (LOHC), often transported in ships"
+H2 Central: "Volvo Trucks begins initial testing phase for hydrogen
+fuel cell truck"
+
+---
+
+H2 Central: "[Researchers at the University of Sannio, in southern
+Italy] have built the first hydrogen powered house in Europe... The
+fuel cells fully powered by hydrogen generate the electricity and
+heating needed to meet the building’s needs, according to the team at
+the University of Sannio"
+
+---
+
+H2 Central: "Quantron is Joining Forces with ETO Motors for
+Indo-german Collaboration, to Introduce Hydrogen Technology Vehicles
+and Infrastructure"
+
+---
+
+H2 Central: "Traditional energy companies broadly support H2 and are
+spending big in its pursuit... Hydrogen fuel production is expected to
+change the shape of the US energy sector, and fossil fuel giants are
+among its lead supporters, pouring millions lobbying congress on its
+behalf"
+
+---
+
+Making tallow from raw fat requires some post-processing (filtering
+couple times), but if the raw source if clean enough, from lamb for
+example, high-heat just melts the base compound, making it easy to
+collect. The frozen final product should look milk-colored.
+
+---
+
+Doc recommends soak walnuts (in salt water, overnight) to remove
+lectin, and for dehyd use 50-55 C (which is optimal for vitac on
+fruitage anyway). Could be good advice. Will try.
 
 ---
 
