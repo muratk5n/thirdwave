@@ -20,7 +20,7 @@ It looks like Japan doesn't have uranium (either)..
 
 Minerals Map
 
-[[-]](2019/05/oilgasmin.html#minerals)
+[[-]](../../2019/05/oilgasmin.html#minerals)
 
 ---
 
@@ -83,7 +83,7 @@ and pharmacies"
 
 Earlier write-up on the tech
 
-[[-]](2022/02/h2-toloune-lohc.md)
+[[-]](../../2022/02/h2-toloune-lohc.md)
 
 ---
 

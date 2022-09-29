@@ -53,8 +53,9 @@ Al Monitor: "Qatari oil, gas exports up 100% in 2022"
 
 ---
 
-Gutfeld *from Fox News* beats bunch of late night shows.. Stephen
-Gruyère, Fallon, Kimmel..? Wow. 
+Gutfeld *from Fox News* is beating bunch of other late night
+shows.. Stephen Gruyère, Fallon, Kimmel..? Beaten by a show at Fox
+News?
 
 ---
 
@@ -129,16 +130,9 @@ behalf"
 
 ---
 
-Making tallow from raw fat requires some post-processing (filtering
-couple times), but if the raw source if clean enough, from lamb for
-example, high-heat just melts the base compound, making it easy to
-collect. The frozen final product should look milk-colored.
-
----
-
 Doc recommends soak walnuts (in salt water, overnight) to remove
 lectin, and for dehyd use 50-55 C (which is optimal for vitac on
-fruitage anyway). Could be good advice. Will try.
+fruitage anyway). 
 
 ---
 
