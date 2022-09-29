@@ -8,13 +8,8 @@ Germany, backed by €11.3m ($10.7m) of state funding"
 
 ---
 
-*Universal Soldier: Day of Reckoning* - funky directing; shot on a
-shoestring budget? Excellent work, considering
-
----
-
-90 mil tonnes of H2 translates into `90 * 1e6 * 1000* 33.6 / (365*24*1e6)
-meaning 354 GIGAWATTS. That will make dent for sure ✌️
+90 mil tonnes of H2 translates into `90 * 1e6 * 1000* 33.6 / (365*24*1e6)`
+which is 354 GIGAWATTS. That kind of energy will make dent for sure ✌️
 
 ---
 
@@ -39,17 +34,17 @@ other two-thirds is about normalising stuff correctly"
 
 ---
 
-NYT: "Leaks in Undersea Gas Pipelines After Explosions Point to
-Sabotage, Officials Say"
-
----
-
 Jane's Defense: "Routine USCG patrol notes presence of Russian and
 Chinese naval vessels in US Alaskan EEZ"
 
 ---
 
 Al Monitor: "Qatari oil, gas exports up 100% in 2022"
+
+---
+
+*Universal Soldier: Day of Reckoning* - funky directing; shot on a
+shoestring budget? Excellent work, considering
 
 ---
 
