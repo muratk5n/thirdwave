@@ -139,7 +139,7 @@ countries"
 ---
 
 Giorgia can say this or that now on Russia, maybe she'll play nice
-with anti-RU crowd. But they can just have the Salvini play the "bad
+with anti-RU crowd. But they could just have the Salvini play the "bad
 guy". Then it will be oh well coalition partner is against, what can
 we do? Mamma mia!
 
