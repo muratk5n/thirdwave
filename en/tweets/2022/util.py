@@ -29,15 +29,14 @@ def sm_plot_kurd1(geo):
         plt.text(lon+eps,lat+eps,i+1)
         plt.plot(lon,lat,'go')
 
-def sm_plot_ukr_alt1(file,geo):
+def sm_plot_ukr1(file,geo):
     df = np.array(pd.read_csv(file,header=None))
     df[:, [1, 0]] = df[:, [0, 1]]
     clat,clon=48, 37; zoom = 0.6
     sm.plot_countries(clat,clon,zoom,outcolor='lavenderblush')
     sm.plot_line(df,color='red')
     
-    #df = np.array(pd.read_csv('ukrdata/donetsk.csv',header=None))
-    df = np.array(pd.read_csv('/tmp/newdonetsk.csv',header=None))
+    df = np.array(pd.read_csv('ukrdata/donetsk.csv',header=None))
     sm.plot_line(df,color='pink')
     plt.text(37,48,'Donetsk',color='gray')
 

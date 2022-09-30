@@ -295,7 +295,7 @@ Latest frontline
 ```python
 # kramatorsk, kharkiv
 geo = [(48.7309677, 37.5836740),(49.992383834083824, 36.23871126844284)]
-u.sm_plot_ukr_alt1('ukrdata/alt1-0913.csv',geo)
+u.sm_plot_ukr1('ukrdata/alt1-0913.csv',geo)
 ```
 
 <img width="340" src="https://pbs.twimg.com/media/FckVndGXkAYUx-6?format=png&name=small"/>
