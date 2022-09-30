@@ -163,10 +163,6 @@ the students we have, not the students they think we should have"
 
 ---
 
-Garanti Bank has now BBVA added to title, BBVA is Spanish. 
-
----
-
 His Russkie bank cards would not work for payment.. Much was made by
 extending the Russian MIR payment system but TR banks are heavily tied
 to the Western system, one warning would put the fear of God in them,
