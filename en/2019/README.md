@@ -28,7 +28,7 @@
 
 [Natural Disasters](05/natdisaster.html)
 
-[Oil and Gas](05/oilgas.html)
+[Oil, Gas and Minerals](05/oilgasmin.html)
 
 [Reports](05/reports.html)
 

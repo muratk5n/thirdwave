@@ -42,7 +42,7 @@
 
 [Historical Carbon Emissions](07/historical-carbon-emissions.html)
 
-[Lycia's History - A Struggle For Freedom](07/lycian-history.html)
+[Lycia](07/lycian-history.html)
 
 [The Bermuda Triangle](08/bermuda.html)
 

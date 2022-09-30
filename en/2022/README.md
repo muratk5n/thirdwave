@@ -60,7 +60,7 @@
 
 [The New Economics](05/the-new-economics-keen.html)
 
-[Extraterrestrial](06/extraterrestrial-loeb.html)
+[Extraterrestrial](06/extraterrestrial-oumuamua-loeb.html)
 
 [GHG Sources](06/ghg-sources.html)
 

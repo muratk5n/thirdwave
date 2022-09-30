@@ -370,8 +370,8 @@ level mostly start with and verify against data.
 
 ---
 
-Avi Loeb book [excerpts](../../2022/06/extraterrestrial-loeb.html). Can skip forward
-[here](../../2022/06/extraterrestrial-loeb.html#junkscience) for the good parts
+Avi Loeb book [excerpts](../../2022/06/extraterrestrial-oumuamua-loeb.html). Can skip forward
+[here](../../2022/06/extraterrestrial-oumuamua-loeb.html#junkscience) for the good parts
 on the string theory, the multiverse, and theoretical physics losing its way.
 
 ---
