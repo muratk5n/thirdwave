@@ -174,8 +174,8 @@ and change their mind.
 
 ---
 
-Hah, Russian Tuber fleed now in Turkoland - newest vid says "I'm now
-in Istanbul"
+Hah, Russian Tuber fleed now in gobble gobble - newest vid says "I'm
+now in Istanbul"
 
 ---
 
