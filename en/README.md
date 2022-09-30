@@ -2,132 +2,180 @@
 
 ---
 
-H2 View: "A BMW Group-led consortium has launched a research project
-to develop 18-tonne and 40-tonne hydrogen combustion engine trucks in
-Germany, backed by €11.3m ($10.7m) of state funding"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/McPhyEnergy?ref_src=twsrc%5Etfw">@McPhyEnergy</a>&#39;s electrolyzer gigafactory plans have been boosted by €114m ($110m) from the French Government.<br><br>Find out more ⬇️ <a href="https://t.co/TmrYhOlN9K">https://t.co/TmrYhOlN9K</a></p>&mdash; Hydrogen Council (@HydrogenCouncil) <a href="https://twitter.com/HydrogenCouncil/status/1575414559862657025?ref_src=twsrc%5Etfw">September 29, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-90 mil tonnes of H2 translates into 90 * 1e6 * 1000 * 33.6 / (365 * 24 * 1e6),
-which is 354 Gigawatts. A sizable chunk of energy.
+Senate Resolution 765 👍
+
+[PDF](https://www.congress.gov/117/bills/sres765/BILLS-117sres765is.pdf)
 
 ---
 
-Reuters: "More than 20 countries, led by Japan, have agreed to boost
-output of low-emission hydrogen to at least 90 million tonnes a year
-by 2030 from 1 million tonnes now, the Japanese industry ministry said
-on Monday"
+Al Jazeera: "Russia to formally annex four occupied Ukrainian
+regions.. Donetsk, Luhansk, Kherson and Zaporizhia set to be
+incorporated into Russia at a ceremony in Moscow on Friday"
 
 ---
 
-"@JSEllenberg
-
-Explained in class today that delta means a small positive number you
-choose and epsilon means a small positive number your enemy chooses"
-
----
-
-"@jaztrophysicist
-
-Half of a physicist's life is about fixing minus sign errors and the
-other two-thirds is about normalising stuff correctly"
+Al Jazeera: "Nicaragua leader calls Catholic Church a
+‘dictatorship’.. Daniel Ortega describes priests as ‘killers’ and
+‘coup plotters’ in a speech, accusing the clergy of working on behalf
+of ‘American imperialism’"
 
 ---
 
-Jane's Defense: "Routine USCG patrol notes presence of Russian and
-Chinese naval vessels in US Alaskan EEZ"
+H2 Central: "Keir Starmer Promises Launch of State-Owned British Clean
+Energy Company, Eyeing Hydrogen"
 
 ---
 
-Al Monitor: "Qatari oil, gas exports up 100% in 2022"
+H2 Central: "Plastic Omnium announces construction of Europe largest
+hydrogen vessels factory in Compiègne. During her visit to Plastic
+Omnium’s α-Alphatech research and development center, Prime Minister
+Élisabeth Borne.. is announcing public funding to support the entire
+French hydrogen mobility value chain. Funding includes €74 million to
+support Plastic Omnium’s growth strategy for hydrogen mobility in
+France"
 
 ---
 
-*Universal Soldier: Day of Reckoning* - funky directing; shot on a
-shoestring budget? Excellent work, considering
+H2 Central: "Posco, Apporium Team up to Produce Blue Hydrogen.. Under
+the agreement, the..  companies will invest a combined 200 billion won
+($139 million) by 2026 into establishing facilities for hydrogen
+production. The annual production capacity is expected to reach 40,000
+tons"
 
 ---
 
-Gutfeld *from Fox News* is beating bunch of other late night
-shows.. Stephen Gruyère, Fallon, Kimmel..? All beaten by a show at Fox
-News - what are they doing wrong?
+Iran helps \#2 bombs \#1. Someone else might help \#1 bomb \#2. Both
+areas are Kurds in Kurdish governates in Iraq. Welcome to the Middle
+East.
 
 ---
 
-This is sad but was anyone physically hurt by these AJ followers?
-Should freedom of speech be sacrificed for their grieving?
-
-"Alex Jones trial.. Sandy Hook mother tells jury she was sent pictures
-of dead kids by hoax believers"
+Iranian Kurd was probably like 'lemme move away from the Iranian
+border little bit so they don't invade my ass overnight' but Iran
+got'em anyway - with missiles.
 
 ---
 
-H2 Fuel News: "Cummins has.. unveiled a medium-duty concept truck
-using an H2-fueled internal combustion engine (ICE), which drew
-substantial attention in Germany at the IAA Transportation
-exhibition. Similarly, Westport Fuel Systems also unveiled its own
-HPDI hydrogen ICE engine for heavy duty vehicles earlier this month...
-
-There are a number of benefits that hydrogen combustion engines have
-to offer over fuel cells. To start, the technology used by ICE is
-already familiar to engineers and mechanics worldwide who provide
-maintenance and repairs to trucks and other medium- and heavy-duty
-forms of vehicle, equipment and machinery. The technology could be
-incorporated into a spectrum of types of vehicles and machinery, not
-just trucks...
-
-Cummins demonstrated the ease of H2 ICE deployment by exchanging
-a Mercedes-Benz Atego 4×2 truck’s diesel engine for a 6.7-liter H2 ICE
-engine. Performance, cargo capacity and payload were all fully
-preserved.
-
-Westport has gone so far as to say that its own H2 ICE engine offers a
-notable increase in performance when compared to its diesel
-equivalent, including 20 percent more power and 18 percent improved
-torque.
-
-By using diesel engine architecture and engine manufacturing
-infrastructure already in place, Westport has said that its engine
-offers the lowest-cost opportunity for achieving CO2 reduction target
-compliance. This could also help to minimize a company’s transition
-cost while decarbonizing.
-
-'We like to think of it as a game changer without the change,' said
-Westport Fuel Systems CEO David Johnson when referring to hydrogen
-combustion engines"
+Pt \#2, Qandil, is where Anatolian Kurdish rebels live.. Rebels like
+the border areas don't they?
 
 ---
 
-H2 Central: "Volvo Trucks begins initial testing phase for hydrogen
-fuel cell truck"
+Three Iraqi Kurdish governates in red. Iran hit pt \#1
+
+```python
+# kama, qandil
+geo = [(36.087341966, 44.630878934),(36.5414427, 44.987436019)]
+u.sm_plot_kurd1(geo)
+```
+
+<img width="340" src="https://pbs.twimg.com/media/Fd07rFEaUAERyNK?format=png&name=small"/>
 
 ---
 
-H2 Central: "[Researchers at the University of Sannio, in southern
-Italy] have built the first hydrogen powered house in Europe... The
-fuel cells fully powered by hydrogen generate the electricity and
-heating needed to meet the building’s needs, according to the team at
-the University of Sannio"
+Iran strikes Kurds In Iraq.. Serious..
+
+Al Monitor: "Iran unleashed a wave of missiles and drones on the
+headquarters of three separate Iranian Kurdish opposition groups based
+in Iraqi Kurdistan [Kama] today"
 
 ---
 
-H2 Central: "Quantron is Joining Forces with ETO Motors for
-Indo-german Collaboration, to Introduce Hydrogen Technology Vehicles
-and Infrastructure"
+NYT: "[09/25] The woman who died after being swept up by Iran’s
+notorious morality police was a member of Iran’s Kurdish minority,
+which has long suffered discrimination, and the group’s rage in recent
+days reflects its longstanding grievances"
 
 ---
 
-H2 Central: "Traditional energy companies broadly support H2 and are
-spending big in its pursuit... Hydrogen fuel production is expected to
-change the shape of the US energy sector, and fossil fuel giants are
-among its lead supporters, pouring millions lobbying congress on its
-behalf"
+Col Douglas Macgregor: "Moscow’s determination to destroy Ukrainian
+forces at the least cost to Russian lives prevailed. Ukrainian
+casualties were always heavier than reported from the moment Russian
+troops crossed into Eastern Ukraine, but now, thanks to the recent
+failure of Ukrainian counterattacks in the Kherson region, they’ve
+reached horrific levels that are impossible to conceal...
+
+The recent Ukrainian advance to the town of Izium, the link between
+Donbas and Kharkiv, seemed like a gift to Kiev. U.S. satellite arrays
+undoubtedly provided Ukrainians with a real-time picture of the area
+showing that Russian forces west of Izium numbered less than 2,000
+light troops (the equivalent of paramilitary police, e.g., SWAT and
+airborne infantry).
+
+The Russian command opted to withdraw its small force from the area
+that is roughly 1 percent of formerly Ukrainian territory currently
+under Russian control. However, the price for Kiev’s propaganda
+victory was high—depending on the source, an estimated 5,000 to 10,000
+Ukrainian troops were killed or wounded in a flat, open area that
+Russian artillery, rockets, and air strikes turned into a killing
+field...
+
+Given Washington’s inability to end the war in Ukraine with the defeat
+of Russian arms, it seems certain that the Beltway will try instead to
+turn the ruins of the Ukrainian state into an open wound in Russia’s
+side that will never heal. From the beginning, the problem with this
+approach was that Russia always had the resources to dramatically
+escalate the fighting and end the fighting in Ukraine on very harsh
+terms. Escalation is now in progress.
+
+Washington always mistook Putin’s readiness to negotiate and limit the
+scope and destructiveness of the campaign in Ukraine as evidence of
+weakness, when it was clear that Putin’s aims were always restricted
+to the elimination of the NATO threat to Russia in Eastern Ukraine"
+
+[[-]](https://www.theamericanconservative.com/holding-ground-losing-war/)
 
 ---
 
-Doc recommends soak walnuts (in salt water, overnight) to remove
-lectin, and for dehyd use 50-55 C (which is optimal for vitac on
-fruitage anyway). Could be useful.
+The Guardian: "[A]t least 1,733 land and environmental defenders were
+murdered between 2012 and 2021, figures from Global Witness show, with
+Brazil, Colombia, the Philippines, Mexico and Honduras the deadliest
+countries"
+
+---
+
+Giorgia can say this or that now on Russia, maybe she'll play nice
+with anti-RU crowd. But they can just have the Salvini play the "bad
+guy". Then it will be oh well coalition partner is against, what can
+we do? Mamma mia!
+
+---
+
+Low temperature made Titanic's steel brittle, which causes cracks to
+form, the whole thing basically fractured \#MechanicsofMaterials 
+
+---
+
+"@LizWFab
+
+If you really wanna rile up older faculty, tell them we need to teach
+the students we have, not the students they think we should have"
+
+---
+
+\#XKCD Not far off from the mainstream discussion on the subject.
+
+[[-]](https://imgs.xkcd.com/comics/wing_lift.png)
+
+---
+
+Garanti Bank has now BBVA added to title, BBVA is Spanish. 
+
+---
+
+His Russkie bank cards would not work for payment.. Much was made by
+extending the Russian MIR payment system but TR banks are heavily tied
+to the Western system, one warning would put the fear of God in them,
+and change their mind. 
+
+---
+
+Hah, Russian Tuber fleed now in Turkoland - newest vid says "I'm now
+in Istanbul"
 
 ---
 
