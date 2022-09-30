@@ -163,18 +163,6 @@ the students we have, not the students they think we should have"
 
 ---
 
-His Russkie bank cards would not work for payment.. Much was made by
-extending the Russian MIR payment system but TR banks are heavily tied
-to the Western banks, one warning would put the fear of God in them,
-and change their mind.
-
----
-
-Hah, Russian Tuber fleed now in gobble gobble - newest vid says "I'm
-now in Istanbul"
-
----
-
 ## Reference
 
 [Nations and Nationalism, Culture, Narratives](2013/02/nations-and-nationalism.html)
