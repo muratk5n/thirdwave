@@ -2,9 +2,7 @@
 
 ```python
 import util as u
-# kama, qandil
-geo = [(36.087341966837975, 44.630878934403924),(36.5414427151871, 44.987436019006175)]
-u.sm_plot_kurd1(geo)
+u.sm_plot_ukr_alt1('ukrdata/alt1-0913.csv', [[48.590869037477354, 38.00222462226966]] )
 plt.savefig('/tmp/out1.png')
 ```
 

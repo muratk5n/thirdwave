@@ -37,6 +37,14 @@ def sm_plot_ukr_alt1(file,geo):
     sm.plot_line(df,color='red')
     df = np.array(pd.read_csv('ukrdata/donetsk.csv',header=None))
     sm.plot_line(df,color='pink')
+    plt.text(37,48,'Donetsk',color='gray')
+    df = np.array(pd.read_csv('ukrdata/kherson.csv',header=None))
+    sm.plot_line(df,color='pink')
+    plt.text(33,46.5,'Kherson',color='gray')
+    df = np.array(pd.read_csv('ukrdata/zaporizhia.csv',header=None))
+    sm.plot_line(df,color='pink')
+    plt.text(35,47,'Zaporizhia',color='gray')
+    plt.text(38.3,49,'Luhansk',color='gray')
     eps = -0.3
     for i,(lat,lon) in enumerate(geo):
         plt.text(lon+eps,lat+eps,i+1)
