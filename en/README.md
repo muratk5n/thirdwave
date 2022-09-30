@@ -92,12 +92,12 @@ days reflects its longstanding grievances"
 
 ---
 
-Col Douglas Macgregor: "Moscow’s determination to destroy Ukrainian
-forces at the least cost to Russian lives prevailed. Ukrainian
-casualties were always heavier than reported from the moment Russian
-troops crossed into Eastern Ukraine, but now, thanks to the recent
-failure of Ukrainian counterattacks in the Kherson region, they’ve
-reached horrific levels that are impossible to conceal...
+Col Macgregor: "Moscow’s determination to destroy Ukrainian forces at
+the least cost to Russian lives prevailed. Ukrainian casualties were
+always heavier than reported from the moment Russian troops crossed
+into Eastern Ukraine, but now, thanks to the recent failure of
+Ukrainian counterattacks in the Kherson region, they’ve reached
+horrific levels that are impossible to conceal...
 
 The recent Ukrainian advance to the town of Izium, the link between
 Donbas and Kharkiv, seemed like a gift to Kiev. U.S. satellite arrays
