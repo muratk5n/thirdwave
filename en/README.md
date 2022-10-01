@@ -102,7 +102,8 @@ These F-16 upgrades are a thang aren't they?
 
 US readies F-16 package to Pakistan and says "it is all
 counter-terrorism related". Indian FM was pissed says "you are not
-fooling anybody by saying these things".
+fooling anybody by saying these things" bcz obviously Pak's main
+rival in the region is India.
 
 ---
 
