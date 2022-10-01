@@ -171,7 +171,7 @@ def eq_at2(lat,lon,radius,ago):
     req = 'https://earthquake.usgs.gov/fdsnws'
     req+='/event/1/query.geojson?starttime=%s&endtime=%s'
     req+='&minlatitude=%d&maxlatitude=%d&minlongitude=%d&maxlongitude=%d'
-    req+='&minmagnitude=3.0&orderby=time&limit=3000'
+    req+='&minmagnitude=1.0&orderby=time&limit=3000'
     req = req % (start.isoformat(), today.isoformat(),miny,maxy,minx,maxx)
     qr = requests.get(req).json()
     res = []
