@@ -54,7 +54,6 @@ def sm_plot_ukr1(file,geo):
         plt.text(lon+eps,lat+eps,i+1)
         plt.plot(lon,lat,'go')
     
-
 def bp_hydro_elec_perc(country):
     fin = '../../2019/05/bp-stats-review-2022-consolidated-dataset-panel-format.csv'
     df = pd.read_csv(fin)
@@ -158,6 +157,37 @@ def elev_at(lat,lon):
     res = response.text
     return int(json.loads(res)[0])
 
+def eq_at2(lat,lon,radius,ago):
+
+    lat1,lon1 = to_bearing(lat,lon,np.deg2rad(45),radius)
+    lat2,lon2 = to_bearing(lat,lon,np.deg2rad(225),radius)
+    minx=np.min((lon1,lon2))
+    maxx=np.max((lon1,lon2))
+    miny=np.min((lat1,lat2))
+    maxy=np.max((lat1,lat2))
+    today = datetime.datetime.now()
+    start = today - datetime.timedelta(days=ago)
+
+    req = 'https://earthquake.usgs.gov/fdsnws'
+    req+='/event/1/query.geojson?starttime=%s&endtime=%s'
+    req+='&minlatitude=%d&maxlatitude=%d&minlongitude=%d&maxlongitude=%d'
+    req+='&minmagnitude=3.0&orderby=time&limit=3000'
+    req = req % (start.isoformat(), today.isoformat(),miny,maxy,minx,maxx)
+    qr = requests.get(req).json()
+    res = []
+    for i in range(len(qr['features'])):
+        lat = qr['features'][i]['geometry']['coordinates'][1]
+        lon = qr['features'][i]['geometry']['coordinates'][0]
+        d = datetime.datetime.fromtimestamp(qr['features'][i]['properties']['time']/1000.0)
+        s = np.float(qr['features'][i]['properties']['mag'])
+        sd = d.strftime("%Y-%m-%d %H:%M:%S")
+        res.append([sd,s,lat,lon])
+
+    df = pd.DataFrame(res).sort_values(by=0)
+    df.columns = ['date','mag','lat','lon']
+    df = df.set_index('date')    
+    return df
+
 def eq_at(lat,lon,radius=2000,ago=20):
     lat1,lon1 = to_bearing(lat,lon,np.deg2rad(45),radius)
     lat2,lon2 = to_bearing(lat,lon,np.deg2rad(225),radius)
@@ -168,7 +198,6 @@ def eq_at(lat,lon,radius=2000,ago=20):
     df = get_eq(minx,maxx,miny,maxy,days=ago)
     return df
     
-
 def get_eq(minx,maxx,miny,maxy,days,today = datetime.datetime.now()):    
     start = today - datetime.timedelta(days=days)
 
