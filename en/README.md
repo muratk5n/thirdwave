@@ -130,7 +130,7 @@ collapse them, will summarize "all paths".
 
 [That's true](https://pbs.twimg.com/media/Fd5CzwcXoAAJQSv?format=png&name=small).
 
-"Matrix multiplication corresponds to traveling along paths"
+"Matrix multiplication corresponds to traveling along paths [of graphs]"
 
 ---
 
