@@ -2,164 +2,140 @@
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/McPhyEnergy?ref_src=twsrc%5Etfw">@McPhyEnergy</a>&#39;s electrolyzer gigafactory plans have been boosted by €114m ($110m) from the French Government.<br><br>Find out more ⬇️ <a href="https://t.co/TmrYhOlN9K">https://t.co/TmrYhOlN9K</a></p>&mdash; Hydrogen Council (@HydrogenCouncil) <a href="https://twitter.com/HydrogenCouncil/status/1575414559862657025?ref_src=twsrc%5Etfw">September 29, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+WION: "Russia vetoes UN bid to condemn annexations of Ukrainian
+territory, India and China abstain"
 
 ---
 
-Senate Resolution 765 👍
-
-[PDF](https://www.congress.gov/117/bills/sres765/BILLS-117sres765is.pdf)
-
----
-
-Al Jazeera: "Russia to formally annex four occupied Ukrainian
-regions.. Donetsk, Luhansk, Kherson and Zaporizhia set to be
-incorporated into Russia at a ceremony in Moscow on Friday"
-
----
-
-Al Jazeera: "Nicaragua leader calls Catholic Church a
-‘dictatorship’.. Daniel Ortega describes priests as ‘killers’ and
-‘coup plotters’ in a speech, accusing the clergy of working on behalf
-of ‘American imperialism’"
-
----
-
-H2 Central: "Keir Starmer Promises Launch of State-Owned British Clean
-Energy Company, Eyeing Hydrogen"
-
----
-
-H2 Central: "Plastic Omnium announces construction of Europe largest
-hydrogen vessels factory in Compiègne. During her visit to Plastic
-Omnium’s α-Alphatech research and development center, Prime Minister
-Élisabeth Borne.. is announcing public funding to support the entire
-French hydrogen mobility value chain. Funding includes €74 million to
-support Plastic Omnium’s growth strategy for hydrogen mobility in
-France"
-
----
-
-H2 Central: "Posco, Apporium Team up to Produce Blue Hydrogen.. Under
-the agreement, the..  companies will invest a combined 200 billion won
-($139 million) by 2026 into establishing facilities for hydrogen
-production. The annual production capacity is expected to reach 40,000
-tons"
-
----
-
-Iran helps \#2 bombs \#1. Someone else might help \#1 bomb \#2. Both
-areas are Kurds in Kurdish governates in Iraq. Welcome to the Middle
-East.
-
----
-
-Iranian Kurd was probably like 'lemme move away from the Iranian
-border little bit so they don't invade my ass overnight' but Iran
-got'em anyway - with missiles.
-
----
-
-Pt \#2, Qandil, is where Anatolian Kurdish rebels live.. Rebels like
-the border areas don't they?
-
----
-
-Three Iraqi Kurdish governates in red. Iran hit pt \#1
+The four regions of Ukraine, I guess now of Russia, below. RU has more
+war to execute on two - Donetsk, and Zaporizhia. Not surprising heavy
+fighting has been going on in Bakhmut.
 
 ```python
-# kama, qandil
-geo = [(36.087341966, 44.630878934),(36.5414427, 44.987436019)]
-u.sm_plot_kurd1(geo)
+geo = [[48.590869037477354, 38.00222462226966]] 
+u.sm_plot_ukr1('ukrdata/alt1-0913.csv', geo)
 ```
 
-<img width="340" src="https://pbs.twimg.com/media/Fd07rFEaUAERyNK?format=png&name=small"/>
+[[-]](https://pbs.twimg.com/media/Fd8KtT5XgAAFlij?format=png&name=small)
 
 ---
 
-Iran strikes Kurds In Iraq.. Serious..
-
-Al Monitor: "Iran unleashed a wave of missiles and drones on the
-headquarters of three separate Iranian Kurdish opposition groups based
-in Iraqi Kurdistan [Kama] today"
+Methane gas leaks, errant viruses (still), wars that cannot be brought
+to an end - not looking too good for the humankind..
 
 ---
 
-NYT: "[09/25] The woman who died after being swept up by Iran’s
-notorious morality police was a member of Iran’s Kurdish minority,
-which has long suffered discrimination, and the group’s rage in recent
-days reflects its longstanding grievances"
+Haha
+
+"@KimmyMonte
+
+my glass coffin company 'remains to be seen' is not doing as well as i
+thought it would"
 
 ---
 
-Col Macgregor: "Moscow’s determination to destroy Ukrainian forces at
-the least cost to Russian lives prevailed. Ukrainian casualties were
-always heavier than reported from the moment Russian troops crossed
-into Eastern Ukraine, but now, thanks to the recent failure of
-Ukrainian counterattacks in the Kherson region, they’ve reached
-horrific levels that are impossible to conceal...
+"@Math_Professor
 
-The recent Ukrainian advance to the town of Izium, the link between
-Donbas and Kharkiv, seemed like a gift to Kiev. U.S. satellite arrays
-undoubtedly provided Ukrainians with a real-time picture of the area
-showing that Russian forces west of Izium numbered less than 2,000
-light troops (the equivalent of paramilitary police, e.g., SWAT and
-airborne infantry).
+[C]an also be used as an algorithm to convert any repeating decimal to
+a fraction.
 
-The Russian command opted to withdraw its small force from the area
-that is roughly 1 percent of formerly Ukrainian territory currently
-under Russian control. However, the price for Kiev’s propaganda
-victory was high—depending on the source, an estimated 5,000 to 10,000
-Ukrainian troops were killed or wounded in a flat, open area that
-Russian artillery, rockets, and air strikes turned into a killing
-field...
+E.g. if x=.121212…,
 
-Given Washington’s inability to end the war in Ukraine with the defeat
-of Russian arms, it seems certain that the Beltway will try instead to
-turn the ruins of the Ukrainian state into an open wound in Russia’s
-side that will never heal. From the beginning, the problem with this
-approach was that Russia always had the resources to dramatically
-escalate the fighting and end the fighting in Ukraine on very harsh
-terms. Escalation is now in progress.
+100x=12.121212…
 
-Washington always mistook Putin’s readiness to negotiate and limit the
-scope and destructiveness of the campaign in Ukraine as evidence of
-weakness, when it was clear that Putin’s aims were always restricted
-to the elimination of the NATO threat to Russia in Eastern Ukraine"
-
-[[-]](https://www.theamericanconservative.com/holding-ground-losing-war/)
+And x=12/99=4/33"
 
 ---
 
-The Guardian: "[A]t least 1,733 land and environmental defenders were
-murdered between 2012 and 2021, figures from Global Witness show, with
-Brazil, Colombia, the Philippines, Mexico and Honduras the deadliest
-countries"
+"@RalphCrutzen
+
+Let x = 0.9999...
+
+10x = 9.9999...
+
+10x - x = 9.9999... - 0.9999...
+
+9x = 9
+
+x = 1"
 
 ---
 
-Giorgia can say this or that now on Russia, maybe she'll play nice
-with anti-RU crowd. But they could just have the Salvini play the "bad
-guy". Then it will be oh well coalition partner is against, what can
-we do? Mamma mia!
+H2 View: "The State of West Virginia, US has revealed plans to develop
+a regional clean hydrogen hub in collaboration with gas producer EQT
+Corporation, Battelle, GTI Energy, and Allegheny Science & Technology
+(AST)...
+
+According to the collaboration, existing infrastructure for natural
+gas production and storage, existing pipelines and transportations,
+and proximity to end-user markets in the Midwest and Northeast, will
+come be used as significant resources for ARCH2.
+
+The announcement comes less than a week after the US Department of
+Energy (DOE) opened applications for its $7bn regional hydrogen hub
+funding programme which is set to fund six to 10 hubs across the US"
 
 ---
 
-Low temperature made Titanic's steel brittle, which causes cracks to
-form, the whole thing basically fractured \#MechanicsofMaterials 
+*Bullet Train* - fun movie. Five stars.
 
 ---
 
-"@LizWFab
-
-If you really wanna rile up older faculty, tell them we need to teach
-the students we have, not the students they think we should have"
+CNBC: "India's military relationship with Russia isn't going away
+it'll 'endure for decades,' [says Delhi-based think tank]"
 
 ---
 
-\#XKCD Not far off from the mainstream discussion on the subject.
+Bonds are the safest inv mech there is, the coupon payment at certain
+date is guaranteed but if one were to sell them early one is at the
+mercy of the recent price which apparently fell.
 
-[[-]](https://imgs.xkcd.com/comics/wing_lift.png)
+CNBC: "[BOE intervened in the bond market bcz of] panic among pension
+funds, with some of the bonds held within them losing around half
+their value in a matter of days"
+
+---
+
+These F-16 upgrades are a thang aren't they? 
+
+---
+
+US readies F-16 package to Pakistan and says "it is all
+counter-terrorism related". Indian FM was pissed says "you are not
+fooling anybody by saying these things".
+
+---
+
+At the mid level K could be thousands, D could be millions, for small
+M and N, you end up with a small M by N matrix.
+
+I bet some started to realize what this could be used for ;) Handle
+with care.
+
+---
+
+Can have probabilities on those transitions (see pic), and each cld
+represent a decision, each "type" of decision could be one level. Then
+example M by A in the beginning, leading to A by K, K by D, D by
+N... on and on, no matter how long the path is, simple multiplication
+will sum over all those paths you end up with likelihood of being at
+an N cell (decision) starting with an M starting point. 
+
+---
+
+What's more, the paths can be as long as possible, mat mult will
+collapse them, will summarize "all paths".
+
+---
+
+[That's true](https://pbs.twimg.com/media/Fd5CzwcXoAAJQSv?format=png&name=small).
+
+"Matrix multiplication corresponds to traveling along paths"
+
+---
+
+CNBC: "Russian pipeline leaks spark climate fears as huge volumes of
+methane spew into the atmosphere"
 
 ---
 
