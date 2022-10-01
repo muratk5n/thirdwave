@@ -109,17 +109,16 @@ fooling anybody by saying these things".
 At the mid level K could be thousands, D could be millions, for small
 M and N, you end up with a small M by N matrix.
 
-I bet some started to realize what this could be used for ;) Handle
-with care.
+I bet some started to realize what the approach could be used for ;) 
 
 ---
 
-Can have probabilities on those transitions (see pic), and each cld
-represent a decision, each "type" of decision could be one level. Then
-example M by A in the beginning, leading to A by K, K by D, D by
-N... on and on, no matter how long the path is, simple multiplication
-will sum over all those paths you end up with likelihood of being at
-an N cell (decision) starting with an M starting point. 
+Can have probabilities on those transitions, and each cld represent a
+decision, each "type" of decision could be one level. Then example M
+by A in the beginning, leading to A by K, K by D, D by N... on and on,
+no matter how long the path is, simple multiplication will sum over
+all those paths you end up with likelihood of being at an N cell
+(decision) starting with an M starting point.
 
 ---
 
