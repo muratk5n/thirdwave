@@ -16,7 +16,7 @@ will have a 497-mile operating range"
 Trees are either on public parks or private property - there'd be laws
 protecting both.. Imagine ppl being jailed bcz they need heating,
 triggering unrest.. Can communism arrive bcz of people trying to get
-warm?
+firewood.
 
 ---
 
