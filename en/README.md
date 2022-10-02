@@ -109,6 +109,11 @@ hand.. now a lot of govs around the world are going WTF?
 
 ---
 
+Washington Examiner: "'Irregular presence' of nuclear-capable Russian
+bombers detected [in Russian Olenya air base] near Finland"
+
+---
+
 Haha Spox Ned at State now says 'Pak F-16 refurb isn't terrorism
 related' bcz the T-word bothered India.
 
