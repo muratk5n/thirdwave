@@ -16,7 +16,7 @@ will have a 497-mile operating range"
 Trees are either on public parks or private property - there'd be laws
 protecting both.. Imagine ppl being jailed bcz they need heating,
 triggering unrest.. Can communism arrive bcz of people trying to get
-firewood.
+firewood?
 
 ---
 
@@ -109,13 +109,8 @@ their hand.. now a lot of govs around the world are going WTF?
 
 ---
 
-India may also have needed narrative cover for its abstaining at the
-UN vote so they uppeded the drama little.. 
-
----
-
 Haha Spox Ned at State now says 'Pak F-16 refurb isn't terrorism
-related'
+related' bcz the T-word bothered India.
 
 ---
 
