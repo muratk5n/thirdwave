@@ -77,13 +77,9 @@ bus to NE, I will send 10!".
 
 ---
 
-[Link](https://youtu.be/GLDvtpSC_98)
-
----
-
-But the expl wouldn't have to register to be effective. The carrier
-Ford stress test was 18 tons of TNT equivalent, that registered as 3.9
-mag Richter in the data. A lot of Beumb.
+Expl wouldn't have to register to be effective. The carrier Ford
+stress test was 18 tons of TNT equivalent, registered as 3.9 mag
+Richter. A lot of Beumb.
 
 ---
 
