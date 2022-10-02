@@ -76,40 +76,13 @@ bus to NE, I will send 10!".
 
 ---
 
-Math can deal with infinities but particles aren't infinite. There's
-just a lot of them. Dealing with infinitesimals help with certain
-stuff but they are by no means the true reflection of the underlying
-mechanics.  It's all an approximation at the end of the day. God does
-not need math, we do.
-
-"Math and physics work bcz both are based on the many small particles"
-
----
-
-"@quant_phys
-
-Everything in the future is a wave, everything in the past is a particle.
-
- — Lawrence Bragg"
-
----
-
-An ethnic minority becoming victim in a country "the Anglos" do not
-like.. is there a pattern here?
-
-"Suicide Blast at Kabul School Kills 19.. Male and female students were
-among the victims of the attack in a minority Hazara Shiite area of
-the city"
-
----
-
 [Link](https://youtu.be/GLDvtpSC_98)
 
 ---
 
 But the expl wouldn't have to register to be effective. The carrier
 Ford stress test was 18 tons of TNT equivalent, that registered as 3.9
-mag Richter in the data. That was a lot of Beumb.
+mag Richter in the data. A lot of Beumb.
 
 ---
 
