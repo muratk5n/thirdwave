@@ -2,140 +2,177 @@
 
 ---
 
-WION: "Russia vetoes UN bid to condemn annexations of Ukrainian
-territory, India and China abstain"
+H2 Fuel News: "Is hydrogen fuel the future of California trains? Upon
+the announcement of an order of up to 29 H2-powered trainsets, many
+wonder if the future is here... The intention is to use the trainsets
+to replace the existing state-funded Amtrac California diesel-powered
+locomotives that operate push-pull sets... They will be manufactured
+in Utah at Stadler’s Salt Lake City factory. The hydrogen fuel cells
+will be supplied by Canadian company Ballard. The H2-powered trains
+will have a 497-mile operating range"
 
 ---
 
-The four regions of Ukraine, I guess now of Russia, below. RU has more
-war to execute on two - Donetsk, and Zaporizhia. Not surprising heavy
-fighting has been going on in Bakhmut.
+Trees are either on public parks or private property - there'd be laws
+protecting both.. Imagine ppl being jailed bcz they need heating,
+triggering unrest.. Can communism arrive bcz of people trying to get
+warm?
+
+---
+
+"Rangers fear Swiss forests could be targeted for firewood amid energy
+crisis"
+
+---
+
+Foraging for heating.. 
+
+"Poland encourages people to collect firewood in forests amid soaring energy costs"
+
+---
+
+UKR NATO talk is conversation filler, to give impression "we're doing
+something after their did something". We already know it ain't gonna
+happen, didn't happen in 2014, nor 2021. My native country is in NATO
+letting Ukraine would mean I would be at war with Russia. Do I want to
+be at war with Russia? Hell f-ing No.
+
+---
+
+*Dead for a Dollar* - average Western but okay.. Wanna see a duel
+between W. Dafoe and Ch Waltz? Then this is your movie.
+
+---
+
+\#Israel \#Apartheid 
+
+[[-]](https://youtu.be/3a7d4Qa8M6I?t=390)
+
+---
+
+"Jewish Journalist Fired by The Hill After Defending Rep. Tlaib’s
+‘Apartheid Israel’ Claim'
+
+---
+
+Grim: "Host Katie Halper recorded a segment defending Tlaib’s accurate
+portrayal of Israel’s government, but Hill TV’s owners refused to run
+it."
+
+[[-]](https://theintercept.com/2022/09/29/hill-tv-israel-apartheid-rashida-tlaib-censorship/)
+
+---
+
+"@ReutersScience
+
+Nord Stream rupture may mark biggest single methane release ever recorded, U.N. says"
+
+---
+
+Beto did ok on gov debate; but staying away from culture war would be
+better, circling back everything to econ. Sounded soft immigration
+(can be tied to econ) - the line should've been "Abbott is sending one
+bus to NE, I will send 10!".
+
+---
+
+Math can deal with infinities but particles aren't infinite. There's
+just a lot of them. Dealing with infinitesimals help with certain
+stuff but they are by no means the true reflection of the underlying
+mechanics.  It's all an approximation at the end of the day. God does
+not need math, we do.
+
+"Math and physics work bcz both are based on the many small particles"
+
+---
+
+"@quant_phys
+
+Everything in the future is a wave, everything in the past is a particle.
+
+ — Lawrence Bragg"
+
+---
+
+An ethnic minority becoming victim in a country "the Anglos" do not
+like.. is there a pattern here?
+
+"Suicide Blast at Kabul School Kills 19.. Male and female students were
+among the victims of the attack in a minority Hazara Shiite area of
+the city"
+
+---
+
+[Link](https://youtu.be/GLDvtpSC_98)
+
+---
+
+But the expl wouldn't have to register to be effective. The carrier
+Ford stress test was 18 tons of TNT equivalent, that registered as 3.9
+mag Richter in the data. That was a lot of Beumb.
+
+---
+
+Seismic data from around the Baltic region in the past 600 days. No
+activity around Sep 26th when the Nordstream sabotage happened.
 
 ```python
-geo = [[48.590869037477354, 38.00222462226966]] 
-u.sm_plot_ukr1('ukrdata/alt1-0913.csv', geo)
+u.eq_at2(54.9701674206043, 14.933270115918607, radius=500, ago=600).tail(4)
 ```
 
-[[-]](https://pbs.twimg.com/media/Fd8KtT5XgAAFlij?format=png&name=small)
+```text
+Out[1]: 
+                     mag      lat      lon
+date                                      
+2022-04-07 19:58:46  4.7  51.4991  16.0769
+2022-04-27 21:53:26  4.4  51.4957  16.1715
+2022-05-03 18:24:01  4.1  51.4647  16.1444
+2022-09-14 08:47:20  4.3  51.5993  16.2008
+```
 
 ---
 
-Methane gas leaks, errant viruses (still), wars that cannot be brought
-to an end - not looking too good for the humankind..
+Before the NS sabotage there was talk in Germany to just turn on
+Nordstreams damn the consequences - clearly "some people" didn't want
+this issue even discussed as an option. But IMO the perps overplayed
+their hand.. now a lot of govs around the world are going WTF? 
 
 ---
 
-Haha
-
-"@KimmyMonte
-
-my glass coffin company 'remains to be seen' is not doing as well as i
-thought it would"
+India may also have needed narrative cover for its abstaining at the
+UN vote so they uppeded the drama little.. 
 
 ---
 
-"@Math_Professor
-
-[C]an also be used as an algorithm to convert any repeating decimal to
-a fraction.
-
-E.g. if x=.121212…,
-
-100x=12.121212…
-
-And x=12/99=4/33"
+Haha Spox Ned at State now says 'Pak F-16 refurb isn't terrorism
+related'
 
 ---
 
-"@RalphCrutzen
+The magic.. I see
 
-Let x = 0.9999...
-
-10x = 9.9999...
-
-10x - x = 9.9999... - 0.9999...
-
-9x = 9
-
-x = 1"
+"The magic seems to be in the algorithm. Unlike other networks, TikTok
+shows you more content based on what's popular and what you're most
+interested in, downplaying the accounts you follow. Networks like
+Facebook or Instagram show you content based on the accounts you
+follow"
 
 ---
 
-H2 View: "The State of West Virginia, US has revealed plans to develop
-a regional clean hydrogen hub in collaboration with gas producer EQT
-Corporation, Battelle, GTI Energy, and Allegheny Science & Technology
-(AST)...
+Same for 2022 by Platform, from May
 
-According to the collaboration, existing infrastructure for natural
-gas production and storage, existing pipelines and transportations,
-and proximity to end-user markets in the Midwest and Northeast, will
-come be used as significant resources for ARCH2.
-
-The announcement comes less than a week after the US Department of
-Energy (DOE) opened applications for its $7bn regional hydrogen hub
-funding programme which is set to fund six to 10 hubs across the US"
+[[-]](https://pbs.twimg.com/media/Fd96aptWAAE0rbc?format=jpg&name=small)
 
 ---
 
-*Bullet Train* - fun movie. Five stars.
+Avg Monthly Hours Spent Per User Per Soc Media 
+
+[[-]](https://pbs.twimg.com/media/Fd96UyCX0AA3doX?format=jpg&name=small)
 
 ---
 
-CNBC: "India's military relationship with Russia isn't going away
-it'll 'endure for decades,' [says Delhi-based think tank]"
-
----
-
-Bonds are the safest inv mech there is, the coupon payment at certain
-date is guaranteed but if one were to sell them early one is at the
-mercy of the recent price which apparently fell.
-
-CNBC: "[BOE intervened in the bond market bcz of] panic among pension
-funds, with some of the bonds held within them losing around half
-their value in a matter of days"
-
----
-
-These F-16 upgrades are a thang aren't they? 
-
----
-
-US readies F-16 package to Pakistan and says "it is all
-counter-terrorism related". Indian FM was pissed says "you are not
-fooling anybody by saying these things" bcz obviously Pak's main
-rival in the region is India.
-
----
-
-At the mid level K could be thousands, D could be millions, for small
-M and N, you end up with a small M by N matrix.
-
-I bet some started to realize what the approach could be used for ;) 
-
----
-
-Can have probabilities on those transitions, and each cld represent a
-decision, each "type" of decision could be one level. Then example M
-by A in the beginning, leading to A by K, K by D, D by N... on and on,
-no matter how long the path is, simple multiplication will sum over
-all those paths you end up with likelihood of being at an N cell
-(decision) starting with an M starting point.
-
----
-
-What's more, the paths can be as long as possible, mat mult will
-collapse them, will summarize "all paths".
-
----
-
-[That's true](https://pbs.twimg.com/media/Fd5CzwcXoAAJQSv?format=png&name=small).
-
-"Matrix multiplication corresponds to traveling along paths [of graphs]"
-
----
-
-CNBC: "Russian pipeline leaks spark climate fears as huge volumes of
-methane spew into the atmosphere"
+CNBC: "Facebook scrambles to escape stock's death spiral as users
+flee, sales drop"
 
 ---
 
