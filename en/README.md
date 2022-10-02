@@ -87,7 +87,7 @@ Recent seismic data from around the Baltic region. No activity around
 Sep 26th when the Nordstream sabotage happened.
 
 ```python
-u.eq_at2(54.9701674206043, 14.933270115918607, radius=500, ago=600).tail(4)
+u.eq_at2(54.9701674206043, 14.933270115918607, radius=500, ago=300).tail(4)
 ```
 
 ```text
