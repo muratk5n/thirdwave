@@ -40,7 +40,7 @@ the city"
 
 ---
 
-*Dead for a Dollar* - average Western but okay.. Wanna see a duel
+*Dead for a Dollar* - average Western but okay.. Want to see a duel
 between W. Dafoe and Ch Waltz? Then this is your movie.
 
 ---
