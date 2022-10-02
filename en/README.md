@@ -113,8 +113,8 @@ mag Richter in the data. That was a lot of Beumb.
 
 ---
 
-Seismic data from around the Baltic region in the past 600 days. No
-activity around Sep 26th when the Nordstream sabotage happened.
+Recent seismic data from around the Baltic region. No activity around
+Sep 26th when the Nordstream sabotage happened.
 
 ```python
 u.eq_at2(54.9701674206043, 14.933270115918607, radius=500, ago=600).tail(4)
