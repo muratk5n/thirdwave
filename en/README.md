@@ -102,10 +102,10 @@ date
 
 ---
 
-Before the NS sabotage there was talk in Germany to just turn on
-Nordstreams damn the consequences - clearly "some people" didn't want
-this issue even discussed as an option. But IMO the perps overplayed
-their hand.. now a lot of govs around the world are going WTF?
+Before the NS sabotage there was talk in Germany to just turn on NS2
+damn the consequences - clearly "some people" didn't want this issue
+even discussed as an option. But IMO the perps overplayed their
+hand.. now a lot of govs around the world are going WTF?
 
 ---
 
