@@ -31,11 +31,12 @@ Foraging for heating..
 
 ---
 
-UKR NATO talk is conversation filler, to give impression "we're doing
-something after their did something". We already know it ain't gonna
-happen, didn't happen in 2014, nor 2021. My native country is in NATO
-letting Ukraine would mean I would be at war with Russia. Do I want to
-be at war with Russia? Hell f-ing No.
+An ethnic minority becoming victim in a country "the Anglos" do not
+like.. is there a pattern here?
+
+"Suicide Blast at Kabul School Kills 19.. Male and female students were
+among the victims of the attack in a minority Hazara Shiite area of
+the city"
 
 ---
 
