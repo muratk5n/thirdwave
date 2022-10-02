@@ -32,7 +32,7 @@ Foraging for heating.. Wow
 ---
 
 An ethnic minority becoming victim in a country "the Anglos" do not
-like.. is there a pattern here?
+like.. First IRN now AFG.. Is there a pattern here?
 
 "Suicide Blast at Kabul School Kills 19.. Male and female students were
 among the victims of the attack in a minority Hazara Shiite area of
