@@ -25,7 +25,7 @@ crisis"
 
 ---
 
-Foraging for heating.. 
+Foraging for heating.. Wow
 
 "Poland encourages people to collect firewood in forests amid soaring energy costs"
 
