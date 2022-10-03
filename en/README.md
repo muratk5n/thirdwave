@@ -55,9 +55,9 @@ Everything in the future is a wave, everything in the past is a particle.
 
 ---
 
-But the nepotism charge is warranted; the familial relation puts you
-further ahead among advisers, they're supposed to be equals but
-the relative becomes more equal among equals. I dont think that's good.
+The nepotism charge is warranted; the familial relation puts you
+further ahead among advisers, they're supposed to be equals but the
+relative becomes more equal among equals. I dont think that's good.
 
 ---
 
