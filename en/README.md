@@ -29,13 +29,6 @@ a run-off on 30 October"
 
 ---
 
-Python code for the *Limits of Growth* World3 model - the one that
-predicts societal collapse
-
-[[-]](https://github.com/cvanwynsberghe/pyworld3)
-
----
-
 TASS: "NATO Secretary Jens Stoltenberg once again avoided giving an
 unambiguous answer if the accelerated admission procedure for Ukraine
 is possible and if the alliance is ready to accept Ukraine as its
