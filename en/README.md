@@ -23,6 +23,12 @@ it."
 
 ---
 
+The Independent: "Brazil election: Jair Bolsonaro trails left-wing
+former president Lula in first round.. Lula and Bolsonaro will head to
+a run-off on 30 October"
+
+---
+
 Python code for the Limits of Growth World3 model - the one that
 predicts societal collapse
 
