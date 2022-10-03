@@ -107,6 +107,10 @@ Kush wrote a book? U wrote a book Kuusshhhhhhh?
 
 ---
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Good luck to my friend and comrade <a href="https://twitter.com/LulaOficial?ref_src=twsrc%5Etfw">@LulaOficial</a> for tonight’s election in Brasil.<br><br>Your campaign breathes fresh hope into the global struggle for democracy, equality and humanity.<br><br>A victory for Lula will be a victory for us all. Viva Brasil! Viva Lula! <a href="https://t.co/8s4Vod35Ed">pic.twitter.com/8s4Vod35Ed</a></p>&mdash; Jeremy Corbyn (@jeremycorbyn) <a href="https://twitter.com/jeremycorbyn/status/1576640091706953728?ref_src=twsrc%5Etfw">October 2, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 ## Reference
 
 [Nations and Nationalism, Culture, Narratives](2013/02/nations-and-nationalism.html)
