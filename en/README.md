@@ -24,7 +24,7 @@ it."
 ---
 
 Python code for the Limits of Growth World3 model - the one that
-predicts catastrophy
+predicts societal collapse
 
 [[-]](https://github.com/cvanwynsberghe/pyworld3)
 
