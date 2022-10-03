@@ -29,7 +29,7 @@ a run-off on 30 October"
 
 ---
 
-Python code for the Limits of Growth World3 model - the one that
+Python code for the *Limits of Growth* World3 model - the one that
 predicts societal collapse
 
 [[-]](https://github.com/cvanwynsberghe/pyworld3)
