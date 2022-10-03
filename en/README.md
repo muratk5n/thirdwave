@@ -46,7 +46,7 @@ member"
 Math can deal with infinities but particles aren't infinite. There's
 just a lot of them. Dealing with infinitesimals help with certain
 stuff but they are by no means the true reflection of the underlying
-mechanics.  It's all an approximation at the end. God does not need
+mechanics.  It's all an approximation in the end. God does not need
 math.
 
 "Math and physics work bcz both are based on the many small particles"
