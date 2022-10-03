@@ -23,14 +23,6 @@ it."
 
 ---
 
-There's been high-level foreign dign visits to Odesa. I believe most
-expect after Donbas the south can be next and Ukraine runs the risk of
-being landlocked from there. This is actually the perfect time to
-think about a deal - RU made it clear what they want in the east, if
-they have it without war, can SW UA be spared further conflict?
-
----
-
 Python code for the Limits of Growth World3 model - the one that
 predicts catastrophy
 
