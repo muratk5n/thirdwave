@@ -53,7 +53,7 @@ environmental and health problems"
 
 Do they *have* to flare?
 
-"Nigeria has said its plan to commercialise gas burned (flaring) from
+"Nigeria has said its plan to commercialise gas burned [flaring] from
 its oilfields"
 
 ---
