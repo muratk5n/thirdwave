@@ -119,7 +119,7 @@ lower taxes causing more inflation (risk for bondholders). Keeping
 things calm, talking about balanced budgets (not that it directly
 effects inflation) could also be conservative.. Sunak was actually
 taking that line during the leadership race, but could not sell it.
-As long they do it the "right" way not some centrist cuck way, it's
+As long Tories follow the "right" way not some centrist cuck way, it's
 fine.
 
 Reuters: "Truss forced into U-turn on tax after week of market
