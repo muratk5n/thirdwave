@@ -117,7 +117,8 @@ H2 View: "Petronas and Japan Bank explore hydrogen, ammonia and CCUS opportuniti
 The market must have been spooked by econ possibly heating up due to
 lower taxes causing more inflation (risk for bondholders). Keeping
 things calm, talking about balanced budgets (not that it directly
-effects inflation) is also conservative.. 
+effects inflation) could also be conservative.. Sunak was actually
+taking that line during the leadership race, but could not sell it.
 
 Reuters: "Truss forced into U-turn on tax after week of market
 turmoil.. reversing a cut to the highest rate of income tax"
