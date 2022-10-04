@@ -78,13 +78,13 @@ countries it could be a half-way house EU.. France always wants to do
 something on its own.. what happened to the Mediterrenian Union? But
 EPC could be a good thing
 
-"UK Prime Minister Liz Truss's decision to join the inaugural summit
-of [France's European Political Community] this week has given a boost
-to the initiative.. A key aim for Macron is to embrace EU candidate
-countries that are losing patience waiting for membership of the
-bloc..  'One of the points is to be able to tell Kosovo and Albania we
-can do things with them, and they don't have to rely only on Russia
-and China for investment,' a French official said"
+Reuters: "UK Prime Minister Liz Truss's decision to join the inaugural
+summit of [France's European Political Community] this week has given
+a boost to the initiative.. A key aim for Macron is to embrace EU
+candidate countries that are losing patience waiting for membership of
+the bloc..  'One of the points is to be able to tell Kosovo and
+Albania we can do things with them, and they don't have to rely only
+on Russia and China for investment,' a French official said"
 
 ---
 
