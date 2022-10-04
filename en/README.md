@@ -73,10 +73,10 @@ jet engine development to meet its 2050 targets"
 
 ---
 
-For Brits EPC could be a backdoor Bremain (or Breturn)?  For candidate
-countries it could be a half-way house EU.. France always wants to do
-something on its own.. what happened to the Mediterrenian Union? But
-EPC could be a good thing
+Could EPC serve as a backdoor Bremain (or Breturn) for Brits? For
+candidate countries it could be a half-way house EU.. France always
+wants to do something on its own.. what happened to the Mediterrenian
+Union? But EPC could be a good thing..
 
 Reuters: "UK Prime Minister Liz Truss's decision to join the inaugural
 summit of [France's European Political Community] this week has given
@@ -119,6 +119,8 @@ lower taxes causing more inflation (risk for bondholders). Keeping
 things calm, talking about balanced budgets (not that it directly
 effects inflation) could also be conservative.. Sunak was actually
 taking that line during the leadership race, but could not sell it.
+As long they do it the "right" way not some centrist cuck way, it's
+fine.
 
 Reuters: "Truss forced into U-turn on tax after week of market
 turmoil.. reversing a cut to the highest rate of income tax"
