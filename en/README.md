@@ -130,8 +130,7 @@ turmoil.. reversing a cut to the highest rate of income tax"
 Conflicting reports. Will revisit map.
 
 TASS: "Ukrainian troops attempted to break through Kherson Region
-defenses from three directions but their attempts from two sides were
-thwarted"
+defenses from three directions but their attempts.. were thwarted"
 
 ---
 
