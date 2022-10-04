@@ -136,7 +136,8 @@ defenses from three directions but their attempts.. were thwarted"
 
 Some advances on UA side.. Lyman is retaken (at what cost?), an
 advance in Kherson even (pt \#3, old frontline is gray). Losing \#1
-will be a huge problem and that is likely. 
+will be a huge problem and that is likely. For Ukraine it's too early
+to celebrate, RU just announced its reinforcements. 
 
 ```python
 # lyman, bakhmut, ukrainka
