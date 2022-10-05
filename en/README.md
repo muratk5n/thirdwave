@@ -102,6 +102,7 @@ Oh yeaaa
 
 ```python
 import re, urllib.request as r
+
 url = "https://morningconsult.com/global-leader-approval"
 c = r.urlopen(url).read().decode('utf-8')
 regex = 'span class="bar__name">(.*?)</span>.*?NET(.*?)</span>'
