@@ -51,7 +51,8 @@ signed a #hydrogen partnership with Germany"
 Ever heard gas pipelines requiring this much repair after every major
 weather event?
 
-"FEMA: cost of repairing Puerto Rico power grid will reach billions"
+"FEMA: cost of repairing Puerto Rico power grid [after Ian] will reach
+billions"
 
 ---
 
@@ -139,7 +140,7 @@ Out[1]:
 
 ---
 
-Global leader approvals.. Morning Consult has a page on that.
+Global leader approvals.. Morning Consult has a page on it.
 
 Let's scrape dat...
 
