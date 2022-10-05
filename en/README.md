@@ -63,7 +63,7 @@ weather event?
 
 ---
 
-Asia Minor e-market site has 1 kg of mackarel 5 USD. Feastin time for homie..
+Asia Minor e-market site has 1 kg of mackarel 5 USD. 
 
 ---
 
@@ -97,8 +97,6 @@ Forget about TSMC it's all about ASML?
 AMLO, Modi are doing very well..
 
 ---
-
-Let's scrape dat shite...
 
 Oh yeaaa
 
@@ -140,6 +138,8 @@ Out[1]:
 ---
 
 Global leader approvals.. Morning Consult has a page on that.
+
+Let's scrape dat shite...
 
 ---
 
