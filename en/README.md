@@ -179,15 +179,6 @@ for the 1.1 million ton per annum blue ammonia plant"
 
 ---
 
-H2 Central: "Ohmium and Amp Energy India Collaborate on 400MW of Green Hydrogen"
-
----
-
-H2 Central: "EG Group Invests £25 Million into Scottish Hydrogen Truck
-Firm Hydrogen Vehicle Systems (HVS)"
-
----
-
 ## Reference
 
 [Nations and Nationalism, Culture, Narratives](2013/02/nations-and-nationalism.html)
