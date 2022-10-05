@@ -63,7 +63,7 @@ weather event?
 
 ---
 
-Asia Minor e-market site has 1 kg of mackarel 5 USD. 
+Asia Minor e-market site has 1 kg of mackarel for 5 USD. Not bad homie..
 
 ---
 
