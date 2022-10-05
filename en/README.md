@@ -63,7 +63,7 @@ weather event?
 
 ---
 
-Asia Minor e-market site has 1 kg of mackarel 5 USD. Eat'em up homie..
+Asia Minor e-market site has 1 kg of mackarel 5 USD. Feastin time for homie..
 
 ---
 
