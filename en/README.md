@@ -140,7 +140,7 @@ Out[1]:
 
 Global leader approvals.. Morning Consult has a page on that.
 
-Let's scrape dat shite...
+Let's scrape dat...
 
 ---
 
