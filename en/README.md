@@ -48,8 +48,8 @@ signed a #hydrogen partnership with Germany"
 
 ---
 
-Ever heard gas pipelines requiring this much repair after every
-climate event? 
+Ever heard gas pipelines requiring this much repair after every major
+weather event?
 
 "FEMA: cost of repairing Puerto Rico power grid will reach billions"
 
@@ -63,8 +63,7 @@ climate event?
 
 ---
 
-Asia Minor e-market site has 1 kg of mackarel 5 USD
-homie.
+Asia Minor e-market site has 1 kg of mackarel 5 USD. Eat'em up homie..
 
 ---
 
