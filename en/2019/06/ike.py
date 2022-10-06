@@ -3,15 +3,27 @@ import numpy as np
 from netCDF4 import Dataset, num2date
 from scipy.ndimage import gaussian_filter
 from siphon.catalog import TDSCatalog
-import mygeo
+import numpy as np, numpy.linalg as lin, math
+
+def to_bearing(lat,lon,brng,d):
+    R = 6378.1 #Radius of the Earth
+    lat1 = math.radians(lat)
+    lon1 = math.radians(lon)
+    lat2 = math.asin( math.sin(lat1)*math.cos(d/R) +
+         math.cos(lat1)*math.sin(d/R)*math.cos(brng))
+    lon2 = lon1 + math.atan2(math.sin(brng)*math.sin(d/R)*math.cos(lat1),
+                 math.cos(d/R)-math.sin(lat1)*math.sin(lat2))
+    lat2 = math.degrees(lat2)
+    lon2 = math.degrees(lon2)
+    return lat2,lon2
 
 def ike(lat,lon,day,month,year,hour):
 
     # form grid which has NE, and SW cornes brg kilometers away
     # from center lat,lon
     brg = 1000
-    upper_right = mygeo.to_bearing(lat,lon,np.deg2rad(45),brg)
-    lower_left = mygeo.to_bearing(lat,lon,np.deg2rad(225),brg)
+    upper_right = to_bearing(lat,lon,np.deg2rad(45),brg)
+    lower_left = to_bearing(lat,lon,np.deg2rad(225),brg)
 
     north = int(upper_right[0])
     south = int(lower_left[0])

@@ -22,8 +22,7 @@ Hurricane Katrina
 
 ```python
 import ike
-lat=25;lon=-90
-year = 2005;month = 8;day = 30; hour = 10
+lat=25;lon=-90; year = 2005;month = 8;day = 30; hour = 10
 print (ike.ike(lat,lon,day,month,year,hour), 'TJ')
 ```
 
@@ -34,9 +33,7 @@ print (ike.ike(lat,lon,day,month,year,hour), 'TJ')
 Hurricane Sandy
 
 ```python
-import ike
-lat=39;lon=-74
-year = 2012; month = 10; day = 29; hour = 13
+lat=39;lon=-74; year = 2012; month = 10; day = 29; hour = 13
 print (ike.ike(lat,lon,day,month,year,hour), 'TJ')
 ```
 
@@ -47,8 +44,7 @@ print (ike.ike(lat,lon,day,month,year,hour), 'TJ')
 Hurricane Ivan
 
 ```python
-lat,lon = 30.302, -87.751
-year = 2004; month = 9; day = 16; hour = 10
+lat,lon = 30.302, -87.751; year = 2004; month = 9; day = 16; hour = 10
 print (ike.ike(lat,lon,day,month,year,hour), 'TJ')
 ```
 
