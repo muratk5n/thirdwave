@@ -78,7 +78,7 @@ Russian gas flows to Italy via Austria are resuming, Gazprom says"
 
 That's even worse. At least as centrist I know X is a cuck. If
 pragmatist, X is cuck, sometimes not a cuck.. A bi-cuck? What is going
-on? It's confusing..
+on here? It's confusing..
 
 "Person X is actually a pragmatist not a centrist"
 
