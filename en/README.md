@@ -65,7 +65,7 @@ Defense, for Accelerating Advanced PEM Electrolyser Stack Development"
 
 Al Jazeera: "Vietnam eyes China’s tech crown as firms tire of ‘zero
 COVID’.. Apple, Google, and Samsung are among the tech giants
-expanding operations in the fast-growing Southeast Asian country"
+expanding operations [there]"
 
 ---
 
