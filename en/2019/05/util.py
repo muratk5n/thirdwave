@@ -1,10 +1,10 @@
-from pandas_datareader import data, wb, re
+from pandas_datareader import data, wb
 import datetime, time as timelib
 import urllib.request as urllib2
 import pandas as pd, requests, datetime
 from io import BytesIO
 from datetime import date
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt, re
 from pygeodesy import parse3llh, fstr
 
 def geoname(keyword, ccode):

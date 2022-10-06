@@ -16,6 +16,12 @@ WION: "Colorado baker fights ruling over gender transition cake"
 
 ---
 
+US gasoline prices are unchanged - for now.
+
+[[-]](2019/05/energstats.html#usgasoline)
+
+---
+
 CNBC: "OPEC+ to cut oil production by 2 million barrels per day to
 shore up prices, defying U.S. pressure"
 

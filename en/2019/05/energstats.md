@@ -3,6 +3,7 @@
 ### Oil Price (Futures, Continuous Contract, Front Month)
 
 ```python
+import pandas as pd
 import util as u
 ```
 
@@ -77,7 +78,6 @@ Data from [BP](https://www.bp.com/en/global/corporate/energy-economics/statistic
 Unit is billion barrels. 
 
 ```python
-import pandas as pd
 fbp = 'bp-stats-review-2022-consolidated-dataset-panel-format.csv'
 df = pd.read_csv(fbp)
 df = df[df.Country == 'Total World']
@@ -135,7 +135,6 @@ kbd Thousand of Barrels Per Day
 Ej = Exajoules = 277.778 TWh
 
 ```python
-import pandas as pd
 pd.set_option('display.max_columns', None)
 fbp = 'bp-stats-review-2022-consolidated-dataset-panel-format.csv'
 df = pd.read_csv(fbp)
@@ -201,7 +200,6 @@ non-fossil power generation is accounted for on an input-equivalent
 basis".
 
 ```python
-import pandas as pd
 df = pd.read_csv(fbp)
 df = df[df.Country == 'Total World']
 df = df.set_index('Year')
@@ -231,7 +229,6 @@ For 2021. Units are Gigawatts (not GWh or TWh, shows the necessary
 power input required at each instant).
 
 ```python
-import pandas as pd
 df = pd.read_csv('bp-stats-review-2022-consolidated-dataset-panel-format.csv')
 year = df.Year.max()
 df = df[df.Year == year]
@@ -275,8 +272,6 @@ Name: primary_twh, dtype: int64
 ### US Retail Gasoline Prices
 
 ```python
-import pandas as pd
-    
 df = u.get_eia_week("PET.EMM_EPM0_PTE_NUS_DPG.W")
 print (df.tail(4))
 ```
@@ -284,10 +279,10 @@ print (df.tail(4))
 ```text
             Value
 Date             
-2022-08-08  4.151
-2022-08-15  4.051
-2022-08-22  3.993
-2022-08-29  3.938
+2022-09-12  3.805
+2022-09-19  3.771
+2022-09-26  3.832
+2022-10-03  3.909
 ```
 
 <a name='gasolineState'/>
@@ -295,8 +290,6 @@ Date
 ### US Retail Gasoline Prices per State
 
 ```python
-import pandas as pd
-
 states = \
 [("PET.EMM_EPM0_PTE_SCA_DPG.M","CA"),
  ("PET.EMM_EPM0_PTE_STX_DPG.M","TX"),
@@ -309,10 +302,10 @@ print (dfs)
 
 ```text
   state  price
-0    CA  5.333
-1    TX  3.535
-2    FL  3.722
-3    NY  4.276
+0    CA  5.375
+1    TX  3.194
+2    FL  3.473
+3    NY  3.794
 ```
 
 <a name='lng'/>
@@ -322,7 +315,6 @@ print (dfs)
 In billion cubic meters 
 
 ```python
-import pandas as pd
 df = pd.read_csv('lng.csv',sep=';',index_col=0)
 df.plot(); plt.savefig('lng.png')
 ```
