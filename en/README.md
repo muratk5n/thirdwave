@@ -16,7 +16,8 @@ WION: "Colorado baker fights ruling over gender transition cake"
 
 ---
 
-CNBC: "OPEC+ to cut oil production by 2 million barrels per day to shore up prices"
+CNBC: "OPEC+ to cut oil production by 2 million barrels per day to
+shore up prices, defying U.S. pressure"
 
 ---
 
