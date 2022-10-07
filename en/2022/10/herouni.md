@@ -13,14 +13,14 @@ been Relict radiation of 2,7 K.  If it is right, then our measured
 noises near Zenith had to be 2,6+2,7=5,3K.  But they are absent. It is
 also impossible that our 2,6 K is 2,7 K of Relict. Because it will be
 only in case, if our Antenna is ideal and its Self Noises are equal 0
-o K.  But it is impossible on Earth.  So there is only one
-explanation, that Relict radiation is absent in Universe, and it is
-that there never was any Big Bang in Universe.
+K.  But it is impossible on Earth. So there is only one explanation,
+that Relict radiation is absent in Universe, and.. there never was any
+Big Bang in Universe.
 
 [Paper](https://drive.google.com/uc?export=view&id=16LCitZcCeddAAyuVILc8qxHo7g7dL5X9)
 
-The main purpose of this article is to concentrate on (to turn
-attention to) the very low level of Self Noises of ROT Antenna...
+The main purpose of this article is to concentrate on.. the very low
+level of Self Noises of ROT Antenna...
 
 This very low level of our measured self noises of ROT Antenna rises
 the query to well known cosmogonic theory of “Big Bang”. According to
@@ -42,3 +42,4 @@ known “red shift”.
 References
 
 [1] [Journal Archives, 1999, June, Vol 2 No 2](http://jae.ece.ntua.gr/archive/archive_index.html#ID1999-)
+
