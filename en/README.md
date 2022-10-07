@@ -67,7 +67,7 @@ Mustache is like, the Iraq War, that old chesnut.. I'm so over that
 
 Aw slam
 
-<iframe width="340" src="https://www.youtube.com/embed/8CAwDuVUOJI?start=291&end=334" title=""He's Suffering Profoundly!" Wife of WikiLeaks' Julian Assange Calls For His Release" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="340" src="https://www.youtube.com/embed/8CAwDuVUOJI?start=291&end=334"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
