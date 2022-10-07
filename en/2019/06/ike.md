@@ -1,5 +1,36 @@
 # Hurricanes, Integrated Kinetic Energy
 
+In the western hemisphere, hurricanes are all rated on the
+Saffir-Simpson scale..  To compute a storm's category rating, you have
+to measure the highest speed sustained by a gust of wind for an entire
+minute.. Based on how large this maximum speed is, a storm is assigned
+to one of five different categories [1].
+
+The problem with this number is that it only captures one aspect of a
+storm's intensity - the highest speed that it can sustain. Not only is
+it tricky to measure this peak speed, but different organizations may
+come to different conclusions about it, depending on their coverage of
+the wind data. This number doesn't tell you anything about the size of
+the storm, nor about how the wind-speeds are distributed overall.
+
+Consider a tale of two storms - the first is fierce but more
+contained, whereas the second is larger, and though it has lower peak
+wind speed, these wind speeds are spread over a larger area. The SS
+scale would give the first storm a higher score, even though the
+latter may be more destructive. Based on the rating, people might have
+expected Katrina to be about as destructive as Camille...
+
+Integrated Kinetic Energy
+
+We can get a sense of a storms' strength with a little bit of high
+school physics. You might remember that every object in motion carries
+a certain amount of energy, known as its kinetic energy. The kinetic
+energy of an object depends on the square of its speed, and is
+directly proportional to the mass of the object..
+
+Well, think of a storm as being built out of moving parcels of
+air. Each of these parcels has a certain amount of kinetic energy.
+
 IKE is calculated as
 
 $$
