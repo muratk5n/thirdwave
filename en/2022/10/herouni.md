@@ -1,4 +1,4 @@
-# The Herouni Antenna
+# The Herouni Antenna, CMB
 
 [Paper](http://elib.sci.am/2007_1/10_1_2007.pdf)
 
