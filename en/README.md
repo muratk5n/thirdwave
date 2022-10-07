@@ -125,7 +125,7 @@ amplifying the effects of wind and water"
 Those levels 3,4,5 are not a good indicator of destructive strength. IKE
 is better.
 
-"What was Hurrican Ian's category?"
+"What was Hurricane Ian's category?"
 
 ---
 
