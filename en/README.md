@@ -2,10 +2,6 @@
 
 ---
 
-Japan Times: "In rebuke to West, OPEC and Russia aim to raise oil prices"
-
----
-
 "@vxunderground
 
 Insert commas into your password so when your credentials are dumped
