@@ -54,34 +54,36 @@ Hurricane Katrina
 ```python
 import ike
 lat=25;lon=-90; year = 2005;month = 8;day = 30; hour = 10
-print (ike.ike(lat,lon,day,month,year,hour), 'TJ')
+ike.ike(lat,lon,day,month,year,hour)
 ```
 
 ```text
-340.975708798976 TJ
+Out: 340.975708798976 
 ```
 
 Hurricane Sandy
 
 ```python
 lat=39;lon=-74; year = 2012; month = 10; day = 29; hour = 13
-print (ike.ike(lat,lon,day,month,year,hour), 'TJ')
+ike.ike(lat,lon,day,month,year,hour)
 ```
 
 ```text
-213.907591397376 TJ
+Out: 213.907591397376 
 ```
 
 Hurricane Ivan
 
 ```python
 lat,lon = 30.302, -87.751; year = 2004; month = 9; day = 16; hour = 10
-print (ike.ike(lat,lon,day,month,year,hour), 'TJ')
+ike.ike(lat,lon,day,month,year,hour)
 ```
 
 ```text
-175.953368055808 TJ
+Out: 175.953368055808 
 ```
+
+All results are in terrajoules.
 
 References
 
