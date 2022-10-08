@@ -42,8 +42,7 @@ and dude just starts kicking the printer.
 
 ---
 
-*Andor* feels like an SNL sketch in a *Star Wars* backdrop. Purposely
-amateurish with the occasional big star (S. Skarsgard).
+*Andor* feels like an SNL sketch in a *Star Wars* backdrop. 
 
 ---
 
