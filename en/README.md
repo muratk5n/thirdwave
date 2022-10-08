@@ -103,10 +103,9 @@ Scientists are trying to bring the telescope back online
 
 ---
 
-Basically when PH turned on the device he recognized the self-noise
-was about 2.6 Kelvin leaving no room for noise from the sky, the
-so-called cosmic microwave background, implying there can be no Big
-Bang.
+Basically when PH enabled the device he recognized the self-noise was
+about 2.6 Kelvin leaving no room for noise from the sky, the so-called
+cosmic microwave background, implying there can be no Big Bang.
 
 ---
 
@@ -115,7 +114,7 @@ You know what else Herouni found? [No Big Bang](2022/10/herouni.html).
 ---
 
 Paris Herouni built the first and only radio-telescope in Armenia
-(operational 1987 – 1990). Within moments of turning it on it detected
+(operational 1987 – 1990). Within days of turning it on it detected
 the explosion of a red giant star (Etta star in Gemini constellation).
 
 <img width="340" src="https://pbs.twimg.com/media/FednH83X0AEoqFO?format=jpg&name=small"/>
