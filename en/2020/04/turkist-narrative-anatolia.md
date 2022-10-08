@@ -160,7 +160,8 @@ fight to force women to take off their hijab, whereas conservative
 from usually poorer background tried to "defend their identity" by
 refusing.. This fight partly helped helped to cover up the excesses of
 the go-go years of late 80s and the 90s, as an added bonus, also
-helped to cover the crooked foundation of the Republic.
+helped to cover the crooked foundation of the Republic. The work here
+[5] talks about the Kemalist resurgence during post 80s regime.
   
 
 References
@@ -172,3 +173,6 @@ References
 [3] [Trahana](https://greekcitytimes.com/2022/08/05/traditional-trahana-recipe)
 
 [4] [National Narratives, Migrations, Anatolia](../../2020/07/migrations-anatolia.html)
+
+[5] [Modernism Nostalgia](../../2022/10/modernism-nostalgia-ozyurek.html)
+
