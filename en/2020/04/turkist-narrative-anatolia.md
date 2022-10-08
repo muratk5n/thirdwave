@@ -157,14 +157,9 @@ decades of internal conflict in an Anatolian version of US culture
 war, ignore the economic issues, just fight over hijab, "women's
 rights". Well-to-do Turkist Kemalist would fight to force women to
 take off their hijab, whereas conservative from usually poorer
-background tried to "defend their identity" by refusing.. This fight
-partly helped helped to cover up the excesses of the go-go years of
-late 80s and the 90s, as an added bonus, also helped to cover the
-crooked foundation of the Republic even longer. The work here [5]
-talks about the symbolism aspects of the Kemalist resurgence 
-post 80s.
+background tried to "defend their identity" by refusing.. The Turkist
+resurgence through the image of Kemal is talked about in this work [5].
   
-
 References
 
 [1] [Population](asia-minor-population.html)
