@@ -149,19 +149,18 @@ previously already defective narrative now also meant nothing.
 
 <a name='antiislamo'/>
 
-- But the coup leaders, while pushing forward the Islamoturkist
-  Synthesis, also did something else; the "activated" the Turkist,
-  Kemalist followers to be "on guard" against the elements of the
-  Synthesis who might "act up" and do things secular folk might not
-  like. This act ushered in decades of internal conflict in an
-  Anatolian version of US culture war, no need worry about economic
-  issues, the fight was on over hijab, and "women's
-  rights". Well-to-do Turkist Kemalist would fight to force women to
-  take off their hijab, whereas conservative from usually poorer
-  background tried to "defend their identity" by refusing.. This fight
-  partly helped helped to cover up the excesses of the go-go years of
-  late 80s and the 90s, as an added bonus, also helped to cover the
-  crooked foundation of the Republic.
+- The 80s coup leaders, while pushing forward the Islamoturkist
+Synthesis, also did something else; the "activated" the Turkist,
+Kemalist followers alerting them to be "on guard" against the other
+elements of the Synthesis who might "act up" and do things secular
+folk might not like.. This act ushered in decades of internal conflict
+in an Anatolian version of US culture war, ignore the economic issues,
+fight over hijab, "women's rights". Well-to-do Turkist Kemalist would
+fight to force women to take off their hijab, whereas conservative
+from usually poorer background tried to "defend their identity" by
+refusing.. This fight partly helped helped to cover up the excesses of
+the go-go years of late 80s and the 90s, as an added bonus, also
+helped to cover the crooked foundation of the Republic.
   
 
 References
