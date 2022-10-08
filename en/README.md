@@ -106,7 +106,7 @@ You know what else Herouni found? [No Big Bang](2022/10/herouni.html).
 
 ---
 
-Paris Herouni built the first and (still the only) radio-telescope in
+Paris Herouni built the first (and still the only) radio-telescope in
 Armenia (operational 1987 – 1990). Within moments of turning it on it
 detected the explosion of a red giant star (Etta star in Gemini
 constellation).
