@@ -97,6 +97,12 @@ pulled Iran into that country, creating chaos.
 
 ---
 
+Scientists are trying to bring the telescope back online
+
+[[-]](https://youtu.be/WAx9Z9DyMHY?t=117)
+
+---
+
 Basically when PH turned on the device he recognized the self-noise
 was about 2.6 Kelvin leaving no room for noise from the sky, the
 so-called cosmic microwave background, implying there can be no Big

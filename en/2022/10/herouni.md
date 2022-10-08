@@ -43,3 +43,5 @@ References
 
 [1] [Journal Archives, 1999, June, Vol 2 No 2](http://jae.ece.ntua.gr/archive/archive_index.html#ID1999-)
 
+[2] [Al Jazeera Documentary](https://youtu.be/WAx9Z9DyMHY)
+
