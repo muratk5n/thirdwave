@@ -107,9 +107,10 @@ You know what else Herouni found? [No Big Bang](2022/10/herouni.html).
 
 ---
 
-Paris Herouni built the first and only radio-telescope in Armenia
-(operational 1987 – 1990). Within moments of turning it on it detected
-the explosion of a red giant star (Etta star in Gemini constellation).
+Paris Herouni built the first and (still the only) radio-telescope in
+Armenia (operational 1987 – 1990). Within moments of turning it on it
+detected the explosion of a red giant star (Etta star in Gemini
+constellation).
 
 <iframe width="340" src="https://www.youtube.com/embed/WAx9Z9DyMHY?start=67&end=174" title="Reviving Armenia’s forgotten space giant: ROT54 | Witness Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
