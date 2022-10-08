@@ -85,7 +85,7 @@ This is how to properly cut a pomegranate"
 
 ---
 
-Ukraine too, "liberated" in 2014, theyd'd have to know RU would get
+Ukraine too, "liberated" in 2014, they'd have to know RU would get
 pulled into that situation, just like they knew Iran would be involved
 in Iraq after 2003 "liberation". 
 
