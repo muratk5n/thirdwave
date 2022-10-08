@@ -28,7 +28,7 @@ policy on shipping technology to China since the 1990s"
 ---
 
 I check out, drift off entire minutes while watching, then I realize
-it is still on? I try to focus... What a drag.
+it is still on? I try to focus... What a drag \#Fundor
 
 ---
 
