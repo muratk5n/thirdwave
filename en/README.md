@@ -97,12 +97,6 @@ pulled Iran into that country, creating chaos.
 
 ---
 
-Scientists are trying to bring the telescope back online
-
-[[-]](https://youtu.be/WAx9Z9DyMHY?t=117)
-
----
-
 Basically when PH enabled the device he recognized the self-noise was
 about 2.6 Kelvin leaving no room for noise from the sky, the so-called
 cosmic microwave background, implying there can be no Big Bang.
@@ -114,10 +108,10 @@ You know what else Herouni found? [No Big Bang](2022/10/herouni.html).
 ---
 
 Paris Herouni built the first and only radio-telescope in Armenia
-(operational 1987 – 1990). Within days of turning it on it detected
+(operational 1987 – 1990). Within moments of turning it on it detected
 the explosion of a red giant star (Etta star in Gemini constellation).
 
-<img width="340" src="https://pbs.twimg.com/media/FednH83X0AEoqFO?format=jpg&name=small"/>
+<iframe width="340" src="https://www.youtube.com/embed/WAx9Z9DyMHY?start=67&end=174" title="Reviving Armenia’s forgotten space giant: ROT54 | Witness Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
