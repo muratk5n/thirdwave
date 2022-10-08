@@ -20,20 +20,17 @@ founder's picture, were visibly trying too hard to do something that
 was beyond possible. A type of culture war was in display, as in US
 around useless issues to hide away the abnormalities of the uniparty
 that destroyed all ideologies related to economy and well-being, so
-was the case here, pitting one group against another, while hiding
-away its own beastiness, its mindless[ expansion, in commerce,
-national security, and land.
-
-The nostalgia was for the nostalgia of the 1920s foundation spirit,
-when the only ideology was Kemal's, a bizarre concoction of purebread
-race who was both always in Anatolia and arrived later, who was
-the bringer of civilization at the same time forgotten (until Kemal who
-reminded everyone who they were).
-
-But the ideology, and the nostalgia for it, were useful - a mere tool,
-something to be activated as it was seen fit. The people behind the
-masks did not bother to understand what they were, what culture they
-truly belonged, they simply reacted in a power struggle whose
-definition was not theirs.
+did this culture war, pitting one group against another, while hiding
+away its own beastiness, its mindless expansion in commerce, national
+security, and land. The nostalgia was for the nostalgia of the 1920s
+foundation spirit, when the only ideology was Kemal's, a bizarre
+concoction of purebread race who was both always in Anatolia and
+arrived later, who was the bringer of civilization at the same time
+forgotten (until Kemal who reminded everyone who they were). Sadly the
+ideology, and the nostalgia for it was a mere tool, useful, something
+to be activated as it was seen fit. The people behind the masks did
+not bother to understand what they were, what culture they truly
+belonged, they simply reacted in a power struggle whose definition was
+not theirs.
 
 
