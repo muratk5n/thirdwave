@@ -2,147 +2,153 @@
 
 ---
 
-Newsweek Opinion: "[T]he United States' formal position on the [RU/UA]
-conflict has changed markedly little. That overly simplified and
-Manichaean position, in short, is one of Ukrainian maximalism: Putin
-is evil, Volodymyr Zelensky is noble, and—here is the big logical
-leap—the United States will thus support the Ukrainian effort to
-retake every square inch of territory in the Donbas and Crimea from
-its nuclear-armed adversary, seemingly no matter the cost to the
-U.S. taxpayer...
-
-At this stage in the war, virtually all of this pablum is asinine and
-counterproductive to the actual U.S. national interest in these
-contested areas. Our national interest in the Ukrainian theater is not
-coterminous with Zelensky's absolutist stance; our interest is for
-de-escalation, detente"
-
-[[-]](https://www.newsweek.com/us-needs-change-course-right-now-ukraine-opinion-1749740)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We&#39;re delighted leading hydrogen businesses <a href="https://twitter.com/TevvaTrucks?ref_src=twsrc%5Etfw">@TevvaTrucks</a> + Canadian <a href="https://twitter.com/hashtag/Fullcell?src=hash&amp;ref_src=twsrc%5Etfw">#Fullcell</a> company <a href="https://twitter.com/LoopEnergyInc?ref_src=twsrc%5Etfw">@LoopEnergyInc</a> are choosing <a href="https://twitter.com/hashtag/ThamesEstuaryRegion?src=hash&amp;ref_src=twsrc%5Etfw">#ThamesEstuaryRegion</a> to expand operations. Join our Estuary hydrogen ecosystem, contact enquiries@thamesestuary.org.uk <a href="https://twitter.com/hashtag/NationalHydrogenDay?src=hash&amp;ref_src=twsrc%5Etfw">#NationalHydrogenDay</a> <a href="https://t.co/PcDgAMdy5k">https://t.co/PcDgAMdy5k</a></p>&mdash; Thames Estuary Envoy (@EstuaryEnvoy) <a href="https://twitter.com/EstuaryEnvoy/status/1578777443355140100?ref_src=twsrc%5Etfw">October 8, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Al Jazeera: "US aims to hobble China’s chip industry with sweeping new
-rules.. The host of measures could amount to the biggest shift in US
-policy on shipping technology to China since the 1990s"
+Forbes: "[Hurric forecast predicted landfall wld be at Tampa Bay but
+missed].. experts point out that over the entire time, the most
+highly-impacted area around Lee County was always within the cone of
+uncertainty. .. 'if you are told for 5 consecutive days that there's a
+2/3 probability of a major hurricane making landfall at your location,
+wouldn't that mean anything? It sure would to me!'"
 
 ---
 
-I check out, drift off entire minutes while watching, then I realize
-it is still on? I try to focus... What a drag \#Fundor
+This guy doesn't want wind turbines in his area
+
+[[-]](https://youtu.be/JX4iGBa3iE8?t=38)
 
 ---
 
-Or.. it's like *Office Space* being filmed inside *Empire Strikes
-Back*. There is a Luke and Vader fight going on which we don't see,
-this is the cut to an imperial office somewhere inside Death Star
-where a buttoned up office guy yelling 'why is this printer not
-working!!  [nervously presses the buttons]', 'f--k this
-printer!'. Then his boss walks over and asks him about the TPS report
-and dude just starts kicking the printer.
+Yet there are many cities that leave no proper walk spaces. 
+
+"In the US over 45% of the car trips are five kilometers or less"
 
 ---
 
-*Andor* feels like an SNL sketch in a *Star Wars* backdrop. 
+Asia Minor couldn't do it but Egypt apparently will pull it off
+
+"Egyptian banks to start accepting Russian Mir cards shortly"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/NationalHydrogenDay?src=hash&amp;ref_src=twsrc%5Etfw">#NationalHydrogenDay</a> is celebrated 10/08 in honor of hydrogen’s atomic weight of 1.008. Clean hydrogen is key for energy storage and has uses across multiple industries! Join us in celebrating this week. <a href="https://t.co/GhyvQrbmoE">https://t.co/GhyvQrbmoE</a></p>&mdash; Office of Energy Efficiency and Renewable Energy (@eeregov) <a href="https://twitter.com/eeregov/status/1578043263910612993?ref_src=twsrc%5Etfw">October 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+H2 Central: "[Upstate NY] Oswego power station to be first source of
+US nuclear hydrogen"
 
 ---
 
-WION: "Amazon shutting down tests of home delivery robot 'Scout' amid slowing
-sales"
+H2 Central: "[The Saudi Basic Industries subsidiary] gains first
+independent blue hydrogen and ammonia production certification"
 
 ---
 
-Arab News: "Japan recognizes ‘right of Palestine to establish an
-independent state’"
+Claim is Temple of Pergamon was taken out of Anatolia stone by stone
+rebuilt in Berlin.  I bet homie gov willingly gave them away.
+
+[[-]](https://youtu.be/C8M4i9fvq1M?t=791)
 
 ---
 
-Al Monitor: "The London-based natural gas exploration company Energean
-announced a new discovery off the coast of Israel today. Energean has
-identified seven to 15 billion cubic meters of natural gas in the
-Hermes exploration well.. Hermes is located southeast of Israel’s
-Karish gas field, meaning it does not lie within the disputed area
-with Lebanon"
+"But the Catholic Church supports The Big Bang"... Right - because CC
+has always been the final arbiter of accurate science 🤨 Galileo turned
+in his grave.
+
 
 ---
 
-"Darmok and Jalad at Tanagra"
+[Black Holes](2022/08/black-holes.html), same.. The Big-Bang - already
+mentioned..
+
+Post-war cosmologist and physicists really bungled things 
 
 ---
 
-"Shaka, when the walls fell"
+"Discovey" of cosmic increasing expansion rate, inflation, received
+Nobel Prize? The concept is likely [bollocks](2022/08/dark-energy.html).
 
 ---
 
-"@ValaAfshar
-
-This is how to properly cut a pomegranate"
-
-[[-]](https://twitter.com/ValaAfshar/status/1578161108099399682)
-
----
-
-Ukraine too, "liberated" in 2014, they'd have to know RU would get
-pulled into that situation, just like they knew Iran would be involved
-in Iraq after 2003 "liberation". 
+H2 Fuel News: "[New york power authority] may have found a feasible
+way to lower carbon emissions... A recent hydrogen blending study
+found that carbon dioxide emissions (CO2) lowered by approximately 14
+percent when 35 percent of hydrogen by volume was mixed with natural
+gas to produce electricity.. blending project was carried out on an
+LM6000 GE gas turbine"
 
 ---
 
-Even a child with little intl rel knows invading Iraq would have
-pulled Iran into that country, creating chaos. 
+Some underestimate the brain's ability to adapt, its ability to fit in
+(survival may depend on it). That's why subcon aims to adapt to the
+larger society, not to two f-ing fureigners at home talking fureign
+shit (parents).
 
 ---
 
-Basically when PH enabled the device he recognized the self-noise was
-about 2.6 Kelvin leaving no room for noise from the sky, the so-called
-cosmic microwave background, implying there can be no Big Bang.
+Being Swedish, French, or Polish has nothing to do with heritage, it
+has everything to do with having other Swedish, French, or Polish ppl
+around while growing up. Foreign family is not enough to transmit
+culture.
 
 ---
 
-You know what else Herouni found? [No Big Bang](2022/10/herouni.html).
+Have not seen Rings of Power, or She-Hulk. I dont hear good things
+about them, I'll pass.
 
 ---
 
-Paris Herouni built the first (and still the only) radio-telescope in
-Armenia (operational 1987 – 1990). Within moments of turning it on it
-detected the explosion of a red giant star (Etta star in Gemini
-constellation).
+"@business
 
-<iframe width="340" src="https://www.youtube.com/embed/WAx9Z9DyMHY?start=67&end=174" title="Reviving Armenia’s forgotten space giant: ROT54 | Witness Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Feds seized $311 million in Bitcoin. Then they watched helplessly as a
+hacker stole it"
 
 ---
 
-Heritage has little effect in defining culture. Behaviour is mostly
-shaped by subconcious codes received through osmosis from the larger
-society around, burned into psyche before teenage. The process is
-automatic, does not need education, stories, or stupid shit being
-mumbled in rote, in robes, or funky hats.
+NY Post: "Mayor Eric Adams on Friday declared a state of emergency
+over the ongoing influx of migrants [sent by bus from Souther states],
+saying New York City is reaching its 'limit' on a crisis he estimates
+would cost taxpayers $1 billion by the end of the year"
 
 ---
 
-US bizarre distant heritage worship is likely part of a psyop.. If
-your citizens think of themselves as near-peer to citizens in other
-countries, such population would be more open to persuasion for
-intervention in those other countries. It's easy to sell deep state
-meddling in Italy, Poland, if you have bunch 2nd, 3rd generation fools
-as citizens who still think they are intimately connected to people
-there.
+"@JulianRoepcke
+
+Ukrainian drone footage proves Russian invasion forces captured
+Zeitseve, S-E of Bakhmut, while the Ukrainian general staff claims it
+repulsed all Russian attacks on the village"
+
+[[-]](https://pbs.twimg.com/media/FedyOH6XwAMrUH-?format=jpg&name=small)
 
 ---
 
-🤣 🤣 🤣 
+H2 Fuel News: "Faurecia received the €213m ($212.7m) grant of public
+support from the European Commission for its hydrogen tech project..
+Faurecia S.E. (EO.PA), a global leader in automotive technology
+headquartered in France, aims to develop affordable clean mobility
+solutions. According to a recent Twitter post from the company, with
+the help of the grant, they can develop a new generation of hydrogen
+tanks, both liquid and gaseous"
 
-Insider: "3 people describe the shock of discovering through at-home
-DNA tests that they were a different race than they'd thought.. 'A
-match had come up on Ancestry.com. My biological father was a Jewish
-man named Rick Estrin... Accepting the fact that I'm not Mexican has
-been challenging. My Mexican/Hispanic heritage is tightly intertwined
-into my sense of self. The culture is paramount to who I am. I'd
-cofounded an activism website called Latino Rebels to bring attention
-to issues affecting Latinos'"
+---
+
+Director Doug Liman's father was legal adv during Iran-Contra... DL by
+now did one movie inspired by that affair (first Bourne movie),
+another one that partly led to that affair (the Cruise movie). Now he
+has to do a movie about the scandal itself.
+
+---
+
+*American Made* - drugs, guns, and a pilot, during the Reagan
+era. This is the Contra affair before the Iranian-Contra?
+
+---
+
+TASS: "Ukrainian troops withdraw from strategic heights near [Bakhmut]"
+
+---
+
+F24: "Russian forces are advancing on Bakhmut, threatening to take
+some of the shine off weeks of Ukrainian victories"
 
 ---
 
