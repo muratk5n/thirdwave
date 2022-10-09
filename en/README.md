@@ -90,11 +90,6 @@ culture.
 
 ---
 
-Have not seen Rings of Power, or She-Hulk. I dont hear good things
-about them, I'll pass.
-
----
-
 "@business
 
 Feds seized $311 million in Bitcoin. Then they watched helplessly as a
