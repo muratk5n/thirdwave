@@ -27,7 +27,7 @@ Yet there are many cities that leave no proper walk spaces.
 
 ---
 
-Asia Minor couldn't do it but Egypt apparently will pull it off
+Asia Minor couldn't do it but Egypt apparently pulled it off
 
 "Egyptian banks to start accepting Russian Mir cards shortly"
 
