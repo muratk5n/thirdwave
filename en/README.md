@@ -15,12 +15,6 @@ wouldn't that mean anything? It sure would to me!'"
 
 ---
 
-This guy doesn't want wind turbines in his area
-
-[[-]](https://youtu.be/JX4iGBa3iE8?t=38)
-
----
-
 Many cities have no proper walk spaces.
 
 "In the US over 45% of the car trips are five kilometers or less"
@@ -101,6 +95,11 @@ NY Post: "Mayor Eric Adams on Friday declared a state of emergency
 over the ongoing influx of migrants [sent by bus from Souther states],
 saying New York City is reaching its 'limit' on a crisis he estimates
 would cost taxpayers $1 billion by the end of the year"
+
+---
+
+Swedish vlogger living in sparsely populated area saz doesn't want
+wind turbines in his area
 
 ---
 
