@@ -51,7 +51,7 @@ rebuilt in Berlin.  I bet homie gov willingly gave them away.
 ---
 
 "But the Catholic Church supports The Big Bang"... Right - because CC
-has always been the final arbiter of accurate science 🤨 Dont upset
+has always been the final arbiter of accurate science 🤨 Lets not upset
 Galileo in his grave.
 
 
