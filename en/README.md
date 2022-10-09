@@ -15,7 +15,7 @@ wouldn't that mean anything? It sure would to me!'"
 
 ---
 
-Many cities have no proper walk spaces.
+And many cities have no proper walk spaces.
 
 "In the US over 45% of the car trips are five kilometers or less"
 
