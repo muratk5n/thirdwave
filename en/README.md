@@ -21,7 +21,7 @@ This guy doesn't want wind turbines in his area
 
 ---
 
-Yet there are many cities that leave no proper walk spaces. 
+There are many cities that have no proper walk spaces.
 
 "In the US over 45% of the car trips are five kilometers or less"
 
