@@ -56,7 +56,7 @@ mentioned.. Post-war cosmologist and physicists really bungled things
 
 ---
 
-"Discovery" of cosmic expansion rate increase, inflation, received
+"Discovery" of cosmic expansion rate increase, inflation, had received
 Nobel Prize? The concept is likely [bollocks](2022/08/dark-energy.html).
 
 ---
