@@ -98,8 +98,8 @@ would cost taxpayers $1 billion by the end of the year"
 
 ---
 
-Swedish vlogger living in sparsely populated area saz doesn't want
-wind turbines in his area
+Swedish vlogger living near wildlife, nature saz doesn't want wind
+turbines in his area
 
 ---
 
