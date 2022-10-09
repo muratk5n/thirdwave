@@ -58,9 +58,7 @@ in his grave.
 ---
 
 [Black Holes](2022/08/black-holes.html), same.. The Big-Bang - already
-mentioned..
-
-Post-war cosmologist and physicists really bungled things 
+mentioned.. Post-war cosmologist and physicists really bungled things 
 
 ---
 
