@@ -9,8 +9,8 @@ nuclear plants, the potential for nuclear-powered production of clean
 hydrogen is clearer than ever.
 
 In August, DOE-NE’s Light Water Reactor Sustainability (LWRS) program,
-in coordination with the HFTO, offered between $20 million and $40
-million in cost-shared funding to support the demonstration of an
+in coordination with the HFTO, offered between 20 million and 40
+million USD in cost-shared funding to support the demonstration of an
 'energy park' drawing 20–300 MW of thermal energy from a U.S. nuclear
 power plant. That funding would tackle the design of the
 heat-extraction infrastructure needed use high-temperature steam from
