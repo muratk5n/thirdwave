@@ -2,146 +2,107 @@
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We&#39;re delighted leading hydrogen businesses <a href="https://twitter.com/TevvaTrucks?ref_src=twsrc%5Etfw">@TevvaTrucks</a> + Canadian <a href="https://twitter.com/hashtag/Fullcell?src=hash&amp;ref_src=twsrc%5Etfw">#Fullcell</a> company <a href="https://twitter.com/LoopEnergyInc?ref_src=twsrc%5Etfw">@LoopEnergyInc</a> are choosing <a href="https://twitter.com/hashtag/ThamesEstuaryRegion?src=hash&amp;ref_src=twsrc%5Etfw">#ThamesEstuaryRegion</a> to expand operations. Join our Estuary hydrogen ecosystem, contact enquiries@thamesestuary.org.uk <a href="https://twitter.com/hashtag/NationalHydrogenDay?src=hash&amp;ref_src=twsrc%5Etfw">#NationalHydrogenDay</a> <a href="https://t.co/PcDgAMdy5k">https://t.co/PcDgAMdy5k</a></p>&mdash; Thames Estuary Envoy (@EstuaryEnvoy) <a href="https://twitter.com/EstuaryEnvoy/status/1578777443355140100?ref_src=twsrc%5Etfw">October 8, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"Now, backed by industry partnerships, new legislation, an eye-popping
+$7 billion in federal funds for regional clean hydrogen hubs (H2Hubs),
+a new draft strategy, and on-site progress to pair electrolyzers with
+nuclear plants, the potential for nuclear-powered production of clean
+hydrogen is clearer than ever.
+
+In August, DOE-NE’s Light Water Reactor Sustainability (LWRS) program,
+in coordination with the HFTO, offered between $20 million and $40
+million in cost-shared funding to support the demonstration of an
+'energy park' drawing 20–300 MW of thermal energy from a U.S. nuclear
+power plant. That funding would tackle the design of the
+heat-extraction infrastructure needed use high-temperature steam from
+existing LWRs to produce hydrogen using high-temperature electrolysis
+“in preparation for future scale-up of industrial use of nuclear
+energy.” Proposals were invited both for the engineering and design
+work needed to extract steam from a nuclear power plant, termed
+'Nuclear Plant Thermal Integration'"
+
+[[-]](https://www.ans.org/news/article-4386/hydrogen-day-time-to-celebrate-a-growth-year-for-nuclearproduced-h2/?fbclid=IwAR0iYzvsgyPz93rVy7uKtZQLGQcF2q3YxaICSfDwP4g2KWjbwI1dXL_QyrA)
 
 ---
 
-Forbes: "[Hurric forecast predicted landfall wld be at Tampa Bay but
-missed].. experts point out that over the entire time, the most
-highly-impacted area around Lee County was always within the cone of
-uncertainty. .. 'if you are told for 5 consecutive days that there's a
-2/3 probability of a major hurricane making landfall at your location,
-wouldn't that mean anything? It sure would to me!'"
+Euronews: "Russian troops moving closer to eastern Ukrainian town of Bakhmut: UK"
 
 ---
 
-And many cities have no proper walk spaces.
-
-"In the US over 45% of the car trips are five kilometers or less"
-
----
-
-Asia Minor couldn't do it but Egypt apparently pulled it off
-
-"Egyptian banks to start accepting Russian Mir cards shortly"
+H2 View: "Scotland must focus on green hydrogen and renewable export
+industries even more to safeguard future energy security and
+prosperity, according to First Minister Nicola Sturgeon"
 
 ---
 
-H2 Central: "[Upstate NY] Oswego power station to be first source of
-US nuclear hydrogen"
+Where am I getting the frontline raw data? U dont wanna know.
+
+In the weeds of f-ing kmz, kml files..  
 
 ---
 
-H2 Central: "[The Saudi Basic Industries subsidiary] gains first
-independent blue hydrogen and ammonia production certification"
+.. that too
+
+Reuters: "Russia launches biggest air strikes since start of Ukraine war"
 
 ---
 
-Claim is Temple of Pergamon was taken out of Anatolia stone by stone
-rebuilt in Berlin.  I bet homie gov willingly gave them away.
+.. and there is that
 
-[[-]](https://youtu.be/C8M4i9fvq1M?t=791)
-
----
-
-"But the Catholic Church supports TBB"... Right - because CC has
-always been the final arbiter of accurate science 🤨 Lets not upset
-Galileo in his grave. *Eppur si muove*.
-
+Reuters: "Belarus, Russia to form joint military group, Lukashenko
+says"
 
 ---
 
-[Black Holes](2022/08/black-holes.html), same.. The Big-Bang - already
-mentioned.. Post-war cosmologist and physicists really bungled things
-haven't they
+According to [War Mapper](https://twitter.com/War_Mapper) UA is making
+some gains towards Svatove in the north (old frontline is green). Also
+gains in Kherson along the river.. reportedly RU defensive line pulled
+back to Novokeiry. These arent bad gains - strictly looking at before
+and after.
+
+```python
+# bakhmut, svatove, novokeiry
+geo = [[48.59086903747, 38.00222462226],[49.41519908195, 38.17381415982],[47.01290896691535, 33.60127980381953]]
+u.sm_plot_ukr3('ukrdata/alt1-1010.csv','ukrdata/alt1-1002.csv',geo)
+```
+
+[[-]](https://pbs.twimg.com/media/Feu4V1-WIAA9ZnL?format=png&name=small)
 
 ---
 
-"Discovery" of cosmic expansion rate increase, inflation, had received
-Nobel Prize? The concept is likely [bollocks](2022/08/dark-energy.html).
+Reuters: "952,000 people arrived from Ukraine in Feb-Aug period [to Germany]"
 
 ---
 
-H2 Fuel News: "[New york power authority] may have found a feasible
-way to lower carbon emissions... A recent hydrogen blending study
-found that carbon dioxide emissions (CO2) lowered by approximately 14
-percent when 35 percent of hydrogen by volume was mixed with natural
-gas to produce electricity.. blending project was carried out on an
-LM6000 GE gas turbine"
+The Independent: "Amusement park goers with iPhone 14s are
+accidentally alerting 911 after rollercoaster rides register as car
+accidents"
 
 ---
 
-Some underestimate the brain's ability to adapt, its ability to fit in
-(survival may depend on it). That's why subcon aims to adapt to the
-larger society, not to two f-ing fureigners at home talking fureign
-shit (parents).
+Only due to protests, or a possible invasion?
+
+Reuters: "France urges its nationals to leave Iran"
 
 ---
 
-Being Swedish, French, or Polish has nothing to do with heritage, it
-has everything to do with having other Swedish, French, or Polish ppl
-around while growing up. Foreign family is not enough to transmit
-culture.
+Rudaw: "Iran threatens to invade Kurdistan Region as crackdown on
+protests at home continues"
 
 ---
 
-"@business
-
-Feds seized $311 million in Bitcoin. Then they watched helplessly as a
-hacker stole it"
-
----
-
-NY Post: "Mayor Eric Adams on Friday declared a state of emergency
-over the ongoing influx of migrants [sent by bus from Souther states],
-saying New York City is reaching its 'limit' on a crisis he estimates
-would cost taxpayers $1 billion by the end of the year"
+One method "perturbs" initial point and see how widely it changes the
+future, does that many times, if outcome lands on certain prediction
+over and over again, that increases confidence. Can also construct a
+likelihood range around the prediction from many runs.
 
 ---
 
-Swedish vlogger living near wildlife, nature saz doesn't want wind
-turbines in his area
+As in life, some outcomes are more likely than others, there are ways
+to compute those and report likely events.
 
----
-
-"@JulianRoepcke
-
-Ukrainian drone footage proves Russian invasion forces captured
-Zeitseve, S-E of Bakhmut, while the Ukrainian general staff claims it
-repulsed all Russian attacks on the village"
-
-[[-]](https://pbs.twimg.com/media/FedyOH6XwAMrUH-?format=jpg&name=small)
-
----
-
-H2 Fuel News: "Faurecia received the €213m ($212.7m) grant of public
-support from the European Commission for its hydrogen tech project..
-Faurecia S.E. (EO.PA), a global leader in automotive technology
-headquartered in France, aims to develop affordable clean mobility
-solutions. According to a recent Twitter post from the company, with
-the help of the grant, they can develop a new generation of hydrogen
-tanks, both liquid and gaseous"
-
----
-
-Director Doug Liman's father was legal adv during Iran-Contra... DL by
-now did one movie inspired by that affair (first Bourne movie),
-another one that partly led to that affair (the Cruise movie). Now he
-has to do a movie about the scandal itself.
-
----
-
-*American Made* - drugs, guns, and a pilot, during the Reagan
-era. This is the Contra affair before the Iranian-Contra?
-
----
-
-TASS: "Ukrainian troops withdraw from strategic heights near [Bakhmut]"
-
----
-
-F24: "Russian forces are advancing on Bakhmut, threatening to take
-some of the shine off weeks of Ukrainian victories"
+"If weather systems are chaotic, ie later outcome depends on minor
+changes today (which can never be accurately measured) how can we make
+accurate weather predictions?"
 
 ---
 
