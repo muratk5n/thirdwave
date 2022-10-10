@@ -2,6 +2,9 @@
 
 ---
 
+High-temperature electrolysis, uses heat direct, no need for
+electricity.  Very cool.
+
 "Now, backed by industry partnerships, new legislation, an eye-popping
 $7 billion in federal funds for regional clean hydrogen hubs (H2Hubs),
 a new draft strategy, and on-site progress to pair electrolyzers with
@@ -15,8 +18,8 @@ million USD in cost-shared funding to support the demonstration of an
 power plant. That funding would tackle the design of the
 heat-extraction infrastructure needed use high-temperature steam from
 existing LWRs to produce hydrogen using high-temperature electrolysis
-“in preparation for future scale-up of industrial use of nuclear
-energy.” Proposals were invited both for the engineering and design
+'in preparation for future scale-up of industrial use of nuclear
+energy.' Proposals were invited both for the engineering and design
 work needed to extract steam from a nuclear power plant, termed
 'Nuclear Plant Thermal Integration'"
 
