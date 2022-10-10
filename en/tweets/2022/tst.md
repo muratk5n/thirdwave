@@ -2,18 +2,10 @@
 
 ```python
 import util as u
-geo = [[48.585293967980796, 37.99635295474665],
-       [48.96282484071948, 37.82825763861589],
-       [47.31878321883991, 33.76348143435894]]
-u.sm_plot_ukr2('ukrdata/alt1-1002.csv', 'ukrdata/alt1-0913.csv',geo)
+# bakhmut, svatove, novokeiry
+geo = [[48.59086903747, 38.00222462226],[49.41519908195, 38.17381415982],[47.01290896691535, 33.60127980381953]]
+u.sm_plot_ukr3('ukrdata/alt1-1010.csv','ukrdata/alt1-1002.csv',geo)
 plt.savefig('/tmp/out1.png')
 ```
-
-
-
-
-
-
-
 
 

@@ -29,6 +29,14 @@ def sm_plot_kurd1(geo):
         plt.text(lon+eps,lat+eps,i+1)
         plt.plot(lon,lat,'go')
 
+def sm_plot_ukr3(file,oldfile,geo):
+    sm_plot_ukr1(file,geo)    
+    clat,clon=48, 37; zoom = 0.6
+    sm.plot_water(clat,clon,zoom)
+    df = np.array(pd.read_csv(oldfile,header=None))
+    df[:, [1, 0]] = df[:, [0, 1]]
+    sm.plot_line(df,color='green',linestyle='solid')
+                
 def sm_plot_ukr2(file,oldfile,geo):
     sm_plot_ukr1(file,geo)    
     df = np.array(pd.read_csv(oldfile,header=None))
