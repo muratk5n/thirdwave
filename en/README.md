@@ -129,8 +129,8 @@ I have to admit UK politics is fun - constant theater
 
 ---
 
-The Times: "[Chancellor of Exch.] overruled after giving [outsider]
-Antonia Romeo top job [as chief official in the Treasury]"
+The Guardian: "[PM] has overruled [Chanc of Exch's] top appointment at
+the Treasury and handed the role to a veteran Treasury official"
 
 ---
 
