@@ -39,6 +39,10 @@ those points it should be about *de-funding the grid*.
 
 ---
 
+*House of the Dragon* 👍
+
+---
+
 TASS is The Russian News Agency 
 
 ---
@@ -68,10 +72,6 @@ bank bailouts and wanted to reward that behaviour.
 
 Portfolio Optimization won the Prize once.. its math can make any
 knowledgable practitioner laugh.
-
----
-
-*House of the Dragon* 👍
 
 ---
 
