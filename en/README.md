@@ -129,8 +129,9 @@ I have to admit UK politics is fun - constant theater
 
 ---
 
-The Guardian: "[PM] has overruled [Chanc of Exch's] top appointment at
-the Treasury and handed the role to a veteran Treasury official"
+The Guardian: "[PM] has overruled [Chanc of Exch's] top appointment
+[of a high-profile outsider] at the Treasury and handed the role to a
+veteran Treasury official"
 
 ---
 
