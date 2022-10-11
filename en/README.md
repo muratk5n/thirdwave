@@ -2,110 +2,135 @@
 
 ---
 
-High-temperature electrolysis, uses heat direct, no need for
-electricity.  Very cool.
-
-"Now, backed by industry partnerships, new legislation, an eye-popping
-$7 billion in federal funds for regional clean hydrogen hubs (H2Hubs),
-a new draft strategy, and on-site progress to pair electrolyzers with
-nuclear plants, the potential for nuclear-powered production of clean
-hydrogen is clearer than ever.
-
-In August, DOE-NE’s Light Water Reactor Sustainability (LWRS) program,
-in coordination with the HFTO, offered between 20 million and 40
-million USD in cost-shared funding to support the demonstration of an
-'energy park' drawing 20–300 MW of thermal energy from a U.S. nuclear
-power plant. That funding would tackle the design of the
-heat-extraction infrastructure needed use high-temperature steam from
-existing LWRs to produce hydrogen using high-temperature electrolysis
-'in preparation for future scale-up of industrial use of nuclear
-energy.' Proposals were invited both for the engineering and design
-work needed to extract steam from a nuclear power plant, termed
-'Nuclear Plant Thermal Integration'"
-
-[[-]](https://www.ans.org/news/article-4386/hydrogen-day-time-to-celebrate-a-growth-year-for-nuclearproduced-h2/?fbclid=IwAR0iYzvsgyPz93rVy7uKtZQLGQcF2q3YxaICSfDwP4g2KWjbwI1dXL_QyrA)
+FT: "Hydrogen fund Hy24 raises €2bn as investors seek to tap clean
+energy shift.. Round attracts global groups from Airbus and Total to
+SocGen and BBVA"
 
 ---
 
-Euronews: "Russian troops moving closer to eastern Ukrainian town of Bakhmut: UK"
+TFI Global: "Independent Scotland is a real possibility now! Scotland,
+the northernmost part of the United Kingdom which occupies about
+one-third of the island of Great Britain could very soon leave the
+Kingdom. The legal hearings about a second Scottish independence
+referendum are likely to begin in Britain’s top court next week"
 
 ---
 
-H2 View: "Scotland must focus on green hydrogen and renewable export
-industries even more to safeguard future energy security and
-prosperity, according to First Minister Nicola Sturgeon"
+Cathie "She Gives Me No Wood" made bad investments and expects FED to
+reverse those losses. Investing in battery electric cars and crypto?
+What were you thinking?
+
+CNBC: "Ark's Cathie Wood issues open letter to the Fed, saying it is
+risking an economic 'bust'"
 
 ---
 
-Where am I getting the frontline raw data? U dont wanna know.
-
-In the weeds of f-ing kmz, kml files..  
+Word is Ukraine is preparing to leave Bakhmut area
 
 ---
 
-.. that too
-
-Reuters: "Russia launches biggest air strikes since start of Ukraine war"
-
----
-
-.. and there is that
-
-Reuters: "Belarus, Russia to form joint military group, Lukashenko
-says"
+Near endpoints generating electricity is fine.. Long-distance energy
+transmission however must be gas-based. I would even pipe clean gas
+into homes at that point power can be generated from fuel-cells. One
+step earlier, fine too, a neighborhood fuel-cell "transformer" could
+generate power for the neighborhood and supply the local "grid". But
+inter-city grid, inter-state grid, inter-anything grid is a no-no.  At
+those points it should be about *de-funding the grid*.
 
 ---
 
-According to [War Mapper](https://twitter.com/War_Mapper) UA is making
-some gains towards Svatove in the north (old frontline is green). Also
-gains in Kherson along the river.. reportedly RU defensive line pulled
-back to Novokeiry. These arent bad gains - strictly looking at before
-and after.
-
-```python
-# bakhmut, svatove, novokeiry
-geo = [[48.59086903747, 38.00222462226],[49.41519908195, 38.17381415982],[47.01290896691535, 33.60127980381953]]
-u.sm_plot_ukr3('ukrdata/alt1-1010.csv','ukrdata/alt1-1002.csv',geo)
-```
-
-[[-]](https://pbs.twimg.com/media/Feu4V1-WIAA9ZnL?format=png&name=small)
+TASS is The Russian News Agency 
 
 ---
 
-Reuters: "952,000 people arrived from Ukraine in Feb-Aug period [to Germany]"
+TASS: "Gazprom already found NATO explosive device on Nord Stream in
+2015.. [the] mine disposal unmanned underwater vehicle was found
+during the scheduled visual inspection of the Nord Stream 1 gas
+pipeline"
 
 ---
 
-The Independent: "Amusement park goers with iPhone 14s are
-accidentally alerting 911 after rollercoaster rides register as car
-accidents"
+[Link](https://drive.google.com/uc?export=view&id=128cOZoAEpiFRhlgDu_0tUKKP6uc5Qcib)
 
 ---
 
-Only due to protests, or a possible invasion?
-
-Reuters: "France urges its nationals to leave Iran"
-
----
-
-Rudaw: "Iran threatens to invade Kurdistan Region as crackdown on
-protests at home continues"
+There is some freak stuff coming out of Sweden.. Is there a hidden
+globalist cell there? Do they host Bilderberg meetings..?
+Eyes-wide-shut type of stuff, under the mountain, in the abandoned
+bunker, you know what I'm talking about.. Suspicious.
 
 ---
 
-One method "perturbs" initial point and see how widely it changes the
-future, does that many times, if outcome lands on certain prediction
-over and over again, that increases confidence. Can also construct a
-likelihood range around the prediction from many runs.
+Swedish Central Bank and the globalists behind them obviously favored
+bank bailouts and wanted to reward that behaviour.
 
 ---
 
-As in life, some outcomes are more likely than others, there are ways
-to compute those and report likely events.
+Portfolio Optimization won the Prize once.. its math can make any
+knowledgable practitioner laugh.
 
-"If weather systems are chaotic, ie later outcome depends on minor
-changes today (which can never be accurately measured) how can we make
-accurate weather predictions?"
+---
+
+*House of the Dragon* 👍
+
+---
+
+Econ "Nobel"
+
+[[-]](2018/05/faux-nobel.html)
+
+---
+
+Al Jazeera: "Trio wins [Nobel Prize] for research on how regulating
+banks and propping up failing lenders can stave off worse crisis"
+
+---
+
+Al Jazeera: "Hungary and Serbia to build pipeline to transport Russian
+oil.. Countries agree to build pipeline to bring crude from Urals to
+Serbia as EU sanctions limit supplies through Croatia"
+
+---
+
+TASS: "[Underground Gas Storage] facilities in Europe almost 91%
+full..  It is reported that the filling of storage facilities is
+largely due to the purchase of [LNG] and supply through alternative
+pipelines at current high prices"
+
+---
+
+Alan Hawkshaw & Keith Mansfiel - Organ Mania \#music
+
+[[-]](https://youtu.be/MDpQ9KMmBfM)
+
+---
+
+Stanpoli visitors probably noticed stray dogs there - foxes are better
+but stray animals are not good, not for the citizens nor for the
+animal.
+
+---
+
+"While foxes have been around in [London] since the end of the First
+World War, their numbers have boomed in the past three decades. The
+expanding sprawl of the city — offering foxes free accommodation and
+leftover takeaways — can help explain these increases. The London
+Wildlife Trust estimates that there are 10,000 foxes in the city"
+
+---
+
+Haha. 
+
+"Larry the cat chases off fox outside No 10 [UK]"
+
+---
+
+I have to admit UK politics is fun - constant theater
+
+---
+
+The Times: "[Chancellor of Exch.] overruled after giving [outsider]
+Antonia Romeo top job [as chief official in the Treasury]"
 
 ---
 
