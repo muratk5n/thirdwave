@@ -35,7 +35,7 @@ into homes at that point power can be generated from fuel-cells. One
 step earlier, fine again, neighborhood fuel-cell "transformer" could
 generate power for the neighborhood and supply the local "grid". But
 inter-city grid, inter-state grid, inter-anything grid is a no-no.  At
-long distances we need to *de-funding the grid*.
+long distances we need to *de-fund the grid*.
 
 ---
 
