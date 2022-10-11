@@ -32,7 +32,7 @@ Word is Ukraine is preparing to leave Bakhmut area
 Near endpoints generating electricity is fine.. Long-distance energy
 transmission however must be gas-based. I would even pipe clean gas
 into homes at that point power can be generated from fuel-cells. One
-step earlier, fine too, a neighborhood fuel-cell "transformer" could
+step earlier, fine again, neighborhood fuel-cell "transformer" could
 generate power for the neighborhood and supply the local "grid". But
 inter-city grid, inter-state grid, inter-anything grid is a no-no.  At
 those points it should be about *de-funding the grid*.
