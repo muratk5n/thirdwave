@@ -13,3 +13,10 @@ import util as u
 u.yf_eps("WMT")
 ```
 
+```text
+Out[1]: 
+              startdatetime  epsestimate  epsactual
+4  2022-08-16T07:02:00.000Z         1.62       1.77
+5  2022-05-17T07:02:00.000Z         1.48       1.30
+6  2022-02-17T07:11:00.000Z         1.50       1.53
+```
