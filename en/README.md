@@ -47,8 +47,8 @@ natural gas reservoirs"
 Finfluencers are "financial influencers [who are] unlicensed
 individuals giving people on social media financial
 advice".. Licensing aside crypto has inherently weak internal
-protection and random jagoff on social med giving advice on it
-compounds the problem.
+protection and random social med jagoff giving advice on it compounds
+the problem.
 
 ---
 
