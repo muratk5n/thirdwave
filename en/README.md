@@ -106,7 +106,7 @@ demonstrated in October"
 
 ---
 
-Some laugh now, won't be laughing in a few months
+Laughing now, won't be laughing in a few months friend
 
 ---
 
