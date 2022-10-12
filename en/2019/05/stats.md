@@ -271,26 +271,29 @@ url = "https://www.spglobal.com/spdji/en/documents/additional-material/sp-500-ep
 hdr = {'User-Agent':'Mozilla/5.0'}
 req = urllib2.Request(url,headers=hdr)
 file = io.BytesIO(urllib2.urlopen(req).read())
-df = pd.read_excel(file,sheet_name="QUARTERLY DATA",skiprows=6,header=None,index_col=0,parse_dates=True)
-print (df[2].head(4))
-df[2].plot()
+df = pd.read_excel(file,sheet_name="QUARTERLY DATA",skiprows=6,header=None)
+df.columns = ['date','op_ex_ps','eps','cash_div_ps','sales_ps','book_val_ps','capex_ps','price','divisor']
+df = df.set_index(pd.to_datetime(df.date))
+print (df['eps'].head(4))
+
+df['eps'].plot()
 plt.axvspan('01-09-1990', '01-07-1991', color='y', alpha=0.5, lw=0)
 plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
 plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
+plt.axvspan('02-01-2020', '05-01-2020', color='y', alpha=0.5, lw=0)
 plt.savefig('sp500-earnings.png')
 ```
 
 ```text
-0
+date
 2022-09-30      NaN
 2022-06-30    42.74
 2022-03-31    45.99
 2021-12-31    53.94
-Name: 2, dtype: float64
+Name: eps, dtype: float64
 ```
 
 ![](sp500-earnings.png)
-
 
 <a name="unempl"></a>
 
