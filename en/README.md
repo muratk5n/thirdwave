@@ -73,11 +73,6 @@ install 100GW of green hydrogen by 2030"
 
 ---
 
-BTW I hear lots of complaints about *Rings of Power* of AMZN, wont
-watch it, heads up
-
----
-
 I'm looking at [WaPo GH](https://github.com/washingtonpost), I see
 `data-police-shootings`, I used its data before, good, but no war
 related data? There is `data-game-of-thrones-deaths` 🤨 Who gives a
