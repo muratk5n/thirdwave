@@ -101,12 +101,8 @@ demonstrated in October"
 
 ---
 
-Laughing now, won't be laughing in a few months friend
-
----
-
-The outline of deal are obvious.. the annexed areas are accepted as
-RU, in return for RU not taking more areas, and not landlocking UA.
+The outline of deal.. annexed areas are accepted as RU, in return for
+RU not taking more areas, and not landlocking UA.
 
 ---
 
