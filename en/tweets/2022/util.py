@@ -1,7 +1,7 @@
 import pandas as pd, datetime, numpy as np, requests
 import requests, urllib.parse, json
 from pandas_datareader import data, wb
-import matplotlib.pyplot as plt, math
+import matplotlib.pyplot as plt, math, yf
 
 from skimage.color import rgb2gray, rgb2lab, deltaE_cie76
 from skimage.segmentation import felzenszwalb
@@ -13,6 +13,11 @@ import datetime, time as timelib
 import urllib.request as urllib2
 from io import BytesIO
 import pandas_ta as ta
+
+def yf_eps(ticker):
+    df = yf.get_earnings(ticker)
+    df = df.dropna().head(3)    
+    return df[['startdatetime','epsestimate','epsactual']]
 
 def sm_plot_kurd1(geo):
     clat,clon=37, 42; zoom=0.6

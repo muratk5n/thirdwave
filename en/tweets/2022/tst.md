@@ -8,4 +8,8 @@ u.sm_plot_ukr3('ukrdata/alt1-1010.csv','ukrdata/alt1-1002.csv',geo)
 plt.savefig('/tmp/out1.png')
 ```
 
+```python
+import util as u
+u.yf_eps("WMT")
+```
 
