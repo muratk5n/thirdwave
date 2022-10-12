@@ -1,5 +1,127 @@
 # Week 41 
 
+---
+
+FT: "Hydrogen fund Hy24 raises €2bn as investors seek to tap clean
+energy shift.. Round attracts global groups from Airbus and Total to
+SocGen and BBVA"
+
+---
+
+Cathie "She Gives Me No Wood" made bad investments and expects FED to
+reverse those losses. Investing in battery electric cars and crypto?
+What were you thinking?
+
+CNBC: "Ark's Cathie Wood issues open letter to the Fed, saying it is
+risking an economic 'bust'"
+
+---
+
+Near endpoints generating electricity is fine.. Long-distance energy
+transmission however must be gas-based. I would even pipe clean gas
+into homes at that point power can be generated from fuel-cells. One
+step earlier, fine again, neighborhood fuel-cell "transformer" could
+generate power for the neighborhood and supply the local "grid". But
+inter-city grid, inter-state grid, inter-anything grid is a no-no.  At
+long distances we need to *de-fund the grid*.
+
+---
+
+*House of the Dragon* 👍
+
+---
+
+TASS is The Russian News Agency 
+
+---
+
+TASS: "Gazprom already found NATO explosive device on Nord Stream in
+2015.. [the] mine disposal unmanned underwater vehicle was found
+during the scheduled visual inspection of the Nord Stream 1 gas
+pipeline"
+
+---
+
+[Link](https://drive.google.com/uc?export=view&id=128cOZoAEpiFRhlgDu_0tUKKP6uc5Qcib)
+
+---
+
+There is some freak stuff coming out of Sweden.. Is there a hidden
+globalist cell there? Do they host Bilderberg meetings..?
+Eyes-wide-shut type of stuff, under the mountain, in the abandoned
+bunker, you know what I'm talking about.. Suspicious.
+
+---
+
+Swedish Central Bank and the globalists behind them obviously favored
+bank bailouts and wanted to reward that behaviour.
+
+---
+
+Portfolio Optimization won the Prize once.. its math can make any
+knowledgable practitioner laugh.
+
+---
+
+Econ "Nobel"
+
+[[-]](2018/05/faux-nobel.html)
+
+---
+
+Al Jazeera: "Trio wins [Nobel Prize] for research on how regulating
+banks and propping up failing lenders can stave off worse crisis"
+
+---
+
+Al Jazeera: "Hungary and Serbia to build pipeline to transport Russian
+oil.. Countries agree to build pipeline to bring crude from Urals to
+Serbia as EU sanctions limit supplies through Croatia"
+
+---
+
+TASS: "[Underground Gas Storage] facilities in Europe almost 91%
+full..  It is reported that the filling of storage facilities is
+largely due to the purchase of [LNG] and supply through alternative
+pipelines at current high prices"
+
+---
+
+Alan Hawkshaw & Keith Mansfiel - Organ Mania \#music
+
+[[-]](https://youtu.be/MDpQ9KMmBfM)
+
+---
+
+Stanpoli visitors probably noticed stray dogs there - foxes are better
+but stray animals are not good, not for the citizens nor for the
+animal.
+
+---
+
+"While foxes have been around in [London] since the end of the First
+World War, their numbers have boomed in the past three decades. The
+expanding sprawl of the city — offering foxes free accommodation and
+leftover takeaways — can help explain these increases. The London
+Wildlife Trust estimates that there are 10,000 foxes in the city"
+
+---
+
+Haha. 
+
+"Larry the cat chases off fox outside No 10 [UK]"
+
+---
+
+I have to admit UK politics is fun - constant theater
+
+---
+
+The Guardian: "[PM] has overruled [Chanc of Exch's] top appointment
+[of a high-profile outsider] at the Treasury and handed the role to a
+veteran Treasury official"
+
+---
 
 High-temperature electrolysis, uses heat direct, no need for
 electricity.  Very cool.
