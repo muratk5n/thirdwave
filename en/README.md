@@ -55,8 +55,7 @@ compounds the problem.
 "Finfluencers"
 
 The Mandarin: "The Australian Securities and Investments Commission
-[had a session on] on greenwashing, crypto regulation, and
-finfluencers"
+[had a session on].. crypto regulation, and finfluencers"
 
 ---
 
