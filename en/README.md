@@ -4,21 +4,21 @@
 
 These are all fantastic projects
 
-H2 View: "The US Department of Energy (DOE) has announced the winners
-of the first phase of the H-Prize..
+H2 View: "The US Department of Energy has announced the winners of the
+first phase of the H-Prize..
 
 - BoMax Hydrogen (Sanford, FL) a system that integrates light-activated
 nanoparticles with an enzyme to produce clean hydrogen from sunlight
 
-- Gold Hydrogen Team (Houston, TX) a process using dark fermentation to
-biologically produce hydrogen in spent oil wells 
+- Gold Hydrogen Team (Houston, TX) a process using dark fermentation
+to biologically produce hydrogen in spent oil wells
 
 - Electro-Active Hydrogen (Knoxville, TN) a system that integrates solar
 energy with algal hydrothermal liquefaction and microbial electrolysis
 to generate clean hydrogen, leveraging the chemical energy from
 organic matter
 
-- Evolve Hydrogen Inc. (East Northport, NY) a novel electrolyser system
+- Evolve Hydrogen Inc. (East Northport, NY) a novel electrolyser system
 design that can use seawater as a feedstock without the need for
 precious metal materials
 
@@ -38,8 +38,8 @@ produce hydrogen from seawater using a photoelectrochemical process
 and operating expenses of an electrolysis system by producing clean
 water using waste heat from the electrolyser
 
-- The Hope Group (Lubbock, TX) in-situ microwave-assisted catalytic
-heating to crack methane­ and generate hydrogen directly from depleted
+- The Hope Group (Lubbock, TX) in-situ microwave-assisted catalytic
+heating to crack methane­and generate hydrogen directly from depleted
 natural gas reservoirs"
 
 ---
