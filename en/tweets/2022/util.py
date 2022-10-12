@@ -14,6 +14,16 @@ import urllib.request as urllib2
 from io import BytesIO
 import pandas_ta as ta
 
+def spy_earnings():
+    url = "https://www.spglobal.com/spdji/en/documents/additional-material/sp-500-eps-est.xlsx"
+    hdr = {'User-Agent':'Mozilla/5.0'}
+    req = urllib2.Request(url,headers=hdr)
+    file = io.BytesIO(urllib2.urlopen(req).read())
+    df = pd.read_excel(file,sheet_name="QUARTERLY DATA",skiprows=6,header=None)
+    df.columns = ['date','op_ex_ps','eps','cash_div_ps','sales_ps','book_val_ps','capex_ps','price','divisor']
+    df = df.set_index(pd.to_datetime(df.date))
+    return df
+    
 def yf_eps(ticker):
     df = yf.get_earnings(ticker)
     df = df.dropna().head(3)    
