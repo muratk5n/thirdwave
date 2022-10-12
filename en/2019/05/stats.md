@@ -23,11 +23,11 @@ print (df['growann'].tail(5))
 
 ```text
 DATE
-2021-04-01    6.726283
-2021-07-01    2.303426
-2021-10-01    6.894521
-2022-01-01   -1.573400
-2022-04-01   -0.934183
+2021-04-01    7.004896
+2021-07-01    2.652766
+2021-10-01    6.957257
+2022-01-01   -1.631278
+2022-04-01   -0.577282
 Name: growann, dtype: float64
 ```
 
@@ -67,12 +67,12 @@ plt.savefig('cycle.png')
 ```text
                gdpyoy
 DATE                 
-2021-01-01   0.546977
-2021-04-01  12.226677
-2021-07-01   4.946556
-2021-10-01   5.533484
-2022-01-01   3.527892
-2022-04-01   1.709777
+2021-01-01   1.191935
+2021-04-01  12.460854
+2021-07-01   4.955654
+2021-10-01   5.717100
+2022-01-01   3.683679
+2022-04-01   1.796042
                  inf
 DATE                
 2022-03-01  8.542456
@@ -260,6 +260,37 @@ DATE
 ```
 
 ![](compprof.png)
+
+<a name="earnings"/>
+
+SP 500 Earnings Per Share
+
+```python
+import pandas as pd, urllib.request as urllib2, io
+url = "https://www.spglobal.com/spdji/en/documents/additional-material/sp-500-eps-est.xlsx"
+hdr = {'User-Agent':'Mozilla/5.0'}
+req = urllib2.Request(url,headers=hdr)
+file = io.BytesIO(urllib2.urlopen(req).read())
+df = pd.read_excel(file,sheet_name="QUARTERLY DATA",skiprows=6,header=None,index_col=0,parse_dates=True)
+print (df[2].head(4))
+df[2].plot()
+plt.axvspan('01-09-1990', '01-07-1991', color='y', alpha=0.5, lw=0)
+plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
+plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
+plt.savefig('sp500-earnings.png')
+```
+
+```text
+0
+2022-09-30      NaN
+2022-06-30    42.74
+2022-03-31    45.99
+2021-12-31    53.94
+Name: 2, dtype: float64
+```
+
+![](sp500-earnings.png)
+
 
 <a name="unempl"></a>
 
