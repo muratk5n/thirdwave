@@ -139,12 +139,11 @@ with First US Electrolyzer Manufacturing Facility"
 
 ---
 
-Tech goes to clean fuel direct. Sunlight to H2.
-
-That aspect of H2 production could be a game changer, bcz the final
-target is such a basic element that there could be many pathways to
-it. And lo and behold, we can go from heat to H2, or (yet
-under-explored) from biological processes to H2, sunshine to H2, as
+Tech goes to clean fuel direct. Sunlight to H2. This aspect of H2
+production was always the most compelling, as in game-changing sense;
+since the final target is such a basic element, there are many
+pathways to it, and lo and behold, we can go from heat to H2, or (yet
+under-explored) from biological processes to H2, or sunshine to H2, as
 well as already established methods..
 
 ---
