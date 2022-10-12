@@ -81,9 +81,9 @@ watch it, heads up
 I'm looking at [WaPo GH](https://github.com/washingtonpost), I see
 `data-police-shootings`, I used its data before, good, but no war
 related data? There is `data-game-of-thrones-deaths` 🤨 Who gives a
-shit about that? 21st century journalism is not just about 3 "being
-online" - it should be about doing stuff that can only be done online,
-disseminating curated raw data as well as regular news items.
+shit about that? 21st century journalism should not just be about
+"being online" - but also about doing stuff that can *only* be done
+online, eg disseminating curated raw data.
 
 ---
 
