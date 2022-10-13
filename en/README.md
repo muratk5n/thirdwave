@@ -55,9 +55,9 @@ There was a bonanza of earnings during covid recovery.
 
 ---
 
-SP 500 earnings number is combo of all earnings reports from all
-companies under SPY. There was other related data, I take those too,
-dividends, sales, capex..
+SP 500 earnings number is combo of earnings reports from all companies
+under SPY. There was other related data, I take those too, dividends,
+sales, capex..
 
 ---
 
