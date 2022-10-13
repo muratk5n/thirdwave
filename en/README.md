@@ -118,9 +118,9 @@ befalls some.
 
 ---
 
-Former Joint Chiefs chair [Mike Mullen] calls for talks to end Ukraine
-war.. Retired Admiral.. said we have to ‘do everything we possibly can
-to try to get to the table to resolve this thing.’
+"Former Joint Chiefs chair [Mike Mullen] calls for talks to end Ukraine
+war.. Retired Admiral.. said we have to 'do everything we possibly can
+to try to get to the table to resolve this thing.'"
 
 [[-]](https://responsiblestatecraft.org/2022/10/10/former-joint-chiefs-chair-calls-for-talks-to-end-ukraine-war/)
 
@@ -128,10 +128,10 @@ to try to get to the table to resolve this thing.’
 
 Economist Steve Keen: "[In his research] Bernanke was relying on the
 mainstream theory that banks simply act as intermediaries between
-savers and borrowers—the ideas for which his Nobble (not a typo!)
-Prize companions Diamond and Dybvig received their share of the Bank
-of Sweden's loot this year (the prize was created by and funded by the
-Central Bank of Sweden, not the Nobel Foundation)...
+savers and borrowers—the ideas for which his.. Prize companions
+Diamond and Dybvig received their share of the Bank of Sweden's loot
+this year (the prize was created by and funded by the Central Bank of
+Sweden, not the Nobel Foundation)...
 
 [Bernanke said after GFC] 'And although there are a lot of Americans
 who understandably think that government money would be better spent
@@ -164,8 +164,8 @@ The Atlantic: "There Are No 'Five Stages' of Grief"
 
 Nearly a billion? Is this a joke? 
 
-'Conspiracy theorist Alex Jones ordered to pay $965 million in damages
-to Sandy Hook victims families"
+Euronews: "Conspiracy theorist Alex Jones ordered to pay $965 million
+in damages to Sandy Hook victims families"
 
 ---
 
