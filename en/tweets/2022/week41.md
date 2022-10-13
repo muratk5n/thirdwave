@@ -29,7 +29,7 @@ pyrolytic gasification process to convert carbon-based feedstocks into
 syngas from which hydrogen can be extracted—with the remaining syngas
 used in a solid oxide fuel cell to generate power to run the system
 
-- NX Fuels Inc. (Ann Arbor, MI) a technology that harnesses sunlight to
+- NX Fuels Inc. (Ann Arbor, MI) a technology that harnesses sunlight to
 produce hydrogen from seawater using a photoelectrochemical process
 
 - PAX H2(O) (Richmond, CA) a technology that could reduce the capital

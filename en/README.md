@@ -114,13 +114,6 @@ Out[1]:
 
 ---
 
-The more I perfect my DRIPOVEGX™ (dried poultry veg mix) the sadder it
-is seeing hunger - can produce 2 days worth of meal for ne person for
-$6, dry, durable, to be shipped anywhere in the world. Yet hunger
-befalls some.
-
----
-
 "Former Joint Chiefs chair [Mike Mullen] calls for talks to end Ukraine
 war.. Retired Admiral.. said we have to 'do everything we possibly can
 to try to get to the table to resolve this thing.'"
