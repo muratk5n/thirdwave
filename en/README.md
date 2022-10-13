@@ -91,7 +91,8 @@ I need a combined earnings number
 
 ---
 
-Bloomberg: "[8/2022] Company sees progress on inventory bloat, supply-chain costs"
+Bloomberg: "[8/2022, Walmart] sees progress on inventory bloat,
+supply-chain costs"
 
 ---
 
