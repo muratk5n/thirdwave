@@ -38,7 +38,7 @@ Mykolaiv, near Odesa
 
 ---
 
-But the CapEx was not at a level to justify those earnings increase,
+But the CapEx was not at a level to justify that earnings increase,
 now eps is coming back down to trend.
 
 ```python

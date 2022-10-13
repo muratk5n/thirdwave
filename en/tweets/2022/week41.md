@@ -383,7 +383,6 @@ geo = [[48.59086903747, 38.00222462226],[49.41519908195, 38.17381415982],[47.012
 u.sm_plot_ukr3('ukrdata/alt1-1010.csv','ukrdata/alt1-1002.csv',geo)
 ```
 
-```
 [[-]](https://pbs.twimg.com/media/Feu4V1-WIAA9ZnL?format=png&name=small)
 
 ---
