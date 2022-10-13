@@ -71,7 +71,7 @@ Dude actually writes songs about video games
 
 ---
 
-♪♬ Cause you're about to get swept like the noob you is ♪♬ 
+♪♬ Cause you're about to get swept ♪♬ like the noob you is ♪♬ 
 
 ---
 
