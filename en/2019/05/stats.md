@@ -75,12 +75,12 @@ DATE
 2022-04-01   1.796042
                  inf
 DATE                
-2022-03-01  8.542456
 2022-04-01  8.258629
 2022-05-01  8.581512
 2022-06-01  9.059758
 2022-07-01  8.524815
 2022-08-01  8.262693
+2022-09-01  8.201670
 ```
 
 <a name='taylor'/>
@@ -659,6 +659,7 @@ def gini(pop,val):
 
 cols = ['WFRBLT01026', 'WFRBLN09053','WFRBLN40080','WFRBLB50107']
 df = u.get_fred(1989,cols)
+df = df.interpolate()
 p = [0.01, 0.09, 0.40, 0.50]
 g = df.apply(lambda x: gini(p,x),axis=1)
 print (g.tail(4))
@@ -681,11 +682,11 @@ plt.savefig('gini.png')
 
 ```text
 DATE
-2021-04-01    0.454
-2021-07-01    0.445
+2021-07-01    0.444
 2021-10-01    0.441
 2022-01-01    0.436
-dtype: float64
+2022-04-01    0.422
+Freq: QS-OCT, dtype: float64
 ```
 
 ![](gini.png)
