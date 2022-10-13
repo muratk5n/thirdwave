@@ -2,199 +2,170 @@
 
 ---
 
-These are all fantastic projects
-
-H2 View: "The US Department of Energy has announced the winners of the
-first phase of the H-Prize..
-
-- BoMax Hydrogen (Sanford, FL) a system that integrates light-activated
-nanoparticles with an enzyme to produce clean hydrogen from sunlight
-
-- Gold Hydrogen Team (Houston, TX) a process using dark fermentation
-to biologically produce hydrogen in spent oil wells
-
-- Electro-Active Hydrogen (Knoxville, TN) a system that integrates solar
-energy with algal hydrothermal liquefaction and microbial electrolysis
-to generate clean hydrogen, leveraging the chemical energy from
-organic matter
-
-- Evolve Hydrogen Inc. (East Northport, NY) a novel electrolyser system
-design that can use seawater as a feedstock without the need for
-precious metal materials
-
-- H3 (Palo Alto, CA) a system that integrates high-temperature solid
-oxide electrolyzers with thermal energy storage to enable continuous
-hydrogen production even when using intermittent renewable resources
-
-- Biomass Super Gasifier (Indianapolis, IN) an indirectly-heated
-pyrolytic gasification process to convert carbon-based feedstocks into
-syngas from which hydrogen can be extracted—with the remaining syngas
-used in a solid oxide fuel cell to generate power to run the system
-
-- NX Fuels Inc. (Ann Arbor, MI) a technology that harnesses sunlight to
-produce hydrogen from seawater using a photoelectrochemical process
-
-- PAX H2(O) (Richmond, CA) a technology that could reduce the capital
-and operating expenses of an electrolysis system by producing clean
-water using waste heat from the electrolyser
-
-- The Hope Group (Lubbock, TX) in-situ microwave-assisted catalytic
-heating to crack methane­and generate hydrogen directly from depleted
-natural gas reservoirs"
+"Russia is building its own AFRICOM in Africa"
 
 ---
 
-Finfluencers are "financial influencers [who are] unlicensed
-individuals giving people on social media financial
-advice".. Licensing aside crypto has inherently weak internal
-protection and random social med jagoff giving advice on it compounds
-the problem.
+WSJ: "Amid U.S.-Saudi Tensions, Officials Say Military Ties Will Endure"
 
 ---
 
-"Finfluencers"
+Not only is the process fossil-free the end-product is **better**.
 
-The Mandarin: "The Australian Securities and Investments Commission
-[had a session on].. crypto regulation, and finfluencers"
-
----
-
-<img width="95%" src="https://pbs.twimg.com/media/Fe0FhHfWYAUiR21?format=jpg&name=small"/>
-
-H2 Central: "China’s state-backed industry group the China Hydrogen
-Alliance has unveiled an initiative calling for the building of 100GW
-of renewable hydrogen production capacity"
+"New Research Shows Hydrogen-Reduced Iron has Superior Properties"
 
 ---
 
-Upstream: "Beijing-supervised industry body calls for China to
-install 100GW of green hydrogen by 2030"
+H2 Central: "Infinity Fuel Cell and Hydrogen, Inc.™ announced that
+Infinity’s NASA-funded, Advanced Modular Power and Energy System
+(AMPES) operated successfully aboard Blue Origin’s New Shepard 23
+flight on September 12.. The AMPES system is a scalable modular system
+that employs Infinity’s patented non-flow through, air-independent
+fuel cell technology. The technology could be used to power landers,
+rovers, surface equipment and habitats..
+
+This was the first launch of a fully integrated H2-O2 fuel cell power
+system aboard a space-capable vehicle since the retirement of the
+Space Shuttle and the first-ever aboard a commercial space launch
+vehicle. The results mark an important test and milestone in the
+development of Infinity’s technology"
 
 ---
 
-I'm looking at [WaPo GH](https://github.com/washingtonpost), I see
-`data-police-shootings`, I used its data before, good, but no war
-related data? There is `data-game-of-thrones-deaths` 🤨 Who gives a
-shit about that? 21st century journalism should not just be about
-"being online" - but also about doing stuff that can *only* be done
-online, eg disseminating curated raw data.
+Mykolaiv, near Odesa
+
+"Russian missiles now target Ukraine's Mykolaiv"
 
 ---
 
-RU/UA frontline is just a list of geo points; someone at MSM can
-curate the data, and publish it as CSV file on a Github repo.
+But the CapEx was not at a level to justify those earnings increase,
+now eps is coming back down to trend.
+
+```python
+df = u.spy_earnings()
+df = df[df.index > '2012-01-01']
+df[['capex_ps','eps','cash_div_ps']].plot()
+```
+
+[[-]](https://pbs.twimg.com/media/Fe5TTbaXoAA2eg5?format=png&name=small)
 
 ---
 
-CNBC: "Treasury fines crypto company $29.3 million for violating
-multiple U.S. sanctions, Bank Secrecy Act"
+There was a bonanza of earnings during covid recovery.
 
 ---
 
-This is what Cummins does for their day job, building engine for a
-TANK. The fact that these guys going all in for clean fuels should say
-something.
-
-Janes Defense: "Cummins 1,000 hp Advanced Combat Engine to be
-demonstrated in October"
+SP 500 earnings number is combo of all earnings reports from all
+companies under SPY. There was other related data, I take those too,
+dividends, sales, capex..
 
 ---
 
-The outline of deal.. annexed areas are accepted as RU, in return for
-RU not taking more areas, and not landlocking UA.
+My Guild (testo) di J.T. Machinima - Rockol \#music
+
+[[-]](https://youtu.be/cMCiJOAhQZ4)
 
 ---
 
-Last chance.. Make a deal. I believe things are abt to get much worse
-
-Arab News: "Russia’s chief envoy: Moscow open to talks with West,
-awaiting serious proposal"
+Dude actually writes songs about video games
 
 ---
 
-The Guardian: "Venezuela floods kill 25 after month’s worth of rain
-falls in eight hours"
+♪♬ Cause you're about to get swept like the noob you is ♪♬ 
 
 ---
 
-H2 Central: "Scottish hydrogen train project on track [guessing no pun
-intended] to deliver climate targets. An innovative hydrogen train
-project led by the University of St Andrews has successfully completed
-its next phase of testing"
+Oh yeaaaa
+
+[[-]](2019/05/stats.html#earnings)
 
 ---
 
-H2 Central: "Cummins Drives Domestic Green Hydrogen Economy Forward
-with First US Electrolyzer Manufacturing Facility"
+I see one at SP 500 level.
+
+In a damn "Excel sheet". But can parse
 
 ---
 
-Tech goes to clean fuel direct. Sunlight to H2. This aspect of H2
-production is the most compelling, as in game-changing sense; since
-the final target is such a basic element, there are many pathways to
-it, and lo and behold, we can go from heat to H2, or (yet
-under-explored) from biological processes to H2, or sunshine to H2, as
-well as already established methods..
+I need a combined earnings number 
 
 ---
 
-Fantastic. Now deploy. En MASSE. Produce at scale.
-
-"SunHydrogen.. the developer of a breakthrough technology to produce
-renewable hydrogen using sunlight and water, today announced that it
-has received the India Patent Office’s decision to grant its patent
-'Multi-junction artificial photosynthetic cell with enhanced
-photovoltages.'"
-
-[[-]](https://www.sunhydrogen.com/news-posts/sunhydrogen-receives-india-patent)
+"[8/2022] Company sees progress on inventory bloat, supply-chain costs"
 
 ---
 
-Lalo Schifrin - End Credits \#music
+Walmart is showing some earnings growth QoQ
 
-[[-]](https://youtu.be/VTGulnPiJ-I)
+```python
+u.yf_eps("WMT")
+```
 
----
-
-Dude's BEV caught fire after collision
-
-[[-]](https://twitter.com/joshdubnau/status/1579552489854349312)
-
----
-
-I like the prop. Uber, Lyft might lose profits, but they can adapt to
-a new environment.
-
-NYT: "The Labor Department.. unveiled a proposal that would make it
-more likely for millions of janitors, home-care and construction
-workers and gig drivers to be classified as employees rather than
-independent contractors.
-
-Companies are required to provide certain benefits and protections to
-employees but not to contractors, such as paying a minimum wage,
-overtime, a portion of a worker’s Social Security taxes and
-contributions to unemployment insurance.
-	      
-The proposed rule is essentially a test that the Labor Department will
-apply to determine whether workers are contractors or employees for
-companies. The test considers factors such as how much control workers
-have over how they do their jobs and how much opportunity they have to
-increase their earnings by doing things like offering new
-services. Workers who have little of either are often considered
-employees"
+```text
+Out[1]: 
+              startdatetime  epsestimate  epsactual
+4  2022-08-16T07:02:00.000Z         1.62       1.77
+5  2022-05-17T07:02:00.000Z         1.48       1.30
+6  2022-02-17T07:11:00.000Z         1.50       1.53
+```
 
 ---
 
-CNBC: "Uber, Lyft shares sink after Labor Department issues proposal
-on gig workers"
+The more I perfect my DRIPOVEGX™ (dried poultry veg mix) the sadder it
+is seeing hunger - can produce 2 days worth of meal for ne person for
+$6, dry, durable, to be shipped anywhere in the world. Yet hunger
+befalls some.
 
 ---
 
-A good thing.. US had an hand there - acknowledging that.  Now fix
-Ukraine.
+Former Joint Chiefs chair [Mike Mullen] calls for talks to end Ukraine
+war.. Retired Admiral.. said we have to ‘do everything we possibly can
+to try to get to the table to resolve this thing.’
 
-F24: "Israel has reached ‘historic’ maritime border deal with Lebanon,
-says PM Lapid"
+[[-]](https://responsiblestatecraft.org/2022/10/10/former-joint-chiefs-chair-calls-for-talks-to-end-ukraine-war/)
+
+---
+
+Economist Steve Keen: "[In his research] Bernanke was relying on the
+mainstream theory that banks simply act as intermediaries between
+savers and borrowers—the ideas for which his Nobble (not a typo!)
+Prize companions Diamond and Dybvig received their share of the Bank
+of Sweden's loot this year (the prize was created by and funded by the
+Central Bank of Sweden, not the Nobel Foundation)...
+
+[Bernanke said after GFC] 'And although there are a lot of Americans
+who understandably think that government money would be better spent
+going directly to families and businesses instead of banks – "where's
+our bailout?," they ask – the truth is that a dollar of capital in a
+bank can actually result in eight or ten dollars of loans to families
+and businesses, a multiplier effect that can ultimately lead to a
+faster pace of economic growth.'
+
+That is the mythical 'money multiplier' model of money creation that
+the Bank of England said was rubbish in 2014. But because Bernanke
+believed that myth, and Obama followed his advice, the recovery from
+the Global Financial Crisis was the slowest recovery from a recession
+in the history of the United States. By comparison, the recovery from
+the Covid recession was the fastest—and then the money went straight
+to the public, rather than to the banks.
+
+For these failures, Bernanke gets the Economics Nobel"
+
+[[-]](https://www.patreon.com/posts/nobel-prize-for-73177556)
+
+---
+
+That's right - and for Sandy Hook families there seems to be only two
+- sadness then jump straight into cashing in 😶
+
+The Atlantic: "There Are No 'Five Stages' of Grief"
+
+---
+
+Nearly a billion? Is this a joke? 
+
+'Conspiracy theorist Alex Jones ordered to pay $965 million in damages
+to Sandy Hook victims families"
 
 ---
 
