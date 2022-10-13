@@ -155,8 +155,8 @@ For these failures, Bernanke gets the Economics Nobel"
 
 ---
 
-That's right - and for Sandy Hook families there seems to be only two
-- sadness then jump straight into cashing in 😶
+That's right - and for Sandy Hook families there seems to be only two - 
+sadness then jump straight into cashing in 😶
 
 The Atlantic: "There Are No 'Five Stages' of Grief"
 
