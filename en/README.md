@@ -2,21 +2,7 @@
 
 ---
 
-The conflict in UA is not "bleeding out Russia", it is actually
-bleeding out Europe and the West. RU can inflict damage on the place
-continuously while containing the blowback. 
-
----
-
 NYT: "Death Toll Rises as Russia Bombards Ukraine’s Cities for a Fourth Day"
-
----
-
-RU isn't getting isolated. Still making deals. 
-
-West Observer: "Putin promotes gas distribution center in Turkey.. the
-route.. via the Black Sea region is currently the most reliable and
-safest way to deliver Russian gas for the European market"
 
 ---
 
@@ -47,6 +33,12 @@ AR-15-style rifle"
 ---
 
 TASS: "Russia will not supply oil to countries setting price caps"
+
+---
+
+West Observer: "Putin promotes gas distribution center in Turkey.. the
+route.. via the Black Sea region is currently the most reliable and
+safest way to deliver Russian gas for the European market"
 
 ---
 
