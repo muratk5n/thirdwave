@@ -2,166 +2,101 @@
 
 ---
 
-"Russia is building its own AFRICOM in Africa"
+The conflict in UA is not "bleeding out Russia", it is actually
+bleeding out Europe and the West. RU can inflict damage on the place
+continuously while containing the blowback. 
 
 ---
 
-WSJ: "Amid U.S.-Saudi Tensions, Officials Say Military Ties Will Endure"
+Werent they running out of missiles?
+
+NYT: "Death Toll Rises as Russia Bombards Ukraine’s Cities for a Fourth Day"
 
 ---
 
-Not only is the process fossil-free the end-product is **better**.
-
-"New Research Shows Hydrogen-Reduced Iron has Superior Properties"
-
----
-
-H2 Central: "Infinity Fuel Cell and Hydrogen, Inc.™ announced that
-Infinity’s NASA-funded, Advanced Modular Power and Energy System
-(AMPES) operated successfully aboard Blue Origin’s New Shepard 23
-flight on September 12.. The AMPES system is a scalable modular system
-that employs Infinity’s patented non-flow through, air-independent
-fuel cell technology. The technology could be used to power landers,
-rovers, surface equipment and habitats..
-
-This was the first launch of a fully integrated H2-O2 fuel cell power
-system aboard a space-capable vehicle since the retirement of the
-Space Shuttle and the first-ever aboard a commercial space launch
-vehicle. The results mark an important test and milestone in the
-development of Infinity’s technology"
+TR speaking Anatolians don't understand an Uygur from Centra Asia even
+though both languages are "Turkic". Brits and 'mericans have different
+cultures even though they speak the same language. Region trumps all.
 
 ---
 
-Mykolaiv, near Odesa
+RU isn't getting isolated. Still making deals. 
 
-"Russian missiles now target Ukraine's Mykolaiv"
+West Observer: "Putin promotes gas distribution center in Turkey.. the
+route.. via the Black Sea region is currently the most reliable and
+safest way to deliver Russian gas for the European market"
 
 ---
 
-But the CapEx was not at a level to justify that earnings increase,
-now eps is coming back down to trend.
+TASS: "Large sections of Nord Stream filled with water.. To repair
+them, it will be necessary to cut off and replace a significant part
+of the pipe, said the head of Gazprom"
 
-```python
-df = u.spy_earnings()
-df = df[df.index > '2012-01-01']
-df[['capex_ps','eps','cash_div_ps']].plot()
+---
+
+Al Jazeera: "Palestinian factions sign reconciliation deal in Algiers"
+
+---
+
+How about a f-ing bazooka? The police need to be armed with that, walk
+around with it constantly carry on the shoulder, always at the ready;
+who knows when someone is about to get a drop on you?
+
+---
+
+Where was the good guy with a .. ah ok.. police was there, and he had
+a pistol. Well the good guy needs a BIGGER gun.
+
+WION: "Two US cops killed, another hurt in ambush after fake domestic
+violence call.. the gunman made the 911 call to report a fake domestic
+violence incident at home, and then ambushed the officers with an
+AR-15-style rifle"
+
+---
+
+TASS: "Russia will not supply oil to countries setting price caps"
+
+---
+
+RFI: "US and S. Arabia clash in public over oil cut, Russia.. Saudi
+Arabia issued a rare press release on Thursday, shrugging off
+accusations it was "taking sides in international conflicts" as
+Russia's war in Ukraine rages on"
+
+---
+
+Ineqality drop continues..
+
+[[-]](2019/05/stats.html#gini)
+
+---
+
+"CF Industries, a leading global manufacturer of hydrogen and nitrogen
+products, has entered into the largest-of-its-kind commercial
+agreement with ExxonMobil to capture and permanently store up to 2
+million metric tons of CO2 emissions annually from its manufacturing
+complex in Louisiana.
+
+As we leverage proven carbon capture and sequestration technology, CF
+Industries will be first-to-market with a significant volume of blue
+ammonia"
+
+---
+
+September CPI YoY (inflation) is lower; the decrease is at a good slow
+but steady pace. Exactly the kind of downtrend u'd expect to see with
+the amount of gradual rate rises that are happening.
+
 ```
-
-[[-]](https://pbs.twimg.com/media/Fe5TTbaXoAA2eg5?format=png&name=small)
-
----
-
-There was a bonanza of earnings during covid recovery.
-
----
-
-SP 500 earnings number is combo of earnings reports from all companies
-under SPY. There was other related data, I take those too, dividends,
-sales, capex..
-
----
-
-My Guild (testo) di J.T. Machinima - Rockol \#music
-
-[[-]](https://youtu.be/cMCiJOAhQZ4)
-
----
-
-Dude actually writes songs about video games
-
----
-
-♪♬ Cause you're about to get swept ♪♬ like the noob you is ♪♬ 
-
----
-
-Oh yeaaaa
-
-[[-]](2019/05/stats.html#earnings)
-
----
-
-In a damn "Excel sheet". Parsing
-
----
-
-I see one at SP 500 level.
-
----
-
-I need a combined earnings number 
-
----
-
-Bloomberg: "[8/2022, Walmart] sees progress on inventory bloat,
-supply-chain costs"
-
----
-
-Walmart is showing some earnings growth QoQ
-
-```python
-u.yf_eps("WMT")
-```
-
-```text
-Out[1]: 
-              startdatetime  epsestimate  epsactual
-4  2022-08-16T07:02:00.000Z         1.62       1.77
-5  2022-05-17T07:02:00.000Z         1.48       1.30
-6  2022-02-17T07:11:00.000Z         1.50       1.53
+2022-07-01  8.524815
+2022-08-01  8.262693
+2022-09-01  8.201670
 ```
 
 ---
 
-"Former Joint Chiefs chair [Mike Mullen] calls for talks to end Ukraine
-war.. Retired Admiral.. said we have to 'do everything we possibly can
-to try to get to the table to resolve this thing.'"
-
-[[-]](https://responsiblestatecraft.org/2022/10/10/former-joint-chiefs-chair-calls-for-talks-to-end-ukraine-war/)
-
----
-
-Economist Steve Keen: "[In his research] Bernanke was relying on the
-mainstream theory that banks simply act as intermediaries between
-savers and borrowers—the ideas for which his.. Prize companions
-Diamond and Dybvig received their share of the Bank of Sweden's loot
-this year (the prize was created by and funded by the Central Bank of
-Sweden, not the Nobel Foundation)...
-
-[Bernanke said after GFC] 'And although there are a lot of Americans
-who understandably think that government money would be better spent
-going directly to families and businesses instead of banks – "where's
-our bailout?," they ask – the truth is that a dollar of capital in a
-bank can actually result in eight or ten dollars of loans to families
-and businesses, a multiplier effect that can ultimately lead to a
-faster pace of economic growth.'
-
-That is the mythical 'money multiplier' model of money creation that
-the Bank of England said was rubbish in 2014. But because Bernanke
-believed that myth, and Obama followed his advice, the recovery from
-the Global Financial Crisis was the slowest recovery from a recession
-in the history of the United States. By comparison, the recovery from
-the Covid recession was the fastest—and then the money went straight
-to the public, rather than to the banks.
-
-For these failures, Bernanke gets the Economics Nobel"
-
-[[-]](https://www.patreon.com/posts/nobel-prize-for-73177556)
-
----
-
-That's right - and for Sandy Hook families there seems to be only two - 
-sadness then jump straight into cashing in 😶
-
-The Atlantic: "There Are No 'Five Stages' of Grief"
-
----
-
-Nearly a billion? Is this a joke? 
-
-Euronews: "Conspiracy theorist Alex Jones ordered to pay $965 million
-in damages to Sandy Hook victims families"
+H2 View: "German-based Quantron has revealed it [received order from]
+TMP Logistics Group for.. up to 500 Class 8 hydrogen fuel cell trucks"
 
 ---
 
