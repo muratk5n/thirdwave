@@ -86,5 +86,9 @@
 
 [For Members](08/members.html)
 
+[Blowing the Fuse](10/grid-fuse.html)
+
 [The Herouni Antenna, CMB](10/herouni.html)
+
+[A Nostalgia for Modernism](10/modernism-nostalgia-ozyurek.html)
 
