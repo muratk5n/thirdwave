@@ -75,7 +75,7 @@ Dude actually writes songs about video games
 
 Oh yeaaaa
 
-[[-]](2019/05/stats.html#earnings)
+[[-]](../../2019/05/stats.html#earnings)
 
 ---
 

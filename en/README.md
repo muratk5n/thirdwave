@@ -49,7 +49,7 @@ Russia's war in Ukraine rages on"
 
 ---
 
-Ineqality drop continues..
+Inequality fall continues..
 
 [[-]](2019/05/stats.html#gini)
 
