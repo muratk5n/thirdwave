@@ -18,7 +18,7 @@ Al Jazeera: "Palestinian factions sign reconciliation deal in Algiers"
 
 How about a f-ing bazooka? The police need to be armed with that, walk
 around with it constantly carry on the shoulder, always at the ready;
-who knows when someone is about to get a drop on you?
+who knows when someone is about to get a drop on you? 😶
 
 ---
 
