@@ -44,7 +44,7 @@ safest way to deliver Russian gas for the European market"
 
 RFI: "US and S. Arabia clash in public over oil cut, Russia.. Saudi
 Arabia issued a rare press release on Thursday, shrugging off
-accusations it was "taking sides in international conflicts" as
+accusations it was 'taking sides in international conflicts' as
 Russia's war in Ukraine rages on"
 
 ---
@@ -61,11 +61,11 @@ Herbie Hancock - Heartbeat \#music
 
 ---
 
-"CF Industries, a leading global manufacturer of hydrogen and nitrogen
-products, has entered into the largest-of-its-kind commercial
-agreement with ExxonMobil to capture and permanently store up to 2
-million metric tons of CO2 emissions annually from its manufacturing
-complex in Louisiana.
+H2 Central: "CF Industries, a leading global manufacturer of hydrogen
+and nitrogen products, has entered into the largest-of-its-kind
+commercial agreement with ExxonMobil to capture and permanently store
+up to 2 million metric tons of CO2 emissions annually from its
+manufacturing complex in Louisiana.
 
 As we leverage proven carbon capture and sequestration technology, CF
 Industries will be first-to-market with a significant volume of blue
@@ -73,9 +73,9 @@ ammonia"
 
 ---
 
-September CPI YoY (inflation) is lower; the decrease is at a good, slow
-but steady pace. Exactly the kind of downtrend u'd expect to see with
-the current rate rises.
+September CPI YoY (inflation) is lower; the decrease is at a good,
+slow, steady pace. Exactly the kind of downtrend u'd expect to see
+with the current rate rises.
 
 ```
 2022-07-01  8.524815
