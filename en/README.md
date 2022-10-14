@@ -8,15 +8,7 @@ continuously while containing the blowback.
 
 ---
 
-Werent they running out of missiles?
-
 NYT: "Death Toll Rises as Russia Bombards Ukraine’s Cities for a Fourth Day"
-
----
-
-TR speaking Anatolians don't understand an Uygur from Centra Asia even
-though both languages are "Turkic". Brits and 'mericans have different
-cultures even though they speak the same language. Region trumps all.
 
 ---
 
