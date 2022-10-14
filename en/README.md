@@ -67,9 +67,9 @@ ammonia"
 
 ---
 
-September CPI YoY (inflation) is lower; the decrease is at a good slow
+September CPI YoY (inflation) is lower; the decrease is at a good, slow
 but steady pace. Exactly the kind of downtrend u'd expect to see with
-the amount of gradual rate rises that are happening.
+the current rate rises.
 
 ```
 2022-07-01  8.524815
