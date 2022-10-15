@@ -283,15 +283,13 @@ field.” This pushes up power costs even further...
 Fast Chargers and Public Charging Networks
 
 Until now, we’ve mentioned little about other options available for
-charging our Tesla Model 3. However there are some. This growing
-network of “public chargers” is designed to take the place of local
-service stations.
+charging [EV]. However there are some. This growing network of “public
+chargers” is designed to take the place of local service stations.
 
 These “public chargers” are very high capacity units—typically over
 80kW each. They connect directly to the DC batteries in the car
 instead of relying on the smaller AC charger located within the car
-itself. Typical charge times can be around 30 minutes to charge a
-Tesla Model 3 from 20% to 80%.
+itself. Typical charge times can be around 30 minutes..
 
 Do the electrical maths.. and we quickly discover the nasty sting in
 the tail of these units! For Tesla’s fleet, there are two models
@@ -321,7 +319,7 @@ regular basis is very high.
 
 For a brief moment, let’s form a picture in our mind of charging
 stations like this “popping up” everywhere, all around suburban
-Australia. Literally hundreds of them—potentially thousands—in a city
+[country]. Literally hundreds of them—potentially thousands—in a city
 the size of Sydney or Melbourne. Then... Lets read on... below….
 
 We’ve taken a look at what happens at home. We’ve considered that in
@@ -414,6 +412,8 @@ Australia’s so called “Elon Musk” battery plant. Even then there would
 be no guarantee that enough energy could even be stored in it to last
 the eight or so hours it would take to charge 400,000 vehicles
 overnight and also cover for winter or cloudy days at the solar farms.
+
+<a name='losses'/>
 
 Of course the other thing we’ve neglected to include in our
 calculations, is the issue of network losses. As any electrical

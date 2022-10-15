@@ -39,6 +39,12 @@ Friday"
 
 ---
 
+Network losses - this tech is such a sad piece of crap
+
+[[-]](2022/10/grid-fuse.html#losses)
+
+---
+
 Fast chargers are not a panacea either
 
 [[-]](2022/10/grid-fuse.html#fastcharger)
@@ -85,8 +91,8 @@ Differentiation as in auto differentiation; takes any code and
 computes a derivative for it. Can help running sensitivity analysis
 for existing code base without changing the underlying code.
 
-LLNL: "DOE funds LLNL project to improve differentiation of
-extreme-scale science applications"
+"DOE funds LLNL project to improve differentiation of extreme-scale
+science applications"
 
 ---
 
@@ -95,7 +101,7 @@ weapons if Russia uses them in Ukraine"
 
 ---
 
-I pity the flu
+Mr T? I pity the flu
 
 "@MrT
 
@@ -106,12 +112,11 @@ COVID-19 Moderna updated Booster, and I Feel Good!"
 
 How do I rate *American Made*? At first I thought dunno, 3.8, a 4.2..?
 Then I thought what goes for artistic production these days, then I
-said no, it was a FIVE. Holy f-ing shit - post 2016 it's been slim
-pickings.
+said no, it gets a FIVE. Post 2016 it's been slim pickings.
 
 ---
 
-CNB News: "Alaska snow crab season canceled as officials investigate
+CNBC News: "Alaska snow crab season canceled as officials investigate
 disappearance of an estimated 1 billion crabs"
 
 ---
