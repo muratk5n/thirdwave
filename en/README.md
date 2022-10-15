@@ -108,7 +108,7 @@ said no, it gets a FIVE. Post 2016 it's been slim pickings.
 
 ---
 
-CNBC News: "Alaska snow crab season canceled as officials investigate
+CBS News: "Alaska snow crab season canceled as officials investigate
 disappearance of an estimated 1 billion crabs"
 
 ---
