@@ -2,91 +2,117 @@
 
 ---
 
-NYT: "Death Toll Rises as Russia Bombards Ukraine’s Cities for a Fourth Day"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Alpine?src=hash&amp;ref_src=twsrc%5Etfw">#Alpine</a> unveils <a href="https://twitter.com/hashtag/Alpenglow?src=hash&amp;ref_src=twsrc%5Etfw">#Alpenglow</a> <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a>-engined concept <a href="https://t.co/Y5WrRqXXUm">https://t.co/Y5WrRqXXUm</a> via GreenCarCongres</p>&mdash; Steven Wilkins (@hybridelectro) <a href="https://twitter.com/hybridelectro/status/1580854207749718016?ref_src=twsrc%5Etfw">October 14, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-TASS: "Large sections of Nord Stream filled with water.. To repair
-them, it will be necessary to cut off and replace a significant part
-of the pipe, said the head of Gazprom"
+Politico.eu: "Putin claims ‘partial mobilization’ to end in 2 weeks,
+with 222,000 reservists called up so far"
 
 ---
 
-Al Jazeera: "Palestinian factions sign reconciliation deal in Algiers"
+NPR: "477 stranded whales die on remote New Zealand islands.. it
+appears their location systems can get confused by gently sloping
+sandy beaches. [Scientist] said there is a lot of food for the whales
+around the Chatham Islands, and as they swim closer to land, they
+would quickly find themselves going from very deep to shallow water.
+'They rely on their echolocation and yet it doesn't tell them that
+they are running out of water.. They come closer and closer to shore
+and become disoriented. The tide can then drop from below them and
+before they know it, they're stranded on the beach.'"
 
 ---
 
-How about a f-ing bazooka? The police need to be armed with that, walk
-around with it constantly carry on the shoulder, always at the ready;
-who knows when someone is about to get a drop on you? 😶
+Politico.eu: "Furious Tories conclude that Liz Truss is finished.. 'It
+feels like the end. I think she’ll be gone next week,' says veteran
+Tory MP"
 
 ---
 
-Where was the good guy with a .. ah ok.. police was there, and he had
-a pistol. Well the good guy needs a BIGGER gun.
+Is this serious? PM was *just* elected for the post
 
-WION: "Two US cops killed, another hurt in ambush after fake domestic
-violence call.. the gunman made the 911 call to report a fake domestic
-violence incident at home, and then ambushed the officers with an
-AR-15-style rifle"
-
----
-
-TASS: "Russia will not supply oil to countries setting price caps"
+The Hindustan Times: "Rebels on the backbenches of the UK's governing
+Conservative Party are said to be plotting to replace Liz Truss as
+party leader and Prime Minister with a so-called "unity" joint ticket
+team involving former leadership rival Rishi Sunak, it emerged on
+Friday"
 
 ---
 
-West Observer: "Putin promotes gas distribution center in Turkey.. the
-route.. via the Black Sea region is currently the most reliable and
-safest way to deliver Russian gas for the European market"
+Fast chargers are not a panacea either
+
+[[-]](2022/10/grid-fuse.html#fastcharger)
 
 ---
 
-RFI: "US and S. Arabia clash in public over oil cut, Russia.. Saudi
-Arabia issued a rare press release on Thursday, shrugging off
-accusations it was 'taking sides in international conflicts' as
-Russia's war in Ukraine rages on"
+WSJ: "Marine Le Pen Wants France to Chart Its Own Course Between
+U.S. and Russia.. Though President Emmanuel Macron remains in control,
+his hard-right rival’s recent election gains have her rethinking
+France’s role on the global stage"
 
 ---
 
-Inequality fall continues..
+"@karnfull_en
 
-[[-]](2019/05/stats.html#gini)
-
----
-
-Herbie Hancock - Heartbeat \#music
-
-[[-]](https://youtu.be/w0ZFniXdmBU)
+[2021] In addition to the U.S., Poland also looks to involve Japan in
+their \#nuclear and general #cleanenergy plans, especially eyeing
+Gen-IV high-temperature gas reactors (HTGR) for green process heat and
+hydrogen. A research reactor is planned for late 20s"
 
 ---
 
-H2 Central: "CF Industries, a leading global manufacturer of hydrogen
-and nitrogen products, has entered into the largest-of-its-kind
-commercial agreement with ExxonMobil to capture and permanently store
-up to 2 million metric tons of CO2 emissions annually from its
-manufacturing complex in Louisiana.
-
-As we leverage proven carbon capture and sequestration technology, CF
-Industries will be first-to-market with a significant volume of blue
-ammonia"
+IMO Kwarteng did exactly what was agreed upon with PM but now took the
+fall just so gov could signal change.
 
 ---
 
-September CPI YoY (inflation) is lower; the decrease is at a good,
-slow, steady pace. Exactly the kind of downtrend u'd expect to see
-with the current rate rises.
-
-```
-2022-07-01  8.524815
-2022-08-01  8.262693
-2022-09-01  8.201670
-```
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">You know that you can also produce hydrogen using other means than electricity using a nuclear reactor, right? For example using the Bunsen reaction which is what Japan is researching with its HTGR reactor. <a href="https://t.co/LBmgtOjyGY">https://t.co/LBmgtOjyGY</a> <a href="https://t.co/ddo8jvQI9u">pic.twitter.com/ddo8jvQI9u</a></p>&mdash; Maik Kretschmar (@jungpionier_) <a href="https://twitter.com/jungpionier_/status/1462391048534167556?ref_src=twsrc%5Etfw">November 21, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-H2 View: "German-based Quantron has revealed it [received order from]
-TMP Logistics Group for.. up to 500 Class 8 hydrogen fuel cell trucks"
+DOE: "[T]he case for nuclear becomes even more compelling when this
+high-quality steam is electrolyzed and split into pure hydrogen and
+oxygen. A single 1,000 megawatt nuclear reactor could produce more
+than 150,000 tonnes of hydrogen each year. Ten nuclear reactors could
+provide about 1.5 million tonnes annually or 15% of current hydrogen
+produced in the United States"
+
+[[-]](https://www.energy.gov/ne/articles/could-hydrogen-open-new-markets-nuclear)
+
+---
+
+Differentiation as in auto differentiation; takes any code and
+computes a derivative for it. Can help running sensitivity analysis
+for existing code base without changing the underlying code.
+
+LLNL: "DOE funds LLNL project to improve differentiation of
+extreme-scale science applications"
+
+---
+
+The Telegraph: "Macron says France will not retaliate with nuclear
+weapons if Russia uses them in Ukraine"
+
+---
+
+I pity the flu
+
+"@MrT
+
+I Thank GOD for another day! I just received my Annual Flu Shot and
+COVID-19 Moderna updated Booster, and I Feel Good!"
+
+---
+
+How do I rate *American Made*? At first I thought dunno, 3.8, a 4.2..?
+Then I thought what goes for artistic production these days, then I
+said no, it was a FIVE. Holy f-ing shit - post 2016 it's been slim
+pickings.
+
+---
+
+CNB News: "Alaska snow crab season canceled as officials investigate
+disappearance of an estimated 1 billion crabs"
 
 ---
 
