@@ -4,7 +4,7 @@ import folium, re, sys
 def minerals():
 
     m = folium.Map(location=[30, 20], zoom_start=3, tiles="Stamen Terrain")
-        
+
     df = pd.read_csv('mineral_iaea_geo_ur.csv',sep='|')
     for index, row in df.iterrows(): # 
         folium.CircleMarker(
@@ -23,6 +23,16 @@ def minerals():
             radius=3
         ).add_to(m)
 
+    df = pd.read_csv('mineral-coal.csv',sep='|')
+    for index, row in df.iterrows(): # 
+        folium.CircleMarker(
+            [row['Latitude'], row['Longitude']], 
+            color='black',
+            tooltip="%s, Status: %s, %s Mt / year, Total: %s Mt" % (row['Mine Name'], row['Status'], row['Coal Output (Annual, Mt)'],row['Reserves Total (Proven & Probable)']),
+            radius=3
+        ).add_to(m)
+
+    
         
     m.save('minerals-out.html')
 
