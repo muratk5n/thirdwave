@@ -23,19 +23,11 @@ before they know it, they're stranded on the beach.'"
 
 ---
 
-Politico.eu: "Furious Tories conclude that Liz Truss is finished.. 'It
-feels like the end. I think she’ll be gone next week,' says veteran
-Tory MP"
-
----
-
 Is this serious? PM was *just* elected for the post
 
 The Hindustan Times: "Rebels on the backbenches of the UK's governing
 Conservative Party are said to be plotting to replace Liz Truss as
-party leader and Prime Minister with a so-called "unity" joint ticket
-team involving former leadership rival Rishi Sunak, it emerged on
-Friday"
+party leader"
 
 ---
 
