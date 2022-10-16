@@ -59,8 +59,8 @@ Math models do not lose accuracy, at first, due to discretization
 with something that works at infinitely fine scale. The tool helped us
 for a long time, we could not (and still can't) simulate all particles
 to compete with nature, math allowed scientists to research phenomena
-without having a computer as big as nature. But let's not forget, it's
-all an (oversmoothed) approximation.
+without having a computer as big as nature. But we need to remember
+it's all an (oversmoothed) approximation.
 
 ---
 
