@@ -29,9 +29,9 @@ money for me and money for our house, decreasing the cost"
 
 ---
 
-We examine[d] how the premature death of eminent life scientists
-alters the vitality of their fields... To our surprise, it is not
-competitors from within a subfield who assume the mantle of
+Paper: "We examine[d] how the premature death of eminent life
+scientists alters the vitality of their fields... To our surprise, it
+is not competitors from within a subfield who assume the mantle of
 leadership, but rather entrants from other fields who step in to fill
 the void created by a star’s absence"
 
