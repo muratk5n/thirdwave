@@ -2,114 +2,136 @@
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Alpine?src=hash&amp;ref_src=twsrc%5Etfw">#Alpine</a> unveils <a href="https://twitter.com/hashtag/Alpenglow?src=hash&amp;ref_src=twsrc%5Etfw">#Alpenglow</a> <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a>-engined concept <a href="https://t.co/Y5WrRqXXUm">https://t.co/Y5WrRqXXUm</a> via GreenCarCongres</p>&mdash; Steven Wilkins (@hybridelectro) <a href="https://twitter.com/hybridelectro/status/1580854207749718016?ref_src=twsrc%5Etfw">October 14, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+The Guardian: "Florida governor Ron DeSantis will fly migrants to
+Illinois and Delaware"
 
 ---
 
-Politico.eu: "Putin claims ‘partial mobilization’ to end in 2 weeks,
-with 222,000 reservists called up so far"
+H2 Central: "Western Australian Government Is Implementing The
+Renewable Hydrogen Strategy to Support The Growth of The State’s
+Renewable Hydrogen Industry"
 
 ---
 
-NPR: "477 stranded whales die on remote New Zealand islands.. it
-appears their location systems can get confused by gently sloping
-sandy beaches. [Scientist] said there is a lot of food for the whales
-around the Chatham Islands, and as they swim closer to land, they
-would quickly find themselves going from very deep to shallow water.
-'They rely on their echolocation and yet it doesn't tell them that
-they are running out of water.. They come closer and closer to shore
-and become disoriented. The tide can then drop from below them and
-before they know it, they're stranded on the beach.'"
+Can't use continuously; a waste of money.
+
+"[If I am] cycling through my battery Powerwall every single day, I'm
+actually degrading the battery, and the sooner that it's going to
+basically be dead and unusable and you need to go buy another one. My
+battery pack is only there for an emergency, like if something crazy
+happens like the power goes out.. And when I say it's not worth the
+money.. I could have taken that $20,000 that it cost to put these on
+the wall, and I could have put a bunch more, maybe 20, maybe 30 more
+solar panels on the house.  Every single day that would be generating
+money for me and money for our house, decreasing the cost"
+
+[[-]](https://youtu.be/Qgv6Lgvy8Lc?t=495)
 
 ---
 
-Is this serious? PM was *just* elected for the post
+We examine[d] how the premature death of eminent life scientists
+alters the vitality of their fields... To our surprise, it is not
+competitors from within a subfield who assume the mantle of
+leadership, but rather entrants from other fields who step in to fill
+the void created by a star’s absence"
 
-The Hindustan Times: "Rebels on the backbenches of the UK's governing
-Conservative Party are said to be plotting to replace Liz Truss as
-party leader"
-
----
-
-Network losses - this tech is such a sad piece of crap
-
-[[-]](2022/10/grid-fuse.html#losses)
+[PDF](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20161574)
 
 ---
 
-Fast chargers are not a panacea either
-
-[[-]](2022/10/grid-fuse.html#fastcharger)
-
----
-
-WSJ: "Marine Le Pen Wants France to Chart Its Own Course Between
-U.S. and Russia.. Though President Emmanuel Macron remains in control,
-his hard-right rival’s recent election gains have her rethinking
-France’s role on the global stage"
+It's easy to create singularity in math. $f(x) = 1/x$. There. I just
+created a singularity at $x=0$. The function is undefined there. Does
+that mean there is a black hole at $x=0$?
 
 ---
 
-"@karnfull_en
-
-[2021] In addition to the U.S., Poland also looks to involve Japan in
-their \#nuclear and general #cleanenergy plans, especially eyeing
-Gen-IV high-temperature gas reactors (HTGR) for green process heat and
-hydrogen. A research reactor is planned for late 20s"
-
----
-
-IMO Kwarteng did exactly what was agreed upon with PM but now took the
-fall just so gov could signal change.
+To detail, if your spiffy new model shows a 'singularity' at a point
+it doesn't mean there should be a black hole there. Equation is likely
+wrong, should be corrected so it has no singularity. In measurements
+the instruments never spit out a 'singularity measurement'. Whereever
+you point to, there is always a measurement.
 
 ---
 
-<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">You know that you can also produce hydrogen using other means than electricity using a nuclear reactor, right? For example using the Bunsen reaction which is what Japan is researching with its HTGR reactor. <a href="https://t.co/LBmgtOjyGY">https://t.co/LBmgtOjyGY</a> <a href="https://t.co/ddo8jvQI9u">pic.twitter.com/ddo8jvQI9u</a></p>&mdash; Maik Kretschmar (@jungpionier_) <a href="https://twitter.com/jungpionier_/status/1462391048534167556?ref_src=twsrc%5Etfw">November 21, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Math models do not lose accuracy, at first, due to discretization,
+that comes later. They lose accuracy because math models
+"oversmooth". You are representing phenomena based on finite particles
+with something that works at infinitely fine scale. The tool helped us
+for a long time, we could not (and still can't) simulate all particles
+to compete with nature, math allowed scientists to research phenomena
+without having a computer as big as nature. But let's not forget, it's
+all an (oversmoothed) approximation.
 
 ---
 
-DOE: "[T]he case for nuclear becomes even more compelling when this
-high-quality steam is electrolyzed and split into pure hydrogen and
-oxygen. A single 1,000 megawatt nuclear reactor could produce more
-than 150,000 tonnes of hydrogen each year. Ten nuclear reactors could
-provide about 1.5 million tonnes annually or 15% of current hydrogen
-produced in the United States"
-
-[[-]](https://www.energy.gov/ne/articles/could-hydrogen-open-new-markets-nuclear)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Ruben is correct.</p>&mdash; Matt Gaetz (@mattgaetz) <a href="https://twitter.com/mattgaetz/status/1542905277082746883?ref_src=twsrc%5Etfw">July 1, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Differentiation as in auto differentiation; takes any code and
-computes a derivative for it. Can help running sensitivity analysis
-for existing code base without changing the underlying code.
-
-"DOE funds LLNL project to improve differentiation of extreme-scale
-science applications"
+Why Charles abdic and younger son Kang? It makes sense actually, from
+PR point of view, if abdication is due to the Diana drama, who was the
+black sheep in their family, after Charles it would make sense to make
+another black sheep the Kang from PR standpoint. \#Nostradamus
 
 ---
 
-The Telegraph: "Macron says France will not retaliate with nuclear
-weapons if Russia uses them in Ukraine"
+"The mine was just inspected". If they are inspected on conformance to
+insufficient regulations, then even the most diligent inspection would
+not be useful.
 
 ---
 
-Mr T? I pity the flu
+I remember an accident in 2014, it made history when an advisor to PM
+did Italian karate on a protestor (he was sacked). 
 
-"@MrT
-
-I Thank GOD for another day! I just received my Annual Flu Shot and
-COVID-19 Moderna updated Booster, and I Feel Good!"
+[[-]](https://www.standard.co.uk/news/world/aide-to-turkish-prime-minister-pictured-kicking-soma-mine-disaster-mourner-9375902.html)
 
 ---
 
-How do I rate *American Made*? At first I thought dunno, 3.8, a 4.2..?
-Then I thought what goes for artistic production these days, then I
-said no, it gets a FIVE. Post 2016 it's been slim pickings.
+GEM Wiki: "Mining accidents are common in [TR], which has poor
+mine-safety conditions. According to a report issued in 2010 by
+[TEPAV], in 2008, deaths per 1 million tons of coal mined were
+7.22.. (the highest figure in the world), 5 times the rate in China
+(1.27) and 361 times the rate in the US (0.02)"
+
+[[-]](https://www.gem.wiki/Soma_mine_disaster)
 
 ---
 
-CBS News: "Alaska snow crab season canceled as officials investigate
-disappearance of an estimated 1 billion crabs"
+In US there's a massive belt of coal dots around "the Apalachia"
+
+---
+
+Coal mines map
+
+[[-]](2019/05/oilgasmin.html#minerals)
+
+---
+
+Coal mining accident in Asia Minor >40 dead
+
+---
+
+H2 Fuel News: "UK government backs new Carbon Trust clean hydrogen
+accelerator"
+
+---
+
+H2 Central: "Cummins Drives Gigawatt Electrolyzer Manufacturing Plant
+Forward in Spain, Expanding Its Global Clean Energy Footprint"
+
+---
+
+Unagi sushi is great
+
+---
+
+♬ Escargot ♪ my car go ♬ 
+
+---
+
+Dude ate 'escargot' in Paris on show, tis all bathing in butter,
+garlic; whatever was in that would surely taste good
 
 ---
 
