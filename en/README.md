@@ -98,7 +98,7 @@ mine-safety conditions. According to a report issued in 2010 by
 
 ---
 
-In US there's a massive belt of coal dots around "the Apalachia"
+In US there's a massive belt of coal dots around.. "the Apalachia" I guess
 
 ---
 
