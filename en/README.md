@@ -53,8 +53,8 @@ you point to, there is always a measurement.
 
 ---
 
-Math models do not lose accuracy, at first, due to discretization,
-that comes later. They lose accuracy because math models
+Math models do not lose accuracy, at first, due to discretization
+(that comes later). They lose accuracy because math models
 "oversmooth". You are representing phenomena based on finite particles
 with something that works at infinitely fine scale. The tool helped us
 for a long time, we could not (and still can't) simulate all particles
