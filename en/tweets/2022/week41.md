@@ -31,13 +31,13 @@ party leader"
 
 Network losses - this tech is such a sad piece of crap
 
-[[-]](2022/10/grid-fuse.html#losses)
+[[-]](../../2022/10/grid-fuse.html#losses)
 
 ---
 
 Fast chargers are not a panacea either
 
-[[-]](2022/10/grid-fuse.html#fastcharger)
+[[-]](../../2022/10/grid-fuse.html#fastcharger)
 
 ---
 
@@ -160,7 +160,7 @@ Russia's war in Ukraine rages on"
 
 Inequality fall continues..
 
-[[-]](2019/05/stats.html#gini)
+[[-]](../../2019/05/stats.html#gini)
 
 ---
 
