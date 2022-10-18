@@ -1,13 +1,10 @@
 # World Trade, Import/Exports
 
-BACI provides data on bilateral trade flows for 200 countries at the
-product level (5000 products) [1]. I took the BACI_HS17_V202201.zip file,
-processed it using code below.
-
-[Code](baci.py)
-
-The code creates a relation matrix, if there is trade between country
-`i` and `j` its value is in `A[i,j]`.
+BACI dataset [1] provides data on bilateral trade flows for 200
+countries at the product level (5000 products). I took the
+BACI_HS17_V202201.zip file, processed it using code below.  The code
+creates a relation matrix, if there is trade between country `i` and
+`j` its value is in `A[i,j]`.
 
 The first analysis was summing all product trades at bilateral level,
 to create a trade flow number between two countries. To keep
@@ -63,7 +60,9 @@ US, China, Germany, etc.
 
 The map of these extraordinary flows can be seen below.
 
-[Output]
+[Code](baci.py)
+
+[Output](trade-out.html)
 
 Reference
 
