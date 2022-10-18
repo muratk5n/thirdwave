@@ -56,10 +56,10 @@ print (np.count_nonzero(hv))
 73
 ```
 
-The numbers above show trade is highly skewed; many countries trade
-below average, few are above average. Some, a massive 4 sigmas away
-from average comprise the trading countries we hear about eveyday,
-US, China, Germany, etc.
+That shows trade is highly skewed; many countries trade below average,
+few are above average. Some, a massive 4 sigmas away from average
+comprise the trading countries we hear about eveyday, US, China,
+Germany, etc.
 
 The map of the extraordinary flows can be found below.
 
