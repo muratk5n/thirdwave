@@ -59,15 +59,11 @@ print (np.count_nonzero(hv))
 That shows trade is highly skewed; many countries trade below average,
 few are above average. Some, a massive 4 sigmas away from average
 comprise the trading countries we hear about eveyday, US, China,
-Germany, etc.
+Germany, etc. The map of the extraordinary flows can be found below.
 
-The map of the extraordinary flows can be found below.
-
-[Code](baci.py)
-
-[Output](trade-out.html)
+[Code](baci.py), [Output](trade-out.html)
 
 Reference
 
-[1] [Data](http://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele_item.asp?id=37)
+[1] [BACI](http://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele_item.asp?id=37), International Trade Database at the Product-Level.
 
