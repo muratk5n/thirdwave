@@ -9,7 +9,7 @@ creates a relation matrix, if there is trade between country `i` and
 
 The first analysis simply sums all product trades at bilateral level,
 to create a trade flow number between two countries. To keep
-visualization exports and imports are added to each other.
+visualization simple, exports and imports are added to each other.
 
 First simple counts,
 
