@@ -1,0 +1,1029 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_e0869aaf535b444e97a570fa54c8f28a {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_e0869aaf535b444e97a570fa54c8f28a" ></div>
+        
+</body>
+<script>    
+    
+            var map_e0869aaf535b444e97a570fa54c8f28a = L.map(
+                "map_e0869aaf535b444e97a570fa54c8f28a",
+                {
+                    center: [30.0, 20.0],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 3,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_f1b0642fcb77472f87b734f5a5226bb0 = L.tileLayer(
+                "https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.jpg",
+                {"attribution": "Map tiles by \u003ca href=\"http://stamen.com\"\u003eStamen Design\u003c/a\u003e, under \u003ca href=\"http://creativecommons.org/licenses/by/3.0\"\u003eCC BY 3.0\u003c/a\u003e. Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://creativecommons.org/licenses/by-sa/3.0\"\u003eCC BY SA\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            var poly_line_87b850b44d83463780534c4a86d44c6e = L.polyline(
+                [[35.0, 105.0], [-27.0, 133.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_87b850b44d83463780534c4a86d44c6e.bindTooltip(
+                `<div>
+                     CHN-AUS 165 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_3b8fe4e0beb0415c8fe857b17d456ddf = L.polyline(
+                [[35.0, 105.0], [-10.0, -55.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_3b8fe4e0beb0415c8fe857b17d456ddf.bindTooltip(
+                `<div>
+                     CHN-BRA 101 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_ef6eee41de644dc19b9084945998ea73 = L.polyline(
+                [[35.0, 105.0], [60.0, -95.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_ef6eee41de644dc19b9084945998ea73.bindTooltip(
+                `<div>
+                     CHN-CAN 66 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_16bd04f721c54e27944076e8097466dc = L.polyline(
+                [[46.0, 2.0], [50.83333333, 4.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_16bd04f721c54e27944076e8097466dc.bindTooltip(
+                `<div>
+                     FRA-BEL 81 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_049c63603d344d25bfb4f45cf3d816a1 = L.polyline(
+                [[46.0, 2.0], [35.0, 105.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_049c63603d344d25bfb4f45cf3d816a1.bindTooltip(
+                `<div>
+                     FRA-CHN 77 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_ec451b22700a4e78a16fa68640e8853c = L.polyline(
+                [[51.0, 9.0], [47.33333333, 13.33333333]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_ec451b22700a4e78a16fa68640e8853c.bindTooltip(
+                `<div>
+                     DEU-AUT 113 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_4c93bd1acc144a999146ae1738a571e9 = L.polyline(
+                [[51.0, 9.0], [50.83333333, 4.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_4c93bd1acc144a999146ae1738a571e9.bindTooltip(
+                `<div>
+                     DEU-BEL 98 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_994b484f3cc14d17bd654ceae136286d = L.polyline(
+                [[51.0, 9.0], [35.0, 105.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_994b484f3cc14d17bd654ceae136286d.bindTooltip(
+                `<div>
+                     DEU-CHN 208 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_e07b14bda53b4c58a8e23edb3ffde0a6 = L.polyline(
+                [[51.0, 9.0], [46.0, 2.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_e07b14bda53b4c58a8e23edb3ffde0a6.bindTooltip(
+                `<div>
+                     DEU-FRA 184 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_34ada6abb695421988cc8dba47139d42 = L.polyline(
+                [[22.25, 114.16666666], [35.0, 105.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_34ada6abb695421988cc8dba47139d42.bindTooltip(
+                `<div>
+                     HKG-CHN 283 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_b755ced15a4b4dadaa1e9e6746c52739 = L.polyline(
+                [[47.0, 20.0], [51.0, 9.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_b755ced15a4b4dadaa1e9e6746c52739.bindTooltip(
+                `<div>
+                     HUN-DEU 59 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_203e6b6bad9b4d198669c6a14587505b = L.polyline(
+                [[-5.0, 120.0], [35.0, 105.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_203e6b6bad9b4d198669c6a14587505b.bindTooltip(
+                `<div>
+                     IDN-CHN 73 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_85fbfc98c9d348fdba0339c7246cc4ac = L.polyline(
+                [[42.83333333, 12.83333333], [35.0, 105.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_85fbfc98c9d348fdba0339c7246cc4ac.bindTooltip(
+                `<div>
+                     ITA-CHN 49 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_25fabb728e2747d0b0933ad92e914ce3 = L.polyline(
+                [[42.83333333, 12.83333333], [46.0, 2.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_25fabb728e2747d0b0933ad92e914ce3.bindTooltip(
+                `<div>
+                     ITA-FRA 95 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_e92c84d5528e45b4816a4e31c4568122 = L.polyline(
+                [[42.83333333, 12.83333333], [51.0, 9.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_e92c84d5528e45b4816a4e31c4568122.bindTooltip(
+                `<div>
+                     ITA-DEU 140 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_3f5c6e1a7b8b4a4ba3f93e006c600448 = L.polyline(
+                [[36.0, 138.0], [-27.0, 133.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_3f5c6e1a7b8b4a4ba3f93e006c600448.bindTooltip(
+                `<div>
+                     JPN-AUS 58 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_9c6ece0e11de4f90b825a8a41cfdf0a4 = L.polyline(
+                [[36.0, 138.0], [35.0, 105.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_9c6ece0e11de4f90b825a8a41cfdf0a4.bindTooltip(
+                `<div>
+                     JPN-CHN 294 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_bddb74b1275046cf9aad6bab327464e1 = L.polyline(
+                [[36.0, 138.0], [51.0, 9.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_bddb74b1275046cf9aad6bab327464e1.bindTooltip(
+                `<div>
+                     JPN-DEU 44 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_04d5bf5952aa463ebfabe9cc5f680961 = L.polyline(
+                [[37.0, 127.5], [35.0, 105.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_04d5bf5952aa463ebfabe9cc5f680961.bindTooltip(
+                `<div>
+                     KOR-CHN 243 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_08df4f0b841f4eda9cf30c98360aa5e1 = L.polyline(
+                [[37.0, 127.5], [36.0, 138.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_08df4f0b841f4eda9cf30c98360aa5e1.bindTooltip(
+                `<div>
+                     KOR-JPN 73 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_6289a47ad2d14fc99f1e908e96938943 = L.polyline(
+                [[2.5, 112.5], [35.0, 105.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_6289a47ad2d14fc99f1e908e96938943.bindTooltip(
+                `<div>
+                     MYS-CHN 88 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_8b23218846344474968d55c7a307e592 = L.polyline(
+                [[23.0, -102.0], [35.0, 105.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_8b23218846344474968d55c7a307e592.bindTooltip(
+                `<div>
+                     MEX-CHN 60 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_3d093d79616e47c8a08aff4f0ec95696 = L.polyline(
+                [[52.5, 5.75], [50.83333333, 4.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_3d093d79616e47c8a08aff4f0ec95696.bindTooltip(
+                `<div>
+                     NLD-BEL 113 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_f5a83bf5efbf40dd91a6975ccdc9776b = L.polyline(
+                [[52.5, 5.75], [35.0, 105.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_f5a83bf5efbf40dd91a6975ccdc9776b.bindTooltip(
+                `<div>
+                     NLD-CHN 76 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_a9f80282f7ee4cfeb797bb47c7c806c4 = L.polyline(
+                [[52.5, 5.75], [46.0, 2.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_a9f80282f7ee4cfeb797bb47c7c806c4.bindTooltip(
+                `<div>
+                     NLD-FRA 51 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_9ce88fb9dc994cc28b229af4d41d7171 = L.polyline(
+                [[52.5, 5.75], [51.0, 9.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_9ce88fb9dc994cc28b229af4d41d7171.bindTooltip(
+                `<div>
+                     NLD-DEU 184 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_6518aa6ab83a418984f4fddb307db3b7 = L.polyline(
+                [[13.0, 122.0], [35.0, 105.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_6518aa6ab83a418984f4fddb307db3b7.bindTooltip(
+                `<div>
+                     PHL-CHN 50 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_f1c535b78c3f4cd3910ac4b96e38b77e = L.polyline(
+                [[52.0, 20.0], [51.0, 9.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_f1c535b78c3f4cd3910ac4b96e38b77e.bindTooltip(
+                `<div>
+                     POL-DEU 136 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_00f0374d52ef482abda252f997b739f8 = L.polyline(
+                [[60.0, 100.0], [35.0, 105.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_00f0374d52ef482abda252f997b739f8.bindTooltip(
+                `<div>
+                     RUS-CHN 107 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_35f560b7285c42cb8dc8ece58cd5af84 = L.polyline(
+                [[60.0, 100.0], [51.0, 9.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_35f560b7285c42cb8dc8ece58cd5af84.bindTooltip(
+                `<div>
+                     RUS-DEU 47 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_a4d08d438178437faca902d545ad026c = L.polyline(
+                [[60.0, 100.0], [52.5, 5.75]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_a4d08d438178437faca902d545ad026c.bindTooltip(
+                `<div>
+                     RUS-NLD 47 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_526e6743eb264b589c355260e0e95f6d = L.polyline(
+                [[25.0, 45.0], [35.0, 105.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_526e6743eb264b589c355260e0e95f6d.bindTooltip(
+                `<div>
+                     SAU-CHN 73 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_025a1603ddd24091b2254c26c9460514 = L.polyline(
+                [[20.0, 77.0], [35.0, 105.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_025a1603ddd24091b2254c26c9460514.bindTooltip(
+                `<div>
+                     IND-CHN 87 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_de9e82065cfd4cacbe98392ddff9f9cf = L.polyline(
+                [[1.36666666, 103.8], [35.0, 105.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_de9e82065cfd4cacbe98392ddff9f9cf.bindTooltip(
+                `<div>
+                     SGP-CHN 88 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_f3b38c1022da42728e05eeed91786854 = L.polyline(
+                [[1.36666666, 103.8], [2.5, 112.5]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_f3b38c1022da42728e05eeed91786854.bindTooltip(
+                `<div>
+                     SGP-MYS 61 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_b8ef655672c847aba0891e29ec37b560 = L.polyline(
+                [[16.16666666, 107.83333333], [35.0, 105.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_b8ef655672c847aba0891e29ec37b560.bindTooltip(
+                `<div>
+                     VNM-CHN 132 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_3fa7f40b94034d5aa2ec2ac05c074202 = L.polyline(
+                [[16.16666666, 107.83333333], [37.0, 127.5]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_3fa7f40b94034d5aa2ec2ac05c074202.bindTooltip(
+                `<div>
+                     VNM-KOR 68 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_e8d87c494096485eba6c03220d5bb71b = L.polyline(
+                [[40.0, -4.0], [46.0, 2.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_e8d87c494096485eba6c03220d5bb71b.bindTooltip(
+                `<div>
+                     ESP-FRA 85 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_722f7276e939403fb4254bfd2b404c54 = L.polyline(
+                [[40.0, -4.0], [51.0, 9.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_722f7276e939403fb4254bfd2b404c54.bindTooltip(
+                `<div>
+                     ESP-DEU 85 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_c0e6bd861e0c4435b1ce230676c45b2a = L.polyline(
+                [[40.0, -4.0], [42.83333333, 12.83333333]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_c0e6bd861e0c4435b1ce230676c45b2a.bindTooltip(
+                `<div>
+                     ESP-ITA 51 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_e1cf181cfa3d44159dd8bade41f849ed = L.polyline(
+                [[47.0, 8.0], [51.0, 9.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_e1cf181cfa3d44159dd8bade41f849ed.bindTooltip(
+                `<div>
+                     CHE-DEU 110 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_691a221242e749db93901913343c08ff = L.polyline(
+                [[15.0, 100.0], [35.0, 105.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_691a221242e749db93901913343c08ff.bindTooltip(
+                `<div>
+                     THA-CHN 78 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_f7c2a6dd0b2e40ffb9b11d146e8857ba = L.polyline(
+                [[15.0, 100.0], [36.0, 138.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_f7c2a6dd0b2e40ffb9b11d146e8857ba.bindTooltip(
+                `<div>
+                     THA-JPN 53 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_fe20d030911b4e448188b2abd712a672 = L.polyline(
+                [[24.0, 54.0], [35.0, 105.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_fe20d030911b4e448188b2abd712a672.bindTooltip(
+                `<div>
+                     ARE-CHN 55 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_6484c87aeecd4941aed4c65976518594 = L.polyline(
+                [[24.0, 54.0], [20.0, 77.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_6484c87aeecd4941aed4c65976518594.bindTooltip(
+                `<div>
+                     ARE-IND 58 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_296c2e0ededf48549be5aaf6665abfc2 = L.polyline(
+                [[54.0, -2.0], [50.83333333, 4.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_296c2e0ededf48549be5aaf6665abfc2.bindTooltip(
+                `<div>
+                     GBR-BEL 45 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_f9086d90cc4247a98d53a3ae0294c201 = L.polyline(
+                [[54.0, -2.0], [35.0, 105.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_f9086d90cc4247a98d53a3ae0294c201.bindTooltip(
+                `<div>
+                     GBR-CHN 94 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_d8297926a1d04a92b4047ac70bc7acb5 = L.polyline(
+                [[54.0, -2.0], [46.0, 2.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_d8297926a1d04a92b4047ac70bc7acb5.bindTooltip(
+                `<div>
+                     GBR-FRA 65 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_064a7fc960fa4c208b7d56e728890ecb = L.polyline(
+                [[54.0, -2.0], [51.0, 9.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_064a7fc960fa4c208b7d56e728890ecb.bindTooltip(
+                `<div>
+                     GBR-DEU 127 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_13ec16514cfa4cc39189d0108d5fef04 = L.polyline(
+                [[54.0, -2.0], [52.5, 5.75]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_13ec16514cfa4cc39189d0108d5fef04.bindTooltip(
+                `<div>
+                     GBR-NLD 80 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_50f25be3010046b1970caf3c9a441de5 = L.polyline(
+                [[38.0, -97.0], [50.83333333, 4.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_50f25be3010046b1970caf3c9a441de5.bindTooltip(
+                `<div>
+                     USA-BEL 47 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_db00436fb64943f993c1e0ea76c6fcdf = L.polyline(
+                [[38.0, -97.0], [-10.0, -55.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_db00436fb64943f993c1e0ea76c6fcdf.bindTooltip(
+                `<div>
+                     USA-BRA 64 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_235fda71664a44d98107f83e5a675c83 = L.polyline(
+                [[38.0, -97.0], [60.0, -95.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_235fda71664a44d98107f83e5a675c83.bindTooltip(
+                `<div>
+                     USA-CAN 563 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_5f0bdc3f6a3549e6af7e862a4acacde4 = L.polyline(
+                [[38.0, -97.0], [35.0, 105.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_5f0bdc3f6a3549e6af7e862a4acacde4.bindTooltip(
+                `<div>
+                     USA-CHN 538 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_e69e07488cd245e48ffd31bffaa4e259 = L.polyline(
+                [[38.0, -97.0], [46.0, 2.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_e69e07488cd245e48ffd31bffaa4e259.bindTooltip(
+                `<div>
+                     USA-FRA 80 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_ebc74bda74df436ab7dfaf3422cce379 = L.polyline(
+                [[38.0, -97.0], [51.0, 9.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_ebc74bda74df436ab7dfaf3422cce379.bindTooltip(
+                `<div>
+                     USA-DEU 192 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_014187b0dba24a14b413be16f530cee0 = L.polyline(
+                [[38.0, -97.0], [53.0, -8.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_014187b0dba24a14b413be16f530cee0.bindTooltip(
+                `<div>
+                     USA-IRL 65 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_5a23cdd0f9cf420a9c2677111c0351e1 = L.polyline(
+                [[38.0, -97.0], [42.83333333, 12.83333333]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_5a23cdd0f9cf420a9c2677111c0351e1.bindTooltip(
+                `<div>
+                     USA-ITA 69 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_b66b133fef644b50a0a821e4f1023252 = L.polyline(
+                [[38.0, -97.0], [36.0, 138.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_b66b133fef644b50a0a821e4f1023252.bindTooltip(
+                `<div>
+                     USA-JPN 210 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_b29209cdb937491f9b8e44d3e8d7b08f = L.polyline(
+                [[38.0, -97.0], [37.0, 127.5]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_b29209cdb937491f9b8e44d3e8d7b08f.bindTooltip(
+                `<div>
+                     USA-KOR 134 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_b2c4ff24992045238ae6cf4c7c24c134 = L.polyline(
+                [[38.0, -97.0], [2.5, 112.5]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_b2c4ff24992045238ae6cf4c7c24c134.bindTooltip(
+                `<div>
+                     USA-MYS 48 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_4b556586f2534e8c88e093a489b7bcd2 = L.polyline(
+                [[38.0, -97.0], [23.0, -102.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_4b556586f2534e8c88e093a489b7bcd2.bindTooltip(
+                `<div>
+                     USA-MEX 595 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_6994650e737e4b6db3dab87fb2597723 = L.polyline(
+                [[38.0, -97.0], [52.5, 5.75]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_6994650e737e4b6db3dab87fb2597723.bindTooltip(
+                `<div>
+                     USA-NLD 71 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_677a68c51e144d7ab7651795074dbcd7 = L.polyline(
+                [[38.0, -97.0], [20.0, 77.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_677a68c51e144d7ab7651795074dbcd7.bindTooltip(
+                `<div>
+                     USA-IND 89 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_4068309c3f004d32ad0a3a85219efb89 = L.polyline(
+                [[38.0, -97.0], [1.36666666, 103.8]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_4068309c3f004d32ad0a3a85219efb89.bindTooltip(
+                `<div>
+                     USA-SGP 53 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_4c63fd4e43194365a2f2b183143b2bc6 = L.polyline(
+                [[38.0, -97.0], [16.16666666, 107.83333333]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_4c63fd4e43194365a2f2b183143b2bc6.bindTooltip(
+                `<div>
+                     USA-VNM 75 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_3ea8281a456747b49fddf9ecebac24bd = L.polyline(
+                [[38.0, -97.0], [47.0, 8.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_3ea8281a456747b49fddf9ecebac24bd.bindTooltip(
+                `<div>
+                     USA-CHE 53 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_d5781cf5c77143d18f272796bf6f57e4 = L.polyline(
+                [[38.0, -97.0], [15.0, 100.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_d5781cf5c77143d18f272796bf6f57e4.bindTooltip(
+                `<div>
+                     USA-THA 46 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_86209599b9b641398a745f5d7a1ef20a = L.polyline(
+                [[38.0, -97.0], [54.0, -2.0]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_e0869aaf535b444e97a570fa54c8f28a);
+        
+    
+            poly_line_86209599b9b641398a745f5d7a1ef20a.bindTooltip(
+                `<div>
+                     USA-GBR 116 billion
+                 </div>`,
+                {"sticky": true}
+            );
+        
+</script>
