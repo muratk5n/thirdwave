@@ -2,13 +2,16 @@
 
 BACI dataset [1] provides data on bilateral trade flows for 200
 countries at the product level (5000 products). I took the
-BACI_HS17_V202201.zip file, processed it using code below.  The code
+BACI_HS17_V202201.zip file, processed the file for 2019 using code
+below. As each dyad-product is processed line by line, the code
 creates a relation matrix, if there is trade between country `i` and
-`j` its value is in `A[i,j]`.
+`j` its value is added in `A[i,j]` for each product.
 
-The first analysis was summing all product trades at bilateral level,
+The first analysis simply sums all product trades at bilateral level,
 to create a trade flow number between two countries. To keep
-visualization simple export/import are added.
+visualization exports and imports are added to each other.
+
+First simple counts,
 
 ```python
 import scipy.io as io
@@ -25,9 +28,7 @@ vals = np.array([A[row,col] for row,col in zip(rows,cols)])
 ```
 
 Clearly most countries do not trade; out of approx 400K relations we
-only have 16K. That number is indicative most countries perhaps
-trading with two neighbors, not engaging in air, rail, sea freight
-commerce.
+only have 16K. 
 
 ```python
 mean,std = np.mean(vals),np.std(vals)
@@ -37,6 +38,8 @@ print (np.round(mean/1e6,2),np.round(std/1e6,2))
 ```text
 1.08 10.79
 ```
+
+Who is above, below average,
 
 ```python
 hv = vals[vals < mean]
@@ -58,7 +61,7 @@ below average, few are above average. Some, a massive 4 sigmas away
 from average comprise the trading countries we hear about eveyday,
 US, China, Germany, etc.
 
-The map of these extraordinary flows can be seen below.
+The map of the extraordinary flows can be found below.
 
 [Code](baci.py)
 
