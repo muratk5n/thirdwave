@@ -11,7 +11,7 @@ The first analysis simply sums all product trades at bilateral level,
 to create a trade flow number between two countries. To keep
 visualization simple, exports and imports are added to each other.
 
-First simple counts,
+Using the final relation matrix, first let's do simple counts,
 
 ```python
 import scipy.io as io
