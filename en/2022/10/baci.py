@@ -30,7 +30,7 @@ def runjob():
     file_name = dir + "/" + "BACI_HS17_Y2019_V202201.csv"
 
     start = timer()
-    N = 4
+    N = 4 # set to no of cores
     ps = [Process(target=util.lineproc,args=(file_name, i, N, TJob(),1)) for i in range(N)]
     for p in ps: p.start()
     for p in ps: p.join()
@@ -40,7 +40,7 @@ def runjob():
 def combine():
 
     A = sps.lil_matrix((900,900))
-    for f in glob.glob("A-BACI_HS17_Y2019_V202201*"):
+    for f in glob.glob("/tmp/A-BACI_HS17_Y2019_V202201*"):
         print (f)
         tmp = io.mmread(f).tolil()
         A = A + tmp
