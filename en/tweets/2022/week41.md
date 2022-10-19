@@ -846,7 +846,7 @@ Nobel Prize? The concept is likely [bollocks](../../2022/08/dark-energy.html).
 
 ---
 
-H2 Fuel News: "[New york power authority] may have found a feasible
+H2 Fuel News: "[New York power authority] may have found a feasible
 way to lower carbon emissions... A recent hydrogen blending study
 found that carbon dioxide emissions (CO2) lowered by approximately 14
 percent when 35 percent of hydrogen by volume was mixed with natural
