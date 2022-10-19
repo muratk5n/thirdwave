@@ -92,5 +92,7 @@
 
 [A Nostalgia for Modernism](10/modernism-nostalgia-ozyurek.html)
 
+[Quantum "Supremacy"?](10/quantum-computing.html)
+
 [World Trade, Import/Exports](10/world-commerce.html)
 
