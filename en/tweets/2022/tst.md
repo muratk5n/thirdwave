@@ -1,31 +1,12 @@
 
-pd.set_option('display.max_columns', None)
-df = pd.read_csv('../2021/gfp-2021.csv')
-df2 = df[df.country.isin(['USA','Germany','France'])]
-df2 = df[df.country.isin(['France'])]
-
-
-
-
 
 ```python
-import pandas as pd
-df1 = pd.read_csv('../2021/gfp-2021.csv'); cols = df1.columns
-df1 = df1[df1.country.isin(['France'])]
-df2 = pd.read_csv('gfp-2022.csv')
-df2 = df2[df2.country.isin(['France'])]
-
-r1 = df1[cols[2:32]].squeeze()
-r2 = df2[cols[2:32]].squeeze()
-
-chg = ((r2-r1)/r1)*100
-filt = np.abs(chg) > 5.0
-df = pd.concat((chg[filt],r1[filt]),axis=1)
-df.columns = ['% Change','Previous']
-print (df)
+import util as u
+u.gfp_compare('../2021/gfp-2021.csv','gfp-2022.csv')
 ```
 
 ```text
+Out[1]: 
                                  % Change  Previous
 Tot Military Personnel (est.)   -7.777778  450000.0
 Active Personnel               -24.074074  270000.0

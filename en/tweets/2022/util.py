@@ -14,6 +14,21 @@ import urllib.request as urllib2
 from io import BytesIO
 import pandas_ta as ta
 
+def gfp_compare(file1,file2):
+    df1 = pd.read_csv('../2021/gfp-2021.csv'); cols = df1.columns
+    df1 = df1[df1.country.isin(['France'])]
+    df2 = pd.read_csv('gfp-2022.csv')
+    df2 = df2[df2.country.isin(['France'])]
+
+    r1 = df1[cols[2:32]].squeeze()
+    r2 = df2[cols[2:32]].squeeze()
+
+    chg = ((r2-r1)/r1)*100
+    filt = np.abs(chg) > 5.0
+    df = pd.concat((chg[filt],r1[filt]),axis=1)
+    df.columns = ['% Change','Previous']
+    return df
+
 def spy_earnings():
     url = "https://www.spglobal.com/spdji/en/documents/additional-material/sp-500-eps-est.xlsx"
     hdr = {'User-Agent':'Mozilla/5.0'}
