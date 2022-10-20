@@ -14,11 +14,11 @@ import urllib.request as urllib2
 from io import BytesIO
 import pandas_ta as ta
 
-def gfp_compare(file1,file2):
+def gfp_compare(country,file1,file2):
     df1 = pd.read_csv('../2021/gfp-2021.csv'); cols = df1.columns
-    df1 = df1[df1.country.isin(['France'])]
+    df1 = df1[df1.country.isin([country])]
     df2 = pd.read_csv('gfp-2022.csv')
-    df2 = df2[df2.country.isin(['France'])]
+    df2 = df2[df2.country.isin([country])]
 
     r1 = df1[cols[2:32]].squeeze()
     r2 = df2[cols[2:32]].squeeze()

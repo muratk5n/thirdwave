@@ -116,4 +116,30 @@ certain parts of the park where visitors could take their pets, smoke,
 and drink wine. The idea of islands of privilege in a sea of equality
 was right on Code for [them].
 
+<a name='heritage'/>
+
+Heritage
+
+Because [USA] was so vast and underpopulated when we developed it, we
+have grown accustomed to a certain level of disposability..
+
+[The Japanese] country comprises only 146,000 square miles.. There was
+never a vast frontier to explore. The Japanese couldn’t “dispose” of
+their houses or their property if they grew disenchanted; they needed
+to make the most of their land and to keep it as productive as
+possible. In addition, because so many people live in such a small
+space..  efficiency is critical. There’s no room for wasted products
+or wasted process. Mistakes are costlier. Quality is a
+necessity. Perfection is premium.
+
+Americans, on the other hand, find perfection boring. If something is
+perfect, you’re stuck with it for life, and that doesn’t sit well with
+most Americans. We want a new car every three years. We want a new
+television every five. We want a new house when we have kids, and
+another new one when the kids grow up. My fourteen-year-old son, born
+and raised in this country, exemplifies this attitude. I went shopping
+for antiques recently and took him with me. We came upon a gorgeous
+seventeenth-century sofa and I told him how much I liked it. “You like
+that?” he said, sneering. “Do you know how many asses have sat in that
+sofa? Why don’t you get a *new* sofa?”
 

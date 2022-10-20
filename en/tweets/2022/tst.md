@@ -2,20 +2,23 @@
 
 ```python
 import util as u
-u.gfp_compare('../2021/gfp-2021.csv','gfp-2022.csv')
+u.gfp_compare('Germany','../2021/gfp-2021.csv','gfp-2022.csv')
 ```
 
 ```text
 Out[1]: 
                                  % Change  Previous
-Tot Military Personnel (est.)   -7.777778  450000.0
-Active Personnel               -24.074074  270000.0
-Paramilitary                    20.689655  145000.0
-Manpower Composition            25.000000       8.0
-Transports                       5.932203     118.0
-Tanker Fleet                   -21.739130      23.0
-Towed Artillery                775.000000      12.0
-Destroyers                      -9.090909      11.0
+Tot Military Personnel (est.)   -7.441860  215000.0
+Reserve Personnel              -50.000000   30000.0
+Manpower Composition            12.500000      16.0
+Total Aircraft Strength        -11.982882     701.0
+Transports                     -40.277778      72.0
+Trainers                        15.625000      32.0
+Tanker Fleet                  -100.000000       7.0
+Helicopters                    -15.088757     338.0
+Tanks                            9.016393     244.0
+Armored Vehicles                75.228137    5260.0
+Frigates                        20.000000      10.0
 ```
 
 
