@@ -85,7 +85,7 @@ profile. They might act differently under a different scheme.
 ---
 
 The tax policy is seen as a German concession afaik bcz the issue is
-near and dear to them (likely related to DE liking of thrift)
+near and dear to them (likely related to aversion of debt)
 
 WION: "Olaf Scholz calls for reforms within the EU: Bats for new
 admissions and military autonomy.. Speaking at the Congress of the
