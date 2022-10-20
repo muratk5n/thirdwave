@@ -52,7 +52,7 @@ Yo, who gets hit in the head by lightning? Rough #SummitFear
 
 ---
 
-The joke is "countries have armies, in Pakistan the army has a country"
+The IR gem on that is "countries have armies, in Pakistan the army has a country"
 
 ---
 
