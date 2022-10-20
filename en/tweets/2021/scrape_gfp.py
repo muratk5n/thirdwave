@@ -27,6 +27,4 @@ for c in countries:
 
 df = pd.concat(sl,axis=1)
 df = df.T
-df.to_csv('out.csv')
-
-    
+df.to_csv('/tmp/gfp-2022.csv')
