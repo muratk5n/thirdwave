@@ -29,8 +29,8 @@ with storms, waves.
 
 If the left doesn't deliver them, some of their issues will be stolen
 by others, even by right-wing nationalists, then we end up with
-"nationalist socialists". And we all know the acronym for those words
-don't we?
+"nationalist socialists". And we all know the abbreviation for those
+words don't we?
 
 ---
 
