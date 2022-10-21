@@ -1,105 +1,118 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-"@VergaraLautaro
-
-PhD student attending first big conference, with advisor"
-
-[[-]](https://twitter.com/VergaraLautaro/status/1579483024391307265)
-
----
-
-\#Tires
-
-[[-]](https://pbs.twimg.com/media/FfP0I84WIAENAED?format=jpg&name=small)
+If there's compounding in play, the resulting values are usually
+'anormal'. With trade I'm sure countries build on existing trades to
+bring in more, money pulls in more money, stuff just builds on
+itself, snowballs.
 
 ---
 
-Wilshire index is down to 181, less overvaluation 
+.. which is the definition of average. Good one. But the statement
+only works if the distribution of a value is distributed normally
+(Gaussian). With things such as wealth, and as we saw, trade, half the
+values are not below (or above) average.
 
-[[-]](2019/05/stats.html#wilshire)
-
----
-
-\#Waya Floating City, Homes. Pyramid shape is a good idea; can help
-with storms, waves.
-
-[[-]](https://youtu.be/hZl2J47yruE?t=419)
+Steven Wright: “Half the people you know are below average.” 
 
 ---
 
-If the left doesn't deliver them, some of their issues will be stolen
-by others, even by right-wing nationalists, then we end up with
-"nationalist socialists". And we all know the abbreviation for those
-words don't we?
+The crazy part is not who's on the trade map, but who isn't. In the
+filtered map (of big traders) there is a massive contiguous block of
+countries that have no lines going into them. The block starts from
+Romania, Serbia goes to East to Pakistan, Afghanistan, in the South to
+the entirety of Africa, in the North to Finland and Norway.
 
 ---
 
-That is what the left should give you, not constant war and mediocre
-half-solutions.
+Prelim analyis
 
-Bus Driver in Brasil: "I voted for Bolsonaro in 2018, because the
-economy was in the dumps, I changed my vote to Lula after I survived a
-heart attack this year, thanks to the public hospital he built next to
-my home"
+[[-]](2022/10/world-commerce.html)
 
 ---
 
-Yo, who gets hit in the head by lightning? Rough #SummitFear
+Found yearly SKU level import/export data between countries. Oh yeah.
 
 ---
 
-*Summit Fever* 👍 The Batman 👎
+Matlock: "Why the US must press for a ceasefire in Ukraine"
+
+[[-]](https://responsiblestatecraft.org/2022/10/17/on-ukraine-the-us-is-on-the-hook-to-find-a-way-out/)
 
 ---
 
-The IR gem on that is "countries have armies, in Pakistan the army has a country"
+This fact is so obvious that coal mining accident data before/after
+regulation is used as a pedestrian example in statistics - in the
+subject of change point analysis. You look at the distribution of
+accidents and try to find where distribution shifts from one to
+another. Most methods will find a value near 1887 which is exactly
+when Coal Mines Regulation Act of 1887 was passed.
+
+"How do we know better regulation improves coal mining accidents?"
 
 ---
 
-I think at first he thought the interviewer was making a joke, then
-realized he wasn't, guy was just clueless
+The Soviet Elsgoltz book is legendary - they really knew how to teach
+Calculus. I have a digital copy now. 
 
 ---
 
-Interviewer asks Pak FM "do you think the army is too involved
-in politics?" and he just laughs
+🤣 Good one \#Bolywood \#YourDad
+
+[[-]](https://youtu.be/4vSE9ScJsxo?t=25)
 
 ---
 
-H2 View: "Hexagon Purus has said its subsidiary, Wystrach, has secured
-a framework agreement to deliver hydrogen distribution systems to a
-leading European producer of green hydrogen"
+"@AnnajahFaouzi
+
+Part One - The End.
+
+\#Namx \#Hydrogen \#Climatechange"
+
+[[-]](https://twitter.com/AnnajahFaouzi/status/1579254941897543680)
 
 ---
 
-It is said new admisson and unanimity issues go hand in hand. Can't
-admit new members if existing members are wary they'd hold off
-important decisions with their vote.. To get over the deadlock, voting
-scheme can be changed. Although I admit I enjoy seeing Hungary partly
-holding off hare-brained schemes like the EU sanctioning itself into a
-recession, with majority voting maybe such issues can get solved
-differently, who knows? There might be countries now who are letting
-Hungary play the bad guy, go along with stupid, while keeping a low
-profile. They might act differently under a different scheme.
+"@PininfarinaSpA
+
+The new brand NAMX will introduce the \#Pininfarina-designed HUV,
+hydrogen-powered SUV [using] removable capsules"
 
 ---
 
-The tax policy is seen as a German concession afaik bcz the issue is
-near and dear to them (likely related to aversion to debt)
+Another company, Peace of Meat (great name BTW)
 
-WION: "Olaf Scholz calls for reforms within the EU: Bats for new
-admissions and military autonomy.. Speaking at the Congress of the
-Party of European Socialists in Berlin, Scholz advocated for gradually
-abolishing the principle of unanimity for decisions in foreign policy,
-but also in other areas such as tax policy"
+[[-]](2022/06/lab-grown-meat.html#peaceofmeat)
 
 ---
 
-WION: "Metaverse fails to take off as user numbers tumble"
+More on this space, Mission Barns
+
+[[-]](2022/06/lab-grown-meat.html#missionbarns)
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We do not want a World War.</p>&mdash; Emmanuel Macron (@EmmanuelMacron) <a href="https://twitter.com/EmmanuelMacron/status/1580504648821387268?ref_src=twsrc%5Etfw">October 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Animal fat is great - it's healthy, and necessary. Cultivated animal
+fat is even better, without the destructive farming side effects.
+
+"[Startup Hoxton Farms' process] begins by taking a 'harmless handful
+of stem cells' from an animal such as a cow or pig and placing them
+inside a freezer. There is then enough supply of these cells which
+means the animal is no longer needed...Similar to the equipment used
+in a brewery, these cells are encouraged to multiply in a cultivator
+which then kickstarts the production process [of animal fat]"
+
+---
+
+People always made fun of Italy about their change of governments..
+Look at UK now..
+
+---
+
+Truss out. Is UK "Ready for Rishi"?
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Christ</p>&mdash; Hugh Laurie (@hughlaurie) <a href="https://twitter.com/hughlaurie/status/1582859649862496257?ref_src=twsrc%5Etfw">October 19, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
