@@ -1,9 +1,9 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-If there's compounding in play, the resulting values are usually
-'anormal'. With trade I'm sure countries build on existing trades to
-bring in more, money pulls in more money, stuff just builds on
-itself, snowballs.
+If there's compounding in play, the resulting values of a measurement
+are usually 'anormal'. With trade I'm sure countries build on existing
+trades to bring in more, money pulls in more money, stuff just builds
+on itself. 
 
 ---
 
