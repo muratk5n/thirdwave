@@ -178,5 +178,5 @@ products, while lowering costs and ingredients lists.
 
 The company is further extending their collaboration with the Dutch
 based mycoprotein start up ENOUGH, which will combine the chicken
-biomass within their plant based matrix
+biomass within their plant based matrix...
 
