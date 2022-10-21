@@ -39,7 +39,7 @@ def runjob():
     print('elapsed time', timedelta(seconds=end-start))
 
 def combine():
-
+    # combine output pieces from each job into one matrix,
     A = sps.lil_matrix((900,900))
     for f in glob.glob("/tmp/A-BACI_HS17_Y2019_V202201*"):
         print (f)
