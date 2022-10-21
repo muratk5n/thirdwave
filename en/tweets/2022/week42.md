@@ -16,7 +16,7 @@ PhD student attending first big conference, with advisor"
 
 Wilshire index is down to 181, less overvaluation 
 
-[[-]](2019/05/stats.html#wilshire)
+[[-]](../../2019/05/stats.html#wilshire)
 
 ---
 
