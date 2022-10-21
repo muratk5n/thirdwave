@@ -7,10 +7,10 @@ itself, snowballs.
 
 ---
 
-.. which is the definition of average. Good one. But the statement
-only works if the distribution of a value is distributed normally
-(Gaussian). With things such as wealth, and as we saw, trade, half the
-values are not below (or above) average.
+.. which is the definition of average... But, the statement only works
+if the value is distributed normally (Gaussian, bell curve). With
+things such as wealth, and as we saw, trade, half the values are not
+below (or above) average.
 
 Steven Wright: “Half the people you know are below average.” 
 
@@ -56,7 +56,14 @@ Calculus. I have a digital copy now.
 
 ---
 
-Bolywood movie line: "If you are bad, I'm your dad". :) Good one
+Bolywood movie line: "If you are bad, I'm your dad". Hah :)
+
+---
+
+"@PininfarinaSpA
+
+The new brand NAMX will introduce the \#Pininfarina-designed HUV,
+hydrogen-powered SUV [using] removable capsules"
 
 ---
 
@@ -67,13 +74,6 @@ Part One - The End.
 \#Namx \#Hydrogen \#Climatechange"
 
 [[-]](https://twitter.com/AnnajahFaouzi/status/1579254941897543680)
-
----
-
-"@PininfarinaSpA
-
-The new brand NAMX will introduce the \#Pininfarina-designed HUV,
-hydrogen-powered SUV [using] removable capsules"
 
 ---
 
