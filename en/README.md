@@ -56,7 +56,7 @@ Calculus. I have a digital copy now.
 
 ---
 
-Bolywood movie line: "If you are bad, I'm your dad". Hah :)
+Bolywood action movie line: "If you are bad, I'm your dad". Hah :)
 
 ---
 
