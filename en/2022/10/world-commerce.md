@@ -17,13 +17,11 @@ import scipy.io as io
 A = io.mmread("/tmp/A-final").tolil()
 rows,cols = A.nonzero()
 print (len(rows))
-print (900*900)
 vals = np.array([A[row,col] for row,col in zip(rows,cols)])
 ```
 
 ```text
 16752
-810000
 ```
 
 Naturally all country pairs do not trade; out of approx 400K relations
