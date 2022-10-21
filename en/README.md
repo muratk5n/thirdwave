@@ -56,9 +56,7 @@ Calculus. I have a digital copy now.
 
 ---
 
-🤣 Good one \#Bolywood \#YourDad
-
-[[-]](https://youtu.be/4vSE9ScJsxo?t=25)
+Bolywood movie line: "If you are bad, I'm your dad". :) Good one
 
 ---
 
