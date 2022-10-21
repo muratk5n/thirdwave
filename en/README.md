@@ -26,7 +26,7 @@ the entirety of Africa, in the North to Finland and Norway.
 
 US-CH, US-MX, US-CA trade rels are all half a *trillion* USD worth. US
 clearly wanted deep trade ties with the two, did 90s NAFTA with CA,MX.
-CH is halfway around the world, but the trade amt was just as high.
+CH is halfway around the world, but the trade was just as high.
 
 ---
 
