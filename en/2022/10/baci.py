@@ -6,6 +6,7 @@ from multiprocessing import Process
 from datetime import timedelta
 import util, os, folium
 
+# Parallel task to be called from lineproc
 class TJob:
     def __init__(self):
         self.infile = "" # to be set from process
@@ -30,7 +31,7 @@ def runjob():
     file_name = dir + "/" + "BACI_HS17_Y2019_V202201.csv"
 
     start = timer()
-    N = 4 # set to no of cores
+    N = 4 # number of parallel tasks
     ps = [Process(target=util.lineproc,args=(file_name, i, N, TJob(),1)) for i in range(N)]
     for p in ps: p.start()
     for p in ps: p.join()
