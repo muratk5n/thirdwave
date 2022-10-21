@@ -29,11 +29,11 @@ we have 16K relations.
 
 ```python
 mean,std = np.mean(vals),np.std(vals)
-print (np.round(mean/1e6,2),np.round(std/1e6,2))
+np.round(mean/1e6,2),np.round(std/1e6,2)
 ```
 
 ```text
-1.08 10.79
+Out: 1.08 10.79
 ```
 
 Which trade links are above, below average,
@@ -54,7 +54,7 @@ print (np.count_nonzero(hv))
 ```
 
 Trade is highly skewed; many countries trade below average, few are
-above average. Some, a massive 4 sigmas away from average comprise the
+above average. Some, a massive 4 sigma's away from average comprise the
 trading countries we hear about eveyday, US, China, Germany, etc. An
 interactive map of the extraordinary flows is below.
 
