@@ -55,7 +55,7 @@ Fuckin Ruski. Will their tech save the climate now?
 
 ---
 
-Can generate lots of H2 with that kind of power.. Near imitless clean
+Can generate lots of H2 with that kind of power.. Near limitless clean
 fuel from RU. China can supply the electrolyzers.  Boom. Pipe it
 anywhere.
 
