@@ -1,122 +1,128 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-If there's compounding in play, the resulting values of a measurement
-are usually 'anormal'. With trade I'm sure countries build on existing
-trades to bring in more, money pulls in more money, stuff just builds
-on itself. 
+ROCKED IT
+
+H2 Central: "NamX Rocks the Paris Motor Show With a Hydrogen Powered
+SUV Concept Using Removable Tanks"
 
 ---
 
-.. which is the definition of average... But, the statement only works
-if the value is distributed normally (Gaussian, bell curve). With
-things such as wealth, and as we saw, trade, half the values are not
-below (or above) average.
+"@nelhydrogen
 
-Steven Wright: “Half the people you know are below average.” 
-
----
-
-The crazy part is not who's on the trade map, but who isn't. In the
-filtered map (of big traders) there is a massive contiguous block of
-countries that have no lines going into them. The block starts from
-Romania, Serbia goes to East to Pakistan, Afghanistan, in the South to
-the entirety of Africa, in the North to Finland and Norway.
+We've broken our order size record, for the second time in four
+months! We have entered into a contract for alkaline electrolyser
+equipment from Australian company @WoodsideEnergy - the contract has a
+total value of about [$57 million]"
 
 ---
 
-US-CH, US-MX, US-CA trade rels are all half a *trillion* USD worth. US
-clearly wanted deep trade ties with the two, did 90s NAFTA with CA,MX.
-CH is halfway around the world, but the trade was just as high.
+NYT: "Speaker Nancy Pelosi could be succeeded by Representative Kevin
+McCarthy of California if Republicans take control of the House"
 
 ---
 
-Prelim analyis
-
-[[-]](2022/10/world-commerce.html)
-
----
-
-Found yearly SKU level import/export data between countries. Oh yeah.
+"House Minority Leader Kevin McCarthy.. is signaling that if
+Republicans win the House majority in next month’s midterm elections,
+the GOP is likely to oppose more aid to Ukraine in its war with
+Russia."
 
 ---
 
-Matlock: "Why the US must press for a ceasefire in Ukraine"
-
-[[-]](https://responsiblestatecraft.org/2022/10/17/on-ukraine-the-us-is-on-the-hook-to-find-a-way-out/)
-
----
-
-This fact is so obvious that coal mining accident data before/after
-regulation is used as a pedestrian example in statistics - in the
-subject of change point analysis. You look at the distribution of
-accidents and try to find where distribution shifts from one to
-another. Most methods will find a value near 1887 which is exactly
-when Coal Mines Regulation Act of 1887 was passed.
-
-"How do we know better regulation improves coal mining accidents?"
+H2 Central: "[University of New South Wales] Engineers retrofit diesel
+engine for clean hydrogen combustion.. The scientists claim to have
+used the H2 in a dual-fuel injection system and boosted efficiency 26
+percent"
 
 ---
 
-The Soviet Elsgoltz book is legendary - they really knew how to teach
-Calculus. I have a digital copy now. 
+BTW per Mission Barns [share](2022/06/lab-grown-meat.html#missionbarns) earlier, 
+where having cultivated meat with a "cut" was mentioned - so luxurious.. 
+For survival meat based cultivated protein "kibbles", or just powder is enough,
+plus cultivated fat, some fruits, the picture is complete. 
 
 ---
 
-Bolywood action movie line: "If you are bad, I'm your dad". Hah :)
+Arab News: “[Macron said] 'In a spirit of great friendship, we will
+say to our American and Norwegian friends: You’re super, you supply us
+with energy and gas, but one thing that can’t go on for too long is us
+paying four times more than the price you sell to your industry.. That
+is not exactly the meaning of friendship'"
 
 ---
 
-"@PininfarinaSpA
-
-The new brand NAMX will introduce the \#Pininfarina-designed HUV,
-hydrogen-powered SUV [using] removable capsules"
+[Link](https://pbs.twimg.com/media/FflBvumXgAECu8a?format=jpg&name=small)
 
 ---
 
-"@AnnajahFaouzi
+Ruski Brewski 
 
-Part One - The End.
-
-\#Namx \#Hydrogen \#Climatechange"
-
-[[-]](https://twitter.com/AnnajahFaouzi/status/1579254941897543680)
+That would be a great bar name, or microbrewery
 
 ---
 
-Another company, Peace of Meat (great name BTW)
-
-[[-]](2022/06/lab-grown-meat.html#peaceofmeat)
+Fuckin Ruski. Will their tech save the climate now?
 
 ---
 
-More on this space, Mission Barns
-
-[[-]](2022/06/lab-grown-meat.html#missionbarns)
-
----
-
-Animal fat is great - it's healthy, and necessary. Cultivated animal
-fat is even better, without the destructive farming side effects.
-
-"[Startup Hoxton Farms' process] begins by taking a 'harmless handful
-of stem cells' from an animal such as a cow or pig and placing them
-inside a freezer. There is then enough supply of these cells which
-means the animal is no longer needed...Similar to the equipment used
-in a brewery, these cells are encouraged to multiply in a cultivator
-which then kickstarts the production process [of animal fat]"
+Can generate lots of H2 with that kind of power.. Near imitless clean
+fuel from RU. China can supply the electrolyzers.  Boom. Pipe it
+anywhere.
 
 ---
 
-People always made fun of Italy about their change of governments..
-Look at UK now..
+Finland has some waste storage afaik.. France, US probably have them
+too. 
 
 ---
 
-Truss out. Is UK "Ready for Rishi"?
+And everyone gave their spent fuel to Russia? Now they can be the
+biggest supplier on that too [facepalm].
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Christ</p>&mdash; Hugh Laurie (@hughlaurie) <a href="https://twitter.com/hughlaurie/status/1582859649862496257?ref_src=twsrc%5Etfw">October 19, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+First Post: "[W]e are talking about the..  reactor being completely
+switched to uranium-plutonium MOX fuel. That reactor is standing at
+the Beloyarsk nuclear power station, placed in the Urals mountains at
+the border between Europe and Asia. The switch took several years, but
+now the totally revolutionary reactor is giving power to consumers.
+
+And that, my friends, means that Russia has achieved a closed circuit
+of getting nuclear energy, asking for no raw materials like uranium
+(or oil, or gas). That reactor works on the old stocks of spent
+nuclear fuel, which is not just abundant, it will last us for several
+thousand years. Oh, and in the future, there will be no such thing as
+spent fuel, in need of stocking in some remote places. Every scrap of
+it will be reprocessed..
+
+Russia has been paid heavily by many nuclear powers to stock that
+spent fuel, so now we have plenty"
+
+[[-]](https://www.firstpost.com/opinion-news-expert-views-news-analysis-firstpost-viewpoint/goodbye-oil-gas-and-alternative-energy-too-russias-breakthrough-seeks-energy-from-spent-nuclear-fuel-11486371.html)
+
+---
+
+This reactor works on spent nuclear fuel BTW, the toxic waste from
+used uranium. That waste used to cause storage problems right? This
+new tech will be able to reuse it. Two birds with one stone.
+
+World Nuclear News: "[Russian] Beloyarsk nuclear power plant.. resumed
+operations after being fully loaded with uranium-plutonium mixed oxide
+(MOX) fuel"
+
+---
+
+"@HydrogenCouncil
+
+Belgium's Hydrogen Strategy 2.0 is out laying a bold vision for the
+country as a #H2Hub and putting forward a whole-system approach to
+\#hydrogen deployment"
+
+---
+
+He basically said don't rely on us to replace Russian gas
+
+FT: "[The head of Qatar's state gas company] warned that he could not
+envisage a future where 'zero Russian gas' flowed to Europe"
 
 ---
 
