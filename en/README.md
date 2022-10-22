@@ -54,9 +54,7 @@ is not exactly the meaning of friendship'"
 
 ---
 
-Ruski Brewski 
-
-That would be a great bar name, or microbrewery
+Ruski Brewski. That's a good name for a bar, or microbrewery
 
 ---
 
