@@ -21,7 +21,7 @@ McCarthy of California if Republicans take control of the House"
 
 ---
 
-"House Minority Leader Kevin McCarthy.. is signaling that if
+WaPo: "House Minority Leader Kevin McCarthy.. is signaling that if
 Republicans win the House majority in next month’s midterm elections,
 the GOP is likely to oppose more aid to Ukraine in its war with
 Russia."
