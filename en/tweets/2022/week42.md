@@ -32,7 +32,7 @@ CH is halfway around the world, but the trade was just as high.
 
 Prelim analyis
 
-[[-]](2022/10/world-commerce.html)
+[[-]](../../2022/10/world-commerce.html)
 
 ---
 
@@ -85,13 +85,13 @@ Part One - The End.
 
 Another company, Peace of Meat (great name BTW)
 
-[[-]](2022/06/lab-grown-meat.html#peaceofmeat)
+[[-]](../../2022/06/lab-grown-meat.html#peaceofmeat)
 
 ---
 
 More on this space, Mission Barns
 
-[[-]](2022/06/lab-grown-meat.html#missionbarns)
+[[-]](../../2022/06/lab-grown-meat.html#missionbarns)
 
 ---
 
