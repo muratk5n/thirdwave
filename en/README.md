@@ -36,9 +36,9 @@ percent"
 ---
 
 BTW per Mission Barns [share](2022/06/lab-grown-meat.html#missionbarns) earlier, 
-where having cultivated meat with a "cut" was mentioned - so luxurious.. 
-For survival meat based cultivated protein "kibbles", or just powder is enough,
-plus cultivated fat, some fruits, the picture is complete. 
+cultivated meat with a "cut" was mentioned; Too luxurious.. For survival
+cultivated protein "kibbles", or just powder is enough, add fat, some
+fruits, the picture is complete, ala pemmican.
 
 ---
 
