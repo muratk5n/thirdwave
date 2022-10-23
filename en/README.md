@@ -73,12 +73,12 @@ rethink fundamentals"
 
 ---
 
-Wired: "What.. infuriated [the economist] Mazzucato was the prevailing
-narrative that such cuts were necessary to boost competitiveness and
-innovation... 'There was this belief that we didn’t have European
-Googles and Facebooks because we didn’t subscribe to Silicon Valley’s
-free market approach. It was just ideology: there was no free market
-in Silicon Valley.'..
+Wired: "[2019] What.. infuriated [the economist] Mazzucato was the
+prevailing narrative that such cuts were necessary to boost
+competitiveness and innovation... 'There was this belief that we
+didn’t have European Googles and Facebooks because we didn’t subscribe
+to Silicon Valley’s free market approach. It was just ideology: there
+was no free market in Silicon Valley.'..
 
 [Mazzucato researched the issue]. The development of Google’s search
 algorithm, for instance, had been supported by a grant from the
