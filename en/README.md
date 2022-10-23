@@ -74,7 +74,7 @@ rethink fundamentals"
 ---
 
 Wired: "[2019] What.. infuriated [the economist] Mazzucato was the
-prevailing narrative that such cuts were necessary to boost
+prevailing narrative that [gov spending] cuts were necessary to boost
 competitiveness and innovation... 'There was this belief that we
 didn’t have European Googles and Facebooks because we didn’t subscribe
 to Silicon Valley’s free market approach. It was just ideology: there
