@@ -1,119 +1,142 @@
 <img src="https://drive.google.com/uc?export=view&id=1B2wf9R7AMH1d7Vw6e2mucLbIQ5NSjir7"/>
 
-ROCKED IT
+---
 
-H2 Central: "NamX Rocks the Paris Motor Show With a Hydrogen Powered
-SUV Concept Using Removable Tanks"
+H2 Central: "Egypt to announce ambitious hydrogen strategy... Egypt
+will present a new energy vision for green hydrogen at the next
+climate conference in Sharm el-Sheikh this November"
 
 ---
 
-"@nelhydrogen
-
-We've broken our order size record, for the second time in four
-months! We have entered into a contract for alkaline electrolyser
-equipment from Australian company @WoodsideEnergy - the contract has a
-total value of about [$57 million]"
-
----
-
-NYT: "Speaker Nancy Pelosi could be succeeded by Representative Kevin
-McCarthy of California if Republicans take control of the House"
+Calling a function instead of passing the function pointer.. rookie
+`multiprocessing` mistake. `Pool(func(arg1,arg2))` instead of
+`Pool(func,args=(arg1,arg2))`.. Tsck, tsck, tsck.. Then programmer
+wonders why everything is running serially not paralel. You paralized
+the mufucka - that's why.
 
 ---
 
-WaPo: "House Minority Leader Kevin McCarthy.. is signaling that if
-Republicans win the House majority in next month’s midterm elections,
-the GOP is likely to oppose more aid to Ukraine in its war with
-Russia."
+H2 Central: "Plus, hydrogen has potential as a source for electricity
+in our homes: South Korea opened a hydrogen fuel cell plant last
+year—the world’s largest—that will supply power to 250,000 households
+annually... In Japan.. there are 400,000 residential fuel cell units
+helping to power individual homes"
 
 ---
 
-H2 Central: "[University of New South Wales] Engineers retrofit diesel
-engine for clean hydrogen combustion.. The scientists claim to have
-used the H2 in a dual-fuel injection system and boosted efficiency 26
-percent"
+Wout net I could probably scrounge few dozen cores where I'm if I had
+to. A board here a board there, an unused laptop... Hook it all up,
+there is some juice
 
 ---
 
-Arab News: “[Macron said] 'In a spirit of great friendship, we will
-say to our American and Norwegian friends: You’re super, you supply us
-with energy and gas, but one thing that can’t go on for too long is us
-paying four times more than the price you sell to your industry.. That
-is not exactly the meaning of friendship'"
+WION: "Man can't access $1.8mn Bitcoin as he forgot security question
+answer"
 
 ---
 
-[Link](https://pbs.twimg.com/media/FflBvumXgAECu8a?format=jpg&name=small)
+That didn't take long
+
+Al Jazeera: "Pakistan election commission disqualifies former PM Imran Khan"
 
 ---
 
-Ruski Brewski. That's a good name for a bar, or microbrewery
+I am glad. Khan can help change things in Pak; with his celebrity
+power he can battle with the Army's overbearing presence in politics.
 
 ---
 
-Fuckin Ruski. Will their tech save the climate now?
+Arab News: "Ex-PM Khan wins big in Pakistan by-election"
 
 ---
 
-Can generate lots of H2 with that kind of power.. Near limitless clean
-fuel from RU. China can supply the electrolyzers.  Boom. Pipe it
-anywhere.
+Sean Shamrock McShanahan is asking for 'moral clarity' on Ukraine on
+Fox News. Is pushing a nuke armed adversary into destroying a country
+'moral'?
 
 ---
 
-Finland has some waste storage afaik.. France, US probably have them
-too. 
+Al Monitor: "Israel vexed as Australia reverses recognition of
+'capital' Jerusalem"
 
 ---
 
-And everyone gave their spent fuel to Russia? Now they can be the
-biggest supplier on that too [facepalm].
+H2 Fuel News: "American Airlines invests in Universal Hydrogen fuel
+distribution company"
 
 ---
 
-First Post: "[W]e are talking about the..  reactor being completely
-switched to uranium-plutonium MOX fuel. That reactor is standing at
-the Beloyarsk nuclear power station, placed in the Urals mountains at
-the border between Europe and Asia. The switch took several years, but
-now the totally revolutionary reactor is giving power to consumers.
+"@MazzucatoM
 
-And that, my friends, means that Russia has achieved a closed circuit
-of getting nuclear energy, asking for no raw materials like uranium
-(or oil, or gas). That reactor works on the old stocks of spent
-nuclear fuel, which is not just abundant, it will last us for several
-thousand years. Oh, and in the future, there will be no such thing as
-spent fuel, in need of stocking in some remote places. Every scrap of
-it will be reprocessed..
-
-Russia has been paid heavily by many nuclear powers to stock that
-spent fuel, so now we have plenty"
-
-[[-]](https://www.firstpost.com/opinion-news-expert-views-news-analysis-firstpost-viewpoint/goodbye-oil-gas-and-alternative-energy-too-russias-breakthrough-seeks-energy-from-spent-nuclear-fuel-11486371.html)
+When [the] @WIRED ⁩piece was written, capitalism still had (weak)
+legs. Now it’s looking for crutches. No better time than this to
+rethink fundamentals"
 
 ---
 
-This reactor works on spent nuclear fuel BTW, the toxic waste from
-used uranium. That waste used to cause storage problems right? This
-new tech will be able to reuse it. Two birds with one stone.
+Wired: "What.. infuriated [the economist] Mazzucato was the prevailing
+narrative that such cuts were necessary to boost competitiveness and
+innovation... 'There was this belief that we didn’t have European
+Googles and Facebooks because we didn’t subscribe to Silicon Valley’s
+free market approach. It was just ideology: there was no free market
+in Silicon Valley.'..
 
-World Nuclear News: "[Russian] Beloyarsk nuclear power plant.. resumed
-operations after being fully loaded with uranium-plutonium mixed oxide
-(MOX) fuel"
+[Mazzucato researched the issue]. The development of Google’s search
+algorithm, for instance, had been supported by a grant from the
+National Science Foundation, a US public grant-awarding body. Electric
+car company Tesla initially struggled to secure investment until it
+received a 465 million USD loan from the US Department of Energy. In
+fact, three companies founded by Elon Musk — Tesla, SolarCity and
+SpaceX — had jointly benefited from nearly $4.9 billion in public
+support of various kinds [clearly a giant waste of money]. Many other
+well-known US startups had been funded by the Small Business
+Innovation Research programme, a public venture capital fund. 'It
+wasn’t just early research, it was also applied research, early stage
+finance, strategic procurement,' she says. 'The more I looked, the
+more I realised: state investment is everywhere.'"
 
 ---
 
-"@HydrogenCouncil
-
-Belgium's Hydrogen Strategy 2.0 is out laying a bold vision for the
-country as a #H2Hub and putting forward a whole-system approach to
-\#hydrogen deployment"
+Not "paralize", parallelize
 
 ---
 
-He basically said don't rely on us to replace Russian gas
+The trade data was 20 million rows, processed in a few mins, parallelized on multicore
 
-FT: "[The head of Qatar's state gas company] warned that he could not
-envisage a future where 'zero Russian gas' flowed to Europe"
+---
+
+C-Funk - Accion \#music
+
+[[-]](https://youtu.be/uIjlrNqdf-o)
+
+---
+
+"Select some code and translate it into other languages on the spot" \#Github
+
+[[-]](https://twitter.com/GitHubNext/status/1509249187526832129)
+
+---
+
+"@mbeisen
+
+far more than a 'reproducibility' crisis, science has a 'making claims
+that exceed what the data show' crisis"
+
+---
+
+♪ You don't wanna fuck with a chigga like me ♪ 
+
+---
+
+That is legit gangsta Zee Ping Ping
+
+---
+
+Daam
+
+"Former Chinese President Hu Jintao escorted out of party congress"
+
+[Pic](https://pbs.twimg.com/media/FfrSELXXoAIs3oO?format=jpg&name=small)
 
 ---
 
