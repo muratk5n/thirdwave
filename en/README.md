@@ -87,8 +87,8 @@ car company Tesla initially struggled to secure investment until it
 received a 465 million USD loan from the US Department of Energy. In
 fact, three companies founded by Elon Musk — Tesla, SolarCity and
 SpaceX — had jointly benefited from nearly $4.9 billion in public
-support of various kinds [clearly a giant waste of money]. Many other
-well-known US startups had been funded by the Small Business
+support of various kinds [a giant waste of money in this case]. Many
+other well-known US startups had been funded by the Small Business
 Innovation Research programme, a public venture capital fund. 'It
 wasn’t just early research, it was also applied research, early stage
 finance, strategic procurement,' she says. 'The more I looked, the
