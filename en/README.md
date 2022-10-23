@@ -40,11 +40,6 @@ Al Jazeera: "Pakistan election commission disqualifies former PM Imran Khan"
 
 ---
 
-I am glad. Khan can help change things in Pak; with his celebrity
-power he can battle with the Army's overbearing presence in politics.
-
----
-
 Arab News: "Ex-PM Khan wins big in Pakistan by-election"
 
 ---
