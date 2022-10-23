@@ -16,9 +16,9 @@ the mufucka that's why.
 
 ---
 
-H2 Central: "Plus, hydrogen has potential as a source for electricity
-in our homes: South Korea opened a hydrogen fuel cell plant last
-year—the world’s largest—that will supply power to 250,000 households
+H2 Central: "[H2] has potential as a source for electricity in our
+homes: South Korea opened a hydrogen fuel cell plant last year—the
+world’s largest—that will supply power to 250,000 households
 annually... In Japan.. there are 400,000 residential fuel cell units
 helping to power individual homes"
 
