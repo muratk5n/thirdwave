@@ -105,12 +105,6 @@ The trade data was 20 million rows, processed in a few mins, parallelized on mul
 
 ---
 
-C-Funk - Accion \#music
-
-[[-]](https://youtu.be/uIjlrNqdf-o)
-
----
-
 "Select some code and translate it into other languages on the spot" \#Github
 
 [[-]](https://twitter.com/GitHubNext/status/1509249187526832129)
