@@ -25,8 +25,7 @@ helping to power individual homes"
 ---
 
 Wout net I could probably scrounge few dozen cores where I'm if I had
-to. A board here a board there, an unused laptop... Hook it all up,
-there is some juice
+to. A board here a board there, an unused laptop... Hook it all up, run.
 
 ---
 
