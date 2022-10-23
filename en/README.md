@@ -12,7 +12,7 @@ Calling a function instead of passing the function pointer.. rookie
 `multiprocessing` mistake. `Pool(func(arg1,arg2))` instead of
 `Pool(func,args=(arg1,arg2))`.. Tsck, tsck, tsck.. Then programmer
 wonders why everything is running serially not paralel. You paralized
-the mufucka - that's why.
+the mufucka that's why.
 
 ---
 
