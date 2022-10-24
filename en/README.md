@@ -18,8 +18,6 @@ rainfall. The rest is fluid dynamics.
 
 ---
 
-It did look like SOTA on flood prediction wasn't good
-
 "[S]everal shortcomings in the..  Earth System Model..  [attempting to
 predict flooding] including those related to model structure, lack of
 mechanistic representation of key processes, and coarse spatial
