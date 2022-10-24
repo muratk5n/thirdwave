@@ -158,7 +158,7 @@ war, ignore the economic issues, just fight over hijab, "women's
 rights". Well-to-do Turkist Kemalist would fight to force women to
 take off their hijab, whereas conservative from usually poorer
 background tried to "defend their identity" by refusing.. The Turkist
-resurgence through the image of Kemal is talked about in this work [5].
+resurgence through the image of Kemal is expounded upon more in this work [5].
   
 References
 

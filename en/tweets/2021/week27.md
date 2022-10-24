@@ -62,18 +62,6 @@ I know what I'm doing on Sunday night 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇮🇹
 
 ---
 
-Oliver Consa: "Something is rotten in the state of [Quantum
-Electrodynamics. QED] is considered the most accurate theory in the
-history of science. However, this precision is based on a single
-experimental value: the anomalous magnetic moment of the electron
-(g-factor). An examination of QED history reveals that this value was
-obtained using illegitimate mathematical traps, manipulations and
-tricks" via @unzicker_a
-
-[Link](https://vixra.org/pdf/2002.0011v1.pdf)
-
----
-
 The energy requirements of a zombie makes no sense.. these fuckers are
 constantly on the move, dont really "eat" anything, or ppl even just
 turn them, where do they get the energy? If they truly lived on an
