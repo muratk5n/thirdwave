@@ -132,7 +132,7 @@ advanced chips"
 
 ---
 
-I posted abt these guys.. who cashed in? I want a cut
+I had posted abt these guys.. who cashed in? I want a cut
 
 CNBC: "Globally critical chip firm ASML jumps 6% after earnings; sees
 limited impact from U.S. China curbs"
