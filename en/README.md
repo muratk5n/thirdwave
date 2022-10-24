@@ -2,14 +2,13 @@
 
 ---
 
-"@PlugPowerInc
-
-'@Amazon is proud to be an early adopter of \#GreenHydrogen… By 2025
-we plan to have 20,000 fuel cell forklifts across 100 fulfillment
-centers.' - [VP]"
+H2 Central: "War Drives $73bn Spend on Green Hydrogen.... Germany,
+Morocco and the United States have pledged most, the report
+finds. Production, on the other hand, will be dominated by the Global
+South, responsible for 50% of total world production by 2050, with
+South Africa, Morocco and Chile controlling most (68 million tonnes)"
 
 ---
-
 
 Climate models are fine 4-5 days ahead on general weather (Ian was
 predicted, even the Lee County landfall) but flood tech sounds
