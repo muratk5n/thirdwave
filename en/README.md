@@ -61,7 +61,7 @@ active personnel. France is \#7 in the global index.
 
 ---
 
-Quick comparison between last year and now, for France
+Quick GFP comparison between last year and now, for France
 
 ```python
 u.gfp_compare('France','../2021/gfp-2021.csv','gfp-2022.csv')
