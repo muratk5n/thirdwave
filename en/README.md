@@ -110,7 +110,7 @@ Bhadrakumar: "The EU has now become a captive market for Big Oil and
 is left to buy LNG from the US at the asking price, which is six to
 seven times higher than the domestic price in the US.. The Americans
 are cocooned in a surreal world of their self-serving narrative that
-Russia ‘lost’ the war. In the real world, though, [.. things looks
+Russia ‘lost’ the war. In the real world, though [.. things look
 different]"
 
 [[-]](https://www.tribuneindia.com/news/comment/a-war-russia-set-to-win-441926)
