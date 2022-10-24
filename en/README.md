@@ -18,7 +18,7 @@ rainfall. The rest is fluid dynamics.
 
 ---
 
-I had a feeling SOTA on flood prediction wasn't good.. 
+It did look like SOTA on flood prediction wasn't good
 
 "[S]everal shortcomings in the..  Earth System Model..  [attempting to
 predict flooding] including those related to model structure, lack of
@@ -29,7 +29,7 @@ resolution, pose limits"
 
 ---
 
-CSV/file references - if is under `en/tweets/2022/` file ref is
+CSV/file references - if content URL is `../en/tweets/2022/` file ref is
 `gfp-2022.csv` then the file is [here](tweets/2022/gfp-2022.csv).
 
 ---
