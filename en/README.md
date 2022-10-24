@@ -29,10 +29,8 @@ resolution, pose limits"
 
 ---
 
-Whereever there is a CSV or any file reference here, the file can
-simply be accessed by using the URL of the current page. The content
-seen here now eventually goes under `en/tweets/2022/` so the file
-`gfp-2022.csv` is [here](tweets/2022/gfp-2022.csv).
+CSV/file references - if is under `en/tweets/2022/` file ref is
+`gfp-2022.csv` then the file is [here](tweets/2022/gfp-2022.csv).
 
 ---
 
