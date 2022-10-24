@@ -11,7 +11,7 @@ South Africa, Morocco and Chile controlling most (68 million tonnes)"
 ---
 
 Climate models are fine 4-5 days ahead on general weather (Ian was
-predicted, even the Lee County landfall) but flood tech did sound
+predicted, even the Lee County landfall) but flood tech does sound
 behind. Base data should already be there, terrain, wind,
 rainfall. The rest is fluid dynamics. 
 
