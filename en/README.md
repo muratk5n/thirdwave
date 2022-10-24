@@ -56,8 +56,8 @@ Frigates                        20.000000      10.0
 
 ---
 
-Increased purchase in artillery, in paramilitary but decrease in
-active personnel. France is \#7 in the global index.
+Increases in artillery, paramilitary but decrease in active
+personnel. France is \#7 in the global index.
 
 ---
 
