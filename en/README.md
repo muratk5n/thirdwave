@@ -131,7 +131,7 @@ limited impact from U.S. China curbs"
 
 ---
 
-Collated comments on quantum supremacy (or the the non-existence thereof)
+Collated comments on quantum supremacy (or the lack thereof)
 
 [[-]](2022/10/quantum-computing.html)
 
