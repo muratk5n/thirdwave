@@ -94,11 +94,6 @@ My scraper from 2017 still works
 
 ---
 
-Remember after months of these missile stories, Russia fired massive
-salvos of missiles for days
-
----
-
 [Link](2022/07/russia-missiles.html)
 
 ---
