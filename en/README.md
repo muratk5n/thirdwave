@@ -61,10 +61,12 @@ Frigates                        20.000000      10.0
 
 ---
 
-Little comparison between last year and now, for France
-
 Increased purchase in artillery, in paramilitary but decrease in
 active personnel. France is \#7 in the global index.
+
+---
+
+Little comparison between last year and now, for France
 
 ```python
 u.gfp_compare('France','../2021/gfp-2021.csv','gfp-2022.csv')
