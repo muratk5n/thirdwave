@@ -120,17 +120,16 @@ was right on Code for [them].
 
 Heritage
 
-Because [USA] was so vast and underpopulated when we developed it, we
-have grown accustomed to a certain level of disposability..
-
-[The Japanese] country comprises only 146,000 square miles.. There was
-never a vast frontier to explore. The Japanese couldn’t “dispose” of
-their houses or their property if they grew disenchanted; they needed
-to make the most of their land and to keep it as productive as
-possible. In addition, because so many people live in such a small
-space..  efficiency is critical. There’s no room for wasted products
-or wasted process. Mistakes are costlier. Quality is a
-necessity. Perfection is premium.
+Because [USA] was so vast and underpopulated.. [citizens] have grown
+accustomed to a certain level of disposability.. [The Japanese]
+country comprises only 146,000 square miles.. There was never a vast
+frontier to explore. The Japanese couldn’t “dispose” of their houses
+or their property if they grew disenchanted; they needed to make the
+most of their land and to keep it as productive as possible. In
+addition, because so many people live in such a small space..
+efficiency is critical. There’s no room for wasted products or wasted
+process. Mistakes are costlier. Quality is a necessity. Perfection is
+premium.
 
 Americans, on the other hand, find perfection boring. If something is
 perfect, you’re stuck with it for life, and that doesn’t sit well with
