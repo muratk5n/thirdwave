@@ -2,28 +2,24 @@
 
 ---
 
-JCB, developer of the world’s first working construction machines
+"JCB, developer of the world’s first working construction machines
 powered by hydrogen, today unveiled another world first for the
 industry - a mobile hydrogen refueller. JCB is investing £100 million
 in a project to produce super-efficient hydrogen engines and has
 already showcased working prototypes of a backhoe loader and Loadall
-telescopic handler powered by hydrogen.
+telescopic handler powered by hydrogen"
 
 <img width="340" src="https://pbs.twimg.com/media/FfviPRxXgAAffxW?format=jpg&name=small"/>
 
 ---
 
-It uses clean syntax, simple to use
+Has clean syntax, simple to use
 
 "@realpython
 
 rocketry: Modern Scheduling Library for Python #python"
 
 [[-]](https://twitter.com/realpython/status/1583850679906754561)
-
----
-
-Electrification is for inbred cocksuckers
 
 ---
 
