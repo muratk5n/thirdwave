@@ -25,7 +25,7 @@ resolution, pose limits"
 ---
 
 CSV/file ref; if URL is `../en/tweets/2022/` ref is `gfp-2022.csv` 
-then file itself is [here](tweets/2022/gfp-2022.csv).
+then file itself is [here](gfp-2022.csv).
 
 ---
 
@@ -89,7 +89,7 @@ My scraper from 2017 still works
 
 ---
 
-[Link](2022/07/russia-missiles.html)
+[Link](../../2022/07/russia-missiles.html)
 
 ---
 
@@ -131,7 +131,7 @@ limited impact from U.S. China curbs"
 
 Collated comments on quantum supremacy (or the lack thereof)
 
-[[-]](2022/10/quantum-computing.html)
+[[-]](../../2022/10/quantum-computing.html)
 
 ---
 
