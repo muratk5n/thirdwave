@@ -4,7 +4,7 @@
 
 [H2 Storage Options](../../2022/02/h2-storage.html)
 
-[Clean Fuels are the Solution](clean-fuel-is-the-solution.html)
+[Clean Fuels are the Solution](../../2018/12/clean-fuel-is-the-solution.html)
 
 [Patents](2018/09/patents.html)
 
