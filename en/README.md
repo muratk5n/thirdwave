@@ -134,7 +134,7 @@ Reshare \#HOR \#Ukraine
 
 [Education, Workplace](2017/09/education-workplace.html)
 
-[Science and Technology](2018/science-technology.html)
+[Science and Technology](2018/09/science-technology.html)
 
 [Democracy, Parties](2016/11/democracy.html)
 

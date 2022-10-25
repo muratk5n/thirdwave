@@ -8,3 +8,5 @@
 
 [Economics "Nobel" Prize](../../2018/05/faux-nobel.html)
 
+[Quantum Computing](../../2022/10/quantum-computing.md)
+
