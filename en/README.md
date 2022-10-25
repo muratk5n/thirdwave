@@ -2,138 +2,129 @@
 
 ---
 
-H2 Central: "War Drives $73bn Spend on Green Hydrogen.... Germany,
-Morocco and the United States have pledged most, the report
-finds. Production, on the other hand, will be dominated by the Global
-South, responsible for 50% of total world production by 2050, with
-South Africa, Morocco and Chile controlling most (68 million tonnes)"
+JCB, developer of the world’s first working construction machines
+powered by hydrogen, today unveiled another world first for the
+industry - a mobile hydrogen refueller. JCB is investing £100 million
+in a project to produce super-efficient hydrogen engines and has
+already showcased working prototypes of a backhoe loader and Loadall
+telescopic handler powered by hydrogen.
+
+<img width="340" src="https://pbs.twimg.com/media/FfviPRxXgAAffxW?format=jpg&name=small"/>
 
 ---
 
-Climate models are fine 4-5 days ahead on general weather (Ian was
-predicted, even the Lee County landfall) but flood tech does sound
-behind. Base data should already be there, terrain, wind,
-rainfall. The rest is fluid dynamics. 
+It uses clean syntax, simple to use
+
+"@realpython
+
+rocketry: Modern Scheduling Library for Python #python"
+
+[[-]](https://twitter.com/realpython/status/1583850679906754561)
 
 ---
 
-"[S]everal shortcomings in the..  Earth System Model..  [attempting to
-predict flooding] including those related to model structure, lack of
-mechanistic representation of key processes, and coarse spatial
-resolution, pose limits"
-
-[[-]](https://climatemodeling.science.energy.gov/projects/capturing-dynamics-compound-flooding-e3sm)
+Electrification is for inbred cocksuckers
 
 ---
 
-CSV/file ref; if URL is `../en/tweets/2022/` ref is `gfp-2022.csv` 
-then file itself is [here](tweets/2022/gfp-2022.csv).
+Le Figaro: "Crédit Agricole orders 10,000 hydrogen sedans from
+manufacturer Hopium [in a deal worth 1.2 billion euros]"
 
 ---
 
-Major increase in tanks and armored vehicles. Germany is at \#16
-\#TFIGlobal
-
-```python
-u.gfp_compare('Germany','../2021/gfp-2021.csv','gfp-2022.csv')
-```
-
-```text
-Out[1]: 
-                                 % Change  Previous
-Tot Military Personnel (est.)   -7.441860  215000.0
-Reserve Personnel              -50.000000   30000.0
-Manpower Composition            12.500000      16.0
-Total Aircraft Strength        -11.982882     701.0
-Transports                     -40.277778      72.0
-Trainers                        15.625000      32.0
-Tanker Fleet                  -100.000000       7.0
-Helicopters                    -15.088757     338.0
-Tanks                            9.016393     244.0
-Armored Vehicles                75.228137    5260.0
-Frigates                        20.000000      10.0
-```
+Deep neural nets are usde in ad-hoc fashion, shove data from one end,
+turn the crank, it spits out some stuff from the other end. Their
+non-scientific nature made them a dead-end for AGI. Any theoretical
+connection is a good thing.
 
 ---
 
-Increases in artillery, paramilitary but decrease in active
-personnel. France is \#7 in the global index.
+TabPFN has a connection to theory, that's good; they can *prove*
+something, an approximation to Bayesian inference. In effect TabPFN is
+almost an implementation of theory, as FVM can implement CFD
+equations.
+
+"TabPFN: A Transformer That Solves Small Tabular Classification
+Problems in a Second.. TabPFN is radically different from previous ML
+methods. It is a meta-learned algorithm and it provably approximates
+Bayesian inference"
+
+[[-]](https://www.automl.org/tabpfn-a-transformer-that-solves-small-tabular-classification-problems-in-a-second/)
 
 ---
 
-Quick GFP comparison between last year and now, for France
+H2 Fuel News: Jericho Energy Ventures hydrogen boiler rated almost 100
+percent efficient
 
-```python
-u.gfp_compare('France','../2021/gfp-2021.csv','gfp-2022.csv')
-```
-
-```text
-Out[1]: 
-                                 % Change  Previous
-Tot Military Personnel (est.)   -7.777778  450000.0
-Active Personnel               -24.074074  270000.0
-Paramilitary                    20.689655  145000.0
-Manpower Composition            25.000000       8.0
-Transports                       5.932203     118.0
-Tanker Fleet                   -21.739130      23.0
-Towed Artillery                775.000000      12.0
-Destroyers                      -9.090909      11.0
-```
+[[-]](https://www.hydrogenfuelnews.com/hydrogen-boiler-jericho/8555584/)
 
 ---
 
-My scraper from 2017 still works
+"The US Department of Energy (DOE) has released a draft National Clean
+Hydrogen Strategy and Roadmap, which sets out three key priorities:
+the targeting of strategic, high-impact uses of hydrogen; reducing the
+cost of clean hydrogen to $1/kg by 2031; and focusing on the
+deployment of at least four regional clean hydrogen hubs"
 
 ---
 
-[Global Firepower Dataset](https://www.globalfirepower.com/countries-listing.php)
-2022 is out
+TASS: "Trade turnover between India, Russia exceeds $18 bln in
+April-August"
 
 ---
 
-[Link](2022/07/russia-missiles.html)
+H2 Fuel News: "New hydrogen fuel cell ready hybrid ferries coming to Hamburg"
 
 ---
 
-Another propaganda piece?
-
-Politico.eu: "Russia is running short of long-range missiles, say Western officials"
-
----
-
-WION: "Russian fighter jet 'released missile' near British Royal Air
-Force aircraft over Black Sea"
+Yahoo Finance: "POSCO Group CEO, Jeong-woo Choi, to take office as
+Chairman of worldsteel, leading a great shift for the steel industry
+to go green.. '.. we will lay the foundation for the commercialization
+of Hydrogen Reduction (HyREX) technology,' said Choi"
 
 ---
 
-Bhadrakumar: "The EU has now become a captive market for Big Oil and
-is left to buy LNG from the US at the asking price, which is six to
-seven times higher than the domestic price in the US.. The Americans
-are cocooned in a surreal world of their self-serving narrative that
-Russia ‘lost’ the war. In the real world, though [.. things look
-different]"
-
-[[-]](https://www.tribuneindia.com/news/comment/a-war-russia-set-to-win-441926)
+New shelter for migrants in NYC.. On Randalls Island..? Is it like
+Alcatraz over there?
 
 ---
 
-CNBC: "ASML does not make chips. Instead, it sells $200 million
-extreme ultraviolet lithography machines to semiconductor
-manufacturers like Taiwan’s TSMC, which are required to make the most
-advanced chips"
+H2 Central: "Members of The European Parliament Have Decided to
+Support a Hydrogen Based Green Transition in The Transport
+Sector.. Was another important day for hydrogen economy in Europe and
+globally...
+
+[The target of a] maximum distance of 100km between each hydrogen
+refuelling station, along both the core and comprehensive TEN-T
+networks, will mean that by the time the infrastructure is in place by
+end of 2027, up to 1,780 HRS could be available across Europe,
+suppling up to 1 million ton of hydrogen per year"
 
 ---
 
-I had posted abt these guys.. who cashed in? I want a cut
+The new eLife approach can work... Every submitted paper is
+automatically available (not 'rejected', or 'accepted'), publisher
+assesment is still included with the published paper, others' comments
+also visible, and the author can resubmit.
 
-CNBC: "Globally critical chip firm ASML jumps 6% after earnings; sees
-limited impact from U.S. China curbs"
+I'm thinking incentives.. prestigious publishers can still exist, to
+the extent they can pull prestigious reviewers, the add-on they
+provide will be those reviews. Readers would still be able to get a
+feel of a up/down vote on the paper, but the paper is available either
+way, available for others to see/comment. 
 
 ---
 
-Collated comments on quantum supremacy (or the lack thereof)
+"Scientific Publishing: Peer review without gatekeeping.. eLife is
+changing its editorial process to emphasize public reviews and
+assessments of preprints by eliminating accept/reject decisions after
+peer review"
 
-[[-]](2022/10/quantum-computing.html)
+---
+
+Reshare \#HOR \#Ukraine
+
+[[-]](https://twitter.com/mattgaetz/status/1542905277082746883)
 
 ---
 

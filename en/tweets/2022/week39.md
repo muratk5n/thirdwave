@@ -427,7 +427,7 @@ fruitage anyway). Could be useful.
 
 ---
 
-Nordstream 1,2 leaks at three points.. Likely sabotage. Cui bono?  Who
+Nordstream 1,2 leaks at three points.. Likely sabotage. Cui bono? Who
 doesn't want energy links between Russia and Europe, especially
 between RU-DE?
 
