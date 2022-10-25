@@ -116,6 +116,8 @@
 
 [Hyundai Nexo](09/hyunda-nexo-additions.html)
 
+[Junk Science and Technology](09/junk-science.html)
+
 [Part-Time Employees](09/part-time-employees.html)
 
 [Patents](09/patents.html)
@@ -123,6 +125,8 @@
 [Pemmican](09/pemmican.html)
 
 [Public Education](09/public-education.html)
+
+[Science and Technology](09/science-technology.html)
 
 [#science](09/science.html)
 
