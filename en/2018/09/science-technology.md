@@ -6,7 +6,7 @@
 
 [Clean Fuels are the Solution](../../2018/12/clean-fuel-is-the-solution.html)
 
-[Patents](2018/09/patents.html)
+[Patents](../../2018/09/patents.html)
 
 [Junk Science](junk-science.html)
 
