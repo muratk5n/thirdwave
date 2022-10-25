@@ -100,7 +100,7 @@ cosmic microwave background, implying there can be no Big Bang.
 
 ---
 
-You know what else Herouni found? [No Big Bang](2022/10/herouni.html).
+You know what else Herouni found? [No Big Bang](../../2022/10/herouni.html).
 
 ---
 
