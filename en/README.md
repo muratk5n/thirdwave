@@ -31,14 +31,14 @@ manufacturer Hopium [in a deal worth 1.2 billion euros]"
 Deep neural nets are usde in ad-hoc fashion, shove data from one end,
 turn the crank, it spits out some stuff from the other end. Their
 non-scientific nature made them a dead-end for AGI. Any theoretical
-connection is a good thing.
+connection to their use is a good thing.
 
 ---
 
-TabPFN has a connection to theory, that's good; they can *prove*
-something, an approximation to Bayesian inference. In effect TabPFN is
-almost an implementation of theory, as FVM can implement CFD
-equations.
+TabPFN has a connection to theory, a positive development; they can
+*prove* something, an approximation to Bayesian inference. In effect
+TabPFN is almost an implementation of theory, as FVM can implement
+CFD.
 
 "TabPFN: A Transformer That Solves Small Tabular Classification
 Problems in a Second.. TabPFN is radically different from previous ML
@@ -49,8 +49,8 @@ Bayesian inference"
 
 ---
 
-H2 Fuel News: Jericho Energy Ventures hydrogen boiler rated almost 100
-percent efficient
+H2 Fuel News: "Jericho Energy Ventures hydrogen boiler rated almost 100
+percent efficient"
 
 [[-]](https://www.hydrogenfuelnews.com/hydrogen-boiler-jericho/8555584/)
 
@@ -88,13 +88,11 @@ Alcatraz over there?
 H2 Central: "Members of The European Parliament Have Decided to
 Support a Hydrogen Based Green Transition in The Transport
 Sector.. Was another important day for hydrogen economy in Europe and
-globally...
-
-[The target of a] maximum distance of 100km between each hydrogen
-refuelling station, along both the core and comprehensive TEN-T
-networks, will mean that by the time the infrastructure is in place by
-end of 2027, up to 1,780 HRS could be available across Europe,
-suppling up to 1 million ton of hydrogen per year"
+globally... [The target of a] maximum distance of 100km between each
+hydrogen refuelling station, along both the core and comprehensive
+TEN-T networks, will mean that by the time the infrastructure is in
+place by end of 2027, up to 1,780 HRS could be available across
+Europe, suppling up to 1 million ton of hydrogen per year"
 
 ---
 
