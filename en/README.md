@@ -30,7 +30,7 @@ manufacturer Hopium [in a deal worth 1.2 billion euros]"
 
 Deep neural nets are used in ad-hoc fashion, shove data from one end,
 turn the crank, it spits out some stuff from the other end. Their
-non-scientific nature made them a dead-end road for AGI. Any
+non-scientific nature made them a dead-end route for AGI. Any
 theoretical connection to their use is a good thing.
 
 ---
