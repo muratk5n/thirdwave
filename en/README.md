@@ -85,14 +85,16 @@ Alcatraz over there?
 
 ---
 
-H2 Central: "Members of The European Parliament Have Decided to
-Support a Hydrogen Based Green Transition in The Transport
-Sector.. Was another important day for hydrogen economy in Europe and
-globally... [The target of a] maximum distance of 100km between each
-hydrogen refuelling station, along both the core and comprehensive
-TEN-T networks, will mean that by the time the infrastructure is in
-place by end of 2027, up to 1,780 HRS could be available across
-Europe, suppling up to 1 million ton of hydrogen per year"
+CR is a Jungian psychologist who uses subliminal marketing to sell
+products. I'd listen when he talks about culture. 
+
+---
+
+More on heritage and how little it matters. C. Rapaille is
+off-the-boat French. Despite this 'heritage' his son is not. Excerpt
+is from his book *The Culture Code*.
+
+[[-]](2014/06/the-culture-code.html#heritage)
 
 ---
 
