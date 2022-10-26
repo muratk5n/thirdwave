@@ -29,5 +29,5 @@ another to explain away lost territories with conjured up
 animosities. The remembarences, and nostalgia ritual was more comical
 than anything else the flow of history having gone past tragedy, and
 comedy at this point. That is how I remembered them and wondered when
-these wound up followers would wake up and find out what was done to
-them and in their name.
+these followers would wake up and find out what was done to them, and
+to others in their name.
