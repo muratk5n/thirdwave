@@ -70,11 +70,11 @@ backlash?
 The hit is likely due to the cancellation of 'Batgirl'.
 
 New mgmt at WB is trying to serve customers, no need to be up in arms
-about it.. Listen to Obama on this one - don't be a buzzkill.
+about it.. Listen to Obama - don't be a buzzkill.
 
 ---
 
-🤣 That has to be a hit piece from the Woke-Cuck crowd.. 
+That has to be a hit piece from the Woke-Cuck crowd.. 
 
 The Daily Beast: "Warner Discovery Is Killing Off Diversity""
 
