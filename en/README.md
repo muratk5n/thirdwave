@@ -61,16 +61,15 @@ China’s top leadership body"
 
 ---
 
-There are minorities against Wokeness.. Libs overdo this stuff, which
-can invite backlash, guess who would feel the effects of such
-backlash?
+Makes sense why minorities would be against Wokeness.. Libs overdo
+this stuff, which can invite backlash, guess who would feel the
+effects of such backlash?
 
 ---
 
-The hit is likely due to the cancellation of 'Batgirl'.
-
-New mgmt at WB is trying to serve customers, no need to be up in arms
-about it.. Listen to Obama - don't be a buzzkill.
+The hit is likely due to the cancellation of 'Batgirl'. New mgmt at WB
+is trying to serve customers, no need to be up in arms about
+it.. Listen to Obama - don't be a buzzkill.
 
 ---
 
