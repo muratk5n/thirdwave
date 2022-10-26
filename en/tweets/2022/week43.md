@@ -92,7 +92,7 @@ More on heritage and how little it matters. C. Rapaille is
 off-the-boat French. Despite this 'heritage' his son is not. Excerpt
 is from his book *The Culture Code*.
 
-[[-]](2014/06/the-culture-code.html#heritage)
+[[-]](../../2014/06/the-culture-code.html#heritage)
 
 ---
 
