@@ -102,12 +102,6 @@ Talking about UA reconstruction already? Is the war about to be over?
 
 ---
 
-VOA News: "Progressive Democrats Urge Biden to Negotiate with Russia"
-
-[[-]](https://www.voanews.com/a/progressive-democrats-urge-biden-to-negotiate-with-russia-/6803503.html)
-
----
-
 CNBC: "Through my research as a child psychologist, I’ve found that
 perseverance is the No. 1 soft skill.. [studies say] it is a stronger
 predictor of success than IQ"
