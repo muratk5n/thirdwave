@@ -3,16 +3,19 @@ import requests, urllib.parse, json
 from pandas_datareader import data, wb
 import matplotlib.pyplot as plt, math, yf
 
-from skimage.color import rgb2gray, rgb2lab, deltaE_cie76
-from skimage.segmentation import felzenszwalb
-from skimage.morphology import binary_closing
-from skimage import io, measure
-
 import simplegeomap as sm, util
 import datetime, time as timelib
 import urllib.request as urllib2
 from io import BytesIO
 import pandas_ta as ta
+
+def fetterman_oz_538():
+    df = pd.read_csv('https://projects.fivethirtyeight.com/polls/data/senate_polls.csv')
+    df1 = df[(df.candidate_name == 'John Fetterman')  ]
+    df2 = df[(df.candidate_name == 'Mehmet Oz') ]
+    v1 = np.array(df1[['candidate_name','end_date','pollster','pct']].head(1))
+    v2 = np.array(df2[['candidate_name','end_date','pollster','pct']].head(1))
+    return list(v1[0]), list(v2[0])
 
 def gfp_compare(country,file1,file2):
     df1 = pd.read_csv(file1); cols = df1.columns
