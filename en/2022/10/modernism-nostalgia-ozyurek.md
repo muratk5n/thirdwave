@@ -30,4 +30,4 @@ animosities. The remembarences, and nostalgia ritual was more comical
 than anything else the flow of history having gone past tragedy, and
 comedy at this point. That is how I remembered them and wondered when
 these wound up followers would wake up and find out what was done to
-them.
+them and in their name.
