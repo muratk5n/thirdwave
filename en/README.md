@@ -2,127 +2,122 @@
 
 ---
 
-"JCB, developer of the world’s first working construction machines
-powered by hydrogen, today unveiled another world first for the
-industry - a mobile hydrogen refueller. JCB is investing £100 million
-in a project to produce super-efficient hydrogen engines and has
-already showcased working prototypes of a backhoe loader and Loadall
-telescopic handler powered by hydrogen"
-
-<img width="340" src="https://pbs.twimg.com/media/FfviPRxXgAAffxW?format=jpg&name=small"/>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">German officials have announced the launch of the first hydrogen fuel passenger train fleet in the world this week- 📺Check this article out &amp; more on our NEW YouTube Channel - <a href="https://t.co/RPymTgAzpN">https://t.co/RPymTgAzpN</a><br> <a href="https://twitter.com/hashtag/BostonConsultingGroup?src=hash&amp;ref_src=twsrc%5Etfw">#BostonConsultingGroup</a> <a href="https://twitter.com/hashtag/hydrogennews?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennews</a><a href="https://t.co/XQZcZHjSpq">https://t.co/XQZcZHjSpq</a> <a href="https://t.co/YUa2FTyNUY">pic.twitter.com/YUa2FTyNUY</a></p>&mdash; Hydrogen Fuel News + The Latest in Green Hydrogen (@hydrogenfuelnew) <a href="https://twitter.com/hydrogenfuelnew/status/1583819218352758788?ref_src=twsrc%5Etfw">October 22, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Has clean syntax, simple to use
-
-"@realpython
-
-rocketry: Modern Scheduling Library for Python #python"
-
-[[-]](https://twitter.com/realpython/status/1583850679906754561)
+Kissinger: "To be an enemy of America can be dangerous, but to be a friend is fatal"
 
 ---
 
-Le Figaro: "Crédit Agricole orders 10,000 hydrogen sedans from
-manufacturer Hopium [in a deal worth 1.2 billion euros]"
+Davis: "Since Russia long ago destroyed the bulk of Ukraine’s ability
+to produce military equipment and ammunition, Kyiv is wholly dependent
+on a non-stop stream of supplies from the West. The greatest threat to
+Ukraine’s ability to wage war, therefore, is the security of supply
+routes from their western borders to marshalling locations in the
+interior of their country. If Putin recognizes this vulnerability, he
+may mass his forces through Belarus again, but bypass Kyiv completely
+and strike towards Ukraine’s western borders"
+
+[[-]](https://www.19fortyfive.com/2022/10/could-russia-try-to-take-kyiv-again-the-war-in-ukraine-is-far-from-over/)
 
 ---
 
-Deep neural nets are used in ad-hoc fashion, shove data from one end,
-turn the crank, it spits out some stuff from the other end. Their
-non-scientific nature made them a dead-end route for AGI. Any
-theoretical connection to their use is a good thing.
+"For the last couple of years Greenpeace has been campaigning to get
+at least 30% of the world’s oceans protected by 2030. This is the
+minimum amount of protection experts say is required this decade to
+allow our oceans to properly recover"
+
+[[-]](https://www.greenpeace.org.uk/news/ocean-protection-30-percent-2030/)
 
 ---
 
-TabPFN has a connection to theory, a positive development; they can
-*prove* something, an approximation to Bayesian inference. In effect
-TabPFN is almost an implementation of theory, as FVM can implement
-CFD.
-
-"TabPFN: A Transformer That Solves Small Tabular Classification
-Problems in a Second.. TabPFN is radically different from previous ML
-methods. It is a meta-learned algorithm and it provably approximates
-Bayesian inference"
-
-[[-]](https://www.automl.org/tabpfn-a-transformer-that-solves-small-tabular-classification-problems-in-a-second/)
+Vid says tigger drone TB too expensive and too lightly armored in
+comparison to Shahed-136. RU upgraded the latter it uses GLONASS
+guiding to target, not INS. Delta wing, hard to detect in radar, up to
+150 km/h speed. Hardware el cheapo but clearly works well enough.
 
 ---
 
-H2 Fuel News: "Jericho Energy Ventures hydrogen boiler rated almost 100
-percent efficient"
-
-[[-]](https://www.hydrogenfuelnews.com/hydrogen-boiler-jericho/8555584/)
+H2 Central: "Breakthrough Technology Converts Flaring Gas Into Clean
+Hydrogen – H2-industries"
 
 ---
 
-"The US Department of Energy (DOE) has released a draft National Clean
-Hydrogen Strategy and Roadmap, which sets out three key priorities:
-the targeting of strategic, high-impact uses of hydrogen; reducing the
-cost of clean hydrogen to $1/kg by 2031; and focusing on the
-deployment of at least four regional clean hydrogen hubs"
+Post 80s the Turkist ideology was needed as a bulkward against another
+part of the ideology floated by the fascist state.
+
+[[-]](2020/04/turkist-narrative-anatolia.html#antiislamo)
 
 ---
 
-TASS: "Trade turnover between India, Russia exceeds $18 bln in
-April-August"
+H2 Central: "Egypt – SCZONE Signs 7 New Green Fuel Production
+Agreements, Green Hydrogen and Ammonia"
 
 ---
 
-H2 Fuel News: "New hydrogen fuel cell ready hybrid ferries coming to Hamburg"
+WION: "Chen Quanguo, architect of the 'Uyghur genocide', ousted from
+China’s top leadership body"
 
 ---
 
-Yahoo Finance: "POSCO Group CEO, Jeong-woo Choi, to take office as
-Chairman of worldsteel, leading a great shift for the steel industry
-to go green.. '.. we will lay the foundation for the commercialization
-of Hydrogen Reduction (HyREX) technology,' said Choi"
+There are minorities against Wokeness.. Libs overdo this stuff, which
+can invite backlash, then guess who would feel the effects of such
+backlash?
 
 ---
 
-New shelter for migrants in NYC.. On Randalls Island..? Is it like
-Alcatraz over there?
+The hit is likely due to the cancellation of 'Batgirl'.
+
+New mgmt at WB is trying to serve customers, no need to be up in arms
+about it.. Listen to Obama on this one - don't be a buzzkill.
 
 ---
 
-CR is a Jungian psychologist who uses subliminal marketing to sell
-products. I'd listen when he talks about culture. 
+🤣 That has to be a hit piece from the Woke-Cuck crowd.. 
+
+The Daily Beast: "Warner Discovery Is Killing Off Diversity""
 
 ---
 
-More on heritage and how little it matters. C. Rapaille is
-off-the-boat French. Despite this 'heritage' his son is not. Excerpt
-is from his book *The Culture Code*.
-
-[[-]](2014/06/the-culture-code.html#heritage)
+Culture codes received from env while growing up is all that matters.
+That's why there are no first, second generation Polish, Irish in US,
+and there are no Turks in Turkey.
 
 ---
 
-The new eLife approach can work... Every submitted paper is
-automatically available (not 'rejected', or 'accepted'), publisher
-assesment is still included with the published paper, others' comments
-also visible, and the author can resubmit.
-
-I'm thinking incentives.. prestigious publishers can still exist, to
-the extent they can pull prestigious reviewers, the add-on they
-provide will be those reviews. Readers would still be able to get a
-feel of a up/down vote on the paper, but the paper is available either
-way, available for others to see/comment. 
+Sunak's PM-ship isn't significant because he will bring "South Asian
+culture" with him in to Number 10. He grew up in UK, he is culturally
+native... I saw one Brit commentator the other day he said about Sunak
+that "he is probably more English than I am".
 
 ---
 
-"Scientific Publishing: Peer review without gatekeeping.. eLife is
-changing its editorial process to emphasize public reviews and
-assessments of preprints by eliminating accept/reject decisions after
-peer review"
+Frank Mc Donald And Chris Rae \#music
 
-[[-]](https://elifesciences.org/articles/83889)
+[[-]](https://youtu.be/BtBOi1zrCqk)
 
 ---
 
-Reshare \#HOR \#Ukraine
+Reuters: "Spain, Portugal and France said on Thursday they will build
+a sea-based pipeline to carry hydrogen and gas between Barcelona and
+Marseille"
 
-[[-]](https://twitter.com/mattgaetz/status/1542905277082746883)
+---
+
+Talking about UA reconstruction already? Is the war about to be over?
+
+---
+
+VOA News: "Progressive Democrats Urge Biden to Negotiate with Russia"
+
+[[-]](https://www.voanews.com/a/progressive-democrats-urge-biden-to-negotiate-with-russia-/6803503.html)
+
+---
+
+CNBC: "Through my research as a child psychologist, I’ve found that
+perseverance is the No. 1 soft skill.. [studies say] it is a stronger
+predictor of success than IQ"
 
 ---
 
