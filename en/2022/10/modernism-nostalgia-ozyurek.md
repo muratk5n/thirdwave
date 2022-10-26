@@ -15,17 +15,18 @@ opposite than was intented.
 
 ![](modernism_cover.jpg)
 
-Now riled-up followers, gazing through the dead-looking eyes of the
-founder's picture, were trying too hard.. This was culture war, as in
-US it around useless issues to hide away the abnormalities of the
-uniparty, this one was pitting one group against another, while hiding
-away its own abnormalities. The nostalgia aimed for an 1920s spirit,
-when the only ideology was Kemal's, centered around a nomadic pure
-Turk who was the bringer of civilization at the same time forgotten
-(until Kemal reminded everyone). The ideology, and the nostalgia for
-it later had many uses, one of which was to cement relations with the
-Anglo alliance, another historical amnesia, yet another to explain
-away lost territories with conjured up animosities. But post 2000 the
-remembarences, and nostalgia was comical - that is how I remembered
-them and wondered when these people would wake up and find out what was
-done to them.
+These riled-up followers, gazing through the dead-looking eyes of the
+founder's picture, were clearly trying too hard.. This was culture
+war, as in US it around useless issues to hide away the abnormalities
+of the uniparty, this one was pitting one group against another, while
+hiding away its own abnormalities. The nostalgia aimed for an 1920s
+spirit, when the only ideology was Kemal's, centered around a nomadic
+pure Turk who was the bringer of civilization at the same time
+forgotten (until Kemal reminded everyone). The ideology, and the
+nostalgia for it later had many uses, one of which was to cement
+relations with the Anglo alliance, another historical amnesia, yet
+another to explain away lost territories with conjured up
+animosities. The remembarences, and nostalgia ritual was more comical
+than anything else the flow of history having gone past tragedy, and
+comedy stages. That is how I remembered them and wondered when these
+people would wake up and find out what was done to them.
