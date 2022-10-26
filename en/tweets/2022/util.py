@@ -17,6 +17,14 @@ def fetterman_oz_538():
     v2 = np.array(df2[['candidate_name','end_date','pollster','pct']].head(1))
     return list(v1[0]), list(v2[0])
 
+def walker_warnock_538():
+    df = pd.read_csv('https://projects.fivethirtyeight.com/polls/data/senate_polls.csv')
+    df1 = df[(df.candidate_name == 'Herschel Junior Walker')  ]
+    df2 = df[(df.candidate_name == 'Raphael Warnock') ]
+    v1 = np.array(df1[['candidate_name','end_date','pollster','pct']].head(1))
+    v2 = np.array(df2[['candidate_name','end_date','pollster','pct']].head(1))
+    return list(v1[0]), list(v2[0])
+
 def gfp_compare(country,file1,file2):
     df1 = pd.read_csv(file1); cols = df1.columns
     df1 = df1[df1.country.isin([country])]
