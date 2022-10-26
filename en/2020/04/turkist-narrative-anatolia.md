@@ -170,5 +170,5 @@ References
 
 [4] [National Narratives, Migrations, Anatolia](../../2020/07/migrations-anatolia.html)
 
-[5] [Modernism Nostalgia](../../2022/10/modernism-nostalgia-ozyurek.html)
+[5] [A Nostalgia for Modernism](../../2022/10/modernism-nostalgia-ozyurek.html)
 
