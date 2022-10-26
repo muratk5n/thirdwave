@@ -79,12 +79,6 @@ The Daily Beast: "Warner Discovery Is Killing Off Diversity""
 
 ---
 
-Culture codes received from env while growing up is all that matters.
-That's why there are no first, second generation Polish, Irish in US,
-and there are no Turks in Turkey.
-
----
-
 Sunak's PM-ship isn't significant because he will bring "South Asian
 culture" with him in to Number 10. He grew up in UK, he is culturally
 native... I saw one commentator, white guy, he said about Sunak that
