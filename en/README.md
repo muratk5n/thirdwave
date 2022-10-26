@@ -88,8 +88,8 @@ and there are no Turks in Turkey.
 
 Sunak's PM-ship isn't significant because he will bring "South Asian
 culture" with him in to Number 10. He grew up in UK, he is culturally
-native... I saw one Brit commentator the other day he said about Sunak
-that "he is probably more English than I am".
+native... I saw one commentator the other day he said about Sunak that
+"he is probably more English than I am".
 
 ---
 
