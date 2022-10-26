@@ -62,7 +62,7 @@ China’s top leadership body"
 ---
 
 There are minorities against Wokeness.. Libs overdo this stuff, which
-can invite backlash, then guess who would feel the effects of such
+can invite backlash, guess who would feel the effects of such
 backlash?
 
 ---
