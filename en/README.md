@@ -150,7 +150,7 @@ When you are ready to switch fields for your Postdoc"
 
 ---
 
-$A^T A$ was surprisingly easy to run concurrently.. 
+$A^T A$ is surprisingly easy to switch to concurrent mode.. 
 
 ---
 
