@@ -62,8 +62,6 @@ Rupee, the Brazilian Real and the South African Rand"
 
 ---
 
-Last poll from PA
-
 ```python
 u.fetterman_oz_538()
 ```
