@@ -123,15 +123,36 @@ worldwide deployments, by all countries.
 
 [Output](conflict-milmob.html)
 
-<a name='unarmed'/>
-
 ### Unarmed People Shot By the Police
 
 Data is from WaPo Github [repo](https://github.com/washingtonpost/data-police-shootings).
 
+<a name='allshoot'/>
+
+All Deaths by Police Shootings by Race
+
 ```python
 import pandas as pd
+
 f = 'https://raw.githubusercontent.com/washingtonpost/data-police-shootings/master/fatal-police-shootings-data.csv'
+df = pd.read_csv(f)
+df['year'] = pd.to_datetime(df['date']).dt.year
+df['race'] = df['race'].fillna('O')
+g = df.groupby(['year','race']).size().reset_index()
+g = g.set_index(['year','race']).unstack(level=1)[0]
+g.plot.bar(stacked=True)
+plt.savefig('allshoot.png')
+```
+
+A: Asian, B: Black, H: Hispanic, N: Native Am, O: Other, W: White
+
+![](allshoot.png)
+
+<a name='unarmed'/>
+
+Unarmed People Shot by th Police
+
+```python
 df = pd.read_csv(f)
 df['year'] = pd.to_datetime(df['date']).dt.year
 df1 = df[(df.race != 'W') & (df.armed == 'unarmed')]
