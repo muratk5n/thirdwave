@@ -23,7 +23,7 @@ I'd get rid of all that quantum bullshit - waste of resources
 
 ---
 
-They've been missing estimates for a few quarters now
+Alphabet has been missing estimates for a few quarters now
 
 ```python
 u.yf_eps("GOOG")
@@ -148,7 +148,7 @@ When you are ready to switch fields for your Postdoc"
 
 ---
 
-$A^T A$ is surprisingly easy to switch to concurrent mode.. 
+$A^T A$ is surprisingly easy to switch to concurrency.
 
 ---
 
