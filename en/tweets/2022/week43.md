@@ -45,7 +45,7 @@ Hydrogen – H2-industries"
 Post 80s the Turkist ideology was needed as a bulkward against another
 part of the ideology floated by the fascist state.
 
-[[-]](2020/04/turkist-narrative-anatolia.html#antiislamo)
+[[-]](../../2020/04/turkist-narrative-anatolia.html#antiislamo)
 
 ---
 
