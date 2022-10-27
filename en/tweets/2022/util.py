@@ -9,6 +9,14 @@ import urllib.request as urllib2
 from io import BytesIO
 import pandas_ta as ta
 
+def gov_fa_538():
+    df = pd.read_csv('https://projects.fivethirtyeight.com/polls/data/governor_polls.csv')
+    df1 = df[(df.candidate_name == 'Ron DeSantis')  ]
+    df2 = df[(df.candidate_name == 'Charlie Crist') ]
+    v1 = np.array(df1[['candidate_name','end_date','pollster','pct']].head(1))
+    v2 = np.array(df2[['candidate_name','end_date','pollster','pct']].head(1))
+    return list(v1[0]), list(v2[0])
+
 def fetterman_oz_538():
     df = pd.read_csv('https://projects.fivethirtyeight.com/polls/data/senate_polls.csv')
     df1 = df[(df.candidate_name == 'John Fetterman')  ]
