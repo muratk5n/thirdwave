@@ -2,109 +2,165 @@
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">German officials have announced the launch of the first hydrogen fuel passenger train fleet in the world this week- 📺Check this article out &amp; more on our NEW YouTube Channel - <a href="https://t.co/RPymTgAzpN">https://t.co/RPymTgAzpN</a><br> <a href="https://twitter.com/hashtag/BostonConsultingGroup?src=hash&amp;ref_src=twsrc%5Etfw">#BostonConsultingGroup</a> <a href="https://twitter.com/hashtag/hydrogennews?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennews</a><a href="https://t.co/XQZcZHjSpq">https://t.co/XQZcZHjSpq</a> <a href="https://t.co/YUa2FTyNUY">pic.twitter.com/YUa2FTyNUY</a></p>&mdash; Hydrogen Fuel News + The Latest in Green Hydrogen (@hydrogenfuelnew) <a href="https://twitter.com/hydrogenfuelnew/status/1583819218352758788?ref_src=twsrc%5Etfw">October 22, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+H2 Central: "Members of The European Parliament Have Decided to
+Support a Hydrogen Based Green Transition in The Transport
+Sector.. Was another important day for hydrogen economy in Europe and
+globally... [The target of a] maximum distance of 100km between each
+hydrogen refuelling station, along both the core and comprehensive
+TEN-T networks, will mean that by the time the infrastructure is in
+place by end of 2027, up to 1,780 HRS could be available across
+Europe, suppling up to 1 million ton of hydrogen per year"
 
 ---
 
-Kissinger: "To be an enemy of America can be dangerous, but to be a friend is fatal"
+Daniel Janin - The Little Green Man Walk \#music
+
+[[-]](https://youtu.be/u60jL3d6GsE)
 
 ---
 
-Davis: "Since Russia long ago destroyed the bulk of Ukraine’s ability
-to produce military equipment and ammunition, Kyiv is wholly dependent
-on a non-stop stream of supplies from the West. The greatest threat to
-Ukraine’s ability to wage war, therefore, is the security of supply
-routes from their western borders to marshalling locations in the
-interior of their country. If Putin recognizes this vulnerability, he
-may mass his forces through Belarus again, but bypass Kyiv completely
-and strike towards Ukraine’s western borders"
-
-[[-]](https://www.19fortyfive.com/2022/10/could-russia-try-to-take-kyiv-again-the-war-in-ukraine-is-far-from-over/)
+I'd get rid of all that quantum bullshit - waste of resources
 
 ---
 
-"For the last couple of years Greenpeace has been campaigning to get
-at least 30% of the world’s oceans protected by 2030. This is the
-minimum amount of protection experts say is required this decade to
-allow our oceans to properly recover"
+They've been missing estimates for a few quarters now
 
-[[-]](https://www.greenpeace.org.uk/news/ocean-protection-30-percent-2030/)
+```python
+u.yf_eps("GOOG")
+```
 
----
-
-Vid says tigger drone TB too expensive and too lightly armored in
-comparison to Shahed-136. RU upgraded the latter it uses GLONASS
-guiding to target, not INS. Delta wing, hard to detect in radar, up to
-150 km/h speed. Hardware el cheapo but clearly works well enough.
-
----
-
-H2 Central: "Breakthrough Technology Converts Flaring Gas Into Clean
-Hydrogen – H2-industries"
+```text
+Out[1]: 
+              startdatetime  epsestimate  epsactual
+3  2022-10-25T16:02:00.000Z         1.25       1.06
+4  2022-07-26T16:02:00.000Z         1.30       1.21
+5  2022-04-26T16:09:00.000Z         1.29       1.23
+```
 
 ---
 
-Post 80s the Turkist ideology was needed as a bulkward against another
-part of the ideology floated by the fascist state.
-
-[[-]](2020/04/turkist-narrative-anatolia.html#antiislamo)
+What a strange year.. Added this item to [the list](2015/12/1973.html).
 
 ---
 
-H2 Central: "Egypt – SCZONE Signs 7 New Green Fuel Production
-Agreements, Green Hydrogen and Ammonia"
+Of course, cellular networks also came to being thanks to DARPA, due
+to research they pushed in 1973.
 
 ---
 
-WION: "Chen Quanguo, architect of the 'Uyghur genocide', ousted from
-China’s top leadership body"
+Paper: "Can BRICS De-dollarize the Global Financial System?"
+
+[[-]](https://www.cambridge.org/core/elements/can-brics-dedollarize-the-global-financial-system/)
 
 ---
 
-Makes sense why minorities would be against Wokeness.. Libs overdo
-this stuff, which can invite backlash, guess who would feel the
-effects of such backlash?
+Silk Road Briefing: "The BRICS countries are working on establishing a
+new reserve currency to better serve their economic interests..  The
+new currency will be based on a basket of the currencies of the
+five-nation bloc: the Chinese RMB Yuan, the Russian Ruble, the Indian
+Rupee, the Brazilian Real and the South African Rand"
 
 ---
 
-The hit is likely due to the cancellation of 'Batgirl'. New mgmt at WB
-is trying to serve customers, no need to be up in arms about
-it.. Listen to Obama - don't be a buzzkill.
+Last poll from PA
+
+```python
+u.fetterman_oz_538()
+```
+
+```text
+Out[1]: 
+(['John Fetterman', '10/24/22', 'YouGov', 51.0],
+ ['Mehmet Oz', '10/24/22', 'YouGov', 49.0])
+```
 
 ---
 
-That has to be a hit piece from the Woke-Cuck crowd.. 
-
-The Daily Beast: "Warner Discovery Is Killing Off Diversity""
+Cosmic Book News: "Star Wars 'Andor' Ratings In The Gutter: Worse Than 'Boba Fett'"
 
 ---
 
-Sunak's PM-ship isn't significant because he will bring "South Asian
-culture" with him in to Number 10. He grew up in UK, he is culturally
-native... I saw one commentator, white guy, he said about Sunak that
-"he is probably more English than I am".
+Created a new category called "junk science". The items below are
+added.
+
+[[-]](2018/09/junk-science.html)
 
 ---
 
-Frank Mc Donald And Chris Rae \#music
+Later they fudged QED results six more times
 
-[[-]](https://youtu.be/BtBOi1zrCqk)
-
----
-
-Reuters: "Spain, Portugal and France said on Thursday they will build
-a sea-based pipeline to carry hydrogen and gas between Barcelona and
-Marseille"
-
----
-
-Talking about UA reconstruction already? Is the war about to be over?
+Consa: "With the new experimental data from Franken and Liebes.. [t]he
+probative force of QED was upended... It was a fraud, a scandal.  But
+the creators of QED refused to accept defeat. QED could not be an
+incorrect theory because that placed them in an indefensible
+situation. All the developments in the field of theoretical physics
+that had occurred in the last decade were based on this theory. All
+the privileges they had obtained after the success of the Manhattan
+Project were at stake"
 
 ---
 
-CNBC: "Through my research as a child psychologist, I’ve found that
-perseverance is the No. 1 soft skill.. [studies say] it is a stronger
-predictor of success than IQ"
+Dyson reconciled Feynman, Schwinger QED theories, which were
+themselves subpar. Infinities are swept under the rug, techniques
+Dirac thought illegitimate mathematics were used. The post-war rut in
+physics started in the Shelter Island conference, New York.
+
+---
+
+Consa: "According to Dyson, [Physicist Enrico] Fermi also did not
+agree with this new way of conducting science.. Fermi asked how many
+free parameters he had used to obtain the fit. Smiling after being
+told 'Four,' Fermi remarked, 'I remember my old friend Johnny von
+Neumann used to say, with four parameters I can fit an elephant, and
+with five I can make him wiggle his trunk.'"
+
+---
+
+Oliver Consa: "Something is rotten in the state of [Quantum
+Electrodynamics. QED] is considered the most accurate theory in the
+history of science. However, this precision is based on a single
+experimental value: the anomalous magnetic moment of the electron
+(g-factor). An examination of QED history reveals that this value was
+obtained using illegitimate mathematical traps, manipulations and
+tricks"
+
+[Link](https://vixra.org/pdf/2002.0011v1.pdf)
+
+---
+
+Walker is ahead?
+
+```python
+u.walker_warnock_538()
+```
+
+```text
+Out[1]: 
+(['Herschel Junior Walker', '10/25/22', 'Moore Information', 46.0],
+ ['Raphael Warnock', '10/25/22', 'Moore Information', 42.0])
+```
+
+---
+
+"@schumacherbj
+
+When you are ready to switch fields for your Postdoc"
+
+[[-]](https://twitter.com/schumacherbj/status/1584826081450012673)
+
+---
+
+$A^T A$ was surprisingly easy to paralelize.. Done.
+
+---
+
+If $A$ is "tall and skinny" ie $A$ is m x n where n is much smaller
+than m, there is some trickery using $A^T A$. A can have lots of rows
+but $A^T A$ has to be n x n -by definition- which is small. 
+
+---
+
+A lot of linear algebra can be paralelized. Even SVD. 
 
 ---
 
