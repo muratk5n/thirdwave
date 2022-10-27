@@ -123,13 +123,13 @@ worldwide deployments, by all countries.
 
 [Output](conflict-milmob.html)
 
-### Unarmed People Shot By the Police
+### People Shot By the Police
 
 Data is from WaPo Github [repo](https://github.com/washingtonpost/data-police-shootings).
 
 <a name='allshoot'/>
 
-All Deaths by Police Shootings by Race
+All Deaths by Police Shootings, by Race
 
 ```python
 import pandas as pd
@@ -150,7 +150,7 @@ A: Asian, B: Black, H: Hispanic, N: Native Am, O: Other, W: White
 
 <a name='unarmed'/>
 
-Unarmed People Shot by th Police
+Unarmed People Shot by the Police
 
 ```python
 df = pd.read_csv(f)
