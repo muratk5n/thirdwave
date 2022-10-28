@@ -17,7 +17,7 @@ def gov_fl_538():
     v2 = np.array(df2[['candidate_name','end_date','pollster','pct']].head(1))
     return list(v1[0]), list(v2[0])
 
-def fetterman_oz_538():
+def sen_pa_538():
     df = pd.read_csv('https://projects.fivethirtyeight.com/polls/data/senate_polls.csv')
     df1 = df[(df.candidate_name == 'John Fetterman')  ]
     df2 = df[(df.candidate_name == 'Mehmet Oz') ]
@@ -25,7 +25,7 @@ def fetterman_oz_538():
     v2 = np.array(df2[['candidate_name','end_date','pollster','pct']].head(1))
     return list(v1[0]), list(v2[0])
 
-def walker_warnock_538():
+def sen_ga_538():
     df = pd.read_csv('https://projects.fivethirtyeight.com/polls/data/senate_polls.csv')
     df1 = df[(df.candidate_name == 'Herschel Junior Walker')  ]
     df2 = df[(df.candidate_name == 'Raphael Warnock') ]

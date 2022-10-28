@@ -61,7 +61,7 @@ Rupee, the Brazilian Real and the South African Rand"
 ---
 
 ```python
-u.fetterman_oz_538()
+u.sen_pa_538()
 ```
 
 ```text
@@ -127,7 +127,7 @@ tricks"
 Walker is ahead?
 
 ```python
-u.walker_warnock_538()
+u.sen_ga_538()
 ```
 
 ```text
