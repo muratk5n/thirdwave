@@ -37,7 +37,7 @@ Out[1]:
 
 ---
 
-What a strange year.. Added this item to [the list](2015/12/1973.html).
+What a strange year.. Added this item to [the list](../../2015/12/1973.html).
 
 ---
 
@@ -79,7 +79,7 @@ Cosmic Book News: "Star Wars 'Andor' Ratings In The Gutter: Worse Than 'Boba Fet
 Created a new category called "junk science". The items below are
 added.
 
-[[-]](2018/09/junk-science.html)
+[[-]](../../2018/09/junk-science.html)
 
 ---
 
