@@ -9,7 +9,7 @@ import urllib.request as urllib2
 from io import BytesIO
 import pandas_ta as ta
 
-def gov_fa_538():
+def gov_fl_538():
     df = pd.read_csv('https://projects.fivethirtyeight.com/polls/data/governor_polls.csv')
     df1 = df[(df.candidate_name == 'Ron DeSantis')  ]
     df2 = df[(df.candidate_name == 'Charlie Crist') ]
