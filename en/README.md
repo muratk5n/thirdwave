@@ -81,6 +81,15 @@ that it needed scientists to create NASA and win the space race"
 
 ---
 
+Consa: "[Dyson said in 2006, as] one of the inventors of QED, I
+remember that we thought of QED in 1949 as a temporary and jerry-built
+structure, with mathematical inconsistencies and renormalized
+infinities swept under the rug. We did not expect it to last more than
+10 years before some more solidly built theory would replace it. Now,
+57 years have gone by and that ramshackle structure still stands."
+
+---
+
 ```python
 u.gov_fa_538()
 ```
