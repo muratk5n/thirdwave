@@ -17,11 +17,6 @@ Industry"
 
 ---
 
-"[July, M]any African nations, Uganda, Ethiopia and Congo have
-remained neutral on Russia's war in Ukraine"
-
----
-
 "@ehb_europe
 
 New week, new corridor! Corridor E: East and South-East Europe. This
