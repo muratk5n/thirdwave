@@ -55,11 +55,6 @@ duties are falling to us. And all of this takes a lot of time"
 
 ---
 
-The blob went apeshit on the letter - and guess what; the world and US
-will be worse for it
-
----
-
 Vox: "'We floated the world’s softest trial balloon about diplomacy,
 got smacked by the blob and immediately withdrew under pressure,' a
 senior congressional aide, speaking anonymously, told me"
@@ -76,7 +71,7 @@ lawmakers"
 ---
 
 Consa: "In 1949, the USSR had obtained the atomic bomb thanks to
-information provided by Fucks, a Manhattan Project researcher with
+information provided by.. a Manhattan Project researcher with
 communist sympathies. From then on, espionage accusations became
 widespread among the American scientific community. Senator McCarthy
 began a witch hunt in which Oppenheimer was accused of treason and had
