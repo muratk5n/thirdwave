@@ -92,7 +92,7 @@ infinities swept under the rug. We did not expect it to last more than
 ---
 
 ```python
-u.gov_fa_538()
+u.gov_fl_538()
 ```
 
 ```text
