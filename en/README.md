@@ -99,8 +99,7 @@ Out[1]:
 ---
 
 Florida gov debate; Dem candidate tied his points to a few common
-themes, came across capable. But Desantis held ground and incumbent
-has advantage.
+themes, sold ok. But Desantis held ground and incumbent has advantage.
 
 ---
 
