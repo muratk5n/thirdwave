@@ -10,6 +10,8 @@
 
 [Economic Complexity, Capability, Hidalgo](../../2017/08/economic-complexity-hidalgo.html)
 
+[World Commerce](../../2022/10/world-commerce.html)
+
 [Bitcoin](../../2016/11/bitcoin.html)
 
 [Credit Theory of Money](../../2011/11/debt-the-first-5000-years-graeber.html)

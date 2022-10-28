@@ -10,7 +10,7 @@
 
 [Fires](natdisaster.html#fires)
 
-[Unarmed Non-Whites Shot By the Police](confstats.html#unarmed)
+[Citizens Shot By the Police](confstats.html#allshoot)
 
 [US Military (Bases, Nukes)](usmil.html)
 
