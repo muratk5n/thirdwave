@@ -30,7 +30,7 @@ young children routinely master these phenomena, learning systematic
 mappings between syntax and semantics, DALL·E 2 is unable to reliably
 infer meanings that are consistent with the syntax of the prompts"
 
-[PDF](https://arxiv.org/ftp/arxiv/papers/2210/2210.12889.pdf)
+[[-]](https://arxiv.org/abs/2210.12889)
 
 ---
 
