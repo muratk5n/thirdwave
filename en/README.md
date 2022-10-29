@@ -21,7 +21,7 @@ hydrogen refuelling station"
 Marcus: "Machine intelligence is increasingly being linked to claims
 about sentience, language processing, and an ability to comprehend and
 transform natural language into a range of stimuli. We systematically
-analyze the ability of [an NLP system named] DALL·E 2 to capture 8
+analyze the ability of [an "AI" NLP system] DALL·E 2 to capture 8
 grammatical phenomena pertaining to compositionality that are widely
 discussed in linguistics and pervasive in human language: binding
 principles and coreference, passives, word order, coordination,
