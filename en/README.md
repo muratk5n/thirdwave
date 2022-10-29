@@ -2,127 +2,129 @@
 
 ---
 
-H2 Central: "Deutsche Bahn and Fortescue Future Industries [to]
-develop emission-free ammonia hydrogen engine.. both partners are
-working on modifying diesel engines for locomotives and traction
-vehicles so that they can be operated with ammonia and hydrogen... In
-addition to the development of emission-free propulsion technologies,
-the agreement also provides for cooperation in logistics and supply
-chains for green fuels"
+H2 View: "German Government grants Hypion €4.9m of funding for
+hydrogen refuelling station"
 
 ---
 
-H2 Central: "Oman Targets $140bln Investment in Green Hydrogen
-Industry"
+Hey that's good
+
+WION: "Rishi Sunak reverses another Liz Truss policy, reimposes ban of fracking in UK"
 
 ---
 
-"@ehb_europe
+Marcus: "Machine intelligence is increasingly being linked to claims
+about sentience, language processing, and an ability to comprehend and
+transform natural language into a range of stimuli. We systematically
+analyze the ability of DALL·E 2 to capture 8 grammatical phenomena
+pertaining to compositionality that are widely discussed in
+linguistics and pervasive in human language: binding principles and
+coreference, passives, word order, coordination, comparatives,
+negation, ellipsis, and structural ambiguity. Whereas young children
+routinely master these phenomena, learning systematic mappings between
+syntax and semantics, DALL·E 2 is unable to reliably infer meanings
+that are consistent with the syntax of the prompts"
 
-New week, new corridor! Corridor E: East and South-East Europe. This
-corridor offers access to low-cost #hydrogen supply from Eastern &
-South-Eastern Europe to demand centers along the corridor, covering
-10,000 km of H2 pipelines of which ~60% will be repurposed"
-
-<img width="340" src="https://pbs.twimg.com/media/Ff55XloXwAAGA03?format=jpg&name=small"/>
-
----
-
-"@sevenloI
-
-[DE Econ and Climate Protection Minister] Habeck: [Planning] To
-Connect Spain-France Hydrogen Pipeline With Germany"
+[PDF](https://arxiv.org/ftp/arxiv/papers/2210/2210.12889.pdf)
 
 ---
 
-"@SenguptaLab
-
-If I ever quit academia, it will be because of the sheer volume of
-admin work that is being piled on us PIs. It's non-stop and is coming
-from all directions including the Univ. Attending training sessions,
-filling out forms etc is becoming my nth full-time job and I am fed
-up...
-
-To use the latest iteration of some user-unfriendly software to do
-admin jobs that used to be done by support staff in the Dept/Univ.. in
-the name of cost savings and 'efficiency' [sucks].. more of these
-duties are falling to us. And all of this takes a lot of time"
-
----
-
-Vox: "The drama over progressives' Ukraine letter, explained.. 'We
-floated the world’s softest trial balloon about diplomacy, got smacked
-by the blob and immediately withdrew under pressure,' a senior
-congressional aide, speaking anonymously, told me"
-
-[[-]](https://www.vox.com/policy-and-politics/2022/10/26/23423574/congressional-progressive-caucus-ukraine-russia-letter-diplomacy)
+Consa: "QED should be the quantized version of Maxwell’s laws, but it
+is not that at all. QED is a simple addition to quantum mechanics that
+attempts to justify two experimental discrepancies in the Dirac
+equation: the Lamb shift and the anomalous magnetic moment of the
+electron.  The reality is that QED is a bunch of fudge factors,
+numerology, ignored infinities, hocus-pocus, manipulated calculations,
+illegitimate mathematics, incomprehensible theories, hidden data,
+biased experiments, miscalculations, suspicious coincidences, lies,
+arbitrary substitutions of infinite values and budgets of 600 million
+dollars to continue the game.  Maybe it is time to consider
+alternative proposals. Winter is coming"
 
 ---
 
-NPR: "A day after House progressives sent a letter to President Biden
-urging him to change his approach to Russia's invasion of Ukraine, the
-group abruptly changed course amid intense pushback from Democratic
-lawmakers"
+"@HydrogenCouncil
+
+Singapore has outlined a #hydrogen strategy in a move that could see
+the clean energy source supplying half the country's power needs by
+2050"
 
 ---
 
-Consa: "In 1949, the USSR had obtained the atomic bomb thanks to
-information provided by.. a Manhattan Project researcher with
-communist sympathies. From then on, espionage accusations became
-widespread among the American scientific community. Senator McCarthy
-began a witch hunt in which Oppenheimer was accused of treason and had
-to submit to trial. The witch hunt ended in 1957, when the Russians
-sent the Sputnik satellite into space and the US government realized
-that it needed scientists to create NASA and win the space race"
+Macgregor: "[T]he military action [Patreus] advocates would not be a
+NATO intervention, but “a multinational force led by the US and not as
+a NATO force.”. Petraeus does not explain why U.S. military action is
+needed. But it’s not hard to guess. The intervention is designed to
+rescue Ukrainian forces from defeat..
+
+Petraeus’s suggestion confirms two critical insights. First, the
+perilous state of the Ukrainian Armed Forces. Absent the foreign
+fighters and Polish soldiers fighting in Ukrainian uniform, Ukraine
+has little left to withstand the Russian winter offensives. The series
+of Ukrainian counterattacks over the last 60 to 90 days have cost
+Ukraine tens of thousands of lives, human capital in uniform that Kiev
+cannot replace...
+
+Second, it is the 11th hour. The Russian sledgehammer scheduled to
+fall on the Zelensky regime in the November or December timeframe, or
+whenever the ground freezes, will crush whatever remains of Ukrainian
+forces.
+
+In other words, Petraeus’s real message is that the only way to
+prolong the life of the Zelensky regime is for Washington and its
+coalition of the willing to intervene directly before it's too late"
+
+[[-]](https://www.theamericanconservative.com/playing-at-war-in-ukraine/)
 
 ---
 
-Consa: "[Dyson said in 2006, as] one of the inventors of QED, I
-remember that we thought of QED in 1949 as a temporary and jerry-built
-structure, with mathematical inconsistencies and renormalized
-infinities swept under the rug. We did not expect it to last more than
-10 years before some more solidly built theory would replace it. Now,
-57 years have gone by and that ramshackle structure still stands."
+H2 Fuel News: "The Loop Energy S1200 (120 kW) hydrogen fuel cell
+engine claims to have achieved cost parity [with diesel]"
 
 ---
 
-```python
-u.gov_fl_538()
-```
-
-```text
-Out[1]: 
-(['Ron DeSantis', '10/24/22', 'U. North Florida', 55.0],
- ['Charlie Crist', '10/24/22', 'U. North Florida', 41.0])
-```
+H2 Fuel News: "China is taking global fuel cell vehicle market
+leadership.. China is already leading the way when it comes to the FCV
+bus market.. According to the International Energy Agency Advanced
+Fuel Cells Technology Collaboration Programme, its global share
+already reached about 95 percent in 2020"
 
 ---
 
-Florida gov debate; Dem candidate tied his points to a few common
-themes, sold ok. But Desantis held ground and incumbent has advantage.
+"[Justin Goodman] I think [Fauci] has created a culture at the NIH
+where this type of dangerous experimentation is encouraged, and
+oversight of it is diminished to the highest degree possible, where
+there's basically free reign to do whatever you want, and maybe report
+it and maybe not, and hope for the best. But that's been happening
+since 2001 for the war on terror, there were billions of dollars
+dumped into Fauci's division at the NIH for bioweapons defense and
+research and a lot of it has turned into this crazy gain-of-function
+experimentation that likely caused this pandemic. I promise you are
+going to cause another one if we don't do something about it"
+
+[[-]](https://youtu.be/_hpcKx91lx0?t=418)
 
 ---
 
-Forget the Russians - UK is being invaded by Albanians
-
-Arab News: "UK war general tasked with stopping Albanian Channel crossings"
-
----
-
-CNBC: "Alphabet misses on earnings as YouTube shrinks; company will
-cut headcount growth by half in Q4"
+WSJ: "Covid-19 ‘Most Likely’ Leaked From Lab in China, Senate GOP
+Report Says"
 
 ---
 
-That bad eh? \#MadMoney
-
-[[-]](https://pbs.twimg.com/media/FgDhEuIWAAAN4jB?format=jpg&name=small)
+There is a strange increase of the race 'Other' for 21/22. Is it
+because the police received racism accusations they stopped
+categorizing some?
 
 ---
 
-H2 Insight: "UK utility Centrica is to use hydrogen made from methane
-pyrolysis in one of its peaking fossil gas plants, as part of a trial
-that could eventually see the firm roll out 100% hydrogen-fired power"
+Nearly a thousand people are getting shot by the police per
+year. Crazy.
+
+---
+
+Count of all shot to death by the police, by race, WaPo data
+
+[[-]](2019/05/confstats.html#allshoot)
 
 ---
 

@@ -3,13 +3,13 @@
 import util as u
 import pandas as pd
 pd.set_option('display.max_columns', None)
-u.gov_fa_538()
+u.sen_ga_538()
 ```
 
 ```text
 Out[1]: 
-(['Ron DeSantis', '10/24/22', 'U. North Florida', 55.0],
- ['Charlie Crist', '10/24/22', 'U. North Florida', 41.0])
+(['Herschel Junior Walker', '10/25/22', 'co/efficient', 47.0],
+ ['Raphael Warnock', '10/25/22', 'co/efficient', 43.6])
 ```
 
 
