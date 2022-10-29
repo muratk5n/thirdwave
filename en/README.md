@@ -117,7 +117,8 @@ WION: "Rishi Sunak.. reimposes ban of fracking in UK"
 ---
 
 There is a strange increase of the race category 'other' for 21/22. Is
-it because due to racism accusations they stopped recording that data?
+it because due to racism accusations the police stopped recording that
+piece of data?
 
 ---
 
