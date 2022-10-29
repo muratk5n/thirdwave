@@ -7,12 +7,6 @@ hydrogen refuelling station"
 
 ---
 
-Hey that's good
-
-WION: "Rishi Sunak reverses another Liz Truss policy, reimposes ban of fracking in UK"
-
----
-
 Marcus: "Machine intelligence is increasingly being linked to claims
 about sentience, language processing, and an ability to comprehend and
 transform natural language into a range of stimuli. We systematically
@@ -68,11 +62,7 @@ cannot replace...
 Second, it is the 11th hour. The Russian sledgehammer scheduled to
 fall on the Zelensky regime in the November or December timeframe, or
 whenever the ground freezes, will crush whatever remains of Ukrainian
-forces.
-
-In other words, Petraeus’s real message is that the only way to
-prolong the life of the Zelensky regime is for Washington and its
-coalition of the willing to intervene directly before it's too late"
+forces."
 
 [[-]](https://www.theamericanconservative.com/playing-at-war-in-ukraine/)
 
@@ -111,18 +101,20 @@ Report Says"
 
 ---
 
-There is a strange increase of the race 'Other' for 21/22. Is it
-because the police received racism accusations they stopped
-categorizing some?
+WION: "Rishi Sunak.. reimposes ban of fracking in UK"
 
 ---
 
-Nearly a thousand people are getting shot by the police per
-year. Crazy.
+There is a strange increase of the race category 'other' for 21/22. Is
+it because due to racism accusations they stopped recording that data?
 
 ---
 
-Count of all shot to death by the police, by race, WaPo data
+Nearly a thousand people are getting shot every year. Crazy.
+
+---
+
+Yearly total of ppl shot to death by the police, WaPo data
 
 [[-]](2019/05/confstats.html#allshoot)
 
