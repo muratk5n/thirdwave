@@ -122,7 +122,8 @@ piece of data?
 
 ---
 
-Nearly a thousand people are getting shot every year. Crazy.
+Nearly a thousand people are getting shot every year. Shootings
+*increased* for 2021. Crazy.
 
 ---
 
