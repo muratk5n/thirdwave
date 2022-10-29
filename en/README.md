@@ -2,6 +2,17 @@
 
 ---
 
+H2 View: "European Investment Bank to support REPowerEU Plan with
+additional €30bn"
+
+---
+
+H2 Central: "As [internal combustion technology] is predicted to be
+slowly fading away, there has been a boom around H2 ICE in China to
+combat pollution and climate change"
+
+---
+
 H2 View: "German Government grants Hypion €4.9m of funding for
 hydrogen refuelling station"
 
