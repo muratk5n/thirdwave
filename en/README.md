@@ -59,7 +59,7 @@ billion green hydrogen project pipeline"
 
 Africa is our hunter-gatherer history - the concept of a kingdom
 requires a static farmer to tax. Agro started around the Medi, so
-their kingdoms are the oldest.
+their kingdoms (to their detriment) are the oldest.
 
 "Since humans originated from Africa they must have the oldest
 kingdoms there"
