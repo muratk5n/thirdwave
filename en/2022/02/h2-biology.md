@@ -91,4 +91,15 @@ discovered they could influence the bacteria to start producing
 ammonia—and critically, they could dial up its production to create
 larger quantities than before..
 
+[Link](https://en.wikipedia.org/wiki/Biohydrogen)
+
+Biohydrogen is H2 that is produced biologically..The biological
+hydrogen production with algae is a method of photobiological water
+splitting which is done in a closed photobioreactor based on the
+production of hydrogen as a solar fuel by algae. Algae produce
+hydrogen under certain conditions. In 2000 it was discovered that if
+C. reinhardtii algae are deprived of sulfur they will switch from the
+production of oxygen, as in normal photosynthesis, to the production
+of hydrogen.
+
 [[⇪Up]](h2-production.html)
