@@ -24,6 +24,17 @@ imports. Europe could start receiving Kazakh green hydrogen by 2030"
 
 ---
 
+"Japan PM announces $260bn stimulus package to combat rising
+inflation.. [PM] 'We want to protect people's livelihoods, employment
+and businesses, while strengthening our economy for the future.'"
+
+---
+
+WION: "Brazil elections: Lula all set to make comeback to lead Latin
+America's largest economy"
+
+---
+
 "Biohydrogen is H2 that is produced biologically..The biological
 hydrogen production with algae is a method of photobiological water
 splitting which is done in a closed photobioreactor based on the
