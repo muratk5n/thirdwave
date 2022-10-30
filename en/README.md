@@ -41,17 +41,8 @@ of hydrogen'
 
 Don Farrell, Minister for Trade & Tourism @ausgov opens the second
 half of the summit, outlining progress on net zero including the
-revised 43% emissions reduction target for 2030
-
-Also strong A$185 billion green hydrogen project pipeline"
-
----
-
-Africa (perhaps lucky for them) switched to agro later, their oldest
-kingdom is Kingdom of Kerma (2500 BC)? Look at Anatolia - they had a
-string of these cocksuckers one after the other - Rome, Byzantium,
-Ottomans... Each more inbred than the next, and in essence mirror
-images of eachother.
+revised 43% emissions reduction target for 2030.. Also strong A$185
+billion green hydrogen project pipeline"
 
 ---
 
