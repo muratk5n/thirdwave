@@ -261,40 +261,6 @@ DATE
 
 ![](compprof.png)
 
-<a name="earnings"/>
-
-SP 500 Earnings Per Share
-
-```python
-import pandas as pd, urllib.request as urllib2, io
-url = "https://www.spglobal.com/spdji/en/documents/additional-material/sp-500-eps-est.xlsx"
-hdr = {'User-Agent':'Mozilla/5.0'}
-req = urllib2.Request(url,headers=hdr)
-file = io.BytesIO(urllib2.urlopen(req).read())
-df = pd.read_excel(file,sheet_name="QUARTERLY DATA",skiprows=6,header=None)
-df.columns = ['date','op_ex_ps','eps','cash_div_ps','sales_ps','book_val_ps','capex_ps','price','divisor']
-df = df.set_index(pd.to_datetime(df.date))
-print (df['eps'].head(4))
-
-df['eps'].plot()
-plt.axvspan('01-09-1990', '01-07-1991', color='y', alpha=0.5, lw=0)
-plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
-plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
-plt.axvspan('02-01-2020', '05-01-2020', color='y', alpha=0.5, lw=0)
-plt.savefig('sp500-earnings.png')
-```
-
-```text
-date
-2022-09-30      NaN
-2022-06-30    42.74
-2022-03-31    45.99
-2021-12-31    53.94
-Name: eps, dtype: float64
-```
-
-![](sp500-earnings.png)
-
 <a name="unempl"></a>
 
 Unemployment
@@ -349,78 +315,7 @@ Freq: MS, Name: VRATE, dtype: float64
 
 ![](vrate.png)
 
-<a name="pmi"></a>
-
 ## Companies
-
-PMI
-
-```python
-import quandl, os, datetime
-from datetime import timedelta
-
-today = datetime.datetime.now()
-start=datetime.datetime(1985, 1, 1)
-end=datetime.datetime(today.year, today.month, today.day)
-today = datetime.datetime.now()
-df = quandl.get("ISM/MAN_PMI-PMI-Composite-Index", 
-returns="pandas",
-start_date=start.strftime('%Y-%m-%d'),
-end_date=today.strftime('%Y-%m-%d'),
-authtoken=open(".key/.quandl").read())
-
-print (df['PMI'].tail(4))
-df['PMI'].plot()
-plt.axvspan('01-09-1990', '01-07-1991', color='y', alpha=0.5, lw=0)
-plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
-plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
-plt.savefig('pmi.png')
-```
-
-```text
-Date
-2021-12-01    58.8
-2022-01-01    57.6
-2022-02-01    58.6
-2022-03-01    57.1
-Name: PMI, dtype: float64
-```
-
-![](pmi.png)
-
-<a name="gdpism"></a>
-
-GDP vs ISM
-
-```python
-import pandas as pd, datetime
-from pandas_datareader import data
-import quandl
-
-today = datetime.datetime.now()
-start=datetime.datetime(1992, 1, 1)
-end=datetime.datetime(today.year, today.month, today.day)
-cols = ['GDPC1']
-df = data.DataReader(cols, 'fred', start, end)
-
-df['gdpyoy'] = (df.GDPC1 - df.GDPC1.shift(4)) / df.GDPC1.shift(4) * 100.0
-
-df2 = quandl.get("ISM/MAN_PMI-PMI-Composite-Index", 
-returns="pandas",
-start_date=start.strftime('%Y-%m-%d'),
-end_date=end.strftime('%Y-%m-%d'),
-authtoken=open(".key/.quandl").read())
-
-plt.figure(figsize=(12,5))
-ax1 = df2.PMI.plot(color='blue', grid=True, label='ISM')
-ax2 = df.gdpyoy.plot(color='red', grid=True, label='GDP',secondary_y=True)
-h1, l1 = ax1.get_legend_handles_labels()
-h2, l2 = ax2.get_legend_handles_labels()
-plt.legend(h1+h2, l1+l2, loc=2)
-plt.savefig('gdp-ism.png')
-```
-
-![](gdp-ism.png)
 
 <a name="pm"></a>
 
@@ -452,6 +347,40 @@ DATE
 ```
 
 ![](profitmargin.png)
+
+<a name="earnings"/>
+
+SP 500 Earnings Per Share
+
+```python
+import pandas as pd, urllib.request as urllib2, io
+url = "https://www.spglobal.com/spdji/en/documents/additional-material/sp-500-eps-est.xlsx"
+hdr = {'User-Agent':'Mozilla/5.0'}
+req = urllib2.Request(url,headers=hdr)
+file = io.BytesIO(urllib2.urlopen(req).read())
+df = pd.read_excel(file,sheet_name="QUARTERLY DATA",skiprows=6,header=None)
+df.columns = ['date','op_ex_ps','eps','cash_div_ps','sales_ps','book_val_ps','capex_ps','price','divisor']
+df = df.set_index(pd.to_datetime(df.date))
+print (df['eps'].head(4))
+
+df['eps'].plot()
+plt.axvspan('01-09-1990', '01-07-1991', color='y', alpha=0.5, lw=0)
+plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
+plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
+plt.axvspan('02-01-2020', '05-01-2020', color='y', alpha=0.5, lw=0)
+plt.savefig('sp500-earnings.png')
+```
+
+```text
+date
+2022-09-30      NaN
+2022-06-30    42.74
+2022-03-31    45.99
+2021-12-31    53.94
+Name: eps, dtype: float64
+```
+
+![](sp500-earnings.png)
 
 ## Finance
 
