@@ -8,8 +8,8 @@ u.sen_ga_538()
 
 ```text
 Out[1]: 
-(['Herschel Junior Walker', '10/25/22', 'co/efficient', 47.0],
- ['Raphael Warnock', '10/25/22', 'co/efficient', 43.6])
+(['Herschel Junior Walker', '10/27/22', 'InsiderAdvantage', 47.5],
+ ['Raphael Warnock', '10/27/22', 'InsiderAdvantage', 45.3])
 ```
 
 

@@ -74,7 +74,7 @@ kingdoms there"
 
 ---
 
-To the contrary, pre-agriculture free speech was our default
+On the contrary, pre-agriculture free speech was our default
 setting. People keep forgetting there were humans before towns, kings,
 farming and armies, before "civilization". We've lived that way for
 300K years, only for 10K in comparison as villagers, near domesticated
