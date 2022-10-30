@@ -133,7 +133,8 @@ Where would we rewind fundamental phy, before it was fucked up beyond
 recognition? I thought about this before; Pre-Shelter Island
 Conference sounds fine. Take QM (enough for electronics), get rid of
 the stuff afterwards, using the measurements obtained past that point
-continue from there.
+continue from there, with the possib reworking QM as well to fit into
+a new framework.
 
 ---
 
