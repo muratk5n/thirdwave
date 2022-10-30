@@ -194,10 +194,10 @@ dtype: float64
 
 ### Global Primary Energy Consumption
 
-In terrawatt hours. "Primary energy comprises commercially-traded
+In terrawatt hours. 'Primary energy comprises commercially-traded
 fuels, including modern renewables. Energy from all sources of
 non-fossil power generation is accounted for on an input-equivalent
-basis".
+basis'.
 
 ```python
 df = pd.read_csv(fbp)
