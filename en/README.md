@@ -47,16 +47,17 @@ Also strong A$185 billion green hydrogen project pipeline"
 
 ---
 
-Agro started around the Medi, so their kingdoms are the oldest. Africa
-(perhaps lucky for them) switched to agro later, their oldest kingdom
-is Kingdom of Kerma (2500 BC)? Look at Anatolia - they had a
-succession of agro cocksuckers - Rome, Byzantium, Ottomans... Each
-more inbred than the next, and in essence mirror images of eachother.
+Africa (perhaps lucky for them) switched to agro later, their oldest
+kingdom is Kingdom of Kerma (2500 BC)? Look at Anatolia - they had a
+string of these cocksuckers one after the other - Rome, Byzantium,
+Ottomans... Each more inbred than the next, and in essence mirror
+images of eachother.
 
 ---
 
 Africa is our hunter-gatherer history - the concept of a kingdom
-requires a static farmer to tax.
+requires a static farmer to tax. Agro started around the Medi, so
+their kingdoms are the oldest.
 
 "Since humans originated from Africa they must have the oldest
 kingdoms there"
