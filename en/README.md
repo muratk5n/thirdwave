@@ -115,11 +115,11 @@ diplomat says"
 
 ---
 
-There was that rumor a week ago a coup was attempted on Zee Ping Ping,
+There was a rumor a week ago a coup was attempted on Zee Ping Ping,
 most air traffic over China was stopped, Xi wasnt heard from.. The
 attempt clearly didn't work, and the claim was Hu was behind it; so
 during the CCP conference Xi had him thrown out, as a punishment. That
-is what some claim anyway.
+is the claim anyway.
 
 ---
 
