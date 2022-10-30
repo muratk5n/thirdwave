@@ -106,20 +106,16 @@ EBITDA is now at the same level as in Oct-2016"
 
 ---
 
-“In the end, winning is sleeping better.” — Jodie Foster
-
----
-
 TASS: "Russia calls for resumption of Israeli-Palestinian dialogue,
 diplomat says"
 
 ---
 
 There was that rumor a week ago a coup was attempted on Zee Ping Ping,
-most air traffic over China was stopped, Xi wasnt heard from.. But it
-clearly didn't work, and the claim was Hu was behind that attempt; so
+most air traffic over China was stopped, Xi wasnt heard from.. The
+attempt clearly didn't work, and the claim was Hu was behind it; so
 during the CCP conference Xi had him thrown out, as a punishment. That
-is the claim anyway.
+is what some claim anyway.
 
 ---
 
@@ -129,11 +125,11 @@ Lamb - Transfattyacid (Kruder& Dorfmeister- Session- Mix) \#music
 
 ---
 
-I thought about this before; where would we rewind fundamental
-science, before it was fucked up beyond recognition.  Pre-Shelter
-Island Conference sounds fine. Take QM (enough for electronics), get
-rid of the stuff afterwards, continue from there, using the
-measurements obtained past that point.
+Where would we rewind fundamental science, before it was fucked up
+beyond recognition? I thought about this before; Pre-Shelter Island
+Conference sounds fine. Take QM (enough for electronics), get rid of
+the stuff afterwards, using the measurements obtained past that point
+continue from there.
 
 ---
 
