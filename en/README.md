@@ -9,7 +9,7 @@ debacle). Then possibly Tory members got wind, plus the tax thing, MPs
 got rid of gov in a jif.
 
 WION: "Russia accuses British navy of blowing up Nord Stream
-pipelines, UK slams claim"
+pipelines"
 
 ---
 
