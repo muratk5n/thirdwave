@@ -2,6 +2,10 @@
 
 ---
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">BREAKING 🇧🇷: Lula da Silva will be the next president of Brazil.</p>&mdash; Progressive International (@ProgIntl) <a href="https://twitter.com/ProgIntl/status/1586845561768087553?ref_src=twsrc%5Etfw">October 30, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 I see.. now that I think about it the attack came across as bizarrely
 assertive in an ill-timed kind of way..  was that the hallmark of the
 previous administration? (remember the tax cut debacle). Then possibly
