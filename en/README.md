@@ -20,15 +20,15 @@ wants it back has no brain"
 
 The West is getting Putinsplained
 
-Putin: "The so-called 'cancel culture' and in reality is the
-cancellation of culture, is eradicating everything that is alive and
-creative and stifles free thought in all areas, be it economics,
-politics.. Today, liberal ideology itself has changed beyond
-recognition. If initially, classic liberalism was understood to mean
-the freedom of every person to do and say as they pleased, in the 20th
-century the liberals started saying that the so-called open society
-had enemies and that the freedom of these enemies could and should be
-restricted if not cancelled"
+Putin: "The so-called 'cancel culture' is in reality the cancellation
+of culture, is eradicating everything that is alive and creative and
+stifles free thought in all areas, be it economics, politics.. Today,
+liberal ideology itself has changed beyond recognition. If initially,
+classic liberalism was understood to mean the freedom of every person
+to do and say as they pleased, in the 20th century the liberals
+started saying that the so-called open society had enemies and that
+the freedom of these enemies could and should be restricted if not
+cancelled"
 
 [[-]](https://www.lesswrong.com/posts/8DHevJizjQ4ooZjsZ/translated-transcripts-of-putin-s-major-speeches-from-oct-27)
 
