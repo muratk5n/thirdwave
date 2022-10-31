@@ -68,7 +68,7 @@ kingdoms there"
 
 ---
 
-[Link](2019/12/civilized-to-death.html)
+[Link](../../2019/12/civilized-to-death.html)
 
 ---
 
