@@ -7,10 +7,9 @@
 ---
 
 I see.. now that I think about it the attack came across as bizarrely
-assertive in an ill-timed kind of way..  was that the hallmark of the
-previous administration? (remember the tax cut debacle). Then possibly
-Tory members got wind, plus the tax thing, MPs toppled the gov in a
-jif.
+assertive in an ill-timed kind of way..  the hallmark of the previous
+administration? (remember the tax cut debacle). Then possibly Tory
+members got wind, plus the tax thing, MPs toppled the gov in a jif.
 
 WION: "Russia accuses British navy of blowing up Nord Stream
 pipelines"
