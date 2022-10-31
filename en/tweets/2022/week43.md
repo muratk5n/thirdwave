@@ -181,22 +181,6 @@ duties are falling to us. And all of this takes a lot of time"
 
 ---
 
-Vox: "The drama over progressives' Ukraine letter, explained.. 'We
-floated the world’s softest trial balloon about diplomacy, got smacked
-by the blob and immediately withdrew under pressure,' a senior
-congressional aide, speaking anonymously, told me"
-
-[[-]](https://www.vox.com/policy-and-politics/2022/10/26/23423574/congressional-progressive-caucus-ukraine-russia-letter-diplomacy)
-
----
-
-NPR: "A day after House progressives sent a letter to President Biden
-urging him to change his approach to Russia's invasion of Ukraine, the
-group abruptly changed course amid intense pushback from Democratic
-lawmakers"
-
----
-
 Consa: "In 1949, the USSR had obtained the atomic bomb thanks to
 information provided by.. a Manhattan Project researcher with
 communist sympathies. From then on, espionage accusations became
