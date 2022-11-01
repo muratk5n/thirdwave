@@ -1,5 +1,109 @@
 # Week 44 
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">BREAKING 🇧🇷: Lula da Silva will be the next president of Brazil.</p>&mdash; Progressive International (@ProgIntl) <a href="https://twitter.com/ProgIntl/status/1586845561768087553?ref_src=twsrc%5Etfw">October 30, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+I see.. now that I think about it the attack came across as bizarrely
+assertive in an ill-timed kind of way..  the hallmark of the previous
+administration? (remember the tax cut debacle). Then possibly Tory
+members got wind, plus the tax thing, MPs toppled the gov in a jif.
+
+WION: "Russia accuses British navy of blowing up Nord Stream
+pipelines"
+
+---
+
+Putin: "Whoever does not miss the Soviet Union has no heart, whoever
+wants it back has no brain"
+
+---
+
+The West is getting Putinsplained
+
+Putin: "The so-called 'cancel culture' is in reality the cancellation
+of culture, is eradicating everything that is alive and creative and
+stifles free thought in all areas, be it economics, politics.. Today,
+liberal ideology itself has changed beyond recognition. If initially,
+classic liberalism was understood to mean the freedom of every person
+to do and say as they pleased, in the 20th century the liberals
+started saying that the so-called open society had enemies and that
+the freedom of these enemies could and should be restricted if not
+cancelled"
+
+[[-]](https://www.lesswrong.com/posts/8DHevJizjQ4ooZjsZ/translated-transcripts-of-putin-s-major-speeches-from-oct-27)
+
+---
+
+BEV li-on battery fires are incredibly hard to put out as the fire is
+self-oxidizing.. Extremely stupid tech.
+
+AccuWeather: "Electric vehicles catch aflame during Ian aftermath..
+in the wake of the Category 4 hurricane that hit the state last month,
+these vehicles have been more akin to a time bomb. Saltwater flooding
+in the state’s coastal areas caused the lithium ion batteries in
+electric vehicles to combust, catching fire.. Eric Wachsman, director
+of Maryland’s Energy Institute, stated that the qualities of lithium
+ion battery cells.. make these cells vulnerable to ignition, due to
+the cells having closely placed electrodes that are filled with a
+flammable liquid electrolyte.
+
+---
+
+Battery lasts a few minutes.. Sad \#Drones \#Batteries
+
+[[-]](https://youtu.be/JRQSbK4Krg0?t=1020)
+
+---
+
+Why is there so much bullshit info around coffee?
+
+---
+
+Poster says he once had 11 coffees in a single day and could swear he
+could hear electricity in the walls. It is likely one can die after
+20.
+
+---
+
+Negative. 500 bil would mean everyone drinks over 60 cups daily.
+
+"[A]round 500 billion cups consumed every day, according to the British
+Coffee Association"
+
+---
+
+His immediate family wasn't rich afaik, he married into money
+
+NYT: "For Rishi Sunak, Family Wealth From Outsourcing Adds to a
+Secretive Fortune"
+
+---
+
+Apparently Rust has some memory check features, better than C (current
+language suppored by the kernel). Memory management is the source of a
+lot of bugs, security issues, especially at that low-level coding a
+kernel requires.
+
+---
+
+In the kernel? Even C++ didn't make it there.. 
+
+"Rust Programming Language To Land in Linux Kernel 6.1"
+
+---
+
+Politico: "Gavin Newsom has quietly constructed one of the biggest
+digital forces in politics.. The governor has 6 million emails and 1.5
+million phone numbers. It’s a massive tool, and it’s led to a logical
+question: What will he do with it after the midterms?
+
+---
+
+Reuters: "EU approves effective ban on new fossil fuel cars from 2035"
+
+---
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The <a href="https://twitter.com/hashtag/EuropeanParliament?src=hash&amp;ref_src=twsrc%5Etfw">#EuropeanParliament</a> has sent a strong signal that clean <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> mobility is a viable and realistic solution to move away from <a href="https://twitter.com/hashtag/fossilfuels?src=hash&amp;ref_src=twsrc%5Etfw">#fossilfuels</a> in the transport sector, according to <a href="https://twitter.com/hydrogeneurope?ref_src=twsrc%5Etfw">@hydrogeneurope</a>. <a href="https://twitter.com/hashtag/H2View?src=hash&amp;ref_src=twsrc%5Etfw">#H2View</a> <a href="https://twitter.com/hashtag/hydrogennow?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennow</a><a href="https://t.co/41owp3yiHH">https://t.co/41owp3yiHH</a></p>&mdash; H2 View (@h2_view) <a href="https://twitter.com/h2_view/status/1583030622528114693?ref_src=twsrc%5Etfw">October 20, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
