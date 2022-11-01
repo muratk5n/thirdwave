@@ -14,5 +14,4 @@
 
 [AI](../../2020/07/ai.html)
 
-[String Theory, the Multiverse](multiverse-string-theory.html)
-
+[String Theory, the Multiverse, LHC](multiverse-string-theory.html)
