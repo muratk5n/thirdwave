@@ -26,6 +26,89 @@ multiverse from him, and his vision of the future has string theory
 solving QCD 80 years from now, nothing about it ever telling us
 anything about where the Standard Model comes from
 
+Unzicker, *Bankrupting Physics*
+
+I am not old enough to remember all the deaths the theory of
+supersymmetry (SUSY) has died in the history of accelerator
+experiments. Supersymmetry attempts to give a unified mathematical
+description of elementary particles by postulating a collection of
+mirror particles. The hypothetical twins are distinguished from the
+known ones by their superheavy masses, and for that reason, remain
+undetected so far in all particle colliders. The first big gravestone
+was the DESY lab in Hamburg in 1978, where supersymmetry grossly
+failed to predict the experimental outcome. But a really agonizing
+year must have been 2012, when Scientific American published an
+article in their May issue asking “Is Supersymmetry Dead?” and not the
+slightest trace of supersymmetry could be found in the
+long-sought-after Large Hadron Collider data at CERN.
+
+Peter Woit commented in his blog 1 Not Even Wrong, “The paradigm that
+dominated the subject for the past 30 years has collapsed in the face
+of experimental (non)evidence, threatening to take down the life’s
+work of hundreds if not thousands of theorists.” However, the really
+die-hard adherents argue that “not the whole parameter space” has been
+checked yet, comparing the search for supersymmetry to a game in which
+your friend assures you that a pea is hidden under one of the five
+cups put upside down on a table. You have turned over four cups. Now
+do you still trust that the pea will show up under the fifth?  Of
+course...
+
+The reason behind the supersymmetry hype is the ugly complication of
+the standard model. With its arbitrary concepts, it leaves an
+unpleasant aftertaste, and this is an inspiration to look out for a
+more uniform, more beautiful theory, just like bleak industrial
+suburbs foster a desire for palm-decorated paradises.
+
+The standard models of cosmology and particle physics are ailing, but
+theoretical physics overall is in a much worse shape. There has been
+no real output at all in the past decades. Strings, inflation, and
+multiverses have formed gigantic bubbles of speculation that can
+barely hide their ridiculously empty content. It is likely that
+theorists will aggressively defend their bogus fantasies for some time
+yet. But the higher-dimensional rigmarole will eventually be
+identified by the public and deflated. When the fantasies end in
+smoke, physics will be left without any credible theory. It will have
+lost its credibility...
+
+The parallel worlds, called multiverses, are perfectly suited for the
+nasty question of why fundamental constants have the numerical values
+we observe.  With a fine structure constant of, say, 5.3 instead of
+137.036, carbon atoms could not form and neither could theoretical
+physicists. The explanation is that nature is producing invisible
+universes with all conceivable constants, and we happily live in one
+where life was possible. Of course, such arguments open the floodgates
+to arbitrary nonsense, as, for example, when theorists linked the
+fluctuations in empty space to the cosmological
+constant. Unfortunately the latter is too small by 120 decimal places!
+This could be called the wrongest prediction ever, but it does not
+harm the beauty of theory, when one cooks up an explanation using
+parallel universes.
+
+Smolin, *Einstein's Unfinished Revolution*
+
+A vocal minority of cosmologists proclaims that the universe we see
+around us is only a bubble in a vast ocean called the multiverse that
+contains an infinity of other bubbles. And, whereas it is safe to
+hypothesize that the galaxies we can see are typical of the rest of
+our universe, one must regard the other invisible bubbles as governed
+by diverse and randomly assigned laws, so our universe is far from
+typical of the whole. This, together with the fact that all, or almost
+all, of the other bubbles are forever out of range of our
+observations, means the multiverse hypothesis can never be tested or
+falsified. This puts this fantasy outside the bounds of
+science. Nonetheless, this idea is championed by not a few highly
+regarded physicists and mathematicians.
+
+It would be a mistake to confuse this multiverse fantasy for the Many
+Worlds Interpretation of quantum mechanics. They are distinct ideas.
+Nonetheless, they share a magical-realist subversion of the aim of
+science to explain the world we see around us in terms of only
+itself. I would suggest that the harm done to clarity about the aim
+and purpose of science by the enthusiastic proponents of the
+multiverse would not have been possible had not the majority of
+physicists uncritically adopted anti-realist versions of quantum
+physics.
+
 Avi Loeb
 
 Mainstream theoretical physicists now widely accept the study of
