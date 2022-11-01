@@ -34,8 +34,6 @@
 
 [Modern-Day Debtors' Prisons, Privatization](03/modern-day-debtors-prisons.html)
 
-[Multiversed](03/multiversed.html)
-
 [#oprah](03/oprah.html)
 
 [RIP Petrodollar?](03/rip-petrodollar.html)
@@ -117,6 +115,8 @@
 [Hyundai Nexo](09/hyunda-nexo-additions.html)
 
 [Junk Science and Technology](09/junk-science.html)
+
+[String Theory, Multiverse, The Large Hadron Collider](09/multiverse-string-theory.html)
 
 [Part-Time Employees](09/part-time-employees.html)
 
