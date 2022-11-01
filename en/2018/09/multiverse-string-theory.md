@@ -6,7 +6,7 @@ Cosmologist Paul Steinhardt calls the multiverse idea 'baroque,
 unnatural, untestable and, in the end, dangerous to science and
 society.' According to Paul Davies, it is 'simply naive deism dressed
 up in scientific language.' George Ellis warns that 'proponents of the
-multiverse… are implicitly redefining what is meant by ‘science.’' 8
+multiverse… are implicitly redefining what is meant by ‘science.’'
 David Gross finds that 'it smells of angels.' For Neil Turok, it’s
 'the ultimate catastrophe.' And science writer John Horgan complains
 that 'multiverse theories aren’t theories—they’re science fictions,
@@ -152,9 +152,7 @@ spent to construct the Large Hadron Collider, a particle accelerator
 built in hopes of attaining confirming evidence of supersymmetry, and
 running it costs another one billion dollars a year. If the scientific
 consensus eventually gives up on the theory, it will do so after vast
-expense and generations of effort. Until we have invested similarly in
-the search for extraterrestrial intelligence, flat declarations about
-what Oumuamua is and isn’t should be judged accordingly.
+expense and generations of effort...
 
 A host of theories beyond supersymmetry—the multiverse leaps to mind—
 are given thoughtful, respectful attention in and out of the academy
