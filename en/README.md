@@ -113,7 +113,7 @@ Voters indirectly contribute into governance.. when they vote their
 pocket, on the incumbent, they can indirectly vote in the person (who
 should have different policy set) that can fix their problem. It's all
 crab walk, sideways, indirect. No need to read too much into (or
-expect much from) it. 
+expect miracles from) it.
 
 ---
 
