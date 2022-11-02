@@ -127,26 +127,24 @@ Battery electric cars need their own junk sub-category..
 
 ---
 
+H2 View: "Turquoise hydrogen made from pyrolysis is efficient, clean
+and potentially even carbon negative, according to a ‘Pyrolysis:
+Potential and possible applications of a climate friendly hydrogen
+production’ report. The report, from Hydrogen Europe in collaboration
+with the German Technical and Scientific Association for Gas and Water
+(DVGW), was published this week.. 
+
+Its appeal is that [the hardware] can be installed at point of use
+wherever there is methane, thereby avoiding large infrastructure
+CAPEX, and it uses minimal electricity, making it more competitive
+than green hydrogen in a high electricity price environment"
+
+---
+
 How could the junk science and technology category be complete without
 the multiverse, string theory and the LHC? Added.
 
 [[-]](2018/09/multiverse-string-theory.html)
-
----
-
-H2 View: "Turquoise hydrogen made from pyrolysis is efficient, clean
-and potentially even carbon negative, according to a ‘Pyrolysis:
-Potential and possible applications of a climate friendly hydrogen
-production’ report.
-
-The report, from Hydrogen Europe in collaboration with the German
-Technical and Scientific Association for Gas and Water (DVGW), was
-published this week to coincide with European Hydrogen Week...
-
-Its appeal is that it can be installed at point of use wherever there
-is methane, thereby avoiding large infrastructure CAPEX, and it uses
-minimal electricity, making it “more competitive” than green hydrogen
-in a high electricity price environment"
 
 ---
 
