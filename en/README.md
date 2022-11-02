@@ -21,7 +21,7 @@ himself. He picked the former guerilla hot chica, it didn't work out
 too well. Dilma was fine but the aftermath proved otherwise.. I don't
 think the schemin, cretin muckers of Brazil politics could've pulled
 off what they did on Lula himself when he was president. Once the
-institutional left in BR is stronger, diversity is fine.
+institutional left in BR is stronger, diversity is fine, for Prez.
 
 ---
 
