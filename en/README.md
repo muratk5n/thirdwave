@@ -116,9 +116,9 @@ expect miracles from) it.
 
 ---
 
-FBI master crime NIBRS dataset, has 45 mil records for one year, and
-they get quarter of all data from the states. Does US have that much
-crime? Or are overzealous cops are looking for / creating trouble?
+FBI NIBRS crime dataset, has 45 mil records for one year, and they get
+quarter of all data from the states. Does US have that much crime? Or
+are overzealous cops are looking for / creating trouble?
 
 ---
 
