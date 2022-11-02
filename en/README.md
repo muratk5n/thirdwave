@@ -123,7 +123,10 @@ crime? Or are overzealous cops are looking for / creating trouble?
 
 ---
 
-Battery electric cars need their own junk sub-category.. 
+How could the junk science and technology category be complete without
+the multiverse, string theory and the LHC? Added.
+
+[[-]](2018/09/multiverse-string-theory.html)
 
 ---
 
@@ -138,13 +141,6 @@ Its appeal is that [the hardware] can be installed at point of use
 wherever there is methane, thereby avoiding large infrastructure
 CAPEX, and it uses minimal electricity, making it more competitive
 than green hydrogen in a high electricity price environment"
-
----
-
-How could the junk science and technology category be complete without
-the multiverse, string theory and the LHC? Added.
-
-[[-]](2018/09/multiverse-string-theory.html)
 
 ---
 
