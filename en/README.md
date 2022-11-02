@@ -15,13 +15,13 @@ Plant"
 
 The only criticism I had on Lula in the past was handling of his
 succession.. Looking at the no-holds-barred nature of Brazil's
-politics, IMHO, he should've picked someone feisty, gregarious, knows
-economics, and a guy - basically younger version of himself. He picked
-the former guerilla hot chica, it didn't work out too well. Dilma was
-fine but the aftermath proved otherwise.. I don't think the schemin,
-cretin muckers of Brazil politics could've pulled off what they did on
-Lula himself when he was president. Once the institutional left in BR
-is stronger, diversity is good.
+politics, IMHO, he should've picked someone politically feisty,
+gregarious, knows economics, and a guy - basically younger version of
+himself. He picked the former guerilla hot chica, it didn't work out
+too well. Dilma was fine but the aftermath proved otherwise.. I don't
+think the schemin, cretin muckers of Brazil politics could've pulled
+off what they did on Lula himself when he was president. Once the
+institutional left in BR is stronger, diversity is fine.
 
 ---
 
@@ -29,7 +29,7 @@ That sounded like half-way concession \#Bolsonaro
 
 ---
 
-Oz slip up, he called Pensylvania "coastal"
+Oz slip up, he called Pennsylvania "coastal"
 
 ---
 
@@ -112,8 +112,8 @@ doctor.
 Voters indirectly contribute into governance.. when they vote their
 pocket, on the incumbent, they can indirectly vote in the person (who
 should have different policy set) that can fix their problem. It's all
-crab walk, sideways, indirect. No need to read too much into it (or
-expect much from it).
+crab walk, sideways, indirect. No need to read too much into (or
+expect much from) it. 
 
 ---
 
