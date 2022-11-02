@@ -28,16 +28,3 @@ world’s best-selling fuel-cell car.
 
 Toyota bet big on HFC. They released all their related patents for
 everyone to use some time ago (2015).
-
-
-
-
-
-
-
-
-
-
-
-
-
