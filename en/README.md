@@ -42,9 +42,7 @@ cracks.
 Paper: "An exact method of calculating the variance of a [combined]
 data set is presented. Its major advantages over the many other
 methods are that it is simple, is easily derived and remembered, and
-requires no assumptions... The proof is so simple that it has
-certainly been done many times before, but it is absent in the
-textbooks"
+requires no assumptions... The proof is.. absent in the textbooks"
 
 ---
 
