@@ -35,9 +35,9 @@ National Lab - using >200,000 cores. Gov has some nice toys.
 
 ---
 
-Such fundamental know-how, yet nowhere to be found - except this one
-lone paper on arXiv.. Stuff slips through the cracks, and there
-are a lot of cracks.
+Key piece of knowledge for stats, yet nowhere to be found - except
+this one lone paper on arXiv.. Stuff slips through the cracks, and
+there are a lot of cracks.
 
 Paper: "An exact method of calculating the variance of a [combined]
 data set is presented. Its major advantages over the many other
