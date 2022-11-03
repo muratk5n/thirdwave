@@ -23,8 +23,8 @@ annually"
 
 Cores are still preferable to GPUs for massively paralel archs
 (sometimes both can be used in conjunction). CPUs can run anything,
-with proper algo anything can be paralelized through them. GPUs
-speciality is simple, micro operations.
+with proper algo most 'number crunching' can be paralelized through
+them. GPU's speciality is simple, micro operations.
 
 ---
 
