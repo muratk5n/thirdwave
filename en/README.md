@@ -49,9 +49,7 @@ many times before, but it is absent in the textbooks"
 
 It's not about a lawless cop shooting up stuff. Eastwood plays the tad
 rebel, though by-the-book cop, the vigilantes are another group in the
-department fighting him.
-
-Clint had the usual expression throughout, the one without the hat.
+department fighting him. 
 
 ---
 
