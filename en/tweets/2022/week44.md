@@ -126,7 +126,7 @@ crime? Or are overzealous cops are looking for / creating trouble?
 How could the junk science and technology category be complete without
 the multiverse, string theory and the LHC? Added.
 
-[[-]](2018/09/multiverse-string-theory.html)
+[[-]](../../2018/09/multiverse-string-theory.html)
 
 ---
 
