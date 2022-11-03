@@ -29,7 +29,7 @@ them. GPU's speciality is simple, micro operations.
 ---
 
 Researcher showed computation output from exascale machine at Argonne
-National Lab - using >200,000 cores. Gov has some nice toys.
+National Lab - using >200,000 cores. Gov has nice toys.
 
 [[-]](https://twitter.com/Jmendezcarvajal/status/1587176857509691400)
 
