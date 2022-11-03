@@ -2,37 +2,6 @@
 
 ---
 
-Such fundamental know-how, yet nowhere to be found - except this one
-lone paper on arXiv.. Stuff slips through the cracks, and there
-are a lot of cracks.
-
-"An exact method of calculating the variance of a [combined] data set
-is presented. Its major advantages over the many other methods are
-that it is simple, is easily derived and remembered, and requires no
-assumptions... The proof is so simple that it has certainly been done
-many times before, but it is absent in the textbooks"
-
----
-
-Finally watched *Magnum Force*. Not bad, given the era.. It's not
-about a lawless cop shooting up stuff. Eastwood plays the tad rebel,
-though by-the-book cop, the vigilantes are another group in the
-department fighting him. 
-
----
-
-Cows are around humans in many places, few cases one farts happens to
-be by the fire it burns someone? Are people that close to sharks in
-daily life?
-
----
-
-Out of how many encounters? Need to mention the larger sample. 
-
-"Cows Kill More People Than Sharks"
-
----
-
 H2 View: "Alfa Laval has signed an agreement to deliver compact heat
 exchangers to the world’s largest green hydrogen plant, which is to be
 built in the upcoming city of Neom in Saudia Arabia.
@@ -63,6 +32,42 @@ Researcher showed computation output from exascale machine at Argonne
 National Lab - using >200,000 cores. Gov has some nice toys.
 
 [[-]](https://twitter.com/Jmendezcarvajal/status/1587176857509691400)
+
+---
+
+Such fundamental know-how, yet nowhere to be found - except this one
+lone paper on arXiv.. Stuff slips through the cracks, and there
+are a lot of cracks.
+
+"An exact method of calculating the variance of a [combined] data set
+is presented. Its major advantages over the many other methods are
+that it is simple, is easily derived and remembered, and requires no
+assumptions... The proof is so simple that it has certainly been done
+many times before, but it is absent in the textbooks"
+
+---
+
+It's not about a lawless cop shooting up stuff. Eastwood plays the tad
+rebel, though by-the-book cop, the vigilantes are another group in the
+department fighting him.
+
+Clint had the usual expression throughout, the one without the hat.
+
+---
+
+Finally watched *Magnum Force*. Not bad, given the era.. 
+
+---
+
+Cows are around humans in many places, few cases one farts happens to
+be by the fire it burns someone? Are people that close to sharks in
+daily life?
+
+---
+
+Out of how many encounters? Need to mention the larger sample. 
+
+"Cows Kill More People Than Sharks"
 
 ---
 
