@@ -90,9 +90,8 @@ programs to improve America's public lands, forests, and parks"
 ---
 
 FED is trying to cool down econ at the same time gov pumped money into
-econ via Inflation Reduction Act.
-
-I'm not complaining about that **at all**, lota money for H2 infra
+econ via Inflation Reduction Act. I'm not complaining about that **at
+all**, lota money for H2 infra
 
 ---
 
