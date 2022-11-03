@@ -5,6 +5,7 @@
 ```python
 import pandas as pd
 import util as u
+fbp = 'bp-stats-review-2022-consolidated-dataset-panel-format.csv'
 ```
 
 ```python
@@ -78,7 +79,6 @@ Data from [BP](https://www.bp.com/en/global/corporate/energy-economics/statistic
 Unit is billion barrels. 
 
 ```python
-fbp = 'bp-stats-review-2022-consolidated-dataset-panel-format.csv'
 df = pd.read_csv(fbp)
 df = df[df.Country == 'Total World']
 df = df.set_index('Year')
@@ -205,18 +205,19 @@ df = df[df.Country == 'Total World']
 df = df.set_index('Year')
 df = df[['primary_ej']]
 df['primary_twh'] = df.primary_ej * 277.778
-print (df.primary_twh.tail(4))
+df['primary_gw'] = df['primary_twh']*1000 / (365*24)
+print (df[['primary_twh','primary_gw']].tail(4))
 df.primary_twh.plot()
 plt.savefig('world-energy-combined.png')
 ```
 
 ```text
-Year
-2018    161772.761640
-2019    163174.086345
-2020    156670.066530
-2021    165319.812784
-Name: primary_twh, dtype: float64
+        primary_twh    primary_gw
+Year                             
+2018  161772.761640  18467.210233
+2019  163174.086345  18627.178806
+2020  156670.066530  17884.710791
+2021  165319.812784  18872.124747
 ```
 
 ![](world-energy-combined.png)
