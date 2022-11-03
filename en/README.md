@@ -39,11 +39,12 @@ Such fundamental know-how, yet nowhere to be found - except this one
 lone paper on arXiv.. Stuff slips through the cracks, and there
 are a lot of cracks.
 
-"An exact method of calculating the variance of a [combined] data set
-is presented. Its major advantages over the many other methods are
-that it is simple, is easily derived and remembered, and requires no
-assumptions... The proof is so simple that it has certainly been done
-many times before, but it is absent in the textbooks"
+Paper: "An exact method of calculating the variance of a [combined]
+data set is presented. Its major advantages over the many other
+methods are that it is simple, is easily derived and remembered, and
+requires no assumptions... The proof is so simple that it has
+certainly been done many times before, but it is absent in the
+textbooks"
 
 ---
 
