@@ -77,12 +77,6 @@ AP News: "Germany's Scholz in China amid trade, Ukraine, rights issues"
 
 ---
 
-\#Debt \#Prisons
-
-[[-]](https://youtu.be/gT-vUVldPU4?t=1261)
-
----
-
 "@simongerman600
 
 There is a lake in Finland, that looks like Finland. Now you know"
@@ -133,10 +127,9 @@ You know you're in Copenhagen when …"
 
 ---
 
-H2 Central: "Hydrogen could flow via 3bcm/year Greece-Bulgaria gas
-link.... The 3 billion cubic metres (bcm) per year gas Interconnector
-Greece-Bulgaria (IGB) could allow the transfer of hydrogen when mixed
-with natural gas"
+H2 Central: "Hydrogen could flow via 3 bcm/year Greece-Bulgaria gas
+link.... [The gas connector]could allow the transfer of hydrogen when
+mixed with natural gas"
 
 ---
 
