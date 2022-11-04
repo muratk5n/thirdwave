@@ -73,6 +73,8 @@ AP News: "Germany's Scholz in China amid trade, Ukraine, rights issues"
 
 ---
 
+It's like f-ing mafia politics over there..
+
 "Pakistan Ex-Prime Minister Imran Khan Shot in Leg at Protest Rally"
 
 ---
