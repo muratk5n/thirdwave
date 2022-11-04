@@ -645,7 +645,7 @@ Van Wilder knows how to party!
 
 ---
 
-Yeah [that's you](https://pbs.twimg.com/media/EXumlWcXsAIQNdx?format=jpg&name=small)
+Yeah [that's you](../2020/vanwilder1.jpeg)
 
 ---
 

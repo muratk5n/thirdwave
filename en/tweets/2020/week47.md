@@ -785,7 +785,7 @@ Yes that is a cap with Volkswagen logo. Bcz he was "Van Wilder"
 
 Ryan Reynolds. This guy.
 
-<img width="50%" src="https://pbs.twimg.com/media/EXumlWcXsAIQNdx?format=jpg&name=small"/>
+<img width="50%" src="vanwilder1.jpeg"/>
 
 ---
 
