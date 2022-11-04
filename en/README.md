@@ -7,6 +7,13 @@ Research] Data Show"
 
 ---
 
+Yahoo News: "Denmark's left-wing bloc led by Prime Minister Mette
+Frederiksen reached out to the centre for broader collaboration on
+Wednesday after winning a one-seat majority in a nail-biter general
+election"
+
+---
+
 Netan is back from a year in limbo. I guess the electorate saw things
 did not get visibly better with others, had more chaos (the al Jazeera
 journo died on their watch) so power goes back to the worn-out old
