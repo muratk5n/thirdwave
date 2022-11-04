@@ -15,7 +15,7 @@ properly on the US media with his American accent.
 
 ---
 
-Even better for HW on this poll
+HW did even better on this poll.
 
 ```python
 u.sen_ga_538()
@@ -29,7 +29,7 @@ Out[1]:
 
 ---
 
-Not good.. not good.. 
+Not good for Fetterman.. let's see if the heavy hitters make a difference.
 
 ```python
 u.sen_pa_538()
