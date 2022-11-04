@@ -7,10 +7,7 @@ Research] Data Show"
 
 ---
 
-Yahoo News: "Denmark's left-wing bloc led by Prime Minister Mette
-Frederiksen reached out to the centre for broader collaboration on
-Wednesday after winning a one-seat majority in a nail-biter general
-election"
+F24: "Danish left-wing bloc retains a majority in parliament"
 
 ---
 
