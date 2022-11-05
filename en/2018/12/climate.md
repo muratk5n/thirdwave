@@ -14,6 +14,8 @@
 
 [H2 Numbers](../../2022/02/base-energy-numbers.html)
 
+[H2 Revolution](../../2022/06/the-h2-revolution-alvera.html)
+
 [Carbon Capture](../../2022/02/h2-co2-capture.html)
 
 [The Rare Metals War](../../2021/10/the-rare-metals-war.html)
