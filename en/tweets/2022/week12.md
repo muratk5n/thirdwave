@@ -30,7 +30,7 @@ develop a hydrogen hub..'"
 
 Places for salt cavern storage in US, below, taken from [paper](https://www.sciencedirect.com/science/article/abs/pii/S0360319921030834)
 
-[[-]](https://pbs.twimg.com/media/FOiY5s6XMAI57n8?format=png&name=small)
+[[-]](twimg/FOiY5s6XMAI57n8.png)
 
 ---
 
@@ -156,7 +156,7 @@ mg/m3 PM 2.5 concentration? Segment had doubts on the sponsor of the
 report, IOAir, which sells air purifier products. Good to know... I
 double-checked though and it is true, PM 2.5 is high.
 
-[[-]](https://pbs.twimg.com/media/FOisLPCXEAc10_w?format=jpg&name=small)
+[[-]](twimg/FOisLPCXEAc10_w.jpg)
 
 ---
 
@@ -257,7 +257,7 @@ bing, bada boom. Wanted no bada boom, but there was bada boom.
 
 Most of that brief uptick is now gone \#netapprov \#biden
 
-[[-]](https://pbs.twimg.com/media/FOZiDNrXoAgfUI1?format=png&name=small)
+[[-]](twimg/FOZiDNrXoAgfUI1.png)
 
 ---
 
@@ -307,7 +307,7 @@ smoke out Brits. See above.
 Remember the July 2021 [event](https://www.nytimes.com/2021/06/23/world/europe/russia-uk-destroyer-crimea.html).
 It was just bizarre.. 
 
-Kinda like [this move](https://pbs.twimg.com/media/FOY3EccX0AQuQqa?format=jpg&name=small).
+Kinda like [this move](twimg/FOY3EccX0AQuQqa.jpg).
 
 But Putin isn't impressed, guy doesn't f--k around.
 

@@ -172,7 +172,7 @@ Nazis in Ukraine..
 
 Here are some other Nazis
 
-[[-]](https://pbs.twimg.com/media/FNjIZsDVIA8Mhta?format=jpg&name=small)
+[[-]](twimg/FNjIZsDVIA8Mhta.jpg)
 
 ---
 
@@ -885,7 +885,7 @@ Secular peak? Going back to $12.. ?
 
 Note: Even before Feb invasion crude was over $80
 
-[[-]](https://pbs.twimg.com/media/FNNsxPRXwAAQq82?format=jpg&name=small)
+[[-]](twimg/FNNsxPRXwAAQq82.jpg)
 
 ---
 
@@ -1021,7 +1021,7 @@ West direction, but if RU becomes Asia/Pacific oriented, both sides
 can go on bickering over there.. Could be good for my native hood;
 Just get the f--k out, do your shit elsewhere
 
-[[-]](https://pbs.twimg.com/media/FNHXrneXMAA--B0?format=png&name=small)
+[[-]](twimg/FNHXrneXMAA--B0.png)
 
 ---
 
@@ -1094,7 +1094,7 @@ People in Europe Since World War II"
 
 That's funny \#batman
 
-[[-]](https://pbs.twimg.com/media/FM9QDfyXMAEme9z?format=jpg&name=small)
+[[-]](twimg/FM9QDfyXMAEme9z.jpg)
 
 ---
 

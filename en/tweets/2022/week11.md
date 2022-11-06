@@ -124,11 +124,11 @@ Hardball?
 
 Not cool.. not cool at all
 
-<img width="340" src="https://pbs.twimg.com/media/FOGqvPgWUAoffbd?format=png&name=small"/>
+<img width="340" src="twimg/FOGqvPgWUAoffbd.png"/>
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/FOCokZ8WUAEnxIW?format=png&name=small"/>
+<img width="340" src="twimg/FOCokZ8WUAEnxIW.png"/>
 
 ---
 
@@ -421,7 +421,7 @@ next two years"
 
 Funky. What would be the LCOE, ONC I wonder..
 
-<img width="340" src="https://pbs.twimg.com/media/FN4pryWXwAQdox8?format=png&name=small"/>
+<img width="340" src="twimg/FN4pryWXwAQdox8.png"/>
 
 ---
 
@@ -804,7 +804,7 @@ RFERL: "Russia Says It Could Target Western Arms Supplies To Ukraine"
 
 \#refugees 
 
-[[-]](https://pbs.twimg.com/media/FNocmtIWQAEyI5O?format=jpg&name=small)
+[[-]](twimg/FNocmtIWQAEyI5O.jpg)
 
 ---
 

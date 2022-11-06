@@ -107,7 +107,7 @@ plt.legend(h1+h2, l1+l2, loc=2)
 plt.savefig('out.png')
 ```
 
-<img width="340" src="https://pbs.twimg.com/media/FPO1uM_XsAgAA2x?format=png&name=small"/>
+<img width="340" src="twimg/FPO1uM_XsAgAA2x.png"/>
 
 ---
 
@@ -387,7 +387,7 @@ same units. Gboe is billions of barrels.
 New oil and gas discoveries per year (billion barrels of oil equivalent).
 Discoveries have been falling in a big way since 2008. 
 
-<img width="340" src="https://pbs.twimg.com/media/FPCmiXyWQAou-7p?format=png&name=small"/>
+<img width="340" src="twimg/FPCmiXyWQAou-7p.png"/>
 
 [[-]](https://www.ifpenergiesnouvelles.com/article/new-oil-and-gas-discoveries-2018)
 
@@ -446,7 +446,7 @@ PNG seem to be 'neutral'?
 China wants a base at Solomon Islands (lower right corner). Blue marks
 are known US bases. 
 
-[[-]](https://pbs.twimg.com/media/FO9GAupXEAk1yVO?format=jpg&name=small)
+[[-]](twimg/FO9GAupXEAk1yVO.jpg)
 
 ---
 
@@ -547,7 +547,7 @@ What is the latest on this tech..? Can it be scaled?
 
 Solar beam-down hardware in UAE - looks scifi
 
-[[-]](https://pbs.twimg.com/media/FOzPnrcWUAEdFTz?format=jpg&name=small)
+[[-]](twimg/FOzPnrcWUAEdFTz.jpg)
 
 ---
 
@@ -647,10 +647,10 @@ sailing there would have its ass sticking out, waiting to get hit
 
 ---
 
-At first u think 'ah China is doing fine, [look at](https://pbs.twimg.com/media/FO3P7q7XsAkh0Wz?format=png&name=small)
+At first u think 'ah China is doing fine, [look at](twimg/FO3P7q7XsAkh0Wz.png)
 all that access".
 
-Then you zoom in and [boom](https://pbs.twimg.com/media/FO3P-S2XoAUWn6o?format=png&name=small)!
+Then you zoom in and [boom](twimg/FO3P-S2XoAUWn6o.png)!
 Notice that island chain is lined up like a f-ing firing squad, with
 Okinawa smack in the middle housing one of the largest US bases. No wonder
 China wants Taiwan (at the end of that island chain) to break
@@ -666,7 +666,7 @@ Saddam invaded Kuwait.
 
 Iran is ok.. but still can be blocked
 
-[[-]](https://pbs.twimg.com/media/FO2mD50XEAEypm8?format=jpg&name=small)
+[[-]](twimg/FO2mD50XEAEypm8.jpg)
 
 ---
 
@@ -674,7 +674,7 @@ Saudi Arabia is an 'inner' country. They got'em locked in good, behind
 Yemen, Oman, and UAE with a few tiny access points to the high seas,
 which can be blocked with ease.
 
-[[-]](https://pbs.twimg.com/media/FO2l_dLX0AYGKeg?format=png&name=small)
+[[-]](twimg/FO2l_dLX0AYGKeg.png)
 
 ---
 
@@ -823,7 +823,7 @@ Instagram "I'll show that pic to fam, so phat, no cap!!"
 
 ---
 
-[Link](https://pbs.twimg.com/media/FOtz1wGWYAEXD-l?format=jpg&name=small)
+[Link](twimg/FOtz1wGWYAEXD-l.jpg)
 
 ---
 
@@ -835,7 +835,7 @@ Dude. I'm so bored already.
 
 ---
 
-[Link](https://pbs.twimg.com/media/FOtwzPcXIAM0ZV6?format=jpg&name=small)
+[Link](twimg/FOtwzPcXIAM0ZV6.jpg)
 
 ---
 
@@ -889,7 +889,7 @@ western Massachusetts, our house was struck by lightning'"
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/FOoQsDfVEAA8zRL?format=jpg&name=small"/>
+<img width="340" src="twimg/FOoQsDfVEAA8zRL.jpg"/>
 
 ---
 
