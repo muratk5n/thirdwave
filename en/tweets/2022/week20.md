@@ -312,7 +312,7 @@ df = yf.get_stock_price('TGT')
 df.plot(ax=axes[1],legend=False,title='TGT')
 ```
 
-<img width="340" src="https://pbs.twimg.com/media/FTGwlY6XEAIbG03?format=png&name=small"/>
+<img width="340" src="twimg/FTGwlY6XEAIbG03.png"/>
 
 ---
 
@@ -448,7 +448,7 @@ announced that its first hydrogen-powered light commercial vehicles
 Simply dehydrating blended fruit gives 'fruit leather'. 6-12 hrs at 60
 degrees. Done. Portable fruit, it wont go bad for a long time.
 
-[[-]](https://pbs.twimg.com/media/FS8hD1OXwAIDZTq?format=jpg&name=small)
+[[-]](twimg/FS8hD1OXwAIDZTq.jpg)
 
 ---
 
@@ -862,7 +862,7 @@ plans. 'The last week to 10 days or so proved that point for us.'"
 
 \#crypto \#mcdonalds
 
-[[-]](https://pbs.twimg.com/media/FSoZFGTWAAMjXF_?format=jpg&name=small)
+[[-]](twimg/FSoZFGTWAAMjXF_.jpg)
 
 ---
 
@@ -1012,6 +1012,6 @@ Wiki: "European Russia is the western and most populated part of
 Russia, which is geographically situated in Europe. European Russia
 accounts for about 75% of Russia's total population"
 
-[[-]](https://pbs.twimg.com/media/FSx4MANXEAEB3LK?format=jpg&name=small)
+[[-]](twimg/FSx4MANXEAEB3LK.jpg)
 
 ---
