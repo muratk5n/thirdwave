@@ -69,7 +69,7 @@ Generated single PDF for all markdown posts w `pandoc` bcz, why not?
 
 ---
 
-Added the [item](2022/08/dark-matter.html) to the [Junk Science](2018/09/junk-science.html) 
+Added the [item](2022/08/dark-matter.html) to the [junk science](2018/09/junk-science.html) 
 category.
 
 ---
