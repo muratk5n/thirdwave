@@ -65,7 +65,7 @@ system a leader serves a third term or not?
 
 ---
 
-Generated single PDF for all markdown posts w `pandoc` bcz, why not?
+Generated single PDF for all blog posts w `pandoc` bcz, why not?
 
 ---
 
