@@ -110,7 +110,7 @@ circumstances require.
 
 Looks like a fine product
 
-<img width="340" src="https://pbs.twimg.com/media/FVNIUTVXoAA1pzO?format=jpg&name=small"/>
+<img width="340" src="twimg/FVNIUTVXoAA1pzO.jpg"/>
 
 ---
 
@@ -139,7 +139,7 @@ sigh. Paging @internetofshit"
 
 THIS TOASTER HAS A FUCKING HOME SCREEN
 
-[[-]](https://pbs.twimg.com/media/FVbMaftUYAAs7fC?format=jpg&name=small)
+[[-]](twimg/FVbMaftUYAAs7fC.jpg)
 
 ---
 
@@ -515,7 +515,7 @@ were dime-a-dozen in homieland during the same era.
 I wonder how many suckers lost money in that last bump thinking it was
 time to buy the dip.
 
-<img width="340" src="https://pbs.twimg.com/media/FVPN7I1XEAUeUUg?format=png&name=small"/>
+<img width="340" src="twimg/FVPN7I1XEAUeUUg.png"/>
 
 ---
 
@@ -616,7 +616,7 @@ Bryce Kelly from UNSW on methane emissions.
 
 CCS at the source is ideal bcz if natgas travels in the pipes, goes
 into cities, heaters, storage, it will leak. See
-[this picture](https://pbs.twimg.com/media/EiuaeZPVoAEckhC?format=jpg&name=medium)
+[this picture](twimg/EiuaeZPVoAEckhC.jpg)
 from Australia.
 
 ---
@@ -641,7 +641,7 @@ encourage earlier adoption."
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/FSSK3TNXoAAHp4J?format=jpg&name=small"/>
+<img width="340" src="twimg/FSSK3TNXoAAHp4J.jpg"/>
 
 ---
 
@@ -660,7 +660,7 @@ call. Whatever happened to don’t fight the Fed?"
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/FSP71S-XMAAlQP9?format=jpg&name=small"/>
+<img width="340" src="twimg/FSP71S-XMAAlQP9.jpg"/>
 
 ---
 
@@ -686,7 +686,7 @@ is surpassing the student.
 
 \#geek
 
-[[-]](https://pbs.twimg.com/media/FVHjKjXX0AAjojg?format=png&name=small)
+[[-]](twimg/FVHjKjXX0AAjojg.png)
 
 ---
 
@@ -812,7 +812,7 @@ out of their NG reserves..
 North Field.. Its reserves on discovery stood at 176 gboe, larger than
 the largest oil field in the world, in terms of comparable raw energy (boe).
 
-[[-]](https://pbs.twimg.com/media/FVE4GDzXwAEPUTX?format=png&name=small)
+[[-]](twimg/FVE4GDzXwAEPUTX.png)
 
 ---
 
