@@ -13,13 +13,13 @@ Out[1]:
 ```
 
 ```python
-u.gov_ny_538()
+u.sen_pa_538()
 ```
 
 ```text
 Out[1]: 
-(['Kathy C. Hochul', '10/31/22', 'Emerson College Polling Society', 53.6],
- ['Lee M. Zeldin', '10/31/22', 'Emerson College Polling Society', 44.9])
+(['John Fetterman', '11/3/22', 'InsiderAdvantage', 46.0],
+ ['Mehmet Oz', '11/3/22', 'InsiderAdvantage', 48.3])
 ```
 
 

@@ -2,38 +2,31 @@
 
 ---
 
-H2 Insight: "Global Hydrogen Pipeline Grows to 957 Gw, Aurora [Energy
-Research] Data Show"
+Jar Jar Ibrahim disciple was on *Rings of Power*.. No wonder the show
+reportedly sucked. I haven't seen it - likely won't.
+
+[[-]](https://youtu.be/YWisEBfNnFQ?t=224)
 
 ---
 
-F24: "Danish left-wing bloc retains a majority in parliament"
+The European Union is one step closer to securing the annual supply of
+two million tonnes of green hydrogen produced using electricity from
+wind farms and solar power plants in the steppes of Kazakhstan. The
+volume is equivalent to one fifth of European imports planned for
+2030.
+
+Hyrasia One, a subsidiary of Swedish-German company Svevind Energy
+Group, reached an investment agreement in Astana with the Kazakh
+government for the massive project.
+
+[[-]](https://balkangreenenergynews.com/eu-eyes-green-hydrogen-that-hyrasia-one-plans-to-produce-in-kazakh-steppes/)
 
 ---
 
-Netan is back from a year in limbo. I guess the electorate saw things
-did not get visibly better with others, had more chaos (the al Jazeera
-journo died on their watch) so power goes back to the worn-out old
-shoe.. ISR deep state can be assured Netan will sell their shit
-properly on the US media with his American accent.
+Hochul will likely be OK. PredictIt has Oz winning the Senate seat,
+Walker for GA. 
 
 ---
-
-HW did even better on this poll.
-
-```python
-u.sen_ga_538()
-```
-
-```text
-Out[1]: 
-(['Herschel Junior Walker', '11/2/22', 'Remington', 49.0],
- ['Raphael Warnock', '11/2/22', 'Remington', 45.0])
-```
-
----
-
-Not good for Fetterman.. let's see if the heavy hitters make a difference.
 
 ```python
 u.sen_pa_538()
@@ -41,105 +34,86 @@ u.sen_pa_538()
 
 ```text
 Out[1]: 
-(['John Fetterman', '11/3/22', 'Trafalgar Group', 45.5],
- ['Mehmet Oz', '11/3/22', 'Trafalgar Group', 47.7])
-
+(['John Fetterman', '11/3/22', 'InsiderAdvantage', 46.0],
+ ['Mehmet Oz', '11/3/22', 'InsiderAdvantage', 48.3])
 ```
 
 ---
 
-Brutal PMQs. Labor does not want to leave anything to chance, trying
-to make sure this one is the last Tory PM.
+Dems are making a mistake by leaning too heavily on Rep election
+denialism. This election is now about them, not the other guy.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Svevind advances 40GW wind and solar-to-green hydrogen project<br><br>“Kazakhstan is an ideal location for clean energy and green hydrogen production.” - Wolfgang Kropp, managing director of Hyrasia One and founder and CEO of Svevind.<a href="https://twitter.com/hashtag/renewables?src=hash&amp;ref_src=twsrc%5Etfw">#renewables</a> <a href="https://twitter.com/hashtag/netzero?src=hash&amp;ref_src=twsrc%5Etfw">#netzero</a> <a href="https://t.co/GDWGbESiM5">https://t.co/GDWGbESiM5</a> <a href="https://t.co/C6fScb4lrs">pic.twitter.com/C6fScb4lrs</a></p>&mdash; Windpower Monthly (@windpower_m) <a href="https://twitter.com/windpower_m/status/1585614863870615554?ref_src=twsrc%5Etfw">October 27, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Dried food update: New oil mix, plus trahana. Pears instead of oranges.
+
+[[-]](2022/07/dried-turkey-veg.html)
 
 ---
 
-[Hyrasia One](http://hyrasia.energy/)
+Finally found some tallow sold as product. 
 
 ---
 
-It makes perfect sense for Germany to lean into that relationship.
+Complaining about a third term for Xi's said dictatorial regime.. What
+difference does it make for outsiders if in an already dictatorial
+system a leader serves a third term or not? 
 
 ---
 
-Germany continues close rel to China, UK starts going against them;
-inners and outers increasing their in-group ties.
-
-"UK PM Rishi Sunak to take big step against China, may shut Confucius
-Institutes"
+Generated single PDF for all markdown posts w `pandoc` bcz, why not?
 
 ---
 
-AP News: "Germany's Scholz in China amid trade, Ukraine, rights issues"
+Added the [item](2022/08/dark-matter.html) to the [Junk Science](2018/09/junk-science.html) 
+category.
 
 ---
 
-It's like f-ing mafia politics over there..
+New Evidence Against Dark Matter \#hossenfelder
 
-"Pakistan Ex-Prime Minister Imran Khan Shot in Leg at Protest Rally"
-
----
-
-"@simongerman600
-
-There is a lake in Finland, that looks like Finland. Now you know"
-
-[[-]](https://pbs.twimg.com/media/FgkwKLcWQAAGQos?format=jpg&name=small)
+[[-]](https://youtu.be/lVkyUpMDeUs?t=303)
 
 ---
 
-And they are poor, constantly in crisis.. Is US Big Oil scared of
-competition and want to keep Haiti in constant turmoil? \#TFIGlobal
+More science fail 
 
-World Oil: "[2010] Haiti could have larger oil reserves than
-Venezuela"
-
----
-
-🤣 Oprah is like, I made you, and I can take u down.
-
-The Independent: "Oprah delivers November surprise, endorses Fetterman
-over Oz"
-
----
-
-The Economic Times: "Russia becomes largest supplier of oil to India
-in October"
+Kroupa: "Dark Matter Doesn't Exist.. The current cosmological model
+only works by postulating the existence of dark matter – a substance
+that has never been detected, but that is supposed to constitute
+approximately 25% of all the universe. But a simple test suggests that
+dark matter does not in fact exist. If it did, we would expect lighter
+galaxies orbiting heavier ones to be slowed down by dark matter
+particles, but we detect no such slow-down. A host of other
+observational tests support the conclusion: dark matter is not
+there. The implications of this are nothing short of a revision of
+Einstein’s theory of gravitation. Why the scientific community is in
+denial about the falsification of the dark matter model is a question
+that requires both a sociological and philosophical explanation,
+argues Pavel Kroupa"
 
 ---
 
-[Link](https://drive.google.com/uc?export=view&id=1uYcmrhr-tdULmD6QDgs9cxEGzhCrH_69)
+Good remix
+
+France Gall - Ella Elle L'a (MrCØ Rework) \#Music
+
+[[-]](https://youtu.be/OAlTZwInEuc)
 
 ---
 
-Finally something good coming out of Volkswagen.. keep doing this and
-I'll stop calling you Nazi and stop sharing Van Wilder
-[pictures](tweets/2022/vanwilder2.jpeg).
-
-H2 Central: "Volkswagen is working on a new fuel cell that is much
-cheaper than the current ones and promises hydrogen cars that can
-travel 2,000 kilometers on a single tank"
+First time Im hearing it, I bet the singer was a big shot back when in
+France.
 
 ---
 
-"@kelseyhightower
-
-You know you're in Copenhagen when …"
-
-[[-]](https://pbs.twimg.com/media/FgpiKNfUcAAE_5m?format=jpg&name=small)
+Not bad.. *Ella, elle l'a* by France Gall. 
 
 ---
 
-H2 Central: "Hydrogen could flow via 3 bcm/year Greece-Bulgaria gas
-link.... [The gas connector]could allow the transfer of hydrogen when
-mixed with natural gas"
-
----
-
-Someone called *Andor* "the fascist board meeting show". 
+H2 Fuel News: "Hawai company gets $1.6M clean hydrogen fuel production
+funding from DoE.. Simonpietri Enterprises is receiving the funds to
+broaden its waste-to-energy strategy into H2"
 
 ---
 
