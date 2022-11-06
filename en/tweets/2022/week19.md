@@ -133,7 +133,7 @@ with imports of ammonia in 2025"
 
 \#mirror @internetofshit
 
-[[-]](https://pbs.twimg.com/media/FSgM48PXoAsSXZA?format=jpg&name=medium)
+[[-]](twimg/FSgM48PXoAsSXZA.jpg)
 
 ---
 
@@ -204,7 +204,7 @@ Al Monitor: "Egypt considers issuing bonds in China’s yuan"
 
 The map was so good, I had to share it again
 
-[[-]](https://pbs.twimg.com/media/FSiNe_oXMAAGPve?format=jpg&name=large)
+[[-]](twimg/FSiNe_oXMAAGPve.jpg)
 
 ---
 
@@ -683,7 +683,7 @@ industry. Then boom - toppled by an 'Anglo' coup.
 Pity. Iran's democratically elected leader Mossadeg was Time's Man of
 the Year for 1952. A terrible fate befell him..
 
-[[-]](https://pbs.twimg.com/media/FSWaDakXMAEnhI5?format=jpg&name=small)
+[[-]](twimg/FSWaDakXMAEnhI5.jpg)
 
 ---
 
@@ -722,7 +722,7 @@ for c in contours:
     axes[1].plot(c[:, 1], c[:, 0], color='white',linewidth=2)
 ```
 
-<img width="350" src="https://pbs.twimg.com/media/FSWZvWtXwAAfZVv?format=png&name=small"/>
+<img width="350" src="twimg/FSWZvWtXwAAfZVv.png"/>
 
 ---
 
@@ -859,7 +859,7 @@ spurious correlation, like his
 "@donmoyn
 
 Worth noting that unemployment rapidly dropped after Britney Spears
-[released](https://pbs.twimg.com/media/FSFHKPDWQAEFlbU?format=jpg&name=small)
+[released](twimg/FSFHKPDWQAEFlbU.jpg)
 'Work Bitch'"
 
 ---
