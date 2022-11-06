@@ -443,7 +443,7 @@ for city in ['lakshadweep','minicoy','andaman','nicobar']:
 ```
 
 
-<img width="340" src="https://pbs.twimg.com/media/FUELuB9WYAAjBfk?format=png&name=small"/>
+<img width="340" src="twimg/FUELuB9WYAAjBfk.png"/>
 
 ---
 
@@ -585,7 +585,7 @@ long-run, leads to global solution.
 
 But, one can still get stuck on a "local minima". Because we didn't
 look ahead, could have climbed the nearest *shorter* hill. The fog clears
-we see [this](https://pbs.twimg.com/media/FT3wrouWQAIZqaL?format=png&name=small).
+we see [this](twimg/FT3wrouWQAIZqaL.png).
 
 ---
 

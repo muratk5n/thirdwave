@@ -403,7 +403,7 @@ U-oh.. Theory made the calculation assuming there was a Big Bang and
 cosmic microwave background is real.. Maybe there wasn't a Big Bang
 and the oft-quoted CMB isn't real. It was water reflection 😱
 
-[[-]](https://pbs.twimg.com/media/FUjMqu8WAAM0O5L?format=png&name=small)
+[[-]](twimg/FUjMqu8WAAM0O5L.png)
 
 ---
 
@@ -536,7 +536,7 @@ FOMO markets created 'investors' out of everyone
 
 \#landlords \#bitcoin
 
-[[-]](https://pbs.twimg.com/media/FUV8tftXoAIRB_Z?format=jpg&name=small)
+[[-]](twimg/FUV8tftXoAIRB_Z.jpg)
 
 ---
 
@@ -633,7 +633,7 @@ of energy in the region.
 
 Yuzivska gas field juxtaposed on the conflict map.
 
-[[-]](https://pbs.twimg.com/media/FUbvwhrWUAIOUX8?format=png&name=small)
+[[-]](twimg/FUbvwhrWUAIOUX8.png)
 
 ---
 
@@ -714,7 +714,7 @@ forgot about the bear next door.
 
 Look at the potential new gas fields; all areas being invaded right now
 
-[[-]](https://pbs.twimg.com/media/FUQZArcWYAAe841?format=jpg&name=small)
+[[-]](twimg/FUQZArcWYAAe841.jpg)
 
 ---
 
