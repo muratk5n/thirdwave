@@ -13,7 +13,7 @@ dark matter is not there. The implications of this are nothing short
 of a revision of Einstein’s theory of gravitation. Why the scientific
 community is in denial about the falsification of the dark matter
 model is a question that requires both a sociological and
-philosophical explanation, argues Pavel Kroupa.
+philosophical explanation.
 
 [Link](https://darkmattercrisis.wordpress.com/2022/06/18/70-the-list-of-flawed-mond-rebuttals/)
 
