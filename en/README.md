@@ -6,7 +6,7 @@ Politico: "Hakeem Jeffries on track to replace Pelosi"
 
 ---
 
-The European Union is one step closer to securing the annual supply of
+"The European Union is one step closer to securing the annual supply of
 two million tonnes of green hydrogen produced using electricity from
 wind farms and solar power plants in the steppes of Kazakhstan. The
 volume is equivalent to one fifth of European imports planned for
@@ -14,7 +14,7 @@ volume is equivalent to one fifth of European imports planned for
 
 Hyrasia One, a subsidiary of Swedish-German company Svevind Energy
 Group, reached an investment agreement in Astana with the Kazakh
-government for the massive project.
+government for the massive project"
 
 [[-]](https://balkangreenenergynews.com/eu-eyes-green-hydrogen-that-hyrasia-one-plans-to-produce-in-kazakh-steppes/)
 

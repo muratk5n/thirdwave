@@ -18,9 +18,9 @@ philosophical explanation, argues Pavel Kroupa.
 [Link](https://darkmattercrisis.wordpress.com/2022/06/18/70-the-list-of-flawed-mond-rebuttals/)
 
 The List of Flawed Falsification Claims about MOND [modified theory of
-Newton that can account data without dark matter hypothesis].. Modern
-theories in physics need to be tested and, if they significantly fail
-a test, discarded...
+Newton that can account for data without dark matter
+hypothesis].. Modern theories in physics need to be tested and, if
+they significantly fail a test, discarded...
 
 In this sense, the dark-matter based theories (case A above) have been
 rigorously and robustly falsified to any high degree of standard in
