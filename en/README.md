@@ -6,13 +6,6 @@ Politico: "Hakeem Jeffries on track to replace Pelosi"
 
 ---
 
-Jar Jar Ibrahim disciple was on *Rings of Power*.. No wonder the show
-reportedly sucked. I haven't seen it - likely won't.
-
-[[-]](https://youtu.be/YWisEBfNnFQ?t=224)
-
----
-
 The European Union is one step closer to securing the annual supply of
 two million tonnes of green hydrogen produced using electricity from
 wind farms and solar power plants in the steppes of Kazakhstan. The
@@ -24,6 +17,13 @@ Group, reached an investment agreement in Astana with the Kazakh
 government for the massive project.
 
 [[-]](https://balkangreenenergynews.com/eu-eyes-green-hydrogen-that-hyrasia-one-plans-to-produce-in-kazakh-steppes/)
+
+---
+
+Jar Jar Ibrahim disciple was on *Rings of Power*.. No wonder the show
+-reportedly- sucked. I haven't seen it
+
+[[-]](https://youtu.be/YWisEBfNnFQ?t=224)
 
 ---
 
