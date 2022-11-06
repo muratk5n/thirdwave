@@ -669,7 +669,7 @@ India, US, RU look good.. North Africa is in a bad shape.. Must be
 climate related (I dont mean climate 'change' - these countries lately
 were always in a bad shape most likely).
 
-<img width="340" src="https://pbs.twimg.com/media/FMpwIuhXsAMEx04?format=png&name=small"/>
+<img width="340" src="twimg/FMpwIuhXsAMEx04.png"/>
 
 [[-]](https://iopscience.iop.org/article/10.1088/1748-9326/8/1/014046#erl452631s3)
 

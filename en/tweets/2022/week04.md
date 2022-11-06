@@ -383,7 +383,7 @@ in the same vicinity before.
 
 ---
 
-<img width="200" src="https://pbs.twimg.com/media/FJw2UldXsAEsnFH?format=png&name=small"/>
+<img width="200" src="twimg/FJw2UldXsAEsnFH.png"/>
 
 "Due to the inexhaustible magnitude and usability of solar energy, the
 solar-driven two-step water-splitting thermochemical cycle is
@@ -406,7 +406,7 @@ enable 3.4 million tonnes of green hydrogen production nationwide by
 
 ♪♬ It's going down down down down ♪♬ 
 
-<img width="340" src="https://pbs.twimg.com/media/FJuLae5XMAM6zIx?format=png&name=small"/>
+<img width="340" src="twimg/FJuLae5XMAM6zIx.png"/>
 
 ---
 
@@ -518,7 +518,7 @@ inflation. There is a reverse relation between the 10-year treasury
 (rates) and gold price. Gold has gone lower from its 2020 highs, not
 higher.
 
-<img width="340" src="https://pbs.twimg.com/media/FJr_EGbXwAQEk3w?format=png&name=small"/>
+<img width="340" src="twimg/FJr_EGbXwAQEk3w.png"/>
 
 ---
 

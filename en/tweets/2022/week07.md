@@ -167,7 +167,7 @@ out during the Volkswagen emission cheating scandal.
 
 Gas is not clean. Fugitive methane emissions are a climate menace.
 
-Time for a boost of this incredible [graphic](https://pbs.twimg.com/media/EiuaeZPVoAEckhC?format=jpg&name=medium)"
+Time for a boost of this incredible [graphic](twimg/EiuaeZPVoAEckhC.jpg)"
 
 [[-]](https://twitter.com/justdanfornow/status/1309310657611706368)
 
@@ -206,8 +206,6 @@ Difficult situation on campus. Traffic jam of automated food delivery
 robots, apparently all stuck behind a carelessly discarded scooter. I
 just observed a couple of students clearing a path out of pity for the
 robots. This is our future, I guess"
-
-<img width="340" src="https://pbs.twimg.com/media/FLm9DCbVUAAIw_I?format=jpg&name=small"/>
 
 ---
 

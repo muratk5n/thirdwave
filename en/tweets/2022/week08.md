@@ -13,7 +13,7 @@ handling chemicals, storage, transport.
 Once US catches momentum it will be like nothing anyone has ever
 seen.. US is good at scale. 
 
-<img width="150" src="https://pbs.twimg.com/media/FD5oGr5XsAEuaFz?format=png&name=small"/>
+<img width="150" src="twimg/FD5oGr5XsAEuaFz.png"/>
 
 ---
 
@@ -128,7 +128,7 @@ Tony Burgos & His Swing Shift Orchestra - Little Girl \#music
 
 Unfair; but funny
 
-[[-]](https://pbs.twimg.com/media/FMZvpzzXsAETcJH?format=jpg&name=small)
+[[-]](twimg/FMZvpzzXsAETcJH.jpg)
 
 ---
 
@@ -156,7 +156,7 @@ industry, the company will deploy two Hyzon HyMax-250 fuel cell
 electric trucks, built on a 6×4 vehicle chassis, each with a range of
 up to 680 kilometres"
 
-<img width="340" src="https://pbs.twimg.com/media/FMXy2I7X0AY-grO?format=png&name=small"/>
+<img width="340" src="twimg/FMXy2I7X0AY-grO.png"/>
 
 ---
 
@@ -199,7 +199,7 @@ receiver is under development, a project funded by Australian
 Renewable Energy Agency (ARENA), by an innovative team of researchers
 at the University of Adelaide"
 
-<img width="340" src="https://pbs.twimg.com/media/FMWC6TsXoAMDs9Z?format=jpg&name=small"/>
+<img width="340" src="twimg/FMWC6TsXoAMDs9Z.jpg"/>
 
 [[-]](https://www.solarpaces.org/new-solar-receiver-for-thermochemistry-at-1000-c/)
 
@@ -261,7 +261,7 @@ play, and the attack plan cld be like this guy says.
 I made a basic map... This is just one very incomplete estimate of
 what the Russian op plan might look like"
 
-<img width="340" src="https://pbs.twimg.com/media/FMX2nWHXMAIn27A?format=jpg&name=small"/>
+<img width="340" src="twimg/FMX2nWHXMAIn27A.jpg"/>
 
 ---
 
@@ -468,7 +468,7 @@ Ah, I have it. Star Trek Discovery -- playfully called by many Trek
 fans as "STD". Created by franchise destroyers Jar Jar and the bitches
 around him.
 
-<img width="340" src="https://pbs.twimg.com/media/FMSZf6OX0Ac9fxp?format=jpg&name=medium"/>
+<img width="340" src="twimg/FMSZf6OX0Ac9fxp.jpg"/>
 
 ---
 
@@ -593,7 +593,7 @@ off more than half the countries, it should mean something.
 
 ---
 
-<img width="95%" src="https://pbs.twimg.com/media/FL4ZvylXwAUpWcm?format=png&name=small"/>
+<img width="95%" src="twimg/FL4ZvylXwAUpWcm.png"/>
 
 H2 View: "Renault has.. teased its concept-car of the future, equipped
 with a hydrogen engine"
@@ -658,7 +658,7 @@ in Riyadh, Saudi Arabia"
 
 ---
 
-Look at that [bad boy](https://pbs.twimg.com/media/FMA3m-DWUAMDe-D?format=jpg&name=small).
+Look at that [bad boy](twimg/FMA3m-DWUAMDe-D.jpg).
 Arrrr.. The wind cannot knock this down!
 
 ---
@@ -678,7 +678,7 @@ power cuts as lines were torn down and ancient trees keeled over"
 
 Lota mucking flame 
 
-[[-]](https://pbs.twimg.com/media/FL-TzH_XEAEg09O?format=jpg&name=small)
+[[-]](twimg/FL-TzH_XEAEg09O.jpg)
 
 ---
 
@@ -777,7 +777,7 @@ There is a legit underwater mountain in the middle of the Atlatic
 
 Sea Depth Map (from the [Economist](https://www.economist.com/1843/2014/12/27/the-first-map-of-the-depths))
 
-<img width="340" src="https://pbs.twimg.com/media/FL7uQFqXwAMW6Kg?format=jpg&name=small"/>
+<img width="340" src="twimg/FL7uQFqXwAMW6Kg.jpg"/>
 
 ---
 

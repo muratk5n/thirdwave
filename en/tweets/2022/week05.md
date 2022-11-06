@@ -155,7 +155,7 @@ of omicron and high booster coverage decouples infection and
 severity. While there are high case counts, the pressure on hospitals
 is lower than in previous waves"
 
-<img width="340" src="https://pbs.twimg.com/media/FKfUrEdXwAAq1tD?format=png&name=small"/>
+<img width="340" src="twimg/FKfUrEdXwAAq1tD.png"/>
 
 ---
 
@@ -502,7 +502,7 @@ For appliances built-in fuel-cell generates electricity from H2.
 
 Here I even picked the insulating material for ya
 
-<img width="200" src="https://pbs.twimg.com/media/FKLLpbWXIAQh8Xi?format=png&name=small"/>
+<img width="200" src="twimg/FKLLpbWXIAQh8Xi.png"/>
 
 "VIPs or Vacuum Insulated Panels are specially designed panels that use
 the insulation of a vacuum in a board shape"
@@ -523,7 +523,7 @@ profitable bidness.. TH can be shipped, exported right?
 Hydrogen-ready boiler from [Worchester Bosch](https://www.worcester-bosch.co.uk/hydrogen).
 Works on both natgas and green.
 
-<img width="200" src="https://pbs.twimg.com/media/FKLTkmOWUAEbCfR?format=jpg&name=small"/>
+<img width="200" src="twimg/FKLTkmOWUAEbCfR.jpg"/>
 
 ---
 

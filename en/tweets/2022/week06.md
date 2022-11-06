@@ -88,7 +88,7 @@ Renewables are at an abysmal level.
 
 World Energy Consumption by Source, Monthly (twh)
 
-<img width="340" src="https://pbs.twimg.com/media/FLQGtjrWUAIvLbw?format=png&name=small"/>
+<img width="340" src="twimg/FLQGtjrWUAIvLbw.png"/>
 
 [[-]](../../2019/05/stats.html#engconsumption)
 
@@ -510,7 +510,7 @@ have large effects"
 
 ---
 
-[Link](https://pbs.twimg.com/media/FK-476_WYAAT2pk?format=jpg&name=small)
+[Link](twimg/FK-476_WYAAT2pk.jpg)
 
 ---
 
@@ -541,7 +541,7 @@ With Germany setting up hydrogen offices from Moscow to Riyadh, one
 would think the government is banking on the gas being the new
 \#petroleum"
 
-<img width="85%" src="https://pbs.twimg.com/media/FKm4pe3WYAMkl-v?format=png&name=small"/>
+<img width="85%" src="twimg/FKm4pe3WYAMkl-v.png"/>
 
 [[-]](https://bit.ly/3AV1kvm)
 
