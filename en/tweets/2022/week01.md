@@ -31,13 +31,13 @@ solar tower. Heliostats are a critical component of CSP"
 
 \#parking
 
-[[-]](https://pbs.twimg.com/media/FHe7PYiVcAEoNw-?format=jpg&name=small)
+[[-]](twimg/FHe7PYiVcAEoNw-.jpg)
 
 ---
 
 \#printer \#internetofshit
 
-[[-]](https://pbs.twimg.com/media/FH5u-2TUYAoGnIP?format=jpg&name=small)
+[[-]](twimg/FH5u-2TUYAoGnIP.jpg)
 
 ---
 
@@ -280,7 +280,7 @@ Blast from the past \#1991
 
 US voters unelected the party at the helm during that event, one year later
 
-[[-]](https://pbs.twimg.com/media/FHi2oApXEAMmyxQ?format=jpg&name=small)
+[[-]](twimg/FHi2oApXEAMmyxQ.jpg)
 
 ---
 
@@ -408,7 +408,7 @@ h2, l2 = ax2.get_legend_handles_labels()
 plt.legend(h1+h2, l1+l2, loc=2)
 ```
 
-<img width="340" src="https://pbs.twimg.com/media/FH3t_kBWYAQ0ssu?format=png&name=small"/>
+<img width="340" src="twimg/FH3t_kBWYAQ0ssu.png"/>
 
 ---
 
@@ -502,7 +502,7 @@ Even *Wall E* showed some kind of satisfactory ending; couch potatos
 got out of their e-couches, arrived at a planet, something new
 began. 
 
-#thematrix
+\#thematrix
 
 ---
 
@@ -518,7 +518,7 @@ soldier, but returns, stays as a cleaner, while once in a while flies
 over the city to enjoy her specialness and uniqueness. People are not
 being harvested but have no idea what happened, things stay the same
 
-#thematrix
+\#thematrix
 
 ---
 
@@ -527,7 +527,7 @@ overbearing presence.. Director must have felt the only way to get out
 from under that is to reference it as another version, go a little
 meta
 
-#thematrix
+\#thematrix
 
 ---
 
@@ -539,7 +539,7 @@ destruction of the "system". The absence of that ending sapped the
 energy of the sequels, wout courage they ended up as neutered, cheap
 war movies with a few memorable action scenes
 
-#thematrix
+\#thematrix
 
 ---
 

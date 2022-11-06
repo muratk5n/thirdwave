@@ -37,21 +37,22 @@ if sys.argv[1] == 'pdf':
             print (cmd)                
             os.system(cmd)
         os.chdir(retpath)
-
     
 if sys.argv[1] == 'twimg':
     # python -u build.py twimg tweets/2022/week01.md
-    fin = sys.argv[2]
-    content = open(fin).read()
-    print (fin)
+    content = open(sys.argv[2]).read()
     res = re.findall('https://pbs.twimg.com(.*?)["\)]',content)
     for x in res:
-        print (x)
         fres = re.findall('format=(\w*)\&',x)
         print (fres[0])
         nres = re.findall('media\/(.*?)\?format',x)
         print (nres[0])
         url = "https://pbs.twimg.com" + x
+        print (url)
         fout = nres[0] + "." + fres[0]
         urllib.request.urlretrieve(url, "/tmp/twimg/" + fout)
-        break
+        content = content.replace(url,"twimg/" + fout)        
+    fout = open("/tmp/out.md","w")
+    fout.write(content)
+    fout.close()
+    
