@@ -21,7 +21,8 @@ government for the massive project.
 ---
 
 Jar Jar Ibrahim disciple was on *Rings of Power*.. No wonder the show
--reportedly- sucked. I haven't seen it
+-reportedly- sucked, clearly another Woke-Cuck production.. I haven't
+seen it
 
 [[-]](https://youtu.be/YWisEBfNnFQ?t=224)
 
