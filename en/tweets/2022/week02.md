@@ -72,7 +72,7 @@ Let's zoom in,
 df['twh'].tail(40).plot()
 ```
 
-<img width="340" src="https://pbs.twimg.com/media/FIzqj7lX0AIAS4t?format=png&name=small"/>
+<img width="340" src="twimg/FIzqj7lX0AIAS4t.png"/>
 
 Right there.. Peak on July, peak on January, peak on July, peak on
 January..  On and on it goes..
@@ -103,7 +103,7 @@ df['twh'] = df[1] * 0.29307 # 1 trillion btu to twh
 df['twh'].plot()
 ```
 
-<img width="340" src="https://pbs.twimg.com/media/FIzqh85WYAcYPO5?format=png&name=small"/>
+<img width="340" src="twimg/FIzqh85WYAcYPO5.png"/>
 
 ---
 
@@ -330,7 +330,7 @@ print (int(eng / 894), 'homes')
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/FIkMM21WQAAouE7?format=jpg&name=small"/>
+<img width="340" src="twimg/FIkMM21WQAAouE7.jpg"/>
 
 Quantum Fuel Systems: Quantum’s hydrogen .. trailers enable the
 distribution of a clean energy solution.. We’ve combined our 20+ years
@@ -451,7 +451,7 @@ Euler is the name of the game. Riemann, compressible - key words.
 Russian female journalists.. Ekaterina Kotrikadze, enthralling. She
 has this hyptnotizing vibe.. Vertigo bro.
 
-Oksana Boyko; I give a 10, stricly for the booty. [Boom!](https://pbs.twimg.com/media/FIG8am6XoAUu1bP?format=jpg&name=small)
+Oksana Boyko; I give a 10, stricly for the booty. [Boom!](twimg/FIG8am6XoAUu1bP.jpg)
 If any wider u'd need license plates for that ass. Hoooot-daam!
 
 ---
@@ -551,9 +551,9 @@ H2 View: "Aramco sponsors Dakar Rally’s first hydrogen racing truck"
 
 ---
 
-[Map](https://pbs.twimg.com/media/FIGS9apWQAEkT5u?format=jpg&name=small)
+[Map](twimg/FIGS9apWQAEkT5u.jpg)
 
-They are in the maximum sunshine [zone](https://pbs.twimg.com/media/FCtre5sWEAgFFp9?format=png&name=small).
+They are in the maximum sunshine [zone](twimg/FCtre5sWEAgFFp9.png).
 
 Build CSP on land, or floating panels. Ship ammonia.
 
@@ -635,7 +635,7 @@ had natgas, then some for heating, then it was everywhere. It probably
 helped to be the next door neighbor to the natgas export behemoth,
 Russia, for TR. Import graph below.
 
-[[-]](https://pbs.twimg.com/media/FIWKeMlWQAcT64T?format=jpg&name=small)
+[[-]](twimg/FIWKeMlWQAcT64T.jpg)
 
 ---
 
@@ -779,7 +779,7 @@ h2, l2 = ax2.get_legend_handles_labels()
 plt.legend(h1+h2, l1+l2, loc=2)
 ```
 
-<img width="340" src="https://pbs.twimg.com/media/FIb93e3X0AQ7biF?format=png&name=small"/>
+<img width="340" src="twimg/FIb93e3X0AQ7biF.png"/>
 
 ---
 
