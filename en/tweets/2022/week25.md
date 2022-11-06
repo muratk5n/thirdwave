@@ -248,7 +248,7 @@ Collapse'"
 
 NOT an article from the Onion"
 
-[[-]](https://pbs.twimg.com/media/FV4vjTVXoAMoyNh?format=jpg&name=small)
+[[-]](twimg/FV4vjTVXoAMoyNh.jpg)
 
 ---
 
@@ -273,7 +273,7 @@ go for it.
 
 ---
 
-[The Suwalki Gap](https://pbs.twimg.com/media/FV6sTunXgAAIiZW?format=jpg&name=medium)
+[The Suwalki Gap](twimg/FV6sTunXgAAIiZW.jpg)
 
 ---
 
@@ -716,7 +716,7 @@ its independence and Poland broke free from the Soviet orbit"
 Kaliningrad is RU territory but has no land connection to Russia.
 It sits at a tough spot. And Lithuania and Poland are both NATO.
 
-[Map](https://pbs.twimg.com/media/FVuV8SZXoAYL_vo?format=png&name=small)
+[Map](twimg/FVuV8SZXoAYL_vo.png)
 
 ---
 
@@ -833,7 +833,7 @@ other side of the wall and shoot bunch of people..
 Near the border, meaning the man was shot on **his** side of the wall,
 not on Israeli side.
 
-[[-]](https://pbs.twimg.com/media/FVrGm3HWAAACFOx?format=jpg&name=small)
+[[-]](twimg/FVrGm3HWAAACFOx.jpg)
 
 ---
 
@@ -1090,7 +1090,7 @@ h2, l2 = ax2.get_legend_handles_labels()
 plt.legend(h1+h2, l1+l2, loc=2)
 ```
 
-<img width="340" src="https://pbs.twimg.com/media/FVgvWwKUcAIfD3k?format=png&name=small"/>
+<img width="340" src="twimg/FVgvWwKUcAIfD3k.png"/>
 
 ---
 
