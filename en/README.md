@@ -96,6 +96,8 @@ denial about the falsification of the dark matter model is a question
 that requires both a sociological and philosophical explanation,
 argues Pavel Kroupa"
 
+[[-]](https://iai.tv/articles/dark-matter-doesnt-exist-auid-2180?_auid=2020)
+
 ---
 
 Good remix
