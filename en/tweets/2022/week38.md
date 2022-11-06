@@ -52,7 +52,7 @@ Moscow"
 
 Mad wind gusts
 
-[[-]](https://pbs.twimg.com/media/FdW9gavXoAA3im2?format=jpg&name=small)
+[[-]](twimg/FdW9gavXoAA3im2.jpg)
 
 ---
 
@@ -311,7 +311,7 @@ issue for Russia.
 
 \#Hulk
 
-[[-]](https://pbs.twimg.com/media/EJWxRTHVAAA0Y_6?format=png&name=small)
+[[-]](twimg/EJWxRTHVAAA0Y_6.png)
 
 ---
 
@@ -365,7 +365,7 @@ all-connected-all style. The latter would be "participatory" democracy
 the former representative. Star comm can lose messages in the middle
 (not listening) even that is preferable to higher density.
 
-[[-]](https://pbs.twimg.com/media/FdO5FHCWIAAUNRs?format=png&name=small)
+[[-]](twimg/FdO5FHCWIAAUNRs.png)
 
 ---
 

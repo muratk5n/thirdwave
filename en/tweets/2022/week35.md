@@ -172,7 +172,7 @@ Got all of that right? Right? Ok.. Moving on
 
 Excerpt, F&H paper
 
-<img width="340" src="https://pbs.twimg.com/media/FbjucJKX0AMIhm_?format=png&name=small"/>
+<img width="340" src="twimg/FbjucJKX0AMIhm_.png"/>
 
 ---
 
@@ -466,7 +466,7 @@ under UA control... But latest news suggest RU has this town.
 
 Major spike in \# of RU controlled towns
 
-[[-]](https://pbs.twimg.com/media/FbQ7o53XoAceBuX?format=png&name=small)
+[[-]](twimg/FbQ7o53XoAceBuX.png)
 
 ---
 
@@ -631,7 +631,7 @@ Scalia died shortly afterwards - historical note
 
 A DDV classic
 
-[[-]](https://pbs.twimg.com/media/D0-7dRpWoAAw_rr?format=jpg&name=small)
+[[-]](twimg/D0-7dRpWoAAw_rr.jpg)
 
 ---
 

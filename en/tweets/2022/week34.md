@@ -143,7 +143,7 @@ they found that modern AI offered virtually no advantage"
 
 Columbia Biz School - Python Beats Excel
 
-[[-]](https://pbs.twimg.com/media/Faw7QobWQAAoaPZ?format=jpg&name=small)
+[[-]](twimg/Faw7QobWQAAoaPZ.jpg)
 
 ---
 

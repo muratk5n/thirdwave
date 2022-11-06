@@ -323,7 +323,7 @@ cs = ['alexandroupoli','volos','souda','skyros','chalkidona']
 util.sm_plot_cities(38,24,0.8,"greece",cs)
 ```
 
-<img width="300" src="https://pbs.twimg.com/media/FZlTF1TXwAI3KrL?format=png&name=small"/>
+<img width="300" src="twimg/FZlTF1TXwAI3KrL.png"/>
 
 ---
 

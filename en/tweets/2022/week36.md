@@ -221,7 +221,7 @@ questioner. Also overall messaging was consistent.
 
 Online digital event \#GénérationHydrogène, I like the poster
 
-[[-]](https://pbs.twimg.com/media/Fb5xqlFWAAA8SDH?format=jpg&name=small)
+[[-]](twimg/Fb5xqlFWAAA8SDH.jpg)
 
 ---
 

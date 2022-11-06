@@ -220,7 +220,7 @@ Cell Bus, GOLDiON H18"
 
 ---
 
-Two degrees of seperation from the lithium boy [e-jagoff](https://pbs.twimg.com/media/EgPe-HTWkAAKbbl?format=jpg&name=small)
+Two degrees of seperation from the lithium boy [e-jagoff](twimg/EgPe-HTWkAAKbbl.jpg)
 
 ---
 
@@ -298,7 +298,7 @@ geo = [(48.7309677, 37.5836740),(49.992383834083824, 36.23871126844284)]
 u.sm_plot_ukr1('ukrdata/alt1-0913.csv',geo)
 ```
 
-<img width="340" src="https://pbs.twimg.com/media/FckVndGXkAYUx-6?format=png&name=small"/>
+<img width="340" src="twimg/FckVndGXkAYUx-6.png"/>
 
 ---
 
@@ -395,7 +395,7 @@ calling into reconsideration of monarchy’s lasting influences"
 
 Wah wah wah waaah
 
-<img width="340" src="https://pbs.twimg.com/media/Fcm4eJyWAAEUOqm?format=png&name=small"/>
+<img width="340" src="twimg/Fcm4eJyWAAEUOqm.png"/>
 
 ---
 
@@ -741,7 +741,7 @@ operating system"
 
 \#Unix 
 
-[[-]](https://pbs.twimg.com/media/FcPABUSXkAE8Yi1?format=jpg&name=small)
+[[-]](twimg/FcPABUSXkAE8Yi1.jpg)
 
 ---
 
