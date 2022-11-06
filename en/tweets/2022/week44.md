@@ -115,7 +115,7 @@ in October"
 
 Finally something good coming out of Volkswagen.. keep doing this and
 I'll stop calling you Nazi and stop sharing Van Wilder
-[pictures](tweets/2022/vanwilder2.jpeg).
+[pictures](vanwilder2.jpeg).
 
 H2 Central: "Volkswagen is working on a new fuel cell that is much
 cheaper than the current ones and promises hydrogen cars that can
