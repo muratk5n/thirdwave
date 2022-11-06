@@ -46,7 +46,12 @@ if sys.argv[1] == 'twimg':
     print (fin)
     res = re.findall('https://pbs.twimg.com(.*?)["\)]',content)
     for x in res:
+        print (x)
+        fres = re.findall('format=(\w*)\&',x)
+        print (fres[0])
+        nres = re.findall('media\/(.*?)\?format',x)
+        print (nres[0])
         url = "https://pbs.twimg.com" + x
-        print (url)
-        urllib.request.urlretrieve(url, "out.png")
+        fout = nres[0] + "." + fres[0]
+        urllib.request.urlretrieve(url, "/tmp/twimg/" + fout)
         break
