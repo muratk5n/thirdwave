@@ -59,9 +59,9 @@ Finally found some tallow sold as product.
 
 ---
 
-Complaining about a third term for Xi's said dictatorial regime.. What
-difference does it make for outsiders if in an already dictatorial
-system a leader serves a third term or not? 
+Complaining about a third term for Xi's regime.. What difference does
+it make for outsiders if in an already dictatorial system a leader
+serves a third term or not?
 
 ---
 
