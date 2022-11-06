@@ -60,7 +60,7 @@ through these JETPs"
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/FWjzSrBXEAAvsiu?format=jpg&name=small"/>
+<img width="340" src="twimg/FWjzSrBXEAAvsiu.jpg"/>
 
 via @elerianm
 
@@ -80,7 +80,7 @@ Aw shit
 
 Wah wah wah waaah
 
-<img width="340" src="https://pbs.twimg.com/media/FWgo4FsUIAUmcem?format=png&name=small"/>
+<img width="340" src="twimg/FWgo4FsUIAUmcem.png"/>
 
 ---
 
@@ -280,7 +280,7 @@ Kaliningrad"
 
 ---
 
-<img width="95%" src="https://pbs.twimg.com/media/FWcaeXTWYAEPxfQ?format=jpg&name=small"/>
+<img width="95%" src="twimg/FWcaeXTWYAEPxfQ.jpg"/>
 
 CleanTechnica: "Green Hydrogen In Play For Airbus Hydrogen Hub
 Scheme.. Air travel has been inching towards decarbonization..  but
@@ -305,7 +305,7 @@ network"
 
 ---
 
-<img width="98%" src="https://pbs.twimg.com/media/FWcYY-wXgAA0s3R?format=jpg&name=small"/>
+<img width="98%" src="twimg/FWcYY-wXgAA0s3R.jpg"/>
 
 Zawya: "Extreme E announced today a multi-year relationship with
 ENOWA, NEOM’s energy, water and hydrogen subsidiary, to introduce
@@ -542,8 +542,6 @@ They are right to doubt
 CNN: "Biden officials privately doubt that Ukraine can win back all of its territory"
 
 ---
-
-<img width="95%" src="https://pbs.twimg.com/card_img/1539729033411305475/49pJjrJE?format=jpg&name=small"/>
 
 IHS Markit: "Germany fast tracks proposal for Norwegian blue and green
 hydrogen pipeline.. Norway is seeking to 'rapidly' firm up plans to

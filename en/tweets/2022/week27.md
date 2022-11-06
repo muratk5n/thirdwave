@@ -397,7 +397,7 @@ hydrogen combustion technology, offering zero carbon emissions"
 
 ---
 
-<img width="240" src="https://pbs.twimg.com/media/FXDjOaLX0AEZjq3?format=png&name=small"/>
+<img width="240" src="twimg/FXDjOaLX0AEZjq3.png"/>
 
 H2 Central: "China Yuchai introduces China’s largest and highest
 horsepower hydrogen engine... With a displacement of 15.93 liters and
@@ -416,7 +416,7 @@ import util; df = util.get_eia("PET.EMM_EPM0_PTE_NUS_DPG.M")
 df.plot(grid=True,title='US Gas Price $/Gallon')
 ```
 
-<img width="340" src="https://pbs.twimg.com/media/FXDcWzuXkAERpSZ?format=png&name=small"/>
+<img width="340" src="twimg/FXDcWzuXkAERpSZ.png"/>
 
 ---
 
@@ -445,7 +445,7 @@ interesting..
 import util; df = util.get_fred(1980, 'INDPRO'); df.plot(grid=True)
 ```
 
-<img width="340" src="https://pbs.twimg.com/media/FXC8QuDXEAESNuH?format=png&name=small"/>
+<img width="340" src="twimg/FXC8QuDXEAESNuH.png"/>
 
 ---
 
@@ -518,7 +518,7 @@ amounts of dedicated renewables"
 
 ---
 
-[Methane Prolysis](https://pbs.twimg.com/media/FW6zGhaWAAcNDyO?format=jpg&name=medium)
+[Methane Prolysis](twimg/FW6zGhaWAAcNDyO.jpg)
 
 ---
 
@@ -739,7 +739,7 @@ Azerbaijani’s natural gas to EU member countries in Balkan region and
 Italy, will be upgraded for hydrogen transport, according to companies
 representatives"
 
-[[-]](https://pbs.twimg.com/media/FW2JUprXEAMyKQg?format=png&name=small)
+[[-]](twimg/FW2JUprXEAMyKQg.png)
 
 ---
 
