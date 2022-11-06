@@ -108,8 +108,7 @@ France Gall - Ella Elle L'a (MrCØ Rework) \#music
 
 ---
 
-First time Im hearing it, I bet the singer was a big shot back when in
-France.
+First time Im hearing it, I bet the singer was a big shot in France back when.
 
 ---
 
