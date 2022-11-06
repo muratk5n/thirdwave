@@ -50,7 +50,8 @@ denialism. This election is now about them, not the other guy.
 
 ---
 
-Dried food update: New oil mix, plus trahana. Pears instead of oranges.
+Dried food update: New oil mix, plus trahana. Pears, carrot instead of
+orange.
 
 [[-]](2022/07/dried-turkey-veg.html)
 
