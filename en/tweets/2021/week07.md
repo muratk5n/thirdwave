@@ -28,7 +28,7 @@ some damage on some autocrats, rogoue states?
 
 Nice location, saw in one scifi show, Widgeon Slough, Vancouver is it?
 
-<img width="340" src="https://pbs.twimg.com/media/EumhAR4WgAAAwuL?format=jpg&name=small"/>
+<img width="340" src="twimg/EumhAR4WgAAAwuL.jpg"/>
 
 ---
 
@@ -424,7 +424,7 @@ df.Trend.plot()
 plt.savefig('austin-feb.png')
 ```
 
-<img width="340" src="https://pbs.twimg.com/media/EuaOFq7XYAIWnP1?format=png&name=small"/>
+<img width="340" src="twimg/EuaOFq7XYAIWnP1.png"/>
 
 ---
 
@@ -566,7 +566,7 @@ ax.set_extent([94, 161, -10, 54], crs=ccrs.PlateCarree())
 plt.savefig('eq.png')
 ```
 
-<img width="340" src="https://pbs.twimg.com/media/EuU1vkRXUAEAAcx?format=jpg&name=small"/>
+<img width="340" src="twimg/EuU1vkRXUAEAAcx.jpg"/>
 
 ---
 
@@ -696,7 +696,7 @@ wld cause a convict. Now the spin can favor DJT
 
 Soon after prev quake tweet, > 7.0 shake. Two of them.
 
-<img width="340" src="https://pbs.twimg.com/media/EuH6wbhXIAI-FQU?format=png&name=small"/>
+<img width="340" src="twimg/EuH6wbhXIAI-FQU.png"/>
 
 ---
 

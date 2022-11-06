@@ -115,7 +115,7 @@ It looks like the raw data came from below
 
 Yeah... that shit needs to improve
 
-<img width="340" src="https://pbs.twimg.com/media/Es2xnbjXYAA1sUR?format=jpg&name=small"/>
+<img width="340" src="twimg/Es2xnbjXYAA1sUR.jpg"/>
 
 ---
 
@@ -549,7 +549,7 @@ latest polls?"
 
 "If u can keep it" is part retort
 
-<img width="340" src="https://pbs.twimg.com/media/EsQRs0hXEAMmvmH?format=jpg&name=small"/>
+<img width="340" src="twimg/EsQRs0hXEAMmvmH.jpg"/>
 
 ---
 

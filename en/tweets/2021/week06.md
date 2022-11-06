@@ -373,7 +373,7 @@ to six times atmospheric pressure, this is reacted with hydrogen to
 form magnesium hydride. The power paste is then produced with ester
 and metal salt.
 
-<img width="340" src="https://pbs.twimg.com/media/EtrzYmdWYAASk1-?format=png&name=small"/>
+<img width="340" src="twimg/EtrzYmdWYAASk1-.png"/>
 
 The power paste replaces the cylindrical pressure tank used in fuel
 cell cars and buses. Therefore, the institute says that this solution
@@ -414,7 +414,7 @@ Dog Perignon 🤣
 
 Chew toy that looks like a champaign bottle... Very good
 
-<img width="150" src="https://pbs.twimg.com/media/Ett3gfBWQAQB-f1?format=jpg&name=240x240"/>
+<img width="150" src="twimg/Ett3gfBWQAQB-f1.jpg"/>
 
 ---
 
@@ -487,7 +487,7 @@ plt.title('Monthly Earthquakes')
 plt.savefig('quake-series.png')
 ```
 
-<img width="340" src="https://pbs.twimg.com/media/EtrX4_wXIAE_NzV?format=png&name=small"/>
+<img width="340" src="twimg/EtrX4_wXIAE_NzV.png"/>
 
 ---
 
