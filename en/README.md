@@ -2,6 +2,10 @@
 
 ---
 
+Politico: "Hakeem Jeffries on track to replace Pelosi"
+
+---
+
 Jar Jar Ibrahim disciple was on *Rings of Power*.. No wonder the show
 reportedly sucked. I haven't seen it - likely won't.
 
