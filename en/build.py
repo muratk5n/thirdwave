@@ -52,7 +52,7 @@ if sys.argv[1] == 'twimg':
         fout = nres[0] + "." + fres[0]
         urllib.request.urlretrieve(url, "/tmp/twimg/" + fout)
         content = content.replace(url,"twimg/" + fout)        
-    fout = open("/tmp/out.md","w")
+    fout = open("/tmp/" + os.path.basename(sys.argv[2]),"w")
     fout.write(content)
     fout.close()
     

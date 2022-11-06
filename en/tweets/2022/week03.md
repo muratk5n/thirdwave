@@ -28,7 +28,7 @@ If it's good for one branch of gov, why not for another?
 Vox: "The filibuster has been around, in some version or another, since
 the mid-1800s. But it's never been used as constantly as it is today...
 
-<img width="340" src="https://pbs.twimg.com/media/FJiQWzxX0AA5N6A?format=jpg&name=small"/>
+<img width="340" src="twimg/FJiQWzxX0AA5N6A.jpg"/>
 
 'We have added a new veto point in American politics,' Gregory Koger,
 the author of "Filibustering: A Political History of Obstruction in
@@ -471,7 +471,7 @@ H2 Fuel News: "Britain’s gas grid will be ready to deliver a blend of
 
 India has good sunshine capacity as well, I mentioned the neighboring
 China more but the difference between them is about 30 Watts
-per square meter. See [map](https://pbs.twimg.com/media/FCtre5sWEAgFFp9?format=png&name=small)
+per square meter. See [map](twimg/FCtre5sWEAgFFp9.png)
 
 ---
 
@@ -597,7 +597,7 @@ paints PM as elite.
 Unbelievably, my $100 backyard weather station in Canberra, Australia,
 appears to have detected the pressure wave from the #Tonga volcano"
 
-<img width="300" src="https://pbs.twimg.com/media/FJIpEvQaQAYkhdQ?format=png&name=small"/>
+<img width="300" src="twimg/FJIpEvQaQAYkhdQ.png"/>
 
 ---
 
