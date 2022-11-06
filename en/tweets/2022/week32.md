@@ -168,14 +168,14 @@ Planned EastMed pipeline, first found problematic (by US/EU now back
 in play due to problems with Russian gas) goes right through
 disputed areas
 
-[[-]](https://pbs.twimg.com/media/FZf65PrWQAE8HFX?format=jpg&name=small)
+[[-]](twimg/FZf65PrWQAE8HFX.jpg)
 
 ---
 
 Greece and Egypt have a counter-agreement that contradicts Libya-TR,
 it's a big "EEZ off". 
 
-[[-]](https://pbs.twimg.com/media/FZf5voIXgAE71Wn?format=png&name=small)
+[[-]](twimg/FZf5voIXgAE71Wn.png)
 
 ---
 
@@ -183,7 +183,7 @@ That's why the so-called "Blue Homeland" EEZ was enacted unilaterally
 since 2013, and is now being followed. The corridor with Libya was
 agreed upon based on this EEZ.
 
-[[-]](https://pbs.twimg.com/media/FZf38WYXkAIRz4W?format=png&name=small)
+[[-]](twimg/FZf38WYXkAIRz4W.png)
 
 ---
 
@@ -192,7 +192,7 @@ islands close to AM restricting its access - combined with Cyprus
 (the whole of which is still considered Greek) the EEZs become massive.
 That ain't fair for homie.
 
-[[-]](https://pbs.twimg.com/media/FZf03hiWIAA6tIc?format=jpg&name=small)
+[[-]](twimg/FZf03hiWIAA6tIc.jpg)
 
 ---
 
@@ -202,7 +202,7 @@ That ain't fair for homie.
 exploitation of resources).
 
 If EEZ of two countries overlap, a line is drawn in the middle
-usually. Example Sri Lanka and India [here](https://pbs.twimg.com/media/FZf0YjmXoAYKHEh?format=png&name=small).
+usually. Example Sri Lanka and India [here](twimg/FZf0YjmXoAYKHEh.png).
 
 ---
 
