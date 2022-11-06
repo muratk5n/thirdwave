@@ -101,14 +101,6 @@ that requires both a sociological and philosophical explanation"
 
 ---
 
-Good remix
-
-France Gall - Ella Elle L'a (MrCØ Rework) \#music
-
-[[-]](https://youtu.be/OAlTZwInEuc)
-
----
-
 First time Im hearing it, I bet the singer was a big shot in France back when.
 
 ---
