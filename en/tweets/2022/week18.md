@@ -204,7 +204,7 @@ to take part in Chinese megaprojects"
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/FR2-MChXMAAlc1F?format=jpg&name=small"/>
+<img width="340" src="twimg/FR2-MChXMAAlc1F.jpg"/>
 
 "Revolutionary liquid hydrogen tanker to scale hydrogen adoption in the
 mobility market.. C-Job Naval Architects has.. co-designed [the
@@ -504,7 +504,7 @@ THE GRID - Sci-Fi Short Film
 
 That guy totally looks like Saddam \#stvff
 
-[[-]](https://pbs.twimg.com/media/FRruCr0WUAAbSU9?format=png&name=small)
+[[-]](twimg/FRruCr0WUAAbSU9.png)
 
 ---
 
@@ -779,7 +779,7 @@ for city in ['donetsk','luhansk','volnovakha','lyman']:
 
 Yea.. not looking good; Lyman is nearly inside that front line
 
-[[-]](https://pbs.twimg.com/media/FRp3hwRWQAAS9k4?format=png&name=small)
+[[-]](twimg/FRp3hwRWQAAS9k4.png)
 
 ---
 
