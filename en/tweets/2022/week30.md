@@ -539,7 +539,7 @@ obviously jives with my toolset.
 
 ---
 
-[Link](https://pbs.twimg.com/media/FYnxj9BXgAI8kqb?format=png&name=small)
+[Link](twimg/FYnxj9BXgAI8kqb.png)
 
 ---
 
@@ -944,7 +944,7 @@ Futures Eurostoxx is down since the start of the UKR-RU war.
 import util; df = util.get_yahoofin(2018, "^STOXX50E"); df.plot(grid=True);
 ```
 
-<img width="340" src="https://pbs.twimg.com/media/FYkpNAaXkAAZju5?format=png&name=small"/>
+<img width="340" src="twimg/FYkpNAaXkAAZju5.png"/>
 
 ---
 

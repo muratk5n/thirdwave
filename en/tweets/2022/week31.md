@@ -348,7 +348,7 @@ DATE
 2022-05-01  43864.418558
 ```
 
-[[-]](https://pbs.twimg.com/media/FZLpzsNWIAweDZa?format=png&name=small)
+[[-]](twimg/FZLpzsNWIAweDZa.png)
 
 ---
 
@@ -537,7 +537,7 @@ eight-metre high metal fence surrounds the Gharib family home in the
 occupied West Bank. To reach it they must pass through a gate remotely
 controlled by Israeli security forces"
 
-[[-]](https://pbs.twimg.com/media/FZFdyBCXwAQFYKg?format=jpg&name=small)
+[[-]](twimg/FZFdyBCXwAQFYKg.jpg)
 
 ---
 
@@ -604,7 +604,7 @@ international waters
 
 ---
 
-But China says, no, [all that shit](https://pbs.twimg.com/media/FZIt5JHXgAA4COR?format=png&name=small) 
+But China says, no, [all that shit](twimg/FZIt5JHXgAA4COR.png) 
 is mine
 
 ---
@@ -612,7 +612,7 @@ is mine
 UN recognized maritime borders in the SCC based on 12 mile
 rule.. Looks fair
 
-[[-]](https://pbs.twimg.com/media/FZItfqnWIAAxvOd?format=png&name=small)
+[[-]](twimg/FZItfqnWIAAxvOd.png)
 
 ---
 
@@ -620,7 +620,7 @@ Claims on the South China Sea.. from [paper](https://www.researchgate.net/public
 Pretty much everyone's claimed sea space overlap and of course,
 there is oil and gas involved.
 
-[[-]](https://pbs.twimg.com/media/FZGH3_eWIAI0Vqz?format=png&name=small)
+[[-]](twimg/FZGH3_eWIAI0Vqz.png)
 
 ---
 
@@ -716,7 +716,7 @@ Hopefully Wagner doesn't sabotage that pipeline.
 
 ---
 
-[Link](https://pbs.twimg.com/media/FY2MsoEXoAMjv5-?format=jpg&name=small)
+[Link](twimg/FY2MsoEXoAMjv5-.jpg)
 
 ---
 
@@ -797,7 +797,7 @@ Brexit has provided opportunities"
 
 That looks nice \#taipei
 
-[[-]](https://pbs.twimg.com/media/FY8Go4GWIAENqVW?format=jpg&name=small)
+[[-]](twimg/FY8Go4GWIAENqVW.jpg)
 
 ---
 
@@ -831,7 +831,7 @@ of US military, but still through sheer numbers it is effective.
 ---
 
 It wont; RU can still hit transport with anti-ship missiles in Crimea,
-and Kherson. See [here](https://pbs.twimg.com/media/FY5ZWQKWIAE2LD_?format=jpg&name=small).
+and Kherson. See [here](twimg/FY5ZWQKWIAE2LD_.jpg).
 
 "Ukraine retaking of the Snake Island will help ease the blockade of
 grain shipments"
