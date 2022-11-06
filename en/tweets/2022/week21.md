@@ -37,7 +37,7 @@ The grid 'cannot take it' because it is defective, inferior
 technology. Need to transmit molecules (renewable gas), and convert to
 electricity as required within cities. The crux of all storage,
 transmission, and even end-use needs to be based on molecules. It will
-be more [efficient](https://pbs.twimg.com/media/EvdKNhvXAAE9Rr2?format=png&name=small)
+be more [efficient](twimg/EvdKNhvXAAE9Rr2.png)
 that way.
 
 "We will bring more renewables online but the grid won't take it, so we
@@ -213,7 +213,7 @@ when their shitcos were up 10x the market was being totally rational"
 
 via @KailashConcepts
 
-[CVNA](https://pbs.twimg.com/media/FTjTvnRUAAE7xN3?format=png&name=small)
+[CVNA](twimg/FTjTvnRUAAE7xN3.png)
 
 ---
 
@@ -966,7 +966,7 @@ would matter to them but at what cost.
 
 (Orig map orientation was screwed up, pic rotated, the text is off)
 
-[[-]](https://pbs.twimg.com/media/FTYUb8PX0AA4P_5?format=jpg&name=small)
+[[-]](twimg/FTYUb8PX0AA4P_5.jpg)
 
 ---
 
