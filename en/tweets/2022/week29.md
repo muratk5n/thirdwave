@@ -560,7 +560,7 @@ That BP data file truly has everything.. Oil reserve levels are on it too
 
 ---
 
-[Link](https://pbs.twimg.com/media/FYBx3jlXgAQRREp?format=jpg&name=small)
+[Link](twimg/FYBx3jlXgAQRREp.jpg)
 
 ---
 
@@ -615,7 +615,7 @@ DATE
 dtype: float64
 ```
 
-<img width="340" src="https://pbs.twimg.com/media/FYDrwJLXwAACm3e?format=png&name=small"/>
+<img width="340" src="twimg/FYDrwJLXwAACm3e.png"/>
 
 ---
 
@@ -694,7 +694,7 @@ others, and allowing it to be easily removed from the mill. The
 process can be repeated over several stages to separate the gases one
 by one.
 
-<img width="200" src="https://pbs.twimg.com/media/FX9zA-MWAAAxXrO?format=jpg&name=small"/>
+<img width="200" src="twimg/FX9zA-MWAAAxXrO.jpg"/>
 
 All up, the process consumes 76.8 KJ/s to store and separate 1000L of
 gases, which means it uses at least 90 per cent less than the current
@@ -840,7 +840,7 @@ interest in used cars rather than new cars?
 import util; df = util.get_fred(2010,['CUSR0000SETA02']); df.plot()
 ```
 
-[[-]](https://pbs.twimg.com/media/FX-Ikn9X0AAvwyY?format=png&name=small)
+[[-]](twimg/FX-Ikn9X0AAvwyY.png)
 
 ---
 
@@ -851,7 +851,7 @@ still buying..
 import util; df = util.get_fred(2010,['XTEXVA01CNM667S']); df.plot()
 ```
 
-[[-]](https://pbs.twimg.com/media/FX9DuUnWYAA43-N?format=png&name=small)
+[[-]](twimg/FX9DuUnWYAA43-N.png)
 
 ---
 
@@ -884,7 +884,7 @@ DATE
 2022-05-01  0.387325  0.612675
 ```
 
-![](https://pbs.twimg.com/media/FX9DN66WIAIHZY8?format=png&name=small)
+![](twimg/FX9DN66WIAIHZY8.png)
 
 ---
 
@@ -900,7 +900,7 @@ Why a 2022 Recession Would Be Unlike Any Other
 
 Yo that one area near Baghdad is like 44 degrees C.
 
-[[-]](https://pbs.twimg.com/media/FX9Ja0wWQAAKLoX?format=png&name=small)
+[[-]](twimg/FX9Ja0wWQAAKLoX.png)
 
 ---
 
@@ -1219,7 +1219,7 @@ Jens Buchert - Dominion \#music
 The display is approx the size of a small smartphone. Extremely compact.
 The green piece is the RPi.
 
-[[-]](https://pbs.twimg.com/media/FXt5w2WVQAE80gK?format=jpg&name=small)
+[[-]](twimg/FXt5w2WVQAE80gK.jpg)
 
 ---
 

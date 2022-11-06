@@ -440,7 +440,7 @@ Available materials throughout history, strength/density graph
 
 We've discovered some interesting new materials eh?
 
-[[-]](https://pbs.twimg.com/media/FXd7Ba1WAAAWvvN?format=jpg&name=medium)
+[[-]](twimg/FXd7Ba1WAAAWvvN.jpg)
 
 ---
 
@@ -756,8 +756,8 @@ flight by 2023 with new US Air Force contract"
 
 ---
 
-The grid even looks like shit. [Seriously](https://pbs.twimg.com/media/FXSTCWYWAAIHhx1?format=jpg&name=small). 
-But a [pipeline](https://pbs.twimg.com/media/FMA3m-DWUAMDe-D?format=jpg&name=small),
+The grid even looks like shit. [Seriously](twimg/FXSTCWYWAAIHhx1.jpg). 
+But a [pipeline](twimg/FMA3m-DWUAMDe-D.jpg),
 lookit. Straightforward, efficient.
 
 ---
