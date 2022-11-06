@@ -17,12 +17,11 @@ veg/fruit raw eases the blending process, through their water). Now
 blend (hand-held blender works well). Put the mix into the drier at 55
 degrees C and dry for 7-8 hours.
 
-Seperately mix olive oil and tallow, place in oven 5 mins. Melted oils
-mix. Take oil, mix, and now pour it on dried poultry [2].
+Seperately mix olive oil and tallow, place in oven 5 mins, now pour on
+on dried poultry [2].
 
-One can consume end product as-is, or inside other soups.. Take some
-Greek trahana [1], pour hot water along with dried poultry, it's a
-stew.
+One can consume end product as-is, or w other dried soups eg Greek
+trahana [1], add both, pour hot water, it's a quick stew.
 
 Reference
 
