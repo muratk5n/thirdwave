@@ -54,7 +54,7 @@ Energy reportedly going ahead with drilling
 
 Blocks - apparently exploration of Blocks 6 and 3 caused tensions
 
-[[-]](https://pbs.twimg.com/media/FRdLQEPXMAAiTsm?format=jpg&name=small)
+[[-]](twimg/FRdLQEPXMAAiTsm.jpg)
 
 ---
 
@@ -136,7 +136,7 @@ econ can pay a huge price for it.
 
 ---
 
-[Link](https://pbs.twimg.com/media/FRfX_8CWYAYV15J?format=png&name=small)
+[Link](twimg/FRfX_8CWYAYV15J.png)
 
 ---
 
@@ -180,7 +180,7 @@ the same time, student loan defaults soared. So did college tuition"
 Tuition graph for private colleges - the first critical rise happens
 during the 70s
 
-[[-]](https://pbs.twimg.com/media/FRfUD4KXMAAjSjj?format=png&name=small)
+[[-]](twimg/FRfUD4KXMAAjSjj.png)
 
 ---
 
@@ -324,7 +324,7 @@ different fission material can fly. That would be a new argument.
 
 High torium concentration in US, in states NV, UT, AZ, CO, KS, WY
 
-[[-]](https://pbs.twimg.com/media/FRS6EeRXoAAJjvb?format=jpg&name=small)
+[[-]](twimg/FRS6EeRXoAAJjvb.jpg)
 
 ---
 
@@ -445,7 +445,7 @@ the latter.
 
 \#Rolle \#MVT 
 
-[[-]](https://pbs.twimg.com/media/FRVjzP4XIAE9IXf?format=jpg&name=small)
+[[-]](twimg/FRVjzP4XIAE9IXf.jpg)
 
 ---
 
@@ -527,7 +527,7 @@ In 🇸🇪 and 🇫🇮 gas network operators present the Nordic Hydrogen Route
 - a local demand of 65 TWh of H2 (2 Mt) at 2050
 - a reduction of 20 Mt of CO2"
 
-[[-]](https://pbs.twimg.com/media/FRLhBPPXIAEQRM0?format=jpg&name=small)
+[[-]](twimg/FRLhBPPXIAEQRM0.jpg)
 
 ---
 
@@ -630,7 +630,7 @@ Madagascar in food trouble.. A lot of regions there with food security
 problems, i.e. hunger. How hard is it to ship bunch of dried meat,
 fruit to this place?
 
-[[-]](https://pbs.twimg.com/media/FRIE2qWXsAASg2o?format=png&name=small)
+[[-]](twimg/FRIE2qWXsAASg2o.png)
 
 ---
 
@@ -698,7 +698,7 @@ Solomon Islands would be a 'red line' for his government"
 
 ---
 
-[Link](https://pbs.twimg.com/media/FRP_Wc9XEAAFFLD?format=png&name=small)
+[Link](twimg/FRP_Wc9XEAAFFLD.png)
 
 ---
 
@@ -851,14 +851,14 @@ The fascist coup of 1980 fueled PKKs rise
 Fields connected by pipeline, did not help patch things up between all
 stakeholders?
 
-[[-]](https://pbs.twimg.com/media/FQ28zalWQAA0C7w?format=png&name=small)
+[[-]](twimg/FQ28zalWQAA0C7w.png)
 
 ---
 
 Post Arab Spring PKK spread to Sinjar, near Syria (red cross in map),
 helping anti-ISIS fight there, after the fight they stayed. Then they
 linked with Syrian NE. Then the sister org there declared autonomy, 2017.
-Territory where PKK / sister YPG is active is in [yellow](https://pbs.twimg.com/media/FQ28SJdXoAEcSjR?format=jpg&name=small).
+Territory where PKK / sister YPG is active is in [yellow](twimg/FQ28SJdXoAEcSjR.jpg).
 Lots of oil/gas.
 
 [[-]](https://www.crisisgroup.org/europe-central-asia/western-europemediterranean/turkey/turkeys-pkk-conflict-regional-battleground-flux)
@@ -892,7 +892,7 @@ lon,lat = d['qandil']; plt.plot(lat,lon,'rd')
 lon,lat = d['sinjar']; plt.plot(lat,lon,'rx')
 ```
 
-<img width="340" src="https://pbs.twimg.com/media/FQ5hHcJXEAYefG6?format=png&name=small"/>
+<img width="340" src="twimg/FQ5hHcJXEAYefG6.png"/>
 
 The darker green areas are Kurdish regions of Iraq, recognized by
 central gov, with three governates, associated with two seperate

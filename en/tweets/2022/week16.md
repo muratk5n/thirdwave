@@ -124,7 +124,7 @@ It's good to hear but from a supposedly con party?
 WOW. Bloomberg finally opensourced memray—a new versatile memory
 profile for Python. Can't way to use it"
 
-<img width="340" src="https://pbs.twimg.com/media/FQz1nTZUYAENhyy?format=jpg&name=small"/>
+<img width="340" src="twimg/FQz1nTZUYAENhyy.jpg"/>
 
 ---
 
@@ -146,7 +146,7 @@ protein content; cant possibly get more than 30% protein from red meat
 
 Many simple dishes out there. Toss raw spinach, diced onions, some
 olive oil together, cook 5 mins medium heat. Wait until cold, mix in
-plain yogurt. [Boom](https://pbs.twimg.com/media/FQm9U8BWUAcMm_F?format=jpg&name=small).
+plain yogurt. [Boom](twimg/FQm9U8BWUAcMm_F.jpg).
 
 Similar to Persian borani, Greeks have a version too. Rich in lutein,
 iron and with yogurt u get lots of calcium, protein.
