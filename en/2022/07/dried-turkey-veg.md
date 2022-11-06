@@ -20,11 +20,9 @@ degrees C and dry for 7-8 hours.
 Seperately mix olive oil and tallow, place in oven 5 mins. Melted oils
 mix. Take oil, mix, and now pour it on dried poultry [2].
 
-Note: One can consume end product as-is, or inside other soups.. Take
-some Greek trahana [1], pour hot water along with dried poultry,
-creating a quick stew that can be consumed anywhere. Trahana, being a
-dried product itself, can also be carried, preserved along with the
-food item above.
+One can consume end product as-is, or inside other soups.. Take some
+Greek trahana [1], pour hot water along with dried poultry, it's a
+stew.
 
 Reference
 
