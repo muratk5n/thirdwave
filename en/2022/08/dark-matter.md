@@ -15,3 +15,21 @@ community is in denial about the falsification of the dark matter
 model is a question that requires both a sociological and
 philosophical explanation, argues Pavel Kroupa.
 
+[Link](https://darkmattercrisis.wordpress.com/2022/06/18/70-the-list-of-flawed-mond-rebuttals/)
+
+The List of Flawed Falsification Claims about MOND [modified theory of
+Newton that can account data without dark matter hypothesis].. Modern
+theories in physics need to be tested and, if they significantly fail
+a test, discarded...
+
+In this sense, the dark-matter based theories (case A above) have been
+rigorously and robustly falsified to any high degree of standard in
+the physical sciences (see previous and next post). What about MOND
+(theory B above)? It too is a physical theory allowing predictions. It
+too can be ruled out.
+
+Srikanth Togere Nagesh has put a large effort to track down and
+document the published falsifications of MOND. It turns out that the
+claimed falsifications of MOND have all been shown, in the published
+scientific research literature via rebuttals, to be flawed.
+
