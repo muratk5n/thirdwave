@@ -118,7 +118,7 @@ as much as $4 trillion (!) on infrastructure"
 
 Windy day in Washington
 
-<img width="340" src="https://pbs.twimg.com/media/EsLzcCaXAAAi9rX?format=png&name=small"/>
+<img width="340" src="twimg/EsLzcCaXAAAi9rX.png"/>
 
 ---
 
@@ -381,7 +381,7 @@ That area is always windy as fuck
 
 East of Sri Lanka, Bay of Bengal.
 
-<img width="340" src="https://pbs.twimg.com/media/Er6-xEzW8AE3h-T?format=png&name=small"/>
+<img width="340" src="twimg/Er6-xEzW8AE3h-T.png"/>
 
 ---
 

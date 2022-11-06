@@ -168,7 +168,7 @@ Im just kidding man...  🤣 🤣 🤣
 
 ---
 
-Conceded? Losah! [LOooooSSAaaah](https://pbs.twimg.com/media/ErMiqlAXAAEjz6a?format=jpg&name=small)
+Conceded? Losah! [LOooooSSAaaah](twimg/ErMiqlAXAAEjz6a.jpg)
 
 ---
 
@@ -245,7 +245,7 @@ It worked :) Great
 
 2022 is going to have some many puppy/dog ads now"
 
-<img width="200" src="https://pbs.twimg.com/media/ErDwfpRW8AEVGyp?format=jpg&name=small"/>
+<img width="200" src="twimg/ErDwfpRW8AEVGyp.jpg"/>
 
 ---
 

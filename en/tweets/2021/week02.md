@@ -87,7 +87,7 @@ prices. Turns out diversification isn't that hard..."
 
 ---
 
-<img width="250" src="https://pbs.twimg.com/media/Errpre1XUAAd36y?format=jpg&name=small"/>
+<img width="250" src="twimg/Errpre1XUAAd36y.jpg"/>
 
 ---
 
@@ -248,7 +248,7 @@ Oz shark attack. In a river!
 
 New station, Berkeley CA
 
-<img width="340" src="https://pbs.twimg.com/media/Erkr158VgAARFrO?format=jpg&name=small"/>
+<img width="340" src="twimg/Erkr158VgAARFrO.jpg"/>
 
 ----
 
