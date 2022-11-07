@@ -365,7 +365,7 @@ modeldate
 Name: net, dtype: float64
 ```
 
-<img width="340" src="https://pbs.twimg.com/media/FGT6gY9XEAURRa9?format=png&name=small"/>
+<img width="340" src="twimg/FGT6gY9XEAURRa9.png"/>
 
 ---
 

@@ -97,7 +97,7 @@ Omicron thread. Data so far "suggests milder illness".
 
 ---
 
-<img width="95%"  src="https://pbs.twimg.com/media/FGJeII6WYAApacY?format=jpg&name=small"/>
+<img width="95%"  src="twimg/FGJeII6WYAApacY.jpg"/>
 
 ---
 
@@ -273,7 +273,7 @@ old H2O -- a liquid.
 It looks fluidic to me, especially see ones with closer shots, there
 are like waves and shit in there 
 
-<img width="340" src="https://pbs.twimg.com/media/FF-5fySXIAIdOH4?format=jpg&name=medium"/>
+<img width="340" src="twimg/FF-5fySXIAIdOH4.jpg"/>
 
 ---
 
@@ -381,7 +381,7 @@ in [MH370] cargo"
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/FF165CoXoAAus0z?format=jpg&name=small"/>
+<img width="340" src="twimg/FF165CoXoAAus0z.jpg"/>
 
 ---
 
@@ -502,7 +502,7 @@ df = pd.read_csv('../../2021/12/empires.csv',sep=';')
 df.Duration.hist(bins=5)
 ```
 
-<img width="200" src="https://pbs.twimg.com/media/FF5RUwoWYAEafqk?format=png&name=small"/>
+<img width="200" src="twimg/FF5RUwoWYAEafqk.png"/>
 
 ---
 
@@ -586,7 +586,7 @@ Dennis Miller on RT America?
 
 ---
 
-Looking at the [sunshine map](https://pbs.twimg.com/media/FCtre5sWEAgFFp9?format=png&name=small)
+Looking at the [sunshine map](../2022/twimg/FCtre5sWEAgFFp9.png)
 for Africa again, the four countries with maximum sunshine are Libya,
 Egypt, Chad, Sudan. All had lots of unrest recently.. In the South,
 Angola, Namibia, Tanzania.
