@@ -433,7 +433,7 @@ From UK climate protests.. Fantastic.
 
 Iconic shot..."
 
-<img width="400" src="https://pbs.twimg.com/media/EGokuM4XYAQfIVa?format=jpg&name=900x900"/>
+<img width="400" src="twimg/EGokuM4XYAQfIVa.jpg"/>
 
 ---
 

@@ -167,7 +167,7 @@ scaffolding" -- Meyer, *Matrix Analysis and Applied Linear Algebra*
 
 ---
 
-<img width="450" src="https://pbs.twimg.com/media/EKzbiaPXYAA_nua.jpg:large"/>
+<img width="450" src="twimg/EKzbiaPXYAA_nua.jpg_large"/>
 
 ---
 

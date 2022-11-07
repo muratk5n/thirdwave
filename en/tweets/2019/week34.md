@@ -376,7 +376,7 @@ Tweet 2: We need four rate cuts and maybe some quantitative easing, too"
 
 What is this an open laundromat? Ah no it's BEV owners charging their BEVs.
 
-<img width="400" src="https://pbs.twimg.com/media/ECWNovcXsAI52PR?format=jpg" />
+<img width="400" src="twimg/ECWNovcXsAI52PR.jpeg" />
 
 ---
 

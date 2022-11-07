@@ -409,7 +409,7 @@ s['ewm5'] = s['Adj Close'].ewm(span=5).mean()
 s[['Adj Close','ewm5']].tail(30).plot()
 ```
 
-<img width="400" src="https://pbs.twimg.com/media/EKJxJ0ZXYAAEYo4?format=png&name=small"/>
+<img width="400" src="twimg/EKJxJ0ZXYAAEYo4.png"/>
 
 ---
 
