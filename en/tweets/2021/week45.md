@@ -34,7 +34,7 @@ They make this stuff for children?
 
 Good saying BTW
 
-[Image](https://pbs.twimg.com/media/FD1MrJOXoAkiPb0?format=jpg&name=small)
+[Image](twimg/FD1MrJOXoAkiPb0.jpg)
 
 ---
 
@@ -65,13 +65,13 @@ Kava Kava - Beats For Cheats \#music
 
 China: Tibet, Qinghai, Sichuan, Shaanxi. All have a lot of potential. 
 
-<img width="150" src="https://pbs.twimg.com/media/FD5unTVXsAUe4PI?format=png&name=small"/>
+<img width="150" src="twimg/FD5unTVXsAUe4PI.png"/>
 
 ---
 
 Here the US regions ripe for installations: CA, NV, UT, AZ, NM, even CO. 
 
-<img width="150" src="https://pbs.twimg.com/media/FD5oGr5XsAEuaFz?format=png&name=small"/>
+<img width="150" src="twimg/FD5oGr5XsAEuaFz.png"/>
 
 ---
 
@@ -264,7 +264,7 @@ could be located at the port, on the New South Wales coast"
 
 Data will be made available upon reasonable request"
 
-<img width="200" src="https://pbs.twimg.com/media/FBbje6_WUAcQm2f?format=jpg&name=small"/>
+<img width="200" src="twimg/FBbje6_WUAcQm2f.jpg"/>
 
 ---
 
@@ -491,7 +491,7 @@ pipeline network, more than enough for night time usage.
 
 CSP plant in Chile
 
-<img width="340" src="https://pbs.twimg.com/media/FDh3C9DWQAsX4ux?format=jpg&name=small"/>
+<img width="340" src="twimg/FDh3C9DWQAsX4ux.jpg"/>
 
 ---
 

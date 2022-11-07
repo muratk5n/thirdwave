@@ -45,7 +45,7 @@ That patch of 250 km by 250 km can generate 25 Petawatt-hours in a
 year. More than enough for the entire world.  From
 [vid](https://youtu.be/gtmWGPaDkoI?t=417).
 
-<img width="200" src="https://pbs.twimg.com/media/FCtvwEsXMAYg9Tp?format=png&name=small"/>
+<img width="200" src="twimg/FCtvwEsXMAYg9Tp.png"/>
 
 ---
 
@@ -144,7 +144,7 @@ Al Monitor: "Israelis fed up with racist, anti-Muslim behavior of soccer fans"
 
 ---
 
-The map shared [before](https://pbs.twimg.com/media/FCtre5sWEAgFFp9?format=png&name=small)
+The map shared [before](../2022/twimg/FCtre5sWEAgFFp9.png)
 says sunlight radiation at maximum is ~300 W/m2. The number we used
 previously  ~1000 W/m2 is widely known, sun at its zenith, an ideal
 situation. For daily calculations you factor in sun availability,
@@ -169,7 +169,7 @@ the UK by 2030 as a result of a new agreement inked..  between @bp and
 ---
 
 Sea surface has lots of potential.. That "hotspot" area on the Pacific, is at
-roughly latitude -10.0 longitude -120.0, [map](https://pbs.twimg.com/media/FCtt8adWEAEC8yi?format=png&name=small).
+roughly latitude -10.0 longitude -120.0, [map](twimg/FCtt8adWEAEC8yi.png).
 Floating panels? Ship green ammonia, H2 from there to South America, or to Japan.
 
 ---
@@ -191,7 +191,7 @@ Arabia, and Oz.
 Average solar radiation map 1990 -2004, shows which regions get
 the most sunlight. Took it from McFarlane [presentation](https://youtu.be/gtmWGPaDkoI?t=367)
 
-<img width="340" src="https://pbs.twimg.com/media/FCtre5sWEAgFFp9?format=png&name=900x900"/>
+<img width="340" src="twimg/FCtre5sWEAgFFp9.png"/>
 
 ---
 
@@ -322,7 +322,7 @@ Green Tech Media: "The EU wants 40 gigawatts of electrolyzers installed within i
 Amazingly comprehensive map of every country in the world that uses
 the MMDDYYYY format"
 
-<img width="340" src="https://pbs.twimg.com/media/FCedsRDWQAEoBFn?format=jpg&name=small"/>
+<img width="340" src="twimg/FCedsRDWQAEoBFn.jpg"/>
 
 ---
 
@@ -341,7 +341,7 @@ indentation.
 
 ---
 
-And that's [Python](https://pbs.twimg.com/media/FCYkRHfXsAguw2Y?format=jpg&name=small) 🐍
+And that's [Python](twimg/FCYkRHfXsAguw2Y.jpg) 🐍
 
 \#upgrade
 
@@ -374,7 +374,7 @@ Military Deployment [stats](2019/05/confstats.html#gdtroop)
 
 They call this a 'free market' — I call it a cartel"
 
-<img width="340" src="https://pbs.twimg.com/media/FCZ0caPWQA4j1b1?format=png&name=small"/>
+<img width="340" src="twimg/FCZ0caPWQA4j1b1.png"/>
 
 ---
 

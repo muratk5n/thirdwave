@@ -48,7 +48,7 @@ quash this profession as we know it.
 I learned DEs from his lecture.. fantastic teacher. I bet these videos
 will continue to teach even after his passing. RIP
 
-<img width="200" src="https://pbs.twimg.com/media/FDSOcwPX0AQThZ8?format=jpg&name=small"/>
+<img width="200" src="twimg/FDSOcwPX0AQThZ8.jpg"/>
 
 "@MITOCW
 
