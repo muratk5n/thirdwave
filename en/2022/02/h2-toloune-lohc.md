@@ -30,6 +30,8 @@ establishing hydrogen as a fuel.
 
 Reference
 
-[1] [Hydrogenious](https://www.energiewende-erlangen.de/wp-content/uploads/2018/02/0_HydrogeniousTechnologies.pdf)
+[1] [Hydrogenious Presentation - 1](https://www.energiewende-erlangen.de/wp-content/uploads/2018/02/0_HydrogeniousTechnologies.pdf)
+
+[1] [Hydrogenious Presentation - 2](https://arpa-e.energy.gov/sites/default/files/Schneider_HydrogeniousTechnologies_TransportationFuels_Workshop_FINAL.pdf)
 
 [[⇪Up]](h2-storage.html)
