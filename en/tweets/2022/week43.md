@@ -155,7 +155,7 @@ corridor offers access to low-cost #hydrogen supply from Eastern &
 South-Eastern Europe to demand centers along the corridor, covering
 10,000 km of H2 pipelines of which ~60% will be repurposed"
 
-<img width="340" src="https://pbs.twimg.com/media/Ff55XloXwAAGA03?format=jpg&name=small"/>
+<img width="340" src="twimg/Ff55XloXwAAGA03.jpg"/>
 
 ---
 
@@ -231,7 +231,7 @@ cut headcount growth by half in Q4"
 
 That bad eh? \#MadMoney
 
-[[-]](https://pbs.twimg.com/media/FgDhEuIWAAAN4jB?format=jpg&name=small)
+[[-]](twimg/FgDhEuIWAAAN4jB.jpg)
 
 ---
 
@@ -514,7 +514,7 @@ in a project to produce super-efficient hydrogen engines and has
 already showcased working prototypes of a backhoe loader and Loadall
 telescopic handler powered by hydrogen"
 
-<img width="340" src="https://pbs.twimg.com/media/FfviPRxXgAAffxW?format=jpg&name=small"/>
+<img width="340" src="twimg/FfviPRxXgAAffxW.jpg"/>
 
 ---
 
@@ -883,7 +883,7 @@ Daam
 
 "Former Chinese President Hu Jintao escorted out of party congress"
 
-[Pic](https://pbs.twimg.com/media/FfrSELXXoAIs3oO?format=jpg&name=small)
+[Pic](twimg/FfrSELXXoAIs3oO.jpg)
 
 ---
 
