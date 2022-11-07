@@ -516,12 +516,6 @@ Mmmmmmm escalope of veal
 
 ---
 
-That sign in the background. Wow - Nashville, Tennesee
-
-<img width="340" src="https://pbs.twimg.com/media/EWMV42RUYAUnRxJ?format=jpg&name=medium"/>
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">For profit hospital chain HCA spent billions on stock buybacks, paid its CEO over $108 million in 2018 alone, pours ungodly amounts of money smearing Bernie’s health plan and working to defeat Colorado’s ambitious public option, now gets enormous bailout <a href="https://t.co/5hO7UP5V3K">https://t.co/5hO7UP5V3K</a></p>&mdash; Lee Fang (@lhfang) <a href="https://twitter.com/lhfang/status/1252689526159335424?ref_src=twsrc%5Etfw">April 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---

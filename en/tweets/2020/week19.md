@@ -388,7 +388,7 @@ Pierini: "[O]ne can’t ignore economic fundamentals. Turkey is a deficit countr
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/EXPXvzUU8AMP7C4?format=png&name=small"/>
+<img width="340" src="twimg/EXPXvzUU8AMP7C4.png"/>
 
 ---
 
@@ -410,7 +410,7 @@ Mitt Romney just came out of the GOP lunch carrying a poster board
 with a bar graf on it and the title: 'Blue states aren’t the only ones
 getting screwed'"
 
-<img width="240" src="https://pbs.twimg.com/media/EXRjoZOWoAI6bMW.jpg"/>
+<img width="240" src="twimg/EXRjoZOWoAI6bMW.jpg"/>
 
 ---
 
@@ -653,7 +653,7 @@ We need [bancor](../../2019/06/bancor.md)
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/EXFtHHvXsAACWWY?format=jpg&name=small"/>
+<img width="340" src="twimg/EXFtHHvXsAACWWY.jpg"/>
 
 ---
 
@@ -666,10 +666,6 @@ upper stage rockets for space missions to become lighter, travel
 farther, and burn more cleanly"
 
 [Link](https://techxplore.com/news/2020-04-groundbreaking-rocket-propulsion.amp)
-
----
-
-<img  width="340" src="https://pbs.twimg.com/media/EXHAQoWVcAAEfnK?format=png&name=small"/>
 
 ---
 
@@ -866,7 +862,7 @@ the countries at the top of the list map well to the set of countries
 with what I have called "fortress" balance sheets (more fx reserves
 than fx denominated external debt)"
 
-<img width="340" src="https://pbs.twimg.com/media/EW4RLZbWAAoU9fN?format=png&name=900x900"/>
+<img width="340" src="twimg/EW4RLZbWAAoU9fN.jpg"/>
 
 ---
 
@@ -1017,7 +1013,7 @@ A real quote from a serious author on a fin magazine.
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/EW7oyqxXgAEB83s?format=jpg&name=small"/>
+<img width="340" src="twimg/EW7oyqxXgAEB83s.jpg"/>
 
 ---
 

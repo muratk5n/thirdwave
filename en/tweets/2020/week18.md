@@ -64,7 +64,7 @@ df3.plot()
 plt.savefig('bti.png')
 ```
 
-<img width="340"  src="https://pbs.twimg.com/media/EW6oGScWoAEtRYN?format=png&name=small"/>
+<img width="340"  src="twimg/EW6oGScWoAEtRYN.png"/>
 
 TR approached RU values lately, major degradation. Still better than
 RU but these ppl spent decades under one-party state while TR did
@@ -203,7 +203,7 @@ it is beyond distasteful to hear of this stuff.
 
 The tech sucks - get out, pronto \#bitshitcoin
 
-<img src="https://pbs.twimg.com/media/EW3sNJoXYAAH0tO?format=jpg&name=small"/>
+<img src="twimg/EW3sNJoXYAAH0tO.jpg"/>
 
 ---
 
@@ -253,7 +253,7 @@ stations will be worth more than €20bn by 2030"
 
 ---
 
-<img width="240"  src="https://pbs.twimg.com/media/EW0HHtKXgAARPRD?format=jpg&name=small"/>
+<img width="240"  src="twimg/EW0HHtKXgAARPRD.jpg"/>
 
 ---
 

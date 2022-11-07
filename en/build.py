@@ -43,12 +43,13 @@ if sys.argv[1] == 'twimg':
     content = open(sys.argv[2]).read()
     res = re.findall('https://pbs.twimg.com(.*?)["\)]',content)
     for x in res:
+        print ('--------------------------------------')
+        print (x)
         fres = re.findall('format=(\w*)\&',x)
         print (fres[0])
         nres = re.findall('media\/(.*?)\?format',x)
         print (nres[0])
         url = "https://pbs.twimg.com" + x
-        print (url)
         fout = nres[0] + "." + fres[0]
         urllib.request.urlretrieve(url, "/tmp/twimg/" + fout)
         content = content.replace(url,"twimg/" + fout)        

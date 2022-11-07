@@ -13,7 +13,7 @@ Q: But .. I do know everything"
 
 Cheers was a holodeck program"
 
-<img width="340" src="https://pbs.twimg.com/media/EV2kjoxXkAgO93Q?format=jpg&name=medium"/>
+<img width="340" src="twimg/EV2kjoxXkAgO93Q.jpg"/>
 
 ---
 
@@ -43,7 +43,7 @@ plt.axvspan(2011,2011,color='y')
 plt.savefig('bra.png')
 ```
 
-<img width="340" src="https://pbs.twimg.com/media/EV45fpxWAAAYuZW?format=png&name=small"/>
+<img width="340" src="twimg/EV45fpxWAAAYuZW.png"/>
 
 What happened in 2011?
 
@@ -892,14 +892,6 @@ Unemployment claims are processed with this thing? Unbelievable.
 Wut? Cobol?
 
 [Link](https://edition.cnn.com/2020/04/08/business/coronavirus-cobol-programmers-new-jersey-trnd/index.html)
-
----
-
-Want. 
-
-1,030-HP \#Mazda RX-10 Vision 
-
-<img width="340" src="https://pbs.twimg.com/card_img/1248741184849117184/s4_gipn7?format=jpg&name=small"/>
 
 ---
 
