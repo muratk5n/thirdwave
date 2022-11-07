@@ -501,7 +501,7 @@ a new pandemic -- it's influenza"
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/EU8dS8sU4AEqjkE?format=jpg&name=900x900"/>
+<img width="340" src="twimg/EU8dS8sU4AEqjkE.jpg"/>
 
 ---
 
@@ -577,7 +577,7 @@ HUGE"
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/EU6Sgu7WAAUVffQ?format=jpg&name=small"/>
+<img width="340" src="twimg/EU6Sgu7WAAUVffQ.jpg"/>
 
 ---
 
@@ -697,7 +697,7 @@ Nice. He has a big list of them in that tweet as cheatsheet.
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/EU1fRYcX0AAoEDq?format=png&name=small"/>
+<img width="340" src="twimg/EU1fRYcX0AAoEDq.png"/>
 
 ---
 
@@ -711,7 +711,7 @@ Nice. He has a big list of them in that tweet as cheatsheet.
 
 FT Editorial 😶
 
-<img width="340" src="https://pbs.twimg.com/media/EUwAAktXQAAooBq?format=jpg&name=medium"/>
+<img width="340" src="twimg/EUwAAktXQAAooBq.jpg"/>
 
 ---
 
@@ -863,7 +863,7 @@ df.plot()
 plt.savefig('states.png')
 ```
 
-<img width="340" src="https://pbs.twimg.com/media/EU5VNE_WoAAa-Ex?format=png&name=small"/>
+<img width="340" src="twimg/EU5VNE_WoAAa-Ex.png"/>
 
 X-axis is number of days after 100th case, so all three states start
 from equal footing. The second week, things went sideways for Governor
@@ -978,8 +978,4 @@ release"
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Buy the recession - Sell the depression™</p>&mdash; StockCats (@StockCats) <a href="https://twitter.com/StockCats/status/1246072495427518464?ref_src=twsrc%5Etfw">April 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
-
-<center>
-<img width="140" src="https://pbs.twimg.com/media/ETZJzIkXgAAEi9Q?format=jpg&name=small"/>
-</center>
 
