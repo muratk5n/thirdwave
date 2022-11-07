@@ -34,7 +34,7 @@ which are necessary for this are extremely costly"
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/EOlint9WAAYfzel?format=png&name=small"/>
+<img width="340" src="twimg/EOlint9WAAYfzel.jpg"/>
 
 ---
 
@@ -332,17 +332,17 @@ insurance commercial. "Have I got a deal for *you*!"
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/EOSobukU8AED0qZ?format=jpg&name=900x900"/>
+<img width="340" src="twimg/EOSobukU8AED0qZ.jpg"/>
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/EOSobubVUAAFW5b?format=jpg&name=900x900"/>
+<img width="340" src="twimg/EOSobubVUAAFW5b.jpg"/>
 
 ---
 
 Australian fires since 1910, color coded
 
-<img width="340" src="https://pbs.twimg.com/media/EN8jvXvWsAAMJdT?format=jpg&name=medium"/>
+<img width="340" src="twimg/EN8jvXvWsAAMJdT.jpg"/>
 
 ---
 
@@ -417,7 +417,7 @@ Who is in it? Nike. Sirius XM. Visa.
 
 [PDF](https://ethz.ch/content/dam/ethz/special-interest/mtec/chair-of-entrepreneurial-risks-dam/documents/FCO/FCO_January_2020.pdf)
 
-<img width="400" src="https://pbs.twimg.com/media/EOQthfqWsAEVgXd?format=jpg&name=medium"/>
+<img width="400" src="twimg/EOQthfqWsAEVgXd.jpg"/>
 
 ---
 
@@ -598,7 +598,7 @@ Church's doctrine, which is usually called Christianity.”
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/EOCnT3iX4AAJQ1M?format=jpg&name=360x360"/>
+<img width="340" src="twimg/EOCnT3iX4AAJQ1M.jpg"/>
 
 ---
 

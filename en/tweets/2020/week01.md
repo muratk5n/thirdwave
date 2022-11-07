@@ -69,7 +69,7 @@ ooOoo I wonder who it is
 I put Australian fires on a map of Europe to get a better idea of
 their extent"
 
-<img width="340" src="https://pbs.twimg.com/media/ENhArLtW4AAGyLQ?format=jpg&name=900x900"/>
+<img width="340" src="twimg/ENhArLtW4AAGyLQ.jpg"/>
 
 ---
 
@@ -81,7 +81,7 @@ great grandfather.
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/ENl_1l0VUAAjQsO?format=png&name=small"/>
+<img width="340" src="twimg/ENl_1l0VUAAjQsO.png"/>
 
 ---
 
@@ -278,7 +278,7 @@ If in, US now cares for its allies. But then once in a while u have to
 show up to the barfight, throw some stools. The barowner could get
 pissed. It can all end up in a duel at high noon.
 
-<img width="400"  src="https://pbs.twimg.com/media/ENXsRx4WwAAvBkS?format=jpg&name=small"/>
+<img width="400"  src="twimg/ENXsRx4WwAAvBkS.jpg"/>
 
 ---
 
@@ -426,7 +426,7 @@ I shouldnt make fun.. that could be somebody's girlfriend.
 
 Passing through town to get to wilderness. Still near "civilization".
 
-<img width="240" src="https://pbs.twimg.com/media/ENRbUaVX0AAKsR4?format=jpg&name=small"/>
+<img width="240" src="twimg/ENRbUaVX0AAKsR4.jpg"/>
 
 ---
 
@@ -768,7 +768,7 @@ ultra-capitalist socialist darwinism"
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/ad_img/1211200315669798912/aepbUa69?format=jpg&name=small"/>
+<img width="340" src="twimg/aepbUa69.jpeg"/>
 
 ---
 

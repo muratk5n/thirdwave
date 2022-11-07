@@ -229,7 +229,7 @@ Even Afghanistan might have been a preperation for the endgame that is
 Iran - an Axis of Evil country let's not forget (the others were Iraq
 -done-, and North Korea).
 
-<img width="340" src="https://pbs.twimg.com/media/ENt9mS0UYAEVmNm?format=jpg&name=small"/>
+<img width="340" src="twimg/ENt9mS0UYAEVmNm.jpg"/>
 
 
 ---
