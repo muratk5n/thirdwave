@@ -59,7 +59,7 @@ Stations Across Europe"
 
 California prisoners 2011-21 via @CraigOGilmore
 
-<img width="340" src="https://pbs.twimg.com/media/E2_epunWYAIRpzl?format=jpg&name=small"/>
+<img width="340" src="twimg/E2_epunWYAIRpzl.jpg"/>
 
 ---
 
@@ -86,7 +86,7 @@ a journey U.S. officials believe could ultimately end in Venezuela"
 
 ---
 
-I mean look at [this](https://pbs.twimg.com/media/EcQ5MTgWAAEMbqZ?format=png&name=small).
+I mean look at [this](twimg/EcQ5MTgWAAEMbqZ.png).
 "95% of stuff in the universe, we basically don't understand". This is
 f-ing embarrassing. 
 
@@ -303,13 +303,13 @@ collective liberation"
 
 ---
 
-My GSI Outdoors boiling [pot](https://pbs.twimg.com/media/E2xhG5YXoAM-M4V?format=jpg&name=small) has a
+My GSI Outdoors boiling [pot](twimg/E2xhG5YXoAM-M4V.jpg) has a
 snug-fit cover, lid never gets too hot, cooks perfectly, is light. There is some
 freak science going on in there.. 
 
 ---
 
-[Pandering to the crowd](https://pbs.twimg.com/media/Ev3M9t0WgAAdkKv?format=png&name=small)
+[Pandering to the crowd](twimg/Ev3M9t0WgAAdkKv.png)
 is profitable for companies as well, and now, for big tech. Users
 think they are "changing the world" by dancing on TikTok, engagement increases,
 more money for the platform.
@@ -343,7 +343,7 @@ Tap that
 
 ---
 
-<img src="https://pbs.twimg.com/media/E2vFfx_XEAII6AK?format=jpg&name=small"/>
+<img src="twimg/E2vFfx_XEAII6AK.jpg"/>
 
 ---
 
