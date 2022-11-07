@@ -456,7 +456,7 @@ of the cocaine profits"
 "@ianbremmer
 
 Trump was personally more aligned towards Putin than any recent US
-President (and look at the difference in TIME covers [[one](https://pbs.twimg.com/media/E3muJuUXEAE983-?format=jpg&name=small),[two](https://pbs.twimg.com/media/E3muJuSWYAg377F?format=jpg&name=small)].
+President (and look at the difference in TIME covers [[one](twimg/E3muJuUXEAE983-.jpg),[two](twimg/E3muJuSWYAg377F.jpg)].
 But that didn’t impact outcomes, because Trump Admin & GOP was hawkish. Indeed,
 in terms of actual policy, Biden Admin is slightly softer on Russia"
 
@@ -587,7 +587,7 @@ Super
 
 Going through students' lab assignment submissions and ran into this"
 
-<img width="340" src="https://pbs.twimg.com/media/E3l9RajXwAAxyUu?format=png&name=small"/>
+<img width="340" src="twimg/E3l9RajXwAAxyUu.png"/>
 
 ---
 

@@ -223,7 +223,7 @@ transition to \#renewablenergy"
 
 45% from renewables ain't so bad
 
-<img width="300" src="https://pbs.twimg.com/media/E3dq9veWYAMSH6v?format=png&name=small"/>
+<img width="300" src="twimg/E3dq9veWYAMSH6v.png"/>
 
 ---
 
@@ -245,7 +245,7 @@ of green \#hydrogen"
 
 Goofiest meme Ive ever seen
 
-<img width="300" src="https://pbs.twimg.com/media/E3YNMUQWYAkxN9r?format=jpg&name=small"/>
+<img width="300" src="twimg/E3YNMUQWYAkxN9r.jpg"/>
 
 ---
 

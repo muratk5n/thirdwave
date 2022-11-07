@@ -83,7 +83,7 @@ Im just kidding
 
 It was this
 
-<img width="340" src="https://pbs.twimg.com/media/E4ahdzaXwAMJ1x7?format=jpg&name=small"/>
+<img width="340" src="twimg/E4ahdzaXwAMJ1x7.jpg"/>
 
 "Mystery of what caused South Florida condo collapse deepens"
 
@@ -380,7 +380,7 @@ rights violations in Xinjiang province"
 
 🤣 🤣 🤣 
 
-[Meme](https://pbs.twimg.com/media/E4dN9xbVgA46Bz5?format=jpg&name=small)
+[Meme](twimg/E4dN9xbVgA46Bz5.jpg)
 
 ---
 
@@ -456,7 +456,7 @@ I bet it was here.
 
 Gotcha
 
-<img width="340" src="https://pbs.twimg.com/media/E4ahdzaXwAMJ1x7?format=jpg&name=small"/>
+<img width="340" src="twimg/E4ahdzaXwAMJ1x7.jpg"/>
 
 ---
 
@@ -588,7 +588,7 @@ before!'.
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/E4WaZFuXIAE5YLO?format=png&name=small"/>
+<img width="340" src="twimg/E4WaZFuXIAE5YLO.png"/>
 
 ---
 
