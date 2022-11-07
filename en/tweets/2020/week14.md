@@ -189,9 +189,9 @@ rather supplement that flow rather than freeze it in any way.
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/EUna2gDWkAIsplH?format=png&name=small"/>
+<img width="340" src="twimg/EUna2gDWkAIsplH.png"/>
 
-<img width="340" src="https://pbs.twimg.com/media/EUna3E0XsAIqCHc?format=png&name=small"/>
+<img width="340" src="twimg/EUna3E0XsAIqCHc.png"/>
 
 ---
 
@@ -292,7 +292,7 @@ Here's what happened in the Czech Republic after they imposed
 mandatory mask-wearing on March 18th. The daily increase in cases has
 dropped from over 20% before the #masks4all rule to just 6%"
 
-<img width="340" src="https://pbs.twimg.com/media/EUe9vKEWAAEIgsL?format=png&name=small"/>
+<img width="340" src="twimg/EUe9vKEWAAEIgsL.png"/>
 
 [Link](https://twitter.com/adamcchang/status/1245174086847741952)
 
@@ -401,7 +401,7 @@ Cold Hearted - Paula Abdul \#music
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/EUb5uvqXQAMQlsl?format=jpg&name=small"/>
+<img width="340" src="twimg/EUb5uvqXQAMQlsl.jpg"/>
 
 ---
 
@@ -491,7 +491,7 @@ Of course, you can't beat the 'diminishing sine wave' shaped-recovery
 that Deutsche Bank was talking about back in 2009 after the financial
 crisis"
 
-<img width="240" src="https://pbs.twimg.com/media/EUZhjbGUMAA4QF0?format=png&name=small"/>
+<img width="240" src="twimg/EUZhjbGUMAA4QF0.png"/>
 
 ---
 
@@ -644,13 +644,6 @@ Waaa waaa waaa waaaa
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/FusoOfficial?ref_src=twsrc%5Etfw">@FusoOfficial</a> has announced its vision to make all new vehicles for the Japanese market CO2-neutral by the year 2039 &amp; plans to start series production of fuel-cell trucks, like the <a href="https://twitter.com/hashtag/eCanter?src=hash&amp;ref_src=twsrc%5Etfw">#eCanter</a> F-Cell, by the late 2020s. <a href="https://twitter.com/hashtag/sustainability?src=hash&amp;ref_src=twsrc%5Etfw">#sustainability</a> <a href="https://twitter.com/hashtag/eMobility?src=hash&amp;ref_src=twsrc%5Etfw">#eMobility</a> <a href="https://t.co/suzwfvVfKx">pic.twitter.com/suzwfvVfKx</a></p>&mdash; Daimler Trucks &amp; Buses (@DaimlerTruckBus) <a href="https://twitter.com/DaimlerTruckBus/status/1243527858561187847?ref_src=twsrc%5Etfw">March 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-
-Wow. 
-
-<img width="340" src="https://pbs.twimg.com/media/EUURTdMU0AA1laH?format=jpg&name=medium"/>
 
 ---
 
@@ -871,7 +864,7 @@ pushed me over edge”. Does Corona effectively end the rush to cities?"
 
 ---
 
-<img width="240" src="https://pbs.twimg.com/media/EUOXuFwUEAEVDk5?format=jpg&name=small"/>
+<img width="240" src="twimg/EUOXuFwUEAEVDk5.jpg"/>
 
 ---
 
@@ -1071,7 +1064,7 @@ called housing crisis"
 
 Riga, Latvia. New trolley buses.
 
-[Link](https://pbs.twimg.com/media/EUIM0fpWAAcppsb?format=jpg&name=large)
+[Link](twimg/EUIM0fpWAAcppsb.jpg)
 
 ---
 
@@ -1102,6 +1095,6 @@ DELIVERY TRUCKS REFUSING TO ENTER NEW YORK CITY ON CORONAVIRUS FEARS: MSNBC
 <p>
 Third Wave
 </p>
-<img width="140" src="https://pbs.twimg.com/media/ETZJzIkXgAAEi9Q?format=jpg&name=small"/>
+<img width="140" src="twimg/ETZJzIkXgAAEi9Q.jpg"/>
 </center>
 

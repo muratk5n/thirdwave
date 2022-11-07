@@ -68,7 +68,7 @@ of coronavirus lockdown"
 The correct graph, SP500 1929/2020 overlay. If match is correct,
 another fall is coming.
 
-<img width="340" src="https://pbs.twimg.com/media/EUEGCdCWkAYsccK?format=png&name=small"/>
+<img width="340" src="twimg/EUEGCdCWkAYsccK.png"/>
 
 
 ```python
@@ -810,7 +810,7 @@ with lighter regulation?"
 
 ---
 
-<img width="340"  src="https://pbs.twimg.com/media/ETraoX1U4AARyv7?format=jpg&name=small"/>
+<img width="340"  src="twimg/ETraoX1U4AARyv7.jpg"/>
 
 ---
 

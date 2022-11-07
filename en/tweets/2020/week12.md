@@ -420,7 +420,7 @@ Epic
 
 Oh no
 
-<img width="340" src="https://pbs.twimg.com/media/ETakdn5XQAA6o2X?format=jpg&name=small"/>
+<img width="340" src="twimg/ETakdn5XQAA6o2X.jpg"/>
 
 ---
 
@@ -484,7 +484,7 @@ green hydrogen"
 
 Third Wave
 
-<img width="140" src="https://pbs.twimg.com/media/ETZJzIkXgAAEi9Q?format=jpg&name=small"/>
+<img width="140" src="twimg/ETZJzIkXgAAEi9Q.jpg"/>
 
 ---
 
@@ -504,7 +504,7 @@ author - good stuff.
 
 Python code in scientific paper! 👍👍👍
 
-<img width="340" src="https://pbs.twimg.com/media/ETYsQyHXYAckvQX?format=png&name=small"/>
+<img width="340" src="twimg/ETYsQyHXYAckvQX.png"/>
 
 ---
 
@@ -707,7 +707,7 @@ if at all with current system"
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/ES-cMjWX0AA1MKn?format=png&name=small"/>
+<img width="340" src="twimg/ES-cMjWX0AA1MKn.png"/>
 
 ---
 
@@ -938,7 +938,7 @@ How fragile must our financial system be that it requires zero rates, $700B in Q
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/ETQUzFJWkAMr8rx?format=png&name=medium"/>
+<img width="340" src="twimg/ETQUzFJWkAMr8rx.jpg"/>
 
 ---
 
@@ -1050,7 +1050,7 @@ levels.
 
 ---
 
-<img width="240" src="https://pbs.twimg.com/media/ETBuSZ6WoAAzR6a?format=jpg&name=small"/>
+<img width="240" src="twimg/ETBuSZ6WoAAzR6a.jpg"/>
 
 ---
 
@@ -1066,7 +1066,7 @@ to yellow vests for a while
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/ETLAoR7XkAAVKW2?format=jpg&name=small"/>
+<img width="340" src="twimg/ETLAoR7XkAAVKW2.jpg"/>
 
 ---
 
@@ -1110,10 +1110,6 @@ happening way too fast.
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/ETKWLPmWAAIcpNa?format=png&name=small"/>
-
----
-
 Google is working a triage tool? So their algo will decide who lives and who dies?
 
 ---
@@ -1144,7 +1140,7 @@ This might be odd but 1st time Im seeing this
 Lodi had the first Covid-19 case in Italy, and implemented a shutdown
 on Feb 23. Bergamo waited until March 8.  Look at the difference"
 
-<img width="340" src="https://pbs.twimg.com/media/ETKpOGEX0AIcWjE?format=jpg&name=small"/>
+<img width="340" src="twimg/ETKpOGEX0AIcWjE.jpg"/>
 
 ---
 
