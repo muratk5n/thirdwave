@@ -377,7 +377,7 @@ Katrina had wind speed at around 280 km/h. Sandy 160 k/h.
 
 Ida
 
-<img width="340" src="https://pbs.twimg.com/media/E999VbvXIAAgROR?format=jpg&name=small"/>
+<img width="340" src="twimg/E999VbvXIAAgROR.jpg"/>
 
 ---
 

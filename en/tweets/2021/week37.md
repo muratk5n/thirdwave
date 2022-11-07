@@ -369,14 +369,14 @@ could have any commoner imprisoned on a whim"
 
 "@JFrankensteiner
 
-Hunter S. Thompson wrote [this](https://pbs.twimg.com/media/E_CEsR4WYAIVEtI?format=jpg&name=small)
+Hunter S. Thompson wrote [this](twimg/E_CEsR4WYAIVEtI.jpg)
 one week after 9/11, basically called what the 21st Century would become"
 
 ---
 
 "@flamingpetty
 
-100% serious when I say the Onion’s 9/11 [coverage](https://pbs.twimg.com/media/E-9NOCNXoA0hbOa?format=jpg&name=900x900)
+100% serious when I say the Onion’s 9/11 [coverage](twimg/E-9NOCNXoA0hbOa.jpg)
 deserved a Pulitzer"
 
 ---
@@ -402,7 +402,7 @@ Though not listed as an official base S. Korean Jeju island can host
 US mil in a gif, they frequently get US sub and aircraft carrier
 visits anyway.
 
-[[-]](https://pbs.twimg.com/media/E_AAFZkXEAUWOaE?format=png&name=small)
+[[-]](twimg/E_AAFZkXEAUWOaE.png)
 
 ---
 
@@ -420,7 +420,7 @@ Once again, tech looks shiny, but not robust.
 
 🤣 🤣 🤣 
 
-[Photo](https://pbs.twimg.com/media/E-_F_-bXMAEJxsE?format=jpg&name=small)
+[Photo](twimg/E-_F_-bXMAEJxsE.jpg)
 
 ---
 

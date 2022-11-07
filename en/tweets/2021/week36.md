@@ -200,7 +200,7 @@ he wouldn't believe him 🤦‍♂️ Fail all around.
 
 Carl Sagan complaining about Beavis and Butthead is pure gold
 
-[[-]](https://pbs.twimg.com/media/E-s5BkdXsAc82NJ?format=jpg&name=small)
+[[-]](twimg/E-s5BkdXsAc82NJ.jpg)
 
 ---
 
@@ -341,13 +341,13 @@ trucks. Yet an ancient device for conveying information, relying on
 ink & paper, has been sitting on my driveway every morning since
 Hurricane Ida"
 
-<img width="340" src="https://pbs.twimg.com/media/E-XvSukWEBAqIQN?format=jpg&name=small"/>
+<img width="340" src="twimg/E-XvSukWEBAqIQN.jpg"/>
 
 ---
 
 Areas near Lake Tahoe and Honey Lake are on FIRE!
 
-<img width="240" src="https://pbs.twimg.com/media/E-c4TDgXoAMZZEs?format=png&name=small"/>
+<img width="240" src="twimg/E-c4TDgXoAMZZEs.jpg"/>
 
 ---
 
