@@ -477,7 +477,7 @@ of Eric Garner in 2014"
 
 Verlinde: "95% of stuff in the universe, we basically don't understand"
 
-<img width="340" src="https://pbs.twimg.com/media/EcQ5MTgWAAEMbqZ?format=png&name=small"/>
+<img width="340" src="twimg/EcQ5MTgWAAEMbqZ.png"/>
 
 ---
 
@@ -642,7 +642,7 @@ Robert De Niro is only a quarter Italian"
 
 The winning sand sculpture of the Texas Sand Sculpture Festival"
 
-<img width="340" src="https://pbs.twimg.com/media/EcBpOboVAAEYSi4?format=jpg&name=small"/>
+<img width="340" src="twimg/EcBpOboVAAEYSi4.jpg"/>
 
 ---
 
@@ -656,7 +656,7 @@ Panels can produce 1000 W/$m^2$.
 
 The green area seen on the map is 100 km x 100 km
 
-<img width="340" src="https://pbs.twimg.com/media/EcO9kb1X0AAzdEp?format=png&name=small"/>
+<img width="340" src="twimg/EcO9kb1X0AAzdEp.png"/>
 
 1 kg H2 requires 50–55 kW⋅h
 
@@ -799,7 +799,7 @@ storing surplus electricity in the form of #hydrogen much more cheaply
 than li-batteries. Aim is for fridge size household batteries that
 would allow grid independence"
 
-<img width="340" src="https://pbs.twimg.com/media/EcGlDktXkAIFVC_?format=png&name=small"/>
+<img width="340" src="twimg/EcGlDktXkAIFVC_.png"/>
 
 [Link](https://twitter.com/FuelCellPilot/status/1279485871536967684)
 
@@ -939,7 +939,7 @@ Do you take pregistrations? Wanna move
 ---
 
 <center>
-<img width="140" src="https://pbs.twimg.com/media/ETZJzIkXgAAEi9Q?format=jpg&name=small"/>
+<img width="140" src="twimg/ETZJzIkXgAAEi9Q.jpg"/>
 </center>
 
 

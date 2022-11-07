@@ -358,7 +358,7 @@ But the real rule is "reverse-facial-hair" rule. So if you have goatee
 in this universe, then your evil twin must have no goatee in the other
 universe. Example below, Trek DS9.
 
-<img width="240" src="https://pbs.twimg.com/media/EfE9XlnXoAIzcYT?format=png&name=small"/>
+<img width="240" src="twimg/EfE9XlnXoAIzcYT.png"/>
 
 ---
 
@@ -370,7 +370,7 @@ maximum, the captain needs to say that explicitly.
 Haha saw a Blue Screen of Death at a Zara while passing by. Patch your
 Windows 95 dude
 
-<img width="340" src="https://pbs.twimg.com/media/EfE4PjHXkAE4vn5?format=jpg&name=small"/>
+<img width="340" src="twimg/EfE4PjHXkAE4vn5.jpg"/>
 
 ---
 
@@ -535,7 +535,7 @@ navigation it looks like. All TR cabbies are on it.
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/Ee1W3q8XYAQk4iG?format=jpg&name=small"/>
+<img width="340" src="twimg/Ee1W3q8XYAQk4iG.jpg"/>
 
 via @katiesackoff
 
@@ -606,7 +606,7 @@ H-a-m-b-u-r-g-a !
 ---
 
 <center>
-<img width="140" src="https://pbs.twimg.com/media/ETZJzIkXgAAEi9Q?format=jpg&name=small"/>
+<img width="140" src="twimg/ETZJzIkXgAAEi9Q.jpg"/>
 </center>
 
 

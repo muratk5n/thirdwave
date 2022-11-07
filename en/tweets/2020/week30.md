@@ -50,7 +50,7 @@ People
 
 --
 
-<img width="200" src="https://pbs.twimg.com/media/EZeN7XyUwAIFQ2v?format=jpg&name=small"/>
+<img width="200" src="twimg/EZeN7XyUwAIFQ2v.jpg"/>
 
 ---
 
@@ -167,7 +167,7 @@ Arduiono is guinea. Go north, whenever u can, for all things...
 
 Foldable, light keyboard.. Looks good
 
-<img width="240" src="https://pbs.twimg.com/media/EdmKJH7WAAAHeAz?format=jpg&name=small"/>
+<img width="240" src="twimg/EdmKJH7WAAAHeAz.jpg"/>
 
 RPi + foldable keyb.. hmm.. Maybe I should shift my
 uber-portable-light computing setup from phone to this. Phones will
@@ -205,10 +205,6 @@ print (np.round(work / 85000 * 100), '%')
 ```
 
 "How can you calculate BEV efficiency as 60%?"
-
----
-
-<img width="340" src="https://pbs.twimg.com/media/EddWEqUXgAEUrEh?format=jpg&name=small"/>
 
 ---
 
@@ -327,7 +323,7 @@ just do this through C++.
 
 Oh yeah... knock it down bruh!
 
-<img width="340" src="https://pbs.twimg.com/media/EdeVKKAXkAIUbyy?format=png&name=small"/>
+<img width="340" src="twimg/EdeVKKAXkAIUbyy.png"/>
 
 ---
 
@@ -422,7 +418,7 @@ advance the #hydrogeneconomy"
 
 Haha E. Verlinde has an identical twin brother, also a physicst
 
-<img width="200" src="https://pbs.twimg.com/media/EddUsO7WoAADwHO?format=jpg&name=small"/>
+<img width="200" src="twimg/EddUsO7WoAADwHO.jpg"/>
 
 ---
 
@@ -615,13 +611,13 @@ a hearing tomorrow, owns ~$1.7 million of stock in three of them"
 
 There is the planned H2 network. I see three major lines going to Africa. 
 
-<img width="340" src="https://pbs.twimg.com/media/EdX54C3WkAA9VB7?format=png&name=small"/>
+<img width="340" src="twimg/EdX54C3WkAA9VB7.png"/>
 
 ---
 
 Holy f--ing shit. That is a track left by a moving city. 
 
-<img width="340" src="https://pbs.twimg.com/media/EdYqCp9WsAIV4C2?format=jpg&name=medium"/>
+<img width="340" src="twimg/EdYqCp9WsAIV4C2.jpg"/>
 
 \#MoEn
 
@@ -692,7 +688,7 @@ They r doing this thing. Awesome
 ---
 
 <center>
-<img width="140" src="https://pbs.twimg.com/media/ETZJzIkXgAAEi9Q?format=jpg&name=small"/>
+<img width="140" src="twimg/ETZJzIkXgAAEi9Q.jpg"/>
 </center>
 
 

@@ -114,7 +114,7 @@ ignore the fact that ..  ignorance is getting people killed"
 
 Seems to work
 
-<img width="340" src="https://pbs.twimg.com/media/EeNFSO4XoAEd9jK?format=png&name=small"/>
+<img width="340" src="twimg/EeNFSO4XoAEd9jK.png"/>
 
 ---
 
@@ -280,7 +280,7 @@ Then it's [this](https://i2.wp.com/bunker158.com/wp-content/uploads/2018/03/Term
 
 And it begins..
 
-<img width="240" src="https://pbs.twimg.com/media/EeHDUKIX0AEiVWc?format=jpg&name=small"/>
+<img width="240" src="twimg/EeHDUKIX0AEiVWc.jpg"/>
 
 ---
 
@@ -401,10 +401,6 @@ compared to the first half of 2019, rising to €5.4m, without
 jeopardising the medium-term growth outlook"
 
 [Link](https://www.h2-view.com/story/mcphy-reports-half-year-results/)
-
----
-
-<img width="340" src="https://pbs.twimg.com/media/Ed978F5XsAEv0l6?format=png&name=small"/>
 
 ---
 
@@ -533,7 +529,7 @@ Bitcoin is the COBOL of cryptocurrencies? 😶
 The Bitcoin LightningNetwork subreddit over the last 24 hours. Just
 use Nano"
 
-<img width="340" src="https://pbs.twimg.com/media/Ed-tB2uX0AAw1DH?format=jpg&name=medium"/>
+<img width="340" src="twimg/Ed-tB2uX0AAw1DH.jpg"/>
 
 ---
 
@@ -654,7 +650,7 @@ starting next year. Russia plans to export hydrogen to Japan"
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/EdtCktXWoAg-7fJ?format=jpg&name=small"/>
+<img width="340" src="twimg/EdtCktXWoAg-7fJ.jpg"/>
 
 [Link](https://lnkd.in/gNYdzJg)
 
@@ -845,7 +841,7 @@ other without compromising the essence of its system"
 
 ---
 
-<img width="200" src="https://pbs.twimg.com/media/Edyv4BWWAAAUHHC?format=jpg&name=small"/>
+<img width="200" src="twimg/Edyv4BWWAAAUHHC.jpg"/>
 
 ---
 
@@ -1015,6 +1011,6 @@ three to seven grams [of platinum which the next Bosch fuel cell will replicate]
 ---
 
 <center>
-<img width="140" src="https://pbs.twimg.com/media/ETZJzIkXgAAEi9Q?format=jpg&name=small"/>
+<img width="140" src="twimg/ETZJzIkXgAAEi9Q.jpg"/>
 </center>
 

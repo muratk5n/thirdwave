@@ -8,7 +8,7 @@ Ladakh. We'll find out soon enough.
 Nimitz is leaving the South China Sea bitch. Unless it circles back or
 something the direction seems to be out. From myshiptracking.com
 
-<img width="340" src="https://pbs.twimg.com/media/EdNJwq7XgAAqx82?format=png&name=medium"/>
+<img width="340" src="twimg/EdNJwq7XgAAqx82.png"/>
 
 ---
 
@@ -140,7 +140,7 @@ RIP
 Even though I was arrested, I smiled bc I was on the right side of
 history. Find a way to get in the way \#goodtrouble"
 
-<img width="180" src="https://pbs.twimg.com/media/CKTJmvUVAAAZWys?format=jpg&name=small"/>
+<img width="180" src="twimg/CKTJmvUVAAAZWys.jpg"/>
 
 ---
 
@@ -318,7 +318,7 @@ Yes, I know.. Captain Joey. Stlll, ok movie.
 
 ---
 
-And here is your [moment of Zen](https://pbs.twimg.com/media/EdGOVZfUwAItmE6?format=jpg&name=medium)... 
+And here is your [moment of Zen](twimg/EdGOVZfUwAItmE6.jpg)... 
 
 ---
 
@@ -432,14 +432,6 @@ the politicians who defend them, to make real changes"
 
 ---
 
-Sehr gut; Im developing a liking for turbines
-
-\#siemens
-
-<img width="340" src="https://pbs.twimg.com/card_img/1283294852742959105/cHkft26L?format=png&name=small"/>
-
----
-
 "Plug Power has today official launched its GenSure HP platform, a
 line of zero emission stationary fuel cell systems designed for
 large-scale, high power backup power applications. Initially available
@@ -465,8 +457,6 @@ So it's not new money but money diverted from elsewhere?
 "@EnergyHy2
 
 Hyperion XP-1 : la supercar électrique fonctionnant à l’hydrogène"
-
-<img width="340" src="https://pbs.twimg.com/card_img/1283635515842011136/xgW3JSN6?format=png&name=small"/>
 
 [Link](https://www.tomsguide.fr/hyperion-xp-1-la-supercar-electrique-fonctionnant-a-lhydrogene/)
 
@@ -672,7 +662,7 @@ blank white paper"
 
 \#pinephone
 
-<img width="340" src="https://pbs.twimg.com/media/Ec03D4EWsAEK1Lu?format=jpg&name=small"/>
+<img width="340" src="twimg/Ec03D4EWsAEK1Lu.jpg"/>
 
 ---
 
@@ -1100,7 +1090,7 @@ will. Service-sector jobs could be good jobs, too"
 ---
 
 <center>
-<img width="140" src="https://pbs.twimg.com/media/ETZJzIkXgAAEi9Q?format=jpg&name=small"/>
+<img width="140" src="twimg/ETZJzIkXgAAEi9Q.jpg"/>
 </center>
 
 
