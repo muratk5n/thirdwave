@@ -328,7 +328,7 @@ I like the accent
 
 ---
 
-<img src="https://pbs.twimg.com/media/EElAnGJXUAAUcMb?format=jpg&name=small" width="400"/>
+<img src="twimg/EElAnGJXUAAUcMb.jpg" width="400"/>
 
 ---
 

@@ -532,7 +532,7 @@ HAMMER TIME
 
 \#UK \#brexit
 
-<img src="https://pbs.twimg.com/media/EE5KPvPU4AAliPU?format=jpg&name=small" width="400"/>
+<img src="twimg/EE5KPvPU4AAliPU.jpg" width="400"/>
 
 ---
 

@@ -757,7 +757,7 @@ Underwater farming
 
 ---
 
-<img width="300" src="https://pbs.twimg.com/media/EBmhqo-VAAAfmaC?format=jpg&name=medium"/>
+<img width="300" src="twimg/EBmhqo-VAAAfmaC.jpg"/>
 
 ---
 

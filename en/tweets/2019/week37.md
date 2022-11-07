@@ -359,7 +359,7 @@ Eisman (of *The Big Short* fame) on rates.
 	
 \#rates
 
-<img width="350"  src="https://pbs.twimg.com/media/ED9Ro9-X4AEmfVh?format=jpg&name=900x900"/>
+<img width="350"  src="twimg/ED9Ro9-X4AEmfVh.jpg"/>
 
 ---
 

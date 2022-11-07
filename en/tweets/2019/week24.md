@@ -713,7 +713,7 @@ any shape or form.
 .. this nation should commit itself to achieving the goal, before
 this decade is out, of landing a man on the Moon…
 
-<img width="500px" src="https://pbs.twimg.com/media/D7bHUowXkAEH4XX.jpg"/>
+<img width="500px" src="twimg/D7bHUowXkAEH4XX.jpg"/>
 
 Ask not where to pahk the cah. Ask where to pahk the cah in Hahvahd Yahd.
 
