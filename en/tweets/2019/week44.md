@@ -391,7 +391,7 @@ everyone kept using it. Sort of like now I guess.
 
 Hyundai debuts HDC-6 NEPTUNE Concept, a hydrogen-powered Class 8 heavy duty truck
 
-<img src="https://pbs.twimg.com/media/EICYJplUEAUZUmV?format=jpg&name=small" width="400"/>
+<img src="twimg/EICYJplUEAUZUmV.jpg" width="400"/>
 
 [Link](https://www.hyundainews.com/en-us/releases/2896)
 
@@ -426,7 +426,7 @@ read that correctly, 9/11. In fact Chileans call that day "our 9/11".
 
 Dying in Chile.. wouldn't that be a gas?
 
-<img src="https://pbs.twimg.com/media/EILnQs_WwAIN0p2?format=jpg&name=medium" width="250"/>
+<img src="twimg/EILnQs_WwAIN0p2.jpg" width="250"/>
 
 ---
 
@@ -738,7 +738,7 @@ not to...'"
 
 Autograd lost its shit. COBYLA it is.
 
-<img width="350" src="https://pbs.twimg.com/media/EHtsxIyW4AE3a0K?format=png&name=small"/>
+<img width="350" src="twimg/EHtsxIyW4AE3a0K.png"/>
 
 ---
 

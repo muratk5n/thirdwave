@@ -314,7 +314,7 @@ it turns out simple SP&500 index beats Cramer.
 
 ---
 
-<img width="400" src="https://pbs.twimg.com/media/EFs91lQVUAAJMR_?format=jpg&name=small"/>
+<img width="400" src="twimg/EFs91lQVUAAJMR_.jpg"/>
 
 ---
 

@@ -257,10 +257,6 @@ Boot-Edge-Edge, He/Him/His Beto. Not even worth talking about anymore.
 
 ---
 
-<img src="https://pbs.twimg.com/media/D_lWkPmUwAAS79g.jpg" width="400"/>
-
----
-
 "Trump ally Lindsey Graham says president should 'admit climate change is real"
 
 [Link](https://www.usatoday.com/story/news/politics/2019/07/12/donald-trump-admit-climate-change-real-lindsey-graham-says/1718541001/)

@@ -375,7 +375,7 @@ ALABAMA. An R project apparently.
 
 ---
 
-<img width="300"  src="https://pbs.twimg.com/media/EHPcuS1WwAAd1GP?format=jpg&name=small"/>
+<img width="300"  src="twimg/EHPcuS1WwAAd1GP.jpg"/>
 
 ---
 
@@ -442,7 +442,7 @@ Has he seen how much debt the US is issuing in an 'upturn'?"
 The worst DJT net approval reached was -20, check the date, says Aug
 2017, during Charlotesville. Even now it is at a boring -12.
 
-<img width="400" src="https://pbs.twimg.com/media/EHQKk4OXUAACJ4M?format=jpg&name=small"/>
+<img width="400" src="twimg/EHQKk4OXUAACJ4M.jpg"/>
 
 ---
 

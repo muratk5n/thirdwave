@@ -338,7 +338,7 @@ started expanding again 🤔
 
 Not QE
 
-<img src="https://pbs.twimg.com/media/EJ4hgz4WkAAOmLB?format=jpg&name=medium" width="500"/>
+<img src="twimg/EJ4hgz4WkAAOmLB.jpg" width="500"/>
 
 ---
 
@@ -425,7 +425,7 @@ of wild fish.
 Full-blown Python science stack on pers phone. Cheapest Samsung, runs
 everything.
 
-<img width="300" src="https://pbs.twimg.com/media/EJpTGqBX0AEIgNp?format=jpg&name=small"/>
+<img width="300" src="twimg/EJpTGqBX0AEIgNp.jpg"/>
 
 ---
 
@@ -796,14 +796,14 @@ YoY earnings are flat. 90% of SP500 published, 10% more to go.
 Mechanical pencil that has a tip like wood pencil. 0.x mechs break too
 e-z. This thing is like a rock
 
-<img width="400" src="https://pbs.twimg.com/media/EJVFx0cW4AA_u6w?format=png&name=small"/>
+<img width="400" src="twimg/EJVFx0cW4AA_u6w.png"/>
 
 
 ---
 
 Little quadratic interp m--f--ka.. Yiieaah.. 
 
-<img width="450" src="https://pbs.twimg.com/media/EJUus54XYAAYnqq?format=png&name=small"/>
+<img width="450" src="twimg/EJUus54XYAAYnqq.png"/>
 
 ---
 

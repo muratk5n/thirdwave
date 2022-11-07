@@ -465,7 +465,7 @@ Peter Oborne: 'I have attended every single Conservative Party conference since 
 
 Oh yeah... start random, one-step on autograd computed gradient over RBF hills, and we have a near optimal path.
 
-<img src="https://pbs.twimg.com/media/EGQ5U57WwAA_-Zb?format=png&name=small" width="400"/>
+<img src="twimg/EGQ5U57WwAA_-Zb.png" width="400"/>
 
 ---
 
@@ -483,7 +483,7 @@ planet. Look at the marathon runner, from Bawston Marathon. He's got
 the shit kicked out of him, he is hating life at this moment. This is
 all pain no gain.
 
-<img src="https://pbs.twimg.com/media/EGQcR41XUAA2050?format=jpg&name=large" width="500"/>
+<img src="twimg/EGQcR41XUAA2050.jpg" width="500"/>
 
 ---
 
@@ -560,7 +560,7 @@ verge of breaking into high-income status"
 
 US CEO Confidence Survey
 
-<img width="400" src="https://pbs.twimg.com/media/EGIoZ7LW4AEUgOx?format=jpg&name=medium"/>
+<img width="400" src="twimg/EGIoZ7LW4AEUgOx.jpg"/>
 
 ---
 
@@ -622,7 +622,7 @@ score, and combines it with the valution of a stock, he creates four
 quadrants, bottom right for example is for stocks that are overvalued
 and have a bubble formed. A contrarian seller can use that signal.
 
-<img width="500" src="https://pbs.twimg.com/media/EGI1zJhXYAEUIT_?format=png&name=small"/>
+<img width="500" src="twimg/EGI1zJhXYAEUIT_.png"/>
 
 This style of bubble detection is slightly more advanced than "Black
 Swans" which in a way simply means "shit happens". Pretty crude
@@ -871,7 +871,7 @@ Obviously the bag needs its own rain protection.
 
 ---
 
-<img width="500" src="https://pbs.twimg.com/media/EF-iijGWkAUCP2S?format=jpg&name=small"/>
+<img width="500" src="twimg/EF-iijGWkAUCP2S.jpg"/>
 
 ---
 
@@ -910,7 +910,7 @@ corp profit time-series looks exponential = like a bubble.
 2008 was a brief return to normalcy, but then they upped the laughing
 gas again.
 
-<img width="600" src="https://pbs.twimg.com/media/EF-SXM2XYAAZNTq?format=jpg&name=small"/>
+<img width="600" src="twimg/EF-SXM2XYAAZNTq.jpg"/>
 
 ---
 

@@ -123,7 +123,7 @@ on Autocad. I might get on this 3D printing craze one day.
 
 Shaq-Fu. I know a guy who knows a guy who played this game. Vintage 90s. Legendary.
 
-<img width="340" src="https://pbs.twimg.com/media/EsQNrdRW4AArq_b?format=jpg&name=small"/>
+<img width="340" src="twimg/EsQNrdRW4AArq_b.jpg"/>
 
 ---
 
@@ -290,7 +290,7 @@ Seinfeld is right - Bernie Mac was one of the best. Definitely top 5.
 
 Number One, I order you to go take a Number Two.
 
-<img width="250" src="https://pbs.twimg.com/media/EJE5HXjW4AIRXWq?format=png&name=small"/>
+<img width="250" src="twimg/EJE5HXjW4AIRXWq.png"/>
 
 ---
 
@@ -372,7 +372,7 @@ From [Morning Consult](https://morningconsult.com/2020-democratic-primary/).
 
 Warren took from Kamala, we talked abt Bernie-Warren correlation [before](https://muratk3n.github.io/thirdwave/en/tweets/2019/week36.html#corr). 
 
-<img src="https://pbs.twimg.com/media/EJCjgsuWwAY93Li?format=png&name=small" width="400"/>
+<img src="twimg/EJCjgsuWwAY93Li.png" width="400"/>
 
 ---
 

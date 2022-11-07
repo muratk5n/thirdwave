@@ -91,7 +91,7 @@ lay down the law. Bring in the hurt. How to chizzle the shizzle
 
 Taking little samples of the Rosenbrock bitch
 
-<img src="https://pbs.twimg.com/media/EIsG3lBXkAIL0XA?format=png&name=small" width="400"/>
+<img src="twimg/EIsG3lBXkAIL0XA.png" width="400"/>
 
 ---
 
@@ -99,7 +99,7 @@ Fire those retro-rockets, shoot the fruton torpidos, and like uhhh-uhhh make us 
 
 \#butthead \#trek
 
-<img src="https://pbs.twimg.com/media/EIr8QVZWoAAURQU?format=png&name=small" width="300"/>
+<img src="twimg/EIr8QVZWoAAURQU.png" width="300"/>
 
 ---
 
@@ -273,7 +273,7 @@ Haha. Odd meme. I like it.
 
 Owls crack me up.
 
-<img width="300" src="https://pbs.twimg.com/media/EIqjCdyWsAMX-Am?format=jpg&name=900x900"/>
+<img width="300" src="twimg/EIqjCdyWsAMX-Am.jpg"/>
 
 ---
 
