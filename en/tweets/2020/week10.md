@@ -206,7 +206,7 @@ sa<img width="340" src="https://media2.giphy.com/media/143mqu3JWkVRlu/giphy.gif"
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/ESZgCA_XYAA9xIM?format=jpg&name=small"/>
+<img width="340" src="twimg/ESZgCA_XYAA9xIM.jpg"/>
 
 ---
 
@@ -435,7 +435,7 @@ Airing in FLORIDA now"
 
 No East Coast, no West Coast - it's Middle East Coast hip-hop baby
 
-<img width="240" src="https://pbs.twimg.com/media/ESQ9glhXYAA_flB?format=png&name=small"/>
+<img width="240" src="twimg/ESQ9glhXYAA_flB.png"/>
 
 ---
 
@@ -583,7 +583,7 @@ Well.. if you are building more theories claiming MV exists you are
 kind of a moron, but you really need to take that extra step, reeeealy
 __try__ to get there, to be that moron, but other than that, watch
 your scifi shows, have fun. Have the [evil
-twin](https://pbs.twimg.com/media/ESPwoRoXUAAwifV?format=jpg&name=small)
+twin](twimg/ESPwoRoXUAAwifV.jpg)
 guy go forward in time, switch to a universe, go backward in time,
 come back to orig universe... Hell do whatever man.. Itz all good.
 

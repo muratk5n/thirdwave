@@ -6,7 +6,7 @@ i saw the best minds of my generation destroyed by pretending to be passionate a
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/ER9irn6U4AY3B_o?format=jpg&name=small"/>
+<img width="340" src="twimg/ER9irn6U4AY3B_o.jpg"/>
 
 ---
 
@@ -128,7 +128,7 @@ insisted it should be kept open as a 'house for cure'"
 
 Waa waaa waaaa waaaaaaa
 
-<img width="340" src="https://pbs.twimg.com/media/ER347DWWkAUGb0k?format=jpg&name=900x900"/>
+<img width="340" src="twimg/ER347DWWkAUGb0k.jpg"/>
 
 ---
 
@@ -152,11 +152,6 @@ The Fed, with it liquidity operations masked all the underlying issues
 in the markets over the past year. We had no earnings growth in 2019,
 we had multiple expansion. The bond market never confirmed the
 reflation trade"
-
----
-
-<img width="340" 
- src="https://pbs.twimg.com/media/ER4LTWXXsAAv9Ue?format=jpg&name=small"/>
 
 ---
 
@@ -837,7 +832,7 @@ plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
 plt.savefig('delin.png')
 ```
 
-<img width="340" src="https://pbs.twimg.com/media/ERtLDrSWAAAQewc?format=png&name=small"/>
+<img width="340" src="twimg/ERtLDrSWAAAQewc.png"/>
 
 ---
 
@@ -956,7 +951,7 @@ two-state solution in Palestine then?"
 
 I'll drink to that
 
-[Link](https://pbs.twimg.com/media/ERohFWAXYAE32ui?format=jpg&name=small)
+[Link](twimg/ERohFWAXYAE32ui.jpg)
 
 ---
 
@@ -1030,7 +1025,7 @@ good material? This guy!! 👍 😊 👍
 
 Hierarchy of needs? Here is a good one
 
-[Link](https://pbs.twimg.com/media/ERms3mSWAAAB832?format=png&name=medium)
+[Link](twimg/ERms3mSWAAAB832.png)
 
 ---
 
@@ -1069,7 +1064,7 @@ instruments than others". But at any given time sure, it may not be.
 
 No thanks
 
-[Ad](https://pbs.twimg.com/media/ERljZwoXkAEwI3R?format=jpg&name=small)
+[Ad](twimg/ERljZwoXkAEwI3R.jpg)
 
 ---
 

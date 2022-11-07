@@ -254,7 +254,7 @@ TO LACK OF PARTS - SPOKESMAN"
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/ES_QbEYWkAEQfpA?format=jpg&name=small"/>
+<img width="340" src="twimg/ES_QbEYWkAEQfpA.jpg"/>
 
 ---
 
@@ -373,10 +373,6 @@ it's not the bottom until Warren Buffet wrangles a big bank into a shit OTC deal
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/ES-PvitXkAEhLK2?format=jpg&name=medium"/>
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hundreds of hungry monkeys swarm across Thai street as &#39;rival gangs&#39; fight over food after tourists who normally feed them stay away because of coronavirus <a href="https://t.co/lQZ0sOzwDF">https://t.co/lQZ0sOzwDF</a> <a href="https://t.co/8TgrCTBrQ8">pic.twitter.com/8TgrCTBrQ8</a></p>&mdash; Daily Mail Online (@MailOnline) <a href="https://twitter.com/MailOnline/status/1238012197537755136?ref_src=twsrc%5Etfw">March 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
@@ -462,10 +458,6 @@ kool-aid magic kebab.
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/ES3cEAhU0AAjgnw?format=jpg&name=small"/>
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">MethFuel – Subproject “Flexible PEM Electrolysis” Awarded “Gigawatt Winner” at Energy Storage Europe 2020--1 MW PEM electrolysis operable up to 200 percent of nominal capacity--<a href="https://t.co/WuJkSAYeoD">https://t.co/WuJkSAYeoD</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> <a href="https://twitter.com/hashtag/fuelcells?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcells</a> <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/hydrogennow?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennow</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://twitter.com/hashtag/h2?src=hash&amp;ref_src=twsrc%5Etfw">#h2</a> <a href="https://twitter.com/hashtag/zeroemissions?src=hash&amp;ref_src=twsrc%5Etfw">#zeroemissions</a> <a href="https://t.co/df16FylyHd">pic.twitter.com/df16FylyHd</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1238069995478933505?ref_src=twsrc%5Etfw">March 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
@@ -498,7 +490,7 @@ Let’s fucking go"
 
 Woha. Proximal w backtrackig
 
-<img width="340" src="https://pbs.twimg.com/media/ES5mA9JXsAAnF6W?format=png&name=small"/>
+<img width="340" src="twimg/ES5mA9JXsAAnF6W.png"/>
 
 ---
 
@@ -546,7 +538,7 @@ Finally, da Proximal Grad Descent..
 
 ---
 
-<img width="240" src="https://pbs.twimg.com/media/ES5SIQTWsAEg8gi?format=png&name=small"/>
+<img width="240" src="twimg/ES5SIQTWsAEg8gi.png"/>
 
 ---
 
@@ -790,7 +782,7 @@ than voting trump out"
 
 A gentle reminder to ppl who are getting smacked even on their way out
 
-<img width="240" src="https://pbs.twimg.com/media/ES6YjvKWAAEtGn3?format=jpg&name=small"/>
+<img width="240" src="twimg/ES6YjvKWAAEtGn3.jpg"/>
 
 ---
 
@@ -990,12 +982,6 @@ Back that azz up
 
 ---
 
-Bloodbath
-
-<img width="340" src="https://pbs.twimg.com/media/ESrINTaWkAEFx_k?format=png&name=small"/>
-
----
-
 "@carlquintanilla
 
 Circuit-breakers today:
@@ -1113,7 +1099,7 @@ How did inequality change in US over the years? I used "wealth by
 wealth percentile group" [chart](https://www.federalreserve.gov/releases/z1/dataviz/dfa/distribute/chart/#range:1989.3,2019.3)
 from the FED and calculated the Gini coefficient at various times. Code based on [script](https://github.com/ICEACE/MATLAB/blob/master/gini.m).
 
-<img width="340" src="https://pbs.twimg.com/media/ESpalJCWsAAfUj8?format=jpg&name=small"/>
+<img width="340" src="twimg/ESpalJCWsAAfUj8.jpg"/>
 
 Output (the lower the better) says inequality became worse under
 Clinton, W (worst) and Obama. It improved under Trump 😶.
@@ -1210,7 +1196,7 @@ Volatity Index
 
 Selling... spinning what you dont have as 'feature', not a bug.
 
-<img width="340" src="https://pbs.twimg.com/media/ESiUHCJXsAIKw_M?format=jpg&name=medium"/>
+<img width="340" src="twimg/ESiUHCJXsAIKw_M.jpg"/>
 
 
 ---
@@ -1373,7 +1359,7 @@ constructions.. Very cool.
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/EShll2jXYAELCBo?format=png&name=small"/>
+<img width="340" src="twimg/EShll2jXYAELCBo.png"/>
 
 If there are infinitely many stars, why isn't our night sky infinitely
 bright? Longer form below:
