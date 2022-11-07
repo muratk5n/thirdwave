@@ -3,7 +3,7 @@
 
 "@AlecStapp
 
-Fix your labor shortage with this one [weird trick](https://pbs.twimg.com/media/FEIaeNNWUAI-dlM?format=jpg&name=small)"
+Fix your labor shortage with this one [weird trick](twimg/FEIaeNNWUAI-dlM.jpg)"
 
 ---
 
@@ -58,7 +58,7 @@ If Oz wanted to replace coal, the coal regions (in the East, and SW)
 also get good sunshine. People can easily transition to a job at a
 thermosolar plant.
 
-[[-]](https://pbs.twimg.com/media/FENtnFlWUAIDbMK?format=jpg&name=small)
+[[-]](twimg/FENtnFlWUAIDbMK.jpg)
 
 ---
 
@@ -90,7 +90,7 @@ Yes ! The Worst of Both Worlds: Zooming From the Office"
 ---
 
 Hah. Just heard guy on RT say "Germany destroyed its nuclear sector,
-now have to rely on 90% natural gas for power generation". [Incorrect](https://pbs.twimg.com/media/FEYfMPoWYAEUpOs?format=jpg&name=small)
+now have to rely on 90% natural gas for power generation". [Incorrect](twimg/FEYfMPoWYAEUpOs.jpg)
 
 The rabble-rouser, thorn-on-the-side shtick is fine, but plz don't
 pull bizarre non-truths out of your ass \#RT
@@ -290,7 +290,7 @@ done. What's the big deal..?
 
 Pacific Green shows how #CSP can cut green ammonia costs, [link](https://www.pacificgreen-solar.com/articles/pacific-green-shows-how-cut-green-ammonia-costs-ammonia-energy-conference-2021)"
 
-<img width="340" src="https://pbs.twimg.com/media/FEOBT38XMAECsfL?format=jpg&name=small"/>
+<img width="340" src="twimg/FEOBT38XMAECsfL.jpg"/>
 
 [[-]](https://twitter.com/IEA_SolarPACES/status/1460152887716290563)
 
@@ -463,7 +463,7 @@ gathering.. And there is room to do more.
 
 ---
 
-[Looks](https://pbs.twimg.com/media/FEF9quAWYBALdvn?format=jpg&name=small)
+[Looks](twimg/FEF9quAWYBALdvn.jpg)
 pretty bad...
 
 Reuters: "New Delhi to shut schools, construction sites as pollution
@@ -529,7 +529,7 @@ search for SA, QTR.
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/FEAScLVXMAM6jd7?format=jpg&name=small"/>
+<img width="340" src="twimg/FEAScLVXMAM6jd7.jpg"/>
 
 ---
 

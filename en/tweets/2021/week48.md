@@ -107,7 +107,7 @@ Abe said "just look at the map".. this is why.
 
 ---
 
-[Ryukyu Islands](https://pbs.twimg.com/media/FFqQWg1XEAAwuNw?format=jpg&name=small).
+[Ryukyu Islands](twimg/FFqQWg1XEAAwuNw.jpg).
 And they all belong to Japan.. 
 
 ---
@@ -286,13 +286,13 @@ Was checking out some of my 2016 campaign shares; there was lot of
 "good Dem-bad Trump" takes, some are still good, here's one with
 Obama/Trump
 
-[[-]](https://pbs.twimg.com/media/FFObWzDXIAQ70tF?format=jpg&name=small)
+[[-]](twimg/FFObWzDXIAQ70tF.jpg)
 
 ---
 
 Reshare from 2013
 
-<img src="https://pbs.twimg.com/media/FFRwtqpXsAgEh_3?format=png&name=small"/>
+<img src="twimg/FFRwtqpXsAgEh_3.png"/>
 
 ---
 
@@ -311,8 +311,6 @@ Starting the PhD Finishing post doc"
 ---
 
 Barbados becomes a republic and removes Queen Elizabeth II as head of state
-
-<img width="340" src="https://pbs.twimg.com/semantic_core_img/1465692754063757330/fQblwGvY?format=jpg&name=small"/>
 
 👏 👏 👏 👏 👏 👏 
 
@@ -400,7 +398,7 @@ auction would go ahead before the end of this December"
 
 Submarine cables map, as in cables that are laid under the sea
 
-[[-]](https://pbs.twimg.com/media/FFDK09LXoAUg3hK?format=jpg&name=medium)
+[[-]](twimg/FFDK09LXoAUg3hK.jpg)
 
 ---
 
@@ -542,7 +540,7 @@ plt.legend(h1+h2, l1+l2, loc=2)
 plt.savefig('currxch.png')
 ```
 
-<img width="300" src="https://pbs.twimg.com/media/FFMEzLxWUAAHwZv?format=jpg&name=small"/>
+<img width="300" src="twimg/FFMEzLxWUAAHwZv.jpg"/>
 
 ```python
 df.corr()
@@ -569,7 +567,7 @@ selling, save other balancing factors, currency will adjust to that.
 
 🤣 🤣 🤣 
 
-[[Tweet]](https://pbs.twimg.com/media/FE1kRn6XEAA1hDB?format=jpg&name=small)
+[[Tweet]](twimg/FE1kRn6XEAA1hDB.jpg)
 
 ---
 
