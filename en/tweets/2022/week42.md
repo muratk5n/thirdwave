@@ -43,7 +43,7 @@ is not exactly the meaning of friendship'"
 
 ---
 
-[Link](https://pbs.twimg.com/media/FflBvumXgAECu8a?format=jpg&name=small)
+[Link](twimg/FflBvumXgAECu8a.jpg)
 
 ---
 
@@ -247,7 +247,7 @@ PhD student attending first big conference, with advisor"
 
 \#Tires
 
-[[-]](https://pbs.twimg.com/media/FfP0I84WIAENAED?format=jpg&name=small)
+[[-]](twimg/FfP0I84WIAENAED.jpg)
 
 ---
 

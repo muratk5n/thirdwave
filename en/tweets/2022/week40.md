@@ -893,13 +893,13 @@ follow"
 
 Same for 2022 by Platform, from May
 
-[[-]](https://pbs.twimg.com/media/Fd96aptWAAE0rbc?format=jpg&name=small)
+[[-]](twimg/Fd96aptWAAE0rbc.jpg)
 
 ---
 
 Avg Monthly Hours Spent Per User Per Soc Media 
 
-[[-]](https://pbs.twimg.com/media/Fd96UyCX0AA3doX?format=jpg&name=small)
+[[-]](twimg/Fd96UyCX0AA3doX.jpg)
 
 ---
 
