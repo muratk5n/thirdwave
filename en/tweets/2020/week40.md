@@ -798,9 +798,3 @@ same stuff"
 [Link](https://youtu.be/ltzJbdKtKa4?t=1035)
 
 ---
-
-<center>
-<img width="140" src="https://pbs.twimg.com/media/ETZJzIkXgAAEi9Q?format=jpg&name=small"/>
-</center>
-
----

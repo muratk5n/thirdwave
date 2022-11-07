@@ -755,8 +755,3 @@ of yesterday, waiting for Berlin’s Godot is finally over"
 
 ---
 
-<center>
-<img width="140" src="https://pbs.twimg.com/media/ETZJzIkXgAAEi9Q?format=jpg&name=small"/>
-</center>
-
----

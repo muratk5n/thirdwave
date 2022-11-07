@@ -941,7 +941,3 @@ at-scale decarbonisation"
 
 ---
 
-<center>
-<img width="140" src="twimg/ETZJzIkXgAAEi9Q.jpg"/>
-</center>
-

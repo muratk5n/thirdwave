@@ -8,7 +8,7 @@ The question is: why?
 
 We take a fresh look at this [below]"
 
-<img width="340" src="https://pbs.twimg.com/media/Ej-QtGsWAAIM59A?format=jpg&name=small"/>
+<img width="340" src="twimg/Ej-QtGsWAAIM59A.jpg"/>
 
 [Link](https://twitter.com/lucas_chancel/status/1314928729836195847)
 
@@ -493,12 +493,6 @@ Biden. First time voting for Dems"
 
 ---
 
-I like @caitoz background pic
-
-<img width="340" src="https://pbs.twimg.com/profile_banners/19899980/1582721434/600x200"/>
-
----
-
 Goood. Unix utility `mpv` can play `.pls` URLs, handy for
 streaming. Pick one with low bitrate, u can replace radio.
 
@@ -670,8 +664,3 @@ internet remains open and free.'"
 
 ---
 
-<center>
-<img width="140" src="https://pbs.twimg.com/media/ETZJzIkXgAAEi9Q?format=jpg&name=small"/>
-</center>
-
----

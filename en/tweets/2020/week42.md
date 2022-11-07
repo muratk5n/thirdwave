@@ -373,7 +373,7 @@ powered". 🤣 🤣 🤣 The state of this tech is so sad.
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/EkOmATjWkAUKunD?format=jpg&name=small"/>
+<img width="340" src="twimg/EkOmATjWkAUKunD.jpg"/>
 
 ---
 
@@ -531,13 +531,13 @@ Redtenbacher's Funkestra - Dr Hypenstein \#music
 
 His Epstein number seems to be high, 4. Good for him.
 
-[Picture \#1](https://pbs.twimg.com/media/EkMd6XPXkAES7PO?format=jpg&name=small).
+[Picture \#1](twimg/EkMd6XPXkAES7PO.jpg).
 
-[Picture \#2](https://pbs.twimg.com/media/EkMf5hhWoAQ28M0?format=jpg&name=small).
+[Picture \#2](twimg/EkMf5hhWoAQ28M0.jpg).
 
-[Picture \#3](https://pbs.twimg.com/media/EgPfBQdWoAEFmsW?format=jpg&name=small).
+[Picture \#3](twimg/EgPfBQdWoAEFmsW.jpg).
 
-[Picture \#4](https://pbs.twimg.com/media/EgPe-HTWkAAKbbl?format=jpg&name=small).
+[Picture \#4](twimg/EgPe-HTWkAAKbbl.jpg).
 
 "What do you think of Gordon Brown?"
 
@@ -796,12 +796,6 @@ That's the vibe I am getting from this thing. Catty.
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Just went for a walk in a cemetery and a guy has a QR code on his grave stone that links to a list of his publications and citation metrics</p>&mdash; Justin Joque (@jjoque) <a href="https://twitter.com/jjoque/status/1314954067077144577?ref_src=twsrc%5Etfw">October 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-<center>
-<img width="140" src="https://pbs.twimg.com/media/ETZJzIkXgAAEi9Q?format=jpg&name=small"/>
-</center>
 
 ---
 

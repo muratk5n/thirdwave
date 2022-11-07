@@ -481,7 +481,7 @@ docked at port (also known as ‘cold ironing’)"
 
 Want One
 
-<img width="340" src="https://pbs.twimg.com/media/EibPfZWXsAYTYYV?format=jpg&name=small"/>
+<img width="340" src="twimg/EibPfZWXsAYTYYV.jpg"/>
 
 ---
 
@@ -728,8 +728,3 @@ coronavirus"
 
 ---
 
-<center>
-<img width="140" src="https://pbs.twimg.com/media/ETZJzIkXgAAEi9Q?format=jpg&name=small"/>
-</center>
-
----

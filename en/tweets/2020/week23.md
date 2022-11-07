@@ -1022,7 +1022,3 @@ them too, like 1st, 2nd..?
 
 ---
 
-<center>
-<img width="140" src="twimg/ETZJzIkXgAAEi9Q.jpg"/>
-</center>
-

@@ -279,7 +279,7 @@ it's done moving forward"
 
 ---
 
-[The hat](https://pbs.twimg.com/media/EfwcLhDWsAE0X39?format=jpg&name=small)
+[The hat](twimg/EfwcLhDWsAE0X39.jpg)
 
 ---
 
@@ -783,9 +783,5 @@ Arab states as dangerous 'intruders' in their own region"
 `numpy-stl` 👍 Good stuff. Allows accessing of CAD files from Python. 
 
 ---
-
-<center>
-<img width="140" src="https://pbs.twimg.com/media/ETZJzIkXgAAEi9Q?format=jpg&name=small"/>
-</center>
 
 

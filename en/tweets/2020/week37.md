@@ -25,7 +25,7 @@ incumbency. Long shot. Net popularity at -9%.
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/EhnxRqSWoAERux5?format=jpg&name=small"/> 
+<img width="340" src="twimg/EhnxRqSWoAERux5.jpg"/> 
 
 ---
 
@@ -83,7 +83,7 @@ related reasons before then"
 
 ---
 
-![](https://pbs.twimg.com/media/EhsH-ugWsAE_hSH?format=jpg&name=small)
+![](twimg/EhsH-ugWsAE_hSH.jpg)
 
 ---
 
@@ -229,7 +229,7 @@ What’s clean, efficient and completely affordable?"
 
 The gunner is standing at a weird place, but interesting ..
 
-<img width="340" src="https://pbs.twimg.com/media/DzL_3YVWwAE1ztL?format=jpg&name=medium"/>
+<img width="340" src="twimg/DzL_3YVWwAE1ztL.jpg"/>
 
 ---
 
@@ -408,7 +408,7 @@ The future cannot arrive fast enough.
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/EgmTFU0X0AgDvVb?format=jpg&name=small"/>
+<img width="340" src="twimg/EgmTFU0X0AgDvVb.jpg"/>
 
 ---
 
@@ -752,8 +752,3 @@ watched"
 [Link](https://www.theatlantic.com/ideas/archive/2020/09/there-no-escapism-americas-current-crises/616012/)
 
 ---
-
-<center>
-<img width="140" src="https://pbs.twimg.com/media/ETZJzIkXgAAEi9Q?format=jpg&name=small"/>
-</center>
-

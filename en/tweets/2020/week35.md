@@ -494,7 +494,7 @@ That machine has been running without reboot for nearly 14 years.
 
 Unix is awesome.
 
-<img width="340" src="https://pbs.twimg.com/media/EgNFD0UUEAAmvfq?format=jpg&name=small"/>
+<img width="340" src="twimg/EgNFD0UUEAAmvfq.jpg"/>
 
 ---
 
@@ -562,9 +562,9 @@ reducing agent in the blast furnace has begun operation"
 
 ---
 
-[Picture \#1](https://pbs.twimg.com/media/EgPfBQdWoAEFmsW?format=jpg&name=small).
+[Picture \#1](twimg/EgPfBQdWoAEFmsW.jpg).
 
-[Picture \#2](https://pbs.twimg.com/media/EgPe-HTWkAAKbbl?format=jpg&name=small).
+[Picture \#2](twimg/EgPe-HTWkAAKbbl.jpg).
 
 His degree of seperation to Epstein is 2. This guy is fukked.
 
@@ -741,7 +741,7 @@ that his estimate would be roughly equivalent to 4.2±0.5 × 10^24 kg"
 ---
 
 <center>
-<img width="140" src="https://pbs.twimg.com/media/ETZJzIkXgAAEi9Q?format=jpg&name=small"/>
+<img width="140" src="twimg/ETZJzIkXgAAEi9Q.jpg"/>
 </center>
 
 

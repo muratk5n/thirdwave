@@ -10,11 +10,11 @@ What do I think of Hollande of FR?
 Whenever I get these questions, I always check a person's Epstein
 number first.
 
-[Picture \#1](https://pbs.twimg.com/media/EhIfl-bXsAUpJFK?format=jpg&name=small)
+[Picture \#1](twimg/EhIfl-bXsAUpJFK.jpg)
 
-[Picture \#2](https://pbs.twimg.com/media/EhIfs_RWkAQpl_0?format=jpg&name=small)
+[Picture \#2](twimg/EhIfs_RWkAQpl_0.jpg)
 
-[Picture \#3](https://pbs.twimg.com/media/EgPe-HTWkAAKbbl?format=jpg&name=small)
+[Picture \#3](twimg/EgPe-HTWkAAKbbl.jpg)
 
 Hollande's Epstein number is 3.
 
@@ -127,7 +127,7 @@ The tent city is called C3PO? :)
 
 I've found the greatest movie poster of all time"
 
-[Link](https://pbs.twimg.com/media/EhFvsuwXsAIDUsc?format=jpg&name=small)
+[Link](twimg/EhFvsuwXsAIDUsc.jpg)
 
 ---
 
@@ -488,7 +488,7 @@ parking space"
 
 SPHeric. Cool \#SPH
 
-<img width="340" src="https://pbs.twimg.com/media/EgwUiRzXcAMZhkg?format=jpg&name=large"/>
+<img width="340" src="twimg/EgwUiRzXcAMZhkg.jpg"/>
 
 ---
 
@@ -659,7 +659,7 @@ Normandy, is it?
 
 Niicee. Where the F is that?
 
-<img src="https://pbs.twimg.com/media/EgqplmAXsAAhGIj?format=jpg&name=small"/>
+<img src="twimg/EgqplmAXsAAhGIj.jpg"/>
 
 ---
 
@@ -689,6 +689,6 @@ new book on inequality has fallen afoul of China’s censors"
 ---
 
 <center>
-<img width="140" src="https://pbs.twimg.com/media/ETZJzIkXgAAEi9Q?format=jpg&name=small"/>
+<img width="140" src="twimg/ETZJzIkXgAAEi9Q.jpg"/>
 </center>
 
