@@ -535,7 +535,7 @@ process using a catalyst based on noble metals"
 
 ---
 
-Daam. A big [check](https://pbs.twimg.com/media/Ewekxk5WgAEsOTW?format=jpg&name=medium).
+Daam. A big [check](twimg/Ewekxk5WgAEsOTW.jpg).
 
 (.. meat sushi?)
 
@@ -654,13 +654,7 @@ man..
 
 Hey thats lota of carbon, asshole.
 
-<img width="340" src="https://pbs.twimg.com/media/EwanhMtXMAE2E-A?format=jpg&name=small"/>
-
----
-
-🤣 🤣 🤣  😢 😢 😢 😢 
-
-<img width="98%" src="https://pbs.twimg.com/media/EwTcKI6WYAcYyJ_?format=jpg&name=small"/>
+<img width="340" src="twimg/EwanhMtXMAE2E-A.jpg"/>
 
 ---
 

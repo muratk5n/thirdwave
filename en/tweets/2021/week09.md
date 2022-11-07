@@ -511,7 +511,7 @@ memory is gone, clean slate.
 
 Report was prepared by H2 Council and McKinsey.
 
-The council is made up of >100 companies, w some [well-known](https://pbs.twimg.com/media/EvS25tLXYAAnWCA?format=jpg&name=small)
+The council is made up of >100 companies, w some [well-known](twimg/EvS25tLXYAAnWCA.jpg)
 names.
 
 "Longer-term, a hydrogen pipeline network offers the most
@@ -565,7 +565,7 @@ formula describing everything.
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/EvSnG6IXcAAfkfU?format=png&name=small"/>
+<img width="340" src="twimg/EvSnG6IXcAAfkfU.png"/>
 
 ---
 

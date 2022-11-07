@@ -1,6 +1,6 @@
 # Week 10
 
-<img width="96%" src="https://pbs.twimg.com/media/EvdKNhvXAAE9Rr2?format=png&name=small"/>
+<img width="96%" src="twimg/EvdKNhvXAAE9Rr2.png"/>
 
 ---
 
@@ -337,7 +337,7 @@ live"
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/EwIHGadXYAAKAgr?format=jpg&name=medium"/>
+<img width="340" src="twimg/EwIHGadXYAAKAgr.jpg"/>
 
 ---
 
@@ -378,7 +378,7 @@ Marx missed that same point about the Second Wave; thinking
 
 People power.. Sure..
 
-Remember 2006 TIME [Person of the Year](https://pbs.twimg.com/media/Ev3M9t0WgAAdkKv?format=png&name=small)?
+Remember 2006 TIME [Person of the Year](twimg/Ev3M9t0WgAAdkKv.png)?
 
 And what happened since? Think grasshopper.
 
@@ -523,7 +523,7 @@ plt.axvspan(2016,2016,color='y')
 plt.savefig('out.png')
 ```
 
-<img width="340" src="https://pbs.twimg.com/media/Ev9qgiUXMAIq6Br?format=png&name=small"/>
+<img width="340" src="twimg/Ev9qgiUXMAIq6Br.png"/>
 
 There was decrease soon after 1989, the fall of the Berlin Wall. Kept
 on going down past 9/11, past the invasion of Iraq.. But, I guess bcz
@@ -797,7 +797,7 @@ plt.title('IS Activity')
 plt.savefig('out.png')
 ```
 
-<img width="340" src="https://pbs.twimg.com/media/Ev0SdqoXMAcQltI?format=png&name=small"/>
+<img width="340" src="twimg/Ev0SdqoXMAcQltI.png"/>
 
 Monthly occurence of attacks globally hover around 30.
 

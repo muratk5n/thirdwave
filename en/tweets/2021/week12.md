@@ -83,7 +83,7 @@ plt.ylabel('Second PC')
 plt.savefig('pnas.png')
 ```
 
-<img width="340" src="https://pbs.twimg.com/media/ExgVXABWgAUEAG9?format=png&name=small"/>
+<img width="340" src="twimg/ExgVXABWgAUEAG9.png"/>
 
 ---
 
@@ -149,7 +149,7 @@ Dining Rooms - La Citta' Nuda \#music
 
 Suez traffic update
 
-<img width="200" src="https://pbs.twimg.com/media/Exb5TG5W8AEq5BR?format=png&name=small"/>
+<img width="200" src="twimg/Exb5TG5W8AEq5BR.png"/>
 
 ---
 
@@ -194,7 +194,7 @@ is "The Pond". Nothing for the Pacific?
 Haha of course PCA of simple sinusodial wld be like this.. imagine self at that
 blue line u constantly see points of plot falling all around you - largest variation.
 
-<img width="340" src="https://pbs.twimg.com/media/ExYlEFJWYAAFleu?format=png&name=small"/>
+<img width="340" src="twimg/ExYlEFJWYAAFleu.png"/>
 
 ---
 
@@ -298,7 +298,7 @@ shortages, lack of health care and ill-treatment"
 
 Satellite images improved ... \#suez
 
-<img width="340" src="https://pbs.twimg.com/media/ExVGnbcWgAEeoQ9?format=jpg&name=small"/>
+<img width="340" src="twimg/ExVGnbcWgAEeoQ9.jpg"/>
 
 ---
 
@@ -380,7 +380,7 @@ in this @BBCNews article [below]"
 The blocking ship is out they say? It was still in the Canal at Oh
 Nine Hundred Hours EST last I checked.
 
-<img width="340" src="https://pbs.twimg.com/media/ExQ3CFQWUAED23z?format=png&name=small"/>
+<img width="340" src="twimg/ExQ3CFQWUAED23z.png"/>
 
 [Link](https://www.marinetraffic.com/en/ais/home/centerx:32.542/centery:30.035/zoom:13)
 
@@ -449,7 +449,7 @@ that muthafucka
 
 ---
 
-<img width="300" src="https://pbs.twimg.com/media/ExRCvikWQAAeQUj?format=jpg&name=small"/>
+<img width="300" src="twimg/ExRCvikWQAAeQUj.jpg"/>
 
 ---
 
@@ -676,7 +676,7 @@ disco, Studio 54, I dig it, but some stuff got lost during "the show".
 Extend rays like below, implies angle between two cities is 7.2
 relative to Earth center
 
-<img width="340" src="https://pbs.twimg.com/media/ExBij1KXMAA5ekf?format=jpg&name=small"/>
+<img width="340" src="twimg/ExBij1KXMAA5ekf.jpg"/>
 
 Btw city angle is 7.2 out of 360 deg. He had a guy walk btw cities,
 dist 5000 stadia = 800 km. Using angle ratio equalness to
@@ -706,7 +706,7 @@ during summer solst., stick in Syene has no shadow, at noon. He tried
 it in Alexandria (little north) saw shadow. Measured angle, 7.2
 degrees,
 
-<img width="340" src="https://pbs.twimg.com/media/ExBiiH1WUAUaG6W?format=jpg&name=small"/>
+<img width="340" src="twimg/ExBiiH1WUAUaG6W.jpg"/>
 
 ---
 
@@ -749,7 +749,7 @@ exports blocked if it does not meet its contractual obligations"
 
 Dang
 
-<img width="340" src="https://pbs.twimg.com/media/Ew6wXKaXMAIn0dE?format=jpg&name=small"/>
+<img width="340" src="twimg/Ew6wXKaXMAIn0dE.jpg"/>
 
 ---
 

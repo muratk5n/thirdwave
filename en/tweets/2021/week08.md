@@ -1,6 +1,8 @@
 # Week 8
 
-<img width="340" src="https://pbs.twimg.com/card_img/1364925382311489540/CCjbXwd_?format=jpg&name=small"/>
+
+ADL’s British-built H2.0 next generation hydrogen bus to deliver up to
+300 zero-emission mile range
 
 [Link](https://www.alexander-dennis.com/media/news/2021/february/adl-s-british-built-h20-next-generation-hydrogen-bus-to-deliver-up-to-300-zero-emission-mile-range/)
 
@@ -270,7 +272,7 @@ a self-reliant folk, they dont come across as too alert
 
 \#WSJ
 
-<img width="240" src="https://pbs.twimg.com/media/EvAJ_csVkAEi7v8?format=jpg&name=small"/>
+<img width="240" src="twimg/EvAJ_csVkAEi7v8.jpg"/>
 
 ---
 
@@ -449,7 +451,7 @@ ax.set_extent([minx,maxx,miny,maxy], crs=ccrs.PlateCarree())
 plt.savefig('eq.png')
 ```
 
-<img width="340" src="https://pbs.twimg.com/media/Eu2zz5HXEAERzGs?format=jpg&name=small"/>
+<img width="340" src="twimg/Eu2zz5HXEAERzGs.jpg"/>
 
 ---
 
@@ -689,8 +691,8 @@ This guy has some serious hardware.. vacuum sealer?
 
 Key to mobility / camping is dried food. Dried plums, sour cherry...
 
-[Boom](https://pbs.twimg.com/media/EugM3UxWgAIxTLp?format=jpg&name=small).
-[Boom](https://pbs.twimg.com/media/EugM73bXIAE8SSr?format=jpg&name=small).
+[Boom](twimg/EugM3UxWgAIxTLp.jpg).
+[Boom](twimg/EugM73bXIAE8SSr.jpg).
 
 Before eat dont forget to rehydrate (can hurt some stomach dry),
 boil in water (dont throw away water, nutr in there).
