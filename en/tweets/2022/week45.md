@@ -51,7 +51,7 @@ denialism. This election is now about them, not the other guy.
 Dried food update: New oil mix, plus trahana. Pears, carrot instead of
 orange.
 
-[[-]](2022/07/dried-turkey-veg.html)
+[[-]](../../2022/07/dried-turkey-veg.html)
 
 ---
 
@@ -69,7 +69,7 @@ Generated single PDF for all blog posts w `pandoc` bcz, why not?
 
 ---
 
-Added the [item](2022/08/dark-matter.html) to the [junk science](2018/09/junk-science.html) 
+Added the [item](../../2022/08/dark-matter.html) to the [junk science](../../2018/09/junk-science.html) 
 category.
 
 ---
