@@ -244,7 +244,7 @@ df = df[df.index > '2012-01-01']
 df[['capex_ps','eps','cash_div_ps']].plot()
 ```
 
-[[-]](https://pbs.twimg.com/media/Fe5TTbaXoAA2eg5?format=png&name=small)
+[[-]](twimg/Fe5TTbaXoAA2eg5.png)
 
 ---
 
@@ -419,7 +419,7 @@ The Mandarin: "The Australian Securities and Investments Commission
 
 ---
 
-<img width="95%" src="https://pbs.twimg.com/media/Fe0FhHfWYAUiR21?format=jpg&name=small"/>
+<img width="95%" src="twimg/Fe0FhHfWYAUiR21.jpg"/>
 
 H2 Central: "China’s state-backed industry group the China Hydrogen
 Alliance has unveiled an initiative calling for the building of 100GW
@@ -745,7 +745,7 @@ geo = [[48.59086903747, 38.00222462226],[49.41519908195, 38.17381415982],[47.012
 u.sm_plot_ukr3('ukrdata/alt1-1010.csv','ukrdata/alt1-1002.csv',geo)
 ```
 
-[[-]](https://pbs.twimg.com/media/Feu4V1-WIAA9ZnL?format=png&name=small)
+[[-]](twimg/Feu4V1-WIAA9ZnL.png)
 
 ---
 
@@ -894,7 +894,7 @@ Ukrainian drone footage proves Russian invasion forces captured
 Zeitseve, S-E of Bakhmut, while the Ukrainian general staff claims it
 repulsed all Russian attacks on the village"
 
-[[-]](https://pbs.twimg.com/media/FedyOH6XwAMrUH-?format=jpg&name=small)
+[[-]](twimg/FedyOH6XwAMrUH-.jpg)
 
 ---
 

@@ -681,8 +681,6 @@ geo = [[48.5852939679, 37.996352954],[48.96282484, 37.8282576],[47.31878, 33.763
 u.sm_plot_ukr2('ukrdata/alt1-1002.csv', 'ukrdata/alt1-0913.csv',geo)
 ```
 
-<img width="340" src="https://pbs.twimg.com/media/FeIzDCYXkAYGDb2?format=png&name=small"/>
-
 ---
 
 The Independent: "Brazil election: Jair Bolsonaro trails left-wing

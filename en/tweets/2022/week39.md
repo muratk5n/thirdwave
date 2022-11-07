@@ -14,7 +14,7 @@ geo = [[48.590869037477354, 38.00222462226966]]
 u.sm_plot_ukr1('ukrdata/alt1-0913.csv', geo)
 ```
 
-[[-]](https://pbs.twimg.com/media/Fd8KtT5XgAAFlij?format=png&name=small)
+[[-]](twimg/Fd8KtT5XgAAFlij.png)
 
 ---
 
@@ -126,7 +126,7 @@ collapse them, will summarize "all paths".
 
 ---
 
-[That's true](https://pbs.twimg.com/media/Fd5CzwcXoAAJQSv?format=png&name=small).
+[That's true](twimg/Fd5CzwcXoAAJQSv.png).
 
 "Matrix multiplication corresponds to traveling along paths [of graphs]"
 
@@ -208,7 +208,7 @@ geo = [(36.087341966, 44.630878934),(36.5414427, 44.987436019)]
 u.sm_plot_kurd1(geo)
 ```
 
-<img width="340" src="https://pbs.twimg.com/media/Fd07rFEaUAERyNK?format=png&name=small"/>
+<img width="340" src="twimg/Fd07rFEaUAERyNK.png"/>
 
 ---
 
@@ -431,7 +431,7 @@ Nordstream 1,2 leaks at three points.. Likely sabotage. Cui bono? Who
 doesn't want energy links between Russia and Europe, especially
 between RU-DE?
 
-[[-]](https://pbs.twimg.com/media/FdrmL0TXkBQ8WN8?format=jpg&name=small)
+[[-]](twimg/FdrmL0TXkBQ8WN8.jpg)
 
 ---
 
@@ -564,7 +564,7 @@ death proves correct"
 
 @internetOfShit \#TV
 
-[[-]](https://pbs.twimg.com/media/FdU6anragAARrgk?format=jpg&name=small)
+[[-]](twimg/FdU6anragAARrgk.jpg)
 
 ---
 

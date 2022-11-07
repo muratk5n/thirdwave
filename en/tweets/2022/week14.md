@@ -79,7 +79,7 @@ wastes such as plastics, and be converted into hydrogen"
 
 Mongolian gov should encourage converting those coal plants into IGCC,
 or oxy-combustion coal plants which have CCS. Generate clean fuel,
-pipe fuel to homes. Install [H2 ready boilers](https://pbs.twimg.com/media/FPxKxr1X0Ag0WD7?format=jpg&name=small).
+pipe fuel to homes. Install [H2 ready boilers](twimg/FPxKxr1X0Ag0WD7.jpg).
 Done. 
 
 ---
@@ -194,7 +194,7 @@ bases in the South, the real aim is good ol' containment 🤔 ?
 There are so many US bases in SoKo that, at a certain zoom level, it
 blocks the entire country from view on a map.
 
-[[-]](https://pbs.twimg.com/media/FPuKPElXwAQ53sQ?format=png&name=small)
+[[-]](twimg/FPuKPElXwAQ53sQ.png)
 
 ---
 
@@ -322,7 +322,7 @@ technology and Enerkem’s waste-to-fuels technology"
 
 ---
 
-Defund the grid. [Pipes over wires](https://pbs.twimg.com/media/EvdKNhvXAAE9Rr2?format=png&name=small).
+Defund the grid. [Pipes over wires](twimg/EvdKNhvXAAE9Rr2.png).
 
 The Independent: "Storms batter aging power grid as climate disasters
 spread.. Power outages from severe weather have roughly doubled over
@@ -413,7 +413,7 @@ This Dr. Tatsuya Kodama does good work; does research on solar
 beam-down and H2 generation through high heat, wout electrolysis, has
 Oz CSIRO ties.
 
-[[-]](https://pbs.twimg.com/media/FPpiN4eXEAQTllx?format=jpg&name=small)
+[[-]](twimg/FPpiN4eXEAQTllx.jpg)
 
 ---
 
@@ -514,7 +514,7 @@ DATE
 Freq: QS-OCT, Name: hrs_per_dollar, dtype: float64
 ```
 
-[Graph](https://pbs.twimg.com/media/FPfMHYJWUAAsACj?format=png&name=small)
+[Graph](twimg/FPfMHYJWUAAsACj.png)
 
 ---
 
@@ -554,7 +554,7 @@ a space internet network called Project Kuiper"
 
 2014: Eat Butter"
 
-[[-]](https://pbs.twimg.com/media/FPk32mnWQAYJ8oA?format=jpg&name=small)
+[[-]](twimg/FPk32mnWQAYJ8oA.jpg)
 
 ---
 
@@ -700,7 +700,7 @@ you've been warned.
 Spoiler: the last movie has Bond die there. The island now uses it as
 touristic attraction apparently.
 
-[[-]](https://pbs.twimg.com/media/FOrhf5CXMAg-Z3g?format=jpg&name=small)
+[[-]](twimg/FOrhf5CXMAg-Z3g.jpg)
 
 ---
 
@@ -865,7 +865,7 @@ powers..  Sad.
 In a natural evolution of borders Moldova would have the land reaching
 all the way to the Black Sea, areas currently belong to Ukraine.
 
-[[-]](https://pbs.twimg.com/media/FPZe1sNXoAcqpvu?format=jpg&name=small)
+[[-]](twimg/FPZe1sNXoAcqpvu.jpg)
 
 ---
 
@@ -879,14 +879,14 @@ shown with arrow, and yes, Severodonetsk, Rubizhne, Lysychansk,
 Kreminna, Hirske, Popasna Berezove, Toshkivka - all being shelled. If
 RU takes the region the red block will get bigger.
 
-[[-]](https://pbs.twimg.com/media/FPZVQEpWYAE1r0R?format=png&name=small)
+[[-]](twimg/FPZVQEpWYAE1r0R.png)
 
 ---
 
 MSM is not even providing Liveuamap level reporting here. See the red
 regions in the map. Those are RU areas; not newsworthy? 
 
-[[-]](https://pbs.twimg.com/media/FPZWhNmX0AQ7ALF?format=png&name=small)
+[[-]](twimg/FPZWhNmX0AQ7ALF.png)
 
 ---
 
@@ -963,7 +963,7 @@ country waits in petrol and diesel queues"
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/FPDNAgbX0Ao5YMC?format=jpg&name=small"/>
+<img width="340" src="twimg/FPDNAgbX0Ao5YMC.jpg"/>
 
 ---
 
@@ -1001,7 +1001,7 @@ The gun is symbolism for a dick basically
 
 ---
 
-It was [another time](https://pbs.twimg.com/media/FPPRIWWWUAcqYd7?format=jpg&name=small)
+It was [another time](twimg/FPPRIWWWUAcqYd7.jpg)
 
 ---
 
