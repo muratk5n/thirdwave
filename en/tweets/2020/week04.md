@@ -11,7 +11,7 @@ frickin Afganistan tho?
 
 The new Space Force logo looks like Starfleet logo? That's kinda cool
 
-<img width="340" src="https://pbs.twimg.com/media/EPFaQb3XsAAWIMl?format=jpg&name=900x900"/>
+<img width="340" src="twimg/EPFaQb3XsAAWIMl.jpg"/>
 
 ---
 
@@ -114,12 +114,6 @@ subgradient methods BOOM! Tibs gots it.
 
 I managed to scrounge some code off Boyd though, from HW solns (not
 openly published). Freakin archeolog over here.
-
----
-
-New US company
-
-<img width="340" src="https://pbs.twimg.com/card_img/1220474181566988290/Alnabpoa?format=jpg&name=small"/>
 
 ---
 
@@ -693,7 +687,7 @@ And we’ve done it! #EUGreenDeal voted through +482 -136. Phase out of fossil f
 ---
 
 
-<img width="340" src="https://pbs.twimg.com/media/EN1xP0VUcAES3Wh?format=jpg&name=large"/>
+<img width="340" src="twimg/EN1xP0VUcAES3Wh.jpg"/>
 
 ---
 
@@ -739,7 +733,7 @@ rsi( spy, 40 ).plot(ax=axs[1])
 plt.savefig('visa.png')
 ```
 
-<img width="340" src="https://pbs.twimg.com/media/EOqyOteXsAAIraZ?format=png&name=small"/>
+<img width="340" src="twimg/EOqyOteXsAAIraZ.png"/>
 
 ---
 

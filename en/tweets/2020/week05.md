@@ -157,7 +157,7 @@ Which means growth will continue to slow
 
 @rhaoulgmi
 
-<img width="340" src="https://pbs.twimg.com/media/EPm1WAXXUAExlpU?format=jpg&name=medium"/>
+<img width="340" src="twimg/EPm1WAXXUAExlpU.jpg"/>
 
 ---
 
@@ -210,7 +210,7 @@ January Fools!!
 Punchline is at the bottom
 
 <center>
-<img width="200" src="https://pbs.twimg.com/media/EPewrGPX0AAKgh-?format=jpg&name=large"/>
+<img width="200" src="twimg/EPewrGPX0AAKgh-.jpg"/>
 </center>
 
 ---
@@ -389,7 +389,7 @@ dollar" in a Ned Flanders Am accent it was funny
 Holy %#@ shit. -5.29% decrease on the 10yr. A sign of reduced inflation /
 and growth expectation
 
-<img width="340" src="https://pbs.twimg.com/media/EPdsQlwX0AA2C5h?format=png&name=small"/>
+<img width="340" src="twimg/EPdsQlwX0AA2C5h.png"/>
 
 ---
 
@@ -773,7 +773,7 @@ wrong. They're light years off from decades-old reality"
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/EPNBmUTWkAImfcY?format=jpg&name=medium"/>
+<img width="340" src="twimg/EPNBmUTWkAImfcY.jpg"/>
 
 ---
 

@@ -133,7 +133,7 @@ growth.
 
 [No more drugs for that man](https://youtu.be/3bdv8MjwzxA?t=33)
 
-<img width="340" src="https://pbs.twimg.com/media/EQLqUbeW4AMBb5P?format=png&name=medium"/>
+<img width="340" src="twimg/EQLqUbeW4AMBb5P.png"/>
 
 ---
 
@@ -309,7 +309,7 @@ Stor-H? Nice.
 
 An H2 capsule.
 
-<img width="340" src="https://pbs.twimg.com/media/EP2AL4bX0AAh4JE?format=jpg&name=small"/>
+<img width="340" src="twimg/EP2AL4bX0AAh4JE.jpg"/>
 
 ---
 
@@ -567,7 +567,7 @@ Newton, was a trader once and lost money.
 
 Yeah I dont think Newton used any math here.. he was gripped by FOMO
 
-<img width="340" src="https://pbs.twimg.com/media/EP4RzqzU0AEeMCJ?format=jpg&name=medium"/>
+<img width="340" src="twimg/EP4RzqzU0AEeMCJ.jpg"/>
 
 ---
 
@@ -637,7 +637,7 @@ BBC
 Bam Iowa couscous results were available the next day, 2007 Iowa
 couscous was on Jan 3rd. See the date on the paper below.
 
-[Link](https://pbs.twimg.com/media/EQG-BQNXsAAS54W?format=jpg&name=medium)
+[Link](twimg/EQG-BQNXsAAS54W.jpg)
 
 ---
 

@@ -345,7 +345,7 @@ people trying to lay groundwork for two steps ahead.
 
 this has genuinely fucked me up i keep laughing"
 
-<img width="340" src="https://pbs.twimg.com/media/EQcWYWhXsAAuhQu?format=jpg&name=medium"/>
+<img width="340" src="twimg/EQcWYWhXsAAuhQu.jpg"/>
 
 ---
 
@@ -511,7 +511,7 @@ debt is not favorable - per @RaoulGMI. So it cannot be paid. Someone
 will burn. In a post 08 world, I dont think it will be ordinary people
 this time.
 
-<img width="340" src="https://pbs.twimg.com/media/EQeENQXXYAMrgo6?format=png&name=medium"/>
+<img width="340" src="twimg/EQeENQXXYAMrgo6.png"/>
 
 ---
 
@@ -841,10 +841,6 @@ Effective ad.
 "Wall Street Pete". Ouch
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Chants of <a href="https://twitter.com/hashtag/WallStreetPete?src=hash&amp;ref_src=twsrc%5Etfw">#WallStreetPete</a> drown out <a href="https://twitter.com/hashtag/Buttigieg?src=hash&amp;ref_src=twsrc%5Etfw">#Buttigieg</a> when he takes a shot at <a href="https://twitter.com/hashtag/Bernie?src=hash&amp;ref_src=twsrc%5Etfw">#Bernie</a>&#39;s grassroots movement.<a href="https://t.co/UJ2gCcEnys">pic.twitter.com/UJ2gCcEnys</a></p>&mdash; Peter Daou (@peterdaou) <a href="https://twitter.com/peterdaou/status/1226494859474808833?ref_src=twsrc%5Etfw">February 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-<img width="340" src="https://pbs.twimg.com/media/EO6jDl0X0AQI85w?format=jpg&name=medium"/>
 
 ---
 

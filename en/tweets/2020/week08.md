@@ -6,7 +6,7 @@ BERNIE WINS NEVADA
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/ERbq2TZWoAAy-tn?format=jpg&name=medium"/>
+<img width="340" src="twimg/ERbq2TZWoAAy-tn.jpg"/>
 
 ---
 
@@ -530,7 +530,7 @@ Was it the wind? (Easier for South Korea, than Japan but hey)
 
 This thing can survive up to 9 days on surfaces. Why not?
 
-<img width="340" src="https://pbs.twimg.com/media/ERFZ6MvXUAAzv1x?format=png&name=small"/>
+<img width="340" src="twimg/ERFZ6MvXUAAzv1x.png"/>
 
 [Link](windfinder.com)
 
@@ -762,7 +762,7 @@ Aaah Dawkins and his eugenics...
 
 We laugh but it's true
 
-[Link](https://pbs.twimg.com/media/EQXQyjFXsAA2wnI.jpg)
+[Link](twimg/EQXQyjFXsAA2wnI.jpg)
 
 ---
 
