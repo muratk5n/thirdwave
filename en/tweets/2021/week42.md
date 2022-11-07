@@ -45,7 +45,7 @@ Chris Joss - Superjam \#music
 
 Not the only reason for vax hesitancy but yes \#M4A
 
-[[Comment]](https://pbs.twimg.com/media/FCJWaFEUUAcrDXN?format=jpg&name=medium)
+[[Comment]](twimg/FCJWaFEUUAcrDXN.jpg)
 
 ---
 
@@ -162,7 +162,7 @@ emergency caused by humans"
 
 ---
 
-[MSNBC](https://pbs.twimg.com/media/FCHB0KBXsAAgte5?format=jpg&name=small)
+[MSNBC](twimg/FCHB0KBXsAAgte5.jpg)
 dropped the ball.
 
 ---
@@ -172,7 +172,7 @@ earnings beat expectations"
 
 ---
 
-[This](https://pbs.twimg.com/media/FCH7BhcXoAMcbXR?format=jpg&name=small)
+[This](twimg/FCH7BhcXoAMcbXR.jpg)
 just looks so bad.. Imagine amount of copper, steel used in the
 construction. A single gas pipeline can replace all of that, *and* perform better.
 
@@ -201,7 +201,7 @@ It's open season on Facebook
 ---
 
 Using coffee beans ground into a fine powder, then boiled in a little
-[brass pot](https://pbs.twimg.com/media/FB9mjc0XMAU_YNS?format=jpg&name=small)
+[brass pot](twimg/FB9mjc0XMAU_YNS.jpg)
 is called different names by countries, with many laying claim on its
 invention. But that style of coffee making was first invented in Yemen; so it
 should be called Yemenese coffee.
@@ -367,7 +367,7 @@ same amount of explosive detonated in the air"
 Interesting.. Lebanon 2020 explosion registered as 3.3 magnitude
 earthquake, it was estimated to be 1 kilotons of TNT equivalent.
 
-<img width="240" src="https://pbs.twimg.com/media/FB7MshSXMAgA4dn?format=png&name=small"/>
+<img width="240" src="twimg/FB7MshSXMAgA4dn.jpg"/>
 
 ---
 

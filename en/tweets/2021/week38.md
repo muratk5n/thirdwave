@@ -15,7 +15,7 @@ Troop deployment [stats](2019/05/confstats.html#gdtroop)
 EQ in Oz? Pretty rare for them clearly.. But their entire northern belt
 though is getting pummeled
 
-<img width="340" src="https://pbs.twimg.com/media/FACZDDUVQAwC7Hg?format=png&name=small"/>
+<img width="340" src="twimg/FACZDDUVQAwC7Hg.png"/>
 
 ---
 
@@ -392,7 +392,7 @@ friend who does not think that's true". I am not saying it.. My friend says it.
 
 ---
 
-The face looks too generic. I have a [picture of Satoshi](https://pbs.twimg.com/media/E_szmPgXIAMHAF8?format=jpg&name=small),
+The face looks too generic. I have a [picture of Satoshi](twimg/E_szmPgXIAMHAF8.jpg),
 you could have used that.
 
 "Statue honoring mysterious Bitcoin founder unveiled in Budapest"

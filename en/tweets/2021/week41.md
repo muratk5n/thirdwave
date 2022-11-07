@@ -137,7 +137,7 @@ Not making fun of the man, he calls himself "The Shat"
 
 I recognize that flame color anywhere \#LH2 \#BlueOrigin \#TheShat
 
-[[-]](https://pbs.twimg.com/media/FBp12jKX0Aw7bY8?format=jpg&name=small)
+[[-]](twimg/FBp12jKX0Aw7bY8.jpg)
 
 ---
 
@@ -237,7 +237,7 @@ Celsius"
 UNSW and Lavo already created a prototype for that H2 BBQ
 machine. Excellent.
 
-<img width="200" src="https://pbs.twimg.com/media/FBfPkldWUAATEjD?format=jpg&name=small"/>
+<img width="200" src="twimg/FBfPkldWUAATEjD.jpg"/>
 
 ---
 
@@ -425,8 +425,7 @@ by Pitron.
 
 ---
 
-An [image](https://pbs.twimg.com/media/FBRsSazX0AceGzK?format=png&name=small) for
-the history books \#WHO
+An [image](twimg/FBRsSazX0AceGzK.jpg) for the history books \#WHO
 
 ---
 

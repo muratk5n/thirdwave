@@ -153,7 +153,7 @@ Electric transmission is incredibly inefficient \#deelectrify
 ---
 
 Generate renewable fuel from fossil, CCS at the source, transmit.
-H2 pipelines [work](https://pbs.twimg.com/media/EvdKNhvXAAE9Rr2?format=png&name=small).
+H2 pipelines [work](twimg/EvdKNhvXAAE9Rr2.png).
 
 Producing from green is better of course.. Politics will decide the
 balance. But transmission must be green, and molecule based.
