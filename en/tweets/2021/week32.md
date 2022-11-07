@@ -295,7 +295,7 @@ people sell stocks and other securities"
 energy expert explains why Japan—along with much of the rest of the
 world—is committing to the clean-burning fuel"
 
-<img width="340" src="https://pbs.twimg.com/media/E8Z5rPyWUDQ9vb3?format=jpg&name=small"/>
+<img width="340" src="twimg/E8Z5rPyWUDQ9vb3.jpg"/>
 
 [Link](https://www.scientificamerican.com/article/the-hydrogen-olympics-lit-a-torch-for-the-clean-fuels-future1)
 

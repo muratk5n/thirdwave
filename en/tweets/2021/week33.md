@@ -273,7 +273,7 @@ Yes that far out
 
 ---
 
-[This](https://pbs.twimg.com/media/E9Aw-BhWQAUmkJ-?format=jpg&name=small) is AI
+[This](twimg/E9Aw-BhWQAUmkJ-.jpg) is AI
 (dude in the right)
 
 ---
@@ -296,14 +296,14 @@ have been a better *Lost*.
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/E86S1JPWEAEYADp?format=jpg&name=small"/>
+<img width="340" src="twimg/E86S1JPWEAEYADp.jpg"/>
 
 ---
 
 "@Lj_mir
 
 'Ashraf Ghani, the Afghan President who has apparently just fled to
-Tajikistan (which was invaded by the Taliban...) [writing](https://pbs.twimg.com/media/E84zo8EWYAkw_sc?format=jpg&name=small)
+Tajikistan (which was invaded by the Taliban...) [writing](twimg/E84zo8EWYAkw_sc.jpg)
 for the Los Angeles Times [in 1989]'"
 
 ---
@@ -348,7 +348,7 @@ Movie releases
 df['Releases'].plot()
 ```
 
-<img width="340" src="https://pbs.twimg.com/media/E85eSi-X0AQZ65s?format=png&name=small"/>
+<img width="340" src="twimg/E85eSi-X0AQZ65s.png"/>
 
 Decrease in movies releases.. it's a supply issue too
 
@@ -370,7 +370,7 @@ df = df.set_index('dt')
 df[['Cumulative_Gross']].plot()
 ```
 
-<img width="340" src="https://pbs.twimg.com/media/E85cA4vX0AEgont?format=png&name=small"/>
+<img width="340" src="twimg/E85cA4vX0AEgont.png"/>
 
 There were months with a bil gross. Then the pandemic hit.
 
@@ -483,7 +483,7 @@ other side.
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/E8weTFtXEAA11rZ?format=jpg&name=small"/>
+<img width="340" src="twimg/E8weTFtXEAA11rZ.jpg"/>
 
 ---
 

@@ -405,7 +405,7 @@ immigration. For UK maybe this backfired, led to Brexit?  There are
 bunch of new people around you, but you are not getting
 disproportionately richer bcz of it 🤨
 
-<img width="340" src="https://pbs.twimg.com/media/E03sBtlX0Akvzai?format=jpg&name=small"/>
+<img width="340" src="twimg/E03sBtlX0Akvzai.jpg"/>
 
 ---
 
@@ -549,7 +549,7 @@ ambargo.
 
 ---
 
-Then there was [this](https://pbs.twimg.com/media/E6hGDLGWYAYVYiy?format=jpg&name=small)
+Then there was [this](twimg/E6hGDLGWYAYVYiy.jpg)
 and [this](https://drive.google.com/uc?export=view&id=1xmUDnMkyVI1HWFgjp1J9erOw33eMzIKq)
 likely hurting Al Gore and later Hilary, respectively, in Florida.
 

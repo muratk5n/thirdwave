@@ -134,7 +134,7 @@ Photo of the fires in the northern suburbs of Athens 🇬🇷🔥🔥
 
 This is the climate crisis unravelling 👇"
 
-<img width="200" src="https://pbs.twimg.com/media/E75K0sPXMAEpGe9?format=jpg&name=small"/>
+<img width="200" src="twimg/E75K0sPXMAEpGe9.jpg"/>
 
 ---
 
@@ -327,7 +327,7 @@ for the Democrats' factions to share power"
 
 You think that's a burn but it really isn't
 
-[Link](https://pbs.twimg.com/media/E74eCNiWYAYzKIN?format=png&name=small)
+[Link](twimg/E74eCNiWYAYzKIN.png)
 
 ---
 

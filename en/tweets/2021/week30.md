@@ -35,7 +35,7 @@ U.S. earthquake in 50 years"
 
 Dam
 
-<img width="340" src="https://pbs.twimg.com/media/E7j0i1MXMAQKGCp?format=png&name=small"/>
+<img width="340" src="twimg/E7j0i1MXMAQKGCp.png"/>
 
 ---
 
@@ -267,7 +267,7 @@ Elevation is key
 
 Shit is on fire
 
-<img width="340" src="https://pbs.twimg.com/media/E7U4SfHWUAsp79H?format=png&name=small"/>
+<img width="340" src="twimg/E7U4SfHWUAsp79H.png"/>
 
 ---
 
