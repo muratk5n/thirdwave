@@ -117,7 +117,7 @@ from
 Goldman Sachs Research forecasts $10Tn worth of addressable market for
 Green Hydrogen by 2050"
 
-<img width="70%" src="https://pbs.twimg.com/media/EnYc26oWEAMqcCm?format=png&name=small"/>
+<img width="70%" src="twimg/EnYc26oWEAMqcCm.png"/>
 
 ---
 
@@ -136,7 +136,7 @@ different of course.
 
 ---
 
-<img width="70%" src="https://pbs.twimg.com/media/EnstKZ_VEAMZ34y?format=jpg&name=small"/>
+<img width="70%" src="twimg/EnstKZ_VEAMZ34y.jpg"/>
 
 ---
 
@@ -202,12 +202,6 @@ World War I, 'there were people who thought the Kaiser was behind it,'
 Hoobler says"
 
 [Link](https://www.npr.org/2011/07/30/138800110/the-theft-that-made-the-mona-lisa-a-masterpiece)
-
----
-
-via @pedrodias
-
-<img width="60%" src="https://pbs.twimg.com/media/EnqNYTfXUAAFojp?format=jpg&name=small"/>
 
 ---
 
@@ -415,7 +409,7 @@ got little more mature, her ass filled out, looks primo... I dig it.
 
 \#budapest
 
-<img width="40%" src="https://pbs.twimg.com/media/EnO5BpTW8AI58Wq?format=jpg&name=small"/>
+<img width="40%" src="twimg/EnO5BpTW8AI58Wq.jpg"/>
 
 ---
 
@@ -518,7 +512,7 @@ and [here](2017/06/friedman-100-years.html#navies).
 ---
 
 <center>
-<img width="140" src="https://pbs.twimg.com/media/ETZJzIkXgAAEi9Q?format=jpg&name=small"/>
+<img width="140" src="twimg/ETZJzIkXgAAEi9Q.jpg"/>
 </center>
 
 ---

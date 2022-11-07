@@ -344,7 +344,7 @@ entry-level NVidia GTX 1050 GPU has 640 cores. Insane.
 Well that's good.. current state is somewhat embarrasing..
 
 As Verlinde
-[says](https://pbs.twimg.com/media/EcQ5MTgWAAEMbqZ?format=png&name=small):
+[says](twimg/EcQ5MTgWAAEMbqZ.png):
 "95% of stuff in the universe, we basically don't understand".
 
 "The Search for Dark Matter Is Dramatically Expanding"

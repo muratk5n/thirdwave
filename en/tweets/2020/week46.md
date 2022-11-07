@@ -30,8 +30,6 @@ temparature storage.. Interest piqued.
 
 ---
 
-<img width="60%" src="https://pbs.twimg.com/card_img/1324398082755354624/0YbhoL1r?format=jpg&name=small"/>
-
 "Saudi Arabia is constructing a futuristic city in the desert on the
 Red Sea called Neom. The $500 billion city ... is being built from
 scratch and will be home to a million people. And what energy product
@@ -94,7 +92,7 @@ Emphasis - Vera Cruz \#music
 
 ---
 
-<img width="70%" src="https://pbs.twimg.com/media/EmeGbYXWMAQ4IlD?format=jpg&name=small"/>
+<img width="70%" src="twimg/EmeGbYXWMAQ4IlD.jpg"/>
 
 Sad picture.
 
@@ -686,7 +684,7 @@ Japan, to be used in zero-carbon power generation"
 ---
 
 <center>
-<img width="140" src="https://pbs.twimg.com/media/ETZJzIkXgAAEi9Q?format=jpg&name=small"/>
+<img width="140" src="twimg/ETZJzIkXgAAEi9Q.jpg"/>
 </center>
 
 ---

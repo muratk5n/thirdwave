@@ -98,7 +98,7 @@ My generation’s standards for entertainment were so much lower than our kids�
 
 'Well, here then, take this piece of shit and I’ll see you in nine hours.'"
 
-<img width="40%" src="https://pbs.twimg.com/media/EnOTG5uXcAApRjP?format=jpg&name=small"/>
+<img width="40%" src="twimg/EnOTG5uXcAApRjP.jpg"/>
 
 ---
 
@@ -204,7 +204,7 @@ with his Cornolio act.
 
 "TP for your bunghole!"
 
-<img width="40%" src="https://pbs.twimg.com/media/EnLrcZHW8AQsfj1?format=jpg&name=small"/>
+<img width="40%" src="twimg/EnLrcZHW8AQsfj1.jpg"/>
 
 ---
 
@@ -235,7 +235,7 @@ From the movie My Cousin Gulliani
 
 via @Acyn
 
-<img width="70%" src="https://pbs.twimg.com/media/EnKkd83UYAAxlEV?format=jpg&name=small"/>
+<img width="70%" src="twimg/EnKkd83UYAAxlEV.jpg"/>
 
 ---
 
@@ -456,7 +456,7 @@ Kaleefornia 👍
 This Senate hearing looks like the tale of a marooned lighthouse
 keeper and the robot butler he built to stave off loneliness"
 
-<img width="50%" src="https://pbs.twimg.com/media/EnEItIuUcAA7sfD?format=jpg&name=small"/>
+<img width="50%" src="twimg/EnEItIuUcAA7sfD.jpg"/>
 
 ---
 
@@ -473,7 +473,7 @@ inequality since then'"
 
 $R$ is increasing for US, and it was never below 1. Code [here](../../2020/02/corona.html#Rt).
 
-<img width="60%" src="https://pbs.twimg.com/media/Em7Q3LfW8AArZyO?format=png&name=small"/>
+<img width="60%" src="twimg/Em7Q3LfW8AArZyO.png"/>
 
 ---
 
@@ -515,7 +515,7 @@ Politics is rough ...
 
 It's cold
 
-<img width="340" src="https://pbs.twimg.com/media/Em9w--xXEAM9F5x?format=jpg&name=small"/>
+<img width="340" src="twimg/Em9w--xXEAM9F5x.jpg"/>
 
 ---
 
@@ -731,7 +731,7 @@ fumes"
 
 New Delhi, is covered with smoke, just saw on France 24
 
-<img width="70%" src="https://pbs.twimg.com/media/EmzhxZOXcAgh_0P?format=png&name=small"/>
+<img width="70%" src="twimg/EmzhxZOXcAgh_0P.png"/>
 
 ---
 

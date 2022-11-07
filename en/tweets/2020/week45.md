@@ -92,11 +92,11 @@ critical role in fighting climate change"
 
 I like this part, about the project in Dubai;
 
-<img width="240" src="https://pbs.twimg.com/media/El2AuAPW0AEYZ4B?format=png&name=small"/>
+<img width="240" src="twimg/El2AuAPW0AEYZ4B.png"/>
 
 ---
 
-[H2 big picture](https://pbs.twimg.com/media/El1OBenXEAAm9Xp?format=jpg&name=small)
+[H2 big picture](twimg/El1OBenXEAAm9Xp.jpg)
 
 ---
 
@@ -113,7 +113,7 @@ simple arihtmetic?  No can do.
 Good scifi foresight does exist. AC Clarke talked abt satellites way
 before their time, in many ways inspired their creation.
 
-<img width="240" src="https://pbs.twimg.com/media/Elzvb15U4AAGAN2?format=jpg&name=small"/>
+<img width="240" src="twimg/Elzvb15U4AAGAN2.jpg"/>
 
 ---
 
@@ -171,7 +171,7 @@ young people scorned only a few months ago."
 
 Creative 
 
-<img width="240" src="https://pbs.twimg.com/media/El1pz6NWoAIRXoH?format=jpg&name=small"/>
+<img width="240" src="twimg/El1pz6NWoAIRXoH.jpg"/>
 
 ---
 
@@ -352,7 +352,7 @@ Trent Lott made that infamous comment I saw that shit live. I was like
 ---
 
 <center>
-<img width="140" src="https://pbs.twimg.com/media/ETZJzIkXgAAEi9Q?format=jpg&name=small"/>
+<img width="140" src="twimg/ETZJzIkXgAAEi9Q.jpg"/>
 </center>
 
 ---

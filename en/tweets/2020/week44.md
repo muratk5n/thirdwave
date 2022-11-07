@@ -109,7 +109,7 @@ a "skinny" Biden win or a landslide"
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/ElettjHXEAEzqrh?format=jpg&name=medium"/>
+<img width="340" src="twimg/ElettjHXEAEzqrh.jpg"/>
 
 ---
 
@@ -212,7 +212,7 @@ stupidity only conferred by higher education"
 
 From their brochure
 
-<img width="340" src="https://pbs.twimg.com/media/Eleuf8QXYAAzYMR?format=jpg&name=small"/>
+<img width="340" src="twimg/Eleuf8QXYAAzYMR.jpg"/>
 
 [Link](https://lavo.com.au/wp-content/uploads/2020/10/LAVO%E2%84%A2-Residential-Unit-Brochure.pdf)
 
@@ -248,7 +248,7 @@ With the aim of powering a cleaner, more sustainable future through
 its cutting-edge hydrogen storage technology, Australian technology
 and lifestyle company Lavo officially launched on Tuesday (20th Oct)"
 
-<img width="200" src="https://pbs.twimg.com/media/Eld9rc2XYAc142e?format=jpg&name=small"/>
+<img width="200" src="twimg/Eld9rc2XYAc142e.jpg"/>
 
 [Link](https://twitter.com/hazergroupltd/status/1321663202212675584)
 
@@ -656,7 +656,7 @@ Boeing is in the gutter, Airbus on the rise. Dam.
 
 Airbus 👍 👍 👍 
 
-<img width="340" src="https://pbs.twimg.com/media/EicHhl2XYAAPSsk?format=jpg&name=small"/>
+<img width="340" src="twimg/EicHhl2XYAAPSsk.jpg"/>
 
 ---
 
@@ -749,7 +749,7 @@ spreading democracy itself. At least to the level it itself has.
 ---
 
 <center>
-<img width="140" src="https://pbs.twimg.com/media/ETZJzIkXgAAEi9Q?format=jpg&name=small"/>
+<img width="140" src="twimg/ETZJzIkXgAAEi9Q.jpg"/>
 </center>
 
 ---

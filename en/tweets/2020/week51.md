@@ -93,7 +93,7 @@ disinformation"
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/EpgHkScWMAAyhqt?format=jpg&name=small"/>
+<img width="340" src="twimg/EpgHkScWMAAyhqt.jpg"/>
 
 ---
 
