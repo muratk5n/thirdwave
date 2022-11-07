@@ -623,7 +623,7 @@ out. It worked... How the country has kept coronavirus deaths to just
 
 The clothes dryer is installing an over the air firmware update"
 
-<img width="340" src="https://pbs.twimg.com/media/EwHmiRtXEAEmmTN?format=jpg&name=small"/>
+<img width="340" src="twimg/EwHmiRtXEAEmmTN.jpg"/>
 
 ---
 

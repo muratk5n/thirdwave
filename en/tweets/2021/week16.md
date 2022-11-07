@@ -20,7 +20,7 @@ pesticides, another bonus).
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/Ezoq6tuXsAEFmsv?format=jpg&name=small"/>
+<img width="340" src="twimg/Ezoq6tuXsAEFmsv.jpg"/>
 
 ---
 
@@ -43,7 +43,7 @@ photosynthesis"
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/EzoqgiOXMAEnHCY?format=jpg&name=small"/>
+<img width="340" src="twimg/EzoqgiOXMAEnHCY.jpg"/>
 
 ---
 
@@ -533,7 +533,7 @@ Navalny's medical treatment will be "taken care of""
 Im going to guess the latter shot locations resulted in less
 interesting games
 
-<img width="340" src="https://pbs.twimg.com/media/EzQhsRQUYAk2bkY?format=jpg&name=small"/>
+<img width="340" src="twimg/EzQhsRQUYAk2bkY.jpg"/>
 
 ---
 
@@ -616,11 +616,11 @@ the cost.
 
 Proven tech.
 
-[Boom](https://pbs.twimg.com/media/EvdKNhvXAAE9Rr2?format=png&name=small)
+[Boom](twimg/EvdKNhvXAAE9Rr2.png)
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/EzGog7WVcAMUaUG?format=jpg&name=medium"/>
+<img width="340" src="twimg/EzGog7WVcAMUaUG.jpg"/>
 
 ---
 

@@ -273,7 +273,7 @@ year
 2019  19580.988331  9946.033829   9126.561346
 ```
 
-<img width="340" src="https://pbs.twimg.com/media/E2TzbPCXMAAAKdP?format=png&name=small"/>
+<img width="340" src="twimg/E2TzbPCXMAAAKdP.png"/>
 
 ---
 
@@ -543,7 +543,7 @@ No growth is also an option.
 
 via @internetofshit \#facebook 
 
-<img width="340" src="https://pbs.twimg.com/media/E2BrngwVgAUG-MG?format=jpg&name=small"/>
+<img width="340" src="twimg/E2BrngwVgAUG-MG.jpg"/>
 
 ---
 

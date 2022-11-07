@@ -726,7 +726,7 @@ site of an effort earlier this year to unionize the workforce"
 Look at GDP Per Capita of US and Canada. Canada gets a lot of
 immigration but since 2010 US did better.
 
-<img width="340" src="https://pbs.twimg.com/media/E03sBtlX0Akvzai?format=jpg&name=small"/>
+<img width="340" src="twimg/E03sBtlX0Akvzai.jpg"/>
 
 ---
 

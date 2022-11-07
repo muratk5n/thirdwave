@@ -401,7 +401,7 @@ Hello @villedenice !!! 😎🌞Le vélo à #hydrogène Alpha de passage sur
 la promenade des anglais. #baiedesanges #nice #bikelife #h2bike #h2now
 @provencealpescotedazur à Nice Ville - Promenade des Anglais"
 
-<img width="340" src="https://pbs.twimg.com/media/ExqAP64WQAkjHK_?format=jpg&name=small"/>
+<img width="340" src="twimg/ExqAP64WQAkjHK_.jpg"/>
 
 ---
 

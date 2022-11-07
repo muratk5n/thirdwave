@@ -152,7 +152,7 @@ internet technologies"
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/EyxhpofXEAA0Tw4?format=jpg&name=small"/>
+<img width="340" src="twimg/EyxhpofXEAA0Tw4.jpg"/>
 
 ---
 
@@ -368,7 +368,7 @@ all of a sudden. God dam..
 
 Via Bloomberg
 
-<img width="340" src="https://pbs.twimg.com/media/Eysbo2cWUAIpyb6?format=png&name=small"/>
+<img width="340" src="twimg/Eysbo2cWUAIpyb6.png"/>
 
 ---
 

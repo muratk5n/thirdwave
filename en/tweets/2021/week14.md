@@ -500,7 +500,7 @@ integrating, so it's not simple sum.
 Pay attn that integration result too, anything above first degree will
 give you polynomial of deg higher and including than 2 = nonlinearity.
 
-<img width="200" src="https://pbs.twimg.com/media/EyNNfspWEAQht1Y?format=jpg&name=small"/>
+<img width="200" src="twimg/EyNNfspWEAQht1Y.jpg"/>
 
 "If we think of integration of regular functions, they look like
 addition of simple components, side by side, wout flipping"
