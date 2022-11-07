@@ -674,7 +674,7 @@ or shot in the back"
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/EabeJgdU4AAMGfG?format=jpg&name=small"/>
+<img width="340" src="twimg/EabeJgdU4AAMGfG.jpg"/>
 
 ---
 
@@ -924,6 +924,6 @@ of the night. These protest must be their worst nightmare.
 ---
 
 <center>
-<img width="140" src="https://pbs.twimg.com/media/ETZJzIkXgAAEi9Q?format=jpg&name=small"/>
+<img width="140" src="twimg/ETZJzIkXgAAEi9Q.jpg"/>
 </center>
 

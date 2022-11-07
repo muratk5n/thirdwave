@@ -15,7 +15,7 @@ they have developed metal alloys capable of storing surplus
 electricity in the form of hydrogen much more cheaply than lithium
 batteries to take advantage of the renewables rush"
 
-<img width="340" src="https://pbs.twimg.com/media/Eb_HCZHWAAA2iaD?format=png&name=small"/>
+<img width="340" src="twimg/Eb_HCZHWAAA2iaD.png"/>
 
 [Link](https://amp.theage.com.au/environment/climate-change/alchemy-of-energy-breakthrough-offers-mass-hydrogen-storage-options-20200702-p558dj.html)
 
@@ -264,7 +264,7 @@ straight Unfollow.
 
 \#H2 LEGO Kit
 
-<img width="240" src="https://pbs.twimg.com/media/Eb1JUx9WsAEE7Qr?format=jpg&name=small"/>
+<img width="240" src="twimg/Eb1JUx9WsAEE7Qr.jpg"/>
 
 ---
 
@@ -316,7 +316,7 @@ South Asia and in the Middle East"
 
 ---
 
-<img width="340"  src="https://pbs.twimg.com/media/EbzCDBkWAAIXyNB?format=jpg&name=small"/>
+<img width="340"  src="twimg/EbzCDBkWAAIXyNB.jpg"/>
 
 ---
 
@@ -334,7 +334,7 @@ hooked on the left for vertical.
 Aaaah found a short-term soln now, but I wanted to see this
 working too.. maybe later.
 
-<img width="180" src="https://pbs.twimg.com/media/EbyHnB4XgAANVCT?format=png&name=small"/>
+<img width="180" src="twimg/EbyHnB4XgAANVCT.png"/>
 
 ---
 
@@ -356,7 +356,7 @@ paying off. He's bleeding white voters"
 
 \#texas
 
-<img width="240" src="https://pbs.twimg.com/media/EbxfaQXWoAELCI_?format=jpg&name=small"/>
+<img width="240" src="twimg/EbxfaQXWoAELCI_.jpg"/>
 
 ---
 
@@ -389,12 +389,6 @@ I hate burgeois bullshit
 Had to do my hair (which is in desperate need of a touch up and trim,
 thanks Texas COVID) and makeup today for the first time since February
 and man, we really did this bullshit every day?"
-
----
-
-FUCK YEAH	
-
-<img width="340" src="https://pbs.twimg.com/media/EbeVcEPXYAAho78?format=jpg&name=small"/>
 
 ---
 
@@ -481,8 +475,6 @@ Awesome book.
 
 Internet of Cows
 
-<img width="340" src="https://pbs.twimg.com/card_img/1277615532905283584/vobm11p5?format=jpg&name=small"/>
-
 "Connecterra gets €7.8m boost for connected cows"
 
 [Link](https://sifted.eu/articles/connecterra-connected-cows/)
@@ -504,7 +496,7 @@ and tons of chemical waste that NEVER decays as well"
 
 The eyes look even freakier with the mask on
 
-<img width="340" src="https://pbs.twimg.com/media/EbxLJsjUcAYvPw7?format=png&name=small"/>
+<img width="340" src="twimg/EbxLJsjUcAYvPw7.png"/>
 
 ---
 
@@ -757,7 +749,7 @@ must always remain responsible for the bad decisions."
 
 \#geekJoke
 
-<img width="340" src="https://pbs.twimg.com/media/EbiUw3TUcAESLZf?format=jpg&name=small"/>
+<img width="340" src="twimg/EbiUw3TUcAESLZf.jpg"/>
 
 ---
 
@@ -950,6 +942,6 @@ at-scale decarbonisation"
 ---
 
 <center>
-<img width="140" src="https://pbs.twimg.com/media/ETZJzIkXgAAEi9Q?format=jpg&name=small"/>
+<img width="140" src="twimg/ETZJzIkXgAAEi9Q.jpg"/>
 </center>
 

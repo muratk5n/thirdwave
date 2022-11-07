@@ -203,7 +203,7 @@ You always hear "three strikes you are out" type of talk in the context of citiz
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/EbV7tSpXYAMN9-X?format=jpg&name=small"/>
+<img width="340" src="twimg/EbV7tSpXYAMN9-X.jpg"/>
 
 ---
 
@@ -299,7 +299,7 @@ I saw that paper. Genius.
 
 ---
 
-<img width="240"  src="https://pbs.twimg.com/media/DJkR1VEXgAQIypa.jpg"/>
+<img width="240"  src="quadfacepalm.jpg"/>
 
 ---
 
@@ -1027,6 +1027,6 @@ electeds"
 ---
 
 <center>
-<img width="140" src="https://pbs.twimg.com/media/ETZJzIkXgAAEi9Q?format=jpg&name=small"/>
+<img width="140" src="twimg/ETZJzIkXgAAEi9Q.jpg"/>
 </center>
 
