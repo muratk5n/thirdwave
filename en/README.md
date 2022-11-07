@@ -2,12 +2,6 @@
 
 ---
 
-\#UK \#US
-
-[[-]](https://pbs.twimg.com/media/FgyS1jAWQAA91_P?format=jpg&name=small)
-
----
-
 "@AlanRMacLeod
 
 Corporate media is, by this point, literally a threat to the survival
@@ -41,6 +35,12 @@ dollars.
 The triangle-shaped UFO on the aircraft carrier deck (2018).. Checking
 
 [[-]](https://pbs.twimg.com/media/Fg5tPeIXEAYGGlK?format=jpg&name=small)
+
+---
+
+\#UK \#US
+
+[[-]](https://pbs.twimg.com/media/FgyS1jAWQAA91_P?format=jpg&name=small)
 
 ---
 
