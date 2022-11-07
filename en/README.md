@@ -46,9 +46,7 @@ The "triangle-shaped UFO" claim on the aircraft carrier deck
 ---
 
 When I started out in sci/tech I did not expect to end up with a junk
-science category one day with nearly a dozen items in it. Trying to
-figure out what kind of an era this is. Whatever it is the marketing
-for it was way overdone.
+science category one day with nearly a dozen items in it. 
 
 ---
 
