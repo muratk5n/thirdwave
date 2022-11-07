@@ -277,7 +277,7 @@ to go back to work.''"
 
 Waaaaa waaa waaaa waaa
 
-<img width="340" src="https://pbs.twimg.com/media/EVmPobKU0AAD_HD?format=jpg&name=small"/>
+<img width="340" src="twimg/EVmPobKU0AAD_HD.jpg"/>
 
 ---
 
@@ -467,7 +467,7 @@ error-correction is beyond reach"
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/EYwyfThWsAcBL53?format=jpg&name=small"/>
+<img width="340" src="twimg/EYwyfThWsAcBL53.jpg"/>
 
 ---
 
@@ -670,6 +670,6 @@ Richard Hatch (of BSG fame, Apollo) died 2017? Late RIP.
 ---
 
 <center>
-<img width="140" src="https://pbs.twimg.com/media/ETZJzIkXgAAEi9Q?format=jpg&name=small"/>
+<img width="140" src="twimg/ETZJzIkXgAAEi9Q.jpg"/>
 </center>
 

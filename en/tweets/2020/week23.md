@@ -155,7 +155,7 @@ architecture, statuary, tapestry, and porcelain"
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/EZn906PWoAAiV2l?format=jpg&name=small"/>
+<img width="340" src="twimg/EZn906PWoAAiV2l.jpg"/>
 
 ---
 
@@ -1023,6 +1023,6 @@ them too, like 1st, 2nd..?
 ---
 
 <center>
-<img width="140" src="https://pbs.twimg.com/media/ETZJzIkXgAAEi9Q?format=jpg&name=small"/>
+<img width="140" src="twimg/ETZJzIkXgAAEi9Q.jpg"/>
 </center>
 

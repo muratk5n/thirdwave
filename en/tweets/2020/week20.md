@@ -635,7 +635,7 @@ power plant in Germany is being built in Mecklenburg-Vorpommern'
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/EXuXm5vXkAA0_S1?format=jpg&name=small"/>
+<img width="340" src="twimg/EXuXm5vXkAA0_S1.jpg"/>
 
 ---
 
@@ -1004,7 +1004,7 @@ Philadelphia"
 ---
 
 Now whenever I see the letters VW I think of that stupid Ryan
-Reynolds movie [Van Wilders](https://pbs.twimg.com/media/EXumlWcXsAIQNdx?format=jpg&name=small)
+Reynolds movie [Van Wilders](twimg/EXumlWcXsAIQNdx.jpg)
 
 ---
 

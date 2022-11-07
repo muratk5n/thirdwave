@@ -246,7 +246,7 @@ The Democratic Party in a nutshell"
 
 But a-how a-will I eat a-my a-gabagoool?
 
-<img width="340" src="https://pbs.twimg.com/media/EaNGbDvXYAYMBT9?format=jpg&name=360x360"/>
+<img width="340" src="twimg/EaNGbDvXYAYMBT9.jpg"/>
 
 ---
 
@@ -684,7 +684,7 @@ Breaking News: A veto-proof majority of the Minneapolis City Council pledged to 
 
 ---
 
-<img width="240" src="https://pbs.twimg.com/media/EZ4XFTtWkAEsfKZ?format=jpg&name=small"/>
+<img width="240" src="twimg/EZ4XFTtWkAEsfKZ.jpg"/>
 
 ---
 
@@ -878,7 +878,7 @@ guard - The Boston Globe"
 
 Is he doing a BLM thing or kneeling in front of pagan Gods of money
 
-<img width="340" src="https://pbs.twimg.com/media/EZxvfoTWkAEdUqu?format=jpg&name=small"/>
+<img width="340" src="twimg/EZxvfoTWkAEdUqu.jpg"/>
 
 ---
 
@@ -1009,8 +1009,4 @@ Aaaauuuuwwww got his ass whooped
 [Link](https://mobile.twitter.com/damonayoung/status/1268766635759857665)
 
 ---
-
-<center>
-<img width="140" src="https://pbs.twimg.com/media/ETZJzIkXgAAEi9Q?format=jpg&name=small"/>
-</center>
 
