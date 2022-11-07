@@ -658,7 +658,7 @@ Also [here](https://www.eff.org/deeplinks/2019/10/why-fiber-vastly-superior-cabl
 
 ---
 
-<img width="400" src="https://pbs.twimg.com/media/ELGNDhuWwAAo2rR?format=png&name=large"/>
+<img width="400" src="twimg/ELGNDhuWwAAo2rR.jpg"/>
 
 ---
 

@@ -8,7 +8,7 @@ Ho Ho Ho motherf..kas!!
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/EMfU-ESXsAILKdR?format=jpg&name=large"/>
+<img width="340" src="twimg/EMfU-ESXsAILKdR.jpg"/>
 
 ---
 
@@ -215,7 +215,7 @@ whole spiel around the descent property depends on it.
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/EMbXIdpW4AEk3Mr?format=jpg&name=900x900"/>
+<img width="340" src="twimg/EMbXIdpW4AEk3Mr.jpg"/>
 
 ---
 
@@ -401,7 +401,7 @@ citizens’ human rights in the face of climate change"
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/EMXmO6QWkAAmqfx?format=jpg&name=small"/>
+<img width="340" src="twimg/EMXmO6QWkAAmqfx.jpg"/>
 
 ---
 

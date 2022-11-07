@@ -459,7 +459,7 @@ dfi.plot()
 plt.savefig('inf10yr.png')
 ```
 
-<img width="400" src="https://pbs.twimg.com/media/EKwjYGeWkAAX6cC?format=png&name=small"/>
+<img width="400" src="twimg/EKwjYGeWkAAX6cC.png"/>
 
 ---
 
@@ -514,7 +514,7 @@ Time for a political revolution"
 
 Tetris in Emacs on Termux on a Samsung. I've reached Walhalla.
 
-<img width="200" src="https://pbs.twimg.com/media/EKokWnSXkAAKZcV?format=jpg&name=medium"/>
+<img width="200" src="twimg/EKokWnSXkAAKZcV.jpg"/>
 
 ---
 
@@ -551,7 +551,7 @@ Nano crypto looks good. Everyone has their own blockchain. No mining.
 
 ---
 
-The UK's oddest [place names](https://pbs.twimg.com/media/EKkJPt3WwAYEpoX?format=jpg&name=900x900).
+The UK's oddest [place names](twimg/EKkJPt3WwAYEpoX.jpg).
 
 ---
 
