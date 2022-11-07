@@ -28,10 +28,20 @@ refueling station technology. The German Climate Action Plan of 2050
 acknowledges that LOHC technology has considerable potential for
 establishing hydrogen as a fuel.
 
+The question of just how hydrogen will get around the world, and what
+it will cost, is key to putting in place global hydrogen
+infrastructure [3]. A report.. from Rethink Energy, part of Rethink
+Technology Research, shows that the bulk of the effort will be split
+between pipelines and liquid organic hydrogen carriers (LOHC), often
+transported in ships – and points to the limiting cost factors which
+shall define each transport use case.
+
 Reference
 
 [1] [Hydrogenious Presentation - 1](https://www.energiewende-erlangen.de/wp-content/uploads/2018/02/0_HydrogeniousTechnologies.pdf)
 
 [1] [Hydrogenious Presentation - 2](https://arpa-e.energy.gov/sites/default/files/Schneider_HydrogeniousTechnologies_TransportationFuels_Workshop_FINAL.pdf)
+
+[2] [Rethink Energy](https://www.globalhydrogenreview.com/hydrogen/23092022/rethink-energy-pipelines-and-organic-carrier-ships-to-dominate-hydrogen-distribution/)
 
 [[⇪Up]](h2-storage.html)
