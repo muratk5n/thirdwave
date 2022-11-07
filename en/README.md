@@ -32,7 +32,8 @@ dollars.
 
 ---
 
-The triangle-shaped UFO on the aircraft carrier deck (2018).. Checking
+The "triangle-shaped UFO" claim on the aircraft carrier deck
+(2018).. Checking
 
 [[-]](https://pbs.twimg.com/media/Fg5tPeIXEAYGGlK?format=jpg&name=small)
 
