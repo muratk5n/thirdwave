@@ -1,21 +1,21 @@
 
-[Week 1](week1.html)
+[Week 1](week01.html)
 
-[Week 2](week2.html)
+[Week 2](week02.html)
 
-[Week 3](week3.html)
+[Week 3](week03.html)
 
-[Week 4](week4.html)
+[Week 4](week04.html)
 
-[Week 5](week5.html)
+[Week 5](week05.html)
 
-[Week 6](week6.html)
+[Week 6](week06.html)
 
-[Week 7](week7.html)
+[Week 7](week07.html)
 
-[Week 8](week8.html)
+[Week 8](week08.html)
 
-[Week 9](week9.html)
+[Week 9](week09.html)
 
 [Week 10](week10.html)
 
