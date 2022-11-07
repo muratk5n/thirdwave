@@ -2,8 +2,6 @@
 
 [Capitalism Eating Itself](01/capitalism.html)
 
-[Carbon Capture](01/carboncapture.html)
-
 [E-Diesel](01/ediesel.html)
 
 [Solar Ammonia](01/solarammonia.html)

@@ -34,7 +34,7 @@
 
 [Thermo-Chemical Water Splitting](02/h2-thermo-chemical.html)
 
-[LOHC, Toloune](02/h2-toloune-lohc.html)
+[LOHC](02/h2-toloune-lohc.html)
 
 [H2 Underground Storage](02/h2-underground.html)
 
@@ -86,6 +86,8 @@
 
 [Dark Energy](08/dark-energy.html)
 
+[Dark Matter](08/dark-matter.html)
+
 [For Members](08/members.html)
 
 [Blowing the Fuse](10/grid-fuse.html)
@@ -99,4 +101,6 @@
 [Quantum "Supremacy"?](10/quantum-computing.html)
 
 [World Trade, Import/Exports](10/world-commerce.html)
+
+[Battery Electric Vehicles, Storage, Electrification](11/battery-electric.html)
 
