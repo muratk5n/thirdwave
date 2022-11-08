@@ -18,7 +18,7 @@ between Russia and North Korea have resumed"
 
 The truth is out there
 
-[[-]](tweets/2022/bidenalien.jpg)
+[[-]](bidenalien.jpg)
 
 ---
 
