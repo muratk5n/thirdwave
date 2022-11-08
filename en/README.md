@@ -60,8 +60,8 @@ provides a powerful [DOE] financing mechanism to help meet national
 emissions reduction goals by transforming old or dirty energy
 infrastructure into new or modernized clean assets and revitalizing
 communities where old energy infrastructure sits. 'The entire energy
-infrastructure ecosystem qualifies to come into the 1706 program to be
-repurposed,' [said..] head of DOE’s Loan Programs Office. '[The EIR
+infrastructure ecosystem qualifies to come into the.. program to be
+repurposed,' [said..] head of DOE’s Loan Programs Office. '[The
 program] can help replace coal plants with clean energy, switch gas
 pipelines to hydrogen, upgrade transmission, and more.'"
 
