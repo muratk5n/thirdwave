@@ -8,8 +8,8 @@ u.sen_ga_538()
 
 ```text
 Out[1]: 
-(['Herschel Junior Walker', '11/2/22', 'Remington', 49.0],
- ['Raphael Warnock', '11/2/22', 'Remington', 45.0])
+(['Herschel Junior Walker', '11/7/22', 'Landmark Communications', 46.8],
+ ['Raphael Warnock', '11/7/22', 'Landmark Communications', 46.4])
 ```
 
 ```python
@@ -18,8 +18,8 @@ u.sen_pa_538()
 
 ```text
 Out[1]: 
-(['John Fetterman', '11/3/22', 'InsiderAdvantage', 46.0],
- ['Mehmet Oz', '11/3/22', 'InsiderAdvantage', 48.3])
+(['John Fetterman', '11/6/22', 'Research Co.', 49.0],
+ ['Mehmet Oz', '11/6/22', 'Research Co.', 48.0])
 ```
 
 

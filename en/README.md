@@ -72,6 +72,32 @@ exercise with Russia & China"
 
 ---
 
+Finally one poll that shows JF ahead. 
+
+```python
+u.sen_pa_538()
+```
+
+```text
+Out[1]: 
+(['John Fetterman', '11/6/22', 'Research Co.', 49.0],
+ ['Mehmet Oz', '11/6/22', 'Research Co.', 48.0])
+```
+
+---
+
+```python
+u.sen_ga_538()
+```
+
+```text
+Out[1]: 
+(['Herschel Junior Walker', '11/7/22', 'Landmark Communications', 46.8],
+ ['Raphael Warnock', '11/7/22', 'Landmark Communications', 46.4])
+```
+
+---
+
 TFI Global: "China becomes the first casualty of Rishi Sunak’s new foreign policy"
 
 ---
