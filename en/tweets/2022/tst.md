@@ -22,7 +22,15 @@ Out[1]:
  ['Mehmet Oz', '11/6/22', 'Research Co.', 48.0])
 ```
 
+```python
+u.sen_az_538()
+```
 
+```text
+Out[1]: 
+(['Blake Masters', '11/7/22', 'Trafalgar Group', 48.2],
+ ['Mark Kelly', '11/7/22', 'Trafalgar Group', 46.7])
+```
 
 
 

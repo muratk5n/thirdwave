@@ -95,6 +95,17 @@ Out[1]:
 (['Herschel Junior Walker', '11/7/22', 'Landmark Communications', 46.8],
  ['Raphael Warnock', '11/7/22', 'Landmark Communications', 46.4])
 ```
+---
+
+```python
+u.sen_az_538()
+```
+
+```text
+Out[1]: 
+(['Blake Masters', '11/7/22', 'Trafalgar Group', 48.2],
+ ['Mark Kelly', '11/7/22', 'Trafalgar Group', 46.7])
+```
 
 ---
 
