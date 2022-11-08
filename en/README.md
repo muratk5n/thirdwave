@@ -32,8 +32,8 @@ energy, switch gas pipelines to hydrogen"
 
 ---
 
-The increased competiteness would help if they did not cut themselves
-off from their *biggest export market*.
+The increased competiteness would help if UK *did not cut itself
+off from their biggest export market*.
 
 CNBC: "A historically weaker pound on a medium- to long-term basis has
 a variety of impacts on the U.K. more broadly...  The most basic one
