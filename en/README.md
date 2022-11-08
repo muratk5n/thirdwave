@@ -2,7 +2,7 @@
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/search?q=%24MMAT&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$MMAT</a> A German company, Kraftwerk Tubes, is building hydrogen fuel cells with ceramic coating in partnership with VW. Are fuel cells a path <a href="https://twitter.com/Metamaterialtec?ref_src=twsrc%5Etfw">@Metamaterialtec</a> has in their pipeline?<a href="https://t.co/QPespQFh2Q">https://t.co/QPespQFh2Q</a></p>&mdash; TerpsLife (@Terps_Life) <a href="https://twitter.com/Terps_Life/status/1589268724808577025?ref_src=twsrc%5Etfw">November 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/volkswagen?ref_src=twsrc%5Etfw">@Volkswagen</a> is working on a new fuel cell that is much cheaper than the current ones and promises hydrogen cars that can travel 2,000 kilometers on a single tank <a href="https://t.co/s8OA8c7gNZ">https://t.co/s8OA8c7gNZ</a></p>&mdash; CAHydrogenCoalition (@HydrogenCa) <a href="https://twitter.com/HydrogenCa/status/1589659461584838657?ref_src=twsrc%5Etfw">November 7, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
