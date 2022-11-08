@@ -44,7 +44,7 @@ more competitive"
 
 They are looking to buy a lot of Pfizer vaccines, reportedly.. That'll
 help, Pfizer can fight effectively against the older strains, not too
-effective for new ones but they are jot as deadly.
+effective for new ones but they are not as deadly.
 
 WSJ: "China Weighs Zero-Covid Exit but Proceeds With Caution"
 
