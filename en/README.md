@@ -42,8 +42,8 @@ more competitive"
 
 ---
 
-Word is they are looking to buy a billion Pfizer vaccines.. That'll
-help Pfizer can fight effectively against the older strains, not too
+They are looking to buy a lot of Pfizer vaccines, reportedly.. That'll
+help, Pfizer can fight effectively against the older strains, not too
 effective for new ones but they are jot as deadly.
 
 WSJ: "China Weighs Zero-Covid Exit but Proceeds With Caution"
