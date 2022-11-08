@@ -139,6 +139,12 @@ projects"
 
 ---
 
+Dems post-2016 were also "election-deniers" weren't they? They blamed
+Russian meddling and questioned the legitimacy of the election. What
+goes around comes around.
+
+---
+
 ## Reference
 
 [Nations and Nationalism, Culture, Narratives](2013/02/nations-and-nationalism.html)
