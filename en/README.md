@@ -2,106 +2,105 @@
 
 ---
 
-"@AlanRMacLeod
-
-Corporate media is, by this point, literally a threat to the survival
-of humanity.
-
-'WSJ: The U.S. Should Show It Can Win a Nuclear War'"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/search?q=%24MMAT&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$MMAT</a> A German company, Kraftwerk Tubes, is building hydrogen fuel cells with ceramic coating in partnership with VW. Are fuel cells a path <a href="https://twitter.com/Metamaterialtec?ref_src=twsrc%5Etfw">@Metamaterialtec</a> has in their pipeline?<a href="https://t.co/QPespQFh2Q">https://t.co/QPespQFh2Q</a></p>&mdash; TerpsLife (@Terps_Life) <a href="https://twitter.com/Terps_Life/status/1589268724808577025?ref_src=twsrc%5Etfw">November 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"@enfree1993
+"@sflorg@mastodon.social
 
-According to Reuters, for the first time in several years, rail links
-between Russia and North Korea have resumed"
+First ever clinical trial underway of laboratory grown red blood cells
+being transfused into another person"
 
----
-
-The truth is out there
-
-[[-]](tweets/2022/bidenalien.jpg)
+[[-]](https://www.sflorg.com/2022/11/bio11072201.html)
 
 ---
 
-Most likely bullcrap.. Whoever released the vid plopped it on there
-digitally to f--k with people. Was it gov? Not an efficient use of tax
-dollars.
+Amiga? Partying like it's 1989..
 
-[[-]](https://youtu.be/rB6OQV2gD-E?t=122)
+"@janssens_bart@mastodon.social
 
----
-
-The "triangle-shaped UFO" claim on the aircraft carrier deck
-(2018).. Checking
-
-[[-]](https://pbs.twimg.com/media/Fg5tPeIXEAYGGlK?format=jpg&name=small)
+.. people are still making brand new expansion boards for the \#Amiga,
+like this ZZ9000 by @mntmn"
 
 ---
 
-\#UK \#US
+"How will DOE loan out $250B to make dirty energy systems clean?.. A
+new Biden admin program can help replace coal plants with clean
+energy, switch gas pipelines to hydrogen"
 
-[[-]](https://pbs.twimg.com/media/FgyS1jAWQAA91_P?format=jpg&name=small)
-
----
-
-When I started out in sci/tech I did not expect to end up with a junk
-science category one day with nearly a dozen items in it. 
+[[-]](https://www.canarymedia.com/articles/climatetech-finance/how-will-doe-loan-out-250b-to-make-dirty-energy-systems-clean)
 
 ---
 
-How about a sociopathological explanation?
+The competiteness would help if they did not cut themselves off from
+their *biggest export market*. 
 
-Kroupa: "Why the scientific community is in denial about the
-falsification of the dark matter model is a question that requires
-both a sociological and philosophical explanation"
-
----
-
-BTW the vid below talks about nuclear waste; but it turns out using
-spent (MOX) fuel is feasible. Russia now [has a
-plant](https://www.world-nuclear-news.org/Articles/Beloyarsk-BN-800-fast-reactor-running-on-MOX),
-and I've seen articles about US, France facilities. This tech should
-be more widespread.
+CNBC: "A historically weaker pound on a medium- to long-term basis has
+a variety of impacts on the U.K. more broadly...  The most basic one
+is that imports get more expensive, while exports theoretically get
+more competitive"
 
 ---
 
-\#HTGR \#Japan
+Word is they are looking to buy a billion Pfizer vaccines.. That'll
+help Pfizer can fight effectively against the older strains, not too
+effective for new ones but they are jot as deadly.
 
-[[-]](https://youtu.be/_uTZWaJU6ho?t=528)
-
----
-
-Offshore Energy: "Danish shipping and logistics giant A.P. Moller –
-Maersk has signed a general protocol for collaboration with the
-Spanish government to explore the opportunities for large-scale green
-fuels production in Spain. The signing of the protocol was described
-as a significant milestone in the collaboration that, if fully
-implemented, could deliver up to 2 million tonnes of green fuels per
-year"
+WSJ: "China Weighs Zero-Covid Exit but Proceeds With Caution"
 
 ---
 
-Lefty move from Trudeau. 
-
-The Guardian: "Trudeau.. criticised Ontario legislation tabled by Doug
-Ford’s conservative provincial government['s..] 'draconian' bill that
-would fine school.. staff C$4,000.. a day for striking"
+H2 Fuel News: "European Commission invests €3 billion in innovative
+clean tech projects to deliver on REPowerEU"
 
 ---
 
-"@EbrahimHashem
+LPO's new Energy Infrastructure Reinvestment (EIR) Program provides a
+powerful U.S. Department of Energy (DOE) financing mechanism to help
+meet national emissions reduction goals by transforming old or dirty
+energy infrastructure into new or modernized clean assets and
+revitalizing communities where old energy infrastructure sits.
 
-It’s easy to defeat the global propagandists nowadays; they’re overstretched.
-
-They don’t know against whom they should spread their lies: Muslims?
-Russians? Chinese? Arabs? Indians? Africans? Latinos? East Europeans?
-
-Their propaganda machine is spread too thin & ineffective"
+'The entire energy infrastructure ecosystem qualifies to come into the
+1706 program to be repurposed,' [said] Jigar Shah, head of DOE’s Loan
+Programs Office. '[The EIR program] can help replace coal plants with
+clean energy, switch gas pipelines to hydrogen, upgrade transmission,
+and more.'"
 
 ---
 
-Politico: "Hakeem Jeffries on track to replace Pelosi"
+TFI Global: "In a final blow to the west, South Africa to host Naval
+exercise with Russia & China"
+
+---
+
+TFI Global: "China becomes the first casualty of Rishi Sunak’s new foreign policy"
+
+---
+
+Arab News: "UK ramps up mosque visits in immigration crackdown"
+
+---
+
+First Post: "Facebook parent Meta plans to begin mass layoffs this
+week, says report"
+
+---
+
+H2 Central: "Global Power Leader Cummins Inc. will begin producing
+electrolyzers in the United States, underscoring the company’s
+continued dedication to advancing the nation’s green hydrogen
+economy...
+
+Cummins plans to dedicate 89,000 square feet of its existing Fridley
+[MN] plant to electrolyzer production. Initially, the facility will
+manufacture its HyLYZER®-500 and HyLYZER®-5000 proton exchange
+membrane (PEM) electrolyzers here, with the potential to manufacture
+other electrolyzer products in the future.
+
+This range of products can accommodate power needs from 1.25MW to more
+than 200MW for both small- and large-scale hydrogen generation
+projects"
 
 ---
 
