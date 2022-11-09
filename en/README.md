@@ -94,7 +94,7 @@ of progress that runs through insulin and the antibiotics and will
 hopefully lead someday to cures for cancer. These are the drugs that,
 had they been available, some presume might have saved many of my
 father’s generation. But far from saving either their lives or ours,
-clini- cal trials show that the indiscriminate use of drugs to lower
+clinical trials show that the indiscriminate use of drugs to lower
 lipids or blood sugars, to relieve respiratory wheeze, or to block
 stress hormones may even increase the risk of loss of life, 7 and
 appear to be doing so in the United States, the country that makes the
