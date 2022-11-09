@@ -82,22 +82,23 @@ the way that antibiotics or insulin saved lives half a century
 ago. The statins can also save lives among people who have had strokes
 or heart attacks and who also smoke or are overweight, but in this
 case hundreds of people have to be persuaded to take them for the rest
-of their lives in order for a handful among them to be saved. For the
-most part, however, the statins are instead given to healthy people
-who have mild elevations of their cholesterol levels. Similarly,
-treatments for asthma or osteoporosis are now given to many people who
-would never have been diagnosed and treated before.  Treatment happens
-now in response to results on a series of tests that have emerged in
-recent years—but these new tests don’t help make a diagnosis that will
-lift a threat to our lives. Instead they effectively make a diagnosis
-of some drug defi ciency disorder, and they often enter medical
-practice as part of the marketing strategy for a new drug.
+of their lives in order for a handful among them to be saved.
 
-These new diseases and their treatments have gained a purchase
-on us because they are presumed to represent the latest advances in a
-story of progress that runs through insulin and the antibiotics and will
+For the most part, however, the statins are instead given to healthy
+people who have mild elevations of their cholesterol
+levels. Similarly, treatments for asthma or osteoporosis are now given
+to many people who would never have been diagnosed and treated before.
+Treatment happens now in response to results on a series of tests that
+have emerged in recent years—but these new tests don’t help make a
+diagnosis that will lift a threat to our lives. Instead they
+effectively make a diagnosis of some drug defi ciency disorder, and
+they often enter medical practice as part of the marketing strategy
+for a new drug.
+
+These new diseases and their treatments have gained a purchase on us
+because they are presumed to represent the latest advances in a story
+of progress that runs through insulin and the antibiotics and will
 hopefully lead someday to cures for cancer. These are the drugs that,
-
 had they been available, some presume might have saved many of my
 father’s generation. But far from saving either their lives or ours,
 clini- cal trials show that the indiscriminate use of drugs to lower
