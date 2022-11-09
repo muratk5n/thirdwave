@@ -44,12 +44,6 @@ ambitions"
 
 ---
 
-Dems post-2016 were also "election-deniers" weren't they? They blamed
-Russian meddling and questioned the legitimacy of the election. What
-goes around comes around.
-
----
-
 "@ItaiYanai
 
 Science is like playing Jeopardy: here is the answer - what was the
@@ -117,6 +111,12 @@ developed countries"
 ---
 
 Excellent title for a book on pharma - **Pharmageddon**
+
+---
+
+Dems post-2016 were also "election-deniers" weren't they? They blamed
+Russian meddling and questioned the legitimacy of the election. What
+goes around comes around.
 
 ---
 
