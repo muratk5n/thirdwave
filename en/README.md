@@ -2,6 +2,9 @@
 
 ---
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Netherlands?src=hash&amp;ref_src=twsrc%5Etfw">#Netherlands</a>: Pilot Project for <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> Boiler to Heat Homes Allowed to Begin - The project, run by grid operator <a href="https://twitter.com/hashtag/Liander?src=hash&amp;ref_src=twsrc%5Etfw">#Liander</a>, is the first of its kind in the Netherlands - <a href="https://t.co/0je6MUcQo4">https://t.co/0je6MUcQo4</a> <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/HydrogenEconomy?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenEconomy</a> <a href="https://twitter.com/hashtag/HydrogenNews?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNews</a> <a href="https://twitter.com/hashtag/H2?src=hash&amp;ref_src=twsrc%5Etfw">#H2</a> <a href="https://twitter.com/hashtag/CleanHydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#CleanHydrogen</a> <a href="https://twitter.com/hashtag/Decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#Decarbonise</a> <a href="https://t.co/nLXQQ2TPlU">pic.twitter.com/nLXQQ2TPlU</a></p>&mdash; Fuel Cells Works (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1589973805685841920?ref_src=twsrc%5Etfw">November 8, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
 
 H2 Bulletin: "Certarus engineered and over the course of two weeks,
 safely supplied and controlled hydrogen at blend rates up to 25% to an
