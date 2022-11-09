@@ -77,12 +77,7 @@ doesn't linger around, the latest greatest is that year's `util.py`.
 Leary, *Pharmageddon*: "On the surface medical practice appears the
 same but underneath it’s not. For instance, a small number of people
 have a genetic disorder that leads to excessively high cholesterol
-levels and for them drugs like the statins can save lives, almost in
-the way that antibiotics or insulin saved lives half a century
-ago. The statins can also save lives among people who have had strokes
-or heart attacks and who also smoke or are overweight, but in this
-case hundreds of people have to be persuaded to take them for the rest
-of their lives in order for a handful among them to be saved.
+levels and for them drugs like the statins can save lives..
 
 For the most part, however, the statins are instead given to healthy
 people who have mild elevations of their cholesterol
