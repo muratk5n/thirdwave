@@ -67,13 +67,6 @@ changed. You never know...
 
 ---
 
-Every year's tweets are under same archive dir; the code within those
-pages assume same directory.. For later years decided will not carry
-over code automatically, only move pieces as needed so unused code
-doesn't linger around, the latest greatest is that year's `util.py`.
-
----
-
 Leary, *Pharmageddon*: "On the surface medical practice appears the
 same but underneath it’s not. For instance, a small number of people
 have a genetic disorder that leads to excessively high cholesterol
