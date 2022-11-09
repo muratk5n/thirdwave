@@ -96,8 +96,8 @@ had they been available, some presume might have saved many of my
 father’s generation. But far from saving either their lives or ours,
 clinical trials show that the indiscriminate use of drugs to lower
 lipids or blood sugars, to relieve respiratory wheeze, or to block
-stress hormones may even increase the risk of loss of life, 7 and
-appear to be doing so in the United States, the country that makes the
+stress hormones may even increase the risk of loss of life, and appear
+to be doing so in the United States, the country that makes the
 greatest use of the latest pharmaceuticals, where since the mid-1970s
 life expectancy has been falling progressively further behind other
 developed countries"
