@@ -98,6 +98,16 @@ Excellent title for a book on pharma - **Pharmageddon**
 
 ---
 
+AP News: "Warnock, Walker in tight race in Georgia; runoff possible"
+
+---
+
+"@JohnFetterman
+
+Thank you, PA! 🥰"
+
+---
+
 Dems post-2016 were also "election-deniers" weren't they? They blamed
 Russian meddling and questioned the legitimacy of the election. What
 goes around comes around.
