@@ -64,12 +64,6 @@ question?"
 
 ---
 
-Scripted an image downloader, every image on Twitter referenced here
-on these posts, the image is pulled to local, stored in repo, and ref
-changed. You never know...
-
----
-
 Leary, *Pharmageddon*: "On the surface medical practice appears the
 same but underneath it’s not. For instance, a small number of people
 have a genetic disorder that leads to excessively high cholesterol
