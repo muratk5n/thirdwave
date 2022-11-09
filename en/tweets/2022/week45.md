@@ -95,18 +95,6 @@ Out[1]:
 ```
 ---
 
-```python
-u.sen_az_538()
-```
-
-```text
-Out[1]: 
-(['Blake Masters', '11/7/22', 'Trafalgar Group', 48.2],
- ['Mark Kelly', '11/7/22', 'Trafalgar Group', 46.7])
-```
-
----
-
 TFI Global: "China becomes the first casualty of Rishi Sunak’s new foreign policy"
 
 ---
@@ -267,9 +255,6 @@ seen it
 [[-]](https://youtu.be/YWisEBfNnFQ?t=224)
 
 ---
-
-Hochul will likely be OK. PredictIt has Oz winning the Senate seat,
-Walker for GA. 
 
 ---
 
