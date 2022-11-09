@@ -2,146 +2,121 @@
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/volkswagen?ref_src=twsrc%5Etfw">@Volkswagen</a> is working on a new fuel cell that is much cheaper than the current ones and promises hydrogen cars that can travel 2,000 kilometers on a single tank <a href="https://t.co/s8OA8c7gNZ">https://t.co/s8OA8c7gNZ</a></p>&mdash; CAHydrogenCoalition (@HydrogenCa) <a href="https://twitter.com/HydrogenCa/status/1589659461584838657?ref_src=twsrc%5Etfw">November 7, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+H2 Bulletin: "Certarus engineered and over the course of two weeks,
+safely supplied and controlled hydrogen at blend rates up to 25% to an
+18MW Wärtsilä natural gas engine across multiple engine-load
+capacities"
 
 ---
 
-"@sflorg@mastodon.social
-
-First ever clinical trial underway of laboratory grown red blood cells
-being transfused into another person"
-
-[[-]](https://www.sflorg.com/2022/11/bio11072201.html)
+WSJ: "China's Xi Jinping to Visit Saudi Arabia Amid Global
+Reshuffling.. Riyadh’s expanded ties with Washington’s global rivals
+have helped deepen Chinese influence in the Middle East, where the
+U.S. once reigned supreme"
 
 ---
 
-Amiga? Partying like it's 1989..
+ABC AU: "Andrew Forrest says big companies are 'forcing' customers to
+'destroy the planet.. "All I'm saying to the fossil fuel sector is, if
+you're like the single-use plastic sector, if you're like Coca-Cola
+and you just give single-use plastic as your container for Coke, then
+you're forcing your customers to be single-use plastic nature
+destroyers".. Coca-Cola is one of the sponsors for the UN Climate
+Change Conference — a move which has drawn criticism from climate
+activists..
 
-"@janssens_bart@mastodon.social
+Mr Forrest is investing in solar farms to lay the groundwork for
+Fortescue Future Industries to be producing 15 million tonnes of green
+hydrogen by 2030"
 
-.. people are still making brand new expansion boards for the \#Amiga,
-like this ZZ9000 by @mntmn"
-
----
-
-"How will DOE loan out $250B to make dirty energy systems clean?.. A
-new Biden admin program can help replace coal plants with clean
-energy, switch gas pipelines to hydrogen"
-
-[[-]](https://www.canarymedia.com/articles/climatetech-finance/how-will-doe-loan-out-250b-to-make-dirty-energy-systems-clean)
-
----
-
-The increased competiteness would help if UK did not cut itself off
-from their BIGGEST EXPORT MARKET.
-
-CNBC: "A historically weaker pound on a medium- to long-term basis has
-a variety of impacts on the U.K. more broadly...  The most basic one
-is that imports get more expensive, while exports theoretically get
-more competitive"
+[[-]](https://www.abc.net.au/news/2022-11-07/twiggy-forrest-says-companies-forcing-customers-destroy-planet/101626328)
 
 ---
 
-They are looking to buy a lot of Pfizer vaccines, reportedly.. That'll
-help, Pfizer can fight effectively against the older strains, not too
-effective for new ones but they are not as deadly.
-
-WSJ: "China Weighs Zero-Covid Exit but Proceeds With Caution"
+Al Monitor: "Climate change is speeding up, warns major UN report"
 
 ---
 
-H2 Fuel News: "European Commission invests €3 billion in innovative
-clean tech projects to deliver on REPowerEU"
-
----
-
-DOE: "LPO's new Energy Infrastructure Reinvestment (EIR) Program
-provides a powerful [DOE] financing mechanism to help meet national
-emissions reduction goals by transforming old or dirty energy
-infrastructure into new or modernized clean assets and revitalizing
-communities where old energy infrastructure sits. 'The entire energy
-infrastructure ecosystem qualifies to come into the.. program to be
-repurposed,' [said..] head of DOE’s Loan Programs Office. '[The
-program] can help replace coal plants with clean energy, switch gas
-pipelines to hydrogen, upgrade transmission, and more.'"
-
----
-
-TFI Global: "In a final blow to the west, South Africa to host Naval
-exercise with Russia & China"
-
----
-
-Finally one poll that shows JF ahead. 
-
-```python
-u.sen_pa_538()
-```
-
-```text
-Out[1]: 
-(['John Fetterman', '11/6/22', 'Research Co.', 49.0],
- ['Mehmet Oz', '11/6/22', 'Research Co.', 48.0])
-```
-
----
-
-```python
-u.sen_ga_538()
-```
-
-```text
-Out[1]: 
-(['Herschel Junior Walker', '11/7/22', 'Landmark Communications', 46.8],
- ['Raphael Warnock', '11/7/22', 'Landmark Communications', 46.4])
-```
----
-
-```python
-u.sen_az_538()
-```
-
-```text
-Out[1]: 
-(['Blake Masters', '11/7/22', 'Trafalgar Group', 48.2],
- ['Mark Kelly', '11/7/22', 'Trafalgar Group', 46.7])
-```
-
----
-
-TFI Global: "China becomes the first casualty of Rishi Sunak’s new foreign policy"
-
----
-
-Arab News: "UK ramps up mosque visits in immigration crackdown"
-
----
-
-First Post: "Facebook parent Meta plans to begin mass layoffs this
-week, says report"
-
----
-
-H2 Central: "Global Power Leader Cummins Inc. will begin producing
-electrolyzers in the United States, underscoring the company’s
-continued dedication to advancing the nation’s green hydrogen
-economy...
-
-Cummins plans to dedicate 89,000 square feet of its existing Fridley
-[MN] plant to electrolyzer production. Initially, the facility will
-manufacture its HyLYZER®-500 and HyLYZER®-5000 proton exchange
-membrane (PEM) electrolyzers here, with the potential to manufacture
-other electrolyzer products in the future.
-
-This range of products can accommodate power needs from 1.25MW to more
-than 200MW for both small- and large-scale hydrogen generation
-projects"
+Politico.eu: "Republican success could mean more constraints on US aid
+to Ukraine, more trade tensions and more drag on global climate
+ambitions"
 
 ---
 
 Dems post-2016 were also "election-deniers" weren't they? They blamed
 Russian meddling and questioned the legitimacy of the election. What
 goes around comes around.
+
+---
+
+"@ItaiYanai
+
+Science is like playing Jeopardy: here is the answer - what was the
+question?"
+
+---
+
+"AstroKatie@mastodon.social
+
+🌓🌎🌞 <-- lunar eclipse
+
+🌎🌓🌞 <-- solar eclipse
+
+🌎🌞🌗 <-- apocalypse"
+
+---
+
+Scripted an image downloader, every image on Twitter referenced here
+on these posts, the image is pulled to local, stored in repo, and ref
+changed. You never know...
+
+---
+
+Every year's tweets are under same archive dir; the code within those
+pages assume same directory.. For later years decided will not carry
+over code automatically, only move pieces as needed so unused code
+doesn't linger around, the latest greatest is that year's `util.py`.
+
+---
+
+Leary, *Pharmageddon*: "On the surface medical practice appears the
+same but underneath it’s not. For instance, a small number of people
+have a genetic disorder that leads to excessively high cholesterol
+levels and for them drugs like the statins can save lives, almost in
+the way that antibiotics or insulin saved lives half a century
+ago. The statins can also save lives among people who have had strokes
+or heart attacks and who also smoke or are overweight, but in this
+case hundreds of people have to be persuaded to take them for the rest
+of their lives in order for a handful among them to be saved. For the
+most part, however, the statins are instead given to healthy people
+who have mild elevations of their cholesterol levels. Similarly,
+treatments for asthma or osteoporosis are now given to many people who
+would never have been diagnosed and treated before.  Treatment happens
+now in response to results on a series of tests that have emerged in
+recent years—but these new tests don’t help make a diagnosis that will
+lift a threat to our lives. Instead they effectively make a diagnosis
+of some drug defi ciency disorder, and they often enter medical
+practice as part of the marketing strategy for a new drug.
+
+These new diseases and their treatments have gained a purchase
+on us because they are presumed to represent the latest advances in a
+story of progress that runs through insulin and the antibiotics and will
+hopefully lead someday to cures for cancer. These are the drugs that,
+
+had they been available, some presume might have saved many of my
+father’s generation. But far from saving either their lives or ours,
+clini- cal trials show that the indiscriminate use of drugs to lower
+lipids or blood sugars, to relieve respiratory wheeze, or to block
+stress hormones may even increase the risk of loss of life, 7 and
+appear to be doing so in the United States, the country that makes the
+greatest use of the latest pharmaceuticals, where since the mid-1970s
+life expectancy has been falling progressively further behind other
+developed countries"
+
+---
+
+Excellent title for a book on pharma - **Pharmageddon**
 
 ---
 
