@@ -77,18 +77,16 @@ doesn't linger around, the latest greatest is that year's `util.py`.
 Leary, *Pharmageddon*: "On the surface medical practice appears the
 same but underneath it’s not. For instance, a small number of people
 have a genetic disorder that leads to excessively high cholesterol
-levels and for them drugs like the statins can save lives..
-
-For the most part, however, the statins are instead given to healthy
-people who have mild elevations of their cholesterol
-levels. Similarly, treatments for asthma or osteoporosis are now given
-to many people who would never have been diagnosed and treated before.
-Treatment happens now in response to results on a series of tests that
-have emerged in recent years—but these new tests don’t help make a
-diagnosis that will lift a threat to our lives. Instead they
-effectively make a diagnosis of some drug defi ciency disorder, and
-they often enter medical practice as part of the marketing strategy
-for a new drug.
+levels and for them drugs like the statins can save lives.. For the
+most part, however, the statins are instead given to healthy people
+who have mild elevations of their cholesterol levels. Similarly,
+treatments for asthma or osteoporosis are now given to many people who
+would never have been diagnosed and treated before.  Treatment happens
+now in response to results on a series of tests that have emerged in
+recent years—but these new tests don’t help make a diagnosis that will
+lift a threat to our lives. Instead they effectively make a diagnosis
+of some drug deficiency disorder, and they often enter medical
+practice as part of the marketing strategy for a new drug.
 
 These new diseases and their treatments have gained a purchase on us
 because they are presumed to represent the latest advances in a story
