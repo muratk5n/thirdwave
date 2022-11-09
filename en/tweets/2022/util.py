@@ -76,8 +76,9 @@ def spy_earnings():
     
 def yf_eps(ticker):
     df = yf.get_earnings(ticker)
+    df = df[['startdatetime','epsestimate','epsactual']]
     df = df.dropna().head(3)    
-    return df[['startdatetime','epsestimate','epsactual']]
+    return df
 
 def sm_plot_kurd1(geo):
     clat,clon=37, 42; zoom=0.6

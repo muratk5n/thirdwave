@@ -32,7 +32,7 @@ if sys.argv[1] == 'pdf':
         dir = os.path.dirname(file)
         f = "/tmp/tw/%04d-%s" % (i,f)
         os.chdir(dir)
-        cmd = "pandoc %s -o %s" % (os.path.basename(file), f)
+        cmd = "pandoc %s -fmarkdown-implicit_figures -o %s" % (os.path.basename(file), f)
         if not os.path.isfile(f): 
             print (cmd)                
             os.system(cmd)
