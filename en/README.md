@@ -37,9 +37,9 @@ and investment tax credits for hydrogen fuel cell electric vehicles
 
 ---
 
-CENTO is a long-dead organization, formed to contain, you guessed it,
-Russia from its South, consisting of Iran, Iraq, Pakistan, TR. Look at
-Britain, way the f--k over there in the West.
+CENTO, now-defunct organization, was formed to contain, you guessed
+it, Russia from its South, consisting of Iran, Iraq, Pakistan,
+TR. Look at Britain, way the f--k over there in the West.
 
 [[-]](https://pbs.twimg.com/media/Fg_VVx8XwAAU1Nu?format=png&name=small)
 
