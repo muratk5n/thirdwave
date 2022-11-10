@@ -174,33 +174,33 @@ the same, and later when 20th century wanted to label someone as Turk
 they simply referred to all Muslems as such. So the set of Moslems who
 were labeled as Turks were always larger than the set of ethnic
 Turks. To top it off the founder wanted to "de-Islamize" the term, so
-Moslems who became Turks who were not Turks had to de-Islamize (and
-later re-Islamize post 80s).
+Moslems who became Turks, who mostly were not Turks, had to
+de-Islamize (and later re-Islamize -post 80s-). Confused yet?
 
 Effectiveness: As the Turkist ideology cannot be maintained logically,
-the default position is to appeal to 10,000 of Anatolian custom of
+founders had to appeal to 10,000 years of Anatolian custom around
 ancestor worshipping (a problem in every agrarian society, with their
-ceasars, and pharoahs). In a modern, industrial world such an ask is
-near impossible to achieve, besides in a small group of devout
-worshippers [5].
+ceasars, and pharoahs). Kemal took up to the task with ferver, placing
+himself at the center of that worship (notice the name he took for
+himself, The Grand Ancestor of Turks). Sadly in a modern, industrial
+world such an ask is near impossible to achieve, save for a small
+group of devout worshippers [5].
 
-The Memories of its Legacy: altough the identity's function is in
-serious doubt, and many chose to ignore it, its past lingers on in its
-symbols and worse, in people's names. Taking up a lastname was one of
-the reforms of the founding nationalist government, and the common
-folk, seeing the propaganda associated with the Turkification (also
-seeing what happened to Armenians who fell outside it during the
-"so-called" purge) went out of their way to take up a solid Turkified
-name to look good in the eye of the state. Many were also assigned
-such solid name by the government official himself visiting their
-towns that day.
-
-The names follow a pattern, made up of a few base words, which have
-usually martial, sometimes racist themes, such as er (soldier), öz
-(essence, root, with racist overtones), or simply Turk. There are
-Ozturk, Turker, Erturk, etc. These names, since they refer to an
-incorrect, inconsistent take of the past, are now a crass reminder of
-a nationalization process gone wrong.
+Legacy: Altough The Identity's function is in serious doubt, and many
+chose to ignore it, its past lingers on in its symbols and worse, in
+people's names. Taking up a lastname was one of the reforms of the
+founding nationalist government, and the common folk, seeing the
+propaganda associated with the Turkification (also seeing what
+happened to Armenians who fell outside it during the "so-called"
+purge) went out of their way to take up solid Turkified names to come
+across as good citizens in the eye of the state. Many were also
+*assigned* such acceptable names by the government official himself
+visiting their towns that day. These names all follow a pattern, made
+up of a few base words with usually martial, sometimes racist themes,
+such as er (soldier), öz (essence, root, with racist overtones), or
+simply Turk. There are Ozturk, Turker, Erturk, etc. The names, since
+they refer to an incorrect, inconsistent take of the past, are now a
+sad reminder of a nationalization process gone wrong.
 
 Meaning: The word Turk meant different things to different people. In
 the Balkans (where most of the founders came from) it simply meant
@@ -217,13 +217,15 @@ word is a mix of "c'mon that cannot be!" and "do not sell yourself
 short", indicating people though the officer had used a slur on
 himself.
 
-Even a century after its adoption the legacy of this unfavorable
-meaning still remains. I've seen solidly nationalist, proud citizens
-of their country, best and brightest in top corporations using the
-word in such ways. In one case a group called their somewhat
-wrestler-built (little chubby) friend of having a "Turkish built", and
-the man would be offended by this. The undercurrent of the old meaning
-still remains and I'm afraid will always be there.
+Even a century later the legacy of such unfavorable meaning
+remains. I've seen proud citizens, well-educated folk who loved their
+country, best and brightest of their generation, working for top
+corporations and still using the word in such ways on their coworkers,
+albeit jokingly. One time one of them called their somewhat
+heavily-built wrestler-type friend having a "Turkish built". What's
+more suprising, the man would be offended by this. If The Identity is
+something that is supposed to describe everyone, why does it describe
+noone, and people are squeamish to be described by it?
 
 References
 
