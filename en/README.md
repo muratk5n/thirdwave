@@ -112,7 +112,7 @@ and gain governing experience.
 
 ---
 
-Hochul win is good - strong supported of H2
+Hochul win is good - strong supporter of H2
 
 ---
 
