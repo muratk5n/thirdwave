@@ -85,7 +85,7 @@ It's like f-ing mafia politics over there..
 
 There is a lake in Finland, that looks like Finland. Now you know"
 
-[[-]](https://pbs.twimg.com/media/FgkwKLcWQAAGQos?format=jpg&name=small)
+[[-]](twimg/FgkwKLcWQAAGQos.jpg)
 
 ---
 
@@ -127,7 +127,7 @@ travel 2,000 kilometers on a single tank"
 
 You know you're in Copenhagen when …"
 
-[[-]](https://pbs.twimg.com/media/FgpiKNfUcAAE_5m?format=jpg&name=small)
+[[-]](twimg/FgpiKNfUcAAE_5m.jpg)
 
 ---
 

@@ -160,6 +160,8 @@ take off their hijab, whereas conservative from usually poorer
 background tried to "defend their identity" by refusing.. The Turkist
 resurgence through the image of Kemal is expounded upon more in this work [5].
 
+<a name='problems'/>
+
 ### Problems
 
 Turkist narrative suffers from multitude of problems.
@@ -182,7 +184,7 @@ ceasars, and pharoahs). In a modern, industrial world such an ask is
 near impossible to achieve, besides in a small group of devout
 worshippers [5].
 
-The Crassness of its Legacy: altough the identity's function is in
+The Memories of its Legacy: altough the identity's function is in
 serious doubt, and many chose to ignore it, its past lingers on in its
 symbols and worse, in people's names. Taking up a lastname was one of
 the reforms of the founding nationalist government, and the common
@@ -199,6 +201,29 @@ usually martial, sometimes racist themes, such as er (soldier), öz
 Ozturk, Turker, Erturk, etc. These names, since they refer to an
 incorrect, inconsistent take of the past, are now a crass reminder of
 a nationalization process gone wrong.
+
+Meaning: The word Turk meant different things to different people. In
+the Balkans (where most of the founders came from) it simply meant
+Moslem. In Anatolia it was actually considered an ethnic slur. A story
+can demonstrate this well; During the last days of the empire as the
+new nationalism was circulating among the cadres, one officer wanted
+to check how much the regular soldiers knew of "their identity". He
+first asked them about the sultan, the Caliph, etc. The soldiers
+weren't really sure, many were confused, they thought sultan was
+prophet, Caliph was God, etc.  After a few tries frustrated, the
+officer finally said "but aren't we all Turks!??". To that all
+soldiers responded, in unison, with the word *estağfurullah*. This
+word is a mix of "c'mon that cannot be!" and "do not sell yourself
+short", indicating people though the officer had used a slur on
+himself.
+
+Even a century after its adoption the legacy of this unfavorable
+meaning still remains. I've seen solidly nationalist, proud citizens
+of their country, best and brightest in top corporations using the
+word in such ways. In one case a group called their somewhat
+wrestler-built (little chubby) friend of having a "Turkish built", and
+the man would be offended by this. The undercurrent of the old meaning
+still remains and I'm afraid will always be there.
 
 References
 

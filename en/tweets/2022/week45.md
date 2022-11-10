@@ -106,12 +106,6 @@ Thank you, PA! 🥰"
 
 ---
 
-Dems post-2016 were also "election-deniers" weren't they? They blamed
-Russian meddling and questioned the legitimacy of the election. What
-goes around comes around.
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/volkswagen?ref_src=twsrc%5Etfw">@Volkswagen</a> is working on a new fuel cell that is much cheaper than the current ones and promises hydrogen cars that can travel 2,000 kilometers on a single tank <a href="https://t.co/s8OA8c7gNZ">https://t.co/s8OA8c7gNZ</a></p>&mdash; CAHydrogenCoalition (@HydrogenCa) <a href="https://twitter.com/HydrogenCa/status/1589659461584838657?ref_src=twsrc%5Etfw">November 7, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
