@@ -51,10 +51,10 @@ ultra-nationalist party.
 
 ---
 
-Tigger nationalists are useful idiots for the Anglo... They are
-supposed to feel foreign to their land ("just" arrived, nomadic
+Tigger nationalists are useful idiots for the Anglo... Nat ideology
+makes ppl feel foreign to their land ("just" arrived, nomadic
 migrants) fear their neighbors, so they will be more in need of
-overseas friends. 
+overseas friends.
 
 ---
 
