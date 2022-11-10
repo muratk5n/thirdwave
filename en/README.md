@@ -45,7 +45,7 @@ Britain, way the f--k over there in the West.
 
 ---
 
-Everyone remembers the radio speech of an '60 coup leader, "we are
+Everyone knows the radio speech of an '60 coup leader, "we are
 respectful of NATO and CENTO". That guy later became the founder of an
 ultra-nationalist party.
 
