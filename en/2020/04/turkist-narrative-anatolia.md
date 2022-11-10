@@ -166,45 +166,61 @@ resurgence through the image of Kemal is expounded upon more in this work [5].
 
 Turkist narrative suffers from multitude of problems.
 
-Consistency: Due to the many changes it witnessed the identity suffers
-from not accurately describing anyone. The nomads, the real Turks who
-arrived from Central Asia adopted to their new homeland, taking up
-Islam was one of those transitions. But many others in Anatolia did
-the same, and later when 20th century wanted to label someone as Turk
-they simply referred to all Muslems as such. So the set of Moslems who
-were labeled as Turks were always larger than the set of ethnic
-Turks. To top it off the founder wanted to "de-Islamize" the term, so
-Moslems who became Turks, who mostly were not Turks, had to
-de-Islamize (and later re-Islamize -post 80s-). Confused yet?
+- Due to the many changes it experienced the identity suffers from
+lack of accuracy. The nomads, the real Turks who arrived from Central
+Asia adopted to their new homeland, taking up Islam was one of those
+transitions. Many others in Anatolia did the same, and later when 20th
+century wanted to label someone as Turk they simply referred to all
+Muslims as such. The set of Moslems who were labeled as Turks were
+always larger than the set of ethnic Turks. From [post](../../2021/07/lycian-history.html)
 
-Effectiveness: As the Turkist ideology cannot be maintained logically,
-founders had to appeal to 10,000 years of Anatolian custom around
-ancestor worshipping (a problem in every agrarian society, with their
-ceasars, and pharoahs). Kemal took up to the task with ferver, placing
-himself at the center of that worship (notice the name he took for
-himself, The Grand Ancestor of Turks). Sadly in a modern, industrial
-world such an ask is near impossible to achieve, save for a small
-group of devout worshippers [5].
+>[F]ollowing the Turkish War of Independence in which Greece (The
+>Ottoman Empire had lost Greece as part of its territory by this time)
+>invaded Turkey in hope of a Greater Greece but was repelled, the 1923
+>Treaty of Lausanne was drawn up in the peace settlement.  This is a
+>very sad part of history as both Greece and Turkey agreed to a mutual
+>exchange of populations, irrespective of those populations’ wishes.
+>Greece expelled approximately 600,000... while the Turks expelled
+>about 750,000 Anatolian[s]... (some were allowed to stay in Istanbul).
+>These figures differ, depending on the source. In deciding ethnicity,
+>the criterion used was religion.  A Turkish-speaking Orthodox
+>Christian in Turkey was thus considered Greek, and expelled to Greece,
+>while a Greek-speaking Muslim who knew no Turkish was considered
+>Turkish and expelled to Turkey
 
-Legacy: Altough The Identity's function is in serious doubt, and many
-chose to ignore it, its past lingers on in its symbols and worse, in
-people's names. Taking up a lastname was one of the reforms of the
-founding nationalist government, and the common folk, seeing the
-propaganda associated with the Turkification (also seeing what
-happened to Armenians who fell outside it during the "so-called"
-purge) went out of their way to take up solid Turkified names to come
-across as good citizens in the eye of the state. Many were also
-*assigned* such acceptable names by the government official himself
-visiting their towns that day. These names all follow a pattern, made
-up of a few base words with usually martial, sometimes racist themes,
-such as er (soldier), öz (essence, root, with racist overtones), or
-simply Turk. There are Ozturk, Turker, Erturk, etc. The names, since
-they refer to an incorrect, inconsistent take of the past, are now a
-sad reminder of a nationalization process gone wrong.
+- Then the founders wanted to "de-Islamize" the term, so Muslims who
+became Turks, who mostly were not Turks, had to de-Islamize (and later
+re-Islamize -post 80s-). Confused yet?
 
-Meaning: The word Turk meant different things to different people. In
-the Balkans (where most of the founders came from) it simply meant
-Moslem. In Anatolia it was actually considered an ethnic slur. A story
+- As the Turkist ideology cannot be maintained logically, founders had
+to appeal to 10,000 years of Anatolian custom around ancestor
+worshipping (a problem in every agrarian society). Kemal took up to
+the task with fervor, placing himself at the center of that worship
+(notice the name he took for himself, The Grand Ancestor of
+Turks). Sadly in a modern, industrial world such an ask is near
+impossible to achieve, save for a small group of devout worshippers
+[5] which turns the founder into a niche figure, not someone that
+should unify all, as George Washington or Jefferson might have done
+for Americans.
+
+- Since The Identity's function is in serious doubt, many chose to
+ignore it, but its past lingers on in its symbols and worse, in
+people's names. All TR lastnames were taken in a 30s law, and the
+common folk, seeing the propaganda associated with the Turkification
+(also seeing what happened to Armenians who fell outside it during the
+so-called (!) purge) went out of their way to take up solid Turkified
+names to come across as good citizens in the eye of the state. Many
+were also *assigned* such acceptable names by the government official
+himself visiting their towns that day. These names all follow a
+pattern, made up of a few base words with usually martial, sometimes
+racist themes, such as er (soldier), öz (essence, root, with racist
+overtones), or simply Turk. There are Ozturk, Turker, Erturk, etc. The
+names, since they refer to an incorrect, inconsistent take of the
+past, are now a sad reminder of a nationalization process gone wrong.
+
+- The word Turk meant different things to different people. In the
+Balkans (where most of the founders came from) it simply meant
+Muslim. In Anatolia it was actually considered an ethnic slur. A story
 can demonstrate this well; During the last days of the empire as the
 new nationalism was circulating among the cadres, one officer wanted
 to check how much the regular soldiers knew of "their identity". He
@@ -218,14 +234,15 @@ short", indicating people though the officer had used a slur on
 himself.
 
 Even a century later the legacy of such unfavorable meaning
-remains. I've seen proud citizens, well-educated folk who loved their
-country, best and brightest of their generation, working for top
-corporations and still using the word in such ways on their coworkers,
-albeit jokingly. One time one of them called their somewhat
-heavily-built wrestler-type friend having a "Turkish built". What's
-more suprising, the man would be offended by this. If The Identity is
-something that is supposed to describe everyone, why does it describe
-noone, and people are squeamish to be described by it?
+remains. I've seen well-educated people, proud citizens who loved
+their country, best and brightest of their generation, working for top
+corporations and still using the word in non-favorable terms. One time
+such a group called their somewhat heavily-built wrestler-type friend
+being of a "Turkish built". And the man would be offended by this. If
+The Identity is something that is supposed to describe everyone, why
+does it fall short in so many different ways, can only work as
+case-by-case basis, depending on context, region, and person. This
+sounds to me a nationalisation process gone wrong.
 
 References
 
