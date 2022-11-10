@@ -77,7 +77,7 @@ the fucker was Russian / Chinese asset.
 
 Whatever her effect was earlier, on PA race, she'd made a difference
 because she knew Oz personally, helped him become the big celebrity he
-is today. So as "character witness" for Oz, her vote would count.
+is today. As "character witness" for Oz her vote would count.
 
 "Oprah's effect on politics is not as it used to be"
 
