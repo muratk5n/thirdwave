@@ -10,10 +10,10 @@ in the village of Winlaton, near Gateshead"
 
 ---
 
-Climate activists need to get in the weed of climate tech and policy.
-Can't just call fossil companies bad names. Fossil companies have a
-lot of know-how they can be helpful in the transition - given we use
-the right tech.
+Climate activists need to get into the weeds of climate tech and
+policy.  Can't just call fossil companies bad names. Fossil companies
+have a lot of know-how they can be helpful in the transition - given
+we use the right tech.
 
 ---
 
