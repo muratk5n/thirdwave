@@ -116,7 +116,7 @@ Hochul win is good - strong supporter of H2
 
 ---
 
-I like the strong emph on healthcare, working class
+I like the emph on healthcare, working class
 
 Fetterman: "I am proud of our campaign platform: protect women's right
 to choose, raise the minimum wage, fight (for)
