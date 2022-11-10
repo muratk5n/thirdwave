@@ -100,7 +100,7 @@ Out[1]:
 ---
 
 I realize SA has organization skill, she was helpful for 2020
-get-out-the-vote efforts. But running for office herself is apparently
+get-out-the-vote efforts. But running for office herself apparently is
 not her thing.
 
 ---
