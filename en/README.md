@@ -2,115 +2,126 @@
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Netherlands?src=hash&amp;ref_src=twsrc%5Etfw">#Netherlands</a>: Pilot Project for <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> Boiler to Heat Homes Allowed to Begin - The project, run by grid operator <a href="https://twitter.com/hashtag/Liander?src=hash&amp;ref_src=twsrc%5Etfw">#Liander</a>, is the first of its kind in the Netherlands - <a href="https://t.co/0je6MUcQo4">https://t.co/0je6MUcQo4</a> <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/HydrogenEconomy?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenEconomy</a> <a href="https://twitter.com/hashtag/HydrogenNews?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNews</a> <a href="https://twitter.com/hashtag/H2?src=hash&amp;ref_src=twsrc%5Etfw">#H2</a> <a href="https://twitter.com/hashtag/CleanHydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#CleanHydrogen</a> <a href="https://twitter.com/hashtag/Decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#Decarbonise</a> <a href="https://t.co/nLXQQ2TPlU">pic.twitter.com/nLXQQ2TPlU</a></p>&mdash; Fuel Cells Works (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1589973805685841920?ref_src=twsrc%5Etfw">November 8, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+H2 Fuel News: "A busy week in the world of decarbonisation, with a key
+event taking place in the House of Lords on Tuesday 1st November,
+organised by the HyDeploy consortia.. HyDeploy2 delivered 20% blended
+hydrogen with natural gas in a second trial for around 1,600 residents
+in the village of Winlaton, near Gateshead"
 
 ---
 
-H2 Bulletin: "Certarus engineered and over the course of two weeks,
-safely supplied and controlled hydrogen at blend rates up to 25% to an
-18MW Wärtsilä natural gas engine across multiple engine-load
-capacities"
+Climate activists need to get in the weed of climate tech and policy.
+Can't just call fossil companies bad names. Fossil companies have a
+lot of know-how they can be helpful in the transition - given we use
+the right tech.
 
 ---
 
-WSJ: "China's Xi Jinping to Visit Saudi Arabia Amid Global
-Reshuffling.. Riyadh’s expanded ties with Washington’s global rivals
-have helped deepen Chinese influence in the Middle East, where the
-U.S. once reigned supreme"
+It's not about whether to "bring back nuclear" - but *what kind*. The
+defining feature of the new tech is not they are "small and modular"
+either, MSM is off. The key word is helium-cooled - coupled with their
+TRISO cartridges, making them safe. Spent fuel utilization is another
+new way. 
 
 ---
 
-ABC AU: "Andrew Forrest says big companies are 'forcing' customers to
-'destroy the planet.. "All I'm saying to the fossil fuel sector is, if
-you're like the single-use plastic sector, if you're like Coca-Cola
-and you just give single-use plastic as your container for Coke, then
-you're forcing your customers to be single-use plastic nature
-destroyers".. Coca-Cola is one of the sponsors for the UN Climate
-Change Conference — a move which has drawn criticism from climate
-activists..
+CHCFA: "The Canadian Hydrogen and Fuel Cell Association (CHFCA) and
+its members applaud the 2022 Fall Economic Statement presented by the
+Honourable Chrystia Freeland, Canada’s Minister of Finance last week.
 
-Mr Forrest is investing in solar farms to lay the groundwork for
-Fortescue Future Industries to be producing 15 million tonnes of green
-hydrogen by 2030"
-
-[[-]](https://www.abc.net.au/news/2022-11-07/twiggy-forrest-says-companies-forcing-customers-destroy-planet/101626328)
+The statement, which highlights clean hydrogen as an essential part of
+Canada’s net-zero future, outlines the government’s commitment to
+accelerate hydrogen energy adoption through the new Canada Growth Fund
+and investment tax credits for hydrogen fuel cell electric vehicles
+(FCEVs) and refueling infrastructure"
 
 ---
 
-Al Monitor: "Climate change is speeding up, warns major UN report"
+CENTO is a long-dead organization, formed to contain, you guessed it,
+Russia from its South, consisting of Iran, Iraq, Pakistan, TR. Look at
+Britain, way the f--k over there in the West.
+
+[[-]](https://pbs.twimg.com/media/Fg_VVx8XwAAU1Nu?format=png&name=small)
 
 ---
 
-Politico.eu: "Republican success could mean more constraints on US aid
-to Ukraine, more trade tensions and more drag on global climate
-ambitions"
+Everyone remembers the radio speech of an '60 coup leader, "we are
+respectful of NATO and CENTO". That guy later became the founder of an
+ultra-nationalist party.
 
 ---
 
-"@ItaiYanai
-
-Science is like playing Jeopardy: here is the answer - what was the
-question?"
-
----
-
-"AstroKatie@mastodon.social
-
-🌓🌎🌞 <-- lunar eclipse
-
-🌎🌓🌞 <-- solar eclipse
-
-🌎🌞🌗 <-- apocalypse"
+Tigger nationalists are useful idiots for the Anglo... They are
+supposed to feel foreign to their land ("just" arrived, nomadic
+migrants) fear their neighbors, so they will be more in need of
+overseas friends. 
 
 ---
 
-Leary, *Pharmageddon*: "On the surface medical practice appears the
-same but underneath it’s not. For instance, a small number of people
-have a genetic disorder that leads to excessively high cholesterol
-levels and for them drugs like the statins can save lives.. For the
-most part, however, the statins are instead given to healthy people
-who have mild elevations of their cholesterol levels. Similarly,
-treatments for asthma or osteoporosis are now given to many people who
-would never have been diagnosed and treated before.  Treatment happens
-now in response to results on a series of tests that have emerged in
-recent years—but these new tests don’t help make a diagnosis that will
-lift a threat to our lives. Instead they effectively make a diagnosis
-of some drug deficiency disorder, and they often enter medical
-practice as part of the marketing strategy for a new drug.
-
-These new diseases and their treatments have gained a purchase on us
-because they are presumed to represent the latest advances in a story
-of progress that runs through insulin and the antibiotics and will
-hopefully lead someday to cures for cancer. These are the drugs that,
-had they been available, some presume might have saved many of my
-father’s generation. But far from saving either their lives or ours,
-clinical trials show that the indiscriminate use of drugs to lower
-lipids or blood sugars, to relieve respiratory wheeze, or to block
-stress hormones may even increase the risk of loss of life, and appear
-to be doing so in the United States, the country that makes the
-greatest use of the latest pharmaceuticals, where since the mid-1970s
-life expectancy has been falling progressively further behind other
-developed countries"
+This takes me to the aughts, when an EU official's (Fogg) emails were
+leaked to the press by this guy, EU-Anatolia relations were
+damaged. Many thought the intel was given to him by RU FSB. MI6 makes
+more sense - they would have more to gain - ala inner vs outer fight.
 
 ---
 
-Excellent title for a book on pharma - **Pharmageddon**
+Name is Perincek. Turkist dickwad
 
 ---
 
-AP News: "Warnock, Walker in tight race in Georgia; runoff possible"
+Saw a vid, a retired TR spy chief just blurted out a politician,
+"journalist" was actually in the employ of the Brits. Everyone thought
+the fucker was Russian / Chinese asset.
 
 ---
 
-"@JohnFetterman
+Whatever her effect was earlier, on GA race, she'd made a difference
+because she knew Oz personally, helped him become the big celebrity he
+is today. So as "character witness" for Oz, her vote would count.
 
-Thank you, PA! 🥰"
+"Oprah's effect on politics is not as it used to be"
 
 ---
 
-Dems post-2016 were also "election-deniers" weren't they? They blamed
-Russian meddling and questioned the legitimacy of the election. What
-goes around comes around.
+Disney underdelivered.  
+
+```python
+u.yf_eps("DIS")
+```
+
+```text
+Out[1]: 
+              startdatetime  epsestimate  epsactual
+4  2022-11-08T16:05:00.000Z         0.55       0.30
+5  2022-08-10T16:06:00.000Z         0.96       1.09
+6  2022-05-11T16:05:00.000Z         1.19       1.08
+```
+
+---
+
+I realize SA has organization skill, she was helpful for 2020
+get-out-the-vote efforts. But running for office herself is apparently
+not her thing.
+
+---
+
+Beto and Stacy Abrahams got the crap beaten out of them. These are
+perennial losers, I hope they stop trying to run for office, they are
+taking up space, attention someone else can use, someone who can win
+and gain governing experience.
+
+---
+
+Hochul win is goof - strong supported of H2
+
+---
+
+I like the strong emph on healthcare, working class
+
+Fetterman: "I am proud of our campaign platform: protect women's right
+to choose, raise the minimum wage, fight (for)
+unionization.. Healthcare is a fundamental human right. It saved my
+life, and it should be there for you too if you need it"
 
 ---
 

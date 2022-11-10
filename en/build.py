@@ -27,7 +27,7 @@ if sys.argv[1] == 'pdf':
     files = glob.glob("**/**/*.md")
     files = sorted(files)
     files = [f for f in files if "tweets" not in f]
-    for i,file in enumerate(files):        
+    for i,file in enumerate(files):
         f = os.path.basename(file).replace(".md",".pdf")
         dir = os.path.dirname(file)
         f = "/tmp/tw/%04d-%s" % (i,f)
