@@ -35,8 +35,8 @@ China"
 ---
 
 Maybe CH won't go after Taiwan but one of those smaller JP islets in
-that chain near TW; Taketomi, Ishigaki... CH needs a deep-sea port for
-subs, a smaller islet might do for them.
+that chain near Taiwan; Taketomi, Ishigaki... CH needs a deep-sea port
+for subs, a smaller islet might do for them.
 
 "Japan is preparing for war with China, say all telltale signs"
 
