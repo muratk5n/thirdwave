@@ -2,126 +2,150 @@
 
 ---
 
-H2 Fuel News: "A busy week in the world of decarbonisation, with a key
-event taking place in the House of Lords on Tuesday 1st November,
-organised by the HyDeploy consortia.. HyDeploy2 delivered 20% blended
-hydrogen with natural gas in a second trial for around 1,600 residents
-in the village of Winlaton, near Gateshead"
+H2 Fuel News: "Heliogen to build green hydrogen generation facility in
+collaboration with the City of Lancaster"
 
 ---
 
-Climate activists need to get into the weeds of climate tech and
-policy.  Can't just call fossil companies bad names. Fossil companies
-have a lot of know-how they can be helpful in the transition - given
-we use the right tech.
+H2 Central: "Hydrogène De France – COP27 – HDF Energy and The European
+Investment Bank Partner to Implement Namibia First Green Hydrogen
+Power Plant"
 
 ---
 
-It's not about whether to "bring back nuclear" - but *what kind*. The
-defining feature of the new tech is not they are "small and modular"
-either, MSM is off. The key word is helium-cooled - coupled with their
-TRISO cartridges, making them safe. Spent fuel utilization is another
-new way. 
+The name Oz is actually Öz, with two dots on top, meaning "essence" a
+name with nationalistic overtones (TR lastnames started in 30s).  Oz
+got lucky, in US the dots are dropped so the name sounds like Oz as in
+"The Wizard of Oz", plus he looks Vulcan so could rock that image of
+wizardy, scifi doctor-bro for many years.. US is a place of
+reinvention, right?
 
 ---
 
-CHCFA: "The Canadian Hydrogen and Fuel Cell Association (CHFCA) and
-its members applaud the 2022 Fall Economic Statement presented by the
-Honourable Chrystia Freeland, Canada’s Minister of Finance last week.
+There .. 
 
-The statement, which highlights clean hydrogen as an essential part of
-Canada’s net-zero future, outlines the government’s commitment to
-accelerate hydrogen energy adoption through the new Canada Growth Fund
-and investment tax credits for hydrogen fuel cell electric vehicles
-(FCEVs) and refueling infrastructure"
-
----
-
-CENTO, now-defunct organization, was formed to contain, you guessed
-it, Russia from its South, consisting of Iran, Iraq, Pakistan,
-TR. Look at Britain, way the f--k over there in the West.
-
-[[-]](https://pbs.twimg.com/media/Fg_VVx8XwAAU1Nu?format=png&name=small)
+The Independent: "[2018] Japan to bolster military base on island
+idyll that could become front line in event of war... [in the]
+disputed seas around China.. Japan is building radar, anti-aircraft
+guns and missile silos to counter what it sees as Chinese
+aggression.. If war is to break out, then Ishigaki would be the front
+line. This is the island where Japan feels the most under threat from
+China"
 
 ---
 
-Everyone knows the radio speech of an '60 coup leader, "we are
-respectful of NATO and CENTO". That guy later became the founder of an
-ultra-nationalist party.
+Maybe CH won't go afyer Taiwan but one of those smaller JP islets in
+that chain near TW; Taketomi, Ishigaki... CH needs a deep-sea port for
+subs, a smaller islet might do for them.
+
+"Japan is preparing for war with China, say all telltale signs"
 
 ---
 
-Tigger nationalists are useful idiots for the Anglo... Nat ideology
-makes ppl feel foreign to their land ("just" arrived, nomadic
-migrants) fear their neighbors, so they will be more in need of
-overseas friends.
+Tiktok simply suggesting the most popular items besting Facebook's
+friends and "AI" recommendations... I worked on recommendation
+systems, even the best methods used are not even mildly intelligent
+(the "I" of AI) the improvements they offered over simple
+recom was very small. Item-item, user-user similarity measures,
+dimensionality reduction, later deep nets... all same way.
 
 ---
 
-This takes me to the aughts, when an EU official's (Fogg) emails were
-leaked to the press by this guy, EU-Anatolia relations were
-damaged. Many thought the intel was given to him by RU FSB. MI6 makes
-more sense - they would have more to gain - ala inner vs outer fight.
+Wales & West Utilities: "[WWU] is announcing plans for a major
+hydrogen pipeline in south Wales, to accelerate decarbonisation plans
+for industry and gas customers in the region"
 
 ---
 
-Name is Perincek. Turkist dickwad
+Alex Cortiz - The Man, The Myth \#music
+
+[[-]](https://youtu.be/0apVn8x3UD8)
 
 ---
 
-Saw a vid, a retired TR spy chief just blurted out a politician,
-"journalist" was actually in the employ of the Brits. Everyone thought
-the fucker was Russian / Chinese asset.
+H2 Fuel News: "[Researchers] created a method of hydrogen fuel
+production that derives energy from light while using gold
+nanoparticles for the conversion of hydrogen sulfide and sulfur within
+a single step"
 
 ---
 
-Whatever her effect was earlier, on PA race, she'd made a difference
-because she knew Oz personally, helped him become the big celebrity he
-is today. As "character witness" for Oz her vote would count.
+Fake Nobel. Your life was a sham, Edward
 
-"Oprah's effect on politics is not as it used to be"
+"Nobel-Winning Economist Edward C. Prescott Dies at 81"
 
 ---
 
-Disney underdelivered.  
+Reshare \#Batman \#2020
 
-```python
-u.yf_eps("DIS")
+Bad covid joke
+
+<img width="340" src="tweets/2020/twimg/EU1fRYcX0AAoEDq.png"/>
+
+---
+
+H2 Fuel News: "A research team from King Abdullah University of
+Science and Technology (KAUST) has developed a water-splitting clean
+hydrogen production method that delivers high-efficiency and stable
+hydrogen evolution electrocatalysts to split seawater"
+
+---
+
+H2 View: "Iberdrola has successfully completed the supply of green
+hydrogen to CAF in Zaragoza for the on-track dynamic tests of the
+hydrogen-powered demonstrator train of the FCH2Rail project"
+
+---
+
+*Quantum Leap* 2022, not bad. 
+
+---
+
+H2 Central: "Newmed Energy and Uniper Sign a Non-Binding MoU to
+Explore Collaboration Options for The Delivery of Natural Gas to
+Europe and The Development of Blue Hydrogen"
+
+---
+
+WHERE WERE THE RUSSIANS THIS TIME?
+
+"US midterms saw less misinformation, but it was there"
+
+---
+
+They aren't anywhere really.. People vote on their well-being, if that
+isn't good, the vote out the incumbent, and can vote in anyone
+else... 1933 Germany voted in Nazis.
+
+"Most Americans are in the middle"
+
+---
+
+This is Hydrogenious with its LOHC tech
+
+"@hydrogenLOHC .. [I]n North Rhine-Westphalia at Chempark Dormagen.. a
+storage plant with a storage capacity of 1,800 tonnes of #hydrogen
+will be built"
+
+---
+
+Waiting for *Orbital* release
+
+---
+
+Its probably had more to do with the pocketbook then culture war. Econ
+wasn't doing too bad...
+
+"Abortion rights and Republican tilt to the far right helped Democrats
+hold on in key races across the US, analysts say"
+
+---
+
+Inflation down to 7.7%. Rate rises are working.
+
 ```
-
-```text
-Out[1]: 
-              startdatetime  epsestimate  epsactual
-4  2022-11-08T16:05:00.000Z         0.55       0.30
-5  2022-08-10T16:06:00.000Z         0.96       1.09
-6  2022-05-11T16:05:00.000Z         1.19       1.08
+2022-10-01  7.745427
 ```
-
----
-
-I realize SA has organization skill, she was helpful for 2020
-get-out-the-vote efforts. But running for office herself apparently is
-not her thing.
-
----
-
-Beto and Stacy Abrahams got the crap beaten out of them. These are
-perennial losers, I hope they stop trying to run for office, they are
-taking up space, attention someone else can use, someone who can win
-and gain governing experience.
-
----
-
-Hochul win is good - strong supporter of H2
-
----
-
-I like the emph on healthcare, working class
-
-Fetterman: "I am proud of our campaign platform: protect women's right
-to choose, raise the minimum wage, fight (for)
-unionization.. Healthcare is a fundamental human right. It saved my
-life, and it should be there for you too if you need it"
 
 ---
 
