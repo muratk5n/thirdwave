@@ -16,7 +16,7 @@ Power Plant"
 The name Oz is actually Öz, with two dots on top, meaning "essence" a
 name with nationalistic overtones (TR lastnames started in 30s).  Oz
 got lucky, in US the dots are dropped so the name sounds like Oz as in
-"The Wizard of Oz", plus he looks Vulcan so could rock that image of
+"The Wizard of Oz", plus he looks Vulcan he could rock that image of
 wizardy, scifi doctor-bro for many years.. US is a place of
 reinvention, right?
 
