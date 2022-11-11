@@ -125,8 +125,8 @@ Waiting for *Orbital* release
 
 ---
 
-It probably had more to do with the pocketbook then culture war. Econ
-wasn't doing too bad...
+The non-existence of the red-wave probably had more to do with the
+pocketbook then culture war. Econ wasn't doing too bad...
 
 "Abortion rights and Republican tilt to the far right helped Democrats
 hold on in key races across the US, analysts say"
