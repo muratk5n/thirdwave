@@ -113,8 +113,8 @@ WHERE WERE THE RUSSIANS THIS TIME?
 
 ---
 
-They aren't anywhere really.. People vote on their well-being, if that
-isn't good, the vote out the incumbent, and can vote in anyone
+They aren't anywhere really.. People vote on their well-being, if not
+doing well they vote out the incumbent, can vote in anyone
 else... 1933 Germany voted in Nazis.
 
 "Most Americans are in the middle"
