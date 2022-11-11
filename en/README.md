@@ -80,7 +80,7 @@ Reshare \#Batman \#2020
 
 Bad covid joke
 
-<img width="340" src="tweets/2020/twimg/EU1fRYcX0AAoEDq.png"/>
+[[-]](tweets/2020/twimg/EU1fRYcX0AAoEDq.png)
 
 ---
 
@@ -121,10 +121,11 @@ else... 1933 Germany voted in Nazis.
 
 ---
 
-This is Hydrogenious with its LOHC tech
+This is Hydrogenious with its LOHC tech, allows transport of H2 in an
+diesel like substance.
 
 "@hydrogenLOHC .. [I]n North Rhine-Westphalia at Chempark Dormagen.. a
-storage plant with a storage capacity of 1,800 tonnes of #hydrogen
+storage plant with a storage capacity of 1,800 tonnes of \#hydrogen
 will be built"
 
 ---
@@ -141,7 +142,7 @@ hold on in key races across the US, analysts say"
 
 ---
 
-Inflation down to 7.7%. Rate rises are working.
+Inflation down. Rate rises are working.
 
 ```
 2022-10-01  7.745427
