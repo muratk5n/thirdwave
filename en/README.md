@@ -63,7 +63,7 @@ a single step"
 
 Some called the (more likely) lab leak theory racist. But wasn't
 saying "Chinese ppl eat anything, bats, snails, their hats, that's why
-they had covid" also racist?
+they had covid" comment also racist?
 
 ---
 
