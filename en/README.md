@@ -43,11 +43,11 @@ subs, a smaller islet might do for them.
 ---
 
 Tiktok simply suggesting the most popular items besting Facebook's
-friends and "AI" recommendations... I worked on recommendation
-systems, even the best methods used are not even mildly intelligent
-(the "I" of AI) the improvements they offered over simple
-recom was very small. Item-item, user-user similarity measures,
-dimensionality reduction, later deep nets... all same way.
+friends and "AI" recommendations... I've seen such systems up close,
+even the best methods used are not even mildly intelligent (the "I" of
+AI) the improvements they offered over simple recom was very
+small. Item-item, user-user similarity measures, dimensionality
+reduction, deep nets... all same way.
 
 ---
 
