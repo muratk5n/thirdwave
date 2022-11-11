@@ -76,6 +76,12 @@ Fake Nobel. Your life was a sham, Edward
 
 ---
 
+Some called the (more likely) lab leak theory racist. But wasn't
+saying "Chinese ppl eat anything, bats, snails, their hats, that's why
+they had covid" also racist?
+
+---
+
 Reshare \#Batman \#2020
 
 Bad covid joke
