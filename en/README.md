@@ -125,7 +125,7 @@ Waiting for *Orbital* release
 
 ---
 
-Its probably had more to do with the pocketbook then culture war. Econ
+It probably had more to do with the pocketbook then culture war. Econ
 wasn't doing too bad...
 
 "Abortion rights and Republican tilt to the far right helped Democrats
