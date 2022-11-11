@@ -42,15 +42,6 @@ for subs, a smaller islet might do for them.
 
 ---
 
-Tiktok simply suggesting the most popular items besting Facebook's
-friends and "AI" recommendations... I've seen such systems up close,
-even the best methods used are not even mildly intelligent (the "I" of
-AI) the improvements they offered over simple recom was very
-small. Item-item, user-user similarity measures, dimensionality
-reduction, deep nets... all same way.
-
----
-
 Wales & West Utilities: "[WWU] is announcing plans for a major
 hydrogen pipeline in south Wales, to accelerate decarbonisation plans
 for industry and gas customers in the region"
@@ -67,12 +58,6 @@ H2 Fuel News: "[Researchers] created a method of hydrogen fuel
 production that derives energy from light while using gold
 nanoparticles for the conversion of hydrogen sulfide and sulfur within
 a single step"
-
----
-
-Fake Nobel. Your life was a sham, Edward
-
-"Nobel-Winning Economist Edward C. Prescott Dies at 81"
 
 ---
 
