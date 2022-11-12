@@ -64,7 +64,7 @@ constantly.. Nothing even started yet in the Far East!
 They need desalination tech. Israel has it, hook a brother up. Aren't
 they an ISR protectorate already?
 
-"Jordan Is Running Out of Water, a Grim Glimpse of the Future"
+NYT: "Jordan Is Running Out of Water, a Grim Glimpse of the Future"
 
 ---
 
