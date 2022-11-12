@@ -52,7 +52,7 @@ Bank official]"
 ---
 
 It sounds adventerous times for East Asia. It's same old same old
-around US, Europe, ME. Boring. Never-ending war, ppl die
+around Europe, ME. Boring. Never-ending war, ppl die
 constantly.. Nothing even started yet in the Far East!
 
 ---
