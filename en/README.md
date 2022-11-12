@@ -78,7 +78,7 @@ they are finished in 10 days.
 
 ---
 
-Kevin O'Leary lost money on FTX? 
+Kevin O'Leary lost money? \#FTX
 
 ---
 
