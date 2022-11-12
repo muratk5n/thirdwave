@@ -104,7 +104,7 @@ out.. bcz they were precursor to bailouts during the 08 crisis
 ---
 
 Yahoo Finance: "FTX collapse ‘worse than Theranos, worse than Madoff,’
-expert says
+expert says"
 
 [[-]](https://youtu.be/SwXruCO3lXI?t=49)
 
