@@ -75,8 +75,8 @@ its priority — minister"
 
 ---
 
-When did Buttafuoco get in there? Did he become a crypto-bro? Now you
-know they are finished in 10 days.
+When did Buttafuoco get involved in there? Did he become a crypto-bro?
+Now you know they are finished in 10 days.
 
 ---
 
