@@ -57,7 +57,7 @@ constantly.. Nothing even started yet in the Far East!
 
 ---
 
-🤣 \#LithiumIon
+🤣 \#lithiumion
 
 [Link](tweets/2020/twimg/EPNBmUTWkAImfcY.jpg)
 
