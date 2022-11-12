@@ -2,142 +2,119 @@
 
 ---
 
-H2 Fuel News: "Heliogen to build green hydrogen generation facility in
-collaboration with the City of Lancaster"
+"Lennar, ICON partner to build largest 3D-printed neighborhood"
+
+[[-]](https://youtu.be/feU5R4FTM30)
 
 ---
 
-H2 Central: "Hydrogène De France – COP27 – HDF Energy and The European
-Investment Bank Partner to Implement Namibia First Green Hydrogen
-Power Plant"
+H2 Central: "Photocatalytic water splitting technology.. [was]
+developed over five years by the two universities. During this period,
+they progressed their understanding and designs of a solar reactor
+which utilises the sun’s radiation and thermal properties to increase
+reaction efficiencies beyond the baseline performance of a
+photocatalyst material.
+
+Key elements of the technology.. include the use of the entire solar
+spectrum to enhance reaction efficiencies along with incorporating
+concentrated solar radiation via mirror reflectors. Solar
+concentration increases temperature in the solar reactor, which has
+been shown to increase reaction efficiencies, while allowing for a
+reduction in the amount of photocatalyst material required for a given
+production rate.
+
+This technology significantly reduces the need for wind farms or
+massive arrays of solar panels that are required for traditional
+electrolysis, which is expected to reduce costs substantially"
 
 ---
 
-The name Oz is actually Öz, with two dots on top, meaning "essence" a
-name with nationalistic overtones (TR lastnames started in 30s).  Oz
-got lucky, in US the dots are dropped so the name sounds like Oz as in
-"The Wizard of Oz", plus he looks Vulcan he could rock that image of
-wizardy, scifi doctor-bro for many years.. US is a place of
-reinvention, right?
+Abortion? Stacy Abrahams, Beto kept saying abortion abortion
+abortion. Didn't matter. They lost.
 
 ---
 
-There .. 
-
-The Independent: "[2018] Japan to bolster military base on island
-idyll that could become front line in event of war... [in the]
-disputed seas around China.. Japan is building radar, anti-aircraft
-guns and missile silos to counter what it sees as Chinese
-aggression.. If war is to break out, then Ishigaki would be the front
-line. This is the island where Japan feels the most under threat from
-China"
+The Ukraine situation is a complete fuck-up, mostly US and UK's
+fault.. but voters don't see any of that. The war is not at *their*
+doorstep.
 
 ---
 
-Maybe CH won't go after Taiwan but one of those smaller JP islets in
-that chain near Taiwan; Taketomi, Ishigaki... CH needs a deep-sea port
-for subs, a smaller islet might do for them.
-
-"Japan is preparing for war with China, say all telltale signs"
-
----
-
-Wales & West Utilities: "[WWU] is announcing plans for a major
-hydrogen pipeline in south Wales, to accelerate decarbonisation plans
-for industry and gas customers in the region"
+H2 View: "African countries embrace hydrogen as ‘second era’ climate
+financing kicks in.. African countries are busy embracing hydrogen and
+other clean energies as a ‘second era’ of climate financing is
+underway, according to discussions on Finance Day at COP27
+today... 'The energy picture is changing, and in five years' time, the
+share of hydrogen will be much bigger than it is today – and that
+requires lots of investment and collaboration.' [said an Abu Dhabi
+Bank official]"
 
 ---
 
-Alex Cortiz - The Man, The Myth \#music
-
-[[-]](https://youtu.be/0apVn8x3UD8)
-
----
-
-H2 Fuel News: "[Researchers] created a method of hydrogen fuel
-production that derives energy from light while using gold
-nanoparticles for the conversion of hydrogen sulfide and sulfur within
-a single step"
+It sounds adventerous times for East Asia. It's same old same old
+around US, Europe, ME. Boring. Never-ending war, ppl die
+constantly.. Nothing even started yet in the Far East!
 
 ---
 
-Some called the (more likely) lab leak theory racist. But wasn't
-saying "Chinese ppl eat anything, bats, snails, their hats, that's why
-they had covid" comment also racist?
+[Link](tweets/2020/twimg/EPNBmUTWkAImfcY.jpg)
 
 ---
 
-Reshare \#Batman \#2020
+They need desalination tech. Israel has it, hook a brother up. Aren't
+they an ISR protectorate already?
 
-Bad covid joke
-
-[[-]](tweets/2020/twimg/EU1fRYcX0AAoEDq.png)
-
----
-
-H2 Fuel News: "A research team from King Abdullah University of
-Science and Technology (KAUST) has developed a water-splitting clean
-hydrogen production method that delivers high-efficiency and stable
-hydrogen evolution electrocatalysts to split seawater"
+"Jordan Is Running Out of Water, a Grim Glimpse of the Future"
 
 ---
 
-H2 View: "Iberdrola has successfully completed the supply of green
-hydrogen to CAF in Zaragoza for the on-track dynamic tests of the
-hydrogen-powered demonstrator train of the FCH2Rail project"
+TASS: "Serbia doesn’t plan to join NATO but sees accession to EU as
+its priority — minister"
 
 ---
 
-*Quantum Leap* 2022, not bad. 
+Buttafuoco got involved too. Did he become a crypto-bro? Now you know
+they are finished in 10 days.
 
 ---
 
-H2 Central: "Newmed Energy and Uniper Sign a Non-Binding MoU to
-Explore Collaboration Options for The Delivery of Natural Gas to
-Europe and The Development of Blue Hydrogen"
+Kevin O'Leary lost money on FTX? 
 
 ---
 
-WHERE WERE THE RUSSIANS THIS TIME?
+Sounds like a stupid kid.. who'd follow this shite \#FTX
 
-"US midterms saw less misinformation, but it was there"
-
----
-
-They aren't anywhere really.. People vote on their well-being, if not
-doing well they vote out the incumbent, can vote in anyone
-else... 1933 Germany voted in Nazis.
-
-"Most Americans are in the middle"
+[[-]](https://twitter.com/NerdNationUnbox/status/1590562777139417094)
 
 ---
 
-This is Hydrogenious with its LOHC tech, allows transport of H2 in an
-diesel like substance.
-
-"@hydrogenLOHC .. [I]n North Rhine-Westphalia at Chempark Dormagen.. a
-storage plant with a storage capacity of 1,800 tonnes of \#hydrogen
-will be built"
-
----
-
-Waiting for *Orbital* release
+Investor Tchir is saying FTX fall could mean less purchase of mining
+rigs (less demand on microprocessors -good-) less ad spending. Less
+ads with Matt Damon telling us 'march off and do something exciting'
+(he said very disparagingly), and finally we will see less energy use
+as mining drops - also good.
 
 ---
 
-The non-existence of the red-wave probably had more to do with the
-pocketbook then culture war. Econ wasn't doing too bad...
-
-"Abortion rights and Republican tilt to the far right helped Democrats
-hold on in key races across the US, analysts say"
+Journo says FTX was 'systemically important' - these words freak me
+out.. bcz they were precursor to bailouts during the 08 crisis
 
 ---
 
-Inflation down. Rate rises are working.
+Yahoo Finance: "FTX collapse ‘worse than Theranos, worse than Madoff,’
+expert says
 
-```
-2022-10-01  7.745427
-```
+[[-]](https://youtu.be/SwXruCO3lXI?t=49)
+
+---
+
+CNN: "Sam Bankman-Fried, the crypto entrepreneur known for providing a
+financial lifeline to struggling firms in the industry, is now in need
+of a bailout himself... SBF, started this week firmly in the realm of
+billionaires, with an estimated fortune of more than $15 billion,
+according the Bloomberg Billionaire Index. After the collapse of his
+crypto exchange, FTX, in a matter of days he may find himself out of
+the club"
 
 ---
 

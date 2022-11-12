@@ -1,5 +1,144 @@
 # Week 45 
 
+H2 Fuel News: "Heliogen to build green hydrogen generation facility in
+collaboration with the City of Lancaster"
+
+---
+
+H2 Central: "Hydrogène De France – COP27 – HDF Energy and The European
+Investment Bank Partner to Implement Namibia First Green Hydrogen
+Power Plant"
+
+---
+
+The name Oz is actually Öz, with two dots on top, meaning "essence" a
+name with nationalistic overtones (TR lastnames started in 30s).  Oz
+got lucky, in US the dots are dropped so the name sounds like Oz as in
+"The Wizard of Oz", plus he looks Vulcan he could rock that image of
+wizardy, scifi doctor-bro for many years.. US is a place of
+reinvention, right?
+
+---
+
+There .. 
+
+The Independent: "[2018] Japan to bolster military base on island
+idyll that could become front line in event of war... [in the]
+disputed seas around China.. Japan is building radar, anti-aircraft
+guns and missile silos to counter what it sees as Chinese
+aggression.. If war is to break out, then Ishigaki would be the front
+line. This is the island where Japan feels the most under threat from
+China"
+
+---
+
+Maybe CH won't go after Taiwan but one of those smaller JP islets in
+that chain near Taiwan; Taketomi, Ishigaki... CH needs a deep-sea port
+for subs, a smaller islet might do for them.
+
+"Japan is preparing for war with China, say all telltale signs"
+
+---
+
+Wales & West Utilities: "[WWU] is announcing plans for a major
+hydrogen pipeline in south Wales, to accelerate decarbonisation plans
+for industry and gas customers in the region"
+
+---
+
+Alex Cortiz - The Man, The Myth \#music
+
+[[-]](https://youtu.be/0apVn8x3UD8)
+
+---
+
+H2 Fuel News: "[Researchers] created a method of hydrogen fuel
+production that derives energy from light while using gold
+nanoparticles for the conversion of hydrogen sulfide and sulfur within
+a single step"
+
+---
+
+Some called the (more likely) lab leak theory racist. But wasn't
+saying "Chinese ppl eat anything, bats, snails, their hats, that's why
+they had covid" comment also racist?
+
+---
+
+Reshare \#Batman \#2020
+
+Bad covid joke
+
+[[-]](tweets/2020/twimg/EU1fRYcX0AAoEDq.png)
+
+---
+
+H2 Fuel News: "A research team from King Abdullah University of
+Science and Technology (KAUST) has developed a water-splitting clean
+hydrogen production method that delivers high-efficiency and stable
+hydrogen evolution electrocatalysts to split seawater"
+
+---
+
+H2 View: "Iberdrola has successfully completed the supply of green
+hydrogen to CAF in Zaragoza for the on-track dynamic tests of the
+hydrogen-powered demonstrator train of the FCH2Rail project"
+
+---
+
+*Quantum Leap* 2022, not bad. 
+
+---
+
+H2 Central: "Newmed Energy and Uniper Sign a Non-Binding MoU to
+Explore Collaboration Options for The Delivery of Natural Gas to
+Europe and The Development of Blue Hydrogen"
+
+---
+
+WHERE WERE THE RUSSIANS THIS TIME?
+
+"US midterms saw less misinformation, but it was there"
+
+---
+
+They aren't anywhere really.. People vote on their well-being, if not
+doing well they vote out the incumbent, can vote in anyone
+else... 1933 Germany voted in Nazis.
+
+"Most Americans are in the middle"
+
+---
+
+This is Hydrogenious with its LOHC tech, allows transport of H2 in an
+diesel like substance.
+
+"@hydrogenLOHC .. [I]n North Rhine-Westphalia at Chempark Dormagen.. a
+storage plant with a storage capacity of 1,800 tonnes of \#hydrogen
+will be built"
+
+---
+
+Waiting for *Orbital* release
+
+---
+
+The non-existence of the red-wave probably had more to do with the
+pocketbook then culture war. Econ wasn't doing too bad...
+
+"Abortion rights and Republican tilt to the far right helped Democrats
+hold on in key races across the US, analysts say"
+
+---
+
+Inflation down. Rate rises are working.
+
+```
+2022-10-01  7.745427
+```
+
+---
+
 H2 Fuel News: "A busy week in the world of decarbonisation, with a key
 event taking place in the House of Lords on Tuesday 1st November,
 organised by the HyDeploy consortia.. HyDeploy2 delivered 20% blended

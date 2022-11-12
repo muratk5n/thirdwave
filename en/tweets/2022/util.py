@@ -73,7 +73,11 @@ def spy_earnings():
     df.columns = ['date','op_ex_ps','eps','cash_div_ps','sales_ps','book_val_ps','capex_ps','price','divisor']
     df = df.set_index(pd.to_datetime(df.date))
     return df
-    
+
+def yf_profit(ticker):
+    df = yf.get_income(ticker)
+    return df[['grossProfit','totalRevenue','grossProfitMargin']]    
+
 def yf_eps(ticker):
     df = yf.get_earnings(ticker)
     df = df[['startdatetime','epsestimate','epsactual']]
