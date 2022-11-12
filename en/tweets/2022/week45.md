@@ -70,7 +70,7 @@ Reshare \#Batman \#2020
 
 Bad covid joke
 
-[[-]](tweets/2020/twimg/EU1fRYcX0AAoEDq.png)
+[[-]](../2020/twimg/EU1fRYcX0AAoEDq.png)
 
 ---
 
