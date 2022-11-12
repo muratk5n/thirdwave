@@ -82,7 +82,7 @@ Kevin O'Leary lost money on FTX?
 
 ---
 
-Sounds like a stupid kid.. who'd follow this shite \#FTX
+See vid. Sounds like a stupid kid.. who'd follow this shit \#FTX
 
 [[-]](https://twitter.com/NerdNationUnbox/status/1590562777139417094)
 
