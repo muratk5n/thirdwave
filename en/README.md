@@ -92,7 +92,7 @@ Investor Tchir is saying FTX fall could mean less purchase of mining
 rigs (less demand on microprocessors -good-) less ad spending. Less
 ads with Matt Damon telling us 'march off and do something exciting'
 (he said that very disparagingly), and finally we will see less energy
-use as mining drops - also good.
+use as mining drops - great.
 
 ---
 
