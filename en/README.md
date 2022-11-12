@@ -29,8 +29,8 @@ electrolysis, which is expected to reduce costs substantially"
 
 ---
 
-Abortion? Stacy Abrahams, Beto kept saying abortion abortion
-abortion. Didn't matter. They lost.
+Stacy Abrahams, Beto kept saying abortion abortion abortion. Didn't
+matter. They lost.
 
 ---
 
