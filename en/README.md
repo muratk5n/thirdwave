@@ -2,12 +2,6 @@
 
 ---
 
-"Lennar, ICON partner to build largest 3D-printed neighborhood"
-
-[[-]](https://youtu.be/feU5R4FTM30)
-
----
-
 H2 Central: "Photocatalytic water splitting technology.. [was]
 developed over five years by the two universities. During this period,
 they progressed their understanding and designs of a solar reactor
@@ -26,6 +20,12 @@ production rate.
 This technology significantly reduces the need for wind farms or
 massive arrays of solar panels that are required for traditional
 electrolysis, which is expected to reduce costs substantially"
+
+---
+
+"Lennar, ICON partner to build largest 3D-printed neighborhood"
+
+[[-]](https://youtu.be/feU5R4FTM30)
 
 ---
 
