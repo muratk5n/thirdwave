@@ -2,121 +2,85 @@
 
 ---
 
-H2 Central: "Photocatalytic water splitting technology.. [was]
-developed over five years by the two universities. During this period,
-they progressed their understanding and designs of a solar reactor
-which utilises the sun’s radiation and thermal properties to increase
-reaction efficiencies beyond the baseline performance of a
-photocatalyst material.
-
-Key elements of the technology.. include the use of the entire solar
-spectrum to enhance reaction efficiencies along with incorporating
-concentrated solar radiation via mirror reflectors. Solar
-concentration increases temperature in the solar reactor, which has
-been shown to increase reaction efficiencies, while allowing for a
-reduction in the amount of photocatalyst material required for a given
-production rate.
-
-This technology significantly reduces the need for wind farms or
-massive arrays of solar panels that are required for traditional
-electrolysis, which is expected to reduce costs substantially"
+<iframe width="340" src="https://www.youtube.com/embed/46y3FN4fKlE" title="E-Bikes, E-Scooters Injuries Multiplying" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-"Lennar, ICON partner to build largest 3D-printed neighborhood"
-
-[[-]](https://youtu.be/feU5R4FTM30)
-
----
-
-Stacy Abrahams, Beto kept saying abortion abortion abortion. Didn't
-matter. They lost.
+NBC News: "Fire officials warn e-bike riders of battery fires.. Highly
+flammable lithium ion batteries sparked 188 fires in NYC"
 
 ---
 
-The Ukraine situation is a complete fuck-up, mostly US and UK's
-fault.. but voters don't see any of that. The war is not at *their*
-doorstep.
+H2 View: "Mining and hydrogen in the spotlight at COP27"
 
 ---
 
-H2 View: "African countries embrace hydrogen as ‘second era’ climate
-financing kicks in.. African countries are busy embracing hydrogen and
-other clean energies as a ‘second era’ of climate financing is
-underway, according to discussions on Finance Day at COP27
-today... 'The energy picture is changing, and in five years' time, the
-share of hydrogen will be much bigger than it is today – and that
-requires lots of investment and collaboration.' [said an Abu Dhabi
-Bank official]"
+H2 View: "Joint venture launched with plans to establish giga-scale
+electrolyser plant in India"
 
 ---
 
-It sounds adventerous times for East Asia. It's same old same old
-around Europe, ME. Boring. Never-ending war, ppl die
-constantly.. Nothing even started yet in the Far East!
+F24: "U.S. blocks more than 1,000 solar shipments from China over
+slave labor"
 
 ---
 
-🤣 \#lithiumion
+Instead of making itself a target in a possible nuclear exchange gov
+signaled nuclear neutrality - makes sense for them.
 
-[Link](tweets/2020/twimg/EPNBmUTWkAImfcY.jpg)
-
----
-
-They need desalination tech. Israel has it, hook a brother up. Aren't
-they an ISR protectorate already?
-
-NYT: "Jordan Is Running Out of Water, a Grim Glimpse of the Future"
-
----
-
-TASS: "Serbia doesn’t plan to join NATO but sees accession to EU as
-its priority — minister"
+The Guardian: "While Australia was yet to actually join the Treaty on
+the Prohibition of Nuclear Weapons, the shift in its voting position
+to “abstain” after five years of “no” is seen by campaigners as a sign
+of progress given the former Coalition government repeatedly sided
+with the United States against it... [The treaty] imposes a blanket
+ban on developing, testing, stockpiling, using or threatening to use
+nuclear weapons – or helping other countries to carry out such
+activities"
 
 ---
 
-When did Buttafuoco get involved in there? Did he become a crypto-bro?
-Now you know they are finished in 10 days.
+"@OdedRechavi
+
+Impact factor
+
+'@thetaoishway what is the opposite of wisdom?'"
 
 ---
 
-Kevin O'Leary lost money? \#FTX
+<img width="340" src="https://pbs.twimg.com/media/FhMMTIAWIAMcVp8?format=jpg&name=small"/>
+
+H2 Fuel News: "Green hydrogen fuel powers innovative hypersonic spaceplane"
 
 ---
 
-See vid. Sounds like a stupid kid.. who'd follow this shit \#FTX
-
-[[-]](https://twitter.com/NerdNationUnbox/status/1590562777139417094)
-
----
-
-Investor Tchir is saying FTX fall could mean less purchase of mining
-rigs (less demand on microprocessors -good-) less ad spending. Less
-ads with Matt Damon telling us 'march off and do something exciting'
-(he said that very disparagingly), and finally we will see less energy
-use as mining drops - great.
+Good/bad acting aside I'm talking about being a fit. An actor is in
+some ways a prop on a movie set... Certain base look, and a certain
+range of acting makes the actor either a good prop or a bad prop for
+certain movie. 19th century period piece needs 19th century props, a
+flimsy person role can require a flimsy looking actor. Can Hugh Grant
+play Jessup on *A Few Good Men*, or Christopher Walken Neo on *The
+Matrix*?
 
 ---
 
-Journo says FTX was 'systemically important' - these words freak me
-out.. bcz they were precursor to bailouts during the 08 crisis
+The *Andor* lead is too bland for SW
 
 ---
 
-Yahoo Finance: "FTX collapse ‘worse than Theranos, worse than Madoff,’
-expert says"
+\#MAGA now \#MAGBA 
 
-[[-]](https://youtu.be/SwXruCO3lXI?t=49)
+[[-]](https://pbs.twimg.com/media/FhSBN51X0AAk-Le?format=jpg&name=900x900)
 
 ---
 
-CNN: "Sam Bankman-Fried, the crypto entrepreneur known for providing a
-financial lifeline to struggling firms in the industry, is now in need
-of a bailout himself... SBF, started this week firmly in the realm of
-billionaires, with an estimated fortune of more than $15 billion,
-according the Bloomberg Billionaire Index. After the collapse of his
-crypto exchange, FTX, in a matter of days he may find himself out of
-the club"
+"@afr_h2_p
+
+'The World cannot decarbonise without #GreenAfricanHydrogen. The fight
+against Global Warming will be won or lost in \#Africa!', Siggi
+Huegemann, initiator and Secretary General of the [African Hydrogen
+Partnership]"
+
+<img width="340" src="https://pbs.twimg.com/media/FhWzoO8WAAAxCnU?format=png&name=small"/>
 
 ---
 
