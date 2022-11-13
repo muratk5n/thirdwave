@@ -88,4 +88,37 @@ Concerning proposals to combine GR with quantum mechanics, my own
 understanding is that quantum theory must not be applied to systems
 all of whose particles are purely macroscopic, that is, are much
 larger than their de Broglie wavelength. This criterion covers also
-the very recent proposal by Vaz. 
+the very recent proposal by Vaz.
+
+<a name='centralengine'/>
+
+[Link](https://arxiv.org/abs/astro-ph/9810059)
+
+The Central Engine of an Active Galactic Nucleus is commonly believed
+to be a supermassive Black Hole, after Donald Lynden-Bell (1969) and
+Martin Rees (1977). Alternative, more conservative interpretations –
+like star clusters, or a supermassive star (spinar, magnetoid) – have
+been rejected by (i) variability arguments: a huge power is modulated
+on short timescales, (ii) an absence of (spin) periodicities, (iii)
+energy arguments: is there enough (nuclear) fuel?, and (iv) stability
+arguments: any other type of engine should evolve into a black
+hole. Yet (i) the time-integrated QSO activity should have left more
+than 10 4 times the mass in the centers of galaxies in the form of
+black holes than there is now in our cosmic neighbourhood, and (ii)
+the broad-line region signals as much outflow of mass on average as
+spirals in, both inconsistent with a monotonic accumulation of mass in
+galactic centers. Further difficulties of the Black-Hole model are
+(iii) the hard spectra – occasionally peaking above TeV
+photon-energies – , (iv) the high pair-plasma opacity – which would
+forbid jet- formation – , and (v) the inverted QSO evolution – having
+the brightest sources at the beginning.
+
+For these reasons, I favour a less massive variant of the spinar
+model: the (nuclear-) burning center of the galactic disk – of mass
+several 10^6 M. and solar-system extent – which is continually
+refuelled, and evolves (radially inward) through main-sequence
+hydrogen burning towards explosive He and ‘metal’ detonating all the
+way to iron, thereby ejecting the ashes of nuclear burning.
+
+
+
