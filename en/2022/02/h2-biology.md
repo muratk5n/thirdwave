@@ -102,4 +102,4 @@ C. reinhardtii algae are deprived of sulfur they will switch from the
 production of oxygen, as in normal photosynthesis, to the production
 of hydrogen.
 
-[[⇪Up]](h2-production.html)
+[[Up]](h2-production.html)

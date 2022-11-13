@@ -18,4 +18,4 @@
 
 [Right Acting Left](../../2020/07/right-acting-left.html)
 
-[[⇪Up]](../..)
+[[Up]](../..)

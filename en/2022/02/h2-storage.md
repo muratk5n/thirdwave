@@ -20,5 +20,5 @@
 
 [Power Paste](h2-power-paste.html)
 
-[[⇪Up]](../../2018/12/climate.html)
+[[Up]](../../2018/12/climate.html)
 

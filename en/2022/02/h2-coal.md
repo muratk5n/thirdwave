@@ -75,4 +75,4 @@ CO2 with H2 in it"
 
 Also see the doc [carbon capture](h2-co2-capture.html)
 
-[[⇪Up]](h2-production.html)
+[[Up]](h2-production.html)

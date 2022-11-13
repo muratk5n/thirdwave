@@ -14,5 +14,5 @@
 
 [Knuth on Patents](../../2020/08/knuth-on-patents.html)
 
-[[⇪Up]](../..)
+[[Up]](../..)
 

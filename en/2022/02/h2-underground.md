@@ -91,4 +91,4 @@ another step forward as it’s being developed for the first time with
 hydrogen gas on a large pilot scale... The finished plant will contain
 hydrogen gas pressurized up to 250 bar
 
-[[⇪Up]](h2-storage.html)
+[[Up]](h2-storage.html)

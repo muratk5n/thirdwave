@@ -54,4 +54,4 @@ ten years ago, it's only by a small increment.
 
 [[-]](https://qr.ae/pGlN39)
 
-[[⇪Up]](../../2020/07/ai.html)
+[[Up]](../../2020/07/ai.html)

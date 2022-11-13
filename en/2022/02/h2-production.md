@@ -16,5 +16,5 @@
 
 [Safety](h2-safety.html)
 
-[[⇪Up]](../../2018/12/climate.html)
+[[Up]](../../2018/12/climate.html)
 

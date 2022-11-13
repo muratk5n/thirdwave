@@ -115,4 +115,4 @@ dreaming of the day "if I had a [bigger computer](../../2020/07/ai-comments.html
 so all monkey particles could be accounted for, "or more data", "then
 whole of economics could be simulated" is not.
 
-[[⇪Up]](../../2020/07/ai.html)
+[[Up]](../../2020/07/ai.html)

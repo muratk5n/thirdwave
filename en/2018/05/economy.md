@@ -30,4 +30,4 @@
 
 [Economics Stats](../../2019/05/stats.html)
 
-[[⇪Up]](../..)
+[[Up]](../..)

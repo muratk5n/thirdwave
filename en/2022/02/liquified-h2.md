@@ -23,4 +23,4 @@ Long-distance shipping of hydrogen will not require wildly new,
 untested tech. We already ship liquified natural gas (LNG) at minus
 160 Celcius. Go down little more that gets you H2 storage.
 
-[[⇪Up]](h2-storage.html)
+[[Up]](h2-storage.html)

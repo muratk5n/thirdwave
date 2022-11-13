@@ -8,4 +8,4 @@
 
 [Economic Complexity, Capability, Hidalgo](../../2017/08/economic-complexity-hidalgo.html)
 
-[[⇪Up]](../..)
+[[Up]](../..)

@@ -35,7 +35,7 @@ around indiscriminately. Rather, there are many distinct player types
 that each imply particular design decisions. Most notably, there are
 Achievers and Dollhousers.
 
-Achievers view the game as just that — a Game — with rules to be
+Achievers view the game as just that - a Game - with rules to be
 mastered and goals to overcome. Achievers take the shortest possible
 path to the maximum possible outcome. If there’s a number, Achievers
 want to make it bigger, and anything that distracts from that goal is
@@ -56,7 +56,7 @@ numbers have no upper limit, they invariably got bored and
 quit. Meanwhile, despite not being a real word [..] Dollhousing is the
 most rewarding, long-lasting, and dare I say best way to play. As more
 of a toy than a game, The Sims doesn’t reward players seeking a high
-score — pursuing one is a sure path to frustration and
+score - pursuing one is a sure path to frustration and
 failure. Dollhousers play by their own rules [..]
 
 I don’t know if it was all my late nights wrangling code, or simply
@@ -73,8 +73,8 @@ lucrative career, whether I was fulfilling my needs fast enough. Am I
 playing the game wrong? Don’t I want to win? With each day slipping by
 too quickly as I was unable to find the pause button, something had to
 change. I needed to look beyond the subjectively objective measures of
-success — wealth, popularity, or whatever ways people try to keep
-score — and realize none of that truly mattered, and all my frantic
+success - wealth, popularity, or whatever ways people try to keep
+score - and realize none of that truly mattered, and all my frantic
 effort was holding me back from simply enjoying the game. And I
 really, seriously needed some sleep [..].
 

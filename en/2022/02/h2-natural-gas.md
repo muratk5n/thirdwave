@@ -58,4 +58,4 @@ Methane Prolysis by C-Zero
 
 <iframe width="340" src="https://www.youtube.com/embed/JGe8R0N20ps?start=412&end=545" title="How Cheap Hydrogen Could Become the Next Clean Fuel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[[⇪Up]](h2-production.html)
+[[Up]](h2-production.html)

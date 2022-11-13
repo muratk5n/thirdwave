@@ -103,4 +103,4 @@ References
 
 [5] [PDF](https://inis.iaea.org/collection/NCLCollectionStore/_Public/45/068/45068136.pdf)
 
-[[⇪Up]](h2-production.html)
+[[Up]](h2-production.html)

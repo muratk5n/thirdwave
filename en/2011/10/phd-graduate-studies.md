@@ -133,7 +133,7 @@ math classes, learn a whole new area like databases, rewrite the whole
 kernel, etc.).
 
 v. You need to know why you want a Ph.D. You need to have vision and
-ideas and you need to be able to express yourself.∗
+ideas and you need to be able to express yourself.
 
 vi. Obviously, many people are still unsure straight after a B.A. I
 was one of them, so I understand. For such people working in a
@@ -263,17 +263,4 @@ intuition is dead wrong.
 There is yet another sense in which, when working on a hard problem,
 you may find that the answer is NOT what you expected. You may be
 looking for a YES or a NO; it may be something else.
-
-
-
-
-
-
-
-
-
-
-
-
-
 

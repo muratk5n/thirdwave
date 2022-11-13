@@ -20,5 +20,5 @@
 
 [Vertical Farming](../../2022/06/vertical-farming.html)
 
-[[⇪Up]](../..)
+[[Up]](../..)
 

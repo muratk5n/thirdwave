@@ -44,4 +44,4 @@ Reference
 
 [2] [Rethink Energy](https://www.globalhydrogenreview.com/hydrogen/23092022/rethink-energy-pipelines-and-organic-carrier-ships-to-dominate-hydrogen-distribution/)
 
-[[⇪Up]](h2-storage.html)
+[[Up]](h2-storage.html)

@@ -142,4 +142,4 @@ TIME article
 increases in the speed and performance of computers do not necessarily
 imply that we will attain strong AI soon"
 
-[[⇪Up]](ai.html)
+[[Up]](ai.html)

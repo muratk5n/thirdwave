@@ -20,5 +20,5 @@
 
 [Ottomans, Armenians, Kurds](../../2009/09/modern-history-of-kurds-mcdowall.html)
 
-[[⇪Up]](../..)
+[[Up]](../..)
 

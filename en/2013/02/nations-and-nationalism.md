@@ -12,5 +12,5 @@
 
 [Turkist Narrative, Culture](../../2020/04/turkist-narrative-anatolia.html)
 
-[[⇪Up]](../..)
+[[Up]](../..)
 

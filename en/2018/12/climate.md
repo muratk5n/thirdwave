@@ -36,4 +36,4 @@
 
 [Flow Batteries, Built with Iron and Water](../../2018/07/battery-fueled-by-iron-and-water.html)
 
-[[⇪Up]](../..)
+[[Up]](../..)

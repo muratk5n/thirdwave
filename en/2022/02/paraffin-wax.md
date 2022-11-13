@@ -32,4 +32,4 @@ fuel cell vehicle. Hydrocarbon wax is the major product of the low
 temperature Fischer-Tropsch synthesis process from syngas and is
 currently thermally “cracked” to produce various fuels.
 
-[[⇪Up]](h2-storage.html)
+[[Up]](h2-storage.html)

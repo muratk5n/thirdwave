@@ -43,4 +43,4 @@ time and is unaffected by temperature variations. It does not require
 massive capital investment to develop new infrastructure, and can be
 recycled and regenerated"
 
-[[⇪Up]](h2-storage.html)
+[[Up]](h2-storage.html)

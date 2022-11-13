@@ -54,9 +54,9 @@ the IMF not police forces or post offices-- dropped full-blown out of
 the heavens.
 
 All our institutions, from central banks to blood banks, factories to
-ﬁre-houses, art museums to airports were in fact originally conceived
+fire-houses, art museums to airports were in fact originally conceived
 by business innovators and social inventors who faced far more
-entrenched resistance to change than we ﬁnd in the advanced economies
+entrenched resistance to change than we find in the advanced economies
 today. And many of their innovations in business and society have been
 at least as important as those in technology.
 
@@ -67,7 +67,7 @@ and photography, Marconi and the radio, Bell and the telephone. And we
 justly celebrate their immense contributions.
 
 Unfortunately -few other than specialists and historians, if indeed
-they- can name the social inventor who ﬁrst came up with the concept
+they- can name the social inventor who first came up with the concept
 of a limited-liability corporation. Or the person who wrote it into
 Gesellschaft mit bescrankter Haftung, the 1892 German law that was the
 first to embody it. Can anyone imagine what today's world economy and
