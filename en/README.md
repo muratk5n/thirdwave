@@ -67,7 +67,7 @@ MILLION Pipeline of Potential Contracts"
 ---
 
 Many dunk on 538 for their past failures but they are making raw data
-available through, simple URLs, that is great. The site is useful for
+available through simple URLs, that is great. The site is useful for
 me.
 
 ---
