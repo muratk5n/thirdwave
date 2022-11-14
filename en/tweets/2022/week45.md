@@ -297,7 +297,7 @@ CENTO, now-defunct organization, was formed to contain, you guessed
 it, Russia from its South, consisting of Iran, Iraq, Pakistan,
 TR. Look at Britain, way the f--k over there in the West.
 
-[[-]](https://pbs.twimg.com/media/Fg_VVx8XwAAU1Nu?format=png&name=small)
+[[-]](twimg/Fg_VVx8XwAAU1Nu.png)
 
 ---
 
@@ -651,13 +651,13 @@ dollars.
 The "triangle-shaped UFO" claim on the aircraft carrier deck
 (2018).. Checking
 
-[[-]](https://pbs.twimg.com/media/Fg5tPeIXEAYGGlK?format=jpg&name=small)
+[[-]](twimg/Fg5tPeIXEAYGGlK.jpg)
 
 ---
 
 \#UK \#US
 
-[[-]](https://pbs.twimg.com/media/FgyS1jAWQAA91_P?format=jpg&name=small)
+[[-]](twimg/FgyS1jAWQAA91_P.jpg)
 
 ---
 
