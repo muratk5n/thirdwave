@@ -80,7 +80,7 @@ could be trusted, and I wanted to rock'n roll so went for the raw
 source instead. Following result of raw polls for certain race can
 expose trends, it can give a good idea. It worked fine.
 
-"Why did u look at individual polls rather than 538 average?"
+"Why did u look at individual polls rather than 538 average before midterms?"
 
 ---
 
