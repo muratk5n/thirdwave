@@ -74,7 +74,7 @@ data as simple files on top of commentary.
 ---
 
 That average is the result of an in-house recipe; gives weight to
-indiidual polls according to recency, trustworthiness of the polling
+individual polls according to recency, trustworthiness of the polling
 company (why include them if they are not trustworthy), their
 bias.. I've seen such approaches in analytics codes, they aren't
 usually robust, I wanted to rock'n roll so went for the raw source
