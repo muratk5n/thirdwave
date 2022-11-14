@@ -119,17 +119,3 @@ day after the likely fall of Aleppo: How to change the dynamics in
 Syria in favor of the moderate opposition without creating a bigger
 war and tragedy. Until a new American administration moves into the
 White House, this remains to be seen!
-
-
-
-
-
-
-
-
-
-
-
-
-
-

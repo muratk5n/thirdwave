@@ -1,3 +1,0 @@
-# #ouch
-
-![](outo.jpg)

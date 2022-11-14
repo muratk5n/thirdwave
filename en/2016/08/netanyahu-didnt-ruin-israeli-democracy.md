@@ -58,16 +58,3 @@ ideology. Landsmann believes that there is no benefit to ideology
 since, after all, Hitler and Stalin were ideologues, but in the
 reality of Israel, there is no danger greater than populism. [..]
 
-
-
-
-
-
-
-
-
-
-
-
-
-

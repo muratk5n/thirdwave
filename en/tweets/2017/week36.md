@@ -1,5 +1,33 @@
 # Week 36
 
+What Does NK Want?
+
+https://youtu.be/nD2RWXicpbM
+
+It is now becoming clear NK wants to get from under China's thumb. US
+engaged China at first (the right thing to do at the time, and it
+unearthed some more knowledge), but this was exactly the opposite of
+what NK wanted, naturally shit hit the fan. Un probably got this going
+at this time bcz he knows curr. US admin is lukewarm against China. NK
+had Un brother killed, he was under Chinese protection. The latest hyd
+bomb went off right when Xi was in a summit, major black eye.
+
+This makes more sense.
+
+---
+
+The Ultimate Stimulus: Social Safety Net
+
+More Blyth
+
+https://youtu.be/nSWS10kQMjg
+
+Also, a grand lecture on [populism](https://www.youtube.com/watch?v=qY2pv3Bt_jM),
+also [his take](https://youtu.be/8rxrjhWTdv8?t=50) on where 70s inflation came
+from.
+
+---
+
 [Mark Blyth](ippr.org/juncture-item/ending-the-creditors-paradise-a-german-social-democrats-duty):
 "[From his speech to German left party SPD] But look beyond this, and
 there is a bigger issue for left parties to deal with, one that they

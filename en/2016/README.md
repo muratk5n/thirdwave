@@ -48,12 +48,6 @@
 
 [The Second Machine Age](06/the-second-machine-age.html)
 
-[20 Years to Create an Overnight Success](07/20-years-to-create-overnight-success.html)
-
-[Bad Boys, Bad Boys, Whatcha Gonna Do?](07/bad-boys-bad-boys-whatcha-gonna-do.html)
-
-[Choose Wisely: Organic or Green?](07/choose-wisely-organic-or-green.html)
-
 [Dantzig](08/dantzig.html)
 
 [Is Deep Learning, AI Overhyped?](08/deep-learning-general-ai.html)
@@ -62,15 +56,7 @@
 
 [Netanyahu Didn't Ruin Israeli Democracy. The Occupation Did](08/netanyahu-didnt-ruin-israeli-democracy.html)
 
-[A Bird..? Or A Plane..? No Just a Boat.](09/a-bird-or-plane-no-just-boat.html)
-
-[Vertical Underwater Farming](09/vertical-underwater-farming.html)
-
 [Low Rates](10/low-rates.html)
-
-[More on Brexit](10/more-on-brexit.html)
-
-[The Paris Climate Agreement Is Now Official](10/the-paris-climate-agreement-is-now.html)
 
 [Bitcoin](11/bitcoin.html)
 
