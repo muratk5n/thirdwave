@@ -21,7 +21,7 @@ all at once.. The new green hydrogen plan for Ain Sokhna in Egypt is a
 case in point... The Sovereign Fund of Egypt is behind the project,
 dubbed Egypt Green. So is ADNOC, the Abu Dhabi National Oil
 Company. Other partners are Scatec for the renewable energy side and
-OCI for nitrogen. Fertiglobe ( a branch of ADNOC and OCI) owns the
+OCI for nitrogen. Fertiglobe (a branch of ADNOC and OCI) owns the
 project and will operate it"
 
 [[-]](https://mastodon.ie/web/@Casey@masthead.social/109331152156933750)
