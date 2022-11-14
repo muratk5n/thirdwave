@@ -72,13 +72,14 @@ me.
 
 ---
 
-Their average is the result of an in-house recipe; gives weight
-according to recency, trustworthiness of the polling company (why
-include them if they are not trustworthy), their bias.. I've seen such
-approaches in analytics codes before, wasn't sure how much this one
-could be trusted, and I wanted to rock'n roll so went for the raw
-source instead. Following result of raw polls for certain race can
-expose trends, it can give a good idea. It worked fine.
+That average is the result of an in-house recipe; gives weight to
+indiidual polls according to recency, trustworthiness of the polling
+company (why include them if they are not trustworthy), their
+bias.. I've seen such approaches in analytics codes before, wasn't
+sure how much this one could be trusted, and I wanted to rock'n roll
+so went for the raw source instead. Following result of raw polls for
+certain race can expose trends, it can give a good idea. It worked
+fine.
 
 "Why did u look at individual polls rather than 538 average before midterms?"
 
