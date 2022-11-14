@@ -1,3 +1,0 @@
-# #handlethetruth
-
-![](Captureh.PNG)

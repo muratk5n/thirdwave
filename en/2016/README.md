@@ -6,12 +6,6 @@
 
 [#christie](03/cristie.html)
 
-[#encryption](03/encryption.html)
-
-[#genspoiled](03/genspoiled.html)
-
-[#handlethetruth](03/handlethetruth.html)
-
 [Hyperinflation](03/hyperinflation.html)
 
 [Life](03/life.html)
@@ -69,8 +63,6 @@
 [Netanyahu Didn't Ruin Israeli Democracy. The Occupation Did](08/netanyahu-didnt-ruin-israeli-democracy.html)
 
 [A Bird..? Or A Plane..? No Just a Boat.](09/a-bird-or-plane-no-just-boat.html)
-
-[Drop That Oppo Like It’s Hot](09/drop-that-oppo-like-its-hot.html)
 
 [Vertical Underwater Farming](09/vertical-underwater-farming.html)
 

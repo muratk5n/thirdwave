@@ -102,5 +102,3 @@
 
 [World Trade, Import/Exports](10/world-commerce.html)
 
-[Battery Electric Vehicles, Storage, Electrification](11/battery-electric.html)
-
