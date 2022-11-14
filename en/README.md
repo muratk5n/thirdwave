@@ -77,8 +77,8 @@ indiidual polls according to recency, trustworthiness of the polling
 company (why include them if they are not trustworthy), their
 bias.. I've seen such approaches in analytics codes, they aren't
 usually robust, I wanted to rock'n roll so went for the raw source
-instead. Following result of raw polls for certain race can expose
-trends, it can give a good idea. It worked fine.
+instead. Following indiv raw polls for race can expose trends, it can
+give an idea.. It worked fine.
 
 "Why did u look at individual polls rather than 538 average before midterms?"
 
