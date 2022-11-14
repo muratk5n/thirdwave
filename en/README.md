@@ -42,8 +42,8 @@ People was scattering about like the Japanese in Godzilla movies.
 ---
 
 H2 View: "Africa could produce 30-60 million tonnes of hydrogen
-annually, with a $680bn to $1,300bn price tag, according to a joint
-report by Masdar and Abu Dhabi Sustainability Week"
+annually, with a 680bn to 1,300bn dollar price tag, according to a
+joint report by Masdar and Abu Dhabi Sustainability Week"
 
 ---
 
