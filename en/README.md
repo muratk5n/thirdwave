@@ -68,7 +68,8 @@ MILLION Pipeline of Potential Contracts"
 
 Many dunk on 538 for their past failures but they are making raw data
 available through simple URLs, that is great. The site is useful for
-me.
+me. I wish other sites followed their example and disseminated raw
+data as simple files on top of commentary. 
 
 ---
 
