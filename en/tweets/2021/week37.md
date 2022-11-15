@@ -420,7 +420,7 @@ Once again, tech looks shiny, but not robust.
 
 🤣 🤣 🤣 
 
-[Photo](twimg/E-_F_-bXMAEJxsE.jpg)
+[Photo](biden-holmes-theranos.jpg)
 
 ---
 

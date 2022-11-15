@@ -859,8 +859,7 @@ spurious correlation, like his
 "@donmoyn
 
 Worth noting that unemployment rapidly dropped after Britney Spears
-[released](twimg/FSFHKPDWQAEFlbU.jpg)
-'Work Bitch'"
+[released](twimg/FSFHKPDWQAEFlbU.jpg) 'Work Bitch'"
 
 ---
 
