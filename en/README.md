@@ -78,8 +78,8 @@ energy; a kilogram of lithium-ion battery holds less than 0.3 kWh."
 
 ---
 
-With the right tech and culture around it crypto, or
-'cybercurrencies', could truly be decentralized / useful.
+With the right tech and culture around it crypto, or 'cybercurrencies',
+could truly be decentralized / useful. Not there yet.
 
 ---
 
