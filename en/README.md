@@ -78,9 +78,10 @@ energy; a kilogram of lithium-ion battery holds less than 0.3 kWh."
 
 ---
 
-With the right tech though crypto, or cybercurrencies, could truly be
-decentralized and be useful; require no mining, even have social
-add-on features like digital UBI. Not there yet.
+With the right tech and culture around it crypto, or let's call them
+cybercurrencies, could truly be decentralized and be useful; require
+no mining, even have social add-on features like digital UBI. Not
+there yet.
 
 ---
 
