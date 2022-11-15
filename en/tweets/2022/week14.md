@@ -777,13 +777,6 @@ symptoms except a bleeding wallet"
 
 ---
 
-CNBC: "Charlie Munger warns Gen Z investors.. 'It’s going to be way
-harder for the group that’s graduated from college now ... to get rich
-and stay rich,' Munger, 98, said. 'Think what it [used to] cost to own
-a house in a desirable neighborhood in a city like Los Angeles.'"
-
----
-
 Besides the need to provide bed-time stories for their shoddy
 nation-building, Asia Minor Turkist propaganda was useful for British
 interests; they could use it as a cudgel for the continuation of the

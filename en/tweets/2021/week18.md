@@ -353,13 +353,6 @@ didn't have to be this way"
 
 ---
 
-So many econs see this thing as vile..
-
-"Charlie Munger calls bitcoin 'disgusting and contrary to the
-interests of civilization'"
-
----
-
 Watched Russian scifi, dude's backstory was that he fought in Syria,
 felt like those Vietnam backstories in US movies.
 
