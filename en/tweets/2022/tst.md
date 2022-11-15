@@ -2,24 +2,28 @@
 ```python
 import util as u
 import pandas as pd
-geo = [[46.65638330412107, 32.61676838804905]]
-u.sm_plot_ukr2('ukrdata/alt1-1002.csv','ukrdata/alt1-1109.csv',geo)
-plt.savefig('/tmp/out.png')
+pd.set_option('display.max_columns', None)
 ```
 
 
 
+```python
+geo = [[46.65638330412107, 32.61676838804905]]
+u.sm_plot_ukr2('ukrdata/alt1-1115.csv','ukrdata/alt1-1002.csv',geo)
+plt.savefig('/tmp/out.png')
+```
+
 
 ```python
-u.yf_eps("TWTR")
+u.yf_eps("WMT")
 ```
 
 ```text
 Out[1]: 
               startdatetime  epsestimate  epsactual
-0  2022-07-22T08:00:00.000Z         0.14      -0.08
-1  2022-04-28T08:06:00.000Z         0.03       0.90
-2  2022-02-10T07:00:00.000Z         0.35       0.33
+6  2022-08-16T07:02:00.000Z         1.62       1.77
+7  2022-05-17T07:02:00.000Z         1.48       1.30
+8  2022-02-17T07:11:00.000Z         1.50       1.53
 ```
 
 

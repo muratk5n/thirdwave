@@ -21,13 +21,6 @@ McCarthy of California if Republicans take control of the House"
 
 ---
 
-WaPo: "House Minority Leader Kevin McCarthy.. is signaling that if
-Republicans win the House majority in next month’s midterm elections,
-the GOP is likely to oppose more aid to Ukraine in its war with
-Russia."
-
----
-
 H2 Central: "[University of New South Wales] Engineers retrofit diesel
 engine for clean hydrogen combustion.. The scientists claim to have
 used the H2 in a dual-fuel injection system and boosted efficiency 26
