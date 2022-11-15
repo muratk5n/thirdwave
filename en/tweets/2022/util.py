@@ -9,6 +9,28 @@ import urllib.request as urllib2
 from io import BytesIO
 import pandas_ta as ta
 
+def rent_housing():
+    import pandas as pd, datetime
+    from pandas_datareader import data
+
+    today = datetime.datetime.now()
+    start=datetime.datetime(2000, 1, 1)
+    end=datetime.datetime(today.year, today.month, today.day)
+    cols = ['CUUR0000SEHA','MSPUS']
+    df = data.DataReader(cols, 'fred', start, end)
+    df = df.interpolate()
+
+    df['incrent'] = (df.CUUR0000SEHA-df.CUUR0000SEHA.shift(12))/df.CUUR0000SEHA.shift(12)*100
+    df['inchouse'] = (df.MSPUS-df.MSPUS.shift(12))/df.MSPUS.shift(12)*100
+    
+    plt.figure()
+    ax1 = df.incrent.plot(color='blue', grid=True, label='rent inc %')
+    ax2 = df.inchouse.plot(color='red', grid=True, label='house price inc %',secondary_y=True)
+    h1, l1 = ax1.get_legend_handles_labels()
+    h2, l2 = ax2.get_legend_handles_labels()
+    plt.legend(h1+h2, l1+l2, loc=2)
+    return df
+
 def sen_az_538():
     df = pd.read_csv('https://projects.fivethirtyeight.com/polls/data/senate_polls.csv')
     df1 = df[(df.candidate_name == 'Blake Masters')  ]

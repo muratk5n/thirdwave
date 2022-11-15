@@ -8,6 +8,30 @@ pd.set_option('display.max_columns', None)
 
 
 ```python
+df = u.rent_housing()
+print (df[['incrent','inchouse']].tail(3))
+plt.savefig('/tmp/out2.png')    
+```
+
+```text
+             incrent  inchouse
+DATE                          
+2022-08-01  6.740728  9.526485
+2022-09-01  7.206730  8.447235
+2022-10-01  7.521848  7.389046
+```
+
+
+
+
+
+
+
+
+
+
+
+```python
 geo = [[46.65638330412107, 32.61676838804905]]
 u.sm_plot_ukr2('ukrdata/alt1-1115.csv','ukrdata/alt1-1002.csv',geo)
 plt.savefig('/tmp/out.png')
