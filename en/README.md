@@ -74,7 +74,7 @@ AI Wout Context is basically all current "AI" right now.
 Marco Alvera: "A kilogram of gasoline holds 13 kilowatt-hours (kWh) of
 energy; a kilogram of lithium-ion battery holds less than 0.3 kWh."
 
-[[-]](2022/06/the-h2-revolution-alvera.html#)
+[[-]](2022/06/the-h2-revolution-alvera.html#lion)
 
 ---
 
