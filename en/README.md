@@ -65,7 +65,7 @@ hydrogen storage"
 
 ---
 
-AI Wout Context is basically all current "AI" 
+AI Wout Context is basically all current "AI" right now.
 
 [[-]](https://pbs.twimg.com/media/Fg-G-WhXoAUHBZB?format=jpg&name=small)
 
