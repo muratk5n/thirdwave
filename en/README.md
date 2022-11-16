@@ -22,8 +22,8 @@ life"
 ---
 
 Attributing wins / loses due to this or that voter choice is a tough
-task. My rule-of-thumb is the blurry vision method (to understand how
-they see the world) and dog in The Simpsons. Blah Blah Blah Blah
+task. My rule-of-thumb is the blurry-vision method (to understand how
+voters see the world) and dog in The Simpsons. Blah Blah Blah Blah
 
 ---
 
