@@ -88,8 +88,8 @@ Polish radio claims"
 
 ---
 
-Latest frontline, 11/15 (red line) compared to 10/2. Clear gains for
-UA compared to previously, the worry is what comes next.
+Latest frontline, 11/15 (red line) compared to 10/2 (green). Clear
+gains for UA compared to previously, the worry is what comes next.
 
 ```python
 geo = [[46.65638330412107, 32.61676838804905]]
