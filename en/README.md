@@ -22,8 +22,8 @@ Blah Blah
 
 ---
 
-?? They won the Senate on it, but (likely) lost the House, and bunch
-of governorships?? That doesn't make sense.
+?? They won the Senate on it, but at the same time (likely) lost the
+House, and bunch of governorships?? That doesn't make sense.
 
 "Dems won the midterms on Roe"
 
