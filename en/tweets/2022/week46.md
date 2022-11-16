@@ -1,12 +1,5 @@
 # Week 46 
 
-
-Pinned Tweet
-
-<iframe width="340" src="https://www.youtube.com/embed/46y3FN4fKlE" title="E-Bikes, E-Scooters Injuries Multiplying" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
 H2 Fuel News: "Hydrogen fuel planes and power plants will be here
 sooner than later.. Electrification isn’t the fastest decarbonization
 strategy for aviation and other industries. Hydrogen fuel stock is

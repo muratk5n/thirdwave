@@ -2,6 +2,12 @@
 
 ---
 
+Pinned Tweet
+
+<iframe width="340" src="https://www.youtube.com/embed/46y3FN4fKlE" title="E-Bikes, E-Scooters Injuries Multiplying" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
 H2 View: [The European Bank for Reconstruction and Development] loans
 $80m to Egypt’s first green hydrogen facility and launches Corporate
 Climate Governance Facility at COP27
