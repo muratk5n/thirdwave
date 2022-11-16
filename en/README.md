@@ -46,7 +46,7 @@ conflict can be settled only through talks"
 
 ---
 
-AMZN employs over 1.5 afaik. Still a big number.
+AMZN employs over 1.5 mil afaik. Still a big number.
 
 "Amazon reportedly plans to lay off about 10,000 employees starting this week"
 
