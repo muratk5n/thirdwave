@@ -93,7 +93,7 @@ Polish radio claims"
 
 ---
 
-Latest frontline, 11/15 (red line) compared to 10/2 (green). Clear
+Latest frontline, 11/15 (red line) compared to 10/2 (gray). Clear
 gains for UA compared to previously, the worry is what comes next.
 
 ```python
