@@ -92,7 +92,7 @@ Latest frontline, 11/15 (red line) compared to 10/2 (green). Clear
 gains for UA compared to previously, the worry is what comes next.
 
 ```python
-geo = [[46.65638330412107, 32.61676838804905]]
+geo = [[46.65638330, 32.61676838]] # kherson city
 u.sm_plot_ukr2('ukrdata/alt1-1115.csv','ukrdata/alt1-1002.csv',geo)
 ```
 
