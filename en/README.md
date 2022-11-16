@@ -70,8 +70,8 @@ public in the Chapter 11 bankruptcy filing"
 
 ---
 
-My native country is NATO, and I guarantee it many would not want to
-go to war with Russia for Ukraine.
+My native homie is NATO, and I guarantee it many in Asia Minor would
+not want to go to war with Russia for Ukraine.
 
 ---
 
