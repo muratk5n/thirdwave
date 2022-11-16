@@ -105,7 +105,7 @@ u.sm_plot_ukr2('ukrdata/alt1-1115.csv','ukrdata/alt1-1002.csv',geo)
 
 ---
 
-Dem shitlibs in US looove the war in Ukraine. Finally they have a good
+US Dem shitlibs looove the war in Ukraine. Finally they have a good
 guy against Russia they can identify with. During Syrian war allies on
 their side were Al Qaida types, they had freaking beards, names like
 Habib, Abdul.. F-ing Mostafa.. Nah.. That didn't work. But European
