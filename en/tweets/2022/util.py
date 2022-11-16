@@ -22,6 +22,8 @@ def rent_housing():
 
     df['incrent'] = (df.CUUR0000SEHA-df.CUUR0000SEHA.shift(12))/df.CUUR0000SEHA.shift(12)*100
     df['inchouse'] = (df.MSPUS-df.MSPUS.shift(12))/df.MSPUS.shift(12)*100
+
+    print (df[['incrent','inchouse']].tail(6))
     
     plt.figure()
     ax1 = df.incrent.plot(color='blue', grid=True, label='rent inc %')
