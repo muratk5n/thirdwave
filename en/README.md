@@ -70,8 +70,8 @@ for both candidates, if intervals overlap, the win ain't sure.
 
 "@wasserstoff@mastodon.world
 
-[H2] from Bio/waste costs.. 4ct/kWh.. with 900g CO2 reduction per kg
-#Hydrogen should hardly be surpassed!"
+[H2] from bio/waste costs.. 4ct/kWh.. with 900g CO2 reduction per kg
+\#hydrogen should hardly be surpassed!"
 
 [[-]](https://mastodon.ie/web/@wasserstoff@mastodon.world/109340699596071860)
 
