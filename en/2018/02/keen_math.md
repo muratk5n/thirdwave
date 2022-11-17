@@ -17,8 +17,12 @@ productivity $a$: $L = Y/a$
 $w$: the rate of change of real wages, all wages $W = w \cdot L$.
 
 The employment rate determines the rate of change of real wages
-$\dot{w} = \Phi(\lambda) \cdot w$: via Philips curve $\Phi(\lambda) =
-\frac{\phi_1}{(1-\lambda)^2}-\phi_0$.
+
+$\dot{w} = \Phi(\lambda) \cdot w$: via Philips curve
+
+$$
+\Phi(\lambda) = \frac{\phi_1}{(1-\lambda)^2}-\phi_0
+$$
 
 $\omega$: the wage share of the economy $\omega=\frac{w\cdot L}{a
 \cdot L} = \frac{w}{a}$
@@ -34,7 +38,7 @@ stock $K$. So $\dot{K} = I - \delta K =\kappa(1 - \omega - rd) Y -
 
 $\delta K$. $\kappa(x)$ is a nonlinear function such as $\kappa(x) = \kappa_0 + \kappa_1 \exp(\kappa_2 x)$.
 
-$ \frac{d D}{d t} = \dot{D} = I - \Pi$: the rate of change of debt
+$\frac{d D}{d t} = \dot{D} = I - \Pi$: the rate of change of debt
 D is investment minus profits (where profits are now net of interest
 payments, which equal the interest rate r times the debt level.
 
@@ -137,7 +141,9 @@ $$
 = \frac{\dot{L}}{L} + \alpha
 $$
 
-$$\frac{\dot{\lambda}}{\lambda} = \frac{\dot{Y}}{Y} - \alpha - \beta $$
+$$
+\frac{\dot{\lambda}}{\lambda} = \frac{\dot{Y}}{Y} - \alpha - \beta
+$$
 
 Use (1) $\dot{Y}/Y$
 
@@ -190,7 +196,7 @@ def philips(lam,phi0,phi1): return ( (phi1 / (1.0-lam)**2) - phi0)
 ## Stable points
 
 (0,0,0) economically meaningless. For meaningful pts for (2) set to
-zero, $\Phi(\lambda)=\alpha $ or $\lambda=\Phi^{-1}(\alpha)$, we r
+zero, $\Phi(\lambda)=\alpha$ or $\lambda=\Phi^{-1}(\alpha)$, we r
 looking for inverse so that $\Phi^{-1}(\Phi(\lambda)) = \lambda$, then
 
 $$ \Phi(\lambda) = \alpha = \frac{\phi_1}{(1-\lambda)^2}-\phi_0$$
@@ -221,7 +227,7 @@ $$ \kappa(1-\omega-rd)= v (\alpha + \beta + \delta)$$ (5)
 
 Inverse
 
-$$ \overline{\pi}_1 = 1-\omega-rd= \kappa^{-1}(v (\alpha - \beta - \delta)) $$
+$$\overline{\pi}_1 = 1-\omega-rd= \kappa^{-1}(v (\alpha - \beta - \delta))$$
 
 Very useful, bcz $\overline{\pi}_1$ depends only on constants. Let's calculate
 
@@ -237,7 +243,7 @@ pi1 0.1618413993811929
 
 For $\overline{\omega}_1$ rearran (5)
 
-$$ d = \frac{1-\overline{\pi}_1-\omega}{r} $$
+$$d = \frac{1-\overline{\pi}_1-\omega}{r}$$
 
 Plug into (4), 
 
@@ -272,7 +278,7 @@ print (omega1)
 0.8360528668729358
 ```
 
-For $d$ take $\overline{\pi}_1 $ formula, plug in known vals
+For $d$ take $\overline{\pi}_1$ formula, plug in known vals
 
 $$ \overline{\pi}_1 = 1-\omega-rd => 
 d = (1-\overline{\omega}_1 -\overline{\pi}_1) / r

@@ -13,7 +13,7 @@ such a protest where hard-core adherents put on masks with the
 founders face creating an eerie display, likely causing an effect
 opposite than was intented.
 
-![](modernism_cover.jpg)
+![](modernism_cover.png)
 
 These riled-up followers, gazing through the dead-looking eyes of the
 founder's picture, were clearly trying too hard.. This was culture
