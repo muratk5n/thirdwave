@@ -1,4 +1,6 @@
-# Work
+# Work Treadmill
+
+[Avent, The Economist](https://www.1843magazine.com/features/why-do-we-work-so-hard)
 
 [M]y work – the work we lucky few well-paid professionals do every
 day, as we co-operate with talented people while solving complex,

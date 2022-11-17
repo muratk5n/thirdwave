@@ -32,7 +32,8 @@ if sys.argv[1] == 'pdf':
         dir = os.path.dirname(file)
         f = "/opt/Downloads/twpdf/%04d-%s" % (i,f)
         os.chdir(dir)
-        cmd = "pandoc %s  --latex-engine=xelatex -fmarkdown-implicit_figures -o %s" % (os.path.basename(file), f)
+        os.system("cp %s /tmp/twout.md" % os.path.basename(file))
+        cmd = "pandoc /tmp/twout.md  --latex-engine=xelatex -fmarkdown-implicit_figures -o %s" % f
         if not os.path.isfile(f): 
             print (cmd)                
             os.system(cmd)

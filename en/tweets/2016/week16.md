@@ -1,5 +1,129 @@
 # Week 16
 
+
+
+
+About a dozen trucks from major manufacturers like Volvo and Daimler
+just completed a week of largely autonomous driving across Europe, the
+first such major exercise on the continent. The trucks set off from
+their bases in three European countries and completed their journeys
+in Rotterdam in the Netherlands today (Apr. 6). One set of trucks,
+made by the Volkswagen subsidiary Scania, traveled more than 2,000 km
+and crossed four borders to get there [..]
+
+While self-driving cars from Google or Ford get most of the credit for
+capturing the public imagination, commercial uses for autonomous or
+nearly autonomous vehicles, like tractors from John Deere, have been
+quietly putting the concept to work in a business setting.
+
+When trucks autonomously follow one another, it’s called “platooning.”
+They’re connected by wifi and can leave a much smaller gap between
+vehicles than when humans are at the wheel. Platooning can reduce fuel
+use by up to 15%, prevent human error from causing accidents, and
+reduce congestion, according to a study by research firm TNO. 
+
+---
+
+When money is cheap, borrowing becomes too easy, then money can go to
+places we may not like it to go to - useless M & A is one example. The
+big fat bond the beermaker InBev dropped recently will mostly be used
+for a merger IMO (low rates triggered an intense "search for yield"
+elsewhere, after the Inbev bond was issued the market ate that shit up
+so fast, it was comical). Heroic acts are becoming necessary to "stop"
+tax-avoiding mergers, but the fact that heroics are required signals
+the the "evolutionary landscape" has problems; if there is a swamp,
+there are flies. Virgin America was bought by Alaska Air, the former's
+founder Branson said he could not stop it due to a US legalistic quirk
+that did not give him proper voting rights; another useless merger
+where the friggin founder is not happy and, the word is, the consumers
+are not happy either. 
+
+---
+
+Bunch of Useless M&A..
+
+"[Commenting on the dangers of FED keeping interest rates too low for
+too long] Back in late 2003, I remember we had nine percent nominal
+growth, seven percent real growth.  The economy was very, very strong,
+but we had one percent interest rates, and we also had a tag on them
+that they were going to remain there for a considerable period, and I
+just felt at the time that fed policy was unnecessarily easy [..]
+
+[I]f you look at the situation [today], stock prices, household net
+worth per capita, are at record highs.  By the way, they went to
+record highs in 2013, and they’ve been going up for two straight
+years, so I’m not sure exactly what the fed is trying to achieve in
+terms of the reward here; particularly, since if you look at what is
+going on, we’ve had a tremendous amount of debt growth; particularly,
+in the corporate sector, and, unfortunately, the productivity of that
+debt, if it was measurable, I would opine to say is at an all-time
+low.
+
+Why did I say that?  Because there’s good debt growth, and there’s bad
+debt growth.  Good debt growth is when you borrow money, and it goes
+into the real economy.  You do capital spending.  You build
+businesses.  But by most calculations, almost 98 percent of the
+current debt growth has gone into M &A [short for mergers and
+acquisitions] cooperate buy-backs, by the way, at record prices,
+leveraged buy-outs, so where it’s going is into financial engineering,
+and I can’t prove it, but I would pretty much feel very confident that
+a trillion dollars in buy-backs, and dividends in the last year and
+four trillion is the forecast this year for M & A, is a job reducer,
+an economic reducer, so I don’t exactly what they think they’re
+getting out of the zero percent rates."
+
+---
+
+Fascinating.  
+
+"DNA as Hard Drive.. DNA can fit almost 1 billion terabytes of data
+into just one gram. That makes it far more efficient than any other
+known form of computer storage.
+
+And it also manages to last for a long time, as can be seen in the
+fact that the DNA of woolly mammoths has stayed accessible tens of
+thousands of years after they died. Experts suggest that storing data
+in DNA would allow it to last for 2,000 years or more, making it far
+more long-lasting than traditional data storage.
+
+But DNA remains expensive. The US start-up that Microsoft bought the
+DNA from charges about 10 cents for a custom DNA sequence, though it
+hopes to make it much cheaper in the future.
+
+Accessing it is similarly expensive, because it relies on genetic
+sequencing. Costs have dropped massively - the human genome project
+cost about $3 billion in the 13 years it took from 1990, but would
+cost $1,000 now.
+
+Microsoft says that initial trials of the technology have seen all of
+the data stored on it retrieved.
+
+“We’re still years away from a commercially-viable product, but our
+early tests with Twist demonstrate that in the future we’ll be able to
+substantially increase the density and durability of data storage,”
+said Doug Carmean, the Microsoft partner who worked on the technology"
+
+---
+
+Blinkety blink motherblinking abso-blinking-lutely blinking awesome.
+
+---
+
+Dude Where Is My Solar Impulse 2?!!
+
+"A solar-powered airplane reached the San Francisco Bay area and
+performed a fly-by over the Golden Gate Bridge on Saturday afternoon,
+some 56 hours after leaving Oahu as part of its journey around the
+world.
+
+Solar Impulse 2 took off from Kalaeloa Airport early Thursday morning.
+
+“I crossed the bridge. I am officially in America,” pilot Bertrand
+Piccard declared as he flew over the iconic span as spectators watched
+the narrow aircraft with extra wide wings from below"
+
+---
+
 But the success of [investment firm AHL's] machine learning
 experiments in recent years led the company to plough more money into
 the field, and it is now the single biggest investment area at AHL
