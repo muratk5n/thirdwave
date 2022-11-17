@@ -84,8 +84,8 @@ spot"
 ---
 
 DeSantis vs Trump? On culture war Trump is tough to beat; if abortion
-comes up, he'll be like, well, I appointed the judges who overturned
-Roe
+comes up, he'll be like, well, I appointed the judges who helped
+overturn Roe
 
 ---
 
