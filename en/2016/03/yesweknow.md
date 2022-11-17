@@ -1,3 +1,0 @@
-# #yesweknow
-
-![](Capturey.PNG)

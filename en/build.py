@@ -30,10 +30,11 @@ if sys.argv[1] == 'pdf':
     for i,file in enumerate(files):
         f = os.path.basename(file).replace(".md",".pdf")
         dir = os.path.dirname(file)
+        res = re.findall("(\d\d\d\d\/\d\d)",file)[0]
+        i = int(res.replace("/",""))
         f = "/opt/Downloads/twpdf/%04d-%s" % (i,f)
         os.chdir(dir)
-        os.system("cp %s /tmp/twout.md" % os.path.basename(file))
-        cmd = "pandoc /tmp/twout.md  --latex-engine=xelatex -fmarkdown-implicit_figures -o %s" % f
+        cmd = "pandoc %s --latex-engine=xelatex -fmarkdown-implicit_figures -o %s" % (os.path.basename(file),f)
         if not os.path.isfile(f): 
             print (cmd)                
             os.system(cmd)
