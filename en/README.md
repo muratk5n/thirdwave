@@ -34,7 +34,7 @@ Why Do the Chinese Use Chopsticks
 ---
 
 Example, 490 polled say candidate A, 470 say candidate B, out of 1000
-percenages say A is ahead 49% vs 47%. Compute conf
+percentages say A is ahead 49% vs 47%. Compute conf
 
 ```python
 def d(k,n): m=k/n; return m,1.96*np.sqrt(m*(1-m)/n)
