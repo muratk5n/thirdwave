@@ -8,20 +8,6 @@ Pinned Tweet
 
 ---
 
-
----
-
-Much time was spent on that dish.. skillet, seperate, oven, then cook
-the sauce again.. Dam
-
----
-
-Poulet au Vinaigre.. Sauce looks good.. Oh yeaa
-
-[[-]](https://youtu.be/jHSWvA2UlQk?t=340)
-
----
-
 The Monarchy \#JohnOliver
 
 [[-]](https://youtu.be/KWterDbJKjY)
@@ -52,12 +38,22 @@ DATE
 
 ---
 
+Much time was spent on that dish.. skillet, seperate, oven, then cook
+the sauce again.. Dam
+
+---
+
+Poulet au Vinaigre.. Sauce looks good.. Oh yeaa
+
+[[-]](https://youtu.be/jHSWvA2UlQk?t=340)
+
+---
+
 Polished Chrome - Deep Space \#music
 
 [[-]](https://youtu.be/EJhM1EwIQs4)
 
 ---
-
 
 \#FTX
 
