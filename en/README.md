@@ -8,119 +8,113 @@ Pinned Tweet
 
 ---
 
-Davis: "Ukraine Got Its Miracle In Taking Kherson Without A Fight (But
-Winter Is Coming).. By surrendering Kherson city without a fight and
-blowing the bridges over the Dnipro, [RU General] Surovikin has
-preserved 30,000 of his best-trained and experienced troops for use in
-the coming offensive, sealed off the southern front from a risk of a
-Ukrainian flanking action and will soon have a massive new force to
-employ...
-
-Once this force is ready to launch Putin’s winter offensive (likely in
-late December/early January when the ground has sufficiently frozen),
-it will likely be preceded by a massive new attack on the Ukrainian
-energy infrastructure to plunge the country into darkness, cripple the
-remainder of its electrified rail system, and significantly hamper the
-government’s ability to supply its troops with basic needs"
-
-[[-]](https://www.19fortyfive.com/2022/11/ukraine-got-its-miracle-in-taking-kherson-without-a-fight-but-winter-is-coming/)
 
 ---
 
-Why Do the Chinese Use Chopsticks
-
-[[-]](https://youtu.be/oqykk7xq8MI)
+Much time was spent on that dish.. skillet, seperate, oven, then cook
+the sauce again.. Dam
 
 ---
 
-Example, 490 polled say candidate A, 470 say candidate B, out of 1000
-percentages say A is ahead 49% vs 47%. Compute conf
+Poulet au Vinaigre.. Sauce looks good.. Oh yeaa
+
+[[-]](https://youtu.be/jHSWvA2UlQk?t=340)
+
+---
+
+The Monarchy \#JohnOliver
+
+[[-]](https://youtu.be/KWterDbJKjY)
+
+---
+
+The Guardian: "Lula says 'Brazil is back' as he vows to reverse Amazon
+deforestation"
+
+---
+
+Housing prices fell; rents will follow with a lag if research is correct
 
 ```python
-def d(k,n): m=k/n; return m,1.96*np.sqrt(m*(1-m)/n)
-
-n = 1000.; a=490; b=470
-m,t = d(a,n)
-print (np.round([m-t,m+t],2))
-m,t = d(b,n)
-print (np.round([m-t,m+t],2))
+df = u.rent_housing()
+print (df[['incrent','inchouse']].tail(3))
 ```
 
 ```text
-[0.46 0.52]
-[0.44 0.5 ]
+             incrent  inchouse
+DATE                          
+2022-08-01  6.740728  9.526485
+2022-09-01  7.206730  8.447235
+2022-10-01  7.521848  7.389046
 ```
 
-Intervals overlap. Can't be sure.
+[[-]](https://pbs.twimg.com/media/FhoKfHRWQAU9dB-?format=png&name=small)
 
 ---
 
-$X = X_1 + X_2 + .. + X_n $ approaches Normal due to CLT, standardize
-w $Z = X - np / \sqrt{np(1-p)}$, create conf intervals.
+Polished Chrome - Deep Space \#music
+
+[[-]](https://youtu.be/EJhM1EwIQs4)
 
 ---
 
-Assume indiv poll results are distributed Bernoulli, then the sum via
-CLT gives Gaussian approximation. Calculate conf interval from that,
-for both candidates, if intervals overlap, the win ain't sure.
 
-"How can you determine if a poll result 'too close to call'?"
+\#FTX
 
----
-
-"@wasserstoff@mastodon.world
-
-[H2] from bio/waste costs.. 4ct/kWh.. with 900g CO2 reduction per kg
-\#hydrogen should hardly be surpassed!"
-
-[[-]](https://mastodon.ie/web/@wasserstoff@mastodon.world/109340699596071860)
+[[-]](https://pbs.twimg.com/media/FhrLk1JWIAA_UOE?format=jpg&name=small)
 
 ---
 
-The Guardian: "President Nayib Bukele bet on Bitcoin and its tumbling
-value has put the Central American country in a financially precarious
-spot"
+GPPI: "Over the last decade, Russia has engaged in a concerted
+campaign to gain influence on the African continent. Most recently,
+Russian mercenaries drove out the French military presence in Mali"
 
 ---
 
-DeSantis vs Trump? On culture war Trump is tough to beat; if abortion
-comes up, he'll be like, well, I appointed the judges who helped
-overturn Roe
+I never liked much of his work, not a fan of GoG (clearly in the
+minority on this one), not a fan of the Suicide Squad. I respected the
+directorial chops, tho the stories didn't do much for me. But
+*Peacemaker* was fine; JG clearly has skill in directing an
+ensemble. Good skill for managing DC universe.
+
+There's been much drought.. will there be rain? WB DC has to make it
+rain. We're parched over here. MCU is killing the genre.
 
 ---
 
-DJT running again.. let the games begin
+James Gunn as the head of WB DC movies -  good news.
 
 ---
 
-"@nytimes
-
-In a breakthrough, the U.S. and China will restart climate talks that
-have been frozen for months amid tensions over trade and Taiwan"
+*Black Adam* - fun action, solid backstory.. The marker of a new WB
+DCEU era? 
 
 ---
 
-Electrification-tards feel that rocket burn on their butt cheeks right
-now. The cleanest fuel on Earth is also the most powerful. That's why
-the most powerful rocket runs on it.
+Future water problems await \#AsiaMinor
+
+[[-]](https://e360.yale.edu/features/as-the-climate-bakes-turkey-faces-a-future-without-water)
 
 ---
 
-[Link](https://drive.google.com/uc?export=view&id=1Zw7zHEXbtdsPsCj_xymVy3bCYTWhOqE-)
+H2 Central: "Hydrogen Producing Solar Panels on Your Roof? KU Leuven
+Scientists Take a Step Towards Industrial Production"
 
 ---
 
-The most powerful rocket runs on ... which fuel? I give a hint -
-starts with H
+Walmart exceeded expectations
 
-"Nasa’s Artemis 1, most powerful rocket in history, blasts off to moon"
+```python
+u.yf_eps("WMT")
+```
 
----
-
-Reuters: "Cummins, Tata Motors team up for hydrogen-powered engines"
-
-<img width="340" src="https://pbs.twimg.com/media/FhoEPe-XwAsswSi?format=jpg&name=small"/>
-
+```text
+Out[1]: 
+              startdatetime  epsestimate  epsactual
+6  2022-08-16T07:02:00.000Z         1.62       1.77
+7  2022-05-17T07:02:00.000Z         1.48       1.30
+8  2022-02-17T07:11:00.000Z         1.50       1.53
+```
 ---
 
 ## Reference
