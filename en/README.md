@@ -67,23 +67,12 @@ Russian mercenaries drove out the French military presence in Mali"
 
 ---
 
-I never liked much of his work, not a fan of GoG (clearly in the
-minority on this one), not a fan of the Suicide Squad. I respected the
-directorial chops, tho the stories didn't do much for me. But
-*Peacemaker* was fine; JG clearly has skill in directing an
-ensemble. Good skill for managing DC universe.
-
-There's been much drought.. will there be rain? WB DC has to make it
-rain. We're parched over here. MCU is killing the genre.
-
----
-
 James Gunn as the head of WB DC movies -  good news.
 
 ---
 
 *Black Adam* - fun action, solid backstory.. The marker of a new WB
-DCEU era? 
+DCU era? 
 
 ---
 
