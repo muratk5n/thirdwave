@@ -45,4 +45,3 @@ savaşçının ne kadar zamanda yetiştirilebileceğini doğru ve tam
 tespitle mümkündür. Bu süre dört aydır. Dört ay sonra ne yaparsan
 yap. Pratik, alışkanlık kazandırır ama mükemmelleştirmez. "
 
-

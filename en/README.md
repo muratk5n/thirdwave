@@ -22,8 +22,7 @@ deforestation"
 Housing prices fell; rents will follow with a lag if research is correct
 
 ```python
-df = u.rent_housing()
-print (df[['incrent','inchouse']].tail(3))
+u.rent_housing()
 ```
 
 ```text
