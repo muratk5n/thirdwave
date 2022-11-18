@@ -22,7 +22,7 @@ deforestation"
 Housing prices fell; rents will follow with a lag if research is correct
 
 ```python
-u.rent_housing()
+u.rent_housing() # Uses CUUR0000SEHA, MSPUS from FRED
 ```
 
 ```text
