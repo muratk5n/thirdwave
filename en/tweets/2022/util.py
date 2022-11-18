@@ -23,7 +23,7 @@ def rent_housing():
     df['incrent'] = (df.CUUR0000SEHA-df.CUUR0000SEHA.shift(12))/df.CUUR0000SEHA.shift(12)*100
     df['inchouse'] = (df.MSPUS-df.MSPUS.shift(12))/df.MSPUS.shift(12)*100
 
-    print (df[['incrent','inchouse']].tail(6))
+    print (df[['incrent','inchouse']].tail(3))
     
     plt.figure()
     ax1 = df.incrent.plot(color='blue', grid=True, label='rent inc %')
@@ -31,7 +31,6 @@ def rent_housing():
     h1, l1 = ax1.get_legend_handles_labels()
     h2, l2 = ax2.get_legend_handles_labels()
     plt.legend(h1+h2, l1+l2, loc=2)
-    return df
 
 def sen_az_538():
     df = pd.read_csv('https://projects.fivethirtyeight.com/polls/data/senate_polls.csv')
