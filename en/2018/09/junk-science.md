@@ -17,3 +17,6 @@
 [AI](../../2020/07/ai.html)
 
 [String Theory, the Multiverse, LHC](multiverse-string-theory.html)
+
+[Mars Colonization](../../2020/09/space-exploration-goals-colonization.html)
+

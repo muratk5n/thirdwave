@@ -31,12 +31,12 @@ def boxofficemojo(q):
             "Release Date": reldate}
 
 
-def rotten_tomatoes(movie):
+def rottentomatoes(movie):
     rel = movie.replace(" ","_").lower()
     url = "https://www.rottentomatoes.com"
     url = url + "/m/" + rel
     hdr = {'User-Agent':'Mozilla/5.0'}
-    res = urllib2.urlopen(req).read().decode('utf-8')
+    res = urllib2.urlopen(url).read().decode('utf-8')
     regreg = re.findall('audiencescore="(.*?)"',res)
     audiencescore = int(regreg[0])
     regreg = re.findall('tomatometerscore="(.*?)"',res)

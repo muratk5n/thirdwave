@@ -7,8 +7,40 @@ pd.set_option('display.max_columns', None)
 ```
 
 ```python
-u.rotten_tomatoes("Black Panther 2018")
+u.boxofficemojo("Constantine")
 ```
+
+```text
+Out[1]: 
+{'Domestic Opening': '$29,769,098',
+ 'Domestic': '$75,976,178',
+ 'International': '$154,908,550',
+ 'Worldwide Total': '$230,884,728',
+ 'Release Date': 'February 8, 2005'}
+```
+
+```python
+u.rottentomatoes("Constantine")
+```
+
+```text
+Out[1]: {'tomatometer score': 46, 'audience score': 72}
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

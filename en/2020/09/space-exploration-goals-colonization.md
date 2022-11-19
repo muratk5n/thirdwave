@@ -1,13 +1,16 @@
 # Space Exploration Goals, Human Colonization
 
-Venus
+Mars or Venus
 
-<a name='venus'/>
+Mars gravity is not suitable for long-term human colonization. Lack of
+atmo is a huge problem, no protection against radiation or meteors
+(yes those rocks that mostly burn in our atmo, wout atmo the whole
+thing falls on your head). 
+
+<iframe width="340" src="https://www.youtube.com/embed/gJ5KV3rzuag?start=60" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Venus is relatively close, has the right gravity and its upper atmo,
 with the proper engineering, can be made habitable.
-
-<iframe width="340"  src="https://www.youtube.com/embed/gJ5KV3rzuag?start=60" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 NASA has been clearly thinking about this possibility, with its High
 Altitude Venus Operational [Concept](https://sacd.larc.nasa.gov/smab/havoc/):
@@ -41,8 +44,7 @@ presentation (apparently he was once one of O'Neill's students)
 
 Note the "planetary chauvinism" comment by Isaac Asimov.
 
-Bezos is infrastructure-minded, talks about building the necessary
-elements so more people, organizations can explore space, in the same
-way he was able to build Amazon on elements that were available to him
-when he started in the 90s.
-
+Bezos talks about building the necessary elements so more people,
+organizations can explore space, in the same way he was able to build
+Amazon on elements that were available to him when he started in the
+90s.
