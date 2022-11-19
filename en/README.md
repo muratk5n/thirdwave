@@ -74,8 +74,8 @@ Caught In FTX Crypto Fallout With Class Action Suit"
 
 ---
 
-"The Ontario Teachers' Pension Plan says it invested US$95 million
-into failing cryptocurrency exchange platform FTX"
+The Toronto Sun: "The Ontario Teachers' Pension Plan says it invested
+US$95 million into failing cryptocurrency exchange platform FTX"
 
 ---
 
