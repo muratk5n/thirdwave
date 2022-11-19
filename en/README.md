@@ -79,8 +79,16 @@ into failing cryptocurrency exchange platform FTX"
 
 ---
 
-Insurance Journal: "Series of Tesla Fires in Florida Linked to
-Saltwater Damage From Hurricane Ian"
+The main problem is the base tech is inferior
+
+Insurance Journal: "A Florida senator is calling for action from the
+Transportation Department and automakers after a series of electric
+vehicle fires tied to Hurricane Ian.. Sen. Rick Scott (R-Fla.) raised
+concerns.. 'This emerging threat has forced local fire departments to
+divert resources away from hurricane recovery to control and contain
+these dangerous fires,' Scott said. 'Car fires from electric vehicles
+have proven to be extremely dangerous and last for a prolonged period,
+taking in many cases up to six hours to burn out.'"
 
 ---
 
