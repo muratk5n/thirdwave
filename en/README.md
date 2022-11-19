@@ -66,7 +66,7 @@ Bahamas"
 
 ---
 
-Bcz they've been "brand ambassadors" for the company" right? \#fail
+Bcz they've been "brand ambassadors" for the company" right? 
 
 Deadline: "Tom Brady, Giselle Bündchen, Larry David & Steph Curry
 Caught In FTX Crypto Fallout With Class Action Suit"
