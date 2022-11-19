@@ -45,7 +45,7 @@ Fincantieri’s Ancona yard"
 
 ---
 
-😂 😂 😂 😂 
+😂 
 
 \#BTC \#Lightning
 
