@@ -9,10 +9,11 @@ Pinned Tweet
 ---
 
 Reuters: "South Korea, Saudi to boost ties on energy, defence; $30 bln
-in deals signed.. Yoon hoped to see South Korean companies'
-participation in projects such as the NEOM smart city project in Saudi
-Arabia and further cooperation in the defence industry and future
-energy such as hydrogen, his office said in a statement"
+in deals signed.. [President] Yoon hoped to see South Korean
+companies' participation in projects such as the NEOM smart city
+project in Saudi Arabia and further cooperation in the defence
+industry and future energy such as hydrogen, his office said in a
+statement"
 
 ---
 
