@@ -78,12 +78,6 @@ into failing cryptocurrency exchange platform FTX"
 
 ---
 
-Which half-brained dipshit would push this BEV tech on consumers? Ah
-that's right, Democrats did back when, along with war in Libya, surge
-in Afghanistan and bailing out bankers not the people..
-
----
-
 Insurance Journal: "Series of Tesla Fires in Florida Linked to
 Saltwater Damage From Hurricane Ian"
 
