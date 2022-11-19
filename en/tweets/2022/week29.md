@@ -856,10 +856,8 @@ import util; df = util.get_fred(2010,['XTEXVA01CNM667S']); df.plot()
 ---
 
 'Consumption habits are changing.. consumption of goods vs services
-flipped due to covid' they say..
-
-See below. There was a flip but then it went back to trend, which was
-already in the direction of more goods and less services
+flipped due to covid' they say.. It was more like existing trend of
+more goods and less services became sharper. 
 
 
 ```python

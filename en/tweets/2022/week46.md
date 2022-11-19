@@ -1,5 +1,98 @@
 # Week 46 
 
+The Monarchy \#JohnOliver
+
+[[-]](https://youtu.be/KWterDbJKjY)
+
+---
+
+The Guardian: "Lula says 'Brazil is back' as he vows to reverse Amazon
+deforestation"
+
+---
+
+Housing prices fell; rents will follow with a lag if research is correct
+
+```python
+u.rent_housing() # Uses CUUR0000SEHA, MSPUS from FRED
+```
+
+```text
+             incrent  inchouse
+DATE                          
+2022-08-01  6.740728  9.526485
+2022-09-01  7.206730  8.447235
+2022-10-01  7.521848  7.389046
+```
+
+[[-]](https://pbs.twimg.com/media/FhoKfHRWQAU9dB-?format=png&name=small)
+
+---
+
+Much time was spent on that dish.. skillet, seperate, oven, then cook
+the sauce again.. Dam
+
+---
+
+Poulet au Vinaigre.. Sauce looks good.. Oh yeaa
+
+[[-]](https://youtu.be/jHSWvA2UlQk?t=340)
+
+---
+
+Polished Chrome - Deep Space \#music
+
+[[-]](https://youtu.be/EJhM1EwIQs4)
+
+---
+
+\#FTX
+
+[[-]](https://pbs.twimg.com/media/FhrLk1JWIAA_UOE?format=jpg&name=small)
+
+---
+
+GPPI: "Over the last decade, Russia has engaged in a concerted
+campaign to gain influence on the African continent. Most recently,
+Russian mercenaries drove out the French military presence in Mali"
+
+---
+
+James Gunn as the head of WB DC movies -  good news.
+
+---
+
+*Black Adam* - fun action, solid backstory.. The marker of a new WB
+DCU era? 
+
+---
+
+Future water problems await \#AsiaMinor
+
+[[-]](https://e360.yale.edu/features/as-the-climate-bakes-turkey-faces-a-future-without-water)
+
+---
+
+H2 Central: "Hydrogen Producing Solar Panels on Your Roof? KU Leuven
+Scientists Take a Step Towards Industrial Production"
+
+---
+
+Walmart exceeded expectations
+
+```python
+u.yf_eps("WMT")
+```
+
+```text
+Out[1]: 
+              startdatetime  epsestimate  epsactual
+6  2022-08-16T07:02:00.000Z         1.62       1.77
+7  2022-05-17T07:02:00.000Z         1.48       1.30
+8  2022-02-17T07:11:00.000Z         1.50       1.53
+```
+---
+
 Davis: "Ukraine Got Its Miracle In Taking Kherson Without A Fight (But
 Winter Is Coming).. By surrendering Kherson city without a fight and
 blowing the bridges over the Dnipro, [RU General] Surovikin has

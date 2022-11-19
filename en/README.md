@@ -8,97 +8,104 @@ Pinned Tweet
 
 ---
 
-The Monarchy \#JohnOliver
-
-[[-]](https://youtu.be/KWterDbJKjY)
-
----
-
-The Guardian: "Lula says 'Brazil is back' as he vows to reverse Amazon
-deforestation"
+Reuters: "South Korea, Saudi to boost ties on energy, defence; $30 bln
+in deals signed.. Yoon hoped to see South Korean companies'
+participation in projects such as the NEOM smart city project in Saudi
+Arabia and further cooperation in the defence industry and future
+energy such as hydrogen, his office said in a statement"
 
 ---
 
-Housing prices fell; rents will follow with a lag if research is correct
+Glad the new guy embraced H2. South Korea has good know-how on the tech.
 
-```python
-u.rent_housing() # Uses CUUR0000SEHA, MSPUS from FRED
-```
-
-```text
-             incrent  inchouse
-DATE                          
-2022-08-01  6.740728  9.526485
-2022-09-01  7.206730  8.447235
-2022-10-01  7.521848  7.389046
-```
-
-[[-]](https://pbs.twimg.com/media/FhoKfHRWQAU9dB-?format=png&name=small)
+H2 Central: "South Korea unveils plan to lead the global hydrogen
+industry.. The nation’s declared road map focuses on making Korea an
+H2 industry powerhouse"
 
 ---
 
-Much time was spent on that dish.. skillet, seperate, oven, then cook
-the sauce again.. Dam
+Conjunto Som 4 - Balanco Zona Sul \#music
+
+[[-]](https://youtu.be/drtHyMeLFDk)
 
 ---
 
-Poulet au Vinaigre.. Sauce looks good.. Oh yeaa
-
-[[-]](https://youtu.be/jHSWvA2UlQk?t=340)
-
----
-
-Polished Chrome - Deep Space \#music
-
-[[-]](https://youtu.be/EJhM1EwIQs4)
+Bloomberg: "Biden Has ‘Almost Guaranteed’ Hydrogen’s Future..  The law
+[IRA], which provides producers with tax credits of as much as $3 a
+kilogram, 'almost guarantees that hydrogen will be an important energy
+vector going forward,'.. [said] head of industrial transition and
+clean fuels at Macquarie’s Green Investment Group"
 
 ---
 
-\#FTX
-
-[[-]](https://pbs.twimg.com/media/FhrLk1JWIAA_UOE?format=jpg&name=small)
-
----
-
-GPPI: "Over the last decade, Russia has engaged in a concerted
-campaign to gain influence on the African continent. Most recently,
-Russian mercenaries drove out the French military presence in Mali"
+H2 Fuel News: "Viking Cruise Lines has announced that it has received
+its latest ocean cruise ship, which is fully equipped with hydrogen
+fuel cells.. The new H2-powered marine vessel was built at shipbuilder
+Fincantieri’s Ancona yard"
 
 ---
 
-James Gunn as the head of WB DC movies -  good news.
+😂 😂 😂 😂 
+
+\#BTC \#Lightning
+
+[[-]](https://twitter.com/ercwl/status/1592717155367550977)
 
 ---
 
-*Black Adam* - fun action, solid backstory.. The marker of a new WB
-DCU era? 
+'Unregistered securities'.. thats the thing - as far as law is
+concerned, these ppl could be promoting snake oil, it wouldn't
+mtter. They are peddling andom bullshit vaporware that doesn't even
+exist in the books.
+
+WAPO: "The proposed class action alleges the celebrities promoted
+unregistered securities and accuses them of violating Florida laws
+protecting investors from fraud and deception. The suit was filed in
+Florida because FTX has offices there. The company is based in the
+Bahamas"
 
 ---
 
-Future water problems await \#AsiaMinor
+Because they've been "brand ambassadors" for the company" right? So bad
 
-[[-]](https://e360.yale.edu/features/as-the-climate-bakes-turkey-faces-a-future-without-water)
-
----
-
-H2 Central: "Hydrogen Producing Solar Panels on Your Roof? KU Leuven
-Scientists Take a Step Towards Industrial Production"
+Deadline: "Tom Brady, Giselle Bündchen, Larry David & Steph Curry
+Caught In FTX Crypto Fallout With Class Action Suit"
 
 ---
 
-Walmart exceeded expectations
+"The Ontario Teachers' Pension Plan says it invested US$95 million
+into failing cryptocurrency exchange platform FTX"
 
-```python
-u.yf_eps("WMT")
-```
+---
 
-```text
-Out[1]: 
-              startdatetime  epsestimate  epsactual
-6  2022-08-16T07:02:00.000Z         1.62       1.77
-7  2022-05-17T07:02:00.000Z         1.48       1.30
-8  2022-02-17T07:11:00.000Z         1.50       1.53
-```
+Which half-brained dipshit would push this BEV tech on consumers? Ah
+that's right, Democrats did back when, along with war in Libya, surge
+in Afghanistan and bailing out bankers not the people..
+
+---
+
+Insurance Journal: "Series of Tesla Fires in Florida Linked to
+Saltwater Damage From Hurricane Ian"
+
+---
+
+"@Hy_Economy@mastodon.social
+
+'[Electric vehicles need a] connection to the grid that can handle
+more than 5 megawatts takes up to eight years to build, at a cost tens
+of millions of dollars.'
+
+H2 trucks don't need grid upgrades"
+
+---
+
+"@Hy_Economy@mastodon.social
+
+Germany will make another 550 million Euro available for
+\#hydrogen. The funds will support the development of hydrogen
+infrastructure in developing countries. Together with KfW loans 2.5
+billion could be made available in total"
+
 ---
 
 ## Reference
