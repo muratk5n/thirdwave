@@ -54,9 +54,8 @@ Fincantieri’s Ancona yard"
 ---
 
 'Unregistered securities'.. thats the thing - as far as law is
-concerned, these ppl could be promoting snake oil, it wouldn't
-mtter. They are peddling andom bullshit vaporware that doesn't even
-exist in the books.
+concerned, these ppl could be promoting snake oil. They are peddling
+andom bullshit vaporware that doesn't even exist in the books.
 
 WAPO: "The proposed class action alleges the celebrities promoted
 unregistered securities and accuses them of violating Florida laws
