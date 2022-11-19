@@ -79,7 +79,7 @@ into failing cryptocurrency exchange platform FTX"
 
 ---
 
-The main problem is the base tech is inferior
+The main problem is that the base tech is inferior.
 
 Insurance Journal: "A Florida senator is calling for action from the
 Transportation Department and automakers after a series of electric
