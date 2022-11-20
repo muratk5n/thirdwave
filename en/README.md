@@ -74,6 +74,17 @@ Out[1]: {'tomatometer score': 91, 'audience score': 42}
 
 ---
 
+This so-called neuroticism, to the extent it exists, is not there
+because said people are different - it occurs due to peer pressure
+from relatives to act differently when they aren't
+
+---
+
+Yes they say that about *Seinfeld*.. but same comment could be made
+about *Friends* - bunch of neurotic *New Yorkers*.
+
+---
+
 People do not need expertise to enjoy a movie.. The comments I make on
 good governance vs "people power" does not apply here.
 
