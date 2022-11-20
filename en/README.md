@@ -40,6 +40,17 @@ casualties surge"
 
 ---
 
+This so-called neuroticism, to the extent it exists, is not there
+because said people are different - it occurs due to peer pressure
+from relatives to act differently when they aren't
+
+---
+
+They use that word for *Seinfeld*.. but same comment could be made
+about *Friends* - it was about bunch of neurotic *New Yorkers*.
+
+---
+
 The Independent: "10m without power in Ukraine as Russia launches new
 airstrikes on homes and power facilities"
 
@@ -71,17 +82,6 @@ u.rottentomatoes("Star Wars The Last Jedi")
 ```text
 Out[1]: {'tomatometer score': 91, 'audience score': 42}
 ```
-
----
-
-This so-called neuroticism, to the extent it exists, is not there
-because said people are different - it occurs due to peer pressure
-from relatives to act differently when they aren't
-
----
-
-Yes they say that about *Seinfeld*.. but same comment could be made
-about *Friends* - bunch of neurotic *New Yorkers*.
 
 ---
 
