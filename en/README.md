@@ -128,7 +128,11 @@ TASS: "Indonesia may fully join BRICS, says envoy to Moscow"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Plans for a massive 125km pipeline which would run through Warrington and Runcorn have reached another milestone following a statutory consultation. <a href="https://t.co/29CVjsg3Kq">https://t.co/29CVjsg3Kq</a> <a href="https://t.co/WL2mhfBSYJ">pic.twitter.com/WL2mhfBSYJ</a></p>&mdash; The UK Hydrogen and Fuel Cell Association (@UKHFCA) <a href="https://twitter.com/UKHFCA/status/1593258076630839306?ref_src=twsrc%5Etfw">November 17, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"Plans for a massive 125km pipeline which would run through Warrington
+and Runcorn have reached another milestone following a statutory
+consultation"
+
+[[-]](https://www.warringtonguardian.co.uk/news/23119647.huge-125km-hydrogen-pipeline-project-clears-latest-hurdle/)
 
 ---
 
