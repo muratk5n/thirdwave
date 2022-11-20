@@ -128,9 +128,9 @@ TASS: "Indonesia may fully join BRICS, says envoy to Moscow"
 
 ---
 
-"Plans for a massive 125km pipeline which would run through Warrington
-and Runcorn have reached another milestone following a statutory
-consultation"
+"Plans for a massive 125km [UK] pipeline which would run through
+Warrington and Runcorn have reached another milestone following a
+statutory consultation"
 
 [[-]](https://www.warringtonguardian.co.uk/news/23119647.huge-125km-hydrogen-pipeline-project-clears-latest-hurdle/)
 
