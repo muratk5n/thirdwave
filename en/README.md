@@ -56,7 +56,7 @@ airstrikes on homes and power facilities"
 
 ---
 
-Critics love Woke-Cuck but audience doesn't
+Critics like Woke-Cuck but the audience doesn't
 
 ---
 
