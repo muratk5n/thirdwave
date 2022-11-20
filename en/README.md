@@ -103,7 +103,7 @@ Out[1]:
 
 ---
 
-Hah. The audience loved it critics hated it
+Hah. The audience liked it critics hated it
 
 ```python
 u.rottentomatoes("Constantine")
