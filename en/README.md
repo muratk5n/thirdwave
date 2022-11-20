@@ -56,16 +56,11 @@ airstrikes on homes and power facilities"
 
 ---
 
-Delta sounds butch. They don't get delta.
+Critics love Woke-Cuck but audience doesn't
 
 ---
 
-Alphabetical order is beta, gamma... I'll do epsilon next, or zeta
-
----
-
-The takeaway is gamma cuck fails with the audience. Fastest way of
-going broke
+😂 😂 😂 
 
 ```python
 u.rottentomatoes("Captain Marvel")
