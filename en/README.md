@@ -119,8 +119,8 @@ Out[1]: {'tomatometer score': 46, 'audience score': 72}
 
 ---
 
-H2 Central: "Aramco and [Indonesia's] Pertamina Explore Hydrogen and
-Ammonia Value Chain at B20"
+H2 Central: "[Saudi] Aramco and [Indonesia's] Pertamina Explore
+Hydrogen and Ammonia Value Chain at B20"
 
 ---
 
