@@ -2,32 +2,9 @@
 
 ---
 
-Pinned Tweet
+Pinned Tweets
 
 <iframe width="340" src="https://www.youtube.com/embed/46y3FN4fKlE" title="E-Bikes, E-Scooters Injuries Multiplying" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-Reuters: "South Korea, Saudi to boost ties on energy, defence; $30 bln
-in deals signed.. [President] Yoon hoped to see South Korean
-companies' participation in projects such as the NEOM smart city
-project in Saudi Arabia and further cooperation in the defence
-industry and future energy such as hydrogen, his office said in a
-statement"
-
----
-
-Glad the new guy embraced H2. South Korea has good know-how on the tech.
-
-H2 Central: "South Korea unveils plan to lead the global hydrogen
-industry.. The nation’s declared road map focuses on making Korea an
-H2 industry powerhouse"
-
----
-
-Conjunto Som 4 - Balanco Zona Sul \#music
-
-[[-]](https://youtu.be/drtHyMeLFDk)
 
 ---
 
@@ -39,75 +16,113 @@ clean fuels at Macquarie’s Green Investment Group"
 
 ---
 
-H2 Fuel News: "Viking Cruise Lines has announced that it has received
-its latest ocean cruise ship, which is fully equipped with hydrogen
-fuel cells.. The new H2-powered marine vessel was built at shipbuilder
-Fincantieri’s Ancona yard"
+TASS: "Hungary loses €10 bln due to EU sanctions against Russia, says
+Prime Minister"
 
 ---
 
-😂 
-
-\#BTC \#Lightning
-
-[[-]](https://twitter.com/ercwl/status/1592717155367550977)
+They couldn't kill Putin through headlines for 20 years; Lavrov is next?
 
 ---
 
-'Unregistered securities'.. thats the thing - as far as law is
-concerned, these ppl could be promoting snake oil. They are peddling
-random bullshit vaporware that doesn't even exist in the books and
-causing real harm.
-
-WAPO: "The proposed class action alleges the celebrities promoted
-unregistered securities and accuses them of violating Florida laws
-protecting investors from fraud and deception. The suit was filed in
-Florida because FTX has offices there. The company is based in the
-Bahamas"
+DW: "Russia denies Lavrov was taken to hospital at G20 summit"
 
 ---
 
-Bcz they've been "brand ambassadors" for the company right? 
-
-Deadline: "Tom Brady, Giselle Bündchen, Larry David & Steph Curry
-Caught In FTX Crypto Fallout With Class Action Suit"
-
----
-
-The Toronto Sun: "The Ontario Teachers' Pension Plan says it invested
-US$95 million into failing cryptocurrency exchange platform FTX"
+The Independent: "Russia's top diplomat Sergei Lavrov was taken to
+hospital due to a heart condition following his arrival for the G20
+summit in Bali"
 
 ---
 
-The main problem is that the base tech is inferior.
-
-Insurance Journal: "A Florida senator is calling for action from the
-Transportation Department and automakers after a series of electric
-vehicle fires tied to Hurricane Ian.. Sen. Rick Scott (R-Fla.) raised
-concerns.. 'This emerging threat has forced local fire departments to
-divert resources away from hurricane recovery to control and contain
-these dangerous fires,' Scott said. 'Car fires from electric vehicles
-have proven to be extremely dangerous and last for a prolonged period,
-taking in many cases up to six hours to burn out.'"
+Al Monitor: "As Iran's crackdown on protests enters violent new phase,
+casualties surge"
 
 ---
 
-"@Hy_Economy@mastodon.social
-
-'[Electric vehicles need a] connection to the grid that can handle
-more than 5 megawatts takes up to eight years to build, at a cost tens
-of millions of dollars.'
-
-H2 trucks don't need grid upgrades"
+The Independent: "10m without power in Ukraine as Russia launches new
+airstrikes on homes and power facilities"
 
 ---
 
-"@Hy_Economy@mastodon.social
+Delta sounds butch. They don't get delta.
 
-Germany will make another 550 million Euro available for
-\#hydrogen. The funds will support the development of hydrogen
-infrastructure in developing countries. Together with KfW loans 2.5
-billion could be made available in total"
+---
+
+Alphabetical order is beta, gamma... I'll do epsilon next, or zeta
+
+---
+
+The takeaway is gamma cuck fails with the audience. Fastest way of
+going broke
+
+```python
+u.rottentomatoes("Captain Marvel")
+```
+
+```text
+Out[1]: {'tomatometer score': 79, 'audience score': 45}
+```
+
+```python
+u.rottentomatoes("Star Wars The Last Jedi")
+```
+
+```text
+Out[1]: {'tomatometer score': 91, 'audience score': 42}
+```
+
+---
+
+People do not need expertise to enjoy a movie.. The comments I make on
+good governance vs "people power" does not apply here.
+
+---
+
+That is about 400 mil in today's dollars.. with better marketing it
+would have done even better today.
+
+```python
+u.boxofficemojo("Constantine")
+```
+
+```text
+Out[1]: 
+{'Domestic Opening': '$29,769,098',
+ 'Domestic': '$75,976,178',
+ 'International': '$154,908,550',
+ 'Worldwide Total': '$230,884,728',
+ 'Release Date': 'February 8, 2005'}
+```
+
+---
+
+Hah. The audience loved it critics hated it
+
+```python
+u.rottentomatoes("Constantine")
+```
+
+```text
+Out[1]: {'tomatometer score': 46, 'audience score': 72}
+```
+
+---
+
+*Constantine* was a good movie..
+
+---
+
+H2 Central: "Aramco and [Indonesia's] Pertamina Explore Hydrogen and
+Ammonia Value Chain at B20"
+
+---
+
+TASS: "Indonesia may fully join BRICS, says envoy to Moscow"
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Plans for a massive 125km pipeline which would run through Warrington and Runcorn have reached another milestone following a statutory consultation. <a href="https://t.co/29CVjsg3Kq">https://t.co/29CVjsg3Kq</a> <a href="https://t.co/WL2mhfBSYJ">pic.twitter.com/WL2mhfBSYJ</a></p>&mdash; The UK Hydrogen and Fuel Cell Association (@UKHFCA) <a href="https://twitter.com/UKHFCA/status/1593258076630839306?ref_src=twsrc%5Etfw">November 17, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 

@@ -19,14 +19,6 @@ Out[1]:
  'Release Date': 'February 8, 2005'}
 ```
 
-```python
-u.rottentomatoes("Constantine")
-```
-
-```text
-Out[1]: {'tomatometer score': 46, 'audience score': 72}
-```
-
 
 
 

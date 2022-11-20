@@ -1,5 +1,108 @@
 # Week 46 
 
+Reuters: "South Korea, Saudi to boost ties on energy, defence; $30 bln
+in deals signed.. [President] Yoon hoped to see South Korean
+companies' participation in projects such as the NEOM smart city
+project in Saudi Arabia and further cooperation in the defence
+industry and future energy such as hydrogen, his office said in a
+statement"
+
+---
+
+Glad the new guy embraced H2. South Korea has good know-how on the tech.
+
+H2 Central: "South Korea unveils plan to lead the global hydrogen
+industry.. The nation’s declared road map focuses on making Korea an
+H2 industry powerhouse"
+
+---
+
+Conjunto Som 4 - Balanco Zona Sul \#music
+
+[[-]](https://youtu.be/drtHyMeLFDk)
+
+---
+
+Bloomberg: "Biden Has ‘Almost Guaranteed’ Hydrogen’s Future..  The law
+[IRA], which provides producers with tax credits of as much as $3 a
+kilogram, 'almost guarantees that hydrogen will be an important energy
+vector going forward,'.. [said] head of industrial transition and
+clean fuels at Macquarie’s Green Investment Group"
+
+---
+
+H2 Fuel News: "Viking Cruise Lines has announced that it has received
+its latest ocean cruise ship, which is fully equipped with hydrogen
+fuel cells.. The new H2-powered marine vessel was built at shipbuilder
+Fincantieri’s Ancona yard"
+
+---
+
+😂 
+
+\#BTC \#Lightning
+
+[[-]](https://twitter.com/ercwl/status/1592717155367550977)
+
+---
+
+'Unregistered securities'.. thats the thing - as far as law is
+concerned, these ppl could be promoting snake oil. They are peddling
+random bullshit vaporware that doesn't even exist in the books and
+causing real harm.
+
+WAPO: "The proposed class action alleges the celebrities promoted
+unregistered securities and accuses them of violating Florida laws
+protecting investors from fraud and deception. The suit was filed in
+Florida because FTX has offices there. The company is based in the
+Bahamas"
+
+---
+
+Bcz they've been "brand ambassadors" for the company right? 
+
+Deadline: "Tom Brady, Giselle Bündchen, Larry David & Steph Curry
+Caught In FTX Crypto Fallout With Class Action Suit"
+
+---
+
+The Toronto Sun: "The Ontario Teachers' Pension Plan says it invested
+US$95 million into failing cryptocurrency exchange platform FTX"
+
+---
+
+The main problem is that the base tech is inferior.
+
+Insurance Journal: "A Florida senator is calling for action from the
+Transportation Department and automakers after a series of electric
+vehicle fires tied to Hurricane Ian.. Sen. Rick Scott (R-Fla.) raised
+concerns.. 'This emerging threat has forced local fire departments to
+divert resources away from hurricane recovery to control and contain
+these dangerous fires,' Scott said. 'Car fires from electric vehicles
+have proven to be extremely dangerous and last for a prolonged period,
+taking in many cases up to six hours to burn out.'"
+
+---
+
+"@Hy_Economy@mastodon.social
+
+'[Electric vehicles need a] connection to the grid that can handle
+more than 5 megawatts takes up to eight years to build, at a cost tens
+of millions of dollars.'
+
+H2 trucks don't need grid upgrades"
+
+---
+
+"@Hy_Economy@mastodon.social
+
+Germany will make another 550 million Euro available for
+\#hydrogen. The funds will support the development of hydrogen
+infrastructure in developing countries. Together with KfW loans 2.5
+billion could be made available in total"
+
+---
+
 The Monarchy \#JohnOliver
 
 [[-]](https://youtu.be/KWterDbJKjY)
