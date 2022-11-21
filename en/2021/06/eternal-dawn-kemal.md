@@ -2,6 +2,30 @@
 
 From the Ryan Gingeras book
 
+<a name='cavid'/>
+
+Committee of Union and Progress
+
+Mehmet Cavid is an instructive, though somewhat underappreciated,
+figure in the making of modern Turkey. His biography genuinely
+captures important aspects of the country’s origins and he embodies
+key traits of the empire that had preceded it. The complexity of his
+background, a Turkish-speaking Muslim of Jewish ancestry born in
+modern-day Greece, encapsulates the diversity and richness the Turkish
+Republic eventually sought to deny or destroy...
+
+The party that Mehmet Cavid and his confederates established in
+Salonika, the Committee of Union and Progress (or CUP), seized power
+and came to command the empire as a whole. The Young Turks, as the
+foreign press often referred to them, took to governing with the same
+ferocity and conviction that propelled them to stage their dramatic
+revolution in 1908. Their desire to unify the nation and bring order
+to the state led them to confront dissent with increasing severity.
+The outbreak of the Great War proved a tipping point in their
+rule. Rather than bring the many peoples of the empire together as a
+“nation-in-arms,” the war, and the CUP’s management of it, wrought
+terrible chasms within society.
+
 [Kemal] declared that Dolmabahçe was no longer “the palace of caliphs
 but truly the people’s palace.” “Here,” Kemal concluded, “I am elated
 to be solely the nation’s guest.” For the remainder of his life,
