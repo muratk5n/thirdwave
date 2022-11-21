@@ -128,7 +128,7 @@ DATE
 2022-10-01  7.521848  7.389046
 ```
 
-[[-]](https://pbs.twimg.com/media/FhoKfHRWQAU9dB-?format=png&name=small)
+[[-]](twimg/FhoKfHRWQAU9dB-.png)
 
 ---
 
@@ -151,7 +151,7 @@ Polished Chrome - Deep Space \#music
 
 \#FTX
 
-[[-]](https://pbs.twimg.com/media/FhrLk1JWIAA_UOE?format=jpg&name=small)
+[[-]](twimg/FhrLk1JWIAA_UOE.jpg)
 
 ---
 
@@ -307,7 +307,7 @@ starts with H
 
 Reuters: "Cummins, Tata Motors team up for hydrogen-powered engines"
 
-<img width="340" src="https://pbs.twimg.com/media/FhoEPe-XwAsswSi?format=jpg&name=small"/>
+<img width="340" src="twimg/FhoEPe-XwAsswSi.jpg"/>
 
 ---
 
@@ -404,7 +404,7 @@ geo = [[46.65638330, 32.61676838]] # kherson city
 u.sm_plot_ukr2('ukrdata/alt1-1115.csv','ukrdata/alt1-1002.csv',geo)
 ```
 
-[[-]](https://pbs.twimg.com/media/FhoGY7cXkAIWOaw?format=png&name=small)
+[[-]](twimg/FhoGY7cXkAIWOaw.png)
 
 ---
 
@@ -499,7 +499,7 @@ hydrogen storage"
 
 AI Wout Context is basically all current "AI" right now.
 
-[[-]](https://pbs.twimg.com/media/Fg-G-WhXoAUHBZB?format=jpg&name=small)
+[[-]](twimg/Fg-G-WhXoAUHBZB.jpg)
 
 ---
 
@@ -575,7 +575,7 @@ one seat away from majority"
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/FhSDLqzWQAA5Xow?format=jpg&name=small"/>
+<img width="340" src="twimg/FhSDLqzWQAA5Xow.jpg"/>
 
 ---
 
@@ -611,8 +611,6 @@ Manufacturing Complex to several industrial gas customers across the
 North West. The pipeline itself will be underground, with
 approximately 10 'Hydrogen Above Ground Installations' (HAGIs)
 required along the pipeline route"
-
-<img width="340" src="https://pbs.twimg.com/card_img/1589707308371968000/Yo8dUKSV?format=jpg&name=small"/>
 
 ---
 
@@ -674,7 +672,7 @@ Impact factor
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/FhMMTIAWIAMcVp8?format=jpg&name=small"/>
+<img width="340" src="twimg/FhMMTIAWIAMcVp8.jpg"/>
 
 H2 Fuel News: "Green hydrogen fuel powers innovative hypersonic spaceplane"
 
@@ -696,7 +694,7 @@ The *Andor* lead is too bland for SW
 
 \#MAGA now \#MAGBA 
 
-[[-]](https://pbs.twimg.com/media/FhSBN51X0AAk-Le?format=jpg&name=900x900)
+[[-]](twimg/FhSBN51X0AAk-Le.jpg)
 
 ---
 
@@ -707,6 +705,6 @@ against Global Warming will be won or lost in \#Africa!', Siggi
 Huegemann, initiator and Secretary General of the [African Hydrogen
 Partnership]"
 
-<img width="340" src="https://pbs.twimg.com/media/FhWzoO8WAAAxCnU?format=png&name=small"/>
+<img width="340" src="twimg/FhWzoO8WAAAxCnU.png"/>
 
 ---
