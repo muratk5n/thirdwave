@@ -1,5 +1,25 @@
 # Week 40
 
+Let's hope the final analysis is right. What does that mean for the
+policy maker? Well, maybe not "going to the people" for every damn
+decision that needs to be made, holding steady, and doing their
+job. In Columbia areas effected with FARC terrorism voted for the FARC
+deal, the ones not effected did not (deal was rejected). Was it a good
+idea to ask the voters about this deal? Or about Brexit which the old
+voted for more than the young, but it is a question about the "future"
+which the old has little of?
+
+It seems to me we either have full democracy where decisions are made
+by people who are closest to the issue, demographically,
+regionally. etc. OR we have the current elite driven system where
+rulers do what they sign up to do, and don't bother people with
+unnecessary questions (unless it is something that concerns all). We
+can't have a little of both. Especially using people as a rubberstamp
+for decisions, or arbitrator for internal party feuds is the shortest
+way to fail.
+
+[Low Rates](../../2016/10/low-rates.html)
+
 ---
 
 \o/

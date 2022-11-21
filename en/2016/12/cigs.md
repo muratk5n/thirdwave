@@ -37,16 +37,3 @@ calculus. Before receiving the cash, any spending on education or
 health might have seemed futile, but afterwards, parents might decide
 that a serious investment in their children’s school was sensible. To
 make this happen, it might mean cutting back on booze and smoking.
-
-
-
-
-
-
-
-
-
-
-
-
-

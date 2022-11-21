@@ -10,8 +10,6 @@
 
 [Life](03/life.html)
 
-[LOBO](03/lobo.html)
-
 [Markets, Leverage, Hedge Funds](03/markets-leverage-hedge-funds.html)
 
 [Media, AdTech](03/media-adtech.html)
@@ -22,25 +20,11 @@
 
 [Mystery Meat](03/mystery-meat.html)
 
-[#ouch](03/ouch.html)
-
-[#yep](03/yep.html)
-
-[#yesweknow](03/yesweknow.html)
-
 [A Subversive Proposal](04/a-subversive-proposal.html)
-
-[Autonomous Trucks](04/automated-trucks.html)
-
-[Bunch of Useless M&A](04/bunch-of-useless-m.html)
 
 [The Death of Money](04/death-of-money-rickards.html)
 
-[DNA as Hard Drive](04/dna-as-hard-drive.html)
-
-[Dude Where Is My Solar Impulse 2?!!](04/dude-where-is-my-solar-impulse-2.html)
-
-[Work](05/work-treadmill.html)
+[Work Treadmill](05/work-treadmill.html)
 
 [AR-15](06/ar-15.html)
 
