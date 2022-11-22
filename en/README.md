@@ -27,8 +27,8 @@ economics and climate protection"
 
 ---
 
-More true in his day probably then today, other sci branches
-have improved, became mathematical, numerical.
+Other sci branches have improved, have to add that, many became
+mathematical, numerical.
 
 ---
 
