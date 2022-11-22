@@ -118,8 +118,9 @@ encouraging!"
 
 ---
 
-Haiti and DR are on the same island, one is doing well the other
-isn't.. And now there is a border wall between them. Unbelivable..
+Two countries on the same island on the same island, one is doing well
+the other doesn't.. And now there is a border wall between
+them. Unbelivable..
 
 Bloomberg: "A 101-Mile Wall Goes Up to Block Haitians Pouring Over
 Border.. Haitians fleeing [to East].. will soon be met with a
