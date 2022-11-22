@@ -16,6 +16,28 @@ clean fuels at Macquarie’s Green Investment Group"
 
 ---
 
+PV Magazine: "The German government has decided to collaborate with
+the private sector on the construction of an import terminal for green
+ammonia in Hamburg. From 2026, the terminal will import green ammonia
+from Saudi Arabia. Air Products will produce the ammonia and
+distribute it to end users in Germany, mostly for conversion into
+hydrogen. '[This] is a strong signal for the entire hydrogen market in
+Germany and Europe,' said Robert Habeck, the federal minister of
+economics and climate protection"
+
+---
+
+More true in his day probably then today, other sci branches
+have improved, became mathematical, numerical.
+
+---
+
+Burn
+
+Kelvin: "In science there is only physics; all the rest is stamp collecting"
+
+---
+
 Now, IMO the "beauty argument" pushed in sci circles must have been
 there to offset the "shut up and compute" crowd. We could argue the
 beauty argument was overdone as well, essentially they simply called
@@ -75,30 +97,8 @@ Work Treadmill
 
 ---
 
-More true in his day probably then today, other sci branches
-have improved, became mathematical, numerical.
-
----
-
-Burn
-
-Kelvin: "In science there is only physics; all the rest is stamp collecting"
-
----
-
 H2 Central: "Canadian Pacific Hydrogen Powered Locomotive Makes First
 Revenue Run"
-
----
-
-PV Magazine: "The German government has decided to collaborate with
-the private sector on the construction of an import terminal for green
-ammonia in Hamburg. From 2026, the terminal will import green ammonia
-from Saudi Arabia. Air Products will produce the ammonia and
-distribute it to end users in Germany, mostly for conversion into
-hydrogen. '[This] is a strong signal for the entire hydrogen market in
-Germany and Europe,' said Robert Habeck, the federal minister of
-economics and climate protection"
 
 ---
 
