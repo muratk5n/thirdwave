@@ -104,17 +104,8 @@ economics and climate protection"
 
 Which came first: CFD for Aero or Finite Elements for Structures?
 According to book by Tenek and Argyris FEM stress analysis on airplane
-wings was first. The CFD stuff arrived later. Some could say wind
-tunnels are still preferable.
-
----
-
-"@hydrogenLOHC
-
-We are thankful for the networking event organized by the \#Oman
-German Friendship Association.. The positive feedback to our safe,
-efficient and easy hydrogen transport technology via \#LOHC is very
-encouraging!"
+wings was first. The CFD stuff arrived later. And some could claim
+wind tunnels are still preferable for FD.
 
 ---
 
