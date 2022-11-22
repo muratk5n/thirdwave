@@ -89,14 +89,6 @@ bashed her first. Good Medi drama.
 
 ---
 
-\#Reshare \#2016
-
-Work Treadmill 
-
-[[-]](2016/05/work-treadmill.html)
-
----
-
 H2 Central: "Canadian Pacific Hydrogen Powered Locomotive Makes First
 Revenue Run"
 
