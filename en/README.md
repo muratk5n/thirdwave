@@ -21,7 +21,7 @@ there to offset the "shut up and compute" crowd. We could argue the
 beauty argument was overdone as well, essentially they simply called
 for an economy in the formulation where if two explanations were
 equally correct choosing the simpler one... but the excess must have
-been there to balance out its opposite.
+been there to balance the opposite.
 
 ---
 
