@@ -16,94 +16,115 @@ clean fuels at Macquarie’s Green Investment Group"
 
 ---
 
-
-
-
-"@PavelASamsonov@mastodon.social
-
-SHITPOSTING
-
-is an anagram of
-
-TOP INSIGHTS"
+Now, IMO the "beauty argument" pushed in sci circles must have been
+there to offset the "shut up and compute" crowd. We could argue the
+beauty argument was overdone as well, essentially they simply called
+for an economy in the formulation where if two explanations were
+equally correct choosing the simpler one... but the excess must have
+been there to balance out its opposite.
 
 ---
 
-"@opensciencedaily@mastodon.online
-
-The Hydrogen Stream: Germany to import green ammonia from Saudi Arabia
-from 2026"
-
----
-
-"@AP_ArchPublic
-
-BREAKING: Absolutely nobody is biting on the $1B raise for DCG and
-Genesis. Closed doors and lots of “don’t even send us the deck”.
-
-Big time ripple effects coming next week"
+The creation of QED also marks the shift of sci center from Europe to
+US, and it so happens that the culture code of technology in US is IT
+WORKS meaning doesnt matter how something is made, if it works, it's
+fine. Not to be too discriminating here but I think the Europeans are
+a little more into architecting, economy in their base frameworks.
 
 ---
 
-National Grid: "We are proud to be a part of the consortium announced
-by NY Governor Hochul to develop a regional clean energy hydrogen hub
-in the Northeast"
+Looking at the history of QED, it's understandable where the 'shut up
+and compute' idiom came from - I dont think this chestnut was
+specifically QM related. It has more to do with QED. Bcz remember what
+is QED?  A bizarrely convoluted process that formulizes something (the
+so-called Feynman diagrams were the necessary simplifying tool for the
+unnecessarily complex procedure) but "it worked" so at that point you
+had to "shut up and compute".
 
-[[-]](https://www.nationalgrid.com/us/hydrogen-hub)
-
----
-
-Airbus is busy working on clean fuel based flight
-
-[[-]](https://youtu.be/Fk7Ofw3keTI?t=58)
+[[-]](2022/10/qed.html)
 
 ---
 
-H2 Central: "First Hydrogen Powered Transit Bus in LA County Hits
-Streets in December, Starting New Trend"
+"@Hy_Economy@mastodon.social
+
+Stadler has announced that it has signed a [MOU] with Amtrak
+California for the first four hydrogen train orders, which will be
+followed by as many as 29 more"
 
 ---
 
-\#FIFA \#Qatar ⚽ ⚽ ⚽
+"@Ric@awscommunity.social
 
-Messi v Ronaldo. Can't wait to watch that game.
-
-<img width="340" src="https://pbs.twimg.com/media/FiB64_KXwAEbbya?format=jpg&name=small"/>
-
----
-
-Eugen Rochko - Kraut mfker. 
+Once again, I'm blown away by how much I can do on this
+Chromebook. This time I have a fully working @FreeCAD install running"
 
 ---
 
-This is the founder
-
-"@Gargron@mastodon.social
-
-I think it's glorious that there's now a Mastodon server operated by
-people who used to work for Twitter (macaw.social). I could have never
-imagined it when I started in 2016"
+These old Meloni videos.. They keep circulating them and they come
+across as if they were made today.. There is one on La7 from 2019,
+another from that Atreju18 thing.. Afaik one was triggered bcz Macron
+bashed her first. Good Medi drama.
 
 ---
 
-Anyone can start MD server, and join a larger "federation" of servers.
+\#Reshare \#2016
+
+Work Treadmill 
+
+[[-]](2016/05/work-treadmill.html)
 
 ---
 
-Truth Social wanted to commercialize open-source Mastadon...  Why
-bother? They could simply start a new server using the existing code,
-for conservatives, MAGA or just for Trump and publish on it. People
-are starting new nodes left and right these days anyway.
+More true in his day probably then today, other sci branches
+have improved, became mathematical, numerical.
 
 ---
 
-DJT helped the H2 transition let's not forget; eg the 2020 H2@Scale program.
+Burn
+
+Kelvin: "In science there is only physics; all the rest is stamp collecting"
 
 ---
 
-H2 Central: "Samsung Heavy Industries (SHI), a shipbuilding company
-from South Korea, has announced its development of a liquid hydrogen
-fuel cell system for ship propulsion"
+H2 Central: "Canadian Pacific Hydrogen Powered Locomotive Makes First
+Revenue Run"
+
+---
+
+PV Magazine: "The German government has decided to collaborate with
+the private sector on the construction of an import terminal for green
+ammonia in Hamburg. From 2026, the terminal will import green ammonia
+from Saudi Arabia. Air Products will produce the ammonia and
+distribute it to end users in Germany, mostly for conversion into
+hydrogen. '[This] is a strong signal for the entire hydrogen market in
+Germany and Europe,' said Robert Habeck, the federal minister of
+economics and climate protection"
+
+---
+
+Which came first: CFD for Aero or Finite Elements for Structures?
+According to book by Tenek and Argyris FEM stress analysis on airplane
+wings was first. The CFD stuff arrived later. Some could say wind
+tunnels are still preferable.
+
+---
+
+"@hydrogenLOHC
+
+We are thankful for the networking event organized by the \#Oman
+German Friendship Association.. The positive feedback to our safe,
+efficient and easy hydrogen transport technology via \#LOHC is very
+encouraging!"
+
+---
+
+Haiti and DR are on the same island, one is doing well the other
+isn't.. And now there is a border wall between them. Unbelivable..
+
+Bloomberg: "A 101-Mile Wall Goes Up to Block Haitians Pouring Over
+Border.. Haitians fleeing [to East].. will soon be met with a
+13-foot-tall border wall meant to keep them out of the neighboring
+Dominican Republic"
 
 ---
 
