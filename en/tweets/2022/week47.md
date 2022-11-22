@@ -45,14 +45,6 @@ Streets in December, Starting New Trend"
 
 ---
 
-\#FIFA \#Qatar ⚽ ⚽ ⚽
-
-Messi v Ronaldo. Can't wait to watch that game.
-
-<img width="340" src="https://pbs.twimg.com/media/FiB64_KXwAEbbya?format=jpg&name=small"/>
-
----
-
 Eugen Rochko - Kraut mfker. 
 
 ---
