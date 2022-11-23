@@ -16,98 +16,99 @@ clean fuels at Macquarie’s Green Investment Group"
 
 ---
 
-PV Magazine: "The German government has decided to collaborate with
-the private sector on the construction of an import terminal for green
-ammonia in Hamburg. From 2026, the terminal will import green ammonia
-from Saudi Arabia. Air Products will produce the ammonia and
-distribute it to end users in Germany, mostly for conversion into
-hydrogen. '[This] is a strong signal for the entire hydrogen market in
-Germany and Europe,' said Robert Habeck, the federal minister of
-economics and climate protection"
+Afaik DE is very active in this area. 
+
+"Hydrogen competition between the USA and Germany.. Where will a
+hydrogen economy first establish itself? This question is currently
+driving the German energy industry. After new legislation in the USA,
+the Inflation Reduction Act, created very attractive framework
+conditions for the development of an H2 industry, Germany is once
+again in danger of falling behind"
+
+[[-]](https://www.hzwei.info/blog/2022/11/16/wasserstoff-wettbewerb-zwischen-den-usa-und-deutschland/)
 
 ---
 
-Other sci branches have improved, have to add that, many became
-mathematical, numerical.
+Multi-Vehicle Pileup \#Montreal
+
+[[-]](https://youtu.be/rtF_UiwPRYo)
 
 ---
 
-Burn
-
-Kelvin: "In science there is only physics; all the rest is stamp collecting"
-
----
-
-Now, IMO the "beauty argument" pushed in sci circles must have been
-there to offset the "shut up and compute" crowd. We could argue the
-beauty argument was overdone as well, essentially they simply called
-for an economy in the formulation where if two explanations were
-equally correct choosing the simpler one... but the excess must have
-been there to balance the opposite. 
+Slate: "The Clinton-Era Adoption Law That Still Devastates Black Families
+Today.. Promoted as a way to rescue children—especially Black
+children—languishing in America’s overloaded foster system, ASFA has
+had the opposite impact. By speeding up termination of parents’
+rights, it has dramatically increased the chances that Black families,
+which are disproportionately separated by state child welfare
+authorities, will be permanently torn apart"
 
 ---
 
-The creation of QED also marks the shift of sci center from Europe to
-US, and it so happens that the culture code of technology in US is IT
-WORKS meaning doesnt matter how something is made, if it works, it's
-fine. Not to be too discriminating here but I think the Europeans are
-a little more into architecting, economy in their base frameworks.
+"@decolonialatlas@kolektiva.social
+
+A 20-year-long Indigenous-led movement to undam the Klamath River just
+won the largest river restoration project in history! FERC unanimously
+voted Thursday to remove the four lower Klamath dams starting next
+year! The salmon are coming home for the first time since 1918"
 
 ---
 
-Looking at the history of QED, it's understandable where the 'shut up
-and compute' idiom came from - I dont think this chestnut was
-specifically QM related. It has more to do with QED. Bcz remember what
-is QED?  A bizarrely convoluted process that formulizes something (the
-so-called Feynman diagrams were the necessary simplifying tool for the
-unnecessarily complex procedure) but "it worked" so at that point you
-had to "shut up and compute".
+"@FlintDibble@archaeo.social
 
-[[-]](2022/10/qed.html)
+From Ignatius Donnelly to Graham Hancock, pseudoarchaeologists claim
+an 'advanced Ice Age civilization' spread agriculture.. But
+archaeologists actually know a lot about the spread of agriculture!
+Check out this YouTube video on the First Farmers in the Aegean [see
+vid]"
 
----
-
-"@Hy_Economy@mastodon.social
-
-Stadler has announced that it has signed a [MOU] with Amtrak
-California for the first four hydrogen train orders, which will be
-followed by as many as 29 more"
+[[-]](https://mastodon.ie/@FlintDibble@archaeo.social/109382489737102447)
 
 ---
 
-"@Ric@awscommunity.social
-
-Once again, I'm blown away by how much I can do on this
-Chromebook. This time I have a fully working @FreeCAD install running"
-
----
-
-These old Meloni videos.. They keep circulating them and they come
-across as if they were made today.. There is one on La7 from 2019,
-another from that Atreju18 thing.. Afaik one was triggered bcz Macron
-bashed her first. Good Medi drama.
+I hear that on the polls but some say Trump people are not talking to
+the pollsters, or giving false data when they do, for fear of being
+labeled, since Jan 6.
 
 ---
 
-H2 Central: "Canadian Pacific Hydrogen Powered Locomotive Makes First
-Revenue Run"
+Slate: "The Bad Bet Tech Companies Made That Got Them Into This
+Mess.. companies understood their lockdown-augmented growth curves
+might not last forever, but they planned as if they would. Because
+while being wrong would mean cutting staff and missing earnings
+expectations, not attacking the opportunity would mean losing a market
+if COVID-inspired behavior *did* persist. So they took the risk"
 
 ---
 
-Which came first: CFD for Aero or Finite Elements for Structures?
-According to book by Tenek and Argyris FEM stress analysis on airplane
-wings was first. The CFD stuff arrived later. And some could claim
-wind tunnels are still preferable for FD.
+@AP_ArchPublic .. Genesis creditors are preparing for an ‘imminent’
+bankruptcy filing"
 
 ---
 
-Two countries on the same island, one is doing well the other
-doesn't.. And now there is a border wall between them. Unbelivable..
+\#Land \#Vote
 
-Bloomberg: "A 101-Mile Wall Goes Up to Block Haitians Pouring Over
-Border.. Haitians fleeing [to East].. will soon be met with a
-13-foot-tall border wall meant to keep them out of the neighboring
-Dominican Republic"
+[[-]](https://pbs.twimg.com/media/FhcdAdrXEAI_lQU?format=jpg&name=small)
+
+---
+
+"@jmtixhon@mastodon.world
+
+Ballard Fuel Cells Installed On World’s First Liquid Hydrogen-Powered Ferry"
+
+---
+
+If Iger decides to fix cuck, he would have the political capital to do
+it. Not likely based on past perf, but just saying..
+
+---
+
+DIS CEO Chepak is out. He tried to change some stuff but he didn't
+have enough political capital.. Add to that recent losses, he was
+done. Much of the Woke junk started during (returning CEO) Iger's time
+anyway, but maybe he was clear on where to go cuck and how much, and
+was steady about it. News says he will chose a successor, if he choses
+well, he will leave on a high note next time.
 
 ---
 
