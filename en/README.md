@@ -16,19 +16,6 @@ clean fuels at Macquarie’s Green Investment Group"
 
 ---
 
-Afaik DE is very active in this area. 
-
-"Hydrogen competition between the USA and Germany.. Where will a
-hydrogen economy first establish itself? This question is currently
-driving the German energy industry. After new legislation in the USA,
-the Inflation Reduction Act, created very attractive framework
-conditions for the development of an H2 industry, Germany is once
-again in danger of falling behind"
-
-[[-]](https://www.hzwei.info/blog/2022/11/16/wasserstoff-wettbewerb-zwischen-den-usa-und-deutschland/)
-
----
-
 Multi-Vehicle Pileup \#Montreal
 
 [[-]](https://youtu.be/rtF_UiwPRYo)
