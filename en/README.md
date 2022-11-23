@@ -23,7 +23,7 @@ Everyone thinks their exchange is ok until they read the words
 
 ---
 
-🤣 That. Is. Funny \#FT
+That. Is. Funny 🤣 \#FTX
 
 [[-]](https://pbs.twimg.com/media/FgNixf0WAAAl36E?format=jpg&name=small)
 
