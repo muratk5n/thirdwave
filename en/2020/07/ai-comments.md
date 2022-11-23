@@ -1,6 +1,6 @@
 # AI Collated Comments
 
-![](mljump.png)
+<img width="340" src="mljump.png"/>
 
 <a name='parrot'/>
 
