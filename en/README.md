@@ -16,6 +16,19 @@ clean fuels at Macquarie’s Green Investment Group"
 
 ---
 
+"@nanoseagull
+
+Everyone thinks their exchange is ok until they read the words
+'Withdrawals paused'"
+
+---
+
+🤣 That. Is. Funny \#FT
+
+[[-]](https://pbs.twimg.com/media/FgNixf0WAAAl36E?format=jpg&name=small)
+
+---
+
 Multi-Vehicle Pileup \#Montreal
 
 [[-]](https://youtu.be/rtF_UiwPRYo)
