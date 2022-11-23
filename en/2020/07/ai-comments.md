@@ -1,5 +1,7 @@
 # AI Collated Comments
 
+![](mljump.png)
+
 <a name='parrot'/>
 
 [Stochastic Parrots](https://towardsdatascience.com/yet-another-largest-neural-network-but-why-f48d231972a9)
