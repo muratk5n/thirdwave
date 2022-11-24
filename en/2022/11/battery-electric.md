@@ -8,9 +8,21 @@ Even for transportation, widespread use use of lion batteries is
 impossible. In 2020, 48.6 percent of all oil consumed in the OECD was
 related to motor vehicle usage [1].
 
-2019 crude oil consumption 100.37 million b/d. 
+2019 crude oil consumption 100.37 million b/d, 1 barrel carries
+approximately 1700 kwh of energy,
 
-Crude oil 10.215 kwh / kg.
+```python
+reserves = 17.0 # mtones
+kwh_day = 100.37*1e6*1700*0.486
+req = ((kwh_day / 70.0) * 60.0) / 1e9
+print ("%d mil. tons" % req)
+print ("Requirement is %d times of reserves" % (req/reserves))
+```
+
+```text
+71 mil. tons
+Requirement is 4 times of reserves
+```
 
 For total energy use the picture is more grim.  According to
 [EIA](https://en.wikipedia.org/wiki/World_energy_consumption),
@@ -20,15 +32,14 @@ consumption one day in batteries,
 
 ```python
 consumed_one_day = 431 * 1e9 # Kwh
-reserves = 17.0 # mtones
 req = ((consumed_one_day / 70.0) * 60.0) / 1e9
 print ("%d mil. tons" % req)
-print ("Can hold %0.2f percent of required energy" % ((reserves / req)*100.0) )
+print ("Requirement is %d times of reserves" % (req/reserves))
 ```
 
 ```text
 369 mil. tons
-Can hold 4.60 percent of required energy
+Requirement is 21 times of reserves
 ```
 
 .. it would require over 20 times the amount of available lithium in
