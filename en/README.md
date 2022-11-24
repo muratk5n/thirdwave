@@ -40,11 +40,6 @@ ammonia to Europe"
 
 ---
 
-Russia in Africa, in "somebody's backyard".. why is that surprising?
-Wasn't the West meddling in Ukraine, in Russia's backyard?
-
----
-
 Korea JoonAng Daily: "[H2] economy to get a big [SK] government
 boost.. [gov] said it is taking more aggressive steps than the Moon
 Jae-in administration in terms of the hydrogen economy in its support
