@@ -14,8 +14,7 @@ a tank of hydrogen contains more than double the energy of a battery
 at the same weight"
 
 Low energy density means heavy-duty transport, or battery based
-airplanes are out of the question for an battery-electric
-transition. 
+airplanes are out of the question for a green transition.
 
 easyJet: "When we.. looked back a few years ago, we realised clearly
 that the climate emergency is coming our way and that we needed to
