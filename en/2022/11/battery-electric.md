@@ -124,6 +124,17 @@ weaknesses of this particular technology. Lithium salts in the battery
 are self-oxidizing, which means that they can't be 'starved out' like
 a traditional fire.
 
+### Conclusion
+
+All the problems listed above are enough to doom a technology on their
+own.  Combined they are fatal. Considering adaption, TCO issues and
+knowing tech migration cycles, even considering a total shift to this
+tech is foolish. The issue goes beyond to being able to demonsrate a
+car drives on batteries from point A to point B. The industry will
+soon realize if all cars, heavy transport, shipping, air flight cannot
+be battery electric, it's best not to shift even a portion of energy use
+to battery electric. This technology simply has no future.
+
 References
 
 [1] [Statista](https://www.statista.com/statistics/307194/top-oil-consuming-sectors-worldwide/)
