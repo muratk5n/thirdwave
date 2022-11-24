@@ -1,4 +1,4 @@
-# Battery Electric, Problems
+# Problems of Battery Electric Tech
 
 Lion battery tech suffers from multidude of problems that makes it
 unfit as a basis of a green transition, and as a general storage
