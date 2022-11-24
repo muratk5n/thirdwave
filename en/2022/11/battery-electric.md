@@ -145,8 +145,9 @@ demonstrate a car can move on batteries from point A to point B. There
 are larger engineering, economic issues involved here. The industry
 will soon realize if all cars, heavy transport, shipping, air flight
 cannot be battery electric, it's best not to shift even a portion of
-energy use to battery electric. Sadly for its proponents this
-technology simply has no future.
+energy use to battery electric. The crazed proponents this technology
+might soon find themselves as the supporters of Betamax found decades
+ago. Stuck with a degrading tech, going nowhere.
 
 References
 
