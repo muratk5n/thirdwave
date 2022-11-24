@@ -1,6 +1,13 @@
 # Battery Electric Tech
 
+Lion battery tech suffers from multidude of problems that makes it
+unfit as a basis of a green transition, as a storage mechanism.
+
+<a name='density'/>
+
 ### Low Energy Density
+
+<a name='reserves'/>
 
 ### Insufficient Lithium Reserves
 
@@ -45,6 +52,7 @@ Requirement is 21 times of reserves
 .. it would require over 20 times the amount of available lithium in
 the world.
 
+<a name='degradation'/>
 
 ### Degradation
 
@@ -67,9 +75,32 @@ money for our house, decreasing the cost"
 
 [[-]](https://youtu.be/Qgv6Lgvy8Lc?t=495)
 
+<a name='safety'/>
+
 ### Safety
 
+Lion batteries routinely blow up. The cause can be from mild collision
+between an EV and another car, or salt water during a hurricane as was
+witnessed recently in Florida or in an ebike shop recently in New
+York.
+
 <iframe width="340" src="https://www.youtube.com/embed/46y3FN4fKlE" title="E-Bikes, E-Scooters Injuries Multiplying" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+Insurance Journal: "A Florida senator is calling for action from the
+Transportation Department and automakers after a series of electric
+vehicle fires tied to Hurricane Ian.. Sen. Rick Scott (R-Fla.) raised
+concerns.. 'This emerging threat has forced local fire departments to
+divert resources away from hurricane recovery to control and contain
+these dangerous fires,' Scott said. 'Car fires from electric vehicles
+have proven to be extremely dangerous and last for a prolonged period,
+taking in many cases up to six hours to burn out.'"
+
+Once the fires start firefighters find it incredibly hard to put out
+such fires using traditional methods, this is due to inherent
+weaknesses of the tech. Lithium salts in the battery are
+self-oxidizing, which means that they can't be 'starved out' like a
+traditional fire.
+
 
 
 
