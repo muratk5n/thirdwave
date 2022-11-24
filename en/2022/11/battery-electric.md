@@ -59,7 +59,7 @@ print ("Requirement is %d times of reserves" % (req/reserves))
 Requirement is 4 times of reserves
 ```
 
-We cannot even transition all driving to a lion based system.
+We cannot even migrate all driving to a lion based system.
 
 For total energy use the picture is more grim.  According to
 [EIA](https://en.wikipedia.org/wiki/World_energy_consumption),
@@ -86,12 +86,12 @@ the world.
 
 ### Degradation
 
-Lion batteries have a huge degredation problem, ie with every use the
-performance of the battery degrades. Most know this fact probably from
-their use of notebook batteries, eventually the battery dies out.
-Well, since some retarded genius decided to migrate the same tech to a
-car, now the same problem has migrated to this domain as well, except
-in a larger scale.
+Lion batteries have a huge degradation problem, ie with every use the
+performance of the battery becomes worse. Most know this fact probably
+from their use of notebook batteries, eventually the battery becomes
+unusable.  Well, since some retarded genius decided to migrate the
+same tech to a car, now the same problem has migrated to this domain
+as well, except in a larger scale.
 
 From the owner of a home storage system: "[If I am] cycling through my
 battery Powerwall every single day, I'm actually degrading the
