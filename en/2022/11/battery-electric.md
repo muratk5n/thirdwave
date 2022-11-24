@@ -39,10 +39,12 @@ molecules to propel cargo ships across oceans" [3]
 ### Insufficient Lithium Reserves
 
 Even for motor vehicle road transportation, widespread use use of lion
-batteries is impossible. In 2020, 48.6 percent of all oil consumed in
-the OECD was related to motor vehicle usage [1]. Existing estimated
-lithium reserves are at 17.0 millon tons. 2019 crude oil consumption
-100.37 million b/d, 1 barrel carries approximately 1700 kwh of energy,
+batteries is impossible. Existing estimated lithium reserves are at
+17.0 millon tons. In 2020, 48.6 percent of all oil consumed in the
+OECD was related to motor vehicle usage [1]. 2019 crude oil
+consumption 100.37 million b/d, 1 barrel carries approximately 1700
+kwh of energy. Let's try to calculate how much lithium would be needed
+to store a day's worth of energy for transport in batteries,
 
 ```python
 reserves = 17.0 # mtones
