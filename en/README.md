@@ -75,7 +75,7 @@ store excess electricity in the form of hydrogen for months"
 
 ---
 
-More surprises..
+This Cup is full of surprises...
 
 The Telegraph: "Germany vs Japan result: Another shock World Cup win
 as Hajime Moriyasu's team secure 2-1 victory"
