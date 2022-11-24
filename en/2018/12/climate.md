@@ -16,6 +16,8 @@
 
 [H2 Revolution](../../2022/06/the-h2-revolution-alvera.html)
 
+[Problems of Battery Electric Tech](../../2022/11/battery-electric.html)
+
 [Carbon Capture](../../2022/02/h2-co2-capture.html)
 
 [The Rare Metals War](../../2021/10/the-rare-metals-war.html)

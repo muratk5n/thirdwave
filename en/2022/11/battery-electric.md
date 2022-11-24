@@ -1,4 +1,4 @@
-# Problems of Lion Battery Electric 
+# Problems of Battery Electric 
 
 Lion battery tech suffers from multidude of problems that makes it
 unfit as a basis of a green transition, and as a general storage
@@ -15,8 +15,7 @@ at the same weight"
 
 Low energy density means heavy-duty transport, or battery based
 airplanes are out of the question for an battery-electric
-transition. The joke is if an airplane was using lion batteries, it
-would be so heavy it would not be able to take off.
+transition. 
 
 easyJet: "When we.. looked back a few years ago, we realised clearly
 that the climate emergency is coming our way and that we needed to
@@ -27,6 +26,14 @@ expectation that everything would go electric. However, once we got
 into the detail and the physics and the science behind electric, it
 became clear that battery-powered aeroplanes were not going to have
 sufficient energy density to power a large commercial aircraft"
+
+Alvera: "A kilogram of gasoline holds 13 kilowatt-hours (kWh) of
+energy; a kilogram of lithium-ion battery holds less than 0.3
+kWh. This means electricity isn’t going to be the best way of powering
+sectors which need to take lots of energy with them. Just think of
+long-haul flying: we would need so many heavy batteries that the plane
+wouldn’t be able to take off. And batteries won’t compete with
+molecules to propel cargo ships across oceans" [3]
 
 <a name='reserves'/>
 
@@ -142,3 +149,5 @@ References
 [1] [Statista](https://www.statista.com/statistics/307194/top-oil-consuming-sectors-worldwide/)
 
 [2] https://thompson-safety.com/company/press/lithium-ion-battery-fire
+
+[3] [The H2 Revolution](../../2022/06/the-h2-revolution-alvera.html)
