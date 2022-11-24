@@ -40,8 +40,8 @@ ammonia to Europe"
 
 ---
 
-Russia in Africa in the West's backyard.. why is that surprising?
-Wasn't the West meddling in Ukraine, in Russia's backyard?
+Russia in Africa, in "somebody's backyard".. why is that surprising?
+Wasn't Western meddling in Ukraine, in Russia's backyard?
 
 ---
 
