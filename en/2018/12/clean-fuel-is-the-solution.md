@@ -40,5 +40,18 @@ we have the clean fuel we can be sure there is no leakage, no pollution
 in that chain. The source can be regulated, or incentived easily to produce
 clean fuel in a clean way. 
 
+<a name='transition'/>
+
+The Transition
+
+It is essential that H2 infrastructure is built. This infrastructure
+is needed no matter what, whereever the H2 comes from. I suggest a
+parallel track where we are generating H2 by any means necessary that
+will encourage the build up such infrastructure, at the same time,
+pushing for the production of hydrogen to be green. By shifting the infra
+to be clean fuel based, at least we are stopping potential pollution due
+to leaks. And once the production itself is green, the whole chain becomes
+automatically green. 
+
 [[Up]](climate.html)
 
