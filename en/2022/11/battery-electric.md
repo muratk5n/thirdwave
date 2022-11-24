@@ -1,11 +1,33 @@
 # Battery Electric Tech
 
 Lion battery tech suffers from multidude of problems that makes it
-unfit as a basis of a green transition, as a storage mechanism.
+unfit as a basis of a green transition, and as a general storage
+mechanism.
 
 <a name='density'/>
 
 ### Low Energy Density
+
+Batteries have low energy density. 
+
+Plug Power CEO: "Power Density and Range: fuel cell energy density is
+four times more than batteries, and a tank of hydrogen contains more
+than double the energy of a battery at the same weight"
+
+Low energy density means heavy-duty transport, or battery based
+airplanes are impossible to achive. The joke was if an airplane was
+using lion batteries it would be so heavy it would not be able to take
+off.
+
+easyJet: "When we.. looked back a few years ago, we realised clearly
+that the climate emergency is coming our way and that we needed to
+address our sustainability issue – and we knew that our passengers
+care about that as well.. It was about the time when we started to see
+the first electric cars, the Tesla vehicles.. and there was
+expectation that everything would go electric. However, once we got
+into the detail and the physics and the science behind electric, it
+became clear that battery-powered aeroplanes were not going to have
+sufficient energy density to power a large commercial aircraft"
 
 <a name='reserves'/>
 
