@@ -8,16 +8,15 @@ mechanism.
 
 ### Low Energy Density
 
-Batteries have low energy density. 
-
-Plug Power CEO: "Power Density and Range: fuel cell energy density is
-four times more than batteries, and a tank of hydrogen contains more
-than double the energy of a battery at the same weight"
+Batteries have low energy density. Plug Power CEO: "Power Density and
+Range: fuel cell energy density is four times more than batteries, and
+a tank of hydrogen contains more than double the energy of a battery
+at the same weight"
 
 Low energy density means heavy-duty transport, or battery based
-airplanes are impossible to achive. The joke was if an airplane was
-using lion batteries it would be so heavy it would not be able to take
-off.
+airplanes are out of the question for an battery-electric
+transition. The joke is if an airplane was using lion batteries, it
+would be so heavy it would not be able to take off.
 
 easyJet: "When we.. looked back a few years ago, we realised clearly
 that the climate emergency is coming our way and that we needed to
@@ -33,12 +32,11 @@ sufficient energy density to power a large commercial aircraft"
 
 ### Insufficient Lithium Reserves
 
-Even for transportation, widespread use use of lion batteries is
-impossible. In 2020, 48.6 percent of all oil consumed in the OECD was
-related to motor vehicle usage [1].
-
-2019 crude oil consumption 100.37 million b/d, 1 barrel carries
-approximately 1700 kwh of energy,
+Even for motor vehicle road transportation, widespread use use of lion
+batteries is impossible. In 2020, 48.6 percent of all oil consumed in
+the OECD was related to motor vehicle usage [1]. Existing estimated
+lithium reserves are at 17.0 millon tons. 2019 crude oil consumption
+100.37 million b/d, 1 barrel carries approximately 1700 kwh of energy,
 
 ```python
 reserves = 17.0 # mtones
@@ -52,6 +50,8 @@ print ("Requirement is %d times of reserves" % (req/reserves))
 71 mil. tons
 Requirement is 4 times of reserves
 ```
+
+We cannot even transition all driving to a lion based system.
 
 For total energy use the picture is more grim.  According to
 [EIA](https://en.wikipedia.org/wiki/World_energy_consumption),
@@ -78,11 +78,12 @@ the world.
 
 ### Degradation
 
-Lion tech has a huge degredation problem, ie with every use the
+Lion batteries have a huge degredation problem, ie with every use the
 performance of the battery degrades. Most know this fact probably from
-our notebook batteries; well, since some idiot decided to migrate the
-same tech to a car, now the same problems have migrated to this domain
-as well, except in a larger scale.
+their use of notebook batteries, eventually the battery dies out.
+Well, since some retarded genius decided to migrate the same tech to a
+car, now the same problem has migrated to this domain as well, except
+in a larger scale.
 
 From the owner of a home storage system: "[If I am] cycling through my
 battery Powerwall every single day, I'm actually degrading the
@@ -103,8 +104,8 @@ money for our house, decreasing the cost"
 
 Lion batteries routinely blow up. The cause can be from mild collision
 between an EV and another car, or salt water during a hurricane as was
-witnessed recently in Florida or in an ebike shop recently in New
-York.
+witnessed recently in Florida, or in an ebike shop (for no reason)
+recently in New York.
 
 <iframe width="340" src="https://www.youtube.com/embed/46y3FN4fKlE" title="E-Bikes, E-Scooters Injuries Multiplying" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
@@ -117,34 +118,14 @@ these dangerous fires,' Scott said. 'Car fires from electric vehicles
 have proven to be extremely dangerous and last for a prolonged period,
 taking in many cases up to six hours to burn out.'"
 
-Once the fires start firefighters find it incredibly hard to put out
-such fires using traditional methods, this is due to inherent
-weaknesses of the tech. Lithium salts in the battery are
-self-oxidizing, which means that they can't be 'starved out' like a
-traditional fire.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+IMPORTANT NOTE: Once the fires start firefighters find it incredibly
+hard to put out using traditional methods, this is due to inherent
+weaknesses of this particular technology. Lithium salts in the battery
+are self-oxidizing, which means that they can't be 'starved out' like
+a traditional fire.
 
 References
 
 [1] [Statista](https://www.statista.com/statistics/307194/top-oil-consuming-sectors-worldwide/)
 
-
+[2] https://thompson-safety.com/company/press/lithium-ion-battery-fire
