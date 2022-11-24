@@ -104,7 +104,17 @@ def sen_ga_538():
     df2 = df[(df.candidate_name == 'Raphael Warnock') ]
     v1 = np.array(df1[['candidate_name','end_date','pollster','pct']].head(1))
     v2 = np.array(df2[['candidate_name','end_date','pollster','pct']].head(1))
+    s = float(df1['sample_size'].head(1))
     return list(v1[0]), list(v2[0])
+
+def d(k,n): m=k/n; return m,1.96*np.sqrt(m*(1-m)/n)
+
+def pollint(a,b,n):
+   m,t = d(a,n)
+   int1 = list(np.round([m-t,m+t],2))
+   m,t = d(b,n)
+   int2 = list(np.round([m-t,m+t],2))
+   return int1,int2
 
 def gfp_compare(country,file1,file2):
     df1 = pd.read_csv(file1); cols = df1.columns

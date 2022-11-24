@@ -16,99 +16,84 @@ clean fuels at Macquarie’s Green Investment Group"
 
 ---
 
-"@nanoseagull
+"@CoinMarketCap
 
-Everyone thinks their exchange is ok until they read the words
-'Withdrawals paused'"
-
----
-
-That. Is. Funny 🤣 \#FTX
-
-[[-]](https://pbs.twimg.com/media/FgNixf0WAAAl36E?format=jpg&name=small)
+\#cryptonews: New York governor signs law that limits #crypto mining 👀"
 
 ---
 
-Multi-Vehicle Pileup \#Montreal
+\#FTX
 
-[[-]](https://youtu.be/rtF_UiwPRYo)
+"@ercwl
 
----
-
-Slate: "The Clinton-Era Adoption Law That Still Devastates Black Families
-Today.. Promoted as a way to rescue children—especially Black
-children—languishing in America’s overloaded foster system, ASFA has
-had the opposite impact. By speeding up termination of parents’
-rights, it has dramatically increased the chances that Black families,
-which are disproportionately separated by state child welfare
-authorities, will be permanently torn apart"
+Man still thinks his exchange was a hedge fund.. You can’t denominate
+crypto assets into a dollar calculation as a custodian. That’s pure
+fraud. GTFO
 
 ---
 
-"@decolonialatlas@kolektiva.social
+"@Hy_Economy@mastodon.social
 
-A 20-year-long Indigenous-led movement to undam the Klamath River just
-won the largest river restoration project in history! FERC unanimously
-voted Thursday to remove the four lower Klamath dams starting next
-year! The salmon are coming home for the first time since 1918"
-
----
-
-"@FlintDibble@archaeo.social
-
-From Ignatius Donnelly to Graham Hancock, pseudoarchaeologists claim
-an 'advanced Ice Age civilization' spread agriculture.. But
-archaeologists actually know a lot about the spread of agriculture!
-Check out this YouTube video on the First Farmers in the Aegean [see
-vid]"
-
-[[-]](https://mastodon.ie/@FlintDibble@archaeo.social/109382489737102447)
+German gas company VNG AG and French renewable independent power
+producer (IPP) Total Eren have joined forces to import and sell green
+ammonia to Europe"
 
 ---
 
-I hear that on the polls but some say Trump people are not talking to
-the pollsters, or giving false data when they do, for fear of being
-labeled, since Jan 6.
+Russia in Africa in the West's backyard.. why is that surprising?
+Wasn't the West meddling in Ukraine, in Russia's backyard?
 
 ---
 
-Slate: "The Bad Bet Tech Companies Made That Got Them Into This
-Mess.. companies understood their lockdown-augmented growth curves
-might not last forever, but they planned as if they would. Because
-while being wrong would mean cutting staff and missing earnings
-expectations, not attacking the opportunity would mean losing a market
-if COVID-inspired behavior *did* persist. So they took the risk"
+Korea JoonAng Daily: "[H2] economy to get a big [SK] government
+boost.. [gov] said it is taking more aggressive steps than the Moon
+Jae-in administration in terms of the hydrogen economy in its support
+of clean hydrogen production and distribution.. Under the plan, Korea
+will have 600 hydrogen companies by 2030 and will be top ranked in
+categories related to hydrogen, including water electrolysis and fuel
+cells"
 
 ---
 
-@AP_ArchPublic .. Genesis creditors are preparing for an ‘imminent’
-bankruptcy filing"
+Thunderball - I C Colors \#music
+
+[[-]](https://youtu.be/s7tklHTrl9s)
 
 ---
 
-\#Land \#Vote
-
-[[-]](https://pbs.twimg.com/media/FhcdAdrXEAI_lQU?format=jpg&name=small)
-
----
-
-"@jmtixhon@mastodon.world
-
-Ballard Fuel Cells Installed On World’s First Liquid Hydrogen-Powered Ferry"
+Chip: "Many homeowners with a PV system want a completely
+self-sufficient power supply. But conventional battery storage is not
+designed to store the self-generated electricity for months. [The
+German start-up Home Power Solutions] has developed a system that can
+store excess electricity in the form of hydrogen for months"
 
 ---
 
-If Iger decides to fix cuck, he would have the political capital to do
-it. Not likely based on past perf, but just saying..
+"@Hy_Economy@mastodon.social
+
+'Linde starts green hydrogen production in Greece'"
 
 ---
 
-DIS CEO Chepak is out. He tried to change some stuff but he didn't
-have enough political capital.. Add to that recent losses, he was
-done. Much of the Woke junk started during (returning CEO) Iger's time
-anyway, but maybe he was clear on where to go cuck and how much, and
-was steady about it. News says he will chose a successor, if he choses
-well, he will leave on a high note next time.
+More surprises..
+
+The Telegraph: "Germany vs Japan result: Another shock World Cup win
+as Hajime Moriyasu's team secure 2-1 victory"
+
+---
+
+Aha here is Messi
+
+[[-]](https://pbs.twimg.com/media/FiO6zAYX0AAVYfv?format=jpg&name=small)
+
+---
+
+That is awesome. What happened to Messi?
+
+I hope SA goes further... Insallah.
+
+"Saudi Arabia produced one of the biggest upsets in World Cup history
+to beat Argentina 2-1"
 
 ---
 
