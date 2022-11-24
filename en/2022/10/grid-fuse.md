@@ -6,9 +6,8 @@ Paul Matthews
 
 Now lets get something straight here. I’m an electrician. Nothing
 would please me more than to see a transition away from the internal
-combustion engine and towards universal electric transport.
-
-However just as my paper on “power networks for dummies” exposed the
+combustion engine and towards universal electric transport. However
+just as my paper on “power networks for dummies” exposed the
 impossibility of replacing coal fired power plants with renewable
 generation, this paper will spell out the facts surrounding electric
 cars and how much (or how little) they can offer in regards to

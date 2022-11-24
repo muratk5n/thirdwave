@@ -115,8 +115,8 @@ money for our house, decreasing the cost"
 
 Lion batteries routinely blow up. The cause can be from mild collision
 between an EV and another car, or salt water during a hurricane as was
-witnessed recently in Florida, or in an ebike shop (for no reason)
-recently in New York.
+witnessed recently in Florida, or no reason at all as seen in an ebike
+shop recently in New York.
 
 <iframe width="340" src="https://www.youtube.com/embed/46y3FN4fKlE" title="E-Bikes, E-Scooters Injuries Multiplying" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
