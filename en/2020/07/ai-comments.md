@@ -2,6 +2,20 @@
 
 <img width="340" src="mljump.png"/>
 
+[Paper](https://arxiv.org/abs/2210.12889)
+
+Machine intelligence is increasingly being linked to claims about
+sentience, language processing, and an ability to comprehend and
+transform natural language into a range of stimuli. We systematically
+analyze the ability of [an "AI" NLP system] DALL·E 2 to capture 8
+grammatical phenomena pertaining to compositionality that are widely
+discussed in linguistics and pervasive in human language: binding
+principles and coreference, passives, word order, coordination,
+comparatives, negation, ellipsis, and structural ambiguity. Whereas
+young children routinely master these phenomena, learning systematic
+mappings between syntax and semantics, DALL·E 2 is unable to reliably
+infer meanings that are consistent with the syntax of the prompts
+
 <a name='parrot'/>
 
 [Stochastic Parrots](https://towardsdatascience.com/yet-another-largest-neural-network-but-why-f48d231972a9)
