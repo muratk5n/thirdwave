@@ -1,5 +1,7 @@
 # Junk Science and Technology
 
+[Battery Electric](../../2022/11/battery-electric.html)
+
 [Economics "Nobel" Prize](../../2018/05/faux-nobel.html)
 
 [Quantum Computing](../../2022/10/quantum-computing.md)
