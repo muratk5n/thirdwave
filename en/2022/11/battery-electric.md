@@ -107,6 +107,10 @@ money for our house, decreasing the cost"
 
 <a name='safety'/>
 
+### Charging
+
+[Blowing the Fuse](../../2022/10/grid-fuse.html)
+
 ### Safety
 
 Lion batteries routinely blow up. The cause can be from mild collision
