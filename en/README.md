@@ -28,7 +28,7 @@ clean fuels at Macquarie’s Green Investment Group"
 
 Man still thinks his exchange was a hedge fund.. You can’t denominate
 crypto assets into a dollar calculation as a custodian. That’s pure
-fraud. GTFO
+fraud. GTFO"
 
 ---
 
