@@ -157,3 +157,6 @@ References
 [2] https://thompson-safety.com/company/press/lithium-ion-battery-fire
 
 [3] [The H2 Revolution](../../2022/06/the-h2-revolution-alvera.html)
+
+[[Up](../../2018/09/junk-science.html)]
+

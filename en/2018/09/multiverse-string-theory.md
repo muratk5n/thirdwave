@@ -184,3 +184,4 @@ monologue. We are supposed to have skin in the game and make testable
 predictions, and this requires that scientists put themselves at risk
 of error.
 
+[[Up](../../2018/09/junk-science.html)]

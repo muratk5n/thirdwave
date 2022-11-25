@@ -75,4 +75,5 @@ where $a_0 \approx 1.2 x 10^{-10} m/sec^2$. Compared to CDM, this
 modification provides a much simpler (fewer adjustable parameters) and
 more accurate description of the galaxy rotation.. 
 
+[[Up](../../2018/09/junk-science.html)]
 

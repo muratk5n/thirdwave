@@ -45,3 +45,4 @@ References
 
 [2] [Al Jazeera Documentary](https://youtu.be/WAx9Z9DyMHY)
 
+[[Up](../../2018/09/junk-science.html)]

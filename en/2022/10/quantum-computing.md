@@ -49,3 +49,4 @@ going to help with the credibility problems physics already has with
 the public due to decades of hype about non-existent breakthroughs in
 fundamental physics.
 
+[[Up](../../2018/09/junk-science.html)]

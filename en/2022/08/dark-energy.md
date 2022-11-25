@@ -46,3 +46,6 @@ integration over large spacetime distances. Wiltshire has done such
 calculations, and claims that their result describes the observed
 seemingly accelerated expansion, without a Λ-term in the field
 equations. All we have to do is evaluate our observations rigorously.
+
+[[Up](../../2018/09/junk-science.html)]
+

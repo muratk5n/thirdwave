@@ -121,3 +121,5 @@ several 10^6 M. and solar-system extent – which is continually
 refuelled, and evolves (radially inward) through main-sequence
 hydrogen burning towards explosive He and ‘metal’ detonating all the
 way to iron, thereby ejecting the ashes of nuclear burning.
+
+[[Up](../../2018/09/junk-science.html)]

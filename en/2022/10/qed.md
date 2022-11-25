@@ -44,4 +44,5 @@ arbitrary substitutions of infinite values and budgets of 600 million
 dollars to continue the game.  Maybe it is time to consider
 alternative proposals. Winter is coming...
 
+[[Up](../../2018/09/junk-science.html)]
 

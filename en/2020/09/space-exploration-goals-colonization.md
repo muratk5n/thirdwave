@@ -48,3 +48,6 @@ Bezos talks about building the necessary elements so more people,
 organizations can explore space, in the same way he was able to build
 Amazon on elements that were available to him when he started in the
 90s.
+
+[[Up](../../2018/09/junk-science.html)]
+

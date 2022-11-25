@@ -59,3 +59,6 @@ Sharpe. He says that Sharpe's theory "vastly underestimates" risks.
 
 And Taleb is willing to go it alone in his lawsuit against the Swedish
 Central Bank, "If no one else sues them, I will."
+
+[[Up](../../2018/09/junk-science.html)]
+
