@@ -111,7 +111,7 @@ to pin the blame?
 
 QED could be the original sin. Think about it, once you ignore data,
 engage in scientific fraud, push whopping infinities under the rug to
-make a theory "work" what else can you not do? 11-12 dimensions, the
+make a theory "work" what else can you not do? 10-20 dimensions, the
 multiverse, many-worlds, quantum computation.. the sky will be the
 limit. Because now you are only "limited by your imagination" (cue in
 the image of a wacky Einstein), anything goes, right?
