@@ -154,7 +154,7 @@ References
 
 [1] [Statista](https://www.statista.com/statistics/307194/top-oil-consuming-sectors-worldwide/)
 
-[2] https://thompson-safety.com/company/press/lithium-ion-battery-fire
+[2] [Thompson Safety Works](https://thompson-safety.com/company/press/lithium-ion-battery-fire)
 
 [3] [The H2 Revolution](../../2022/06/the-h2-revolution-alvera.html)
 
