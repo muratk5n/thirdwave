@@ -85,6 +85,12 @@ Province."
 
 ---
 
+Saved the best for last (top section)
+
+[[-]](2018/09/junk-science.html)
+
+---
+
 The prevalence of QED could have something do with Europeans feeling a
 bit down about themselves at the time.. Imagine that Shelter Island
 meeting, two years after the end of the WWII where Europe had
@@ -109,12 +115,6 @@ make a theory "work" what else can you not do? 11-12 dimensions, the
 multiverse, many-worlds, quantum computation.. the sky will be the
 limit. Because now you are only "limited by your imagination" (cue in
 the image of a wacky Einstein), anything goes, right?
-
----
-
-Saved the best for last
-
-[[-]](2018/09/junk-science.html)
 
 ---
 
