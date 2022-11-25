@@ -91,10 +91,10 @@ meeting, two years after the end of the WWII where Europe had
 destroyed itself (again), and here they are, the elder scientist are
 sitting in a New World conference, watching two young American
 scientists all wired, flailing away talking energetically about some
-crazy bizarre theory likely hopped up on their Coca-Cola - Europeans
-must have thought, well, maybe this crazy shit is the new way, we
-destroyed ourselves with our science and tech. Who knows? Maybe we
-should pass the torch..
+crazy bizarre theory hopped up on their Coca-Cola - Europeans must
+have thought, well, maybe this crazy shit is the new way, we destroyed
+ourselves with our science and tech. Who knows? Maybe we should pass
+the torch..
 
 ---
 
