@@ -330,7 +330,7 @@ Anyone can start MD server, and join a larger "federation" of servers.
 
 ---
 
-Truth Social wanted to commercialize open-source Mastadon...  Why
+Truth Social wanted to commercialize open-source Mastodon...  Why
 bother? They could simply start a new server using the existing code,
 for conservatives, MAGA or just for Trump and publish on it. People
 are starting new nodes left and right these days anyway.
