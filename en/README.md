@@ -59,7 +59,7 @@ solution developed by Alstom and ENGIE"
 
 Good one \#Bernoulli 
 
-[[-]](https://cdn.masto.host/mastodonie/cache/media_attachments/files/109/384/997/505/797/535/original/f8807003e9845939.jpeg)
+[[-]](https://pbs.twimg.com/media/FiYmKd2XwAAdh8A?format=jpg&name=small)
 
 ---
 
