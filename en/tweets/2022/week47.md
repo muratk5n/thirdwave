@@ -1,5 +1,81 @@
 # Week 47 
 
+"@CoinMarketCap
+
+\#cryptonews: New York governor signs law that limits #crypto mining 👀"
+
+---
+
+\#FTX
+
+"@ercwl
+
+Man still thinks his exchange was a hedge fund.. You can’t denominate
+crypto assets into a dollar calculation as a custodian. That’s pure
+fraud. GTFO"
+
+---
+
+"@Hy_Economy@mastodon.social
+
+German gas company VNG AG and French renewable independent power
+producer (IPP) Total Eren have joined forces to import and sell green
+ammonia to Europe"
+
+---
+
+Korea JoonAng Daily: "[H2] economy to get a big [SK] government
+boost.. [gov] said it is taking more aggressive steps than the Moon
+Jae-in administration in terms of the hydrogen economy in its support
+of clean hydrogen production and distribution.. Under the plan, Korea
+will have 600 hydrogen companies by 2030 and will be top ranked in
+categories related to hydrogen, including water electrolysis and fuel
+cells"
+
+---
+
+Thunderball - I C Colors \#music
+
+[[-]](https://youtu.be/s7tklHTrl9s)
+
+---
+
+Chip: "Many homeowners with a PV system want a completely
+self-sufficient power supply. But conventional battery storage is not
+designed to store the self-generated electricity for months. [The
+German start-up Home Power Solutions] has developed a system that can
+store excess electricity in the form of hydrogen for months"
+
+---
+
+"@Hy_Economy@mastodon.social
+
+'Linde starts green hydrogen production in Greece'"
+
+---
+
+This Cup is full of surprises...
+
+The Telegraph: "Germany vs Japan result: Another shock World Cup win
+as Hajime Moriyasu's team secure 2-1 victory"
+
+---
+
+Aha here is Messi
+
+[[-]](https://pbs.twimg.com/media/FiO6zAYX0AAVYfv?format=jpg&name=small)
+
+---
+
+That is awesome. What happened to Messi?
+
+I hope SA goes further... Insallah.
+
+"Saudi Arabia produced one of the biggest upsets in World Cup history
+to beat Argentina 2-1"
+
+---
+
 "@nanoseagull
 
 Everyone thinks their exchange is ok until they read the words

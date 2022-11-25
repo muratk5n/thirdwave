@@ -16,79 +16,105 @@ clean fuels at Macquarie’s Green Investment Group"
 
 ---
 
-"@CoinMarketCap
 
-\#cryptonews: New York governor signs law that limits #crypto mining 👀"
+
+Added the ML joke at the top
+
+[[-]](2020/07/ai-comments.html)
 
 ---
 
-\#FTX
+"@jmtixhon@mastodon.world
 
-"@ercwl
+Dutch Government To Allocate € 22 Million For More Hydrogen Stations"
 
-Man still thinks his exchange was a hedge fund.. You can’t denominate
-crypto assets into a dollar calculation as a custodian. That’s pure
-fraud. GTFO"
+---
+
+Slate: "The federal government created this beautiful park
+[Yellowstone]. Guess who doesn’t want to admit it? *Yellowstone:
+One-Fifty* sidesteps the truth, which is the Hayden survey [that led
+to the creation of the park] was an unabashedly federal project. He
+had Congressional funding and orders from the Department of the
+Interior. He and his team took the transcontinental railroad (the
+existence of which was the end result of another federal project) to
+Utah to begin the survey. He had a 2nd Cavalry protective detail out
+of Fort Ellis (a federal installation). His Yellowstone survey report
+was printed and distributed by the Government Printing Office"
+
+[[-]](https://slate.com/culture/2022/11/is-kevin-costners-yellowstone-documentary-good-history-not-so-much.html)
+
+---
+
+<img width="340" src="https://railway-news.com/wp-content/uploads/2022/11/Wagon-ge%CC%81ne%CC%81rateur-Hydroge%CC%80ne-Design-non-contractuel-a%CC%80-des-fins-dillustration-%C2%A9Alstom-Advanced-Creative-Design.jpg"/>
+
+Railway News: "From 2025, Nestlé Waters will become the first company
+in Europe to operate a hydrogen-powered freight train through a
+solution developed by Alstom and ENGIE"
+
+---
+
+[Wiki](https://en.wikipedia.org/wiki/Bernoulli_family)
+
+---
+
+Good one \#Bernoulli 
+
+[[-]](https://cdn.masto.host/mastodonie/cache/media_attachments/files/109/384/997/505/797/535/original/f8807003e9845939.jpeg)
+
+---
+
+H2 View: "Siemens, FFI, GeoPura begin work on £3.5m ammonia cracker
+prototype"
+
+---
+
+Six yrs ago they were fine with it.. what happened? Don't voters know
+best?
+
+CNBC: "A frequent YouGov survey earlier this month showed that 56% of
+the population said Britain was “wrong” to vote to leave the EU in
+2016, compared to 32% who said it was the right call"
 
 ---
 
 "@Hy_Economy@mastodon.social
 
-German gas company VNG AG and French renewable independent power
-producer (IPP) Total Eren have joined forces to import and sell green
-ammonia to Europe"
+Shanxi Pengfei Group's first batch of 100 \#hydrogen FC heavy trucks
+was officially put into pilot operation in Xiaoyi City, Shanxi
+Province."
 
 ---
 
-Korea JoonAng Daily: "[H2] economy to get a big [SK] government
-boost.. [gov] said it is taking more aggressive steps than the Moon
-Jae-in administration in terms of the hydrogen economy in its support
-of clean hydrogen production and distribution.. Under the plan, Korea
-will have 600 hydrogen companies by 2030 and will be top ranked in
-categories related to hydrogen, including water electrolysis and fuel
-cells"
+The prevalence of QED could have something do with Europeans feeling a
+bit down about themselves at the time.. Imagine that Shelter Island
+meeting, two years after the end of the WWII where Europe had
+destroyed itself (again), and here they are, the elder scientist are
+sitting in a New World conference, watching two young American
+scientists all wired, flailing away talking energetically about some
+crazy bizarre theory likely hopped up on their Coca-Cola - Europeans
+must have thought, well, maybe this crazy shit is the new way, we
+destroyed ourselves with our science and tech. Who knows? Maybe we
+should pass the torch..
 
 ---
 
-Thunderball - I C Colors \#music
+Theoretical physics (along with cosmology) has gone awry, ever since
+70s nothing of significance has been done, and worse, bizarre
+unfounded theories like string theory were pursued for decades. Where
+to pin the blame?
 
-[[-]](https://youtu.be/s7tklHTrl9s)
-
----
-
-Chip: "Many homeowners with a PV system want a completely
-self-sufficient power supply. But conventional battery storage is not
-designed to store the self-generated electricity for months. [The
-German start-up Home Power Solutions] has developed a system that can
-store excess electricity in the form of hydrogen for months"
-
----
-
-"@Hy_Economy@mastodon.social
-
-'Linde starts green hydrogen production in Greece'"
+QED could be the original sin. Think about it, once you ignore data,
+engage in scientific fraud, push whopping infinities under the rug to
+make a theory "work" what else can you not do? 11-12 dimensions, the
+multiverse, many-worlds, quantum computation.. the sky will be the
+limit. Because now you are only "limited by your imagination" (cue in
+the image of a wacky Einstein), anything goes, right?
 
 ---
 
-This Cup is full of surprises...
+Saved the best for last
 
-The Telegraph: "Germany vs Japan result: Another shock World Cup win
-as Hajime Moriyasu's team secure 2-1 victory"
-
----
-
-Aha here is Messi
-
-[[-]](https://pbs.twimg.com/media/FiO6zAYX0AAVYfv?format=jpg&name=small)
-
----
-
-That is awesome. What happened to Messi?
-
-I hope SA goes further... Insallah.
-
-"Saudi Arabia produced one of the biggest upsets in World Cup history
-to beat Argentina 2-1"
+[[-]](2018/09/junk-science.html)
 
 ---
 
