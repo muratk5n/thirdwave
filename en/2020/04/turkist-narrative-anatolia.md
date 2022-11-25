@@ -242,7 +242,8 @@ being of a "Turkish built". And the man would be offended by this. If
 The Identity is something that is supposed to describe everyone, why
 does it fall short in so many different ways, can only work as
 case-by-case basis, depending on context, region, and person. This
-sounds to me a nationalisation process gone wrong.
+sounds to me the nationalisation plan wasn't fully thought through,
+haphazardly done, without proper understanding.
 
 References
 
