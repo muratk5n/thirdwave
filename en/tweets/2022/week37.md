@@ -220,7 +220,7 @@ Cell Bus, GOLDiON H18"
 
 ---
 
-Two degrees of seperation from the lithium boy [e-jagoff](twimg/EgPe-HTWkAAKbbl.jpg)
+Two degrees of seperation from the lithium boy [e-jagoff](ejagoffmaxwell.jpg)
 
 ---
 

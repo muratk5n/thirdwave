@@ -23,7 +23,6 @@ if sys.argv[1] == 'rel':
     print (random.choice([False, True]))
 
 if sys.argv[1] == 'pdf-unite':
-    print ('uniting')
     os.system("pdfunite /opt/Downloads/twpdf/*.pdf ~/Downloads/tw-all.pdf")
         
 if sys.argv[1] == 'pdf':

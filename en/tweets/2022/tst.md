@@ -7,7 +7,15 @@ pd.set_option('display.max_columns', None)
 ```
 
 
+```python
+u.sen_ga_538()
+```
 
+```text
+Out[1]: 
+(['Herschel Junior Walker', '11/17/22', 'Fabrizio/Impact', 47.0],
+ ['Raphael Warnock', '11/17/22', 'Fabrizio/Impact', 51.0])
+```
 
 
 
