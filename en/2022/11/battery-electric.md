@@ -141,14 +141,14 @@ a traditional fire.
 All the problems listed above are enough to doom a technology on their
 own. Combined, they are fatal. Considering adaption, TCO issues and
 knowing tech migration cycles, even considering a total shift to this
-tech would be foolish. The issue goes beyond to being able to
-demonstrate a car can move on batteries from point A to point B. There
-are larger engineering, economic issues involved here. The industry
-will soon realize if all cars, heavy transport, shipping, air flight
-cannot be battery electric, it's best not to shift even a portion of
-energy use to battery electric. The crazed proponents this technology
-might soon find themselves as the supporters of Betamax found decades
-ago. Stuck with a degrading tech, going nowhere.
+tech would be foolish. The issue goes beyond being able to demonstrate
+a car can move on batteries from point A to point B. There are larger
+engineering, economic issues involved here. The industry will soon
+realize if all cars, heavy transport, shipping, air flight cannot be
+battery electric, it's best not to shift even a portion of energy use
+to battery electric. The crazed proponents this technology might soon
+find themselves as the supporters of Betamax found decades ago. Stuck
+with a degrading tech, going nowhere.
 
 References
 
