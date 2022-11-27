@@ -66,13 +66,13 @@ Hyperion has the best videos
 
 ---
 
-For two teams take their past K games, for those games calc goal avg,
-passes per minute, bad passes per minute, fouls per minute, number of
-completed passes per minute in the attacking 30%/20% of the field (see
-how detailed it is), it goes on... Taking such stats for two teams
-even eyeballing one can probably gauge a winner. "AI" just automates
-that, adds another layer of (let's be honest here) simple stupid
-linear regression, and reports a result.
+For two teams we can look at their past K games, within that calc goal
+avg, passes per minute, bad passes per minute, fouls per minute,
+number of completed passes per minute in the attacking 30%/20% of the
+field (see how detailed it is), it goes on... Taking such stats for
+two teams even eyeballing one can probably gauge a winner. "AI" just
+automates that, adds another layer of (let's be honest here) extremely
+simple linear regression, and reports a result.
 
 [[-]](https://github.com/GoogleCloudPlatform/ipython-soccer-predictions/blob/master/predict/wc-final.ipynb)
 
