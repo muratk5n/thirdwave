@@ -105,7 +105,7 @@ different FIFA World Cups"
 
 RFK was ok on some left issues, but fell short... Supported the war in
 Vietnam in the beginning, and promised to send 50 fighter jets to
-Israel if elected president. That's why that Palestenian assasin was
+Israel if elected president. That's why that Palestenian assassin was
 radicalized and shot him literally one year after the Six-Day War.
 Why support the civil right movement but be ok with Palestenians
 getting bombed go bits?? Half-assed left - the perennial problem of
