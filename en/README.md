@@ -29,7 +29,7 @@ Britain?s biggest economic partner"
 
 ---
 
-Amazon to open online grocery store in UAE
+Al Monitor: "Amazon to open online grocery store in UAE"
 
 ---
 
