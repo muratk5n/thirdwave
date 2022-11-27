@@ -17,7 +17,13 @@ Out[1]:
  ['Raphael Warnock', '11/17/22', 'Fabrizio/Impact', 51.0])
 ```
 
+```python
+u.rottentomatoes("Strange World")
+```
 
+```text
+Out[1]: {'tomatometer score': 73, 'audience score': 59}
+```
 
 
 

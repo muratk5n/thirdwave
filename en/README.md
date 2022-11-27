@@ -16,102 +16,106 @@ clean fuels at Macquarie’s Green Investment Group"
 
 ---
 
-Added the ML joke at the top
 
-[[-]](2020/07/ai-comments.html)
+Politico.eu: "After six years of chaos and recrimination since Britons
+voted to leave the European Union, there are signs the country is
+showing an unexpected outbreak of common sense in its approach to the
+bloc.
 
----
-
-"@jmtixhon@mastodon.world
-
-Dutch Government To Allocate € 22 Million For More Hydrogen Stations"
-
----
-
-Slate: "The federal government created this beautiful park
-[Yellowstone]. Guess who doesn’t want to admit it? *Yellowstone:
-One-Fifty* sidesteps the truth, which is the Hayden survey [that led
-to the creation of the park] was an unabashedly federal project. He
-had Congressional funding and orders from the Department of the
-Interior. He and his team took the transcontinental railroad (the
-existence of which was the end result of another federal project) to
-Utah to begin the survey. He had a 2nd Cavalry protective detail out
-of Fort Ellis (a federal installation). His Yellowstone survey report
-was printed and distributed by the Government Printing Office"
-
-[[-]](https://slate.com/culture/2022/11/is-kevin-costners-yellowstone-documentary-good-history-not-so-much.html)
+In his first weeks in office, Prime Minister Rishi Sunak -a Brexiteer
+himself- has sent clear signals that he wants a more constructive
+relationship with Brussels and Paris, and to avoid a trade war with
+Britain?s biggest economic partner"
 
 ---
 
-<img width="340" src="https://railway-news.com/wp-content/uploads/2022/11/Wagon-ge%CC%81ne%CC%81rateur-Hydroge%CC%80ne-Design-non-contractuel-a%CC%80-des-fins-dillustration-%C2%A9Alstom-Advanced-Creative-Design.jpg"/>
-
-Railway News: "From 2025, Nestlé Waters will become the first company
-in Europe to operate a hydrogen-powered freight train through a
-solution developed by Alstom and ENGIE"
+Amazon to open online grocery store in UAE
 
 ---
 
-[Wiki](https://en.wikipedia.org/wiki/Bernoulli_family)
+"@hydrogenLOHC
+
+\#Delegation Trip to Austria and Italy! Here are the main take-aways
+
+1) When it comes to decarbonization, the new language is “hydrogen”
+(besides \#renewableenergy) 💙
+
+2) \#Hydrogen will partly be transported via pipelines (e.g. European
+Hydrogen Backbone Initiative \#EHB) – so we must take the right steps
+and find the right partners now 
+
+3) The \#energytransition is a joint goal ➡️ only achievable through
+international cooperation – hydrogen is a perfect example!
+
+4) Our \#LOHC technology = a great solution for transporting
+\#greenhydrogen via ship to Italy, where the hydrogen could be injected
+into pipelines💪 
+
+And: \#Hydrogen will come from all over the world, so we need all
+transport options and act in a #technology-open manner!"
 
 ---
 
-Good one \#Bernoulli 
+Hyperion has the best videos
 
-[[-]](https://pbs.twimg.com/media/FiYmKd2XwAAdh8A?format=jpg&name=small)
-
----
-
-H2 View: "Siemens, FFI, GeoPura begin work on £3.5m ammonia cracker
-prototype"
+[[-]](https://drive.google.com/uc?export=view&id=1ylkf2zaCWD_wrOda9aSiFP9L0UnDz-1_)
 
 ---
 
-Six yrs ago they were fine with it.. what happened? Don't voters know
-best?
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hyper:Fuel Mobile Stations™ the power of the stars.<br><br>Hydrogen is the most abundant element in our universe. It fuels each star in our galaxy and every NASA rocket to date.. <br><br>Now it can power your car!<a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/refuel?src=hash&amp;ref_src=twsrc%5Etfw">#refuel</a> <a href="https://twitter.com/hashtag/recharge?src=hash&amp;ref_src=twsrc%5Etfw">#recharge</a> <a href="https://twitter.com/hashtag/NASA?src=hash&amp;ref_src=twsrc%5Etfw">#NASA</a> <a href="https://twitter.com/hashtag/starpower?src=hash&amp;ref_src=twsrc%5Etfw">#starpower</a> <a href="https://twitter.com/hashtag/losangelesautoshow?src=hash&amp;ref_src=twsrc%5Etfw">#losangelesautoshow</a> <a href="https://t.co/4Gl7rCdz1g">pic.twitter.com/4Gl7rCdz1g</a></p>&mdash; Hyperion Motors, Inc (@hyperionmotor) <a href="https://twitter.com/hyperionmotor/status/1595587623783141376?ref_src=twsrc%5Etfw">November 24, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-CNBC: "A frequent YouGov survey earlier this month showed that 56% of
-the population said Britain was “wrong” to vote to leave the EU in
-2016, compared to 32% who said it was the right call"
+---
+
+For two teams take their past K games, for those games calc goal avg,
+passes per minute, bad passes per minute, fouls per minute, number of
+completed passes per minute in the attacking 30%/20% of the field (see
+how detailed it is), it goes on... Taking such stats for two teams
+even eyeballing one can probably gauge a winner. "AI" just automates
+that, adds another layer of (let's be honest here) simple stupid
+linear regression, and reports a result.
+
+[[-]](https://github.com/GoogleCloudPlatform/ipython-soccer-predictions/blob/master/predict/wc-final.ipynb)
+
+---
+
+A lot of soccer games can be predictable. If you feed in gazillion of
+base data points through "feature engineering" than even simple stupid
+logistic regression will predict something. There are companies
+providing such raw, so-called touch-by-touch data. See
+[Opta](https://www.statsperform.com/opta-event-definitions/).
 
 ---
 
 "@Hy_Economy@mastodon.social
 
-Shanxi Pengfei Group's first batch of 100 \#hydrogen FC heavy trucks
-was officially put into pilot operation in Xiaoyi City, Shanxi
-Province."
+Germany and France plan to strengthen that corporation regarding
+\#hydrogen. Part of this should be the construction of a hydrogen
+pipeline network"
 
 ---
 
-Saved the best for last (top section)
-
-[[-]](2018/09/junk-science.html)
-
----
-
-The prevalence of QED could have something do with Europeans feeling a
-bit down about themselves at the time.. Imagine that Shelter Island
-meeting, two years after the end of the WWII where Europe had
-destroyed itself (again), and here they are, the elder scientist are
-sitting in a New World conference, watching two young American
-scientists all wired, flailing away talking energetically about some
-crazy bizarre theory Europeans must have thought, well, maybe this
-crazy shit is the new way, we destroyed ourselves with our science and
-tech. Who knows? Maybe we should pass the torch..
+"Ronaldo makes history.. he becomes the first.. to score in five
+different FIFA World Cups"
 
 ---
 
-Theoretical physics (along with cosmology) has gone awry, ever since
-70s nothing of significance has been done, and worse, bizarre
-unfounded theories like string theory were pursued for decades. Where
-to pin the blame?
+"England draws 0-0 with the USA" \#Qatar
 
-QED could be the original sin. Think about it, once you ignore data,
-engage in scientific fraud, push whopping infinities under the rug to
-make a theory "work" what else can you not do? 10-20 dimensions, the
-multiverse, many-worlds, quantum computation.. the sky will be the
-limit. Because now you are only "limited by your imagination" (cue in
-the image of a wacky Einstein), anything goes, right?
+---
+
+😂 US-England \#worldcup
+
+[[-]](https://twitter.com/griffin_dahl/status/1596219000761245696)
+
+---
+
+RFK was ok on some left issues, but fell short... Supported the war in
+Vietnam in the beginning, and promised to send 50 fighter jets to
+Israel if elected president. That's why that Palestenian assasin was
+radicalized and shot him literally one year after the Six-Day War.
+Why support the civil right movement but be ok with Palestenians
+getting bombed go bits?? Half-assed left - the perennial problem of
+America. That is why RFK is dead.
 
 ---
 
