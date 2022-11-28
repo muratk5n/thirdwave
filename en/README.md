@@ -164,7 +164,7 @@ of the approach). JFK escalated the war in Vietnam, f--ked it all
 up in Cuba, and somehow shifted the blame *to the media* with another
 statemanly sounding proclamation. It all sounded aw so eloquent
 that the retro air is what people remember fondly, rather than
-the empty content of the statements itself.
+the empty content of the statement itself.
 
 ---
 
