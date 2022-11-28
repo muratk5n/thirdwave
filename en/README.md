@@ -93,8 +93,6 @@ and get their info, collect it.
 
 ---
 
-Oh yeeeeaaa
-
 ```python
 response = requests.get(url) # details on specific host
 res = json.loads(response.text)
@@ -111,8 +109,6 @@ All MD servers know about related servers, code below fetched that
 for one machine displayed few results.
 
 ---
-
-Oh yeaaaa
 
 ```python
 import requests, json
