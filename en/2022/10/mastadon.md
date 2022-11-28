@@ -12,6 +12,9 @@ Crawl Script
 
 It hits all MD servers and gets their stats (user count, creation date)
 
+[Code](masta.py)
+
+
 ```python
 import zipfile, pandas as pd
 with zipfile.ZipFile('mastacrawl1.zip', 'r') as z:
@@ -27,7 +30,6 @@ print (f'{df[1].sum():,}','users')
 7,824,386 users
 ```
 
-[Code](masta.py)
 
 
 
