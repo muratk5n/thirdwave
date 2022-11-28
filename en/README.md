@@ -153,7 +153,7 @@ Politico.eu: "Furious EU countries rage over gas price cap proposal"
 
 ---
 
-The psyop has a rich white guy who was culturally Protestan (as all Americans are),
+The psyop has a rich white guy who was culturally Protestan (as most Americans are),
 to be seen as first Irish-Catholic President, read: a minority who was
 "representing", "taken from us much too early". Dems are made to
 weep after this symbol of diversity, follow its flashy image at the
