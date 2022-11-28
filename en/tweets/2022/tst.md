@@ -7,35 +7,6 @@ pd.set_option('display.max_columns', None)
 ```
 
 
-```python
-import requests, json
-url = "https://mastodon.social/api/v1/instance"
-response = requests.get(url + "/peers") 
-json.loads(response.text)[:4]
-```
-
-```text
-Out[1]: 
-['smgle.com',
- 'mstdn.nielniel.net',
- 'testdon00001.mamemo.online',
- 'lazybear.io']
-```
-
-```python
-response = requests.get(url)
-res = json.loads(response.text)
-res['stats']
-```
-
-```text
-Out[1]: {'user_count': 880513, 'status_count': 43334732, 'domain_count': 35389}
-```
-
-
-
-
-
 
 
 
