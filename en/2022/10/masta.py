@@ -59,9 +59,9 @@ def run(iter):
             self.nfile.close()
 
     f = "./iter%d/input.csv" % iter
-    #util.process(file_name=f, N=4, hookobj = MastJob(0))
+    #util.lineproc(file_name=f, N=4, hookobj = MastJob(0))
     N = 10
-    ps = [Process(target=util.process, args=(f, N, MastJob(i))) for i in range(N)]
+    ps = [Process(target=util.lineproc, args=(f, N, MastJob(i))) for i in range(N)]
     for p in ps: p.start()
                     
 def combine(iter):
