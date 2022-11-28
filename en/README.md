@@ -151,7 +151,7 @@ to be seen as first Irish-Catholic President, read: a minority who was
 "representing", "taken from us much too early". Dems are made to
 weep after this symbol of diversity, follow its flashy image at the
 same time ensuring its centrist, rich guy policies are followed. [This photo](https://pbs.twimg.com/media/FimCFrjWIAMztMt?format=jpg&name=small)
-has the worst and second worst US President of modern times in a
+has the worst and second worst US presidents of modern times in a
 single frame, and that is by design. 
 
 ---
