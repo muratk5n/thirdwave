@@ -16,9 +16,6 @@ clean fuels at Macquarie’s Green Investment Group"
 
 ---
 
-
----
-
 Upstream: "Sinopec to back multi-billion dollar green hydrogen project
 harnessing wind power in northern China"
 
