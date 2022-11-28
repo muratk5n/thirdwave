@@ -169,9 +169,9 @@ Senate race), "the rising tide lifts all boats" sounds like trickle-down economi
 (in fact some of the WH advisors at the time were actual [proponents](https://www.thedailystar.net/news-detail-126725)
 of the approach). JFK escalated the war in Vietnam, f--ked it all
 up in Cuba, and somehow shifted the blame *to the media* with another
-statemanly sounding proclamation. It all sounded "aw so eloquent",
+statemanly sounding proclamation. It all sounded aw so eloquent
 that the retro air is what people remember fondly, rather than
-the content of the empty statements themselves.
+the empty content of the statements itself.
 
 ---
 
