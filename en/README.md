@@ -25,7 +25,7 @@ bloc.
 In his first weeks in office, Prime Minister Rishi Sunak -a Brexiteer
 himself- has sent clear signals that he wants a more constructive
 relationship with Brussels and Paris, and to avoid a trade war with
-Britain?s biggest economic partner"
+Britain's biggest economic partner"
 
 ---
 
