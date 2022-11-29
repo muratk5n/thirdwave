@@ -10,6 +10,8 @@
 
 [H2 Production Methods](../../2022/02/h2-production.html)
 
+[Application Domains for H2](../../2022/02/h2-end-use.html)
+
 [H2 Storage Options](../../2022/02/h2-storage.html)
 
 [H2 Numbers](../../2022/02/base-energy-numbers.html)
