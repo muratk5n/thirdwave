@@ -7,6 +7,31 @@ pd.set_option('display.max_columns', None)
 ```
 
 
+```python
+u.boxofficemojo("Black Panther")
+```
+
+```text
+Out[1]: 
+{'Domestic Opening': '$202,003,951',
+ 'Domestic': '$700,426,566',
+ 'International': '$681,822,260',
+ 'Worldwide Total': '$1,382,248,826',
+ 'Release Date': 'February 13, 2018'}
+```
+
+```python
+u.boxofficemojo("Black Panther Wakanda Forever")
+```
+
+```text
+Out[1]: 
+{'Domestic Opening': '$181,339,761',
+ 'Domestic': '$367,670,596',
+ 'International': '$307,900,000',
+ 'Worldwide Total': '$675,570,596',
+ 'Release Date': 'September 23, 2022'}
+```
 
 
 

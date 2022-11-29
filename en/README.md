@@ -181,9 +181,8 @@ founder Catherine the Great"
 
 Anwar finally gets his chance.. Man it took a long time for this guy
 
-Al Jazeera: "Malaysia's Anwar gets to work, promising inclusive
-government.. Southeast Asian nation's new prime minister says he will
-govern for all as he reaches out across political divides.
+Al Jazeera: "Malaysia's Anwar gets to work.. Southeast Asian nation's
+new prime minister says he will govern for all"
 
 ---
 
