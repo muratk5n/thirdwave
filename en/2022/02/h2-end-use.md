@@ -5,6 +5,8 @@ enjoy, they are also attractive due to the fact they can be applied
 anywhere, e.g. in combustion engines for motor vehicles, creating
 power in turbines or fuel-cells, heating, or making steel.
 
+<a name='steel'/>
+
 ### Steel Production
 
 For steel production there is already no other way other than hydrogen
@@ -20,6 +22,8 @@ fossil fuels to produce the intense heat and feed the chemical process
 needed to smelt iron ore. But switching from coking coal to a cleaner
 feedstock like hydrogen offers a solution that produces only harmless
 steam emissions"
+
+<a name='heating'/>
 
 ### Heating
 
@@ -49,15 +53,21 @@ indefinitely, thus ensuring constant availability for users. Green
 hydrogen is climate-neutral and therefore has the potential to lead
 the heating sector into a green future"
 
-### Power via Fuel-Cells
+<a name='powerfc'/>
 
-<img width="340" src="fuelcell1.jpg"/>
+### Power via Fuel-Cells
 
 <img width="340" src="mirai1.jpg"/>
 
-### Power via H2 Turbines
+<img width="340" src="fuelcell1.jpg"/>
+
+<a name='powerturbine'/>
+
+### Power via Turbines
 
 
+
+<a name='combust'/>
 
 ### Combustion Engines
 
@@ -68,3 +78,4 @@ References
 [2] [Bosch](https://www.bosch-presse.de/pressportal/de/en/der-energiewende-einen-schritt-naeher-220800.html)
 
 [3] [Euroactive](https://www.euractiv.com/section/energy-environment/infographic/how-hydrogen-can-decarbonize-the-steel-industry-and-what-it-will-take)
+
