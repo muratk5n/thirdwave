@@ -46,7 +46,7 @@ That looks massive. Is there anything CSP folks can learn from? They
 structured the whole thing differently, basically an entire building
 became a reflector.
 
-3K Celcius is a good chunk of energy to generate clean fuel.
+3K Celcius is a good chunk of energy to generate clean fuel with.
 
 Wiki: "The solar furnace of Uzbekistan was built in 1981, and is
 located 45 kilometers away from Tashkent city. The furnace is the
