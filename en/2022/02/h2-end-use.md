@@ -53,6 +53,25 @@ indefinitely, thus ensuring constant availability for users. Green
 hydrogen is climate-neutral and therefore has the potential to lead
 the heating sector into a green future"
 
+Heat By-Product from Fuel-Cell
+
+Fuel-cells generate heat as a by-product while they generate
+electricity from H2. This heat can be harnessed to heat homes,
+businesses, so-called CHP, combined heat and power products essentially
+perform this function. From a [product](https://www.inhouse-engineering.de/en/fuel-cell/chp/)
+flyer: "[We can] use a combined heat and power unit with a fuel cell
+to supply you with electrical and thermal energy. Our combined heat and
+power station (CHP) inhouse5000+ based on a PEM fuel cell is such a solution for the
+simultaneous supply of buildings with electricity and heat"
+
+Heat By-Product from LOHC Hydrogeneation
+
+The process of generating H2 from LOHC carrier, the so-called
+hydrogeneation generates heat as by product. This process can easily
+be used to heat homes, in fact a demo in Erlangen Germany shows 55 C
+heat is supplied to a nearby school that can heat a swimming pool [4,
+pg. 30]
+
 <a name='powerfc'/>
 
 ### Power via Fuel-Cells
@@ -78,4 +97,6 @@ References
 [2] [Bosch](https://www.bosch-presse.de/pressportal/de/en/der-energiewende-einen-schritt-naeher-220800.html)
 
 [3] [Euroactive](https://www.euractiv.com/section/energy-environment/infographic/how-hydrogen-can-decarbonize-the-steel-industry-and-what-it-will-take)
+
+[4] [Hydrogenious, PDF](https://arpa-e.energy.gov/sites/default/files/Schneider_HydrogeniousTechnologies_TransportationFuels_Workshop_FINAL.pdf)
 
