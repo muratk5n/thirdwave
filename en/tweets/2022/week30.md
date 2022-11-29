@@ -963,19 +963,6 @@ Trump 🔥 🔥 🔥
 
 ---
 
-"Influential analyst [Michael Liebreich] says the world will not be
-able to produce renewable energy fast enough to decarbonise hydrogen,
-power, steel, transport and heating at the same time. 'We have to
-learn to love blue hydrogen. Maybe in an ideal world, we wouldn’t, but
-we do,.. meeting the coming demand from sectors that would almost
-certainly need clean H2 to decarbonise, such as steel, shipping and
-long-term energy storage — would require five times the current
-installed global wind and solar capacity"
-
-[[-]](https://www.rechargenews.com/energy-transition/liebreich-we-have-to-learn-to-love-blue-hydrogen-and-make-sure-its-as-clean-as-possible/2-1-1262283)
-
----
-
 FT: "In the US, the ‘real money’ is still betting on blue [H2]"
 
 ---

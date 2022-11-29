@@ -234,7 +234,7 @@ Commercial Steel Production for the First Time w H2
 
 <img width="340" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/red-hot-roll-of-steel-in-steel-mill-royalty-free-image-1589379895.jpg?crop=1xw:0.78659xh;center,top&resize=640:*"/>
 
-[Link](https://www.popularmechanics.com/science/amp32460567/hydrogen-powers-steel-production/?__twitter_impression=true)
+[Link](https://www.popularmechanics.com/science/amp32460567/hydrogen-powers-steel-production/)
 
 ---
 
