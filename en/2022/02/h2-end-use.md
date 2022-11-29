@@ -53,6 +53,12 @@ indefinitely, thus ensuring constant availability for users. Green
 hydrogen is climate-neutral and therefore has the potential to lead
 the heating sector into a green future"
 
+H2 based heating is efficient as H2 high-heatinv value is more than
+twice that of natgas.
+
+Boiler Hut: "1kg of hydrogen releases the same energy as 2.8kg of
+natural gas." [5]
+
 Heat By-Product from Fuel-Cell
 
 Fuel-cells generate heat as a by-product while they generate
@@ -76,6 +82,8 @@ pg. 30]
 
 ### Power via Fuel-Cells
 
+TBD
+
 <img width="340" src="mirai1.jpg"/>
 
 <img width="340" src="fuelcell1.jpg"/>
@@ -84,11 +92,13 @@ pg. 30]
 
 ### Power via Turbines
 
-
+TBD
 
 <a name='combust'/>
 
 ### Combustion Engines
+
+TBD
 
 References
 
@@ -100,3 +110,4 @@ References
 
 [4] [Hydrogenious, PDF](https://arpa-e.energy.gov/sites/default/files/Schneider_HydrogeniousTechnologies_TransportationFuels_Workshop_FINAL.pdf)
 
+[5] [Boiler Hut](https://boilerhut.co.uk/boiler-guides/hydrogen-boiler-explained/)
