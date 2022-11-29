@@ -30,12 +30,6 @@ efficiently deliver power for civil aero engines"
 
 ---
 
-Even the bitch car site admits this is big news.
-
-[[-]](https://www.teslarati.com/rolls-royce-hydrogen-powered-aviation/)
-
----
-
 Yahoo Finance: "Global power leader Cummins Inc. will design and
 manufacture [an] electrolyzer system for the first 20-megawatt green
 hydrogen facility in the Canadian province of Ontario"
