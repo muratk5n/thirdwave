@@ -270,6 +270,43 @@ Name: primary_twh, dtype: int64
 
 <a name='usgasoline'/>
 
+### Individual Countries
+
+<a name='usenergy'/>
+
+```python
+u.country_bp("US")
+```
+
+```text
+             Year
+wind_twh     2021     1.654620
+solar_twh    2021     0.713243
+nuclear_twh  2021     3.533104
+hydro_twh    2021     1.111511
+oil_twh      2021    42.327231
+gas_twh      2021    35.659344
+coal_twh     2021    12.666405
+biogeo_twh   2021     0.989210
+ethanol_twh  2021     1.345333
+dtype: float64
+
+Production As Percentage of Consumption
+
+     Perc Commodity
+0  104.87       Oil
+1  113.00       Gas
+2  110.18      Coal
+
+Electricity 17.06 %
+
+Total
+
+2646.55 GW
+```
+
+
+
 ### US Retail Gasoline Prices
 
 ```python
@@ -348,6 +385,7 @@ Name: Close, dtype: float64
 ```python
 df = u.get_yahoofin(2015,"LBS=F"); df.plot(); plt.savefig('lumber.png')
 ```
+
 
 ![](lumber.png)
 
