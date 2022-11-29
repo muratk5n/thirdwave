@@ -37,10 +37,10 @@ Bosch: "By developing a hydrogen-compatible boiler, the developers at
 Bosch Thermotechnology are proving that boilers can be converted
 quickly and easily from the currently used natural gas to 100 percent
 hydrogen. A first demonstration boiler of the H2-ready boiler with a
-rated heat output of 30 kW has been in operation on a test stand since
-2017. The H2-ready boiler can initially run on conventional natural
-gas or a hydrogen admixture of up to 20 percent. As soon as the local
-network has been switched over to hydrogen, the boiler can be
+rated heat output of 30 kW has been in operation on a test stand since 2017. 
+The H2-ready boiler can initially run on conventional natural gas or
+a hydrogen admixture of up to 20 percent. As soon as the local network
+has been switched over to hydrogen, the boiler can be
 converted to full use of the green gas within an hour by making just a
 few adjustments...
 
