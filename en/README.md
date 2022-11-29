@@ -2,187 +2,121 @@
 
 ---
 
-Pinned Tweets
+"@TransportOnline@mastodon.nl
 
-<iframe width="340" src="https://www.youtube.com/embed/46y3FN4fKlE" title="E-Bikes, E-Scooters Injuries Multiplying" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[RR and] EasyJet conducts first test with hydrogen-powered aircraft engine"
 
----
+<img width="340" src="https://s3.masto.ai/cache/media_attachments/files/109/420/431/208/575/376/original/87060f64928b1a48.jpg"/>
 
-Bloomberg: "Biden Has ‘Almost Guaranteed’ Hydrogen’s Future..  The law
-[IRA], which provides producers with tax credits of as much as $3 a
-kilogram, 'almost guarantees that hydrogen will be an important energy
-vector going forward,'.. [said] head of industrial transition and
-clean fuels at Macquarie’s Green Investment Group"
+[[-]](https://www.transport-online.nl/site/147912/easyjet-performs-first-test-with-aero-engine-on-hydrogen/)
 
 ---
 
-Upstream: "Sinopec to back multi-billion dollar green hydrogen project
-harnessing wind power in northern China"
+Reuters: "Rolls-Royce successfully tests hydrogen-powered jet engine..
+Britain's Rolls-Royce (RR.L) said it has successfully run an aircraft
+engine on hydrogen, a world aviation first that marks a major step
+towards proving the gas could be key to decarbonising air travel. The
+ground test, using a converted Rolls-Royce AE 2100-A regional aircraft
+engine, used green hydrogen created by wind and tidal power, the
+British company said on Monday. Rolls and its testing programme
+partner easyJet are seeking to prove that hydrogen can safely and
+efficiently deliver power for civil aero engines"
 
 ---
 
-"@Hypx@mastodon.social
+Even the bitch car site admits this is big news.
 
-MTA to pilot \#hydrogen-powered buses in the Bronx"
-
----
-
-"@claesdevreese@mastodon.social
-
-Leading by example? The 🇪🇺is going full #mastodon.  Own instance for
-all institutions"
+[[-]](https://www.teslarati.com/rolls-royce-hydrogen-powered-aviation/)
 
 ---
 
-MD report, with code ref
-
-[[-]](2022/10/mastadon.html)
-
----
-
-Or 4.74 to be exact
-
-[[-]](https://www.cbsnews.com/news/six-degrees-of-separation-facebook-says-more-like-474/)
+Yahoo Finance: "Global power leader Cummins Inc. will design and
+manufacture [an] electrolyzer system for the first 20-megawatt green
+hydrogen facility in the Canadian province of Ontario"
 
 ---
 
-Crawl is done; I count 4601 servers and 7,824,386 users. 3 hops were
-enough, maybe we should have Three Degrees of Kevin Bacon.
+That looks massive. Is there anything CSP folks can learn from? They
+structured the whole thing differently, basically an entire building
+became a reflector.
+
+3K Celcius is a good chunk of energy to generate clean fuel.
+
+Wiki: "The solar furnace of Uzbekistan was built in 1981, and is
+located 45 kilometers away from Tashkent city. The furnace is the
+largest in Asia. It uses a curved mirror, or an array of mirrors,
+acting as a parabolic reflector, which can reach temperatures of up to
+3,000 degrees Celsius.  The place for the solar furnace of Uzbekistan
+was chosen carefully, because the sun shines there for 270 days a
+year"
+
+<img src="https://pbs.twimg.com/media/Fik0MapWAAEylH-?format=jpg&name=small"/>
 
 ---
 
-Just kidding it wasn't a wise man
+H2 View: "Loop Energy reports record fuel cell orders and revenues"
 
 ---
 
-Wise man said 'if one's code is not CPU bound one can start more
-processes than cores'
+"@garrygolden
+
+BEVs = bloated weight/cost
+
+H2 Fuel Cells = less cost to mass. Anyone reading industry news knows
+batteries are losing perceived advantages to fuel cell based EVs from
+trucks to ships to rail and yes passenger cars"
 
 ---
 
-"@Hy_Economy@mastodon.social
-
-Mecklenburg-Vorpommern, Germany, will invest 560 million in \#hydrogen - 
-this is more than the 500 million Bavaria plans to invest"
-
----
-
-"@Hy_Economy@mastodon.social
-
-Apus, Germany, develops a small \#hydrogen plane. The first prototype
-should perform test flights next year.
-
-Range: 800 km
-
-Expected time for commercialization: 4 years"
-
-[[-]](https://mastodon.ie/@Hy_Economy@mastodon.social/109401192156043941)
+TFI Global: "Belgium, a NATO member and a European ally, has blocked
+the UK’s AUKUS pact. Despite the fact that both Belgium and the UK are
+NATO members, a dispute has developed between the two nations over the
+transfer of crucial technology that is essential for sustaining the
+British nuclear deterrent"
 
 ---
 
-Traversal wld be breadth-first, check double visit of nodes.. Iteration
-count..? Probably [six is fine](https://pbs.twimg.com/media/FijVyYTXoAArlYU?format=jpg&name=small).
+WION: "Chevron to resume 'limited' energy production in Venezuela
+after years of sanctions"
 
 ---
 
-You could write a simple "crawler" probably that can hit all MD servers
-and get their info, collect it.
+Animated film *Superman: The Red Son*, also known as "the Soviet
+Superman", not bad for an anime... There's some (US) propaganda but
+not excessive. A good story overall. They had him speaking with a
+Russian accent that was amusing.
 
 ---
 
-```python
-response = requests.get(url) # details on specific host
-res = json.loads(response.text)
-res['stats'] 
-```
+"@DAlperovitch
 
-```text
-Out[1]: {'user_count': 880513, 'status_count': 43334732, 'domain_count': 35389}
-```
+Ukraine is firing 2-4k 155mm shells per day or 60-120k per month
+
+US can produce ~30k shells per month"
 
 ---
 
-All MD servers know about related servers, code below fetched that
-for one machine displayed few results.
+TASS: "Majority of NATO countries exhausted possibilities of arms
+supply to Ukraine"
 
 ---
 
-```python
-import requests, json
-url = "https://mastodon.social/api/v1/instance"
-response = requests.get(url + "/peers") 
-json.loads(response.text)[:4]
-```
-
-```text
-Out[1]: 
-['smgle.com',
- 'mstdn.nielniel.net',
- 'testdon00001.mamemo.online',
- 'lazybear.io']
-```
+"Tokyo Governor Yuriko Koike announced plans to build a hydrogen supply
+network of pipelines in the capital as an energy resource to cut down
+on greenhouse gas emissions. Koike made the pitch Nov. 8 at a meeting
+on “green hydrogen” during the COP27 summit in Egypt"
 
 ---
 
-Mastodon servers have REST APIs - easy to get info... Nice.
+"@H2Standard
 
----
+Toyota and Kawasaki are putting their minds together to find
+alternative ways to reduce carbon emissions.. they're developing an
+internal combustion engine that burns H2 as fuel"
 
+<img width="340" src="https://pbs.twimg.com/media/FiZTblNXgAAhzqe?format=jpg&name=small"/>
 
-"@gregeganSF@mathstodon.xyz
-
-'Research at Royal Perth Hospital has found that 90 per cent of people
-who believe they are allergic to penicillin are not.'"
-
----
-
-Arab News: "British aid worth hundreds of millions of pounds went
-toward funding police corruption in Afghanistan, according to a
-report"
-
----
-
-Politico.eu: "Furious EU countries rage over gas price cap proposal"
-
----
-
-The psyop has a rich white guy who was culturally Protestan (as most Americans are),
-to be seen as first Irish-Catholic President, read: a minority who was
-"representing", "taken from us much too early". Dems are made to
-weep after this symbol of diversity, follow its flashy image at the
-same time ensuring its centrist, rich guy policies are followed. [This photo](https://pbs.twimg.com/media/FimCFrjWIAMztMt?format=jpg&name=small)
-has the worst and second worst US presidents of modern times in a
-single frame, and that is by design. 
-
----
-
-".. ask what you can do for your country" translates to "dont ask for services
-from gov" (as Markey brilliantly [used](https://youtu.be/86-3yuzn5UU?t=156) in MA
-Senate race), "the rising tide lifts all boats" sounds like trickle-down economics
-(in fact some of the WH advisors at the time were actual [proponents](https://www.thedailystar.net/news-detail-126725)
-of the approach). JFK escalated the war in Vietnam, f--ked it all
-up in Cuba, and somehow shifted the blame *to the media* with another
-statemanly sounding proclamation. It all sounded aw so eloquent
-that the retro air is what people remember fondly, rather than
-the empty content of the statement itself.
-
----
-
-Dems are better off wout the adulation, staning for the Kennedys, it
-is holding them back. The soundbytes sound fine enough, but when you
-dissect 'the legacy', there isn't much there.
-
----
-
-TASS: "Odessa authorities approve demolition of monument to city's
-founder Catherine the Great"
-
----
-
-Anwar finally gets his chance.. Man it took a long time for this guy
-
-Al Jazeera: "Malaysia's Anwar gets to work.. Southeast Asian nation's
-new prime minister says he will govern for all"
+[[-]](http://bit.ly/2X5Jje3)
 
 ---
 

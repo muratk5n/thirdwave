@@ -36,10 +36,10 @@ u.boxofficemojo("Black Panther Wakanda Forever")
 ```text
 Out[1]: 
 {'Domestic Opening': '$181,339,761',
- 'Domestic': '$367,670,596',
- 'International': '$307,900,000',
- 'Worldwide Total': '$675,570,596',
- 'Release Date': 'September 23, 2022'}
+ 'Domestic': '$367,471,452',
+ 'International': '$308,564,937',
+ 'Worldwide Total': '$676,036,389',
+ 'Release Date': 'November 4, 2022'}
 ```
 
 
@@ -70,7 +70,7 @@ Out[1]: {'tomatometer score': 73, 'audience score': 59}
 
 ```python
 geo = [[46.65638330412107, 32.61676838804905]]
-u.sm_plot_ukr2('ukrdata/alt1-1123.csv','ukrdata/alt1-1115.csv',geo)
+u.sm_plot_ukr2('ukrdata/alt1-1129.csv','ukrdata/alt1-1115.csv',geo)
 plt.savefig('/tmp/out.png')
 ```
 
