@@ -87,7 +87,7 @@ Hechu'ghos!
 ---
 
 Anything can be string-pickled 🐍 For coding `base64.encodestring` on
-pickle.dumps`. For other direction `loads(base64.decodestring..)`.
+`pickle.dumps`. For other direction `loads(base64.decodestring..)`.
 `zlib` for compression.  There are some other details, but this is
 the gist.
 
