@@ -8,9 +8,6 @@ Pinned Tweet
 
 ---
 
-
----
-
 Great.. yes these are all major nodes in the drug smuggling [network](2019/05/drugs.html),
 especially Spain (due to its geo)
 
