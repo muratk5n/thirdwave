@@ -125,7 +125,7 @@ maintain a sense of its own impartiality... Rybar’s founder is a
 31-year-old military translator, Mikhail Zvinchuk. He is a former
 employee of the Defense Ministry’s press service. Born in Vladivostok,
 he studied at a military university in Moscow, specializing in
-Arabic. In 2015-17, Zvinchuk was employed at the Defense Ministry"
+Arabic"
 
 ---
 
