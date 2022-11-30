@@ -21,7 +21,7 @@ all institutions"
 
 MD report, with code ref
 
-[[-]](2022/10/mastodon.html)
+[[-]](../../2022/10/mastodon.html)
 
 ---
 
