@@ -102,18 +102,18 @@ Anything can be string-pickled 🐍
 
 ---
 
-Simple parallelizable NoSQL DB: Have N servers, on client calc i =
-(mod N) on key, go to host i. Simple load disribution. REST can
-provide CRUD API, serialize requests inside one server, storage is
-SQLite, seperate db for each host, objects are encoded, via
-`pickle.dumps` into string. Object lists are on sep table, list name
-is a col and references objects by key. Easy as Py.
+Simple scalable NoSQL DB: N servers, on client calc i = (mod N) on
+key, go to host i. Simple load disribution. REST can provide CRUD API,
+serialize requests inside one server, storage can be lite sql,
+seperate db for each host, objects are encoded via `pickle.dumps` into
+string. Lists are on sep table, list name is on one column obj
+references on another as key. Easy as Py.
 
 ---
 
 "@jcrabapple@dmv.community
 
-World's first test run of a #hydrogen jet engine is a success" via The Verge
+World's first test run of a \#hydrogen jet engine is a success" via The Verge
 
 [[-]](https://masto.ai/@jcrabapple@dmv.community/109432649450454795)
 
