@@ -24,10 +24,10 @@ plt.savefig('mort.png')
 ```
 
 ```text
-8/31/21    2.075917
-9/1/21     2.074744
-9/2/21     2.073132
-9/3/21     2.071545
+11/25/22    1.034779
+11/26/22    1.034415
+11/27/22    1.034074
+11/28/22    1.033569
 Name: deaths / 100 confirmed, dtype: float64
 ```
 
@@ -89,15 +89,40 @@ plt.savefig('US-deaths.png')
 
 ```text
 Date
-2022-01-31    2460.571429
-2022-02-01    2544.428571
-2022-02-02    2469.857143
-2022-02-03    2449.000000
-2022-02-04    2487.000000
+2022-11-24    357.571429
+2022-11-25    302.428571
+2022-11-26    301.000000
+2022-11-27    301.000000
+2022-11-28    313.285714
 Name: New deaths, dtype: float64
 ```
 
 ![](US-deaths.png)
+
+<a name='frdailydeath'/>
+
+FR Daily Deaths, 7-Day Moving Average
+
+```python
+import util, pandas as pd
+df = util.get_data_combined()
+df1 = df[(df['Country/Region']=='France')&(df.index > '2020-01-01')]
+df1['New deaths'] = df1['New deaths'].rolling(7).mean()
+print (df1['New deaths'].tail(5))
+df1['New deaths'].plot()
+```
+
+```text
+Date
+2022-11-24    68.857143
+2022-11-25    68.000000
+2022-11-26    68.000000
+2022-11-27    68.000000
+2022-11-28    61.857143
+Name: New deaths, dtype: float64
+Out[1]: <AxesSubplot:xlabel='Date'>
+```
+
 
 <a name='Rt'/>
 
@@ -124,11 +149,11 @@ plt.savefig('Rt-US.png')
 ```
 
 ```text
-354    1.291096
-355    1.379105
-356    1.278807
-357    1.273641
-358    1.310040
+691    0.971349
+692    0.856543
+693    0.851197
+694    0.868735
+695    0.946327
 Name: 1, dtype: float64
 ```
 
