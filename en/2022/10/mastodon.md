@@ -8,6 +8,20 @@ interact with each other. This is intended to give users the
 flexibility to select a node whose policies they prefer, but keep
 access to a larger social network.
 
+Stats
+
+```python
+import requests, json
+url = "https://datasci.social/api/v1/instance"
+response = requests.get(url) # details on specific host
+res = json.loads(response.text)
+res['stats'] 
+```
+
+```text
+Out[1]: {'user_count': 42, 'status_count': 485, 'domain_count': 8958}
+```
+
 Crawl Script
 
 It hits all MD servers and gets their stats (user count, creation date)

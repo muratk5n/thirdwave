@@ -22,6 +22,8 @@
 
 [H2 Production via Electrolysis](02/h2-electrolysis.html)
 
+[Application Domains for H2](02/h2-end-use.html)
+
 [H2 From Methane (Natural Gas)](02/h2-natural-gas.html)
 
 [Power Paste (Solid Magnesium Hydride)](02/h2-power-paste.html)
@@ -94,7 +96,7 @@
 
 [The Herouni Antenna, CMB](10/herouni.html)
 
-[Mastadon](10/mastadon.html)
+[Mastodon](10/mastodon.html)
 
 [A Nostalgia for Modernism](10/modernism-nostalgia-ozyurek.html)
 
