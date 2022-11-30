@@ -89,16 +89,12 @@ Hechu'ghos!
 
 ---
 
-For other direction `pickle.loads(base64.decodestring(b.encode('utf-8')))`.
-Works great. `zlib` for compression.
-
----
+Anything can be string-pickled 🐍
 
 For coding `base64.encodestring(pickle.dumps(a)).decode()` 
 
----
-
-Anything can be string-pickled 🐍
+For other direction `pickle.loads(base64.decodestring(b.encode('utf-8')))`.
+Works great. `zlib` for compression.
 
 ---
 
