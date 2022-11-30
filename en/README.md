@@ -96,7 +96,7 @@ the gist.
 Simple scalable NoSQL DB: N servers, on client calc i = (mod N) on
 key, go to host i. Simple load disribution. REST can provide CRUD API,
 serialize requests inside one server, storage can be lite sql,
-seperate db for each host, objects are encoded via `pickle.dumps` into
+seperate db for each host, objects are encoded via 'pickle" into
 string. Lists are on sep table, list name is on one column obj
 references on another as key. Easy as Py.
 
