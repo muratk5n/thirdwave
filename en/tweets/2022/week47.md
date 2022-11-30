@@ -41,7 +41,7 @@ solution developed by Alstom and ENGIE"
 
 Good one \#Bernoulli 
 
-[[-]](https://pbs.twimg.com/media/FiYmKd2XwAAdh8A?format=jpg&name=small)
+[[-]](twimg/FiYmKd2XwAAdh8A.jpg)
 
 ---
 
@@ -162,7 +162,7 @@ as Hajime Moriyasu's team secure 2-1 victory"
 
 Aha here is Messi
 
-[[-]](https://pbs.twimg.com/media/FiO6zAYX0AAVYfv?format=jpg&name=small)
+[[-]](twimg/FiO6zAYX0AAVYfv.jpg)
 
 ---
 
@@ -184,7 +184,7 @@ Everyone thinks their exchange is ok until they read the words
 
 That. Is. Funny 🤣 \#FTX
 
-[[-]](https://pbs.twimg.com/media/FgNixf0WAAAl36E?format=jpg&name=small)
+[[-]](twimg/FgNixf0WAAAl36E.jpg)
 
 ---
 
@@ -247,7 +247,7 @@ bankruptcy filing"
 
 \#Land \#Vote
 
-[[-]](https://pbs.twimg.com/media/FhcdAdrXEAI_lQU?format=jpg&name=small)
+[[-]](twimg/FhcdAdrXEAI_lQU.jpg)
 
 ---
 

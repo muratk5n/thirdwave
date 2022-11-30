@@ -44,7 +44,7 @@ if sys.argv[1] == 'pdf':
         os.chdir(retpath)
     
 if sys.argv[1] == 'twimg':
-    # python -u build.py twimg tweets/2022/week46.md
+    # python -u build.py twimg tweets/2022/week47.md
     content = open(sys.argv[2]).read()
     res = re.findall('https://pbs.twimg.com(.*?)["\)]',content)
     for x in res:
