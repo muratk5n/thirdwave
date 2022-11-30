@@ -8,115 +8,133 @@ Pinned Tweet
 
 ---
 
-"@TransportOnline@mastodon.nl
-
-[RR and] EasyJet conducts first test with hydrogen-powered aircraft engine"
-
-<img width="340" src="https://s3.masto.ai/cache/media_attachments/files/109/420/431/208/575/376/original/87060f64928b1a48.jpg"/>
-
-[[-]](https://www.transport-online.nl/site/147912/easyjet-performs-first-test-with-aero-engine-on-hydrogen/)
 
 ---
 
-Reuters: "Rolls-Royce successfully tests hydrogen-powered jet engine..
-Britain's Rolls-Royce (RR.L) said it has successfully run an aircraft
-engine on hydrogen, a world aviation first that marks a major step
-towards proving the gas could be key to decarbonising air travel. The
-ground test, using a converted Rolls-Royce AE 2100-A regional aircraft
-engine, used green hydrogen created by wind and tidal power, the
-British company said on Monday. Rolls and its testing programme
-partner easyJet are seeking to prove that hydrogen can safely and
-efficiently deliver power for civil aero engines"
+Great.. yes these are all major nodes in the drug smuggling [network](2019/05/drugs.html),
+especially Spain (due to its geo)
+
+F24: "Police bust cocaine 'super-cartel' in Europe and Dubai.. The
+international operation.. seized 30 tonnes of the drug and led to
+arrests in Belgium, France, the Netherlands and Spain, the European
+Union's police agency said in a statement"
 
 ---
 
-Yahoo Finance: "Global power leader Cummins Inc. will design and
-manufacture [an] electrolyzer system for the first 20-megawatt green
-hydrogen facility in the Canadian province of Ontario"
+H2 View: "Leading bus manufacturer Wrightbus’s fleet of hydrogen
+fuel-cell buses have travelled a staggering 1.5 million miles since
+first entering service....  “We are immensely proud to be one of the
+country’s leaders in the UK’s hydrogen industry - and our StreetDeck
+Hydroliner is the world’s first hydrogen powered double deck bus, so
+this hydrogen milestone is particularly pleasing for us"
 
 ---
 
-That looks massive. Is there anything CSP folks can learn from? They
-structured the whole thing differently, basically an entire building
-became a reflector.
+"@davidzipper@mastodon.social
 
-3K Celcius is a good chunk of energy to generate clean fuel with.
+Oversized EVs waste energy (bc of giant batteries) and also endanger
+other road users.
 
-Wiki: "The solar furnace of Uzbekistan was built in 1981, and is
-located 45 kilometers away from Tashkent city. The furnace is the
-largest in Asia. It uses a curved mirror, or an array of mirrors,
-acting as a parabolic reflector, which can reach temperatures of up to
-3,000 degrees Celsius.  The place for the solar furnace of Uzbekistan
-was chosen carefully, because the sun shines there for 270 days a
-year"
-
-<img src="https://pbs.twimg.com/media/Fik0MapWAAEylH-?format=jpg&name=small"/>
+To address EV car bloat, Norwegian officials have proposed a
+weight-based fee of NOK 12 ($1.10)/kilo over 500 kilos"
 
 ---
 
-H2 View: "Loop Energy reports record fuel cell orders and revenues"
+H2 Fuel News: "Australia moves ahead with 'super' renewable H2 hub"
 
 ---
 
-"@garrygolden
+Jay Leno got burned by gasoline fire..? Gasoline is flammable, not as
+bad as lion batteries but still dangerous.
 
-BEVs = bloated weight/cost
-
-H2 Fuel Cells = less cost to mass. Anyone reading industry news knows
-batteries are losing perceived advantages to fuel cell based EVs from
-trucks to ships to rail and yes passenger cars"
+[[-]](2022/02/h2-safety.html)
 
 ---
 
-TFI Global: "Belgium, a NATO member and a European ally, has blocked
-the UK’s AUKUS pact. Despite the fact that both Belgium and the UK are
-NATO members, a dispute has developed between the two nations over the
-transfer of crucial technology that is essential for sustaining the
-British nuclear deterrent"
+♪ Satyam ♬ Shivam ♬ sundaram...
 
 ---
 
-WION: "Chevron to resume 'limited' energy production in Venezuela
-after years of sanctions"
+Thievery Corporation - Satyam Shivam Sundaram (Featuring Gunjan) \#music
+
+[[-]](https://youtu.be/yO9ULEVR-kc)
 
 ---
 
-Animated film *Superman: The Red Son*, also known as "the Soviet
-Superman", not bad for an anime... There's some (US) propaganda but
-not excessive. A good story overall. They had him speaking with a
-Russian accent that was amusing.
+H-Tec Systems presents scalable Hydrogen Cube System..The company
+H-Tec Systems from Augsburg presented the Hydrogen Cube System, HCS
+for short, to a wider specialist audience at the Hanover Fair 2022...
+
+The Cubes are available both as a closed container solution for
+outdoor installation and open for indoor installation. They are
+equipped with 18 PEM stacks S450 and integrated process water
+treatment and power supply...
+
+<img width="340" src="https://i0.wp.com/www.hzwei.info/wp-content/uploads/2022/11/4-H-TEC_HCS_5-gross.jpg"/>
+
+Several 2 MW cubes of this system can be combined to form a
+multi-megawatt system. A system that is intended to achieve 50 MW in
+the long term can also be designed in this way. According to H-Tec
+Systems, the cubes achieve a system efficiency of 74 percent. They are
+equipped with an integrated process water treatment and power
+supply. An HCS system with five units, i.e. with an electrolysis
+capacity of 10 MW, can therefore produce 4,500 kg of H 2 per day. That
+makes 40 to 50 tank fillings for trucks or buses.
+
+[[-]](https://www.hzwei.info/blog/2022/11/27/h-tec-systems-stellt-skalierbares-hydrogen-cube-system-vor/)
 
 ---
 
-"@DAlperovitch
-
-Ukraine is firing 2-4k 155mm shells per day or 60-120k per month
-
-US can produce ~30k shells per month"
+Hechu'ghos!
 
 ---
 
-TASS: "Majority of NATO countries exhausted possibilities of arms
-supply to Ukraine"
+For other direction `pickle.loads(base64.decodestring(b.encode('utf-8')))`.
+Works great. `zlib` for compression.
 
 ---
 
-"Tokyo Governor Yuriko Koike announced plans to build a hydrogen supply
-network of pipelines in the capital as an energy resource to cut down
-on greenhouse gas emissions. Koike made the pitch Nov. 8 at a meeting
-on “green hydrogen” during the COP27 summit in Egypt"
+For coding `base64.encodestring(pickle.dumps(a)).decode()` 
 
 ---
 
-"@H2Standard
+Anything can be string-pickled 🐍
 
-Toyota and Kawasaki are putting their minds together to find
-alternative ways to reduce carbon emissions.. they're developing an
-internal combustion engine that burns H2 as fuel"
+---
 
-<img width="340" src="https://pbs.twimg.com/media/FiZTblNXgAAhzqe?format=jpg&name=small"/>
+Simple parallelizable NoSQL DB: Have N servers, on client calc i =
+(mod N) on key, go to host i. Simple load disribution. REST can
+provide CRUD API, serialize requests inside one server, storage is
+SQLite, seperate db for each host, objects are encoded, via
+`pickle.dumps` into string. Object lists are on sep table, list name
+is a col and references objects by key. Easy as Py.
 
-[[-]](http://bit.ly/2X5Jje3)
+---
+
+"@jcrabapple@dmv.community
+
+World's first test run of a #hydrogen jet engine is a success" via The Verge
+
+[[-]](https://masto.ai/@jcrabapple@dmv.community/109432649450454795)
+
+---
+
+The Bell: "Unmasking Russia’s influential pro-war ‘Rybar’ Telegram
+channel.. Although Rybar is openly pro-Russian, it works hard to
+maintain a sense of its own impartiality... Rybar’s founder is a
+31-year-old military translator, Mikhail Zvinchuk. He is a former
+employee of the Defense Ministry’s press service. Born in Vladivostok,
+he studied at a military university in Moscow, specializing in
+Arabic. In 2015-17, Zvinchuk was employed at the Defense Ministry"
+
+---
+
+Makes sense; if Columbia wants to export clean fuel they would need
+tech like LOHC.
+
+"@hydrogenLOHC
+
+Colombia was our guest in [Hydrogenious headquarters] Erlangen"
 
 ---
 

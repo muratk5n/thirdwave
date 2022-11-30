@@ -52,3 +52,12 @@ Run Low"
 
 UK Defence Journal: "Russian long-range missile stock 'limited' say Britain"
 
+October
+
+Politico: Russia is running short of long-range missiles, say Western officials
+
+November
+
+Kyiv Post: Missile Shortage Hampers Further Rusian Strike
+
+
