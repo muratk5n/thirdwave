@@ -8,6 +8,8 @@ Pinned Tweet
 
 ---
 
+Snake oil salesman everywhere
+
 Not Even Wrong: "This morning Quanta Magazine informs us that
 Physicists Create a Wormhole Using a Quantum Computer..  The two
 senior physicists behind this, Joe Lykken and Maria Spiropulu, have
