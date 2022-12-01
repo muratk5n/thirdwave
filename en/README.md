@@ -56,7 +56,8 @@ For failure of detecting FTX fail look no further than
 
 ---
 
-Still zero-covid cannot go on forever; with vax help shld be doable.
+Still zero-covid cannot go on forever; with vax help CH shld be
+able to gradually get out of it, right?
 
 First Post: "President Xi Jinping fears that a relaxed policy will
 lead to more fatalities among [the rural folk].. Close to 20% of
