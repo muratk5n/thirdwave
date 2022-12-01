@@ -36,7 +36,7 @@ H2 Fuel News: "Australia moves ahead with 'super' renewable H2 hub"
 Jay Leno got burned by gasoline fire..? Gasoline is flammable, not as
 bad as lion batteries but still dangerous.
 
-[[-]](2022/02/h2-safety.html)
+[[-]](../../2022/02/h2-safety.html)
 
 ---
 
