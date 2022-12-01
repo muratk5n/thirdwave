@@ -8,124 +8,132 @@ Pinned Tweet
 
 ---
 
-Great.. yes these are all major nodes in the drug smuggling [network](2019/05/drugs.html),
-especially Spain (due to its geo)
-
-F24: "Police bust cocaine 'super-cartel' in Europe and Dubai.. The
-international operation.. seized 30 tonnes of the drug and led to
-arrests in Belgium, France, the Netherlands and Spain, the European
-Union's police agency said in a statement"
-
----
-
-H2 View: "Leading bus manufacturer Wrightbus’s fleet of hydrogen
-fuel-cell buses have travelled a staggering 1.5 million miles since
-first entering service....  “We are immensely proud to be one of the
-country’s leaders in the UK’s hydrogen industry - and our StreetDeck
-Hydroliner is the world’s first hydrogen powered double deck bus, so
-this hydrogen milestone is particularly pleasing for us"
+Not Even Wrong: "This morning Quanta Magazine informs us that
+Physicists Create a Wormhole Using a Quantum Computer..  The two
+senior physicists behind this, Joe Lykken and Maria Spiropulu, have
+histories that go way back of successfully promoting to the press
+nonsense about exotic space-time structures appearing in experiments
+that have nothing to do with them... The claim that “Physicists Create
+a Wormhole” is just complete bullshit, with the huge campaign to
+mislead the public about this a disgrace, highly unhelpful for the
+credibility of physics research in particular and science in general"
 
 ---
 
-"@davidzipper@mastodon.social
-
-Oversized EVs waste energy (bc of giant batteries) and also endanger
-other road users.
-
-To address EV car bloat, Norwegian officials have proposed a
-weight-based fee of NOK 12 ($1.10)/kilo over 500 kilos"
+BTW gaseous plasmas cannot produce a Planck spectrum either, but we
+see one for the Sun, so the Sun cannot be gaseous plasma. Cannot be
+compressed, therefore cannot collapse into a black hole.
 
 ---
 
-H2 Fuel News: "Australia moves ahead with 'super' renewable H2 hub"
+Penrose says when you plot CMB intensity against each frequency you
+get Planck blackbody curve that means early universe must have had
+thermal equilibrium. But thermal equilibrium means by definition
+maximum random state... Wasn't the universe supposed to *toward*
+disorder, and not start from one?
+
+<img width="340" src="https://pbs.twimg.com/media/Fi5am2kXwAAEHF-?format=png&name=small"/>
 
 ---
 
-Jay Leno got burned by gasoline fire..? Gasoline is flammable, not as
-bad as lion batteries but still dangerous.
-
-[[-]](2022/02/h2-safety.html)
+This kid had an interview with Cuck Todd being treated like finance
+genius. How did that happen?
 
 ---
 
-♪ Satyam ♬ Shivam ♬ sundaram...
+It was the same issue with Theranos, the board was stuffed with
+connected people, outsiders assumed there is something good going
+there.. Then bust. A few people in the circle failed to see, more
+people rushed in. SBF father is a Stanford law professor, that weirdo
+chick Ellison's parents were MIT econ connected to Gary Gennsler (of
+SEC). People assumed FTX was legit because of its connections. They
+assumed wrong.
 
 ---
 
-Thievery Corporation - Satyam Shivam Sundaram (Featuring Gunjan) \#music
-
-[[-]](https://youtu.be/yO9ULEVR-kc)
-
----
-
-H-Tec Systems presents scalable Hydrogen Cube System..The company
-H-Tec Systems from Augsburg presented the Hydrogen Cube System, HCS
-for short, to a wider specialist audience at the Hanover Fair 2022...
-
-The Cubes are available both as a closed container solution for
-outdoor installation and open for indoor installation. They are
-equipped with 18 PEM stacks S450 and integrated process water
-treatment and power supply...
-
-<img width="340" src="https://i0.wp.com/www.hzwei.info/wp-content/uploads/2022/11/4-H-TEC_HCS_5-gross.jpg"/>
-
-Several 2 MW cubes of this system can be combined to form a
-multi-megawatt system. A system that is intended to achieve 50 MW in
-the long term can also be designed in this way. According to H-Tec
-Systems, the cubes achieve a system efficiency of 74 percent. They are
-equipped with an integrated process water treatment and power
-supply. An HCS system with five units, i.e. with an electrolysis
-capacity of 10 MW, can therefore produce 4,500 kg of H 2 per day. That
-makes 40 to 50 tank fillings for trucks or buses.
-
-[[-]](https://www.hzwei.info/blog/2022/11/27/h-tec-systems-stellt-skalierbares-hydrogen-cube-system-vor/)
+For failure of detecting FTX fail look no further than
+"connectedness".  
 
 ---
 
-Hechu'ghos!
+Still zero-covid cannot go on forever; with vax help shld be doable.
+
+First Post: "President Xi Jinping fears that a relaxed policy will
+lead to more fatalities among [the rural folk].. Close to 20% of
+China’s population is over 60, and the percentage is higher in rural
+areas where health services are poor"
 
 ---
 
-Anything can be string-pickled 🐍 For coding `base64.encodestring` on
-`pickle.dumps`. For other direction `loads(base64.decodestring..)`.
-`zlib` for compression.  There are some other details, but this is
-the gist.
+IRA is about to trigger a trade-war with the EU?
 
 ---
 
-Simple scalable NoSQL DB: N servers, on client calc i = (mod N) on
-key, go to host i. Simple load disribution. REST can provide CRUD API,
-serialize requests inside one server, storage can be lite sql,
-seperate db for each host, objects are encoded via 'pickle" into
-string. Lists are on sep table, list name is on one column obj
-references on another as key. Easy as Py.
+Arab News: "Leading media outlets urge US to end prosecution of Julian Assange"
 
 ---
 
-"@jcrabapple@dmv.community
-
-World's first test run of a \#hydrogen jet engine is a success" via The Verge
-
-[[-]](https://masto.ai/@jcrabapple@dmv.community/109432649450454795)
-
----
-
-The Bell: "Unmasking Russia’s influential pro-war ‘Rybar’ Telegram
-channel.. Although Rybar is openly pro-Russian, it works hard to
-maintain a sense of its own impartiality... Rybar’s founder is a
-31-year-old military translator, Mikhail Zvinchuk. He is a former
-employee of the Defense Ministry’s press service. Born in Vladivostok,
-he studied at a military university in Moscow, specializing in
-Arabic"
+If voters were so smart, voted on policy and had a 20/20 vision into a
+politician's ability, endorsements wouldn't have mattered. But they
+do. If a popular politician is standing next to another politician the
+popularity rubs off. That means [you](tweets/2021/you.png) the voter
+cannot truly be in charge.
 
 ---
 
-Makes sense; if Columbia wants to export clean fuel they would need
-tech like LOHC.
+H2 Central: "Countries rich in hydrocarbons are among those that have
+the greatest potential for meeting global clean hydrogen demand due to
+existing infrastructure, says a new [McKinsey study](https://www.mckinsey.com/industries/oil-and-gas/our-insights/the-clean-hydrogen-opportunity-for-hydrocarbon-rich-countries)"
 
-"@hydrogenLOHC
+---
 
-Colombia was our guest in [Hydrogenious headquarters] Erlangen"
+H2 Central: "Northwest Europe Ammonia to Hydrogen Production Costs
+Fall Below €10/Kg of Hydrogen"
+
+---
+
+"New Sulfur-Based Solar Reactor Makes Cheap Green Hydrogen.. Extracting
+hydrogen from sulfuric acid with solar uses much less energy than
+water electrolysis.. This SO2-depolarised electrolyzer only requires
+about a seventh of the electrical energy of conventional water
+electrolysis, so this method can produce about 50% more hydrogen with
+the same solar input"
+
+[[-]](https://www.solarpaces.org/solar-hydrogen-sulfuric-acid-copper-market/)
+
+---
+
+"@ApolloEngineer
+
+We are delighted to announce a major contract award to provide
+feasibility engineering to a proposed hydrogen pipeline from Pembroke
+to the Swansea Bay area"
+
+---
+
+I never understood the itching for war mentality on the Ukranian side
+vis-a-vis Russia. "The other side" of that potential conflict (which
+became real) had an apparatus that readied itself for decades to go
+toe-to-toe with another superpower. Even with reduced capacity
+Russia's weapons manufacturing, supply lines, preparedness,
+stockpiles, the whole thing would be at levels for much greater
+conflict and all that preparedness would be dumped *on your head* if
+you went to war with them, which is what Ukraine did.
+
+---
+
+"@EnergyNews_Biz
+
+Manchester Airport plans direct hydrogen fuel pipeline connection"
+
+---
+
+"@EngNewsZA
+
+South Africa unveils R300bn green-hydrogen pipeline as its states
+ambition to be ‘destination of choice’"
+
+[[-]](http://ow.ly/JFFZ50LPUP5)
 
 ---
 

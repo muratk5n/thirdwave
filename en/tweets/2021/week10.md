@@ -378,7 +378,7 @@ Marx missed that same point about the Second Wave; thinking
 
 People power.. Sure..
 
-Remember 2006 TIME [Person of the Year](twimg/Ev3M9t0WgAAdkKv.png)?
+Remember 2006 TIME [Person of the Year](you.png)?
 
 And what happened since? Think grasshopper.
 
