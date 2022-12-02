@@ -84,18 +84,18 @@ pg. 30]
 
 [DOE](https://www.energy.gov/eere/fuelcells/fuel-cells)
 
-[Fuel-cells] produce electricity and heat as long as fuel is
+'[Fuel-cells] produce electricity and heat as long as fuel is
 supplied. A fuel cell consists of two electrodes—a negative electrode
 (or anode) and a positive electrode (or cathode)—sandwiched around an
 electrolyte. A fuel, such as hydrogen, is fed to the anode, and air is
 fed to the cathode. In a hydrogen fuel cell, a catalyst at the anode
 separates hydrogen molecules into protons and electrons, which take
 different paths to the cathode. The electrons go through an external
-circuit, creating a flow of electricity.
+circuit, creating a flow of electricity"
 
-As H2 as fuel is weight efficient, we can find application of
-fuel-cells anywhere ranging from powering cars to powering freight
-ships or trains.
+As H2 is weight efficient, there are applications for it through
+fuel-cells anywhere from powering cars to powering freight ships, or
+trains.
 
 The famous Hyundai Nexo vehicle is powered by 120 KW FC, its fuel is
 stored in three high-pressure fuel tanks packaged in the rear, with a
