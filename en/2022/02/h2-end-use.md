@@ -28,8 +28,8 @@ steam emissions"
 ### Heating
 
 Wherever natural gas is fed into homes and buildings for heating
-purposes, H2 can replace it, sometimes even through dual-use
-boilers. The boiler sold by Worcester Bosch is such a solution [2]
+purposes, H2 can replace it, sometimes through dual-use boilers. A
+boiler sold by Worcester Bosch is such a solution [2]
 
 <img width="340" src="worchester1.jpeg"/>
 
