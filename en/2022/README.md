@@ -94,8 +94,6 @@
 
 [Blowing the Fuse](10/grid-fuse.html)
 
-[The Herouni Antenna, CMB](10/herouni.html)
-
 [Mastodon](10/mastodon.html)
 
 [A Nostalgia for Modernism](10/modernism-nostalgia-ozyurek.html)
@@ -103,6 +101,8 @@
 [QED](10/qed.html)
 
 [Quantum "Supremacy"?](10/quantum-computing.html)
+
+[The Big Bang](10/the-big-bang.html)
 
 [World Trade, Import/Exports](10/world-commerce.html)
 
