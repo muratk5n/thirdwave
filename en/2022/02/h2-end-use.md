@@ -53,7 +53,7 @@ indefinitely, thus ensuring constant availability for users. Green
 hydrogen is climate-neutral and therefore has the potential to lead
 the heating sector into a green future"
 
-H2 based heating is efficient as H2 high-heatinv value is more than
+H2 based heating is efficient as H2 high-heating value is more than
 twice that of natgas.
 
 Boiler Hut: "1kg of hydrogen releases the same energy as 2.8kg of
