@@ -117,12 +117,6 @@ bought regularly, through pipelines. H2 can even be generated from
 rooftop solar and be converted into hydrogen. Tanks are compressed H2,
 a product by Lavo [7] stores H2 as metallic hydride. 
 
-<a name='powerturbine'/>
-
-### Power via Turbines
-
-TBD
-
 <a name='combust'/>
 
 ### Combustion Engines
@@ -142,6 +136,37 @@ toughest motorsports events: The NAPAC Fuji Super TEC 24 Hours"
 Motor Authority: "Ford Patents Hydrogen-Fueled Combustion Engine"
 
 Reuters: "Cummins, Tata Motors team up for hydrogen-powered engines"
+
+<a name='powerturbine'/>
+
+### Power via Turbines
+
+Combustion can be used inside an engine or in a turbine to generate
+power. There is technology that can use partial H2 along with natural
+gas, or purely H2 for this purpose. GE has working technology in this
+space,
+
+H2 Fuel News: "Mitsubishi Power, Georgia Power and EPRI have completed
+the largest H2 carbon reduction mix...  The hydrogen fuel blending
+took place at the Plant McDonough-Atkinson owned by Georgia Power, in
+Smyrna, Georgia. The combination took place as a part of a
+demonstration project. It was the first to have validated a 20 percent
+H2 blending on an advanced class gas turbine in North
+America. Moreover, it also represents the largest of its kind to date,
+with a 20 percent mix, which reduces the carbon emissions by 7 percent
+when compared with natural gas alone"
+
+H2 View: "GE commences assessment to introduce.. hydrogen blends into
+Uniper’s Kent power station.. [the] plant assessment..  will seek to
+develop detailed solutions to enable the 1,365MW combined-cycle gas
+turbine (CCGT) plant to use blends of hydrogen up to 40% by volume"
+
+H2 Fuel News: "[New York power authority] may have found a feasible
+way to lower carbon emissions... A recent hydrogen blending study
+found that carbon dioxide emissions (CO2) lowered by approximately 14
+percent when 35 percent of hydrogen by volume was mixed with natural
+gas to produce electricity.. blending project was carried out on an
+LM6000 GE gas turbine"
 
 ### Space
 
