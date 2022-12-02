@@ -82,11 +82,40 @@ pg. 30]
 
 ### Power via Fuel-Cells
 
-TBD
+[DOE](https://www.energy.gov/eere/fuelcells/fuel-cells)
+
+[Fuel-cells] produce electricity and heat as long as fuel is
+supplied. A fuel cell consists of two electrodes—a negative electrode
+(or anode) and a positive electrode (or cathode)—sandwiched around an
+electrolyte. A fuel, such as hydrogen, is fed to the anode, and air is
+fed to the cathode. In a hydrogen fuel cell, a catalyst at the anode
+separates hydrogen molecules into protons and electrons, which take
+different paths to the cathode. The electrons go through an external
+circuit, creating a flow of electricity.
+
+As H2 as fuel is weight efficient, we can find application of
+fuel-cells anywhere ranging from powering cars to powering freight
+ships or trains.
+
+The famous Hyundai Nexo vehicle is powered by 120 KW FC, its fuel is
+stored in three high-pressure fuel tanks packaged in the rear, with a
+combined 156-litre capacity and the ability to hold up to 6.33kg of
+hydrogen at a pressure of 700 bar.
 
 <img width="340" src="mirai1.jpg"/>
 
-<img width="340" src="fuelcell1.jpg"/>
+A planned cargo ship [6] will have 2.5 MW fuel-cells supplied by
+liquid hydrogen tanks of 70 tons, be able to carry 240 TEUs with
+deadweight of 5,000 tons.
+
+Homes can utilize H2 based fuel-cells to power the entire household.
+A 2 KW fuel-cell system will use up 80 kg of H2 annually, and is more
+than enough to power the household. Note that as a by-product
+fuel-cells also generate heat which can be used as winter time
+heating. The hydrogen can be suplied as seperate canisters to be
+bought regularly, through pipelines. H2 can even be generated from
+rooftop solar and be converted into hydrogen. Tanks are compressed H2,
+a product by Lavo [7] stores H2 as metallic hydride. 
 
 <a name='powerturbine'/>
 
@@ -111,3 +140,8 @@ References
 [4] [Hydrogenious, PDF](https://arpa-e.energy.gov/sites/default/files/Schneider_HydrogeniousTechnologies_TransportationFuels_Workshop_FINAL.pdf)
 
 [5] [Boiler Hut](https://boilerhut.co.uk/boiler-guides/hydrogen-boiler-explained/)
+
+[6] [Energy Observer 2](https://www.offshore-energy.biz/energy-observer-unveils-lh2-powered-cargo-ship-concept/)
+
+[7] [LAVO](https://www.h2networks.com.au/pdf/Small-Scale-LAVO-Residential-Unit-Brochure.pdf)
+

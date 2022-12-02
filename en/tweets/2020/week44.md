@@ -214,7 +214,7 @@ From their brochure
 
 <img width="340" src="twimg/Eleuf8QXYAAzYMR.jpg"/>
 
-[Link](https://lavo.com.au/wp-content/uploads/2020/10/LAVO%E2%84%A2-Residential-Unit-Brochure.pdf)
+[Link](https://www.h2networks.com.au/pdf/Small-Scale-LAVO-Residential-Unit-Brochure.pdf)
 
 ---
 
