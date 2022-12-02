@@ -63,8 +63,7 @@ Heat By-Product from Fuel-Cell
 
 Fuel-cells generate heat as a by-product as they generate electricity
 from H2. This heat can be harnessed to heat homes, businesses,
-so-called CHP, combined heat and power products essentially perform
-this function. From a [product](https://www.inhouse-engineering.de/en/fuel-cell/chp/) flyer:
+through a method called CHP, combined heat and power. From a [product](https://www.inhouse-engineering.de/en/fuel-cell/chp/) flyer:
 "[We can] use a combined heat and power unit with a fuel cell to
 supply you with electrical and thermal energy. Our combined heat and
 power station (CHP) inhouse5000+ based on a PEM fuel cell is such a
