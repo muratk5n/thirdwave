@@ -8,135 +8,122 @@ Pinned Tweet
 
 ---
 
-Snake oil salesman everywhere
 
-Not Even Wrong: "This morning Quanta Magazine informs us that
-Physicists Create a Wormhole Using a Quantum Computer..  The two
-senior physicists behind this, Joe Lykken and Maria Spiropulu, have
-histories that go way back of successfully promoting to the press
-nonsense about exotic space-time structures appearing in experiments
-that have nothing to do with them... The claim that “Physicists Create
-a Wormhole” is just complete bullshit, with the huge campaign to
-mislead the public about this a disgrace, highly unhelpful for the
-credibility of physics research in particular and science in general"
+EU-Africa-Asia as a contiguous block of landmass will likely become a
+superpower, and one day, through ports in West Africa, will invade United
+States of America.
 
 ---
 
-BTW gaseous plasmas cannot produce a Planck spectrum either, but we
-see one for the Sun, so the Sun cannot be gaseous plasma. Cannot be
-compressed, therefore cannot collapse into a black hole.
+Express train from China to Germany - get a load of that shit
+
+"[Germany] Duisport celebrated the arrival of the first trans-Eurasian
+freight train to reach its facility in western Germany that had
+followed a fixed timetable on November 7. The train from Xi’an, China,
+completed the 9908km journey in just 10 days"
+
+[[-]](https://www.railjournal.com/freight/china-europe-express-train-reaches-germany-in-10-days/)
 
 ---
 
-Penrose says when you plot CMB intensity against each frequency you
-get Planck blackbody curve that means early universe must have had
-thermal equilibrium. But thermal equilibrium means by definition
-maximum random state... Wasn't the universe supposed to *toward*
-disorder, and not start from one? 
-
-<img width="340" src="https://pbs.twimg.com/media/Fi5am2kXwAAEHF-?format=png&name=small"/>
+EU-China relationship makes sense; inners unite.
 
 ---
 
-This kid had an interview with Cuck Todd being treated like finance
-genius. How did that happen?
+The papers on measuring state capacity empirically have good gems in
+them... The polsci comes through clearer because it needs to be used
+to create an empirical measure. The paper below was a good read;
+absolutely right on Guevera and Bolivia.
+
+[[-]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1450586)
 
 ---
 
-It was the same issue with Theranos, the board was stuffed with
-connected people, outsiders assumed there is something good going
-there.. Then bust. A few people in the circle failed to see, more
-people rushed in. SBF father is a Stanford law professor, that weirdo
-chick Ellison's parents were MIT econ connected to Gary Gennsler (of
-SEC). People assumed FTX was legit because of its connections. They
-assumed wrong.
+New research: Desalination and electrolysis at the same time \#China
+
+[[-]](https://arstechnica.com/science/2022/11/waterproof-clothing-concept-used-to-make-hydrogen-from-seawater/)
 
 ---
 
-For failure of detecting FTX fail look no further than
-"connectedness".  
+"@KadriSimson@respublicae.eu
+
+Historic day for \#EU- \#Japan energy partnership: we signed w/
+Minister Nishimura a Memorandum of Cooperation on #hydrogen, to boost
+innovation & help create a market for this fuel of the future"
+
+<img width="340" src="https://s3.masto.ai/cache/media_attachments/files/109/444/155/307/143/870/original/e892c7c7b3fdf166.jpg"/>
 
 ---
 
-Still zero-covid cannot go on forever; with vax help CH shld be
-able to gradually get out of it, right?
+You axed and you shall receive homie
 
-First Post: "President Xi Jinping fears that a relaxed policy will
-lead to more fatalities among [the rural folk].. Close to 20% of
-China’s population is over 60, and the percentage is higher in rural
-areas where health services are poor"
+[[-]](2022/02/h2-end-use.html)
 
 ---
 
-IRA is about to trigger a trade-war with the EU?
+What are the application areas for H2? :)
 
 ---
 
-Arab News: "Leading media outlets urge US to end prosecution of Julian Assange"
+Brother Hakeem has good backing.. the major one being from "South
+Carolina", from you-know-who
+
+WION: "Rep. Hakeem Jeffries has been elected to succeed Nancy Pelosi
+as leader of the Democrats in the House next year"
 
 ---
 
-If voters were so smart, voted on policy and had a 20/20 vision into a
-politician's ability, endorsements wouldn't have mattered. But they
-do. If a popular politician is standing next to another politician the
-popularity rubs off. That means [you](tweets/2021/you.png) the voter
-cannot truly be in charge.
+Al Monitor: "Saudi Arabia announces new natural gas discoveries"
 
 ---
 
-H2 Central: "Countries rich in hydrocarbons are among those that have
-the greatest potential for meeting global clean hydrogen demand due to
-existing infrastructure, says a new [McKinsey study](https://www.mckinsey.com/industries/oil-and-gas/our-insights/the-clean-hydrogen-opportunity-for-hydrocarbon-rich-countries)"
+H2 Fuel News: "First hydrogen freight train to be used by Nestlé
+Waters France"
 
 ---
 
-H2 Central: "Northwest Europe Ammonia to Hydrogen Production Costs
-Fall Below €10/Kg of Hydrogen"
+Tesla Battery Swap Fraud
+
+[[-]](https://gotmusked.com/content/tesla-battery-swap-fraud/)
 
 ---
 
-"New Sulfur-Based Solar Reactor Makes Cheap Green Hydrogen.. Extracting
-hydrogen from sulfuric acid with solar uses much less energy than
-water electrolysis.. This SO2-depolarised electrolyzer only requires
-about a seventh of the electrical energy of conventional water
-electrolysis, so this method can produce about 50% more hydrogen with
-the same solar input"
+"@CoinDesk
 
-[[-]](https://www.solarpaces.org/solar-hydrogen-sulfuric-acid-copper-market/)
+Maersk and IBM will wind down their global shipping blockchain
+TradeLens after deeming the project a commercial failure"
 
 ---
 
-"@ApolloEngineer
-
-We are delighted to announce a major contract award to provide
-feasibility engineering to a proposed hydrogen pipeline from Pembroke
-to the Swansea Bay area"
-
----
-
-I never understood the itching for war mentality on the Ukranian side
-vis-a-vis Russia. "The other side" of that potential conflict (which
-became real) had an apparatus that readied itself for decades to go
-toe-to-toe with another superpower. Even with reduced capacity
-Russia's weapons manufacturing, supply lines, preparedness,
-stockpiles, the whole thing would be at levels for much greater
-conflict and all that preparedness would be dumped *on your head* if
-you went to war with them, which is what Ukraine did.
+Green tech suffers from the same problem, the problem of connectedness
+pull a herd towards them. A single WH admin makes a mistake betting on
+battery shit tech, a wave of morons rush in as if the tech is a viable
+option. They rush in wout checking, without due diligence, without an
+iota of former thought. This is how tech fashions occur in America -
+the land of, yes genuine enterpreneurship, but also a lot of snake
+oil.
 
 ---
 
-"@EnergyNews_Biz
+"@Hy_Economy@mastodon.social
 
-Manchester Airport plans direct hydrogen fuel pipeline connection"
+Honda will launch a fuel cell electric vehicle in 2024 based on its
+bestselling CR-V crossover"
 
 ---
 
-"@EngNewsZA
+"@Hy_Economy@mastodon.social
 
-South Africa unveils R300bn green-hydrogen pipeline as its states
-ambition to be ‘destination of choice’"
+The Dutch Cabinet is introducing a 22 mln euro subsidy scheme for
+additional \#hydrogen filling stations, with accompanying trucks"
 
-[[-]](http://ow.ly/JFFZ50LPUP5)
+---
+
+Drill baby drill
+
+"The U.S.-based energy company seeks to unlock geothermal energy on a
+global scale with its millimeter wave drilling, and is developing a
+drilling rig designed to reach 10 miles (16 km) underground"
 
 ---
 
