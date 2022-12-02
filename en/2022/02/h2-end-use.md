@@ -106,8 +106,10 @@ A planned cargo ship [6] will have 2.5 MW fuel-cells supplied by
 liquid hydrogen tanks of 70 tons, will carry 240 TEUs with deadweight
 of 5,000 tons.
 
+<a name='alstom'/>
+
 Entire trains can run on fuel-cells.  On Sep 15 2022 the hydrogen
-train Alstom Coradia iLint broke world record to travel >1000
+train Alstom Coradia iLint broke world record to travel 1125
 kilometers on a single filling of hydrogen tank. The thread on the
 entire trip is chronicled [here](https://twitter.com/Alstom/status/1570255996299378691).
 The Coradia iLint is fitted with two roof-mounted hydrogen tanks, one
