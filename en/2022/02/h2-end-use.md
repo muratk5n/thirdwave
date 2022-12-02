@@ -140,8 +140,7 @@ Reuters: "Cummins, Tata Motors team up for hydrogen-powered engines"
 
 Combustion can be used inside an engine or in a turbine to generate
 power. There is technology that can use partial H2 along with natural
-gas, or purely H2 for this purpose. GE has working technology in this
-space,
+gas, or purely H2. GE has working technology in this space.
 
 H2 Fuel News: "Mitsubishi Power, Georgia Power and EPRI have completed
 the largest H2 carbon reduction mix...  The hydrogen fuel blending
