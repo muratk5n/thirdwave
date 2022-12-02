@@ -82,7 +82,7 @@ former).
 Livescience: "Like gases, plasmas have no fixed shape or volume, and
 are less dense than solids or liquids"
 
-[[-]](../../2022/04/sun-estimate.html)
+[[-]](../../2022/04/gaseous-sun.html)
 
 ---
 
