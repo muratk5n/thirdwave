@@ -127,7 +127,21 @@ TBD
 
 ### Combustion Engines
 
-TBD
+One of the many uses of hydrogen is through combustion. Just like
+there are gasoline powered engines, there can be hydrogen powered
+combustion engines as well. Toyota built one for racing, and it works
+extremely well.
+
+"At the end of April 2021, Toyota announced it would be testing the
+performance of a new hydrogen-fuelled internal combustion engine by
+installing it in a racecar that would compete in one of Japan’s
+toughest motorsports events: The NAPAC Fuji Super TEC 24 Hours"
+
+<iframe width="340" src="https://www.youtube.com/embed/2dgzKW8EKMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Motor Authority: "Ford Patents Hydrogen-Fueled Combustion Engine"
+
+Reuters: "Cummins, Tata Motors team up for hydrogen-powered engines"
 
 ### Space
 
