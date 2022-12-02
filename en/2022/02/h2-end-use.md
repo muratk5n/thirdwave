@@ -106,6 +106,16 @@ A planned cargo ship [6] will have 2.5 MW fuel-cells supplied by
 liquid hydrogen tanks of 70 tons, will carry 240 TEUs with deadweight
 of 5,000 tons.
 
+Entire trains can run on fuel-cells.  On Sep 15 2022 the hydrogen
+train Alstom Coradia iLint broke world record to travel >1000
+kilometers on a single filling of hydrogen tank. The thread on the
+entire trip is chronicled [here](https://twitter.com/Alstom/status/1570255996299378691).
+The Coradia iLint is fitted with two roof-mounted hydrogen tanks, one
+on each car, each with a maximum capacity of 94 kg. The hydrogen is
+contained in 24 pressurised canisters in each tank. There is one fuel
+cell mounted on the roof of each car. Both provide electricity for the
+two main traction motors, each rated at 314 kW.
+
 Homes can utilize H2 based fuel-cells to power entire households.  A 2
 KW fuel-cell system will use up 80 kg of H2 annually, and is more than
 enough to power home devices. Note that as a by-product fuel-cells
