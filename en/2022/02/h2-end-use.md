@@ -1,9 +1,9 @@
 # Application Domains for H2
 
-Along with the ease of storage, transport, and generation, clean fuels
-enjoy, they are also attractive due to the fact they can be applied
-anywhere, e.g. in combustion engines for motor vehicles, creating
-power in turbines or fuel-cells, heating, or making steel.
+Along with the ease of storage, transport, and generation advantages
+clean fuels enjoy, they are also attractive due to the fact they can
+be applied anywhere, e.g. in combustion engines for motor vehicles,
+creating power in turbines or fuel-cells, heating, or making steel.
 
 <a name='steel'/>
 
