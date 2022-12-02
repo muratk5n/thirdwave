@@ -58,7 +58,7 @@
 
 [Principles of International Politics](03/principles-of-int-politics-mesquita.html)
 
-[Sun Mass and Density](04/sun-estimate.html)
+[The Gaseous Sun](04/gaseous-sun.html)
 
 [The New Economics](05/the-new-economics-keen.html)
 
