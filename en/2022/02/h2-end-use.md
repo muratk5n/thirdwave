@@ -109,11 +109,11 @@ of 5,000 tons.
 Homes can utilize H2 based fuel-cells to power entire households.  A 2
 KW fuel-cell system will use up 80 kg of H2 annually, and is more than
 enough to power home devices. Note that as a by-product fuel-cells
-also generate heat which can be used as winter time heating. The
-hydrogen can be suplied as seperate canisters to be bought regularly,
-through pipelines. H2 can even be generated from rooftop solar and be
-converted into hydrogen. Tanks are compressed H2, a product by Lavo
-[7] stores H2 as metallic hydride.
+also generate heat which can be used as winter time heating. H2 fuel
+can be suplied in seperate canisters bought regularly, or through
+pipelines. H2 can even be generated from rooftop solar to be converted
+into hydrogen. Tanks can be compressed H2, or as with a product by
+Lavo [7] in metallic hydride.
 
 <a name='combust'/>
 
