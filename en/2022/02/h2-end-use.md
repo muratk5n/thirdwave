@@ -9,13 +9,13 @@ creating power in turbines or fuel-cells, heating, or making steel.
 
 ### Steel Production
 
-For steel production there is already no other way other than hydrogen
-to make the process carbon free. In traditional steel making,
-reduction of iron ore is done by heating it together with coal,
-utilizing a chemical reaction that separates the oxygen from the iron,
-forming and emitting CO2. In H2 based production, hydrogen reacts with
-iron ore similarly to carbon, resulting in the extraction of
-oxygen. But instead of creating CO2, the main by-product is H2O [1].
+There is already no other option for green steel production other
+other than hydrogen. In traditional steel making, reduction of iron
+ore is done by heating it together with coal, utilizing a chemical
+reaction that separates the oxygen from the iron, forming and emitting
+CO2. In H2 based production, hydrogen reacts with iron ore similarly
+to carbon, resulting in the extraction of oxygen. But instead of
+creating CO2, the main by-product is H2O [1].
 
 Euractiv: "Industry sectors like steelmaking traditionally rely on
 fossil fuels to produce the intense heat and feed the chemical process
