@@ -103,7 +103,7 @@ with a combined 156-litre capacity and the ability to hold up to
 <img width="340" src="mirai1.jpg"/>
 
 A planned cargo ship [6] will have 2.5 MW fuel-cells supplied by
-liquid hydrogen tanks of 70 tons, willcarry 240 TEUs with deadweight
+liquid hydrogen tanks of 70 tons, will carry 240 TEUs with deadweight
 of 5,000 tons.
 
 Homes can utilize H2 based fuel-cells to power entire households.  A 2
