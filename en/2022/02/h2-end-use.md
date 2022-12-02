@@ -95,27 +95,25 @@ circuit, creating a flow of electricity"
 
 As H2 is weight efficient, there are applications for it through
 fuel-cells anywhere from powering cars to powering freight ships, or
-trains.
-
-The famous Hyundai Nexo vehicle is powered by 120 KW FC, its fuel is
-stored in three high-pressure fuel tanks packaged in the rear, with a
-combined 156-litre capacity and the ability to hold up to 6.33kg of
-hydrogen at a pressure of 700 bar.
+trains. The famous Hyundai Nexo vehicle is powered by 120 KW FC, its
+fuel is stored in three high-pressure fuel tanks packaged in the rear,
+with a combined 156-litre capacity and the ability to hold up to
+6.33kg of hydrogen at a pressure of 700 bar.
 
 <img width="340" src="mirai1.jpg"/>
 
 A planned cargo ship [6] will have 2.5 MW fuel-cells supplied by
-liquid hydrogen tanks of 70 tons, be able to carry 240 TEUs with
-deadweight of 5,000 tons.
+liquid hydrogen tanks of 70 tons, willcarry 240 TEUs with deadweight
+of 5,000 tons.
 
-Homes can utilize H2 based fuel-cells to power the entire household.
-A 2 KW fuel-cell system will use up 80 kg of H2 annually, and is more
-than enough to power the household. Note that as a by-product
-fuel-cells also generate heat which can be used as winter time
-heating. The hydrogen can be suplied as seperate canisters to be
-bought regularly, through pipelines. H2 can even be generated from
-rooftop solar and be converted into hydrogen. Tanks are compressed H2,
-a product by Lavo [7] stores H2 as metallic hydride. 
+Homes can utilize H2 based fuel-cells to power entire households.  A 2
+KW fuel-cell system will use up 80 kg of H2 annually, and is more than
+enough to power the household. Note that as a by-product fuel-cells
+also generate heat which can be used as winter time heating. The
+hydrogen can be suplied as seperate canisters to be bought regularly,
+through pipelines. H2 can even be generated from rooftop solar and be
+converted into hydrogen. Tanks are compressed H2, a product by Lavo
+[7] stores H2 as metallic hydride.
 
 <a name='combust'/>
 
