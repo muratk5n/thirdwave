@@ -121,7 +121,7 @@ Lavo [7] in metallic hydride.
 
 One of the many uses of hydrogen is through combustion. Just like
 there are gasoline powered engines, there can be hydrogen powered
-combustion engines as well. Toyota built one for racing, and it works
+combustion engines. Toyota built one for racing, and it works
 extremely well.
 
 "At the end of April 2021, Toyota announced it would be testing the
