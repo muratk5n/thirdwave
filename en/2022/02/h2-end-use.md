@@ -129,24 +129,10 @@ TBD
 
 TBD
 
-### Rockets
+### Space
 
 Hydrogen is energy efficient therefore perfectly suited for propelling
 rockets into space.
-
-NASA
-
-"For decades, NASA has relied upon hydrogen gas as rocket fuel to
-deliver crew and cargo to space. With the Centaur, Apollo and space
-shuttle vehicles, NASA has developed extensive experience in the safe
-and effective handling of hydrogen. For example, the rocket engines of
-each shuttle flight burn about 500,000 gallons of cold liquid hydrogen
-with another 239,000 gallons depleted by storage boil off and transfer
-operations"
-
-The SLS, a key piece of hardware for NASA's Artemis moon program, is
-now the most powerful rocket ever to launch successfully, and it uses
-liquid hydrogen. 
 
 Blue Origin
 
@@ -160,6 +146,23 @@ landing gear, and parachutes. New Shepard’s BE-3PM engine is fueled by
 highly efficient and clean liquid oxygen and hydrogen. During flight,
 the only byproduct of New Shepard’s engine combustion is water vapor
 with no carbon emissions"
+
+NASA
+
+"For decades, NASA has relied upon hydrogen gas as rocket fuel to
+deliver crew and cargo to space. With the Centaur, Apollo and space
+shuttle vehicles, NASA has developed extensive experience in the safe
+and effective handling of hydrogen. For example, the rocket engines of
+each shuttle flight burn about 500,000 gallons of cold liquid hydrogen
+with another 239,000 gallons depleted by storage boil off and transfer
+operations"
+
+The SLS, a key piece of hardware for NASA's Artemis moon program, is
+now the most powerful rocket ever to launch successfully, and it uses
+liquid hydrogen.
+
+<img width="340" src="https://pbs.twimg.com/media/Fi9rKgsWIAAykvU?format=jpg&name=small"/>
+
 
 References
 
