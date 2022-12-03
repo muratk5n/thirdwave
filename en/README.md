@@ -18,8 +18,8 @@ mid-2023"
 
 ---
 
-Seriously the younger son even looks less inbred compared to the royal
-fam
+Seriously the younger son even looks less inbred compared to the rest
+of the royal fam
 
 ---
 
