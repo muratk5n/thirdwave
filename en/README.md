@@ -36,6 +36,10 @@ impossible it is for the royal family to ever move beyond racism"
 
 ---
 
+NPR: "A member of the Buckingham Palace household resigns after racial comments"
+
+---
+
 Jane's Defense: "Russia-China moving towards closer bomber
 co-operation.. In an unprecedented boost to interoperability,
 long-range Chinese and Russian bombers landed in each other's airbases
