@@ -3,6 +3,27 @@
 The claim is the Sun is gasous plasma. There are many signs that this
 claim is false.
 
+If the Sun is not gaseous, it cannot collapse itself and black holes
+cannot form. James Jeans, who along with Arthur Eddington is a founder
+of British cosmology said: "Mathematical analysis shows that if the
+centre of a star is either liquid, or partially so, there is no danger
+of collapse; the liquid center provides so firm a basis for the star,
+as to render the collapse impossible".
+
+### Planck Spectrum
+
+When we plot white light intensity against each frequency we get a
+Planck spectrum. But gaseous plasmas are known to never be able to
+produce a Planck spectrum. As stated by this [2] paper, "the gaseous
+models fail to properly account for the occurrence of the solar
+spectrum.  Gases are unable to emit a continuous spectrum. Rather,
+they emit in bands (see [21,70] and references therein). Even when
+pressure broadened, these bands cannot produce the black- body
+lineshape. Moreover, when gases are heated, their emis- sivity can
+actually drop [21,70], in direct contradiction of Ste- fan’s law
+[18]. Under these circumstances, the answer cannot be found in the
+gaseous state. One must turn to condensed matter"
+
 ### Sun Mass and Density
 
 We can attempt to calculate Sun's mass using few assumptions, ie only
@@ -66,15 +87,11 @@ print ("Sun's density is", sm/svol, 'g/cm3')
 Sun's density is 1.410656847827681 g/cm3
 ```
 
-### Planck Spectrum
-
-When we plot white light intensity against each frequency we get a
-Planck spectrum. But gaseous plasmas are known to never be able to
-produce a Planck spectrum. 
-
 References
 
 [1] https://www.quora.com/How-can-I-calculate-the-mass-of-the-sun
 
+[2] Robitaille, Fourty Lines of EVidence for Condensed Matter
 
+[[Up](../../2018/09/junk-science.html)]
 

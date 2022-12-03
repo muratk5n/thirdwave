@@ -7,17 +7,6 @@ collapse impossible".
 
 ---
 
-Gases cannot act like blackbodies. Now take the next natural step and
-admit stars are made up of solids.
-
-Is cosmology science? Effin Astrology has better science than you
-
-"Stars (which are dense balls of hot gas) also behave like blackbodies"
-
-[Link](https://faculty.virginia.edu/skrutskie/ASTR1210/notes/bb/bb.html)
-
----
-
 "@internetofshit
 
 i literally expect to wake up one day and my nest thermostat is going
