@@ -139,7 +139,7 @@ Just kidding.. it's okay.
 
 ---
 
-Yep.. [this post](../../2019/08/manganese-hydride.md) reminded me, Manganese
+Yep.. [this post](../../2020/02/metal-hydrides.html) reminded me, Manganese
 Hydride-1, then I saw a company is working on it -
 [Kubagen](https://www.kubagen.co.uk)
 

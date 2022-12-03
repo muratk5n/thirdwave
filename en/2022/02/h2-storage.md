@@ -6,9 +6,7 @@
 
 [Underground](h2-underground.html)
 
-[Manganese Hydride](manganese-hydride.html)
-
-[Alane](alane.html)
+[Metal Hydrides](metal-hydrides.html)
 
 [Solid H2, Nanopowders](solid-h2-nanopowders.html)
 

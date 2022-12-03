@@ -6,8 +6,6 @@
 
 [Particles, Science and AI](01/particles-and-ai.html)
 
-[Aluminum Trihydride - Alane](02/alane.html)
-
 [Ammonia](02/ammonia.html)
 
 [Base Energy Numbers, Data](02/base-energy-numbers.html)
@@ -23,6 +21,8 @@
 [H2 Production via Electrolysis](02/h2-electrolysis.html)
 
 [Application Domains for H2](02/h2-end-use.html)
+
+[Metal Hydrides](02/h2-metal-hydrides.html)
 
 [H2 From Methane (Natural Gas)](02/h2-natural-gas.html)
 
@@ -43,8 +43,6 @@
 [Waste-to-Hydrogen](02/h2-waste.html)
 
 [Liquified H2](02/liquified-h2.html)
-
-[Manganese Hydride](02/manganese-hydride.html)
 
 [Methyl Cyclohexane for H2 Storage](02/methyl-cyclohexane-h2.html)
 
