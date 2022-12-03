@@ -6,7 +6,7 @@
 
 [Underground](h2-underground.html)
 
-[Metal Hydrides](metal-hydrides.html)
+[Metal Hydrides](h2-metal-hydrides.html)
 
 [Solid H2, Nanopowders](solid-h2-nanopowders.html)
 
