@@ -134,9 +134,7 @@ to power an average household for approximately three days"
 "@ASYNSIS
 
 5 times the storage capacity, 1/10th the cost of Lithium batteries.
-If this #LAVO Hydrogen energy breakthrough flies, the #GreenNewDeal
-\#MetaLoop city de-carbonisation revolution just got a whole lot more
-real"
+\#LAVO Hydrogen energy breakthrough.."
 
 [Link](https://twitter.com/ASYNSIS/status/1278853825370025984)
 
@@ -145,6 +143,8 @@ real"
 References
 
 [1] [Lavo](https://www.h2networks.com.au/pdf/Small-Scale-LAVO-Residential-Unit-Brochure.pdf)
+
+[2] [Lavo Site](https://www.lavo.com.au/)
 
 [[Up]](h2-storage.html)
 
