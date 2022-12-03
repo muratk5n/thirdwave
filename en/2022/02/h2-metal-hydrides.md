@@ -106,10 +106,43 @@ hydrogen fuel technologies
 
 [Kubagen](https://www.kubagen.co.uk)
 
+### Metal Hydrides
 
+In general metal hydrides have been known since WWII. A product called
+LAVO [1] essentially turned the technology into a hydrogen battery
+where the unit is continuously charged (into H2) and discharged as
+energy is used.
 
+"The hydrogen hydride alloy used in Lavo is based on a technology that
+emerged after WWII, where hydrogen molecules attach to metals such as
+magnesium or aluminium. Professor Kondo-Francois Aguey-Zinsou, chief
+scientist and executive director of Lavo and lead researcher in
+hydrogen technologies at UNSW, has been researching hydrides for more
+than 20 years. Muller says Aguey-Zinsou has 'cracked the code' with
+the alloy used in the Lavo storage system"
 
+[Link](https://www.ecogeneration.com.au/the-40kwh-34750-196kg-hydrogen-battery-for-the-home/)
 
+"The LAVO system uses innovative, patented metal hydride technology to
+store hydrogen equivalent to up to 60kWh electricity, which is enough
+to power an average household for approximately three days"
+
+[Link](https://fuelcellsworks.com/news/bringing-the-power-of-hydrogen-to-homes-is-a-step-closer/)
+
+"@ASYNSIS
+
+5 times the storage capacity, 1/10th the cost of Lithium batteries.
+If this #LAVO Hydrogen energy breakthrough flies, the #GreenNewDeal
+\#MetaLoop city de-carbonisation revolution just got a whole lot more
+real"
+
+[Link](https://twitter.com/ASYNSIS/status/1278853825370025984)
+
+<img src="https://drive.google.com/uc?export=view&id=1_estbcX6JjX12n3KzA9Df0snA5cB4piE"/>
+
+References
+
+[1] [Lavo](https://www.h2networks.com.au/pdf/Small-Scale-LAVO-Residential-Unit-Brochure.pdf)
 
 [[Up]](h2-storage.html)
 
