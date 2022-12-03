@@ -106,6 +106,8 @@ hydrogen fuel technologies
 
 [Kubagen](https://www.kubagen.co.uk)
 
+<a name='metalhyd'/>
+
 ### Metal Hydrides
 
 In general metal hydrides have been known since WWII. A product called
