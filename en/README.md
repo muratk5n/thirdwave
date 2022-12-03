@@ -24,8 +24,8 @@ fam
 ---
 
 Well this sounds like a major PR problem.. the fix would be Charles
-abdicating, and then the son with black wife becomes Kang. PR problem
-solved. IT HAS BEEN FORETOLD BY THE PROPHECY.
+abdicating, and then the son married to a non-white becomes Kang. PR
+problem solved. It has been *foretold by the prophecy*.
 
 TDB: "Removing One Royal Racist Is Nothing. We Need to Abolish the
 Monarchy.. The shock and horror professed by so many white people at
@@ -90,7 +90,7 @@ pilot program"
 
 ---
 
-Addition on the record-breaking H2 Alstom train.
+Addition to post on the record-breaking H2 Alstom train.
 
 [[-]](2022/02/h2-end-use.html#alstom)
 
