@@ -101,10 +101,10 @@ kinda funny.
 
 ---
 
-EU has its own Mastodon servers. Companies with big user bases can do
-the same, join "the federation", and provide seamless login feature
-into their servers which connects their users to the rest of the
-network eg Microsoft, Google, Apple.
+EU has its own Mastodon servers. Companies with big user bases,
+Microsoft (LinkedIn), Google, Apple, can do the same, join "the
+federation", and provide seamless login feature into their servers
+connecting their users to the larger network.
 
 ---
 
