@@ -10,7 +10,7 @@ Pinned Tweet
 
 "@Noevanhulst@mastodon.social
 
-Good news: private capital flowing into \#hydrogeneconomy is breaking
+Good news: private capital flowing into \#hydrogen economy is breaking
 records"
 
 [[-]](https://mastodon.social/@Noevanhulst/109454778340955425)
@@ -54,7 +54,7 @@ on the social net.
 This is great news... I don't support forcing to take hijab off (the
 case in Asia Minor a while back), or forcing to put it on.
 
-WSJ: "Iran Abolishes Morality Police, Considers Changing Hijab Laws, Official Says"
+WSJ: "Iran Abolishes Morality Police, Considers Changing Hijab Laws"
 
 ---
 
