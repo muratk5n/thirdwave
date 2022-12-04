@@ -1,5 +1,120 @@
 # Week 48 
 
+"@Sustainable2050@mastodon.energy
+
+First pipeline sections for a Rotterdam hydrogen network arrived by
+train from Germany. 32 km, diameter 60 cm", construction will start
+mid-2023"
+
+<img width="340" src="https://s3.masto.ai/cache/media_attachments/files/109/445/950/807/718/088/original/ab446d848fb0e0b5.jpg"/>
+
+---
+
+Seriously the younger son even looks less inbred compared to the rest
+of the royal fam
+
+---
+
+Well this sounds like a major PR problem.. the fix would be Charles
+abdicating, and then the son married to a non-white becomes Kang. PR
+problem solved. It has been *foretold by the prophecy*.
+
+TDB: "Removing One Royal Racist Is Nothing. We Need to Abolish the
+Monarchy.. The shock and horror professed by so many white people at
+the latest royal racism controversy is not shared by many Black
+people. For us, there is only a sense of weariness because we have
+heard it all before. Its significance is just to show how utterly
+impossible it is for the royal family to ever move beyond racism"
+
+---
+
+NPR: "A member of the Buckingham Palace household resigns after racial comments"
+
+---
+
+Jane's Defense: "Russia-China moving towards closer bomber
+co-operation.. In an unprecedented boost to interoperability,
+long-range Chinese and Russian bombers landed in each other's airbases
+for the first time, as part of a joint air patrol"
+
+---
+
+"@jmtixhon@mastodon.world
+
+Germany Plans 1,800 Km Hydrogen Pipeline Network: Draft Government
+Paper"
+
+[[-]](https://masto.ai/@jmtixhon@mastodon.world/109444852216914665)
+
+---
+
+The issue of "connectedness" again - ppl are unable or unwilling to
+judge a person's work instead they gauge wortiness by looking at their
+connections. Not a good way for judging scientific output.
+
+"@helenajambor@vis.social
+
+\#ReferenceLetters for jobs are the biggest gate-keeper in #academia
+
+My week was rough - I skipped applying to an interesting job that
+would have needed 3 references.
+
+What is wrong with the system:
+
+1. References create a system of life-long dependencies with supervisors  
+
+2. They exclude those who are shy about asking for favors 
+
+3. Referees have STRONG biases and they play out 
+
+4. switching fields is bad
+
+@Odedrechavi wrote about abolishing - I fully agree!"
+
+---
+
+The Guardian: "Brexit added nearly £6bn to UK food bills in two years,
+research finds"
+
+---
+
+CNN: "Global 4-day week pilot was a huge success, organizers say
+.. After six months, most of the 33 companies and 903 workers trialing
+the schedule, with no reduction in pay, are unlikely ever to go back
+to a standard working week, according to the organizers of the global
+pilot program"
+
+---
+
+Addition to post on the record-breaking H2 Alstom train.
+
+[[-]](2022/02/h2-end-use.html#alstom)
+
+---
+
+The funny thing is when people get the techy money that is supposed to
+do away with the middleman, they go straight to a middlemen and dump their
+shiny new money on them.
+
+---
+
+"@ercwl
+
+Every time Sam brings up 'FTX was a margin exchange' he is
+intentionally trying to spin the narrative into a risk management
+failure when the insolvency came from the embezzlement of the
+”mislabeled fiat stub account” of $8bn and other things"
+
+---
+
+Reuters: "Spain's Cepsa to invest 3 bln euros in green hydrogen
+project..The project will produce 300,000 tons of hydrogen a year,
+which will be used to power the company’s refineries as well as local
+heavy shipping and haulage.. [and] consist of two electrolysers
+totalling 2 gigawatts (GW) in the port cities of Huelva and Algeciras"
+
+---
+
 EU-Africa-Asia as a contiguous block of landmass will likely become a
 superpower, and one day, through ports in West Africa, will invade United
 States of America.

@@ -8,118 +8,127 @@ Pinned Tweet
 
 ---
 
-"@Sustainable2050@mastodon.energy
+"@Noevanhulst@mastodon.social
 
-First pipeline sections for a Rotterdam hydrogen network arrived by
-train from Germany. 32 km, diameter 60 cm", construction will start
-mid-2023"
+Good news: private capital flowing into \#hydrogeneconomy is breaking
+records"
 
-<img width="340" src="https://s3.masto.ai/cache/media_attachments/files/109/445/950/807/718/088/original/ab446d848fb0e0b5.jpg"/>
-
----
-
-Seriously the younger son even looks less inbred compared to the rest
-of the royal fam
+[[-]](https://mastodon.social/@Noevanhulst/109454778340955425)
 
 ---
 
-Well this sounds like a major PR problem.. the fix would be Charles
-abdicating, and then the son married to a non-white becomes Kang. PR
-problem solved. It has been *foretold by the prophecy*.
-
-TDB: "Removing One Royal Racist Is Nothing. We Need to Abolish the
-Monarchy.. The shock and horror professed by so many white people at
-the latest royal racism controversy is not shared by many Black
-people. For us, there is only a sense of weariness because we have
-heard it all before. Its significance is just to show how utterly
-impossible it is for the royal family to ever move beyond racism"
+TASS: "Ukrainian conflict affects US less than EU, European Council
+head [Charles Michel] says"
 
 ---
 
-NPR: "A member of the Buckingham Palace household resigns after racial comments"
+Al Monitor: "The Saudi agriculture technology company Mowreq and
+YesHealth Group, another agrotech firm based in Taiwan, established a
+joint venture today to develop a network of vertical farms throughout
+Saudi Arabia. They will start by building a vertical farm in the
+capital, Riyadh. The venture, named Vertical Farms Company, aims for
+the farm to be operational by the fourth quarter of 2023, they said in
+a press release"
 
 ---
 
-Jane's Defense: "Russia-China moving towards closer bomber
-co-operation.. In an unprecedented boost to interoperability,
-long-range Chinese and Russian bombers landed in each other's airbases
-for the first time, as part of a joint air patrol"
+KPMG Global Automotive Executive Survey
+
+[[-]](https://s3.masto.ai/cache/media_attachments/files/109/456/206/688/208/143/original/ef5ba691ff1c65c9.png)
 
 ---
 
-"@jmtixhon@mastodon.world
-
-Germany Plans 1,800 Km Hydrogen Pipeline Network: Draft Government
-Paper"
-
-[[-]](https://masto.ai/@jmtixhon@mastodon.world/109444852216914665)
+China Hydrogen Bulletin: "Sinopec will invest 20 billion Rmb ($2.8
+billion) to build a 400 km hydrogen transportation pipeline which will
+connect Wulanchabu, Inner Mongolia to Yanshan Petrochemical in Beijing
+with a capacity of 100,000 ton hydrogen annually"
 
 ---
 
-The issue of "connectedness" again - ppl are unable or unwilling to
-judge a person's work instead they gauge wortiness by looking at their
-connections. Not a good way for judging scientific output.
-
-"@helenajambor@vis.social
-
-\#ReferenceLetters for jobs are the biggest gate-keeper in #academia
-
-My week was rough - I skipped applying to an interesting job that
-would have needed 3 references.
-
-What is wrong with the system:
-
-1. References create a system of life-long dependencies with supervisors  
-
-2. They exclude those who are shy about asking for favors 
-
-3. Referees have STRONG biases and they play out 
-
-4. switching fields is bad
-
-@Odedrechavi wrote about abolishing - I fully agree!"
+Cybercurrencies are a natural fit for a "distributed federated social
+network". Modify Nano with expanding money base, money as UBI, release
+on the social net.
 
 ---
 
-The Guardian: "Brexit added nearly £6bn to UK food bills in two years,
-research finds"
+This is great news... I don't support forcing to take hijab off (the
+case in Asia Minor a while back), or forcing to put it on.
+
+WSJ: "Iran Abolishes Morality Police, Considers Changing Hijab Laws, Official Says"
 
 ---
 
-CNN: "Global 4-day week pilot was a huge success, organizers say
-.. After six months, most of the 33 companies and 903 workers trialing
-the schedule, with no reduction in pay, are unlikely ever to go back
-to a standard working week, according to the organizers of the global
-pilot program"
+Al Monitor: "Protest-hit Iran abolishes morality police.. Iran has
+scrapped its morality police after more than two months of protests
+triggered by the death of Mahsa Amini following her arrest for
+allegedly violating the country's strict female dress code, local
+media said Sunday"
 
 ---
 
-Addition to post on the record-breaking H2 Alstom train.
-
-[[-]](2022/02/h2-end-use.html#alstom)
+AP News: "Serbia names pro-Russian politician new spy chief"
 
 ---
 
-The funny thing is when people get the techy money that is supposed to
-do away with the middleman, they go straight to a middlemen and dump their
-shiny new money on them.
+A list of journalists who went to MD
+
+[[-]](https://docs.google.com/spreadsheets/d/13No4yxY-oFrN8PigC2jBWXreFCHWwVRTftwP6HcREtA/htmlview?resourcekey=undefined&pru=AAABhH2W2zA*V1PG7hJSTbifNCcDu40zLA#gid=1320898902)
 
 ---
 
-"@ercwl
+It looks like RU doesn't want an incursion into Kurdish areas "from
+the North" either. They essentially put their military between two
+sides.
 
-Every time Sam brings up 'FTX was a margin exchange' he is
-intentionally trying to spin the narrative into a risk management
-failure when the insolvency came from the embezzlement of the
-”mislabeled fiat stub account” of $8bn and other things"
+F24: "Russia sends troop reinforcements to Kurdish-controlled northern
+Syria.. Residents of Tal Rifaat, a Kurdish-held pocket north of
+Aleppo, told AFP that Russian troop reinforcements had reached the
+city"
 
 ---
 
-Reuters: "Spain's Cepsa to invest 3 bln euros in green hydrogen
-project..The project will produce 300,000 tons of hydrogen a year,
-which will be used to power the company’s refineries as well as local
-heavy shipping and haulage.. [and] consist of two electrolysers
-totalling 2 gigawatts (GW) in the port cities of Huelva and Algeciras"
+That means H2 support is in the cards. 👍
+
+Duvar English: "Earlier this week, [Anatolia oppo leader] Kılıçdaroğlu
+appointed renowned economists as his advisors. Among the names are
+American economist Jeremy Rifkin"
+
+---
+
+The whole Brexit thing started partly due to immigration 'worries' and
+it ended up with a non-white PM. RS is culturally Brit but still, it's
+kinda funny.
+
+---
+
+EU has its own Mastodon servers. Companies with big user bases can do
+the same, join "the federation", and provide seamless login feature
+into their servers which connects their users to the rest of the
+network eg Microsoft, Google, Apple.
+
+---
+
+TASS: "Future European security architecture must include guarantees
+for Russia — Macron"
+
+---
+
+H2 View: "BMW Group starts production of iX5 Hydrogen model"
+
+---
+
+Forbes: "Why are so many semiconductor chips used in cars?.. For
+automobiles, the huge push for improvements in fuel economy after the
+1973 oil crisis led to the rapid increase in the use of electronics in
+engine controls. While electronic ignitions had started to appear in
+the late 1960s, the use of microcontroller chips for engine controls
+demonstrated what was possible with a digital approach. Using sensors
+to monitor things like temperature, crankshaft position, mass air
+flow, throttle position, and concentration of oxygen in the exhaust
+gases, automakers were able to dramatically improve the fuel economy
+and emissions profiles of their vehicles. The controller chips did
+on-the-fly calculations to optimize engine performance, something that
+was impossible to do with mechanical sensors and linkages"
 
 ---
 
