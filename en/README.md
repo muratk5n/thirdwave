@@ -76,17 +76,6 @@ A list of journalists who went to MD
 
 ---
 
-It looks like RU doesn't want an incursion into Kurdish areas "from
-the North" either. They essentially put their military between two
-sides.
-
-F24: "Russia sends troop reinforcements to Kurdish-controlled northern
-Syria.. Residents of Tal Rifaat, a Kurdish-held pocket north of
-Aleppo, told AFP that Russian troop reinforcements had reached the
-city"
-
----
-
 That means H2 support is in the cards. 👍
 
 Duvar English: "Earlier this week, [Anatolia oppo leader] Kılıçdaroğlu
