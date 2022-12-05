@@ -96,8 +96,8 @@ brought a “turning point” for clean energy"
 
 ---
 
-In general metal hydrides are promising tech. There are actual
-products using them, Lavo is my favorite.
+Metal hydrides are promising tech. There are actual products using
+them, Lavo is my favorite.
 
 [[-]](2022/02/h2-metal-hydrides.html#metalhyd)
 
