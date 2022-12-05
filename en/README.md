@@ -49,7 +49,7 @@ process"
 ---
 
 Biden was elected President while running against single-payer
-healthcare. That doesn't mean people would not like if SP was passed.
+healthcare. That doesn't mean people would not like SP if passed.
 
 ---
 
