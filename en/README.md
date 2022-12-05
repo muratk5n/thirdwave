@@ -13,18 +13,6 @@ Green Hydrogen"
 
 ---
 
-PNP.de: "BMW officially starts building hydrogen cars"
-
----
-
-H2 View: "Nikola Phoenix Hydrogen Hub enters second phase for $1.3bn
-hydrogen production loan.. Nikola Corporation has announced that the
-Department of Energy Loan Program Office (LPO) has invited its Phoenix
-Hydrogen Hub project loan application into Part II of its application
-process"
-
----
-
 H2 Central: "Development Starts on Prototype Hydrogen Fuel Cell Toyota Hilux"
 
 ---
@@ -48,8 +36,20 @@ cotton seed oil \#PradipJamnadas
 
 ---
 
+PNP.de: "BMW officially starts building hydrogen cars"
+
+---
+
+H2 View: "Nikola Phoenix Hydrogen Hub enters second phase for $1.3bn
+hydrogen production loan.. Nikola Corporation has announced that the
+Department of Energy Loan Program Office (LPO) has invited its Phoenix
+Hydrogen Hub project loan application into Part II of its application
+process"
+
+---
+
 Biden was elected President while running against single-payer
-healthcare.  That doesn't mean people would not like SP if passed.
+healthcare. That doesn't mean people would not like if SP was passed.
 
 ---
 
