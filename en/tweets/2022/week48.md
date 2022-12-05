@@ -88,7 +88,7 @@ pilot program"
 
 Addition to post on the record-breaking H2 Alstom train.
 
-[[-]](2022/02/h2-end-use.html#alstom)
+[[-]](../../2022/02/h2-end-use.html#alstom)
 
 ---
 
@@ -163,7 +163,7 @@ innovation & help create a market for this fuel of the future"
 
 You axed and you shall receive homie
 
-[[-]](2022/02/h2-end-use.html)
+[[-]](../../2022/02/h2-end-use.html)
 
 ---
 
@@ -304,7 +304,7 @@ Arab News: "Leading media outlets urge US to end prosecution of Julian Assange"
 If voters were so smart, voted on policy and had a 20/20 vision into a
 politician's ability, endorsements wouldn't have mattered. But they
 do. If a popular politician is standing next to another politician the
-popularity rubs off. That means [you](tweets/2021/you.png) the voter
+popularity rubs off. That means [you](../2021/you.png) the voter
 cannot truly be in charge.
 
 ---
@@ -365,7 +365,7 @@ ambition to be ‘destination of choice’"
 
 ---
 
-Great.. yes these are all major nodes in the drug smuggling [network](2019/05/drugs.html),
+Great.. yes these are all major nodes in the drug smuggling [network](../../2019/05/drugs.html),
 especially Spain (due to its geo)
 
 F24: "Police bust cocaine 'super-cartel' in Europe and Dubai.. The
