@@ -1,14 +1,13 @@
 # The Gaseous Sun
 
 The claim is the Sun is gasous plasma. There are many signs that this
-claim is false.
-
-If the Sun is not gaseous, it cannot collapse itself and black holes
-cannot form. James Jeans, who along with Arthur Eddington is a founder
-of British cosmology said: "Mathematical analysis shows that if the
-centre of a star is either liquid, or partially so, there is no danger
-of collapse; the liquid center provides so firm a basis for the star,
-as to render the collapse impossible".
+claim is false. If the Sun is not gaseous, it cannot collapse itself
+and black holes cannot form. James Jeans, who along with Arthur
+Eddington is a founder of British cosmology said: "Mathematical
+analysis shows that if the centre of a star is either liquid, or
+partially so, there is no danger of collapse; the liquid center
+provides so firm a basis for the star, as to render the collapse
+impossible".
 
 ### Planck Spectrum
 
@@ -17,12 +16,11 @@ Planck spectrum. But gaseous plasmas are known to never be able to
 produce a Planck spectrum. As stated by this [2] paper, "the gaseous
 models fail to properly account for the occurrence of the solar
 spectrum.  Gases are unable to emit a continuous spectrum. Rather,
-they emit in bands (see [21,70] and references therein). Even when
-pressure broadened, these bands cannot produce the black- body
-lineshape. Moreover, when gases are heated, their emis- sivity can
-actually drop [21,70], in direct contradiction of Ste- fan’s law
-[18]. Under these circumstances, the answer cannot be found in the
-gaseous state. One must turn to condensed matter"
+they emit in bands... Even when pressure broadened, these bands cannot
+produce the black- body lineshape. Moreover, when gases are heated,
+their emissivity can actually drop, in direct contradiction of
+Stefan’s law. Under these circumstances, the answer cannot be found in
+the gaseous state. One must turn to condensed matter"
 
 ### Sun Mass and Density
 
