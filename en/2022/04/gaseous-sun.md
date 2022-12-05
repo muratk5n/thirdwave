@@ -85,6 +85,9 @@ print ("Sun's density is", sm/svol, 'g/cm3')
 Sun's density is 1.410656847827681 g/cm3
 ```
 
+The number above does not point to a gas density, in fact it points to
+a liquidic density.
+
 References
 
 [1] https://www.quora.com/How-can-I-calculate-the-mass-of-the-sun
