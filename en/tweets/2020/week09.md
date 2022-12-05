@@ -1084,6 +1084,8 @@ prices before but now forward prices for the whole summer are -5¢"
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Man behind counter at sandwich shop: &quot;Where are you from?&quot; <br>Me: &quot;Michigan.&quot; <br>Him: &quot;No I mean ethnically.&quot; <br>Me: &quot;I know what you meant.&quot; 😐<br><br>Still felt awkward enough to answer the question, but proud that I&#39;ve finally reached at least that level of sass to this constant question.</p>&mdash; Mona El-Hout (@maelhout) <a href="https://twitter.com/maelhout/status/1231708804443713538?ref_src=twsrc%5Etfw">February 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[Image](michsass.jpg)
+
 ---
 
 "@NorthmanTrader
