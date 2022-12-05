@@ -69,6 +69,8 @@ supply of rare metals, we cannot accurately assess the progress made
 in combating global warming without properly accounting for Beijing’s
 ecological performance. Which is catastrophic, to say the least...
 
+<a name='ref3'/>
+
 [Another] party pooper was John Petersen, a Texan lawyer with an
 extensive career in the electric battery industry. Based on number
 crunching, countless academic papers, and his own research, Peterson
