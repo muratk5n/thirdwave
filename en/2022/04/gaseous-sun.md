@@ -92,7 +92,7 @@ References
 
 [1] https://www.quora.com/How-can-I-calculate-the-mass-of-the-sun
 
-[2] Robitaille, Fourty Lines of EVidence for Condensed Matter
+[2] Robitaille, Fourty Lines of Evidence for Condensed Matter
 
 [[Up](../../2018/09/junk-science.html)]
 
