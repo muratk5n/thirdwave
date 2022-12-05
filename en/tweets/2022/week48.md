@@ -259,7 +259,7 @@ thermal equilibrium. But thermal equilibrium means by definition
 maximum random state... Wasn't the universe supposed to *toward*
 disorder, and not start from one? 
 
-<img width="340" src="https://pbs.twimg.com/media/Fi5am2kXwAAEHF-?format=png&name=small"/>
+<img width="340" src="twimg/Fi5am2kXwAAEHF-.png"/>
 
 ---
 
@@ -528,7 +528,7 @@ acting as a parabolic reflector, which can reach temperatures of up to
 was chosen carefully, because the sun shines there for 270 days a
 year"
 
-<img src="https://pbs.twimg.com/media/Fik0MapWAAEylH-?format=jpg&name=small"/>
+<img src="twimg/Fik0MapWAAEylH-.jpg"/>
 
 ---
 
@@ -584,7 +584,7 @@ Toyota and Kawasaki are putting their minds together to find
 alternative ways to reduce carbon emissions.. they're developing an
 internal combustion engine that burns H2 as fuel"
 
-<img width="340" src="https://pbs.twimg.com/media/FiZTblNXgAAhzqe?format=jpg&name=small"/>
+<img width="340" src="twimg/FiZTblNXgAAhzqe.jpg"/>
 
 [[-]](http://bit.ly/2X5Jje3)
 
@@ -655,7 +655,7 @@ Expected time for commercialization: 4 years"
 ---
 
 Traversal wld be breadth-first, check double visit of nodes.. Iteration
-count..? Probably [six is fine](https://pbs.twimg.com/media/FijVyYTXoAArlYU?format=jpg&name=small).
+count..? Probably [six is fine](twimg/FijVyYTXoAArlYU.jpg).
 
 ---
 
@@ -724,7 +724,7 @@ The psyop has a rich white guy who was culturally Protestan (as most Americans a
 to be seen as first Irish-Catholic President, read: a minority who was
 "representing", "taken from us much too early". Dems are made to
 weep after this symbol of diversity, follow its flashy image at the
-same time ensuring its centrist, rich guy policies are followed. [This photo](https://pbs.twimg.com/media/FimCFrjWIAMztMt?format=jpg&name=small)
+same time ensuring its centrist, rich guy policies are followed. [This photo](twimg/FimCFrjWIAMztMt.jpg)
 has the worst and second worst US presidents of modern times in a
 single frame, and that is by design. 
 
