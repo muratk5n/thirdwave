@@ -85,6 +85,8 @@ Year
 
 <a name='fsi'/>
 
+### The Fragile States Index
+
 The Fragile States Index (FSI) produced by The Fund for Peace (FFP),
 attemps to highlight pressures that states experience, through its
 various measures and a final score (lower is better) that shows how
