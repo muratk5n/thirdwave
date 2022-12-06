@@ -29,15 +29,10 @@ selected countries, recently updated for 2020.
 ```python
 import pandas as pd
 df = pd.read_stata('../../tweets/2020/BTI 2006-2020.dta')
-df = df.set_index('year')
-df1 = df[df.country == 'Russia'].dem_stat
-df2 = df[df.country == 'Turkey'].dem_stat
-df3 = df[df.country == 'Iran'].dem_stat
-df4 = df[df.country == 'China'].dem_stat
-df5 = df[df.country == 'Ukraine'].dem_stat
-df3 = pd.concat([df1,df2,df3,df4,df5],axis=1)
-df3.columns = ['RU','TR','IR','CH','UKR']
-df3.plot()
+df1 = df[['country','dem_stat','year']]
+df1 = df1[df1.country.isin(['Russia','Turkey','Iran','China','Ukraine'])]
+df1=df1.pivot(index='year', columns='country', values='dem_stat')
+df1.plot()
 plt.savefig('bti-compare.png')
 ```
 
