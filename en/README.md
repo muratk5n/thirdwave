@@ -34,7 +34,7 @@ Figure 3 is interesting
 
 ---
 
-**The Disruption of the Cow**
+*The Disruption of the Cow*
 
 "Rethinking Food and Agriculture 2020-2030k.. The Second Domestication
 of Plants and Animals, the Disruption of the Cow, and the Collapse of
