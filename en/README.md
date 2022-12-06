@@ -8,98 +8,109 @@ Pinned Tweet
 
 ---
 
-H2 Central: "Spain – Government Approves the First 250 Million Aid for
-Green Hydrogen"
+
+
+CNBC: "Amazon's cloud unit faces cost-sensitive customers as economic
+fears mount"
 
 ---
 
-H2 Central: "Development Starts on Prototype Hydrogen Fuel Cell Toyota Hilux"
+TASS: "Russian armed forces successfully advance near Artyomovsk"
 
 ---
 
-H2 Central: "POSCO Group to Invest US$40bn in Australia by 2040,
-Including Hydrogen for Steel Making"
+"@DrFunkySpoon@qoto.org
+
+Our new paper: Venus Life Finder Habitability Mission: Motivation,
+Science Objectives, and Instrumentation"
+
+[[-]](https://qoto.org/@DrFunkySpoon/109388314093865044)
 
 ---
 
-"@business
+Figure 3 is interesting
 
-The lawyer who represented Bernie Madoff has some advice for Sam
-Bankman-Fried: shut up"
-
----
-
-Vegetable oils considered harmful. Note the historical mention of
-cotton seed oil \#PradipJamnadas
-
-[[-]](https://youtu.be/Yo-IL-LH5FQ?t=713)
+[[-]](https://pbs.twimg.com/media/FjMOvPOaYAc96zk?format=jpg&name=medium)
 
 ---
 
-PNP.de: "BMW officially starts building hydrogen cars"
+**The Disruption of the Cow**
+
+"Rethinking Food and Agriculture 2020-2030k.. The Second Domestication
+of Plants and Animals, the Disruption of the Cow, and the Collapse of
+Industrial Livestock Farming"
+
+[PDF](https://static1.squarespace.com/static/585c3439be65942f022bbf9b/t/5d7fe0e83d119516bfc0017e/1568661791363/RethinkX+Food+and+Agriculture+Report.pdf)
 
 ---
 
-H2 View: "Nikola Phoenix Hydrogen Hub enters second phase for $1.3bn
-hydrogen production loan.. Nikola Corporation has announced that the
-Department of Energy Loan Program Office (LPO) has invited its Phoenix
-Hydrogen Hub project loan application into Part II of its application
-process"
+Minority culture does not even last [one generation](2014/06/the-culture-code.html#heritage).
+Immigrant parents need to be aware of this. You will always be the foreign
+jagoff to your kids. They will never be like you.
 
 ---
 
-Biden was elected President while running against single-payer
-healthcare. That doesn't mean people would not like SP if passed.
+UK "where are you really from?" incident.. it reminds me of [this](tweets/2020/michsass.jpg)
+post. 
 
 ---
 
-We should not expect people to vote in policies that are beneficial,
-they are too policy-stupid for that. It takes leadership to enact change,
-if popular (ppl have to see it to believe it) than you reap the benefits
-as a leader.
-
-"@modacitylife@mastodon.world
-
-Here’s why politicians around the world should be watching Paris:
-
-When she first started challenging car dominance, Mayor Anne Hidalgo
-was ridiculed, threatened and sued.
-
-But these measures are working, and proving incredibly popular, as she
-was comfortably re-elected in 2020"
+Ankalaev is Russian. Blachowicz is Polish. Little intl rivalry
+translating into the ring? 
 
 ---
 
-"computerfact@botsin.space
+Memorable Blachowicz knockout.. dude was counting stars. Oppo didn't
+go down immediately, he sort of slid sideways it looked funny
 
-We were so worried about 'malware' (software that deliberately spreads
-and causes harm) that we forgot to protect against 'mallware'
-(software that transforms every single computing experience into a
-shopping mall) and it took over the world oops"
+[[-]](https://drive.google.com/uc?export=view&id=1xFafrTOjjI4C5-EWeJG89Wi7gqeGcRpo)
 
 ---
 
-I thought I was done but I is not done - Sun as gaseous plasma, added
-to junk science.
-
-[[-]](2022/04/gaseous-sun.html)
+Blachowicz vs Ankalaev? Both are good.. 
 
 ---
 
-Recommending *Master Z: Ip Man Legacy*
+"Distributed Denial of Secrets is the single most trusted leak
+organization on the planet and is constantly publishing new
+submissions from whistleblowers, activist groups and others to bring
+truth to light. .. DDoSecrets has published over 250 datasets from
+more than 50 countries, adding up to nearly 100 terabytes. Our library
+reveals the inner workings of oligarchs’ finances, fascist
+organizations, shell companies, tax havens and banks as well as law
+enforcement, military, and political groups from all over the world"
+
+[[-]](https://ddosecrets.charity/)
 
 ---
 
-H2 Fuel News: "US-made green hydrogen is profitable at scale due to
-Inflation Reduction Act.. Goldman Sachs has announced that the IRA has
-brought a “turning point” for clean energy"
+Since he is about to become homie, below are some excerpts from
+Rifkin's 2003 book. Mentions Veziroglu in 1973 who kickstarted some of
+the early activity around the clean fuel.
+
+[[-]](2022/12/h2-economy-rifkin.html)
 
 ---
 
-Metal hydrides are promising tech. There are actual products using
-them, Lavo is my favorite.
+Expert (ABC AU): "B-21 is designed to reach deep inside enemy's
+territory.. to threathen that enemy with nuclear weapons. The
+conventional strike capability is secondary"
 
-[[-]](2022/02/h2-metal-hydrides.html#metalhyd)
+---
+
+Bloomberg: "China Seals One of the Biggest LNG Deals Ever With
+Qatar.. [who will] send Sinopec 4 million tons of LNG a year from 2026
+[worth $60 billion].. The deal will last for 27 years, making it
+China’s longest LNG supply agreement to date"
+
+---
+
+Jacobin: "By Forcing a Contract on Railworkers, Joe Biden Is Betraying
+Workers Everywhere.. In the foreground of the dispute is the issue of
+paid sick time. More than one hundred thousand workers employed at
+America’s railways do not currently receive paid sick days and face
+strict and punitive attendance policies that leave many with no
+weekends and little time off"
 
 ---
 

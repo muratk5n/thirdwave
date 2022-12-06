@@ -1,5 +1,100 @@
 # Week 49 
 
+H2 Central: "Spain – Government Approves the First 250 Million Aid for
+Green Hydrogen"
+
+---
+
+H2 Central: "Development Starts on Prototype Hydrogen Fuel Cell Toyota Hilux"
+
+---
+
+H2 Central: "POSCO Group to Invest US$40bn in Australia by 2040,
+Including Hydrogen for Steel Making"
+
+---
+
+"@business
+
+The lawyer who represented Bernie Madoff has some advice for Sam
+Bankman-Fried: shut up"
+
+---
+
+Vegetable oils considered harmful. Note the historical mention of
+cotton seed oil \#PradipJamnadas
+
+[[-]](https://youtu.be/Yo-IL-LH5FQ?t=713)
+
+---
+
+PNP.de: "BMW officially starts building hydrogen cars"
+
+---
+
+H2 View: "Nikola Phoenix Hydrogen Hub enters second phase for $1.3bn
+hydrogen production loan.. Nikola Corporation has announced that the
+Department of Energy Loan Program Office (LPO) has invited its Phoenix
+Hydrogen Hub project loan application into Part II of its application
+process"
+
+---
+
+Biden was elected President while running against single-payer
+healthcare. That doesn't mean people would not like SP if passed.
+
+---
+
+We should not expect people to vote in policies that are beneficial,
+they are too policy-stupid for that. It takes leadership to enact change,
+if popular (ppl have to see it to believe it) than you reap the benefits
+as a leader.
+
+"@modacitylife@mastodon.world
+
+Here’s why politicians around the world should be watching Paris:
+
+When she first started challenging car dominance, Mayor Anne Hidalgo
+was ridiculed, threatened and sued.
+
+But these measures are working, and proving incredibly popular, as she
+was comfortably re-elected in 2020"
+
+---
+
+"computerfact@botsin.space
+
+We were so worried about 'malware' (software that deliberately spreads
+and causes harm) that we forgot to protect against 'mallware'
+(software that transforms every single computing experience into a
+shopping mall) and it took over the world oops"
+
+---
+
+I thought I was done but I is not done - Sun as gaseous plasma, added
+to junk science.
+
+[[-]](2022/04/gaseous-sun.html)
+
+---
+
+Recommending *Master Z: Ip Man Legacy*
+
+---
+
+H2 Fuel News: "US-made green hydrogen is profitable at scale due to
+Inflation Reduction Act.. Goldman Sachs has announced that the IRA has
+brought a “turning point” for clean energy"
+
+---
+
+Metal hydrides are promising tech. There are actual products using
+them, Lavo is my favorite.
+
+[[-]](2022/02/h2-metal-hydrides.html#metalhyd)
+
+---
+
 "@Noevanhulst@mastodon.social
 
 Good news: private capital flowing into \#hydrogen economy is breaking
