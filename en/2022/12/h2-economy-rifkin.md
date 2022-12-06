@@ -56,6 +56,19 @@ hoping to win over converts to the hydrogen vision. T.  Nejat
 Veziroglu, president of the association and a member of the group,
 summed up the excitement at the time, exclaiming that hydrogen “was a
 permanent solution to the depletion of conventional fuels, [and a]
-permanent solution to the global environmental problem.” 
+permanent solution to the global environmental problem.” ...
 
+The Soviet Union successfully converted a passenger jet to run
+partially on liquid hydrogen in 1988, and that same year an American,
+William Conrad, became the first person to fly an airplane fueled only
+by liquid hydrogen. In 1992, the Fraunhofer Institute for Solar Energy
+Systems in Germany created the first solar home, using hydrogen for
+long-term energy storage. The next year, Japan committed $2 billion to
+a thirty-year plan to promote hydrogen energy around the world. In
+1994, the first hydrogen-powered buses took to the streets in Geel,
+Belgium. The Chicago Transit Authority began testing its own hydrogen-
+fueled buses a year later. The Royal Dutch/ Shell Group made its first
+tentative steps into the hydrogen era in 1998, setting up a “Hydrogen
+Team” to explore business ventures, and a year later it set up a
+hydrogen division.
 
