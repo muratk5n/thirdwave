@@ -48,7 +48,7 @@ Being British is wanting to move to America as a child then thinking
 ---
 
 The Fragile States Index (FSI). I plotted two variables; there are
-some other interesting ones too, E3: Human Flight and Brain Drain, C1:
+some other interesting ones, E3: Human Flight and Brain Drain, C1:
 Security Apparatus, C2: Factionalized Elites.
 
 [[-]](2015/09/democracy-status.html#fsi)
