@@ -1,5 +1,111 @@
 # Week 49 
 
+
+
+CNBC: "Amazon's cloud unit faces cost-sensitive customers as economic
+fears mount"
+
+---
+
+TASS: "Russian armed forces successfully advance near Artyomovsk"
+
+---
+
+"@DrFunkySpoon@qoto.org
+
+Our new paper: Venus Life Finder Habitability Mission: Motivation,
+Science Objectives, and Instrumentation"
+
+[[-]](https://qoto.org/@DrFunkySpoon/109388314093865044)
+
+---
+
+Figure 3 is interesting
+
+[[-]](https://pbs.twimg.com/media/FjMOvPOaYAc96zk?format=jpg&name=medium)
+
+---
+
+*The Disruption of the Cow*
+
+"Rethinking Food and Agriculture 2020-2030k.. The Second Domestication
+of Plants and Animals, the Disruption of the Cow, and the Collapse of
+Industrial Livestock Farming"
+
+[PDF](https://static1.squarespace.com/static/585c3439be65942f022bbf9b/t/5d7fe0e83d119516bfc0017e/1568661791363/RethinkX+Food+and+Agriculture+Report.pdf)
+
+---
+
+Minority culture does not even last [one generation](2014/06/the-culture-code.html#heritage).
+Immigrant parents need to be aware of this. You will always be the foreign
+jagoff to your kids. They will never be like you.
+
+---
+
+UK "where are you really from?" incident.. it reminds me of [this](tweets/2020/michsass.jpg)
+post. 
+
+---
+
+Ankalaev is Russian. Blachowicz is Polish. Little intl rivalry
+translating into the ring? 
+
+---
+
+Memorable Blachowicz knockout.. dude was counting stars. Oppo didn't
+go down immediately, he sort of slid sideways it looked funny
+
+[[-]](https://drive.google.com/uc?export=view&id=1xFafrTOjjI4C5-EWeJG89Wi7gqeGcRpo)
+
+---
+
+Blachowicz vs Ankalaev? Both are good.. 
+
+---
+
+"Distributed Denial of Secrets is the single most trusted leak
+organization on the planet and is constantly publishing new
+submissions from whistleblowers, activist groups and others to bring
+truth to light. .. DDoSecrets has published over 250 datasets from
+more than 50 countries, adding up to nearly 100 terabytes. Our library
+reveals the inner workings of oligarchs’ finances, fascist
+organizations, shell companies, tax havens and banks as well as law
+enforcement, military, and political groups from all over the world"
+
+[[-]](https://ddosecrets.charity/)
+
+---
+
+Since he is about to become homie, below are some excerpts from
+Rifkin's 2003 book. Mentions Veziroglu in 1973 who kickstarted some of
+the early activity around the clean fuel.
+
+[[-]](2022/12/h2-economy-rifkin.html)
+
+---
+
+Expert (ABC AU): "B-21 is designed to reach deep inside enemy's
+territory.. to threathen that enemy with nuclear weapons. The
+conventional strike capability is secondary"
+
+---
+
+Bloomberg: "China Seals One of the Biggest LNG Deals Ever With
+Qatar.. [who will] send Sinopec 4 million tons of LNG a year from 2026
+[worth $60 billion].. The deal will last for 27 years, making it
+China’s longest LNG supply agreement to date"
+
+---
+
+Jacobin: "By Forcing a Contract on Railworkers, Joe Biden Is Betraying
+Workers Everywhere.. In the foreground of the dispute is the issue of
+paid sick time. More than one hundred thousand workers employed at
+America’s railways do not currently receive paid sick days and face
+strict and punitive attendance policies that leave many with no
+weekends and little time off"
+
+---
+
 H2 Central: "Spain – Government Approves the First 250 Million Aid for
 Green Hydrogen"
 
