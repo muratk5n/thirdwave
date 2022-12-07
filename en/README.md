@@ -102,7 +102,7 @@ visible, representatives of a larger group of Dems
 
 ---
 
-Sen GA win - it was a tough one
+Senate GA win - it was a tough one
 
 ---
 
