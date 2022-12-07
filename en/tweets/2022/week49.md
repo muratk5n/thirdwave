@@ -36,13 +36,13 @@ Industrial Livestock Farming"
 
 ---
 
-Minority culture does not even last [one generation](2014/06/the-culture-code.html#heritage).
+Minority culture does not even last [one generation](../../2014/06/the-culture-code.html#heritage).
 Immigrant parents need to be aware of this. You will always be the foreign
 jagoff to your kids. They will never be like you.
 
 ---
 
-UK "where are you really from?" incident.. it reminds me of [this](tweets/2020/michsass.jpg)
+UK "where are you really from?" incident.. it reminds me of [this](../2020/michsass.jpg)
 post. 
 
 ---
@@ -80,7 +80,7 @@ Since he is about to become homie, below are some excerpts from
 Rifkin's 2003 book. Mentions Veziroglu in 1973 who kickstarted some of
 the early activity around the clean fuel.
 
-[[-]](2022/12/h2-economy-rifkin.html)
+[[-]](../../2022/12/h2-economy-rifkin.html)
 
 ---
 
