@@ -98,7 +98,7 @@ more curbs"
 ---
 
 Manchin and Sinema are now irrelevant? Not if they were merely the
-visible, representatives of a larger group of Dems
+visible part, representatives of a larger group of Dems
 
 ---
 
