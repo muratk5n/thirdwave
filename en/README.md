@@ -75,14 +75,6 @@ they’re ‘not a real market’"
 
 ---
 
-"@PlugPowerInc
-
-Liquid \#hydrogen has higher energy density than gas, making it the
-optimum way to deliver hydrogen to customers. Plug uses and sells the
-most efficient hydrogen liquefiers on the market"
-
----
-
 Reuters: "China's Xi starts 'epoch-making' Saudi visit.. [CH]
 delegation is expected to sign deals this week worth $30 billion with
 Riyadh, Saudi state news agency SPA said... China, the world's biggest
