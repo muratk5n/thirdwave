@@ -1,7 +1,5 @@
 # Week 49 
 
-
-
 CNBC: "Amazon's cloud unit faces cost-sensitive customers as economic
 fears mount"
 
