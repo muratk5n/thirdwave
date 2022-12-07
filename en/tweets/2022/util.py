@@ -8,6 +8,28 @@ import urllib.request as urllib2
 from io import BytesIO
 import pandas_ta as ta
 
+def rottentomatoes(movie,tv=False):
+    rel = movie.replace(" ","_").lower()
+    url = "https://www.rottentomatoes.com"
+    if not tv:
+       url = url + "/m/" + rel
+    else:
+       url = url + "/tv/" + rel       
+    hdr = {'User-Agent':'Mozilla/5.0'}
+    res = urllib2.urlopen(url).read().decode('utf-8')
+    if not tv:    
+       regreg = re.findall('audiencescore="(.*?)"',res)
+       audiencescore = int(regreg[0])
+       regreg = re.findall('tomatometerscore="(.*?)"',res)
+       tomatometerscore = int(regreg[0])
+       return {"tomatometer score": tomatometerscore, "audience score": audiencescore}
+    else:
+       tom = re.findall('<span.*?data-qa="tomatometer">\n(.*?)</span>',res,re.DOTALL)
+       tom = tom[0].strip()
+       aud = re.findall('<span.*?data-qa="audience-score">\n(.*?)</span>',res,re.DOTALL)
+       aud = aud[0].strip()
+       return {"tomatometer score": tom, "audience score": aud}
+   
 def boxofficemojo(q):
     q = q.replace(" ","+").lower()
     url = "https://www.boxofficemojo.com/search/?q=" + q
@@ -30,18 +52,6 @@ def boxofficemojo(q):
             "International": intl, "Worldwide Total": worldwide,
             "Release Date": reldate}
 
-
-def rottentomatoes(movie):
-    rel = movie.replace(" ","_").lower()
-    url = "https://www.rottentomatoes.com"
-    url = url + "/m/" + rel
-    hdr = {'User-Agent':'Mozilla/5.0'}
-    res = urllib2.urlopen(url).read().decode('utf-8')
-    regreg = re.findall('audiencescore="(.*?)"',res)
-    audiencescore = int(regreg[0])
-    regreg = re.findall('tomatometerscore="(.*?)"',res)
-    tomatometerscore = int(regreg[0])
-    return {"tomatometer score": tomatometerscore, "audience score": audiencescore}
 
 def rent_housing():
     import pandas as pd, datetime
