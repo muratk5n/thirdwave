@@ -14,7 +14,7 @@ The Turing Test poisoned the minds of generations of AI enthusiasts,
 because its criteria is producing text that persuades observers it was
 written by a human.
 
-The result? Generative AI text products designed to "appear real"
+The result? Generative AI text products designed to 'appear real'
 rather than produce accurate or ethical outputs.
 
 It *should* be obvious why it's problematic to create a piece of
