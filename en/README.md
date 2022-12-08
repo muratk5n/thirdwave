@@ -125,9 +125,9 @@ aided both the mullahs and their al Qaeda financiers"
 
 ---
 
-Hah! I knew Cengic's son.. During the civil war he sent the kid to
-Stanpoli, where we were at. Tough son a bitch, we'd figured the father
-was probably the muscle in their gov. Small world.
+Hah.. small world.. I knew Cengic's son.. During the civil war he sent
+the kid to Stanpoli, where we were at. Tough son a bitch, we'd figured
+the father was probably the muscle in their gov.
 
 Wiki: "Supposedly, Bout had been involved with arms dealings during
 the Yugoslav Wars, especially with the Bosnian government forces
