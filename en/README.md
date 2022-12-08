@@ -101,7 +101,7 @@ well as support programs for SMEs"
 
 ---
 
-Blue Origin [uses]((2022/02/h2-end-use.html#space)) the magic molecule;
+Blue Origin [uses](2022/02/h2-end-use.html#space) the magic molecule;
 why wouldn't they? It is an efficient fuel.
 
 ---
