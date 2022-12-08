@@ -70,8 +70,8 @@ Microsoft data center"
 
 ---
 
-Jamie Dimon: "Jamie Dimon slams cryptocurrencies as ‘pet rocks’, says
-they’re ‘not a real market’"
+CNBC: "Jamie Dimon slams cryptocurrencies as ‘pet rocks’, says they’re
+‘not a real market’"
 
 ---
 
