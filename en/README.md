@@ -131,8 +131,8 @@ was probably the muscle in their gov. Small world.
 
 Wiki: "Supposedly, Bout had been involved with arms dealings during
 the Yugoslav Wars, especially with the Bosnian government forces
-during its uprising against the Milošević government in
-Yugoslavia. Hasan Čengić, who was the former Deputy Prime Minister and
+during its uprising against the Milosevic government in
+Yugoslavia. Hasan Cengic, who was the former Deputy Prime Minister and
 Defense Minister of the Federation of Bosnia and Herzegovina is
 allegedly one of his former contacts"
 
