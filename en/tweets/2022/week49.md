@@ -1,5 +1,95 @@
 # Week 49 
 
+H2 Fuel News: "NAMX HUV vehicle with changeable hydrogen bottles
+unveiled.. According to NAMX, there will initially be two trim levels
+offered from the 2025 rollout of the HUV with the changeable hydrogen
+bottles. The first of the trim levels will be entry-level with
+rear-wheel drive and 296 horsepower. It will be able to reach 62 miles
+per hour in 6.5 seconds and will be able to accelerate to 124 miles
+per hour"
+
+---
+
+*Die Hard 2* - Beepers, faxes, it's full-blown 90s. But a proper
+action movie - it gets a 4.
+
+---
+
+Where is Jack Dorsey's alternative social media solution? Pie in the
+sky, something like that..?
+
+---
+
+Reuters: "BP chief executive.. is betting on hydrogen to power future
+low-carbon businesses as the governments of major economies stump up
+cash to develop the fuel to decarbonise"
+
+---
+
+She was a hot Vulcan \#RIP \#KirstieAlley
+
+[[-]](https://pbs.twimg.com/media/FjUgvCwWYAE6lzn?format=jpg&name=small)
+
+---
+
+"@NoContextBrits
+
+Being British is wanting to move to America as a child then thinking
+'fuck that' as an adult"
+
+---
+
+The Fragile States Index (FSI). I plotted two variables; there are
+some other interesting ones, E3: Human Flight and Brain Drain, C1:
+Security Apparatus, C2: Factionalized Elites.
+
+[[-]](2015/09/democracy-status.html#fsi)
+
+---
+
+RT: "Off the record, the French admit they can’t give more weapons to
+Ukraine due to the state of their own supplies"
+
+---
+
+Al Jazeera: "Ukrainian refugees in US ‘have nowhere to return’"
+
+---
+
+H2 Fuel News: "Caterpillar collabs with Microsoft and Ballard.. The
+project will use hydrogen fuel cell (HFC) tech for backup power at a
+Microsoft data center" 
+
+---
+
+CNBC: "Jamie Dimon slams cryptocurrencies as ‘pet rocks’, says they’re
+‘not a real market’"
+
+---
+
+Reuters: "China's Xi starts 'epoch-making' Saudi visit.. [CH]
+delegation is expected to sign deals this week worth $30 billion with
+Riyadh, Saudi state news agency SPA said... China, the world's biggest
+energy consumer, is a major trade partner of Gulf oil and gas
+producers. Saudi Arabia is its top oil supplier and state-run Saudi
+Aramco has annual supply deals with half a dozen Chinese refiners"
+
+---
+
+Hindustan Times World: "China pivots from ‘zero-Covid’ policy, eases
+more curbs"
+
+---
+
+Manchin and Sinema are now irrelevant? Not if they were merely the
+visible part, representatives of a larger group of Dems
+
+---
+
+Senate GA win - it was a tough one
+
+---
+
 CNBC: "Amazon's cloud unit faces cost-sensitive customers as economic
 fears mount"
 
