@@ -139,7 +139,7 @@ allegedly one of his former contacts"
 ---
 
 Read a little about his bio, thought this sounds like the character in
-Lord of War, and voila, the movie was partly based on him.
+*Lord of War*, and voila, the movie was partly based on him.
 
 ---
 
