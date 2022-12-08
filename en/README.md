@@ -48,8 +48,8 @@ whose mere questions would spur deep research and continue to do so to
 this day. Who is the equivalent figure here? Edward Witten?  Guy got
 sucked into the quicksand of string theory now is so stuck that when
 asked about what else is there promising other than string theory in
-an interview he'll flatly respond "there is there is nothing else" 😶
-- imagine that, says this despite the field not having produced
+an interview he'll flatly respond "there is there is nothing else" 😶 -
+imagine that, says this despite the field not having produced
 anything of significance for the past 40+ years. Grand fail.
 
 ---
