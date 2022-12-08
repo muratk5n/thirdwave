@@ -41,8 +41,8 @@ tail"
 
 ---
 
-Fundamental research has seen giants in its past; Gauss would ask a
-graduate students to "go formalize some stuff on geometry", and dude
+Fundamental research has seen giants in its past; Gauss could ask a
+graduate student to "go formalize some stuff on geometry", and dude
 would go off and *invent topology* (this is Riemann fyi). Or Hilbert,
 whose mere questions would spur deep research and continue to do so to
 this day. Who is the equivalent figure here? Edward Witten?  Guy got
