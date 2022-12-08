@@ -107,7 +107,8 @@ why wouldn't they? It is an efficient fuel.
 ---
 
 I'd say at this juncture in geo pol, this guy could come in handy for
-Russia.
+Russia. How crazy would it be Bout arranges purchasing of stolen
+US arms for Russia?
 
 From book *Merchant of Death*, "Bout cultivated close business and
 social ties with some of the Third World’s.. strongmen. He dealt
