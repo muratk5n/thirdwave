@@ -17,7 +17,6 @@ plt.savefig('af-ru-us.jpg')
 ![](af-ru-us.jpg)
 
 
-
 ### News
 
 [13/10](https://www.africanews.com/2022/10/13/african-countries-divided-over-un-vote-against-russia//) -

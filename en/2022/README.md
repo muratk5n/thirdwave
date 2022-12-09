@@ -106,3 +106,7 @@
 
 [Problems of Battery Electric Tech](11/battery-electric.html)
 
+[The Hydrogen Economy](12/h2-economy-rifkin.html)
+
+[African Support for Russia](12/ru-africa.html)
+
