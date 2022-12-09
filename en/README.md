@@ -90,7 +90,7 @@ merely shuffling hearsay.
 
 ---
 
-Canadian Greens need a little disrupting. They are stuck on 2010s Dem
+Canadian Greens need a little disrupting. They are copying 2010s Dem
 shitlib playbook - being audacious on hopeful sounding shit. If it
 sounds audacious it's a sign you must grind it. Sprinkle a little
 'grassroots imploration' to cover your ass, you are done.  Politics of
