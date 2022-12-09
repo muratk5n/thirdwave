@@ -8,142 +8,111 @@ Pinned Tweet
 
 ---
 
-"@intelwire@mastodon.social
-
-The Turing Test poisoned the minds of generations of AI enthusiasts,
-because its criteria is producing text that persuades observers it was
-written by a human.
-
-The result? Generative AI text products designed to 'appear real'
-rather than produce accurate or ethical outputs.
-
-It *should* be obvious why it's problematic to create a piece of
-software that excels at persuasion without concern for accuracy,
-honesty or ethics. But apparently it's not"
+CNBC: "Russia's Ukraine onslaught shows zero signs of a winter lull as
+conflict rages"
 
 ---
 
-H2 Central: "Jordan and Norway Set up Cooperation Agreement on Green
-Hydrogen, Renewables"
+TASS: "France bought 153 tons of enriched uranium from Russia in 2022"
 
 ---
 
-First Post: "Russia shipped over 50% of seaborne Urals oil to India in
-November"
+*Shot Caller* - it could get gruesome at times but worth it.. 
 
 ---
 
-H2 Central "Airbus announces hydrogen fuel cell plane.. The aircraft
-company will be testing H2 on the largest commercial airplane ever to
-fly...  According to [Airbus] it intends to mount the new hydrogen
-fuel cell engine between a modified A380 superjumbo plane’s wings and
-tail"
+Geek Wire: "Seattle-based First Mode and the Anglo American mining
+company have signed a binding agreement to combine First Mode with
+Anglo American’s nuGen effort to develop a [H2 based] zero-emission
+system for hauling ore.
+
+The transaction, which is expected to close next month, values the
+newly combined business at around $1.5 billion and includes a 200
+million equity injection from Anglo American...
+
+First Mode is an engineering company that initially focused on
+providing expertise for space projects such as NASA’s Perseverance
+rover mission and the Psyche mission to a metal-rich asteroid. But in
+recent years, it’s devoted increasing attention to carbon-reduction
+technologies for heavy industry.
+
+The company provided the hydrogen-fueled hybrid power plant for Anglo
+American’s nuGen mining truck, which made its debut in South Africa
+this year as the world’s largest zero-emission vehicle."
 
 ---
 
-Fundamental research has seen giants in its past; Gauss could ask a
-graduate student to "go formalize some stuff on geometry", and dude
-would go off and *invent topology* (this is Riemann fyi). Or Hilbert,
-whose mere questions would spur deep research and continue to do so to
-this day. Who is the equivalent figure here? Edward Witten?  Guy got
-sucked into the quicksand of string theory now is so stuck that when
-asked about what else is there promising other than string theory in
-an interview he'll flatly respond "there is nothing else" 😶 -
-imagine that, says this despite the field not having produced
-anything of significance for the past 40+ years. Grand fail.
+This show went broke.
+
+```python
+u.rottentomatoes("The Lord of the Rings The Rings of Power",tv=True)
+```
+
+```text
+Out[1]: {'tomatometer score': '86%', 'audience score': '39%'}
+```
 
 ---
 
-After WWII US became the center of science; they were supposed to be
-the stewards of fundamental research. But at least from physics point
-of view they've done a piss poor job of it. The fruitless avenues
-scientists are stuck at now remind me how bizarre gismos that are
-constantly "invented" there, the same mentality seems to have been
-applied to fundamental science. The problem is gismos go away if they
-can't find traction, but the bizarre avenues linger until the lost
-muckers stuck in them are dead or their funding is cut. Rube Goldberg
-approach doesn't work for fundamentals.
+TASS: "Putin acknowledges Russia’s war in Ukraine could be a long one"
 
 ---
 
-Fox News: "Toyota is working on something even more exciting. It is
-collaborating with Yamaha on a hydrogen-burning 5.0-liter V8 engine
-that could potentially be used in full-size trucks and sports cars.
-
-<img width="340" src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/02/1862/1046/yamaha.jpg?ve=1&tl=1a"/>
+TASS: "US-Russian prisoner swap took place thanks to Saudi-Emirati mediation"
 
 ---
 
-Fox News: "Toyota unveils hydrogen-powered pickup and SUV"
+"@PlugPowerInc
+
+Plug’s California plant joins the company’s growing national network
+that will supply 500 tons of liquid green hydrogen by 2025"
 
 ---
 
-Dennis Coffey - 7th Galaxy \#music
+"@FranceHydrogene
 
-[[-]](https://youtu.be/r2Js8J0PCmg)
-
----
-
-Small win IMO; electricity consumption is only 15-20% of all energy
-consumption. You could reach the "biggest" number by producing 51% of
-15%, which still puts you less than 8% of all energy.
-
-"Renewable to become biggest source of electricity" 
+Dr Uwe Remme (@IEA) underlines that the demand for #hydrogène will be
+multiplied by 5 by 2050, according to the 'Net Zero Emission' scenario
+of the International Energy Agency"
 
 ---
 
-"@moorsevnews@masto.ai
-
-\#Morocco 🇲🇦 launches Mega Project to Boost Green, Low-Carbon
-Economy. The investment plan totals $13 billion..  over the 2023-2027
-period and covers investments in renewables, #green \#hydrogen, as
-well as support programs for SMEs"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Recent legislation “may prove to be the single most important event in the history of green hydrogen to date.” We applaud this development as we continue to pursue <a href="https://twitter.com/hashtag/greenhydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#greenhydrogen</a> with projects like the [H2] Innovation Experience and Angeles Link.<a href="https://t.co/WOA3AgoGCL">https://t.co/WOA3AgoGCL</a></p>&mdash; SoCalGas (@socalgas) <a href="https://twitter.com/socalgas/status/1600292907986010113?ref_src=twsrc%5Etfw">December 7, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Blue Origin [uses](2022/02/h2-end-use.html#space) the magic molecule;
-why wouldn't they? It is an efficient fuel.
+"Putin fell down the stairs"? Was it the real Putin or the
+body-double?  How do they know?
+
+They get most of this stuff from anti-Kremlin Telegram channels, the
+media has zero ability to check the validity of the news. They are
+merely shuffling hearsay.
 
 ---
 
-I'd say at this juncture in geo pol, this guy could come in handy for
-Russia. How crazy would it be Bout arranges purchasing of stolen
-US arms from Ukraine for Russia?
+Canadian Greens need a little disrupting. They are stuck on 2010s Dem
+shitlib playbook - being audacious on hopeful sounding shit. If it
+sounds audacious it must have merit, so it needs to spur you to grind
+nmore.  Sprinkle a little 'grassroots imploring' to cover your ass, you
+are done.  Politics of the future my friend.
 
-From book *Merchant of Death*, "Bout cultivated close business and
-social ties with some of the Third World’s.. strongmen. He dealt
-directly with Charles Taylor in Liberia, Mubuto Sese Seko in Zaire,
-Paul Kagame in Rwanda, and rebel leaders Jonas Savimbi in Angola,
-Jean-Pierre Bemba in the DRC, and Sam 'Mosquito' Bockarie in Sierra
-Leone. Bout armed and hunted with Ahmad Shah Massoud, the resistance
-fighter and Northern Alliance leader who became an Afghan hero but who
-was also accused of massacring his foes. Bout’s organization then
-nimbly switched sides in Afghanistan, covertly aiding the despotic
-Taliban regime, secretly providing the Islamic militants with their
-own fleet of cargo planes and flying in weapons and supplies that
-aided both the mullahs and their al Qaeda financiers"
+"@wyldcdn
+
+Seriously Canada!!!! 60+ companies working on hydrogen in Canada.  One
+of them is basically the company that kickstarted this. They are all
+as good as it gets.  What do our 'greens' push for?  Dirty foreign
+batteries and even dirtier infrastructure"
 
 ---
 
-Hah.. small world.. I knew Cengic's son.. During the civil war he sent
-the kid to Stanpoli, where we were at. Tough son a bitch, we'd figured
-the father was probably the muscle in their gov.
+"@hydrogenLOHC
 
-Wiki: "Supposedly, Bout had been involved with arms dealings during
-the Yugoslav Wars, especially with the Bosnian government forces
-during its uprising against the Milosevic government in
-Yugoslavia. Hasan Cengic, who was the former Deputy Prime Minister and
-Defense Minister of the Federation of Bosnia and Herzegovina is
-allegedly one of his former contacts"
+Follow our \#LOHC-based #hydrogen supply chain for the Northern Green
+Crane project! #Sweden will be our country of choice for importing up
+to 8,000 tonnes of \#greenhydrogen per year to the \#Netherlands and
+\#Germany"
 
----
-
-Read a little about his bio, thought this sounds like the character in
-*Lord of War*, and voila, the movie was partly based on him.
-
----
-
-US traded arms dealer Viktor Bout for Griner? 
+<img width="340" src="https://pbs.twimg.com/media/FjYlOStWQAA_mmR?format=jpg&name=small"/>
 
 ---
 
