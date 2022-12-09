@@ -71,7 +71,7 @@ that will supply 500 tons of liquid green hydrogen by 2025"
 
 "@FranceHydrogene
 
-Dr Uwe Remme (@IEA) underlines that the demand for #hydrogène will be
+Dr Uwe Remme (@IEA) underlines that the demand for #hydrogen will be
 multiplied by 5 by 2050, according to the 'Net Zero Emission' scenario
 of the International Energy Agency"
 
@@ -85,8 +85,6 @@ of the International Energy Agency"
 body-double?  How do they know? They get most of this stuff from
 anti-Kremlin Telegram channels, the media has zero ability to check
 the validity of the news. They are merely shuffling hearsay.
-
----
 
 ---
 
