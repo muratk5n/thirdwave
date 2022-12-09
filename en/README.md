@@ -82,11 +82,9 @@ of the International Energy Agency"
 ---
 
 "Putin fell down the stairs"? Was it the real Putin or the
-body-double?  How do they know?
-
-They get most of this stuff from anti-Kremlin Telegram channels, the
-media has zero ability to check the validity of the news. They are
-merely shuffling hearsay.
+body-double?  How do they know? They get most of this stuff from
+anti-Kremlin Telegram channels, the media has zero ability to check
+the validity of the news. They are merely shuffling hearsay.
 
 ---
 
