@@ -5,8 +5,6 @@ pro-US countries in Africa. Countries siding with RU are colored in
 red, for US green. Country codes are ISO3, the full list is [here](https://www.iban.com/country-codes).
 
 ```python
-import util as u
-
 ru = ['Mali','Ethiopia','Congo','South Africa','Sudan','Uganda',
       'Zimbabwe','Burkina Faso','Cameroon','Equatorial Guinea','Sao Tome and Principe',
       'Cameroon','Niger'] 
