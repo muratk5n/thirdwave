@@ -86,10 +86,11 @@ the validity of the news. They are merely shuffling hearsay.
 ---
 
 Canadian Greens need a little disrupting. They are copying 2010s Dem
-playbook - being audacious on hopeful sounding shit. The more
-fundamentally retarded, the better - that makes that path more
-audacious. Sprinkle a little 'grassroots imploration' to cover your
-ass, you are done.  Politics of the future my friend.
+playbook - being audacious on hopeful sounding shit. If it audacious
+it's a sign you must grind it. The more fundamentally retarded, the
+better - that makes that path more audacious. Sprinkle a little
+'grassroots imploration' to cover your ass, you are done.  Politics of
+the future my friend.
 
 "@wyldcdn
 
