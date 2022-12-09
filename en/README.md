@@ -24,21 +24,18 @@ TASS: "France bought 153 tons of enriched uranium from Russia in 2022"
 Geek Wire: "Seattle-based First Mode and the Anglo American mining
 company have signed a binding agreement to combine First Mode with
 Anglo American’s nuGen effort to develop a [H2 based] zero-emission
-system for hauling ore.
-
-The transaction, which is expected to close next month, values the
-newly combined business at around $1.5 billion and includes a 200
-million equity injection from Anglo American...
+system for hauling ore. The transaction, which is expected to close
+next month, values the newly combined business at around $1.5 billion
+and includes a 200 million equity injection from Anglo American...
 
 First Mode is an engineering company that initially focused on
 providing expertise for space projects such as NASA’s Perseverance
 rover mission and the Psyche mission to a metal-rich asteroid. But in
 recent years, it’s devoted increasing attention to carbon-reduction
-technologies for heavy industry.
-
-The company provided the hydrogen-fueled hybrid power plant for Anglo
-American’s nuGen mining truck, which made its debut in South Africa
-this year as the world’s largest zero-emission vehicle."
+technologies for heavy industry. The company provided the
+hydrogen-fueled hybrid power plant for Anglo American’s nuGen mining
+truck, which made its debut in South Africa this year as the world’s
+largest zero-emission vehicle."
 
 ---
 
