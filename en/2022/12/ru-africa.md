@@ -1,16 +1,20 @@
 # African Support for Russia
 
-
 ```python
+import util as u
+
 ru = ['Mali','Ethiopia','Congo','South Africa','Sudan','Uganda',
       'Zimbabwe','Burkina Faso','Cameroon','Equatorial Guinea','Sao Tome and Principe',
-      'Cameroon','Niger'],
+      'Cameroon','Niger'] 
 
 us = ['Chad','Gabon','Ghana','Kenya','Rwanda','Djibouti','Somalia',
       'Democratic Republic of the Congo', 'Mauritania','Lesotho', 'Mauritius']
 
-print(us)
+u.plot_africa_ru_us(ru,us)
+plt.savefig('af-ru-us.jpg')   
 ```
+
+![](af-ru-us.jpg)
 
 
 
