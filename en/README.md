@@ -17,7 +17,7 @@ TASS: "France bought 153 tons of enriched uranium from Russia in 2022"
 
 ---
 
-*Shot Caller* - it could get gruesome at times but worth it.. 
+*Shot Caller* - gruesome at times but worth it..
 
 ---
 
