@@ -210,8 +210,7 @@ The SLS, a key piece of hardware for NASA's Artemis moon program, is
 now the most powerful rocket ever to launch successfully, and it uses
 liquid hydrogen.
 
-<img width="340" src="https://pbs.twimg.com/media/Fi9rKgsWIAAykvU?format=jpg&name=small"/>
-
+<img width="340" src="artemis-nasa.jpeg"/>
 
 References
 
