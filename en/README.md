@@ -27,7 +27,7 @@ Per state. The prices vary wildly across states
 
 ---
 
-Gas price is down 
+US gasoline price down 
 
 ```
 2022-12-05  3.504
