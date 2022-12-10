@@ -8,8 +8,6 @@ Pinned Tweet
 
 ---
 
-
-
 Al Monitor: "Oil prices have fallen to a yearly low, despite a recent
 production cut supported by Saudi Arabia and Russia... 'The drop
 reflects market anxieties about the prospect of a recession' [said
