@@ -8,107 +8,105 @@ Pinned Tweet
 
 ---
 
-CNBC: "Russia's Ukraine onslaught shows zero signs of a winter lull as
-conflict rages"
+
+
+Al Monitor: "Oil prices have fallen to a yearly low, despite a recent
+production cut supported by Saudi Arabia and Russia... 'The drop
+reflects market anxieties about the prospect of a recession' [said
+expert]"
 
 ---
 
-TASS: "France bought 153 tons of enriched uranium from Russia in 2022"
-
----
-
-*Shot Caller* - gruesome at times but worth it..
-
----
-
-Geek Wire: "Seattle-based First Mode and the Anglo American mining
-company have signed a binding agreement to combine First Mode with
-Anglo American’s nuGen effort to develop a [H2 based] zero-emission
-system for hauling ore. The transaction, which is expected to close
-next month, values the newly combined business at around $1.5 billion
-and includes a 200 million equity injection from Anglo American...
-
-First Mode is an engineering company that initially focused on
-providing expertise for space projects such as NASA’s Perseverance
-rover mission and the Psyche mission to a metal-rich asteroid. But in
-recent years, it’s devoted increasing attention to carbon-reduction
-technologies for heavy industry. The company provided the
-hydrogen-fueled hybrid power plant for Anglo American’s nuGen mining
-truck, which made its debut in South Africa this year as the world’s
-largest zero-emission vehicle."
-
----
-
-This show went broke.
-
-```python
-u.rottentomatoes("The Lord of the Rings The Rings of Power",tv=True)
-```
+Per state. The prices vary wildly across states
 
 ```text
-Out[1]: {'tomatometer score': '86%', 'audience score': '39%'}
+  state  price
+0    CA  5.173
+1    TX  3.065
+2    FL  3.497
+3    NY  3.874
 ```
 
 ---
 
-TASS: "Putin acknowledges Russia’s war in Ukraine could be a long one"
+Gas price is down 
+
+```
+2022-12-05  3.504
+```
 
 ---
 
-TASS: "US-Russian prisoner swap took place thanks to Saudi-Emirati mediation"
+ICIS: "France will have an updated national hydrogen strategy by the
+end of the first half of next year as the Minister for Energy
+Transition and the Minister Delegate for Industry are to formulate a
+joint work program.. France originally launched its hydrogen plan in
+2018 and then its national hydrogen strategy in 2020, however,
+“following the remarkable development of the projects carried out by
+the sector since 2020, an update was necessary,” a press release from
+the French government said"
 
 ---
 
-"@PlugPowerInc
-
-Plug’s California plant joins the company’s growing national network
-that will supply 500 tons of liquid green hydrogen by 2025"
-
----
-
-"@FranceHydrogene
-
-Dr Uwe Remme (@IEA) underlines that the demand for #hydrogen will be
-multiplied by 5 by 2050, according to the 'Net Zero Emission' scenario
-of the International Energy Agency"
+The Local: "Spain, France and Portugal on Friday unveil details of
+their ambitious plan for an underwater pipeline to bring green
+hydrogen from the Iberian Peninsula to the rest of Europe"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Recent legislation “may prove to be the single most important event in the history of green hydrogen to date.” We applaud this development as we continue to pursue <a href="https://twitter.com/hashtag/greenhydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#greenhydrogen</a> with projects like the [H2] Innovation Experience and Angeles Link.<a href="https://t.co/WOA3AgoGCL">https://t.co/WOA3AgoGCL</a></p>&mdash; SoCalGas (@socalgas) <a href="https://twitter.com/socalgas/status/1600292907986010113?ref_src=twsrc%5Etfw">December 7, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+H2 View: "H2Med hydrogen pipeline can build 'a European hydrogen backbone'"
 
 ---
 
-"Putin fell down the stairs"? Was it the real Putin or the
-body-double?  How do they know? They get most of this stuff from
-anti-Kremlin Telegram channels, the media has zero ability to check
-the validity of the news. They are merely shuffling hearsay.
+The H2 pipeline news was a bombshell. Huge. 
 
 ---
 
-Canadian Greens need a little disrupting. They are copying 2010s Dem
-playbook - being audacious on hopeful sounding shit. If it audacious
-it's a sign you must grind it. The more fundamentally retarded, the
-better - that makes that path more audacious. Sprinkle a little
-'grassroots imploration' to cover your ass, you are done.  Politics of
-the future my friend.
-
-"@wyldcdn
-
-Seriously Canada!!!! 60+ companies working on hydrogen in Canada.  One
-of them is basically the company that kickstarted this. They are all
-as good as it gets.  What do our 'greens' push for?  Dirty foreign
-batteries and even dirtier infrastructure"
+Republica Portugese: "Portugal, Spain and France agree on a Green Energy Corridor"
 
 ---
 
-"@hydrogenLOHC
+"@eunews@mstodon.eu
 
-Follow our \#LOHC-based #hydrogen supply chain for the Northern Green
-Crane project! #Sweden will be our country of choice for importing up
-to 8,000 tonnes of \#greenhydrogen per year to the \#Netherlands and
-\#Germany"
+Spain and France to use planned pipeline only for hydrogen.. Spain and
+France are dropping plans to transport natural gas via an undersea
+pipeline between the two countries and will instead dedicate it only
+to hydrogen in a bid to secure the 'maximum' possible EU funding for
+the project" via [FT](https://www.ft.com/content/b0fbbaaf-3c21-4ba2-836c-fc2998048654)
 
-<img width="340" src="https://pbs.twimg.com/media/FjYlOStWQAA_mmR?format=jpg&name=small"/>
+---
+
+My guess on why the gained ground, Russia goes in with the essentials
+- guns, grain, protection detail for the leader (it's key) while US
+condemns for violation of this or that. The West (and China) have the
+money and some turn their nose at military relations and support but
+it clearly makes a difference. Plus with the war in UA grain is more
+valuable.
+
+---
+
+It does look like Chad is surrounded.
+
+Will update this map with more info
+
+---
+
+[Link](2022/12/ru-africa.html)
+
+---
+
+US has been losing ground in Africa? 
+
+This calls for a timeline and a map. 
+
+---
+
+FTI Global: "Pro-US Chad has been surrounded by pro-Russia nations,
+and its surrender is inevitable"
+
+---
+
+BBC: "Russia is cheering on the Burkina Faso coup"
 
 ---
 
