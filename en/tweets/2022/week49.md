@@ -197,7 +197,7 @@ well as support programs for SMEs"
 
 ---
 
-Blue Origin [uses](2022/02/h2-end-use.html#space) the magic molecule;
+Blue Origin [uses](../../2022/02/h2-end-use.html#space) the magic molecule;
 why wouldn't they? It is an efficient fuel.
 
 ---
@@ -286,7 +286,7 @@ The Fragile States Index (FSI). I plotted two variables; there are
 some other interesting ones, E3: Human Flight and Brain Drain, C1:
 Security Apparatus, C2: Factionalized Elites.
 
-[[-]](2015/09/democracy-status.html#fsi)
+[[-]](../../2015/09/democracy-status.html#fsi)
 
 ---
 
