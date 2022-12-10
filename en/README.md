@@ -68,11 +68,11 @@ Republica Portugese: "Portugal, Spain and France agree on a Green Energy Corrido
 
 "@eunews@mstodon.eu
 
-Spain and France to use planned pipeline only for hydrogen.. Spain and
-France are dropping plans to transport natural gas via an undersea
-pipeline between the two countries and will instead dedicate it only
-to hydrogen in a bid to secure the 'maximum' possible EU funding for
-the project" via [FT](https://www.ft.com/content/b0fbbaaf-3c21-4ba2-836c-fc2998048654)
+Spain and France are dropping plans to transport natural gas via an
+undersea pipeline between the two countries and will instead dedicate
+it only to hydrogen in a bid to secure the 'maximum' possible EU
+funding for the project" via
+[FT](https://www.ft.com/content/b0fbbaaf-3c21-4ba2-836c-fc2998048654)
 
 ---
 
