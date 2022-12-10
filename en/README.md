@@ -94,7 +94,7 @@ This calls for a timeline and a map.
 
 ---
 
-FTI Global: "Pro-US Chad has been surrounded by pro-Russia nations,
+TFI Global: "Pro-US Chad has been surrounded by pro-Russia nations,
 and its surrender is inevitable"
 
 ---
