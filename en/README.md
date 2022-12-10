@@ -58,11 +58,7 @@ H2 View: "H2Med hydrogen pipeline can build 'a European hydrogen backbone'"
 
 ---
 
-The H2 pipeline news was a bombshell. Huge. 
-
----
-
-Republica Portugese: "Portugal, Spain and France agree on a Green Energy Corridor"
+The Spain-France H2 pipeline news is a bombshell. Huge. 
 
 ---
 
@@ -71,8 +67,7 @@ Republica Portugese: "Portugal, Spain and France agree on a Green Energy Corrido
 Spain and France are dropping plans to transport natural gas via an
 undersea pipeline between the two countries and will instead dedicate
 it only to hydrogen in a bid to secure the 'maximum' possible EU
-funding for the project" via
-[FT](https://www.ft.com/content/b0fbbaaf-3c21-4ba2-836c-fc2998048654)
+funding for the project" via [FT](https://www.ft.com/content/b0fbbaaf-3c21-4ba2-836c-fc2998048654)
 
 ---
 
