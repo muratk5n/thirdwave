@@ -5,14 +5,15 @@ pro-US countries in Africa. Countries siding with RU are colored in
 red, for US green, country codes are iso3, full list is [here](https://www.iban.com/country-codes).
 
 ```python
+import util as u
 ru = ['Mali','Ethiopia','Congo','South Africa',
       'Sudan','Uganda','Zimbabwe','Burkina Faso',
       'Cameroon','Equatorial Guinea','Sao Tome and Principe',
-      'Cameroon','Niger'] 
+      'Cameroon','Niger','Algeria'] 
 
 us = ['Chad','Gabon','Ghana','Kenya','Rwanda',
        'Djibouti','Somalia', 'Democratic Republic of the Congo',
-       'Mauritania','Lesotho', 'Mauritius']
+       'Mauritania','Lesotho', 'Mauritius','Angola','Nigeria']
 
 u.plot_africa_ru_us(ru,us)
 plt.savefig('af-ru-us.jpg')   
@@ -23,11 +24,20 @@ plt.savefig('af-ru-us.jpg')
 
 ### News
 
+[11/11](https://tfiglobalnews.com/2022/11/11/angola-switched-its-ties-from-russia-to-us-and-now-its-sovereignty-is-in-danger/)
+Angola switched its ties from Russia to US
+
 [5/11](https://tfiglobalnews.com/2022/11/05/biden-confirms-that-burkina-faso-is-now-on-russias-side/) -
 Biden confirms that Burkina Faso is now on Russia’s side
 
 [17/10](https://tfiglobalnews.com/2022/10/17/pro-us-chad-has-been-surrounded-by-pro-russia-nations-and-its-surrender-is-inevitable/) -
 Pro-US Chad has been surrounded by pro-Russia nations, and its surrender is inevitable
+
+[13/10](https://www.moroccoworldnews.com/2022/10/351809/algeria-abstains-from-un-vote-condemning-russias-annexations-in-ukraine)
+Algeria Abstains From UN Vote Condemning Russia
+
+[13/10](https://www.premiumtimesng.com/news/headlines/559361-nigeria-joins-us-others-to-condemn-russian-annexation-of-ukrainian-territories.html)
+Nigeria has joined the majority of the countries of the world to condemn the Russian annexation of Ukrainian territories.
 
 [13/10](https://www.africanews.com/2022/10/13/african-countries-divided-over-un-vote-against-russia//) -
 African countries divided over UN vote against Russia
