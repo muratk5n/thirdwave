@@ -76,8 +76,8 @@ the project" via [FT](https://www.ft.com/content/b0fbbaaf-3c21-4ba2-836c-fc29980
 
 ---
 
-My guess on why the gained ground, Russia goes in with the essentials
-- guns, grain, protection detail for the leader (it's key) while US
+My guess on why the gained ground, Russia goes in with the essentials - 
+guns, grain, protection detail for the leader (it's key) while US
 condemns for violation of this or that. The West (and China) have the
 money and some turn their nose at military relations and support but
 it clearly makes a difference. Plus with the war in UA grain is more
