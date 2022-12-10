@@ -5,12 +5,14 @@ pro-US countries in Africa. Countries siding with RU are colored in
 red, for US green. Country codes are ISO3, the full list is [here](https://www.iban.com/country-codes).
 
 ```python
-ru = ['Mali','Ethiopia','Congo','South Africa','Sudan','Uganda',
-      'Zimbabwe','Burkina Faso','Cameroon','Equatorial Guinea','Sao Tome and Principe',
+ru = ['Mali','Ethiopia','Congo','South Africa',
+      'Sudan','Uganda','Zimbabwe','Burkina Faso',
+      'Cameroon','Equatorial Guinea','Sao Tome and Principe',
       'Cameroon','Niger'] 
 
-us = ['Chad','Gabon','Ghana','Kenya','Rwanda','Djibouti','Somalia',
-      'Democratic Republic of the Congo', 'Mauritania','Lesotho', 'Mauritius']
+us = ['Chad','Gabon','Ghana','Kenya','Rwanda',
+       'Djibouti','Somalia', 'Democratic Republic of the Congo',
+       'Mauritania','Lesotho', 'Mauritius']
 
 u.plot_africa_ru_us(ru,us)
 plt.savefig('af-ru-us.jpg')   
