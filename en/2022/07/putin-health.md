@@ -2,13 +2,17 @@
 
 ### 2022
 
+[2022/12/2](https://www.dailymail.co.uk/news/article-11494595/Vladimir-Putin-fell-stairs-home-soiled-himself.html):
+Daily Mail: Vladimir Putin has fallen down stairs at his official residence and soiled
+himself while continuing to suffer from cancer
+
 [2022/05/16](https://www.independent.co.uk/news/world/europe/putin-sick-ex-british-spy-ukraine-b2079833.html):
 According to The Independent Vladimir Putin is “quite seriously ill” claims the
 former British spy Christopher Steele, who wrote a dossier on Donald Trump.
 
 [2022/03/13](https://www.hindustantimes.com/world-news/is-vladimir-putin-seriously-ill-what-uk-media-reported-so-far-101647180563181.html):
-Daily Mail reported that Putin is suffering from a brain disorder
-caused by dementia, Parkinson's disease or 'roid rage'.
+Daily Mail: Putin is suffering from a brain disorder caused by dementia,
+Parkinson's disease or 'roid rage'.
 
 ### 2020
 
