@@ -56,7 +56,7 @@ H2 View: "H2Med hydrogen pipeline can build 'a European hydrogen backbone'"
 
 ---
 
-The Spain-France H2 pipeline news is a bombshell. Huge. 
+The Spain-France H2 pipeline plan is huge news.
 
 ---
 
