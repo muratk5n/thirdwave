@@ -1,5 +1,100 @@
 # Week 49 
 
+Al Monitor: "Oil prices have fallen to a yearly low, despite a recent
+production cut supported by Saudi Arabia and Russia... 'The drop
+reflects market anxieties about the prospect of a recession' [said
+expert]"
+
+---
+
+Per state. The prices vary wildly across states
+
+```text
+  state  price
+0    CA  5.173
+1    TX  3.065
+2    FL  3.497
+3    NY  3.874
+```
+
+---
+
+US gasoline price down 
+
+```
+2022-12-05  3.504
+```
+
+---
+
+ICIS: "France will have an updated national hydrogen strategy by the
+end of the first half of next year as the Minister for Energy
+Transition and the Minister Delegate for Industry are to formulate a
+joint work program.. France originally launched its hydrogen plan in
+2018 and then its national hydrogen strategy in 2020, however,
+“following the remarkable development of the projects carried out by
+the sector since 2020, an update was necessary,” a press release from
+the French government said"
+
+---
+
+The Local: "Spain, France and Portugal on Friday unveil details of
+their ambitious plan for an underwater pipeline to bring green
+hydrogen from the Iberian Peninsula to the rest of Europe"
+
+---
+
+H2 View: "H2Med hydrogen pipeline can build 'a European hydrogen backbone'"
+
+---
+
+The Spain-France H2 pipeline plan is huge news.
+
+---
+
+"@eunews@mstodon.eu
+
+Spain and France are dropping plans to transport natural gas via an
+undersea pipeline between the two countries and will instead dedicate
+it only to hydrogen in a bid to secure the 'maximum' possible EU
+funding for the project" via [FT](https://www.ft.com/content/b0fbbaaf-3c21-4ba2-836c-fc2998048654)
+
+---
+
+My guess on why the gained ground, Russia goes in with the essentials - 
+guns, grain, protection detail for the leader (it's key) while US
+condemns for violation of this or that. The West (and China) have the
+money and some turn their nose at military relations and support but
+it clearly makes a difference. Plus with the war in UA grain is more
+valuable.
+
+---
+
+It does look like Chad is surrounded.
+
+Will update this map with more info
+
+---
+
+[Link](2022/12/ru-africa.html)
+
+---
+
+US has been losing ground in Africa? 
+
+This calls for a timeline and a map. 
+
+---
+
+TFI Global: "Pro-US Chad has been surrounded by pro-Russia nations,
+and its surrender is inevitable"
+
+---
+
+BBC: "Russia is cheering on the Burkina Faso coup"
+
+---
+
 CNBC: "Russia's Ukraine onslaught shows zero signs of a winter lull as
 conflict rages"
 

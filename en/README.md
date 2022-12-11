@@ -8,98 +8,85 @@ Pinned Tweet
 
 ---
 
-Al Monitor: "Oil prices have fallen to a yearly low, despite a recent
-production cut supported by Saudi Arabia and Russia... 'The drop
-reflects market anxieties about the prospect of a recession' [said
-expert]"
+Al Monitor: "China and Saudi Arabia shy away from defense deals during Xi's visit"
 
 ---
 
-Per state. The prices vary wildly across states
-
-```text
-  state  price
-0    CA  5.173
-1    TX  3.065
-2    FL  3.497
-3    NY  3.874
-```
+Al Monitor: "Saudi Arabia, China sign over 40 deals during Xi's visit"
 
 ---
 
-US gasoline price down 
-
-```
-2022-12-05  3.504
-```
+The Guardian: "Heatwave sweeps South America as Argentina hits 43C"
 
 ---
 
-ICIS: "France will have an updated national hydrogen strategy by the
-end of the first half of next year as the Minister for Energy
-Transition and the Minister Delegate for Industry are to formulate a
-joint work program.. France originally launched its hydrogen plan in
-2018 and then its national hydrogen strategy in 2020, however,
-“following the remarkable development of the projects carried out by
-the sector since 2020, an update was necessary,” a press release from
-the French government said"
+H2 Central: "Rio Tinto and Fortescue in talks on green hydrogen to
+replace fossil fuels... Rio Tinto chief executive Jakob Stausholm has
+contacted Fortescue Metals Group chairman Andrew Forrest to see if the
+two mining heavyweights can find common ground on green hydrogen and
+its potential to replace fossil fuels"
 
 ---
 
-The Local: "Spain, France and Portugal on Friday unveil details of
-their ambitious plan for an underwater pipeline to bring green
-hydrogen from the Iberian Peninsula to the rest of Europe"
+Financial Review: "[After the $4 billion acquisition of CWP
+Renewables] Andrew Forrest .. through private interests.. immediately
+becomes Australia’s largest owner of renewable energy assets, with 2.4
+gigawatts of wind, solar and firming projects either operating or in
+the late stages of construction, and a 20 gigawatt pipeline of
+long-term projects, including CWP’s near-to-medium development
+pipeline of 5 gigawatts"
 
 ---
 
-H2 View: "H2Med hydrogen pipeline can build 'a European hydrogen backbone'"
+Addn, Togo, Nigeria.
+
+[[-]](2022/12/ru-africa.html)
 
 ---
 
-The Spain-France H2 pipeline plan is huge news.
+*13 Hours* - fine Michael Bay work. Intl rel, military, based on true
+story - my favorite kind of movie these days.
 
 ---
 
-"@eunews@mstodon.eu
-
-Spain and France are dropping plans to transport natural gas via an
-undersea pipeline between the two countries and will instead dedicate
-it only to hydrogen in a bid to secure the 'maximum' possible EU
-funding for the project" via [FT](https://www.ft.com/content/b0fbbaaf-3c21-4ba2-836c-fc2998048654)
+The Independent: "Russia still set on 'liberating' annexed portions of
+Ukraine, says Kremlin"
 
 ---
 
-My guess on why the gained ground, Russia goes in with the essentials - 
-guns, grain, protection detail for the leader (it's key) while US
-condemns for violation of this or that. The West (and China) have the
-money and some turn their nose at military relations and support but
-it clearly makes a difference. Plus with the war in UA grain is more
-valuable.
+Tesla Warranty Fraud
+
+[[-]](https://gotmusked.com/content/warranty-fraud/)
 
 ---
 
-It does look like Chad is surrounded.
+Must transmit clean fuels. [Efficient](2019/03/wirespipes.html) and clean.
 
-Will update this map with more info
-
----
-
-[Link](2022/12/ru-africa.html)
-
----
-
-US has been losing ground in Africa? 
-
-This calls for a timeline and a map. 
+NPR: "Keystone pipeline spills in Kansas, dirtying creek .. Mill Creek
+flows into the Little Blue River, which flows into the Big Blue
+River. That, in turn, feeds Tuttle Creek Reservoir near Manhattan and
+ultimately, the Kansas River"
 
 ---
 
-TFI Global: "Pro-US Chad has been surrounded by pro-Russia nations,
-and its surrender is inevitable"
+They lived in the Basque countryside? Of course they did. TN readers
+would understand why.
+
+"[Rod Whitaker, whose pen-name was Trevanian] married the former Diane
+Brandon, and they had four children: sons Lance and Christian, and
+daughters Alexandra and Tomasin. They lived for years in the Basque
+countryside of France"
 
 ---
 
-BBC: "Russia is cheering on the Burkina Faso coup"
+Wow.. Mutti dropped a bombshell here
+
+"Merkel: Minsk agreements were meant to 'give Ukraine time'.. German
+ex-Chancellor Angela Merkel reveals that in 2014, the Minsk agreements
+aimed to give Ukraine time to get stronger and for NATO to increase
+its support to the country in the face of Russia"
+
+[[-]](https://english.almayadeen.net/news/politics/merkel:-minsk-agreement-attempted-to-give-ukraine-time)
 
 ---
 
