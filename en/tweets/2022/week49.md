@@ -76,7 +76,7 @@ Will update this map with more info
 
 ---
 
-[Link](2022/12/ru-africa.html)
+[Link](../../2022/12/ru-africa.html)
 
 ---
 
