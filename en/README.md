@@ -38,7 +38,7 @@ pipeline of 5 gigawatts"
 
 ---
 
-Addn, Togo, Nigeria.
+Added Togo, Nigeria.
 
 [[-]](2022/12/ru-africa.html)
 
