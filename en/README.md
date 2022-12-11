@@ -38,12 +38,6 @@ pipeline of 5 gigawatts"
 
 ---
 
-Added Togo, Nigeria.
-
-[[-]](2022/12/ru-africa.html)
-
----
-
 Tesla Warranty Fraud
 
 [[-]](https://gotmusked.com/content/warranty-fraud/)
@@ -66,6 +60,12 @@ NPR: "Keystone pipeline spills in Kansas, dirtying creek .. Mill Creek
 flows into the Little Blue River, which flows into the Big Blue
 River. That, in turn, feeds Tuttle Creek Reservoir near Manhattan and
 ultimately, the Kansas River"
+
+---
+
+Africa, US, RU map - added Togo, Nigeria.
+
+[[-]](2022/12/ru-africa.html)
 
 ---
 
