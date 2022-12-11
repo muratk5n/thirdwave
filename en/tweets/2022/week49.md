@@ -195,7 +195,7 @@ Crane project! #Sweden will be our country of choice for importing up
 to 8,000 tonnes of \#greenhydrogen per year to the \#Netherlands and
 \#Germany"
 
-<img width="340" src="https://pbs.twimg.com/media/FjYlOStWQAA_mmR?format=jpg&name=small"/>
+<img width="340" src="twimg/FjYlOStWQAA_mmR.jpg"/>
 
 ---
 
@@ -366,7 +366,7 @@ cash to develop the fuel to decarbonise"
 
 She was a hot Vulcan \#RIP \#KirstieAlley
 
-[[-]](https://pbs.twimg.com/media/FjUgvCwWYAE6lzn?format=jpg&name=small)
+[[-]](twimg/FjUgvCwWYAE6lzn.jpg)
 
 ---
 
@@ -448,7 +448,7 @@ Science Objectives, and Instrumentation"
 
 Figure 3 is interesting
 
-[[-]](https://pbs.twimg.com/media/FjMOvPOaYAc96zk?format=jpg&name=medium)
+[[-]](twimg/FjMOvPOaYAc96zk.jpg)
 
 ---
 
