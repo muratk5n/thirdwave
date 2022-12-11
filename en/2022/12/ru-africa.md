@@ -8,7 +8,7 @@ red, for US green, country codes are iso3, full list is [here](https://www.iban.
 ru = ['Mali','Ethiopia','Congo','South Africa',
       'Sudan','Uganda','Zimbabwe','Burkina Faso',
       'Cameroon','Equatorial Guinea','Sao Tome and Principe',
-      'Cameroon','Niger','Algeria','Togo'] 
+      'Niger','Algeria','Togo'] 
 
 us = ['Chad','Gabon','Ghana','Kenya','Rwanda',
        'Djibouti','Somalia', 'Democratic Republic of the Congo',
