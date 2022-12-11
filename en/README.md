@@ -44,6 +44,12 @@ Addn, Togo, Nigeria.
 
 ---
 
+Tesla Warranty Fraud
+
+[[-]](https://gotmusked.com/content/warranty-fraud/)
+
+---
+
 *13 Hours* - fine Michael Bay work. Intl rel, military, based on true
 story - my favorite kind of movie these days.
 
@@ -51,12 +57,6 @@ story - my favorite kind of movie these days.
 
 The Independent: "Russia still set on 'liberating' annexed portions of
 Ukraine, says Kremlin"
-
----
-
-Tesla Warranty Fraud
-
-[[-]](https://gotmusked.com/content/warranty-fraud/)
 
 ---
 
