@@ -63,7 +63,7 @@ ultimately, the Kansas River"
 
 ---
 
-Africa, US, RU map - added Togo, Nigeria.
+Africa, US, RU map - added Angola, Togo, Nigeria.
 
 [[-]](2022/12/ru-africa.html)
 
