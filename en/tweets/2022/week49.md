@@ -575,21 +575,6 @@ on the social net.
 
 ---
 
-This is great news... I don't support forcing to take hijab off (the
-case in Asia Minor a while back), or forcing to put it on.
-
-WSJ: "Iran Abolishes Morality Police, Considers Changing Hijab Laws"
-
----
-
-Al Monitor: "Protest-hit Iran abolishes morality police.. Iran has
-scrapped its morality police after more than two months of protests
-triggered by the death of Mahsa Amini following her arrest for
-allegedly violating the country's strict female dress code, local
-media said Sunday"
-
----
-
 AP News: "Serbia names pro-Russian politician new spy chief"
 
 ---

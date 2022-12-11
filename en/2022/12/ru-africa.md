@@ -5,11 +5,10 @@ pro-US countries in Africa. Countries siding with RU are colored in
 red, for US green, country codes are iso3, full list is [here](https://www.iban.com/country-codes).
 
 ```python
-import util as u
 ru = ['Mali','Ethiopia','Congo','South Africa',
       'Sudan','Uganda','Zimbabwe','Burkina Faso',
       'Cameroon','Equatorial Guinea','Sao Tome and Principe',
-      'Cameroon','Niger','Algeria'] 
+      'Cameroon','Niger','Algeria','Togo'] 
 
 us = ['Chad','Gabon','Ghana','Kenya','Rwanda',
        'Djibouti','Somalia', 'Democratic Republic of the Congo',
@@ -44,6 +43,9 @@ African countries divided over UN vote against Russia
 
 [9/10](https://www.bbc.com/news/world-africa-63171771) -
 Why Russia is cheering on the Burkina Faso coup
+
+[29/6](https://intellinews.com/russia-woos-africa-with-arms-grain-and-nuclear-power-252022/) -
+Russia woos Africa with arms, grain and nuclear power
 
 [21/4](https://news.yahoo.com/ethiopians-hope-fight-russia-ukraine-161351963.html) -
 Ethiopians hope to fight for Russia in Ukraine
