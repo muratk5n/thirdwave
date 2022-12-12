@@ -136,10 +136,8 @@ a non-cash investment. Fraud.
 Merkel comments reveal NATO + Ukraine were "loading for bear" ever
 since 2014 and were using Minsk only as a cover for their
 buildup. They weren't interested in peace, but even more significant,
-they weren't scared.. That was their biggest neglect; they were goaded
-into this by US/UK who egged them on wout a care about what would
-happen to the people of Ukraine if/whe worse came to worse which it
-did, in 2022.
+they ignored the larger strat environment, and failed in their
+governance duties.
 
 ---
 
