@@ -16,6 +16,12 @@ Assange for publishing secrets"
 
 ---
 
+"Why do lithium-ion batteries catch fire?"
+
+[[-]](https://www.moneycontrol.com/news/automobile/ola-incident-why-do-lithium-ion-batteries-catch-fire-8291641.html)
+
+---
+
 Libs are mad the e-jagoff now but remember Obama created this cunt.
 Jagoff was executing on that 'audacity of hope' business, being
 audacious on hopeful sounding shit
