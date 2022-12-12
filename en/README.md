@@ -129,7 +129,7 @@ Hydrogen Included"
 
 Tesla books additional capex as "non-cash investing"? They basically
 admit that they juice up their free cash flow. Noone records capex as
-a non-cash investment \#fraud
+a non-cash investment. Fraud.
 
 ---
 
