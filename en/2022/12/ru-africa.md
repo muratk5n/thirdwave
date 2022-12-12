@@ -12,7 +12,8 @@ ru = ['Mali','Ethiopia','Congo','South Africa',
 
 us = ['Chad','Gabon','Ghana','Kenya','Rwanda',
        'Djibouti','Somalia', 'Democratic Republic of the Congo',
-       'Mauritania','Lesotho', 'Mauritius','Angola','Nigeria']
+       'Mauritania','Lesotho', 'Mauritius',
+       'Angola','Nigeria']
 
 u.plot_africa_ru_us(ru,us)
 plt.savefig('af-ru-us.jpg')   
@@ -49,7 +50,4 @@ Russia woos Africa with arms, grain and nuclear power
 
 [21/4](https://news.yahoo.com/ethiopians-hope-fight-russia-ukraine-161351963.html) -
 Ethiopians hope to fight for Russia in Ukraine
-
-
-
 
