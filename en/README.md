@@ -17,8 +17,8 @@ Assange for publishing secrets"
 ---
 
 Libs are mad the e-jagoff now but remember Obama created this cunt.
-He was executing on that 'audacity of hope' business, being audacious
-on hopeful sounding shit
+Jagoff was executing on that 'audacity of hope' business, being
+audacious on hopeful sounding shit
 
 ---
 
