@@ -49,7 +49,9 @@ in the use and requirement of materials with finite supplies like
 lithium and nickel are some of the main advantages of hydrogen
 combustion. Hydrogen combustion could result in broad, affordable
 carbon-reduction solutions more quickly by modifying current
-technologies and maximizing current investments" via @Masa@indieweb.social
+technologies and maximizing current investments"
+
+via @Masa@indieweb.social
 
 [[-]](https://interestingengineering.com/transportation/toyota-tests-hydrogen-combustion-engine-streets)
 
