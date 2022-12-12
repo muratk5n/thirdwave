@@ -8,10 +8,6 @@ Pinned Tweet
 
 ---
 
-
-
----
-
 "An Open Letter from Editors and Publishers: Publishing is Not a
 Crime..  The U.S. government should end its prosecution of Julian
 Assange for publishing secrets"
