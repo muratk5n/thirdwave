@@ -134,8 +134,8 @@ a non-cash investment. Fraud.
 Merkel comments reveal NATO + Ukraine were "loading for bear" ever
 since 2014 and were using Minsk only as a cover for their
 buildup. They weren't interested in peace, but even more significant,
-they ignored the larger strat environment, and failed in their
-governance duties.
+they ignored the larger strategic environment, the power balance, and
+failed in their governance duties.
 
 ---
 
