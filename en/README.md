@@ -57,13 +57,13 @@ that requires cost cutting.
 
 ---
 
-I'm glad those muckers do not join
-
 Clean Technica: "More Hydrogen Fuel Cell EVs Are Coming.. With its new
 test fleet of ix5 Hydrogen fuel cell EVs, BMW joins a growing list of
 automakers that hold a torch for hydrogen-powered personal mobility"
 
 ---
+
+I'm glad those muckers do not join
 
 "@Mrfunkedude@mastodon.social
 
