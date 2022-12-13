@@ -192,7 +192,7 @@ batteries and even dirtier infrastructure"
 
 Follow our \#LOHC-based #hydrogen supply chain for the Northern Green
 Crane project! #Sweden will be our country of choice for importing up
-to 8,000 tonnes of \#greenhydrogen per year to the \#Netherlands and
+to 8,000 tonnes of \#greenhydrogen per [trip] to the \#Netherlands and
 \#Germany"
 
 <img width="340" src="twimg/FjYlOStWQAA_mmR.jpg"/>

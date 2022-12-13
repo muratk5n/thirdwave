@@ -36,6 +36,24 @@ between pipelines and liquid organic hydrogen carriers (LOHC), often
 transported in ships – and points to the limiting cost factors which
 shall define each transport use case.
 
+One VLCC ship [3] can carry up to 350,000 DWT which would be
+equivalent to 17,000 tons H2.  One train in Europe can pull up to 35
+wagons which would be equivalent to 59 tons of H2. A quick calculation
+shows the amount of energy that can be carried across Atlantic by a
+fleet of 20 ships using LOHC techology,
+
+```python
+one_trip = 17000*1000*33.6 / (365*24*1e3)
+print ("One trip, single ship %0.1f MW" % (one_trip))
+print ("Fleet %0.1f GW" % (one_trip*12*20 / 1e3))
+```
+
+```text
+One trip, single ship 65.2 MW
+Fleet 15.6 GW
+```
+
+
 Reference
 
 [1] [Hydrogenious Presentation - 1](https://www.energiewende-erlangen.de/wp-content/uploads/2018/02/0_HydrogeniousTechnologies.pdf)
@@ -43,5 +61,7 @@ Reference
 [1] [Hydrogenious Presentation - 2](https://arpa-e.energy.gov/sites/default/files/Schneider_HydrogeniousTechnologies_TransportationFuels_Workshop_FINAL.pdf)
 
 [2] [Rethink Energy](https://www.globalhydrogenreview.com/hydrogen/23092022/rethink-energy-pipelines-and-organic-carrier-ships-to-dominate-hydrogen-distribution/)
+
+[3] [Hydrogenious Presentation - 3](https://www.hydrogen.energy.gov/pdfs/07-Schmidt-Liquid%20Organic%20Hydrogen Carriers.pdf)
 
 [[Up]](h2-storage.html)
