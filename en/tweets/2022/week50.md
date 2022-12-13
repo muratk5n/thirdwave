@@ -22,7 +22,7 @@ audacious on hopeful sounding shit
 
 🤣 🤣 🤣 
 
-[[-]](tweets/2022/ejagoffob.jpeg)
+[[-]](ejagoffob.jpeg)
 
 ---
 
@@ -189,7 +189,7 @@ Ukraine, says Kremlin"
 
 ---
 
-Better to transmit clean fuels - [efficient](2019/03/wirespipes.html) and clean.
+Better to transmit clean fuels - [efficient](../../2019/03/wirespipes.html) and clean.
 
 NPR: "Keystone pipeline spills in Kansas, dirtying creek .. Mill Creek
 flows into the Little Blue River, which flows into the Big Blue
@@ -200,7 +200,7 @@ ultimately, the Kansas River"
 
 Africa, US, RU map - added Angola, Togo, Nigeria.
 
-[[-]](2022/12/ru-africa.html)
+[[-]](../../2022/12/ru-africa.html)
 
 ---
 

@@ -79,7 +79,7 @@ buy followers for it"
 ---
 
 Fusion: finally obtained more energy than put in? The fusion expert on
-Al Jazeera was non-plussed about it... Sounds like proper fusion is
+Al Jazeera was nonplussed about it... Sounds like proper fusion is
 still 30 years away. In the meantime clean fuel-based energy
 transition needs to advance, fusion or no fusion.
 
