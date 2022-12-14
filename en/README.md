@@ -33,8 +33,6 @@ Arab News: "Indian, Chinese troops clash at border in fresh faceoff"
 
 ---
 
-Is India drifting towards the outer alliance?
-
 Arab News: "Australia, India deploy integrated combat formations in bilateral drill"
 
 ---
