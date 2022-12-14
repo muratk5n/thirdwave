@@ -15,7 +15,7 @@ ru = ['Mali','Ethiopia','Congo','South Africa',
 us = ['Chad','Gabon','Ghana','Kenya','Rwanda',
        'Djibouti','Somalia', 'Democratic Republic of the Congo',
        'Mauritania','Lesotho', 'Mauritius',
-       'Angola','Nigeria']
+       'Angola','Nigeria','Morocco']
 
 u.plot_africa_ru_us(ru,us)
 plt.savefig('af-ru-us.jpg')   
@@ -25,6 +25,9 @@ plt.savefig('af-ru-us.jpg')
 
 
 ### News
+
+[13/12](https://www.overtdefense.com/2022/12/12/morocco-will-be-the-first-african-country-to-send-aid-to-ukraine/)
+Morocco Will be the First African Country to Send Aid to Ukraine
 
 [11/11](https://tfiglobalnews.com/2022/11/11/angola-switched-its-ties-from-russia-to-us-and-now-its-sovereignty-is-in-danger/)
 Angola switched its ties from Russia to US.
