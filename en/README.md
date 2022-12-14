@@ -39,7 +39,7 @@ Arab News: "Australia, India deploy integrated combat formations in bilateral dr
 
 ---
 
-ALL OPTIONS ON TABLE. Talk is cheap.
+ALL OPTIONS ON THE TABLE. Talk is cheap.
 
 Arab News: "US, allies vow all options on table against North Korea"
 
