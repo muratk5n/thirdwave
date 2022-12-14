@@ -52,7 +52,7 @@ with the deep seafarers?
 
 ---
 
-It looks fantastic. 
+It looks swell.
 
 Politico.eu: "Vision of the future: European [hydrogen infrastructure map](https://www.h2inframap.eu/#map)"
 
