@@ -111,7 +111,7 @@ communicate through it.
 
 E-mail works via disparete servers too; GMail has its own servers,
 Yahoo has theirs, they communicate through a protocol called SMTP. I
-don't have to be on Yahoo system to email someone at Yahoo. Faebook,
+don't have to be on Yahoo system to email someone at Yahoo. Facebook,
 Twitter work on a backward, suboptimal 'monolith' mechanisms.. The
 problem was, as usual, over-commercialization of their platforms.
 
