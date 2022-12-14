@@ -127,7 +127,7 @@ defraud the U.S., wire fraud, securities fraud, and money laundering"
 
 ---
 
-A lot of good news coming out of Europe these days.. 
+Solid action out of Europe - it is welcome
 
 Bloomberg: "Apple to Allow Outside App Stores in Overhaul Spurred by EU Laws"
 
