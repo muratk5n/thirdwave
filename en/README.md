@@ -83,8 +83,8 @@ A quick calculation shows the amount of energy that can be carried
 across Atlantic by a fleet of 20 ships using LOHC techology,
 
 ```python
-one_trip = 17000*1000*33.6 / (365*24*1e3)
-print ("One trip, single ship %0.1f MW" % (one_trip))
+trip = 17000*1000*33.6 / (365*24*1e3)
+print ("One trip, single ship %0.1f MW" % (trip))
 print ("Fleet %0.1f GW" % (one_trip*12*20 / 1e3))
 ```
 
