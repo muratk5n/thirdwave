@@ -104,8 +104,8 @@ Fleet 15.6 GW
 Mastodon did not do anything revolutionary, it merely created a
 protocol for different servers to communicate, and simple software to
 manage the content. Now bigger companies (esp ones with existing user
-base) can now have their servers running a social net protocol, users
-can communicate through it.
+base) can have their servers running a social net protocol, users can
+communicate through it.
 
 ---
 
