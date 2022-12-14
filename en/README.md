@@ -60,7 +60,7 @@ Politico.eu: "Vision of the future: European [hydrogen infrastructure map](https
 
 ---
 
-Is JPM interested? JD just called crypto "pet rocks"
+Are they interested? JD just called crypto "pet rocks"
 
 "@twobitidiot
 
