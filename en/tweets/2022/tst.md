@@ -7,12 +7,14 @@ pd.set_option('display.max_columns', None)
 ```
 
 ```python
-u.rottentomatoes("the lord of the rings the rings of power",tv=True)
+u.sw_border_encounter('2022-Oct/sbo-encounters-fy19-fy22.csv')
+plt.savefig('/tmp/out.png')
 ```
 
-```text
-Out[1]: {'tomatometer score': '86%', 'audience score': '39%'}
-```
+
+
+
+
 
 
 

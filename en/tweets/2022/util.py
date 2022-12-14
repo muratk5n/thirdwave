@@ -8,6 +8,19 @@ import urllib.request as urllib2
 from io import BytesIO
 import pandas_ta as ta
 
+def sw_border_encounter(url):
+    url = 'https://www.cbp.gov/sites/default/files/assets/documents/' + url
+    hdr = {'User-Agent':'Mozilla/5.0'}
+    req = urllib2.Request(url,headers=hdr)
+    file = BytesIO(urllib2.urlopen(req).read())    
+    df = pd.read_csv(file)
+    repl = {"JAN": 1, "FEB":2,"MAR":3,"APR":4,"MAY":5,"JUN":6,
+            "JUL":7,"AUG": 8,"SEP":9,"OCT":10,"NOV":11,"DEC":12}
+    df['Mon'] = df['Month (abbv)'].replace(repl)
+    df['YMD'] = df.apply(lambda x: "%s%02d" % (x['Fiscal Year'],x['Mon']),axis=1)
+    g = df.groupby('YMD')['Encounter Count'].sum()
+    g.plot(title='Southwest Land Border Encounters')
+
 def rottentomatoes(movie,tv=False):
     rel = movie.replace(" ","_").lower()
     url = "https://www.rottentomatoes.com"
@@ -145,7 +158,7 @@ def spy_earnings():
     url = "https://www.spglobal.com/spdji/en/documents/additional-material/sp-500-eps-est.xlsx"
     hdr = {'User-Agent':'Mozilla/5.0'}
     req = urllib2.Request(url,headers=hdr)
-    file = io.BytesIO(urllib2.urlopen(req).read())
+    file = BytesIO(urllib2.urlopen(req).read())
     df = pd.read_excel(file,sheet_name="QUARTERLY DATA",skiprows=6,header=None)
     df.columns = ['date','op_ex_ps','eps','cash_div_ps','sales_ps','book_val_ps','capex_ps','price','divisor']
     df = df.set_index(pd.to_datetime(df.date))
