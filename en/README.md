@@ -8,140 +8,139 @@ Pinned Tweet
 
 ---
 
-Press Release: "Honda To Begin U.S. Production of Fuel Cell Electric Vehicles in 2024"
+"@hiveenergy
 
-[[-]](https://hondanews.com/en-US/honda-corporate/releases/release-907c81858bdfe231c1cc3d0f701d89da-honda-to-begin-us-production-of-fuel-cell-electric-vehicles-in-2024)
+Hive [Energy's] renewable energy pipeline is over 23 GW! 
 
----
+We have upcoming projects in 20 countries including Zambia, Spain, New
+Zealand, Greece, and Croatia.
 
-The Jerusalem Post: "[A] test took place at an outdoor test facility
-at a British military air base, using a converted Rolls-Royce AE
-2100-A regional aircraft engine.. In the fight against climate change,
-Rolls-Royce and easyJet have found a way to successfully test-run
-hydrogen as an alternative to jet fuel.
+Not only are we working on solar projects, but we have wind, green
+hydrogen, and green ammonia undertakings"
 
 ---
 
-"@shacker@zirk.us
+"By using high-frequency vibrations to 'divide and conquer''
+individual water molecules during electrolysis, the team managed to
+split the water molecules to release 14 times more hydrogen compared
+with standard electrolysis techniques"
 
-Any machine is a smoke machine if you use it wrong enough"
-
----
-
-"@kissane@mstdn.social
-
-So Google search is increasingly vibing late-90s Alta Vista in a
-casino, Facebook has melted into MySpace + Second Life, Twitter is
-dogpaddling as hard as it can toward early 4chan but probably isn't
-going to make it, people are making blogs again, and everyone wants to
-talk to the ELIZA
-
-Is the whole internet swimming back home to spawn and die, what is
-happening"
+[[-]](https://mastodon.social/@sflorg/109506278652880699)
 
 ---
 
-H2 Central: "Could a Future Mustang Run on Hydrogen – Ford Patents
-Turbocharged Hydrogen Combustion Engine"
-
-<img width="340" src="https://hydrogen-central.com/wp-content/uploads/2022/03/ford-mustang-hydrogen-combustion-engine.png"/>
+Arab News: "Indian, Chinese troops clash at border in fresh faceoff"
 
 ---
 
-I hear the argument but AMZN might be trying to adapt to a new environment
-that requires cost cutting.
+Is India drifting towards the outer alliance?
 
-"Loss Leaders.. Why shuttering Amazon's Devices group may be a mistake"
-
-[[-]](https://amazonchronicles.ghost.io/loss-leaders/)
+Arab News: "Australia, India deploy integrated combat formations in bilateral drill"
 
 ---
 
-Clean Technica: "More Hydrogen Fuel Cell EVs Are Coming.. With its new
-test fleet of ix5 Hydrogen fuel cell EVs, BMW joins a growing list of
-automakers that hold a torch for hydrogen-powered personal mobility"
+ALL OPTIONS ON TABLE. Talk is cheap.
+
+Arab News: "US, allies vow all options on table against North Korea"
 
 ---
 
-I'm glad those muckers do not join
-
-"@Mrfunkedude@mastodon.social
-
-Someone told me that they would never join Mastodon because they can’t
-buy followers for it"
+For its next-gen fighter plane Japan did not go with US, but went with
+Italy (and UK) instead.. No to apple pie but yes to gabagool. Japan is
+flirting with the inners? Or it's the other way around, Italy flirting
+with the deep seafarers?
 
 ---
 
-\#OnePan \#OnePot
+It looks fantastic. 
 
-[Link](https://pbs.twimg.com/media/FjuQ1NmX0AAyBwn?format=jpg&name=small)
+Politico.eu: "Vision of the future: European [hydrogen infrastructure map](https://www.h2inframap.eu/#map)"
 
----
-
-Fusion: finally obtained more energy than put in? The fusion expert on
-Al Jazeera was nonplussed about it... Sounds like proper fusion is
-still 30 years away. In the meantime clean fuel-based energy
-transition needs to advance, fusion or no fusion.
+<img width="340" src="https://pbs.twimg.com/media/Fj2Ij4bX0AAAt3V?format=jpg&name=small"/>
 
 ---
 
-Inflation down
+Is JPM interested? JD just called crypto "pet rocks"
 
-```
-2022-10-01  7.745427
-2022-11-01  7.110323
+"@twobitidiot
+
+I wouldn't be surprised to see Coinbase as a hostile takeover target
+by a big bank in 2023... with the debt at 15% yield and the decline
+below $10 billion in market cap, it would cost Jamie Dimon ~5% of JPM
+stock to buy the market leader outright"
+
+---
+
+15.6 GW is massive - that's a quarter of a Nordstream pipeline.
+
+---
+
+H2 LOHC Tech: One VLCC ship can carry up to 350,000 DWT which would be
+equivalent to 17,000 tons H2. One train in Europe can pull up to 35
+wagons which would be equivalent to 59 tons of H2.
+
+A quick calculation shows the amount of energy that can be carried
+across Atlantic by a fleet of 20 ships using LOHC techology,
+
+```python
+one_trip = 17000*1000*33.6 / (365*24*1e3)
+print ("One trip, single ship %0.1f MW" % (one_trip))
+print ("Fleet %0.1f GW" % (one_trip*12*20 / 1e3))
 ```
 
----
+```text
+One trip, single ship 65.2 MW
+Fleet 15.6 GW
+```
 
-"@jaredkalt@mastodon.social
-
-Good analysis here of the internal ramifications of the Associated
-Press' erroneous report of Russian missiles hitting Poland.  The
-reporter was fired Monday [11/21], but internal communications suggest
-a more complicated story"
-
-[[-]](https://mastodon.social/@jaredkalt/109390745006067651)
+[PDF](https://www.hydrogen.energy.gov/pdfs/07-Schmidt-Liquid%20Organic%20Hydrogen Carriers.pdf)
 
 ---
 
-Gerhard Narholz - Open Game \#music
-
-[[-]](https://youtu.be/Is614XSOnxo)
+<img width="340" src="https://pbs.twimg.com/media/FjyFDkrWQAE-x66?format=jpg&name=small"/>
 
 ---
 
-There are these naive buffoonish O.G. purists who keep claiming their
-shit O.G. coin (Bitcoin) is not the problem, it's those other stuff
-around crypto that just keep failing. Not true.. BTC too is a problem.
+Mastodon did not do anything revolutionary, it merely created a
+protocol for different servers to communicate, and simple software to
+manage the content. Now bigger companies (esp ones with existing user
+base) can now have their servers running a social net protocol, users
+can communicate through it.
 
 ---
 
-WION: "Sam Bankman-Fried, ex-CEO of now-defunct crypto exchange FTX,
-arrested in Bahamas"
+E-mail works via disparete servers too; GMail has its own servers,
+Yahoo has theirs, they communicate through a protocol called SMTP. I
+don't have to be on Yahoo system to email someone at Yahoo. Faebook,
+Twitter work on a backward, suboptimal 'monolith' mechanisms.. The
+problem was, as usual, over-commercialization of their platforms.
 
 ---
 
-Bloomberg: "[Max Reyes] Over the last year have had more events than
-FTX. We've had the blow up of the Tera Luna ecosystem that led to the
-collapse of Three Arrows Capital, the collapse of Celsius. With the
-exposure to crypto, Silvergate, other companies with names like Micro
-Strategy that just hold coins on the balance sheet have taken a
-beating over the last year because of the anxiety. The blowup of FTX
-accelerated and worsened the impact"
+NBC: "New FTX CEO: This isn't sophisticated, this is just plain old
+embezzlement"
 
 ---
 
-We have Tom Brady, Matt Damon on one hand pushing the stuff like a
-dumbass, McKenzie on the other. More McKs will be good..
+CNBC: "Sam Bankman-Fried criminal charges unsealed: Conspiracy to
+defraud the U.S., wire fraud, securities fraud, and money laundering"
 
-NYT: "Ben McKenzie Would Like a Word With the Crypto Bros.. The actor,
-best known for his starring role in “The O.C.,” has become an
-outspoken critic of a volatile market driven by speculation.. [A]s
-A-list celebrities have shilled for digital currencies and NFTs,
-Mr. McKenzie.. has written critically about the \#ad for little-known
-coins that Kim Kardashian posted on Instagram and earnestly asked
-Reese Witherspoon to stop proselytizing about the metaverse"
+---
+
+A lot of good news coming out of Europe these days.. 
+
+Bloomberg: "Apple to Allow Outside App Stores in Overhaul Spurred by EU Laws"
+
+---
+
+The Verge: "[2022/6] USB-C will be mandatory for phones sold in the EU"
+
+---
+
+Added Morocco, Lesotho, Swaziland, Namibia, Mozambique, United
+Republic of Tanzania on the map - mostly pro RU.
+
+[[-]](2022/12/ru-africa.html)
 
 ---
 
