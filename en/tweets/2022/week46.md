@@ -165,8 +165,7 @@ James Gunn as the head of WB DC movies -  good news.
 
 ---
 
-*Black Adam* - fun action, solid backstory.. The marker of a new WB
-DCU era? 
+*Black Adam* - fun action, solid backstory.. 
 
 ---
 
