@@ -8,137 +8,144 @@ Pinned Tweet
 
 ---
 
-"@hiveenergy
-
-Hive [Energy's] renewable energy pipeline is over 23 GW! 
-
-We have upcoming projects in 20 countries including Zambia, Spain, New
-Zealand, Greece, and Croatia.
-
-Not only are we working on solar projects, but we have wind, green
-hydrogen, and green ammonia undertakings"
+NeftegazRU: "Russia's own bid to become carbon neutral by 2060 is
+expected to require major shifts in its energy strategy from oil & gas
+to increases in nuclear and hydrogen production"
 
 ---
 
-"By using high-frequency vibrations to 'divide and conquer''
-individual water molecules during electrolysis, the team managed to
-split the water molecules to release 14 times more hydrogen compared
-with standard electrolysis techniques"
-
-[[-]](https://mastodon.social/@sflorg/109506278652880699)
-
----
-
-Arab News: "Indian, Chinese troops clash at border in fresh faceoff"
+The draft might have played a role; >2 mil was drafted into Vietnam,
+1% of population, that means more money was spent on people. Now
+population of >300 mil has mil active personnel less than 1.5 mil. Gov
+still deficit spends but if it all goes to Reytheon, Lockheed, from
+there to some offshore haven, then to stawks, no inflation.
 
 ---
 
-Arab News: "Australia, India deploy integrated combat formations in bilateral drill"
+Inflation wasn't too high pre-73. Starting 73 it was but oil shortages
+started then, and bunch of other stuff. Glad LBJ spent on social programs.
 
 ---
 
-ALL OPTIONS ON THE TABLE. Talk is cheap.
+There is strong correlation with gov spending at the time and
+inflation, but also between growth and unemployment which makes sense,
+wages are major contribution to inflation.
 
-Arab News: "US, allies vow all options on table against North Korea"
-
----
-
-For its next-gen fighter plane Japan did not go with US, but went with
-Italy (and UK) instead.. No to apple pie but yes to gabagool. Japan is
-flirting with the inners? Or it's the other way around, Italy flirting
-with the deep seafarers?
+Doc mentions gov spending wasn't entirely for the war; LBJ did some
+social spending (money went to ppl direct, which, like wages, can
+cause inflation).
 
 ---
 
-It looks swell.
-
-Politico.eu: "Vision of the future: European [hydrogen infrastructure map](https://www.h2inframap.eu/#map)"
-
-<img width="340" src="https://pbs.twimg.com/media/Fj2Ij4bX0AAAt3V?format=jpg&name=small"/>
-
----
-
-Are they interested? JD just called crypto "pet rocks"
-
-"@twobitidiot
-
-I wouldn't be surprised to see Coinbase as a hostile takeover target
-by a big bank in 2023... with the debt at 15% yield and the decline
-below $10 billion in market cap, it would cost Jamie Dimon ~5% of JPM
-stock to buy the market leader outright"
-
----
-
-15.6 GW is massive - that's a quarter of a Nordstream pipeline.
-
----
-
-H2 LOHC Tech: One VLCC ship can carry up to 350,000 DWT which would be
-equivalent to 17,000 tons H2. One train in Europe can pull up to 35
-wagons which would be equivalent to 59 tons of H2.
-
-A quick calculation shows the amount of energy that can be carried
-across Atlantic by a fleet of 20 ships using LOHC techology,
+See [doc](https://www.thebalancemoney.com/vietnam-war-facts-definition-costs-and-timeline-4154921)
+here. I took data below from it, shifted source vars one year ahead
+to see causal effects better. Correlation shown below,
 
 ```python
-trip = 17000*1000*33.6 / (365*24*1e3)
-print ("One trip, single ship %0.1f MW" % (trip))
-print ("Fleet %0.1f GW" % (one_trip*12*20 / 1e3))
+import pandas as pd, io
+
+s = """
+YEAR    DEFICIT GROWTH  INFLATION  UNEMPLOYMENT
+1965    $1B     6.5%    1.9%       4.0%
+1966    $4B     6.6%    3.5%       3.8%
+1967    $9B     2.7%    3.0%       3.8%
+1968    $25B    4.9%    4.7%       3.4%
+1969    -$3B    3.1%    6.2%       3.5%
+1970    $3B     0.2%    5.6%       6.1%
+1971    $23B    3.3%    3.3%       6.0%
+1972    $23B    5.2%    3.4%       5.2%
+1973    $15B    5.6%    8.7%       4.9%
+"""
+s = s.replace("%","").replace("$","").replace("B","")
+df = pd.read_csv(io.StringIO(s),sep='\s*').set_index("YEAR")
+df['GROWTH'] = df.GROWTH.shift(1)
+df['UNEMPLOYMENT'] = df.UNEMPLOYMENT.shift(1)
+df['DEFICIT'] = df.DEFICIT.shift(1)
+df.corr()
 ```
 
 ```text
-One trip, single ship 65.2 MW
-Fleet 15.6 GW
+               DEFICIT    GROWTH  INFLATION  UNEMPLOYMENT
+DEFICIT       1.000000  0.123867   0.490311      0.264804
+GROWTH        0.123867  1.000000   0.138173     -0.504883
+INFLATION     0.490311  0.138173   1.000000     -0.138800
+UNEMPLOYMENT  0.264804 -0.504883  -0.138800      1.000000
 ```
 
-[PDF](https://www.hydrogen.energy.gov/pdfs/07-Schmidt-Liquid%20Organic%20Hydrogen Carriers.pdf)
+---
+
+Not all gov spending causes inflation. Not all gov spending was
+for the war.
+
+"The government spending for the Vietnam war caused inflation"
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/FjyFDkrWQAE-x66?format=jpg&name=small"/>
+"@isabelzawtun@mstdn.social
+
+Gary Numan is 13 days older than Gary Oldman. I don't even know what
+to believe any more"
 
 ---
 
-Mastodon did not do anything revolutionary, it merely created a
-protocol for different servers to communicate, and simple software to
-manage the content. Now bigger companies (esp ones with existing user
-base) can have their servers running a social net protocol, users can
-communicate through it.
+Reuters: "Egypt approves $5.5 bln green hydrogen project in Ain
+Sokhna"
 
 ---
 
-E-mail works via disparete servers too; GMail has its own servers,
-Yahoo has theirs, they communicate through a protocol called SMTP. I
-don't have to be on Yahoo system to email someone at Yahoo. Facebook,
-Twitter work on a backward, suboptimal 'monolith' mechanism.. The
-problem is, as usual, over-commercialization of a platform.
+Zigwheels: "Hydrogen-powered Toyota Hilux in the works.. Toyota’s UK
+arm has recently received funding from the UK Government to develop
+the prototype of the hydrogen-powered Toyota Hilux"
+
+<img width="340" src="https://pbs.twimg.com/card_img/1602731312564957184/TMA98qda?format=jpg&name=small"/>
 
 ---
 
-NBC: "New FTX CEO: This isn't sophisticated, this is just plain old
-embezzlement"
+I still see links to that Quanta article - "wormhole created in the
+lab". What they missed; it was all computer simulation. Hey I could create
+entire cities in the lab; see one [here](https://youtu.be/wjxVci-fWj4?t=85).
 
 ---
 
-CNBC: "Sam Bankman-Fried criminal charges unsealed: Conspiracy to
-defraud the U.S., wire fraud, securities fraud, and money laundering"
+Barron's: "Buy Plug Power Stock, UBS Says. It Could Lead a Potential
+$10 Trillion Hydrogen Market"
 
 ---
 
-Solid action out of Europe - it is welcome
-
-Bloomberg: "Apple to Allow Outside App Stores in Overhaul Spurred by EU Laws"
-
----
-
-The Verge: "[2022/6] USB-C will be mandatory for phones sold in the EU"
+Andy Marsh's H2 company (Plug Power) picked up on it. [Here is](https://www.linkedin.com/posts/plug-power_plug-ceo-andy-marsh-was-honored-to-be-invited-activity-6976203348068704256-1a6S)
+Marsh. This stuff isn't outside the mainstream anymore, hitjobs will
+be harder to execute. Better watch out
 
 ---
 
-Added Morocco, Lesotho, Swaziland, Namibia, Mozambique, United
-Republic of Tanzania on the map - mostly pro RU.
+*Glass Onion* - total hitjob. Talking down H2. Do these people want to
+destroy the world? If one is against clean fuels, one is either
+misinformed, ill-intentioned or a moron. There isn't a fourth option.
 
-[[-]](2022/12/ru-africa.html)
+---
+
+[There he is](tweets/2022/ejagoffthiel2.jpeg), with his best friend
+
+---
+
+Merry band of corksuckers around Peter Thiel - that group is like a
+knitting circle, they blabber on constantly visit each others
+'podcasts', give each other blowjobs.. They aren't contrarian in the
+least. There is a clique, the clique has certain business interests,
+whatever is suitable for those interests becomes the contrarian
+viewpoint.
+
+---
+
+"@Hy_Economy@mastodon.social
+
+Weimar, Germany, plans to replace all of their 37 buses with #hydogen
+buses - the first three will arrive soon... They plan to use locally
+produced green hydrogen to power the vehicle fleet"
+
+---
+
+H2 View: "Uniper, Shell announce contracts for blue hydrogen plans in Humber, UK"
 
 ---
 
