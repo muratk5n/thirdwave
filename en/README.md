@@ -130,11 +130,10 @@ misinformed, ill-intentioned or a moron. There isn't a fourth option.
 ---
 
 Merry band of corksuckers around Peter Thiel - that group is like a
-knitting circle, they blabber on constantly visit each others
-'podcasts', give each other blowjobs.. They aren't contrarian in the
-least. There is a clique, the clique has certain business interests,
-whatever is suitable for those interests becomes the contrarian
-viewpoint.
+knitting circle, they blabber on, visit each others 'podcasts', give
+each other blowjobs.. They aren't contrarian in the least. There is a
+clique, the clique has certain business interests, whatever is
+suitable for those interests becomes the contrarian viewpoint.
 
 ---
 
