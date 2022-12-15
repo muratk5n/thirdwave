@@ -22,18 +22,15 @@ there to some offshore haven, then to stawks, no inflation.
 
 ---
 
-Inflation wasn't too high pre-73. Starting 73 it was but oil shortages
-started then, and bunch of other stuff. Glad LBJ spent on social programs.
-
----
-
-There is strong correlation with gov spending at the time and
-inflation, but also between growth and unemployment which makes sense,
-wages are major contribution to inflation.
+There is strong correlation with gov spending and inflation, but also
+between growth and unemployment which makes sense, wages are major
+contribution to inflation.
 
 Doc mentions gov spending wasn't entirely for the war; LBJ did some
-social spending (money went to ppl direct, which, like wages, can
-cause inflation).
+social spending (money went to ppl direct).
+
+Inflation wasn't too high pre-73. Starting 73 it was but oil shortages
+started then, and bunch of other stuff. Glad LBJ spent on social programs.
 
 ---
 
