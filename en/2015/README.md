@@ -4,8 +4,6 @@
 
 [Tendermint](01/tendermint.html)
 
-[Cellnet](02/cellnet.html)
-
 [Confessions of a Congressman](02/confessions-of-congressman.html)
 
 [II Leopold II's](03/2-leopold-2.html)
