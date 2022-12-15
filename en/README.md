@@ -39,7 +39,7 @@ cause inflation).
 
 See [doc](https://www.thebalancemoney.com/vietnam-war-facts-definition-costs-and-timeline-4154921)
 here. I took data below from it, shifted source vars one year ahead
-to see causal effects better. Correlation shown below,
+to see causal effects better. 
 
 ```python
 import pandas as pd, io
@@ -103,7 +103,7 @@ the prototype of the hydrogen-powered Toyota Hilux"
 
 I still see links to that Quanta article - "wormhole created in the
 lab". What they missed; it was all computer simulation. Hey I could create
-entire cities in the lab; see one [here](https://youtu.be/wjxVci-fWj4?t=85).
+entire cities in the lab; see [here](https://youtu.be/wjxVci-fWj4?t=85).
 
 ---
 
@@ -112,9 +112,13 @@ $10 Trillion Hydrogen Market"
 
 ---
 
+This stuff isn't outside the mainstream anymore, hitjobs will be
+harder to execute. Better watch out
+
+---
+
 Andy Marsh's H2 company (Plug Power) picked up on it. [Here is](https://www.linkedin.com/posts/plug-power_plug-ceo-andy-marsh-was-honored-to-be-invited-activity-6976203348068704256-1a6S)
-Marsh. This stuff isn't outside the mainstream anymore, hitjobs will
-be harder to execute. Better watch out
+Marsh. 
 
 ---
 
