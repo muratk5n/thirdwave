@@ -103,10 +103,9 @@ The German government is on MD too. That's great.
 
 "@mastodonmigration@mastodon.online
 
-@TexasObserver @TucsonSentinel @restofworld Create Mastodon Instances
-
-We've entered a new stage in the evolution of Mastodon social
-media. Trailblazing media organizations are creating their own
+@TexasObserver @TucsonSentinel @restofworld Create Mastodon
+Instances.. We've entered a new stage in the evolution of Mastodon
+social media. Trailblazing media organizations are creating their own
 instances–something impossible on other social media platforms...
 
 'We wanted to create an authoritative presence in the fediverse, so
