@@ -53,8 +53,8 @@ Eco Watch: "UK Could Require All New Boilers to Be ‘Hydrogen Ready’ by
 
 ---
 
-👍 This would further demonstrate H2 can be used for anything. H2 is
-especially useful [in this area](2022/02/h2-end-use.html#heating) IMO.
+👍 This would further demonstrate H2 can be used for anything. The magic molecule is
+especially useful [for heating](2022/02/h2-end-use.html#heating).
 
 H2 View: "UK Government backs hydrogen BECCS with £25m and opens for
 consultation on mandating hydrogen-ready boilers"
