@@ -76,7 +76,7 @@ does with it all.
 
 ---
 
-James Gunn is wiping the slate clean. No more Snyderverse now it's Gunnverse
+James Gunn is wiping the slate clean. No more Snyderverse time for Gunnverse
 
 ---
 
