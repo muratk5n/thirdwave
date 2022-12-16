@@ -121,11 +121,6 @@ Former Madoff lawyer, \#CNBC \#FTX.
 
 ---
 
-The lecturer of this course has a very Ned Flandersy accent, a lot of
-diddly, sounds happy.
-
----
-
 "Mathematical Models of Continua"
 
 ---
