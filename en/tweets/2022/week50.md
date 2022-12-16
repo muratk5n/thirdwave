@@ -117,7 +117,7 @@ misinformed, ill-intentioned or a moron. There isn't a fourth option.
 
 ---
 
-[There he is](tweets/2022/ejagoffthiel2.jpeg), with his best friend
+[There he is](ejagoffthiel2.jpeg), with his best friend
 
 ---
 
@@ -271,7 +271,7 @@ The Verge: "[2022/6] USB-C will be mandatory for phones sold in the EU"
 Added Morocco, Lesotho, Swaziland, Namibia, Mozambique, United
 Republic of Tanzania on the map - mostly pro RU.
 
-[[-]](2022/12/ru-africa.html)
+[[-]](../../2022/12/ru-africa.html)
 
 ---
 
