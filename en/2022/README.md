@@ -44,8 +44,6 @@
 
 [Liquified H2](02/liquified-h2.html)
 
-[Methyl Cyclohexane for H2 Storage](02/methyl-cyclohexane-h2.html)
-
 [Paraffin Wax](02/paraffin-wax.html)
 
 [Solid H2, Nanopowders](02/solid-h2-nanopowders.html)
