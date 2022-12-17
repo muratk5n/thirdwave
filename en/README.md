@@ -26,10 +26,10 @@ dissolve Congress a 'violation' of democracy and the rule of law"
 
 ---
 
-I bet it would be possible to rewrite the Mastad code, as long as the
-protocol is adhered to, communication between servers should be
-fine.. Don't like Ruby (the current code)?  Rewrite it in, what's the
-hot lang these days, Rust? Go? Have at it..
+Rewriting the Mastad code should be fine, as long as the protocol is
+adhered to, communication between servers would work.. Don't like Ruby
+(the current code)?  Rewrite it in, what's the hot lang these days,
+Rust?  Go? Have at it..
 
 ---
 
