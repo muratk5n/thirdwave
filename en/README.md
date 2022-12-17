@@ -91,14 +91,6 @@ deploying 25GW of utility scale solar by 2025"
 
 ---
 
-Great point.
-
-\#Crypto \#NealStephenson
-
-[[-]](https://infosec.exchange/@akallen404/109513170462834228)
-
----
-
 H2 Central: "A Pathway to Help Make Scotland a World Leader in
 Hydrogen Production has Been Published, to Produce 25 GW By 2045"
 
