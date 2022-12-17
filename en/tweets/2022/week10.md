@@ -67,7 +67,7 @@ temperatures"
 ---
 
 'First commercial scale hydrogen-to-MCH' project.. Interesting.
-Posted about MCH [here](../../2020/10/h2-toloune-lohc.html).
+Posted about MCH [here](../../2020/10/h2-lohc.html).
 
 "PETRONAS Hydrogen.. and ENEOS Corporation.. have signed a Joint
 Feasibility Study Agreement (JFSA) to advance the studies for a

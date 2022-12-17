@@ -17,7 +17,7 @@ undermining reckless nonsense about success of laissez faire strategy"
 
 ---
 
-Yes. New [post](../../2020/11/h2-toloune-lohc.md)
+Yes. New [post](../../2020/11/h2-lohc.md)
 
 ---
 

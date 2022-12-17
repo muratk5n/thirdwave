@@ -169,7 +169,7 @@ Other [H2 storage methods](../../2022/02/h2-storage.html)
 
 ---
 
-Blogged about [LOHC](../../2020/11/h2-toloune-lohc.html) before.
+Blogged about [LOHC](../../2020/11/h2-lohc.html) before.
 
 ---
 

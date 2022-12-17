@@ -510,7 +510,7 @@ and pharmacies"
 
 Earlier write-up on the tech
 
-[[-]](../../2022/02/h2-toloune-lohc.md)
+[[-]](../../2022/02/h2-lohc.md)
 
 ---
 

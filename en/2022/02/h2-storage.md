@@ -12,7 +12,7 @@
 
 [Paraffin Wax](paraffin-wax.html)
 
-[LOHC](h2-toloune-lohc.html)
+[LOHC](h2-lohc.html)
 
 [Power Paste](h2-power-paste.html)
 
