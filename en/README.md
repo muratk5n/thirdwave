@@ -73,7 +73,7 @@ turbo engine"
 ---
 
 H2 Fuel News: "U.S. researchers [from UofSC and FSU] created hydrogen
-fuel by mimicking [ a process that is referred to as the Z-Scheme in
+fuel by mimicking [a process that is referred to as the Z-Scheme in
 natural photosynthesis].. In their study, the scientists combined two
 molecules. One was a photoredox catalyst, for instance a catalyst that
 can move electrons with light. The other was naphthol, which is a
