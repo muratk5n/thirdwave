@@ -8,119 +8,127 @@ Pinned Tweet
 
 ---
 
+NDTV: "Peru's leftist president Pedro Castillo was ousted by
+lawmakers..
 
-Science News: "Earth’s purported ‘nearest black hole’ isn’t a black hole"
+Mexican President Andres Manuel Lopez Obrador, one of Castillo's
+staunchest allies, blamed 'economic and political elites' for a
+hostile environment since the beginning of his 'legitimate
+presidency.'
 
----
+The government of Gustavo Petro, Colombia's first left-wing president,
+called for dialogue involving 'all political actors,' adding that
+'democracy requires the recognition of the popular will expressed both
+in the elections for president and for Congress.'
 
-"@PCMag@mastodon.social
-
-Microsoft is banning cryptocurrency mining over its Azure data centers
-unless the customer asks and receives permission to do so first"
-
----
-
-H2 Central: "Project Launched to Create Hydrogen Highway from Scotland
-to Rotterdam.. The LHyTS project seeks to demonstrate that LOHC, in
-the form of methylcyclohexane (MCH), can be successfully transported
-at scale, providing an export route to the Port of Rotterdam and other
-European destinations"
+Brazil was more critical of Castillo's actions, calling his attempt to
+dissolve Congress a 'violation' of democracy and the rule of law"
 
 ---
 
-Rule of Threes
-
-Wiki: "You can survive three minutes without breathable air
-(unconsciousness), or in icy water. You can survive three hours in a
-harsh environment (extreme heat or cold). You can survive three days
-without drinkable water. You can survive three weeks without food"
+I bet it would be possible to rewrite the Mastad code, as long as the
+protocol is adhered to, communication between servers should be
+fine.. Don't like Ruby (the current code)?  Rewrite it in, what's the
+hot lang these days, Rust? Go? Have at it..
 
 ---
 
-RSS is awesome. I wrote a simple 🐍 newsreader based on this
-technology alone - it is amazing how many sites offer it... 
+
+"@DJGould94
+
+Can an American please explain to me why Northwestern University is in
+the northeast"
 
 ---
 
-\#RSS \#Internet
-
-[[-]](https://aus.social/@attacus/109499740512576514)
-
----
-
-Eco Watch: "UK Could Require All New Boilers to Be ‘Hydrogen Ready’ by
-2026"
+Hindustan Times: "Russia's intercontinental missile [was loaded into a
+silo launcher] after US' patriot promise to Ukraine"
 
 ---
 
-👍 This would further demonstrate H2 can be used for anything. The magic molecule is
-especially useful [for heating](2022/02/h2-end-use.html#heating).
+That guy is getting ready to get back in the saddle
 
-H2 View: "UK Government backs hydrogen BECCS with £25m and opens for
-consultation on mandating hydrogen-ready boilers"
+TASS: "Viktor Bout says he wants to visit Donbass when opportunity arises"
 
 ---
 
-H2 View: "Fortescue Future Industries (FFI) and Puget Sound Energy
-(PSE) has signed a MoU to accelerate the clean energy transition in
-North America"
+H2 Fuel News: "First mega-scale green hydrogen production plant to be
+built in Texas.. The renewable power to hydrogen project includes an
+estimated 1.4 GW of wind and solar power generation, and an
+electrolyzer capacity capable of producing more than 200 metric tons
+of green hydrogen daily. This will make it the biggest green hydrogen
+production facility in the US"
 
 ---
 
-It makes sense; Zack left bunch of disjointed stuff behind, and ppl
-were piling more things on that.. unnecessary drama surrounding both
-the scripts and the actors.. The new mgmt now doesn't have to deal
-with it. This guy is the grand designer, worked with ensembles, can
-make a character out of a freaking tree.  I'm psyched to see what he
-does with it all.
+F24: "Mystery illness afflicts France players at World Cup"
 
 ---
 
-James Gunn is wiping the slate clean. No more Snyderverse time for Gunnverse
+H2 Fuel News: "Toyota has recently unveiled a new prototype hydrogen
+combustion engine car called the Corolla Cross H2 Concept... The
+vehicle is based on the GR Corolla equipped with a 1.6l 3-cylinder
+turbo engine"
 
 ---
 
-For some months counts are over two hundred *thousand*. Massive
+H2 Fuel News: "U.S. researchers [from UofSC and FSU] created hydrogen
+fuel by mimicking [ a process that is referred to as the Z-Scheme in
+natural photosynthesis].. In their study, the scientists combined two
+molecules. One was a photoredox catalyst, for instance a catalyst that
+can move electrons with light. The other was naphthol, which is a
+fluorescent organic compound.. These combined molecules were exposed
+to light and each molecule absorbed a photon and then worked together
+to produce hydrogen fuel."
 
 ---
 
-Major spike in people rushing towards the US southern border. Data from
-[CBP](https://www.cbp.gov/document/stats/southwest-land-border-encounters).
-
-```python
-u.sw_border_encounter('2022-Oct/sbo-encounters-fy19-fy22.csv')
-```
-
-<img width="340" src="https://pbs.twimg.com/media/Fj9qwm1XoAEUgGc?format=png&name=small"/>
+"bp has invested $20 million in Australian solar innovator 5B.. The bp
+funding will also open up big opportunities with Lightsource bp, which
+is jointly owned by bp and has emerged as one of the biggest solar
+project developers in Australia, and the world, with a goal of
+deploying 25GW of utility scale solar by 2025"
 
 ---
 
-The German government is on MD too. That's great. 
+Great point.
 
-[[-]](https://social.bund.de/explore)
+\#Crypto \#NealStephenson
 
----
-
-"@mastodonmigration@mastodon.online
-
-@TexasObserver @TucsonSentinel @restofworld Create Mastodon
-Instances.. We've entered a new stage in the evolution of Mastodon
-social media. Trailblazing media organizations are creating their own
-instances–something impossible on other social media platforms...
-
-'We wanted to create an authoritative presence in the fediverse, so
-there was no doubt about who we are,' says Kit O’Connell @oconnell of
-@TexasObserver"
+[[-]](https://infosec.exchange/@akallen404/109513170462834228)
 
 ---
 
-Former Madoff lawyer, \#CNBC \#FTX. 
-
-[[-]](https://youtu.be/pLmRwCmFFSw?t=11)
+H2 Central: "A Pathway to Help Make Scotland a World Leader in
+Hydrogen Production has Been Published, to Produce 25 GW By 2045"
 
 ---
 
-"Mathematical Models of Continua"
+Kevin O'Conned getting tasty on FTX.. I wonder if he's scared a
+little, if celebs can be sued for promoting this shit, why not any
+other businessman for suggesting it to others?
+
+---
+
+"The glasses became half empty and not half full"
+
+---
+
+Investor: "A whole generation has forgotten about the late 1990s, and
+so a lot of people who are buying these stocks or the Bitcoin
+craziness never saw these things go down 90 or 99 percent like my
+generation did. We saw a bull market phenomenon in the late 90s, and
+when the market turned down and the glasses became half empty and not
+half full, the access to capital dried up overnight. If you have
+positive cash flow you can survive, but if your burn rate is really
+high and capital markets shut down for six months, you’re dead"
+
+---
+
+H2 Central: "Matheson wins Large Hydrogen Business in
+India... Matheson will invest in, and establish a large, multi-feed
+hydrogen plant to supply up to 132 kNm3/hr (285 Tons/day) to NRL’s
+refinery units at Numaligarh in Assam, India"
 
 ---
 

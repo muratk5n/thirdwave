@@ -1,5 +1,120 @@
 # Week 50 
 
+Science News: "Earth’s purported ‘nearest black hole’ isn’t a black hole"
+
+---
+
+"@PCMag@mastodon.social
+
+Microsoft is banning cryptocurrency mining over its Azure data centers
+unless the customer asks and receives permission to do so first"
+
+---
+
+H2 Central: "Project Launched to Create Hydrogen Highway from Scotland
+to Rotterdam.. The LHyTS project seeks to demonstrate that LOHC, in
+the form of methylcyclohexane (MCH), can be successfully transported
+at scale, providing an export route to the Port of Rotterdam and other
+European destinations"
+
+---
+
+Rule of Threes
+
+Wiki: "You can survive three minutes without breathable air
+(unconsciousness), or in icy water. You can survive three hours in a
+harsh environment (extreme heat or cold). You can survive three days
+without drinkable water. You can survive three weeks without food"
+
+---
+
+RSS is awesome. I wrote a simple 🐍 newsreader based on this
+technology alone - it is amazing how many sites offer it... 
+
+---
+
+\#RSS \#Internet
+
+[[-]](https://aus.social/@attacus/109499740512576514)
+
+---
+
+Eco Watch: "UK Could Require All New Boilers to Be ‘Hydrogen Ready’ by
+2026"
+
+---
+
+👍 This would further demonstrate H2 can be used for anything. The magic molecule is
+especially useful [for heating](2022/02/h2-end-use.html#heating).
+
+H2 View: "UK Government backs hydrogen BECCS with £25m and opens for
+consultation on mandating hydrogen-ready boilers"
+
+---
+
+H2 View: "Fortescue Future Industries (FFI) and Puget Sound Energy
+(PSE) has signed a MoU to accelerate the clean energy transition in
+North America"
+
+---
+
+It makes sense; Zack left bunch of disjointed stuff behind, and ppl
+were piling more things on that.. unnecessary drama surrounding both
+the scripts and the actors.. The new mgmt now doesn't have to deal
+with it. This guy is the grand designer, worked with ensembles, can
+make a character out of a freaking tree.  I'm psyched to see what he
+does with it all.
+
+---
+
+James Gunn is wiping the slate clean. No more Snyderverse time for Gunnverse
+
+---
+
+For some months counts are over two hundred *thousand*. Massive
+
+---
+
+Major spike in people rushing towards the US southern border. Data from
+[CBP](https://www.cbp.gov/document/stats/southwest-land-border-encounters).
+
+```python
+u.sw_border_encounter('2022-Oct/sbo-encounters-fy19-fy22.csv')
+```
+
+<img width="340" src="https://pbs.twimg.com/media/Fj9qwm1XoAEUgGc?format=png&name=small"/>
+
+---
+
+The German government is on MD too. That's great. 
+
+[[-]](https://social.bund.de/explore)
+
+---
+
+"@mastodonmigration@mastodon.online
+
+@TexasObserver @TucsonSentinel @restofworld Create Mastodon
+Instances.. We've entered a new stage in the evolution of Mastodon
+social media. Trailblazing media organizations are creating their own
+instances–something impossible on other social media platforms...
+
+'We wanted to create an authoritative presence in the fediverse, so
+there was no doubt about who we are,' says Kit O’Connell @oconnell of
+@TexasObserver"
+
+---
+
+Former Madoff lawyer, \#CNBC \#FTX. 
+
+[[-]](https://youtu.be/pLmRwCmFFSw?t=11)
+
+---
+
+"Mathematical Models of Continua"
+
+---
+
 NeftegazRU: "Russia's own bid to become carbon neutral by 2060 is
 expected to require major shifts in its energy strategy from oil & gas
 to increases in nuclear and hydrogen production"
