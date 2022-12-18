@@ -8,119 +8,135 @@ Pinned Tweet
 
 ---
 
-NDTV: "Peru's leftist president Pedro Castillo was ousted by
-lawmakers..
 
-Mexican President Andres Manuel Lopez Obrador, one of Castillo's
-staunchest allies, blamed 'economic and political elites' for a
-hostile environment since the beginning of his 'legitimate
-presidency.'
 
-The government of Gustavo Petro, Colombia's first left-wing president,
-called for dialogue involving 'all political actors,' adding that
-'democracy requires the recognition of the popular will expressed both
-in the elections for president and for Congress.'
+The Herald: "Ministers have unveiled a plan to help Scotland become a
+world leader in hydrogen production which they say could generate up
+to £25 billion a year and provide more than 300,000 jobs.
 
-Brazil was more critical of Castillo's actions, calling his attempt to
-dissolve Congress a 'violation' of democracy and the rule of law"
+The blueprint, published yesterday, sets out the sets they will take
+to help meet the target of producing a sixth of the country's power
+needs from hydrogen by 2030, some 5 Gigawatts.
+
+A further goal is to produce 25 Gigawatts of hydrogen by 2045 - the
+year the Scottish Government want the county to be net zero"
 
 ---
 
-Rewriting the Mastad code should be fine, as long as the protocol is
-adhered to, communication between servers would work.. Don't like Ruby
-(the current code)?  Rewrite it in, what's the hot lang these days,
-Rust?  Go? Have at it..
+Smart how they compared different items on a multivariable plot (the
+one shared below); each variable is a corner, better/worse numeric
+values bring you further or closer to the center, you want the best
+item to be on the outside, a connected ring envoloping all the others
+in that web, (clearly DBT in this plot).
 
 ---
 
+Comparison of different LOHC base compounts, via @hydrogenLOHC
 
-"@DJGould94
+Yellow: Toluene
 
-Can an American please explain to me why Northwestern University is in
-the northeast"
+Orange: NEC (N-ethyl carbazole)
 
----
+Blue: DBT (dibenzyl toluene)
 
-Hindustan Times: "Russia's intercontinental missile [was loaded into a
-silo launcher] after US' patriot promise to Ukraine"
-
----
-
-That guy is getting ready to get back in the saddle
-
-TASS: "Viktor Bout says he wants to visit Donbass when opportunity arises"
+[[-]](tweets/2022/lohc-compare.jpeg)
 
 ---
 
-H2 Fuel News: "First mega-scale green hydrogen production plant to be
-built in Texas.. The renewable power to hydrogen project includes an
-estimated 1.4 GW of wind and solar power generation, and an
-electrolyzer capacity capable of producing more than 200 metric tons
-of green hydrogen daily. This will make it the biggest green hydrogen
-production facility in the US"
+Pretz - Red Light For Go \#music
+
+[[-]](https://youtu.be/_KMFsq_6N6A)
 
 ---
 
-F24: "Mystery illness afflicts France players at World Cup"
+Compressed H2 is ok for short trips that can be made frequently due to
+max capacity I'm reading about, it looks suitable for eg Oz-Japan not
+as much for SA-Japan. I made some calcs below for 40 trips / year and
+a fleet of 20 ships, using 250 bar H2 having 700 kwh/m3,
+
+```python
+capacity = 120000 #m3
+print ("Single ship %0.1f MW" % ((ship * 700) / (365*24*1e3)))
+ann_trips = 40
+print ("Fleet capacity %0.1f GW" % ((20 * ann_trips * capacity * 700) / (365*24*1e6)))
+```
+
+```text
+Single ship 9.6 MW
+Fleet capacity 7.7 GW
+```
 
 ---
 
-H2 Fuel News: "Toyota has recently unveiled a new prototype hydrogen
-combustion engine car called the Corolla Cross H2 Concept... The
-vehicle is based on the GR Corolla equipped with a 1.6l 3-cylinder
-turbo engine"
+H2 Central: "Provaris Energy Obtains World First Design Approval For
+Compressed Hydrogen Carrier From [American Bureau of Shipping]"
 
 ---
 
-H2 Fuel News: "U.S. researchers [from UofSC and FSU] created hydrogen
-fuel by mimicking [a process that is referred to as the Z-Scheme in
-natural photosynthesis].. In their study, the scientists combined two
-molecules. One was a photoredox catalyst, for instance a catalyst that
-can move electrons with light. The other was naphthol, which is a
-fluorescent organic compound.. These combined molecules were exposed
-to light and each molecule absorbed a photon and then worked together
-to produce hydrogen fuel."
+But if RU, CH also support this measure who gets the chit? 
 
 ---
 
-"bp has invested $20 million in Australian solar innovator 5B.. The bp
-funding will also open up big opportunities with Lightsource bp, which
-is jointly owned by bp and has emerged as one of the biggest solar
-project developers in Australia, and the world, with a goal of
-deploying 25GW of utility scale solar by 2025"
+Nice; Germany needs a seat too, Asia Minor (have to push for the
+homie), Latin America.
+
+VOA Africa: "Biden expressed support for Africa's bid, among others,
+to have a permanent seat on the United Nations Security Council"
 
 ---
 
-H2 Central: "A Pathway to Help Make Scotland a World Leader in
-Hydrogen Production has Been Published, to Produce 25 GW By 2045"
+*Blood Father*, wonderfully done, great story. Almost all roles had the perfect
+actor playing it.
 
 ---
 
-Kevin O'Conned getting tasty on FTX.. I wonder if he's scared a
-little, if celebs can be sued for promoting this shit, why not any
-other businessman for suggesting it to others?
+[Wires vs Pipes](2019/03/wirespipes.html)
 
 ---
 
-"The glasses became half empty and not half full"
+"@GutoOwenH2
+
+The true test of an energy system is not the easy stuff but the
+worst-case scenario. Resilience being the 1ary metric. The Herculean
+efforts of the grid engineers is a failure of the system. And the
+Pathé News-style spin would be laughable, if it was not so
+serious. It's 2022"
 
 ---
 
-Investor: "A whole generation has forgotten about the late 1990s, and
-so a lot of people who are buying these stocks or the Bitcoin
-craziness never saw these things go down 90 or 99 percent like my
-generation did. We saw a bull market phenomenon in the late 90s, and
-when the market turned down and the glasses became half empty and not
-half full, the access to capital dried up overnight. If you have
-positive cash flow you can survive, but if your burn rate is really
-high and capital markets shut down for six months, you’re dead"
+"@DickWinchester
+
+This must be nearly a week now and yet there are still some who insist
+electrification is the way forward when we know hydrogen can work so
+much better for people"
 
 ---
 
-H2 Central: "Matheson wins Large Hydrogen Business in
-India... Matheson will invest in, and establish a large, multi-feed
-hydrogen plant to supply up to 132 kNm3/hr (285 Tons/day) to NRL’s
-refinery units at Numaligarh in Assam, India"
+Electric lines, the grid even looks bad, crooked. 
+
+---
+
+BBC: "Still 1,600 Shetland properties without power.. Some homes on
+the west side of Shetland's mainland may not have power back until
+Monday.. About 150 engineers are now battling snow and ice to rebuild
+Shetland's overhead power lines and reconnect properties to the
+network"
+
+[[-]](https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-63992391)
+
+---
+
+H2 Central: "[EU] Deal Reached on New Carbon Leakage Pricing
+Instrument to Raise Global Climate Ambition, Scope Includes Hydrogen"
+
+---
+
+Energy.gov: "Biden-Harris Administration Announces $750 Million To
+Accelerate Clean Hydrogen Technologies"
+
+<img width="340" src="https://pbs.twimg.com/media/FkP5aBFXoAMaFzo?format=png&name=small"/>
+
+[[-]](https://www.energy.gov/articles/biden-harris-administration-announces-750-million-accelerate-clean-hydrogen-technologies	)
 
 ---
 
