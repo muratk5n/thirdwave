@@ -73,7 +73,7 @@ Compressed Hydrogen Carrier From [American Bureau of Shipping]"
 
 ---
 
-But if RU, CH also support this measure who gets the chit? 
+I wonder if RU, CH also support this measure who gets the chit? 
 
 ---
 
