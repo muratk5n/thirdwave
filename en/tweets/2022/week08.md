@@ -658,8 +658,7 @@ in Riyadh, Saudi Arabia"
 
 ---
 
-Look at that [bad boy](twimg/FMA3m-DWUAMDe-D.jpg).
-Arrrr.. The wind cannot knock this down!
+Look at that [bad boy](twimg/FMA3m-DWUAMDe-D.jpg). Arrrr.. The wind cannot knock this down!
 
 ---
 

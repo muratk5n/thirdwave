@@ -9,6 +9,10 @@ The LOHC technology is based on the chemical bonding of hydrogen to
 liquid organic carriers, which are mostly aromatic hydrocarbons or
 heterocyclic substances. ...
 
+There are three different types of organic carriers: methyl
+cyclohexane-toluene, NEC (N-ethyl carbazole), and DBT (dibenzyl
+toluene).
+
 In contrast to some other chemical hydrogen storage processes, these
 reactions are reversible. The carrier molecule is cycled between a
 loaded and unloaded state.  ... The most technically advanced concept,
@@ -53,16 +57,14 @@ One trip, single ship 65.2 MW
 Fleet 15.6 GW
 ```
 
-[The Guardian](https://www.theguardian.com/environment/2019/apr/08/the-perfect-storm-woodside-energy-and-siemens-invest-in-australias-hydrogen-economy?CMP=share_btn_tw)
+[The Guardian](https://www.theguardian.com/environment/2019/apr/08/the-perfect-storm-woodside-energy-and-siemens-invest-in-australias-hydrogen-economy?CMP=share_btn_tw),
+[ABC](https://www.abc.net.au/radionational/programs/breakfast/australias-first-green-hydrogen-export/10973806),
+[Manufacturers' Monthly](http://www.manmonthly.com.au/news/queensland-celebrates-first-shipment-of-green-hydrogen-to-japan/)
 
 In March, the Queensland University of Technology [QUT] made history
 when it achieved the first export of a small quantity of clean, green
 hydrogen produced in Australia from renewable energy, to Japanese
 energy giant JXTG – proving that it was in fact possible.
-
-[ABC](https://www.abc.net.au/radionational/programs/breakfast/australias-first-green-hydrogen-export/10973806)
-
-[Manufacturers' Monthly](http://www.manmonthly.com.au/news/queensland-celebrates-first-shipment-of-green-hydrogen-to-japan/)
 
 The actors involved; JXTG, is Japan’s largest petroleum
 conglomerate. QUT provided solar panels that can work with salt
