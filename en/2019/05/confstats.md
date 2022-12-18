@@ -75,6 +75,33 @@ Government of Syria  Syria            1       0
 IS                   Syria           15       0
 ```
 
+<a name='gtdafrica'/>
+
+### GTD Africa
+
+Global Terrorism Database focuses solely on terrorist attacks. Below
+is code for Africa, btw 2005 and June 2020. 
+
+
+```python
+import pandas as pd
+
+df = pd.read_csv('gld.csv',sep='|')
+df1 = df[(df.region_txt.str.contains('Africa')) & (df.iyear > 2005)]
+df1['dt'] = df.apply(lambda x: "%d%02d" % (x.iyear,x.imonth), axis=1)
+
+g1 = df1.groupby(['dt']).size()
+g2 = df1.groupby(['dt'])['nkill'].sum()
+g = pd.concat([g1,g2],axis=1)
+g.columns = ['incident','deaths']
+g.plot(title='')
+plt.savefig('gtdafrica.png')
+```
+
+![](gtdafrica.png)
+
+[Data](https://www.start.umd.edu/gtd/contact/download)
+
 <a name='ukraine'/>
 
 ### Ukraine
