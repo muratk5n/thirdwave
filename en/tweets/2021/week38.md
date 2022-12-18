@@ -4,10 +4,6 @@ Al Jazeera: "Canada vote results near identical to 2019"
 
 ---
 
-Troop deployment [stats](2019/05/confstats.html#gdtroop)
-
----
-
 "Ego is not your amigo" \#mile22 👍
 
 ---

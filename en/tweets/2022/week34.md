@@ -244,14 +244,6 @@ control.
 
 ---
 
-Counts of Ukrainian towns under RU control. Data is collected by
-software that parses news sources, tweets. Uses NLP, and "nonlinear
-ad-hoc statistics", I'd prefer curated data but doesn't hurt to share.
-
-[[-]](../../2019/05/confstats.html#ukraine)
-
----
-
 Targeted gov intervention works better on the supply side,
 incentivizing companies towards certain goals.. Incentivizing
 consumers en masse has more backfire potential - too many student

@@ -147,13 +147,6 @@ action was around in the region..
 
 ---
 
-Military Deployment [stats](../../2019/05/confstats.html#gdtroop).
-
-It's busy around Eastern Europe and Russia! Even Estonia is freaked
-out!
-
----
-
 Kto kogo?
 
 ---

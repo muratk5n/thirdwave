@@ -342,13 +342,6 @@ there that shouldn't be there.
 
 ---
 
-Troop deployments in the past five days (gdelt somehow also captures
-troop undeployments but.. anyway). Experimental text-to-geoloc script.
-
-[Link](../../2019/05/confstats.html#gdtroop)
-
----
-
 Fund your own research hotshot..
 
 Welfare queen..

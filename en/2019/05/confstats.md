@@ -75,28 +75,6 @@ Government of Syria  Syria            1       0
 IS                   Syria           15       0
 ```
 
-<a name='gdeltme'/>
-
-### GDELT Middle East
-
-Iraq and Syria based conflict stats. GDELT uses natural language
-processing ("AI") to extract Actor - Action - Actor triplets. The
-result is not curated, there can be mistakes, but as an overall
-outlook, it can be useful.
-
-US military bases, Syria, reverse-engineered from [source](https://bit.ly/3gOBQHx),
-are also added.
-
-[Codes](http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf)
-
-[Data](http://data.gdeltproject.org/events)
-
-[Script](confstat-me.py)
-
-The output of the code is below
-
-[Output](conflict-out.html)
-
 <a name='ukraine'/>
 
 ### Ukraine
@@ -111,17 +89,6 @@ time period.
 [Output](viina-control.png)
 
 <a name='gdtroop'/>
-
-### GDELT, Troop Deployments
-
-Filtering on CAMEO code 154 (military deployment), attempting to
-extract geoloc from the text itself, and filtering for the word
-'troop' in the URL.  No regional filtering, we attempt to find
-worldwide deployments, by all countries.
-
-[Script](confstat-milmob.py)
-
-[Output](conflict-milmob.html)
 
 ### People Shot By the Police
 

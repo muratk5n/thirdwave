@@ -366,10 +366,6 @@ Oz Net Zero Plan. Heavy on clean fuel usage.
 
 ---
 
-Military Deployment [stats](2019/05/confstats.html#gdtroop)
-
----
-
 "@LucasKunceMO
 
 They call this a 'free market' — I call it a cartel"

@@ -218,10 +218,6 @@ work around it. [#ABC](https://thumbs.gfycat.com/AncientAllBasenji-size_restrict
 
 ---
 
-GDELT troop deployment [update](../../2019/05/confstats.html#gdtroop)
-
----
-
 The Guardian: "Amazon rainforest now emitting more CO2 than it absorbs"
 
 ---
@@ -377,10 +373,6 @@ democracy,' said a recent report from the V-Dem Institute, a
 Sweden-based research center. 'The world is still more democratic than
 it was in the 1970s and 1980s, but the global decline in liberal
 democracy has been steep during the past 10 years.'"
-
----
-
-ME conflict [stats](../../2019/05/confstats.html#gdeltme)
 
 ---
 
