@@ -22,6 +22,8 @@
 
 [Application Domains for H2](02/h2-end-use.html)
 
+[LOHC](02/h2-lohc.html)
+
 [Metal Hydrides](02/h2-metal-hydrides.html)
 
 [H2 From Methane (Natural Gas)](02/h2-natural-gas.html)
@@ -35,8 +37,6 @@
 [H2 Storage Options](02/h2-storage.html)
 
 [Thermo-Chemical Water Splitting](02/h2-thermo-chemical.html)
-
-[LOHC](02/h2-toloune-lohc.html)
 
 [H2 Underground Storage](02/h2-underground.html)
 
