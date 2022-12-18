@@ -112,7 +112,7 @@ much better for people"
 
 ---
 
-Electric lines, the grid even looks bad, crooked. 
+The grid, electric lines even look bad, crooked.. 
 
 ---
 
