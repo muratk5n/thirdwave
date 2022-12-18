@@ -23,11 +23,11 @@ year the Scottish Government want the county to be net zero"
 
 ---
 
-Smart how they compared different items on a multivariable plot (the
-one shared below); each variable is a corner, better/worse numeric
-values bring you further or closer to the center, you want the best
-item to be on the outside, a connected ring envoloping all the others
-in that web, (clearly DBT in this plot).
+Smart how they compared different items on a multivariable plot; each
+variable is a corner, better/worse numeric values bring you further or
+closer to the center, you want the best item to be on the outside, a
+connected ring envoloping all the others in that web, (clearly DBT in
+this plot).
 
 ---
 
@@ -50,9 +50,9 @@ Pretz - Red Light For Go \#music
 ---
 
 Compressed H2 is ok for short trips that can be made frequently due to
-max capacity I'm reading about, it looks suitable for eg Oz-Japan not
-as much for SA-Japan. I made some calcs below for 40 trips / year and
-a fleet of 20 ships, using 250 bar H2 having 700 kwh/m3,
+max capacity, it looks suitable for eg Oz-Japan not as much for
+SA-Japan. I made some calcs below for 40 trips / year and a fleet of
+20 ships, using 250 bar H2 having 700 kwh/m3,
 
 ```python
 capacity = 120000 #m3
