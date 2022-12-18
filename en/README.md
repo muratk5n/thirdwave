@@ -77,8 +77,8 @@ But if RU, CH also support this measure who gets the chit?
 
 ---
 
-Nice; Germany needs a seat too, Asia Minor (have to push for the
-homie), Latin America.
+That is welcome. Germany needs a seat too, Asia Minor (have to push
+for the homie), and Latin America.
 
 VOA Africa: "Biden expressed support for Africa's bid, among others,
 to have a permanent seat on the United Nations Security Council"
