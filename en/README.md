@@ -56,14 +56,12 @@ Passenger rail in the US vs Europe via @henrihorn@mastodon.energy
 
 ---
 
-TFI Global: "Greece played absolutely smart throughout the Ukraine
-war, and now it’s richer than ever.. Greek shipping companies have
-devised a smart plan to evade European sanctions. From the Russian
-port of Kavkaz which lies on the north of the Black Sea, Greek ships
-have loaded oil from the Russian ships. The move effectively
-camouflaged Russian oil. Greece ships were also engaged in
-ship-to-ship transfers. Greece has earned billions of dollars of
-revenue from this exercise"
+TFI Global: "Greek shipping companies have devised a smart plan to
+evade European sanctions. From the Russian port of Kavkaz which lies
+on the north of the Black Sea, Greek ships have loaded oil from the
+Russian ships. The move effectively camouflaged Russian oil. Greece
+ships were also engaged in ship-to-ship transfers. Greece has earned
+billions of dollars of revenue from this exercise"
 
 ---
 
