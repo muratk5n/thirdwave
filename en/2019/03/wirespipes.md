@@ -41,7 +41,7 @@ use electricity efficiently you would have to install expensive heat
 pumps in every house. Green gas can also be used for vehicles, as
 compressed natural gas already is"
 
-[Hydrogen Council](https://hydrogencouncil.com/wp-content/uploads/2021/02/Hydrogen-Insights-2021-Report.pdf)
+[Hydrogen Council - PDF](https://web.archive.org/web/20220408113147/https://hydrogencouncil.com/wp-content/uploads/2021/02/Hydrogen-Insights-2021-Report.pdf)
 
 "Longer-term, a hydrogen pipeline network offers the most
 cost-efficient means of distribution. For example, pipelines can
