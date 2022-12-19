@@ -34,8 +34,8 @@ in 2016". I checked GTD (all incidents, all deaths, monthly, ends
 ---
 
 I really wanted Russia part of this clean fuel transition; before the
-war Putin told the visiting Italian businessman on clean ammonia that
-RU could be number one exporter of the stuff; then everything went to
+war Putin told visiting Italian businessman on clean ammonia that RU
+could be number one exporter of the stuff; then everything went to
 shit. Pity.
 
 ---
