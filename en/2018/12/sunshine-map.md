@@ -2,9 +2,9 @@
 
 <img width="340" src="../../tweets/2022/twimg/FCtre5sWEAgFFp9.png"/>
 
-See a scientist [presentation](https://youtu.be/gtmWGPaDkoI?t=367),
-Dr. McFarlane, who is an expert on green ammonia generation (which can be
-exported, and turned into hydrogen at the point of use).
+See the [presentation](https://youtu.be/gtmWGPaDkoI?t=367) by a reputable
+scientist in the area, Dr. McFarlane, who is an expert on green ammonia
+generation (which can be exported, and turned into hydrogen at the point of use).
 
 <img width="200" src="../../tweets/2021/twimg/FCtvwEsXMAYg9Tp.png"/>
 
