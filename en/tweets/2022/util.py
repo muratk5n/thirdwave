@@ -323,6 +323,18 @@ def get_eia(series):
     df = df[1]
     return df
 
+
+def sm_india():
+    clat,clon=18, 77; zoom = 3.0
+    sm.plot_countries(clat,clon,zoom)
+    plt.text(78,20,"India")
+    for city in ['lakshadweep','minicoy','andaman','nicobar']:
+       c = sm.find_city(city,"india")
+       if (len(c)==1):
+           lat,lon,n=float(c[0][9]),float(c[0][8]),c[0][1]
+           plt.text(lat,lon,n)
+           plt.plot(lat,lon,'rd')
+
 def elev_at(lat,lon):
     data = '[[%f,%f]]' % (lat,lon)
     response = requests.post('https://elevation.racemap.com/api',

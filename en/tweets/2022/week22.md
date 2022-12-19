@@ -428,20 +428,9 @@ India has some good radar coverage there, monitoring a lot of key naval space
 
 ---
 
-
 ```python
-import simplegeomap as sm
-clat,clon=18, 77; zoom = 3.0
-sm.plot_countries(clat,clon,zoom)
-plt.text(78,20,"India")
-for city in ['lakshadweep','minicoy','andaman','nicobar']:
-   c = sm.find_city(city,"india")
-   if (len(c)==1):
-       lat,lon,n=float(c[0][9]),float(c[0][8]),c[0][1]
-       plt.text(lat,lon,n)
-       plt.plot(lat,lon,'rd')
+u.sm_india()
 ```
-
 
 <img width="340" src="twimg/FUELuB9WYAAjBfk.png"/>
 
