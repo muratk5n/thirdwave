@@ -67,8 +67,8 @@ projects"
 
 ---
 
-That would be salt-cavern I assume; apparently the area is rich with
-such formations
+That would be a salt-cavern fyi; apparently the area is rich with such
+formations
 
 The Guardian: "The energy company SSE has begun work to develop an
 underground cavern in east Yorkshire to store hydrogen, aiming to
