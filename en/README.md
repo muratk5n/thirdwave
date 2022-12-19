@@ -91,6 +91,13 @@ via @Noevanhulst@mastodon.social
 
 ---
 
+Most of the Snyderverse actors were great picks; Momoa, Cavill; maybe
+they'll be back in some form some day - JM wants to be a bad guy?
+Cavill too, a future, or different version of the character..  DC has
+massive cannon, creates options.
+
+---
+
 "I usually find the English language painfully boring, but then I
 found out someone invented a term for 'fear of palindromes' and
 it's...  aibohphobia"
@@ -109,13 +116,6 @@ hydrogen without any evident corrosion of the catalyst or increase in
 impurities"
 
 <img width="340" src="https://pbs.twimg.com/media/FkRH8YnWYAIg6qV?format=jpg&name=small"/>
-
----
-
-Most of the Snyderverse actors were great picks; Momoa, Cavill; maybe
-they'll be back in some form some day - JM wants to be a bad guy?
-Cavill too, a future, or different version of the character..  DC has
-massive cannon, creates options.
 
 ---
 
