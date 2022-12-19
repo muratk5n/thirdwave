@@ -24,7 +24,7 @@
 
 [The Rare Metals War](../../2021/10/the-rare-metals-war.html)
 
-[The Sunshine Map](../../tweets/2022/twimg/FCtre5sWEAgFFp9.png)
+[The Sunshine Map](sunshine-map.html)
 
 [Temparature Increase](../../2015/08/temp-increase.html)
 
