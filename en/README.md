@@ -52,7 +52,7 @@ cooperation agreement to develop Nordic – Baltic Hydrogen corridor"
 
 Passenger rail in the US vs Europe via @henrihorn@mastodon.energy
 
-[[-]](https://s3.masto.ai/cache/media_attachments/files/109/529/224/208/678/697/original/649e94ca11165e7b.jpg)
+[[-]](https://pbs.twimg.com/media/FkV9hUVXoAAnBa-?format=jpg&name=small)
 
 ---
 
