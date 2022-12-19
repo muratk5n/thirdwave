@@ -124,7 +124,7 @@ Instrument to Raise Global Climate Ambition, Scope Includes Hydrogen"
 Energy.gov: "Biden-Harris Administration Announces $750 Million To
 Accelerate Clean Hydrogen Technologies"
 
-<img width="340" src="https://pbs.twimg.com/media/FkP5aBFXoAMaFzo?format=png&name=small"/>
+<img width="340" src="twimg/FkP5aBFXoAMaFzo.jpg"/>
 
 [[-]](https://www.energy.gov/articles/biden-harris-administration-announces-750-million-accelerate-clean-hydrogen-technologies	)
 

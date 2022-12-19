@@ -198,7 +198,7 @@ Major spike in people rushing towards the US southern border. Data from
 u.sw_border_encounter('2022-Oct/sbo-encounters-fy19-fy22.csv')
 ```
 
-<img width="340" src="https://pbs.twimg.com/media/Fj9qwm1XoAEUgGc?format=png&name=small"/>
+<img width="340" src="twimg/Fj9qwm1XoAEUgGc.png"/>
 
 ---
 
@@ -317,7 +317,7 @@ Zigwheels: "Hydrogen-powered Toyota Hilux in the works.. Toyota’s UK
 arm has recently received funding from the UK Government to develop
 the prototype of the hydrogen-powered Toyota Hilux"
 
-<img width="340" src="https://pbs.twimg.com/card_img/1602731312564957184/TMA98qda?format=jpg&name=small"/>
+<img width="340" src="twimg/TMA98qda.jpeg"/>
 
 ---
 
@@ -418,7 +418,7 @@ It looks swell.
 
 Politico.eu: "Vision of the future: European [hydrogen infrastructure map](https://www.h2inframap.eu/#map)"
 
-<img width="340" src="https://pbs.twimg.com/media/Fj2Ij4bX0AAAt3V?format=jpg&name=small"/>
+<img width="340" src="twimg/Fj2Ij4bX0AAAt3V.jpg"/>
 
 ---
 
@@ -459,7 +459,7 @@ Fleet 15.6 GW
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/FjyFDkrWQAE-x66?format=jpg&name=small"/>
+<img width="340" src="twimg/FjyFDkrWQAE-x66.jpg"/>
 
 ---
 
@@ -572,7 +572,7 @@ buy followers for it"
 
 \#OnePan \#OnePot
 
-[Link](https://pbs.twimg.com/media/FjuQ1NmX0AAyBwn?format=jpg&name=small)
+[Link](twimg/FjuQ1NmX0AAyBwn.jpg)
 
 ---
 
@@ -730,8 +730,6 @@ EU: "The REPowerEU plan's ambition is to produce 10 million tonnes and
 import 10 million tonnes of renewable hydrogen in the EU by 2030"
 
 ---
-
-<img width="340" src="https://pbs.twimg.com/card_img/1601217327982206976/0S9Al296?format=jpg&name=small"/>
 
 F24: "The pipeline between Barcelona and Marseille -- also known as
 BarMar -- will carry two million tonnes of hydrogen per year, or 10
