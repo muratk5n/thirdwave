@@ -109,29 +109,6 @@ about looking at what we have put in, what we have got out.'"
 
 ---
 
-Blue whale is lower left
-
-[Link](https://pbs.twimg.com/media/FkKdhKOXkAEPw_1?format=jpg&name=small)
-
----
-
-The adventures, horrors depicted in some movies are a throwback to an
-era when the nature dwarfed humans. Not the case anymore. The giant 30
-meter whale would be conceptually more terrifying when humanity didn't
-have 300+ meter 100K ton aircraft carrier.
-
----
-
-An entire sea is disappearing. Modern world can do that now. 
-
-"Formerly the fourth largest lake in the world with an area of 68,000
-km2 (26,300 sq mi), the Aral Sea began shrinking in the 1960s after
-the rivers that fed it were diverted by Soviet irrigation projects"
-
-[[-]](https://pbs.twimg.com/media/FkCtQp7XwAAL1Ec?format=jpg&name=small)
-
----
-
 "@EU_Commission@social.network.europa.eu
 
 We may never be able to match the incredible achievements of
@@ -152,9 +129,32 @@ Trust based"
 
 ---
 
-New user rate is "down" to 1500/hr? That is still a lot of users..
+New user rate is "down" to 1500/hr? 
 
 via @mastodonmigration@mastodon.online
+
+---
+
+Blue whale is lower left
+
+[Link](https://pbs.twimg.com/media/FkKdhKOXkAEPw_1?format=jpg&name=small)
+
+---
+
+The adventures, horrors depicted in some movies are a throwback to an
+era when the nature dwarfed humans. Not the case anymore. The giant 30
+meter whale would be conceptually more terrifying when humanity didn't
+have 300+ meter 100K ton aircraft carrier.
+
+---
+
+An entire sea is disappearing. Modern world can do that now. 
+
+"Formerly the fourth largest lake in the world with an area of 68,000
+km2 (26,300 sq mi), the Aral Sea began shrinking in the 1960s after
+the rivers that fed it were diverted by Soviet irrigation projects"
+
+[[-]](https://pbs.twimg.com/media/FkCtQp7XwAAL1Ec?format=jpg&name=small)
 
 ---
 
