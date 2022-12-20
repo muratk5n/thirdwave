@@ -61,9 +61,7 @@ the power capacity of 20 nuclear plants"
 ---
 
 HTGR nuclear plants (see Japan, RU) don't have to be near the sea;
-they are helium cooled. Newly built nuke plants need to use new tech
-not old tech. There was a reason the old tech stagnated; waste
-handling is a problem, and the plants were expensive to build.
+they are helium cooled. 
 
 New Statesman: "If key financial investors don’t take up the remaining
 60 per cent of construction costs, the planned Sizewell C [nuclear]
