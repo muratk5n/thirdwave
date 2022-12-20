@@ -18,6 +18,8 @@
 
 [H2 Production From Coal / CCS](02/h2-coal.html)
 
+[Compressed H2](02/h2-compressed.html)
+
 [H2 Production via Electrolysis](02/h2-electrolysis.html)
 
 [Application Domains for H2](02/h2-end-use.html)
@@ -105,6 +107,8 @@
 [Problems of Battery Electric Tech](11/battery-electric.html)
 
 [The Hydrogen Economy](12/h2-economy-rifkin.html)
+
+[LPG](12/lpg.html)
 
 [African Support for Russia](12/ru-africa.html)
 

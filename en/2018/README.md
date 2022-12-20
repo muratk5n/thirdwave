@@ -176,6 +176,8 @@
 
 [](12/quads.html)
 
+[The Sunshine Map](12/sunshine-map.html)
+
 [The Road to Oblivion](12/the-road-to-oblivion.html)
 
 [Green Train](12/train.html)

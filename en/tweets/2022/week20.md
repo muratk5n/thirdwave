@@ -104,7 +104,7 @@ demand [for H2] by 2030'.
 
 ---
 
-BTW the heating energy calc [here](2022/01/heating-calculation-fourier.html) actually
+BTW the heating energy calc [here](../../2022/01/heating-calculation-fourier.html) actually
 takes energy used for cooling into account, indirectly; It calculates
 the energy needed to raise (the average world temperature) from 13
 to (room temperature) 22. Well, there are many temp levels
