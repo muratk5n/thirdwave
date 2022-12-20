@@ -24,8 +24,8 @@ cylinders or tubes are bundled to modules in a 20′ or 40′ container
 that is mounted on a trailer (tube trailer)...
 
 A tube trailer with steel cylinders can store up to 25,000 liters of
-hydrogen compressed to 200 bar (Wystrach GmbH, 2017a), which amounts
-to around 420 kg of hydrogen.
+hydrogen compressed to 200 bar which amounts to around 420 kg of
+hydrogen.
 
 Provaris
 
