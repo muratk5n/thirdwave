@@ -27,17 +27,6 @@ A tube trailer with steel cylinders can store up to 25,000 liters of
 hydrogen compressed to 200 bar (Wystrach GmbH, 2017a), which amounts
 to around 420 kg of hydrogen.
 
-Based on number above delivering 10 of these tube trailers to a town,
-business would provide >10 Megawatts of energy.
-
-```python
-(20*420*33.6)/(24*1e3)
-```
-
-```text
-Out[1]: 11.76
-```
-
 Provaris
 
 This company provides compressed H2 shipping solutions. Their presentation [1]
