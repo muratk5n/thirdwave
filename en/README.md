@@ -136,10 +136,11 @@ Blue whale is lower left
 
 ---
 
-The adventures, horrors depicted in some movies are a throwback to an
-era when the nature dwarfed humans. Not the case anymore. The giant 30
-meter whale would be conceptually more terrifying when humanity didn't
-have 300+ meter 100K ton aircraft carrier.
+The adventures, horrors depicted in some nature-adventure, monster
+whatnot movies are a throwback to an era when the nature dwarfed
+humans. Not the case anymore. The giant 30 meter whale would be
+conceptually more terrifying when humanity didn't have 300+ meter 100K
+ton aircraft carrier.
 
 ---
 
