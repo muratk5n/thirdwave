@@ -125,8 +125,6 @@ Decentralised,
 
 Trust based"
 
-[[-]](https://masto.ai/@EU_Commission@social.network.europa.eu/109545164532513045)
-
 ---
 
 New user rate is "down" to 1500/hr? 
