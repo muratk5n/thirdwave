@@ -9,8 +9,8 @@ Pinned Tweet
 ---
 
 
-That's good move, bad history is probably holding Europe back from
-engaging with Africa.
+That's good move, bad history is probably holding Europe back partly
+from engaging more with Africa.
 
 Al Jazeera: "Netherlands apologises for Dutch government’s role in
 slavery"
