@@ -59,6 +59,10 @@ twice that of natgas.
 Boiler Hut: "1kg of hydrogen releases the same energy as 2.8kg of
 natural gas." [5]
 
+Burning hydrogen releases no carbon - it only creates water. This
+means that pure hydrogen would produce no waste products while it is
+burning, making the material itself almost 100% efficient [8].
+
 Heat By-Product from Fuel-Cell
 
 Fuel-cells generate heat as a by-product as they generate electricity
@@ -227,4 +231,6 @@ References
 [6] [Energy Observer 2](https://www.offshore-energy.biz/energy-observer-unveils-lh2-powered-cargo-ship-concept/)
 
 [7] [LAVO](https://www.h2networks.com.au/pdf/Small-Scale-LAVO-Residential-Unit-Brochure.pdf)
+
+[8] [iHeat](https://iheat.co.uk/boiler-help/best-hydrogen-boilers)
 

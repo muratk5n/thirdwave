@@ -94,7 +94,6 @@ g1 = df1.groupby(['dt']).size()
 g2 = df1.groupby(['dt'])['nkill'].sum()
 g = pd.concat([g1,g2],axis=1)
 g.columns = ['incident','deaths']
-g.plot(title='')
 plt.savefig('gtdafrica.png')
 ```
 
