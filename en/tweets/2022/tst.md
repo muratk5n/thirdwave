@@ -8,9 +8,17 @@ pd.set_option('display.max_columns', None)
 
 ```python
 u.sw_border_encounter('2022-Oct/sbo-encounters-fy19-fy22.csv')
-plt.savefig('/tmp/out.png')
+#plt.savefig('/tmp/out.png')
 ```
 
+```text
+YMD
+202209    227547.0
+202210    164837.0
+202211    174845.0
+202212    179253.0
+Name: Encounter Count, dtype: float64
+```
 
 
 

@@ -19,6 +19,7 @@ def sw_border_encounter(url):
     df['Mon'] = df['Month (abbv)'].replace(repl)
     df['YMD'] = df.apply(lambda x: "%s%02d" % (x['Fiscal Year'],x['Mon']),axis=1)
     g = df.groupby('YMD')['Encounter Count'].sum()
+    print (g.tail(4))
     g.plot(title='Southwest Land Border Encounters')
 
 def rottentomatoes(movie,tv=False):
