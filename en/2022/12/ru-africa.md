@@ -9,12 +9,13 @@ ru = ['Mali','Ethiopia','Congo','South Africa',
       'Sudan','Uganda','Zimbabwe','Burkina Faso',
       'Cameroon','Equatorial Guinea','Sao Tome and Principe',
       'Niger','Algeria','Togo','Lesotho','Swaziland',
-      'Namibia','Mozambique','United Republic of Tanzania'] 
+      'Namibia','Mozambique','United Republic of Tanzania',
+      'Central African Republic'] 
 
 us = ['Chad','Gabon','Ghana','Kenya','Rwanda',
        'Djibouti','Somalia', 'Democratic Republic of the Congo',
        'Mauritania','Lesotho', 'Mauritius',
-       'Angola','Nigeria','Morocco']
+       'Angola','Nigeria','Morocco','Tunisia']
 
 u.plot_africa_ru_us(ru,us)
 plt.savefig('af-ru-us.jpg')   
@@ -51,6 +52,13 @@ African countries divided over UN vote against Russia.
 
 [9/10](https://www.bbc.com/news/world-africa-63171771) -
 Why Russia is cheering on the Burkina Faso coup.
+
+[7/6]()
+With Afghanistan’s status rescinded, the US will have 18 major
+non-NATO allies, according to the State Department. They are:
+Argentina, Australia, Bahrain, Brazil, Colombia, Egypt, Israel, Japan,
+Jordan, Kuwait, Morocco, New Zealand, Pakistan, the Philippines,
+Qatar, South Korea, Thailand and Tunisia.
 
 [29/6](https://intellinews.com/russia-woos-africa-with-arms-grain-and-nuclear-power-252022/) -
 Russia woos Africa with arms, grain and nuclear power.
