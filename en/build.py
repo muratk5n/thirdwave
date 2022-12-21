@@ -62,3 +62,6 @@ if sys.argv[1] == 'twimg':
     fout.write(content)
     fout.close()
     
+if sys.argv[1] == 'git-change':    
+    os.system('git log --since="7 day ago" --name-only --pretty=format: | sort | uniq')
+    

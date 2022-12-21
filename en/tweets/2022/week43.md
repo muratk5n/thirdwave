@@ -660,31 +660,6 @@ then file itself is [here](gfp-2022.csv).
 
 ---
 
-Major increase in tanks and armored vehicles. Germany is at \#16
-\#TFIGlobal
-
-```python
-u.gfp_compare('Germany','../2021/gfp-2021.csv','gfp-2022.csv')
-```
-
-```text
-Out[1]: 
-                                 % Change  Previous
-Tot Military Personnel (est.)   -7.441860  215000.0
-Reserve Personnel              -50.000000   30000.0
-Manpower Composition            12.500000      16.0
-Total Aircraft Strength        -11.982882     701.0
-Transports                     -40.277778      72.0
-Trainers                        15.625000      32.0
-Tanker Fleet                  -100.000000       7.0
-Helicopters                    -15.088757     338.0
-Tanks                            9.016393     244.0
-Armored Vehicles                75.228137    5260.0
-Frigates                        20.000000      10.0
-```
-
----
-
 Increases in artillery, paramilitary but decrease in active
 personnel. France is \#7 in the global index.
 

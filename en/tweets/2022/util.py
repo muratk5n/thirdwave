@@ -324,7 +324,7 @@ def get_eia(series):
     df = df[1]
     return df
 
-df sm_ukraine():
+def sm_ukraine():
     clat,clon=48.70665, 37.5; zoom = 0.27
 
     ukr = json.loads(open("ukrdata/ukraine1.json").read())
