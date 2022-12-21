@@ -5,12 +5,13 @@ pro-US countries in Africa. Countries siding with RU are colored in
 red, for US green, country codes are iso3, full list is [here](https://www.iban.com/country-codes).
 
 ```python
+import util as u
 ru = ['Mali','Ethiopia','Congo','South Africa',
       'Sudan','Uganda','Zimbabwe','Burkina Faso',
       'Cameroon','Equatorial Guinea','Sao Tome and Principe',
       'Niger','Algeria','Togo','Lesotho','Swaziland',
       'Namibia','Mozambique','United Republic of Tanzania',
-      'Central African Republic'] 
+      'Central African Republic','Western Sahara'] 
 
 us = ['Chad','Gabon','Ghana','Kenya','Rwanda',
        'Djibouti','Somalia', 'Democratic Republic of the Congo',
@@ -53,7 +54,7 @@ African countries divided over UN vote against Russia.
 [9/10](https://www.bbc.com/news/world-africa-63171771) -
 Why Russia is cheering on the Burkina Faso coup.
 
-[7/6]()
+[6/7](https://edition.cnn.com/2022/07/06/politics/afghanistan-major-non-nato-ally-designation-biden-rescind/index.html)
 With Afghanistan’s status rescinded, the US will have 18 major
 non-NATO allies, according to the State Department. They are:
 Argentina, Australia, Bahrain, Brazil, Colombia, Egypt, Israel, Japan,
@@ -65,4 +66,9 @@ Russia woos Africa with arms, grain and nuclear power.
 
 [21/4](https://news.yahoo.com/ethiopians-hope-fight-russia-ukraine-161351963.html) -
 Ethiopians hope to fight for Russia in Ukraine.
+
+[21/2](https://www.realcleardefense.com/articles/2022/02/21/russia_and_algeria_team_up_against_morocco_817797.html)
+Russia and Algeria Team Up Against Morocco.. Now Russia is also
+assuming a stronger posture regarding the Western Sahara, in apparent
+cooperation with Algeria, Morocco’s long-time rival here
 
