@@ -324,6 +324,16 @@ def get_eia(series):
     df = df[1]
     return df
 
+df sm_ukraine():
+    clat,clon=48.70665, 37.5; zoom = 0.27
+
+    ukr = json.loads(open("ukrdata/ukraine1.json").read())
+    ru = np.array(ukr['front']['20220430'])
+    sm.plot_countries(clat,clon,zoom,outcolor='lavenderblush')
+    sm.plot_line(ru,color='red',linestyle='dashed')
+    for city in ['donetsk','luhansk','volnovakha','lyman']:
+       c = sm.find_city(city,"ukraine")[0]
+       plt.text(float(c[9]),float(c[8]),c[1])
 
 def sm_india():
     clat,clon=18, 77; zoom = 3.0
@@ -335,6 +345,19 @@ def sm_india():
            lat,lon,n=float(c[0][9]),float(c[0][8]),c[0][1]
            plt.text(lat,lon,n)
            plt.plot(lat,lon,'rd')
+
+def sm_kurds():
+    clat,clon=37.377413, 42.78591;zoom=0.6
+    sm.plot_countries(clat,clon,zoom)
+    sm.plot_elevation(clat,clon,zoom)
+    d = json.loads(open("kurd1.json").read())
+    sm.plot_region(np.array(d['duhok']),color='seagreen')
+    sm.plot_region(np.array(d['erbil']),color='seagreen')
+    sm.plot_region(np.array(d['suleymaniah'],),color='mediumseagreen')
+    pars = [(40,38,'TR'),(46,37,'Iran'),(43,35,'Iraq'),(40,36,'Syria')]
+    for x in pars: plt.text(*x)
+    lon,lat = d['qandil']; plt.plot(lat,lon,'rd')
+    lon,lat = d['sinjar']; plt.plot(lat,lon,'rx')    
 
 def elev_at(lat,lon):
     data = '[[%f,%f]]' % (lat,lon)

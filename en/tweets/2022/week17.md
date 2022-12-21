@@ -877,19 +877,7 @@ from Iran over the years.
 ---
 
 ```python
-import json, simplegeomap as sm
-
-clat,clon=37.377413, 42.78591;zoom=0.6
-sm.plot_countries(clat,clon,zoom)
-sm.plot_elevation(clat,clon,zoom)
-d = json.loads(open("kurd1.json").read())
-sm.plot_region(np.array(d['duhok']),color='seagreen')
-sm.plot_region(np.array(d['erbil']),color='seagreen')
-sm.plot_region(np.array(d['suleymaniah'],),color='mediumseagreen')
-pars = [(40,38,'TR'),(46,37,'Iran'),(43,35,'Iraq'),(40,36,'Syria')]
-for x in pars: plt.text(*x)
-lon,lat = d['qandil']; plt.plot(lat,lon,'rd')
-lon,lat = d['sinjar']; plt.plot(lat,lon,'rx')
+u.sm_kurds()
 ```
 
 <img width="340" src="twimg/FQ5hHcJXEAYefG6.png"/>
