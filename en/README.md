@@ -82,9 +82,9 @@ hydrogen and ammonia"
 
 AFR Map - Added Western Sahara, Central African Republic, and Tunisia,
 a "major non-NATO ally". TUN is surely not enjoying the pressure it is
-getting for the non-democratic turn from but I've put them to US
-friends list. Western Sahara is in limbo internationally, but RU now
-sides with it against Morocco (see item 21/2).
+getting for the non-democratic turn from US but I've put them to
+US-friendly list. Western Sahara is in limbo internationally, but RU
+now sides with it against Morocco (see item 21/2).
 
 [[-]](2022/12/ru-africa.html)
 
@@ -107,13 +107,13 @@ for 2024"
 
 ---
 
-@JacobAShell
+"@JacobAShell
 
-"1990s middle class lifestyle" means 3-bedroom house, 2 cars, annual
+'1990s middle class lifestyle' means 3-bedroom house, 2 cars, annual
 family road trip holiday, every 5 years overseas holiday, the 2-3 kids
 go to solid 4-year colleges, something like home roof repairs is
 financially non-catastrophic.  In 2022 I've described a 400K/yr+
-household.
+household"
 
 ---
 
