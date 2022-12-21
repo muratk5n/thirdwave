@@ -80,9 +80,9 @@ hydrogen and ammonia"
 
 ---
 
-AFR Map - Added Western Sahara, Central African Republic, and Tunisia,
-a "major non-NATO ally". TUN is surely not enjoying the pressure it is
-getting for their non-democratic turn from US but I put them in the
+AFR Map - Added Western Sahara, Central African Republic, and Tunisia - 
+"a major non-NATO ally". TUN is surely not enjoying the pressure it
+is getting for their non-democratic turn from US but I put them in the
 US-friendly list. Western Sahara is in limbo internationally, but RU
 now sides with it against Morocco (see item 21/2).
 
