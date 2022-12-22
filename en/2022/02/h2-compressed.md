@@ -28,8 +28,8 @@ hydrogen.
 
 Provaris
 
-This company provides compressed H2 shipping solutions. Their presentation [1]
-states their tech
+They provide compressed H2 shipping solutions, a presentation [1]
+states their tech;
 
 - Stores, transports & delivers hydrogen in high purity gaseous form
 
