@@ -8,6 +8,15 @@ Pinned Tweet
 
 ---
 
+Al Monitor: "[UAE's] BEEAH Group signed an agreement Tuesday to build
+the first waste-to-hydrogen power plant in the United Arab
+Emirates... with the Japanese gas conglomerate Air Water and the
+British waste-to-fuel technology firm Chinook Sciences. They will work
+together to develop a facility in Sharjah that will convert waste wood
+and plastic into hydrogen"
+
+---
+
 Curated info on compressed H2
 
 [[-]](2022/02/h2-compressed.html)
