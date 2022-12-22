@@ -6,7 +6,6 @@
 technology. The current near-term technology for onboard automotive
 physical hydrogen storage is 350 and 700 bar (5,000 and 10,000 psi)
 nominal working-pressure compressed gas vessels—that is, "tanks."..
-
 [C]ompressed hydrogen typically is stored at near-ambient temperatures.
 
 The utility vehicle Hyundai Nexo has three equal-size carbon tanks
