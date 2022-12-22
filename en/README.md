@@ -131,8 +131,8 @@ How am I doing so far?
 
 ---
 
-No acknowledgement on US/UA's role on bringing the conflict to where
-it is..
+No acknowledgement on US/UA's role bringing the conflict to where it
+is..
 
 ---
 
