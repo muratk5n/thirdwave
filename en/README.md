@@ -92,7 +92,7 @@ Frigates                        20.000000      10.0
 
 More annual comparisons from Global Firepower Index. Russia - major
 increases in artillery (no shit), armored vehicles. There was decrease
-in personnel, could be reversed according to news.
+in personnel, I guess soon to be partly reversed according to news.
 
 
 ```python
