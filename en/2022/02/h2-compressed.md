@@ -35,8 +35,8 @@ states their tech;
 
 - Minimal technical barriers, no boil off
 
-- Their system avoids energy and capital-intensive processes, compression
-  tech is simpler.
+- Avoids energy and capital-intensive processes, compression tech is
+  simpler.
 
 Recently Provaris obtained world's first design approval for
 compressed hydrogen carrier from [American Bureau of Shipping]. Their
