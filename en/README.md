@@ -118,7 +118,6 @@ Patrol Vessels                  7.272727       55.0
 ---
 
 [Clapping](https://pbs.twimg.com/media/FkkStwfX0AEkkF8?format=jpg&name=small)..
-
 How am I doing so far?
 
 ---
