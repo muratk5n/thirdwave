@@ -62,6 +62,6 @@ References
 
 [2] [Wikipedia](https://en.wikipedia.org/wiki/Compressed_hydrogen_tube_trailer)
 
-[3] [H2 Live](https://h2.live/en/fuelcell-cars/hyundai-nexo/)
+[3] [Hyundai H2 Live](https://h2.live/en/fuelcell-cars/hyundai-nexo/)
 
 [[Up]](h2-storage.html)
