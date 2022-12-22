@@ -60,8 +60,8 @@ References
 
 [1] [Provaris Presentation](https://assets.website-files.com/626b0112d67346fa8eab974d/6280ef3d5ce3f07d709f43a7_Provaris%20-%20Corporate%20Deck%20-%2016%20May%202022%20ASX.pdf)
 
-[2] https://en.wikipedia.org/wiki/Compressed_hydrogen_tube_trailer
+[2] [Wikipedia](https://en.wikipedia.org/wiki/Compressed_hydrogen_tube_trailer)
 
-[3] https://h2.live/en/fuelcell-cars/hyundai-nexo/
+[3] [H2 Live](https://h2.live/en/fuelcell-cars/hyundai-nexo/)
 
 [[Up]](h2-storage.html)
