@@ -68,7 +68,7 @@ the Suffolk coast"
 
 Collated info on solar radiation falling on Earth, how much, where
 
-[[-]](2018/12/sunshine-map.html)
+[[-]](../../2018/12/sunshine-map.html)
 
 ---
 
