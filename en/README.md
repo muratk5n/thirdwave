@@ -8,7 +8,6 @@ Pinned Tweet
 
 ---
 
-
 Curated info on compressed H2
 
 [[-]](2022/02/h2-compressed.html)
@@ -124,12 +123,13 @@ How am I doing so far?
 
 ---
 
-No acknoledgement on US/UA role in bringing the conflict to where it is
+No acknowledgement on US/UA's role on bringing the conflict to where
+it is..
 
 ---
 
 UA delegation visit of Washington D.C.? Let me guess - there was a lot
-of Putin bashing.
+of Putin bashing..
 
 ---
 
