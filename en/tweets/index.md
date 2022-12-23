@@ -31,6 +31,8 @@
 
 [2022](/thirdwave/en/tweets/2022/)
 
+[2023](/thirdwave/en/tweets/2023/)
+
 
 
 
