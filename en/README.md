@@ -75,15 +75,16 @@ is rerouted to a cluster of machines in the background.
 
 ---
 
-"@Polychrome@poly.cybre.city The bit about a lawyer being stopped from
-entering a music hall in the US because its facial recognition system
-picked up that she's part of a law company that's suing them is even
-crazier than I thought. The law company isn't suing the music hall -
-it's suing a restaurant, in another state, which is owned by the
-hall's parent company MSG Entertainment. MSG gone ahead and harvested
-photos of all the lawyers in the firm and fed it to an image
-recognition system to ban them from every MSG Entertainment owned
-location"
+"@Polychrome@poly.cybre.city
+
+The bit about a lawyer being stopped from entering a music hall in the
+US because its facial recognition system picked up that she's part of
+a law company that's suing them is even crazier than I thought. The
+law company isn't suing the music hall - it's suing a restaurant, in
+another state, which is owned by the hall's parent company MSG
+Entertainment. MSG gone ahead and harvested photos of all the lawyers
+in the firm and fed it to an image recognition system to ban them from
+every MSG Entertainment owned location"
 
 ---
 
@@ -92,10 +93,10 @@ EIB Says"
 
 ---
 
-MSM started using "tycoon", "mogul" to label SBF, they are trying to
-hide their fuck-ups by continuing to build up SBF when in fact it was
-a stupid kid who was connected, and a wave of followers rushed into
-that biz bcz of those connections.
+MSM still use words like "tycoon", "mogul" to label SBF, they are
+trying to hide their fuck-ups by continuing to build up SBF when in
+fact it was a stupid kid who was connected, and a wave of followers
+rushed into that biz bcz of those connections.
 
 ---
 
