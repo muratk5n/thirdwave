@@ -95,8 +95,7 @@ EIB Says"
 MSM started using "tycoon", "mogul" to label SBF, they are trying to
 hide their fuck-ups by continuing to build up SBF when in fact it was
 a stupid kid who was connected, and a wave of followers rushed into
-that biz bcz of those connections. Another case of Theranos, or 2010s
-Tesla.
+that biz bcz of those connections.
 
 ---
 
