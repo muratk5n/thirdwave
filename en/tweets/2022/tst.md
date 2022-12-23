@@ -1,8 +1,5 @@
 
 
-
-
-
 ```python
 import util as u
 import pandas as pd
@@ -10,19 +7,33 @@ pd.set_option('display.max_columns', None)
 ```
 
 
+```python
+u.rottentomatoes("Terminator 3 Rise of the Machines")
+```
 
+```text
+Out[1]: {'tomatometer score': 69, 'audience score': 46}
+```
 
+```python
+u.boxofficemojo("Terminator 3 Rise of the Machines")
+```
 
-
-
-
+```text
+Out[1]: 
+{'Domestic Opening': '$44,041,440',
+ 'Domestic': '$150,371,112',
+ 'International': '$283,000,000',
+ 'Worldwide Total': '$433,371,112',
+ 'Budget': '$200,000,000',
+ 'Release Date': 'July 2, 2003'}
+```
 
 
 
 
 ```python
 u.sw_border_encounter('2022-Oct/sbo-encounters-fy19-fy22.csv')
-#plt.savefig('/tmp/out.png')
 ```
 
 ```text

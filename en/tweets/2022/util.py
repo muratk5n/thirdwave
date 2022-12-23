@@ -52,6 +52,8 @@ def boxofficemojo(q):
     url2 = "https://www.boxofficemojo.com" + reres[0]
     res2 = urllib2.urlopen(url2).read().decode('utf-8')
 
+    regex2 = 'a-section a-spacing-none.*?Budget.*?money">(.*?)<'
+    budget = re.findall(regex2,res2,re.DOTALL)[0]
     regex2 = 'a-section a-spacing-none mojo-performance-summary-table.*?Domestic.*?money">(.*?)<'
     domestic = re.findall(regex2,res2,re.DOTALL)[0]
     regex2 = 'a-section a-spacing-none mojo-performance-summary-table.*?International.*?money">(.*?)<'
@@ -64,7 +66,7 @@ def boxofficemojo(q):
     reldate = re.findall(regex2,res2,re.DOTALL)[0]
     return {"Domestic Opening": domopen, "Domestic": domestic,
             "International": intl, "Worldwide Total": worldwide,
-            "Release Date": reldate}
+            "Budget": budget, "Release Date": reldate}
 
 
 def rent_housing():
