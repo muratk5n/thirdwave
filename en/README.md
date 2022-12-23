@@ -2,147 +2,172 @@
 
 ---
 
-Pinned Tweet
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hyper:Fuel Mobile Stations™ the power of the stars.<br><br>Hydrogen is the most abundant element in our universe. It fuels each star in our galaxy and every NASA rocket to date.. <br><br>Now it can power your car!<a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/refuel?src=hash&amp;ref_src=twsrc%5Etfw">#refuel</a> <a href="https://twitter.com/hashtag/recharge?src=hash&amp;ref_src=twsrc%5Etfw">#recharge</a> <a href="https://twitter.com/hashtag/NASA?src=hash&amp;ref_src=twsrc%5Etfw">#NASA</a> <a href="https://twitter.com/hashtag/starpower?src=hash&amp;ref_src=twsrc%5Etfw">#starpower</a> <a href="https://twitter.com/hashtag/losangelesautoshow?src=hash&amp;ref_src=twsrc%5Etfw">#losangelesautoshow</a> <a href="https://t.co/4Gl7rCdz1g">pic.twitter.com/4Gl7rCdz1g</a></p>&mdash; Hyperion Motors, Inc (@hyperionmotor) <a href="https://twitter.com/hyperionmotor/status/1595587623783141376?ref_src=twsrc%5Etfw">November 24, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<img width="340" src="https://us.123rf.com/450wm/editkolase/editkolase1906/editkolase190600028/editkolase190600028.jpg"/>
 
 ---
 
-Al Monitor: "[UAE's] BEEAH Group signed an agreement Tuesday to build
-the first waste-to-hydrogen power plant in the United Arab
-Emirates... with the Japanese gas conglomerate Air Water and the
-British waste-to-fuel technology firm Chinook Sciences. They will work
-together to develop a facility in Sharjah that will convert waste wood
-and plastic into hydrogen"
+Time for a break - see y'all next year bitchez
 
 ---
 
-Curated info on compressed H2
-
-[[-]](2022/02/h2-compressed.html)
-
----
-
-IEA: "Oman has largest green hydrogen project pipeline in Middle East
-region"
+"Tata Motors revealed plans for hydrogen-powered passenger vehicles on
+its social media platform. In a post, the Indian brand teased a poster
+with the words ‘Accelerating Greener Mobility,’ and there is also a
+Hydrogen fuel tank visible. The brand will exhibit a hydrogen-powered
+prototype at the upcoming Auto Expo in January 2023" via @jmtixhon@mastodon.world
 
 ---
 
-Mozilla; big news 
-
-"In early 2023, Mozilla will stand up and test a publicly accessible
-instance in the Fediverse at Mozilla.Social. We’re eager to join the
-community in growing, experimenting, and learning how we can together
-solve the technical, experience, and trustworthiness challenges
-inherent in hyper-scale social systems"
-
-[[-]](https://blog.mozilla.org/en/mozilla/mozilla-launch-fediverse-instance-social-media-alternative/)
+Politico: "Senate clears $1.7T government funding bill.. The
+legislation is now on track to reach the House Friday, hours ahead of
+a shutdown deadline"
 
 ---
 
-U-oh \#WaPo \#Mastadon
-
-[[-]](https://pbs.twimg.com/media/FkhsLOEXEAUyDUM?format=jpg&name=small)
+WaPo: "No conclusive evidence Russia is behind Nord Stream attack"
 
 ---
 
-CNN: "Two buses carrying migrants arrived in New York City on Sunday –
-with at least 10 to 15 more buses expected over the next few days"
+Euractiv: "Croatian president to block plans for training Ukrainian
+troops"
 
 ---
 
-US, decrease in personnel, increase in armored vehicles, tanks.
-
-```python
-u.gfp_compare('USA','../2021/gfp-2021.csv','gfp-2022.csv')
-```
-
-```text
-Out[1]: 
-                                % Change   Previous
-Tot Military Personnel (est.) -18.414607  2245500.0
-Reserve Personnel             -47.723241   845500.0
-Tanks                           8.393443     6100.0
-Armored Vehicles               12.982500    40000.0
-Helicopter Carriers           -10.000000       10.0
-Patrol Vessels                -23.076923       13.0
-```
+The Guardian: "Brazil’s public services face ‘very real threat of
+collapse’, says Lula.. President-elect says transition team have found
+‘simplest things not being done’ as result of Bolsonaro mismanagement"
 
 ---
 
-WHERE IS THE CHOPPA 
+Al Jazeera: "Chile plans to open embassy in occupied Palestinian
+territories"
 
 ---
 
-Increase in tanks and armored vehicles, trainers (obiously), some
-decrease in aircrafts, helicopters
-
-```python
-u.gfp_compare('Germany','../2021/gfp-2021.csv','gfp-2022.csv')
-```
-
-```text
-Out[1]: 
-                                 % Change  Previous
-Tot Military Personnel (est.)   -7.441860  215000.0
-Reserve Personnel              -50.000000   30000.0
-Manpower Composition            12.500000      16.0
-Total Aircraft Strength        -11.982882     701.0
-Transports                     -40.277778      72.0
-Trainers                        15.625000      32.0
-Tanker Fleet                  -100.000000       7.0
-Helicopters                    -15.088757     338.0
-Tanks                            9.016393     244.0
-Armored Vehicles                75.228137    5260.0
-Frigates                        20.000000      10.0
-```
+New YCombinator: "Jack Dorsey will donate $1M per year to The Tor Project"
 
 ---
 
-More annual comparisons from Global Firepower Index. Russia - major
-increases in artillery (no shit), armored vehicles. There was decrease
-in personnel, I guess soon to be partly reversed according to news.
-
-
-```python
-u.gfp_compare('Russia','../2021/gfp-2021.csv','gfp-2022.csv')
-```
-
-```text
-Out[1]: 
-                                % Change   Previous
-Tot Military Personnel (est.) -62.174279  3569000.0
-Active Personnel              -16.173570  1014000.0
-Reserve Personnel             -87.500000  2000000.0
-Paramilitary                  -54.954955   555000.0
-Trainers                        5.454545      495.0
-Tanker Fleet                    5.263158       19.0
-Armored Vehicles               11.151292    27100.0
-Towed Artillery                69.563270     4465.0
-Rocket Projectors             -12.150259     3860.0
-Submarines                      9.375000       64.0
-Patrol Vessels                  7.272727       55.0
-```
+Middle East Monitor: "Algeria to relaunch pipeline plan to transport
+gas, hydrogen to Italy, Germany"
 
 ---
 
-[Clapping](https://pbs.twimg.com/media/FkkStwfX0AEkkF8?format=jpg&name=small)..
-How am I doing so far?
+"Greek and Phoenician colonies in 550 BC. Almost 2600 years onwards we
+can still see remains of these settlements"
+
+[[-]](https://pbs.twimg.com/media/FklMIdOWQAAcSf3?format=jpg&name=medium)
 
 ---
 
-No acknowledgement on US/UA's role bringing the conflict to where it
-is..
+"@Polychrome@poly.cybre.city The bit about a lawyer being stopped from
+entering a music hall in the US because its facial recognition system
+picked up that she's part of a law company that's suing them is even
+crazier than I thought. The law company isn't suing the music hall -
+it's suing a restaurant, in another state, which is owned by the
+hall's parent company MSG Entertainment. MSG gone ahead and harvested
+photos of all the lawyers in the firm and fed it to an image
+recognition system to ban them from every MSG Entertainment owned
+location"
 
 ---
 
-UA delegation visit of Washington D.C.? Let me guess - there was a lot
-of Putin bashing..
+Bloomberg: "Africa Could Make €1 Trillion of Green Hydrogen a Year,
+EIB Says"
 
 ---
 
-CNBC: "Global coal use is on course to hit all-time high this year,
-IEA says"
+MSM started using "tycoon", "mogul" to label SBF, they are trying to
+hide their fuck-ups by continuing to build up SBF when in fact it was
+a stupid kid who was connected, and a wave of followersa rushed into
+this space bcz of those connections. Another case of Theranos, or
+2010s Tesla.
+
+---
+
+"@hydrogeit@mastodon.green
+
+With the help of the British government, a large factory for the
+production of components for the \#hydrogen and fuel cell market is to
+be built in England. Johnson Matthey (JM) intends to build such an
+£80m \#Gigafactory at its Royston site"
+
+---
+
+Sanitizing URL shares is always a good idea
+
+"@d@waferbaby.com
+
+Friends don't let friends share links with tracking query parameters"
+
+---
+
+Says org crime came to US because they fled from Mussolini. IOW the
+characters in *The Godfather* were in a way exiles.
+
+"How Mussolini Beat the Italian Mafia"
+
+[[-]](https://youtu.be/IHkWeoUUU1s?t=194)
+
+---
+
+IOW MD can scale both ways; either through seperate name groups /
+blocks, or internally for each block adding extra hardware.
+
+Twitter, Facebook can only scale internally, which makes them
+monolithic, architecturally fragile.
+
+---
+
+BTW when ppl speak of "adding Mastadon servers" they usually mean a
+new name, a new URL. But technically speaking that name, that access
+point could also be scaled internally by adding "more physical server
+machines", same way `netflix.com` can be scaled behind the scenes,
+user is rerouted to a cluster of machines in the background.
+
+---
+
+Sagan quote reminds me of people who are conned into battery-electric
+technology.
+
+---
+
+Carl Sagan: "One of the saddest lessons of history is this: If we’ve
+been bamboozled long enough, we tend to reject any evidence of the
+bamboozle. We’re no longer interested in finding out the truth. The
+bamboozle has captured us. It’s simply too painful to acknowledge,
+even to ourselves, that we’ve been taken"
+
+---
+
+There is a [pic](https://pbs.twimg.com/media/FkfEieXWYAEMoAy?format=png&name=small) too...
+Evolution is wild.
+
+LA Times: In Alaska, wood frogs freeze for seven months, thaw and hop
+away.. Each September, the wood frogs of Alaska do a very strange
+thing: They freeze. They do not freeze totally solid, but they do
+freeze mostly solid. Two-thirds of their body water turns to ice. If
+you picked them up, they would not move. If you bent one of their
+legs, it would break.
+
+Inside these frozen frogs other weird physiological things are going
+on. Their hearts stop beating, their blood no longer flows and their
+glucose levels sky rocket.
+
+“On an organismal level they are essentially dead,” said Don Larson, a
+graduate student at the University of Alaska, Fairbanks who studies
+frogs. “The individual cells are still functioning, but they have no
+way to communicate with each other.”
+
+The craziest thing of all may be that in this frozen state, they can
+withstand temperatures as low as zero degrees Fahrenheit for as long
+as seven months, and then, when spring arrives, thaw out and hop away.
+
+---
+
+Good info on Qatar history
+
+[[-]](https://youtu.be/W79yMcORgeY?t=213)
 
 ---
 

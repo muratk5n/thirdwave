@@ -1,5 +1,143 @@
 # Week 51 
 
+Al Monitor: "[UAE's] BEEAH Group signed an agreement Tuesday to build
+the first waste-to-hydrogen power plant in the United Arab
+Emirates... with the Japanese gas conglomerate Air Water and the
+British waste-to-fuel technology firm Chinook Sciences. They will work
+together to develop a facility in Sharjah that will convert waste wood
+and plastic into hydrogen"
+
+---
+
+Curated info on compressed H2
+
+[[-]](2022/02/h2-compressed.html)
+
+---
+
+IEA: "Oman has largest green hydrogen project pipeline in Middle East
+region"
+
+---
+
+Mozilla; big news 
+
+"In early 2023, Mozilla will stand up and test a publicly accessible
+instance in the Fediverse at Mozilla.Social. We’re eager to join the
+community in growing, experimenting, and learning how we can together
+solve the technical, experience, and trustworthiness challenges
+inherent in hyper-scale social systems"
+
+[[-]](https://blog.mozilla.org/en/mozilla/mozilla-launch-fediverse-instance-social-media-alternative/)
+
+---
+
+U-oh \#WaPo \#Mastadon
+
+[[-]](https://pbs.twimg.com/media/FkhsLOEXEAUyDUM?format=jpg&name=small)
+
+---
+
+CNN: "Two buses carrying migrants arrived in New York City on Sunday –
+with at least 10 to 15 more buses expected over the next few days"
+
+---
+
+US, decrease in personnel, increase in armored vehicles, tanks.
+
+```python
+u.gfp_compare('USA','../2021/gfp-2021.csv','gfp-2022.csv')
+```
+
+```text
+Out[1]: 
+                                % Change   Previous
+Tot Military Personnel (est.) -18.414607  2245500.0
+Reserve Personnel             -47.723241   845500.0
+Tanks                           8.393443     6100.0
+Armored Vehicles               12.982500    40000.0
+Helicopter Carriers           -10.000000       10.0
+Patrol Vessels                -23.076923       13.0
+```
+
+---
+
+WHERE IS THE CHOPPA 
+
+---
+
+Increase in tanks and armored vehicles, trainers (obiously), some
+decrease in aircrafts, helicopters
+
+```python
+u.gfp_compare('Germany','../2021/gfp-2021.csv','gfp-2022.csv')
+```
+
+```text
+Out[1]: 
+                                 % Change  Previous
+Tot Military Personnel (est.)   -7.441860  215000.0
+Reserve Personnel              -50.000000   30000.0
+Manpower Composition            12.500000      16.0
+Total Aircraft Strength        -11.982882     701.0
+Transports                     -40.277778      72.0
+Trainers                        15.625000      32.0
+Tanker Fleet                  -100.000000       7.0
+Helicopters                    -15.088757     338.0
+Tanks                            9.016393     244.0
+Armored Vehicles                75.228137    5260.0
+Frigates                        20.000000      10.0
+```
+
+---
+
+More annual comparisons from Global Firepower Index. Russia - major
+increases in artillery (no shit), armored vehicles. There was decrease
+in personnel, I guess soon to be partly reversed according to news.
+
+
+```python
+u.gfp_compare('Russia','../2021/gfp-2021.csv','gfp-2022.csv')
+```
+
+```text
+Out[1]: 
+                                % Change   Previous
+Tot Military Personnel (est.) -62.174279  3569000.0
+Active Personnel              -16.173570  1014000.0
+Reserve Personnel             -87.500000  2000000.0
+Paramilitary                  -54.954955   555000.0
+Trainers                        5.454545      495.0
+Tanker Fleet                    5.263158       19.0
+Armored Vehicles               11.151292    27100.0
+Towed Artillery                69.563270     4465.0
+Rocket Projectors             -12.150259     3860.0
+Submarines                      9.375000       64.0
+Patrol Vessels                  7.272727       55.0
+```
+
+---
+
+[Clapping](https://pbs.twimg.com/media/FkkStwfX0AEkkF8?format=jpg&name=small)..
+How am I doing so far?
+
+---
+
+No acknowledgement on US/UA's role bringing the conflict to where it
+is..
+
+---
+
+UA delegation visit of Washington D.C.? Let me guess - there was a lot
+of Putin bashing..
+
+---
+
+CNBC: "Global coal use is on course to hit all-time high this year,
+IEA says"
+
+---
+
 First Post: "China gripped by 1st of three predicted COVID waves as a
 million projected to die in 2023"
 
