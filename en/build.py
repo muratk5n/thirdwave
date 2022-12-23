@@ -17,6 +17,13 @@ if sys.argv[1] == 'years':
         os.system("echo '# %d\n' > %d/README.md" % (year,year))
         os.system("python -u gen.py %d >> %d/README.md" % (year,year))
 
+if sys.argv[1] == 'new-year':
+    for week in range(53):
+        os.system("echo '# Week %d\n' > /tmp/2023/week%02d.md" % (week+1,week+1))
+        os.system("echo '\n[Week %d](week%02d.html)' >> /tmp/2023/README.md" % (week+1,week+1))
+    
+        
+        
 if sys.argv[1] == 'rel':
     seed = int(datetime.datetime.now().strftime("%Y%m%d"))
     random.seed(seed)
