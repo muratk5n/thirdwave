@@ -94,9 +94,9 @@ EIB Says"
 
 MSM started using "tycoon", "mogul" to label SBF, they are trying to
 hide their fuck-ups by continuing to build up SBF when in fact it was
-a stupid kid who was connected, and a wave of followersa rushed into
-this space bcz of those connections. Another case of Theranos, or
-2010s Tesla.
+a stupid kid who was connected, and a wave of followers rushed into
+that biz bcz of those connections. Another case of Theranos, or 2010s
+Tesla.
 
 ---
 
@@ -109,16 +109,13 @@ be built in England. Johnson Matthey (JM) intends to build such an
 
 ---
 
-Sanitizing URL shares is always a good idea
-
 "@d@waferbaby.com
 
 Friends don't let friends share links with tracking query parameters"
 
 ---
 
-Says org crime came to US because they fled from Mussolini. IOW the
-characters in *The Godfather* were in a way exiles.
+Says org crime came to US because they fled from Mussolini. 
 
 "How Mussolini Beat the Italian Mafia"
 
