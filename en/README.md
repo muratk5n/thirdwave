@@ -60,6 +60,22 @@ can still see remains of these settlements"
 
 ---
 
+IOW MD can scale both ways; either through seperate name groups /
+blocks, or internally for each block adding extra hardware.
+
+Twitter, Facebook can only scale internally, which makes them
+monolithic, architecturally fragile.
+
+---
+
+BTW when ppl speak of "adding Mastadon servers" they usually mean a
+new name, a new URL. But technically speaking that name, that access
+point could also be scaled internally by adding "more physical server
+machines", same way `netflix.com` can be scaled behind the scenes,
+user is rerouted to a cluster of machines in the background.
+
+---
+
 "@Polychrome@poly.cybre.city The bit about a lawyer being stopped from
 entering a music hall in the US because its facial recognition system
 picked up that she's part of a law company that's suing them is even
@@ -108,22 +124,6 @@ characters in *The Godfather* were in a way exiles.
 "How Mussolini Beat the Italian Mafia"
 
 [[-]](https://youtu.be/IHkWeoUUU1s?t=194)
-
----
-
-IOW MD can scale both ways; either through seperate name groups /
-blocks, or internally for each block adding extra hardware.
-
-Twitter, Facebook can only scale internally, which makes them
-monolithic, architecturally fragile.
-
----
-
-BTW when ppl speak of "adding Mastadon servers" they usually mean a
-new name, a new URL. But technically speaking that name, that access
-point could also be scaled internally by adding "more physical server
-machines", same way `netflix.com` can be scaled behind the scenes,
-user is rerouted to a cluster of machines in the background.
 
 ---
 
