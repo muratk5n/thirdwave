@@ -63,7 +63,7 @@ can still see remains of these settlements"
 MD can scale both ways; either through seperate name groups / blocks,
 or internally for each block adding extra hardware. Twitter, Facebook
 can only scale internally, which makes them monolithic,
-architecturally lacking in capability.
+architecturally lacking.
 
 ---
 
