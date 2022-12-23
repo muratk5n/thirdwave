@@ -60,19 +60,18 @@ can still see remains of these settlements"
 
 ---
 
-IOW MD can scale both ways; either through seperate name groups /
-blocks, or internally for each block adding extra hardware.
-
-Twitter, Facebook can only scale internally, which makes them
-monolithic, architecturally fragile.
+MD can scale both ways; either through seperate name groups / blocks,
+or internally for each block adding extra hardware. Twitter, Facebook
+can only scale internally, which makes them monolithic,
+architecturally lacking in capability.
 
 ---
 
 BTW when ppl speak of "adding Mastadon servers" they usually mean a
 new name, a new URL. But technically speaking that name, that access
 point could also be scaled internally by adding "more physical server
-machines", same way `netflix.com` can be scaled behind the scenes,
-user is rerouted to a cluster of machines in the background.
+machines", same way netflix.com can be scaled behind the scenes, user
+is rerouted to a cluster of machines in the background.
 
 ---
 
