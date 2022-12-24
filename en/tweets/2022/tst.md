@@ -33,6 +33,41 @@ Out[1]:
 
 
 ```python
+u.rottentomatoes("Terminator Salvation")
+```
+
+```text
+Out[1]: {'tomatometer score': 33, 'audience score': 53}
+```
+
+```python
+u.boxofficemojo("Terminator Salvation")
+```
+
+```text
+Out[1]: 
+{'Domestic Opening': '$42,558,390',
+ 'Domestic': '$125,322,469',
+ 'International': '$246,030,532',
+ 'Worldwide Total': '$371,353,001',
+ 'Budget': '$200,000,000',
+ 'Release Date': 'May 20, 2009'}
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```python
 u.sw_border_encounter('2022-Oct/sbo-encounters-fy19-fy22.csv')
 ```
 
