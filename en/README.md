@@ -1,6 +1,4 @@
 
----
-
 ## Reference
 
 [Nations and Nationalism, Culture, Narratives](2013/02/nations-and-nationalism.html)
