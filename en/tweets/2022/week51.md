@@ -172,7 +172,7 @@ and plastic into hydrogen"
 
 Curated info on compressed H2
 
-[[-]](2022/02/h2-compressed.html)
+[[-]](../../2022/02/h2-compressed.html)
 
 ---
 
@@ -377,7 +377,7 @@ is getting for their non-democratic turn from US but I put them in the
 US-friendly list. Western Sahara is in limbo internationally, but RU
 now sides with it against Morocco (see item 21/2).
 
-[[-]](2022/12/ru-africa.html)
+[[-]](../../2022/12/ru-africa.html)
 
 ---
 
