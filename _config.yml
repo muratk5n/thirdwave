@@ -2,3 +2,4 @@ theme:
   jekyll-theme-slate
 plugins:
 - jekyll-seo-tag201~
+- jekyll-feed
