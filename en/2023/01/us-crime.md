@@ -60,12 +60,36 @@ Summary Reporting System (SRS)
 
 Hate Crime Statistics
 
-Replace [year] with particular year for [1]
+### FBI UCR
+
+Annual summaries, URL as below
+
+https://ucr.fbi.gov/crime-in-the-u.s/[year]/crime-in-the-u.s.-[year]/tables/table-8/table-8.xls
+
+Replace [year] with particular year.
+
+```python
+import urllib.request as urllib2
+from io import BytesIO
+import pandas as pd
+
+hdr = {'User-Agent':'Mozilla/5.0'}
+year = 2019
+url = "https://ucr.fbi.gov/crime-in-the-u.s/%d/crime-in-the-u.s.-%d/tables/table-8/table-8.xls" % (year,year)
+req = urllib2.Request(url,headers=hdr)
+file = BytesIO(urllib2.urlopen(req).read())
+cols = ['State','City','Population','Violent crime','Murder and nonnegligent manslaughter','Rape1','Robbery','Aggravated assault','Property crime','Burglary','Larceny-theft','Motor vehicle theft','Arson2']
+#df = pd.read_excel('in.xls',skiprows=4,header=None)
+df = pd.read_excel(file,skiprows=4,header=None)
+df.columns = cols
+df.loc[:,'State'] = df.loc[:,'State'].ffill()
+```
+
+
+
 
 
 References
-
-[1] https://ucr.fbi.gov/crime-in-the-u.s/[year]/crime-in-the-u.s.-[year]/tables/table-8/table-8.xls
 
 [2] https://api.data.gov/signup/
 
