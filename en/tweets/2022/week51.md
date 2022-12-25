@@ -50,7 +50,7 @@ gas, hydrogen to Italy, Germany"
 "Greek and Phoenician colonies in 550 BC. Almost 2600 years onwards we
 can still see remains of these settlements"
 
-[[-]](https://pbs.twimg.com/media/FklMIdOWQAAcSf3?format=jpg&name=medium)
+[[-]](twimg/FklMIdOWQAAcSf3.jpg)
 
 ---
 
@@ -130,7 +130,7 @@ even to ourselves, that we’ve been taken"
 
 ---
 
-There is a [pic](https://pbs.twimg.com/media/FkfEieXWYAEMoAy?format=png&name=small) too...
+There is a [pic](twimg/FkfEieXWYAEMoAy.jpg) too...
 Evolution is wild.
 
 LA Times: In Alaska, wood frogs freeze for seven months, thaw and hop
@@ -195,7 +195,7 @@ inherent in hyper-scale social systems"
 
 U-oh \#WaPo \#Mastadon
 
-[[-]](https://pbs.twimg.com/media/FkhsLOEXEAUyDUM?format=jpg&name=small)
+[[-]](twimg/FkhsLOEXEAUyDUM.jpg)
 
 ---
 
@@ -279,7 +279,7 @@ Patrol Vessels                  7.272727       55.0
 
 ---
 
-[Clapping](https://pbs.twimg.com/media/FkkStwfX0AEkkF8?format=jpg&name=small)..
+[Clapping](twimg/FkkStwfX0AEkkF8.jpg)..
 How am I doing so far?
 
 ---
@@ -480,7 +480,7 @@ Collated info on solar radiation falling on Earth, how much, where
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/FkVJUrOXEAE-WQi?format=jpg&name=small"/>
+<img width="340" src="twimg/FkVJUrOXEAE-WQi.jpg"/>
 
 The National News: "Saudi Arabia's Neom signs agreements with banks to
 finance green hydrogen project... The kingdom is building the world’s
@@ -532,7 +532,7 @@ via @mastodonmigration@mastodon.online
 
 Blue whale is lower left
 
-[Link](https://pbs.twimg.com/media/FkKdhKOXkAEPw_1?format=jpg&name=small)
+[Link](twimg/FkKdhKOXkAEPw_1.jpg)
 
 ---
 
@@ -550,7 +550,7 @@ An entire sea is disappearing. Modern world can do that now.
 km2 (26,300 sq mi), the Aral Sea began shrinking in the 1960s after
 the rivers that fed it were diverted by Soviet irrigation projects"
 
-[[-]](https://pbs.twimg.com/media/FkCtQp7XwAAL1Ec?format=jpg&name=small)
+[[-]](twimg/FkCtQp7XwAAL1Ec.jpg)
 
 ---
 
@@ -593,7 +593,7 @@ cooperation agreement to develop Nordic – Baltic Hydrogen corridor"
 
 Passenger rail in the US vs Europe via @henrihorn@mastodon.energy
 
-[[-]](https://pbs.twimg.com/media/FkV9hUVXoAAnBa-?format=jpg&name=small)
+[[-]](twimg/FkV9hUVXoAAnBa-.jpg)
 
 ---
 
@@ -654,7 +654,7 @@ an initial test period of 133 days producing over a million litres of
 hydrogen without any evident corrosion of the catalyst or increase in
 impurities"
 
-<img width="340" src="https://pbs.twimg.com/media/FkRH8YnWYAIg6qV?format=jpg&name=small"/>
+<img width="340" src="twimg/FkRH8YnWYAIg6qV.jpg"/>
 
 ---
 

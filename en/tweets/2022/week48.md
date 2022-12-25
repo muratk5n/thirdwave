@@ -256,8 +256,8 @@ compressed, therefore cannot collapse into a black hole.
 Penrose says when you plot CMB intensity against each frequency you
 get Planck blackbody curve that means early universe must have had
 thermal equilibrium. But thermal equilibrium means by definition
-maximum random state... Wasn't the universe supposed to *toward*
-disorder, and not start from one? 
+maximum random state... Wasn't the universe supposed to go *toward*
+disorder, and not start from one?
 
 <img width="340" src="twimg/Fi5am2kXwAAEHF-.png"/>
 
