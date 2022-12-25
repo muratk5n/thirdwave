@@ -30,8 +30,9 @@ Exciting progress continues in this field, leveraging synergies with
 concentrated solar power technologies, and with emerging solar-fuel
 production technologies.
 
-
 <a name='thorium'/>
+
+<a name='nuclear'/>
 
 ### Nuclear, Molten Salt
 
