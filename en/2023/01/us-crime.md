@@ -1,18 +1,56 @@
 # Crime
 
-https://api.data.gov/signup/
+```python
+import requests, json
+key = open("../../2019/05/.key/.datagov").read()
+url = "https://api.usa.gov/crime/fbi/sapi/api/participation/national?api_key=%s" % key
+response = requests.get(url)
+res = json.loads(response.text)
+```
 
-https://github.com/fbi-cde/crime-data-frontend
+```python
+res['results'][0]
+```
 
-https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/ucr/publications
+```text
+Out[1]: 
+{'data_year': 2021,
+ 'population': 331900098,
+ 'total_agency_count': 18810,
+ 'published_agency_count': 11799,
+ 'active_agency_count': 21477,
+ 'covered_agency_count': 9,
+ 'population_covered': 12334,
+ 'agency_count_nibrs_submitting': 11799,
+ 'agency_count_leoka_submitting': 12112,
+ 'agency_count_pe_submitting': 11872,
+ 'agency_count_srs_submitting': 0,
+ 'agency_count_asr_submitting': 9112,
+ 'agency_count_hc_submitting': 18810,
+ 'agency_count_supp_submitting': 11799,
+ 'nibrs_population_covered': 215094046,
+ 'total_population': 337953968,
+ 'csv_header': 'data_year,population,total_agency_count,published_agency_count,active_agency_count,covered_agency_count,population_covered,agency_count_nibrs_submitting,agency_count_leoka_submitting,agency_count_pe_submitting,agency_count_srs_submitting,agency_count_supp_submitting,nibrs_population_covered',
+ 'nibrs_population_percentage_covered': 63.645958}
+```
 
-agency_count_nibrs_submitting
-agency_count_leoka_submitting
-agency_count_pe_submitting
-agency_count_srs_submitting
-agency_count_asr_submitting
-agency_count_hc_submitting
-agency_count_supp_submitting
+
+```python
+import pandas as pd
+pd.set_option('display.max_columns', None)
+cols = ['data_year','population','agency_count_nibrs_submitting','nibrs_population_covered']
+x = [ [res['results'][i][col] for col in cols] for i in range(25)]
+df = pd.DataFrame(x)
+df.columns = cols
+per_people = 100000 
+df['nibrs_rate'] = df.agency_count_nibrs_submitting / df.nibrs_population_covered * per_people
+df.set_index('data_year')['nibrs_rate'].plot(title='NIBRS Crime Rate')
+plt.savefig('rate1.png')
+```
+
+![](rate1.png)
+
+
 
 National Incident-Based Reporting System (NIBRS)
 
@@ -22,10 +60,16 @@ Summary Reporting System (SRS)
 
 Hate Crime Statistics
 
+Replace [year] with particular year for [1]
 
 
+References
 
-Replace [year] with particular year
+[1] https://ucr.fbi.gov/crime-in-the-u.s/[year]/crime-in-the-u.s.-[year]/tables/table-8/table-8.xls
 
-https://ucr.fbi.gov/crime-in-the-u.s/[year]/crime-in-the-u.s.-[year]/tables/table-8/table-8.xls
+[2] https://api.data.gov/signup/
+
+[3] https://github.com/fbi-cde/crime-data-frontend
+
+[4] https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/ucr/publications
 
