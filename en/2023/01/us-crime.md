@@ -77,7 +77,7 @@ DateYM
 
 ![](gunvio.png)
 
-### API
+### FBI Crime Data Gov API
 
 ```python
 import requests, json
@@ -95,8 +95,6 @@ print (res['results'][0])
 ```text
 {'ori': 'AL0010000', 'data_year': 2020, 'offense': 'violent-crime', 'state_abbr': 'AL', 'cleared': 85, 'actual': 284, 'data_range': None}
 ```
-
-
 
 ### FBI UCR
 

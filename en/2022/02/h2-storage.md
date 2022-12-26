@@ -14,6 +14,8 @@
 
 [Solid H2, Nanopowders](solid-h2-nanopowders.html)
 
+[Boron Nitrade](h2-boron-nitrade.html)
+
 [Paraffin Wax](paraffin-wax.html)
 
 [Power Paste](h2-power-paste.html)

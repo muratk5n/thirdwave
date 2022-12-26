@@ -14,6 +14,8 @@
 
 [H2 Production via Biology](02/h2-biology.html)
 
+[Boron Nitrade Powder](02/h2-boron-nitrade.html)
+
 [Carbon Capture](02/h2-co2-capture.html)
 
 [H2 Production From Coal / CCS](02/h2-coal.html)
