@@ -37,19 +37,28 @@ Out[1]:
 
 ```python
 import pandas as pd
-pd.set_option('display.max_columns', None)
 cols = ['data_year','population','agency_count_nibrs_submitting','nibrs_population_covered']
 x = [ [res['results'][i][col] for col in cols] for i in range(25)]
 df = pd.DataFrame(x)
 df.columns = cols
 per_people = 100000 
-df['nibrs_rate'] = df.agency_count_nibrs_submitting / df.nibrs_population_covered * per_people
-df.set_index('data_year')['nibrs_rate'].plot(title='NIBRS Crime Rate')
+df['nibrs_rate'] = (df.agency_count_nibrs_submitting / df.nibrs_population_covered) * per_people
+df2 = df.set_index('data_year')
+df2['nibrs_rate'].plot(title='NIBRS Crime Rate')
+print (df2['nibrs_rate'].head(4))
 plt.savefig('rate1.png')
 ```
 
-![](rate1.png)
+```text
+data_year
+2021    5.485507
+2020    5.576957
+2019    5.646681
+2018    5.873579
+Name: nibrs_rate, dtype: float64
+```
 
+![](rate1.png)
 
 
 National Incident-Based Reporting System (NIBRS)
@@ -73,19 +82,35 @@ import urllib.request as urllib2
 from io import BytesIO
 import pandas as pd
 
-hdr = {'User-Agent':'Mozilla/5.0'}
-year = 2019
-url = "https://ucr.fbi.gov/crime-in-the-u.s/%d/crime-in-the-u.s.-%d/tables/table-8/table-8.xls" % (year,year)
-req = urllib2.Request(url,headers=hdr)
-file = BytesIO(urllib2.urlopen(req).read())
 cols = ['State','City','Population','Violent crime','Murder and nonnegligent manslaughter','Rape1','Robbery','Aggravated assault','Property crime','Burglary','Larceny-theft','Motor vehicle theft','Arson2']
-#df = pd.read_excel('in.xls',skiprows=4,header=None)
-df = pd.read_excel(file,skiprows=4,header=None)
-df.columns = cols
-df.loc[:,'State'] = df.loc[:,'State'].ffill()
+def get_fbi_ucr(year):
+   hdr = {'User-Agent':'Mozilla/5.0'}
+   url = "https://ucr.fbi.gov/crime-in-the-u.s/%d/crime-in-the-u.s.-%d/tables/table-8/table-8.xls" % (year,year)
+   req = urllib2.Request(url,headers=hdr)
+   file = BytesIO(urllib2.urlopen(req).read())
+   df = pd.read_excel(file,skiprows=4,header=None)
+   df.columns = cols
+   df.loc[:,'State'] = df.loc[:,'State'].ffill()
+   return df
+```
+
+```python
+df = get_fbi_ucr(2019)
 ```
 
 
+```python
+pop = df['Population'].sum()
+vio = df['Violent crime'].sum()
+crime_rate = vio / pop
+print (pop,vio)
+print (crime_rate * 100000)
+```
+
+```text
+194512905.0 856781.0
+440.4751448239386
+```
 
 
 
