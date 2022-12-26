@@ -1040,7 +1040,7 @@ than whites, but overall numbers seem to be decreasing.
 
 Still, shot at 90 times? Dam \#akron
 
-[[-]](../../2019/05/confstats.html#unarmed)
+[[-]](../../2023/01/us-crime.html#unarmed)
 
 ---
 

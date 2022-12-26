@@ -129,7 +129,7 @@ Nearly a thousand people are being shot every year. Shootings
 
 Number of ppl shot to death by the police, WaPo data, annual
 
-[[-]](../../2019/05/confstats.html#allshoot)
+[[-]](../../2023/01/us-crime.html#allshoot)
 
 ---
 
