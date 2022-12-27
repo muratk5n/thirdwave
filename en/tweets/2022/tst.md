@@ -6,6 +6,30 @@ import pandas as pd
 pd.set_option('display.max_columns', None)
 ```
 
+```python
+df = u.get_fred(1970,"POPTOTUSA647NWDB")
+df.columns = ['pop']
+df = df.reset_index()
+df['year'] = df.apply(lambda x: str(x['DATE'])[:4],axis=1)
+df = df[['year','pop']]
+df.to_csv('/tmp/uspopulation.csv',index=None)
+```
+
+```text
+Out[1]: <Figure size 640x480 with 0 Axes>
+```
+
+
+
+
+
+
+
+
+
+
+
+
 
 ```python
 u.rottentomatoes("Terminator 3 Rise of the Machines")

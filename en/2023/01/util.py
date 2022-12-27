@@ -200,12 +200,24 @@ def conv_xls_csv():
     year = 2019; df = get_fbi_ucr5(year)
     df.to_csv("~/Downloads/fbi/fbi-data/%d.csv" % year,index=None)
 
-def get_crime_year(year):
+def get_crime_year(year,init=True):
     key = open("../../2019/05/.key/.datagov").read()
-    out = open('%s/Downloads/fbi/fbi-data/csv/%d.csv' % (os.environ['HOME'], year),"w")
+    outfile = '%s/Downloads/fbi/fbi-data/csv/%d.csv' % (os.environ['HOME'], year)
+    if (init):
+        out = open(outfile,"w")
+        out.write("state,city,violent-crime,homicide,rape,robbery,aggravated-assault,property-crime,burglary,larceny,motor-vehicle-theft,arson,lat,lon\n")
+        out.flush()
+    else:
+        out = open(outfile,"a")
+        df = pd.read_csv(outfile,header=None)
+        last = list(df[1].tail(1))[0]
+        print (last)
     with open('%s/Downloads/fbi/fbi-data/agencies.csv' % os.environ['HOME']) as csvfile:
         rd = csv.reader(csvfile,delimiter='|')
         headers = {k: v for v, k in enumerate(next(rd))}
+        while True:
+            row = next(rd)
+            if row[headers['agency_name']] == last: break
         for row in rd:
             print (row[headers['agency']])
             if "Police Department" not in row[headers['agency_name']]: continue
@@ -214,7 +226,7 @@ def get_crime_year(year):
             res = json.loads(response.text)['results']
             if len(res)==0: continue
             d = dict((res[i]['offense'],res[i]['actual']) for i in range(len(res)))
-            line = "%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,\n" % \
+            line = "%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s\n" % \
                    (row[headers['state_name']],
                     row[headers['agency_name']],
                     d['violent-crime'],
@@ -237,4 +249,4 @@ def get_crime_year(year):
     
 if __name__ == "__main__":
     #conv_xls_csv()
-    get_crime_year(2020)
+    get_crime_year(2020,init=False)

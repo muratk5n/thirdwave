@@ -77,27 +77,44 @@ DateYM
 
 ![](gunvio.png)
 
-### FBI Crime Data Gov API
+### FBI Crime Data, UCR
 
 ```python
 import requests, json
 key = open("../../2019/05/.key/.datagov").read()
-#url = "https://api.usa.gov/crime/fbi/sapi/api/participation/national?api_key=%s" % key
-url = "https://api.usa.gov/crime/fbi/sapi/api/summarized/state/AL/violent-crime/2020/2020?api_key=%s" % key
+year = 2019
+agency = "AL0010100" # Bessemer Police Department
+url = "https://api.usa.gov/crime/fbi/sapi/api/summarized/agencies/%s/offenses/%d/%d?api_key=%s" % (agency,year,year,key)
 response = requests.get(url)
 res = json.loads(response.text)
-```
-
-```python
-print (res['results'][0])
+res['results'][0]
 ```
 
 ```text
-{'ori': 'AL0010000', 'data_year': 2020, 'offense': 'violent-crime', 'state_abbr': 'AL', 'cleared': 85, 'actual': 284, 'data_range': None}
+Out[1]: 
+{'ori': 'AL0010100',
+ 'data_year': 2019,
+ 'offense': 'aggravated-assault',
+ 'state_abbr': 'AL',
+ 'cleared': 3,
+ 'actual': 319,
+ 'data_range': None}
 ```
 
-### FBI UCR
+```python
+res['results'][1]
+```
 
+```text
+Out[1]: 
+{'ori': 'AL0010100',
+ 'data_year': 2019,
+ 'offense': 'arson',
+ 'state_abbr': 'AL',
+ 'cleared': 0,
+ 'actual': 0,
+ 'data_range': None}
+```
 
 ![](rate1.png)
 
@@ -110,4 +127,8 @@ References
 [3] https://github.com/fbi-cde/crime-data-frontend
 
 [4] https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/ucr/publications
+
+[5] [Data](https://drive.google.com/uc?export=view&id=1v1oYTeH7wQpnB-Cy1XxEKie72hpqv6GS)
+
+[6] [FBI, Crime in the US](https://ucr.fbi.gov/crime-in-the-u.s/)
 
