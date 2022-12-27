@@ -1,7 +1,7 @@
 import requests, json, csv
 import urllib.request as urllib2
 from io import BytesIO
-import pandas as pd
+import pandas as pd, re
 
 def get_agencies():
     key = open(".key/.datagov").read()
@@ -50,19 +50,63 @@ def get_crime_year(year):
             out.flush()
     out.close()
 
-def get_fbi_ucr(year):
-    cols = ['state','city','population','violent-crime','homicide','rape','robbery','aggravated-assault','property-crime','burglary','larceny','motor-vehicle-theft','arson']
-    hdr = {'User-Agent':'Mozilla/5.0'}
-    url = "https://ucr.fbi.gov/crime-in-the-u.s/%d/crime-in-the-u.s.-%d/tables/table-8/table-8.xls" % (year,year)
-    print (url)
-    req = urllib2.Request(url,headers=hdr)
-    file = BytesIO(urllib2.urlopen(req).read())
-    df = pd.read_excel(file,skiprows=4,header=None)
-    df.columns = cols
+def get_fbi_ucr1(year):
+    #cols = ['state','city','population','violent-crime','homicide','rape','robbery','aggravated-assault','property-crime','burglary','larceny','motor-vehicle-theft','arson']
+    cols = ['city','population','crime-index-total','modified-crime-index-total','homicide','rape','robbery','aggravated-assault','dummy1','burglary','larceny','motor-vehicle-theft','arson','dummy2','state']
+    df = pd.read_excel("~/Downloads/fbi/xls/%d.xls" % year,skiprows=6,header=None)
+    def f(x):
+        if pd.isnull(x[0])==False and pd.isnull(x[1])==True: return x[0] 
+    df['state'] = df.apply(f, axis=1)    
+    df['state'] = df['state'].str.replace('\d+', '')
+    df['state'] = df['state'].str.lower()
     df.loc[:,'state'] = df.loc[:,'state'].ffill()
+    df = df.dropna(subset=[1])
+    df = df.dropna(subset=[0])
+    df.columns = cols
+    return df
+    
+def get_fbi_ucr2(year):
+    #cols = ['state','city','population','violent-crime','homicide','rape','robbery','aggravated-assault','property-crime','burglary','larceny','motor-vehicle-theft','arson']
+    cols = ['city','population','crime-index-total','modified-crime-index-total','homicide','rape','robbery','aggravated-assault','burglary','larceny','motor-vehicle-theft','arson','state']
+    df = pd.read_excel("~/Downloads/fbi/xls/%d.xls" % year,skiprows=6,header=None)
+    def f(x):
+        if pd.isnull(x[0])==False and pd.isnull(x[1])==True: return x[0] 
+    df['state'] = df.apply(f, axis=1)    
+    df['state'] = df['state'].str.replace('\d+', '')
+    df['state'] = df['state'].str.lower()
+    df.loc[:,'state'] = df.loc[:,'state'].ffill()
+    df = df.dropna(subset=[1])
+    df = df.dropna(subset=[0])
+    df = df.drop(columns=[12,13,14,15,16,17,18])
+    df.columns = cols
+    return df
+    
+def get_fbi_ucr3(year):
+    #cols = ['state','city','population','violent-crime','homicide','rape','robbery','aggravated-assault','property-crime','burglary','larceny','motor-vehicle-theft','arson']
+    cols = ['city','population','crime-index-total','modified-crime-index-total','homicide','rape','robbery','aggravated-assault','burglary','larceny','motor-vehicle-theft','arson','state']
+    df = pd.read_excel("~/Downloads/fbi/xls/%d.xls" % year,skiprows=5,header=None)
+    def f(x):
+        if pd.isnull(x[0])==False and pd.isnull(x[1])==True: return x[0] 
+    df['state'] = df.apply(f, axis=1)    
+    df['state'] = df['state'].str.replace('\d+', '')
+    df['state'] = df['state'].str.lower()
+    df.loc[:,'state'] = df.loc[:,'state'].ffill()
+    df = df.dropna(subset=[1])
+    df = df.dropna(subset=[0])
+    df = df.drop(columns=[12,13,14,15,16])
+    df.columns = cols
     return df
     
 if __name__ == "__main__":
-    df = get_fbi_ucr(2019)
+    #year = 1999; df = get_fbi_ucr1(year)
+    #df.to_csv("/tmp/%d.csv" % year,index=None)
+
+    #year = 2000; df = get_fbi_ucr2(year)
+    #df.to_csv("/tmp/%d.csv" % year,index=None)
+
+    #year = 2001; df = get_fbi_ucr2(year)
+    #df.to_csv("/tmp/%d.csv" % year,index=None)
+
+    year = 2002; df = get_fbi_ucr3(year)
     df.to_csv("/tmp/%d.csv" % year,index=None)
 
