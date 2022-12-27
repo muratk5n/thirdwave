@@ -3,19 +3,6 @@ import urllib.request as urllib2
 from io import BytesIO
 import pandas as pd
 
-
-def get_fbi_ucr(year):
-    cols = ['state','city','population','violent-crime','homicide','rape','robbery','aggravated-assault','property-crime','burglary','larceny','motor-vehicle-theft','arson']
-    hdr = {'User-Agent':'Mozilla/5.0'}
-    url = "https://ucr.fbi.gov/crime-in-the-u.s/%d/crime-in-the-u.s.-%d/tables/table-8/table-8.xls" % (year,year)
-    print (url)
-    req = urllib2.Request(url,headers=hdr)
-    file = BytesIO(urllib2.urlopen(req).read())
-    df = pd.read_excel(file,skiprows=4,header=None)
-    df.columns = cols
-    df.loc[:,'state'] = df.loc[:,'state'].ffill()
-    return df
-
 def get_agencies():
     key = open(".key/.datagov").read()
     out = open("agencies.csv","w")
@@ -62,6 +49,18 @@ def get_crime_year(year):
             out.write(line)
             out.flush()
     out.close()
+
+def get_fbi_ucr(year):
+    cols = ['state','city','population','violent-crime','homicide','rape','robbery','aggravated-assault','property-crime','burglary','larceny','motor-vehicle-theft','arson']
+    hdr = {'User-Agent':'Mozilla/5.0'}
+    url = "https://ucr.fbi.gov/crime-in-the-u.s/%d/crime-in-the-u.s.-%d/tables/table-8/table-8.xls" % (year,year)
+    print (url)
+    req = urllib2.Request(url,headers=hdr)
+    file = BytesIO(urllib2.urlopen(req).read())
+    df = pd.read_excel(file,skiprows=4,header=None)
+    df.columns = cols
+    df.loc[:,'state'] = df.loc[:,'state'].ffill()
+    return df
 
     
 if __name__ == "__main__":
