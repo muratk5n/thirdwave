@@ -63,6 +63,7 @@ def get_fbi_ucr1(year):
     df = df.dropna(subset=[1])
     df = df.dropna(subset=[0])
     df.columns = cols
+    df['city'] = df['city'].str.replace('\d+', '')
     return df
     
 def get_fbi_ucr2(year):
@@ -79,6 +80,7 @@ def get_fbi_ucr2(year):
     df = df.dropna(subset=[0])
     df = df.drop(columns=[12,13,14,15,16,17,18])
     df.columns = cols
+    df['city'] = df['city'].str.replace('\d+', '')
     return df
     
 def get_fbi_ucr3(year):
@@ -95,18 +97,138 @@ def get_fbi_ucr3(year):
     df = df.dropna(subset=[0])
     df = df.drop(columns=[12,13,14,15,16])
     df.columns = cols
+    df['city'] = df['city'].str.replace('\d+', '')
+    return df
+
+def get_fbi_ucr4(year):
+    #cols = ['state','city','population','violent-crime','homicide','rape','robbery','aggravated-assault','property-crime','burglary','larceny','motor-vehicle-theft','arson']
+    cols = ['city','population','crime-index-total','modified-crime-index-total','homicide','rape','robbery','aggravated-assault','burglary','larceny','motor-vehicle-theft','arson','state']
+    df = pd.read_excel("~/Downloads/fbi/xls/%d.xls" % year,skiprows=5,header=None)
+    def f(x):
+        if pd.isnull(x[0])==False and pd.isnull(x[1])==True: return x[0] 
+    df['state'] = df.apply(f, axis=1)    
+    df['state'] = df['state'].str.replace('\d+', '')
+    df['state'] = df['state'].str.lower()
+    df.loc[:,'state'] = df.loc[:,'state'].ffill()
+    df = df.dropna(subset=[1])
+    df = df.dropna(subset=[0])
+    df = df.drop(columns=[12,13,14,15,16,17])
+    df.columns = cols
+    df['city'] = df['city'].str.replace('\d+', '')
     return df
     
+def get_fbi_ucr5(year):
+    cols = ['state','city','population','violent-crime','homicide','rape','robbery','aggravated-assault','property-crime','burglary','larceny','motor-vehicle-theft','arson']
+    df = pd.read_excel("~/Downloads/fbi/xls/%d.xls" % year,skiprows=4,header=None)
+    df.columns = cols
+    df['state'] = df['state'].str.lower()
+    df.loc[:,'state'] = df.loc[:,'state'].ffill()
+    return df
+    
+def get_fbi_ucr6(year):
+    cols = ['state','city','population','violent-crime','homicide','rape','robbery','aggravated-assault','property-crime','burglary','larceny','motor-vehicle-theft','arson']
+    df = pd.read_excel("~/Downloads/fbi/xls/%d.xls" % year,skiprows=4,header=None)
+    df = df.drop(columns=[13,14])
+    df.columns = cols
+    df['state'] = df['state'].str.lower()
+    df.loc[:,'state'] = df.loc[:,'state'].ffill()    
+    return df
+    
+def get_fbi_ucr7(year):
+    cols = ['state','city','population','violent-crime','homicide','rape','robbery','aggravated-assault','property-crime','burglary','larceny','motor-vehicle-theft','arson']
+    df = pd.read_excel("~/Downloads/fbi/xls/%d.xls" % year,skiprows=4,header=None)
+    df = df.drop(columns=[13,14,15,16])
+    df.columns = cols
+    df['state'] = df['state'].str.lower()
+    df.loc[:,'state'] = df.loc[:,'state'].ffill()    
+    return df
+    
+def get_fbi_ucr8(year):
+    cols = ['state','city','population','violent-crime','homicide','rape','robbery','aggravated-assault','property-crime','burglary','larceny','motor-vehicle-theft','arson']
+    df = pd.read_excel("~/Downloads/fbi/xls/%d.xls" % year,skiprows=4,header=None)
+    df = df.drop(columns=[13,14,15,16,17])
+    df.columns = cols
+    df['state'] = df['state'].str.lower()
+    df.loc[:,'state'] = df.loc[:,'state'].ffill()    
+    return df
+    
+def get_fbi_ucr9(year):
+    cols = ['state','city','population','violent-crime','homicide','rape','robbery','aggravated-assault','property-crime','burglary','larceny','motor-vehicle-theft','arson']
+    df = pd.read_excel("~/Downloads/fbi/xls/%d.xls" % year,skiprows=4,header=None)
+    df = df.drop(columns=[6])
+    df.columns = cols
+    df['state'] = df['state'].str.lower()
+    df.loc[:,'state'] = df.loc[:,'state'].ffill()    
+    return df
+    
+def get_fbi_ucr10(year):
+    cols = ['state','city','population','violent-crime','homicide','rape','robbery','aggravated-assault','property-crime','burglary','larceny','motor-vehicle-theft','arson']
+    df = pd.read_excel("~/Downloads/fbi/xls/%d.xls" % year,skiprows=4,header=None)
+    df = df.drop(columns=[13,14,15,16,17,18])
+    df.columns = cols
+    df['state'] = df['state'].str.lower()
+    df.loc[:,'state'] = df.loc[:,'state'].ffill()    
+    return df
+    
+
 if __name__ == "__main__":
-    #year = 1999; df = get_fbi_ucr1(year)
-    #df.to_csv("/tmp/%d.csv" % year,index=None)
+    year = 1999; df = get_fbi_ucr1(year)
+    df.to_csv("/tmp/%d.csv" % year,index=None)
 
-    #year = 2000; df = get_fbi_ucr2(year)
-    #df.to_csv("/tmp/%d.csv" % year,index=None)
+    year = 2000; df = get_fbi_ucr2(year)
+    df.to_csv("/tmp/%d.csv" % year,index=None)
 
-    #year = 2001; df = get_fbi_ucr2(year)
-    #df.to_csv("/tmp/%d.csv" % year,index=None)
+    year = 2001; df = get_fbi_ucr2(year)
+    df.to_csv("/tmp/%d.csv" % year,index=None)
 
     year = 2002; df = get_fbi_ucr3(year)
+    df.to_csv("/tmp/%d.csv" % year,index=None)
+
+    year = 2003; df = get_fbi_ucr4(year)
+    df.to_csv("/tmp/%d.csv" % year,index=None)
+
+    year = 2005; df = get_fbi_ucr5(year)
+    df.to_csv("/tmp/%d.csv" % year,index=None)
+
+    year = 2006; df = get_fbi_ucr6(year)
+    df.to_csv("/tmp/%d.csv" % year,index=None)
+
+    year = 2007; df = get_fbi_ucr6(year)
+    df.to_csv("/tmp/%d.csv" % year,index=None)
+
+    year = 2008; df = get_fbi_ucr7(year)
+    df.to_csv("/tmp/%d.csv" % year,index=None)
+
+    year = 2009; df = get_fbi_ucr5(year)
+    df.to_csv("/tmp/%d.csv" % year,index=None)
+
+    year = 2010; df = get_fbi_ucr5(year)
+    df.to_csv("/tmp/%d.csv" % year,index=None)
+
+    year = 2011; df = get_fbi_ucr8(year)
+    df.to_csv("/tmp/%d.csv" % year,index=None)
+
+    year = 2012; df = get_fbi_ucr5(year)
+    df.to_csv("/tmp/%d.csv" % year,index=None)
+
+    year = 2013; df = get_fbi_ucr7(year)
+    df.to_csv("/tmp/%d.csv" % year,index=None)
+
+    year = 2014; df = get_fbi_ucr9(year)
+    df.to_csv("/tmp/%d.csv" % year,index=None)
+
+    year = 2015; df = get_fbi_ucr9(year)
+    df.to_csv("/tmp/%d.csv" % year,index=None)
+
+    year = 2016; df = get_fbi_ucr5(year)
+    df.to_csv("/tmp/%d.csv" % year,index=None)
+
+    year = 2017; df = get_fbi_ucr10(year)
+    df.to_csv("/tmp/%d.csv" % year,index=None)
+
+    year = 2018; df = get_fbi_ucr5(year)
+    df.to_csv("/tmp/%d.csv" % year,index=None)
+
+    year = 2019; df = get_fbi_ucr5(year)
     df.to_csv("/tmp/%d.csv" % year,index=None)
 
