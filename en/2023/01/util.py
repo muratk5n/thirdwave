@@ -1,7 +1,7 @@
 import requests, json, csv
 import urllib.request as urllib2
 from io import BytesIO
-import pandas as pd, re
+import pandas as pd, re, os
 
 def get_agencies():
     key = open(".key/.datagov").read()
@@ -23,35 +23,7 @@ def get_agencies():
                 out.flush()
     out.close()
     
-
-def get_crime_year(year):
-    key = open(".key/.datagov").read()
-    out = open("/tmp/%d.csv" % year,"w")
-    with open('agencies.csv') as csvfile:
-        rd = csv.reader(csvfile,delimiter='|')
-        headers = {k: v for v, k in enumerate(next(rd))}
-        for row in rd:
-            print (row[headers['agency']])
-            if row[headers['state_name']] != "Connecticut": continue
-            if "Police Department" not in row[headers['agency_name']]: continue
-            url = "https://api.usa.gov/crime/fbi/sapi/api/summarized/agencies/%s/offenses/%d/%d?api_key=%s" % (row[headers['agency']],year,year,key)
-            response = requests.get(url)
-            res = json.loads(response.text)['results']
-            print (len(res))
-            if len(res)==0: continue
-            d = dict((res[i]['offense'],res[i]['actual']) for i in range(len(res)))
-            print (d)
-            exit()
-            line = "%s,%s,%s,%s,%s\n" % (row[headers['state_name']],
-                                         row[headers['agency_name']],
-                                         d['violent-crime'],row[headers['lat']],
-                                         row[headers['lon']])
-            out.write(line)
-            out.flush()
-    out.close()
-
 def get_fbi_ucr1(year):
-    #cols = ['state','city','population','violent-crime','homicide','rape','robbery','aggravated-assault','property-crime','burglary','larceny','motor-vehicle-theft','arson']
     cols = ['city','population','crime-index-total','modified-crime-index-total','homicide','rape','robbery','aggravated-assault','dummy1','burglary','larceny','motor-vehicle-theft','arson','dummy2','state']
     df = pd.read_excel("~/Downloads/fbi/xls/%d.xls" % year,skiprows=6,header=None)
     def f(x):
@@ -67,7 +39,6 @@ def get_fbi_ucr1(year):
     return df
     
 def get_fbi_ucr2(year):
-    #cols = ['state','city','population','violent-crime','homicide','rape','robbery','aggravated-assault','property-crime','burglary','larceny','motor-vehicle-theft','arson']
     cols = ['city','population','crime-index-total','modified-crime-index-total','homicide','rape','robbery','aggravated-assault','burglary','larceny','motor-vehicle-theft','arson','state']
     df = pd.read_excel("~/Downloads/fbi/xls/%d.xls" % year,skiprows=6,header=None)
     def f(x):
@@ -84,7 +55,6 @@ def get_fbi_ucr2(year):
     return df
     
 def get_fbi_ucr3(year):
-    #cols = ['state','city','population','violent-crime','homicide','rape','robbery','aggravated-assault','property-crime','burglary','larceny','motor-vehicle-theft','arson']
     cols = ['city','population','crime-index-total','modified-crime-index-total','homicide','rape','robbery','aggravated-assault','burglary','larceny','motor-vehicle-theft','arson','state']
     df = pd.read_excel("~/Downloads/fbi/xls/%d.xls" % year,skiprows=5,header=None)
     def f(x):
@@ -101,7 +71,6 @@ def get_fbi_ucr3(year):
     return df
 
 def get_fbi_ucr4(year):
-    #cols = ['state','city','population','violent-crime','homicide','rape','robbery','aggravated-assault','property-crime','burglary','larceny','motor-vehicle-theft','arson']
     cols = ['city','population','crime-index-total','modified-crime-index-total','homicide','rape','robbery','aggravated-assault','burglary','larceny','motor-vehicle-theft','arson','state']
     df = pd.read_excel("~/Downloads/fbi/xls/%d.xls" % year,skiprows=5,header=None)
     def f(x):
@@ -169,66 +138,103 @@ def get_fbi_ucr10(year):
     df['state'] = df['state'].str.lower()
     df.loc[:,'state'] = df.loc[:,'state'].ffill()    
     return df
-    
 
-if __name__ == "__main__":
+def conv_xls_csv():
     year = 1999; df = get_fbi_ucr1(year)
-    df.to_csv("/tmp/%d.csv" % year,index=None)
+    df.to_csv("~/Downloads/fbi/fbi-data/%d.csv" % year,index=None)
 
     year = 2000; df = get_fbi_ucr2(year)
-    df.to_csv("/tmp/%d.csv" % year,index=None)
+    df.to_csv("~/Downloads/fbi/fbi-data/%d.csv" % year,index=None)
 
     year = 2001; df = get_fbi_ucr2(year)
-    df.to_csv("/tmp/%d.csv" % year,index=None)
+    df.to_csv("~/Downloads/fbi/fbi-data/%d.csv" % year,index=None)
 
     year = 2002; df = get_fbi_ucr3(year)
-    df.to_csv("/tmp/%d.csv" % year,index=None)
+    df.to_csv("~/Downloads/fbi/fbi-data/%d.csv" % year,index=None)
 
     year = 2003; df = get_fbi_ucr4(year)
-    df.to_csv("/tmp/%d.csv" % year,index=None)
+    df.to_csv("~/Downloads/fbi/fbi-data/%d.csv" % year,index=None)
 
     year = 2005; df = get_fbi_ucr5(year)
-    df.to_csv("/tmp/%d.csv" % year,index=None)
+    df.to_csv("~/Downloads/fbi/fbi-data/%d.csv" % year,index=None)
 
     year = 2006; df = get_fbi_ucr6(year)
-    df.to_csv("/tmp/%d.csv" % year,index=None)
+    df.to_csv("~/Downloads/fbi/fbi-data/%d.csv" % year,index=None)
 
     year = 2007; df = get_fbi_ucr6(year)
-    df.to_csv("/tmp/%d.csv" % year,index=None)
+    df.to_csv("~/Downloads/fbi/fbi-data/%d.csv" % year,index=None)
 
     year = 2008; df = get_fbi_ucr7(year)
-    df.to_csv("/tmp/%d.csv" % year,index=None)
+    df.to_csv("~/Downloads/fbi/fbi-data/%d.csv" % year,index=None)
 
     year = 2009; df = get_fbi_ucr5(year)
-    df.to_csv("/tmp/%d.csv" % year,index=None)
+    df.to_csv("~/Downloads/fbi/fbi-data/%d.csv" % year,index=None)
 
     year = 2010; df = get_fbi_ucr5(year)
-    df.to_csv("/tmp/%d.csv" % year,index=None)
+    df.to_csv("~/Downloads/fbi/fbi-data/%d.csv" % year,index=None)
 
     year = 2011; df = get_fbi_ucr8(year)
-    df.to_csv("/tmp/%d.csv" % year,index=None)
+    df.to_csv("~/Downloads/fbi/fbi-data/%d.csv" % year,index=None)
 
     year = 2012; df = get_fbi_ucr5(year)
-    df.to_csv("/tmp/%d.csv" % year,index=None)
+    df.to_csv("~/Downloads/fbi/fbi-data/%d.csv" % year,index=None)
 
     year = 2013; df = get_fbi_ucr7(year)
-    df.to_csv("/tmp/%d.csv" % year,index=None)
+    df.to_csv("~/Downloads/fbi/fbi-data/%d.csv" % year,index=None)
 
     year = 2014; df = get_fbi_ucr9(year)
-    df.to_csv("/tmp/%d.csv" % year,index=None)
+    df.to_csv("~/Downloads/fbi/fbi-data/%d.csv" % year,index=None)
 
     year = 2015; df = get_fbi_ucr9(year)
-    df.to_csv("/tmp/%d.csv" % year,index=None)
+    df.to_csv("~/Downloads/fbi/fbi-data/%d.csv" % year,index=None)
 
     year = 2016; df = get_fbi_ucr5(year)
-    df.to_csv("/tmp/%d.csv" % year,index=None)
+    df.to_csv("~/Downloads/fbi/fbi-data/%d.csv" % year,index=None)
 
     year = 2017; df = get_fbi_ucr10(year)
-    df.to_csv("/tmp/%d.csv" % year,index=None)
+    df.to_csv("~/Downloads/fbi/fbi-data/%d.csv" % year,index=None)
 
     year = 2018; df = get_fbi_ucr5(year)
-    df.to_csv("/tmp/%d.csv" % year,index=None)
+    df.to_csv("~/Downloads/fbi/fbi-data/%d.csv" % year,index=None)
 
     year = 2019; df = get_fbi_ucr5(year)
-    df.to_csv("/tmp/%d.csv" % year,index=None)
+    df.to_csv("~/Downloads/fbi/fbi-data/%d.csv" % year,index=None)
 
+def get_crime_year(year):
+    key = open("../../2019/05/.key/.datagov").read()
+    out = open('%s/Downloads/fbi/fbi-data/csv/%d.csv' % (os.environ['HOME'], year),"w")
+    with open('%s/Downloads/fbi/fbi-data/agencies.csv' % os.environ['HOME']) as csvfile:
+        rd = csv.reader(csvfile,delimiter='|')
+        headers = {k: v for v, k in enumerate(next(rd))}
+        for row in rd:
+            print (row[headers['agency']])
+            if "Police Department" not in row[headers['agency_name']]: continue
+            url = "https://api.usa.gov/crime/fbi/sapi/api/summarized/agencies/%s/offenses/%d/%d?api_key=%s" % (row[headers['agency']],year,year,key)
+            response = requests.get(url)
+            res = json.loads(response.text)['results']
+            if len(res)==0: continue
+            d = dict((res[i]['offense'],res[i]['actual']) for i in range(len(res)))
+            line = "%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,\n" % \
+                   (row[headers['state_name']],
+                    row[headers['agency_name']],
+                    d['violent-crime'],
+                    d['homicide'],
+                    d['rape'],
+                    d['robbery'],
+                    d['aggravated-assault'],
+                    d['property-crime'],
+                    d['burglary'],
+                    d['larceny'],
+                    d['motor-vehicle-theft'],
+                    d['arson'],
+                    row[headers['lat']],
+                    row[headers['lon']])
+            out.write(line)
+            out.flush()
+    out.close()
+
+
+    
+if __name__ == "__main__":
+    #conv_xls_csv()
+    get_crime_year(2020)
