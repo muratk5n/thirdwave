@@ -61,9 +61,8 @@ def get_fbi_ucr(year):
     df.columns = cols
     df.loc[:,'state'] = df.loc[:,'state'].ffill()
     return df
-
     
 if __name__ == "__main__":
     df = get_fbi_ucr(2019)
-    df.to_csv("data/%d.csv" % year,index=None)
+    df.to_csv("/tmp/%d.csv" % year,index=None)
 
