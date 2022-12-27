@@ -98,46 +98,6 @@ print (res['results'][0])
 
 ### FBI UCR
 
-Annual summaries, URL as below
-
-https://ucr.fbi.gov/crime-in-the-u.s/[year]/crime-in-the-u.s.-[year]/tables/table-8/table-8.xls
-
-Replace [year] with particular year.
-
-```python
-import urllib.request as urllib2
-from io import BytesIO
-import pandas as pd
-
-cols = ['State','City','Population','Violent crime','Murder and nonnegligent manslaughter','Rape1','Robbery','Aggravated assault','Property crime','Burglary','Larceny-theft','Motor vehicle theft','Arson2']
-def get_fbi_ucr(year):
-   hdr = {'User-Agent':'Mozilla/5.0'}
-   url = "https://ucr.fbi.gov/crime-in-the-u.s/%d/crime-in-the-u.s.-%d/tables/table-8/table-8.xls" % (year,year)
-   req = urllib2.Request(url,headers=hdr)
-   file = BytesIO(urllib2.urlopen(req).read())
-   df = pd.read_excel(file,skiprows=4,header=None)
-   df.columns = cols
-   df.loc[:,'State'] = df.loc[:,'State'].ffill()
-   return df
-```
-
-```python
-df = get_fbi_ucr(2019)
-```
-
-
-```python
-pop = df['Population'].sum()
-vio = df['Violent crime'].sum()
-crime_rate = vio / pop
-print (pop,vio)
-print (crime_rate * 100000)
-```
-
-```text
-194512905.0 856781.0
-440.4751448239386
-```
 
 ![](rate1.png)
 
