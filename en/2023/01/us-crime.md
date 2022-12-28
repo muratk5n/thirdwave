@@ -79,11 +79,24 @@ DateYM
 
 ### FBI Crime Data, UCR
 
+The FBI sit [6] and Data.gov API publishes FBI crime data. Data from
+the first the so-called "Table 8" was taken until 2019. The rest is
+from the API, all in the zip below [5]. The conversion code for xls
+to csv is in `util.py`.
+
+To retrieve an entire year from the API must get data from all
+agencies (PDs), the master list is in `agencies.csv` in the zip.
+To use the API a sign-up and key is required [2]. An example use
+is below.
+
+
 ```python
 import requests, json
-key = open("../../2019/05/.key/.datagov").read()
-year = 2019
+
 agency = "AL0010100" # Bessemer Police Department
+year = 2019
+
+key = open("../../2019/05/.key/.datagov").read()
 url = "https://api.usa.gov/crime/fbi/sapi/api/summarized/agencies/%s/offenses/%d/%d?api_key=%s" % (agency,year,year,key)
 response = requests.get(url)
 res = json.loads(response.text)
@@ -122,7 +135,7 @@ References
 
 [1] https://crime-data-explorer.fr.cloud.gov/pages/docApi
 
-[2] https://api.data.gov/signup/
+[2] [Data.gov Signup](https://api.data.gov/signup/)
 
 [3] https://github.com/fbi-cde/crime-data-frontend
 

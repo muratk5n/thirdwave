@@ -118,5 +118,5 @@ def get_crime_year(year,init=True):
 
     
 if __name__ == "__main__":
-    conv_xls_csv()
-    #get_crime_year(2021,init=False)
+    #conv_xls_csv()
+    get_crime_year(2021,init=False)
