@@ -7,20 +7,54 @@ pd.set_option('display.max_columns', None)
 ```
 
 ```python
-df = u.get_fred(1970,"POPTOTUSA647NWDB")
-df.columns = ['pop']
-df = df.reset_index()
-df['year'] = df.apply(lambda x: str(x['DATE'])[:4],axis=1)
-df = df[['year','pop']]
-df.to_csv('/tmp/uspopulation.csv',index=None)
+u.get_bp_country("United Kingdom",2012)
 ```
 
 ```text
-Out[1]: <Figure size 640x480 with 0 Axes>
+Out[1]: 
+(             Year
+ wind_twh     2012     0.896391
+ solar_twh    2012     0.061142
+ nuclear_twh  2012     3.179830
+ hydro_twh    2012     0.239783
+ oil_twh      2012    38.303440
+ gas_twh      2012    34.731184
+ coal_twh     2012    20.463374
+ biogeo_twh   2012     2.124856
+ ethanol_twh  2012     0.000000
+ dtype: float64,
+     Perc Commodity
+ 0  63.96       Oil
+ 1  42.52       Gas
+ 2   1.87      Coal,
+ 2214.1140180691764,
+ 15.25)
 ```
 
+```python
+u.get_bp_country("United Kingdom",2021)
+```
 
-
+```text
+Out[1]: 
+(             Year
+ wind_twh     2021     3.628167
+ solar_twh    2021     0.697069
+ nuclear_twh  2021     2.581697
+ hydro_twh    2021     0.282269
+ oil_twh      2021    39.023356
+ gas_twh      2021    43.310718
+ coal_twh     2021     3.288407
+ biogeo_twh   2021     7.188318
+ ethanol_twh  2021     0.000000
+ dtype: float64,
+     Perc Commodity
+ 0  78.24       Oil
+ 1  42.49       Gas
+ 2  14.52      Coal,
+ 1776.6412760753542,
+ 15.54)
+```
 
 
 

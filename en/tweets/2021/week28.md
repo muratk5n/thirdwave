@@ -20,7 +20,7 @@ waste on band-aid, marginal solutions.
  
 ---
 
-Lithium reserves [aren't even enough](../../2022/02/base-energy-numbers.html#driving) for cars.
+Lithium reserves [aren't even enough](../../2022/battery-electric.html#reserves) for cars.
 
 ---
 

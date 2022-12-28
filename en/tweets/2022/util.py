@@ -260,12 +260,16 @@ def country_bp(country):
     print ('\nTotal\n')
     print (np.round(tot*1000 / (365*24),2),'GW')
 
-def get_bp_country(country):
+def get_bp_country(country,year=None):
     fin = '../../2019/05/bp-stats-review-2022-consolidated-dataset-panel-format.csv'
     df = pd.read_csv(fin)
     df = df[df.Country == country]
     df = df.set_index('Year')
-    df = df[df.index == df.index.max()]
+    if not year:
+        df = df[df.index == df.index.max()]
+    else:
+        df = df[df.index == year]
+        
     elec = np.round(float(df['elect_twh']) / (float(df['primary_ej'])*277.778)*100,2)
     df = df[['wind_twh','solar_twh','nuclear_twh','hydro_twh',\
              'coalcons_ej','gascons_ej','oilcons_ej','biogeo_ej',

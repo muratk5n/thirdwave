@@ -384,6 +384,5 @@ Name: Close, dtype: float64
 df = u.get_yahoofin(2015,"LBS=F"); df.plot(); plt.savefig('lumber.png')
 ```
 
-
 ![](lumber.png)
 

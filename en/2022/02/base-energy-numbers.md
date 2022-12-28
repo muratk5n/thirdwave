@@ -93,29 +93,6 @@ Can hold 4.60 percent of required energy
 .. it would require over 20 times the amount of available lithium in
 the world.
 
-<a name='driving'/>
-
-Driving
-
-UK drove 303.7 billion miles in 2013. Take miles driven in one day and
-assume energy it is stored in batteries, with range 250 miles per 75
-kwh bat, project it to world population,
-
-```python
-uk_world_ratio = 113
-mday = 303e9 / 365
-lit = (mday / 250 * 60 / 1e3)
-print ("%d tons" % lit)
-print ("%0.2f mil tons needed globally" % (lit * uk_world_ratio / 1e6))
-```
-
-```text
-199232 tons
-22.51 mil tons needed globally
-```
-
-which exceeds available lithium reserves (given that UK has 1/113th of
-world population)... 
 
 Grid and Pipelines
 
