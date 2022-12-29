@@ -2,6 +2,44 @@
 
 Bruce B. de Mesquita
 
+We believe.. that the infinite variety of real-world institutional
+arrangements can be distilled into just two criti- cal dimensions: the
+selectorate and the winning coalition. By mapping a diverse set of
+political considerations onto the two dimensions of selec- torate size
+and winning-coalition size, we sacrifice detail and precision, but
+gain the possibility of explaining a rich variety of political phenom-
+ena with a relatively simple theoretical structure...
+
+The important aspect of being in the selectorate is that membership
+conveys the opportunity to become a member of a winning coalition. To
+be sure, membership in the selectorate does not necessar- ily make the
+prospects of joining a winning coalition good, but it does raise those
+prospects above zero and, in democracies, up to levels as high as 50
+percent.
+
+We define the selectorate as the set of people whose endowments
+include the qualities or characteristics institutionally required to
+choose the government’s leadership and necessary for gaining access to
+private benefits doled out by the government’s leadership. All
+selectorate mem- bers within a polity, therefore, share certain common
+characteristics.  Those characteristics, however, can differ across
+political systems, so that an individual can qualify for selectorate
+membership in one polity and yet have no possibility of qualifying in
+another...
+
+The winning coalition is defined as a subset of the selectorate of
+sufficient size such that the subset’s support endows the leadership
+with political power over the remainder of the selectorate as well as
+over the disenfranchised members of the society. How many supporters
+are required to form a winning coalition depends on the mix of
+qualities required for membership in the winning coalition and on the
+degree to which those qualities relate to lumpy or broadly distributed
+characteristics within the selectorate. In exchange for their support,
+members of the winning coalition receive a share of whatever private
+benefits the incumbent doles out to her supporters...
+
+Afghanistan
+
 Direct and indirect military intervention [in a foreign country]
 provide mechanisms through which institutions can be
 improved. Unfortunately, the political incentives of leaders from
