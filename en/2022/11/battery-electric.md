@@ -112,11 +112,11 @@ money for our house, decreasing the cost"
 
 Speed
 
-Charging is slow. For lion based vehicles the fastest method, known as
-direct current charger, can charge a battery up to 80 percent in 20
-minutes to an hour. And even this so-called fast charging has
-downsides - it degrades the battery faster. A fuel based car in
-comparison can be refueled in less than 5 minutes.
+Another big complaint about batteries is their Charging is slow. For
+lion based vehicles the fastest method, known as direct current
+charger, can charge a battery up to 80 percent in 20 minutes to an
+hour which is pretty slow compared to refueling a car. And this "fast
+charging" has major downsides - it degrades the battery quicker. 
 
 The Grid
 
