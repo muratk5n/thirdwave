@@ -45,6 +45,12 @@ products for consumers to just "use" and consume.
 
 ---
 
+\#FuckSOPA
+
+[[-]](https://youtu.be/9h2dF-IsH0I)
+
+---
+
 "If You’re Busy, You’re Doing Something Wrong
 
 In the early 1990s, a trio of psychologists descended on the

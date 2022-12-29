@@ -2,8 +2,6 @@
 
 [After SOPA, PIPA](01/after-sopa-pipa.html)
 
-[Fuck SOPA](01/fuck-sopa.html)
-
 [Myers-Briggs Types, Shadow](01/mbti.html)
 
 [Money](01/money.html)

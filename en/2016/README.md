@@ -2,6 +2,8 @@
 
 [$320 Trillion](03/320-trillion.html)
 
+[The Audacity of Hope](03/audacity-of-hope.html)
+
 [Blockchain as an Exchange](03/blockchain-as-exchange.html)
 
 [#christie](03/cristie.html)

@@ -110,6 +110,16 @@ money for our house, decreasing the cost"
 
 ### Charging
 
+Speed
+
+Charging is slow. For lion based vehicles the fastest method, known as
+direct current charger, can charge a battery up to 80 percent in 20
+minutes to an hour. However the downside of that downside is fast
+charging degrades the battery even further, see item above. Fuel based
+cars can be refueled in less than 5 minutes.
+
+The Grid
+
 [Blowing the Fuse](../../2022/10/grid-fuse.html)
 
 ### Safety
@@ -157,6 +167,8 @@ References
 [2] [Thompson Safety Works](https://thompson-safety.com/company/press/lithium-ion-battery-fire)
 
 [3] [The H2 Revolution](../../2022/06/the-h2-revolution-alvera.html)
+
+[4] [WaPo](https://www.washingtonpost.com/technology/2022/08/27/electric-vehicle-charge-time/)
 
 [[Up](../../2018/12/climate.html)]
 

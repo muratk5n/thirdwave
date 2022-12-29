@@ -6,8 +6,6 @@
 
 [World's Laziest Teacher](02/grading.html)
 
-[The Audacity of Hope](03/audacity-of-hope.html)
-
 [The Fundamentals of Industrial Ideologies: Centralization](03/fundamentals-of-industrial-ideologies_centralization.html)
 
 [The Fundamentals of Industrial Ideologies: Concentration](03/fundamentals-of-industrial-ideologies_concentration.html)
@@ -25,8 +23,6 @@
 [Fight of the Century: Keynes vs. Hayek Round Two](04/fight-of-century-keynes-vs-hayek-round.html)
 
 [The Fundamentals of Industrial Ideologies](04/fundamentals-of-industrial-ideologies.html)
-
-[General Zod](04/general-zod.html)
 
 [Globaloney](04/globaloney.html)
 
