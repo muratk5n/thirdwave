@@ -79,15 +79,13 @@ DateYM
 
 ### FBI Crime Data, UCR
 
-The FBI sit [6] and Data.gov API publishes FBI crime data. Data from
-the first the so-called "Table 8" was taken until 2019. The rest is
-from the API, all in the zip below [5]. The conversion code for xls
-to csv is in `util.py`.
+The FBI site [4] and data.gov API publishes crime data. Data from the
+first the so-called "Table 8" is for 1999-2019. The rest from the API,
+see the zip below [3]. The xls to csv conversion code is in `util.py`.
 
-To retrieve an entire year from the API must get data from all
-agencies (PDs), the master list is in `agencies.csv` in the zip.
-To use the API a sign-up and key is required [2]. An example use
-is below.
+In order to retrieve an entire year from the API data is retrieved for
+each agency (PDs), the master list is in `agencies.csv`. Sign-up and
+get the key [2], example use is below.
 
 
 ```python
@@ -133,15 +131,11 @@ Out[1]:
 
 References
 
-[1] https://crime-data-explorer.fr.cloud.gov/pages/docApi
+[1] [FBI](https://crime-data-explorer.fr.cloud.gov/pages/docApi)
 
 [2] [Data.gov Signup](https://api.data.gov/signup/)
 
-[3] https://github.com/fbi-cde/crime-data-frontend
+[3] [Data](https://drive.google.com/uc?export=view&id=1v1oYTeH7wQpnB-Cy1XxEKie72hpqv6GS)
 
-[4] https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/ucr/publications
-
-[5] [Data](https://drive.google.com/uc?export=view&id=1v1oYTeH7wQpnB-Cy1XxEKie72hpqv6GS)
-
-[6] [FBI, Crime in the US](https://ucr.fbi.gov/crime-in-the-u.s/)
+[4] [FBI, Crime in the US](https://ucr.fbi.gov/crime-in-the-u.s/)
 
