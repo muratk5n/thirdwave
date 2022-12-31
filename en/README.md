@@ -107,7 +107,7 @@ Long-Range Cruise Missile, Northrop Grumman Says"
 
 ---
 
-They did a war-game recently on China-Taiwan conflict, if US were to
+They did a war-game recently on China-Taiwan conflict, if US were
 involved most effective US asset was long-range bomber with cruise
 missiles; the bombers can be based outside of CH missile range, but
 still strike at the attacking CH forces.
