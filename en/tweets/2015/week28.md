@@ -299,9 +299,9 @@ government cannot even cut unnecessary defense spending.
 
 ---
 
-\#thegipper
+\#thegipper \#reagan \#gorbachev
 
-Saw this at a bookstore in Berlin today. 
+Saw this at a bookstore in Berlin today. A piece of history etched in stone
 
 ![](20150716_112800.jpg)
 
