@@ -80,7 +80,7 @@ snowbanks"
 
 ---
 
-Yea that doesn't work \#2010
+Yeah.. that one didn't work \#2010
 
 [[-]](https://pbs.twimg.com/media/FlSp0_OWAAgRDao?format=jpg&name=small)
 
