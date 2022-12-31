@@ -77,6 +77,13 @@ def two_plot(df, col1, col2):
     h2, l2 = ax2.get_legend_handles_labels()
     plt.legend(h1+h2, l1+l2, loc=2) 
 
+def get_quandl(series):
+    import quandl, os
+    fname = '.key/.quandl'
+    auth = open(fname).read()
+    df = quandl.get(series, returns="pandas",authtoken=auth)
+    return df
+    
 def get_fred(year, series):
     today = datetime.datetime.now()
     start=datetime.datetime(year, 1, 1)

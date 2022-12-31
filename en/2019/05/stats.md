@@ -350,6 +350,25 @@ DATE
 
 <a name="earnings"/>
 
+```python
+df = u.get_quandl("MULTPL/SP500_EARNINGS_MONTH")
+print (df.tail(5))
+df.plot()
+plt.savefig('sp500_earnings.png')
+```
+
+```text
+             Value
+Date              
+2022-02-28  207.87
+2022-03-31  205.14
+2022-04-30  202.06
+2022-05-31  197.94
+2022-06-30  193.36
+```
+
+![](sp500_earnings.png)
+
 SP 500 Earnings Per Share
 
 ```python
@@ -368,7 +387,7 @@ plt.axvspan('01-09-1990', '01-07-1991', color='y', alpha=0.5, lw=0)
 plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
 plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
 plt.axvspan('02-01-2020', '05-01-2020', color='y', alpha=0.5, lw=0)
-plt.savefig('sp500-earnings.png')
+plt.savefig('sp500-eps.png')
 ```
 
 ```text
@@ -380,7 +399,7 @@ date
 Name: eps, dtype: float64
 ```
 
-![](sp500-earnings.png)
+![](sp500-eps.png)
 
 ## Finance
 
