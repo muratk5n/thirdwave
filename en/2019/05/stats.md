@@ -352,22 +352,23 @@ DATE
 
 ```python
 df = u.get_quandl("MULTPL/SP500_EARNINGS_MONTH")
+df.columns = ['SP 500 Earnings']
 print (df.tail(5))
-df.plot()
-plt.savefig('sp500_earnings.png')
+df[df.index > '2010-01-01'].plot()
+plt.savefig('sp500-earnings.png')
 ```
 
 ```text
-             Value
-Date              
-2022-02-28  207.87
-2022-03-31  205.14
-2022-04-30  202.06
-2022-05-31  197.94
-2022-06-30  193.36
+            SP 500 Earnings
+Date                       
+2022-02-28           207.87
+2022-03-31           205.14
+2022-04-30           202.06
+2022-05-31           197.94
+2022-06-30           193.36
 ```
 
-![](sp500_earnings.png)
+![](sp500-earnings.png)
 
 SP 500 Earnings Per Share
 
