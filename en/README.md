@@ -97,8 +97,8 @@ Stop hating on lazy people. We didn't even do anything"
 
 ---
 
-Bolsonaro complaining about leftist on his way out was the best
-2022 closer.
+Bolsonaro complaining about leftists on his way out is the best 2022
+closer.
 
 ---
 
