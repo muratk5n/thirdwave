@@ -56,7 +56,7 @@ is cheap, in ambient conditions, release of H2 is straightforward.
 
 ---
 
-It turns out KK ships were somewhat shoddy; Kublai was not a
+It turns out KK ships were somewhat shoddy; My man Kublai was not a
 seafearing kinda guy
 
 "[In 1281] Kublai Khan’s plans were thwarted when a two-day typhoon –
