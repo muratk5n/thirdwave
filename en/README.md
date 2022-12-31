@@ -74,9 +74,8 @@ worth £25 billion a year by 2045"
 
 People just died in their car bcz of snow.. bummer
 
-Newsweek: "In Erie County, where Buffalo, New York, is located—at
-least 12 people died.. some bodies were found overnight in cars and in
-snowbanks"
+Newsweek: "In Erie County [Buffalo, New York] at least 12 people
+died.. some bodies were found overnight in cars and in snowbanks"
 
 ---
 
