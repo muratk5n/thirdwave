@@ -1,12 +1,12 @@
 import datetime, sys, os
 
-ys = [2005,2006,2007,2008,2009,2010,2011,2012,2013,2016,2018,2019,2020,2022]
-
 if len(sys.argv) < 2:
     print ("options: years")
     exit()  
 
 if sys.argv[1] == 'years':
-    for year in ys:
-        os.system("echo '# %d\n' > %d/README.md" % (year,year))
-        os.system("python -u gen.py %d >> %d/README.md" % (year,year))
+    for year in range(2005,2022):
+        d = os.getcwd() + "/" + str(year)
+        if os.path.exists(d):
+            os.system("echo '# %d\n' > %d/README.md" % (year,year))
+            os.system("python -u gen.py %d >> %d/README.md" % (year,year))
