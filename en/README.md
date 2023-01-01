@@ -28,8 +28,8 @@ bomber planes lifting off from nearby US carrier - it sank.
 "@Hy_Economy@mastodon.social
 
 'VisionHydrav (雄涛氢雄) is known to have reached an agreement with
-Rongtong Auto Group to jointly deploy 500 FC shuttle buses to Wuhan
-Iron & Steel. The first batch is said to have been delivered.'"
+Rongtong Auto Group to jointly deploy 500 fuel-cell shuttle buses to
+Wuhan Iron & Steel. The first batch is said to have been delivered.'"
 
 ---
 
