@@ -71,7 +71,7 @@ def conv_xls_csv():
     
 def get_crime_year(year,init=True):
     key = open("../../2019/05/.key/.datagov").read()
-    outfile = '%s/Downloads/fbi/fbi-data/csv/%d.csv' % (os.environ['HOME'], year)
+    outfile = '/opt/Downloads/fbi/fbi-data/csv/%d.csv' % year
     if (init):
         out = open(outfile,"w")
         out.write("state,city,violent-crime,homicide,rape,robbery,aggravated-assault,property-crime,burglary,larceny,motor-vehicle-theft,arson,lat,lon\n")
@@ -81,7 +81,7 @@ def get_crime_year(year,init=True):
         df = pd.read_csv(outfile,header=None)
         last = list(df[1].tail(1))[0]
         print (last)
-    with open('%s/Downloads/fbi/fbi-data/agencies.csv' % os.environ['HOME']) as csvfile:
+    with open('/opt/Downloads/fbi/fbi-data/agencies.csv') as csvfile:
         rd = csv.reader(csvfile,delimiter='|')
         headers = {k: v for v, k in enumerate(next(rd))}
         if not init:
@@ -115,8 +115,27 @@ def get_crime_year(year,init=True):
             out.flush()
     out.close()
 
+def crime_annual_summary(cols):
+    d = "/opt/Downloads/fbi/fbi-data"
+    data = []
+    for i in range(1999,2022):
+        f = d + '/csv/%d.csv' % i
+        if os.path.exists(f) == False: continue
+        df = pd.read_csv(f,na_values=['-',' '])
+        df = df[cols]
+        data.append([i,df.sum().sum()])
+    df = pd.DataFrame(data)
+    df.columns = ['year','crime']
+    df = df.set_index('year')
+    pop = pd.read_csv(d + '/uspop.csv',index_col=0)
+    df['pop'] = pop
+    df['rate'] = (df['crime'] / df['pop']) * 100000
+    return df
+
 
     
 if __name__ == "__main__":
     #conv_xls_csv()
-    get_crime_year(2021,init=False)
+    #get_crime_year(2022,init=True)
+    df = crime_annual_summary(['homicide','rape','robbery','aggravated-assault'])
+    
