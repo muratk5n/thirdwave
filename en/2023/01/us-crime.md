@@ -132,7 +132,6 @@ Out[1]:
 Crime Rates
 
 ```python
-import util as u
 df = u.crime_annual_summary(['homicide','rape','robbery','aggravated-assault'])
 df.rate.plot(title='US Crime Rate Per 100k People')
 plt.savefig('rate1.png')
@@ -142,7 +141,6 @@ plt.savefig('rate1.png')
 
 
 ```python
-import util as u
 df = u.crime_annual_summary(['burglary','larceny','motor-vehicle-theft','arson'])
 df.rate.plot(title='US Crime Rate Per 100k People')
 plt.savefig('rate2.png')
