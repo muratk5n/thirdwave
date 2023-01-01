@@ -22,7 +22,7 @@ esek verildigini goruyoruz.
 
 ![](genelkurmay.jpg)
 
-![](genelkurmay%286%29.jpg)
+![](genelkurmay2.jpg)
 
 ![](baykal-heman.jpg)
 

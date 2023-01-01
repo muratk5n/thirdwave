@@ -15,7 +15,7 @@ Alttaki karikatür dergisi başlığı, Ergenekon olayı patladıktan sonra
 çıktı ve Türkiye siyasi mizahının içinde olduğu hazin durumu
 yansıtmaktadır.
 
-![](fft16_mf72274.Jpeg)
+![](fft16_mf72274.jpg)
 
 Tam bir beyin durması durumunu gözlüyoruz.Not: The Onion'ın unutulmaz
 başlıklarından bir tanesi "Suriye 15 Milyon Arap Barındırıyor"

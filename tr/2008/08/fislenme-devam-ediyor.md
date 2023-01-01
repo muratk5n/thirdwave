@@ -16,7 +16,7 @@ Deniz Gokce: Kod adı "Noel Baba" olan Deniz Gökçe, küresel piyasa ile ilişk
 
 Ridvan Dilmen: "Şeytan" kod adlı Rıdvan Dilmen, Fenerbahçe Cumhuriyeti ajanlarının en önde gelen isimlerindendir. GS/FB, BJK/FB çerçevesinde bölücü faliyetleri tespit edilmiştir. Fenerbahçe Cumhuriyeti eşbaşkanı Tayyip Erdoğan tarafından enforme edilmektedir.
 
-![](h%25FDncal%2Bulu%25E7.jpg)
+![](hincalBuluc.jpg)
 
 Hincal Uluc: Kimse tarafından enforme edilmemektedir. Zaten futboldan pek anlamamaktadır. Dezenformasyon kampanyaları için kullanılmaktadır.
 
