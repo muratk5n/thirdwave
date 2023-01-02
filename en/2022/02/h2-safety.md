@@ -47,9 +47,10 @@ Atmosphere
 H2 is a light molecule if it in the atmosphere it will leak into space
 [2]. Some observed [1] that hydrogen in the atmosphere can destroy a
 molecule known as the hydroxyl radical that otherwise destroys
-methane—a gas that contributes to greenhouse warming, but the problem
-here is methane itself, whose emission would be cut anyway due to a
-clean alternative being available now, the alternative being hydrogen.
+methane—a gas that contributes to greenhouse warming, but the real
+problem here is methane itself, whose emission would be cut anyway due
+to a clean alternative being available now, the alternative being
+hydrogen.
 
 Reference
 
