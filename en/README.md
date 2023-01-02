@@ -103,7 +103,7 @@ His is an alternative approach to fusion.
 
 😂 😂 😂 
 
-Nature: [Down with the Big Bang](https://www.nature.com/articles/340425a0)
+[Nature](https://www.nature.com/articles/340425a0): Down with the Big Bang
 
 ---
 
