@@ -40,3 +40,24 @@ codes and standards based on decades of research and testing by
 private sector companies. These standards have helped build processes
 that mitigate potential harms.
 
+<a name='atmo'/>
+
+Atmosphere
+
+H2 is a light molecule if it in the atmosphere it will leak into space
+[2]. Some observed [1] that hydrogen in the atmosphere can destroy a
+molecule known as the hydroxyl radical that otherwise destroys
+methane—a gas that contributes to greenhouse warming, but the problem
+here is methane itself, whose emission would be cut anyway due to a
+clean alternative being available now, the alternative being hydrogen.
+
+Reference
+
+[1] https://www.caryinstitute.org/news-insights/blog-translational-ecology/hydrogen-fuels
+
+[2] https://en.wikipedia.org/wiki/Atmospheric_escape
+
+
+
+
+
