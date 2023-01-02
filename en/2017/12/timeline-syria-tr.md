@@ -19,12 +19,19 @@
        occurred in Tunisia, following a street vendor's
        self-immolation     
 * 2011
+     * 25/01: Egyptian revolution begins, clashes break out in Tahrir Square
+     * 11/02: Egyptian President Mubarak is ousted after 18 days of demonstrations
+     * 15/02: Protests in Benghazi Libya begins which would lead to
+       clashes with security forces who fired on the crowd. The
+       protests would later escalate into a rebellion.
      * 15/03: Syrian civil war started     
      * 01/08: TR embraced an explicit policy of regime change in Syria
        and threw open its doors to thousands of Syrian refugees     
      * 13/09: Leak on a pro-Kurdish channel reveals the sides in TR's
        long-running conflict have been talking in Oslo in secret, with
-       Norway acting as the host     
+       Norway acting as the host       
+     * 20/10: Muammar Gaddafi, the deposed leader of Libya, was
+       captured and killed after the Battle of Sirte     
      * 26/11: PM undergoes an intestinal surgery
 * 2012
 
