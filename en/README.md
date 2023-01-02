@@ -109,13 +109,18 @@ Nature: [Down with the Big Bang](https://www.nature.com/articles/340425a0)
 
 That's a lot of crisis! 
 
-Wired: [Cosmology Is in Crisis Over How to Measure the Universe](https://www.wired.com/story/cosmology-is-in-crisis-over-how-to-measure-the-universe/)
+[Wired](https://www.wired.com/story/cosmology-is-in-crisis-over-how-to-measure-the-universe/):
+Cosmology Is in Crisis Over How to Measure the Universe
 
-New Scientist: [Cosmological crisis: We don't know if the universe is round or flat](https://www.newscientist.com/article/2222159-cosmological-crisis-we-dont-know-if-the-universe-is-round-or-flat/)
+[New Scientist](https://www.newscientist.com/article/2222159-cosmological-crisis-we-dont-know-if-the-universe-is-round-or-flat/):
+Cosmological crisis: We don't know if the universe is round or flat
 
-Scientific American: [Best-Yet Measurements Deepen Cosmological Crisis](https://www.scientificamerican.com/article/best-yet-measurements-deepen-cosmological-crisis/)
+[Scientific American](https://www.scientificamerican.com/article/best-yet-measurements-deepen-cosmological-crisis/):
+Best-Yet Measurements Deepen Cosmological Crisis
 
-Business Insider: [The universe is expanding faster than scientists thought, a study confirms — a 'crisis in cosmology' that could require a 'new physics'](https://www.businessinsider.com/universe-expansion-crisis-cosmology-new-physics-hubble-constant-2019-10)
+[Business Insider](https://www.businessinsider.com/universe-expansion-crisis-cosmology-new-physics-hubble-constant-2019-10):
+The universe is expanding faster than scientists thought, a study
+confirms — a 'crisis in cosmology' that could require a 'new physics'
 
 ---
 
