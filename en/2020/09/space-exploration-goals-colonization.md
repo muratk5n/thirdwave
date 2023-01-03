@@ -49,5 +49,9 @@ organizations can explore space, in the same way he was able to build
 Amazon on elements that were available to him when he started in the
 90s.
 
+References
+
+[1] [Why Not Mars](https://idlewords.com/2023/1/why_not_mars.htm)
+
 [[Up](../../2018/09/junk-science.html)]
 

@@ -46,7 +46,7 @@ easily.
 
 ---
 
-The Deakin University research mentioned [previously](2022/02/h2-boron-nitrade.html)
+The Deakin University research mentioned [previously](../../2022/02/h2-boron-nitrade.html)
 accomplishes two things; one is to seperate crude oil gases, the other
 is to capture and store H2 with boron nitrade powder. Prof Ying Chen
 says the storage part will work on its own, nanopowder captures H2 and keeps it,

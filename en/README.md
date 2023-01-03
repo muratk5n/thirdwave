@@ -59,7 +59,7 @@ HQ. Don’t mess with @pixelfed bros"
 
 ---
 
-Pixelfeed is a photo sharing platform which also implements the
+Pixelfed is a photo sharing platform which also implements the
 Mastodon protocol ActivityPub, so it's a federated Instagram
 competitor just like Mastodon is a federated, distributed soc media
 competitor. Maybe ActivityPub will kill more than one bird (!) with
