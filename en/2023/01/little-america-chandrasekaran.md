@@ -13,6 +13,8 @@ from Qala Bost, the ancient Ghaznavid arch.. the Afghans came up with
 a new name [for the area]. They started to call the place Little
 America...
 
+<a name='cotton'/>
+
 In January 2010..  Colonel Randy Newman.. asked his staff to organize
 a briefing about agriculture in the district with the smartest guy
 they could find. The call went to Wes Harris, a sturdy, mustachioed
