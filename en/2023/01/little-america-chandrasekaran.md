@@ -8,15 +8,10 @@ team of U.S. advisers in 1952 under his Point Four assistance program,
 which aimed to blunt Soviet influence in the developing world. One of
 the team’s first tasks was to find a suitable town to house the
 Americans and Afghans working for the new Helmand Valley Authority.
-
 The team eventually determined that a plot along the river not far
-from Qala Bost, the ancient Ghaznavid arch, was the best site, in part
-because it was situated near a grove of trees... The area had long
-been called Lashkar Gah—“army barracks” in Persian— because it was
-where the Ghaznavid kings had quartered their troops.  Patterson
-wanted to name the new community Town of Helmand. The Afghans said
-Lashkar Gah was just fine.  Soon, however, the Afghans came up with a
-new name. They started to call the place Little America...
+from Qala Bost, the ancient Ghaznavid arch.. the Afghans came up with
+a new name [for the area]. They started to call the place Little
+America...
 
 In January 2010..  Colonel Randy Newman.. asked his staff to organize
 a briefing about agriculture in the district with the smartest guy
