@@ -8,10 +8,10 @@ spend more, on an unchanging set of goods and services, which causes
 prices to increase.
 
 Wages come from employers. Businesses work on credit, and credit is
-always newly printed money. Therefore when businesses hand out
-salaries they are handing out new money. That could result in
-inflation, if there is too much credit out there, then the economy
-"stars to heat up" i.e. inflation.
+newly printed money. Therefore when businesses hand out salaries they
+are handing out new money. That could result in inflation, if there is
+too much credit out there, then the economy "stars to heat up"
+i.e. inflation.
 
 Note that bank credit does not originate from bank customers' savings,
 they are printed money, so money base expands. The system works
@@ -32,9 +32,65 @@ then no. [Research](https://www.researchgate.net/publication/227368010_Inflation
 on this area found a lagged response in inflation for government spending
 where it existed. The true determinant seemed to be unit labor costs.
 
-Marginal Revolution University
+Post 2008 bailouts provides the perfect example; money was dumped on
+corporations, their profits soared. But the end-result was not
+inflationary.  People's wages were stagnating.
 
-Causes of Inflation
+Take pre-1973. Some argue "government spending for the Vietnam war
+caused inflation".
+
+See article [here](https://www.thebalancemoney.com/vietnam-war-facts-definition-costs-and-timeline-4154921)
+I took data from it directly, shifted source vars one year ahead to see
+causal effects better,
+
+```python
+import pandas as pd, io
+
+s = """
+YEAR    DEFICIT GROWTH  INFLATION  UNEMPLOYMENT
+1965    $1B     6.5%    1.9%       4.0%
+1966    $4B     6.6%    3.5%       3.8%
+1967    $9B     2.7%    3.0%       3.8%
+1968    $25B    4.9%    4.7%       3.4%
+1969    -$3B    3.1%    6.2%       3.5%
+1970    $3B     0.2%    5.6%       6.1%
+1971    $23B    3.3%    3.3%       6.0%
+1972    $23B    5.2%    3.4%       5.2%
+1973    $15B    5.6%    8.7%       4.9%
+"""
+s = s.replace("%","").replace("$","").replace("B","")
+df = pd.read_csv(io.StringIO(s),sep='\s*').set_index("YEAR")
+df['GROWTH'] = df.GROWTH.shift(1)
+df['UNEMPLOYMENT'] = df.UNEMPLOYMENT.shift(1)
+df['DEFICIT'] = df.DEFICIT.shift(1)
+df.corr()
+```
+
+```text
+               DEFICIT    GROWTH  INFLATION  UNEMPLOYMENT
+DEFICIT       1.000000  0.123867   0.490311      0.264804
+GROWTH        0.123867  1.000000   0.138173     -0.504883
+INFLATION     0.490311  0.138173   1.000000     -0.138800
+UNEMPLOYMENT  0.264804 -0.504883  -0.138800      1.000000
+```
+
+There is strong correlation with gov spending and inflation, but also
+between growth and unemployment which makes sense, wages are major
+contribution to inflation.
+
+Doc mentions gov spending wasn't entirely for the war; LBJ did some
+social spending (money went to ppl direct).
+
+Inflation wasn't too high pre-73. Starting 73 it was but oil shortages
+started then.
+
+The draft might have played a role; >2 mil was drafted into Vietnam,
+1% of population, that means more money was spent on people. Now
+population of >300 mil has mil active personnel less than 1.5 mil. Gov
+still deficit spends but if it all goes to Reytheon, Lockheed, from
+there to some offshore haven, then to stocks - no inflation.
+
+Marginal Revolution University
 
 <iframe width="340" src="https://www.youtube.com/embed/gi7jx5IJtik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
