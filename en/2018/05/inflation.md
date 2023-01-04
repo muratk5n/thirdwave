@@ -5,7 +5,7 @@ directly to people (which has happened in some countries), and/or
 supply-chain related issues are present, inflation is almost always
 highly correlated with wages. People need to have more money so they
 spend more, on an unchanging set of goods and services, which causes
-prices to increase.
+prices to increase. 
 
 Wages come from employers. Businesses work on credit, and credit is
 newly printed money. Therefore when businesses hand out salaries they
@@ -25,6 +25,16 @@ Bank credit is "printed money", brought into existence out of thin
 air.. Just type bunch of numbers on a computer, boom. New money. There
 is good reason for creating money and not simply lending out savings;
 If only savings were lent out, growth + same money base = deflation.
+
+If the set of goods of services in an economy grows (more production)
+in tandem with the money base in that economy, there would not be
+inflation. Sadly keeping this due in perfect sync is an extremely
+tough job. The Central Bank has only one tool at its disposal to tune
+this - the (short term) interest rate. By raising rates during econ
+that is heating up, the idea is to raise borrowing costs and slow the
+economy. The effect is extremely indirect, the aim is companies to
+borrow less, to expand less, therefore pay employees less. It sounds
+harsh but this is the system in play. 
 
 Are government deficits inflationary? If new, more money reaches
 citizens directly, it could be... If new money goes to corporations,
