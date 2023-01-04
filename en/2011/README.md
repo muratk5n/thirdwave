@@ -56,8 +56,6 @@
 
 [Debt, The First 5000 Years](11/debt-the-first-5000-years-graeber.html)
 
-[The Logistic Equation](11/logistic-equation.html)
-
 [Statistical Insignificance](11/statistical-insignificance.html)
 
 [The End of Work](11/the-end-of-work-rifkin.html)
