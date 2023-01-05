@@ -89,11 +89,6 @@ promised—because the Long Tail will rescue them"
 
 ---
 
-TASS: "Brazil’s newly-elected president ready to reset relations with
-Russia"
-
----
-
 "[I]t is fundamental research—investigations whose findings don't seem
 to be immediately useful—that suffer first when technological
 development slows. Today those areas are clearly cosmology and
@@ -124,7 +119,7 @@ is screwed.
 
 ---
 
-Hard crime went nuts during Dubya, property crime during Bama
+Hard crime was up during Dubya, property crime during Bama
 
 ---
 
