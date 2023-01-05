@@ -11,7 +11,6 @@ ship. 1/3 of mortality rate is nearly 1%. So if given the chance,
 covid can kill 1% of an entire population. As a reference point,
 annual growth of world population hovers around the same ratio
 
-
 Code is from [2]
 
 <a mame='mortality'/>

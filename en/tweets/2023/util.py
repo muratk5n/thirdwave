@@ -8,6 +8,13 @@ import urllib.request as urllib2
 from io import BytesIO
 import pandas_ta as ta
 
+def covid_hospitalization():
+   df = pd.read_csv('https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/hospitalizations/covid-hospitalizations.csv',parse_dates=True)
+   df = df[df.indicator == 'Daily hospital occupancy per million']
+   df = df[['date','entity','value']]
+   df.columns = ['date','country','Daily hospital occupancy per million']
+   df = df.set_index('date')
+   return df
 
 def boxofficemojo(q):
     q = q.replace(" ","+").lower()

@@ -41,6 +41,14 @@ background is absent (or almost absent). In this case it has sense to
 return to the earlier “quantes ageing” theory which explains also the
 known “red shift”.
 
+Eric Lerner
+
+Big Bang supposedly occurred only about twenty billion years ago,
+nothing in the cosmos can be older than this. Yet in 1986 astronomers
+discovered that galaxies compose huge agglomerations a billion
+light-years across; such mammoth clusterings of matter must have taken
+a hundred billion years to form [3].
+
 Penrose
 
 RP said "When you plot CMB intensity against each frequency you get
@@ -56,5 +64,7 @@ References
 [1] [Journal Archives, 1999, June, Vol 2 No 2](http://jae.ece.ntua.gr/archive/archive_index.html#ID1999-)
 
 [2] [Al Jazeera Documentary](https://youtu.be/WAx9Z9DyMHY)
+
+[3] Lerner, [The Big Bang Never Happened](../../2023/01/the-big-bang-never-happened-lerner.html)
 
 [[Up](../../2018/09/junk-science.html)]
