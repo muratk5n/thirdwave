@@ -16,8 +16,6 @@ on if they traded SPY instead of the stocks they traded"
 
 ---
 
-Corp muckers...
-
 "@scott@carfree.city
 
 \#Jaywalking, the fake 'crime' created by automobile industry lobbying
@@ -35,8 +33,8 @@ Al Monitor: "Ronaldo signs for [Saudi] Al Nassr in deal worth 'more than
 Theather's revenue needs to come out of the gross not be a multiple of
 the budget.  *The Joker* had a budget of abt 70 mil..?  Did the
 theathers say "oh we'll take pity on this tiny little movie, give you
-a pass, charge you less"? No. That's not how it works.  The more a
-movie makes, the more a theather makes - no matter the budget.
+a pass, charge you less"? That's not how it works. The more a movie
+makes, the more a theather makes - no matter the budget.
 
 ---
 
