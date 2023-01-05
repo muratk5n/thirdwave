@@ -1,144 +1,146 @@
 
-"A fundamental breakthrough in chemistry promises to unlock ammonia as
-a clean fuel, and it could help decarbonize the entire chemical
-industry in the process. Rice University researchers have created a
-small, LED-powered device that converts ammonia to hydrogen on the
-fly. It uses a light-driven catalyst that's as efficient as expensive
-thermal catalysts that need thousand-degree temperatures to operate,
-and it's made from cheap, abundant copper and iron"
-
-[[-]](https://newatlas.com/energy/light-catalyst-ammonia-rice/)
+There needs to be an ETF for these "Congressal endorsed" stocks.
 
 ---
 
-Yicai: "China’s SinoHytec Gains After Yutong Places Order for 500 Fuel Cell Engines"
+Government of the market, by the market, for the market.
+
+Unusual Whales: "2022 Congressional Stock Trading Report.. By
+analysing publicly accessible financial disclosures, we found that a
+quarter of Congress actively traded up to $788M in various assets
+through 12,700+ transactions in 2022... Congress beat SPY based on
+total returns in 2022, as well as a secondary way of calculating based
+on if they traded SPY instead of the stocks they traded"
+
+[[-]](https://unusualwhales.com/politics/article/congress-trading-report-2022)
 
 ---
 
-Maersk is mostly responsible of course.. they needed armed security,
-they were likely trying to cut costs.
+Corp muckers...
 
-"Approximately half of the crewmembers..  are claiming that the
-shipping company, Maersk Lines Limited, willfully allowed the Maersk
-Alabama to sail directly into pirate-infested waters despite receiving
-multiple warnings to avoid the area. And the lawsuit further claims
-that the Alabama didn’t have adequate anti-pirate security measures. "
+"@scott@carfree.city
 
-[[-]](https://www.vbattorneys.com/blog/maersk-alabama-and-somali-pirates-suit)
+\#Jaywalking, the fake 'crime' created by automobile industry lobbying
+to blame victims of #TrafficViolence, no longer exists in California"
 
 ---
 
-Watched *Captain Philips* - the cargo ship hijacking movie. Shipping
-is rough.
+Huge news.. Great for football in the Middle East.
+
+Al Monitor: "Ronaldo signs for [Saudi] Al Nassr in deal worth 'more than
+200m euros'"
 
 ---
 
-
-This "AI" is truly powerful
-
-"@ct_bergstrom@fediscience.org
-
-I've figured out what pisses me off so much about Facebook's Galactica
-demo. It's not because people can use to to write bad essays for their
-homework. There are plenty of large language models that can do
-that. It's because Facebook is presenting it as something that it most
-definitely is not. Facebook is selling it as a knowledge engine, a
-'new interface to access and manipulate what we know about the
-universe'. Actually it's just a random bullshit generator"
+Theather's revenue needs to come out of the gross not be a multiple of
+the budget.  *The Joker* had a budget of abt 70 mil..?  Did the
+theathers say "oh we'll take pity on this tiny little movie, give you
+a pass, charge you less"? No. That's not how it works.  The more a
+movie makes, the more a theather makes - no matter the budget.
 
 ---
 
-Trailer for *65* looks fine
+I don't think the 'multiply budget with two' trick is a sound
+estimation approach for marketing + distribution. 
 
 ---
 
-"@ernie@writing.exchange
+Example *Toy Story 4*, grossed 1.13 bil, cost 200 mil. Using 40% of
+the gross, half of budget for (good) marketing,
 
-Some real hardcore Streisand Effecting going on right now at Meta
-HQ. Don’t mess with @pixelfed bros"
+```python
+gross = 1130
+budget = 200
+marketing = budget/2
+print (gross - (marketing + budget + gross*0.40), 'mil')
+```
 
----
+```text
+378.0 mil
+```
 
-Pixelfed is a photo sharing platform which also implements the
-Mastodon protocol ActivityPub, so it's a federated Instagram
-competitor just like Mastodon is a federated, distributed soc media
-competitor. Maybe ActivityPub will kill more than one bird (!) with
-one stone.
-
----
-
-"@pixelfed@mastodon.social
-
-Instagram is trying to intimidate us with threats of legal action"
+This movie's profit was $368 million. Close.
 
 ---
 
-‘Green Methane’ is not a good idea - it will not spur the consumer
-side to switch to clean fuels faster, the carbon budgeting will be
-tricky. It will create more cases of Volkswagen-level cheating.
+I'd say roughly 40% of the gross is for dist, and half the budget for
+marketing
+
+"Opening weekend the theater makes between 10 to 20 percent of ticket
+sales. Week 2 15 to 30 percent. And so on till it's a 50 50 split
+after about 4 to 5 week"
 
 ---
 
-It has a `:blobcheer:` ok..
+How to calculate the profit of a movie? They are not published
+immediately, but with known budget, box office gross we could estimate
+a total cost (including marketing, distribution).
 
 ---
 
-My MD host does not have party parrot emoji? 😶 Nooo
+"Where Did the Long Tail Go?.. Back in 2006, [Chris] Anderson
+predicted the End of the Blockbuster — but what has happened since
+then?..  the Long Tail is a cruel joke. It’s a fairy tale we’re told
+to make us feel good about all those marginalized creative
+endeavors. Their happily-ever-after day will come—or so we are
+promised—because the Long Tail will rescue them"
+
+[[-]](https://tedgioia.substack.com/p/where-did-the-long-tail-go)
 
 ---
 
-This is Eric Lerner's fusion company; they were researching dense
-plasma fusion for propulsion for NASA, until 2001 funding cuts.
-His is an alternative approach to fusion.
-
-[[-]](https://www.lppfusion.com/science/space-propulsion/)
+TASS: "Brazil’s newly-elected president ready to reset relations with
+Russia"
 
 ---
 
-"JWST Images Raise Questions about the Big Bang"
+"[I]t is fundamental research—investigations whose findings don't seem
+to be immediately useful—that suffer first when technological
+development slows. Today those areas are clearly cosmology and
+particle or high-energy physics—where the link between science and
+technology, theory and human progress, has been broken as in
+postclassical Greece, the stagnation of society has led to the return
+of mathematical myths, a retreat from the problems of base matter to
+the serene contemplation of numbers."
 
-[[-]](https://youtu.be/d6G6IXrLSg0?t=237)
-
----
-
-😂 😂 😂 
-
-[Nature](https://www.nature.com/articles/340425a0): Down with the Big Bang
-
----
-
-That's a lot of crisis! 
-
-[Wired](https://www.wired.com/story/cosmology-is-in-crisis-over-how-to-measure-the-universe/):
-Cosmology Is in Crisis Over How to Measure the Universe
-
-[New Scientist](https://www.newscientist.com/article/2222159-cosmological-crisis-we-dont-know-if-the-universe-is-round-or-flat/):
-Cosmological crisis: We don't know if the universe is round or flat
-
-[Scientific American](https://www.scientificamerican.com/article/best-yet-measurements-deepen-cosmological-crisis/):
-Best-Yet Measurements Deepen Cosmological Crisis
-
-[Business Insider](https://www.businessinsider.com/universe-expansion-crisis-cosmology-new-physics-hubble-constant-2019-10):
-The universe is expanding faster than scientists thought, a study
-confirms — a 'crisis in cosmology' that could require a 'new physics'
+\#Lerner
 
 ---
 
-"@aalex@climatejustice.rocks
+"Big Bang supposedly occurred only about twenty billion years ago,
+nothing in the cosmos can be older than this. Yet in 1986 astronomers
+discovered that galaxies compose huge agglomerations a billion
+light-years across; such mammoth clusterings of matter must have taken
+a hundred billion years to form."
 
-\#India is planning a $2 billion incentive for the green #hydrogen
-industry, in an attempt to lower costs of the #fuel and to become a
-major exporter" via Reuters
-
-[[-]](https://climatejustice.rocks/@aalex/109618728018885826)
+\#Lerner
 
 ---
 
-"@Hy_Economy@mastodon.social
+Hard crime is the type where if arrested you can find yourself in a
+plane sitting next to Danny Trejo, Steve Buschemi, John Malkovich and
+after a scuffle JM is like 'I have the only gun on board', everybody
+is screwed.
 
-'The largest PEM electrolyzer in China started operation at
-Zhongyuan oilfield. The electrolyzer was installed by Sinopec with a
-daily production capacity for green H₂ of 1.12 tons.'"
+---
+
+Hard crime went nuts during Dubya, property crime during Bama
+
+---
+
+[Link](tweets/2023/fbi_badge_1.jpg)
+
+---
+
+Calculated US annual crime rate since 1999. First graph is violent
+crime, second property. Data is from FBI.
+
+[[-]](2023/01/us-crime.html#fbi)
+
+---
+
+CNBC: "Europe starts 2023 with historic winter heatwave; snow shortage
+forces ski resorts to close"
 
 ---
 
