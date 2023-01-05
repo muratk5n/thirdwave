@@ -133,7 +133,7 @@ Hard crime went nuts during Dubya, property crime during Bama
 ---
 
 Calculated US annual crime rate since 1999. First graph is violent
-crime, second property. Data is from FBI.
+crime, second is property. Data from FBI.
 
 [[-]](2023/01/us-crime.html#fbi)
 
