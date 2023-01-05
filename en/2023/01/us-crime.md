@@ -156,9 +156,9 @@ References
 
 [1] [FBI](https://crime-data-explorer.fr.cloud.gov/pages/docApi)
 
-[2] [Data.gov Signup](https://api.data.gov/signup/)
+[2] [Data.gov signup](https://api.data.gov/signup/)
 
-[3] [Data](https://drive.google.com/uc?export=view&id=1v1oYTeH7wQpnB-Cy1XxEKie72hpqv6GS)
+[3] [Data](https://drive.google.com/uc?export=view&id=1v1oYTeH7wQpnB-Cy1XxEKie72hpqv6GS) (zip, 10 MB)
 
 [4] [FBI, Crime in the US](https://ucr.fbi.gov/crime-in-the-u.s/)
 
