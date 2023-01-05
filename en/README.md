@@ -76,17 +76,6 @@ a total cost (including marketing, distribution).
 
 ---
 
-"Where Did the Long Tail Go?.. Back in 2006, [Chris] Anderson
-predicted the End of the Blockbuster — but what has happened since
-then?..  the Long Tail is a cruel joke. It’s a fairy tale we’re told
-to make us feel good about all those marginalized creative
-endeavors. Their happily-ever-after day will come—or so we are
-promised—because the Long Tail will rescue them"
-
-[[-]](https://tedgioia.substack.com/p/where-did-the-long-tail-go)
-
----
-
 "[I]t is fundamental research—investigations whose findings don't seem
 to be immediately useful—that suffer first when technological
 development slows. Today those areas are clearly cosmology and
