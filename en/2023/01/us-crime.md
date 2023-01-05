@@ -87,8 +87,9 @@ see the zip below [3]. The xls to csv conversion code is in `util.py`.
 
 In order to retrieve an entire year from the API data is retrieved for
 each agency (PDs), the master list is in `agencies.csv`. Sign-up and
-get the key [2], example use is below.
+get the key [2].
 
+Example,
 
 ```python
 import requests, json
