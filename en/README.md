@@ -1,5 +1,5 @@
 
-There needs to be an ETF for these "Congressal endorsed" stocks.
+There needs to be an ETF for these "Congressionally endorsed" stocks.
 
 ---
 
