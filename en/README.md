@@ -83,7 +83,7 @@ generation on land.
 
 ---
 
-When subs need air what do they use? Electrolysis, of course!
+When submarines need air what do they use? Electrolysis, of course!
 Electrolysis of water generates hydrogen **and** oxygen. Saw in a sub
 docu.
 
