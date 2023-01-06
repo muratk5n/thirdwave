@@ -95,7 +95,7 @@ Reshare \#2015
 
 Saw this at a bookstore in Berlin today. A piece of history etched in stone
 
-![](tweets/2015/20150716_112800.jpg)
+![](mbl/2015/20150716_112800.jpg)
 
 ---
 
