@@ -40,7 +40,7 @@ than previous sun-powered water-splitting devices \#hydrogen #solar"
 Hey everyone. Just wanted to eliminate the confusion and let you know
 that this is actually me. 😂 Hope you are having an awesome Thursday!"
 
-<img width="140" src="https://files.mastodon.social/media_attachments/files/109/638/531/136/943/525/original/d8824ef1160478e6.jpeg"/>
+<img width="200" src="https://files.mastodon.social/media_attachments/files/109/638/531/136/943/525/original/d8824ef1160478e6.jpeg"/>
 
 ---
 
