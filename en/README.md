@@ -7,8 +7,8 @@ and it seems to be working out shockingly well"
 
 ---
 
-It sounds like the finding can help massively increase CSP output; an
-interesting combo btw panels and solar concentration. 
+It sounds like the invention can help massively increase CSP output;
+an interesting combo btw panels and solar concentration.
 
 Science Daily: "A new kind of solar panel, developed at the University
 of Michigan.. represents a major leap in the technology, nearly 10
