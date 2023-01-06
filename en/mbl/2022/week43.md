@@ -655,7 +655,7 @@ resolution, pose limits"
 
 ---
 
-CSV/file ref; if URL is `../en/tweets/2022/` ref is `gfp-2022.csv` 
+CSV/file ref; if URL is `../en/mbl/2022/` ref is `gfp-2022.csv` 
 then file itself is [here](gfp-2022.csv).
 
 ---

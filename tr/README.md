@@ -48,7 +48,7 @@ başlar.
 
 [Ara](search.html)
 
-[Tweet Arşivi](/tweets/README.md)
+[Mikroblog Arşivi](/tweets/README.md)
 
 [PDF](https://drive.google.com/uc?export=view&id=1MUWi8gkaZO0Qzn5YbEH-9HlAWJ4xDmD5)
 

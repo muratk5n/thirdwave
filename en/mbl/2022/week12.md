@@ -125,7 +125,7 @@ strategy"
 Ran the code below at different times, PM 2.5 is mostly above 80.
 Many other cities are in bad shape too, thanks to fossil. Data is from
 Openweathermap who take their data directly from [SILAM](http://silam.fmi.fi/aqforecast.html).
-My access code is [here](tweets/2022/util.py).
+My access code is [here](util.py).
 
 ```python
 import util, datetime

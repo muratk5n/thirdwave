@@ -1,6 +1,6 @@
 # Week 36
 
-<img src="https://muratk3n.github.io/thirdwave/en/tweets/2019/nikolainv2.jpg"/>
+<img src="nikolainv2.jpg"/>
 
 ---
 

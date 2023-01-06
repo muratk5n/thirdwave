@@ -9,7 +9,7 @@
 
 ---
 
-<img width="200" src="https://muratk3n.github.io/thirdwave/en/tweets/2020/assslap.gif"/>
+<img width="200" src="assslap.gif"/>
 
 ---
 

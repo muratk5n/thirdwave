@@ -164,7 +164,7 @@ Index(['index', 'Country', 'GII', ' Innovation Efficiency Ratio',
 Just found out about [Global Innovation Index](https://www.wipo.int/global_innovation_index/en/2020/). 
 
 Someone shared its data on [GH](https://github.com/avinzons/GIIDataViz/), local
-version [here](tweets/2021/GII-2021.csv).
+version [here](GII-2021.csv).
 
 ```python
 import pandas as pd

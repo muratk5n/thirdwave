@@ -4,6 +4,3 @@
 
 [TR](/thirdwave/tr/)
 
-
-
-
