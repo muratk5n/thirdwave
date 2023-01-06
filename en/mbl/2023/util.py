@@ -8,6 +8,36 @@ import urllib.request as urllib2
 from io import BytesIO
 import pandas_ta as ta
 
+def sm_plot_ukr2(file,oldfile,geo):
+    sm_plot_ukr1(file,geo)    
+    df = np.array(pd.read_csv(oldfile,header=None))
+    df[:, [1, 0]] = df[:, [0, 1]]
+    sm.plot_line(df,color='gray',linestyle='solid')
+        
+def sm_plot_ukr1(file,geo):
+    df = np.array(pd.read_csv(file,header=None))
+    df[:, [1, 0]] = df[:, [0, 1]]
+    clat,clon=48, 37; zoom = 0.6
+    sm.plot_countries(clat,clon,zoom,outcolor='lavenderblush')
+    sm.plot_line(df,color='red')
+    
+    df = np.array(pd.read_csv('ukrdata/donetsk.csv',header=None))
+    sm.plot_line(df,color='pink')
+    plt.text(37,48,'Donetsk',color='gray')
+
+    df = np.array(pd.read_csv('ukrdata/kherson.csv',header=None))
+    sm.plot_line(df,color='pink')
+    plt.text(33,46.5,'Kherson',color='gray')
+
+    df = np.array(pd.read_csv('ukrdata/zaporizhia.csv',header=None))
+    sm.plot_line(df,color='pink')
+    plt.text(35,47,'Zaporizhia',color='gray')
+
+    plt.text(38.3,49,'Luhansk',color='gray')
+    eps = 0.1
+    for i,(lat,lon) in enumerate(geo):
+        plt.text(lon+eps,lat-eps,i+1)
+        plt.plot(lon,lat,'g+')
 
 def crime_vio_state(state):
    # ['burglary','larceny','motor-vehicle-theft','arson']
