@@ -1,4 +1,4 @@
-# Tweets - Week 15
+# Week 15
 
 Inequality - Gini plot update, utilizing more granular data from Fred
 per wealth percentile blocks.

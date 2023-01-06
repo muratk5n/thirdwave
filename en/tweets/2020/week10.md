@@ -1,4 +1,4 @@
-# Tweets - Log
+# Week 10
 
 Schumah threatening con judges on abortion? He is like "we can't lose
 our faux issue! That issue is the only reason we are here! That's how

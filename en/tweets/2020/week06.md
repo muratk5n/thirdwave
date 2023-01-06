@@ -1,4 +1,4 @@
-# Tweets - Week 6
+# Week 6
 
 Apocalyptic movie script: airborne virus originating from China scares
 off neighboring countries so they collectively nuke China. But the

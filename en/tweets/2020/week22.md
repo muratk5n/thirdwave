@@ -1,4 +1,4 @@
-# Tweets - Week 22
+# Week 22
 
 If you think u can parachute in on the Dem nomination, u are even
 dumber than your father Fredo... And that guy was dumb.. He was mostly

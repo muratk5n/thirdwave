@@ -1,4 +1,4 @@
-# Tweets - Week 13
+# Week 13
 
 Goldtards, libertards are eagerly waiting for a dollar collapse -
 "will it be our time..? is it this time.. is it?" Bitcointards are

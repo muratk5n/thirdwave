@@ -1,4 +1,4 @@
-# Tweets - Week 2
+# Week 2
 
 This guy lost it, killed himself \#SNL
 
