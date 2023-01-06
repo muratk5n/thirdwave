@@ -159,10 +159,6 @@ now 1.50%,..,1.45%,1.40%. The decrease of increase \#hedgeye
 
 ---
 
-<img width="150" src="https://muratk3n.github.io/thirdwave/en/tweets/2019/musk_smoke.png"/>
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I will do everything I can to stop a war with Iran.</p>&mdash; Bernie Sanders (@BernieSanders) <a href="https://twitter.com/BernieSanders/status/1215683861289558019?ref_src=twsrc%5Etfw">January 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
