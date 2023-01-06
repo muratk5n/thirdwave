@@ -749,7 +749,7 @@ horror of socialist America is "free vacations."
 
 ---
 
-<img width="400" src="https://muratk3n.github.io/thirdwave/en/tweets/2019/clarkson_musk.png"/>
+<img width="400" src="clarkson_musk.png"/>
 
 One of these guys really [knows](https://www.alphr.com/cars/1002996/jeremy-clarkson-thinks-hydrogen-fuel-is-the-future-of-cars) cars, the other doesn't. Guess which is which.
 

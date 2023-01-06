@@ -178,7 +178,7 @@ Just saw this by the metro line today, warning passengers about a
 meters. I believe they are talking about the lines that go above the
 trains to power them?
 
-<img width="300" src="https://raw.githubusercontent.com/muratk3n/thirdwave/master/en/tweets/2019/train1.png"/>
+<img width="300" src="train1.png"/>
 
 BTW this is an incredibly stupid design. You could safely and cleanly power the trains with hydrogen, no need for such crazy warnings and no need need for mile long cables. 
 

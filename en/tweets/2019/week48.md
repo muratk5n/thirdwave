@@ -496,8 +496,7 @@ but u need to learn to respect the presence of the other side.
 
 ---
 
-It's been done
-[before](https://muratk3n.github.io/thirdwave/en/tweets/2019/week37.html#transistorPatent);
+It's been done [before](week37.html#transistorPatent);
 federal government forced AT&T to share its know-how on transistors
 which made the later innovation in electronics possible.
 

@@ -370,7 +370,7 @@ went to Warren (the pink line).
 
 From [Morning Consult](https://morningconsult.com/2020-democratic-primary/).
 
-Warren took from Kamala, we talked abt Bernie-Warren correlation [before](https://muratk3n.github.io/thirdwave/en/tweets/2019/week36.html#corr). 
+Warren took from Kamala, we talked abt Bernie-Warren correlation [before](week36.html). 
 
 <img src="twimg/EJCjgsuWwAY93Li.png" width="400"/>
 

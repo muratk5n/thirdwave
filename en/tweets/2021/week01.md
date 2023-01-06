@@ -644,7 +644,7 @@ Pleasure - Joyous \#music
 
 ---
 
-<img width="340" src="https://raw.githubusercontent.com/muratk3n/thirdwave/master/en/tweets/2021/alice-bob-graph.png"/>
+<img width="340" src="alice-bob-graph.png"/>
 
 ---
 

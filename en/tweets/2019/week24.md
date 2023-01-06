@@ -395,7 +395,7 @@ is in doubt. Unbelievable.
 
 Hi-hi ha ha
 
-![](https://raw.githubusercontent.com/muratk3n/thirdwave/master/en/tweets/2019/thanos.png)
+![](thanos.png)
 
 What the hell is this poster about? Too funny man.. 
 
@@ -1310,7 +1310,7 @@ Federation. Not yet.
 
 Photo
 
-![](https://raw.githubusercontent.com/muratk3n/thirdwave/master/en/tweets/2019/nancyjfk.jpg)
+![](nancyjfk.jpg)
 
 Ha ha.. is that Nancy with JFK? 
 

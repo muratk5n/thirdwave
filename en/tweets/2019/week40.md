@@ -405,9 +405,7 @@ Fall is the new summer.
 ---
 
 No it won't... What is this, Alice in Wonderland? If gov did not force AT&T
-to
-[share](http://muratk3n.github.io/thirdwave/en/tweets/2019/week37.html#transistorPatent)
-its intellectual property with other US companies during 50s, there
+to [share](week37.html#transistorPatent) its intellectual property with other US companies during 50s, there
 would not be a vibrant electronics market today. I'll jive off the
 hammer/nail analogy, just because we have a hammer does not magically
 hit on every nail when we need to. We need to point the hammer toward

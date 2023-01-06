@@ -100,7 +100,7 @@ df.plot()
 plt.savefig('foreignb.png')
 ```
 
-![](https://muratk3n.github.io/thirdwave/en/tweets/2020/foreignb.png)
+![](foreignb.png)
 
 Steady increase since 70s that continued to this day.
 

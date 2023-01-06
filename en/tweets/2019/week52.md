@@ -103,7 +103,7 @@ into Saudi Arabia bcz of global warming.
 
 Seems to work. Good shit.
 
-[Code](https://muratk3n.github.io/thirdwave/en/tweets/2019/convtest.py)
+[Code](convtest.py)
 
 Positive result means non-convex. Bu neg does not rule out non-convexity
 all together, watch out.
@@ -313,7 +313,7 @@ Out[1]: 95.0
 
 Now we know for sure
 
-<img width="340" src="https://muratk3n.github.io/thirdwave/en/tweets/2019/450px-Empirical_Rule.png"/>
+<img width="340" src="450px-Empirical_Rule.png"/>
 
 ---
 

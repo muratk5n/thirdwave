@@ -520,8 +520,7 @@ Combustion is so last century. Electrochemical conversion is the future!"
 
 ---
 
-Hah. Snowden is straight pilgrim from his mother's side, going back to
-the [Mayflower](https://muratk3n.github.io/thirdwave/en/tweets/2019/week36.html#mayflower).
+Hah. Snowden is straight pilgrim from his mother's side, going back to the [Mayflower](week36.html#mayflower).
 Very cool. 
 
 ---

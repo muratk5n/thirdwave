@@ -695,7 +695,7 @@ Louisiana raises red flags for a surging industry"
 
 Hawking said 2D life would be impossible, imagine a 2D animal,
 
-![](https://muratk3n.github.io/thirdwave/en/tweets/2019/2danimal2.png)
+![](2danimal2.png)
 
 The food it ate would go through it dividing it into two.
 

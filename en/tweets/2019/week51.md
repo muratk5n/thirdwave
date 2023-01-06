@@ -342,7 +342,7 @@ Peak start-up
 
 ---
 
-NYT being a corporate slut. [Related](https://muratk3n.github.io/thirdwave/en/tweets/2019/week49.html#nike).
+NYT being a corporate slut. [Related](week49.html#nike).
 
 "Nike’s Fastest Shoes May Give Runners an Even Bigger Advantage Than We Thought"
 
