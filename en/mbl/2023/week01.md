@@ -32,10 +32,10 @@ Al Monitor: "Ronaldo signs for [Saudi] Al Nassr in deal worth 'more than
 ---
 
 Theater's revenue needs to come out of the gross not be a multiple of
-the budget.  *The Joker* had a budget of abt 70 mil..?  Did the
-theaters say "oh we'll take pity on this tiny little movie, give you a
-pass, charge you less"? That's not how it works. The more a movie
-makes, the more a theater makes - no matter the budget.
+the budget.  *Joker* had a budget of abt 70 mil..?  Did the theaters
+say "oh we'll take pity on this tiny little movie, give you a pass,
+charge you less"? That's not how it works. The more a movie makes, the
+more a theater makes - no matter the budget.
 
 ---
 
@@ -111,14 +111,14 @@ Hard crime was up during Dubya, property crime during Bama
 
 ---
 
-[Link](tweets/2023/fbi_badge_1.jpg)
+[Link](fbi_badge_1.jpg)
 
 ---
 
 Calculated US annual crime rate since 1999. First graph is violent
 crime, second is property. Data from FBI.
 
-[[-]](2023/01/us-crime.html#fbi)
+[[-]](../../2023/01/us-crime.html#fbi)
 
 ---
 
