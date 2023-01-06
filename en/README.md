@@ -95,7 +95,7 @@ Reshare \#2015
 
 Saw this at a bookstore in Berlin today. A piece of history etched in stone
 
-![](mbl/2015/20150716_112800.jpg)
+[[-]](mbl/2015/20150716_112800.jpg)
 
 ---
 
@@ -108,7 +108,7 @@ full. The ep could've used that, maybe in the next one where Opposite
 George is all happy because of the turkey.
 
 "Tryptophan in turkey gained some notoriety, thanks to an iconic
-Thanksgiving episode of the sitcom “Seinfeld,” as the chemical that
+Thanksgiving episode of the sitcom 'Seinfeld' as the chemical that
 makes people tired after eating. The actual truth is people tend to
 get tired after a Thanksgiving meal because they generally eat a lot
 of food in one sitting"
