@@ -8,6 +8,8 @@ discovered that galaxies compose huge agglomerations a billion
 light-years across; such mammoth clusterings of matter must have taken
 a hundred billion years to form..
 
+<a name='era'/>
+
 There has always been an intimate relation between the ideas dominant
 in cosmology and the ideas dominant in society. It would be
 astonishing if that relationship had come to an end in our present
