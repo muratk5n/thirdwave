@@ -90,15 +90,11 @@ soldiers were sent to do repetitive, automaton work on the battle
 field (the disassembly line). Both industrial left and right have no
 problems with that war for this reason.
 
-*2019-6-9, 17:46:53*
-
 ---
 
 At a certain level, the war helped US. But we cannot forget the
 meaninglessness of the surrounding zeitgeist that led those young kids
 on that battlefield. Nothing is sacred.
-    
-*2019-6-9, 17:46:53*
 
 ---
 

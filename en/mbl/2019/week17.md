@@ -7,13 +7,9 @@ and THE ONE TRUE HEIR; but T is still unsurpassed.
 
 Rrrrrespect.
 
-*2019-4-23 15:38:40*
-
 ---
 
 Yeah.. some1 is frontin, acting like he got the front seat... Chill.. U aint there yet mo--f--ka.
-
-*2019-4-23 15:38:40*
 
 ---
 

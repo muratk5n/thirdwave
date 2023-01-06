@@ -147,8 +147,6 @@ For thourough profiling, subscribe for 1 year, and DM.
 
 "I want to know my MBTI type!"
 
-*2019-8-7 13:3:58*
-
 ---
 
 Public policy, same way. Bcz you have such a blunt instrument, you
@@ -156,8 +154,6 @@ need to prefer broad opportunity increasing measures, not diddle about
 shit that noone is 100% sure about, which, if wrong, can cause undue
 damage with that blunt instrument. The pieces will fall where they
 may, but policy at least would have done all it could.
-
-*2019-8-7 13:3:58*
 
 ---
 
@@ -177,8 +173,6 @@ Outside, go scream your head off, do whatevery frack u wanna do.
 "But u say Google should respect free speech than congrad them for
 firing their employee for speaking out abt genders!"
 
-*2019-8-7 12:56:11*
-
 ---
 
 "@g8ge
@@ -186,8 +180,6 @@ firing their employee for speaking out abt genders!"
 Thoughtful essay by Tom Hanna: 'Consulting has made me a better scientist'"
 
 [Link](https://www.linkedin.com/pulse/consulting-has-made-me-better-scientist-thomas-hanna)
-
-*2019-8-7 12:51:41*
 
 ---
 
@@ -198,8 +190,6 @@ experience with a BEV. It'd be weak IMO.
 
 \#fuelcell \#H2 
 
-*2019-8-7 12:14:21*
-
 --- 
 
 Yeah no shit. People aint stupid when it comes to their own needs, consumption.
@@ -209,26 +199,18 @@ Yeah no shit. People aint stupid when it comes to their own needs, consumption.
 
 [Link](https://mobile.twitter.com/H2Bjorn/status/1158840062320283648)
 
-*2019-8-7 0:25:7*
-
 ---
 
 Ask any tuber they will tell u what needs to be done. Adpocalypse, baseless demonitization of vids .. Left is especially a target. U r messing with people's livehood here. Not cool.
-
-*2019-8-6 23:41:4*
 
 ---
 
 In the right frame of mind the suck is entertaining. 
 
-*2019-8-6 21:40:24*
-
 ---
 
 And they start throwing around effin Bayesinism too (cuz it's all
 relative you see), the bad smell just gets stronger..
-
-*2019-8-6 21:18:37*
 
 ---
 
@@ -236,8 +218,6 @@ The best part is when anti-realists say "the scientific method *should
 change to accomodate us*", as in agreeing with experimental data is no
 longer relevant bcz their little toy theories keep coming short on
 that front. Susskind is the worst, bugs Smolin to no end.
-
-*2019-8-6 21:17:30*
 
 ---
 
@@ -265,15 +245,11 @@ no longer relevant"
 
 [Link](http://backreaction.blogspot.com/2019/08/special-breakthrough-prize-awarded-for.html?m=1)
 
-*2019-8-6 21:13:14*
-
 ---
 
 It's funny for the longest time I was mixing up chaos theoretician
 Smale with physicist Smolin, so I probabaly paid more attention to
 Smolin for that reason.
-
-*2019-8-6 20:48:44*
 
 ---
 
@@ -284,14 +260,10 @@ tried to bury his study"
 
 [Link](https://twitter.com/thehill/status/1158689183969566721)
 
-*2019-8-6 13:51:56*
-
 ---
 
 You can derive T + V = constant from first principles too?  Very
 cool. Bryson & Ho, AppOptCont, pg. 51.
-
-*2019-8-6 13:44:24*
 
 ---
 
@@ -301,8 +273,6 @@ How is this guy still on TV?
 
 "Nobody ever made a dime panicking" -- Cramer
 
-*2019-8-6 13:29:6*
-
 ---
 
 How is
@@ -311,16 +281,12 @@ tech coming along? Solid H2 using magnes + nano, from Kuwait?
 Commercialize, scale, chop chop! What are you waiting for? Another
 Saddam to invade your ass?
 
-*2019-8-6 13:10:12*
-
 ---
 
 A girl likes Hobbs & Shaw, a movie I read scatching review on, mostly
 for being "too bro". I bet the movie is good.
 
 [Link](https://twitter.com/hexsteph/status/1158527254642610176)
-
-*2019-8-6 12:55:32*
 
 ---
 
@@ -338,8 +304,6 @@ the mystic says "there is another me inside of me (Y. Emre)", could be
 loosely refering to a shadow-reversal as in *Was That Really Me?* (by
 Quenk) maybe? But maybe also a more persistent type attribute which is
 from an "earlier game".
-
-*2019-8-6 12:21:51*
 
 ---
 
@@ -372,15 +336,11 @@ maintained.
 
 [Link](https://www.thehindu.com/news/cities/Hyderabad/india-must-opt-for-sodium-and-hydrogen-fuel-cells-says-cnr-rao/article28828093.ece)
 
-*2019-8-6 12:21:51*
-
 ---
 
 Politics, Kool-Aid, comedians. 
 
 [Video](https://youtu.be/u6nqvgPaw6g)
-
-*2019-8-6 12:14:10*
 
 ---
 
@@ -397,8 +357,6 @@ to find ppl who are good at both. Take that and let Internet do its
 thing; amplify that one voice to millions. Instead of trolls, let
 quality troll.
 
-*2019-8-6 11:13:35*
-
 ---
 
 Why is it good to have researchers, the best, teaching (even for the
@@ -406,8 +364,6 @@ lowest levels), fired all teachers, relied on [digital
 content](../../2018/09/public-education.html)
 for each subject? Feynman could be teaching your kid algebra,
 Einstein, arithmetic, or someone like them.
-
-*2019-8-6 10:12:1*
 
 ---
 
@@ -426,25 +382,17 @@ downtown.  I can't believe it took me this long.. @CapMetroATX was
 excellent.  Using a Park-N-Ride is definitely the best way to get
 downtown stress free."
 
-*2019-8-6 10:2:53*
-
 ---
 
 2,188th mass shooting since Sandy Hook. Mind boggling.
-
-*2019-8-6 1:12:1*
 
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m religious but NOT spiritual I just love rules and being afraid of sex</p>&mdash; Julia Claire (@ohJuliatweets) <a href="https://twitter.com/ohJuliatweets/status/937836303944749056?ref_src=twsrc%5Etfw">December 5, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-8-6 1:6:48*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">They always tell us the tools of mass surveillance are intended for use only against the faraway Other; the foreign enemy, the terrorist, the criminal. And then, just a few years later, we realize precisely the same system secretly surrounds us at home. <a href="https://t.co/XY0QUEM4Uw">https://t.co/XY0QUEM4Uw</a></p>&mdash; Edward Snowden (@Snowden) <a href="https://twitter.com/Snowden/status/1157397713312501761?ref_src=twsrc%5Etfw">August 2, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-8-6 1:1:49*
 
 ---
 
@@ -454,8 +402,6 @@ HK to remain a non-tariffed most-favored-nation trader with the US and
 the UK. Financial teetering coupled with political uncertainty could
 abruptly change the complexion of the foundation of investments in HK
 and throughout Asia" - K Bass
-
-*2019-8-6 0:40:18*
 
 ---
 
@@ -467,8 +413,6 @@ culture. During 2008 crisis, didn't even economist constantly invoke
 military terms, like "shock and awe"? Isn't the police heavily
 militarized? People get choked to death for selling cigarettes illegally?
 
-*2019-8-6 0:9:40*
-
 ---
 
 Good 4 you Spiegel. 
@@ -478,8 +422,6 @@ MS is a libertard but there is hope.
 "@markbspiegel
 
 ... I do believe in banning assault weapons (yes, lines can be drawn, gun-owners— we also don’t allow bazookas and ground-to-air missiles)"
-
-*2019-8-6 0:9:18*
 
 ---
 
@@ -492,14 +434,10 @@ out-of-control $TSLA has just died.
 
 Full list of $TSLA deaths can be found at [http://www.tesladeaths.com](http://www.tesladeaths.com)"
 
-*2019-8-5 23:52:41*
-
 ---
 
 Silicon Valley (tv show) is cancelled, season 6 is last. Yep - I guess
 they saw the real Silicon Valley is comedy enough.
-
-*2019-8-5 23:36:16*
 
 ---
 
@@ -511,8 +449,6 @@ moves in CNH, we may finally have a real test of their ability to keep
 things under control. There is a mountain of money looking to get
 out."
 
-*2019-8-5 23:24:12*
-
 ---
 
 "@Jkylebass · 17h chinese currency (USD/CNH) 1 month vol has exploded
@@ -520,15 +456,11 @@ tonight from 5.6% before the fixing to 9% Not a single price or trade
 for USD/KRW either...complete short-circuit in Asia. There was plenty
 of warning for this one...#chinesecurrencyandbankingcollapse #hk"
 
-*2019-8-5 23:9:31*
-
 ---
 
 "@Jkylebass
 
 Beijing is prepping for a massacre in Hong Kong"
-
-*2019-8-5 23:7:33*
 
 ---
 
@@ -539,8 +471,6 @@ both, but out of the two, it is QM that is flawed.
 with gravity and spacetime (which is what we mean by quantizing
 gravity), or in unifying the interactions, because we have been
 working with an incomplete and incorrect quantum theory." --Smolin
-
-*2019-8-5 22:52:10*
 
 ---
 
@@ -553,13 +483,12 @@ favors certain traits above others. If any other approach uses
 evolutionary methods to this degree we'd say Genetic! Evolution! With
 AG0 we say Deep Shit!
 
-*2019-8-5 22:22:20*
-
 ---
 
-"South Korea: Work Begins on World’s Largest Hydrogen Fuel Cell Power Plant--The 50 megawatt (MW) class secondary #hydrogen #fuelcell power plant, the largest in the world, is situated at Seosan, South Chungcheong Province"
-
-*2019-8-5 20:17:36*
+"South Korea: Work Begins on World’s Largest Hydrogen Fuel Cell Power
+Plant--The 50 megawatt (MW) class secondary #hydrogen #fuelcell power
+plant, the largest in the world, is situated at Seosan, South
+Chungcheong Province"
 
 ---
 
@@ -567,29 +496,21 @@ AG0 we say Deep Shit!
 
 Now Japan is in killer heatwave with 35°C+ at 100 locations"
 
-*2019-8-5 20:14:6*
-
 ---
 
 Kaboom. 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This visible shock wave provides an indication of the power of explosions at <a href="https://twitter.com/hashtag/Russia?src=hash&amp;ref_src=twsrc%5Etfw">#Russia</a> munitions depot near Kamenka, Siberia <a href="https://t.co/yedJmZAZBH">https://t.co/yedJmZAZBH</a> <a href="https://t.co/K5AXCeaSRT">pic.twitter.com/K5AXCeaSRT</a></p>&mdash; Joseph Dempsey (@JosephHDempsey) <a href="https://twitter.com/JosephHDempsey/status/1158401140645650433?ref_src=twsrc%5Etfw">August 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-8-5 20:10:58*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Tough summer for the power grid but the microgrids are working - the microgrid uses on-site solar, a <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/FuelcellNow?src=hash&amp;ref_src=twsrc%5Etfw">#FuelcellNow</a>, battery storage, microturbine and natural gas generator <a href="https://t.co/LWyUuob9tC">https://t.co/LWyUuob9tC</a>.</p>&mdash; IEA Hydrogen (@IEA_Hydrogen) <a href="https://twitter.com/IEA_Hydrogen/status/1158413880911159299?ref_src=twsrc%5Etfw">August 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-8-5 19:49:34*
 
 ---
 
 True; but did we make it perhaps because of that scare?
 
 "Oh but that's just like the nuclear scare of the post 60s"
-
-*2019-8-5 16:5:24*
 
 ---
 
@@ -609,21 +530,15 @@ National Centre for Climate Restoration, is presented by the former
 chief of the Australian Defence Forces and retired Royal Australian
 Navy Admiral Chris Barrie."
 
-*2019-8-5 16:4:50*
-
 ---
 
 "@Jkylebass
 
 If the chinese stop propping up their currency, it will devalue more than 40%"
 
-*2019-8-5 15:57:12*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">GAMETIME - CNH collapsing...HKD won’t be far behind. Mass Exodus of capital out of CNH and HKD. This collapse has just begun. <a href="https://twitter.com/hashtag/china?src=hash&amp;ref_src=twsrc%5Etfw">#china</a> <a href="https://twitter.com/hashtag/hk?src=hash&amp;ref_src=twsrc%5Etfw">#hk</a> <a href="https://twitter.com/hashtag/bankingandcurrencycollapse?src=hash&amp;ref_src=twsrc%5Etfw">#bankingandcurrencycollapse</a> <a href="https://t.co/MQ8jpnSeQb">pic.twitter.com/MQ8jpnSeQb</a></p>&mdash; Kyle Bass (@Jkylebass) <a href="https://twitter.com/Jkylebass/status/1158191251499429889?ref_src=twsrc%5Etfw">August 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-8-5 15:54:12*
 
 ---
 
@@ -632,13 +547,9 @@ infrastructure, like those O'Neill stations Bezos talks about. There
 is some fascinating science, engineering that can be done without
 going cuckoo.
 
-*2019-8-5 14:0:1*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you to want see some of the math, try <a href="https://twitter.com/dbressoud?ref_src=twsrc%5Etfw">@dbressoud</a> “A radical approach to real analysis” and Dunham, “the calculus gallery”. For history, try <a href="https://t.co/QBEcXN6HDr">https://t.co/QBEcXN6HDr</a></p>&mdash; Steven Strogatz (@stevenstrogatz) <a href="https://twitter.com/stevenstrogatz/status/1158314296822157314?ref_src=twsrc%5Etfw">August 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-8-5 13:35:4*
 
 ---
 
@@ -646,8 +557,6 @@ No. If the overall body politic decides something, decides on change,
 nothing can stand in its way. 
 
 "Oh but NRA is so powerful, they block all change"
-
-*2019-8-5 13:23:19*
 
 ---
 
@@ -658,8 +567,6 @@ keeps trying to be [like them](../../2018/05/polarization.html).
 Stop whining centrist Democrat. The blood is still on your hands.
 
 \#gunviolence
-
-*2019-8-5 13:23:19*
 
 ---
 
@@ -674,20 +581,14 @@ challenging, and they often stagger in at 2 or 3 in the morning."
 
 [Link](https://www.independent.co.uk/news/world/europe/dutch-tradition-night-woods-forest-dropping-kids-children-scouting-a9026671.html)
 
-*2019-8-5 11:9:25*
-
 ---
 
 Real-estate bubble, stock market bubble, String Theory, Tesla -
 all bubbles, results of a delusional system awarding delusions.
 
-*2019-8-4 14:52:27*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Elon Musk&#39;s Boring Company has gone from &quot;futuristic self-driving electric skate&quot; to &quot;self-driving Tesla in a special tunnel&quot; to &quot;human-operated Tesla in a regular tunnel.&quot; Congrats to Elon for inventing an ineffective technology that already exists! <a href="https://t.co/NBb5Xh04I3">https://t.co/NBb5Xh04I3</a></p>&mdash; Adam Conover (@adamconover) <a href="https://twitter.com/adamconover/status/1157741890092974080?ref_src=twsrc%5Etfw">August 3, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-8-4 14:51:9*
 
 ---
 
@@ -696,15 +597,11 @@ keep in mind, Leibniz is also the co-inventor of Calculus. In fact his
 notation of Calculus turned out to be more persistent than the
 Newtonian notation.
 
-*2019-8-4 13:24:30*
-
 ---
 
 "Only dead fish swim with the stream"
 
 -- Malcolm Muggeridge
-
-*2019-8-4 13:12:19*
 
 ---
 
@@ -716,8 +613,6 @@ under ambient pressure"
 
 [Link](https://fuelcellsworks.com/news/engineers-at-lehigh-university-create-promising-new-solar-powered-path-to-hydrogen-fuel-production/)
 
-*2019-8-3 18:12:47*
-
 ---
 
 "@Lecocq_dom
@@ -726,15 +621,11 @@ under ambient pressure"
 the scenes many manufacturers are quietly working away on another way
 of running a car – #hydrogen fuel-cell technology""
 
-*2019-8-3 16:27:41*
-
 ---
 
 "Federal Minister of Economics Altmaier wants to present a concept by
 the end of August in order to replace natural gas in traffic, in
 industry and in buildings with 'green' gases."
-
-*2019-8-3 14:0:35*
 
 ---
 
@@ -745,8 +636,6 @@ horror of socialist America is "free vacations."
 
 [Link](https://mobile.twitter.com/ddayen/status/1157350461021626368)
 
-*2019-8-3 13:52:0*
-
 ---
 
 <img width="400" src="clarkson_musk.png"/>
@@ -755,20 +644,14 @@ One of these guys really [knows](https://www.alphr.com/cars/1002996/jeremy-clark
 
 (Hint: Clarkson is the former host of the most popular car show, ever)
 
-*2019-8-3 13:51:46*
-
 ---
 
 Monkey boy tries so hard to have some of that space biz cool to rub
 off on the shit show that is Tesla, but I dont think it is working.
 
-*2019-8-3 13:49:46*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">hmmm wonder who&#39;s best positioned to beat Trump <a href="https://t.co/PUdlBkJ8TW">pic.twitter.com/PUdlBkJ8TW</a></p>&mdash; Luke Savage (@LukewSavage) <a href="https://twitter.com/LukewSavage/status/1157326265764012032?ref_src=twsrc%5Etfw">August 2, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-8-3 13:44:51*
 
 ---
 
@@ -792,22 +675,15 @@ because of the pollution they generated".
 
 [Link](https://www.forbes.com/sites/timtreadgold/2019/07/24/japan-and-australia-launch-an-experimental-coal-to-hydrogen-export-industry/amp/?__twitter_impression=true)
 
-
-*2019-8-3 13:11:17*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Season 2? 🤣🤷🏼‍♀️ ⁦<a href="https://twitter.com/netflix?ref_src=twsrc%5Etfw">@netflix</a>⁩ <a href="https://twitter.com/hashtag/AnotherLife?src=hash&amp;ref_src=twsrc%5Etfw">#AnotherLife</a> <a href="https://t.co/Q8XteS5BWD">https://t.co/Q8XteS5BWD</a></p>&mdash; Katee Sackhoff (@kateesackhoff) <a href="https://twitter.com/kateesackhoff/status/1157480816689086465?ref_src=twsrc%5Etfw">August 3, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-8-3 12:53:16*
 
 ---
 
 "German Ministry of Economics is in preparation of a hydrogen strategy for Germany to be communicated in October 2019" 
 
 [Link](https://mobile.twitter.com/H2FCEV/status/1157315597614690307)
-
-*2019-8-3 12:31:2*
 
 ---
 
@@ -821,8 +697,6 @@ somehow they didnt work hard enough, werent smart with their choices.
 For some reason this reminds me of the T. Carlson
 [line](https://youtu.be/AXGoWtK1NnY?t=1910) abt politicians lying.
 
-*2019-8-2 16:50:6*
-
 ---
 
 [thumbs up]  
@@ -831,21 +705,15 @@ For some reason this reminds me of the T. Carlson
 
 [Video](https://youtu.be/R0UzvObOhFM)
 
-*2019-8-2 16:46:15*
-
 ---
 
 [facepalm] Just saw paper "Path optimization for marine vehicles in
 ocean currents using reinforcement learning". "AI" bitches everywhere.
 
-*2019-8-2 15:46:36*
-
 ---
 
 There is someone who did research on flattest path calculation for
 ground terrain using analytical math, dude is Swedish.
-
-*2019-8-2 15:51:58*
 
 ---
 
@@ -856,8 +724,6 @@ traveling in minimal time through water currents in the sea" problem,
 as in fighting currents = fighting uphill elevation. For the West
 (therefore modern science) this would be more pressing problem to
 think abt.
-
-*2019-8-2 15:41:58*
 
 ---
 
@@ -895,8 +761,6 @@ publicly declared".
 
 [Link](https://www.ft.com/content/ff4d72e9-65b6-3466-9002-f8b561191dde)
 
-*2019-8-2 15:20:18*
-
 ---
 
 "@scottderrickson
@@ -908,16 +772,11 @@ Hayao Miyazaki motherfucker
 >Only one "visionary" director exists today. His name is Christopher Nolan
 "
 
-*2019-8-2 12:39:48*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Vacation. You&#39;ve just invented vacation.&quot; <a href="https://t.co/j4wn4QM4yo">https://t.co/j4wn4QM4yo</a></p>&mdash; Mike Davidson (@mikeindustries) <a href="https://twitter.com/mikeindustries/status/1156713768027471872?ref_src=twsrc%5Etfw">July 31, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Related: [Reinventing the train](https://twitter.com/gin_and_tacos/status/1082434944582979586)
-
-
-*2019-8-2 11:4:6*
 
 ---
 
@@ -925,28 +784,22 @@ Related: [Reinventing the train](https://twitter.com/gin_and_tacos/status/108243
 
 [Link](https://www.bloomberg.com/news/articles/2019-08-02/germany-turns-to-hydrogen-in-quest-for-clean-energy-economy)
 
-*2019-8-2 10:48:22*
-
 ---
 
 @Simon_Barrett
 
-"I want to do a Godzilla movie where Godzilla just keeps trying to kill one specific person, who it turns out closely resembles a random guy he saw throw a six pack ring in the ocean 60 years ago".
-
-*2019-8-1 19:57:30*
+"I want to do a Godzilla movie where Godzilla just keeps trying to
+kill one specific person, who it turns out closely resembles a random
+guy he saw throw a six pack ring in the ocean 60 years ago".
 
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The wildfires in Russia have now spread to about three million hectares (7.4 million acres) - an area roughly the size of Belgium<a href="https://t.co/3V75QTTNO1">https://t.co/3V75QTTNO1</a> <a href="https://t.co/1T8PRXl770">pic.twitter.com/1T8PRXl770</a></p>&mdash; BBC News (World) (@BBCWorld) <a href="https://twitter.com/BBCWorld/status/1156956946018328578?ref_src=twsrc%5Etfw">August 1, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-8-1 19:55:9*
 
 ---
 
 @CodeWisdom
 
 "Software being "Done" is like lawn being 'Mowed'." - Jim Benson
-
-*2019-8-1 16:53:57*
 
 ---
