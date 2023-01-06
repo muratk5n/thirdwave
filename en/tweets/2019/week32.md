@@ -1,4 +1,4 @@
-# Tweets - Week 32
+# Week 32
 
 "Why should a feudal lord give up his land for a regular person" is
 this guy's message basically. Go suck some root retard.

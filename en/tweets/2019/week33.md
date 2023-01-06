@@ -1,4 +1,4 @@
-# Tweets - Week 33
+# Week 33
 
 If HK's special status (with US) is revoked CH is in deep doodoo says
 Bass. 

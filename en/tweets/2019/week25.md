@@ -1,4 +1,4 @@
-# Tweets - Week 25
+# Week 25
 
 Aah the element 115. Scientists knew elements above 100 would / could be synthesized, during 60s. You didnt need Bob Lazar for that.
 

@@ -1,4 +1,4 @@
-# Tweets - Week 24
+# Week 24
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Teslas being replaced by <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> Cars as Eco-Conscious Hollywood Obsession. To capture the VIP market, major brands are offering loaners and free fuel along with their latest luxury models <a href="https://t.co/0uXbP9yxMS">https://t.co/0uXbP9yxMS</a> <a href="https://t.co/G3yAO2LkJX">pic.twitter.com/G3yAO2LkJX</a></p>&mdash; Hydro Kevin (@hydrokevin) <a href="https://twitter.com/hydrokevin/status/1139633933400674304?ref_src=twsrc%5Etfw">June 14, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -717,6 +717,8 @@ this decade is out, of landing a man on the Moon…
 
 Ask not where to pahk the cah. Ask where to pahk the cah in Hahvahd Yahd.
 
+---
+
 Comment
 
 Single-payer, public option (during 2009) did not pass because of
@@ -731,6 +733,8 @@ wants unhappy Americans who sign-up to military and die and kill for
 his country. And by "his" country I mean Israel, not United
 States. Lieberman is an Israeli citizen. I bet u didn't know that.
 
+---
+
 News
 
 China says U.S. demand on its state-owned enterprises is 'invasion' on
@@ -742,6 +746,8 @@ You can't dictate what is public what is private. Of course forced
 tech transfers and many other aspects of Chi-US econ relationship
 would not be suitable for US either, depending on the strategy.
 
+---
+
 [Comment](https://twitter.com/shockproofbeats/status/1132778062003757057)
 
 Am I mad or have the Brexit Party merely taken UKIP's vote share plus
@@ -750,6 +756,8 @@ pro-remain surges. Why are Farage's Malibu Stacy-with-a-new-hat
 shenanigans being talked about like they're a political earthquake?
 
 You are not mad
+
+---
 
 [Trump](https://www.youtube.com/watch?v=sQJDkruDlKI&feature=youtu.be&t=445)
 
@@ -788,6 +796,8 @@ Yeah
 8 ton battery on a 40 ton truck with 500 km range. These people are
 truly some kind of geniuses aren't they?
 
+---
+
 [Article](https://www.history.com/news/how-did-the-gold-standard-contribute-to-the-great-depression)
 
 A number of complex factors helped to create the conditions necessary
@@ -821,6 +831,8 @@ decision. Democratically elected official will pay the price for that
 inflation if it becomes excessive. My point is just to avoid the "bad"
 inflation we cannot tie the hands of economic governance.
 
+---
+
 Question
 
 There are some liberterians among conservatives, aren't they better kind
@@ -851,6 +863,8 @@ rent-a-cop could do. So libertard depends on the societal apparatus to
 not only keep the mob at bay, but keep them *not* unhappy enough so
 they would not think of coming for his estate.
 
+---
+
 [News](https://www.reuters.com/article/us-usa-hydrogen-aircraft/hydrogen-powered-flying-vehicle-touted-as-southern-california-traffic-tonic-idUSKCN1T0078)
 
 ![](https://img.newatlas.com/alakai-skai-hydrogen-vtol-air-taxi-8.jpg?auto=format%2Ccompress&ch=Width%2CDPR&fit=crop&h=347&q=60&rect=277%2C0%2C1104%2C621&w=616&s=a7982072073d38f38fa9c6e201e84bf5)
@@ -860,6 +874,8 @@ A mockup of the futuristic aircraft, dubbed “Skai” by its inventors, was put
 Powered by six hydrogen fuel cell batteries - one for each rotor engine - the aircraft are designed for a range of 300 miles but are envisioned mainly for short urban hops or flights between nearby cities.
 
 Fantastic
+
+---
 
 Question
 
@@ -887,6 +903,8 @@ vague notions about candidates, standing out in any way helps, any
 emotional memory people can remember you by is good, in terms of
 politicking of course.
 
+---
+
 Comment
 
 But ..this and that issue... polls at [blah] percent, we should do it.
@@ -899,6 +917,8 @@ public support for the Iraq War was over 70 percent.
 People don't know shit. Leaders need to lead. Voters are better at
 judging character than judging policy (that they don't experience
 first-hand).
+
+---
 
 Comment
 
@@ -943,10 +963,7 @@ the line the energy can remain clean. No risk of methane leaks, no
 risk of carbon.  Generating H2 this way is a win-win for all, both for
 fossil fuel companies and the public.
 
-
-
-
-# Q&A - 25/6
+---
 
 A. Tooze, *Crashed*
 
@@ -975,6 +992,8 @@ absence of financial help at the time of need. Need I remind ppl
 Orban's comeback year is 2010, 2 yrs after global fin crisis (which
 the book also says really needs to be treated as one crisis instead of
 a EU part and a US part).
+
+---
 
 Tooze, *Crashed* 
 
@@ -1005,6 +1024,8 @@ with that gold. Watch out.
 Deficits, and surplusses are not anybody's "fault"; we cannot
 "implore" countries to act nice, we need to design a system that will
 nudge actors in the optimal direction. 
+
+---
 
 A. Tooze, *Crashed*
 
@@ -1044,6 +1065,8 @@ political “no-man’s land.
 
 So Bam gave the go-ahead and Geithner totally ignored him. Duh!
 
+---
+
 G. Friedman
 
 On [24/6], U.S. national security adviser John Bolton will meet with
@@ -1075,6 +1098,8 @@ make some pious declaration. It seems they’ll be there to do business"
 
 What is cooking up there?
 
+---
+
 [Tim Maudlin](https://youtu.be/hC3ckLqsL5M?t=52)
 
 [Paraphrasing] Quantum mechanics isn't really a theory; it doesn't
@@ -1084,6 +1109,8 @@ pulls out random explanations out of its ass to justify its
 computational method.
 
 <span style="color:red">He is right</span>
+
+---
 
 [Tim Maudlin](https://youtu.be/hC3ckLqsL5M?t=688)
 
@@ -1097,6 +1124,8 @@ impress your friends with at a party. But somehow SC is now part of an
 accepted reality that is Cop QM.
 
 I guess people will do anything to be "mystified" with stuff.
+
+---
 
 [Tim Maudlin](https://youtu.be/hC3ckLqsL5M?t=743)
 
@@ -1122,6 +1151,8 @@ a young age when Cop QM was accelerating. Then he contributed to the
 calculate) earning him the Nobel prize, so in many ways, he was badly
 placed to make a new path.
 
+---
+
 TM
 
 All we have [in Cop QM] is a very effective method to make predictions.
@@ -1129,6 +1160,8 @@ All we have [in Cop QM] is a very effective method to make predictions.
 <span style="color:red">So Cop QM is the Deep Shit of physics?</span>
 
 Effective predictions, no explanations. Right on.
+
+---
 
 Frederic Bastiat
 
@@ -1150,6 +1183,8 @@ they should both dabble in wine making and fish and chips, in varying
 amounts sure, but the know-how for both products needs to exist in
 each country. That is how everyone wins.
 
+---
+
 Question
 
 Why is the Davos label "Fourth Industrial Revolution" a bad name?
@@ -1161,11 +1196,15 @@ Agricultural Revolution". Agro was simply made better but as a way to
 arrange social interactions, it lost its importance. We were in a new
 age, the Second Wave.
 
+---
+
 [Reza Aslan](https://youtu.be/1Gcdo_9TW9M?t=213)
 
 Jesus preached a reversal in the social order
 
 <span style="color:red">Right</span>
+
+---
 
 Question
 
@@ -1177,6 +1216,8 @@ In war the greatest luxury has to be choosing your enemy yourself. The
 so-called "conservatives" probably honed in on Marx (whose mental
 faculties were subpar to say the least) because of his anti-religious
 writings. He would be an enemy easier to fight.
+
+---
 
 Question
 
@@ -1192,6 +1233,8 @@ make the outside like the inside, and above like below; when you make
 the male and the female as one, then you will enter the kingdom of
 God".
 
+---
+
 Question
 
 Do you feel rebellious?
@@ -1206,7 +1249,7 @@ mafia-state of the time had nothing to do with his murder?
 
 Is this what Gurdjieff meant when he said 'everyone seems asleep'?
 
-# Q&A - 16/6
+---
 
 Question
 
@@ -1233,6 +1276,8 @@ a story where he is informing his father that he wanted to be an actor
 when his father interrupts him and says "son, you mispronounce the
 word..  It's pronounced as _doctor_". The man wasn't joking, he
 wouldn't even hear the words, like it didn't register.
+
+---
 
 Question
 
@@ -1261,6 +1306,8 @@ This shouldn't be taken as Asians, black, Latinos cluster *all the
 time*. There are always interactivity, but it just ain't the
 Federation. Not yet.
 
+---
+
 Photo
 
 ![](https://raw.githubusercontent.com/muratk3n/thirdwave/master/en/tweets/2019/nancyjfk.jpg)
@@ -1271,6 +1318,8 @@ Better watch out.. he'd nail you on the spot if alone in the same room
 with him. He did that to this one girl u know. Basically rape. But
 hey, little rape here, little hair smelling there.. just a regular
 day for a Catholic.
+
+---
 
 Question
 
@@ -1303,6 +1352,8 @@ exactly the opposite . Mission accomplished.
 This is the biggest con in the world with the most far reaching
 consequences. It was genius.
 
+---
+
 Question
 
 Should the CC continue to exist?
@@ -1313,6 +1364,8 @@ I know the new gumba they got in there is trying to fix some stuff,
 but, just to be on the safe side, I think everyone's goal should be
 **to degrade and ultimately destroy** the Catholic Church. By extension
 all related Rome-like cultures need to be "degraded" as well.
+
+---
 
 How are marital relations effected by agrarian era?
 
@@ -1343,6 +1396,8 @@ saying "you know it's really much better to be with one".  But like
 with many other things, "peasant propaganda" won the day. We are
 living in the world created by them.
 
+---
+
 Question
 
 How was sexual relations pre-agro?
@@ -1363,6 +1418,7 @@ you can end up with female landowner boss, the *hanımağa* as it is
 called in gobble-gobble (where all this shit started) which is just as
 repugnant as the male version.
 
+---
 
 Question
 
@@ -1387,6 +1443,8 @@ But the subconcious is rebeling against this: why is Fortnite the most
 popular game today? What do you do in Fortnite? You are outside,
 running around, seeking shelter, fighting, trying to survive right?
 Isn't that pre-agro forager life?
+
+---
 
 Question
 

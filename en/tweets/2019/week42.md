@@ -1,4 +1,4 @@
-# Tweets - Week 42
+# Week 42
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Turns out, without actual evidence, a media propaganda blitz isn&#39;t enough to impeach a sitting president. <a href="https://t.co/3xb30mTYTv">https://t.co/3xb30mTYTv</a></p>&mdash; Sharmine Narwani (@snarwani) <a href="https://twitter.com/snarwani/status/1184577908284755968?ref_src=twsrc%5Etfw">October 16, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

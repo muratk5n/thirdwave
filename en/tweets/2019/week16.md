@@ -216,6 +216,8 @@ amount was, maybe in the thousands. But there is amazing potential out
 there. And this is for a random dude talking. Imagine the rewards for
 a big-tent professional well-made movie, art.
 
+---
+
 Q: A lot of your approaches are less-restriction-beforehand-reward-afterhand.
 
 A: Yes; I instinctively like these approaches bcz it provides more
@@ -228,6 +230,8 @@ maintainer of FamilyPG2019 filter package [which filters out X,Y but
 not Z]". Whichever package you like, you download it, and install
 it. If you think abt it, filtering does belong as close to consumer as
 possible. At home parents decide, at work IT managers / CEO decide.
+
+---
 
 Q: But if you lose copyrights on imaginary characters (say superheros, Star
 Trek) that would mean anyone can make such art, degrading the quality.
@@ -261,6 +265,8 @@ position. We need this. We need to reduce friction, increase
 dissemination, increase scale. Otherwise we are fukked. No patents, no
 copyrights. 
 
+---
+
 Q: Critics say it is unfair to have a trans woman competing in female
 sport with a biologically male body.
 
@@ -277,6 +283,8 @@ We are also seeing a problem of finer-and-finer categorization. The
 answer to that is simple: trans athletes can compete against other
 trans athletes.
 
+---
+
 [Article](https://www.edsurge.com/news/2019-04-13-we-need-to-humanize-education-more-than-we-need-to-personalize-learning)
 
 We need to humanize education more than we need to personalize
@@ -286,7 +294,6 @@ A: Ed should be reoriented around access to quality. No need for hand
 waving, smiles, flailing, etc. A researcher w some teaching ability in
 any subject is the best person to teach that subject. Get their
 lecture videos, distribute them to kids. [Done](../../2017/09/education.html).
-
 
 "But I had a great teacher in high school". This is not about your
 dear teacher, or any other good teachers who are, sadly, rare. We
@@ -300,8 +307,9 @@ No you can't. Also, how is this different than any dipshit billionaire
 saying education will fix poverty? You know that can't be done in
 scale. We should scale the one thing we know we can scale.
 
-[Steven
-Chu](https://www.forbes.com/sites/jeffmcmahon/2019/04/02/get-ready-for-1-5%C2%A2-renewable-electricity-steven-chu-says-which-could-unleash-hydrogen-economy/#278cfba21c01)
+---
+
+[Steven Chu](https://www.forbes.com/sites/jeffmcmahon/2019/04/02/get-ready-for-1-5%C2%A2-renewable-electricity-steven-chu-says-which-could-unleash-hydrogen-economy/#278cfba21c01)
 
 Former Energy Sec. Steven Chu told a roomful of scientists in Chicago
 they should think now what they could do with renewable electricity
@@ -319,12 +327,16 @@ A: Great.
 Chu is a former U.S. Secretary of Energy, and 1997 Nobel Prize
 winner in physics.
 
+---
+
 [Twitter](https://twitter.com/JohnDCook/status/1113197952217092097)
 
 I’m in a used book store. I asked where medical books are. [Answer]
 “Between metaphysics and cooking.”
 
 A: Ha ha
+
+---
 
 Q: I want to lose weight
 
@@ -338,6 +350,8 @@ of plants to satiate themselves. Less nutritous, have to eat more.
 Look at the pics of hungry kids in Africa - big stomach. Or a fat slob
 in America; same problem. Eating less nutritious food, less protein,
 it'll eff you up.
+
+---
 
 Q: How does infinity help mathematicians?
 
@@ -356,6 +370,8 @@ equality *in the limit*". This answer utilizes Calculus..
 
 So chopping stuff into pieces literally solves problems for you. 
 
+---
+
 Q: Creating food out of thin air seems so sci-fi. How is this possible?
 
 A: The process is not too complex really. H2 for energy and CO2 for
@@ -365,6 +381,8 @@ carbon is fed to special bacterias that generate food in powder form.
 
 The process is not unlike making beer or wine. A special microbe eats
 sugar produces wine. Here eats H2 and CO2 generates food.
+
+---
 
 Q: Why is Japan into hydrogen?
 
@@ -379,11 +397,15 @@ energy source, from the nearest sunny place: Hydrogen from
 Australia. U need high energy density to get the most bang for your
 buck.
 
+---
+
 [Australian Scientist](https://www.abc.net.au/radionational/programs/scienceshow/australian-hydrogen-could-power-the-world-many-times-over/10997452)
 
 Australian hydrogen could power the world many times over
 
 A: Australia is the new Saudi Arabia? 
+
+---
 
 [Twitter](https://twitter.com/acskemp/status/1115414648185020416)
 
@@ -391,22 +413,15 @@ Re-reading Road to Serfdom (happy 75th bday) and struck by how moderate it is.
 
 A: Yes
 
+---
+
 [Bernie](https://twitter.com/SenSanders/status/1115689543783546882)
 
 Tax Day is around the corner and guess what? Corporations are lobbying for a new law that would prevent the government from offering you a free and easy online way to pay your taxes. The system is rigged and we need to drastically change it to protect the public.
 
 A: Sad
 
-[Scientist](https://youtu.be/tCeZxhHIbkU?t=2092) on BBC Nobel Minds
-
-[Joke]
-
-A: That's some funny shit.
-
-BTW I'd kick the economists off this thing; they look so bad in
-there. Kick them out, take mathematicians in. Imagine Merton, Scholes
-would be sitting at that table in 1997, whose investment fund would
-blow up a few years later.
+---
 
 [Forbes](https://www.forbes.com/sites/mitsubishiheavyindustries/2019/04/09/the-energy-industrys-new-focus-on-lng-hydrogen-and-renewable-technology-is-already-enabling-a-change-in-power/?utm_source=TWITTER&utm_medium=social&utm_content=2243001331&utm_campaign=sprinklrForbesMainTwitter#13abfb944198)
 
@@ -417,6 +432,8 @@ The answer lies in the next phase of development: the storage of electricity usi
 In the last century, hydrogen powered the space program and brought us to the moon. 
 
 A: Right on
+
+---
 
 Q: BEVs (battery electric vehicles) might be a bad idea but I like
 them, I like the torque.
@@ -431,6 +448,8 @@ BEVs try to solve too many things at once. One is let's have an EV
 with clean motor, second is let's have a battery that does not weigh a
 ton, charges fast, etc. The world cannot wait while the monkey boy
 flails, trying to do it all.
+
+---
 
 Q: If you had to pick one place to start for H2 adoption, where would it be?
 
@@ -453,6 +472,8 @@ directing cities to the companies ppl knowledgeable in the area.
 Obviously as BEVs are a bad idea for cars, they are even a stupider
 idea for buses. They would take half a day to refuel!
 
+---
+
 Comment
 
 The most important reason why China is getting into hydrogen is that
@@ -464,6 +485,8 @@ home. It is the same situation as in Tokyo and many other Asian
 cities.
 
 A: Good point
+
+---
 
 [Comment](https://mobile.twitter.com/MLiebreich/status/879467384473616384)
 
@@ -493,12 +516,16 @@ approach in the Middle East. Or pick any material with sufficient
 energy density, like ammonia, we can store energy at room temparature,
 with very rich content in hydrogen.
 
+---
+
 News
 
 Assange is arrested
 
 A: I hope the plan is letting him go through the backdoor. Jailing the
 best journo in the world is not cool.
+
+---
 
 [Airbus Commercial Aircraft President Guillaume Faury](https://twitter.com/HydrogenCouncil/status/1113465033042923522)
 
@@ -517,7 +544,7 @@ road!
 
 A: Crazy
 
-# Q&A - 6/4
+---
 
 News
 
@@ -536,6 +563,8 @@ substance could be used to kill people, we would not have
 fertizilers. Hell Haber did his research specifically to kill people,
 to gas them, not making fertilizers. But his research ended up feeding
 billions.
+
+---
 
 Question
 
@@ -570,6 +599,8 @@ reason behind @GaryMarcus's beef with NNs. Marcus is a critic of the
 
 Deep NNs did wonders as of late however. No complaining there.
 
+---
+
 Question
 
 Can the structure of a neural net be seen as that language akin to mathematics?
@@ -581,6 +612,8 @@ itself, and it does not lead to easy, straight-forward, algebraic-like
 effortless (read: computation-less) manipulation. Also it itself does
 not compute anything; whereas Calculus can compute using symbolic
 manipulation alone.
+
+---
 
 Keanu Reeves
 
@@ -597,6 +630,8 @@ nonesense. "Let's educate all in the same mold".
 
 The sentiment tickles me a little bit bcz I grew up on it. But... it dont
 work.
+
+---
 
 [Eric Bjksdjfklsjlkdfjlskson](https://mobile.twitter.com/erikbryn/status/1110685908431335424)
 
@@ -619,6 +654,8 @@ connected you see...
 I dont mean to nag on Bjksdjfklsjlkdfjlskson. He wrote some good
 stuff on AI.
 
+---
+
 Progressive
 
 Electoral college should be abolished
@@ -633,6 +670,8 @@ Also Obama knew Garland would not go through when he appointed
 him. He wanted to give Dems a reason to vote for Hillary. As it turns
 out it didnt work.
 
+---
+
 News
 
 Democrats are asking for Trump's tax returns
@@ -644,6 +683,8 @@ sound like whiny losers. Main reason was all these complaints are
 based on lies. Tax return is abt unearthing the truth about
 something. Good.
 
+---
+
 Jay Leno
 
 Late-night comedy is too one-sided
@@ -654,9 +695,10 @@ Trump caused the system to go haywire. I wish saner days were back.
 Right now Conan seems to be more like Letterman of old, not too
 partisan, showcasing young talent... Does The Late Show still do that?
 
-I saw
-[this](200~https://m.youtube.com/watch?v=pIuOhoPB6U8)
+I saw [this](200~https://m.youtube.com/watch?v=pIuOhoPB6U8)
 the other day looked good.
+
+---
 
 Q: But Letterman also went negative on Dubya, whenever approval
 ratings of a prez go down (as Trump's are low now) they get roasted.
@@ -665,6 +707,8 @@ A: Fair point. But today it feels like there is a whole different
 level of partisanship. Obviously Trump bears some of the blame. But
 comedy overall it still too extreme on the one end. After a certain
 threshold it's not even funny anymore.
+
+---
 
 Q: Where does comedy come from
 
@@ -687,12 +731,14 @@ could shit not fart. He became obsessed by it, he made it his project
 and tried this for a week. He failed, and when he told me I nearly
 cried.
 
+---
+
 News
 
 Scientists Used IBM's Quantum Computer to Reverse Time, Possibly
 Breaking a Law of Physics 
 
-A: Sabina Hossfelder [responds](https://mobile.twitter.com/skdh/status/1107906567033245696):
+A: Sabina Hossenfelder [responds](https://mobile.twitter.com/skdh/status/1107906567033245696):
 "Once again: Scientists did not "reverse time" and did not "break a
 law of physics". Correct story: Some processes are reversible. Entropy
 can decrease locally. We have known this for a long time. Great

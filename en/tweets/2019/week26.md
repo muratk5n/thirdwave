@@ -1,4 +1,4 @@
-# Tweets - Week 26
+# Week 26
 
 Haha.. Swalvel landed a punch on Bootyjudge, so did Partypooper
 Hickenlooper. Here is the thing, Hick is probably the more capable

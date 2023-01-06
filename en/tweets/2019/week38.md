@@ -1,4 +1,4 @@
-# Tweets - Week 38
+# Week 38
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">So Green hydrogen, together with wind and solar, has the possibility to replace ALL oil/petrol/diesel, natural gas, coal, nuclear and most of batteries. Did I miss anything?</p>&mdash; William Blomstrand (@william_sw) <a href="https://twitter.com/william_sw/status/1174433503422963720?ref_src=twsrc%5Etfw">September 18, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

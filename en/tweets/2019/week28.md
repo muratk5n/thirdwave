@@ -1,4 +1,4 @@
-# Tweets - Week 28
+# Week 28
 
 Maudin, time travel not possible. 
 
@@ -542,6 +542,8 @@ success.
 In most areas we are starting to deal with nonlinearity more and
 more. Nonlinear environments are extremely hard to predict.
 
+---
+
 Question
 
 So that means mystery, people running around in multiple universes,
@@ -560,6 +562,8 @@ to fusion jazz, is this fusion or *con*fusion? Sounds bunch of pots
 and pans thrown down the stairs to me... Not exactly music - good jazz
 can be fascinatingly complex, but still be music. Not fusion jazz.
 
+---
+
 Question
 
 What is art?
@@ -576,6 +580,8 @@ takes someone away from their existing reality into that other one.
 That other reality can border on the fantastic, but that's okay as
 long as it is internally consistent. I see a cat, I see the same cat
 again, they changed something in the Matrix. Internally consistent.
+
+---
 
 Tooze, Crashed
 
@@ -610,6 +616,8 @@ those same economies in 2012 was $368 billion.
 
 <span style="color:red">Brrr</span>
 
+---
+
 Tooze
 
 That the astonishing events in Congress in 2013 did not lead to an
@@ -638,6 +646,8 @@ had pumped trillions into the financial system. Now the markets hung
 on its every word.
 
 <span style="color:red">Yeah no shit</span>
+
+---
 
 Tooze
 
@@ -696,6 +706,8 @@ America’s network.
 These passages claim the position of the dollar as the global currency
 was not weakened due to global crisis, but in fact strengthened.
 
+---
+
 Question
 
 One of the most famous singers [Bulent Ersoy] in TR is a
@@ -741,8 +753,7 @@ around ancestor worship.
 U cant escape a thing that surrounds every part of your being. You
 might domesticate plants but they will also domesticate you. 
 
-
-# QA - 6/7
+---
 
 [Trek TNG](http://www.chakoteya.net/NextGen/275.htm)
 
@@ -762,6 +773,8 @@ seems...
 U know what else was born between two waves? The United States of
 America. 
 
+---
+
 Comment
 
 Electrons are sometimes waves sometimes particles.
@@ -778,6 +791,8 @@ physicists know this difference.
 
 Why don't you just admit, you found an angle that lets you compute
 easily, you have nothing beyond that.
+
+---
 
 Comment
 
@@ -806,6 +821,8 @@ do that day, now you can feed your wives, provide for your underlings.
 Look at the graph, Italy is very close to Greece and TR. Rome 1, 2 and
 3. The ground-zero for mafia empires.
 
+---
+
 Comment
 
 "But [bad coutry XYZ] in international relations cannot be reasoned
@@ -828,6 +845,8 @@ piece".
 
 So forget all that rational or irrational moves, thoughts, the oppo is
 a donkey!  How can you deal with a donkey? Drop bombs!
+
+---
 
 Tooze, *Crashed*
 
@@ -854,6 +873,8 @@ put Trump in the White House.
 
 <span style="color:red">The house (Wall Street) always wins</span>
 
+---
+
 Tooze
 
 The resulting tax bill that passed both houses of Congress in December
@@ -872,6 +893,8 @@ income distribution owns 90 percent of corporate equity—the benefits
 go to the better off.
 
 <span style="color:red">Some tax cut</span>
+
+---
 
 Tooze
 
@@ -925,6 +948,8 @@ rich as he claims.
 The culture code for money in US is PROOF. Of success, having made it,
 etc. That is why, at a cultural level, a billionaire is accepted.
 
+---
+
 Question
 
 What is the culture code for POTUS?
@@ -932,6 +957,8 @@ What is the culture code for POTUS?
 <span style="color:red">MOSES</span>
 
 Bernie has an advantage here
+
+---
 
 [Keen](https://www.ecocognito.com/twitawoo/post/housing-crisis-explained-nothing-we-can-do)
 
@@ -988,7 +1015,8 @@ enabled the creation of credit money to fuel rising house prices,
 setting off a feedback loop that only ended in 2008.
 
 <span style="color:red">The man speaka some sense...</span>
-# QA - 15/7
+
+---
 
 Beard et al, from *Introduction to Feedback Control*
 

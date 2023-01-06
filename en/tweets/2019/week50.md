@@ -1,4 +1,4 @@
-# Tweets - Week 50
+# Week 50
 
 Burn 🔥🔥🔥
 

@@ -1,4 +1,4 @@
-# Tweets - Week 41
+# Week 41
 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">End of empire stuff: Chef Tom Kerridge says £32.50 fish and chips &#39;easily justifiable&#39; <a href="https://t.co/5V0K24PKHQ">https://t.co/5V0K24PKHQ</a> - need the mark up for the rent eh chef?</p>&mdash; Renegade Inc. (@Renegade_Inc) <a href="https://twitter.com/Renegade_Inc/status/1182036857351217158?ref_src=twsrc%5Etfw">October 9, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

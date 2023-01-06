@@ -1,4 +1,4 @@
-# Tweets - Week 30
+# Week 30
 
 Chicken Coupe Deville - Warm Beer \#music
 

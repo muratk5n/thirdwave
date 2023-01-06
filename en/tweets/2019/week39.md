@@ -1,4 +1,4 @@
-# Tweets - Week 39
+# Week 39
 
 That's true. Incentives, rules define outcome. Dems allowed private interests have free reign, and when these ppl do what they do, some complain. 
 Do not "implore" ppl for the right behaviour. Want different outcomes? Change the game.
