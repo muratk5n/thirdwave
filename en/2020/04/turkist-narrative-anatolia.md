@@ -245,7 +245,8 @@ does it fall short in so many different ways, can only work as
 case-by-case basis, depending on context, region, and person. This
 sounds to me the nationalisation plan wasn't fully thought through,
 haphazardly done, without proper understanding. I believe it's high
-time to abdandon it.
+time to abdandon it. Anatolians need to accept there is no such thing
+as Turk.
 
 References
 
