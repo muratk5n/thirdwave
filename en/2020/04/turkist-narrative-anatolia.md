@@ -217,7 +217,7 @@ pattern, made up of a few base words with usually martial, sometimes
 racist themes, such as er (soldier), öz (essence, root, with racist
 overtones), or simply Turk. There are Ozturk, Turker, Erturk, etc. The
 names, since they refer to an incorrect, inconsistent take of the
-past, are now a sad reminder of a nationalization process gone wrong.
+past, are now a sad reminder of a corrupted nationalization process.
 
 - The word Turk meant different things to different people. In the
 Balkans (where most of the founders came from) it simply meant
