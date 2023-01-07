@@ -136,6 +136,6 @@ def crime_annual_summary(cols):
     
 if __name__ == "__main__":
     #conv_xls_csv()
-    #get_crime_year(2022,init=True)
-    df = crime_annual_summary(['homicide','rape','robbery','aggravated-assault'])
+    get_crime_year(2022,init=True)
+    #df = crime_annual_summary(['homicide','rape','robbery','aggravated-assault'])
     

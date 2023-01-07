@@ -84,14 +84,15 @@ the narrative had the double side effect of ignoring the religion
 of the region, especially of the "backstabbers".
 
 - Turk always meant Muslim in the Balkans, for recent migrants from
-Balkans who were Muslim this identity wasn't too off-putting. But per
+Balkans who were Muslim this identity wasn't too off-putting (but per
 above founders pushed Islam in the background, creating a
-contradiction.
+contradiction)
 
-- The identity worked best for migrants who had truly arrived
-recently, Circassians, Tatars, and others. In the case of Tatars the
-identity worked even better - they looked Asiatic. However as the
-"scratch a Tatar you get a Russian" comment suggests the newly
+- The identity worked best for migrants who had arrived recently,
+Circassians, Tatars, and others - the narrative said Turks "just
+arrived" into these new lands and remained unchanged in the case of
+Tatars the identity worked even better - they looked Asiatic. However
+as the "scratch a Tatar you get a Russian" comment suggests the newly
 arrivals weren't exactly Turkic, then they assimilated into Anatolia
 which wasn't Turkic either. Their story became another tragic example
 of labeling gone wrong.
