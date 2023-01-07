@@ -222,7 +222,7 @@ past, are now a sad reminder of a corrupted nationalization process.
 - The word Turk meant different things to different people. In the
 Balkans (where most of the founders came from) it simply meant
 Muslim. In Anatolia it was actually considered an ethnic slur. A story
-can demonstrate this well; During the last days of the empire as the
+can demonstrate this well - during the last days of the empire as the
 new nationalism was circulating among the cadres, one officer wanted
 to check how much the regular soldiers knew of "their identity". He
 first asked them about the sultan, the Caliph, etc. The soldiers
