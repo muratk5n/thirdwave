@@ -115,13 +115,12 @@ everyone, bizarrely constructed as it was, if one said you were it,
 you could become it. But the story, rationalization of the identity
 had gone so beyond sanity, most of the notable "other" natives found
 it absurd, and would never accept it. Hence they were demonized, Kurds
-were labeled as being "mountain Turks" for example who just did not
-know what they truly were, since they were this stupid they could be
-jailed or killed. Attacks toward other "non-Turks" also
-increased. Opression led to rebellion, which caused Kurds to see
-themselves more and more distinct. Now, sadly, even some Kurds want
-Turks to be Turks - because it reinforces their seperatist wishes,
-them being a seperate Kurd.
+were labeled as being "mountain Turks" who just did not know what they
+truly were, since they were this stupid they could be jailed or
+killed. Attacks toward other "non-Turks" also increased. Opression led
+to rebellion, which caused Kurds to see themselves more and more
+distinct. Now, sadly, even some Kurds want Turks to be Turks - because
+it reinforces their seperatist wishes, them being a seperate Kurd.
 
 - Same dynamic worked with Greeks - surely a people of Christian
 denomination, but in cultural matters, especially in Anatolia, that
@@ -138,11 +137,11 @@ Islam. But the Islamoturkist Synthesis was also strategically crafted
 to fit the needs of the US, Brits and the outer alliance in
 general. In the 80s Islamist Mujaheddin was fighting in Afghanistan
 against the Godless Soviets, religion was needed now, it was back en
-vogue in Pakistan, and neighboring countries as well. However this
-synthesis increased the internal inconsistencies of the Turkist
+vogue in Pakistan, and neighboring countries as well. But The
+Synthesis increased the internal inconsistencies of the Turkist
 narrative even further. What Founder Kemal ignored was back, according
 to earlier story the Turk was a shaman, now a bizarre combo was being
-offered. Expansionist Ottomans were now good along with its Khalif, in
+offered. Expansionist Ottomans were now a-ok along with its Khalif, in
 opposition to non-expansionist secular Republic. The reception of the
 synthesis was lukewarm, older city Anatolians brought up by the old
 system continued to believe in it, new ones pushed and pulled it into
@@ -160,7 +159,7 @@ war, ignore the economic issues, just fight over hijab, "women's
 rights". Well-to-do Turkist Kemalist would fight to force women to
 take off their hijab, whereas conservative from usually poorer
 background tried to "defend their identity" by refusing.. The Turkist
-resurgence through the image of Kemal is expounded upon more in this work [5].
+resurgence used the image of Kemal as its mascot [5].
 
 <a name='problems'/>
 
