@@ -109,18 +109,19 @@ animonsities which could be exploited such as in Cyprus) with the
 chaos potential reaching all the way into Central Asia, Caucuses, and
 even Xinjang.
 
-- Old neighbors becoming enemies reinforced the narrative. As all good
-Ponzi schemes go, the narrative allowed a way in for everyone,
-bizarrely constructed as it was, if one said you were it, you could
-become it. But the story, rationalization of the identity had gone so
-beyond odd, most of the notable "other" natives found it absurd, and
-would never accept it. They were demonized for this reason, Kurds were
-labeled as being "mountain Turks" for example who just did not know
-what they truly were, since they were this stupid they could be jailed
-or killed. Attacks toward other "non-Turks" also increased. Opression
-led to rebellion, which caused Kurds to see themselves more and more
-distinct. Now, sadly, even some Kurds want Turks to be Turks - because
-it reinforces their seperatist wishes, them being a seperate Kurd.
+- Old neighbors becoming enemies reinforced the narrative. As any good
+Ponzi schemes the Turkist nationalist narrative allowed a way in for
+everyone, bizarrely constructed as it was, if one said you were it,
+you could become it. But the story, rationalization of the identity
+had gone so beyond odd, most of the notable "other" natives found it
+absurd, and would never accept it. They were demonized for this
+reason, Kurds were labeled as being "mountain Turks" for example who
+just did not know what they truly were, since they were this stupid
+they could be jailed or killed. Attacks toward other "non-Turks" also
+increased. Opression led to rebellion, which caused Kurds to see
+themselves more and more distinct. Now, sadly, even some Kurds want
+Turks to be Turks - because it reinforces their seperatist wishes,
+them being a seperate Kurd.
 
 - Same dynamic worked with Greeks - surely a people of Christian
 denomination, but in cultural matters, especially in Anatolia, that
