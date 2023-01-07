@@ -172,8 +172,8 @@ lack of accuracy. The nomads, the real Turks who arrived from Central
 Asia adopted to their new homeland, taking up Islam was one of those
 transitions. Many others in Anatolia did the same, and later when 20th
 century wanted to label someone as Turk they simply referred to all
-Muslims as such. The set of Moslems who were labeled as Turks were
-always larger than the set of ethnic Turks. From [post](../../2021/07/lycian-history.html)
+Muslims as such. Therefore the set of Muslims labeled as Turks were
+always larger than the set of ethnic "true" Turks. From [post](../../2021/07/lycian-history.html)
 
 >[F]ollowing the Turkish War of Independence in which Greece (The
 >Ottoman Empire had lost Greece as part of its territory by this time)
@@ -189,9 +189,9 @@ always larger than the set of ethnic Turks. From [post](../../2021/07/lycian-his
 >while a Greek-speaking Muslim who knew no Turkish was considered
 >Turkish and expelled to Turkey
 
-- Then the founders wanted to "de-Islamize" the term, so Muslims who
-became Turks, who mostly were not Turks, had to de-Islamize (and later
-re-Islamize -post 80s-). Confused yet?
+- But the founders wanted to "de-Islamize" the term as well, so
+Muslims who became Turks, who mostly were not Turks, had to
+de-Islamize (and later re-Islamize -post 80s-). Confused yet?
 
 - As the Turkist ideology cannot be maintained logically, founders had
 to appeal to 10,000 years of Anatolian custom around ancestor
