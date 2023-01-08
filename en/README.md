@@ -1,8 +1,8 @@
 
 The clapping for Karzai photo shared previously was not a dig in admin
-for quitting on an ally. It was about invading and staying in the
-first place giving ppl false hope against entrenched forces, and not
-helping a country properly when they could.
+for quitting on an ally. It was about US invading and staying giving
+ppl false hope against entrenched forces, and not helping a country
+properly when they could.
 
 ---
 
