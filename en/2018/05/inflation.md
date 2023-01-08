@@ -100,6 +100,11 @@ population of >300 mil has mil active personnel less than 1.5 mil. Gov
 still deficit spends but if it all goes to Reytheon, Lockheed, from
 there to some offshore haven, then to stocks - no inflation.
 
+In summary, more newly printed money in more hands can be
+inflationary. One rich person can only buy so many cars. But a million
+with increased wages can buy millions of products, bidding up their
+prices which for unchanged set of products will cause inflation.
+
 Marginal Revolution University
 
 <iframe width="340" src="https://www.youtube.com/embed/gi7jx5IJtik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
