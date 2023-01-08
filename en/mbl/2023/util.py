@@ -8,6 +8,14 @@ import urllib.request as urllib2
 from io import BytesIO
 import pandas_ta as ta
 
+def covid_hospitalization():
+   df = pd.read_csv('https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/hospitalizations/covid-hospitalizations.csv',parse_dates=True)
+   df = df[df.indicator == 'Daily hospital occupancy per million']
+   df = df[['date','entity','value']]
+   df.columns = ['date','country','Daily hospital occupancy per million']
+   df = df.set_index('date')
+   return df
+
 def sm_plot_ukr2(file,oldfile,geo):
     sm_plot_ukr1(file,geo)    
     df = np.array(pd.read_csv(oldfile,header=None))
@@ -58,14 +66,6 @@ def crime_vio_state(state):
    pop = pd.read_csv(d + '/uspop.csv',index_col=0)
    df['pop'] = pop
    df['rate'] = (df['crime'] / df['pop']) * 100000
-   return df
-
-def covid_hospitalization():
-   df = pd.read_csv('https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/hospitalizations/covid-hospitalizations.csv',parse_dates=True)
-   df = df[df.indicator == 'Daily hospital occupancy per million']
-   df = df[['date','entity','value']]
-   df.columns = ['date','country','Daily hospital occupancy per million']
-   df = df.set_index('date')
    return df
 
 def boxofficemojo(q):
