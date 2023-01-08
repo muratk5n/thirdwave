@@ -54,14 +54,14 @@ df = df[df.country == 'United States']['Daily hospital occupancy per million']
 df.plot(title='Covid Hospitalizations, US', ylim=[0,600])
 ```
 
-<img width="340" src="tweets/2023/covid-hospus1.jpg"/>
+<img width="340" src="mbl/2023/covid-hospus1.jpg"/>
 
 ```python
 df = df[df.country == 'France']['Daily hospital occupancy per million']
 df.plot(title='Covid Hospitalizations, France', ylim=[0,600])
 ```
 
-<img width="340" src="tweets/2023/covid-hospfr1.jpg"/>
+<img width="340" src="mbl/2023/covid-hospfr1.jpg"/>
 
 ---
 
