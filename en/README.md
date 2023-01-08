@@ -1,146 +1,135 @@
 
-"@genesisoflegend@dice.camp
-
-I have found the Fediverse remarkable low stress and peaceful so
-far. I feel that I am able to give strangers the benefit of the doubt
-and it seems to be working out shockingly well"
-
----
-
-It sounds like the invention can help massively increase CSP output;
-an interesting combo btw panels and solar concentration.
-
-Science Daily: "A new kind of solar panel, developed at the University
-of Michigan.. represents a major leap in the technology, nearly 10
-times more efficient than solar water-splitting experiments of its
-kind... The outstanding result comes from two advances. The first is
-the ability to concentrate the sunlight without destroying the
-semiconductor that harnesses the light... the second is using both the
-higher energy part of the solar spectrum to split water and the lower
-part of the spectrum to provide heat that encourages the reaction. The
-magic is enabled by a semiconductor catalyst that improves itself with
-use, resisting the degradation that such catalysts usually experience
-when they harness sunlight to drive chemical reactions"
-
-[[-]](https://www.sciencedaily.com/releases/2023/01/230104115158.htm)
+The clapping for Karzai photo shared previously was not a dig in admin
+for quitting on an ally. It was about invading and staying in the
+first place giving ppl false hope against entrenched forces, and not
+helping a country properly when they could.
 
 ---
 
-"@roygrubb@mastodon.green
+*War Machine* paints the screw up that was the US involvement in AFG
+well. The McMahon-Karzai scene; the general is just another US
+official meddling.. US did not help the country, institutionally were
+not capable. Another scene, general asks someone about growing an
+alternate crop to poppy seed, the response was cotton is suitable, but
+Congress will not let USAID help grow a product that will compete with
+US farmers.
 
-Cheap, sustainable hydrogen: New catalyst is 10 times more efficient
-than previous sun-powered water-splitting devices \#hydrogen #solar"
-
-[[-]](https://masto.ai/@roygrubb@mastodon.green/109635591486504242)
-
----
-
-"@MarkRuffalo@mastodon.social
-
-Hey everyone. Just wanted to eliminate the confusion and let you know
-that this is actually me. 😂 Hope you are having an awesome Thursday!"
-
-[[-]](https://files.mastodon.social/media_attachments/files/109/638/531/136/943/525/original/d8824ef1160478e6.jpeg)
+I searched for that exact quote in *The Operators*, movie's source
+material, not there, but there is the story around few brave officials
+[in this book](2023/01/little-america-chandrasekaran.html#cotton) who tried to
+pushing cotton to supplant poppy in Afghanistan, and failing thanks to
+USAID torpedoing the idea.
 
 ---
 
-"@mhoye@mastodon.social
+"@suramya@mastodon.social
 
-[A] core Bitcoin developer can get their whole wallet emptied
-out unrecoverably on them, and that developer's immediate reflex is to
-start calling a centralized authority for help.."
-
-[[-]](https://files.mastodon.social/media_attachments/files/109/621/247/574/415/081/original/cf22644a21326f42.png)
+India Approves $2.3 Billion Plan To Become Global Hub for Green
+Hydrogen by 2030" via [TIME](https://time.com/6244782/india-2-billion-green-hydrogen)
 
 ---
 
-That's true - Babylon 5 spaceship was an O'Neill Cylinder.
+"@opensciencedaily@mastodon.online
+
+India approves national green hydrogen mission, adding 125GW of
+renewables by 2030"
 
 ---
 
-Bunch of jagoffs had taken the Prize earlier in physics for QED 👎 and
-another guy for renormalization - the trick used to sweep infinities
-under the rug.
+"@Hy_Economy@mastodon.social
 
-It's sad..
-
----
-
-The econ guy shouldn't even be there his Prize isn't Nobel
+Big \#hydrogen + ammonia subsides expected in Japan: 'The plan
+proposed that the Japanese government would subsidize the difference
+in price between the two substances (hydrogen and ammonia) and
+existing fuels (fossil fuels) for 15 years'" via The Diplomat
 
 ---
 
-Zeinab Badawi going ga-ga over Nobel lauretes in that BBC show.. boy
-did that stuff get old fast.
+```python
+df = u.covid_hospitalization()
+```
+
+```python
+df = df[df.country == 'United States']['Daily hospital occupancy per million']
+df.plot(title='Covid Hospitalizations, US', ylim=[0,600])
+```
+
+<img width="340" src="tweets/2023/covid-hospus1.jpg"/>
+
+```python
+df = df[df.country == 'France']['Daily hospital occupancy per million']
+df.plot(title='Covid Hospitalizations, France', ylim=[0,600])
+```
+
+<img width="340" src="tweets/2023/covid-hospfr1.jpg"/>
 
 ---
 
-The unit they showed was from Treadwell. Those guys have the know-how
-to use seawater efficiently. They can use that know-how for H2
-generation on land. 
+Did covid hospitalizations in the rest of the world increase due to CH
+opening up? Data,
 
-[[-]](https://www.treadwellcorp.com/about-who-we-are.php)
-
----
-
-When submarines need air what do they use? Electrolysis, of course!
-Electrolysis of water generates hydrogen **and** oxygen. Saw in a sub
-docu.
+[[-]](https://github.com/owid/covid-19-data/tree/master/public/data/hospitalizations)
 
 ---
 
-Maybe they'll find one that will eat coronaviruses one day
+A German Pope trying to mend relations with Russians (their church)?
+No no no.. That is a no-go my friend... Europe had to be *fighting*
+Russians, not mend relations. Then Benedict he resigned. 🤨
 
-New Atlas: "First 'virovore' discovered: An organism that eats
-viruses... '[viruses are] made up of really good stuff: nucleic acids,
-a lot of nitrogen and phosphorous,' said [researcher]. 'Everything
-should want to eat them'. ... And sure enough, one particular microbe
-seemed to be snacking on the viruses – a ciliate known as Halteria"
-
----
-
-Reshare \#2015
-
-Saw this at a bookstore in Berlin today. A piece of history etched in stone
-
-[[-]](mbl/2015/20150716_112800.jpg)
+Newsweek: "At the start of Benedict's tenure in 2007, the
+newly-installed pope met with Putin for what was considered at the
+time to be the highest-level Kremlin-Vatican talks in more than three
+years, with the pair focused on easing tension between Roman Catholics
+and Orthodox Christians in the country"
 
 ---
 
-Rewewables Now: "Egypt allocates more land for renewables, green hydrogen"
+Zucman: "As Roosevelt’s message to Congress expresses clearly, the
+quasi-confiscatory top marginal income tax rates championed by the
+United States were designed to reduce inequality, not to collect
+revenue"
+
+[[-]](https://forgeorganizing.org/article/triumph-injustice-boston-richmond)
 
 ---
 
-Tryptophan also makes serotonin so it helps making ppl feel good, not
-tired. The ep could've used that, maybe in the next one where Opposite
-George is all happy because of the turkey.
+All this stuff needs enforcement
 
-"Tryptophan in turkey gained some notoriety, thanks to an iconic
-Thanksgiving episode of the sitcom 'Seinfeld' as the chemical that
-makes people tired after eating. The actual truth is people tend to
-get tired after a Thanksgiving meal because they generally eat a lot
-of food in one sitting"
+[NYT](https://www.nytimes.com/2021/06/12/business/private-equity-taxes.html):
+"Private Inequity: How a Powerful Industry Conquered the Tax
+System The I.R.S. almost never audits private equity firms, even as
+whistle-blowers have filed claims alleging illegal tax avoidance"
 
----
+[Market Watch](https://www.marketwatch.com/story/irs-misses-substantial-tax-evasion-by-the-wealthiest-americans-this-study-calculates-just-how-much-11616502277):
+"IRS misses ‘substantial’ tax evasion by the wealthiest Americans — far
+more than the average worker"
 
-NYT: "Meta Fined $414 Million After Ad Practices Ruled Illegal Under EU Law"
-
----
-
-McCarthy is having a tough time.. I thought he had dotted the i's
-before seeking SOTH but "the 20" doesn't trust him. Not on Ukraine,
-not on government spending... 
+[Bloomberg](https://www.bloomberg.com/news/features/2021-09-15/peter-thiel-gamed-silicon-valley-tech-trump-taxes-and-politics):
+"According to IRS rules, if a Roth IRA account holder engages in a
+prohibited transaction—like using the money to invest in a company you
+legally control—then that person loses the tax break for the entirety
+of the portfolio’s value. In Thiel’s case that would mean he could be
+on the hook for a tax bill in the billions"
 
 ---
 
-[Link](https://drive.google.com/uc?export=view&id=1NmVV1A_eXipgWDOx8W6HP5vLX6tFHOyi)
+Not good... The repeal will serve the rich
+
+McC: "Our very first bill will repeal Biden's 87,000 new IRS agents"
 
 ---
 
-The collection of the crime data wasn't easy, had to hit the API for
-each PD, one by one. A single API call for a summary could be
-better. The calls that return bigger results have bizarre paging
-issues. If FBI needs it I could give them a few pointers.
+McCarthy SOTH speech: the key is what was left out - not a single
+mention of Russia, Ukraine, but early mention of economic competition
+with China.
+
+---
+
+TASS: "Ukraine’s economy and military potential are currently fully
+dependent on the Western support while time is not on the side of
+Ukraine, ex-US Secretary of State Condoleeza Rice.. and former US
+Secretary of Defense Robert Gates.. said in a joint opinion piece
+published by the Washington Post on its website on Saturday"
 
 ---
 
