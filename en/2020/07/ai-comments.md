@@ -158,4 +158,8 @@ TIME article
 increases in the speed and performance of computers do not necessarily
 imply that we will attain strong AI soon"
 
+Memes
+
+[Peter Parker](../../mbl/2021/twimg/E4dN9xbVgA46Bz5.jpg)
+
 [[Up]](ai.html)
