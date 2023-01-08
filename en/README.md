@@ -8,7 +8,7 @@ properly when they could.
 
 *War Machine* paints the screw up that was the US involvement in AFG
 well. The McMahon-Karzai scene; the general is just another US
-official meddling.. US did not help the country, institutionally were
+official meddling.. US did not help the country, institutionally was
 not capable. Another scene, general asks someone about growing an
 alternate crop to poppy seed, the response was cotton is suitable, but
 Congress will not let USAID help grow a product that will compete with
