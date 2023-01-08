@@ -46,7 +46,7 @@ existing fuels (fossil fuels) for 15 years'" via The Diplomat
 ---
 
 ```python
-df = u.covid_hospitalization()
+df = u.covid_hospitalization() # per million ppl
 ```
 
 ```python
