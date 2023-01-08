@@ -113,7 +113,7 @@ on the hook for a tax bill in the billions"
 
 ---
 
-Not good... The repeal will serve the rich
+Not good... The repeal will serve the ultra-rich
 
 McC: "Our very first bill will repeal Biden's 87,000 new IRS agents"
 
