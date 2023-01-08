@@ -112,7 +112,7 @@ Rewewables Now: "Egypt allocates more land for renewables, green hydrogen"
 ---
 
 Tryptophan also makes serotonin so it helps making ppl feel good, not
-full. The ep could've used that, maybe in the next one where Opposite
+tired. The ep could've used that, maybe in the next one where Opposite
 George is all happy because of the turkey.
 
 "Tryptophan in turkey gained some notoriety, thanks to an iconic
