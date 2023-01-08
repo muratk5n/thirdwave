@@ -74,7 +74,7 @@ opening up? Data,
 
 A German Pope trying to mend relations with Russians (their church)?
 No no no.. That is a no-go my friend... Europe had to be *fighting*
-Russians, not mend relations. Then Benedict he resigned. 🤨
+Russians, not mend relations. Then Benedict resigned. 🤨
 
 Newsweek: "At the start of Benedict's tenure in 2007, the
 newly-installed pope met with Putin for what was considered at the
