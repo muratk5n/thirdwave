@@ -8,6 +8,10 @@ import urllib.request as urllib2
 from io import BytesIO
 import pandas_ta as ta
 
+def mov_profit(budget, gross):
+  marketing = budget / 2
+  return gross - (budget + marketing + gross*0.4)
+
 def covid_hospitalization():
    df = pd.read_csv('https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/hospitalizations/covid-hospitalizations.csv',parse_dates=True)
    df = df[df.indicator == 'Daily hospital occupancy per million']

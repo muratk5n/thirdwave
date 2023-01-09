@@ -120,8 +120,8 @@ McC: "Our very first bill will repeal Biden's 87,000 new IRS agents"
 ---
 
 McCarthy SOTH speech: the key is what was left out - not a single
-mention of Russia, Ukraine, but early mention of economic competition
-with China.
+mention of Russia, Ukraine, but early mention of competition with
+China.
 
 ---
 
