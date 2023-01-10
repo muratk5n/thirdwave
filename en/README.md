@@ -5,13 +5,13 @@ Norwegian company Blastr Green Steel on Tuesday"
 
 ---
 
-Bloomberg: "How Changing Diets Leave Us Exposed to War, Extreme Weather
-and Market Turbulence The convergence of global diets means just three
-crops provide 50% of the world’s calories. When shocks come, they
-hurt.. Bagels in New York. Cakes in Beijing. Instant noodles in
-Jakarta. Daily habits for billions, yet just a generation or so ago
-Indonesians would have likely reached for a bowl of rice or the
-Chinese a sweet potato.
+Bloomberg: "How Changing Diets Leave Us Exposed to War, Extreme
+Weather and Market Turbulence.. The convergence of global diets means
+just three crops provide 50% of the world’s calories. When shocks
+come, they hurt.. Bagels in New York. Cakes in Beijing. Instant
+noodles in Jakarta. Daily habits for billions, yet just a generation
+or so ago Indonesians would have likely reached for a bowl of rice or
+the Chinese a sweet potato.
 
 A combination of rising incomes, the impact of Western culture and
 industrial farming focused on specific crops means we are all eating
