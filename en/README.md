@@ -25,6 +25,22 @@ of all calories"
 
 ---
 
+SP Langley: "[the scientific community is] a pack of hounds.. where
+the louder-voiced bring many to follow them nearly as often in a wrong
+path as in a right one, where the entire pack even has been known to
+move off bodily on a false scent"
+
+---
+
+"@peterdeppisch@mstdn.ca
+
+Germany and Norway reach #BlueHydrogen agreement.. 'Germany's RWE and
+Norway's Equinor have agreed to supply Germany with #low-emissions
+\#hydrogen fuel. The long-term plan is to provide 100% cleanly sourced
+green hydrogen'"
+
+---
+
 Creating chaos in Ethiopia, Somalia.. Freedom is great.
 
 Nasdaq: "Somalia rejected.. what it called an 'illegal claim' by
@@ -49,22 +65,6 @@ scientific research culture of an era \#Lerner
 
 ---
 
-SP Langley: "[the scientific community is] a pack of hounds.. where
-the louder-voiced bring many to follow them nearly as often in a wrong
-path as in a right one, where the entire pack even has been known to
-move off bodily on a false scent"
-
----
-
-"@peterdeppisch@mstdn.ca
-
-Germany and Norway reach #BlueHydrogen agreement.. 'Germany's RWE and
-Norway's Equinor have agreed to supply Germany with #low-emissions
-\#hydrogen fuel. The long-term plan is to provide 100% cleanly sourced
-green hydrogen'"
-
----
-
 H2 Insight: "Prepare for lift-off | Why 2023 will be the year that
 green hydrogen moves from idea to reality around the
 world.. Government subsidy schemes are due to begin this year in the
@@ -72,10 +72,6 @@ US, EU, UK, Germany, and probably Canada, India and Portugal, all but
 guaranteeing profitability for renewable H2 projects"
 
 [[-]](https://www.hydrogeninsight.com/production/prepare-for-lift-off-why-2023-will-be-the-year-that-green-hydrogen-moves-from-idea-to-reality-around-the-world/2-1-1382245)
-
----
-
-"Concrete is good for [withstanding] compression but sucks at tension"
 
 ---
 
