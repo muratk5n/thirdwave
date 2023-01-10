@@ -58,13 +58,6 @@ represent"
 
 ---
 
-Great analysis on the correlation between the mood in society and
-scientific research culture of an era \#Lerner
-
-[[-]](2023/01/the-big-bang-never-happened-lerner.html#era)
-
----
-
 H2 Insight: "Prepare for lift-off | Why 2023 will be the year that
 green hydrogen moves from idea to reality around the
 world.. Government subsidy schemes are due to begin this year in the
@@ -83,7 +76,6 @@ Sun's gravitational force confines the positively-charged hydrogen
 nuclei.. to fuse to form the heavier helium"
 
 ---
-
 
 Alex Cortiz - Return of the Funky Babies \#music
 
@@ -107,6 +99,13 @@ at Kawas in Surat, Gujarat"
 Posted about these guys two weeks ago via Bloomberg - now they are dead
 
 Capitol Trades: "Silvergate Capital Crashes As FTX Collapse Fuels Bank Run"
+
+---
+
+Great analysis on the correlation between the mood in society and
+scientific research culture of an era \#Lerner
+
+[[-]](2023/01/the-big-bang-never-happened-lerner.html#era)
 
 ---
 
