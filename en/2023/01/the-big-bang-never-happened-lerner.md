@@ -23,19 +23,19 @@ cosmological and social ideas were made explicit by both cosmologists
 and political writers of the period...
 
 But there is probably no better example in this century of the
-interaction of social ideology and cosmology than the develop- ment of
+interaction of social ideology and cosmology than the development of
 the inflationary universe in the eighties. Nineteen eighty, with the
 coming to power of conservative administrations in America and
-elsewhere, marked the end of a period of fashion- able pessimism and
-the beginning of a decade of speculative boom. Alan Guth arrived at
-his idea of cosmic inflation just as the worst monetary inflation of
-the century was coming to a climax.  He concluded that the universe is
-a "free lunch" just as the American economy began its own gigantic
-free lunch—a period of speculation which rewarded its wealthy
-participants while ac- tual production stagnated...
+elsewhere, marked the end of a period of fashionable pessimism and the
+beginning of a decade of speculative boom. Alan Guth arrived at his
+idea of cosmic inflation just as the worst monetary inflation of the
+century was coming to a climax.  He concluded that the universe is a
+"free lunch" just as the American economy began its own gigantic free
+lunch—a period of speculation which rewarded its wealthy participants
+while actual production stagnated...
 
 Throughout the decade, the rise of financial speculation in Wall
-Street was shadowed by the rise of cosmologists' specula- tions in
+Street was shadowed by the rise of cosmologists' speculations in
 Princeton, Cambridge, and elsewhere. As Witten and his colleagues were
 acclaimed by the press as geniuses for theories that produced not a
 single valid prediction, so men like Michael Milken.. earned not only
@@ -47,8 +47,8 @@ Obviously, the small-scale speculators of cosmology did not, in any
 conscious way, imitate the large-scale speculators of Wall
 Street. Yet, as in every other epoch, society's dominant ideas
 permeated cosmology. If the wealthiest members of society earned
-billions by mere manipulation of numbers, without build- ing a single
-factory or mill, it didn't seem too strange that scien- tific
+billions by mere manipulation of numbers, without building a single
+factory or mill, it didn't seem too strange that scientific
 reputations could be made with theories that have no more relation to
 reality. If a tower of financial speculation could be built on
 debt—the promise of future payment—then, similarly, a tower of
