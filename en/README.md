@@ -36,7 +36,7 @@ green hydrogen'"
 
 ---
 
-Creating chaos in Ethiopia, Somalia.. Bring on freedom 
+Creating chaos in Ethiopia, Somalia.. Bring on the freedom 
 
 Nasdaq: "Somalia rejected.. what it called an 'illegal claim' by
 [UK's] Genel Energy GENL.L to oil exploration and exploitation rights
