@@ -72,6 +72,19 @@ nuclei.. to fuse to form the heavier helium"
 
 ---
 
+Self-propelled howitzers and tank difference? On the surface they
+might look similar but SPH is basically artillery on wheels. Tank
+physically moves in an active battlefield heavily armored, heavily
+armed, and ready for direct fire. SPH isn't as heavily armored as
+tank, but can carry out indirect fire missions on targets that are not
+in direct sight.
+
+---
+
+Janes: "[2022] Indonesia conducts loading trials of 155 mm howitzers"
+
+---
+
 Alex Cortiz - Return of the Funky Babies \#music
 
 [[-]](https://youtu.be/jGgU3YGO11c)
