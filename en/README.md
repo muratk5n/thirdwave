@@ -16,9 +16,9 @@ US farmers.
 
 I searched for that exact quote in *The Operators*, movie's source
 material, not there, but there is the story around few brave officials
-[in this book](2023/01/little-america-chandrasekaran.html#cotton) who tried to
-pushing cotton to supplant poppy in Afghanistan, and failing thanks to
-USAID torpedoing the idea.
+[in this book](2023/01/little-america-chandrasekaran.html#cotton) who
+tried to push cotton to supplant poppy in Afghanistan, and failing
+thanks to USAID torpedoing the idea.
 
 ---
 
