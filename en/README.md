@@ -1,135 +1,116 @@
 
-The clapping for Karzai photo shared previously was not a dig in admin
-for quitting on an ally. It was about US invading and staying giving
-ppl false hope against entrenched forces, and not helping a country
-properly when they could.
+Plans to establish a [€4 billion] \#GreenSteel plant with an integrated
+\#hydrogen production facility in Inkoo, Finland, were announced by
+Norwegian company Blastr Green Steel on Tuesday"
 
 ---
 
-*War Machine* paints the screw up that was the US involvement in AFG
-well. The McMahon-Karzai scene; the general is just another US
-official meddling.. US did not help the country, institutionally was
-not capable. Another scene, general asks someone about growing an
-alternate crop to poppy seed, the response was cotton is suitable, but
-Congress will not let USAID help grow a product that will compete with
-US farmers.
+Bloomberg: "How Changing Diets Leave Us Exposed to War, Extreme Weather
+and Market Turbulence The convergence of global diets means just three
+crops provide 50% of the world’s calories. When shocks come, they
+hurt.. Bagels in New York. Cakes in Beijing. Instant noodles in
+Jakarta. Daily habits for billions, yet just a generation or so ago
+Indonesians would have likely reached for a bowl of rice or the
+Chinese a sweet potato.
 
-I searched for that exact quote in *The Operators*, movie's source
-material, not there, but there is the story around few brave officials
-[in this book](2023/01/little-america-chandrasekaran.html#cotton) who
-tried to push cotton to supplant poppy in Afghanistan, and failing
-thanks to USAID torpedoing the idea.
-
----
-
-"@suramya@mastodon.social
-
-India Approves $2.3 Billion Plan To Become Global Hub for Green
-Hydrogen by 2030" via [TIME](https://time.com/6244782/india-2-billion-green-hydrogen)
+A combination of rising incomes, the impact of Western culture and
+industrial farming focused on specific crops means we are all eating
+increasingly alike. And that means more of us than ever depend on
+imported food. Wheat, now an integral part of most diets, is produced
+predominantly by just a handful of countries. When Russia’s invasion
+of Ukraine disrupted trade, global prices spiked almost 40%...Of the
+6,000 plant species humans have eaten over time, the world now mostly
+eats nine, of which just three — rice, wheat and maize — provide 50%
+of all calories"
 
 ---
 
-"@opensciencedaily@mastodon.online
+Creating chaos in Ethiopia, Somalia.. Freedom is great.
 
-India approves national green hydrogen mission, adding 125GW of
-renewables by 2030"
-
----
-
-"@Hy_Economy@mastodon.social
-
-Big \#hydrogen + ammonia subsides expected in Japan: 'The plan
-proposed that the Japanese government would subsidize the difference
-in price between the two substances (hydrogen and ammonia) and
-existing fuels (fossil fuels) for 15 years'" via The Diplomat
+Nasdaq: "Somalia rejected.. what it called an 'illegal claim' by
+[UK's] Genel Energy GENL.L to oil exploration and exploitation rights
+in the country's northern breakaway region of Somaliland"
 
 ---
 
-```python
-df = u.covid_hospitalization() # per million ppl
-```
-
-```python
-dfu = df[df.country == 'United States']['Daily hospital occupancy per million']
-dfu.plot(title='Covid Hospitalizations, US', ylim=[0,600])
-```
-
-<img width="340" src="mbl/2023/covid-hospus1.jpg"/>
-
-```python
-dff = df[df.country == 'France']['Daily hospital occupancy per million']
-dff.plot(title='Covid Hospitalizations, France', ylim=[0,600])
-```
-
-<img width="340" src="mbl/2023/covid-hospfr1.jpg"/>
+Foreign Policy: "[2021-12] A one-sided U.S. approach provided
+political cover to the [Ethiopian] TPLF insurgency...  Many Ethiopians
+even fear that Washington actively backs the insurgency and is seeking
+a Libya-Iraq-Somalia-style intervention to shatter Ethiopia and the
+new efforts for regional peace that Abiy, for many, has come to
+represent"
 
 ---
 
-Did covid hospitalizations in the rest of the world increase due to CH
-opening up? Data,
+Great analysis on the correlation between the mood in society and
+scientific research culture of an era \#Lerner
 
-[[-]](https://github.com/owid/covid-19-data/tree/master/public/data/hospitalizations)
-
----
-
-A German Pope trying to mend relations with Russians (their church)?
-No no no.. That is a no-go my friend... Europe had to be *fighting*
-Russians, not mend relations. Then Benedict resigned. 🤨
-
-Newsweek: "At the start of Benedict's tenure in 2007, the
-newly-installed pope met with Putin for what was considered at the
-time to be the highest-level Kremlin-Vatican talks in more than three
-years, with the pair focused on easing tension between Roman Catholics
-and Orthodox Christians in the country"
+[[-]](2023/01/the-big-bang-never-happened-lerner.html#era)
 
 ---
 
-Zucman: "As Roosevelt’s message to Congress expresses clearly, the
-quasi-confiscatory top marginal income tax rates championed by the
-United States were designed to reduce inequality, not to collect
-revenue"
-
-[[-]](https://forgeorganizing.org/article/triumph-injustice-boston-richmond)
+SP Langley: "[the scientific community is] a pack of hounds.. where
+the louder-voiced bring many to follow them nearly as often in a wrong
+path as in a right one, where the entire pack even has been known to
+move off bodily on a false scent"
 
 ---
 
-All this stuff needs enforcement
+"@peterdeppisch@mstdn.ca
 
-[NYT](https://www.nytimes.com/2021/06/12/business/private-equity-taxes.html):
-"Private Inequity: How a Powerful Industry Conquered the Tax
-System The I.R.S. almost never audits private equity firms, even as
-whistle-blowers have filed claims alleging illegal tax avoidance"
-
-[Market Watch](https://www.marketwatch.com/story/irs-misses-substantial-tax-evasion-by-the-wealthiest-americans-this-study-calculates-just-how-much-11616502277):
-"IRS misses ‘substantial’ tax evasion by the wealthiest Americans — far
-more than the average worker"
-
-[Bloomberg](https://www.bloomberg.com/news/features/2021-09-15/peter-thiel-gamed-silicon-valley-tech-trump-taxes-and-politics):
-"According to IRS rules, if a Roth IRA account holder engages in a
-prohibited transaction—like using the money to invest in a company you
-legally control—then that person loses the tax break for the entirety
-of the portfolio’s value. In Thiel’s case that would mean he could be
-on the hook for a tax bill in the billions"
+Germany and Norway reach #BlueHydrogen agreement.. 'Germany's RWE and
+Norway's Equinor have agreed to supply Germany with #low-emissions
+\#hydrogen fuel. The long-term plan is to provide 100% cleanly sourced
+green hydrogen'"
 
 ---
 
-Not good... The repeal will serve the ultra-rich
+H2 Insight: "Prepare for lift-off | Why 2023 will be the year that
+green hydrogen moves from idea to reality around the
+world.. Government subsidy schemes are due to begin this year in the
+US, EU, UK, Germany, and probably Canada, India and Portugal, all but
+guaranteeing profitability for renewable H2 projects"
 
-McC: "Our very first bill will repeal Biden's 87,000 new IRS agents"
-
----
-
-McCarthy SOTH speech: the key is what was left out - not a single
-mention of Russia, Ukraine, but early mention of competition with
-China.
+[[-]](https://www.hydrogeninsight.com/production/prepare-for-lift-off-why-2023-will-be-the-year-that-green-hydrogen-moves-from-idea-to-reality-around-the-world/2-1-1382245)
 
 ---
 
-TASS: "Ukraine’s economy and military potential are currently fully
-dependent on the Western support while time is not on the side of
-Ukraine, ex-US Secretary of State Condoleeza Rice.. and former US
-Secretary of Defense Robert Gates.. said in a joint opinion piece
-published by the Washington Post on its website on Saturday"
+"Concrete is good for [withstanding] compression but sucks at tension"
+
+---
+
+Hear hear the gaseous Sun crowd; how could two atoms be pressing
+eachother if not for a solid/liquid backdrop? 
+
+"What forces are involved that cause hydrogen nuclei to fuse? The
+Sun's gravitational force confines the positively-charged hydrogen
+nuclei.. to fuse to form the heavier helium"
+
+---
+
+
+Alex Cortiz - Return of the Funky Babies \#music
+
+[[-]](https://youtu.be/jGgU3YGO11c)
+
+---
+
+H2 View: "[Dutch-based tank storage firm] Vopak and Hydrogenious LOHC
+Technologies have revealed plans to launch a joint venture in a bid to
+establish the first industrial-scale hydrogen supply chain using
+liquid organic hydrogen carriers (LOHC)"
+
+---
+
+H2 View: "Indian state-owned power company, NTPC announced it had
+started blending green hydrogen into a piped natural gas (PNG) network
+at Kawas in Surat, Gujarat"
+
+---
+
+Posted about these guys two weeks ago via Bloomberg - now they are dead
+
+Capitol Trades: "Silvergate Capital Crashes As FTX Collapse Fuels Bank Run"
 
 ---
 
