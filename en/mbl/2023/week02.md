@@ -18,7 +18,7 @@ US farmers.
 
 I searched for that exact quote in *The Operators*, movie's source
 material, not there, but there is the story around few brave officials
-[in this book](2023/01/little-america-chandrasekaran.html#cotton) who
+[in this book](../../2023/01/little-america-chandrasekaran.html#cotton) who
 tried to push cotton to supplant poppy in Afghanistan, and failing
 thanks to USAID torpedoing the idea.
 
@@ -56,14 +56,14 @@ dfu = df[df.country == 'United States']['Daily hospital occupancy per million']
 dfu.plot(title='Covid Hospitalizations, US', ylim=[0,600])
 ```
 
-<img width="340" src="mbl/2023/covid-hospus1.jpg"/>
+<img width="340" src="covid-hospus1.jpg"/>
 
 ```python
 dff = df[df.country == 'France']['Daily hospital occupancy per million']
 dff.plot(title='Covid Hospitalizations, France', ylim=[0,600])
 ```
 
-<img width="340" src="mbl/2023/covid-hospfr1.jpg"/>
+<img width="340" src="covid-hospfr1.jpg"/>
 
 ---
 
