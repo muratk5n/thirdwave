@@ -8,6 +8,18 @@ import urllib.request as urllib2
 from io import BytesIO
 import pandas_ta as ta
 
+def drug_overdose_deaths():
+  url = "https://data.cdc.gov/api/views/xkb8-kh2a/rows.csv?accessType=DOWNLOAD&bom=true&format=true"
+  df = pd.read_csv(url)
+  df = df[(df.State != 'US') & (df.Indicator == 'Number of Drug Overdose Deaths') & (df.Month == 'December')]
+  df2 = df[['Year','Data Value']]
+  df2['Data Value'] = df2['Data Value'].str.replace(',','')
+  df2['Data Value'] = df2['Data Value'].str.replace('"','')
+  df2['Data Value'] = df2['Data Value'].astype(float)
+  g = df2.groupby('Year')['Data Value'].sum()
+  g.plot(kind='bar',title='Deaths by Drug Overdose')
+  plt.savefig('drugoverdose1.jpg',quality=30)
+  
 def mov_profit(budget, gross):
   marketing = budget / 2
   return gross - (budget + marketing + gross*0.4)
