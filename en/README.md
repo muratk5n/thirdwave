@@ -39,8 +39,8 @@ before the Chinese Spring Festival in Muyang City, Jiangsu Province'"
 
 Verification for the "new social media" will be easy - governments run
 their own MD servers, whoever they give usernames to are automatically
-verified. For celebrities, or other notable characters for-private
-servers can offer a similar service. 
+verified. For celebrities, or other notable characters for-profit servers
+can offer a similar service.
 
 ---
 
