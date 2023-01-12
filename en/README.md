@@ -53,7 +53,8 @@ Budget B, Marketing M, $ P = G - (B + M + 0.4 \cdot G) $ breakeven
 means the $P=0$, marketing half the budget as before, $ 0 = G - (B +
 \frac{B}{2} + 0.4 G)$ rearrange $0.4 G = B$, G=1400, then budget could
 be ~560 million. A *lot* of money.. the GDP of a small island nation.
-Hey people love the movie and it is making money. Gr8.
+
+Hey people love the movie and it is making money. Great.
 
 ---
 
@@ -69,8 +70,8 @@ HALO jump with oxygen masks? That has to be a 4 km jump at least.
 
 You couldn't even help the country switch [to cotton](../../2023/01/little-america-chandrasekaran.html#cotton)
 instead of poppy seeds how else could you improve anything else? The
-point is moot. You should be glad you got your ass kicked and finally
-left.
+point is moot. You should be glad you got your ass kicked and got to
+leave.
 
 "But if we stayed longer in Afghanistan girls could go to school"
 
@@ -93,8 +94,6 @@ Quartz: "Republicans’ first bill makes tax fraud easier for high earners"
 
 Railway Gazette: "[China's] CRRC has unveiled a hydrogen fuel cell
 powered train"
-
-<img width="340" src="https://d1c4d7gnm6as1q.cloudfront.net/Pictures/380x253/7/2/5/54725_crrchydrogentrain1_922147.jpg"/>
 
 "@Andy_Scollick@mastodon.green
 
