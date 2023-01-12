@@ -90,7 +90,7 @@ automaker"
 
 ---
 
-But the intent to repeal created deeper intra-party ideological
+But the intent to repeal created deeper inter-party ideological
 divisions on an economic issue, created less unity.. good. One side is
 for the rich, the other side is, hopefully, for the poor. Better to
 have arguments around econ than people getting worked up marginal,
