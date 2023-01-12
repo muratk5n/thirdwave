@@ -1,121 +1,115 @@
 
 ---
 
-"Plans to establish a [€4 billion] \#GreenSteel plant with an integrated
-\#hydrogen production facility in Inkoo, Finland, were announced by
-Norwegian company Blastr Green Steel on Tuesday"
+Forget those FIFA games - this is the game I want to see
+
+The Guardian: "Cristiano Ronaldo could face Lionel Messi for first
+game in Saudi Arabia"
 
 ---
 
-Bloomberg: "How Changing Diets Leave Us Exposed to War, Extreme
-Weather and Market Turbulence.. The convergence of global diets means
-just three crops provide 50% of the world’s calories... A combination
-of rising incomes, the impact of Western culture and industrial
-farming focused on specific crops means we are all eating increasingly
-alike. And that means more of us than ever depend on imported
-food. Wheat, now an integral part of most diets, is produced
-predominantly by just a handful of countries. When Russia’s invasion
-of Ukraine disrupted trade, global prices spiked almost 40%...Of the
-6,000 plant species humans have eaten over time, the world now mostly
-eats nine, of which just three — rice, wheat and maize — provide 50%
-of all calories"
+"@rifter@mastodon.social
+
+.. 'I need a reverse Shark Tank where US oligarchs explain why they
+deserve billions of dollars while standing in front of 5 people living
+in poverty who work for them'"
 
 ---
 
-SP Langley: "[the scientific community is] a pack of hounds.. where
-the louder-voiced bring many to follow them nearly as often in a wrong
-path as in a right one, where the entire pack even has been known to
-move off bodily on a false scent"
+Sundries: "[US] will launch the nation’s first passenger train powered
+by hydrogen fuel cells. San Bernardino County (California) has already
+signed a corresponding agreement. The first trains will start running
+on the state’s railways in 2024. At the same time, the authorities are
+ready to buy 25 more trains in the future"
 
 ---
 
-"@peterdeppisch@mstdn.ca
+Living in the Future's Past - Documentary, Jeff Bridges 
 
-Germany and Norway reach #BlueHydrogen agreement.. 'Germany's RWE and
-Norway's Equinor have agreed to supply Germany with #low-emissions
-\#hydrogen fuel. The long-term plan is to provide 100% cleanly sourced
-green hydrogen'"
+[[-]](https://youtu.be/ZJV0Kx7oGxU)
 
 ---
 
-Creating chaos in Ethiopia, Somalia.. Bring on the freedom 
+"@Hy_Economy@mastodon.social
 
-Nasdaq: "Somalia rejected.. what it called an 'illegal claim' by
-[UK's] Genel Energy GENL.L to oil exploration and exploitation rights
-in the country's northern breakaway region of Somaliland"
-
----
-
-Foreign Policy: "[2021-12] A one-sided U.S. approach provided
-political cover to the [Ethiopian] TPLF insurgency...  Many Ethiopians
-even fear that Washington actively backs the insurgency and is seeking
-a Libya-Iraq-Somalia-style intervention to shatter Ethiopia and the
-new efforts for regional peace that Abiy, for many, has come to
-represent"
+'A fleet of 40 FC King Long buses are scheduled to be operational
+before the Chinese Spring Festival in Muyang City, Jiangsu Province'"
 
 ---
 
-H2 Insight: "Prepare for lift-off | Why 2023 will be the year that
-green hydrogen moves from idea to reality around the
-world.. Government subsidy schemes are due to begin this year in the
-US, EU, UK, Germany, and probably Canada, India and Portugal, all but
-guaranteeing profitability for renewable H2 projects"
-
-[[-]](https://www.hydrogeninsight.com/production/prepare-for-lift-off-why-2023-will-be-the-year-that-green-hydrogen-moves-from-idea-to-reality-around-the-world/2-1-1382245)
-
----
-
-Hear hear the gaseous Sun crowd; how could two atoms be pressing
-eachother if not for a solid/liquid backdrop? 
-
-"What forces are involved that cause hydrogen nuclei to fuse? The
-Sun's gravitational force confines the positively-charged hydrogen
-nuclei.. to fuse to form the heavier helium"
+Verification in the new social media system will be easy - governments
+run their own MD servers, whoever they give usernames to are
+automatically verified. For celebrities, or other notable characters
+for-private servers can offer such a service. If you are on
+@celeb.social and if that server is widely known, checkmarks would
+mean legit verification.
 
 ---
 
-Self-propelled howitzers and tank difference? On the surface they
-might look similar but SPH is basically artillery on wheels. Tank
-physically moves in an active battlefield heavily armored, heavily
-armed, and ready for direct fire. SPH isn't as heavily armored as
-tank, but can carry out indirect fire missions on targets that are not
-in direct sight.
+Break-even point for Avatar 2 was 1.4 billion.. What was the budget?
+
+Can reverse engineer it from profit estimation; Profit P, Gross G,
+Budget B, Marketing M, $ P = G - (B + M + 0.4 \cdot G) $ breakeven
+means the $P=0$, marketing half the budget as before, $ 0 = G - (B +
+\frac{B}{2} + 0.4 G)$ rearrange $0.4 G = B$, G=1400, then budget could
+be ~560 million. A *lot* of money.. the GDP of a small island nation.
+Hey people love the movie and it is making money. Gr8.
 
 ---
 
-Janes: "[2022] Indonesia conducts loading trials of 155 mm howitzers"
+Five stars for *Pixels*, *Paul*, *Danger Close*.
 
 ---
 
-Alex Cortiz - Return of the Funky Babies \#music
+HALO jump with oxygen masks? That has to be a 4 km jump at least.
 
-[[-]](https://youtu.be/jGgU3YGO11c)
-
----
-
-H2 View: "[Dutch-based tank storage firm] Vopak and Hydrogenious LOHC
-Technologies have revealed plans to launch a joint venture in a bid to
-establish the first industrial-scale hydrogen supply chain using
-liquid organic hydrogen carriers (LOHC)"
+*Act of Valor* - it was realistic, fine action.
 
 ---
 
-H2 View: "Indian state-owned power company, NTPC announced it had
-started blending green hydrogen into a piped natural gas (PNG) network
-at Kawas in Surat, Gujarat"
+You couldn't even help the country switch [to cotton](../../2023/01/little-america-chandrasekaran.html#cotton)
+instead of poppy seeds how else could you improve anything else? The
+point is moot. You should be glad you got your ass kicked and finally
+left.
+
+"But if we stayed longer in Afghanistan girls could go to school"
 
 ---
 
-Posted about these guys two weeks ago via Bloomberg - now they are dead
-
-Capitol Trades: "Silvergate Capital Crashes As FTX Collapse Fuels Bank Run"
+But it's good, the bill created deeper intra-party ideological
+divisions on an economic issue. Need less unity. One side is for the
+rich, the other side is, hopefully, for the poor. It's better to have
+arguments around econ than people getting worked up bizarre, marginal
+stuff like gay-trans, vaginas, ass cracks.
 
 ---
 
-Great analysis on the correlation between the mood in society and
-scientific research culture of an era \#Lerner
+A little crowd pleaser act to show, practice internal unity - that's
+all. WH will surely veto even if it magically passed the Senate.
 
-[[-]](2023/01/the-big-bang-never-happened-lerner.html#era)
+Quartz: "Republicans’ first bill makes tax fraud easier for high earners"
+
+---
+
+Railway Gazette: "[China's] CRRC has unveiled a hydrogen fuel cell
+powered train"
+
+<img width="340" src="https://d1c4d7gnm6as1q.cloudfront.net/Pictures/380x253/7/2/5/54725_crrchydrogentrain1_922147.jpg"/>
+
+"@Andy_Scollick@mastodon.green
+
+---
+
+Tesla Battery Mileage Fraud
+
+[[-]](https://gotmusked.com/content/fudging-evs-battery-mileage/)
+
+---
+
+Top Speed: "Toyota’s Hydrogen Combustion Engine Has The Potential To
+Make EVs Obsolete.. Toyota is taking a diversified approach to achieve
+carbon neutrality and it could be a winning formula for the Japanese
+automaker"
 
 ---
 

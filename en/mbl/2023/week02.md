@@ -1,6 +1,126 @@
 # Week 2
 
 
+---
+
+"Plans to establish a [€4 billion] \#GreenSteel plant with an integrated
+\#hydrogen production facility in Inkoo, Finland, were announced by
+Norwegian company Blastr Green Steel on Tuesday"
+
+---
+
+Bloomberg: "How Changing Diets Leave Us Exposed to War, Extreme
+Weather and Market Turbulence.. The convergence of global diets means
+just three crops provide 50% of the world’s calories... A combination
+of rising incomes, the impact of Western culture and industrial
+farming focused on specific crops means we are all eating increasingly
+alike. And that means more of us than ever depend on imported
+food. Wheat, now an integral part of most diets, is produced
+predominantly by just a handful of countries. When Russia’s invasion
+of Ukraine disrupted trade, global prices spiked almost 40%...Of the
+6,000 plant species humans have eaten over time, the world now mostly
+eats nine, of which just three — rice, wheat and maize — provide 50%
+of all calories"
+
+---
+
+SP Langley: "[the scientific community is] a pack of hounds.. where
+the louder-voiced bring many to follow them nearly as often in a wrong
+path as in a right one, where the entire pack even has been known to
+move off bodily on a false scent"
+
+---
+
+"@peterdeppisch@mstdn.ca
+
+Germany and Norway reach #BlueHydrogen agreement.. 'Germany's RWE and
+Norway's Equinor have agreed to supply Germany with #low-emissions
+\#hydrogen fuel. The long-term plan is to provide 100% cleanly sourced
+green hydrogen'"
+
+---
+
+Creating chaos in Ethiopia, Somalia.. Bring on the freedom 
+
+Nasdaq: "Somalia rejected.. what it called an 'illegal claim' by
+[UK's] Genel Energy GENL.L to oil exploration and exploitation rights
+in the country's northern breakaway region of Somaliland"
+
+---
+
+Foreign Policy: "[2021-12] A one-sided U.S. approach provided
+political cover to the [Ethiopian] TPLF insurgency...  Many Ethiopians
+even fear that Washington actively backs the insurgency and is seeking
+a Libya-Iraq-Somalia-style intervention to shatter Ethiopia and the
+new efforts for regional peace that Abiy, for many, has come to
+represent"
+
+---
+
+H2 Insight: "Prepare for lift-off | Why 2023 will be the year that
+green hydrogen moves from idea to reality around the
+world.. Government subsidy schemes are due to begin this year in the
+US, EU, UK, Germany, and probably Canada, India and Portugal, all but
+guaranteeing profitability for renewable H2 projects"
+
+[[-]](https://www.hydrogeninsight.com/production/prepare-for-lift-off-why-2023-will-be-the-year-that-green-hydrogen-moves-from-idea-to-reality-around-the-world/2-1-1382245)
+
+---
+
+Hear hear the gaseous Sun crowd; how could two atoms be pressing
+eachother if not for a solid/liquid backdrop? 
+
+"What forces are involved that cause hydrogen nuclei to fuse? The
+Sun's gravitational force confines the positively-charged hydrogen
+nuclei.. to fuse to form the heavier helium"
+
+---
+
+Self-propelled howitzers and tank difference? On the surface they
+might look similar but SPH is basically artillery on wheels. Tank
+physically moves in an active battlefield heavily armored, heavily
+armed, and ready for direct fire. SPH isn't as heavily armored as
+tank, but can carry out indirect fire missions on targets that are not
+in direct sight.
+
+---
+
+Janes: "[2022] Indonesia conducts loading trials of 155 mm howitzers"
+
+---
+
+Alex Cortiz - Return of the Funky Babies \#music
+
+[[-]](https://youtu.be/jGgU3YGO11c)
+
+---
+
+H2 View: "[Dutch-based tank storage firm] Vopak and Hydrogenious LOHC
+Technologies have revealed plans to launch a joint venture in a bid to
+establish the first industrial-scale hydrogen supply chain using
+liquid organic hydrogen carriers (LOHC)"
+
+---
+
+H2 View: "Indian state-owned power company, NTPC announced it had
+started blending green hydrogen into a piped natural gas (PNG) network
+at Kawas in Surat, Gujarat"
+
+---
+
+Posted about these guys two weeks ago via Bloomberg - now they are dead
+
+Capitol Trades: "Silvergate Capital Crashes As FTX Collapse Fuels Bank Run"
+
+---
+
+Great analysis on the correlation between the mood in society and
+scientific research culture of an era \#Lerner
+
+[[-]](2023/01/the-big-bang-never-happened-lerner.html#era)
+
+---
+
 The clapping for Karzai photo shared previously was not a dig in admin
 for quitting on an ally. It was about US invading and staying giving
 ppl false hope against entrenched forces, and not helping a country
