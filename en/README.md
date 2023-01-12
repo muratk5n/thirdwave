@@ -68,7 +68,7 @@ HALO jump with oxygen masks? That has to be a 4 km jump at least.
 
 ---
 
-You couldn't even help the country switch [to cotton](../../2023/01/little-america-chandrasekaran.html#cotton)
+You couldn't even help the country switch [to cotton](2023/01/little-america-chandrasekaran.html#cotton)
 instead of poppy seeds how else could you improve anything else? The
 point is moot. You should be glad you got your ass kicked and got to
 leave.
