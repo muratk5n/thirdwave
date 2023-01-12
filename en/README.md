@@ -85,9 +85,8 @@ secondaries, like gay-trans, vagina, or an ass crack.
 
 ---
 
-The bill was a crowd pleaser act to show, practice some internal unity
-- that's all. WH will surely veto even if it magically passed the
-Senate.
+The bill was a crowd pleaser act to show, practice some internal unity - 
+that's all. WH will surely veto even if it magically passed the Senate.
 
 Quartz: "Republicans’ first bill makes tax fraud easier for high earners"
 
