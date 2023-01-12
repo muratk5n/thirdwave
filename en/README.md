@@ -53,7 +53,7 @@ be ~560 million.
 
 *Lota* money.. the GDP of a small island nation.
 
-Hey people love the movie and it is making money. 
+Hey people love the movie and it is generating sales. Awesome.
 
 ---
 
