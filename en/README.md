@@ -77,16 +77,17 @@ leave.
 
 ---
 
-But it's good, the bill created deeper intra-party ideological
-divisions on an economic issue. Need less unity. One side is for the
-rich, the other side is, hopefully, for the poor. It's better to have
-arguments around econ than people getting worked up bizarre, marginal
-stuff like gay-trans, vaginas, ass cracks.
+The intent to repeal created deeper intra-party ideological divisions
+on an economic issue, created less unity.. I like that. One side is
+for the rich, the other side is, hopefully, for the poor. Better to
+have arguments around econ than people getting worked up marginal,
+secondaries, like gay-trans, vaginas, ass cracks.
 
 ---
 
-A little crowd pleaser act to show, practice internal unity - that's
-all. WH will surely veto even if it magically passed the Senate.
+The bill was a crowd pleaser act to show, practice some internal unity
+- that's all. WH will surely veto even if it magically passed the
+Senate.
 
 Quartz: "Republicans’ first bill makes tax fraud easier for high earners"
 
