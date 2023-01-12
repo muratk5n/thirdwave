@@ -76,8 +76,6 @@
 
 [Vertical Farming](06/vertical-farming.html)
 
-[Dried Poultry + Veg](07/dried-turkey-veg.html)
-
 [UK/US Claims on Putin's Health](07/putin-health.html)
 
 [Russia "Running Out of Missiles"](07/russia-missiles.html)

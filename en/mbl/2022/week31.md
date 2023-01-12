@@ -541,13 +541,6 @@ controlled by Israeli security forces"
 
 ---
 
-Portable food: dried poultry mixed with fruit/veg. Protein, vita,
-CLA/fat all in one place.
-
-[[-]](../../2022/07/dried-turkey-veg.html)
-
----
-
 CNBC: "The death of easy money: Why 20% annual returns are over in
 crypto lending.. '$3 trillion of liquidity will likely be taken out of
 markets globally by central banks over the next 18 months,' said.. a
