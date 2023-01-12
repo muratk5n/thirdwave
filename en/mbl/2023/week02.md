@@ -117,7 +117,7 @@ Capitol Trades: "Silvergate Capital Crashes As FTX Collapse Fuels Bank Run"
 Great analysis on the correlation between the mood in society and
 scientific research culture of an era \#Lerner
 
-[[-]](2023/01/the-big-bang-never-happened-lerner.html#era)
+[[-]](../../2023/01/the-big-bang-never-happened-lerner.html#era)
 
 ---
 
