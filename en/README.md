@@ -37,12 +37,10 @@ before the Chinese Spring Festival in Muyang City, Jiangsu Province'"
 
 ---
 
-Verification in the new social media system will be easy - governments
-run their own MD servers, whoever they give usernames to are
-automatically verified. For celebrities, or other notable characters
-for-private servers can offer such a service. If you are on
-@celeb.social and if that server is widely known, checkmarks would
-mean legit verification.
+Verification for the "new social media" will be easy - governments run
+their own MD servers, whoever they give usernames to are automatically
+verified. For celebrities, or other notable characters for-private
+servers can offer such a service. 
 
 ---
 
