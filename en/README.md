@@ -58,6 +58,15 @@ Hey people love the movie and it is making money. Great.
 
 ---
 
+You couldn't even help the country switch [to cotton](2023/01/little-america-chandrasekaran.html#cotton)
+instead of poppy seeds how else could you improve anything else? The
+point is moot. You should be glad you got your ass kicked and finally got to
+leave.
+
+"But if we stayed longer in Afghanistan girls could go to school"
+
+---
+
 Five stars for *Pixels*, *Paul*, *Danger Close*.
 
 ---
@@ -68,12 +77,16 @@ HALO jump with oxygen masks? That has to be a 4 km jump at least.
 
 ---
 
-You couldn't even help the country switch [to cotton](2023/01/little-america-chandrasekaran.html#cotton)
-instead of poppy seeds how else could you improve anything else? The
-point is moot. You should be glad you got your ass kicked and finally got to
-leave.
+Tesla Battery Mileage Fraud
 
-"But if we stayed longer in Afghanistan girls could go to school"
+[[-]](https://gotmusked.com/content/fudging-evs-battery-mileage/)
+
+---
+
+Top Speed: "Toyota’s Hydrogen Combustion Engine Has The Potential To
+Make EVs Obsolete.. Toyota is taking a diversified approach to achieve
+carbon neutrality and it could be a winning formula for the Japanese
+automaker"
 
 ---
 
@@ -96,19 +109,6 @@ Railway Gazette: "[China's] CRRC has unveiled a hydrogen fuel cell
 powered train"
 
 "@Andy_Scollick@mastodon.green
-
----
-
-Tesla Battery Mileage Fraud
-
-[[-]](https://gotmusked.com/content/fudging-evs-battery-mileage/)
-
----
-
-Top Speed: "Toyota’s Hydrogen Combustion Engine Has The Potential To
-Make EVs Obsolete.. Toyota is taking a diversified approach to achieve
-carbon neutrality and it could be a winning formula for the Japanese
-automaker"
 
 ---
 
