@@ -1,7 +1,7 @@
 
 ---
 
-Forget those FIFA games - this is the game I want to see
+Forget FIFA games - this is the match I want to see
 
 The Guardian: "Cristiano Ronaldo could face Lionel Messi for first
 game in Saudi Arabia"
