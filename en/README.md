@@ -47,21 +47,22 @@ mean legit verification.
 ---
 
 Break-even point for Avatar 2 was 1.4 billion.. What was the budget?
-
-Can reverse engineer it from profit estimation; Profit P, Gross G,
+🤔 Can reverse engineer it from profit estimation; Profit P, Gross G,
 Budget B, Marketing M, $ P = G - (B + M + 0.4 \cdot G) $ breakeven
 means the $P=0$, marketing half the budget as before, $ 0 = G - (B +
 \frac{B}{2} + 0.4 G)$ rearrange $0.4 G = B$, G=1400, then budget could
-be ~560 million. A *lot* of money.. the GDP of a small island nation.
+be ~560 million.
 
-Hey people love the movie and it is making money. Great.
+*Lota* money.. the GDP of a small island nation.
+
+Hey people love the movie and it is making money. 
 
 ---
 
-You couldn't even help the country switch [to cotton](2023/01/little-america-chandrasekaran.html#cotton)
-instead of poppy seeds how else could you improve anything else? The
-point is moot. You should be glad you got your ass kicked and finally got to
-leave.
+You couldn't even help the country switch [to
+cotton](2023/01/little-america-chandrasekaran.html#cotton) instead of
+poppy seeds how else could you improve anything else? The point is
+moot. You should be glad for getting ass kicked and finally leaving.
 
 "But if we stayed longer in Afghanistan girls could go to school"
 
@@ -73,7 +74,7 @@ Five stars for *Pixels*, *Paul*, *Danger Close*.
 
 HALO jump with oxygen masks? That has to be a 4 km jump at least.
 
-*Act of Valor* - it was realistic, fine action.
+*Act of Valor* - realistic, fine action.
 
 ---
 
