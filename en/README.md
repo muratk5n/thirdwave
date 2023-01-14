@@ -34,8 +34,8 @@ Data from [CDC](https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm)
 
 A key founder of a TR nationalist party was of Jewish ancestry, born
 in Greece, converted to Islam and considered Turk. This is the "Young
-Turks" the Western media publicized back then. And we all now what YT,
-later CUP did later. Allegedly.
+Turks" the Western media publicized back then (yes same ppl who were
+the perpetrators of much crime later on - allegedly).
 
 [[-]](2021/06/eternal-dawn-kemal.html#cavid)
 
