@@ -26,7 +26,7 @@ December inflation down,
 u.drug_overdose_deaths()
 ```
 
-<img width="340" src="drugoverdose1.jpg"/>
+<img width="340" src="mbl/2023/drugoverdose1.jpg"/>
 
 Data from [CDC](https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm)
 
