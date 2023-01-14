@@ -1,5 +1,6 @@
 import pandas as pd, datetime, numpy as np, requests
 import requests, urllib.parse, json
+from yahoofinancials import YahooFinancials
 from pandas_datareader import data, wb
 import matplotlib.pyplot as plt, math
 import simplegeomap as sm, util
@@ -7,6 +8,26 @@ import datetime, time as timelib, re, os
 import urllib.request as urllib2
 from io import BytesIO
 import pandas_ta as ta
+
+def yf_income(ticker):
+  yahoo_financials = YahooFinancials(ticker, concurrent=True, max_workers=8, country="US")
+  data_qt = yahoo_financials.get_financial_stmts('quarterly', 'income')
+  slist = []
+  for i in range(len(data_qt['incomeStatementHistoryQuarterly'][ticker])):
+      slist.append(pd.DataFrame.from_dict(data_qt['incomeStatementHistoryQuarterly']['DIS'][i]))
+  df = pd.concat(slist,axis=1).T
+  df['grossProfitMargin'] = df.grossProfit / df.totalRevenue * 100.0
+  return df
+
+def yf_eps(ticker):
+  yahoo_financials = YahooFinancials(ticker, concurrent=True, max_workers=8, country="US")
+  data_qt = yahoo_financials.get_stock_earnings_data(reformat=True)
+  d = data_qt['DIS']['earningsData']['quarterly']
+  slist = []
+  for i in range(len(d)): slist.append( pd.DataFrame.from_dict(d[i],orient='index') )
+  df = pd.concat(slist,axis=1).T
+  df = df.set_index('date')
+  return df
 
 def drug_overdose_deaths():
   url = "https://data.cdc.gov/api/views/xkb8-kh2a/rows.csv?accessType=DOWNLOAD&bom=true&format=true"
