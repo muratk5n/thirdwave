@@ -47,8 +47,9 @@ including original Turks.. But 1920s TR nation recategorized all
 Muslims as Turks. So then.. not everyone is a real Turk, is it, as in
 from Central Asia riding a donkey arriving to Anatolia "bringing
 civilization" there (basically Greek music, Greek food, Mediterrenian
-customs). 10% of Asiatic genes says it all - the *latest* official
-identity of Asia Minor is a lie. There is no such thing as a Turk.
+customs, "brought culture" wink wink). 10% of Asiatic genes says it
+all - the *latest* official identity of Asia Minor is a lie. There is
+no such thing as a Turk.
 
 ---
 
