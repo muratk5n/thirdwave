@@ -286,12 +286,6 @@ My favorite way to see if a point is inside or outside a path
 
 ---
 
-Multiverse and science \#hossenfelder
-
-[Link](https://youtu.be/-dSua_PUyfM?t=68)
-
----
-
 Cuck Todd
 
 ---

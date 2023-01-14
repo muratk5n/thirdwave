@@ -613,12 +613,6 @@ particle, but the particle has no effect back on the wave".
 
 ---
 
-Info on Bohmian Mech by S. Hossenfelder. 
-
-[Link](https://www.youtube.com/watch?v=ix9nJmz4mGg)
-
----
-
 "Toshiba Energy Systems & Solutions Corporation announced that it has
 signed an agreement with New Energy and the Industrial Technology
 Development Organization (NEDO) for a multi-utility pure hydrogen fuel

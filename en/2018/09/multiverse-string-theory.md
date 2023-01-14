@@ -1,17 +1,5 @@
 # String Theory, Multiverse, The Large Hadron Collider
 
-Hossenfelder, *Lost in Math*
-
-Cosmologist Paul Steinhardt calls the multiverse idea 'baroque,
-unnatural, untestable and, in the end, dangerous to science and
-society.' According to Paul Davies, it is 'simply naive deism dressed
-up in scientific language.' George Ellis warns that 'proponents of the
-multiverse… are implicitly redefining what is meant by ‘science.’'
-David Gross finds that 'it smells of angels.' For Neil Turok, it’s
-'the ultimate catastrophe.' And science writer John Horgan complains
-that 'multiverse theories aren’t theories—they’re science fictions,
-theologies, works of the imagination unconstrained by evidence.'
-
 [Peter Voit](https://www.math.columbia.edu/~woit/wordpress/?p=12604)
 
 Multiverse mania started seriously among string theorists around 2003,

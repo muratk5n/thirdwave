@@ -219,44 +219,6 @@ whole spiel around the descent property depends on it.
 
 ---
 
-Everett.. that's Sean Carroll's guy right?
-
-I agree; I don't think Cop QM should be "married" to something
-else. That would be the "dialectic" approach to science which as a
-thinking method is second-rate.  We need is falsifiable theories and
-knocking shit down when it stops providing better path. QM will end up
-being an approximation to something else, to a deeper theory.
-
-(Mish-mashy bullshit is how we ended up with centrism in politics BTW)
-
-"The way it is commonly taught, quantum mechanics has two ingredients
-to its dynamical law: the Schrodinger equation and the measurement
-prescription... [T]he major problem with the measurement process is
-that it is nonlinear. ..
-
-This is problematic because if quantum mechanics was the correct
-theory to describe the behaviour of elementary particles, then what
-macroscopic objects like detectors do should be derivable from it. The
-problem is not merely that we do not know how to make this derivation,
-it’s far worse: the observed nonlinearity of the measurement process
-tells us that the measurement process is in contradiction with the
-linear Schrodinger equation...
-
-To us [a certain] similarity ... strongly suggests that quantum
-physics, too, is only the linear probabilistic description of an
-underlying nonlinear deterministic system.  From this point of view,
-pursuing an Everettian approach to quantum physics is not the right
-thing to do, because this idea is founded on the belief that the
-Schrödinger equation is fundamental; that nothing underpins
-it. Moreover, it does not make sense to just append non- linear
-dynamics to the Schrödinger equation in situations when state
-decoherence becomes non-negligible, because it is not the Schrödinger
-equation itself that needs to become nonlinear" -- Hossenfelder, Palmer
-
-[Link](https://arxiv.org/abs/1912.06462)
-
----
-
 Section 2 of the Sherman Act of 1890. Hard core.
 
 Sounds like vaporware is illegal.

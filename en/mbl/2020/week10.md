@@ -575,22 +575,6 @@ a distant second at this point.
 
 ---
 
-No. She does not say multiverse does not exist either, she says
-'science does not tell us anything about universes we cannot observe,
-therefore claiming they exist is not science'.
-
-Well.. if you are building more theories claiming MV exists you are
-kind of a moron, but you really need to take that extra step, reeeealy
-__try__ to get there, to be that moron, but other than that, watch
-your scifi shows, have fun. Have the [evil
-twin](twimg/ESPwoRoXUAAwifV.jpg)
-guy go forward in time, switch to a universe, go backward in time,
-come back to orig universe... Hell do whatever man.. Itz all good.
-
-"Does Hossenfelder [say](https://youtu.be/-dSua_PUyfM?t=68) people who believe in multiverse are morons?"
-
----
-
 Lining up supply, trying to distribute risk among many countries,
 etc. This is getting serious.
 

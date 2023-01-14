@@ -733,19 +733,6 @@ cried.
 
 ---
 
-News
-
-Scientists Used IBM's Quantum Computer to Reverse Time, Possibly
-Breaking a Law of Physics 
-
-A: Sabina Hossenfelder [responds](https://mobile.twitter.com/skdh/status/1107906567033245696):
-"Once again: Scientists did not "reverse time" and did not "break a
-law of physics". Correct story: Some processes are reversible. Entropy
-can decrease locally. We have known this for a long time. Great
-experiment - yes - but no time reversal. #StopHype
-
-[Twitter](https://mobile.twitter.com/trevorsumner/status/1106934362531155974)
-
 BEST analysis of what really is happening on the #Boeing737Max issue
 [..] Bottom line don’t blame software that’s the band aid for many
 other engineering and economic forces in effect.

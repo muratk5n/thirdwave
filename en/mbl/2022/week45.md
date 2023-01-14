@@ -781,12 +781,6 @@ category.
 
 ---
 
-New Evidence Against Dark Matter \#hossenfelder
-
-[[-]](https://youtu.be/lVkyUpMDeUs?t=303)
-
----
-
 More science fail 
 
 Kroupa: "Dark Matter Doesn't Exist.. The current cosmological model

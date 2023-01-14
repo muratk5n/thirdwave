@@ -258,12 +258,6 @@ Anyone who tells you Americans want to keep their insurance is straight up lying
 
 ---
 
-"Quantum Mechanics is wrong. There, I’ve said it." - Sabine Hossenfelder
-
-[Link](http://backreaction.blogspot.com/2019/05/quantum-mechanics-is-wrong-there-ive.html?m=1)
-
----
-
 Bootyjudge and Shapiro feel like two milenials similar somehow, 1 on the left 1 on the right, but similar. During their formative yrs, 90s, one would soak up the Clintonite West-Wing spinster cool, the other unfettered free-tradism. They dont seem to have woken up ..
 
 .. to the repercussions of that era tho. I wonder why. Is it bcz they were particularly smart, groking the era but locking it in, or particularly dumb for not checking historical context and the after-effects. Shapiro's free-tradism looks especially sad.

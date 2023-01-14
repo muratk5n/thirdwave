@@ -739,19 +739,6 @@ Just some lady FGS. Pohlice acting like came across al Qaida
 
 ---
 
-Hossenfelder, *Lost in Math*: "Cosmologist Paul Steinhardt calls the
-multiverse idea 'baroque, unnatural, untestable and, in the end,
-dangerous to science and society.' According to Paul Davies, it is
-'simply naive deism dressed up in scientific language.' George Ellis
-warns that 'proponents of the multiverse… are implicitly redefining
-what is meant by ‘science.’' 8 David Gross finds that 'it smells of
-angels.' For Neil Turok, it’s 'the ultimate catastrophe.' And science
-writer John Horgan complains that 'multiverse theories aren’t
-theories—they’re science fictions, theologies, works of the
-imagination unconstrained by evidence.'"
-
----
-
 "@RojavaNetwork
 
 \#Idlib: Since the morning of Sunday, June 7, intense Russian

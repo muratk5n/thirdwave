@@ -9,31 +9,6 @@ Iran of breaking nuclear deal"
 
 ---
 
-"AI" might be heading toward the same direction, with bigger and
-bigger Nets, more and more computing power.
-
-Hossenfelder - "But even if you don’t care what’s up with strings and
-multiverses, you should worry about what is happening here. The
-foundations of physics are the canary in the coal mine. It’s an old
-discipline and the first to run into this problem. But the same
-problem will sooner or later surface in other disciplines if
-experiments become increasingly expensive and recruit large fractions
-of the scientific community.
-
-Indeed, we see this beginning to happen in medicine and in ecology,
-too.
-
-Small-scale drug trials have pretty much run their course. These are
-good only to find in-your-face correlations that are universal across
-most people. Medicine, therefore, will increasingly have to rely on
-data collected from large groups over long periods of time to find
-increasingly personalized diagnoses and prescriptions. The studies
-which are necessary for this are extremely costly"
-
-[Link](https://iai.tv/articles/why-physics-has-made-no-progress-in-50-years-auid-1292)
-
----
-
 <img width="340" src="twimg/EOlint9WAAYfzel.jpg"/>
 
 ---
