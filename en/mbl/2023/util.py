@@ -29,13 +29,10 @@ def yf_balance(ticker):
   return df
 
 def yf_eps(ticker):
+  df = yf_income("DIS")  
   yahoo_financials = YahooFinancials(ticker, concurrent=True, max_workers=8, country="US")
-  data_qt = yahoo_financials.get_stock_earnings_data(reformat=True)
-  d = data_qt['DIS']['earningsData']['quarterly']
-  slist = []
-  for i in range(len(d)): slist.append( pd.DataFrame.from_dict(d[i],orient='index') )
-  df = pd.concat(slist,axis=1).T
-  df = df.set_index('date')
+  shares = yahoo_financials.get_num_shares_outstanding(price_type='current')
+  df = df['netIncomeApplicableToCommonShares'] / shares  
   return df
 
 def drug_overdose_deaths():
