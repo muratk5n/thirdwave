@@ -271,8 +271,8 @@ The Romans and Rhodians were only able to detach eleven ships under
 the command of C. Livius.  The operation was a total disaster: when
 the ships reached Patara, they lost all hope of surprise or success
 when a heavy wind prevented them from reaching the city.  With
-darkness falling, they sought shelter in the port of nearby Phoenicus
-- modern-day Kalkan.  (note: today ships still find safe harbour in
+darkness falling, they sought shelter in the port of nearby Phoenicus - 
+modern-day Kalkan.  (note: today ships still find safe harbour in
 Kalkan when the seas are rough).  However, they soon found the hills
 above them crowned with Lycian townspeople from Patara and the kings's
 garrison.  A ferocious battle raged as "more and more (Lycians) came
