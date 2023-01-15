@@ -35,9 +35,9 @@ curated for a specific purpose.
 ---
 
 Yes BD control code is hand-crafted. Preferable than neural net based
-"AI", at least tyring to formulate an approach from ground up,
-thinking about the problem, not blindly showing in data into a black
-box.
+"AI", at least they are trying to formulate an approach from ground
+up, thinking about the problem, not blindly showing in data into a
+black box.
 
 Quora: "How does Boston Dynamics use AI/machine learning? For the most
 part, it doesn't. Boston Dynamic's secret sauce is a “stack” of very
