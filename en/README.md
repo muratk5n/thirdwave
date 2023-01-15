@@ -57,8 +57,7 @@ without change onto real robotic hardware"
 
 Bad smells coming out of Sweden; the Nobel Econ Prize is funded by
 their Riksbank BTW, and the last one went to people who ardently
-argued for "saving the banks". SW might be housing a globalist cell;
-some effective psyop is coming out of there too.
+argued for "saving the banks". 
 
 ---
 
