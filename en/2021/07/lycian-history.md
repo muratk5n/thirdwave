@@ -626,27 +626,7 @@ most splendid building in Lycia - completely destroyed, as well as
 many other temples in the area.  After his death, the church of
 St. Nicholas became a popular pilgrimage center and attracting
 pilgrims from home and abroad in all periods, even after his remains
-of were stolen in 1087 AD and taken to Italy.
-
-Ottoman buildings in Elmalı
-
-The country lay almost uninhabited for several hundreds of years until
-the Turks, led by the lords of the Teke Dynasty, settled the area in
-the 13th century.  Many fine Turkish monuments of these people can be
-seen today in highland towns such as Elmalı.  The area was known as
-the "Uç" (frontier) - wilderness - and the Turks too mainly kept to
-the high plateau and left the coast to pirates where they had
-semi-permanent settlements (in fact, the coast wasn't cleaned up until
-the presence of the British Navy in the 18th and 19th centuries
-cleared the area).  Lawlessness and bandits were a problem throughout
-the land.  At the turn of the 19th century the Ottoman government
-began repopulating the coast with Greeks from the Aegean islands in
-order to balance the power of the local feudal lords. Many coastal
-towns like Kalkan (then called Kalamaki), the neighboring town of Kaş
-(Andifli) and Livissi (now deserted) came into existence at this time
-since the Aegean Greeks preferred to settle by the coast.  However,
-Anatolian Greeks were required to leave Turkey and settle in Greece
-after the war of 1919-1922 with the exchange of populations.
+of were stolen in 1087 AD and taken to Italy...
 
 ### What happened to the remaining Lycians in Lycia?
 
