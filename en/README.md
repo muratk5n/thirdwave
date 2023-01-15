@@ -17,7 +17,7 @@ Beboizing of Twitter began"
 ---
 
 *The Eagle*, there was enough criticism of imperialism, of Rome that
-you can partly stand (!) the opression of distant locals (Brits!), and
+one can mentally skip over opression of distant locals (Brits!), and
 the "heroes" taking them on.
 
 But the movie is about brothers in arms, ppl fighting together, for
