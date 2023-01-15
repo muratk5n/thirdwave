@@ -86,7 +86,7 @@ Why Not Mars
 
 ---
 
-Al Jaber supports blue H2
+The oil company head Al Jaber supports blue H2
 	
 "The United Arab Emirates has picked the head of its national oil
 company as president of this year's COP28 climate talks"
