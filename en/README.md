@@ -52,9 +52,9 @@ without change onto real robotic hardware"
 
 ---
 
-Bad smells coming out of Sweden; the Nobel Econ Prize is funded by
+Bad smells coming out of Sweden; the "Nobel" Econ Prize is funded by
 their Riksbank BTW, and the last one went to people who ardently
-argued for "saving the banks". 
+argued for "saving the banks".
 
 ---
 
