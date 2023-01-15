@@ -24,8 +24,7 @@ But the movie is about brothers in arms, ppl fighting together, for
 something, even if that something was Rome, an expansionist band of
 feudal cocksuckers.
 
-The movie was well written, directed, acted - five stars without a
-doubt.
+Well written, directed, acted - five stars without a doubt.
 
 ---
 
