@@ -18,9 +18,9 @@ Beboizing of Twitter began"
 
 *The Eagle*, there was enough criticism of imperialism, of Rome that
 one can mentally skip over opression of distant locals (Brits!), and
-the Roman "heroes", movie can be seen as being about brothers in arms,
-ppl fighting together, for something, even if that something was Rome,
-an expansionist band of feudal cobsuckers.
+the Roman "heroes". The movie can be seen as being about brothers in
+arms, ppl fighting together, for something, even if that something was
+Rome, an expansionist band of feudal cobsuckers.
 
 Well written, directed, acted - five stars without a doubt.
 
