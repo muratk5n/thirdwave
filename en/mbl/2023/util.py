@@ -14,9 +14,18 @@ def yf_income(ticker):
   data_qt = yahoo_financials.get_financial_stmts('quarterly', 'income')
   slist = []
   for i in range(len(data_qt['incomeStatementHistoryQuarterly'][ticker])):
-      slist.append(pd.DataFrame.from_dict(data_qt['incomeStatementHistoryQuarterly']['DIS'][i]))
+      slist.append(pd.DataFrame.from_dict(data_qt['incomeStatementHistoryQuarterly'][ticker][i]))
   df = pd.concat(slist,axis=1).T
   df['grossProfitMargin'] = df.grossProfit / df.totalRevenue * 100.0
+  return df
+
+def yf_balance(ticker):
+  yahoo_financials = YahooFinancials(ticker, concurrent=True, max_workers=8, country="US")
+  data_qt = yahoo_financials.get_financial_stmts('quarterly', 'balance')
+  slist = []
+  for i in range(len(data_qt['balanceSheetHistoryQuarterly'][ticker])):
+      slist.append(pd.DataFrame.from_dict(data_qt['balanceSheetHistoryQuarterly']['DIS'][i]))
+  df = pd.concat(slist,axis=1).T
   return df
 
 def yf_eps(ticker):
