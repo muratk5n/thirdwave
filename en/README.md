@@ -42,7 +42,7 @@ part, it doesn't. Boston Dynamic's secret sauce is a “stack” of very
 carefully hand-designed classic control laws... It's good because
 classic control theory provides strong mathematical guarantees of
 stability and performance, and this does not require *any*
-“training”. It just works, right out of the box, assuming you get the
+'training'. It just works, right out of the box, assuming you get the
 control design right.. Nobody has yet figured out how to apply machine
 learning to robotic motor control in a practical way. Machine learning
 takes far too much data, typically hundreds of thousands to millions
