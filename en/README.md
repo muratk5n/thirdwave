@@ -60,8 +60,8 @@ argued for "saving the banks".
 
 Globalist conspiracy or just rotten ideology ran amok?
 
-Werner, *Princes of the Yen*: "[C]entral bank independence alone does
-not guarantee economic success of monetary policy. The Swedish
+Werner, *Princes of the Yen*, 2014: "[C]entral bank independence alone
+does not guarantee economic success of monetary policy. The Swedish
 Riksbank, for instance, independently created a credit boom in the
 1980s and a credit crunch in the 1990s. The U.S. central bank
 leadership was not influenced by political pressure when it increased
