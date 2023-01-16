@@ -17,6 +17,7 @@ def yf_income(ticker):
       slist.append(pd.DataFrame.from_dict(data_qt['incomeStatementHistoryQuarterly'][ticker][i]))
   df = pd.concat(slist,axis=1).T
   df['grossProfitMargin'] = df.grossProfit / df.totalRevenue * 100.0
+  df = df.sort_index(ascending=True)
   return df
 
 def yf_balance(ticker):
@@ -26,6 +27,7 @@ def yf_balance(ticker):
   for i in range(len(data_qt['balanceSheetHistoryQuarterly'][ticker])):
       slist.append(pd.DataFrame.from_dict(data_qt['balanceSheetHistoryQuarterly']['DIS'][i]))
   df = pd.concat(slist,axis=1).T
+  df = df.sort_index(ascending=True)
   return df
 
 def yf_cash(ticker):
@@ -35,6 +37,7 @@ def yf_cash(ticker):
   for i in range(len(data_qt['cashflowStatementHistoryQuarterly'][ticker])):
       slist.append(pd.DataFrame.from_dict(data_qt['cashflowStatementHistoryQuarterly']['DIS'][i]))
   df = pd.concat(slist,axis=1).T
+  df = df.sort_index(ascending=True)
   return df
 
 def yf_eps(ticker):

@@ -6,7 +6,18 @@ pd.set_option('display.max_columns', None)
 ```
 
 
+```python
+u.yf_eps("DIS")
+```
 
+```text
+Out[1]: 
+2022-01-01    47.349
+2022-04-02    46.624
+2022-07-02    46.022
+2022-10-01    45.299
+Name: longTermDebt, dtype: float64
+```
 
 
 
