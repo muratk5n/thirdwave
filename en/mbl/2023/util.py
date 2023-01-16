@@ -68,13 +68,29 @@ def covid_hospitalization():
    df = df.set_index('date')
    return df
 
-def sm_plot_ukr2(file,oldfile,geo):
-    sm_plot_ukr1(file,geo)    
+def sm_plot_ukr(file,oldfile,geo):
+    sm_plot_ukr_base(file,geo)    
     df = np.array(pd.read_csv(oldfile,header=None))
     df[:, [1, 0]] = df[:, [0, 1]]
     sm.plot_line(df,color='gray',linestyle='solid')
+    for label,lat,lon,s in geo:
+      style=(s[0], s[1])
+      plt.annotate(
+        label, 
+        xy = (lon, lat), xytext = style,
+        textcoords = 'offset points', ha = 'right', va = 'bottom',
+        bbox = dict(boxstyle = 'round,pad=0.5', fc = 'yellow', alpha = 0.5),
+        arrowprops = dict(arrowstyle = '->', connectionstyle = 'arc3,rad=0'))
+      
+    
+#    eps = 0.1
+#    for i,(lat,lon) in enumerate(geo):
+#        plt.text(lon+eps,lat-eps,i+1)
+#        plt.plot(lon,lat,'g+')
+
+    
         
-def sm_plot_ukr1(file,geo):
+def sm_plot_ukr_base(file,geo):
     df = np.array(pd.read_csv(file,header=None))
     df[:, [1, 0]] = df[:, [0, 1]]
     clat,clon=48, 37; zoom = 0.6
@@ -94,11 +110,7 @@ def sm_plot_ukr1(file,geo):
     plt.text(35,47,'Zaporizhia',color='gray')
 
     plt.text(38.3,49,'Luhansk',color='gray')
-    eps = 0.1
-    for i,(lat,lon) in enumerate(geo):
-        plt.text(lon+eps,lat-eps,i+1)
-        plt.plot(lon,lat,'g+')
-
+    
 def crime_vio_state(state):
    # ['burglary','larceny','motor-vehicle-theft','arson']
    cols = ['homicide','rape','robbery','aggravated-assault']
