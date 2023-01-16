@@ -80,15 +80,7 @@ def sm_plot_ukr(file,oldfile,geo):
         xy = (lon, lat), xytext = style,
         textcoords = 'offset points', ha = 'right', va = 'bottom',
         bbox = dict(boxstyle = 'round,pad=0.5', fc = 'yellow', alpha = 0.5),
-        arrowprops = dict(arrowstyle = '->', connectionstyle = 'arc3,rad=0'))
-      
-    
-#    eps = 0.1
-#    for i,(lat,lon) in enumerate(geo):
-#        plt.text(lon+eps,lat-eps,i+1)
-#        plt.plot(lon,lat,'g+')
-
-    
+        arrowprops = dict(arrowstyle = '->', connectionstyle = 'arc3,rad=0'))          
         
 def sm_plot_ukr_base(file,geo):
     df = np.array(pd.read_csv(file,header=None))
