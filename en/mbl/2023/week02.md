@@ -26,7 +26,7 @@ December inflation down,
 u.drug_overdose_deaths()
 ```
 
-<img width="340" src="mbl/2023/drugoverdose1.jpg"/>
+<img width="340" src="drugoverdose1.jpg"/>
 
 Data from [CDC](https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm)
 
@@ -37,7 +37,7 @@ in Greece, converted to Islam and considered Turk. This is the "Young
 Turks" the Western media publicized back then (yes same ppl who were
 the perpetrators of much crime later on - 'allegedly').
 
-[[-]](2021/06/eternal-dawn-kemal.html#cavid)
+[[-]](../../2021/06/eternal-dawn-kemal.html#cavid)
 
 ---
 
@@ -68,11 +68,11 @@ Turkey was thus considered Greek, and expelled to Greece, while a
 Greek-speaking Muslim who knew no Turkish was considered Turkish and
 expelled to Turkey"
 
-[[-]](2021/07/lycian-history.html)
+[[-]](../../2021/07/lycian-history.html)
 
 ---
 
-If minority culture does not even last [one generation](2014/06/the-culture-code.html#heritage),
+If minority culture does not even last [one generation](../../2014/06/the-culture-code.html#heritage),
 how could it last for millenia, across continents, varied host cultures?
 That is the claim of the so-called Turks.
 
@@ -103,8 +103,8 @@ for good in social media and we are excited to join this community"
 
 ---
 
-They are using [compressed](2022/02/h2-compressed.html) H2 cylinders for
-storage. Lavo uses [metal hydrides](2022/02/h2-metal-hydrides.html).
+They are using [compressed](../../2022/02/h2-compressed.html) H2 cylinders
+for storage. Lavo uses [metal hydrides](../../2022/02/h2-metal-hydrides.html).
 There are many options in the H2 world.
 
 PV Europe: "[2018] This March, Home Power Solutions (HPS) from Berlin
@@ -198,7 +198,7 @@ Hey people love the movie and it is generating sales. Awesome.
 ---
 
 You couldn't even help the country switch [to
-cotton](2023/01/little-america-chandrasekaran.html#cotton) instead of
+cotton](../../2023/01/little-america-chandrasekaran.html#cotton) instead of
 poppy seeds how else could you improve anything else? The point is
 moot. You should be glad for getting ass kicked and finally leaving.
 
