@@ -27,7 +27,7 @@ counteroffensive there stalled.
 
 BKM is major strat point; Ukraine sacrificed much to hold on to it..
 One could even argue the counteroffensive last year was done partly to
-shift the focus elsewhere when the battles there was not going well.
+shift the focus elsewhere when the battle there was not going well.
 
 But things are now back to where they were; RU shored up the South, 
 and now moving ahead with plans taking the rest of Donetsk.
