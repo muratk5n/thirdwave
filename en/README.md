@@ -1,9 +1,15 @@
 
+---
+
 H2 Central: "Larsen & Toubro, an Indian multi-national engaged in EPC
 Projects, Hi-Tech Manufacturing, and Services, announced the signing
 of a Memorandum of Understanding (MoU) with the Norway-based H2Carrier
 (H2C) to co-operate towards developing floating green ammonia projects
 for industrial-scale applications"
+
+---
+
+Reuters: "India OKs $2 bln incentive plan for green hydrogen industry"
 
 ---
 
