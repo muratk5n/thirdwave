@@ -87,7 +87,8 @@ and now moving ahead with plans taking the rest of Donetsk.
 
 Latest frontline in Ukraine. Gains in Soledar, RU will surely attempt
 to encircle Bakhmut. Some gains in Zaporizhia too? The start of
-something from there perhaps, planning to push north?
+something from there perhaps, maybe with plans of pushing towards the
+north.
 
 ```python
 geo = [['Soledar',48.68207521521989, 38.08963574290512,(5,20)],
