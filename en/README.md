@@ -29,10 +29,10 @@ and now moving ahead with plans taking the rest of Donetsk.
 
 ---
 
-Latest frontline in Ukraine. Gains in Soledar, soth of Bakhmut. RU
-will surely attempt to encircle BKM. Some gains in Zaporizhia too?
-The start of something from there perhaps, with plans of pushing
-towards the north.
+Latest frontline in Ukraine. Gains in Soledar, also south of
+Bakhmut. RU will surely attempt to encircle BKM. Some gains in
+Zaporizhia too?  The start of something from there perhaps, with plans
+of pushing towards the north.
 
 ```python
 geo = [['Soledar',48.68207521, 38.0896357,(5,20)],
