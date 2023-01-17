@@ -1,4 +1,85 @@
 
+H2 Central: "Larsen & Toubro, an Indian multi-national engaged in EPC
+Projects, Hi-Tech Manufacturing, and Services, announced the signing
+of a Memorandum of Understanding (MoU) with the Norway-based H2Carrier
+(H2C) to co-operate towards developing floating green ammonia projects
+for industrial-scale applications"
+
+---
+
+Russia was being shelled in Kherson City, they pulled out, UKR moved
+in, now they are being shelled by Russian forces \\(ツ)/ eyyy (medi
+shrug). The river line proved to be defensible. UA counteroffensive
+there stalled.
+
+---
+
+BKM is major strat point; Ukraine sacrificed much to hold on to it..
+One could even argue the counteroffensive last year was done partly to
+shift the focus elsewhere when the battles there was not going well.
+
+But things are now back to where they were; RU shored up the South, 
+and now moving ahead with plans taking the rest of Donetsk.
+
+---
+
+Latest frontline in Ukraine. Gains in Soledar, RU will surely attempt
+to encircle Bakhmut. Some gains in Zaporizhia too? The start of
+something from there perhaps, maybe with plans of pushing towards the
+north.
+
+```python
+geo = [['Soledar',48.68207521521989, 38.08963574290512,(5,20)],
+       ['Bakhmut',48.59681687669557, 37.99571812076628,(-20,0)]]
+u.sm_plot_ukr('ukrdata/fl-0116.csv','ukrdata/fl-221115.csv',geo)
+```
+
+<img width="340" src="mbl/2023/ukr-1.jpg"/>
+
+---
+
+Al Jazeera: "China reports almost 60,000 COVID-related deaths in past
+month"
+
+---
+
+H2 Central: "Masdar Signs Agreement to Explore Exporting Green
+Hydrogen from Abu Dhabi to Europe"
+
+---
+
+H2 Fuel News: "Porsche hydrogen engine prototype outperforms 8-cylinder gasoline engine"
+
+---
+
+TASS: "Kazakh companies purchase Russian sovereign bonds worth $1.4
+bln — Bloomberg"
+
+---
+
+"@ElleGray@mstdn.social
+
+me: *screaming into the abyss"
+
+the abyss: this could have been an email"
+
+---
+
+Automative World: "Cummins: hydrogen ICE to take off from 2024..The
+engine specialist shares its outlook for hydrogen-powered internal
+combustion engines in heavy trucking... it falls to Jim Nebergall as
+General Manager of the Hydrogen Engine Business to steer its global
+efforts in commercialising hydrogen-fuelled ICE specifically. 'There
+is interest here because the technology is low cost in nature and
+represents a zero-carbon option,' he says. 'On the whole, it offers a
+significant boost for the decarbonisation of commercial vehicles with
+a technology that customers understand.'"
+
+---
+
+Disney's overwhelming slew of cuck repertoire surely is not helping
+matters - spending too much gaining too little.
+
 ---
 
 2.48 billion in debt payments son.. The shareholder was already
@@ -58,84 +139,6 @@ Trian Fund Management pushes for a seat on its board... Peltz [made]
 his case for the fight his firm has picked with Disney. He raised
 issues with Disney’s $71 billion acquisition of Fox in 2019 and how
 the company’s shareholder value has eroded in recent years"
-
----
-
-H2 Central: "Larsen & Toubro, an Indian multi-national engaged in EPC
-Projects, Hi-Tech Manufacturing, and Services, announced the signing
-of a Memorandum of Understanding (MoU) with the Norway-based H2Carrier
-(H2C) to co-operate towards developing floating green ammonia projects
-for industrial-scale applications"
-
----
-
-Russia was being shelled in Kherson City, they pulled out, UKR moved
-in, now they are being shelled by Russian forces \\(ツ)/ eyyy (medi
-shrug). The river line proved to be defensible. UA counteroffensive
-there stalled.
-
----
-
-BKM is major strat point; Ukraine sacrificed much to hold on to it..
-One could even argue the counteroffensive last year was done partly to
-shift the focus elsewhere when the battles there was not going well.
-
-But things are now back to where they were; RU shored up the South,
-and now moving ahead with plans taking the rest of Donetsk.
-
----
-
-Latest frontline in Ukraine. Gains in Soledar, RU will surely attempt
-to encircle Bakhmut. Some gains in Zaporizhia too? The start of
-something from there perhaps, maybe with plans of pushing towards the
-north.
-
-```python
-geo = [['Soledar',48.68207521521989, 38.08963574290512,(5,20)],
-       ['Bakhmut',48.59681687669557, 37.99571812076628,(-20,0)]]
-u.sm_plot_ukr('ukrdata/fl-0116.csv','ukrdata/fl-221115.csv',geo)
-```
-
-<img width="340" src="mbl/2023/ukr-1.jpg"/>
-
----
-
-Al Jazeera: "China reports almost 60,000 COVID-related deaths in past
-month"
-
----
-
-H2 Central: "Masdar Signs Agreement to Explore Exporting Green
-Hydrogen from Abu Dhabi to Europe"
-
----
-
-H2 Fuel News: "Porsche hydrogen engine prototype outperforms 8-cylinder gasoline engine"
-
----
-
-TASS: "Kazakh companies purchase Russian sovereign bonds worth $1.4
-bln — Bloomberg"
-
----
-
-"@ElleGray@mstdn.social
-
-me: *screaming into the abyss"
-
-the abyss: this could have been an email"
-
----
-
-Automative World: "Cummins: hydrogen ICE to take off from 2024..The
-engine specialist shares its outlook for hydrogen-powered internal
-combustion engines in heavy trucking... it falls to Jim Nebergall as
-General Manager of the Hydrogen Engine Business to steer its global
-efforts in commercialising hydrogen-fuelled ICE specifically. 'There
-is interest here because the technology is low cost in nature and
-represents a zero-carbon option,' he says. 'On the whole, it offers a
-significant boost for the decarbonisation of commercial vehicles with
-a technology that customers understand.'"
 
 ---
 
