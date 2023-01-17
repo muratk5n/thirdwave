@@ -101,7 +101,7 @@ Out[1]:
 A lot of debt, due to Fox deal likely.
 
 ```python
-u.yf_balance("DIS")['longTermDebt'] / 1e9
+u.yf_balance("DIS")['longTermDebt'] / 1e9 # in billions
 ```
 
 ```text
