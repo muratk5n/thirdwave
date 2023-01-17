@@ -13,6 +13,11 @@ Reuters: "India OKs $2 bln incentive plan for green hydrogen industry"
 
 ---
 
+H2 Fuel News: "Porsche hydrogen engine prototype outperforms
+8-cylinder gasoline engine"
+
+---
+
 Russia was being shelled in Kherson City, they pulled out, UKR moved
 in, now they are being shelled by Russian forces \\(ツ)/ eyyy (medi
 shrug). The river line proved to be defensible. UA counteroffensive
@@ -51,10 +56,6 @@ month"
 
 H2 Central: "Masdar Signs Agreement to Explore Exporting Green
 Hydrogen from Abu Dhabi to Europe"
-
----
-
-H2 Fuel News: "Porsche hydrogen engine prototype outperforms 8-cylinder gasoline engine"
 
 ---
 
