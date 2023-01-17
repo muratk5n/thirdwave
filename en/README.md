@@ -61,6 +61,14 @@ the company’s shareholder value has eroded in recent years"
 
 ---
 
+H2 Central: "Larsen & Toubro, an Indian multi-national engaged in EPC
+Projects, Hi-Tech Manufacturing, and Services, announced the signing
+of a Memorandum of Understanding (MoU) with the Norway-based H2Carrier
+(H2C) to co-operate towards developing floating green ammonia projects
+for industrial-scale applications"
+
+---
+
 Russia was being shelled in Kherson City, they pulled out, UKR moved
 in, now they are being shelled by Russian forces \\(ツ)/ eyyy (medi
 shrug). The river line proved to be defensible. UA counteroffensive
@@ -91,21 +99,8 @@ u.sm_plot_ukr('ukrdata/fl-0116.csv','ukrdata/fl-221115.csv',geo)
 
 ---
 
-To my knowledge CH did not give mRNA vax to citizens. Now we will see
-how truly deadly covid can be..
-
----
-
 Al Jazeera: "China reports almost 60,000 COVID-related deaths in past
 month"
-
----
-
-H2 Central: "Larsen & Toubro, an Indian multi-national engaged in EPC
-Projects, Hi-Tech Manufacturing, and Services, announced the signing
-of a Memorandum of Understanding (MoU) with the Norway-based H2Carrier
-(H2C) to co-operate towards developing floating green ammonia projects
-for industrial-scale applications"
 
 ---
 
