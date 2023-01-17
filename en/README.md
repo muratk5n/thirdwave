@@ -134,8 +134,7 @@ Out[1]:
 ---
 
 CNBC: "Disney is facing a proxy fight as Nelson Peltz’s activist firm
-Trian Fund Management pushes for a seat on its board... Peltz [made]
-his case for the fight his firm has picked with Disney. He raised
+Trian Fund Management pushes for a seat on its board... Peltz.. raised
 issues with Disney’s $71 billion acquisition of Fox in 2019 and how
 the company’s shareholder value has eroded in recent years"
 
