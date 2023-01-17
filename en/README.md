@@ -63,14 +63,6 @@ bln — Bloomberg"
 
 ---
 
-"@ElleGray@mstdn.social
-
-me: *screaming into the abyss"
-
-the abyss: this could have been an email"
-
----
-
 Automative World: "Cummins: hydrogen ICE to take off from 2024..The
 engine specialist shares its outlook for hydrogen-powered internal
 combustion engines in heavy trucking... it falls to Jim Nebergall as
