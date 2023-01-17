@@ -18,10 +18,10 @@ H2 Fuel News: "Porsche hydrogen engine prototype outperforms
 
 ---
 
-Russia was being shelled in Kherson City, they pulled out, UKR moved
-in, now they are being shelled by Russian forces \\(ツ)/ eyyy (medi
-shrug). The river line proved to be defensible. UA counteroffensive
-there stalled.
+Russia was being shelled in Kherson City, they pulled out, Ukraine
+moved in, now they are being shelled by Russian forces \\(ツ)/ eyyy
+(medi shrug). The river line proved to be defensible. UA
+counteroffensive there stalled.
 
 ---
 
