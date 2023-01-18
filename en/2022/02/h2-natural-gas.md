@@ -1,5 +1,27 @@
 # H2 From Methane (Natural Gas)
 
+If hydrogen is produced from natural gas with an added carbon capture and
+storage step, the end result is called blue hydrogen. This is a proven
+process (see below) and there are even certifications for it.
+
+[H2 Fuel News](https://www.hydrogenfuelnews.com/blue-hydrogen-sabic/8555324/)
+
+Saudi Basic Industries Corp. subsidiary SUBIC Agri-Nutrients Co. has
+announced that it has received the first independent certification for
+the production of blue hydrogen and ammonia in the world.  The
+certification for the company’s H2 production was granted by German
+agency TÜV Rheinland
+
+News
+
+India’s Reliance Industries has made a major statement of intent
+revealing that it aims to become the world’s top blue hydrogen
+producer with the repurposing of a $4bn plant for blue hydrogen
+
+A skeptic in many ways even Liebreich admits blue hydrogen is doable:
+"We have to learn to love blue hydrogen — and make sure it's as clean
+as possible"
+
 [Article](https://www.energy.gov/eere/fuelcells/hydrogen-production-natural-gas-reforming)
 
 Natural gas contains methane (CH4) that can be used to produce

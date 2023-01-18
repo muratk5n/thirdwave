@@ -72,7 +72,7 @@ of a limited-liability corporation. Or the person who wrote it into
 Gesellschaft mit bescrankter Haftung, the 1892 German law that was the
 first to embody it. Can anyone imagine what today's world economy and
 financial system would look like minus limited liability for
-investors?  Was that any less achievement than, say, the telegraph?
+investors? Was that any less achievement than, say, the telegraph?
 
 <a name='intangible'/>
 

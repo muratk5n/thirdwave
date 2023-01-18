@@ -109,7 +109,7 @@ of such widespread deference and official preferments"
 
 ---
 
-Reading about Aaron Swartz [..] I was also reminded of my own attempts
+"Reading about Aaron Swartz [..] I was also reminded of my own attempts
 at similar work, collecting and analyzing journal articles, patents,
 and various forms of metadata. I’ve lost count of how many hours I’ve
 spent sitting in basements of academic buildings, breaking federal
@@ -134,7 +134,7 @@ It is not technology that holds us back.
 Aaron’s arrest should be a wake up call to universities–evidence of
 how fundamentally broken this core piece of their architecture remains
 despite decades of progress in advancing communication and
-collaboration.
+collaboration"
 
 ---
 
@@ -268,7 +268,7 @@ you think I am".
 
 That actually could've been the title of this post.
 
-"[ Jan 25, 2011] U.S. Secretary of State Hillary Clinton also said that
+"[Jan 25, 2011] U.S. Secretary of State Hillary Clinton also said that
 the United States believed that the government of Egyptian President
 Hosni Mubarak, in power for three decades, was stable [..]"
 
