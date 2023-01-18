@@ -18,9 +18,9 @@ India’s Reliance Industries has made a major statement of intent
 revealing that it aims to become the world’s top blue hydrogen
 producer with the repurposing of a $4bn plant for blue hydrogen
 
-A skeptic in many ways even Liebreich admits blue hydrogen is doable:
-"We have to learn to love blue hydrogen — and make sure it's as clean
-as possible"
+Even Liebreich, a skeptic in many ways, admits blue hydrogen is
+doable: "We have to learn to love blue hydrogen — and make sure it's
+as clean as possible"
 
 [Article](https://www.energy.gov/eere/fuelcells/hydrogen-production-natural-gas-reforming)
 
