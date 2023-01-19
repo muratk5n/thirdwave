@@ -173,7 +173,7 @@ Energy consumption [2] of seawater desalination has reached as low as 4 kWh/$m^3
 
 <a name='arabia'/>
 
-Fossil, Oil
+Dirty Fuels, Oil
 
 How much solar panel space would Saudi Arabia need to produce its
 crude output's equiv energy,

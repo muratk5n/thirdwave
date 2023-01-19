@@ -29,7 +29,7 @@ more and wider applications than most overseas countries do. A very
 large proportion of our homes are “all electric.” As a result, our
 domestic networks have been designed around the higher energy density
 and lower diversity that comes with using electricity for things like
-water and space heating. Overseas homes generally use older, fossil
+water and space heating. Overseas homes generally use older, dirty
 fuel based options for these tasks such as coal, oil and natural gas.
 
 Not withstanding the diminishing number of older and un renovated
@@ -132,9 +132,9 @@ electric car?? Hmm…. We’ll come back to that later.
 Now to our Electric Car
 
 Currently, the energy for our road transport networks comes from
-fossil fuels—mainly oil. The idea behind transitioning to an electric
+[dirty] fuels—mainly oil. The idea behind transitioning to an electric
 transport future revolves around replacing this oil with electricity,
-which in turn it is hoped might be created from non fossil fuel
+which in turn it is hoped might be created from non [polluting] fuel
 sources. However when we dig beyond the “green gobbledegook” and
 actually get our calculator out, we soon discover that this idea
 simply can never work in any capacity - either now or in the future. A

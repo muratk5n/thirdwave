@@ -8,7 +8,7 @@ warming is [clear to see](../../2015/08/temp-increase.html#carbon).
 Russia, UK, Japan, Germany, France, and Canada.
 
 What to do about it? Without sacrificing our current modern way of
-life, there are but a few options. If our cars do not run on fossil
+life, there are but a few options. If our cars do not run on polluting
 fuels, what do they run on? Lithium based batteries cannot be a
 solution, world lithium reserves are [limited](../../2022/02/base-energy-numbers.html).
 Carbon markets that allow one to trade, "offset" carbon are too open

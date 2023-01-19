@@ -34,7 +34,7 @@ primary reasons:
 * Efficiency of moving low-temperature building air and water hear
   with heat pumps
 
-* Eliminating the energy needed to mine, transport, and process fossil
+* Eliminating the energy needed to mine, transport, and process dirty
   and bio fuels
 
 * Improving efficiency and reducing energy use beyond what will occur

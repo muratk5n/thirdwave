@@ -109,7 +109,7 @@ as someone with a short walk to work'" via Fast Company
 
 H2 Central: "The Albanese Government is turbocharging Australia’s
 green hydrogen industry, with a $70 million investment to support the
-development of a hydrogen"
+development of a hydrogen industry in North Queensland"
 
 ---
 

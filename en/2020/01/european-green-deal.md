@@ -59,7 +59,7 @@ can be used. More broadly, the EU Emissions Trading System Innovation
 Fund will help to deploy such large-scale innovative projects...
 
 The price of transport must reflect the impact it has on the
-environment and on health. Fossil-fuel subsidies should end and, in
+environment and on health. Dirty fuel subsidies should end and, in
 the context of the revision of the Energy Taxation Directive, the
 Commission will look closely at the current tax exemptions including
 for aviation and maritime fuels and at how best to close any

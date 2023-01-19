@@ -8,7 +8,7 @@ harmlessly into the atmosphere. Unlike gasoline, hydrogen will not
 pool on the ground, potentially contaminating water sources and soil,
 or creating a catastrophe if ignited.
 
-Fossil fuels pose significant health and environmental safety threats
+Polluting fuels pose significant health and environmental safety threats
 when leaked, spilled, or combusted. Hydrogen leaks are non-toxic, this
 is in steep contrast to other fuels. If diesel gets into the
 waterways, it can cause serious pollution to rivers, streams and

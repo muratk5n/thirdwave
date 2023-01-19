@@ -47,8 +47,8 @@ challenges of creating a sustainable energy system of the future,”
 says project leader, Senior Principal Scientist John Bøgild Hansen. ...
 
 In conventional plants today, ammonia is made by combining hydrogen,
-produced from coal or natural gas or another fossil fuel, with
-nitrogen, produced by an air separation unit (ASU). Fossil
+produced from coal or natural gas or another polluting fuel, with
+nitrogen, produced by an air separation unit (ASU). Polluting
 hydrocarbons aren’t the only viable source of hydrogen but, in most
 places, they are the cheapest. I’ve previously written about how
 today’s natural gas-fed Haber-Bosch plant is almost perfectly energy

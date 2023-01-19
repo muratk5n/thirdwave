@@ -52,7 +52,7 @@ recycled and regenerated"
 Scientists have discovered a new material that could hold the key to
 unlocking the potential of hydrogen powered vehicles.
 
-As the world looks towards a gradual move away from fossil fuel
+As the world looks towards a gradual move away from dirty fuel
 powered cars and trucks, greener alternative technologies are being
 explored, such as electric battery powered vehicles.
 

@@ -6,7 +6,7 @@
 
 Amine solvent-based technology has recently established itself as a
 viable technology for CO2 capture.. This technology applies to the
-fossil power industry, especially for high CO2 producing coal-fired
+polluting power industry, especially for high CO2 producing coal-fired
 plants. Post combustion CO2 capture from flue gas is the dominating
 technology for this purpose.
 

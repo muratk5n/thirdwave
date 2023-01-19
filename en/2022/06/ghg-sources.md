@@ -41,7 +41,7 @@ Table
     <td>
       <table border="1">
         <tr>
-	  <td>Burning of fossil fuels like coal, natural gas and oil</td>
+	  <td>Burning of dirty fuels like coal, natural gas and oil</td>
 	  <td>87%</td>
 	 </tr>
         <tr>

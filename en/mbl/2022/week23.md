@@ -60,8 +60,9 @@ tranmission, and consumption can achieve that.
 
 The longer fossil stays in the system, stored, transmitted, the more
 the chances are for "leaking or cheating". If oil pipeline breaks it
-causes environmental damage. If fossil allowed in cars with 'emission
-control' instituted, it will lead to cheating as in Volkswagen's case. 
+causes environmental damage. If dirty fuels are allowed in cars with
+'emission control' instituted, it will lead to cheating as in
+Volkswagen's case.
 
 ---
 
