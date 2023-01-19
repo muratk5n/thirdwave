@@ -162,6 +162,17 @@ Code
 
 [util.py](util.py)
 
+<a name="cruise"/>
+
+### Rough Mortality Calculation
+
+Covid fatality / cases ratio is about 3%. How about the overall raw
+mortality rate? We can use the case of the cruise ship that was hit by
+covid, Diamond Princess Cruise, which experienced the epidemic in an
+isolated environment. They found about 30% of the people were
+infected. We can assume the virus reached everyone possible on that
+ship. 30% of 3% is nearly 1%.
+
 References
 
 [1] https://github.com/tt-nakamura/Reff.git
