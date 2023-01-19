@@ -32,4 +32,16 @@ even though it has great eyesight benefits (carrots), or too high in
 iron (spinach instead of chards). Too much potassium will create sleepiness,
 too much iron is as harmful almost as much as too little.
 
+Why blend before drying: this guy here [2] does the reverse, dries
+complete meat pieces, powderizes the dried product in a heavy duty
+blender. Blending raw is easier, the dried end-result is can be eaten
+as-is, and the greens harden enough for good preservation, but still
+allow for easy rehydration. 
+
+Reference
+
+[1] [My Greek Taste](https://www.mygreektaste.com/product/greek-
+vegetables-trahana-dardouma/)
+
+[2] [Pemmican](https://youtu.be/MElMJsIP1Y0?t=404)
 
