@@ -48,8 +48,8 @@ thing he was against - the Big Bang theory.
 ---
 
 Calcium carbonate is sedimentary rock, iron oxide is a component of
-igneous rock, and water. Water can certainly seep down from ocean
-floor, and combine with the rest. 
+igneous rock. Water can certainly seep down from ocean floor, and
+combine with the rest.
 
 ---
 
