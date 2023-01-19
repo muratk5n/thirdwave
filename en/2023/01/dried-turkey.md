@@ -20,7 +20,7 @@ pieces, which IMO helps the food last longer (also eases handling).
 
 Ideas for Meal: can also buy or dry beet roots, apples.. For a meal
 toss all these in a cup, add cheese, plus some dried soup (Greek
-trahana works best), and boiling water, boom. The water rehydrates
+trahana [1] works best), and boiling water, boom. The water rehydrates
 everything, makes for great camping food. The fat comes from the
 cheese, the rest is already in the dried ingredients. Most cheese will
 last outdoors for a while, there are some dry ones, if not, tallow, or
