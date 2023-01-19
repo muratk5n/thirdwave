@@ -1,142 +1,114 @@
 
 ---
 
-H2 Central: "Larsen & Toubro, an Indian multi-national engaged in EPC
-Projects, Hi-Tech Manufacturing, and Services, announced the signing
-of a Memorandum of Understanding (MoU) with the Norway-based H2Carrier
-(H2C) to co-operate towards developing floating green ammonia projects
-for industrial-scale applications"
+The Times of India: "Adani Enterprise Limited led by Gautam Adani [of
+India] has signed an agreement with commercial vehicle manufacturer
+Ashok Leyland and Canada's Ballard Power to co-develop trucks powered
+by hydrogen fuel-cells"
+
+<img width="340" src="adani_1.jpeg"/>
 
 ---
 
-Reuters: "India OKs $2 bln incentive plan for green hydrogen industry"
+Construct the math, formulate concepts and code instead of shoving
+data into a black box. This is the way.
+
+TU Munchen: "Researchers.. have developed a model that enables a robot
+to serve tea and coffee faster and more safely than humans – with no
+sloshing... They based their mathematics on a Moroccan tea tray that
+applies the principle of a spherical pendulum.. embed[ding] the
+dynamics of a spherical pendulum into the robot’s control
+software. That also means that the robot’s movements are limited by
+the basic principles of geometry. With his team, he also integrates
+the correct angles, speeds and accelerations into the model"
 
 ---
 
-H2 Fuel News: "Porsche hydrogen engine prototype outperforms
-8-cylinder gasoline engine"
+"@missy_lynn@mastodon.world
+
+told my daughter to watch her attitude. she said for complaints about
+her attitude, contact the manufacturer"
 
 ---
 
-Russia was being shelled in Kherson City, they pulled out, Ukraine
-moved in, now they are being shelled by Russian forces \\(ツ)/ eyyy
-(medi shrug). The river line proved to be defensible. UA
-counteroffensive there stalled.
+"@repepo@mathstodon.xyz
+
+'Nature, to be commanded, must be obeyed.' - Francis Bacon"
 
 ---
 
-BKM is major strat point; Ukraine sacrificed much to hold on to it..
-One could even argue the counteroffensive last year was done partly to
-shift the focus elsewhere when the battle there was not going well.
-
-But things are now back to where they were; RU shored up the South, 
-and now moving ahead with plans taking the rest of Donetsk.
+TASS: "US takes agricultural commodities out of sanctions against
+Russia — Treasury"
 
 ---
 
-Latest frontline in Ukraine (in red), compared to 2022/11
-(gray). Gains in Soledar, also south of Bakhmut. RU will surely
-attempt to encircle BKM. Some gains in Zaporizhia too?  The start of
-something from there perhaps, with plans of pushing towards the north.
-
-```python
-geo = [['Soledar',48.68207521, 38.0896357,(5,20)],
-       ['Bakhmut',48.59681687, 37.9957181,(-20,0)]]
-u.sm_plot_ukr('ukrdata/fl-0116.csv','ukrdata/fl-221115.csv',geo)
-```
-
-<img width="340" src="mbl/2023/ukr-1.jpg"/>
+David Gold championed this idea and he was proven right BTW. Another
+thing he was against - the Big Bang theory.
 
 ---
 
-Al Jazeera: "China reports almost 60,000 COVID-related deaths in past
-month"
+Calcium carbonate is sedimentary rock, iron oxide is a component of
+igneous rock, and water. Water can certainly seep down from ocean
+floor, and combine with the rest. 
 
 ---
 
-H2 Central: "Masdar Signs Agreement to Explore Exporting Green
-Hydrogen from Abu Dhabi to Europe"
+This means there is no need for 'fossils' for the production of
+hydrocarbons, simple compounds present in the mantle at high pressure
+/ temparature will do.
+
+"[2004] We present in situ observations of hydrocarbon formation via
+carbonate reduction at upper mantle pressures and
+temperatures. Methane was formed from FeO, CaCO3-calcite, and water at
+pressures between 5 and 11 GPa and temperatures ranging from 500°C to
+1,500°C... The study demonstrates the existence of abiogenic pathways
+for the formation of hydrocarbons in the Earth's interior and suggests
+that the hydrocarbon budget of the bulk Earth may be larger than
+conventionally assumed"
+
+[[-]](https://www.pnas.org/doi/10.1073/pnas.0405930101)
 
 ---
 
-TASS: "Kazakh companies purchase Russian sovereign bonds worth $1.4
-bln — Bloomberg"
+Yonderboi - Mintamokus (Feat. Jazz+Azz) \#music
+
+[[-]](https://youtu.be/JZ9KgJkH0vQ)
 
 ---
 
-Automative World: "Cummins: hydrogen ICE to take off from 2024..The
-engine specialist shares its outlook for hydrogen-powered internal
-combustion engines in heavy trucking... it falls to Jim Nebergall as
-General Manager of the Hydrogen Engine Business to steer its global
-efforts in commercialising hydrogen-fuelled ICE specifically. 'There
-is interest here because the technology is low cost in nature and
-represents a zero-carbon option,' he says. 'On the whole, it offers a
-significant boost for the decarbonisation of commercial vehicles with
-a technology that customers understand.'"
+TASS: "Ukraine redeploying troops from Zaporozhye region to Donbass"
 
 ---
 
-Disney's overwhelming slew of cuck repertoire surely is not helping
-matters - spending too much gaining too little.
+"@ShekinahCanCook@universeodon.com
+
+If you live in Kentucky, please send the state legislature a message
+of support for House Bill 21, which makes it easier for homeless
+people to get state IDs so they can register for the help they qualify
+to receive but aren't due to republican hate policies which
+purposefully burden the poor and homeless"
 
 ---
 
-2.48 billion in debt payments son.. The shareholder was already
-strapped for earnings, that payment killed them. That would piss a man
-off
+"@TheRaDR@mstdn.social
 
-```python
-u.yf_cash("DIS")['totalCashFromFinancingActivities'] / 1e9
-```
-
-```text
-Out[1]: 
-2022-01-01   -0.292
-2022-04-02   -1.817
-2022-07-02   -0.150
-2022-10-01   -2.482
-```
+[MLK] "When machines and computers, profit motives and property rights
+are considered more important than people, the giant triplets of
+racism, extreme materialism and militarism are incapable of being
+conquered'"
 
 ---
 
-A lot of debt, due to Fox deal likely.
+"@BrentToderian@mastodon.online
 
-```python
-u.yf_balance("DIS")['longTermDebt'] / 1e9 # in billions
-```
-
-```text
-Out[1]: 
-2022-01-01    47.349
-2022-04-02    46.624
-2022-07-02    46.022
-2022-10-01    45.299
-Name: longTermDebt, dtype: float64
-```
+'Someone with a 1-hr car commute needs to earn 40% more to be as happy
+as someone with a short walk to work'" via Fast Company
 
 ---
 
-He is right DIS earnings went to shit. 0.09? This is a joke.
-
-
-```python
-u.yf_eps("DIS")
-```
-
-```text
-Out[1]: 
-2022-01-01    0.605399
-2022-04-02    0.257733
-2022-07-02    0.772652
-2022-10-01    0.088836
-```
-
----
-
-CNBC: "Disney is facing a proxy fight as Nelson Peltz’s activist firm
-Trian Fund Management pushes for a seat on its board... Peltz.. raised
-issues with Disney’s $71 billion acquisition of Fox in 2019 and how
-the company’s shareholder value has eroded in recent years"
+H2 Central: "The Albanese Government is turbocharging Australia’s
+green hydrogen industry, with a $70 million investment to support the
+development of a hydrogen"
 
 ---
 
