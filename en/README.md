@@ -42,8 +42,8 @@ Russia — Treasury"
 
 ---
 
-David Gold championed this idea and he was proven right BTW. Another
-thing he was against - the Big Bang theory.
+David Gold championed this idea and he was proven right. He was also
+against the Big Bang theory.
 
 ---
 
