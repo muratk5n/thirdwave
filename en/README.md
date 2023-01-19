@@ -6,7 +6,7 @@ India] has signed an agreement with commercial vehicle manufacturer
 Ashok Leyland and Canada's Ballard Power to co-develop trucks powered
 by hydrogen fuel-cells"
 
-<img width="340" src="adani_1.jpeg"/>
+<img width="340" src="mbl/2023/adani_1.jpeg"/>
 
 ---
 
