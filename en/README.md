@@ -70,12 +70,6 @@ conventionally assumed"
 
 ---
 
-Yonderboi - Mintamokus (Feat. Jazz+Azz) \#music
-
-[[-]](https://youtu.be/JZ9KgJkH0vQ)
-
----
-
 TASS: "Ukraine redeploying troops from Zaporozhye region to Donbass"
 
 ---
