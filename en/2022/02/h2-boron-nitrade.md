@@ -27,7 +27,7 @@ others, and allowing it to be easily removed from the mill. The
 process can be repeated over several stages to separate the gases one
 by one.
 
-<img width="200" src="../../tweets/2022/twimg/FX9zA-MWAAAxXrO.jpg"/>
+<img width="200" src="../../mbl/2022/twimg/FX9zA-MWAAAxXrO.jpg"/>
 
 All up, the process consumes 76.8 KJ/s to store and separate 1000L of
 gases, which means it uses at least 90 per cent less than the current

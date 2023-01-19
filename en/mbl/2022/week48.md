@@ -278,8 +278,7 @@ assumed wrong.
 
 ---
 
-For failure of detecting FTX fail look no further than
-"connectedness".  
+For failure of detecting FTX fail look no further than "connectedness".  
 
 ---
 
