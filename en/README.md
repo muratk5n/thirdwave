@@ -79,7 +79,7 @@ TASS: "Ukraine redeploying troops from Zaporozhye region to Donbass"
 If you live in Kentucky, please send the state legislature a message
 of support for House Bill 21, which makes it easier for homeless
 people to get state IDs so they can register for the help they qualify
-to receive but aren't due to [Rep shenanigans]"
+to receive but aren't [due to Rep shenanigans]"
 
 ---
 
