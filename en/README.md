@@ -90,6 +90,14 @@ purposefully burden the poor and homeless"
 
 ---
 
+MLK: "We have fought hard and long for integration.. and I know we
+will win, but I have come to believe that we are integrating into a
+burning house... I’m afraid that even as we integrate, we are walking
+into a place that does not understand that this nation needs to be
+deeply concerned with the plight of the poor and disenfranchised"
+
+---
+
 "@TheRaDR@mstdn.social
 
 [MLK] "When machines and computers, profit motives and property rights
