@@ -1,6 +1,6 @@
 # The Memristor
 
-<img width="300"  src='https://muratk3n.github.io/thirdwave/en/tweets/2019/memristor.png'>
+<img width="300"  src='../../mbl/2019/memristor.png'>
 
 Some call memristor "The Fourth Element" because after the widely
 known elements resistor, capacitor, inductor, the memristor would be

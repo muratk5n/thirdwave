@@ -9,7 +9,7 @@ btw -10 and +10, the latter being full democracy.
 
 ```python
 import pandas as pd
-df = pd.read_excel('../../tweets/2020/p4v2018.xls')
+df = pd.read_excel('../../mbl/2020/p4v2018.xls')
 df = df[df.year > 1950]
 df.loc[df.polity < -10, 'polity'] = np.nan
 df['polity'] = df['polity'].interpolate(method='linear')
@@ -28,7 +28,7 @@ selected countries, recently updated for 2020.
 
 ```python
 import pandas as pd
-df = pd.read_stata('../../tweets/2020/BTI 2006-2020.dta')
+df = pd.read_stata('../../mbl/2020/BTI 2006-2020.dta')
 df1 = df[['country','dem_stat','year']]
 df1 = df1[df1.country.isin(['Russia','Turkey','Iran','China','Ukraine'])]
 df1=df1.pivot(index='year', columns='country', values='dem_stat')
@@ -42,7 +42,7 @@ plt.savefig('bti-compare.png')
 
 ```python
 import pandas as pd
-df = pd.read_stata('../../tweets/2020/BTI 2006-2020.dta')
+df = pd.read_stata('../../mbl/2020/BTI 2006-2020.dta')
 g = df.groupby('year').dem_stat.mean()
 g.plot()
 plt.savefig('bti-all.png')
