@@ -46,7 +46,7 @@ geo = [['Soledar',48.68207521, 38.0896357,(5,20)],
 u.sm_plot_ukr('ukrdata/fl-0116.csv','ukrdata/fl-221115.csv',geo)
 ```
 
-<img width="340" src="mbl/2023/ukr-1.jpg"/>
+<img width="340" src="ukr-1.jpg"/>
 
 ---
 
