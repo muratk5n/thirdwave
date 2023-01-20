@@ -1,7 +1,7 @@
 # H2 From Methane (Natural Gas)
 
-If hydrogen is produced from natural gas with an added carbon capture and
-storage step, the end result is called blue hydrogen. This is a proven
+If hydrogen is produced from natural gas with an added carbon capture [1]
+and storage step, the end result is called blue hydrogen. This is a proven
 process (see below) and there are even certifications for it.
 
 [H2 Fuel News](https://www.hydrogenfuelnews.com/blue-hydrogen-sabic/8555324/)
@@ -79,5 +79,9 @@ fuel.
 Methane Prolysis by C-Zero
 
 <iframe width="340" src="https://www.youtube.com/embed/JGe8R0N20ps?start=412&end=545" title="How Cheap Hydrogen Could Become the Next Clean Fuel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Reference
+
+[1] [Carbon Capture](h2-co2-capture.html)
 
 [[Up]](h2-production.html)
