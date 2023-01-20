@@ -184,19 +184,21 @@ Production is 9.01 million barrels / day (Nov 2020).
 crude oil 10.2 Kwh/kg. 1 million barrels of oil can produce half a
 million barrels of gasoline. Gasoline energy density is 12.88 kwh/kg.
 
-Largest oil fields
+Largest oil fields (nummbers in thousands)
 
-'West Qurna Field, Iraq',465*1e3
-'Rumaila Field',1.5*1e6
-'Romashkino Field, Russia',1.5*1e6
-'Marun Field Iran',100*1e3
-'Samotlor Field, Russia',3*1e6
-'Kashagan Field, Kazakhstan',380*1e3
-'Aghajari Field, Iran',200*1e3
-'Safaniya Oil Field, Kuwait / Saudi Arabia',1*1e6
-'Upper Zakum Oil Field, UAE',1*1e6
-'Ahvaz Field, Iran',750*1e3
-'Burgan Field, Kuwait',1.68*1e6
+```
+'West Qurna Field, Iraq',465
+'Rumaila Field',1500
+'Romashkino Field, Russia',1500
+'Marun Field Iran',100
+'Samotlor Field, Russia',300
+'Kashagan Field, Kazakhstan',380
+'Aghajari Field, Iran',200
+'Safaniya Oil Field, Kuwait / Saudi Arabia',100
+'Upper Zakum Oil Field, UAE',1000
+'Ahvaz Field, Iran',750
+'Burgan Field, Kuwait',1680
+```
 
 Sun energy falling on Earth 1 kW/m2, 24 KWh/m2 in a day.
 
