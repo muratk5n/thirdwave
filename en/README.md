@@ -92,7 +92,9 @@ had progressive Dem support too..
 
 ---
 
-It's a good proposal \#Gaetz
+It's a good proposal, this was back in Jan last year?
+
+\#Gaetz
 
 [[-]](https://masto.ai/@muratk3n/109655048562825311)
 
