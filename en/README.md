@@ -87,8 +87,8 @@ TASS: "Indian payment system RuPay can be used in trade with Russia — expert"
 
 ---
 
-Prev Congress did not pick it up, another try in this one? The bill
-had progressive Dem support too..
+Prev Congress did not pick it up, maybe they'll another try in this
+one. The bill had some progressive Dem support too.
 
 ---
 
