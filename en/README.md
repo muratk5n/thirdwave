@@ -44,8 +44,10 @@ Hydrogen with New Aid for 74 Million Euros"
 ---
 
 Well you sided with US, and now in case of "an event" you'd have to
-fight the Chinese.. Your daddy would've been proud (although he was
-sort of sold out by US).
+fight the Chinese.. A tough spot.
+
+But daddy would've been proud (although he was sort of sold out by US
+in the end).
 
 Arab News: "Philippines’ Marcos says South China Sea keeps him ‘up at
 night’"
