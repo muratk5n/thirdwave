@@ -1,115 +1,109 @@
 
----
-
-The Times of India: "Adani Enterprise Limited led by Gautam Adani [of
-India] has signed an agreement with commercial vehicle manufacturer
-Ashok Leyland and Canada's Ballard Power to co-develop trucks powered
-by hydrogen fuel-cells"
-
-<img width="340" src="mbl/2023/adani_1.jpeg"/>
+H2 Fuel News: "Hydrogen fuel cell market to hit $26.7B by the end of
+the decade. New forecasts issued by Emergen Research predicted a CAGR
+of 22.8 percent until 2030"
 
 ---
 
-Construct the math, formulate concepts and code instead of shoving
-data into a black box. This is the way.
-
-TU Munchen: "Researchers.. have developed a model that enables a robot
-to serve tea and coffee faster and more safely than humans – with no
-sloshing... They based their mathematics on a Moroccan tea tray that
-applies the principle of a spherical pendulum.. embed[ding] the
-dynamics of a spherical pendulum into the robot’s control
-software. That also means that the robot’s movements are limited by
-the basic principles of geometry. With his team, he also integrates
-the correct angles, speeds and accelerations into the model"
+H2 Central: "Gasunie And STORAG ETZEL Team up in Hydrogen Storage in
+The Etzel Caverns in Germany"
 
 ---
 
-"@missy_lynn@mastodon.world
+The Guardian: "Revealed: more than 90% of rainforest carbon offsets by
+biggest provider are worthless, analysis shows.. Investigation into
+Verra carbon standard finds most are ‘phantom credits’ and may worsen
+global heating"
 
-told my daughter to watch her attitude. she said for complaints about
-her attitude, contact the manufacturer"
-
----
-
-"@repepo@mathstodon.xyz
-
-'Nature, to be commanded, must be obeyed.' - Francis Bacon"
+[[-]](https://www.theguardian.com/environment/2023/jan/18/revealed-forest-carbon-offsets-biggest-provider-worthless-verra-aoe)
 
 ---
 
-TASS: "US takes agricultural commodities out of sanctions against
-Russia — Treasury"
+Latest
+
+```python
+u.sw_border_encounter('2022-Oct/sbo-encounters-fy19-fy22.csv')
+```
+
+```text
+YMD
+202209    227547.0
+202210    164837.0
+202211    174845.0
+202212    179253.0
+Name: Encounter Count, dtype: float64
+```
 
 ---
 
-David Gold championed this idea and he was proven right. He was also
-against the Big Bang theory.
+H2 Central: "Spain – The Government Increases its Commitment to
+Hydrogen with New Aid for 74 Million Euros"
 
 ---
 
-Calcium carbonate is sedimentary rock, iron oxide is a component of
-igneous rock. Water can certainly seep down from ocean floor, and
-combine with the rest.
+Well you sided with US, and now in case of "an event" you'd have to
+fight the Chinese.. Your daddy would've been proud (although he was
+sort of sold out by US).
+
+Arab News: "Philippines’ Marcos says South China Sea keeps him ‘up at
+night’"
 
 ---
 
-This means there is no need for 'fossils' for the production of
-hydrocarbons, simple compounds present in the mantle at high pressure
-/ temparature will do.
-
-"[2004] We present in situ observations of hydrocarbon formation via
-carbonate reduction at upper mantle pressures and
-temperatures. Methane was formed from FeO, CaCO3-calcite, and water at
-pressures between 5 and 11 GPa and temperatures ranging from 500°C to
-1,500°C... The study demonstrates the existence of abiogenic pathways
-for the formation of hydrocarbons in the Earth's interior and suggests
-that the hydrocarbon budget of the bulk Earth may be larger than
-conventionally assumed"
-
-[[-]](https://www.pnas.org/doi/10.1073/pnas.0405930101)
+Al Monitor: "America's prestigious Harvard University said Thursday it
+would offer a fellowship to a leading human rights advocate after an
+initial snub over his criticism of Israel sparked a backlash"
 
 ---
 
-TASS: "Ukraine redeploying troops from Zaporozhye region to Donbass"
+Stefano Torossi - Running Fast \#music
+
+[[-]](https://youtu.be/T86oQ8DNpNw)
 
 ---
 
-"@ShekinahCanCook@universeodon.com
-
-If you live in Kentucky, please send the state legislature a message
-of support for House Bill 21, which makes it easier for homeless
-people to get state IDs so they can register for the help they qualify
-to receive but aren't [due to Rep shenanigans]"
-
----
-
-MLK: "We have fought hard and long for integration.. and I know we
-will win, but I have come to believe that we are integrating into a
-burning house... I’m afraid that even as we integrate, we are walking
-into a place that does not understand that this nation needs to be
-deeply concerned with the plight of the poor and disenfranchised"
+TCD: "One Texas factory will soon be using clean energy to turn water
+into fuel.. The new facility in Wilbarger County, Texas, is using a
+massive amount of wind and solar power to create vehicle fuel from
+[water]. Beyond bringing half a billion dollars in tax benefits to
+Texas.. [it] is estimated that the factory could help us avoid more
+than 55 million tons of... carbon pollution"
 
 ---
 
-"@TheRaDR@mstdn.social
-
-[MLK] "When machines and computers, profit motives and property rights
-are considered more important than people, the giant triplets of
-racism, extreme materialism and militarism are incapable of being
-conquered'"
+Politico.eu: "No German tanks for Ukraine until America sends its own,
+Scholz tells US lawmakers"
 
 ---
 
-"@BrentToderian@mastodon.online
-
-'Someone with a 1-hr car commute needs to earn 40% more to be as happy
-as someone with a short walk to work'" via Fast Company
+First Post: "Saudi Arabia to trade in Indian rupee? kingdom says open
+to discussions on settlement in currencies other than dollar"
 
 ---
 
-H2 Central: "The Albanese Government is turbocharging Australia’s
-green hydrogen industry, with a $70 million investment to support the
-development of a hydrogen industry in North Queensland"
+TASS: "Indian payment system RuPay can be used in trade with Russia — expert"
+
+---
+
+Prev Congress did not pick it up, another try in this one? The bill
+had progressive Dem support too..
+
+---
+
+It's a good proposal \#Gaetz
+
+[[-]](https://masto.ai/@muratk3n/109655048562825311)
+
+---
+
+TASS: "Hungary blocks another EU tranche to finance military aid to
+Ukraine — Polish radio"
+
+---
+
+Al Jazeera: "Are the US and Europe uniting or drifting apart?.. Many
+European countries hesitate to adopt the same Ukraine policies
+advocated by Washington"
 
 ---
 
