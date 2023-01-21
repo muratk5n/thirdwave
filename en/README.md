@@ -60,12 +60,6 @@ initial snub over his criticism of Israel sparked a backlash"
 
 ---
 
-Stefano Torossi - Running Fast \#music
-
-[[-]](https://youtu.be/T86oQ8DNpNw)
-
----
-
 TCD: "One Texas factory will soon be using clean energy to turn water
 into fuel.. The new facility in Wilbarger County, Texas, is using a
 massive amount of wind and solar power to create vehicle fuel from
