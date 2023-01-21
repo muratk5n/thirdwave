@@ -87,19 +87,6 @@ TASS: "Indian payment system RuPay can be used in trade with Russia — expert"
 
 ---
 
-Prev Congress did not pick it up, maybe they'll another try in this
-one. The bill had some progressive Dem support too.
-
----
-
-It's a good proposal, this was back in Jan last year?
-
-\#Gaetz
-
-[[-]](https://masto.ai/@muratk3n/109655048562825311)
-
----
-
 TASS: "Hungary blocks another EU tranche to finance military aid to
 Ukraine — Polish radio"
 
