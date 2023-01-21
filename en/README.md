@@ -44,7 +44,7 @@ Hydrogen with New Aid for 74 Million Euros"
 ---
 
 Sure not exactly "a good guy" but he was fighting commies for you, how
-else did ppl think he achieved all of that?
+else did ppl think he achieved all of that? 
 
 ---
 
