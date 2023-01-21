@@ -79,7 +79,7 @@ Scholz tells US lawmakers"
 
 ---
 
-First Post: "Saudi Arabia to trade in Indian rupee? kingdom says open
+First Post: "Saudi Arabia to trade in Indian rupee? Kingdom says open
 to discussions on settlement in currencies other than dollar"
 
 ---
