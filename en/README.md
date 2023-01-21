@@ -34,7 +34,7 @@ YMD
 Name: Encounter Count, dtype: float64
 ```
 
-<img width="340" src="border_enc_1.jpg"/>
+<img width="340" src="mbl/2023/border_enc_1.jpg"/>
 
 ---
 
