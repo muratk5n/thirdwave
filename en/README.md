@@ -34,6 +34,8 @@ YMD
 Name: Encounter Count, dtype: float64
 ```
 
+<img width="340" src="border_enc_1.jpg"/>
+
 ---
 
 H2 Central: "Spain – The Government Increases its Commitment to
