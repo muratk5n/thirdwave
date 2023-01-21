@@ -43,6 +43,11 @@ Hydrogen with New Aid for 74 Million Euros"
 
 ---
 
+Sure not exactly "a good guy" but he was fighting commies for you, how
+else did ppl think he achieved all of that?
+
+---
+
 Well you sided with US, and now in case of "an event" you'd have to
 fight the Chinese.. A tough spot.
 
@@ -59,7 +64,7 @@ would offer a fellowship to a leading human rights advocate after an
 initial snub over his criticism of Israel sparked a backlash"
 
 ---
-
+1
 TCD: "One Texas factory will soon be using clean energy to turn water
 into fuel.. The new facility in Wilbarger County, Texas, is using a
 massive amount of wind and solar power to create vehicle fuel from
