@@ -39,9 +39,7 @@ collapsing on itself.
 
 New Direction
 
-His idea for the new direction of physics involves quaternions.
-
-From [The Mathematical Reality Why Space and Time are an Illusion](https://www.amazon.com/Mathematical-Reality-Space-Time-Illusion/dp/B0849ZXQB1):
+The new direction of physics can involve quaternions. From [The Mathematical Reality Why Space and Time are an Illusion](https://www.amazon.com/Mathematical-Reality-Space-Time-Illusion/dp/B0849ZXQB1):
 "As early as the 1930s, the Dutch physicist and close friend of
 Einstein, Paul Ehrenfest, wondered why the wave functions for matter
 (complex numbers) and light (vector fields) were mathematically so

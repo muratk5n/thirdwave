@@ -9,6 +9,19 @@ import urllib.request as urllib2
 from io import BytesIO
 import pandas_ta as ta
 
+def sm_plot_kurd():
+    clat,clon=37.377413, 42.78591;zoom=0.6
+    sm.plot_countries(clat,clon,zoom,outcolor='lavenderblush')
+    d = json.loads(open("kurd1.json").read())
+    sm.plot_line(np.array(d['duhok']),color='pink')
+    sm.plot_line(np.array(d['erbil']),color='pink')
+    sm.plot_line(np.array(d['suleymaniah'],),color='pink')
+    plt.text(42.5,37,'Duhok',color='gray')
+    plt.text(43.5,36,'Erbil',color='gray')
+    plt.text(45,35.5,'Suleymaniah',color='gray')
+    pars = [(40,38,'TUR'),(46,37,'IRN'),(43,35,'IRQ'),(40,36,'SYR')]
+    for x in pars: plt.text(*x)
+
 def sw_border_encounter(url):
     url = 'https://www.cbp.gov/sites/default/files/assets/documents/' + url
     hdr = {'User-Agent':'Mozilla/5.0'}

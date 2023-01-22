@@ -5,6 +5,10 @@ import pandas as pd
 pd.set_option('display.max_columns', None)
 ```
 
+```python
+u.sm_plot_kurd()
+plt.savefig('/tmp/out.jpg',quality=40)
+```
 
 
 
