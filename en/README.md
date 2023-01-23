@@ -89,11 +89,6 @@ Fast Fashion Facts:
 
 ---
 
-The Independent: "Outrage as Iowa Republicans want to ban food stamp
-users from buying sliced cheese, white rice, or fresh meats"
-
----
-
 H2 Fuel News: "China has the most hydrogen stations of any country in
 the world"
 
@@ -126,6 +121,11 @@ diverging with Washington on Beijing ties"
 ---
 
 The Independent: "Putin ‘massing significant forces in Zaporizhzhia’"
+
+---
+
+The Independent: "Outrage as Iowa Republicans want to ban food stamp
+users from buying sliced cheese, white rice, or fresh meats"
 
 ---
 
