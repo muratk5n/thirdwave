@@ -63,8 +63,9 @@ Airliner" via @Hypx@mastodon.social
 
 ---
 
-MHI has tech for pure NH3 based power plants too. With some coal, or
-completely without it, there are options.
+MHI has tech for pure NH3 based power plants too. So many
+options.. with some coal, or completely without coal.. That's what a
+solid base tech gives us.
 
 H2 View: "Mitsubishi Heavy Industries (MHI) is set to conduct a
 feasibility study for the introduction of ammonia co-firing at a
