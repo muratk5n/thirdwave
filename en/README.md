@@ -9,13 +9,12 @@ years"
 
 H2 Central: "Brazilian chemical maker Unigel said on Wednesday it will
 invest up to $1.5 billion in its complex in the state of Bahia to
-produce so-called green hydrogen, the first in the country to do so on
-an industrial scale...
-
-The plant, located in the city of Camaçari, should have the first of
-three phases inaugurated by the end of 2023, expanding capacity until
-it achieves production of 100,000 tonnes of hydrogen by 2027, or
-600,000 tonnes of one of its derivatives, ammonia"
+produce.. green hydrogen, the first in the country to do so on an
+industrial scale... The plant, located in the city of Camaçari, should
+have the first of three phases inaugurated by the end of 2023,
+expanding capacity until it achieves production of 100,000 tonnes of
+hydrogen by 2027, or 600,000 tonnes of one of its derivatives,
+ammonia"
 
 ---
 
