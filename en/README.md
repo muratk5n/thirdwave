@@ -94,6 +94,11 @@ the world"
 
 ---
 
+Obviously, mining as a means to encourage server availability was an
+obscenely stupid idea caused waste of precious energy.
+
+---
+
 Open social media can provide the backdrop for fantastic net-centric
 apps to be developed. Bitcoin bribed miners with mined money reward so
 their machines provided other services to users. OSM servers are
