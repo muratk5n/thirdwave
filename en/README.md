@@ -34,7 +34,7 @@ rising in a warming climate...and we need to prepare"
 
 We could gauge the effectiveness of the vax (and the system delivering
 it) using the 1% method. Deaths in US are 1.11 million, `1.11 /
-(330*0.01)` equals 0.33 meaning 77% were saved.
+(330*0.01)` equals 0.33 meaning 67% were saved.
 
 ---
 
