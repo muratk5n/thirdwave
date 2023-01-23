@@ -77,7 +77,7 @@ Detailed birdeye view is my thing
 
 ---
 
-@FionaGrayPhD@aus.social
+"@FionaGrayPhD@aus.social
 
 Fast Fashion Facts:
 
@@ -85,7 +85,7 @@ Fast Fashion Facts:
 - Of the billions of clothing items made each year, over half are thrown away.
 - The fashion industry employs millions of people but only around 2% earn a living wage.
 - 60% of clothes are made from synthetic fabrics derived from fossil fuels.
-- The production of textiles produces almost 1.2 billion tonnes of CO2 per year.
+- The production of textiles produces almost 1.2 billion tonnes of CO2 per year"
 
 ---
 
