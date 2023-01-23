@@ -1,6 +1,5 @@
 # Week 4
 
-
 H2 Fuel News: "Hydrogen fuel cell market to hit $26.7B by the end of
 the decade. New forecasts issued by Emergen Research predicted a CAGR
 of 22.8 percent until 2030"
@@ -36,7 +35,7 @@ YMD
 Name: Encounter Count, dtype: float64
 ```
 
-<img width="340" src="mbl/2023/border_enc_1.jpg"/>
+<img width="340" src="border_enc_1.jpg"/>
 
 ---
 
