@@ -7,6 +7,7 @@ pd.set_option('display.max_columns', None)
 
 ```python
 u.sm_plot_kurd()
+plt.plot(44.361682512831514,35.469605798313246,'+') # kirkuk
 plt.savefig('/tmp/out.jpg',quality=40)
 ```
 

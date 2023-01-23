@@ -120,9 +120,11 @@
     * 22/05: UK attacks: An Islamist extremist suicide bomber detonated a bomb as people were leaving the Manchester Arena following a concert. 23 people died, and 1,017 were injured
     * 05/06: Saudi Arabia, the United Arab Emirates, Bahrain and Egypt severed diplomatic relations with Qatar and banned Qatar-registered planes and ships from utilising their airspace and sea routes, along with Saudi Arabia blocking Qatar's only land crossing.
     * 09/07: Iraqi forces manage to take back Mosul from ISIS
-    * 25/07: TR signs deal to buy Russian S-400 defense system
-    * 25/09: Kurdish region in Iraq holds a referandum where most voting for independence, Iraqi central government objects
-    * 16/10: Iraqi government takes back Kirkuk from Kurds, an area previously voted for independence, by force
+    * 25/07: TR signs deal to buy Russian S-400 defense system    
+    * 25/09: Kurdish region in Iraq holds a referandum where most
+      voting for independence, Iraqi central government objects      
+    * 16/10: Iraqi government takes back Kirkuk from Kurds, an area
+      previously voted for independence, by force    
     * 17/10: Raqqa, the ISIS capital, is captured by Kurdish, Arab forces (SDF) with US air support 
     * 03/11: Lebanon's PM Hariri held hostage in Saudi Arabia, handed a prewritten resignation speech and forced to read it on Saudi television. PM returns home 3 weeks later in a trip brokered by France, and suspended his resignation.
 * 2018
