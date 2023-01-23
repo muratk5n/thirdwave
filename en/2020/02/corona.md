@@ -158,10 +158,6 @@ Name: 1, dtype: float64
 
 ![](Rt-US.png)
 
-Code
-
-[util.py](util.py)
-
 References
 
 [1] https://github.com/tt-nakamura/Reff.git
