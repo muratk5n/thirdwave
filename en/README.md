@@ -63,8 +63,8 @@ Airliner" via @Hypx@mastodon.social
 ---
 
 MHI has tech for pure NH3 based power plants too. So many
-options.. with some coal, or completely without coal.. That's what a
-solid base tech gives us.
+options.. with some coal, or completely without coal.. Such are the
+benefits of a solid base tech.
 
 H2 View: "Mitsubishi Heavy Industries (MHI) is set to conduct a
 feasibility study for the introduction of ammonia co-firing at a
