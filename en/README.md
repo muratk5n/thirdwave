@@ -1,5 +1,5 @@
 
-H2 Central: "Ecopetrol , the largest oil company in Colombia, has
+H2 Central: "Ecopetrol, the largest oil company in Colombia, has
 signed the hydrogen company H2B2.. for its green transition... H2B2 is
 confident that the hydrogen energy market will be worth $10 billion by
 2030, with an increase in electrolyser installations in the coming
