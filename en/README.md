@@ -68,7 +68,7 @@ benefits of a solid base tech.
 
 H2 View: "Mitsubishi Heavy Industries (MHI) is set to conduct a
 feasibility study for the introduction of ammonia co-firing at a
-coal-fired thermal power plant in Thailand, in pursuit ofa
+coal-fired thermal power plant in Thailand, in pursuit of a
 decarbonising power production with hydrogen-based fuels"
 
 ---
