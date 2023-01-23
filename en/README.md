@@ -108,11 +108,11 @@ can be built.. Digital currency is only one example.
 
 "@anildash@me.dm
 
-Really clear to me that the new web of fediverse + wasm + tailscale is
-moving very quickly towards something pretty amazing. As much promise
-as all the hype of “Web3”, but open, interoperable, and no ties to
-crypto scams. A lot of incredible things are going to be built across
-this surface area in the next few years"
+Really clear to me that the new web of fediverse.. is moving very
+quickly towards something pretty amazing. As much promise as all the
+hype of “Web3”, but open, interoperable, and no ties to crypto
+scams. A lot of incredible things are going to be built across this
+surface area in the next few years"
 
 ---
 
