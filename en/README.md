@@ -99,13 +99,12 @@ the world"
 
 ---
 
-That makes perfect sense; open social media can provide backdrop for
-more net-centric apps to be developed. Bitcoin bribed miners with
-mined money reward so their machines provided other services to
-users. OSM servers are already available, for socmed purposes, will
-probably outnumber miner machines pretty soon, and on that processing
-power / availability many services can be built.. Digital currency is
-a perfect fit for such a platform, but there can be more.
+Open social media can provide the backdrop for fantastic net-centric
+apps to be developed. Bitcoin bribed miners with mined money reward so
+their machines provided other services to users. OSM servers are
+already available for socmed purposes anyway, will probably outnumber
+miner machines pretty soon, and on that processing power many services
+can be built.. Digital currency is only one example.
 
 "@anildash@me.dm
 
