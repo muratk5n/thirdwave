@@ -31,7 +31,7 @@ one is based at Erbil the other at Suleymaniah, + sign is Kirkuk.
 
 ```python
 u.sm_plot_kurd()
-plt.plot(44.361682512831514,35.469605798313246,'+') 
+plt.plot(44.36168251,35.469605,'+') 
 ```
 
 <img width="340" src="mbl/2023/kurd_1.jpg"/>
