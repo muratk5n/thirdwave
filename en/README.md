@@ -1,135 +1,150 @@
 
-H2 Central: "Ecopetrol, the largest oil company in Colombia, has
-signed the hydrogen company H2B2.. for its green transition... H2B2 is
-confident that the hydrogen energy market will be worth $10 billion by
-2030, with an increase in electrolyser installations in the coming
-years"
+"@TheEuropeanNetwork@mstdn.social
+
+Germany will join the new hydrogen pipeline project between Spain,
+Portugal and France. The project, called H2Med, will connect Portugal
+and Spain with France and now Germany to supply about two million tons
+of hydrogen annually, or about 10% of the European Union's hydrogen
+demand, by 2030" via Deutsche Welle
 
 ---
 
-H2 Central: "Brazilian chemical maker Unigel said on Wednesday it will
-invest up to $1.5 billion in its complex in the state of Bahia to
-produce.. green hydrogen, the first in the country to do so on an
-industrial scale... The plant, located in the city of Camaçari, should
-have the first of three phases inaugurated by the end of 2023,
-expanding capacity until it achieves production of 100,000 tonnes of
-hydrogen by 2027, or 600,000 tonnes of one of its derivatives,
-ammonia"
+TR nemesis Kurdish PKK and sister org YPG are closer to KDP - one
+Talabani made a visit to Rojova (YPG stronghold in NE Syria). Barzanis
+are seen as too close to Ankara, as their poodle (which makes them the
+poodle to poodle's poodle "Turkey").
 
 ---
 
-ARkStorm looks like serious shit. Read some of the scenarios - dam
+KRG, Iraqi central gov also have conflicts; after KRG indep referandum
+central gov attacked KRG, took 20% of its land including Kirkuk -
+major oil production center.
+
+The loss of Kirkuk then became a PUK-KDP sore spot; PUK reportedly
+left the fight, KDP was gung-ho on keeping it, and lost. Major loss of
+face for KRG. Papa Barzani resigned after that one.
 
 ---
 
-"@weatherwest@mastodon.social
+Iraq Kurdish map again; two families Barzani / Talabani are feuding,
+one is based at Erbil the other at Suleymaniah, + sign is Kirkuk.
 
-The recent storm sequence in California--as damaging, disruptive, and
-(sadly) deadly as it was--is still nowhere near the severity level of
-plausible events we foresee in the ARkStorm scenarios. The risks are
-rising in a warming climate...and we need to prepare"
+```python
+u.sm_plot_kurd()
+plt.plot(44.361682512831514,35.469605798313246,'+') 
+```
 
----
-
-We could gauge the effectiveness of the vax (and the system delivering
-it) using the 1% method. Deaths in US are 1.11 million, `1.11 /
-(330*0.01)` equals 0.33 meaning 67% effectiveness.
+<img width="340" src="kurd_1.jpg"/>
 
 ---
 
-Will Dr. Luigi go on trial for possibly triggering this pandemic?
+Trouble in Kurdish regional gov (KRG) of Iraq. The two major parties
+in it, KDP, PUK of are not getting along..
 
 ---
 
-Some nasty effin thing this virus is..
+"@Hy_Economy@mastodon.social
+
+Heating with \#hydrogen: Gerstofen, Germany, plans to blend H₂, that
+is available as waste from industrial processes, in their gas grid
+(for heating purposes).  90% of the grid are already suitable for the
+planned 7% blend"
 
 ---
 
-That would be the optimistic scenario, a lower bound. If we
-[assume](2020/02/corona.html) overall mortality rate of 1%, the
-outcome could reach over 10 million. Assume with an half effective
-vax, the final number could be at about 5 mil.
+TASS: "The West may be heading for 'a catastrophic stalemate,' at
+best, for Ukraine, Sherelle Jacobs, head of the Online Comment at The
+Daily Telegraph, wrote on Monday night.
 
-NDTV: "China Lifting Covid Lockdown Could Kill Upto 2.1 Million People"
+She views a decisive Russian breakthrough in spring as an alternative
+scenario. According to her, while Western elites assume that a victory
+for the Ukrainians 'must surely be around the corner,' the fact is
+that Ukraine is increasingly on the back foot"
+ 
+---
+
+If such a thing *did* happen BTW the Russian state would cease to
+exist - and that's not going to happen. 
 
 ---
 
-"ZeroAvia Achieves First Flight with Hydrogen-powered Regional
-Airliner" via @Hypx@mastodon.social
+It would be very difficult in the following year, or the one after
+that as well..
 
-<img width="340" src="https://cdn.cncms.aero/sites/default/files/styles/fpsc_1966x864/public/uploads/fst_news_article/field_cnc_image/2023/01/ZeroAvia%20first%20flight%20image005.jpg?itok=1ZxzCDzK"/>
-
----
-
-MHI has tech for pure NH3 based power plants too. So many
-options.. with some coal, or completely without coal.. Such are the
-benefits of a solid base tech.
-
-H2 View: "Mitsubishi Heavy Industries (MHI) is set to conduct a
-feasibility study for the introduction of ammonia co-firing at a
-coal-fired thermal power plant in Thailand, in pursuit of a
-decarbonising power production with hydrogen-based fuels"
+Newsweek: 'From a military standpoint, I still maintain that for this
+year it would be very, very difficult to militarily eject the Russian
+forces from...every inch of Russian-occupied Ukraine,' Milley said"
 
 ---
 
-Detailed birdeye view is my thing
+🤣 🤣 
+
+[[-]](distracted_boyf_1.jpg)
 
 ---
 
-"@FionaGrayPhD@aus.social
+Pimps Of Joytime - Take The L Train \#music
 
-Fast Fashion Facts:
-
-- We buy 60% more than we did in 2000 but each garment is kept for half as long.
-- Of the billions of clothing items made each year, over half are thrown away.
-- The fashion industry employs millions of people but only around 2% earn a living wage.
-- 60% of clothes are made from synthetic fabrics derived from fossil fuels.
-- The production of textiles produces almost 1.2 billion tonnes of CO2 per year"
+[[-]](https://youtu.be/lLqTxuxDSDY)
 
 ---
 
-H2 Fuel News: "China has the most hydrogen stations of any country in
-the world"
+Manchin was on Cuck Todd, says Biden *should* have a lot of regrets
+about how he handled classified docs. 😂 Biden got burned.
 
 ---
 
-Obviously, mining as a means to encourage server availability was an
-obscenely stupid idea caused waste of precious energy.
+Reuters: "Pipeline operators Gascade (WINT.UL) and Fluxys (FLUX.BR)
+are stepping up the pace on plans for a green hydrogen pipeline in the
+North Sea by applying to the European Commission to qualify for
+fast-track approvals and funding"
 
 ---
 
-Open social media can provide the backdrop for fantastic net-centric
-apps to be developed. Bitcoin bribed miners with mined money reward so
-their machines provided other services to users. OSM servers are
-already available for socmed purposes anyway, will probably outnumber
-miner machines pretty soon, and on that processing power many services
-can be built.. Digital currency is only one example.
-
-"@anildash@me.dm
-
-Really clear to me that the new web of fediverse.. is moving very
-quickly towards something pretty amazing. As much promise as all the
-hype of “Web3”, but open, interoperable, and no ties to crypto
-scams. A lot of incredible things are going to be built across this
-surface area in the next few years"
+I don't think one can be truly contrarian while trying to coexist with
+the Standard Model. That is some small-minded shit
 
 ---
 
-AFP: "The planned H2Med hydrogen pipeline is to be extended to Germany"
+AU is a good scientist; I agree with his general stance on how
+fundamental science needs to be conducted. The Standard Model needs to
+go.
 
 ---
 
-CNBC: "'China cannot be out, China must be in': France says it's
-diverging with Washington on Beijing ties"
+A. Unzicker is disappointed with America
+
+[[-]](https://youtu.be/YpGy5V3fr6o?t=65)
 
 ---
 
-The Independent: "Putin ‘massing significant forces in Zaporizhzhia’"
+Hindustan Times: "Russian oil is getting mixed in Singapore and then
+re-exported, sources say"
 
 ---
 
-The Independent: "Outrage as Iowa Republicans want to ban food stamp
-users from buying sliced cheese, white rice, or fresh meats"
+H2 Central: "Alkaline Fuel Cell Power Corp Announces Prototype Launch
+of Jupiter 1.0, a Powerful Fuel Cell System for Homes and Small
+Buildings..
+
+The planet Jupiter is made up of roughly 90% hydrogen, and similarly,
+this PWWR fuel cell converts hydrogen to heat and electricity at
+approximately 90% efficiency. Jupiter 1.0 is built to supply power
+during peak demand periods and serves as a back-up when required for
+homes and small buildings...
+
+Jupiter 1.0, requires fewer components compared to conventional fuel
+cells and also eliminates the need for expensive, precious metals"
+
+---
+
+Reuters: "Lula floats shared 'trading currency' during Argentina trip"
+
+---
+
+Reuters: "Brazil’s Lula fires army chief in wake of pro-Bolsonaro
+riots.. In the immediate aftermath of the riots, Lula said he
+suspected collusion by 'people in the armed forces'"
 
 ---
 
