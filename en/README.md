@@ -79,7 +79,7 @@ forces from...every inch of Russian-occupied Ukraine,' Milley said"
 
 🤣 🤣 
 
-[[-]](distracted_boyf_1.jpg)
+[[-]](mbl/2023/distracted_boyf_1.jpg)
 
 ---
 
