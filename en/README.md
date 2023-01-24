@@ -83,12 +83,6 @@ forces from...every inch of Russian-occupied Ukraine,' Milley said"
 
 ---
 
-Pimps Of Joytime - Take The L Train \#music
-
-[[-]](https://youtu.be/lLqTxuxDSDY)
-
----
-
 Manchin was on Cuck Todd, says Biden *should* have a lot of regrets
 about how he handled classified docs. ROFL. WH got burned.
 
@@ -115,6 +109,12 @@ A. Unzicker is disappointed with America
 
 Hindustan Times: "Russian oil is getting mixed in Singapore and then
 re-exported, sources say"
+
+---
+
+Pimps Of Joytime - Take The L Train \#music
+
+[[-]](https://youtu.be/lLqTxuxDSDY)
 
 ---
 
