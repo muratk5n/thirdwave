@@ -39,7 +39,7 @@ plt.plot(44.361682512831514,35.469605798313246,'+')
 ---
 
 Trouble in Kurdish regional gov (KRG) of Iraq. The two major parties
-in it, KDP, PUK of are not getting along..
+in it, KDP, PUK are not getting along..
 
 ---
 
