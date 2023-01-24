@@ -16,9 +16,9 @@ poodle to poodle's poodle "Turkey").
 
 ---
 
-KRG, Iraqi central gov also have conflicts; after KRG indep referandum
-central gov attacked KRG, took 20% of its land including Kirkuk -
-major oil production center.
+KRG, Iraqi central gov also have conflicts; after KRG 2017 indep
+referandum central gov attacked KRG, took 20% of its land including
+Kirkuk - major oil production center.
 
 The loss of Kirkuk then became a PUK-KDP sore spot; PUK reportedly
 left the fight, KDP was gung-ho on keeping it, and lost. Major loss of
