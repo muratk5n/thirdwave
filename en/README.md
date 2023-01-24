@@ -73,7 +73,8 @@ that as well..
 
 Newsweek: 'From a military standpoint, I still maintain that for this
 year it would be very, very difficult to militarily eject the Russian
-forces from...every inch of Russian-occupied Ukraine,' Milley said"
+forces from...every inch of Russian-occupied Ukraine,' [CJCS] Milley
+said"
 
 ---
 
