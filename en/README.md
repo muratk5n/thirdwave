@@ -90,7 +90,7 @@ Pimps Of Joytime - Take The L Train \#music
 ---
 
 Manchin was on Cuck Todd, says Biden *should* have a lot of regrets
-about how he handled classified docs. 😂 Biden got burned.
+about how he handled classified docs. 😂 WH got burned.
 
 ---
 
@@ -98,11 +98,6 @@ Reuters: "Pipeline operators Gascade (WINT.UL) and Fluxys (FLUX.BR)
 are stepping up the pace on plans for a green hydrogen pipeline in the
 North Sea by applying to the European Commission to qualify for
 fast-track approvals and funding"
-
----
-
-I don't think one can be truly contrarian while trying to coexist with
-the Standard Model. That is some small-minded shit
 
 ---
 
