@@ -9,7 +9,7 @@ demand, by 2030" via Deutsche Welle
 
 ---
 
-TR nemesis Kurdish PKK and sister org YPG are closer to KUP - one
+TR nemesis Kurdish PKK and sister org YPG are closer to PUK - one
 Talabani made a visit to Rojova (YPG stronghold in NE Syria). Barzanis
 are seen as too close to Ankara, as their poodle (which makes them the
 poodle to poodle's poodle).
