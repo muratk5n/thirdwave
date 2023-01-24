@@ -90,7 +90,7 @@ Pimps Of Joytime - Take The L Train \#music
 ---
 
 Manchin was on Cuck Todd, says Biden *should* have a lot of regrets
-about how he handled classified docs. 😂 WH got burned.
+about how he handled classified docs. ROFL. WH got burned.
 
 ---
 
