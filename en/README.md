@@ -63,8 +63,8 @@ that Ukraine is increasingly on the back foot"
  
 ---
 
-If such a thing *did* happen BTW the Russian state would cease to
-exist - and that's not going to happen. 
+If such a win *did* occur BTW the Russian state would cease to exist -
+and that's not going to happen.
 
 ---
 
