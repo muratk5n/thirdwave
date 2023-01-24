@@ -18,7 +18,7 @@ ammonia"
 
 ---
 
-ARkStorm looks like some serious shit. Read some of the scenarios - dam
+ARkStorm looks like serious shit. Read some of the scenarios - dam
 
 ---
 
