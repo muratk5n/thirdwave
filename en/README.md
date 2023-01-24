@@ -77,12 +77,6 @@ forces from...every inch of Russian-occupied Ukraine,' Milley said"
 
 ---
 
-🤣 🤣 
-
-[[-]](mbl/2023/distracted_boyf_1.jpg)
-
----
-
 Manchin was on Cuck Todd, says Biden *should* have a lot of regrets
 about how he handled classified docs. ROFL. WH got burned.
 
@@ -109,6 +103,12 @@ A. Unzicker is disappointed with America
 
 Hindustan Times: "Russian oil is getting mixed in Singapore and then
 re-exported, sources say"
+
+---
+
+🤣 🤣 
+
+[[-]](mbl/2023/distracted_boyf_1.jpg)
 
 ---
 
