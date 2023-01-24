@@ -48,7 +48,7 @@ Some nasty effin thing this virus is..
 ---
 
 That would be the optimistic scenario, a lower bound. If we
-[assume](2020/02/corona.html) overall mortality rate of 1%, the
+[assume](../../2020/02/corona.html) overall mortality rate of 1%, the
 outcome could reach over 10 million. Assume with an half effective
 vax, the final number could be at about 5 mil.
 
