@@ -95,9 +95,9 @@ go.
 
 ---
 
-A. Unzicker is disappointed with America - his new book is called Make
-Physics Great Again, he is blaming sci culture in US for setting back
-fundamental research.
+A. Unzicker is disappointed with America - his new book is called
+*Make Physics Great Again*, he is blaming sci culture in US for setting
+back fundamental research.
 
 [[-]](https://youtu.be/YpGy5V3fr6o?t=65)
 
