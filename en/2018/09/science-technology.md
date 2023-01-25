@@ -8,5 +8,7 @@
 
 [Patents](../../2018/09/patents.html)
 
+[PhD, Graduate Studies](../../2011/10/phd-graduate-studies.html)
+
 [Junk Science](junk-science.html)
 
