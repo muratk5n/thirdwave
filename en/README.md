@@ -36,7 +36,7 @@ whose base input is [limited](2022/11/battery-electric.html#reserves).
 
 ---
 
-"Hypx@Hypx@mastodon.social
+"@Hypx@mastodon.social
 
 EU Innovation Fund grants €108 million to RWE’s waste-to-hydrogen
 project FUREC"
