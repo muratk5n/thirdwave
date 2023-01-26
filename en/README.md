@@ -129,9 +129,10 @@ a mapping error; there truly is an isolated bizarre little region
 Nakhchivan that is part of Azerbaijan at the same time not connected
 [to it](https://ychef.files.bbci.co.uk/976x549/p08kf7w6.jpg). Armenia
 divides them both; you think 'ARM can cut off transport btw
-the two countries at will' and they once did that back in 1988.
+the two countries at will' and they did that once back in 1988.
 As a result, [this post](https://www.bbc.com/travel/article/20200721-nakhchivan-the-worlds-most-sustainable-nation)
-says, Nakhchivan became more self-reliant etc etc.
+says, Nakhchivan became more self-reliant etc etc. What a strange
+history and associated borders.
 
 ---
 
