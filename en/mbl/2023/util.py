@@ -8,6 +8,7 @@ import datetime, time as timelib, re, os
 import urllib.request as urllib2
 from io import BytesIO
 import pandas_ta as ta
+import yfws
 
 def sm_plot_kurd():
     clat,clon=37.377413, 42.78591;zoom=0.6
@@ -68,7 +69,7 @@ def yf_cash(ticker):
   return df
 
 def yf_eps(ticker):
-  df = yf_income("DIS")  
+  df = yf_income(ticker)  
   yahoo_financials = YahooFinancials(ticker, concurrent=True, max_workers=8, country="US")
   shares = yahoo_financials.get_num_shares_outstanding(price_type='current')
   df = df['netIncomeApplicableToCommonShares'] / shares  

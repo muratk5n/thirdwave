@@ -139,10 +139,12 @@ def get_eps(ticker):
 
 if __name__ == "__main__": 
     
-    res = get_financials("AMZN")
-    print (res)
-    atts = ["Revenue  (ttm)", "Capital Expenditure"] 
-    q = get_disp("SHOP", atts)
+    #res = get_financials("AMZN")
+    #print (res)
+    #atts = ["Revenue  (ttm)", "Capital Expenditure"] 
+    #q = get_disp("SHOP", atts)
+    #res = get_income("DIS")
 
-    res = get_income("DIS")
+    df = get_earnings("T")
+    print (df)
     

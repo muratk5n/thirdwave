@@ -6,10 +6,26 @@ pd.set_option('display.max_columns', None)
 ```
 
 ```python
-u.sm_plot_kurd()
-plt.plot(44.361682512831514,35.469605798313246,'+') # kirkuk
-plt.savefig('/tmp/out.jpg',quality=40)
+u.yf_eps("T")
 ```
+
+```text
+Out[1]: 
+2021-12-31    0.700435
+2022-03-31    0.668163
+2022-06-30    0.575979
+2022-09-30    0.838642
+Name: netIncomeApplicableToCommonShares, dtype: float64
+```
+
+
+
+
+
+
+
+
+
 
 
 
