@@ -6,9 +6,11 @@ food stamps"
 
 ---
 
-WION: "United States Justice Department (DoJ) is poised to sue
-Alphabet Inc's Google regarding the platform's dominance over the
-digital advertising market"
+The Guardian: "Justice department alleges Google tried to 'eliminate'
+ad market rivals in lawsuit. The US justice department and eight
+states filed a lawsuit against Alphabet's Google on Tuesday over
+allegations that the company abused its dominance of the digital
+advertising business, according to a court document"
 
 ---
 
