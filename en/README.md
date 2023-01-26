@@ -125,9 +125,9 @@ In the previous Iraq map the weird borders on the upper right are not
 a mapping error; there truly is an isolated bizarre little region
 Nakhchivan that is part of Azerbaijan at the same time not connected
 [to it](https://ychef.files.bbci.co.uk/976x549/p08kf7w6.jpg). Armenia
-divides them both; one cld think ARM can cut off transport btw
-countries at will and they once did that back in 1988. As a result,
-[this post](https://www.bbc.com/travel/article/20200721-nakhchivan-the-worlds-most-sustainable-nation)
+divides them both; you think 'ARM can cut off transport btw
+the two countries at will' and they once did that back in 1988.
+As a result, [this post](https://www.bbc.com/travel/article/20200721-nakhchivan-the-worlds-most-sustainable-nation)
 says, Nakhchivan became more self-reliant etc etc.
 
 ---
