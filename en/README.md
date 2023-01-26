@@ -30,7 +30,7 @@ copper in electric vehicles"
 
 ---
 
-Battery-electric tech and electrification goal in general is an
+Battery-electric tech and the electrification goal in general are an
 extremely bad idea; relies heavily on a fragile, non-scalable tech
 whose base input is [limited](2022/11/battery-electric.html#reserves).
 
