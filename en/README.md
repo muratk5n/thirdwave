@@ -6,10 +6,6 @@ food stamps"
 
 ---
 
-Goog innovation stagnated on that front, possibly due to that
-domimance.  You can't switch your country of origin once you sign up
-from a particular country? Really bad system design. 
-
 WION: "United States Justice Department (DoJ) is poised to sue
 Alphabet Inc's Google regarding the platform's dominance over the
 digital advertising market"
