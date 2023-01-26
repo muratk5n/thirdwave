@@ -109,7 +109,7 @@ fine work is coming outa there
 
 A lot of their tech uses neural networks - these so-called AI
 techniques are known as "stochastic parrots" - useful for generating
-benignly amusing text, but are useless in driving people around
+benignly amusing text, but useless in driving people around
 safely.
 
 ---
