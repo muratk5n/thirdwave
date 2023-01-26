@@ -36,7 +36,7 @@ u.sm_plot_kurd()
 plt.plot(44.36168251,35.469605,'+') 
 ```
 
-<img width="340" src="mbl/2023/kurd_1.jpg"/>
+<img width="340" src="kurd_1.jpg"/>
 
 ---
 
@@ -113,7 +113,7 @@ re-exported, sources say"
 
 🤣 🤣 
 
-[[-]](mbl/2023/distracted_boyf_1.jpg)
+[[-]](distracted_boyf_1.jpg)
 
 ---
 
