@@ -21,6 +21,23 @@ California for Forest Biomass to Hydrogen Projects"
 
 ---
 
+Expert: "Copper shortage getting real.. Along with the usual
+applications, in construction wiring and plumbing, transportation,
+power transmission and communications, there is the added demand for
+copper in electric vehicles"
+
+<img width="340" src="https://aheadoftheherd.com/app/uploads/2023/01/image-46-768x423.png"/>
+
+[[-]](https://www.kitco.com/commentaries/2023-01-24/Copper-shortage-getting-real.html)
+
+---
+
+Battery-electric tech and electrification goal in general is an
+extremely bad idea; relies heavily on a fragile, non-scalable tech
+whose base input is [limited](2022/11/battery-electric.html).
+
+---
+
 "Hypx@Hypx@mastodon.social
 
 EU Innovation Fund grants €108 million to RWE’s waste-to-hydrogen
@@ -94,20 +111,10 @@ fine work is coming outa there
 
 ---
 
-Expert: "Copper shortage getting real.. Along with the usual
-applications, in construction wiring and plumbing, transportation,
-power transmission and communications, there is the added demand for
-copper in electric vehicles"
-
-<img width="340" src="https://aheadoftheherd.com/app/uploads/2023/01/image-46-768x423.png"/>
-
-[[-]](https://www.kitco.com/commentaries/2023-01-24/Copper-shortage-getting-real.html)
-
----
-
-Battery-electric tech and electrification goal in general is an
-extremely bad idea; relies heavily on a fragile, non-scalable tech
-whose base input is [limited](2022/11/battery-electric.html).
+A lot of their tech uses neural networks - these so-called AI
+techniques are known as "stochastic parrots" - useful for generating
+benignly amusing text, but are useless in driving people around
+safely.
 
 ---
 
