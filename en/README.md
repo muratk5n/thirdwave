@@ -30,7 +30,7 @@ copper in electric vehicles"
 
 Battery-electric tech and electrification goal in general is an
 extremely bad idea; relies heavily on a fragile, non-scalable tech
-whose base input is [limited](2022/11/battery-electric.html).
+whose base input is [limited](2022/11/battery-electric.html#reserves).
 
 ---
 
@@ -43,12 +43,10 @@ project FUREC"
 
 "I wondered, who else out there had envisioned a smartphone back in
 the day [with n]o store, no cloud, no company tracking everything you
-do and every call you make?
-
-In early 2014, Blackberry was faltering. Microsoft phones didn't solve
-that problem. I thought back to the phones I had once known and loved,
-and settled on Nokia. And it turned out they did! They did build a
-smartphone!
+do and every call you make? In early 2014, Blackberry was
+faltering. Microsoft phones didn't solve that problem. I thought back
+to the phones I had once known and loved, and settled on Nokia. And it
+turned out they did! They did build a smartphone!
 
 The Nokia N9 was absolutely gorgeous (still is), completely enchanting
 and amazing, and fully functional. It won design awards right and
