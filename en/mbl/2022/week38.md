@@ -159,7 +159,7 @@ When publishers brainstorm and come up with a new type of Open Access"
 *Andor*.. One Rotten Tomatoes comment says "[it] is slow and boring" -
 I agree... It's like watching a *Law and Order* episode in the
 backdrop of *The Usual Suspects*. The one positive aspect though is
-*Andor* isn't cuck.
+it isn't cuck.
 
 ---
 

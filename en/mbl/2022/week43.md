@@ -313,10 +313,6 @@ Out[1]:
 
 ---
 
-Cosmic Book News: "Star Wars 'Andor' Ratings In The Gutter: Worse Than 'Boba Fett'"
-
----
-
 Created a new category called "junk science". The items below are
 added.
 

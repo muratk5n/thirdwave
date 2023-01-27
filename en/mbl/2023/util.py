@@ -8,7 +8,45 @@ import datetime, time as timelib, re, os
 import urllib.request as urllib2
 from io import BytesIO
 import pandas_ta as ta
-import yfws
+
+
+def biz_stock_plot(year,ticker):
+    end = datetime.datetime.now()
+    start = datetime.datetime(year, 1, 1)
+    start = int(timelib.mktime(start.timetuple()))
+    end = int(timelib.mktime(end.timetuple()))
+    base_fin_url = "https://query1.finance.yahoo.com/v7/finance/download"
+    url = base_fin_url + "/%s?period1=" + str(start) + "&period2=" + \
+          str(end) + "&interval=1d&events=history&includeAdjustedClose=true"
+    url  = url % ticker
+    r = urllib2.urlopen(url).read()
+    file = BytesIO(r)
+    df = pd.read_csv(file,index_col='Date',parse_dates=True)['Close']
+    df.plot()
+
+def rotom_mov(movie):
+    rel = movie.replace(" ","_").lower()
+    url = "https://www.rottentomatoes.com"
+    url = url + "/m/" + rel
+    hdr = {'User-Agent':'Mozilla/5.0'}
+    res = urllib2.urlopen(url).read().decode('utf-8')
+    regreg = re.findall('audiencescore="(.*?)"',res)
+    audiencescore = int(regreg[0])
+    regreg = re.findall('tomatometerscore="(.*?)"',res)
+    tomatometerscore = int(regreg[0])
+    return {"tomatometer score": tomatometerscore, "audience score": audiencescore}
+
+def rotom_tv(movie):
+    rel = movie.replace(" ","_").lower()
+    url = "https://www.rottentomatoes.com"
+    url = url + "/tv/" + rel       
+    hdr = {'User-Agent':'Mozilla/5.0'}
+    res = urllib2.urlopen(url).read().decode('utf-8')
+    tom = re.findall('<span.*?data-qa="tomatometer">\n(.*?)</span>',res,re.DOTALL)
+    tom = tom[0].strip()
+    aud = re.findall('<span.*?data-qa="audience-score">\n(.*?)</span>',res,re.DOTALL)
+    aud = aud[0].strip()
+    return {"tomatometer score": tom, "audience score": aud}
 
 def sm_plot_kurd():
     clat,clon=37.377413, 42.78591;zoom=0.6
@@ -37,7 +75,7 @@ def sw_border_encounter(url):
     print (g.tail(4))
     g.plot(title='Southwest Land Border Encounters')
 
-def yf_income(ticker):
+def biz_income(ticker):
   yahoo_financials = YahooFinancials(ticker, concurrent=True, max_workers=8, country="US")
   data_qt = yahoo_financials.get_financial_stmts('quarterly', 'income')
   slist = []
@@ -48,7 +86,7 @@ def yf_income(ticker):
   df = df.sort_index(ascending=True)
   return df
 
-def yf_balance(ticker):
+def biz_balance(ticker):
   yahoo_financials = YahooFinancials(ticker, concurrent=True, max_workers=8, country="US")
   data_qt = yahoo_financials.get_financial_stmts('quarterly', 'balance')
   slist = []
@@ -58,7 +96,7 @@ def yf_balance(ticker):
   df = df.sort_index(ascending=True)
   return df
 
-def yf_cash(ticker):
+def biz_cash(ticker):
   yahoo_financials = YahooFinancials(ticker, concurrent=True, max_workers=8, country="US")
   data_qt = yahoo_financials.get_financial_stmts('quarterly', 'cash')
   slist = []
@@ -68,8 +106,8 @@ def yf_cash(ticker):
   df = df.sort_index(ascending=True)
   return df
 
-def yf_eps(ticker):
-  df = yf_income(ticker)  
+def biz_eps(ticker):
+  df = biz_income(ticker)  
   yahoo_financials = YahooFinancials(ticker, concurrent=True, max_workers=8, country="US")
   shares = yahoo_financials.get_num_shares_outstanding(price_type='current')
   df = df['netIncomeApplicableToCommonShares'] / shares  

@@ -199,7 +199,7 @@ strapped for earnings, that payment killed them. That would piss a man
 off
 
 ```python
-u.yf_cash("DIS")['totalCashFromFinancingActivities'] / 1e9
+u.biz_cash("DIS")['totalCashFromFinancingActivities'] / 1e9
 ```
 
 ```text
@@ -215,7 +215,7 @@ Out[1]:
 A lot of debt, due to Fox deal likely.
 
 ```python
-u.yf_balance("DIS")['longTermDebt'] / 1e9 # in billions
+u.biz_balance("DIS")['longTermDebt'] / 1e9 # in billions
 ```
 
 ```text
@@ -233,7 +233,7 @@ He is right DIS earnings went to shit. 0.09? This is a joke.
 
 
 ```python
-u.yf_eps("DIS")
+u.biz_eps("DIS")
 ```
 
 ```text
