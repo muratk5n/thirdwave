@@ -27,10 +27,12 @@ has great eyesight benefits (carrots), or too high in iron (spinach
 instead of chards). Too much potassium will create sleepiness, too
 much iron is as harmful almost as much as too little.
 
-Drying the blended meat is key [3], instead of pieces from the whole
-turkey breast, bcz the end-product hardens too much, becomes harder to
-mix in the quick stew, or to chew on seperately if necessary. We want
-our items edible on their own if stewing is not possible.
+Drying the blended / ground raw meat is key, idea from here [3],
+instead of pieces from the whole turkey breast, bcz with latter
+approach end-product hardens too much, becomes difficult to mix in a
+stew, or chew on seperately if necessary. The approach here [2] dries
+meat chunks and powders the end-result later, that's possible for
+those with heavy-duty mixer available.
 
 Reference
 
