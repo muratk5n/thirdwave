@@ -21,21 +21,24 @@ Ideas for Meal - mix dried beet roots, apples, cheese (with sufficient
 fat) plus dried soup (Greek trahana [1]), hot water, boom.  Just
 created a camp stew.
 
-Beet root, chards, apples work well, for any day, don't want anything
-that is too citric (oranges) or too high on potassium even though it
-has great eyesight benefits (carrots), or too high in iron (spinach
-instead of chards). Too much potassium will create sleepiness, too
-much iron is as harmful almost as much as too little.
+* Beet root, chards, apples work well, for any day, don't want
+anything that is too citric (oranges) or too high on potassium even
+though it has great eyesight benefits (carrots), or too high in iron
+(spinach instead of chards). Too much potassium will create
+sleepiness, too much iron is as harmful almost as much as too little.
 
-Drying the blended / ground raw meat is key, idea from here [3],
-instead of pieces from the whole turkey breast, bcz with latter
-approach end-product hardens too much, becomes difficult to mix in a
-stew, or chewed on seperately if necessary. The approach here [2]
-powders dried raw meat pieces, that's fine for those with heavy-duty
-mixer available.
+* Drying the blended / ground raw meat is key, idea from here [3],
+instead of pieces from the whole raw poultry, bcz with latter approach
+end-product hardens too much, becomes difficult to mix in a stew, or
+eaten seperately. The approach here [2] powders dried raw meat pieces,
+that's fine for those with heavy-duty mixer.
 
-Vegs are to be dried seperately on a dehydrator at 50C for >8 hours
+* Vegs are to be dried seperately on a dehydrator at 50C for >8 hours
 (optimal temp to keep vitamins in), or purchased.
+
+* Pre-cook / blend step was added when ground raw meat is not
+available, usually for poultry it won't be. If it is, exact same steps
+in [3] will work.
 
 Reference
 
