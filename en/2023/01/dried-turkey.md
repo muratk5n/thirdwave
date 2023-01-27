@@ -1,4 +1,4 @@
-# Dried Turkey Patty
+# Dried Turkey Patties
 
 Ingredients
 
