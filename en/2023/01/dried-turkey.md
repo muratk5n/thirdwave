@@ -27,7 +27,7 @@ has great eyesight benefits (carrots), or too high in iron (spinach
 instead of chards). Too much potassium will create sleepiness, too
 much iron is as harmful almost as much as too little.
 
-Drying the blended meat is key, instead of pieces from the whole
+Drying the blended meat is key [3], instead of pieces from the whole
 turkey breast, bcz the end-product hardens too much, becomes harder to
 mix in the quick stew, or to chew on seperately if necessary. We want
 our items edible on their own if stewing is not possible.
@@ -38,4 +38,6 @@ Reference
 vegetables-trahana-dardouma/)
 
 [2] [Pemmican](https://youtu.be/MElMJsIP1Y0?t=404)
+
+[3] [Beef Jerky](https://ketodietapp.com/Blog/lchf/healthy-homemade-beef-jerky)
 
