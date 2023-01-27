@@ -1,6 +1,6 @@
 # 2023
 
-[Dried Turkey](01/dried-turkey.html)
+[Dried Turkey Patties](01/dried-turkey.html)
 
 [Little America](01/little-america-chandrasekaran.html)
 
