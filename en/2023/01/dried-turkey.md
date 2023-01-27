@@ -30,9 +30,9 @@ much iron is as harmful almost as much as too little.
 Drying the blended / ground raw meat is key, idea from here [3],
 instead of pieces from the whole turkey breast, bcz with latter
 approach end-product hardens too much, becomes difficult to mix in a
-stew, or chew on seperately if necessary. The approach here [2] dries
-meat chunks and powders the end-result later, that's possible for
-those with heavy-duty mixer available.
+stew, or chew on seperately if necessary. The approach here [2]
+powders dried raw meat, that's possible for those with heavy-duty
+mixer available.
 
 Reference
 
