@@ -17,9 +17,9 @@ and blend. A hand-held blender works well. Form small, long, thin,
 flat patties, put pieces back in the oven now on the grill part, leave
 there at 80 C degrees, for 5 hours. That's it.
 
-Ideas for Meal - mix dried beet roots, apples, cheese (with sufficient
-fat) plus dried soup (Greek trahana [1]), hot water, boom.  Just
-created a camp stew.
+Ideas for Meal - mix dried beet roots, apples, low-salt cheese (with
+sufficient fat) plus dried soup (Greek trahana [1]), hot water, boom.
+Just created a camp stew.
 
 * Beet root, chards, apples work well, for any day, don't want
 anything that is too citric (oranges) or too high on potassium even
@@ -29,16 +29,16 @@ sleepiness, too much iron is as harmful almost as much as too little.
 
 * Drying the blended / ground raw meat is key, idea from here [3],
 instead of pieces from the whole raw poultry, bcz with latter approach
-end-product hardens too much, becomes difficult to mix in a stew, or
-eaten seperately. The approach here [2] powders dried raw meat pieces,
-that's fine for those with heavy-duty mixer.
+end-product becomes difficult to mix in a stew, or to chew on. The
+approach here [2] powders dried raw meat pieces, that's fine for those
+with heavy-duty mixer.
 
 * Vegs are to be dried seperately on a dehydrator at 50C for >8 hours
 (optimal temp to keep vitamins in), or purchased.
 
 * Pre-cook / blend step was added when ground raw meat is not
 available, usually for poultry it won't be. If it is, exact same steps
-in [3] will work.
+as [3] will work.
 
 Reference
 
@@ -47,5 +47,5 @@ vegetables-trahana-dardouma/)
 
 [2] [Pemmican](https://youtu.be/MElMJsIP1Y0?t=404)
 
-[3] [Beef Jerky](https://ketodietapp.com/Blog/lchf/healthy-homemade-beef-jerky)
+[3] [Ground Beef Jerky](https://ketodietapp.com/Blog/lchf/healthy-homemade-beef-jerky)
 
