@@ -10,12 +10,12 @@ Ingredients
 
 Cut meat into chunks and place in glass dish, with onion slices on
 top, cook in oven at 200 C for 1/2 hours or until meat is well done
-while throwing away any fat, water that comes out occasionally.
+while throwing away the juices that come out occasionally.
 
 Once cooked transfer to a bowl, sprinkle the turmeric, masala, yogurt,
 and blend. A hand-held blender works well. Form small, long, thin,
 flat patties, put pieces back in the oven now on the grill part, leave
-there at 80 C degrees, for 5 hours.
+there at 80 C degrees, for 5 hours. That's it.
 
 Ideas for Meal - mix dried beet roots, apples, cheese (with sufficient
 fat) plus dried soup (Greek trahana [1]), hot water, boom.  Just
@@ -26,6 +26,11 @@ that is too citric (oranges) or too high on potassium even though it
 has great eyesight benefits (carrots), or too high in iron (spinach
 instead of chards). Too much potassium will create sleepiness, too
 much iron is as harmful almost as much as too little.
+
+Drying the blended meat is key, instead of pieces from the whole
+turkey breast, bcz the end-product hardens too much, becomes harder to
+mix in the quick stew, or to chew on seperately if necessary. We want
+our items edible on their own if stewing is not possible.
 
 Reference
 
