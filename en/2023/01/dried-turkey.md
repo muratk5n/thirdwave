@@ -1,42 +1,31 @@
-# Dried Turkey 
+# Dried Turkey Patty
 
 Ingredients
 
 * 1 kg Turkey (or Chicken) Meat
-* 1 Bunch Swiss chards
 * 1 Teaspoon Turmeric
 * 1 Teaspoon Garam Masala
+* 1 Onion (Sliced)
+* ½ Cup Yoghurt 
 
-Cut meat into chunks and place in dish, sprinkle the turmeric, masala
-on top. Put in oven at 200 C for 1/2 hours or until meat is well done,
-throw away any fat, water that comes out. Transfer to a bowl, add
-chards and blend (adding veg raw eases the blending process, through
-their water). A hand-held blender works well. This is our veg + poultry
-mixture. Form small poultry balls, place into the drier, dry
-at 55 C degrees, for 7-8 hours. That's all.
+Cut meat into chunks and place in glass dish, with onion slices on
+top, cook in oven at 200 C for 1/2 hours or until meat is well done
+while throwing away any fat, water that comes out occasionally.
 
-Drier creates a hardened exterior on the outside of the poultry
-pieces, which IMO helps the food last longer (also eases handling).
+Once cooked transfer to a bowl, sprinkle the turmeric, masala, yogurt,
+and blend. A hand-held blender works well. Form small, long, thin,
+flat patties, put pieces back in the oven now on the grill part, leave
+there at 80 C degrees, for 5 hours.
 
-Ideas for Meal: can also buy or dry beet roots, apples.. For a meal
-toss all these in a cup, add cheese, plus some dried soup (Greek
-trahana [1] works best), and boiling water, boom. The water rehydrates
-everything, makes for great camping food. The fat comes from the
-cheese, the rest is already in the dried ingredients. Most cheese will
-last outdoors for a while, there are some dry ones, if not, tallow, or
-olive oil are always options.
+Ideas for Meal - mix dried beet roots, apples, cheese (with sufficient
+fat) plus dried soup (Greek trahana [1]), hot water, boom.  Just
+created a camp stew.
 
-Beet root, chards, apples were chosen after much trial and error. We
-dont want anything that is too citric (oranges) or too high on potassium
-even though it has great eyesight benefits (carrots), or too high in
-iron (spinach instead of chards). Too much potassium will create sleepiness,
-too much iron is as harmful almost as much as too little.
-
-Why blend before drying: this guy here [2] does the reverse, dries
-complete meat pieces, powderizes the dried product in a heavy duty
-blender. Blending raw is easier, the dried end-result is can be eaten
-as-is, and the greens harden enough for good preservation, but still
-allow for easy rehydration. 
+Beet root, chards, apples work well, for any day, don't want anything
+that is too citric (oranges) or too high on potassium even though it
+has great eyesight benefits (carrots), or too high in iron (spinach
+instead of chards). Too much potassium will create sleepiness, too
+much iron is as harmful almost as much as too little.
 
 Reference
 
