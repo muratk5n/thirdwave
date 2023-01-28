@@ -1,138 +1,152 @@
 
-TDB: "When he spoke of 'entitlement' last week, Iowa’s Speaker of the
-House Pat Grassley was not describing his dynastic ascent to political
-prominence.The grandson of U.S. Sen. Chuck Grassley was talking about
-food stamps"
+---
+
+According to Pompeo book Kim (of NK) [said](https://www.arabnews.com/node/2238426/world) 
+he needed the Americans in South Korea to protect him from the CCP,
+and that the CCP needs the Americans out so they can turn NK into a
+vassal state. Maybe Pomp is blowing smoke but interesting data
+point anyway... We know so little of NK, CH-NK relation might be
+rockier than previously thought. 
 
 ---
 
-The Guardian: "Justice department alleges Google tried to 'eliminate'
-ad market rivals in lawsuit. The US justice department and eight
-states filed a lawsuit against Alphabet's Google on Tuesday over
-allegations that the company abused its dominance of the digital
-advertising business, according to a court document"
+TASS: "Russian troops enter Ugledar, engage in combat on outskirts —
+DPR official"
 
 ---
 
-H2 Central: "Yosemite Clean Energy to Receive $1 Million from State of
-California for Forest Biomass to Hydrogen Projects"
+"@spencerdailey@journa.host
+
+If you had said 3 months ago that I'd be boosting posts about
+decentralized protocol projects, I'd have channeled years of web3
+skepticism into a categorical denial. But here we are in
+blockchain-less Mastodon-land, which has totally rehabilitated the
+brand of 'decentralized' and reminded us of the great successes of
+email, internet, and torrent tech, and that we should want more"
 
 ---
 
-Expert: "Copper shortage getting real.. Along with the usual
-applications, in construction wiring and plumbing, transportation,
-power transmission and communications, there is the added demand for
-copper in electric vehicles"
-
-<img width="340" src="https://aheadoftheherd.com/app/uploads/2023/01/image-46-768x423.png"/>
-
-[[-]](https://www.kitco.com/commentaries/2023-01-24/Copper-shortage-getting-real.html)
+*The Last of Us*, zombies still sell; fine scifi. Pedro Pascal is
+everywhere.
 
 ---
 
-Battery-electric tech and the electrification goal in general is an
-extremely bad idea; relies heavily on a fragile, non-scalable tech
-whose base input is [limited](2022/11/battery-electric.html#reserves).
+BBC: "The race to make diesel engines run on hydrogen.. Engineers at
+the University of New South Wales (UNSW) say they have successfully
+modified a conventional diesel engine to use a mix of hydrogen and a
+small amount of diesel, claiming their patented technology has cut
+carbon dioxide (CO2) emissions by more than 85%. It's the work of
+[researcher] and his team at the university's School of Mechanical and
+Manufacturing Engineering. 'The interest in converting an existing
+diesel engine into a clean-burning hydrogen engine is extremely high,'
+[he] tells the BBC"
 
 ---
 
-"@Hypx@mastodon.social
+Howcatchem rather than a whodunit is it? Ok...
 
-EU Innovation Fund grants €108 million to RWE’s waste-to-hydrogen
-project FUREC"
-
----
-
-"I wondered, who else out there had envisioned a smartphone back in
-the day [with n]o store, no cloud, no company tracking everything you
-do and every call you make? In early 2014, Blackberry was
-faltering. Microsoft phones didn't solve that problem. I thought back
-to the phones I had once known and loved, and settled on Nokia. And it
-turned out they did! They did build a smartphone!
-
-The Nokia N9 was absolutely gorgeous (still is), completely enchanting
-and amazing, and fully functional. It won design awards right and
-left. It ran using Linux, so people who wanted to give it commands
-like a little computer could go right ahead. A far cry from the walled
-garden of Apple, or the user interfaces that controlled what you could
-and could not do on your own phone.
-
-But it was late to market. Nokia sold to Microsoft, Microsoft canned
-the project, and that might have been the end of the story...
-
-<img width="340" src="https://www.optoutproject.net/media/posts/5/responsive/N9-copy-md.jpg"/>
-
-... except that the people who designed this beauty's operating system
-took the IP, started a new Finnish company called Jolla, and kept
-working on it to build a new generation of phones with the same
-concept, now called the Sailfish operating system. Data ownership,
-autonomy, no walled gardens, gesture-based interfaces, the works.
-
-Meanwhile, the people who used the phone loved it so much that they
-wrote entire libraries of code to keep it working. In other words,
-they built their own app store. They rescripted the phone so it could
-talk to upgraded network towers.  And when Sailfish came out, many of
-them started using Sailfish too, helping the community to grow and the
-company to iron out the bugs"
-
-[[-]](https://www.optoutproject.net/sailfish-the-iphone-and-android-alternative/)
+Like Columbo.
 
 ---
 
-Sailfish - could it be the third alternative mobile OS, after Android
-and iPhone?
+*Poker Face*, S01E01 - good casting, likable lead. 
 
 ---
 
-New Atlas: "China launches 100-mph hydrogen/supercapacitor train.. The
-world's largest rail vehicle manufacturer has rolled out a
-zero-emissions train running on hydrogen fuel cells with a
-supercapacitor buffer. The four-car train is capable of 100 mph (160
-km/h), making it the fastest hydrogen train to date"
+"@anildash@me.dm
 
-<img width="340" src="https://assets.newatlas.com/dims4/default/14970c7/2147483647/strip/true/crop/2048x1365+0+0/resize/1920x1280!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F43%2F3a%2F885c5b314e65bf02070ae739aa94%2Fflilhvpagailjzy.jpeg"/>
-
----
-
-CNBC: "[T]he CEO of energy firm AES offered up his take
-[on natgas and H2] 'Now, what we can start to do today is … start to
-blend it with green hydrogen... we’re running tests that you can blend
-it up to, say 20%, in existing turbines, and new turbines are coming out
-that can burn …  much higher percentages'"
+I've spent the last few months bringing my 23+ years of blog archives
+up to date.. Tonight's fun discovery is Marc Andreessen affirmatively
+citing my work as 'the smartest thing anyone has said' about the
+inevitability of a federation of independent networks connected by an
+open standard to win against Facebook and similar walled gardens. Six
+months later in June 2008, he joined Facebook's board"
 
 ---
 
-*Jung_E*, crazy dystopia.. ok scifi. South Korea is getting some game,
-fine work is coming outa there
+But employee compensation as part of corporate revenue is going
+down. It's *been* going down since the 70s. Not good.
+
+[[-]](2019/05/stats.html#compprof.png)
 
 ---
 
-A lot of their tech uses neural networks - these so-called AI
-techniques are known as "stochastic parrots" - useful for generating
-benignly amusing text, but useless in driving people around
-safely.
+Scratch that - still going strong
+
+
+```text
+            UNRATE  U6RATE  REAL_UNRATE  REAL_UNEMP_LEVEL
+DATE                                                     
+2022-11-01     3.6     6.7     8.127541           13372.0
+2022-12-01     3.5     6.5     7.781603           12837.0
+```
 
 ---
 
-Sounds like fraud
+YoY looks less stellar than QoQ, sign of cooling down?
 
-The Guardian: "Tesla video promoting self-driving was staged, senior
-engineer testifies.. A 2016 video that Tesla used to promote its
-self-driving technology was staged to show capabilities like stopping
-at a red light and accelerating at a green light that the system did
-not have, according to testimony by a senior engineer"
+GPP QoQ
+
+```
+2022-07-01    3.243338
+2022-10-01    2.891577
+```
+
+GDP YoY
+
+```
+2022-07-01  1.942138
+2022-10-01  0.959254
+```
 
 ---
 
-In the previous Iraq map the weird borders on the upper right are not
-a mapping error; there truly is an isolated bizarre little region
-Nakhchivan that is part of Azerbaijan at the same time not connected
-[to it](https://ychef.files.bbci.co.uk/976x549/p08kf7w6.jpg). Armenia
-divides them both; you think 'ARM can cut off transport btw
-the two countries at will' and they did that once back in 1988.
-As a result, [this post](https://www.bbc.com/travel/article/20200721-nakhchivan-the-worlds-most-sustainable-nation)
-says, Nakhchivan became more self-reliant etc etc. What a strange
-history and associated borders.
+H2 View: "‘Hydrogen is on the move’, says new Baker Hughes
+report.. Hydrogen looks set to be a priority among businesses involved
+in energy and hard-to-abate industries moving forward, according to a
+new report"
+
+---
+
+H2 View: "US DOE launches $47m funding opportunity for hydrogen
+delivery, storage, and fuel cell technologies"
+
+---
+
+One merit point for the homie. The opposition is already talking to an
+H2 expert, so now both major parties are involved with clean fuels.
+
+H2 Insight: "Green hydrogen targets and incentives.. [TR] has unveiled
+a new national Hydrogen Technology Strategy and Roadmap that contains
+new targets for green H2 production, a plan to introduce an incentive
+mechanism for the local production of equipment, and roles for blue
+and turquoise H2 and hydrogen blending into the natural-gas grid"
+
+---
+
+You are the disease and I'm the cure
+
+---
+
+[Link](https://drive.google.com/uc?export=view&id=1GRGYbf3ekBkN13gQZqH6o5MVU6V78jBW)
+
+---
+
+"Scorpion Unit".. Apparently they roll up on people in unmarked cars,
+yell and scream point guns on their heads etc. WTF? White police,
+black police doesn't matter - the culture is what matters.
+
+LA Times: "In early 2022, as violent crime rose in Memphis, Mayor Jim
+Strickland set out his ideas for returning safety to the city.. At the
+top of his plan: Increase funding to the Memphis Police Department,
+give raises and bonuses to officers, and continue the usage of the
+city’s newly formed 'SCORPION' unit, a specialized group of four
+roving 10-person teams"
+
+---
+
+Forbes: "5 Black Memphis Cops Upheld Institutional And Cultural Racism
+In Tyre Nichols’ Murder"
 
 ---
 
