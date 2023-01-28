@@ -1,5 +1,5 @@
 
-According to Pompeo book Kim (of NK) [said](https://www.arabnews.com/node/2238426/world) 
+According to Pompeo book Kim (NK) [said](https://www.arabnews.com/node/2238426/world) 
 he needed the Americans in South Korea to protect him from the CCP,
 and that the CCP needs the Americans out so they can turn NK into a
 vassal state. Maybe Pomp is blowing smoke but interesting data
