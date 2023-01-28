@@ -1,6 +1,4 @@
 
----
-
 According to Pompeo book Kim (of NK) [said](https://www.arabnews.com/node/2238426/world) 
 he needed the Americans in South Korea to protect him from the CCP,
 and that the CCP needs the Americans out so they can turn NK into a
@@ -43,9 +41,7 @@ diesel engine into a clean-burning hydrogen engine is extremely high,'
 
 ---
 
-Howcatchem rather than a whodunit is it? Ok...
-
-Like Columbo.
+Howcatchem rather than a whodunit is it? Ok... Like Columbo.
 
 ---
 
