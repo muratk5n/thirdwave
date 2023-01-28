@@ -41,7 +41,7 @@ diesel engine into a clean-burning hydrogen engine is extremely high,'
 
 ---
 
-Howcatchem rather than a whodunit is it? Ok... Like Columbo.
+Howcatchem rather than a whodunit is it? Like Columbo.
 
 ---
 
