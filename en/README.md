@@ -120,7 +120,7 @@ and turquoise H2 and hydrogen blending into the natural-gas grid"
 
 ---
 
-You are the disease and I'm the cure
+You're a disease and I'm the cure
 
 ---
 
