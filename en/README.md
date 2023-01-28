@@ -134,7 +134,7 @@ You are the disease and I'm the cure
 
 "Scorpion Unit".. Apparently they roll up on people in unmarked cars,
 yell and scream point guns on their heads etc. WTF? White police,
-black police doesn't matter - the culture is what matters.
+black police doesn't matter - the culture is key.
 
 LA Times: "In early 2022, as violent crime rose in Memphis, Mayor Jim
 Strickland set out his ideas for returning safety to the city.. At the
