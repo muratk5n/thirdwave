@@ -31,7 +31,6 @@ pd.set_option('display.max_columns', None)
 
 
 
-
 ```python
 geo = [['Soledar',48.68207521521989, 38.08963574290512,(5,20)],
        ['Bakhmut',48.59681687669557, 37.99571812076628,(-20,0)]

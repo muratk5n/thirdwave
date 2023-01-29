@@ -39,6 +39,8 @@ between houses, to be trodden into the dust and mud. The filth would
 have appalled hunter-gatherers but surely delighted rats, flies, and
 fleas... Yet for all the squalor, this was clearly what people wanted.
 
+<a name='ancestors'/>
+
 Little hunter-gatherer bands had had broad geographical horizons but
 narrow social ones: the landscape changed but the faces did not. The
 early farmer’s world was just the opposite. You might pass your whole

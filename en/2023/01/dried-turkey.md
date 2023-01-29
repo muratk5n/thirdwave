@@ -14,8 +14,7 @@ while throwing away the juices that come out occasionally.
 
 Once cooked transfer to a bowl, sprinkle the turmeric, masala, yogurt,
 and blend. A hand-held blender works well. Form small, long, thin,
-flat patties, put pieces back in the oven now on the grill part, leave
-there at 80 C degrees, for 5 hours. That's it.
+flat patties, dehydrate at 80 C degrees, for 5 hours. That's it.
 
 Ideas for Meal - mix dried beet roots, apples, low-salt cheese (with
 sufficient fat) plus dried soup (Greek trahana [1]), hot water, boom.

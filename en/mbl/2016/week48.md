@@ -324,7 +324,7 @@ How about fake news on Facebook?
 
 I'd Worry About This Guy More
 
-![](article-0-15FC07BD000005DC-654_634x418.jpg)
+![](murdoch.jpg)
 
 That's Rupert Murdoch, and the paper he is holding is his. The
 headline reads: "Abu's Been Sleeping In My Bed".
