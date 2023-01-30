@@ -10,11 +10,6 @@ rockier than previously thought.
 
 ---
 
-TASS: "Russian troops enter Ugledar, engage in combat on outskirts —
-DPR official"
-
----
-
 "@spencerdailey@journa.host
 
 If you had said 3 months ago that I'd be boosting posts about

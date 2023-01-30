@@ -15,17 +15,11 @@ turmeric, masala, yogurt, and blend. A hand-held blender works
 well. Form small, long, thin, flat patties, dehydrate at 80 C degrees,
 for 5 hours. Done.
 
-Ideas for Meal - mix pieces of patty,dried beet roots, apples,
-low-salt cheese (with sufficient fat) plus dried soup (Greek trahana
-[1]), hot water, boom.  Just created a stew.
+Ideas for Meal - mix small pieces of patty, dried vegs (I use beet
+roots, apples) and low-salt cheese (with sufficient fat) plus dried
+soup (Greek trahana [1]), hot water, boom.  Just created a stew.
 
-* Beet root, chards, apples work well - don't want anything that is
-too citric (oranges) or too high on potassium even though it has great
-eyesight benefits (carrots), or too high in iron (spinach instead of
-chards). Too much potassium will create sleepiness, too much iron is
-as harmful almost as much as too little.
-
-* Drying the blended / ground raw meat patty is key [3], instead of
+Drying the blended / ground raw meat patty is key [3], instead of
 pieces from the whole raw poultry, bcz with latter approach
 end-product becomes difficult to mix in a stew, or to chew on. The
 approach here [2] powders dried pieces, that's fine for those with
@@ -35,8 +29,8 @@ heavy-duty mixer.
 (optimal temp to keep vitamins in).
 
 * Pre-cook / blend step was added when ground raw meat is not
-available, usually for poultry it won't be. If it is, exact same steps
-as [3] will work.
+available, usually for poultry it won't be. If it is, steps as in [3]
+will work.
 
 Reference
 
