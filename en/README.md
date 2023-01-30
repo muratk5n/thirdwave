@@ -35,7 +35,7 @@ and silver money, vast empires, slavery comes back"
 
 ---
 
-Burying the dead with worldly items is a continuation of 10K+ yr old
+Burying the dead with worldly items is a continuation of <10K yr old
 agrarian era of ancestor burials, the buried ancestors were later
 worshipped since they now represented a connection to (arable) land
 vital for survival. See [Morris](2017/10/wtwrfn-foragers-farmers.html#ancestors).
