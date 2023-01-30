@@ -5,7 +5,7 @@ thrifty, be thrifty - do not need gold for that.
 
 ---
 
-Today's liberterian likes gold, dislikes imperialism, but they do not
+Today's libertarian likes gold, dislikes imperialism, but they do not
 realize gold is historically is a vessel for imperialism, not an
 imaginary era of thrift. Only a king could have precious metals dug up
 and turned into money and ask that money to be paid to him in tax so
