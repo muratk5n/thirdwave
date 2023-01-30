@@ -137,7 +137,7 @@ Europe and earning much-needed revenue"
 ---
 
 Reagan-era pro-market tough guy balancing the previous era's
-drugged-out 60s hippies \#Zeitgeist
+drugged-out hippies \#zeitgeist
 
 ---
 
