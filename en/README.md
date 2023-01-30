@@ -122,7 +122,7 @@ u.sm_plot_kurd()
 plt.plot(44.82053178,35.1638440,'x')
 ```
 
-<img width='340' src='kurd_2.jpg'/> 
+<img width='340' src='mbl/2023/kurd_2.jpg'/> 
 
 ---
 
