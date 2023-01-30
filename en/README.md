@@ -99,7 +99,7 @@ with Iran’s Revolutionary Guards pointed the finger at Israel"
 
 ---
 
-Some claim TRY want a piece of that gasfield action, want to get it
+Some claim TRY wants a piece of that gasfield action, want to get it
 through their poodle KDP. If PUK leaves "Kurdish" KRG joins Iraq, that
 would leave the rest empty handed.  Apparently there is already a KDP
 ambargo of sorts on Suleymaniah, it might happen.
