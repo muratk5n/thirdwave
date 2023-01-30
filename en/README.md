@@ -21,8 +21,8 @@ Note he associates gold with expansionist, feudal imperialism.
 Rereading parts of the great Graber interview; DG hit the nail on the
 head on many subjects. That point on religion is right on the money -
 all religion, at its core, is left-wing (sadly they get co-opted and
-are made to serve the state - see Romanized Christianity, or Romanized
-Ottoman Islam).
+are made to serve the state - see Romanized Christianity, or -Third
+Rome- Ottoman Islam).
 
 Graeber: "In the Middle Ages it all shifts back again — the great
 religions, which really started as anti-war movements, take over, the
