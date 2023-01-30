@@ -1,148 +1,158 @@
 
-According to Pompeo book Kim (NK) [said](https://www.arabnews.com/node/2238426/world) 
-he needed the Americans in South Korea to protect him from the CCP,
-and that the CCP needs the Americans out so they can turn NK into a
-vassal state. Maybe Pomp is blowing smoke but interesting data
-point anyway... We know so little of NK, CH-NK relation might be
-rockier than previously thought. 
+Libertards, goldbugs don't understand economics. Cant construct a
+modern economy on top of a limited-supply rare metal. Want to be
+thrifty, be thrifty - do not need gold for that.
 
 ---
 
-TASS: "Russian troops enter Ugledar, engage in combat on outskirts —
-DPR official"
+Today's liberterian likes gold, dislikes imperialism, but they do not
+realize gold is historically is a vessel for imperialism, not an
+imaginary era of thrift. Only a king could have precious metals dug up
+and turned into money and ask that money to be paid to him in tax so
+his army could be fed. That's how gold became money, it was useful for
+kings and opressive, plundering empires.
 
 ---
 
-"@spencerdailey@journa.host
-
-If you had said 3 months ago that I'd be boosting posts about
-decentralized protocol projects, I'd have channeled years of web3
-skepticism into a categorical denial. But here we are in
-blockchain-less Mastodon-land, which has totally rehabilitated the
-brand of 'decentralized' and reminded us of the great successes of
-email, internet, and torrent tech, and that we should want more"
+Note he associates gold with expansionist, feudal imperialism.
 
 ---
 
-*The Last of Us*, zombies still sell; fine scifi. Pedro Pascal is
-everywhere.
+Rereading parts of the great Graber interview; DG hit the nail on the
+head on many subjects. That point on religion is right on the money -
+all religion, at its core, is left-wing (sadly they get co-opted and
+are made to serve the state - see Romanized Christianity, or Romanized
+Ottoman Islam).
+
+Graeber: "In the Middle Ages it all shifts back again — the great
+religions, which really started as anti-war movements, take over, the
+armies are disbanded, cash disappears, people go back to virtual money
+(both checks and paper money for instance were Medieval inventions.)
+Then, after 1492 it swings the other way, again — we’re back to gold
+and silver money, vast empires, slavery comes back"
+
+[[-]](2011/11/debt-religions-money.html)
 
 ---
 
-BBC: "The race to make diesel engines run on hydrogen.. Engineers at
-the University of New South Wales (UNSW) say they have successfully
-modified a conventional diesel engine to use a mix of hydrogen and a
-small amount of diesel, claiming their patented technology has cut
-carbon dioxide (CO2) emissions by more than 85%. It's the work of
-[researcher] and his team at the university's School of Mechanical and
-Manufacturing Engineering. 'The interest in converting an existing
-diesel engine into a clean-burning hydrogen engine is extremely high,'
-[he] tells the BBC"
+Burying the dead with worldly items is a continuation of 6000+ yr old
+agrarian era of ancestor burials, the buried ancestors were later
+worshipped since they now represented a connection to (arable) land
+vital for survival. See [Morris](2017/10/wtwrfn-foragers-farmers.html#ancestors).
 
 ---
 
-Howcatchem rather than a whodunit is it? Like Columbo.
+Pharaoahs were an outcome of an agrarian civilization, empires built
+on the back of the farmer class. Rome, Otto, the Han were not
+different civilizations but variations of the same.
 
 ---
 
-*Poker Face*, S01E01 - good casting, likable lead. 
+4-5K years is nothing compared to 300k of human history. Not a big deal.
+
+The Guardian: "Archaeologist hails possibly oldest mummy yet found in
+Egypt.. The 4,300-year-old mummy was found at the bottom of a 15-metre
+shaft near the Step Pyramid"
 
 ---
 
-"@anildash@me.dm
+"@aarnegranlund@mastodon.social
 
-I've spent the last few months bringing my 23+ years of blog archives
-up to date.. Tonight's fun discovery is Marc Andreessen affirmatively
-citing my work as 'the smartest thing anyone has said' about the
-inevitability of a federation of independent networks connected by an
-open standard to win against Facebook and similar walled gardens. Six
-months later in June 2008, he joined Facebook's board"
+We're above zero degrees C in the middle of the winter once
+again. This is abnormal for our latitudes, especially for the third
+week"
 
----
-
-But employee compensation as part of corporate revenue is going
-down. It's *been* going down since the 70s. Not good.
-
-[[-]](2019/05/stats.html#compprof)
+<img width="340" src="https://s3.masto.ai/cache/media_attachments/files/109/748/508/052/333/378/original/dd426fba90ff38ec.png"/>
 
 ---
 
-Scratch that - still going strong
+Fuelcellworks: "Seattle-based First Mode and Anglo American have
+closed a complicated $1.5 billion transaction that will remake First
+Mode as a clean-energy company for heavy industry - and shift its
+headquarters to London...
 
+The business combination, which was announced last year, blends First
+Mode’s engineering operation with Anglo American’s nuGen effort to
+develop a zero-emission system for hauling ore. First Mode created the
+hydrogen-fueled hybrid powerplant for Anglo American’s nuGen mining
+truck, which made its debut in South Africa last year as the world’s
+largest zero-emission vehicle"
 
-```text
-            UNRATE  U6RATE  REAL_UNRATE  REAL_UNEMP_LEVEL
-DATE                                                     
-2022-11-01     3.6     6.7     8.127541           13372.0
-2022-12-01     3.5     6.5     7.781603           12837.0
+---
+
+IMO the problem has more to do with culture, and declining quality
+*within* fields, rather than lack of people able to work across
+fields. Funding has been flowing to shiny-object-but-fruitless
+projects, the culture rewards "getting shit to work".
+
+Nature: "PhD training is no longer fit for purpose.. candidates are
+inadequately prepared for the cross-disciplinary working and large
+teams that characterize cutting-edge science today"
+
+---
+
+Iran is in deep shit. Israel, Iraq, Pakistan.. the list goes on
+
+NYT: " Attack on a Munitions Facility.. The government did not say who
+was behind the attempted attack, but some Telegram channels affiliated
+with Iran’s Revolutionary Guards pointed the finger at Israel"
+
+---
+
+Some claim Turkese gobble gobble people want a piece of that gasfield
+action, want to get it through their poodle KDP. If PUK leaves
+"Kurdish" KRG joins Iraq, that would leave the rest empty handed.
+Apparently there is already a KDP ambargo of sorts on Suleymaniah, it
+might happen.
+
+---
+
+And of course it is being attacked
+
+Kurdpress: "Local media in the Iraqi Kurdistan region have reported
+that Khor Mor gas field in the Kurdistan Region’s Chamchamal County in
+Sulyamaniyeh was targeted with rockets on Friday morning"
+
+---
+
+Khor Mor 
+
+```python
+u.sm_plot_kurd()
+plt.plot(44.82053178,35.1638440,'x')
 ```
 
----
-
-YoY looks less stellar than QoQ, sign of cooling down?
-
-GPP QoQ
-
-```
-2022-07-01    3.243338
-2022-10-01    2.891577
-```
-
-GDP YoY
-
-```
-2022-07-01  1.942138
-2022-10-01  0.959254
-```
+<img width='340' src='kurd_2.jpg'/> 
 
 ---
 
-H2 View: "‘Hydrogen is on the move’, says new Baker Hughes
-report.. Hydrogen looks set to be a priority among businesses involved
-in energy and hard-to-abate industries moving forward, according to a
-new report"
+Reuters: "[2022/12] Some [Kurdish] PUK officials say privately that
+without compromise on a range of issues, the party might eventually
+break away and form its own administration in its Sulaimaniya
+stronghold. The antagonism [with KDP] is also complicating a project
+to expand one of the biggest gasfields [Khor Mor] in Iraq, which is in
+PUK territory, damaging the region’s hopes of starting exports to
+Europe and earning much-needed revenue"
 
 ---
 
-H2 View: "US DOE launches $47m funding opportunity for hydrogen
-delivery, storage, and fuel cell technologies"
+Reagan-era pro-market tough guy balancing the previous era's
+drugged-out 60s hippies \#Zeitgeist
 
 ---
 
-One merit point for the homie. The opposition is already talking to an
-H2 expert, so now both major parties are involved with clean fuels.
-
-H2 Insight: "Green hydrogen targets and incentives.. [TR] has unveiled
-a new national Hydrogen Technology Strategy and Roadmap that contains
-new targets for green H2 production, a plan to introduce an incentive
-mechanism for the local production of equipment, and roles for blue
-and turquoise H2 and hydrogen blending into the natural-gas grid"
+Pepsi, Coors.. 
 
 ---
 
-You're a disease and I'm the cure
+Holy Product Placement
+
+[[-]](https://drive.google.com/uc?export=view&id=1N2eyGQd7Da6faKOY1zC_E9x2nqjmd-Sy)
 
 ---
 
-[Link](https://drive.google.com/uc?export=view&id=1GRGYbf3ekBkN13gQZqH6o5MVU6V78jBW)
-
----
-
-"Scorpion Unit".. Apparently they roll up on people in unmarked cars,
-yell and scream point guns on their heads etc. WTF? White police,
-black police doesn't matter - the culture is key.
-
-LA Times: "In early 2022, as violent crime rose in Memphis, Mayor Jim
-Strickland set out his ideas for returning safety to the city.. At the
-top of his plan: Increase funding to the Memphis Police Department,
-give raises and bonuses to officers, and continue the usage of the
-city’s newly formed 'SCORPION' unit, a specialized group of four
-roving 10-person teams"
-
----
-
-Forbes: "5 Black Memphis Cops Upheld Institutional And Cultural Racism
-In Tyre Nichols’ Murder"
+Nippon.com: "Russia's defeat in the war in Ukraine is 'unthinkable,'
+former Japanese Prime Minister Yoshiro Mori said Wednesday"
 
 ---
 
