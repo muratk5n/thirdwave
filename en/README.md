@@ -92,7 +92,8 @@ teams that characterize cutting-edge science today"
 ---
 
 Iran is in deep shit. Israel, Iraq, Pakistan.. many troublespots.. The
-list goes on
+list goes on. Clearly nobody's in charge, no structures available that
+can solve problems. 
 
 NYT: " Attack on a Munitions Facility.. The government did not say who
 was behind the attempted attack, but some Telegram channels affiliated
