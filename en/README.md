@@ -6,14 +6,6 @@ and Energy Chris Bowen said on Friday"
 
 ---
 
-"@Hypx@mastodon.social
-
-\#Hydrogen will drastically reduce our need for copper.. 
-
-'[NYT] A Copper Mine Could Advance Green Energy but Scar Sacred Land'"
-
----
-
 Businesswire: "Triton EV Becomes First Indian Auto Company to Announce
 Hydrogen Fuel-Powered Trucks"
 
@@ -114,6 +106,14 @@ like marksmanship and defensive tactics, with less focus on so-called
 
 Yahoo News: "Memphis police's Scorpion unit is permanently deactivated
 after Tyre Nichols' death"
+
+---
+
+"@Hypx@mastodon.social
+
+\#Hydrogen will drastically reduce our need for copper.. 
+
+'[NYT] A Copper Mine Could Advance Green Energy but Scar Sacred Land'"
 
 ---
 
