@@ -126,7 +126,7 @@ after Tyre Nichols' death"
 meet that target, by transforming a standard diesel into \#hydrogen
 \#engine
 
-Learn more ➡️ https://europa.eu/!3rcgFv"
+Learn more ➡️ [https://europa.eu/!3rcgFv](https://europa.eu/!3rcgFv)"
 
 ---
 
