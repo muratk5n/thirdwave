@@ -52,11 +52,10 @@ voting in the American. That's Netan, a Philadelphian.
 
 ---
 
-Note Juan Cole analyzes Israeli culture as an extension of where its
+Below Juan Cole analyzes Israeli culture as an extension of where its
 different immigrants came from, rather than an homogenous culture of
-transnational religion which stays the same no matter where it is at.
-
-The larger host culture rules all. Heritage means little.
+transnational religion which stays the same no matter where it is
+at. The larger host culture is key. Heritage means little.
 
 [[-]](https://youtu.be/yzn4JzDDkbY?t=348)
 
