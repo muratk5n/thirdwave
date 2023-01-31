@@ -43,7 +43,7 @@ at. The larger host culture is key. Heritage means little.
 
 ---
 
-"Organizers of the protest against the judicial overhaul pushed by the
+"[There are protests] against the judicial overhaul pushed by the
 Netanyahu government.. 'Netanyahu wants to talk with the Americans
 about Iran. They want to talk with him about the possibility that
 Israel will turn into Iran.'"
