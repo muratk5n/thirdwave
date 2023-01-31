@@ -38,12 +38,6 @@ sanguinary Crusades in the Holy Land with the cry, “God wills it!”?
 
 ---
 
-Israeli PM Benjo is always around - the ISR electorate instintively
-feel US, being like them is essential for their survival, so they keep
-voting in the American. That's Netan, a Philadelphian.
-
----
-
 Below Juan Cole analyzes Israeli culture as an extension of where its
 different immigrants came from, rather than an homogenous culture of
 transnational religion which stays the same no matter where it is
