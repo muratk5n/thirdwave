@@ -32,14 +32,14 @@ armies are disbanded, cash disappears, people go back to virtual money
 Then, after 1492 it swings the other way, again — we’re back to gold
 and silver money, vast empires, slavery comes back"
 
-[[-]](2011/11/debt-religions-money.html)
+[[-]](../../2011/11/debt-religions-money.html)
 
 ---
 
 Burying the dead with worldly items is a continuation of <10K yr old
 agrarian era of ancestor burials, the buried ancestors were later
 worshipped since they now represented a connection to (arable) land
-vital for survival. See [Morris](2017/10/wtwrfn-foragers-farmers.html#ancestors).
+vital for survival. See [Morris](../../2017/10/wtwrfn-foragers-farmers.html#ancestors).
 
 ---
 
@@ -122,7 +122,7 @@ u.sm_plot_kurd()
 plt.plot(44.82053178,35.1638440,'x')
 ```
 
-<img width='340' src='mbl/2023/kurd_2.jpg'/> 
+<img width='340' src='kurd_2.jpg'/> 
 
 ---
 
