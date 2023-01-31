@@ -363,6 +363,8 @@ same kind of ideology of public service as Confucianism. No sooner was
 this accomplished, though, than Christianity emerged as a much more
 powerful critique— only for Rome to tame it too...
 
+<a name='jesuspoor'/>
+
 The Old Deal proved to be remarkably resilient. Despite constant
 criticism of inequality in Buddhist, Confucian, and Christian texts,
 post-Axial political and economic hierarchy was just as robust as the
