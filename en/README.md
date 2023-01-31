@@ -30,11 +30,13 @@ There's been a Pope who tried to argue Jesus wasn't poor. That was some shit.
 
 This guy is good
 
-Juan Cole: "Life in medieval feudal societies did not encourage
-pacific theologies, and Muslims in later empires lost touch with the
-realities of the early seventh century. What if we read Jesus’s life
-and thought only through the lens of Pope Urban II, who launched the
-sanguinary Crusades in the Holy Land with the cry, “God wills it!”?
+Juan Cole: "This book puts forward a reinterpretation of early Islam
+as a movement strongly inflected with values of peacemaking.. Life in
+medieval feudal societies did not encourage pacific theologies, and
+Muslims in later empires lost touch with the realities of the early
+seventh century. What if we read Jesus’s life and thought only through
+the lens of Pope Urban II, who launched the sanguinary Crusades in the
+Holy Land with the cry, “God wills it!”?
 
 ---
 
