@@ -65,7 +65,7 @@ European Union before negotiating with China"
 ---
 
 Al Monitor: "Egypt's Sisi meets Modi, inks 'strategic partnership' on
-lanedmark India visit.. The trip could lead to greater cooperation
+landmark India visit.. The trip could lead to greater cooperation
 between India and Egypt on trade, the Suez Canal, green hydrogen and
 more"
 
