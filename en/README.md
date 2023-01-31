@@ -19,7 +19,7 @@ Hydrogen Fuel-Powered Trucks"
 
 ---
 
-<img width='340' src='toot_dog.png'/> 
+<img width='340' src='mbl/2023/toot_dog.png'/> 
 
 ---
 
@@ -30,7 +30,7 @@ tanks"
 
 ---
 
-There's been a Pope who tried to argue Jesus wasn't poor. Imagine that.
+There's been a Pope who tried to argue Jesus wasn't poor. That was some shit.
 
 [[-]](2021/05/farmers-foragers-fossils.html#jesuspoor)
 
