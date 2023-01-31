@@ -22,12 +22,6 @@ tanks"
 
 ---
 
-There's been a Pope who tried to argue Jesus wasn't poor. That was some shit.
-
-[[-]](2021/05/farmers-foragers-fossils.html#jesuspoor)
-
----
-
 This guy is good
 
 Juan Cole: "This book puts forward a reinterpretation of early Islam
