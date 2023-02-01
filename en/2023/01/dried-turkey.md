@@ -12,14 +12,14 @@ Cut meat into chunks and place in dish, with onion slices on top, cook
 in oven at 200 C for 1/2 hours or until meat is well done while
 throwing away the juices. Once cooked transfer to a bowl, sprinkle the
 turmeric, masala, yogurt, and blend. A hand-held blender works
-well. Form small, long, thin, flat patties, dehydrate at 80 C degrees,
-for 5 hours. Done.
+well. Form small, long, thin, flat patties, put in oven or dehydrator
+at 80 C degrees, for 5 hours. Done.
 
-Ideas for Meal - mix small pieces of patty, dried vegs (I use beet
-roots, apples) and low-salt cheese (with sufficient fat) plus dried
-soup (Greek trahana [1]), hot water, boom.  Just created a stew.
+Ideas for Meal - mix small pieces of patty, dried vegs (beet roots,
+apples) and high-fat cheese plus dried soup (Greek trahana [1]), hot
+water, boom.  Just created a stew.
 
-Drying the blended / ground raw meat patty is key [3], instead of
+* Drying the blended / ground raw meat patty is key [3], instead of
 pieces from the whole raw poultry, bcz with latter approach
 end-product becomes difficult to mix in a stew, or to chew on. The
 approach here [2] powders dried pieces, that's fine for those with
