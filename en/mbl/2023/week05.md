@@ -176,11 +176,6 @@ email, internet, and torrent tech, and that we should want more"
 
 ---
 
-*The Last of Us*, zombies still sell; fine scifi. Pedro Pascal is
-everywhere.
-
----
-
 BBC: "The race to make diesel engines run on hydrogen.. Engineers at
 the University of New South Wales (UNSW) say they have successfully
 modified a conventional diesel engine to use a mix of hydrogen and a
@@ -281,7 +276,7 @@ You're a disease and I'm the cure
 ---
 
 "Scorpion Unit".. Apparently they roll up on people in unmarked cars,
-yell and scream point guns on their heads etc. WTF? White police,
+yell and scream point guns at their heads etc. WTF? White police,
 black police doesn't matter - the culture is key.
 
 LA Times: "In early 2022, as violent crime rose in Memphis, Mayor Jim
