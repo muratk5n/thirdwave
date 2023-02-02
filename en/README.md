@@ -47,8 +47,7 @@ Direction sounds fine.. can't wait to see the work. Interesting part
 is finance news carries such stories, once comic book movies made
 *billions*, they've become newsworthy - they are now binness.
 
-CNBC: "James Gunn unveils DC's new film and TV plan, including fresh
-spins on Supergirl, Batman"
+CNBC: "James Gunn unveils DC's new film and TV plan"
 
 ---
 
