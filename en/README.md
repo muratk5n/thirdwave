@@ -43,6 +43,11 @@ support Dutch and European markets"
 
 ---
 
+Funky outfit and a red cape can come across odd but in *Ben-Hur* that
+would be a Roman general \\(ツ)/ 
+
+---
+
 Direction sounds fine.. can't wait to see the work. Interesting part
 is finance news carries such stories, once comic book movies made
 *billions*, they've become newsworthy - they are now binness.
