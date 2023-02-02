@@ -1,122 +1,108 @@
 
-Reuters: "Australia and Germany have earmarked 35.5 million and 54.4
-million dollars, respectively, towards a joint initiative to establish
-a green hydrogen supply chain, Australian Minister for Climate Change
-and Energy Chris Bowen said on Friday"
+"@ashleygjovik@mstdn.social
 
----
+The weather alerts for the SF Bay Area are terrifying
 
-Businesswire: "Triton EV Becomes First Indian Auto Company to Announce
-Hydrogen Fuel-Powered Trucks"
+The Bay Area is one of the most polluted areas in the world
 
----
+'Mitigation' for most of the dangerous toxic contamination has simply
+been 'containment' of the polluted soil & water
 
-<img width='340' src='mbl/2023/toot_dog.png'/> 
-
----
-
-CW: "Cryomotive’s CRYOGAS solution claims the highest storage density,
-lowest refueling cost and widest operating range without H2 losses
-while using one-fifth the carbon fiber required in compressed gas
-tanks"
-
----
-
-This guy is good
-
-Juan Cole: "This book puts forward a reinterpretation of early Islam
-as a movement strongly inflected with values of peacemaking.. Life in
-[later] medieval feudal societies did not encourage pacific
-theologies, and Muslims in later empires lost touch with the realities
-of the early seventh century. What if we read Jesus’s life and thought
-only through the lens of Pope Urban II, who launched the sanguinary
-Crusades in the Holy Land with the cry, “God wills it!”?
-
----
-
-Below Juan Cole analyzes Israeli culture as an extension of where its
-different immigrants came from, rather than an homogenous culture of
-transnational religion which stays the same no matter where it is
-at. The larger host culture is key. Heritage means little.
-
-[[-]](https://youtu.be/yzn4JzDDkbY?t=348)
-
----
-
-"[There are protests] against the judicial overhaul pushed by the
-Netanyahu government.. 'Netanyahu wants to talk with the Americans
-about Iran. They want to talk with him about the possibility that
-Israel will turn into Iran.'"
-
-[[-]](https://www.al-monitor.com/originals/2023/01/protests-across-israel-against-judicial-reform-rattle-netanyahu)
-
----
-
-Bonobo - Bambro Koyo Ganda \#music
-
-[[-]](https://youtu.be/G6_aCS1u7-M?t=40)
-
----
-
-Arab News: "Lula da Silva on Wednesday called for the South American
-trade bloc Mercosur to urgently seal a free trade agreement with the
-European Union before negotiating with China"
-
----
-
-Al Monitor: "Egypt's Sisi meets Modi, inks 'strategic partnership' on
-landmark India visit.. The trip could lead to greater cooperation
-between India and Egypt on trade, the Suez Canal, green hydrogen and
-more"
-
----
-
-ABC News: "A 2018 Justice Department study of state and local law
-enforcement training academies found that the average length of core
-basic police training in the U.S. is 833 hours, or less than 22
-weeks... 
-
-In comparison, police recruits in Japan get between 15 and 21 months
-of training. Police in Germany get 2.5 years of training. And in
-Finland, police education takes three years to complete..
-
-Many police academies in the U.S. still resemble military boot camps,
-with cadets in buzz cuts and hair buns getting yelled at by drill
-instructors.
-
-'Barking orders and giving commands and sort of a military kind of
-thinking -- it's not a problem-solving approach. It's not critical
-thinking,' Wexler said.
-
-Much of the training in American police academies emphasizes skills
-like marksmanship and defensive tactics, with less focus on so-called
-'soft skills' like communication and crisis intervention"
-
----
-
-Yahoo News: "Memphis police's Scorpion unit is permanently deactivated
-after Tyre Nichols' death"
+Floods & mudslides 'un-contain'"
 
 ---
 
 "@Hypx@mastodon.social
 
-\#Hydrogen will drastically reduce our need for copper.. 
-
-'[NYT] A Copper Mine Could Advance Green Energy but Scar Sacred Land'"
+German, Belgian firms plan 400km \#hydrogen pipeline in North Sea"
 
 ---
 
-"@CORDIS_EU@respublicae.eu
+PV Tech: "Australia, Germany collaborate on green hydrogen with A$110
+million in funding for four projects"
 
-[Did you know] that 🇪🇺 wants to reduce emissions from heavy-duty #vehicles by
-1️⃣5️⃣% from 2025 onwards?
+---
 
-\#EUFunded project ´H2Engine´ brings an innovative contribution to
-meet that target, by transforming a standard diesel into \#hydrogen
-\#engine
+"An emblematic project consists of using a hydrogen fuel cell power
+source to generate sufficient electrical power, in the range of 400
+kW, to feed all the non-propulsion systems of next-generation
+aircraft. Liebherr-Aerospace Toulouse is developing this power
+generation system as part of the France Relance (France Relaunch) plan
+with the support of the French Civil Aviation Authority (Direction
+Générale de l’Aviation Civile)"
 
-Learn more ➡️ [https://europa.eu/!3rcgFv](https://europa.eu/!3rcgFv)"
+<img width='340' src='mbl/2023/h2_stock_1.jpeg'/> 
+
+---
+
+PoA: "Masdar, one of the world’s leading clean energy companies, Port
+of Amsterdam, SkyNRG, Evos Amsterdam and Zenith Energy Terminals have
+signed a memorandum of understanding (MoU) to explore the development
+of a green hydrogen supply chain between Abu Dhabi and Amsterdam to
+support Dutch and European markets"
+
+---
+
+Direction sounds fine.. can't wait to see the work. Interesting part
+is finance news carries such stories, once comic book movies made
+*billions*, they've become newsworthy - they are now binness.
+
+CNBC: "James Gunn unveils DC's new film and TV plan, including fresh
+spins on Supergirl, Batman"
+
+---
+
+H2 View: "GreenGo Energy has announced €8bn ($8.7bn) plans for a 4GW
+green energy park in the Ringkøbing-Skjern municipality, Denmark,
+which is hoped to position the country as a pioneer in the Power-to-X
+(P2X) industry and hydrogen"
+
+---
+
+More excerpts from the \#Cole book
+
+[[-]](2023/01/mohammad-cole.html)
+
+---
+
+It demonstrates the current state of AI pretty well
+
+---
+
+CatGPT
+
+[[-]](https://catgpt.wvd.io/)
+
+---
+
+Al Monitor: "BBC Arabic radio off air after 85 years, an 'end of an era'"
+
+---
+
+Al Jazeera: "Russia claims village near embattled Ukrainian city of
+Bakhmut.. Defence ministry says Blahodatne captured"
+
+---
+
+Irish Times: "China says US started Ukraine conflict and is profiting
+from it"
+
+---
+
+TASS: "Poland continues to buy Russian oil from Druzhba pipeline in
+January"
+
+---
+
+The Independent: "Rishi Sunak rules out fighter jets for Ukraine as
+war could stretch into 2024"
+
+---
+
+TASS: "According to Mr Johnson, the Normandy Format meetings of
+Russia, Germany, France and Ukraine in support of the direct dialogue
+between Kiev, Donetsk and Lugansk provided for by the Minsk ‘Complex
+of Measures’ were nothing more than a ‘diplomatic charade’"
 
 ---
 
