@@ -43,8 +43,9 @@ support Dutch and European markets"
 
 ---
 
-Funky outfit and a red cape can come across odd but in *Ben-Hur* that
-would be a Roman general \\(ツ)/ 
+*Ben-Hur* had people with red capes they were Roman generals. Clearly
+ppl with costumes have been portrayed on screen before. Some are just
+hatin
 
 ---
 
