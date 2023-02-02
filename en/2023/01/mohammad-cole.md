@@ -1,4 +1,4 @@
-# Mohammad
+# Muhammad: Prophet of Peace Amid the Clash of Empires
 
 Juan Cole
 
