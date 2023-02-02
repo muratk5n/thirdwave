@@ -14,13 +14,14 @@ Muhammad, historians have only recently attempted explorations of the
 latter’s life and thought with this framework in mind.
 
 This book puts forward a reinterpretation of early Islam as a movement
-strongly inflected with values of peacemaking that was reacting against the
-slaughter of the decades-long war and attendant religious strife. From the
-Crusades to colonialism, conflicts between Christians and Muslims led to a
-concentration among writers of European heritage on war and Islam, leaving
-the dimension of peace and cooperation neglected. 2 Both peace and war are
-present in the Qur’an, just as they are in the Bible, and both will be analyzed
-below, but the focus here is on peace.
+strongly inflected with values of peacemaking that was reacting
+against the slaughter of the decades-long war and attendant religious
+strife. From the Crusades to colonialism, conflicts between Christians
+and Muslims led to a concentration among writers of European heritage
+on war and Islam, leaving the dimension of peace and cooperation
+neglected. Both peace and war are present in the Qur’an, just as they
+are in the Bible, and both will be analyzed below, but the focus here
+is on peace.
 
 This book studies the Qur’an in its historical context rather than
 trying to explain what Muslims believe about their scripture. The
