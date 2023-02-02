@@ -43,7 +43,7 @@ Life in medieval feudal societies did not encourage pacific
 theologies, and Muslims in later empires lost touch with the realities
 of the early seventh century. What if we read Jesus’s life and thought
 only through the lens of Pope Urban II, who launched the sanguinary
-Crusades in the Holy Land with the cry, “God wills it!”? \#JuanCole
+Crusades in the Holy Land with the cry, “God wills it!”? 
 
 Even today, many scholars of early Islam seem unduly deferential to
 later medieval interpreters. Others radically reject all information
