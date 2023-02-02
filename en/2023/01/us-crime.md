@@ -11,7 +11,7 @@ All Deaths by Police Shootings, by Race
 ```python
 import pandas as pd
 
-f = 'https://raw.githubusercontent.com/washingtonpost/data-police-shootings/master/fatal-police-shootings-data.csv'
+f = 'https://raw.githubusercontent.com/washingtonpost/data-police-shootings/master/v2/fatal-police-shootings-data.csv'
 df = pd.read_csv(f)
 df['year'] = pd.to_datetime(df['date']).dt.year
 df['race'] = df['race'].fillna('O')
