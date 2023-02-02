@@ -43,9 +43,8 @@ support Dutch and European markets"
 
 ---
 
-*Ben-Hur* had people with red capes they were Roman generals. Clearly
-ppl with costumes have been portrayed on screen before. Some are just
-hatin
+*Ben-Hur* had people with red capes - Roman generals. Clearly ppl with
+costumes have been portrayed on screen before. Some are just hatin
 
 ---
 
