@@ -1,115 +1,112 @@
 
+<iframe width="340" src="https://www.youtube.com/embed/38fC172MTEk" title="The race to find clean fuel: Ammonia-powered transportation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-"@ashleygjovik@mstdn.social
-
-The weather alerts for the SF Bay Area are terrifying
-
-The Bay Area is one of the most polluted areas in the world
-
-'Mitigation' for most of the dangerous toxic contamination has simply
-been 'containment' of the polluted soil & water
-
-Floods & mudslides 'un-contain'"
+The Guardian: "Six states in the western United States that rely on
+water from the Colorado River have agreed on a model to dramatically
+cut water use in the basin.. [the] river [is] stressed by drought and
+overuse"
 
 ---
 
-"@Hypx@mastodon.social
-
-German, Belgian firms plan 400km \#hydrogen pipeline in North Sea"
+H2 Fuel News: "GP JOULE ordering over 100 Nikola hydrogen trucks"
 
 ---
 
-PV Tech: "Australia, Germany collaborate on green hydrogen with A$110
-million in funding for four projects"
+H2 Fuel News: "BP considering German hydrogen hub"
 
 ---
 
-"An emblematic project consists of using a hydrogen fuel cell power
-source to generate sufficient electrical power, in the range of 400
-kW, to feed all the non-propulsion systems of next-generation
-aircraft. Liebherr-Aerospace Toulouse is developing this power
-generation system as part of the France Relance (France Relaunch) plan
-with the support of the French Civil Aviation Authority (Direction
-Générale de l’Aviation Civile)"
-
-<img width='340' src='mbl/2023/h2_stock_1.jpeg'/> 
+There's been no treaty after Cold War.. Treaty after Thirty Years'
+War, treaty after WWI, treaty after WWII, nothing after the Cold War?
+Forget Europe, Japan and Russia are still at war today - legally
+speaking. Same for North and South Korea.
 
 ---
 
-PoA: "Masdar, one of the world’s leading clean energy companies, Port
-of Amsterdam, SkyNRG, Evos Amsterdam and Zenith Energy Terminals have
-signed a memorandum of understanding (MoU) to explore the development
-of a green hydrogen supply chain between Abu Dhabi and Amsterdam to
-support Dutch and European markets"
+Whatever SOTA is, e-jagoff's company is surely below it. 
+
+Insider: "Mercedes-Benz 'Drive Pilot' surpasses Tesla's autonomous driving system"
 
 ---
 
-*Ben-Hur* had people with red capes - Roman generals. Clearly ppl with
-costumes have been portrayed in cinema before. Some are just hating
+Mercedes-Benz: "At the time of this publishing, DRIVE PILOT's ODD
+[Operational Design Domain] is limited to fully access-controlled
+highways (commonly called 'freeways') up to a specific maximum
+speed. (A fully access-controlled highway is defined as a divided
+highway with at least two lanes of traffic in each direction that has
+no intersections – only on-ramps and off-ramps.)  DRIVE PILOT's ODD is
+further restricted according to the presence or absence of certain
+road features and/or conditions, such as:
+
+• Machine-detectable lane markings
+
+• The absence of tunnels, toll booths and traffic control devices
+(stop signs, traffic lights, etc.)
+
+• Applicable legal requirements
+
+The resulting ODD boundaries (including available routes) are defined
+within a precise, high-definition map.  These boundaries comprise the
+“geo-fence” for the area of operation of DRIVE PILOT; it will not
+allow the driver to engage the feature, nor will the feature operate
+the vehicle, outside of these boundaries"
+
+[PDF](https://group.mercedes-benz.com/documents/innovation/other/2019-02-20-vssa-mercedes-benz-drive-pilot-a.pdf)
 
 ---
 
-Direction sounds fine.. can't wait to see the work. Interesting part
-is finance news carries such stories, once comic book movies made
-*billions*, they've become newsworthy - they are now binness.
-
-CNBC: "James Gunn unveils DC's new film and TV plan"
+Mercedes self-driving reached Level 3 - one of the highest right now,
+but even its abilities are pretty limited.
 
 ---
 
-H2 View: "GreenGo Energy has announced €8bn ($8.7bn) plans for a 4GW
-green energy park in the Ringkøbing-Skjern municipality, Denmark,
-which is hoped to position the country as a pioneer in the Power-to-X
-(P2X) industry and hydrogen"
+"@drewharwell@mastodon.social
+
+New: Memphis spent $10 million installing thousands of 24/7
+police-linked surveillance cameras, called SkyCops, on the promise
+they'd deter crime. But crime's only gone up. And even the cops who
+beat Tyre Nichols to death weren't deterred" via WaPo
 
 ---
 
-More excerpts from the \#Cole book
+2022 police shootings data is out.
 
-[[-]](2023/01/mohammad-cole.html)
+The data file location changed, its content too, a little? The increase of
+'Other' category for 2021 was [higher](2023/01/allshoot1.png) previously which I'd
+interpreted as they were simply not recording the race, fudging the numbers.
 
----
+But an increase of overall killings for 2022 is clearly visible. 
 
-It demonstrates the current state of AI pretty well
-
----
-
-CatGPT
-
-[[-]](https://catgpt.wvd.io/)
+[[-]](2023/01/us-crime.html#allshoot)
 
 ---
 
-Al Monitor: "BBC Arabic radio off air after 85 years, an 'end of an era'"
+Another try at dehydrating poultry. Been testing this for two weeks -
+fine so far
+
+[[-]](2023/01/dried-turkey.html)
 
 ---
 
-Al Jazeera: "Russia claims village near embattled Ukrainian city of
-Bakhmut.. Defence ministry says Blahodatne captured"
+H2 Central: "The H2 retrofit kit proposed by SAFRA, registered under
+the brand name H2-PACK®, and supported by ADEME, the French Agency for
+Ecological Transition, is a real technical achievement which enables
+the transformation of a diesel coach into a Zero Emission vehicle
+running on hydrogen"
 
 ---
 
-Irish Times: "China says US started Ukraine conflict and is profiting
-from it"
+Leader's job is to make sure things did not escalate to this
+situation... I won't sit here and repeat the "evil Putin" mantra just
+to cover up somebody's fuck up
 
 ---
 
-TASS: "Poland continues to buy Russian oil from Druzhba pipeline in
-January"
-
----
-
-The Independent: "Rishi Sunak rules out fighter jets for Ukraine as
-war could stretch into 2024"
-
----
-
-TASS: "According to Mr Johnson, the Normandy Format meetings of
-Russia, Germany, France and Ukraine in support of the direct dialogue
-between Kiev, Donetsk and Lugansk provided for by the Minsk ‘Complex
-of Measures’ were nothing more than a ‘diplomatic charade’"
+Why won't Russia follow the rules-based-order? They won't follow your
+rules if they are not part of the order. In fact, it looks like the
+order was built to freeze them out... Which lead to Ukraine.
 
 ---
 
