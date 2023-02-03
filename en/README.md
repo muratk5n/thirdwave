@@ -96,9 +96,9 @@ running on hydrogen"
 
 ---
 
-Leader's job is to make sure things did not escalate to this
-situation... I won't sit here and repeat the "evil Putin" mantra just
-to cover up someone else's fuck up
+Putin's gonna Putin. Opposing leader's job is to make sure things did
+not escalate to this situation... I won't sit here and repeat the
+"evil Putin" mantra just to cover up someone else's fuck up
 
 ---
 
