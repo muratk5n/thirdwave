@@ -13,7 +13,7 @@ Hydrogen Fuel-Powered Trucks"
 
 ---
 
-<img width='340' src='mbl/2023/toot_dog.png'/> 
+<img width='340' src='toot_dog.png'/> 
 
 ---
 
