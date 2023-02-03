@@ -31,14 +31,14 @@ Insider: "Mercedes-Benz 'Drive Pilot' surpasses Tesla's autonomous driving syste
 
 ---
 
-Mercedes-Benz: "At the time of this publishing, DRIVE PILOT's ODD
+Mercedes-Benz: "At the time of this publishing, Drive Pilot's ODD
 [Operational Design Domain] is limited to fully access-controlled
 highways (commonly called 'freeways') up to a specific maximum
 speed. (A fully access-controlled highway is defined as a divided
 highway with at least two lanes of traffic in each direction that has
-no intersections – only on-ramps and off-ramps.)  DRIVE PILOT's ODD is
-further restricted according to the presence or absence of certain
-road features and/or conditions, such as:
+no intersections – only on-ramps and off-ramps.).. ODD is further
+restricted according to the presence or absence of certain road
+features and/or conditions, such as:
 
 • Machine-detectable lane markings
 
