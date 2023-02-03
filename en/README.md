@@ -49,7 +49,7 @@ features and/or conditions, such as:
 
 The resulting ODD boundaries (including available routes) are defined
 within a precise, high-definition map.  These boundaries comprise the
-“geo-fence” for the area of operation of DRIVE PILOT; it will not
+“geo-fence” for the area of operation of Drive Pilot; it will not
 allow the driver to engage the feature, nor will the feature operate
 the vehicle, outside of these boundaries"
 
