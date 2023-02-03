@@ -83,8 +83,7 @@ But an increase of overall killings for 2022 is clearly visible.
 
 ---
 
-Another try at dehydrating poultry. Been testing this for two weeks -
-fine so far
+Dehydrated poultry - take three.
 
 [[-]](2023/01/dried-turkey.html)
 
