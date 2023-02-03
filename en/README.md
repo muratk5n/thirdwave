@@ -73,9 +73,10 @@ beat Tyre Nichols to death weren't deterred" via WaPo
 
 2022 police shootings data is out.
 
-The data file location changed, its content too, a little? The increase of
-'Other' category for 2021 was [higher](2023/01/allshoot1.png) previously which I'd
-interpreted as they were simply not recording the race, fudging the numbers.
+The data file location changed, its content too somewhat.. The increase
+of 'Other' category for 2021 was [higher](2023/01/allshoot1.png) previously
+which I'd interpreted as they were simply not recording the race, fudging
+the numbers.
 
 But an increase of overall killings for 2022 is clearly visible. 
 
