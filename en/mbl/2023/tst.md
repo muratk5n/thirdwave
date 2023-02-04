@@ -6,7 +6,9 @@ pd.set_option('display.max_columns', None)
 ```
 
 
-
+```python
+u.sm_plot_azearm1()
+```
 
 
 

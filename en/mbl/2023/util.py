@@ -9,6 +9,15 @@ import urllib.request as urllib2
 from io import BytesIO
 import pandas_ta as ta
 
+def sm_plot_azearm1():
+    d = json.loads(open("azerbarm1.json").read())
+    clat,clon=40, 46;zoom=0.25
+    colors = {"AZE": "lightcyan", "ARM":"lightyellow", "IRN":"lavenderblush", "TUR":"lavenderblush"}
+    sm.plot_countries(clat,clon,zoom,country_color=colors)
+    plt.text(45,40,'ARM')
+    plt.text(47.5,40,'AZE')
+    plt.text(46.8,39.75,'NK',color='gray')
+    sm.plot_line(np.array(d['nagorn']),color='green')    
 
 def biz_stock_plot(year,ticker):
     end = datetime.datetime.now()
@@ -216,3 +225,18 @@ def boxofficemojo(q):
             "International": intl, "Worldwide Total": worldwide,
             "Release Date": reldate}
 
+"""
+Converts pixel values picked from a map to lat/lon coordinates. Requires
+two pixels and two corresp coordinates as references
+
+Usage:
+refcoord=np.array([[lat1,lon1],[lat2, lon2]])
+refpixel=np.array([[px1,py1],[px2,py2]])
+pixels = [..] 
+coords = u.pixel_coord(refcoord, refpixel,pixels)
+"""
+def pixel_coord(refcoord, refpixel,pixels):
+    mlat = (refcoord[1,0]-refcoord[0,0]) / (refpixel[1,1]-refpixel[0,1])
+    mlon = (refcoord[1,1]-refcoord[0,1]) / (refpixel[1,0]-refpixel[0,0])
+    cs = [ [ refcoord[0,0]+(y-refpixel[0,1])*mlat, refcoord[0,1]+(x-refpixel[0,0])*mlon ] for x,y in pixels ]
+    return cs
