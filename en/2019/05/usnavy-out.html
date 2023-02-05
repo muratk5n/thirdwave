@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_87800bade5824de8a989f875da9bb780 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_87800bade5824de8a989f875da9bb780" ></div>
+        
+</body>
+<script>    
+    
+            var map_87800bade5824de8a989f875da9bb780 = L.map(
+                "map_87800bade5824de8a989f875da9bb780",
+                {
+                    center: [33.0, 40.0],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 7,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_b521ab9860e34b0e92ffb1f01aef8784 = L.tileLayer(
+                "https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.jpg",
+                {"attribution": "Map tiles by \u003ca href=\"http://stamen.com\"\u003eStamen Design\u003c/a\u003e, under \u003ca href=\"http://creativecommons.org/licenses/by/3.0\"\u003eCC BY 3.0\u003c/a\u003e. Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://creativecommons.org/licenses/by-sa/3.0\"\u003eCC BY SA\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_87800bade5824de8a989f875da9bb780);
+        
+    
+            var marker_e97b1a1ea0e443448d9e86973c86a293 = L.marker(
+                [37.91579, 23.6646],
+                {}
+            ).addTo(map_87800bade5824de8a989f875da9bb780);
+        
+    
+            marker_e97b1a1ea0e443448d9e86973c86a293.bindTooltip(
+                `<div>
+                     USS George H.W. Bush (CVN-77) 39.6 0.4
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_2386db5b7a0d4c6e9727ae7d7cc0d88b = L.marker(
+                [35.29316, 139.66013],
+                {}
+            ).addTo(map_87800bade5824de8a989f875da9bb780);
+        
+    
+            marker_2386db5b7a0d4c6e9727ae7d7cc0d88b.bindTooltip(
+                `<div>
+                     USS Shiloh (CG-67) 166.9 0.1
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_74ed57db356947669a478af763790089 = L.marker(
+                [35.29216, 139.65698],
+                {}
+            ).addTo(map_87800bade5824de8a989f875da9bb780);
+        
+    
+            marker_74ed57db356947669a478af763790089.bindTooltip(
+                `<div>
+                     USS Chancellorsville (CG-62) 17.1 0.0
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_924a86bcb579423892b767054ca85b3b = L.marker(
+                [26.29521, 127.90709],
+                {}
+            ).addTo(map_87800bade5824de8a989f875da9bb780);
+        
+    
+            marker_924a86bcb579423892b767054ca85b3b.bindTooltip(
+                `<div>
+                     USS Antietam (CG-54) 182.7 2.4
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_1c89e2df84b74c0bbff4c075d5e47242 = L.marker(
+                [35.03528, 139.60882],
+                {}
+            ).addTo(map_87800bade5824de8a989f875da9bb780);
+        
+    
+            marker_1c89e2df84b74c0bbff4c075d5e47242.bindTooltip(
+                `<div>
+                     USS Rafael Peralta (DDG-115) 237.1 18.9
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_087d4356d8b54fea9a6e2ae6c6e600d9 = L.marker(
+                [36.82854, -76.29172],
+                {}
+            ).addTo(map_87800bade5824de8a989f875da9bb780);
+        
+    
+            marker_087d4356d8b54fea9a6e2ae6c6e600d9.bindTooltip(
+                `<div>
+                     USS Mitscher (DDG-57) 130.1 0.1
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_9eebea63cba7493cb1e01ccf89bdb77c = L.marker(
+                [47.58811, -122.3558],
+                {}
+            ).addTo(map_87800bade5824de8a989f875da9bb780);
+        
+    
+            marker_9eebea63cba7493cb1e01ccf89bdb77c.bindTooltip(
+                `<div>
+                     USS John Paul Jones (DDG-53) 0.0 0.0
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_256a7382282c4bd19e9421ec6e8cbbb9 = L.marker(
+                [30.39194, -81.40916],
+                {}
+            ).addTo(map_87800bade5824de8a989f875da9bb780);
+        
+    
+            marker_256a7382282c4bd19e9421ec6e8cbbb9.bindTooltip(
+                `<div>
+                     USS WINSTON S. CHURCHILL (DDG-81) 123.6 0.1
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_5b4f03055d2944ea89abc2b73e3ba1da = L.marker(
+                [30.39282, -81.40876],
+                {}
+            ).addTo(map_87800bade5824de8a989f875da9bb780);
+        
+    
+            marker_5b4f03055d2944ea89abc2b73e3ba1da.bindTooltip(
+                `<div>
+                     USS The Sullivans (DDG-68) 324.8 0.0
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_b588fded17fc425285718db58d3d04d9 = L.marker(
+                [32.68159, -117.1305],
+                {}
+            ).addTo(map_87800bade5824de8a989f875da9bb780);
+        
+    
+            marker_b588fded17fc425285718db58d3d04d9.bindTooltip(
+                `<div>
+                     USS Mustin (DDG-89) 27.8 0.0
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_4c0ac373a2504aba924cdc5787dd0f0e = L.marker(
+                [35.28712, 139.65837],
+                {}
+            ).addTo(map_87800bade5824de8a989f875da9bb780);
+        
+    
+            marker_4c0ac373a2504aba924cdc5787dd0f0e.bindTooltip(
+                `<div>
+                     USS Milius (DDG-69) 139.5 0.0
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_cd54854e76694de8a6416f54529fc8f1 = L.marker(
+                [36.85918, -75.8851],
+                {}
+            ).addTo(map_87800bade5824de8a989f875da9bb780);
+        
+    
+            marker_cd54854e76694de8a6416f54529fc8f1.bindTooltip(
+                `<div>
+                     USS James E. Williams (DDG-95) 137.6 16.7
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_d74ca7785608474aa324439fcb526114 = L.marker(
+                [32.88507, -117.73775],
+                {}
+            ).addTo(map_87800bade5824de8a989f875da9bb780);
+        
+    
+            marker_d74ca7785608474aa324439fcb526114.bindTooltip(
+                `<div>
+                     USS Halsey (DDG-97) 182.8 3.4
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_974e0cbf79b54171aed1959cd1aa26fc = L.marker(
+                [1.43678, 104.49424],
+                {}
+            ).addTo(map_87800bade5824de8a989f875da9bb780);
+        
+    
+            marker_974e0cbf79b54171aed1959cd1aa26fc.bindTooltip(
+                `<div>
+                     USS Chung-Hoon (DDG-93) 49.2 17.9
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_1f4ae21cc7834659a01590718fc06334 = L.marker(
+                [36.83088, -76.29233],
+                {}
+            ).addTo(map_87800bade5824de8a989f875da9bb780);
+        
+    
+            marker_1f4ae21cc7834659a01590718fc06334.bindTooltip(
+                `<div>
+                     USS Ross (DDG-71) 285.9 0.1
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_23abcc72e3c840a2b7113b980d17ce01 = L.marker(
+                [91.0, 181.0],
+                {}
+            ).addTo(map_87800bade5824de8a989f875da9bb780);
+        
+    
+            marker_23abcc72e3c840a2b7113b980d17ce01.bindTooltip(
+                `<div>
+                     USS Barry (DDG-52) 360.0 102.3
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_1fc81e30d5e946788c6388e461dee732 = L.marker(
+                [91.0, 181.0],
+                {}
+            ).addTo(map_87800bade5824de8a989f875da9bb780);
+        
+    
+            marker_1fc81e30d5e946788c6388e461dee732.bindTooltip(
+                `<div>
+                     USS Arleigh Burke (DDG-51) 360.0 102.3
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_328c07f10de34e949a6897b089cfe95a = L.marker(
+                [50.04162, -2.78053],
+                {}
+            ).addTo(map_87800bade5824de8a989f875da9bb780);
+        
+    
+            marker_328c07f10de34e949a6897b089cfe95a.bindTooltip(
+                `<div>
+                     USS Roosevelt (DDG-80) 257.6 20.2
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_18ea658b483745048bf1ab1a09b4b125 = L.marker(
+                [35.29358, 139.66393],
+                {}
+            ).addTo(map_87800bade5824de8a989f875da9bb780);
+        
+    
+            marker_18ea658b483745048bf1ab1a09b4b125.bindTooltip(
+                `<div>
+                     USS RONALD REAGAN (CVN-76) 360.0 0.0
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_b45f80ca4555451a805654c31e3b0e84 = L.marker(
+                [36.76482, -75.58936],
+                {}
+            ).addTo(map_87800bade5824de8a989f875da9bb780);
+        
+    
+            marker_b45f80ca4555451a805654c31e3b0e84.bindTooltip(
+                `<div>
+                     USS Dwight D. Eisenhower (CVN-69) 119.5 18.9
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_4b03753cc4f34deba4ab5e08a2dd636b = L.marker(
+                [1.33195, 104.36818],
+                {}
+            ).addTo(map_87800bade5824de8a989f875da9bb780);
+        
+    
+            marker_4b03753cc4f34deba4ab5e08a2dd636b.bindTooltip(
+                `<div>
+                     USS NIMITZ (CVN-68) 52.4 26.8
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_6b08470827ed45f99c830ca168392c4d = L.marker(
+                [32.59707, -117.30031],
+                {}
+            ).addTo(map_87800bade5824de8a989f875da9bb780);
+        
+    
+            marker_6b08470827ed45f99c830ca168392c4d.bindTooltip(
+                `<div>
+                     USS Abraham Lincoln (CVN-72) 271.0 23.0
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_6be483d2b27347e18a8be8efbd272895 = L.marker(
+                [36.95518, -76.33095],
+                {}
+            ).addTo(map_87800bade5824de8a989f875da9bb780);
+        
+    
+            marker_6be483d2b27347e18a8be8efbd272895.bindTooltip(
+                `<div>
+                     USS Gerald R. Ford (CVN-78) 360.0 0.0
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_09780c0172594c6fab74e964b915fa3d = L.marker(
+                [26.21388, 127.92203],
+                {}
+            ).addTo(map_87800bade5824de8a989f875da9bb780);
+        
+    
+            marker_09780c0172594c6fab74e964b915fa3d.bindTooltip(
+                `<div>
+                     USS AMERICA (LHA-6) 90.5 11.1
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_7da05d1efba04d339d95f99e36e0ec04 = L.marker(
+                [32.582, -117.3127],
+                {}
+            ).addTo(map_87800bade5824de8a989f875da9bb780);
+        
+    
+            marker_7da05d1efba04d339d95f99e36e0ec04.bindTooltip(
+                `<div>
+                     USS Carl Vinson (CVN-70) 268.9 4.8
+                 </div>`,
+                {"sticky": true}
+            );
+        
+</script>
