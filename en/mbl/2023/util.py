@@ -9,6 +9,34 @@ import urllib.request as urllib2
 from io import BytesIO
 import pandas_ta as ta
 
+def sm_plot_list1(clat, clon, zoom, offset, data):
+    sm.plot_countries(clat,clon,zoom)
+    for row in data:
+       lat,lon = float(row[1]),float(row[2])
+       label = row[0]
+       style = (offset,-offset)
+       plt.annotate(
+         label, 
+         xy = (lon, lat), xytext = style,
+         textcoords = 'offset points', ha = 'right', va = 'bottom',
+         bbox = dict(boxstyle = 'round,pad=0.5', fc = 'yellow', alpha = 0.5),
+         arrowprops = dict(arrowstyle = '->', connectionstyle = 'arc3,rad=0'))          
+
+def usnavy():
+    ships = json.loads(open("usnavy.json").read())
+    headers = { 'User-Agent': 'UCWEB/2.0 (compatible; Googlebot/2.1; +google.com/bot.html)'}
+    base = 'https://www.vesselfinder.com/vessels/'
+    data = []
+    for s in ships['data']:
+        resp = requests.get(base + s[2], headers=headers)  
+        res = re.findall(r'"ship_lat":(.*?),"ship_lon":(.*?),"ship_cog":(.*?),"ship_sog":(.*?),',resp.text)
+        if len(res)>0:
+           row = list(s) + list(res[0])
+           data.append(row)
+    df = pd.DataFrame(data)
+    df.columns = ['code','name','code2','lat','lon','bearing','speed']
+    return df
+
 def sm_plot_azearm3():
     d = json.loads(open("azerbarm1.json").read())
     clat,clon=40, 46;zoom=0.25
