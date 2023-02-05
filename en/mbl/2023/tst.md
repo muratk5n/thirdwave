@@ -5,11 +5,6 @@ import pandas as pd
 pd.set_option('display.max_columns', None)
 ```
 
-```python
-d = np.array(u.usnavy()[['name','lat','lon']])
-sm_plot_list1(38, 24, 2.0, 70, d)
-plt.savefig('/tmp/out.jpg',quality=50)
-```
 
 
 
