@@ -4,7 +4,11 @@
 
 [Little America](01/little-america-chandrasekaran.html)
 
+[Muhammad: Prophet of Peace Amid the Clash of Empires](01/mohammad-cole.html)
+
 [The Big Bang Never Happened](01/the-big-bang-never-happened-lerner.html)
 
 [Police, Crime in US](01/us-crime.html)
+
+[Tony Blair's Libya](02/keiser-unrigged.html)
 
