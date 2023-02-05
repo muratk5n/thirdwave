@@ -9,6 +9,18 @@ import urllib.request as urllib2
 from io import BytesIO
 import pandas_ta as ta
 
+def sm_plot_azearm3():
+    d = json.loads(open("azerbarm1.json").read())
+    clat,clon=40, 46;zoom=0.25
+    colors = {"AZE": "lightcyan", "ARM":"lightyellow", "IRN":"lavenderblush", "TUR":"lavenderblush"}
+    sm.plot_countries(clat,clon,zoom,country_color=colors)
+    plt.text(45,40,'ARM')
+    plt.text(47.5,40,'AZE')
+    plt.text(46.8,39.75,'NK',color='gray')
+    sm.plot_line(np.array(d['nagornarm1']),color='lightgreen')
+    sm.plot_region(np.array(d['nagornarm3']),color='yellow')    
+    sm.plot_line(np.array(d['lachin']),color='red')
+
 def sm_plot_azearm2():
     d = json.loads(open("azerbarm1.json").read())
     clat,clon=40, 46;zoom=0.25

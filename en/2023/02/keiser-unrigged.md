@@ -1,4 +1,4 @@
-# Tony Blair's Libya
+# Libya
 
 <iframe 
   frameborder="0" 

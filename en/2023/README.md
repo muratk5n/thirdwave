@@ -10,5 +10,5 @@
 
 [Police, Crime in US](01/us-crime.html)
 
-[Tony Blair's Libya](02/keiser-unrigged.html)
+[Libya](02/keiser-unrigged.html)
 
