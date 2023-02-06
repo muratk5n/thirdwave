@@ -91,7 +91,7 @@ war footing TBH.
 
 ---
 
-One carrier docked in Greece
+One carrier is at a Greek port
 
 ```python
 df = u.usnavy(); u.sm_plot_list1(38, 24, 2.0, np.array(df[['name','lat','lon']]))
