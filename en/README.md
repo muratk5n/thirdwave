@@ -28,16 +28,16 @@ stack to a third of what it is now, he said"
 
 ---
 
-The new age durability of yogurt can help my dried poultry to last
-longer.
+This new age of durability can help prev shared poultry mix to last
+longer... it's good
 
 ---
 
 Yogurt used to go bad, now it doesn't. Seriously it'll stay for weeeks
-and still good esp certain brands.. I read some of the processing they
+and still good esp certain brands.. Read some of the processing they
 do, heat, cool, add yeast, heat, cool, goes on and on.. I guess
-whatever bacteria is in there gets fraked really bad including new
-ones coming in. Mfkers are like f.. this man Im outa here,
+whatever bacteria is in there gets smacked around really bad. Mfkers
+are like f.. this man Im outa here,
 
 ---
 
@@ -96,7 +96,7 @@ and back - 466 times"
 
 ---
 
-One carrier in the Agean docked in Greece
+one carrier docked in Greece
 
 ```python
 df = u.usnavy(); u.sm_plot_list1(38, 24, 2.0, 70, np.array(df[['name','lat','lon']]))
@@ -106,7 +106,7 @@ df = u.usnavy(); u.sm_plot_list1(38, 24, 2.0, 70, np.array(df[['name','lat','lon
 
 ---
 
-Certain groups in TR are in a tizzy on US warships - one docked in Stanpoli?
+Some groups in TR are in a tizzy on US warships - one docked in Stanpoli?
 
 ---
 
