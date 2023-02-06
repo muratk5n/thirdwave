@@ -13,11 +13,6 @@ free-flowing stock grants and free sushi lunches"
 
 ---
 
-CNBC: "There’s a buzz about green hydrogen. But pink, produced using
-nuclear, may have a huge role to play too"
-
----
-
 ABC News: "Honda is expanding the use of hydrogen to trucks and
 construction equipment, electricity for buildings and even in outer
 space, not just cars on roads..  [The company] plans a new fuel cell
