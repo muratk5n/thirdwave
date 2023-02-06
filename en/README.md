@@ -96,6 +96,13 @@ and back - 466 times"
 
 ---
 
+But overall a lot of hardware seems parked stateside and Japan, not a
+war footing TBH.
+
+[[-]](2019/05/usmil.html#navy)
+
+---
+
 one carrier docked in Greece
 
 ```python
