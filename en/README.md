@@ -50,13 +50,6 @@ its surface"
 
 ---
 
-First rule of geopol - not much happens outside great powers' behest,
-and most happens as a reaction to them. When bigger powers are
-involved they want to run the roost, and all actors take them into
-account bcz everyone fears unseen attacks from unexpected directions.
-
----
-
 Informed Comment: "Supreme Court Justices party at $25,000-a-head
 Soirees with Corporations that have cases before the Court"
 
