@@ -38,12 +38,10 @@ m.save('usbases-out.html')
 
 ```python
 import pandas as pd, folium
-m = folium.Map(location=[33,40], zoom_start=7, tiles="Stamen Terrain")
-
+m = folium.Map(location=[33,40], zoom_start=4, tiles="Stamen Terrain")
 df = u.usnavy()
-
 for index, row in df.iterrows():
-    folium.Marker([row['lat'], row['lon']],tooltip=row['name'] + " " + row['bearing'] + " " + row['speed']
+    folium.Marker([row['lat'], row['lon']],tooltip=row['name'] + " Heading: " + row['bearing'] + " Speed (kn): " + row['speed']
                   ).add_to(m)
 
 m.save('usnavy-out.html')
