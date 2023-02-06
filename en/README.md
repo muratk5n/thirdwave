@@ -94,7 +94,7 @@ war footing TBH.
 One carrier docked in Greece
 
 ```python
-df = u.usnavy(); u.sm_plot_list1(38, 24, 2.0, 70, np.array(df[['name','lat','lon']]))
+df = u.usnavy(); u.sm_plot_list1(38, 24, 2.0, np.array(df[['name','lat','lon']]))
 ```
 
 <img width='340' src='mbl/2023/agean1.jpg'/> 

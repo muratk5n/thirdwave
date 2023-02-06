@@ -7,14 +7,48 @@ import simplegeomap as sm, util
 import datetime, time as timelib, re, os
 import urllib.request as urllib2
 from io import BytesIO
-import pandas_ta as ta
+import pandas_ta as ta, random
 
-def sm_plot_list1(clat, clon, zoom, offset, data):
+def eq_at(lat,lon,radius,ago,today = datetime.datetime.now()):
+
+    lat1,lon1 = to_bearing(lat,lon,np.deg2rad(45),radius)
+    lat2,lon2 = to_bearing(lat,lon,np.deg2rad(225),radius)
+    minx=np.min((lon1,lon2))
+    maxx=np.max((lon1,lon2))
+    miny=np.min((lat1,lat2))
+    maxy=np.max((lat1,lat2))
+    today = datetime.datetime.now()
+    start = today - datetime.timedelta(days=ago)
+
+    req = 'https://earthquake.usgs.gov/fdsnws'
+    req+='/event/1/query.geojson?starttime=%s&endtime=%s'
+    req+='&minlatitude=%d&maxlatitude=%d&minlongitude=%d&maxlongitude=%d'
+    req+='&minmagnitude=1.0&orderby=time&limit=3000'
+    req = req % (start.isoformat(), today.isoformat(),miny,maxy,minx,maxx)
+    qr = requests.get(req).json()
+    res = []
+    for i in range(len(qr['features'])):
+        lat = qr['features'][i]['geometry']['coordinates'][1]
+        lon = qr['features'][i]['geometry']['coordinates'][0]
+        d = datetime.datetime.fromtimestamp(qr['features'][i]['properties']['time']/1000.0)
+        s = np.float(qr['features'][i]['properties']['mag'])
+        sd = d.strftime("%Y-%m-%d %H:%M:%S")
+        d = datetime.datetime.fromtimestamp(qr['features'][i]['properties']['time']/1000.0)
+        diff = (today-d).days+1
+        res.append([sd,s,lat,lon,diff])
+
+    df = pd.DataFrame(res).sort_values(by=0)
+    df.columns = ['date','mag','lat','lon','ago']
+    df = df.set_index('date')    
+    return df
+
+def sm_plot_list1(clat, clon, zoom, data):
+    offsets = [[random.randint(-60,60), random.randint(-60,60)] for i in range(len(data))]
     sm.plot_countries(clat,clon,zoom)
-    for row in data:
+    for i,row in enumerate(data):
        lat,lon = float(row[1]),float(row[2])
        label = row[0]
-       style = (offset,-offset)
+       style = tuple(offsets[i])
        plt.annotate(
          label, 
          xy = (lon, lat), xytext = style,
@@ -293,3 +327,15 @@ def pixel_coord(refcoord, refpixel,pixels):
     mlon = (refcoord[1,1]-refcoord[0,1]) / (refpixel[1,0]-refpixel[0,0])
     cs = [ [ refcoord[0,0]+(y-refpixel[0,1])*mlat, refcoord[0,1]+(x-refpixel[0,0])*mlon ] for x,y in pixels ]
     return cs
+
+def to_bearing(lat,lon,brng,d):
+    R = 6378.1 #Radius of the Earth
+    lat1 = math.radians(lat)
+    lon1 = math.radians(lon)
+    lat2 = math.asin( math.sin(lat1)*math.cos(d/R) +
+         math.cos(lat1)*math.sin(d/R)*math.cos(brng))
+    lon2 = lon1 + math.atan2(math.sin(brng)*math.sin(d/R)*math.cos(lat1),
+                 math.cos(d/R)-math.sin(lat1)*math.sin(lat2))
+    lat2 = math.degrees(lat2)
+    lon2 = math.degrees(lon2)
+    return lat2,lon2
