@@ -84,8 +84,8 @@ and back - 466 times"
 
 ---
 
-But overall a lot of hardware seems parked stateside and Japan, not a
-war footing TBH.
+But overall a lot of hardware is parked stateside and Japan, not a war-time
+mobilization.
 
 [[-]](2019/05/usmil.html#navy)
 
