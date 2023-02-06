@@ -45,11 +45,6 @@ its surface"
 
 ---
 
-Informed Comment: "Supreme Court Justices party at $25,000-a-head
-Soirees with Corporations that have cases before the Court"
-
----
-
 TASS: "Lithuanian imports of Russian LPG rise 8.5-fold in 2022"
 
 ---
