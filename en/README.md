@@ -29,7 +29,7 @@ stack to a third of what it is now, he said"
 ---
 
 This new age of durability can help prev shared poultry mix to last
-longer... it's good
+longer... good
 
 ---
 
