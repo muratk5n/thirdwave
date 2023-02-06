@@ -37,7 +37,7 @@ Yogurt used to go bad, now it doesn't. Seriously it'll stay for weeeks
 and still good esp certain brands.. Read some of the processing they
 do, heat, cool, add yeast, heat, cool, goes on and on.. I guess
 whatever bacteria is in there gets smacked around really bad. Mfkers
-are like f.. this man Im outa here,
+are like f.. this Im outa here,
 
 ---
 
