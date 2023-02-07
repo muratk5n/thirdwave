@@ -18,7 +18,7 @@ interview"
 
 ---
 
-:) "the energy in the room felt vaguely like the end of a Zoom meeting"
+:) "The energy in the room felt vaguely like the end of a Zoom meeting"
 
 ---
 
