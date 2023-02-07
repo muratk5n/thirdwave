@@ -95,8 +95,8 @@ that. Served, and now out; but she's young might come back who knows..
 
 Prev PM was careful around this issue too
 
-"New Zealand not to participate in AUKUS partnership, [new] PM Hipkins
-reaffirms"
+TASS: "New Zealand not to participate in AUKUS partnership, [new] PM
+Hipkins reaffirms"
 
 ---
 
