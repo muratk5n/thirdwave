@@ -1,6 +1,4 @@
 
-
-
 "@carnage4life@mas.to
 
 Did a half empty plot of commercial real estate write this?"
@@ -108,7 +106,7 @@ A Richter 7.5 and 7.8 within a day???
 
 ---
 
-Earthquake
+TR earthquake
 
 ```python
 df = u.eq_at(lat=38,lon=39,radius=300,ago=10)
