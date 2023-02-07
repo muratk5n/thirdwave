@@ -89,11 +89,11 @@ the Office of Hydrogen Power in South Australia"
 
 I thought Ardern was ok.. had child mid term prob got stressed out due
 to work-life, quit to spend time w kid, there is no shame in
-that. Served for yrs, and young anyway
+that. Served, and now out; but she's young might come back who knows..
 
 ---
 
-Prev PM was not anti-CH either
+Prev PM was careful around this issue too
 
 "New Zealand not to participate in AUKUS partnership, [new] PM Hipkins
 reaffirms"
