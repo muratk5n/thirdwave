@@ -50,7 +50,7 @@ TASS: "Lithuanian imports of Russian LPG rise 8.5-fold in 2022"
 
 ---
 
-<img width='340' src='mbl/2023/toot_oz.jpg'/> 
+<img width='340' src='toot_oz.jpg'/> 
 
 ---
 
@@ -83,7 +83,7 @@ and back - 466 times"
 But overall a lot of hardware is parked stateside and Japan, not a war-time
 mobilization.
 
-[[-]](2019/05/usmil.html#navy)
+[[-]](../../2019/05/usmil.html#navy)
 
 ---
 
@@ -93,7 +93,7 @@ One carrier is at a Greek port
 df = u.usnavy(); u.sm_plot_list1(38, 24, 2.0, np.array(df[['name','lat','lon']]))
 ```
 
-<img width='340' src='mbl/2023/agean1.jpg'/> 
+<img width='340' src='agean1.jpg'/> 
 
 ---
 
