@@ -40,7 +40,7 @@ Texas, investing $1.8bn"
 
 ---
 
-Company Site: "Linde to Increase Green Hydrogen Production in California"
+"Linde to Increase Green Hydrogen Production in California"
 
 ---
 
