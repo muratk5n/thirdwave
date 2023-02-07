@@ -106,7 +106,7 @@ A Richter 7.5 and 7.8 within a day???
 
 ---
 
-TR earthquake
+Earthquake \#TR
 
 ```python
 df = u.eq_at(lat=38,lon=39,radius=300,ago=10)
