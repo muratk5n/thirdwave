@@ -118,7 +118,7 @@ plt.text(37.355759, 37.05983787,'Gaziantep')
 plt.text(37.170340, 36.19170861,'Aleppo')
 ```
 
-[[-]](mbl/2023/treq1.jpg)
+<img width='340' src='mbl/2023/treq1.jpg'/>
 
 ---
 
