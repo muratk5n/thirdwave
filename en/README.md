@@ -62,7 +62,7 @@ tax on corporate stock buybacks, the White House said Monday"
 
 ---
 
-Why ChatGPT won't kill journalism | Media Watch
+Why ChatGPT won't kill journalism - Media Watch
 
 [[-]](https://youtu.be/--rFxctTLrg?t=549)
 
