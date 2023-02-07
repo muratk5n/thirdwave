@@ -2,6 +2,8 @@
 
 By Ilan Pappe
 
+<a name='samejew'/>
+
 ### Myth: The Jews Were a People Without Land
 
 The claim .. is that Palestine was a land without people, goes hand in

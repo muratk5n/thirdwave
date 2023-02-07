@@ -85,7 +85,11 @@ issued a statement demanding that Israel allow it to assist victims of
 the conflict because the Israeli military had blocked access to
 wounded Palestinians – a war crime under international law [..]
 
-U.S. financial support for Israel surpasses $3 billion annually. When Israel waged a war to punish the defenseless civilian population of Gaza, its pilots flew U.S.-made F-16 fighter-bombers and Apache helicopter gunships, dropping U.S.-made bombs, including the use of white phosphorus munitions in violation of international law.
+U.S. financial support for Israel surpasses $3 billion annually. When
+Israel waged a war to punish the defenseless civilian population of
+Gaza, its pilots flew U.S.-made F-16 fighter-bombers and Apache
+helicopter gunships, dropping U.S.-made bombs, including the use of
+white phosphorus munitions in violation of international law.
 
 U.S. diplomatic support for Israeli crimes includes its use of the
 veto power in the U.N. Security Council. When Israel was waging a

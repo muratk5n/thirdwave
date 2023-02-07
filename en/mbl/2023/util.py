@@ -322,7 +322,7 @@ refpixel=np.array([[px1,py1],[px2,py2]])
 pixels = [..] 
 coords = u.pixel_coord(refcoord, refpixel,pixels)
 """
-def pixel_coord(refcoord, refpixel,pixels):
+def pixel_coord(refcoord, refpixel, pixels):
     mlat = (refcoord[1,0]-refcoord[0,0]) / (refpixel[1,1]-refpixel[0,1])
     mlon = (refcoord[1,1]-refcoord[0,1]) / (refpixel[1,0]-refpixel[0,0])
     cs = [ [ refcoord[0,0]+(y-refpixel[0,1])*mlat, refcoord[0,1]+(x-refpixel[0,0])*mlon ] for x,y in pixels ]

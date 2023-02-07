@@ -1,102 +1,124 @@
 
-WaPo: "The Big Tech companies that won dominance of the internet
-brought in billions of dollars a year, spending it on eye-popping
-salaries, gleaming offices and constant acquisition of smaller
-companies.
 
-But the past year of rising interest rates and falling stock prices
-has shaken the industry, along with the San Francisco Bay region it
-dominates. Now, tens of thousands of layoffs from Google, Microsoft,
-Amazon, Facebook and dozens of other companies have made it clear: The
-golden age is over. Speeches about austerity have replaced the
-free-flowing stock grants and free sushi lunches"
+
+"@carnage4life@mas.to
+
+Did a half empty plot of commercial real estate write this?"
+
+[[-]](https://media.mas.to/masto-public/media_attachments/files/109/810/150/434/890/652/original/9f5d93fa3aec10c5.jpeg)
 
 ---
 
-ABC News: "Honda is expanding the use of hydrogen to trucks and
-construction equipment, electricity for buildings and even in outer
-space, not just cars on roads..  [The company] plans a new fuel cell
-vehicle for sale next year, packed with a fuel cell stack developed
-with General Motors Co. of the U.S., its general manager, Testsuya
-Hasebe, told reporters..  That will lower the cost of the fuel cell
-stack to a third of what it is now, he said"
+"@eunews@mstodon.eu
+
+Africa is likely to be Europe's most important partner as it looks to
+increase its renewable energy supply and switch to green hydrogen, EU
+climate chief Frans Timmermans told EURACTIV in an exclusive
+interview"
 
 ---
 
-This new age of durability can help prev shared poultry mix to last
-longer... good
+:) "the energy in the room felt vaguely like the end of a Zoom meeting"
 
 ---
 
-Yogurt used to go bad, now it doesn't. Seriously it'll stay for weeeks
-and still good esp certain brands.. Read some of the processing they
-do, heat, cool, add yeast, heat, cool, goes on and on.. I guess
-whatever bacteria is in there gets smacked around really bad. Mfkers
-are like f.. this Im outa here.
+H2 Central: "Mitsubishi Shipbuilding and INPEX Complete Conceptual
+Study for Ammonia Bunkering Vessel"
 
 ---
-
-Phys.org: "[Adelaide Professors Shizhang Qiao Yao Zheng] 'We have
-split natural seawater into oxygen and hydrogen with nearly 100
-percent efficiency, to produce green hydrogen by electrolysis, using a
-non-precious and cheap catalyst in a commercial electrolyzer'. A
-typical non-precious catalyst is cobalt oxide with chromium oxide on
-its surface"
-
----
-
-TASS: "Lithuanian imports of Russian LPG rise 8.5-fold in 2022"
-
----
-
-<img width='340' src='mbl/2023/toot_oz.jpg'/> 
-
----
-
-"[A]s of 2023, open source really has won. There are more Unix-like
-OSes than ever, and some very un-Unix-like OSes which are highly
-compatible with it, but the official line [about Unix's death] is, to
-all intents and purposes, dead and gone. All the proprietary,
-commercial Unixes are now on life support: they will get essential bug
-fixes and security updates, but we won't be seeing any major new
-releases.
-
-Send flowers. ®"
-
-[[-]](https://www.theregister.com/2023/01/17/unix_is_dead/)
-
----
-
-"@digiconomist@mastodon.nl
-
-.. Yesterday Bitcoin mining company Luxor mined the largest block ever,
-containing almost exactly 4MB of data. Only 63 transactions could fit
-into the block, as the NFT used up the rest of the available space
-
-The carbon footprint: ~888 metric tons of CO2, equivalent to the per
-passenger carbon footprint of taking a flight from New York to Tokyo
-and back - 466 times"
-
----
-
-But overall a lot of hardware is parked stateside and Japan, not a war-time
-mobilization.
-
-[[-]](2019/05/usmil.html#navy)
-
----
-
-One carrier is at a Greek port
 
 ```python
-df = u.usnavy(); u.sm_plot_list1(38, 24, 2.0, np.array(df[['name','lat','lon']]))
+u.biz_stock_plot(2020,"LIN")
 ```
 
-<img width='340' src='mbl/2023/agean1.jpg'/> 
+<img width='340' src='mbl/2023/linde1.jpg'/> 
 
 ---
 
-Some groups in TR are in a tizzy on US warships - one docked in Stanpoli?
+H2 View: "Linde to supply hydrogen to OCI’s blue ammonia plant in
+Texas, investing $1.8bn"
+
+---
+
+Company Site: "Linde to Increase Green Hydrogen Production in California"
+
+---
+
+"@Hypx@mastodon.social
+
+John Cockerill Records India’s Largest 140MW Electrolysers Order from
+Greenko for the First Indian Green Ammonia Plant"
+
+---
+
+CNBC: "[2019] Sen Marco Rubio takes aim at stock buybacks"
+
+[[-]](https://www.cnbc.com/2019/02/12/rubio-backs-new-proposal-to-tackle-stock-buybacks.html)
+
+---
+
+Market Watch: "Biden on Tuesday night will call for quadrupling the
+tax on corporate stock buybacks, the White House said Monday"
+
+---
+
+Why ChatGPT won't kill journalism | Media Watch
+
+[[-]](https://youtu.be/--rFxctTLrg?t=549)
+
+---
+
+Euractiv: "Nine EU countries want low-carbon hydrogen included in
+bloc's renewables goals"
+
+---
+
+Reuters: "France leads push for EU to boost nuclear-produced hydrogen"
+
+---
+
+Renew Economy: "South Australian government.. intends to build a 250MW
+hydrogen electrolyser – 10 times bigger than any other operating plant
+in the world – to feed into a 200MW hydrogen power plant, which would
+also be the biggest in the world.
+
+The man in charge of this ambitious project is Sam Crafter, the CEO of
+the Office of Hydrogen Power in South Australia"
+
+---
+
+I thought Ardern was ok.. had child mid term prob got stressed out due
+to work-life, quit to spend time w kid, there is no shame in
+that. Served for yrs, and young anyway
+
+---
+
+Prev PM was not anti-CH either
+
+"New Zealand not to participate in AUKUS partnership, [new] PM Hipkins
+reaffirms"
+
+---
+
+*Plane* with G. Butler, M. Colter - great movie.
+
+---
+
+A Richter 7.5 and 7.8 within a day???
+
+---
+
+Earthquake
+
+```python
+df = u.eq_at(lat=38,lon=39,radius=300,ago=10)
+df = df[df.mag > 6.0]
+u.sm_plot_list1(38, 39, 0.5, np.array(df[['mag','lat','lon']]))
+plt.text(37.355759, 37.05983787,'Gaziantep')
+plt.text(37.170340, 36.19170861,'Aleppo')
+```
+
+[[-]](mbl/2023/treq1.jpg)
 
 ---
 
