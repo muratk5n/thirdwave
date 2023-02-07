@@ -34,7 +34,7 @@ generation system as part of the France Relance (France Relaunch) plan
 with the support of the French Civil Aviation Authority (Direction
 Générale de l’Aviation Civile)"
 
-<img width='340' src='mbl/2023/h2_stock_1.jpeg'/> 
+<img width='340' src='h2_stock_1.jpeg'/> 
 
 ---
 
