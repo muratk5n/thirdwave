@@ -1,9 +1,9 @@
 
-"PowerCell has joined the Newborn project, part of EU’s Clean Aviation
-Joint Undertaking, that aims to develop environmentally sustainable
-aviation... The EU´s Clean Aviation Joint Undertaking encompasses a
-total of 20 projects with a budget exceeding EUR 700 million and aims
-to support the EU Green Deal."
+H2 Central: "PowerCell has joined the Newborn project, part of EU’s
+Clean Aviation Joint Undertaking, that aims to develop environmentally
+sustainable aviation... The EU´s Clean Aviation Joint Undertaking
+encompasses a total of 20 projects with a budget exceeding EUR 700
+million and aims to support the EU Green Deal."
 
 ---
 
