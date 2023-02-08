@@ -1,122 +1,113 @@
 
-"@carnage4life@mas.to
-
-Did a half empty plot of commercial real estate write this?"
-
-[[-]](https://media.mas.to/masto-public/media_attachments/files/109/810/150/434/890/652/original/9f5d93fa3aec10c5.jpeg)
-
----
-
-"@eunews@mstodon.eu
-
-Africa is likely to be Europe's most important partner as it looks to
-increase its renewable energy supply and switch to green hydrogen, EU
-climate chief Frans Timmermans told EURACTIV in an exclusive
-interview"
+"PowerCell has joined the Newborn project, part of EU’s Clean Aviation
+Joint Undertaking, that aims to develop environmentally sustainable
+aviation... The EU´s Clean Aviation Joint Undertaking encompasses a
+total of 20 projects with a budget exceeding EUR 700 million and aims
+to support the EU Green Deal."
 
 ---
 
-:) "The energy in the room felt vaguely like the end of a Zoom meeting"
+He's here
+
+<img width='340' src='mbl/2023/riker1_toot.jpg'/> 
 
 ---
 
-H2 Central: "Mitsubishi Shipbuilding and INPEX Complete Conceptual
-Study for Ammonia Bunkering Vessel"
+When region geo points are not available, what do we do? Reverse-eng
+from images, as in pictures of that area... Little UI displays img,
+captures pixel click on it, trace area on that nanually, collect pixel
+data, w/ two pixel-geo ref points reverse-eng geo coordinates. Easy as
+Py.
 
 ---
+
+The Azeris had some  help from the poodle, and the poodle's poodle.
+
+---
+
+After the 2020 war they lost all the surrounding areas and some of NK,
+now down to the yellow area, Russkie peacekeepers are all around that
+region plus guarding the Lachin crossing (red line).
 
 ```python
-u.biz_stock_plot(2020,"LIN")
+u.sm_plot_azearm3()
 ```
 
-<img width='340' src='mbl/2023/linde1.jpg'/> 
+[[-]](mbl/2023/azearm3.jpg)
 
 ---
 
-H2 View: "Linde to supply hydrogen to OCI’s blue ammonia plant in
-Texas, investing $1.8bn"
-
----
-
-"Linde to Increase Green Hydrogen Production in California"
-
----
-
-"@Hypx@mastodon.social
-
-John Cockerill Records India’s Largest 140MW Electrolysers Order from
-Greenko for the First Indian Green Ammonia Plant"
-
----
-
-CNBC: "[2019] Sen Marco Rubio takes aim at stock buybacks"
-
-[[-]](https://www.cnbc.com/2019/02/12/rubio-backs-new-proposal-to-tackle-stock-buybacks.html)
-
----
-
-Market Watch: "Biden on Tuesday night will call for quadrupling the
-tax on corporate stock buybacks, the White House said Monday"
-
----
-
-Why ChatGPT won't kill journalism - Media Watch
-
-[[-]](https://youtu.be/--rFxctTLrg?t=549)
-
----
-
-Euractiv: "Nine EU countries want low-carbon hydrogen included in
-bloc's renewables goals"
-
----
-
-Reuters: "France leads push for EU to boost nuclear-produced hydrogen"
-
----
-
-Renew Economy: "South Australian government.. intends to build a 250MW
-hydrogen electrolyser – 10 times bigger than any other operating plant
-in the world – to feed into a 200MW hydrogen power plant, which would
-also be the biggest in the world.
-
-The man in charge of this ambitious project is Sam Crafter, the CEO of
-the Office of Hydrogen Power in South Australia"
-
----
-
-I thought Ardern was ok.. had child mid term prob got stressed out due
-to work-life, quit to spend time w kid, there is no shame in
-that. Served, and now out; but she's young might come back who knows..
-
----
-
-Prev PM was careful around this issue too
-
-TASS: "New Zealand not to participate in AUKUS partnership, [new] PM
-Hipkins reaffirms"
-
----
-
-*Plane* with G. Butler, M. Colter - great movie.
-
----
-
-A Richter 7.5 and 7.8 within a day???
-
----
-
-Earthquake \#TR
+ARM had areas around NK too (in pink). 
 
 ```python
-df = u.eq_at(lat=38,lon=39,radius=300,ago=10)
-df = df[df.mag > 6.0]
-u.sm_plot_list1(38, 39, 0.5, np.array(df[['mag','lat','lon']]))
-plt.text(37.355759, 37.05983787,'Gaziantep')
-plt.text(37.170340, 36.19170861,'Aleppo')
+u.sm_plot_azearm1()
 ```
 
-<img width='340' src='mbl/2023/treq1.jpg'/>
+<img width='340' src='mbl/2023/azearm2.jpg'/> 
+
+---
+
+2020 AZE-ARM fighting was pretty bad - over Nagarn-Karabakh. NK is
+outlined below.
+
+```python
+u.sm_plot_azearm1()
+```
+
+[[-]](mbl/2023/azearm1.jpg)
+
+---
+
+Have to pick dried vegs carefully; beet root, dried mangold.. Carrots
+are good for eyesight, but its high potass will cause sleepiness,
+beets are fine. Spinach is great, but high on iron.. mangold is
+blander.
+
+---
+
+Left Voice: "Everything You Need to Know About Sahra Wagenknecht’s
+'Left Conservatism'.. Die Linke has a program calling for 'open
+borders.'  Wagenknecht became convinced that this — and this alone —
+was why her party was losing support in the East, where it was once a
+Volkspartei, a mass party.. [Her book] is a 345-page diatribe against
+what she calls 'identity politics' [that] 'amounts to focusing on ever
+smaller and ever more bizarre minorities, each of which finds an
+identity in some quirk which distinguishes it from the majority of
+society, and from which it derives the claim to victimhood'"
+
+---
+
+"Die Linke politician [Wagenknecht].. is rumoured to be planning a
+breakaway party.. In her bestselling book [.. she] accused Die Linke
+of having neglected 'ordinary people' in favour of what she refers to
+as a city-dwelling 'academic clientele'. She says its preoccupation
+with issues such as 'gender-conscious language and pricey organic
+products' rather than bread-and-butter issues such as 'fighting low
+pay' has made it a stranger to its grassroots working-class support
+base... Polls show her chances of succeeding as head of a new party to
+be good... Among [right-wing] AfD voters the interest was a staggering
+68%"
+
+---
+
+[Link](2023/02/keiser-unrigged.html)
+
+---
+
+Bloomberg: "[2018] Russia Supports Political Role for Qaddafi's Wanted
+Son in Libya"
+
+---
+
+That's a good catch by WION, AK came to power on the back of public
+discontent around the earlier 99 earthquake.. They mention the AK era
+construction craze too... 
+
+---
+
+TR earthquakes - who is to blame? \#WION
+
+[[-]](https://youtu.be/dA4LIcRpavQ?t=73)
 
 ---
 
