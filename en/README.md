@@ -16,7 +16,7 @@ He's here
 When region geo points are not available, what do we do? Reverse-eng
 from images, as in pictures of that area... Custom UI displays img,
 captures clicks on it, trace area on that manually, get pixel data, w/
-two pixel-geo ref points reverse-eng geo coordinates. Easy as Py.
+two pixel-geo ref points reverse-engineer geo coordinates. Easy as Py.
 
 ---
 
@@ -100,7 +100,7 @@ Son in Libya"
 
 That's a good catch by WION, AK came to power on the back of public
 discontent around the earlier 99 earthquake.. They mention the AK era
-construction craze too... 
+construction craze, also accurate.
 
 ---
 
