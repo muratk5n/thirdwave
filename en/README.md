@@ -39,7 +39,7 @@ u.sm_plot_azearm3()
 ARM had areas around NK too (in pink). 
 
 ```python
-u.sm_plot_azearm1()
+u.sm_plot_azearm2()
 ```
 
 <img width='340' src='mbl/2023/azearm2.jpg'/> 
