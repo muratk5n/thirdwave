@@ -387,9 +387,9 @@ models across every sector [..]
 Three of the four largest companies in the world today are oil
 companies—Royal Dutch Shell, Exxon Mobil, and BP. Underneath these
 giant energy companies are some five hundred global companies
-representing every sector and industry—with a combined revenue of
-$22.5 trillion, which is the equivalent of one-third of the world’s
-$62 trillion GDP—that are inseparably connected to and dependent on
+representing every sector and industry—with a combined revenue of 22.5
+trillion dollars, which is the equivalent of one-third of the world’s
+62 trillion dol GDP—that are inseparably connected to and dependent on
 fossil fuels for their very survival.
 
 Jeez
