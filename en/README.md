@@ -14,10 +14,9 @@ He's here
 ---
 
 When region geo points are not available, what do we do? Reverse-eng
-from images, as in pictures of that area... Little UI displays img,
-captures pixel click on it, trace area on that nanually, collect pixel
-data, w/ two pixel-geo ref points reverse-eng geo coordinates. Easy as
-Py.
+from images, as in pictures of that area... Custom UI displays img,
+captures clicks on it, trace area on that manually, get pixel data, w/
+two pixel-geo ref points reverse-eng geo coordinates. Easy as Py.
 
 ---
 
