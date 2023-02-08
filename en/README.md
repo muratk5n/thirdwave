@@ -58,9 +58,9 @@ u.sm_plot_azearm1()
 ---
 
 Have to pick dried vegs carefully; beet root, dried mangold.. Carrots
-are good for eyesight, but its high potassium is too relaxing, beets
-are perfect. Spinach is fine, but too high on iron.. mangold is bland,
-just as rich in vita.
+are good for eyesight, but its high potassium will create tiredness,
+beets are perfect. Spinach is fine, but too high on iron.. mangold is
+bland, just as rich in vita.
 
 ---
 
