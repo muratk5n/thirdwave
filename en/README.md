@@ -38,8 +38,8 @@ optimized for dogfighting,’ according to the Air Force"
 
 "@carnage4life@mas.to
 
-180,000 users have paid for [TWTR] blue checks in the past two months
-which will generate under $25M/year for Twitter. This is a drop in the
+180,000 users have paid for blue checks in the past two months which
+will generate under $25M/year for Twitter. This is a drop in the
 bucket for their revenue goals and less than 0.5% of pre-acquisition
 revenue.
 
