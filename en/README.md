@@ -29,10 +29,10 @@ There've been some pushback against this view recently coupled with
 better numbers at dogfighting, but, interesting ..  Smoke coming out
 of a fire, or just smoke.. as in somebody's blowing it
 
-TDB: "Air Force Admits: Our New Stealth Fighter Can’t Fight.. The F-35
-Joint Strike Fighter is supposed to replace almost 90 percent of
-America’s tactical aviation fleet. Too bad it ‘wasn’t optimized for
-dogfighting,’ according to the Air Force"
+TDB: "[2015] Air Force Admits: Our New Stealth Fighter Can’t
+Fight.. The F-35 Joint Strike Fighter is supposed to replace almost 90
+percent of America’s tactical aviation fleet. Too bad it ‘wasn’t
+optimized for dogfighting,’ according to the Air Force"
 
 ---
 
