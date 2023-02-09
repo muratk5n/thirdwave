@@ -20,7 +20,8 @@ solution, we merely needed a clean one \#H2 \#NH3
 ---
 
 Still the total projected cost of F-35 project is at $1.7 trillion.
-That's a lot of money.
+That's a lot of money... I suspect price-performance ratio of this
+project is pretty high.
 
 ---
 
