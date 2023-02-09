@@ -41,8 +41,8 @@ Also revenue is down -40% since acquisition"
 
 ---
 
-Currently someone is running a server at `router.project-osrm.org`
-with all of OSM's data. After the apocalypse you'll be running that
+Right now there is a running server at `router.project-osrm.org` with
+all of OSM's data. After the apocalypse you'll be running that
 locally. It's easy.
 
 ---
