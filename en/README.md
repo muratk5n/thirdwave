@@ -19,6 +19,11 @@ solution, we merely needed a clean one \#H2 \#NH3
 
 ---
 
+Still the total projected cost of F-35 project is at $1.7 trillion.
+That's a lot of money.
+
+---
+
 There've been some pushback against this view recently coupled with
 better numbers at dogfighting, but, interesting ..  Smoke coming out
 of a fire, or just smoke.. as in somebody's blowing it
