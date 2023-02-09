@@ -1,112 +1,101 @@
 
-H2 Central: "PowerCell has joined the Newborn project, part of EU’s
-Clean Aviation Joint Undertaking, that aims to develop environmentally
-sustainable aviation... The EU´s Clean Aviation Joint Undertaking
-encompasses a total of 20 projects with a budget exceeding EUR 700
-million and aims to support the EU Green Deal."
+Sad \#OpenGraph
+
+[[-]](https://mastodon.social/@MikeBlazer/109828086651109401)
 
 ---
 
-He's here
+"@raito@nixos.paris
 
-<img width='340' src='mbl/2023/riker1_toot.jpg'/> 
+Presented without comments"
 
----
-
-When region geo points are not available, what do we do? Reverse-eng
-from images, as in pictures of that area... Custom UI displays img,
-captures clicks on it, trace area on that manually, get pixel data, w/
-two pixel-geo ref points reverse-engineer geo coordinates. Easy as Py.
+[[-]](https://nixos.paris/system/media_attachments/files/109/807/131/196/194/594/original/b451cc8794dda6cb.png)
 
 ---
 
-The Azeris had some  help from the poodle, and the poodle's poodle.
+Electrification mantra was foolish an idea marketed as a new solution
+simply bcz it sounded contrarian. Fuels were always the optimal
+solution, we merely needed a clean one \#H2 \#NH3
 
 ---
 
-After the 2020 war they lost all the surrounding areas and some of NK,
-now down to the yellow area, Russkie peacekeepers are all around that
-region plus guarding the Lachin crossing (red line).
+There've been some pushback against this view recently coupled with
+better numbers at dogfighting, but, interesting ..  Smoke coming out
+of a fire, or just smoke.. as in somebody's blowing it
+
+TDB: "Air Force Admits: Our New Stealth Fighter Can’t Fight.. The F-35
+Joint Strike Fighter is supposed to replace almost 90 percent of
+America’s tactical aviation fleet. Too bad it ‘wasn’t optimized for
+dogfighting,’ according to the Air Force"
+
+---
+
+"@carnage4life@mas.to
+
+180,000 users have paid for blue checks in the past two months which
+will generate under $25M/year for Twitter. This is a drop in the
+bucket for their revenue goals and less than 0.5% of pre-acquisition
+revenue.
+
+Also revenue is down -40% since acquisition"
+
+---
+
+Currently someone is running a server at `router.project-osrm.org`
+with all of OSM's data. After the apocalypse you'll be running that
+locally. It's easy.
+
+---
+
+Driving from Boston to Wyoming..? For f sake
 
 ```python
-u.sm_plot_azearm3()
+import requests, json, polyline, folium
+
+lat1,lon1 = (42.36880059119,-71.141522762)
+lat2,lon2 = (41.125673090,-104.835825219)
+url = f'http://router.project-osrm.org/route/v1/driving/' + \
+      f'{lon1},{lat1};{lon2},{lat2}?alternatives=false&steps=false'
+response = requests.get(url, verify=False)
+resp = json.loads(response.text)
+decoded = polyline.decode(resp["routes"][0]['geometry'])
+map = folium.Map(location=(lat1,lon1),zoom_start=5,control_scale=True)
+folium.PolyLine(locations=decoded, color="blue").add_to(map)
 ```
 
-[[-]](mbl/2023/azearm3.jpg)
+[Directions](mbl/2023/bos_wyo_dir1.html)
 
 ---
 
-ARM had areas around NK too (in pink). 
-
-```python
-u.sm_plot_azearm2()
-```
-
-<img width='340' src='mbl/2023/azearm2.jpg'/> 
+For mobile Unix compting A Raspberry Pi will do - power it up with
+solar, run micro web server on it access thru local wifi / smartphone
+hotspot, view pages served from Pi on the phone's browser.
 
 ---
 
-2020 AZE-ARM fighting was pretty bad - over Nagarn-Karabakh. NK is
-outlined below.
-
-```python
-u.sm_plot_azearm1()
-```
-
-[[-]](mbl/2023/azearm1.jpg)
+OSM data is produced by volunteer contributors. Freely available,
+anyone can contribute.
 
 ---
 
-Have to pick dried vegs carefully; beet root, dried mangold.. Carrots
-are good for eyesight, but its high potassium will create tiredness,
-beets are perfect. Spinach is fine, but too high on iron.. mangold is
-bland, just as rich in vita.
+Getting stuck with paper maps after the Zombie Apocalypse? C'mon. To
+get ready for that aftermath, need a recent copy of all the files
+[here](http://download.geofabrik.de/). There is open source software
+that can read those files, it can extract the road network, compute
+driving directions, report on POIs from it.. The files aren't too
+sizeable, compared to the value they can provide.
 
 ---
 
-Left Voice: "Everything You Need to Know About Sahra Wagenknecht’s
-'Left Conservatism'.. Die Linke has a program calling for 'open
-borders.'  Wagenknecht became convinced that this — and this alone —
-was why her party was losing support in the East, where it was once a
-Volkspartei, a mass party.. [Her book] is a 345-page diatribe against
-what she calls 'identity politics' [that] 'amounts to focusing on ever
-smaller and ever more bizarre minorities, each of which finds an
-identity in some quirk which distinguishes it from the majority of
-society, and from which it derives the claim to victimhood'"
+<iframe width="340" src="https://www.youtube.com/embed/bP5dkR6QQj8?start=169&end=325" title="Jimmy Dore Brings ANTI-WAR Message To Fox News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-"Die Linke politician [Wagenknecht].. is rumoured to be planning a
-breakaway party.. In her bestselling book [.. she] accused Die Linke
-of having neglected 'ordinary people' in favour of what she refers to
-as a city-dwelling 'academic clientele'. She says its preoccupation
-with issues such as 'gender-conscious language and pricey organic
-products' rather than bread-and-butter issues such as 'fighting low
-pay' has made it a stranger to its grassroots working-class support
-base... Polls show her chances of succeeding as head of a new party to
-be good... Among [right-wing] AfD voters the interest was a staggering
-68%"
+E&E News: "Census: Disasters displaced more than 3M Americans in 2022"
 
 ---
 
-[Link](2023/02/keiser-unrigged.html)
-
----
-
-Bloomberg: "[2018] Russia Supports Political Role for Qaddafi's Wanted
-Son in Libya"
-
----
-
-That's a good catch by WION, AK came to power on the back of public
-discontent around the earlier 99 earthquake.. They mention the AK era
-construction craze, also accurate.
-
----
-
-TR earthquakes - who is to blame? \#WION
-
-[[-]](https://youtu.be/dA4LIcRpavQ?t=73)
+FT: "Alphabet shares fall sharply after Google's AI chatbot debut stumbles"
 
 ---
 
