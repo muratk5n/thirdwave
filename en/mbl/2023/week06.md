@@ -1,6 +1,5 @@
 # Week 6
 
-
 H2 Central: "PowerCell has joined the Newborn project, part of EU’s
 Clean Aviation Joint Undertaking, that aims to develop environmentally
 sustainable aviation... The EU´s Clean Aviation Joint Undertaking
@@ -11,7 +10,7 @@ million and aims to support the EU Green Deal."
 
 He's here
 
-<img width='340' src='mbl/2023/riker1_toot.jpg'/> 
+<img width='340' src='riker1_toot.jpg'/> 
 
 ---
 
@@ -34,7 +33,7 @@ region plus guarding the Lachin crossing (red line).
 u.sm_plot_azearm3()
 ```
 
-[[-]](mbl/2023/azearm3.jpg)
+[[-]](azearm3.jpg)
 
 ---
 
@@ -44,7 +43,7 @@ ARM had areas around NK too (in pink).
 u.sm_plot_azearm2()
 ```
 
-<img width='340' src='mbl/2023/azearm2.jpg'/> 
+<img width='340' src='azearm2.jpg'/> 
 
 ---
 
@@ -55,7 +54,7 @@ outlined below.
 u.sm_plot_azearm1()
 ```
 
-[[-]](mbl/2023/azearm1.jpg)
+[[-]](azearm1.jpg)
 
 ---
 
@@ -91,7 +90,7 @@ be good... Among [right-wing] AfD voters the interest was a staggering
 
 ---
 
-[Link](2023/02/keiser-unrigged.html)
+[Link](../../2023/02/keiser-unrigged.html)
 
 ---
 
@@ -142,7 +141,7 @@ Study for Ammonia Bunkering Vessel"
 u.biz_stock_plot(2020,"LIN")
 ```
 
-<img width='340' src='mbl/2023/linde1.jpg'/> 
+<img width='340' src='linde1.jpg'/> 
 
 ---
 
@@ -229,7 +228,7 @@ plt.text(37.355759, 37.05983787,'Gaziantep')
 plt.text(37.170340, 36.19170861,'Aleppo')
 ```
 
-<img width='340' src='mbl/2023/treq1.jpg'/>
+<img width='340' src='treq1.jpg'/>
 
 ---
 
