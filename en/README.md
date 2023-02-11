@@ -1,107 +1,109 @@
 
-Sad \#OpenGraph
 
-[[-]](https://mastodon.social/@MikeBlazer/109828086651109401)
 
----
+"An EU-backed consortium successfully installs a hydrogen gas turbine
+demonstrator at a paper mill testing site in France"
 
-"@raito@nixos.paris
-
-Presented without comments"
-
-[[-]](https://nixos.paris/system/media_attachments/files/109/807/131/196/194/594/original/b451cc8794dda6cb.png)
+[[-]](https://cordis.europa.eu/article/id/442831-advancing-the-hydrogen-way-to-renewable-electricity-supply)
 
 ---
 
-Electrification mantra was foolish an idea marketed as a new solution
-simply bcz it sounded contrarian. Fuels were always the optimal
-solution, we merely needed a clean one \#H2 \#NH3
+Raising the retirement age? It needs to be lowered, as in, down to
+18.
+
+Noone should work bcz they have to. There is plenty of f-ing money -
+govs will find it when they have to. They happily sink over a trillion
+into a lackluster fighter plane, they surely can find some for regular
+people.
 
 ---
 
-Still the total projected cost of F-35 project is at $1.7 trillion.
-That's a lot of money... I suspect price-performance ratio of this
-project is pretty high.
+That's like saying you can free yourself from the burdens of life by
+making seatbelts non-mandatory, letting the market decide, and die
+ASAP.
 
 ---
 
-There've been some pushback against this view recently coupled with
-better numbers at dogfighting, but, interesting ..  Smoke coming out
-of a fire, or just smoke.. as in somebody's blowing it
-
-TDB: "[2015] Air Force Admits: Our New Stealth Fighter Can’t
-Fight.. The F-35 Joint Strike Fighter is supposed to replace almost 90
-percent of America’s tactical aviation fleet. Too bad it ‘wasn’t
-optimized for dogfighting,’ according to the Air Force"
+French PM once said “helping everyone to free themselves through work
+is a value of the left”.. 🤣 Yeah. 
 
 ---
 
-"@carnage4life@mas.to
+Borne is supposedly from "leftist" but sadly now turned into window
+dressing for anti-left policies... The NYT piece is probably psyop
+designed to generate symphathy for ehr so we forget about protests
+against the goverment.. 
 
-180,000 users have paid for blue checks in the past two months which
-will generate under $25M/year for Twitter. This is a drop in the
-bucket for their revenue goals and less than 0.5% of pre-acquisition
-revenue.
-
-Also revenue is down -40% since acquisition"
-
----
-
-Right now there is a running server at `router.project-osrm.org` with
-all of OSM's data. After the apocalypse you'll be running that
-locally. It's easy.
+NYT: "The daughter of an Auschwitz survivor, [French PM] Élisabeth
+Borne... "
 
 ---
 
-Driving from Boston to Wyoming..? For f sake
+Getting smacked around by the granddaddy of modern linguistics.. "AI"
+people are in trouble
 
-```python
-import requests, json, polyline, folium
+"Debunking the great AI lie | Noam Chomsky, Gary Marcus, Jeremy Kahn"
 
-lat1,lon1 = (42.36880059119,-71.141522762)
-lat2,lon2 = (41.125673090,-104.835825219)
-url = f'http://router.project-osrm.org/route/v1/driving/' + \
-      f'{lon1},{lat1};{lon2},{lat2}?alternatives=false&steps=false'
-response = requests.get(url, verify=False)
-resp = json.loads(response.text)
-decoded = polyline.decode(resp["routes"][0]['geometry'])
-map = folium.Map(location=(lat1,lon1),zoom_start=5,control_scale=True)
-folium.PolyLine(locations=decoded, color="blue").add_to(map)
-```
-
-[Directions](mbl/2023/bos_wyo_dir1.html)
+[[-]](https://youtu.be/PBdZi_JtV4c?t=169)
 
 ---
 
-For mobile Unix compting A Raspberry Pi will do - power it up with
-solar, run micro web server on it access thru local wifi / smartphone
-hotspot, view pages served from Pi on the phone's browser.
+You are confusing Russia with Ukraine
+
+WSJ: "Russia Throws Soldiers Into Firing Line to Gain Inches"
 
 ---
 
-OSM data is produced by volunteer contributors. Freely available,
-anyone can contribute.
+CNBC: "Disney said it will be reorganizing into three divisions:
+Entertainment, ESPN and parks and experiences.. will slash 7,000 jobs
+from its workforce and plans to cut 5.5 billion in costs, including $3
+billion in content savings"
 
 ---
 
-Getting stuck with paper maps after the Zombie Apocalypse? C'mon. To
-get ready for that aftermath, need a recent copy of all the files
-[here](http://download.geofabrik.de/). There is open source software
-that can read those files, it can extract the road network, compute
-driving directions, report on POIs from it.. The files aren't too
-sizeable, compared to the value they can provide.
+It's not possible to be culturally Catholic in a Protestan majority
+country and vica versa. Your codes will not allow it. If you try
+you will become neurotic. This word is associated with certain subgroup
+but there is Italian neuroticism too, in quotes obviously "Italian" - same
+for Polish, and others. First generation children and their descendants
+need to understand this clearly - that fureign fuck talking shit with an
+accent is not similar to you. It's sad, but that is the truth.
 
 ---
 
-<iframe width="340" src="https://www.youtube.com/embed/bP5dkR6QQj8?start=169&end=325" title="Jimmy Dore Brings ANTI-WAR Message To Fox News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Culture is transmitted at young age, subconciously, via osmosis -
+through a land and its people, one on one, not through education,
+stories, belief, or self-declaration.
 
 ---
 
-E&E News: "Census: Disasters displaced more than 3M Americans in 2022"
+All migrants are assimilated in one generation; the Turks in Anatolia
+were no exception. Their initial culture is gone - almost nothing of
+it remains. A form of language is around due to adminstrative,
+military reasons, but that language is changed beyond recognition to
+the extent that Anatolians today cannot understand "their cousins" in
+Asia. 
 
 ---
 
-FT: "Alphabet shares fall sharply after Google's AI chatbot debut stumbles"
+Arab News: "US forces returning to Philippines to counter China
+threats..  Once-secret ammunition bunkers and barracks lay abandoned,
+empty and overrun by weeds — vestiges of.. largest overseas [US] naval
+base at Subic Bay in the northern Philippines.  But that may change in
+the near future. The US has been taking steps to [return to] the
+Philippines more than 30 years after the closure of its large bases in
+the country"
+
+---
+
+The Guardian: "Rights abuses often ‘tipping point’ for extremist
+recruitment, UN study finds"
+
+---
+
+Global Earthquake Fault Lines
+
+[[-]](2019/05/natdisaster.html#equakes)
 
 ---
 
