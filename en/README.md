@@ -33,8 +33,8 @@ when the market wants.
 
 ---
 
-French PM once said “helping everyone to free themselves through work
-is a value of the left”.. 🤣 Yeah. 
+Borne: “Helping everyone to free themselves through work is a value of
+the left”.. 🤣 Yeah.
 
 ---
 
