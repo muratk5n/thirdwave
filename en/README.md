@@ -42,7 +42,7 @@ Borne... "
 Getting smacked around by the granddaddy of modern linguistics.. "AI"
 people are in trouble
 
-"Debunking the great AI lie | Noam Chomsky, Gary Marcus, Jeremy Kahn"
+"Debunking the great AI lie - Noam Chomsky, Gary Marcus, Jeremy Kahn"
 
 [[-]](https://youtu.be/PBdZi_JtV4c?t=169)
 
