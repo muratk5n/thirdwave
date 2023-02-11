@@ -31,16 +31,16 @@ is a value of the left”.. 🤣 Yeah.
 
 Borne is supposedly from "leftist" but sadly now turned into window
 dressing for anti-left policies... The NYT piece is probably psyop
-designed to generate symphathy for ehr so we forget about protests
-against the goverment.. 
+designed to generate symphathy for her so we forget about protests
+against the goverment..
 
 NYT: "The daughter of an Auschwitz survivor, [French PM] Élisabeth
 Borne... "
 
 ---
 
-Getting smacked around by the granddaddy of modern linguistics.. "AI"
-people are in trouble
+Getting smacked around by modern linguistics expert.. "AI" people are
+in trouble
 
 "Debunking the great AI lie - Noam Chomsky, Gary Marcus, Jeremy Kahn"
 
@@ -67,8 +67,8 @@ hard to be some other thing you will become neurotic. This word is
 associated with certain subgroup but there is Italian neuroticism too,
 in quotes obviously "Italian" - same for Polish, and others. First
 generation children and their descendants need to understand this
-clearly - that fureign fuck talking shit with an accent is not similar
-to you. It's sad, but that is the truth.
+clearly - that fureign fuck talking shit with an accent (your elders)
+is not similar to you. It's sad, but that is the truth.
 
 ---
 
