@@ -50,8 +50,17 @@ for y in [2000,2005,2010,2015,2020]:
 
 ### Earthquake Stats
 
-Report below shows monthly earthquake counts (greater than 5.0 in mag)
-since 2013.
+Global Fault Lines
+
+[Data](https://github.com/GEMScienceTools/gem-global-active-faults)
+
+[Code](eqfaults.py)
+
+[Output](https://drive.google.com/uc?export=view&id=1ON81DXx_ZBxdfd2ak6MjbkkL6aXmKIAc)
+
+Monthly Report
+
+Monthly earthquake counts (greater than 5.0 in mag) since 2013.
 
 ```python
 import equake, pandas as pd
