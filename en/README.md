@@ -72,7 +72,7 @@ billion in content savings"
 
 It's not possible to be culturally Catholic in a Protestan majority
 country and vica versa. Your codes will not allow it. If you try too
-hard to be some other thing you will become neurotic. This word is
+hard to be something else, you will become neurotic. This word is
 associated with certain subgroup but there is Italian neuroticism too,
 in quotes obviously "Italian" - same for Polish, and others. First
 generation children and their descendants need to understand this
