@@ -1,10 +1,19 @@
 
+H2 Central: "The 1948 Chevrolet 3100 truck.. may look like a
+traditional hot rod on the outside, but it hides something a bit
+unconventional under the hood. While it draws juice from a
+supercharged, 6.2-liter V8, the LS3 in question is not a
+gas-guzzler. Instead of gulping gasoline to spin the wheels, the V8
+unit feeds on hydrogen..
 
+[Owner] says the hydrogen-powered V8 is capable of much more than
+that. He will be able to demonstrate that once he gets his hands on a
+set of bigger custom-made injectors.
 
-"An EU-backed consortium successfully installs a hydrogen gas turbine
-demonstrator at a paper mill testing site in France"
-
-[[-]](https://cordis.europa.eu/article/id/442831-advancing-the-hydrogen-way-to-renewable-electricity-supply)
+Once installed, they will enable the V8 to deliver between 550 to 600
+horsepower. All that with only water and steam coming out of the
+exhaust pipe? Yup, it sounds like a great and efficient way to
+keep big-displacement V8 engines alive"
 
 ---
 
