@@ -20,7 +20,7 @@ people.
 
 That's like saying you can free yourself from the burdens of life by
 making seatbelts non-mandatory, letting the market decide, and die
-ASAP.
+when the market wants.
 
 ---
 
