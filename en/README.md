@@ -62,12 +62,13 @@ billion in content savings"
 ---
 
 It's not possible to be culturally Catholic in a Protestan majority
-country and vica versa. Your codes will not allow it. If you try
-you will become neurotic. This word is associated with certain subgroup
-but there is Italian neuroticism too, in quotes obviously "Italian" - same
-for Polish, and others. First generation children and their descendants
-need to understand this clearly - that fureign fuck talking shit with an
-accent is not similar to you. It's sad, but that is the truth.
+country and vica versa. Your codes will not allow it. If you try too
+hard to be some other thing you will become neurotic. This word is
+associated with certain subgroup but there is Italian neuroticism too,
+in quotes obviously "Italian" - same for Polish, and others. First
+generation children and their descendants need to understand this
+clearly - that fureign fuck talking shit with an accent is not similar
+to you. It's sad, but that is the truth.
 
 ---
 
