@@ -17,8 +17,8 @@ keep big-displacement V8 engines alive"
 
 ---
 
-Raising the retirement age? It needs to be lowered, as in down to
-18. Noone should work bcz they have to. There is plenty of f-ing money - 
+Raising the retirement age? It needs to be lowered, as in down to 18. 
+Noone should work bcz they have to. There is plenty of f-ing money -
 govs will find it when they have to. They happily sink over a trillion
 into a lackluster fighter plane, they surely can find some of
 it for regular people.
