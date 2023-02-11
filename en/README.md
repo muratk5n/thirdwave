@@ -111,12 +111,6 @@ recruitment, UN study finds"
 
 ---
 
-Global Earthquake Fault Lines
-
-[[-]](2019/05/natdisaster.html#equakes)
-
----
-
 ## Reference
 
 [Nations and Nationalism, Culture, Narratives](2013/02/nations-and-nationalism.html)
