@@ -1,6 +1,5 @@
 # Week 6
 
-
 Sad \#OpenGraph
 
 [[-]](https://mastodon.social/@MikeBlazer/109828086651109401)
@@ -71,7 +70,7 @@ map = folium.Map(location=(lat1,lon1),zoom_start=5,control_scale=True)
 folium.PolyLine(locations=decoded, color="blue").add_to(map)
 ```
 
-[Directions](mbl/2023/bos_wyo_dir1.html)
+[Directions](bos_wyo_dir1.html)
 
 ---
 
