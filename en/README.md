@@ -31,8 +31,8 @@ is a value of the left”.. 🤣 Yeah.
 
 Borne is supposedly from "leftist" but sadly now turned into window
 dressing for anti-left policies... The NYT piece is probably psyop
-designed to generate symphathy for her so we forget about protests
-against the goverment..
+designed to generate symphathy for her so we forget about the recent
+protests against the goverment trying to raise retirement age..
 
 NYT: "The daughter of an Auschwitz survivor, [French PM] Élisabeth
 Borne... "
