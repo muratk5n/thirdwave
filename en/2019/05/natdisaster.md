@@ -56,7 +56,7 @@ Global Fault Lines
 
 [Code](eqfaults.py)
 
-[Output](https://drive.google.com/uc?export=view&id=1ON81DXx_ZBxdfd2ak6MjbkkL6aXmKIAc)
+Output - [Download HTML](https://drive.google.com/uc?export=view&id=1ON81DXx_ZBxdfd2ak6MjbkkL6aXmKIAc)
 
 Monthly Report
 

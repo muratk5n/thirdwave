@@ -68,6 +68,8 @@ but, unlike SMR, it did not evolve alongside HB; it has not been
 integrated and co-optimized over decades into the design and
 engineering of an ammonia plant. ...
 
+<a name='afc'/>
+
 ### Ammonia Fuel-Cells
 
 <iframe width="340"  src="https://www.youtube.com/embed/5ejL65tKsGM?start=452" title="SIP Energy Carriers -The Innovation for Ammonia Fuel in Japan-" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -80,6 +82,38 @@ a large 2MW ammonia fuel cell retrofitted, allowing it to sail solely
 on the clean fuel for up to 3,000 hours annually. As such the project
 will demonstrate that long-range zero-emission voyages with high power
 on larger ships is possible.
+
+[Paper](https://research.polyu.edu.hk/en/publications/carbon-free-sustainable-energy-technology-direct-ammonia-fuel-cel)
+
+The low temperature [alkaline anion exchange membrane direct ammonia
+fuel-cell] AEM-DAFCs part in this article not only clearly reveals the
+ammonia oxidation mechanisms and the effects of each component on the
+fuel cell performance, but also provides possible future research
+directions from perspectives on materials design for electrode
+catalysts and AEMs, respectively...
+
+AEM-DAFCs usually supply air and water vapor into cells at the
+cathode, and the oxygen with react with water in the air to form
+hydroxide ions. As the alkaline membrane employs the exchange of
+anions, those hydroxide ions travel to the anode side through the
+membrane. While the ammonia is diffused into anode side, it will react
+with those hydroxide ions in the anode catalyst layer to form nitrogen
+and water molecules.
+
+In recent years, the development of low temperature AEM-DAFCs and high
+temperature SO-DAFCs have been made to address issues regarding to en­
+ergy conversion systems. For the low temperature AEM-DAFCs, non-
+platinum group catalysts were developed with a low cost and higher
+catalytic activity for the AOR. Also, the hydroxide membrane with a
+high ionic conductivity and mechanical strength was demonstrated. On
+the other hand, improvements on the novel electrode and electrolyte
+materials also have been made for the high temperature SO-DAFCs, as
+shown in the record, the highest peak power density of 1380 mW/ cm 2
+at 850 C was obtained. However, the current development for DAFCs is
+still in an early stage, which is far away from commercialization. As
+discussed earlier, the low temperature AEM-DAFCs need to address the
+issues on ammonia cross-over, chemical durability of membrane elec­
+trolyte and low catalytic activity electro-catalysts
 
 
 

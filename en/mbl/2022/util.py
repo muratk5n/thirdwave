@@ -1,7 +1,7 @@
 import pandas as pd, datetime, numpy as np, requests
 import requests, urllib.parse, json
 from pandas_datareader import data, wb
-import matplotlib.pyplot as plt, math, yf
+import matplotlib.pyplot as plt, math
 import simplegeomap as sm, util
 import datetime, time as timelib, re
 import urllib.request as urllib2
