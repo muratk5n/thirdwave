@@ -1,5 +1,7 @@
 # Ammonia
 
+### An H2 Carrier
+
 How do we transport hydrogen? Usually pressurized tanks are used as a
 solution. For a cheaper alternative researchers are looking at
 "hydrogen carriers", substances which contain H2, but can be carried
@@ -66,13 +68,26 @@ but, unlike SMR, it did not evolve alongside HB; it has not been
 integrated and co-optimized over decades into the design and
 engineering of an ammonia plant. ...
 
+### Ammonia Fuel-Cells
+
+<iframe width="340"  src="https://www.youtube.com/embed/5ejL65tKsGM?start=452" title="SIP Energy Carriers -The Innovation for Ammonia Fuel in Japan-" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Link](https://www.logisticsmiddleeast.com/34956-major-project-to-convert-offshore-vessel-to-run-on-ammonia-powered-fuel-cell)
+
+The project will see an offshore vessel, Viking Energy, which is owned
+and operated by Eidesvik and on contract to energy major Equinor, have
+a large 2MW ammonia fuel cell retrofitted, allowing it to sail solely
+on the clean fuel for up to 3,000 hours annually. As such the project
+will demonstrate that long-range zero-emission voyages with high power
+on larger ships is possible.
+
+
+
 References
 
 [Ammonia as fuel](https://youtu.be/5ejL65tKsGM)
 
 Info from Japan on [direct combustion](https://youtu.be/5ejL65tKsGM?t=107)
-
-[Solid-oxide Ammonia Fuel-Cell)](https://youtu.be/5ejL65tKsGM?t=452).
 
 [CSIRO](../../2018/10/csiro.html)
 

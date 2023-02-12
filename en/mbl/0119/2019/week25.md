@@ -277,7 +277,8 @@ I'd watch this guy closely; he cooked up a direct ammonia fuel-cell even, if I r
 
 @DRMacFarlane
 
-"Pleased to announce our forthcoming conference "Ammonia = Hydrogen 2.0" 22-23/8/19. Details at https://bit.ly/2WLnhqX"
+"Pleased to announce our forthcoming conference "Ammonia = Hydrogen
+2.0" 22-23/8/19. Details at https://bit.ly/2WLnhqX"
 
 ---
 
