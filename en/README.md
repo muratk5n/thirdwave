@@ -69,8 +69,9 @@ Why ChatGPT won't kill journalism - Media Watch
 ---
 
 Politico: "[Chinese envoy:] 'We are quite concerned about people
-talking about winning a complete victory on the battlefield. We
-believe that the right place would be at the negotiating table'"
+talking about winning a complete victory on the battlefield [in
+Ukraine]. We believe that the right place would be at the negotiating
+table'"
 
 ---
 
