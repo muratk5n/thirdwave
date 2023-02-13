@@ -50,7 +50,6 @@ demonstrator at a paper mill testing site in France"
 
 ---
 
-
 Politico: "The kid billionaire [SBF] made his carefully cultivated
 dishevelment an advertisement for crypto — and himself. But now his
 image carries a different label: Fraudster"
