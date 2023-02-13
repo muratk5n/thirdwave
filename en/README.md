@@ -50,13 +50,16 @@ demonstrator at a paper mill testing site in France"
 
 ---
 
-H2 Central: "UK’s first globally recognised certification scheme will
-help verify the sustainability of low carbon hydrogen"
+
+Politico: "The kid billionaire [SBF] made his carefully cultivated
+dishevelment an advertisement for crypto — and himself. But now his
+image carries a different label: Fraudster"
 
 ---
 
-H2 Central: "UK’s first globally recognised certification scheme will
-help verify the sustainability of low carbon hydrogen"
+People know best
+
+WION: "From Brexit to 'Bregret': More young Britons vent discontent"
 
 ---
 
