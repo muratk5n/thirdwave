@@ -74,7 +74,7 @@ folium.PolyLine(locations=decoded, color="blue").add_to(map)
 
 ---
 
-For mobile Unix compting A Raspberry Pi will do - power it up with
+For mobile Unix computing A Raspberry Pi will do - power it up with
 solar, run micro web server on it access thru local wifi / smartphone
 hotspot, view pages served from Pi on the phone's browser.
 
