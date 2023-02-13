@@ -4,7 +4,7 @@ suffers.. Until a year ago, Amazon didn’t even disclose the size of
 its advertising business, leaving analysts and investors to guess how
 much the company was making in allowing sellers and brands to promote
 their wares on the site and apps. Now, the company’s ad division is a
-$38 billion annual business, and last week reported 19% year-over-year
+38 billion annual business, and last week reported 19% year-over-year
 growth in the fourth quarter to $11.6 billion"
 
 ---
