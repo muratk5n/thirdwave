@@ -52,7 +52,7 @@ def get_eq_all():
     df.columns = ['mag','lat','lon','rad','ago']
     return df
 
-def do_region():
+def region():
     today = datetime.datetime(2020, 8, 5)
     lat,lon = 34, 35
     D = 1000

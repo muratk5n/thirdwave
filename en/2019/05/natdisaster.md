@@ -79,15 +79,7 @@ plt.savefig('moneq.png')
 
 ![](moneq.png)
 
-For specific region, see code below, and
-
-```python
-import equake
-equake.do_region()
-```
-
-[Script](equake.py)
+For specific region, see `region()` in `equake.py`
 
 [Output](equake-out.html)
-
 

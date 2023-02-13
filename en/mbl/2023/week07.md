@@ -1,6 +1,5 @@
 # Week 7
 
-
 H2 Central: "The 1948 Chevrolet 3100 truck.. may look like a
 traditional hot rod on the outside, but it hides something a bit
 unconventional under the hood. While it draws juice from a
