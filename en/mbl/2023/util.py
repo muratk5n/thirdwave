@@ -1,5 +1,5 @@
 import pandas as pd, datetime, numpy as np, requests
-import requests, urllib.parse, json
+import requests, urllib.parse, json, io, geocoder
 from yahoofinancials import YahooFinancials
 from pandas_datareader import data, wb
 import matplotlib.pyplot as plt, math
@@ -8,6 +8,12 @@ import datetime, time as timelib, re, os
 import urllib.request as urllib2
 from io import BytesIO
 import pandas_ta as ta, random
+
+def sm_tr_eq_deaths(k):
+    d = json.loads(open("try_sry_eq.json").read())
+    res = [[str(x[0]) + " " + str(x[1]), geocoder.osm(x[0]).latlng] for x in d[k]]
+    res = [[x[0],x[1][0],x[1][1]] for x in res]
+    sm_plot_list1(38, 38, 0.5, res)
 
 def eq_at(lat,lon,radius,ago,today = datetime.datetime.now()):
 

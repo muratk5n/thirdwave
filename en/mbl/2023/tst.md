@@ -6,13 +6,9 @@ pd.set_option('display.max_columns', None)
 ```
 
 
-
-
-
-
-
-
-
+```python
+plt.savefig('/tmp/out.jpg',quality=40)
+```
 
 
 

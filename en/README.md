@@ -89,7 +89,7 @@ open in Australia"
 Paper: "[T]he high-temperature [solid-oxide direct-ammonia fuel-cell]
 need a preheat treatment process before the fuel cell operation. It is
 more suitable for the stationary energy system, instead of automotive
-appli­ cations. Japan is a country intensively developing renewable
+applications. Japan is a country intensively developing renewable
 energy for its industrial and residential usage. Moreover the IHI, a
 Japanese manufacturing firm, obtained 1-kW class power from a high
 temperature DAFC, which could possibly replace those facilities using
