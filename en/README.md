@@ -55,12 +55,6 @@ help verify the sustainability of low carbon hydrogen"
 
 ---
 
-So it was the armorer \#Rust
-
-[[-]](https://youtu.be/odclVcX-FFc?t=1153)
-
----
-
 H2 Central: "UK’s first globally recognised certification scheme will
 help verify the sustainability of low carbon hydrogen"
 
