@@ -78,7 +78,6 @@ nightmare"
 
 ---
 
-
 So basically what happened is this: FB has an internal product which
 competes with this poor guy's app that uses Facebook Connect (an
 authorization mechanism through which you can accept FB users, and use

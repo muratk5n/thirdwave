@@ -40,6 +40,20 @@ codes and standards based on decades of research and testing by
 private sector companies. These standards have helped build processes
 that mitigate potential harms.
 
+[Link](https://www.repairerdrivennews.com/2023/02/14/semi-truck-carrying-hydrogen-explodes-fuel-type-still-touted-as-safer-than-gasoline/)
+
+Citing a 2003 white paper, “Twenty Hydrogen Myths,” by American
+physicist and Chairman/Chief Scientist of the Rocky Mountain Institute
+Amory B. Lovins, Hydrogen Fuel News notes hydrogen burns quickly with
+a nonluminous flame that “cannot readily scorch a person at a distance
+as it emits only one-tenth the radiant heat of a hydrocarbon fire and
+burns 7% cooler than gasoline.”
+
+“In fact, to speak further to hydrogen safety compared to gasoline
+safety, typically, victims of hydrogen fires are not typically burned
+unless they are actually in contact with the flame,” the trade
+publication wrote. “Furthermore, they’re also not choked by smoke.”
+
 <a name='atmo'/>
 
 Atmosphere
