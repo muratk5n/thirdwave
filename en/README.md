@@ -35,7 +35,9 @@ A good, detailed account of the technology. Nicely done.
 
 via @itnewsbot@schleuss.online
 
-<img width='340' src='https://hackaday.com/wp-content/uploads/2023/02/Methane.jpg?w=800'/> 
+<img width='340' src='https://hackaday.com/wp-content/uploads/2023/02/Methane.jpg?w=800'/>
+
+[[-]](https://hackaday.com/2023/02/13/methane-pyrolysis-producing-green-hydrogen-without-carbon-emissions/)
 
 ---
 
