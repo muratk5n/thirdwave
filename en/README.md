@@ -6,7 +6,7 @@ decision of each state within the framework of its own laws'"
 
 ---
 
-EQ deaths as of Feb 9
+SYR-TRY equake deaths as of Feb 9
 
 ```python
 u.sm_tr_eq_deaths('0209')
