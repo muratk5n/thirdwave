@@ -23,7 +23,7 @@ developing low-carbon hydrogen - says GlobalData"
 
 ---
 
-Here's an earlier share on the topic
+Earlier share on the topic
 
 [[-]](https://youtu.be/JGe8R0N20ps?t=424)
 
