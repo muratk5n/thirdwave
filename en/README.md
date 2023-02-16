@@ -50,7 +50,7 @@ rather than budgets or bombings (a la nordstream)" \#UFO
 
 ---
 
-This might actually be the paper that initiated the SP wording
+This might actually be the paper that initiated the word 'stochastic parrot' 
 \#ChatGPT \#DeepShit
 
 "On the Dangers of Stochastic Parrots.. [One] category of risk
