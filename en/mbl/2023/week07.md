@@ -1,6 +1,62 @@
 # Week 7
 
 
+TASS: "Austria refuses to train Ukrainian soldiers to operate Leopard
+2 tanks.. Citing Austria’s constitutional neutrality, Defense
+Minister.. called the issue of support for Ukraine 'a sovereign
+decision of each state within the framework of its own laws'"
+
+---
+
+EQ deaths as of Feb 9
+
+```python
+u.sm_tr_eq_deaths('0209')
+```
+
+<img width='340' src='mbl/2023/treq2.jpg'/>
+
+---
+
+"@Hypx@mastodon.social
+
+Electrolysis capacity of over 1,065GW now in the pipeline, as part of
+developing low-carbon hydrogen - says GlobalData"
+
+---
+
+Earlier share on the topic \#pyrolysis
+
+[[-]](https://youtu.be/JGe8R0N20ps?t=424)
+
+---
+
+A good, detailed account of the technology. Nicely done.
+
+"Methane Pyrolysis: Producing Green Hydrogen Without Carbon Emissions"
+
+via @itnewsbot@schleuss.online
+
+<img width='340' src='https://hackaday.com/wp-content/uploads/2023/02/Methane.jpg?w=800'/>
+
+[[-]](https://hackaday.com/2023/02/13/methane-pyrolysis-producing-green-hydrogen-without-carbon-emissions/)
+
+---
+
+Freight Waves: "Cummins sees billions from its hydrogen electrolyzer
+business"
+
+---
+
+[Link](mbl/2023/moreufos.jpg)
+
+---
+
+The Independent: "Michigan state university shooting.. Shots were
+fired in two locations on the campus, with reported fatality"
+
+---
+
 CNBC: "Amazon is the latest threat to Facebook as ad targeting
 suffers.. Until a year ago, Amazon didn’t even disclose the size of
 its advertising business, leaving analysts and investors to guess how
