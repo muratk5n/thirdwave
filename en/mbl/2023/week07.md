@@ -14,7 +14,7 @@ EQ deaths as of Feb 9
 u.sm_tr_eq_deaths('0209')
 ```
 
-<img width='340' src='mbl/2023/treq2.jpg'/>
+<img width='340' src='treq2.jpg'/>
 
 ---
 
@@ -48,7 +48,7 @@ business"
 
 ---
 
-[Link](mbl/2023/moreufos.jpg)
+[Link](moreufos.jpg)
 
 ---
 
