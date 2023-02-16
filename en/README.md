@@ -76,7 +76,7 @@ cannot understand the source text on their own"
 
 Currently less than 2% of labor is sufficient to produce food - this
 is the percentage of labor in farming. That means the labor of 98% is
-already not necessary for the most essential item - sustanance.
+already not necessary for the most essential item - sustenance.
 
 "If everyone could retire at 18 who would work and produce?"
 
