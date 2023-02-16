@@ -50,10 +50,6 @@ rather than budgets or bombings (a la nordstream)" \#UFO
 
 ---
 
-'Stochastic' means randomness is involved
-
----
-
 This might actually be the paper that initiated the word 'stochastic parrot' 
 \#ChatGPT \#DeepShit
 
