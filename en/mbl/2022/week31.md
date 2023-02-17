@@ -588,7 +588,7 @@ ship traffic.
 
 Straits, Chokepoints
 
-[[-]](../../2022/01/oilgasmin.html#straits)
+[[-]](../../2023/01/confstats.html#straits)
 
 ---
 
