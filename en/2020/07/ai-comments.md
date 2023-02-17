@@ -2,6 +2,30 @@
 
 <img width="340" src="mljump.png"/>
 
+[On the Dangers of Stochastic Parrots](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)
+
+[One] category of risk involves bad actors taking advantage of the
+ability of large [neural-net based language models -LM-]s to produce
+large quantities of seemingly coherent texts on specific topics on
+demand in cases where those deploying the LM have no investment in the
+truth of the generated text. These include prosaic cases, such as
+services set up to ‘automatically’ write term papers or interact on
+social media..
+
+Yet another risk connected to seeming coherence and fluency involves
+machine translation (MT) and the way that increased fluency of MT
+output changes the perceived adequacy of that output. This differs
+somewhat from the cases above in that there was an initial human
+communicative intent, by the author of the source language
+text. However, MT systems can (and frequently do) produce output that
+is inaccurate yet both fluent and (again, seemingly) coherent in its
+own right to a consumer who either doesn’t see the source text or
+cannot understand the source text on their own”
+
+"Debunking the great AI lie - Noam Chomsky, Gary Marcus, Jeremy Kahn"
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/PBdZi_JtV4c?start=169" title="Debunking the great AI lie | Noam Chomsky, Gary Marcus, Jeremy Kahn" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 [Paper](https://arxiv.org/abs/2210.12889)
 
 Machine intelligence is increasingly being linked to claims about
