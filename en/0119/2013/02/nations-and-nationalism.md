@@ -10,7 +10,7 @@
 
 [The Culture Code](../../2014/06/the-culture-code.html)
 
-[Turkist Narrative, Culture](../../2020/04/turkist-narrative-anatolia.html)
+[Turkist Narrative, Culture](../../../2020/04/turkist-narrative-anatolia.html)
 
 [[Up]](../..)
 
