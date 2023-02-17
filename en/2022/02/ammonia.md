@@ -118,11 +118,11 @@ trolyte and low catalytic activity electro-catalysts
 [Paper](https://www.researchgate.net/publication/294579196_Ammonia-fed_fuel_cells_A_comprehensive_review)
 
 Xu et al.  reported the first direct NH 3 BH 3 fuel cell based on an
-NaOH electro- lyte [126], while a direct ammonia borane fuel cell
-based on an alkaline membrane electrolyte has also been
-demonstrated. A study of the use of ammonia borane as the fuel in an
-alkaline fuel-cell power supply achieved a power density of 315 mW cm
-C 2 at ambient pressure and near ambient temperature
+NaOH electrolyte, while a direct ammonia borane fuel cell based on an
+alkaline membrane electrolyte has also been demonstrated. A study of
+the use of ammonia borane as the fuel in an alkaline fuel-cell power
+supply achieved a power density of 315 mW cm C 2 at ambient pressure
+and near ambient temperature
 
 References
 
