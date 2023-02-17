@@ -58,8 +58,8 @@ Steppe Migration Map - pastoralists came from Yamnaya
 
 Farmers from A. Minor migrated to Europe, later 4800 BC pastoralist
 steppe people migrated there. Farmers got wiped out by plague, they
-were kinda unhealthy too much grain (lactose intol too, could not
-handle milk, cheese). Their death eased steppe migration, pastoralists
+were kinda unhealthy too much grain (lactose intol, could not handle
+milk, cheese). Their death eased steppe migration, pastoralists
 attacked them too. In some ways Europeans (esp males) are Russians.
 
 Steppers were pastoralists, had 'free-range' cattle moved a lot, lived
