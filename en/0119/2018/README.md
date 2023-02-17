@@ -54,17 +54,11 @@
 
 [Yo Bitch](04/yo-bitch.html)
 
-[Economy](05/economy.html)
-
 [Faux Nobel Prize for Economists](05/faux-nobel.html)
-
-[Inflation](05/inflation.html)
 
 [#noOccupation](05/nooccupation.html)
 
 [US Polarization](05/polarization.html)
-
-[Princes of Mayhem](05/princes-of-mayhem.html)
 
 [Quantity Theory of Money](05/quantity-theory-of-money.html)
 
