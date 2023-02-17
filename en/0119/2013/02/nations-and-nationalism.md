@@ -4,9 +4,9 @@
 
 [Cultures, Identities, Something Dash Something Americans, Immigrants](../../2019/11/faux-ambassadors.html)
 
-[Turks, Nationalism](../../2020/04/turks-culture-national-narrative.html)
+[Turks, Nationalism](../../../2020/04/turks-culture-national-narrative.html)
 
-[Tolay, National Narratives, Migrations, Anatolia](../../2020/07/migrations-anatolia.html)
+[Tolay, National Narratives, Migrations, Anatolia](../../../2020/07/migrations-anatolia.html)
 
 [The Culture Code](../../2014/06/the-culture-code.html)
 
