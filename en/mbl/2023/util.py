@@ -1,13 +1,13 @@
+import pandas_ta as ta, random, rottentomatoes as rt    
 import pandas as pd, datetime, numpy as np, requests
 import requests, urllib.parse, json, io, geocoder
-from yahoofinancials import YahooFinancials
-from pandas_datareader import data, wb
 import matplotlib.pyplot as plt, math
 import simplegeomap as sm, util
 import datetime, time as timelib, re, os
 import urllib.request as urllib2
+from yahoofinancials import YahooFinancials
+from pandas_datareader import data, wb
 from io import BytesIO
-import pandas_ta as ta, random
 
 def get_eia_week(series):
     api_key = open('.key/.eiakey').read()
@@ -221,16 +221,8 @@ def biz_stock_plot(year,ticker):
     df.plot()
 
 def rotom_mov(movie):
-    rel = movie.replace(" ","_").lower()
-    url = "https://www.rottentomatoes.com"
-    url = url + "/m/" + rel
-    hdr = {'User-Agent':'Mozilla/5.0'}
-    res = urllib2.urlopen(url).read().decode('utf-8')
-    regreg = re.findall('audiencescore="(.*?)"',res)
-    audiencescore = int(regreg[0])
-    regreg = re.findall('tomatometerscore="(.*?)"',res)
-    tomatometerscore = int(regreg[0])
-    return {"tomatometer score": tomatometerscore, "audience score": audiencescore}
+    return {"tomatometer score": rt.tomatometer(movie),
+            "audience score": rt.audience_score(movie)}
 
 def rotom_tv(movie):
     rel = movie.replace(" ","_").lower()

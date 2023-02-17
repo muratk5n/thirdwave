@@ -6,9 +6,32 @@ pd.set_option('display.max_columns', None)
 ```
 
 
+
+
+
 ```python
-plt.savefig('/tmp/out.jpg',quality=40)
+u.rotom_mov("Ant-Man and the Wasp")
 ```
+
+```text
+Out[1]: {'tomatometer score': 49, 'audience score': 84}
+```
+
+
+```python
+u.rotom_tv("Star Trek Discovery")
+```
+
+```text
+Out[1]: {'tomatometer score': '84%', 'audience score': '36%'}
+```
+
+
+
+
+
+
+
 
 
 
