@@ -38,6 +38,4 @@
 
 [Oil, Gas and Minerals](../../2022/01/oilgasmin.html)
 
-[Flow Batteries, Built with Iron and Water](../../0119/2018/07/battery-fueled-by-iron-and-water.html)
-
 [[Up]](../..)
