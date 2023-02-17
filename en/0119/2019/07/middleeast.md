@@ -4,7 +4,7 @@
 
 [Some Myths about the Israeli-Palestinian Conflict](../../2014/07/israeli-myths-hammond.html)
 
-[10 Myths about Israel by Pappe](../../2020/06/10-myths-israel.html)
+[10 Myths about Israel by Pappe](../../../2020/06/10-myths-israel.html)
 
 [The Private Security State](../../2018/08/the-security-state.html)
 
@@ -14,9 +14,9 @@
 
 [Armenians of Anatolia](../../2015/03/armenians-anatolia.html)
 
-[Organized Crime, Asia Minor](../../2021/06/org-crime-asia-minor.html)
+[Organized Crime, Asia Minor](../../../2021/06/org-crime-asia-minor.html)
 
-[Eternal Dawn](../../2021/06/eternal-dawn-kemal.html)
+[Eternal Dawn](../../../2021/06/eternal-dawn-kemal.html)
 
 [Ottomans, Armenians, Kurds](../../2009/09/modern-history-of-kurds-mcdowall.html)
 
