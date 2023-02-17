@@ -1,8 +1,8 @@
 # Reports
 
-[Economy](stats.html)
+[Economy](../../2021/01/stats.html)
 
-[Energy](energstats.html)
+[Energy](../../2022/01/energstats.html)
 
 [Conflicts](confstats.html)
 
