@@ -38,7 +38,7 @@ it to power home and other applications. Once NH3 itself is clean,
 
 I bet these guys later went to Anatolia as well; they must have
 brought yoghurt (a milk product) with them. No wonder Herodotus knew
-about it in 800 BC.
+about it in 450 BC.
 
 ---
 
