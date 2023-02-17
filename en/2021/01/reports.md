@@ -16,5 +16,5 @@
 
 [Oil, Gas and Minerals](../../2022/01/oilgasmin.html)
 
-[Drugs](drugs.html)
+[Drugs](../../2023/01/drugs.html)
 
