@@ -2,7 +2,7 @@
 
 ```python
 import pandas as pd, folium
-import util as u
+import impl as u
 ```
 
 <a name='bases'/>

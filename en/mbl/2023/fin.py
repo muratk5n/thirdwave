@@ -7,20 +7,6 @@ from datetime import date
 import matplotlib.pyplot as plt, re, json
 from pygeodesy import parse3llh, fstr
 
-def usnavy():
-    ships = json.loads(open("../../mbl/2023/usnavy.json").read())
-    headers = { 'User-Agent': 'UCWEB/2.0 (compatible; Googlebot/2.1; +google.com/bot.html)'}
-    base = 'https://www.vesselfinder.com/vessels/'
-    data = []
-    for s in ships['data']:
-        resp = requests.get(base + s[2], headers=headers)  
-        res = re.findall(r'"ship_lat":(.*?),"ship_lon":(.*?),"ship_cog":(.*?),"ship_sog":(.*?),',resp.text)
-        if len(res)>0:
-           row = list(s) + list(res[0])
-           data.append(row)
-    df = pd.DataFrame(data)
-    df.columns = ['code','name','code2','lat','lon','bearing','speed']
-    return df
 
 def country_bp(country):
     df, prod_perc, tot, elec = util.get_bp_country(country)
