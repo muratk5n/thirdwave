@@ -166,8 +166,6 @@
 
 [BDS](12/bds.html)
 
-[Clean Fuels are the Solution](12/clean-fuel-is-the-solution.html)
-
 [Friedman on US, Europe, The World](12/friedman-europe.html)
 
 [Da Collapse, Macro Investing, McCollough](12/macro-mccollough.html)
