@@ -224,7 +224,7 @@ Q2 US Private Debt to GDP was at 191%?
 2020-04-01    191.103939
 ```
 
-[Link](../../2019/05/stats.html#credit)
+[Link](../../2021/01/stats.html#credit)
 
 ---
 

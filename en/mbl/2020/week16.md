@@ -1055,7 +1055,7 @@ probably go down.
 ---
 
 Labeled administrations on the [Gini
-plot](../../2019/05/stats.html#gini). Ineq rose under W, net gain
+plot](../../2021/01/stats.html#gini). Ineq rose under W, net gain
 only under HW and DJT (so far). Granted Obama admin began during GFC
 aftermath, things improved later starting '12, but looking at the net
 he finished in the red. Same for Clinton.

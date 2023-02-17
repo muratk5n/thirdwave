@@ -836,7 +836,7 @@ their content are used online"
 Inequality measure Gini fall continued for 2021 Q4; could also be due
 to ultra-rich becoming less ultra-rich, and that's a good thing too..
 
-[[-]](../../2019/05/stats.html#gini)
+[[-]](../../2021/01/stats.html#gini)
 
 ---
 
@@ -920,7 +920,7 @@ Noble says to look at historical chart of profit margins (income
 divided by revenue). Checked, yes there was an uptrend, especially
 after 2000.
 
-[[-]](../../2019/05/stats.html#pm)
+[[-]](../../2021/01/stats.html#pm)
 
 ---
 

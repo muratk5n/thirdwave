@@ -248,7 +248,7 @@ Updated Taylor Rule calculation says a high fedfunds ie ripping off
 the band aid - Volcker style. But the FED is on a rate hike path
 already..
 
-[[-]](../../2019/05/stats.html#taylor)
+[[-]](../../2021/01/stats.html#taylor)
 
 ---
 
@@ -256,7 +256,7 @@ Inflation is way up
 
 `2022-06-01  9.059758`
 
-[[-]](../../2019/05/stats.html#cycle)
+[[-]](../../2021/01/stats.html#cycle)
 
 ---
 

@@ -28,6 +28,6 @@
 
 [Tax Avoidance, Trickery](../../2017/10/tax-avoidence-tricks.html)
 
-[Economics Stats](../../2019/05/stats.html)
+[Economics Stats](../../2021/01/stats.html)
 
 [[Up]](../..)

@@ -414,7 +414,7 @@ are passed to the function from outside.
 
 Epic
 
-[Link](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#claims)
+[Link](../../2021/01/stats.html#claims)
 
 ---
 
@@ -534,7 +534,7 @@ grader of all things.
 
 Junk Bond yields at 9.76% Daaaaaaaam!
 
-[Link](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#junkbond)
+[Link](../../2021/01/stats.html#junkbond)
 
 ---
 
@@ -608,7 +608,7 @@ curve" represents investors' overall view on growth and recession.
 
 ---
 
-It's true. [Recreated](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#curve).
+It's true. [Recreated](../../2021/01/stats.html#curve).
 
 "@carlquintanilla
 
@@ -726,7 +726,7 @@ U.S. markets. The quarterly GDP is used as the denominator in the
 ratio calculation".
 
 I belive this is also called the Buffett Indicator. Wilshire Index
-from [FRED](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#wilshire) seems to capture it. 
+from [FRED](../../2021/01/stats.html#wilshire) seems to capture it. 
 
 I don't know about anyone else, but post 2016 looks like a freaky bubble. 
 
@@ -736,7 +736,7 @@ I don't know about anyone else, but post 2016 looks like a freaky bubble.
 
 ---
 
-Daaaaaam! [VIX saw](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#vix) 82 yesterday! 
+Daaaaaam! [VIX saw](../../2021/01/stats.html#vix) 82 yesterday! 
 
 Was this the highest volatility ever?
 
@@ -821,7 +821,7 @@ old racist"
 
 ---
 
-[Corporate Profits vs SP500](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#sp500prof) -
+[Corporate Profits vs SP500](../../2021/01/stats.html#sp500prof) -
 we can see how they diverged from eachother big
 time since 2016. I didnt have to adjust scale on either metric bcz S&P
 index is calculated based on market cap anyway, which is intrinsically

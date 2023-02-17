@@ -97,7 +97,7 @@ computer science, but not economics.
 
 ---
 
-10 million unemployed? [Try 20](2019/05/stats.html#unempl).
+10 million unemployed? [Try 20](../../2021/01/stats.html#unempl).
 
 ---
 
@@ -464,7 +464,7 @@ Just look at FED [GPDNow](https://www.frbatlanta.org/cqer/research/gdpnow) estim
 As of 3/1 the estimate is 10% growth for Q1.
 
 I am sure they use many base indicators to calculate this.. some
-widely known ones [ISM PMI](../../2019/05/stats.html#gdpism) for ex. That's
+widely known ones [ISM PMI](../../2021/01/stats.html#gdpism) for ex. That's
 how I knew a month ago growth was coming.
 
 "How can some people know GDP will grow?"

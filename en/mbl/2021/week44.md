@@ -87,7 +87,7 @@ Oil prices and OPEC output [graph](opec-price.png). [Code](opec.py).
 
 ---
 
-New [graph](../../2019/05/stats.html#opec) for OPEC output (monthly), data from EIA. 
+New [graph](../../2021/01/stats.html#opec) for OPEC output (monthly), data from EIA. 
 
 CNBC: "Biden has squarely blamed the reluctance of OPEC+ to pump more
 oil for the sharp rise in energy prices in the U.S. and around the

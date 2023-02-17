@@ -3,7 +3,7 @@
 Inequality - Gini plot update, utilizing more granular data from Fred
 per wealth percentile blocks.
 
-[Link](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#gini)
+[Link](../../2021/01/stats.html#gini)
 
 ---
 
@@ -66,7 +66,7 @@ made it go back up bro...
 2020-04-08       129.19
 ```
 
-[Link](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#wilshire)
+[Link](../../2021/01/stats.html#wilshire)
 
 ---
 
@@ -234,7 +234,7 @@ New plot, Total Consumer Credit Outstanding as % of GDP.
 
 Let's see if that graph shoot up after crisis
 
-[Link](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#debt)
+[Link](../../2021/01/stats.html#debt)
 
 ---
 
@@ -375,7 +375,7 @@ Who Also Has Voting Rights"
 ---
 
 It's crazy - voters' needs are intensely immediate... In the Prez
-election [prediction](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#prez)
+election [prediction](../../2021/01/stats.html#prez)
 if I use GDP YoY growth (Q2 of election yr compared to Q2 of last
 year) I lose an entire 5% in $R^2$, that is, a worse model. If I use
 annualized growth, that is Q2 GDP compared to *previous* quarter,

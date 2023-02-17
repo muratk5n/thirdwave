@@ -1,7 +1,18 @@
 import requests, time, datetime
 import numpy as np, math
 import pandas as pd
-import mygeo
+
+def to_bearing(lat,lon,brng,d):
+    R = 6378.1 #Radius of the Earth
+    lat1 = math.radians(lat)
+    lon1 = math.radians(lon)
+    lat2 = math.asin( math.sin(lat1)*math.cos(d/R) +
+         math.cos(lat1)*math.sin(d/R)*math.cos(brng))
+    lon2 = lon1 + math.atan2(math.sin(brng)*math.sin(d/R)*math.cos(lat1),
+                 math.cos(d/R)-math.sin(lat1)*math.sin(lat2))
+    lat2 = math.degrees(lat2)
+    lon2 = math.degrees(lon2)
+    return lat2,lon2
 
 def get_eq(minx,maxx,miny,maxy,today = datetime.datetime.now()):    
     days = 20
@@ -56,8 +67,8 @@ def region():
     today = datetime.datetime(2020, 8, 5)
     lat,lon = 34, 35
     D = 1000
-    lat1,lon1 = mygeo.to_bearing(lat,lon,np.deg2rad(45),D)
-    lat2,lon2 = mygeo.to_bearing(lat,lon,np.deg2rad(225),D)
+    lat1,lon1 = to_bearing(lat,lon,np.deg2rad(45),D)
+    lat2,lon2 = to_bearing(lat,lon,np.deg2rad(225),D)
     minx=np.min((lon1,lon2))
     maxx=np.max((lon1,lon2))
     miny=np.min((lat1,lat2))

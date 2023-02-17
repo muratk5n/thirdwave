@@ -661,7 +661,7 @@ But I still dont see a runaway process here.
 
 ---
 
-Let's [take a look](../../2019/05/stats.html#infexp)
+Let's [take a look](../../2021/01/stats.html#infexp)
 
 "How about consumer's inflation expectation?"
 

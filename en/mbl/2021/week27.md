@@ -137,7 +137,7 @@ Clinton, W, and partially Obama time will be reversed in abt 15 years.
 
 ---
 
-GINI [update](../../2019/05/stats.html#gini). 
+GINI [update](../../2021/01/stats.html#gini). 
 
 ---
 

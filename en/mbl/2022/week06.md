@@ -90,7 +90,7 @@ World Energy Consumption by Source, Monthly (twh)
 
 <img width="340" src="twimg/FLQGtjrWUAIvLbw.png"/>
 
-[[-]](../../2019/05/stats.html#engconsumption)
+[[-]](../../2021/01/stats.html#engconsumption)
 
 ---
 

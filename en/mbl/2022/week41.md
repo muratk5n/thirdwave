@@ -160,7 +160,7 @@ Russia's war in Ukraine rages on"
 
 Inequality fall continues..
 
-[[-]](../../2019/05/stats.html#gini)
+[[-]](../../2021/01/stats.html#gini)
 
 ---
 
@@ -274,7 +274,7 @@ Dude actually writes songs about video games
 
 Oh yeaaaa
 
-[[-]](../../2019/05/stats.html#earnings)
+[[-]](../../2021/01/stats.html#earnings)
 
 ---
 

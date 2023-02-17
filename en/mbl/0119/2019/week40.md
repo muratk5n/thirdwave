@@ -165,7 +165,7 @@ Volkswagen.. the same VW of the cheating scandal isn't it? It's funny
 
 Down... Down.. Down...
 
-[PMI](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#pmi)
+[PMI](../../2021/01/stats.html#pmi)
 
 ---
 

@@ -113,7 +113,7 @@ United Kingdom and Ireland added to Coronavirus travel ban - VP Pence"
 
 ---
 
-Yeah [VIX](../../2019/05/stats.html#vix) has seen 75, and is generally above 50. Thanks but no thanks.
+Yeah [VIX](../../2021/01/stats.html#vix) has seen 75, and is generally above 50. Thanks but no thanks.
 
 Junk bond rate on 03-12, 8.81%, it was 6.10% a week ago.
 
@@ -716,7 +716,7 @@ Businesses to receive $500 hand outs. More details to come..."
 
 Junk bond rates are in the upswing, yield at 7.69% from 6.10% on Mar 5.
 
-[Link](../../2019/05/stats.html#junkbond)
+[Link](../../2021/01/stats.html#junkbond)
 
 ---
 
@@ -1190,7 +1190,7 @@ HFC tractor from Netherlands
 
 Volatity Index 
 
-[Link](../../2019/05/stats.html#vix)
+[Link](../../2021/01/stats.html#vix)
 
 ---
 

@@ -154,7 +154,7 @@ Still tho, good drummer👍.
 ---
 
 Non-farm payroll deceleration
-[continues](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#unemp),
+[continues](../../2021/01/stats.html#unemp),
 now 1.50%,..,1.45%,1.40%. The decrease of increase \#hedgeye
 
 ---

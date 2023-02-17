@@ -229,7 +229,7 @@ Opportunities" 😆😆😆
 
 3.8 M more in jobless claims.
 
-[Link](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#claims)
+[Link](../../2021/01/stats.html#claims)
 
 ---
 
@@ -314,8 +314,6 @@ Q1 GDP growth 0.32% YoY, -4.78% QoQ annualized. 😶
 Trump's net approval is down to its abysmal low again, at -10%. If
 this situation persists for Q2, even a sock puppet will win as a
 challenger.
-
-[Link](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html)
 
 ---
 

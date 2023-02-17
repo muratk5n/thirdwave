@@ -640,7 +640,7 @@ Wage acceleration present, yes (since 2011). But then where is
 inflation? My guess is ppl, comps are paying down debt. Weak PMI
 confirms this. People are up to their necks in debt.
 
-[Link](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#unemp)
+[Link](../../../2021/01/stats.html#unemp)
 
 ---
 

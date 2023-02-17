@@ -978,8 +978,7 @@ the environment"
 
 ---
 
-New PMI is [out](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#pmi),
-major fall,
+New PMI is [out](../../2021/01/stats.html#pmi), major fall,
 
 ```
 2020-03-01    49.1
@@ -988,8 +987,7 @@ major fall,
 
 Anything below 50 is bad. 
 
-Since Manuf PMI is a [leading
-indicator](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#gdpism)
+Since Manuf PMI is a [leading indicator](../../2021/01/stats.html#gdpism)
 of GDP, expect that to fall further as well. So, that red line will
 follow that blue line. Then we get ka-booom.
 

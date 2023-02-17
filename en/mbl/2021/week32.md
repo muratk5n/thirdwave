@@ -235,7 +235,7 @@ kW green hydrogen pilot project at SNM Hospital in Leh, Ladakh"
 
 ---
 
-The inflation expectation is around 4.7, steadily [increased](../../2019/05/stats.html#infexp)
+The inflation expectation is around 4.7, steadily [increased](../../2021/01/stats.html#infexp)
 to this from 3.1 back in March. We shall see. 
 
 Vox: "America isn’t panicking about inflation"

@@ -333,7 +333,7 @@ Pikketty book was published on the same theme.
 Latest inequality GINI stat, major fall. Biden's term looking good on
 that score so far,
 
-[[-]](../../2019/05/stats.html#gini)
+[[-]](../../2021/01/stats.html#gini)
 
 ---
 

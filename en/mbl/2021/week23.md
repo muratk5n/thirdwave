@@ -531,7 +531,7 @@ overkill.
 
 ---
 
-The downtrend on the real unemployment [continued](../../2019/05/stats.html#unempl).
+The downtrend on the real unemployment [continued](../../2021/01/stats.html#unempl).
 The defunct unemployment number did its little fluctuation, threw ppl off,
 and they were shitting bricks for a month. If they followed better stats
 they would be not be shitting a William Shatner, it would just be a little

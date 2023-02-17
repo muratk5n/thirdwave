@@ -270,7 +270,7 @@ Lalo Schifrin - Hotel Daniels \#music
 
 ---
 
-It's true, there is a bubble. [The Wilshire index](2019/05/stats.html#wilshire)
+It's true, there is a bubble. [The Wilshire index](../../2021/01/stats.html#wilshire)
 (total market cap / GDP) is very high.
 
 Just looking at the shape of graph shows exp growth.

@@ -374,7 +374,7 @@ states is where you draw the line?
 
 4.4 M more claims. 
 
-[Link](../../2019/05/stats.html#claims)
+[Link](../../2021/01/stats.html#claims)
 
 ---
 
@@ -580,7 +580,7 @@ Fully stocked.
 Just realized that Pikkety book came out in '13, around peak year of
 US inequality.
 
-[Link](../../2019/05/stats.html#gini)
+[Link](../../2021/01/stats.html#gini)
 
 ---
 
@@ -753,7 +753,7 @@ Daaaaaam \#oil
 2020-04-21     0.010000
 ```
 
-[Link](../../2019/05/stats.html#oil)
+[Link](../../2021/01/stats.html#oil)
 
 ---
 

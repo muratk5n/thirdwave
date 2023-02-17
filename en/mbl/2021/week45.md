@@ -234,7 +234,7 @@ Reuters: "China daily coal output hits multi-year peak, prices expected to fall"
 
 Boy coal prices are **down**
 
-[[-]](../../2019/05/stats.html#coal)
+[[-]](../../2021/01/stats.html#coal)
 
 ---
 
@@ -456,7 +456,7 @@ scale.. Trialing technology on locomotives to run on green ammonia"
 
 World Crude Oil Production, now through EIA API. Good source.
 
-[[-]](../../2019/05/stats.html#worldoil)
+[[-]](../../2021/01/stats.html#worldoil)
 
 ---
 

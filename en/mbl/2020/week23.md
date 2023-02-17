@@ -250,7 +250,7 @@ CPI YoY % change (inflation). Low.
 2020-04-01  0.329097
 ```
 
-[Link](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html)
+[Link](../../2021/01/stats.html)
 
 ---
 

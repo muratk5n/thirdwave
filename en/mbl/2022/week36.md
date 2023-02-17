@@ -108,7 +108,7 @@ return.
 
 Compensation vs Profits graph
 
-[[-]](../../2019/05/stats.html#compprof)
+[[-]](../../2021/01/stats.html#compprof)
 
 ---
 

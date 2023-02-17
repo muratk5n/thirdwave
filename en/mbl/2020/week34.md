@@ -692,7 +692,7 @@ The stock market is now more overbought, see Wilshire.
 
 Same old story, stawks good, the rest so-so
 
-Latest [stats](2019/05/stats.html)
+Latest [stats](../../2021/01/stats.html)
 
 ---
 

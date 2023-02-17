@@ -130,7 +130,8 @@ BREAKING: Walmart plans to dramatically step back from gun sales after 'horrific
 
 ---
 
-It's true. I [checked](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#pmi). Last time I ran that it was around 51. PMI is good proxy for demand.
+It's true. I [checked](../../2021/01/stats.html#pmi).
+Last time I ran that it was around 51. PMI is good proxy for demand.
 
 "The ISM U.S. manufacturing PMI declined to 49.1% in August, the lowest reading in more than three years"
 

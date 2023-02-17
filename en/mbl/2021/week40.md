@@ -214,7 +214,7 @@ Which power indicator was used for that analysis?
 Natural Gas prices are up.. some claim this drove coal prices up,
 ppl switching to coal from NG.
 
-[Stat](../../2019/05/stats.html#natgas)
+[Stat](../../2021/01/stats.html#natgas)
 
 ---
 
@@ -385,7 +385,7 @@ project H2Wind"
 
 ---
 
-Coal prices are through [the roof](../../2019/05/stats.html#coal)
+Coal prices are through [the roof](../../2021/01/stats.html#coal)
 
 ---
 

@@ -425,7 +425,7 @@ From the show *Avenue 5*
 
 ---
 
-Unemployment initial [claims](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#claims) -
+Unemployment initial [claims](../../2021/01/stats.html#claims) -
 sign of unemployment, a "report that measures the number of new jobless claims filed by individuals
 seeking to receive unemployment [benefits]". 
 

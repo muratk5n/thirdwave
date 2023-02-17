@@ -652,7 +652,7 @@ Bubble in low grade too? 🤔
 ---
 
 B-grade junk bond yields are way down, like __way__
-[down](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#junkbond).
+[down](../../2021/01/stats.html#junkbond).
 Peeps are hungry for yield and flooding this area too of course.
 
 But..if we go by this graph's relation to recessions, next one does

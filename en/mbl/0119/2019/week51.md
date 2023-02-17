@@ -251,7 +251,7 @@ it under 1 hour flat.
 
 Sign of incoming trouble - the diff between YoY hiring and wage growth
 starts to
-[widen](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#wagepayroll).
+[widen](../../2021/01/stats.html#wagepayroll).
 The widening gap is a forward indicator. It makes sense from a macro
 perspective, in late cycle labor conditions tighten, wages increase,
 firms' profits start to go down, also their hiring starts to decrease,
@@ -467,14 +467,13 @@ strategy makes zero sense.
 
 ---
 
-U could say the
-[dollar](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#dollar)
+U could say the [dollar](../../../2021/01/stats.html#dollar)
 is strong.  Since 2001 DXY (dollar vs a curr basket) mostly hovered
 btw 74 and 95, it is now closer to 95.
 
 ---
 
-Ok.. there is some [inflation](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#infyoy):
+Ok.. there is some [inflation](../../../2021/01/stats.html#infyoy):
 2.0% YOY.
 
 ---

@@ -286,7 +286,7 @@ Experiment: I redid Prez prediction with GDP YoY data; Model fit R^2 =
 Prediction: DJT current approv, net-aproval = -11.8 % (approval 42 %
 minus 53.8 % disproval).
 
-[Codebook](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#prezyoy)
+[Codebook](../../2021/01/stats.html#prezyoy)
 
 This one, with 1% GDP growth shows a toss up, even a tiny disadvantage
 for Rep. With 2%, Reps have a little advantage. 
@@ -298,7 +298,7 @@ Dems were two terms in. Incumbent party lost, it failed to energize.
 
 2Q GDP YoY 2.28%. If trend continues it might go down another 1.6 by 2Q next year. 
 
-[Codebook](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#gdpyoy)
+[Codebook](../../2021/01/stats.html#gdpyoy)
 
 ---
 
@@ -637,7 +637,7 @@ would love to shop in a store with zero human workers.
 
 PMI is a good sign of demand. Down like a rock. \#US
 
-[Link](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#pmi)
+[Link](../../2021/01/stats.html#pmi)
 
 ---
 

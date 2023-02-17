@@ -2,7 +2,7 @@
 
 Update of econ numbers. VIX is down to 46. Dollar >100.
 
-[Link](../../2019/05/stats.html)
+[Link](../../2021/01/stats.html)
 
 ---
 
@@ -955,13 +955,13 @@ something?
 
 And da cycle
 
-[Link](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#cycle)
+[Link](../../2021/01/stats.html#cycle)
 
 ---
 
 Here I did Steve Keen's favorite graph.
 
-[Link](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#credit)
+[Link](../../2021/01/stats.html#credit)
 
 ---
 

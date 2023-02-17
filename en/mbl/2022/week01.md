@@ -592,6 +592,6 @@ For European natgas prices, the future contract Dutch TTF can be used.
 
 EU natgas price has been at insane levels.. fell somewhat recently.
 
-[[-]](../../2019/05/stats.html#eunatgas)
+[[-]](../../2021/01/stats.html#eunatgas)
 
 ---

@@ -183,7 +183,7 @@ Spark Plug Rain - Profane Saints \#music
 
 ---
 
-PMI [flat](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#pmi). Not good. 
+PMI [flat](../../2021/01/stats.html#pmi). Not good. 
 
 ---
 

@@ -147,7 +147,7 @@ Be too cool for school.
 
 ---
 
-I had to [reproduce it](../../2019/05/stats.html#gdpism)
+I had to [reproduce it](../../2021/01/stats.html#gdpism)
 
 ---
 

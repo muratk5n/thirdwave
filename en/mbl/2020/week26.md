@@ -881,7 +881,7 @@ Wealth inequality stayed level for 20Q1, with miniscule decrease
 2020-01-01    0.474
 ```
 
-[Link](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#gini)
+[Link](../../2021/01/stats.html#gini)
 
 ---
 

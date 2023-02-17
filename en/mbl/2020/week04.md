@@ -39,7 +39,7 @@ career. I’m not exaggerating... "
 
 ---
 
-Inflation [increased](../../2019/05/stats.html) to 2.28%, non-farm
+Inflation [increased](../../2021/01/stats.html) to 2.28%, non-farm
 payroll decelerated to %1.40
 
 Fourth quarter earnings are expected to [decrease](https://lipperalpha.refinitiv.com/2020/01/this-week-in-earnings-9/) 0.5% from 18Q4

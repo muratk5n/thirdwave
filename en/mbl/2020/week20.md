@@ -1029,7 +1029,7 @@ total working-age population. Jumped to 23.8%.
 2020-04-01    23.874394
 ```
 
-[Link](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#unempl)
+[Link](../../2021/01/stats.html#unempl)
 
 ---
 
@@ -1068,7 +1068,7 @@ government is now making the code for this app open-source"
 
 The pic is hysterical 
 
-[Link](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#wagepayroll)
+[Link](../../2021/01/stats.html#wagepayroll)
 
 ---
 
@@ -1079,7 +1079,7 @@ Non-farm payrolls YoY
 2020-04-01  131072 -12.904340
 ```
 
-[Link](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#nfp)
+[Link](../../2021/01/stats.html#nfp)
 
 ---
 

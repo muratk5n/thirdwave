@@ -444,7 +444,7 @@ months later in June 2008, he joined Facebook's board"
 But employee compensation as part of corporate revenue is going
 down. It's *been* going down since the 70s. Not good.
 
-[[-]](../../2019/05/stats.html#compprof)
+[[-]](../../2021/01/stats.html#compprof)
 
 ---
 

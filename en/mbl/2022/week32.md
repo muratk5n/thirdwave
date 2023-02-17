@@ -52,7 +52,7 @@ Vacancy rate, the number of job openings per unemployed which shows
 "labor market tightness" is through the roof. The great resignation
 might have had an effect here.
 
-[[-]](../../2019/05/stats.html#vacrate)
+[[-]](../../2021/01/stats.html#vacrate)
 
 ---
 

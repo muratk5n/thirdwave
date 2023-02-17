@@ -147,7 +147,7 @@ Dude that line upwards has no paralel. Effin freaky shit!
 
 ```2020-03-21  3,283,000```
 
-[Link](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#claims)
+[Link](../../2021/01/stats.html#claims)
 
 ---
 
@@ -214,7 +214,7 @@ There is random and there is random, nam sayin?
 
 As demand goes, so does oil.. With growth exp low the demand for oil would be less
 
-[Link](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#oil)
+[Link](../../2021/01/stats.html#oil)
 
 ---
 
