@@ -447,7 +447,7 @@ much can do that,’ said Vice Adm. Karl Thomas"
 Latest EQ summary - 2021 looked bad, new counts normal. Not an
 apocalypse - for now.
 
-[[-]](../../2019/05/natdisaster.html#equakes)
+[[-]](../../2023/01/natdisaster.html#equakes)
 
 ---
 

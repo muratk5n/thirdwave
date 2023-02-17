@@ -35,7 +35,7 @@ be useful..
 New monthly equake counts, since 2013. There's been a spike recently,
 undeniable.
 
-[[-]](../../2019/05/natdisaster.html#equakes)
+[[-]](../../2023/01/natdisaster.html#equakes)
 
 ---
 

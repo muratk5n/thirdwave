@@ -299,7 +299,7 @@ natural gas in the future"
 
 Global Earthquake Fault Lines
 
-[[-]](2019/05/natdisaster.html#equakes)
+[[-]](../../2023/01/natdisaster.html#equakes)
 
 ---
 

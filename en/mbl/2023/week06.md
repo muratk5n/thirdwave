@@ -421,7 +421,7 @@ and back - 466 times"
 But overall a lot of hardware is parked stateside and Japan, not a war-time
 mobilization.
 
-[[-]](../../2019/05/usmil.html#navy)
+[[-]](../../2023/01/usmil.html#navy)
 
 ---
 

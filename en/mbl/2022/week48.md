@@ -364,7 +364,7 @@ ambition to be ‘destination of choice’"
 
 ---
 
-Great.. yes these are all major nodes in the drug smuggling [network](../../2019/05/drugs.html),
+Great.. yes these are all major nodes in the drug smuggling [network](../../2023/01/drugs.html),
 especially Spain (due to its geo)
 
 F24: "Police bust cocaine 'super-cartel' in Europe and Dubai.. The

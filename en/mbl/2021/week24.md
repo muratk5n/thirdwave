@@ -312,7 +312,7 @@ Japan, and Vietnam / Singapore.
 Navy location map update. Added more destroyers, and guided missile
 cruisers.
 
-[Link](../../2019/05/usmil.html#navy)
+[Link](../../2023/01/usmil.html#navy)
 
 ---
 
@@ -573,7 +573,7 @@ it is around Oman.
 US Navy deployment map below, for a few carriers and destroyers, to
 give a rough idea of the focus.. 
 
-[Link](../../2019/05/usmil.html#navy)
+[Link](../../2023/01/usmil.html#navy)
 
 ---
 

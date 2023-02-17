@@ -1167,7 +1167,7 @@ change"
 
 2021 fires increased by a whopping 40% compared to 2020
 
-[[-]](../../2019/05/natdisaster.html#fires)
+[[-]](../../2023/01/natdisaster.html#fires)
 
 ---
 

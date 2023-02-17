@@ -139,7 +139,7 @@ Union (#EU)"
 
 US / Europe Nuclear Missile, Bomb Locations
 
-[Link](../../2019/05/usmil.html#nuke)
+[Link](../../2023/01/usmil.html#nuke)
 
 ---
 

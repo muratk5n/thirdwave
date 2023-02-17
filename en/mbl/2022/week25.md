@@ -74,7 +74,7 @@ Armenia.. Hmm.. But there aren't rich countries around Armenia.. What
 gives? But I see transport into Canada; are they using Armenian
 diaspora in rich countries to distribute the stuff?
 
-[[-]](2019/05/drugs.html)
+[[-]](../../2023/01/drugs.html)
 
 ---
 
@@ -914,7 +914,7 @@ Put data on Github so it is version controlled.
 
 ---
 
-[Map of Drug Routes](../../2019/05/drugs.html)
+[Map of Drug Routes](../../2023/01/drugs.html)
 
 ---
 

@@ -118,9 +118,9 @@ Al Jazeera: "Russia surrounds Bakhmut as Ukraine sends in troops"
 
 ## Reference
 
-[Nations and Nationalism, Culture, Narratives](2013/02/nations-and-nationalism.html)
+[Nations and Nationalism, Culture, Narratives](0119/2013/02/nations-and-nationalism.html)
 
-[The Fundamentals of Industrial Ideologies](2011/04/fundamentals-of-industrial-ideologies.html)
+[The Fundamentals of Industrial Ideologies](0119/2011/04/fundamentals-of-industrial-ideologies.html)
 
 [Education, Workplace](0119/2017/09/education-workplace.html)
 

@@ -254,7 +254,7 @@ about to change
 
 ---
 
-US bases [around the world](../../2019/05/usmil.html#bases) 
+US bases [around the world](../../2023/01/usmil.html#bases) 
 
 ---
 
