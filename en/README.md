@@ -40,9 +40,9 @@ it to power home and other applications. Once NH3 itself is clean,
 
 ---
 
-I bet these guys later went to Anatolia as well and contribute to its
-culture; they must have brought yoghurt (a milk product) with them. No
-wonder Herodotus knew about it in 800 BC.
+I bet these guys later went to Anatolia as well; they must have
+brought yoghurt (a milk product) with them. No wonder Herodotus knew
+about it in 800 BC.
 
 ---
 
@@ -60,10 +60,10 @@ Steppe Migration Map - pastoralists came from Yamnaya
 
 ---
 
-Anatolian farmers migrated to Europe, later 4800 BC pastoralist steppe
-people migrated there. Farmers got wiped out by plague, they were
-kinda unhealthy too much grain (lactose intol too, could not handle
-milk, cheese). Their death eased steppe migration, pastoralists
+Farmers from A. Minor migrated to Europe, later 4800 BC pastoralist
+steppe people migrated there. Farmers got wiped out by plague, they
+were kinda unhealthy too much grain (lactose intol too, could not
+handle milk, cheese). Their death eased steppe migration, pastoralists
 attacked them too. In some ways Europeans (esp males) are Russians.
 
 Steppers were pastoralists, had 'free-range' cattle moved a lot, lived
@@ -93,16 +93,14 @@ Mercedes truck"
 
 ---
 
-A season free of Jar Jar Ibrahim and his acolytes. That will fix most
-problems.
+A season free of Jar Jar Ibrahim and his acolytes.. That would fix
+most of the problems.
 
 ---
 
 That new Picard episode wasn't half-bad.. Is Trek fixing itself?
 
 ---
-
-Dam
 
 "@CriticalCupcake@mastodon.lol
 
