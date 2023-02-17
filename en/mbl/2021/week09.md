@@ -471,7 +471,7 @@ how I knew a month ago growth was coming.
 
 ---
 
-Better believe it ... See [calc](../../2019/03/wirespipes.html#10calc)
+Better believe it ... See [calc](../../2022/01/wirespipes.html#10calc)
 
 "I can't believe H2 pipeline can transmit 10x faster than electrical grids"
 
@@ -589,7 +589,7 @@ four-stroke diesel and gas engine technology"
 
 ---
 
-Reminder: Abt 1600 miles of H2 pipelines are already [operational](../../2019/03/wirespipes.html#doe) in US
+Reminder: Abt 1600 miles of H2 pipelines are already [operational](../../2022/01/wirespipes.html#doe) in US
 today. This is proven tech.
 
 ---

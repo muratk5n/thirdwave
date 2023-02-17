@@ -734,7 +734,7 @@ blocking exports worth more than $16 billion"
 The study confirms the optimal transport capability of H2; we can
 project that scenario to onshore-onshore as well.. Producing green
 fuel in North Africa pipelining it into Europe, or within the states
-of US. See [Wires vs Pipes](../../2019/03/wirespipes.html).
+of US. See [Wires vs Pipes](../../2022/01/wirespipes.html).
 
 Aquaventus: "In all three dimensions examined, offshore electrolysis
 with pipeline connection emerges as the best approach: According to

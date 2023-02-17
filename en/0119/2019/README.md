@@ -16,8 +16,6 @@
 
 [H2@Scale](03/h2scale.html)
 
-[Wires vs Pipes](03/wirespipes.html)
-
 [Bancor](06/bancor.html)
 
 [Infrastructure for Space, Bezos](06/bezos-space-infrastructure.html)

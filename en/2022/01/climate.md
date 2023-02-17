@@ -2,7 +2,7 @@
 
 [Clean Fuels are the Solution](clean-fuel-is-the-solution.html)
 
-[Wires vs Pipes](../../2019/03/wirespipes.html)
+[Wires vs Pipes](wirespipes.html)
 
 [Energy Statistics](../../2022/01/energstats.html)
 

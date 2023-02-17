@@ -830,7 +830,7 @@ Ukraine, says Kremlin"
 
 ---
 
-Better to transmit clean fuels - [efficient](../../2019/03/wirespipes.html) and clean.
+Better to transmit clean fuels - [efficient](../../2022/01/wirespipes.html) and clean.
 
 NPR: "Keystone pipeline spills in Kansas, dirtying creek .. Mill Creek
 flows into the Little Blue River, which flows into the Big Blue

@@ -655,7 +655,7 @@ part to catch up and 'kill fossil'.
 Fast is no joke. Standard electric tower can reliably transmit 2.2
 GW. An H2 pipeline can transmit over 33 GW with near zero loss.
 
-[[-]](2019/03/wirespipes.html#10calc)
+[[-]](2022/01/wirespipes.html#10calc)
 
 ---
 
