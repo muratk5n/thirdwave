@@ -26,11 +26,11 @@
 
 [The Sunshine Map](sunshine-map.html)
 
-[Temparature Increase](../../2015/08/temp-increase.html)
+[Temparature Increase](../../0119/2015/08/temp-increase.html)
 
-[January Temperatures](../../2018/01/january-temperatures.html)
+[January Temperatures](../../0119/2018/01/january-temperatures.html)
 
-[The Math for Greenhouse Effect and Global Warming](../../2019/07/greenhouse-effect-math.html)
+[The Math for Greenhouse Effect and Global Warming](../../0119/2019/07/greenhouse-effect-math.html)
 
 [Historical Carbon Emissions](../../2021/07/historical-carbon-emissions.html)
 
@@ -38,6 +38,6 @@
 
 [Oil, Gas and Minerals](../../2022/01/oilgasmin.html)
 
-[Flow Batteries, Built with Iron and Water](../../2018/07/battery-fueled-by-iron-and-water.html)
+[Flow Batteries, Built with Iron and Water](../../0119/2018/07/battery-fueled-by-iron-and-water.html)
 
 [[Up]](../..)
