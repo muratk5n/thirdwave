@@ -22,10 +22,6 @@ Congressman Gaetz said"
 
 ---
 
-<img width='340' src='mbl/2023/toot_h2eu.jpg'/> 
-
----
-
 Info on AFCs
 
 [[-]](2022/02/ammonia.html#afc)
