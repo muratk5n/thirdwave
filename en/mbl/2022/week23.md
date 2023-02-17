@@ -384,7 +384,7 @@ months it peaks.
 
 Latest from Gun Violence Archive data, new plot. Obviously May looks bad.
 
-[[-]](../../2019/05/confstats.html#usgun)
+[[-]](../../2023/01/confstats.html#usgun)
 
 ---
 

@@ -154,7 +154,7 @@ and improve efficiency of producing hydrogen using electrolyzers"
 
 ---
 
-[ME attacks](../../2019/05/confstats.html#gdelt) GDELT update. Now plotting
+[ME attacks](../../2023/01/confstats.html#gdelt) GDELT update. Now plotting
 US bases alongside attacks.
 
 Heavy US presence in Northeast Syria, an area that doesnt seem to get
@@ -166,7 +166,7 @@ Yes there is an increase
 
 ---
 
-US gun violence increased? [Check](../../2019/05/confstats.html#usgun)
+US gun violence increased? [Check](../../2023/01/confstats.html#usgun)
 
 ---
 
@@ -442,7 +442,7 @@ for 70,000 in fast food"
 
 ---
 
-UCDP/PRIO May file [is out](../../2019/05/confstats.html). Afganistan, Yemen,
+UCDP/PRIO May file [is out](../../2023/01/confstats.html). Afganistan, Yemen,
 Nigeria deaths increased. 
 
 ---
@@ -649,7 +649,7 @@ largest naval exercise in the Pacific since Cold War"
 
 ---
 
-Conflict stats [update](../../2019/05/confstats.html#gdelt)
+Conflict stats [update](../../2023/01/confstats.html#gdelt)
 
 ---
 

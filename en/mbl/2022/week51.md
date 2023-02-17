@@ -573,7 +573,7 @@ Africa btw 2012-2016, according to GTD counts went "from 114 attacks
 and 1,944 fatalities in 2006, to 2,051 attacks and 13,182 fatalities
 in 2016". I checked GTD (all incidents, all deaths, monthly, ends
 2020-06), there is a spike. I'd call the increases significant. Since
-2016 numbers went down now they are lower. See [post](../../2019/05/confstats.html#gtdafrica).
+2016 numbers went down now they are lower. See [post](../../2023/01/confstats.html#gtdafrica).
 
 [[-]](https://carnegieendowment.org/2018/02/09/do-terrorist-trends-in-africa-justify-u.s.-military-s-expansion-pub-75476)
 

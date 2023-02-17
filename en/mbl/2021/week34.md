@@ -176,7 +176,7 @@ connected new state.
 UCDP/PRIO conflict stats for July. A jump in deaths in Myanmar.. Egypt
 is climbing up? Somalia, Nigeria, Zaire are still up there..
 
-[Link](../../2019/05/confstats.md)
+[Link](../../2023/01/confstats.html)
 
 ---
 

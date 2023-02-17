@@ -415,7 +415,7 @@ UCDP/PRIO conflict stats update. Fall in Mozambique, Afghanistan
 down. Somalia, Nigeria, in turmoil as before.  Increase of deaths in Pakistan,
 Yemen. The latter looks pretty bad actually.
 
-[[-]](../../2019/05/confstats.html)
+[[-]](../../2023/01/confstats.html)
 
 ---
 

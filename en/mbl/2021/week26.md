@@ -145,7 +145,7 @@ something worse (for them).
 
 ---
 
-[ME Conflict Stats](../../2019/05/confstats.html#gdelt)
+[ME Conflict Stats](../../2023/01/confstats.html#gdelt)
 
 ---
 

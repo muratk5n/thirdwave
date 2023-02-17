@@ -93,7 +93,7 @@ coordinates.
 
 ---
 
-Conflict stats [update](../../2019/05/confstats.html#gdelt), past 5 days,
+Conflict stats [update](../../2023/01/confstats.html#gdelt), past 5 days,
 around Iraq and Syria. As before click on Output for the map.
 
 ---

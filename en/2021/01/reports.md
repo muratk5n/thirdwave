@@ -4,15 +4,15 @@
 
 [Energy](../../2022/01/energstats.html)
 
-[Conflicts](../../0119/2019/05/confstats.html)
+[Conflicts](../../2023/01/confstats.html)
 
-[Earthquakes](../../0119/2019/05/natdisaster.html#equakes)
+[Earthquakes](../../2023/01/natdisaster.html#equakes)
 
-[Fires](../../0119/2019/05/natdisaster.html#fires)
+[Fires](../../2023/01/natdisaster.html#fires)
 
 [Citizens Shot By the Police](../../2023/01/us-crime.html#allshoot)
 
-[US Military (Bases, Nukes)](../../0119/2019/05/usmil.html)
+[US Military (Bases, Nukes)](../../2023/01/usmil.html)
 
 [Oil, Gas and Minerals](../../2022/01/oilgasmin.html)
 

@@ -460,7 +460,7 @@ World Crude Oil Production, now through EIA API. Good source.
 
 ---
 
-Global conflict [stats](../../2019/05/confstats.html) for September.
+Global conflict [stats](../../2023/01/confstats.html) for September.
 
 Afghanistan deaths way down (surprise), from over 4000. Incident count
 too high for Mexico, though deaths not much.. drug related attacks,

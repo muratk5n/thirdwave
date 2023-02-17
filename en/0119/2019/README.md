@@ -18,16 +18,6 @@
 
 [Wires vs Pipes](03/wirespipes.html)
 
-[Conflict Statistics](05/confstats.html)
-
-[Drugs](05/drugs.html)
-
-[Natural Disasters](05/natdisaster.html)
-
-[Slippage, H2, the Transition](05/slippage.html)
-
-[US Military](05/usmil.html)
-
 [Bancor](06/bancor.html)
 
 [Infrastructure for Space, Bezos](06/bezos-space-infrastructure.html)

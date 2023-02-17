@@ -51,7 +51,7 @@ UCDP/PRIO Conflict Dataset update for June.
 
 AFG deaths same. Improvements in Nigeria, Yemen and Chad.
 
-[Link](../../2019/05/confstats.md)
+[Link](../../2023/01/confstats.md)
 
 ---
 
