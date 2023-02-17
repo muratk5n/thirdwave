@@ -63,9 +63,8 @@ def get_eq_all():
     df.columns = ['mag','lat','lon','rad','ago']
     return df
 
-def region():
+def eq_region(lat,lon):
     today = datetime.datetime(2020, 8, 5)
-    lat,lon = 34, 35
     D = 1000
     lat1,lon1 = to_bearing(lat,lon,np.deg2rad(45),D)
     lat2,lon2 = to_bearing(lat,lon,np.deg2rad(225),D)
@@ -89,6 +88,3 @@ def region():
         ).add_to(m)
 
     m.save('equake-out.html')
-
-if __name__ == "__main__": 
-    do_region()
