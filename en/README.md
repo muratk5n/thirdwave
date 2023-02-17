@@ -1,143 +1,124 @@
 
+---
 
-NL company - apparently they can do this at scale? Supercritical water
-gasification - something to look out for.
-
-SCW Systems: "[W]e also know water as a gas in the form of steam and
-as a solid in the form of ice. But there is also a fourth state of
-water: the supercritical state. Under extreme conditions (very high
-pressure and temperature) water acquires very special properties. This
-is the core of this technology.
-
-If we mix water with organic wastes and bring it into the
-supercritical state, something special happens. All organic matter in
-the water, both recently formed organic matter and fossil-based,
-breaks down into gases we can put to good use: methane and hydrogen"
-
-via @vanderbeeken@mastodon.online
-
-[[-]](https://scwsystems.com/en/cleanup-gas/)
+INN: "Copper Prices Could See "Astronomical Rise" as Supply Concerns
+Increase"
 
 ---
 
-Politico.eu: "France slams Disney’s Black Panther over depiction of
-French troops.. The film depicts Western countries, particularly
-France, attempting to steal resources of a fictional high-tech African
-country"
+The Telegraph: "Antony Blinken 'warns Ukraine' against retaking Crimea"
 
 ---
 
-Bloomberg: "Nuclear Power Wins Carve-Out Under EU's Green Hydrogen Rules"
+"Matt Gaetz Leads 11 Lawmakers in Introduction of 'Ukraine Fatigue'
+Resolution to Halt U.S. Aid to Ukraine.. 'Biden must have forgotten
+his prediction from March 2022, suggesting that arming Ukraine with
+military equipment will escalate the conflict to ‘World War III.’
+America is in a state of managed decline, and it will exacerbate if we
+continue to hemorrhage taxpayer dollars toward a foreign war. We must
+suspend all foreign aid for the War in Ukraine and demand that all
+combatants in this conflict reach a peace agreement immediately,'
+Congressman Gaetz said"
 
 ---
 
-H2 Central: "UK’s first globally recognised certification scheme will
-help verify the sustainability of low carbon hydrogen"
+<img width='340' src='mbl/2023/toot_h2eu.jpg'/> 
 
 ---
 
-TASS: "US investigative journalist Seymour Hersh, who last week
-published a summary of his inquiry about the US being responsible for
-the explosions on the Nord Stream and Nord Stream 2 pipelines, has
-accused the leading US media of glossing over his findings"
+Info on AFCs
+
+[[-]](2022/02/ammonia.html#afc)
 
 ---
 
-Snowden: "It’s not aliens. I wish it were aliens. But it's not
-aliens. It’s just the ol' engineered panic, an attractive nuisance
-ensuring natsec reporters get assigned to investigate balloon bullshit
-rather than budgets or bombings (a la nordstream)" \#UFO
+If I had to pick one clean tech product to focus on personally, it
+would be an ammonia fuel-cell for home/personal use (low temperature
+version). Purchase fuel from existing ammonia infrastructure, then use
+it to power home and other applications. Once NH3 itself is clean,
+"well-to-wheel" becomes clean. 
 
 ---
 
-This might actually be the paper that initiated the word 'stochastic parrot' 
-\#ChatGPT \#DeepShit
-
-"On the Dangers of Stochastic Parrots.. [One] category of risk
-involves bad actors taking advantage of the ability of large
-[neural-net based language models -LM-]s to produce large quantities
-of seemingly coherent texts on specific topics on demand in cases
-where those deploying the LM have no investment in the truth of the
-generated text. These include prosaic cases, such as services set up
-to ‘automatically’ write term papers or interact on social media..
-
-Yet another risk connected to seeming coherence and fluency involves
-machine translation (MT) and the way that increased fluency of MT
-output changes the perceived adequacy of that output.  This differs
-somewhat from the cases above in that there was an initial human
-communicative intent, by the author of the source language
-text. However, MT systems can (and frequently do) produce output that
-is inaccurate yet both fluent and (again, seemingly) coherent in its
-own right to a consumer who either doesn’t see the source text or
-cannot understand the source text on their own"
-
-[[-]](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)
+I bet these guys later went to Anatolia as well and contribute to its
+culture; they must have brought yoghurt (a milk product) with them. No
+wonder Herodotus knew about it in 800 BC.
 
 ---
 
-People will still work for extra pay. But in terms of the essentials,
-we need to remember currently less than 2% of US labor is sufficient
-to produce food - this is the percentage of labor in farming. That
-means the labor of 98% is already not necessary for the most essential
-item - sustenance.
-
-"If everyone could retire at 18 who would work and produce?"
+IMO pastoralists represent a third kind of human organization - other
+two are forager, farmer, this is the third way, they did domesticate
+animals but do not stay in one place as the static farmer giving them
+an advantage. Their main archetype would be the shephard. I see them
+closer to foragers than farmers.
 
 ---
 
-@EU_Competition@respublicae.eu
+Steppe Migration Map - pastoralists came from Yamnaya
 
-\#EUStateAid \#EUGreenDeal 🌱Commission 🇪🇺approves €170 million Danish
-🇩🇰 scheme to support #renewable #hydrogen production
-
-<img width='340' src='https://files.respublicae.eu/media_attachments/files/109/868/570/243/686/745/original/cc05ba4a1056cfda.jpg'/> 
+<img width='340' src='mbl/2023/yamnaya.jpg'/> 
 
 ---
 
-The Brussel Times: "NATO can't keep up with Ukraine's ammunition
-needs, says [Secretary General] Stoltenberg"
+Anatolian farmers migrated to Europe, later 4800 BC pastoralist steppe
+people migrated there. Farmers got wiped out by plague, they were
+kinda unhealthy too much grain (lactose intol too, could not handle
+milk, cheese). Their death eased steppe migration, pastoralists
+attacked them too. In some ways Europeans (esp males) are Russians.
+
+Steppers were pastoralists, had 'free-range' cattle moved a lot, lived
+on milk and meat, not grain. Healthier, were physically more fit,
+taller on average.
 
 ---
 
-"The West wanted to attack Putin so they blocked legitimate attempt at peace"
+Fantastic lecture (1 hour) by Kristian Kristiansen. Summary above.
 
-Russia-Ukraine War: Ex-Israel PM Naftali Bennett's Shocking
-Revelations \#Sharma
+"Towards a New European prehistory: genes, archaeology and language"
 
-[[-]](https://youtu.be/JREMEqXSpGA)
-
----
-
-U-oh.. Lord Austin called South China Sea the "West Philippine Sea"
+[[-]](https://youtu.be/bxTVSwt-jsU?t=799)
 
 ---
 
-Eurasian Times: "US Gets Access To 9 Military Bases In The Philippines"
+Mark Pritchard - The Essence \#music
+
+[[-]](https://youtu.be/h80JaYQvByA)
 
 ---
 
-F24: "Israelis march against judicial reforms as president warns of
-'legal collapse'"
+H2 View: "JCB installs hydrogen ICE into 7.5 tonne Mercedes
+truck.. British construction and agricultural equipment manufacturer
+JCB has installed its hydrogen combustion engine into a 7.5 tonne
+Mercedes truck"
 
 ---
 
-Guy signed up right after 9/11 in that gung-ho atmosphere, deployed to
-Afghanistan; But called the Iraqi invasion illegal, and was killed
-afterwards?  Actually from a just war viewpoint, AFG was the place
-9/11 originated, so attacking it at least initially may not
-be.. unjust. I had not heard about the PT Iraqi crit, that's good, the
-guy wasn't some blind overzealous nationalist dipshit. He was probably
-killed for it, by the deep state, sorry "friendly fire" 🤔.
-
-Common Dreams: "Anti-War Voices Accuse Super Bowl of 'Hijacking the
-Pat Tillman Story'.. One journalist reminded readers that the NFL star
-and Army Ranger 'called the Iraq invasion and occupation 'fucking
-illegal' and was killed by friendly fire in an incident the military
-covered up and tried to hide from his family'"
+A season free of Jar Jar Ibrahim and his acolytes. That will fix most
+problems.
 
 ---
 
-Reuters: "EU lawmakers approve effective 2035 ban on new fossil fuel cars"
+That new Picard episode wasn't half-bad.. Is Trek fixing itself?
+
+---
+
+Dam
+
+"@CriticalCupcake@mastodon.lol
+
+Lightning struck Christ the Redeemer in Rio de Janeiro on February 10,
+2023"
+
+[[-]](https://media.mastodon.lol/media_attachments/files/109/851/961/551/641/096/original/5063508bff37c9f8.png)
+
+---
+
+WION: "Estimates show between 1mn & 1.5mn died in China since it
+rescinded its ‘zero Covid’ policy"
+
+---
+
+Al Jazeera: "Russia surrounds Bakhmut as Ukraine sends in troops"
 
 ---
 
