@@ -122,25 +122,25 @@ Al Jazeera: "Russia surrounds Bakhmut as Ukraine sends in troops"
 
 [The Fundamentals of Industrial Ideologies](2011/04/fundamentals-of-industrial-ideologies.html)
 
-[Education, Workplace](2017/09/education-workplace.html)
+[Education, Workplace](0119/2017/09/education-workplace.html)
 
-[Science and Technology](2018/09/science-technology.html)
+[Science and Technology](0119/2018/09/science-technology.html)
 
-[Democracy, Parties](2016/11/democracy.html)
+[Democracy, Parties](0119/2016/11/democracy.html)
 
-[Economy](2018/05/economy.html)
+[Economy](0119/2018/05/economy.html)
 
-[Globalization](2018/09/globalization.html)
+[Globalization](0119/2018/09/globalization.html)
 
-[Rome, The First Wave, Religion](2017/12/rome.html)
+[Rome, The First Wave, Religion](0119/2017/12/rome.html)
 
 [Human Nature & Health](2020/07/human-nature.html)
 
-[Climate Change](2018/12/climate.html)
+[Climate Change](2022/01/climate.html)
 
 [Reports](2021/01/reports.html)
 
-[The Middle East](2019/07/middleeast.html)
+[The Middle East](0119/2019/07/middleeast.html)
 
 [TR](../tr)
 
