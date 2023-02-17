@@ -126,9 +126,9 @@ C 2 at ambient pressure and near ambient temperature
 
 References
 
-[Ammonia as fuel](https://youtu.be/5ejL65tKsGM)
+[Ammonia as Fuel](https://youtu.be/5ejL65tKsGM)
 
-Info from Japan on [direct combustion](https://youtu.be/5ejL65tKsGM?t=107)
+[Direct Combustion](https://youtu.be/5ejL65tKsGM?t=107)
 
 [CSIRO](../../2018/10/csiro.html)
 
