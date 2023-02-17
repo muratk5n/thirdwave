@@ -1,7 +1,7 @@
 # Economy, Calculations, Data
 
 ```python
-import util as u
+import impl as u
 import pandas as pd
 pd.set_option('display.max_columns', None)
 ```
@@ -75,12 +75,12 @@ DATE
 2022-10-01  0.959254
                  inf
 DATE                
-2022-07-01  8.524815
 2022-08-01  8.262693
 2022-09-01  8.201670
 2022-10-01  7.745427
 2022-11-01  7.110323
 2022-12-01  6.454401
+2023-01-01  6.410147
 ```
 
 <a name='taylor'/>
@@ -97,19 +97,19 @@ df['Curr'] = df.PCEPI.pct_change()*100.
 df['Taylor'] = (longrun + df.Curr + 0.5*(df.Curr - longrun) + 0.5*df.Gap)
 print (df.Taylor.tail(4))
 df[['FEDFUNDS','Taylor']].plot()
-plt.savefig('taylor.png')
+plt.savefig('taylor.jpg',quality=40)
 ```
 
 ```text
 DATE
-2019-01-01    3.017600
-2020-01-01    0.024595
-2021-01-01    5.984414
-2022-01-01    7.657455
+2020-01-01    0.245628
+2021-01-01    6.687927
+2022-01-01    9.984827
+2023-01-01    2.954121
 Freq: AS-JAN, Name: Taylor, dtype: float64
 ```
 
-![](taylor.png)
+![](taylor.jpg)
 
 ## Wages and Unemployment
 
@@ -361,11 +361,11 @@ plt.savefig('sp500-earnings.png')
 ```text
             SP 500 Earnings
 Date                       
-2022-02-28           207.66
-2022-03-31           204.94
-2022-04-30           201.86
-2022-05-31           197.74
-2022-06-30           193.17
+2022-05-31           197.13
+2022-06-30           192.58
+2022-07-31           190.87
+2022-08-31           189.21
+2022-09-30           187.07
 ```
 
 ![](sp500-earnings.png)
@@ -420,12 +420,12 @@ plt.savefig('dollar.png')
 
 ```text
 Date
-2023-02-03    102.919998
-2023-02-05    103.270000
-2023-02-06    103.620003
-2023-02-07    103.397003
+2023-02-14    103.230003
+2023-02-15    103.919998
+2023-02-16    103.860001
+2023-02-17    104.515999
 Name: Close, dtype: float64
-[ 81.03727281 111.52732215]
+[ 81.04615717 111.52832983]
 ```
 
 ![](dollar.png)
