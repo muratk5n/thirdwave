@@ -26,7 +26,7 @@
 
 [The Sunshine Map](sunshine-map.html)
 
-[Temparature Increase](../../0119/2015/08/temp-increase.html)
+[Temparature Increase](temp-increase.html)
 
 [January Temperatures](../../0119/2018/01/january-temperatures.html)
 

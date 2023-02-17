@@ -70,8 +70,6 @@
 
 [What if we had voted "YES"?](07/what-if-we-had-voted-yes.html)
 
-[Temperature Increase](08/temp-increase.html)
-
 [The Deal](08/the-deal.html)
 
 [UFOs](08/ufo.html)
