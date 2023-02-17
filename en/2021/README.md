@@ -1,5 +1,9 @@
 # 2021
 
+[Reports](01/reports.html)
+
+[Economy, Calculations, Data](01/stats.html)
+
 [Into the Quagmire](02/into-the-quagmire.html)
 
 [Nutritional Values, Requirements](02/nutritional-values.html)

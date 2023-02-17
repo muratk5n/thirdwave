@@ -22,17 +22,9 @@
 
 [Drugs](05/drugs.html)
 
-[Energy Stats](05/energstats.html)
-
 [Natural Disasters](05/natdisaster.html)
 
-[Oil, Gas and Minerals](05/oilgasmin.html)
-
-[Reports](05/reports.html)
-
 [Slippage, H2, the Transition](05/slippage.html)
-
-[Economy, Calculations, Data](05/stats.html)
 
 [US Military](05/usmil.html)
 

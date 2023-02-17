@@ -1034,7 +1034,7 @@ Al Jazeera: "Apple Inc workers in Maryland, US vote to join a union"
 ---
 
 All previous reports, graphs, maps shared are accessible from the
-[reports](../../2019/05/reports.html) page.
+[reports](../../2021/01/reports.html) page.
 
 ---
 

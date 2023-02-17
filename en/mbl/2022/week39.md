@@ -447,7 +447,7 @@ It looks like Japan doesn't have uranium (either)..
 
 Minerals Map
 
-[[-]](../../2019/05/oilgasmin.html#minerals)
+[[-]](../../2022/01/oilgasmin.html#minerals)
 
 ---
 

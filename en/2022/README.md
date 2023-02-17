@@ -1,8 +1,12 @@
 # 2022
 
+[Energy Stats](01/energstats.html)
+
 [Faux Contrarians, Faux Libertarians](01/faux-contrarians-faux-liberterians.html)
 
 [Energy for Heating](01/heating-calculation-fourier.html)
+
+[Oil, Gas and Minerals](01/oilgasmin.html)
 
 [Particles, Science and AI](01/particles-and-ai.html)
 

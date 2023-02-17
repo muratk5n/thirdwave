@@ -435,7 +435,7 @@ In US there's a massive belt of coal dots around.. "the Apalachia" I guess
 
 Coal mines map
 
-[[-]](../../2019/05/oilgasmin.html#minerals)
+[[-]](../../2022/01/oilgasmin.html#minerals)
 
 ---
 

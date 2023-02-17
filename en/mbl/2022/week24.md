@@ -876,7 +876,7 @@ The pipeline map.. The route around West Africa is nuts; It is between
 Nigeria and Spain, but all the countries in between likely wanted a
 cut, so little pieces go into all of them during transit \#ngmap
 
-[[-]](../../2019/05/oilgasmin.html#pipelines)
+[[-]](../../2022/01/oilgasmin.html#pipelines)
 
 ---
 
@@ -1158,6 +1158,6 @@ reported.
 
 World Natural Gas Pipelines 
 
-[[-]](../../2019/05/oilgasmin.html#pipelines)
+[[-]](../../2022/01/oilgasmin.html#pipelines)
 
 ---
