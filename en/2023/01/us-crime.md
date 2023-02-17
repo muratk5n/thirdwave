@@ -97,7 +97,7 @@ import requests, json
 agency = "AL0010100" # Bessemer Police Department
 year = 2019
 
-key = open("../../2019/05/.key/.datagov").read()
+key = open("../../0119/2019/05/.key/.datagov").read()
 url = "https://api.usa.gov/crime/fbi/sapi/api/summarized/agencies/%s/offenses/%d/%d?api_key=%s" % (agency,year,year,key)
 response = requests.get(url)
 res = json.loads(response.text)

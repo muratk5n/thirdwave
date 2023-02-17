@@ -113,7 +113,7 @@ it of course to inflate your results...
 
 ```python
 import pandas as pd
-df = pd.read_csv('../../2019/05/bp-stats-review-2022-consolidated-dataset-panel-format.csv')
+df = pd.read_csv('../../2022/01/bp-stats-review-2022-consolidated-dataset-panel-format.csv')
 df = df[(df.Country == 'Total World') & (df.Year == 2020)]
 x = float(df['electbyfuel_ren_power'])
 t = float(df['primary_ej'])*277.778

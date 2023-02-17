@@ -56,7 +56,7 @@ winners from €1.8bn handout"
 
 World Oil Production
 
-[[-]](../../2019/05/energstats.html#worldoil)
+[[-]](../../2022/01/energstats.html#worldoil)
 
 ---
 
@@ -70,7 +70,7 @@ Update on energy production by source, new data from BP. Renewables
 don't look good. The 2% guesstimate checks out in the data (1.9% to be
 exact -see the pie chart-).
 
-[[-]](../../2019/05/energstats.html#sources)
+[[-]](../../2022/01/energstats.html#sources)
 
 ---
 
@@ -240,7 +240,7 @@ OPEC oil production below. The supply just isn't there.. No wonder
 prices are high. At peak production was around 32 million barrels per
 day, now it's at 29 mil.
 
-[[-]](../../2019/05/energstats.html#opec)
+[[-]](../../2022/01/energstats.html#opec)
 
 ---
 
@@ -783,7 +783,7 @@ equivalent to 10 Nordstream pipelines. Not bad.
 
 LNG ship traffic per year
 
-[[-]](../../2019/05/energstats.html#lng)
+[[-]](../../2022/01/energstats.html#lng)
 
 ---
 

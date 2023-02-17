@@ -814,7 +814,7 @@ Spinning in His Grave Over the Modern Franchise"
 
 ---
 
-[Lumbeeeeer](../../2019/05/energstats.html#lumber)
+[Lumbeeeeer](../../2022/01/energstats.html#lumber)
 
 ---
 
@@ -1058,7 +1058,7 @@ Energy (all energy) consumption per country (in GW)
 
 Annual TWh consumption is divided by 365*24, gives wattage
 
-[[-]](../../2019/05/energstats.html#primcountry)
+[[-]](../../2022/01/energstats.html#primcountry)
 
 ---
 

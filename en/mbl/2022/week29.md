@@ -548,7 +548,7 @@ CNBC: "Concerns Grow Over Texas Power Grid As Temperatures Rise"
 
 Redid reserves.. it's looking flat flat flat, as in "peak"
 
-[[-]](../../2019/05/energstats.html#oilreserves)
+[[-]](../../2022/01/energstats.html#oilreserves)
 
 ---
 
@@ -1049,14 +1049,14 @@ US gas prices falling.. been falling since last month
 2022-07-11  4.754
 ```
 
-[[-]](../../2019/05/energstats.html#usgasoline)
+[[-]](../../2022/01/energstats.html#usgasoline)
 
 ---
 
 All energy consumption, 2021 number stands at a whopping 165,319
 Twh. World energy consumption *quadrupled* compared to 60s.
 
-[[-]](../../2019/05/energstats.html#primary)
+[[-]](../../2022/01/energstats.html#primary)
 
 ---
 

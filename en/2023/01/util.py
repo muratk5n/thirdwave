@@ -70,7 +70,7 @@ def conv_xls_csv():
         df.to_csv("~/Downloads/fbi/fbi-data/csv/%d.csv" % year,index=None)
     
 def get_crime_year(year,init=True):
-    key = open("../../2019/05/.key/.datagov").read()
+    key = open("../../0119/2019/05/.key/.datagov").read()
     outfile = '/opt/Downloads/fbi/fbi-data/csv/%d.csv' % year
     if (init):
         out = open(outfile,"w")

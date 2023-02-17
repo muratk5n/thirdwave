@@ -4,7 +4,7 @@
 
 [Wires vs Pipes](../../2019/03/wirespipes.html)
 
-[Energy Statistics](../../2019/05/energstats.html)
+[Energy Statistics](../../2022/01/energstats.html)
 
 [The surprising resurgence of hydrogen fuel](../../2018/11/the-surprising-resurgence-of-hydrogen.html)
 
@@ -34,7 +34,7 @@
 
 [Historical Carbon Emissions](../../2021/07/historical-carbon-emissions.html)
 
-[Fires](../../2019/05/natdisaster.html#fires)
+[Fires](../../0119/2019/05/natdisaster.html#fires)
 
 [Oil, Gas and Minerals](../../2022/01/oilgasmin.html)
 

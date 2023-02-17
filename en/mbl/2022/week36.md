@@ -322,7 +322,7 @@ CO2 emissions"
 
 Crude is indeed down
 
-[[-]](../../2019/05/energstats.html)
+[[-]](../../2022/01/energstats.html)
 
 ---
 

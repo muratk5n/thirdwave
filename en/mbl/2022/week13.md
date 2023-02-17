@@ -207,7 +207,7 @@ so the numbers are always the current level for each date , currently it stands 
 The world consumes 35 gboe per year. If no new oil was found current
 reserves would last about 50 years.
 
-[[-]](../../2019/05/energstats.html#oilreserves)
+[[-]](../../2022/01/energstats.html#oilreserves)
 
 ---
 
