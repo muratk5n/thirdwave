@@ -220,11 +220,11 @@ def biz_stock_plot(year,ticker):
     df = pd.read_csv(file,index_col='Date',parse_dates=True)['Close']
     df.plot()
 
-def rotom_mov(movie):
+def rottentomatoes_mov(movie):
     return {"tomatometer score": rt.tomatometer(movie),
             "audience score": rt.audience_score(movie)}
 
-def rotom_tv(movie):
+def rottentomatoes_tv(movie):
     rel = movie.replace(" ","_").lower()
     url = "https://www.rottentomatoes.com"
     url = url + "/tv/" + rel       

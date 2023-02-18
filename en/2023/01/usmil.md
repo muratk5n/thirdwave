@@ -14,7 +14,7 @@ on David Vine's work.
 
 ```python
 
-clat,clon=33.01136975577918, 40.98527636859822
+clat,clon=33, 40
 
 m = folium.Map(location=[clat, clon], zoom_start=7, tiles="Stamen Terrain")
 
