@@ -25,7 +25,7 @@ Congressman Gaetz said"
 
 Info on AFCs
 
-[[-]](2022/02/ammonia.html#afc)
+[[-]](../../2022/02/ammonia.html#afc)
 
 ---
 
@@ -53,7 +53,7 @@ closer to foragers than farmers.
 
 Steppe Migration Map - pastoralists came from Yamnaya
 
-<img width='340' src='mbl/2023/yamnaya.jpg'/> 
+<img width='340' src='yamnaya.jpg'/> 
 
 ---
 

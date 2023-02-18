@@ -120,6 +120,14 @@ def usnavy():
 
 def sm_tr_eq_deaths(k):
     d = json.loads(open("try_sry_eq.json").read())
+    d = d['deaths']
+    res = [[str(x[0]) + " " + str(x[1]), geocoder.osm(x[0]).latlng] for x in d[k]]
+    res = [[x[0],x[1][0],x[1][1]] for x in res]
+    sm_plot_list1(38, 38, 0.5, res)
+
+def sm_tr_eq_buildings(k):
+    d = json.loads(open("try_sry_eq.json").read())
+    d = d['buildings']
     res = [[str(x[0]) + " " + str(x[1]), geocoder.osm(x[0]).latlng] for x in d[k]]
     res = [[x[0],x[1][0],x[1][1]] for x in res]
     sm_plot_list1(38, 38, 0.5, res)
