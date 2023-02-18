@@ -1068,7 +1068,7 @@ Carbon ppm YoY increased as usual.. by 0.50%. There was an
 2022-06-01    0.489330
 ```
 
-[[-]](../../2015/08/temp-increase.html#carbonyoy)
+[[-]](../../0119/2015/08/temp-increase.html#carbonyoy)
 
 ---
 

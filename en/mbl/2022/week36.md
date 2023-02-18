@@ -443,7 +443,7 @@ demanded neutrality in the war and action on energy prices"
 
 ---
 
-[Link](../../2018/12/the-road-to-oblivion.html#linc1)
+[Link](../../0119/2018/12/the-road-to-oblivion.html#linc1)
 
 ---
 

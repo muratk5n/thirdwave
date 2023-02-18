@@ -429,7 +429,7 @@ government employees BTW.
 
 ---
 
-[Link](../../2017/07/the-next-decade-friedman.html#three)
+[Link](../../0119/2017/07/the-next-decade-friedman.html#three)
 
 ---
 

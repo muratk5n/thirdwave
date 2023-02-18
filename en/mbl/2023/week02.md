@@ -72,7 +72,7 @@ expelled to Turkey"
 
 ---
 
-If minority culture does not even last [one generation](../../2014/06/the-culture-code.html#heritage),
+If minority culture does not even last [one generation](../../0119/2014/06/the-culture-code.html#heritage),
 how could it last for millenia, across continents, varied host cultures?
 That is the claim of the so-called Turks.
 

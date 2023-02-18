@@ -68,7 +68,7 @@ which is hoped to position the country as a pioneer in the Power-to-X
 
 More excerpts from the \#Cole book
 
-[[-]](2023/01/mohammad-cole.html)
+[[-]](../../2023/01/mohammad-cole.html)
 
 ---
 
@@ -266,14 +266,14 @@ armies are disbanded, cash disappears, people go back to virtual money
 Then, after 1492 it swings the other way, again — we’re back to gold
 and silver money, vast empires, slavery comes back"
 
-[[-]](../../2011/11/debt-religions-money.html)
+[[-]](../../0119/2011/11/debt-religions-money.html)
 
 ---
 
 Burying the dead with worldly items is a continuation of <10K yr old
 agrarian era of ancestor burials, the buried ancestors were later
 worshipped since they now represented a connection to (arable) land
-vital for survival. See [Morris](../../2017/10/wtwrfn-foragers-farmers.html#ancestors).
+vital for survival. See [Morris](../../0119/2017/10/wtwrfn-foragers-farmers.html#ancestors).
 
 ---
 

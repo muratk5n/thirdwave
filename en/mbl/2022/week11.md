@@ -746,7 +746,7 @@ is neutral, demilitarized, no Nato.
 ---
 
 Curious abt the "mean voter position" of the UKR-RU dynamic, talks,
-per [here](../../2015/07/mesquita-game-theory-greece.html). Cranking some
+per [here](../../0119/2015/07/mesquita-game-theory-greece.html). Cranking some
 numbers...
 
 ---

@@ -451,7 +451,7 @@ the latter.
 
 Nuke Tech \#friedman
 
-[[-]](../../2017/07/the-next-decade-friedman.html#nuketech)
+[[-]](../../0119/2017/07/the-next-decade-friedman.html#nuketech)
 
 ---
 
@@ -844,7 +844,7 @@ So war-war policy has been a fail so far.
 
 The fascist coup of 1980 fueled PKKs rise
 
-[[-]](../../2009/09/modern-history-of-kurds-mcdowall.html#pkk80s)
+[[-]](../../0119/2009/09/modern-history-of-kurds-mcdowall.html#pkk80s)
 
 ---
 

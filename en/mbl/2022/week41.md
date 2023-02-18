@@ -621,7 +621,7 @@ knowledgable practitioner laugh.
 
 Econ "Nobel"
 
-[[-]](../../2018/05/faux-nobel.html)
+[[-]](../../0119/2018/05/faux-nobel.html)
 
 ---
 

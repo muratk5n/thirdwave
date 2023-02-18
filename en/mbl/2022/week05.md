@@ -316,7 +316,7 @@ Gas prices were high during W, even higher than now.. Interesting, the
 uptrend seems to have started at around 2003 -- after the invasion of
 Iraq? Major uptick again post Libya 2011.
 
-[[-]](../../2019/2021/01.html#gasoline)
+[[-]](../../0119/2019/2021/01.html#gasoline)
 
 ---
 
@@ -409,7 +409,7 @@ military takeovers"
 Found a dataset from Illinois Uni (below). Overall trend seems down
 (does not contain recent data). 
 
-[[-]](../../2015/09/democracy-status.html#coups)
+[[-]](../../0119/2015/09/democracy-status.html#coups)
 
 ---
 

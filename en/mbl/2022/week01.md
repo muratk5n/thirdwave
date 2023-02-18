@@ -103,7 +103,7 @@ Corporate marketing, again.
 ---
 
 Not suprising, humans are not built to run that way; Nike marketing
-advertised such style of running so they could [sell products for it](../../2019/12/civilized-to-death.html#nike).
+advertised such style of running so they could [sell products for it](../../0119/2019/12/civilized-to-death.html#nike).
 
 Again we see regular people, consumers are taken for fools. They have
 no mechanism to protect against such interjections save gov

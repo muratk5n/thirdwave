@@ -218,7 +218,7 @@ Dirty Loops is what you get if you melded Michael Jackson with Rush.
 ---
 
 Frank Grillo's last monologue in *The Grey* was excellent.. Reminds me
-[this](../../2019/12/civilized-to-death.html#vacation) C. Ryan excerpt.
+[this](../../0119/2019/12/civilized-to-death.html#vacation) C. Ryan excerpt.
 
 ---
 
@@ -493,7 +493,7 @@ any big news anymore on oil finds. The next Ghawar eludes all.
 
 ```python
 import pandas as pd
-df = pd.read_csv('../../2019/05/oil-proved-reserves.csv')
+df = pd.read_csv('../../0119/2019/05/oil-proved-reserves.csv')
 df = df[df.Entity=='World'].set_index('Year')
 print ('%',np.round(df['Oil - Proved reserves'].pct_change().mean()*100.0,2))
 ```

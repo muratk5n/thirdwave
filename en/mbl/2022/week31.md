@@ -357,7 +357,7 @@ popularity doesn't change it's a loss for Biden if he runs again. But
 a mere -10% (an improvement) and GDP growth of 1% would give an
 advantage to him, or to the "next Dem nominee".
 
-[[-]](../../2015/04/predicting-presidential-elections.html#2024)
+[[-]](../../0119/2015/04/predicting-presidential-elections.html#2024)
 
 ---
 

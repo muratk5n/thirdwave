@@ -124,7 +124,7 @@ figure, US study suggests"
 ---
 
 That soldier might have pulled the trigger but Fidel is the
-[true killer](../../2015/04/dictators-handbook-mesquita.html#fidelche)
+[true killer](../../0119/2015/04/dictators-handbook-mesquita.html#fidelche)
 of Che.
 
 "Bolivian soldier who shot dead revolutionary Che Guevara dies at 80"
@@ -510,7 +510,7 @@ hits wheat imports"
 
 Collated comments on inflation
 
-[[-]](../../2018/05/inflation.html)
+[[-]](../../0119/2018/05/inflation.html)
 
 ---
 
@@ -540,7 +540,7 @@ industry in an effort to decarbonise the future of flying"
 
 ---
 
-[Bancor](../../2019/06/bancor.html)
+[Bancor](../../0119/2019/06/bancor.html)
 
 ---
 
@@ -840,7 +840,7 @@ Gravitas Plus: Did NATO push Ukraine into war?
 
 Stalingrad, "the gap", Ukraine
 
-[[-]](../../2017/07/the-next-decade-friedman.html#ukrgap)
+[[-]](../../0119/2017/07/the-next-decade-friedman.html#ukrgap)
 
 ---
 

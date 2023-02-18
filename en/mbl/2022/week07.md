@@ -155,7 +155,7 @@ gallons of gas bursts into flames after crash [in Long Island, NY]"
 Carbon increase in the atmo continued in January, YoY increase as
 percentage is plotted, notice the acceleration of the increase.
 
-[[-]](../../2015/08/temp-increase.html#carbon)
+[[-]](../../0119/2015/08/temp-increase.html#carbon)
 
 ---
 
@@ -338,7 +338,7 @@ Re-ran the code to plot the graphs, the 'tornado graph' is back.  See
 bottom, the three-variable graph between unemployment rate, inflation
 and debt.
 
-[[-]](../../2018/02/keen_math.html)
+[[-]](../../0119/2018/02/keen_math.html)
 
 ---
 

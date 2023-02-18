@@ -381,7 +381,7 @@ The Fragile States Index (FSI). I plotted two variables; there are
 some other interesting ones, E3: Human Flight and Brain Drain, C1:
 Security Apparatus, C2: Factionalized Elites.
 
-[[-]](../../2015/09/democracy-status.html#fsi)
+[[-]](../../0119/2015/09/democracy-status.html#fsi)
 
 ---
 

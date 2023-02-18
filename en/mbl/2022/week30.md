@@ -853,7 +853,7 @@ knowledge.
 
 ---
 
-As [Hidalgo](../../2017/08/economic-complexity-hidalgo.html) proved,
+As [Hidalgo](../../0119/2017/08/economic-complexity-hidalgo.html) proved,
 know-how is what makes economies tick and countries to advance (not
 necessarily "education" which doesn't always translate into actionable
 knowledge). Hidalgo measures this through the diversity of products a

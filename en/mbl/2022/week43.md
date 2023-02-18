@@ -278,7 +278,7 @@ Out[1]:
 
 ---
 
-What a strange year.. Added this item to [the list](../../2015/12/1973.html).
+What a strange year.. Added this item to [the list](../../0119/2015/12/1973.html).
 
 ---
 
@@ -316,7 +316,7 @@ Out[1]:
 Created a new category called "junk science". The items below are
 added.
 
-[[-]](../../2018/09/junk-science.html)
+[[-]](../../0119/2018/09/junk-science.html)
 
 ---
 
@@ -595,7 +595,7 @@ More on heritage and how little it matters. C. Rapaille is
 off-the-boat French. Despite this 'heritage' his son is not. Excerpt
 is from his book *The Culture Code*.
 
-[[-]](../../2014/06/the-culture-code.html#heritage)
+[[-]](../../0119/2014/06/the-culture-code.html#heritage)
 
 ---
 

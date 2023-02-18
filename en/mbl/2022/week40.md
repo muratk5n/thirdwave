@@ -247,7 +247,7 @@ is just pure bullshit.
 
 Integrated Kinetic Energy
 
-[[-]](../../2019/06/ike.html)
+[[-]](../../0119/2019/06/ike.html)
 
 ---
 

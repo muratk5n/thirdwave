@@ -232,7 +232,7 @@ def sm_plot_ukr1(file,geo):
         plt.plot(lon,lat,'g+')
     
 def bp_hydro_elec_perc(country):
-    fin = '../../2019/05/bp-stats-review-2022-consolidated-dataset-panel-format.csv'
+    fin = '../../2022/01/bp-stats-review-2022-consolidated-dataset-panel-format.csv'
     df = pd.read_csv(fin)
     df = df[df.Country == country]
     df = df.set_index('Year')

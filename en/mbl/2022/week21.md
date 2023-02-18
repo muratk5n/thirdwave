@@ -723,7 +723,7 @@ What is the definition of bear market anyway?
 
 ---
 
-Yep. Don't [jog](../../2010/04/new-evolution-diet-devany.html) like a
+Yep. Don't [jog](../../0119/2010/04/new-evolution-diet-devany.html) like a
 dumbass..  HIT means spurts of high activity, not bouncing up and down
 rhythmically on bitch Nike shoes
 
