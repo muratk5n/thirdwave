@@ -24,7 +24,7 @@ cannot understand the source text on their own”
 
 "Debunking the great AI lie - Noam Chomsky, Gary Marcus, Jeremy Kahn"
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/PBdZi_JtV4c?start=169" title="Debunking the great AI lie | Noam Chomsky, Gary Marcus, Jeremy Kahn" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[[-]](https://youtu.be/PBdZi_JtV4c?t=169)
 
 [Paper](https://arxiv.org/abs/2210.12889)
 
