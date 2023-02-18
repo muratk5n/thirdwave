@@ -84,7 +84,7 @@ follow.
 
 ---
 
-This is already known, see [link](../../2016/03/life.html#unique); "life’s
+This is already known, see [link](../../0119/2016/03/life.html#unique); "life’s
 simpler building blocks are so prevalent in the universe that
 molecules from space may have seeded life on earth itself".
 
@@ -467,7 +467,7 @@ They need to take that shite off the Internet.
 ---
 
 If an area as large as Texas was covered with panels today, it would
-[provide](../../2019/06/bezos-space-infrastructure.html#energy) ample energy,
+[provide](../../0119/2019/06/bezos-space-infrastructure.html#energy) ample energy,
 twice of what is required actually, for the entire world.
 
 Colonization fine for other things, not urgent for energy.
@@ -649,7 +649,7 @@ closely resembles the physics being done today"
 
 ---
 
-Creator is [more likely](../../2015/04/god.html)
+Creator is [more likely](../../0119/2015/04/god.html)
 
 "Which is likely? Creator or not?"
 

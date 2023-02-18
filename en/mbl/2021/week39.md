@@ -374,7 +374,7 @@ different way -- electronically.
 
 We need decouple learning from certificaton, introduce async concepts
 at each level of ed. Learn from the best through prerecorded
-[videos](../../2017/09/education-workplace.html), and ask to be certified at
+[videos](../../0119/2017/09/education-workplace.html), and ask to be certified at
 your own pace, by expert certifiers.
 
 DW: "India: Why medical students are taking their own lives.. Some
@@ -457,7 +457,7 @@ The Daily Beast: "My Trip Along the Most Mysterious River on Earth"
 
 ---
 
-Reminds me of [this](../../2013/12/culture-and-empire.html) Hintjens commentary..
+Reminds me of [this](../../0119/2013/12/culture-and-empire.html) Hintjens commentary..
 
 Politico: "President Joe Biden's decision to nominate Cornell law
 professor Saule Omarova to regulate the nation's banks is triggering

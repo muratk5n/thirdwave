@@ -417,7 +417,7 @@ from H. Rosovsky.
 
 ---
 
-On the [coastal regions and the inland](../../2017/06/friedman-100-years.html#china) of China.
+On the [coastal regions and the inland](../../0119/2017/06/friedman-100-years.html#china) of China.
 
 ---
 

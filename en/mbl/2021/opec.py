@@ -16,7 +16,7 @@ def opec_price_prod():
     file = io.BytesIO(r)
     df2 = pd.read_csv(file,index_col='Date',parse_dates=True)['Close']
 
-    api_key = open('../../2019/05/.eiakey').read()
+    api_key = open('../../2022/01/.eiakey').read()
     final_data = []
 
     url = 'http://api.eia.gov/series/?api_key=' + api_key + '&series_id=STEO.COPR_OPEC.M' 

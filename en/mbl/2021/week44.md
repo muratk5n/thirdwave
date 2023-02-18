@@ -39,7 +39,7 @@ be used as predictions about the future"
 ---
 
 Every student deserves to learn from the best, as I learned from Arthur
-Mattuck. Here's my vid based [ed plan]((../../2018/09/public-education.html))
+Mattuck. Here's my vid based [ed plan]((../../0119/2018/09/public-education.html))
 again. The average, non-research teacher is a terrorist. We need to
 quash this profession as we know it.
 
@@ -79,7 +79,7 @@ checks, so we all can look at it and weep
 
 Processing raw climate data now.. This is some next level shit right there
 
-[[-]](../../2015/08/temp-increase.html#berkeley)
+[[-]](../../0119/2015/08/temp-increase.html#berkeley)
 
 ---
 
@@ -352,7 +352,7 @@ Literally scores of cities increased PD funding and saw a rise in murders"
 Confused about gobble gobble, Syria etc? I've been recording the major
 events. Looking at it broadly, a picture can emerge
 
-[Events](../../2017/12/timeline-syria-tr.html)
+[Events](../../0119/2017/12/timeline-syria-tr.html)
 
 ---
 

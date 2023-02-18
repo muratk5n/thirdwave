@@ -422,7 +422,7 @@ little toy examples in 2D not 3D? Pass.
 ---
 
 Sounds like a culture code is in play here. French cultural tug of war
-is between freedom and privelege. See [Rapaille](../../2014/06/the-culture-code.html#france).
+is between freedom and privelege. See [Rapaille](../../0119/2014/06/the-culture-code.html#france).
 
 "Covid: Paris police probe 'secret luxury dinner parties'"
 
@@ -435,7 +435,7 @@ by Emmanuel Macron, but almost half plan to break the new rules"
 
 ---
 
-Unions [lost a lot of power](../../2019/08/focus-group-democracy.html) after
+Unions [lost a lot of power](../../0119/2019/08/focus-group-democracy.html) after
 70s. The left sufered due to losing org structure and
 leadership. Politicians themselves like that single contact to be
 lobbied by, u cant have bunch of random ppl running around trying to

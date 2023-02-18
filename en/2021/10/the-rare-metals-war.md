@@ -127,5 +127,5 @@ in Toronto that day, ‘No one in the green-energy business is going to
 communicate on these points. Besides, don’t we all want to believe
 that we’re making things better rather than making things worse?’
 
-[[Up](../../2018/12/climate.html)]
+[[Up](../../0119/2018/12/climate.html)]
 

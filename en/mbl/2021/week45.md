@@ -374,7 +374,7 @@ unsightly street encampments"
 ---
 
 Now the big question: Carbon or methane? Which one causes more
-warming? Looked at that too, [here](../../2015/08/temp-increase.html#ch4co2).
+warming? Looked at that too, [here](../../0119/2015/08/temp-increase.html#ch4co2).
 
 ---
 
@@ -392,7 +392,7 @@ carbon). But we keep putting more in, so the trend is up.
 
 Methane levels in the atmo
 
-[[-]](../../2015/08/temp-increase.html#methane)
+[[-]](../../0119/2015/08/temp-increase.html#methane)
 
 ---
 
@@ -508,7 +508,7 @@ transmission, keeping electrification at a minimum.
 
 ---
 
-Wind turbines use that f-ing [SF6](../../2019/09/sf6.html), truly disgusting stuff
+Wind turbines use that f-ing [SF6](../../0119/2019/09/sf6.html), truly disgusting stuff
 
 ---
 

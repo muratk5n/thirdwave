@@ -363,7 +363,7 @@ Force); that financial support was terminated on 29 February 2020."
 
 ---
 
-Up until 2020 BTI data confirms a [decline](../../2015/09/the-logic-of-political-survival-mesquita-code.html#btiall)
+Up until 2020 BTI data confirms a [decline](../../0119/2015/09/the-logic-of-political-survival-mesquita-code.html#btiall)
 (2000-2020). The fall is not excessive but it is there.
 
 Polity results (same page) shows pre 2000 status.
@@ -397,7 +397,7 @@ the original statement is correct.
 
 ---
 
-The answer [is yes](../../2015/08/temp-increase.html#carbon)
+The answer [is yes](../../0119/2015/08/temp-increase.html#carbon)
 
 "Does carbon levels in atmo cause temparature increase?"
 

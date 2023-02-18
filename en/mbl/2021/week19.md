@@ -350,7 +350,7 @@ Program-Includes FuelCell Hydrogen Vehicles"
 
 What is being "commemorated" is always related to what the nation
 wants to do in the future.. In that war Oz offered manpower due to its
-[quid-pro-quo](../../2017/07/the-next-decade-friedman.html#australia) for
+[quid-pro-quo](../../0119/2017/07/the-next-decade-friedman.html#australia) for
 naval protection with the UK. That's how Oz soldiers ended up on the
 other side of the planet. The same need exists today, albeit with a
 different naval power, US, so the nation commemorates to keep that

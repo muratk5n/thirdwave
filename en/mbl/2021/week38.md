@@ -119,7 +119,7 @@ thinking said"
 
 ---
 
-So he is the one responsible for [this movie](../../2011/12/blaxploitation.html).
+So he is the one responsible for [this movie](../../0119/2011/12/blaxploitation.html).
 
 VOA News: "Melvin Van Peebles, the groundbreaking filmmaker,
 playwright and musician whose work ushered in the 'blaxploitation'

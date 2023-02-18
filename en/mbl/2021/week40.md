@@ -104,7 +104,7 @@ Kidding
 
 ---
 
-Monthly atmo carbon content [graph](../../2015/08/temp-increase.html#carbon).
+Monthly atmo carbon content [graph](../../0119/2015/08/temp-increase.html#carbon).
 It increases every year (except during warmer seasons when
 it is flat).
 
@@ -338,7 +338,7 @@ priorities"
 ---
 
 I guess nothing interesting happens in the Anglosphere wout France
-getting screwed in the process somehow.. Invason of Iraq: France [lost](../../2019/11/americas-secret-war-friedman.html#france)
+getting screwed in the process somehow.. Invason of Iraq: France [lost](../../0119/2019/11/americas-secret-war-friedman.html#france)
 Eastern Europeans, they sided with US, snubbed. And now the AU "sub
 snub".
 

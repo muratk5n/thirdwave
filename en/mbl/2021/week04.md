@@ -608,7 +608,7 @@ Dublex Inc. - Simply Smooth \#music
 
 ---
 
-An earlier [post](../../2014/02/is-earth-fked.md) on BW
+An earlier [post](../../0119/2014/02/is-earth-fked.md) on BW
 
 "[A] geophysicist, Brad Werner, who in 2012 argued ... that we are in
 this [climate] mess not because the market system is not working well
@@ -646,9 +646,8 @@ Maybe they already know they are getting their "gray" energy from
 Russia, with CCS done on their side
 
 US has potential for both (but dont frack, or transmit NG over pipes,
-they leak, very hard to regulate, Id also watch for
-[this shit](../../2019/09/sf6.md), the material is used in wind turbines and
-high-voltage electric installations)
+they leak, very hard to regulate, Id also watch for [this shit](../../0119/2019/09/sf6.md),
+the material is used in wind turbines and high-voltage electric installations)
 
 "How is Europe more gung-ho on green energy production compared to
 other countries?"
@@ -701,7 +700,7 @@ ask for unity, you dont get it, than you immediately blame the other
 side as a cover for you not doing anything.
 
 There cld be some old cultural aspects involved; we talked abt during
-[Pemmican Wars](../../2018/09/pemmican.md) Brits had to step in and *merge*
+[Pemmican Wars](../../0119/2018/09/pemmican.md) Brits had to step in and *merge*
 two companies. If such things happened more than once, maybe it became
 "the legitimate thing", "the grown up thing" in the eyes of the US
 political class, persisted in its DNA, at the very least, as a

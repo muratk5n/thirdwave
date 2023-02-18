@@ -7,7 +7,7 @@
 ---
 
 Darn. I was hoping their opposition would create frustration and this
-profession be quashed for good, replaced by videos and [graders](../../2018/09/public-education.md).
+profession be quashed for good, replaced by videos and [graders](../../0119/2018/09/public-education.md).
 
 "The head of the American Federation of Teachers .. union is
 rethinking its opposition to Covid-19 vaccine mandates for educators"
@@ -482,7 +482,7 @@ Temp 34 feels like 39, humidity 49%. Yep.
 
 Absolutely, Cuba has a ruling elite.
 
-Second Wave, whether w capitalism or communism, has [Integrators](../../2011/03/integrators.md).
+Second Wave, whether w capitalism or communism, has [Integrators](../../0119/2011/03/integrators.md).
 
 ---
 

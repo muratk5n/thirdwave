@@ -356,7 +356,7 @@ Mearsheimer. Just as "balance of power" analysis' are insufficient, so
 is "maximizing power for safety".  Every decision a leader makes is
 influenced by nominal selectorate, the real selectorate, and the
 winning coalition. The size of each of these groups
-[determine](../../2015/04/dictators-handbook-mesquita.html#war) the war/piece
+[determine](../../0119/2015/04/dictators-handbook-mesquita.html#war) the war/piece
 decision. 
 
 ---
@@ -398,7 +398,7 @@ the ferrofluid dances to the audio"
 
 Less than a billion ppl live in Southern Hemisphere, most are in the
 North. That's why their (our) winter matters more, and why we can
-suspect heating for [this](../../2015/08/temp-increase.html#carbon) type of
+suspect heating for [this](../../0119/2015/08/temp-increase.html#carbon) type of
 seasonal increase.
 
 ---

@@ -540,7 +540,7 @@ print ('%0.2f' % (scipy.constants.psi*10000/scipy.constants.bar))
 
 ---
 
-Many countries use fossil [gas based](../../2018/10/lpg-cylinder-gas-kitchen-cab.html)
+Many countries use fossil [gas based](../../0119/2018/10/lpg-cylinder-gas-kitchen-cab.html)
 solutions for energy, it's cheap. With some increase in volume, the same delivery
 cld be performed thr H2. 
 

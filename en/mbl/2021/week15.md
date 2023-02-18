@@ -239,7 +239,7 @@ within two and a half hours instead"
 
 ---
 
-Talked abt that before; see the [South Korean](../../2018/06/guiding-regulation-south-korea.html)
+Talked abt that before; see the [South Korean](../../0119/2018/06/guiding-regulation-south-korea.html)
 example. It's the invisible hand approach, with a caveat, the invisible hand is
 government's 😶
 

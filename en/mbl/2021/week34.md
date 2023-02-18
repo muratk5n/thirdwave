@@ -82,7 +82,7 @@ have airbases nearby. Weakens alien hypothesis somewhat
 
 New UFO plot / analysis below. 
 
-[Link](../../2015/08/ufo.html#analysis1)
+[Link](../../0119/2015/08/ufo.html#analysis1)
 
 ---
 
@@ -159,7 +159,7 @@ Barely
 
 ---
 
-Your country, such as it is, is quite [new](../../2017/07/the-next-decade-friedman.html#lebanon).
+Your country, such as it is, is quite [new](../../0119/2017/07/the-next-decade-friedman.html#lebanon).
 I wouldn't have qualms about joining a larger entity. Centuries old European
 states do it all the time, including now.
 
@@ -250,7 +250,7 @@ inexperienced, came across a lightweight.
 
 ---
 
-[Culture](../../2014/06/the-culture-code.md) is received through osmosis
+[Culture](../../0119/2014/06/the-culture-code.md) is received through osmosis
 from the larger society around you, subconciously, before age 7. It is
 not transmitted through education, ritual, or "stories". Most of the
 subcultural identity assumptions are wrong. There are no "Polish",
@@ -329,7 +329,7 @@ ARKK buys 'bright shiny object' tech, the kind favored by libcucks.
 
 ---
 
-New UFO [dataset and code](../../2015/08/ufo.html#nuforc). This one has
+New UFO [dataset and code](../../0119/2015/08/ufo.html#nuforc). This one has
 latitude and longitude. 
 
 ---
@@ -473,7 +473,7 @@ Cryptos are not centralized, 3rd
 
 ---
 
-How to know a solution is 3W? Does it fit under [these](../../2011/04/fundamentals-of-industrial-ideologies.md) ?
+How to know a solution is 3W? Does it fit under [these](../../0119/2011/04/fundamentals-of-industrial-ideologies.md) ?
 If not, and new, 3W.
 
 ---
@@ -516,7 +516,7 @@ Method to detect owls from sound, they call it owl-garithm
 
 ---
 
-[Soviet Imperialism](../../2011/04/soviet-imperialism.md)
+[Soviet Imperialism](../../0119/2011/04/soviet-imperialism.md)
 
 ---
 

@@ -306,7 +306,7 @@ Integrated Kinetic Energy calculation for hurricanes. The particular
 NOAA archive I used does not have the most recent events, but Katrina,
 Sandy dates are there.
 
-[[-]](../../2019/06/ike.md)
+[[-]](../../0119/2019/06/ike.md)
 
 ---
 
@@ -430,7 +430,7 @@ strong hydrogen refuelling structure by 2025"
 November atmo carbon levels - 0.45% YoY increase. Average increase for
 every month since the 60s has been 0.44%. On track toward hell.
 
-[[-]](../../2015/08/temp-increase.html#carbonyoy)
+[[-]](../../0119/2015/08/temp-increase.html#carbonyoy)
 
 ---
 
