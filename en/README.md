@@ -1,118 +1,147 @@
 
----
+2000 Project - It's About Time \#music
 
-INN: "Copper Prices Could See "Astronomical Rise" as Supply Concerns
-Increase"
-
----
-
-The Telegraph: "Antony Blinken 'warns Ukraine' against retaking Crimea"
+[[-]](https://youtu.be/nk5ocgVUArM)
 
 ---
 
-"Matt Gaetz Leads 11 Lawmakers in Introduction of 'Ukraine Fatigue'
-Resolution to Halt U.S. Aid to Ukraine.. 'Biden must have forgotten
-his prediction from March 2022, suggesting that arming Ukraine with
-military equipment will escalate the conflict to ‘World War III.’
-America is in a state of managed decline, and it will exacerbate if we
-continue to hemorrhage taxpayer dollars toward a foreign war. We must
-suspend all foreign aid for the War in Ukraine and demand that all
-combatants in this conflict reach a peace agreement immediately,'
-Congressman Gaetz said"
+Science.org: "The Malian discovery was vivid evidence for what a small
+group of scientists, studying hints from seeps, mines, and abandoned
+wells, had been saying for years: Contrary to conventional wisdom,
+large stores of natural hydrogen may exist all over the world, like
+oil and gas—but not in the same places. These researchers say
+water-rock reactions deep within the Earth continuously generate
+hydrogen, which percolates up through the crust and sometimes
+accumulates in underground traps. There might be enough natural
+hydrogen to meet burgeoning global demand for thousands of years,
+according to a U.S. Geological Survey (USGS) model that was presented
+in October 2022 at a meeting of the Geological Society of America"
+
+[[-]](https://www.science.org/content/article/hidden-hydrogen-earth-may-hold-vast-stores-renewable-carbon-free-fuel)
 
 ---
 
-Info on AFCs
+Paper: "Incomplete recovery of bone strength and trabecular
+microarchitecture at the distal tibia 1 year after return from long
+duration spaceflight" via \#AntonPetrov
 
-[[-]](2022/02/ammonia.html#afc)
-
----
-
-If I had to pick one clean tech product to focus on personally, it
-would be an ammonia fuel-cell for home/personal use (low temperature
-version). Purchase fuel from existing ammonia infrastructure, then use
-it to power home and other applications. Once NH3 itself is clean,
-"well-to-wheel" becomes clean. 
+[[-]](https://www.nature.com/articles/s41598-022-13461-1)
 
 ---
 
-I bet these guys later went to Anatolia as well; they must have
-brought yoghurt (a milk product) with them. No wonder Herodotus knew
-about it in 450 BC.
+H2 Central: "Advent Technologies Methanol Fuel Cell Supplies Highly
+Efficient Heating and Cooling in New CHP Offering"
 
 ---
 
-IMO pastoralists represent a third kind of human organization - other
-two are forager, farmer, this is the third way, they did domesticate
-animals but do not stay in one place as the static farmer giving them
-an advantage. Their main archetype would be the shephard. I see them
-closer to foragers than farmers.
+H2 Central: "The Netherlands and Germany Enhance Their Hydrogen Import
+Partnership with Australia"
 
 ---
 
-Steppe Migration Map - pastoralists came from Yamnaya
-
-<img width='340' src='mbl/2023/yamnaya.jpg'/> 
-
----
-
-Farmers from A. Minor migrated to Europe, later 4800 BC pastoralist
-steppe people migrated there. Farmers got wiped out by plague, they
-were kinda unhealthy too much grain (lactose intol, could not handle
-milk, cheese). Their death eased steppe migration, pastoralists
-attacked them too. In some ways Europeans (esp males) are Russians.
-
-Steppers were pastoralists, had 'free-range' cattle moved a lot, lived
-on milk and meat, not grain. Healthier, were physically more fit,
-taller on average.
+H2 Fuel News: "Hydrogen plane granted experimental airworthiness
+certificate by the FAA.. Universal Hydrogen completed its first taxi
+tests, received its certificate, inked an Air New Zealand agreement"
 
 ---
 
-Fantastic lecture (1 hour) by Kristian Kristiansen. Summary above.
-
-"Towards a New European prehistory: genes, archaeology and language"
-
-[[-]](https://youtu.be/bxTVSwt-jsU?t=799)
+"University of Limerick, Ireland researchers discover new material to
+‘trap and store volatile gases’..  The discovery has just been
+published in the world leading journal Nature Chemistry"
 
 ---
 
-Mark Pritchard - The Essence \#music
+That was a great game
 
-[[-]](https://youtu.be/h80JaYQvByA)
+"@256@mastodon.social
 
----
+Unreal Tournament 2004
 
-H2 View: "JCB installs hydrogen ICE into 7.5 tonne Mercedes
-truck.. British construction and agricultural equipment manufacturer
-JCB has installed its hydrogen combustion engine into a 7.5 tonne
-Mercedes truck"
+BR-IceFields"
 
----
-
-A season free of Jar Jar Ibrahim and his acolytes.. That would fix
-most of the problems.
+<img width='340' src='https://files.mastodon.social/media_attachments/files/109/880/925/987/889/243/original/067254d580747ca6.jpg'/> 
 
 ---
 
-That new Picard episode wasn't half-bad.. Is Trek fixing itself?
+I can't see anything mission-critical being managed by those things.
+Tensorflow will kill you, in extremely dumb ways.
 
 ---
 
-"@CriticalCupcake@mastodon.lol
+Updated the section with the most recent additions - becoming massive
 
-Lightning struck Christ the Redeemer in Rio de Janeiro on February 10,
-2023"
-
-[[-]](https://media.mastodon.lol/media_attachments/files/109/851/961/551/641/096/original/5063508bff37c9f8.png)
+[[-]](2020/07/ai-comments.html)
 
 ---
 
-WION: "Estimates show between 1mn & 1.5mn died in China since it
-rescinded its ‘zero Covid’ policy"
+It is like AI - yes 😂 it certainly has as much smarts as those shit
+codes of "AI".
 
 ---
 
-Al Jazeera: "Russia surrounds Bakhmut as Ukraine sends in troops"
+I dont pick label locations in graph below they are picked randomly
+
+---
+
+```python
+u.sm_tr_eq_deaths('0214')
+```
+
+[[-]](mbl/2023/treq3.jpg)
+
+---
+
+But there might be more to mull over here.. A theologian once said
+'every prophet worked as a shephard at least once in their
+lives'.. I'd made a connection back then with them gaining people
+management skills through the work (people are sheep), but this
+pastoral people business brings in a new angle; were prophets
+temperamentally pastoral but peaceful who wanted to be left alone by
+the plundering farmer-slave state, then created a space for themselves
+and like-minded others through a religious ideology?
+
+---
+
+There has been warrior monks in history so warrior shephard is not too
+surprising.  I've seen a few of those guys I always thought they could
+kick some ass.
+
+---
+
+If wages/inf is problematic, within this system there isn't much else
+that can be done about it... For better results, need a better system.
+
+---
+
+Businesses work on credit, and credit is newly printed money which pay
+salaries.. Only money in general circulaton can be inflationary. Ergo
+reducing inf means reducing that circulation. 
+
+[[-]](2021/01/inflation.html)
+
+---
+
+2000 Project - Parallax \#music
+
+[[-]](https://youtu.be/wP1DM1KhYvU?t=11)
+
+---
+
+Phys.org: "Facile and scalable production of a fuel-cell nanocatalyst
+for the hydrogen economy.. The researchers demonstrated that these
+uniformly sized (3-4 nanometers) cobalt-platinum (Co-Pt) alloy
+nanoparticles can be produced by simple heat treatment"
+
+<img width='340' src='https://scx1.b-cdn.net/csz/news/800a/2023/facile-and-scalable-pr-1.jpg'/> 
+
+---
+
+Total Consumer Credit Outstanding as % of GDP is actually down (see
+link)
+
+"Credit card debt hits record high $986 billion"
+
+[[-]](2021/01/stats.html#debt)
 
 ---
 

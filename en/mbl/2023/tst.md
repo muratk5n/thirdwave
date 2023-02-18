@@ -6,15 +6,6 @@ pd.set_option('display.max_columns', None)
 ```
 
 
-```python
-u.rottentomatoes_tv("Star Trek Discovery")
-```
-
-```text
-Out[1]: {'tomatometer score': '84%', 'audience score': '36%'}
-```
-
-
 
 
 
