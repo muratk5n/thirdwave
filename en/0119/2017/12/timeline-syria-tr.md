@@ -25,6 +25,8 @@
        clashes with security forces who fired on the crowd. The
        protests would later escalate into a rebellion.
      * 15/03: Syrian civil war started     
+     * 27/03: Assad released hundreds of political prisoners which are
+       mostly Sunni Islamist extremists     
      * 01/08: TR embraced an explicit policy of regime change in Syria
        and threw open its doors to thousands of Syrian refugees     
      * 13/09: Leak on a pro-Kurdish channel reveals the sides in TR's
