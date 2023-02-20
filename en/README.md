@@ -1,4 +1,11 @@
 
+China Daily: "The world's biggest project using solar and wind power
+to produce hydrogen started construction in Ordos, Inner Mongolia
+autonomous region on Wednesday... It is being built by Sinopec.. the
+world's largest refiner by volume and the country's biggest geothermal
+developer"
+
+---
 
 "@Hy_Economy@mastodon.social
 
@@ -6,14 +13,12 @@ Aschaffenburg, Germany, ordered 12 hydrogen buses"
 
 ---
 
-Paper: "Dr Lex van Loon [writes] the biggest concern [with space
-flight] is prolonged exposure to microgravity - near zero gravity -
-which, combined with exposure to damaging radiation from the Sun,
-could cause 'fundamental' changes to the body"
-
-[[-]](https://www.anu.edu.au/news/all-news/mars-model-provides-method-for-landing-humans-on-red-planet)
+Robb Report: "How This Hydrogen-Powered America’s Cup Chase Cat Could
+Change the Future of Boating Dubbed Chase Zero, the foiling-power
+catamaran spans 10 meters in length and can carry up to 550 pounds"
 
 ---
+
 
 <img width='200' src='https://m.media-amazon.com/images/I/71bRwPC0M3L._AC_UF1000,1000_QL80_.jpg'/> 
 
