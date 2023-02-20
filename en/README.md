@@ -19,7 +19,6 @@ catamaran spans 10 meters in length and can carry up to 550 pounds"
 
 ---
 
-
 <img width='200' src='https://m.media-amazon.com/images/I/71bRwPC0M3L._AC_UF1000,1000_QL80_.jpg'/> 
 
 David Mumford (Fields medal winner) started some work around the
@@ -127,8 +126,8 @@ Free Julian Assange
 ---
 
 Rage Against The War Machine - organized by Libertarian Party and the
-People's Party. Catchy title. Good event. I like it. Make
-noise.. little cacerolazo.. good trouble.
+People's Party. Catchy title. Good event. Make noise.. little
+cacerolazo.. good trouble.
 
 ---
 
