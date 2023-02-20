@@ -60,7 +60,7 @@ organization / design matters.
 
 ---
 
-We don't simulate fluids as particles
+We don't simulate fluids with particles
 
 "[Deep] neural nets will give us true AI, intelligence is all about
 neurons, if we can simulate enough neurons we can simulate the brain,
