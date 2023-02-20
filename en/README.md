@@ -120,8 +120,8 @@ Free Julian Assange
 ---
 
 Rage Against The War Machine - organized by Libertarian Party and the
-People's Party. Catchy title. It seemed well organized. I like
-it. Make noise.. little cacerolazo.. good trouble.
+People's Party. Catchy title. Good event. I like it. Make
+noise.. little cacerolazo.. good trouble.
 
 ---
 
