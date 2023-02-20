@@ -85,7 +85,8 @@ figures may double in the future.
 
 ---
 
-TR \# of buildings collapsed per city - UNHCR [PDF](https://data.unhcr.org/en/documents/download/98820)
+TR \# of buildings collapsed after eq per city - UNHCR
+[PDF](https://data.unhcr.org/en/documents/download/98820)
 
 ```python
 u.sm_tr_eq_buildings("0214")
