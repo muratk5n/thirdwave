@@ -100,7 +100,7 @@ Total : 23498
 ---
 
 But Al Jazeera has good content overall, and a fair take on the
-Israel/Palestine issue. Glad AJ is available.
+Israel/Palestine issue. Glad it is available.
 
 ---
 
