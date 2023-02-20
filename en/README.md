@@ -46,11 +46,12 @@ step, you can compute.
 ---
 
 There is a fluid dynamics *formula* that works for any point in space,
-point in time, at macro level.. We "discretize" that formula, chop it up
-into pieces for computation and program that into the computer, much
-later. This is a different approach then using micro particles trying
-to build up to a system. As with many other things bottom up approach
-doesn't work, need to work top-down. High organization matters. 
+point in time, at macro level.. We "discretize" that formula, chop it
+up into pieces for computation and program that into the computer,
+much later. This is a different approach from using micro particles
+trying to build up to a system. As with many other things bottom up
+approach doesn't work, need to work top-down. High organization
+matters.
 
 ---
 
