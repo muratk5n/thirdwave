@@ -68,7 +68,7 @@ just like simulating water with many (water) particles"
 
 ---
 
-The author of the book *The Big Bang Never Happened* Eric Lerner @IAI.
+*The Big Bang Never Happened* author Eric Lerner @ IAI.
 
 [[-]](https://youtu.be/bqtFlKQO2FQ?t=11)
 
