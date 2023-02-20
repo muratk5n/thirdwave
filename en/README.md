@@ -25,23 +25,24 @@ IMO.
 ---
 
 Mainstream "AI" research is moving in a completely wrong
-direction. They need to reverse course, and correct.
+direction. They need to change direction, fix how they conduct the
+science.
 
 ---
 
-Example: There is a term in FD formulas that says 'if there is a
-pressure difference between two regions there will be a force between
-those regions, from high to low'. This is the type of formula AI, or
-AGI needs, not "neurons". Observe external variables (via experiments,
-trial/error), then using mathematics create releations among them. AGI
-needs to follow the same approach adopted by nearly all natural
-sciences. What are the variables of intelligence? What is the Calculus
-that can bind them together? These need to be invented. It isn't about
-"computation", not at first, brogrammers still don't get this..  It's
-about declarative, broad relations, finding the ever-present pattern
-among them, like making a cat's cradle. Starting with one set of
-relations, transforming it another, it goes on.. Then as a *last*
-step, you can compute.
+There is a term in FD formulas that says 'if there is a pressure
+difference between two regions there will be a force between those
+regions, from high to low' for example. This is the type of formula
+AI, or AGI needs, not "neurons". Observe external variables (via
+experiments, trial/error), then using mathematics create releations
+among them. AGI needs to follow the same approach adopted by nearly
+all natural sciences. What are the variables of intelligence? What is
+the Calculus that can bind them together? These need to be
+invented. It isn't about "computation", not at first, brogrammers are
+slow to grasp this..  It's about declarative, broad relations, finding
+the ever-present pattern among them, like making a cat's
+cradle. Starting with one set of relations, transforming it another,
+it goes on.. Then as a *last* step, you can compute.
 
 ---
 
