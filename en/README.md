@@ -55,8 +55,8 @@ point in time, at macro level.. We "discretize" that formula, chop it
 up into pieces for computation and program that into the computer,
 much later. This is a different approach from using micro particles
 trying to build up to a system. As with many other things bottom up
-approach doesn't work, top-down design is necessary. High organization
-matters.
+approach doesn't work, top-down design is necessary. High
+organization / design matters.
 
 ---
 
