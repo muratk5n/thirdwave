@@ -104,7 +104,7 @@ at my timeline (below); there are gazillion of other events between
 that amnesty and, say, the capture of Falluja in 2014 by ISIS, years
 later. 
 
-[[-]](../../0119/2017/12/timeline-syria-tr.html)
+[[-]](0119/2017/12/timeline-syria-tr.html)
 
 ---
 
