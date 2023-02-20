@@ -72,7 +72,7 @@ Tensorflow will kill you, in extremely dumb ways.
 
 Updated the section with the most recent additions - becoming massive
 
-[[-]](2020/07/ai-comments.html)
+[[-]](../../2020/07/ai-comments.html)
 
 ---
 
@@ -119,7 +119,7 @@ Businesses work on credit, and credit is newly printed money which pay
 salaries.. Only money in general circulaton can be inflationary. Ergo
 reducing inf means reducing that circulation. 
 
-[[-]](2021/01/inflation.html)
+[[-]](../../2021/01/inflation.html)
 
 ---
 
