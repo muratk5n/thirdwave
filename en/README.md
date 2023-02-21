@@ -1,145 +1,125 @@
 
-China Daily: "The world's biggest project using solar and wind power
-to produce hydrogen started construction in Ordos, Inner Mongolia
-autonomous region on Wednesday... It is being built by Sinopec.. the
-world's largest refiner by volume and the country's biggest geothermal
-developer"
 
 ---
 
-"@Hy_Economy@mastodon.social
+Shut up! Say 'Evil Russia"! 
 
-Aschaffenburg, Germany, ordered 12 hydrogen buses"
-
----
-
-Robb Report: "How This Hydrogen-Powered America’s Cup Chase Cat Could
-Change the Future of Boating Dubbed Chase Zero, the foiling-power
-catamaran spans 10 meters in length and can carry up to 550 pounds"
+[[-]](https://youtu.be/h3HIDTpcM3g?t=24)
 
 ---
 
-<img width='200' src='https://m.media-amazon.com/images/I/71bRwPC0M3L._AC_UF1000,1000_QL80_.jpg'/> 
-
-David Mumford (Fields medal winner) started some work around the
-mathematics of intelligence, pattern recognition, in a book on what he
-calls "pattern theory"; this direction needs to be explored further
-IMO. 
-
----
-
-Mainstream "AI" research is moving in a completely wrong
-direction. They need to change direction, fix how they conduct the
-science.
+Politico: "The First Step Act, a criminal-justice reform law, created,
+among other things, quicker pathways home for certain nonviolent
+federal prisoners and delivered some sentencing reforms... Activists
+now estimate that perhaps 20,000 people have been released so far
+because of the law, according to Lance Kramer, the producer of the
+newly released documentary The First Step. And this happened because a
+self-described “law-and-order” president [Trump], who had months
+earlier called for the execution of major drug dealers, somehow found
+common ground with members of the social-justice left.
 
 ---
 
-There is a term in FD formulas that says 'if there is a pressure
-difference between two regions there will be a force between those
-regions, from high to low' for example. This is the type of formula
-AI, or AGI needs, not "neurons". Observe external variables (via
-experiments, trial/error), then using mathematics create releations
-among them. AGI needs to follow the same approach adopted by nearly
-all natural sciences. What are the variables of intelligence? What is
-the Calculus that can bind them together? These need to be
-invented. It isn't about "computation", not at first, brogrammers are
-slow to grasp this..  It's about declarative, broad relations, finding
-the ever-present pattern among them, like making a cat's
-cradle. Starting with one set of relations, transforming it another,
-it goes on.. Then as a *last* step, you can compute.
+Major spike in new Masto users - from 300/hr it's now over 1000/hr.
 
 ---
 
-There is a fluid dynamics *formula* that works for any point in space,
-point in time, at macro level.. We "discretize" that formula, chop it
-up into pieces for computation and program that into the computer,
-much later. This is a different approach from using micro particles
-trying to build up to a system. As with many other things bottom up
-approach doesn't work, top-down design is necessary. High
-organization / design matters.
-
----
-
-We don't simulate fluids with particles
-
-"[Deep] neural nets will give us true AI, intelligence is all about
-neurons, if we can simulate enough neurons we can simulate the brain,
-just like simulating water with many (water) particles"
-
----
-
-*The Big Bang Never Happened* author Eric Lerner @ IAI.
-
-[[-]](https://youtu.be/bqtFlKQO2FQ?t=11)
-
----
-
-Why ruin the mystery
-
-NYT: "U.S. Calls Off Search for Unidentified Objects It Shot Down"
-
----
-
-If there are 10 dead/injured per building on avg, the current reported
-figures may double in the future.
-
----
-
-TR \# of buildings collapsed after eq per city - UNHCR
-[PDF](https://data.unhcr.org/en/documents/download/98820)
+Cuck votes up norm votes down
 
 ```python
-u.sm_tr_eq_buildings("0214")
+u.rottentomatoes_tv("Star Trek Discovery")
 ```
 
 ```text
-Total : 23498
+Out[1]: {'tomatometer score': '84%', 'audience score': '36%'}
 ```
 
-[[-]](mbl/2023/treq4.jpg)
+---
+
+*Fringe* was good scifi.. The strange thing is Ibrahim, Kurtzman,
+Akiva were all part of it... Then they mucked it all up for ST
+Discovery, "STD"
 
 ---
 
-But Al Jazeera has good content overall, and a fair take on the
-Israel/Palestine issue. Glad it is available.
+<iframe width="340" src="https://www.youtube.com/embed/kroU3SfCXE8" title="A Cloud City on Venus: Why Venus is a Better Choice" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-Qatar (who finances Al Jazeera) must still be butthurt from not being
-able to topple Assad after all that money spent to achieve it. I look
-at my timeline (below); there are gazillion of other events between
-that amnesty and, say, the capture of Falluja in 2014 by ISIS, years
-later. 
+ABC News: "Artisanal cobalt mining swallowing city in Democratic
+Republic of the Congo, satellite imagery shows"
 
-[[-]](0119/2017/12/timeline-syria-tr.html)
+[[-]](https://abcnews.go.com/International/cobalt-mining-transforms-city-democratic-republic-congo-satellite/story?id=96795773)
 
 ---
 
-:) Al Jazeera docu says Assad released (Sunni) political prisoners
-which created ISIS
+There are doctoral degrees awarded for machine learning; was it too
+premature to turn this 'eclectic mix of CS/Stat subjects' into a whole
+new field? There aren't any major theoretical advances to their name,
+all they have is applications that are created by jury rigging ever
+larger neural nets, feeding more and more data into them to do it.
 
 ---
 
-Free Julian Assange
-
-[[-]](https://cdn-az.allevents.in/events2/banners/0dfcc4f36e9fe07174629fa51afdd1e76fd9e52a245403439ad4fcb1ad1a9fbf-rimg-w960-h320-gmir.jpg)
-
----
-
-Rage Against The War Machine - organized by Libertarian Party and the
-People's Party. Catchy title. Good event. Make noise.. little
-cacerolazo.. good trouble.
+There is a small chance for the challenger to win, for that Dems have
+to campaign like Gore and the Rep have to do extremely well, I'm
+talking Dubya, Karl Rove level well.
 
 ---
 
-Ohio governor (R) was grilled pretty well on Fox & Friends - and they
-say journalism is dead!
+At a potential 2% Q2 GDP growth incumbent is likely to win 2024 reelection. 
+
+```text
+Interval: [49.79 53.43] Average: 51.61
+```
 
 ---
 
-Informed Comment: "Israeli Delegate Expelled from African Union
-Summit, in what may be First Global South Reaction to new Extremist
-Netanyahu Government"
+Net approval settled at around -10%. 
+
+
+```python
+u.biden_approval().net.plot()
+```
+
+<img width='340' src='mbl/2023/bidenapp1.jpg'/> 
+
+---
+
+Maps show who has been historically better at war - looking at Laos
+and Vietnam, the latter's landmass starts all the way from South,
+circles around, goes North, always in command of the seashore. Laos
+cold have had a piece of that for access but has none - completely
+landlocked. Clearly Vietnam has been better at war.
+
+```python
+u.sm_plot_list1(18, 104, 2, [['Laos',20,102],['Vietnam',14,108]])
+```
+
+<img width='340' src='mbl/2023/laosviet.jpg'/> 
+
+---
+
+Fox News: "Ron DeSantis rips Biden's 'blank-check' Ukraine policy"
+
+---
+
+US probably doesn't care as much about the Kurds of Rojova (NE Syria),
+but cares more about Shite Assad does not have an easy connection to
+the now-Shite-majority Iraq. Scared of a Iran-Iraq-Syria connectivity
+towards the Medi? The Kurdish areas cut them off nicely... There is
+some SYR-IRQ connection in the SE, and of course US has a base there
+(Al-Tanf) and the area is conveniently infested with the Sunni
+extremist Daesh.
+
+[[-]](https://newlinesinstitute.org/wp-content/uploads/20220712-Syria-NA.png)
+
+---
+
+CNBC: "The SEC has a stablecoin firm in its sights — and it could
+shake up the whole $137 billion market.. The U.S. Securities and
+Exchange Commission (SEC) could be gearing up to take action against
+Paxos"
 
 ---
 
