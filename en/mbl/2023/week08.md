@@ -1,6 +1,5 @@
 # Week 8
 
-
 Science.org: "The Malian discovery was vivid evidence for what a small
 group of scientists, studying hints from seeps, mines, and abandoned
 wells, had been saying for years: Contrary to conventional wisdom,

@@ -5,7 +5,14 @@ import pandas as pd
 pd.set_option('display.max_columns', None)
 ```
 
+```python
+df = u.biden_approval()
+```
 
+```python
+df.net.plot()
+plt.savefig('/tmp/out.jpg')
+```
 
 
 
