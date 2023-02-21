@@ -5,25 +5,13 @@ import pandas as pd
 pd.set_option('display.max_columns', None)
 ```
 
-```python
-df = u.biden_approval()
-```
+
 
 ```python
-df.net.plot()
-print (df.net.tail(5))
-plt.savefig('/tmp/out.jpg')
+u.biden_approval().net.plot()
 ```
 
-```text
-modeldate
-2023-02-16   -8.764036
-2023-02-17   -9.529339
-2023-02-18   -9.529339
-2023-02-19   -9.529339
-2023-02-20   -9.530296
-Name: net, dtype: float64
-```
+
 
 
 
