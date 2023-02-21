@@ -89,7 +89,7 @@ u.biden_approval().net.plot()
 Maps show who has been historically better at war - looking at Laos
 and Vietnam, the latter's landmass starts all the way from South,
 circles around, goes North, always in command of the seashore. Laos
-cold have had a piece of that for access but has none - completely
+could have had a piece of that for access but has none - completely
 landlocked. Clearly Vietnam has been better at war.
 
 ```python
