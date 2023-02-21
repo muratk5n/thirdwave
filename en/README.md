@@ -2,7 +2,7 @@
 
 ---
 
-Shut up! Say 'Evil Russia"! 
+Shut up! Say 'Evil Russia"! \#Kirby
 
 [[-]](https://youtu.be/h3HIDTpcM3g?t=24)
 
@@ -106,7 +106,7 @@ Fox News: "Ron DeSantis rips Biden's 'blank-check' Ukraine policy"
 
 US probably doesn't care as much about the Kurds of Rojova (NE Syria),
 but cares more about Shite Assad does not have an easy connection to
-the now-Shite-majority Iraq. Scared of a Iran-Iraq-Syria connectivity
+the now-Shite-majority Iraq. Scared of an Iran-Iraq-Syria connectivity
 towards the Medi? The Kurdish areas cut them off nicely... There is
 some SYR-IRQ connection in the SE, and of course US has a base there
 (Al-Tanf) and the area is conveniently infested with the Sunni
