@@ -21,7 +21,7 @@ Atjazz - Kidnapped \#music
 
 "Norway produces 50% of 'energy' with hydropower!!". When you look
 closely it is electricity, not just "energy" and elec consump is at
-20%. So now the number goes down to 10% - for a country of 5 million 🤨
+20%. So now the number goes down to 10% - for a country of 5 million ;)
 Is this supposed to impress someone?
 
 ---
