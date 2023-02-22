@@ -76,8 +76,8 @@ them together"
 ---
 
 It's funny I helped architect the tigger version of Ticketmaster,
-which was eventually acquired by... Ticketmaster. Monop is clearly
-their thing, at home and abroad.
+which was eventually acquired by... Ticketmaster. Expansion at all
+costs is clearly their thing, at home and abroad.
 
 ---
 
