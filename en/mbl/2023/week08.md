@@ -98,7 +98,7 @@ u.sm_tr_eq_buildings("0214")
 Total : 23498
 ```
 
-[[-]](mbl/2023/treq4.jpg)
+[[-]](treq4.jpg)
 
 ---
 
@@ -113,7 +113,7 @@ at my timeline (below); there are gazillion of other events between
 that amnesty and, say, the capture of Falluja in 2014 by ISIS, years
 later. 
 
-[[-]](0119/2017/12/timeline-syria-tr.html)
+[[-]](../../0119/2017/12/timeline-syria-tr.html)
 
 ---
 
