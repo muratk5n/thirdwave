@@ -50,13 +50,11 @@ bunch of data in there, and let it "generate art" for him.
 
 ---
 
-See GDELT, output files [here](http://data.gdeltproject.org/events).
+See sample GDELT output files [here](http://data.gdeltproject.org/events).
 Pick one, and check `Actor1Name`, `Actor2Name`, and `EventCode`
 triplets for every record. I guarantee it half the time they will be
-wrong.
-
-This is one of the best language models. Use SOTA, and forget 80, 95%,
-if you can surpass 70% I will eat my hat. 
+wrong. This is one of the best language models. Use SOTA, and forget
+80, 95%, if you can surpass 70% I will eat my hat. 
 
 The codes are documented in this [PDF](http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf).
 
