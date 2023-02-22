@@ -60,8 +60,9 @@ The codes are documented in this [PDF](http://data.gdeltproject.org/documentatio
 
 ---
 
-When specific answers are required that have to be true, which is the definition
-of (strong) AI, deep neural nets have a huge problem. 
+When specific answers are required that have to be true, one could say
+part of the definition of (strong) AI, deep neural nets have a huge
+problem.
 
 ---
 
