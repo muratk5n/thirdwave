@@ -82,7 +82,7 @@ Net approval settled at around -10%.
 u.biden_approval().net.plot()
 ```
 
-<img width='340' src='mbl/2023/bidenapp1.jpg'/> 
+<img width='340' src='bidenapp1.jpg'/> 
 
 ---
 
@@ -96,7 +96,7 @@ landlocked. Clearly Vietnam has been better at war.
 u.sm_plot_list1(18, 104, 2, [['Laos',20,102],['Vietnam',14,108]])
 ```
 
-<img width='340' src='mbl/2023/laosviet.jpg'/> 
+<img width='340' src='laosviet.jpg'/> 
 
 ---
 
@@ -209,8 +209,7 @@ figures may double in the future.
 
 ---
 
-TR \# of buildings collapsed after eq per city - UNHCR
-[PDF](https://data.unhcr.org/en/documents/download/98820)
+TR \# of buildings collapsed after eq per city - UNHCR [PDF](https://data.unhcr.org/en/documents/download/98820)
 
 ```python
 u.sm_tr_eq_buildings("0214")
