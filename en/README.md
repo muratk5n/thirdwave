@@ -20,9 +20,9 @@ Atjazz - Kidnapped \#music
 ---
 
 "Norway produces 50% of 'energy' with hydropower!!". When you look
-closely it is electricity, not just "energy" and elec represents only
-20% of most energy consumption. So now the number goes down to 10% -
-for a country of 5 million 🤨 Is this supposed to impress anyone?
+closely it is electricity, not just "energy" and elec consump is at
+20%. So now the number goes down to 10% - for a country of 5 million 🤨
+Is this supposed to impress someone?
 
 ---
 
@@ -39,7 +39,7 @@ majority from hydroelectric schemes"
 ---
 
 It looks like generating things that can be interpreted one way or
-another problem (some might call that art) was solved first by today's
+another problem (some might call that art) was solved earlier by today's
 crude attempts at AI.. Didn't scifi shows and movies have us believe
 art was the *last* thing to arrive? The android on Trek tried very
 hard to make jokes, create paintings after demonstrating excellent
