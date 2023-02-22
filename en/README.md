@@ -1,125 +1,98 @@
 
+Paper: "Dr Lex van Loon [writes] the biggest concern [with space flight]
+is prolonged exposure to microgravity - near zero gravity -
+which, combined with exposure to damaging radiation from the Sun,
+could cause 'fundamental' changes to the body"
+
+[[-]](https://www.anu.edu.au/news/all-news/mars-model-provides-method-for-landing-humans-on-red-planet)
 
 ---
 
-Shut up! Say 'Evil Russia"! \#Kirby
-
-[[-]](https://youtu.be/h3HIDTpcM3g?t=24)
-
----
-
-Politico: "The First Step Act, a criminal-justice reform law, created,
-among other things, quicker pathways home for certain nonviolent
-federal prisoners and delivered some sentencing reforms... Activists
-now estimate that perhaps 20,000 people have been released so far
-because of the law, according to Lance Kramer, the producer of the
-newly released documentary The First Step. And this happened because a
-self-described “law-and-order” president [Trump], who had months
-earlier called for the execution of major drug dealers, somehow found
-common ground with members of the social-justice left.
+First Post: "Pakistan’s elite in trouble amid bankruptcy as IMF tells
+Shehbaz Sharif govt to tax only the rich"
 
 ---
 
-Major spike in new Masto users - from 300/hr it's now over 1000/hr.
+Atjazz - Kidnapped \#music
+
+[[-]](https://youtu.be/vlz_hjdL7rE)
 
 ---
 
-Cuck votes up norm votes down
-
-```python
-u.rottentomatoes_tv("Star Trek Discovery")
-```
-
-```text
-Out[1]: {'tomatometer score': '84%', 'audience score': '36%'}
-```
+"Norway produces 50% of 'energy' with hydropower!!". When you look
+closely it is electricity, not just "energy" and elec represents only
+20% of most energy consumption. So now the number goes down to 10% -
+for a country of 5 million 🤨 Is this supposed to impress anyone?
 
 ---
 
-*Fringe* was good scifi.. The strange thing is Ibrahim, Kurtzman,
-Akiva were all part of it... Then they mucked it all up for ST
-Discovery, "STD"
+Of overall *energy* the percentage is actually <4%. Electricity does
+not represent all energy consumption (a mere 15% in most
+countries). That is why most rosy renewable energy numbers are also
+false eg Germany, Norway
+
+"Today the US produces just 7% of its energy from renewables, the
+majority from hydroelectric schemes"
+
+[[-]](2022/01/energstats.html#usenergy)
 
 ---
 
-<iframe width="340" src="https://www.youtube.com/embed/kroU3SfCXE8" title="A Cloud City on Venus: Why Venus is a Better Choice" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+It looks like generating things that can be interpreted one way or
+another problem (some might call that art) was solved first by today's
+crude attempts at AI.. Didn't scifi shows and movies have us believe
+art was the *last* thing to arrive? The android on Trek tried very
+hard to make jokes, create paintings after demonstrating excellent
+abilities in strong AI, feats today's algorithms can't even touch. I
+guess the only thing the super duper android from 24th century had to
+do was use some shit neural network code from 21st century, shove
+bunch of data in there, and let it "generate art" for him.
 
 ---
 
-ABC News: "Artisanal cobalt mining swallowing city in Democratic
-Republic of the Congo, satellite imagery shows"
+See GDELT, output files [here](http://data.gdeltproject.org/events).
+Pick one, and check `Actor1Name`, `Actor2Name`, and `EventCode`
+triplets for every record. I guarantee it half the time they will be
+wrong.
 
-[[-]](https://abcnews.go.com/International/cobalt-mining-transforms-city-democratic-republic-congo-satellite/story?id=96795773)
+This is one of the best language models. Use SOTA, and forget 80, 95%,
+if you can surpass 70% I will eat my hat. 
 
----
-
-There are doctoral degrees awarded for machine learning; was it too
-premature to turn this 'eclectic mix of CS/Stat subjects' into a whole
-new field? There aren't any major theoretical advances to their name,
-all they have is applications that are created by jury rigging ever
-larger neural nets, feeding more and more data into them to do it.
+The codes are documented in this [PDF](http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf).
 
 ---
 
-There is a small chance for the challenger to win, for that Dems have
-to campaign like Gore and the Rep have to do extremely well, I'm
-talking Dubya, Karl Rove level well.
+When specific answers are required that have to be true, which is the definition
+of (strong) AI, deep neural nets have a huge problem. 
 
 ---
 
-At a potential 2% Q2 GDP growth incumbent is likely to win 2024 reelection. 
+It can't do shit. It miscategorizes stuff all the time
 
-```text
-Interval: [49.79 53.43] Average: 51.61
-```
-
----
-
-Net approval settled at around -10%. 
-
-
-```python
-u.biden_approval().net.plot()
-```
-
-<img width='340' src='mbl/2023/bidenapp1.jpg'/> 
+"GDELT uses some of the world's most sophisticated natural language
+and data mining algorithms, including the world's most powerful deep
+learning algorithms, to extract more than 300 categories of events,
+millions of themes and thousands of emotions and the networks that tie
+them together"
 
 ---
 
-Maps show who has been historically better at war - looking at Laos
-and Vietnam, the latter's landmass starts all the way from South,
-circles around, goes North, always in command of the seashore. Laos
-could have had a piece of that for access but has none - completely
-landlocked. Clearly Vietnam has been better at war.
-
-```python
-u.sm_plot_list1(18, 104, 2, [['Laos',20,102],['Vietnam',14,108]])
-```
-
-<img width='340' src='mbl/2023/laosviet.jpg'/> 
+It's funny I helped architect the tigger version of Ticketmaster,
+which was eventually acquired by... Ticketmaster. Monop is clearly
+their thing, at home and abroad.
 
 ---
 
-Fox News: "Ron DeSantis rips Biden's 'blank-check' Ukraine policy"
+A recent claim is Ticketmaster monopoly caused an absence of choices
+when TX systems went awry and "Swifties" went batshit 
+
+LA Times: "[2010] aTicketmaster-Live Nation merger gets Justice Department’s approval"
 
 ---
 
-US probably doesn't care as much about the Kurds of Rojova (NE Syria),
-but cares more about Shite Assad does not have an easy connection to
-the now-Shite-majority Iraq. Scared of an Iran-Iraq-Syria connectivity
-towards the Medi? The Kurdish areas cut them off nicely... There is
-some SYR-IRQ connection in the SE, and of course US has a base there
-(Al-Tanf) and the area is conveniently infested with the Sunni
-extremist Daesh.
-
-[[-]](https://newlinesinstitute.org/wp-content/uploads/20220712-Syria-NA.png)
-
----
-
-CNBC: "The SEC has a stablecoin firm in its sights — and it could
-shake up the whole $137 billion market.. The U.S. Securities and
-Exchange Commission (SEC) could be gearing up to take action against
-Paxos"
+Euractiv: "Putin: The more long-range Western systems are being
+delivered to Ukraine, the farther we will be forced to move the threat
+from our borders"
 
 ---
 
