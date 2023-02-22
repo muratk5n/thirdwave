@@ -66,7 +66,7 @@ problem.
 
 ---
 
-It can't do shit. It miscategorizes stuff all the time
+It goes wrong frequently, miscategorizes stuff all the time
 
 "GDELT uses some of the world's most sophisticated natural language
 and data mining algorithms, including the world's most powerful deep
