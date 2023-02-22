@@ -86,7 +86,8 @@ their thing, at home and abroad.
 A recent claim is Ticketmaster monopoly caused an absence of choices
 when TX systems went awry and "Swifties" went batshit 
 
-LA Times: "[2010] aTicketmaster-Live Nation merger gets Justice Department’s approval"
+LA Times: "[2010] Ticketmaster-Live Nation merger gets Justice
+Department’s approval"
 
 ---
 
