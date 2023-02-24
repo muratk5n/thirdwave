@@ -35,7 +35,7 @@ false eg Germany, Norway
 "Today the US produces just 7% of its energy from renewables, the
 majority from hydroelectric schemes"
 
-[[-]](2022/01/energstats.html#usenergy)
+[[-]](../../2022/01/energstats.html#usenergy)
 
 ---
 
