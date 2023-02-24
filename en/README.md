@@ -56,8 +56,8 @@ level since early January"
 
 ---
 
-The carrier moved toward the Adriatic.. Conspiracy theorists to the East of
-the Aegean can breathe a sigh of relief.
+The US carrier moved toward the Adriatic.. Conspiracy theorists to the
+East of the Aegean can breathe a sigh of relief.
 
 ```python
 u.sm_plot_list1(38, 24, 2.0, np.array(u.usnavy()[['name','lat','lon']]))
