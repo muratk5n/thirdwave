@@ -34,8 +34,8 @@ Arab News: "NATO chief sees ‘some signs’ China could back Russia’s war"
 ---
 
 Russia-friendly Burkina Faso gov just recently ended the deployment of
-French soldiers on its soil. They resurrected the symbolism, image of
-Thomas Sankara, a Marxist, and former President of BF 1983-87. Per
+French soldiers on its soil. Gov also resurrected the symbolism, image
+of Thomas Sankara, a Marxist, and former President of BF 1983-87. Per
 history Sankara was toppled (and killed) by an "outside assisted" coup
 involving France and Ivory Coast.
 
