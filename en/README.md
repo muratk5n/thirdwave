@@ -42,7 +42,7 @@ coup involving France and its ally Ivory Coast.
 ---
 
 Ok.. ok.. you get a little green patch on your side. Updated
-[da map](../../2022/12/ru-africa.html).
+[da map](2022/12/ru-africa.html).
 
 African News: "[9/2022] Polish president visited Ivory Coast to
 discuss impact of war in Ukraine.. During the visit, Ivorian president
