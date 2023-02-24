@@ -431,7 +431,7 @@ One carrier is at a Greek port
 df = u.usnavy(); u.sm_plot_list1(38, 24, 2.0, np.array(df[['name','lat','lon']]))
 ```
 
-<img width='340' src='agean1.jpg'/> 
+<img width='340' src='usnavy1.jpg'/> 
 
 ---
 

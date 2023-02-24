@@ -5,10 +5,9 @@ import pandas as pd
 pd.set_option('display.max_columns', None)
 ```
 
-
-
 ```python
-u.biden_approval().net.plot()
+df = u.usnavy(); u.sm_plot_list1(38, 24, 2.0, np.array(df[['name','lat','lon']]))
+plt.savefig('/tmp/out.jpg',quality=40)
 ```
 
 

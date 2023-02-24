@@ -5,21 +5,21 @@ pro-US countries in Africa. Countries siding with RU are colored in
 red, for US green, country codes are iso3, full list is [here](https://www.iban.com/country-codes).
 
 ```python
-import util as u
-ru = ['Mali','Ethiopia','Congo','South Africa',
-      'Sudan','Uganda','Zimbabwe','Burkina Faso',
-      'Cameroon','Equatorial Guinea','Sao Tome and Principe',
-      'Niger','Algeria','Togo','Lesotho','Swaziland',
-      'Namibia','Mozambique','United Republic of Tanzania',
-      'Central African Republic','Western Sahara'] 
+import impl as u
 
-us = ['Chad','Gabon','Ghana','Kenya','Rwanda',
-       'Djibouti','Somalia', 'Democratic Republic of the Congo',
-       'Mauritania','Lesotho', 'Mauritius',
-       'Angola','Nigeria','Morocco','Tunisia']
+ru = ["Mali","Ethiopia","Congo","South Africa",
+      "Sudan","Uganda","Zimbabwe","Burkina Faso",
+      "Cameroon","Equatorial Guinea","Sao Tome and Principe",
+      "Niger","Algeria","Togo","Lesotho","Swaziland",
+      "Namibia","Mozambique","United Republic of Tanzania",
+      "Central African Republic","Western Sahara"] 
+
+us = ["Chad","Gabon","Ghana","Kenya","Rwanda", "Djibouti","Somalia",
+       "Democratic Republic of the Congo", "Mauritania","Lesotho",
+       "Mauritius", "Angola","Nigeria","Morocco","Tunisia","Cote d'Ivoire"]
 
 u.plot_africa_ru_us(ru,us)
-plt.savefig('af-ru-us.jpg')   
+plt.savefig('af-ru-us.jpg',quality=50)
 ```
 
 ![](af-ru-us.jpg)
@@ -53,6 +53,11 @@ African countries divided over UN vote against Russia.
 
 [9/10](https://www.bbc.com/news/world-africa-63171771) -
 Why Russia is cheering on the Burkina Faso coup.
+
+[8/9](https://www.africanews.com/2022/09/08/polish-president-visited-ivory-coast-to-discuss-impact-of-war-in-ukraine/)
+Polish president visited Ivory Coast to discuss impact of war in
+Ukraine.. During the visit, Ivorian president Alassane Ouattara
+reiterated his support for the restoration of borders in Ukraine.
 
 [6/7](https://edition.cnn.com/2022/07/06/politics/afghanistan-major-non-nato-ally-designation-biden-rescind/index.html)
 With Afghanistan’s status rescinded, the US will have 18 major
