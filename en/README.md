@@ -34,10 +34,10 @@ companies more profitable, keeps employees happy"
 ---
 
 Russia-friendly Burkina Faso gov just recently ended the deployment of
-French soldiers on its soil. They resurrected the symbolism of Thomas
-Sankara, a Marxist, and former President of BF 1983-87. Sankara back
-then was toppled (and killed) by most likely a "outside assisted" coup
-involving France and its ally Ivory Coast.
+French soldiers on its soil. They resurrected the symbolism, imae of
+Thomas Sankara, a Marxist, and former President of BF 1983-87. Sankara
+back then was toppled (and killed) by most likely a "outside assisted"
+coup involving France and its ally Ivory Coast.
 
 ---
 
