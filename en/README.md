@@ -1,97 +1,95 @@
 
-Paper: "Dr Lex van Loon [writes] the biggest concern [with space flight]
-is prolonged exposure to microgravity - near zero gravity -
-which, combined with exposure to damaging radiation from the Sun,
-could cause 'fundamental' changes to the body"
-
-[[-]](https://www.anu.edu.au/news/all-news/mars-model-provides-method-for-landing-humans-on-red-planet)
+Arab News: "NATO chief sees ‘some signs’ China could back Russia’s war"
 
 ---
 
-First Post: "Pakistan’s elite in trouble amid bankruptcy as IMF tells
-Shehbaz Sharif govt to tax only the rich"
+TechCrunch: "India and Singapore have linked their digital payments systems, UPI
+and PayNow, to enable instant and low-cost fund transfers in a major
+push to disrupt the cross-border flow of money between the two nations
+that amounts to over $1 billion each year"
 
 ---
 
-Atjazz - Kidnapped \#music
-
-[[-]](https://youtu.be/vlz_hjdL7rE)
-
----
-
-"Norway produces 50% of 'energy' with hydropower!!". When you look
-closely it is electricity, not just "energy" and elec consump is at
-20%. So now the number goes down to 10% - for a country of 5 million ;)
-Is this supposed to impress someone?
+H2 View: "Spanish oil company Cepsa has signed an agreement with
+Dutch-based ACE Terminal to create a green hydrogen supply chain
+between Spain and the Netherlands"
 
 ---
 
-Of overall *energy* the percentage is actually <4%. Electricity does
-not represent all energy consumption (a mere 15% in most
-countries). That is why most rosy renewable energy numbers are also
-false eg Germany, Norway
-
-"Today the US produces just 7% of its energy from renewables, the
-majority from hydroelectric schemes"
-
-[[-]](2022/01/energstats.html#usenergy)
+H2 View: "GeoPura receives £36m backing from industrial and financial
+majors..UK green hydrogen company GeoPura has today (February 23)
+announced it has received £36m ($43m) from an investment round co-led
+by the investment arm of General Motors (GM Ventures) and Barclays
+Sustainable Impact Capital"
 
 ---
 
-It looks like generating things that can be interpreted one way or
-another problem (some might call that art) was solved earlier by today's
-crude attempts at AI.. Didn't scifi shows and movies have us believe
-art was the *last* thing to arrive? The android on Trek tried very
-hard to make jokes, create paintings after demonstrating excellent
-abilities in strong AI, feats today's algorithms can't even touch. I
-guess the only thing the super duper android from 24th century had to
-do was use some shit neural network code from 21st century, shove
-bunch of data in there, and let it "generate art" for him.
+F24: "France goes 31 days without rainfall, unprecedented in winter"
 
 ---
 
-See sample GDELT output files [here](http://data.gdeltproject.org/events).
-Pick one, and check `Actor1Name`, `Actor2Name`, and `EventCode`
-triplets for every record, meaning someone does something to someone
-else. Half the time they are wrong... This is one of the best language models.
-Use SOTA, and forget 90, 95%, if you can surpass 80% I will eat my hat. 
-
-The codes are documented in this [PDF](http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf).
+First Post: "Light of Day: Cambridge study finds four-day week makes
+companies more profitable, keeps employees happy"
 
 ---
 
-When specific answers are required to be true, one could say part of
-the definition of (strong) AI, deep neural nets have a huge problem.
+Russia-friendly Burkina Faso gov just recently ended the deployment of
+French soldiers on its soil. They reinsurrected the symbolism of
+Thomas Sankara, a Marxist, and former President of BF 1983-87. Sankara
+back then was toppled (and killed) by most likely a "outside assisted"
+coup involving France and its ally Ivory Coast.
 
 ---
 
-It goes wrong frequently, miscategorizes stuff all the time
+Ok.. ok.. you get a little green patch on your side. Updated
+[da map](../../2022/12/ru-africa.html).
 
-"GDELT uses some of the world's most sophisticated natural language
-and data mining algorithms, including the world's most powerful deep
-learning algorithms, to extract more than 300 categories of events,
-millions of themes and thousands of emotions and the networks that tie
-them together"
-
----
-
-It's funny I helped architect the tigger version of Ticketmaster,
-which was eventually acquired by... Ticketmaster. Expansion at all
-costs is clearly their thing, at home and abroad.
+African News: "[9/2022] Polish president visited Ivory Coast to
+discuss impact of war in Ukraine.. During the visit, Ivorian president
+Alassane Ouattara reiterated his support for the restoration of
+borders in Ukraine"
 
 ---
 
-A recent claim is Ticketmaster monopoly caused an absence of choices
-when TX systems went awry and "Swifties" went batshit 
-
-LA Times: "[2010] Ticketmaster-Live Nation merger gets Justice
-Department’s approval"
+TASS: "Gas supply by Gazprom for Europe through Ukraine up to highest
+level since early January"
 
 ---
 
-Euractiv: "Putin: The more long-range Western systems are being
-delivered to Ukraine, the farther we will be forced to move the threat
-from our borders"
+The carrier moved toward the Adriatic.. Conspiracy theorists to the East of
+the Aegean can breathe a sigh of relief.
+
+```python
+u.sm_plot_list1(38, 24, 2.0, np.array(u.usnavy()[['name','lat','lon']]))
+```
+
+<img width='340' src='mbl/2023/usnavy2.jpg'/> 
+
+---
+
+Decentralized social media tech also points the way for proper
+anti-trust and breaking up companies; it is possible, it *was*
+possible to simply split a social network into two, have half of their
+users in one business, the other in the business, communicating
+through a common protocol.
+
+---
+
+"@dangillmor@mastodon.social
+
+Social media giants have a new pitch:
+
+'Nice identity you got there -- be a shame if something happened to it.'"
+
+---
+
+Wah wah wah waaaaahh
+
+[[-]](mbl/2023/market1.jpg)
+
+---
+
+Arab News: "Malcolm X’s daughter to sue CIA and FBI for wrongful death"
 
 ---
 

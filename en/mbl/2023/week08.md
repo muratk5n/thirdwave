@@ -1,5 +1,99 @@
 # Week 8
 
+Paper: "Dr Lex van Loon [writes] the biggest concern [with space flight]
+is prolonged exposure to microgravity - near zero gravity -
+which, combined with exposure to damaging radiation from the Sun,
+could cause 'fundamental' changes to the body"
+
+[[-]](https://www.anu.edu.au/news/all-news/mars-model-provides-method-for-landing-humans-on-red-planet)
+
+---
+
+First Post: "Pakistan’s elite in trouble amid bankruptcy as IMF tells
+Shehbaz Sharif govt to tax only the rich"
+
+---
+
+Atjazz - Kidnapped \#music
+
+[[-]](https://youtu.be/vlz_hjdL7rE)
+
+---
+
+"Norway produces 50% of 'energy' with hydropower!!". When you look
+closely it is electricity, not just "energy" and elec consump is at
+20%. So now the number goes down to 10% - for a country of 5 million ;)
+Is this supposed to impress someone?
+
+---
+
+Of overall *energy* the percentage is actually <4%. Electricity does
+not represent all energy consumption (a mere 15% in most
+countries). That is why most rosy renewable energy numbers are also
+false eg Germany, Norway
+
+"Today the US produces just 7% of its energy from renewables, the
+majority from hydroelectric schemes"
+
+[[-]](2022/01/energstats.html#usenergy)
+
+---
+
+It looks like generating things that can be interpreted one way or
+another problem (some might call that art) was solved earlier by today's
+crude attempts at AI.. Didn't scifi shows and movies have us believe
+art was the *last* thing to arrive? The android on Trek tried very
+hard to make jokes, create paintings after demonstrating excellent
+abilities in strong AI, feats today's algorithms can't even touch. I
+guess the only thing the super duper android from 24th century had to
+do was use some shit neural network code from 21st century, shove
+bunch of data in there, and let it "generate art" for him.
+
+---
+
+See sample GDELT output files [here](http://data.gdeltproject.org/events).
+Pick one, and check `Actor1Name`, `Actor2Name`, and `EventCode`
+triplets for every record, meaning someone does something to someone
+else. Half the time they are wrong... This is one of the best language models.
+Use SOTA, and forget 90, 95%, if you can surpass 80% I will eat my hat. 
+
+The codes are documented in this [PDF](http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf).
+
+---
+
+When specific answers are required to be true, one could say part of
+the definition of (strong) AI, deep neural nets have a huge problem.
+
+---
+
+It goes wrong frequently, miscategorizes stuff all the time
+
+"GDELT uses some of the world's most sophisticated natural language
+and data mining algorithms, including the world's most powerful deep
+learning algorithms, to extract more than 300 categories of events,
+millions of themes and thousands of emotions and the networks that tie
+them together"
+
+---
+
+It's funny I helped architect the tigger version of Ticketmaster,
+which was eventually acquired by... Ticketmaster. Expansion at all
+costs is clearly their thing, at home and abroad.
+
+---
+
+A recent claim is Ticketmaster monopoly caused an absence of choices
+when TX systems went awry and "Swifties" went batshit 
+
+LA Times: "[2010] Ticketmaster-Live Nation merger gets Justice
+Department’s approval"
+
+---
+
+Euractiv: "Putin: The more long-range Western systems are being
+delivered to Ukraine, the farther we will be forced to move the threat
+from our borders"
+
 ---
 
 Shut up! Say 'Evil Russia"! \#Kirby
