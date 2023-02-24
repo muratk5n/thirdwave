@@ -1,8 +1,4 @@
 
-Arab News: "NATO chief sees ‘some signs’ China could back Russia’s war"
-
----
-
 TechCrunch: "India and Singapore have linked their digital payments systems, UPI
 and PayNow, to enable instant and low-cost fund transfers in a major
 push to disrupt the cross-border flow of money between the two nations
@@ -30,6 +26,10 @@ F24: "France goes 31 days without rainfall, unprecedented in winter"
 
 First Post: "Light of Day: Cambridge study finds four-day week makes
 companies more profitable, keeps employees happy"
+
+---
+
+Arab News: "NATO chief sees ‘some signs’ China could back Russia’s war"
 
 ---
 
