@@ -34,7 +34,7 @@ last year"
 
 It's true.. the sounds are truly a mess. The cacaphony is an
 anti-propaganda for Islam the religion. Loud church bells are annoying
-BTW.
+too BTW.
 
 Quora: "I’m Muslim and I’ll tell you what I hate about [call to
 prayer, Azan], (at least in major cities..)
