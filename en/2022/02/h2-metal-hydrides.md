@@ -102,6 +102,14 @@ The researchers’ experiments show that the material could enable the
 storage of four times as much hydrogen in the same volume as existing
 hydrogen fuel technologies
 
+[Paper](https://pubs.rsc.org/en/content/articlelanding/2022/TA/D2TA06458H)
+
+Magnesium hydride (MgH2) is a promising material for solid hydrogen
+storage due to its superior hydrogen storage capacity… Our results
+obtained by spin-polarized density functional theory calculations with
+van der Waals corrections (DFT-D3) unveiled an interesting “burst
+effect” during MgH2 dehydrogenation
+
 [Link](https://elkodaily.com/lifestyles/professor-hanington-s-speaking-of-science-storing-hydrogen-in-a/article_a400c9cf-afbb-5668-aff1-c046fa347470.html)
 
 [Kubagen](https://www.kubagen.co.uk)

@@ -1,31 +1,4 @@
 
-
-Reuters: "Honeywell carbon capture tech to be used at Exxon’s
-low-carbon hydrogen production facility"
-
----
-
-It's true.. the sounds are truly a mess. The cacaphony is an
-anti-propaganda for Islam the religion. Loud church bells are annoying
-too.
-
-Quora: "I’m Muslim and I’ll tell you what I hate about [call to
-prayer, Azan], (at least in major cities..)
-
-VOLUME.
-
-Mosques are located in just about every neighborhood and they all
-blast the adhan at the loudest possible volume.
-
-What results is an unintelligible, screaming, mess of sound, that
-would be entirely unidentifiable as anything even slightly related to
-a call to religious worship if it weren’t for blips of the rise and
-fall of the familiar cadence that sometimes makes its way through the
-mess because they all play at slightly different times, so the words
-of each fight with those of the other"
-
----
-
 Paper: "Magnesium hydride (MgH2) is a promising material for solid
 hydrogen storage due to its superior hydrogen storage capacity... Our
 results obtained by spin-polarized density functional theory
@@ -33,6 +6,11 @@ calculations with van der Waals corrections (DFT-D3) unveiled an
 interesting “burst effect” during MgH2 dehydrogenation"
 
 [[-]](https://pubs.rsc.org/en/content/articlelanding/2022/TA/D2TA06458H)
+
+---
+
+Reuters: "Honeywell carbon capture tech to be used at Exxon’s
+low-carbon hydrogen production facility"
 
 ---
 
@@ -51,6 +29,27 @@ since last year, on the roads in Germany, Switzerland, New Zealand and
 South Korea. Deliveries arrive in the US and Israel this year. In
 China, hydrogen fuel-cell vehicle sales, led by buses, nearly tripled
 last year"
+
+---
+
+It's true.. the sounds are truly a mess. The cacaphony is an
+anti-propaganda for Islam the religion. Loud church bells are annoying
+BTW.
+
+Quora: "I’m Muslim and I’ll tell you what I hate about [call to
+prayer, Azan], (at least in major cities..)
+
+VOLUME.
+
+Mosques are located in just about every neighborhood and they all
+blast the adhan at the loudest possible volume.
+
+What results is an unintelligible, screaming, mess of sound, that
+would be entirely unidentifiable as anything even slightly related to
+a call to religious worship if it weren’t for blips of the rise and
+fall of the familiar cadence that sometimes makes its way through the
+mess because they all play at slightly different times, so the words
+of each fight with those of the other"
 
 ---
 
