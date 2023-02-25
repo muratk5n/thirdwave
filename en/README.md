@@ -1,95 +1,101 @@
 
-TechCrunch: "India and Singapore have linked their digital payments systems, UPI
-and PayNow, to enable instant and low-cost fund transfers in a major
-push to disrupt the cross-border flow of money between the two nations
-that amounts to over $1 billion each year"
+
+Reuters: "Honeywell carbon capture tech to be used at Exxon’s
+low-carbon hydrogen production facility"
 
 ---
 
-H2 View: "Spanish oil company Cepsa has signed an agreement with
-Dutch-based ACE Terminal to create a green hydrogen supply chain
-between Spain and the Netherlands"
+It's true.. the sounds are truly a mess. The cacaphony is an
+anti-propaganda for Islam the religion. Loud church bells are annoying
+too.
+
+Quora: "I’m Muslim and I’ll tell you what I hate about [call to
+prayer, Azan], (at least in major cities..)
+
+VOLUME.
+
+Mosques are located in just about every neighborhood and they all
+blast the adhan at the loudest possible volume.
+
+What results is an unintelligible, screaming, mess of sound, that
+would be entirely unidentifiable as anything even slightly related to
+a call to religious worship if it weren’t for blips of the rise and
+fall of the familiar cadence that sometimes makes its way through the
+mess because they all play at slightly different times, so the words
+of each fight with those of the other"
 
 ---
 
-H2 View: "GeoPura receives £36m backing from industrial and financial
-majors..UK green hydrogen company GeoPura has today (February 23)
-announced it has received £36m ($43m) from an investment round co-led
-by the investment arm of General Motors (GM Ventures) and Barclays
-Sustainable Impact Capital"
+Paper: "Magnesium hydride (MgH2) is a promising material for solid
+hydrogen storage due to its superior hydrogen storage capacity... Our
+results obtained by spin-polarized density functional theory
+calculations with van der Waals corrections (DFT-D3) unveiled an
+interesting “burst effect” during MgH2 dehydrogenation"
+
+[[-]](https://pubs.rsc.org/en/content/articlelanding/2022/TA/D2TA06458H)
 
 ---
 
-F24: "France goes 31 days without rainfall, unprecedented in winter"
+Number 1 rule of tech adoption: The tech can handle all cases, will
+eventually be deployed for all cases. 
 
 ---
 
-First Post: "Light of Day: Cambridge study finds four-day week makes
-companies more profitable, keeps employees happy"
+FT: "The big bet on hydrogen vehicles.. Toyota and Hyundai believe in the
+alternative fuel.. Large vehicles, such as trucks, need an alternative
+to battery electric power. The distances they travel mean electric
+alternatives require heavy batteries.. for hydrogen-powered commercial
+vehicles — buses and trucks — growth has been much stronger than
+expected. Hyundai’s Xcient trucks have expanded market share rapidly
+since last year, on the roads in Germany, Switzerland, New Zealand and
+South Korea. Deliveries arrive in the US and Israel this year. In
+China, hydrogen fuel-cell vehicle sales, led by buses, nearly tripled
+last year"
 
 ---
 
-Arab News: "NATO chief sees ‘some signs’ China could back Russia’s war"
+"@Hy_Economy@mastodon.social
+
+Big \#Hydrogen pipeline project north-south link: 
+
+- Gasunie & Thyssengas - connect Wilhelmshaven H₂ hub and Norwegian H₂
+  pipeline with chemical cluster Cologne ⇾ possible extension to
+  southern Germany.
+
+- North: Connect with west-east hyperlink from the Netherlands to
+  Salzgitter, with a possible extension to Berlin.
+
+- South: connect with GetH2 cluster and the Netherlands in Vlieghuis"
 
 ---
 
-Russia-friendly Burkina Faso gov just recently ended the deployment of
-French soldiers on its soil. Gov also resurrected the symbolism, image
-of Thomas Sankara, a Marxist, and former President of BF 1983-87. Per
-history Sankara was toppled (and killed) by an "outside assisted" coup
-involving France and Ivory Coast.
+CNBC: "The U.S. and China met to discuss the 'spy balloon.' Their
+statements afterward were very different"
 
 ---
 
-Ok.. ok.. you get a little green patch on your side. Updated
-[da map](2022/12/ru-africa.html).
-
-African News: "[9/2022] Polish president visited Ivory Coast to
-discuss impact of war in Ukraine.. During the visit, Ivorian president
-Alassane Ouattara reiterated his support for the restoration of
-borders in Ukraine"
+H2 View: "Sinopec launches 30,000 tonne per year green hydrogen project in China"
 
 ---
 
-TASS: "Gas supply by Gazprom for Europe through Ukraine up to highest
-level since early January"
+H2 View: "UK Government backs £5.4m autonomous liquid hydrogen vessel
+and infrastructure project"
 
 ---
 
-The US carrier moved toward the Adriatic.. Conspiracy theorists to the
-East of the Aegean can breathe a sigh of relief.
+Madagascar RU relations sound pretty good.. Added it to - Da - Map.
 
-```python
-u.sm_plot_list1(38, 24, 2.0, np.array(u.usnavy()[['name','lat','lon']]))
-```
-
-<img width='340' src='mbl/2023/usnavy2.jpg'/> 
+[[-]](2022/01/ru-africa.html)
 
 ---
 
-Decentralized social media tech also points the way for proper
-anti-trust and breaking up companies; it is possible, it *was*
-possible to simply split a social network into two, have half of their
-users in one business, the other in the business, communicating
-through a common protocol.
+Reuters: "[10/2022] Madagascar minister fired for voting against
+Russia's Ukraine annexation"
 
 ---
 
-"@dangillmor@mastodon.social
-
-Social media giants have a new pitch:
-
-'Nice identity you got there -- be a shame if something happened to it.'"
-
----
-
-Wah wah wah waaaaahh
-
-[[-]](mbl/2023/market1.jpg)
-
----
-
-Arab News: "Malcolm X’s daughter to sue CIA and FBI for wrongful death"
+Informed Comment: "Jimmy Carter was Pilloried for Worrying about
+Israeli Apartheid, but he has Been Amply Vindicated by History"
 
 ---
 

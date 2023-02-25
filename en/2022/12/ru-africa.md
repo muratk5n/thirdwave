@@ -7,7 +7,7 @@ red, for US green, country codes are iso3, full list is [here](https://www.iban.
 ```python
 import impl as u
 
-ru = ["Mali","Ethiopia","Congo","South Africa",
+ru = ["Mali","Ethiopia","Congo","South Africa","Madagascar",
       "Sudan","Uganda","Zimbabwe","Burkina Faso",
       "Cameroon","Equatorial Guinea","Sao Tome and Principe",
       "Niger","Algeria","Togo","Lesotho","Swaziland",
@@ -35,6 +35,9 @@ Angola switched its ties from Russia to US.
 
 [05/11](https://tfiglobalnews.com/2022/11/05/biden-confirms-that-burkina-faso-is-now-on-russias-side/) -
 Biden confirms that Burkina Faso is now on Russia’s side.
+
+[19/10](https://www.reuters.com/world/madagascar-minister-fired-voting-against-russias-ukraine-annexation-2022-10-19/) -
+Madagascar minister fired for voting against Russia's Ukraine annexation 
 
 [17/10](https://tfiglobalnews.com/2022/10/17/pro-us-chad-has-been-surrounded-by-pro-russia-nations-and-its-surrender-is-inevitable/) -
 Pro-US Chad has been surrounded by pro-Russia nations, and its surrender is inevitable.

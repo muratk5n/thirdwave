@@ -1,5 +1,100 @@
 # Week 8
 
+
+TechCrunch: "India and Singapore have linked their digital payments systems, UPI
+and PayNow, to enable instant and low-cost fund transfers in a major
+push to disrupt the cross-border flow of money between the two nations
+that amounts to over $1 billion each year"
+
+---
+
+H2 View: "Spanish oil company Cepsa has signed an agreement with
+Dutch-based ACE Terminal to create a green hydrogen supply chain
+between Spain and the Netherlands"
+
+---
+
+H2 View: "GeoPura receives £36m backing from industrial and financial
+majors..UK green hydrogen company GeoPura has today (February 23)
+announced it has received £36m ($43m) from an investment round co-led
+by the investment arm of General Motors (GM Ventures) and Barclays
+Sustainable Impact Capital"
+
+---
+
+F24: "France goes 31 days without rainfall, unprecedented in winter"
+
+---
+
+First Post: "Light of Day: Cambridge study finds four-day week makes
+companies more profitable, keeps employees happy"
+
+---
+
+Arab News: "NATO chief sees ‘some signs’ China could back Russia’s war"
+
+---
+
+Russia-friendly Burkina Faso gov just recently ended the deployment of
+French soldiers on its soil. Gov also resurrected the symbolism, image
+of Thomas Sankara, a Marxist, and former President of BF 1983-87. Per
+history Sankara was toppled (and killed) by an "outside assisted" coup
+involving France and Ivory Coast.
+
+---
+
+Ok.. ok.. you get a little green patch on your side. Updated
+[da map](2022/12/ru-africa.html).
+
+African News: "[9/2022] Polish president visited Ivory Coast to
+discuss impact of war in Ukraine.. During the visit, Ivorian president
+Alassane Ouattara reiterated his support for the restoration of
+borders in Ukraine"
+
+---
+
+TASS: "Gas supply by Gazprom for Europe through Ukraine up to highest
+level since early January"
+
+---
+
+The US carrier moved toward the Adriatic.. Conspiracy theorists to the
+East of the Aegean can breathe a sigh of relief.
+
+```python
+u.sm_plot_list1(38, 24, 2.0, np.array(u.usnavy()[['name','lat','lon']]))
+```
+
+<img width='340' src='mbl/2023/usnavy2.jpg'/> 
+
+---
+
+Decentralized social media tech also points the way for proper
+anti-trust and breaking up companies; it is possible, it *was*
+possible to simply split a social network into two, have half of their
+users in one business, the other in the business, communicating
+through a common protocol.
+
+---
+
+"@dangillmor@mastodon.social
+
+Social media giants have a new pitch:
+
+'Nice identity you got there -- be a shame if something happened to it.'"
+
+---
+
+Wah wah wah waaaaahh
+
+[[-]](mbl/2023/market1.jpg)
+
+---
+
+Arab News: "Malcolm X’s daughter to sue CIA and FBI for wrongful death"
+
+---
+
 Paper: "Dr Lex van Loon [writes] the biggest concern [with space flight]
 is prolonged exposure to microgravity - near zero gravity -
 which, combined with exposure to damaging radiation from the Sun,
