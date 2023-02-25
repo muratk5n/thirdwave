@@ -1,6 +1,5 @@
 # Week 8
 
-
 TechCrunch: "India and Singapore have linked their digital payments systems, UPI
 and PayNow, to enable instant and low-cost fund transfers in a major
 push to disrupt the cross-border flow of money between the two nations
@@ -44,7 +43,7 @@ involving France and Ivory Coast.
 ---
 
 Ok.. ok.. you get a little green patch on your side. Updated
-[da map](2022/12/ru-africa.html).
+[da map](../../2022/12/ru-africa.html).
 
 African News: "[9/2022] Polish president visited Ivory Coast to
 discuss impact of war in Ukraine.. During the visit, Ivorian president
@@ -65,7 +64,7 @@ East of the Aegean can breathe a sigh of relief.
 u.sm_plot_list1(38, 24, 2.0, np.array(u.usnavy()[['name','lat','lon']]))
 ```
 
-<img width='340' src='mbl/2023/usnavy2.jpg'/> 
+<img width='340' src='usnavy2.jpg'/> 
 
 ---
 
@@ -87,7 +86,7 @@ Social media giants have a new pitch:
 
 Wah wah wah waaaaahh
 
-[[-]](mbl/2023/market1.jpg)
+[[-]](market1.jpg)
 
 ---
 
