@@ -19,9 +19,7 @@ I did some data wrangling below, for US, JP, Oz. I fetched working age
 population, total population, and GDP; then I plot working age pop
 ratio, against GDP per capita.
 
-```python
-import util
-    
+```python    
 # FRED 'LFWA64TTUSM647S','POPTHM','GDPC1','LFWA64TTJPM647S','POPTOTJPA647NWDB',
 # 'JPNRGDPEXP','LFWA64TTAUM647N','POPTOTAUA647NWDB','NGDPRSAXDCAUQ']
 

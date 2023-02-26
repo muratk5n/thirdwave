@@ -1,7 +1,7 @@
 """
 Mastodon crawler
 """
-import requests, json, pandas as pd, util, glob, csv
+import requests, json, pandas as pd, glob, csv, impl as u
 from multiprocessing import Process
 
 def get_masto_peers(host):
@@ -59,9 +59,8 @@ def run(iter):
             self.nfile.close()
 
     f = "./iter%d/input.csv" % iter
-    #util.lineproc(file_name=f, N=4, hookobj = MastJob(0))
     N = 10
-    ps = [Process(target=util.lineproc, args=(f, N, MastJob(i))) for i in range(N)]
+    ps = [Process(target=u.lineproc, args=(f, N, MastJob(i))) for i in range(N)]
     for p in ps: p.start()
                     
 def combine(iter):

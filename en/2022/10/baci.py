@@ -4,7 +4,7 @@ import scipy.sparse as sps, scipy.io as io, glob
 from timeit import default_timer as timer
 from multiprocessing import Process
 from datetime import timedelta
-import util, os, folium
+import impl as u, os, folium
 
 # Parallel task to be called from lineproc
 class TJob:
@@ -32,7 +32,7 @@ def runjob():
 
     start = timer()
     N = 4 # number of parallel tasks
-    ps = [Process(target=util.lineproc,args=(file_name, i, N, TJob(),1)) for i in range(N)]
+    ps = [Process(target=u.lineproc,args=(file_name, i, N, TJob(),1)) for i in range(N)]
     for p in ps: p.start()
     for p in ps: p.join()
     end = timer()

@@ -458,14 +458,41 @@ def to_bearing(lat,lon,brng,d):
     lon2 = math.degrees(lon2)
     return lat2,lon2
 
-
 def two_plot(df, col1, col2):
     plt.figure(figsize=(12,5))
     ax1 = df[col1].plot(color='blue', grid=True, label=col1)
     ax2 = df[col2].plot(color='red', grid=True, label=col2,secondary_y=True)
     h1, l1 = ax1.get_legend_handles_labels()
     h2, l2 = ax2.get_legend_handles_labels()
-    plt.legend(h1+h2, l1+l2, loc=2) 
+    plt.legend(h1+h2, l1+l2, loc=2)
+
+def lineproc(file_name,chunk_i,N,hookobj,skip_lines=0):
+    file_size = os.path.getsize(file_name)
+    hookobj.infile = file_name # lineprocessor object
+    hookobj.chunk = chunk_i
+    with open(file_name, 'r') as f:
+        for j in range(skip_lines): f.readline()
+        beg = f.tell()
+        f.close()
+    chunks = []
+    for i in range(N):
+        with open(file_name, 'r') as f:
+            s = int((file_size / N)*(i+1))
+            f.seek(s)
+            f.readline()
+            end_chunk = f.tell()-1
+            chunks.append([beg,end_chunk])
+            f.close()
+        beg = end_chunk+1
+    c = chunks[chunk_i]
+    with open(file_name, 'r') as f:
+        f.seek(c[0])
+        while True:
+            line = f.readline()
+            hookobj.exec(line) # process the line
+            if f.tell() > c[1]: break
+        f.close()
+        hookobj.post()    
 
 def get_quandl(series):
     import quandl, os
