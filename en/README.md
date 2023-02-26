@@ -1,100 +1,66 @@
 
-Paper: "Magnesium hydride (MgH2) is a promising material for solid
-hydrogen storage due to its superior hydrogen storage capacity... Our
-results obtained by spin-polarized density functional theory
-calculations with van der Waals corrections (DFT-D3) unveiled an
-interesting “burst effect” during MgH2 dehydrogenation"
+\#aljazeera \#marclamonthill
 
-[[-]](https://pubs.rsc.org/en/content/articlelanding/2022/TA/D2TA06458H)
-
----
-
-Reuters: "Honeywell carbon capture tech to be used at Exxon’s
-low-carbon hydrogen production facility"
+Daniel Ellsberg: "[If] Julian Assange.. is extradited and prosecuted
+and convicted here [in US] we will have had the first instance of an
+actual journalist having been imprisoned for putting out the
+truth... No journalist has ever been put on trial thanks to our First
+Amendment freedom of the press and freedom of speech which most
+countries don't have as a law.  [That clause] will be essentially
+rescinded if Julian Assange is successfully prosecuted"
 
 ---
 
-Number 1 rule of tech adoption: The tech that can handle all cases,
-will eventually be deployed for all cases.
+The Atlantic: "[China covid death] estimates range from about 1
+million to 1.5 million deaths, suggesting that, in absolute terms,
+China may have suffered more fatalities from COVID in two months than
+the U.S. did in three years"
 
 ---
 
-FT: "The big bet on hydrogen vehicles.. Toyota and Hyundai believe in the
-alternative fuel.. Large vehicles, such as trucks, need an alternative
-to battery electric power. The distances they travel mean electric
-alternatives require heavy batteries.. for hydrogen-powered commercial
-vehicles — buses and trucks — growth has been much stronger than
-expected. Hyundai’s Xcient trucks have expanded market share rapidly
-since last year, on the roads in Germany, Switzerland, New Zealand and
-South Korea. Deliveries arrive in the US and Israel this year. In
-China, hydrogen fuel-cell vehicle sales, led by buses, nearly tripled
-last year"
+Bloomberg: "First time in 52 years, world’s longest skating rink [The
+Rideau Canal Skateway] to close due to global warming"
 
 ---
 
-It's true.. the sounds are truly a mess. The cacaphony is an
-anti-propaganda for Islam the religion. Loud church bells are annoying
-too BTW.
-
-Quora: "I’m Muslim and I’ll tell you what I hate about [call to
-prayer, Azan], (at least in major cities..)
-
-VOLUME.
-
-Mosques are located in just about every neighborhood and they all
-blast the adhan at the loudest possible volume.
-
-What results is an unintelligible, screaming, mess of sound, that
-would be entirely unidentifiable as anything even slightly related to
-a call to religious worship if it weren’t for blips of the rise and
-fall of the familiar cadence that sometimes makes its way through the
-mess because they all play at slightly different times, so the words
-of each fight with those of the other"
+H2 View: "ArcelorMittal to receive €55m in funding for German
+hydrogen-based steel production"
 
 ---
 
-"@Hy_Economy@mastodon.social
+They should've played up the mystery little more.. story ended too
+quickly. They can learn from the Americans. 
 
-Big \#Hydrogen pipeline project north-south link: 
-
-- Gasunie & Thyssengas - connect Wilhelmshaven H₂ hub and Norwegian H₂
-  pipeline with chemical cluster Cologne ⇾ possible extension to
-  southern Germany.
-
-- North: Connect with west-east hyperlink from the Netherlands to
-  Salzgitter, with a possible extension to Berlin.
-
-- South: connect with GetH2 cluster and the Netherlands in Vlieghuis"
+NYT: "Mystery Sphere on Japanese Beach Was Just a Buoy, Experts Say"
 
 ---
 
-CNBC: "The U.S. and China met to discuss the 'spy balloon.' Their
-statements afterward were very different"
+Bloomberg: "Germany, India to Boost Cooperation in Renewablas,
+Defense.. Germany and India agreed to partner on technology to make a
+transition to renewable energy easier... The two sides also agreed to
+step up cooperation on green hydrogen 'to achieve a socially just,
+economically sustainable secure and affordable energy supply,'
+according to a joint statement after the meeting"
 
 ---
 
-H2 View: "Sinopec launches 30,000 tonne per year green hydrogen project in China"
+H2 Central: "[Central Queensland Oz] Palaszczuk Government Locks in $1
+Billion Fitzroy to Gladstone Pipeline, Unlocks Jobs In Renewable
+Hydrogen and Manufacturing"
 
 ---
 
-H2 View: "UK Government backs £5.4m autonomous liquid hydrogen vessel
-and infrastructure project"
+When did Erin F-ing Brokovich get involved in this? EB, as in the 2000
+movie? Julia Roberts played her? 🤦‍♂️ She was on Tucker's show reporting
+on the situation. Bad optics.
 
 ---
 
-Madagascar RU relations sound pretty good.. Added it to - Da - Map.
-
-[[-]](2022/12/ru-africa.html)
-
----
-
-Reuters: "[10/2022] Madagascar minister fired for voting against
-Russia's Ukraine annexation"
-
----
-
-Informed Comment: "Jimmy Carter was Pilloried for Worrying about
-Israeli Apartheid, but he has Been Amply Vindicated by History"
+While Biden was in Ukraine, Trump was in the disaster area in Ohio,
+distributing food, listening to people. During the 1992 campaign the
+slogan "America needs a president who cares as much about the 'Middle
+West as the Middle East'" was a good seller; a variation of that can
+be in effect for 2024.
 
 ---
 
