@@ -29,7 +29,8 @@ hydrogen-based steel production"
 ---
 
 They should've played up the mystery little more.. story ended too
-quickly. They can learn from the Americans. 
+quickly. They can learn from the Americans. You do "is it, or isn't
+it" for days then send in the attack submarine.
 
 NYT: "Mystery Sphere on Japanese Beach Was Just a Buoy, Experts Say"
 
