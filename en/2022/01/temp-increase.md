@@ -1,5 +1,8 @@
 # Temperature Increase
 
+The feared 1.5 C increase is reported relative to a global mean
+temperature between years 1850-1890 which was roughly 13.6°C.
+
 <a name='berkeley'/>
 
 Berkeley Data
