@@ -86,7 +86,7 @@ and infrastructure project"
 
 Madagascar RU relations sound pretty good.. Added it to - Da - Map.
 
-[[-]](2022/12/ru-africa.html)
+[[-]](../../2022/12/ru-africa.html)
 
 ---
 
