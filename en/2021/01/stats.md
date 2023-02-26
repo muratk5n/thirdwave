@@ -462,21 +462,21 @@ Junk Bond Yields
 df = u.get_fred(1980,['BAMLH0A2HYBEY'])
 print (df.tail(6))
 df.plot()
-plt.plot(df.tail(1).index, df.tail(1),'ro')
 plt.axvspan('2001-03-03', '2001-10-27', color='y', alpha=0.5, lw=0)
 plt.axvspan('2007-12-22', '2009-05-09', color='y', alpha=0.5, lw=0)
+df.BAMLH0A2HYBEY.tail(1).plot(style='r.',markersize=10)
 plt.savefig('junkbond.png')
 ```
 
 ```text
             BAMLH0A2HYBEY
 DATE                     
-2022-11-24           8.69
-2022-11-25           8.71
-2022-11-28           8.82
-2022-11-29           8.87
-2022-11-30           8.72
-2022-12-01           8.50
+2023-02-16           8.58
+2023-02-17           8.69
+2023-02-20           8.69
+2023-02-21           8.95
+2023-02-22           8.86
+2023-02-23           8.69
 ```
 
 ![](junkbond.png)
@@ -516,19 +516,19 @@ df = u.get_yahoofin(2000,"^VIX")
 df.plot()
 plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
 print (df.tail(7))
-plt.plot(df.tail(1).index, df.tail(1),'ro')
+df.tail(1).plot(style='r.',markersize=10)
 plt.savefig('vix.png')
 ```
 
 ```text
 Date
-2023-01-30    19.940001
-2023-01-31    19.400000
-2023-02-01    17.870001
-2023-02-02    18.730000
-2023-02-03    18.330000
-2023-02-06    19.430000
-2023-02-07    18.760000
+2023-02-15    18.230000
+2023-02-16    20.170000
+2023-02-17    20.020000
+2023-02-21    22.870001
+2023-02-22    22.290001
+2023-02-23    21.139999
+2023-02-24    21.670000
 Name: Close, dtype: float64
 ```
 
