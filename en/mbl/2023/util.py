@@ -414,7 +414,6 @@ def boxofficemojo(q):
     res = urllib2.urlopen(url).read().decode('utf-8')
     reres = re.findall('a-size-medium a-link-normal a-text-bold" href="(.*?)"',res)
     url2 = "https://www.boxofficemojo.com" + reres[0]
-    print (url2)
     res2 = urllib2.urlopen(url2).read().decode('utf-8')
 
     regex2 = 'a-section a-spacing-none mojo-performance-summary-table.*?Domestic.*?money">(.*?)<'

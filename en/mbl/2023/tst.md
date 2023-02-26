@@ -10,6 +10,26 @@ pd.set_option('display.max_columns', None)
 
 
 
+```python
+#u.rottentomatoes_mov("Ant Man 3")
+u.boxofficemojo("Ant Man 3")
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

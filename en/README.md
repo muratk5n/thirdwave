@@ -14,8 +14,8 @@ low-carbon hydrogen production facility"
 
 ---
 
-Number 1 rule of tech adoption: The tech can handle all cases, will
-eventually be deployed for all cases. 
+Number 1 rule of tech adoption: The tech that can handle all cases,
+will eventually be deployed for all cases.
 
 ---
 
