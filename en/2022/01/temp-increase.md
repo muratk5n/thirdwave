@@ -25,24 +25,23 @@ df1 = df.set_index('dt')
 df1 = df1.rolling(70).mean()
 df1 = df1.dropna()
 df1 = df1[df1.index > '1901-01-01']  
+
 df1.temp.plot()
+print (df1.tail(5)[['temp','tempyoy']])
+df1.temp.tail(1).plot(style='r.',markersize=10)
 df1['tempyoy'] = (df1.temp - df1.temp.shift(12)) / df1.temp.shift(12) * 100.0
-print (df1.tempyoy.tail(8))
 df1['temp'].to_csv('global_temperature.csv')
 plt.savefig('berkeley-temp.png')
 ```
 
 ```text
-dt
-2021-02-01    0.126846
-2021-03-01    0.096448
-2021-04-01    0.057136
-2021-05-01    0.025762
-2021-06-01    0.018964
-2021-07-01    0.011197
-2021-08-01   -0.019109
-2021-09-01   -0.054821
-Name: tempyoy, dtype: float64
+                 temp   tempyoy
+dt                             
+2022-08-01  14.927229 -0.137335
+2022-09-01  14.955557 -0.126215
+2022-10-01  14.981657 -0.100308
+2022-11-01  14.991786 -0.106611
+2022-12-01  14.988243 -0.097030
 ```
 
 ![](berkeley-temp.png)
