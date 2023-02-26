@@ -52,8 +52,8 @@ Hydrogen and Manufacturing"
 ---
 
 When did Erin F-ing Brokovich get involved in this? EB, as in the 2000
-movie? Julia Roberts played her? 🤦‍♂️ She was on Tucker's show reporting
-on the situation. Bad optics.
+movie? Julia Roberts played her? She was on Tucker's show reporting on
+the situation. Bad optics.
 
 ---
 
