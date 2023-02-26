@@ -35,7 +35,7 @@ NYT: "Mystery Sphere on Japanese Beach Was Just a Buoy, Experts Say"
 
 ---
 
-Bloomberg: "Germany, India to Boost Cooperation in Renewablas,
+Bloomberg: "Germany, India to Boost Cooperation in Renewables,
 Defense.. Germany and India agreed to partner on technology to make a
 transition to renewable energy easier... The two sides also agreed to
 step up cooperation on green hydrogen 'to achieve a socially just,
