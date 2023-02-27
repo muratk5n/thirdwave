@@ -45,8 +45,8 @@ according to a joint statement after the meeting"
 
 ---
 
-H2 Central: "[Central Queensland Oz] Palaszczuk Government Locks in $1
-Billion Fitzroy to Gladstone Pipeline, Unlocks Jobs In Renewable
+H2 Central: "[Central Queensland, Oz] Palaszczuk Government Locks in
+$1 Billion Fitzroy to Gladstone Pipeline, Unlocks Jobs In Renewable
 Hydrogen and Manufacturing"
 
 ---
