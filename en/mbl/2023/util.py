@@ -508,6 +508,14 @@ def get_fred(year, series):
     df = data.DataReader(series, 'fred', start, end)
     return df
 
+def global_leader_approval():
+    url = "https://morningconsult.com/global-leader-approval"
+    c = urllib2.urlopen(url).read().decode('utf-8')
+    regex = 'span class="bar__name">(.*?)</span>.*?NET(.*?)</span>'
+    res = re.findall(regex,c,re.DOTALL)
+    res = [[x[0].replace("<span>",""),x[1].replace("&plus;","+")] for x in res]
+    return res
+
 def biden_approval():
     url = "https://projects.fivethirtyeight.com/biden-approval-data/approval_topline.csv"
     df = pd.read_csv(url,parse_dates=True,index_col='modeldate')
