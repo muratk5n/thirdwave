@@ -34,9 +34,6 @@ suppose to nod along"
 
 ---
 
-This means UK moved toward EU position.. and that's fine. Brexit
-became Bregret - UK needs the trade and cash. 
-
 F24: "UK PM Sunak and EU chief strike deal on post-Brexit trade for
 Northern Ireland.. Von der Leyen said the European Court of Justice
 would have the final say on European Union law and single market
