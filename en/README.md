@@ -34,15 +34,13 @@ suppose to nod along"
 
 ---
 
-*The Lincoln Lawyer*, fantastic
+This means UK moved toward EU position.. and that's fine. Brexit
+became Bregret - UK needs the trade and cash. 
 
----
-
-I chose the movie on the strength of its title alone
-
----
-
-*Die Hart* - I watched it and it was ok
+F24: "UK PM Sunak and EU chief strike deal on post-Brexit trade for
+Northern Ireland.. Von der Leyen said the European Court of Justice
+would have the final say on European Union law and single market
+issues"
 
 ---
 
@@ -91,7 +89,7 @@ says ahead of four-nation trip"
 ---
 
 Arab News: "Macron bound for Africa to counter waning French
-influence...Macron will visit three African nations around the Congo
+influence... Macron will visit three African nations around the Congo
 basin as well as Angola, with the focus of the trip being ostensibly
 away from France’s troubled former colonies in the Sahel, where
 anti-French sentiment is on the rise"
