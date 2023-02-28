@@ -44,18 +44,17 @@ issues"
 
 ---
 
-Those bloody pesticides kill more than the intended target IMO.  Fully
-isolated environments could do away with them. Agro needs to meet The
-Third Wave.
-
----
-
 "Each year, 119 billion pounds of food is wasted in the United
 States. That equates to 130 billion meals and more than $408 billion
 in food thrown away each year. Shockingly, nearly 40% of all food in
 America is wasted"
 
 [[-]](https://www.feedingamerica.org/our-work/reduce-food-waste)
+
+---
+
+Those bloody pesticides kill more than the intended target IMO.  Fully
+isolated environments could do away with them.
 
 ---
 
@@ -68,7 +67,7 @@ Besides the GHG issue, farming takes up too much space and is likely
 bad for the environment. A new system could discourage it all. Limit
 ownership of land enough for shelter, non-farm production, the rest
 becomes public land, only automated, vertical farming is encouraged,
-meat production through lab-based methods.
+meat production through lab-based methods. 
 
 [[-]](2023/02/farming-dangers.html)
 
