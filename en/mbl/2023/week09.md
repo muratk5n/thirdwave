@@ -1,6 +1,5 @@
 # Week 9
 
-
 \#aljazeera \#marclamonthill
 
 Daniel Ellsberg: "[If] Julian Assange.. is extradited and prosecuted

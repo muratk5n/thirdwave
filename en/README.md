@@ -67,9 +67,9 @@ not being priced properly - less food production can fix that.
 
 Besides the GHG issue, farming takes up too much space and is likely
 bad for the environment. A new system could discourage it all. Limit
-ownership of land enough for shelter, the rest becomes public land,
-only automated, vertical farming is encouraged, meat production
-through lab-based methods.
+ownership of land enough for shelter, non-farm production, the rest
+becomes public land, only automated, vertical farming is encouraged,
+meat production through lab-based methods.
 
 [[-]](2023/02/farming-dangers.html)
 
@@ -101,7 +101,7 @@ anti-French sentiment is on the rise"
 ```python
 df = u.eq_at(lat=38,lon=39,radius=200,ago=30)
 df = df[df.mag > 5.0]
-print (df[['mag','ago','lat','lon']].tail(3))
+df[['mag','ago','lat','lon']].tail(3)
 ```
 
 ```text
