@@ -12,11 +12,6 @@ Indian Railways set to float tender for 35 hydrogen trains"
 
 ---
 
-Dyhdrating never ceases to amaze - dry a whole bunch of mongold,
-shrinks down to standard spice shaker size. 
-
----
-
 Marlena Shaw - California Soul \#music
 
 [[-]](https://youtu.be/kC2QK6KHnEA)
