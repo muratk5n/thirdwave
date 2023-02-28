@@ -36,17 +36,17 @@ issues"
 
 ---
 
+Those bloody pesticides kill more than the intended target IMO.  Fully
+isolated environments could do away with them.
+
+---
+
 "Each year, 119 billion pounds of food is wasted in the United
 States. That equates to 130 billion meals and more than $408 billion
 in food thrown away each year. Shockingly, nearly 40% of all food in
 America is wasted"
 
 [[-]](https://www.feedingamerica.org/our-work/reduce-food-waste)
-
----
-
-Those bloody pesticides kill more than the intended target IMO.  Fully
-isolated environments could do away with them.
 
 ---
 
