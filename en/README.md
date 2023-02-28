@@ -23,7 +23,7 @@ tech is *that awesome*. This is a bullshit industry built on lies.
 
 "@emilymbender@dair-community.social
 
-[Altman blowing smoke on AI] Your system isn't AGI, it isn't a step
+[To Altman blowing smoke on AI] Your system isn't AGI, it isn't a step
 towards AGI, and yet you're dropping that in as if the reader is just
 suppose to nod along"
 
