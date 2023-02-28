@@ -24,7 +24,7 @@ Marlena Shaw - California Soul \#music
 ---
 
 Even scare scenarios that are trotted out are there to establish the
-tech is *that awesome*. These people are grossly uninformed. 
+tech is *that awesome*. This is a bullshit industry built on lies.
 
 "@emilymbender@dair-community.social
 
