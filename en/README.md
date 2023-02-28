@@ -60,8 +60,7 @@ America is wasted"
 ---
 
 "Can we produce enough food?" Much of the food production is currently
-wasted; it is being produced in excess. The waste is there bcz it is
-not being priced properly - less food production can fix that.
+wasted.
 
 ---
 
