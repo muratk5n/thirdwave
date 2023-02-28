@@ -1,6 +1,6 @@
 
 CNBC: "BMW launches demonstration fleet of hydrogen cars that use fuel
-cells from Toyota
+cells from Toyota"
 
 <img width="340" src='https://image.cnbcfm.com/api/v1/image/107200088-1677492223451-gettyimages-1235084893-GERMANY_IAA.jpeg"'/>
 
