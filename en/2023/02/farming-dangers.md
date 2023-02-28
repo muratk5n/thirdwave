@@ -1,6 +1,6 @@
 # The Dangers of Farming
 
-[[-]](https://en.wikipedia.org/wiki/Environmental_impact_of_agriculture)
+[Wikipedia](https://en.wikipedia.org/wiki/Environmental_impact_of_agriculture)
 
 The environmental effects of pesticides describe the broad series of
 consequences of using pesticides. The unintended consequences of
