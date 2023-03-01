@@ -32,7 +32,7 @@ less than Americans
 
 <a name='interventionism'/>
 
-Invertionism
+Interventionism
 
 In the middle of the 1992 New Hampshire primary campaign, when
 candidates were working twenty-hour days and not a minute was
