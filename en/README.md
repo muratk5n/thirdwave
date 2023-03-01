@@ -80,8 +80,8 @@ spent?
 
 ---
 
-Dyhdrating never ceases to amaze - dry a whole bunch of mongold,
-shrinks down to standard spice shaker size. 
+Dyhdrating never ceases to amaze - dry a whole bunch of mongold, crush
+dried pieces, shrinks down to standard spice shaker size.
 
 ---
 
