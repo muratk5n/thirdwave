@@ -45,7 +45,7 @@ Why did it make sense to planners to confine the LA River in cement &
 destroy acres of #wetlands? One reason is to make land support freight
 movement.
 
-[[-]](https://masto.ai/@inquiline@union.place/109927186961684086)
+[[-]](https://union.place/@inquiline/109927186815223797)
 
 ---
 
