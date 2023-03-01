@@ -130,10 +130,6 @@ companies more profitable, keeps employees happy"
 
 ---
 
-Arab News: "NATO chief sees ‘some signs’ China could back Russia’s war"
-
----
-
 Russia-friendly Burkina Faso gov just recently ended the deployment of
 French soldiers on its soil. Gov also resurrected the symbolism, image
 of Thomas Sankara, a Marxist, and former President of BF 1983-87. Per
