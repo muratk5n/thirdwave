@@ -27,6 +27,14 @@ Marc Benioff"
 
 ---
 
+"@atomicpoet@mastodon.social
+
+📰 CONFIRMED 📰
+
+@mammoth iOS client for Mastodon has received VC funding."
+
+---
+
 GasWorld: "bp sets aside up to €2bn for new green hydrogen plant in Spain"
 
 ---
@@ -124,14 +132,6 @@ Nikkei Asia: "Panasonic to sell pure hydrogen fuel cell generators in
 China..  Panasonic will begin selling zero-emission pure hydrogen fuel
 cell generators in China from April, hoping to develop global demand
 for the 24-hour alternative to solar panels for factories and offices"
-
----
-
-"@atomicpoet@mastodon.social
-
-📰 CONFIRMED 📰
-
-@mammoth iOS client for Mastodon has received VC funding."
 
 ---
 
