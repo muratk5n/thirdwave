@@ -12,19 +12,18 @@ H2 Fuel News: "The first BMW iX5 hydrogen vehicles are rolling out onto roads"
 
 ---
 
-H2 Fuel News: "Hydrogen fuel shipping project secures
-multi-million-pound UK government grant"
+H2 Fuel News: "Hydrogen fuel shipping project secures multi-million-pound
+UK government grant"
 
 ---
 
 "@mastodonmigration@mastodon.online
 
-TechCrunch: Mozilla leads Mastodon app Mammoth’s pre-seed funding
-
-[Mammoth] confirmed that its leading pre-seed investor is Mozilla, a
-proponent of the open web, which invested in the company’s first
-general round alongside others, including Long Journey Ventures and
-Salesforce’s Marc Benioff"
+TechCrunch: Mozilla leads Mastodon app Mammoth’s pre-seed
+funding.. its leading pre-seed investor is Mozilla, a proponent of the
+open web, which invested in the company’s first general round
+alongside others, including Long Journey Ventures and Salesforce’s
+Marc Benioff"
 
 ---
 
