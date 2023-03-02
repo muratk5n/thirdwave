@@ -63,7 +63,7 @@ ownership of land enough for shelter, non-farm production, the rest
 becomes public land, only automated, vertical farming is encouraged,
 meat production through lab-based methods. 
 
-[[-]](2023/02/farming-dangers.html)
+[[-]](../../2023/02/farming-dangers.html)
 
 ---
 

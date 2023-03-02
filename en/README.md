@@ -39,11 +39,11 @@ GasWorld: "bp sets aside up to €2bn for new green hydrogen plant in Spain"
 
 ---
 
-@inquiline@union.place
+"@inquiline@union.place
 
 Why did it make sense to planners to confine the LA River in cement &
 destroy acres of #wetlands? One reason is to make land support freight
-movement.
+movement"
 
 [[-]](https://union.place/@inquiline/109927186815223797)
 

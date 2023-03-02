@@ -1,4 +1,4 @@
 # Third Wave
 
-![](../../mbl/2015/big-wave-surfing.jpg)
+![](../../../mbl/0119/2015/big-wave-surfing.jpg)
 
