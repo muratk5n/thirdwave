@@ -141,8 +141,8 @@ The Future of Flipboard Is Federated
 
 ---
 
-Engadget: "Flipboard is leaning into Mastodon — and away from Twitter
-The news reading app is going all in on the Fediverse"
+Engadget: "Flipboard is leaning into Mastodon — and away from
+Twitter.. The news reading app is going all in on the Fediverse"
 
 ---
 
