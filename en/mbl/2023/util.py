@@ -298,6 +298,8 @@ def biz_income(ticker):
       slist.append(pd.DataFrame.from_dict(data_qt['incomeStatementHistoryQuarterly'][ticker][i]))
   df = pd.concat(slist,axis=1).T
   df['grossProfitMargin'] = df.grossProfit / df.totalRevenue * 100.0
+  df['profitMargin'] = df.netIncome / df.totalRevenue * 100.0
+  df['operatingProfitMargin'] = df.operatingIncome / df.totalRevenue * 100.0
   df = df.sort_index(ascending=True)
   return df
 
