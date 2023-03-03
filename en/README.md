@@ -11,9 +11,8 @@ Default Search Engine On [Apple's] Safari"
 
 ---
 
-😆 😆 😆 So *The West Wing*..
-
-Constant drama. Were there aides, passing papers to eachother in the hallway?
+😆 😆 😆 So *The West Wing*.. Constant drama. Were there aides,
+passing papers to eachother in the hallway?
 
 WaPo: "[The honorary chairman of the U.S. bid for the 2022 tournament]
 Bill Clinton reportedly smashed a mirror after hearing Qatar won the
