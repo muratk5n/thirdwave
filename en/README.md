@@ -52,7 +52,7 @@ See docu - Qatar, Hillary Clinton, Sarkozy all get an honorable mention
 ---
 
 Hah. Al Jazeera docu defends their involvement in the Arab Spring as
-defending "democracy". That's not exactly true, especially thinking
+siding with "democracy". That's not exactly true, especially thinking
 AJ's money source, Qatar. Why would Qatar, an emirate care about
 democracy?  They cared more about spreading their own influence in the
 region, and to supplant Saudi Arabia as a power center.
