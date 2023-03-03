@@ -516,7 +516,9 @@ def global_leader_approval():
     regex = 'span class="bar__name">(.*?)</span>.*?NET(.*?)</span>'
     res = re.findall(regex,c,re.DOTALL)
     res = [[x[0].replace("<span>",""),x[1].replace("&plus;","+")] for x in res]
-    return res
+    df = pd.DataFrame(res)
+    df.columns = ['name','net']
+    return df
 
 def biden_approval():
     url = "https://projects.fivethirtyeight.com/biden-approval-data/approval_topline.csv"

@@ -1,159 +1,129 @@
 
+Some reports suggest Apple is working its own SE, will make that the
+default engine. Google rev can take a major hit possibly >20%?
+
+Forbes: "[2021] Google Estimated To Be Paying $15 Billion To Remain
+Default Search Engine On [Apple's] Safari"
 
 ---
 
-H2 Fuel News: "Largest green hydrogen project on the planet breaks
-ground in China.. The green hydrogen and oxygen produced by this
-project will be transported via pipeline"
+[Link](https://drive.google.com/uc?export=view&id=14Fl6uV19HHddajmfakTs2RfRXutp_2l4)
 
 ---
 
-H2 Fuel News: "The first BMW iX5 hydrogen vehicles are rolling out onto roads"
+😆 😆 😆 So *The West Wing*..
+
+Constant drama. Were there aides, passing papers to eachother in the hallway?
+
+WaPo: "[2014, The honorary chairman of the U.S. bid for the 2022
+tournament] Bill Clinton reportedly smashed a mirror after hearing
+Qatar won the 2022 World Cup bid [in 2010]'
 
 ---
 
-H2 Fuel News: "Hydrogen fuel shipping project secures multi-million-pound
-UK government grant"
+But Al Jazeera is a good channel, a good source for info most of the
+time. Just saying these are some of the things that go through my mind
+when docus like that show up.
 
 ---
 
-"@mastodonmigration@mastodon.online
-
-TechCrunch: Mozilla leads Mastodon app Mammoth’s pre-seed
-funding.. its leading pre-seed investor is Mozilla, a proponent of the
-open web, which invested in the company’s first general round
-alongside others, including Long Journey Ventures and Salesforce’s
-Marc Benioff"
+I guess FIFA/Qatar tried to make the best of it by trying to organize
+a good Cup, and making sure (!) Argentina got the Prize (that penalty
+in the last game.. shady).
 
 ---
 
-"@atomicpoet@mastodon.social
-
-📰 CONFIRMED 📰
-
-@mammoth iOS client for Mastodon has received VC funding."
-
----
-
-GasWorld: "bp sets aside up to €2bn for new green hydrogen plant in Spain"
-
----
-
-"@inquiline@union.place
-
-Why did it make sense to planners to confine the LA River in cement &
-destroy acres of #wetlands? One reason is to make land support freight
-movement"
-
-[[-]](https://union.place/@inquiline/109927186815223797)
+Aahh the 2010s.. Qatar was on the move, on the rise, helping "topple
+dictators" Kaddafi, Mubarak, stirring shit up along with US all over
+the globe.. Woo hooo! We have arrived baby! Winning the rights to host
+the 2022 FIFA World Cup was part of that rise. We know the rest of the
+story - the Arab Spring turned sour (along with Qatar's claim for the
+top spot), the allegation of bribery of FIFA officials became so
+rampant it destroyed the careers of all involved, including then chief
+S. Blatter. 
 
 ---
 
-"@EPPGroup@respublicae.eu
+See docu - Qatar, Hillary Clinton, Sarkozy all get an honorable mention
 
-Natural gas generates 20% of EU electricity and 40% of EU heating. 
+"How Western Propaganda Destroyed Libya (and Got Away with it)"
 
-A new package of gas-related EU laws aims to speed the shift to
-\#hydrogen and other renewables"
-
----
-
-Reuters: "A ‘doomsday’ Arctic seed vault on Norway’s Spitsbergen island
-is set to receive its most diverse batch of seed donations yet as
-efforts to secure the world’s food supplies ramp up amid rising
-climate concerns"
+[[-]](https://youtu.be/K_qpiujkqhU?t=115)
 
 ---
 
-All things considered, has the US been a "force for good" in the
-world?
-
-The report card is spotty. Just the other day I read about "Sam the
-Banana Man" Zemurray, a US businessman, when his banana business was
-threatened in Honduras, he personally organized a coup, created a
-small civilian army put them on a ship sent them over to Honduras to
-fight the government, contributed to the overthrow of a democratically
-elected president (USG mostly stood by and in the end helped
-him). That's not all, the newly installed president **paid him** for
-the trouble using Honduras' taxpayer money. How is that for money well
-spent?
+Hah. Al Jazeera docu defends their involvement in the Arab Spring as
+defending "democracy". That's not exactly true, especially thinking
+AJ's money source, Qatar. Why would Qatar, an emirate care about
+democracy?  They cared more about spreading their own influence in the
+region, and to supplant Saudi Arabia as a power center.
 
 ---
 
-Dyhdrating never ceases to amaze - dry a whole bunch of mongold, crush
-dried pieces, shrinks down to standard spice shaker size.
+\#JohnOliver \#AI
+
+[[-]](https://youtu.be/Sqa8Zo2XWc4?t=910)
 
 ---
 
-*The Lincoln Lawyer*, fantastic
+Vision is not a fully solved problem, let alone driving using
+it. Neural networks won't help, the tech is half-baked, too immitative
+lacks fundamentals.
 
 ---
 
-I chose the movie on the strength of its title alone
+Futurism: "[2022] Experts Alarmed by Videos of Tesla Full Self-Driving
+Totally Screwing Up.. A panel of experts assembled by The Washington
+Post have reviewed and verified footage of Teslas equipped with the
+company's beta Full Self-Diving (FSD) malfunctioning in terrifying
+ways"
 
 ---
 
-*Die Hart* - I watched it and it was ok
+"[2022] Tesla Removes Ultrasonic Sensors, Favoring Tesla Vision And
+Neural Networks"
 
 ---
 
-"@technomancy@icosahedron.website
-
-it's over folks"
-
-[[-]](mbl/2023/masto1.jpg)
+Janes: "The US Department of State (DoS) has approved a possible
+[sale] of Advanced Anti-Radiation Guided Missiles-Extended Range
+(AARGM-ERs) to Australia"
 
 ---
 
-Don't care much about that monkey AI business using bloated "deep"
-neural networks; But HPC is useful.
+Latest from Morning Consult. Meloni, AMLO doing well. Modi still \#1;
+and this is in a country over a billion.
+
+```python
+u.global_leader_approval().head(8)
+```
+
+```text
+Out[1]: 
+                                   name   net
+0                 Narendra Modi (India)   +60
+1  Andrés Manuel López Obrador (Mexico)   +26
+2          Anthony Albanese (Australia)   +26
+3            Alain Berset (Switzerland)   +21
+4    Luiz Inácio Lula da Silva (Brazil)   +17
+5                Giorgia Meloni (Italy)   +13
+6           Alexander De Croo (Belgium)    -9
+7             Joe Biden (United States)    -9
+```
 
 ---
 
-Good to hear HPC and Linux news from MS. 
+TFI Global: "The American strategy in the Ukraine conflict is aimed
+solely at severing ties between Europe and Russia, and the West has
+made desperate attempts to do so. However, in the end, their efforts
+may be in vain...
 
-"Microsoft's CBL-Mariner Linux Shows Increasing HPC Interest.. Microsoft's
-in-house Linux distribution CBL-Mariner has been public now for about
-two years..  Coming just a week after the previous CBL-Mariner 2.0
-update is one where they are adding four new packages [.. including]
-OpenMPI"
-
----
-
-The Guardian: "Weather tracker: record-breaking heat in Australia"
-
----
-
-Deming: “Without data, you're just another person with an opinion.”
-
-----
-
-Nikkei Asia: "Panasonic to sell pure hydrogen fuel cell generators in
-China..  Panasonic will begin selling zero-emission pure hydrogen fuel
-cell generators in China from April, hoping to develop global demand
-for the 24-hour alternative to solar panels for factories and offices"
-
----
-
-The Future of Flipboard Is Federated
-
-[[-]](https://about.flipboard.com/inside-flipboard/flipboard-mastodon-federated/)
-
----
-
-Engadget: "Flipboard is leaning into Mastodon — and away from
-Twitter.. The news reading app is going all in on the Fediverse"
-
----
-
-Public support for peace.. ppl can be sold war, easily; During Clinton
-years rabid inverventionism was official policy, and the public was
-just [fine with it](2021/03/ship-of-fools.html#interventionism).
-
----
-
-Fox News: "WaPo fact-checker says Trump-era policies 'can't be blamed'
-for Ohio train derailment"
+Despite the harsh sanctions imposed on Moscow since its full-scale
+invasion of Ukraine nearly a year ago, a paper published by.. [DE]
+economy ministry claimed that trade data showed a 'considerable
+amount' of sanctioned products were being exported from the EU and
+Germany to certain third countries and then exported further from
+there to Russia""
 
 ---
 
