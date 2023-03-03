@@ -15,9 +15,9 @@ Default Search Engine On [Apple's] Safari"
 
 Constant drama. Were there aides, passing papers to eachother in the hallway?
 
-WaPo: "[2014, The honorary chairman of the U.S. bid for the 2022
-tournament] Bill Clinton reportedly smashed a mirror after hearing
-Qatar won the 2022 World Cup bid [in 2010]'
+WaPo: "[The honorary chairman of the U.S. bid for the 2022 tournament]
+Bill Clinton reportedly smashed a mirror after hearing Qatar won the
+2022 World Cup bid [in 2010]'
 
 ---
 
