@@ -90,8 +90,9 @@ Janes: "The US Department of State (DoS) has approved a possible
 
 ---
 
-Latest from Morning Consult. Lula, Meloni, AMLO doing well. Modi still \#1;
-and this is in a country over a billion.
+Latest from Morning Consult. Lula, Meloni, Albanese, AMLO doing
+well. Modi still \#1; and this is in a country with over a billion
+people.
 
 ```python
 u.global_leader_approval().head(8)
