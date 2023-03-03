@@ -79,8 +79,8 @@ ways"
 
 ---
 
-"[2022] Tesla Removes Ultrasonic Sensors, Favoring Tesla Vision And
-Neural Networks"
+"[2022] Tesla Removes Ultrasonic Sensors, Favoring.. Vision And Neural
+Networks"
 
 ---
 
