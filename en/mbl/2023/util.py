@@ -344,7 +344,7 @@ def drug_overdose_deaths():
   
 def mov_profit(budget, gross):
   marketing = budget / 2
-  return gross - (budget + marketing + gross*0.4)
+  return np.round(gross - (budget + marketing + gross*0.4),2)
 
 def covid_hospitalization():
    df = pd.read_csv('https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/hospitalizations/covid-hospitalizations.csv',parse_dates=True)
@@ -354,8 +354,8 @@ def covid_hospitalization():
    df = df.set_index('date')
    return df
 
-def sm_plot_ukr(file,oldfile,geo):
-    sm_plot_ukr_base(file,geo)    
+def sm_plot_ukr(file,oldfile,geo,clat=48,clon=37,zoom=0.6):
+    sm_plot_ukr_base(file,geo,clat,clon,zoom)    
     df = np.array(pd.read_csv(oldfile,header=None))
     df[:, [1, 0]] = df[:, [0, 1]]
     sm.plot_line(df,color='gray',linestyle='solid')
@@ -368,10 +368,9 @@ def sm_plot_ukr(file,oldfile,geo):
         bbox = dict(boxstyle = 'round,pad=0.5', fc = 'yellow', alpha = 0.5),
         arrowprops = dict(arrowstyle = '->', connectionstyle = 'arc3,rad=0'))          
         
-def sm_plot_ukr_base(file,geo):
+def sm_plot_ukr_base(file,geo,clat,clon,zoom):
     df = np.array(pd.read_csv(file,header=None))
     df[:, [1, 0]] = df[:, [0, 1]]
-    clat,clon=48, 37; zoom = 0.6
     sm.plot_countries(clat,clon,zoom,outcolor='lavenderblush')
     sm.plot_line(df,color='red')
     
