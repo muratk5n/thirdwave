@@ -1,9 +1,9 @@
 
 GPM would be useful for long-term investors, Buffett likes it, no?  I
-can see why, the measure shows the fundamentals, what it takes for a
-company to generate revenue. Above certain threshold, with a clear
-up-trend, a good future can be assued; the indirect stuff can be
-dealt with as needed.
+can see why, the measure shows the fundamentals, what it takes to
+generate revenue. Above certain threshold, a clear up-trend can
+indicate a rosy future; the indirect stuff can be dealt with as
+needed.
 
 ---
 
