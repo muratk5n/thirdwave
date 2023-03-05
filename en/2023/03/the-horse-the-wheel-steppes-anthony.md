@@ -16,19 +16,20 @@ surrounding Proto- Indo-European, namely, who spoke it, where was it
 spoken, and when. Generations of archaeologists and linguists have
 argued bitterly about the “homeland” question...
 
-[A British judge, Jones'] arrival in Calcutta, a mythically alien place
-for an Englishman of his age, was the opening move in the imposition
-of royal government over a vital yet irresponsible merchant’s colony.
-Jones was to regulate both the excesses of the English merchants and
-the rights and duties of the Indians. But although the English
-merchants at least recognized his legal authority, the Indians obeyed
-an already functioning and ancient system of Hindu law, which was
-regularly cited in court by Hindu legal scholars, or pandits (the
-source of our term pundit). English judges could not determine if the
-laws the pandits cited really existed. Sanskrit was the ancient
-language of the Hindu legal texts, like Latin was for English law. If
-the two legal systems were to be integrated, one of the new Supreme
-Court justices had to learn Sanskrit. That was Jones...
+[A British judge, Jones' 1700s] arrival in Calcutta, a mythically
+alien place for an Englishman of his age, was the opening move in the
+imposition of royal government over a vital yet irresponsible
+merchant’s colony.  Jones was to regulate both the excesses of the
+English merchants and the rights and duties of the Indians. But
+although the English merchants at least recognized his legal
+authority, the Indians obeyed an already functioning and ancient
+system of Hindu law, which was regularly cited in court by Hindu legal
+scholars, or pandits (the source of our term pundit). English judges
+could not determine if the laws the pandits cited really
+existed. Sanskrit was the ancient language of the Hindu legal texts,
+like Latin was for English law. If the two legal systems were to be
+integrated, one of the new Supreme Court justices had to learn
+Sanskrit. That was Jones...
 
 As Jones pored over Sanskrit texts his mind made comparisons not just
 with Persian and English but also with Latin and Greek, the mainstays
