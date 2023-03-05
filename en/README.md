@@ -72,7 +72,7 @@ equate to 2.1 million tonnes of green hydrogen a year"
 
 ---
 
-Russian, a Slavic language, is of course in the Indo-European family.
+Russian is in the Indo-European family
 
 ---
 
