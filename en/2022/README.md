@@ -1,5 +1,9 @@
 # 2022
 
+[Clean Fuels are the Solution](01/clean-fuel-is-the-solution.html)
+
+[Climate Change](01/climate.html)
+
 [Energy Stats](01/energstats.html)
 
 [Faux Contrarians, Faux Libertarians](01/faux-contrarians-faux-liberterians.html)
@@ -9,6 +13,12 @@
 [Oil, Gas and Minerals](01/oilgasmin.html)
 
 [Particles, Science and AI](01/particles-and-ai.html)
+
+[The Sunshine Map](01/sunshine-map.html)
+
+[Temperature Increase](01/temp-increase.html)
+
+[Wires vs Pipes](01/wirespipes.html)
 
 [Ammonia](02/ammonia.html)
 

@@ -1,5 +1,11 @@
 # 2021
 
+[Economy](01/economy.html)
+
+[Inflation](01/inflation.html)
+
+[Princes of Mayhem](01/princes-of-mayhem.html)
+
 [Reports](01/reports.html)
 
 [Economy, Calculations, Data](01/stats.html)
