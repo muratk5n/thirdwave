@@ -24,18 +24,18 @@ u.boxofficemojo("Ant Man 3")
 ```text
 Out[1]: 
 {'Domestic Opening': '$106,109,650',
- 'Domestic': '$177,446,000',
- 'International': '$196,154,352',
- 'Worldwide Total': '$373,600,352',
+ 'Domestic': '$186,799,000',
+ 'International': '$232,754,352',
+ 'Worldwide Total': '$419,553,352',
  'Release Date': 'February 15, 2023'}
 ```
 
 ```python
-u.mov_profit(200, 373)
+u.mov_profit(200, 419)
 ```
 
 ```text
-Out[1]: -76.2
+Out[1]: -48.6
 ```
 
 

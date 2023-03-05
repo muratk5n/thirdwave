@@ -1,129 +1,92 @@
 
-Some reports suggest Apple is working its own SE, will make that the
-default engine. Google rev can take a major hit possibly >20%?
-
-Forbes: "[2021] Google Estimated To Be Paying $15 Billion To Remain
-Default Search Engine On [Apple's] Safari"
-
----
-
-[Link](https://drive.google.com/uc?export=view&id=14Fl6uV19HHddajmfakTs2RfRXutp_2l4)
+GPM would be useful for long-term investors, Buffett likes it, no?  I
+can see why, the measure shows the fundamentals, what it takes for a
+company to generate revenue. Above certain threshold, with a clear
+up-trend, a good future can be assued; the indirect stuff can be
+dealt with as needed.
 
 ---
 
-😆 😆 😆 So *The West Wing*.. Constant drama. Were there aides,
-passing papers to each other in the hallway?
-
-WaPo: "[The honorary chairman of the U.S. bid for the 2022 tournament]
-Bill Clinton reportedly smashed a mirror after hearing Qatar won the
-2022 World Cup bid [in 2010]'
-
----
-
-But Al Jazeera is a good channel, a good source for info most of the
-time. Just saying these are some of the things that go through my mind
-when docus like that show up.
+The high GPM is typical of a software company with a commanding lead
+in the marketspace as GPM shows direct costs for creating a product,
+software companies don't typically spend too much to produce
+something, especially once the core product / platform is mature,
+likely the case for SF by now. But if there are a lot of extra,
+indirect spending, fluff investments it can take down the other
+measures, OPM, PM.
 
 ---
 
-I guess FIFA/Qatar tried to make the best of it by trying to organize
-a good Cup, and making sure (!) Argentina got the Prize (that penalty
-in the last game.. shady).
-
----
-
-Aahh the 2010s.. Qatar was on the move, on the rise, helping "topple
-dictators" Kaddafi, Mubarak, stirring shit up along with US all over
-the globe.. Woo hooo! We have arrived baby! Winning the rights to host
-the 2022 FIFA World Cup was part of that rise. We know the rest of the
-story - the Arab Spring turned sour (along with Qatar's claim for the
-top spot), the allegation of bribery of FIFA officials became so
-rampant it destroyed the careers of all involved, including then chief
-S. Blatter. 
-
----
-
-See docu - Qatar, Hillary Clinton, Sarkozy all get an honorable mention
-
-"How Western Propaganda Destroyed Libya (and Got Away with it)"
-
-[[-]](https://youtu.be/K_qpiujkqhU?t=115)
-
----
-
-Hah. Al Jazeera docu defends their involvement in the Arab Spring as
-siding with "democracy". That's not exactly true, especially thinking
-AJ's money source, Qatar. Why would Qatar, an emirate care about
-democracy?  They cared more about spreading their own influence in the
-region, and to supplant Saudi Arabia as a power center.
-
----
-
-\#JohnOliver \#AI
-
-[[-]](https://youtu.be/Sqa8Zo2XWc4?t=910)
-
----
-
-Vision is not a fully solved problem, let alone driving using
-it. Neural networks won't help, the tech is half-baked, too immitative
-lacks fundamentals.
-
----
-
-Futurism: "[2022] Experts Alarmed by Videos of Tesla Full Self-Driving
-Totally Screwing Up.. A panel of experts assembled by The Washington
-Post have reviewed and verified footage of Teslas equipped with the
-company's beta Full Self-Diving (FSD) malfunctioning in terrifying
-ways"
-
----
-
-"[2022] Tesla Removes Ultrasonic Sensors, Favoring.. Vision And Neural
-Networks"
-
----
-
-Janes: "The US Department of State (DoS) has approved a possible
-[sale] of Advanced Anti-Radiation Guided Missiles-Extended Range
-(AARGM-ERs) to Australia"
-
----
-
-Latest from Morning Consult. Lula, Meloni, Albanese, AMLO doing
-well. Modi still \#1; and this is in a country with over a billion
-people.
+All margins except gross are shit. Some up-move in EPS though.. 
 
 ```python
-u.global_leader_approval().head(8)
+u.biz_income("CRM")[['grossProfitMargin','profitMargin','operatingProfitMargin','basicEPS']]
 ```
 
 ```text
 Out[1]: 
-                                   name   net
-0                 Narendra Modi (India)   +60
-1  Andrés Manuel López Obrador (Mexico)   +26
-2          Anthony Albanese (Australia)   +26
-3            Alain Berset (Switzerland)   +21
-4    Luiz Inácio Lula da Silva (Brazil)   +17
-5                Giorgia Meloni (Italy)   +13
-6           Alexander De Croo (Belgium)    -9
-7             Joe Biden (United States)    -9
+            grossProfitMargin  profitMargin  operatingProfitMargin  basicEPS
+2022-01-31          72.508873     -0.382200              -2.402402     -0.03
+2022-04-30          72.405883      0.377817               0.269869      0.03
+2022-07-31          72.448187      0.880829               2.500000      0.07
+2022-10-31          72.687661      0.917673               1.640589      0.21
 ```
 
 ---
 
-TFI Global: "The American strategy in the Ukraine conflict is aimed
-solely at severing ties between Europe and Russia, and the West has
-made desperate attempts to do so. However, in the end, their efforts
-may be in vain...
+Guidance for op profit margin was for ~10% and the stock soared?
+Buyers must have seen some hope in Salesforce (great stock ticker name
+BTW, "CRM")
 
-Despite the harsh sanctions imposed on Moscow since its full-scale
-invasion of Ukraine nearly a year ago, a paper published by.. [DE]
-economy ministry claimed that trade data showed a 'considerable
-amount' of sanctioned products were being exported from the EU and
-Germany to certain third countries and then exported further from
-there to Russia""
+Yahoo Finance: "Salesforce Inc. surged by the most in almost three
+years after raising its forecast for profit margins.. At least five
+activist investors, including Elliott and Starboard Value, are pushing
+the company to cut costs following a half-decade of aggressive hiring
+and large acquisitions.
+
+---
+
+H2 Central: "There’s Hydrogen In Them There Hills: The Trailblazers
+Mining for ‘Gold Hydrogen’..  The cost of extracting hydrogen from the
+ground is potentially very cheap compared with existing methods. One
+deposit in Mali, which is at a relatively shallow depth and produces
+nearly pure hydrogen, could be tapped for 50 U.S. cents per kg"
+
+---
+
+[Link](https://drive.google.com/uc?export=view&id=1vULsgToiielHCiVF1kJqD0_oQ7sWSyez)
+
+---
+
+It's mostly useless stuff anyway
+
+F24: "US lawmakers advance bill on banning TikTok"
+
+---
+
+H2 Central: "China Record-Breaking Green Hydrogen Project is Just The
+Beginning.. The largest currently under construction is Ordos, a 390
+MW system being built by China’s state-owned oil refining
+giant.. Sinopec describes Ordos as a demonstration project and has
+said it plans to make 60% of its hydrogen green by 2025, which would
+equate to 2.1 million tonnes of green hydrogen a year"
+
+---
+
+Russian, a Slavic language, is of course in the Indo-European family.
+
+---
+
+It's crazy, the homeland includes all the regions being fought over
+right now, an area that is the origin of a good chunk of the East-West
+Eurasian culture, right there.
+
+---
+
+Apparently the geo origin of Indo-European languages was an open
+question - recently answered
+
+[[-]](2023/03/the-horse-the-wheel-steppes-anthony.html)
 
 ---
 
