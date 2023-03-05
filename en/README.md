@@ -8,12 +8,11 @@ dealt with as needed.
 ---
 
 The high GPM is typical of a software company with a commanding lead
-in the marketspace as GPM shows direct costs for creating a product,
-software companies don't typically spend too much to produce
-something, especially once the core product / platform is mature,
-likely the case for SF by now. But if there are a lot of extra,
-indirect spending, fluff investments it can take down the other
-measures, OPM, PM.
+in the marketspace as GPM shows direct costs for creating a product.
+Software companies don't typically spend too much to produce,
+especially once the core product / platform is mature, likely the case
+for SF by now. But if there are a lot of extra, indirect spending,
+fluff investments it can take hurt OPM, PM.
 
 ---
 
@@ -78,13 +77,14 @@ Russian, a Slavic language, is of course in the Indo-European family.
 ---
 
 It's crazy, the homeland includes all the regions being fought over
-right now, an area that is the origin of a good chunk of the East-West
-Eurasian culture, right there.
+right now, an area that is the origin of a good chunk of the Eastern
+and Western Eurasian culture.
 
 ---
 
 Apparently the geo origin of Indo-European languages was an open
-question - recently answered
+question - recently answered, confirming the earlier share with
+Kristiansen.
 
 [[-]](2023/03/the-horse-the-wheel-steppes-anthony.html)
 
