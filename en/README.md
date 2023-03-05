@@ -34,8 +34,8 @@ Out[1]:
 ---
 
 Guidance for op profit margin was for ~10% and the stock soared?
-Buyers must have seen some hope in Salesforce (great stock ticker name
-BTW, "CRM")
+Buyers must have seen some hope in Salesforce (great stock ticker
+name, "CRM")
 
 Yahoo Finance: "Salesforce Inc. surged by the most in almost three
 years after raising its forecast for profit margins.. At least five
