@@ -54,13 +54,6 @@ Jones had concluded that the Sanskrit language originated from the
 same source as Greek and Latin, the classical languages of European
 civilization...
 
-The oldest written Indo-European languages belonged to the Anatolian
-branch. The Anatolian branch had three early stems: Hittite, Luwian,
-and Palaic... The Hittite capital city, Hattušas, was burned in a
-general calamity that brought down the Hittite kings, their army, and
-their cities about 1180 BCE. The Hittite language then quickly
-disappeared; apparently only the ruling élite ever spoke it...
-
 The Indo-European homeland is like the Lost Dutchman’s Mine, a legend
 of the American West, discovered almost everywhere but confirmed
 nowhere. Anyone who claims to know its real location is thought to be
