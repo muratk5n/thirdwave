@@ -12,7 +12,7 @@ in the marketspace as GPM shows direct costs for creating a product.
 Software companies don't typically spend too much to produce,
 especially once the core product / platform is mature, likely the case
 for SF by now. But if there are a lot of extra, indirect spending,
-fluff investments it can take hurt OPM, PM.
+fluff investments it can hurt OPM, PM.
 
 ---
 
