@@ -359,8 +359,9 @@ def sm_plot_ukr(file,oldfile,geo,clat=48,clon=37,zoom=0.6):
     df = np.array(pd.read_csv(oldfile,header=None))
     df[:, [1, 0]] = df[:, [0, 1]]
     sm.plot_line(df,color='gray',linestyle='solid')
-    for label,lat,lon,s in geo:
-      style=(s[0], s[1])
+    offsets = [[random.randint(-60,60), random.randint(-60,60)] for i in range(len(geo))]
+    for i,(label,lat,lon) in enumerate(geo):
+      style = tuple(offsets[i])
       plt.annotate(
         label, 
         xy = (lon, lat), xytext = style,
