@@ -1,6 +1,6 @@
 # The Horse, The Wheel, and Language
 
-Anthony
+David Anthony
 
 [A] substantial vocabulary list has been reconstructed for one of the
 languages spoken about five thousand years ago. That language is the
