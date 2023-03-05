@@ -16,7 +16,7 @@ surrounding Proto- Indo-European, namely, who spoke it, where was it
 spoken, and when. Generations of archaeologists and linguists have
 argued bitterly about the “homeland” question...
 
-[a British judge Jones'] arrival in Calcutta, a mythically alien place
+[A British judge, Jones'] arrival in Calcutta, a mythically alien place
 for an Englishman of his age, was the opening move in the imposition
 of royal government over a vital yet irresponsible merchant’s colony.
 Jones was to regulate both the excesses of the English merchants and
