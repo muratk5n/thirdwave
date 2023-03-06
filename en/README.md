@@ -8,7 +8,7 @@ needed.
 ---
 
 The high GPM is typical of a software company with a commanding lead
-in the marketspace as GPM shows direct costs for creating a product.
+in the market as GPM shows direct costs for creating a product.
 Software companies don't typically spend too much to produce,
 especially once the core product / platform is mature, likely the case
 for SF by now. But if there are a lot of extra, indirect spending,
