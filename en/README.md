@@ -77,8 +77,8 @@ Russian is in the Indo-European family
 ---
 
 It's crazy, the homeland includes all the regions being fought over
-right now, an area that is the origin of a good chunk of the Eastern
-and Western Eurasian culture.
+right now, an area that is the origin of a part of the Eastern and
+Western Eurasian culture.
 
 ---
 
