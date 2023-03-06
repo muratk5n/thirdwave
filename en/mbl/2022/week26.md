@@ -554,53 +554,6 @@ Trade and Industry Jan Christian Vestre"
 
 ---
 
-The Hydrogen Standard: "The prospects for green hydrogen have been
-given a boost as a market landgrab by oil and gas majors
-continues. June has seen BP and TotalEnergies buying stakes in
-projects with a combined production capacity of 2.6 million tonnes a
-year. BP said it was taking operating rights and 40.5% stake in the
-Asian Renewable Energy Hub, a planned 26 GW renewable energy complex
-in Pilbara, Western Australia, Upon completion, the hub should be able
-to deliver 1.6 million tonnes ofgreen hydrogen a year, BP
-said. TotalEnergies, meanwhile,said it was taking a stake in Adani New
-Industries Limited of India, which is aiming to produce a million
-tonnes of green hydrogen a year by 2030.
-
-While the announcements clearly show oil majors are warming to green
-hydrogen,the industry has not yet given up on more controversial blue
-synthesis. Saudi Aramco said in its sustainability that it intends to
-produce 11 million tonnes of low-carbon ammonia by 2030, which would
-require million tonnes of blue hydrogen.
-
-Nevertheless, the extent to which oil companies are backing green
-hydrogen production is helping to turbocharge the growth of the
-industry. In May, Research firm Reports it expected the green hydrogen
-market to grow from 300m in 2020 to 9.8bn dollars in 2028, a CAGR of
-almost 55%.
-
-'The investments committed by BP and TotalEnergies confirm the
-industry's confidence in hydrogen technology.' said analyst firm Wood
-Mackenzie's vice president Prakash Sharmain a press note. 'After a
-100-fold jump in low carbon hydrogen project announcements over
-thepast three years, major energy players now seem willing to raise
-green investments'
-
-Having oil and gas majors battle it out for market dominance is pretty
-much the best thing that could happen to green hydrogen, not just
-because of the massive war chests that these companies possess—
-bloated further by recent fuel price rises—but also becasue their
-vertically integrated operations allow them to improve distribution
-and end use of the fuel.
-
-It is becoming clear that the oil industry intends to dominate green
-hydrogen production similar to its dominance in fossil fuels. Having
-made estimated '$100bn in the first quarter of this year alone, they
-are better placed than anyoneto drive growth in the sector"
-
-[[-]](https://twitter.com/H2Standard/status/1540625642097709056)
-
----
-
 H2 Central: "Germany and the United Arab Emirates will hold further
 talks on hydrogen and clean energy this week as the European country
 seeks long-term solutions to wean itself off Russian gas in the wake

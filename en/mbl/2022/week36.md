@@ -128,42 +128,6 @@ Reuters: "Chile's Boric reshuffles cabinet after voters reject new constitution"
 
 ---
 
-Talks about co-firing coal with ammonia / H2, and green
-H2. Grand. Adani clearly sees where things are going..
-
----
-
-Adani Group: "To further reduce the emission-intensity, Adani Power
-Limited.. plans to blend biomass with coal and is investigating pilots
-for co-firing of hydrogen and green ammonia, as well as pilots for
-carbon capture and utilization.
-
-Green hydrogen holds a strong promise for India’s future energy
-self-reliance. It is not too difficult to imagine a scenario where
-green hydrogen at a price of less than $1/kg — coupled with the
-projected reduction in the cost of combined cycle hydrogen turbines
-and fuel cells — will not only allow the country to make a transition
-from fossil fuels, but will also free India from the debilitating
-financial burden of energy imports.
-
-This opportunity was signalled by Prime Minister Narendra Modi when he
-announced the National Hydrogen Mission in August 2021 on India’s
-Independence Day. This ambitious plan builds upon India’s target of
-450 GW of renewables by 2030. It sends a strong signal for demand for
-green hydrogen via mandates in sectors such as fertilizers and
-refining, provides for viability gap funding and supply-side
-incentives, such as waivers on import duty for electrolysers, as well
-as manufacturing incentives to assemble and localize electrolyser
-manufacturing. Addressing the UN General Assembly, Prime Minister Modi
-also stated his ambition for India to become one of the largest green
-hydrogen hubs in the world"
-
----
-
-"Indian billionaire [Gautam Adani] closes in on Bezos with 1,000% stock surge"
-
----
-
 *Solomon Kane* ⭐ ⭐ ⭐ ⭐ ⭐ The vibe is reminiscent of *Van Helsing*
 but still unique, good story
 

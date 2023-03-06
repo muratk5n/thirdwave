@@ -585,48 +585,6 @@ manufacture all the four types of electrolysers under one roof.
 
 ---
 
-Bloomberg: "Big Oil Bets That Green Hydrogen Is the Future of
-Energy.. The fuel is well suited to the majors’ strengths in project
-management and their deep pockets...
-
-This month has seen a flurry of big news about hydrogen..
-
-BP Plc is taking the lead in the $36 billion Asian Renewable Energy
-Hub, a project that aims to install 26 gigawatts of solar and wind
-farms over a vast 6,500-square-kilometer (2,500 square-mile) stretch
-of Western Australia’s Pilbara region, and use the electricity
-generated to split water molecules into hydrogen and oxygen. Once
-fully developed, each year it would produce about 1.6 million tons of
-green hydrogen or 9 million tons of ammonia, which can be used to make
-fertilizer...
-
-TotalEnergies SE has joined Indian billionaire Gautam Adani’s
-conglomerate in a venture that has the ambition to invest as much as
-50 billion over the next 10 years in green hydrogen. An initial
-investment of $5 billion will develop 4 gigawatts of wind and solar
-capacity, about half of which will feed electrolyzers
-producing hydrogen used to manufacture of ammonia. The venture could
-expand to 1 million tons of annual green hydrogen production by 2030,
-driven by 30 gigawatts of clean power.
-
-It's only a matter of time before Shell Plc follows with a megaproject
-of its own.. 
-
-US giant Chevron Corp. is ready to spend billions on a mixture of
-green and blue hydrogen, which uses a chemical reaction to split
-natural gas and capture and store the carbon dioxide... 'Electrons
-don't need the type of infrastructure' that the oil majors specialize
-in, said Meredith Annex, an analyst at BloombergNEF. But hydrogen is a
-molecule and 'these are companies that understand molecules and
-infrastructure design around molecules.'
-
-The nature of hydrogen, with its complex processing plants,
-pressurized pipelines and storage facilities, and the specialized
-tankers required for distribution, makes it 'a lifeline into the
-future' for Big Oil, said Annex"
-
----
-
 H2 View: "A South-Korean chemicals manufacturer has said it will
 establish a plant to produce 50,000 tonnes of hydrogen per year in
 Daesan, South Korea, to clean up petrochemical production"

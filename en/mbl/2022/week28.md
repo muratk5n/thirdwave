@@ -661,19 +661,6 @@ adoption trajectory"
 
 ---
 
-Times of India: "The Adani Group recently made an announcement that it
-has partnered with France's TotalEnergies to create a green hydrogen
-ecosystem. On the other side, Reliance Industries will also invest Rs
-75,000 crore over the next three years to set up a new clean-energy
-business...
-
-The government launched the National Hydrogen Energy Mission (NHEM) in
-2021-22. This year, the Ministry of Power notified Green Hydrogen
-Policy (GHP) and welcomed industry leaders. The policy will help meet
-the target of 5 million tonnes of green hydrogen production by 2030"
-
----
-
 I'm sure "pro-bidness" governor is fine with that
 
 Texas Tribune: "Texans face skyrocketing home energy bills as the

@@ -1,16 +1,5 @@
 # Week 3
 
----
-
-The Times of India: "Adani Enterprise Limited led by Gautam Adani [of
-India] has signed an agreement with commercial vehicle manufacturer
-Ashok Leyland and Canada's Ballard Power to co-develop trucks powered
-by hydrogen fuel-cells"
-
-<img width="340" src="adani_1.jpeg"/>
-
----
-
 Construct the math, formulate concepts and code instead of shoving
 data into a black box. This is the way.
 
