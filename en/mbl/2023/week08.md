@@ -311,7 +311,7 @@ Major spike in new Masto users - from 300/hr it's now over 1000/hr.
 Cuck votes up norm votes down
 
 ```python
-u.rottentomatoes_tv("Star Trek Discovery")
+u.rottentomatoes2("Star Trek Discovery")
 ```
 
 ```text

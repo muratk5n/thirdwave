@@ -247,11 +247,11 @@ def biz_stock_plot(year,ticker):
     df = pd.read_csv(file,index_col='Date',parse_dates=True)['Close']
     df.plot()
 
-def rottentomatoes_mov(movie):
-    return {"tomatometer score": rt.tomatometer(movie),
-            "audience score": rt.audience_score(movie)}
+def rottentomatoes1(movie):
+    return {"tomatometer score": rt.tomatometer(movie)['value'],
+            "audience score": rt.audience_score(movie)['value']}
 
-def rottentomatoes_tv(movie):
+def rottentomatoes2(movie):
     rel = movie.replace(" ","_").lower()
     url = "https://www.rottentomatoes.com"
     url = url + "/tv/" + rel       
@@ -362,6 +362,7 @@ def sm_plot_ukr(file,oldfile,geo,clat=48,clon=37,zoom=0.6):
     offsets = [[random.randint(-60,60), random.randint(-60,60)] for i in range(len(geo))]
     for i,(label,lat,lon) in enumerate(geo):
       style = tuple(offsets[i])
+      plt.plot(lon, lat, color='red', marker='o', markersize=4)
       plt.annotate(
         label, 
         xy = (lon, lat), xytext = style,
