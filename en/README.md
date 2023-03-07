@@ -153,7 +153,7 @@ NYT: "Netanyahu’s Grip Loosens Amid Israel Turmoil"
 
 ## Browse
 
-[Members](2022/08/members.html)
+[Members, Donations](2022/08/members.html)
 
 [By Year](years.html)
 
