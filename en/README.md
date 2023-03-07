@@ -1,16 +1,10 @@
 
+"@VTOLsociety@mastodon.world
 
-🔥 🔥 🔥 
-
-"@gaberivera@mastodon.xyz
-
-👍 Some "communities" are rather well-represented here [on
-Mastodon]... basically every notable blogger from the year 2005 is
-here!.. 😂 Meanwhile, it's kinda funny how crypto people are entirely
-absent in the Fediverse, given their professed love of
-decentralization. (Perhaps they were not not so much into
-decentralization but rather recentralization of wealth around
-themselves!)"
+Congrats to \#universalhydrogen for flying a 40-passenger regional
+airliner on \#hydrogen \#fuelcell propulsion. Hear CEO Paul Eremenko
+give a keynote talk at the @VTOLsociety's 2nd Annual #H2aero
+Symposium! Check out our amazing program: www.vtol.org/h2symposium"
 
 ---
 
@@ -32,14 +26,18 @@ Out[1]: {'tomatometer score': 60, 'audience score': 85}
 
 ---
 
-"@VTOLsociety@mastodon.world
+🔥 🔥 🔥 
 
-Congrats to \#universalhydrogen for flying a 40-passenger regional
-airliner on \#hydrogen \#fuelcell propulsion. Hear CEO Paul Eremenko
-give a keynote talk at the @VTOLsociety's 2nd Annual #H2aero
-Symposium! Check out our amazing program: www.vtol.org/h2symposium"
+"@gaberivera@mastodon.xyz
 
----
+👍 Some "communities" are rather well-represented here [on
+Mastodon]... basically every notable blogger from the year 2005 is
+here!.. 😂 Meanwhile, it's kinda funny how crypto people are entirely
+absent in the Fediverse, given their professed love of
+decentralization. (Perhaps they were not not so much into
+decentralization but rather recentralization of wealth around
+themselves!)"
+
 
 Renew Economy: "NSW [AU] funds two new electrolysers as part of $1.5bn
 plan to slash cost of green hydrogen"
