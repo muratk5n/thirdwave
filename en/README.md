@@ -116,7 +116,7 @@ stood for all nuclear facilities around the world"
 ---
 
 Al Monitor: "The UN human rights chief on Friday denounced the
-"unfathomable" call by an Israeli minister for a flashpoint
+'unfathomable' call by an Israeli minister for a flashpoint
 Palestinian town to be 'wiped out'"
 
 ---
