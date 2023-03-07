@@ -1,7 +1,5 @@
 
 
-
-
 🔥 🔥 🔥 
 
 "@gaberivera@mastodon.xyz
@@ -41,8 +39,6 @@ airliner on \#hydrogen \#fuelcell propulsion. Hear CEO Paul Eremenko
 give a keynote talk at the @VTOLsociety's 2nd Annual #H2aero
 Symposium! Check out our amazing program: www.vtol.org/h2symposium"
 
-<img width='340' src='https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/109/967/741/253/596/028/original/33d11d73b6dd1f09.jpg'/> 
-
 ---
 
 Renew Economy: "NSW [AU] funds two new electrolysers as part of $1.5bn
@@ -71,7 +67,7 @@ FR former colonies?
 
 ---
 
-There is a Macron Africa speech from 2017 referencing Thomas Sankara. 
+Macron Africa speech from 2017 references Thomas Sankara. 
 
 ---
 
@@ -97,7 +93,7 @@ historic accord signed in Montreal in December"
 ---
 
 Good good.. let bygones by bygones.. water under the bridge, camel
-around the sand dune or something 
+around the sand dune, or something 
 
 Al Monitor: "Qatar-UAE 'fraternal' meetings offer sign of growing rapprochement"
 
