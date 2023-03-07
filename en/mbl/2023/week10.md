@@ -88,6 +88,6 @@ Apparently the geo origin of Indo-European languages was an open
 question - recently answered, confirming the earlier share with
 Kristiansen.
 
-[[-]](2023/03/the-horse-the-wheel-steppes-anthony.html)
+[[-]](../../2023/03/the-horse-the-wheel-steppes-anthony.html)
 
 ---
