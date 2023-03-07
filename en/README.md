@@ -72,8 +72,7 @@ Macron Africa speech from 2017 references Thomas Sankara.
 Bakhmut is in trouble, gray line is old frontline, red line is new
 
 ```python
-u.sm_plot_ukr('ukrdata/fl-0304.csv','ukrdata/fl-221115.csv',
-              ["Kramatorsk","Bakhmut"],clat=48.5,clon=37.7,zoom=0.06)
+u.sm_plot_ukr('ukrdata/fl-0304.csv','ukrdata/fl-221115.csv',["Kramatorsk","Bakhmut"],clat=48.5,clon=37.7,zoom=0.06)
 ```
 
 <img width='340' src='mbl/2023/ukr-2.jpg'/> 
