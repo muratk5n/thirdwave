@@ -4,7 +4,7 @@
 Congrats to \#universalhydrogen for flying a 40-passenger regional
 airliner on \#hydrogen \#fuelcell propulsion. Hear CEO Paul Eremenko
 give a keynote talk at the @VTOLsociety's 2nd Annual #H2aero
-Symposium! Check out our amazing program: www.vtol.org/h2symposium"
+Symposium!"
 
 ---
 
