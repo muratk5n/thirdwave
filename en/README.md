@@ -22,7 +22,7 @@ Lou Stein - Running Fire \#music
 
 ---
 
-If you touch Woke crits go thumbs down
+Leaving aside the slap stuff imo the crit rating is down bcz CR touched on woke
 
 ```python
 u.rottentomatoes1("Chris Rock Selective Outrage")
