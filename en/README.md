@@ -103,7 +103,7 @@ Al Monitor: "Qatar-UAE 'fraternal' meetings offer sign of growing rapprochement"
 
 ---
 
-\#Chomsky \#Apartheid
+\#Chomsky \#NotApartheid
 
 [[-]](https://youtu.be/tMp3LyOTcEU?t=62)
 
