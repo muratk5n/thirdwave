@@ -90,7 +90,7 @@ historic accord signed in Montreal in December"
 
 ---
 
-Good good.. let bygones by bygones.. water under the bridge, camel
+Good good.. let bygones be bygones.. water under the bridge, camel
 around the sand dune, or something 
 
 Al Monitor: "Qatar-UAE 'fraternal' meetings offer sign of growing rapprochement"
