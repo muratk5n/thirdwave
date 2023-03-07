@@ -9,6 +9,45 @@ from yahoofinancials import YahooFinancials
 from pandas_datareader import data, wb
 from io import BytesIO
 
+def sm_plot_ukr(file,oldfile,geo,clat=48,clon=37,zoom=0.6):
+    cities = json.loads(open("ukrdata/cities.json").read())
+    sm_plot_ukr_base(file,geo,clat,clon,zoom)    
+    df = np.array(pd.read_csv(oldfile,header=None))
+    df[:, [1, 0]] = df[:, [0, 1]]
+    sm.plot_line(df,color='gray',linestyle='solid')
+    offsets = [[random.randint(-60,60), random.randint(-60,60)] for i in range(len(geo))]
+    for i,label in enumerate(geo):
+      lat,lon = cities[label]
+      style = tuple(offsets[i])
+      plt.plot(lon, lat, color='red', marker='o', markersize=4)
+      plt.annotate(
+        label, 
+        xy = (lon, lat), xytext = style,
+        textcoords = 'offset points', ha = 'right', va = 'bottom',
+        bbox = dict(boxstyle = 'round,pad=0.5', fc = 'yellow', alpha = 0.5),
+        arrowprops = dict(arrowstyle = '->', connectionstyle = 'arc3,rad=0'))          
+        
+def sm_plot_ukr_base(file,geo,clat,clon,zoom):
+    df = np.array(pd.read_csv(file,header=None))
+    df[:, [1, 0]] = df[:, [0, 1]]
+    sm.plot_countries(clat,clon,zoom,outcolor='lavenderblush')
+    sm.plot_line(df,color='red')
+    
+    df = np.array(pd.read_csv('ukrdata/donetsk.csv',header=None))
+    sm.plot_line(df,color='pink')
+    plt.text(37,48,'Donetsk',color='gray')
+
+    df = np.array(pd.read_csv('ukrdata/kherson.csv',header=None))
+    sm.plot_line(df,color='pink')
+    plt.text(33,46.5,'Kherson',color='gray')
+
+    df = np.array(pd.read_csv('ukrdata/zaporizhia.csv',header=None))
+    sm.plot_line(df,color='pink')
+    plt.text(35,47,'Zaporizhia',color='gray')
+
+    plt.text(38.3,49,'Luhansk',color='gray')
+    
+
 def plot_africa_ru_us(ru,us):
     country_dict = sm.get_country_name_iso3()
     geo = sm.get_country_geo()
@@ -354,42 +393,6 @@ def covid_hospitalization():
    df = df.set_index('date')
    return df
 
-def sm_plot_ukr(file,oldfile,geo,clat=48,clon=37,zoom=0.6):
-    sm_plot_ukr_base(file,geo,clat,clon,zoom)    
-    df = np.array(pd.read_csv(oldfile,header=None))
-    df[:, [1, 0]] = df[:, [0, 1]]
-    sm.plot_line(df,color='gray',linestyle='solid')
-    offsets = [[random.randint(-60,60), random.randint(-60,60)] for i in range(len(geo))]
-    for i,(label,lat,lon) in enumerate(geo):
-      style = tuple(offsets[i])
-      plt.plot(lon, lat, color='red', marker='o', markersize=4)
-      plt.annotate(
-        label, 
-        xy = (lon, lat), xytext = style,
-        textcoords = 'offset points', ha = 'right', va = 'bottom',
-        bbox = dict(boxstyle = 'round,pad=0.5', fc = 'yellow', alpha = 0.5),
-        arrowprops = dict(arrowstyle = '->', connectionstyle = 'arc3,rad=0'))          
-        
-def sm_plot_ukr_base(file,geo,clat,clon,zoom):
-    df = np.array(pd.read_csv(file,header=None))
-    df[:, [1, 0]] = df[:, [0, 1]]
-    sm.plot_countries(clat,clon,zoom,outcolor='lavenderblush')
-    sm.plot_line(df,color='red')
-    
-    df = np.array(pd.read_csv('ukrdata/donetsk.csv',header=None))
-    sm.plot_line(df,color='pink')
-    plt.text(37,48,'Donetsk',color='gray')
-
-    df = np.array(pd.read_csv('ukrdata/kherson.csv',header=None))
-    sm.plot_line(df,color='pink')
-    plt.text(33,46.5,'Kherson',color='gray')
-
-    df = np.array(pd.read_csv('ukrdata/zaporizhia.csv',header=None))
-    sm.plot_line(df,color='pink')
-    plt.text(35,47,'Zaporizhia',color='gray')
-
-    plt.text(38.3,49,'Luhansk',color='gray')
-    
 def crime_vio_state(state):
    # ['burglary','larceny','motor-vehicle-theft','arson']
    cols = ['homicide','rape','robbery','aggravated-assault']
