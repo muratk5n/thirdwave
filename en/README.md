@@ -8,12 +8,6 @@ Symposium! Check out our amazing program: www.vtol.org/h2symposium"
 
 ---
 
-Lou Stein - Running Fire \#music
-
-[[-]](https://youtu.be/vB1ylrtdhhA)
-
----
-
 Leaving aside the slap stuff imo the crit rating is down bcz CR touched on woke
 
 ```python
@@ -23,6 +17,12 @@ u.rottentomatoes1("Chris Rock Selective Outrage")
 ```text
 Out[1]: {'tomatometer score': 60, 'audience score': 85}
 ```
+
+---
+
+Lou Stein - Running Fire \#music
+
+[[-]](https://youtu.be/vB1ylrtdhhA)
 
 ---
 
