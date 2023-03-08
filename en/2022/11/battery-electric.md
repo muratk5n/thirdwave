@@ -111,12 +111,11 @@ The 100% Problem
 Problems do not end there; just like charging/discharging the
 battery too many times degrades it, so does charging it UP TO
 100%. You read that right, a lion battery should not be charged fully,
-only partially, almost fully up to a point, otherwise, again the battery
-goes bad. In fact some EV's [added](https://toot.cat/@JimG/109946177003223832)
-"a feature" creating a buffer so the battery cannot be brought to a
-true 100%.
+only partially, almost fully up to a point, otherwise again,a the battery
+goes bad. In fact some EV's have a [feature](https://toot.cat/@JimG/109946177003223832)
+that stops them from being fully charged.
 
-https://mastodon.social/@JimG@toot.cat/109946177063636386
+[[-]](https://mastodon.social/@JimG@toot.cat/109946177063636386)
 
 <a name='safety'/>
 
