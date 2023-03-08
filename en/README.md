@@ -92,7 +92,7 @@ lithium batteries carried as cargo or luggage last year"
 
 ---
 
-State-owner devices, fine, not for blanket ban. 
+State-owned devices, fine, not for blanket ban. 
 
 ABC 27: "A Pennsylvania State Senate committee advanced a bill Monday
 that would ban TikTok from state-owned devices and networks"
