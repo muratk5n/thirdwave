@@ -27,6 +27,8 @@ fast degrades, or degrades anyway with even regular use... Which
 blithering idiot thought this tech could ever be the route for clean
 energy?
 
+[[-]](2022/11/battery-electric.html)
+
 ---
 
 [Link](mbl/2023/hexadic_facepalm.jpg)
