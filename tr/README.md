@@ -14,41 +14,41 @@ başlar.
 
 ## En Son
 
-26/1 - [Güneş Kaynağı Haritası](2022/01/solar-map.md)
+26/1 - [Güneş Kaynağı Haritası](2022/01/solar-map.html)
 
-23/1 - [Yerel Yeşil Hidrojen Potansiyeli](2022/01/green-hydrogen.md)
+23/1 - [Yerel Yeşil Hidrojen Potansiyeli](2022/01/green-hydrogen.html)
 
-1/6 - [Milli Söylem, Göçmenler, Anadolu](2020/07/gocebele-anadolu.md)
+1/6 - [Milli Söylem, Göçmenler, Anadolu](2020/07/gocebele-anadolu.html)
 
 ## Referans
 
-[Endüstriyel İdeolojilerin Temelleri](/2010/06/endustriyel-ideolojilerin-temelleri.md)
+[Endüstriyel İdeolojilerin Temelleri](2010/06/endustriyel-ideolojilerin-temelleri.html)
 
-[Kültür Kodları](/2006/07/kltr-kodlar.md)
+[Kültür Kodları](2006/07/kltr-kodlar.html)
 
-[Ulus-Devletler ve Milliyetçilik](/2013/09/ulus-devletler-ve-milliyetcilik.md)
+[Ulus-Devletler ve Milliyetçilik](2013/09/ulus-devletler-ve-milliyetcilik.html)
 
-[Yaratıcılığın Kumaşı](/2009/04/yaratclgn-kumas.md)
+[Yaratıcılığın Kumaşı](2009/04/yaratclgn-kumas.html)
 
-[Roma](/2018/10/roma.md)
+[Roma](2018/10/roma.html)
 
-[Askerlik](/2007/08/askerlik.md)
+[Askerlik](2007/08/askerlik.html)
 
-[Eğitim](/2018/10/egitim.md)
+[Eğitim](2018/10/egitim.html)
 
-[Fişleme](/2018/12/fisleme.html)
+[Fişleme](2018/12/fisleme.html)
 
-[MBTI](/2019/08/mbti_tr.html)
+[MBTI](2019/08/mbti_tr.html)
 
-[Hiciv](hiciv.md)
+[Hiciv](hiciv.html)
 
 ## Gez
 
-[Seneye Gore](years.md)
+[Seneye Gore](years.html)
 
 [Ara](search.html)
 
-[Mikroblog Arşivi](/tweets/README.md)
+[Mikroblog Arşivi](mbl/README.html)
 
 [PDF](https://drive.google.com/uc?export=view&id=1MUWi8gkaZO0Qzn5YbEH-9HlAWJ4xDmD5)
 
