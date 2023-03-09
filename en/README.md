@@ -1,6 +1,6 @@
 
 
-That is right about stews, an efficient way to increase food intake
+That is right about stews, an efficient way to increase nutrient intake
 
 [[-]](2023/03/the-horse-the-wheel-steppes-anthony.html#stew)
 
