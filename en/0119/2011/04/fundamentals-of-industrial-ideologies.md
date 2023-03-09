@@ -18,6 +18,5 @@
 
 [Bureucracy](../../2011/02/bureucracy.html)
 
-[[Up]](../..)
 
 
