@@ -148,7 +148,7 @@ Trump: "World War III has never been closer"
 
 [The Middle East](0119/2019/07/middleeast.html)
 
-[TR](../tr)
+[TR](../tr/README.html)
 
 ## Browse
 
