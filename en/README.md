@@ -36,6 +36,10 @@ old boss.
 
 ---
 
+They finally jumped the shark with that multiverse garbage.
+
+---
+
 Lost money bitch - meaning, not so great
 
 
