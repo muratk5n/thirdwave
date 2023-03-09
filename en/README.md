@@ -83,7 +83,7 @@ Orikhovo-Vasylivka is also under attack or taken. UA keeps sending
 reinforcements to the area so they can end up with a huge number of
 people trapped in that larger cauldron.
 
-```
+```python
 ps = ["Kramatorsk","Bakhmut","Chasiv Yar","Soledar","Kostyantynivka","Orikhovo-Vasylivka"]
 u.sm_plot_ukr('ukrdata/fl-0304.csv','ukrdata/fl-221115.csv', ps,clat=48.6,clon=37.8,zoom=0.06)
 ```
