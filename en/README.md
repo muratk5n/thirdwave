@@ -161,3 +161,9 @@ Trump: "World War III has never been closer"
 [Microblog Archive](mbl/index.html)
 
 [PDF](https://drive.google.com/uc?export=view&id=1FSi-1MnqXVq_PVTEXzzflwN8-7h92N_R)
+
+Find Us On
+[Mastodon](https://masto.ai/@muratk3n),
+[Codeberg](https://muratk5n.codeberg.page/en/README.html),
+[Github Pages](https://muratk5n.github.io/thirdwave/en/)
+
