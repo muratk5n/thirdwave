@@ -94,3 +94,10 @@ steppes of eastern Ukraine and Russia.
 
 ![](indo1.jpg)
 
+<a name='stew'/>
+
+Fire-resistant clay pots made it possible to cook stews and soups all
+day over a low fire, breaking down complex starches and proteins so
+that they were easier to digest for people with delicate
+stomachs—babies and elders. Soups that simmered in clay pots helped
+infants survive and kept old people alive longer.
