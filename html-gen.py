@@ -123,6 +123,36 @@ def ls(d,ignore_list=[]):
             if do_add: files.append((path, os.path.getsize(path)))
     return dirs, files
 
+
+head = """
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,maximum-scale=2">
+    <link rel="stylesheet" type="text/css" media="screen" href="https://muratk5n.codeberg.page/style.css">
+    <script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {inlineMath: [["$","$"]]}
+  });
+</script>
+<script type="text/javascript"
+   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML-full">
+</script>
+<body>
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <h1 id="project_title">
+            <a href="https://muratk5n.codeberg.page/en/README.html" style="text-decoration:none; color:inherit;">thirdwave</a>
+          </h1>          
+        </header>
+    </div>
+"""
+
+bottom = """
+</body>
+</html>
+"""
+
 def gen_html():
         dirs, files = ls(os.getcwd())
         for (f,size) in files:
@@ -137,18 +167,28 @@ def gen_html():
                     if htmltime > mdtime: update = False
                 if update:
                     print ('Generating html for', f)
-                    content = open(path + "/" + fmd).read()                    
-                    res = markdown.markdown(content, extensions=['fenced_code'])
+                    content = open(path + "/" + fmd).read()
+                    res = head
+                    res += markdown.markdown(content, extensions=['fenced_code'])
+                    res += bottom
                     fout = open(path + "/" + fhtml, "w")
                     fout.write(res)
                     fout.close()
 
+def clean_html(to):
+    dirs, files = ls(to)
+    for (f,size) in files:
+        if ".md" in f:
+            path = os.path.dirname(f)
+            fmd = os.path.basename(f)
+            fhtml = os.path.basename(f).replace(".md",".html")
+            if os.path.isfile(path + "/" + fhtml):
+                print ('Erasing', path + "/" + fhtml)
+                os.remove(path + "/" + fhtml)
 
 fr = os.getcwd()
 to = os.environ['HOME'] + "/Documents/repos/codeberg/pages"
 frdirs, todirs = copy_files_and_dirs(fr, to, ".git")
-#del_not_in_from(fr, to, frdirs, todirs)
 os.chdir(to)
 gen_html()
-
-
+#clean_html(to)
