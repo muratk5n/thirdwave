@@ -30,6 +30,12 @@ warp speed gear"
 
 ---
 
+I'd say Disney needs a shake-up but who would do that, the new boss?
+The new boss, same as the old boss, who was .. actually the exact same
+old boss.
+
+---
+
 Lost money bitch - meaning, not so great
 
 
