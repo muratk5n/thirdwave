@@ -10,8 +10,6 @@
 
 [Shuttleworth on Patents](../../2011/08/shuttleworth-on-patents.html)
 
-[When Patents Attack!](../../2012/08/when-patents-attack.html)
-
 [Knuth on Patents](../../2020/08/knuth-on-patents.html)
 
 [[Up]](../..)
