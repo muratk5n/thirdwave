@@ -67,7 +67,7 @@ Reuters: "E-fuels are made using CO2 captured from the atmosphere and
 hydrogen extracted with renewable electricity, and can be used in any
 conventional combustion engine. While they do release CO2 from the
 tailpipe, it's just releasing what was captured in creating them,
-hence the claim to carbon neutrality.. Plus, carbon offsetting won't
+hence the claim to carbon neutrality.. [But] carbon offsetting won't
 do anything to reduce the pollution and health effects caused by
 tailpipe emissions"
 
