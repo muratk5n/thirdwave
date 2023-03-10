@@ -32,7 +32,7 @@ if sys.argv[1] == 'pdf-unite':
         
 if sys.argv[1] == 'pdf':
     retpath = os.getcwd()
-    files1 = glob.glob("0119/**/**/*.md")
+    files1 = glob.glob("**/**/**/*.md")
     files1 = sorted(files1)
     files2 = glob.glob("**/**/*.md")
     files2 = sorted(files2)
@@ -40,9 +40,11 @@ if sys.argv[1] == 'pdf':
     files = [f for f in files if "mbl" not in f]
     for i,file in enumerate(files):
         if "index.md" in file: continue
+        print (file)
+        file2 = file.replace("0119/","")
         f = os.path.basename(file).replace(".md",".pdf")
         dir = os.path.dirname(file)
-        res = re.findall("(\d\d\d\d\/\d\d)",file)[0]
+        res = re.findall("(\d\d\d\d\/\d\d)",file2)[0]
         i = int(res.replace("/",""))
         f = "/opt/Downloads/twpdf/%04d-%s" % (i,f)
         os.chdir(dir)
