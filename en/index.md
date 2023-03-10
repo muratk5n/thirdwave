@@ -93,9 +93,8 @@ LA Times: "U.S. investigates Tesla for steering wheels that can fall off"
 
 ---
 
-Seymour Hersh: "In my account of the Biden Administration’s decision
-to destroy the Nord Stream pipelines, why did much of the secret
-planning and training for the operation take place in Norway?  And why
+Seymour Hersh: "[W]hy did much of the secret planning and training for
+the [Nord Stream sabotage] operation take place in Norway?  And why
 were highly skilled seamen and technicians from the Norwegian Navy
 involved? The simple answer is that the Norwegian Navy has a long and
 murky history of cooperation with American intelligence"
