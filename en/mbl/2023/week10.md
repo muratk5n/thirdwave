@@ -2,7 +2,7 @@
 
 That is right about stews, an efficient way to increase nutrient intake
 
-[[-]](2023/03/the-horse-the-wheel-steppes-anthony.html#stew)
+[[-]](../../2023/03/the-horse-the-wheel-steppes-anthony.html#stew)
 
 ---
 
@@ -92,7 +92,7 @@ ps = ["Kramatorsk","Bakhmut","Chasiv Yar","Soledar","Kostyantynivka","Orikhovo-V
 u.sm_plot_ukr('ukrdata/fl-0304.csv','ukrdata/fl-221115.csv', ps,clat=48.6,clon=37.8,zoom=0.06)
 ```
 
-<img width='340' src='mbl/2023/ukr-3.jpg'/> 
+<img width='340' src='ukr-3.jpg'/> 
 
 ---
 
@@ -164,7 +164,7 @@ energy?
 
 ---
 
-[Link](mbl/2023/hexadic_facepalm.jpg)
+[Link](hexadic_facepalm.jpg)
 
 ---
 
