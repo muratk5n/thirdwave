@@ -48,7 +48,7 @@ başlar.
 
 [Ara](search.html)
 
-[Mikroblog Arşivi](mbl/README.html)
+[Mikroblog Arşivi](mbl/index.html)
 
 [PDF](https://drive.google.com/uc?export=view&id=1MUWi8gkaZO0Qzn5YbEH-9HlAWJ4xDmD5)
 
