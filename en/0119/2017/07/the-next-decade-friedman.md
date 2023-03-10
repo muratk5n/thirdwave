@@ -387,3 +387,17 @@ the technology to the Pakistanis. The point is, the development of
 these weapons through an independent research program is enormously
 difficult..
 
+<a name='drugs'/>
+
+Mexico, Drugs
+
+For a manufactured product, such as the electronic components that
+Mexico exports to the United States legally, a profit margin of 10
+percent would be quite high.. The profit margin on drug sales is
+enormously higher than 10 percent, because the inherent cost of the
+commodity is extremely low. Marijuana needs no processing, and
+processing costs on heroin and cocaine are insignificant. A reasonable
+and even conservative estimate for the profit margin on narcotics is
+90 percent.
+
+
