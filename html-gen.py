@@ -174,10 +174,17 @@ def gen_html():
                     fout.write(res)
                     fout.close()
 
+def clean_html(to):
+    d = to + "/en"
+    deleteDir(d)
+    d = to + "/tr"
+    deleteDir(d)
 
 fr = os.getcwd()
 to = os.environ['HOME'] + "/Documents/repos/codeberg/pages"
-frdirs, todirs = copy_files_and_dirs(fr, to, ".git")
+
+frdirs, todirs = copy_files_and_dirs(fr, to, ".git,.key")
 os.chdir(to)
 gen_html()
-#del_not_in_from(fr, to, frdirs, todirs)
+
+#clean_html(to)
