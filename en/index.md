@@ -107,7 +107,7 @@ Yahoo News: "NATO chief warns Bakhmut may fall 'in coming days'"
 Created a mirror of the blog as a backup. If problems occur here, can
 visit there.. Also linked under Browse section below.
 
-[[-]](https://muratk5n.codeberg.page/en/README.html)
+[[-]](https://muratk5n.codeberg.page/en/)
 
 ---
 
@@ -174,6 +174,6 @@ Redtenbacher's Funkestra - Busted \#music
 
 Also on 
 [Mastodon](https://masto.ai/@muratk3n),
-[Codeberg](https://muratk5n.codeberg.page/en/README.html),
+[Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
 
