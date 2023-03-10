@@ -141,7 +141,7 @@ head = """
     <div id="header_wrap" class="outer">
         <header class="inner">
           <h1 id="project_title">
-            <a href="https://muratk5n.codeberg.page/en/README.html" style="text-decoration:none; color:inherit;">thirdwave</a>
+            <a href="https://muratk5n.codeberg.page/en/" style="text-decoration:none; color:inherit;">thirdwave</a>
           </h1>          
         </header>
     </div>
