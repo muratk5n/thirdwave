@@ -1,6 +1,5 @@
 # Milli Söylem, Göçmenler, Anadolu
 
-[Rewriting National Narratives through the Study of Past Migrations](../../../en/2020/07/migrations-anatolia.md),
 J. Tolay
 
 Ulusların kurgusal / hayali oluşlarını anlamak için önemli bir öğe
@@ -220,6 +219,8 @@ kolaylaştırabilir, çünkü bu açıdan bakılırsa artık herkesi kaplayan
 toplum aynı anda hem suçu işleyen, hem de suçun kurbanıdır.
 
 Kaynaklar
+
+[Rewriting National Narratives through the Study of Past Migrations](../../../en/2020/07/migrations-anatolia.html),
 
 Anderson, B. R. O. G. (1991). Imagined communities: Reflections on the origin and spread of nationalism. London: Verso
 

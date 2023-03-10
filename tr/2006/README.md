@@ -1,4 +1,4 @@
 # 2006
 
-[Kültür Kodları](07/kltr-kodlar.md)
+[Kültür Kodları](07/kltr-kodlar.html)
 

@@ -1,8 +1,8 @@
 # 2022
 
-[Yerel Yeşil Hidrojen Potansiyeli](01/green-hydrogen.md)
+[Yerel Yeşil Hidrojen Potansiyeli](01/green-hydrogen.html)
 
-[Güneş Kaynağı Haritası](01/solar-map.md)
+[Güneş Kaynağı Haritası](01/solar-map.html)
 
-[Temel Enerji Verileri](02/base-energy-numbers.md)
+[Temel Enerji Verileri](02/base-energy-numbers.html) 
 

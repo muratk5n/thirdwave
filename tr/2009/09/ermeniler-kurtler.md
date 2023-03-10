@@ -1,6 +1,6 @@
 # Ermeniler, Kürtler
 
-David McDowall, [A modern history of the Kurds](../../../en/2009/09/armenians-kurds.md)
+David McDowall
 
 Çaldıran Savaşı Osmanlı Anadolu bölgesi ile Safavi Azarbeycan arasında
 bir stratejik denge noktası oluşturdu, ve bu durum uzun vadede,
@@ -230,13 +230,8 @@ içeren bir ikilem içinde bulmuştur. Eğer Türkiye ekonomik, sosyal aynı
 zamanda demokratik olarak gelişmek istiyorsa bu ikilemleri, tanımları
 içeren kronik problemleri çözmek zorundadır. Bu problemler Milli
 Güvenlik Kurumu'nun çözmeye yetersiz, basiretsiz kalacağı ciddi
-problemlerdir.
+problemlerdir...
 
----
+References
 
-Yakın tarihteki korucu sisteminin de yukarıdaki sistemin bir uzantısı
-olduğu iddia edilebilir. Yani pek çok diğer konuda olduğu gibi,
-Osmanlı / İttihatçı dejenare varlığı ile bugün arasında kesintisiz bir
-süreklilik var.
-
-
+[A modern history of the Kurds](../../../en/2009/09/armenians-kurds.html)
