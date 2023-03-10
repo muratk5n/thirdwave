@@ -158,7 +158,7 @@ Redtenbacher's Funkestra - Busted \#music
 
 [The Middle East](0119/2019/07/middleeast.html)
 
-[TR](../tr/main.html)
+[TR](../tr/README.html)
 
 ## Browse
 
