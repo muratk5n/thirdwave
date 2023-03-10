@@ -101,7 +101,7 @@ murky history of cooperation with American intelligence"
 
 ---
 
-NWY folk have a little chip on their shoulder don't they? Beaten down
+NWG folk have a little chip on their shoulder don't they? Beaten down
 by neighboring nations in the past, maybe this is how they 'stand out'
 now, by being a jagoff. Plus, per the Nordstream sabotage (which
 allegedly they took a major part in), they had an economic interests
