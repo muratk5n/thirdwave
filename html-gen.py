@@ -129,6 +129,11 @@ head = """
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,maximum-scale=2">
+    <style>
+     pre {
+        overflow: auto;
+     }
+    </style>
     <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
     tex2jax: {inlineMath: [["$","$"]]}
@@ -153,26 +158,26 @@ bottom = """
 """
 
 def gen_html():
-        dirs, files = ls(os.getcwd())
-        for (f,size) in files:
-            if ".md" in f:
-                path = os.path.dirname(f)
-                fmd = os.path.basename(f)
-                fhtml = os.path.basename(f).replace(".md",".html")
-                update = True
-                if os.path.isfile(path + "/" + fhtml):
-                    mdtime = os.path.getmtime(path + "/" + fmd)
-                    htmltime = os.path.getmtime(path + "/" + fhtml)
-                    if htmltime > mdtime: update = False
-                if update:
-                    print ('Generating html for', f)
-                    content = open(path + "/" + fmd).read()
-                    res = head
-                    res += markdown.markdown(content, extensions=['fenced_code'])
-                    res += bottom
-                    fout = open(path + "/" + fhtml, "w")
-                    fout.write(res)
-                    fout.close()
+    dirs, files = ls(os.getcwd())
+    for (f,size) in files:
+        if ".md" in f:
+            path = os.path.dirname(f)
+            fmd = os.path.basename(f)
+            fhtml = os.path.basename(f).replace(".md",".html")
+            update = True
+            if os.path.isfile(path + "/" + fhtml):
+                mdtime = os.path.getmtime(path + "/" + fmd)
+                htmltime = os.path.getmtime(path + "/" + fhtml)
+                if htmltime > mdtime: update = False
+            if update:
+                print ('Generating html for', f)
+                content = open(path + "/" + fmd).read()
+                res = head
+                res += markdown.markdown(content, extensions=['fenced_code'])
+                res += bottom
+                fout = open(path + "/" + fhtml, "w")
+                fout.write(res)
+                fout.close()
 
 def clean_html(to):
     d = to + "/en"

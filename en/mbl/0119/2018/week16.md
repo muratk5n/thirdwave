@@ -35,7 +35,7 @@ Israel overreacted ... Gaza is a disaster right now
 
 So true
 
-46. That's all I am saying.
+46 - That's all I am saying.
 
 ---
 
