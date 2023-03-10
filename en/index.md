@@ -1,11 +1,9 @@
 
-
----
-
 In regular business ppl compete, excesses can be handled at the
 courts.. Guy stepping over your IP, sue. But drug cartels are by
-definition outside the law; so conflicts are handled by the gun. They
-fight over access to trade routes, over supply, for manpower..
+definition outside the law; so conflicts are handled by the gun. In
+Tijuana they are fighting over access to trade routes, supply, for
+manpower.. 
 
 ---
 
