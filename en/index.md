@@ -86,8 +86,8 @@ agreement with the European Union"
 
 ---
 
-🤣 🤣 🤣 Steering wheel just comes off? It is tragically hilarious,
-but I have to say, not surprising.
+😆 😆 😆  Steering wheel just comes off? It is tragically hilarious..
+but I have to say, not too surprising.
 
 LA Times: "U.S. investigates Tesla for steering wheels that can fall off"
 
