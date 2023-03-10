@@ -12,7 +12,7 @@ ru = ["Mali","Ethiopia","Congo","South Africa","Madagascar",
       "Cameroon","Equatorial Guinea","Sao Tome and Principe",
       "Niger","Algeria","Togo","Lesotho","Swaziland",
       "Namibia","Mozambique","United Republic of Tanzania",
-      "Central African Republic","Western Sahara"] 
+      "Central African Republic","Western Sahara","Central African Republic"] 
 
 us = ["Chad","Gabon","Ghana","Kenya","Rwanda", "Djibouti","Somalia",
        "Democratic Republic of the Congo", "Mauritania","Lesotho",
@@ -26,8 +26,8 @@ plt.savefig('af-ru-us.jpg',quality=50)
 
 ### News
 
-[24/02/22](Kenya, Uganda uphold opposite voting stances on Russia war):
-Sudan, Ethiopia, Gabon, Guinea, Mozambique, Namibia, Angola and Algeria and Burundi abstained too.
+[15/12/22](https://www.africanews.com/2022/12/15/last-french-soldiers-leave-central-african-republic//):
+"In 2021, when the presence of the private military company Wagner was increasingly intrusive in the country, France considered that the conditions were no longer met for us to continue working for the Central African armed forces," General François-Xavier Mabin, commander of French forces in Gabon, told AFP.
 
 [13/12/22](https://www.overtdefense.com/2022/12/12/morocco-will-be-the-first-african-country-to-send-aid-to-ukraine/) -
 Morocco Will be the First African Country to Send Aid to Ukraine
@@ -76,6 +76,9 @@ Russia woos Africa with arms, grain and nuclear power.
 
 [21/04/22](https://news.yahoo.com/ethiopians-hope-fight-russia-ukraine-161351963.html) -
 Ethiopians hope to fight for Russia in Ukraine.
+
+[24/02/22](Kenya, Uganda uphold opposite voting stances on Russia war):
+Sudan, Ethiopia, Gabon, Guinea, Mozambique, Namibia, Angola and Algeria and Burundi abstained too.
 
 [21/02/22](https://www.realcleardefense.com/articles/2022/02/21/russia_and_algeria_team_up_against_morocco_817797.html) -
 Russia and Algeria Team Up Against Morocco.. Now Russia is also
