@@ -187,3 +187,26 @@ Can we have Stargate Atlantis back? Or some kind of Stargate.. that
 doesn't look like a Lost remake?
 
 ---
+
+\#voterShaming
+
+[[-]](https://youtu.be/lWurVlHdSWA)
+
+---
+
+![](26-39.png)
+
+---
+
+\#russia \#russia \#russia
+
+![](26-13.png)
+
+---
+
+\#nra
+
+![](33-39.png)
+
+---
+

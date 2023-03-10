@@ -174,20 +174,10 @@ def gen_html():
                     fout.write(res)
                     fout.close()
 
-def clean_html(to):
-    dirs, files = ls(to)
-    for (f,size) in files:
-        if ".md" in f:
-            path = os.path.dirname(f)
-            fmd = os.path.basename(f)
-            fhtml = os.path.basename(f).replace(".md",".html")
-            if os.path.isfile(path + "/" + fhtml):
-                print ('Erasing', path + "/" + fhtml)
-                os.remove(path + "/" + fhtml)
 
 fr = os.getcwd()
 to = os.environ['HOME'] + "/Documents/repos/codeberg/pages"
 frdirs, todirs = copy_files_and_dirs(fr, to, ".git")
 os.chdir(to)
 gen_html()
-#clean_html(to)
+#del_not_in_from(fr, to, frdirs, todirs)

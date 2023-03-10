@@ -1,5 +1,7 @@
 # Week 12
 
+---
+
 Should there be no privatization?
 
 I did not say that
@@ -56,6 +58,30 @@ Farmers, villagers at the time were praying to bones, let's not
 forget, to their "ancient ones" (bcz inheriting land is
 all-important). "The man without a father" in this age is great sales
 pitch - whether created by divine intervention, or a smart politician.
+
+---
+
+Steve Keen on secular stagnation
+
+[[-]](https://youtu.be/_zvmnKVGMKc)
+
+---
+
+MSNBC Gaslights Viewers & Dishonestly Smears Wikileaks \#JimmyDore
+
+[[-]](https://youtu.be/IYSOmD5LyYs)
+
+---
+
+\#MRI
+
+![](37-58.png)
+
+---
+
+\#guns \#lotsOfGuns
+
+![](out.jpg)
 
 ---
 

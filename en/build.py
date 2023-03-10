@@ -1,4 +1,4 @@
-import datetime, sys, os, re, urllib.request
+import datetime, sys, os, re
 import datetime, random, glob
 
 if len(sys.argv) < 2:
@@ -32,10 +32,14 @@ if sys.argv[1] == 'pdf-unite':
         
 if sys.argv[1] == 'pdf':
     retpath = os.getcwd()
-    files = glob.glob("**/**/*.md")
-    files = sorted(files)
+    files1 = glob.glob("0119/**/**/*.md")
+    files1 = sorted(files1)
+    files2 = glob.glob("**/**/*.md")
+    files2 = sorted(files2)
+    files = files1 + files2
     files = [f for f in files if "mbl" not in f]
     for i,file in enumerate(files):
+        if "index.md" in file: continue
         f = os.path.basename(file).replace(".md",".pdf")
         dir = os.path.dirname(file)
         res = re.findall("(\d\d\d\d\/\d\d)",file)[0]
@@ -47,26 +51,7 @@ if sys.argv[1] == 'pdf':
             print (cmd)                
             os.system(cmd)
         os.chdir(retpath)
-    
-if sys.argv[1] == 'twimg':
-    # python -u build.py twimg tweets/2022/week50.md
-    content = open(sys.argv[2]).read()
-    res = re.findall('https://pbs.twimg.com(.*?)["\)]',content)
-    for x in res:
-        print ('--------------------------------------')
-        print (x)
-        fres = re.findall('format=(\w*)\&',x)
-        print (fres[0])
-        nres = re.findall('media\/(.*?)\?format',x)
-        print (nres[0])
-        url = "https://pbs.twimg.com" + x
-        fout = nres[0] + "." + fres[0]
-        urllib.request.urlretrieve(url, "/tmp/twimg/" + fout)
-        content = content.replace(url,"twimg/" + fout)        
-    fout = open("/tmp/" + os.path.basename(sys.argv[2]),"w")
-    fout.write(content)
-    fout.close()
-    
+        
 if sys.argv[1] == 'git-change':    
     os.system('git log --since="7 day ago" --name-only --pretty=format: | sort | uniq')
     

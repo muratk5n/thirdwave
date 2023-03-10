@@ -281,3 +281,18 @@ They killed more ppl annually than the Vietnam War? Dude!
 
 ---
 
+Russiagate After One Year. Aaron Mate Interview \#TYT \#Matte \#Halper
+
+\#RussiaRussiaRussia
+
+[[-]](https://youtu.be/nlgrOhcajDY)
+
+---
+
+Frank : "Trump won because Clinton and the Democrats dismissed the
+concerns of working people"
+
+[[-]](https://youtu.be/4xPCMhwyHy0)
+
+---
+

@@ -48,8 +48,6 @@
 
 [Banking Scams](04/banking-scams.html)
 
-[#dccc #badabim #badaboom](04/dccc-badabim-badabum.html)
-
 [#petrodollar](04/petrodollar.html)
 
 [Yo Bitch](04/yo-bitch.html)

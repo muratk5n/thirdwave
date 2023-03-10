@@ -259,3 +259,19 @@ post-Berlin Wall environment when everyone was confused about
 everything.
 
 ---
+
+Bernard Lietaer: Money diversity 
+
+[[-]](https://youtu.be/T9EI2PrDpmw)
+
+And here is your moment of Zen...
+
+[[-]](https://www.youtube.com/watch?v=Q6nL9elK0EY)
+
+---
+
+Thank You, Koch Brothers! \#Bernie
+
+[[-]](https://youtu.be/pyC4grL-Uag)
+
+---
