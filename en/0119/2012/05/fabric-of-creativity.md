@@ -262,12 +262,12 @@ GA has been described not only as unmanaged, but also as
 unstructured. Bill Gore referred to the structure as a lattice
 organization (Exhibit 3). The characteristics of this structure are:
 
-1. Direct lines of communication—person to person—no intermediary
-2. No fixed or assigned authority
-3. Sponsors, not bosses
-4. Natural leadership defined by followership
-5. Objectives set by those who must “make them happen”
-6. Tasks and functions organized through commitments
+1) Direct lines of communication—person to person—no intermediary
+2) No fixed or assigned authority
+3) Sponsors, not bosses
+4) Natural leadership defined by followership
+5) Objectives set by those who must “make them happen”
+6) Tasks and functions organized through commitments
 
 The structure within the lattice is complex and evolves from
 interpersonal interactions, self commitment to group-known
@@ -317,12 +317,12 @@ Within GA, the various people who take lead roles are thought of as
 being leaders, not managers. Bill Gore described in an internal memo
 the kinds of leadership and the role of leadership as follows:
 
-1. The Associate who is recognized by a team as having a special
+1) The Associate who is recognized by a team as having a special
 knowledge, or experience (for example, this could be a chemist,
 computer expert, machine operator, salesman, engineer, lawyer). This
 kind of leader gives the team guidance in a special area...
 
-10. Entrepreneuring Associates who organize new teams for new
+10) Entrepreneuring Associates who organize new teams for new
 businesses, new products, new processes, new devices, new marketing
 efforts, new or better methods of all kinds. These leaders invite
 other Associates to “sign up” for their project.

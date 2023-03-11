@@ -13,7 +13,7 @@ annual growth of world population hovers around the same ratio
 
 Code is from [2]
 
-<a mame='mortality'/>
+<a name='mortality'/>
 
 ```python
 import util

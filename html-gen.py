@@ -131,6 +131,9 @@ head = """
       <link rel="stylesheet" type="text/css" href="../css/jekyll.css" media="screen" />
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+      <script type="text/x-mathjax-config">MathJax.Hub.Config({  tex2jax: {inlineMath: [["$","$"]  ]}});</script>
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML-full">
+      </script>
       <link rel="stylesheet" type="text/css" media="screen" href="https://muratk5n.codeberg.page/css/jekyll.css">
       <title>thirdwave</title>
       <link rel="canonical" href="https://muratk5n.codeberg.page/en/" />
