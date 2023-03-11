@@ -125,39 +125,33 @@ def ls(d,ignore_list=[]):
 
 
 head = """
+<html>
   <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width,maximum-scale=2">
-    <style>
-     pre {
-        overflow: auto;
-     }
-    img {
-       max-width:100%;
-       max-height:100%;
-    }
-    </style>
-    <script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-    tex2jax: {inlineMath: [["$","$"]]}
-  });
-</script>
-<script type="text/javascript"
-   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML-full">
-</script>
-<body>
-    <div id="header_wrap" class="outer">
+      <meta charset='utf-8'>
+      <link rel="stylesheet" type="text/css" href="../css/jekyll.css" media="screen" />
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+      <link rel="stylesheet" type="text/css" media="screen" href="https://muratk5n.codeberg.page/css/jekyll.css">
+      <title>thirdwave</title>
+      <link rel="canonical" href="https://muratk5n.codeberg.page/en/" />
+    </head>        
+    <body>
+      <div id="header_wrap" class="outer">
         <header class="inner">
           <h1 id="project_title">
-            <a href="https://muratk5n.codeberg.page/en/" style="text-decoration:none; color:inherit;">thirdwave</a>
-          </h1>          
+            <a href="https://muratk5n.codeberg.page/en" style="text-decoration:none; color:inherit;">thirdwave</a>
+          </h1>
+          <h2 id="project_tagline"></h2>          
         </header>
-    </div>
+      </div>
+      <div id="main_content_wrap" class="outer">        
+        <section id="main_content" class="inner">
 """
 
 bottom = """
-</body>
+        </section>          
+      </div>
+    </body>
 </html>
 """
 
