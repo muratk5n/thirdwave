@@ -190,7 +190,7 @@ def clean_html(to):
 fr = os.getcwd()
 to = os.environ['HOME'] + "/Documents/repos/codeberg/pages"
 
-frdirs, todirs = copy_files_and_dirs(fr, to, ".git,.key")
+frdirs, todirs = copy_files_and_dirs(fr, to, ".git,.key,_layouts,_config.yml")
 os.chdir(to)
 gen_html()
 
