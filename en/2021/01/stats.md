@@ -508,6 +508,8 @@ DATE
 
 <a name="tcurve"></a>
 
+Treasury Curve
+
 ```python
 df = u.get_fred(2021,['DGS3MO','DGS6MO','DGS1','DGS2','DGS3','DGS5','DGS7','DGS10','DGS20','DGS30'])
 inv = df.tail(1).T
