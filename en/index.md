@@ -43,7 +43,7 @@ SCIENTISTS, PLEASE STOP, WE GET IT, YOU CAN DO ALL SORTS OF THINGS..
 SIVB CEO is clearly an incompetent clown.  Not only did he buy long
 duration asset for almost no incremental yield pickup, but he uttered
 the words 'stay calm', which is Banker Speak for 'run for your lives,
-muthfucka!'
+muthfucka!'"
 
 ---
 

@@ -504,8 +504,19 @@ DATE
 2023-03-08    5.06  5.05   3.98      4.57
 ```
 
-
 ![](treasuries.png)
+
+<a name="tcurve"></a>
+
+```python
+df = u.get_fred(2021,['DGS3MO','DGS6MO','DGS1','DGS2','DGS3','DGS5','DGS7','DGS10','DGS20','DGS30'])
+inv = df.tail(1).T
+inv.columns = ['Treasury Curve']
+inv.plot()
+plt.savefig('tcurve.jpg',quality=50)
+```
+
+![](tcurve.jpg)
 
 <a name="vix"></a>
 
