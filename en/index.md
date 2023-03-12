@@ -42,7 +42,7 @@ Come to Butthead \#music
 ---
 
 I could improve the visuals, or.. I could just steal Github Pages
-template. [Boom]((https://muratk5n.codeberg.page/en/).
+template. [Boom](https://muratk5n.codeberg.page/en/).
 
 ---
 
