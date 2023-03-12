@@ -7,6 +7,12 @@ to go jump in a lake that YC flagged it right off their own website"
 
 ---
 
+Ng is a Stanford prof, taught deep neural nets for many years. DNNs
+are okay for limited, well-defined, focused use.. But notice the
+subtext - ain't gonna get no AGI with them DNNs.
+
+---
+
 Reshare 2018.
 
 "@AndrewYNg
