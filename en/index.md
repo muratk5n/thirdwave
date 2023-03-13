@@ -19,7 +19,7 @@ Reshare 2018.
 
 AI+ethics is important, but has been partly hijacked by the AGI
 (artificial general intelligence) hype. Let's cut out the AGI nonsense
-and spend more time on the urgent probles: Job loss/stagnant wages,
+and spend more time on the urgent problems: Job loss/stagnant wages,
 undermining democracy, discrimination/bias, wealth inequality"
 
 ---
