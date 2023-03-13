@@ -44,10 +44,10 @@ import from France"
 
 ---
 
-Some banks need to fail, it shows the system is taking care of bad
+Some banks need to fail, it is a sign the system is punishing bad
 management. See the plot below, \# of bank bankruptcies per year, data
-from FDIC. Notice the two years when there were **zero** bank closures.
-2005, and 2006. What happened afterwards? 🤔
+from FDIC. Notice the two years when there were **zero** bank
+closures.  2005, and 2006. What happened afterwards? 🤔
 
 ```python
 url = 'https://www.fdic.gov/bank/historical/bank/bfb-data.csv'
