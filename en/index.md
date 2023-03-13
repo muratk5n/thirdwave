@@ -1,70 +1,64 @@
 
-"@joeyh@octodon.social
+"@Floofer@mk.catgirlsfor.science
 
-[Y Combinator] posted a petition to get a goverment bailout for SVB,
-and the \#HackerNews post for it attracted so many people telling them
-to go jump in a lake that YC flagged it right off their own website"
-
----
-
-Ng is a Stanford prof, taught deep neural nets for many years. DNNs
-are okay for limited, well-defined, focused use.. But notice the
-subtext - ain't gonna get no AGI with them neural nets.
+A pizza is basically a real life pie chart that shows the amount of
+pizza left"
 
 ---
 
-Reshare 2018.
-
-"@AndrewYNg
-
-AI+ethics is important, but has been partly hijacked by the AGI
-(artificial general intelligence) hype. Let's cut out the AGI nonsense
-and spend more time on the urgent problems: Job loss/stagnant wages,
-undermining democracy, discrimination/bias, wealth inequality"
+H2 Central: "West Virginia Hydrogen Hub Coalition Applauds Appalachian
+Hydrogen Hub’s Continued Success.. Senator Manchin said: 'West
+Virginia and Appalachia have a long history of powering our great
+nation, and I am pleased the Appalachian Regional Clean Hydrogen Hub’s
+tireless efforts have been rewarded by the Department of Energy'"
 
 ---
 
-"Brookings’s Aaron Klein argued that total avoidance of bank failure is
-not necessarily a good thing, as some banks that make bad business
-model decisions deserve to fail"
+Mozilla Mastodon instance is up
 
-[[-]](https://www.brookings.edu/2023/03/10/forum-on-the-future-of-the-federal-home-loan-bank-system-highlights-from-the-brookings-and-bu-law-event/)
+[[-]](https://mozilla.social/public/local)
 
 ---
 
-"@wallstcynic
+Need to stress the approach can fail sometimes
 
-The chutzpah here beggars belief. The VC 'community' literally started
-the SIVB run on Thursday, when it urged its portfolio companies to
-pull their deposits.. which they did ($42B). And they now want the
-Taxpayer to bailout their investments…?!"
+Seeking Alpha: "1953 and 1957 [recessions], were not preceded by yield
+curve inversions. So this concept is not perfect by any means"
 
 ---
 
-Come to Butthead \#music
+"The curve" has indeed inverted (longer maturity treasuries have lower
+yield than shorter ones) which some take as a signal of recession. 
 
-[[-]](https://youtu.be/Iht77cJGRl4)
-
----
-
-I could improve the visuals, or.. I could just steal Github Pages
-template. [Boom](https://muratk5n.codeberg.page/en/).
+[[-]](2021/01/stats.html#tcurve)
 
 ---
 
-For the backup site I generate the visual pages (HTML) from raw content,
-using Python `markdown` pkg. 
+DGW Magazine: "Engine maker INNIO plans to convert a German power
+plant to 100% green hydrogen by 2035"
 
 ---
 
-H2 Central: "German hydrogen firm Thyssenkrupp Nucera (TKAG.DE) has
-seen customer interest soar in the U.S. as a result of the Inflation
-Reduction Act (IRA) and may create local production capacity with
-Italy’s De Nora (DNR.MI) if the market takes off.
+Euractiv: "Germany ‘not opposed’ to nuclear-made hydrogen, says will
+import from France"
 
-Thyssenkrupp Nucera held talks about several potential green hydrogen
-projects 'with very concrete timelines' during a trip to the United
-States last week, Chief Executive Werner Ponikwar said in an interview"
+---
+
+Some banks need to fail, it shows the system is taking care of bad
+management. See the plot below, \# of bank bankruptcies per year, data
+from FDIC. Notice the two years when there were **zero** bank closures.
+2005, and 2006. What happened afterwards? 🤔
+
+```python
+url = 'https://www.fdic.gov/bank/historical/bank/bfb-data.csv'
+df = pd.read_csv(url,parse_dates=['Closing Date'])
+df['year'] = df['Closing Date'].dt.year
+dfg = pd.DataFrame(index=range(2001,2023))
+dfg['closures'] = df.groupby('year').size()
+dfg.fillna(0).plot(grid=True)
+```
+
+<img width='340' src='mbl/2023/bank1.jpg'/> 
 
 ---
 

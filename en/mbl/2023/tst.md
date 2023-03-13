@@ -12,8 +12,6 @@ pd.set_option('display.max_columns', None)
 
 
 
-
-
 ```python
 ps = ["Kramatorsk","Bakhmut","Chasiv Yar","Soledar","Kostyantynivka","Orikhovo-Vasylivka"]
 u.sm_plot_ukr('ukrdata/fl-0304.csv','ukrdata/fl-221115.csv',
