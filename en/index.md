@@ -11,8 +11,8 @@ ship"
 
 ---
 
-That is a great quote. GP is the current, and the first left-wing
-President of Columbia, also former mayor of Bogota.
+GP is the current, and the first left-wing President of Columbia, also
+former mayor of Bogota.
 
 Gustavo Petro: "A developed country is not a place where the poor have
 cars. It's where the rich use public transportation."
