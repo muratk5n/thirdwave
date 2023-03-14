@@ -1,6 +1,69 @@
 # Week 11
 
 
+"@Floofer@mk.catgirlsfor.science
+
+A pizza is basically a real life pie chart that shows the amount of
+pizza left"
+
+---
+
+H2 Central: "West Virginia Hydrogen Hub Coalition Applauds Appalachian
+Hydrogen Hub’s Continued Success.. Senator Manchin said: 'West
+Virginia and Appalachia have a long history of powering our great
+nation, and I am pleased the Appalachian Regional Clean Hydrogen Hub’s
+tireless efforts have been rewarded by the Department of Energy'"
+
+---
+
+Mozilla Mastodon instance is up
+
+[[-]](https://mozilla.social/public/local)
+
+---
+
+Need to stress the approach can fail sometimes
+
+Seeking Alpha: "1953 and 1957 [recessions], were not preceded by yield
+curve inversions. So this concept is not perfect by any means"
+
+---
+
+"The curve" has indeed inverted (longer maturity treasuries have lower
+yield than shorter ones) which some take as a signal of recession. 
+
+[[-]](2021/01/stats.html#tcurve)
+
+---
+
+DGW Magazine: "Engine maker INNIO plans to convert a German power
+plant to 100% green hydrogen by 2035"
+
+---
+
+Euractiv: "Germany ‘not opposed’ to nuclear-made hydrogen, says will
+import from France"
+
+---
+
+Some banks need to fail, it is a sign the system is punishing bad
+management. See the plot below, \# of bank bankruptcies per year, data
+from FDIC. Notice the two years when there were **zero** bank
+closures.  2005, and 2006. What happened afterwards? 🤔
+
+```python
+url = 'https://www.fdic.gov/bank/historical/bank/bfb-data.csv'
+df = pd.read_csv(url,parse_dates=['Closing Date'])
+df['year'] = df['Closing Date'].dt.year
+dfg = pd.DataFrame(index=range(2001,2023))
+dfg['closures'] = df.groupby('year').size()
+dfg.fillna(0).plot(grid=True)
+```
+
+<img width='340' src='mbl/2023/bank1.jpg'/> 
+
+---
+
 "@joeyh@octodon.social
 
 [Y Combinator] posted a petition to get a goverment bailout for SVB,
