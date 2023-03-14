@@ -31,9 +31,9 @@ base the take on data.
 
 Previous share on AI+ethics debate is similar in spirit to AI+doomsday
 debate. In both cases the underlying assumption / message is the tech
-is *that good*. It's a good trick, sales-by-presumption. Make it sound
-like A implies B and argue as if B is already true, which telegrams A
-is a done deal. These c--suckers are always selling... 
+is *that good*. It's a good trick, sales-by-presumption. If A implies
+B develop arguments as if B is already true, which telegrams A is a
+done deal. These c--suckers are always selling...
 
 ---
 
