@@ -50,7 +50,7 @@ The first AUKUS announcement was happier, snappy, woo hoo we are on
 top of the world baby..! This one looks more sad, dour. Two of the
 three figures have low approval ratings, one is certainly on the way
 out. The war in Ukraine is not going well for the "Rules-Based Order"
-and the opposition is coaelescing.
+and the opposition is coalescing.
 
 ---
 
