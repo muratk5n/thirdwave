@@ -33,13 +33,12 @@ challenged the Arkansas law and several others like it, told me"
 
 ---
 
-*Battlestar Galactica* was good scifi - it brought back some realism
-back to the genre. It did away with "beam weapons", the ships were
-shooting physical objects at eachother.. Ships were powered by a
-*fuel*, something substantial, not "charged". The fuel was a material
-called tylium, they were mining for it, it was a physical object
-carried from one place to another - the most optimal way of carrying
-energy.
+*Battlestar Galactica* was good scifi - it brought more realism to the
+genre. It did away with "beam weapons", the ships were shooting
+physical objects at eachother.. Ships were powered by a *fuel*,
+something substantial, not "charged". The fuel was a material called
+tylium, they were mining for it, it was a physical object carried from
+one place to another - the most optimal way of carrying energy.
 
 ---
 
