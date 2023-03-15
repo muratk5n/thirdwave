@@ -27,7 +27,7 @@ French forces in Gabon, told AFP"
 Holywood's obsession with the multiverse concept is likely for
 gaslighting, distraction.. MV creates an illusion of a "multiplicity
 of options", regular citizen might be suffering in real life, but then
-goes to a movie teather watches a "multiverse movie" and starts
+goes to a movie theater watches a "multiverse movie" and starts
 feeling good about himself.. Maybe there is another him out there in a
 parallel world who is better off? Add little time travel future him
 can time travel to his old (current) self and help him (creating "new
