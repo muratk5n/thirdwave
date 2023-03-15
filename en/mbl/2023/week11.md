@@ -86,7 +86,7 @@ curve inversions. So this concept is not perfect by any means"
 "The curve" has indeed inverted (longer maturity treasuries have lower
 yield than shorter ones) which some take as a signal of recession. 
 
-[[-]](2021/01/stats.html#tcurve)
+[[-]](../../2021/01/stats.html#tcurve)
 
 ---
 
@@ -114,7 +114,7 @@ dfg['closures'] = df.groupby('year').size()
 dfg.fillna(0).plot(grid=True)
 ```
 
-<img width='340' src='mbl/2023/bank1.jpg'/> 
+<img width='340' src='bank1.jpg'/> 
 
 ---
 
