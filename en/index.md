@@ -1,23 +1,4 @@
 
-"@hollie@social.coop
-
-Picked up [son] at school and on our way to grab coffee we saw the
-best window sticker"
-
-[[-]](https://social-coop-media.ams3.cdn.digitaloceanspaces.com/media_attachments/files/110/017/855/821/117/315/small/2aeaf3eb442b578c.jpeg)
-
----
-
-Updated [da map](2022/12/ru-africa.html).
-
-Africa News: "'In 2021, when the presence of the private military
-company Wagner was increasingly intrusive in [Central African
-Republic], France considered that the conditions were no longer met
-for us to continue working for the [CAR] armed forces,'.. commander of
-French forces in Gabon, told AFP"
-
----
-
 The Atlantic: "Boycott Bans Are an Assault on Free Speech.. America
 began with boycotts. Angry about Britain’s tax raises, the historian
 T. H. Breen writes, American colonists saw their refusal to purchase
@@ -30,6 +11,16 @@ this one specific issue for special penalties—I think that really
 gives the game away that the government is trying to suppress specific
 viewpoints here,” Brian Hauss, an attorney for the ACLU, which
 challenged the Arkansas law and several others like it, told me"
+
+---
+
+Updates on [da map](2022/12/ru-africa.html).
+
+Africa News: "'In 2021, when the presence of the private military
+company Wagner was increasingly intrusive in [Central African
+Republic], France considered that the conditions were no longer met
+for us to continue working for the [CAR] armed forces,'.. commander of
+French forces in Gabon, told AFP"
 
 ---
 
@@ -46,6 +37,15 @@ H2 Central: "China Energy to Start Establishing $5,1bln Green Hydrogen
 Plant in Egypt in May"
 
 ----
+
+"@hollie@social.coop
+
+Picked up [son] at school and on our way to grab coffee we saw the
+best window sticker"
+
+[[-]](https://social-coop-media.ams3.cdn.digitaloceanspaces.com/media_attachments/files/110/017/855/821/117/315/small/2aeaf3eb442b578c.jpeg)
+
+---
 
 "@cassidoo@notacult.social
 
