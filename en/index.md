@@ -24,12 +24,17 @@ French forces in Gabon, told AFP"
 
 ---
 
-*Battlestar Galactica* was good scifi - it brought more realism to the
-genre. It did away with "beam weapons", the ships were shooting
-physical objects at eachother.. Ships were powered by a fuel,
-something substantial, not "charged". The fuel was a material called
-tylium, they were mining for it (in fact when they ran low attempting
-to get more of it was the topic of two major episodes).
+Holywood's obsession with the multiverse concept is likely for
+gaslighting, distraction.. MV creates an illusion of a "multiplicity
+of options", regular citizen might be suffering in real life, but then
+goes to a movie teather watches a "multiverse movie" and starts
+feeling good about himself.. Maybe there is another him out there in a
+parallel world who is better off? Add little time travel future him
+can time travel to his old (current) self and help him (creating "new
+branches" in the MV too bro, it's all good). So many
+options... Intoxicating. Poor person does not know where to start.  I
+guess with so many options his current sorry state is his fault, which
+could be the main point of the exercise. Psyop.
 
 ---
 
