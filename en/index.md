@@ -34,11 +34,12 @@ challenged the Arkansas law and several others like it, told me"
 ---
 
 *Battlestar Galactica* was good scifi - it brought back some realism
-to the genre. It did away with "beam weapons", the ships were shooting
-physical objects at eachother.. Ships were powered by a *fuel*,
-something substantial, not "charged". The fuel was a material called
-tylium, they were mining for it, it was a physical object carried from
-one place to another - the most optimal way of carrying energy. 
+back to the genre. It did away with "beam weapons", the ships were
+shooting physical objects at eachother.. Ships were powered by a
+*fuel*, something substantial, not "charged". The fuel was a material
+called tylium, they were mining for it, it was a physical object
+carried from one place to another - the most optimal way of carrying
+energy.
 
 ---
 
@@ -60,7 +61,7 @@ A consortium of energy companies led by BP plans to cover an expanse
 of land eight times as large as New York City with as many as 1,743
 wind turbines, each nearly as tall as the Empire State Building, along
 with 10 million or so solar panels and more than a thousand miles of
-access roads to connect them all.But none of the 26 gigawatts of
+access roads to connect them all. But none of the 26 gigawatts of
 energy the site expects to produce, equivalent to a third of what
 Australia’s grid currently requires, will go toward public
 use. Instead, it will be used to manufacture a novel kind of
