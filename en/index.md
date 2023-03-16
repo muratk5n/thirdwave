@@ -1,8 +1,8 @@
 
-"Construction sector bets on EU green buildings law as new growth
-engine.. Revamping Europe's building stock is not only expected to
-reduce energy bills and help tackle climate change, it is also widely
-supported by the construction sector, which sees a business
+Euractiv: "Construction sector bets on EU green buildings law as new
+growth engine.. Revamping Europe's building stock is not only expected
+to reduce energy bills and help tackle climate change, it is also
+widely supported by the construction sector, which sees a business
 opportunity in renovation"
 
 ---
