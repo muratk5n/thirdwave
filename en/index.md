@@ -28,7 +28,7 @@ this is a throwback to warlike times before the UN Charter"
 
 ---
 
-"Worley [uk] secures contract for East Coast Hydrogen project, Project
+"Worley [UK] secures contract for East Coast Hydrogen project, Project
 to deliver 10 GW of hydrogen into the network"
 
 ---
