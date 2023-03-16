@@ -24,12 +24,12 @@ doing for bond traders and bankers since 2009. Directing QE to the
 general public would not only be much fairer but also more effective.
 
 Suppose the new money created since 2009, instead of propping up bond
- prices, had simply been added to the bank accounts of all U.S. and 
-British households. In the U.S., $2 trillion of QE could have financed a
- cash windfall of $6,500 for every man, woman and child, or $26,000 for a
- family of four. Britain’s QE of £375 billion is worth £6,000 per head 
-or £24,000 per family. Even if only half the new money created were 
-distributed in this way, these sums would be easily large enough to 
-transform economic conditions, whether the people receiving these 
-windfalls decided to spend them on extra consumption or save them and 
-reduce debts.
+prices, had simply been added to the bank accounts of all U.S. and
+British households. In the U.S., 2 trillion dollar of QE could have
+financed a cash windfall of 6,500 dollar for every man, woman and
+child, or 26,000 dollar for a family of four. Britain’s QE of £375
+billion is worth £6,000 per head or £24,000 per family. Even if only
+half the new money created were distributed in this way, these sums
+would be easily large enough to transform economic conditions, whether
+the people receiving these windfalls decided to spend them on extra
+consumption or save them and reduce debts.

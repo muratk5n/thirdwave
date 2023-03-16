@@ -87,7 +87,7 @@ $$\frac{f'(x)}{f(x)} = \frac{g'(x)}{g(x)} - \frac{h'(x)}{h(x)}$$
 
 Moving on, trying to reach an ODE
 
-#1
+1)
 
 $$= \frac{\dot{w}}{w} + \frac{\dot{L}}{L} - \frac{\dot{Y}}{Y}$$
 
@@ -95,11 +95,11 @@ $$= \frac{\dot{w}}{w} + \frac{\dot{L}}{L} - \frac{\dot{L}}{L} - \alpha$$
 
 $$\frac{\dot{\omega}}{\omega} = \frac{\dot{w}}{w} - \alpha = \Phi(\lambda)-\alpha$$
 
-#2
+2)
 
 $$\dot{D} = I - \Pi = \kappa(1 - \omega - rd) Y - (1-\omega-rd)Y$$
 
-#3
+3)
 
 $$
 \frac{\dot{D}}{D} = \frac{ \kappa(1 - \omega - rd)}{d} 
@@ -128,7 +128,7 @@ $$
 - \frac{\kappa(1 - \omega - rd) }{v} + \delta
 $$
 
-\#3
+3)
 
 $$
 = \frac{\dot{L}}{L} - \frac{\dot{a}}{a} = \frac{\dot{L}}{L} - \beta
@@ -649,4 +649,5 @@ References
 [4] Keen, Greenwich-Kingston PhD students lecture: the logic  maths of modelling Minsky (2), http://youtu.be/0Do05hV_Iqo?t=1200
 
 [5] Octave [Code](minsky-keen-octave.zip) (based on [this](https://warwick.ac.uk/fac/soc/economics/current/modules/rm/notes1/research_methods_matlab_3.pdf) link).
+
 

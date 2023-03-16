@@ -21,14 +21,14 @@ experts, marketing staff and other professionals. The manufacturing jobs
 will become obsolete: you no longer need riveters when a product has no 
 rivets.
 
-The revolution will affect not only how things are made, but where. 
-Factories used to move to low-wage countries to curb labour costs. But 
-labour costs are growing less and less important: a $499 
-first-generation iPad included only about $33 of manufacturing labour, 
-of which the final assembly in China accounted for just $8. Offshore 
-production is increasingly moving back to rich countries not because 
-Chinese wages are rising, but because companies now want to be closer to
- their customers so that they can respond more quickly to changes in 
+The revolution will affect not only how things are made, but where.
+Factories used to move to low-wage countries to curb labour costs. But
+labour costs are growing less and less important: a 499 dollar
+first-generation iPad included only about $33 of manufacturing labour,
+of which the final assembly in China accounted for just $8. Offshore
+production is increasingly moving back to rich countries not because
+Chinese wages are rising, but because companies now want to be closer
+to their customers so that they can respond more quickly to changes in
 demand [..]
 
 Consumers will have little difficulty adapting to the new age of better 

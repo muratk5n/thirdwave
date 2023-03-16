@@ -175,7 +175,10 @@ def gen_html():
                 print ('Generating html for', f)
                 content = open(path + "/" + fmd).read()
                 res = head
-                res += markdown.markdown(content, extensions=['fenced_code'])
+                html = markdown.markdown(content, extensions=['fenced_code'])
+                html = html.replace("}<em>{","}_{")
+                html = html.replace("}</em>{","}_{")
+                res += html
                 res += bottom
                 fout = open(path + "/" + fhtml, "w")
                 fout.write(res)
