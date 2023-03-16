@@ -1,95 +1,68 @@
 
-The Atlantic: "Boycott Bans Are an Assault on Free Speech.. America
-began with boycotts. Angry about Britain’s tax raises, the historian
-T. H. Breen writes, American colonists saw their refusal to purchase
-British goods as a 'reflexive response to taxation without
-representation'..
-
-I think what’s really offensive about the anti-BDS laws in particular
-is the way that they single out not even boycotts generally, but on
-this one specific issue for special penalties—I think that really
-gives the game away that the government is trying to suppress specific
-viewpoints here,” Brian Hauss, an attorney for the ACLU, which
-challenged the Arkansas law and several others like it, told me"
+"Construction sector bets on EU green buildings law as new growth
+engine.. Revamping Europe's building stock is not only expected to
+reduce energy bills and help tackle climate change, it is also widely
+supported by the construction sector, which sees a business
+opportunity in renovation"
 
 ---
 
-Updates on [da map](2022/12/ru-africa.html).
-
-Africa News: "'In 2021, when the presence of the private military
-company Wagner was increasingly intrusive in [Central African
-Republic], France considered that the conditions were no longer met
-for us to continue working for the [CAR] armed forces,'.. commander of
-French forces in Gabon, told AFP"
+"First Truck with Dual Fuel Hydrogen-Diesel Combustion Launched in Oman"
 
 ---
 
-Holywood's obsession with the multiverse concept is likely for
-gaslighting, distraction.. MV creates an illusion of a "multiplicity
-of options", regular citizen might be suffering in real life, but then
-goes to a movie theater watches a "multiverse movie" and starts
-feeling good about himself.. Maybe there is another him out there in a
-parallel world who is better off? Add little time travel future him
-can time travel to his old (current) self and help him (creating "new
-branches" in the MV too bro, but it's all good). So many
-options... Intoxicating. Poor person does not know where to start.  I
-guess with so many options his current sorry state is his fault, which
-could be the main point of the exercise. Psyop.
+"@Hypx@mastodon.social
+
+1,000 km hydrogen pipelines are under construction in China"
 
 ---
 
-H2 Central: "China Energy to Start Establishing $5,1bln Green Hydrogen
-Plant in Egypt in May"
+"@sahra_wagenknecht@social.linksfraktion.de
 
-----
+There is an obligation under international law to \#negotiate [per
+UA/RU conflict], says ex-UN diplomat von der Schulenburg. If it is
+argued today that a \#peace can only be achieved by force of arms,
+this is a throwback to warlike times before the UN Charter"
 
-"@hollie@social.coop
-
-Picked up [son] at school and on our way to grab coffee we saw the
-best window sticker"
-
-[[-]](https://social-coop-media.ams3.cdn.digitaloceanspaces.com/media_attachments/files/110/017/855/821/117/315/small/2aeaf3eb442b578c.jpeg)
+[[-]](https://social.linksfraktion.de/@sahra_wagenknecht/109976993905729765)
 
 ---
 
-"@cassidoo@notacult.social
+Reshare 2018
 
-A wise QA dev once said, 'There is no I in team, but there is a u in
-bug'"
+"@jndevereux
+
+If owning a gun was an effective means of self-defense, your insurance
+rates would go down when you bought one. But they go up, because
+actuaries have proven that you're far, far more likely to shoot
+yourself or a family member than someone attacking you"
 
 ---
 
-NYT: "Inside the Global Race to Turn Water Into Fuel..
+\#GIF \#Trek
 
-A consortium of energy companies led by BP plans to cover an expanse
-of land eight times as large as New York City with as many as 1,743
-wind turbines, each nearly as tall as the Empire State Building, along
-with 10 million or so solar panels and more than a thousand miles of
-access roads to connect them all. But none of the 26 gigawatts of
-energy the site expects to produce, equivalent to a third of what
-Australia’s grid currently requires, will go toward public
-use. Instead, it will be used to manufacture a novel kind of
-industrial fuel: green hydrogen. This patch of desert, more than 100
-miles from the nearest town, sits next to the biggest problem that
-green hydrogen could help solve: vast iron ore mines that are full of
-machines powered by immense amounts of dirty fossil fuels. Three of
-the world’s four biggest ore miners operate dozens of mines
-here.Proponents hope green hydrogen will clean up not only mining but
-other industries by replacing fossil fuel use in steel making,
-shipping, cement and elsewhere..
+[[-]](https://mastodon.online/@davidaugust/110022399641027068)
 
-Last year, government subsidies sped up action in the European Union,
-India, Australia, the United States and elsewhere. The Inflation
-Reduction Act, the Biden administration’s landmark climate
-legislation, aims to drive the domestic cost of green hydrogen down to
-a quarter of what it is now in less than a decade through tax
-incentives and $9.5 billion in grants. 'We are about to jump from the
-starting blocks,' said Anja-Isabel Dotzenrath, who once led Germany’s
-biggest renewable energy company and now runs BP’s gas and low-carbon
-operations. 'I think hydrogen will grow even faster than wind and
-solar have.'"
+---
 
-[[-]](https://www.nytimes.com/2023/03/11/climate/green-hydrogen-energy.html)
+Feb inflation fell
+
+```
+2023-01-01  6.410147
+2023-02-01  6.035613
+```
+
+---
+
+Linus in the house. All Hail Linus 
+
+"@torvalds@social.kernel.org
+
+Random first trial post: today, March 14th, is the 29th anniversary of
+the Linux 1.0 announcement.
+
+Of course, there are other arguably more important dates in Linux
+history, but this is one of them"
 
 ---
 
