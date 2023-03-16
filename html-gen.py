@@ -187,11 +187,16 @@ def clean_html(to):
     d = to + "/tr"
     deleteDir(d)
 
-fr = os.getcwd()
-to = os.environ['HOME'] + "/Documents/repos/codeberg/pages"
 
-frdirs, todirs = copy_files_and_dirs(fr, to, ".git,.key,_layouts,_config.yml")
-os.chdir(to)
-gen_html()
+if __name__ == "__main__":
+        
+    fr = os.getcwd()
+    to = os.environ['HOME'] + "/Documents/repos/codeberg/pages"
 
-#clean_html(to)
+    if sys.argv[1] == 'html': 
+        frdirs, todirs = copy_files_and_dirs(fr, to, ".git,.key,_layouts,_config.yml")
+        os.chdir(to)
+        gen_html()
+
+    if sys.argv[1] == 'clean': 
+        clean_html(to)

@@ -28,14 +28,8 @@ this is a throwback to warlike times before the UN Charter"
 
 ---
 
-Reshare 2018
-
-"@jndevereux
-
-If owning a gun was an effective means of self-defense, your insurance
-rates would go down when you bought one. But they go up, because
-actuaries have proven that you're far, far more likely to shoot
-yourself or a family member than someone attacking you"
+"Worley [uk] secures contract for East Coast Hydrogen project, Project
+to deliver 10 GW of hydrogen into the network"
 
 ---
 
