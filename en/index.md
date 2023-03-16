@@ -17,7 +17,7 @@ opportunity in renovation"
 
 ---
 
-SW is the Die Linke "rebel" mentioned [before](mbl/2023/week06.html).
+SW is the Die Linke "rebel" mentioned [earlier](mbl/2023/week06.html).
 
 "@sahra_wagenknecht@social.linksfraktion.de
 
