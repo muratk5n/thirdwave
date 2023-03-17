@@ -19,7 +19,7 @@ opportunity in renovation"
 
 ---
 
-SW is the Die Linke "rebel" mentioned [earlier](mbl/2023/week06.html).
+SW is the Die Linke "rebel" mentioned [earlier](week06.html).
 
 "@sahra_wagenknecht@social.linksfraktion.de
 
@@ -79,7 +79,7 @@ challenged the Arkansas law and several others like it, told me"
 
 ---
 
-Updates on [da map](2022/12/ru-africa.html).
+Updates on [da map](../../2022/12/ru-africa.html).
 
 Africa News: "'In 2021, when the presence of the private military
 company Wagner was increasingly intrusive in [Central African
