@@ -43,7 +43,7 @@ in there.
 
 ---
 
-There he is, his best friend
+There he is, the best friend
 
 [[-]](mbl/2022/ejagoffcyber.jpg)
 
@@ -53,7 +53,7 @@ Peter Thiel banked there? Did you create a bank run, Focker?
 
 ---
 
-SVB was offering up to 4.5% yield on deposits before it collapsed?
+SVB was offering up to 4.5% yield on deposits before it collapsed.. Wow
 
 [[-]](https://youtu.be/uvm9qrXhqf8?t=1381)
 
