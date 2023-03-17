@@ -49,7 +49,7 @@ There he is, the best friend
 
 ---
 
-Peter Thiel banked there? Did you create a bank run, Focker?
+Peter Thiel banked there. Did you create a bank run, Focker?
 
 ---
 
