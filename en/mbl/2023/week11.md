@@ -1,6 +1,69 @@
 # Week 11
 
 
+Euractiv: "Construction sector bets on EU green buildings law as new
+growth engine.. Revamping Europe's building stock is not only expected
+to reduce energy bills and help tackle climate change, it is also
+widely supported by the construction sector, which sees a business
+opportunity in renovation"
+
+---
+
+"First Truck with Dual Fuel Hydrogen-Diesel Combustion Launched in Oman"
+
+---
+
+"@Hypx@mastodon.social
+
+1,000 km hydrogen pipelines are under construction in China"
+
+---
+
+SW is the Die Linke "rebel" mentioned [earlier](mbl/2023/week06.html).
+
+"@sahra_wagenknecht@social.linksfraktion.de
+
+There is an obligation under international law to \#negotiate [per
+UA/RU conflict], says ex-UN diplomat von der Schulenburg. If it is
+argued today that a \#peace can only be achieved by force of arms,
+this is a throwback to warlike times before the UN Charter"
+
+[[-]](https://social.linksfraktion.de/@sahra_wagenknecht/109976993905729765)
+
+---
+
+"Worley [UK] secures contract for East Coast Hydrogen project, Project
+to deliver 10 GW of hydrogen into the network"
+
+---
+
+\#GIF \#Trek
+
+[[-]](https://mastodon.online/@davidaugust/110022399641027068)
+
+---
+
+Feb inflation fell
+
+```
+2023-01-01  6.410147
+2023-02-01  6.035613
+```
+
+---
+
+Linus in the house. All Hail Linus 
+
+"@torvalds@social.kernel.org
+
+Random first trial post: today, March 14th, is the 29th anniversary of
+the Linux 1.0 announcement.
+
+Of course, there are other arguably more important dates in Linux
+history, but this is one of them"
+
+---
+
 The Atlantic: "Boycott Bans Are an Assault on Free Speech.. America
 began with boycotts. Angry about Britain’s tax raises, the historian
 T. H. Breen writes, American colonists saw their refusal to purchase

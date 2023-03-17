@@ -1,64 +1,87 @@
 
-Euractiv: "Construction sector bets on EU green buildings law as new
-growth engine.. Revamping Europe's building stock is not only expected
-to reduce energy bills and help tackle climate change, it is also
-widely supported by the construction sector, which sees a business
-opportunity in renovation"
+"@TimmermansEU@respublicae.eu
+
+RT @EUClimateAction: Renewable #Hydrogen can help us meet our climate goals.  
+ 
+Today, we have announced the European Hydrogen Bank, which will: 
+ 
+- connect supply and demand across 🇪🇺 
+
+- boost domestic uptake  
+
+- expand production internationally"
+
+<img width='340' src='https://files.respublicae.eu/media_attachments/files/110/033/531/357/536/970/original/69a47e3938517536.jpg'/>
 
 ---
 
-"First Truck with Dual Fuel Hydrogen-Diesel Combustion Launched in Oman"
+\#Assange
+
+[[-]](https://youtu.be/WJbotUgx6D8?t=131)
 
 ---
 
-"@Hypx@mastodon.social
+Tobi Morare - Starter \#music
 
-1,000 km hydrogen pipelines are under construction in China"
-
----
-
-SW is the Die Linke "rebel" mentioned [earlier](mbl/2023/week06.html).
-
-"@sahra_wagenknecht@social.linksfraktion.de
-
-There is an obligation under international law to \#negotiate [per
-UA/RU conflict], says ex-UN diplomat von der Schulenburg. If it is
-argued today that a \#peace can only be achieved by force of arms,
-this is a throwback to warlike times before the UN Charter"
-
-[[-]](https://social.linksfraktion.de/@sahra_wagenknecht/109976993905729765)
+[[-]](https://youtu.be/8M3iRaFv7TE)
 
 ---
 
-"Worley [UK] secures contract for East Coast Hydrogen project, Project
-to deliver 10 GW of hydrogen into the network"
+There are other analyses that say otherwise
+
+"French pension reform is necessary, in-depth analyses suggest the
+current scheme is unsustainable"
 
 ---
 
-\#GIF \#Trek
-
-[[-]](https://mastodon.online/@davidaugust/110022399641027068)
+Peter Thiel banked there? Did you create a bank run, Focker?
 
 ---
 
-Feb inflation fell
+SVB was offering up to 4.5% yield on deposits before it collapsed?
 
+[[-]](https://youtu.be/uvm9qrXhqf8?t=1381)
+
+---
+
+2-Year does look little better than 10-year, but not by much.. if
+bought in 2020, SVB would still be in trouble.
+
+
+```python
+df = u.get_fred(2020,['DGS2','DGS10'])
+df.tail(4); df.plot()
 ```
-2023-01-01  6.410147
-2023-02-01  6.035613
+
+```text
+            DGS2  DGS10
+DATE                   
+2023-03-10  4.60   3.70
+2023-03-13  4.03   3.55
+2023-03-14  4.20   3.64
+2023-03-15  3.93   3.51
 ```
+
+<img width='340' src='mbl/2023/treas1.jpg'/> 
 
 ---
 
-Linus in the house. All Hail Linus 
+All bond yields went up, their prices went down, so if you had to
+sell bonds at a hurry had to sell sell them at a loss.
 
-"@torvalds@social.kernel.org
+"One refrain we’ve heard lately is that Silicon Valley Bank failed
+because it took risks that turned sour. The specific kind of risk in
+the limelight right now is what’s known in financial circles as
+duration risk... The bank was flooded with deposits after the start of
+the pandemic, and it invested a large chunk of them in long-term
+government bonds and mortgage-backed securities, which paid a higher
+yield than short-term Treasuries. 'Had they invested in two years or
+less, they would have taken a much smaller hit,' he said.. Worth
+noting, SVB’s losses were only on paper — that is, until the bank
+needed to offload those bonds quickly as depositors rushed for the
+exits"
 
-Random first trial post: today, March 14th, is the 29th anniversary of
-the Linux 1.0 announcement.
-
-Of course, there are other arguably more important dates in Linux
-history, but this is one of them"
+[[-]](https://www.marketplace.org/2023/03/16/duration-risk-got-silicon-valley-bank-into-trouble/)
 
 ---
 
