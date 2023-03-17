@@ -34,6 +34,21 @@ current scheme is unsustainable"
 
 ---
 
+Platformer says Twitter is down-ranking the corporate accounts of its
+competitors, Snap, Meta, and Instagram, "tweets from these accounts
+are not recommended to users who do not follow them, and won't show up
+in their For You tab". More oversight needed? Hearings?  Or do we have
+to wait for a future "Twitter Files" to reveal the shady shit going on
+in there.
+
+---
+
+There he is, his best friend
+
+[[-]](mbl/2022/ejagoffcyber.jpg)
+
+---
+
 Peter Thiel banked there? Did you create a bank run, Focker?
 
 ---
