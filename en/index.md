@@ -85,12 +85,9 @@ can store large amounts of hydrogen gas at room temperature...
 
 Another innovation involves attaching some nanoparticles (i.e., tiny
 particles) to some plastics; this makes them hydrophobic, which means
-they won't absorb any water or moisture.
-
-When these hydrophobic plastics are in contact with water, they
-release their stored hydrogen gas (H2) and then change back into their
-hydrophilic state when the water has evaporated (hence 'hydro' meaning
-water; 'phile' meaning love or attraction to)"
+they won't absorb any water or moisture. When these hydrophobic
+plastics are in contact with water, they release their stored hydrogen
+gas (H2) and then change back into their hydrophilic state"
 
 ---
 
