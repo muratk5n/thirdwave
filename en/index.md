@@ -32,9 +32,9 @@ CERAWeek energy conference in Houston, Texas"
 
 ---
 
-I guess 'some officials' wanted to maximize the amount of bribes they
-were earning, they opened up every possible sq centimeter of the city
-to construction.
+I guess 'some city officials' wanted to maximize the amount of bribes
+they were earning, they opened up every possible square centimeter of
+the city to construction.
 
 ---
 
