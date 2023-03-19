@@ -93,10 +93,10 @@ hydrophilic state when the water has evaporated (hence 'hydro' meaning
 water; 'phile' meaning love or attraction to)"
 
 ---
+
 The stock market is still overvalued, Wilshire above 190. Levels of
-around 100 would be normal. Current levels of relatively high FED
-rates can help there. Same for housing prices. Housing is a huge part
-of CPI and PCE.
+around 100 would be normal. High FED rates can help get there. Same
+for housing prices. Housing is a huge part of CPI and PCE.
 
 [[-]](2021/01/stats.html#wilshire)
 
