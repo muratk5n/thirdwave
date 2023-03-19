@@ -45,7 +45,7 @@ in their For You tab". More oversight needed? Shady shit ..
 
 There he is, the best friend
 
-[[-]](mbl/2022/ejagoffcyber.jpg)
+[[-]](../2022/ejagoffcyber.jpg)
 
 ---
 
