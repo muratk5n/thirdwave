@@ -1,100 +1,114 @@
 
-"@TimmermansEU@respublicae.eu
-
-RT @EUClimateAction: Renewable #Hydrogen can help us meet our climate goals.  
- 
-Today, we have announced the European Hydrogen Bank, which will: 
- 
-- connect supply and demand across 🇪🇺 
-
-- boost domestic uptake  
-
-- expand production internationally"
-
-<img width='340' src='https://files.respublicae.eu/media_attachments/files/110/033/531/357/536/970/original/69a47e3938517536.jpg'/>
+"Union dues and typically hover around 1-2%. The most common structure
+sets dues as a percentage of gross earnings. If dues are 1%, workers
+pay $1 for every 100 dollar earned"
 
 ---
 
-\#Assange
-
-[[-]](https://youtu.be/WJbotUgx6D8?t=131)
-
----
-
-Tobi Morare - Starter \#music
-
-[[-]](https://youtu.be/8M3iRaFv7TE)
+Investopedia: "In 27 U.S. states, 'right to work' laws allow non-union
+members to obtain the benefits of collective bargaining by unions
+without paying union dues. The laws serve to undermine union financing
+and organizing"
 
 ---
 
-There are other analyses that say otherwise
+Democrats doing lefty things..? Hell has frozen over 😶
 
-"French pension reform is necessary, in-depth analyses suggest the
-current scheme is unsustainable"
-
----
-
-Platformer says Twitter is down-ranking the corporate accounts of its
-competitors, Snap, Meta, and Instagram, "tweets from these accounts
-are not recommended to users who do not follow them, and won't show up
-in their For You tab". More oversight needed? Shady shit ..
+Yahoo News: "Democratic lawmakers in the upper chamber of the Michigan
+Legislature voted to repeal the state’s 2012 'right-to-work' law,
+which prohibits public and private unions from requiring that nonunion
+employees pay union dues.. it is expected to be signed into law"
 
 ---
 
-There he is, the best friend
-
-[[-]](mbl/2022/ejagoffcyber.jpg)
-
----
-
-Peter Thiel banked there. Did you create a bank run, Focker?
-
----
-
-SVB was offering up to 4.5% yield on deposits before it collapsed.. Wow
-
-[[-]](https://youtu.be/uvm9qrXhqf8?t=1381)
+F24: "Push for carbon-free hydrogen accelerates in US.. A source of
+renewable and storable energy, hydrogen is experiencing a breakthrough
+in the United States after years of sluggish growth as Biden
+administration climate policies spark major investments. 'America came
+from nowhere and now they're in the lead,' Mark Hutchinson, CEO of
+Fortescue Future Industries, said of America's ascent in renewable
+energy in general and hydrogen more specifically, at last week's
+CERAWeek energy conference in Houston, Texas"
 
 ---
 
-2-Year does look little better than 10-year, but not by much.. if
-bought in 2020, SVB would still be in trouble.
+I guess 'some officials' wanted to maximize the amount of bribes they
+were earning, they opened up every possible sq centimeter of the city
+to construction.
 
+---
+
+City green spaces as percentage of land (data [source](http://www.worldcitiescultureforum.com/data/of-public-green-space-parks-and-gardens)),
 
 ```python
-df = u.get_fred(2020,['DGS2','DGS10'])
-df.tail(4); df.plot()
+import pandas as pd
+df = pd.read_csv('city_greenery.csv',sep='\t',index_col=['City'])
+df = df.sort_values('Figure')
+df['Figure'].to_csv('cities_green.txt')
 ```
 
-```text
-            DGS2  DGS10
-DATE                   
-2023-03-10  4.60   3.70
-2023-03-13  4.03   3.55
-2023-03-14  4.20   3.64
-2023-03-15  3.93   3.51
-```
+[Output](mbl/2023/cities_green.txt)
 
-<img width='340' src='mbl/2023/treas1.jpg'/> 
+Stanpoli is not doing good. 
 
 ---
 
-All bond yields went up, their prices went down, so if you had to
-sell bonds at a hurry had to sell sell them at a loss.
+"@Hy_Economy@mastodon.social
 
-"One refrain we’ve heard lately is that Silicon Valley Bank failed
-because it took risks that turned sour. The specific kind of risk in
-the limelight right now is what’s known in financial circles as
-duration risk... The bank was flooded with deposits after the start of
-the pandemic, and it invested a large chunk of them in long-term
-government bonds and mortgage-backed securities, which paid a higher
-yield than short-term Treasuries. 'Had they invested in two years or
-less, they would have taken a much smaller hit,' he said.. Worth
-noting, SVB’s losses were only on paper — that is, until the bank
-needed to offload those bonds quickly as depositors rushed for the
-exits"
+A several-year-long technical and economical assessment concluded that
+the whole German gas pipeline network is suitable for transporting
+\#hydrogen.
 
-[[-]](https://www.marketplace.org/2023/03/16/duration-risk-got-silicon-valley-bank-into-trouble/)
+This assessment included 30 types of steel used in the German network.
+
+The German Chancellor, the Economic minister and the finance minister
+have been informed about the results" via Die Welt
+
+---
+
+Future Meat, The world of meat substitutes, \#DW
+
+[[-]](https://youtu.be/5Vq03gYWiXE?t=1273)
+
+---
+
+H2 storage in carbon nanotubes
+
+[[-]](2022/02/h2-carbon-nanotubes.html)
+
+---
+
+Energy & Sustainable World: "[T]here are innovations on the horizon
+that will make large-scale production of hydrogen much more
+feasible. One such innovation is called Nanotubes. These tiny tubes
+can store large amounts of hydrogen gas at room temperature...
+
+Another innovation involves attaching some nanoparticles (i.e., tiny
+particles) to some plastics; this makes them hydrophobic, which means
+they won't absorb any water or moisture.
+
+When these hydrophobic plastics are in contact with water, they
+release their stored hydrogen gas (H2) and then change back into their
+hydrophilic state when the water has evaporated (hence 'hydro' meaning
+water; 'phile' meaning love or attraction to)"
+
+---
+The stock market is still overvalued, Wilshire above 190. Levels of
+around 100 would be normal. Current levels of relatively high FED
+rates can help there. Same for housing prices. Housing is a huge part
+of CPI and PCE.
+
+[[-]](2021/01/stats.html#wilshire)
+
+---
+
+Nasdaq and Russell have parted ways..
+
+The Russell tracks small companies, Nasdaq is tech heavy. Tech
+companies are hurting likely due to contagion fears from SVB, SB
+failures.
+
+<img width='340' src='mbl/2023/market2.jpg'/> 
 
 ---
 

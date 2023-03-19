@@ -9,6 +9,12 @@ from yahoofinancials import YahooFinancials
 from pandas_datareader import data, wb
 from io import BytesIO
 
+def get_masto_detail(host):
+    response = requests.get("https://%s/api/v1/instance" % host,  timeout=3)
+    res = json.loads(response.text) # this converts the json to a python list of dictionary
+    cd = pd.to_datetime(res['contact_account']['created_at'])
+    return res['stats']['user_count'],cd.strftime('%Y-%m-%d')
+
 def sm_plot_ukr(file,oldfile,geo,clat=48,clon=37,zoom=0.6):
     cities = json.loads(open("ukrdata/cities.json").read())
     sm_plot_ukr_base(file,geo,clat,clon,zoom)    

@@ -8,9 +8,18 @@ pd.set_option('display.max_columns', None)
 
 
 ```python
-plt.savefig('/tmp/out.jpg',quality=50)
+u.get_masto_detail("wptoots.social")
 ```
 
+```text
+Out[1]: (68, '2022-11-18')
+```
+
+
+
+```text
+Out[1]: (8211, '2023-01-11')
+```
 
 
 
