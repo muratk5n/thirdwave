@@ -36,7 +36,7 @@ live on and proper health?
 
 On another video he says 'I joined the military because I was poor".
 Military gives you a salary, food, shelter, healthcare (although puts
-u in situation that might be bad for health but anyway), why wouldn't
+u in situations that might be bad for health but anyway), why wouldn't
 he join?
 
 ---
