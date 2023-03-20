@@ -50,7 +50,7 @@ Iraq War 20th year anniversary...  Yippee-Ki-Yay mo--f--kas.
 
 ---
 
-Comment: "[Refering to [news](https://s3.masto.ai/cache/media_attachments/files/110/047/783/364/412/018/original/c6c3b68843095dba.jpg)]
+Comment: "[Referring to [news](https://s3.masto.ai/cache/media_attachments/files/110/047/783/364/412/018/original/c6c3b68843095dba.jpg)]
 The group of banks proposes that those banks that chose to
 participate in the increased deposit insurance program should pay for
 that expanded insurance themselves, through an increased
