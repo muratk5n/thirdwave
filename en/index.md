@@ -35,9 +35,9 @@ live on and a proper health insurance?
 ---
 
 On another video he says 'I joined the military because I was poor".
-Military gives you a salary, food, shelter, healthcare (although puts
-u in situations that might be bad for health but anyway), why wouldn't
-he join?
+Military gives you a salary, food, shelter, healthcare (it puts u in
+situations that might be bad for health but anyway), why wouldn't he
+join?
 
 ---
 
