@@ -24,5 +24,9 @@
 
 [Methanol](02/methanol.html)
 
+[The Grand Chessboard](03/grand-chessboard-brzezinski.html)
+
+[Isiah James, Iraq](03/isiah-james-iraq.html)
+
 [The Horse, The Wheel, and Language](03/the-horse-the-wheel-steppes-anthony.html)
 

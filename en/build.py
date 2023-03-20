@@ -14,8 +14,8 @@ if sys.argv[1] == 'week':
 
 if sys.argv[1] == 'years':
     for year in range(2020,2024):
-        os.system("echo '# %d\n' > %d/README.md" % (year,year))
-        os.system("python -u gen.py %d >> %d/README.md" % (year,year))
+        os.system("echo '# %d\n' > %d/index.md" % (year,year))
+        os.system("python -u gen.py %d >> %d/index.md" % (year,year))
 
 if sys.argv[1] == 'new-year':
     for week in range(53):

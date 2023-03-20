@@ -30,6 +30,8 @@
 
 [Boron Nitrade Powder](02/h2-boron-nitrade.html)
 
+[Carbon Nanotubes](02/h2-carbon-nanotubes.html)
+
 [Carbon Capture](02/h2-co2-capture.html)
 
 [H2 Production From Coal / CCS](02/h2-coal.html)
@@ -102,7 +104,7 @@
 
 [Dark Matter](08/dark-matter.html)
 
-[For Members](08/members.html)
+[Members, Donations](08/members.html)
 
 [Blowing the Fuse](10/grid-fuse.html)
 
