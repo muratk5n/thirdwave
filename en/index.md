@@ -42,9 +42,9 @@ City green spaces as percentage of land (data [source](http://www.worldcitiescul
 
 ```python
 import pandas as pd
-df = pd.read_csv('city_greenery.csv',sep='\t',index_col=['City'])
+df = pd.read_csv('city_green.csv',sep='\t',index_col=['City'])
 df = df.sort_values('Figure')
-df['Figure'].to_csv('cities_green.txt')
+df['Figure'].to_csv('green-out.txt')
 ```
 
 [Output](mbl/2023/cities_green.txt)
