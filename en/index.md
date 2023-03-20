@@ -47,7 +47,7 @@ df = df.sort_values('Figure')
 df['Figure'].to_csv('green-out.txt')
 ```
 
-[Output](mbl/2023/cities_green.txt)
+[Output](mbl/2023/green-out.txt)
 
 Stanpoli is not doing good. 
 
