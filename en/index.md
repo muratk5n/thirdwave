@@ -30,7 +30,7 @@ BMW to make hydrogen-fuelled cars as it admits EVs won’t work for everyone"
 Maybe another reason US estab doesn't like Medicare-for-All is it
 would hamper military recruitment for their endless wars. Who would
 sign up for the military as a grunt if everyone had enough money to
-live on and proper health insurance?
+live on and a proper health insurance?
 
 ---
 
