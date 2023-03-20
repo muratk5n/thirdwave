@@ -49,7 +49,7 @@ df = df.sort_values('Figure')
 df['Figure'].to_csv('green-out.txt')
 ```
 
-[Output](mbl/2023/green-out.txt)
+[Output](green-out.txt)
 
 Stanpoli is not doing good. 
 
@@ -76,7 +76,7 @@ Future Meat, The world of meat substitutes, \#DW
 
 H2 storage in carbon nanotubes
 
-[[-]](2022/02/h2-carbon-nanotubes.html)
+[[-]](../../2022/02/h2-carbon-nanotubes.html)
 
 ---
 
@@ -97,7 +97,7 @@ The stock market is still overvalued, Wilshire above 190. Levels of
 around 100 would be normal. High FED rates can help get there. Same
 for housing prices. Housing is a huge part of CPI and PCE.
 
-[[-]](2021/01/stats.html#wilshire)
+[[-]](../../2021/01/stats.html#wilshire)
 
 ---
 
