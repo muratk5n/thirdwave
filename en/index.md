@@ -38,7 +38,7 @@ that are obviously key for US policymakers - Eurasia, Eurasia,
 Eurasia. ZB is the architect of US help to Afghan mujaheddin against
 the Soviets during the 80s, and was the NatSec advisor to Carter.
 
-[[-]](2023/03/grand-chessboard-bzezinski.html)
+[[-]](2023/03/grand-chessboard-brzezinski.html)
 
 ---
 
