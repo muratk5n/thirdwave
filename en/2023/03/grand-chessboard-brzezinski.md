@@ -1,6 +1,6 @@
 # The Grand Chessboard
 
-
+Brzezinski
 
 The last decade of the twentieth century has witnessed a tectonic
 shift in world affairs. For the first time ever, a non-Eurasian power
