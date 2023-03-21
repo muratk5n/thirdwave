@@ -53,8 +53,8 @@ will fail — Putin"
 
 They'll do whatever your deep state requires.
 
-"ISIS could hit US, West from Afghanistan in ‘under 6 months’ [CENTCOM
-commander Genera Kurilla]"
+New York Post: "ISIS could hit US, West from Afghanistan in ‘under 6
+months’ [CENTCOM commander Genera Kurilla]"
 
 ---
 
