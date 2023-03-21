@@ -9,7 +9,7 @@ ammonia-powered vessel"
 
 ---
 
-Iran-SA rels warm, and Yemen problem improves.. Who'd have
+Iran-SA rels warm, and the Yemen problem improves.. Who'd have
 guessed. This issue always involved two sides, with Iran having bigger
 responsibility, and whining about one side alone (SA) would never
 change anything.
