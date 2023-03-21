@@ -44,7 +44,7 @@ join?
 
 Isiah James is speaking some truth
 
-[[-]](2023/03/isiah-james-iraq.html)
+[[-]](../../2023/03/isiah-james-iraq.html)
 
 ---
 
