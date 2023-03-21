@@ -28,8 +28,8 @@ would've been proud.
 
 ---
 
-Carter is one tough son of a bitch.. he is still alive isn't he?
-Sturdy mother.
+Carter is one tough son of a bitch.. he is still alive isn't he
+(medically at least)?  Sturdy mother.
 
 ---
 
