@@ -99,9 +99,10 @@ This is the Bullshit Age"
 
 ---
 
-Can't be mum on people that are on our side, always complain about
+Can't be mum on people that are on one side, always complain about
 leaders on the other side. If institutions of the "Rules-Based Order"
-are seen as taking sides, not being impartial, they'll become irrelevant.
+are seen as taking sides, not being impartial, they'll become
+irrelevant.
 
 ---
 
