@@ -6,12 +6,6 @@ the second-storey balcony to escape"
 
 ---
 
-John Hawksworth - Flash Barrier \#music
-
-[[-]](https://youtu.be/XfYfJSz4KRI)
-
----
-
 Two vloggers did it, along with pickles, worked out for them
 
 ---
