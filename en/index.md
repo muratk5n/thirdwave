@@ -31,7 +31,7 @@ real.. Then wrestling is like theater form of Holywood movie action.
 
 ---
 
-Docker software allows packing of code that needs run together in a
+Docker software allows packaging of code that needs run together in a
 neat package, all code, utilities, even the OS itself. From AWS: "
 Similar to how a virtual machine virtualizes (removes the need to
 directly manage) server hardware, containers virtualize the operating
