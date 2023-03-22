@@ -30,13 +30,6 @@ but still, there is a Reaganesque subtext.
 
 ---
 
-The latest Web standard HTML5 has the `<video>` tag; have it point to
-video file on the Web, doesn't matter where, and it will view it. If
-content creator can monetize content through other means there's
-really isn't much need for YouTube-like platforms.
-
----
-
 US pro wrestling resembles stunt work.. it's like bunch of stunt
 actors wanting to be movie stars. The fighting is likely how stunt
 actors fight except there are no camera tricks to gloss over the
