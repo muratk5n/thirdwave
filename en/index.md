@@ -24,8 +24,8 @@ A previous share on the movie *Cobra* made a paralel to the "Scorpion
 Unit" of Memphis, to that special team, outsider, specialized cop
 mentality, "the heros who do what others cannot", so forth..
 Not picking on Stallone or that particular movie, others from that era
-had similar movies too, here's an Ahnuld movie [tearing it up](https://drive.google.com/uc?export=view&id=1j6A1QsiCkng1TupKnVUaiFghrS1R8wmM),
-there are drugged out people there.. Very Reaganesque. 
+had similar movies, here's an Ahnuld movie [tearing it up](https://drive.google.com/uc?export=view&id=1j6A1QsiCkng1TupKnVUaiFghrS1R8wmM),
+there are drugged out people.. Very Reaganesque. 
 
 ---
 
