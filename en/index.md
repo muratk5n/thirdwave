@@ -85,7 +85,7 @@ they still could've taken the Cup.
 ---
 
 Aah it makes even more sense now; Messi's pro team PSG is owned by
-Qatar, that could be another reasaon why FIFA/Qatar cheated in the
+Qatar, that could be another reason why FIFA/Qatar cheated in the
 final WC game to have Argentina win with Messi its captain.
 
 ---
