@@ -6,7 +6,7 @@ the second-storey balcony to escape"
 
 ---
 
-Two vloggers did it, along with pickles, worked out for them
+Two vloggers did it, along with vegs worked out for them
 
 ---
 
