@@ -10,11 +10,11 @@ import impl as u
 ru = ["Mali","Ethiopia","Congo","South Africa","Madagascar",
       "Sudan","Uganda","Zimbabwe","Burkina Faso","Guinea",
       "Cameroon","Equatorial Guinea","Sao Tome and Principe",
-      "Niger","Algeria","Togo","Lesotho","Swaziland",
+      "Algeria","Togo","Lesotho","Swaziland",
       "Namibia","Mozambique","United Republic of Tanzania",
       "Central African Republic","Western Sahara","Central African Republic"] 
 
-us = ["Chad","Gabon","Ghana","Kenya","Rwanda", "Djibouti","Somalia",
+us = ["Chad","Gabon","Ghana","Kenya","Rwanda", "Djibouti","Somalia","Niger",
        "Democratic Republic of the Congo", "Mauritania","Lesotho",
        "Mauritius", "Angola","Nigeria","Morocco","Tunisia","Cote d'Ivoire"]
 
@@ -78,10 +78,13 @@ Russia woos Africa with arms, grain and nuclear power.
 Ethiopians hope to fight for Russia in Ukraine.
 
 [24/02/22](Kenya, Uganda uphold opposite voting stances on Russia war):
-Sudan, Ethiopia, Gabon, Guinea, Mozambique, Namibia, Angola and Algeria and Burundi abstained too.
+Sudan, Ethiopia, Gabon, Guinea, Mozambique, Namibia, Angola and Algeria
+and Burundi abstained too.
 
 [21/02/22](https://www.realcleardefense.com/articles/2022/02/21/russia_and_algeria_team_up_against_morocco_817797.html) -
 Russia and Algeria Team Up Against Morocco.. Now Russia is also
 assuming a stronger posture regarding the Western Sahara, in apparent
-cooperation with Algeria, Morocco’s long-time rival here
+cooperation with Algeria, Morocco’s long-time rival here.
 
+[23/04/18](https://www.defensenews.com/unmanned/2018/04/23/us-builds-drone-base-in-niger-crossroads-of-extremism-fight) -
+US builds drone base in Niger.

@@ -1,120 +1,106 @@
 
-H2 View: "Air Products and ENOWA to develop a hydrogen refuelling
-station in NEOM"
+Yahoo News: "Man dramatically escapes burning home after sudden e-bike
+explosion.. A house in Sydney's east went up in flames on Sunday night
+when an e-bike exploded in the garage, forcing one man to jump from
+the second-storey balcony to escape"
 
 ---
 
-H2 View: "Viridis Bulk Carriers receives Approval in Principle for
-ammonia-powered vessel"
+John Hawksworth - Flash Barrier \#music
+
+[[-]](https://youtu.be/XfYfJSz4KRI)
 
 ---
 
-Iran-SA rels warm, and the Yemen problem improves.. Who'd have
-guessed. This issue always involved two sides, with Iran having bigger
-responsibility, and whining about one side alone (SA) would never
-change anything.
-
-Al Monitor: "Yemen warring parties agree prisoner swap as peace
-efforts accelerate"
+Two vloggers did it, along with pickles, worked out for them
 
 ---
 
-Brzezinski as in Mika Brzezinski, yes, his daughter - who Trump called
-"was bleeding from the facelift" during 2016 campaign. She is married
-to "Psycho Joe" (also per Trump) Scarborough, they have a little
-shitlib talk show on MSDNC. Both are of course ardent supporters of
-endless war in Ukraine until the last Ukranian dies.  Mika's dad
-would've been proud.
+Dehydrating smoked meat.. now that's an idea
 
 ---
 
-Carter is one tough son of a bitch.. he is still alive isn't he
-(medically at least)?  Sturdy mother.
+A previous share on the movie *Cobra* made a paralel to the "Scorpion
+Unit" of Memphis, to that special team, outsider, specialized cop
+mentality, "the heros who do what others cannot", so forth..
+Not picking on Stallone or that particular movie, others from that era
+had similar movies too, see here Ahnuld 80s tough guy [tearing it up](https://drive.google.com/uc?export=view&id=1j6A1QsiCkng1TupKnVUaiFghrS1R8wmM),
+among drugged out people, who are weak.. There is some tongue-in-cheek,
+but still, there is a Reaganesque subtext.
 
 ---
 
-A quick glance at a Zybybgybdy Brzezinski book reveals three words
-that are obviously key for US policymakers - Eurasia, Eurasia,
-Eurasia. ZB is the architect of US help to Afghan mujaheddin against
-the Soviets during the 80s, and was the NatSec advisor to Carter.
-
-[[-]](2023/03/grand-chessboard-brzezinski.html)
+The latest Web standard HTML5 has the `<video>` tag; have it point to
+video file on the Web, doesn't matter where, and it will view it. If
+content creator can monetize content through other means there's
+really isn't much need for YouTube-like platforms.
 
 ---
 
-Al Jazeera: "Russia overtakes Saudi Arabia as China’s top oil supplier"
+US pro wrestling resembles stunt work.. it's like bunch of stunt
+actors wanting to be movie stars. The fighting is likely how stunt
+actors fight except there are no camera tricks to gloss over the
+make-play parts - punch that doesn't connect, fall that doesn't look
+real.. Then wrestling is like theater form of Holywood movie action.
 
 ---
 
-TASS: "NATO seeking to split Eurasia to contain Russia and China but
-will fail — Putin"
+Docker software allows packing of code that needs run together in a
+neat package, all code, utilities, even the OS itself. From AWS: "
+Similar to how a virtual machine virtualizes (removes the need to
+directly manage) server hardware, containers virtualize the operating
+system of a server"
 
 ---
 
-They'll do whatever your deep state requires.
+OSS Programmer: "Docker is deleting Open Source organisations..
+Yesterday, Docker sent an email to any Docker Hub user
+who had created an "organisation", telling them their account will be
+deleted including all images, if they do not upgrade to a paid team
+plan...
 
-New York Post: "ISIS could hit US, West from Afghanistan in ‘under 6
-months’ [CENTCOM commander Genera Kurilla]"
-
----
-
-First Post: "US continues to use Islamic State terrorists to carry out
-attacks in Syria, claims Russia"
-
----
-
-You get into conflict with US, and Daesh attacks you.. Strange
-
-Al Monitor: "The Taliban governor of Afghanistan's Balkh province,
-known for fighting against Islamic State jihadists, was killed in a
-suicide attack"
+Docker was born in Open Source. We the community were their king
+makers, and now that they're turning over significant revenue, they
+are only too ready to forget their roots"
 
 ---
 
-Green Car Congress: "JCB publicly unveiled its new port fuel injected,
-4.8L inline-four hydrogen combustion [engine](https://bioage.typepad.com/.a/6a00d8341c4fbe53ef02b7519b8300200c-pi)
-.. the company’s zero-carbon emissions solution for construction and
-agricultural equipment—at the Conexpo 2023 show in Las Vegas ... JCB
-is investing £100 million in the project to produce super-efficient
-hydrogen engines. A team of 150 engineers is working on the
-initiative and more than 50 prototypes have already been manufactured
-at JCB’s UK engine plant"
+Smitsonian Magazine: "[In Europe] Germany started testing the world’s
+first hydrogen-powered passenger trains in 2018, going on to roll out
+a fleet in 2022. The German Coradia iLint trains, also made by Alstom,
+can reach speeds of 140 miles per hour. A single tank of hydrogen can
+last for more that 600 miles. Germany’s trains are a 'model for the
+rest of the world' and 'a milestone on the road to climate neutrality
+in the transport sector,' said Stephan Weil, president of Lower
+Saxony"
 
 ---
 
-"@andrewdessler@mastodon.world
-
-From the new IPCC report. This plot seems inconsistent with the
-oft-made claim that we're on track for 2.5°C of warming this century"
-
-[[-]](https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/110/056/362/965/895/379/small/6f07ee4f64cdf80d.png)
-
----
-
-"@gregpak@mastodon.social
-
-This is no longer the Digital Age or even the Information Age.
-
-This is the Bullshit Age"
+Smitsonian Magazine: "This summer, North America’s first zero-emission
+train will start running in Canada. The hydrogen-powered Train de
+Charlevoix will run a 90-minute route between ​​Parc de la
+Chute-Montmorency, the site of an almost 300-foot waterfall located
+just outside of Québec City"
 
 ---
 
-Can't be mum on people that are on one side, always complain about
-leaders on the other side. If institutions of the "Rules-Based Order"
-are seen as taking sides, not being impartial, they'll become
-irrelevant.
+PSG was bought in 2011 apparently when Qatar was feelin' good, on top
+of the world, before it got bitchslapped back to its place, woke up to
+reality started smelling coffee... Reality bites: you can't be a
+leader with tiny-ass landmass, little population, and no symbolic
+presence in the Islamic world to speak of (a "museum" designed by
+I.M. Pei doesn't count).
 
 ---
 
-And nothing on Netanyahu..? 
-
-The Guardian: "ICC judges issue arrest warrant for Vladimir Putin over
-alleged war crimes"
+Yo the French team was *on their ass*, even with all that dubious shit
+they still could've taken the Cup.
 
 ---
 
-CNBC: "Fed poised to approve quarter-point rate hike next week,
-despite market turmoil"
+Aah it makes even more sense now; Messi's pro team PSG is owned by
+Qatar, that's likely why FIFA/Qatar cheated in the final game to have
+Argentina win with Messi its captain.
 
 ---
 
