@@ -188,6 +188,6 @@ Nasdaq and Russell have parted ways..
 The Russell tracks small companies, Nasdaq is tech heavy. Tech
 companies are hurting likely due to contagion fears from SVIB, SB.
 
-<img width='340' src='mbl/2023/market2.jpg'/> 
+<img width='340' src='market2.jpg'/> 
 
 ---
