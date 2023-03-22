@@ -11,16 +11,6 @@ ammonia-powered vessel"
 
 ---
 
-Iran-SA rels warm, and the Yemen problem improves.. Who'd have
-guessed. This issue always involved two sides, with Iran having bigger
-responsibility, and whining about one side alone (SA) would never
-change anything.
-
-Al Monitor: "Yemen warring parties agree prisoner swap as peace
-efforts accelerate"
-
----
-
 Brzezinski as in Mika Brzezinski, yes, his daughter - who Trump called
 "was bleeding from the facelift" during 2016 campaign. She is married
 to "Psycho Joe" (also per Trump) Scarborough, they have a little
