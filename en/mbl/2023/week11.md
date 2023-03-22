@@ -77,7 +77,7 @@ DATE
 2023-03-15  3.93   3.51
 ```
 
-<img width='340' src='mbl/2023/treas1.jpg'/> 
+<img width='340' src='treas1.jpg'/> 
 
 ---
 
