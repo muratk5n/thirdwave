@@ -30,7 +30,7 @@ that are obviously key for US policymakers - Eurasia, Eurasia,
 Eurasia. ZB is the architect of US help to Afghan mujaheddin against
 the Soviets during the 80s, and was the NatSec advisor to Carter.
 
-[[-]](2023/03/grand-chessboard-brzezinski.html)
+[[-]](../../2023/03/grand-chessboard-brzezinski.html)
 
 ---
 
@@ -145,7 +145,7 @@ live on and a proper health insurance?
 
 ---
 
-On another video he says 'I joined the military because I was poor".
+On another video he says "I joined the military because I was poor".
 Military gives you a salary, food, shelter, healthcare (it puts u in
 situations that might be bad for health but anyway), why wouldn't he
 join?

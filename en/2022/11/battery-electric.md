@@ -137,11 +137,11 @@ probably why such conditions are never advertised in BEV marketing.
 
 Speed
 
-Another big complaint about batteries is their Charging is slow. For
+Another big complaint about batteries is their charging is slow. For
 lion based vehicles the fastest method, known as direct current
 charger, can charge a battery up to 80 percent in 20 minutes to an
 hour which is pretty slow compared to refueling a car. And this "fast
-charging" has major downsides - it degrades the battery quicker. 
+charging" has major downsides - it degrades the battery quicker.
 
 The Grid
 
