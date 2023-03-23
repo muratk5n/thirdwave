@@ -118,6 +118,17 @@ from being fully charged.
 
 [[-]](https://mastodon.social/@JimG@toot.cat/109946177063636386)
 
+The Cold Weather Problem
+
+According to American Chemical Society, when temperatures fall below
+freezing, lion battery's electrical performance declines, and when
+conditions are cold enough, they can fail to transfer any charge. It’s
+why some people living in the U.S. Midwest have trouble with their
+electric cars in the dead of winter, and why it’s risky to use these
+batteries in space explorations. Tests show that electric cars lose
+40% of their estimated range in cold weather conditions, which is
+probably why such conditions are never advertised in BEV marketing.
+
 <a name='safety'/>
 
 ### Charging
