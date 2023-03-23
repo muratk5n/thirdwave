@@ -1,5 +1,95 @@
 # Week 12
 
+Yahoo News: "Man dramatically escapes burning home after sudden e-bike
+explosion.. A house in Sydney's east went up in flames on Sunday night
+when an e-bike exploded in the garage, forcing one man to jump from
+the second-storey balcony to escape"
+
+---
+
+Two vloggers did it, along with vegs worked out for them
+
+---
+
+Dehydrating smoked meat.. now that's an idea
+
+---
+
+A previous share on the movie *Cobra* made a paralel to the "Scorpion
+Unit" of Memphis, to that special team, outsider, specialized cop
+mentality, "the heroes who do what others cannot", so forth..
+Not picking on Stallone or that particular work, others from that era
+had similar movies, here's an Ahnuld one, tough guy [tearing it up](https://drive.google.com/uc?export=view&id=1j6A1QsiCkng1TupKnVUaiFghrS1R8wmM),
+there are drugged out people.. Very Reaganesque. 
+
+---
+
+US pro wrestling resembles stunt work.. it's like bunch of stunt
+actors wanting to be movie stars. The fighting is likely how stunt
+actors fight except there are no camera tricks to gloss over the
+make-play parts - punch that doesn't connect, fall that doesn't look
+real.. Then wrestling is like theater form of Holywood movie action.
+
+---
+
+Docker software allows packaging of code that needs run together in a
+neat package, all code, utilities, even the OS itself. From AWS: "
+Similar to how a virtual machine virtualizes (removes the need to
+directly manage) server hardware, containers virtualize the operating
+system of a server"
+
+---
+
+OSS Programmer: "Docker is deleting Open Source organisations..
+Yesterday, Docker sent an email to any Docker Hub user
+who had created an "organisation", telling them their account will be
+deleted including all images, if they do not upgrade to a paid team
+plan...
+
+Docker was born in Open Source. We the community were their king
+makers, and now that they're turning over significant revenue, they
+are only too ready to forget their roots"
+
+---
+
+Smitsonian Magazine: "[In Europe] Germany started testing the world’s
+first hydrogen-powered passenger trains in 2018, going on to roll out
+a fleet in 2022. The German Coradia iLint trains, also made by Alstom,
+can reach speeds of 140 miles per hour. A single tank of hydrogen can
+last for more that 600 miles. Germany’s trains are a 'model for the
+rest of the world' and 'a milestone on the road to climate neutrality
+in the transport sector,' said Stephan Weil, president of Lower
+Saxony"
+
+---
+
+Smitsonian Magazine: "This summer, North America’s first zero-emission
+train will start running in Canada. The hydrogen-powered Train de
+Charlevoix will run a 90-minute route between ​​Parc de la
+Chute-Montmorency, the site of an almost 300-foot waterfall located
+just outside of Québec City"
+
+---
+
+PSG was bought in 2011 apparently when Qatar was feelin' good, on top
+of the world, before it got bitchslapped back to its place, woke up to
+reality started smelling coffee... Reality bites: you can't be a
+leader with tiny-ass landmass, little population, and no symbolic
+presence in the Islamic world to speak of (a "museum" designed by
+I.M. Pei doesn't count).
+
+---
+
+Yo the French team was *on their ass*, even with all that dubious shit
+they still could've taken the Cup.
+
+---
+
+Aah it makes even more sense now; Messi's pro team PSG is owned by
+Qatar, that could be another reason why FIFA/Qatar cheated in the
+final WC game to have Argentina win with Messi its captain.
+
+---
 
 H2 View: "Air Products and ENOWA to develop a hydrogen refuelling
 station in NEOM"

@@ -1,92 +1,132 @@
 
-Yahoo News: "Man dramatically escapes burning home after sudden e-bike
-explosion.. A house in Sydney's east went up in flames on Sunday night
-when an e-bike exploded in the garage, forcing one man to jump from
-the second-storey balcony to escape"
+"At par" is the key word, par is the original value of the asset when
+it was bought, the market price is the latest price. At par SVB assets
+were fine, in "mark to market" sense they were not. BTFP loans assume
+original price, the loan still needs to paid back, but it's a way of
+shifting around of risk.
+
+FED: "[12/03] The additional funding will be made available through
+the creation of a new Bank Term Funding Program (BTFP), offering loans
+of up to one year in length to banks, savings associations, credit
+unions, and other eligible depository institutions pledging
+U.S. Treasuries, agency debt and mortgage-backed securities, and other
+qualifying assets as collateral. These assets will be valued at par"
 
 ---
 
-Two vloggers did it, along with vegs worked out for them
+H2 Central: "Verde Hydrogen, a new US based Hydrogen Technology
+company has announced that the VERDE-1000, a 5MW Single Stack
+Containerized Hydrogen Production System has passed a 3rd party test
+and certification to validate its best-in-class energy efficiency and
+performance"
+
+The fully commercialized VERDE-1000 Hydrogen Electrolyzer, with its
+modular and containerized design, is the largest 5MW, single stack,
+alkaline type water electrolysis system in the world"
 
 ---
 
-Dehydrating smoked meat.. now that's an idea
+RU,CH overseas military bases
+
+[[-]](2023/01/formil.html)
 
 ---
 
-A previous share on the movie *Cobra* made a paralel to the "Scorpion
-Unit" of Memphis, to that special team, outsider, specialized cop
-mentality, "the heroes who do what others cannot", so forth..
-Not picking on Stallone or that particular work, others from that era
-had similar movies, here's an Ahnuld one, tough guy [tearing it up](https://drive.google.com/uc?export=view&id=1j6A1QsiCkng1TupKnVUaiFghrS1R8wmM),
-there are drugged out people.. Very Reaganesque. 
+John Hawksworth - Flash Barrier \#music
+
+[[-]](https://youtu.be/icC3G0xaCQI)
 
 ---
 
-US pro wrestling resembles stunt work.. it's like bunch of stunt
-actors wanting to be movie stars. The fighting is likely how stunt
-actors fight except there are no camera tricks to gloss over the
-make-play parts - punch that doesn't connect, fall that doesn't look
-real.. Then wrestling is like theater form of Holywood movie action.
+Fox Business: "[Rick Scott said] we pay for 77,000 federal buildings
+that are empty every year. Why are we doing that? Would you do that
+with your money?  We have almost a half a trillion dollars of programs
+– that were never authorized – that the executive branch is spending
+money on."
 
 ---
 
-Docker software allows packaging of code that needs run together in a
-neat package, all code, utilities, even the OS itself. From AWS: "
-Similar to how a virtual machine virtualizes (removes the need to
-directly manage) server hardware, containers virtualize the operating
-system of a server"
+"@EUAgri@respublicae.eu
+
+\#HorizonEU call for proposals on hydrogen fuel cell technology for
+agricultural machinery. Proposals are expected to increase the
+knowledge of \#hydrogen FC technology and demonstrate systems in
+specific non-road applications"
 
 ---
 
-OSS Programmer: "Docker is deleting Open Source organisations..
-Yesterday, Docker sent an email to any Docker Hub user
-who had created an "organisation", telling them their account will be
-deleted including all images, if they do not upgrade to a paid team
-plan...
-
-Docker was born in Open Source. We the community were their king
-makers, and now that they're turning over significant revenue, they
-are only too ready to forget their roots"
+Focker's [best friend](mbl/2022/ejagoffmaxwell.jpg)'s father ran an emerald
+mine in SA didn't he? Making money of off stolen land... It is a sound system -
+if you are white.
 
 ---
 
-Smitsonian Magazine: "[In Europe] Germany started testing the world’s
-first hydrogen-powered passenger trains in 2018, going on to roll out
-a fleet in 2022. The German Coradia iLint trains, also made by Alstom,
-can reach speeds of 140 miles per hour. A single tank of hydrogen can
-last for more that 600 miles. Germany’s trains are a 'model for the
-rest of the world' and 'a milestone on the road to climate neutrality
-in the transport sector,' said Stephan Weil, president of Lower
-Saxony"
+JL Haims: "One day I heard a rumor that [Peter Thiel] defended
+apartheid (which was then still the law of the land in South Africa),
+which I found morally repugnant.. I wanted to give Peter the benefit
+of the doubt.. He said, with no facial affect, that apartheid was a
+sound economic system working efficiently, and moral issues were
+irrelevant"
+
+[[-]](https://medium.com/indian-thoughts/my-conversation-with-peter-thiel-about-apartheid-and-its-aftermath-3fdf4249b08d)
 
 ---
 
-Smitsonian Magazine: "This summer, North America’s first zero-emission
-train will start running in Canada. The hydrogen-powered Train de
-Charlevoix will run a 90-minute route between ​​Parc de la
-Chute-Montmorency, the site of an almost 300-foot waterfall located
-just outside of Québec City"
+"It’s curious to some that the bank run somehow started before SVB’s
+public announcements on March 9. It’s almost as if a number of very
+lucky folk knew a great deal about what was going on before Joe Public
+did. And the same depositors who withdrew their funds had contractual
+agreements, which required them to keep their deposits at the bank or
+face severe penalties. Somehow, these depositors were so desperate to
+yank their deposits that they willingly violated those agreements and
+sustained the penalties. I am not sure what information these
+depositors learned that caused them to act so hastily without regard
+to their agreement and breach consequences. Call me cynical but I am
+also guessing that a number of those in the know were probably selling
+a boatload of SVB stock between February 28 and the evening of March 9."
+
+[[-]](https://thesecinaction.com/)
 
 ---
 
-PSG was bought in 2011 apparently when Qatar was feelin' good, on top
-of the world, before it got bitchslapped back to its place, woke up to
-reality started smelling coffee... Reality bites: you can't be a
-leader with tiny-ass landmass, little population, and no symbolic
-presence in the Islamic world to speak of (a "museum" designed by
-I.M. Pei doesn't count).
+Green Car Congress: "Hynfra, a Polish company, has signed a framework
+cooperation agreement with Amarenco MENA, a major developer of
+renewable energy projects in the Middle East and North Africa and part
+of Amarenco Group. The strategic partnership is aimed at building
+infrastructure for the production of hydrogen and its derivatives,
+primarily ammonia, using electrolysis powered by clean energy
+resources"
 
 ---
 
-Yo the French team was *on their ass*, even with all that dubious shit
-they still could've taken the Cup.
+H2 Central: "Ports of LA, Long Beach Join State Bid to be Federal
+Hydrogen Fuel Hub"
 
 ---
 
-Aah it makes even more sense now; Messi's pro team PSG is owned by
-Qatar, that could be another reason why FIFA/Qatar cheated in the
-final WC game to have Argentina win with Messi its captain.
+RU advances compared to three weeks ago
+
+```python
+ps = ["Zalisnyanske","Orikhovo-Vasylivka","Bakhmut"]
+u.sm_plot_ukr('ukrdata/fl-2203.csv','ukrdata/fl-0304.csv', ps,clat=48.6,clon=37.8,zoom=0.04)
+```
+
+<img width='340' src='mbl/2023/ukr-4.jpg'/> 
+
+---
+
+The show had advanced AI but at that time that could be possible;
+science would've moved beyond retarded neural nets by then (which is
+the current fashion).
+
+---
+
+*Battlestar Galactica* was good scifi - it brought more realism to the
+genre. It did away with "beam weapons", the ships were shooting
+physical objects at eachother.. Ships were powered by a fuel,
+something substantial, not "charged". The fuel, "tylium", had to be
+mined (when they ran low attempting to get more was two-ep long
+adventure).
 
 ---
 
