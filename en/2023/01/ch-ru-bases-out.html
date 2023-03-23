@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_b442b61dca5040e1a2c83136405a8e4b {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_b442b61dca5040e1a2c83136405a8e4b" ></div>
+        
+</body>
+<script>    
+    
+            var map_b442b61dca5040e1a2c83136405a8e4b = L.map(
+                "map_b442b61dca5040e1a2c83136405a8e4b",
+                {
+                    center: [33.0, 40.0],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 3,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_d88519679c294bda9e07706ead25f86e = L.tileLayer(
+                "https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.jpg",
+                {"attribution": "Map tiles by \u003ca href=\"http://stamen.com\"\u003eStamen Design\u003c/a\u003e, under \u003ca href=\"http://creativecommons.org/licenses/by/3.0\"\u003eCC BY 3.0\u003c/a\u003e. Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://creativecommons.org/licenses/by-sa/3.0\"\u003eCC BY SA\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_b442b61dca5040e1a2c83136405a8e4b);
+        
+    
+            var circle_marker_44bfb8508c18486dab6ebdc240f8cf7b = L.circleMarker(
+                [40.79, 43.825],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.0, "stroke": true, "weight": 3}
+            ).addTo(map_b442b61dca5040e1a2c83136405a8e4b);
+        
+    
+            circle_marker_44bfb8508c18486dab6ebdc240f8cf7b.bindTooltip(
+                `<div>
+                     Russian 102nd Military Base
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_0cf304b91e91479a8e8ab0050b715eb5 = L.circleMarker(
+                [40.128, 44.472],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.0, "stroke": true, "weight": 3}
+            ).addTo(map_b442b61dca5040e1a2c83136405a8e4b);
+        
+    
+            circle_marker_0cf304b91e91479a8e8ab0050b715eb5.bindTooltip(
+                `<div>
+                     Russian 3624th Airbase
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_f765cea6d6cb44ad95bd3e7a00a0faf3 = L.circleMarker(
+                [54.4636, 26.778],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.0, "stroke": true, "weight": 3}
+            ).addTo(map_b442b61dca5040e1a2c83136405a8e4b);
+        
+    
+            circle_marker_f765cea6d6cb44ad95bd3e7a00a0faf3.bindTooltip(
+                `<div>
+                     Vileyka VLF transmitter
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_c3b0fd2df4a7480bb1fc18850e2dee9e = L.circleMarker(
+                [52.857, 26.481],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.0, "stroke": true, "weight": 3}
+            ).addTo(map_b442b61dca5040e1a2c83136405a8e4b);
+        
+    
+            circle_marker_c3b0fd2df4a7480bb1fc18850e2dee9e.bindTooltip(
+                `<div>
+                     Hantsavichy Radar Station
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_e493df7e1b1b4d11a1da0b56f466a720 = L.circleMarker(
+                [43.101, 40.624],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.0, "stroke": true, "weight": 3}
+            ).addTo(map_b442b61dca5040e1a2c83136405a8e4b);
+        
+    
+            circle_marker_e493df7e1b1b4d11a1da0b56f466a720.bindTooltip(
+                `<div>
+                     7th Krasnodar base
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_83ca365d29b340b990e866be971effe5 = L.circleMarker(
+                [42.39, 43.922],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.0, "stroke": true, "weight": 3}
+            ).addTo(map_b442b61dca5040e1a2c83136405a8e4b);
+        
+    
+            circle_marker_83ca365d29b340b990e866be971effe5.bindTooltip(
+                `<div>
+                     Russian 4th Military Base
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_774c01f5329b4c698447bf8d843d43aa = L.circleMarker(
+                [45.964, 63.305],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.0, "stroke": true, "weight": 3}
+            ).addTo(map_b442b61dca5040e1a2c83136405a8e4b);
+        
+    
+            circle_marker_774c01f5329b4c698447bf8d843d43aa.bindTooltip(
+                `<div>
+                     Baikonur Cosmodrome
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_bd75a92744d642e4b2267b655ac1b554 = L.circleMarker(
+                [46.383, 72.866],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.0, "stroke": true, "weight": 3}
+            ).addTo(map_b442b61dca5040e1a2c83136405a8e4b);
+        
+    
+            circle_marker_bd75a92744d642e4b2267b655ac1b554.bindTooltip(
+                `<div>
+                     Sary Shagan
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_d1ca612f3c2040438b54e35c3392282f = L.circleMarker(
+                [46.603, 74.53],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.0, "stroke": true, "weight": 3}
+            ).addTo(map_b442b61dca5040e1a2c83136405a8e4b);
+        
+    
+            circle_marker_d1ca612f3c2040438b54e35c3392282f.bindTooltip(
+                `<div>
+                     Balkhash Radar Station
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_b31c704207084f0d9406295f193d3f21 = L.circleMarker(
+                [42.853, 74.846],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.0, "stroke": true, "weight": 3}
+            ).addTo(map_b442b61dca5040e1a2c83136405a8e4b);
+        
+    
+            circle_marker_b31c704207084f0d9406295f193d3f21.bindTooltip(
+                `<div>
+                     Kant (air base)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_f230ea9f31bf4bd99c7e50631e7a4962 = L.circleMarker(
+                [46.84, 29.643],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.0, "stroke": true, "weight": 3}
+            ).addTo(map_b442b61dca5040e1a2c83136405a8e4b);
+        
+    
+            circle_marker_f230ea9f31bf4bd99c7e50631e7a4962.bindTooltip(
+                `<div>
+                     Russian forces in Moldova
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_9c854d9d37ec4830838b303fbd1de9e7 = L.circleMarker(
+                [35.411, 35.945],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.0, "stroke": true, "weight": 3}
+            ).addTo(map_b442b61dca5040e1a2c83136405a8e4b);
+        
+    
+            circle_marker_9c854d9d37ec4830838b303fbd1de9e7.bindTooltip(
+                `<div>
+                     Khmeimim Air Base
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_cbba541b25a148718f5934c7db1d9ddc = L.circleMarker(
+                [34.915, 35.874],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.0, "stroke": true, "weight": 3}
+            ).addTo(map_b442b61dca5040e1a2c83136405a8e4b);
+        
+    
+            circle_marker_cbba541b25a148718f5934c7db1d9ddc.bindTooltip(
+                `<div>
+                     Russian naval facility in Tartus
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_fa3c9047e7dd4f63a48ffa38f25570cc = L.circleMarker(
+                [34.5225, 37.629721999999994],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.0, "stroke": true, "weight": 3}
+            ).addTo(map_b442b61dca5040e1a2c83136405a8e4b);
+        
+    
+            circle_marker_fa3c9047e7dd4f63a48ffa38f25570cc.bindTooltip(
+                `<div>
+                     Tiyas Military Airbase
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_ece0dca0b6c94d549807db51e8a76b70 = L.circleMarker(
+                [34.49, 36.908889],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.0, "stroke": true, "weight": 3}
+            ).addTo(map_b442b61dca5040e1a2c83136405a8e4b);
+        
+    
+            circle_marker_ece0dca0b6c94d549807db51e8a76b70.bindTooltip(
+                `<div>
+                     Shayrat Airbase
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_b9e42c02e036424695ad052ee3115375 = L.circleMarker(
+                [38.536, 68.78],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.0, "stroke": true, "weight": 3}
+            ).addTo(map_b442b61dca5040e1a2c83136405a8e4b);
+        
+    
+            circle_marker_b9e42c02e036424695ad052ee3115375.bindTooltip(
+                `<div>
+                     Russian 201st Military Base
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_b1d363a7ee45494993198b65bae90965 = L.circleMarker(
+                [11.79819, -66.151389],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.0, "stroke": true, "weight": 3}
+            ).addTo(map_b442b61dca5040e1a2c83136405a8e4b);
+        
+    
+            circle_marker_b1d363a7ee45494993198b65bae90965.bindTooltip(
+                `<div>
+                     Military headquarters
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_54d6fc66569c4422aa4af973a410c4a8 = L.circleMarker(
+                [10.5034, 103.609],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.0, "stroke": true, "weight": 3}
+            ).addTo(map_b442b61dca5040e1a2c83136405a8e4b);
+        
+    
+            circle_marker_54d6fc66569c4422aa4af973a410c4a8.bindTooltip(
+                `<div>
+                     Ream Naval Base
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_003237b1996c4bd2926c4ed851e7c0c6 = L.circleMarker(
+                [11.5915, 43.0602],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.0, "stroke": true, "weight": 3}
+            ).addTo(map_b442b61dca5040e1a2c83136405a8e4b);
+        
+    
+            circle_marker_003237b1996c4bd2926c4ed851e7c0c6.bindTooltip(
+                `<div>
+                     Chinese PLA Support Base
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_3c429d1ebe0d4b54ba1ad70ccbe5c150 = L.circleMarker(
+                [14.1463, 93.3588],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.0, "stroke": true, "weight": 3}
+            ).addTo(map_b442b61dca5040e1a2c83136405a8e4b);
+        
+    
+            circle_marker_3c429d1ebe0d4b54ba1ad70ccbe5c150.bindTooltip(
+                `<div>
+                     Chinese Naval Intelligence Base
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_098398d7b971430e9257adf07aad2930 = L.circleMarker(
+                [37.4381, 74.9128],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.0, "stroke": true, "weight": 3}
+            ).addTo(map_b442b61dca5040e1a2c83136405a8e4b);
+        
+    
+            circle_marker_098398d7b971430e9257adf07aad2930.bindTooltip(
+                `<div>
+                     Military Base
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_28d9d92e204a4c26bc047aa290e6cb7c = L.circleMarker(
+                [9.545833, 112.8875],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.0, "stroke": true, "weight": 3}
+            ).addTo(map_b442b61dca5040e1a2c83136405a8e4b);
+        
+    
+            circle_marker_28d9d92e204a4c26bc047aa290e6cb7c.bindTooltip(
+                `<div>
+                     Unnamed Military Base
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_d4356a0bbe254088a687aff467946a64 = L.circleMarker(
+                [10.923611, 114.084722],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.0, "stroke": true, "weight": 3}
+            ).addTo(map_b442b61dca5040e1a2c83136405a8e4b);
+        
+    
+            circle_marker_d4356a0bbe254088a687aff467946a64.bindTooltip(
+                `<div>
+                     Unnamed Military Base
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_4d8de991e9f649db8c38adf41536901f = L.circleMarker(
+                [9.9, 115.53333300000001],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.0, "stroke": true, "weight": 3}
+            ).addTo(map_b442b61dca5040e1a2c83136405a8e4b);
+        
+    
+            circle_marker_4d8de991e9f649db8c38adf41536901f.bindTooltip(
+                `<div>
+                     Unnamed Military Base
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_c3667c72f79847f08c88eead01019525 = L.circleMarker(
+                [16.834444, 112.339722],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.0, "stroke": true, "weight": 3}
+            ).addTo(map_b442b61dca5040e1a2c83136405a8e4b);
+        
+    
+            circle_marker_c3667c72f79847f08c88eead01019525.bindTooltip(
+                `<div>
+                     Unnamed Military Base
+                 </div>`,
+                {"sticky": true}
+            );
+        
+</script>
