@@ -56,7 +56,7 @@ specific non-road applications"
 ---
 
 Focker's [best friend](mbl/2023/ejagoffmaxwell2.jpg)'s family ran an
-emerald mine in the apartheid SA didn't they? Making money of off
+emerald mine in apartheid SA didn't they? Making money of off
 stolen land... It is a sound system - if you are white.
 
 ---
