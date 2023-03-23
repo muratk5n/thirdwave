@@ -132,8 +132,7 @@ def crime_annual_summary(cols):
     df['rate'] = (df['crime'] / df['pop']) * 100000
     return df
 
-
-    
+        
 if __name__ == "__main__":
     #conv_xls_csv()
     get_crime_year(2022,init=True)

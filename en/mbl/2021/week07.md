@@ -84,8 +84,8 @@ follow.
 
 ---
 
-This is already known, see [link](../../0119/2016/03/life.html#unique); "life’s
-simpler building blocks are so prevalent in the universe that
+This is already known, see [link](../../0119/2016/03/arrival-of-the-fittest.html#unique);
+"life’s simpler building blocks are so prevalent in the universe that
 molecules from space may have seeded life on earth itself".
 
 "We hope to confirm life is not unique to Earth"

@@ -151,9 +151,6 @@ plt.savefig('rate2.png')
 ![](rate2.png)
 
 
-
-
-
 References
 
 [1] [FBI](https://crime-data-explorer.fr.cloud.gov/pages/docApi)

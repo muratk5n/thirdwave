@@ -1,7 +1,5 @@
 # Russian, Chinese Militaries
 
-Red: Russia, Blue: China. [Source](https://datahub.hku.hk/articles/dataset/Overseas_Military_Bases/20438805).
-
 ```python
 import pandas as pd, folium
 import impl as u
@@ -9,6 +7,7 @@ import impl as u
 
 ### Bases around the World
 
+Red: Russia, Blue: China. [Source](https://datahub.hku.hk/articles/dataset/Overseas_Military_Bases/20438805).
 
 ```python
 clat,clon=33, 40
@@ -29,4 +28,5 @@ m.save('ch-ru-bases-out.html')
 ```
 
 [Output](ch-ru-bases-out.html)
+
 
