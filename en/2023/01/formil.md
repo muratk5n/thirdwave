@@ -1,4 +1,4 @@
-# RU, CH Militaries
+# Russian, Chinese Militaries
 
 Red: Russia, Blue: China. [Source](https://datahub.hku.hk/articles/dataset/Overseas_Military_Bases/20438805).
 
