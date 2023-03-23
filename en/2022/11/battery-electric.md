@@ -128,6 +128,11 @@ electric cars in the dead of winter, and why it’s risky to use these
 batteries in space explorations. Tests show that electric cars lose
 40% of their estimated range in cold weather conditions, which is
 probably why such conditions are never advertised in BEV marketing.
+Even though it can be argued degradation due to cold weather is
+temporary with lion battery going back to its usual state once it is
+warmer with a multitude of its other usual problems not being able to
+use batteries in certain conditions limits its applicability, and
+viability as a general green solution.
 
 <a name='safety'/>
 
