@@ -118,6 +118,8 @@ from being fully charged.
 
 [[-]](https://mastodon.social/@JimG@toot.cat/109946177063636386)
 
+<a name='cold'/>
+
 The Cold Weather Problem
 
 According to American Chemical Society, when temperatures fall below
