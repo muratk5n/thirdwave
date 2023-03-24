@@ -35,7 +35,7 @@ That is likely - see [here](0119/2016/03/arrival-of-the-fittest.html)
 
 ---
 
-Adani Groups's fundamentals are strong. My guess is the long investors
+Adani Groups's fundamentals are strong. My guess is the investors
 behind Hind are "retarded ESG" types, pushing for bizarro green tech,
 not the good kind, they are likely stuck with certain bad investments
 and now using Hindenb to take out potential competitors.
@@ -51,10 +51,10 @@ funds, serving as a front for their short trades"
 ---
 
 Business Insider: "Marc Cohodes who famously predicted the collapse of
-FTX and Silvergate Capital Corporation (NYSE:SI) has more stocks to
-call out.. The mainstream media is lazy and could be co-conspirators
-in the Sam Bankman-Fried, FTX and Silvergate downfalls, the short
-seller said"
+FTX and Silvergate Capital Corporation has more stocks to call
+out.. The mainstream media is lazy and could be co-conspirators in the
+Sam Bankman-Fried, FTX and Silvergate downfalls, the short seller
+said"
 
 ---
 
