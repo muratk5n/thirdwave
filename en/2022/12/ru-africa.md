@@ -10,7 +10,7 @@ import impl as u
 ru = ["Mali","Ethiopia","Congo","South Africa","Madagascar",
       "Sudan","Uganda","Zimbabwe","Burkina Faso","Guinea",
       "Cameroon","Equatorial Guinea","Sao Tome and Principe",
-      "Algeria","Togo","Lesotho","Swaziland",
+      "Algeria","Togo","Lesotho","Swaziland","Senegal",
       "Namibia","Mozambique","United Republic of Tanzania",
       "Central African Republic","Western Sahara","Central African Republic"] 
 
@@ -70,6 +70,9 @@ non-NATO allies, according to the State Department. They are:
 Argentina, Australia, Bahrain, Brazil, Colombia, Egypt, Israel, Japan,
 Jordan, Kuwait, Morocco, New Zealand, Pakistan, the Philippines,
 Qatar, South Korea, Thailand and Tunisia.
+
+[01/07/2022](https://www.institutmontaigne.org/en/analysis/senegal-voice-africa-russian-ukrainian-crisis) -
+Senegal appears to be taking a neutral position on the conflict between Russia and Ukraine, having chosen to abstain on two consecutive votes at the United Nations following Russia's invasion
 
 [29/06/22](https://intellinews.com/russia-woos-africa-with-arms-grain-and-nuclear-power-252022/) -
 Russia woos Africa with arms, grain and nuclear power.
