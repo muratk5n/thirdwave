@@ -73,7 +73,7 @@ Senegal.. West African nation is set to become LNG exporter next year"
 
 ECP: "[10/2021] A number of world-class oil and gas discoveries took
 place in Senegal between 2014 and 2017. Oil and gas reserves worth
-more than 1 [GBOE..] of gas have been unlocked in Senegal"
+more than 1 [GBOE..] have been unlocked in Senegal"
 
 ---
 
