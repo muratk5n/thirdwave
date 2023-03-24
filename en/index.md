@@ -4,6 +4,22 @@ Talks"
 
 ---
 
+News 10: "Officials say hydrogen fuel vehicles are coming soon to New York"
+
+---
+
+GlobeNewsWire: "Hydrogen Generation Market Size to Reach $263.5
+Billion by 2027 from 160.0 Billion in 2022"
+
+---
+
+"Hydrofuel.. has now entered into an exclusive manufacturing and sales
+agreement with Technocarb Equipment.. for the manufacture and sale of
+H2 and NH3 fuel kits and conversions of hydrocarbon-fueled generators,
+engines, tractors and grain driers, etc"
+
+---
+
 H2 Central: "Bill supporting the expansion of the H2 fueling network
 have been reintroduced... The Hydrogen for Trucks Act is one of four
 bills in a newly introduced legislation package and would support the
