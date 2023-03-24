@@ -19,11 +19,10 @@ That is likely - see [here](2016/03/arrival-of-the-fittest.html)
 
 ---
 
-Adani Groups's fundamentals are strong. There is an agenda.  My guess
-is the long investors behind them are "retarded ESG" types, pushing
-for bizarro green tech, not the good kind, they are likely stuck with
-certain bad investments and now using Hinden to take out potential
-competitors.
+Adani Groups's fundamentals are strong. My guess is the long investors
+behind Hind are "retarded ESG" types, pushing for bizarro green tech,
+not the good kind, they are likely stuck with certain bad investments
+and now using Hinden to take out potential competitors.
 
 ---
 
