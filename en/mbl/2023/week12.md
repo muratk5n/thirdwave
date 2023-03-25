@@ -57,7 +57,7 @@ specific non-road applications"
 
 ---
 
-Focker's [best friend](mbl/2023/ejagoffmaxwell2.jpg)'s family ran an
+Focker's [best friend](ejagoffmaxwell2.jpg)'s family ran an
 emerald mine in apartheid SA didn't they? Making money of off
 stolen land... It is a sound system - if you are white.
 
@@ -113,7 +113,7 @@ ps = ["Zalisnyanske","Orikhovo-Vasylivka","Bakhmut"]
 u.sm_plot_ukr('ukrdata/fl-2203.csv','ukrdata/fl-0304.csv', ps,clat=48.6,clon=37.8,zoom=0.04)
 ```
 
-<img width='340' src='mbl/2023/ukr-4.jpg'/> 
+<img width='340' src='ukr-4.jpg'/> 
 
 ---
 
