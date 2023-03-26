@@ -1,6 +1,84 @@
 # Week 12
 
 
+WSJ: "Saudi Arabia, Syria Close to Resuming Ties in Russia-Brokered
+Talks"
+
+---
+
+News 10: "Officials say hydrogen fuel vehicles are coming soon to New York"
+
+---
+
+GlobeNewsWire: "Hydrogen Generation Market Size to Reach $263.5
+Billion by 2027 from 160.0 Billion in 2022"
+
+---
+
+"Hydrofuel.. has now entered into an exclusive manufacturing and sales
+agreement with Technocarb Equipment.. for the manufacture and sale of
+H2 and NH3 fuel kits and conversions of hydrocarbon-fueled generators,
+engines, tractors and grain driers, etc"
+
+---
+
+H2 Central: "Bill supporting the expansion of the H2 fueling network
+have been reintroduced... The Hydrogen for Trucks Act is one of four
+bills in a newly introduced legislation package and would support the
+demonstration of hydrogen fuel cell vehicles and the development of an
+H2 fueling station network.. reintroduced by Senators.. [Coons,
+Cornyn, Murkowski, Cassidy, Hickenlooper, Heinrich]"
+
+---
+
+That is likely - see [here](0119/2016/03/arrival-of-the-fittest.html)
+
+"Ryugu asteroid samples suggest ingredients for life came from space"
+
+---
+
+Adani Groups's fundamentals are strong. My guess is the investors
+behind Hind are "retarded ESG" types, pushing for bizarro green tech,
+not the good kind, they are likely stuck with certain bad investments
+and now using Hindenb to take out potential competitors.
+
+---
+
+There is something fishy about those guys.. Their Adani work looked
+like a hit job with an ulterior motive.
+
+"Marc Cohodes alleged that Hindenburg sources information from large
+funds, serving as a front for their short trades"
+
+---
+
+Business Insider: "Marc Cohodes who famously predicted the collapse of
+FTX and Silvergate Capital Corporation has more stocks to call
+out.. The mainstream media is lazy and could be co-conspirators in the
+Sam Bankman-Fried, FTX and Silvergate downfalls, the short seller
+said"
+
+---
+
+*Gunfight at Rio Bravo* - a Western movie with a Russian guy as the
+hero. Historicaly a Russki soldier, Ivan Turchin did exist, dude
+emigrated to US and even fought in the Civil War. Lincoln made him a
+general! Fascinating history.
+
+---
+
+Bloomberg: "[9/2022] Europe Optimal Market for Senegal’s Gas, [says]
+President.. Poland, Germany keen to buy liquefied natural gas from
+Senegal.. West African nation is set to become LNG exporter next year"
+
+---
+
+ECP: "[10/2021] A number of world-class oil and gas discoveries took
+place in Senegal between 2014 and 2017. Oil and gas reserves worth
+more than 1 [GBOE..] have been unlocked in Senegal"
+
+---
+
 "At par" is the key word, par is the original value of the asset when
 it was bought, the market price is the latest price. At par SVB assets
 were fine, in "mark to market" sense they were not. BTFP loans assume
