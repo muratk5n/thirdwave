@@ -12,7 +12,7 @@ for.. both solid oxide fuel cells (SOFC) and electrolyzers"
 
 ---
 
-"Ben" has interesting some observations on crypto land.. 
+"Ben" has some interesting observations on crypto land..
 
 Prospect: "Signature Bank had reinvented itself as one of the
 crypto-friendliest banks in America, possibly to offset an unusual
