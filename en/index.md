@@ -68,7 +68,7 @@ American complains "women cannot go to school in Afghanistan". You
 lost your chance to improve that country when u failed to switch AFG
 agro from [ophium to cotton](2023/01/little-america-chandrasekaran.html).
 Livelihood trumps school. Improvement in livelihood could pave the way
-for more changes. Now you are gone, and oppo kicked your ass on the way out.
+for more changes. Now you are out, and oppo kicked your ass on the way out.
 Why constantly whine about it?
 
 ---
