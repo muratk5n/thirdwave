@@ -17,7 +17,16 @@ Research Engineer at the Hydrogen Energy Laboratory of UrFU.
 
 ---
 
-Prospect: "[I]t’s a uniquely American feature of political and
+"Ben" has interesting some observations on crypto land.. 
+
+Prospect: "Signature Bank had reinvented itself as one of the
+crypto-friendliest banks in America, possibly to offset an unusual
+slump in its previous client base, the New York City landlord
+class. But while the big bet had shrunk its stock price, Signature
+seemed to have weathered Crypto Winter all right until a hysterical
+billionaire bank run took out Silicon Valley Bank on March 10
+
+[I]t’s a uniquely American feature of political and
 financial crises that the characters our systems hold accountable for
 their bottomless supply of elaborate malfeasance seem always to lean
 toward the implausibly clownish. A conspicuously impaired 22-year-old
@@ -34,17 +43,6 @@ blockchain. Yes, SBF is behind bars, but.. billionaires who
 shamelessly shilled for so many other interconnected
 cash-for-counterfeit schemes just orchestrated a $42 billion bank run
 and were instantly rewarded with an unprecedented bailout"
-
----
-
-"Ben" has interesting some observations on crypto land.. 
-
-Prospect: "Signature Bank had reinvented itself as one of the
-crypto-friendliest banks in America, possibly to offset an unusual
-slump in its previous client base, the New York City landlord
-class. But while the big bet had shrunk its stock price, Signature
-seemed to have weathered Crypto Winter all right until a hysterical
-billionaire bank run took out Silicon Valley Bank on March 10"
 
 [[-]](https://prospect.org/economy/2023-03-23-rich-bank-dumb-bank-signature/)
 
