@@ -44,14 +44,7 @@ crypto-friendliest banks in America, possibly to offset an unusual
 slump in its previous client base, the New York City landlord
 class. But while the big bet had shrunk its stock price, Signature
 seemed to have weathered Crypto Winter all right until a hysterical
-billionaire bank run took out Silicon Valley Bank on March 10.
-Following a relentless weekend lobbying campaign led by Twitter’s most
-insufferable rich guys, bank regulators announced they would be
-invoking—with noxious irony, given that SVB had just five years
-earlier successfully won its emancipation from a litany of bank
-regulations on the premise that it was not systemically important—the
-'systemic risk' exception to guarantee Silicon Valley’s uninsured
-depositors"
+billionaire bank run took out Silicon Valley Bank on March 10"
 
 [[-]](https://prospect.org/economy/2023-03-23-rich-bank-dumb-bank-signature/)
 
