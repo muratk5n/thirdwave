@@ -220,14 +220,10 @@ Could not resist...
 
 No problem. There is apathy towards her on my side, some use her as a
 anti-war-bludgeon which is fine, but there are other issues as well
-that she is not too vocal about. Plus she hasn't passed a barrier, the
-kinda attention that gets you more attention, until then u r kinda
-stealing from Bernie, aren't you? Not good. Some f---in weirdos around
-her too, like that Niko whathisface, with karaze consp. theories..
-
-All that leads to apathy so it's like "why do I care?". The answer
-needs to be positive, in a big way, bcz this is abt the executive and
-politics is more than issues, it's about a leader.
+that she is not too vocal about. All that leads to apathy so it's like
+"why do I care?". The answer needs to be positive, in a big way, bcz
+this is abt the executive and politics is more than issues, it's about
+a leader.
 
 "What is the left’s problem with Tulsi Gabbard?"
 
