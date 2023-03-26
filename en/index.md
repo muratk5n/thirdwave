@@ -4,14 +4,9 @@ Federal University..  have created a promising material for hydrogen
 energy devices. The new material has high proton conductivity and
 unusual properties (depending on the degree of doping). It can be used
 as an electrolyte (at high doping levels) and as an electrode (at low
-doping levels) in solid oxide fuel cells and electrolyzers..
-
-This allows these materials to be used as electrodes for the same
-electrochemical devices, both solid oxide fuel cells (SOFC) and
-electrolyzers. This opens up wide possibilities for applications in
-electrochemical converters, in particular for oxygen-, hydrogen- and
-water-permeable membranes," explains Georgy Starostin, co-author and
-Research Engineer at the Hydrogen Energy Laboratory of UrFU.
+doping levels) in solid oxide fuel cells and electrolyzers.. This
+allows these materials to be used as electrodes for.. both solid oxide
+fuel cells (SOFC) and electrolyzers"
 
 [[-]](https://www.sflorg.com/2023/03/chm03232303.html?m=1)
 
