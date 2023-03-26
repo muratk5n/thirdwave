@@ -76,7 +76,8 @@ Why constantly whine about it?
 That whole "Taiwan is so close to China" observation (suggesting they
 can invade easily) was probably to argue that he didn't want to defend
 Taiwan, strategically speaking. Factually, US *could* help defend
-China even with the proximity problem.
+China even with the proximity problem. People in politics can change
+facts to argue an opinion sometimes, DJT more than others.
 
 ---
 
