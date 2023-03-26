@@ -24,7 +24,7 @@ crypto-friendliest banks in America, possibly to offset an unusual
 slump in its previous client base, the New York City landlord
 class. But while the big bet had shrunk its stock price, Signature
 seemed to have weathered Crypto Winter all right until a hysterical
-billionaire bank run took out Silicon Valley Bank on March 10
+billionaire bank run took out Silicon Valley Bank on March 10...
 
 [I]t’s a uniquely American feature of political and
 financial crises that the characters our systems hold accountable for
