@@ -43,14 +43,14 @@ and were instantly rewarded with an unprecedented bailout"
 
 ---
 
-This word became prevalent with the US deep state project ISIS which
-called itself "a worldwide caliphate" which tells you what the shadowy
-figures in the dark corners of US policy want to happen in the Islamic
-world. They would like to have a Caliphate which they could influence,
-the label could be used as a wrecking ball, hit one goverment or the
-other when they disagree, manufacture managed chaos which then could
-further be utilized as a pretext for operations "to bring democracy"
-there.
+This word became prevalent with the US deep state project ISIS who
+called themselves "a worldwide caliphate" which tells you what the
+shadowy figures in the dark corners of US policy want to happen in the
+Islamic world. They would like to have a Caliphate which they could
+influence, the label could be used as a wrecking ball, hit one
+goverment or the other when they disagree, manufacture managed chaos
+which then could further be utilized as a pretext for operations "to
+bring democracy" there.
 
 ---
 
