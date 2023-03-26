@@ -57,7 +57,7 @@ bring democracy" there.
 An official Caliph no longer exists; the title was abolished when the
 last Ottoman mucker holding it was stripped of it, and later the royal
 family fled from Stanpoli to UK en masse anyway (to UK, interesting
-isn't it?). Saudia Arabia is not a caliphate, they are the keepers of
+isn't it?). Saudi Arabia is not a caliphate, they are the keepers of
 the holy sites, but SA ruler is not a caliph. Neither is the Egyptian
 head of gov, or UAE, or even Jordan (where the current king is a
 descendant of Mohammad).
