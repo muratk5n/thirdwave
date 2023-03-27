@@ -38,10 +38,8 @@ in the next two years"
 Formulation, theory requires more than "functions". In materials
 science a steel beam under stress has the displacement formula
 $E I \frac{d^4 y}{d X_1^4} = q$, a fourth order dif eq, tha ain't a
-function. When solved w given cond result is a function, and a
-different one for each condition; all from the same base formula.
-Where is the such sleek representation of AI? Nowhere to be found.
-All you hear about is monkey neural nets. 
+function. When solved w given cond result is one, and a different
+one for each condition; all from the same base formula. 
 
 ---
 
