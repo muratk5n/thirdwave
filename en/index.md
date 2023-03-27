@@ -13,11 +13,11 @@ with 197th appearance for Portugal"
 ---
 
 The inflation of faux ethnic "heritage" or PC identities help alienate
-the common man from the rest; they want your being chopped up into
-tiniest little pieces so it will be impossible for you to identify
-with a fellow citizen, and especially with the plight of the common
-man or woman. The further away the system makes one from the masses,
-in mentality, in general feeling, the better off they are.  Fellow
+the common man from the rest; they want your chopped up into tiniest
+little pieces so it will be impossible for you to identify with a
+fellow citizen, and especially with the plight of the common man or
+woman. The further away the system makes one from the masses, in
+mentality, in general feeling, the better off they are.  Fellow
 citizen is one paycheck away from bankruptcy but shitlib looks at him
 and thinks 'does he identify as non-binary, genderqueer, metrosexual?
 Is he Estonian / Scottish, Scottish / Italian, she/him/they, Polish /
