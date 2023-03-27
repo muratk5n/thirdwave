@@ -22,7 +22,7 @@ citizen is one paycheck away from bankruptcy but shitlib looks at him
 and thinks 'does he identify as non-binary, genderqueer, metrosexual?
 Is he Estonian / Scottish, Scottish / Italian, she/him/they, Polish /
 Eskimo / Whateverfuck? All these labels create artificial obstacles
-for relating.. which is the aim.
+for relating.. which likely is the aim.
 
 ---
 
