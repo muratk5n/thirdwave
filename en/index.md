@@ -43,14 +43,14 @@ one for each condition; all from the same base formula.
 
 ---
 
-There've been some clumsy attempts to create "theoretical basis of AI"
-I remember one proof that equated learning with compression - if one
-cld compress certain data one can learn that data. But, the way they
-defined learning (they called "PAC learning") was such that naturally
-compression would be the obvious answer, which isn't that interesting
-at all. You assume inputs, outputs and a "function" in between, what
-the flack else could be the outcome? A smaller representation in terms
-of a function, which is, compression.
+There has been some clumsy attempts to create "theoretical basis of
+AI" I remember one proof that equated learning with compression - if
+one cld compress certain data one can learn that data. But, the way
+they defined learning (they called "PAC learning") was such that
+naturally compression would be the obvious answer, which isn't that
+interesting at all. You assume inputs, outputs and a "function" in
+between, what the flack else could be the outcome? A smaller
+representation in terms of a function, which is, compression.
 
 ---
 
