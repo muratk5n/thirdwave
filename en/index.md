@@ -21,7 +21,7 @@ in mentality, in general feeling, the better off they are.  Fellow
 citizen is one paycheck away from bankruptcy but shitlib looks at him
 and thinks 'does he identify as non-binary, genderqueer, metrosexual?
 Is he Estonian / Scottish, Scottish / Italian, she/him/they, Polish /
-Eskimo / Whateverfuck? All these labels create artificial obstacles
+Eskimo / Whateverfuck?' All these labels create artificial obstacles
 for relating.. which likely is the aim.
 
 ---
