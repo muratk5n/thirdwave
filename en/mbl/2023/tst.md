@@ -7,32 +7,7 @@ pd.set_option('display.max_columns', None)
 ```
 
 
-```python
-u.boxofficemojo("Terminator Dark Fate")
-```
 
-```text
-Out[1]: 
-{'Domestic Opening': '$29,033,832',
- 'Domestic': '$62,253,077',
- 'International': '$198,866,215',
- 'Worldwide Total': '$261,119,292',
- 'Release Date': 'October 23, 2019'}
-```
-
-
-```python
-u.boxofficemojo("Shazam 2")
-```
-
-```text
-Out[1]: 
-{'Domestic Opening': '$30,111,158',
- 'Domestic': '$38,956,765',
- 'International': '$34,600,000',
- 'Worldwide Total': '$73,556,765',
- 'Release Date': 'March 15, 2023'}
-```
 
 
 

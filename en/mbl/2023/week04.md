@@ -439,7 +439,7 @@ global heating"
 
 ---
 
-Latest
+Latest, data from [here](https://www.cbp.gov/document/stats/southwest-land-border-encounters)
 
 ```python
 u.sw_border_encounter('2022-Oct/sbo-encounters-fy19-fy22.csv')
