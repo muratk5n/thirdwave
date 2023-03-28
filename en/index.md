@@ -19,12 +19,6 @@ fundamental level.
 
 ---
 
-The Cold Weather Problem \#lion
-
-[[-]](2022/11/battery-electric.html#cold)
-
----
-
 Argonne National Laboratory: "We are investigating automotive fuel
 cells and hydrogen storage systems in support of activities in the
 U.S. Department of Energy, Office of Energy Efficiency and Renewable
