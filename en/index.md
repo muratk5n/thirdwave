@@ -53,7 +53,7 @@ residence half a mile away from a Pak military training academy.
 
 Sailfish OS works on Xperia 10 II? Sweet
 
-<img width='250' src='https://blog.jolla.com/content/uploads/2021/05/featurehighlights.jpg'/> 
+<img width='340' src='https://blog.jolla.com/content/uploads/2021/05/featurehighlights.jpg'/> 
 
 [[-]](https://mastodon.social/@flypig/110100252737389417)
 
