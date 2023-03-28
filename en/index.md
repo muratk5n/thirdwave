@@ -32,9 +32,9 @@ Energy (DOE-EERE), Fuel Cell Technologies Office (FCTO)"
 
 ---
 
-2011 was a good time to do it, they gave that success to a "black
-President" whose orders to assasinate (an Arab) would be more
-palatable in terms of P.R. 
+2011 was a good time to do it, they gave that success to the black
+President whose orders to assasinate (an Arab) would be more palatable
+in terms of P.R.
 
 ---
 
