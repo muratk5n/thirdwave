@@ -25,7 +25,7 @@ emitting harmful pollutants into the atmosphere"
 
 ---
 
-The Cold Weather Problem \#lion
+The Cold Weather Problem \#lion \#batteries
 
 [[-]](2022/11/battery-electric.html#cold)
 
