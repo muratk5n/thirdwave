@@ -49,15 +49,15 @@ Netan has always been a status quo handling inconsequential middle
 manager, like many others in his generation. The one time he did
 something substantial albeit foolish, as with judicial reform, the
 whole thing blew up in his face. He won't go down in history as..
-anything really; He'll get the muck out at some point and noone will
-care.
+anything really; He'll get the muck out at some point when he does and
+noone will care.
 
 ---
 
 Al Monitor: "Winners, losers emerge after Israel’s Netanyahu suspends
 judicial overhaul.. Prime Minister Benjamin Netanyahu, the
 ultra-Orthodox parties and even the IDF are on the side of the losers
-now that the judicial overhaul has been postponed
+now that the judicial overhaul has been postponed"
 
 ---
 
