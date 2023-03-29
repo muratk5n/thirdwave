@@ -130,5 +130,3 @@ Also on
 [Mastodon](https://masto.ai/@muratk3n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
-
-test
