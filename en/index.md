@@ -32,7 +32,7 @@ in terms of P.R.
 
 ---
 
-The left hand, and right hand..  One does not know the other. But
+The left hand, and the right hand..  One does not know the other. But
 sometimes, the right hand can leave bread crums for left hand to find,
 to force action on a certain problem.. Through friends in Pakistani
 ISI US deep state knew where Bin Laden was kept. It's all about
@@ -77,7 +77,7 @@ electricity to power battery EVs"
 
 ---
 
-"Hydrogen Economy@Hy_Economy@mastodon.social
+"@Hy_Economy@mastodon.social
 
 Snam, an Italian gas midstream company, plans to transport the
 \#hydrogen from Africa to Austria in Germany via pipeline.  They plan
