@@ -1,87 +1,88 @@
 
-Attempting to coexist with an existing fiat system invites undue
-problems for both sides; new money's selling point will be freer,
-easier exchange and that invites crime, money laundering. Over years
-old fiat added all sorts of safeguards, which the Wild West of the new
-threatens to run roughshod over burning big and small users, something
-old fiat gov cannot ignore (ppl vote). When mildly integrated into the
-old, the new is a speculation plaything, pushing it away from its
-original mission. Lose-lose all around.
+Yicai Global: "[Chinese carmaker] Haima, Toyota to Jointly Promote
+Hydrogen Cars in China.. The two companies will use China’s southern
+Hainan province as a testing ground, Haikou-based Haima said.. Toyota
+Motor China Investment will bring mature components and systems, such
+as Toyota Mirai’s [engine] to Haima models, complete vehicle
+adaptation development, and conduct tests with Haima’s self-built
+hydrogen supply system and travel network, it added."
 
 ---
 
-Money is inextricably tied to politics / governance. There is no
-"politics free money". Unlike what some naive libertarians seem to
-think even gold was tied to a system - [kings made it possible](0119/2011/11/debt-religions-money.html), 
-without them there would be no gold currency. Therefore, hard to change
-currency (ie to crypto) without changing governance, at a
-fundamental level.
+"Russia starts Yars intercontinental ballistic missile drills"
 
 ---
 
-Argonne National Laboratory: "We are investigating automotive fuel
-cells and hydrogen storage systems in support of activities in the
-U.S. Department of Energy, Office of Energy Efficiency and Renewable
-Energy (DOE-EERE), Fuel Cell Technologies Office (FCTO)"
+H2 Central: "Varennes Carbon Recycling or commonly referred to as VCR,
+a leading provider of green hydrogen solutions, has announced that it
+has selected Accelera by Cummins to manufacture and supply a 90MW
+electrolyzer system for its biofuel plant in Quebec.. VCR’s biofuel
+plant will take non-recyclable waste material from households and
+businesses and convert it into usable fuel through an innovative
+process developed by the company. The fuel created from this process
+can then be used for powering cars, trucks or other vehicles without
+emitting harmful pollutants into the atmosphere"
 
 ---
 
-2011 was a good time to do it, they gave that success to the black
-President whose orders to assasinate (an Arab) would be more palatable
-in terms of P.R.
+The Cold Weather Problem \#lion
+
+[[-]](2022/11/battery-electric.html#cold)
 
 ---
 
-The left hand, and the right hand..  One does not know the other. But
-sometimes, the right hand can leave bread crums for left hand to find,
-to force action on a certain problem.. Through friends in Pakistani
-ISI US deep state knew where Bin Laden was kept. It's all about
-information. Once you know that location, you sit on it, and you own
-his ass. Then, at the right time, the "invisible hand" will release
-the info where it can be "discovered" by the other hand because it is
-obvious what they will do with that information, attempt to kill Bin
-Laden, which they did. As most know by now BL was killed at a
-residence half a mile away from a Pak military training academy.
+The Verge: "Disney reportedly eliminates metaverse division in first
+round of layoffs"
 
 ---
 
-Sailfish OS works on Xperia 10 II? Sweet
-
-<img width='340' src='https://blog.jolla.com/content/uploads/2021/05/featurehighlights.jpg'/> 
-
-[[-]](https://mastodon.social/@flypig/110100252737389417)
+H2 Fuel News: "Chile's top steel producer CAP to develop green
+hydrogen plant to decarbonize steel production in Chile"
 
 ---
 
-"@ahau@tribe.net
-
-.. A typical EV contains more toxic electronic components than a
-couple of desktop computers. A typical small EV is run by over 1000lb
-of toxic and carcinogenic lithium battery which is very expensive to
-recycle and hence will never be 100% recycled"
+H2 Central: "Green Hydrogen to Flow from Denmark to Germany from 2028"
 
 ---
 
-GreenBiz: "[T]he lithium-ion batteries used in BEVs are expected to
-cause a serious environmental crisis when they reach the end of their
-useful lives..  Several studies, including one by Argonne National
-Laboratory, have demonstrated that creating and using hydrogen for
-fuel cell vehicles is more environmentally friendly than using grid
-electricity to power battery EVs"
+Netan has always been a status quo handling inconsequential middle
+manager, like many others in his generation. The one time he did
+something substantial albeit foolish, as with judicial reform, the
+whole thing blew up in his face. He won't go down in history as..
+anything really; He'll get the muck out at some point and noone will
+care.
 
 ---
 
-"Europe is Leading The World in Hydrogen-Derived Green Steel"
-
-[[-]](https://hydrogen-central.com/europe-leading-world-hydrogen-derived-green-steel-ryze-hydrogen/)
+Al Monitor: "Winners, losers emerge after Israel’s Netanyahu suspends
+judicial overhaul.. Prime Minister Benjamin Netanyahu, the
+ultra-Orthodox parties and even the IDF are on the side of the losers
+now that the judicial overhaul has been postponed
 
 ---
 
-"@Hy_Economy@mastodon.social
+Al Monitor: "Israel's Netanyahu backs down, pauses judicial overhaul
+in face of protests"
 
-Snam, an Italian gas midstream company, plans to transport the
-\#hydrogen from Africa to Austria in Germany via pipeline.  They plan
-up to 1.7 million tons per year"
+---
+
+Hindustan Times: "China’s Xi, Saudi’s Salman laud each other for peace
+talks with Iran"
+
+---
+
+Heard it on a MacGregor podcast; Zelensky grew up speaking Russian,
+learned Ukranian much later.. It is interesting. Apparently he
+mispronounces "Bakhmut" all the time.
+
+---
+
+Op India: "Following west’s financial sanctions on Russia, Indonesia
+to phase out Visa and Mastercard, reduce dependence on western payment
+systems.. In a move that could have significant implications for
+businesses operating in Indonesia and the visitors there, President
+Joko Widodo has announced that the country will gradually phase out
+the use of Visa and Mastercard"
 
 ---
 
