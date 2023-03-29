@@ -26,53 +26,6 @@ Name: Close, dtype: float64
 
 ![](oil.png)
 
-<a name='worldoil'/>
-
-### World Oil Production
-
-Million barrels a day
-
-```python
-df = u.get_eia("INTL.57-1-WORL-TBPD.M");
-df = df[df.index > '2000-01-01'] / 1000.0
-df.plot(); plt.savefig('worldoil.png')
-print (df.tail(4))
-```
-
-```text
-Date
-2022-07-01    80.298959
-2022-08-01    81.359713
-2022-09-01    81.694714
-2022-10-01    81.789089
-Name: 1, dtype: float64
-```
-
-![](worldoil.png)
-
-### Opec Oil Production
-
-Million barrels a day
-
-```python
-df = u.get_eia("STEO.COPR_OPEC.M"); df.plot()
-plt.savefig('opec.png')
-print (df.tail(4))
-```
-
-```text
-Date
-2022-11-01    28.740000
-2022-12-01    28.830000
-2023-01-01    28.295000
-2023-02-01    28.668528
-Name: 1, dtype: float64
-```
-
-![](opec.png)
-
-<a name="oilreserves"></a>
-
 ### World Oil Reserves
 
 Data from [BP](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy/downloads.html).
@@ -303,45 +256,6 @@ Electricity 17.06 %
 Total
 
 2646.55 GW
-```
-
-### US Retail Gasoline Prices
-
-```python
-df = u.get_eia_week("PET.EMM_EPM0_PTE_NUS_DPG.W")
-print (df.tail(4))
-```
-
-```text
-            Value
-Date             
-2023-01-23  3.519
-2023-01-30  3.594
-2023-02-06  3.552
-2023-02-13  3.502
-```
-
-<a name='gasolineState'/>
-
-### US Retail Gasoline Prices per State
-
-```python
-states = \
-[("PET.EMM_EPM0_PTE_SCA_DPG.M","CA"),
- ("PET.EMM_EPM0_PTE_STX_DPG.M","TX"),
- ("PET.EMM_EPM0_PTE_SFL_DPG.M","FL"),
- ("PET.EMM_EPM0_PTE_SNY_DPG.M","NY")]
-retail = [ (s[1],float(u.get_eia(s[0]).tail(1))) for s in states]
-dfs = pd.DataFrame(retail); dfs.columns = ['state','price']
-print (dfs)
-```
-
-```text
-  state  price
-0    CA  4.368
-1    TX  3.026
-2    FL  3.403
-3    NY  3.483
 ```
 
 <a name='lng'/>
