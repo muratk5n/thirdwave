@@ -4,8 +4,8 @@ Southeast Asia with Europe in lesser time than Suez, Panama canals"
 
 ---
 
-"We're halfway to a tipping point that would trigger 6 feet of sea
-level rise from melting of the Greenland Ice Sheet"
+CNBC: "We're halfway to a tipping point that would trigger 6 feet of
+sea level rise from melting of the Greenland Ice Sheet"
 
 ---
 
