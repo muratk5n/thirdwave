@@ -45,10 +45,9 @@ corridors"
 KC is pro-H2? That's good.. Then forget Nostrodamus, no abdication
 
 Politico: "Charles also used his [DE] address to return to a pet theme
-— climate change..  'Today, the United Kingdom and Germany are
-Europe’s two largest producers of power from offshore wind … Our
-countries are both accelerating the expansion of our hydrogen
-economies, the fuel which could transform our future,' the king said"
+— climate change..  'Our countries are both accelerating the expansion
+of our hydrogen economies, the fuel which could transform our future,'
+the king said"
 
 ---
 
