@@ -1,5 +1,93 @@
 # Week 13
 
+
+Yicai Global: "[Chinese carmaker] Haima, Toyota to Jointly Promote
+Hydrogen Cars in China.. The two companies will use China’s southern
+Hainan province as a testing ground, Haikou-based Haima said.. Toyota
+Motor China Investment will bring mature components and systems, such
+as Toyota Mirai’s [engine] to Haima models, complete vehicle
+adaptation development, and conduct tests with Haima’s self-built
+hydrogen supply system and travel network, it added."
+
+---
+
+Al Jazeera: "Russia starts Yars intercontinental ballistic missile drills"
+
+---
+
+H2 Central: "Varennes Carbon Recycling or commonly referred to as VCR,
+a leading provider of green hydrogen solutions, has announced that it
+has selected Accelera by Cummins to manufacture and supply a 90MW
+electrolyzer system for its biofuel plant in Quebec.. VCR’s biofuel
+plant will take non-recyclable waste material from households and
+businesses and convert it into usable fuel through an innovative
+process developed by the company. The fuel created from this process
+can then be used for powering cars, trucks or other vehicles without
+emitting harmful pollutants into the atmosphere"
+
+---
+
+The Cold Weather Problem \#lion \#batteries
+
+[[-]](2022/11/battery-electric.html#cold)
+
+---
+
+The Verge: "Disney reportedly eliminates metaverse division in first
+round of layoffs"
+
+---
+
+H2 Fuel News: "Chile's top steel producer CAP to develop green
+hydrogen plant to decarbonize steel production in Chile"
+
+---
+
+H2 Central: "Green Hydrogen to Flow from Denmark to Germany from 2028"
+
+---
+
+Netan has always been a status quo handling inconsequential middle
+manager, like many others in his generation. The one time he did
+something substantial albeit foolish, as with judicial reform, the
+whole thing blew up in his face. He won't go down in history as..
+anything really; He'll get the muck out at some point when he does and
+noone will care.
+
+---
+
+Al Monitor: "Winners, losers emerge after Israel’s Netanyahu suspends
+judicial overhaul.. Prime Minister Benjamin Netanyahu, the
+ultra-Orthodox parties and even the IDF are on the side of the losers
+now that the judicial overhaul has been postponed"
+
+---
+
+Al Monitor: "Israel's Netanyahu backs down, pauses judicial overhaul
+in face of protests"
+
+---
+
+Hindustan Times: "China’s Xi, Saudi’s Salman laud each other for peace
+talks with Iran"
+
+---
+
+Heard it on a MacGregor podcast; Zelensky grew up speaking Russian,
+learned Ukranian much later.. It is interesting. Apparently he
+mispronounces "Bakhmut" all the time.
+
+---
+
+Op India: "Following west’s financial sanctions on Russia, Indonesia
+to phase out Visa and Mastercard, reduce dependence on western payment
+systems.. In a move that could have significant implications for
+businesses operating in Indonesia and the visitors there, President
+Joko Widodo has announced that the country will gradually phase out
+the use of Visa and Mastercard"
+
+---
+
 Attempting to coexist with an existing fiat system invites undue
 problems for both sides; new money's selling point will be freer,
 easier exchange and that invites crime, money laundering. Over years

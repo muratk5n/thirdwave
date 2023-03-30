@@ -1,88 +1,87 @@
 
-Yicai Global: "[Chinese carmaker] Haima, Toyota to Jointly Promote
-Hydrogen Cars in China.. The two companies will use China’s southern
-Hainan province as a testing ground, Haikou-based Haima said.. Toyota
-Motor China Investment will bring mature components and systems, such
-as Toyota Mirai’s [engine] to Haima models, complete vehicle
-adaptation development, and conduct tests with Haima’s self-built
-hydrogen supply system and travel network, it added."
+First Post: "India, Russia consider Arctic shipping line to link
+Southeast Asia with Europe in lesser time than Suez, Panama canals"
 
 ---
 
-Al Jazeera: "Russia starts Yars intercontinental ballistic missile drills"
+"We're halfway to a tipping point that would trigger 6 feet of sea
+level rise from melting of the Greenland Ice Sheet"
 
 ---
 
-H2 Central: "Varennes Carbon Recycling or commonly referred to as VCR,
-a leading provider of green hydrogen solutions, has announced that it
-has selected Accelera by Cummins to manufacture and supply a 90MW
-electrolyzer system for its biofuel plant in Quebec.. VCR’s biofuel
-plant will take non-recyclable waste material from households and
-businesses and convert it into usable fuel through an innovative
-process developed by the company. The fuel created from this process
-can then be used for powering cars, trucks or other vehicles without
-emitting harmful pollutants into the atmosphere"
+Al Monitor: "Senate passes repeal of Iraq war authorizations.. US
+senators advanced cross-party legislation on Wednesday to repeal
+authorizations for the wars in Iraq -- 20 years after American forces
+invaded the country to remove Saddam Hussein from power.Both parties
+supported canceling the 2002 Authorization for Use of Military Force
+(AUMF) that empowered George W Bush to launch the invasion, as well as
+the 1991 version that allowed his father, George HW Bush, to attack
+Iraq after Saddam's forces invaded Kuwait"
 
 ---
 
-The Cold Weather Problem \#lion \#batteries
-
-[[-]](2022/11/battery-electric.html#cold)
+Al Jazeera: "Saudi partners with China-led security bloc as ties grow"
 
 ---
 
-The Verge: "Disney reportedly eliminates metaverse division in first
-round of layoffs"
+Tommy Thornton: "Maxine Waters not happy with the VC's who started the
+SVB bank run"
 
 ---
 
-H2 Fuel News: "Chile's top steel producer CAP to develop green
-hydrogen plant to decarbonize steel production in Chile"
+David Axelrod - Mucho Chupar \#music
+
+[[-]](https://youtu.be/3J-aIXRfq5o)
 
 ---
 
-H2 Central: "Green Hydrogen to Flow from Denmark to Germany from 2028"
+H2 View: "European law to deploy hydrogen refuelling infrastructure
+agreed.. The European Parliament and European Council have agreed to
+boost hydrogen refuelling stations across the EU’s main transport
+corridors"
 
 ---
 
-Netan has always been a status quo handling inconsequential middle
-manager, like many others in his generation. The one time he did
-something substantial albeit foolish, as with judicial reform, the
-whole thing blew up in his face. He won't go down in history as..
-anything really; He'll get the muck out at some point when he does and
-noone will care.
+KC is pro-H2? That's good.. Then forget Nostrodamus, no abdication
+
+Politico: "Charles also used his [DE] address to return to a pet theme
+— climate change..  'Today, the United Kingdom and Germany are
+Europe’s two largest producers of power from offshore wind … Our
+countries are both accelerating the expansion of our hydrogen
+economies, the fuel which could transform our future,' the king said"
 
 ---
 
-Al Monitor: "Winners, losers emerge after Israel’s Netanyahu suspends
-judicial overhaul.. Prime Minister Benjamin Netanyahu, the
-ultra-Orthodox parties and even the IDF are on the side of the losers
-now that the judicial overhaul has been postponed"
+This lecturer totally sounds like Ned Flanders - it feels like
+learning adv math from The Simpsons.
 
 ---
 
-Al Monitor: "Israel's Netanyahu backs down, pauses judicial overhaul
-in face of protests"
+@48kRAM@oldbytes.space
+
+1990s web experience
+
+- Open site in browser 
+- Watch framework of site gradually appear
+- Start reading site text
+- View images once they load
+- Click a hyperlink to more information on the thing you're looking for
+
+2020s web experience
+
+- Open site in browser
+- Wait for Cloudflare to verify you aren't a bot
+- Wait for background movie to load
+- Dismiss cookie popup
+- Decline to subscribe to their mailing list
+- Decline to speak to a chatbot that promises it's a human
+- Scroll infinitely looking for the information you want that's probably not there since it's all generated text intended for other robots to read anyway
 
 ---
 
-Hindustan Times: "China’s Xi, Saudi’s Salman laud each other for peace
-talks with Iran"
+Arling & Cameron - Dirty Robot \#music
 
----
-
-Heard it on a MacGregor podcast; Zelensky grew up speaking Russian,
-learned Ukranian much later.. It is interesting. Apparently he
-mispronounces "Bakhmut" all the time.
-
----
-
-Op India: "Following west’s financial sanctions on Russia, Indonesia
-to phase out Visa and Mastercard, reduce dependence on western payment
-systems.. In a move that could have significant implications for
-businesses operating in Indonesia and the visitors there, President
-Joko Widodo has announced that the country will gradually phase out
-the use of Visa and Mastercard"
+[[-]](https://youtu.be/v-H7Phuh00o)
 
 ---
 
