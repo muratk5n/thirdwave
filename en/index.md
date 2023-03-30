@@ -42,8 +42,8 @@ the king said"
 
 ---
 
-This lecturer totally sounds like Ned Flanders - it feels like
-learning adv math from The Simpsons.
+This lecturer totally sounds like Ned Flanders - it's like learning
+adv math from The Simpsons.
 
 ---
 
