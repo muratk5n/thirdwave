@@ -20,15 +20,6 @@ Iraq after Saddam's forces invaded Kuwait"
 
 ---
 
-Al Jazeera: "Saudi partners with China-led security bloc as ties grow"
-
----
-
-Tommy Thornton: "Maxine Waters not happy with the VC's who started the
-SVB bank run"
-
----
-
 David Axelrod - Mucho Chupar \#music
 
 [[-]](https://youtu.be/3J-aIXRfq5o)
@@ -81,6 +72,15 @@ learning adv math from The Simpsons.
 Arling & Cameron - Dirty Robot \#music
 
 [[-]](https://youtu.be/v-H7Phuh00o)
+
+---
+
+Al Jazeera: "Saudi partners with China-led security bloc as ties grow"
+
+---
+
+Tommy Thornton: "Maxine Waters not happy with the VC's who started the
+SVB bank run"
 
 ---
 
