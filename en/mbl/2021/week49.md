@@ -166,14 +166,6 @@ sockets.. This vid is what I based my version on.
 
 ---
 
-Latest veg burger recipe. Tested for two weeks, living on it is
-possible.  Tastes great, along with one multivitamin boost it has
-everything needed.
-
-[[-]](../../2021/11/veg-burger.md)
-
----
-
 I need buns... lots of buns..
 
 ---
