@@ -79,8 +79,8 @@ Al Jazeera: "Saudi partners with China-led security bloc as ties grow"
 
 ---
 
-Tommy Thornton: "Maxine Waters not happy with the VC's who started the
-SVB bank run"
+Thornton: "Maxine Waters not happy with the VC's who started the SVB
+bank run"
 
 ---
 
