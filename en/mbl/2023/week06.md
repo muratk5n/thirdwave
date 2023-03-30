@@ -522,12 +522,6 @@ But an increase of overall killings for 2022 is clearly visible.
 
 ---
 
-Dehydrated poultry - take three.
-
-[[-]](../../2023/01/dried-turkey.html)
-
----
-
 H2 Central: "The H2 retrofit kit proposed by SAFRA, registered under
 the brand name H2-PACK®, and supported by ADEME, the French Agency for
 Ecological Transition, is a real technical achievement which enables
