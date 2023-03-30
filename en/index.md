@@ -47,7 +47,7 @@ learning adv math from The Simpsons.
 
 ---
 
-@48kRAM@oldbytes.space
+"@48kRAM@oldbytes.space
 
 1990s web experience
 
@@ -65,7 +65,9 @@ learning adv math from The Simpsons.
 - Dismiss cookie popup
 - Decline to subscribe to their mailing list
 - Decline to speak to a chatbot that promises it's a human
-- Scroll infinitely looking for the information you want that's probably not there since it's all generated text intended for other robots to read anyway
+- Scroll infinitely looking for the information you want that's
+  probably not there since it's all generated text intended for other
+  robots to read anyway"
 
 ---
 
