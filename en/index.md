@@ -20,12 +20,6 @@ Iraq after Saddam's forces invaded Kuwait"
 
 ---
 
-David Axelrod - Mucho Chupar \#music
-
-[[-]](https://youtu.be/3J-aIXRfq5o)
-
----
-
 H2 View: "European law to deploy hydrogen refuelling infrastructure
 agreed.. The European Parliament and European Council have agreed to
 boost hydrogen refuelling stations across the EU’s main transport
