@@ -29,7 +29,7 @@ emitting harmful pollutants into the atmosphere"
 
 The Cold Weather Problem \#lion \#batteries
 
-[[-]](2022/11/battery-electric.html#cold)
+[[-]](../../2022/11/battery-electric.html#cold)
 
 ---
 
@@ -101,7 +101,7 @@ original mission. Lose-lose all around.
 
 Money is inextricably tied to politics / governance. There is no
 "politics free money". Unlike what some naive libertarians seem to
-think even gold was tied to a system - [kings made it possible](0119/2011/11/debt-religions-money.html), 
+think even gold was tied to a system - [kings made it possible](../../0119/2011/11/debt-religions-money.html), 
 without them there would be no gold currency. Therefore, hard to change
 currency (ie to crypto) without changing governance, at a
 fundamental level.
