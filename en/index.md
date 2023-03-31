@@ -52,12 +52,12 @@ intermediary, the Brazilian government said on Wednesday"
 
 ---
 
-Politico: ‘O.J. Simpson on steroids’: Team Trump preps for a
+Politico: "‘O.J. Simpson on steroids’: Team Trump preps for a
 post-indictment frenzy.. Aides to the former president moved
 aggressively on Thursday to capitalize politically on news that a
 Manhattan grand jury had charged Trump — using it to fill their
 fundraising coffers, mobilize loyalists and further solidify his hold
-on his base of supporters in the GOP presidential primary.
+on his base of supporters in the GOP presidential primary"
 
 ---
 
