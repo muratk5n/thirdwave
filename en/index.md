@@ -13,7 +13,7 @@ for \#hydrogen"
 
 H2 View: "Clean hydrogen tax credits revealed in Canadian 2023
 Budget.. The Government of Canada in its 2023 Budget revealed details
-for its CAD$5.6bn ($4.1bn) Clean Hydrogen Investment Tax Credit..
+for its CAD$5.6bn (4.1bn) Clean Hydrogen Investment Tax Credit..
 
 Supporting between 15-40% of eligible projects, the credit offers a
 tiered structure based on hydrogen carbon intensity, with projects
