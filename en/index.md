@@ -1,82 +1,63 @@
 
-First Post: "India, Russia consider Arctic shipping line to link
-Southeast Asia with Europe in lesser time than Suez, Panama canals"
+"@EUCouncil@respublicae.eu
+
+✔️ Decarbonising the gas sector
+
+✔️ Reaching climate goals 
+
+EU energy ministers agreed this week on the Council’s position on
+boosting renewable and low-carbon gases and creating a European market
+for \#hydrogen"
 
 ---
 
-CNBC: "We're halfway to a tipping point that would trigger 6 feet of
-sea level rise from melting of the Greenland Ice Sheet"
+H2 View: "Clean hydrogen tax credits revealed in Canadian 2023
+Budget.. The Government of Canada in its 2023 Budget revealed details
+for its CAD$5.6bn ($4.1bn) Clean Hydrogen Investment Tax Credit..
+
+Supporting between 15-40% of eligible projects, the credit offers a
+tiered structure based on hydrogen carbon intensity, with projects
+producing less than 0.75kg CO2/kg H2 receiving a 40% credit, 0.75-2kg
+CO2/kg H2 receiving 25% and 2-<4kg CO2/kg H2 getting just
+15%... Additionally, the tax credit will also extend a 15% tax credit
+to equipment needed to convert hydrogen into ammonia for
+transportation"
 
 ---
 
-Al Monitor: "Senate passes repeal of Iraq war authorizations.. US
-senators advanced cross-party legislation on Wednesday to repeal
-authorizations for the wars in Iraq -- 20 years after American forces
-invaded the country to remove Saddam Hussein from power.Both parties
-supported canceling the 2002 Authorization for Use of Military Force
-(AUMF) that empowered George W Bush to launch the invasion, as well as
-the 1991 version that allowed his father, George HW Bush, to attack
-Iraq after Saddam's forces invaded Kuwait"
+WION: "Rand Paul blocks TikTok ban, asks if US is 'going to be just
+like China' and block free speech"
 
 ---
 
-H2 View: "European law to deploy hydrogen refuelling infrastructure
-agreed.. The European Parliament and European Council have agreed to
-boost hydrogen refuelling stations across the EU’s main transport
-corridors"
+Reshare 2018
+
+J. Devereux: "If owning a gun was an effective means of self-defense,
+your insurance rates would go down when you bought one. But they go
+up, because actuaries have proven that you're far, far more likely to
+shoot yourself or a family member than someone attacking you"
 
 ---
 
-KC is pro-H2? That's good.. Then forget Nostrodamus, no abdication
-
-Politico: "Charles also used his [German parliament] address to return
-to a pet theme — climate change..  'Our countries are both
-accelerating the expansion of our hydrogen economies, the fuel which
-could transform our future,' the king said"
+Trading View: "Why Metropolitan Bank Stock Is Tumbling Today.. The
+firm noted that MCB laid out plans to exit the crypto space back in
+2017, but it still has several crypto clients, per its third-quarter
+investor presentation"
 
 ---
 
-This lecturer totally sounds like Ned Flanders - it's like learning
-adv math from The Simpsons.
+The Strait Times: "China and Brazil have reached a deal to trade in
+their own currencies, ditching the United States dollar as an
+intermediary, the Brazilian government said on Wednesday"
 
 ---
 
-"@48kRAM@oldbytes.space
-
-1990s web experience
-
-- Open site in browser 
-- Watch framework of site gradually appear
-- Start reading site text
-- View images once they load
-- Click a hyperlink to more information on the thing you're looking for
-
-2020s web experience
-
-- Open site in browser
-- Wait for Cloudflare to verify you aren't a bot
-- Wait for background movie to load
-- Dismiss cookie popup
-- Decline to subscribe to their mailing list
-- Decline to speak to a chatbot that promises it's a human
-- Scroll infinitely looking for the information you want that's
-  probably not there since it's all generated text intended for other
-  robots to read anyway"
-
----
-
-Arling & Cameron - Dirty Robot \#music
-
-[[-]](https://youtu.be/v-H7Phuh00o)
-
----
-
-Al Jazeera: "Saudi partners with China-led security bloc as ties grow"
-
----
-
-Thornton: "Maxine Waters not happy with the VC's who started the SVB
-bank run"
+Politico: ‘O.J. Simpson on steroids’: Team Trump preps for a
+post-indictment frenzy.. Aides to the former president moved
+aggressively on Thursday to capitalize politically on news that a
+Manhattan grand jury had charged Trump — using it to fill their
+fundraising coffers, mobilize loyalists and further solidify his hold
+on his base of supporters in the GOP presidential primary.
 
 ---
 

@@ -1,5 +1,85 @@
 # Week 13
 
+First Post: "India, Russia consider Arctic shipping line to link
+Southeast Asia with Europe in lesser time than Suez, Panama canals"
+
+---
+
+CNBC: "We're halfway to a tipping point that would trigger 6 feet of
+sea level rise from melting of the Greenland Ice Sheet"
+
+---
+
+Al Monitor: "Senate passes repeal of Iraq war authorizations.. US
+senators advanced cross-party legislation on Wednesday to repeal
+authorizations for the wars in Iraq -- 20 years after American forces
+invaded the country to remove Saddam Hussein from power.Both parties
+supported canceling the 2002 Authorization for Use of Military Force
+(AUMF) that empowered George W Bush to launch the invasion, as well as
+the 1991 version that allowed his father, George HW Bush, to attack
+Iraq after Saddam's forces invaded Kuwait"
+
+---
+
+H2 View: "European law to deploy hydrogen refuelling infrastructure
+agreed.. The European Parliament and European Council have agreed to
+boost hydrogen refuelling stations across the EU’s main transport
+corridors"
+
+---
+
+KC is pro-H2? That's good.. Then forget Nostrodamus, no abdication
+
+Politico: "Charles also used his [German parliament] address to return
+to a pet theme — climate change..  'Our countries are both
+accelerating the expansion of our hydrogen economies, the fuel which
+could transform our future,' the king said"
+
+---
+
+This lecturer totally sounds like Ned Flanders - it's like learning
+adv math from The Simpsons.
+
+---
+
+"@48kRAM@oldbytes.space
+
+1990s web experience
+
+- Open site in browser 
+- Watch framework of site gradually appear
+- Start reading site text
+- View images once they load
+- Click a hyperlink to more information on the thing you're looking for
+
+2020s web experience
+
+- Open site in browser
+- Wait for Cloudflare to verify you aren't a bot
+- Wait for background movie to load
+- Dismiss cookie popup
+- Decline to subscribe to their mailing list
+- Decline to speak to a chatbot that promises it's a human
+- Scroll infinitely looking for the information you want that's
+  probably not there since it's all generated text intended for other
+  robots to read anyway"
+
+---
+
+Arling & Cameron - Dirty Robot \#music
+
+[[-]](https://youtu.be/v-H7Phuh00o)
+
+---
+
+Al Jazeera: "Saudi partners with China-led security bloc as ties grow"
+
+---
+
+Thornton: "Maxine Waters not happy with the VC's who started the SVB
+bank run"
+
+---
 
 Yicai Global: "[Chinese carmaker] Haima, Toyota to Jointly Promote
 Hydrogen Cars in China.. The two companies will use China’s southern
