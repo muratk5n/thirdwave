@@ -57,7 +57,7 @@ for another NATO invasion. Only Russia’s UN veto spared Syria"
 ---
 
 ISR strategist on Palestine, Arabs. The secterian divisions he advises
-for Iraq and other Arab countries were implemented by US. 
+for Iraq and other Arab countries were clearly pursued by US. 
 
 [[-]](2023/04/strategy-for-israel-yinon.html)
 
