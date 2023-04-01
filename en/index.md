@@ -1,63 +1,66 @@
 
-"@EUCouncil@respublicae.eu
-
-✔️ Decarbonising the gas sector
-
-✔️ Reaching climate goals 
-
-EU energy ministers agreed this week on the Council’s position on
-boosting renewable and low-carbon gases and creating a European market
-for \#hydrogen"
+H2 View: "Green hydrogen production plant begins operations in South
+Wales"
 
 ---
 
-H2 View: "Clean hydrogen tax credits revealed in Canadian 2023
-Budget.. The Government of Canada in its 2023 Budget revealed details
-for its CAD$5.6bn (4.1bn) Clean Hydrogen Investment Tax Credit..
-
-Supporting between 15-40% of eligible projects, the credit offers a
-tiered structure based on hydrogen carbon intensity, with projects
-producing less than 0.75kg CO2/kg H2 receiving a 40% credit, 0.75-2kg
-CO2/kg H2 receiving 25% and 2-<4kg CO2/kg H2 getting just
-15%... Additionally, the tax credit will also extend a 15% tax credit
-to equipment needed to convert hydrogen into ammonia for
-transportation"
+H2 Central: "[Motor Vehicle Manufacture Poppe + Potthoff GmbH] has
+designed an alternative specifically for pipes and rails in hydrogen
+applications... PPH2 is an alloyed carbon steel with high mechanical
+properties, which are further enhanced by the innovative PPSH
+annealing treatment. These special properties allow the production of
+thinner-walled components (compared to stainless steel) and thus a
+reduction in weight while increasing the availability of hydrogen
+pipes and rails"
 
 ---
 
-WION: "Rand Paul blocks TikTok ban, asks if US is 'going to be just
-like China' and block free speech"
+CBS News: "'California's price gouging penalty is simple – either Big
+Oil reins in the profits and prices, or they'll pay a penalty,' said
+Newsom said in a press release. 'Big Oil has been lying and gouging
+Californians to line their own pockets long enough. I look forward to
+the work ahead with our partners in the Legislature to get this done.'
+California lawmakers kicked off a special legislative session on
+Monday to consider the proposed penalty"
 
 ---
 
-Reshare 2018
-
-J. Devereux: "If owning a gun was an effective means of self-defense,
-your insurance rates would go down when you bought one. But they go
-up, because actuaries have proven that you're far, far more likely to
-shoot yourself or a family member than someone attacking you"
+That is a nice little word play there with the title, it can be
+read as either "ISIS is U.S." or "ISIS is us". 
 
 ---
 
-Trading View: "Why Metropolitan Bank Stock Is Tumbling Today.. The
-firm noted that MCB laid out plans to exit the crypto space back in
-2017, but it still has several crypto clients, per its third-quarter
-investor presentation"
+From the book *ISIS is US*: "Did the 'Islamic State' spring full-blown
+into spontaneous being as the fanatical scourge of the Middle East, or
+was it helped along by state sponsors?
+
+The parallels with Iran-Contra are uncanny. In the 1980’s, the Reagan
+administration wanted to topple the government of Nicaragua, using
+right-wing mercenaries, death squads, based in Honduras.  But Congress
+passed a law prohibiting that. So they went around it, by financing
+the Contras via Iran.  Thirty years later, the hawks in Washington
+wanted to topple the elected governments of Libya and Syria, crush the
+popular resistance in Iraq, and split up those countries on ethnic
+lines. Once again, they wanted to do this using death squads. So they
+got around Congress by having Qatar and the Saudis finance it.
+
+To set up the Sunni and Shiite death squads to fight each other in
+Iraq, they sent John Negroponte as Ambassador to Baghdad in 2004. The
+same guy they sent to Honduras as Ambassador from 1981 to 1985. Then
+in 2011 they sent some of those killers from Iraq to Libya to
+overthrow Qaddafi, with NATO air cover. From Libya, they were sent to
+Syria to start the killing there – the dirty war directed by
+Negroponte’s right-hand man, US Ambassador Ford.  The US embedded
+media perversely pinned these killings on Assad, following the script
+for another NATO invasion. Only Russia’s UN veto spared Syria"
 
 ---
 
-The Strait Times: "China and Brazil have reached a deal to trade in
-their own currencies, ditching the United States dollar as an
-intermediary, the Brazilian government said on Wednesday"
+ISR strategist on Palestine, Arabs. The secterian divisions he advises
+for Iraq and other Arab countries were apparently followed by the
+US "right hand".
 
----
-
-Politico: "‘O.J. Simpson on steroids’: Team Trump preps for a
-post-indictment frenzy.. Aides to the former president moved
-aggressively on Thursday to capitalize politically on news that a
-Manhattan grand jury had charged Trump — using it to fill their
-fundraising coffers, mobilize loyalists and further solidify his hold
-on his base of supporters in the GOP presidential primary"
+[[-]](2023/04/strategy-for-israel-yinon.html)
 
 ---
 
