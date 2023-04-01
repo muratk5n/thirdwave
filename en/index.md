@@ -30,7 +30,7 @@ read as either "ISIS is U.S." or "ISIS is us".
 
 ---
 
-From the book *ISIS is US*: "Did the 'Islamic State' spring full-blown
+From the book *ISIS IS US*: "Did the 'Islamic State' spring full-blown
 into spontaneous being as the fanatical scourge of the Middle East, or
 was it helped along by state sponsors?
 
