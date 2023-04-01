@@ -80,7 +80,5 @@
 
 [The Value of Everything](10/the-value-of-everything.html)
 
-[Vegetarian Burger Regular](11/veg-burger.html)
-
 [Eat Yourself Slim](12/eat-yourself-slim-montignac.html)
 

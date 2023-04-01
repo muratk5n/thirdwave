@@ -2,9 +2,9 @@
 
 [Conflict Statistics](01/confstats.html)
 
-[Dried Turkey Patties](01/dried-turkey.html)
-
 [Drugs](01/drugs.html)
+
+[Russian, Chinese Militaries](01/formil.html)
 
 [Little America](01/little-america-chandrasekaran.html)
 
