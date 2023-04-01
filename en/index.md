@@ -41,8 +41,7 @@ passed a law prohibiting that. So they went around it, by financing
 the Contras via Iran.  Thirty years later, the hawks in Washington
 wanted to topple the elected governments of Libya and Syria, crush the
 popular resistance in Iraq, and split up those countries on ethnic
-lines. Once again, they wanted to do this using death squads. So they
-got around Congress by having Qatar and the Saudis finance it.
+lines. Once again, they wanted to do this using death squads...
 
 To set up the Sunni and Shiite death squads to fight each other in
 Iraq, they sent John Negroponte as Ambassador to Baghdad in 2004. The
