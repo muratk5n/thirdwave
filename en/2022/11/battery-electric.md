@@ -38,7 +38,7 @@ molecules to propel cargo ships across oceans" [3]
 
 ### Insufficient Lithium Reserves
 
-Even for motor vehicle road transportation, widespread use use of lion
+Even for motor vehicle road transportation, widespread use of lion
 batteries is impossible. Existing estimated lithium reserves are at
 17.0 millon tons. In 2020, 48.6 percent of all oil consumed in the
 OECD was related to motor vehicle usage [1]. 2019 crude oil

@@ -196,9 +196,10 @@ def eq_at(lat,lon,radius,ago,today = datetime.datetime.now()):
     df = df.set_index('date')    
     return df
 
-def sm_plot_list1(clat, clon, zoom, data):
+def sm_plot_list1(clat, clon, zoom, data, elev=None):
     offsets = [[random.randint(-60,60), random.randint(-60,60)] for i in range(len(data))]
     sm.plot_countries(clat,clon,zoom)
+    if elev: sm.plot_elevation(clat,clon,zoom,elev)
     for i,row in enumerate(data):
        lat,lon = float(row[1]),float(row[2])
        label = row[0]
