@@ -113,7 +113,9 @@ battery too many times degrades it, so does charging it UP TO
 100%. You read that right, a lion battery should not be charged fully,
 only partially, almost fully up to a point, otherwise again, the
 battery goes bad. In fact some EV's have a [feature](https://toot.cat/@JimG/109946177003223832) 
-that stops them from being fully charged.
+that stops them from being fully charged. Let alone being a bizarre, and comical
+shortcoming, this "feature" assures a portion of lithium in a
+battery is by definition a waste, it sits there not to be used.
 
 [[-]](https://mastodon.social/@JimG@toot.cat/109946177063636386)
 
