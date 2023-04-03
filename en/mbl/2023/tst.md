@@ -8,6 +8,19 @@ pd.set_option('display.max_columns', None)
 
 
 
+```python
+u.boxofficemojo("Blackhat")
+```
+
+```text
+Out[1]: 
+{'Domestic Opening': '$3,901,815',
+ 'Domestic': '$8,005,980',
+ 'International': '$11,646,077',
+ 'Worldwide Total': '$19,652,057',
+ 'Release Date': 'January 15, 2015'}
+```
+
 
 
 
