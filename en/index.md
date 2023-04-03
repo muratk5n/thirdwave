@@ -38,7 +38,7 @@ They call asafoetida "Indian MSG"
 
 ---
 
-BTW enough carbon from the air be captured for all efuel needs? If
+BTW can enough carbon be captured from the air for all efuel needs? If
 they cut bunch of trees burn them to obtain "neutral carbon" (trees
 took it from the air, putting it back is sort of "neutral") then
 that's not a good path. Hopefully pure H2 usage is encouraged more.
