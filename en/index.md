@@ -28,7 +28,9 @@ popular mode of transport"
 
 ---
 
-\#StarWars #meme via @Jimijamflimflam@mstdn.social
+\#StarWars #Meme
+
+via @Jimijamflimflam@mstdn.social
 
 [[-]](https://media.mstdn.social/media_attachments/files/110/126/178/882/910/680/original/3519d0b6720c3b7a.jpeg)
 
