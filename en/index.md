@@ -117,7 +117,7 @@ from Luxemburg? It's "right there" after all..
 West Bank is indeed more mountainous compared to rest of Israel. 
 
 ```python
-ps = [["West Bank",32.01211414537871, 35.28831200654197],["Jerusalem",31.773776002484855, 35.206223277614015]]
+ps = [["West Bank",32.01211, 35.2883120],["Jerusalem",31.7737760, 35.206223]]
 u.sm_plot_list1(32, 35, 0.3, ps, elev=[100,200,300,500,800])
 ```
 
