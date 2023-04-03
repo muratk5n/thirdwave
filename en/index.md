@@ -1,5 +1,4 @@
 
-
 Dr. Ekberg: "I don't see any reason to ever buy store-bought juice
 because it has to be pasteurized in order to be sold in a store and
 now you're destroying most of the benefits.  Most of the enzymes.. the
@@ -71,8 +70,8 @@ he may need to retool"
 
 ---
 
-I liked Creed III, it was sort of like Rocky III but stands on its own.
-Fine universe additional stories can still be told in it.
+I liked Creed III, sort of like Rocky III but stands on its own. Fine
+universe additional stories can still be told in it.
 
 ---
 
@@ -142,10 +141,6 @@ natural language text that sounds like a plausible answer to a
 question about x' and 'I want the computer to answer a question about
 x' are two very different problems"
 
----
-
-<img src='https://drive.google.com/uc?export=view&id=1zsIeciFSvlr-sWB84Tc0mfZ_NYqn9VQx'/> 
-
 ## Reference
 
 [Nations and Nationalism, Culture, Narratives](0119/2013/02/nations-and-nationalism.html)
@@ -190,3 +185,6 @@ Also on
 [Mastodon](https://masto.ai/@muratk3n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
+
+<img src='https://drive.google.com/uc?export=view&id=1zsIeciFSvlr-sWB84Tc0mfZ_NYqn9VQx'/> 
+
