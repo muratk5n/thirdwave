@@ -1,4 +1,18 @@
 
+"@Hypx@mastodon.social
+
+Ford Is Getting Serious About Hydrogen Fuel Cell Technology For Super
+Duty Trucks"
+
+---
+
+Reuters: "Japan is to revise its hydrogen strategy by the end of May
+with an ambitious target to boost annual supply to 12 million tonnes
+by 2040, the industry ministry said on Tuesday, as competition
+increases in the global market for the fuel"
+
+---
+
 Politico: "[I]n 1792, Congress passed the Post Office Act. Publishers
 would be charged 1 cent for most newspapers and 1.5 cents for those
 traveling more than 100 miles. This amounted to an enormous
