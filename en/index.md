@@ -23,8 +23,8 @@ properly"
 
 ---
 
-CBC: "B.C. to introduce house-flipping tax and expand secondary suites
-under new multi-billion dollar housing plan"
+CBC: "[Canada] B.C. to introduce house-flipping tax and expand
+secondary suites under new multi-billion dollar housing plan"
 
 ---
 
