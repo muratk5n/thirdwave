@@ -24,7 +24,7 @@ than 12-14 percent of costs, concluded Richard Kielbowicz in News in
 the Mail. Scholar Robert McChesney has estimated that 'if the
 U.S. government subsidized journalism today at the same level of GDP
 that it did in the 1840s, the government would have to spend in the
-neighborhood of $30-$35 billion annually.' That’s about the size of
+neighborhood of $30-35 billion annually.' That’s about the size of
 NASA’s budget"
 
 ---
