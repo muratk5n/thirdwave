@@ -1,55 +1,98 @@
 
-"@Hypx@mastodon.social
-
-Ford Is Getting Serious About Hydrogen Fuel Cell Technology For Super
-Duty Trucks"
-
----
-
-Reuters: "Japan is to revise its hydrogen strategy by the end of May
-with an ambitious target to boost annual supply to 12 million tonnes
-by 2040, the industry ministry said on Tuesday, as competition
-increases in the global market for the fuel"
+"World's first liquid hydrogen-powered ferry gets operational.. The
+82.4-meter-long MF Hydra, which was delivered in 2021, can carry up to
+300 passengers and 80 vehicles. It will be able to travel at a speed
+of 9 knots thanks to its two 200 kW fuel cells, two 440 kW generators,
+and two Shottel thrusters"
 
 ---
 
-Politico: "[I]n 1792, Congress passed the Post Office Act. Publishers
-would be charged 1 cent for most newspapers and 1.5 cents for those
-traveling more than 100 miles. This amounted to an enormous
-subsidy. Rates for regular letters ranged from 6 cents to 25 cents,
-depending on the distance. The postmaster in 1794 estimated that
-newspapers constituted 70 percent of the mail while kicking in about 4
-percent of the revenue. Postage paid by publishers defrayed no more
-than 12-14 percent of costs, concluded Richard Kielbowicz in News in
-the Mail. Scholar Robert McChesney has estimated that 'if the
-U.S. government subsidized journalism today at the same level of GDP
-that it did in the 1840s, the government would have to spend in the
-neighborhood of $30-35 billion annually.' That’s about the size of
-NASA’s budget"
+Red Hulk? Why not Kluh (name is Hulk in reverse). That is the baddest
+Hulk.
 
 ---
 
-"@shreyan@mstdn.social
+IDW: "Ammonia is known to be a good hydrogen carrier. [Researchers]
+show that ammonia can not only be used to carry hydrogen but also for
+the direct reduction of iron"
 
-[Large Language Models] are not intelligent. They cannot make good
-decisions on their own. They are a tool which it is up to you to use
-properly"
-
----
-
-CBC: "[Canada] B.C. to introduce house-flipping tax and expand
-secondary suites under new multi-billion dollar housing plan"
+[[-]](https://idw-online.de/en/news811876)
 
 ---
 
-RU advance in the past two weeks
+Sounds like rabid interventionism to me. What a jackass
 
-```python
-u.sm_plot_ukr('ukrdata/fl-0404.csv','ukrdata/fl-2203.csv',["Bakhmut"],
-              clat=48.6,clon=37.95,zoom=0.01)
-```
+JFK: "[1961] Let every nation know..  that we shall pay any price,
+bear any burden, meet any hardship, support any friend, oppose any foe
+to assure the survival and the success of liberty"
 
-<img width='340' src='mbl/2023/ukr-5.jpg'/> 
+---
+
+Apparently SB and its Signet allowed the hyper growth of FTX, without
+it they would have remained much smaller. Crypto ppl talk big game
+about upending the system but they needed a connection to the
+backbone, to the existing system through a bank. They found a few
+gullable ones, used them, esp SB with its fast Signet along with money
+launderers, criminals. See \#MarcCohodes
+
+Yahoo Finance: "A class-action lawsuit was filed against Signature
+Bank in February, alleging the bank knew about – and facilitated – the
+'now infamous FTX fraud.' Specifically, the suit accuses Signature
+Bank of having knowledge of and permitting 'the commingling of [the
+FTX exchange's] customer funds within its proprietary,
+blockchain-based payments network, Signet'"
+
+---
+
+Mint Royale - Phlump \#music
+
+[[-]](https://youtu.be/Xat1kcBhH4I)
+
+---
+
+Artemis - Second Sight \#music
+
+[[-]](https://youtu.be/zeNwptYkYG8)
+
+---
+
+If a near-future version of Trek is done, I'd want an Android there
+called "Meme" instead of "Data". This character would be a clownish,
+overly creative twat, all he does, all day long is generating memes;
+just spouts one meme after another. TNG's Data was smart with
+human-like strong AI, strived to learn art.. Meme has art but is
+extremely dumb just like the modern "AI" algorithms today, but tries
+to become smart. Meme acquiring an iota of intelligence in each
+episode will be his character arc. At the end of 10 seasons he'll be
+able to read text, summarize it, and drive a car.
+
+---
+
+Barry Adamson - Cinematic Soul \#music
+
+[[-]](https://youtu.be/WGYc40UivOs?t=61)
+
+---
+
+Emacs in *Tron Legacy*
+
+[[-]](https://i0.wp.com/craphound.com/images/TRON_GFX_BR_08.JPG?w=970)
+
+---
+
+Reuters: "Saudi Arabia to invite Syrian president Assad for Arab
+leaders summit"
+
+---
+
+Yahoo News: "McCarthy vows to hold Bragg ‘and his unprecedented abuse
+of power to account’"
+
+---
+
+Politico: "With an ‘arraignment party,’ Trump jolts his campaign.. The
+ex-president chose a familiar defiance in his speech following his
+arrest. His fellow Republicans say it suits him well"
 
 ---
 
