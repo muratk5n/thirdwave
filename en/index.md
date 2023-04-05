@@ -33,7 +33,7 @@ it they would have remained much smaller. Crypto ppl talk big game
 about upending the system but they needed a connection to the
 backbone, to the existing system through a bank. They found a few
 gullable ones, used them, esp SB with its fast Signet along with money
-launderers, criminals. See \#MarcCohodes
+launderers, criminals. 
 
 Yahoo Finance: "A class-action lawsuit was filed against Signature
 Bank in February, alleging the bank knew about – and facilitated – the
