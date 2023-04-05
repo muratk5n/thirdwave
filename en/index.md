@@ -44,12 +44,6 @@ blockchain-based payments network, Signet'"
 
 ---
 
-Mint Royale - Phlump \#music
-
-[[-]](https://youtu.be/Xat1kcBhH4I)
-
----
-
 Artemis - Second Sight \#music
 
 [[-]](https://youtu.be/zeNwptYkYG8)
