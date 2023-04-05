@@ -50,7 +50,7 @@ u.sm_plot_ukr('ukrdata/fl-0404.csv','ukrdata/fl-2203.csv',["Bakhmut"],
               clat=48.6,clon=37.95,zoom=0.01)
 ```
 
-<img width='340' src='mbl/2023/ukr-5.jpg'/> 
+<img width='340' src='ukr-5.jpg'/> 
 
 ---
 
@@ -177,7 +177,7 @@ ps = [["West Bank",32.01211, 35.2883120],["Jerusalem",31.7737760, 35.206223]]
 u.sm_plot_list1(32, 35, 0.3, ps, elev=[100,200,300,500,800])
 ```
 
-[[-]](mbl/2023/isr1.jpg)
+[[-]](isr1.jpg)
 
 ---
 
@@ -187,7 +187,7 @@ mountain areas, we shall not rule in the country and we shall be like
 the Crusaders, who lost this country which was not theirs anyhow, and
 in which they were foreigners to begin with"
 
-[[-]](2023/04/strategy-for-israel-yinon.html)
+[[-]](../../2023/04/strategy-for-israel-yinon.html)
 
 ---
 
