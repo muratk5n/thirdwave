@@ -89,8 +89,8 @@ it's not "African".
 ---
 
 If you are an Estonian immigrant your child born in US won't be 80%,
-50% or even 10% Estonian - s/he will be 100% American. Local, regional
-culture rules all. Heritage means nothing.
+50% or even 10% Estonian - s/he will be 100% American. Majority local,
+regional culture rules all. Heritage means nothing.
 
 ---
 
