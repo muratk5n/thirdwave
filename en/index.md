@@ -14,10 +14,10 @@ A big step for clean energy"
 
 ---
 
-EPP Group@EPPGroup@respublicae.eu
+"@EPPGroup@respublicae.eu
 
 The future is looking brighter for #hydrogen production as Europe
-targets 42% #renewable hydrogen by 2030!
+targets 42% #renewable hydrogen by 2030!"
 
 ---
 
