@@ -1,5 +1,5 @@
 
-"EPPGroup@respublicae.eu
+"@EPPGroup@respublicae.eu
 
 \#RED3 agreement sets a new course for green #hydrogen in Europe. 
 
