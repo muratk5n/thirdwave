@@ -1,92 +1,110 @@
 
-"World's first liquid hydrogen-powered ferry gets operational.. The
-82.4-meter-long MF Hydra, which was delivered in 2021, can carry up to
-300 passengers and 80 vehicles. It will be able to travel at a speed
-of 9 knots thanks to its two 200 kW fuel cells, two 440 kW generators,
-and two Shottel thrusters"
+"EPPGroup@respublicae.eu
+
+\#RED3 agreement sets a new course for green #hydrogen in Europe. 
+
+Requirements have become more practical and the EU will focus on
+import strategies to meet the energy transition demands.
+
+The EPP Group has reduced bureaucratic barriers! 
+
+A big step for clean energy"
+
+<img width='340' src='https://files.respublicae.eu/media_attachments/files/110/151/473/147/069/100/original/081c6ea1b47753f5.jpg'/> 
 
 ---
 
-Red Hulk? Why not Kluh (name is Hulk in reverse). That is the baddest
-Hulk.
+EPP Group@EPPGroup@respublicae.eu
+
+The future is looking brighter for #hydrogen production as Europe
+targets 42% #renewable hydrogen by 2030!
 
 ---
 
-IDW: "Ammonia is known to be a good hydrogen carrier. [Researchers]
-show that ammonia can not only be used to carry hydrogen but also for
-the direct reduction of iron"
+H2 Central: "Yara Clean Ammonia.. and Enbridge Inc. announce the
+signing of a letter of intent to jointly develop and construct a world
+scale low-carbon blue ammonia production facility as equal
+partners. The proposed facility, which includes autothermal reforming
+with carbon capture, will be located.. near Corpus Christi, Texas...
 
-[[-]](https://idw-online.de/en/news811876)
-
----
-
-Sounds like rabid interventionism to me. What a jackass
-
-JFK: "[1961] Let every nation know..  that we shall pay any price,
-bear any burden, meet any hardship, support any friend, oppose any foe
-to assure the survival and the success of liberty"
-
----
-
-Apparently SB and its Signet allowed the hyper growth of FTX, without
-it they would have remained much smaller. Crypto ppl talk big game
-about upending the system but they needed a connection to the
-backbone, to the existing system through a bank. They found a few
-gullable ones, used them, esp SB with its fast Signet along with money
-launderers, criminals. 
-
-Yahoo Finance: "A class-action lawsuit was filed against Signature
-Bank in February, alleging the bank knew about – and facilitated – the
-'now infamous FTX fraud.' Specifically, the suit accuses Signature
-Bank of having knowledge of and permitting 'the commingling of [the
-FTX exchange's] customer funds within its proprietary,
-blockchain-based payments network, Signet'"
+Once operational, the production facility will be capable of supplying
+low-carbon ammonia to meet growing global demand, with an expected
+capacity of 1.2–1.4 million tons per annum. Approximately 95 percent
+of the carbon dioxide (CO2) generated from the production process is
+anticipated to be captured and transported to nearby permanent
+geologic storage"
 
 ---
 
-Artemis - Second Sight \#music
-
-[[-]](https://youtu.be/zeNwptYkYG8)
+Reuters: "TikTok faces €1.12 billion lawsuits in Portugal"
 
 ---
 
-If a near-future version of Trek is done, I'd want an Android there
-called "Meme" instead of "Data". This character would be a clownish,
-overly creative twat, all he does, all day long is generating memes;
-just spouts one meme after another. TNG's Data was smart with
-human-like strong AI, strived to learn art.. Meme has art but is
-extremely dumb just like the modern "AI" algorithms today, but tries
-to become smart. Meme acquiring an iota of intelligence in each
-episode will be his character arc. At the end of 10 seasons he'll be
-able to read text, summarize it, and drive a car.
+There is no "curse" - they are all --ing morons. Due to a weird
+condition.
 
 ---
 
-Barry Adamson - Cinematic Soul \#music
-
-[[-]](https://youtu.be/WGYc40UivOs?t=61)
-
----
-
-Emacs in *Tron Legacy*
-
-[[-]](https://i0.wp.com/craphound.com/images/TRON_GFX_BR_08.JPG?w=970)
+The Kennedy family - I think these people have a genetic condition,
+that compels them towards stupidity. One of them *ran into a tree* at
+full speed while skiing killing himself. Another flied a plane without
+much experience and died like his jackass father. The father himself
+died because of jackass entanglements with Cuba, likely bcz he tried
+to assasinate Castro but got assasinated himself.
 
 ---
 
-Reuters: "Saudi Arabia to invite Syrian president Assad for Arab
-leaders summit"
+Euractiv: "Czech coal mining regions want to be ‘hydrogen
+valleys’.. Three coal mining regions in the Czech Republic want to
+become Central European leaders in hydrogen technologies, the joint
+memorandum signed by the three regions’ governors in Prague on Tuesday
+reads"
 
 ---
 
-Yahoo News: "McCarthy vows to hold Bragg ‘and his unprecedented abuse
-of power to account’"
+First Post: "A Japanese military helicopter UH60 troop transport,
+commonly known as the Black Hawk, with 10 people on board disappeared
+from radar on Thursday near Miyakojima, part of its southwest Okinawa
+island chain, according to an army spokesperson and media reports"
 
 ---
 
-Politico: "With an ‘arraignment party,’ Trump jolts his campaign.. The
-ex-president chose a familiar defiance in his speech following his
-arrest. His fellow Republicans say it suits him well"
+😂 😂 
+
+AP News: "Anti-vaccine activist RFK Jr. challenging Biden in 2024"
+
+---
+
+Arab News: "Afghan Taliban raid kills 6 members of Daesh group"
+
+---
+
+F24: "Iran names envoy to UAE after nearly eight-year absence"
+
+---
+
+Fried chicken, or pan-fried chicken, is a traditional Southern meal,
+it's not "African".
+
+---
+
+If you are an Estonian immigrant your child born in US won't be 80%,
+50% or even 10% Estonian - s/he will be 100% American.  Heritage has
+zero effect. Local, regional culture rules all.
+
+---
+
+Al Jazeera: "US progressives galvanised by victory in Chicago mayoral
+race.. Once seen as a long-shot candidate, the progressive Johnson
+advanced to a run-off election against Paul Vallas, a conservative
+Democrat who pushed an aggressive message on crime and touted the
+endorsement of law enforcement groups"
+
+---
+
+WSJ: "Progressives had a banner day in the Midwest Tuesday, with
+victories for Chicago mayor and a swing seat on Wisconsin’s Supreme
+Court"
 
 ---
 

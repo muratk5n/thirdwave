@@ -1,5 +1,155 @@
 # Week 14
 
+"World's first liquid hydrogen-powered ferry gets operational.. The
+82.4-meter-long MF Hydra, which was delivered in 2021, can carry up to
+300 passengers and 80 vehicles. It will be able to travel at a speed
+of 9 knots thanks to its two 200 kW fuel cells, two 440 kW generators,
+and two Shottel thrusters"
+
+---
+
+Red Hulk? Why not Kluh (name is Hulk in reverse). That is the baddest
+Hulk.
+
+---
+
+IDW: "Ammonia is known to be a good hydrogen carrier. [Researchers]
+show that ammonia can not only be used to carry hydrogen but also for
+the direct reduction of iron"
+
+[[-]](https://idw-online.de/en/news811876)
+
+---
+
+Sounds like rabid interventionism to me. What a jackass
+
+JFK: "[1961] Let every nation know..  that we shall pay any price,
+bear any burden, meet any hardship, support any friend, oppose any foe
+to assure the survival and the success of liberty"
+
+---
+
+Apparently SB and its Signet allowed the hyper growth of FTX, without
+it they would have remained much smaller. Crypto ppl talk big game
+about upending the system but they needed a connection to the
+backbone, to the existing system through a bank. They found a few
+gullable ones, used them, esp SB with its fast Signet along with money
+launderers, criminals. 
+
+Yahoo Finance: "A class-action lawsuit was filed against Signature
+Bank in February, alleging the bank knew about – and facilitated – the
+'now infamous FTX fraud.' Specifically, the suit accuses Signature
+Bank of having knowledge of and permitting 'the commingling of [the
+FTX exchange's] customer funds within its proprietary,
+blockchain-based payments network, Signet'"
+
+---
+
+Artemis - Second Sight \#music
+
+[[-]](https://youtu.be/zeNwptYkYG8)
+
+---
+
+If a near-future version of Trek is done, I'd want an Android there
+called "Meme" instead of "Data". This character would be a clownish,
+overly creative twat, all he does, all day long is generating memes;
+just spouts one meme after another. TNG's Data was smart with
+human-like strong AI, strived to learn art.. Meme has art but is
+extremely dumb just like the modern "AI" algorithms today, but tries
+to become smart. Meme acquiring an iota of intelligence in each
+episode will be his character arc. At the end of 10 seasons he'll be
+able to read text, summarize it, and drive a car.
+
+---
+
+Barry Adamson - Cinematic Soul \#music
+
+[[-]](https://youtu.be/WGYc40UivOs?t=61)
+
+---
+
+Emacs in *Tron Legacy*
+
+[[-]](https://i0.wp.com/craphound.com/images/TRON_GFX_BR_08.JPG?w=970)
+
+---
+
+Reuters: "Saudi Arabia to invite Syrian president Assad for Arab
+leaders summit"
+
+---
+
+Yahoo News: "McCarthy vows to hold Bragg ‘and his unprecedented abuse
+of power to account’"
+
+---
+
+Politico: "With an ‘arraignment party,’ Trump jolts his campaign.. The
+ex-president chose a familiar defiance in his speech following his
+arrest. His fellow Republicans say it suits him well"
+
+---
+
+The comments on this topic keep getting better and better. Even Yann
+LeCun is up in arms. 
+
+---
+
+"[The response] It is dangerous to distract ourselves with a
+fantasized AI-enabled utopia or apocalypse which promises either a
+'flourishing' or 'potentially catastrophic' future. Such language that
+inflates the capabilities of automated systems and anthropomorphizes
+them, as we note in [Stochastic Parrots](https://dl.acm.org/doi/abs/10.1145/3442188.3445922), 
+deceives people into thinking that there is a sentient being behind the
+synthetic media. This not only lures people into uncritically trusting
+the outputs of systems like ChatGPT, but also misattributes agency"
+
+[[-]](https://www.dair-institute.org/blog/letter-statement-March2023)
+
+---
+
+"@timnitGebru@dair-community.social
+
+Because we were looking for more things to do when these clowns
+decided to write 'the letter,' [about so-called 'AI pause'] and cite our
+\#StochasticParrots paper while saying the opposite of what we write,
+we @emilymbender Angelina McMillan-Major and @mmitchell_ai wrote a
+statement in response"
+
+---
+
+Chomsky: "[NYT Opinion] The False Promise of ChatGPT.. OpenAI’s
+ChatGPT, Google’s Bard and Microsoft’s Sydney..  have been hailed as
+the first glimmers on the horizon of artificial general intelligence —
+that long-prophesied moment when mechanical minds surpass human
+brains.. That day may come, but its dawn is not yet breaking.. [as
+long as] machine learning programs like ChatGPT continue to dominate
+the field of A.I...
+
+The human mind is not, like ChatGPT and its ilk, a lumbering
+statistical engine for pattern matching, gorging on hundreds of
+terabytes of data and extrapolating the most likely conversational
+response or most probable answer to a scientific question. On the
+contrary, the human mind is a surprisingly efficient and even elegant
+system that operates with small amounts of information; it seeks not
+to infer brute correlations among data points but to create
+explanations..
+
+It summarizes the standard arguments in the literature by a kind of
+super-autocomplete.. In short, ChatGPT and its brethren are
+constitutionally unable to balance creativity with constraint. They
+either overgenerate (producing both truths and falsehoods, endorsing
+ethical and unethical decisions alike) or undergenerate (exhibiting
+noncommitment to any decisions and indifference to
+consequences). Given the amorality, faux science and linguistic
+incompetence of these systems, we can only laugh or cry at their
+popularity"
+
+[[-]](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html)
+
+---
+
 "@Hypx@mastodon.social
 
 Ford Is Getting Serious About Hydrogen Fuel Cell Technology For Super
