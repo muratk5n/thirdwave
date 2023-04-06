@@ -40,8 +40,8 @@ Reuters: "TikTok faces €1.12 billion lawsuits in Portugal"
 
 ---
 
-There is no "curse" - they are all --ing morons, due to this weird
-condition.
+There is no "curse" - they are all --ing morons, likely due to this
+weird condition, whatever it is. 
 
 ---
 
