@@ -62,10 +62,10 @@ reads"
 
 ---
 
-First Post: "A Japanese military helicopter UH60 troop transport,
-commonly known as the Black Hawk, with 10 people on board disappeared
-from radar on Thursday near Miyakojima, part of its southwest Okinawa
-island chain, according to an army spokesperson and media reports"
+First Post: "A Japanese military [Black Hawk] helicopter ..  with 10
+people on board disappeared from radar on Thursday near Miyakojima,
+part of its southwest Okinawa island chain, according to an army
+spokesperson and media reports"
 
 ---
 
