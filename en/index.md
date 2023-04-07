@@ -1,110 +1,100 @@
 
-"@EPPGroup@respublicae.eu
-
-\#RED3 agreement sets a new course for green #hydrogen in Europe. 
-
-Requirements have become more practical and the EU will focus on
-import strategies to meet the energy transition demands.
-
-The EPP Group has reduced bureaucratic barriers! 
-
-A big step for clean energy"
-
-<img width='340' src='https://files.respublicae.eu/media_attachments/files/110/151/473/147/069/100/original/081c6ea1b47753f5.jpg'/> 
+Reuters: "India plans to give green hydrogen fuel producers incentives
+worth at least 10% of their costs under a $2 billion scheme set to
+begin before the end of June, a top government official said.
+Reporting by Sarita Chaganti Singh; Editing by Alexander Smith and
+Christian Schmollinger "
 
 ---
 
-"@EPPGroup@respublicae.eu
-
-The future is looking brighter for #hydrogen production as Europe
-targets 42% #renewable hydrogen by 2030!"
-
----
-
-H2 Central: "Yara Clean Ammonia.. and Enbridge Inc. announce the
-signing of a letter of intent to jointly develop and construct a world
-scale low-carbon blue ammonia production facility as equal
-partners. The proposed facility, which includes autothermal reforming
-with carbon capture, will be located.. near Corpus Christi, Texas...
-
-Once operational, the production facility will be capable of supplying
-low-carbon ammonia to meet growing global demand, with an expected
-capacity of 1.2–1.4 million tons per annum. Approximately 95 percent
-of the carbon dioxide (CO2) generated from the production process is
-anticipated to be captured and transported to nearby permanent
-geologic storage"
+TT News: "[The North American Council for Freight Efficiency] Says
+Trucking’s Future Is With Hydrogen Group Notes It's Best Option to
+Reach Long-Term Goals"
 
 ---
 
-Reuters: "TikTok faces €1.12 billion lawsuits in Portugal"
+Nebraska Examiner: "Nebraska, two partner states bid to be ‘hydrogen
+hub’ that could bring $1 billion in federal funds"
 
 ---
 
-There is no "curse" - they are all --ing morons, likely due to this
-weird condition, whatever it is. 
+Offshore Energy: "China’s first hydrogen fuel cell powered boat, Three
+Gorges Hydrogen Boat No. 1, was successfully launched in Guangdong in
+mid-March"
 
 ---
 
-The Kennedy family - I think these people have a genetic condition,
-that compels them towards stupidity. One of them *ran into a tree* at
-full speed while skiing killing himself. Another flied a plane without
-much experience and died like his jackass father. The father himself
-died because of jackass entanglements with Cuba, likely bcz he tried
-to assasinate Castro but got assasinated himself.
+Buttafuoco went all in w crypto and got burned
+
+Bloomberg: "SkyBridge Capital Was Spiraling, and Then Came FTX.. The
+hedge fund’s bad crypto bets—and a reputational hit from its
+partnership with Sam Bankman-Fried—have investors looking for the
+exit"
 
 ---
 
-Euractiv: "Czech coal mining regions want to be ‘hydrogen
-valleys’.. Three coal mining regions in the Czech Republic want to
-become Central European leaders in hydrogen technologies, the joint
-memorandum signed by the three regions’ governors in Prague on Tuesday
-reads"
+How it's going
+
+Woody Allen: "Those who can't do, teach. And those who can't teach,
+teach gym"
 
 ---
 
-First Post: "A Japanese military [Black Hawk] helicopter ..  with 10
-people on board disappeared from radar on Thursday near Miyakojima,
-part of its southwest Okinawa island chain, according to an army
-spokesperson and media reports"
+How it started
+
+Aristotle: "Those that know, do. Those that understand, teach."
 
 ---
 
-😂 😂 
+The aim of the fraud is likely to qualify for tax credits that work on
+the basis of range
 
-AP News: "Anti-vaccine activist RFK Jr. challenging Biden in 2024"
-
----
-
-Arab News: "Afghan Taliban raid kills 6 members of Daesh group"
-
----
-
-F24: "Iran names envoy to UAE after nearly eight-year absence"
+Reuters: "[01/2023] South Korea fines Tesla $2.2 mln for exaggerating
+driving range of EVs.. antitrust regulator said it would impose
+a.. fine on Tesla for failing to tell its customers about the shorter
+driving range of its electric vehicles (EVs) in low temperatures"
 
 ---
 
-Fried chicken, or pan-fried chicken, is a traditional Southern meal,
-it's not "African".
+Russia Today: "West didn’t allow time for peace in Ukraine –
+Lula.. The US and the EU should have given diplomacy a chance before
+rushing into war, the Brazilian president has claimed"
 
 ---
 
-If you are an Estonian immigrant your child born in US won't be 80%,
-50% or even 10% Estonian - s/he will be 100% American. Majority local,
-regional culture rules all. Heritage means nothing.
+Ukrainska Pravda: "Brazilian president proposes Ukraine cede Crimea to
+Russia to stop the war"
 
 ---
 
-Al Jazeera: "US progressives galvanised by victory in Chicago mayoral
-race.. Once seen as a long-shot candidate, the progressive Johnson
-advanced to a run-off election against Paul Vallas, a conservative
-Democrat who pushed an aggressive message on crime and touted the
-endorsement of law enforcement groups"
+H2 View: "European Commission approves €450m scheme to support Italian
+renewable hydrogen"
 
 ---
 
-WSJ: "Progressives had a banner day in the Midwest Tuesday, with
-victories for Chicago mayor and a swing seat on Wisconsin’s Supreme
-Court"
+H2 Central: "Multi-Billion Dollar Clean Ammonia Manufacturing
+Investment Advancing in Southern WV"
+
+---
+
+G/E: The global de-dollarization campaign is gaining momentum, as
+countries around the world seek alternatives to the hegemony of the US
+dollar. China, Russia, Brazil, India, ASEAN nations, Kenya, Saudi
+Arabia, and the UAE are now using local currencies in trade..
+
+China and Russia are trading in their own currencies.
+
+Beijing and Brazil have also dropped the dollar in bilateral trade.
+
+The UAE is selling China its gas in yuan, through a French company.
+
+Southeast Asian nations in ASEAN are de-dollarizing their trade,
+promoting local payment systems.
+
+Kenya is buying Persian Gulf oil with its own currency.
+
+Even the Financial Times newspaper has acknowledged that a “multipolar
+currency world” is emerging"
 
 ---
 
