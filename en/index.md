@@ -56,8 +56,8 @@ driving range of its electric vehicles (EVs) in low temperatures"
 
 ---
 
-Russia Today: "West didn’t allow time for peace in Ukraine –
-Lula.. The US and the EU should have given diplomacy a chance before
+Russia Today: "West didn’t allow time for peace in Ukraine [said
+Lula].. The US and the EU should have given diplomacy a chance before
 rushing into war, the Brazilian president has claimed"
 
 ---
