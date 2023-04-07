@@ -8,7 +8,7 @@ Christian Schmollinger "
 ---
 
 TT News: "[The North American Council for Freight Efficiency] Says
-Trucking’s Future Is With Hydrogen Group Notes It's Best Option to
+Trucking’s Future Is With Hydrogen.. Group Notes It's Best Option to
 Reach Long-Term Goals"
 
 ---
