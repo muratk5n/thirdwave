@@ -1,6 +1,105 @@
 # Week 14
 
 
+Reuters: "India plans to give green hydrogen fuel producers incentives
+worth at least 10% of their costs under a $2 billion scheme set to
+begin before the end of June, a top government official said.
+Reporting by Sarita Chaganti Singh; Editing by Alexander Smith and
+Christian Schmollinger "
+
+---
+
+TT News: "[The North American Council for Freight Efficiency] Says
+Trucking’s Future Is With Hydrogen.. Group Notes It's Best Option to
+Reach Long-Term Goals"
+
+---
+
+Nebraska Examiner: "Nebraska, two partner states bid to be ‘hydrogen
+hub’ that could bring $1 billion in federal funds"
+
+---
+
+Offshore Energy: "China’s first hydrogen fuel cell powered boat, Three
+Gorges Hydrogen Boat No. 1, was successfully launched in Guangdong in
+mid-March"
+
+---
+
+Buttafuoco went all in w crypto and got burned
+
+Bloomberg: "SkyBridge Capital Was Spiraling, and Then Came FTX.. The
+hedge fund’s bad crypto bets—and a reputational hit from its
+partnership with Sam Bankman-Fried—have investors looking for the
+exit"
+
+---
+
+How it's going
+
+Woody Allen: "Those who can't do, teach. And those who can't teach,
+teach gym"
+
+---
+
+How it started
+
+Aristotle: "Those that know, do. Those that understand, teach."
+
+---
+
+The aim of the fraud is likely to qualify for tax credits that work on
+the basis of range
+
+Reuters: "[01/2023] South Korea fines Tesla $2.2 mln for exaggerating
+driving range of EVs.. antitrust regulator said it would impose
+a.. fine on Tesla for failing to tell its customers about the shorter
+driving range of its electric vehicles (EVs) in low temperatures"
+
+---
+
+Russia Today: "West didn’t allow time for peace in Ukraine [said
+Lula].. The US and the EU should have given diplomacy a chance before
+rushing into war, the Brazilian president has claimed"
+
+---
+
+Ukrainska Pravda: "Brazilian president proposes Ukraine cede Crimea to
+Russia to stop the war"
+
+---
+
+H2 View: "European Commission approves €450m scheme to support Italian
+renewable hydrogen"
+
+---
+
+H2 Central: "Multi-Billion Dollar Clean Ammonia Manufacturing
+Investment Advancing in Southern WV"
+
+---
+
+G/E: The global de-dollarization campaign is gaining momentum, as
+countries around the world seek alternatives to the hegemony of the US
+dollar. China, Russia, Brazil, India, ASEAN nations, Kenya, Saudi
+Arabia, and the UAE are now using local currencies in trade..
+
+China and Russia are trading in their own currencies.
+
+Beijing and Brazil have also dropped the dollar in bilateral trade.
+
+The UAE is selling China its gas in yuan, through a French company.
+
+Southeast Asian nations in ASEAN are de-dollarizing their trade,
+promoting local payment systems.
+
+Kenya is buying Persian Gulf oil with its own currency.
+
+Even the Financial Times newspaper has acknowledged that a “multipolar
+currency world” is emerging"
+
+---
+
 "@EPPGroup@respublicae.eu
 
 \#RED3 agreement sets a new course for green #hydrogen in Europe. 

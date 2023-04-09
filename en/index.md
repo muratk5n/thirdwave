@@ -1,100 +1,48 @@
 
-Reuters: "India plans to give green hydrogen fuel producers incentives
-worth at least 10% of their costs under a $2 billion scheme set to
-begin before the end of June, a top government official said.
-Reporting by Sarita Chaganti Singh; Editing by Alexander Smith and
-Christian Schmollinger "
+When it was on, the game was great. You could even do variations; you
+could say "Democrats and Republicans need to come together" even when
+the schisms they experienced were manufactured and subpar, but the [uniter](2021/02/unity.htmml),
+narrative offered some brownie points.. You could pretend to [hate the game](https://drive.google.com/uc?export=view&id=1r8wAGwhOmflPy0vCbbSEM0mSb16Ua7qF), 
+while being a much loved actor in it (at least for one side).. 
 
 ---
 
-TT News: "[The North American Council for Freight Efficiency] Says
-Trucking’s Future Is With Hydrogen.. Group Notes It's Best Option to
-Reach Long-Term Goals"
+The gun issue *became* deadly of course due to neglect, in a sane
+political discourse it could have been solved. Now it is hot-button
+material, untouchable, member on each side need to be fanatical about it
+to affirm their party allegiance. 
 
 ---
 
-Nebraska Examiner: "Nebraska, two partner states bid to be ‘hydrogen
-hub’ that could bring $1 billion in federal funds"
+[Link](mbl/2022/twimg/FimCFrjWIAMztMt.jpg)
 
 ---
 
-Offshore Energy: "China’s first hydrogen fuel cell powered boat, Three
-Gorges Hydrogen Boat No. 1, was successfully launched in Guangdong in
-mid-March"
+The establishment is dying to go back to that narrative (great for
+ratings, makes politicians look like they are actually discussing
+something, albeit second-rate, usually agreeable stuff). At the
+same time of course both sides offer bipartisan support to a war that
+could be ended in a day, letting a legit journalist rotting in jail
+and healthcare issue kept MIA. The guy who says he signed up to military
+to fight in [useless wars](2023/03/isiah-james-iraq.html) because he was poor and
+had no healthcare gets no traction. That shit is just too real - not
+part of the plan.
 
 ---
 
-Buttafuoco went all in w crypto and got burned
-
-Bloomberg: "SkyBridge Capital Was Spiraling, and Then Came FTX.. The
-hedge fund’s bad crypto bets—and a reputational hit from its
-partnership with Sam Bankman-Fried—have investors looking for the
-exit"
-
----
-
-How it's going
-
-Woody Allen: "Those who can't do, teach. And those who can't teach,
-teach gym"
+Ah the good ol' gun issue is back, with racial overtones this time
+\#Tennesee. Culture war in overdrive. Throw in some abortion, "trans
+issues", with little toxic masculunity on the side the picture would
+be complete. Continuing on the [Dick Morris](2021/10/all-too-human.html#triangulation)
+plan.
 
 ---
 
-How it started
-
-Aristotle: "Those that know, do. Those that understand, teach."
+[Link](https://drive.google.com/uc?export=view&id=1rH7FA_oixN4sZ2hbZeYxPP8H1pHWfmPs)
 
 ---
 
-The aim of the fraud is likely to qualify for tax credits that work on
-the basis of range
-
-Reuters: "[01/2023] South Korea fines Tesla $2.2 mln for exaggerating
-driving range of EVs.. antitrust regulator said it would impose
-a.. fine on Tesla for failing to tell its customers about the shorter
-driving range of its electric vehicles (EVs) in low temperatures"
-
----
-
-Russia Today: "West didn’t allow time for peace in Ukraine [said
-Lula].. The US and the EU should have given diplomacy a chance before
-rushing into war, the Brazilian president has claimed"
-
----
-
-Ukrainska Pravda: "Brazilian president proposes Ukraine cede Crimea to
-Russia to stop the war"
-
----
-
-H2 View: "European Commission approves €450m scheme to support Italian
-renewable hydrogen"
-
----
-
-H2 Central: "Multi-Billion Dollar Clean Ammonia Manufacturing
-Investment Advancing in Southern WV"
-
----
-
-G/E: The global de-dollarization campaign is gaining momentum, as
-countries around the world seek alternatives to the hegemony of the US
-dollar. China, Russia, Brazil, India, ASEAN nations, Kenya, Saudi
-Arabia, and the UAE are now using local currencies in trade..
-
-China and Russia are trading in their own currencies.
-
-Beijing and Brazil have also dropped the dollar in bilateral trade.
-
-The UAE is selling China its gas in yuan, through a French company.
-
-Southeast Asian nations in ASEAN are de-dollarizing their trade,
-promoting local payment systems.
-
-Kenya is buying Persian Gulf oil with its own currency.
-
-Even the Financial Times newspaper has acknowledged that a “multipolar
-currency world” is emerging"
+"We go to the moon because I'm haaahd"
 
 ---
 

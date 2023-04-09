@@ -14,6 +14,8 @@
 
 [US Military (Bases, Nukes)](../../2023/01/usmil.html)
 
+[Foreign Militaries (Bases)](../../2023/01/formil.html)
+
 [Oil, Gas and Minerals](../../2022/01/oilgasmin.html)
 
 [Drugs](../../2023/01/drugs.html)
