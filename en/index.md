@@ -28,10 +28,6 @@ to affirm their party allegiance.
 
 ---
 
-[Link](mbl/2022/twimg/FimCFrjWIAMztMt.jpg)
-
----
-
 The establishment is dying to go back to that narrative (great for
 ratings, makes politicians look like they are actually discussing
 something, albeit second-rate, usually agreeable stuff). At the
@@ -41,6 +37,10 @@ and healthcare issue kept MIA. The guy who says he signed up to military
 to fight in [useless wars](2023/03/isiah-james-iraq.html) because he was poor and
 had no healthcare gets no traction. That shit is just too real - not
 part of the plan.
+
+---
+
+[Link](mbl/2022/twimg/FimCFrjWIAMztMt.jpg)
 
 ---
 
