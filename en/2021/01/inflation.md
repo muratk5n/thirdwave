@@ -105,6 +105,57 @@ inflationary. One rich person can only buy so many cars. But a million
 with increased wages can buy millions of products, bidding up their
 prices which for unchanged set of products will cause inflation.
 
+<a name='autocorr'/>
+
+Autocorrelation
+
+There is another troubling aspect to inflation, by just being there,
+inflation can create more inflation. This is what people means when
+they say inflation time series is autocorrelated, ie a value today is
+correlated with another value yesterday, signaling yesterday's value
+alone effects inflation today. It is easy to see why, pricing is
+imperfect, producers, landlords see higher prices, they increase
+prices to match, they mostly overshoot. This is partly why Central
+Banks raise rates as well to quash that self-reinforcing effect.
+
+We can check for the presence of autoocorrelation statistically using
+the Durbin-Watson test, or Ljung-Box Q-statistic. Investopedia: "The
+Durbin-Watson statistic will always have a value ranging between 0 and
+4.. [v]alues from 0 to less than 2 point to positive autocorrelation".
+
+```python
+from pandas_datareader.data import DataReader # get data from FRED
+cpi = DataReader('CPIAUCNS', 'fred', start='1971-01', end='2016-12')
+
+import statsmodels.formula.api as smf
+from statsmodels.stats.stattools import durbin_watson
+inf = np.log(cpi)
+results = smf.ols('CPIAUCNS ~ 1', data=inf).fit()
+print (durbin_watson(results.resid))
+```
+
+```text
+9.222098132626528e-05
+```
+
+Hints at autocorrelation
+
+Ljung-Box
+
+```python
+import statsmodels.tsa.stattools as tsa
+acf,confint,qstat,pvalues = tsa.acf(results.resid, nlags=4, alpha=95,qstat=True, unbiased=True)
+print (acf)
+print (pvalues)
+```
+
+```text
+[1.         0.99585547 0.99164499 0.98737151 0.98305291]
+[1.02286496e-121 5.63735022e-239 0.00000000e+000 0.00000000e+000]
+```
+
+Low pval means presence of autocorrelation.
+
 Marginal Revolution University
 
 <iframe width="340" src="https://www.youtube.com/embed/gi7jx5IJtik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
