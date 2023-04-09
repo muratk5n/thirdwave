@@ -1,7 +1,7 @@
 
 When it was on, the game was great. You could even do variations; you
 could say "Democrats and Republicans need to come together" even when
-the schisms they experienced were manufactured and subpar, but the [uniter](2021/02/unity.html),
+the schisms they experienced were manufactured and subpar, but the uniter
 narrative offered some brownie points.. You could pretend to [hate the game](https://drive.google.com/uc?export=view&id=1r8wAGwhOmflPy0vCbbSEM0mSb16Ua7qF), 
 while being a much loved player in it (at least for one side).. 
 
