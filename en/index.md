@@ -1,4 +1,18 @@
 
+NYT: "French Visit Undercuts U.S. Efforts to Control China'
+
+---
+
+Informed Comment: "Netanyahu Brought Israeli Extremists to Power and
+Seeks more Arab Recognition; He can’t have Both"
+
+---
+
+WION: "Coronavirus led to brain damage in two infants infected during
+pregnancy: Study"
+
+---
+
 When it was on, the game was great. You could even do variations; you
 could say "Democrats and Republicans need to come together" even when
 the schisms they experienced were manufactured and subpar, but the uniter
@@ -43,6 +57,17 @@ plan.
 ---
 
 "We go to the moon because I'm haaahd"
+
+---
+
+NYT: "China to Do Military Drills Around Taiwan"
+
+---
+
+The Japan Times: "U.S. deploys nuclear submarine in Mideast amid Iran
+tension.. The USS Florida — capable of carrying as many as 154
+Tomahawk land-attack cruise missiles — began transiting the Suez Canal
+from the Mediterranean Sea"
 
 ---
 
