@@ -110,10 +110,10 @@ prices which for unchanged set of products will cause inflation.
 Autocorrelation
 
 There is another troubling aspect to inflation, by just being there,
-inflation can create more inflation. This is what people means when
-they say inflation time series is autocorrelated, ie a value today is
-correlated with another value yesterday, signaling yesterday's value
-alone effects inflation today. It is easy to see why, pricing is
+inflation can create more inflation. This is what economists mean when
+they say inflation time series is "autocorrelated", ie a value today
+is correlated with another value yesterday, signaling yesterday's
+value alone effects inflation today. It is easy to see why, pricing is
 imperfect, producers, landlords see higher prices, they increase
 prices to match, they mostly overshoot. This is partly why Central
 Banks raise rates as well to quash that self-reinforcing effect.
