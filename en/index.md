@@ -1,5 +1,5 @@
 
-NYT: "French Visit Undercuts U.S. Efforts to Control China'
+NYT: "French Visit Undercuts U.S. Efforts to Control China"
 
 ---
 
