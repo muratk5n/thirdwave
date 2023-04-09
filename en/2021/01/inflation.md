@@ -115,8 +115,8 @@ they say inflation time series is "autocorrelated", ie a value today
 is correlated with values from yesterday, signaling that value alone
 can effect inflation today. It is easy to see why, pricing is
 imperfect, producers, landlords see higher prices, they increase
-prices to match, they mostly overshoot. This is partly why Central
-Banks raise rates as well to quash that self-reinforcing effect.
+prices to match, they mostly overshoot. This is also why Central Banks
+raise rates to quash that self-reinforcing effect.
 
 We can check for the presence of autoocorrelation statistically using
 the Durbin-Watson test, or Ljung-Box Q-statistic. Investopedia: "The
