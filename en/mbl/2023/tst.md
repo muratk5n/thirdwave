@@ -7,6 +7,16 @@ pd.set_option('display.max_columns', None)
 ```
 
 
+
+
+
+
+
+
+
+
+
+
 ```python
 ps = ["Bakhmut"]
 u.sm_plot_ukr('ukrdata/fl-0404.csv','ukrdata/fl-2203.csv',

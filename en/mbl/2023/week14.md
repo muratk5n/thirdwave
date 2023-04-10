@@ -305,29 +305,6 @@ LeCun is up in arms.
 
 ---
 
-"[The response] It is dangerous to distract ourselves with a
-fantasized AI-enabled utopia or apocalypse which promises either a
-'flourishing' or 'potentially catastrophic' future. Such language that
-inflates the capabilities of automated systems and anthropomorphizes
-them, as we note in [Stochastic Parrots](https://dl.acm.org/doi/abs/10.1145/3442188.3445922), 
-deceives people into thinking that there is a sentient being behind the
-synthetic media. This not only lures people into uncritically trusting
-the outputs of systems like ChatGPT, but also misattributes agency"
-
-[[-]](https://www.dair-institute.org/blog/letter-statement-March2023)
-
----
-
-"@timnitGebru@dair-community.social
-
-Because we were looking for more things to do when these clowns
-decided to write 'the letter,' [about so-called 'AI pause'] and cite our
-\#StochasticParrots paper while saying the opposite of what we write,
-we @emilymbender Angelina McMillan-Major and @mmitchell_ai wrote a
-statement in response"
-
----
-
 Chomsky: "[NYT Opinion] The False Promise of ChatGPT.. OpenAI’s
 ChatGPT, Google’s Bard and Microsoft’s Sydney..  have been hailed as
 the first glimmers on the horizon of artificial general intelligence —
