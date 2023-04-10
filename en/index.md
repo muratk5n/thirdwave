@@ -31,7 +31,7 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 NATO was useful for Turkland when it was but the Western alliance has
 not been doing well - it is mostly the instigator of chaos now,
-creating much damage offering little in return.
+creating much damage offering little in return. 
 
 ---
 
@@ -39,7 +39,7 @@ creating much damage offering little in return.
 
 ---
 
-No worries all will be fine
+It will all be fine. 
 
 Reuters: "Finland joins NATO in historic shift"
 
