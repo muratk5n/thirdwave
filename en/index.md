@@ -68,6 +68,8 @@ will be floating.
 ---
 
 Checked flooding levels using tool [here](https://coastal.climatecentral.org/).
+Below is the result of simulated 7m rise. Red parts will be regions
+under water.
 
 [Map 1](mbl/2023/searise1.jpg),
 [Map 2](mbl/2023/searise2.jpg),
