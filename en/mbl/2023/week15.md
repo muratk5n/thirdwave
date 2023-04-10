@@ -42,14 +42,14 @@ part of the plan.
 
 ---
 
-[Link](mbl/2022/twimg/FimCFrjWIAMztMt.jpg)
+[Link](../2022/twimg/FimCFrjWIAMztMt.jpg)
 
 ---
 
 Ah the good ol' gun issue is back, with racial overtones this time
 \#Tennesee. Culture war, the next phase. Throw in some abortion, "trans
 issues", with little toxic masculunity on the side the picture would
-be complete. Continuing on the [Dick Morris](2021/10/all-too-human.html#triangulation)
+be complete. Continuing on the [Dick Morris](../../2021/10/all-too-human.html#triangulation)
 plan.
 
 ---

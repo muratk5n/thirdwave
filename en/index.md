@@ -1,8 +1,8 @@
 
 Bakhmut became strategically key, both due to its location (at a
 gateway to the rest of Donbas), also bcz Ukraine decided to take a
-stand there and *make* it important. Looking at its topo I can see why
-- has two funky mountain systems going into it from South, and another
+stand there and *make* it important. Looking at its topo I can see why - 
+has two funky mountain systems going into it from South, and another
 ranging along its West. Surely UA exploited that structure to set up
 staggered defense lines, and delayed RU for as long as they could. But
 it looks like the game is nearing its end.
