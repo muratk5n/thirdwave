@@ -24,6 +24,8 @@ plt.savefig('ghg1.png')
 
 ![](ghg1.png)
 
+<a name='alltime'/>
+
 ### Top Polluters, All Time, 1751-2014
 
 ```python

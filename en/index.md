@@ -62,6 +62,12 @@ failures, Trump administration"
 
 ---
 
+Quick reminder on who is responsible for CO2 emissions
+
+historical-carbon-emissions.html#alltime
+
+---
+
 NL could turn into a "seasteading nation" by then, as in most houses
 will be floating.
 
