@@ -7,6 +7,11 @@ pd.set_option('display.max_columns', None)
 ```
 
 
+```python
+sh = np.vstack([np.array(u.usnavy()[['name','lat','lon']]), ['Taiwan',23,120]])
+u.sm_plot_list1(29, 131, 2.0, sh)
+plt.savefig('/tmp/out.jpg',quality=50)
+```
 
 
 
@@ -47,10 +52,10 @@ u.biden_approval()['net'].tail(4)
 ```text
 Out[1]: 
 modeldate
-2023-03-29   -10.400897
-2023-03-30   -10.605330
-2023-03-31   -10.766547
-2023-04-01   -10.761750
+2023-04-04   -10.103706
+2023-04-05    -9.695323
+2023-04-06    -9.941157
+2023-04-07   -10.351105
 Name: net, dtype: float64
 ```
 

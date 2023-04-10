@@ -1,6 +1,5 @@
 # Week 15
 
-
 NYT: "French Visit Undercuts U.S. Efforts to Control China"
 
 ---

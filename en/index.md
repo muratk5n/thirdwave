@@ -11,7 +11,7 @@ it looks like the game is nearing its end.
 
 ---
 
-A lot of ignorant people commenting on things they don't fully understand.
+A lot of ignorant people are commenting on things they don't fully understand.
 
 "@timnitGebru@dair-community.social
 
