@@ -29,7 +29,7 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-NATO was useful for Asia Minor when it was but the Western alliance
+NATO was useful for Asia Minor for a while but the Western alliance
 has not been doing well - it is mostly the instigator of chaos now,
 creating much damage offering little in return.
 
