@@ -1,7 +1,7 @@
 # Clean Fuels are the Solution
 
 The world reached its current predicament due to the use of [bad]
-technology. Between 1751-2014 tons of carbon was [emitted](../../2021/07/historical-carbon-emissions.html)
+technology. Between 1751-2014 tons of carbon was [emitted](../../2021/01/historical-carbon-emissions.html)
 into the atmosphere, and the causation relation between that and the global
 warming is [clear to see](../../2015/08/temp-increase.html#carbon).
 70% of the carbon emitted during this 200+ year period was by US, China,

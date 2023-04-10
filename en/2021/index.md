@@ -50,7 +50,7 @@
 
 [Seeing Red](06/seeing-red-arp.html)
 
-[Historical Carbon Emissions](07/historical-carbon-emissions.html)
+[Historical Carbon Emissions](01/historical-carbon-emissions.html)
 
 [Lycia](07/lycian-history.html)
 

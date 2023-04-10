@@ -32,7 +32,7 @@
 
 [The Math for Greenhouse Effect and Global Warming](../../0119/2019/07/greenhouse-effect-math.html)
 
-[Historical Carbon Emissions](../../2021/07/historical-carbon-emissions.html)
+[Historical Carbon Emissions](../../2021/01/historical-carbon-emissions.html)
 
 [Fires](../../2023/01/natdisaster.html#fires)
 
