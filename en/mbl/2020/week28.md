@@ -381,12 +381,6 @@ Sir Gus O'Donnell calls for wealth tax as part of UK's Covid-19 response"
 
 ---
 
-"Chelsea Manning’s Jailer Is Running For Congress -- As A Democrat"
-
-[Link](https://sirota.substack.com/p/chelsea-mannings-jailer-is-running)
-
----
-
 Taibbi: "[R]ather than confronting how they contribute to systematic
 racism, companies tend to force their employees into trainings with
 outside academics like DiAngelo. 

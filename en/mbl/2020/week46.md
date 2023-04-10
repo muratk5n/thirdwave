@@ -202,21 +202,6 @@ NEWS: Clark ballots are in, Biden doubles lead to 22K in Nevada"
 
 ---
 
-Sirota: "Disengaging and going back to brunch is a formula for a
-repeat of 2010 and 2016 ..
-
-Sending money to sham groups like the Lincoln Project for them to
-light it on fire or use it to set up a conservative media outlet is
-destructive — if you want to pitch in resources, give it to a news
-organization doing journalism that holds politicians accountable.
-
-Run for an office in the 2022 election — and don’t be afraid to run in
-a primary against a Democrat who is part of the problem"
-
-[Link](https://jacobinmag.com/2020/11/alexandria-ocasio-cortez-democrats-aoc-biden-trump)
-
----
-
 "@AlexGabuev
 
 Today's deal announced by Putin, @presidentaz & @NikolPashinyan in

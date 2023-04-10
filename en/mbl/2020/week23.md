@@ -864,30 +864,6 @@ flippant that's the answer.
 
 ---
 
-Sirota: "Democrats’ Cobra plan may secure insurance companies’ profit-skimming
-position between Americans and their healthcare providers for decades
-to come. ...
-
-Many of the self-styled progressive advocacy groups in Washington that
-posture as #resistance leaders turned a blind eye to the bill’s
-problems and endorsed the legislation shortly after it was introduced,
-undercutting progressive lawmakers off the bat.
-
-Making matters worse was the theater on the House floor. During the
-debate over the Democratic bill, nine progressive lawmakers made a
-public show of voting against the procedural measure to advance the
-bill, along with a tiny group of moderates. When it came to the real
-vote on actually passing the bill, a larger group of moderates ended
-up voting against it, but only one progressive lawmaker,
-Representative Pramila Jayapal, voted no. Had the progressives and
-moderates combined forces on either of the votes, they would have
-forced the bill back to the drawing board. Instead, their shenanigans
-ultimately helped secure the legislation’s passage"
-
-[Link](https://www.theguardian.com/commentisfree/2020/may/26/democrats-trump-corporate-counter-revolution)
-
----
-
 If u paid attn to the man instead of shouting him down u'd be in much
 pos today wouldnt you? \#cap
 

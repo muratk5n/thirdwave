@@ -432,12 +432,6 @@ corporations"
 
 ---
 
-Sirota: "Republicans Defunded The Police We Need "
-
-[Link](https://sirota.substack.com/p/republicans-defunded-the-police-we)
-
----
-
 *Space Force* the TV show, thumbs down. What a waste of talent.
 
 ---

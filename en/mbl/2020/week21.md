@@ -147,19 +147,6 @@ mean?"
 
 ---
 
-"Since the pandemic started, 27 million Americans have lost their
-employer-based health insurance. Instead of covering the uninsured
-through Medicare or Medicaid, Democrats decided it would be better to
-pay COBRA premiums through January for people who have lost their
-health insurance. COBRA is expensive and wouldn’t help Americans who
-were already uninsured -- but the move would deliver more revenue to
-the health care industry that wants the governmentto pay top-dollar to
-keep people on the insurance plans they just lost"
-
-[Link](https://sirota.substack.com/p/dems-aim-to-subsidize-the-opponents)
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Bitcoin?src=hash&amp;ref_src=twsrc%5Etfw">#Bitcoin</a> transaction fees are becoming a meme, that&#39;s how bad it&#39;s getting.<a href="https://twitter.com/hashtag/JustUseNano?src=hash&amp;ref_src=twsrc%5Etfw">#JustUseNano</a> <a href="https://twitter.com/search?q=%24NANO&amp;src=ctag&amp;ref_src=twsrc%5Etfw">NANO</a> <a href="https://t.co/fDKhAgMgLA">https://t.co/fDKhAgMgLA</a></p>&mdash; Nano Seagull ⋰·⋰ (@nanoseagull) <a href="https://twitter.com/nanoseagull/status/1262696971854327809?ref_src=twsrc%5Etfw">May 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---

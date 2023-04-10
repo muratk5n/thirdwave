@@ -518,12 +518,6 @@ from the metal and then negotiated a license deal with id"
 
 ---
 
-Senate Democrats’ Machine Spent $15 Million To Destroy Progressive Primary Candidates
-
-[Link](https://sirota.substack.com/p/senate-democrats-machine-spent-15)
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">3D printing without plastic? Meet the intern mixing simulated Moon dust and algae at <a href="https://twitter.com/esa?ref_src=twsrc%5Etfw">@esa</a>&#39;s European Astronaut Centre. It could help form the recipe for a future lunar base 🌱🌙<a href="https://twitter.com/hashtag/blog?src=hash&amp;ref_src=twsrc%5Etfw">#blog</a> <a href="https://t.co/5OGSAhAu8v">https://t.co/5OGSAhAu8v</a> <a href="https://t.co/wkMsb2VcBT">pic.twitter.com/wkMsb2VcBT</a></p>&mdash; Human Spaceflight (@esaspaceflight) <a href="https://twitter.com/esaspaceflight/status/1283372439498620928?ref_src=twsrc%5Etfw">July 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
