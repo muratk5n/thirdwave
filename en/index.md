@@ -39,7 +39,7 @@ creating much damage offering little in return.
 
 ---
 
-It will all be fine. 
+It will all be fine. NATO is just great.
 
 Reuters: "Finland joins NATO in historic shift"
 
