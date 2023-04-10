@@ -55,7 +55,7 @@ At least WH is owning up a good decision to pull out from AFG when it
 did. But it is possible WH was way too embarrassed about the situation
 earlier, and went cowboy with Ukraine to offset it, to "show strength",
 also trying to deter 'certain countries' who might get funky ideas. That
-was not good.
+did not work too well for Ukraine.
 
 PBS: "U.S. report on Afghanistan evacuation blames intelligence
 failures, Trump administration"
