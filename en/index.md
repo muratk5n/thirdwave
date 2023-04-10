@@ -62,9 +62,9 @@ failures, Trump administration"
 
 ---
 
-Quick reminder on who is responsible for CO2 emissions
+Quick reminder on which countries are responsible for CO2 emissions
 
-historical-carbon-emissions.html#alltime
+[[-]](2021/01/historical-carbon-emissions.html#alltime)
 
 ---
 
