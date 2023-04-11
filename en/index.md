@@ -1,17 +1,5 @@
 
-Bakhmut became strategically key, both due to its location (at a
-gateway to the rest of Donbas), also bcz Ukraine decided to take a
-stand there and *make* it important. Looking at its topo I can see why - 
-has two funky mountain systems going into it from South, and another
-ranging along its West. Surely UA exploited that structure to set up
-staggered defense lines, and delayed RU for as long as they could. But
-it looks like the game is nearing its end.
-
-<img width='340' src='mbl/2023/ukr-6.jpg'/>
-
----
-
-A lot of ignorant people are commenting on things they don't fully understand.
+Pinned Post
 
 "@timnitGebru@dair-community.social
 
@@ -29,89 +17,71 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-NATO was useful for Asia Minor for a while but the Western alliance
-has not been doing well - it is mostly the instigator of chaos now,
-creating much damage offering little in return.
+That ship was last spotted at Japanese port; major firepower piled up
+over there BTW, occasionally a ship there takes a little trip, does a
+little moonwalk in someone else's backyard, goes back home.
+
+```python
+sh = np.vstack([np.array(u.usnavy()[['name','lat','lon']]), ['Taiwan',23,120]])
+u.sm_plot_list1(29, 131, 2.0, sh)
+```
+
+<img width='340' src='mbl/2023/usnavy3.jpg'/> 
 
 ---
 
-[Link](https://drive.google.com/uc?export=view&id=1ZNibTZyjEWqYTS8qeFW3Kw4siw_GOMnA)
+TASS: "'On April 10, the USS Milius guided-missile destroyer illegally
+entered the waters around the Meiji Reef near China’s Nansha islands
+without the approval of the Chinese government,' China Central
+Television [said]"
 
 ---
 
-It will all be fine. NATO is just great.
+Chomsky: "[NYT Opinion] The False Promise of ChatGPT.. OpenAI’s
+ChatGPT, Google’s Bard and Microsoft’s Sydney..  have been hailed as
+the first glimmers on the horizon of artificial general intelligence —
+that long-prophesied moment when mechanical minds surpass human
+brains.. That day may come, but its dawn is not yet breaking.. [as
+long as] machine learning programs like ChatGPT continue to dominate
+the field of A.I...
 
-Reuters: "Finland joins NATO in historic shift"
+The human mind is not, like ChatGPT and its ilk, a lumbering
+statistical engine for pattern matching, gorging on hundreds of
+terabytes of data and extrapolating the most likely conversational
+response or most probable answer to a scientific question. On the
+contrary, the human mind is a surprisingly efficient and even elegant
+system that operates with small amounts of information; it seeks not
+to infer brute correlations among data points but to create
+explanations..
 
----
+It summarizes the standard arguments in the literature by a kind of
+super-autocomplete.. In short, ChatGPT and its brethren are
+constitutionally unable to balance creativity with constraint. They
+either overgenerate (producing both truths and falsehoods, endorsing
+ethical and unethical decisions alike) or undergenerate (exhibiting
+noncommitment to any decisions and indifference to
+consequences). Given the amorality, faux science and linguistic
+incompetence of these systems, we can only laugh or cry at their
+popularity"
 
-The Sound Stylistics - Soul Dynamite \#music
-
-[[-]](https://youtu.be/l5L2dyMGbUU)
-
----
-
-At least WH is owning up to a good decision to pull out from AFG when
-it did. But it is possible WH was way too embarrassed about the
-situation earlier, and went cowboy with Ukraine to offset it, to "show
-strength", also trying to deter "certain countries" who might get
-funky ideas later. That did not work too well for Ukraine.
-
-PBS: "U.S. report on Afghanistan evacuation blames intelligence
-failures, Trump administration"
-
----
-
-Quick reminder on which countries are responsible for CO2 emissions
-
-[[-]](2021/01/historical-carbon-emissions.html#alltime)
-
----
-
-NL could turn into a "seasteading nation" by then, as in most houses
-will be floating.
+[[-]](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html)
 
 ---
 
-Checked flooding levels using tool [here](https://coastal.climatecentral.org/).
-Below is the result of simulated 7m rise. Red parts will be regions
-under water.
-
-[Map 1](mbl/2023/searise1.jpg),
-[Map 2](mbl/2023/searise2.jpg),
-[Map 3](mbl/2023/searise3.jpg),
-[Map 4](mbl/2023/searise4.jpg),
-[Map 5](mbl/2023/searise5.jpg).
-
-NYC, South Florida, Venice, Shangai, Netherlands are in trouble.
+Al Monitor: "Saudi delegation in Yemen for peace talks with
+rebels.. The delegation's arrival comes roughly a month after China
+helped broker a surprise rapprochement between Saudi Arabia and Iran"
 
 ---
 
-DK was the Chief Scientific Adviser to the UK Government 2000-07.
-
-David King: "Once the ice on Greenland is gone, global sea levels will
-be up to 7.4 metres higher"
-
----
-
-Informed Comment: "The last time there was this much CO2, there were
-Sabertooth Tigers, California Monsoons and an Undersea Florida"
+Bloomberg: "China Energy Investment Corporation signed an agreement
+with French state utility Electricite de France SA to construct an
+offshore green hydrogen facility for energy storage, according to a
+statement posted on the Chinese company’s website"
 
 ---
 
-WGRZ: "[University of Buffolo] is part of New York State's team —
-along with 6 other Northeast states — to seek $1.6 billion in federal
-tax dollars for a 'hydrogen hub'"
-
----
-
-H2 Fuel News: "Conversions from diesel to hydrogen trucks are drawing
-interest.. Researchers from the University of New South Wales have
-developed a system that converts up to 90% of diesel operations, with
-an efficiency boost of 26%. This system does not require high-purity
-hydrogen fuel, as it uses a stratification technique to form pockets
-of higher and lower H2 concentrations, reducing nitrous oxide
-emissions"
+NYT: "French Visit Undercuts U.S. Efforts to Control China"
 
 ---
 

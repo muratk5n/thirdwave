@@ -305,37 +305,6 @@ LeCun is up in arms.
 
 ---
 
-Chomsky: "[NYT Opinion] The False Promise of ChatGPT.. OpenAI’s
-ChatGPT, Google’s Bard and Microsoft’s Sydney..  have been hailed as
-the first glimmers on the horizon of artificial general intelligence —
-that long-prophesied moment when mechanical minds surpass human
-brains.. That day may come, but its dawn is not yet breaking.. [as
-long as] machine learning programs like ChatGPT continue to dominate
-the field of A.I...
-
-The human mind is not, like ChatGPT and its ilk, a lumbering
-statistical engine for pattern matching, gorging on hundreds of
-terabytes of data and extrapolating the most likely conversational
-response or most probable answer to a scientific question. On the
-contrary, the human mind is a surprisingly efficient and even elegant
-system that operates with small amounts of information; it seeks not
-to infer brute correlations among data points but to create
-explanations..
-
-It summarizes the standard arguments in the literature by a kind of
-super-autocomplete.. In short, ChatGPT and its brethren are
-constitutionally unable to balance creativity with constraint. They
-either overgenerate (producing both truths and falsehoods, endorsing
-ethical and unethical decisions alike) or undergenerate (exhibiting
-noncommitment to any decisions and indifference to
-consequences). Given the amorality, faux science and linguistic
-incompetence of these systems, we can only laugh or cry at their
-popularity"
-
-[[-]](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html)
-
----
-
 "@Hypx@mastodon.social
 
 Ford Is Getting Serious About Hydrogen Fuel Cell Technology For Super
