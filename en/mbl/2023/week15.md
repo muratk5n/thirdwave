@@ -9,7 +9,7 @@ ranging along its West. Surely UA exploited that structure to set up
 staggered defense lines, and delayed RU for as long as they could. But
 it looks like the game is nearing its end.
 
-<img width='340' src='mbl/2023/ukr-6.jpg'/>
+<img width='340' src='ukr-6.jpg'/>
 
 ---
 
@@ -79,11 +79,11 @@ Checked flooding levels using tool [here](https://coastal.climatecentral.org/).
 Below is the result of simulated 7m rise. Red parts will be regions
 under water.
 
-[Map 1](mbl/2023/searise1.jpg),
-[Map 2](mbl/2023/searise2.jpg),
-[Map 3](mbl/2023/searise3.jpg),
-[Map 4](mbl/2023/searise4.jpg),
-[Map 5](mbl/2023/searise5.jpg).
+[Map 1](searise1.jpg),
+[Map 2](searise2.jpg),
+[Map 3](searise3.jpg),
+[Map 4](searise4.jpg),
+[Map 5](searise5.jpg).
 
 NYC, South Florida, Venice, Shangai, Netherlands are in trouble.
 
