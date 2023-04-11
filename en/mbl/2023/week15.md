@@ -117,11 +117,6 @@ emissions"
 
 ---
 
-
-NYT: "French Visit Undercuts U.S. Efforts to Control China"
-
----
-
 Informed Comment: "Netanyahu Brought Israeli Extremists to Power and
 Seeks more Arab Recognition; He can’t have Both"
 
