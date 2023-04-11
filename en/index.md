@@ -17,8 +17,9 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 ---
 
 That ship was last spotted at Japanese port; major firepower piled up
-over there BTW, occasionally a ship there takes a little trip, does a
-little moonwalk in someone else's backyard, goes back home.
+over there BTW, occasionally a ship from the base takes a little trip,
+does a little moonwalk up and down someone else's backyard, goes back
+home.
 
 ```python
 sh = np.vstack([np.array(u.usnavy()[['name','lat','lon']]), ['Taiwan',23,120]])
