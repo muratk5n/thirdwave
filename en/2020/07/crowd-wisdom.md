@@ -5,15 +5,17 @@
 "At a country fair .. 800 people participated in a contest to estimate
 the weight of a slaughtered and dressed ox. Statistician Francis
 Galton observed that the median guess, 1207 pounds, was accurate
-within 1% of the true weight of 1198 pound"
+within 1% of the true weight of 1198 pound". It sounds magical, a
+group of people seemingly throwing out numbers, and their average is
+close to the true measurement. How?
 
-It sounds magical, bunch of people seemingly throwing out numbers and
-their average works. How come? Here is how. Humans already have
-built-in knowledge about the visual-look-weight connection on many
-items, so their guesses will be already close enough to the real
-thing, with some noise associated. The distribution of that noise will
-be bell-shaped (Gaussian). This is important, bcz if normally
-distributed, averaging such guesses, even with erros, fixes the error.
+Humans already have built-in knowledge about the visual-look-weight
+connection on many items, so their guesses will be already close
+enough to the real thing, with *plus noise*. That noise is the key
+part. The distribution of that noise is bell-shaped (Gaussian), white
+noise is Gaussian with zero mean. This is important, while averaging,
+we also take the average of white noise, whose mean is zero. Therefore
+it disappears! 
 
 This technique even works internally sometimes, it is called "the
 wisdom of the crowd within". "[Researchers] asked participants for
@@ -24,16 +26,21 @@ asked to make a second, different guess in response to the same
 question [..t]he average of a participant's two guesses was more
 accurate than either individual guess"
 
-"Can't we use the same idea for policy, like millions making policy?"
+We need to stress however, for standard normal noise to exist, the
+base has to be a domain where guessors have an expertise. That is the
+only way guesses are close to reality, and there is no bias one way or
+another.
 
-No. For judging the weight of something, we already have perhaps
-inborn, at the very least life-long experience there... During our
-lives we have handled, touched, carried things, so looking at an
-object we can make weight guesses. The estimate will have noise but it
-won't be far off from the truth which can be corrected
-statistically. Policy is not something people are engaged in
-daily. Which makes it a speciality. Averaging among specialists will
-work, not among everyone. 
+"Can we use the same idea for policy, like millions making policy, direct democracy?"
+
+In most policy issues regular people have no expertise. For judging
+the weight of something, we already have perhaps inborn, at the very
+least life-long experience there... During our lives we have handled,
+touched, carried things, so looking at an object we can make weight
+guesses. The estimate will have noise but it won't be far off from the
+truth which can be corrected statistically. Policy is not something
+people are engaged in daily. Which makes it a speciality. Averaging
+among specialists will work, not among everyone.
 
 <a name='average'/>
 
@@ -45,23 +52,17 @@ estimated the weight of an ox correctly. Statistician Francis Galton
 observed that the median guess, 1207 pounds, was accurate within 1% of
 the true weight. Magic.
 
-The reason is, guesses have noise, the right kind of noise, around the
-right answer. Averaging removes noise.
-
-The noise distribution is bell-shaped, "normal" or a "Gaussian" (a
-dist is the formulaic form of a histogram, occurence count, frequency).
-
-Normal distribution is weird; it shows up everywhere. Take a group of ppl,
-their height dist is normal.
+Normal distribution is odd; it shows up everywhere. Take a group of
+ppl, their height dist is normal.
 
 Have someone shoot at a target, measure distance from each hit to
 bulls eye, dist is normal.
 
 Whenever many factors *contribute* to a thing, normality occurs.. bcz
 sums of anything (random) approaches normal. And there are many things
-like that in nature
+like that in nature.
 
-Demo. Throw a 6-sided die 1000 times (numbers below are from software
+Throw a 6-sided die 1000 times (numbers below are from software
 generator), histogram rolls,
 
 ```python
@@ -95,22 +96,18 @@ Why? Bcz more sums result in a 6 than 2. I can get 6 with
 4+2,2+4,1+5,3+3,etc.. More chance to hit it. Very low, very high nums
 are harder. Easy sums form the bulk in the middle.
 
-Anyway; then, if shooting errors, weight guesses are `true value + normal noise`,
-averaging removes noise, bcz average of zero-centered
-Gaussian (which is noise) is zero. This is the magic.
-
-(Height is normal of course.. many factors contribute to height. Some
+Height frequency is normal.. many factors contribute to height. Some
 ppl might have a fat ass, small back, others large back, skinny
-ass. Large or small head.. All cld lead to same height)
+ass. Large or small head.. All cld lead to same height.
 
-Both shooting, and weight guessing involves knowledge / skill BTW,
-very important. Good noise around bullseye means person knows how to
-shoot.  Judging weight by naked eye is possible bcz we have innate
-knowledge of weights of things, through evolution, and part of growing
-up, so the noise is normal. Stat ppl know this, when they apply a
-model to data, they determine whether it is good by looking at its
-mistake, its "residual" (diff between model pred, and real data). If
-resid is gaussian, they are happy. Bad models leave patterns in
-data. When unskilled (or dumb) people eff up you know why. There is
-pattern in their eff ups (usually due to some bias).
+Both shooting, and weight guessing involves knowledge / skill
+BTW. Good noise around bullseye means person knows how to shoot.
+Judging weight by naked eye is possible bcz we have innate knowledge
+of weights of things, through evolution, and part of growing up, so
+the noise is normal. Stat ppl know this, when they apply a model to
+data, they determine whether it is good by looking at its mistake, its
+"residual" (diff between model pred, and real data). If resid is
+gaussian, that's good. Bad models leave patterns in data. When
+unskilled (or dumb) people screw up you know why. There is pattern in
+their muck ups (usually due to some bias).
 
