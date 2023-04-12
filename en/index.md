@@ -113,7 +113,7 @@ excess wage increases is not the only culprit.
 
 ---
 
-FONOP (Freedom of Nav Op) in South China Sea count, 6 by Obama 11 by Trump.
+FONOP (Freedom of Navigation Op) in South China Sea count, 6 by Obama 11 by Trump.
 
 ---
 
