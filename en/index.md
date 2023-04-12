@@ -51,7 +51,7 @@ with drive systems"
 
 ---
 
-Green fuel hitjob movie got plastered. With a budget of 40 mil, it
+Clean fuel hitjob movie got plastered. With a budget of 40 mil, it
 lost money. I love it.
 
 ---
