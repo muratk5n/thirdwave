@@ -10,7 +10,7 @@ sh = np.vstack([np.array(u.usnavy()[['name','lat','lon']]), ['Taiwan',23,120]])
 u.sm_plot_list1(29, 131, 2.0, sh)
 ```
 
-<img width='340' src='mbl/2023/usnavy3.jpg'/> 
+<img width='340' src='usnavy3.jpg'/> 
 
 ---
 
