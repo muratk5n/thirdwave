@@ -16,72 +16,115 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-That ship was last spotted at a Japanese base; major firepower piled
-up over there BTW, occasionally a ship from the base takes a little
-trip, does a little moonwalk up and down someone else's backyard, goes
-back to port.
+The Geopolitica: "The United Arab Emirates, Egypt, and Germany Will
+Invest $34 billion In a Green Hydrogen Project in Mauritania.. [A]
+German investment company, Conjuncta, along with the United Arab
+Emirates renewable energy firm Masdar, and Egypt’s renewable energy
+firm Infinity have signed an agreement with the Mauritanian government
+to build a 34 billion green hydrogen plant with an electrolyzer
+capacity of up to 10 gigawatts near the Mauritanian capital,
+Nouakchott. Every year, the green hydrogen plant will produce 8
+million tonnes of ammonia or other hydrogen-based products along with
+green hydrogen. The plant’s first phase will be going to be completed
+by 2028 with a planned capacity of 400 megawatts"
+
+---
+
+"@Hypx@mastodon.social
+
+Strasbourg orders 60 hydrogen buses from CaetanoBus"
+
+---
+
+Modern system is not built for direct democracy. Half-assed attempt to
+coexist within the current system will make things worse.  Good
+leadership has better chance for improv rather than crowd wisdom (!)
+at policy level.
+
+WSJ: "Direct Democracy Dies in California.. Progressives want to stop
+voters from challenging state laws via referendum"
+
+---
+
+H2 Fuel News: "BAE Systems to provide Rochester’s first hydrogen buses
+with drive systems"
+
+---
+
+Green fuel hitjob movie got plastered. With a budget of 40 mil, it
+lost money. I love it.
+
+---
+
+😂 😂 😂 
 
 ```python
-sh = np.vstack([np.array(u.usnavy()[['name','lat','lon']]), ['Taiwan',23,120]])
-u.sm_plot_list1(29, 131, 2.0, sh)
+u.boxofficemojo("Glass Onion: A Knives Out Mystery")
 ```
 
-<img width='340' src='mbl/2023/usnavy3.jpg'/> 
+```text
+Out[1]: 
+{'Domestic Opening': '$9,400,000',
+ 'Domestic': '$13,280,000',
+ 'International': '$13,280,000',
+ 'Worldwide Total': '$13,280,000',
+ 'Release Date': 'November 23, 2022'}
+```
 
 ---
 
-TASS: "'On April 10, the USS Milius guided-missile destroyer illegally
-entered the waters around the Meiji Reef near China’s Nansha islands
-without the approval of the Chinese government,' China Central
-Television [said]"
+Keynes' idea for a world currency [Bancor](0119/2019/06/bancor.html)
+did not use gold either.
 
 ---
 
-Chomsky: "[NYT Opinion] The False Promise of ChatGPT.. OpenAI’s
-ChatGPT, Google’s Bard and Microsoft’s Sydney..  have been hailed as
-the first glimmers on the horizon of artificial general intelligence —
-that long-prophesied moment when mechanical minds surpass human
-brains.. That day may come, but its dawn is not yet breaking.. [as
-long as] machine learning programs like ChatGPT continue to dominate
-the field of A.I...
-
-The human mind is not, like ChatGPT and its ilk, a lumbering
-statistical engine for pattern matching, gorging on hundreds of
-terabytes of data and extrapolating the most likely conversational
-response or most probable answer to a scientific question. On the
-contrary, the human mind is a surprisingly efficient and even elegant
-system that operates with small amounts of information; it seeks not
-to infer brute correlations among data points but to create
-explanations..
-
-It summarizes the standard arguments in the literature by a kind of
-super-autocomplete.. In short, ChatGPT and its brethren are
-constitutionally unable to balance creativity with constraint. They
-either overgenerate (producing both truths and falsehoods, endorsing
-ethical and unethical decisions alike) or undergenerate (exhibiting
-noncommitment to any decisions and indifference to
-consequences). Given the amorality, faux science and linguistic
-incompetence of these systems, we can only laugh or cry at their
-popularity"
-
-[[-]](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html)
+Some news suggest gold the new BRICS currency could be backed by gold;
+if true gold would be there to provide convertibility assurance to
+non-BRIC currencies. Other than that, a global, dominant currency does
+not need gold - Nixon's petrodollar did not need it, he was like f--
+gold, I have my military and an agreement with the top oil producer
+to keep it legit.
 
 ---
 
-Al Monitor: "Saudi delegation in Yemen for peace talks with
-rebels.. The delegation's arrival comes roughly a month after China
-helped broker a surprise rapprochement between Saudi Arabia and Iran"
+Kubrick apparently used Arthur C. Clarke's story as a front to get
+funding, but visually hid / encoded a less rosy picture about the
+future in it.
+
+"2001: A Space Odyssey - How Kubrick fooled us all"
+
+[[-]](https://youtu.be/wxiB3qtMRHc?t=418)
 
 ---
 
-Bloomberg: "China Energy Investment Corporation signed an agreement
-with French state utility Electricite de France SA to construct an
-offshore green hydrogen facility for energy storage, according to a
-statement posted on the Chinese company’s website"
+If the abortion issue was so important Dems could've codified Roe in
+law with 2009-10 supermajority. They didn't because it was better to
+exploit the issue firing up the donor base taking their money rather
+than solving the problem. It's still the Dick Morris plan, on major
+issues it is uniparty, for others manufactured heated "debates",
+schisms, abt "5G" issues - Guns Gays Gender God Green.
 
 ---
 
-NYT: "French Visit Undercuts U.S. Efforts to Control China"
+Let's not forget about the self-reinforcing effect of inflation,
+excess wage increases is not the only culprit.
+
+[[-]](2021/01/inflation.html#autocorr)
+
+---
+
+FONOP (Freedom of Nav Op) in South China Sea count, 6 by Obama 11 by Trump.
+
+---
+
+RU advance, last 7 days
+
+```python
+cs = ["Bakhmut","BM Railway","BM River"]
+u.sm_plot_ukr('ukrdata/fl-1104.csv','ukrdata/fl-0404.csv',cs,clat=48.59,clon=37.98,zoom=0.005)
+```
+
+<img width='340' src='mbl/2023/ukr-7.jpg'/> 
 
 ---
 

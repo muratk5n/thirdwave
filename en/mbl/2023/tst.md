@@ -7,25 +7,11 @@ pd.set_option('display.max_columns', None)
 ```
 
 
-```python
-sh = np.vstack([np.array(u.usnavy()[['name','lat','lon']]), ['Taiwan',23,120]])
-u.sm_plot_list1(29, 131, 2.0, sh)
-plt.savefig('/tmp/out.jpg',quality=50)
-```
-
-
-
-
-
-
-
-
-
 
 ```python
-ps = ["Bakhmut"]
-u.sm_plot_ukr('ukrdata/fl-0404.csv','ukrdata/fl-2203.csv',
-              ps,clat=48.6,clon=37.95,zoom=0.01)
+ps = ["Bakhmut","BM Railway","BM River"]
+u.sm_plot_ukr('ukrdata/fl-1104.csv','ukrdata/fl-0404.csv',
+              ps,clat=48.59,clon=37.98,zoom=0.005)
 plt.savefig('/tmp/out.jpg',quality=40)
 ```
 
