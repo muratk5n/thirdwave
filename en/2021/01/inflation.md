@@ -118,7 +118,7 @@ imperfect, producers, landlords see higher prices, they increase
 prices to match, they mostly overshoot. This is also why Central Banks
 raise rates to quash that self-reinforcing effect.
 
-We can check for the presence of autoocorrelation statistically using
+We can check for the presence of autocorrelation statistically using
 the Durbin-Watson test, or Ljung-Box Q-statistic. Investopedia: "The
 Durbin-Watson statistic will always have a value ranging between 0 and
 4.. [v]alues from 0 to less than 2 point to positive autocorrelation".
