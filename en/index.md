@@ -96,6 +96,16 @@ future in it.
 
 ---
 
+Story has down days, up days, ends up in the same place.. -10 plus +10
+equals zero. But all kinds of drame in between, that benefits some
+people.
+
+NBC News: "The Nashville Metropolitan Council voted Monday to return
+Justin Jones to the state Legislature after he was removed last week
+by Republicans for protesting gun violence on the House floor"
+
+---
+
 If the abortion issue was so important Dems could've codified Roe in
 law with 2009-10 supermajority. They didn't because it was better to
 exploit the issue firing up the donor base taking their money rather
