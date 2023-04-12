@@ -80,10 +80,9 @@ did not use gold either.
 
 Some news suggest gold the new BRICS currency could be backed by gold;
 if true gold would be there to provide convertibility assurance to
-non-BRICS currencies. Other than that, a global, dominant currency does
-not need gold - Nixon's petrodollar did not need it, he was like f--
-gold, I have my military and an agreement with the top oil producer
-to keep it legit.
+non-BRICS currencies. A global, dominant currency does not need gold -
+Nixon's petrodollar did not need it, he was like f-- gold, I have my
+military and an agreement with the top oil producer to keep it legit.
 
 ---
 
