@@ -30,3 +30,5 @@
 
 [The Horse, The Wheel, and Language](03/the-horse-the-wheel-steppes-anthony.html)
 
+[A Strategy for Israel in the Nineteen Eighties](04/strategy-for-israel-yinon.html)
+

@@ -2,6 +2,8 @@
 
 [Economy](01/economy.html)
 
+[Historical Carbon Emissions](01/historical-carbon-emissions.html)
+
 [Inflation](01/inflation.html)
 
 [Princes of Mayhem](01/princes-of-mayhem.html)
@@ -49,8 +51,6 @@
 [Organized Crime, Asia Minor](06/org-crime-asia-minor.html)
 
 [Seeing Red](06/seeing-red-arp.html)
-
-[Historical Carbon Emissions](01/historical-carbon-emissions.html)
 
 [Lycia](07/lycian-history.html)
 
