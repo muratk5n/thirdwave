@@ -100,8 +100,8 @@ future in it.
 If the abortion issue was so important Dems could've codified Roe in
 law with 2009-10 supermajority. They didn't because it was better to
 exploit the issue firing up the donor base taking their money rather
-than solving the problem. It's still the Dick Morris plan, on major
-issues it is uniparty, for others manufactured heated "debates",
+than solving the problem. It's still the Dick Morris [plan](2021/10/all-too-human.html#triangulation),
+on major issues it is uniparty, for others manufactured heated "debates",
 schisms, abt "5G" issues - Guns Gays Gender God Green.
 
 ---
