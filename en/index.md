@@ -97,8 +97,8 @@ future in it.
 ---
 
 Story has down days, up days, ends up in the same place.. -10 plus +10
-equals zero. But all kinds of drame in between, that benefits some
-people.
+equals zero. But all kinds of drama in between, that surely benefits
+some.
 
 NBC News: "The Nashville Metropolitan Council voted Monday to return
 Justin Jones to the state Legislature after he was removed last week
