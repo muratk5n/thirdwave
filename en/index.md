@@ -16,8 +16,6 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-
-
 Oil Price: "Sinopec Has Big Plans For Green Hydrogen.. Sinopec is set
 to build China's first 'West to East' green hydrogen transmission line
 to transfer hydrogen from renewable energy projects in Inner
@@ -52,6 +50,16 @@ cruising range exceeding 1000 km"
 
 ---
 
+Crowd Wisdom works only for subjects the crowd has an expertise in eg
+gauging the general acceptability of politician as leader, or guessing
+the weight of an ox. That sort of judgement is likely ingrained;
+averaging can lead to better results. But even that fails sometimes,
+remember 1960 or 2000.
+
+[[-]](2020/07/crowd-wisdom.html)
+
+---
+
 H2 Insight: "An Anglo-Spanish company says it could produce naturally
 occurring hydrogen from a giant underground reservoir in the foothills
 of the Pyrenees for €0.75 ($0.82) per kilogram — about half the
@@ -64,16 +72,6 @@ imply less inflation, meaning less risk for bonds, so they buy bonds,
 their price rises, yields fall. Simple.
 
 "Treasury yields fall after data shows U.S. job growth slowed in March"
-
----
-
-Crowd Wisdom works only for subjects the crowd has an expertise in eg
-gauging the general acceptability of politician as leader, or guessing
-the weight of an ox. That sort of judgement is likely ingrained;
-averaging can lead to better results. But even that fails sometimes,
-remember 1960 or 2000.
-
-[[-]](2020/07/crowd-wisdom.html)
 
 ---
 
