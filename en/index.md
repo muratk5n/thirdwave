@@ -68,9 +68,10 @@ their price rises, yields fall.
 ---
 
 Crowd Wisdom works only for subjects the crowd has an expertise in eg
-gauging the general acceptabilty of politician as leader, that sort of
-judgement is likely ingrained; averaging can lead to better
-results. But even that fails sometimes, remember 1960 or 2000.
+gauging the general acceptability of politician as leader, or guessing
+the weight of an ox. That sort of judgement is likely ingrained;
+averaging can lead to better results. But even that fails sometimes,
+remember 1960 or 2000.
 
 [[-]](2020/07/crowd-wisdom.html)
 
