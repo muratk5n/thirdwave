@@ -61,7 +61,7 @@ current cost of producing grey H2 from unabated fossil gas"
 
 Job growth slowing cld indicate less growth less growth in wages will
 imply less inflation, meaning less risk for bonds, so they buy bonds,
-their price rises, yields fall. 
+their price rises, yields fall. Simple.
 
 "Treasury yields fall after data shows U.S. job growth slowed in March"
 

@@ -14,8 +14,8 @@ connection on many items, so their guesses will be already close
 enough to the real thing, with *plus noise*. That noise is the key
 part. The distribution of that noise is bell-shaped (Gaussian), white
 noise is Gaussian with zero mean. This is important, while averaging,
-we also take the average of white noise, whose mean is zero. Therefore
-it disappears! 
+we also take the average of white noise, whose mean is zero. The noise
+disappears, we are left with a good estimate.
 
 This technique even works internally sometimes, it is called "the
 wisdom of the crowd within". "[Researchers] asked participants for
@@ -39,28 +39,20 @@ least life-long experience there... During our lives we have handled,
 touched, carried things, so looking at an object we can make weight
 guesses. The estimate will have noise but it won't be far off from the
 truth which can be corrected statistically. Policy is not something
-people are engaged in daily. Which makes it a speciality. Averaging
-among specialists will work, not among everyone.
+people are engaged in daily. Which makes it a speciality.
+
+But averaging among specialists will work.
 
 <a name='average'/>
 
 The Mechanism of Averaging
 
-To elaborate more on how consensus among (knowledgeable) people can
-result in correct decisions.. Remember earlier we said 800 people
-estimated the weight of an ox correctly. Statistician Francis Galton
-observed that the median guess, 1207 pounds, was accurate within 1% of
-the true weight. Magic.
-
 Normal distribution is odd; it shows up everywhere. Take a group of
-ppl, their height dist is normal.
-
-Have someone shoot at a target, measure distance from each hit to
-bulls eye, dist is normal.
-
-Whenever many factors *contribute* to a thing, normality occurs.. bcz
-sums of anything (random) approaches normal. And there are many things
-like that in nature.
+ppl, their height dist is normal. Have someone shoot at a target,
+measure distance from each hit to bulls eye, dist is normal. Whenever
+many factors *contribute* to a thing, normality occurs.. bcz sums of
+anything (random) approaches normal. And there are many things like
+that in nature.
 
 Throw a 6-sided die 1000 times (numbers below are from software
 generator), histogram rolls,
@@ -100,14 +92,13 @@ Height frequency is normal.. many factors contribute to height. Some
 ppl might have a fat ass, small back, others large back, skinny
 ass. Large or small head.. All cld lead to same height.
 
-Both shooting, and weight guessing involves knowledge / skill
-BTW. Good noise around bullseye means person knows how to shoot.
-Judging weight by naked eye is possible bcz we have innate knowledge
-of weights of things, through evolution, and part of growing up, so
-the noise is normal. Stat ppl know this, when they apply a model to
-data, they determine whether it is good by looking at its mistake, its
-"residual" (diff between model pred, and real data). If resid is
-gaussian, that's good. Bad models leave patterns in data. When
-unskilled (or dumb) people screw up you know why. There is pattern in
-their muck ups (usually due to some bias).
+Note that both shooting, and weight guessing involves knowledge /
+skill. Good "standard" noise around bullseye means person knows how to
+shoot.  Judging weight by naked eye we have skill in through
+evolution, and part of growing up. Stat ppl know this, when they apply
+a model to data, they determine whether "the fit" is good by looking
+at its mistake, its "residual" (diff between model prediction, and
+real data). If resid is gaussian, that's a good sign. Bad models leave
+patterns in data. When unskilled (or dumb) people screw up you know
+why. There is pattern in their muck ups (usually due to some bias).
 
