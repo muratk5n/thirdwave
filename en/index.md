@@ -16,124 +16,63 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-The Geopolitica: "The United Arab Emirates, Egypt, and Germany Will
-Invest $34 billion In a Green Hydrogen Project in Mauritania.. [A]
-German investment company, Conjuncta, along with the United Arab
-Emirates renewable energy firm Masdar, and Egypt’s renewable energy
-firm Infinity have signed an agreement with the Mauritanian government
-to build a 34 billion green hydrogen plant with an electrolyzer
-capacity of up to 10 gigawatts near the Mauritanian capital,
-Nouakchott. Every year, the green hydrogen plant will produce 8
-million tonnes of ammonia or other hydrogen-based products along with
-green hydrogen. The plant’s first phase will be going to be completed
-by 2028 with a planned capacity of 400 megawatts"
+
+
+Oil Price: "Sinopec Has Big Plans For Green Hydrogen.. Sinopec is set
+to build China's first 'West to East' green hydrogen transmission line
+to transfer hydrogen from renewable energy projects in Inner
+Mongolia's Ulanqab to Beijing. The company aims to produce 100,000 to
+200,000 tonnes of green hydrogen annually, helping China transition
+towards renewable energy"
 
 ---
 
-"@Hypx@mastodon.social
-
-Strasbourg orders 60 hydrogen buses from CaetanoBus"
-
----
-
-Modern system is not built for direct democracy. Half-assed attempt to
-coexist within the current system will make things worse.  Good
-leadership has better chance for improv rather than crowd wisdom (!)
-at policy level.
-
-WSJ: "Direct Democracy Dies in California.. Progressives want to stop
-voters from challenging state laws via referendum"
+TFI Global: "US sidelined as Iran and Brazil forge a lasting
+alliance.. Lula, is back in the news again for stirring up controversy
+by setting up a direct shipping route with Iran"
 
 ---
 
-H2 Fuel News: "BAE Systems to provide Rochester’s first hydrogen buses
-with drive systems"
+CNBC: "Fed expects banking crisis to cause a recession this year,
+minutes show"
 
 ---
 
-Clean fuel hitjob movie got plastered. With a budget of 40 mil, it
-lost money. I love it.
+The Guardian: "Swimming pools of the rich driving city water crises,
+study says"
 
 ---
 
-😂 😂 😂 
-
-```python
-u.boxofficemojo("Glass Onion: A Knives Out Mystery")
-```
-
-```text
-Out[1]: 
-{'Domestic Opening': '$9,400,000',
- 'Domestic': '$13,280,000',
- 'International': '$13,280,000',
- 'Worldwide Total': '$13,280,000',
- 'Release Date': 'November 23, 2022'}
-```
+H2 Central: "1000-km Range Liquid Hydrogen Storage System Unveiled by
+Weishi Energy.. The company launched its 'gas hydrogen + liquid
+hydrogen' dual technology route in the field of hydrogen storage,
+along with its vehicle-mounted liquid hydrogen storage system called
+“Jupiter,” which has a mass hydrogen storage density of ≥8wt% and a
+cruising range exceeding 1000 km"
 
 ---
 
-Keynes' idea for a world currency [Bancor](0119/2019/06/bancor.html)
-did not use gold either.
+H2 Insight: "An Anglo-Spanish company says it could produce naturally
+occurring hydrogen from a giant underground reservoir in the foothills
+of the Pyrenees for €0.75 ($0.82) per kilogram — about half the
+current cost of producing grey H2 from unabated fossil gas"
 
 ---
 
-Some news suggest the new BRICS currency could be backed by gold; if
-true gold would be there to provide convertibility assurance to
-non-BRICS currencies. A global, dominant currency does not need gold -
-Nixon's petrodollar did not need it, he was like I have my military
-and an agreement with the top oil producer to keep it legit.
+Job growth slowing cld indicate less growth less growth in wages will
+imply less inflation, meaning less risk for bonds, so they buy bonds,
+their price rises, yields fall. 
+
+"Treasury yields fall after data shows U.S. job growth slowed in March"
 
 ---
 
-Kubrick apparently used Arthur C. Clarke's story as a front to get
-funding, but visually hid / encoded a less rosy picture about the
-future in it.
+Crowd Wisdom works only for subjects the crowd has an expertise in eg
+gauging the general acceptabilty of politician as leader, that sort of
+judgement is likely ingrained; averaging can lead to better
+results. But even that fails sometimes, remember 1960 or 2000.
 
-"2001: A Space Odyssey - How Kubrick fooled us all"
-
-[[-]](https://youtu.be/wxiB3qtMRHc?t=418)
-
----
-
-Story has down days, up days, ends up in the same place.. -10 plus +10
-equals zero. But all kinds of drama in between, that surely benefits
-some.
-
-NBC News: "The Nashville Metropolitan Council voted Monday to return
-Justin Jones to the state Legislature after he was removed last week
-by Republicans for protesting gun violence on the House floor"
-
----
-
-If the abortion issue was so important Dems could've codified Roe in
-law with 2009-10 supermajority. They didn't because it was better to
-exploit the issue firing up the donor base taking their money rather
-than solving the problem. It's still the Dick Morris [plan](2021/10/all-too-human.html#triangulation),
-on major issues it is uniparty, for others manufactured heated "debates",
-schisms, abt "5G" issues - Guns Gays Gender God Green.
-
----
-
-Let's not forget about the self-reinforcing effect of inflation,
-excess wage increases is not the only culprit.
-
-[[-]](2021/01/inflation.html#autocorr)
-
----
-
-FONOP (Freedom of Navigation Op) in South China Sea count, 6 by Obama 11 by Trump.
-
----
-
-RU advance, last 7 days
-
-```python
-cs = ["Bakhmut","BM Railway","BM River"]
-u.sm_plot_ukr('ukrdata/fl-1104.csv','ukrdata/fl-0404.csv',cs,clat=48.59,clon=37.98,zoom=0.005)
-```
-
-<img width='340' src='mbl/2023/ukr-7.jpg'/> 
+[[-]](2020/07/crowd-wisdom.html)
 
 ---
 
