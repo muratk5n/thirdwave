@@ -9,11 +9,9 @@ morning.. School is out. Whatever...
 
 Sometimes the use of the word is tactical, you mention unity, if the
 other guy does not go for it, now he is the asshole. Small effect, but
-maybe worth a try.
-
-Sometimes pol has no inclination to deliver unity anyway, but asks for
-unity, doesnt get it, than immediately blame the other side as a cover
-for you yourself not doing anything.
+maybe worth a try. Usually pols have no inclination to deliver unity
+anyway, but blaming the other can be good PR cover for themselves not
+doing anything.
 
 <iframe width="340" src="https://www.youtube.com/embed/4w_bNqs0-XM?start=411&end=552" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

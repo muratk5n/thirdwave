@@ -57,7 +57,7 @@ Out[1]:
 
 ---
 
-Keynes' idea for a world currency [Bancor](0119/2019/06/bancor.html)
+Keynes' idea for a world currency [Bancor](../../0119/2019/06/bancor.html)
 did not use gold either.
 
 ---
@@ -93,7 +93,7 @@ by Republicans for protesting gun violence on the House floor"
 If the abortion issue was so important Dems could've codified Roe in
 law with 2009-10 supermajority. They didn't because it was better to
 exploit the issue firing up the donor base taking their money rather
-than solving the problem. It's still the Dick Morris [plan](2021/10/all-too-human.html#triangulation),
+than solving the problem. It's still the Dick Morris [plan](../../2021/10/all-too-human.html#triangulation),
 on major issues it is uniparty, for others manufactured heated "debates",
 schisms, abt "5G" issues - Guns Gays Gender God Green.
 
@@ -102,7 +102,7 @@ schisms, abt "5G" issues - Guns Gays Gender God Green.
 Let's not forget about the self-reinforcing effect of inflation,
 excess wage increases is not the only culprit.
 
-[[-]](2021/01/inflation.html#autocorr)
+[[-]](../../2021/01/inflation.html#autocorr)
 
 ---
 
@@ -117,7 +117,7 @@ cs = ["Bakhmut","BM Railway","BM River"]
 u.sm_plot_ukr('ukrdata/fl-1104.csv','ukrdata/fl-0404.csv',cs,clat=48.59,clon=37.98,zoom=0.005)
 ```
 
-<img width='340' src='mbl/2023/ukr-7.jpg'/> 
+<img width='340' src='ukr-7.jpg'/> 
 
 ---
 
