@@ -65,10 +65,11 @@ Greek/Balkan/Arab food became "Turkish food", and Yemenese coffee became
 ---
 
 Therein lies the fallacy of the "we need more younger workers to
-support older population" argument.. Useless production does not
-provide true returns, real benefits, in the long run. So why have
-money creation start with businesses (as credit) rather than people
-themselves?
+support older population" argument.. Would more "young people" going
+into soft drink industry generate value, real benefits, in the long
+run? The problem money creation is too tied to businesses (as credit),
+it needs to be tied in large part to salaries (which can later become
+credit).
 
 ---
 
