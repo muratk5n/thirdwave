@@ -54,13 +54,13 @@ Turks arriving into Anatolia were assimilated they melted away
 culturally and genetically; 1920s TR nationalization, "Turkification"
 merely performed a labeling trick. The founders wanted to create
 historical amnesia so they picked an exotic, irrelevant ethnicity
-(somewhat innocuous to them meaning simply Muslim as most founders
-were from the Balkans), and everyone in Anatolia were
-rebranded. Muslims were transitioned, history was rewritten so that
-all culture before "the arrival" was made to look like was brought by
-these irrelevant group, not pre-existing before their arrival. This is
-how Byzantian music became 'Turkish art music", Greek/Balkan/Arab food
-became "Turkish food", and Yemenese coffee became "Turkish coffee".
+(somewhat innocuous meaning simply Muslim as most founders were from
+the Balkans), and everyone in Anatolia were rebranded. Muslims were
+transitioned, history was rewritten so that all culture before "the
+arrival" was made to look like was brought by these irrelevant group,
+not pre-existing before their arrival. This is how Byzantian music
+became 'Turkish art music", Greek/Balkan/Arab food became "Turkish
+food", and Yemenese coffee became "Turkish coffee".
 
 ---
 
