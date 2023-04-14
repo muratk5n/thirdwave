@@ -38,9 +38,9 @@ Culture does not care about how it is labeled.. it will be transmited
 via osmosis, people-to-people, one-on-one through the land and its
 people no matter what. Cannot change your culture by labeling it
 differently, or by wearing funky hats, telling stories or following
-rituals. The duty of an intelligentia is to pinpoint the true source
-of culture, lest be responsible for generating neurotic behavior in
-their students.
+rituals. The duty of an intelligentia is to pinpoint this fact, argue
+around the true source of culture, lest be responsible for generating
+neurotic behavior in their students.
 
 ---
 
