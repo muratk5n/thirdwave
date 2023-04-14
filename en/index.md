@@ -67,7 +67,7 @@ became "Turkish coffee".
 Therein lies the fallacy of the "we need more younger workers to
 support older population" argument.. Would more "young people" going
 into soft drink industry generate value, real benefits, in the long
-run? The problem is money creation is toow tied to businesses (as
+run? The problem is money creation is too tied to businesses (as
 credit), it needs to be tied in large part to salaries (which can
 later become credit).
 
