@@ -93,7 +93,7 @@ DATE
 
 ---
 
-Inflation slowing down 
+Inflation 
 
 ```
 2023-02-01  6.035613
