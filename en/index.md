@@ -50,7 +50,7 @@ arrived by then, that would be a thousand years later).
 
 ---
 
-Turks arriving into Anatolia were assimilated they melted away
+Turks arriving into Anatolia were assimilated, they melted away
 culturally and genetically; 1920s TR nationalization, "Turkification"
 merely performed a labeling trick. The founders wanted to create
 historical amnesia so they picked an exotic, irrelevant ethnicity
