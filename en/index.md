@@ -100,6 +100,7 @@ Inflation slowing down
 ```
 
 ---
+
 "EU Hydrogen Bank could bring renewable hydrogen costs below
 €1/kg... ICIS data shows that renewable hydrogen could be sold for
 below €1/kg ($1.09/kg) if a producer obtains the maximum support
