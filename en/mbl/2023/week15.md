@@ -40,7 +40,7 @@ the weight of an ox. That sort of judgement is likely ingrained;
 averaging can lead to better results. But even that fails sometimes,
 remember 1960 or 2000.
 
-[[-]](2020/07/crowd-wisdom.html)
+[[-]](../../2020/07/crowd-wisdom.html)
 
 ---
 

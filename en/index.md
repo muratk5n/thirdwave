@@ -16,6 +16,14 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
+H2 Fuel News: "MIT and DMI to develop first open-source hydrogen fuel
+cell powered motorcycle.. The MIT EVT hopes that the hydrogen fuel
+cell motorcycle development will help to overcome a range of
+challenges associated with BEVs while addressing concerns regarding
+shortages and environmental issues associated with lithium mining
+
+---
+
 H2 View: "US multinational Honeywell announced its new Liquid Organic
 Hydrogen Carrier (LOHC) solution to enable the long-distance
 transportation of clean hydrogen. The Global Hydrogen Flows report
