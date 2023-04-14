@@ -58,7 +58,7 @@ simply Muslim as most founders were from the Balkans), and everyone in
 Anatolia were rebranded. Muslims were transitioned, history was
 rewritten so that all culture before "the arrival" was made to look
 like was brought by these irrelevant group, not pre-existing before
-their arrival. This is how Byzantian music became 'Turkish Music",
+their arrival. This is how Byzantian music became 'Turkish art music",
 Greek/Balkan/Arab food became "Turkish food", and Yemenese coffee
 became "Turkish coffee".
 
