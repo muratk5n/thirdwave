@@ -36,15 +36,17 @@ international borders"
 
 Culture does not care about how it is labeled.. it will be transmited
 via osmosis, people-to-people, one-on-one through the land and its
-people, no matter what. Cannot change your culture by labeling it
+people no matter what. Cannot change your culture by labeling it
 differently, or by wearing funky hats, telling stories or following
-rituals.
+rituals. The duty of an intelligentia is to pinpoint the true source
+of culture, lest be responsible for generating neurotic behavior in
+their students.
 
 ---
 
 Herodotus was eating yoghurt in 800 BC; he didn't need some punk from
 Asia riding in on a donkey to teach him about it (who hadn't even
-arrived by then, that would be a thousand years later).
+arrived by then, that would be a thousand years later). 
 
 ---
 
