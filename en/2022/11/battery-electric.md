@@ -196,5 +196,6 @@ References
 
 [4] [WaPo](https://www.washingtonpost.com/technology/2022/08/27/electric-vehicle-charge-time/)
 
-[[Up](../../2018/12/climate.html)]
+[[Up](../../2022/01/climate.html)]
+
 
