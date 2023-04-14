@@ -16,62 +16,90 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-Oil Price: "Sinopec Has Big Plans For Green Hydrogen.. Sinopec is set
-to build China's first 'West to East' green hydrogen transmission line
-to transfer hydrogen from renewable energy projects in Inner
-Mongolia's Ulanqab to Beijing. The company aims to produce 100,000 to
-200,000 tonnes of green hydrogen annually, helping China transition
-towards renewable energy"
+H2 View: "US multinational Honeywell announced its new Liquid Organic
+Hydrogen Carrier (LOHC) solution to enable the long-distance
+transportation of clean hydrogen. The Global Hydrogen Flows report
+predicted that of the 660 million tonnes of hydrogen needed to meet
+global Net Zero by 2050, 400 million are expected to be transported
+over long-distances, with 190 million tonnes set to cross
+international borders"
 
 ---
 
-TFI Global: "US sidelined as Iran and Brazil forge a lasting
-alliance.. Lula, is back in the news again for stirring up controversy
-by setting up a direct shipping route with Iran"
+Culture does not care about how it is labeled.. it will be transmited
+via osmosis, people-to-people, one-on-one through the land and its
+people, no matter what. Cannot change your culture by labeling it
+differently, or by wearing funky hats, telling stories or following
+rituals.
 
 ---
 
-CNBC: "Fed expects banking crisis to cause a recession this year,
-minutes show"
+Herodotus was eating yoghurt in 800 BC; he didn't need some punk from
+Asia riding in on a donkey to teach him about it (who hadn't even
+arrived by then, that would be a thousand years later).
 
 ---
 
-The Guardian: "Swimming pools of the rich driving city water crises,
-study says"
+Turks arriving into Anatolia were assimilated; 1920s TR
+nationalization, "Turkification" merely performed a labeling
+trick. The founders wanted to create historical amnesia so they picked
+an exotic, irrelevant ethnicity (somewhat innocuous meaning simply
+Muslim as most founders were from the Balkans), and everyone in
+Anatolia were rebranded. Muslims were transitioned, history was
+rewritten so that all culture before "the arrival" was made to look
+like was brought by these irrelevant group, not pre-existing before
+their arrival. This is how Byzantian music became 'Turkish Music",
+Greek/Balkan/Arab food became "Turkish food", and Yemenese coffee became
+"Turkish coffee".
 
 ---
 
-H2 Central: "1000-km Range Liquid Hydrogen Storage System Unveiled by
-Weishi Energy.. The company launched its 'gas hydrogen + liquid
-hydrogen' dual technology route in the field of hydrogen storage,
-along with its vehicle-mounted liquid hydrogen storage system called
-“Jupiter,” which has a mass hydrogen storage density of ≥8wt% and a
-cruising range exceeding 1000 km"
+Therein lies the fallacy of the "we need more younger workers to
+support older population" argument.. Useless production does not
+provide true returns, real benefits, in the long run. So why have
+money creation start with businesses (as credit) rather than people
+themselves?
 
 ---
 
-Crowd Wisdom works only for subjects the crowd has an expertise in eg
-gauging the general acceptability of politician as leader, or guessing
-the weight of an ox. That sort of judgement is likely ingrained;
-averaging can lead to better results. But even that fails sometimes,
-remember 1960 or 2000.
-
-[[-]](2020/07/crowd-wisdom.html)
+Money, credit generated for this business segment is for useless
+production. Zero benefit for the humankind.
 
 ---
 
-H2 Insight: "An Anglo-Spanish company says it could produce naturally
-occurring hydrogen from a giant underground reservoir in the foothills
-of the Pyrenees for €0.75 ($0.82) per kilogram — about half the
-current cost of producing grey H2 from unabated fossil gas"
+Statista: "Revenue in the Soft Drinks segment amounts to US$0.85tn in 2023"
 
 ---
 
-Job growth slowing cld indicate less growth less growth in wages will
-imply less inflation, meaning less risk for bonds, so they buy bonds,
-their price rises, yields fall. Simple.
+Unemployment falling
 
-"Treasury yields fall after data shows U.S. job growth slowed in March"
+```text
+            UNRATE  U6RATE  REAL_UNRATE  REAL_UNEMP_LEVEL
+DATE                                                     
+2023-02-01     3.6     6.8     7.863111           13072.5
+2023-03-01     3.5     6.7     7.686033           12815.0
+```
+
+---
+
+Inflation slowing down 
+
+```
+2023-02-01  6.035613
+2023-03-01  4.984974
+```
+
+---
+"EU Hydrogen Bank could bring renewable hydrogen costs below
+€1/kg... ICIS data shows that renewable hydrogen could be sold for
+below €1/kg ($1.09/kg) if a producer obtains the maximum support
+provided by the European Hydrogen Bank"
+
+---
+
+H2 View: "UK delivers £23bn in low carbon investment in 2022.. The UK
+invested £23bn in new low carbon investment in 2022 encompassing
+hydrogen, renewables, carbon capture and storage"
 
 ---
 

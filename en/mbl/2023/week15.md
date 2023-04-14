@@ -1,5 +1,64 @@
 # Week 15
 
+Oil Price: "Sinopec Has Big Plans For Green Hydrogen.. Sinopec is set
+to build China's first 'West to East' green hydrogen transmission line
+to transfer hydrogen from renewable energy projects in Inner
+Mongolia's Ulanqab to Beijing. The company aims to produce 100,000 to
+200,000 tonnes of green hydrogen annually, helping China transition
+towards renewable energy"
+
+---
+
+TFI Global: "US sidelined as Iran and Brazil forge a lasting
+alliance.. Lula, is back in the news again for stirring up controversy
+by setting up a direct shipping route with Iran"
+
+---
+
+CNBC: "Fed expects banking crisis to cause a recession this year,
+minutes show"
+
+---
+
+The Guardian: "Swimming pools of the rich driving city water crises,
+study says"
+
+---
+
+H2 Central: "1000-km Range Liquid Hydrogen Storage System Unveiled by
+Weishi Energy.. The company launched its 'gas hydrogen + liquid
+hydrogen' dual technology route in the field of hydrogen storage,
+along with its vehicle-mounted liquid hydrogen storage system called
+“Jupiter,” which has a mass hydrogen storage density of ≥8wt% and a
+cruising range exceeding 1000 km"
+
+---
+
+Crowd Wisdom works only for subjects the crowd has an expertise in eg
+gauging the general acceptability of politician as leader, or guessing
+the weight of an ox. That sort of judgement is likely ingrained;
+averaging can lead to better results. But even that fails sometimes,
+remember 1960 or 2000.
+
+[[-]](2020/07/crowd-wisdom.html)
+
+---
+
+H2 Insight: "An Anglo-Spanish company says it could produce naturally
+occurring hydrogen from a giant underground reservoir in the foothills
+of the Pyrenees for €0.75 ($0.82) per kilogram — about half the
+current cost of producing grey H2 from unabated fossil gas"
+
+---
+
+Job growth slowing cld indicate less growth less growth in wages will
+imply less inflation, meaning less risk for bonds, so they buy bonds,
+their price rises, yields fall. Simple.
+
+"Treasury yields fall after data shows U.S. job growth slowed in March"
+
+---
+
 The Geopolitica: "The United Arab Emirates, Egypt, and Germany Will
 Invest $34 billion In a Green Hydrogen Project in Mauritania.. [A]
 German investment company, Conjuncta, along with the United Arab
