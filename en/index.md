@@ -79,7 +79,7 @@ against al Nusra and ISIS.
 
 ---
 
-nIt is possible WH knew..  The 2008-2016 Iran (Syrian friend)
+It may be possible WH knew..  The 2008-2016 Iran (Syrian friend)
 raproachement efforts are well known; Let's also remember the
 backtracking on the "red line" ultimatum.
 
@@ -95,12 +95,11 @@ Assad’s got to go is fine, but if you follow that through—therefore
 anyone is better. It’s the ‘anybody else is better’ issue that the JCS
 had with Obama’s policy.” The Joint Chiefs felt that a direct
 challenge to Obama’s policy would have 'had a zero chance of success.'
-
 So in the autumn of 2013 they decided to take steps against the
 extremists without going through political channels, by providing US
 intelligence to the militaries of other nations, on the understanding
 that it would be passed on to the Syrian army and used against the
-common enemy, Jabhat al-Nusra and Islamic State. 'Obama didn’t know,
+common enemy, Jabhat al-Nusra and Islamic State... 'Obama didn’t know,
 but Obama doesn’t know what the JCS does in every circumstance, and
 that’s true of all presidents' [an official said].
 
