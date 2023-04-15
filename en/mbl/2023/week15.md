@@ -1,5 +1,104 @@
 # Week 15
 
+H2 Fuel News: "MIT and DMI to develop first open-source hydrogen fuel
+cell powered motorcycle.. The MIT EVT hopes that the hydrogen fuel
+cell motorcycle development will help to overcome a range of
+challenges associated with BEVs while addressing concerns regarding
+shortages and environmental issues associated with lithium mining
+
+---
+
+H2 View: "US multinational Honeywell announced its new Liquid Organic
+Hydrogen Carrier (LOHC) solution to enable the long-distance
+transportation of clean hydrogen. The Global Hydrogen Flows report
+predicted that of the 660 million tonnes of hydrogen needed to meet
+global Net Zero by 2050, 400 million are expected to be transported
+over long-distances, with 190 million tonnes set to cross
+international borders"
+
+---
+
+Culture does not care about how it is labeled.. it will be transmited
+via osmosis, people-to-people, one-on-one through the land and its
+people no matter what. Cannot change your culture by labeling it
+differently, or by wearing funky hats, telling stories or following
+rituals. The duty of an intelligentia is to pinpoint this fact, argue
+around the true source of culture, lest be responsible for generating
+neurotic behavior in their students.
+
+---
+
+Herodotus was eating yoghurt in 800 BC; he didn't need some punk from
+Asia riding in on a donkey to teach him about it (who hadn't even
+arrived by then, that would be a thousand years later). 
+
+---
+
+Turks arriving into Anatolia were assimilated, they melted away
+culturally and genetically. 1920s TR nationalization, "Turkification"
+merely performed a labeling trick. The founders wanted to create
+historical amnesia so they picked an exotic, irrelevant ethnicity
+(somewhat innocuous meaning simply Muslim as most founders were from
+the Balkans), and everyone in Anatolia were rebranded. Muslims were
+transitioned, history was rewritten so that all culture before "the
+arrival" was made to look like was brought by that irrelevant group,
+not pre-existing before their arrival. This is how Byzantian music
+became 'Turkish art music", Greek/Balkan/Arab food became "Turkish
+food", and Yemenese coffee became "Turkish coffee".
+
+---
+
+Therein lies the fallacy of the "we need more younger workers to
+support older population" argument.. Would more "young people" going
+into soft drink industry generate value, real benefits, in the long
+run? The problem is money creation is too tied to businesses (as
+credit), it needs to be tied in large part to salaries (which can
+later become credit).
+
+---
+
+Money, credit generated for this business segment is for useless
+production. Zero benefit for the humankind.
+
+---
+
+Statista: "Revenue in the Soft Drinks segment amounts to US$0.85tn in 2023"
+
+---
+
+Unemployment falling
+
+```text
+            UNRATE  U6RATE  REAL_UNRATE  REAL_UNEMP_LEVEL
+DATE                                                     
+2023-02-01     3.6     6.8     7.863111           13072.5
+2023-03-01     3.5     6.7     7.686033           12815.0
+```
+
+---
+
+Inflation 
+
+```
+2023-02-01  6.035613
+2023-03-01  4.984974
+```
+
+---
+
+"EU Hydrogen Bank could bring renewable hydrogen costs below
+€1/kg... ICIS data shows that renewable hydrogen could be sold for
+below €1/kg ($1.09/kg) if a producer obtains the maximum support
+provided by the European Hydrogen Bank"
+
+---
+
+H2 View: "UK delivers £23bn in low carbon investment in 2022.. The UK
+invested £23bn in new low carbon investment in 2022 encompassing
+hydrogen, renewables, carbon capture and storage"
+
+---
+
 Oil Price: "Sinopec Has Big Plans For Green Hydrogen.. Sinopec is set
 to build China's first 'West to East' green hydrogen transmission line
 to transfer hydrogen from renewable energy projects in Inner

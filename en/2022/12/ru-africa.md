@@ -16,7 +16,8 @@ ru = ["Mali","Ethiopia","Congo","South Africa","Madagascar",
 
 us = ["Chad","Gabon","Ghana","Kenya","Rwanda", "Djibouti","Somalia","Niger",
        "Democratic Republic of the Congo", "Mauritania","Lesotho",
-       "Mauritius", "Angola","Nigeria","Morocco","Tunisia","Cote d'Ivoire"]
+       "Mauritius", "Angola","Nigeria","Morocco","Tunisia","Cote d'Ivoire",
+       "Zambia"]
 
 u.plot_africa_ru_us(ru,us)
 plt.savefig('af-ru-us.jpg',quality=50)

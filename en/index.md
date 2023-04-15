@@ -16,102 +16,93 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-H2 Fuel News: "MIT and DMI to develop first open-source hydrogen fuel
-cell powered motorcycle.. The MIT EVT hopes that the hydrogen fuel
-cell motorcycle development will help to overcome a range of
-challenges associated with BEVs while addressing concerns regarding
-shortages and environmental issues associated with lithium mining
+First Post: "Russian oil exports hit near three-year high in March
+despite sanctions in wake of Ukraine war: IEA"
 
 ---
 
-H2 View: "US multinational Honeywell announced its new Liquid Organic
-Hydrogen Carrier (LOHC) solution to enable the long-distance
-transportation of clean hydrogen. The Global Hydrogen Flows report
-predicted that of the 660 million tonnes of hydrogen needed to meet
-global Net Zero by 2050, 400 million are expected to be transported
-over long-distances, with 190 million tonnes set to cross
-international borders"
+Hindustan Times: "World Bank President Malpass praises India for
+empowering women, mentions PM Modi"
 
 ---
 
-Culture does not care about how it is labeled.. it will be transmited
-via osmosis, people-to-people, one-on-one through the land and its
-people no matter what. Cannot change your culture by labeling it
-differently, or by wearing funky hats, telling stories or following
-rituals. The duty of an intelligentia is to pinpoint this fact, argue
-around the true source of culture, lest be responsible for generating
-neurotic behavior in their students.
+Zambia goes to US column
+
+[[-]](2022/12/ru-africa.html)
 
 ---
 
-Herodotus was eating yoghurt in 800 BC; he didn't need some punk from
-Asia riding in on a donkey to teach him about it (who hadn't even
-arrived by then, that would be a thousand years later). 
+The Hydrogen Stream: "Global pipeline projects to surge by 2035, says
+Rystad.. Rystad Energy said hydrogen pipeline projects could expand by
+as much as 700% over the next 12 years. It said that more than 4,300
+km of pipelines already transport hydrogen, with more than 90% of them
+in Europe and North America. It estimates that there are about 91
+planned pipeline projects throughout the world, with 30,300 kilometers
+set to go online by around 2035. 'Spain, France, and Germany are among
+the countries committed or considering cross-border pipelines to
+facilitate energy flows, while the UK with its extensive gas grid
+finds itself in a fantastic position to switch from natural gas to
+hydrogen,' it noted"
 
 ---
 
-Turks arriving into Anatolia were assimilated, they melted away
-culturally and genetically. 1920s TR nationalization, "Turkification"
-merely performed a labeling trick. The founders wanted to create
-historical amnesia so they picked an exotic, irrelevant ethnicity
-(somewhat innocuous meaning simply Muslim as most founders were from
-the Balkans), and everyone in Anatolia were rebranded. Muslims were
-transitioned, history was rewritten so that all culture before "the
-arrival" was made to look like was brought by that irrelevant group,
-not pre-existing before their arrival. This is how Byzantian music
-became 'Turkish art music", Greek/Balkan/Arab food became "Turkish
-food", and Yemenese coffee became "Turkish coffee".
+The media guy Maxwell was in it, Ghishalashalaylay's father..
+[This lady](mbl/2023/ejagoffmaxwell2.jpg). He was portrayed as a
+connected, scheming jerkoff, based on his biz history portrayal
+looks correct.
 
 ---
 
-Therein lies the fallacy of the "we need more younger workers to
-support older population" argument.. Would more "young people" going
-into soft drink industry generate value, real benefits, in the long
-run? The problem is money creation is too tied to businesses (as
-credit), it needs to be tied in large part to salaries (which can
-later become credit).
+It takes place pre-Perestroika, one gov official's line was the best
+"it’s just a video game.. to you, yes, but to the men in power, it is
+a slippery slope from selling one game to selling all of Russia to the
+highest bidder".
+
+And Russia was nearly sold to the highest bidder during the 90s,
+wasn't it? That's how the world ended up with Putin.
 
 ---
 
-Money, credit generated for this business segment is for useless
-production. Zero benefit for the humankind.
+*Tetris* was a fine movie
 
 ---
 
-Statista: "Revenue in the Soft Drinks segment amounts to US$0.85tn in 2023"
+Bertrand Russell: "Although this may seem a paradox, all exact science
+is dominated by the idea of approximation. When a man tells you that
+he knows the exact truth about anything, you are safe in inferring
+that he is an inexact man"
 
 ---
 
-Unemployment falling
-
-```text
-            UNRATE  U6RATE  REAL_UNRATE  REAL_UNEMP_LEVEL
-DATE                                                     
-2023-02-01     3.6     6.8     7.863111           13072.5
-2023-03-01     3.5     6.7     7.686033           12815.0
-```
+Germans were instrumental in passing the intel to Syria, in its fight
+against al Nusra and ISIS. 
 
 ---
 
-Inflation 
-
-```
-2023-02-01  6.035613
-2023-03-01  4.984974
-```
+nIt is possible WH knew..  The 2008-2016 Iran (Syrian friend)
+raproachement efforts are well known; Let's also remember the
+backtracking on the "red line" ultimatum.
 
 ---
 
-"EU Hydrogen Bank could bring renewable hydrogen costs below
-€1/kg... ICIS data shows that renewable hydrogen could be sold for
-below €1/kg ($1.09/kg) if a producer obtains the maximum support
-provided by the European Hydrogen Bank"
+They went behind Bama's back to give Assad intel on the opposition?
+Quite a claim. 
 
----
+Hersh, *The Killing of Osama bin Laden*: "The administration’s policy
+was contradictory. They wanted Assad to go but the opposition was
+dominated by extremists. So who was going to replace him?  To say
+Assad’s got to go is fine, but if you follow that through—therefore
+anyone is better. It’s the ‘anybody else is better’ issue that the JCS
+had with Obama’s policy.” The Joint Chiefs felt that a direct
+challenge to Obama’s policy would have 'had a zero chance of success.'
 
-H2 View: "UK delivers £23bn in low carbon investment in 2022.. The UK
-invested £23bn in new low carbon investment in 2022 encompassing
-hydrogen, renewables, carbon capture and storage"
+So in the autumn of 2013 they decided to take steps against the
+extremists without going through political channels, by providing US
+intelligence to the militaries of other nations, on the understanding
+that it would be passed on to the Syrian army and used against the
+common enemy, Jabhat al-Nusra and Islamic State. 'Obama didn’t know,
+but Obama doesn’t know what the JCS does in every circumstance, and
+that’s true of all presidents' [an official said].
 
 ---
 
