@@ -93,7 +93,7 @@ was contradictory. They wanted Assad to go but the opposition was
 dominated by extremists. So who was going to replace him?  To say
 Assad’s got to go is fine, but if you follow that through—therefore
 anyone is better. It’s the ‘anybody else is better’ issue that the JCS
-had with Obama’s policy.” The Joint Chiefs felt that a direct
+had with Obama’s policy... The Joint Chiefs felt that a direct
 challenge to Obama’s policy would have 'had a zero chance of success.'
 So in the autumn of 2013 they decided to take steps against the
 extremists without going through political channels, by providing US
