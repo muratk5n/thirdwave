@@ -74,8 +74,8 @@ that he is an inexact man"
 
 ---
 
-Germans were instrumental in passing the intel to Syria, in its fight
-against al Nusra and ISIS. 
+According to Hersh Germans were instrumental in passing the intel to
+Syria, in its fight against al Nusra and ISIS.
 
 ---
 
