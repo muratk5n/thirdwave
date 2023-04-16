@@ -1,4 +1,6 @@
-# H2 Safety
+# H2 Safety, Reduced/Zero Emissions
+
+### Safety
 
 [H2 Central](https://hydrogen-central.com/why-hydrogen-safer-you-might-think-bayotech/)
 
@@ -54,7 +56,12 @@ safety, typically, victims of hydrogen fires are not typically burned
 unless they are actually in contact with the flame,” the trade
 publication wrote. “Furthermore, they’re also not choked by smoke.”
 
-<a name='atmo'/>
+### Emissions
+
+Fuel-Cells
+
+As there is no carbon in H2 molecule, it's use in fuel-cells will only
+result in water as output. It is the cleanest fuel known to mankind.
 
 Atmosphere
 
@@ -66,13 +73,22 @@ problem here is methane itself, whose emission would be cut anyway due
 to a clean alternative being available now, the alternative being
 hydrogen.
 
+<a name='nox'/>
+
+Combustion Engines
+
+For the combustion scenario additional care must be taken to avoid NOx
+emissions. The H2 car engine design described here [3] that enabled
+the exhaust gas to be re-introduced / recirculated that results in NOx
+emissions of 1 ppm (regular car NOx emissions is > 300 ppm).
+
 Reference
 
 [1] https://www.caryinstitute.org/news-insights/blog-translational-ecology/hydrogen-fuels
 
 [2] https://en.wikipedia.org/wiki/Atmospheric_escape
 
-
+[3] https://www.sciencedirect.com/science/article/abs/pii/S036031990200157X
 
 
 
