@@ -9,10 +9,15 @@ pd.set_option('display.max_columns', None)
 
 
 ```python
-ps = ["Bakhmut","BM Railway","BM River"]
-u.sm_plot_ukr('ukrdata/fl-1104.csv','ukrdata/fl-0404.csv',
-              ps,clat=48.59,clon=37.98,zoom=0.005)
+u.sm_plot_ukr('ukrdata/fl-1604.csv','ukrdata/fl-1104.csv',[],clat=48.59,clon=37.98,zoom=0.3)
 plt.savefig('/tmp/out.jpg',quality=40)
+```
+
+
+```python
+ps = ['Bakhmut','Serebryanka','Krasnopolivka','Blahodatne']
+u.sm_plot_ukr('ukrdata/fl-1604.csv','ukrdata/fl-221115.csv',ps,clat=48.59,clon=37.98,zoom=0.1)
+plt.savefig('/tmp/out2.jpg',quality=40)
 ```
 
 
