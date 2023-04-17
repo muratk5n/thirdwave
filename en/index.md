@@ -86,7 +86,7 @@ The Doran article details how WH stuck to its Iran policy; and likely
 forces both internal and external actively tried to undermine this
 thawing of relations, and the conflict in ME became more complicated,
 and deadly because of it. Secret intel sharing would complicate things
-further.
+further and obviously help Assad.  
 
 ---
 
