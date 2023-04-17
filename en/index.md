@@ -16,9 +16,16 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-
-
 <iframe width="340"  src="https://www.youtube.com/embed/T8BOKPvxGL4" title="Future of Hydrogen Air Travel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+H2 Central: "Biggest hydrogen fuel plane flies for first time..
+Universal Hydrogen has successfully completed the first test flight of
+its hydrogen fuel plane, currently the largest of its kind. The
+company has been modifying the De Havilland Canada Dash 8-300
+aircraft... The plane has two hydrogen tanks with a capacity of 30
+kilograms of fuel"
 
 ---
 
