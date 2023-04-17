@@ -28,7 +28,7 @@ CCJ: "China continues fuel cell lead over U.S."
 
 UA took a stand at Bakhmut but that did not stop RU to advance in
 areas to the North and South of it; see areas taken in 2023,
-Krasnopolivka, Blahodatne are gone, approaching Serebryanka.
+Krasnopolivka, Blahodatne are gone, RU is now approaching Serebryanka.
 
 ```python
 ps = ['Bakhmut','Serebryanka','Krasnopolivka','Blahodatne']
@@ -39,7 +39,7 @@ u.sm_plot_ukr('ukrdata/fl-1604.csv','ukrdata/fl-221115.csv',ps,clat=48,clon=37,z
 
 ---
 
-RU took the Bakhmut railway
+Russia now has the Bakhmut railway
 
 ```python
 ps = ['Bakhmut Center','BM Railway']
