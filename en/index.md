@@ -132,8 +132,9 @@ single vision"
 
 ---
 
-It's not too far fetched admin helped Assad through backchannels,
-closer rels with Iran, Syria, Russia were part of their plan.
+It's not too far fetched post 2013 admin helped Assad through
+backchannels, closer rels with Iran, Syria, Russia were part of their
+plan.
 
 ---
 
