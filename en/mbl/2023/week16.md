@@ -12,7 +12,7 @@ empowering women, mentions PM Modi"
 
 Zambia goes to US column
 
-[[-]](2022/12/ru-africa.html)
+[[-]](../../2022/12/ru-africa.html)
 
 ---
 
@@ -31,7 +31,7 @@ hydrogen,' it noted"
 ---
 
 The media guy Maxwell was in it, Ghishalashalaylay's father..
-[This lady](mbl/2023/ejagoffmaxwell2.jpg). He was portrayed as a
+[This lady](ejagoffmaxwell2.jpg). He was portrayed as a
 connected, scheming jerkoff, based on his biz history portrayal
 looks correct.
 
