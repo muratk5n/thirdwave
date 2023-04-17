@@ -132,9 +132,9 @@ single vision"
 
 ---
 
-It's not too far fetched to imagine Bama admin helped Assad albeit through
-backchannels and underhanded ways, closer rels with Iran, Syria, Russia
-were part of the plan.
+It's not too far fetched admin helped Assad through backchannels and
+underhanded ways, closer rels with Iran, Syria, Russia were part of
+their plan.
 
 ---
 
