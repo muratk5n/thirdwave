@@ -50,7 +50,7 @@ u.sm_plot_ukr('ukrdata/fl-1604.csv','ukrdata/fl-1104.csv',ps,clat=48.59,clon=37.
 
 ---
 
-Good geek joke
+hah
 
 "@eichkat3r@hessen.social
 
