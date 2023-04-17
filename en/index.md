@@ -85,8 +85,8 @@ The Iraq Study Group Report
 The Doran article details how WH stuck to its Iran policy; and likely
 forces both internal and external actively tried to undermine this
 thawing of relations, and the conflict in ME became more complicated,
-and intense. Secret intel sharing makes sense here, also complicating
-things further.
+and deadly because of it. Secret intel sharing would complicate things
+further.
 
 ---
 
@@ -132,9 +132,8 @@ single vision"
 
 ---
 
-It's not too far fetched admin helped Assad through backchannels and
-underhanded ways, closer rels with Iran, Syria, Russia were part of
-their plan.
+It's not too far fetched admin helped Assad through backchannels,
+closer rels with Iran, Syria, Russia were part of their plan.
 
 ---
 
