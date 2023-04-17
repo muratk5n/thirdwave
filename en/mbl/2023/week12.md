@@ -188,7 +188,7 @@ RU advances compared to three weeks ago
 
 ```python
 ps = ["Zalisnyanske","Orikhovo-Vasylivka","Bakhmut"]
-u.sm_plot_ukr('ukrdata/fl-2203.csv','ukrdata/fl-0304.csv', ps,clat=48.6,clon=37.8,zoom=0.04)
+u.sm_plot_ukr('ukrdata/fl-0322.csv','ukrdata/fl-0304.csv', ps,clat=48.6,clon=37.8,zoom=0.04)
 ```
 
 <img width='340' src='ukr-4.jpg'/> 

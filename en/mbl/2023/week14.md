@@ -351,7 +351,7 @@ secondary suites under new multi-billion dollar housing plan"
 RU advance in the past two weeks
 
 ```python
-u.sm_plot_ukr('ukrdata/fl-0404.csv','ukrdata/fl-2203.csv',["Bakhmut"],
+u.sm_plot_ukr('ukrdata/fl-0404.csv','ukrdata/fl-0322.csv',["Bakhmut"],
               clat=48.6,clon=37.95,zoom=0.01)
 ```
 
