@@ -85,8 +85,8 @@ The Iraq Study Group Report
 The Doran article details how WH stuck to its Iran policy; and likely
 forces both internal and external actively tried to undermine this
 thawing of relations, and the conflict in ME became more complicated,
-and intense. In such environment the back channel intel sharing makes
-sense, complicating things further.
+and intense. Secret intel sharing makes sense here, also complicating
+things further.
 
 ---
 
