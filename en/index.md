@@ -68,11 +68,6 @@ you could actually omit half but somehow don't"
 
 ---
 
-Euractiv: "On China visit, Lula says US should stop ‘encouraging’ war
-in Ukraine"
-
----
-
 NL Times: "The Dutch government has issued 91 waivers from sanctions
 against Russia since the country invaded Ukraine late in February, RTL
 Nieuws reports after talking to the Ministries"
@@ -162,6 +157,11 @@ presidential race"
 
 Al Jazeera: "Pence booed at NRA meeting in US as he tries to outflank
 Trump"
+
+---
+
+Euractiv: "On China visit, Lula says US should stop ‘encouraging’ war
+in Ukraine"
 
 ---
 
