@@ -34,8 +34,9 @@ CCJ: "China continues fuel cell lead over U.S."
 ---
 
 UA took a stand at Bakhmut but that did not stop RU to advance in
-areas to the North and South of it; see areas taken in 2023,
-Krasnopolivka, Blahodatne are gone, RU is now approaching Serebryanka.
+areas to the North and South of it; see landmass taken past four
+months, Krasnopolivka, Blahodatne are gone, RU is now approaching
+Serebryanka.
 
 ```python
 ps = ['Bakhmut','Serebryanka','Krasnopolivka','Blahodatne']
