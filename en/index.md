@@ -16,7 +16,6 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-
 NJ Spotlight News: "New Jersey is joining six other states in seeking
 $1.25 billion in federal funds to explore the potential of clean
 hydrogen as a way to reduce global warming emissions and spur economic
@@ -83,7 +82,7 @@ and buses (cars can use them as well)"
 
 Pak has an half-assed democratic system; either have unelected
 bureucrats call the shots like in China, or elected civilians are in
-control bureucrats take the backseat. Can't have both.
+control, bureucrats take the backseat. Can't have both.
 
 WSJ: "Imran Khan Fights the Army for Control of Nuclear-Armed
 Pakistan.. The popular former prime minister goes head to head with
