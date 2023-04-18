@@ -16,152 +16,86 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-<iframe width="340"  src="https://www.youtube.com/embed/T8BOKPvxGL4" title="Future of Hydrogen Air Travel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+NJ Spotlight News: "New Jersey is joining six other states in seeking
+$1.25 billion in federal funds to explore the potential of clean
+hydrogen as a way to reduce global warming emissions and spur economic
+growth"
 
 ---
 
-H2 Central: "Biggest hydrogen fuel plane flies for first time..
-Universal Hydrogen has successfully completed the first test flight of
-its hydrogen fuel plane, currently the largest of its kind. The
-company has been modifying the De Havilland Canada Dash 8-300
-aircraft... The plane has two hydrogen tanks with a capacity of 30
-kilograms of fuel"
+<iframe frameborder="0" width="250"
+  src="https://drive.google.com/file/d/1MlNyof4ZCovH3M8Lu4L24b10u2wRSM9J/preview">    
+</iframe>
 
 ---
 
-CCJ: "China continues fuel cell lead over U.S."
+Michio Kaku: "All of a sudden we realize we may have to rewrite all
+the textbooks about the beginning of the universe"
 
 ---
 
-UA took a stand at Bakhmut but that did not stop RU to advance in
-areas to the North and South of it; see landmass taken past four
-months, Krasnopolivka, Blahodatne are gone, RU is now approaching
-Serebryanka.
+🍌 🍌 🍌 😂 😂 😂 
 
-```python
-ps = ['Bakhmut','Serebryanka','Krasnopolivka','Blahodatne']
-u.sm_plot_ukr('ukrdata/fl-0416.csv','ukrdata/fl-221115.csv',ps,clat=48,clon=37,zoom=0.1)
-```
-
-[[-]](mbl/2023/ukr-9.jpg)
+CNB News: "It's bananas": CU researchers use James Webb telescope to
+find ancient galaxies that shouldn't exist"
 
 ---
 
-Russia now has the Bakhmut railway
-
-```python
-ps = ['Bakhmut Center','BM Railway']
-u.sm_plot_ukr('ukrdata/fl-0416.csv','ukrdata/fl-0411.csv',ps,clat=48.59,clon=37.98,zoom=0.3)
-```
-
-[[-]](mbl/2023/ukr-8.jpg)
+Yahoo News: "Newfound Super-Bright Neutron Star Baffles Scientists And
+Should Not Exist"
 
 ---
 
-hah
+'Do not fully understand' is right, as in, *it never happened*.
 
-"@eichkat3r@hessen.social
-
-french is a bit like java
-
-you could actually omit half but somehow don't"
-
----
-
-NL Times: "The Dutch government has issued 91 waivers from sanctions
-against Russia since the country invaded Ukraine late in February, RTL
-Nieuws reports after talking to the Ministries"
+National Geographic: "A star cluster some 80,000 light-years from
+Earth looks mysteriously deficient in the element lithium, just like
+nearby stars, astronomers reported on Wednesday.. That curious
+deficiency suggests that astrophysicists either don't fully understand
+the big bang, they suggest, or else don't fully understand the way
+that stars work"
 
 ---
 
-H2 Central: "Enagás, Hive Energy And The JCCM Come Together to Develop
-in Albacete 'The Largest Green Hydrogen Hub in Europe'"
+Gizmodo: "[2012] Hubble has spotted an ancient galaxy that shouldn't
+exist.. This galaxy is so large, so fully-formed, astronomers say it
+shouldn't exist at all. It's called a "grand-design" spiral galaxy,
+and unlike most galaxies of its kind, this one is old"
 
 ---
 
-The Iraq Study Group Report
+"Hypx@Hypx@mastodon.social
 
-[PDF](https://www.govinfo.gov/content/pkg/GPO-IRAQSTUDYGROUP/pdf/GPO-IRAQSTUDYGROUP.pdf)
-
----
-
-The Doran article details how WH stuck to its Iran policy; and likely
-forces both internal and external actively tried to undermine this
-thawing of relations, and the conflict in ME became more complicated,
-and deadly because of it. Secret intel sharing would complicate things
-further and obviously help Assad.  
+Wärtsilä, Höegh LNG and partners receive funding of €5.9M to develop
+ammonia as hydrogen carrier"
 
 ---
 
-Russia Russia Russia
+"@Hy_Economy@mastodon.social
+
+New funding round for hydrogen stations in Germany has started. The
+maximum subsidy is 80% of the costs (likely Capex). Further rounds
+will come with the aim of building more than 100 stations for trucks
+and buses (cars can use them as well)"
 
 ---
 
-Michael Doran: "When [Obama] arrived in Washington in 2006, he
-absorbed a set of ideas that had incubated on Capitol Hill during the
-previous three years—ideas that had received widespread attention
-thanks to the final report of the Iraq Study Group, a bipartisan
-congressional commission whose co-chairs, former secretary of state
-James Baker and former Indiana congressman Lee Hamilton, interpreted
-their mission broadly, offering advice on all key aspects of Middle
-East policy.. The report, published in December 2006, urged
-then-President Bush to take four major steps: withdraw American troops
-from Iraq; surge American troops in Afghanistan; reinvigorate the
-Arab-Israeli 'peace process'; and, last but far from least, launch a
-diplomatic engagement of the Islamic Republic of Iran and its junior
-partner, the Assad regime in Syria. Baker and Hamilton believed that
-Bush stood in thrall to Israel and was therefore insufficiently alive
-to the benefits of cooperating with Iran and Syria. Those two regimes,
-supposedly, shared with Washington the twin goals of stabilizing Iraq
-and defeating al-Qaeda and other Sunni jihadi groups. In turn, this
-shared interest would provide a foundation for building a concert
-system of states—a club of stable powers that could work together to
-contain the worst pathologies of the Middle East and lead the way to a
-sunnier future.
+Pak has an half-assed democratic system; either have unelected
+bureucrats call the shots like in China, or elected civilians are in
+control bureucrats take the backseat. Can't have both.
 
-Expressing the ethos of an influential segment of the foreign-policy
-elite, the Baker-Hamilton report became the blueprint for the foreign
-policy of the Obama administration, and its spirit continues to
-pervade Obama’s inner circle. Denis McDonough, now the president’s
-chief of staff, once worked as an aide to Lee Hamilton; so did
-Benjamin Rhodes, who helped write the Iraq Study Group’s report. Obama
-not only adopted the blueprint but took it one step further,
-recruiting Vladimir Putin’s Russia as another candidate for membership
-in the new club. The administration’s early 'reset' with Russia and
-its policy of reaching out to Iran and Syria formed two parts of a
-single vision"
-
-[[-]](https://www.hudson.org/foreign-policy/obama-s-secret-iran-strategy)
+WSJ: "Imran Khan Fights the Army for Control of Nuclear-Armed
+Pakistan.. The popular former prime minister goes head to head with
+the powerful military chief"
 
 ---
 
-It's not too far fetched post 2013 admin helped Assad through
-backchannels, closer rels with Iran, Syria, Russia were part of their
-plan.
-
----
-
-Politico: "'Republicans were a party known for starting wars overseas,
-cutting Social Security and Medicare at home, and pushing mass amnesty
-for illegal aliens,' Trump told donors during the closed-door
-gathering.. Declaring that the 'old Republican Party is gone, and it
-is never coming back,' Trump in Nashville urged Republican donors to
-help put him back in the White House"
-
----
-
-WION: "'Time is not right...': Trump ally Mike Pompeo drops out of 2024
-presidential race"
-
----
-
-Al Jazeera: "Pence booed at NRA meeting in US as he tries to outflank
-Trump"
-
----
-
-Euractiv: "On China visit, Lula says US should stop ‘encouraging’ war
-in Ukraine"
+H2 Central: "States Form Coalition to Pursue Hydrogen Grants.. The
+proposed Mid-Continent Clean Hydrogen Hub (MCH2) – a partnership
+between Iowa, Nebraska and Missouri – would be competing with other
+regional proposals for $7 billion available to establish six to 10
+green hydrogen hubs"
 
 ---
 

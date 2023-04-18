@@ -82,6 +82,17 @@ emissions. The H2 car engine design described here [3] that enabled
 the exhaust gas to be re-introduced / recirculated that results in NOx
 emissions of 1 ppm (regular car NOx emissions is > 300 ppm).
 
+There are other techniques; a stratification technique used in new
+diesel / hydrogen hybrid engines has varied concentration of hydrogen
+gas within different sections of the combustion chamber, these
+variations can affect the chemical reactions and control the amount of
+NOx produced by the engine, then the timing of the hydrogen injection
+is used to limit NOx production. 'We have shown in our system that if
+you make it stratified—that is, in some areas there is more hydrogen
+and in others there is less hydrogen—then we can reduce the NOx
+emissions below that of a pure diesel engine,' said the UNSW
+researcher [4].
+
 Reference
 
 [1] https://www.caryinstitute.org/news-insights/blog-translational-ecology/hydrogen-fuels
@@ -90,5 +101,5 @@ Reference
 
 [3] https://www.sciencedirect.com/science/article/abs/pii/S036031990200157X
 
-
+[4] https://hydrogen-central.com/mixing-diesel-hydrogen-provides-big-cuts-emissions-ars-technica/
 
