@@ -27,7 +27,7 @@ ps = ['Bakhmut','Serebryanka','Krasnopolivka','Blahodatne']
 u.sm_plot_ukr('ukrdata/fl-0416.csv','ukrdata/fl-221115.csv',ps,clat=48,clon=37,zoom=0.1)
 ```
 
-[[-]](mbl/2023/ukr-9.jpg)
+[[-]](ukr-9.jpg)
 
 ---
 
@@ -38,7 +38,7 @@ ps = ['Bakhmut Center','BM Railway']
 u.sm_plot_ukr('ukrdata/fl-0416.csv','ukrdata/fl-0411.csv',ps,clat=48.59,clon=37.98,zoom=0.3)
 ```
 
-[[-]](mbl/2023/ukr-8.jpg)
+[[-]](ukr-8.jpg)
 
 ---
 
