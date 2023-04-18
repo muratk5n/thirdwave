@@ -23,7 +23,7 @@ growth"
 
 ---
 
-Here is Lerner on TBB; he is right many recent 'fairy dust'
+Here is Lerner on TBB; he is right, many recent 'fairy dust'
 cosmological explanations are there as duct tape, to keep the
 underlying theory seemingly functional, but the core is too broken.
 
