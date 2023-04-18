@@ -64,7 +64,7 @@ and unlike most galaxies of its kind, this one is old"
 
 ---
 
-"Hypx@Hypx@mastodon.social
+"@Hypx@mastodon.social
 
 Wärtsilä, Höegh LNG and partners receive funding of €5.9M to develop
 ammonia as hydrogen carrier"
