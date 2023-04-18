@@ -49,11 +49,9 @@ Should Not Exist"
 'Do not fully understand' is right, as in, *it never happened*.
 
 National Geographic: "A star cluster some 80,000 light-years from
-Earth looks mysteriously deficient in the element lithium, just like
-nearby stars, astronomers reported on Wednesday.. That curious
-deficiency suggests that astrophysicists either don't fully understand
-the big bang, they suggest, or else don't fully understand the way
-that stars work"
+Earth looks mysteriously deficient in [rare earth which] suggests that
+astrophysicists either don't fully understand the big bang, they
+suggest, or else don't fully understand the way that stars work"
 
 ---
 
