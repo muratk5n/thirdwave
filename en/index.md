@@ -27,7 +27,7 @@ Here is Lerner on TBB; he is right many recent 'fairy dust'
 cosmological explanations are there as duct tape, to keep the
 underlying theory seemingly functioal, but the core is too broken.
 
-[[-]](2023/04/strategy-for-israel-yinon.html)
+[[-]](2023/04/ex-post-facto-lerner.html)
 
 ---
 
