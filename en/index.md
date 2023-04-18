@@ -23,9 +23,11 @@ growth"
 
 ---
 
-<iframe frameborder="0" width="250"
-  src="https://drive.google.com/file/d/1MlNyof4ZCovH3M8Lu4L24b10u2wRSM9J/preview">    
-</iframe>
+Here is Lerner on TBB; he is right many recent 'fairy dust'
+cosmological explanations are there as duct tape, to keep the
+underlying theory seemingly functioal, but the core is too broken.
+
+[[-]](2023/04/strategy-for-israel-yinon.html)
 
 ---
 
