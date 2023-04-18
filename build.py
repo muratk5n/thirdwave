@@ -137,6 +137,8 @@ head = """
       <link rel="stylesheet" type="text/css" media="screen" href="https://muratk5n.codeberg.page/css/jekyll.css">
       <title>thirdwave</title>
       <link rel="canonical" href="https://muratk5n.codeberg.page/en/" />
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1548953794786292"
+              crossorigin="anonymous"></script>
     </head>        
     <body>
       <div id="header_wrap" class="outer">

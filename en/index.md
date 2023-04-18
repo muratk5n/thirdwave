@@ -23,9 +23,9 @@ growth"
 
 ---
 
-Here is Lerner on TBB; he is right, many recent 'fairy dust'
-cosmological explanations are there as duct tape, to keep the
-underlying theory seemingly functional, but the core is too broken.
+Here is Lerner on TBB; he says many recent 'fairy dust' cosmological
+explanations are there as duct tape, to keep the underlying theory
+seemingly functional, but the core is too broken.
 
 [[-]](2023/04/ex-post-facto-lerner.html)
 
