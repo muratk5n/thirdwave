@@ -1,6 +1,6 @@
 ## Blog
 
-[English](/thirdwave/en/)
+[English](en)
 
-[TR](/thirdwave/tr/)
+[TR](tr)
 
