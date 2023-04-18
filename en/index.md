@@ -36,8 +36,8 @@ the textbooks about the beginning of the universe"
 
 🍌 🍌 🍌 😂 😂 😂 
 
-CNB News: "'It's bananas': CU researchers use James Webb telescope to
-find ancient galaxies that shouldn't exist"
+CNB News: "'It's bananas': University of Colorado researchers use
+James Webb telescope to find ancient galaxies that shouldn't exist"
 
 ---
 
