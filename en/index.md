@@ -16,8 +16,8 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-That equals a radius of abt 90 meters, a big area. Reports suggest a
-red mushroom cloud was visible after one explosion.
+That equals a radius of abt 90 meters. Reports suggest a red mushroom
+cloud was visible after one explosion.
 
 AOAV: "According to Russian claims, the blast [area] from a single
 [FAB-500] warhead is 25,000 square metres"
