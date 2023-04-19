@@ -20,7 +20,7 @@ That equals a radius of approx 100 meters. Reports suggest some
 saw a red mushroom cloud from the previous two attacks.
 
 AOAV: "According to Russian claims, the blast [area] from a single
-warhead is 25,000 square metres"
+[FAB-500] warhead is 25,000 square metres"
 
 ---
 
@@ -67,8 +67,8 @@ get anything from my country except violence". Life probably wasn't
 too easy for him and his people... Generally though having two armies
 neither of which feels too attached to civilian rule is not good. It's
 like some next level IR joke..  building on the Paki version,
-countries have a militaries, Paki military has a country, in Sudan,
-two militaries have the same country.
+countries have a militaries, PK military has a country, in Sudan, two
+militaries have the same country.
 
 ---
 
