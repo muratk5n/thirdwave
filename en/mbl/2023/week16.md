@@ -1,5 +1,87 @@
 # Week 16
 
+NJ Spotlight News: "New Jersey is joining six other states in seeking
+$1.25 billion in federal funds to explore the potential of clean
+hydrogen as a way to reduce global warming emissions and spur economic
+growth"
+
+---
+
+Here is Lerner on TBB; he says many recent 'fairy dust' cosmological
+explanations are there as duct tape, to keep the underlying theory
+seemingly functional, but the core is too broken.
+
+[[-]](2023/04/ex-post-facto-lerner.html)
+
+---
+
+Michio Kaku: "All of a sudden we realize we may have to rewrite all
+the textbooks about the beginning of the universe"
+
+---
+
+🍌 🍌 🍌 😂 😂 😂 
+
+CBS News: "'It's bananas': University of Colorado researchers use
+James Webb telescope to find ancient galaxies that shouldn't exist"
+
+---
+
+Yahoo News: "Newfound Super-Bright Neutron Star Baffles Scientists And
+Should Not Exist"
+
+---
+
+'Do not fully understand' is right, as in, *it never happened*.
+
+National Geographic: "A star cluster some 80,000 light-years from
+Earth looks mysteriously deficient in [rare earth which] suggests that
+astrophysicists either don't fully understand the big bang, they
+suggest, or else don't fully understand the way that stars work"
+
+---
+
+Gizmodo: "[2012] Hubble has spotted an ancient galaxy that shouldn't
+exist.. This galaxy is so large, so fully-formed, astronomers say it
+shouldn't exist at all. It's called a "grand-design" spiral galaxy,
+and unlike most galaxies of its kind, this one is old"
+
+---
+
+"@Hypx@mastodon.social
+
+Wärtsilä, Höegh LNG and partners receive funding of €5.9M to develop
+ammonia as hydrogen carrier"
+
+---
+
+"@Hy_Economy@mastodon.social
+
+New funding round for hydrogen stations in Germany has started. The
+maximum subsidy is 80% of the costs (likely Capex). Further rounds
+will come with the aim of building more than 100 stations for trucks
+and buses (cars can use them as well)"
+
+---
+
+Pak has an half-assed democratic system; either have unelected
+bureucrats call the shots like in China, or elected civilians are in
+control, bureucrats take the backseat. Can't have both.
+
+WSJ: "Imran Khan Fights the Army for Control of Nuclear-Armed
+Pakistan.. The popular former prime minister goes head to head with
+the powerful military chief"
+
+---
+
+H2 Central: "States Form Coalition to Pursue Hydrogen Grants.. The
+proposed Mid-Continent Clean Hydrogen Hub (MCH2) – a partnership
+between Iowa, Nebraska and Missouri – would be competing with other
+regional proposals for $7 billion available to establish six to 10
+green hydrogen hubs"
+
+---
+
 <iframe width="340"  src="https://www.youtube.com/embed/T8BOKPvxGL4" title="Future of Hydrogen Air Travel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---

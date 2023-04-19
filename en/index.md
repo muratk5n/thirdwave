@@ -16,85 +16,90 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-NJ Spotlight News: "New Jersey is joining six other states in seeking
-$1.25 billion in federal funds to explore the potential of clean
-hydrogen as a way to reduce global warming emissions and spur economic
-growth"
+That equals a radius of approx 100 meters. Reports suggest some
+saw a red mushroom cloud from the previous two attacks.
+
+AOAV: "According to Russian claims, the blast [area] from a single
+warhead is 25,000 square metres"
 
 ---
 
-Here is Lerner on TBB; he says many recent 'fairy dust' cosmological
-explanations are there as duct tape, to keep the underlying theory
-seemingly functional, but the core is too broken.
-
-[[-]](2023/04/ex-post-facto-lerner.html)
-
----
-
-Michio Kaku: "All of a sudden we realize we may have to rewrite all
-the textbooks about the beginning of the universe"
+The Eastern Herald: "In the Bakhmut.. region, the Russian air force
+used FAB-500 bombs.. one [bombing] was recorded near the fortified
+area of ​​the 241st Territorial Defense Brigade between Khromov and the
+motocross track, the second – in the area of ​​​​the intersection near the
+eighth Pond west of the city, where the armed forces of Ukraine are
+trying to transfer ammunition to Bakhmut"
 
 ---
 
-🍌 🍌 🍌 😂 😂 😂 
+Fueler: "BMW is presenting international media representatives with
+the first vehicles in a pilot fleet of Hydrogen powered iX5s... You
+fill your vehicle with Hydrogen at a fuel station like a petrol or
+diesel vehicle. It is clean and straightforward and avoids any need
+for charging, which is currently costing more and more... I believe
+more manufacturers will look at Hydrogen as a source to power
+vehicles, so looking at the BMW trial is exciting"
 
-CBS News: "'It's bananas': University of Colorado researchers use
-James Webb telescope to find ancient galaxies that shouldn't exist"
-
----
-
-Yahoo News: "Newfound Super-Bright Neutron Star Baffles Scientists And
-Should Not Exist"
-
----
-
-'Do not fully understand' is right, as in, *it never happened*.
-
-National Geographic: "A star cluster some 80,000 light-years from
-Earth looks mysteriously deficient in [rare earth which] suggests that
-astrophysicists either don't fully understand the big bang, they
-suggest, or else don't fully understand the way that stars work"
+[Pic 1](https://fueler.ca/wp-content/uploads/2023/04/P90494382-highRes-1200x800.jpg),
+[Pic 2](https://fueler.ca/wp-content/uploads/2023/04/P90494342-highRes-1200x798.jpg),
+[Pic 3](https://fueler.ca/wp-content/uploads/2023/04/P90494460-highRes-1200x798.jpg)
 
 ---
 
-Gizmodo: "[2012] Hubble has spotted an ancient galaxy that shouldn't
-exist.. This galaxy is so large, so fully-formed, astronomers say it
-shouldn't exist at all. It's called a "grand-design" spiral galaxy,
-and unlike most galaxies of its kind, this one is old"
+It still works for me but some complain Google search returns bad
+results for them, results are not useful unless the string "reddit" is
+appended to the search term. Reddit as we all know is extremely Web
+1.0 but plain, clean, straight-forward human curated content.
 
 ---
 
-"@Hypx@mastodon.social
-
-Wärtsilä, Höegh LNG and partners receive funding of €5.9M to develop
-ammonia as hydrogen carrier"
+Melenchon fell out of favor, Francois Ruffin is the rising star of the
+French left?
 
 ---
 
-"@Hy_Economy@mastodon.social
-
-New funding round for hydrogen stations in Germany has started. The
-maximum subsidy is 80% of the costs (likely Capex). Further rounds
-will come with the aim of building more than 100 stations for trucks
-and buses (cars can use them as well)"
-
----
-
-Pak has an half-assed democratic system; either have unelected
-bureucrats call the shots like in China, or elected civilians are in
-control, bureucrats take the backseat. Can't have both.
-
-WSJ: "Imran Khan Fights the Army for Control of Nuclear-Armed
-Pakistan.. The popular former prime minister goes head to head with
-the powerful military chief"
+Infighting in Sudan, two militaries are fighting; one is the official,
+the other, RSF, is a paramilitary group started in 2000s. Much is said
+about the RSF leader Hemeti but I heard one speech, he was saying "I'm
+a simple Bedouin man who grew up on the sidelines of Sudan and did not
+get anything from my country except violence". Life probably wasn't
+too easy for him and his people... Generally though having two armies
+neither of which feels too attached to civilian rule is not good. It's
+like some next level IR joke..  building on the Paki version,
+countries have a militaries, Paki military has a country, in Sudan,
+two militaries have the same country.
 
 ---
 
-H2 Central: "States Form Coalition to Pursue Hydrogen Grants.. The
-proposed Mid-Continent Clean Hydrogen Hub (MCH2) – a partnership
-between Iowa, Nebraska and Missouri – would be competing with other
-regional proposals for $7 billion available to establish six to 10
-green hydrogen hubs"
+H2 Central: "U.S. Secretary of Energy Jennifer Granholm said that
+Washington could export hydrogen to Japan as part of larger bilateral
+energy cooperation"
+
+---
+
+[Link](https://drive.google.com/uc?export=view&id=1HSGJAFJ5bsISresSL5rLc-XGmW1iFvuC)
+
+---
+
+Al-Monitor: "Son of Iran’s shah Pahlavi arrives in Israel on controversial visit"
+
+---
+
+Al-Monitor: "Saudi-Israeli normalization drifts further away as Riyadh courts Iran"
+
+---
+
+Want
+
+H2 Central: "First Hydrogen Corp.  releases its vision for a
+zero-emission Recreational Vehicle (RV) as it explores the
+applications for alternative fuels across different vehicle
+classes. Designed to have spacious living quarters, a large front
+windshield and good ground clearance, the campervan concept
+prioritises driver comfort and experience"
+
+<img width='340' src='https://hydrogen-central.com/wp-content/uploads/2023/04/first-hydrogen-campervan.png'/> 
 
 ---
 
