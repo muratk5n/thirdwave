@@ -18,11 +18,12 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 Of course the culprit is modern tech, and people
 
-WION: "[H]ow could the ocean's most accomplished deep-sea diver wind
-up with nitrogen bubbles poisoning its veins..  'In the presence of
-sonar they are stressed and swim vigorously away from the sound
-source, changing their diving pattern.. which makes the animals
-accumulate nitrogen' [says expert]..
+WION: "Why do whales commit suicide? Answer may be sonar.. [H]ow could
+the ocean's most accomplished deep-sea diver wind up with nitrogen
+bubbles poisoning its veins..  'In the presence of sonar they are
+stressed and swim vigorously away from the sound source, changing
+their diving pattern.. which makes the animals accumulate nitrogen'
+[says expert]..
 
 Starting around 1960, ships began emitting underwater signals in a
 range of about 5 kilohertz (kHz). That is when the mass beaching of
