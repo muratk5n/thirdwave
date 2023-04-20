@@ -59,7 +59,7 @@ FAO: "The average water content of cabbage is about 90 percent"
 
 ---
 
-Most of that cabbage disappeared after dehydration. Dam
+A lot of cabbage disappears after dehydration. Something to see
 
 ---
 
