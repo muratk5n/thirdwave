@@ -86,8 +86,8 @@ achieved"
 ---
 
 I wonder how much damages the shitlib media would have to pay if tried
-and convicted for their Russiagate lies.. IMO that lie cost the
-country nearly 100 billion.
+and convicted for their Russiagate lies.. If properly priced the
+incurred damages would probably reach 100 billion dollars.
 
 ---
 
