@@ -85,6 +85,12 @@ achieved"
 
 ---
 
+I wonder how much damages the shitlib media would have to pay if tried
+and convicted for their Russiagate lies.. IMO that lie cost the
+country nearly 100 billion.
+
+---
+
 First Post: "India, Russia trade exceeds target of $30 billion before
 2025, may increase, says [FM] Jaishankar"
 
