@@ -1,5 +1,92 @@
 # Week 16
 
+That equals a radius of abt 90 meters. Reports suggest a red mushroom
+cloud was visible after one explosion.
+
+AOAV: "According to Russian claims, the blast [area] from a single
+[FAB-500] warhead is 25,000 square metres"
+
+---
+
+The Eastern Herald: "In the Bakhmut.. region, the Russian air force
+used FAB-500 bombs.. one [bombing] was recorded near the fortified
+area of ​​the 241st Territorial Defense Brigade between Khromov and the
+motocross track, the second – in the area of ​​​​the intersection near the
+eighth Pond west of the city, where the armed forces of Ukraine are
+trying to transfer ammunition to Bakhmut"
+
+---
+
+Fueler: "BMW is presenting international media representatives with
+the first vehicles in a pilot fleet of Hydrogen powered iX5s... You
+fill your vehicle with Hydrogen at a fuel station like a petrol or
+diesel vehicle. It is clean and straightforward and avoids any need
+for charging, which is currently costing more and more... I believe
+more manufacturers will look at Hydrogen as a source to power
+vehicles, so looking at the BMW trial is exciting"
+
+[Pic 1](https://fueler.ca/wp-content/uploads/2023/04/P90494382-highRes-1200x800.jpg),
+[Pic 2](https://fueler.ca/wp-content/uploads/2023/04/P90494342-highRes-1200x798.jpg),
+[Pic 3](https://fueler.ca/wp-content/uploads/2023/04/P90494460-highRes-1200x798.jpg)
+
+---
+
+It still works for me but some complain Google search returns bad
+results for them, results are not useful unless the string "reddit" is
+appended to the search term. Reddit as we all know is extremely Web
+1.0 but plain, clean, straight-forward human curated content.
+
+---
+
+Melenchon fell out of favor, Francois Ruffin is the rising star of the
+French left?
+
+---
+
+Infighting in Sudan, two militaries are fighting; one is the official,
+the other, RSF, is a paramilitary group started in 2000s. Much is said
+about the RSF leader Hemeti but I heard one speech, he was saying "I'm
+a simple Bedouin man who grew up on the sidelines of Sudan and did not
+get anything from my country except violence". Life probably wasn't
+too easy for him and his people... Generally though having two armies
+neither of which feels too attached to civilian rule is not good. It's
+like some next level IR joke..  building on the Paki version,
+countries have a militaries, PK military has a country, in Sudan, two
+militaries have the same country.
+
+---
+
+H2 Central: "U.S. Secretary of Energy Jennifer Granholm said that
+Washington could export hydrogen to Japan as part of larger bilateral
+energy cooperation"
+
+---
+
+[Link](https://drive.google.com/uc?export=view&id=1HSGJAFJ5bsISresSL5rLc-XGmW1iFvuC)
+
+---
+
+Al-Monitor: "Son of Iran’s shah Pahlavi arrives in Israel on controversial visit"
+
+---
+
+Al-Monitor: "Saudi-Israeli normalization drifts further away as Riyadh courts Iran"
+
+---
+
+Want
+
+H2 Central: "First Hydrogen Corp.  releases its vision for a
+zero-emission Recreational Vehicle (RV) as it explores the
+applications for alternative fuels across different vehicle
+classes. Designed to have spacious living quarters, a large front
+windshield and good ground clearance, the campervan concept
+prioritises driver comfort and experience"
+
+<img width='340' src='https://hydrogen-central.com/wp-content/uploads/2023/04/first-hydrogen-campervan.png'/> 
+
+---
+
 NJ Spotlight News: "New Jersey is joining six other states in seeking
 $1.25 billion in federal funds to explore the potential of clean
 hydrogen as a way to reduce global warming emissions and spur economic

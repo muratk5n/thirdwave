@@ -16,90 +16,80 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-That equals a radius of abt 90 meters. Reports suggest a red mushroom
-cloud was visible after one explosion.
+Of course the culprit is modern tech, and people
 
-AOAV: "According to Russian claims, the blast [area] from a single
-[FAB-500] warhead is 25,000 square metres"
+WION: "[H]ow could the ocean's most accomplished deep-sea diver wind
+up with nitrogen bubbles poisoning its veins..  'In the presence of
+sonar they are stressed and swim vigorously away from the sound
+source, changing their diving pattern.. which makes the animals
+accumulate nitrogen' [says expert]..
 
----
-
-The Eastern Herald: "In the Bakhmut.. region, the Russian air force
-used FAB-500 bombs.. one [bombing] was recorded near the fortified
-area of ​​the 241st Territorial Defense Brigade between Khromov and the
-motocross track, the second – in the area of ​​​​the intersection near the
-eighth Pond west of the city, where the armed forces of Ukraine are
-trying to transfer ammunition to Bakhmut"
-
----
-
-Fueler: "BMW is presenting international media representatives with
-the first vehicles in a pilot fleet of Hydrogen powered iX5s... You
-fill your vehicle with Hydrogen at a fuel station like a petrol or
-diesel vehicle. It is clean and straightforward and avoids any need
-for charging, which is currently costing more and more... I believe
-more manufacturers will look at Hydrogen as a source to power
-vehicles, so looking at the BMW trial is exciting"
-
-[Pic 1](https://fueler.ca/wp-content/uploads/2023/04/P90494382-highRes-1200x800.jpg),
-[Pic 2](https://fueler.ca/wp-content/uploads/2023/04/P90494342-highRes-1200x798.jpg),
-[Pic 3](https://fueler.ca/wp-content/uploads/2023/04/P90494460-highRes-1200x798.jpg)
+Starting around 1960, ships began emitting underwater signals in a
+range of about 5 kilohertz (kHz). That is when the mass beaching of
+beaked whales, especially in the Mediterranean, began... The most
+deadly episode, in 2002, saw 14 stranded over a 36-hour period in the
+Canary Islands during a NATO naval exercise"
 
 ---
 
-It still works for me but some complain Google search returns bad
-results for them, results are not useful unless the string "reddit" is
-appended to the search term. Reddit as we all know is extremely Web
-1.0 but plain, clean, straight-forward human curated content.
+Beached whales - sad.
 
 ---
 
-Melenchon fell out of favor, Francois Ruffin is the rising star of the
-French left?
+H2 View: "Rolls-Royce reveals green hydrogen production and fuel cell
+plans.. Rolls-Royce plans to produce green hydrogen at is
+Friedrichshafen headquarters and test its mtu hydrogen engines and
+fuel cell systems"
 
 ---
 
-Infighting in Sudan, two militaries are fighting; one is the official,
-the other, RSF, is a paramilitary group started in 2000s. Much is said
-about the RSF leader Hemeti but I heard one speech, he was saying "I'm
-a simple Bedouin man who grew up on the sidelines of Sudan and did not
-get anything from my country except violence". Life probably wasn't
-too easy for him and his people... Generally though having two armies
-neither of which feels too attached to civilian rule is not good. It's
-like some next level IR joke..  building on the Paki version,
-countries have a militaries, PK military has a country, in Sudan, two
-militaries have the same country.
+"@danwentzel@urbanists.social
+
+'My hot take on '15 minute cities' is if you can get to the coffee
+shop within fifteen minutes, but the barrista who makes your drink
+can’t afford to live closer than a half-hour away, then you live in a
+theme park.”
 
 ---
 
-H2 Central: "U.S. Secretary of Energy Jennifer Granholm said that
-Washington could export hydrogen to Japan as part of larger bilateral
-energy cooperation"
+No shite
+
+FAO: "The average water content of cabbage is about 90 percent"
 
 ---
 
-[Link](https://drive.google.com/uc?export=view&id=1HSGJAFJ5bsISresSL5rLc-XGmW1iFvuC)
+Most of that cabbage disappeared after dehydration. Dam
 
 ---
 
-Al-Monitor: "Son of Iran’s shah Pahlavi arrives in Israel on controversial visit"
+Science Daily: "A solar hydrogen system that co-generates heat and
+oxygen... EPFL researchers have built a pilot-scale solar reactor that
+produces usable heat and oxygen, in addition to generating hydrogen
+with unprecedented efficiency for its size"
+
+[[-]](https://www.sciencedaily.com/releases/2023/04/230417142442.htm)
 
 ---
 
-Al-Monitor: "Saudi-Israeli normalization drifts further away as Riyadh courts Iran"
+This is direct solar-to-H2 wout electricity
+
+Paper: "Here we present the successful scaling of a thermally
+integrated photoelectrochemical device—utilizing concentrated solar
+irradiation—to a kW-scale pilot plant capable of co-generation of
+hydrogen and heat. A solar-to-hydrogen device-level efficiency of
+greater than 20% at an H2 production rate of >2.0 kW (>0.8 g min−1) is
+achieved"
+
+[[-]](https://www.researchgate.net/publication/369924141_Kilowatt-scale_solar_hydrogen_production_system_using_a_concentrated_integrated_photoelectrochemical_device)
 
 ---
 
-Want
+First Post: "India, Russia trade exceeds target of $30 billion before
+2025, may increase, says [FM] Jaishankar"
 
-H2 Central: "First Hydrogen Corp.  releases its vision for a
-zero-emission Recreational Vehicle (RV) as it explores the
-applications for alternative fuels across different vehicle
-classes. Designed to have spacious living quarters, a large front
-windshield and good ground clearance, the campervan concept
-prioritises driver comfort and experience"
+---
 
-<img width='340' src='https://hydrogen-central.com/wp-content/uploads/2023/04/first-hydrogen-campervan.png'/> 
+Al Jazeera: "India and China snap up Russian oil in April above 'price cap'"
 
 ---
 
