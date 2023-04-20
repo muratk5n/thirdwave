@@ -87,7 +87,7 @@ achieved"
 
 I wonder how much damages the shitlib media would have to pay if tried
 and convicted for their Russiagate lies.. If properly priced the
-incurred damages would probably reach 100 billion dollars.
+incurred damages would probably reach nearly 100 billion dollars.
 
 ---
 
