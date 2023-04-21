@@ -48,9 +48,9 @@ hydrogen at a fraction of the cost of onshore infrastructure.. Dubbed
 H2Leo, the solution has already received an Approval in Principle
 (AiP) from the American Bureau of Shipping (ABS) and is hoped to
 provide the global hydrogen industry with an energy efficient and
-cost-effective storage solution. Targeted to cost $0.2-0.3m per tonne
-of hydrogen ($200-300/kg hydrogen) Provaris says H2Leo will make the
-storage system “significantly cheaper than onshore solutions.”
+cost-effective storage solution. Targeted to cost 0.2-0.3m per tonne
+of hydrogen (200-300 dollar/kg hydrogen) Provaris says H2Leo will make
+the storage system “significantly cheaper than onshore solutions.”
 
 ---
 
