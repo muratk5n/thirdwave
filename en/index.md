@@ -61,7 +61,7 @@ climate-friendly fuel"
 
 ---
 
-Latest RU advances in the western Bmut
+Latest RU advances in the western BM
 
 ```python
 cs = ['Bakhmut Center','BM Railway','Peremogi St']
@@ -81,6 +81,8 @@ achieve the dual carbon goals, China aims to have 1 million hydrogen
 fuel cell vehicles and 1,000 hydrogen refueling stations by 2030"
 
 ---
+
+First-World Problems 🤨
 
 David Wen: "During lunch my friend mentioned her son had an allergic
 reaction, went to the emergency room, luckily he was fine but they
