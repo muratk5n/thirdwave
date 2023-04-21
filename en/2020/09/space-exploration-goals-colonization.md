@@ -28,6 +28,15 @@ called for, I propose **L**evitating **A**irbor**N**e **DO**me -
 LANDO, also the name of a character in *Star Wars*, the leader of a
 floating city.
 
+[BigThink](https://bigthink.com/hard-science/how-to-colonize-venus)
+
+While [Venus and Mars] may not seem alike at first blush, Venus is
+quite similar to Earth compared to other planets in our solar
+system. So much so, the Morning Star is sometimes called Earth’s
+“sister planet”. Its gravity is 90% as strong as Earth’s, compared to
+Mars’ ~38%, meaning that our muscles won’t atrophy, and our bones
+won’t decalcify as they do in low-gravity environments
+
 <a name='oneill'/>
 
 O'Neill Cylinders
