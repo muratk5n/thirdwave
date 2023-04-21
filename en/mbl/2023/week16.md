@@ -1,5 +1,89 @@
 # Week 16
 
+Of course the culprit is modern tech, and people
+
+WION: "Why do whales commit suicide? Answer may be sonar.. [H]ow could
+the ocean's most accomplished deep-sea diver wind up with nitrogen
+bubbles poisoning its veins..  'In the presence of sonar they are
+stressed and swim vigorously away from the sound source, changing
+their diving pattern.. which makes the animals accumulate nitrogen'
+[says expert]..
+
+Starting around 1960, ships began emitting underwater signals in a
+range of about 5 kilohertz (kHz). That is when the mass beaching of
+beaked whales, especially in the Mediterranean, began... The most
+deadly episode, in 2002, saw 14 stranded over a 36-hour period in the
+Canary Islands during a NATO naval exercise"
+
+---
+
+Beached whales - sad.
+
+---
+
+H2 View: "Rolls-Royce reveals green hydrogen production and fuel cell
+plans.. Rolls-Royce plans to produce green hydrogen at is
+Friedrichshafen headquarters and test its mtu hydrogen engines and
+fuel cell systems"
+
+---
+
+"@danwentzel@urbanists.social
+
+'My hot take on '15 minute cities' is if you can get to the coffee
+shop within fifteen minutes, but the barrista who makes your drink
+can’t afford to live closer than a half-hour away, then you live in a
+theme park.”
+
+---
+
+No shite
+
+FAO: "The average water content of cabbage is about 90 percent"
+
+---
+
+A lot of cabbage disappears after dehydration. Something to see
+
+---
+
+Science Daily: "A solar hydrogen system that co-generates heat and
+oxygen... EPFL researchers have built a pilot-scale solar reactor that
+produces usable heat and oxygen, in addition to generating hydrogen
+with unprecedented efficiency for its size"
+
+[[-]](https://www.sciencedaily.com/releases/2023/04/230417142442.htm)
+
+---
+
+This is direct solar-to-H2 wout electricity
+
+Paper: "Here we present the successful scaling of a thermally
+integrated photoelectrochemical device—utilizing concentrated solar
+irradiation—to a kW-scale pilot plant capable of co-generation of
+hydrogen and heat. A solar-to-hydrogen device-level efficiency of
+greater than 20% at an H2 production rate of >2.0 kW (>0.8 g min−1) is
+achieved"
+
+[[-]](https://www.researchgate.net/publication/369924141_Kilowatt-scale_solar_hydrogen_production_system_using_a_concentrated_integrated_photoelectrochemical_device)
+
+---
+
+I wonder how much damages the shitlib media would have to pay if tried
+and convicted for their Russiagate lies.. If properly priced the
+incurred damages would probably reach nearly 100 billion dollars.
+
+---
+
+First Post: "India, Russia trade exceeds target of $30 billion before
+2025, may increase, says [FM] Jaishankar"
+
+---
+
+Al Jazeera: "India and China snap up Russian oil in April above 'price cap'"
+
+---
+
 That equals a radius of abt 90 meters. Reports suggest a red mushroom
 cloud was visible after one explosion.
 
@@ -204,7 +288,7 @@ Russia now has the Bakhmut railway
 
 ```python
 ps = ['Bakhmut Center','BM Railway']
-u.sm_plot_ukr('ukrdata/fl-0416.csv','ukrdata/fl-0411.csv',ps,clat=48.59,clon=37.98,zoom=0.3)
+u.sm_plot_ukr('ukrdata/fl-0416.csv','ukrdata/fl-0411.csv',ps,clat=48.59,clon=37.98,zoom=0.05)
 ```
 
 [[-]](ukr-8.jpg)

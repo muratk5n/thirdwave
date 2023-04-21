@@ -16,87 +16,77 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-Of course the culprit is modern tech, and people
+"@Hy_Economy@mastodon.social
 
-WION: "Why do whales commit suicide? Answer may be sonar.. [H]ow could
-the ocean's most accomplished deep-sea diver wind up with nitrogen
-bubbles poisoning its veins..  'In the presence of sonar they are
-stressed and swim vigorously away from the sound source, changing
-their diving pattern.. which makes the animals accumulate nitrogen'
-[says expert]..
-
-Starting around 1960, ships began emitting underwater signals in a
-range of about 5 kilohertz (kHz). That is when the mass beaching of
-beaked whales, especially in the Mediterranean, began... The most
-deadly episode, in 2002, saw 14 stranded over a 36-hour period in the
-Canary Islands during a NATO naval exercise"
+Rebus, northern Germany, has ordered 52 \#hydrogen buses.  Besides the
+higher range, one of the main reasons was that filling infrastructure
+was easier to implement than charging infrastructure - they only need
+2 hydrogen stations for their fleet"
 
 ---
 
-Beached whales - sad.
+Global Fleet: "China is becoming the grandmaster in hydrogen
+power.. China plans to produce up to 200,000 tons of green hydrogen by
+2025, produced 100% from renewable energies, and market demand to hit
+90 m metric tons by 2060"
 
 ---
 
-H2 View: "Rolls-Royce reveals green hydrogen production and fuel cell
-plans.. Rolls-Royce plans to produce green hydrogen at is
-Friedrichshafen headquarters and test its mtu hydrogen engines and
-fuel cell systems"
+TASS: "Mexico is open to talks with Russia on the rollout of Mir
+payment system cards in the country, Ambassador to Russia [says]"
 
 ---
 
-"@danwentzel@urbanists.social
-
-'My hot take on '15 minute cities' is if you can get to the coffee
-shop within fifteen minutes, but the barrista who makes your drink
-can’t afford to live closer than a half-hour away, then you live in a
-theme park.”
+TASS: "Hungary views Russia as partner, US as friend, says government
+official"
 
 ---
 
-No shite
-
-FAO: "The average water content of cabbage is about 90 percent"
-
----
-
-A lot of cabbage disappears after dehydration. Something to see
-
----
-
-Science Daily: "A solar hydrogen system that co-generates heat and
-oxygen... EPFL researchers have built a pilot-scale solar reactor that
-produces usable heat and oxygen, in addition to generating hydrogen
-with unprecedented efficiency for its size"
-
-[[-]](https://www.sciencedaily.com/releases/2023/04/230417142442.htm)
+H2 View: "Australia’s Provaris Energy has launched a floating gaseous
+hydrogen storage solution, designed to hold 300 to 600 tonnes of
+hydrogen at a fraction of the cost of onshore infrastructure.. Dubbed
+H2Leo, the solution has already received an Approval in Principle
+(AiP) from the American Bureau of Shipping (ABS) and is hoped to
+provide the global hydrogen industry with an energy efficient and
+cost-effective storage solution. Targeted to cost $0.2-0.3m per tonne
+of hydrogen ($200-300/kg hydrogen) Provaris says H2Leo will make the
+storage system “significantly cheaper than onshore solutions.”
 
 ---
 
-This is direct solar-to-H2 wout electricity
-
-Paper: "Here we present the successful scaling of a thermally
-integrated photoelectrochemical device—utilizing concentrated solar
-irradiation—to a kW-scale pilot plant capable of co-generation of
-hydrogen and heat. A solar-to-hydrogen device-level efficiency of
-greater than 20% at an H2 production rate of >2.0 kW (>0.8 g min−1) is
-achieved"
-
-[[-]](https://www.researchgate.net/publication/369924141_Kilowatt-scale_solar_hydrogen_production_system_using_a_concentrated_integrated_photoelectrochemical_device)
+"Azerbaijan well placed to provide green hydrogen to
+Europe.. Azerbaijan is uniquely equipped to successfully develop a
+green hydrogen industry and may soon supply the EU with the
+climate-friendly fuel"
 
 ---
 
-I wonder how much damages the shitlib media would have to pay if tried
-and convicted for their Russiagate lies.. If properly priced the
-incurred damages would probably reach nearly 100 billion dollars.
+Latest RU advances in the western Bmut
+
+```python
+cs = ['Bakhmut Center','BM Railway','Peremogi St']
+u.sm_plot_ukr('ukrdata/fl-0420.csv', 'ukrdata/fl-0416.csv',cs,clat=48.59,clon=37.98,zoom=0.005)
+```
+
+<img width='340' src='mbl/2023/ukr-10.jpg'/> 
 
 ---
 
-First Post: "India, Russia trade exceeds target of $30 billion before
-2025, may increase, says [FM] Jaishankar"
+China Daily: "Chinese industrial giant CRRC Corp Ltd, in partnership
+with Chengdu Rail Transit, introduced a new zero-emissions passenger
+train powered by hydrogen in February. The new train offers a travel
+range of 600 kilometers and is the fastest to date, with a top speed
+of 160 kilometers per hour... As part of the nation's efforts to
+achieve the dual carbon goals, China aims to have 1 million hydrogen
+fuel cell vehicles and 1,000 hydrogen refueling stations by 2030"
 
 ---
 
-Al Jazeera: "India and China snap up Russian oil in April above 'price cap'"
+David Wen: "During lunch my friend mentioned her son had an allergic
+reaction, went to the emergency room, luckily he was fine but they
+received a bill for 20,000 dollars and then my other friend tells me
+about the time he fainted got transported to the ER and was handed a
+10,000 dollar bill"
 
 ---
 
