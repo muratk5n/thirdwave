@@ -84,11 +84,11 @@ fuel cell vehicles and 1,000 hydrogen refueling stations by 2030"
 
 First-World Problems? 🤨
 
-David Wen: "During lunch my friend mentioned her son had an allergic
-reaction, went to the emergency room, luckily he was fine but they
-received a bill for 20,000 dollars and then my other friend tells me
-about the time he fainted got transported to the ER and was handed a
-10,000 dollar bill"
+Vlogger David Wen: "During lunch my friend mentioned her son had an
+allergic reaction, went to the emergency room, luckily he was fine but
+they received a bill for 20,000 dollars and then my other friend tells
+me about the time he fainted got transported to the ER and was handed
+a 10,000 dollar bill"
 
 ---
 
