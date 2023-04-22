@@ -23,16 +23,6 @@ export facility in St. Charles Parish, Louisiana"
 
 ---
 
-Need to stress the aim of this fraud to qualify for tax credits in US,
-which in essence means stealing taxpayer's money.
-
-Reuters: "[01/2023] South Korea fines Tesla $2.2 mln for exaggerating
-driving range of EVs.. antitrust regulator said it would impose
-a.. fine on Tesla for failing to tell its customers about the shorter
-driving range of its electric vehicles (EVs) in low temperatures"
-
----
-
 Al-Monitor: "Syria’s Kurds make their own pitch as Arab states court
 Assad.. Syrian Kurds.. now seek a new peace with the Syrian
 government"
