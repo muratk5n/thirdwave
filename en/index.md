@@ -29,9 +29,9 @@ government"
 
 ---
 
-There were claims Haftar from Libya, Wagner are supporting RSF, but WG
-leader below just denied it. The only known support right now is the
-big neighbor Egypt helping the official military.
+There were claims Haftar from Libya, and Wagner are supporting RSF,
+but WG leader below just denied his support. Egypt denies working with
+the official mil but probably have better rels with them than RSF.
 
 TASS: "PMC Wagner does not take sides in Sudan — founder"
 
