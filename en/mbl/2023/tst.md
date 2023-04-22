@@ -31,6 +31,12 @@ plt.savefig('/tmp/out.jpg',quality=40)
 
 
 
+
+
+
+
+
+
 ```python
 u.biden_approval()['net'].tail(4)
 ```

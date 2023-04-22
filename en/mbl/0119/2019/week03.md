@@ -40,9 +40,11 @@ Want
 
 @orthereaboot
 
-This move belies $tsla entire “mission”. The 100 kWh battery is a monstrosity that’s a net carbon contributor over its lifetime. 
+This move belies $tsla entire “mission”. The 100 kWh battery is a
+monstrosity that’s a net carbon contributor over its lifetime.
 
-$tsla is sticking a fork in the environment . . . To save the environment?
+$tsla is sticking a fork in the environment . . . To save the
+environment?
 
 ---
 
@@ -61,7 +63,9 @@ Development of Technologies to Utilize Green Ammonia in Energy Market
 
 Visit: https://bit.ly/2HFxsuU 
 
-This paper contains “Development of #Technologies to Utilize Green #Ammonia in Energy #Market” which includes roadmap of ammonia supply chain, Cost Comparison of #Energy Carriers.
+This paper contains “Development of #Technologies to Utilize Green
+#Ammonia in Energy #Market” which includes roadmap of ammonia supply
+chain, Cost Comparison of #Energy Carriers.
 
 ---
 
@@ -71,31 +75,51 @@ discussions lead to.
 
 ---
 
-PMQ sounds surreal. PM talks abt things done, decisions reached with a tone as if they werent stupidest f--ing things to begin with. Is this how second wave truly ends?
+PMQ sounds surreal. PM talks abt things done, decisions reached with a
+tone as if they werent stupidest f--ing things to begin with. Is this
+how second wave truly ends?
 
-It's like the mannerism of best speech dubbed with the words of Chris Rock's standup routine. "Do you want your salad tossed?". "Yes I want my salad tossed very much". 
+It's like the mannerism of best speech dubbed with the words of Chris
+Rock's standup routine. "Do you want your salad tossed?". "Yes I want
+my salad tossed very much".
 
-Imagine it delivered with May's voice. That is how PMQ sounds like to me. It's comedy.
+Imagine it delivered with May's voice. That is how PMQ sounds like to
+me. It's comedy.
 
 ---
 
-I thought capitalist want ppl 'not to sit on their ass and work'. People w wealth, especially inherited wealth, do exactly that. If u tax wealth, like real estate just sitting there appreciating collecting rent, that would incentivize work, right?
+I thought capitalist want ppl 'not to sit on their ass and
+work'. People w wealth, especially inherited wealth, do exactly
+that. If u tax wealth, like real estate just sitting there
+appreciating collecting rent, that would incentivize work, right?
 
-'But the rich worked to get there then w wealth they can rest'. The poor works too, then more, then more. When do they get a rest?
+'But the rich worked to get there then w wealth they can rest'. The
+poor works too, then more, then more. When do they get a rest?
 
-'But the poor does not know what to work on, work smart'. Look, there is a reason why we instintively deny such thought. We have the genes of ppl who survived the harshest race ever. We know, deep down, the current 'game' is made up, artificial.
+'But the poor does not know what to work on, work smart'. Look, there
+is a reason why we instintively deny such thought. We have the genes
+of ppl who survived the harshest race ever. We know, deep down, the
+current 'game' is made up, artificial.
 
-Maybe if this artificial game lasted long enough it would select its own genetic survivors, but each game is stupider, shorter than the last. 50k years of agrarian era now gone. Then industrial, 300 yrs gone. So now, what, everyone is an office monkey sitting at a desk? Nah.
+Maybe if this artificial game lasted long enough it would select its
+own genetic survivors, but each game is stupider, shorter than the
+last. 50k years of agrarian era now gone. Then industrial, 300 yrs
+gone. So now, what, everyone is an office monkey sitting at a desk?
+Nah.
 
 ---
 
 :) :) :) :) :) :) :) :)
 
-Newsweek - u said somethin, and I heard it. I want u to know. Juz sayin. 
+Newsweek - u said somethin, and I heard it. I want u to know. Juz
+sayin.
 
-"Hannity slammed Newsweek for their 'Why are all the conservative loudmouths Irish-American?' article"
+"Hannity slammed Newsweek for their 'Why are all the conservative
+loudmouths Irish-American?' article"
 
-Rick Scrotum, sorry Sentorum, the guy who said "if u allow gay marriage you will marry your dog one day" is also "Irish American" wasn't he?
+Rick Scrotum, sorry Sentorum, the guy who said "if u allow gay
+marriage you will marry your dog one day" is also "Irish American"
+wasn't he?
 
 [searching]
 
@@ -125,7 +149,8 @@ my wife is ready. #STDisco @ansonmount
 
 ---
 
-Rees-Moog, Johnson... This the f--ing B-Team.. I am shocked Brits still do not see that.
+Rees-Moog, Johnson... This the f--ing B-Team.. I am shocked Brits
+still do not see that.
 
 ---
 
@@ -172,18 +197,24 @@ Cigaweed
 
 ---
 
-Anyone who is interested in space can easily satisfy their curiosity exploring under the sea. It will be cheaper, and I guarantee it, it's a freak show down there, both good and bad.
+Anyone who is interested in space can easily satisfy their curiosity
+exploring under the sea. It will be cheaper, and I guarantee it, it's
+a freak show down there, both good and bad.
 
-U float, as in space, check. It is vast, check. Diff is u can come up for air once in a while.
+U float, as in space, check. It is vast, check. Diff is u can come up
+for air once in a while.
 
 .. movement is 3D check. 
 
-It'd be fun to work on sensor / nav control of a sub. Air liquification, energy storage, a lot of interesting science if 1 chooses the DIY route.
+It'd be fun to work on sensor / nav control of a sub. Air
+liquification, energy storage, a lot of interesting science if 1
+chooses the DIY route.
 
 ---
 
 
-That is funny. I mean the 1st part, some1 belting out that song 5 times.
+That is funny. I mean the 1st part, some1 belting out that song 5
+times.
 
 U laugh, wait until Top Gun II comes out. I heard it is in the works.
 
@@ -192,7 +223,9 @@ U laugh, wait until Top Gun II comes out. I heard it is in the works.
 
 ---
 
-Don't Jean-Jean-Jean me punk. French is "vulgar-Latin", the language pillaging Roman soldiers spoke who invaded Gaul. You wanna look cool, speak Gallic, the language of Celts.
+Don't Jean-Jean-Jean me punk. French is "vulgar-Latin", the language
+pillaging Roman soldiers spoke who invaded Gaul. You wanna look cool,
+speak Gallic, the language of Celts.
 
 Read Asterix to understand the French psyche.
 
@@ -202,7 +235,9 @@ Dave Alvin - Rio Grande #music
 
 ---
 
-Yeah BEVs are a really stupid idea. Battery weighs half a ton! Performance degrades in a few years! Jeremy Clarkson was right disliking this shit and he knows cars!
+Yeah BEVs are a really stupid idea. Battery weighs half a ton!
+Performance degrades in a few years! Jeremy Clarkson was right
+disliking this shit and he knows cars!
 
 ---
 
@@ -218,21 +253,31 @@ Rollin' In My Sweet Baby's Arms - Buck Owens #music
 
 @GabriellBirkman
 
-"In my first undergrad, I once spent two straight weeks on a physics problem that I ultimately solved. 
+"In my first undergrad, I once spent two straight weeks on a physics
+problem that I ultimately solved.
 
 Bezos spent three hours on a PDE and gave up on physics."
 
-Hilbert: "Every boy in the streets of Göttingen understands more about four-dimensional geometry than Einstein. Yet, in spite of that, Einstein did the work and not the mathematicians.”
+Hilbert: "Every boy in the streets of Göttingen understands more about
+four-dimensional geometry than Einstein. Yet, in spite of that,
+Einstein did the work and not the mathematicians.”
 
-It's not necessary to have that gun-slinging problem-cruncher ability that works equally well in every  subdomain. You hit those subdomains as needed. What's needed is the ability to model mathematically, to pose the right questions, and have a sense where to find the answers.
+It's not necessary to have that gun-slinging problem-cruncher ability
+that works equally well in every subdomain. You hit those subdomains
+as needed. What's needed is the ability to model mathematically, to
+pose the right questions, and have a sense where to find the answers.
 
-We've had decades of problem-crunchers, and physics is stuck. Multiverses, alt. universes sound imaginative and sexy but they are really not. Some1 dropped the ball way back and crunchers have been blindly toiling in that direction ever since.
+We've had decades of problem-crunchers, and physics is
+stuck. Multiverses, alt. universes sound imaginative and sexy but they
+are really not. Some1 dropped the ball way back and crunchers have
+been blindly toiling in that direction ever since.
 
 ---
 
 @Benioff
 
-"We are risking a new tech divide, between those who have access to AI & those who don't."
+"We are risking a new tech divide, between those who have access to AI
+& those who don't."
 
 @Austen
 
@@ -248,7 +293,10 @@ Great idea. The current prez is illegitimate. All neighbors are on board AFAIK.
 
 ---
 
-Musk bombed, say in the "sub incident" (remember, pedo guy); cuz HH seeks adulation, to be worshipped, instead of doing what is truly good for the group, wout fallking into savior bullshit, and quetly accepting a thanks. Not getting the accolade he lost his shit.
+Musk bombed, say in the "sub incident" (remember, pedo guy); cuz HH
+seeks adulation, to be worshipped, instead of doing what is truly good
+for the group, wout fallking into savior bullshit, and quetly
+accepting a thanks. Not getting the accolade he lost his shit.
 
 ---
 
@@ -275,15 +323,22 @@ Danger Zone
 
 ---
 
-"Israel fights during weakness, makes piece during strength". Probably true. Last huge Pal war was 2008/9, yrs of Western crisis, weakness (of which Israel is considered part of). If a crisis comes now, an Iran or Syrian war becomes more likely.
+"Israel fights during weakness, makes piece during strength". Probably
+true. Last huge Pal war was 2008/9, yrs of Western crisis, weakness
+(of which Israel is considered part of). If a crisis comes now, an
+Iran or Syrian war becomes more likely.
 
 ---
 
-Second developer hired by PGP Corp. Yeah this guy is a total lightweight on crypto, mostly runs code sent to him by some random researcher on the Net 🤔 #halFinneyIsSatoshi
+Second developer hired by PGP Corp. Yeah this guy is a total
+lightweight on crypto, mostly runs code sent to him by some random
+researcher on the Net 🤔 #halFinneyIsSatoshi
 
 ---
 
-Want: Tom Clancyesque reporting on military details that also weaves the grander narrative into those details. U mostly get one or the other, not both.
+Want: Tom Clancyesque reporting on military details that also weaves
+the grander narrative into those details. U mostly get one or the
+other, not both.
 
 ---
 
@@ -297,13 +352,18 @@ Rosie Flores - Down to the River #music
 
 ---
 
-@TeodroseFikre
+"@TeodroseFikre
 
-Every politician, pundit and/or media personality who is "praising" Martin Luther King and leaving out King's harsh criticism of wars and economic inequalities are the worst kind of hypocrites, They are erasing his legacy while pretending to honor King's memory #RebrandingMLK
+Every politician, pundit and/or media personality who is "praising"
+Martin Luther King and leaving out King's harsh criticism of wars and
+economic inequalities are the worst kind of hypocrites, They are
+erasing his legacy while pretending to honor King's memory
+\#RebrandingMLK"
 
 ---
 
-That was some good shit Maher, w Koch brothers, paychecks. You will go far. I see future in you.
+That was some good shit Maher, w Koch brothers, paychecks. You will go
+far. I see future in you.
 
 ---
 
@@ -311,7 +371,8 @@ That was some good shit Maher, w Koch brothers, paychecks. You will go far. I se
 
 ---
 
-"H. Finney is dead" I said - I stand corrected. I should've said "he is cryonegically preserved". So maybe not fully dead. Partially dead.
+"H. Finney is dead" I said - I stand corrected. I should've said "he
+is cryonegically preserved". So maybe not fully dead. Partially dead.
 
 ---
 
@@ -348,13 +409,18 @@ Computer _Science_.
 
 ---
 
-Hah. TR women sharing their un-headscarfing tweets. 10+ yrs ago we (liberally minded) fought intensely for them, for their right to chose. If they choose this, fine. I will say it would probably be better 4 them in terms of fitting in. But still their choice.
+Hah. TR women sharing their un-headscarfing tweets. 10+ yrs ago we
+(liberally minded) fought intensely for them, for their right to
+chose. If they choose this, fine. I will say it would probably be
+better 4 them in terms of fitting in. But still their choice.
 
 ---
 
 @ChrisBelyk
 
-"Weight is the enemy of mileage, and trying to gain range by adding more battery quickly becomes a losing proposition as more and more energy is wasted dragging a heavy battery around."
+"Weight is the enemy of mileage, and trying to gain range by adding
+more battery quickly becomes a losing proposition as more and more
+energy is wasted dragging a heavy battery around."
 
 ---
 
@@ -366,15 +432,19 @@ Uses molten salt for storage
 
 ---
 
-At Kleopatra Beach. M. Antony (some Roman paisan) gave this beach as a gift to Kleo. She used to walk around here and swim.
+At Kleopatra Beach. M. Antony (some Roman paisan) gave this beach as a
+gift to Kleo. She used to walk around here and swim.
 
 ![](kleobeach.jpg)
 
 ---
 
-These f--ers are all the same. Giving public land as gift? Who u bitch? MA did some shady gumba shit, fell out of favor, then ran away w Kleo, later they committed suicide. Landowner, agrarian fucks.
+These f--ers are all the same. Giving public land as gift? Who u
+bitch? MA did some shady goombah shit, fell out of favor, then ran
+away w Kleo, later they committed suicide. Landowner, agrarian fucks.
 
-I used to think K looked African, but turns out she was Greek, they did some recons, she prob looked liked this
+I used to think K looked African, but turns out she was Greek, they
+did some recons, she prob looked liked this
 
 [Link](https://www.realmofhistory.com/wp-content/uploads/2016/11/timelapse-animation-reconstruction-cleopatra_1.jpg)
 
