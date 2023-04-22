@@ -30,8 +30,8 @@ government"
 ---
 
 There were claims Haftar from Libya, and Wagner are supporting RSF,
-but WG leader below just denied his support. Egypt denies working with
-the official mil but probably have better rels with them than RSF.
+but WG leader below just denied it. Egypt denies working with the
+official mil but probably have better rels with them than RSF.
 
 TASS: "PMC Wagner does not take sides in Sudan — founder"
 
