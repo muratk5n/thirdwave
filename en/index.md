@@ -16,79 +16,62 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-"@Hy_Economy@mastodon.social
-
-Rebus, northern Germany, has ordered 52 \#hydrogen buses.  Besides the
-higher range, one of the main reasons was that filling infrastructure
-was easier to implement than charging infrastructure - they only need
-2 hydrogen stations for their fleet"
+Al-Monitor: "Syria’s Kurds make their own pitch as Arab states court
+Assad.. Syrian Kurds.. now seek a new peace with the Syrian
+government"
 
 ---
 
-Global Fleet: "China is becoming the grandmaster in hydrogen
-power.. China plans to produce up to 200,000 tons of green hydrogen by
-2025, produced 100% from renewable energies, and market demand to hit
-90 m metric tons by 2060"
+There were claims Haftar from Libya, Wagner are supporting RSF, but
+Wag leader below just denied it. The only known support right now is
+the big neighbor Egypt helping the official military.
+
+TASS: "PMC Wagner does not take sides in Sudan — founder"
 
 ---
 
-TASS: "Mexico is open to talks with Russia on the rollout of Mir
-payment system cards in the country, Ambassador to Russia [says]"
+Need to stress they do this fraud to qualify for tax credits in essence
+they are stealing public money. 
+
+Reuters: "[01/2023] South Korea fines Tesla $2.2 mln for exaggerating
+driving range of EVs.. antitrust regulator said it would impose
+a.. fine on Tesla for failing to tell its customers about the shorter
+driving range of its electric vehicles (EVs) in low temperatures"
 
 ---
 
-TASS: "Hungary views Russia as partner, US as friend, says government
-official"
+BigThink: "While [Venus and Mars] may not seem alike at first blush,
+Venus is quite similar to Earth compared to other planets in our solar
+system. So much so, the Morning Star is sometimes called Earth’s
+'sister planet'. Its gravity is 90% as strong as Earth’s, compared to
+Mars’ ~38%, meaning that our muscles won’t atrophy, and our bones
+won’t decalcify as they do in low-gravity environments"
+
+[[-]](https://bigthink.com/hard-science/how-to-colonize-venus/)
 
 ---
 
-H2 View: "Australia’s Provaris Energy has launched a floating gaseous
-hydrogen storage solution, designed to hold 300 to 600 tonnes of
-hydrogen at a fraction of the cost of onshore infrastructure.. Dubbed
-H2Leo, the solution has already received an Approval in Principle
-(AiP) from the American Bureau of Shipping (ABS) and is hoped to
-provide the global hydrogen industry with an energy efficient and
-cost-effective storage solution. Targeted to cost 0.2-0.3m per tonne
-of hydrogen (200-300 dollar/kg hydrogen) Provaris says H2Leo will make
-the storage system “significantly cheaper than onshore solutions.”
+[Link](mbl/2023/ejagoffspace.jpg)
 
 ---
 
-"Azerbaijan well placed to provide green hydrogen to
-Europe.. Azerbaijan is uniquely equipped to successfully develop a
-green hydrogen industry and may soon supply the EU with the
-climate-friendly fuel"
+CBS News: "SpaceX Starship rocket launch ends in midair explosion
+minutes after liftoff"
 
 ---
 
-Latest RU advances in the western BM
-
-```python
-cs = ['Bakhmut Center','BM Railway','Peremogi St']
-u.sm_plot_ukr('ukrdata/fl-0420.csv', 'ukrdata/fl-0416.csv',cs,clat=48.59,clon=37.98,zoom=0.005)
-```
-
-<img width='340' src='mbl/2023/ukr-10.jpg'/> 
+H2 View: "The UK’s gas networks are ready to deliver hydrogen
+infrastructure in a country-wide, coordinated way in the coming
+decades, according to A hydrogen vision for the UK report published by
+the Energy Networks Association"
 
 ---
 
-China Daily: "Chinese industrial giant CRRC Corp Ltd, in partnership
-with Chengdu Rail Transit, introduced a new zero-emissions passenger
-train powered by hydrogen in February. The new train offers a travel
-range of 600 kilometers and is the fastest to date, with a top speed
-of 160 kilometers per hour... As part of the nation's efforts to
-achieve the dual carbon goals, China aims to have 1 million hydrogen
-fuel cell vehicles and 1,000 hydrogen refueling stations by 2030"
+Euractiv: "German government adopts fossil boiler ban, starting 2024"
 
 ---
 
-First-World Problems? ;\|
-
-Vlogger David Wen: "During lunch my friend mentioned her son had an
-allergic reaction, went to the emergency room, luckily he was fine but
-they received a bill for 20,000 dollars and then my other friend tells
-me about the time he fainted got transported to the ER and was handed
-a 10,000 dollar bill"
+H2 Central: "New Mexico Puts in Bid for $1,25 Billion Hydrogen Grant"
 
 ---
 
