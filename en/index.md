@@ -30,8 +30,8 @@ TASS: "PMC Wagner does not take sides in Sudan — founder"
 
 ---
 
-Need to stress the aim of this fraud to qualify for tax credits, which
-in essence means stealing taxpayer's money.
+Need to stress the aim of this fraud to qualify for tax credits in US,
+which in essence means stealing taxpayer's money.
 
 Reuters: "[01/2023] South Korea fines Tesla $2.2 mln for exaggerating
 driving range of EVs.. antitrust regulator said it would impose
