@@ -16,6 +16,23 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
+H2 View: "St. Charles Clean Fuels, a development company jointly owned
+by Copenhagen Infrastructure Partners and Sustainable Fuels Group, is
+exploring the feasibility of building a $4.6bn ammonia production and
+export facility in St. Charles Parish, Louisiana"
+
+---
+
+Need to stress the aim of this fraud to qualify for tax credits in US,
+which in essence means stealing taxpayer's money.
+
+Reuters: "[01/2023] South Korea fines Tesla $2.2 mln for exaggerating
+driving range of EVs.. antitrust regulator said it would impose
+a.. fine on Tesla for failing to tell its customers about the shorter
+driving range of its electric vehicles (EVs) in low temperatures"
+
+---
+
 Al-Monitor: "Syria’s Kurds make their own pitch as Arab states court
 Assad.. Syrian Kurds.. now seek a new peace with the Syrian
 government"
@@ -27,16 +44,6 @@ leader below just denied it. The only known support right now is the
 big neighbor Egypt helping the official military.
 
 TASS: "PMC Wagner does not take sides in Sudan — founder"
-
----
-
-Need to stress the aim of this fraud to qualify for tax credits in US,
-which in essence means stealing taxpayer's money.
-
-Reuters: "[01/2023] South Korea fines Tesla $2.2 mln for exaggerating
-driving range of EVs.. antitrust regulator said it would impose
-a.. fine on Tesla for failing to tell its customers about the shorter
-driving range of its electric vehicles (EVs) in low temperatures"
 
 ---
 
