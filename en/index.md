@@ -40,14 +40,13 @@ driving range of its electric vehicles (EVs) in low temperatures"
 
 ---
 
-BigThink: "While [Venus and Mars] may not seem alike at first blush,
+[BigThink](https://bigthink.com/hard-science/how-to-colonize-venus/):
+"While [Venus and Mars] may not seem alike at first blush,
 Venus is quite similar to Earth compared to other planets in our solar
 system. So much so, the Morning Star is sometimes called Earth’s
 'sister planet'. Its gravity is 90% as strong as Earth’s, compared to
 Mars’ ~38%, meaning that our muscles won’t atrophy, and our bones
 won’t decalcify as they do in low-gravity environments"
-
-[[-]](https://bigthink.com/hard-science/how-to-colonize-venus/)
 
 ---
 
