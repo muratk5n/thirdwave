@@ -137,8 +137,8 @@ we will be there?"
 
 ---
 
-Macron: "[04/13] Europe cannot blindly follow the United States’ lead and
-should avoid “getting dragged into crises that are not our own."
+Macron: "[04/13] Europe cannot blindly follow the United States’ lead
+and should avoid getting dragged into crises that are not our own."
 
 ---
 
