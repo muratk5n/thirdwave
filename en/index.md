@@ -86,8 +86,8 @@ your friend".
 
 ---
 
-From *Deng Xiaoping's Long War*: "[Most scholars] do not elucidate why
-Deng [Xiaoping] was so eager to inform the Carter administration of
+*Deng Xiaoping's Long War*: "[Most scholars] do not elucidate why Deng
+[Xiaoping] was so eager to inform the Carter administration of
 Beijing’s decision to attack Vietnam, something that normally would
 only have happened between two closely allied countries..
 
