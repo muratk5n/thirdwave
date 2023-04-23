@@ -16,7 +16,7 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-Munee more munee
+Munee mo munee
 
 Janes: "The US Congress will have to markedly increase unconstrained
 shipbuilding funding if it wants the US Navy (USN) to reach the stated
