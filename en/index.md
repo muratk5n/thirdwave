@@ -91,18 +91,15 @@ Deng [Xiaoping] was so eager to inform the Carter administration of
 Beijing’s decision to attack Vietnam, something that normally would
 only have happened between two closely allied countries..
 
-China’s market-­oriented economic reforms also reinforced the
-importance of pragmatic power politics to Chinese strategic
-thinking. Deng staked the success of economic reform on Western
-technology and foreign investment, particularly from America. Deng’s
-acceptance of U.S. terms during the establishment of diplomatic
-relations between the two countries in mid-­December 1978 was crucial
-in achieving these two strategic objectives both externally and
-internally... China’s decision to launch a punitive war against
-Vietnam was intended to display Beijing’s usefulness in countering
-Soviet expansionism. In Deng’s own words, China was 'a reliable
-friend,' and it therefore deserved Western economic and technological
-assistance"
+Deng staked the success of economic reform on Western technology and
+foreign investment, particularly from America. Deng’s acceptance of
+U.S. terms during the establishment of diplomatic relations between
+the two countries in mid-­December 1978 was crucial in achieving these
+two strategic objectives both externally and internally... China’s
+decision to launch a punitive war against Vietnam was intended to
+display Beijing’s usefulness in countering Soviet expansionism. In
+Deng’s own words, China was 'a reliable friend,' and it therefore
+deserved Western economic and technological assistance"
 
 ---
 
