@@ -78,9 +78,9 @@ incompetent dumbass, sadly, this was the case.
 
 ---
 
-CH attack was likely for more US econ help. Xiao wanted to give
-Vietnam a visible spanking, a country which had only six years ago
-managed to repel the Americans, to show that "see I'm hitting your
+CH attack was likely for enticing US for econ help. Xiao wanted to
+give Vietnam a visible spanking, a country which had only six years
+ago managed to repel the Americans, to show that "see I'm hitting your
 former enemy, also containing your Cold War opposition, therefore I'm
 your friend".
 
