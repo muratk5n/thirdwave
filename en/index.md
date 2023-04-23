@@ -16,58 +16,133 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-H2 View: "St. Charles Clean Fuels, a development company jointly owned
-by Copenhagen Infrastructure Partners and Sustainable Fuels Group, is
-exploring the feasibility of building a $4.6bn ammonia production and
-export facility in St. Charles Parish, Louisiana"
+Munee more munee
+
+Janes: "The US Congress will have to markedly increase unconstrained
+shipbuilding funding if it wants the US Navy (USN) to reach the stated
+355-ship force by the middle of this century, according to the USN
+Report to Congress"
 
 ---
 
-Al-Monitor: "Syria’s Kurds make their own pitch as Arab states court
-Assad.. Syrian Kurds.. now seek a new peace with the Syrian
-government"
+The place is called "Stoned and Toned". 
+
+The Holywood Reporter: "Exercising While Stoned: I Tried a Cannabis
+Workout Class"
 
 ---
 
-There were claims Haftar from Libya, and Wagner are supporting RSF,
-but WG leader below just denied it. Egypt denies working with the
-official mil but probably have better rels with them than RSF.
-
-TASS: "PMC Wagner does not take sides in Sudan — founder"
-
----
-
-[BigThink](https://bigthink.com/hard-science/how-to-colonize-venus/):
-"While [Venus and Mars] may not seem alike at first blush,
-Venus is quite similar to Earth compared to other planets in our solar
-system. So much so, the Morning Star is sometimes called Earth’s
-'sister planet'. Its gravity is 90% as strong as Earth’s, compared to
-Mars’ ~38%, meaning that our muscles won’t atrophy, and our bones
-won’t decalcify as they do in low-gravity environments"
+Modern US liberalism can get delusional; it always had a subjective,
+un-scientific bent, bizarre ideas about the self. Truly mambo-jambo
+stuff, "new age", like "believing you can be, at an instant, however
+you label yourself to be". How the flap can you will yourself to be a
+man, or woman when you aren't? In own head fine but why inflict that
+delusion on others?
 
 ---
 
-[Link](mbl/2023/ejagoffspace.jpg)
+Good law.
+
+CBS News: "The Republican-led House passed a bill Thursday that would
+bar schools and colleges that receive federal money from allowing
+transgender athletes whose biological sex assigned at birth was male
+to compete on girls or women's sports teams or athletic events"
 
 ---
 
-CBS News: "SpaceX Starship rocket launch ends in midair explosion
-minutes after liftoff"
+H2 View: "Chinese-based Hydrexia Energy Technology has launched a
+Metal Hydride Trailer (MH-100T) for hydrogen storage and
+distribution. The 40-foot first-generation trailer is a
+‘first-of-its-kind’ MHx solid-state hydrogen storage and distribution
+product and features magnesium-based alloy.
+
+<img width='340' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS6xr5OQJwsyjSluvyhHT9D1OMfhgAhQFt3g'/> 
+
+Hydrexia claims it can significantly enhance transportation safety and
+distance, while reducing transportation cost. It has a large
+solid-state hydrogen storage capacity of one tonne and hydrogen
+storage density of 6.4%.
+
+It offers low operating pressures of under 12 bar and high hydrogen
+purity at 99.999% along with a lifetime of 3,000 cycles without
+performance reduction
 
 ---
 
-H2 View: "The UK’s gas networks are ready to deliver hydrogen
-infrastructure in a country-wide, coordinated way in the coming
-decades, according to A hydrogen vision for the UK report published by
-the Energy Networks Association"
+JFK wasn't buttonholed into anything for the Bay of Pigs; he modified
+parts of the plan (badly), and kept managing it (badly) all the way
+through its miserable end. Noone likes their uncle to be an
+incompetent dumbass, sadly, this was the case.
+
+[[-]](2021/08/nuclear-folly-plokhy.html#bayofpigs)
 
 ---
 
-Euractiv: "German government adopts fossil boiler ban, starting 2024"
+CH attack was likely for more US econ help. Xiao wanted to give
+Vietnam a visible spanking, a country which had only six years ago
+managed to repel the Americans, to show that "see I'm hitting your
+former enemy, also containing your Cold War opposition, therefore I'm
+your friend".
 
 ---
 
-H2 Central: "New Mexico Puts in Bid for $1,25 Billion Hydrogen Grant"
+From *Deng Xiaoping's Long War*: "[Most scholars] do not elucidate why
+Deng [Xiaoping] was so eager to inform the Carter administration of
+Beijing’s decision to attack Vietnam, something that normally would
+only have happened between two closely allied countries..
+
+China’s market-­oriented economic reforms also reinforced the
+importance of pragmatic power politics to Chinese strategic
+thinking. Deng staked the success of economic reform on Western
+technology and foreign investment, particularly from America. Deng’s
+acceptance of U.S. terms during the establishment of diplomatic
+relations between the two countries in mid-­December 1978 was crucial
+in achieving these two strategic objectives both externally and
+internally... China’s decision to launch a punitive war against
+Vietnam was intended to display Beijing’s usefulness in countering
+Soviet expansionism. In Deng’s own words, China was 'a reliable
+friend,' and it therefore deserved Western economic and technological
+assistance"
+
+---
+
+Everyone knows about US Vietnam War which ended in 1973. Most do not
+know however China's 1979 war with them.
+
+---
+
+I was watching a docu, an RFK granddaugter was on, looked her up
+apparently one spring got on a canoe, pulled into some turbulence, got
+sucked in - bitch died. It's like a joke.
+
+---
+
+But with a Kennedy you never know - he could just fall off the chair
+one day, hit his head and die
+
+---
+
+Watched the \#JFKJr speech, sounded almost cogent, not bad for a
+Kennedy. Except for the lockdown stuff the rest was ok on regulatory
+capture, corporations, Ukraine, food stamp cuts, hits the right
+notes. Can be a viable threat for JB. After Trump, lewd scandal stuff
+matters less, he can make a play for the working class, Reps through
+that vax business, and by being an "irregular politician".
+
+---
+
+Macron: "[04/13] Europeans cannot resolve the crisis in Ukraine; how
+can we credibly say on Taiwan, watch out, if you do something wrong,
+we will be there?"
+
+---
+
+Macron: "[04/13] Europe cannot blindly follow the United States’ lead and
+should avoid “getting dragged into crises that are not our own."
+
+---
+
+NYT: "[04/12] AS US Tries to Isolate China, German Companies Move Closer"
 
 ---
 

@@ -1,6 +1,6 @@
-# The Cuban Missile Crisis
+# Nuclear Folly
 
-From *Nuclear Folly*, by Plokhy
+Plokhy
 
 American troops landed on the beaches of Cuba in June 1898. The US
 government entered the conflict partly.. to stop Spanish atrocities
@@ -60,8 +60,6 @@ the island’s main export..
 As far as Eisenhower was concerned, American interests were at
 stake...  
 
-<a name='bayofpigs'/>
-
 Bay of Pigs
 
 In March 1960, with agrarian reform in Cuba already underway but
@@ -71,6 +69,8 @@ be removed from power in the same way he had acquired it: through a
 popular uprising initiated by political exiles returning to Cuba. The
 CIA prepared a plan, but Eisenhower did not have time to carry out the
 project. It was passed on instead to the new president, John Kennedy...
+
+<a name='bayofpigs'/>
 
 The CIA deputy director for plans, Richard M. Bissell, the former
 administrator of the Marshall Plan in postwar Germany, was the
@@ -145,12 +145,11 @@ Americans. By now the venture had turned into a complete disaster.
 
 <a name='gap'/>
 
-To many in Moscow [JFK..] seemed less tough than Richard Nixon..  and
-more susceptible to Khrushchev’s subterfuge and intimidation. Kennedy
-appeared to believe in a missile gap between the Soviet Union and the
-United States favoring the former—a notion fed not only by the Soviet
-success with Sputnik but also by Khrushchev’s own fiery rhetoric, and
-one that Eisenhower’s U-2 spy flights were threatening to debunk...
+Kennedy appeared to believe in a missile gap between the Soviet Union
+and the United States favoring the former—a notion fed not only by the
+Soviet success with Sputnik but also by Khrushchev’s own fiery
+rhetoric, and one that Eisenhower’s U-2 spy flights were threatening
+to debunk...
 
 <a name='berlin'/>
 
@@ -281,6 +280,3 @@ the defense budget or to call up reservists, or both. He was
 overcompensating at home for diplomatic defeats abroad, not only to
 warn Khrushchev but also to protect himself politically in his own
 country...
-
-
-

@@ -1,5 +1,59 @@
 # Week 16
 
+H2 View: "St. Charles Clean Fuels, a development company jointly owned
+by Copenhagen Infrastructure Partners and Sustainable Fuels Group, is
+exploring the feasibility of building a $4.6bn ammonia production and
+export facility in St. Charles Parish, Louisiana"
+
+---
+
+Al-Monitor: "Syria’s Kurds make their own pitch as Arab states court
+Assad.. Syrian Kurds.. now seek a new peace with the Syrian
+government"
+
+---
+
+There were claims Haftar from Libya, and Wagner are supporting RSF,
+but WG leader below just denied it. Egypt denies working with the
+official mil but probably have better rels with them than RSF.
+
+TASS: "PMC Wagner does not take sides in Sudan — founder"
+
+---
+
+[BigThink](https://bigthink.com/hard-science/how-to-colonize-venus/):
+"While [Venus and Mars] may not seem alike at first blush,
+Venus is quite similar to Earth compared to other planets in our solar
+system. So much so, the Morning Star is sometimes called Earth’s
+'sister planet'. Its gravity is 90% as strong as Earth’s, compared to
+Mars’ ~38%, meaning that our muscles won’t atrophy, and our bones
+won’t decalcify as they do in low-gravity environments"
+
+---
+
+[Link](mbl/2023/ejagoffspace.jpg)
+
+---
+
+CBS News: "SpaceX Starship rocket launch ends in midair explosion
+minutes after liftoff"
+
+---
+
+H2 View: "The UK’s gas networks are ready to deliver hydrogen
+infrastructure in a country-wide, coordinated way in the coming
+decades, according to A hydrogen vision for the UK report published by
+the Energy Networks Association"
+
+---
+
+Euractiv: "German government adopts fossil boiler ban, starting 2024"
+
+---
+
+H2 Central: "New Mexico Puts in Bid for $1,25 Billion Hydrogen Grant"
+
+---
 
 "@Hy_Economy@mastodon.social
 
