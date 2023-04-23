@@ -65,7 +65,7 @@ storage density of 6.4%.
 
 It offers low operating pressures of under 12 bar and high hydrogen
 purity at 99.999% along with a lifetime of 3,000 cycles without
-performance reduction
+performance reduction"
 
 ---
 
