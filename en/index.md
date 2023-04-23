@@ -107,7 +107,7 @@ assistance"
 ---
 
 Everyone knows about US Vietnam War which ended in 1973. Most do not
-know however China's 1979 war with them.
+know however China started a war with them in 1979.
 
 ---
 
