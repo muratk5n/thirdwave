@@ -109,7 +109,7 @@ however is China starting a war with Vietnam in 1979.
 ---
 
 I was watching a docu, an RFK granddaugter was on, looked her up
-apparently one spring got on a canoe, pulled into some turbulence, got
+apparently one spring got on a canoe, pulled into some turbulence, was
 sucked in - bitch died. It's like a joke.
 
 ---
