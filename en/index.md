@@ -103,8 +103,8 @@ deserved Western economic and technological assistance"
 
 ---
 
-Everyone knows about US Vietnam War which ended in 1973. Most do not
-know however China started a war with them in 1979.
+Most know about US Vietnam War, ended in 1973. Not paid attn to
+however is China starting a war with Vietnam in 1979.
 
 ---
 
