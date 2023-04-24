@@ -93,6 +93,11 @@ Ukraine’s NATO hopes"
 
 ---
 
+Tucker leaves Fox? Too bad - leftists, anti-war voices were getting
+good screen time on his show.
+
+---
+
 ## Reference
 
 [Nations and Nationalism, Culture, Narratives](0119/2013/02/nations-and-nationalism.html)
