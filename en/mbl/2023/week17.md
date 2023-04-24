@@ -58,7 +58,7 @@ parts of the plan (badly), and kept managing it (badly) all the way
 through its miserable end. Noone likes their uncle to be an
 incompetent dumbass, sadly, this was the case.
 
-[[-]](2021/08/nuclear-folly-plokhy.html#bayofpigs)
+[[-]](../../2021/08/nuclear-folly-plokhy.html#bayofpigs)
 
 ---
 
