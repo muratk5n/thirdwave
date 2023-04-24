@@ -25,7 +25,7 @@ Happy Anzac Day bitchez! (Apparently it's on April 25th)
 ---
 
 Current Oz Labor gov is continuing the nuke sub deal AUKUS. A former
-Labor leader, [criticized](https://www.theguardian.com/australia-news/2023/mar/15/paul-keating-labels-aukus-submarine-pact-worst-deal-in-all-history-in-attack-on-albanese-government),
+Labor leader [criticized](https://www.theguardian.com/australia-news/2023/mar/15/paul-keating-labels-aukus-submarine-pact-worst-deal-in-all-history-in-attack-on-albanese-government)
 the decision as "the 'worst deal in all history', because [the same money] could
 buy 40 to 50 conventional submarines instead". He says, correctly,
 conv subs are more than sufficient to defend Australia from attacking
