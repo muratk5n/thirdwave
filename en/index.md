@@ -33,7 +33,7 @@ navies. But of course that's not the point of the nuke sub deal. Nuke
 subs are needed for attacking China, in their turf, and that's the point,
 AUKUS isn't about direct homeland defense, it is about offense. You are
 going Galipoli again, in return for a superpower help, just like during WWI,
-1915 when you attacked a people with whom you had no quarrel with.
+1915 when you attacked a people with whom "you never had an angry word with".
 
 ---
 
