@@ -69,11 +69,11 @@ Galipoli attacking my hood.
 
 ---
 
-<img width='340' src='https://thearabposts.com/wp-content/uploads/2022/11/Saudi-arabia-8.jpg'/> 
-
 H2 View: "A first shipment of independently-certified low-carbon
 ammonia has been shipped from Saudi Arabia to Japan for use as fuel in
 power generation.
+
+<img width='340' src='https://thearabposts.com/wp-content/uploads/2022/11/Saudi-arabia-8.jpg'/> 
 
 The ammonia was produced by SABIC Agri-Nutrients (SABIC AN) with
 feedstock from Aramco, and sold by Aramco Trading Company to the Fuji
