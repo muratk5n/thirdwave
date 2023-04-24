@@ -20,6 +20,10 @@ Happy Anzac Day bitchez! (Apparently it's on April 25th)
 
 ---
 
+[Strategery](0119/2017/07/the-next-decade-friedman.html#australia)
+
+---
+
 Current Oz Labor gov is continuing the nuke sub deal AUKUS. An formr
 Labor leader, [criticized](https://www.theguardian.com/australia-news/2023/mar/15/paul-keating-labels-aukus-submarine-pact-worst-deal-in-all-history-in-attack-on-albanese-government),
 the decision as "the 'worst deal in all history', because [the same money] could
