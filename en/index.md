@@ -56,7 +56,7 @@ similar sacrifice might be asked of them again.
 When his Galipoli movie came out, Russell Crowe gave an interview, the
 responses from people were interesting. Some were like 'Wut'? That is
 a national narrative at work, they reside in subconcious, sit there as
-unquestioned, banal conclusions.
+unquestioned, banal conclusions. When questioned ppl are shocked.
 
 [[-]](https://youtu.be/4BDk0FceZgk?t=7)
 
