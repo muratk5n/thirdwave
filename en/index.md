@@ -93,8 +93,8 @@ Ukraine’s NATO hopes"
 
 ---
 
-Tucker leaves Fox? Too bad - leftists, anti-war voices were getting
-good screen time on his show.
+Tucker leaves Fox? Too bad - anti-war voices were getting good screen
+time on his show.
 
 ---
 
