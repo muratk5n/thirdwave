@@ -46,10 +46,10 @@ against some way distant future possibly invasion of X".
 ---
 
 Anzac support was due to a security / neutrality trade-off for Oz; you
-offer your services, in human lives, to a superpower (Britain then, US
-now) to get "protection" in return. The reason for the Anzac
-rememberence rituals are kept alive today is to remind people a
-similar sacrifice might be asked of them again.
+offer your services, in location, in human lives, to a superpower
+(Britain then, US now) to get "protection" in return. The reason for
+the Anzac rememberence rituals are kept alive today is to remind
+people a similar sacrifice might be asked of them again.
 
 ---
 
