@@ -16,11 +16,11 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-Happy Anzac Day bitchez! (Apparently it's on April 25th)
+[Strategery](0119/2017/07/the-next-decade-friedman.html#australia)
 
 ---
 
-[Strategery](0119/2017/07/the-next-decade-friedman.html#australia)
+Happy Anzac Day bitchez! (Apparently it's on April 25th)
 
 ---
 
