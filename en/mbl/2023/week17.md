@@ -1,5 +1,87 @@
 # Week 17
 
+[Strategery](0119/2017/07/the-next-decade-friedman.html#australia)
+
+---
+
+Happy Anzac Day bitchez! (Apparently it's on April 25th)
+
+---
+
+Current Oz Labor gov is continuing the nuke sub deal AUKUS. A former
+Labor leader [criticized](https://www.theguardian.com/australia-news/2023/mar/15/paul-keating-labels-aukus-submarine-pact-worst-deal-in-all-history-in-attack-on-albanese-government)
+the decision as "the 'worst deal in all history', because [the same money] could
+buy 40 to 50 conventional submarines instead". He says, correctly,
+conv subs are more than sufficient to defend Australia from attacking
+navies. But of course that's not the point of the nuke sub deal. Nuke
+subs are needed for attacking China, in their turf, and that's the point,
+AUKUS isn't about direct homeland defense, it is about offense. You are
+going Galipoli again, in return for a superpower help, just like during WWI,
+1915 when you attacked a people with whom "you never had an angry word with".
+
+---
+
+The deaths of those soldiers did mean something, in strategic terms,
+not in the way regular people understand war. Galipoli wasn't a case
+of "I was attacked now I defend myself" it was a case of "I must
+invade A who is part of alliance B because I need the protection of C
+against some way distant future possibly invasion of X".
+
+---
+
+Anzac support was due to a security / neutrality trade-off for Oz; you
+offer your services, in location, in human lives, to a superpower
+(Britain then, US now) to get "protection" in return. The reason for
+the Anzac rememberence rituals are kept alive today is to remind
+people a similar sacrifice might be asked of them again.
+
+---
+
+When his Galipoli movie came out, Russell Crowe gave an interview, the
+responses from people were interesting. Some were like 'Wut'? That is
+a national narrative at work, they reside in subconcious, sit there as
+unquestioned, banal conclusions. When questioned ppl are shocked.
+
+[[-]](https://youtu.be/4BDk0FceZgk?t=7)
+
+---
+
+There were New Zealanders in Anzac; the word is is an acronym for the
+**A**ustralian and **N**ew **Z**ealand **A**rmy **C**orps. This piece
+of history interests me obviously bcz Anzac were sent by Brits to
+Galipoli attacking my hood.
+
+---
+
+H2 View: "A first shipment of independently-certified low-carbon
+ammonia has been shipped from Saudi Arabia to Japan for use as fuel in
+power generation.
+
+<img width='340' src='https://thearabposts.com/wp-content/uploads/2022/11/Saudi-arabia-8.jpg'/> 
+
+The ammonia was produced by SABIC Agri-Nutrients (SABIC AN) with
+feedstock from Aramco, and sold by Aramco Trading Company to the Fuji
+Oil Company (FOC). Mitsui O.S.K. Lines (MOL) was tasked with shipping
+the liquid to Japan, then the low-carbon ammonia was transported to
+the Sodegaura Refinery for use in co-fired power generation, with
+technical support provided by Japan Oil Engineering Co (JOE).
+
+The ammonia is categorised as low-carbon because carbon dioxide (CO2)
+from the associated manufacturing process was captured and utilised in
+downstream applications"
+
+---
+
+Politico "[Responding with] ‘What?!’ Orbán throws cold water on
+Ukraine’s NATO hopes"
+
+---
+
+Tucker leaves Fox? Too bad - anti-war voices were getting good screen
+time on his show. 
+
+---
+
 Munee mo munee
 
 Janes: "The US Congress will have to markedly increase unconstrained

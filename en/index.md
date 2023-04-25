@@ -16,85 +16,85 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-[Strategery](0119/2017/07/the-next-decade-friedman.html#australia)
+teleSUR: "Colombian President Gustavo Petro sent to Congress a labor
+reform bill that will reduce working week hours from 48 to 42 and
+increase wages for working on Sundays and holidays by 100 percent...
+'Being the most unproductive country in the [OECD] and, at the same
+time, having the longest working day in the world is useless,' Petro
+said, urgent to promote job stability so that the country can
+industrialize"
 
 ---
 
-Happy Anzac Day bitchez! (Apparently it's on April 25th)
+Multiculturalism is a nice word but it never works - in one generation
+the migrant assimilates. Why bother with mumbling stupid shit shaking
+lanterns with smoke coming out whatever. State psyop likes this shit
+bcz it is in their interest to keep people seperate, disconnected -
+it's a variation of divide-and-rule.
 
 ---
 
-Current Oz Labor gov is continuing the nuke sub deal AUKUS. A former
-Labor leader [criticized](https://www.theguardian.com/australia-news/2023/mar/15/paul-keating-labels-aukus-submarine-pact-worst-deal-in-all-history-in-attack-on-albanese-government)
-the decision as "the 'worst deal in all history', because [the same money] could
-buy 40 to 50 conventional submarines instead". He says, correctly,
-conv subs are more than sufficient to defend Australia from attacking
-navies. But of course that's not the point of the nuke sub deal. Nuke
-subs are needed for attacking China, in their turf, and that's the point,
-AUKUS isn't about direct homeland defense, it is about offense. You are
-going Galipoli again, in return for a superpower help, just like during WWI,
-1915 when you attacked a people with whom "you never had an angry word with".
+Every immigrant, minority brings some changes into the larger soc they
+are in, in proportion to their population. 10% can effect 10%. But
+subsequent generations get the whole thing, not just the 10%. "The
+unblemished, unchanged migrant, minority" fallacy dictates 10% only
+learns the 10% not the whole. This is a foolish fantasy. Do not raise
+your children this way, you will fail to effect their culture anyway,
+and you can make them neurotic.
 
 ---
 
-The deaths of those soldiers did mean something, in strategic terms,
-not in the way regular people understand war. Galipoli wasn't a case
-of "I was attacked now I defend myself" it was a case of "I must
-invade A who is part of alliance B because I need the protection of C
-against some way distant future possibly invasion of X".
+DroneDj: "DroneUp, the drone delivery company that Walmart is using,
+says it plans to test new hydrogen fuel cell technology that has the
+potential to increase a drone’s flight time to two to five hours.
+
+This fuel cell technology has been developed by South Korea’s Doosan
+Mobility Innovation (DMI), which is also building one of the
+first-ever open-source, hydrogen-fuel-cell powered motorcycles in
+collaboration with [MIT]..
+
+Compared to conventional lithium battery-powered drones, DMI’s
+hydrogen fuel cell technology yields 3-to-1 energy density
+characteristics. So, with this tech, a small drone can fly anywhere
+between two to five hours, depending on factors such as payload weight
+and weather"
+
+[[-]](https://dronedj.com/2023/04/17/droneup-doosan-hydrogen-cell-drones/)
 
 ---
 
-Anzac support was due to a security / neutrality trade-off for Oz; you
-offer your services, in location, in human lives, to a superpower
-(Britain then, US now) to get "protection" in return. The reason for
-the Anzac rememberence rituals are kept alive today is to remind
-people a similar sacrifice might be asked of them again.
+A haha aha that is so funny doggone it
+
+[[-]](https://s.yimg.com/ny/api/res/1.2/iKLkMoukYc91pacSKSjPVQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MA--/https://media.zenfs.com/en/coindesk_75/f1195a3f0f3d441c18f9db9c86e53820)
 
 ---
 
-When his Galipoli movie came out, Russell Crowe gave an interview, the
-responses from people were interesting. Some were like 'Wut'? That is
-a national narrative at work, they reside in subconcious, sit there as
-unquestioned, banal conclusions. When questioned ppl are shocked.
+😂 😂 The hipster column is always at the ready to show up
+at anything 'happening', hot, and techy.
 
-[[-]](https://youtu.be/4BDk0FceZgk?t=7)
-
----
-
-There were New Zealanders in Anzac; the word is is an acronym for the
-**A**ustralian and **N**ew **Z**ealand **A**rmy **C**orps. This piece
-of history interests me obviously bcz Anzac were sent by Brits to
-Galipoli attacking my hood.
+"Mr. Bankman-Fried was presiding over the first edition of the Crypto
+Bahamas conference, a showcase for FTX and a vivid demonstration of
+his growing celebrity and influence...  One afternoon,
+Mr. Bankman-Fried led a panel with Tony Blair and Bill Clinton"
 
 ---
 
-H2 View: "A first shipment of independently-certified low-carbon
-ammonia has been shipped from Saudi Arabia to Japan for use as fuel in
-power generation.
-
-<img width='340' src='https://thearabposts.com/wp-content/uploads/2022/11/Saudi-arabia-8.jpg'/> 
-
-The ammonia was produced by SABIC Agri-Nutrients (SABIC AN) with
-feedstock from Aramco, and sold by Aramco Trading Company to the Fuji
-Oil Company (FOC). Mitsui O.S.K. Lines (MOL) was tasked with shipping
-the liquid to Japan, then the low-carbon ammonia was transported to
-the Sodegaura Refinery for use in co-fired power generation, with
-technical support provided by Japan Oil Engineering Co (JOE).
-
-The ammonia is categorised as low-carbon because carbon dioxide (CO2)
-from the associated manufacturing process was captured and utilised in
-downstream applications"
+<iframe width="340" src="https://www.youtube.com/embed/o7zazuy_UfI" title="Cryptocurrencies II: Last Week Tonight with John Oliver (HBO)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-Politico "[Responding with] ‘What?!’ Orbán throws cold water on
-Ukraine’s NATO hopes"
+The RU animosity thing was mostly overblown too IMO, during Mao or
+Xiaoping. They played you.
 
 ---
 
-Tucker leaves Fox? Too bad - anti-war voices were getting good screen
-time on his show.
+Now they are sufficiently developed, they can build their own tech,
+the rest can be from Germany, from Europe, whomever. They don't need
+you anymore.
+
+"China was entusiastic to show friendship to US during 1979 attacking
+Vietnam to get tech / investment. Why are they giving cold shoulder to
+us America now?"
 
 ---
 
