@@ -90,7 +90,7 @@ Xiaoping. They were playing you.
 ---
 
 Now they are sufficiently developed, they can build their own tech,
-the rest can be from Germany, from Europe, whomever. They don't need
+for the rest can trade with Germany, Europe, whomever. They don't need
 you anymore.
 
 "China was entusiastic to show friendship to US during 1979 attacking
