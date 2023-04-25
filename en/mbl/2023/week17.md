@@ -1,6 +1,6 @@
 # Week 17
 
-[Strategery](0119/2017/07/the-next-decade-friedman.html#australia)
+[Strategery](../../0119/2017/07/the-next-decade-friedman.html#australia)
 
 ---
 

@@ -28,7 +28,7 @@ industrialize"
 
 Multiculturalism is a nice word but it never works - in one generation
 the migrant assimilates. Why bother with mumbling stupid shit shaking
-lanterns with smoke coming out whatever. State psyop likes this shit
+lanterns with smoke coming out whatever. State psyop likes this biz
 bcz it is in their interest to keep people seperate, disconnected -
 it's a variation of divide-and-rule.
 
@@ -37,10 +37,10 @@ it's a variation of divide-and-rule.
 Every immigrant, minority brings some changes into the larger soc they
 are in, in proportion to their population. 10% can effect 10%. But
 subsequent generations get the whole thing, not just the 10%. "The
-unblemished, unchanged migrant, minority" fallacy dictates 10% only
-learns the 10% not the whole. This is a foolish fantasy. Do not raise
-your children this way, you will fail to effect their culture anyway,
-and you can make them neurotic.
+unblemished, unchanged migrant, minority" fallacy dictates minority
+only learns its own minority culture not the whole. This is a foolish
+fantasy. Do not raise your children this way, you will fail to effect
+their culture anyway, and you can make them neurotic.
 
 ---
 
@@ -72,10 +72,11 @@ A haha aha that is so funny doggone it
 😂 😂 The hipster column is always at the ready to show up
 at anything 'happening', hot, and techy.
 
-"Mr. Bankman-Fried was presiding over the first edition of the Crypto
-Bahamas conference, a showcase for FTX and a vivid demonstration of
-his growing celebrity and influence...  One afternoon,
-Mr. Bankman-Fried led a panel with Tony Blair and Bill Clinton"
+NYT: "Mr. Bankman-Fried was presiding over the first edition of the
+Crypto Bahamas conference, a showcase for FTX and a vivid
+demonstration of his growing celebrity and influence...  One
+afternoon, Mr. Bankman-Fried led a panel with Tony Blair and Bill
+Clinton"
 
 ---
 
@@ -83,8 +84,8 @@ Mr. Bankman-Fried led a panel with Tony Blair and Bill Clinton"
 
 ---
 
-The RU animosity thing was mostly overblown too IMO, during Mao or
-Xiaoping. They played you.
+The RU animosity thing was mostly overblown too IMO, during Mao and
+Xiaoping. They were playing you.
 
 ---
 
