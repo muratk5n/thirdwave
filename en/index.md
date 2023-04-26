@@ -16,13 +16,24 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-Data Scientist: "My custom [code] uses high resolution radar data
-collected in 2000 by the Space Shuttle Endeavor. For about 18GB of
-hard drive space, the SRTM GL3 dataset covers nearly 120M square
-kilometers of Earth’s landmass in 90m increments... It is interesting
-to note that Google currently charges $5 per 1000 requests to their
-Elevation API, but thanks to NASA and a few lines of code, we can get
-the same high-quality results, free of charge"
+*The Precariat*: "In the 1970s, a group of ideologically inspired
+economists captured the ears and minds of politicians. The central
+plank of their ‘neo-liberal’ model was that growth and development
+depended on market competitiveness; everything should be done to
+maximise competition and competitiveness, and to allow market
+principles to permeate all aspects of life.
+
+One theme was that countries should increase labour market fl
+exibility, which came to mean an agenda for transferring risks and
+insecurity onto workers and their families. The result has been the
+creation of a global ‘precariat’, consisting of many millions around
+the world without an anchor of stability. They are becoming a new
+dangerous class. They are prone to listen to ugly voices, and to use
+their votes and money to give those voices a political platform of
+increasing infl uence. The very success of the ‘neo-liberal’ agenda,
+embraced to a greater or lesser extent by governments of all
+complexions, has created an incipient political monster. Action is
+needed before that monster comes to life"
 
 ---
 
