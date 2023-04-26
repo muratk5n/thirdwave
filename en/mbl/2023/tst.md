@@ -9,8 +9,8 @@ pd.set_option('display.max_columns', None)
 
 
 ```python
-cs = ['Bakhmut Center','BM Railway','Peremogi St']
-u.sm_plot_ukr('ukrdata/fl-0420.csv', 'ukrdata/fl-0416.csv',cs,clat=48.59,clon=37.98,zoom=0.005)
+cs = ['Bakhmut Center','BM Railway','Khromove']
+u.sm_plot_ukr('ukrdata/fl-0426.csv','ukrdata/fl-0420.csv',cs,clat=48.585,clon=37.98,zoom=0.005)
 plt.savefig('/tmp/out.jpg',quality=40)
 ```
 

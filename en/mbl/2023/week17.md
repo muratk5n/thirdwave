@@ -1,5 +1,88 @@
 # Week 17
 
+teleSUR: "Colombian President Gustavo Petro sent to Congress a labor
+reform bill that will reduce working week hours from 48 to 42 and
+increase wages for working on Sundays and holidays by 100 percent...
+'Being the most unproductive country in the [OECD] and, at the same
+time, having the longest working day in the world is useless,' Petro
+said, urgent to promote job stability so that the country can
+industrialize"
+
+---
+
+Multiculturalism is a nice word but it never works - in one generation
+the migrant assimilates. Why bother with mumbling stupid shit shaking
+lanterns with smoke coming out whatever. State psyop likes this biz
+bcz it is in their interest to keep people seperate, disconnected -
+it's a variation of divide-and-rule.
+
+---
+
+Every immigrant, minority brings some changes into the larger soc they
+are in, in proportion to their population. 10% can effect 10%. But
+subsequent generations get the whole thing, not just the 10%. "The
+unblemished, unchanged migrant, minority" fallacy dictates minority
+only learns its own minority culture not the whole. This is a foolish
+fantasy. Do not raise your children this way, you will fail to effect
+their culture anyway, and you can make them neurotic.
+
+---
+
+DroneDj: "DroneUp, the drone delivery company that Walmart is using,
+says it plans to test new hydrogen fuel cell technology that has the
+potential to increase a drone’s flight time to two to five hours.
+
+This fuel cell technology has been developed by South Korea’s Doosan
+Mobility Innovation (DMI), which is also building one of the
+first-ever open-source, hydrogen-fuel-cell powered motorcycles in
+collaboration with [MIT]..
+
+Compared to conventional lithium battery-powered drones, DMI’s
+hydrogen fuel cell technology yields 3-to-1 energy density
+characteristics. So, with this tech, a small drone can fly anywhere
+between two to five hours, depending on factors such as payload weight
+and weather"
+
+[[-]](https://dronedj.com/2023/04/17/droneup-doosan-hydrogen-cell-drones/)
+
+---
+
+A haha aha that is so funny doggone it
+
+[[-]](https://s.yimg.com/ny/api/res/1.2/iKLkMoukYc91pacSKSjPVQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MA--/https://media.zenfs.com/en/coindesk_75/f1195a3f0f3d441c18f9db9c86e53820)
+
+---
+
+😂 😂 The hipster column is always at the ready to show up
+at anything 'happening', hot, and techy.
+
+NYT: "Mr. Bankman-Fried was presiding over the first edition of the
+Crypto Bahamas conference, a showcase for FTX and a vivid
+demonstration of his growing celebrity and influence...  One
+afternoon, Mr. Bankman-Fried led a panel with Tony Blair and Bill
+Clinton"
+
+---
+
+<iframe width="340" src="https://www.youtube.com/embed/o7zazuy_UfI" title="Cryptocurrencies II: Last Week Tonight with John Oliver (HBO)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+The RU animosity thing was mostly overblown too IMO, during Mao and
+Xiaoping. They were playing you.
+
+---
+
+Now they are sufficiently developed, they can build their own tech,
+for the rest can trade with Germany, Europe, whomever. They don't need
+you anymore.
+
+"China was entusiastic to show friendship to US during 1979 attacking
+Vietnam to get tech / investment. Why are they giving cold shoulder to
+us America now?"
+
+---
+
 [Strategery](../../0119/2017/07/the-next-decade-friedman.html#australia)
 
 ---

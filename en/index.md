@@ -16,86 +16,82 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-teleSUR: "Colombian President Gustavo Petro sent to Congress a labor
-reform bill that will reduce working week hours from 48 to 42 and
-increase wages for working on Sundays and holidays by 100 percent...
-'Being the most unproductive country in the [OECD] and, at the same
-time, having the longest working day in the world is useless,' Petro
-said, urgent to promote job stability so that the country can
-industrialize"
+Data Scientist: "My custom [code] uses high resolution radar data
+collected in 2000 by the Space Shuttle Endeavor. For about 18GB of
+hard drive space, the SRTM GL3 dataset covers nearly 120M square
+kilometers of Earth’s landmass in 90m increments... It is interesting
+to note that Google currently charges $5 per 1000 requests to their
+Elevation API, but thanks to NASA and a few lines of code, we can get
+the same high-quality results, free of charge"
 
 ---
 
-Multiculturalism is a nice word but it never works - in one generation
-the migrant assimilates. Why bother with mumbling stupid shit shaking
-lanterns with smoke coming out whatever. State psyop likes this biz
-bcz it is in their interest to keep people seperate, disconnected -
-it's a variation of divide-and-rule.
+<iframe width="340" src="https://www.youtube.com/embed/SraQi_BXsJc?end=1110" title="Will universal basic income become mainstream? | The Stream" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-Every immigrant, minority brings some changes into the larger soc they
-are in, in proportion to their population. 10% can effect 10%. But
-subsequent generations get the whole thing, not just the 10%. "The
-unblemished, unchanged migrant, minority" fallacy dictates minority
-only learns its own minority culture not the whole. This is a foolish
-fantasy. Do not raise your children this way, you will fail to effect
-their culture anyway, and you can make them neurotic.
+Wired: "Forget Cars, Green Hydrogen Will Supercharge Crops.. Renewable
+generation projects are set to make this future fuel widely
+available. And it’s much more versatile than you think"
 
 ---
 
-DroneDj: "DroneUp, the drone delivery company that Walmart is using,
-says it plans to test new hydrogen fuel cell technology that has the
-potential to increase a drone’s flight time to two to five hours.
-
-This fuel cell technology has been developed by South Korea’s Doosan
-Mobility Innovation (DMI), which is also building one of the
-first-ever open-source, hydrogen-fuel-cell powered motorcycles in
-collaboration with [MIT]..
-
-Compared to conventional lithium battery-powered drones, DMI’s
-hydrogen fuel cell technology yields 3-to-1 energy density
-characteristics. So, with this tech, a small drone can fly anywhere
-between two to five hours, depending on factors such as payload weight
-and weather"
-
-[[-]](https://dronedj.com/2023/04/17/droneup-doosan-hydrogen-cell-drones/)
+The COVID national emergency was ended in Apr 11, could've been to
+stave off \#RK attacks from that direction, maybe the Biden team is
+worried a little.
 
 ---
 
-A haha aha that is so funny doggone it
+\#RFKj is clearly a Trump-inspired Kennedy.
 
-[[-]](https://s.yimg.com/ny/api/res/1.2/iKLkMoukYc91pacSKSjPVQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MA--/https://media.zenfs.com/en/coindesk_75/f1195a3f0f3d441c18f9db9c86e53820)
-
----
-
-😂 😂 The hipster column is always at the ready to show up
-at anything 'happening', hot, and techy.
-
-NYT: "Mr. Bankman-Fried was presiding over the first edition of the
-Crypto Bahamas conference, a showcase for FTX and a vivid
-demonstration of his growing celebrity and influence...  One
-afternoon, Mr. Bankman-Fried led a panel with Tony Blair and Bill
-Clinton"
+These people come out of the woodwork.. there is a Kennedy for every
+kind of political situation, any shape, size; there is a tall Kennedy,
+a short Kennedy, I'm sure if the situation called for it there is a
+midget Kennedy somewhere. Biden made a mistake building up the
+family's image, the myth, hoping to gain legitimacy by displaying a
+connection to it, but then the genuine item can show up and gobble up
+your shit. Now \#RK says in an interview "Biden has my father's bust
+behind him in every WH picture" so you handed a Kennedy an advantage -
+why bother with the guy merely standing in front of the bust when
+there is the actual son in the running? 
 
 ---
 
-<iframe width="340" src="https://www.youtube.com/embed/o7zazuy_UfI" title="Cryptocurrencies II: Last Week Tonight with John Oliver (HBO)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Renew Economy: "Fortescue produces its first Australian made hydrogen
+electrolyser prototype"
 
 ---
 
-The RU animosity thing was mostly overblown too IMO, during Mao and
-Xiaoping. They were playing you.
+@Hypx@mastodon.social
+
+India's Tata Steel begins hydrogen gas injection trial in blast furnace
 
 ---
 
-Now they are sufficiently developed, they can build their own tech,
-for the rest can trade with Germany, Europe, whomever. They don't need
-you anymore.
+Note the aim of this fraud is to qualify for tax credits in US and
+abroad, which essentially means stealing taxpayers' money.
 
-"China was entusiastic to show friendship to US during 1979 attacking
-Vietnam to get tech / investment. Why are they giving cold shoulder to
-us America now?"
+Reuters: "[01/2023] South Korea fines Tesla $2.2 mln for exaggerating
+driving range of EVs.. antitrust regulator said it would impose
+a.. fine on Tesla for failing to tell its customers about the shorter
+driving range of its electric vehicles (EVs) in low temperatures"
+
+---
+
+Hindustan Times: "8-year-old girl dies after mobile phone explodes in
+hand.. According to police, overheating of the battery could be the
+reason for the explosion"
+
+---
+
+RU frontline changes in the past 6 days
+
+```python
+cs = ['Bakhmut Center','BM Railway','Khromove']
+u.sm_plot_ukr('ukrdata/fl-0426.csv','ukrdata/fl-0420.csv',cs,clat=48.585,clon=37.98,zoom=0.005)
+```
+
+<img width='340' src='mbl/2023/ukr-11.jpg'/> 
 
 ---
 
