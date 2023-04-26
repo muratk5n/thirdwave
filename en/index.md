@@ -72,9 +72,9 @@ electrolyser prototype"
 
 ---
 
-@Hypx@mastodon.social
+"@Hypx@mastodon.social
 
-India's Tata Steel begins hydrogen gas injection trial in blast furnace
+India's Tata Steel begins hydrogen gas injection trial in blast furnace"
 
 ---
 
