@@ -48,7 +48,7 @@ available. And it’s much more versatile than you think"
 ---
 
 The COVID national emergency was ended in Apr 11, could've been to
-stave off \#RK attacks on that issue. Is the Biden worried?
+stave off \#RK attacks on that issue. Is the Biden team worried?
 
 ---
 
