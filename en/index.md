@@ -23,14 +23,14 @@ depended on market competitiveness; everything should be done to
 maximise competition and competitiveness, and to allow market
 principles to permeate all aspects of life.
 
-One theme was that countries should increase labour market fl
-exibility, which came to mean an agenda for transferring risks and
+One theme was that countries should increase labour market
+flexibility, which came to mean an agenda for transferring risks and
 insecurity onto workers and their families. The result has been the
 creation of a global ‘precariat’, consisting of many millions around
 the world without an anchor of stability. They are becoming a new
 dangerous class. They are prone to listen to ugly voices, and to use
 their votes and money to give those voices a political platform of
-increasing infl uence. The very success of the ‘neo-liberal’ agenda,
+increasing influence. The very success of the ‘neo-liberal’ agenda,
 embraced to a greater or lesser extent by governments of all
 complexions, has created an incipient political monster. Action is
 needed before that monster comes to life"
