@@ -35,15 +35,14 @@ the same high-quality results, free of charge"
 
 ---
 
-Teenage kid made a sailboat voyage around the world, the logistics -
+Teenage kid made a sailboat voyage around the world, the logistics:
 had Internet, sat phone, a ton of food tinned, 500+ chocolates, 200+
 Easy Food vacuum cooked ready meals, lamb chops - as in full-blown
 meals. Then save for the occasional physical labor required to direct
 the ship it's mostly being rocked and it's mostly enjoying the view
 and sometimes being bored. It's like a teenager room on the move, wout
-the parents. Not exactly roughing it. And later she goes on to become
-a bleeping management consultant, and her adventourous boyfriend dies
-on her? Ouch.
+the parents. And later she goes on to become a bleeping management
+consultant, and her adventourous boyfriend dies on her? Sad.
 
 ---
 
@@ -68,12 +67,12 @@ Sound From The Ground - Waves \#music
 Not much news about helium-cooled nuke plants of Japan lately, what
 happened? They were supposed to be 100% safe, use a fission fuel tech
 named TRISO have better waste management capabilities, and will be
-generating H2 efficiently. Is it still being pursued?
+generating H2 efficiently. Is the tech still being pursued?
 
 ---
 
 WION: "Japan, EU say US plans to ban all exports to Russia 'simply not
-do-able'.. United State's proposal for the Group of Seven (G7)
+doable'.. United State's proposal for the Group of Seven (G7)
 countries to ban all exports to Russia was met with resistance, ahead
 of a summit of the bloc"
 
