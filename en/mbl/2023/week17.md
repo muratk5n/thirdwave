@@ -85,7 +85,7 @@ cs = ['Bakhmut Center','BM Railway','Khromove']
 u.sm_plot_ukr('ukrdata/fl-0426.csv','ukrdata/fl-0420.csv',cs,clat=48.585,clon=37.98,zoom=0.005)
 ```
 
-<img width='340' src='mbl/2023/ukr-11.jpg'/> 
+<img width='340' src='ukr-11.jpg'/> 
 
 ---
 
@@ -138,7 +138,7 @@ and weather"
 
 A haha aha that is so funny doggone it
 
-[[-]](https://s.yimg.com/ny/api/res/1.2/iKLkMoukYc91pacSKSjPVQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MA--/https://media.zenfs.com/en/coindesk_75/f1195a3f0f3d441c18f9db9c86e53820)
+[[-]](bill1.jpg)
 
 ---
 
