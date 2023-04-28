@@ -42,7 +42,7 @@ meals. Then save for the occasional physical labor required to direct
 the ship it's mostly being rocked and it's mostly enjoying the view
 and sometimes being bored. It's like a teenager room on the move, wout
 the parents. And later she goes on to become a bleeping management
-consultant, and her adventourous boyfriend dies on her? Sad.
+consultant, and her former sail buddy boyfriend dies on her? Sad.
 
 ---
 
