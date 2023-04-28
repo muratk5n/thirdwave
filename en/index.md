@@ -16,92 +16,66 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-*The Precariat*: "In the 1970s, a group of ideologically inspired
-economists captured the ears and minds of politicians. The central
-plank of their ‘neo-liberal’ model was that growth and development
-depended on market competitiveness; everything should be done to
-maximise competition and competitiveness, and to allow market
-principles to permeate all aspects of life.
-
-One theme was that countries should increase labour market
-flexibility, which came to mean an agenda for transferring risks and
-insecurity onto workers and their families. The result has been the
-creation of a global ‘precariat’, consisting of many millions around
-the world without an anchor of stability. They are becoming a new
-dangerous class. They are prone to listen to ugly voices, and to use
-their votes and money to give those voices a political platform of
-increasing influence. The very success of the ‘neo-liberal’ agenda,
-embraced to a greater or lesser extent by governments of all
-complexions, has created an incipient political monster. Action is
-needed before that monster comes to life"
+"A new dawn for hydrogen mobility in Europe.. With the EU’s commitment
+to hydrogen stations every 200km on major roads, the industry now sees
+a positive sign to push forward with the development of a hydrogen
+mobility ecosystem"
 
 ---
 
-<iframe width="340" src="https://www.youtube.com/embed/SraQi_BXsJc?end=1110" title="Will universal basic income become mainstream? | The Stream" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+The best things in life are free
+
+Data Scientist: "My custom [code] uses high resolution radar data
+collected in 2000 by the Space Shuttle Endeavor. For about 18GB of
+hard drive space, the SRTM GL3 dataset covers nearly 120M square
+kilometers of Earth’s landmass in 90m increments... It is interesting
+to note that Google currently charges $5 per 1000 requests to their
+Elevation API, but thanks to NASA and a few lines of code, we can get
+the same high-quality results, free of charge"
 
 ---
 
-Wired: "Forget Cars, Green Hydrogen Will Supercharge Crops.. Renewable
-generation projects are set to make this future fuel widely
-available. And it’s much more versatile than you think"
+Teenage kid made a sailboat voyage around the world, the logistics -
+had Internet, sat phone, a ton of food tinned, 500+ chocolates, 200+
+Easy Food vacuum cooked ready meals, lamb chops - as in full-blown
+meals. Then save for the occasional physical labor required to direct
+the ship it's mostly being rocked and it's mostly enjoying the view
+and sometimes being bored. It's like a teenager room on the move, wout
+the parents. Not exactly roughing it. And later she goes on to become
+a bleeping management consultant, and her adventourous boyfriend dies
+on her? Ouch.
 
 ---
 
-The COVID national emergency was ended in Apr 11, could've been to
-stave off \#RK attacks on that issue. Is the Biden team worried?
+H2 Central: "Greek company Mytilineos invests in hydrogen sector in
+Australia. Mytilineos announced the acquisition of a 15% equity stake
+in Clara Energy’s Rosedale Green Hydrogen project in Australia"
 
 ---
 
-\#RFKj is clearly a Trump-inspired Kennedy.
-
-These people come out of the woodwork.. there is a Kennedy for every
-kind of political situation, any shape, size; there is a tall Kennedy,
-a short Kennedy, I'm sure if the situation called for it there is a
-midget Kennedy somewhere. Biden made a mistake building up the
-family's image, the myth, hoping to gain legitimacy by displaying a
-connection to it, but then the genuine item can show up and gobble up
-your shit. Now \#RK says in an interview "Biden has my father's bust
-behind him in every WH picture" so you handed a Kennedy an advantage -
-why bother with the guy merely standing in front of the bust when
-there is the actual son in the running? 
+Reuters: "Seven companies in Germany's energy sector said on Tuesday
+that they had formed an alliance to bring clean hydrogen from the
+seashore to centres of industrial consumption"
 
 ---
 
-Renew Economy: "Fortescue produces its first Australian made hydrogen
-electrolyser prototype"
+Sound From The Ground - Waves \#music
+
+[[-]](https://youtu.be/TVNm6XvHG_k)
 
 ---
 
-"@Hypx@mastodon.social
-
-India's Tata Steel begins hydrogen gas injection trial in blast furnace"
-
----
-
-Note the aim of this fraud is to qualify for tax credits in US and
-abroad, which essentially means stealing taxpayers' money.
-
-Reuters: "[01/2023] South Korea fines Tesla $2.2 mln for exaggerating
-driving range of EVs.. antitrust regulator said it would impose
-a.. fine on Tesla for failing to tell its customers about the shorter
-driving range of its electric vehicles (EVs) in low temperatures"
+Not much news about helium-cooled nuke plants of Japan lately, what
+happened? They were supposed to be 100% safe, use a fission fuel tech
+named TRISO have better waste management capabilities, and will be
+generating H2 efficiently. Is it still being pursued?
 
 ---
 
-Hindustan Times: "8-year-old girl dies after mobile phone explodes in
-hand.. According to police, overheating of the battery could be the
-reason for the explosion"
-
----
-
-RU frontline changes in the past 6 days
-
-```python
-cs = ['Bakhmut Center','BM Railway','Khromove']
-u.sm_plot_ukr('ukrdata/fl-0426.csv','ukrdata/fl-0420.csv',cs,clat=48.585,clon=37.98,zoom=0.005)
-```
-
-<img width='340' src='mbl/2023/ukr-11.jpg'/> 
+WION: "Japan, EU say US plans to ban all exports to Russia 'simply not
+do-able'.. United State's proposal for the Group of Seven (G7)
+countries to ban all exports to Russia was met with resistance, ahead
+of a summit of the bloc"
 
 ---
 
