@@ -211,6 +211,15 @@ def sm_plot_list1(clat, clon, zoom, data, elev=None):
          bbox = dict(boxstyle = 'round,pad=0.5', fc = 'yellow', alpha = 0.5),
          arrowprops = dict(arrowstyle = '->', connectionstyle = 'arc3,rad=0'))          
 
+def sm_plot_azearm4(geo):
+    d = json.loads(open("azerbarm1.json").read())
+    clat,clon=40, 46;zoom=0.25
+    sm.plot_countries(clat,clon,zoom)
+    sm.plot_line(np.array(d['nagornarm1']),color='lightgreen')
+    sm.plot_line(np.array(d['lachin']),color='red')
+    ps = np.array([[x, d[x][1], d[x][0]] for x in geo])
+    sm_plot_list1(clat,clon,zoom,ps)
+       
 def sm_plot_azearm3():
     d = json.loads(open("azerbarm1.json").read())
     clat,clon=40, 46;zoom=0.25
