@@ -51,11 +51,10 @@ as Armenia's use of the road to transport weapons"
 ---
 
 A lot of ppl in analytics do not seem to have mastered the dark arts
-of incremental processing; Do not bring **da entire** input file in
-memory, keep **da entire** output in memory before writing it to file,
+of incremental processing; Do not bring *da entire* input file in
+memory, keep *da entire* output in memory before writing it to file,
 read piecemeal, write piecemeal, while keeping only the bare minimum,
-bare essentials in RAM. A lot of algorithms can be coded in incremental
-fashion. All-in-memory processing is so yesterday.
+bare essentials in RAM. A lot of algorithms can be coded this way.
 
 ---
 
