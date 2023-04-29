@@ -33,9 +33,9 @@ Armenia?
 
 Aw darn - they have relations with Russia, that's the problem. In that
 case your victimization counts less.. Israel's matters more because
-they are on the *right side*, the spear's tip for "Anglo designs". We
-hyperventilate about theirs, not about Armenia bcz they are not US',
-Britain's bitch.
+they are on the *right side*, the tip of the spear for "Anglo designs"
+in the region. We hyperventilate about theirs, not about Armenia bcz
+they are not US', Britain's bitch.
 
 ---
 
