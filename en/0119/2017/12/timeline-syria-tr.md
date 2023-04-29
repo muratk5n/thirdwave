@@ -47,7 +47,8 @@
      * 10/02: PM undergoes a second intestinal surgery     
      * 19/07: Kurdish town of Kobanê in Rojova, Syria declared its
        autonomy. It was followed by Cizire and Afrin.       
-     * 20/08: Obama said use of chemical weapons in Syria would cross a "red line"     
+     * 20/08: Obama said use of chemical weapons in Syria would cross a "red line"
+     * 09/11: Petraeus resigns as Director of the CIA, after admitting having a sexual relationship with his biographer.
      * 28/12: PM reveals intel chief has been visiting jailed Kurdish
        guerilla leader to find a solution to the conflict marking the
        beginning of the Peace Process

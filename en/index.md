@@ -16,65 +16,80 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-"A new dawn for hydrogen mobility in Europe.. With the EU’s commitment
-to hydrogen stations every 200km on major roads, the industry now sees
-a positive sign to push forward with the development of a hydrogen
-mobility ecosystem"
+
+But of course they do
+
+Al-Monitor: "[2023/03] Israel exports arms to Azerbaijan as tensions
+soar with Armenia"
 
 ---
 
-The best things in life are free
-
-Data Scientist: "My custom [code] uses high resolution radar data
-collected in 2000 by the Space Shuttle Endeavor. For about 18GB of
-hard drive space, the SRTM GL3 dataset covers nearly 120M square
-kilometers of Earth’s landmass in 90m increments... It is interesting
-to note that Google currently charges $5 per 1000 requests to their
-Elevation API, but thanks to NASA and a few lines of code, we can get
-the same high-quality results, free of charge"
+Where is the good ol' genocide victim symphaty when you need it eh?
+Israel gets it, forgiveness in all kinds of world affairs, why not
+Armenia? Aw shit - they have relations with Russia, that's the
+problem. In that case your victimization counts less.. Israel's
+matters more because they are on the *right side*, the spear's tip for
+"Anglo designs". We hyperventilate about theirs, not about Armenia bcz
+they are not US', Britain's bitch.
 
 ---
 
-Teenage kid made a sailboat voyage around the world, the logistics:
-had Internet, sat phone, a ton of food tinned, 500+ chocolates, 200+
-Easy Food vacuum cooked ready meals, lamb chops - as in full-blown
-meals. Then save for the occasional physical labor required to direct
-the ship it's mostly being rocked and it's mostly enjoying the view
-and sometimes being bored. It's like a teenager room on the move, wout
-the parents. And later she goes on to become a bleeping management
-consultant, and her former sail buddy boyfriend dies on her? Sad.
+```python
+u.sm_plot_azearm4(['Armenia','Azerbaijan','Lachin Corridor','Nagarno-Karabakh'])
+```
+
+<img width='340' src='mbl/2023/azearm4.jpg'/> 
 
 ---
 
-H2 Central: "Greek company Mytilineos invests in hydrogen sector in
-Australia. Mytilineos announced the acquisition of a 15% equity stake
-in Clara Energy’s Rosedale Green Hydrogen project in Australia"
+It was at the Lachin Corridor
+
+Reuters: "Azerbaijan said it had established a checkpoint on the road
+leading to Karabakh, a step it said was essential due to what it cast
+as Armenia's use of the road to transport weapons"
 
 ---
 
-Reuters: "Seven companies in Germany's energy sector said on Tuesday
-that they had formed an alliance to bring clean hydrogen from the
-seashore to centres of industrial consumption"
+A lot of ppl in analytics do not seem to have mastered the dark arts
+of incremental processing; Do not bring **da entire** input file in
+memory, keep **da entire** output in memory before writing it to file,
+read piecemeal, write piecemeal, while keeping only the bare minimum,
+bare essentials in RAM. A lot of algorithms can be coded in incremental
+fashion. All-in-memory processing is so yesterday.
 
 ---
 
-Sound From The Ground - Waves \#music
+"@yogthos@mas.to
 
-[[-]](https://youtu.be/TVNm6XvHG_k)
-
----
-
-Not much news about helium-cooled nuke plants of Japan lately, what
-happened? They were supposed to be 100% safe, use a fission fuel tech
-named TRISO have better waste management capabilities, and will be
-generating H2 efficiently. Is the tech still being pursued?
+I can't wait till people start crafting clever prompts to get these
+things to divulge corporate secrets :)"
 
 ---
 
-WION: "Japan, EU say US plans to ban all exports to Russia 'simply not
-doable'.. United State's proposal for the Group of Seven (G7)
-countries to ban all exports to Russia was met with resistance, ahead
-of a summit of the bloc"
+"@yogthos@mas.to
+
+deploying LLMs to production be like"
+
+[[-]](https://media.mas.to/masto-public/media_attachments/files/110/248/459/433/803/260/original/e5d7d728aa68ed27.png)
+
+---
+
+"@QasimRashid@mastodon.social
+
+A quick history lesson. From 1940-1980:
+
+•Wealthiest paid 70-94% marginal tax
+
+•0 of them went broke from taxation
+
+•0 of them left USA
+
+•All remained exceedingly wealthy
+
+•Manufacturing boomed
+
+•The middle class was 62% of US economy (It's now 40% post 'trickle
+ down scamenomics)"
 
 ---
 

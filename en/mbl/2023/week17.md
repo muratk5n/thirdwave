@@ -1,5 +1,67 @@
 # Week 17
 
+"A new dawn for hydrogen mobility in Europe.. With the EU’s commitment
+to hydrogen stations every 200km on major roads, the industry now sees
+a positive sign to push forward with the development of a hydrogen
+mobility ecosystem"
+
+---
+
+The best things in life are free
+
+Data Scientist: "My custom [code] uses high resolution radar data
+collected in 2000 by the Space Shuttle Endeavor. For about 18GB of
+hard drive space, the SRTM GL3 dataset covers nearly 120M square
+kilometers of Earth’s landmass in 90m increments... It is interesting
+to note that Google currently charges $5 per 1000 requests to their
+Elevation API, but thanks to NASA and a few lines of code, we can get
+the same high-quality results, free of charge"
+
+---
+
+Teenage kid made a sailboat voyage around the world, the logistics:
+had Internet, sat phone, a ton of food tinned, 500+ chocolates, 200+
+Easy Food vacuum cooked ready meals, lamb chops - as in full-blown
+meals. Then save for the occasional physical labor required to direct
+the ship it's mostly being rocked and it's mostly enjoying the view
+and sometimes being bored. It's like a teenager room on the move, wout
+the parents. And later she goes on to become a bleeping management
+consultant, and her former sail buddy boyfriend dies on her? Sad.
+
+---
+
+H2 Central: "Greek company Mytilineos invests in hydrogen sector in
+Australia. Mytilineos announced the acquisition of a 15% equity stake
+in Clara Energy’s Rosedale Green Hydrogen project in Australia"
+
+---
+
+Reuters: "Seven companies in Germany's energy sector said on Tuesday
+that they had formed an alliance to bring clean hydrogen from the
+seashore to centres of industrial consumption"
+
+---
+
+Sound From The Ground - Waves \#music
+
+[[-]](https://youtu.be/TVNm6XvHG_k)
+
+---
+
+Not much news about helium-cooled nuke plants of Japan lately, what
+happened? They were supposed to be 100% safe, use a fission fuel tech
+named TRISO have better waste management capabilities, and will be
+generating H2 efficiently. Is the tech still being pursued?
+
+---
+
+WION: "Japan, EU say US plans to ban all exports to Russia 'simply not
+doable'.. United State's proposal for the Group of Seven (G7)
+countries to ban all exports to Russia was met with resistance, ahead
+of a summit of the bloc"
+
+---
+
 *The Precariat*: "In the 1970s, a group of ideologically inspired
 economists captured the ears and minds of politicians. The central
 plank of their ‘neo-liberal’ model was that growth and development
