@@ -16,7 +16,7 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-Euractiv: "France asks Baku to restore ‘unhindered’ movement on vital corridor"
+Euractiv: "France asks [Azerbaijan] to restore ‘unhindered’ movement on vital corridor"
 
 ---
 
