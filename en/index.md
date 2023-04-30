@@ -103,7 +103,7 @@ leader"
 
 ---
 
-GPD QoQ slowdown
+GDP QoQ slowdown
 
 ```
 2022-10-01    2.574072
