@@ -16,84 +16,110 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-Euractiv: "France asks [Azerbaijan] to restore ‘unhindered’ movement on vital corridor"
+Arab News: "A Chinese coast guard ship cut off a Philippine patrol
+vessel carrying journalists in the disputed South China Sea, causing a
+near-collision, an AFP team on board another boat saw"
 
 ---
 
-But of course they do
-
-Al-Monitor: "[2023/03] Israel exports arms to Azerbaijan as tensions
-soar with Armenia"
+Janes: "China, Philippine coastguard vessels trade warnings in near
+collision"
 
 ---
 
-Where is the good ol' genocide victim symphaty when you need it eh?
-Israel gets it, forgiveness in all kinds of world affairs, why not
-Armenia?
-
-Aw darn - they have relations with Russia, that's the problem. In that
-case your victimization counts less.. Israel's matters more because
-they are on the *right side*, the tip of the spear for "Anglo designs"
-in the region. We hyperventilate about theirs, not about Armenia bcz
-they are not US', Britain's bitch.
+H2 View: "Ohmium to provide 52 tonnes of green hydrogen for Spanish
+LNG terminal project, secures $250m in fundraising round"
 
 ---
 
-```python
-u.sm_plot_azearm4(['Armenia','Azerbaijan','Lachin Corridor','Nagarno-Karabakh'])
+Clean fuel tech is a win for both new and existing energy
+companies. Fossil companies can pivot to H2 and utilize their existing
+know-how. Republicans have nothing to fear as oil, gas companies have
+much to gain in this space. Trump started the H2@Scale program while
+in office. Everyone from BP to Total are active in domain.
+
+---
+
+Haha
+
+Harry Truman: "Can’t somebody bring me a one-handed economist?"
+
+---
+
+*Safe House* good spy thriller 
+
+---
+
+"@bps_artish@universeodon.com
+
+.. as it's bin day, the bin wagon rolls around, and its new, and it's
+powered by #hydrogen! And it's got big green stickers all over it and
+it's in the South Derbyshire District Council livery.
+
+So it's mine. I've paid for it through my rates and #SDDC have made
+the kind of decisions I would make if I was sitting there deciding.
+
+It's been a \#Labour council since 2021. I'll be exercising my
+privilege to keep it that way on 4 May.
+
+Local \#council \#elections matter. Don't waste your \#vote"
+
+---
+
+H2 Central: "Governor Ron DeSantis Signs MOU with LowCarbon Hydrogen
+Corporation in South Korea, Company Set to Break Ground on Clean
+Hydrogen Facility in Florida"
+
+---
+
+My focus is the FCEV and H2 production, subsidies, the rest, I dont care.
+
+---
+
+I read the bill guts IRA. Not good.
+
+WSJ: "The House GOP's Debt-Ceiling Win.. The chamber’s bill is now the
+only plan in Washington for avoiding a default"
+
+---
+
+WSJ: "North American Clean Hydrogen Projects Are Booming"
+
+---
+
+Un didnt get what he wanted from Trump. DJT eanted him to disarm, and
+likely reduce US involvement in the region. Un didnt like that.
+
+---
+
+😂 The sister gets in there delivers some punches.. But if we are to
+believe Pompeo acct, NK really does not like China and beligerent
+displays of weaponary helps increase US involvement in the region. It
+is as if Un works for US' interests 🤔
+
+TASS: "'Old man with no future': Kim Jong-un’s sister hits back at US
+leader"
+
+---
+
+GPD QoQ slowdown
+
+```
+2022-10-01    2.574072
+2023-01-01    1.062291
 ```
 
-<img width='340' src='mbl/2023/azearm4.jpg'/> 
+---
+
+Baking with Hillary
+
+[[-]](https://youtu.be/O56_peUsNJY)
 
 ---
 
-It was at the Lachin Corridor
+Who Wants To Be A WARMONGER?! - Mischa Paullin	
 
-Reuters: "Azerbaijan said it had established a checkpoint on the road
-leading to Karabakh, a step it said was essential due to what it cast
-as Armenia's use of the road to transport weapons"
-
----
-
-A lot of ppl in analytics do not seem to have mastered the dark arts
-of incremental processing; Do not bring *da entire* input file in
-memory, keep *da entire* output in memory before writing it to file,
-read piecemeal, write piecemeal, while keeping only the bare minimum,
-bare essentials in RAM. A lot of algorithms can be coded this way.
-
----
-
-"@yogthos@mas.to
-
-I can't wait till people start crafting clever prompts to get these
-things to divulge corporate secrets :)"
-
----
-
-"@yogthos@mas.to
-
-deploying LLMs to production be like"
-
-[[-]](https://media.mas.to/masto-public/media_attachments/files/110/248/459/433/803/260/original/e5d7d728aa68ed27.png)
-
----
-
-"@QasimRashid@mastodon.social
-
-A quick history lesson. From 1940-1980:
-
-•Wealthiest paid 70-94% marginal tax
-
-•0 of them went broke from taxation
-
-•0 of them left USA
-
-•All remained exceedingly wealthy
-
-•Manufacturing boomed
-
-•The middle class was 62% of US economy (It's now 40% post 'trickle
- down scamenomics)"
+[[-]](https://youtu.be/NRASg9gbfeE)
 
 ---
 

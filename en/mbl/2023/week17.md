@@ -1,5 +1,87 @@
 # Week 17
 
+
+Euractiv: "France asks [Azerbaijan] to restore ‘unhindered’ movement on vital corridor"
+
+---
+
+But of course they do
+
+Al-Monitor: "[2023/03] Israel exports arms to Azerbaijan as tensions
+soar with Armenia"
+
+---
+
+Where is the good ol' genocide victim symphaty when you need it eh?
+Israel gets it, forgiveness in all kinds of world affairs, why not
+Armenia?
+
+Aw darn - they have relations with Russia, that's the problem. In that
+case your victimization counts less.. Israel's matters more because
+they are on the *right side*, the tip of the spear for "Anglo designs"
+in the region. We hyperventilate about theirs, not about Armenia bcz
+they are not US', Britain's bitch.
+
+---
+
+```python
+u.sm_plot_azearm4(['Armenia','Azerbaijan','Lachin Corridor','Nagarno-Karabakh'])
+```
+
+<img width='340' src='mbl/2023/azearm4.jpg'/> 
+
+---
+
+It was at the Lachin Corridor
+
+Reuters: "Azerbaijan said it had established a checkpoint on the road
+leading to Karabakh, a step it said was essential due to what it cast
+as Armenia's use of the road to transport weapons"
+
+---
+
+A lot of ppl in analytics do not seem to have mastered the dark arts
+of incremental processing; Do not bring *da entire* input file in
+memory, keep *da entire* output in memory before writing it to file,
+read piecemeal, write piecemeal, while keeping only the bare minimum,
+bare essentials in RAM. A lot of algorithms can be coded this way.
+
+---
+
+"@yogthos@mas.to
+
+I can't wait till people start crafting clever prompts to get these
+things to divulge corporate secrets :)"
+
+---
+
+"@yogthos@mas.to
+
+deploying LLMs to production be like"
+
+[[-]](https://media.mas.to/masto-public/media_attachments/files/110/248/459/433/803/260/original/e5d7d728aa68ed27.png)
+
+---
+
+"@QasimRashid@mastodon.social
+
+A quick history lesson. From 1940-1980:
+
+•Wealthiest paid 70-94% marginal tax
+
+•0 of them went broke from taxation
+
+•0 of them left USA
+
+•All remained exceedingly wealthy
+
+•Manufacturing boomed
+
+•The middle class was 62% of US economy (It's now 40% post 'trickle
+ down scamenomics)"
+
+---
+
 "A new dawn for hydrogen mobility in Europe.. With the EU’s commitment
 to hydrogen stations every 200km on major roads, the industry now sees
 a positive sign to push forward with the development of a hydrogen
