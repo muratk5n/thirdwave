@@ -73,7 +73,7 @@ Hydrogen Facility in Florida"
 ---
 
 My focus is the FCEV and H2 production, the rest, I dont care. If
-BEV support gets gutted that is a good thing.
+BEV support gets cut that is a good thing. Inferior technology.
 
 ---
 
