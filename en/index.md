@@ -24,7 +24,7 @@ state visit to the US"
 
 ---
 
-German Press Commends Moroccan Green Hydrogen Capabilities.. The
+"German Press Commends Moroccan Green Hydrogen Capabilities.. The
 strategic partnership between Morocco and Germany brought them to sign
 a joint declaration on the development of green hydrogen in 2020,
 called Power-to-X, which aims to promote renewable energies...
@@ -32,7 +32,7 @@ called Power-to-X, which aims to promote renewable energies...
 According to Taggeschau, Morocco should become the leading producer of
 green hydrogen in Africa by 2025, while the KfW German Development
 Bank is financing the construction of a green hydrogen production
-plant for an amount of 300 million euros.
+plant for an amount of 300 million euros"
 
 ---
 
