@@ -1,6 +1,5 @@
 # Week 17
 
-
 Euractiv: "France asks [Azerbaijan] to restore ‘unhindered’ movement on vital corridor"
 
 ---
@@ -28,7 +27,7 @@ they are not US', Britain's bitch.
 u.sm_plot_azearm4(['Armenia','Azerbaijan','Lachin Corridor','Nagarno-Karabakh'])
 ```
 
-<img width='340' src='mbl/2023/azearm4.jpg'/> 
+<img width='340' src='azearm4.jpg'/> 
 
 ---
 
