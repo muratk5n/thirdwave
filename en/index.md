@@ -39,8 +39,8 @@ plant for an amount of 300 million euros"
 The division in US might have had repercussions reaching all the way
 to Asia Minor so-called Turkey; in gov some elements were pro-jihadi,
 other elements wanted to keep out of Syria - the latter group could
-have triggered, or provoked into a coup attempt in 2016. This Syria
-business did a number on everyone.
+have triggered, or were provoked into a coup attempt in 2016. This
+Syria business did a number on everyone.
 
 ---
 
