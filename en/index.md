@@ -142,8 +142,8 @@ hocus pocus, little ownership change...
 fire -yeah-), he was the most pro-China figure in NK gov. Un wants the
 Americans as his neighbor, he has a pro-China figure executed, and
 constant displays of weaponary is giving neighboring leaders an excuse
-to invite more US involvement to the region. Put the two and two and
-two together, you get six.
+to invite more US presence to the region. Put the two and two and two
+together, you get six.
 
 ---
 
