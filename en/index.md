@@ -88,8 +88,8 @@ WSJ: "North American Clean Hydrogen Projects Are Booming"
 
 ---
 
-Un didnt get what he wanted from Trump. He was asked to disarm, and
-which wld cause a reduction of US involvement in the region. 
+Un didnt get what he wanted from Trump. He was asked to disarm, which
+wld cause a reduction of US involvement in the region.
 
 ---
 

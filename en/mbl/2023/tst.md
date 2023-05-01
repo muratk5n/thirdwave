@@ -7,14 +7,6 @@ pd.set_option('display.max_columns', None)
 ```
 
 
-```python
-u.sm_plot_azearm4(['Armenia','Azerbaijan','Lachin Corridor','Nagarno-Karabakh'])
-plt.savefig('/tmp/out.jpg',quality=40)
-```
-
-
-
-
 
 
 
@@ -26,8 +18,8 @@ plt.savefig('/tmp/out.jpg',quality=40)
 
 
 ```python
-cs = ['Bakhmut Center','BM Railway','Khromove']
-u.sm_plot_ukr('ukrdata/fl-0426.csv','ukrdata/fl-0420.csv',cs,clat=48.585,clon=37.98,zoom=0.005)
+cs = ['BM Railway','Khromove','Levanevskoho St']
+u.sm_plot_ukr('ukrdata/fl-0501.csv','ukrdata/fl-0426.csv',cs,clat=48.585,clon=37.98,zoom=0.005)
 plt.savefig('/tmp/out.jpg',quality=40)
 ```
 
