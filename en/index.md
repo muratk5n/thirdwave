@@ -96,7 +96,7 @@ NNs "deep" hence the monikor deep neural networks which helped further
 their parrot capabilities. That's it. The tech is as parroty as it
 was, but now, it can generate better spam. It still can't drive a car
 or summarize a text. And it won't get there as long as maintream
-remains on this retarded path. They will try bigger "better" neural
+remains on this misguided path. They will try bigger "better" neural
 nets that will go nowhere just like some physicists want to keep
 building bigger and better colliders instead of going back to the
 drawing board and fixing their science.
