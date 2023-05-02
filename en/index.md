@@ -37,8 +37,7 @@ water. And so you get eyes that can see in the ocean"
 ---
 
 Washington Post: "The underbelly of [battery] electric
-vehicles.. While electric vehicles are essential to reducing carbon
-emissions, their production can exact a significant human and
+vehicles.. [their] production can exact a significant human and
 environmental cost. To run, EVs require six times the mineral input,
 by weight, of conventional vehicles..
 
