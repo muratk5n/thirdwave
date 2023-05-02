@@ -118,7 +118,7 @@ to replace existing code with newer languages.
 This is how Western companies get to stay in Russia? Little naming
 hocus pocus, little ownership change...
 
-[[-]](mbl/2023/russ1.jpg)
+[[-]](russ1.jpg)
 
 ---
 
