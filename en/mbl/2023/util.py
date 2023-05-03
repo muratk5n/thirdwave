@@ -13,7 +13,8 @@ def sm_plot_nile1():
     d = json.loads(open("nile.json").read())
     clat,clon=15, 34;zoom=3.0
     sm.plot_countries(clat,clon,zoom)
-    sm.plot_water(clat,clon,zoom)
+    sm.plot_line(np.array(d['nile1']),color='cyan',linestyle='solid')
+    sm.plot_line(np.array(d['nile2']),color='cyan',linestyle='solid')
     geo = ["Ethiopia", "Sudan", "Egypt", "GERD","Khartoum"]
     ps = np.array([[x, d[x][0], d[x][1]] for x in geo])
     sm_plot_list1(clat,clon,zoom,ps)
