@@ -54,18 +54,36 @@
        beginning of the Peace Process
      
 * 2013
-    * 19/03: Chemical weapons attacks were reported in Syria’s two main cities, the Khan al-Assel neighborhood of Aleppo and the Damascus suburb of al-Atebeh
-    * 28/03: Gezi park protests initially started to stop an urban development plan at a park turned into protest on secularism
-    * 11/05: Two car bombs exploded in Reyhanlı, a town 5 km from the Syrian border, 52 people were killed and 140 injured
-    * 16/05: During TR visit Obama indirectly blames TR intel chief for working with extreme jihadists
-    * 06/06: An NSA contractor Edward Snowden starts sharing gov secrets with the media. Americans learn that their government was spying broadly on its own people.
-    * 03/07: A military coup in Egypt removes President Morsi from power, Morsi is of the Moslem Brotherhood movement, supported by Qatar.
-    * 05/08: Ex-Army Chief Basbug gets life sentence from alleged membership to a right-wing organization. It was assumed the Brotherhood was behind the court case.
-    * 13/08: TR gov proposes a new law that would force several private cram schools, many of which are owned by the Gülen Movement, to close
-    * 21/08: A rebel-held suburb of Damascus was attacked with sarin gas
-    * 31/08: Obama says he would seek an authorization for the use of force from Congress against Syria
-    * 09/09: Russia convinces Syria to hand over its stockpile to intl control averting US strike
-    * 17/12: Corruption scandal implicating TR gov and its PM started, most thought police close to Gulen Brotherhood was behind it
+
+    * 19/03: Chemical weapons attacks were reported in Syria’s two
+      main cities, the Khan al-Assel neighborhood of Aleppo and the
+      Damascus suburb of al-Atebeh    
+    * 28/03: Gezi park protests initially started to stop an urban
+      development plan at a park turned into protest on secularism    
+    * 11/05: Two car bombs exploded in Reyhanlı, a town 5 km from the
+      Syrian border, 52 people were killed and 140 injured    
+    * 16/05: During TR visit Obama indirectly blames TR intel chief
+      for working with extreme jihadists    
+    * 06/06: An NSA contractor Edward Snowden starts sharing gov
+      secrets with the media. Americans learn that their government
+      was spying broadly on its own people.    
+    * 03/07: A military coup in Egypt removes President Morsi from
+      power, Morsi is of the Moslem Brotherhood movement, supported by
+      Qatar.    
+    * 05/08: Ex-Army Chief Basbug gets life sentence from alleged
+      membership to a right-wing organization. It was assumed the
+      Brotherhood was behind the court case.      
+    * 13/08: TR gov proposes a new law that would force several
+      private cram schools, many of which are owned by the Gülen
+      Movement, to close      
+    * 21/08: A rebel-held suburb of Damascus was attacked with sarin gas    
+    * 31/08: Obama says he would seek an authorization for the use of
+      force from Congress against Syria    
+    * 09/09: Russia convinces Syria to hand over its stockpile to intl
+      control averting US strike    
+    * 17/12: Corruption scandal implicating TR gov and its PM started,
+      most thought police close to Gulen Brotherhood was behind it
+    
 * 2014
     * 02/01: ISIS takes control of Falluja
     * 19/01: A truck was stopped by TR jandarmee that was claimed to carry weapons for Al Qaida

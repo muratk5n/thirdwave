@@ -9,6 +9,15 @@ from yahoofinancials import YahooFinancials
 from pandas_datareader import data, wb
 from io import BytesIO
 
+def sm_plot_nile1():
+    d = json.loads(open("nile.json").read())
+    clat,clon=15, 34;zoom=3.0
+    sm.plot_countries(clat,clon,zoom)
+    sm.plot_water(clat,clon,zoom)
+    geo = ["Ethiopia", "Sudan", "Egypt", "GERD","Khartoum"]
+    ps = np.array([[x, d[x][0], d[x][1]] for x in geo])
+    sm_plot_list1(clat,clon,zoom,ps)
+       
 def get_masto_detail(host):
     response = requests.get("https://%s/api/v1/instance" % host,  timeout=3)
     res = json.loads(response.text) # this converts the json to a python list of dictionary
