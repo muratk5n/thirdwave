@@ -1,9 +1,10 @@
 # Timeline of Egypt, Ethiopia, Somalia, Dam Events
 
 * 1978
-    * Anwar Sadat comments about proposed the Grand Ethiopia Renaissance
-      Dam (GERD) in Ethiopia "we are not going to wait to die of thirst
-      in Egypt, we’ll go to Ethiopia and die there".
+    * Anwar Sadat comments about a possible Ethiopian dam project: "we are
+      not going to wait to die of thirst in Egypt, we’ll go to Ethiopia
+      and die there".
+      
 * 1979
      * Anwar Sadat: "The only matter that could take Egypt to war again.
        is water"
