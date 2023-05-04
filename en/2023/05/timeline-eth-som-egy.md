@@ -6,8 +6,7 @@
       and die there".
       
 * 1979
-     * Anwar Sadat: "The only matter that could take Egypt to war again.
-       is water"
+     * Anwar Sadat: "The only matter that could take Egypt to war again is water"
 
 * 2010
      * [??/??](https://www.businessinsider.com/hacked-stratfor-emails-egypt-could-take-military-action-to-protect-its-stake-in-the-nile-2012-10):
