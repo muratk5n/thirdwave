@@ -44,6 +44,10 @@ AJR Trucking Announces Order for 50 Nikola Tre FCEVs"
 
 ---
 
+[Link](2023/01/the-big-bang-never-happened-lerner.html)
+
+---
+
 Michio Kaku: "The James Webb Telescope is upsetting the apple
 cart. All of a sudden we realize that we may have to rewrite all of
 the textbooks about the beginning of the universe. It takes many
@@ -51,10 +55,10 @@ billions of years to create a galaxy like the Milky Way galaxy with a
 hundred billion stars many billions of years old, but the James Webb
 Telescope has identified six galaxies that exist half a billion years
 after the big bang that are up to 10 times bigger than the Milky Way
-galaxy that shouldn't happen.  There should not be primordial galaxies
-that are bigger than the Milky Way galaxy that are only half a billion
-years old. Something is wrong, we may have to revise our theory of the
-creation of the universe"
+galaxy. That shouldn't have happened. There should not be primordial
+galaxies that are bigger than the Milky Way galaxy that are only half
+a billion years old. Something is wrong, we may have to revise our
+theory of the creation of the universe"
 
 ---
 
