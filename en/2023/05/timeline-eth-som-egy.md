@@ -46,8 +46,7 @@
 * 2018
      * [06/10](https://www.reuters.com/article/us-egypt-ethiopia-idUKKBN1J60YL):
        Egypt, Ethiopia agree to settle differences over Nile mega-dam
-
-* 2018
+       
      * [10/22](https://apnews.com/article/9deb28e2af6249198dde54160ff62c3b):
        Ethiopia’s Nobel-winning leader [Abiy Ahmed] warns Egypt over dam.
 
