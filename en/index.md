@@ -88,7 +88,7 @@ This calls for a timeline.
 
 The Nile is fed by two branches; the White Nile and the Blue Nile. The
 BN starts in Ethiopia, and they built a dam, the GERD on their side,
-threathening the water supply for Egypt 🤨. Sudanese capital Khartoum
+threatening the water supply for Egypt 🤨. Sudanese capital Khartoum
 is at the very intersection where the two Nile branches meet 🤔
 
 ---
