@@ -9,7 +9,7 @@
      * Anwar Sadat: "The only matter that could take Egypt to war again is water"
 
 * 2010
-     * [??/??](https://www.businessinsider.com/hacked-stratfor-emails-egypt-could-take-military-action-to-protect-its-stake-in-the-nile-2012-10):
+     * [--/--](https://www.businessinsider.com/hacked-stratfor-emails-egypt-could-take-military-action-to-protect-its-stake-in-the-nile-2012-10):
        Mobarak's Egypt discussed taking military action in cooperation with Sudan against Ethiopia to protect their stake in Nile River.
 
      * [06/26](https://www.businessinsider.com/hacked-stratfor-emails-egypt-could-take-military-action-to-protect-its-stake-in-the-nile-2012-10):
