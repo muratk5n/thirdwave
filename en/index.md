@@ -16,101 +16,98 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-Reddit User: "[Answering question 'Why is water see through?'] It's a
-little bit backwards. Life needed to be able to see through water, so
-it created eyes that could see the light that water was clear to.
+Forbes: "In Europe and the U.S., the green hydrogen boom is exploding...
 
-That might need some explanation. All things are "clear" to some kinds
-of light and "opaque" to other light. Like how an X ray can go right
-through your skin and see your bones. It's that way for all light,
-including visible light.
+• In January 2023, a Norwegian company announced a $4.3 billion
+  investment in a steel plant with an integrated hydrogen production
+  facility.
 
-So there was always some wavelength of light that made water
-"clear". And some of those wavelengths are the visible light spectrum.
+• Construction of Finland’s first green hydrogen plant also began
+  early this year, backed by a $76 million private investment.
 
-So when life evolved in the ocean, and eyes developed, it was very
-useful to be able to see the light that could pass through the
-water. And so you get eyes that can see in the ocean"
+• In Spain, a Madrid-based company is developing the first green
+  hydrogen supply chain between southern and northern Europe,
+  anticipated to supply Northwest Europe with 6 million tons of green
+  hydrogen by 2030.
 
-[[-]](https://www.reddit.com/r/explainlikeimfive/comments/133hbvd/comment/ji9zbcc/)
-
----
-
-Washington Post: "The underbelly of [battery] electric
-vehicles.. [their] production can exact a significant human and
-environmental cost. To run, EVs require six times the mineral input,
-by weight, of conventional vehicles..
-
-These minerals, including cobalt, nickel, lithium and manganese, are
-finite resources. And mining and processing them can be harmful for
-workers, their communities and the local environment...
-
-[U]nderneath the floor of your car is an approximately 900-pound
-battery block containing materials that have been mined from the
-ground, sent around the world and put through complex chemical
-processing to fuel your ride from point A to point B. That supply
-chain has a significant human and environmental toll"
+• In the U.S., the government is investing heavily in clear hydrogen
+  initiatives. And the states are getting into the act, too. New York,
+  for instance, has entered into an agreement with nearby states and
+  40 hydrogen ecosystem partners to develop a regional hydrogen hub to
+  accelerate green hydrogen energy innovation and investments"
 
 ---
 
-H2 Fuel News: "Cummins Inc. has announced plans to invest over $1
-billion in its US engine manufacturing network for a transition into
-hydrogen fuel. The investment will upgrade facilities supporting
-“fuel-agnostic” engine platforms that operate on low-carbon fuels,
-including hydrogen, with the aim of decarbonizing truck and bus fleets
-in the US. The company announced that this investment is on top of
-those recently made in its Minnesota plant"
+"@Hypx@mastodon.social
+
+AJR Trucking Announces Order for 50 Nikola Tre FCEVs"
 
 ---
 
-"@Savvyhomestead@mastodon.social
-
-Real vs hyped causes of deaths"
-
-[[-]](https://files.mastodon.social/media_attachments/files/110/296/322/769/864/584/original/336819e25ad7e4b0.png)
-
----
-
-Hey thats a great idea.. Dems truly effed it all up on this issue,
-especially the Clintons, time to get creative and improve things here
-and there.
-
-Hindustan Times: "Over 3,000 guns exchanged for gift cards in a single
-day in New York.. Participants were offered $500 gift cards in
-exchange for surrendering untraceable "ghost guns" and assault-type
-rifles with no questions asked, ABC news reported"
+Michio Kaku: "The James Webb Telescope is upsetting the apple
+cart. All of a sudden we realize that we may have to rewrite all of
+the textbooks about the beginning of the universe. It takes many
+billions of years to create a galaxy like the Milky Way galaxy with a
+hundred billion stars many billions of years old, but the James Webb
+Telescope has identified six galaxies that exist half a billion years
+after the big bang that are up to 10 times bigger than the Milky Way
+galaxy that shouldn't happen.  There should not be primordial galaxies
+that are bigger than the Milky Way galaxy that are only half a billion
+years old. Something is wrong, we may have to revise our theory of the
+creation of the universe"
 
 ---
 
-I studied Hinton's, Bengio's Le Cun's work, as it pertains to the
-science of intelligence there is nothing there. It's time to bring
-back the AI Winter - in fact Hinton seems to be calling for it,
-subconciously wanting to be "put out of his misery".
+Note the '78 Sadat comment about a possible dam - "we are not going to
+wait to die of thirst in Egypt, we’ll go to Ethiopia and die
+there". Everyone from Mobarak to Morsi to now Sisi talked tough on
+this project.
+
+Sudan is intertwined into the the story. They are now against GERD, if
+Egypt is planning something they would like to deal with Sudan's
+official military for it IMO not RSF.
+
+GERD construction was announced two months after Mobarak resignation
+and a month before South Sudan break-up.
 
 ---
 
-He is not the Godfather of AI, he is one of the three people who
-brought back the neural net approach to weak AI (ending the so-called
-AI Winter which also was about neural nets). The "conspirators" made
-NNs "deep" hence the monikor deep neural networks which helped further
-their parrot capabilities. That's it. The tech is as parroty as it
-was, but now, it can generate better spam. It still can't drive a car
-or summarize a text. And it won't get there as long as maintream
-remains on this misguided path. They will try bigger "better" neural
-nets that will go nowhere just like some physicists want to keep
-building bigger and better colliders instead of going back to the
-drawing board and fixing their science.
+This calls for a timeline. 
+
+[Timeline](2023/05/timeline-eth-som-egy.html)
 
 ---
 
-😆 😆 
-
-BBC: "‘Godfather of AI’ Geoffrey Hinton quits Google to warn over the
-tech’s threat to humanity"
+🤔 🤔 🤔 🤔 🤔
 
 ---
 
-`sudo init 3` can shut off all desktop proc on Linux based board Nano. Handy.
+The Nile is fed by two branches; the White Nile and the Blue Nile. The
+BN starts in Ethiopia, and they built a dam, the GERD on their side,
+threathening the water supply for Egypt 🤨. Sudanese capital Khartoum
+is at the very intersection where the two Nile branches meet 🤔
+
+---
+
+```python
+u.sm_plot_nile1()
+```
+
+<img width='340' src='mbl/2023/nile1.jpg'/> 
+
+---
+
+Grand Ethiopian Renaissance Dam (GERD), Egypt was dead-set against it,
+Sudan was first neutral, now against.. 🤨 What's going on?
+
+---
+
+Are the Qataris angry? Maybe Messi will leave PNG and joins Al Nassr.
+Last PNG game I heard LM was phoning it in, I dont think he wants to
+be there anymore
+
+CBS Sport: "Lionel Messi suspended two weeks by PSG following
+unauthorized trip to Saudi Arabia with family. "
 
 ---
 
