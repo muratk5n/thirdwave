@@ -102,7 +102,7 @@ u.sm_plot_nile1()
 ---
 
 Grand Ethiopian Renaissance Dam (GERD), Egypt was dead-set against it,
-Sudan was first neutral, now against.. 🤨 What's going on?
+Sudan was first neutral, now against.. What's going on?
 
 ---
 
