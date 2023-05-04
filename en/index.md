@@ -102,7 +102,7 @@ Sudan was first neutral, now against.. 🤨 What's going on?
 
 ---
 
-Are the Qataris angry? Maybe Messi will leave PNG and joins Al Nassr.
+Are the Qataris angry? Maybe Messi will leave PNG and join Al Nassr.
 Last PNG game I heard LM was phoning it in, I dont think he wants to
 be there anymore
 
