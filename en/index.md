@@ -102,9 +102,9 @@ Sudan was first neutral, now against.. 🤨 What's going on?
 
 ---
 
-Are the Qataris angry? Maybe Messi will leave PNG and join Al Nassr.
-Last PNG game I heard LM was phoning it in, I dont think he wants to
-be there anymore
+Are the Qataris angry? Maybe Messi will leave PSG and join Al Nassr.
+Last game I heard LM was phoning it in, I dont think he wants to be
+there anymore
 
 CBS Sport: "Lionel Messi suspended two weeks by PSG following
 unauthorized trip to Saudi Arabia with family. "
