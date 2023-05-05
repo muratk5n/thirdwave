@@ -63,7 +63,7 @@ improved med tech diagnosis but the culprit could be elsewhere.
 
 ---
 
-This is great news.. 
+This is good to hear
 
 The Independent: "Albanese says nothing served by US still pursuing
 Assange.. Australian Prime Minister Anthony Albanese has expressed
