@@ -51,7 +51,7 @@ wait to die of thirst in Egypt, we’ll go to Ethiopia and die
 there". Everyone from Mobarak to Morsi to now Sisi talked tough on
 this project.
 
-Sudan is intertwined into the the story. They are now against GERD, if
+Sudan is intertwined into the story. They are now against GERD, if
 Egypt is planning something they would like to deal with Sudan's
 official military for it IMO not RSF.
 
