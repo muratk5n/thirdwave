@@ -26,6 +26,14 @@ complex"
 
 ---
 
+Wall Street Memes
+
+"The Fed raises interest rates by another 0.25%"
+
+[Link](https://s3.masto.ai/media_attachments/files/110/309/286/885/341/443/original/a1651f8fcc0dc3bf.jpg)
+
+---
+
 Arab News: "Police across Europe arrested more than 100 people on
 Wednesday in a crackdown that dealt a “serious blow” to the Italian
 ‘Ndrangheta mafia, with suspects accused of drugs and weapons
@@ -37,14 +45,6 @@ TASS: "On Monday, Scholz said that it was important for Western
 weapons not to be used for strikes on Russian territory. According to
 him, Germany won’t take unilateral steps on the issue of arms
 deliveries to Ukraine to avoid escalation between NATO and Russia"
-
----
-
-Wall Street Memes
-
-"The Fed raises interest rates by another 0.25%"
-
-[Link](https://s3.masto.ai/media_attachments/files/110/309/286/885/341/443/original/a1651f8fcc0dc3bf.jpg)
 
 ---
 
