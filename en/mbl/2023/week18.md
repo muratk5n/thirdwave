@@ -62,7 +62,7 @@ and a month before South Sudan break-up.
 
 This calls for a timeline. 
 
-[Timeline](2023/05/timeline-eth-som-egy.html)
+[Timeline](../../2023/05/timeline-eth-som-egy.html)
 
 ---
 
