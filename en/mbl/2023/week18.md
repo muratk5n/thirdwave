@@ -81,7 +81,7 @@ is at the very intersection where the two Nile branches meet 🤔
 u.sm_plot_nile1()
 ```
 
-<img width='340' src='mbl/2023/nile1.jpg'/> 
+<img width='340' src='nile1.jpg'/> 
 
 ---
 

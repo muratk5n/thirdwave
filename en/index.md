@@ -16,7 +16,6 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-
 Freight Waves: "ACT Expo a coming of age for hydrogen-powered
 trucking... A parade of significant hydrogen-related announcements
 began even before what has become a must-attend event that outgrew its
@@ -24,6 +23,13 @@ Long Beach, California, venue. Toyota Motor North America (TMNA),
 which doesn’t make commercial trucks, confirmed production later this
 year of a heavy-duty fuel cell system at its Kentucky manufacturing
 complex"
+
+---
+
+Arab News: "Police across Europe arrested more than 100 people on
+Wednesday in a crackdown that dealt a “serious blow” to the Italian
+‘Ndrangheta mafia, with suspects accused of drugs and weapons
+trafficking with counterparts in Latin America"
 
 ---
 
