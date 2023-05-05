@@ -28,7 +28,7 @@ AJR Trucking Announces Order for 50 Nikola Tre FCEVs"
 
 ---
 
-[Link](2023/01/the-big-bang-never-happened-lerner.html)
+[Link](../../2023/01/the-big-bang-never-happened-lerner.html)
 
 ---
 
