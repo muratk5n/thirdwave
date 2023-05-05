@@ -26,9 +26,9 @@ complex"
 
 ---
 
-Wall Street Memes
+"Wall Street Memes
 
-"The Fed raises interest rates by another 0.25%"
+The Fed raises interest rates by another 0.25%"
 
 [Link](https://s3.masto.ai/media_attachments/files/110/309/286/885/341/443/original/a1651f8fcc0dc3bf.jpg)
 
@@ -56,7 +56,7 @@ crony capitalism [won](https://youtu.be/RVOCFci_3rM?t=2428).
 
 ---
 
-Increased cases of astma, autism; industrial polution is to blame? \#RFKJr.
+Increased cases of astma, autism; industrial polution is to blame? \#RFKJr
 It is surprising for foreigners so many ppl in US have bizarre medical
 conditions compared to developing countries. Some chalk it up to US
 improved med tech diagnosis but the culprit could be elsewhere.
