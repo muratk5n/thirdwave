@@ -52,7 +52,7 @@ I lived near Hudson River for a while... I joked earlier in other
 posts four-eyed fish, one-legged frog etc, those weren't just random
 burns, I'd hear that stuff from the natives of the area. RFKj's version
 of HR history was interesting - had some successes but ultimately
-unfettered capitalism won.
+crony capitalism [won](https://youtu.be/RVOCFci_3rM?t=2428).
 
 ---
 
