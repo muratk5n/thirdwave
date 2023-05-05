@@ -1,5 +1,104 @@
 # Week 18
 
+Forbes: "In Europe and the U.S., the green hydrogen boom is exploding...
+
+• In January 2023, a Norwegian company announced a $4.3 billion
+  investment in a steel plant with an integrated hydrogen production
+  facility.
+
+• Construction of Finland’s first green hydrogen plant also began
+  early this year, backed by a $76 million private investment.
+
+• In Spain, a Madrid-based company is developing the first green
+  hydrogen supply chain between southern and northern Europe,
+  anticipated to supply Northwest Europe with 6 million tons of green
+  hydrogen by 2030.
+
+• In the U.S., the government is investing heavily in clear hydrogen
+  initiatives. And the states are getting into the act, too. New York,
+  for instance, has entered into an agreement with nearby states and
+  40 hydrogen ecosystem partners to develop a regional hydrogen hub to
+  accelerate green hydrogen energy innovation and investments"
+
+---
+
+"@Hypx@mastodon.social
+
+AJR Trucking Announces Order for 50 Nikola Tre FCEVs"
+
+---
+
+[Link](2023/01/the-big-bang-never-happened-lerner.html)
+
+---
+
+Michio Kaku: "The James Webb Telescope is upsetting the apple
+cart. All of a sudden we realize that we may have to rewrite all of
+the textbooks about the beginning of the universe. It takes many
+billions of years to create a galaxy like the Milky Way galaxy with a
+hundred billion stars many billions of years old, but the James Webb
+Telescope has identified six galaxies that exist half a billion years
+after the big bang that are up to 10 times bigger than the Milky Way
+galaxy. That shouldn't have happened. There should not be primordial
+galaxies that are bigger than the Milky Way galaxy that are only half
+a billion years old. Something is wrong, we may have to revise our
+theory of the creation of the universe"
+
+---
+
+Note the '78 Sadat comment about a possible dam - "we are not going to
+wait to die of thirst in Egypt, we’ll go to Ethiopia and die
+there". Everyone from Mobarak to Morsi to now Sisi talked tough on
+this project.
+
+Sudan is intertwined into the the story. They are now against GERD, if
+Egypt is planning something they would like to deal with Sudan's
+official military for it IMO not RSF.
+
+GERD construction was announced two months after Mobarak resignation
+and a month before South Sudan break-up.
+
+---
+
+This calls for a timeline. 
+
+[Timeline](2023/05/timeline-eth-som-egy.html)
+
+---
+
+🤔 🤔 🤔 🤔 🤔
+
+---
+
+The Nile is fed by two branches; the White Nile and the Blue Nile. The
+BN starts in Ethiopia, and they built a dam, the GERD on their side,
+threatening the water supply for Egypt 🤨. Sudanese capital Khartoum
+is at the very intersection where the two Nile branches meet 🤔
+
+---
+
+```python
+u.sm_plot_nile1()
+```
+
+<img width='340' src='mbl/2023/nile1.jpg'/> 
+
+---
+
+Grand Ethiopian Renaissance Dam (GERD), Egypt was dead-set against it,
+Sudan was first neutral, now against.. What's going on?
+
+---
+
+Are the Qataris angry? Maybe Messi will leave PSG and join Al Nassr.
+Last game I heard LM was phoning it in, I dont think he wants to be
+there anymore
+
+CBS Sport: "Lionel Messi suspended two weeks by PSG following
+unauthorized trip to Saudi Arabia with family. "
+
+---
+
 Reddit User: "[Answering question 'Why is water see through?'] It's a
 little bit backwards. Life needed to be able to see through water, so
 it created eyes that could see the light that water was clear to.
