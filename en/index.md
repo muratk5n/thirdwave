@@ -50,22 +50,20 @@ Wall Street Memes
 
 I lived near Hudson River for a while... I joked earlier in other
 posts four-eyed fish, one-legged frog etc, those weren't just random
-burns, I'd hear that stuff from the natives of the area. The message
-was basically "you dont wanna go in there", "you go in for a swim you
-wont come out". JKr's version of HR history was interesting. Had some
-successes but ultimately unfettered capitalism won.
+burns, I'd hear that stuff from the natives of the area. RFKj's version
+of HR history was interesting - had some successes but ultimately
+unfettered capitalism won.
 
 ---
 
-\#RFKJr Increased cases of astma, autism; industrial polution is to
-blame? It is surprising for foreigners so many ppl in US have astma,
-bizarre other conditions compared to developing countries. Some chalk
-it up to US improved med tech diagnosis but the culprit could be
-elsewhere.
+Increased cases of astma, autism; industrial polution is to blame? \#RFKJr.
+It is surprising for foreigners so many ppl in US have bizarre medical
+conditions compared to developing countries. Some chalk it up to US
+improved med tech diagnosis but the culprit could be elsewhere.
 
 ---
 
-This is great news. 
+This is great news.. 
 
 The Independent: "Albanese says nothing served by US still pursuing
 Assange.. Australian Prime Minister Anthony Albanese has expressed
