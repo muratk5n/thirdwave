@@ -22,9 +22,8 @@ Al-Monitor: "Iran's SAIPA signs $497 million car deal with Russia, Belarus"
 
 Trillion dollar industry BTW, people in it look *employed* and the
 businesses they are in get *credit*. "To look after old people we need
-more young workers", then they go into this business.. What kind of
-bizarro system is this? You might as well pay people to dig up holes
-and re-fill them (basically just give them effin money).
+more young workers", then they go into this business.. Truly a bizarro
+system.. You might as well pay people to dig up holes and re-fill them.
 
 ---
 
