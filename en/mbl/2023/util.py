@@ -18,7 +18,7 @@ def sm_plot_nile1():
     sm.plot_line(np.array(d['nile2']),ax,color='cyan',linestyle='solid')
     geo = ["Ethiopia", "Sudan", "Egypt", "GERD","Khartoum"]
     ps = np.array([[x, d[x][0], d[x][1]] for x in geo])
-    sm_plot_list1(clat,clon,zoom,ps)
+    sm_plot_list1(clat,clon,zoom,data=ps,ax=ax)
        
 def get_masto_detail(host):
     response = requests.get("https://%s/api/v1/instance" % host,  timeout=3)
@@ -74,13 +74,14 @@ def plot_africa_ru_us(ru,us):
     plt.figure(figsize=(10, 8))
     clat,clon=5.0910, 24.828
     zoom = 8.0
-    sm.plot_countries(clat,clon,zoom,country_color=colors)
+    fig, ax = plt.subplots() 
+    sm.plot_countries(clat,clon,zoom=zoom,ax=ax,country_color=colors)
     for k in colors:
         lat,lon = geo[k]
         if "TGO" in k:
-            plt.text(lon-2,lat-5,k)
+            ax.text(lon-2,lat-5,k)
         else:            
-            plt.text(lon-2,lat,k)
+            ax.text(lon-2,lat,k)
 
 def get_yahoofin(year,ticker):
     end = datetime.datetime.now()
@@ -207,15 +208,16 @@ def eq_at(lat,lon,radius,ago,today = datetime.datetime.now()):
     df = df.set_index('date')    
     return df
 
-def sm_plot_list1(clat, clon, zoom, data, elev=None):
+def sm_plot_list1(clat, clon, zoom, data, ax=None, elev=None):
+    if not ax: fig, ax = plt.subplots()
     offsets = [[random.randint(-60,60), random.randint(-60,60)] for i in range(len(data))]
-    sm.plot_countries(clat,clon,zoom)
-    if elev: sm.plot_elevation(clat,clon,zoom,elev)
+    sm.plot_countries(clat,clon,zoom=zoom,ax=ax)
+    if elev: sm.plot_elevation(clat,clon,zoom=zoom,levels=elev,ax=ax)
     for i,row in enumerate(data):
        lat,lon = float(row[1]),float(row[2])
        label = row[0]
        style = tuple(offsets[i])
-       plt.annotate(
+       ax.annotate(
          label, 
          xy = (lon, lat), xytext = style,
          textcoords = 'offset points', ha = 'right', va = 'bottom',
