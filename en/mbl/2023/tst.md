@@ -6,22 +6,6 @@ import pandas as pd
 pd.set_option('display.max_columns', None)
 ```
 
-```python
-u.sm_plot_nile1()
-plt.savefig('/tmp/out.jpg')
-```
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -38,8 +22,8 @@ plt.savefig('/tmp/out.jpg')
 
 
 ```python
-cs = ['BM Railway','Khromove','Levanevskoho St']
-u.sm_plot_ukr('ukrdata/fl-0501.csv','ukrdata/fl-0426.csv',cs,clat=48.585,clon=37.98,zoom=0.005)
+#u.sm_plot_ukr2('ukrdata/fl-0501.csv','ukrdata/fl-0426.csv')
+u.sm_plot_ukr2('ukrdata/fl-0501.csv','ukrdata/fl-0404.csv')
 plt.savefig('/tmp/out.jpg',quality=40)
 ```
 

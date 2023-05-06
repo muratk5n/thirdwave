@@ -26,8 +26,21 @@ def get_masto_detail(host):
     cd = pd.to_datetime(res['contact_account']['created_at'])
     return res['stats']['user_count'],cd.strftime('%Y-%m-%d')
 
-def sm_plot_ukr(file,oldfile,geo,clat=48,clon=37,zoom=0.6):
-    fig, ax = plt.subplots() 
+def sm_plot_ukr2(file,oldfile):
+    fig, ax = plt.subplots(2,figsize=(9,13))
+    # fronts: Donetsk, Zaporizhzhia, Kharkiv, Kherson, Luhansk,
+    zoom = 0.01
+    cs = ['BM Railway','Khromove','Levanevskoho St']
+    ax[0].set_title("Bakhmut")
+    sm_plot_ukr(file,oldfile,cs,clat=48.59,clon=37.98,zoom=zoom,ax=ax[0])
+    zoom = 0.2
+    cs = ['Zaporizhzhya Nuclear Power Plant']
+    ax[1].set_title("Zaporizhzhia")
+    sm_plot_ukr(file,oldfile,cs,clat=47.6, clon=35.124039,zoom=zoom,ax=ax[1])
+    
+
+def sm_plot_ukr(file,oldfile,geo,clat=48,clon=37,zoom=0.6,ax=None):
+    if not ax: fig, ax = plt.subplots() 
     cities = json.loads(open("ukrdata/cities.json").read())
     sm_plot_ukr_base(file,geo,clat,clon,zoom,ax) 
     df = np.array(pd.read_csv(oldfile,header=None))
