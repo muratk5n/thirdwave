@@ -120,8 +120,8 @@ that, Assange had taken asylum for seven years in the Ecuadorian
 Embassy in London.
 
 Albanese said Assange’s case had to be examined in terms of whether
-the time Assange had “effectively served” was in excess of what would
-be 'reasonable' if the allegations against him were proved. ''I just
+the time Assange had 'effectively served' was in excess of what would
+be 'reasonable' if the allegations against him were proved. 'I just
 say that enough is enough. There is nothing to be served by his
 ongoing incarceration,' Albanese said"
 
