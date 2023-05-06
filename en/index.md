@@ -40,8 +40,8 @@ contribute to dehydration"
 
 Why bother half of it will be under water w 7m water level
 rise.. You'll be confined to a 100m radius circle but hey, maybe you
-can get billionaire friends and do a big circle jerk there in keeping
-up with the spirit of the place
+can get billionaire friends and do an island circle jerk in keeping up
+with the spirit of the place
 
 "Billionaire Stephen Deckoff buys Jeffrey Epstein's private islands"
 
