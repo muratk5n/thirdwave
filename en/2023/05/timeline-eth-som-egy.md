@@ -50,6 +50,10 @@
      * [10/22](https://apnews.com/article/9deb28e2af6249198dde54160ff62c3b):
        Ethiopia’s Nobel-winning leader [Abiy Ahmed] warns Egypt over dam.
 
+* 2019
+     * [03/20](https://www.military.africa/2019/03/ethiopia-acquires-russian-made-pantsir-s1-short-range-sam/):
+       Ethiopia acquires Russian made Pantsir S1 short-range SAM
+
 * 2020
 
     * [01/14](https://www.janes.com/defence-news/news-detail/egypt-demonstrates-aerial-refuelling-for-combat-aircraft):

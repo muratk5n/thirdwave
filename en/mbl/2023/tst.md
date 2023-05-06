@@ -6,6 +6,18 @@ import pandas as pd
 pd.set_option('display.max_columns', None)
 ```
 
+```python
+cs = ['BM Railway','Khromove','Levanevskoho St']
+u.sm_plot_ukr('ukrdata/fl-0501.csv','ukrdata/fl-0426.csv',geo=cs,clat=48.585,clon=37.98,zoom=0.005)
+plt.savefig('/tmp/out.jpg')
+```
+
+
+
+
+
+
+
 
 
 

@@ -10,11 +10,12 @@ from pandas_datareader import data, wb
 from io import BytesIO
 
 def sm_plot_nile1():
+    fig, ax = plt.subplots() 
     d = json.loads(open("nile.json").read())
     clat,clon=15, 34;zoom=3.0
-    sm.plot_countries(clat,clon,zoom)
-    sm.plot_line(np.array(d['nile1']),color='cyan',linestyle='solid')
-    sm.plot_line(np.array(d['nile2']),color='cyan',linestyle='solid')
+    sm.plot_countries(clat,clon,zoom=zoom,ax=ax)
+    sm.plot_line(np.array(d['nile1']),ax,color='cyan',linestyle='solid')
+    sm.plot_line(np.array(d['nile2']),ax,color='cyan',linestyle='solid')
     geo = ["Ethiopia", "Sudan", "Egypt", "GERD","Khartoum"]
     ps = np.array([[x, d[x][0], d[x][1]] for x in geo])
     sm_plot_list1(clat,clon,zoom,ps)
@@ -26,42 +27,42 @@ def get_masto_detail(host):
     return res['stats']['user_count'],cd.strftime('%Y-%m-%d')
 
 def sm_plot_ukr(file,oldfile,geo,clat=48,clon=37,zoom=0.6):
+    fig, ax = plt.subplots() 
     cities = json.loads(open("ukrdata/cities.json").read())
-    sm_plot_ukr_base(file,geo,clat,clon,zoom)    
+    sm_plot_ukr_base(file,geo,clat,clon,zoom,ax) 
     df = np.array(pd.read_csv(oldfile,header=None))
     df[:, [1, 0]] = df[:, [0, 1]]
-    sm.plot_line(df,color='gray',linestyle='solid')
+    sm.plot_line(df,ax,color='gray',linestyle='solid')
     offsets = [[random.randint(-60,60), random.randint(-60,60)] for i in range(len(geo))]
     for i,label in enumerate(geo):
       lat,lon = cities[label]
       style = tuple(offsets[i])
-      plt.plot(lon, lat, color='red', marker='o', markersize=4)
-      plt.annotate(
+      ax.plot(lon, lat, color='red', marker='o', markersize=4)
+      ax.annotate(
         label, 
         xy = (lon, lat), xytext = style,
         textcoords = 'offset points', ha = 'right', va = 'bottom',
         bbox = dict(boxstyle = 'round,pad=0.5', fc = 'yellow', alpha = 0.5),
         arrowprops = dict(arrowstyle = '->', connectionstyle = 'arc3,rad=0'))          
         
-def sm_plot_ukr_base(file,geo,clat,clon,zoom):
+def sm_plot_ukr_base(file,geo,clat,clon,zoom,ax):
     df = np.array(pd.read_csv(file,header=None))
     df[:, [1, 0]] = df[:, [0, 1]]
-    sm.plot_countries(clat,clon,zoom,outcolor='lavenderblush')
-    sm.plot_line(df,color='red')
+    sm.plot_countries(clat,clon,zoom=zoom,ax=ax,outcolor='lavenderblush')
+    sm.plot_line(df,ax,color='red')
     
     df = np.array(pd.read_csv('ukrdata/donetsk.csv',header=None))
-    sm.plot_line(df,color='pink')
-    plt.text(37,48,'Donetsk',color='gray')
+    sm.plot_line(df,ax,color='pink')
+    ax.text(37,48,'Donetsk',color='gray')
 
     df = np.array(pd.read_csv('ukrdata/kherson.csv',header=None))
-    sm.plot_line(df,color='pink')
-    plt.text(33,46.5,'Kherson',color='gray')
+    sm.plot_line(df,ax,color='pink')
+    ax.text(33,46.5,'Kherson',color='gray')
 
     df = np.array(pd.read_csv('ukrdata/zaporizhia.csv',header=None))
-    sm.plot_line(df,color='pink')
-    plt.text(35,47,'Zaporizhia',color='gray')
-
-    plt.text(38.3,49,'Luhansk',color='gray')
+    sm.plot_line(df,ax,color='pink')
+    ax.text(35,47,'Zaporizhia',color='gray')
+    ax.text(38.3,49,'Luhansk',color='gray')
     
 
 def plot_africa_ru_us(ru,us):
