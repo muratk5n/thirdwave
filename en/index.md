@@ -16,59 +16,115 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-Freight Waves: "ACT Expo a coming of age for hydrogen-powered
-trucking... A parade of significant hydrogen-related announcements
-began even before what has become a must-attend event that outgrew its
-Long Beach, California, venue. Toyota Motor North America (TMNA),
-which doesn’t make commercial trucks, confirmed production later this
-year of a heavy-duty fuel cell system at its Kentucky manufacturing
-complex"
+Al-Monitor: "Iran's SAIPA signs $497 million car deal with Russia, Belarus"
 
 ---
 
-"Wall Street Memes
-
-The Fed raises interest rates by another 0.25%"
-
-[Link](https://s3.masto.ai/media_attachments/files/110/309/286/885/341/443/original/a1651f8fcc0dc3bf.jpg)
-
----
-
-Arab News: "Police across Europe arrested more than 100 people on
-Wednesday in a crackdown that dealt a “serious blow” to the Italian
-‘Ndrangheta mafia, with suspects accused of drugs and weapons
-trafficking with counterparts in Latin America"
+Trillion dollar industry BTW, people in it look *employed* and the
+businesses they are in get *credit*. "To look after old people we need
+more young workers", then they go into this business.. What kind of
+bizarro system is this? You might as well pay people to dig up holes
+and re-fill them (basically just give them effin money).
 
 ---
 
-TASS: "On Monday, Scholz said that it was important for Western
-weapons not to be used for strikes on Russian territory. According to
-him, Germany won’t take unilateral steps on the issue of arms
-deliveries to Ukraine to avoid escalation between NATO and Russia"
+Is there *anything* this shit is good for? Nutritious value = zero.
+Potential health damage = high. "Well but there is water in it that is
+kinda good?" No. It causes dedydration \\(ツ)/ eyyy (medi shrug™).
+
+"A can of soda may seem to quench your thirst, but the caffeine
+contained in most popular drinks is a diuretic, which can cause
+dehydration. The high levels of sodium and sugar in soda can also
+contribute to dehydration"
 
 ---
 
-I lived near Hudson River for a while... I joked earlier in other
-posts four-eyed fish, one-legged frog etc, those weren't just random
-burns, I'd hear that stuff from the natives of the area. RFKj's version
-of HR history was interesting - had some successes but ultimately
-crony capitalism [won](https://youtu.be/RVOCFci_3rM?t=2428).
+Why bother half of it will be under water w 7m water level
+rise.. You'll be confined to a 100m radius circle but hey, maybe you
+can get billionaire friends and do a big circle jerk there in keeping
+up with the spirit of the place
+
+"Billionaire Stephen Deckoff buys Jeffrey Epstein's private islands"
 
 ---
 
-Increased cases of astma, autism; industrial polution is to blame? \#RFKJr
-It is surprising for foreigners so many ppl in US have bizarre medical
-conditions compared to developing countries. Some chalk it up to US
-improved med tech diagnosis but the culprit could be elsewhere.
+TASS: "Russian forces wipe out two Ukrainian mortar teams in Kherson
+area"
 
 ---
 
-This is good to hear
+<img width='340' src='https://aipp.silverchair-cdn.com/aipp/content_public/cms/online/42290/20190405_163923.jpg?Expires=2147483647&Signature=iSp~tTUK3O-5zRMv31W1LZI3ifJA3BMQdrccWB1HsJ8-3tHVfm7EVvDvDV8jxKGQZtfcrv-6~4Tyuzo3egtCvzTnSKQBYcucKcnZxK8zAZqJqKfwoZPP3PO1efDWIzG~lsAhYA6yk~Dg96r6nAbTRK4CuKATlpk6udGX8GfaXsfO25AMounJZAzRpmQgkotAQRKy9FPrnkBXmsB37G~2wzURBlMKD~SP-qNn1o1MTRLu0oDZE5quEbcPL54rbAed1UnkSJSEn87dAYG45mMeS3QrHzkWW-2XPxHKe~n9Bzt6MWPNcFnT3js~PZsKdC~T6LUxmcAwiv6JAGtESadoBQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA'/> 
 
-The Independent: "Albanese says nothing served by US still pursuing
-Assange.. Australian Prime Minister Anthony Albanese has expressed
-frustration at the United States’ continuing efforts to extradite
-WikiLeaks founder Julian Assange"
+Physics Today: "A water-splitting reactor, located in the parabolic
+dish at its focal spot.. is solar powered and also.. generates
+heat... The system collects and concentrates solar light with a
+7-m-diameter parabolic dish (shown above and in a simplified schematic
+below). Installed on the EPFL’s main campus, it tracks the Sun’s
+movement across the sky. A steady stream of tap water is then sent to
+the reactor’s electrolyzer subsystem, where it’s split with solar
+energy to generate hydrogen. Before reaching the electrolyzer, the
+water is heated as it passes through the solar reactor—specifically, a
+light homogenizer, photovoltaic module, and light shield. The
+researchers intentionally designed the system to generate heat, which
+not only accelerates the water-splitting reaction but also can be used
+for warming water and other elements.
+
+<img width='340' src='https://aipp.silverchair-cdn.com/aipp/content_public/cms/online/42290/fig1ab.jpg?Expires=2147483647&Signature=3K-BAhm5Q6Njb3oHWtGFeFvPvn8nuxDQXXb4MTYKI3tczj7S~anC4m83qt4Vc0sU19k2ZoWOx95fg46tnF7NbGEqmjtOWpfwiVmoQRaHM1VJJRJogWl0xNL8qJPLsAcXrLS3r1CgT5aUpPX2KTEuOVA89nT4IFdpic1Sbc0XvLmFFJGgySFLb0GfenPVJFGQWO1CNdQtgwzEfaPtzmfxAlUWOcUoR1ONuns8Qtxzx-3GzwgPsxnYfgjh-NTCnaOZmJR0qM86zVefZsmGSa0dyKR4LCkSxqBMfeder9hO6I9tLK7zjWH6gXjhmhN0NoV0yvoDcKfQocJP3mv-J-UvZQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA'/>
+
+Haussener and coauthor Saurabh Tembhurne have founded an energy
+company called SoHHytec and are now developing a prototype system
+based on their design that simultaneously produces hydrogen, oxygen,
+electricity, and heat. They’re also designing it so that multiple
+systems can be linked to scale to the energy demands of the
+application"
+
+[[-]](https://pubs.aip.org/physicstoday/online/42290)
+
+---
+
+The Japanese Times: "China takes the yuan global in bid to repel a
+weaponized dollar.. President Xi Jinping's government has been busy
+striking deals over the past year to expand the ways in which the
+currency is used"
+
+---
+
+Michigan Live "Michigan lands $400 million hydrogen fuel
+‘gigafactory,’ Whitmer announces.. 
+
+<img width='340' src='https://www.mlive.com/resizer/C-_pmlcl9TZLEOBoTCzSxULFLCc=/800x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2DIXDQMA5RHSXJ3VSPR76WN6JI.JPG'/> 
+
+Governor Gretchen Whitmer takes a ride on the Flint MTA’s new hydrogen
+fuel cell bus on Wednesday, April 26, 2023, at a Mass Transit
+Authority facility in Grand Blanc Township. Flint will be replacing
+its last two diesel buses with hydrogen fuel cell powered buses
+completing its transition to clean energy public transportation"
+
+---
+
+The Detroit News: "The [$400 million] project from Nel Hydrogen,
+intended to produce renewable hydrogen, would be the largest of its
+kind in the country and is expected to create 500 jobs at a
+still-undecided site in southeast Michigan. Nel CEO Håkon Volldal said
+the company had decided to build another plant in the United States
+because of new federal incentives passed through the Inflation
+Reduction Act"
+
+---
+
+AP: "[Australian Prime Minister] Albanese’s comments Friday in an
+Australian Broadcasting Corp. interview appeared to escalate
+diplomatic pressure on the United States to drop the charges against
+the 51-year-old Assange, who has spent four years in Britain’s
+Belmarsh Prison fighting extradition to the United States. Before
+that, Assange had taken asylum for seven years in the Ecuadorian
+Embassy in London.
+
+Albanese said Assange’s case had to be examined in terms of whether
+the time Assange had “effectively served” was in excess of what would
+be 'reasonable' if the allegations against him were proved. ''I just
+say that enough is enough. There is nothing to be served by his
+ongoing incarceration,' Albanese said"
 
 ---
 

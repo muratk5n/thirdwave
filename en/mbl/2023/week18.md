@@ -1,5 +1,61 @@
 # Week 18
 
+Freight Waves: "ACT Expo a coming of age for hydrogen-powered
+trucking... A parade of significant hydrogen-related announcements
+began even before what has become a must-attend event that outgrew its
+Long Beach, California, venue. Toyota Motor North America (TMNA),
+which doesn’t make commercial trucks, confirmed production later this
+year of a heavy-duty fuel cell system at its Kentucky manufacturing
+complex"
+
+---
+
+"Wall Street Memes
+
+The Fed raises interest rates by another 0.25%"
+
+[Link](https://s3.masto.ai/media_attachments/files/110/309/286/885/341/443/original/a1651f8fcc0dc3bf.jpg)
+
+---
+
+Arab News: "Police across Europe arrested more than 100 people on
+Wednesday in a crackdown that dealt a “serious blow” to the Italian
+‘Ndrangheta mafia, with suspects accused of drugs and weapons
+trafficking with counterparts in Latin America"
+
+---
+
+TASS: "On Monday, Scholz said that it was important for Western
+weapons not to be used for strikes on Russian territory. According to
+him, Germany won’t take unilateral steps on the issue of arms
+deliveries to Ukraine to avoid escalation between NATO and Russia"
+
+---
+
+I lived near Hudson River for a while... I joked earlier in other
+posts four-eyed fish, one-legged frog etc, those weren't just random
+burns, I'd hear that stuff from the natives of the area. RFKj's version
+of HR history was interesting - had some successes but ultimately
+crony capitalism [won](https://youtu.be/RVOCFci_3rM?t=2428).
+
+---
+
+Increased cases of astma, autism; industrial polution is to blame? \#RFKJr
+It is surprising for foreigners so many ppl in US have bizarre medical
+conditions compared to developing countries. Some chalk it up to US
+improved med tech diagnosis but the culprit could be elsewhere.
+
+---
+
+This is good to hear
+
+The Independent: "Albanese says nothing served by US still pursuing
+Assange.. Australian Prime Minister Anthony Albanese has expressed
+frustration at the United States’ continuing efforts to extradite
+WikiLeaks founder Julian Assange"
+
+---
+
 Forbes: "In Europe and the U.S., the green hydrogen boom is exploding...
 
 • In January 2023, a Norwegian company announced a $4.3 billion
