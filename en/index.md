@@ -67,10 +67,10 @@ are intertwined, are always on the move.
 ---
 
 Culture is about numbers and proximity due to its subconcious
-transmission. By numbers I'm talking big numbers, state-level big, or
-a country level big as in Europe. Millions of Lithuenians in US living
-close proximity in one state can maintain culture. Interspersed among
-the larger populace they cannot. They could create ritual around their
+transmission. By numbers I'm talking big numbers, US state-level big,
+or a country level big. Millions of Lithuenians in US living close
+proximity in one state can maintain culture. Interspersed among the
+larger populace they cannot. They could create ritual around their
 culture to maintain it mumble stupid shit to themselves in Lithuenian
 prayers put funky Lithuenian hats on their heads, it won't work.
 
