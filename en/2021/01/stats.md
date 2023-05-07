@@ -502,6 +502,7 @@ plt.axvline(x='13-03-2023',color='y',linestyle='dashed')
 plt.savefig('fedbalance.jpg',quality=50)
 ```
 
+![](fedbalance.jpg)
 
 <a name="vix"></a>
 
