@@ -47,7 +47,7 @@ proof than what has already taken place. New money creation needs to
 be split at the very least, evenly between credit and direct
 assistance. If that means a reduction in "business activity", that
 might be a good thing. Less Coca-Cola, more fruits and vegetables
-perhaps. Less private property more public parks. Who kwows?
+perhaps. Less private property more public parks. Who knows?
 
 
 ---
