@@ -386,7 +386,7 @@ together, you get six.
 
 ```python
 cs = ['BM Railway','Khromove','Levanevskoho St']
-u.sm_plot_ukr('ukrdata/fl-0501.csv','ukrdata/fl-0426.csv',cs,clat=48.585,clon=37.98,zoom=0.005)
+u.sm_plot_ukr1('ukrdata/fl-0501.csv','ukrdata/fl-0426.csv',cs,clat=48.585,clon=37.98,zoom=0.005)
 ```
 
 <img width='340' src='ukr-12.jpg'/> 

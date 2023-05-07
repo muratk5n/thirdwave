@@ -214,7 +214,7 @@ people trapped in that larger cauldron.
 
 ```python
 ps = ["Kramatorsk","Bakhmut","Chasiv Yar","Soledar","Kostyantynivka","Orikhovo-Vasylivka"]
-u.sm_plot_ukr('ukrdata/fl-0304.csv','ukrdata/fl-221115.csv', ps,clat=48.6,clon=37.8,zoom=0.06)
+u.sm_plot_ukr1('ukrdata/fl-0304.csv','ukrdata/fl-221115.csv', ps,clat=48.6,clon=37.8,zoom=0.06)
 ```
 
 <img width='340' src='ukr-3.jpg'/> 
@@ -441,7 +441,7 @@ Macron Africa speech from 2017 references Thomas Sankara.
 Bakhmut is in trouble, gray line is old frontline, red line is new
 
 ```python
-u.sm_plot_ukr('ukrdata/fl-0304.csv','ukrdata/fl-221115.csv',["Kramatorsk","Bakhmut"],clat=48.5,clon=37.7,zoom=0.06)
+u.sm_plot_ukr1('ukrdata/fl-0304.csv','ukrdata/fl-221115.csv',["Kramatorsk","Bakhmut"],clat=48.5,clon=37.7,zoom=0.06)
 ```
 
 <img width='340' src='ukr-2.jpg'/> 

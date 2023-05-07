@@ -225,7 +225,7 @@ RU frontline changes in the past 6 days
 
 ```python
 cs = ['Bakhmut Center','BM Railway','Khromove']
-u.sm_plot_ukr('ukrdata/fl-0426.csv','ukrdata/fl-0420.csv',cs,clat=48.585,clon=37.98,zoom=0.005)
+u.sm_plot_ukr1('ukrdata/fl-0426.csv','ukrdata/fl-0420.csv',cs,clat=48.585,clon=37.98,zoom=0.005)
 ```
 
 <img width='340' src='ukr-11.jpg'/> 

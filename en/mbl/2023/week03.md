@@ -144,7 +144,7 @@ something from there perhaps, with plans of pushing towards the north.
 ```python
 geo = [['Soledar',48.68207521, 38.0896357,(5,20)],
        ['Bakhmut',48.59681687, 37.9957181,(-20,0)]]
-u.sm_plot_ukr('ukrdata/fl-0116.csv','ukrdata/fl-221115.csv',geo)
+u.sm_plot_ukr1('ukrdata/fl-0116.csv','ukrdata/fl-221115.csv',geo)
 ```
 
 <img width="340" src="ukr-1.jpg"/>

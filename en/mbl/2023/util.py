@@ -33,7 +33,7 @@ def sm_plot_ukr2(file,oldfile):
     sm_plot_ukr(file,oldfile,['Zaporizhzhya Nuclear Power Plant'],clat,clon,zoom=0.2,ax=ax[1,2])
     sm.plot_water(clat,clon,zoom=zoom,ax=ax[1,2])
     
-def sm_plot_ukr(file,oldfile,geo,clat=48,clon=37,zoom=0.6,ax=None):
+def sm_plot_ukr1(file,oldfile,geo,clat=48,clon=37,zoom=0.6,ax=None):
     if not ax: fig, ax = plt.subplots() 
     cities = json.loads(open("ukrdata/cities.json").read())
     sm_plot_ukr_base(file,geo,clat,clon,zoom,ax) 

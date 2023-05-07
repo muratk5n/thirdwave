@@ -104,7 +104,7 @@ Latest RU advances in the western BM
 
 ```python
 cs = ['Bakhmut Center','BM Railway','Peremogi St']
-u.sm_plot_ukr('ukrdata/fl-0420.csv', 'ukrdata/fl-0416.csv',cs,clat=48.59,clon=37.98,zoom=0.005)
+u.sm_plot_ukr1('ukrdata/fl-0420.csv', 'ukrdata/fl-0416.csv',cs,clat=48.59,clon=37.98,zoom=0.005)
 ```
 
 <img width='340' src='mbl/2023/ukr-10.jpg'/> 
@@ -408,7 +408,7 @@ Serebryanka.
 
 ```python
 ps = ['Bakhmut','Serebryanka','Krasnopolivka','Blahodatne']
-u.sm_plot_ukr('ukrdata/fl-0416.csv','ukrdata/fl-221115.csv',ps,clat=48,clon=37,zoom=0.1)
+u.sm_plot_ukr1('ukrdata/fl-0416.csv','ukrdata/fl-221115.csv',ps,clat=48,clon=37,zoom=0.1)
 ```
 
 [[-]](ukr-9.jpg)
@@ -419,7 +419,7 @@ Russia now has the Bakhmut railway
 
 ```python
 ps = ['Bakhmut Center','BM Railway']
-u.sm_plot_ukr('ukrdata/fl-0416.csv','ukrdata/fl-0411.csv',ps,clat=48.59,clon=37.98,zoom=0.05)
+u.sm_plot_ukr1('ukrdata/fl-0416.csv','ukrdata/fl-0411.csv',ps,clat=48.59,clon=37.98,zoom=0.05)
 ```
 
 [[-]](ukr-8.jpg)
