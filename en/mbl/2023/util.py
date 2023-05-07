@@ -18,23 +18,23 @@ def sm_plot_ukr2(file,oldfile):
     ax[0].set_title("Bakhmut")
     sm_plot_ukr(file,oldfile,cs,clat,clon,zoom=zoom,ax=ax[0])
 
-    zoom = 0.2;clat=47.6;clon=35.124039
+    zoom = 0.2;clat=47.6;clon=35.124
     cs = ['Zaporizhzhya Nuclear Power Plant']
     ax[1].set_title("Zaporizhzhia")
     sm_plot_ukr(file,oldfile,cs,clat,clon,zoom=zoom,ax=ax[1])
     sm.plot_water(clat,clon,zoom=zoom,ax=ax[1])
 
-    zoom = 0.05
+    zoom = 0.05;clat=49.2;clon=38
     cs = ['Ploschchanka']
     ax[2].set_title("Kharkiv")
-    sm_plot_ukr(file,oldfile,cs,49.2, clon=38,zoom=zoom,ax=ax[2])
+    sm_plot_ukr(file,oldfile,cs,clat,clon,zoom=zoom,ax=ax[2])
 
     zoom = 0.05;clat=48.5;clon=38
     cs = ['Nykyforivka','Orikhovo-Vasylivka']
     ax[3].set_title("Luhansk")
     sm_plot_ukr(file,oldfile,cs,clat,clon,zoom=zoom,ax=ax[3])
 
-    zoom = 0.1; clat=46.64014844529867; clon=32.62487177633415
+    zoom = 0.1; clat=46.6401; clon=32.62487
     cs = ['Kherson']
     ax[4].set_title("Kherson")    
     sm_plot_ukr(file,oldfile,cs,clat=clat,clon=clon,zoom=zoom,ax=ax[4])

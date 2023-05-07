@@ -130,11 +130,11 @@ plt.savefig('quits.png')
 
 ```text
 DATE
-2022-10-01    2.6
 2022-11-01    2.7
 2022-12-01    2.6
 2023-01-01    2.5
 2023-02-01    2.6
+2023-03-01    2.5
 Name: JTSQUR, dtype: float64
 ```
 
@@ -156,10 +156,10 @@ plt.savefig('wages.png')
 
 ```text
 DATE
-2022-01-01    4.982699
-2022-04-01    5.692730
-2022-07-01    5.266712
-2022-10-01    5.140187
+2022-04-01    5.696637
+2022-07-01    5.270270
+2022-10-01    5.136758
+2023-01-01    5.072464
 Name: wagegrowth, dtype: float64
 ```
 
@@ -176,16 +176,17 @@ print (df.tail(4))
 plt.title("Initial Unemployment Claims")
 plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
 plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
+plt.ylim(0,1e6)
 plt.savefig('icsa.png')
 ```
 
 ```text
               ICSA
 DATE              
-2023-03-11  230000
-2023-03-18  247000
-2023-03-25  246000
-2023-04-01  228000
+2023-04-08  240000
+2023-04-15  246000
+2023-04-22  229000
+2023-04-29  242000
 ```
 
 ![](icsa.png)
@@ -340,10 +341,10 @@ plt.savefig('profitmargin.png')
 ```text
                   CP    FINSLC1         PM
 DATE                                      
-2022-01-01  2833.431  19669.845  14.404948
 2022-04-01  3043.114  19735.891  15.419187
 2022-07-01  2890.812  19954.225  14.487218
-2022-10-01  2890.812  20013.717  14.444153
+2022-10-01  2721.294  20008.444  13.600728
+2023-01-01  2721.294  20175.662  13.488004
 ```
 
 ![](profitmargin.png)
@@ -361,46 +362,14 @@ plt.savefig('sp500-earnings.png')
 ```text
             SP 500 Earnings
 Date                       
-2022-05-31           199.82
-2022-06-30           195.20
-2022-07-31           193.47
-2022-08-31           191.78
-2022-09-30           189.62
+2022-08-31           192.42
+2022-09-30           190.25
+2022-10-31           184.64
+2022-11-30           179.99
+2022-12-31           175.68
 ```
 
 ![](sp500-earnings.png)
-
-SP 500 Earnings Per Share
-
-```python
-import pandas as pd, urllib.request as urllib2, io
-url = "https://www.spglobal.com/spdji/en/documents/additional-material/sp-500-eps-est.xlsx"
-hdr = {'User-Agent':'Mozilla/5.0'}
-req = urllib2.Request(url,headers=hdr)
-file = io.BytesIO(urllib2.urlopen(req).read())
-df = pd.read_excel(file,sheet_name="QUARTERLY DATA",skiprows=6,header=None)
-df.columns = ['date','op_ex_ps','eps','cash_div_ps','sales_ps','book_val_ps','capex_ps','price','divisor']
-df = df.set_index(pd.to_datetime(df.date))
-print (df['eps'].head(4))
-
-df['eps'].plot()
-plt.axvspan('01-09-1990', '01-07-1991', color='y', alpha=0.5, lw=0)
-plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
-plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
-plt.axvspan('02-01-2020', '05-01-2020', color='y', alpha=0.5, lw=0)
-plt.savefig('sp500-eps.png')
-```
-
-```text
-date
-2023-03-31      NaN
-2022-12-31    39.61
-2022-09-30    44.41
-2022-06-30    42.74
-Name: eps, dtype: float64
-```
-
-![](sp500-eps.png)
 
 ## Finance
 
@@ -446,10 +415,10 @@ plt.savefig('wilshire.png')
 ```text
             WILL5000IND
 DATE                   
-2023-04-06       203.20
-2023-04-07          NaN
-2023-04-10       203.64
-2023-04-11       203.84
+2023-05-01       206.15
+2023-05-02       203.55
+2023-05-03       202.36
+2023-05-04       200.85
 ```
 
 ![](wilshire.png)
@@ -499,9 +468,9 @@ plt.savefig('treasuries.png')
 ```text
             DGS3MO  DGS2  DGS10  FEDFUNDS
 DATE                                     
-2023-04-07    4.95  3.97   3.39      4.65
-2023-04-10    5.08  4.00   3.41      4.65
-2023-04-11    5.04  4.03   3.43      4.65
+2023-05-02    5.24  3.97   3.44      4.83
+2023-05-03    5.26  3.89   3.38      4.83
+2023-05-04    5.26  3.75   3.37      4.83
 ```
 
 ![](treasuries.png)
@@ -519,6 +488,20 @@ plt.savefig('tcurve.jpg',quality=50)
 ```
 
 ![](tcurve.jpg)
+
+<a name="fedbalance"></a>
+
+The FED Balance Sheet and SP500
+
+```python
+df = u.get_fred(2020,['SP500','WALCL'])
+df.columns = ['SP500','FED Total Assets']
+df = df.interpolate()
+u.two_plot(df, df.columns[0],df.columns[1])
+plt.axvline(x='13-03-2023',color='y',linestyle='dashed')
+plt.savefig('fedbalance.jpg',quality=50)
+```
+
 
 <a name="vix"></a>
 
