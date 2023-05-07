@@ -13,7 +13,22 @@ pd.set_option('display.max_columns', None)
 
 
 
+47.78053057704841, 37.24655291539728
+   vuhledar
+47.94145650439916, 37.507118165279365
+   marinka
+48.09170718659994, 37.61045940066837
+   pervoaiske
+49.04268923078684, 38.214576529855634
+   kremminna
 
+
+
+
+```python
+u.sm_plot_ukr2('ukrdata/fl-0501.csv','ukrdata/fl-0304.csv')
+plt.savefig('/tmp/out.jpg',quality=40)
+```
 
 
 

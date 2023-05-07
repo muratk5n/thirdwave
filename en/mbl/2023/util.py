@@ -10,35 +10,28 @@ from pandas_datareader import data, wb
 from io import BytesIO
 
 def sm_plot_ukr2(file,oldfile):
-    fig, ax = plt.subplots(5,figsize=(9,13))
+    fig, ax = plt.subplots(2,3,figsize=(12, 6))
     fig.tight_layout(pad=2.0)
-    # fronts: Donetsk, Zaporizhzhia, Kharkiv, Kherson, Luhansk,
-    zoom = 0.01;clat=48.59;clon=37.98
-    cs = ['Khromove','Bakhmut']
-    ax[0].set_title("Bakhmut")
-    sm_plot_ukr(file,oldfile,cs,clat,clon,zoom=zoom,ax=ax[0])
+    zoom = 0.01
 
-    zoom = 0.2;clat=47.6;clon=35.124
-    cs = ['Zaporizhzhya Nuclear Power Plant']
-    ax[1].set_title("Zaporizhzhia")
-    sm_plot_ukr(file,oldfile,cs,clat,clon,zoom=zoom,ax=ax[1])
-    sm.plot_water(clat,clon,zoom=zoom,ax=ax[1])
+    clat=47.78053057704841;clon=37.24655291539728
+    sm_plot_ukr(file,oldfile,['Vuhledar'],clat,clon,zoom=zoom,ax=ax[0,0])
 
-    zoom = 0.05;clat=49.2;clon=38
-    cs = ['Ploschchanka']
-    ax[2].set_title("Kharkiv")
-    sm_plot_ukr(file,oldfile,cs,clat,clon,zoom=zoom,ax=ax[2])
+    clat=47.94145650439916;clon=37.507118165279365
+    sm_plot_ukr(file,oldfile,['Marinka'],clat,clon,zoom=zoom,ax=ax[0,1])
 
-    zoom = 0.05;clat=48.5;clon=38
-    cs = ['Nykyforivka','Orikhovo-Vasylivka']
-    ax[3].set_title("Luhansk")
-    sm_plot_ukr(file,oldfile,cs,clat,clon,zoom=zoom,ax=ax[3])
+    clat=48.09170718659994;clon=37.61045940066837
+    sm_plot_ukr(file,oldfile,['Pervomaiske'],clat,clon,zoom=zoom,ax=ax[1,0])
 
-    zoom = 0.1; clat=46.6401; clon=32.62487
-    cs = ['Kherson']
-    ax[4].set_title("Kherson")    
-    sm_plot_ukr(file,oldfile,cs,clat=clat,clon=clon,zoom=zoom,ax=ax[4])
+    clat=49.04201323402742;clon=38.21594879135994
+    sm_plot_ukr(file,oldfile,['Kreminna'],clat,clon,zoom=0.1,ax=ax[1,1])
 
+    clat=48.59;clon=37.98
+    sm_plot_ukr(file,oldfile,['Khromove','Bakhmut'],clat,clon,zoom=0.01,ax=ax[0,2])
+
+    clat=clat=47.6;clon=35.124
+    sm_plot_ukr(file,oldfile,['Zaporizhzhya Nuclear Power Plant'],clat,clon,zoom=0.2,ax=ax[1,2])
+    sm.plot_water(clat,clon,zoom=zoom,ax=ax[1,2])
     
 def sm_plot_ukr(file,oldfile,geo,clat=48,clon=37,zoom=0.6,ax=None):
     if not ax: fig, ax = plt.subplots() 
