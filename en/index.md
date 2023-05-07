@@ -44,10 +44,10 @@ people will kill you. With money they can buy influence, pollute your
 rivers, your children's brains, even the very air your
 breathe. They've already done this. Noone should require any more
 proof than what has already taken place. New money creation needs to
-be split at the very least, evenly between credit and salary. If that
-means reduction in "business activity", that might be a good
-thing. Less Coca-Cola, more fruits and vegetables perhaps. Less private
-property more public parks. Who kwows? 
+be split at the very least, evenly between credit and direct
+assistance. If that means a reduction in "business activity", that
+might be a good thing. Less Coca-Cola, more fruits and vegetables
+perhaps. Less private property more public parks. Who kwows?
 
 
 ---
