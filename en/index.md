@@ -30,8 +30,8 @@ u.sm_plot_ukr2('ukrdata/fl-0501.csv','ukrdata/fl-0304.csv')
 "Downstream benefits of business activity".. how do you measure that?
 In terms of fish in the Hudson River? Such activity clearly did not
 work for them, or for people who lived off the river. This the most
-advanced country in the world. I wouldn't have believed it if I hadn't
-lived near the fucking thing myself. 
+advanced country in the world, mind you. I wouldn't have believed it
+if I hadn't lived near the fucking thing myself.
 
 ---
 
