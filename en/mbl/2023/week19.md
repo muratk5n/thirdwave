@@ -7,7 +7,7 @@ RU frontline changes in the past two months, multiple regions
 u.sm_plot_ukr2('ukrdata/fl-0501.csv','ukrdata/fl-0304.csv')
 ```
 
-[[-]](mbl/2023/ukr-13.jpg)
+[[-]](ukr-13.jpg)
 
 ---
 
@@ -74,7 +74,7 @@ and decreasing stock market (replicated below). There was a brief
 uptick in the balance due to the banking crisis (dashed line) markets
 rallied, ppl thought it was to time to parteh
 
-[[-]](2021/01/stats.html#fedbalance)
+[[-]](../../2021/01/stats.html#fedbalance)
 
 ---
 
