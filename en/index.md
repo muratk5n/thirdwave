@@ -62,9 +62,9 @@ Informed Comment: "Tunisia Doubles Down on Democratic Rollback"
 
 ---
 
-That wld mean a return to 2010 pre-war conditions. Is that a big deal?
-He should have those "concessions" considering many other countries
-contributed to the mess that is now.
+A high-price as in concession that would lead to a return of pre-war
+conditions? Is that a big deal? He should have those concessions
+considering many other countries contributed to the mess that is now.
 
 Al-Monitor: "Assad will demand high price for return of refugees"
 
