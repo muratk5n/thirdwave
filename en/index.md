@@ -73,8 +73,8 @@ Al-Monitor: "Assad will demand high price for return of refugees"
 
 "The turning point in the American-Iranian relationship was not, as
 the official version would have it, the election of Hassan Rouhani in
-June 2013. It was the reelection of Barack Obama in November
-2012. Indeed, the first secret meeting with the Iranians.. took place
+June 2013. It was the reelection of Barack Obama in November 2012. 
+Indeed, the first secret meeting with the Iranians.. took place
 even earlier, in early July 2012, eleven months before Rouhani came to
 power. Jake Sullivan.. traveled secretly to Oman to meet with Iranian
 officials...  Most pertinent is the timing. At that moment, pressure
