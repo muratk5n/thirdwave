@@ -38,14 +38,14 @@ general election after the Tories were hammered in local polls"
 
 ---
 
-The events that led to this point were crazy; the meatgrinder of
-Brexit destroyed one politician after another, finally ending up with
-Sunak at that coronation. Tories will be trounced in the next general
-due to previous chaos unrelated with Sunak, but at least there will be
-some competency in the office, your country will not burn in this last
-stretch of conservative government. Hey it could have been Lettuce Liz
-at that coronation - label pinned by the colorful Brit media, meaning
-a lettuce would outlast the former PM -they were proven right-.
+The meatgrinder of Brexit destroyed one politician after another,
+finally ending up with Sunak at that coronation. Tories will be
+trounced in the next general due to previous chaos unrelated with
+Sunak, but at least there will be some competency in the office, the
+country will not burn in this last stretch of conservative
+government. Hey it could have been Lettuce Liz at that coronation -
+label pinned by the colorful Brit media, meaning a lettuce would
+outlast the former PM -they were proven right-.
 
 ---
 
