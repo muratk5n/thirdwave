@@ -64,8 +64,7 @@ Informed Comment: "Tunisia Doubles Down on Democratic Rollback"
 
 Return to what? To 2010 pre-war conditions? He should have those
 "concessions" considering many other countries contributed to the
-mess up that is now. I for one don't want millions of f-ing refugees
-in my native homeland. My people are not rich.
+mess that is now. 
 
 Al-Monitor: "Assad will demand high price for return of refugees"
 
@@ -90,8 +89,8 @@ I see Jake Sullivan is speechifying some stuff
 
 ---
 
-Good good.. this is the aimed at result of the 2088-16 White House
-policy BTW let's not forget. 
+Good good.. this is the aimed result of the 2088-16 White House policy
+let's not forget.
 
 Al-Monitor: "Arab League readmits Syria, paving the way for Assad to
 attend Saudi summit"
