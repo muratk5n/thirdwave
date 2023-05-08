@@ -15,22 +15,22 @@ def sm_plot_ukr2(file,oldfile):
     zoom = 0.01
 
     clat=47.78053057704841;clon=37.24655291539728
-    sm_plot_ukr(file,oldfile,['Vuhledar'],clat,clon,zoom=zoom,ax=ax[0,0])
+    sm_plot_ukr1(file,oldfile,['Vuhledar'],clat,clon,zoom=zoom,ax=ax[0,0])
 
     clat=47.94145650439916;clon=37.507118165279365
-    sm_plot_ukr(file,oldfile,['Marinka'],clat,clon,zoom=zoom,ax=ax[0,1])
+    sm_plot_ukr1(file,oldfile,['Marinka'],clat,clon,zoom=zoom,ax=ax[0,1])
 
     clat=48.09170718659994;clon=37.61045940066837
-    sm_plot_ukr(file,oldfile,['Pervomaiske'],clat,clon,zoom=zoom,ax=ax[1,0])
+    sm_plot_ukr1(file,oldfile,['Pervomaiske'],clat,clon,zoom=zoom,ax=ax[1,0])
 
     clat=49.04201323402742;clon=38.21594879135994
-    sm_plot_ukr(file,oldfile,['Kreminna'],clat,clon,zoom=0.1,ax=ax[1,1])
+    sm_plot_ukr1(file,oldfile,['Kreminna'],clat,clon,zoom=0.1,ax=ax[1,1])
 
     clat=48.59;clon=37.98
-    sm_plot_ukr(file,oldfile,['Khromove','Bakhmut'],clat,clon,zoom=0.01,ax=ax[0,2])
+    sm_plot_ukr1(file,oldfile,['Khromove','Bakhmut'],clat,clon,zoom=0.01,ax=ax[0,2])
 
     clat=clat=47.6;clon=35.124
-    sm_plot_ukr(file,oldfile,['Zaporizhzhya Nuclear Power Plant'],clat,clon,zoom=0.2,ax=ax[1,2])
+    sm_plot_ukr1(file,oldfile,['Zaporizhzhya Nuclear Power Plant'],clat,clon,zoom=0.2,ax=ax[1,2])
     sm.plot_water(clat,clon,zoom=zoom,ax=ax[1,2])
     
 def sm_plot_ukr1(file,oldfile,geo,clat=48,clon=37,zoom=0.6,ax=None):
