@@ -31,23 +31,23 @@ u.sm_plot_ukr2('ukrdata/fl-0501.csv','ukrdata/fl-0304.csv')
 In terms of fish in the Hudson River? Such activity clearly did not
 work for them, or for people who lived off the river. This the most
 advanced country in the world, mind you. I wouldn't have believed it
-if I hadn't lived near the fucking thing myself.
+if I hadn't lived near the f-ing thing myself.
 
 ---
 
 There is nothing sacred about work, that is a ruse created for the
-business class so they can remain "in charge" (so they get credit
-which they use to pay salaries). Work should not equal pay. As long as
-new money is created exclusively for business as credit, working class
-and humanity at large will never know peace. Have no doubt - these
-people will kill you. With money they can buy influence, pollute your
-rivers, your children's brains, even the very air your
-breathe. They've already done this. Noone should require any more
-proof than what has already taken place. New money creation needs to
-be split at the very least, evenly between credit and direct
-assistance. If that means a reduction in "business activity", that
-might be a good thing. Less Coca-Cola, more fruits and vegetables
-perhaps. Less private property more public parks. Who knows?
+business class so they can remain "in charge" (to get credit which
+they use to pay salaries). Work should not equal pay. As long as new
+money is created exclusively for business as credit, working class and
+humanity at large will never know peace. Have no doubt - these people
+will kill you. With money they can buy influence, pollute your rivers,
+your children's brains, even the very air your breathe. They've
+already done this. Noone should require any more proof than what has
+already taken place. New money creation needs to be split at the very
+least, evenly between credit and direct assistance. If that means a
+reduction in "business activity", that might be a good thing. Less
+Coca-Cola, more fruits and vegetables perhaps. Less private property
+more public parks. Who knows?
 
 
 ---
