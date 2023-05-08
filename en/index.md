@@ -51,7 +51,7 @@ outlast the former PM -they were proven right-.
 
 "UK multiculturalism" where your PM of Indian ethnic origin (who is
 culturally English) reads a passage from the bible at the English
-king's coronation. Feel the power of diversity.
+king's coronation. 
 
 ---
 
