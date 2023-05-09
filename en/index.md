@@ -54,8 +54,9 @@ they describe as the 'greed' of publishing giant Elsevier"
 ---
 
 Forget diversity, the world, the West could not even entice AFG to end
-flogging. If AFG recevied proper help they would be producing cotton
-instead of opium.
+flogging. A bad case of mixed-up priorities.. If AFG recevied proper
+help they would be producing cotton now instead of opium. That would
+gain you some chits, then *maybe* there'd be change on other stuff.
 
 AP: "UN urges Afghanistan’s Taliban to end floggings, executions"
 
