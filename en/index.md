@@ -16,102 +16,66 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-
-H2 Bulletin: "South Korea plans to convert more than 250 commuter
-buses intro hydrogen-fuelled buses by this year and more than 2,000 by
-2026, in a concerted effort to raise the uptake of hydrogen vehicles"
-
----
-
-H2 Insight: "Bloom Energy 4MW solid oxide electrolyser begins hydrogen
-production at NASA research centre"
+"Toyota and Hyundai broaden fuel-cell semi plans for US.. The same day
+as Toyota's announcement, Hyundai debuted the version of its Xcient
+Fuel Cell for the U.S. Hyundai in 2021 announced plans to bring this
+Class 8 truck to California for testing. The Xcient Fuel Cell launched
+in 2020 and has already operated in Switzerland, Germany, Israel,
+South Korea, and New Zealand, covering more than 4 million miles so
+far, according to a Hyundai press release"
 
 ---
 
-Euractiv: "UK Labour Party wins big among Brexit supporters in local elections"
+South Coast Register: "South Australia woos backers for green
+hydrogen, steel.. South Australian Premier Peter Malinauskas will
+spruik the state's world-leading green hydrogen project during a
+four-day trade mission in Europe..  The premier will meet potential
+investors in Berlin and Rotterdam before giving a keynote speech at
+the World Hydrogen Summit in the Netherlands"
 
 ---
 
-The Spectator: "Local elections 2023: Tories lose 1000
-councillors.. Starmer says his party is on track to win the next
-general election after the Tories were hammered in local polls"
+Hindustan Times: "US’ 'erroneous words and deeds' to blame for state
+of ties: Chinese FM"
 
 ---
 
-The meatgrinder of Brexit destroyed one politician after another,
-finally ending up with Sunak at that coronation. Tories will be
-trounced in the next general due to previous chaos unrelated with
-Sunak, but at least there will be some competency in the office, the
-country will not burn in this last stretch of conservative
-government. Hey it could have been Lettuce Liz at that coronation -
-label pinned by the colorful Brit media, meaning a lettuce would
-outlast the former PM -they were proven right-.
+Not surprising, the tech is shit
+
+CNBC: "A recent surge of interest in NFTs on Bitcoin has led to
+congestion on the network"
 
 ---
 
-"UK multiculturalism" where your PM of Indian ethnic origin (who is
-culturally English) reads a passage from the bible at the English
-king's coronation. 
+The Guardian: "More than 40 leading scientists have resigned en masse
+from the editorial board of a top science journal in protest at what
+they describe as the 'greed' of publishing giant Elsevier"
 
 ---
 
-The last Arab Spring country, in fact the place where it started, is
-rolling back democratic reforms.
+Forget diversity, the world, the West could not even entice AFG to end
+flogging. If AFG recevied proper help they would be producing cotton
+instead of opium.
 
-Informed Comment: "Tunisia Doubles Down on Democratic Rollback"
-
----
-
-A high-price as in concession that would lead to a return of pre-war
-conditions? Is that a big deal? He should have those concessions
-considering many other countries contributed to the mess that is now.
-
-Al-Monitor: "Assad will demand high price for return of refugees"
+AP: "UN urges Afghanistan’s Taliban to end floggings, executions"
 
 ---
 
-"The turning point in the American-Iranian relationship was not, as
-the official version would have it, the election of Hassan Rouhani in
-June 2013. It was the reelection of Barack Obama in November 2012. 
-Indeed, the first secret meeting with the Iranians.. took place
-even earlier, in early July 2012, eleven months before Rouhani came to
-power. Jake Sullivan.. traveled secretly to Oman to meet with Iranian
-officials...  Most pertinent is the timing. At that moment, pressure
-was mounting on the president to intervene in Syria. Sullivan probably
-briefed the Iranians on Obama’s strong desire to stay out of that
-conflict"
-
-[[-]](https://www.hudson.org/foreign-policy/obama-s-secret-iran-strategy)
+The Guardian: "Pro-Putin businessman emerges as pick to chair Italy's
+biggest energy firm.. Paolo Scaroni is the preferred candidate of the
+ruling coalition government of Giorgia Meloni to chair Enel"
 
 ---
 
-I see Jake Sullivan is speechifying some stuff
+CNBC: "South Korea's finance minister says country is at a 'turning
+point' in relations with Japan"
 
 ---
 
-Good good.. this is the aimed result of the 2088-16 White House policy
-let's not forget.
+"@Hy_Economy@mastodon.social
 
-Al-Monitor: "Arab League readmits Syria, paving the way for Assad to
-attend Saudi summit"
-
----
-
-Politico.eu: "EU to host Armenia-Azerbaijan peace talks"
-
----
-
-Al-Monitor: "EU cancels Israel's Europe Day reception over Ben-Gvir
-participation"
-
----
-
-Euractiv: "Scholz backs African Union bid for G20 seat on second trip
-to continent"
-
----
-
-<iframe width="340" src="https://www.youtube.com/embed/FbPva5y4clM?start=140&end=188" title="Italy&#39;s toxic paradise: The beaches of Rosignano Solvay • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+\#Hydrogen could soon be the cheapest fuel for trucks, according to
+the German business paper *Handelsblatt*"
 
 ---
 

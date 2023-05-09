@@ -1,5 +1,102 @@
 # Week 19
 
+H2 Bulletin: "South Korea plans to convert more than 250 commuter
+buses intro hydrogen-fuelled buses by this year and more than 2,000 by
+2026, in a concerted effort to raise the uptake of hydrogen vehicles"
+
+---
+
+H2 Insight: "Bloom Energy 4MW solid oxide electrolyser begins hydrogen
+production at NASA research centre"
+
+---
+
+Euractiv: "UK Labour Party wins big among Brexit supporters in local elections"
+
+---
+
+The Spectator: "Local elections 2023: Tories lose 1000
+councillors.. Starmer says his party is on track to win the next
+general election after the Tories were hammered in local polls"
+
+---
+
+The meatgrinder of Brexit destroyed one politician after another,
+finally ending up with Sunak at that coronation. Tories will be
+trounced in the next general due to previous chaos unrelated with
+Sunak, but at least there will be some competency in the office, the
+country will not burn in this last stretch of conservative
+government. Hey it could have been Lettuce Liz at that coronation -
+label pinned by the colorful Brit media, meaning a lettuce would
+outlast the former PM -they were proven right-.
+
+---
+
+"UK multiculturalism" where your PM of Indian ethnic origin (who is
+culturally English) reads a passage from the bible at the English
+king's coronation. 
+
+---
+
+The last Arab Spring country, in fact the place where it started, is
+rolling back democratic reforms.
+
+Informed Comment: "Tunisia Doubles Down on Democratic Rollback"
+
+---
+
+A high-price as in concession that would lead to a return of pre-war
+conditions? Is that a big deal? He should have those concessions
+considering many other countries contributed to the mess that is now.
+
+Al-Monitor: "Assad will demand high price for return of refugees"
+
+---
+
+"The turning point in the American-Iranian relationship was not, as
+the official version would have it, the election of Hassan Rouhani in
+June 2013. It was the reelection of Barack Obama in November 2012. 
+Indeed, the first secret meeting with the Iranians.. took place
+even earlier, in early July 2012, eleven months before Rouhani came to
+power. Jake Sullivan.. traveled secretly to Oman to meet with Iranian
+officials...  Most pertinent is the timing. At that moment, pressure
+was mounting on the president to intervene in Syria. Sullivan probably
+briefed the Iranians on Obama’s strong desire to stay out of that
+conflict"
+
+[[-]](https://www.hudson.org/foreign-policy/obama-s-secret-iran-strategy)
+
+---
+
+I see Jake Sullivan is speechifying some stuff
+
+---
+
+Good good.. this is the aimed result of the 2088-16 White House policy
+let's not forget.
+
+Al-Monitor: "Arab League readmits Syria, paving the way for Assad to
+attend Saudi summit"
+
+---
+
+Politico.eu: "EU to host Armenia-Azerbaijan peace talks"
+
+---
+
+Al-Monitor: "EU cancels Israel's Europe Day reception over Ben-Gvir
+participation"
+
+---
+
+Euractiv: "Scholz backs African Union bid for G20 seat on second trip
+to continent"
+
+---
+
+<iframe width="340" src="https://www.youtube.com/embed/FbPva5y4clM?start=140&end=188" title="Italy&#39;s toxic paradise: The beaches of Rosignano Solvay • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
 
 RU frontline changes in the past two months, multiple regions
 
