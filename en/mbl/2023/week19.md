@@ -72,7 +72,7 @@ I see Jake Sullivan is speechifying some stuff
 
 ---
 
-Good good.. this is the aimed result of the 2088-16 White House policy
+Good good.. this is the aimed result of the 2008-16 White House policy
 let's not forget.
 
 Al-Monitor: "Arab League readmits Syria, paving the way for Assad to
