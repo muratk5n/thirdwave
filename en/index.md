@@ -16,67 +16,83 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-"Toyota and Hyundai broaden fuel-cell semi plans for US.. The same day
-as Toyota's announcement, Hyundai debuted the version of its Xcient
-Fuel Cell for the U.S. Hyundai in 2021 announced plans to bring this
-Class 8 truck to California for testing. The Xcient Fuel Cell launched
-in 2020 and has already operated in Switzerland, Germany, Israel,
-South Korea, and New Zealand, covering more than 4 million miles so
-far, according to a Hyundai press release"
+
+Swissinfo.ch: "ABB to build one of Europe’s largest renewable hydrogen
+projects..  produc[ing] around 240 tonnes of hydrogen per day,
+equivalent of around 1.8 million barrels of oil per annum"
 
 ---
 
-South Coast Register: "South Australia woos backers for green
-hydrogen, steel.. South Australian Premier Peter Malinauskas will
-spruik the state's world-leading green hydrogen project during a
-four-day trade mission in Europe..  The premier will meet potential
-investors in Berlin and Rotterdam before giving a keynote speech at
-the World Hydrogen Summit in the Netherlands"
+Latest pseudorandom # gen util take `binascii.hexlify` on `os.urandom`,
+create digest out of `ps gaux` output, append to *that* seconds since
+epoch, `time.time()`, run mod N for music shuffler on N items.
 
 ---
 
-Hindustan Times: "US’ 'erroneous words and deeds' to blame for state
-of ties: Chinese FM"
+Reuters: "Ford to test small UK fleet of hydrogen fuel cell E-Transit
+vans.. Interest in using hydrogen fuel cells to power trucks and vans
+is getting a boost from fleet operators looking for a more practical
+alternative to electric vehicles and rising government aid,
+particularly the U.S. Inflation Reduction Act (IRA)"
+
+---
+Broid can do X11. There are free X-server progs, `ssh -X` and boom,
+your fav Nix editor runs on tablet through X. A sight to see.
 
 ---
 
-Not surprising, the tech is shit
-
-CNBC: "A recent surge of interest in NFTs on Bitcoin has led to
-congestion on the network"
-
----
-
-The Guardian: "More than 40 leading scientists have resigned en masse
-from the editorial board of a top science journal in protest at what
-they describe as the 'greed' of publishing giant Elsevier"
+Switched to NVidia Jetson from Raspberry Pi for portable dev
+platform. RPi choked.. Micro usb->usb cabling, the amperage works so a
+tablet can power the NJ board. Latest btooth keyboard, tablet, SSH
+into Jet, and go karaze typing.
 
 ---
 
-Forget diversity, the world, the West could not even entice AFG to end
-flogging. A bad case of mixed-up priorities.. If AFG recevied proper
-help they would be producing cotton now instead of opium. That would
-gain you some chits, then *maybe* there'd be change on other stuff.
-
-AP: "UN urges Afghanistan’s Taliban to end floggings, executions"
+If "certain Reps" wanted to end empire, the debt ceiling issue could
+do it.  Imagine the country who is at the center of the petrodollar
+system refuses to stand behind their debt, which they could easily
+serve by printing the money. 
 
 ---
 
-The Guardian: "Pro-Putin businessman emerges as pick to chair Italy's
-biggest energy firm.. Paolo Scaroni is the preferred candidate of the
-ruling coalition government of Giorgia Meloni to chair Enel"
+H2 View: "US DOE selects two nuclear-based hydrogen production
+projects for funding"
 
 ---
 
-CNBC: "South Korea's finance minister says country is at a 'turning
-point' in relations with Japan"
+"The lowest poll of the Biden presidency"... there hasn't been much
+change there actually. Net approval of about -10%.. it fluctuated
+around that value it has been for months. 
+
+```
+2023-05-07   -10.604047
+2023-05-08    -9.947167
+2023-05-09   -10.158535
+```
+
+New Scientist: "It takes just four particles of light to jump-start
+photosynthesis in a plant's cells, but the details of what exactly
+happens after the fourth photon is absorbed have eluded researchers -
+until now.. Two teams of researchers have revealed microscopic details
+of how oxygen is formed during photosynthesis, the process by which
+plants, algae and some bacteria harness sunlight to create the energy
+they need to grow. Understanding photosynthesis at this level could
+advance the development of clean fuels"
 
 ---
 
-"@Hy_Economy@mastodon.social
+You ain't never cheat death Focker. You are out of the circle of trust 👌
 
-\#Hydrogen could soon be the cheapest fuel for trucks, according to
-the German business paper *Handelsblatt*"
+---
+
+😂 
+
+WION: "PayPal founder Peter Thiel hopes to cheat death, come back to
+life again"
+
+---
+
+WION: "Melania Trump says she supports Donald Trump's 2024 presidential bid"
 
 ---
 

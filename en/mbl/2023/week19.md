@@ -1,5 +1,69 @@
 # Week 19
 
+"Toyota and Hyundai broaden fuel-cell semi plans for US.. The same day
+as Toyota's announcement, Hyundai debuted the version of its Xcient
+Fuel Cell for the U.S. Hyundai in 2021 announced plans to bring this
+Class 8 truck to California for testing. The Xcient Fuel Cell launched
+in 2020 and has already operated in Switzerland, Germany, Israel,
+South Korea, and New Zealand, covering more than 4 million miles so
+far, according to a Hyundai press release"
+
+---
+
+South Coast Register: "South Australia woos backers for green
+hydrogen, steel.. South Australian Premier Peter Malinauskas will
+spruik the state's world-leading green hydrogen project during a
+four-day trade mission in Europe..  The premier will meet potential
+investors in Berlin and Rotterdam before giving a keynote speech at
+the World Hydrogen Summit in the Netherlands"
+
+---
+
+Hindustan Times: "US’ 'erroneous words and deeds' to blame for state
+of ties: Chinese FM"
+
+---
+
+Not surprising, the tech is shit
+
+CNBC: "A recent surge of interest in NFTs on Bitcoin has led to
+congestion on the network"
+
+---
+
+The Guardian: "More than 40 leading scientists have resigned en masse
+from the editorial board of a top science journal in protest at what
+they describe as the 'greed' of publishing giant Elsevier"
+
+---
+
+Forget diversity, the world, the West could not even entice AFG to end
+flogging. A bad case of mixed-up priorities.. If AFG recevied proper
+help they would be producing cotton now instead of opium. That would
+gain you some chits, then *maybe* there'd be change on other stuff.
+
+AP: "UN urges Afghanistan’s Taliban to end floggings, executions"
+
+---
+
+The Guardian: "Pro-Putin businessman emerges as pick to chair Italy's
+biggest energy firm.. Paolo Scaroni is the preferred candidate of the
+ruling coalition government of Giorgia Meloni to chair Enel"
+
+---
+
+CNBC: "South Korea's finance minister says country is at a 'turning
+point' in relations with Japan"
+
+---
+
+"@Hy_Economy@mastodon.social
+
+\#Hydrogen could soon be the cheapest fuel for trucks, according to
+the German business paper *Handelsblatt*"
+
+---
+
 H2 Bulletin: "South Korea plans to convert more than 250 commuter
 buses intro hydrogen-fuelled buses by this year and more than 2,000 by
 2026, in a concerted effort to raise the uptake of hydrogen vehicles"
