@@ -62,7 +62,7 @@ projects for funding"
 
 "The lowest poll of the Biden presidency"... there hasn't been much
 change there actually. Net approval of about -10%.. it fluctuated
-around that value it has been for months. 
+around that value for months. 
 
 ```
 2023-05-07   -10.604047
