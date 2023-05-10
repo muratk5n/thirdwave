@@ -81,7 +81,8 @@ advance the development of clean fuels"
 
 ---
 
-You ain't never cheat death Focker. You are out of the circle of trust 👌
+You ain't never gonna cheat death Focker. You are out of the circle of
+trust 👌
 
 ---
 
