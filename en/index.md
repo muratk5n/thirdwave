@@ -23,12 +23,6 @@ equivalent of around 1.8 million barrels of oil per annum"
 
 ---
 
-Latest pseudorandom # gen util take `binascii.hexlify` on `os.urandom`,
-create digest out of `ps gaux` output, append to *that* seconds since
-epoch, `time.time()`, run mod N for music shuffler on N items.
-
----
-
 Reuters: "Ford to test small UK fleet of hydrogen fuel cell E-Transit
 vans.. Interest in using hydrogen fuel cells to power trucks and vans
 is getting a boost from fleet operators looking for a more practical
