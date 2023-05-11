@@ -19,8 +19,7 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 Past 10 days
 
 ```python
-clat=48.59;clon=37.96
-u.sm_plot_ukr1('ukrdata/fl-0511.csv','ukrdata/fl-0501.csv',['Khromove','Bakhmut Center'],clat,clon,zoom=0.005)
+u.sm_plot_ukr1('ukrdata/fl-0511.csv','ukrdata/fl-0501.csv',['Khromove','Bakhmut Center'],48.59,37.96,zoom=0.005)
 ```
 
 <img width='340' src='mbl/2023/ukr-14.jpg'/> 
