@@ -12,8 +12,13 @@ pd.set_option('display.max_columns', None)
 
 
 
+
+
+
+
 ```python
-u.sm_plot_ukr2('ukrdata/fl-0508.csv','ukrdata/fl-0501.csv')
+clat=48.59;clon=37.96
+u.sm_plot_ukr1('ukrdata/fl-0511.csv','ukrdata/fl-0501.csv',['Khromove','Bakhmut Center'],clat,clon,zoom=0.005)
 plt.savefig('/tmp/out.jpg',quality=40)
 ```
 
@@ -24,11 +29,18 @@ plt.savefig('/tmp/out.jpg',quality=40)
 
 
 
-
 ```python
-u.sm_plot_ukr2('ukrdata/fl-0501.csv','ukrdata/fl-0304.csv')
+u.sm_plot_ukr1('ukrdata/fl-0511.csv','ukrdata/fl-0501.csv')
 plt.savefig('/tmp/out.jpg',quality=40)
 ```
+
+
+
+
+
+
+
+
 
 
 

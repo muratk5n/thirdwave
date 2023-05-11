@@ -1,5 +1,79 @@
 # Week 19
 
+Swissinfo.ch: "ABB to build one of Europe’s largest renewable hydrogen
+projects..  produc[ing] around 240 tonnes of hydrogen per day,
+equivalent of around 1.8 million barrels of oil per annum"
+
+---
+
+Reuters: "Ford to test small UK fleet of hydrogen fuel cell E-Transit
+vans.. Interest in using hydrogen fuel cells to power trucks and vans
+is getting a boost from fleet operators looking for a more practical
+alternative to electric vehicles and rising government aid,
+particularly the U.S. Inflation Reduction Act (IRA)"
+
+---
+Broid can do X11. There are free X-server progs, `ssh -X` and boom,
+your fav Nix editor runs on tablet through X. A sight to see.
+
+---
+
+Switched to NVidia Jetson from Raspberry Pi for portable dev
+platform. RPi choked.. Micro usb->usb cabling, the amperage works so a
+tablet can power the NJ board. Latest btooth keyboard, tablet, SSH
+into Jet, and go karaze typing.
+
+---
+
+If "certain Reps" wanted to end empire, the debt ceiling issue could
+do it.  Imagine the country who is at the center of the petrodollar
+system refuses to stand behind their debt, which they could easily
+serve by printing the money. 
+
+---
+
+H2 View: "US DOE selects two nuclear-based hydrogen production
+projects for funding"
+
+---
+
+"The lowest poll of the Biden presidency"... there hasn't been much
+change there actually. Net approval of about -10%.. it fluctuated
+around that value for months. 
+
+```
+2023-05-07   -10.604047
+2023-05-08    -9.947167
+2023-05-09   -10.158535
+```
+
+New Scientist: "It takes just four particles of light to jump-start
+photosynthesis in a plant's cells, but the details of what exactly
+happens after the fourth photon is absorbed have eluded researchers -
+until now.. Two teams of researchers have revealed microscopic details
+of how oxygen is formed during photosynthesis, the process by which
+plants, algae and some bacteria harness sunlight to create the energy
+they need to grow. Understanding photosynthesis at this level could
+advance the development of clean fuels"
+
+---
+
+You ain't never gonna cheat death Focker. You are out of the circle of
+trust 👌
+
+---
+
+😂 
+
+WION: "PayPal founder Peter Thiel hopes to cheat death, come back to
+life again"
+
+---
+
+WION: "Melania Trump says she supports Donald Trump's 2024 presidential bid"
+
+---
+
 "Toyota and Hyundai broaden fuel-cell semi plans for US.. The same day
 as Toyota's announcement, Hyundai debuted the version of its Xcient
 Fuel Cell for the U.S. Hyundai in 2021 announced plans to bring this
