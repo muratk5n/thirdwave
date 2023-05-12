@@ -33,7 +33,7 @@ invest in hydrogen-cell tech"
 
 Road networks for entire countries on plain text files. So many
 possibilities. Do a little Djikstra..? U can represent graphs in
-dictinoaries. `diskdict` is your friend. 
+dictionaries. `diskdict` is your friend.
 
 ---
 
