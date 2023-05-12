@@ -6,7 +6,7 @@ Past 10 days
 u.sm_plot_ukr1('ukrdata/fl-0511.csv','ukrdata/fl-0501.csv',['Khromove','Bakhmut Center'],48.59,37.96,zoom=0.005)
 ```
 
-<img width='340' src='mbl/2023/ukr-14.jpg'/> 
+<img width='340' src='ukr-14.jpg'/> 
 
 ---
 
