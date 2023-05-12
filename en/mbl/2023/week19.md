@@ -1,5 +1,90 @@
 # Week 19
 
+Past 10 days
+
+```python
+u.sm_plot_ukr1('ukrdata/fl-0511.csv','ukrdata/fl-0501.csv',['Khromove','Bakhmut Center'],48.59,37.96,zoom=0.005)
+```
+
+<img width='340' src='mbl/2023/ukr-14.jpg'/> 
+
+---
+
+Am currently near the place where the party will be if Tayyeap falls.
+
+---
+
+It's not an easy name to be sure. Some are even worse. I heard of a
+Çeşmecibaşı, four funky letters, that dude gets totally butchered, he
+cld have an identity crisis.
+
+---
+
+MSM keeps butchering TR opposition leader Kilicdaroglu's name; I heard
+Kilicacoglu, Kilicdadoglu, Kilicaoglu, Kilacaogoglu.. Daam
+
+---
+
+Tigger election nearing..
+
+---
+
+POF: "The Port of Rotterdam, together with the Province of Zuid
+Holland and more than 40 partners have launched an ambitious project
+for emission-free inland and near-shore shipping on #hydrogen".
+
+---
+
+
+Al-Monitor: "Syria's Assad receives Saudi invitation to Arab summit"
+
+---
+
+Al-Monitor: "Saudi Arabia, Syria agree to restore diplomatic ties"
+
+---
+
+.. these humans would form the native Americans no doubt - who would
+later be wiped out by Westerners. The white man has been killing
+Chinese people for centuries then
+
+The Guardian: "Some of the first humans in the Americas came from
+China, study finds"
+
+---
+
+Al-Monitor: "Iran increases trade with BRICS including China, as it
+eyes to join bloc"
+
+---
+
+Chemistry World: "An artificial photosynthesis system that combines
+semiconducting nanoparticles with a non-photosynthetic bacterium could
+offer a promising new route for producing sustainable solar-driven
+hydrogen fuel"
+
+---
+
+Inflation flatline
+
+```
+2023-03-01  4.984974
+2023-04-01  4.930320
+```
+
+---
+
+H2 View: "'Europe is ready to move the hydrogen industry from niche to
+scale,' said Frans Timmermans, Executive Vice-President of the
+European Commission at the World Hydrogen Summit in Rotterdam"
+
+---
+
+Motorsport: "Ligier, Bosch join forces on hydrogen car to be revealed
+at Le Mans"
+
+---
+
 Swissinfo.ch: "ABB to build one of Europe’s largest renewable hydrogen
 projects..  produc[ing] around 240 tonnes of hydrogen per day,
 equivalent of around 1.8 million barrels of oil per annum"

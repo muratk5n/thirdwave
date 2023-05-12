@@ -16,88 +16,71 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-Past 10 days
-
-```python
-u.sm_plot_ukr1('ukrdata/fl-0511.csv','ukrdata/fl-0501.csv',['Khromove','Bakhmut Center'],48.59,37.96,zoom=0.005)
-```
-
-<img width='340' src='mbl/2023/ukr-14.jpg'/> 
+Newsweek: "[4/19] Eric Adams Calls Out Joe Biden For 'Turning Back' on
+NYC's Migrant Crisis"
 
 ---
 
-Am currently near the place where the party will be if Tayyeap falls.
+The Jerusalem Post: "Israel launches first hydrogen fuel station:
+Start of energy market revolution"
 
 ---
 
-It's not an easy name to be sure. Some are even worse. I heard of a
-Çeşmecibaşı, four funky letters, that dude gets totally butchered, he
-cld have an identity crisis.
+The Financial Express: "MG India to launch 5 new cars by 2028, to
+invest in hydrogen-cell tech"
 
 ---
 
-MSM keeps butchering TR opposition leader Kilicdaroglu's name; I heard
-Kilicacoglu, Kilicdadoglu, Kilicaoglu, Kilacaogoglu.. Daam
+Road networks for entire countries on plain text files. So many
+possibilities. Do a little Djikstra..? U can represent graphs in
+dictinoaries. `diskdict` is your friend. 
 
 ---
 
-Tigger election nearing..
+Dude's hipster code crapped out on simplest files. Alternative Rust
+code chewed it up (OSM map files) like it was nothing. Massive amts
+processed in mere seconds.. This is not just about skill, it's
+cultural.. I bet the Rust guy thinks a certain way always with an eye
+on performance.
 
 ---
 
-POF: "The Port of Rotterdam, together with the Province of Zuid
-Holland and more than 40 partners have launched an ambitious project
-for emission-free inland and near-shore shipping on #hydrogen".
+TASS: Hungary, Serbia to build oil pipeline to supply Russian oil —
+Hungarian Foreign Minister.. Russian oil supplies via the Druzhba
+pipeline are not subject to restrictions imposed by the EU"
 
 ---
 
-
-Al-Monitor: "Syria's Assad receives Saudi invitation to Arab summit"
-
----
-
-Al-Monitor: "Saudi Arabia, Syria agree to restore diplomatic ties"
+TASS: "Gazprom's gas supplies to Europe via Ukraine rise by 23%"
 
 ---
 
-.. these humans would form the native Americans no doubt - who would
-later be wiped out by Westerners. The white man has been killing
-Chinese people for centuries then
-
-The Guardian: "Some of the first humans in the Americas came from
-China, study finds"
+CNBC: "Nikola exits European joint venture to focus on hydrogen trucks
+in North America'
 
 ---
 
-Al-Monitor: "Iran increases trade with BRICS including China, as it
-eyes to join bloc"
+Pseudorandom # gen for song shuffler take `binascii.hexlify` on
+`os.urandom`, create digest out of `ps gaux` output, append to *that*
+seconds since epoch, `time.time()`, run mod N to select item out of N
+items.
 
 ---
 
-Chemistry World: "An artificial photosynthesis system that combines
-semiconducting nanoparticles with a non-photosynthetic bacterium could
-offer a promising new route for producing sustainable solar-driven
-hydrogen fuel"
+Dems are back to bitching about "fact checking" per DJT CNN town
+hall. Who fact checked Russiagate?
 
 ---
 
-Inflation flatline
-
-```
-2023-03-01  4.984974
-2023-04-01  4.930320
-```
+Al Jazeera: "First baby born using DNA from three people: UK.. Most
+DNA comes from the child's two parents but about 0.1 percent comes
+from a third person - another woman"
 
 ---
 
-H2 View: "'Europe is ready to move the hydrogen industry from niche to
-scale,' said Frans Timmermans, Executive Vice-President of the
-European Commission at the World Hydrogen Summit in Rotterdam"
-
----
-
-Motorsport: "Ligier, Bosch join forces on hydrogen car to be revealed
-at Le Mans"
+RWE.com: "RWE, one of the 4 big German utilities, plans to install up
+to 70 heavy-duty \#hydrogen stations until 2030 in partnership with
+Westfalen Gruppe"
 
 ---
 
