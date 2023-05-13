@@ -1,5 +1,73 @@
 # Week 19
 
+Newsweek: "[4/19] Eric Adams Calls Out Joe Biden For 'Turning Back' on
+NYC's Migrant Crisis"
+
+---
+
+The Jerusalem Post: "Israel launches first hydrogen fuel station:
+Start of energy market revolution"
+
+---
+
+The Financial Express: "MG India to launch 5 new cars by 2028, to
+invest in hydrogen-cell tech"
+
+---
+
+Road networks for entire countries on plain text files. So many
+possibilities. Do a little Djikstra..? U can represent graphs in
+dictionaries. `diskdict` is your friend.
+
+---
+
+Dude's hipster code crapped out on simplest files. Alternative Rust
+code chewed it up (OSM map files) like it was nothing. Massive amts
+processed in mere seconds.. This is not just about skill, it's
+cultural.. I bet the Rust guy thinks a certain way always with an eye
+on performance.
+
+---
+
+TASS: Hungary, Serbia to build oil pipeline to supply Russian oil —
+Hungarian Foreign Minister.. Russian oil supplies via the Druzhba
+pipeline are not subject to restrictions imposed by the EU"
+
+---
+
+TASS: "Gazprom's gas supplies to Europe via Ukraine rise by 23%"
+
+---
+
+CNBC: "Nikola exits European joint venture to focus on hydrogen trucks
+in North America'
+
+---
+
+Pseudorandom # gen for song shuffler take `binascii.hexlify` on
+`os.urandom`, create digest out of `ps gaux` output, append to *that*
+seconds since epoch, `time.time()`, run mod N to select item out of N
+items.
+
+---
+
+Dems are back to bitching about "fact checking" per DJT CNN town
+hall. Who fact checked Russiagate?
+
+---
+
+Al Jazeera: "First baby born using DNA from three people: UK.. Most
+DNA comes from the child's two parents but about 0.1 percent comes
+from a third person - another woman"
+
+---
+
+RWE.com: "RWE, one of the 4 big German utilities, plans to install up
+to 70 heavy-duty \#hydrogen stations until 2030 in partnership with
+Westfalen Gruppe"
+
+---
+
 Past 10 days
 
 ```python

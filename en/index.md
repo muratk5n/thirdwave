@@ -16,71 +16,56 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-Newsweek: "[4/19] Eric Adams Calls Out Joe Biden For 'Turning Back' on
-NYC's Migrant Crisis"
+
+Global Sea Level rise
+
+[[-]](https://sealevel.colorado.edu/)
 
 ---
 
-The Jerusalem Post: "Israel launches first hydrogen fuel station:
-Start of energy market revolution"
+Pandaily: "China’s First Hydrogen-powered Urban Train Can Reach A Top
+Speed of 160 km/h"
+
+<img width='340' src='https://assets.pandaily.com/uploads/2023/05/%E6%9C%AA%E5%91%BD%E5%90%8D%E7%9A%84%E8%AE%BE%E8%AE%A1-5-1.jpg'/> 
 
 ---
 
-The Financial Express: "MG India to launch 5 new cars by 2028, to
-invest in hydrogen-cell tech"
+The Guardian: "David Miranda, campaigner and former Brazilian
+congressman, dies aged 37.. Lula celebrates ‘extraordinary trajectory’
+of favela-born politician and Guardian columnist who played key role
+in Snowden leaks"
+
+----
+
+Renew Economy: "Fortescue Future Industries has offered a first
+glimpse of Australia's first electrolyser manufacturing facility,
+posting a picture of the shiny new facility on LinkedIn this week...
+Once fully operational, the $114 million project will produce 2GW of
+electrolysers per year, which are in high demand as a critical
+technology needed to produce 100% renewable \#GreenHydrogen."
 
 ---
 
-Road networks for entire countries on plain text files. So many
-possibilities. Do a little Djikstra..? U can represent graphs in
-dictionaries. `diskdict` is your friend.
+R. Reich could be right; celebs doesn't want a blue check but e-jagoff
+gave them one anyway paying out of pocket indicating celeb paid and
+endorsed the gonzo system when they didn't, isn't that fraud under the
+FTC Act? Past deeds as CEO might need some investigating. 
 
 ---
 
-Dude's hipster code crapped out on simplest files. Alternative Rust
-code chewed it up (OSM map files) like it was nothing. Massive amts
-processed in mere seconds.. This is not just about skill, it's
-cultural.. I bet the Rust guy thinks a certain way always with an eye
-on performance.
+But it gets even better; pesticide DDT is banned in US but you might
+buy an apple shipped from another country produced via the DDT which
+US sold them. Ain't that grand? Bidness always makes money one way or
+another. People also get poisoned, one way or another.
 
 ---
 
-TASS: Hungary, Serbia to build oil pipeline to supply Russian oil —
-Hungarian Foreign Minister.. Russian oil supplies via the Druzhba
-pipeline are not subject to restrictions imposed by the EU"
+Paper: "The United States (U.S.) allows the production and export of
+pesticides to low- and middle-income countries (LMIC), even when those
+pesticides have been banned domestically due to their known
+detrimental health impacts"
 
----
-
-TASS: "Gazprom's gas supplies to Europe via Ukraine rise by 23%"
-
----
-
-CNBC: "Nikola exits European joint venture to focus on hydrogen trucks
-in North America'
-
----
-
-Pseudorandom # gen for song shuffler take `binascii.hexlify` on
-`os.urandom`, create digest out of `ps gaux` output, append to *that*
-seconds since epoch, `time.time()`, run mod N to select item out of N
-items.
-
----
-
-Dems are back to bitching about "fact checking" per DJT CNN town
-hall. Who fact checked Russiagate?
-
----
-
-Al Jazeera: "First baby born using DNA from three people: UK.. Most
-DNA comes from the child's two parents but about 0.1 percent comes
-from a third person - another woman"
-
----
-
-RWE.com: "RWE, one of the 4 big German utilities, plans to install up
-to 70 heavy-duty \#hydrogen stations until 2030 in partnership with
-Westfalen Gruppe"
+[[-]](https://www.sciencedirect.com/science/article/pii/S2667193X22000722)
 
 ---
 
