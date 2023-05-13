@@ -9,6 +9,17 @@ from yahoofinancials import YahooFinancials
 from pandas_datareader import data, wb
 from io import BytesIO
 
+def sm_plot_libya1(geo):
+    fig, ax = plt.subplots() 
+    d = json.loads(open("libya.json").read())
+    clat,clon=26, 17;zoom=3.0
+    sm.plot_countries(clat,clon,zoom=zoom,ax=ax)
+    sm.plot_region(np.array(d['haftar']),ax,color='blue',alpha=0.5)
+    sm.plot_region(np.array(d['westgov']),ax,color='lightpink')
+    ps = np.array([[x, d[x][0], d[x][1]] for x in geo])
+    sm_plot_list1(clat,clon,zoom,data=ps,ax=ax)
+
+
 def sm_plot_ukr2(file,oldfile):
     fig, ax = plt.subplots(2,3,figsize=(12, 6))
     fig.tight_layout(pad=2.0)

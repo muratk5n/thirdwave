@@ -1,10 +1,37 @@
-# Test code
+# Test
+
 
 ```python
 import util as u
 import pandas as pd
 pd.set_option('display.max_columns', None)
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```python
+u.sm_plot_libya1(["Ghadamis","Tripoli","Sirte"])
+plt.savefig('/tmp/out.jpg',quality=40)
+```
+
+
+
+
+
+
 
 
 
@@ -29,10 +56,6 @@ plt.savefig('/tmp/out.jpg',quality=40)
 
 
 
-```python
-u.sm_plot_ukr1('ukrdata/fl-0511.csv','ukrdata/fl-0501.csv')
-plt.savefig('/tmp/out.jpg',quality=40)
-```
 
 
 
@@ -49,17 +72,6 @@ plt.savefig('/tmp/out.jpg',quality=40)
 
 
 
-
-
-
-
-
-
-
-```python
-u.sm_plot_ukr('ukrdata/fl-0501.csv','ukrdata/fl-0426.csv')
-plt.savefig('/tmp/out.jpg',quality=40)
-```
 
 
 
