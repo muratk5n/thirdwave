@@ -49,21 +49,20 @@ technology needed to produce 100% renewable \#GreenHydrogen."
 R. Reich could be right; celebs doesn't want a blue check but e-jagoff
 gave them one anyway paying out of pocket indicating celeb paid and
 endorsed the gonzo system when they didn't, isn't that fraud under the
-FTC Act? Past deeds as CEO might need some investigating. 
+FTC Act? Past deeds as CEO might warrant investigation.
 
 ---
 
-But it gets even better; pesticide DDT is banned in US but you might
-buy an apple shipped from another country produced via the DDT which
-US sold them. Ain't that grand? Bidness always makes money one way or
+It gets even better; pesticide DDT is banned in US but you might buy
+an apple shipped from another country produced via the DDT which US
+sold them. Ain't that grand? Bidness makes money one way or
 another. People also get poisoned, one way or another.
 
 ---
 
-Paper: "The United States (U.S.) allows the production and export of
-pesticides to low- and middle-income countries (LMIC), even when those
-pesticides have been banned domestically due to their known
-detrimental health impacts"
+Paper: "US allows the production and export of pesticides to low- and
+middle-income countries.. even when those pesticides have been banned
+domestically due to their known detrimental health impacts"
 
 [[-]](https://www.sciencedirect.com/science/article/pii/S2667193X22000722)
 
