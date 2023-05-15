@@ -56,9 +56,9 @@ u.sm_plot_libya1(["Ghadamis","Tripoli","Sirte"])
 
 Al Monitor: "Russia's Tatneft makes new oil discovery in
 Libya.. Libya's state-owned National Oil Corporation and Tatneft said
-they discovered the oil in the Ghadames basin 330 kilometers (205
-miles) south of the capital Tripoli at a depth of 8,500 feet. The
-amount of oil that can be extracted amounts to 1,870 barrels per day"
+they discovered the oil in the Ghadames basin 330 [km] south of the
+capital Tripoli at a depth of 8,500 feet. The amount of oil that can
+be extracted amounts to 1,870 barrels per day"
 
 ---
 
@@ -69,28 +69,22 @@ Janes: "Australia places greater value on long-range missiles than B-21s"
 TechXplore: "Navid Attarzadeh first noticed the prickly pear cactus
 while walking to UTEP's Center for Advanced Materials Research
 lab. The team had been exploring nickel as a catalytic replacement for
-platinum, a metal that is abundant on Earth and 1,000 times cheaper
-than platinum.
+platinum, a metal that is abundant on Earth.. Nickel, however, is not
+as quick and effective at breaking down water into hydrogen.
 
-Nickel, however, is not as quick and effective at breaking down water
-into hydrogen.
-
-"Every day, I passed this same plant," said Attarzadeh, a doctoral
-student in environmental science and engineering. "And I started
+'Every day, I passed this same plant,' said Attarzadeh, a doctoral
+student in environmental science and engineering. 'And I started
 connecting it to our catalyst problem. What caught my attention was
 how big the leaves and fruits were compared to other desert plants;
-the prickly pear has an extraordinary surface area."
+the prickly pear has an extraordinary surface area.'
 
 That's when the Attarzadeh had an idea. What if they designed a 3D
 nickel-based catalyst in the shape of the prickly pear cactus? The
 larger surface area could accommodate more electrochemical
-reactions—creating more hydrogen than nickel typically can.
-
-The team quickly designed the nano-scale structure—invisible to the
-human eye—and put it to the test.
-
-'We tested the catalyst's ability to split water repeatedly and had
-good results'"
+reactions—creating more hydrogen than nickel typically can. The team
+quickly designed the nano-scale structure—invisible to the human
+eye—and put it to the test. 'We tested the catalyst's ability to split
+water repeatedly and had good results'"
 
 ---
 
