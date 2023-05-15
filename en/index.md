@@ -42,7 +42,8 @@ it, other than serving Western interests "to contain Russia"?
 
 ---
 
-The find is in the Haftar controlled region (Gen Haftar was supported by Russia).
+The find is in the Haftar controlled region (Gen Haftar is supported
+by Russia, France and recently US).
 
 ```python
 u.sm_plot_libya1(["Ghadamis","Tripoli","Sirte"])
