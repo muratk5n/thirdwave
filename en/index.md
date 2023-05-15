@@ -20,15 +20,13 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 "With its benign location and natural resources, Mexico has high hopes
 for hydrogen. It could attract investments of around $60bn and
 generate around 3 million jobs – but for that to happen, a number of
-key obstacles need to be overcome [around cert, reg]...
-
-'However, we are at the perfect time to move towards this
-transformation; since it is estimated that by 2030 in Mexico the
-production of green hydrogen could have lower costs by up to 64%
-compared to other countries that do not have the same energy
-potential, we also have a privileged location, which allows us to
-obtain solar and wind energy, from which green hydrogen is generated,'
-added [an expert]"
+key obstacles need to be overcome [around cert, reg]... 'we are at the
+perfect time to move towards this transformation; since it is
+estimated that by 2030 in Mexico the production of green hydrogen
+could have lower costs by up to 64% compared to other countries that
+do not have the same energy potential, we also have a privileged
+location, which allows us to obtain solar and wind energy, from which
+green hydrogen is generated,' added [an expert]"
 
 ---
 
@@ -37,7 +35,7 @@ from Kerala coast, Pakistani held"
 
 ---
 
-If Ukraine followed the Minsk aggrement the areas under RU influence
+If Ukraine followed the Minsk aggrement, the areas under RU influence
 then were smaller than the areas controlled by Russia now. So overall,
 this avoidable war has been a net loss for UA. Was the effort worth
 it, other than serving Western interests "to contain Russia"?
