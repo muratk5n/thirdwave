@@ -42,7 +42,7 @@ it, other than serving Western interests "to contain Russia"?
 
 ---
 
-The find is in the Haftar region (Gen Haftar was supported by Russia).
+The find is in the Haftar controlled region (Gen Haftar was supported by Russia).
 
 ```python
 u.sm_plot_libya1(["Ghadamis","Tripoli","Sirte"])
