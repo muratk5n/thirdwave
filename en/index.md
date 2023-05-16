@@ -16,7 +16,7 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-"Australia Big Hydrogen Push Could Catalyse Industry, Experts
+Reuters: "Australia Big Hydrogen Push Could Catalyse Industry, Experts
 Say.. Prime Minister Anthony Albanese's Labor government announced a
 A$2 billion (1.4 billion dollars) 'Hydrogen Headstart' programme in
 its budget with the aim of accelerating the production and export of
@@ -24,11 +24,12 @@ the fuel"
 
 ---
 
-"South Australia swamped with nearly 30 proposals for world leading
-green hydrogen plan.. The state Labor government has committed nearly
-$600 million to build a 250MW green hydrogen electrolyser and a 200MW
-green hydrogen power plant in the steel city of Whyalla. Both would be
-the biggest of their type in the world, at least for a time.
+Renew Economy: "South Australia swamped with nearly 30 proposals for
+world leading green hydrogen plan.. The state Labor government has
+committed nearly $600 million to build a 250MW green hydrogen
+electrolyser and a 200MW green hydrogen power plant in the steel city
+of Whyalla. Both would be the biggest of their type in the world, at
+least for a time.
 
 The guarantee of government funds for first of its type projects has
 naturally attracted huge interest from Australia and around the
