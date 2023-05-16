@@ -72,7 +72,7 @@ u.sm_plot_libya2(["Ghadamis","Tripoli"])
 
 ---
 
-Some in Europe are playing both sides? Good catch by \#TFIGlobal
+Some in the West are playing both sides? Good catch by \#TFIGlobal
 
 FT: "More than $1bn of EU exports targeted by sanctions have
 disappeared in transit to Russia’s economic partners, a flow of 'ghost
