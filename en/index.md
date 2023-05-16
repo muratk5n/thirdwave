@@ -93,6 +93,19 @@ they were only passing through"
 
 ---
 
+TDB: "Special Counsel John Durham’s report on the FBI’s investigation
+into Donald Trump’s 2016 presidential campaign criticized the agency
+for acting on 'raw, unanalyzed, and uncorroborated
+intelligence.'.. CNN anchor Jake Tapper claimed Monday that the report
+by Durham is 'devastating' to the organization and even exonerates
+Trump 'to a degree.'"
+
+---
+
+Politico: "Durham report faults FBI’s Trump-Russia probe"
+
+---
+
 ## Reference
 
 [Nations and Nationalism, Culture, Narratives](0119/2013/02/nations-and-nationalism.html)
