@@ -38,12 +38,6 @@ that closed last week"
 
 ---
 
-Isle of Wight beaches suffer from pollution. Sad.
-
-[[-]](https://www.euronews.com/travel/2023/04/07/swimming-in-sewage-here-are-the-beaches-to-avoid-in-this-uk-holiday-hotspot)
-
----
-
 With the hipster code removed shortest path is working like a
 boss. Custom data xform, road network fits into a 200 MB, key/value
 db, tiny board RPi runs it. All based on open source data, code.
@@ -77,15 +71,15 @@ u.sm_plot_libya2(["Ghadamis","Tripoli"])
 
 ---
 
-Some in the West are playing both sides? Good catch by \#TFIGlobal
+Some in Europe are playing both sides? Good catch by \#TFIGlobal
 
 FT: "More than $1bn of EU exports targeted by sanctions have
-disappeared in transit to Russia’s economic partners, a flow of “ghost
-trade” that western officials believe has helped sustain Vladimir
+disappeared in transit to Russia’s economic partners, a flow of 'ghost
+trade' that western officials believe has helped sustain Vladimir
 Putin’s wartime economy.
 
 Public data analysed by the Financial Times found that only about half
-of a $2bn sample of controlled “dual use” items shipped from the EU
+of a $2bn sample of controlled 'dual use' items shipped from the EU
 actually reached their stated destinations in Kazakhstan, Kyrgyzstan
 and Armenia.
 
