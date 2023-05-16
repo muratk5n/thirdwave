@@ -55,10 +55,10 @@ of green ammonia within its fleet by that same year"
 
 ---
 
-Russia is not the only Haftar supporter. France, Egypt, SA and, more
-recently, US are also supporting. On the other side there is gobble
-gobble doing the wobble wobble and (of course) the spastic child
-Qatar.
+Russia is not the only Haftar supporter. France, Egypt, SA, UAE and,
+more recently, US are also supporting. On the other side there is
+gobble gobble doing the wobble wobble and (of course) the spastic
+child Qatar.
 
 ---
 
