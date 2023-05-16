@@ -9,6 +9,20 @@ from yahoofinancials import YahooFinancials
 from pandas_datareader import data, wb
 from io import BytesIO
 
+def sm_plot_libya2(geo):
+    fig, ax = plt.subplots() 
+    d = json.loads(open("libya.json").read())
+    clat,clon=26, 17;zoom=3.0
+    sm.plot_countries(clat,clon,zoom=zoom,ax=ax)
+    sm.plot_region(np.array(d['haftar']),ax,color='blue',alpha=0.5)
+    sm.plot_region(np.array(d['westgov']),ax,color='lightpink')
+    df = pd.read_csv('../../2022/01/oilgas-2018.csv')
+    fields = np.array(df[df.ISO == 'LBY'][['LAT_DD','LON_DD']])
+    plt.plot(fields[:,1],fields[:,0],'r.')
+    ps = np.array([[x, d[x][0], d[x][1]] for x in geo])
+    sm_plot_list1(clat,clon,zoom,data=ps,ax=ax)
+
+
 def sm_plot_libya1(geo):
     fig, ax = plt.subplots() 
     d = json.loads(open("libya.json").read())

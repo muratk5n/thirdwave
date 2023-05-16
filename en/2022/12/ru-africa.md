@@ -7,7 +7,7 @@ red, for US green, country codes are iso3, full list is [here](https://www.iban.
 ```python
 import impl as u
 
-ru = ["Mali","Ethiopia","Congo","South Africa","Madagascar",
+ru = ["Mali","Ethiopia","Congo","South Africa","Madagascar","Libyan Arab Jamahiriya",
       "Sudan","Uganda","Zimbabwe","Burkina Faso","Guinea",
       "Cameroon","Equatorial Guinea","Sao Tome and Principe",
       "Algeria","Togo","Lesotho","Swaziland","Senegal",
