@@ -52,7 +52,7 @@ Haftar's got almost all the oil (the red dots are oil fields)
 u.sm_plot_libya2(["Ghadamis","Tripoli"])
 ```
 
-<img width='340' src='mbl/2023/libya2.jpg'/> 
+<img width='340' src='libya2.jpg'/> 
 
 ---
 
@@ -122,7 +122,7 @@ by Russia).
 u.sm_plot_libya1(["Ghadamis","Tripoli","Sirte"])
 ```
 
-[[-]](mbl/2023/libya1.jpg)
+[[-]](libya1.jpg)
 
 ---
 

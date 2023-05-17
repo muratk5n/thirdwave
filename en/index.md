@@ -53,7 +53,7 @@ the old system are resistant to that change as they feel it would
 
 WION: "In show of power over disputed Spratly islands, Philippines
 set-up buoys in South China Sea.. The buoys are placed within a
-200-mile (322-km) zone. It encompasses Whitsun Reef"
+[322-km] zone. It encompasses Whitsun Reef"
 
 ---
 
