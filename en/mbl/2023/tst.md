@@ -15,25 +15,12 @@ pd.set_option('display.max_columns', None)
 
 
 
-```python
-u.sm_plot_libya2(["Ghadamis","Tripoli"])
-plt.savefig('/tmp/out.jpg',quality=40)
-```
-
-
-
-
-
-
-
-
-
 
 
 
 ```python
 clat=48.59;clon=37.96
-u.sm_plot_ukr1('ukrdata/fl-0511.csv','ukrdata/fl-0501.csv',['Khromove','Bakhmut Center'],clat,clon,zoom=0.005)
+u.sm_plot_ukr1('ukrdata/fl-0516.csv','ukrdata/fl-0511.csv',['Yahidne','Khromove','Bohdanivka','Bakhmut'],clat,clon,zoom=0.03)
 plt.savefig('/tmp/out.jpg',quality=40)
 ```
 

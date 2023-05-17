@@ -1,5 +1,94 @@
 # Week 20
 
+Reuters: "Australia Big Hydrogen Push Could Catalyse Industry, Experts
+Say.. Prime Minister Anthony Albanese's Labor government announced a
+A$2 billion (1.4 billion dollars) 'Hydrogen Headstart' programme in
+its budget with the aim of accelerating the production and export of
+the fuel"
+
+---
+
+Renew Economy: "South Australia swamped with nearly 30 proposals for
+world leading green hydrogen plan.. The state Labor government has
+committed nearly $600 million to build a 250MW green hydrogen
+electrolyser and a 200MW green hydrogen power plant in the steel city
+of Whyalla. Both would be the biggest of their type in the world, at
+least for a time.
+
+The guarantee of government funds for first of its type projects has
+naturally attracted huge interest from Australia and around the
+world. The government received around 60 expressions of interest last
+year, which have converted into 29 formal proposals under a tender
+that closed last week"
+
+---
+
+With the hipster code removed shortest path is working like a
+boss. Custom data xform, road network fits into a 200 MB, key/value
+db, tiny board RPi runs it. All based on open source data, code.
+
+---
+
+H2 View: "Höegh Autoliners and Norwegian green energy provider North
+Ammonia have announced a partnership for the supply, distribution,
+delivery, and consumption of green ammonia. The partnership will
+enable Höegh Autoliners to meet its commitment to powering at least 5%
+of our deep-sea operation with green ammonia by 2030, as part of its
+First Movers Coalition pledge, and aim to consumer at least 100,000 MT
+of green ammonia within its fleet by that same year"
+
+---
+
+Russia is not the only Haftar supporter. France, Egypt, SA, UAE and,
+more recently, US are also supporting. On the other side there is
+gobble gobble doing the wobble wobble and (of course) the spastic
+child Qatar.
+
+---
+
+Haftar's got almost all the oil (the red dots are oil fields)
+
+```python
+u.sm_plot_libya2(["Ghadamis","Tripoli"])
+```
+
+<img width='340' src='mbl/2023/libya2.jpg'/> 
+
+---
+
+Some in the West are playing both sides? Good catch by \#TFIGlobal
+
+FT: "More than $1bn of EU exports targeted by sanctions have
+disappeared in transit to Russia’s economic partners, a flow of 'ghost
+trade' that western officials believe has helped sustain Vladimir
+Putin’s wartime economy.
+
+Public data analysed by the Financial Times found that only about half
+of a $2bn sample of controlled 'dual use' items shipped from the EU
+actually reached their stated destinations in Kazakhstan, Kyrgyzstan
+and Armenia.
+
+These goods, which are deemed by the EU to have potential uses for
+military or intelligence services and are subject to export controls,
+may have entered Russia directly from the EU under the pretence that
+they were only passing through"
+
+[[-]](https://www.ft.com/content/76fc91b2-3494-4022-83d0-9d6647b38e3d)
+
+---
+
+TDB: "Special Counsel John Durham’s report on the FBI’s investigation
+into Donald Trump’s 2016 presidential campaign criticized the agency
+for acting on 'raw, unanalyzed, and uncorroborated
+intelligence.'.. CNN anchor Jake Tapper claimed Monday that the report
+by Durham is 'devastating' to the organization and even exonerates
+Trump 'to a degree.'"
+
+---
+
+Politico: "Durham report faults FBI’s Trump-Russia probe"
+
+---
 
 "With its benign location and natural resources, Mexico has high hopes
 for hydrogen. It could attract investments of around $60bn and
