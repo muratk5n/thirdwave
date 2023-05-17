@@ -90,5 +90,11 @@ Russia and Algeria Team Up Against Morocco.. Now Russia is also
 assuming a stronger posture regarding the Western Sahara, in apparent
 cooperation with Algeria, Morocco’s long-time rival here.
 
+[09/01/20](https://www.aljazeera.com/news/2020/1/9/libyas-war-who-is-supporting-whom):
+Much like France, Russia has publicly supported the UN’s mediation
+efforts led by Special Envoy Ghassan Salame. Moscow, however, in April
+blocked a UN Security Council statement that would have called on the
+Libyan commander [Haftar] to halt his advance on Tripoli.
+
 [23/04/18](https://www.defensenews.com/unmanned/2018/04/23/us-builds-drone-base-in-niger-crossroads-of-extremism-fight) -
 US builds drone base in Niger.

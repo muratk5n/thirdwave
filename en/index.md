@@ -18,13 +18,11 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 Earth.org: "US military pollution is a significant contributor to
 climate change. If it were a nation state, it would be the 47th
-largest emitter in the world...
-
-The Cost of Wars Project found that US military pollution had
-accounted for 1.2 billion metric tons of greenhouse gas emissions,
-which amount to 257 million passenger cars annually. They compared
-this astonishing output as higher than the emissions from whole
-countries like Sweden, Morocco, and Switzerland"
+largest emitter in the world... The Cost of Wars Project found that US
+military pollution had accounted for 1.2 billion metric tons of
+greenhouse gas emissions, which amount to 257 million passenger cars
+annually. They compared this astonishing output as higher than the
+emissions from whole countries like Sweden, Morocco, and Switzerland"
 
 ---
 
