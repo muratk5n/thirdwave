@@ -49,14 +49,14 @@ And where there is one, there are more. One day later I had found six"
 Newsfile: "First Hydrogen.. confirms its hydrogen-fuel-cell powered
 light commercial vehicles (LCV) are performing even better than
 predicted. In the first phase of commissioning, the Company's LCVs
-accumulated 6,000km on UK roads, including mileage around London's M25
-motorway. The data logging supports vehicle range simulations, which
-exceed a 500km range. The vehicle is currently performing with
+accumulated 6,000 km on UK roads, including mileage around London's
+M25 motorway. The data logging supports vehicle range simulations,
+which exceed a 500 km range. The vehicle is currently performing with
 excellent efficiency, including both urban, extra-urban (which
 includes driving at higher speeds) and highway operations. First
 Hydrogen's LCV fuel consumption figures seen in many driving scenarios
-are under 2 kg / 100km, and in mostly urban driving this is 1.5 kg /
-100km"
+are under 2 kg / 100 km, and in mostly urban driving this is 1.5 kg /
+100 km"
 
 ---
 
