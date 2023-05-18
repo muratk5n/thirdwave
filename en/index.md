@@ -91,7 +91,7 @@ as in **free** software, made inroads into the industry, should check
 Chris Anderson's excellent book *Free*. CA details Microsoft's
 experience with open source through psychiatrist Elisabeth Kübler's
 famous Five Stages of Grief. In the end, Stage 5 - Acceptance: Gates
-and Ballmer had taken their best shot and had their ass handed to
+and Ballmer took their best shot and had their ass handed to
 them. Open source won.
 
 ---
