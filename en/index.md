@@ -82,6 +82,15 @@ Empowerment of Its People"
 
 ---
 
+This must be the new "the dog ate my homework"
+
+Hindustan Times: "‘Drunk’ US driver switches places with his dog to
+avoid arrest"
+
+<img width='200' src='https://www.hindustantimes.com/ht-img/img/2023/05/17/550x309/969913_Wallpaper2_1684333559275.jpg'/> 
+
+---
+
 Some m..fkers are always trying to ice-skate uphill
 
 ---
@@ -94,15 +103,6 @@ famous Five Stages of Grief. In the end, Stage 5 - Acceptance: Gates
 and Ballmer took their best shot and had their ass handed to
 them. Open source could not be quashed, and it has been growing ever
 since.
-
----
-
-This must be the new "the dog ate my homework"
-
-Hindustan Times: "‘Drunk’ US driver switches places with his dog to
-avoid arrest"
-
-<img width='200' src='https://www.hindustantimes.com/ht-img/img/2023/05/17/550x309/969913_Wallpaper2_1684333559275.jpg'/> 
 
 ---
 
