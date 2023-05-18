@@ -55,7 +55,8 @@ exceed a 500km range. The vehicle is currently performing with
 excellent efficiency, including both urban, extra-urban (which
 includes driving at higher speeds) and highway operations. First
 Hydrogen's LCV fuel consumption figures seen in many driving scenarios
-are under 2kg/100km, and in mostly urban driving this is 1.5kg/100km"
+are under 2 kg / 100km, and in mostly urban driving this is 1.5 kg /
+100km"
 
 ---
 
@@ -63,7 +64,8 @@ Blackwater, Wagner are somewhat different, they are private, have
 members from all walks of life as with the French Foreign Legion but
 in a war Wagner fits in to the hierarchy somewhere. RSF has been that
 alternative "second military" for a long time now, actively toppling,
-helping form new governments. They are used to a certain power.
+helping form new governments. They are used to a certain power. And
+there is SAF. 
 
 ---
 
@@ -81,8 +83,8 @@ Empowerment of Its People"
 
 ---
 
-It was a great season. JR, Frakes, McFadden, Burton, all cast in top
-form. What a difference writing, good directing makes.
+All cast were in top form. What a difference writing, good directing
+makes.
 
 "@JeriLRyan@mastodon.world
 
