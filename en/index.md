@@ -64,8 +64,7 @@ Blackwater, Wagner are somewhat different, they are private, have
 members from all walks of life as with the French Foreign Legion but
 in a war Wagner fits in to the hierarchy somewhere. RSF has been that
 alternative "second military" for a long time now, actively toppling,
-helping form new governments. They are used to a certain power. And
-there is SAF. 
+helping form new governments. They are used to having access to power.
 
 ---
 
@@ -83,27 +82,6 @@ Empowerment of Its People"
 
 ---
 
-All cast were in top form. What a difference writing, good directing
-makes.
-
-"@JeriLRyan@mastodon.world
-
-The complete final season of \#startrekpicard is now streaming
-worldwide. 🖖
-
-Hmm… sounds like a good time for a rewatch!"
-
----
-
-*The Best Man*, perfectly fine action.
-
----
-
-*Crater* - how come Disney did not screw this one up? Fine movie, kids
-would like it and parents wld be entertained.. 
-
----
-
 Some m..fkers are always trying to ice-skate uphill
 
 ---
@@ -112,13 +90,13 @@ For anyone who wants to read an accurate account of how open-source,
 as in **free** software, made inroads into the industry, should check
 Chris Anderson's excellent book *Free*. CA details Microsoft's
 experience with open source through psychiatrist Elisabeth Kübler's
-famous Five Stages of Grief. Stage 5 - Acceptance: Gates and Ballmer
-took their best shot and had their ass handed to them. Open source
-won.
+famous Five Stages of Grief. In the end, Stage 5 - Acceptance: Gates
+and Ballmer had taken their best shot and had their ass handed to
+them. Open source won.
 
 ---
 
-This must be a new case of "the dog ate my homework"
+This must be the new "the dog ate my homework"
 
 Hindustan Times: "‘Drunk’ US driver switches places with his dog to
 avoid arrest"
