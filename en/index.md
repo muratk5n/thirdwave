@@ -16,57 +16,126 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-Earth.org: "US military pollution is a significant contributor to
-climate change. If it were a nation state, it would be the 47th
-largest emitter in the world... The Cost of Wars Project found that US
-military pollution had accounted for 1.2 billion metric tons of
-greenhouse gas emissions, which amount to 257 million passenger cars
-annually. They compared this astonishing output as higher than the
-emissions from whole countries like Sweden, Morocco, and Switzerland"
+
+"Thanks to the fleet of the first world-class and top-ranked EuroHPC
+supercomputers, European scientists and industry are increasingly
+processing their data inside the EU. Such a trend is not only
+advancing science and boosting the innovation potential of companies
+and SMEs in Europe, but is also reinforcing the protection of the
+privacy, data protection, commercial trade secrets and ownership of
+data in Europe"
+
+[[-]](https://www.hpcwire.com/2023/05/01/eurohpc-executive-director-talks-europes-supercomputing-future/)
 
 ---
 
-Earth.org: "In 2017, the US Naval Air Station Oceana in Norfolk, VA
-was found to have spilled 84,000 gallons of jet fuel into a
-waterway. Similarly, in 2019, statistics arose claiming that the Air
-Force contractor had been dumping industrial solvent Trichloroethylene
-(TCE) into the ground surrounding the Tucson International Airport for
-29 years. It was found that over 1,350 residents suffered from cancer
-and other illnesses, due to these negligent actions"
+Ivo Labbe: "‘We just discovered the impossible’: how giant baby
+galaxies are shaking up our understanding of the early Universe.. I
+run the analysis software.. and it spits out two numbers: distance
+13.1 billion light years, mass 100 billion stars, and I nearly spit
+out my coffee. We just discovered the impossible. Impossibly early,
+impossibly massive galaxies.
+
+At this distance, the light took 13 billion years to reach us, so we
+are seeing the galaxies at a time when the universe was only 700
+million years old, barely 5% of its current age of 13.8 billion
+years. If this is true, this galaxy has formed as many stars as our
+present-day Milky Way. In record time.
+
+And where there is one, there are more. One day later I had found six"
 
 ---
 
-Isle of Wight beaches suffer from pollution. Sad.
-
-[[-]](https://www.euronews.com/travel/2023/04/07/swimming-in-sewage-here-are-the-beaches-to-avoid-in-this-uk-holiday-hotspot)
-
----
-
-First Post: "Taking a dig at those opposing the UN reforms, External
-Affairs Minister S Jaishankar said that those who are beneficiaries of
-the old system are resistant to that change as they feel it would
-'dilute' their positions of privilege"
-
----
-
-WION: "In show of power over disputed Spratly islands, Philippines
-set-up buoys in South China Sea.. The buoys are placed within a
-[322-km] zone. It encompasses Whitsun Reef"
+Newsfile: "First Hydrogen.. confirms its hydrogen-fuel-cell powered
+light commercial vehicles (LCV) are performing even better than
+predicted. In the first phase of commissioning, the Company's LCVs
+accumulated 6,000km on UK roads, including mileage around London's M25
+motorway. The data logging supports vehicle range simulations, which
+exceed a 500km range. The vehicle is currently performing with
+excellent efficiency, including both urban, extra-urban (which
+includes driving at higher speeds) and highway operations. First
+Hydrogen's LCV fuel consumption figures seen in many driving scenarios
+are under 2kg/100km, and in mostly urban driving this is 1.5kg/100km"
 
 ---
 
-Past five days around Bakhmut, Ukraine is showing gains North and South,
-RU made major headway inside the city in a residential area.
-
-[[-]](mbl/2023/ukr-15.jpg)
+Blackwater, Wagner are somewhat different, they are private, have
+members from all walks of life as with the French Foreign Legion but
+in a war Wagner fits in to the hierarchy somewhere. RSF has been that
+alternative "second military" for a long time now, actively toppling,
+helping form new governments. They are used to a certain power.
 
 ---
 
-Imma place Libya into the RU-friendly African countries; the Eastern
-gov has most of the land, nearly all the oil, and has good rels with
-Russia.
+Former Sudan prez Bashir created the second group RSF as a Praetorian
+Guard, who later turned on him. RSF grew in size and capability over
+the years now rivaling the real military SAF itself.
 
-[[-]](2022/12/ru-africa.html)
+---
+
+Easier said than done especially when there are two militaries instead
+of one to deal with.
+
+Alneel: "There Can Be No Peace in Sudan Without the Democratic
+Empowerment of Its People"
+
+---
+
+It was a great season. JR, Frakes, McFadden, Burton, all cast in top
+form. What a difference writing, good directing makes.
+
+"@JeriLRyan@mastodon.world
+
+The complete final season of \#startrekpicard is now streaming
+worldwide. 🖖
+
+Hmm… sounds like a good time for a rewatch!"
+
+---
+
+*The Best Man*, perfectly fine action.
+
+---
+
+*Crater* - how come Disney did not screw this one up? Fine movie, kids
+would like it and parents wld be entertained.. 
+
+---
+
+Some m..fkers are always trying to ice-skate uphill
+
+---
+
+For anyone who wants to read an accurate account of how open-source,
+as in **free** software, made inroads into the industry, should check
+Chris Anderson's excellent book *Free*. CA details Microsoft's
+experience with open source through psychiatrist Elisabeth Kübler's
+famous Five Stages of Grief. Stage 5 - Acceptance: Gates and Ballmer
+took their best shot and had their ass handed to them. Open source
+won.
+
+---
+
+This must be a new case of "the dog ate my homework"
+
+Hindustan Times: "‘Drunk’ US driver switches places with his dog to
+avoid arrest"
+
+<img width='200' src='https://www.hindustantimes.com/ht-img/img/2023/05/17/550x309/969913_Wallpaper2_1684333559275.jpg'/> 
+
+---
+
+Green Car Congress: "PESA, the largest Polish producer of rolling
+stock, has developed a shunting locomotive with a hydrogen drive"
+
+---
+
+The Times of India: "Green hydrogen: India is betting big on making a
+transition towards renewable energy and reducing dependence on fossil
+fuels, and one key factor in this is green hydrogen. According to
+the National Green Hydrogen Mission, by 2030 India hopes to
+develop green hydrogen production capacity of at least 5 MMT per
+annum"
 
 ---
 

@@ -1,5 +1,59 @@
 # Week 20
 
+Earth.org: "US military pollution is a significant contributor to
+climate change. If it were a nation state, it would be the 47th
+largest emitter in the world... The Cost of Wars Project found that US
+military pollution had accounted for 1.2 billion metric tons of
+greenhouse gas emissions, which amount to 257 million passenger cars
+annually. They compared this astonishing output as higher than the
+emissions from whole countries like Sweden, Morocco, and Switzerland"
+
+---
+
+Earth.org: "In 2017, the US Naval Air Station Oceana in Norfolk, VA
+was found to have spilled 84,000 gallons of jet fuel into a
+waterway. Similarly, in 2019, statistics arose claiming that the Air
+Force contractor had been dumping industrial solvent Trichloroethylene
+(TCE) into the ground surrounding the Tucson International Airport for
+29 years. It was found that over 1,350 residents suffered from cancer
+and other illnesses, due to these negligent actions"
+
+---
+
+Isle of Wight beaches suffer from pollution. Sad.
+
+[[-]](https://www.euronews.com/travel/2023/04/07/swimming-in-sewage-here-are-the-beaches-to-avoid-in-this-uk-holiday-hotspot)
+
+---
+
+First Post: "Taking a dig at those opposing the UN reforms, External
+Affairs Minister S Jaishankar said that those who are beneficiaries of
+the old system are resistant to that change as they feel it would
+'dilute' their positions of privilege"
+
+---
+
+WION: "In show of power over disputed Spratly islands, Philippines
+set-up buoys in South China Sea.. The buoys are placed within a
+[322-km] zone. It encompasses Whitsun Reef"
+
+---
+
+Past five days around Bakhmut, Ukraine is showing gains North and South,
+RU made major headway inside the city in a residential area.
+
+[[-]](ukr-15.jpg)
+
+---
+
+Imma place Libya into the RU-friendly African countries; the Eastern
+gov has most of the land, nearly all the oil, and has good rels with
+Russia.
+
+[[-]](../../2022/12/ru-africa.html)
+
+---
+
 Reuters: "Australia Big Hydrogen Push Could Catalyse Industry, Experts
 Say.. Prime Minister Anthony Albanese's Labor government announced a
 A$2 billion (1.4 billion dollars) 'Hydrogen Headstart' programme in
