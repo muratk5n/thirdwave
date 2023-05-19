@@ -31,15 +31,8 @@ https://seymourhersh.substack.com/p/the-ukraine-refugee-question
 
 ---
 
-A lof of ESG is "stupid green" eg batteries, battery-electric
-cars. Hydrogen should not be bundled together with them. Clean fuel
-approach can scale, is open to both old and new in the energy
-industry.
-
----
-
 Regulation, fine. But we need to realize it is because the stuff isn't
-smart, quite the opposite, it is too f--ing dumb \#"AI"
+smart, quite the opposite, it is too freaking dumb \#AI
 
 ---
 
@@ -83,6 +76,13 @@ Energy Secretary Jennifer Granholm in October of 2021"
 
 A sign I'm getting old -- all my favorite albums have remastered
 versions. How did this happen?"
+
+---
+
+Part of ESG is "dumb green" projects eg batteries, battery-electric
+cars. Clean fuels should not be bundled together with them. H2, NH3
+approach can scale, is open to both old and new in the energy
+industry.
 
 ---
 
