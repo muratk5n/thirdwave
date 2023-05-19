@@ -16,107 +16,87 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
+Hersh: "[A]s some in the American intelligence community know and have
+reported in secret, at the instigation of government officials at
+various levels in Poland, Hungary, Lithuania, Estonia, the Czech
+Republic, and Latvia. These countries are all allies of Ukraine and
+declared enemies of Vladimir Putin.. [Poland] has been quietly urging
+Zelensky to find a way to end the war—even by resigning himself, if
+necessary—and to allow the process of rebuilding his nation to get
+under way. Zelensky is not budging, according to intercepts and other
+data known inside the Central Intelligence Agency, but he is beginning
+to lose the private support of his neighbors"
 
-"Thanks to the fleet of the first world-class and top-ranked EuroHPC
-supercomputers, European scientists and industry are increasingly
-processing their data inside the EU. Such a trend is not only
-advancing science and boosting the innovation potential of companies
-and SMEs in Europe, but is also reinforcing the protection of the
-privacy, data protection, commercial trade secrets and ownership of
-data in Europe"
-
-[[-]](https://www.hpcwire.com/2023/05/01/eurohpc-executive-director-talks-europes-supercomputing-future/)
-
----
-
-Ivo Labbe: "‘We just discovered the impossible’: how giant baby
-galaxies are shaking up our understanding of the early Universe.. I
-run the analysis software.. and it spits out two numbers: distance
-13.1 billion light years, mass 100 billion stars, and I nearly spit
-out my coffee. We just discovered the impossible. Impossibly early,
-impossibly massive galaxies.
-
-At this distance, the light took 13 billion years to reach us, so we
-are seeing the galaxies at a time when the universe was only 700
-million years old, barely 5% of its current age of 13.8 billion
-years. If this is true, this galaxy has formed as many stars as our
-present-day Milky Way. In record time.
-
-And where there is one, there are more. One day later I had found six"
+https://seymourhersh.substack.com/p/the-ukraine-refugee-question
 
 ---
 
-Newsfile: "First Hydrogen.. confirms its hydrogen-fuel-cell powered
-light commercial vehicles (LCV) are performing even better than
-predicted. In the first phase of commissioning, the Company's LCVs
-accumulated 6,000 km on UK roads, including mileage around London's
-M25 motorway. The data logging supports vehicle range simulations,
-which exceed a 500 km range. The vehicle is currently performing with
-excellent efficiency, including both urban, extra-urban (which
-includes driving at higher speeds) and highway operations. First
-Hydrogen's LCV fuel consumption figures seen in many driving scenarios
-are under 2 kg / 100 km, and in mostly urban driving this is 1.5 kg /
-100 km"
+A lof of ESG is "stupid green" eg batteries, battery-electric
+cars. Hydrogen should not be bundled together with them. Clean fuel
+approach can scale, is open to both old and new in the energy
+industry.
 
 ---
 
-Blackwater, Wagner are somewhat different, they are private, have
-members from all walks of life as with the French Foreign Legion but
-in a war Wagner fits in to the hierarchy somewhere. RSF has been that
-alternative "second military" for a long time now, actively toppling,
-helping form new governments. They are used to having access to power.
+Regulation, fine. But we need to realize it is because the stuff isn't
+smart, quite the opposite, it is too f--ing dumb \#"AI"
 
 ---
 
-Former Sudan prez Bashir created the second group RSF as a Praetorian
-Guard, who later turned on him. RSF grew in size and capability over
-the years now rivaling the real military SAF itself.
+All cast were in top form. What a ce writing, good directing
+makes.
+
+"@JeriLRyan@mastodon.world
+
+The complete final season of \#startrekpicard is now streaming
+worldwide. 🖖
+
+Hmm… sounds like a good time for a rewatch!"
 
 ---
 
-Easier said than done especially when there are two militaries instead
-of one to deal with.
-
-Alneel: "There Can Be No Peace in Sudan Without the Democratic
-Empowerment of Its People"
+*The Best Man*, perfectly fine action.
 
 ---
 
-This must be the new "the dog ate my homework"
-
-Hindustan Times: "‘Drunk’ US driver switches places with his dog to
-avoid arrest"
-
-<img width='200' src='https://www.hindustantimes.com/ht-img/img/2023/05/17/550x309/969913_Wallpaper2_1684333559275.jpg'/> 
+*Crater* - how come Disney did not screw this one up? Fine movie, kids
+would like it and parents wld be entertained.. 
 
 ---
 
-Some m..fkers are always trying to ice-skate uphill
+Cleantech: "Last November Governor Reeves proudly announced that
+Indiana-based Steel Dynamics is pumping $2.5 billion into an expansion
+of its existing campus in Mississippi...
+
+Hy Stor first proposed a green hydrogen hub for Mississippi back in
+2021. Under the name Mississippi Clean Hydrogen Hub (MCHH), the
+project leverages Hy Stor’s underground salt formations for storing
+hydrogen gas in bulk, produced only from renewable resources. Hydrogen
+functions as an energy carrier, so the bulk storage angle would
+effectively provide steel makers and other industrial users with
+reliable, 24/7 access to renewable energy...
+
+Despite all anti-ESG posturing, Governor Reeves enthusiastically
+endorsed the project in a hearty letter of support addressed to US
+Energy Secretary Jennifer Granholm in October of 2021"
 
 ---
 
-For anyone who wants to read an accurate account of how open-source,
-as in **free** software, made inroads into the industry, should check
-Chris Anderson's excellent book *Free*. CA details Microsoft's
-experience with open source through psychiatrist Elisabeth Kübler's
-famous Five Stages of Grief. In the end, Stage 5 - Acceptance: Gates
-and Ballmer took their best shot and had their ass handed to
-them. Open source could not be quashed, and it has been growing ever
-since.
+"Aubrey@starshaped@labyrinth.social
+
+A sign I'm getting old -- all my favorite albums have remastered
+versions. How did this happen?"
 
 ---
 
-Green Car Congress: "PESA, the largest Polish producer of rolling
-stock, has developed a shunting locomotive with a hydrogen drive"
-
----
-
-The Times of India: "Green hydrogen: India is betting big on making a
-transition towards renewable energy and reducing dependence on fossil
-fuels, and one key factor in this is green hydrogen. According to
-the National Green Hydrogen Mission, by 2030 India hopes to
-develop green hydrogen production capacity of at least 5 MMT per
-annum"
+Oz Independent MP Chaney: "We need to have a broader conversation
+about housing affordability, everyone wants the value of their home to
+stay high, they also want their kids to be able to afford a house one
+day. There is a fundamental disconnect here. We have to be able to
+talk about things like negative gearing, capital gains tax, as well as
+supply-side issues rather than continuing just responding with more
+popular demand side injections of additional funds that just drive the
+prices furhter up" \#ABC
 
 ---
 
