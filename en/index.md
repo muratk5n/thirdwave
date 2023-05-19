@@ -43,9 +43,6 @@ smart, quite the opposite, it is too f--ing dumb \#"AI"
 
 ---
 
-All cast were in top form. What a ce writing, good directing
-makes.
-
 "@JeriLRyan@mastodon.world
 
 The complete final season of \#startrekpicard is now streaming
@@ -55,7 +52,7 @@ Hmm… sounds like a good time for a rewatch!"
 
 ---
 
-*The Best Man*, perfectly fine action.
+*The Best Man*, perfectly fine action. 
 
 ---
 
