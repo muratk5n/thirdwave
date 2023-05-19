@@ -58,9 +58,9 @@ Cleantech: "Last November Governor Reeves proudly announced that
 Indiana-based Steel Dynamics is pumping $2.5 billion into an expansion
 of its existing campus in Mississippi...
 
-Hy Stor first proposed a green hydrogen hub for Mississippi back in
-2021. Under the name Mississippi Clean Hydrogen Hub (MCHH), the
-project leverages Hy Stor’s underground salt formations for storing
+Hy Stor first proposed a green hydrogen hub for Mississippi back in 2021. 
+Under the name Mississippi Clean Hydrogen Hub (MCHH), the project
+leverages Hy Stor’s underground salt formations for storing
 hydrogen gas in bulk, produced only from renewable resources. Hydrogen
 functions as an energy carrier, so the bulk storage angle would
 effectively provide steel makers and other industrial users with
