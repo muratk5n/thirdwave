@@ -16,6 +16,17 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
+Autocar: "Honda, Kawasaki, Suzuki, And Yamaha Join Forces On Hydrogen Bikes"
+
+---
+
+Fast Company: "Cara Delevingne sprays industrial wastewater on her
+face in her latest beauty campaign.. The English model is lending her
+face to Swedish energy company Vattenfall, using a beauty product
+designed to illustrate the cleanliness of its hydrogen production."
+
+---
+
 Hersh: "[A]s some in the American intelligence community know and have
 reported in secret, at the instigation of government officials at
 various levels in Poland, Hungary, Lithuania, Estonia, the Czech
