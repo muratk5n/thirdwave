@@ -27,7 +27,7 @@ under way. Zelensky is not budging, according to intercepts and other
 data known inside the Central Intelligence Agency, but he is beginning
 to lose the private support of his neighbors"
 
-https://seymourhersh.substack.com/p/the-ukraine-refugee-question
+[[-]](https://seymourhersh.substack.com/p/the-ukraine-refugee-question)
 
 ---
 
@@ -79,10 +79,10 @@ versions. How did this happen?"
 
 ---
 
-Part of ESG is "dumb green" projects eg batteries, battery-electric
-cars. Clean fuels should not be bundled together with them. H2, NH3
-approach can scale, is open to both old and new in the energy
-industry.
+Part of ESG is "dumb green" projects eg electrification, batteries,
+battery-electric cars. Clean fuels should not be bundled together with
+them. H2, NH3 approach can scale, is open to both old and new
+participants in the industry.
 
 ---
 
