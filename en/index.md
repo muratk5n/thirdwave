@@ -31,7 +31,7 @@ Hersh: "[A]s some in the American intelligence community know and have
 reported in secret, at the instigation of government officials at
 various levels in Poland, Hungary, Lithuania, Estonia, the Czech
 Republic, and Latvia.. all allies of Ukraine and declared enemies of
-Vladimir Putin.. [some have] been quietly urging Zelensky to find a
+Vladimir Putin.. [they have] been quietly urging Zelensky to find a
 way to end the war — even by resigning himself, if necessary — and to
 allow the process of rebuilding his nation to get under way.  Zelensky
 is not budging, according to intercepts and other data known inside
