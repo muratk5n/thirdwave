@@ -32,7 +32,7 @@ to lose the private support of his neighbors"
 ---
 
 Regulation, fine. But we need to realize it is because the stuff isn't
-smart, quite the opposite, it is too freaking dumb \#AI
+smart, quite the opposite, it is too freaking stupid, parrot-like \#AI
 
 ---
 
