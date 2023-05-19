@@ -30,13 +30,13 @@ designed to illustrate the cleanliness of its hydrogen production."
 Hersh: "[A]s some in the American intelligence community know and have
 reported in secret, at the instigation of government officials at
 various levels in Poland, Hungary, Lithuania, Estonia, the Czech
-Republic, and Latvia [which] are all allies of Ukraine and declared
-enemies of Vladimir Putin.. [some have] been quietly urging Zelensky
-to find a way to end the war — even by resigning himself, if necessary — 
-and to allow the process of rebuilding his nation to get under way. 
-Zelensky is not budging, according to intercepts and other data
-known inside the Central Intelligence Agency, but he is beginning to
-lose the private support of his neighbors"
+Republic, and Latvia.. all allies of Ukraine and declared enemies of
+Vladimir Putin.. [some have] been quietly urging Zelensky to find a
+way to end the war — even by resigning himself, if necessary — and to
+allow the process of rebuilding his nation to get under way.  Zelensky
+is not budging, according to intercepts and other data known inside
+the Central Intelligence Agency, but he is beginning to lose the
+private support of his neighbors"
 
 [[-]](https://seymourhersh.substack.com/p/the-ukraine-refugee-question)
 
