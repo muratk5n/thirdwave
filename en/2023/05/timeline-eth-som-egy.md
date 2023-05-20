@@ -126,14 +126,22 @@
      * [09/08](https://www.theguardian.com/world/2022/oct/08/postponement-of-tigray-peace-talks-latest-blow-in-ethiopias-hidden-war):
        Postponement of Tigray peace talks latest blow in Ethiopia's hidden war.
 
+     * [09/29](https://sudantribune.com/article264733/):
+       The U.S ambassador to Sudan, John Godfrey warned of consequences if Khartoum allows Russia to establish a military base at the Red Sea coast
+
      * [11/02](https://www.thenationalnews.com/world/africa/2023/01/16/tigray-death-toll-could-be-as-high-as-600000-african-union-envoy-says/):
        The Tigray conflicts comes to an end. Up to 600,000 people may
        have been killed in two years of conflict.
 
-* 2023
+* 2023    
 
      * [04/04](https://www.al-monitor.com/originals/2023/04/egypt-sudan-hold-joint-military-drills-nile-dispute-ethiopia-drags):
        Egypt, Sudan hold joint military drills as Nile dispute with Ethiopia drags on.
+
+     * 04/12: US SecState Antony Blinken: "I spoke with Sovereign
+       Council Chair General @aftaburhan today to highlight
+       U.S. support for Sudanese democratic aspirations and to urge
+       the swift formation of a civilian-led transitional government"
 
      * [04/15](https://reliefweb.int/report/sudan/sudan-clashes-between-saf-and-rsf-flash-update-no-6-24-april-2023-enar):
        Clashes between the Sudanese Armed Forces (SAF) and the Rapid Support Forces (RSF) erupts

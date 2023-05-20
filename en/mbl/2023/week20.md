@@ -1,5 +1,92 @@
 # Week 20
 
+Autocar: "Honda, Kawasaki, Suzuki, And Yamaha Join Forces On Hydrogen Bikes"
+
+---
+
+Fast Company: "Cara Delevingne sprays industrial wastewater on her
+face in her latest beauty campaign.. The English model is lending her
+face to Swedish energy company Vattenfall, using a beauty product
+designed to illustrate the cleanliness of its hydrogen production."
+
+---
+
+Hersh: "[A]s some in the American intelligence community know and have
+reported in secret, at the instigation of government officials at
+various levels in Poland, Hungary, Lithuania, Estonia, the Czech
+Republic, and Latvia.. all allies of Ukraine and declared enemies of
+Vladimir Putin.. [they have] been quietly urging Zelensky to find a
+way to end the war — even by resigning himself, if necessary — and to
+allow the process of rebuilding his nation to get under way.  Zelensky
+is not budging, according to intercepts and other data known inside
+the Central Intelligence Agency, but he is beginning to lose the
+private support of his neighbors"
+
+[[-]](https://seymourhersh.substack.com/p/the-ukraine-refugee-question)
+
+---
+
+"@JeriLRyan@mastodon.world
+
+The complete final season of \#startrekpicard is now streaming
+worldwide. 🖖
+
+Hmm… sounds like a good time for a rewatch!"
+
+---
+
+*The Best Man*, perfectly fine action. 
+
+---
+
+*Crater* - how come Disney did not screw this one up? Fine movie, kids
+would like it and parents wld be entertained.. 
+
+---
+
+Cleantech: "Last November Governor Reeves proudly announced that
+Indiana-based Steel Dynamics is pumping $2.5 billion into an expansion
+of its existing campus in Mississippi...
+
+Hy Stor first proposed a green hydrogen hub for Mississippi back in 2021. 
+Under the name Mississippi Clean Hydrogen Hub (MCHH), the project
+leverages Hy Stor’s underground salt formations for storing
+hydrogen gas in bulk, produced only from renewable resources. Hydrogen
+functions as an energy carrier, so the bulk storage angle would
+effectively provide steel makers and other industrial users with
+reliable, 24/7 access to renewable energy...
+
+Despite all anti-ESG posturing, Governor Reeves enthusiastically
+endorsed the project in a hearty letter of support addressed to US
+Energy Secretary Jennifer Granholm in October of 2021"
+
+---
+
+"Aubrey@starshaped@labyrinth.social
+
+A sign I'm getting old -- all my favorite albums have remastered
+versions. How did this happen?"
+
+---
+
+Part of ESG is "dumb green" projects eg electrification, batteries,
+battery-electric cars. Clean fuels should not be bundled together with
+them. H2, NH3 approach can scale, is open to both old and new
+participants in the industry.
+
+---
+
+Oz Independent MP Chaney: "We need to have a broader conversation
+about housing affordability, everyone wants the value of their home to
+stay high, they also want their kids to be able to afford a house one
+day. There is a fundamental disconnect here. We have to be able to
+talk about things like negative gearing, capital gains tax, as well as
+supply-side issues rather than continuing just responding with more
+popular demand side injections of additional funds that just drive the
+prices further up" \#ABC
+
+---
+
 "Thanks to the fleet of the first world-class and top-ranked EuroHPC
 supercomputers, European scientists and industry are increasingly
 processing their data inside the EU. Such a trend is not only

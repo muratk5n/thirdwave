@@ -151,10 +151,10 @@ crony capitalism [won](https://youtu.be/RVOCFci_3rM?t=2428).
 
 ---
 
-Increased cases of astma, autism; industrial polution is to blame? \#RFKJr
-It is surprising for foreigners so many ppl in US have bizarre medical
-conditions compared to developing countries. Some chalk it up to US
-improved med tech diagnosis but the culprit could be elsewhere.
+\#RFKJr talks about industrial polution. It is surprising for
+foreigners so many ppl in US have bizarre medical conditions compared
+to developing countries. Some chalk it up to US improved med tech
+diagnosis but the culprit could be elsewhere.
 
 ---
 

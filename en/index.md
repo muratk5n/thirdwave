@@ -16,90 +16,56 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-Autocar: "Honda, Kawasaki, Suzuki, And Yamaha Join Forces On Hydrogen Bikes"
+Sudan Tribune: "[2022/09] The U.S ambassador to Sudan, John Godfrey
+warned of consequences if Khartoum allows Russia to establish a
+military base at the Red Sea coast"
 
 ---
 
-Fast Company: "Cara Delevingne sprays industrial wastewater on her
-face in her latest beauty campaign.. The English model is lending her
-face to Swedish energy company Vattenfall, using a beauty product
-designed to illustrate the cleanliness of its hydrogen production."
+Sullivan home break in before.. some kind of notable event, sup
 
 ---
 
-Hersh: "[A]s some in the American intelligence community know and have
-reported in secret, at the instigation of government officials at
-various levels in Poland, Hungary, Lithuania, Estonia, the Czech
-Republic, and Latvia.. all allies of Ukraine and declared enemies of
-Vladimir Putin.. [they have] been quietly urging Zelensky to find a
-way to end the war — even by resigning himself, if necessary — and to
-allow the process of rebuilding his nation to get under way.  Zelensky
-is not budging, according to intercepts and other data known inside
-the Central Intelligence Agency, but he is beginning to lose the
-private support of his neighbors"
-
-[[-]](https://seymourhersh.substack.com/p/the-ukraine-refugee-question)
+Blinken is about to meet the Chinese, the baloon incident.
 
 ---
 
-"@JeriLRyan@mastodon.world
+Two days later - civil war
 
-The complete final season of \#startrekpicard is now streaming
-worldwide. 🖖
-
-Hmm… sounds like a good time for a rewatch!"
-
----
-
-*The Best Man*, perfectly fine action. 
+Blinken: "[04/12] I spoke with Sovereign Council Chair General
+[Burhan] today to highlight U.S. support for Sudanese democratic
+aspirations and to urge the swift formation of a civilian-led
+transitional government"
 
 ---
 
-*Crater* - how come Disney did not screw this one up? Fine movie, kids
-would like it and parents wld be entertained.. 
+Finnish former commando fighting the generic baddie "Nazis" but the
+origin story is key, he was wronged by Russia Russia Russia.
+
+Finland is of course an RU border country who just recently became a
+NATO member. In the beginning of the movie they even show the Finnish
+hero mining for gold, he is practically an American for god's sake!
+Identify with that man and his nation, please! We beg you!
+
+One day maybe the Anglo will stir some shit up btw FN/RU too and the
+then Fin leader will go around inspired by this movie ask for hardware
+for war he could've easily avoid.
 
 ---
 
-Cleantech: "Last November Governor Reeves proudly announced that
-Indiana-based Steel Dynamics is pumping $2.5 billion into an expansion
-of its existing campus in Mississippi...
-
-Hy Stor first proposed a green hydrogen hub for Mississippi back in 2021. 
-Under the name Mississippi Clean Hydrogen Hub (MCHH), the project
-leverages Hy Stor’s underground salt formations for storing
-hydrogen gas in bulk, produced only from renewable resources. Hydrogen
-functions as an energy carrier, so the bulk storage angle would
-effectively provide steel makers and other industrial users with
-reliable, 24/7 access to renewable energy...
-
-Despite all anti-ESG posturing, Governor Reeves enthusiastically
-endorsed the project in a hearty letter of support addressed to US
-Energy Secretary Jennifer Granholm in October of 2021"
+*Sisu* - good action but has some psyop. 
 
 ---
 
-"Aubrey@starshaped@labyrinth.social
-
-A sign I'm getting old -- all my favorite albums have remastered
-versions. How did this happen?"
-
----
-
-Part of ESG is "dumb green" projects eg electrification, batteries,
-battery-electric cars. Clean fuels should not be bundled together with
-them. H2, NH3 approach can scale, is open to both old and new
-participants in the industry.
+Regulation, fine. But we need to realize it is because the stuff isn't
+smart, precisely the opposite, it is too freaking stupid, parrot-like
+\#AI
 
 ---
 
-Oz Independent MP Chaney: "We need to have a broader conversation
-about housing affordability, everyone wants the value of their home to
-stay high, they also want their kids to be able to afford a house one
-day. There is a fundamental disconnect here. We have to be able to
-talk about things like negative gearing, capital gains tax, as well as
-supply-side issues rather than continuing just responding with more
-popular demand side injections of additional funds that just drive the
-prices further up" \#ABC
+Denis Ritchie e-mail about `#!` usage in shell scripts \#geek
+
+[[-]](https://s3.masto.ai/media_attachments/files/110/393/849/972/493/682/original/9845aabb05666cb7.jpg)
 
 ---
 

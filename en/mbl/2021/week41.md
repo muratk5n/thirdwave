@@ -210,12 +210,6 @@ It's all there in the stats.. It's crazy.
 
 ---
 
-Harbor Tea Rooms - Midnight Hour \#music
-
-[[-]](https://youtu.be/gzNU7aRvA9E)
-
----
-
 The Mandarin: "US prepares for potential $1.3b sale of navy helicopters to Australia"
 
 ---
