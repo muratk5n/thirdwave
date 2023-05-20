@@ -47,10 +47,6 @@ NATO member. In the beginning of the movie they even show the Finnish
 hero mining for gold, he is practically an American for god's sake!
 Identify with that man and his nation, please! We beg you!
 
-One day maybe the Anglo will stir some shit up btw FN/RU too and the
-then Fin leader will go around inspired by this movie ask for hardware
-for war he could easily avoid.
-
 ---
 
 *Sisu* - good action but has some psyop. 
