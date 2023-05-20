@@ -39,6 +39,12 @@ transitional government"
 
 ---
 
+One UA mention I remember before the war was from *Transporter 3*,
+Ukranian female character gets offended when mistakenly called Russian,
+"we are so different, dont call me Russian!"
+
+---
+
 Finnish former commando fighting the generic baddie "Nazis" but the
 origin story is key, he was wronged by Russia Russia Russia.
 
