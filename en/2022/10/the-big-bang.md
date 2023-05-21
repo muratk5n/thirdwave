@@ -1,5 +1,22 @@
 # The Big Bang
 
+### JWST
+
+The findings of JWST provided incontrovertible proof against the Big Bang theory.
+
+Michio Kaku: "The James Webb Telescope is upsetting the apple
+cart. All of a sudden we realize that we may have to rewrite all of
+the textbooks about the beginning of the universe. It takes many
+billions of years to create a galaxy like the Milky Way galaxy with a
+hundred billion stars many billions of years old, but the James Webb
+Telescope has identified six galaxies that exist half a billion years
+after the big bang that are up to 10 times bigger than the Milky Way
+galaxy. That shouldn't have happened. There should not be primordial
+galaxies that are bigger than the Milky Way galaxy that are only half
+a billion years old. Something is wrong, we may have to revise our
+theory of the creation of the universe"
+
+
 ### The Herouni Antenna, CMB
 
 [Paper](http://elib.sci.am/2007_1/10_1_2007.pdf)
@@ -68,3 +85,4 @@ References
 [3] Lerner, [The Big Bang Never Happened](../../2023/01/the-big-bang-never-happened-lerner.html)
 
 [[Up](../../2018/09/junk-science.html)]
+
