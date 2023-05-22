@@ -72,7 +72,7 @@ after Syria was readmitted to the Arab League"
 
 Lack of understanding will get you in harder problems. The real world
 is not a constrained, finite-space Go board. It is messy. That's why
-neural net based cars still [cannot drive](https://futurism.com/experts-alarmed-tesla-fsd).
+neural net based cars still [cannot drive safely](https://futurism.com/experts-alarmed-tesla-fsd).
 
 ---
 
