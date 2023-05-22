@@ -61,7 +61,7 @@ reflect ‘realities’ of today"
 ---
 
 Others in the Gulf were involved in Syria conflict too, but Qatar took
-to the effort with passion, became wedded to it as a win there would
+to the effort with more gusto, became wedded to it as a win there would
 prove that they had "arrived". It all went bust. 
 
 ---
