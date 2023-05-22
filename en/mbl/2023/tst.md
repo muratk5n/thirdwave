@@ -20,7 +20,7 @@ pd.set_option('display.max_columns', None)
 
 ```python
 clat=48.59;clon=37.96
-u.sm_plot_ukr1('ukrdata/fl-0516.csv','ukrdata/fl-0511.csv',['Yahidne','Khromove','Bohdanivka','Bakhmut'],clat,clon,zoom=0.03)
+u.sm_plot_ukr1('ukrdata/fl-0521.csv','ukrdata/fl-0516.csv',["West Bakhmut Sports Complex","Bakhmut Children's Hospital","West Bakhmut Residential Area","Bakhmut"],clat,clon,zoom=0.005)
 plt.savefig('/tmp/out.jpg',quality=40)
 ```
 
