@@ -16,7 +16,6 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-
 Politico: "[Matthew Desmond] makes a refreshing, brutally honest case
 that poverty is pervasive in America by design, to enable the
 lifestyles of affluent people. U.S. rates of poverty are substantially
@@ -35,19 +34,15 @@ mobility is rare"
 
 ---
 
-Prison phone company? Apperently there is a biness for that, they
-charge $25 for 15 min call. 
-
----
-
-End of empire
+End of empire?
 
 Politico: "Debt ceiling talks break down and attacks escalate as
 deadline approaches"
 
 ---
 
-The Japan Times: "China and Russia lash out at G7 'double containment' attempt"
+The Japan Times: "China and Russia lash out at G7 'double containment'
+attempt"
 
 ---
 
@@ -67,19 +62,14 @@ reflect ‘realities’ of today"
 
 Others in the Gulf were involved in Syria conflict too, but Qatar took
 to the effort with passion, became wedded to it as a win there would
-prove that they had "arrived". It was not meant to be... It was a
-major loss of face for them.
+prove that they had "arrived". It all went bust. 
+
+---
 
 Al-Monitor: "Qatar emir skips Assad's Arab League speech in Saudi
 Arabia.. The leaders of Saudi Arabia, Jordan and Egypt publicly
 praised Syrian President Bashar al-Assad’s participation in the summit
 after Syria was readmitted to the Arab League"
-
----
-
-2030 BMW X5 \#H2
-
-[[-]](https://youtu.be/auvqe-4At9c?t=301)
 
 ---
 
@@ -96,7 +86,7 @@ design improvements in a certain tree search approach (human coded,
 not deepfaked by an parrot moron algo), but the rest is... simple
 compression. Sample games are compressed into a neural net, for
 subsequent games computer can make similar moves "inspired" by that
-training data.. That's pretty much it. 
+training data.. 
 
 ---
 
