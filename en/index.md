@@ -86,7 +86,7 @@ design improvements in a certain tree search approach (human coded,
 not deepfaked by an parrot moron algo), but the rest is... simple
 compression. Sample games are compressed into a neural net, for
 subsequent games computer can make similar moves "inspired" by that
-training data.. 
+training data..  The machinery does not truly understand the game of Go.
 
 ---
 
