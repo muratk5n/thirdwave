@@ -20,14 +20,11 @@ Politico: "[Matthew Desmond] makes a refreshing, brutally honest case
 that poverty is pervasive in America by design, to enable the
 lifestyles of affluent people. U.S. rates of poverty are substantially
 higher and more extreme than those found in 25 other developed OECD
-countries, including Australia, Canada, France, Germany, Poland,
-Portugal and the United Kingdom.
-
-[His] greatest contribution is changing the lens from individual
-behavior — the hoary focus of so many books about poverty — to asking
-and answering the larger question, “Who benefits from practices that
-keep people poor?” Poverty, he argues, results from three
-quintessentially American habits: exploitation of the poor;
+countries.. [His] greatest contribution is changing the lens from
+individual behavior — the hoary focus of so many books about poverty —
+to asking and answering the larger question, 'Who benefits from
+practices that keep people poor?' Poverty, he argues, results from
+three quintessentially American habits: exploitation of the poor;
 subsidization of the rich; and the intentional segregation of the
 affluent and the poor such that opportunity is hoarded and social
 mobility is rare"
