@@ -46,8 +46,7 @@ military buildings and on the homes of senior officers"
 ---
 
 Not sure of his mgmt chops but a pro-progressive statement is made
-through the pick. D.C. is good guy, that's why the corporatist wing
-never liked him.
+through the pick. The corporatist wing of Dems never liked Kucinich.
 
 NBC News: "Robert F. Kennedy Jr. names Dennis Kucinich as 2024 campaign manager"
 
