@@ -16,11 +16,6 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-If you can be China, be China. Don't try to be China and Italy at the
-same time.
-
----
-
 Same problem different country. Either unelected bureucrats run the
 country, or elected politicians do. Make up your mind. Can't have
 both.
@@ -77,12 +72,6 @@ it led both to a general decline in trade union influence in the
 UK... Along with the miners' strike of 1984–85, the Wapping dispute
 was a significant defeat in the history of the British trade union
 movement"
-
----
-
-Termux (Unix on Droid) OS related problems are apparently past OS 11.
-Imma give it a shot on a Lenovo tablet. Running elisp, py, rust on
-mobile is a major plus. \#geek
 
 ---
 
