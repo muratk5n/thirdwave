@@ -35,7 +35,7 @@ Forward, but that raises the risk of more street protests"
 ---
 
 Military talks too much. Stop meddling in politics. Go back to your
-barracks asshole
+barracks. Get a coke and a smile and shut the fuck up.
 
 The Japan Times: "Uncertainty in Pakistan as military faces
 unprecedented challenge to authority.. Khan’s arrest on corruption
