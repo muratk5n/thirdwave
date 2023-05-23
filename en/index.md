@@ -81,8 +81,8 @@ movement"
 
 ---
 
-Termux (Unix on Droid) OS related problems are apparently past OS
-11. Imma give it another shot.
+Termux (Unix on Droid) OS related problems are apparently past OS 11. 
+Imma give it another shot.
 
 Running elisp, py, rust on mobile is a major plus.
 
