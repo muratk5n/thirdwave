@@ -16,6 +16,10 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
+Israeli troops on Tuesday demolished the West Bank home of a Palestinian militant who was killed after carrying out a deadly shooting
+
+---
+
 Al Jazeera: "Russia to move newest nuclear sub to Pacific in
 August.. The Generalissimo Suvorov is part of the new Borei class of
 stealthier, more nimble undersea vessels"
