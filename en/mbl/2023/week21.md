@@ -1,5 +1,87 @@
 # Week 21
 
+Same problem different country. Either unelected bureucrats run the
+country, or elected politicians do. Make up your mind. Can't have
+both.
+
+CNBC: "Thailand’s Move Forward party swept up a majority of votes in a
+historic election but the official result will only be delivered a
+month from now... If the Move Forward party officially wins, its
+controversial policies could threaten the military and the monarchy.
+Ruling elites could ban Move Forward, just like its predecessor Future
+Forward, but that raises the risk of more street protests"
+
+---
+
+Military talks too much. Stop meddling in politics. Go back to your
+barracks. Get a coke and a smile and shut the fuck up.
+
+The Japan Times: "Uncertainty in Pakistan as military faces
+unprecedented challenge to authority.. Khan’s arrest on corruption
+charges earlier this month, which he says was at the behest of the
+generals, led to violent nationwide protests, including attacks on
+military buildings and on the homes of senior officers"
+
+---
+
+Not sure of his mgmt chops but a pro-progressive statement is made
+through the pick. The corporatist wing of Dems never liked Kucinich.
+
+NBC News: "Robert F. Kennedy Jr. names Dennis Kucinich as 2024 campaign manager"
+
+---
+
+"@mikestevens@aus.social
+
+ngl this is a killer cast"
+
+[[-]](https://s3.ap-southeast-2.wasabisys.com/aussocial/media_attachments/files/110/393/173/259/376/969/small/25f0406b705ffea9.jpeg)
+
+---
+
+No wonder his Fox News had problems with Tucker, he was consorting
+with the enemy, giving voice to too many leftists.
+
+---
+
+Murdoch.. This guy was there when it all started. A neolib legend.
+
+Wiki: "The Wapping dispute was a lengthy failed strike by print
+workers in London in 1986. Print unions tried to block distribution of
+*The Sunday Times*, along with other newspapers in Rupert Murdoch's
+News International group, after production was shifted to a new plant
+in Wapping in January 1986... All of the workers were dismissed. The
+failure of the strike was devastating for the print union workers, and
+it led both to a general decline in trade union influence in the
+UK... Along with the miners' strike of 1984–85, the Wapping dispute
+was a significant defeat in the history of the British trade union
+movement"
+
+---
+
+Nice
+
+"This week my novel *Der letzte Auftrag* climbed to 11th place on the
+bestseller list in Germany. Planned and written completely in Emacs,
+with the help of Orgmode, Olivetti, and you guys here at Reddit. Thank
+you so much!"
+
+---
+
+TASS: "Russia able to conduct its special military op for a long time —
+German intelligence chief"
+
+---
+
+Euractiv: "Migration hardliner poised to lead Austria’s Social Democrats"
+
+---
+
+CNBC: "Isolating China will be 'impossible and dangerous,' analyst
+says, as the G-7 gets tough on Beijing"
+
+---
+
 Politico: "[Matthew Desmond] makes a refreshing, brutally honest case
 that poverty is pervasive in America by design, to enable the
 lifestyles of affluent people. U.S. rates of poverty are substantially
