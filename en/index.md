@@ -43,9 +43,7 @@ prediction database will revolutionise drug discovery are overblown"
 ---
 
 Deep Mind (Google's "AI" research lab -which basically applies parroty
-neural nets to weak AI problems) breaking new grounds in biology..?
-
-Nah
+neural nets to weak AI problems) breaking new grounds in biology..? Nah
 
 ---
 
