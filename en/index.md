@@ -16,85 +16,82 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-Same problem different country. Either unelected bureucrats run the
-country, or elected politicians do. Make up your mind. Can't have
-both.
+Lowe: "Why AlphaFold [NN in biology] won’t revolutionise drug
+discovery.. DeepMind’s AlphaFold team has been having quite a run of
+success in predicting protein structures. This has long been
+considered one of the truly difficult problems in computational
+biology..
 
-CNBC: "Thailand’s Move Forward party swept up a majority of votes in a
-historic election but the official result will only be delivered a
-month from now... If the Move Forward party officially wins, its
-controversial policies could threaten the military and the monarchy.
-Ruling elites could ban Move Forward, just like its predecessor Future
-Forward, but that raises the risk of more street protests"
+[But] some of the headlines have betrayed real misunderstandings about
+what’s been accomplished. First off, as I wrote here earlier this
+year, we have not made sudden huge leaps in understanding why proteins
+fold like they do. The AlphaFold people have made great progress in
+recognising different known protein folding motifs and assembling them
+into structures that are very often correct. Forming these coils,
+loops, and sheets is what proteins generally do, but ‘why?’ doesn’t
+enter into it...
 
----
+It also needs to be emphasised that (as carefully worded above) what
+we have are predictions and not real protein structures. They’re good
+predictions and useful ones, but obtaining actual data (from x-ray,
+NMR, or cryo-electron microscopy) is the only way to be sure how
+correct they are.. That’s why press coverage about how this new
+prediction database will revolutionise drug discovery are overblown"
 
-Military talks too much. Stop meddling in politics. Go back to your
-barracks. Get a coke and a smile and shut the fuck up.
-
-The Japan Times: "Uncertainty in Pakistan as military faces
-unprecedented challenge to authority.. Khan’s arrest on corruption
-charges earlier this month, which he says was at the behest of the
-generals, led to violent nationwide protests, including attacks on
-military buildings and on the homes of senior officers"
-
----
-
-Not sure of his mgmt chops but a pro-progressive statement is made
-through the pick. The corporatist wing of Dems never liked Kucinich.
-
-NBC News: "Robert F. Kennedy Jr. names Dennis Kucinich as 2024 campaign manager"
+[[-]](https://www.chemistryworld.com/opinion/why-alphafold-wont-revolutionise-drug-discovery/4016051.article)
 
 ---
 
-"@mikestevens@aus.social
+Deep Mind (Google's "AI" research lab -which basically applies parroty
+neural nets to weak AI problems) breaking new grounds in biology..?
 
-ngl this is a killer cast"
-
-[[-]](https://s3.ap-southeast-2.wasabisys.com/aussocial/media_attachments/files/110/393/173/259/376/969/small/25f0406b705ffea9.jpeg)
-
----
-
-No wonder his Fox News had problems with Tucker, he was consorting
-with the enemy, giving voice to too many leftists.
+Nah
 
 ---
 
-Murdoch.. This guy was there when it all started. A neolib legend.
-
-Wiki: "The Wapping dispute was a lengthy failed strike by print
-workers in London in 1986. Print unions tried to block distribution of
-*The Sunday Times*, along with other newspapers in Rupert Murdoch's
-News International group, after production was shifted to a new plant
-in Wapping in January 1986... All of the workers were dismissed. The
-failure of the strike was devastating for the print union workers, and
-it led both to a general decline in trade union influence in the
-UK... Along with the miners' strike of 1984–85, the Wapping dispute
-was a significant defeat in the history of the British trade union
-movement"
+Gulf News: "The Gulf Cooperation Council (GCC) is set to introduce a
+Schengen-style, unified visa for tourists and businessmen from 35
+foreign and Arab countries"
 
 ---
 
-Nice
-
-"This week my novel *Der letzte Auftrag* climbed to 11th place on the
-bestseller list in Germany. Planned and written completely in Emacs,
-with the help of Orgmode, Olivetti, and you guys here at Reddit. Thank
-you so much!"
+Al Jazeera: "[2023/03] China is planning to host an unprecedented
+summit attended by senior officials from Iran and its six Arab
+neighbours of the Gulf Cooperation Council (GCC), according to the
+Wall Street Journal"
 
 ---
 
-TASS: "Russia able to conduct its special military op for a long time —
-German intelligence chief"
+"Hypx@Hypx@mastodon.social
+
+UAE’s Masdar targets 1 million tonnes of green hydrogen by 2030"
 
 ---
 
-Euractiv: "Migration hardliner poised to lead Austria’s Social Democrats"
+Catchy 
+
+"Turning todos into tadas"
 
 ---
 
-CNBC: "Isolating China will be 'impossible and dangerous,' analyst
-says, as the G-7 gets tough on Beijing"
+Lerner: "To everyone who sees them, the new James Webb Space Telescope
+(JWST) images of the cosmos are beautifully awe-inspiring. But to most
+professional astronomers and cosmologists, they are also extremely
+surprising—not at all what was predicted by theory. In the flood of
+technical astronomical papers published online since July 12, the
+authors report again and again that the images show surprisingly many
+galaxies, galaxies that are surprisingly smooth, surprisingly small
+and surprisingly old.  Lots of surprises, and not necessarily pleasant
+ones. [One paper](https://arxiv.org/abs/2207.09428)’s title begins
+with the candid exclamation: “Panic!”
+
+Why do the JWST’s images inspire panic among cosmologists? And what
+theory’s predictions are they contradicting? The papers don’t actually
+say. The truth that these papers don’t report is that the hypothesis
+that the JWST’s images are blatantly and repeatedly contradicting is
+the Big Bang Hypothesis"
+
+[[-]](https://iai.tv/articles/the-big-bang-didnt-happen-auid-2215)
 
 ---
 
