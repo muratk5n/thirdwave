@@ -16,13 +16,6 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-They are interesting spectacles surely, in the way imitative animal
-acts are interesting, a video of a dancing cat, or karate monkey. But
-does the cat dance due to a deep need for dance? Does monkey truly
-know karate?
-
----
-
 Lowe: "Why AlphaFold [NN in biology] won’t revolutionise drug
 discovery.. DeepMind’s AlphaFold team has been having quite a run of
 success in predicting protein structures. This has long been
