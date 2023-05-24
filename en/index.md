@@ -66,9 +66,8 @@ Nah
 
 ---
 
-Gulf News: "The Gulf Cooperation Council (GCC) is set to introduce a
-Schengen-style, unified visa for tourists and businessmen from 35
-foreign and Arab countries"
+Gulf News: "[GCC] is set to introduce a Schengen-style, unified visa
+for tourists and businessmen from 35 foreign and Arab countries"
 
 ---
 
