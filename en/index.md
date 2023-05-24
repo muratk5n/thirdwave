@@ -16,6 +16,13 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
+They are interesting spectacles surely, in the way dancing cat, or
+karate monkey is interesting. But these are imitative actions. Does
+the cat dance because of a deep need for dance? Does monkey truly know
+karate?   
+
+---
+
 Lowe: "Why AlphaFold [NN in biology] won’t revolutionise drug
 discovery.. DeepMind’s AlphaFold team has been having quite a run of
 success in predicting protein structures. This has long been
@@ -42,8 +49,9 @@ prediction database will revolutionise drug discovery are overblown"
 
 ---
 
-Deep Mind (Google's "AI" research lab -which basically applies parroty
-neural nets to weak AI problems) breaking new grounds in biology..? Nah
+Deep Mind (Google's "AI" research lab which basically applies parroty
+neural nets to weak AI problems) breaking new grounds in biology..?
+Nah
 
 ---
 
