@@ -16,6 +16,12 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
+Al Jazeera: "Russia to move newest nuclear sub to Pacific in
+August.. The Generalissimo Suvorov is part of the new Borei class of
+stealthier, more nimble undersea vessels"
+
+---
+
 Lowe: "Why AlphaFold [NN in biology] won’t revolutionise drug
 discovery.. DeepMind’s AlphaFold team has been having quite a run of
 success in predicting protein structures. This has long been
