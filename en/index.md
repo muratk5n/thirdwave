@@ -16,10 +16,10 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-They are interesting spectacles surely, in the way dancing cat, or
-karate monkey is interesting. But these are imitative actions. Does
-the cat dance because of a deep need for dance? Does monkey truly know
-karate?   
+They are interesting spectacles surely, in the way imitative animal
+acts are interesting, a video of a dancing cat, or karate monkey. But
+does the cat dance due to a deep need for dance? Does monkey truly
+know karate?
 
 ---
 
