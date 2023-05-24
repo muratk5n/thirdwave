@@ -16,7 +16,15 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-Israeli troops on Tuesday demolished the West Bank home of a Palestinian militant who was killed after carrying out a deadly shooting
+CNBC: "The West’s oil war against Russia is starting to lose
+momentum.. The findings show that Moscow has been able to successfully
+claw back earnings from fossil fuel exports in recent weeks"
+
+---
+
+Al-Monitor: "Israeli troops on Tuesday demolished the West Bank home
+of a Palestinian militant who was killed after carrying out a deadly
+shooting"
 
 ---
 
