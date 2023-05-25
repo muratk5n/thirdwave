@@ -42,7 +42,7 @@ If neoliberalism did not turn out to be the shitshow it is today and
 actually worked for people, and they wanted to put up a statue to
 honor it, the monument would have those three guys, Pinochet, Reagan
 and Rupert. I would use [this picture](mbl/0119/2016/murdoch.jpg) with
-the newspaper headline engraved in stone..
+the newspaper headline engraved in stone for Rupert..
 
 ---
 
