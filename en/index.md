@@ -27,17 +27,6 @@ using 4 GW of solar energy, the statement said"
 
 ---
 
-Joint Letter on RU/UA: "We advocate for a meaningful and genuine
-commitment to diplomacy, specifically an immediate ceasefire and
-negotiations without any disqualifying or prohibitive
-preconditions. Deliberate provocations delivered the Russia-Ukraine
-War. In the same manner, deliberate diplomacy can end it" via
-@sahra_wagenknecht@social.linksfraktion.de
-
-[[-]](https://eisenhowermedianetwork.org/russia-ukraine-war-peace/)
-
----
-
 If neoliberalism did not turn out to be the shitshow it is today and
 actually worked for people, and they wanted to put up a statue to
 honor it, the monument would have those three guys, Pinochet, Reagan
