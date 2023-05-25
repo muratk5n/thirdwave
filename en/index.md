@@ -27,6 +27,19 @@ using 4 GW of solar energy, the statement said"
 
 ---
 
+Politico.eu: "Europe wants Latin America on side against Vladimir
+Putin. Good luck with that.. Diplomatic efforts to win support for
+Ukraine have been largely rebuffed so far"
+
+---
+
+WION: "The plastics industry has championed recycling as a critical
+solution to the rising problem of plastic waste. However, a research
+found that recycling itself may be producing massive amounts of
+microplastics"
+
+---
+
 If neoliberalism did not turn out to be the shitshow it is today and
 actually worked for people, and they wanted to put up a statue to
 honor it, the monument would have those three guys, Pinochet, Reagan
