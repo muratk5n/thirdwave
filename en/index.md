@@ -16,98 +16,56 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-CNBC: "The West’s oil war against Russia is starting to lose
-momentum.. The findings show that Moscow has been able to successfully
-claw back earnings from fossil fuel exports in recent weeks"
+
+
+
+Reuters: "Saudi Arabia's NEOM Green Hydrogen Company (NGHC) has signed
+financial documents with 23 local, regional and international banks
+and investment firms on a green hydrogen production facility at a
+total investment value of $8.4 billion.
+
+NGHC, a joint venture between ACWA Power, Air Products and NEOM, will
+produce 600 tonnes a day of carbon-free hydrogen by the end of 2026
+using 4 GW of solar energy, the statement said"
 
 ---
 
-Al-Monitor: "Israeli troops on Tuesday demolished the West Bank home
-of a Palestinian militant who was killed after carrying out a deadly
-shooting"
+Joint Letter on RU/UA: "We advocate for a meaningful and genuine
+commitment to diplomacy, specifically an immediate ceasefire and
+negotiations without any disqualifying or prohibitive
+preconditions. Deliberate provocations delivered the Russia-Ukraine
+War. In the same manner, deliberate diplomacy can end it" via
+@sahra_wagenknecht@social.linksfraktion.de
+
+[[-]](https://eisenhowermedianetwork.org/russia-ukraine-war-peace/)
 
 ---
 
-Al Jazeera: "Russia to move newest nuclear sub to Pacific in
-August.. The Generalissimo Suvorov is part of the new Borei class of
-stealthier, more nimble undersea vessels"
+If neoliberalism did not turn out to be the shitshow it is today and
+actually worked for people, and they wanted to put up a statue to
+honor it, it would those three guys, Pinochet, Reagan and Rupert. I
+would use [this picture](mbl/0119/2016/murdoch.jpg) with the newspaper
+headline clearly visible, engraved in stone saying "Abu's Been
+Sleeping In My Bed".
 
 ---
 
-Lowe: "Why AlphaFold [NN in biology] won’t revolutionise drug
-discovery.. DeepMind’s AlphaFold team has been having quite a run of
-success in predicting protein structures. This has long been
-considered one of the truly difficult problems in computational
-biology..
-
-[But] some of the headlines have betrayed real misunderstandings about
-what’s been accomplished. First off, as I wrote here earlier this
-year, we have not made sudden huge leaps in understanding why proteins
-fold like they do. The AlphaFold people have made great progress in
-recognising different known protein folding motifs and assembling them
-into structures that are very often correct. Forming these coils,
-loops, and sheets is what proteins generally do, but ‘why?’ doesn’t
-enter into it...
-
-It also needs to be emphasised that (as carefully worded above) what
-we have are predictions and not real protein structures. They’re good
-predictions and useful ones, but obtaining actual data (from x-ray,
-NMR, or cryo-electron microscopy) is the only way to be sure how
-correct they are.. That’s why press coverage about how this new
-prediction database will revolutionise drug discovery are overblown"
-
-[[-]](https://www.chemistryworld.com/opinion/why-alphafold-wont-revolutionise-drug-discovery/4016051.article)
+Pinochet's coup in Chile allowed the "Chicago boys" to practice their
+mucky art unimpeded for a while in isolation. 'The revolution" was copied
+to other countries later.
 
 ---
 
-Deep Mind (Google's "AI" research lab which basically applies parroty
-neural nets to weak AI problems) breaking new grounds in biology..?
-Nah
+The three key events of neolib history, the Pinochet coup in Chile,
+Reagan's firing of 11,000 striking air traffic controllers, and that
+Murdoch thing with the print union workers. That is how Rupert got to
+join the pantheon.
 
 ---
 
-Gulf News: "[GCC] is set to introduce a Schengen-style, unified visa
-for tourists and businessmen from 35 foreign and Arab countries"
-
----
-
-Al Jazeera: "[2023/03] China is planning to host an unprecedented
-summit attended by senior officials from Iran and its six Arab
-neighbours of the Gulf Cooperation Council (GCC), according to the
-Wall Street Journal"
-
----
-
-"Hypx@Hypx@mastodon.social
-
-UAE’s Masdar targets 1 million tonnes of green hydrogen by 2030"
-
----
-
-Catchy 
-
-"Turning todos into tadas"
-
----
-
-Lerner: "To everyone who sees them, the new James Webb Space Telescope
-(JWST) images of the cosmos are beautifully awe-inspiring. But to most
-professional astronomers and cosmologists, they are also extremely
-surprising—not at all what was predicted by theory. In the flood of
-technical astronomical papers published online since July 12, the
-authors report again and again that the images show surprisingly many
-galaxies, galaxies that are surprisingly smooth, surprisingly small
-and surprisingly old.  Lots of surprises, and not necessarily pleasant
-ones. [One paper](https://arxiv.org/abs/2207.09428)’s title begins
-with the candid exclamation: “Panic!”
-
-Why do the JWST’s images inspire panic among cosmologists? And what
-theory’s predictions are they contradicting? The papers don’t actually
-say. The truth that these papers don’t report is that the hypothesis
-that the JWST’s images are blatantly and repeatedly contradicting is
-the Big Bang Hypothesis"
-
-[[-]](https://iai.tv/articles/the-big-bang-didnt-happen-auid-2215)
+AP News: "Prime Minister Narendra Modi has struck new agreements with
+his Australian counterpart Anthony Albanese on migration and green
+hydrogen"
 
 ---
 
