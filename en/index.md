@@ -16,9 +16,6 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-
-
-
 Reuters: "Saudi Arabia's NEOM Green Hydrogen Company (NGHC) has signed
 financial documents with 23 local, regional and international banks
 and investment firms on a green hydrogen production facility at a
@@ -45,8 +42,7 @@ If neoliberalism did not turn out to be the shitshow it is today and
 actually worked for people, and they wanted to put up a statue to
 honor it, it would those three guys, Pinochet, Reagan and Rupert. I
 would use [this picture](mbl/0119/2016/murdoch.jpg) with the newspaper
-headline clearly visible, engraved in stone saying "Abu's Been
-Sleeping In My Bed".
+headline engraved in stone..
 
 ---
 
