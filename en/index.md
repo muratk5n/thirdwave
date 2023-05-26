@@ -16,54 +16,71 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-Reuters: "Saudi Arabia's NEOM Green Hydrogen Company (NGHC) has signed
-financial documents with 23 local, regional and international banks
-and investment firms on a green hydrogen production facility at a
-total investment value of $8.4 billion.
+Wasn't migration one of the primary reasons for Brexit? The Brexit that
+was "delivered" by cons?
 
-NGHC, a joint venture between ACWA Power, Air Products and NEOM, will
-produce 600 tonnes a day of carbon-free hydrogen by the end of 2026
-using 4 GW of solar energy, the statement said"
+CNBC: "UK net migration hits record high of 606,000"
 
 ---
 
-Politico.eu: "Europe wants Latin America on side against Vladimir
-Putin. Good luck with that.. Diplomatic efforts to win support for
-Ukraine have been largely rebuffed so far"
+2030 BMW X5 \#H2
+
+[[-]](https://youtu.be/auvqe-4At9c?t=301)
 
 ---
 
-WION: "The plastics industry has championed recycling as a critical
-solution to the rising problem of plastic waste. However, a research
-found that recycling itself may be producing massive amounts of
-microplastics"
+An estimate BTW by definition gives a number for
+discovered + yet undiscovered reserves an estimate on the total. If
+the number falls short, the tech's future is in trouble. In this case
+there isn't any, but.. it's a figure of speech.
 
 ---
 
-If neoliberalism did not turn out to be the shitshow it is today and
-actually worked for people, and they wanted to put up a statue to
-honor it, the monument would have those three guys, Pinochet, Reagan
-and Rupert. I would use [this picture](mbl/0119/2016/murdoch.jpg) with
-the newspaper headline engraved in stone for Rupert..
+Later in the article he says 'there could be more lithium'. Wishful
+thinking... 
 
 ---
 
-Pinochet's coup in Chile allowed the "Chicago boys" to practice their
-mucky art unimpeded for a while in isolation. 'The revolution" was copied
-to other countries later.
+He understates the problem, the reserves are enough for only a quarter
+of transportation needs. At least he acknowledged the problem tho, not
+may BEVtards do.
+
+Noah Smith: "The current amount of lithium reserves is worryingly
+close to the total that we might need to electrify transportation, and
+of course there will be competing demands for lithium from power
+storage, robots, appliances, and other applications"
 
 ---
 
-The three key events of neolib history, the Pinochet coup in Chile,
-Reagan's firing of 11,000 striking air traffic controllers, and that
-Murdoch thing with the print union workers. That is how Rupert got to
-join the pantheon.
+Al-Monitor: "French navy in Mideast seizes $108M drug shipment in Indian Ocean"
 
 ---
 
-AP News: "Prime Minister Narendra Modi has struck new agreements with
-his Australian counterpart Anthony Albanese on migration and green
-hydrogen"
+H2 Fuel News: "Why are hydrogen fuel cars such a draw in Japan? Though
+Toyota has made the biggest headlines, other automakers are committing
+to H2 as well. Toyota has been outspoken in its passion about hydrogen
+fuel cars, already having had two versions of its Mirai on the market
+for several years, but other Japanese automakers have recently
+collectively agreed to develop their own H2 passenger vehicles"
+
+---
+
+"It's pronounced 'Sigh Pie'" - thank you \#scipy  😂
+
+---
+
+"Elegant bitch with a ho glow"
+
+---
+Green Car Congress: "Study finds running a hydrogen plane could be
+cheaper than traditional aircraft by 2035; requires correct policies
+and incentives"
+
+---
+
+Pakistan's military / civilian rule divide, and the drama associated
+with it... No I dont make light of it, find it amusing - I find it
+familiar.
 
 ---
 

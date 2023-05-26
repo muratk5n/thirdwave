@@ -1,5 +1,56 @@
 # Week 21
 
+Reuters: "Saudi Arabia's NEOM Green Hydrogen Company (NGHC) has signed
+financial documents with 23 local, regional and international banks
+and investment firms on a green hydrogen production facility at a
+total investment value of $8.4 billion.
+
+NGHC, a joint venture between ACWA Power, Air Products and NEOM, will
+produce 600 tonnes a day of carbon-free hydrogen by the end of 2026
+using 4 GW of solar energy, the statement said"
+
+---
+
+Politico.eu: "Europe wants Latin America on side against Vladimir
+Putin. Good luck with that.. Diplomatic efforts to win support for
+Ukraine have been largely rebuffed so far"
+
+---
+
+WION: "The plastics industry has championed recycling as a critical
+solution to the rising problem of plastic waste. However, a research
+found that recycling itself may be producing massive amounts of
+microplastics"
+
+---
+
+If neoliberalism did not turn out to be the shitshow it is today and
+actually worked for people, and they wanted to put up a statue to
+honor it, the monument would have those three guys, Pinochet, Reagan
+and Rupert. I would use [this picture](mbl/0119/2016/murdoch.jpg) with
+the newspaper headline engraved in stone for Rupert..
+
+---
+
+Pinochet's coup in Chile allowed the "Chicago boys" to practice their
+mucky art unimpeded for a while in isolation. 'The revolution" was copied
+to other countries later.
+
+---
+
+The three key events of neolib history, the Pinochet coup in Chile,
+Reagan's firing of 11,000 striking air traffic controllers, and that
+Murdoch thing with the print union workers. That is how Rupert got to
+join the pantheon.
+
+---
+
+AP News: "Prime Minister Narendra Modi has struck new agreements with
+his Australian counterpart Anthony Albanese on migration and green
+hydrogen"
+
+---
+
 CNBC: "The West’s oil war against Russia is starting to lose
 momentum.. The findings show that Moscow has been able to successfully
 claw back earnings from fossil fuel exports in recent weeks"
