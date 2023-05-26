@@ -16,8 +16,8 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-Wasn't migration one of the primary reasons for Brexit? The Brexit that
-was "delivered" by cons?
+Wasn't migration one of the primary reasons for Brexit? The Brexit
+that was "delivered" by the cons?
 
 CNBC: "UK net migration hits record high of 606,000"
 
