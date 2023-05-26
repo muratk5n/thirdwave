@@ -31,14 +31,14 @@ CNBC: "UK net migration hits record high of 606,000"
 
 Later in the article he says 'there could be more lithium'. Wishful
 thinking... The estimates give a number for discovered + yet
-undiscovered reserves an estimate on the total. If the number falls
-short, the tech's future is in trouble.
+undiscovered reserves an estimate on the total. If that number falls
+short (and it does), the tech's future is in trouble.
 
 ---
 
 He understates the problem, the reserves are enough for only a quarter
 of transportation needs. But at least NS acknowledged the issue, not
-may BEVtards do.
+many BEVtards do.
 
 Noah Smith: "The current amount of lithium reserves is worryingly
 close to the total that we might need to electrify transportation, and
