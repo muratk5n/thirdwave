@@ -29,10 +29,9 @@ CNBC: "UK net migration hits record high of 606,000"
 
 ---
 
-An estimate BTW by definition gives a number for
-discovered + yet undiscovered reserves an estimate on the total. If
-the number falls short, the tech's future is in trouble. In this case
-there isn't any, but.. it's a figure of speech.
+An estimate BTW by definition gives a number for discovered + yet
+undiscovered reserves an estimate on the total. If the number falls
+short, the tech's future is in trouble.
 
 ---
 
