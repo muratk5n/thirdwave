@@ -37,7 +37,7 @@ short, the tech's future is in trouble.
 ---
 
 He understates the problem, the reserves are enough for only a quarter
-of transportation needs. At least he acknowledged the problem tho, not
+of transportation needs. But at least NS acknowledged the issue, not
 may BEVtards do.
 
 Noah Smith: "The current amount of lithium reserves is worryingly
