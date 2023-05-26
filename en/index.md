@@ -29,14 +29,10 @@ CNBC: "UK net migration hits record high of 606,000"
 
 ---
 
-An estimate BTW by definition gives a number for discovered + yet
+Later in the article he says 'there could be more lithium'. Wishful
+thinking... The estimates give a number for discovered + yet
 undiscovered reserves an estimate on the total. If the number falls
 short, the tech's future is in trouble.
-
----
-
-Later in the article he says 'there could be more lithium'. Wishful
-thinking... 
 
 ---
 
