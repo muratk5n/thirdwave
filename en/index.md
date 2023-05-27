@@ -22,7 +22,7 @@ and demonstration projects"
 
 ---
 
-There is bizarre ideas on population growth and its place in
+There are bizarre ideas on population growth and its place in
 economics..  Some keep arguing more people are needed for growth, but
 that is mainly a right-wing argument, they just want cheap labor, more
 people competing for jobs is good for them as they root for the
