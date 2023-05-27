@@ -22,6 +22,12 @@ and demonstration projects"
 
 ---
 
+On migration most in the US right-wing are two-faced; they say they
+are against it, but actually want the cheap labor it provides for the
+bosses who pay for them, so they secretly allow it.
+
+---
+
 There are bizarre ideas on population growth and its place in
 economics..  Some keep arguing more people are needed for growth, but
 that is mainly a right-wing argument, they just want cheap labor, more
