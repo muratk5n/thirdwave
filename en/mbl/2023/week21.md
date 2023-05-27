@@ -96,7 +96,7 @@ the newspaper headline engraved in stone for Rupert..
 ---
 
 Pinochet's coup in Chile allowed the "Chicago boys" to practice their
-mucky art unimpeded for a while in isolation. 'The revolution" was copied
+mucky art unimpeded for a while in isolation. "The revolution" was copied
 to other countries later.
 
 ---
