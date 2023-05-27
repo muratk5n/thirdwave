@@ -16,66 +16,88 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-Wasn't migration one of the primary reasons for Brexit? The Brexit
-that was "delivered" by the cons?
-
-CNBC: "UK net migration hits record high of 606,000"
-
----
-
-2030 BMW X5 \#H2
-
-[[-]](https://youtu.be/auvqe-4At9c?t=301)
+Nyserda: "Governor Kathy Hochul today announced a $10 million
+initiative to advance innovative clean hydrogen research, development
+and demonstration projects"
 
 ---
 
-Later in the article he says 'there could be more lithium'. Wishful
-thinking... The estimates give a number for discovered + yet
-undiscovered reserves an estimate on the total. If that number falls
-short (and it does), the tech's future is in trouble.
+There is bizarre ideas on population growth and its place in
+economics..  Some keep arguing more people are needed for growth, but
+that is mainly a right-wing argument, they just want cheap labor, more
+people competing for jobs is good for them as they root for the
+bosses, "the supply side". See below, povery *caused* population
+growth. Population growth in the industrial age did not fuel the
+industrial age, it was the result of it. Econ growth does not need
+numbers, it needs know-how. You don't need more workers to pay for
+retirees. Current accounting can tell you that, but that system is
+set up incorrectly.
 
 ---
 
-He understates the problem, the reserves are enough for only a quarter
-of transportation needs. But at least NS acknowledged the issue, not
-many BEVtards do.
+*The Limits to Growth, the 30 Year Update*: In poor
+countries.. [b]ecause immediate requirements leaves little output for
+industrial investment, the economy grows only slowly. The demographic
+transition stays stuck in the middle phase, with a large gap between
+birth and death rates. When women see no attractive educational or
+economic alternatives to childbearing, children are one of the few
+forms of investment available; thus the population grows bigger
+without growing richer.  As the saying goes, 'The rich get richer and
+the poor get children.'
 
-Noah Smith: "The current amount of lithium reserves is worryingly
-close to the total that we might need to electrify transportation, and
-of course there will be competing demands for lithium from power
-storage, robots, appliances, and other applications"
+International gatherings can become paralyzed by passionate
+arguments.. Poverty causes population growth, or population growth
+causes poverty.. By drawing output away from investment and into
+consumption, population growth slows capital growth. Poverty, in turn,
+perpetuates population growth by keeping people in conditions where
+they have no education, no health care, no family planning, no
+choices, no power, no way to get ahead except to hope their children
+can bring in income or help with family labor...
+
+Food production in every part of the South has increased greatly over
+the past 20 years. In most places it has doubled or tripled. But
+because of rapid population growth, food production per person has
+barely improved, and in Africa it has steadily decreased. The only
+places where food production has noticeably kept ahead of population
+growth are Europe and the Far East.  The graphs in figure 2-12 show a
+double tragedy. The first is a human one. A great agricultural
+achievement, a tremendous increase in food production, has been
+largely absorbed not in feeding people more adequately but in feeding
+more people inadequately. The second tragedy is environmental. The
+increase in food production has been attained by policies that damaged
+soils, waters, forests, and ecosystems, a cost that will make future
+production increases more difficult.
+
+But any positive feedback loop that grinds a system down can be turned
+around to lift the system up. More poverty means more population,
+which means more poverty. But less poverty means slower population
+growth, which means less poverty. With enough investment sustained for
+a long enough time, with fair pricing for products and labor, with
+increasing output allocated much more directly to the poor, and
+especially to the education and employment of women and to family
+planning, the effects of the population–poverty loop can be
+reversed"
 
 ---
 
-Al-Monitor: "French navy in Mideast seizes $108M drug shipment in Indian Ocean"
+Energy Voice: "Namibia’s cabinet has approved an agreement with Hyphen
+Hydrogen Energy on a $10 billion project. The plan is for sub-Saharan
+Africa’s largest – and only fully vertically integrated – green
+hydrogen project. At peak, the facility should produce 2 million
+tonnes per year of green ammonia for regional and global markets"
 
 ---
 
-H2 Fuel News: "Why are hydrogen fuel cars such a draw in Japan? Though
-Toyota has made the biggest headlines, other automakers are committing
-to H2 as well. Toyota has been outspoken in its passion about hydrogen
-fuel cars, already having had two versions of its Mirai on the market
-for several years, but other Japanese automakers have recently
-collectively agreed to develop their own H2 passenger vehicles"
+WION: "Tough to include Ukraine in NATO while war goes on: Stoltenberg"
 
 ---
 
-"It's pronounced 'Sigh Pie'" - thank you \#scipy  😂
+TASS: "Ukrainian conflict triggered by aspiration to bring it to NATO
+— Kissinger"
 
 ---
 
-"Elegant bitch with a ho glow"
-
----
-Green Car Congress: "Study finds running a hydrogen plane could be
-cheaper than traditional aircraft by 2035; requires correct policies
-and incentives"
-
----
-
-Pakistan's military / civilian rule divide, and the drama associated
-with it... No I dont make light of it, find it amusing - I find it
-familiar.
+TASS: "Ukraine must accept loss of Crimea — Kissinger"
 
 ---
 
