@@ -30,8 +30,8 @@ bosses, "the supply side". See below, povery *caused* population
 growth. Population growth in the industrial age did not fuel the
 industrial age, it was the result of it. Econ growth does not need
 numbers, it needs know-how. You don't need more workers to pay for
-retirees. Current accounting could indicate that, but that system is
-set up incorrectly.
+retirees. Current accounting could indicate that, but the efficacy of
+that accounting is in question.
 
 ---
 
