@@ -59,13 +59,13 @@ the past 20 years. In most places it has doubled or tripled. But
 because of rapid population growth, food production per person has
 barely improved, and in Africa it has steadily decreased. The only
 places where food production has noticeably kept ahead of population
-growth are Europe and the Far East.  The graphs in figure 2-12 show a
-double tragedy. The first is a human one. A great agricultural
-achievement, a tremendous increase in food production, has been
-largely absorbed not in feeding people more adequately but in feeding
-more people inadequately. The second tragedy is environmental. The
-increase in food production has been attained by policies that damaged
-soils, waters, forests, and ecosystems, a cost that will make future
+growth are Europe and the Far East.  The graphs.. show a double
+tragedy. The first is a human one. A great agricultural achievement, a
+tremendous increase in food production, has been largely absorbed not
+in feeding people more adequately but in feeding more people
+inadequately. The second tragedy is environmental. The increase in
+food production has been attained by policies that damaged soils,
+waters, forests, and ecosystems, a cost that will make future
 production increases more difficult.
 
 But any positive feedback loop that grinds a system down can be turned
