@@ -81,8 +81,8 @@ Bayern Munich wins again? How many has it been already? >10 times?
 RU also has fifth gen aircraft tech
 
 Politico: "F-16s won’t be a ‘magic weapon’ for Ukraine, Milley
-warns.. “The Russians have 1,000 fourth-generation fighters,” Joint
-Chiefs Chair Gen. Mark Milley told reporters at the Pentagon"
+warns.. 'The Russians have 1,000 fourth-generation fighters,' Joint
+Chiefs Chair.. told reporters at the Pentagon"
 
 ---
 
