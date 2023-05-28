@@ -30,5 +30,11 @@
 
 [The Horse, The Wheel, and Language](03/the-horse-the-wheel-steppes-anthony.html)
 
+[Eric Lerner, the Big Bang](04/ex-post-facto-lerner.html)
+
 [A Strategy for Israel in the Nineteen Eighties](04/strategy-for-israel-yinon.html)
+
+[The Debt Machine](05/debt-machine-video.html)
+
+[Timeline of Egypt, Ethiopia, Somalia, Dam Events](05/timeline-eth-som-egy.html)
 

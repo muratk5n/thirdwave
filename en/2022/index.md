@@ -52,7 +52,7 @@
 
 [H2 Production Methods](02/h2-production.html)
 
-[H2 Safety](02/h2-safety.html)
+[H2 Safety, Reduced/Zero Emissions](02/h2-safety.html)
 
 [H2 Storage Options](02/h2-storage.html)
 
