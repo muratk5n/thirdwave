@@ -28,8 +28,7 @@ separation is inherent to the process itself"
 
 ---
 
-"Work requirement" for federal help - again it's about depressing
-wages.
+"Work requirement" for federal help - again it's about wage supression.
 
 ---
 
