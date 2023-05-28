@@ -9,6 +9,23 @@ from yahoofinancials import YahooFinancials
 from pandas_datareader import data, wb
 from io import BytesIO
 
+def sm_plot_nile2():
+    fig, ax = plt.subplots() 
+    d = json.loads(open("nile.json").read())
+    clat,clon=13, 29;zoom=2.0
+    sm.plot_countries(clat,clon,zoom=zoom,ax=ax)
+    sm.plot_line(np.array(d['nile1']),ax,color='cyan',linestyle='solid')
+    sm.plot_line(np.array(d['nile2']),ax,color='cyan',linestyle='solid')
+    df = pd.read_csv('../../2022/01/oilgas-2018.csv')
+    fields = df[df.ISO == 'SDN'][['LAT_DD','LON_DD']]
+    fields = np.array(fields)
+    plt.plot(fields[:,1],fields[:,0],'r.')        
+    geo = ["Ethiopia", "Sudan","South Sudan"]
+    ps = np.array([[x, d[x][0], d[x][1]] for x in geo])
+    sm.plot_line(np.array(d['South Sudan Border']),ax,color='green',linestyle='solid')
+    sm_plot_list1(clat,clon,zoom,data=ps,ax=ax)
+    
+
 def sm_plot_libya2(geo):
     fig, ax = plt.subplots() 
     d = json.loads(open("libya.json").read())

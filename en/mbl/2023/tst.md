@@ -15,6 +15,34 @@ pd.set_option('display.max_columns', None)
 
 
 
+```python
+u.sm_plot_nile2()
+plt.savefig('/tmp/out.jpg',quality=40)
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

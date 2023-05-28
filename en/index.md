@@ -16,88 +16,72 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-Nyserda: "Governor Kathy Hochul today announced a $10 million
-initiative to advance innovative clean hydrogen research, development
-and demonstration projects"
+
+H2 Central: "While many carbon capture technologies target a 90-96%
+capture rate, the 8RH2 oxy-combustion process will eliminate virtually
+all direct CO2 emissions. Unlike standard hydrogen production, 8RH2
+uses natural gas and pure oxygen and then utilizes the CO2 produced in
+the combustion process as a heat transfer medium in a proprietary
+reformer before sequestering the CO2. 8RH2‘s advanced process
+eliminates the need for costly amine or cryogenic-based CO2 separation
+processes that are normally required to capture CO2, as carbon
+separation is inherent to the process itself"
 
 ---
 
-There are bizarre ideas on population growth and its place in
-economics..  Some keep arguing more people are needed for growth, but
-that is mainly a right-wing argument, they just want cheap labor, more
-people competing for jobs is good for them as they root for the
-bosses, "the supply side". See below, povery *caused* population
-growth. Population growth in the industrial age did not fuel the
-industrial age, it was the result of it. Econ growth does not need
-numbers, it needs know-how. You don't need more workers to pay for
-retirees. Current accounting could indicate that, but the efficacy of
-that accounting is in question.
+On migration most in the US right-wing are two-faced; they say they
+are against it, but actually want the cheap labor it provides for the
+bosses who pay for them, so they secretly want to allow it. 
 
 ---
 
-*The Limits to Growth, the 30 Year Update*: In poor
-countries.. [b]ecause immediate requirements leaves little output for
-industrial investment, the economy grows only slowly. The demographic
-transition stays stuck in the middle phase, with a large gap between
-birth and death rates. When women see no attractive educational or
-economic alternatives to childbearing, children are one of the few
-forms of investment available; thus the population grows bigger
-without growing richer.  As the saying goes, 'The rich get richer and
-the poor get children.'
-
-International gatherings can become paralyzed by passionate
-arguments.. Poverty causes population growth, or population growth
-causes poverty.. By drawing output away from investment and into
-consumption, population growth slows capital growth. Poverty, in turn,
-perpetuates population growth by keeping people in conditions where
-they have no education, no health care, no family planning, no
-choices, no power, no way to get ahead except to hope their children
-can bring in income or help with family labor...
-
-Food production in every part of the South has increased greatly over
-the past 20 years. In most places it has doubled or tripled. But
-because of rapid population growth, food production per person has
-barely improved, and in Africa it has steadily decreased. The only
-places where food production has noticeably kept ahead of population
-growth are Europe and the Far East.  The graphs.. show a double
-tragedy. The first is a human one. A great agricultural achievement, a
-tremendous increase in food production, has been largely absorbed not
-in feeding people more adequately but in feeding more people
-inadequately. The second tragedy is environmental. The increase in
-food production has been attained by policies that damaged soils,
-waters, forests, and ecosystems, a cost that will make future
-production increases more difficult.
-
-But any positive feedback loop that grinds a system down can be turned
-around to lift the system up. More poverty means more population,
-which means more poverty. But less poverty means slower population
-growth, which means less poverty. With enough investment sustained for
-a long enough time, with fair pricing for products and labor, with
-increasing output allocated much more directly to the poor, and
-especially to the education and employment of women and to family
-planning, the effects of the population–poverty loop can be
-reversed"
+The Ethiopian dam GERD final capacity will be >6 GW. It's six nuclear
+power plant equivalent. Not bad. 
 
 ---
 
-Energy Voice: "Namibia’s cabinet has approved an agreement with Hyphen
-Hydrogen Energy on a $10 billion project. The plan is for sub-Saharan
-Africa’s largest – and only fully vertically integrated – green
-hydrogen project. At peak, the facility should produce 2 million
-tonnes per year of green ammonia for regional and global markets"
+South Sudan border, and the oil fields, the big ones were in the
+south.
+
+
+```python
+u.sm_plot_nile2()
+```
+
+<img width='340' src='mbl/2023/sudan1.jpg'/> 
 
 ---
 
-WION: "Tough to include Ukraine in NATO while war goes on: Stoltenberg"
+Euractiv: "Employment commissioner favours EU-wide four-day work"
 
 ---
 
-TASS: "Ukrainian conflict triggered by aspiration to bring it to NATO
-— Kissinger"
+I remember one year '13 they finished a month early. like had so many
+consecutive wins and enough points that even if they played no games
+for weeks they'd still be the champion.
 
 ---
 
-TASS: "Ukraine must accept loss of Crimea — Kissinger"
+Bayern Munich wins again? How many has it been already? >10 times?
+
+---
+
+RU also has fifth gen aircraft tech
+
+Politico: "F-16s won’t be a ‘magic weapon’ for Ukraine, Milley
+warns.. “The Russians have 1,000 fourth-generation fighters,” Joint
+Chiefs Chair Gen. Mark Milley told reporters at the Pentagon"
+
+---
+
+Janes: "Inflatable Leopard 2A4 tank decoys are being supplied to
+Ukraine, Janes learnt at the International Defence and Security
+Technology Fair (IDET)"
+
+---
+
+TASS: "Brazil views BRICS bank as alternative to traditional financial
+institutions — president [Lula]"
 
 ---
 
