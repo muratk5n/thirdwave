@@ -29,6 +29,8 @@ separation is inherent to the process itself"
 
 ---
 
+---
+
 Another case of that population - growth bullshit; it's not about
 being a better nation overall, it is about letting more people in so
 they create competition for wages which goes down as result, and
