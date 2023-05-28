@@ -29,6 +29,14 @@ separation is inherent to the process itself"
 
 ---
 
+Another case of that population - growth bullshit; it's not about
+being a better nation overall, it is about letting more people in so
+they create competition for wages which goes down as result, and
+bosses are happy, they contribute money to politicians who made it
+happen.
+
+---
+
 On migration most in the US right-wing are two-faced; they say they
 are against it, but actually want the cheap labor it provides for the
 bosses who pay for them, so they secretly want to allow it. 
