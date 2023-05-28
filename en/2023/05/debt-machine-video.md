@@ -1,6 +1,6 @@
 # The Debt Machine
 
-<iframe frameborder="0" width="340"
+<iframe frameborder="0" width="80%"
   src="https://drive.google.com/file/d/1za1tiemoQuRsonCMgurDxXCGoUWfHyzt/preview">
 </iframe>
 
