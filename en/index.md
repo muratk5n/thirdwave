@@ -28,15 +28,14 @@ separation is inherent to the process itself"
 
 ---
 
-"Work requirement" for federal help - again it's about wage supression.
+"Work requirement" for federal help - sounds like more wage supression.
 
 ---
 
-Another case of that population - growth bullshit; it's not about
-being a better nation overall, it is about letting more people in so
-they create competition for wages which goes down as result, and
-bosses are happy, they contribute money to politicians who made it
-happen.
+Another case of that population - growth bullshit; it is all about
+letting more people in so they create competition for wages which
+fall, bosses are happy, they contribute money to politicians who made
+it happen.
 
 ---
 
