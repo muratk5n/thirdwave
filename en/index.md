@@ -41,7 +41,7 @@ it happen.
 
 On migration most in the US right-wing are two-faced; they say they
 are against it, but actually want the cheap labor it provides for the
-bosses who pay for them, so they secretly want to allow it. 
+bosses who pay for them, so they secretly aim to allow it.
 
 ---
 
