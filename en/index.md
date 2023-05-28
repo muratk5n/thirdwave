@@ -16,7 +16,6 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-
 H2 Central: "While many carbon capture technologies target a 90-96%
 capture rate, the 8RH2 oxy-combustion process will eliminate virtually
 all direct CO2 emissions. Unlike standard hydrogen production, 8RH2
@@ -28,6 +27,9 @@ processes that are normally required to capture CO2, as carbon
 separation is inherent to the process itself"
 
 ---
+
+"Work requirement" for federal help - again it's about depressing
+wages.
 
 ---
 
