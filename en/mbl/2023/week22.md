@@ -42,7 +42,7 @@ south.
 u.sm_plot_nile2()
 ```
 
-<img width='340' src='mbl/2023/sudan1.jpg'/> 
+<img width='340' src='sudan1.jpg'/> 
 
 ---
 
