@@ -54,10 +54,10 @@ primarily vote on their well-being, pocketbook (not ideology), and
 tend to reelect the incumbent. The incumbency advantage should wear
 off as time goes on but in tigger case IMO frequent "outside
 interventions" constantly renewed the incumbency advantage for
-Tayyeap, the last one being in 2016 (likely by fools egged on by gov
-itself but anyway). Polls suggest the undecideds overwhelmingly went
-for the incumbent in the eleventh hour, that suggest the incumbency
-advantage persists.
+Tayyeap, the last one being in 2016 (likely by fools partly egged on
+by gov itself but anyway). Polls suggest the undecideds overwhelmingly
+went for the incumbent in the eleventh hour, that suggest the
+incumbency advantage persists.
 
 ---
 
