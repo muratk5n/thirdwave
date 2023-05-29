@@ -21,8 +21,8 @@ Ammonia Output"
 
 ---
 
-Doesn't automatically mean the movie is bad as in Woke. If the script
-is written well, it can work out.
+Doesn't automatically mean the movie is bad (as in Woke). If the
+script is written well, it can work out \#TheFlash
 
 ---
 
@@ -56,8 +56,8 @@ off as time goes on but in tigger case IMO frequent "outside
 interventions" constantly renewed the incumbency advantage for
 Tayyeap, the last one being in 2016 (likely by fools egged on by gov
 itself but anyway). Polls suggest the undecideds overwhelmingly went
-for the incumbent in the elevnth hour, that suggest the incumbency
-advantage persists. 
+for the incumbent in the eleventh hour, that suggest the incumbency
+advantage persists.
 
 ---
 
@@ -69,8 +69,8 @@ in question.
 
 ---
 
-TR opposition loses again but opposition's PR work was better this
-time around. Assuming the election was legit (some claim there is 2-3%
+TR opposition loses again but their PR work was better this time
+around. Assuming the election was legit (some claim there is 2-3%
 potential for gov to 'create' votes), they likely fell short on
 immigration, and in the last stretch leaned on too heavily on
 nationalism judging the third guy with 5% took that share because of
