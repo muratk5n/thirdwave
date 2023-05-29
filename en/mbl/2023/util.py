@@ -9,6 +9,16 @@ from yahoofinancials import YahooFinancials
 from pandas_datareader import data, wb
 from io import BytesIO
 
+def sm_plot_tr1():
+    fig, ax = plt.subplots() 
+    d = json.loads(open("tr.json").read())
+    clat,clon=41, 29;zoom=0.1
+    sm.plot_countries(clat,clon,zoom=zoom,ax=ax)
+    sm.plot_line(np.array(d['canal']),ax,color='cyan',linestyle='solid')
+    geo = ["Durusu", "Sazlidere Dam","Kucukcekmece"]
+    ps = np.array([[x, d[x][0], d[x][1]] for x in geo])
+    sm_plot_list1(clat,clon,zoom,data=ps,ax=ax)
+
 def sm_plot_nile2():
     fig, ax = plt.subplots() 
     d = json.loads(open("nile.json").read())
