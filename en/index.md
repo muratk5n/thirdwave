@@ -54,9 +54,10 @@ primarily vote on their well-being, pocketbook, and tend to reelect
 the incumbent. The incumbency advantage should wear off as time goes
 on but in tigger case IMO frequent "outside interventions" constantly
 renewed the incumbency advantage for Tayyeap, the last one being in
-2016 (likely by fools partly egged on by gov itself but anyway). Polls
-suggest the undecideds overwhelmingly went for the incumbent in the
-eleventh hour, that suggest the incumbency advantage persists.
+2016 (likely attempted by fools partly egged on by gov itself but
+anyway). Polls suggest the undecideds overwhelmingly went for the
+incumbent in the eleventh hour, that suggest the incumbency advantage
+persists.
 
 ---
 
@@ -78,8 +79,8 @@ unnecessary, RU was already supportive of current gov, but the added
 antagonism would not help, made opposition look like a undiplomatic
 neophytes.
 
-Putin possibly provided direct aid in the form of natgas payments for
-the election (residential natgas bill for entire month of May was
+It looks like Putin provided direct aid in the form of natgas payments
+for the election (residential natgas bill for entire month of May was
 zero), and the grain deal renewal gave a PR win for the gov, announced
 right after the first round.
 
