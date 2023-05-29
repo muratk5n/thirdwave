@@ -61,11 +61,11 @@ advantage persists.
 
 ---
 
-Candidate-wise; the current Stanpoli mayor from the opposition would
-fare better, but he made an ass of himself by associating with
-elitist/neolib scum types near election prep, leaving himself open to
-attacks - one came in the form of a court case that put his candidacy
-in question.
+Candidate-wise; the current Stanpoli mayor from the opposition could
+fare a little better, but he made an ass of himself by associating
+with elitist/neolib scum types near election prep, leaving himself
+open to attacks - one came in the form of a court case that put his
+candidacy in question.
 
 ---
 
