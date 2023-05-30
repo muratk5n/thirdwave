@@ -16,106 +16,84 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-Reuters: "Singapore’s Keppel Signs Deals to Ramp up Green Hydrogen,
-Ammonia Output"
+
+South China Morning Post: "G7 countries have 'failed' to address
+worldwide hunger, aid .. They can find untold billions to fight the
+war [in Ukraine] but can't even provide half of what is needed by the
+UN for the most critical humanitarian crises"
 
 ---
 
-Doesn't automatically mean the movie is bad (as in Woke). If the
-script is written well, it can work out \#TheFlash
+"England has the only privatised Water in Europe and the most water
+pollution and most expensive water.
+
+The UK has the only fully privatised energy, and the most expensive:
+
+The UK has privatised rail, the slowest, least reliable and of course
+most expensive in Europe"
 
 ---
 
-*Meg 2*, *The Creator*, *Dune 2* trailers look great. Curious about
-*The Flash*. They have a Superchica?
+A new inventive scheme could involve the government more, guiding the
+printing towards more investments, and with a portion diverted to
+direct payment to citizens.
 
 ---
 
-First Post: "Netflix' plan backfires, users start cancelling
-subscriptions after password-sharing crackdown"
+Good points in the documentary *Debt Machine*; money is created out of
+thin air for credit, it can be created for useful production instead
+of speculation.
+
+[[-]](2023/05/debt-machine-video.html)
 
 ---
 
-"Freedom of the Press Foundation will soon launch the “Daniel Ellsberg
-Chair on Government Secrecy.” This full-time staff position will be
-dedicated to what Ellsberg has spent a large portion of his life
-highlighting the need for: massive reform of the secrecy
-infrastructure in the United States. In the coming months, we’ll seek
-funds to fully endow this chair position so that it can live in
-perpetuity, and be free from changes in any fiscal or political
-climate"
+They cld probably design the engines as well, aren't the J-20 engines
+built in-house? R&D cost must not have made economic sense.
 
-[[-]](https://freedom.press/news/in-honor-of-a-whistleblowing-legend-announcing-the-daniel-ellsberg-chair-on-government-secrecy/)
+Al Jazeera: "China’s first home-built passenger jet makes inaugural
+flight.. The C919 commercial plane flew from Shanghai to Beijing as
+China seeks to compete with Airbus and Boeing... C919 [..has] Western
+components, including engines and avionics from firms such as General
+Electric Co, Safran SA and Honeywell International Inc"
 
 ---
 
-In the end, the vote is a referandum on the incumbent; voters
-primarily vote on their well-being, pocketbook, and tend to reelect
-the incumbent. The incumbency advantage should wear off as time goes
-on but in tigger case IMO frequent "outside interventions" constantly
-renewed the incumbency advantage for Tayyeap, the last one being in
-2016 (likely attempted by fools partly egged on by gov itself but
-anyway). Polls suggest the undecideds overwhelmingly went for the
-incumbent in the eleventh hour, that suggest the incumbency advantage
-persists.
+Xinhua: "[Iranian official] said images taken by Iranian satellites
+have shown that the Taliban is storing the river's water behind its
+dams, such as the Kamal Khan Dam, when Iran's southeastern Sistan and
+Baluchestan province bordering Afghanistan was hit by drought.. He
+urged the Taliban to respect Iran's water rights from the Helmand
+River under a 1973 treaty between the two countries, which entitles
+Iran to receive 820 million cubic meters of water from the river per
+year.
+
+He added that in addition to the dams built along the Helmand River in
+the past, the Taliban has constructed new ones to 'prevent the river's
+water from running into Iran.'. The Iranian Space Agency spokesman
+said last week satellite photos showed that the Taliban have altered
+the river's route in order to prevent it from reaching Iran"
 
 ---
 
-Candidate-wise; the current Stanpoli mayor from the opposition could
-fare a little better, but he made an ass of himself by associating
-with elitist/neolib scum types near election prep, leaving himself
-open to attacks - one came in the form of a court case that put his
-candidacy in question.
+WION: "Taliban, Iran exchange heavy gunfire on Afghan border; water
+rights issue escalates"
 
 ---
 
-TR opposition loses again but their PR work was better this time
-around. Assuming the election was legit (some claim there is 2-3%
-potential for gov to 'create' votes), they likely fell short on
-immigration, and in the last stretch leaned on too heavily on
-nationalism judging the third guy with 5% took that share because of
-nat rhetoric. That was a mistake. Plus the anti-Russki narrative was
-unnecessary, RU was already supportive of current gov, but the added
-antagonism would not help, made opposition look like a undiplomatic
-neophytes.
+Politico: "The White House has a simple message to Democrats skeptical
+of the debt ceiling agreement the president cut with Speaker Kevin
+McCarthy: Don’t judge us by what’s included but what we kept out...
 
-It looks like Putin provided direct aid in the form of natgas payments
-for the election (residential natgas bill for entire month of May was
-zero), and the grain deal renewal gave a PR win for the gov, announced
-right after the first round.
+Progressives have expressed frustration over new work requirements in
+two government assistance programs — TANF and SNAP — along with the
+spending caps"
 
 ---
 
-Politico: "There is little to no accurate information about exactly
-what chemicals are used in fracking, or how harmful they may be to
-humans or the planet.. The heavy explosives used to create the holes
-and fissures also create instability in the earth, leading to erosion
-and even earthquakes, like the twelve 2011 earthquakes that rocked the
-area around a fracking site in Youngstown, Ohio - a region that had
-not ever experienced a quake since such activity was observed and
-recorded, beginning in 1776"
-
----
-
-The *real* Moby Dick story eh?
-
-"The plot of *In the Heart of the Sea* is very reminiscent of *Moby
-Dick*.. That said [the movie] is not officially inspired by or adapted
-from Melville's *Moby Dick*. It is, however, adapted from another
-book, Nathaniel Philbrick's *In the Heart of the Sea: The Tragedy of
-the Whaleship Essex*, originally published in 2000, which recounts the
-true story of the Essex"
-
----
-
-*In the Heart of the Sea* was a good movie. I hate to say it I found myself
-rooting for the whale.
-
----
-
-Likely due to us shitting into their environment, they are getting angry
-
-NBC News: "Killer whale attacks on the rise, baffling researchers"
+WSJ: "Finally, Can We Ask Who Really Colluded With Russia? If the
+crime is promoting distrust in institutions, the evidence is strongest
+against the FBI and media"
 
 ---
 
