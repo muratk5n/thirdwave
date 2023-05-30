@@ -19,10 +19,6 @@ pd.set_option('display.max_columns', None)
 
 
 
-
-
-
-
 ```python
 u.sm_plot_tr1()
 plt.savefig('/tmp/out.jpg',quality=40)

@@ -2,6 +2,8 @@
 
 <img width="340" src="mljump.png"/>
 
+<iframe width="340" src="https://www.youtube.com/embed/ro130m-f_yk?start=1&end=1083" title="A.I. is B.S." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 [On the Dangers of Stochastic Parrots](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)
 
 [One] category of risk involves bad actors taking advantage of the
