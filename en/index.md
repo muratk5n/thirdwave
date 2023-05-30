@@ -1,18 +1,6 @@
 Pinned Post
 
-"@timnitGebru@dair-community.social
-
-Because we were looking for more things to do when these clowns
-decided to write 'the letter,' [about so-called 'AI pause'] and cite
-our \#StochasticParrots paper while saying the opposite of what we
-write, we.. [wrote](https://www.dair-institute.org/blog/letter-statement-March2023)
-a statement in response.. It is dangerous to distract ourselves with a fantasized
-AI-enabled utopia or apocalypse which promises either a 'flourishing' or
-'potentially catastrophic' future. Such language that inflates the capabilities
-of automated systems and anthropomorphizes them, as we note in [Stochastic Parrots](https://dl.acm.org/doi/abs/10.1145/3442188.3445922), 
-deceives people into thinking that there is a sentient being behind the
-synthetic media. This not only lures people into uncritically trusting
-the outputs of systems like ChatGPT, but also misattributes agency"
+<iframe width="340" src="https://www.youtube.com/embed/ro130m-f_yk?start=1&end=1083" title="A.I. is B.S." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
