@@ -9,6 +9,19 @@ from yahoofinancials import YahooFinancials
 from pandas_datareader import data, wb
 from io import BytesIO
 
+def sm_plot_yugo1():
+    clat,clon=42, 20;zoom=1.0
+    fig, ax = plt.subplots()    
+    d = json.loads(open("yugo.json").read())
+    sm.plot_countries(clat,clon,zoom=zoom,ax=ax)
+    sm.plot_line(np.array(d['Kosovo']),ax,color='cyan',linestyle='solid')
+    ax.text(20, 44.23,"Serbia")
+    ax.text(17, 44.16, "Bosnia")
+    ax.text(16.5, 42.3, "Montanegro")
+    ax.text(16.263, 45.587, "Crotia")
+    ax.text(19, 41.256987256111785, "Albania")
+    ax.text(20.5, 42.59487952393303, "KS")
+
 def sm_plot_tr1():
     fig, ax = plt.subplots() 
     d = json.loads(open("tr.json").read())

@@ -7,22 +7,22 @@ import pandas as pd
 pd.set_option('display.max_columns', None)
 ```
 
-
-
-
-
-
-
-
-
-
-
-
-
 ```python
-u.sm_plot_tr1()
+u.sm_plot_yugo1()
 plt.savefig('/tmp/out.jpg',quality=40)
 ```
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
