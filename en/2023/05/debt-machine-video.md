@@ -1,4 +1,4 @@
-# The Debt Machine
+# Debt Machine
 
 <iframe frameborder="0" height="250" width="340"
   src="https://drive.google.com/file/d/1za1tiemoQuRsonCMgurDxXCGoUWfHyzt/preview">
