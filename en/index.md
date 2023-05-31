@@ -50,7 +50,7 @@ shares of companies that did SPAC deals have crashed"
 
 ---
 
-*Pompeii* was ok.. rivalry between Rome vs Pompeii..? It was tough to
+*Pompeii* was ok.. rivalry between Rome and Pompeii..? It was tough to
 sell Keifer Sutherland as a goombah, but I think overall it
 worked. Good guys - Celts, slave gladiators, citizens of Pompeii. Bad
 guys - Romans. Lovely.
