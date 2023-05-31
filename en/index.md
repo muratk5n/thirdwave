@@ -17,83 +17,66 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 ---
 
 
-South China Morning Post: "G7 countries have 'failed' to address
-worldwide hunger, aid .. They can find untold billions to fight the
-war [in Ukraine] but can't even provide half of what is needed by the
-UN for the most critical humanitarian crises"
+H2 Central: "Daimler Truck, Mitsubishi Fuso, Hino and Toyota Conclude
+an Mou on Accelerating Development of Advanced Technologies and
+Merging Mitsubishi Fuso and Hino Motors"
 
 ---
 
-"England has the only privatised Water in Europe and the most water
-pollution and most expensive water.
-
-The UK has the only fully privatised energy, and the most expensive:
-
-The UK has privatised rail, the slowest, least reliable and of course
-most expensive in Europe"
+Reuters: "Plug Power plans $6 bln hydrogen projects in Finland"
 
 ---
 
-A new inventive scheme could involve the government more, guiding the
-printing towards more investments, and with a portion diverted to
-direct payment to citizens.
+You dont need `cdist` from Sigh Pie; that code is a one-liner, works
+even for vector -> matrix distances.
 
 ---
 
-Good points in the documentary *Debt Machine*; money is created out of
-thin air for credit, it can be created for useful production instead
-of speculation.
-
-[[-]](2023/05/debt-machine-video.html)
+There; 3D interpolation via Quad Trees. It only depends on "Num Pie".
 
 ---
 
-They cld probably design the engines as well, aren't the J-20 engines
-built in-house? R&D cost must not have made economic sense.
+Interesting take from Al Monitor. They paint Burhan not in a strong
+position, but Hemeti with access to resources he can buy loyalty with.
 
-Al Jazeera: "China’s first home-built passenger jet makes inaugural
-flight.. The C919 commercial plane flew from Shanghai to Beijing as
-China seeks to compete with Airbus and Boeing... C919 [..has] Western
-components, including engines and avionics from firms such as General
-Electric Co, Safran SA and Honeywell International Inc"
+[[-]](https://www.al-monitor.com/originals/2023/05/sudan-army-chief-under-pressure-islamist-backers-analysts)
 
 ---
 
-Xinhua: "[Iranian official] said images taken by Iranian satellites
-have shown that the Taliban is storing the river's water behind its
-dams, such as the Kamal Khan Dam, when Iran's southeastern Sistan and
-Baluchestan province bordering Afghanistan was hit by drought.. He
-urged the Taliban to respect Iran's water rights from the Helmand
-River under a 1973 treaty between the two countries, which entitles
-Iran to receive 820 million cubic meters of water from the river per
-year.
-
-He added that in addition to the dams built along the Helmand River in
-the past, the Taliban has constructed new ones to 'prevent the river's
-water from running into Iran.'. The Iranian Space Agency spokesman
-said last week satellite photos showed that the Taliban have altered
-the river's route in order to prevent it from reaching Iran"
+WSJ: "Company Insiders Made Billions Before SPAC Bust. Executives and
+early investors sold shares worth $22 billion.. At their peak, SPACs
+accounted for 70% of all IPOs. But now, the market has dried up and
+shares of companies that did SPAC deals have crashed"
 
 ---
 
-WION: "Taliban, Iran exchange heavy gunfire on Afghan border; water
-rights issue escalates"
+*Pompeii* was ok.. rivalry between Rome vs Pompeii..? It was tough to
+sell Keifer Sutherland as a goombah, but I think overall it
+worked. Good guys - Celts, slave gladiators, citizens of Pompeii. Bad
+guys - Romans. Lovely.
 
 ---
 
-Politico: "The White House has a simple message to Democrats skeptical
-of the debt ceiling agreement the president cut with Speaker Kevin
-McCarthy: Don’t judge us by what’s included but what we kept out...
-
-Progressives have expressed frustration over new work requirements in
-two government assistance programs — TANF and SNAP — along with the
-spending caps"
+Simple algo; find closest points to new point in existing data,
+compute distances to each, use that as weights to average their z
+values.
 
 ---
 
-WSJ: "Finally, Can We Ask Who Really Colluded With Russia? If the
-crime is promoting distrust in institutions, the evidence is strongest
-against the FBI and media"
+"Sigh Pie" dependencies... Not usable on every platform. Major pain in
+the neck. 3D interpolation should not require this much external code.
+
+---
+
+If US intervenes it won't be as punishment for Darfur, or even the
+current crisis that is displacing many. Sudan is looking like a failed
+state but US wld be more worried about the Red Sea Russian base.
+
+---
+
+A-uh.. George Clooney videos are back in circulation, when he was
+trying to "raise awareness on Darfur". Psyop in the works laying the
+groundwork for a Sudan intervention?
 
 ---
 
