@@ -68,9 +68,9 @@ the neck. 3D interpolation should not require this much external code.
 
 ---
 
-If US intervenes it won't be as punishment for Darfur, or even the
-current crisis that is displacing many. Sudan is looking like a failed
-state but US wld be more worried about the Red Sea Russian base.
+It wouldn't be as punishment for Darfur, or even the current crisis
+that is displacing many.. Sudan is looking like a failed state but US
+wld be more worried about a Red Sea Russian base.
 
 ---
 
