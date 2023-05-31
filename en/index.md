@@ -73,9 +73,9 @@ wld be more worried about a Red Sea Russian base.
 
 ---
 
-Uh-oh.. George Clooney videos are back in circulation, when he was
-trying to "raise awareness on Darfur". Psyop in the works laying the
-groundwork for a Sudan intervention?
+Uh-oh.. George Clooney news segments are back in circulation, when he
+was trying to "raise awareness on Darfur". Psyop in the works laying
+the groundwork for a Sudan intervention?
 
 ---
 
