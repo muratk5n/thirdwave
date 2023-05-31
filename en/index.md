@@ -16,7 +16,6 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-
 H2 Central: "Daimler Truck, Mitsubishi Fuso, Hino and Toyota Conclude
 an Mou on Accelerating Development of Advanced Technologies and
 Merging Mitsubishi Fuso and Hino Motors"
@@ -74,7 +73,7 @@ wld be more worried about a Red Sea Russian base.
 
 ---
 
-A-uh.. George Clooney videos are back in circulation, when he was
+Uh-oh.. George Clooney videos are back in circulation, when he was
 trying to "raise awareness on Darfur". Psyop in the works laying the
 groundwork for a Sudan intervention?
 
