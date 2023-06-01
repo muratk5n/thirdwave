@@ -56,14 +56,14 @@ in Bosnia against the Serbs. But we don't know how things reached that
 stage. Muckers muck it up, we saw how what they did in Ukraine.. CIA
 stirs shit up what do we have 10 years later? And that is a country
 with only two groups which are ethnically, religiously, culturally
-similar. Imagine what they could do in a country that has major
-religious, ethnics differences.
+similar. Imagine what they could do in a country that has many groups
+with major religious, ethnics differences.
 
 ---
 
-Obviously US is for Kosovo indep, Russia, China against. Just saw a CH
-spox talking about "the territorial integrity of Serbia" by which they
-mean Kosovo being part of Serbia. Kosovo is mostly ethnically
+Unsurprisingly US is for Kosovo indep, Russia, China against. Just saw
+a CH spox talking about "the territorial integrity of Serbia" by which
+they mean Kosovo being part of Serbia. Kosovo is mostly ethnically
 Albanian, 90%. Serbs 5%.
 
 ---
