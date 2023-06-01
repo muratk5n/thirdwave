@@ -53,8 +53,8 @@ Campus in Laakdal, Belgium"
 Now they blame Putin of course for doing something they themselves
 would have done *ten times over* had the situation been reversed, if
 not preemptively. Forget Soviets around Cuba in 1962, how did US
-handle the French in Mexico in 1861? That's right - not with open
-arms.
+handle the French in Mexico in 1861? That's right - not well, not with
+open arms.
 
 ---
 
