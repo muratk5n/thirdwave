@@ -44,9 +44,17 @@ Saudi Arabia Will Have Hydrogen Buses Running In 2024"
 
 H2 Central: "Dutch shipping company Future Proof Shipping (FPS)
 officially launched the first hydrogen-powered zero-emissions inland
-container ship, H2 Barge 1, in Rotterdam, the Netherlands. Earlier in
-the week, Nike introduced the H2 Barge 1 at its European Logistics
+container ship, H2 Barge 1, in Rotterdam, the Netherlands. Earlier in
+the week, Nike introduced the H2 Barge 1 at its European Logistics
 Campus in Laakdal, Belgium"
+
+---
+
+Now they blame Putin of course for doing something they themselves
+would have done *ten times over* had the situation been reversed, if
+not preemptively. Forget Soviets around Cuba in 1962, how did US
+handle the French in Mexico in 1861? That's right - not with open
+arms.
 
 ---
 
