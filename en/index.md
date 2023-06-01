@@ -16,14 +16,11 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-
----
-
 <img width='340' src='https://pbs.twimg.com/media/FxeLcmfX0AIZyWq?format=jpg&name=small'/> 
 
 ---
 
-ABC: "The story of Elizabeth Holmes is supposed to be a cautionary
+ABC AU: "The story of Elizabeth Holmes is supposed to be a cautionary
 tale. A culture of faking it until you make it is endemic in Silicon
 Valley. And today the tech bosses in the US will have a clear message
 from authorities: 'push the boundaries and you may end up behind
