@@ -69,10 +69,10 @@ Albanian, 90%. Serbs 5%.
 ---
 
 Serbia is a long-time Russia ally. It looks as if the current map was
-created purposely to cut off Serbia from the Adriatic. Serbia and
-Montanegro were united before, but Montanegro broke up in 2006. Kosovo
-declared independence in 2008 (which Serbia doesn't recognize). Pieces
-of them got chopped off, year after year. They got cucked.
+created to cut off Serbia from the Adriatic. Serbia and Montanegro
+were united before, but Montanegro broke up in 2006. Kosovo declared
+independence in 2008 (which Serbia doesn't recognize). Pieces of them
+got chopped off, year after year. They got cucked.
 
 ```python
 u.sm_plot_yugo1()
