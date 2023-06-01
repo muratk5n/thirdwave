@@ -16,66 +16,91 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-H2 Central: "Daimler Truck, Mitsubishi Fuso, Hino and Toyota Conclude
-an Mou on Accelerating Development of Advanced Technologies and
-Merging Mitsubishi Fuso and Hino Motors"
 
 ---
 
-Reuters: "Plug Power plans $6 bln hydrogen projects in Finland"
+<img width='340' src='https://pbs.twimg.com/media/FxeLcmfX0AIZyWq?format=jpg&name=small'/> 
 
 ---
 
-You dont need `cdist` from Sigh Pie; that code is a one-liner, works
-even for vector -> matrix distances.
+ABC: "The story of Elizabeth Holmes is supposed to be a cautionary
+tale. A culture of faking it until you make it is endemic in Silicon
+Valley. And today the tech bosses in the US will have a clear message
+from authorities: 'push the boundaries and you may end up behind
+bars'"
 
 ---
 
-There; 3D interpolation via Quad Trees. It only depends on "Num Pie".
+BBC: "Disgraced Theranos founder Elizabeth Holmes has reported to the
+federal prison where she will serve an 11-year sentence"
 
 ---
 
-Interesting take from Al Monitor. They paint Burhan not in a strong
-position, but Hemeti with access to resources he can buy loyalty with.
+"@Hypx@mastodon.social
 
-[[-]](https://www.al-monitor.com/originals/2023/05/sudan-army-chief-under-pressure-islamist-backers-analysts)
-
----
-
-WSJ: "Company Insiders Made Billions Before SPAC Bust. Executives and
-early investors sold shares worth $22 billion.. At their peak, SPACs
-accounted for 70% of all IPOs. But now, the market has dried up and
-shares of companies that did SPAC deals have crashed"
+Saudi Arabia Will Have Hydrogen Buses Running In 2024"
 
 ---
 
-*Pompeii* was ok.. rivalry between Rome and Pompeii..? It was tough to
-sell Keifer Sutherland as a goombah, but I think overall it
-worked. Good guys - Celts, slave gladiators, citizens of Pompeii. Bad
-guys - Romans. Lovely.
+H2 Central: "Dutch shipping company Future Proof Shipping (FPS)
+officially launched the first hydrogen-powered zero-emissions inland
+container ship, H2 Barge 1, in Rotterdam, the Netherlands. Earlier in
+the week, Nike introduced the H2 Barge 1 at its European Logistics
+Campus in Laakdal, Belgium"
 
 ---
 
-Simple algo; find closest points to new point in existing data,
-compute distances to each, use that as weights to average their z
-values.
+The Bosnian situation in the 90s was bad no doubt, and at that stage
+the sides weren't that clear cut either, Iran sent fighters to fight
+in Bosnia against the Serbs. But we don't know how things reached that
+stage. Muckers muck it up, we saw how what they did in Ukraine.. CIA
+stirs shit up what do we have 10 years later? And that is a country
+with only two groups which are ethnically, religiously, culturally
+similar. Imagine what they could do in a country that has major
+religious, ethnics differences.
 
 ---
 
-"Sigh Pie" dependencies... Not usable on every platform. Major pain in
-the neck. 3D interpolation should not require this much external code.
+Obviously US is for Kosovo indep, Russia, China against. Just saw a CH
+spox talking about "the territorial integrity of Serbia" by which they
+mean Kosovo being part of Serbia. Kosovo is mostly ethnically
+Albanian, 90%. Serbs 5%.
 
 ---
 
-It wouldn't be as punishment for Darfur, or even the current crisis
-that is displacing many.. Sudan is looking like a failed state but US
-wld be more worried about a Red Sea Russian base.
+Serbia is a long-time Russia ally. It looks as if the current map was
+created purposely to cut off Serbia from the Adriatic. Serbia and
+Montanegro were united before, but Montanegro broke up in 2006. Kosovo
+declared independence in 2008 (which Serbia doesn't recognize). Pieces
+of them got chopped off, year after year. They got cucked.
+
+```python
+u.sm_plot_yugo1()
+```
+
+<img width='340' src='mbl/2023/yugo1.jpg'/> 
 
 ---
 
-Uh-oh.. George Clooney news segments are back in circulation, when he
-was trying to "raise awareness on Darfur". Psyop in the works laying
-the groundwork for a Sudan intervention?
+Djokovic is hard-core.. 
+
+Reuters: "Novak Djokovic risked stirring up a political controversy at
+the French Open on Monday, after writing a message about Kosovo on a
+camera lens following his first-round victory.. 'Kosovo is the heart
+of Serbia. Stop the violence,' 22-time Grand Slam champion Djokovic
+wrote in Serbian"
+
+---
+
+Barron's: "French President Emmanuel Macron says Kosovo officials bear
+'responsibility' for the deterioration of the situation there"
+
+---
+
+"In a statement to the Washington Examiner, Gaetz said he has 'no
+plans' to try and remove McCarthy 'barring some dramatic, unexpected
+turn of events.' 'You don't remove someone simply because you disagree
+with them. By that standard, no speaker would last a single day'"
 
 ---
 

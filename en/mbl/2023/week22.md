@@ -1,5 +1,68 @@
 # Week 22
 
+H2 Central: "Daimler Truck, Mitsubishi Fuso, Hino and Toyota Conclude
+an Mou on Accelerating Development of Advanced Technologies and
+Merging Mitsubishi Fuso and Hino Motors"
+
+---
+
+Reuters: "Plug Power plans $6 bln hydrogen projects in Finland"
+
+---
+
+You dont need `cdist` from Sigh Pie; that code is a one-liner, works
+even for vector -> matrix distances.
+
+---
+
+There; 3D interpolation via Quad Trees. It only depends on "Num Pie".
+
+---
+
+Interesting take from Al Monitor. They paint Burhan not in a strong
+position, but Hemeti with access to resources he can buy loyalty with.
+
+[[-]](https://www.al-monitor.com/originals/2023/05/sudan-army-chief-under-pressure-islamist-backers-analysts)
+
+---
+
+WSJ: "Company Insiders Made Billions Before SPAC Bust. Executives and
+early investors sold shares worth $22 billion.. At their peak, SPACs
+accounted for 70% of all IPOs. But now, the market has dried up and
+shares of companies that did SPAC deals have crashed"
+
+---
+
+*Pompeii* was ok.. rivalry between Rome and Pompeii..? It was tough to
+sell Keifer Sutherland as a goombah, but I think overall it
+worked. Good guys - Celts, slave gladiators, citizens of Pompeii. Bad
+guys - Romans. Lovely.
+
+---
+
+Simple algo; find closest points to new point in existing data,
+compute distances to each, use that as weights to average their z
+values.
+
+---
+
+"Sigh Pie" dependencies... Not usable on every platform. Major pain in
+the neck. 3D interpolation should not require this much external code.
+
+---
+
+It wouldn't be as punishment for Darfur, or even the current crisis
+that is displacing many.. Sudan is looking like a failed state but US
+wld be more worried about a Red Sea Russian base.
+
+---
+
+Uh-oh.. George Clooney news segments are back in circulation, when he
+was trying to "raise awareness on Darfur". Psyop in the works laying
+the groundwork for a Sudan intervention?
+
+---
+
 South China Morning Post: "G7 countries have 'failed' to address
 worldwide hunger, aid .. They can find untold billions to fight the
 war [in Ukraine] but can't even provide half of what is needed by the
