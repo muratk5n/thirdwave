@@ -68,7 +68,7 @@ with Russia"
 
 ---
 
-The Central European Hydrogen Corridor (CEHC) initiative was launched
+"The Central European Hydrogen Corridor (CEHC) initiative was launched
 in 2021..  by the vision to develop a hydrogen 'highway' through
 Central Europe. The initiative explores the feasibility of creating a
 hydrogen pipeline corridor in Central Europe for transporting hydrogen
