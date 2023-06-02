@@ -1,5 +1,98 @@
 # Week 22
 
+<img width='340' src='https://pbs.twimg.com/media/FxeLcmfX0AIZyWq?format=jpg&name=small'/> 
+
+---
+
+ABC AU: "The story of Elizabeth Holmes is supposed to be a cautionary
+tale. A culture of faking it until you make it is endemic in Silicon
+Valley. And today the tech bosses in the US will have a clear message
+from authorities: 'push the boundaries and you may end up behind
+bars'"
+
+---
+
+BBC: "Disgraced Theranos founder Elizabeth Holmes has reported to the
+federal prison where she will serve an 11-year sentence"
+
+---
+
+"@Hypx@mastodon.social
+
+Saudi Arabia Will Have Hydrogen Buses Running In 2024"
+
+---
+
+H2 Central: "Dutch shipping company Future Proof Shipping (FPS)
+officially launched the first hydrogen-powered zero-emissions inland
+container ship, H2 Barge 1, in Rotterdam, the Netherlands. Earlier in
+the week, Nike introduced the H2 Barge 1 at its European Logistics
+Campus in Laakdal, Belgium"
+
+---
+
+Now they blame Putin of course for doing something they themselves
+would have done *ten times over* had the situation been reversed, if
+not preemptively. Forget Soviets around Cuba in 1962, how did US
+handle the French in Mexico in 1861? That's right - not well, not with
+open arms.
+
+---
+
+The Bosnian situation in the 90s was bad no doubt, and at that stage
+the sides weren't that clear cut either, Iran sent fighters to fight
+in Bosnia against the Serbs. But we don't know how things reached that
+stage. Muckers muck it up, we saw how what they did in Ukraine.. CIA
+stirs shit up what do we have 10 years later? And that is a country
+with only two groups which are ethnically, religiously, culturally
+similar. Imagine what they could do in a country that has many groups
+with major religious, ethnics differences.
+
+---
+
+Unsurprisingly US is for Kosovo indep, Russia, China against. Just saw
+a CH spox talking about "the territorial integrity of Serbia" by which
+they mean Kosovo being part of Serbia. Kosovo is mostly ethnically
+Albanian, 90%. Serbs 5%.
+
+---
+
+Serbia is a long-time Russia ally. It looks as if the current map was
+created to cut off Serbia from the Adriatic. Serbia and Montanegro
+were united before, but Montanegro broke up in 2006. Kosovo declared
+independence in 2008 (which Serbia doesn't recognize). Pieces of them
+got chopped off, year after year. They got cucked.
+
+```python
+u.sm_plot_yugo1()
+```
+
+<img width='340' src='mbl/2023/yugo1.jpg'/> 
+
+---
+
+Djokovic is hard-core.. 
+
+Reuters: "Novak Djokovic risked stirring up a political controversy at
+the French Open on Monday, after writing a message about Kosovo on a
+camera lens following his first-round victory.. 'Kosovo is the heart
+of Serbia. Stop the violence,' 22-time Grand Slam champion Djokovic
+wrote in Serbian"
+
+---
+
+Barron's: "French President Emmanuel Macron says Kosovo officials bear
+'responsibility' for the deterioration of the situation there"
+
+---
+
+"In a statement to the Washington Examiner, Gaetz said he has 'no
+plans' to try and remove McCarthy 'barring some dramatic, unexpected
+turn of events.' 'You don't remove someone simply because you disagree
+with them. By that standard, no speaker would last a single day'"
+
+---
+
 H2 Central: "Daimler Truck, Mitsubishi Fuso, Hino and Toyota Conclude
 an Mou on Accelerating Development of Advanced Technologies and
 Merging Mitsubishi Fuso and Hino Motors"

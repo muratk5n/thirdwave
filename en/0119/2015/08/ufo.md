@@ -1,11 +1,8 @@
 # UFOs
 
 Do I believe in UFOs? Data does not allow for easy refutation of a UFO
-hypothesis
-
-I found a good dataset on UFO reportings, here is some code for a plot.
-
-[Data](https://drive.google.com/uc?export=view&id=16bC7IoJIE0VDqt2rt9wUW6e4MgLz1Q7w)
+hypothesis. One good dataset [2] on UFO reportings, some code for a
+plot,
 
 ```
 import pandas as pd, zipfile
@@ -53,11 +50,9 @@ that kind of tech.
 
 NUFORC Dataset
 
-This dataset contains over 80,000 reports of UFO sightings over the
-last century. Original data from [1]. The scrubbed version is below,
-along with sample code to plot it,
-
-[Data](https://drive.google.com/uc?export=view&id=1Jho5cLnKqdwfooY9j_GuEj2tf3oO-LPT)
+This dataset [3] contains over 80,000 reports of UFO sightings over
+the last century. Original data from [1]. The scrubbed version is
+below, 
 
 [Code](ufo.py)
 
@@ -65,8 +60,6 @@ along with sample code to plot it,
 
 Code filters out sightings before 2010, then downsamples to reduce the
 plotted points. 
-
-<a name='analysis1'/>
 
 US Per State Analysis, Ratio Comparison
 
@@ -85,3 +78,7 @@ known US nuclear missile bases (red circles).
 References
 
 [1] https://www.kaggle.com/NUFORC/ufo-sightings
+
+[2] [UFO](https://drive.google.com/uc?export=view&id=16bC7IoJIE0VDqt2rt9wUW6e4MgLz1Q7w)
+
+[3] [NUFORC](https://drive.google.com/uc?export=view&id=1Jho5cLnKqdwfooY9j_GuEj2tf3oO-LPT)

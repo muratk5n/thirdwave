@@ -7,34 +7,15 @@ import pandas as pd
 pd.set_option('display.max_columns', None)
 ```
 
+
 ```python
-u.sm_plot_yugo1()
+df = pd.read_csv('/tmp/out1.csv')
+clat,clon = 57, -130
+u.get_sm().plot_countries(clat,clon,zoom=3.0)
+dfb = df[df['box'] == 1]; plt.plot(dfb['longitude'],dfb['latitude'],'c.')
+dfb = df[df['alaska'] == 1]; plt.plot(dfb['longitude'],dfb['latitude'],'r.')
 plt.savefig('/tmp/out.jpg',quality=40)
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -87,32 +68,20 @@ plt.savefig('/tmp/out.jpg',quality=40)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ```python
-u.biden_approval()['net'].tail(4)
+df = u.biden_approval()['net']
+df.tail(4)
+df.plot()
+plt.savefig('/tmp/out.jpg')
 ```
 
 ```text
 Out[1]: 
 modeldate
-2023-05-06    -9.643667
-2023-05-07   -10.604047
-2023-05-08    -9.947167
-2023-05-09   -10.158535
+2023-05-29   -13.302892
+2023-05-30   -13.302892
+2023-05-31   -13.664731
+2023-06-01   -13.694300
 Name: net, dtype: float64
 ```
 

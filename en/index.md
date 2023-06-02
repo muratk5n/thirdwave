@@ -16,96 +16,150 @@ the outputs of systems like ChatGPT, but also misattributes agency"
 
 ---
 
-<img width='340' src='https://pbs.twimg.com/media/FxeLcmfX0AIZyWq?format=jpg&name=small'/> 
+CNBC: "Firms are bringing production back home because of the Ukraine
+war, China's slowdown — and TikTok"
 
 ---
 
-ABC AU: "The story of Elizabeth Holmes is supposed to be a cautionary
-tale. A culture of faking it until you make it is endemic in Silicon
-Valley. And today the tech bosses in the US will have a clear message
-from authorities: 'push the boundaries and you may end up behind
-bars'"
+Al-Monitor: "UAE announces over $1.6B in industrial projects including
+hydrogen plant"
 
 ---
 
-BBC: "Disgraced Theranos founder Elizabeth Holmes has reported to the
-federal prison where she will serve an 11-year sentence"
+Holy shit! But they nearly succeeded! We need more US involvement in the region!
+
+Jane's: "North Korea fails to launch reconnaissance satellite"
 
 ---
 
-"@Hypx@mastodon.social
-
-Saudi Arabia Will Have Hydrogen Buses Running In 2024"
-
----
-
-H2 Central: "Dutch shipping company Future Proof Shipping (FPS)
-officially launched the first hydrogen-powered zero-emissions inland
-container ship, H2 Barge 1, in Rotterdam, the Netherlands. Earlier in
-the week, Nike introduced the H2 Barge 1 at its European Logistics
-Campus in Laakdal, Belgium"
+Euractiv: "Macron woos Europe’s East but stays vague on Ukraine
+security guarantees"
 
 ---
 
-Now they blame Putin of course for doing something they themselves
-would have done *ten times over* had the situation been reversed, if
-not preemptively. Forget Soviets around Cuba in 1962, how did US
-handle the French in Mexico in 1861? That's right - not well, not with
-open arms.
+"Government should spend less to avert inflation". That is trickery to
+deflect attention away from the private sector to the government. Gov
+has been spending for decades before covid and there's been no
+inflation. Credit for private firms however, is more likely to be the
+cause of rises in prices. Right-wing looves credit for businesses,
+they don't want it to end. It's their baby milk. They need to be fed
+with it constantly.
 
 ---
 
-The Bosnian situation in the 90s was bad no doubt, and at that stage
-the sides weren't that clear cut either, Iran sent fighters to fight
-in Bosnia against the Serbs. But we don't know how things reached that
-stage. Muckers muck it up, we saw how what they did in Ukraine.. CIA
-stirs shit up what do we have 10 years later? And that is a country
-with only two groups which are ethnically, religiously, culturally
-similar. Imagine what they could do in a country that has many groups
-with major religious, ethnics differences.
+A major divide in US revolves around who to be wary againts; the
+government or private sector? Governments can make war, an awesome
+power, but their war machine is ultimately tied to the needs of the
+private sector, and the needs of private finance. I'd be warier
+against the private sector. The government did not pollute the Hudson
+River, or derail your trains in Ohio. Through action, and inaction the
+private sector did.
 
 ---
 
-Unsurprisingly US is for Kosovo indep, Russia, China against. Just saw
-a CH spox talking about "the territorial integrity of Serbia" by which
-they mean Kosovo being part of Serbia. Kosovo is mostly ethnically
-Albanian, 90%. Serbs 5%.
+You don't need regulation to protect against machines that are too
+smart, you need it to protect against morons who keep promoting this
+shit when it is not ready, and is nowhere near a semblance of an AI.
 
 ---
 
-Serbia is a long-time Russia ally. It looks as if the current map was
-created to cut off Serbia from the Adriatic. Serbia and Montanegro
-were united before, but Montanegro broke up in 2006. Kosovo declared
-independence in 2008 (which Serbia doesn't recognize). Pieces of them
-got chopped off, year after year. They got cucked.
-
-```python
-u.sm_plot_yugo1()
-```
-
-<img width='340' src='mbl/2023/yugo1.jpg'/> 
+The Jerusalem Post: "Russia's Medvedev says UK is in a 'de-facto war'
+with Russia"
 
 ---
 
-Djokovic is hard-core.. 
+The Central European Hydrogen Corridor (CEHC) initiative was launched
+in 2021..  by the vision to develop a hydrogen 'highway' through
+Central Europe. The initiative explores the feasibility of creating a
+hydrogen pipeline corridor in Central Europe for transporting hydrogen
+from major hydrogen supply areas in Ukraine via Slovakia and the Czech
+Republic to hydrogen demand areas in Germany"
 
-Reuters: "Novak Djokovic risked stirring up a political controversy at
-the French Open on Monday, after writing a message about Kosovo on a
-camera lens following his first-round victory.. 'Kosovo is the heart
-of Serbia. Stop the violence,' 22-time Grand Slam champion Djokovic
-wrote in Serbian"
-
----
-
-Barron's: "French President Emmanuel Macron says Kosovo officials bear
-'responsibility' for the deterioration of the situation there"
+<img width='340' src='mbl/2023/centralh2-1.jpg'/> 
 
 ---
 
-"In a statement to the Washington Examiner, Gaetz said he has 'no
-plans' to try and remove McCarthy 'barring some dramatic, unexpected
-turn of events.' 'You don't remove someone simply because you disagree
-with them. By that standard, no speaker would last a single day'"
+Current strait has too many constraints on it, TR does the gobble
+gobble others do the wobble wobble if you know what I mean.. A new
+strait could bypass all those troubles, give the host country more
+leverage.
+
+---
+
+So how about that Stanpoli Canal project? [This is](mbl/2023/trcanal1.jpg)
+the planned path for it, yes? If a new city is built in the area,
+could it have more public spaces compared to the rest of the city this time,
+or is that too much to ask?
+
+---
+
+"@Gargron@mastodon.social
+
+Mastodon featured on the App Store 🙂"
+
+[[-]](https://apps.apple.com/us/story/id1668483560)
+
+---
+
+Huawei is definitely a-noid
+
+Quora: "[Huawei was] forced to develop Harmony OS because the US
+government banned American companies from working with Huawei
+(particularly Google). Huawei saw it coming early on and was secretly
+working on an operating system of their own called Harmony OS. They
+eventually had to switch over from Android to Harmony OS and now it's
+being used"
+
+---
+
+"@mikestevens@aus.social
+
+So, I picked up a #Huawei Watch Fit 2 this morning for $150 at
+JB.. It's not #Android, bc Huawei was kicked out of [US] so they've
+been building out #HarmonyOS (a fork of AOSP..)"
+
+---
+
+"You are a droid, I am a noid" - good one \#TNG
+
+---
+
+Had to remove some defunct soft components.. `diskdict`, sigh pie
+`gaussian_filter`, weird document indexer code, gone. `sqlitedict`,
+home-cooked 2D smoother, and sqlite3 `fts3` are in.
+
+---
+
+Mmm hmm little `split-window-right` action right there `M-x shell`,
+file on the right side, yyiieeaa
+
+---
+
+I'd be damned.. full blown Unix on a Droid tablet, finally worked.
+
+[[-]](mbl/2023/termux1.jpg)
+
+---
+
+The Independent: "Brics summit mulls expansion and new currency in bid
+to rival dollar and escape sanctions.. Bloc of developing countries
+calls for new ‘multipolar’ world order and a shift from Western
+balance of power"
+
+---
+
+Al Monitor: "Iran, Saudi Arabia, UAE attend BRICS meeting in South
+Africa, as bloc mulls expansion"
+
+---
+
+TASS: "Proponents of peace clear minority in EU — Hungarian prime
+minister.. Viktor Orban remains convinced that there can be no winners
+in the Ukrainian conflict, but only losers"
+
+---
+
+TASS: "West running out of weapons for Kiev regime — UK defense chief"
 
 ---
 

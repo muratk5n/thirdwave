@@ -9,6 +9,8 @@ from yahoofinancials import YahooFinancials
 from pandas_datareader import data, wb
 from io import BytesIO
 
+def get_sm(): return sm
+
 def sm_plot_yugo1():
     clat,clon=42, 20;zoom=1.0
     fig, ax = plt.subplots()    
