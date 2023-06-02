@@ -135,7 +135,8 @@ file on the right side, yyiieeaa
 
 ---
 
-I'd be damned.. full blown Unix on a Droid tablet, finally worked.
+I'd be damned.. full blown Unix on a Droid tablet, finally worked. Almost
+all open source tools are now available. Who da man
 
 [[-]](mbl/2023/termux1.jpg)
 
