@@ -1,7 +1,7 @@
 
 Until announced otherwise, more frequently updated new main site will
-be the [Codeberg] one, recent updates will go there, Github (this site)
-becomes the mirror.
+be on [Codeberg](https://muratk5n.codeberg.page/en/), recent updates will
+go there, Github (this site) becomes the mirror.
 
 ## Reference
 
