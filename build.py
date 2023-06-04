@@ -205,3 +205,9 @@ if __name__ == "__main__":
 
     if sys.argv[1] == 'clean': 
         clean_html(to)
+
+    if sys.argv[1] == 'tw':
+        fr = os.environ['HOME'] + "/Documents/tw"
+        to = os.environ['HOME'] + "/Documents/thirdwave"
+        frdirs, todirs = copy_files_and_dirs(fr, to, ".git")
+        

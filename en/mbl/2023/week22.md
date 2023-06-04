@@ -67,7 +67,7 @@ got chopped off, year after year. They got cucked.
 u.sm_plot_yugo1()
 ```
 
-<img width='340' src='mbl/2023/yugo1.jpg'/> 
+<img width='340' src='yugo1.jpg'/> 
 
 ---
 
