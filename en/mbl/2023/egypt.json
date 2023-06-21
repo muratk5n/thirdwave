@@ -1,0 +1,16 @@
+{
+
+    "pyramids": {
+            "The Red Pyramid": [31.206311,29.808364],
+            "The Step Pyramid": [31.216632,29.871117],
+	    "The Bent Pyramid": [31.20953,29.789944],
+            "The Black Pyramid": [31.223756,29.791755],
+            "The Great Pyramid": [31.131048,29.975866],
+            "Pyramid of King Khafre": [31.134353,29.979435],
+            "Pyramid Of Menkaure": [31.12843,29.972409],
+            "Pyramid of king Teti": [31.218638,29.873657],
+            "Pyramid of king Unas": [31.21483,29.86841],
+            "Pyramids of Neferirkare and Nyuserre Ini": [31.202717,29.895759],
+            "Meidum Pyramid": [31.157141,29.388766]
+     }
+}
