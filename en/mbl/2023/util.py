@@ -4,12 +4,98 @@ import requests, urllib.parse, json, io, geocoder
 import matplotlib.pyplot as plt, math
 import simplegeomap as sm, util
 import datetime, time as timelib, re, os
-import urllib.request as urllib2
+import urllib.request as urllib2, itertools
 from yahoofinancials import YahooFinancials
 from pandas_datareader import data, wb
 from io import BytesIO
 
 def get_sm(): return sm
+
+def sm_plot_ukr5():
+    fig, ax = plt.subplots() 
+    d = json.loads(open("ukrdata/geo.json").read())
+    clat,clon=55.2, 15.5;zoom=0.085
+    sm.plot_countries(clat,clon,zoom=zoom,ax=ax)
+    sm.plot_line(np.array(d["nordstream1"]),ax,color='blue',linestyle='dashed')
+    sm.plot_line(np.array(d["nordstream2"]),ax,color='blue',linestyle='dashed')
+    lat,lon = d['nsleak1']; ax.plot(lon,lat,'rd')
+    lat,lon = d['nsleak2']; ax.plot(lon,lat,'rd')
+    ax.text(14.8,55.1,"Bornholm")
+    return d
+
+def elev_at(lat,lon):
+    data = '[[%f,%f]]' % (lat,lon)
+    response = requests.post('https://elevation.racemap.com/api',
+                             headers={'Content-Type': 'application/json',},
+                             data=data)
+    res = response.text
+    return int(json.loads(res)[0])
+
+
+def sm_plot_ukr4(newfile,oldfile,geo,w,h,zoom=0.01,fsize=(8,12)):
+    
+    fig, ax = plt.subplots(w,h,figsize=fsize)
+    ax = ax.reshape(w,h)
+    fig.tight_layout(pad=2.0)
+    cities = json.loads(open("ukrdata/geo.json").read())    
+    geo2 = np.empty((w,h),dtype=list) # reshape does not keep internal [], so handcode
+    for i,j in itertools.product(range(w),range(h)):
+        print (i,j,i+(h*j))        
+        geo2[i,j] = geo[i+(h*j)]
+        
+    for i in range(w):
+        for j in range(h):
+            c = geo2[i,j][0]
+            if c=='Main':
+                clat,clon = 48, 36
+                cs = [x[0] for x in geo if 'Main' not in x]
+                sm_plot_ukr1(newfile,oldfile,cs,clat,clon,zoom=0.5,ax=ax[i,j])
+                sm.plot_line(np.array(cities['dnipro1']),ax=ax[i,j],color='cyan',linestyle='solid')
+            else:
+                clat,clon = cities[c]
+                sm_plot_ukr1(newfile,oldfile,geo2[i,j],clat,clon,zoom=zoom,ax=ax[i,j])
+                sm.plot_line(np.array(cities['dnipro1']),ax=ax[i,j],color='cyan',linestyle='solid')
+                
+
+def pollution(lat,lon):
+    """
+    Register with Openweathermap site and get a API key, place it
+    in a json file called .twkeys.json under your $HOME directory. The
+    file should look something like '{ "weatherapi": "[key]" .. }
+    """    
+    url = 'http://api.openweathermap.org/data/2.5/air_pollution?'
+    params = json.loads(open(os.environ['HOME'] + "/.twkeys.json").read())
+    payload = { 'lat': str(lat), 'lon': str(lon), 'appid': params['weatherapi'] }
+    r = requests.get(url, params=payload)
+    res = [json.loads(x.decode()) for x in r.iter_lines()]
+    aqi = res[0]['list'][0]['main']
+    comp = res[0]['list'][0]['components']
+    return aqi, comp
+
+def sm_plot_ukr3():    
+    fig, ax = plt.subplots() 
+    clat=49;clon=35;zoom = 1.0
+    sm.plot_countries(clat,clon,zoom=zoom,ax=ax)
+    cities = json.loads(open("ukrdata/geo.json").read())
+    sm.plot_line(np.array(cities['dnipro1']),ax,color='cyan',linestyle='solid')
+    geo = ["Kakhovskaya Reservoir","Dnieper Reservoir","Srednedneproskoe Reservoir",
+           "Kremenchug Reservoir","Kanevskoe Reservoir","Kiev Reservoir","Zaporizhzhya Nuclear Power Plant"]
+    
+    df = pd.read_csv("ukrdata/fl-0521.csv",header=None)
+    df = np.array(df)
+    df[:, [1, 0]] = df[:, [0, 1]]    
+    sm.plot_line(df,ax,color='red')
+    offsets = [[random.randint(-100,100), random.randint(-100,100)] for i in range(len(geo))]
+    for i,label in enumerate(geo):
+      lat,lon = cities[label]
+      style = tuple(offsets[i])
+      ax.plot(lon, lat, color='red', marker='o', markersize=4)
+      ax.annotate(
+          label, 
+          xy = (lon, lat), xytext = style,
+          textcoords = 'offset points', ha = 'right', va = 'bottom',
+          bbox = dict(boxstyle = 'round,pad=0.5', fc = 'yellow', alpha = 0.5),
+          arrowprops = dict(arrowstyle = '->', connectionstyle = 'arc3,rad=0'))          
 
 def sm_plot_yugo1():
     clat,clon=42, 20;zoom=1.0
@@ -102,7 +188,7 @@ def sm_plot_ukr2(file,oldfile):
     
 def sm_plot_ukr1(file,oldfile,geo,clat=48,clon=37,zoom=0.6,ax=None):
     if not ax: fig, ax = plt.subplots() 
-    cities = json.loads(open("ukrdata/cities.json").read())
+    cities = json.loads(open("ukrdata/geo.json").read())
     sm_plot_ukr_base(file,geo,clat,clon,zoom,ax) 
     df = np.array(pd.read_csv(oldfile,header=None))
     df[:, [1, 0]] = df[:, [0, 1]]
@@ -140,7 +226,7 @@ def get_masto_detail(host):
 def sm_plot_ukr_base(file,geo,clat,clon,zoom,ax):
     df = np.array(pd.read_csv(file,header=None))
     df[:, [1, 0]] = df[:, [0, 1]]
-    sm.plot_countries(clat,clon,zoom=zoom,ax=ax,outcolor='lavenderblush')
+    sm.plot_countries(clat,clon,zoom=zoom,ax=ax,incolor='papayawhip',outcolor='azure',force_include=['RUS'])
     sm.plot_line(df,ax,color='red')
     
     df = np.array(pd.read_csv('ukrdata/donetsk.csv',header=None))
@@ -389,6 +475,20 @@ def rottentomatoes2(movie):
     aud = re.findall('<span.*?data-qa="audience-score">\n(.*?)</span>',res,re.DOTALL)
     aud = aud[0].strip()
     return {"tomatometer score": tom, "audience score": aud}
+
+
+def rottentomatoes3(movie):
+    rel = movie.replace(" ","_").lower()
+    url = "https://www.rottentomatoes.com"
+    url = url + "/m/" + rel
+    hdr = {'User-Agent':'Mozilla/5.0'}
+    res = urllib2.urlopen(url).read().decode('utf-8')
+    
+    tom = re.findall('"audienceScore":{.*?}',res,re.DOTALL)
+    d1 = json.loads("{" + tom[0] + "}")
+    tom = re.findall('"tomatometerScoreAll":{.*?}',res,re.DOTALL)
+    d2 = json.loads("{" + tom[0] + "}")
+    return {"tomatometer score": d2['tomatometerScoreAll']['value'], "audience score": d1['audienceScore']['value'] }
 
 def sm_plot_kurd():
     clat,clon=37.377413, 42.78591;zoom=0.6

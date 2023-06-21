@@ -146,7 +146,7 @@ head = """
           <h1 id="project_title">
             <a href="https://muratk5n.codeberg.page/en" style="text-decoration:none; color:inherit;">thirdwave</a>
           </h1>
-          <font color="gray" size="2">Codeberg Mirror</font>
+          <font color="gray" size="2">Codeberg Main</font>
           <h2 id="project_tagline"></h2>          
         </header>
       </div>

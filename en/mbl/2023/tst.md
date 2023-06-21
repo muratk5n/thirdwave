@@ -1,6 +1,5 @@
 # Test
 
-
 ```python
 import util as u
 import pandas as pd
@@ -8,14 +7,56 @@ pd.set_option('display.max_columns', None)
 ```
 
 
+
+
+
+
+Next up:
+--
+Main
+Makarivka
+Novomaiorske
+Marinka
+Lobkove
+Orikhiv, Robotyne, Malaya Tokmachka
+Krasnohorivka
+Kreminna
+
+
+
+
+
+
 ```python
-df = pd.read_csv('/tmp/out1.csv')
-clat,clon = 57, -130
-u.get_sm().plot_countries(clat,clon,zoom=3.0)
-dfb = df[df['box'] == 1]; plt.plot(dfb['longitude'],dfb['latitude'],'c.')
-dfb = df[df['alaska'] == 1]; plt.plot(dfb['longitude'],dfb['latitude'],'r.')
+geo = [["Main"],["Makarivka"],
+       ["Novomaiorske"],["Marinka"]]
+
+u.sm_plot_ukr4('ukrdata/fl-0613.csv','ukrdata/fl-0521.csv',geo,2,2,zoom=0.03)
 plt.savefig('/tmp/out.jpg',quality=40)
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+```python
+geo = [['Main'],['Orikhiv','Malaya Tokmachka','Robotyne'],['Zaporizhzhya NPP'],
+       ['Avdiivka'],['Vuhledar','Velyka Novosilka'],['Khromove','Bakhmut'],
+       ['Kherson'],['Blahodatne'],['Lobkove']]
+u.sm_plot_ukr4('ukrdata/fl-0613.csv','ukrdata/fl-0521.csv',geo,3,3,zoom=0.03)
+plt.savefig('/tmp/out.jpg',quality=40)
+```
+
+
+
+
 
 
 
@@ -70,18 +111,20 @@ plt.savefig('/tmp/out.jpg',quality=40)
 
 ```python
 df = u.biden_approval()['net']
-df.tail(4)
+print (df.tail(4))
 df.plot()
 plt.savefig('/tmp/out.jpg')
 ```
 
 ```text
-Out[1]: 
 modeldate
-2023-05-29   -13.302892
-2023-05-30   -13.302892
-2023-05-31   -13.664731
-2023-06-01   -13.694300
+2023-06-06   -13.580007
+2023-06-07   -13.815057
+2023-06-08   -13.862946
+2023-06-09   -13.822625
 Name: net, dtype: float64
 ```
+
+
+
 
