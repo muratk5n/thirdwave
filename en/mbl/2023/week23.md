@@ -1,6 +1,5 @@
 # Week 23
 
-
 H2 Central: "Mercedes-Benz and H2 Green Steel announce agreements in
 both Europe and North America"
 

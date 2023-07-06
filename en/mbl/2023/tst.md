@@ -10,47 +10,22 @@ pd.set_option('display.max_columns', None)
 
 
 
-
-Next up:
---
-Main
-Makarivka
-Novomaiorske
-Marinka
-Lobkove
-Orikhiv, Robotyne, Malaya Tokmachka
-Krasnohorivka
-Kreminna
-
+['Makarivka']
+['Orikhiv']
+['Marinka']
+['Yahidne']
+['Orikhovo-Vasylivka']
+['Kreminna']
 
 
 
 
 
 ```python
-geo = [["Main"],["Makarivka"],
-       ["Novomaiorske"],["Marinka"]]
-
-u.sm_plot_ukr4('ukrdata/fl-0613.csv','ukrdata/fl-0521.csv',geo,2,2,zoom=0.03)
-plt.savefig('/tmp/out.jpg',quality=40)
-```
-
-
-
-
-
-
-
-
-
-
-
-
-```python
-geo = [['Main'],['Orikhiv','Malaya Tokmachka','Robotyne'],['Zaporizhzhya NPP'],
-       ['Avdiivka'],['Vuhledar','Velyka Novosilka'],['Khromove','Bakhmut'],
-       ['Kherson'],['Blahodatne'],['Lobkove']]
-u.sm_plot_ukr4('ukrdata/fl-0613.csv','ukrdata/fl-0521.csv',geo,3,3,zoom=0.03)
+geo = [['Main'],['Spirne', 'Berestove'], ['Orikhiv'],
+       ['Lobkove'],['Makarivka'], ['Vuhledar', 'Velyka Novosilka'],
+       ['Marinka'],['Avdiivka', 'Opytne'],['Bakhmut', 'Chasiv Yar']]
+u.sm_plot_ukr4('ukrdata/fl-0703.csv','ukrdata/fl-0621.csv',geo,3,3,zoom=0.03,fsize=(12,12),)
 plt.savefig('/tmp/out.jpg',quality=40)
 ```
 
@@ -72,11 +47,19 @@ plt.savefig('/tmp/out.jpg',quality=40)
 
 
 
-```python
-clat=48.59;clon=37.96
-u.sm_plot_ukr1('ukrdata/fl-0521.csv','ukrdata/fl-0516.csv',["West Bakhmut Sports Complex","Bakhmut Children's Hospital","West Bakhmut Residential Area","Bakhmut"],clat,clon,zoom=0.005)
-plt.savefig('/tmp/out.jpg',quality=40)
-```
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

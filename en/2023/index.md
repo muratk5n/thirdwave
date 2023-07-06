@@ -34,7 +34,9 @@
 
 [A Strategy for Israel in the Nineteen Eighties](04/strategy-for-israel-yinon.html)
 
-[The Debt Machine](05/debt-machine-video.html)
+[Debt Machine](05/debt-machine-video.html)
 
 [Timeline of Egypt, Ethiopia, Somalia, Dam Events](05/timeline-eth-som-egy.html)
+
+[Evil Geniuses](06/evil-geniuses.html)
 

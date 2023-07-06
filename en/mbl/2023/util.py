@@ -1,15 +1,45 @@
+import datetime, time as timelib, re, os, glob, numpy.linalg as lin
 import pandas_ta as ta, random, rottentomatoes as rt    
 import pandas as pd, datetime, numpy as np, requests
 import requests, urllib.parse, json, io, geocoder
 import matplotlib.pyplot as plt, math
 import simplegeomap as sm, util
-import datetime, time as timelib, re, os
 import urllib.request as urllib2, itertools
 from yahoofinancials import YahooFinancials
 from pandas_datareader import data, wb
 from io import BytesIO
 
 def get_sm(): return sm
+
+def get_pd(): return pd
+
+def ru_areas():
+    res = []
+    for f in sorted(glob.glob("ukrdata/fl-*.csv")):
+        if "221115" in f or "none" in f: continue
+        df = pd.read_csv(f,header=None)
+        df = np.array(df)
+        a = poly_area(df[:,:2])
+        res.append(a)
+    return res
+
+def poly_area(pts):
+    ps = np.array([0.5 * lin.det(np.vstack((pts[i], pts[i+1]))) for i in range(len(pts)-1)])
+    s = np.sum(ps)
+    p1,p2 = pts[-1],pts[0]
+    s += 0.5 * lin.det(np.vstack((p1,p2)))
+    return np.abs(s)
+
+def masto_stat():
+    url = "https://api.joinmastodon.org/statistics"
+    r = requests.get(url)
+    df = pd.DataFrame([[pd.to_datetime(x['period']),x['user_count'],x['active_user_count']] for x in json.loads(r.text)])
+    df.columns = ['dt','users','active']
+    df = df.set_index('dt').astype(float)
+    f,x = plt.subplots(2)
+    df['users'].plot(ax=x[0])
+    df['active'].plot(ax=x[1])
+    print (df.tail(3))    
 
 def sm_plot_ukr5():
     fig, ax = plt.subplots() 
@@ -40,7 +70,6 @@ def sm_plot_ukr4(newfile,oldfile,geo,w,h,zoom=0.01,fsize=(8,12)):
     cities = json.loads(open("ukrdata/geo.json").read())    
     geo2 = np.empty((w,h),dtype=list) # reshape does not keep internal [], so handcode
     for i,j in itertools.product(range(w),range(h)):
-        print (i,j,i+(h*j))        
         geo2[i,j] = geo[i+(h*j)]
         
     for i in range(w):
@@ -186,14 +215,21 @@ def sm_plot_ukr2(file,oldfile):
     sm_plot_ukr1(file,oldfile,['Zaporizhzhya Nuclear Power Plant'],clat,clon,zoom=0.2,ax=ax[1,2])
     sm.plot_water(clat,clon,zoom=zoom,ax=ax[1,2])
     
-def sm_plot_ukr1(file,oldfile,geo,clat=48,clon=37,zoom=0.6,ax=None):
+def sm_plot_ukr1(file,oldfile,geo,clat=48,clon=37,zoom=0.6,ax=None,show_fortifications=False):
     if not ax: fig, ax = plt.subplots() 
     cities = json.loads(open("ukrdata/geo.json").read())
     sm_plot_ukr_base(file,geo,clat,clon,zoom,ax) 
     df = np.array(pd.read_csv(oldfile,header=None))
     df[:, [1, 0]] = df[:, [0, 1]]
     sm.plot_line(df,ax,color='gray',linestyle='solid')
-    offsets = [[random.randint(-60,60), random.randint(-60,60)] for i in range(len(geo))]
+
+    if show_fortifications:
+        fs = cities['fortifications']
+        for f in fs: sm.plot_line(np.array(f),ax,color='black',linestyle='solid')
+        
+    sm.plot_line(np.array(cities['dnipro1']),ax=ax,color='cyan',linestyle='solid')
+    
+    offsets = [[random.randint(-60,60), random.randint(-60,60)] for i in range(len(geo))]    
     for i,label in enumerate(geo):
       lat,lon = cities[label]
       style = tuple(offsets[i])
@@ -720,3 +756,6 @@ def biden_approval():
     df = df[df.index > '2021-06-01']
     df['net'] = df['approve_estimate'] - df['disapprove_estimate']
     return df
+
+if __name__ == "__main__": 
+    print (ru_areas())

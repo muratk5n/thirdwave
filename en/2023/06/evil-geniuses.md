@@ -45,3 +45,49 @@ started focusing more of their resentment and anger on the federal
 government, the smart right-wingers knew, it could have the same
 effect.
 
+<a name='thedeal'/>
+
+The Deal
+
+The pivotal year for the energized economic right was 1978. Its dreams
+were starting to come true. Americans were now more skeptical of
+government than of big business. At the beginning of the year a CBS
+News/New York Times survey found that 58 percent of Americans agreed
+that "the Government has gone too far in regulating business and
+interfering with the free enterprise system," up from 42 percent
+during the 1960s.
+
+A critical mass of the people elected to run the government had also
+been persuaded to give big business what it wanted. Democrats held the
+presidency and a two-to-one House majority and a historic
+sixty-two-seat Senate majority. Yet in early 1978, a bill to create a
+new consumer protection agency was defeated in the House because 101
+Democrats voted against it, including a majority of the Democratic
+freshmen, thanks in large part to lobbying by CEOs from the Business
+Roundtable.
+
+And 1978 was also a tipping-point year in the economic right's crusade
+to persuade people that because government now sucked, all taxes paid
+to all governments by everyone, no matter how wealthy, were way too
+high and also sucked. The overwhelmingly Democratic Congress
+overwhelmingly passed and the Democratic president signed into law a
+huge reduction in taxes on income from selling stocks, capital gains -
+a definitive turn toward making extra-sure the rich got richer
+faster...
+
+In retrospect, Milton Friedman's 1970 manifesto on behalf of shameless
+greed amounted to a preliminary offer by the philosopher-king of the
+economic right to forge a grand bargain with the cultural left. Both
+sides could find common ground concerning ultra-individualism and
+mistrust of government. And by the end of the 1970s, only the
+formalities remained to execute the agreement. Going forward, the
+masses would be permitted as never before to indulge their hedonistic
+and self-expressive impulses. And capitalists in return would also be
+unshackled, free to indulge their own animal spirits with fewer and
+fewer fetters in the forms of regulation, taxes, or social
+opprobrium. 'Do your own thing' is not necessarily so different from
+'every man for himself'. That could mean..  smoking weed, or wearing
+blue jeans every day, or refusing to agree to gun regulation— or rich
+people paying themselves as much as they wanted, or banks misleading
+borrowers and speculating recklessly. Deal? Deal.
+

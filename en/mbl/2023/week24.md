@@ -1,6 +1,5 @@
 # Week 24
 
-
 IEEE Spectrum: "[S]cientists have found that adding grooves to PEM
 fuel cells can improve the performance of these devices by up to 50
 percent compared with state-of-the-art conventional electrodes under
@@ -197,7 +196,7 @@ alive he'd be all over this Ukraine bullshit, but still, good for him.
 
 ---
 
-[Kurt Andersen](2023/06/evil-geniuses.html)
+[Kurt Andersen](../../2023/06/evil-geniuses.html)
 
 ---
 

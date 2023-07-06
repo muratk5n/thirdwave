@@ -246,13 +246,6 @@ vehicles, so looking at the BMW trial is exciting"
 
 ---
 
-It still works for me but some complain Google search returns bad
-results for them, results are not useful unless the string "reddit" is
-appended to the search term. Reddit as we all know is extremely Web
-1.0 but plain, clean, straight-forward human curated content.
-
----
-
 Melenchon fell out of favor, Francois Ruffin is the rising star of the
 French left?
 

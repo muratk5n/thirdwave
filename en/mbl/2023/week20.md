@@ -132,9 +132,10 @@ are under 2 kg / 100 km, and in mostly urban driving this is 1.5 kg /
 
 Blackwater, Wagner are somewhat different, they are private, have
 members from all walks of life as with the French Foreign Legion but
-in a war Wagner fits in to the hierarchy somewhere. RSF has been that
-alternative "second military" for a long time now, actively toppling,
-helping form new governments. They are used to having access to power.
+in a war Wagner they would, should fit in a hierarchy somewhere. RSF
+has been that alternative "second military" for a long time now,
+actively toppling, helping form new governments. They are used to
+having access to power.
 
 ---
 
