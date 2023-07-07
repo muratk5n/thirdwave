@@ -1,12 +1,3 @@
-
-<img width='340' src='mbl/2023/nixon-salute.jpg'/> 
-
----
-
-Time for a little break, see ya l8ah suckaz
-
----
-
 ## Reference
 
 [Nations and Nationalism, Culture, Narratives](0119/2013/02/nations-and-nationalism.html)
@@ -53,5 +44,3 @@ Also on
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
 
 <img src='https://drive.google.com/uc?export=view&id=1zsIeciFSvlr-sWB84Tc0mfZ_NYqn9VQx'/> 
-
-

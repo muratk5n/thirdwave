@@ -1,5 +1,12 @@
 # Week 27
 
+<img width='340' src='mbl/2023/nixon-salute.jpg'/> 
+
+---
+
+Time for a little break, see ya l8ah suckaz
+
+---
 
 H2 Central: "Martin Carolan, Provaris CEO said: '..This collaboration
 will benefit from the synergies of Provaris and Gen2 Energy’s approach
