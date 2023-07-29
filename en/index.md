@@ -1,179 +1,231 @@
 
-"Second French Plan for Open Science.. Open science refers to the
-unhindered dissemination of results, methods and products from
-scientific research. It draws on the opportunity provided by recent
-digital progress to develop open access to publications and – as much
-as possible – data, source code and research methods... The French
-Plan for Open Science has provided France with a coherent and dynamic
-policy in the field of open science. It was announced in 2018 by the
-Minister of Higher Education, Research and Innovation, Frédérique
-Vidal, and is coordinated by the Committee for Open Science, which
-brings together the Ministry, the universities and research performing
-organizations and the scientific community. Substantial progress has
-been made in the three years since this policy was introduced. The
-percentage of open access scientific publications in France has risen
-from 41% to 56%"
+The Economist: "[2011 A] sober view of globalisation deserves a wide
+audience. But whether it will get it is another matter. This is partly
+because 'World 3.0' is a much less exciting title than 'The World is
+Flat' or 'Jihad vs. McWorld'. And it is partly because people seem to
+have a natural tendency to overestimate the distance-destroying
+quality of technology. Go back to the era of dictators and world wars
+and you can find exactly the same addiction to globaloney. Henry Ford
+said cars and planes were “binding the world together”. Martin
+Heidegger said that “everything is equally far and equally
+near”. George Orwell got so annoyed by all this that he wrote a
+blistering attack on all the fashionable talk about the abolition of
+distance and the disappearance of frontiers.. in 1944"
 
 ---
 
-"Rowan Atkinson has made a surprising cameo behind the wheel of a
-hydrogen-powered Toyota GR Yaris hot hatch, while using one of the
-automotive industry’s largest annual events to show his support for
-the zero tailpipe emissions technology"
+"@ajsadauskas@aus.social
+
+Hi, we're a tech startup run by libertarian Silicon Valley tech bros.
+
+We're not a newspaper, we're a content portal.
+
+We're not a taxi service, we're a ride sharing app.
+
+We're not a pay TV service, we're a streaming platform.
+
+We're not a department store, we're an e-commerce marketplace.
+
+We're not a financial services firm, we're crypto.
+
+We're not a space agency, we're a group of visionaries who are totally
+going to Mars next year.
+
+We're not a copywriting and graphic design agency, we're a large
+language model generative AI platform.
+
+Oh sure, we compete against those established businesses. We basically
+provide the same goods and services.
+
+But we're totally not those things. At least from a legal and PR
+standpoint.
+
+And that means all the laws and regulations that have built up over
+the decades around those industries don't apply to us.
+
+Things like consumer protections, privacy protections, minimum wage
+laws, local content requirements, safety regulations, environmental
+protections... They totally don't apply to us.
+
+Even copyright laws — as long as we're talking about everyone else's
+intellectual property.
+
+We're going to move fast and break things — and then externalise the
+costs of the things we break.
+
+We've also raised several billion in VC funding, and we'll sell our
+products below cost — even give them away for free for a time — until
+we run our competition out of the market.
+
+Once we have a near monopoly, we'll enshitify the hell out of our
+service and jack up prices.
+
+You won't believe what you agreed to in our terms of service
+agreement.
+
+We may also be secretly hoarding your personal information. We know
+who you are, we know where you work, we know where you live. But you
+can trust us.
+
+By the time the regulators and the general public catch on to what
+we're doing, we will have well and truly moved on to our next grift.
+
+By the way, don't forget to check out our latest innovation. It's the
+Uber of toothpaste!"
 
 ---
 
-Paper: "Replacing traditional journals with a more modern solution is
-not a new idea. Here, we propose ways to overcome the social dilemma
-underlying the decades of inaction. Any solution needs to not only
-resolve the current problems but also be capable of preventing
-takeover by corporations: it needs to replace traditional journals
-with a decentralized, resilient, evolvable network that is
-interconnected by open standards and open-source norms under the
-governance of the scholarly community."
+"@arstechnica@mastodon.social
 
-[[-]](https://royalsocietypublishing.org/doi/10.1098/rsos.230206)
+Microsoft Teams + Office bundle leads to official EU antitrust probe
+
+It's Microsoft's first formal EU antitrust investigation in over a decade"
 
 ---
 
-Reuters: "Tesla created secret team to suppress thousands of driving
-range complaints.. Tesla rigged the dashboard readouts in its electric
-cars to provide 'rosy' projections of how far owners can drive before
-needing to recharge"
+Great idea \#Corporations \#Rent
 
-[[-]](https://www.reuters.com/investigates/special-report/tesla-batteries-range/)
+[[-]](https://media.mas.to/masto-public/media_attachments/files/110/780/798/887/141/267/original/2d34038cf67cb746.png)
 
 ---
 
-250 bucks.. let's be nice now.. dont wanna bankrupt these "value creators"
-they give so much to society
+People are in awe of some of the freedoms enjoyed by a US film writer,
+director. How can you speak against the government, hell, even the
+concept of government? That has nothing to do with the "strength of
+their democracy", but everything to do with the current power
+structure in the country. Corporations won the war against all other
+power centers in US, now through *their* movies they are rubbing
+everyone else's noses in it. This is how heroes of a movie can enter a
+government building with guns (lots of guns), shoot an innocent
+employee (the guy wasn't overtaken by 'the Matrix' so he'd die in his
+pod), and continue a rampage with big-beat dance music on full blast
+in the background, bad guys are government, good guys are this rag-tag
+individuals, resembling early settlers of US in the wild frontier
+maybe? How nice. The audience is sold.
 
-Gizmodo: "Earlier in the week, NBCUniversal drew controversy when it
-suddenly up and pruned a bunch of shade trees in front of its lot. Up
-until then, those trees were being used by striking writers and actors
-as shade during their picketing, because it’s been really hot in Los
-Angeles lately. To see them cut down felt like a very deliberate move
-against picketers, even as Universal insisted it was nothing more than
-a not-so-happy coincidence... LA’s City Controller Kenneth
-Mejia.. said that StreetsLA would issue a fine of $250 to the
-corporation for the violation of cutting trees without a city permit"
-
----
-
-But even when they agreed on 'freedoms', anti-gov views, neither side
-liked what those freedoms would entail, unleash on the other side. The
-economic right could not stand the socially permissive ways of the
-cultural left, who in turn could not stand some freedoms the right
-practiced such as guns, and the lax atitude towards the
-environment. But that was okay - that dislike could subtitute for
-politics now - everyone could argue until they were blue in the face
-that never amounted to much change since the 'superstructure'
-underneath that allowed it was set in stone. But argument, upon
-argument, hack against hack were piled on.. It made a festive
-party. In the process due to natural cycles there would be ups and
-downs, some ppl would drop out of office, some get in, some would get
-awarded, some get rich, even minorities would get to 'represent'..  it
-could look like forward momentum, advance, for a while it looked like
-things were getting better (but they were not)
+They make such movies because they can. They are *allowed* to make
+them.
 
 ---
 
-What do you get as the result of economic right's [grand
-bargain](2023/06/evil-geniuses.html#bargain) with cultural left? The
-Woke ideology. The masses were permitted to increase their
-"self-expressive urges" (some took it to its natural conclusion and
-became Woke) capitalists in return were also unshackled in their own
-ways and formed today's business class, some bought guns. They are
-different sides of the same coin.
+I believe I watched 2014 Germany - Argentina final at the Berlin
+Marriott. Great match.
 
 ---
 
-My African map showed Niger in US column; will that change in the future?
+Where is "AI"?  Driving should be simple for it since it already
+"solved" language, about to become self-aware 😶
 
-[[-]](2022/12/ru-africa.html)
-
----
-
-The Guardian: "Niger’s military leadership has thrown its weight
-behind a coup against the president, Mohamed Bazoum"
-
----
-
-Politico: "There was understandable glee in Kyiv when news broke that
-the Kremlin was turning on the self-styled Club of Angry Patriots —
-the ultranationalists.. But given the bigger picture, the excitement
-may prove premature... despite these sackings and arrests, Russia’s
-defenses are holding as Ukraine’s counteroffensive continues to make
-disappointing progress. After nearly two months of fighting, Ukraine’s
-made no significant breakthrough in the south, where Kyiv had hoped to
-see more progress in its bid to sever the so-called land bridge
-connecting the annexed Crimean isthmus and southern Ukrainian
-territories occupied by Russian forces. Moreover, Russia has launched
-its own counteroffensive further north around Kupyansk and Kreminna"
+Ars Technica: "Waymo kills off autonomous trucking program.. Google's
+cost cutters are taking another bite out of Waymo. After being hit by
+layoffs that cut 8 percent of staff, it now looks like the
+self-driving truck program—Waymo Via—is dead"
 
 ---
 
-NBC News: "Like a hot tub: Water temperatures off Florida soar over
-100 degrees (>37 C), stunning experts"
+Slate: "Tesla Sold a Myth About Batteries That Everyone Wanted to Be
+True.. But the problem isn’t just that Tesla hoodwinked customers,
+investors, and regulators about the extent of its vehicles’ real-world
+range, an act evocative of the infamous VW 'dieselgate' scandal. This
+pattern only fueled an even larger myth: that loading up EVs with
+massive battery packs is a viable, sustainable, apple-to-apples
+replacement for gas vehicles"
+
+[[-]](https://slate.com/technology/2023/07/tesla-range-complaints-deception-electric-vehicles-battery-size.html)
 
 ---
 
-NPR: "UPS union calls off strike threat after securing pay raises for
-workers.. UPS posted a record profit last year, as the company reached
-100 billion in revenue in 2022 for the first time... Last year, the
-median UPS employee made 52,000 dollars, according to the company's
-securities filings. Tomé earned 364 times that amount, with her salary
-approaching $19 million"
+Now some Western countries sanction this or that Haitian leader.. the
+situation they are in is not their fault.
 
 ---
 
-Abigail Disney: "I used to ride private planes. Now I’d rather get
-arrested protesting them.. According to Oxfam, billionaires emit a
-million times more greenhouse gases than the average person"
+Miami Rice = Miami Vice
+
+"Miami Rice Invades Haiti. In 1987, [new junta leader supported by US]
+Namphy received IMF loans valued at $24.6 million in exchange for
+agreeing to slash rice tariffs from 150% to 50%, the lowest in the
+Caribbean. He opened all of Haiti’s ports to commercial activity and
+agreed to stop what little support the government had offered Haitian
+farmers. Meanwhile, Haiti’s military elite saw an opportunity to make
+a profit smuggling American rice.. In the United States, the passage
+of the 1985 Farm Bill significantly boosted subsidies to American rice
+growers. By 1987, 40% of American rice growers' profits came from the
+government. Heavily subsidized American rice could sell at prices far
+below the market value of Haitian rice. Haitian farmers never stood a
+chance against this unfair competition".. In Haiti, imported American
+rice is called 'Miami rice' because it is shipped from Miami in sacks
+stamped 'Miami, FLA.' By December 1987, Haiti’s rice production had
+shrunk to 75% of Haitian needs"
 
 ---
 
-Lithium-ion batteries are self-oxidizing, they can keep their own fire
-alive.. and a genius big brain put this shit on cars.
-
-Reuters: "One dead in cargo ship fire, electric car suspected
-source.. The crew had tried, but failed, to extinguish the fire"
+Religion at its core is left wing. A lot of uprisings started bcz of
+debt.
 
 ---
 
-US News: "A Freighter Carrying Nearly 3,000 Cars Catches Fire in the
-North Sea and a Crew Member Is Killed"
+"@qurlyjoe@mstdn.social
+
+Apparently, the Bible verses about a talking snake are literal, but
+the part about forgiving everyone's debt is just a metaphor"
 
 ---
 
-"@davidaugust@mastodon.online
-
-There are 160,000 members of SAG-AFTRA, with at least 87% unable to
-meet the minimum for healthcare eligibility. Actors are usually
-working-class, without achieving million-dollar earnings or attending
-red carpet awards ceremonies"
+NPR: "Actors take to the internet to show their residual checks, with
+some in the negative.. Mandy Moore, who starred in NBC's *This Is Us*,
+said she has received streaming residual payments of less than a
+dollar. She has been on the picket line as part of the actors strike"
 
 ---
 
-"@Hypx@mastodon.social
+Regions where wet-bulb temp above 19 C for July 2019. Around the Medi,
+part of Black Sea, Greece/West TR, Asia, SE of US looks bad.
 
-Governor Pritzker signs legislation to strengthen Illinois' Hydrogen
-economy.. Legislation creates a tax credit of $10 million per year for
-users of clean hydrogen in Illinois"
-
----
-
-*Jack the Giant Slayer* this is how you do fantasy.. Five stars
+[[-]](https://cdn.fosstodon.org/media_attachments/files/110/787/616/669/269/215/original/9d31680fb1928a6e.jpg)
 
 ---
 
-H2 Central: "Port of Rotterdam, Vopak in Race for $2,8 Billion
-Hydrogen Port in South Africa"
+Niger's resources are visible on the map below shared earlier, lota uranium
+
+[[-]](2022/01/oilgasmin.html#minerals)
+
+---
+ 
+"'NATO is a flawed organization. They can never contain Russia' –
+Eritrea’s President Afwerki at a meeting with Putin"
 
 ---
 
-H2 Central: Germany Commits to ‘Blue Hydrogen’ in Updated National
-Strategy
+"Moscow Has Forgiven $23 Billion Debts Owed By African Countries"
+
+---
+
+UA advances after three weeks.. some visible gains.. But dam, Holy Novovodiane..
+It looks like during all this Ukranian counteroffensive, Russians sneaked in
+an offensive of their own.
+
+```python
+geo = [['Main'],['Spirne', 'Berestove'], ['Orikhiv'],
+       ['Lobkove'],['Makarivka'], ['Vuhledar', 'Velyka Novosilka'],
+       ['Marinka'],['Avdiivka', 'Opytne'],['Karmazynivka', 'Novovodiane'],
+       ['Yahidne'],['Orikhovo-Vasylivka'],['Kreminna']]
+       
+u.sm_plot_ukr4('ukrdata/fl-0729.csv','ukrdata/fl-0703.csv',geo,4,3,zoom=0.03,fsize=(10,12),)
+```
+
+[[-]](https://pbs.twimg.com/media/F2NbDrpWMAATLnQ?format=jpg&name=900x900)
+
+---
+
+"Charlie Stross@cstross@wandering.shop
+
+.. Just been informed by my GP practice's pharmacist that there's now
+a national shortage of Rybelsus, aka Semaglutide, my most effective
+diabetes medication, that's likely to last into 2024. Influencers have
+been boosting it as a weight loss drug (it's the same drug—in tablet
+form—as Ozembic/Wegovy) and private clinics are buying up all the
+stock for image-conscious idiots, depriving diabetics of access"
 
 ---
 
