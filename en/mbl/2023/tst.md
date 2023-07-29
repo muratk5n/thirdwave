@@ -11,22 +11,16 @@ pd.set_option('display.max_columns', None)
 
 
 
-['Makarivka']
-['Orikhiv']
-['Marinka']
-['Yahidne']
-['Orikhovo-Vasylivka']
-['Kreminna']
-
-
 
 
 
 ```python
 geo = [['Main'],['Spirne', 'Berestove'], ['Orikhiv'],
        ['Lobkove'],['Makarivka'], ['Vuhledar', 'Velyka Novosilka'],
-       ['Marinka'],['Avdiivka', 'Opytne'],['Bakhmut', 'Chasiv Yar']]
-u.sm_plot_ukr4('ukrdata/fl-0703.csv','ukrdata/fl-0621.csv',geo,3,3,zoom=0.03,fsize=(12,12),)
+       ['Marinka'],['Avdiivka', 'Opytne'],['Karmazynivka', 'Novovodiane'],
+       ['Yahidne'],['Orikhovo-Vasylivka'],['Kreminna']]
+       
+u.sm_plot_ukr4('ukrdata/fl-0722.csv','ukrdata/fl-0703.csv',geo,4,3,zoom=0.03,fsize=(10,12),)
 plt.savefig('/tmp/out.jpg',quality=40)
 ```
 
@@ -34,6 +28,33 @@ plt.savefig('/tmp/out.jpg',quality=40)
 
 
 
+
+
+
+
+
+
+
+
+
+```python
+u.ru_areas().plot(ylim=[15,16])
+plt.savefig('/tmp/out.jpg',quality=40)
+```
+
+
+```python
+u.ru_areas().tail(3)
+```
+
+```text
+Out[1]: 
+                 area
+dt                   
+2022-07-13  15.445277
+2022-07-18  15.446064
+2022-07-22  15.445712
+```
 
 
 

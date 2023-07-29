@@ -75,6 +75,8 @@ huge reduction in taxes on income from selling stocks, capital gains -
 a definitive turn toward making extra-sure the rich got richer
 faster...
 
+<a name='bargain'/>
+
 In retrospect, Milton Friedman's 1970 manifesto on behalf of shameless
 greed amounted to a preliminary offer by the philosopher-king of the
 economic right to forge a grand bargain with the cultural left. Both

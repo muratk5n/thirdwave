@@ -13,14 +13,6 @@ government"
 
 ---
 
-There were claims Haftar from Libya, and Wagner are supporting RSF,
-but WG leader below just denied it. Egypt denies working with the
-official mil but probably have better rels with them than RSF.
-
-TASS: "PMC Wagner does not take sides in Sudan — founder"
-
----
-
 [BigThink](https://bigthink.com/hard-science/how-to-colonize-venus/):
 "While [Venus and Mars] may not seem alike at first blush,
 Venus is quite similar to Earth compared to other planets in our solar
@@ -31,7 +23,7 @@ won’t decalcify as they do in low-gravity environments"
 
 ---
 
-[Link](mbl/2023/ejagoffspace.jpg)
+[Link](ejagoffspace.jpg)
 
 ---
 
@@ -107,7 +99,7 @@ cs = ['Bakhmut Center','BM Railway','Peremogi St']
 u.sm_plot_ukr1('ukrdata/fl-0420.csv', 'ukrdata/fl-0416.csv',cs,clat=48.59,clon=37.98,zoom=0.005)
 ```
 
-<img width='340' src='mbl/2023/ukr-10.jpg'/> 
+<img width='340' src='ukr-10.jpg'/> 
 
 ---
 

@@ -8,7 +8,7 @@ red, for US green, country codes are iso3, full list is [here](https://www.iban.
 import impl as u
 
 ru = ["Mali","Ethiopia","Congo","South Africa","Madagascar","Libyan Arab Jamahiriya",
-      "Sudan","Uganda","Zimbabwe","Burkina Faso","Guinea",
+      "Sudan","Uganda","Zimbabwe","Burkina Faso","Guinea","Eritrea",
       "Cameroon","Equatorial Guinea","Sao Tome and Principe",
       "Algeria","Togo","Lesotho","Swaziland","Senegal",
       "Namibia","Mozambique","United Republic of Tanzania",
@@ -26,6 +26,9 @@ plt.savefig('af-ru-us.jpg',quality=50)
 ![](af-ru-us.jpg)
 
 ### News
+
+[28/07/23](https://vk.com/wall-86305244_695208?lang=en):
+NATO is a flawed organization. They can never contain Russia’ – Eritrea’s President Afwerki at a meeting with Putin.
 
 [15/12/22](https://www.africanews.com/2022/12/15/last-french-soldiers-leave-central-african-republic//):
 "In 2021, when the presence of the private military company Wagner was increasingly intrusive in the country, France considered that the conditions were no longer met for us to continue working for the Central African armed forces," General François-Xavier Mabin, commander of French forces in Gabon, told AFP.

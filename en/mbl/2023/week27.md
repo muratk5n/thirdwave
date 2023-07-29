@@ -1,6 +1,6 @@
 # Week 27
 
-<img width='340' src='mbl/2023/nixon-salute.jpg'/> 
+<img width='340' src='nixon-salute.jpg'/> 
 
 ---
 
@@ -20,7 +20,7 @@ Upside Foods chief scientist was a reputable researcher before he was
 at UF, made use of a lot of government grants I'm sure. If this
 product takes off, hopefully their patent is made public by gov decree
 shortly afterwards. Similar opening up of IP was applied to
-[transistors](2020/03/appelbaum.html#transistor), that's why that
+[transistors](../../2020/03/appelbaum.html#transistor), that's why that
 industry had energy, had lots of innovation.
 
 ---
@@ -96,7 +96,7 @@ following this junk as if it is some kind of sane political discourse.
 
 ---
 
-US is living its "peak [grand bargain](2023/06/evil-geniuses.html#thedeal)"
+US is living its "peak [grand bargain](../../2023/06/evil-geniuses.html#thedeal)"
 moment. The 70s deal btw the economic right and the cultural left
 has reached its apex; both sides mistrusted, fought the government to
 "gain freedom" for their own pet individuality goals and now are mired

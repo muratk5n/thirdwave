@@ -79,7 +79,7 @@
 * 2021
 
      * [02/03](https://egyptindependent.com/photos-egypts-army-reveals-scalp-stealth-missiles/):
-       Egypt's army reveals SCALP stealth missiles.
+       Egypt's army reveals SCALP stealth missiles from France.
 
      * [03/03](https://www.france24.com/en/live-news/20210504-egypt-buys-30-rafale-fighter-jets-from-france-1):
        Egypt buys 30 Rafale fighter jets from France.

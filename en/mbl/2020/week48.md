@@ -45,12 +45,6 @@ others, than "celebrated democracy" after it was all over.
 
 ---
 
-I toyed with vitamin idea for fruit substitute, then I thought, how
-can you pull fruit's water and reduce it in size? Well that's
-jam. That too can be DIY, just like pre-cooking meat.
-
----
-
 Captain Cook brought pickled cabbage with him to his voyages, he'd
 have tons of this stuff, and eat it. His crew would turn their nose at
 his cabbage, and he'd laugh at them, bcz he knew it kept sickness at

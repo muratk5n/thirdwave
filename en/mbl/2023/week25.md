@@ -395,12 +395,6 @@ rugby champions"
 
 ---
 
-DE invested too much in this relationship to let it go sideways IMO.
-
-Global Times: "China willing to cooperate with Germany to push ties to a new level"
-
----
-
 H2 Central: "A consortium of businesses and science and technology
 bodies, led by the Eunice group, has announced an investment of 11
 million euros for the construction of a hub for the production and

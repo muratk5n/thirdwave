@@ -132,8 +132,6 @@ batteries in space explorations. Tests show that electric cars lose
 40% of their estimated range in cold weather conditions, which is
 probably why such conditions are never advertised in BEV marketing.
 
-<a name='safety'/>
-
 ### Charging
 
 Speed
@@ -147,6 +145,8 @@ charging" has major downsides - it degrades the battery quicker.
 The Grid
 
 [Blowing the Fuse](../../2022/10/grid-fuse.html)
+
+<a name='safety'/>
 
 ### Safety
 
@@ -197,5 +197,7 @@ References
 [4] [WaPo](https://www.washingtonpost.com/technology/2022/08/27/electric-vehicle-charge-time/)
 
 [[Up](../../2022/01/climate.html)]
+
+
 
 

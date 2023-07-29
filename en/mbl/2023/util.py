@@ -1,3 +1,5 @@
+from metpy.calc import dewpoint_from_relative_humidity, wet_bulb_temperature
+from metpy.units import units
 import datetime, time as timelib, re, os, glob, numpy.linalg as lin
 import pandas_ta as ta, random, rottentomatoes as rt    
 import pandas as pd, datetime, numpy as np, requests
@@ -13,15 +15,40 @@ def get_sm(): return sm
 
 def get_pd(): return pd
 
+def wbt(T,H):
+    #T = 46; H = 50
+    P = 1000
+    dew = dewpoint_from_relative_humidity(T * units.degC, H * units.percent)
+    return wet_bulb_temperature(P * units.hPa, T * units.degC, dew)
+    
+
+def plot_khali(zoom=0.5,show_elevation=False):
+    clat,clon = 54.2, 23.2
+    fig, ax = plt.subplots() 
+    d = json.loads(open("ru.json").read())
+    sm.plot_countries(clat,clon,zoom,ax=ax,force_include=['RUS'])
+    if show_elevation:
+        sm.plot_elevation(clat,clon,zoom,ax=ax)
+    sm.plot_line(np.array(d['suwalki']),ax=ax,color='red')
+    ax.text(20,52,'Poland')
+    ax.text(20.8,54.6,'Khaliningrad')
+    ax.text(26,53,'Belarus')
+    ax.text(24,55,'Lithuania')    
+
 def ru_areas():
     res = []
-    for f in sorted(glob.glob("ukrdata/fl-*.csv")):
+    for f in sorted(glob.glob(os.environ['HOME']+ "/Documents/tw/en/mbl/2023/ukrdata/fl-*.csv")):
         if "221115" in f or "none" in f: continue
         df = pd.read_csv(f,header=None)
         df = np.array(df)
         a = poly_area(df[:,:2])
-        res.append(a)
-    return res
+        d = re.findall('fl.*(\d\d\d\d).csv',f)[0]
+        res.append([pd.to_datetime('2022'+d),a])
+    res = res[3:]
+    df= pd.DataFrame(res)
+    df.columns = ['dt','area']
+    df = df.set_index('dt')
+    return df
 
 def poly_area(pts):
     ps = np.array([0.5 * lin.det(np.vstack((pts[i], pts[i+1]))) for i in range(len(pts)-1)])
@@ -53,14 +80,15 @@ def sm_plot_ukr5():
     ax.text(14.8,55.1,"Bornholm")
     return d
 
-def elev_at(lat,lon):
-    data = '[[%f,%f]]' % (lat,lon)
+def elev_at(coords):
+    #data = '[[%f,%f]]' % (lat,lon)
+    data = str(coords)
+    print (data)
     response = requests.post('https://elevation.racemap.com/api',
                              headers={'Content-Type': 'application/json',},
                              data=data)
     res = response.text
     return int(json.loads(res)[0])
-
 
 def sm_plot_ukr4(newfile,oldfile,geo,w,h,zoom=0.01,fsize=(8,12)):
     
@@ -311,52 +339,13 @@ def get_yahoofin(year,ticker):
     df = pd.read_csv(file,index_col='Date',parse_dates=True)['Close']
     return df
 
-def country_bp(country):
-    df, prod_perc, tot, elec = get_bp_country(country)
-    print (df)
-    print ('\nProduction As Percentage of Consumption\n')
-    print (prod_perc)
-    print ('\nElectricity',np.round(elec,2),'%')
-    print ('\nTotal\n')
-    print (np.round(tot*1000 / (365*24),2),'GW')
-
-def get_bp_country(country):
+def renew_perc_bp(country):
     fin = '../../2022/01/bp-stats-review-2022-consolidated-dataset-panel-format.csv'
     df = pd.read_csv(fin)
     df = df[df.Country == country]
     df = df.set_index('Year')
     df = df[df.index == df.index.max()]
-    elec = np.round(float(df['elect_twh']) / (float(df['primary_ej'])*277.778)*100,2)
-    df = df[['wind_twh','solar_twh','nuclear_twh','hydro_twh',\
-             'coalcons_ej','gascons_ej','oilcons_ej','biogeo_ej',
-             'ethanol_cons_pj']]
-    df['oil_twh'] = (df.oilcons_ej * 277.778)
-    df['gas_twh'] = (df.gascons_ej * 277.778)
-    df['coal_twh'] = (df.coalcons_ej * 277.778)
-    df['biogeo_twh'] = (df.biogeo_ej * 277.778)
-    df['ethanol_twh'] = (df.ethanol_cons_pj * 0.277778)
-    cols = [x for x in df.columns if '_twh' in x]    
-    df2 = df[cols].fillna(0).unstack()
-    total = df2.sum()
-    df2 = (df2 / df2.sum())*100.0
-    df2 = df2.dropna()
-
-    df3 = pd.read_csv(fin)
-    df3 = df3[df3.Country == country]
-    df3 = df3.set_index('Year')
-    df3 = df3[df3.index == df3.index.max()]    
-    df3 = df3[['oilprod_kbd','coalprod_ej','gasprod_ej']].fillna(0)
-    df3['oil_twh'] = df3.oilprod_kbd * 365 * 1700 * 1000 / 1e9
-    df3['coal_twh'] = df3.coalprod_ej * 277.778
-    df3['gasprod_twh'] = df3.gasprod_ej * 277.778
-
-    prod_perc = [
-        (np.round(float(df3['oil_twh']) / float(df['oil_twh']) * 100,2), 'Oil'),
-        (np.round(float(df3['gasprod_twh']) / float(df['gas_twh']) * 100,2), 'Gas'),
-        (np.round(float(df3['coal_twh']) / float(df['coal_twh']) * 100,2), 'Coal'),
-    ]
-    
-    return df2, pd.DataFrame(prod_perc,columns=['Perc','Commodity']), total, elec
+    return np.round(float(df['renewables_ej']) / (float(df['primary_ej']))*100,2)
 
 def usnavy():
     ships = json.loads(open("../../mbl/2023/usnavy.json").read())
@@ -759,3 +748,4 @@ def biden_approval():
 
 if __name__ == "__main__": 
     print (ru_areas())
+    

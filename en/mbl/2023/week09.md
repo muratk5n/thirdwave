@@ -228,7 +228,7 @@ I chose the movie on the strength of its title alone
 
 it's over folks"
 
-[[-]](mbl/2023/masto1.jpg)
+[[-]](masto1.jpg)
 
 ---
 

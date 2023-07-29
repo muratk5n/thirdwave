@@ -8,7 +8,6 @@ pd.set_option('display.max_columns', None)
 
 
 ```python
-geo = [[46.65638330412107, 32.61676838804905]]
 u.sm_kurds()
 plt.savefig('/tmp/out.jpg')
 ```
