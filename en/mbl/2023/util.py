@@ -98,8 +98,8 @@ def sm_plot_ukr4(newfile,oldfile,geo,w,h,zoom=0.01,fsize=(8,12)):
     cities = json.loads(open("ukrdata/geo.json").read())    
     geo2 = np.empty((w,h),dtype=list) # reshape does not keep internal [], so handcode
     for i,j in itertools.product(range(w),range(h)):
-        geo2[i,j] = geo[i+(h*j)]
-        
+        geo2[i,j] = geo[j+(h*i)]
+
     for i in range(w):
         for j in range(h):
             c = geo2[i,j][0]
