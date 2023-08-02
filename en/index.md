@@ -113,8 +113,8 @@ were acting out the lobby scene from *The Matrix*.
 
 ---
 
-"[A researcher looked at] 134 [US] school shootings from 2000 to
-2018. Only eight of these occurred in private schools while 122
+"[A researcher looked at] 134 [US] school shootings from 2000 to 2018.
+Only eight of these occurred in private schools while 122
 occurred in public schools"
 
 ---
@@ -228,3 +228,5 @@ Also on
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
 
 <img src='https://drive.google.com/uc?export=view&id=1zsIeciFSvlr-sWB84Tc0mfZ_NYqn9VQx'/> 
+
+
