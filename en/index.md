@@ -80,8 +80,8 @@ that their debts will soon be automatically erased"
 
 European Commision: "[12/22] The Digital Markets Act (DMA) establishes
 a set of narrowly defined objective criteria for qualifying a large
-online platform as a so-called 'gatekeeper'.. Example of the 'don'ts'
-- Gatekeeper platforms may no longer.. treat services and products
+online platform as a so-called 'gatekeeper'.. Example of the 'don'ts' -
+Gatekeeper platforms may no longer.. treat services and products
 offered by the gatekeeper itself more favourably.. prevent consumers
 from linking up to businesses outside their platforms.. What will be
 the consequences of non-compliance? Fines..  of up to 10% of the
@@ -232,5 +232,3 @@ Also on
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
 
 <img src='https://drive.google.com/uc?export=view&id=1zsIeciFSvlr-sWB84Tc0mfZ_NYqn9VQx'/> 
-
-
