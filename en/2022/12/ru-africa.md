@@ -10,11 +10,11 @@ import impl as u
 ru = ["Mali","Ethiopia","Congo","South Africa","Madagascar","Libyan Arab Jamahiriya",
       "Sudan","Uganda","Zimbabwe","Burkina Faso","Guinea","Eritrea",
       "Cameroon","Equatorial Guinea","Sao Tome and Principe",
-      "Algeria","Togo","Lesotho","Swaziland","Senegal",
+      "Algeria","Togo","Lesotho","Swaziland","Senegal","Niger",
       "Namibia","Mozambique","United Republic of Tanzania",
       "Central African Republic","Western Sahara","Central African Republic"] 
 
-us = ["Chad","Gabon","Ghana","Kenya","Rwanda", "Djibouti","Somalia","Niger",
+us = ["Chad","Gabon","Ghana","Kenya","Rwanda", "Djibouti","Somalia",
        "Democratic Republic of the Congo", "Mauritania","Lesotho",
        "Mauritius", "Angola","Nigeria","Morocco","Tunisia","Cote d'Ivoire",
        "Zambia"]
@@ -26,6 +26,9 @@ plt.savefig('af-ru-us.jpg',quality=50)
 ![](af-ru-us.jpg)
 
 ### News
+
+[01/08/23](https://www.france24.com/en/africa/20230801-burkina-faso-and-mali-say-intervention-in-niger-would-be-declaration-of-war):
+Burkina Faso, Mali say military intervention in Niger would be 'declaration of war'
 
 [28/07/23](https://vk.com/wall-86305244_695208?lang=en):
 NATO is a flawed organization. They can never contain Russia’ – Eritrea’s President Afwerki at a meeting with Putin.

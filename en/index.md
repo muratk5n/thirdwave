@@ -1,184 +1,188 @@
 
-Coke: The World's Worst Plastic Polluter?
+"@dx@social.ridetrans.it
 
-[[-]](https://youtu.be/Va0o-wmW2fQ)
+This random comment has given me my new favourite argument for
+removing fares from public transit.
 
----
-
-"@breadandcircuses@climatejustice.social
-
-How things look from the point of view of our capitalist rulers…"
-
-[[-]](https://climatejustice.social/system/media_attachments/files/110/792/871/677/133/094/original/7b1e5dfb29a4ecbd.jpeg)
+'The reason most public transportation is seen as ‘losing’ money is
+precisely because it charges for trips. If you don't charge fares,
+suddenly it can't ‘lose’ money. It just costs money, the same as the
+roads.'"
 
 ---
 
-WaPo is getting a lot of flack for that one \#Climate
-
-[[-]](https://cdn.masto.host/medmastodoncom/media_attachments/files/110/804/762/574/299/223/small/6a81a542da9cd64d.png)
-
----
-
-With `feedparser` the `post['media_content'][i]` gives the i'th media
-content link, eg an image. This is the simplest viewer ever.
+BloombergNEF: "The levelized cost of hydrogen [of] green H2 will
+become competitive with existing gray H2 plants operating at marginal
+cost in five markets by 2030"
 
 ---
 
-Getting RSS URL from Masto address? Dude `"https://"+ addr[addr.find("@")+1:] + "/@" + addr[0:addr.find("@")] + ".rss"`
+\#Aliens
+
+[[-]](https://media.bsd.network/media_attachments/files/110/805/070/232/522/041/small/2543969493b8d12b.png)
 
 ---
 
-Why implement a Web RSS reader for all my Masto follows based on the
-CSV export of follows? Because I can. Open source, open data rules.
+Nature: "Over the past generation, scientific publishing has become a
+monoculture. Every scientist now seeks to publish their work in a
+peer-reviewed journal and journals seek to increase their impact
+factors. Publishing papers is now synonymous with seeking status.
+
+Monocultures are vulnerable to viruses and prone to collapse, and that
+is exactly what is happening to science. Taxpayers fund our work but
+journals paywall it and reap the revenue. The costs of universal
+prepublication peer review are extraordinary but the benefits are
+dubious: reviewers miss most of the errors in papers and fail to catch
+even the most brazen fraud. Many of the findings that pass peer review
+do not replicate and most of them may in fact be false. The artificial
+scarcity of opportunities to publish causes publication bias, which
+distorts our sense of what is true and what is not. Unsurprisingly,
+scientific progress seems to have stalled.
+
+In our hearts, all of us know how we would pursue truth if we did not
+have to pursue status as well. The only question is: are we brave
+enough to do it?"
+
+[[-]](https://www.nature.com/articles/s41562-023-01637-2)
 
 ---
 
-Business Green: "[A] 2021 survey of 738 climate economics papers from
-top academic journals found that the median prediction of economists
-was that 3°C of warming would reduce global GDP by just five per cent,
-and a warming of 5°C would only see a 10 per cent reduction"
+"@baldur@toot.cafe
+
+Your reminder that I've written a book on the business risks of
+generative AI. 'The Intelligence Illusion'
+
+[https://illusion.baldurbjarnason.com/](https://illusion.baldurbjarnason.com/)
+
+Stuff I cover (not exhaustive):
+
+- AGI is not happening any time soon.
+- AGI and anthropomorphism will cripple your ability to think clearly about AI
+- The AI industry has a long history of snake oil and fraud
+- These models copy more than you think
+- Hallucinations are still a thing and aren't going away.
+- AI 'reasoning' is quite broken
+- Security is a shit show"
 
 ---
 
-H2 View: "German zero-emission truck manufacturer Quantron has signed
-a Letter of Intent (LoI).. for the procurement of 253 hydrogen-powered
-vehicles as part of a French ecosystem project proposal"
+RF KKK jr :) - that is kinda funny.. via @beforewisdom@veganism.social
 
 ---
 
-BBC News: "Plans approved to turn Birmingham car park into urban farm"
+NPR: "More than 804,000 federal student loan borrowers are in for a
+pleasant surprise. While the Supreme Court scuttled President Biden's
+efforts at widespread debt forgiveness, these borrowers are about to
+get an email from the U.S. Department of Education, notifying them
+that their debts will soon be automatically erased"
 
 ---
 
-Beat.Dowsing - Renegades \#music
+European Commision: "[12/22] The Digital Markets Act (DMA) establishes
+a set of narrowly defined objective criteria for qualifying a large
+online platform as a so-called 'gatekeeper'.. Example of the 'don'ts'
+- Gatekeeper platforms may no longer.. treat services and products
+offered by the gatekeeper itself more favourably.. prevent consumers
+from linking up to businesses outside their platforms.. What will be
+the consequences of non-compliance? Fines..  of up to 10% of the
+company’s total worldwide annual turnover, or up to 20% in the event
+of repeated infringements"
 
-[[-]](https://youtu.be/Y-uyCcHJuFc)
-
----
-
-
-"@MostlyHarmless@thecanadian.social
-
-You millennials and your obsession with public healthcare. Back in my
-day we just died"
-
----
-
-\#Speech
-
-[[-]](https://cdn.fosstodon.org/cache/media_attachments/files/110/790/486/190/299/967/original/1a9f8e3494bee274.jpg)
+[[-]](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-markets-act-ensuring-fair-and-open-digital-markets_en)
 
 ---
 
-Oliver Stone is a milquetoast critic, dabbles in conspiracies on JFK
-implying gov had an hand in his death (untrue, JFK was an incompetent
-jackass managed got himself shot, all by himself) his work jives well with
-the [grand bargain](2023/06/evil-geniuses.html#bargain). Corporations
-like his movies, he is useful, so he is allowed to do what he
-does. Maybe *Wall Street* could've made a difference, but Stone made
-Gekko look cool - failed. Michael Douglas says he runs into finance
-types all the time and they tell him "they loved that Gekko character
-and want to be like him". GG was supposed to be the bad guy in that
-work. O.S.  milquetoast production failed to stress it.
+Kefir is a great poultry marinade. It will work on shish kebabs too or
+"shashlik" in Ruski.
 
 ---
 
-PC World: "Vivaldi, Mozilla raise alarms over Google’s proposed ‘DRM
-for the Web’"
+On the Captain Cook (or Zheng) diet - dried poultry and sauerkraut,
+sometimes quick stews containing both plus some dried vegs
 
 ---
 
-The Matrix symbolizes government - it is "everywhere", defines the
-rules, bureucratic, "opressive".  Then ragtag freedom fighters, rebel
-simple humans, like early US adventerous settlers?, are idolized, when
-they rebel with guns -the right loves that part- it is almost like an
-mental orgasm for them, it is very cool. The cultural left is happy
-too because it is, well, opressive government like in 1973, ew like
-Nixon or something (who ended the Vietnam war but whatever).. It is
-not just films, games that causes the shooting phenomena I want to
-make that clear, the pro-market anti-gov ideology is everywhere (the
-real Matrix?), which is funded, nurtured by private interests. This
-ideology, on its fringes, will cause school shootings. Said interests
-are squarely responsible for the deaths of those kids.
+Who's going to tell Mel Gibson?
+
+"[2000, WaPo, There was an] ancient Catholic teaching that 'the Jews
+killed Christ.' Since time immemorial, that accusation has been hauled
+out as an excuse for discrimination, pogrom and Holocaust... In the
+gospel story of Good Friday, Pontius Pilate is portrayed as a weak,
+frightened leader. Poor powerless Pilate wants to set Jesus
+free... It's a dramatic story. Biblical scholars say it probably
+served a political purpose for the early Christians by steering blame
+away from the Romans. But everything we know about the Roman
+government of Judaea and about Pontius Pilate himself tells us that
+this scenario is probably bunk"
 
 ---
 
-A public school is a government run institution, so gun violence there
-is like a mini-attack against the government. Kids learn who the bad
-guy is through their media, popular culture, or the political
-discourse which seeps through to them through grown ups, some on the
-extremes can apply it in real life. Parkland, Columbine were both
-public high schools. The kids who did the shooting at Columbine maybe
-were acting out the lobby scene from *The Matrix*.
+His party became a plaything of ultra free-market fucknuts from US they
+sent their [best guy](https://www.theguardian.com/politics/2004/jun/15/uk.otherparties)
+to do black magic, and they managed to pry UK away from the EU weakening
+both (the long-term goal of such strategico is  weakening *everyone* in
+Eurasia, not just Russia). Morris is one Ace c-ksucker. The fact he helped
+Bill Clinton should tell you all you need to know about him.
 
 ---
 
-"[A researcher looked at] 134 [US] school shootings from 2000 to 2018.
-Only eight of these occurred in private schools while 122
-occurred in public schools"
+Whenever I hear this guy's name I keep thinking of the gobble gobble
+word *faraş* .. means a dustpan, the cleaning tool.
 
 ---
 
-"@Ruth_Mottram@fediscience.org
+Doing something useful for a change Farage? 
 
-So, the \#BBC got here. And they're hosting their own server it seems..."
-
-<img width='200' src='https://a.mindlycdn.com/media_attachments/files/110/809/537/265/480/945/original/ff25f1c482b8f6d0.jpeg'/> 
-
----
-
-Batteries on fire. Again
-
-7News: "Convergent offers words of apology as solar farm fire
-continues to burn..  In a statement, Convergent Energy and Power said
-the [burning] battery storage system it operates near Chaumont was
-manufactured by General Electric"
+Breitbart: "Nigel Farage has officially launched a campaign to take on
+the big banks and represent members of the public who have unjustly
+had their accounts shut, following his own scandalous debanking over
+his political views"
 
 ---
 
-RU foreign min called for 'restoration of constitutional order', does
-that mean return to previous status-quo, exactly...? I hope
-stakeholders in the region / abroad did not get encouragement there,
-when the chips are down anything can happen.
+"@jmtixhon@mastodon.world
+
+Upper Bavaria Carriers Take Delivery Of 10 Hydrogen Solaris Buses"
+
+<img width='340' src='https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/110/820/465/165/338/781/small/2ff6e5b47caa04e2.png'/> 
 
 ---
 
-Strong words.. A commenter says Ecowas is serious, they indicated
-military intervention, and they've done this sort of thing before in
-Sierra Leone, Liberia during the 90s. But if Niger gets backing
-somehow there can be trouble.
-
-The Street Journal: "ECOWAS gave [Niger] coup plotters one week to
-reinstate ousted president"
+[Link](https://drive.google.com/uc?export=view&id=1c4wB07LseJf-YcPjjKR9MNEAktUQHZAQ)
 
 ---
 
-Free-market triage
-
-"UHS says company favors patients whose insurance pays more"
+Will the West experience a death of its influence in Africa?
 
 ---
 
-\#Monopoly \#Millenials
-
-[[-]](https://thecanadian.social/system/media_attachments/files/110/792/304/943/897/724/small/0fcfb83a35179e34.jpg)
-
----
-
-PV Magazine: "Inner Mongolia University researchers have reported that
-the Klebsiella pneumoniae Y7-3 strain, isolated from sheep rumen, can
-directly produce high-yield hydrogen using inexpensive straw as a raw
-material. The strain increased hydrogen production by 15.03% compared
-to the control group using corn stalk and yeast powder. The
-researchers published their findings in Energy, stating that anaerobic
-fermentation with 50 g L−1 of corn straw as the carbon source could
-produce 1253.72 ± 55.67 mL/L of hydrogen in 24 hours"
+TASS: "On Monday, BBC reported that Niger’s new authorities had
+suspended uranium and gold exports to France... Niger is the
+seventh-largest uranium producer worldwide accounting for 5% of global
+production. According to French mass media, Niger accounts for 15% -
+17% of the uranium used to generate electricity in France"
 
 ---
 
-PV Magazine: "Germany to use hydrogen ‘in all sectors’.. The German
-authorities have announced plans to double domestic electrolysis
-capacity"
+There. They found some supporters. It will be trouble if Russia helps
+as well.
+
+F24: "Burkina Faso, Mali say military intervention in Niger would be
+'declaration of war'"
+
+---
+
+Barrons: "Nigeria Cuts Electricity To Niger After Coup"
+
+---
+
+Informed Comment: "Israel’s Protests are about the Rise of the Israeli
+Ayatollahs, not Democracy"
+
+---
+
+CNBC: "'Unprecedented heat': Iran begins two-day nationwide shutdown
+amid soaring temperatures"
 
 ---
 
