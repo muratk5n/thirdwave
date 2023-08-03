@@ -80,7 +80,7 @@ things were getting better (but they were not)
 ---
 
 What do you get as the result of economic right's [grand
-bargain](2023/06/evil-geniuses.html#bargain) with cultural left? The
+bargain](../../2023/06/evil-geniuses.html#bargain) with cultural left? The
 Woke ideology. The masses were permitted to increase their
 "self-expressive urges" (some took it to its natural conclusion and
 became Woke) capitalists in return were also unshackled in their own
@@ -447,7 +447,7 @@ It shows up on my Navy tracker map now - \#USSCanberra
 df = u.usnavy(); u.sm_plot_list1(-12, 126, 8.0, np.array(df[['name','lat','lon']]))
 ```
 
-[[-]](mbl/2023/usnavy4.jpg)
+[[-]](usnavy4.jpg)
 
 ---
 
@@ -587,7 +587,7 @@ Somewhat mountainous..
 u.sm_plot_khali(0.1,show_elevation=True)
 ```
 
-[[-]](mbl/2023/khali2.jpg)
+[[-]](khali2.jpg)
 
 ---
 
@@ -597,7 +597,7 @@ Suwalki Gap - the route is not that long
 u.sm_plot_khali()
 ```
 
-[[-]](mbl/2023/khali1.jpg)
+[[-]](khali1.jpg)
 
 ---
 

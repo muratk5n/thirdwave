@@ -74,7 +74,7 @@ day we just died"
 Oliver Stone is a milquetoast critic, dabbles in conspiracies on JFK
 implying gov had an hand in his death (untrue, JFK was an incompetent
 jackass managed got himself shot, all by himself) his work jives well with
-the [grand bargain](2023/06/evil-geniuses.html#bargain). Corporations
+the [grand bargain](../../2023/06/evil-geniuses.html#bargain). Corporations
 like his movies, he is useful, so he is allowed to do what he
 does. Maybe *Wall Street* could've made a difference, but Stone made
 Gekko look cool - failed. Michael Douglas says he runs into finance
@@ -372,7 +372,7 @@ part of Black Sea, Greece/West TR, Asia, SE of US looks bad.
 
 Niger's resources are visible on the map below shared earlier, lota uranium
 
-[[-]](2022/01/oilgasmin.html#minerals)
+[[-]](../../2022/01/oilgasmin.html#minerals)
 
 ---
  
