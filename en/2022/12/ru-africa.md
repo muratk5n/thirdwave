@@ -1,8 +1,9 @@
 # African Support for Russia
 
-Based on the news items seen below, created a map of pro-Russia,
-pro-US countries in Africa. Countries siding with RU are colored in
-red, for US green, country codes are iso3, full list is [here](https://www.iban.com/country-codes).
+Based on the news items seen below, created a map of Russia friendly,
+or US friendly countries in Africa. Countries who are more in line
+with RU are colored in red, for US green, country codes are iso3, full
+list is [here](https://www.iban.com/country-codes).
 
 ```python
 import impl as u

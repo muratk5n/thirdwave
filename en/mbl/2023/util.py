@@ -22,6 +22,30 @@ def wbt(T,H):
     return wet_bulb_temperature(P * units.hPa, T * units.degC, dew)
     
 
+def sm_plot_ukr6():    
+    fig, ax = plt.subplots() 
+    clat=44;clon=25;zoom = 0.8
+    sm.plot_countries(clat,clon,zoom=zoom,incolor='papayawhip',outcolor='azure',ax=ax)
+    sm.plot_water(clat,clon,zoom=zoom,ax=ax)
+    geo = ['Izmail']
+    d = json.loads(open("ukrdata/geo.json").read())
+    ps = np.array([[x, d[x][0], d[x][1]] for x in geo])
+    sm_plot_list2(data=ps,ax=ax)
+    
+def sm_plot_list2(data, ax=None, elev=None):
+    if not ax: fig, ax = plt.subplots()
+    offsets = [[random.randint(-60,60), random.randint(-60,60)] for i in range(len(data))]
+    for i,row in enumerate(data):
+       lat,lon = float(row[1]),float(row[2])
+       label = row[0]
+       style = tuple(offsets[i])
+       ax.annotate(
+         label, 
+         xy = (lon, lat), xytext = style,
+         textcoords = 'offset points', ha = 'right', va = 'bottom',
+         bbox = dict(boxstyle = 'round,pad=0.5', fc = 'yellow', alpha = 0.5),
+         arrowprops = dict(arrowstyle = '->', connectionstyle = 'arc3,rad=0'))          
+    
 def plot_khali(zoom=0.5,show_elevation=False):
     clat,clon = 54.2, 23.2
     fig, ax = plt.subplots() 

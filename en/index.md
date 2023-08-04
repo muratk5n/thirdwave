@@ -1,188 +1,175 @@
 
-"@dx@social.ridetrans.it
+Doctorow: "Tesla is having its own [Dieselgate scandal](https://www.reuters.com/investigates/special-report/tesla-batteries-range/).
+A stunning investigation by Steve Stecklow and Norihiko Shirouzu for
+Reuters reveals how Tesla was able to create its own demon-haunted
+car, which systematically deceived drivers about its driving range,
+and the increasingly desperate measures the company turned to as
+customers discovered the ruse"
 
-This random comment has given me my new favourite argument for
-removing fares from public transit.
-
-'The reason most public transportation is seen as ‘losing’ money is
-precisely because it charges for trips. If you don't charge fares,
-suddenly it can't ‘lose’ money. It just costs money, the same as the
-roads.'"
-
----
-
-BloombergNEF: "The levelized cost of hydrogen [of] green H2 will
-become competitive with existing gray H2 plants operating at marginal
-cost in five markets by 2030"
+[[-]](https://pluralistic.net/2023/07/28/edison-not-tesla/)
 
 ---
 
-\#Aliens
+"@capntransit@urbanists.social
 
-[[-]](https://media.bsd.network/media_attachments/files/110/805/070/232/522/041/small/2543969493b8d12b.png)
+RT @kevin_degood The allocation of space is a political choice and an
+expression of values.
 
----
+RT @ emmanuelspv Before / After Rue Poulet in the 18th arrondissement
+of Paris. Instead of continuous car parking along both sides, larger
+sidewalks and trees"
 
-Nature: "Over the past generation, scientific publishing has become a
-monoculture. Every scientist now seeks to publish their work in a
-peer-reviewed journal and journals seek to increase their impact
-factors. Publishing papers is now synonymous with seeking status.
-
-Monocultures are vulnerable to viruses and prone to collapse, and that
-is exactly what is happening to science. Taxpayers fund our work but
-journals paywall it and reap the revenue. The costs of universal
-prepublication peer review are extraordinary but the benefits are
-dubious: reviewers miss most of the errors in papers and fail to catch
-even the most brazen fraud. Many of the findings that pass peer review
-do not replicate and most of them may in fact be false. The artificial
-scarcity of opportunities to publish causes publication bias, which
-distorts our sense of what is true and what is not. Unsurprisingly,
-scientific progress seems to have stalled.
-
-In our hearts, all of us know how we would pursue truth if we did not
-have to pursue status as well. The only question is: are we brave
-enough to do it?"
-
-[[-]](https://www.nature.com/articles/s41562-023-01637-2)
+[Before, After](https://cdn.masto.host/urbanistssocial/media_attachments/files/110/821/701/179/996/491/small/c4afa05458b8972e.jpeg)
 
 ---
 
-"@baldur@toot.cafe
+Good idea. They banned cars from a lot of places. 
 
-Your reminder that I've written a book on the business risks of
-generative AI. 'The Intelligence Illusion'
-
-[https://illusion.baldurbjarnason.com/](https://illusion.baldurbjarnason.com/)
-
-Stuff I cover (not exhaustive):
-
-- AGI is not happening any time soon.
-- AGI and anthropomorphism will cripple your ability to think clearly about AI
-- The AI industry has a long history of snake oil and fraud
-- These models copy more than you think
-- Hallucinations are still a thing and aren't going away.
-- AI 'reasoning' is quite broken
-- Security is a shit show"
+"The mayor of Paris, Anne Hidalgo, announced earlier this year the
+challenging and innovative concept that would make the capital a
+fifteen-minute city, 'la Ville des proximités'. The idea is to create
+neighbourhoods where every essential residents’ needs are easily
+within reach in 15 minutes by bike or walking"
 
 ---
 
-RF KKK jr :) - that is kinda funny.. via @beforewisdom@veganism.social
+TDB: "How is congressional stock trading like the weather? Everyone
+complains about it. Yet nobody ever does anything about it. Almost
+exactly one year ago.. then-House Minority Leader Kevin McCarthy
+suggested he would support this reform, saying, 'What I’ve told
+everybody, we will come back, and we will not only investigate this,
+we will come back with a proposal to change the current behavior
+[stock trading].' We’re still waiting"
 
 ---
 
-NPR: "More than 804,000 federal student loan borrowers are in for a
-pleasant surprise. While the Supreme Court scuttled President Biden's
-efforts at widespread debt forgiveness, these borrowers are about to
-get an email from the U.S. Department of Education, notifying them
-that their debts will soon be automatically erased"
+Barry Adamson - Miles \#music
+
+[[-]](https://youtu.be/R6VOeQVZMFM)
 
 ---
 
-European Commision: "[12/22] The Digital Markets Act (DMA) establishes
-a set of narrowly defined objective criteria for qualifying a large
-online platform as a so-called 'gatekeeper'.. Example of the 'don'ts' -
-Gatekeeper platforms may no longer.. treat services and products
-offered by the gatekeeper itself more favourably.. prevent consumers
-from linking up to businesses outside their platforms.. What will be
-the consequences of non-compliance? Fines..  of up to 10% of the
-company’s total worldwide annual turnover, or up to 20% in the event
-of repeated infringements"
+"lcamtuf@infosec.exchange
 
-[[-]](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-markets-act-ensuring-fair-and-open-digital-markets_en)
+They're versioning fires now"
+
+[[-]](https://media.infosec.exchange/infosecmediaeu/media_attachments/files/110/758/215/782/705/340/original/f25adcf6830dd1c0.png)
 
 ---
 
-Kefir is a great poultry marinade. It will work on shish kebabs too or
-"shashlik" in Ruski.
+Zombie apocalypse art form seems mostly about a wish than a future
+scare. Think about it, apoc. destroys modern life, no more traffic,
+work, busy-busy pace.. People spread out into all corners of the
+world, live closer to nature, less density. Zombies represent a
+constant threat, kill-or-be-killed situation harks back to a
+pre-agriculture hunter-gatherer state, when we had to protect against
+predators. The world becomes more public, since the concept of most
+private property would lose meaning.
 
 ---
 
-On the Captain Cook (or Zheng) diet - dried poultry and sauerkraut,
-sometimes quick stews containing both plus some dried vegs
+Fortune: "Spend enough time with ChatGPT and other ["AI"] chatbots and
+it doesn’t take long for them to spout falsehoods. Described as
+hallucination, confabulation or just plain making things up, it’s now
+a problem for every business, organization.. Some are using it on
+tasks with the potential for high-stakes consequences, from
+psychotherapy to researching and writing legal briefs"
 
 ---
 
-Who's going to tell Mel Gibson?
-
-"[2000, WaPo, There was an] ancient Catholic teaching that 'the Jews
-killed Christ.' Since time immemorial, that accusation has been hauled
-out as an excuse for discrimination, pogrom and Holocaust... In the
-gospel story of Good Friday, Pontius Pilate is portrayed as a weak,
-frightened leader. Poor powerless Pilate wants to set Jesus
-free... It's a dramatic story. Biblical scholars say it probably
-served a political purpose for the early Christians by steering blame
-away from the Romans. But everything we know about the Roman
-government of Judaea and about Pontius Pilate himself tells us that
-this scenario is probably bunk"
+The aim of higher education should not be to prepare students for
+"jobs". Such education will be stulted, half-assed ergo not much of an
+education.
 
 ---
 
-His party became a plaything of ultra free-market fucknuts from US they
-sent their [best guy](https://www.theguardian.com/politics/2004/jun/15/uk.otherparties)
-to do black magic, and they managed to pry UK away from the EU weakening
-both (the long-term goal of such strategico is  weakening *everyone* in
-Eurasia, not just Russia). Morris is one Ace c-ksucker. The fact he helped
-Bill Clinton should tell you all you need to know about him.
+Raptor Persecution UK: "New report by Wild Justice shows protected
+areas in England in worse state than previously thought"
 
 ---
 
-Whenever I hear this guy's name I keep thinking of the gobble gobble
-word *faraş* .. means a dustpan, the cleaning tool.
+"@andrewdessler@mastodon.world
+
+we need a new analogy.  
+
+no, we're not 'loading the dice'.
+
+instead, we're playing russian roulette and putting more bullets in the gun"
 
 ---
 
-Doing something useful for a change Farage? 
+"@Adam_Cadmon1@mastodon.online
 
-Breitbart: "Nigel Farage has officially launched a campaign to take on
-the big banks and represent members of the public who have unjustly
-had their accounts shut, following his own scandalous debanking over
-his political views"
+Last boost: Totally pushing the idea into the popular consciousness
+that all of the concurrent crises can be fought with more personal
+responsibility.
 
----
+Right.
 
-"@jmtixhon@mastodon.world
-
-Upper Bavaria Carriers Take Delivery Of 10 Hydrogen Solaris Buses"
-
-<img width='340' src='https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/110/820/465/165/338/781/small/2ff6e5b47caa04e2.png'/> 
+Same thing happened with recycling and all that. It's not that corps
+are making a gazillion plastic straws; it's you, personally, using too
+many"
 
 ---
 
-[Link](https://drive.google.com/uc?export=view&id=1c4wB07LseJf-YcPjjKR9MNEAktUQHZAQ)
+H2 Central: "Bloom Energy launches advanced CHP Solution for net zero
+heating and cooling"
 
 ---
 
-Will the West experience a death of its influence in Africa?
+Ecowas is worried surely coups spreading means it will come to their
+countries one day. Mali and Burkina Faso would be worried if an Ecowas
+intervention in Niger succeeded theirs would be rolled back. If Ecowas
+intervenes there will be war.
 
 ---
 
-TASS: "On Monday, BBC reported that Niger’s new authorities had
-suspended uranium and gold exports to France... Niger is the
-seventh-largest uranium producer worldwide accounting for 5% of global
-production. According to French mass media, Niger accounts for 15% -
-17% of the uranium used to generate electricity in France"
+If you have the power in the region, can stop shipments. Russia has
+the power - have to negotiate with that. Some RU opponents are too
+quick to use name-and-shame, procedure, rules of engagement, "rules
+based order" arguments to dismiss opponent's position but, in their
+case too, the niceties, formalities, rules had basis on actual power -
+the military/econ power of the United States. It was US that provided
+much of the military presence that allowed for the subsequent niceties
+to exist, that we so quickly accuse Russia of breaking today.  But the
+power structure is changing; RU was not happy with the status quo, its
+warnings were ignored, so it started the latest engagement. And even
+though support for Ukraine sounds "unwavering" today they are not
+admitted to NATO, no rich country officially committed troops to the
+teather, noone said "one for all all for one". The rest is
+demagogueric bullshit.
 
 ---
 
-There. They found some supporters. It will be trouble if Russia helps
-as well.
+Danube flows west from Ukraine, it could be used to transport grain as
+an alternative to the Black Sea. Russia wants to block that since its
+proposal for a new Black Sea grain deal were rebuffed.
 
-F24: "Burkina Faso, Mali say military intervention in Niger would be
-'declaration of war'"
+```python
+u.sm_plot_ukr6()
+```
 
----
-
-Barrons: "Nigeria Cuts Electricity To Niger After Coup"
-
----
-
-Informed Comment: "Israel’s Protests are about the Rise of the Israeli
-Ayatollahs, not Democracy"
+<img width='340' src='mbl/2023/ukr-21.jpg'/> 
 
 ---
 
-CNBC: "'Unprecedented heat': Iran begins two-day nationwide shutdown
-amid soaring temperatures"
+BBC: "A Russian drone strike has hit Ukrainian port facilities at
+Izmail on the River Danube"
+
+---
+
+Added Eritrea and Niger to RU friendly African countries
+
+[[-]](2022/12/ru-africa.html)
+
+---
+
+H2 Central: "BP Lifts Hydrogen Project Pipeline to 2.8mn T/Yr"
+
+---
+
+H2 Central: "Alberta Government Is Providing $45 Million To Power New
+Hydrogen Technologies That Will Reduce Emissions And Create Jobs"
 
 ---
 
