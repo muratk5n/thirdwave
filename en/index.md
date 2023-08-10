@@ -1,175 +1,126 @@
 
-Doctorow: "Tesla is having its own [Dieselgate scandal](https://www.reuters.com/investigates/special-report/tesla-batteries-range/).
-A stunning investigation by Steve Stecklow and Norihiko Shirouzu for
-Reuters reveals how Tesla was able to create its own demon-haunted
-car, which systematically deceived drivers about its driving range,
-and the increasingly desperate measures the company turned to as
-customers discovered the ruse"
+I use it all the time, great source of open data, code \#FOSS
 
-[[-]](https://pluralistic.net/2023/07/28/edison-not-tesla/)
+"@openstreetmap@en.osm.town
 
----
+It's OpenStreetMap's Birthday today!"
 
-"@capntransit@urbanists.social
-
-RT @kevin_degood The allocation of space is a political choice and an
-expression of values.
-
-RT @ emmanuelspv Before / After Rue Poulet in the 18th arrondissement
-of Paris. Instead of continuous car parking along both sides, larger
-sidewalks and trees"
-
-[Before, After](https://cdn.masto.host/urbanistssocial/media_attachments/files/110/821/701/179/996/491/small/c4afa05458b8972e.jpeg)
+<img width='340' src='https://cdn.masto.host/enosmtown/media_attachments/files/110/836/810/827/394/902/small/208ca02d5665f117.png'/> 
 
 ---
 
-Good idea. They banned cars from a lot of places. 
+"@straphanger@urbanists.social
 
-"The mayor of Paris, Anne Hidalgo, announced earlier this year the
-challenging and innovative concept that would make the capital a
-fifteen-minute city, 'la Ville des proximités'. The idea is to create
-neighbourhoods where every essential residents’ needs are easily
-within reach in 15 minutes by bike or walking"
+'A city is where people come to work, raise families, spend their
+money, walk in the evening. It's not a traffic corridor.'  —John
+Norquist"
 
 ---
 
-TDB: "How is congressional stock trading like the weather? Everyone
-complains about it. Yet nobody ever does anything about it. Almost
-exactly one year ago.. then-House Minority Leader Kevin McCarthy
-suggested he would support this reform, saying, 'What I’ve told
-everybody, we will come back, and we will not only investigate this,
-we will come back with a proposal to change the current behavior
-[stock trading].' We’re still waiting"
+Firstpost: "Norway to fine Meta nearly $100,000 a day from 14 August
+over privacy breaches"
 
 ---
 
-Barry Adamson - Miles \#music
+"Work for us, we'll pay you in magic beans". Right.
 
-[[-]](https://youtu.be/R6VOeQVZMFM)
+"@_dm@infosec.exchange
 
----
+[✓] Recruiter emailing me at my work address
 
-"lcamtuf@infosec.exchange
+[✓] 'Web3' company
 
-They're versioning fires now"
+[✓]Offering a "generous" 30% pay cut
 
-[[-]](https://media.infosec.exchange/infosecmediaeu/media_attachments/files/110/758/215/782/705/340/original/f25adcf6830dd1c0.png)
-
----
-
-Zombie apocalypse art form seems mostly about a wish than a future
-scare. Think about it, apoc. destroys modern life, no more traffic,
-work, busy-busy pace.. People spread out into all corners of the
-world, live closer to nature, less density. Zombies represent a
-constant threat, kill-or-be-killed situation harks back to a
-pre-agriculture hunter-gatherer state, when we had to protect against
-predators. The world becomes more public, since the concept of most
-private property would lose meaning.
+[✓]Paid in 'token allocation'"
 
 ---
 
-Fortune: "Spend enough time with ChatGPT and other ["AI"] chatbots and
-it doesn’t take long for them to spout falsehoods. Described as
-hallucination, confabulation or just plain making things up, it’s now
-a problem for every business, organization.. Some are using it on
-tasks with the potential for high-stakes consequences, from
-psychotherapy to researching and writing legal briefs"
+"@BrentToderian@mastodon.online
+
+A typical European car is parked 92% of the time. It spends 1/5th of
+its driving time looking for parking. Its 5 seats only move 1.5
+people. 86% of its fuel never reaches the wheels.. Sound efficient?"
+
+<img width='340' src='https://files.mastodon.online/media_attachments/files/110/855/834/210/343/400/small/7fb87d87fb742c95.png'/> 
 
 ---
 
-The aim of higher education should not be to prepare students for
-"jobs". Such education will be stulted, half-assed ergo not much of an
-education.
+"@ClimateNewsNow@federated.press
+
+By 2050 there will be more plastic than fish in the oceans. It’s an
+environmental crisis that’s been in the making for nearly 70 years"
 
 ---
 
-Raptor Persecution UK: "New report by Wild Justice shows protected
-areas in England in worse state than previously thought"
+"@Hypx@mastodon.social
+
+Bosch Starts Volume Production Of Hydrogen Fuel-Cell Power Module"
 
 ---
 
-"@andrewdessler@mastodon.world
+In terms of historic pollution US has been worst
 
-we need a new analogy.  
-
-no, we're not 'loading the dice'.
-
-instead, we're playing russian roulette and putting more bullets in the gun"
+[[-]](2021/01/historical-carbon-emissions.html)
 
 ---
 
-"@Adam_Cadmon1@mastodon.online
-
-Last boost: Totally pushing the idea into the popular consciousness
-that all of the concurrent crises can be fought with more personal
-responsibility.
-
-Right.
-
-Same thing happened with recycling and all that. It's not that corps
-are making a gazillion plastic straws; it's you, personally, using too
-many"
+F24: "Brazil's Lula urges rich countries to do their part to fund
+fight against climate change"
 
 ---
 
-H2 Central: "Bloom Energy launches advanced CHP Solution for net zero
-heating and cooling"
+Owner Driver: "Major freight and transport operator Toll Group has
+announced the introduction of its first hydrogen-powered long-haul
+truck in China, marking a significant milestone in the company’s
+commitment to sustainable transport solutions.. Toll Group says it
+will deploy the hydrogen truck for deliveries between warehouses in
+Shanghai, with the prime mover able to travel 300 km per trip and Toll
+expecting the technology to save up to 149 tonnes of carbon emissions
+annually"
 
 ---
 
-Ecowas is worried surely coups spreading means it will come to their
-countries one day. Mali and Burkina Faso would be worried if an Ecowas
-intervention in Niger succeeded theirs would be rolled back. If Ecowas
-intervenes there will be war.
+H2 Central: "Governor Gavin Newsom has directed the Governor’s Office
+of Business and Economic Development (GO-Biz) to develop California’s
+Hydrogen Market Development Strategy, employing an all-of-government
+approach to building up California’s clean, renewable hydrogen
+market. It will closely resemble the Zero-Emission Vehicle Market
+Development Strategy to help California collectively move forward and
+deliver zero-emission benefits to all Californians.
+
+'California is all in on clean, renewable hydrogen – an essential
+aspect of how we’ll power our future and cut pollution,' said Governor
+Newsom. 'This strategy will lay out the pathway for building a robust
+hydrogen market to help us fully embrace this source of clean energy'"
 
 ---
 
-If you have the power in the region, can stop shipments. Russia has
-the power - have to negotiate with that. Some RU opponents are too
-quick to use name-and-shame, procedure, rules of engagement, "rules
-based order" arguments to dismiss opponent's position but, in their
-case too, the niceties, formalities, rules had basis on actual power -
-the military/econ power of the United States. It was US that provided
-much of the military presence that allowed for the subsequent niceties
-to exist, that we so quickly accuse Russia of breaking today.  But the
-power structure is changing; RU was not happy with the status quo, its
-warnings were ignored, so it started the latest engagement. And even
-though support for Ukraine sounds "unwavering" today they are not
-admitted to NATO, no rich country officially committed troops to the
-teather, noone said "one for all all for one". The rest is
-demagogueric bullshit.
+AP News: "[Battery] electric bus maker Proterra files for Chapter 11
+bankruptcy protection"
 
 ---
 
-Danube flows west from Ukraine, it could be used to transport grain as
-an alternative to the Black Sea. Russia wants to block that since its
-proposal for a new Black Sea grain deal were rebuffed.
+Lindsay Graham and Ossoff supporting the same tech - that's great. Both
+old and new industries have much to gain from a clean fuel transition.
 
-```python
-u.sm_plot_ukr6()
-```
-
-<img width='340' src='mbl/2023/ukr-21.jpg'/> 
+"[6/9] Sens. Ossoff & Graham Introduce Bipartisan Bills to Study Hydrogen for
+Aviation Industry, Strengthen American Energy Security"
 
 ---
 
-BBC: "A Russian drone strike has hit Ukrainian port facilities at
-Izmail on the River Danube"
+Firstpost: "Niger’s tailors rush to make in demand Russian flags after coup"
 
 ---
 
-Added Eritrea and Niger to RU friendly African countries
-
-[[-]](2022/12/ru-africa.html)
-
----
-
-H2 Central: "BP Lifts Hydrogen Project Pipeline to 2.8mn T/Yr"
+TASS: "Russian international reserves up 1.3% in July to $589 bln —
+Central Bank"
 
 ---
 
-H2 Central: "Alberta Government Is Providing $45 Million To Power New
-Hydrogen Technologies That Will Reduce Emissions And Create Jobs"
+F24: "Manila summoned Beijing's envoy Monday after the China Coast
+Guard blocked and water cannoned Philippine vessels in the disputed
+South China Sea"
 
 ---
 

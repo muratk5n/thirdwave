@@ -568,19 +568,6 @@ Germany) into an model region for hydrogen"
 
 ---
 
-Good audience score.. haven't seen it yet, looks like it isn't Woke. 
-
-
-```python
-u.rottentomatoes3("The Flash 2023")
-```
-
-```text
-Out[1]: {'tomatometer score': 68, 'audience score': 87}
-```
-
----
-
 "@Hy_Economy@mastodon.social
 
 Berlin plans a local hydrogen pipeline network: 

@@ -28,6 +28,8 @@
 	    [369970739, "USS AMERICA (LHA-6)", "US-AIRCRAFTCARRIER-6-IMO-0-MMSI-369970739"],
 	    [369970409, "USS Carl Vinson (CVN-70)","details/369970409"],
 	    [369970157, "USS Florida (SSGN-728)", "details/369970157"],
-	    [338845000, "USS Canberra", "details/338845000"]
+	    [338845000, "USS Canberra", "details/338845000"],
+	    [368958000, "USS Bataan","details/368958000"],
+	    [368940000, "USS Carter Hall", "details/368940000"]
 	    ]
 }

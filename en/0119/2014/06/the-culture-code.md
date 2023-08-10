@@ -57,7 +57,7 @@ made this connection. I learned about peanut butter after the closing
 of the window in time when I could form a strong emotional association
 with it. Because it didn’t carry with it the weight of my mother’s
 love, it was simply another foodstuff. I tasted it and didn’t find it
-to be special in any way; in fact, I didn’t like it [neither did I..].
+to be special in any way; in fact, I didn’t like it.. 
 
 My review of hundreds of stories told by participants during the
 discovery sessions revealed that the American Code for cars is
@@ -92,29 +92,28 @@ opposing one...
 US
 
 For example, one of the primary tensions in the American culture is
-the one between freedom and prohibition.
+the one between freedom and prohibition...
 
 <a name='france'/>
 
 France
 
-In France, for example, the archetype on the other side of the axis
-from freedom is not prohibition; it is privilege. Throughout their
-history, the French have vacillated between periods when a privileged
-class ruled the day and periods when this class is overthrown and the
-nation abolishes privileges and titles. The most famous example
-occurred, of course, in 1789, though it is interesting to note that
-Napoleon began a new era of titles and privilege not long
-thereafter...  When Disney launched Euro Disney in Paris, they learned
-how much privilege means to the French culture. Originally, the theme
-park had the same rules as all other Disney parks, barring pets,
-smoking, and the consumption of alcohol. The French stayed away in
-droves because they didn’t like such restrictions. Disney broke
-through to the French market only when they began to offer special
-“privilege passes” that allowed access (for a premium price) to
-certain parts of the park where visitors could take their pets, smoke,
-and drink wine. The idea of islands of privilege in a sea of equality
-was right on Code for [them].
+In France.. the archetype on the other side of the axis from freedom
+is not prohibition; it is privilege. Throughout their history, the
+French have vacillated between periods when a privileged class ruled
+the day and periods when this class is overthrown and the nation
+abolishes privileges and titles. The most famous example occurred, of
+course, in 1789, though it is interesting to note that Napoleon began
+a new era of titles and privilege not long thereafter...  When Disney
+launched Euro Disney in Paris, they learned how much privilege means
+to the French culture. Originally, the theme park had the same rules
+as all other Disney parks, barring pets, smoking, and the consumption
+of alcohol. The French stayed away in droves because they didn’t like
+such restrictions. Disney broke through to the French market only when
+they began to offer special “privilege passes” that allowed access
+(for a premium price) to certain parts of the park where visitors
+could take their pets, smoke, and drink wine. The idea of islands of
+privilege in a sea of equality was right on Code for [them].
 
 <a name='heritage'/>
 

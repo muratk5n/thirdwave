@@ -21,7 +21,6 @@ def wbt(T,H):
     dew = dewpoint_from_relative_humidity(T * units.degC, H * units.percent)
     return wet_bulb_temperature(P * units.hPa, T * units.degC, dew)
     
-
 def sm_plot_ukr6():    
     fig, ax = plt.subplots() 
     clat=44;clon=25;zoom = 0.8
@@ -203,11 +202,10 @@ def sm_plot_tr1():
 
 def sm_plot_nile2():
     fig, ax = plt.subplots() 
-    d = json.loads(open("nile.json").read())
+    d = json.loads(open("africa.json").read())
     clat,clon=13, 29;zoom=2.0
     sm.plot_countries(clat,clon,zoom=zoom,ax=ax)
-    sm.plot_line(np.array(d['nile1']),ax,color='cyan',linestyle='solid')
-    sm.plot_line(np.array(d['nile2']),ax,color='cyan',linestyle='solid')
+    sm.plot_water(clat,clon,zoom=zoom,ax=ax)
     df = pd.read_csv('../../2022/01/oilgas-2018.csv')
     fields = df[df.ISO == 'SDN'][['LAT_DD','LON_DD']]
     fields = np.array(fields)
@@ -295,11 +293,10 @@ def sm_plot_ukr1(file,oldfile,geo,clat=48,clon=37,zoom=0.6,ax=None,show_fortific
 
 def sm_plot_nile1():
     fig, ax = plt.subplots() 
-    d = json.loads(open("nile.json").read())
+    d = json.loads(open("africa.json").read())
     clat,clon=15, 34;zoom=3.0
     sm.plot_countries(clat,clon,zoom=zoom,ax=ax)
-    sm.plot_line(np.array(d['nile1']),ax,color='cyan',linestyle='solid')
-    sm.plot_line(np.array(d['nile2']),ax,color='cyan',linestyle='solid')
+    sm.plot_water(clat,clon,zoom=zoom,ax=ax)
     geo = ["Ethiopia", "Sudan", "Egypt", "GERD","Khartoum"]
     ps = np.array([[x, d[x][0], d[x][1]] for x in geo])
     sm_plot_list1(clat,clon,zoom,data=ps,ax=ax)
@@ -370,6 +367,10 @@ def renew_perc_bp(country):
     df = df.set_index('Year')
     df = df[df.index == df.index.max()]
     return np.round(float(df['renewables_ej']) / (float(df['primary_ej']))*100,2)
+
+def sm_usnavy(clat, clon, zoom):
+    df = usnavy()
+    sm_plot_list1(clat, clon, zoom, np.array(df[['name','lat','lon']]))
 
 def usnavy():
     ships = json.loads(open("../../mbl/2023/usnavy.json").read())
