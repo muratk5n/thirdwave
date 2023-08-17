@@ -1,5 +1,263 @@
 # Week 32
 
+
+CCJ: "Hitting the market in 2025, the recently announced Kenworth T680
+FCEV is the culmination of seven years that Kenworth has been
+collaborating with Toyota on prototype vehicles. It combines Toyota's
+second generation hydrogen fuel cell stack with the T680 Next Gen. The
+T680 FCEV is a Class 8 tractor rated up to 82,000 pounds and stores 60
+kilograms of hydrogen on board that powers a 310 kilowatt motor and
+it's 415 horsepower gives you all the power you need to do your
+regional or long haul driving. The range is 450 miles and can refuel
+it in 20 to 30 minutes.
+
+---
+
+Informed Comment: "[T]his country can no longer boast of having
+anything like the world’s best educational outcomes, or healthcare
+system, or the most advanced and safest infrastructure, or the best
+democratic politics.. [but] Americans could certainly brag about one
+thing this country has beyond compare: the most expensive military
+around and possibly ever. No country even comes close to our
+commitment of funds to wars, weapons.. and global dominance. Indeed,
+the Pentagon’s budget for “defense” in 2023 exceeds that of the next
+10 countries (mostly allies!) combined.
+
+---
+
+Illich: "Beyond a certain speed, motorized vehicles create remoteness
+which they alone can shrink. They create distances for all and shrink
+them for only a few. A new dirt road through the wilderness brings the
+city within view, but not within reach, of most Brazilian subsistence
+farmers. The new expressway expands Chicago, but it sucks those who
+are well-wheeled away from a downtown that decays into a ghetto"
+
+---
+
+"Store-bought sauerkraut is often treated with preservatives, meaning
+it does not offer the same health effects as homemade [one]"
+
+---
+
+No need to use funky salts and a little mashed apple on top also adds
+flavor. Guten Appetit
+
+---
+
+$7 for pickled cabbage.. I thought 'robbery', so made some. T'was easy
+and cost 20 cents. Potent stuff. Full of probiotics they say?
+
+---
+
+Firstpost: "Germany Woos Taiwan: TSMC to set up $11 billion chip-making
+fab in Dresden, first of its kind in EU"
+
+---
+
+BNN Bloomberg: "California Green Hydrogen Machine Maker [Verdagy]
+Raises $73 Million"
+
+---
+
+Doctorow: "Tesla is having its own [Dieselgate scandal](https://www.reuters.com/investigates/special-report/tesla-batteries-range/).
+A stunning investigation by Steve Stecklow and Norihiko Shirouzu for
+Reuters reveals how Tesla was able to create its own demon-haunted
+car, which systematically deceived drivers about its driving range,
+and the increasingly desperate measures the company turned to as
+customers discovered the ruse"
+
+[[-]](https://pluralistic.net/2023/07/28/edison-not-tesla/)
+
+---
+
+F24: "Russia to launch first lunar mission in nearly half a century"
+
+---
+
+Firstpost: "NASA had initially planned to launch the Artemis 3 mission
+to the moon in December 2025, and land astronauts on the south
+pole. However, now, NASA believes that they may not be able to launch
+the mission, essentially because of SpaceX..
+
+SpaceX.. has secured the contract for the landing system, which is
+based on a version of its Starship rocket prototype. This Starship
+rocket, however, remains significantly distant from being fully
+prepared. An orbital test flight of the Starship resulted in a
+dramatic explosion in April... Jim Free.. expressed apprehension due
+to the absence of actual launches. He emphasized that multiple
+successful launches are required before the rocket can be considered
+ready"
+
+---
+
+I bet on US side Dubya spurred that shit talked LatAm countries into
+it, to "fight drugs". What a dildo.
+
+Wiki: "[Post 2000] Arrests of key cartel leaders, particularly in the
+Tijuana and Gulf cartels, have led to increasing drug violence as
+cartels fight for control of the trafficking routes into the United
+States"
+
+[[-]](https://en.wikipedia.org/wiki/Mexican_drug_war)
+
+---
+
+South of the US border when governments wanted to fight drug cartels,
+they probably picked off the largest visible players, trying to end
+oligapolies, monopolies.  But this is an area where you do **not**
+want competition, a lively market, "better prices", "satisfied
+customers" - you want an oligarchy, preferably a monopoly in the drug
+business. Government then could reach a modus vivendi with that
+player, one cartel supplies the much demanded product (no way around
+that), hopefully keeping the price high, small fish do not fight
+eachother for access, drug related crimes reduce.
+
+---
+
+The Local: "France plans 70% 'supertax' on fuel for private jets"
+
+---
+
+Bloomberg: "A group of electric utilities and producers is throwing
+its support behind the Biden administration’s plan for throttling
+greenhouse emissions from the nation’s coal and gas power plants. The
+Energy Strategy Coalition, whose members include National Grid USA,
+NextEra Energy Inc. and Pacific Gas and Electric Co., argues the [EPA]
+is on solid legal footing tying proposed requirements to
+carbon-capture technology and cleaner-burning hydrogen"
+
+---
+
+TASS: "Pretoria backs Iran's accession to BRICS — South African
+President"
+
+---
+
+I use it all the time, great source of open data, code \#FOSS
+
+"@openstreetmap@en.osm.town
+
+It's OpenStreetMap's Birthday today!"
+
+<img width='340' src='https://cdn.masto.host/enosmtown/media_attachments/files/110/836/810/827/394/902/small/208ca02d5665f117.png'/> 
+
+---
+
+"@straphanger@urbanists.social
+
+'A city is where people come to work, raise families, spend their
+money, walk in the evening. It's not a traffic corridor.'  —John
+Norquist"
+
+---
+
+Firstpost: "Norway to fine Meta nearly $100,000 a day from 14 August
+over privacy breaches"
+
+---
+
+"Work for us, we'll pay you in magic beans". Right.
+
+"@_dm@infosec.exchange
+
+[✓] Recruiter emailing me at my work address
+
+[✓] 'Web3' company
+
+[✓]Offering a "generous" 30% pay cut
+
+[✓]Paid in 'token allocation'"
+
+---
+
+"@BrentToderian@mastodon.online
+
+A typical European car is parked 92% of the time. It spends 1/5th of
+its driving time looking for parking. Its 5 seats only move 1.5
+people. 86% of its fuel never reaches the wheels.. Sound efficient?"
+
+<img width='340' src='https://files.mastodon.online/media_attachments/files/110/855/834/210/343/400/small/7fb87d87fb742c95.png'/> 
+
+---
+
+"@ClimateNewsNow@federated.press
+
+By 2050 there will be more plastic than fish in the oceans. It’s an
+environmental crisis that’s been in the making for nearly 70 years"
+
+---
+
+"@Hypx@mastodon.social
+
+Bosch Starts Volume Production Of Hydrogen Fuel-Cell Power Module"
+
+---
+
+In terms of historic pollution US has been worst
+
+[[-]](../../2021/01/historical-carbon-emissions.html)
+
+---
+
+F24: "Brazil's Lula urges rich countries to do their part to fund
+fight against climate change"
+
+---
+
+Owner Driver: "Major freight and transport operator Toll Group has
+announced the introduction of its first hydrogen-powered long-haul
+truck in China, marking a significant milestone in the company’s
+commitment to sustainable transport solutions.. Toll Group says it
+will deploy the hydrogen truck for deliveries between warehouses in
+Shanghai, with the prime mover able to travel 300 km per trip and Toll
+expecting the technology to save up to 149 tonnes of carbon emissions
+annually"
+
+---
+
+H2 Central: "Governor Gavin Newsom has directed the Governor’s Office
+of Business and Economic Development (GO-Biz) to develop California’s
+Hydrogen Market Development Strategy, employing an all-of-government
+approach to building up California’s clean, renewable hydrogen
+market. It will closely resemble the Zero-Emission Vehicle Market
+Development Strategy to help California collectively move forward and
+deliver zero-emission benefits to all Californians.
+
+'California is all in on clean, renewable hydrogen – an essential
+aspect of how we’ll power our future and cut pollution,' said Governor
+Newsom. 'This strategy will lay out the pathway for building a robust
+hydrogen market to help us fully embrace this source of clean energy'"
+
+---
+
+AP News: "[Battery] electric bus maker Proterra files for Chapter 11
+bankruptcy protection"
+
+---
+
+Lindsay Graham and Ossoff supporting the same tech - that's great. Both
+old and new industries have much to gain from a clean fuel transition.
+
+"[6/9] Sens. Ossoff & Graham Introduce Bipartisan Bills to Study Hydrogen for
+Aviation Industry, Strengthen American Energy Security"
+
+---
+
+Firstpost: "Niger’s tailors rush to make in demand Russian flags after coup"
+
+---
+
+TASS: "Russian international reserves up 1.3% in July to $589 bln —
+Central Bank"
+
+---
+
+F24: "Manila summoned Beijing's envoy Monday after the China Coast
+Guard blocked and water cannoned Philippine vessels in the disputed
+South China Sea"
+
+---
+
 Hartmann: "Before Reagan, ... CEOs who executed share buybacks just to
 artificially inflate stock prices could go to prison. FDR criminalized
 share buybacks in the early 1930s because they’re simply a form of

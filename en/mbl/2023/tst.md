@@ -7,14 +7,6 @@ pd.set_option('display.max_columns', None)
 ```
 
 
-```python
-u.sm_usnavy(24, 38, 2.5)
-plt.savefig('/tmp/out.jpg',quality=40)
-```
-
-
-
-
 
 
 
@@ -32,11 +24,11 @@ plt.savefig('/tmp/out.jpg',quality=40)
 
 
 ```python
-geo = [['Main'],['Staromaiorske','Makarivka'], ['Klischchiivka','Opytne','Bakhmut'],
+geo = [['Main'],['Staromaiorske','Makarivka','Urozhaine'], ['Klischchiivka','Opytne','Bakhmut'],
        ['Malynivka'],['Novovodiane'], ['Robotyne'],
-       ['Lobkove'],['Antonovskiy Bridge','Kherson'],['Zolotarivka','Spirne']]
+       ['Lobkove'],['Kyslivka','Tabaivka'],['Zolotarivka','Spirne']]
        
-u.sm_plot_ukr4('ukrdata/fl-0810.csv','ukrdata/fl-0729.csv',geo,3,3,zoom=0.03,fsize=(10,10),)
+u.sm_plot_ukr4('ukrdata/fl-0814.csv','ukrdata/fl-0729.csv',geo,3,3,zoom=0.03,fsize=(10,10),)
 plt.savefig('/tmp/out.jpg',quality=40)
 ```
 
@@ -67,9 +59,9 @@ u.ru_areas().tail(3)
 Out[1]: 
                  area
 dt                   
-2022-07-29  15.447815
-2022-08-03  15.445465
-2022-08-07  15.448701
+2022-08-10  15.449787
+2022-08-11  15.449593
+2022-08-14  15.443127
 ```
 
 

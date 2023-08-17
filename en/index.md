@@ -1,126 +1,167 @@
 
-I use it all the time, great source of open data, code \#FOSS
+The Guardian: "England’s water system: the last of the privatised
+monopolies.. Selling Britain’s state-owned water authorities seemed
+like a good idea to Conservative ministers in the 1980s.. Why not let
+the private sector inject some energy and much-needed cash into a
+project that a tired public sector management was ill-equipped to
+handle, they argued.
 
-"@openstreetmap@en.osm.town
-
-It's OpenStreetMap's Birthday today!"
-
-<img width='340' src='https://cdn.masto.host/enosmtown/media_attachments/files/110/836/810/827/394/902/small/208ca02d5665f117.png'/> 
-
----
-
-"@straphanger@urbanists.social
-
-'A city is where people come to work, raise families, spend their
-money, walk in the evening. It's not a traffic corridor.'  —John
-Norquist"
+But since 1989, when 10 regional water authorities were sold, there
+has been claim and counter claim about the benefits that can be
+credited to the new private sector owners. To the industry’s
+detractors, one clear cost is the failure to upgrade a sewer system
+that regularly overflows into watercourses, polluting rivers and
+killing wildlife"
 
 ---
 
-Firstpost: "Norway to fine Meta nearly $100,000 a day from 14 August
-over privacy breaches"
+Then it's privatisation
+
+FT: "Victorian sewers not to blame for England’s pollution, research
+shows.. Almost 80% of sewage spills are attributable to insufficient
+capacity"
 
 ---
 
-"Work for us, we'll pay you in magic beans". Right.
-
-"@_dm@infosec.exchange
-
-[✓] Recruiter emailing me at my work address
-
-[✓] 'Web3' company
-
-[✓]Offering a "generous" 30% pay cut
-
-[✓]Paid in 'token allocation'"
+Foreign Policy: "In Phoenix, Arizona, one flight was canceled because
+the plane’s internal temperature became unbearably hot, prompting
+three passengers to faint from heat exhaustion"
 
 ---
 
-"@BrentToderian@mastodon.online
+"@carnage4life@mas.to
 
-A typical European car is parked 92% of the time. It spends 1/5th of
-its driving time looking for parking. Its 5 seats only move 1.5
-people. 86% of its fuel never reaches the wheels.. Sound efficient?"
+The relationship between news websites and Google has been backwards
+for a while as sites make content optimized for Google.
 
-<img width='340' src='https://files.mastodon.online/media_attachments/files/110/855/834/210/343/400/small/7fb87d87fb742c95.png'/> 
-
----
-
-"@ClimateNewsNow@federated.press
-
-By 2050 there will be more plastic than fish in the oceans. It’s an
-environmental crisis that’s been in the making for nearly 70 years"
+The latest and most absurd trend is sites like CNet deleting old
+articles (e.g. 1996 articles about AOL service tiers) because they
+believe Google penalizes old content"
 
 ---
 
-"@Hypx@mastodon.social
+"@sixtus@mastodon.social
 
-Bosch Starts Volume Production Of Hydrogen Fuel-Cell Power Module"
+'The only way to lower rents again is public property. As early as
+2021, 59.1 percent of [Berlin] voters were calling for
+expropriation. (...) Now this commission has reported back that
+expropriation is indeed legal and affordable - and what is more, that
+no other measure will stop the doubling of rents every decade'"
 
----
-
-In terms of historic pollution US has been worst
-
-[[-]](2021/01/historical-carbon-emissions.html)
-
----
-
-F24: "Brazil's Lula urges rich countries to do their part to fund
-fight against climate change"
+[[-]](https://mastodon.social/@sixtus/110876406609435971)
 
 ---
 
-Owner Driver: "Major freight and transport operator Toll Group has
-announced the introduction of its first hydrogen-powered long-haul
-truck in China, marking a significant milestone in the company’s
-commitment to sustainable transport solutions.. Toll Group says it
-will deploy the hydrogen truck for deliveries between warehouses in
-Shanghai, with the prime mover able to travel 300 km per trip and Toll
-expecting the technology to save up to 149 tonnes of carbon emissions
-annually"
+Marcus: "I first warned of a LLM-driven deluge on February 12, a few
+days after Kevin Roose described his sense of 'awe' at the unveiling
+of the new GPT-4 powered Bing—and a few days before it notoriously
+recommended he get a divorce—in that brief initial period in which
+Bing and GPT-4 were viewed through entirely rose-colored
+glasses... The general thesis of the article was the Google ought be
+pretty concerned by what was coming; the subtitle was 'How sewers of
+lies could spell the end of web search'"
+
+[[-]](https://garymarcus.substack.com/p/the-imminent-enshittification-of)
 
 ---
 
-H2 Central: "Governor Gavin Newsom has directed the Governor’s Office
-of Business and Economic Development (GO-Biz) to develop California’s
-Hydrogen Market Development Strategy, employing an all-of-government
-approach to building up California’s clean, renewable hydrogen
-market. It will closely resemble the Zero-Emission Vehicle Market
-Development Strategy to help California collectively move forward and
-deliver zero-emission benefits to all Californians.
-
-'California is all in on clean, renewable hydrogen – an essential
-aspect of how we’ll power our future and cut pollution,' said Governor
-Newsom. 'This strategy will lay out the pathway for building a robust
-hydrogen market to help us fully embrace this source of clean energy'"
+Reason: "Ironically, one of the people now indicted in Georgia on RICO
+charges—Rudy Giuliani—made RICO famous in the 1980s"
 
 ---
 
-AP News: "[Battery] electric bus maker Proterra files for Chapter 11
-bankruptcy protection"
+A theory goes since inflation has to do with circulation of money in
+the economy among regular people, if mega corporations run the roost
+all money would eventually end up in their coffers, out of the
+circulation, so in essence they'd have an deflationary effect. See
+Amazon's total assets,
+
+
+```python
+u.biz_balance("AMZN")['totalAssets'] / 1e9
+```
+
+```text
+Out[1]: 
+2022-06-30    419.728
+2022-09-30    428.362
+2022-12-31    462.675
+2023-03-31    464.378
+2023-06-30    477.607
+Name: totalAssets, dtype: float64
+```
+
+That is a a rise from $221 billion in 2020. 
 
 ---
 
-Lindsay Graham and Ossoff supporting the same tech - that's great. Both
-old and new industries have much to gain from a clean fuel transition.
-
-"[6/9] Sens. Ossoff & Graham Introduce Bipartisan Bills to Study Hydrogen for
-Aviation Industry, Strengthen American Energy Security"
+It feels like swimming through the air. WTF?
 
 ---
 
-Firstpost: "Niger’s tailors rush to make in demand Russian flags after coup"
+Wet-bulb temp 30 C! Temperature 30 C humidity 100%. A record since
+I've been watching it.
 
 ---
 
-TASS: "Russian international reserves up 1.3% in July to $589 bln —
-Central Bank"
+The Japan Times: "The prospect of a destructive wildfire has been a
+growing concern across West Maui for years, as drought has worsened,
+invasive plants have created huge swaths of highly flammable
+grasslands, and worsening storms have spawned winds that can fuel
+fires"
 
 ---
 
-F24: "Manila summoned Beijing's envoy Monday after the China Coast
-Guard blocked and water cannoned Philippine vessels in the disputed
-South China Sea"
+H2 Central: "Korea Zinc Co., a South Korean non-ferrous metal smelting
+company, will begin commercial production of green hydrogen in
+Australia in the first half of next year"
+
+---
+
+Zombies - Bro Safari & UFO! \#music
+
+[[-]](https://youtu.be/w9lMy-13oEg)
+
+---
+
+Business Insider: "Massachusetts passed a 4% tax on people who make
+more than $1 million per year. Revenue from the new income tax is
+being used to give kids in the state free lunch and breakfast at
+school"
+
+---
+
+"20 years ago, working as a server, I lived in a corner 1 bdrm apt
+downtown with amazing water views for $700/month. A similar apt now
+3,600/month more than 5x as much. As a lawyer at age 47 I am unable to
+afford living in the apartment I did at age 27 while waiting tables"
+
+---
+
+"@Radical_EgoCom@kolektiva.social
+
+Good old 'trickle down economics' at its finest"
+
+[[-]](https://kolektiva.social/system/media_attachments/files/110/888/151/370/546/071/original/16f00ad4c42f17e0.png)
+
+---
+
+Farmer: "Actually, it's insane: we import feed from South America,
+which deprives farmers there of the opportunity to produce food. They
+are hungry because soya is produced for European cattle. We use this
+soy to produce products that we don't need here, export them at
+dumping prices - preferably to Africa, where we ruin the farmers who
+will eventually be here as refugees"
+
+[[-]](https://www.tagesschau.de/inland/regional/rheinlandpfalz/swr-milchbauer-kurt-kootz-eigentlich-ist-das-irrsinn-100.html)
+
+---
+
+Later he said 'he misspoke' - but he has a point
+
+The Guardian: "Ukraine could give up territory to Russia in exchange
+for Nato membership and an end to the war, a senior Nato official has
+suggested"
 
 ---
 
@@ -170,3 +211,5 @@ Also on
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
 
 <img src='https://drive.google.com/uc?export=view&id=1zsIeciFSvlr-sWB84Tc0mfZ_NYqn9VQx'/> 
+
+

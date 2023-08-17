@@ -585,7 +585,7 @@ def biz_balance(ticker):
   data_qt = yahoo_financials.get_financial_stmts('quarterly', 'balance')
   slist = []
   for i in range(len(data_qt['balanceSheetHistoryQuarterly'][ticker])):
-      slist.append(pd.DataFrame.from_dict(data_qt['balanceSheetHistoryQuarterly']['DIS'][i]))
+      slist.append(pd.DataFrame.from_dict(data_qt['balanceSheetHistoryQuarterly'][ticker][i]))
   df = pd.concat(slist,axis=1).T
   df = df.sort_index(ascending=True)
   return df
@@ -595,7 +595,7 @@ def biz_cash(ticker):
   data_qt = yahoo_financials.get_financial_stmts('quarterly', 'cash')
   slist = []
   for i in range(len(data_qt['cashflowStatementHistoryQuarterly'][ticker])):
-      slist.append(pd.DataFrame.from_dict(data_qt['cashflowStatementHistoryQuarterly']['DIS'][i]))
+      slist.append(pd.DataFrame.from_dict(data_qt['cashflowStatementHistoryQuarterly'][ticker][i]))
   df = pd.concat(slist,axis=1).T
   df = df.sort_index(ascending=True)
   return df

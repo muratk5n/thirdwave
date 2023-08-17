@@ -36,6 +36,8 @@
 
 [Debt Machine](05/debt-machine-video.html)
 
+[How to Science](05/how-to-science.html)
+
 [Timeline of Egypt, Ethiopia, Somalia, Dam Events](05/timeline-eth-som-egy.html)
 
 [Evil Geniuses](06/evil-geniuses.html)
