@@ -10,6 +10,21 @@ pd.set_option('display.max_columns', None)
 
 
 
+```python
+u.boxofficemojo("Blue Beetle")
+```
+
+```text
+Out[1]: 
+{'Domestic Opening': '$25,400,000',
+ 'Domestic': '$25,400,000',
+ 'International': '$18,000,000',
+ 'Worldwide Total': '$43,400,000',
+ 'Release Date': 'August 16, 2023'}
+```
+
+
+
 
 
 
@@ -24,11 +39,11 @@ pd.set_option('display.max_columns', None)
 
 
 ```python
-geo = [['Main'],['Staromaiorske','Makarivka','Urozhaine'], ['Klischchiivka','Opytne','Bakhmut'],
-       ['Malynivka'],['Novovodiane'], ['Robotyne'],
-       ['Lobkove'],['Kyslivka','Tabaivka'],['Zolotarivka','Spirne']]
+geo = [['Main'],['Urozhaine','Staromaiorske'], ['Robotyne'],
+       ['Orikhovo-Vasylivka','Blahodatne'],['Vuhledar'], ['Lyman Pershyi'],
+       ['Kreminna','Lyman'],['Kyslivka','Tabaivka'],['Zolotarivka','Spirne']]
        
-u.sm_plot_ukr4('ukrdata/fl-0814.csv','ukrdata/fl-0729.csv',geo,3,3,zoom=0.03,fsize=(10,10),)
+u.sm_plot_ukr4('ukrdata/fl-0822.csv','ukrdata/fl-0814.csv',geo,3,3,zoom=0.03,fsize=(10,10),)
 plt.savefig('/tmp/out.jpg',quality=40)
 ```
 

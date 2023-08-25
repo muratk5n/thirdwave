@@ -11,9 +11,15 @@ out fires below a certain brightness threshold. MODIS works through
 satellite images, it scans for certain brighness, color on all Earth
 images.
 
-[Script](fires.py)
+```python
+import impl as u
 
-[Output](fires-out.html)
+u.modis_fire(0,0,18)
+plt.savefig('fires.jpg',quality=40)
+```
+
+![](fires.jpg)
+
 
 History
 

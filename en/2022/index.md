@@ -78,7 +78,7 @@
 
 [The New Economics](05/the-new-economics-keen.html)
 
-[Extraterrestrial](06/extraterrestrial-oumuamua-loeb.html)
+[Oumuamua](06/oumuamua.html)
 
 [GHG Sources](06/ghg-sources.html)
 

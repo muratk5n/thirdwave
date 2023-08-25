@@ -15,6 +15,22 @@ def get_sm(): return sm
 
 def get_pd(): return pd
 
+def get_modis_csv():
+    url = "https://firms.modaps.eosdis.nasa.gov/data/active_fire/modis-c6.1/csv"
+    f = 'MODIS_C6_1_Global_7d.csv'
+    if not os.path.isfile("/tmp/" + f):
+        data = urllib.request.urlretrieve(url + "/" + f, "/tmp/" + f)
+
+def modis_fire(clat,clon,zoom):        
+    get_modis_csv()    
+    THRESHOLD = 400.0
+    df = pd.read_csv('/tmp/MODIS_C6_1_Global_7d.csv')
+    df = df[df['brightness'] > THRESHOLD]
+    df['brightness'] = 1.0 - (df['brightness'] / df['brightness'].max())
+    sm.plot_continents(clat,clon,zoom=zoom,incolor='green', outcolor='white', fill=False)
+    for i, row in df.iterrows():
+        plt.plot(row['longitude'],row['latitude'],'r.',alpha=row['brightness'])
+
 def wbt(T,H):
     #T = 46; H = 50
     P = 1000

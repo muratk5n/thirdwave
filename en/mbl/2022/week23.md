@@ -371,7 +371,7 @@ level mostly start with and verify against data.
 
 ---
 
-Avi Loeb book [excerpts](../../2022/06/extraterrestrial-oumuamua-loeb.html). Can skip forward
+Avi Loeb book [excerpts](../../2022/06/oumuamua.html). Can skip forward
 [here](../../0119/2018/09/multiverse-string-theory.html) for the good parts
 on the string theory, the multiverse, and theoretical physics losing its way.
 
