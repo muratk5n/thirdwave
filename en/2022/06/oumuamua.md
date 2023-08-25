@@ -1,0 +1,100 @@
+# Oumuamua
+
+There are two theories on the mysterious object Oumuamua. Scientist
+Avi Loeb claims it is extraterrestrial, another, after their first
+hydrogen iceberg claim was debunked, hydrogen bubbles forming in
+regular ice. The latter theory starts with the fact that H2 outgassing
+is not currently detected by any latest device, and hence it could be
+the culprit for the acceleration witnessed with Oumuamua. Both views
+are presented below.
+
+### Extraterrestrial
+
+*Extraterrestrial*, Avi Loeb
+
+For starters, prior to Oumuamua’s discovery, no confirmed interstellar
+object had ever been observed in our own solar system. That alone made
+Oumuamua historic, and it was enough to draw many astronomers’
+attention..
+
+And once we had our telescopes trained on Oumuamua, we looked for one
+bit of information in particular: how Oumuamua reflected sunlight.
+Our Sun acts like a lamppost that illuminates not only all the planets
+orbiting it but every object that comes close enough.. [A]ny two
+objects will rotate relative to each other when they pass... Anything
+other than a sphere, however, will reflect the Sun’s light by varying
+amounts as the object rotates. A football, for example, will reflect
+more light when one of its long sides faces the Sun and less light
+when, as it tumbles, its narrow sides face the Sun.  For
+astrophysicists, an object’s changing brightness provides invaluable
+clues to its shape. In the case of Oumuamua, the object’s brightness
+varied tenfold every eight hours, which we deduced to be the amount of
+time that it took to complete one full rotation. This dramatic
+variability in its brightness told us that Oumuamua’s shape was
+extreme, or at least five to ten times longer than it was wide.  This
+would make Oumuamua’s geometry more extreme.. than the most extreme
+asteroids or comets that we have ever seen...
+
+[T]he object’s relatively small but extreme dimensions—with a length
+at least five to ten times greater than its width—allowed only two
+possible shapes. Our interstellar visitor was either elongated, like a
+cigar, or flat, like a pancake.. Either way, Oumuamua was a
+rarity. If it was elongated, we had never seen any naturally occurring
+space object that size and that elongated; if it was flat, we had
+never seen any naturally occurring space object that size and that
+flat.
+
+And there was more.. In addition to being small and oddly shaped,
+Oumuamua was strangely luminous.. [with] levels of brightness similar
+to a shiny metal.
+
+Oumuamua.. trajectory deviated from what was expected based on the
+Sun’s gravitational force alone. There was no obvious explanation for
+why. This, for me, was the most eyebrow-raising bit of data..  The
+universal laws of physics allow us to predict with certainty what a
+given object’s trajectory should be as it speeds around the Sun. But
+Oumuamua didn’t behave as we expected.
+
+Comets [can] show a [similar] deviation.. The comet’s evaporating ice
+acts like a jet that pushes the comet. Because of that rocket effect,
+an outgassing comet can deviate from a path shaped by the Sun’s
+gravitation alone. Indeed, when astronomers observe such a comet, we
+can be precise. When we see an outgassing comet and measure the extent
+of its deviation, we can calculate how much of the comet’s mass was
+used up in giving it this extra push. But deep observations of the
+space around Oumuamua did not reveal any trace of water, carbon-based
+gases, or dust, ruling out the possibility that it was being pushed by
+cometary vapor or visible dust particles. Moreover, it did not change
+its spin rate as it should have if one-sided jets were pushing it
+sideways, as they often do in comets...
+
+And then there is the evidence that the extra force acting on
+Oumuamua, the force that was causing it to deviate, declined in
+inverse proportion to the square of Oumuamua’s distance from the
+Sun. If the extra force were the result of outgassing, we would expect
+a faster deceleration of an object as it rapidly distances itself from
+the Sun.. When I read reports that the extra force on Oumuamua
+declined inversely with the distance from the Sun squared, I wondered
+what could be pushing it if not outgassing or disintegration. The only
+explanation that came to mind was the sunlight bouncing off its
+surface like wind off a thin sail.
+
+<a name='h2gas'/>
+
+### Hydrogen Gas
+
+[NYT](https://www.nytimes.com/2023/03/22/science/astronomy-oumuamua-comet.html)
+
+[L]ab experiments done as far back as the 1970s showed that when ice
+is struck by high-energy particles, its molecules can break apart,
+leaving tiny bubbles of hydrogen gas trapped several meters deep in
+the ice. “A comet traveling through the interstellar medium basically
+is getting cooked by cosmic radiation, forming hydrogen as a result"...
+
+"As the ice is warmed, it rearranges to a more stable and compact
+structure.. [t]his process.. leads to the collapse of these pockets
+and the formation of channels within the ice, through which trapped
+gas can escape... For a normal-size comet, this release of gas would
+have a negligible effect.. But because Oumuamua was so small, we think
+that it actually produced sufficient force to power this acceleration"
+
