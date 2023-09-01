@@ -1,5 +1,273 @@
 # Week 34
 
+Arab News: "India’s Modi and Chinese President Xi Jinping agree on
+efforts to de-escalate border tensions"
+
+---
+
+Firstpost: "Dutch brewer Heineken exits Russia, stares at whopping
+$320 million in losses"
+
+---
+
+Ng keeps saying LLMs build a "world model". That's not exactly
+correct. Any data structure mimicing data could be labeled this way..
+Recently simple compression beat a neural net classifier, compression
+algos usually have an internal tree structure, is that tree a world
+model? This is nonsense.
+
+---
+
+Hinton is the "Godfather of AI" mentioned before (actually he is one
+of the three people who brought neural net approach to weak AI). Ng is
+also a known name in the field, he was widely credited as the first
+researcher to bring GPU usage for neural "deep" learning.
+
+---
+
+Hinton [talking to Andrew Ng]: "We need the AI researchers to reach a
+consensus [on whether recent neural net based approaches can actually
+think] in much the same way as climate scientists have consensus on
+climate change. We need consensus because politicians and other
+decision makers are going to be looking for technical opinions from
+the researchers, but if the AI researchers have all sorts of different
+opinions, then they're going to pick and choose whatever suits them"
+
+---
+
+"baldur@toot.cafe
+
+'Netflix and other streamers wield too much power over labor. Use
+antitrust law to break them up'. The old vertical studio system was
+broken up by the Justice Department. It may be time to do the same
+with these 21st century behemoths"
+
+---
+
+"World's First Futuristic Hydrogen Tram will be in Sarawak, Malaysia!"
+
+[[-]](https://youtu.be/CArT23BsbTk?t=52)
+
+---
+
+Agriculture is still mostly stuck in pre-modern age. There should be
+no need for soil, pesticides, huge horizontal areas and all the
+culture / law that is tied to these things... High-tech agro can be in
+a completely controlled, isolated environment where all aspects of it
+are independently optimized.. Huge amt of land is wasted as farmland
+now, they can be reclaimed, greened (and made public).
+
+---
+
+These guys produce good vegs in a vertical setting - Agrotonomy.
+
+<iframe height="150" src="https://www.youtube.com/embed/hCQHwimJFGM" title="Vertical Farming with Aeroponics: Top 7 Benefits of a Tower Farm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+Vertical farm cabbage, lab-manufacture poultry... That'll do. Some
+spices wld be nice too, ginger, turmeric
+
+---
+
+Personally more used to the former.. Kefir never became a staple in
+Anatolia for some reason even though it is hugely popular in the
+Caucasus and Russia.
+
+---
+
+Yogurt marinade works well, if kefir is not around. 
+
+---
+
+Newsweek: "Life, Liberty and Right to Repair.. Frustrations with this
+experience have created a global "right to repair" movement to require
+manufacturers to make repairing their products easier... In the past,
+when an expensive consumer product stopped working, the owner could
+take it somewhere and get it fixed. More recently, when a product
+stops working, the owner often hears, "We can't fix this, you have to
+buy a new one." This is because as products become more complex and
+more digital, access to physical parts alone is often insufficient to
+repair many products"
+
+---
+
+Stat: "Kellogg's is going to war over Mexico's nutrition label
+rules. A similar fight is coming to the U.S... A 2019 policy requires
+companies that make unhealthy foods to include warning labels on the
+front of any boxes they sell in Mexico to educate consumers about
+things like excess sugar and fat. Any food with a warning label — like
+Kellogg's Fruit Loops or its Frosted Flakes, which typically contain
+more than 37 grams of added sugar in a 100-gram serving — is also
+banned from including a mascot on its packaging...
+
+Kellogg's isn't the only company throwing everything they have at
+fighting Mexico’s policy, and finding loopholes to exploit. Companies
+like Coca-Cola and Kraft Heinz have begun designing their products so
+that their packages don’t have a true front or back, but rather two
+nearly identical labels — except for the fact that only one side has
+the required warning. As a result, supermarket clerks often place the
+products with the warning facing inward, effectively hiding it"
+
+---
+
+MIT Technology Review: "The moon is a treasure trove of valuable
+resources... But there’s one resource in particular that has excited
+scientists, rocket engineers, space agency officials, industry
+entrepreneurs—virtually anyone with a vested interest in making
+spaceflight to distant worlds more affordable. It’s water. Why? If you
+split water into hydrogen and oxygen, and then liquefy those
+constituents, you have rocket fuel"
+
+---
+
+DOJ: "Justice Department Sues SpaceX for Discriminating Against
+Asylees and Refugees in Hiring"
+
+---
+
+The City: "NYC Lost 100K Homes in Apartment-to-House Conversions"
+
+---
+
+H2 Central: "OSM Thome and PGS Collaborate on Ammonia-Fuelled Vessels"
+
+---
+
+@erinwhalen@mindly.social
+
+.. France has launched an initiative to reduce textile waste by paying
+people to repair their clothes instead of throwing them out.
+
+---
+
+"@futurebird@sauropods.win
+
+Anyone who says that 'government health care would mean bureaucracy'
+hasn't dealt w/ CVS caremark"
+
+---
+
+Allahi Allah (Carmen Rizzo Remix) \#music
+
+[[-]](https://youtu.be/HhXkYGJ5vyw)
+
+---
+
+Hawaiian natives did not all of a sudden materialize in that place, or
+"evolve" as Hawaiian FYI. The first inhabitants arrived there from
+somewhere else, quite recently in fact compare to our total
+history. The route seems to be Africa, Arabian Peninsula, India,
+China, Papua New Guinea, Somoa, Hawaii. Some from that branch went to
+Madagascar, so Hawaiian-like people could perhaps be found there.
+
+[[-]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Early_migrations_mercator.svg/700px-Early_migrations_mercator.svg.png)
+
+---
+
+Not much of a vacation
+
+The Independent: "Italy warns tourists to avoid sun from 10am until
+6pm as heatwave expected"
+
+---
+
+HS Today: "The new H2Rescue Emergency Relief Truck (H2Rescue), which
+started as an ambitious idea years ago, is now a full prototype
+demonstrating the feasibility and value of this concept.
+
+'I don’t think people fully appreciate what it means to not have
+power, you don’t realize how critical it is for communities until you
+don’t have it,' said S&T Under Secretary Dr. Dimitri Kusnezov, who saw
+the vehicle up close at a demonstration at the U.S. Department of
+Energy headquarters in June.
+
+H2Rescue is a zero-emission, hydrogen powered truck that can carry a
+total load of about 33,000 pounds (truck and cargo) into disaster
+zone. It is equipped with a mobile command center and the capability
+to generate enough power to run about 15 homes for three days,
+accomplished with only water vapor coming out of the tailpipe. Where
+traditional diesel trucks use their limited carrying capacity to
+transport generators that emit exhaust into the environment, H2Rescue
+is the generator—emitting nothing but steam"
+
+[[-]](https://www.hstoday.us/federal-pages/dhs/using-hydrogen-to-power-disaster-relief/)
+
+---
+
+"@CLondoner92@mastodon.cloud
+
+\#Citybus #HongKong: First #Hydrogen Refuelling Station on Hong Kong
+Island and Parallel Testing of 5 Hydrogen Double Deck Buses Receives
+Agreement in Principle"
+
+---
+
+In the light of this findings the extraterrestrial Oumuamua claim
+becomes less likely. Had already downgraded the extraterrestrial UFO
+views, noone can produce anything other than grainy videos, plus most
+of the proponents of said theories are cultural leftist, or right-wing
+anti-government fucknuts who like to associate all kinds of
+bizarreness with the government so they can "limit it" when they are
+in power.
+
+---
+
+It turns out the theory where Oumuamua was emitting gas, propelling it
+forward still has legs.. People were wondering how OM could speed that
+fast, the H2 iceberg (melting causing the gas formation) claim was
+debunked but there is newer, more plausible one.
+
+[[-]](../../2022/06/oumuamua.html#h2gas)
+
+---
+
+"gerrymcgovern@mastodon.green
+
+'Wireless technologies require 10 times more energy than wired
+technology to transfer each unit of data and voice and do so at much
+slower rates than fiber optic cable'"
+
+---
+
+IAEA had okayed it, they did not look at all aspects?
+
+CNBC: "China suspends all seafood imports from Japan after treated
+radioactive water is released from Fukushima"
+
+---
+
+IMO they were going to let Prigozhin live (could've been useful in
+Africa) but he likely started talking out of his ass again, pissed off
+someone... Now he dead.
+
+---
+
+The Guardian: "Brics to admit six new countries to bloc.. Argentina,
+Ethiopia, Iran, Saudi Arabia, Egypt and the UAE are to become full
+members from 1 January 2024, the group announced at its summit in
+South Africa"
+
+---
+
+\#gopdebate
+
+"The elephant not in the room" - that's right
+
+---
+
+\#gopdebate
+
+Some fine comments on Ukraine, immigration, other than that nothing 
+noteworthy...
+
+---
+
+\#gopdebate
+
+It is lively
+
+---
 
 "@EESC@social.network.europa.eu
 
@@ -284,7 +552,7 @@ Worldwide fires, past 7 days. Canada looks bad
 u.modis_fire(clat=0,clon=0,zoom=18)
 ```
 
-<img width='340' src='mbl/2023/modis1.jpg'/> 
+<img width='340' src='modis1.jpg'/> 
 
 ---
 

@@ -56,8 +56,8 @@ pd.set_option('display.max_columns', None)
 df =  pd.read_csv('us-mass-shootings.csv')
 df['Date'] = df.apply(lambda x: pd.to_datetime(x['Incident Date']), axis=1)
 df['DateYM'] = df.apply(lambda x: "%d%02d" % (x['Date'].year, x['Date'].month), axis=1)
-g = df.groupby('DateYM').agg({'Incident ID':'count', '# Killed': 'sum'})
-g['# Killed (Avg)'] = g['# Killed'].rolling(10).mean()
+g = df.groupby('DateYM').agg({'Incident ID':'count', 'Victims Killed': 'sum'})
+g['# Killed (Avg)'] = g['Victims Killed'].rolling(10).mean()
 g = g.interpolate(limit_direction='both')
 g = g.rename(columns={"Incident ID": "Incidents"})
 print (g.tail(5))
@@ -66,13 +66,13 @@ plt.savefig('gunvio.png')
 ```
 
 ```text
-        Incidents  # Killed  # Killed (Avg)
-DateYM                                     
-202206         64        70            55.4
-202207         89        66            55.8
-202208         63        64            55.0
-202209         64        49            54.4
-202210         51        75            58.1
+        Incidents  Victims Killed  # Killed (Avg)
+DateYM                                           
+202304         56              64            58.3
+202305         79              80            60.1
+202306         67              60            60.2
+202307         86              70            62.2
+202308         52              43            58.4
 ```
 
 ![](gunvio.png)

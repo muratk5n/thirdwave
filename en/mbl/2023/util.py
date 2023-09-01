@@ -82,12 +82,12 @@ def ru_areas():
         df = np.array(df)
         a = poly_area(df[:,:2])
         d = re.findall('fl.*(\d\d\d\d).csv',f)[0]
-        res.append([pd.to_datetime('2022'+d),a])
+        res.append([pd.to_datetime('2023'+d),a])
     res = res[3:]
     df= pd.DataFrame(res)
     df.columns = ['dt','area']
     df = df.set_index('dt')
-    return df
+    return df*10000
 
 def poly_area(pts):
     ps = np.array([0.5 * lin.det(np.vstack((pts[i], pts[i+1]))) for i in range(len(pts)-1)])
@@ -780,7 +780,7 @@ def global_leader_approval():
 
 def biden_approval():
     url = "https://projects.fivethirtyeight.com/biden-approval-data/approval_topline.csv"
-    df = pd.read_csv(url,parse_dates=True,index_col='modeldate')
+    df = pd.read_csv(url,parse_dates=True,index_col='end_date')
     df = df[df.subgroup=='All polls']
     df = df.sort_index()
     df = df[df.index > '2021-06-01']
@@ -788,5 +788,7 @@ def biden_approval():
     return df
 
 if __name__ == "__main__": 
-    print (ru_areas())
+    #print (ru_areas())
+    #modis_fire(0,0,18)
+    plt.savefig('/tmp/out.jpg',quality=40)    
     

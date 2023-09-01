@@ -10,12 +10,12 @@ import impl as u
 
 ru = ["Mali","Ethiopia","Congo","South Africa","Madagascar","Libyan Arab Jamahiriya",
       "Sudan","Uganda","Zimbabwe","Burkina Faso","Guinea","Eritrea",
-      "Cameroon","Equatorial Guinea","Sao Tome and Principe",
+      "Cameroon","Equatorial Guinea","Sao Tome and Principe","Gabon",
       "Algeria","Togo","Lesotho","Swaziland","Senegal","Niger",
       "Namibia","Mozambique","United Republic of Tanzania",
       "Central African Republic","Western Sahara","Central African Republic"] 
 
-us = ["Chad","Gabon","Ghana","Kenya","Rwanda", "Djibouti","Somalia",
+us = ["Chad","Ghana","Kenya","Rwanda", "Djibouti","Somalia",
        "Democratic Republic of the Congo", "Mauritania","Lesotho",
        "Mauritius", "Angola","Nigeria","Morocco","Tunisia","Cote d'Ivoire",
        "Zambia"]
@@ -88,9 +88,10 @@ Russia woos Africa with arms, grain and nuclear power.
 [21/04/22](https://news.yahoo.com/ethiopians-hope-fight-russia-ukraine-161351963.html) -
 Ethiopians hope to fight for Russia in Ukraine.
 
-[24/02/22](Kenya, Uganda uphold opposite voting stances on Russia war):
-Sudan, Ethiopia, Gabon, Guinea, Mozambique, Namibia, Angola and Algeria
-and Burundi abstained too.
+[24/02/22](https://www.theeastafrican.co.ke/tea/news/east-africa/ukraine-war-kenya-uganda-uphold-opposite-stances-4136846)):
+Kenya, Uganda uphold opposite voting stances on Russia war.. Sudan, Ethiopia,
+Gabon, Guinea, Mozambique, Namibia, Angola and Algeria and Burundi
+abstained too.
 
 [21/02/22](https://www.realcleardefense.com/articles/2022/02/21/russia_and_algeria_team_up_against_morocco_817797.html) -
 Russia and Algeria Team Up Against Morocco.. Now Russia is also

@@ -589,12 +589,6 @@ preprint"
 
 ---
 
-The Sound Stylistics - Get Ya Some \#music
-
-[[-]](https://youtu.be/PStFpLhJIv0)
-
----
-
 True liberterians could actually affect some change here; they would
 be for the abolition of F-F. If democracy worked they'd do their
 thing, the left would do the outside-the-market help thing, overall
@@ -880,7 +874,7 @@ from Iran over the years.
 u.sm_kurds()
 ```
 
-<img width="340" src="twimg/FQ5hHcJXEAYefG6.png"/>
+<img width="340" src="twimg/FQ5hHcJXEAYefG6.jpg"/>
 
 The darker green areas are Kurdish regions of Iraq, recognized by
 central gov, with three governates, associated with two seperate

@@ -468,7 +468,7 @@ geo = [['Main'],['Staromaiorske','Makarivka','Urozhaine'],['Klischchiivka','Opyt
 u.sm_plot_ukr4('ukrdata/fl-0814.csv','ukrdata/fl-0729.csv',geo,3,3,zoom=0.03,fsize=(10,10),)
 ```
 
-[[-]](https://pbs.twimg.com/media/F3i0CsxWAAA8xRq?format=jpg&name=medium)
+[[-]](https://drive.google.com/uc?export=view&id=1T8mmkVlvnAFdnNSvUqv4elTk2akeY8Bq)
 
 ---
 
@@ -568,7 +568,7 @@ climate change kicks into high gear.
 
 oh yea... \#wbt
 
-[[-]](https://pbs.twimg.com/media/F3br8clXIAEu8AR?format=jpg&name=large)
+[[-]](https://drive.google.com/uc?export=view&id=1_qmINZLxLW7HGmBjmN511ydCwtwyLX_U)
 
 ---
 

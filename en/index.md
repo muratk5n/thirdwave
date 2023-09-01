@@ -1,140 +1,115 @@
 
-H2 Central: "OSM Thome and PGS Collaborate on Ammonia-Fuelled Vessels"
+Windpower Monthly: "Brazil calls hydrogen a ‘fundamental milestone’ in
+global energy transition.. Minister Alexandre Silveira’s comments came
+during the presentation of the triennial work plan for 2023–2025 of
+the country’s national hydrogen programme (PNH2)"
 
 ---
 
-@erinwhalen@mindly.social
-
-.. France has launched an initiative to reduce textile waste by paying
-people to repair their clothes instead of throwing them out.
+H2 View: "Hydrogen pipeline could see Scotland meet 10% of Europe’s
+import demand, says report"
 
 ---
 
-"@futurebird@sauropods.win
-
-Anyone who says that 'government health care would mean bureaucracy'
-hasn't dealt w/ CVS caremark"
-
----
-
-Allahi Allah (Carmen Rizzo Remix) \#music
-
-[[-]](https://youtu.be/HhXkYGJ5vyw)
+AggNet: "JCB install hydrogen-powered internal combustion engine into
+Mercedes Sprinter van.. The white van retrofit was completed in just
+two weeks and one of the vehicle’s first test drivers was JCB chairman
+Anthony Bamford, who is leading the company’s £100 million hydrogen
+engine project"
 
 ---
 
-Hawaiian natives did not all of a sudden materialize in that place, or
-"evolve" as Hawaiian FYI. The first inhabitants arrived there from
-somewhere else, quite recently in fact compare to our total
-history. The route seems to be Africa, Arabian Peninsula, India,
-China, Papua New Guinea, Somoa, Hawaii. Some from that branch went to
-Madagascar, so Hawaiian-like people could perhaps be found there.
-
-[[-]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Early_migrations_mercator.svg/700px-Early_migrations_mercator.svg.png)
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/859331362?h=888505255a" width="340" frameborder="0"  allowfullscreen></iframe>
 
 ---
 
-Not much of a vacation
+The EV Report: "Hyzon Motors Inc., a leader in high-power hydrogen
+fuel cell technology, has successfully completed its first commercial
+demonstration of a liquid hydrogen fuel cell electric vehicle (LH2
+FCEV)...
 
-The Independent: "Italy warns tourists to avoid sun from 10am until
-6pm as heatwave expected"
+- The LH2 FCEV trial began in Temple, TX and covered over 540 miles
+during a 16-hour continuous run, delivering to eight PFG customers
+near Dallas, TX.
 
----
+- The vehicle operated under strenuous conditions, including
+temperatures exceeding 100 degrees Fahrenheit, proving the feasibility
+of liquid hydrogen in real-world applications.
 
-HS Today: "The new H2Rescue Emergency Relief Truck (H2Rescue), which
-started as an ambitious idea years ago, is now a full prototype
-demonstrating the feasibility and value of this concept.
+- Liquid hydrogen offers several advantages over its gaseous form,
+including higher energy density and no added weight to the vehicle.
 
-'I don’t think people fully appreciate what it means to not have
-power, you don’t realize how critical it is for communities until you
-don’t have it,' said S&T Under Secretary Dr. Dimitri Kusnezov, who saw
-the vehicle up close at a demonstration at the U.S. Department of
-Energy headquarters in June.
+- The proprietary 200kW fuel cell system developed by Hyzon Motors is
+expected to provide a driving range between 650 and 800 miles,
+comparable to many diesel trucks.
 
-H2Rescue is a zero-emission, hydrogen powered truck that can carry a
-total load of about 33,000 pounds (truck and cargo) into disaster
-zone. It is equipped with a mobile command center and the capability
-to generate enough power to run about 15 homes for three days,
-accomplished with only water vapor coming out of the tailpipe. Where
-traditional diesel trucks use their limited carrying capacity to
-transport generators that emit exhaust into the environment, H2Rescue
-is the generator—emitting nothing but steam"
-
-[[-]](https://www.hstoday.us/federal-pages/dhs/using-hydrogen-to-power-disaster-relief/)
+- Chart Industries designed a specialized tank system to store liquid
+hydrogen at extreme cold temperatures, as low as negative 400 degrees
+Fahrenheit, while maintaining necessary pressure levels"
 
 ---
 
-"@CLondoner92@mastodon.cloud
+"@miguel_pacheco@masto.pt
 
-\#Citybus #HongKong: First #Hydrogen Refuelling Station on Hong Kong
-Island and Parallel Testing of 5 Hydrogen Double Deck Buses Receives
-Agreement in Principle"
+Anglo-Australian mining company Rio Tinto is building four calcifiers
+using #hydrogen as fuel in their Yarwun in Gladstone, Queensland,
+Australia.
 
----
+Rio Tinto partnered with Sumitomo Corporation and the Australian
+Renewable Energy Agency for the project.
 
-In the light of this findings the extraterrestrial Oumuamua claim
-becomes less likely. Had already downgraded the extraterrestrial UFO
-views, noone can produce anything other than grainy videos, plus most
-of the proponents of said theories are cultural leftist, or right-wing
-anti-government fucknuts who like to associate all kinds of
-bizarreness with the government so they can "limit it" when they are
-in power.
+The new plant will include a 2.5MW on-site electrolyzer to produce
+\#greenhydrogen to supply operations.
+
+Construction will start in 2024 and operation in 2025"
 
 ---
 
-It turns out the theory where Oumuamua was emitting gas, propelling it
-forward still has legs.. People were wondering how OM could speed that
-fast, the H2 iceberg (melting causing the gas formation) claim was
-debunked but there is newer, more plausible one.
-
-[[-]](2022/06/oumuamua.html#h2gas)
+Utility Week: "Cadent has calculated that 40GW of offshore wind
+capacity would be sufficient to create the green hydrogen needed to
+decarbonise home heating across the UK"
 
 ---
 
-"gerrymcgovern@mastodon.green
-
-'Wireless technologies require 10 times more energy than wired
-technology to transfer each unit of data and voice and do so at much
-slower rates than fiber optic cable'"
-
----
-
-IAEA had okayed it, they did not look at all aspects?
-
-CNBC: "China suspends all seafood imports from Japan after treated
-radioactive water is released from Fukushima"
+How about Peter Thiel and the merry band of cocksuckers around him?
+They have some shady dealings.. Thiel himself [reportedly](https://www.propublica.org/article/lord-of-the-roths-how-tech-mogul-peter-thiel-turned-a-retirement-account-for-the-middle-class-into-a-5-billion-dollar-tax-free-piggy-bank)
+turned his Roth IRA "into a gargantuan tax-exempt piggy bank".
+Thiel's [bestie](mbl/2022/ejagoffthiel2.jpeg) is neck deep in all kinds of
+[fraud](https://www.reuters.com/investigates/special-report/tesla-batteries-range/),
+not to mention involvement in dysfuctional battery-electric tech.
 
 ---
 
-IMO they were going to let Prigozhin live (could've been useful in
-Africa) but he likely started talking out of his ass again, pissed off
-someone... Now he dead.
+FedSoc is one of those "originalist" groups - ie libertarians who
+interpret the Constitution in a "freedom oriented way" basically for
+the benefit of oligarchs, claiming "the framers" meant it that way.
 
 ---
 
-The Guardian: "Brics to admit six new countries to bloc.. Argentina,
-Ethiopia, Iran, Saudi Arabia, Egypt and the UAE are to become full
-members from 1 January 2024, the group announced at its summit in
-South Africa"
+"@wendysiegelman@mastodon.social
+
+D.C. Attorney General is probing Leonard Leo’s network.. The
+Federalist Society co-chair.. has utilized nonprofit groups to collect
+more than $1 billion for conservative causes... in March that one of
+Leo’s nonprofits — registered as a charity — paid his for-profit
+company tens of millions of dollars in the two years since he joined
+the company" via Politico
 
 ---
 
-\#gopdebate
+Reshare
 
-"The elephant not in the room" - that's right
-
----
-
-\#gopdebate
-
-Some fine comments on Ukraine, immigration, other than that nothing 
-noteworthy...
+WaPo: "[08/17] The U.S. intelligence community assesses that Ukraine’s
+counteroffensive will fail to reach the key southeastern city of
+Melitopol.. a finding that, should it prove correct, would mean Kyiv
+won’t fulfill its principal objective of severing Russia’s land bridge
+to Crimea in this year’s push"
 
 ---
 
-\#gopdebate
-
-It is lively
+NYT: "As Ukraine’s Fight Grinds On, Talk of Negotiations Becomes Nearly
+Taboo.. Discussion of a Plan B, should Ukraine fail to win a total
+victory, has become more fraught than ever, say those who have tried"
 
 ---
 
@@ -184,5 +159,6 @@ Also on
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
 
 <img src='https://drive.google.com/uc?export=view&id=1zsIeciFSvlr-sWB84Tc0mfZ_NYqn9VQx'/> 
+
 
 
