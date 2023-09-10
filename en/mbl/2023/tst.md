@@ -14,12 +14,17 @@ pd.set_option('display.max_columns', None)
 
 
 
+
+
+
+
+
 ```python
-geo = [['Main'],['Urozhaine','Staromaiorske'], ['Robotyne'],
-       ['Marinka'],['Bilohorivka'], ['Synkivka','Kupiansk','Lyman Pershyi'],
-       ['Zarichne','Lyman','Kreminna'],['Klischchiivka','Horlivka','Bakhmut'],['Zolotarivka','Spirne']]
+geo = [['Main'],['Andriivka','Klischchiivka'],['Verkhnokamianske'],
+       ['Bilohorivka'],['Yahidne','Berkhivka'],['Novomykhailivka','Stepne','Marinka'],
+       ['Synkivka','Kupiansk','Lyman Pershyi'],['Urozhaine','Staromaiorske'],['Robotyne']]
        
-u.sm_plot_ukr4('ukrdata/fl-0830.csv','ukrdata/fl-0814.csv',geo,3,3,zoom=0.03,fsize=(10,10),)
+u.sm_plot_ukr4('ukrdata/fl-0907.csv','ukrdata/fl-0830.csv',geo,3,3,zoom=0.03,fsize=(10,10),)
 plt.savefig('/tmp/out.jpg',quality=40)
 ```
 
@@ -40,8 +45,8 @@ print (int(a1.area) - int(a2.area), 'km taken')
 ```
 
 ```text
-a1 = 154618 km2 a2 = 154401 km2
-217 km taken
+a1 = 154618 km2 a2 = 154356 km2
+262 km taken
 ```
 
 

@@ -1,6 +1,5 @@
 # Week 11 
 
-
 H2 View: "FlyZero report reveals liquid hydrogen could fuel
 medium-sized aircraft from London to San Francisco directly.. A new
 report concludes that liquid hydrogen could power a midsize aircraft

@@ -1,115 +1,93 @@
 
-Windpower Monthly: "Brazil calls hydrogen a ‘fundamental milestone’ in
-global energy transition.. Minister Alexandre Silveira’s comments came
-during the presentation of the triennial work plan for 2023–2025 of
-the country’s national hydrogen programme (PNH2)"
+Fuelcellworks: "Bavaria Bolsters Hydrogen Ecosystem With Expanded
+Funding Program For Another 50 Hydrogen Filling Stations"
+
+<img width='340' src='https://cdn.fosstodon.org/media_attachments/files/111/025/845/714/785/450/original/f991b16505ab9646.jpg'/> 
 
 ---
 
-H2 View: "Hydrogen pipeline could see Scotland meet 10% of Europe’s
-import demand, says report"
+OnlySky: "Why libertarian cities fail"
+
+[[-]](https://onlysky.media/alee/why-libertarian-cities-fail/)
 
 ---
 
-AggNet: "JCB install hydrogen-powered internal combustion engine into
-Mercedes Sprinter van.. The white van retrofit was completed in just
-two weeks and one of the vehicle’s first test drivers was JCB chairman
-Anthony Bamford, who is leading the company’s £100 million hydrogen
-engine project"
+.. lest we interfere with crooked ass bidness in an "opressive" kinda
+way. No cannot do that. The right-wing way is to have the mofo to
+feast off public money even more, as if cheap energy, the infra they
+live on was not enough.
+
+CBS News: "Texas paid bitcoin miner more than $31 million to cut
+energy usage during heat wave"
 
 ---
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/859331362?h=888505255a" width="340" frameborder="0"  allowfullscreen></iframe>
+See what I did there.. You thought one thing got another thing.. Boom!
 
 ---
 
-The EV Report: "Hyzon Motors Inc., a leader in high-power hydrogen
-fuel cell technology, has successfully completed its first commercial
-demonstration of a liquid hydrogen fuel cell electric vehicle (LH2
-FCEV)...
+Trump: "We know collective action can be incredibly effective. In
+July, UPS agreed to a deal with the Teamsters Union in which, on
+average, the annual salary of full-time drivers will be raised to
+$170,000, including healthcare and other benefits.
 
-- The LH2 FCEV trial began in Temple, TX and covered over 540 miles
-during a 16-hour continuous run, delivering to eight PFG customers
-near Dallas, TX.
+What the rich and the politicians they own have succeeded in doing
+since the Reagan administration, is convincing white working-class
+Americans that unions are the enemy of working people, and
+trickle-down economics (essentially tax cuts for the very rich) will,
+counterintuitively, lead to economic equality. These are lies"
 
-- The vehicle operated under strenuous conditions, including
-temperatures exceeding 100 degrees Fahrenheit, proving the feasibility
-of liquid hydrogen in real-world applications.
+[[-]](https://marytrump.substack.com/p/doing-the-work)
 
-- Liquid hydrogen offers several advantages over its gaseous form,
-including higher energy density and no added weight to the vehicle.
+---
 
-- The proprietary 200kW fuel cell system developed by Hyzon Motors is
-expected to provide a driving range between 650 and 800 miles,
-comparable to many diesel trucks.
+"@motorpuntoes@mastodon.social
 
-- Chart Industries designed a specialized tank system to store liquid
-hydrogen at extreme cold temperatures, as low as negative 400 degrees
-Fahrenheit, while maintaining necessary pressure levels"
+\#Coches | Los prototipos del BMW X5 de hidrógeno superan una nueva
+serie de pruebas, esta vez en las extremas condiciones de Dubai"
+
+<img width='340' src='https://files.mastodon.social/media_attachments/files/111/029/653/609/247/379/small/c53fde0329704c6e.jpg'/> 
+
+---
+
+@TheEuropeanNetwork@mstdn.social
+
+A hydrogen-powered experimental aircraft 'HY4' has made its first
+official flight, taking off and landing at Stuttgart Airport.
+
+Developed primarily by Germany’s DLR Institute of Engineering
+Thermodynamics, the twin-fuselage plane is the first four-seater
+aircraft in the world powered solely by a hydrogen fuel cell.
+
+<img width='340' src='https://www.theengineer.co.uk/media/tq4ergmt/hy4_slowenien-889x500.jpg'/> 
 
 ---
 
 "@miguel_pacheco@masto.pt
 
-Anglo-Australian mining company Rio Tinto is building four calcifiers
-using #hydrogen as fuel in their Yarwun in Gladstone, Queensland,
-Australia.
+🇦🇺 ⚡ 💧 
 
-Rio Tinto partnered with Sumitomo Corporation and the Australian
-Renewable Energy Agency for the project.
-
-The new plant will include a 2.5MW on-site electrolyzer to produce
-\#greenhydrogen to supply operations.
-
-Construction will start in 2024 and operation in 2025"
+Hysata, an Australian startup that achieved a 95% efficiency in water
+electrolysis for #hydrogen production (41.5 kWh/kg), was awarded
+US$13.5 million to build a 5MW demonstration plant"
 
 ---
 
-Utility Week: "Cadent has calculated that 40GW of offshore wind
-capacity would be sufficient to create the green hydrogen needed to
-decarbonise home heating across the UK"
+Ars Technica: "The room-temperature superconductor that wasn’t.. The
+summer of room-temperature superconductivity was short-lived" \#LK99
 
 ---
 
-How about Peter Thiel and the merry band of cocksuckers around him?
-They have some shady dealings.. Thiel himself [reportedly](https://www.propublica.org/article/lord-of-the-roths-how-tech-mogul-peter-thiel-turned-a-retirement-account-for-the-middle-class-into-a-5-billion-dollar-tax-free-piggy-bank)
-turned his Roth IRA "into a gargantuan tax-exempt piggy bank".
-Thiel's [bestie](mbl/2022/ejagoffthiel2.jpeg) is neck deep in all kinds of
-[fraud](https://www.reuters.com/investigates/special-report/tesla-batteries-range/),
-not to mention involvement in dysfuctional battery-electric tech.
+"Hysata opens new electrolyser manufacturing facility in Port Kembla
+with $23m vote of confidence from Australian and Queensland
+Governments"
 
 ---
 
-FedSoc is one of those "originalist" groups - ie libertarians who
-interpret the Constitution in a "freedom oriented way" basically for
-the benefit of oligarchs, claiming "the framers" meant it that way.
-
----
-
-"@wendysiegelman@mastodon.social
-
-D.C. Attorney General is probing Leonard Leo’s network.. The
-Federalist Society co-chair.. has utilized nonprofit groups to collect
-more than $1 billion for conservative causes... in March that one of
-Leo’s nonprofits — registered as a charity — paid his for-profit
-company tens of millions of dollars in the two years since he joined
-the company" via Politico
-
----
-
-Reshare
-
-WaPo: "[08/17] The U.S. intelligence community assesses that Ukraine’s
-counteroffensive will fail to reach the key southeastern city of
-Melitopol.. a finding that, should it prove correct, would mean Kyiv
-won’t fulfill its principal objective of severing Russia’s land bridge
-to Crimea in this year’s push"
-
----
-
-NYT: "As Ukraine’s Fight Grinds On, Talk of Negotiations Becomes Nearly
-Taboo.. Discussion of a Plan B, should Ukraine fail to win a total
-victory, has become more fraught than ever, say those who have tried"
+Mozilla Foundation: "While we worried that our doorbells and watches
+that connect to the internet might be spying on us, car brands quietly
+entered the data business by turning their vehicles into powerful
+data-gobbling machines"
 
 ---
 
@@ -159,6 +137,3 @@ Also on
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
 
 <img src='https://drive.google.com/uc?export=view&id=1zsIeciFSvlr-sWB84Tc0mfZ_NYqn9VQx'/> 
-
-
-

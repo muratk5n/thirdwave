@@ -11,6 +11,16 @@ from yahoofinancials import YahooFinancials
 from pandas_datareader import data, wb
 from io import BytesIO
 
+from netCDF4 import Dataset, num2date
+from scipy.ndimage import gaussian_filter
+from siphon.catalog import TDSCatalog
+import numpy as np, numpy.linalg as lin, math
+
+from scipy.interpolate import NearestNDInterpolator
+import ecmwf.data as ecdata
+from magpye import GeoMap
+from ecmwf.opendata import Client
+
 def get_sm(): return sm
 
 def get_pd(): return pd
@@ -767,6 +777,127 @@ def get_fred(year, series):
     end=datetime.datetime(today.year, today.month, today.day)
     df = data.DataReader(series, 'fred', start, end)
     return df
+
+def sliding_window(image, stepSize, windowSize):
+  for y in range(0, image.shape[0], stepSize):
+    for x in range(0, image.shape[1], stepSize):
+      yield np.resize(image[y:y + windowSize[1], x:x + windowSize[0]],windowSize)
+      #yield image[y:y + windowSize[1], x:x + windowSize[0]]
+
+def ecmwf_wind(clat,clon,zoom,M=100,N=60,show_ike=False):
+    client = Client("ecmwf", beta=True)
+    parameters = ['10u', '10v','2t']
+    filename = '/tmp/medium-2t-wind.grib'
+
+    client.retrieve(
+        date=0,
+        time=0,
+        step=12,
+        stream="oper",
+        type="fc",
+        levtype="sfc",
+        param=parameters,
+        target=filename
+    )
+
+    data = ecdata.read(filename)
+
+    t2m = data.select(shortName= "2t")
+    u = data.select(shortName= "10u")
+    v = data.select(shortName= "10v")
+
+    lons = u.longitudes()
+    lats = u.latitudes()
+    udata = u.values()
+    xi = np.linspace(min(lons), max(lons), M)
+    yi = np.linspace(min(lats), max(lats), N)
+    Xi, Yi = np.meshgrid(xi, yi)
+    interp = NearestNDInterpolator(list(zip(lons,lats)), udata)
+    uzi = interp(Xi, Yi)
+
+    lons = v.longitudes()
+    lats = v.latitudes()
+    vdata = v.values()
+    xi = np.linspace(min(lons), max(lons), M)
+    yi = np.linspace(min(lats), max(lats), N)
+    Xi, Yi = np.meshgrid(xi, yi)
+    interp = NearestNDInterpolator(list(zip(lons,lats)), vdata)
+    vzi = interp(Xi, Yi)
+
+    fig, ax = plt.subplots()
+    sm.plot_continents(clat,clon,zoom,incolor='green', outcolor='white', fill=False,ax=ax)
+    
+    if show_ike:
+        W = (4,4)
+        # lat,lon 111 kilometers/deg
+        lonlen = 111*((min(lons)-max(lons))/M)
+        latlen = 111*((min(lats)-max(lats))/M)
+        cell_area = latlen * lonlen
+        xs = []; ys = []; ikes = []
+        for xx,yy,uu,vv in zip(sliding_window(Xi,1,W),sliding_window(Yi,1,W),
+                               sliding_window(uzi,1,W),sliding_window(vzi,1,W)):
+           u_wind = uu.flatten()
+           v_wind = vv.flatten()
+           x_coord = xx.flatten()
+           y_coord = yy.flatten()
+           wspeedsquare = u_wind**2+v_wind**2
+           IKE = np.sum(0.5*wspeedsquare*cell_area*W[0]*W[1]) / 1e6
+           xs.append(np.mean(x_coord))
+           ys.append(np.mean(y_coord))
+           ikes.append(IKE)
+        
+        ikeinterp = NearestNDInterpolator(list(zip(xs,ys)), ikes)
+        ikezi = ikeinterp(Xi, Yi)
+        plt.pcolormesh(Xi,Yi,ikezi,cmap='Reds')
+        
+    ax.quiver(Xi,Yi,uzi,vzi)    
+
+def ike_ncei(lat,lon,day,month,year,hour):
+
+    # form grid which has NE, and SW cornes brg kilometers away
+    # from center lat,lon
+    brg = 1000
+    upper_right = to_bearing(lat,lon,np.deg2rad(45),brg)
+    lower_left = to_bearing(lat,lon,np.deg2rad(225),brg)
+
+    north = int(upper_right[0])
+    south = int(lower_left[0])
+    east = int(upper_right[1])
+    west = int(lower_left[1])
+
+    side = np.cos(np.deg2rad(45))*brg*2
+    area = side*side*1e6
+
+    dt = datetime.datetime(year, month, day, hour)
+
+    base_url = 'https://www.ncei.noaa.gov/thredds/catalog/model-narr-a-files/'
+    cat = TDSCatalog(f'{base_url}{dt:%Y%m}/{dt:%Y%m%d}/catalog.xml')
+    ds = cat.datasets.filter_time_nearest(dt)
+    ncss = ds.subset()
+
+    query = ncss.query()
+    query.lonlat_box(north=north, south=south, east=east, west=west)
+    query.all_times()
+    query.add_lonlat()
+    query.accept('netcdf')
+    query.variables('u-component_of_wind_isobaric',
+                    'v-component_of_wind_isobaric')
+
+    data = ncss.get_data(query)
+    u_wind_var = data.variables['u-component_of_wind_isobaric']
+    v_wind_var = data.variables['v-component_of_wind_isobaric']
+    u_wind = u_wind_var[0, 0, :, :].squeeze() 
+    v_wind = v_wind_var[0, 0, :, :].squeeze() 
+
+    gi,gj = u_wind.shape
+    cell_count = gi*gj
+    cell_area = area / cell_count
+
+    wspeedsquare = u_wind**2+v_wind**2
+    wspeedsquare = wspeedsquare.reshape(-1)
+    wspeedsquare = wspeedsquare[wspeedsquare > 30.0]
+    IKE = np.sum(0.5*wspeedsquare*cell_area) / 1e12
+    return IKE
 
 def global_leader_approval():
     url = "https://morningconsult.com/global-leader-approval"
