@@ -1,6 +1,6 @@
+import re, json, glob, string, os
 from collections import defaultdict
 from unidecode import unidecode
-import re, json, glob, string
 
 WORD = re.compile(r'\w+')
 
@@ -21,7 +21,7 @@ def reg_tokenize(text):
 def index_dir():
 
     invidx = defaultdict(lambda: defaultdict(int))
-    dir = "."
+    dir = os.getcwd()
     files = glob.glob(dir + "/**/**/*.md")
     files = sorted(files)
     for file in enumerate(files):
@@ -53,8 +53,28 @@ def index_dir():
         fout.write(json.dumps(v))
         fout.close()    
 
+def test1():
+    search = "green ammonia"
+    stok = search.split()
+    stok_hits = {}
+    results = []
+    for tok in stok:
+        stok_hits[tok] = json.loads(open("idx/invidx-%s.json" % tok[0]).read())[tok]
+        results.append(set(stok_hits[tok]))
+
+    u = set.intersection(*results)
+
+    hits = []
+    for f in u:
+        hits.append([f,sum([stok_hits[tok][f] for tok in stok])])
+
+    sorted_hits = sorted(range(len(hits)), key=lambda x: hits[x][1], reverse=True)
+    for i in range(20):
+        print (hits[sorted_hits[i]][0])
+    
+        
     
 if __name__ == "__main__": 
 
-    index_dir()
-    
+    #index_dir()
+    test1()

@@ -1,50 +1,68 @@
-<html>
+<html lang="en">
   <head>
-      <meta charset='utf-8'>
-      <link rel="stylesheet" type="text/css" href="../css/jekyll.css" media="screen" />
-      <meta http-equiv="X-UA-Compatible" content="IE=edge">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-      </script>
-      <link rel="stylesheet" type="text/css" media="screen" href="https://muratk5n.codeberg.page/css/jekyll.css">
-      <title>thirdwave</title>
-      <link rel="canonical" href="https://muratk5n.codeberg.page/en/" />
-    </head>        
-    <body>
-      <div id="header_wrap" class="outer">
-        <header class="inner">
-          <h1 id="project_title">
-            <a href="https://muratk5n.codeberg.page/en" style="text-decoration:none; color:inherit;">thirdwave</a>
-          </h1>
-          <font color="gray" size="2">Codeberg Main</font>
-          <h2 id="project_tagline"></h2>          
-        </header>
-      </div>
-      <div id="main_content_wrap" class="outer">        
-        <section id="main_content" class="inner">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+
+  <title>Writing to the page</title>
+
+  <link rel="stylesheet" href="https://pyscript.net/latest/pyscript.css"/>
+  <script defer src="https://pyscript.net/latest/pyscript.js"></script>
+  </head>
+  
+  <body>
     
-          <form action="https://www.google.com/search" method="get">
-            <input maxlength="255" style="width:95px;" name="q" size="5"
-                   type="text"/>
-            <input style="width:25px" value="»" name="btnG" type="submit"/>
-            <input value="muratk5n.github.io" name="domains"
-                   type="hidden"/>
-            <input value="muratk5n.github.io/thirdwave/en" name="sitesearch"
-                   type="hidden"/>          
+    <py-script>
+      from pyodide.http import open_url
+      from collections import defaultdict
+      import json
+      
+      def write_to_page():
+         manual_div = Element("output")
+         search = Element("search").element.value
+         
+         stok = search.split()
 
-        </section>          
-      </div>
-    </body>
+         stok_hits = {}
+
+         results = []
+        
+         base_url = "https://muratk5n.github.io/thirdwave/en"
+         
+         for tok in stok:
+            url = base_url + '/idx/invidx-%s.json' % tok[0]
+            df = open_url(url)        
+            stok_hits[tok] = json.loads(df.getvalue())[tok]
+            results.append(set(stok_hits[tok]))
+
+         u = set.intersection(*results)
+
+         hits = []        
+         for f in u:
+            hits.append([f,sum([stok_hits[tok][f] for tok in stok])])
+    
+         sorted_hits = sorted(range(len(hits)), key=lambda x: hits[x][1], reverse=True)
+
+         out = ""         
+         s1 = '<p><a target='_blank' href="' 
+         s2 = '">%s</a></p>'
+         N = 20
+         if (len(hits) > 0): 
+             for i in range(N):
+                out = out + s1 + base_url + \
+                      str(hits[sorted_hits[i]][0]).replace(".md",".html") + s2 % str(hits[sorted_hits[i]][0])
+
+         manual_div.element.innerHTML = out
+
+    </py-script>
+    
+    <p>
+     <input type="text" name="search" id="search"/>
+    </p>
+    <p>
+      <button py-click="write_to_page()" id="manual">Search</button>
+    </p>
+
+    <div id="output"></div>    
+    
+  </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
