@@ -1,93 +1,22 @@
 
-Fuelcellworks: "Bavaria Bolsters Hydrogen Ecosystem With Expanded
-Funding Program For Another 50 Hydrogen Filling Stations"
+The planes attacked the building on 9/11. Many died, both during and
+after the terrible event.
 
-<img width='340' src='https://cdn.fosstodon.org/media_attachments/files/111/025/845/714/785/450/original/f991b16505ab9646.jpg'/> 
+<img width='340' src='mbl/2023/allende-chile-911.jpg'/> 
 
----
+We are talking about Chilean Air Force bombing the presidential
+residence as part of a coup, photographed above. The date was
+September 11, 1973, and the left-wing president Allende was
+toppled. Pinochet would become president and usher in neo-liberal
+reforms, jail opponents, opress political dissent. "Chicago Boys" were
+asked to help, thanks to them, the new system would create inequality
+and subsequently cause the 1982 monetary crisis.
 
-OnlySky: "Why libertarian cities fail"
-
-[[-]](https://onlysky.media/alee/why-libertarian-cities-fail/)
-
----
-
-.. lest we interfere with crooked ass bidness in an "opressive" kinda
-way. No cannot do that. The right-wing way is to have the mofo to
-feast off public money even more, as if cheap energy, the infra they
-live on was not enough.
-
-CBS News: "Texas paid bitcoin miner more than $31 million to cut
-energy usage during heat wave"
-
----
-
-See what I did there.. You thought one thing got another thing.. Boom!
-
----
-
-Trump: "We know collective action can be incredibly effective. In
-July, UPS agreed to a deal with the Teamsters Union in which, on
-average, the annual salary of full-time drivers will be raised to
-$170,000, including healthcare and other benefits.
-
-What the rich and the politicians they own have succeeded in doing
-since the Reagan administration, is convincing white working-class
-Americans that unions are the enemy of working people, and
-trickle-down economics (essentially tax cuts for the very rich) will,
-counterintuitively, lead to economic equality. These are lies"
-
-[[-]](https://marytrump.substack.com/p/doing-the-work)
-
----
-
-"@motorpuntoes@mastodon.social
-
-\#Coches | Los prototipos del BMW X5 de hidrógeno superan una nueva
-serie de pruebas, esta vez en las extremas condiciones de Dubai"
-
-<img width='340' src='https://files.mastodon.social/media_attachments/files/111/029/653/609/247/379/small/c53fde0329704c6e.jpg'/> 
-
----
-
-@TheEuropeanNetwork@mstdn.social
-
-A hydrogen-powered experimental aircraft 'HY4' has made its first
-official flight, taking off and landing at Stuttgart Airport.
-
-Developed primarily by Germany’s DLR Institute of Engineering
-Thermodynamics, the twin-fuselage plane is the first four-seater
-aircraft in the world powered solely by a hydrogen fuel cell.
-
-<img width='340' src='https://www.theengineer.co.uk/media/tq4ergmt/hy4_slowenien-889x500.jpg'/> 
-
----
-
-"@miguel_pacheco@masto.pt
-
-🇦🇺 ⚡ 💧 
-
-Hysata, an Australian startup that achieved a 95% efficiency in water
-electrolysis for #hydrogen production (41.5 kWh/kg), was awarded
-US$13.5 million to build a 5MW demonstration plant"
-
----
-
-Ars Technica: "The room-temperature superconductor that wasn’t.. The
-summer of room-temperature superconductivity was short-lived" \#LK99
-
----
-
-"Hysata opens new electrolyser manufacturing facility in Port Kembla
-with $23m vote of confidence from Australian and Queensland
-Governments"
-
----
-
-Mozilla Foundation: "While we worried that our doorbells and watches
-that connect to the internet might be spying on us, car brands quietly
-entered the data business by turning their vehicles into powerful
-data-gobbling machines"
+September 11 for US was tragic too, but US reacted to it by telling
+people "to shop more", and invaded a random country to benefit
+Halliburton. Dare I say due to its actions US made its own 9/11 matter
+less. From now on we will only commemorate the Chilean 9/11, not the
+American one.
 
 ---
 

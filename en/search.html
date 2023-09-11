@@ -45,11 +45,10 @@
          out = ""         
          s1 = '<p><a target='_blank' href="' 
          s2 = '">%s</a></p>'
-         N = 20
-         if (len(hits) > 0): 
-             for i in range(N):
-                out = out + s1 + base_url + \
-                      str(hits[sorted_hits[i]][0]).replace(".md",".html") + s2 % str(hits[sorted_hits[i]][0])
+         N = min(20,len(hits))
+         for i in range(N):
+            out = out + s1 + base_url + \
+                  str(hits[sorted_hits[i]][0]).replace(".md",".html") + s2 % str(hits[sorted_hits[i]][0])
 
          manual_div.element.innerHTML = out
 

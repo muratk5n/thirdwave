@@ -67,7 +67,7 @@ def test1():
     hits = []
     for f in u:
         hits.append([f,sum([stok_hits[tok][f] for tok in stok])])
-
+    
     sorted_hits = sorted(range(len(hits)), key=lambda x: hits[x][1], reverse=True)
     for i in range(20):
         print (hits[sorted_hits[i]][0])
