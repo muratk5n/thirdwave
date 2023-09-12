@@ -1,6 +1,26 @@
 # Week 37
 
 
+The planes attacked the building on 9/11. Many died, both during and
+after the terrible event.
+
+<img width='340' src='allende-chile-911.jpg'/> 
+
+We are talking about Chilean Air Force bombing the presidential
+residence as part of a coup, photographed above. The date was
+September 11, 1973, and the left-wing president Allende was
+toppled. Pinochet would become president and usher in neo-liberal
+reforms, jail opponents, opress political dissent. "Chicago Boys" were
+asked to help, thanks to them, the new system would create inequality
+and subsequently cause the 1982 monetary crisis.
+
+September 11 for US was tragic too, but US reacted to it by telling
+people "to shop more", and invaded a random country to benefit
+Halliburton. Dare I say due to its actions US made its own 9/11 matter
+less. From now on we will only commemorate the Chilean 9/11, not the
+American one.
+
+---
 
 "@motorpuntoes@mastodon.social
 
