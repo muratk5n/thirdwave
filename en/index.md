@@ -1,221 +1,148 @@
 
-QZ: "An antitrust lawsuit against Google goes to trial on Sep. 12"
+FuelCellWorks: "UK Pours £25.7 Million Into Hydrogen-Based Red Diesel
+Alternatives"
 
 ---
 
-The Conversation: "Ever-larger cars and trucks are causing a safety crisis on US streets"
-
-[[-]](https://theconversation.com/ever-larger-cars-and-trucks-are-causing-a-safety-crisis-on-us-streets-heres-how-communities-can-fight-back-206382)
-
----
-
-Ars Technica: "The room-temperature superconductor that wasn’t.. The
-summer of room-temperature superconductivity was short-lived" \#LK99
+LA Times: "California is moving to outlaw watering some grass that’s
+purely decorative"
 
 ---
 
-OnlySky: "Why libertarian cities fail"
+"@patrickhadfield@mastodon.scot
 
-[[-]](https://onlysky.media/alee/why-libertarian-cities-fail/)
-
----
-
-Schools clearly bet on the wrong technology - ed solutions need to be
-based on true open source. DoEd can buy commodity hardware (cheap as
-they will buying in bulk) and keep Ed software as "images" on a DoEd
-server. Images are snapshots of a machine that has everything kids
-need, you burn this image on each machine, give that to students. A
-few visiting gov IT people for each school occasionally can fix issues
-as they arise. Do not depend on some questionable bidness "on the
-cloud".
-
-"‘Chromebook Churn’ report highlights problems of short-lived laptops
-in schools Chromebooks are not designed to last...Schools have piles
-of working Chromebooks that have become e-waste because they’ve
-expired...
-
-Chromebooks have a built-in 'death date,' after which software support
-ends. We expect milk to expire, but not laptops. Adding to customer
-confusion, expiration dates are based on the certification of a given
-model, not the purchase date. This means that consumers or schools can
-buy a used or refurbished Chromebook thinking they’re getting a great
-deal, only to be surprised when their new laptop expires after a year"
-
-[[-]](https://pirg.org/edfund/resources/chromebook-churn-report-highlights-problems-of-short-lived-laptops-in-schools/)
+Liz Truss blames everyone else in new book"
 
 ---
 
-[Link](https://drive.google.com/uc?export=view&id=1XHVZ3G6muR29BGSAsV2zBOqtn9TIvJHA)
+"@nickheer@c.im
+
+Only Microsoft can build basic file syncing software that consumes two
+full CPU cores while doing nothing, and uses 1.19 GB of disk
+space. One of the world’s richest corporations is responsible for this
+heap of shit"
+
+[[-]](https://s3.c.im/media_attachments/files/111/026/468/283/093/559/original/092f4b4f28a8ea53.png)
 
 ---
 
-Browser side programs are usually in Javascript. But Imma test a new
-tech - Python in the browser \#PyScript.
+FuelCellWorks: "Ursula Von Der Leyen's Bold Claim: Europe Is Outpacing
+China and the U.S. in Hydrogen Energy"
 
 ---
 
-A lot can be done via static files, even big ones. Some do not realize
-but client can even read *parts* of a file on the web server, it's part
-of the standard,
+Bitcoin being an energy hog is one of its many disadvantages. The most
+important one is its limited money base - money base needs to expand,
+otherwise you will get deflation. Some think this feature makes
+bitcoin "politics free" bcz politicians "print and debase money" but
+no money is politics free. Gold became currency because the king made
+it so. It has no intrinsic moneyness attribute. Bitcoin is libertard
+cosplay, that's all it is. AND a waste of energy.
 
-```python
-from requests import get
-url = "http://download.thinkbroadband.com/5MB.zip"
-get(url, headers={"Range": "bytes=0-100"})
-```
+"@lopp@lopp.social
 
-That gets only first 100 bytes. In theory one could even read parts of
-a whole database if client knew how to seek/jump between the right
-parts of the db file.. This is for read-only apps sure, still,
-covers a lot of ground.
-
----
-
-No need for a whole app server to offer search, static files can work
-too (this blog's setup). IDEA: Create a search index offline, push the
-index files on the the static site, client, with its code, can read
-specific parts of the index, combine, sort them, and present results
-on its end.
+Bitcoin's energy consumption doesn't make it a grift, con, or
+scam. Bitcoin is an incredibly transparent system with regard to how
+it operates"
 
 ---
 
-The hell with this "cloud".. Another dependency will be removed.. Time
-to DIY
+Public sphere is overrun by private interests
+
+The Atlantic: "America Has a Private-Beach Problem.. Accessing the
+least-crowded section of New York’s Lido Beach requires either money
+or insider knowledge. Anyone staying at one of the hotels on the beach
+can walk through the lobby, and those living in the adjoining town can
+waltz in through a separate gate using a residents-only electronic
+access code. Everyone else, though, has to come in through a public
+entrance half a mile away and walk over the sand. In theory, some
+portion of every beach in the coastal United States is reserved for
+collective use—even those that border private property. But exactly
+how big that portion is varies widely, and in practice, much of the
+shore is impenetrable"
 
 ---
 
-WTF happened to site search? Place search box on your page, connect to
-ext search (Goog) showed search results for that site. Now bust.
+Reshare
+
+NYT: "Pope Says a Strong U.S. Faction Offers a Backward, Narrow View
+of the Church..  In unusually sharp remarks published this week, Pope
+Francis said some conservative American Catholics wrongly ignore much
+of the Church’s mission and reject the possibility of change...
+
+Pope Francis has expressed in unusually sharp terms his dismay at 'a
+very strong, organized, reactionary attitude' opposing him within the
+U.S. Roman Catholic Church, one that fixates on social issues like
+abortion and sexuality to the exclusion of caring for the poor and the
+environment"
 
 ---
 
-\#Bitcoin
+"@HeavenlyPossum@kolektiva.social
 
-[[-]](https://media.universeodon.com/media_attachments/files/111/047/126/852/664/674/original/d7e44c1dce405349.png)
+Watching Greenland burn and Libya flood and France turn to desert,
+some in the last few years and some in the last few days, reinforces
+the lesson: there is no precedent for the climate catastrophe in any
+meaningful human memory. The last time the global average temperature
+was as different as we’re about to face was 12,000 years ago, before
+the state and before the city and before writing.
 
----
-
-CBS News: "Texas paid bitcoin miner more than $31 million to cut
-energy usage during heat wave"
-
----
-
-They apparently make the fake one from horseadish and some starch
-
-"It is estimated only 1% of American wasabi and 5% of Japanese wasabi is real"
-
-[[-]](https://youtu.be/K0OtGIPRcAs?t=315)
+There’s nowhere that will be predictably stable or safe. There’s no
+preparation that can address the flux. I am unmoored and bereft in a
+way I can’t articulate"
 
 ---
 
-WION: "Following reports that China, one of the company’s major
-markets, had prohibited government personnel from using iPhones as
-Beijing intensifies its continuing tech war with the US, Apple shares
-plummeted during after-hours trading on Thursday, following the
-company’s greatest single day loss in a month, according to a report
-by Forbes"
+"@bobwyman@mastodon.social
+
+NIH researchers 'found that living in an area with high levels of
+particulate air pollution was associated with an increased incidence
+of breast cancer'... Fossil fuel combustion is a major source of
+PM2.5. \*\*Fossil fuels kill.\*\*"
 
 ---
 
-"[Clean Energy Latin America's] LCoH Brazil Index reveals that it is
-currently feasible to manufacture green hydrogen in select strategic
-locations within Brazil at a levelized cost ranging from $2.87/kg to
-3.56/kg. However, with optimization and incentives, these costs could
-potentially decrease to as low as 1.69 dollar/kg, making them highly
-competitive when compared to gray hydrogen derived from fossil fuels,
-known for its environmental impact"
+It's strange.. 
 
-<img width='340' src='https://www.pv-magazine.com/wp-content/uploads/2023/05/index-1536x1152-1-1024x768-1.jpg'/> 
+\#ACDC #BeeGee #Mashup
+
+[[-]](https://music.youtube.com/watch?v=n3muSFoAu6g)
 
 ---
 
-Ars Technica: "Chrome's invasive new ad platform, ridiculously branded
-the 'Privacy Sandbox,' is.. getting a widespread rollout in Chrome
-today. If you haven't been following this, this feature will track the
-web pages you visit and generate a list of advertising topics that it
-will share with web pages whenever they ask, and it's built directly
-into the Chrome browser.. Google seemingly knows this won't be
-popular. Unlike the glitzy front-page Google blog post that the
-redesign got, the big ad platform launch announcement is tucked away
-on the privacysandbox.com page"
+It's like Hakeem Jeffries is his own sign-language interpreter.
 
 ---
 
-Over 200 mil in the red. Why did it bomb so bad? Was it Woke? Because
-it looks like film went broke. 😂 😂 
+"@burgerdrome@aus.social
 
-```python
-u.mov_profit(budget=294,gross=380)
-```
-
-```text
-Out[1]: -213.0
-```
-
----
-
-Ugh.. looks bad.. Lost munee
-
-```python
-u.boxofficemojo("Indiana Jones and the Dial of Destiny")
-```
-
-```text
-Out[1]: 
-{'Domestic Opening': '$60,368,101',
- 'Domestic': '$174,385,511',
- 'International': '$207,888,377',
- 'Worldwide Total': '$382,273,888',
- 'Release Date': 'June 28, 2023'}
-```
+I love my smart TV. I love the way it takes a long time to boot up
+because it's trying to refresh the advertisements on the home
+screen. I delight in the way it randomly restarts because it's
+downloaded an update without asking me, each of which makes the TV
+slower and slower with every subsequent install. I adore the way it
+buries the apps that I want to use, and that I use without fail every
+single time, below the apps that it's being paid to promote and which
+I have never touched in my life and would never use without the cold
+metal of a glock pressed hard against my sweating temple. I am
+infinitely thrilled by the way the interface lags constantly, due to
+the need to have one thousand unnecessary animations rendered on
+hardware ripped wholesale from a ten year old phone. I feel myself
+borne aloft on wings of pure joy when I am notified that my data will
+be collected and analysed to determine my useage patterns. Even now I
+am writing this from a field of beautiful flowers and soft luscious
+grass as I lie and look up happily at the bright blue sky, smiling
+happily to know that this is the future of technology"
 
 ---
 
-"@croissant@zeroes.ca
+"@miguel_pacheco@masto.pt
 
-Long COVID, which occurs in 10% of infections and which is not fully
-prevented by vaccines, is becoming an exclusion criteria for any kind
-of insurance — including travel, disability, and life.
+🇦🇺 ⚡ 💧 
 
-The actuaries know."
-
----
-
-Interesting Eng: "First liquid hydrogen-powered piloted plane soars
-into sky.. H2FLY, the Stuttgart-based firm acquired by Joby Aviation
-in 2021, completed four such flights in its HY4 demonstrator aircraft
-fitted with a cutting-edge hydrogen-electric fuel cell propulsion
-system and cryogenically stored liquid hydrogen..
-
-Replacing gaseous hydrogen with liquid hydrogen effectively doubled
-the maximum range of the HY4 aircraft from around 466 miles (750 km)
-to approximately 932 miles (1,500 km), showing great promise for a
-future with cleaner and more sustainable air travel"
-
-<img width='340' src='https://interestingengineering.com/_next/image?url=https%3A%2F%2Fimages.interestingengineering.com%2F1200x675%2Ffilters%3Aformat(webp)%2F2023%2F09%2F09%2Fimage%2Fjpeg%2FRwp0ZKG4ICGIclLzBiN37DcX40r7nCCvz8b6sNeM.jpg&w=1920&q=75'/> 
-
----
-
-F24: "G20 summit closes with Russia, Brazil and India boasting
-success.. Modi formally closed the summit by passing on a ceremonial
-gavel to Brazilian President Luiz Inacio Lula da Silva, whose country
-will take the bloc's presidency in December. 'We cannot let
-geopolitical issues sequester the G20 agenda of discussions,' Lula
-said, an implicit reference to wrangling over the Ukraine war"
-
----
-
-Politico: "West goes easy on Russia to save the G20"
-
----
-
-AP: "Biden, Modi and G20 allies unveil rail and shipping project
-linking India to Middle East and Europe.. President Joe Biden and his
-allies on Saturday announced [the] plans.. an ambitious project aimed
-at fostering economic growth and political cooperation... The rail and
-shipping corridor would help physically tie together a vast stretch of
-the globe, improving digital connectivity and enabling more trade
-among countries, including with energy products such as hydrogen"
+Hysata, an Australian startup that achieved a 95% efficiency in water
+electrolysis for #hydrogen production (41.5 kWh/kg), was awarded
+US$13.5 million to build a 5MW demonstration plant"
 
 ---
 
