@@ -166,10 +166,6 @@ FAO: "The average water content of cabbage is about 90 percent"
 
 ---
 
-A lot of cabbage disappears after dehydration. Something to see
-
----
-
 Science Daily: "A solar hydrogen system that co-generates heat and
 oxygen... EPFL researchers have built a pilot-scale solar reactor that
 produces usable heat and oxygen, in addition to generating hydrogen

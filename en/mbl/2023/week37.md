@@ -1,6 +1,277 @@
 # Week 37
 
 
+Bloomberg: "The Energy Department plans to award $1 billion to
+stimulate demand for hydrogen, Energy Sectary Jennifer Granholm said
+Thursday"
+
+---
+
+"Nikola Announces Expansion of Dealer Sales and Service Network Into
+Canada in Partnership with ITD Industries"
+
+<img width='340' src='https://www.nikolamotor.com/wp-content/uploads/2023/09/230605_nikola_tre_bev_fcev-768x349.jpg.webp'/> 
+
+---
+
+H2 Central: "UAE – Masdar Tells Hydrogen Summit A ‘Green Wave is Coming’"
+
+---
+
+The Guardian: "[2023/01] Chemical pollution has passed safe limit for
+humanity, say scientists.. Plastics are of particularly high concern,
+they said, along with 350,000 synthetic chemicals including
+pesticides, industrial compounds and antibiotics"
+
+---
+
+"@Hypx@mastodon.social
+
+Bosch ramps up trucking’s hydrogen future.. Fuel-cell production in
+Germany—and soon in the U.S.—will first supply Nikola Class 8 FCEV
+trucks. The global mobility supplier is leaning into hydrogen as
+trucking’s best hope for decarbonization and TCO"
+
+---
+
+"@merc@techhub.social
+
+Batman presumably owns DC comics using a shell company.
+
+Think about it.  They can't hide how Gotham is a hellscape with
+massive wealth inequality and crumbling infrastructure.  But they
+frame it as a rich heroic vigilante fighting a one-man war.  The
+villains are almost never the ultra rich (other than Penguin, who is
+more of a poseur).  Instead the criminals are frequently doctors,
+lawyers, scientists, etc.
+
+Most of his opponents keep escaping from Gotham Asylum.  But, instead
+of raising taxes to improve its security and improving the
+effectiveness of treatments, DC comics frames it so we're supposed to
+cheer for the vigilante who roughs up the escaped mentally ill people
+then returns them to the same underfunded asylum over and over"
+
+---
+
+Renewables Now: "Japan's IHI enters 1-GW hydrogen export project in
+Queensland"
+
+---
+
+The Age: "Amsterdam was choked with cars until mass protests in the
+1970s against their dominance and vehicular 'Kindermoord' (child
+murder) forced that to change"
+
+---
+
+"@fediversereport@mastodon.social
+
+We now have the following national governments with a Mastodon server:
+
+- Germany: https://social.bund.de
+
+- The Netherlands: https://social.overheid.nl
+
+- Switzerland: https://social.admin.ch
+
+As well as the EU with
+
+- https://social.network.europa.eu
+
+Let's hope that other countries will follow this.. pattern, and all
+launch a fediverse server at social.[governmentwebsite].[TLD]..
+[as it] makes it immediately clear to people they are communicating
+with an official government account"
+
+---
+
+"@glyph@mastodon.social
+
+I've seen vague public testimonials about how great Copilot [MS "AI"
+code helper tool] is, but everyone I've spoken to directly about the
+day to day experience of how it's impacting engineering culture are
+telling me stories of junior engineers churning out boilerplate with
+less understanding than before, overwhelmed staff & senior people
+desperately trying to block common errors in code reviews, failing,
+and having to do big rewrites or just blanket reverts. the dynamic is
+toxic and the tool is a net negative"
+
+---
+
+Netanyahu: "Israel is at the focus of an unprecedented international
+project that will link infrastructure from Asia to Europe... Its
+vision reshapes the face of our region and allows a dream to become
+reality. The initiative includes the construction of railways, the
+laying of a hydrogen pipeline, the energy of the future, the laying of
+fiber optic communications cables"
+
+---
+
+Reuters: "TotalEnergies announced a call for tenders for the annual
+production of 500,000 tonnes of green hydrogen on Thursday, as part of
+the French oil major's plans to decarbonise its European refineries"
+
+---
+
+Richard Bergman: "This is simply an extraordinary study. Researchers
+gave $7,500 (CAD) to homeless people in Vancouver. The result? The
+program saved money. It helped many of them to move into housing
+faster, which saved the shelter system 8277 dollars per person"
+
+---
+
+Janes: "NATO flies Phoenix UAV along Finnish-Russian border for first
+time"
+
+---
+
+FuelCellWorks: "UK Pours £25.7 Million Into Hydrogen-Based Red Diesel
+Alternatives"
+
+---
+
+LA Times: "California is moving to outlaw watering some grass that’s
+purely decorative"
+
+---
+
+"@patrickhadfield@mastodon.scot
+
+Liz Truss blames everyone else in new book"
+
+---
+
+"@nickheer@c.im
+
+Only Microsoft can build basic file syncing software that consumes two
+full CPU cores while doing nothing, and uses 1.19 GB of disk
+space. One of the world’s richest corporations is responsible for this
+heap of shit"
+
+[[-]](https://s3.c.im/media_attachments/files/111/026/468/283/093/559/original/092f4b4f28a8ea53.png)
+
+---
+
+FuelCellWorks: "Ursula Von Der Leyen's Bold Claim: Europe Is Outpacing
+China and the U.S. in Hydrogen Energy"
+
+---
+
+Bitcoin being an energy hog is one of its many disadvantages. The most
+important one is its limited money base - money base needs to expand,
+otherwise you will get deflation. Some think this feature makes
+bitcoin "politics free" bcz politicians "print and debase money" but
+no money is politics free. Gold became currency because the king made
+it so. It has no intrinsic moneyness attribute. Bitcoin is libertard
+cosplay, that's all it is. AND a waste of energy.
+
+"@lopp@lopp.social
+
+Bitcoin's energy consumption doesn't make it a grift, con, or
+scam. Bitcoin is an incredibly transparent system with regard to how
+it operates"
+
+---
+
+Public sphere is overrun by private interests
+
+The Atlantic: "America Has a Private-Beach Problem.. Accessing the
+least-crowded section of New York’s Lido Beach requires either money
+or insider knowledge. Anyone staying at one of the hotels on the beach
+can walk through the lobby, and those living in the adjoining town can
+waltz in through a separate gate using a residents-only electronic
+access code. Everyone else, though, has to come in through a public
+entrance half a mile away and walk over the sand. In theory, some
+portion of every beach in the coastal United States is reserved for
+collective use—even those that border private property. But exactly
+how big that portion is varies widely, and in practice, much of the
+shore is impenetrable"
+
+---
+
+Reshare
+
+NYT: "Pope Says a Strong U.S. Faction Offers a Backward, Narrow View
+of the Church..  In unusually sharp remarks published this week, Pope
+Francis said some conservative American Catholics wrongly ignore much
+of the Church’s mission and reject the possibility of change...
+
+Pope Francis has expressed in unusually sharp terms his dismay at 'a
+very strong, organized, reactionary attitude' opposing him within the
+U.S. Roman Catholic Church, one that fixates on social issues like
+abortion and sexuality to the exclusion of caring for the poor and the
+environment"
+
+---
+
+"@HeavenlyPossum@kolektiva.social
+
+Watching Greenland burn and Libya flood and France turn to desert,
+some in the last few years and some in the last few days, reinforces
+the lesson: there is no precedent for the climate catastrophe in any
+meaningful human memory. The last time the global average temperature
+was as different as we’re about to face was 12,000 years ago, before
+the state and before the city and before writing.
+
+There’s nowhere that will be predictably stable or safe. There’s no
+preparation that can address the flux. I am unmoored and bereft in a
+way I can’t articulate"
+
+---
+
+"@bobwyman@mastodon.social
+
+NIH researchers 'found that living in an area with high levels of
+particulate air pollution was associated with an increased incidence
+of breast cancer'... Fossil fuel combustion is a major source of
+PM2.5. \*\*Fossil fuels kill.\*\*"
+
+---
+
+It's strange.. 
+
+\#ACDC #BeeGee #Mashup
+
+[[-]](https://music.youtube.com/watch?v=n3muSFoAu6g)
+
+---
+
+It's like Hakeem Jeffries is his own sign-language interpreter.
+
+---
+
+"@burgerdrome@aus.social
+
+I love my smart TV. I love the way it takes a long time to boot up
+because it's trying to refresh the advertisements on the home
+screen. I delight in the way it randomly restarts because it's
+downloaded an update without asking me, each of which makes the TV
+slower and slower with every subsequent install. I adore the way it
+buries the apps that I want to use, and that I use without fail every
+single time, below the apps that it's being paid to promote and which
+I have never touched in my life and would never use without the cold
+metal of a glock pressed hard against my sweating temple. I am
+infinitely thrilled by the way the interface lags constantly, due to
+the need to have one thousand unnecessary animations rendered on
+hardware ripped wholesale from a ten year old phone. I feel myself
+borne aloft on wings of pure joy when I am notified that my data will
+be collected and analysed to determine my useage patterns. Even now I
+am writing this from a field of beautiful flowers and soft luscious
+grass as I lie and look up happily at the bright blue sky, smiling
+happily to know that this is the future of technology"
+
+---
+
+"@miguel_pacheco@masto.pt
+
+🇦🇺 ⚡ 💧 
+
+Hysata, an Australian startup that achieved a 95% efficiency in water
+electrolysis for #hydrogen production (41.5 kWh/kg), was awarded
+US$13.5 million to build a 5MW demonstration plant"
+
+---
+
 Fuelcellworks: "Bavaria Bolsters Hydrogen Ecosystem With Expanded
 Funding Program For Another 50 Hydrogen Filling Stations"
 

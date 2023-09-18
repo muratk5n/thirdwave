@@ -134,18 +134,6 @@ year"
 
 ---
 
-Marinade helps keep fat/juice in poultry during dehyd. Keeping natural
-content is key. For preservation vacuum bags. Standard marinade soy,
-worchester sauce, brown sugar, garlic/onion powder, and something
-citric like oranges. Testing.
-
----
-
-Interesting.. dude marinades poultry, then dehydrates (raw). To kill
-bacteria cooks in oven at high temp for 10 mins. 
-
----
-
 *300 Rise of an Empire* - a perfect psyop if there was one. The Greeks
 are fighting for "democracy" and the other side, "the Persians", are
 of course for autocracy.  Forget the fact that the Greeks of the era
@@ -480,8 +468,8 @@ Pappe: "[An Israeli law] grants automatic citizenship to every Jew in
 the world, wherever he or she was born. This law in particular is a
 flagrantly undemocratic one, for it was accompanied by a total
 rejection of the Palestinian right of return — recognized
-internationally by the UN General Assembly Resolution 194 of
-1948. This rejection refuses to allow the Palestinian citizens of
+internationally by the UN General Assembly Resolution 194 of 1948.
+This rejection refuses to allow the Palestinian citizens of
 Israel to unite with their immediate families or with those who were
 expelled in 1948. Denying people the right of return to their
 homeland, and at the same time offering this right to others who have

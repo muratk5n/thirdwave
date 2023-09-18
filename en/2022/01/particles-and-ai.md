@@ -1,5 +1,26 @@
 # Particles, Science and AI
 
+Functions
+
+Neural nets are known to be efficient function approximators. If they
+can approximate anything, then they can learn, model anything, right?
+Input is the video of the road, output is pressing the pedals, turning
+the wheel, if I learn the "function" of driving with given inputs and
+outputs, I could learn how to drive. Right?
+
+But the formulation of the real-world, theorizing requires more than
+"functions". We learned that lesson in science of the past 300
+years. In materials science a steel beam under stress has the
+displacement formula $E I \frac{d^4 y}{d X_1^4} = q$ , a fourth order
+differential equation, it is not a function. When solved with given
+conditions result is one way, a different way for a different
+condition; all from the same base formula. Mathematics has much
+broader reach, broader mechanisms than mere functions, it captures
+patterns, and relations that don't immediately have to compute
+anything.
+
+Particles, Formulas
+
 Neural Net Expert Yann LeCun: "The cargo cult approach to
 aeronautics—for actually building airplanes—would be to copy birds
 very, very closely; feathers, flapping wings, and all the rest. And

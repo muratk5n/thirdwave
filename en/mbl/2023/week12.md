@@ -217,14 +217,6 @@ the second-storey balcony to escape"
 
 ---
 
-Two vloggers did it, along with vegs worked out for them
-
----
-
-Dehydrating smoked meat.. now that's an idea
-
----
-
 A previous share on the movie *Cobra* made a paralel to the "Scorpion
 Unit" of Memphis, to that special team, outsider, specialized cop
 mentality, "the heroes who do what others cannot", so forth..

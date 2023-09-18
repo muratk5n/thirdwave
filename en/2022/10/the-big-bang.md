@@ -58,7 +58,7 @@ background is absent (or almost absent). In this case it has sense to
 return to the earlier “quantes ageing” theory which explains also the
 known “red shift”.
 
-Eric Lerner
+### Eric Lerner
 
 Big Bang supposedly occurred only about twenty billion years ago,
 nothing in the cosmos can be older than this. Yet in 1986 astronomers
@@ -66,7 +66,46 @@ discovered that galaxies compose huge agglomerations a billion
 light-years across; such mammoth clusterings of matter must have taken
 a hundred billion years to form [3].
 
-Penrose
+[Answering the question 'can you save the Big Bang Theory by tweaking
+it' outlines the problems with the approach an listing gross mistakes
+of the BBT. First is] too little helium..  a very basic prediction of
+The BBT which is that there should be a certain amount of helium
+produced by Fusion reactions during the Big Bang and there should be
+more helium and older in stars that have processed hydrogen.. but
+observations have shown that in nearby stars and even in planetary
+nebula.. where we can observe helium directly the amount of helium is
+only half what's predicted by the [BBT]..
+
+What's worrying.. Big Bang cosmologists is that the very basic
+assumption of [the theory] is that the universe is homogeneous and
+isotropic modulus.. Isotropic means the same in every direction.
+Without those basic assumptions there would be no expanding universe
+there would be no BB. General relativity only predicts an expanding or
+contracting universe if the universe is homogeneous and isotropic
+which has never been observed and today with even better observations
+there are more and more anisotropies. When we look in different
+directions in the sky we get different measurements, for example of
+the Hubble constant, the constant that describes the relationship
+between redshift and distance, we get different densities of radio
+galaxies of X-ray galaxies of quasars. All of these are different in
+different directions [leading to] lopsided star maps and therefore
+again contradict the basic hypotheses of the BB...
+
+[Another problem is] too little lithium; this again is the well-known
+lithium problem, the BB makes predictions about three light elements,
+helium, lithium and deuterium which is the heavy isotope of ordinary
+hydrogen. The lithium it gets wrong entirely.. observations of lithium
+are 20 times less than the predictions of the BB - a gross
+contradiction...
+
+If an airline advertises that out of the last 17 flights 16 crashed
+and one got through would you fly on that airline? I think the answer
+is obvious, and the answer to the question [of tweaking BB to save it]
+is also obvious, with 16 wrong answers and one right answer this isn't
+a theory that needs to be tweaked, this is a theory that needs to be
+thrown away.
+
+### Penrose
 
 RP said "When you plot CMB intensity against each frequency you get
 Planck blackbody curve that means early universe must have had thermal

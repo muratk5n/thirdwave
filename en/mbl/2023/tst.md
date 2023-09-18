@@ -7,12 +7,6 @@ pd.set_option('display.max_columns', None)
 ```
 
 
-```python
-u.ecmwf_wind(30,-60,10,M=100,N=60,show_ike=True)
-plt.savefig('/tmp/out.jpg',quality=20)
-```
-
-
 
 
 
@@ -25,10 +19,10 @@ plt.savefig('/tmp/out.jpg',quality=20)
 
 ```python
 geo = [['Main'],['Andriivka','Klischchiivka'],['Bilohorivka','Verkhnokamianske'],
-       [],['Bakhmut','Yahidne','Berkhivka'],['Novomykhailivka','Stepne','Marinka'],
-       ['Synkivka','Kupiansk','Lyman Pershyi'],['Urozhaine','Staromaiorske'],['Robotyne']]
+       ['Opytne'],['Bakhmut','Yahidne','Berkhivka'],['Novomykhailivka','Stepne','Marinka'],
+       ['Synkivka','Kupiansk','Lyman Pershyi'],['Urozhaine','Staromaiorske'],['Robotyne','Novoprokpivka']]
        
-u.sm_plot_ukr4('ukrdata/fl-0913.csv','ukrdata/fl-0830.csv',geo,3,3,zoom=0.03,fsize=(10,10),)
+u.sm_plot_ukr4('ukrdata/fl-0916.csv','ukrdata/fl-0830.csv',geo,3,3,zoom=0.03,fsize=(10,10),)
 plt.savefig('/tmp/out.jpg',quality=40)
 ```
 

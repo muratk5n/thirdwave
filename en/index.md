@@ -1,148 +1,172 @@
 
-FuelCellWorks: "UK Pours £25.7 Million Into Hydrogen-Based Red Diesel
-Alternatives"
+J. Geuter: "I have argued for a while that I see the current LLM craze
+as a bit of a weird path of innovation. Neural networks can do certain
+things very well. Like for example reducing heterogenous input data
+from the real world down to a limited model suitable for algorithms to
+work on. They can be an interface level to glue software/hardware to
+the chaos that is physics and people. But a lot of the actual things
+we want to do need to be deterministic, testable, verifiable,
+auditable. So the future of that space lies probably more in smaller,
+focused models that give certain guarantees with regards to fault
+tolerance and quality that then will be used as building blocks to
+build often very traditional software on. That will enable us to use
+these statistical systems for the things they can do while allowing us
+to build proper systems for the things they cannot"
 
 ---
 
-LA Times: "California is moving to outlaw watering some grass that’s
-purely decorative"
+Vlogger lady says this is how they preserved meat during World War II
+wout refigration. Wow.
 
 ---
 
-"@patrickhadfield@mastodon.scot
-
-Liz Truss blames everyone else in new book"
-
----
-
-"@nickheer@c.im
-
-Only Microsoft can build basic file syncing software that consumes two
-full CPU cores while doing nothing, and uses 1.19 GB of disk
-space. One of the world’s richest corporations is responsible for this
-heap of shit"
-
-[[-]](https://s3.c.im/media_attachments/files/111/026/468/283/093/559/original/092f4b4f28a8ea53.png)
+Cooking food in a jar, once done, keep it closed, it is preserved as
+is.  Bacteria in the jar died while cooking, and as long as container
+kept is closed, new ones will not enter, plus the meal is now
+precooked.
 
 ---
 
-FuelCellWorks: "Ursula Von Der Leyen's Bold Claim: Europe Is Outpacing
-China and the U.S. in Hydrogen Energy"
+Bonn, DE apparenly. The greenery is a nice touch
+
+"@fuck_cars_bot@botsin.space
+
+'Nearest tram station to my new home 🥰'"
+
+[[-]](https://files.botsin.space/media_attachments/files/111/072/679/354/450/455/small/835f15dbe547ca3e.jpeg)
 
 ---
 
-Bitcoin being an energy hog is one of its many disadvantages. The most
-important one is its limited money base - money base needs to expand,
-otherwise you will get deflation. Some think this feature makes
-bitcoin "politics free" bcz politicians "print and debase money" but
-no money is politics free. Gold became currency because the king made
-it so. It has no intrinsic moneyness attribute. Bitcoin is libertard
-cosplay, that's all it is. AND a waste of energy.
-
-"@lopp@lopp.social
-
-Bitcoin's energy consumption doesn't make it a grift, con, or
-scam. Bitcoin is an incredibly transparent system with regard to how
-it operates"
+The Age: "Amsterdam was choked with cars until mass protests in the
+1970s against their dominance and vehicular 'Kindermoord' (child
+murder) forced that to change"
 
 ---
 
-Public sphere is overrun by private interests
-
-The Atlantic: "America Has a Private-Beach Problem.. Accessing the
-least-crowded section of New York’s Lido Beach requires either money
-or insider knowledge. Anyone staying at one of the hotels on the beach
-can walk through the lobby, and those living in the adjoining town can
-waltz in through a separate gate using a residents-only electronic
-access code. Everyone else, though, has to come in through a public
-entrance half a mile away and walk over the sand. In theory, some
-portion of every beach in the coastal United States is reserved for
-collective use—even those that border private property. But exactly
-how big that portion is varies widely, and in practice, much of the
-shore is impenetrable"
+The late Shah's son is on, talking about how opressive the current
+Iranian regime is... His father was surely toppled but the Shah
+himself came into power via a British and US plot who did not want the
+nationalization of Anglo-Iranian Oil Company (todays's BP) by
+left-wing *democratically elected* prime minister Mosaddeq. Now he is
+whining boo hoo, boo hooo, current regime is so opressive, me
+sad. Well your f-ing father was worse. Stop whining.
 
 ---
 
-Reshare
-
-NYT: "Pope Says a Strong U.S. Faction Offers a Backward, Narrow View
-of the Church..  In unusually sharp remarks published this week, Pope
-Francis said some conservative American Catholics wrongly ignore much
-of the Church’s mission and reject the possibility of change...
-
-Pope Francis has expressed in unusually sharp terms his dismay at 'a
-very strong, organized, reactionary attitude' opposing him within the
-U.S. Roman Catholic Church, one that fixates on social issues like
-abortion and sexuality to the exclusion of caring for the poor and the
-environment"
+When gov does not interject, and "people buy what they want (a want
+that can be guided, through marketing, addictive compounds)", junk
+food will rule the day. That's why you have a fat ass brother.
 
 ---
 
-"@HeavenlyPossum@kolektiva.social
+Singapore gov subsidizes healthy food, taxes junk food too doesn't it?
+It's a good idea. 
 
-Watching Greenland burn and Libya flood and France turn to desert,
-some in the last few years and some in the last few days, reinforces
-the lesson: there is no precedent for the climate catastrophe in any
-meaningful human memory. The last time the global average temperature
-was as different as we’re about to face was 12,000 years ago, before
-the state and before the city and before writing.
-
-There’s nowhere that will be predictably stable or safe. There’s no
-preparation that can address the flux. I am unmoored and bereft in a
-way I can’t articulate"
+Vox: "[2018/04] Mexico and Hungary tried junk food taxes — and they
+seem to be working.. The case for a junk food tax in America"
 
 ---
 
-"@bobwyman@mastodon.social
-
-NIH researchers 'found that living in an area with high levels of
-particulate air pollution was associated with an increased incidence
-of breast cancer'... Fossil fuel combustion is a major source of
-PM2.5. \*\*Fossil fuels kill.\*\*"
+Temperature is key for sour cabbage.. Ferm wont work for <15C.  The
+good bacteria likes it all warm and toasty, gotta heat those muckers
+up.
 
 ---
 
-It's strange.. 
+Building a world model my ass.. this shit is mega stupid \#LLM \#SoCalledAI
 
-\#ACDC #BeeGee #Mashup
-
-[[-]](https://music.youtube.com/watch?v=n3muSFoAu6g)
+[[-]](https://benchmarks.llmonitor.com/sally)
 
 ---
 
-It's like Hakeem Jeffries is his own sign-language interpreter.
+"@sophie@social.lol
+
+This chatbot could’ve been a form"
 
 ---
 
-"@burgerdrome@aus.social
+Hickel: "When essential goods are privatized and expensive, people
+need more income than they would otherwise require to access them. To
+get it they are compelled to increase their labour in capitalist
+markets, working to produce new things that may not be needed (with
+increased energy use, resource use, and ecological pressure) simply to
+access things that clearly are needed, and which are quite often
+already there.
 
-I love my smart TV. I love the way it takes a long time to boot up
-because it's trying to refresh the advertisements on the home
-screen. I delight in the way it randomly restarts because it's
-downloaded an update without asking me, each of which makes the TV
-slower and slower with every subsequent install. I adore the way it
-buries the apps that I want to use, and that I use without fail every
-single time, below the apps that it's being paid to promote and which
-I have never touched in my life and would never use without the cold
-metal of a glock pressed hard against my sweating temple. I am
-infinitely thrilled by the way the interface lags constantly, due to
-the need to have one thousand unnecessary animations rendered on
-hardware ripped wholesale from a ten year old phone. I feel myself
-borne aloft on wings of pure joy when I am notified that my data will
-be collected and analysed to determine my useage patterns. Even now I
-am writing this from a field of beautiful flowers and soft luscious
-grass as I lie and look up happily at the bright blue sky, smiling
-happily to know that this is the future of technology"
+Take housing, for example. If your rent goes up, you suddenly have to
+work more just to keep the same roof over your head.  At an
+economy-wide level, this dynamic means we need more aggregate
+production — more growth — in order to meet basic needs.  From the
+perspective of capital, this ensures a steady flow of labour for
+private firms, and maintains downward pressure on wages to facilitate
+capital accumulation. For the rest of us it means needless
+exploitation, insecurity, and ecological damage"
 
 ---
 
-"@miguel_pacheco@masto.pt
+"@pezmico@mastodon.nz
 
-🇦🇺 ⚡ 💧 
+If you ask me, I'd say what we most urgently need to do is *less*.
 
-Hysata, an Australian startup that achieved a 95% efficiency in water
-electrolysis for #hydrogen production (41.5 kWh/kg), was awarded
-US$13.5 million to build a 5MW demonstration plant"
+Less of almost everything.
+
+Less work, less consumerism, less travel, less buying, less waste,
+less stress, less pollution.
+
+'Slowing down is the Revolution.'
+
+It wouldn't be a solution for everything but it would be a good start"
+
+---
+
+Clustering is unsupervised, learning with labels (what most neural net
+"AI" does these days) is supervised. NNs are not very good at the
+former. Nothing to parrot on
+
+---
+
+There are many clustering algorithms
+
+---
+
+How to write a "[app] serverless recommender" (movies, songs).
+Tranmismitting the whole ratings database to the browser would be
+slow. But you could cluster all users' movie ratings beforehand, and
+send the browser only the cluster centers. User code then finds its
+similarity to a cluster (10-20 of them) which should run fast, and
+starts asking for the users in that cluster piece-by-piece, in small
+chunks, uses their top ratings for its recommendations.
+
+There you go - no complicated server structure, "cloud", only static
+files. Good stuff eh?
+
+---
+
+German rocketry was crucial for US landing a man on the moon and let's
+not forget, the Soviets were to first to send the first man in space.
+The Soviets were also the first to land spacecraft on the Moon, Venus,
+and Mars. By way of inventor origin, the world's two most popular
+computer languages hail from Denmark and Netherlands, the world's most
+commonly used operating system's creator is from Finland. There has
+been much sci/tech activity thanks to fureigners.
+
+---
+
+CNBC: "Multnomah County in Oregon is suing oil and gas companies Exxon
+Mobil, Shell, Chevron, BP, ConocoPhillips and related organizations
+for the damages caused by the 2021 Pacific Northwest heat dome... The
+heat caused 69 people to die, property damage and was a draw on
+taxpayer resources, Multnomah County says."
+
+---
+
+"@encthenet@flyovercountry.social
+
+Good to see that California is looking at passing a bill to allow
+striking workers to receive unemployment.  This will help ensure that
+management comes to the table to negotiate in good faith instead of
+hoping to force the union to take a worse deal because they are
+starving"
 
 ---
 
@@ -192,3 +216,5 @@ Also on
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
 
 <img src='https://drive.google.com/uc?export=view&id=1zsIeciFSvlr-sWB84Tc0mfZ_NYqn9VQx'/> 
+
+

@@ -4,7 +4,7 @@
 
 [Economics "Nobel" Prize](../../2018/05/faux-nobel.html)
 
-[Quantum Computing](../../../2022/10/quantum-computing.md)
+[Quantum Computing](../../../2022/10/quantum-computing.html)
 
 [Black Holes](../../../2022/08/black-holes.html)
 
