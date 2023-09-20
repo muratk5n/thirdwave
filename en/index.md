@@ -1,172 +1,140 @@
 
-J. Geuter: "I have argued for a while that I see the current LLM craze
-as a bit of a weird path of innovation. Neural networks can do certain
-things very well. Like for example reducing heterogenous input data
-from the real world down to a limited model suitable for algorithms to
-work on. They can be an interface level to glue software/hardware to
-the chaos that is physics and people. But a lot of the actual things
-we want to do need to be deterministic, testable, verifiable,
-auditable. So the future of that space lies probably more in smaller,
-focused models that give certain guarantees with regards to fault
-tolerance and quality that then will be used as building blocks to
-build often very traditional software on. That will enable us to use
-these statistical systems for the things they can do while allowing us
-to build proper systems for the things they cannot"
+New Atlas: "Researchers have used a low-emissions method to harvest
+hydrogen and graphene from waste plastics... 'When we first discovered
+flash Joule heating and applied it to upcycle waste plastic into
+graphene, we observed a lot of volatile gases being produced and
+shooting out of the reactor,' [lead researcher at Rice U project] Wyss
+said. “We wondered what they were, suspecting a mix of small
+hydrocarbons and hydrogen, but lacked the instrumentation to study
+their exact composition'.
+
+After acquiring the equipment needed to analyze the vaporized contents
+thanks to funding from the US Army Corps of Engineers, the researchers
+found their suspicions were correct: the process produced hydrogen
+gas"
 
 ---
 
-Vlogger lady says this is how they preserved meat during World War II
-wout refigration. Wow.
+PV Mag: "Fortescue Future Industries’ planned facility, officially
+proposed at the Willow Cale Industrial Park in Prince George, should
+produce roughly 140,000 tonnes of hydrogen and 700,000 tonnes of
+ammonia per year, which would be used for both domestic use and
+export. The USD 2 billion ($3.11b) ‘Project Coyote’ would need 1,000
+MW of power from BC Hydro to create the green hydrogen by
+electrolysis, which would then be processed into green ammonia"
 
 ---
 
-Cooking food in a jar, once done, keep it closed, it is preserved as
-is.  Bacteria in the jar died while cooking, and as long as container
-kept is closed, new ones will not enter, plus the meal is now
-precooked.
+The accord allowed Israel to hang on to pre-defined military zones, so
+Israel just defined any random place it wanted as an MZ effectively
+gutting the accord. OA had holes in it like swiss cheese.
 
 ---
 
-Bonn, DE apparenly. The greenery is a nice touch
+Of course the Oslo Accords was flawed, it was a Clinton plan
 
-"@fuck_cars_bot@botsin.space
+Informed Comment: "30 Years after Arafat-Rabin Handshake, clear Flaws
+in Oslo Accords doomed peace Talks to Failure... Thirty years later,
+it is clear the Oslo Accords have achieved neither peace nor a
+two-state solution. So far in 2023 alone, over 200 Palestinians and
+nearly 30 Israelis have been killed. Israel has the most right-wing,
+nationalist government in its history..
 
-'Nearest tram station to my new home 🥰'"
-
-[[-]](https://files.botsin.space/media_attachments/files/111/072/679/354/450/455/small/835f15dbe547ca3e.jpeg)
-
----
-
-The Age: "Amsterdam was choked with cars until mass protests in the
-1970s against their dominance and vehicular 'Kindermoord' (child
-murder) forced that to change"
-
----
-
-The late Shah's son is on, talking about how opressive the current
-Iranian regime is... His father was surely toppled but the Shah
-himself came into power via a British and US plot who did not want the
-nationalization of Anglo-Iranian Oil Company (todays's BP) by
-left-wing *democratically elected* prime minister Mosaddeq. Now he is
-whining boo hoo, boo hooo, current regime is so opressive, me
-sad. Well your f-ing father was worse. Stop whining.
+[T]he Oslo peace process failed because the framework itself was
+deeply flawed in three key ways. First, it ignored the power imbalance
+between the two sides. Second, it focused on ending violence by
+Palestinian militant groups while overlooking acts of violence
+committed by the Israeli state. And third, it sought peace as the end
+goal, rather than justice.
 
 ---
 
-When gov does not interject, and "people buy what they want (a want
-that can be guided, through marketing, addictive compounds)", junk
-food will rule the day. That's why you have a fat ass brother.
+\#GDP
+
+[[-]](https://media.tech.lgbt/media_attachments/files/111/076/533/264/092/666/original/378c7480e78ba6d0.jpeg)
 
 ---
 
-Singapore gov subsidizes healthy food, taxes junk food too doesn't it?
-It's a good idea. 
-
-Vox: "[2018/04] Mexico and Hungary tried junk food taxes — and they
-seem to be working.. The case for a junk food tax in America"
-
----
-
-Temperature is key for sour cabbage.. Ferm wont work for <15C.  The
-good bacteria likes it all warm and toasty, gotta heat those muckers
-up.
+WaPo: “Food, beverage and dietary \#supplement industries are paying
+dozens of registered dietitians that collectively have millions of
+\#socialmedia followers to help sell products and deliver
+industry-friendly messages”
 
 ---
 
-Building a world model my ass.. this shit is mega stupid \#LLM \#SoCalledAI
-
-[[-]](https://benchmarks.llmonitor.com/sally)
-
----
-
-"@sophie@social.lol
-
-This chatbot could’ve been a form"
+WION: "Crypto exchange JPEX suspend trades amid investigation into
+suspected fraud"
 
 ---
 
-Hickel: "When essential goods are privatized and expensive, people
-need more income than they would otherwise require to access them. To
-get it they are compelled to increase their labour in capitalist
-markets, working to produce new things that may not be needed (with
-increased energy use, resource use, and ecological pressure) simply to
-access things that clearly are needed, and which are quite often
-already there.
+"@gdeihl@spore.social
 
-Take housing, for example. If your rent goes up, you suddenly have to
-work more just to keep the same roof over your head.  At an
-economy-wide level, this dynamic means we need more aggregate
-production — more growth — in order to meet basic needs.  From the
-perspective of capital, this ensures a steady flow of labour for
-private firms, and maintains downward pressure on wages to facilitate
-capital accumulation. For the rest of us it means needless
-exploitation, insecurity, and ecological damage"
+Pretending metals such as lithium are going to sustain our indulgent
+Global North lifestyles is a sham. Batteries depend on mining copper,
+nickel, cobalt and rare minerals as well, in lands where we exploit
+human beings. Metals and minerals will never adequately replace the
+bubble that was fossil fuels, anyhow, and mining will beget yet more
+environmental harm... Those who say there are endless metals and
+minerals wish to mine our dying oceans as well, for profit, not
+humanity. It’s a sham, so billionaires can become
+trillionaires. Mining causes enormous ecological destruction.. drains
+and pollutes precious groundwater even as historic drought
+increases. One metric ton of lithium requires 500,000 gallons of water
+to process"
 
 ---
 
-"@pezmico@mastodon.nz
+Electrive: "In the Spanish city of Barcelona, Metropolitans de
+Barcelona (TMB) has awarded Solaris the contract to provide the city
+with 36 new hydrogen fuel cell buses for a sum 23 million euros"
 
-If you ask me, I'd say what we most urgently need to do is *less*.
-
-Less of almost everything.
-
-Less work, less consumerism, less travel, less buying, less waste,
-less stress, less pollution.
-
-'Slowing down is the Revolution.'
-
-It wouldn't be a solution for everything but it would be a good start"
+<img width='340' src='https://www.electrive.com/wp-content/uploads/2023/09/solaris-urbino-12-hydrogen-elektrobus-electric-bus-2023-01-min-1400x933.jpg'/> 
 
 ---
 
-Clustering is unsupervised, learning with labels (what most neural net
-"AI" does these days) is supervised. NNs are not very good at the
-former. Nothing to parrot on
+It is likely the latter. If we had to guess the disagreement likely
+had to do with Taiwan, Zee Ping Ping wants to "do" it, some in the top
+brass and the party are resisting. Taiwan would be a tough nut to
+crack so I'm not surprised.
+
+F24: "Questions swirl around Xi’s motives after a second top minister
+disappears in China..  For some observers, Li's vanishing is likely
+linked to corruption, while others see it as a sign of intense
+political battles hidden from outside eyes"
 
 ---
 
-There are many clustering algorithms
+TASS: "Kiev to sue Hungary, Poland, Slovakia in WTO over extension of
+ban on Ukrainian grain"
 
 ---
 
-How to write a "[app] serverless recommender" (movies, songs).
-Tranmismitting the whole ratings database to the browser would be
-slow. But you could cluster all users' movie ratings beforehand, and
-send the browser only the cluster centers. User code then finds its
-similarity to a cluster (10-20 of them) which should run fast, and
-starts asking for the users in that cluster piece-by-piece, in small
-chunks, uses their top ratings for its recommendations.
-
-There you go - no complicated server structure, "cloud", only static
-files. Good stuff eh?
+Politico: "NATO chief warns Ukraine allies to prepare for ‘a long war’"
 
 ---
 
-German rocketry was crucial for US landing a man on the moon and let's
-not forget, the Soviets were to first to send the first man in space.
-The Soviets were also the first to land spacecraft on the Moon, Venus,
-and Mars. By way of inventor origin, the world's two most popular
-computer languages hail from Denmark and Netherlands, the world's most
-commonly used operating system's creator is from Finland. There has
-been much sci/tech activity thanks to fureigners.
+Haley was ok on paper, but she went mega neocon in the last debate,
+clashed with Ramasmarmy who was channeling Trump, IMO lost any chance
+she might've had on VP.
 
 ---
 
-CNBC: "Multnomah County in Oregon is suing oil and gas companies Exxon
-Mobil, Shell, Chevron, BP, ConocoPhillips and related organizations
-for the damages caused by the 2021 Pacific Northwest heat dome... The
-heat caused 69 people to die, property damage and was a draw on
-taxpayer resources, Multnomah County says."
+WION: "Donald Trump hinted at choosing South Dakota Gov. Kristi Noem
+as his running mate for the upcoming 2024 Presidential election"
 
 ---
 
-"@encthenet@flyovercountry.social
+That is the TRUTH
 
-Good to see that California is looking at passing a bill to allow
-striking workers to receive unemployment.  This will help ensure that
-management comes to the table to negotiate in good faith instead of
-hoping to force the union to take a worse deal because they are
-starving"
+"@realDonaldTrump@truthsocial.com
+
+The all Electric Car is a disaster for both the United Auto Workers
+and the American Consumer. They will all be built in China and, they
+are too expensive, don’t go far enough, take too long to charge, and
+pose various dangers under certain atmospheric conditions. If this
+happens, the United Auto workers will be wiped out, along with all
+other auto workers in the United States. The all Electric Car policy
+is about as dumb as Open Borders"
 
 ---
 
@@ -216,5 +184,8 @@ Also on
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
 
 <img src='https://drive.google.com/uc?export=view&id=1zsIeciFSvlr-sWB84Tc0mfZ_NYqn9VQx'/> 
+
+
+
 
 

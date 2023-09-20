@@ -7,6 +7,43 @@ pd.set_option('display.max_columns', None)
 ```
 
 
+```python
+u.boxofficemojo("Blue Beetle")
+```
+
+```text
+Out[1]: 
+{'Domestic Opening': '$25,030,225',
+ 'Domestic': '$67,472,820',
+ 'International': '$53,100,000',
+ 'Worldwide Total': '$120,572,820',
+ 'Release Date': 'August 16, 2023'}
+```
+
+```python
+u.mov_profit(104, 120)
+```
+
+```text
+Out[1]: -84.0
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
