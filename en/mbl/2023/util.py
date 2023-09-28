@@ -3,7 +3,7 @@ from metpy.units import units
 import datetime, time as timelib, re, os, glob, numpy.linalg as lin
 import pandas_ta as ta, random, rottentomatoes as rt    
 import pandas as pd, datetime, numpy as np, requests
-import requests, urllib.parse, json, io, geocoder
+import requests, urllib.parse, json, io, geocoder, zipfile
 import matplotlib.pyplot as plt, math
 import simplegeomap as sm, util
 import urllib.request as urllib2, itertools
@@ -828,7 +828,7 @@ def ecmwf_wind(clat,clon,zoom,M=100,N=60,show_ike=False):
     sm.plot_continents(clat,clon,zoom,incolor='green', outcolor='white', fill=False,ax=ax)
     
     if show_ike:
-        W = (4,4)
+        W = (3,3)
         # lat,lon 111 kilometers/deg
         lonlen = 111*((min(lons)-max(lons))/M)
         latlen = 111*((min(lats)-max(lats))/M)
@@ -851,6 +851,23 @@ def ecmwf_wind(clat,clon,zoom,M=100,N=60,show_ike=False):
         plt.pcolormesh(Xi,Yi,ikezi,cmap='Reds')
         
     ax.quiver(Xi,Yi,uzi,vzi)    
+
+def berlin1():
+    # Prager Platz
+    # 52.49318629735666, 13.333060825694803
+    # adenauerplatz
+    # 52.49986790660432, 13.307533743044464
+    # Neukolln
+    # 52.44068295147736, 13.445288470596834
+    # Potsdamer Platz
+    # 52.509791308054666, 13.375978712119096    
+    url = "https://gist.github.com/CliffordAnderson/49f26b694e2f1e41ac5c17433aa310fe/archive/9e78f341e21f9a8b53f35a92dff9727f312abeeb.zip"
+    r = urllib2.urlopen(url).read()
+    file = io.BytesIO(r)
+    with zipfile.ZipFile(file, 'r') as z:
+       content = z.open('49f26b694e2f1e41ac5c17433aa310fe-9e78f341e21f9a8b53f35a92dff9727f312abeeb/berlin-wall.geojson').read()    
+    res = json.loads(content)
+    print (res['features'][1]['geometry']['coordinates'][:10])    
 
 def ike_ncei(lat,lon,day,month,year,hour):
 

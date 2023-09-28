@@ -7,42 +7,6 @@ pd.set_option('display.max_columns', None)
 ```
 
 
-```python
-u.boxofficemojo("Blue Beetle")
-```
-
-```text
-Out[1]: 
-{'Domestic Opening': '$25,030,225',
- 'Domestic': '$67,472,820',
- 'International': '$53,100,000',
- 'Worldwide Total': '$120,572,820',
- 'Release Date': 'August 16, 2023'}
-```
-
-```python
-u.mov_profit(104, 120)
-```
-
-```text
-Out[1]: -84.0
-```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -59,7 +23,7 @@ geo = [['Main'],['Andriivka','Klischchiivka'],['Bilohorivka','Verkhnokamianske']
        ['Opytne'],['Bakhmut','Yahidne','Berkhivka'],['Novomykhailivka','Stepne','Marinka'],
        ['Synkivka','Kupiansk','Lyman Pershyi'],['Urozhaine','Staromaiorske'],['Robotyne','Novoprokpivka']]
        
-u.sm_plot_ukr4('ukrdata/fl-0916.csv','ukrdata/fl-0830.csv',geo,3,3,zoom=0.03,fsize=(10,10),)
+u.sm_plot_ukr4('ukrdata/fl-0927.csv','ukrdata/fl-0916.csv',geo,3,3,zoom=0.03,fsize=(10,10),)
 plt.savefig('/tmp/out.jpg',quality=40)
 ```
 
@@ -80,8 +44,8 @@ print (int(a1.area) - int(a2.area), 'km taken')
 ```
 
 ```text
-a1 = 154618 km2 a2 = 154342 km2
-276 km taken
+a1 = 154618 km2 a2 = 154226 km2
+392 km taken
 ```
 
 
@@ -96,7 +60,8 @@ a1 = 154618 km2 a2 = 154342 km2
 
 
 ```python
-u.ru_areas().plot(ylim=[15,16])
+df = u.ru_areas() / 1000
+df.plot(ylim=[150,160])
 plt.savefig('/tmp/out.jpg',quality=40)
 ```
 

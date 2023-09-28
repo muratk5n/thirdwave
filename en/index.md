@@ -1,155 +1,103 @@
 
-Design Boom: "Euro Airship is developing Solar Airship One, a
-whale-shaped aircraft that plans to fly around more than 25 countries
-for 20 days without stopping using solar power and hydrogen. Its plan
-to take off in 2026 is looming, and the team is hustling to make sure
-that the first non-stop world tour flight without fossil fuels will
-meet its deadline. Euro Airship believes that its aircraft will be
-flying without any noise, fossil fuel, or carbon emissions..
+"The deGoogled Murena Fairphone 4 is the first.. privacy conscious and
+sustainable phone. Powered by the revolutionary /e/OS operating
+system, this device is your shield against Google's constant data
+collection. Enjoy the benefits of a smart device without the
+surveillance, putting you back in control of your personal data. 
 
-The aircraft, powered by solar and hydrogen, is expected to be 151
-meters long with a rigid airship and a helium expansion volume of
-53,000 m3. Almost its entire surface will be covered with 4,800 m2 of
-solar film to fully capture sunlight. By day, it collects the sun’s
-energy; by night, the surplus electricity is stored in fuel cells that
-produce hydrogen via water electrolysis"
+<img width='200' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNZZCXytR2BmGYaQWCxazZy2qLKYHSEUqxzwiegk3-34CVJYNo_J1r6cxaWJmvbHHri3A&usqp=CAU'/> 
 
-<img width='340' src='https://cdn.fosstodon.org/media_attachments/files/111/093/548/430/368/541/original/6417153b9162f847.png'/> 
+Like all Fairphone phones, it is built to last with its modular and
+repairable design. It features a removable 3905 mAh rechargeable
+battery. You can swap out the battery or the display on your own. No
+part of Murena Fairphone 4 is glued shut, so you can choose to easily
+repair it yourself with a standard screwdriver"
 
 ---
 
-H2 Central: "H2U Technologies, a next-generation electrolyzer
-developer, has performed durability tests on new, lower-cost,
-iridium-free catalyst materials that demonstrate a projected lifetime
-of 25,000 hours"
+The Telegraph: "[The plan is] Milford Haven will be invented as a
+powerhouse of hydrogen production, carbon capture and offshore wind
+power as part of the shift to net zero. 'Right now, we’re sitting on
+the horizon of a new epoch in the waterway’s history,' says.. chief
+executive of the port of Milford Haven. 'It’s a really big opportunity
+for us - and everyone here gets that'"
 
 ---
 
-Railtech: "Irish Rail to trail Europe's first locomotive to combust
-hydrogen instead of diesel"
+Bama wasn't a bad president.. But he wasn't a good one either. Just a
+boring average like many others before him. This spoon feeding must
+end.
 
 ---
 
-New Telegraph: "[Director Benkhadra said] Morocco is studying
-transporting green hydrogen via the anticipated Nigeria-Morocco gas
-pipeline project (NMGP). Speaking on the sidelines of the World
-Power-to-X Summit, Benkhadra further told Bloomberg Asharq that the
-NMGP will include two pipes, the first is for natural gas and the
-second for green hydrogen"
+The US gov need for integration is real. It is part of their
+legitimacy offering. Remember how waspy wasp Judge Robers bent over
+backwards to make ACA work.
 
 ---
 
-\#AdBlock \#Trek
-
-[[-]](https://social.6bq.de/system/media_attachments/files/111/074/124/004/496/682/original/9f2e734c730aa171.jpg)
-
----
-
-Focker himself was involved too.. You are a walking disaster, Focker.
-
----
-
-Rumor has it after having insider information Thiel acolytes drove
-around the Bay area telling everyone banking with Silicon Valley Bank
-to run for the hills, causing, well, the bank run. Is that legal?
-
-The Christian Science Monitor: "In California, there’s been an
-anti-bank run law on the books since 1917"
+Whenever something doesn't make sense on a per-case basis, look for
+deeper psychological drives... BEV tech makes no sense, the reason for
+its FOMO is spoon feeding per below. Shoddy businessman, even worse
+techy half-brained cunt [e-jagoff](mbl/2022/ejagofftrump.jpeg) always
+manages to stay around because he was blessed by the First Black President™,
+in person. Assange was put through hell, more than any human being deserves,
+because he made the First Black President™ and his admin look bad.
 
 ---
 
-WaPo: "Many of today’s unhealthy foods were brought to you by Big
-Tobacco.. For decades, tobacco companies hooked people on cigarettes
-by making their products more addictive. Now, a new study suggests
-that tobacco companies may have used a similar strategy to hook people
-on processed foods"
+Pushing for battery-electric cars is a fool's errand - there isn't
+enough lithium in the world to shift even a quarter of all cars to
+BEV.
+
+This tech has been limping forward only due to Dems' efforts to spoon
+feed Obama his legacy. He'd pushed for this tech and the "First Black
+President™" muuust haaaave a leeeeegacy, so Dems after him keep
+promoting this shit.
 
 ---
 
-Singer: "Tech libertarians consider government intrusion online an
-outrage—but what about corporate surveillance? When companies gather
-data about consumers, is that simply an inevitable precursor to online
-advertising and internet corporations’ soaring profits?"
+"@RichPuchalsky@kolektiva.social
+
+@olimould It wasn't that literally nothing happened: a journalist
+pursuing a story from the papers was assassinated. Then nothing
+happened"
 
 ---
 
-Interesting.. Slavic style sauerkraut does not require a mash step?
-They just add salted water on top, wait and that's it.  The other
-method ferments in its natural brine. Which one makes better SK?
-Needs testing.
+"@olimould@mas.to
+
+Remember when the Panama Papers came out? Remember that it evidenced a
+global network of tax-dodging, wealth-hoarding, criminal activity by
+the super-rich? Remember how literally nothing happened?"
 
 ---
 
-Be gone.. and when you're gone, stay gone
+Most of it is chick music.. And spefically white chick music. Any
+random song from Beyonce, Rhianna is catchier. Where's her Deja Vu,
+Halo, or that mad dance tune they go like uh oh, uh oh uh oh, oh and
+shaking booty? Sad.
+
+The Voyager: "Taylor Swift is the most overrated singer of our
+generation... A lot of her fans are obsessive and, let´s be completely
+honest, some of her songs are problematic and honestly overall, pretty
+mediocre"
 
 ---
 
-Fuuuck off..
-
-"Rupert Murdoch Finally Stepping Down From Fox and News Corp"
+Yahoo News: "Trump tells autoworkers EV push will 'kill' jobs"
 
 ---
 
-The Lost Supper - nice
-
-The Vancouver Sun: "Flavours of the past could help with the future of
-food and well-being.. New book *The Lost Supper* travels back in time
-to serve up a full meal of alternatives to industry-produced foods"
-
----
-
-FuelCellsWorks: "Haffner Energy Wins The Energy Decarbonization Prize
-At The INOVANA Regional Contest For Its HYNOCA® Solution"
-
-<img width='340' src='https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/111/103/372/712/003/803/original/d564b94adfaa67e8.png'/> 
+ABC News Australia: "Townsville is emerging as Australia's new Army
+capital with hundreds of soldiers to be relocated to north Queensland
+over coming years, while Adelaide becomes the home of advanced
+land-based, long-range strike capabilities"
 
 ---
 
-Vanity Fair: "[08/05] Ron DeSantis’s Largest Donor Closes His Wallet,
-Citing Abortion 'Extremism'.. Robert Bigelow donated $20 million to a
-pro-DeSantis Super PAC—more than 10 times the fund’s second-largest
-donation. But he says he won’t be giving any more until the Florida
-governor moderates his campaign"
-
----
-
-The new abortion angle can work, it has some basis within Reps.
-
----
-
-Politico: "Trump steamrolls anti-abortion groups.. Donald Trump’s
-recent moderate turn on abortion has boxed-in the deep-pocketed
-anti-abortion groups... In just the last week, Donald Trump called
-Florida’s six-week abortion ban 'terrible,' refused to endorse
-national restrictions, blamed abortion opponents for Republicans’ 2022
-election disappointments and pledged to compromise with Democrats on
-the issue if elected. Anti-abortion groups can’t agree on what to do
-about it"
-
----
-
-Green Car Congress: "DOE to award nearly $48M to 16 projects to
-advance clean hydrogen technologies"
-
----
-
-The Sydney Morning Herald: "A group of Australian politics, backed by
-the Prime Minister, are calling for Wikileaks founder Julian Assange
-to be freed from US prison".
-
----
-
-Fox News: "A cross-party delegation of Australian politicians met with
-U.S. officials, members of Congress and civil rights groups in
-Washington, D.C., Wednesday to urge the U.S. government to abandon
-efforts to prosecute WikiLeaks founder Julian Assange.. The delegation
-brought a letter signed by more than 60 members of parliament calling
-on the U.S. to drop charges against Assange"
-
----
-
-AP: "Poland is done sending arms to Ukraine, Polish leader says as
-trade dispute escalates"
+Creating more businesses isn't the solution to our problems.. Too much
+business creation *is* the problem.
 
 ---
 
@@ -199,8 +147,5 @@ Also on
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
 
 <img src='https://drive.google.com/uc?export=view&id=1zsIeciFSvlr-sWB84Tc0mfZ_NYqn9VQx'/> 
-
-
-
 
 
