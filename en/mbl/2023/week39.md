@@ -1,6 +1,190 @@
 # Week 39
 
 
+Firstpost: "China has asked all tech companies operating in China to
+submit a whole bunch of documents and information regarding their app
+stores. As a result, over 26 app stores have registered themselves,
+barring Apple. Because of this, Apple's App Store may become illegal"
+
+---
+
+Reuters: "UK and Germany partner to further advance hydrogen
+developments... A new important agreement between the UK and Germany
+could help to accelerate the development of an international hydrogen
+industry..  Signed at the UK Embassy in Berlin.. a Joint Declaration
+of Intent will see the UK and Germany work together to underpin the
+international trade in hydrogen...
+
+The partnership follows significant investment by both countries in
+the development of hydrogen as an alternative fuel. In the UK, the
+government is supporting new low-carbon hydrogen production with
+capital from the £240 million Net Zero Hydrogen Fund and revenue
+support from the Hydrogen Production Business Model"
+
+---
+
+FuelCellsWorks: "Morocco Aspires To Become A Significant Player In
+Green Hydrogen"
+
+<img width='340' src='https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/111/142/865/355/446/349/original/afa8e7e9fc4276d5.png'/> 
+
+---
+
+"Hydrogen refuelling stations, buses operational in Peninsular
+Malaysia next year"
+
+---
+
+Route One: "Wrightbus work with Sizewell C could see 150 hydrogen bus
+fleet"
+
+---
+
+"@Brett_E_Carlock@mastodon.online
+
+The absolute misery and struggles I had teaching basic file management
+to students back even in like 2015 who had no idea that a file had to
+exist somewhere when downloaded, and you need to open files to work
+with them in a GUI tool...
+
+I felt bad because we wasted so much effort on this at the expense of
+later topics in \#GIS"
+
+---
+
+"@SwiftOnSecurity@infosec.exchange
+
+UX designers who eliminated the filesystem from user consciousness in
+name of simplicity ruined the world and are morally culpable for
+shriveling minds of children who are unable to tackle the challenges
+of today thanks to a choice sold as advocacy for the user but was
+ultimately motivated by control of a disempowered customer"
+
+---
+
+F24: "With fentanyl, the cartels no longer needed to grow opium or
+rely on rural communities to produce it. Fentanyl is lightweight,
+discreet and easy to produce and transport. It can be passed off as a
+harmless pill, which explains the high number of deaths from
+overdoses. Just one fentanyl tablet can kill – and it's doing so
+increasingly frequently around the American continent"
+
+---
+
+That didn't take long
+
+WSJ: "Lina Khan Has a Weak Case Against Amazon"
+
+---
+
+Mother Jones: "Rich Americans Are Stiffing the Taxman to the Tune of
+$66 Billion... Sen. Ron Wyden want the IRS to go after every last one
+of them"
+
+---
+
+"The deGoogled Murena Fairphone 4 is the first.. privacy conscious and
+sustainable phone. Powered by the revolutionary /e/OS operating
+system, this device is your shield against Google's constant data
+collection. Enjoy the benefits of a smart device without the
+surveillance, putting you back in control of your personal data. 
+
+<img width='200' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNZZCXytR2BmGYaQWCxazZy2qLKYHSEUqxzwiegk3-34CVJYNo_J1r6cxaWJmvbHHri3A&usqp=CAU'/> 
+
+Like all Fairphone phones, it is built to last with its modular and
+repairable design. It features a removable 3905 mAh rechargeable
+battery. You can swap out the battery or the display on your own. No
+part of Murena Fairphone 4 is glued shut, so you can choose to easily
+repair it yourself with a standard screwdriver"
+
+---
+
+The Telegraph: "[The plan is] Milford Haven will be invented as a
+powerhouse of hydrogen production, carbon capture and offshore wind
+power as part of the shift to net zero. 'Right now, we’re sitting on
+the horizon of a new epoch in the waterway’s history,' says.. chief
+executive of the port of Milford Haven. 'It’s a really big opportunity
+for us - and everyone here gets that'"
+
+---
+
+Bama wasn't a bad president.. But he wasn't a good one either. Just a
+boring average like many others before him. This spoon feeding must
+end.
+
+---
+
+The US gov need for integration is real. It is part of their
+legitimacy offering. Remember how waspy wasp Judge Robers bent over
+backwards to make ACA work.
+
+---
+
+Whenever something doesn't make sense on a per-case basis, look for
+deeper psychological drives... BEV tech makes no sense, the reason for
+its FOMO is spoon feeding per below. Shoddy businessman, even worse
+techy half-brained cunt [e-jagoff](../2022/ejagofftrump.jpeg) always
+manages to stay around because he was blessed by the First Black President™,
+in person. Assange was put through hell, more than any human being deserves,
+because he made the First Black President™ and his admin look bad.
+
+---
+
+Pushing for battery-electric cars is a fool's errand - there isn't
+enough lithium in the world to shift even a quarter of all cars to
+BEV.
+
+This tech has been limping forward only due to Dems' efforts to spoon
+feed Obama his legacy. He'd pushed for this tech and the "First Black
+President™" muuust haaaave a leeeeegacy, so Dems after him keep
+promoting this shit.
+
+---
+
+"@RichPuchalsky@kolektiva.social
+
+@olimould It wasn't that literally nothing happened: a journalist
+pursuing a story from the papers was assassinated. Then nothing
+happened"
+
+---
+
+"@olimould@mas.to
+
+Remember when the Panama Papers came out? Remember that it evidenced a
+global network of tax-dodging, wealth-hoarding, criminal activity by
+the super-rich? Remember how literally nothing happened?"
+
+---
+
+Most of it is chick music.. And spefically white chick music. Any
+random song from Beyonce, Rhianna is catchier. Where's her Deja Vu,
+Halo, or that mad dance tune they go like uh oh, uh oh uh oh, oh and
+shaking booty? Sad.
+
+The Voyager: "Taylor Swift is the most overrated singer of our
+generation... A lot of her fans are obsessive and, let´s be completely
+honest, some of her songs are problematic and honestly overall, pretty
+mediocre"
+
+---
+
+Yahoo News: "Trump tells autoworkers EV push will 'kill' jobs"
+
+---
+
+ABC News Australia: "Townsville is emerging as Australia's new Army
+capital with hundreds of soldiers to be relocated to north Queensland
+over coming years, while Adelaide becomes the home of advanced
+land-based, long-range strike capabilities"
+
+---
+
+Creating more businesses isn't the solution to our problems.. Too much
+business creation *is* the problem.
+
+---
+
 "jmtixhon@jmtixhon@mastodon.world
 
 Major Global Truck OEM To Expand Fueling Network With PowerTap And Its

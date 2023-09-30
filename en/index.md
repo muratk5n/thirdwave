@@ -1,103 +1,104 @@
 
-"The deGoogled Murena Fairphone 4 is the first.. privacy conscious and
-sustainable phone. Powered by the revolutionary /e/OS operating
-system, this device is your shield against Google's constant data
-collection. Enjoy the benefits of a smart device without the
-surveillance, putting you back in control of your personal data. 
+Truck News: "Hydrogen-powered Daimler truck passes 1,000 km on single
+fill"
 
-<img width='200' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNZZCXytR2BmGYaQWCxazZy2qLKYHSEUqxzwiegk3-34CVJYNo_J1r6cxaWJmvbHHri3A&usqp=CAU'/> 
-
-Like all Fairphone phones, it is built to last with its modular and
-repairable design. It features a removable 3905 mAh rechargeable
-battery. You can swap out the battery or the display on your own. No
-part of Murena Fairphone 4 is glued shut, so you can choose to easily
-repair it yourself with a standard screwdriver"
+<img width='340' src='https://a.mindlycdn.com/cache/preview_cards/images/009/765/466/original/08b1c18f4b529326.jpg'/> 
 
 ---
 
-The Telegraph: "[The plan is] Milford Haven will be invented as a
-powerhouse of hydrogen production, carbon capture and offshore wind
-power as part of the shift to net zero. 'Right now, we’re sitting on
-the horizon of a new epoch in the waterway’s history,' says.. chief
-executive of the port of Milford Haven. 'It’s a really big opportunity
-for us - and everyone here gets that'"
+FuelCellsWorks: "AMSL Aero, An Australian Portfolio Company Of IP Group Plc,
+Successfully Conducts Its First Test Flight Of A Hydrogen-Powered Air
+Taxi"
 
 ---
 
-Bama wasn't a bad president.. But he wasn't a good one either. Just a
-boring average like many others before him. This spoon feeding must
-end.
+In the lands they migrated to later, such as the US, they were
+assimilated just like Irish, Polish, Africans had been and became
+natives after one generation. It is all about the mainstream culture -
+heritage means nothing.
 
 ---
 
-The US gov need for integration is real. It is part of their
-legitimacy offering. Remember how waspy wasp Judge Robers bent over
-backwards to make ACA work.
+Palestinian leader Abbas' claims were not baseless. Isaac Asimov wrote
+in his biography *It's Been a Good Life* he himself might not be
+connected to ancient Israel at all. East European Jews are mostly from
+today's southern Russia, and they took up Judaism as the state
+religion "[probably] to keep from falling under the influence of
+either the Byzantine Christians or the Arab Moslems, who were busily
+engaged in the first part of their centuries-long duel". Theirs was a
+tactical conversion, had no relation to the Middle East, therefore
+their descendants' Semitic connection would be in question. People who
+arrived into modern Israel have grandiose claims that aren't
+correct. Their grandfathers [did not](2020/06/10-myths-israel.html#samejew)
+"leave the ancient lands" so their descendants are not "coming back" to
+anything..  They are pretenders, squatters in a land that was never theirs.
 
 ---
 
-Whenever something doesn't make sense on a per-case basis, look for
-deeper psychological drives... BEV tech makes no sense, the reason for
-its FOMO is spoon feeding per below. Shoddy businessman, even worse
-techy half-brained cunt [e-jagoff](mbl/2022/ejagofftrump.jpeg) always
-manages to stay around because he was blessed by the First Black President™,
-in person. Assange was put through hell, more than any human being deserves,
-because he made the First Black President™ and his admin look bad.
+Do you prefer your shelves empty, or under lock and key (the latter
+obviously being sign of inequality). Could there be a system where
+shelves are somewhat full, and people are not looting?
 
 ---
 
-Pushing for battery-electric cars is a fool's errand - there isn't
-enough lithium in the world to shift even a quarter of all cars to
-BEV.
+Hahah \#Cuba \#America
 
-This tech has been limping forward only due to Dems' efforts to spoon
-feed Obama his legacy. He'd pushed for this tech and the "First Black
-President™" muuust haaaave a leeeeegacy, so Dems after him keep
-promoting this shit.
+[[-]](https://cdn.fosstodon.org/media_attachments/files/111/154/309/216/442/931/original/e407c412c097121a.jpg)
 
 ---
 
-"@RichPuchalsky@kolektiva.social
-
-@olimould It wasn't that literally nothing happened: a journalist
-pursuing a story from the papers was assassinated. Then nothing
-happened"
+I ain't gettin quelled mfker.. We speaka here no matter what
 
 ---
 
-"@olimould@mas.to
+There were claims back in 2022 MM was mad at the admin on the Ukraine policy and [leaked](https://www.nytimes.com/2022/11/10/us/politics/biden-ukraine-russia-diplomacy.html)
+to NYT about his own position.. That could be true - but the admin
+itself could have told Milley to leak so that outside observers would
+know gov is hearing all viewpoints, in a way to quell fears they
+weren't completely gung-ho. 
 
-Remember when the Panama Papers came out? Remember that it evidenced a
-global network of tax-dodging, wealth-hoarding, criminal activity by
-the super-rich? Remember how literally nothing happened?"
-
----
-
-Most of it is chick music.. And spefically white chick music. Any
-random song from Beyonce, Rhianna is catchier. Where's her Deja Vu,
-Halo, or that mad dance tune they go like uh oh, uh oh uh oh, oh and
-shaking booty? Sad.
-
-The Voyager: "Taylor Swift is the most overrated singer of our
-generation... A lot of her fans are obsessive and, let´s be completely
-honest, some of her songs are problematic and honestly overall, pretty
-mediocre"
+WSJ: "Gen. Mark Milley to step aside as new Joint Chiefs chair takes command"
 
 ---
 
-Yahoo News: "Trump tells autoworkers EV push will 'kill' jobs"
+Tadella Nutella - he doesn't fool around
+
+WION: "Microsoft CEO Satya Nadella set to testify against Google in
+antitrust trial"
 
 ---
 
-ABC News Australia: "Townsville is emerging as Australia's new Army
-capital with hundreds of soldiers to be relocated to north Queensland
-over coming years, while Adelaide becomes the home of advanced
-land-based, long-range strike capabilities"
+You see who calls the shots in US, business wants cheap workers they
+get cheap workers. They turned politicians into their bitch. And as
+long as there is demand for cheap labor, people will keep coming.
 
 ---
 
-Creating more businesses isn't the solution to our problems.. Too much
-business creation *is* the problem.
+Gaetz says some Reps for E-verify changed their minds within a day, he
+supports it even against big business, the measure will help US
+workers. That makes sense.
+
+---
+
+The sim [site](https://coastal.climatecentral.org/). South Florida,
+Lousiana, NY are in trouble.
+
+---
+
+Shared a 7m sea level rise simulation before, that NY area under water
+now in Brooklyn is [in red](mbl/2023/searise2.jpg). If a place can get
+flooded by extreme water events today, after sea rises it will remain
+flooded for good. Flooding today is a sign of permanent burial
+tomorrow.  Heed the warning and bolt.
+
+---
+
+"@luckytran@med-mastodon.com
+
+Huge storm and flooding in NYC today. This is 4th Ave and Carroll St
+in Brooklyn, which is near Gowanus Canal"
+
+[[-]](https://med-mastodon.com/@luckytran/111149023694382666)
 
 ---
 

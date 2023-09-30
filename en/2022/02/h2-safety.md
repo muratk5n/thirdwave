@@ -95,11 +95,11 @@ researcher [4].
 
 Reference
 
-[1] https://www.caryinstitute.org/news-insights/blog-translational-ecology/hydrogen-fuels
+[1] [Cary Institute](https://www.caryinstitute.org/news-insights/blog-translational-ecology/hydrogen-fuels)
 
 [2] https://en.wikipedia.org/wiki/Atmospheric_escape
 
-[3] https://www.sciencedirect.com/science/article/abs/pii/S036031990200157X
+[3] [Sciencedirect](https://www.sciencedirect.com/science/article/abs/pii/S036031990200157X)
 
-[4] https://hydrogen-central.com/mixing-diesel-hydrogen-provides-big-cuts-emissions-ars-technica/
+[4] [H2 Central](https://hydrogen-central.com/mixing-diesel-hydrogen-provides-big-cuts-emissions-ars-technica/)
 
