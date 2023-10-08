@@ -213,19 +213,6 @@ word WOG.
 
 ---
 
-"@Hy_Economy@mastodon.social
-
-The oil refinery in Schwedt, Germany, plans, together with the energy
-company Enertrag, to gradually switch production from oil refining to
-green #hydrogen and e-fuels. The first step with the production of
-30,000 t/a is planned for 2027.
-
-The region has a good renewable energy potential and furthermore, the
-gas pipelines Eugal and Opal are available and they can be retrofitted
-to green #hydrogen transport - plans for this have been revealed"
-
----
-
 "SpaceX launches so far caused pollution equivalent to 17,000 car GHG
 emissions in a year"
 
@@ -295,15 +282,6 @@ unlock the Gulf’s potential to provide low-carbon hydrogen – green or
 blue – to Europe"
 
 [[-]](https://www.energyvoice.com/renewables-energy-transition/hydrogen/europe-hydrogen/511315/gulf-europe-hydrogen-pipe-feasible-consultants/)
-
----
-
-"@Hy_Economy@mastodon.social
-
-More support for #hydrogen: 
-
-South Africa, the Netherlands and Denmarkt start a fund with €1 bn to
-support green #hydrogen projects in South Africa"
 
 ---
 
@@ -490,22 +468,6 @@ All code used here is freely available on the same repo of this blog. The
 `u.` calls assume `import util as u` which for each year's microblogging
 archive is under `mbl/[year]/` e.g. for `eq_at` usage see this year's [code](https://github.com/muratk5n/thirdwave/blob/master/en/mbl/2023/util.py)
 and look for `def eq_at`. 
-
----
-
-"Hy_Economy@mastodon.social
-
-DB Cargo (German Railway) is preparing for large-scale #hydrogen
-transport/distribution.
-
-They state that they can already transport 20 TWh of hydrogen via rail
-today.
-
-Germany is expected to require up to 110 TWh/a of hydrogen by 2030"
-
-<img width='340' src='https://files.mastodon.social/media_attachments/files/110/598/723/184/463/364/small/784cb0a9ca6cb941.png'/> 
-
-[[-]](https://mastodon.social/@Hy_Economy/110598723606367284)
 
 ---
 

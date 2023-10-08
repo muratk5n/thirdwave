@@ -47,15 +47,6 @@ H2 Central: "New Mexico Puts in Bid for $1,25 Billion Hydrogen Grant"
 
 ---
 
-"@Hy_Economy@mastodon.social
-
-Rebus, northern Germany, has ordered 52 \#hydrogen buses.  Besides the
-higher range, one of the main reasons was that filling infrastructure
-was easier to implement than charging infrastructure - they only need
-2 hydrogen stations for their fleet"
-
----
-
 Global Fleet: "China is becoming the grandmaster in hydrogen
 power.. China plans to produce up to 200,000 tons of green hydrogen by
 2025, produced 100% from renewable energies, and market demand to hit
@@ -335,15 +326,6 @@ and unlike most galaxies of its kind, this one is old"
 
 Wärtsilä, Höegh LNG and partners receive funding of €5.9M to develop
 ammonia as hydrogen carrier"
-
----
-
-"@Hy_Economy@mastodon.social
-
-New funding round for hydrogen stations in Germany has started. The
-maximum subsidy is 80% of the costs (likely Capex). Further rounds
-will come with the aim of building more than 100 stations for trucks
-and buses (cars can use them as well)"
 
 ---
 

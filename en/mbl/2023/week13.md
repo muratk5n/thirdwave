@@ -372,14 +372,6 @@ electricity to power battery EVs"
 
 ---
 
-"@Hy_Economy@mastodon.social
-
-Snam, an Italian gas midstream company, plans to transport the
-\#hydrogen from Africa to Austria in Germany via pipeline.  They plan
-up to 1.7 million tons per year"
-
----
-
 "@eunews@mstodon.eu
 
 Denmark and Germany announce plans for hydrogen pipeline"

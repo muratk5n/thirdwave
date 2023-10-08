@@ -55,21 +55,6 @@ of each fight with those of the other"
 
 ---
 
-"@Hy_Economy@mastodon.social
-
-Big \#Hydrogen pipeline project north-south link: 
-
-- Gasunie & Thyssengas - connect Wilhelmshaven H₂ hub and Norwegian H₂
-  pipeline with chemical cluster Cologne ⇾ possible extension to
-  southern Germany.
-
-- North: Connect with west-east hyperlink from the Netherlands to
-  Salzgitter, with a possible extension to Berlin.
-
-- South: connect with GetH2 cluster and the Netherlands in Vlieghuis"
-
----
-
 CNBC: "The U.S. and China met to discuss the 'spy balloon.' Their
 statements afterward were very different"
 
@@ -412,12 +397,6 @@ to produce hydrogen started construction in Ordos, Inner Mongolia
 autonomous region on Wednesday... It is being built by Sinopec.. the
 world's largest refiner by volume and the country's biggest geothermal
 developer"
-
----
-
-"@Hy_Economy@mastodon.social
-
-Aschaffenburg, Germany, ordered 12 hydrogen buses"
 
 ---
 

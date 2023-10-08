@@ -59,14 +59,6 @@ the population said Britain was “wrong” to vote to leave the EU in
 
 ---
 
-"@Hy_Economy@mastodon.social
-
-Shanxi Pengfei Group's first batch of 100 \#hydrogen FC heavy trucks
-was officially put into pilot operation in Xiaoyi City, Shanxi
-Province."
-
----
-
 Saved the best for last (top section)
 
 [[-]](../../0119/2018/09/junk-science.html)
@@ -115,14 +107,6 @@ fraud. GTFO"
 
 ---
 
-"@Hy_Economy@mastodon.social
-
-German gas company VNG AG and French renewable independent power
-producer (IPP) Total Eren have joined forces to import and sell green
-ammonia to Europe"
-
----
-
 Korea JoonAng Daily: "[H2] economy to get a big [SK] government
 boost.. [gov] said it is taking more aggressive steps than the Moon
 Jae-in administration in terms of the hydrogen economy in its support
@@ -144,12 +128,6 @@ self-sufficient power supply. But conventional battery storage is not
 designed to store the self-generated electricity for months. [The
 German start-up Home Power Solutions] has developed a system that can
 store excess electricity in the form of hydrogen for months"
-
----
-
-"@Hy_Economy@mastodon.social
-
-'Linde starts green hydrogen production in Greece'"
 
 ---
 
@@ -319,14 +297,6 @@ unnecessarily complex procedure) but "it worked" so at that point you
 had to "shut up and compute".
 
 [[-]](../../2022/10/qed.html)
-
----
-
-"@Hy_Economy@mastodon.social
-
-Stadler has announced that it has signed a [MOU] with Amtrak
-California for the first four hydrogen train orders, which will be
-followed by as many as 29 more"
 
 ---
 

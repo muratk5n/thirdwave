@@ -156,15 +156,6 @@ the topic of peace negotiations in November"
 
 ---
 
-"@Hy_Economy@mastodon.social
-
-Airbus and EasyJet start the alliance 'Hydrogen in Aviation'. They
-plan to ensure infrastructure and the regulatory framework are ready
-when the planes are ready.  Furthermore, EasyJet wants to be the first
-one to operate Airbus #hydrogen airplanes" via airliners.de
-
----
-
 "@openstreetmap@en.osm.town
 
 It's now even easier to donate to #OpenStreetMap! Thanks to Guillaume

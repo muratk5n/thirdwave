@@ -170,13 +170,6 @@ Living in the Future's Past - Documentary, Jeff Bridges
 
 ---
 
-"@Hy_Economy@mastodon.social
-
-'A fleet of 40 FC King Long buses are scheduled to be operational
-before the Chinese Spring Festival in Muyang City, Jiangsu Province'"
-
----
-
 Verification for the "new social media" will be easy - governments run
 their own MD servers, whoever they give usernames to are automatically
 verified. For celebrities, or other notable characters for-profit servers
@@ -404,15 +397,6 @@ Hydrogen by 2030" via [TIME](https://time.com/6244782/india-2-billion-green-hydr
 
 India approves national green hydrogen mission, adding 125GW of
 renewables by 2030"
-
----
-
-"@Hy_Economy@mastodon.social
-
-Big \#hydrogen + ammonia subsides expected in Japan: 'The plan
-proposed that the Japanese government would subsidize the difference
-in price between the two substances (hydrogen and ammonia) and
-existing fuels (fossil fuels) for 15 years'" via The Diplomat
 
 ---
 

@@ -1,6 +1,5 @@
 # Week 39
 
-
 Firstpost: "China has asked all tech companies operating in China to
 submit a whole bunch of documents and information regarding their app
 stores. As a result, over 26 app stores have registered themselves,
@@ -392,7 +391,7 @@ fools chasing FOMO, some people could've made good money shorting that mean
 reversion, bcz it all went back to the level suggested by the FED balance
 sheet.
 
-<img width='250' src='2021/01/fedbalance.jpg'/> 
+<img width='250' src='../../2021/01/fedbalance.jpg'/> 
 
 ---
 
@@ -679,5 +678,3 @@ bufoons without any shred of econ knowledge.
 I don't understand, I added blockchain to it but I'm still not rich"
 
 ---
-
-

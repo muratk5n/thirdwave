@@ -284,13 +284,6 @@ point' in relations with Japan"
 
 ---
 
-"@Hy_Economy@mastodon.social
-
-\#Hydrogen could soon be the cheapest fuel for trucks, according to
-the German business paper *Handelsblatt*"
-
----
-
 H2 Bulletin: "South Korea plans to convert more than 250 commuter
 buses intro hydrogen-fuelled buses by this year and more than 2,000 by
 2026, in a concerted effort to raise the uptake of hydrogen vehicles"

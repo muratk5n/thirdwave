@@ -360,14 +360,6 @@ suitable for those interests becomes the contrarian viewpoint.
 
 ---
 
-"@Hy_Economy@mastodon.social
-
-Weimar, Germany, plans to replace all of their 37 buses with #hydogen
-buses - the first three will arrive soon... They plan to use locally
-produced green hydrogen to power the vehicle fleet"
-
----
-
 H2 View: "Uniper, Shell announce contracts for blue hydrogen plans in Humber, UK"
 
 ---

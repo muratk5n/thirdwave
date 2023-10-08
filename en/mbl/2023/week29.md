@@ -103,18 +103,6 @@ Reuters: "Toyota targets Europe, China in hydrogen sales pivot"
 
 ---
 
-"@Hy_Economy@mastodon.social
-
-German \#hydrogen pipeline network:
-
-- The German core \#hydrogen pipeline network is planned to be 11,200
-  km long.
-
-- More than 50% of the planned core network is supposed to consist of
-  retrofitted natural gas pipelines" via NTV
-
----
-
 Reuters: "UAE's revised energy strategy includes big hydrogen
 plans.. The United Arab Emirates aims to produce 1.4 million tonnes of
 hydrogen annually by 2031 and expects the figure to increase tenfold

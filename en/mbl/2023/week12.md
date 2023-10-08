@@ -539,19 +539,6 @@ Stanpoli is not doing good.
 
 ---
 
-"@Hy_Economy@mastodon.social
-
-A several-year-long technical and economical assessment concluded that
-the whole German gas pipeline network is suitable for transporting
-\#hydrogen.
-
-This assessment included 30 types of steel used in the German network.
-
-The German Chancellor, the Economic minister and the finance minister
-have been informed about the results" via Die Welt
-
----
-
 Future Meat, The world of meat substitutes, \#DW
 
 [[-]](https://youtu.be/5Vq03gYWiXE?t=1273)

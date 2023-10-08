@@ -406,14 +406,6 @@ major exporter" via Reuters
 
 ---
 
-"@Hy_Economy@mastodon.social
-
-'The largest PEM electrolyzer in China started operation at
-Zhongyuan oilfield. The electrolyzer was installed by Sinopec with a
-daily production capacity for green H₂ of 1.12 tons.'"
-
----
-
 "@nancylwayne@mastodon.social
 
 Need a bit of GOOD news? 'A research team.. is introducing in a new
@@ -435,14 +427,6 @@ bomber planes lifting off from nearby US carrier - it sank.
 \#Dracula
 
 [[-]](https://pbs.twimg.com/media/E68nSX1VUAABodE?format=jpg&name=small)
-
----
-
-"@Hy_Economy@mastodon.social
-
-'VisionHydrav (雄涛氢雄) is known to have reached an agreement with
-Rongtong Auto Group to jointly deploy 500 fuel-cell shuttle buses to
-Wuhan Iron & Steel. The first batch is said to have been delivered.'"
 
 ---
 

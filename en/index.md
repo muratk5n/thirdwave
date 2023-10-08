@@ -1,104 +1,67 @@
 
-Truck News: "Hydrogen-powered Daimler truck passes 1,000 km on single
-fill"
+"@halcy@icosahedron.website
 
-<img width='340' src='https://a.mindlycdn.com/cache/preview_cards/images/009/765/466/original/08b1c18f4b529326.jpg'/> 
-
----
-
-FuelCellsWorks: "AMSL Aero, An Australian Portfolio Company Of IP Group Plc,
-Successfully Conducts Its First Test Flight Of A Hydrogen-Powered Air
-Taxi"
+.. it's genuinely hilarious that literally all of the companies who
+claim to need all your data so they can hyperpersonalize ads for you
+that they say will then somehow work better than normal,
+don't-need-to-know-the-name-of-your-firstborn-child ads are, very
+obviously, utterly shit at actually personalizing anything based on
+data"
 
 ---
 
-In the lands they migrated to later, such as the US, they were
-assimilated just like Irish, Polish, Africans had been and became
-natives after one generation. It is all about the mainstream culture -
-heritage means nothing.
+"@primonatura@mstdn.social
+
+'Wasted food – if it were a country – would be the third largest
+source of greenhouse gas emissions in the world, according to the UN’s
+Food and Agriculture Organization'"
 
 ---
 
-Palestinian leader Abbas' claims were not baseless. Isaac Asimov wrote
-in his biography *It's Been a Good Life* he himself might not be
-connected to ancient Israel at all. East European Jews are mostly from
-today's southern Russia, and they took up Judaism as the state
-religion "[probably] to keep from falling under the influence of
-either the Byzantine Christians or the Arab Moslems, who were busily
-engaged in the first part of their centuries-long duel". Theirs was a
-tactical conversion, had no relation to the Middle East, therefore
-their descendants' Semitic connection would be in question. People who
-arrived into modern Israel have grandiose claims that aren't
-correct. Their grandfathers [did not](2020/06/10-myths-israel.html#samejew)
-"leave the ancient lands" so their descendants are not "coming back" to
-anything..  They are pretenders, squatters in a land that was never theirs.
+CNN: "Biden cancels another $9 billion in student loan debt days after
+payments restart"
 
 ---
 
-Do you prefer your shelves empty, or under lock and key (the latter
-obviously being sign of inequality). Could there be a system where
-shelves are somewhat full, and people are not looting?
+\#Connover \#Hustle
+
+[[-]](https://youtu.be/mcgC-kuPEuo?t=28)
 
 ---
 
-Hahah \#Cuba \#America
+Vertical Farm Daily: "Why the growth cycle of rice can be [cut] in
+half.. Can rice grow normally in a closed environment without sunlight
+and soil? The Institute of Urban Agriculture of the Chinese Academy of
+Agricultural Sciences and a team led by Qian Qian, an academic from
+the Chinese Academy of Sciences and deputy director of the China
+National Rice Research Institute, found the answer.
 
-[[-]](https://cdn.fosstodon.org/media_attachments/files/111/154/309/216/442/931/original/e407c412c097121a.jpg)
-
----
-
-I ain't gettin quelled mfker.. We speaka here no matter what
-
----
-
-There were claims back in 2022 MM was mad at the admin on the Ukraine policy and [leaked](https://www.nytimes.com/2022/11/10/us/politics/biden-ukraine-russia-diplomacy.html)
-to NYT about his own position.. That could be true - but the admin
-itself could have told Milley to leak so that outside observers would
-know gov is hearing all viewpoints, in a way to quell fears they
-weren't completely gung-ho. 
-
-WSJ: "Gen. Mark Milley to step aside as new Joint Chiefs chair takes command"
+After planting rice and growing it in a closed environment for 63
+days, the rice produced full branches, which is more than half the
+time it takes to grow rice in an open-field environment. "This is a
+subversive breakthrough in the history of rice cultivation," Qian Qian
+said"
 
 ---
 
-Tadella Nutella - he doesn't fool around
+"@rrix@notes.whatthefuck.computer
 
-WION: "Microsoft CEO Satya Nadella set to testify against Google in
-antitrust trial"
+My friends at Consumer Reports launched Permission Slip today for iOS
+and Android. You sign up, verify your identity, and they’ll submit
+data opt out and deletion orders to data brokers and consumer
+companies on your behalf"
 
----
-
-You see who calls the shots in US, business wants cheap workers they
-get cheap workers. They turned politicians into their bitch. And as
-long as there is demand for cheap labor, people will keep coming.
+[[-]](https://www.permissionslipcr.com/)
 
 ---
 
-Gaetz says some Reps for E-verify changed their minds within a day, he
-supports it even against big business, the measure will help US
-workers. That makes sense.
-
----
-
-The sim [site](https://coastal.climatecentral.org/). South Florida,
-Lousiana, NY are in trouble.
-
----
-
-Shared a 7m sea level rise simulation before, that NY area under water
-now in Brooklyn is [in red](mbl/2023/searise2.jpg). If a place can get
-flooded by extreme water events today, after sea rises it will remain
-flooded for good. Flooding today is a sign of permanent burial
-tomorrow.  Heed the warning and bolt.
-
----
-
-"@luckytran@med-mastodon.com
-
-Huge storm and flooding in NYC today. This is 4th Ave and Carroll St
-in Brooklyn, which is near Gowanus Canal"
-
-[[-]](https://med-mastodon.com/@luckytran/111149023694382666)
+Informed Comment: "Israel’s Strategic Weaponization of Water Against
+Palestine is a War Crime.. The universal human right to water,
+ensuring “sufficient safe, acceptable, physically accessible and
+affordable water for personal and domestic uses” is a principle upheld
+by international conventions. However, in the Occupied West Bank, this
+right is systematically violated through Israel’s targeted assaults on
+civilian water infrastructure"
 
 ---
 
@@ -148,5 +111,8 @@ Also on
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
 
 <img src='https://drive.google.com/uc?export=view&id=1zsIeciFSvlr-sWB84Tc0mfZ_NYqn9VQx'/> 
+
+
+
 
 

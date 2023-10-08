@@ -84,25 +84,6 @@ taking in many cases up to six hours to burn out.'"
 
 ---
 
-"@Hy_Economy@mastodon.social
-
-'[Electric vehicles need a] connection to the grid that can handle
-more than 5 megawatts takes up to eight years to build, at a cost tens
-of millions of dollars.'
-
-H2 trucks don't need grid upgrades"
-
----
-
-"@Hy_Economy@mastodon.social
-
-Germany will make another 550 million Euro available for
-\#hydrogen. The funds will support the development of hydrogen
-infrastructure in developing countries. Together with KfW loans 2.5
-billion could be made available in total"
-
----
-
 The Monarchy \#JohnOliver
 
 [[-]](https://youtu.be/KWterDbJKjY)
@@ -451,12 +432,6 @@ trains, and planes"
 
 ---
 
-"@Hy_Economy@mastodon.social
-
-Duisburg, Germany, plans to buy 100 \#hydrogen buses until 2030"
-
----
-
 H2 Fuel News: "Clean hydrogen production breakthrough made by Israeli
 Scientists.. Yochelis and.. Rothschild think they have discovered new
 pathways using photoelectrochemistry.. that quicken the catalytic
@@ -522,12 +497,6 @@ Stating the obvious
 
 "Brainard: It appears that cryptocurrency is not decentralised, but
 rather extremely concentrated and interconnected"
-
----
-
-"@Hy_Economy@mastodon.social
-
-China may add 106 #hydrogen refueling stations in 2022"
 
 ---
 

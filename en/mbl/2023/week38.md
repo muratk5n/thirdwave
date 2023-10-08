@@ -1,15 +1,5 @@
 # Week 38
 
-
-"@Hy_Economy@mastodon.social
-
-\#Hydrogen Aeroplanes: H2fly starts the development of a 40-seater
-plane powered by liquid H2 after a successful recent test
-flight. Interesting competition for commercial H2 airplanes between
-H2fly, Zero Avia and Universal Hydrogen.
-
----
-
 CleanTechnica: "ABB has secured a complete power, propulsion and
 automation systems order for Samskip Group's hydrogen-powered
 container vessels.. which are among the first in the world to

@@ -109,16 +109,6 @@ the European market"
 
 ---
 
-"@Hy_Economy@mastodon.social
-
-New \#hydrogen pipeline planned in Germany:
-
-Hyperlink III is supposed to connect Denmark with Hamburg, Germany.
-
-It is planned to be operational by 2030"
-
----
-
 BH theory rests on presence of singularities.. But as the author
 suggests whereever u look in the sky and take a measurement you always
 get a number, never a "singularity measurement". It doesn't mean the
@@ -335,17 +325,6 @@ Advance Clean Hydrogen Technologies"
 
 ---
 
-"@Hy_Economy@mastodon.social
-
-Destinus from Switzerland has successfully tested a prototype for
-their planned #hydrogen-powered hypersonic jet.
-
-The unmanned prototype has reached a speed of 250 km/h showing the
-functionality of the hydrogen afterburner according to their
-statements"
-
----
-
 Sailfish has accessible Unix
 
 Nokiamob: "A subsidiary of the Russian state company Rostec called
@@ -421,13 +400,6 @@ videos.
 
 Bloomberg: "Billion-Dollar ‘Pink Hydrogen’ Plan on Hold as US Weighs
 Rules"
-
----
-
-"@Hy_Economy@mastodon.social
-
-Toyota's next hydrogen powered vehicle will be
-a Crown sedan"
 
 ---
 

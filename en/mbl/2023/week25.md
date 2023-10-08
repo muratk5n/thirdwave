@@ -558,28 +558,6 @@ hydrogen fuel cell use in buses"
 
 ---
 
-"@Hy_Economy@mastodon.social
-
-Big hydrogen alliance has been formed: 
-
-RWE, BP Europa, Open Grid Europe, Thyssengas, Vonovia and Thyssenkrupp
-form an alliance to turn the German Ruhr Area (located in West
-Germany) into an model region for hydrogen"
-
----
-
-"@Hy_Economy@mastodon.social
-
-Berlin plans a local hydrogen pipeline network: 
-
-- First step 2030: Connect the 5 Berlin heating (CHP) plants. 
-
-- Later on: Connect the industry and living quarters.
-
-\#Wasserstoff #Hydrogen #GreenHydrogen #Energiewende #EnergyTransition"
-
----
-
 The inhabitants of Israel were pushed there, as part of [strategery](../../2020/06/10-myths-israel.html#uk)
 to turn it into an Anglo outpost. Their "heritage" was weaponized and
 unleashed on the Arabs. They were outsiders, [not](../../2020/06/10-myths-israel.html#samejew)

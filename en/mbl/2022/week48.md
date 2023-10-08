@@ -211,20 +211,6 @@ oil.
 
 ---
 
-"@Hy_Economy@mastodon.social
-
-Honda will launch a fuel cell electric vehicle in 2024 based on its
-bestselling CR-V crossover"
-
----
-
-"@Hy_Economy@mastodon.social
-
-The Dutch Cabinet is introducing a 22 mln euro subsidy scheme for
-additional \#hydrogen filling stations, with accompanying trucks"
-
----
-
 Drill baby drill
 
 "The U.S.-based energy company seeks to unlock geothermal energy on a
@@ -633,26 +619,6 @@ processes than cores'
 
 ---
 
-"@Hy_Economy@mastodon.social
-
-Mecklenburg-Vorpommern, Germany, will invest 560 million in \#hydrogen - 
-this is more than the 500 million Bavaria plans to invest"
-
----
-
-"@Hy_Economy@mastodon.social
-
-Apus, Germany, develops a small \#hydrogen plane. The first prototype
-should perform test flights next year.
-
-Range: 800 km
-
-Expected time for commercialization: 4 years"
-
-[[-]](https://mastodon.ie/@Hy_Economy@mastodon.social/109401192156043941)
-
----
-
 Traversal wld be breadth-first, check double visit of nodes.. Iteration
 count..? Probably [six is fine](twimg/FijVyYTXoAArlYU.jpg).
 
@@ -819,14 +785,6 @@ base data points through "feature engineering" than even simple stupid
 logistic regression will predict something. There are companies
 providing such raw, so-called touch-by-touch data. See
 [Opta](https://www.statsperform.com/opta-event-definitions/).
-
----
-
-"@Hy_Economy@mastodon.social
-
-Germany and France plan to strengthen that corporation regarding
-\#hydrogen. Part of this should be the construction of a hydrogen
-pipeline network"
 
 ---
 

@@ -182,15 +182,6 @@ in it, KDP, PUK are not getting along..
 
 ---
 
-"@Hy_Economy@mastodon.social
-
-Heating with \#hydrogen: Gerstofen, Germany, plans to blend H₂, that
-is available as waste from industrial processes, in their gas grid
-(for heating purposes).  90% of the grid are already suitable for the
-planned 7% blend"
-
----
-
 TASS: "The West may be heading for 'a catastrophic stalemate,' at
 best, for Ukraine, Sherelle Jacobs, head of the Online Comment at The
 Daily Telegraph, wrote on Monday night.
