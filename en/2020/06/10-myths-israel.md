@@ -2,7 +2,7 @@
 
 By Ilan Pappe
 
-<a name='samejew'/>
+<a name='samejew'></a>
 
 ### Myth: The Jews Were a People Without Land
 
@@ -16,7 +16,7 @@ scholarly effort has shown that the Jews of Roman Palestine remained
 on the land and were first converted to Christianity and then to
 Islam. ...
 
-<a name='uk'/>
+<a name='uk'></a>
 
 A powerful theological and imperial movement emerged [in 18820s
 Britain], that would put the return of the Jews to Palestine at the
@@ -77,7 +77,7 @@ from the British foreign secretary to the leaders of the Anglo-Jewish
 community in effect promising them full support for the creation of a
 Jewish homeland in Palestine.
 
-<a name='land'/>
+<a name='land'></a>
 
 [Some also say] Palestine was an empty land [when Jews 'came
 back']. In this story, by 1800 Palestine had become a desert, where
@@ -162,15 +162,15 @@ the Haganah, the main military wing of the Jewish community. The plan
 included the following clear reference to the methods to be employed
 in the process of cleansing the population:
 
->Destruction of villages (setting fire to, blowing up, and planting
- mines in the debris), especially those population centers which are
- difficult to control continuously …
->
->Mounting search and control operations according to the following
- guidelines: encirclement of the village and conducting a search
- inside it. In the event of resistance, the armed force must be
- destroyed and the population must be expelled outside the borders of
- the state.
+"Destruction of villages (setting fire to, blowing up, and planting
+mines in the debris), especially those population centers which are
+difficult to control continuously..
+
+Mounting search and control operations according to the following
+guidelines: encirclement of the village and conducting a search
+inside it. In the event of resistance, the armed force must be
+destroyed and the population must be expelled outside the borders of
+the state"
 
 How could the small Israeli army engage in large-scale ethnic
 cleansing operations while, from May 15, also being confronted with
@@ -224,17 +224,15 @@ temporarily in quelling the uprising ...
 
 ### Myths On Gaza
 
-<a name="hamas"/>
+<a name='hamas'></a>
 
 Hamas became a significant player on the ground in part thanks to the
 Israeli policy of encouraging the construction of an Islamic
-educational infrastructure [most likely teaching a variation of
-Ottocuck Romanized Islam] in Gaza as a counterbalance to the grip of
+educational infrastructure in Gaza as a counterbalance to the grip of
 the secular Fatah movement on the local population.
 
 In 2009, Avner Cohen, who served in the Gaza Strip around the time
 Hamas began to gain power in the late 1980s, and was responsible for
 religious affairs in the occupied territories, told the Wall Street
-Journal, 'the Hamas, to my great regret, is Israel’s creation.' ...
-
+Journal, 'the Hamas, to my great regret, is Israel’s creation.'
 

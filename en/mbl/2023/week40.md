@@ -1,5 +1,72 @@
 # Week 40
 
+
+"@halcy@icosahedron.website
+
+.. it's genuinely hilarious that literally all of the companies who
+claim to need all your data so they can hyperpersonalize ads for you
+that they say will then somehow work better than normal,
+don't-need-to-know-the-name-of-your-firstborn-child ads are, very
+obviously, utterly shit at actually personalizing anything based on
+data"
+
+---
+
+"@primonatura@mstdn.social
+
+'Wasted food – if it were a country – would be the third largest
+source of greenhouse gas emissions in the world, according to the UN’s
+Food and Agriculture Organization'"
+
+---
+
+CNN: "Biden cancels another $9 billion in student loan debt days after
+payments restart"
+
+---
+
+\#Connover \#Hustle
+
+[[-]](https://youtu.be/mcgC-kuPEuo?t=28)
+
+---
+
+Vertical Farm Daily: "Why the growth cycle of rice can be [cut] in
+half.. Can rice grow normally in a closed environment without sunlight
+and soil? The Institute of Urban Agriculture of the Chinese Academy of
+Agricultural Sciences and a team led by Qian Qian, an academic from
+the Chinese Academy of Sciences and deputy director of the China
+National Rice Research Institute, found the answer.
+
+After planting rice and growing it in a closed environment for 63
+days, the rice produced full branches, which is more than half the
+time it takes to grow rice in an open-field environment. "This is a
+subversive breakthrough in the history of rice cultivation," Qian Qian
+said"
+
+---
+
+"@rrix@notes.whatthefuck.computer
+
+My friends at Consumer Reports launched Permission Slip today for iOS
+and Android. You sign up, verify your identity, and they’ll submit
+data opt out and deletion orders to data brokers and consumer
+companies on your behalf"
+
+[[-]](https://www.permissionslipcr.com/)
+
+---
+
+Informed Comment: "Israel’s Strategic Weaponization of Water Against
+Palestine is a War Crime.. The universal human right to water,
+ensuring “sufficient safe, acceptable, physically accessible and
+affordable water for personal and domestic uses” is a principle upheld
+by international conventions. However, in the Occupied West Bank, this
+right is systematically violated through Israel’s targeted assaults on
+civilian water infrastructure"
+
+---
+
 "5G: A symptom of the Growth Death Cult.. 5G [is] a solution that is
 looking for.. a problem. And the problem is not AR, VR. The problem is
 not downloading a Netflix video in 5 seconds or 50 seconds. Because we
