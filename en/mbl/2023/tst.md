@@ -20,10 +20,10 @@ pd.set_option('display.max_columns', None)
 
 ```python
 geo = [['Main'],['Andriivka','Klischchiivka'],['Bilohorivka','Verkhnokamianske'],
-       ['Opytne'],['Bakhmut','Yahidne','Berkhivka'],['Novomykhailivka','Stepne','Marinka'],
+       ['Avdiivka','Opytne'],['Bakhmut','Yahidne','Berkhivka'],['Novomykhailivka','Stepne','Marinka'],
        ['Synkivka','Kupiansk'],['Urozhaine','Staromaiorske'],['Robotyne','Verbove','Novoprokpivka']]
        
-u.sm_plot_ukr4('ukrdata/fl-1004.csv','ukrdata/fl-0916.csv',geo,3,3,zoom=0.03,fsize=(10,10),)
+u.sm_plot_ukr4('ukrdata/fl-1008.csv','ukrdata/fl-1004.csv',geo,3,3,zoom=0.03,fsize=(10,10),)
 plt.savefig('/tmp/out.jpg',quality=40)
 ```
 

@@ -126,7 +126,7 @@ such entreprenurial spirit exists, should aim to be like him.
 
 ---
 
-Tom Cruise - was he involved in anti-goverment propaganda of vis-a-vis
+Tom Cruise - was he involved in anti-goverment propaganda vis-a-vis
 corporate Holywood? Some of his movies are somewhat guilty in that
 regard.. Ok.. Imma hit TC now.
 
