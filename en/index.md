@@ -1,136 +1,102 @@
 
-FuelCellsWorks: "With increasing sightings of the [Honda] hydrogen
-CR-V being tested on public roads in Japan, anticipation is mounting
-for its official launch"
+FuelCellsWorks: "BP Joins H2accelerate Collaboration To Enable The
+Scale Up Of Low Carbon Hydrogen As A Fuel For Heavy Duty Vehicle
+Sector"
+
+<img width='340' src='https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/111/211/085/423/229/594/small/af5bfd12c69bb747.png'/> 
 
 ---
 
-FuelCellsWorks: "On October 8th, World Hydrogen Day [was] celebrated,
-a date that nods to the number 1.008, the atomic weight of this
-chemical element"
+🔥 🔥  Red Hot
+
+CleanTechnica: "Red-Hot Green Hydrogen Field Just Got Hotter (and
+Greener)...  Photoelectrochemical cells can push green hydrogen
+directly from water without the need for standalone solar
+panels... The Intertubes have been burning up with news of the first
+billion-dollar unicorn to emerge from the boiling stew of green
+hydrogen startups... Last week, a US startup called Electric Hydrogen
+raised 380 million in a Series C round of funding on the basis of
+building a better electrolyzer.  That raised the company’s valuation
+over the $1 billion bar, earning it the title of the industry’s first
+unicorn"
 
 ---
 
-GN: "India and Saudi Arabia Sign MoU for Green Hydrogen Supply"
+NYT: "'[E]nmity toward Israel over its decades-long occupation of
+their land' remained strong, particularly as Israel's government
+expanded settlements in the Palestinian West Bank after the
+agreements. On Saturday, when Palestinian gunmen from the blockaded
+territory of Gaza surged into Israel, carrying out the boldest attack
+in the country in decades, it set off an outpouring of support for the
+Palestinians across the region. In some quarters, there were
+celebrations even as hundreds of Israelis and Palestinians were
+killed... Demonstrations in solidarity with the Palestinians took
+place across the region, including in Bahrain, Morocco, Turkey, Yemen,
+Tunisia and Kuwait..
+
+[I]n Egypt's coastal city of Alexandria, a policeman opened fire on
+Israeli tourists, killing two Israelis and an Egyptian.The ripples
+spreading from Gaza underscored what many officials, scholars and
+citizens in the region have been saying for years: The Palestinian
+cause is still a deeply felt rallying cry that shapes the contours of
+the Middle East, and Israel's position in the region will remain
+unstable as long as its conflict with the Palestinians continues"
 
 ---
 
-FuelCellWorks: "Cleanergy Solutions Namibia Kicks off Construction
-Works for Africa’s First Public Refuelling Station With Onsite Green
-Hydrogen Production"
+Firstpost: "California Governor signs Right to Repair into law in a
+major win for the movement"
 
 ---
 
-"@WWBugs@mstdn.social
-
-.. Mississippi \#River dredged to make it suitable for larger ships. The
-Army Corps of Engineers has known for decades that its continual
-efforts to deepen the #Mississippi River for bigger ships would
-eventually trigger the #saltwater crisis that has now gripped the New
-Orleans area for weeks"
+Politico: "On Saturday, the California governor signed a first-in-the
+nation bill prohibiting the use of four food additives because they’ve
+been linked to serious health problems including cancer"
 
 ---
 
-"@BrentToderian@mastodon.online
-
-Never forget that when Seoul, Korea removed the Cheonggyecheon
-expressway in 2003 and replaced it with a restored stream, 1000 acre
-park and improved transit, not only did it transform the city’s public
-life & economic success, but the traffic got better.
-
-The traffic got BETTER"
-
-[Before](https://files.mastodon.online/media_attachments/files/111/189/499/932/505/405/small/291702234b776fcc.png)
-[After](https://files.mastodon.online/media_attachments/files/111/189/500/193/887/789/small/f1337a67e9101197.png)
+Politico: "Newsom signs first-in-the-nation corporate climate
+disclosure bills.. The laws will require large corporations operating
+in the state to disclose both their carbon footprints and their
+climate-related financial risks"
 
 ---
 
-Arab News: "Malaysia looks to UAE for help in energy transition
-efforts... UAE, Malaysia sign $8bn renewable energy
-agreement.. Malaysian experts see the UAE — a major oil producer which
-in recent years has become a leader in developing renewable energy and
-green hydrogen technologies — as a natural partner to help the
-Southeast Asian nation reach its goal"
+"@Hypx@mastodon.social
+
+EU regulatory framework for hydrogen almost complete says Commission President"
 
 ---
 
-H2 Central: "Nikkiso Expands Operations in the US to Support Its
-Growing Hydrogen Business"
+"@anildash@me.dm
+
+Roughly 1/3 of all sites on the Internet just entered the fediverse"
 
 ---
 
-Now that I think about it, most of my DIY tools are read-heavy,
-lookups, mapping so forth requiring minimal data in the background,
-retrievable in a single JSON file pull. Javascript can handle that on
-its sleep. Settings stored in a cookie => no complex server infra
-needed. That gives me ideas.. 🤔
+TechCrunch: "Earlier this year, WordPress.com owner Automattic
+acquired a plug-in that allowed WordPress blogs to be followed in the
+[Mastodon] fediverse.. By using the plug-in, blog owners have the
+potential to reach more followers as they’ll be able to share their
+posts to other platforms and, in turn, receive replies from those
+platforms that are transformed into blog comments"
 
 ---
 
-Got me some sour red cabbage. Coupled with some jar cooked steak - dam.
+"@feelnotes@alaskan.social
+
+thinking about rep. barbara lee casting the lone vote against war,
+three days after 9/11.
+
+'let us not become the evil we deplore.'"
 
 ---
 
-Apparently the firing had to do with "conflict of interest" issues
-during privatization days in Russia in the 90s. These Clinton people
-are up to their neck with Russia Russia Russia, while oligarchs were
-destroying the country some might have benefited via kickbacks. I'm
-sure that's why they took up to Russiagate so eagerly, it was the
-ultimate misdirection, and a great excuse to cover up an embarrasing
-loss to a former game show host.
-
----
-
-He might be a little butthurt for being fired from there
-
-Politico: "Lawrence Summers.. criticize[s] Harvard for student statement
-blaming Israel"
-
----
-
-Arab News: Israel is 'entirely responsible for all unfolding
-violence,' and the attacks by Hamas 'did not happen in a vacuum,' 31
-Harvard student organizations have said. Releasing a 'Joint Statement
-by Harvard Palestine Solidarity Groups on the Situation in Palestine,'
-the organizations said Israel had forced Palestinians to live in an
-'open-air prison for over two decades.' The statement added: 'The
-apartheid regime is the only one to blame. Israeli violence has
-structured every aspect of Palestinian existence for 75 years'"
-
----
-
-Academic/Activist Randa Abdel-Fattah: "Palestinians have tried every
-single avenue [to resist non-violently]. BDS is a peaceful movement
-that was called by the civil society. It is criminalized in the US. I
-just got back from there, and we would had panel discussions, they
-tried to shut us down. We protest, 8000 people in the Great March of
-Return [in Gaza], protested peacefully, we were shot at with live
-ammunition. We go to social media, and advocate there, we get shut
-out, silenced on social media. Every single avenue - international law
-for instance, US will veto and shut that route down. All these
-peaceful avenues are pursued by Palestinians and that is never good
-enough. No form of resistance is good enough, it is only acceptable if
-you are a dead Palestinian"
-
----
-
-*Nix on Droid choked. Ditching that setup, trying out SBC (single
-board computer), HDMI monitor, wireless kboard instead. SBCs can run
-full Unix, not the shit version on Droids. 
-
----
-
-"@chaser@mastodon.au 
-
-Hamas launches ‘completely unprovoked attack’ *(if you ignore 50 years
-of occupation)"
-
----
-
-The Lever: "Swamp Thing.. Republicans’ temporary speaker, Patrick
-McHenry, received 90 percent of his campaign cash this year from
-lobbyists and industries he regulates — and only $856 from small
-donors"
+Fast Company: "Net neutrality is back, and telecom giants are up to
+their usual dirty tricks... Opponents of net neutrality have endless
+money to burn on lobbying and influence operations, and they’ve shown
+no qualms about breaking the law or straight-up lying to achieve their
+goals"
 
 ---
 
