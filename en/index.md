@@ -83,15 +83,6 @@ platforms that are transformed into blog comments"
 
 ---
 
-"@feelnotes@alaskan.social
-
-thinking about rep. barbara lee casting the lone vote against war,
-three days after 9/11.
-
-'let us not become the evil we deplore.'"
-
----
-
 Fast Company: "Net neutrality is back, and telecom giants are up to
 their usual dirty tricks... Opponents of net neutrality have endless
 money to burn on lobbying and influence operations, and they’ve shown
