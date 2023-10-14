@@ -1,5 +1,203 @@
 # Week 41
 
+Railway Age: "First U.S. Hydrogen Powered Passenger Trainset Testing
+at [Department of Transportation Technology Center]..  in Pueblo,
+Colorado"
+
+<img width='340' src='https://www.railwayage.com/wp-content/uploads/2023/10/TTC-ENSCO.jpg'/> 
+
+---
+
+AP: "White House poised to announce winners of competition to produce hydrogen fuel"
+
+---
+
+The Lever: "In September, Rep. Ro Khanna (D-Calif.) introduced an
+anti-corruption reform plan that would.. ban [lawmakers] from trading
+stocks, bar political donations from lobbyists or political action
+committees, create an ethics code for Supreme Court justices, and
+more. Recently, Rep. Matt Gaetz (R-Fla.)  gave his support to these
+measures as part of his negotiations with Republican House leadership,
+bringing renewed attention to Khanna's proposal"
+
+---
+
+"@hub@cosocial.ca
+
+Don't forget to change your DNA when you learn it has been compromised"
+
+---
+
+"Moog Aircraft in the UK will lead a ground-breaking collaboration
+project, assisted by Aerospace Technology Institute (ATI) programme
+grant funding, to develop key technologies for future liquid hydrogen
+gas turbine fuel systems"
+
+---
+
+Arab News: "DuckDuckGo CEO says Google’s billions got in the way of a
+deal with Apple.. The CEO of privacy-oriented search engine DuckDuckGo
+said its talks with Apple about a potential contract failed because
+the smartphone maker was reluctant to give up Google’s multibillion
+dollar paychecks, according to newly transcripts of a landmark
+antitrust trial of the Alphabet unit"
+
+---
+
+"Rep. Tlaib grieves Palestinian and Israeli Lives lost after Hamas
+Attacks, Calls for end of Apartheid"
+
+---
+
+Firstpost: "Sealed Gaza neighbourhoods stare at imminent blackout as Israeli
+airstrikes reduce region to rubble on Day 5"
+
+---
+
+\#Palestine \#Israel
+
+[[-]](https://media.mas.to/masto-public/media_attachments/files/111/223/006/939/019/796/original/0ffe42501afd4cc1.jpg)
+
+---
+
+"@dangillmor@mastodon.social
+
+Japanese city is the latest to realize before it was too late that the
+corrupt Olympics bosses routinely screw the "host" cities. Fiscal
+disaster averted"
+
+---
+
+Kyodo News: "Olympics: Sapporo joins exodus of potential hosts"
+
+---
+
+"India’s First Green Hydrogen Fuel Cell Bus Hits Delhi Roads.. Union
+Minister Hardeep Singh Puri inaugurated a groundbreaking initiative in
+Delhi on Monday by flagging off the country’s first green hydrogen
+fuel cell bus"
+
+---
+
+China Daily: "China's first hydrogen fuel cell ship completes maiden
+voyage"
+
+---
+
+"@claytoncubitt@mstdn.social
+
+Top Google result for my bank/broker is a sponsored link run by a
+phishing operation. Good job Google!"
+
+---
+
+Renew Economy: "Andrew Forrest’s iron ore and green energy giant
+Fortescue Metals has signed its third major green hydrogen supply deal
+in a week, this time turning back to the US-based electrolyser company
+Plug Power that was to be its partner for its huge Queensland
+manufacturing plant.
+
+<img width='340' src='https://b698061.smushcdn.com/698061/wp-content/uploads/2023/10/plug_power1-copy.jpeg?lossy=1&strip=1&webp=1'/> 
+
+Fortescue announced overnight that it named Plug Power as the
+preferred supplier of the 550MW of hydrogen electrolyses it will need
+for its Gibson Island green hydrogen and ammonia project in
+Queensland"
+
+---
+
+FuelCellsWorks: "BP Joins H2accelerate Collaboration To Enable The
+Scale Up Of Low Carbon Hydrogen As A Fuel For Heavy Duty Vehicle
+Sector"
+
+<img width='340' src='https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/111/211/085/423/229/594/small/af5bfd12c69bb747.png'/> 
+
+---
+
+🔥 🔥  Red Hot
+
+CleanTechnica: "Red-Hot Green Hydrogen Field Just Got Hotter (and
+Greener)...  Photoelectrochemical cells can push green hydrogen
+directly from water without the need for standalone solar
+panels... The Intertubes have been burning up with news of the first
+billion-dollar unicorn to emerge from the boiling stew of green
+hydrogen startups... Last week, a US startup called Electric Hydrogen
+raised 380 million in a Series C round of funding on the basis of
+building a better electrolyzer.  That raised the company’s valuation
+over the $1 billion bar, earning it the title of the industry’s first
+unicorn"
+
+---
+
+NYT: "'[E]nmity toward Israel over its decades-long occupation of
+their land' remained strong, particularly as Israel's government
+expanded settlements in the Palestinian West Bank after the
+agreements. On Saturday, when Palestinian gunmen from the blockaded
+territory of Gaza surged into Israel, carrying out the boldest attack
+in the country in decades, it set off an outpouring of support for the
+Palestinians across the region. In some quarters, there were
+celebrations even as hundreds of Israelis and Palestinians were
+killed... Demonstrations in solidarity with the Palestinians took
+place across the region, including in Bahrain, Morocco, Turkey, Yemen,
+Tunisia and Kuwait..
+
+[I]n Egypt's coastal city of Alexandria, a policeman opened fire on
+Israeli tourists, killing two Israelis and an Egyptian.The ripples
+spreading from Gaza underscored what many officials, scholars and
+citizens in the region have been saying for years: The Palestinian
+cause is still a deeply felt rallying cry that shapes the contours of
+the Middle East, and Israel's position in the region will remain
+unstable as long as its conflict with the Palestinians continues"
+
+---
+
+Firstpost: "California Governor signs Right to Repair into law in a
+major win for the movement"
+
+---
+
+Politico: "On Saturday, the California governor signed a first-in-the
+nation bill prohibiting the use of four food additives because they’ve
+been linked to serious health problems including cancer"
+
+---
+
+Politico: "Newsom signs first-in-the-nation corporate climate
+disclosure bills.. The laws will require large corporations operating
+in the state to disclose both their carbon footprints and their
+climate-related financial risks"
+
+---
+
+"@Hypx@mastodon.social
+
+EU regulatory framework for hydrogen almost complete says Commission President"
+
+---
+
+"@anildash@me.dm
+
+Roughly 1/3 of all sites on the Internet just entered the fediverse"
+
+---
+
+TechCrunch: "Earlier this year, WordPress.com owner Automattic
+acquired a plug-in that allowed WordPress blogs to be followed in the
+[Mastodon] fediverse.. By using the plug-in, blog owners have the
+potential to reach more followers as they’ll be able to share their
+posts to other platforms and, in turn, receive replies from those
+platforms that are transformed into blog comments"
+
+---
+
+Fast Company: "Net neutrality is back, and telecom giants are up to
+their usual dirty tricks... Opponents of net neutrality have endless
+money to burn on lobbying and influence operations, and they’ve shown
+no qualms about breaking the law or straight-up lying to achieve their
+goals"
+
+---
+
 FuelCellsWorks: "With increasing sightings of the [Honda] hydrogen
 CR-V being tested on public roads in Japan, anticipation is mounting
 for its official launch"

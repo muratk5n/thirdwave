@@ -1,93 +1,100 @@
 
-FuelCellsWorks: "BP Joins H2accelerate Collaboration To Enable The
-Scale Up Of Low Carbon Hydrogen As A Fuel For Heavy Duty Vehicle
-Sector"
-
-<img width='340' src='https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/111/211/085/423/229/594/small/af5bfd12c69bb747.png'/> 
+Reuters: "Portugal will launch a pioneering auction for rights to sell
+green hydrogen for injection into the national gas grid in the coming
+weeks, with crucial state aid being discussed with Brussels"
 
 ---
 
-🔥 🔥  Red Hot
+H2 View: "Caltrans signs $80m contract with Stadler Rail for hydrogen
+trains in California"
 
-CleanTechnica: "Red-Hot Green Hydrogen Field Just Got Hotter (and
-Greener)...  Photoelectrochemical cells can push green hydrogen
-directly from water without the need for standalone solar
-panels... The Intertubes have been burning up with news of the first
-billion-dollar unicorn to emerge from the boiling stew of green
-hydrogen startups... Last week, a US startup called Electric Hydrogen
-raised 380 million in a Series C round of funding on the basis of
-building a better electrolyzer.  That raised the company’s valuation
-over the $1 billion bar, earning it the title of the industry’s first
-unicorn"
+<img width='340' src='https://files.mastodon.social/cache/preview_cards/images/075/922/209/original/1cd7386419522f27.png'/> 
 
 ---
 
-NYT: "'[E]nmity toward Israel over its decades-long occupation of
-their land' remained strong, particularly as Israel's government
-expanded settlements in the Palestinian West Bank after the
-agreements. On Saturday, when Palestinian gunmen from the blockaded
-territory of Gaza surged into Israel, carrying out the boldest attack
-in the country in decades, it set off an outpouring of support for the
-Palestinians across the region. In some quarters, there were
-celebrations even as hundreds of Israelis and Palestinians were
-killed... Demonstrations in solidarity with the Palestinians took
-place across the region, including in Bahrain, Morocco, Turkey, Yemen,
-Tunisia and Kuwait..
-
-[I]n Egypt's coastal city of Alexandria, a policeman opened fire on
-Israeli tourists, killing two Israelis and an Egyptian.The ripples
-spreading from Gaza underscored what many officials, scholars and
-citizens in the region have been saying for years: The Palestinian
-cause is still a deeply felt rallying cry that shapes the contours of
-the Middle East, and Israel's position in the region will remain
-unstable as long as its conflict with the Palestinians continues"
+TechXplore: "A European consortium on Wednesday said it had in a world
+first successfully tested a gas turbine fully powered by hydrogen,
+opening the way to slashing carbon emissions in energy-intensive
+industries like cement... French energy company Engie, the German
+Aerospace Center, Siemens Energy, Britain's Centrax and European
+universities were part of the EU-funded consortium Hyflexpower that
+carried out the test at a Smurfit Kappa paper packaging factory near
+the French city of Limoges"
 
 ---
 
-Firstpost: "California Governor signs Right to Repair into law in a
-major win for the movement"
+"@BrentToderian@mastodon.online
+
+The busy bank of the Seine in Paris. This used to be space for cars,
+now for several years it’s been a special place for people. All it
+took was leadership. Oh, and fighting and winning a court battle when
+that leadership was challenged"
+
+[[-]](https://files.mastodon.online/media_attachments/files/111/230/637/089/314/688/original/c43325dd840c3dc1.png)
 
 ---
 
-Politico: "On Saturday, the California governor signed a first-in-the
-nation bill prohibiting the use of four food additives because they’ve
-been linked to serious health problems including cancer"
+The same directors did try later to make up for their mistake though,
+partly in another movie - *Jupiter Rising*. The heroine was working
+class (a cleaner girl who was 'special') and the bad people are an
+intergalactic empire who 'own' Earth. Their dominance have Matrix-y
+aspects, they can erase people's memories to make sure they are not
+known but the control is not like Matrix level which symbolizes
+government that every libertard should tremble in fear about whenever
+they hear its name. The overlords of JR are of a feudal type and
+mostly interested in humans as products, they want to harvest them and
+become rich. So in essence they are capitalists, cornering their
+markets, producing their products and above all, exploiting. 
 
 ---
 
-Politico: "Newsom signs first-in-the-nation corporate climate
-disclosure bills.. The laws will require large corporations operating
-in the state to disclose both their carbon footprints and their
-climate-related financial risks"
+After the first, the Wachowskis realized what they had done. They had
+created a magnum opus, a *magnifique travail* for every anti-gov ultra
+libertard fuckjob out there and they wanted to reel in some of their
+"message".
+
+II and III shows some easing of the boundaries between the humans and
+"AI".  Smith gets something of Neo in him, who will later help the
+machines survive.  The concept of The One is taken down a notch,
+there've been others before. This way the "us against them" situation
+if muddled, weakened, placed in the backburner if you will. If the
+theme music of the first was Rob Zombie's *Dragula* the theme music
+for the next two would be *Why Cant We Be Friends?* Corporatists after
+all want gov off their case, beaten down, be their bitch, but they
+dont want it completely gone. They want an entity to subsidize them,
+socialize their losses, and act like a capitalist enabler when they
+are making huge profits. All this libertard stuff is supposed to stay
+at cosplay level, go buy some guns play the weekend warrior, act the
+independent maverick type in your own little delusional sphere but
+stay in the corporate ladder, and respect the markets. You are not
+supposed to rock the boat, because these f--kers live on that
+boat. They *are* the boat, this is the world in which they've already
+won. There is no need to change that. 
 
 ---
 
-"@Hypx@mastodon.social
-
-EU regulatory framework for hydrogen almost complete says Commission President"
-
----
-
-"@anildash@me.dm
-
-Roughly 1/3 of all sites on the Internet just entered the fediverse"
+The first Matrix movie was anti-government pro-corporate propaganda.
+How about the second and the third? They were trying to mend fences
+with those two..  
 
 ---
 
-TechCrunch: "Earlier this year, WordPress.com owner Automattic
-acquired a plug-in that allowed WordPress blogs to be followed in the
-[Mastodon] fediverse.. By using the plug-in, blog owners have the
-potential to reach more followers as they’ll be able to share their
-posts to other platforms and, in turn, receive replies from those
-platforms that are transformed into blog comments"
+PV Magazine: "Queensland reforms hydrogen pipeline laws.. The
+Queensland Parliament has passed new legislation that will see
+hydrogen pipelines regulated in the same way as fossil fuel gases,
+creating clearer regulatory pathways and safety assessments for
+hydrogen projects"
+
+<img width='200' src='https://www.pv-magazine-australia.com/wp-content/uploads/sites/9/2023/10/F8HHLhuakAAJBD8-e1697005533527.jpeg'/> 
 
 ---
 
-Fast Company: "Net neutrality is back, and telecom giants are up to
-their usual dirty tricks... Opponents of net neutrality have endless
-money to burn on lobbying and influence operations, and they’ve shown
-no qualms about breaking the law or straight-up lying to achieve their
-goals"
+Scalise nearly died after a shooting? Crazy.
+
+---
+
+AP: "The White House picks West Virginia and the Philadelphia region
+for hydrogen hubs, a source tells AP"
 
 ---
 
@@ -137,3 +144,8 @@ Also on
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
 
 <img src='https://drive.google.com/uc?export=view&id=1zsIeciFSvlr-sWB84Tc0mfZ_NYqn9VQx'/> 
+
+
+
+
+

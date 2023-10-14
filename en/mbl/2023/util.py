@@ -546,11 +546,9 @@ def rottentomatoes2(movie):
     url = url + "/tv/" + rel       
     hdr = {'User-Agent':'Mozilla/5.0'}
     res = urllib2.urlopen(url).read().decode('utf-8')
-    tom = re.findall('<span.*?data-qa="tomatometer">\n(.*?)</span>',res,re.DOTALL)
-    tom = tom[0].strip()
-    aud = re.findall('<span.*?data-qa="audience-score">\n(.*?)</span>',res,re.DOTALL)
-    aud = aud[0].strip()
-    return {"tomatometer score": tom, "audience score": aud}
+    aud = re.findall('audiencescore=\"(.*?)\"',res,re.DOTALL)
+    tom = re.findall('tomatometerscore=\"(.*?)\"',res,re.DOTALL)
+    return {"tomatometer score": int(tom[0]), "audience score": int(aud[0])}
 
 
 def rottentomatoes3(movie):

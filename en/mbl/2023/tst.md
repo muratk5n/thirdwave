@@ -18,12 +18,17 @@ pd.set_option('display.max_columns', None)
 
 
 
+
+
+
+
+
 ```python
 geo = [['Main'],['Andriivka','Klischchiivka'],['Bilohorivka','Verkhnokamianske'],
        ['Avdiivka','Opytne'],['Bakhmut','Yahidne','Berkhivka'],['Novomykhailivka','Stepne','Marinka'],
        ['Synkivka','Kupiansk'],['Urozhaine','Staromaiorske'],['Robotyne','Verbove','Novoprokpivka']]
        
-u.sm_plot_ukr4('ukrdata/fl-1008.csv','ukrdata/fl-1004.csv',geo,3,3,zoom=0.03,fsize=(10,10),)
+u.sm_plot_ukr4('ukrdata/fl-1013.csv','ukrdata/fl-1004.csv',geo,3,3,zoom=0.03,fsize=(10,10),)
 plt.savefig('/tmp/out.jpg',quality=40)
 ```
 
@@ -144,10 +149,10 @@ plt.savefig('/tmp/out.jpg')
 
 ```text
 end_date
-2023-08-26   -11.839894
-2023-08-27   -11.170984
-2023-08-28   -11.273347
-2023-08-29   -12.649756
+2023-10-10   -13.947808
+2023-10-11   -13.981538
+2023-10-12   -14.447912
+2023-10-13   -14.352457
 Name: net, dtype: float64
 ```
 

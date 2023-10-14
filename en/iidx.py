@@ -23,6 +23,7 @@ def index_dir():
     invidx = defaultdict(lambda: defaultdict(int))
     dir = os.getcwd()
     files = glob.glob(dir + "/**/**/*.md")
+    files = files + glob.glob(dir + "/**/**/**/*.md")
     files = sorted(files)
     for file in enumerate(files):
         doc = file[1].replace(dir,"")    
@@ -44,6 +45,7 @@ def index_dir():
         invidx_dict[c] = defaultdict(lambda: defaultdict(int))
 
     for k,v in invidx.items():
+        if len(k)==0: continue
         first_letter = k[0]
         if first_letter in string.ascii_lowercase:
             invidx_dict[first_letter][k] = v
@@ -54,7 +56,7 @@ def index_dir():
         fout.close()    
 
 def test1():
-    search = "green ammonia"
+    search = "arrival"
     stok = search.split()
     stok_hits = {}
     results = []
@@ -69,7 +71,7 @@ def test1():
         hits.append([f,sum([stok_hits[tok][f] for tok in stok])])
     
     sorted_hits = sorted(range(len(hits)), key=lambda x: hits[x][1], reverse=True)
-    for i in range(20):
+    for i in range(30):
         print (hits[sorted_hits[i]][0])
     
         
