@@ -9,7 +9,7 @@ of the Ukraine war"
 
 Can characters like that in gov trigger your opponent? Absolutely. The
 f--ker is a con. Your opponent will think 'they are coming for me' and
-make a move themselves. 
+can make a move themselves. 
 
 ---
 
@@ -40,8 +40,8 @@ Otzma Yehudit (means Jewish Power)
 
 ---
 
-"Religious extremists Hamas"..  Current Israeli gov is stuffed with
-religious zealots.
+"Religious extremists Hamas"..  It is actually the current Israeli gov
+that is stuffed with religious zealots.
 
 ---
 
