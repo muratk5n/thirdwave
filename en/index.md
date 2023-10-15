@@ -8,7 +8,7 @@ of the Ukraine war"
 ---
 
 Can characters like that in gov trigger your opponent? Absolutely. The
-f--ker is a con. Your opponent will think 'they are coming for me' and
+fucker is a con. Your opponent will think 'they are coming for me' and
 can make a move themselves. 
 
 ---
@@ -91,8 +91,4 @@ Also on
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
 
 <img src='https://drive.google.com/uc?export=view&id=1zsIeciFSvlr-sWB84Tc0mfZ_NYqn9VQx'/> 
-
-
-
-
 
