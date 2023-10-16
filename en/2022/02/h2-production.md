@@ -16,5 +16,7 @@
 
 [Safety](h2-safety.html)
 
+[FAQ](h2-faq.html)
+
 [[Up]](../../2022/01/climate.html)
 

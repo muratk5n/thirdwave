@@ -6,8 +6,10 @@ import pandas as pd
 pd.set_option('display.max_columns', None)
 ```
 
-
-
+```python
+u.sm_usnavy(clat=31, clon=34, zoom=3.0)
+plt.savefig('/tmp/out.jpg',quality=40)
+```
 
 
 
