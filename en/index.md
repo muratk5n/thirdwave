@@ -1,122 +1,92 @@
 
-CleanTechnica: "Fuel Cell Trucks Win Big In New $7 Billion US Hydrogen Plan"
+Politico: "A now-former U.S. official [Josh Paul] explains why he
+resigned rather than pave the way for more arms transfers to Israel as
+it battles Hamas...
 
-<img width='340' src='https://cleantechnica.com/files/2023/10/fuel-cell-trucks-green-hydrogen-quantron-2048x1143.jpg'/> 
+'I know this is an unpopular opinion and too soon, but maybe the best
+thing for Israel right now is not security assistance in the sort of
+volume that makes them think they can afford to just ignore the
+Palestinian question and hope that, cordoned off, it will go away. Or
+to put it another way, if we weren’t giving them billions a year for
+decades, is it more or less likely they would have found it in their
+interest for the Oslo process to work and we wouldn’t be where we are
+today...
 
----
+[W]e always talk about Israel has a right to defend itself. And let’s
+provide Israel with the Iron Dome, which by the way, I entirely
+support. They should not have to live under rocket fire.
 
-"@wilbr@glitch.social
+But we never turned it around and think about the threat to
+Palestinians from Israeli incursions into their villages in the West
+Bank on a constant basis, from bombardment from Israel against homes
+in Gaza, or housing demolitions in the West Bank. We always approach
+this problem from one perspective, and I think that’s part of the
+problem.. we’ve seen for over 20 years that the commitment we made to
+Israel of security for peace, essentially, has not led to security or
+peace and in fact, leads to insecurity and makes peace further away...
 
-Racing gas-powered cars on Easter Island is ironic given that the
-Islanders allegedly died due to famine due to overallocation of scarce
-resources to conflict and superstition"
+[P]eople don’t grasp the day-to-day realities, and tend to only see
+one side of the conflict, because that’s the side that’s easy to
+access, that is media savvy, that is in many ways more relatable from
+an American perspective'"
 
----
-
-Mother Jones: "EPA opens civil rights probe of Alabama's sewage
-failures.. Impoverished Black residents are saddled with.. unsanitary
-systems"
-
----
-
-Reuters: "Biden awards $7 billion for 7 hydrogen hubs in climate fight
-plan.. U.S. President Joe Biden traveled to Philadelphia on Friday to
-announce the recipients of 7 billion in federal grants across 16
-states for the development of seven regional hydrogen hubs"
-
----
-
-WH: "Biden-⁠Harris Administration Announces Regional Clean Hydrogen
-Hubs to Drive Clean Manufacturing.. Today, President Biden and Energy
-Secretary Jennifer Granholm are announcing seven regional clean
-hydrogen hubs that were selected to receive $7 billion [in funding]"
-
----
-
-Summary of the i24 report (link below): Qatar bought a power plant and
-was buying fuel from Egypt for it for Hamas who collected the resale
-money for public servant pay. Oil price rose, resale did not make much
-money so Hamas held up another Qatar aid package for more money even
-organized some riots to make a point..
-
-Looks like things were getting tense from all directions.. Ultra-religious
-zealot admin for Israel, rising oil price, Gulf raproachement with unpredictable
-results for Palestine, and the ever-present prison-like conditions in Gaza
-and creeping settler expansionism, plus apartheid. Why did the attacks happen
-now? The better question is why isn't there an outburst / attack every
-day of the week?
-
-[[-]](https://www.i24news.tv/en/news/middle-east/palestinian-territories/1695105006-gaza-border-riots-intended-to-pressure-qatar-for-more-aid-money-report)
+[[-]](https://www.politico.com/news/magazine/2023/10/20/josh-paul-israel-civilians-00122716)
 
 ---
 
-Arafat was poisoned BTW
+New Lines Magazine: "As the Middle East Reels, a New Option Takes
+Shape: Expulsion.. The idea, which has gone through multiple
+iterations over the decades since Israel’s founding, by turns illegal,
+unworkable or extreme, posits the wholesale population transfer of
+Gazans into the Sinai... Despite the long-standing prima facie
+rejection by the Arab world of the idea of expulsion, this solution
+is, apparently, increasingly seen as more feasible than asking Israel
+to conduct its upcoming war on the strip with a judicious amount of
+violence or to figure out a way to actually coexist with the
+Palestinians. It has been floated by European and Israeli officials
+without irony, which likely prompted Sisi’s response as well as
+off-the-record comments by Egyptian and Arab officials to the media
+pointing out the double standard of feigning concern for the human
+rights of Palestinians while orchestrating a plan to deport them en
+masse under pain of death..
+
+During Israel’s creation in 1948, Zionist militia groups and the
+Israeli army that grew out of them followed a blueprint called.. Plan
+D [which] identified specific Palestinian cities and towns to be
+targeted and provided instructions for how to expel their
+inhabitants. An internal Israeli military intelligence document
+reveals that at least 75% of the Palestinians who fled did so as a
+result of 'military actions by Zionist militias, psychological
+campaigns aimed at frightening Arabs into leaving, and dozens of
+direct expulsions,' scholars Joel Beinin and Lisa Hajjar note.
+
+Indeed, even shortly after 1948, a plan to resettle Palestinians in
+the Sinai was tried... [I]n the early 1950s, the United Nations
+hatched a plan to resettle tens of thousands of Palestinians in the
+Sinai, thereby eliminating the Palestinian right of return. It
+ultimately failed because, as Adler writes, 'The 1955 uprising in Gaza
+— what would become known as the March Intifada — forced
+U.N. officials to abandon refugee resettlement projects and recognize
+Palestinian claims to a political identity of their own.'"
 
 ---
 
-What a progression of jackasses, one after another... I remember this
-era, "get rid of Arafat and all will be fine" phase. 
+Zakaria: "Professor Dimitri Shumsky of Hebrew University writes [in
+Haaretz.. ] provocatively that for years Netanyahu developed and
+advanced a destructive, warped political doctrine that held that
+strengthening Hamas at the expense of the Palestinian Authority would
+be good for Israel. This approach divided the Palestinians, undermined
+the Palestinian Authority in the West Bank, and made it easy for
+Netanyahu to claim there was no path to a Palestinian state.  Shumsky
+cites a Jerusalem Post report that at a Likud Party meeting in 2019,
+Netanyahu made clear that he supported the money that the Qatari
+government was sending to Hamas. That way, Bibi is reported to have
+said 'Israel would foil the establishment of a Palestinian state'. Tal
+Schneider references the same meeting, and also notes that most of the
+time Israel policy was to treat the Palestinian Authority as a burden
+and Hamas as an asset"
 
-[[-]](https://youtu.be/KBT7o0piZ8E?t=272)
-
----
-
-"@onthisday@mastodon.social
-
-Today [Oct 15] in 1994, 29 years ago: Yasser Arafat, Yitzhak Rabin and
-Shimon Peres receive the Nobel Peace Prize for their role in the
-establishment of the Oslo Accords and the framing of future
-Palestinian self government"
-
----
-
-"@bennomatic@appdot.net
-
-.. I once had a consulting gig with the TSA which required an in-depth
-background check that included an hours-long interview.. The final q
-was, 'Are you now, or have you ever been a member of an organization
-which advocates the use of violence to overthrow governments.'
-
-We had just hung Saddam Hussein three days before. It took all of my
-self control not to say, 'Well, I told you I'm an American citizen,
-didn't I?', instead of, 'No, sir.'"
-
----
-
-The data in the tracking system is somehat behind, Ford is reportedly
-already in the eastern Medi, along with others.
-
-```python
-u.sm_usnavy(clat=31, clon=34, zoom=3.0)
-```
-
-<img width='340' src='mbl/2023/usnavy5.jpg'/>
-
----
-
-"@cstross@wandering.shop
-
-@tess The British Empire carved up its territories using the 70/25/5
-rule: a 70% majority, taxed and worked for profit, plus a 25% minority
-from another ethnic group, armed with whips/clubs/rifles and enlisted
-as a middle class and tax collectors, ruled over by a 5% elite of
-British colonial administrators and soldiers with Gatling guns and
-artillery (in case of a 25% uprising). The empire then left behind new
-nations with built-in ethnic strife: a poor 2/3 majority vs. a
-less-poor 1/3 minority"
-
----
-
-"@tess@mastodon.social
-
-If you want to know the root cause of any inter-ethnic strife or
-genocide in the modern world, 'the British' is usually a pretty safe
-bet"
-
----
-
-Firstpost: "Gaza death toll rises to 2,450; over 1,400 killed in Hamas
-attacks on Israel"
+[[-]](https://youtu.be/GI0810gD6Eg?t=63)
 
 ---
 
@@ -166,4 +136,3 @@ Also on
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
 
 <img src='https://drive.google.com/uc?export=view&id=1zsIeciFSvlr-sWB84Tc0mfZ_NYqn9VQx'/> 
-

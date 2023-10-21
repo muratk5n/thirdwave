@@ -572,7 +572,7 @@ welfare [as in standard of living] decreasing"
 
 BTW Israel created Hamas
 
-[[-]](2020/06/10-myths-israel.html#hamas)
+[[-]](../../2020/06/10-myths-israel.html#hamas)
 
 ---
 
