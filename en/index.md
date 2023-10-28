@@ -52,7 +52,7 @@ Drive 100% Hydrogen Fuelled Steel Production"
 ---
 
 The Verge: "Google paid a whopping $26.3 billion in 2021 to be the
-default search engine everywhere / We knew Google paid handsomely to
+default search engine everywhere.. We knew Google paid handsomely to
 be the default browser in Safari, Firefox, and elsewhere. Now we know,
 after years of guessing, exactly what it cost"
 
@@ -105,7 +105,7 @@ noone truly gave them a hard-time on anything.
 
 ---
 
-I remember the announcement for this, Netan was there with Obama,
+I remember the announcement for this, Netan was there with Obama, even
 mfker's usual smart alec smirk was gone, he was like "Dam. I'm getting
 *paid* here. Lovin it".
 
@@ -186,8 +186,8 @@ Not questioning "their right to exist" - exist, but how?
 FDR was against the creation of Israel. Later Truman ok'd the
 idea.. but we know his entire IRel team was against the idea, to a
 man. Hell even the Brits were against it at the time. Imagine that!
-Colonizers who caused upwards of millions in India alone via a simple
-act of partition - against.
+Colonizers who caused upwards of millions of deaths in India alone via
+a simple act of partition - against.
 
 ---
 
@@ -246,5 +246,3 @@ Also on
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
 
 <img src='https://drive.google.com/uc?export=view&id=1zsIeciFSvlr-sWB84Tc0mfZ_NYqn9VQx'/> 
-
-
