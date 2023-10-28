@@ -1,10 +1,17 @@
 # UK/US Claims on Putin's Health
 
+### 2023
+
+[2023/10](https://www.mirror.co.uk/news/world-news/putin-resuscitated-after-having-cardiac-31259024):
+Mirror: Russian premier Vladimir Putin suffered a 'cardiac arrest' on
+Sunday evening [the source] suggests all recent appearances..  have
+been carried out by a body double or doubles.
+
 ### 2022
 
 [2022/12/2](https://www.dailymail.co.uk/news/article-11494595/Vladimir-Putin-fell-stairs-home-soiled-himself.html):
 Daily Mail: Vladimir Putin has fallen down stairs at his official residence and soiled
-himself while continuing to suffer from cancer
+himself while continuing to suffer from cancer.
 
 [2022/05/16](https://www.independent.co.uk/news/world/europe/putin-sick-ex-british-spy-ukraine-b2079833.html):
 According to The Independent Vladimir Putin is “quite seriously ill” claims the
@@ -43,5 +50,8 @@ The Independent: Putin is ill he cancelled second meeting in two days
 [2014/10/31](https://www.independent.co.uk/news/people/vladimir-putin-cancer-reports-kremlin-rep-furiously-dismisses-speculation-over-russian-leader-s-health-tells-media-to-bite-your-tongue-9830559.html):
 The Independent: US media claims Putin is currently receiving treatment for
 the often terminal form of cancer.
+
+
+
 
 

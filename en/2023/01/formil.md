@@ -12,7 +12,7 @@ Red: Russia, Blue: China. [Source](https://datahub.hku.hk/articles/dataset/Overs
 ```python
 clat,clon=33, 40
 
-m = folium.Map(location=[clat, clon], zoom_start=3, tiles="Stamen Terrain")
+m = folium.Map(location=[clat, clon], zoom_start=3)
 
 df = pd.read_csv("rubases.csv",sep=';')
 for index, row in df.iterrows():

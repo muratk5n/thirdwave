@@ -2,7 +2,7 @@ from pygeodesy.sphericalNvector import LatLon
 import numpy as np, folium
 
 clat,clon=33, 30
-m = folium.Map(location=[clat, clon], zoom_start=2, tiles="Stamen Terrain")
+m = folium.Map(location=[clat, clon], zoom_start=2)
 
 # larger box
 big = LatLon(37.37121348080846, -95.92924913128172),\

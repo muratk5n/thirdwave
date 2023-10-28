@@ -56,7 +56,7 @@ def map():
     vals = np.array([A[row,col] for row,col in zip(rows,cols)])
     mean,std = np.mean(vals),np.std(vals)
     
-    m = folium.Map(location=[30, 20], zoom_start=3, tiles="Stamen Terrain")
+    m = folium.Map(location=[30, 20], zoom_start=3)
     for row,col in zip(rows,cols):
         val = float(A[row,col])
         if val < mean+4*std: continue

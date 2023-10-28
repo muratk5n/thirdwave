@@ -76,7 +76,7 @@ def eq_region(lat,lon):
 
     import folium
 
-    m = folium.Map(location=[lat, lon], zoom_start=3, tiles="Stamen Terrain")
+    m = folium.Map(location=[lat, lon], zoom_start=3)
 
     import folium
     for index, row in df.iterrows():

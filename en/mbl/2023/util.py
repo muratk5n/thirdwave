@@ -936,5 +936,6 @@ def biden_approval():
 if __name__ == "__main__": 
     #print (ru_areas())
     #modis_fire(0,0,18)
+    biden_approval().net.plot()
     plt.savefig('/tmp/out.jpg',quality=40)    
     

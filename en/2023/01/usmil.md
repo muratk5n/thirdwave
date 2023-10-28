@@ -16,7 +16,7 @@ on David Vine's work.
 
 clat,clon=33, 40
 
-m = folium.Map(location=[clat, clon], zoom_start=7, tiles="Stamen Terrain")
+m = folium.Map(location=[clat, clon], zoom_start=7)
 
 df = pd.read_csv("https://raw.githubusercontent.com/meflynn/troopdata/master/data-raw/basedata.csv",encoding = "ISO-8859-1", engine='python')
 df = df[['countryname','basename','lat','lon']]
@@ -38,7 +38,7 @@ m.save('usbases-out.html')
 
 ```python
 import pandas as pd, folium
-m = folium.Map(location=[33,40], zoom_start=4, tiles="Stamen Terrain")
+m = folium.Map(location=[33,40], zoom_start=4)
 df = u.usnavy()
 for index, row in df.iterrows():
     folium.Marker([row['lat'], row['lon']],tooltip=row['name'] + " Heading: " + row['bearing'] + " Speed (kn): " + row['speed']
@@ -59,7 +59,7 @@ import pandas as pd, folium
 df = pd.read_csv('nuke.csv')
 
 clat,clon=33, -111
-m = folium.Map(location=[clat, clon], zoom_start=4, tiles="Stamen Terrain")
+m = folium.Map(location=[clat, clon], zoom_start=4)
 
 def split_nth(s, sep, n):
     n_split_groups = []

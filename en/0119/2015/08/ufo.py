@@ -1,12 +1,19 @@
 import sys; sys.path.append("../../2019/05")
-import pandas as pd, zipfile, random, folium, mygeo
+import pandas as pd, zipfile, random, folium
+from pygeodesy.sphericalNvector import LatLon
+
+def average(coords):
+    b = (LatLon(lat,lon) for lat,lon in coords)
+    nvecs = np.array([a.toNvector() for a in b])
+    mid = nvecs.mean().toLatLon()
+    return mid.lat,mid.lon
 
 def regular():
 
       with zipfile.ZipFile('nuforc-ufo.zip', 'r') as z:
             df =  pd.read_csv(z.open('scrubbed.csv'))
       clat,clon=33, 40
-      m = folium.Map(location=[clat, clon], zoom_start=4, tiles="Stamen Terrain")
+      m = folium.Map(location=[clat, clon], zoom_start=4)
       for index, row in df.iterrows():
           try: 
               year = pd.to_datetime(row['datetime']).year
@@ -48,7 +55,7 @@ def signif():
       print (df2.state)
 
       clat,clon=33, -111
-      m = folium.Map(location=[clat, clon], zoom_start=4, tiles="Stamen Terrain")
+      m = folium.Map(location=[clat, clon], zoom_start=4)
       for xx in df2.state:
           df4 = df[df.ST == xx]
           cs = df4[['latitude','longitude']].values.tolist()

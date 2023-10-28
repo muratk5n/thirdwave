@@ -3,7 +3,7 @@ import folium, re, sys
 
 def minerals():
 
-    m = folium.Map(location=[30, 20], zoom_start=3, tiles="Stamen Terrain")
+    m = folium.Map(location=[30, 20], zoom_start=3)
 
     df = pd.read_csv('mineral_iaea_geo_ur.csv',sep='|')
     for index, row in df.iterrows(): # 

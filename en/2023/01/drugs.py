@@ -80,7 +80,7 @@ def routes_map():
         g = df.groupby(['source','dest']).sum()[['weight']]
         g = g.reset_index()
         
-        m = folium.Map(location=[30, 20], zoom_start=3, tiles="Stamen Terrain")
+        m = folium.Map(location=[30, 20], zoom_start=3)
         for index, row in g.iterrows():
             if row['source']==row['dest']: continue
             if row['source']=='Other' or row['dest']=='Other': continue

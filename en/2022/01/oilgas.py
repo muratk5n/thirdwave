@@ -14,7 +14,7 @@ def plot_rows(df, m):
         ).add_to(m)
 
 def fields():
-    m = folium.Map(location=[30, 20], zoom_start=3, tiles="Stamen Terrain")
+    m = folium.Map(location=[30, 20], zoom_start=3)
     df = pd.read_csv('oilgas-2018.csv')
     plot_rows(df,m)
     df = pd.read_csv('oilgas-plus.csv')
@@ -33,7 +33,7 @@ def get_linestring(content):
     
 def pipelines():
     df = pd.read_csv('pipelines.csv',sep=';')
-    m = folium.Map(location=[30, 20], zoom_start=3, tiles="Stamen Terrain")
+    m = folium.Map(location=[30, 20], zoom_start=3)
     for index, row in df.iterrows():
        if 'Cancelled' in row['Status'] or 'Shelved' in row['Status']: continue
        segments = []
