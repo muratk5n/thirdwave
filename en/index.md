@@ -10,8 +10,8 @@ bought back only a few billion dollars’ worth of their stock, but as
 the decade ended five years later, the annual average was tens of
 billions. That’s when Jack Welch (Jack Welch!) announced that GE (GE!)
 was going to buy back the equivalent of $21 billion worth of its own
-stock because that was so much easier than “going out and taking a
-wild swing” at developing new technologies or new businesses. It was
+stock because that was so much easier than 'going out and taking a
+wild swing' at developing new technologies or new businesses. It was
 the biggest single buyback yet. Welch was acting even more like a Wall
 Street guy, and Wall Street redoubled its love for him. Unquestionably
 a new party had started"
@@ -128,16 +128,6 @@ defence contractors"
 
 ---
 
-The new SOH comes across more like a Prime Minister than
-President. That's what you have to be perhaps as a US Speaker, on the
-ground rolling with the punches, among others in your conference not
-floating seperate / above them as a President would. I saw the
-interview with Cardigan Shananigan, the focus on decentralisation is
-nice. I hope he is pressed on "conflict of interest" issues - many in
-the Congress sold their soul to the private sector.
-
----
-
 Shady characters connected to battery-electric interests tried but
 they could not sink Adani. It's now the Round Two bitch! Are you
 ready?
@@ -246,3 +236,5 @@ Also on
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
 
 <img src='https://drive.google.com/uc?export=view&id=1zsIeciFSvlr-sWB84Tc0mfZ_NYqn9VQx'/> 
+
+
