@@ -196,7 +196,7 @@ Heavy-duty Truck Fleet Owner"
 
 ---
 
-Infomed Comment: "Military Contractors Are Targeting
+Informed Comment: "Military Contractors Are Targeting
 Commuters.. Weapons and tech interests are skirting advertising rules
 and using Washington, D.C.'s subway system to influence policymakers"
 
