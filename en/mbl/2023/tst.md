@@ -7,8 +7,15 @@ pd.set_option('display.max_columns', None)
 ```
 
 
+```python
+import json
+r = json.loads(open("ukrdata/fl-0106.json").read())
+print (r[0])
+```
 
-
+```text
+[32.5846768, 46.5912474]
+```
 
 
 
@@ -23,7 +30,7 @@ geo = [['Main'],['Andriivka','Klischchiivka'],['Bilohorivka','Verkhnokamianske']
        ['Avdiivka','Opytne'],['Bakhmut','Yahidne','Berkhivka'],['Novomykhailivka','Stepne','Marinka'],
        ['Synkivka','Kupiansk'],['Urozhaine','Staromaiorske'],['Robotyne','Verbove','Novoprokpivka']]
        
-u.sm_plot_ukr4('ukrdata/fl-1017.csv','ukrdata/fl-1004.csv',geo,3,3,zoom=0.03,fsize=(10,10),)
+u.sm_plot_ukr4('ukrdata/fl-1024.csv','ukrdata/fl-1004.csv',geo,3,3,zoom=0.03,fsize=(10,10),)
 plt.savefig('/tmp/out.jpg',quality=40)
 ```
 

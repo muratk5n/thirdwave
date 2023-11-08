@@ -11,10 +11,9 @@ from yahoofinancials import YahooFinancials
 from pandas_datareader import data, wb
 from io import BytesIO
 
-from netCDF4 import Dataset, num2date
 from scipy.ndimage import gaussian_filter
 from siphon.catalog import TDSCatalog
-import numpy as np, numpy.linalg as lin, math
+import netCDF4, numpy as np, numpy.linalg as lin, math
 
 from scipy.interpolate import NearestNDInterpolator
 import ecmwf.data as ecdata
@@ -24,6 +23,35 @@ from ecmwf.opendata import Client
 def get_sm(): return sm
 
 def get_pd(): return pd
+
+def ukr_data_json():
+    for f in sorted(glob.glob(os.environ['HOME']+ "/Documents/tw/en/mbl/2023/ukrdata/fl-*.csv")):        
+        if "221115" in f or "none" in f: continue
+        print (f)
+        df = pd.read_csv(f,header=None)
+        outfile = f.replace(".csv",".json")
+        res = df.to_numpy().tolist()
+        fout = open(outfile, "w")
+        fout.write(json.dumps(res))
+        fout.close()
+
+
+def plot_silam(fin,var,t,clat,clon,zoom):
+    outdir = "/opt/Downloads"
+    base_url = "https://silam.fmi.fi/thredds/fileServer/dailysilam_glob06_v5_8/files/"
+    target_file = outdir + "/" + fin
+    url = base_url + "/" + fin
+    if not os.path.isfile(target_file):
+        r = requests.get(url, allow_redirects=True)
+        open(target_file, 'wb').write(r.content)
+    f = netCDF4.Dataset(target_file)
+    x,y = np.meshgrid(np.linspace(-180,180,600),np.linspace(-90,90,297))
+    z = f.variables[var][t,0,:,:] 
+    z = z * 1e8
+    z = np.log(z)
+    sm.plot_continents(clat, clon, zoom, incolor='black', outcolor='white', fill=False)
+    plt.pcolormesh(x,y,z,cmap='OrRd')
+
 
 def get_modis_csv():
     url = "https://firms.modaps.eosdis.nasa.gov/data/active_fire/modis-c6.1/csv"
@@ -936,6 +964,13 @@ def biden_approval():
 if __name__ == "__main__": 
     #print (ru_areas())
     #modis_fire(0,0,18)
-    biden_approval().net.plot()
-    plt.savefig('/tmp/out.jpg',quality=40)    
+    
+    #df = biden_approval().net
+    #print (df.tail(5))
+    #df.plot()
+    #plt.savefig('/tmp/out.jpg',quality=40)
+
+    ukr_data_json()
+
+    
     
