@@ -19,15 +19,15 @@ picks sides in the Middle East"
 
 ---
 
-Medea Benjamin \#Hedges
+A great work on the subject, below
 
-[[-]](https://www.youtube.com/embed/FN5FgiwYGp0?start=452&end=594)
+[[-]](2023/11/political-econ-us-mil.html)
 
 ---
 
-A great work on the subject below
+Medea Benjamin \#Hedges
 
-[[-]](2023/11/political-econ-us-mil.html)
+[[-]](https://www.youtube.com/embed/FN5FgiwYGp0?start=452&end=594)
 
 ---
 
@@ -89,4 +89,6 @@ Also on
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
 
 <img src='https://drive.google.com/uc?export=view&id=1zsIeciFSvlr-sWB84Tc0mfZ_NYqn9VQx'/> 
+
+
 
