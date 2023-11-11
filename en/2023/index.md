@@ -42,3 +42,7 @@
 
 [Evil Geniuses](06/evil-geniuses.html)
 
+[lent Coup](11/icsid.html)
+
+[The Political Economy of US Militarism](11/political-econ-us-mil.html)
+

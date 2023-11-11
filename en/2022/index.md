@@ -42,6 +42,8 @@
 
 [Application Domains for H2](02/h2-end-use.html)
 
+[H2 FAQ](02/h2-faq.html)
+
 [LOHC](02/h2-lohc.html)
 
 [Metal Hydrides](02/h2-metal-hydrides.html)
@@ -78,11 +80,11 @@
 
 [The New Economics](05/the-new-economics-keen.html)
 
-[Oumuamua](06/oumuamua.html)
-
 [GHG Sources](06/ghg-sources.html)
 
 [Ferming Over Farming, Lab-Grown Meat](06/lab-grown-meat.html)
+
+[Oumuamua](06/oumuamua.html)
 
 [Population Growth, Demographics, Economics](06/population-demographics-growth.html)
 
