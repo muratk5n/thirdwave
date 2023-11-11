@@ -5,12 +5,12 @@
 In pursuit of their goal of establishing a Jewish state in the “land
 of Israel,” Zionist leaders have always tried to portray their
 interests as coinciding or synergetic with the interests of
-imperialist powers, first with those of Great Britain and then with
-those of the United States. By the same token, they have also always
-tried to portray opponents of their territorial ambitions not only as
-the enemies of Israel but also of those powers. But, as just noted,
-such attempts at manipulation were not very effective during the Cold
-War atmosphere. In the aftermath of the Cold War era, however, those
+[superpowers], first with those of Great Britain and then with those
+of the United States. By the same token, they have also always tried
+to portray opponents of their territorial ambitions not only as the
+enemies of Israel but also of those powers. But, as just noted, such
+attempts at manipulation were not very effective during the Cold War
+atmosphere. In the aftermath of the Cold War era, however, those
 strategies began to become more effective; not because Zionist
 strategists suddenly became smarter, or U.S. policy makers suddenly
 became more susceptible to Zionist influence, but because some
