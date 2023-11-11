@@ -1,5 +1,49 @@
 # Week 45
 
+"@tess@mastodon.social
+
+Rumblings from inside Automattic that Tumblr may be being wound down.
+
+Makes me really glad that Mastodon exists and that there are options
+for building communities online that don't depend on VC funding and
+number-go-up-forever"
+
+---
+
+Politico: "'Drink water' says Croatia's health minister after 4
+suspected poisoned with Coca-Cola sodas"
+
+---
+
+CNBC: "Russia is turning increasingly hostile toward Israel as it
+picks sides in the Middle East"
+
+---
+
+A great work on the subject, below
+
+[[-]](2023/11/political-econ-us-mil.html)
+
+---
+
+Medea Benjamin \#Hedges
+
+[[-]](https://www.youtube.com/embed/FN5FgiwYGp0?start=452&end=594)
+
+---
+
+Wiki: "Revisionist Zionism is a form of Zionism which is characterized
+by territorial maximalism. Revisionist Zionism promoted expansionism
+and the establishment of a Jewish majority on both sides of the Jordan
+River. Developed by Ze'ev Jabotinsky.. [it] insisted upon the Jewish
+right to sovereignty over the whole of Eretz Yisrael, which they
+equated to Mandatory Palestine and Transjordan..
+
+Revisionist Zionism has strongly influenced modern right-wing Israeli
+parties, principally Herut and its successor Likud"
+
+---
+
 <img width='340' src='https://media.mastodon.scot/mastodon-scot-public/media_attachments/files/111/381/876/729/729/518/small/6dd1e0ebe510613f.jpg'/> 
 
 ---

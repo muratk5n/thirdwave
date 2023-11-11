@@ -971,6 +971,4 @@ if __name__ == "__main__":
     #plt.savefig('/tmp/out.jpg',quality=40)
 
     ukr_data_json()
-
-    
-    
+      

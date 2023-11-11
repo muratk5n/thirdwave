@@ -1,45 +1,57 @@
 
-"@tess@mastodon.social
-
-Rumblings from inside Automattic that Tumblr may be being wound down.
-
-Makes me really glad that Mastodon exists and that there are options
-for building communities online that don't depend on VC funding and
-number-go-up-forever"
+"Bundestag launches hydrogen core network..  Barbara Fischer, Managing
+Director of FNB Gas eV, explains: 'With today's resolution, the
+Bundestag is paving the way free for a Germany-wide, expandable,
+efficient and quickly realizable hydrogen network with the target year 2032'"
 
 ---
 
-Politico: "'Drink water' says Croatia's health minister after 4
-suspected poisoned with Coca-Cola sodas"
+Japan Times: "Japan and South Korea will establish a joint supply
+network for fuels such as hydrogen and ammonia, the Nikkei business
+daily reported on Friday. Prime Minister Fumio Kishida and South
+Korean President Yoon Suk-yeol will announce the framework on Nov. 17
+in the United States, where they are expected to join the Asia-Pacific
+Economic Cooperation (APEC) meeting, the paper said
 
 ---
 
-CNBC: "Russia is turning increasingly hostile toward Israel as it
-picks sides in the Middle East"
+BBC: "Israel must stop killing babies and women in Gaza, French
+President Emmanuel Macron has told the BBC. In an exclusive interview
+at the Élysée Palace, he said there was 'no justification' for the
+bombing, saying a ceasefire would benefit Israel. While recognising
+Israel's right to protect itself, 'we do urge them to stop this
+bombing' in Gaza"
 
 ---
 
-A great work on the subject, below
+And Richard Perle
+
+[[-]](mbl/2023/perle1.jpeg)
+
+---
+
+American Enterprise Institute president, with Jewish Beavis
+
+[[-]](https://www.youtube.com/watch?v=zCR2ZUymbPY)
+
+---
+
+He is like "ME needs bombing, mm-kay?"
+
+---
+
+The Project for a New American Century... see the smarmy fuck with his
+"m-kay" look. 
+
+[[-]](https://gwern.net/doc/rotten.com/library/conspiracy/pnac/index.html)
+
+---
+
+Interesting work that Hossein-Zadeh book.. There are a lot of these
+"institutes" aren't there, churning out think pieces on how US-ISR
+should bomb the shit out of the Middle East.
 
 [[-]](2023/11/political-econ-us-mil.html)
-
----
-
-Medea Benjamin \#Hedges
-
-[[-]](https://www.youtube.com/embed/FN5FgiwYGp0?start=452&end=594)
-
----
-
-Wiki: "Revisionist Zionism is a form of Zionism which is characterized
-by territorial maximalism. Revisionist Zionism promoted expansionism
-and the establishment of a Jewish majority on both sides of the Jordan
-River. Developed by Ze'ev Jabotinsky.. [it] insisted upon the Jewish
-right to sovereignty over the whole of Eretz Yisrael, which they
-equated to Mandatory Palestine and Transjordan..
-
-Revisionist Zionism has strongly influenced modern right-wing Israeli
-parties, principally Herut and its successor Likud"
 
 ---
 
@@ -89,6 +101,4 @@ Also on
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
 
 <img src='https://drive.google.com/uc?export=view&id=1zsIeciFSvlr-sWB84Tc0mfZ_NYqn9VQx'/> 
-
-
 
