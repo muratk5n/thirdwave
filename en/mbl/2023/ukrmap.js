@@ -1,7 +1,7 @@
 
 function plot(before,after) {
     
-    url = `en/mbl/${before}`;
+    url = `/en/mbl/${before}`;
     var xmlHttp = new XMLHttpRequest();
     xmlHttp.open( "GET", url = url, false ); 
     xmlHttp.send( null );
@@ -16,7 +16,7 @@ function plot(before,after) {
     });
     linebef.addTo(map);
     
-    url = `en/mbl/${after}`;
+    url = `/en/mbl/${after}`;
     var xmlHttp = new XMLHttpRequest();
     xmlHttp.open( "GET", url = url, false ); 
     xmlHttp.send( null );

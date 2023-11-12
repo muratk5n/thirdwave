@@ -22,7 +22,7 @@ picks sides in the Middle East"
 
 A great work on the subject, below
 
-[[-]](2023/11/political-econ-us-mil.html)
+[[-]](../../2023/11/political-econ-us-mil.html)
 
 ---
 
