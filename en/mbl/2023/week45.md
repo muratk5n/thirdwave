@@ -1,5 +1,62 @@
 # Week 45
 
+
+"Bundestag launches hydrogen core network..  Barbara Fischer, Managing
+Director of FNB Gas eV, explains: 'With today's resolution, the
+Bundestag is paving the way free for a Germany-wide, expandable,
+efficient and quickly realizable hydrogen network with the target year 2032'"
+
+---
+
+Japan Times: "Japan and South Korea will establish a joint supply
+network for fuels such as hydrogen and ammonia, the Nikkei business
+daily reported on Friday. Prime Minister Fumio Kishida and South
+Korean President Yoon Suk-yeol will announce the framework on Nov. 17
+in the United States, where they are expected to join the Asia-Pacific
+Economic Cooperation (APEC) meeting, the paper said
+
+---
+
+BBC: "Israel must stop killing babies and women in Gaza, French
+President Emmanuel Macron has told the BBC. In an exclusive interview
+at the Élysée Palace, he said there was 'no justification' for the
+bombing, saying a ceasefire would benefit Israel. While recognising
+Israel's right to protect itself, 'we do urge them to stop this
+bombing' in Gaza"
+
+---
+
+And Richard Perle
+
+[[-]](mbl/2023/perle1.jpeg)
+
+---
+
+American Enterprise Institute president, with Jewish Beavis
+
+[[-]](https://www.youtube.com/watch?v=zCR2ZUymbPY)
+
+---
+
+He is like "ME needs bombing, mm-kay?"
+
+---
+
+The Project for a New American Century... see the smarmy fuck with his
+"m-kay" look. 
+
+[[-]](https://gwern.net/doc/rotten.com/library/conspiracy/pnac/index.html)
+
+---
+
+Interesting work that Hossein-Zadeh book.. There are a lot of these
+"institutes" aren't there, churning out think pieces on how US-ISR
+should bomb the shit out of the Middle East.
+
+[[-]](../../2023/11/political-econ-us-mil.html)
+
+---
+
 "@tess@mastodon.social
 
 Rumblings from inside Automattic that Tumblr may be being wound down.

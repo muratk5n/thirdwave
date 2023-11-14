@@ -33,7 +33,7 @@ peace dividends.
 
 In pursuit of this goal, beneficiaries of war and militarism found a
 strong, well-established network of politically savvy allies: radical
-Zionist proponents of “greater Israel.” Because the interests of these
+Zionist proponents of 'greater Israel.' Because the interests of these
 two powerful groups converged over fomenting war and political
 convulsion in the Middle East, an ominously potent alliance was forged
 between them— ominous, because the mighty U.S. war machine was now
