@@ -3,7 +3,7 @@ from metpy.units import units
 import datetime, time as timelib, re, os, glob, numpy.linalg as lin
 import pandas_ta as ta, random, rottentomatoes as rt    
 import pandas as pd, datetime, numpy as np, requests
-import requests, urllib.parse, json, io, geocoder, zipfile
+import urllib.parse, json, io, geocoder, zipfile
 import matplotlib.pyplot as plt, math
 import simplegeomap as sm, util
 import urllib.request as urllib2, itertools

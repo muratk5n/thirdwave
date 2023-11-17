@@ -1,110 +1,78 @@
 
-SF Writer Charlie Stross: "[T]he influence of science fiction on our
-environment seems to have been gathering pace throughout my entire
-life. The future is a marketing tool... It's becoming increasingly
-unusual to read a report of a new technology or scientific discovery
-that doesn't breathlessly use the phrase 'it seems like science
-fiction'. The news cycle is currently dominated by hype about
-artificial intelligence (a gross mis-characterisation of machine
-learning algorithms and large language models). A couple of years ago
-it was breathless hype about cryptocurrency and blockchain
-technologies—which turned out to be a financial services bubble that
-drained a lot of small investors' savings accounts into the pockets of
-people like convicted fraudster Sam Bankman-Fried"
-
-[[-]](https://www.antipope.org/charlie/blog-static/2023/11/dont-create-the-torment-nexus.html)
+CTV News Montreal: "A $4 B green hydrogen plant will be built in
+Quebec"
 
 ---
 
-The Pal prime minister from the PA is talking a bunch on F24. Poor guy
-sounds distressed, understandably so. I realized how little we heard
-of them in recent years - ISR plan to cut them out of the discourse
-clearly worked. It was all about Hamas Hamas Hamas, ISR spox talking
-shit about them, that took all oxygen out of the room and now here we
-are.
+*The Beekeper*, *Argylle*, *Fall Guy* trailers look good. *Machette*,
+*Money Monster*, recommended.
 
 ---
 
-\#Protests
-
-[[-]](https://media.mstdn.social/media_attachments/files/111/398/341/365/182/151/small/99ec0b6e466e90ac.jpeg)
-
----
-
-Ian Miell: "I have just returned to front end development after 20-odd
-years.
-
-Oh. My. God.
-
-What happened? Maintainability and simplicity used to be a feature,
-now it's considered a bug"
+CNBC: "Xi says U.S. and China can only be adversaries or partners,
+with no middle ground"
 
 ---
 
-Why does Israel rely so much on bombing? Bombs are a money maker for
-the [military-industrial-likud](2023/11/political-econ-us-mil.html)
-complex. A soldier on foot shooting a rifle is chump change. That
-won't move the stock value at all. You need to rely on big ticket
-items, like a BOMB. They will move the dial.
+Hossein-Zadeh: "It is often forgotten... that for a few years after
+the war, [Stalin] assumed an exceedingly moderate posture... His
+nation had lost 25 million people in the war, was desperately in need
+of aid for rebuilding, and continued for a long time to nurture hopes
+of coexistence.. Evidence thus clearly suggests that the U.S. policy
+makers built the gigantic military-industrial complex not out of any
+genuine fear of Soviet military attack but out of other motives. Top
+among those motives, as pointed out earlier, was to establish a
+U.S.-led world capitalist order in which unhindered market forces
+would flourish, a world no part of which would be excluded from the
+free flow of trade and investment"
 
 ---
 
-Revisionist Zionists have a real hard-on for that al-Aqsa Mosque don't
-they..? They want to destroy it, bomb it, and rebuild their temple in
-its place.
+Oz Labor walked tightrope having to contend with anti-China stance of
+the previous administration and its Aukus, but when Kevin Rudd was
+appointed as US ambassador it became clear they did not want to be
+antagonistic towards China. Rudd is one of the most pro-China voices
+in Australia.
 
 ---
 
-There is an improved version of the Ukraine map shared earlier
-allowing comparison between any two dates. Members and long-time
-readers can find that on my primary site.
+"MAN Engines presents groundbreaking hydrogen combustion engine for
+off-road applications"
 
 ---
 
-There is the occasional support for Israel in the odd developing
-country, but that likely has to do with weapon purchases than anything
-else. The US laws that prohibits sale of certain weapons to certain
-countries can be by-passed by selling those weapons to Israel who
-promptly resells them to the prohibited country.
+Bloomberg: "UK’s Hydrogen Ambitions to Get a Boost From Gas Grids
+Project.. East Coast Hydrogen aims to connect up to 11GW to grid by 2030..
+Capacity is enough to exceed government production target"
 
 ---
 
-I worked at an customer analytics project, pre-911, our team bought
-personal data from Experian. The info was at some incredible
-detail. >300 million US/Canada citizens. We received it, and put it on
-an external hard drive, it sat there on our desk, getting connected to
-occasionally, it is still hilarious to think bunch of programmers at a
-private firm took that from another private firm, with no checks or
-balances whatsoever. Now such data hoarding is a cottage industry.
+Paper: "In the midst of Africa’s mining boom, communities downstream
+from industrial mines face increased exposure to toxic waste...we
+compare villages downstream and upstream of mines before and after
+opening and find a 25% increase in 24-month mortality rates
+downstream"
+
+[PDF](https://melaniegittard.github.io/files/GITTARD_HU2023.pdf)
 
 ---
 
-"@dangillmor@mastodon.social
-
-Experian is a criminally negligient 'credit bureau' that hoovers up
-personal information, sells it, and lets identity thieves easily steal
-'your' account. There is absolutely no accountability because Congress
-doesn't give a damn -- and Experian blatantly doesn't give a damn"
+Hey incorrect naming, identity issue isn't unheard of.. I believe even
+in India some are not happy with the word "India". They, including the
+current PM, want to change the name to Bharat.
 
 ---
 
-Arab News: "British Prime Minister Rishi Sunak brought back former
-leader David Cameron as foreign minister on Monday..  The return of
-Cameron suggested Sunak wanted to bring in more centrist, experienced
-hands rather than appease the right of his party which supported
-Braverman"
+O bahsettiklerin Ova Kürtleri. İnsanlar ovaya doğru giderken yolda
+çakıl taşlarına basınca takırt tukurt, takırt tukurt diye sesler
+çıkıyormuş. 'Türk' kelimesi buradan geliyor.
 
 ---
 
-Reuters: "UK's Sunak brings back Cameron, sacks Braverman"
-
----
-
-The Independent: "[11/11] Met Police Commissioner Sir Mark Rowley
-resisted pressure from senior Tories to ban a pro-Palestinian
-demonstration on Saturday, prompting Home Secretary Suella Braverman
-to write an article for The Times which made allegations of police
-bias over the protests"
+The 100th, centennial has come and gone for so-called "Turks". Kemal
+"The GrandAncestor" was a mediocre political leader. His Turkist
+ideology is complete bunkers. The nation and its citizens need a name
+change and a new foundational story.
 
 ---
 
@@ -154,6 +122,5 @@ Also on
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
 
 <img src='https://drive.google.com/uc?export=view&id=1zsIeciFSvlr-sWB84Tc0mfZ_NYqn9VQx'/> 
-
 
 
