@@ -414,6 +414,24 @@ def get_yahoofin(year,ticker):
     df = pd.read_csv(file,index_col='Date',parse_dates=True)['Close']
     return df
 
+def get_bp_country(country,year=None):
+    fin = '../../2022/01/bp-stats-review-2022-consolidated-dataset-panel-format.csv'
+    df = pd.read_csv(fin)
+    df = df[df.Country == country]
+    df = df.set_index('Year')
+    df = df[df.index == 2021]
+        
+    df = df[['primary_ej','elect_twh','coalcons_ej','gascons_ej','oilcons_ej']]
+    df['oil_twh'] = (df.oilcons_ej * 277.778)
+    df['gas_twh'] = (df.gascons_ej * 277.778)
+    df['coal_twh'] = (df.coalcons_ej * 277.778)
+    df['primary_twh'] = (df.primary_ej * 277.778)
+    cols = [x for x in df.columns if '_twh' in x]    
+    df2 = df[cols].fillna(0).unstack()
+    
+    return df2
+
+
 def renew_perc_bp(country):
     fin = '../../2022/01/bp-stats-review-2022-consolidated-dataset-panel-format.csv'
     df = pd.read_csv(fin)

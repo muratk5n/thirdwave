@@ -28,7 +28,7 @@ bombing' in Gaza"
 
 And Richard Perle
 
-[[-]](mbl/2023/perle1.jpeg)
+[[-]](perle1.jpeg)
 
 ---
 

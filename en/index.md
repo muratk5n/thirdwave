@@ -1,78 +1,112 @@
 
-CTV News Montreal: "A $4 B green hydrogen plant will be built in
-Quebec"
+"@JessTheUnstill@infosec.exchange
+
+Most of the time, no it doesn't make sense for businesses to run like
+a government.
+
+Part of government services is that in order to actually cover 100% of
+people, it's going to require massively overbuilding the
+infrastructure to ensure that there's enough resources to handle even
+the edge cases - despite the fact that those edge cases oftentimes
+aren't 'profitable' to serve.
+
+Take, for example, USPS vs FedEx. The remit of USPS is to deliver mail
+to EVERY SINGLE ADDRESS IN THE COUNTRY. Yes, even the ones that
+require taking a sea plane 500 miles into rural Alaska to serve a
+village of a dozen customers. FedEx, on the other hand, will only
+serve the addresses that it finds profitable to do so.
+
+When conservatives want to 'government like a business', part of
+what they're saying is that they simply want to not serve the parts of
+the population that aren't "profitable". But profit should never be
+the point of government services. It's defining what services are
+worth providing to every single citizen, and ensuring that they're
+delivered to them - yes, even the ones that are far more difficult to
+provide"
 
 ---
 
-*The Beekeper*, *Argylle*, *Fall Guy* trailers look good. *Machette*,
-*Money Monster*, recommended.
+"@BrentToderian@mastodon.online
+
+NEW: Paris has released a new 5-Year Pedestrian Plan!
+
+- 300 million € to be invested by 2026
+
+- 100 new hectares of pedestrian space
+
+- 100 more “streets for kids”
+
+- New focus on 0 pedestrian deaths #VisionZero
+
+- Longer pedestrian cross times geared to seniors
+
+Leadership"
+
+[[-]](https://mastodon.online/@BrentToderian/111435843117898829)
 
 ---
 
-CNBC: "Xi says U.S. and China can only be adversaries or partners,
-with no middle ground"
+ProPublica: "Over the last four decades, states have enacted hundreds
+of laws dictating precisely what insurers must cover so that consumers
+aren’t driven into debt or forced to go without medicines or
+procedures. But health plans have violated these mandates at least
+dozens of times in the last five years, ProPublica found"
+
+[[-]](https://www.propublica.org/article/health-insurance-denials-breaking-state-laws)
 
 ---
 
-Hossein-Zadeh: "It is often forgotten... that for a few years after
-the war, [Stalin] assumed an exceedingly moderate posture... His
-nation had lost 25 million people in the war, was desperately in need
-of aid for rebuilding, and continued for a long time to nurture hopes
-of coexistence.. Evidence thus clearly suggests that the U.S. policy
-makers built the gigantic military-industrial complex not out of any
-genuine fear of Soviet military attack but out of other motives. Top
-among those motives, as pointed out earlier, was to establish a
-U.S.-led world capitalist order in which unhindered market forces
-would flourish, a world no part of which would be excluded from the
-free flow of trade and investment"
+Crypto theft was the biggest source of foreign currency for North Korea
+in 2022.
+
+[[-]](https://cdn.fosstodon.org/media_attachments/files/111/435/890/235/612/511/original/4e395c3ac7867471.png)
 
 ---
 
-Oz Labor walked tightrope having to contend with anti-China stance of
-the previous administration and its Aukus, but when Kevin Rudd was
-appointed as US ambassador it became clear they did not want to be
-antagonistic towards China. Rudd is one of the most pro-China voices
-in Australia.
+H2 Central" "Energinet and Gasunie agree on next steps towards a
+cross-border green hydrogen infrastructure. Co-operation agreement
+aims to develop a realisation path that makes the large quantities of
+green hydrogen produced in Denmark available for the German market"
 
 ---
 
-"MAN Engines presents groundbreaking hydrogen combustion engine for
-off-road applications"
+SP 500 will go down to 4200 very soon if we are to follow "the FED
+balance sheet drives all" maxim.
 
 ---
 
-Bloomberg: "UK’s Hydrogen Ambitions to Get a Boost From Gas Grids
-Project.. East Coast Hydrogen aims to connect up to 11GW to grid by 2030..
-Capacity is enough to exceed government production target"
+The Times of Israel: "Biden, for the first time, urged the
+international community on Saturday to help manage the security of the
+Gaza Strip for an interim period after the war, to be followed
+eventually by Palestinian Authority governance"
 
 ---
 
-Paper: "In the midst of Africa’s mining boom, communities downstream
-from industrial mines face increased exposure to toxic waste...we
-compare villages downstream and upstream of mines before and after
-opening and find a 25% increase in 24-month mortality rates
-downstream"
-
-[PDF](https://melaniegittard.github.io/files/GITTARD_HU2023.pdf)
+The Times of Israel: "Biden threatens to issue visa
+bans against extremist settlers carrying out violence against
+Palestinians in the West Bank"
 
 ---
 
-Hey incorrect naming, identity issue isn't unheard of.. I believe even
-in India some are not happy with the word "India". They, including the
-current PM, want to change the name to Bharat.
+EU IR Rep Borell: "There is no hierarchy between horrors. One horror
+does not justify another horror. And the pain that you inflict on
+children of others, will not justify never, will not compensate the
+pain your children have been suffering. On the contrary, it will
+create a violent spiral that will come once again unless we got a
+peace, a sustainable peace.
 
----
+That is why the European Union has called for immediate humanitarian
+pauses, and the United Nations Security Council.. adopted a very
+important resolution asking for immediate, urgent and sustained
+humanitarian pauses..
 
-O bahsettiklerin Ova Kürtleri. İnsanlar ovaya doğru giderken yolda
-çakıl taşlarına basınca takırt tukurt, takırt tukurt diye sesler
-çıkıyormuş. 'Türk' kelimesi buradan geliyor.
+I want to remind that the decisions of UN Security Council are not
+just words. They are compulsory, they have to be implemented.
 
----
-
-The 100th, centennial has come and gone for so-called "Turks". Kemal
-"The GrandAncestor" was a mediocre political leader. His Turkist
-ideology is complete bunkers. The nation and its citizens need a name
-change and a new foundational story.
+But this resolution has not been implemented, not yet. To the
+contrary, the bombing has continued. I have to recall that this
+decision of the UN Security Council has to be implemented. Too many
+lives are being lost every day"
 
 ---
 
@@ -122,5 +156,3 @@ Also on
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
 
 <img src='https://drive.google.com/uc?export=view&id=1zsIeciFSvlr-sWB84Tc0mfZ_NYqn9VQx'/> 
-
-

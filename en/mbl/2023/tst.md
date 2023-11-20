@@ -6,10 +6,10 @@ import pandas as pd
 pd.set_option('display.max_columns', None)
 ```
 
-
-
-
-
+```python
+u.biz_stock_plot(2019,'ABNB')
+plt.savefig('/tmp/out.jpg',pil_kwargs={'quality':40})
+```
 
 
 

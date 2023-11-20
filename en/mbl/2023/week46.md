@@ -1,6 +1,157 @@
 # Week 46
 
 
+"How to Fight Monopoly Power with FTC Chair Lina Khan" \#Factually \#Connover
+
+[[-]](https://youtu.be/j4UkMad4JQk?t=385)
+
+---
+
+Andersen: "[Economist] James Tobin... described financial
+professionals' suddenly ballooning pay as 'high private rewards
+disproportionate to social productivity' ..
+
+It’s ironic that just as we entered an economic era all about
+eliminating inessential middlemen and corporate bloat, one bloated
+sector filled with inessential middlemen, finance, has flourished as
+never before.
+
+It’s ironic that one of the rationales for America’s 1980s makeover
+was to revive the heroic American tradition of risk-taking—given that
+so much of the story has turned out to be about reckless financiers
+insulating themselves from risk by shifting it to customers and,
+through the government, to taxpayers.
+
+It’s ironic that finance, a service industry created to help business
+and the rest of us, so bubbly and booming on and on these last four
+decades, has mainly helped itself. 'There is no clear evidence,' the
+chief financial industry regulator of the U.K. and former
+vice-chairman of Merrill Lynch Europe concluded in 2010, 'that the
+growth in the scale and complexity of the financial system in the rich
+developed world over the last 20 to 30 years has driven increased
+growth or stability'"
+
+---
+
+Andersen, *Evil Geniuses*: ".. The final piece of financialization
+comes from the enormous growth of the so-called institutional
+investors, in particular mutual funds. Owning a share of stock isn’t
+the same as being a citizen of a corporate domain, but stock ownership
+used to be much more directly democratic, and the finance industry
+didn’t run the show... By the 2000s, most stock shares were being
+bought and sold by professional asset managers. The several biggest
+mutual funds are now the majority shareholders of 90 percent of the
+four hundred biggest companies, and such institutional investors
+control 80 percent of all the stock in all U.S. public companies...  ​
+Mutual fund companies are reincarnated equivalents of the excessively
+powerful trusts that made us enact antitrust laws in the first
+place. Economists and others across the ideological spectrum now worry
+about the effects of this new stratum of command and control. Because
+mutual funds have controlling interests in the big dominant
+competitors in almost every major business—food, drugs, airlines,
+telecommunications, banking, seeds, whatever—they aren’t naturally
+inclined to make those rival companies compete aggressively against
+one another"
+
+---
+
+H2 Central: "Germany and the Netherlands are strengthening cooperation
+in the field of hydrogen – King Willem-Alexander visits North
+Rhine-Westphalia working site"
+
+---
+
+H2 Central: "OCI Global and Röhm announce pioneering production of
+Methylmethacrylate (MMA) using bio-ammonia... OCI Global’s bio-ammonia
+can achieve a GHG reduction of >70% compared to conventional grey
+ammonia"
+
+---
+
+Frontline stat 11/11-11/17 - Russian gains around Stepove and north of
+Avdiivka.
+
+[[-]](ukrmap2.html)
+
+---
+
+10X already.. 
+
+Anadolu Agency: "Gaza death toll surpasses 12,000 amid relentless Israeli attacks"
+
+---
+
+CTV News Montreal: "A $4 B green hydrogen plant will be built in
+Quebec"
+
+---
+
+*The Beekeper*, *Argylle*, *Fall Guy* trailers look good. *Machette*,
+*Money Monster*, recommended.
+
+---
+
+CNBC: "Xi says U.S. and China can only be adversaries or partners,
+with no middle ground"
+
+---
+
+Hossein-Zadeh: "It is often forgotten... that for a few years after
+the war, [Stalin] assumed an exceedingly moderate posture... His
+nation had lost 25 million people in the war, was desperately in need
+of aid for rebuilding, and continued for a long time to nurture hopes
+of coexistence.. Evidence thus clearly suggests that the U.S. policy
+makers built the gigantic military-industrial complex not out of any
+genuine fear of Soviet military attack but out of other motives. Top
+among those motives, as pointed out earlier, was to establish a
+U.S.-led world capitalist order in which unhindered market forces
+would flourish, a world no part of which would be excluded from the
+free flow of trade and investment"
+
+---
+
+Oz Labor walked tightrope having to contend with anti-China stance of
+the previous administration and its Aukus, but when Kevin Rudd was
+appointed as US ambassador it became clear they did not want to be
+antagonistic towards China. Rudd is one of the most pro-China voices
+in Australia.
+
+---
+
+"MAN Engines presents groundbreaking hydrogen combustion engine for
+off-road applications"
+
+---
+
+Bloomberg: "UK’s Hydrogen Ambitions to Get a Boost From Gas Grids
+Project.. East Coast Hydrogen aims to connect up to 11GW to grid by 2030..
+Capacity is enough to exceed government production target"
+
+---
+
+Paper: "In the midst of Africa’s mining boom, communities downstream
+from industrial mines face increased exposure to toxic waste...we
+compare villages downstream and upstream of mines before and after
+opening and find a 25% increase in 24-month mortality rates
+downstream"
+
+[PDF](https://melaniegittard.github.io/files/GITTARD_HU2023.pdf)
+
+---
+
+Hey incorrect naming, identity issue isn't unheard of.. I believe even
+in India some are not happy with the word "India". They, including the
+current PM, want to change the name to Bharat.
+
+---
+
+The 100th, centennial has come and gone for so-called "Turks". Kemal
+"The GrandAncestor" was a mediocre political leader. His Turkist
+ideology is complete bonkers. The nation and its citizens need a name
+change and a new foundational story.
+
+---
+
 Politico: "The [US] administration’s dramatic about face all but
 assured that the plan — which funds the government in two tranches
 into January and February — would make it into law... That doesn’t
