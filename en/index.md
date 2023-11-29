@@ -1,5 +1,62 @@
 
+H2 Energy News: "China has surged ahead in the green hydrogen race,
+funneling an impressive 300 billion yuan ($42.04 billion) into the
+burgeoning industry this year, according to a report by state
+broadcaster CCTV"
 
+---
+
+H2 Central: "Hydrogen Power Generators - Hitachi Energy unveils new
+emission-free alternative to diesel-powered generators"
+
+---
+
+Boycott, Divestment Targets
+
+- HP
+- AXA
+- Puma
+- Domino's
+- Pizza Hut
+- McDonalds
+- Papa John's
+- WiX
+- Burgerking
+- Elbit Systems
+- CAF
+- CAT
+- Chevron
+- Barclays
+- TKH Security
+- SodaStream
+- Ahava
+- Sabra
+
+[[-]](https://bdsmovement.net/Act-Now-Against-These-Companies-Profiting-From-Genocide)
+
+---
+
+"@lauren
+
+There is a sense of impending chaos surrounding Big Tech now that I've
+never sensed before simultaneously along so many
+vectors. Technological chaos. Financial chaos. Regulatory
+chaos. Political chaos. Legal chaos. Disinformation chaos. Social
+chaos. Everything is pointing toward a maelstrom, a perfect storm
+heading toward implosion. And rather than helping to ameliorate this,
+many Big Tech execs appear to be hell bent on speeding the process"
+
+---
+
+War - You Know Who It Is Good For
+
+---
+
+\#Lobbies \#War \#Samler 
+
+[[-]](https://youtu.be/xPrfgn0pugk?t=1173)
+
+---
 
 ## Reference
 
@@ -47,5 +104,3 @@ Also on
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
 
 <img src='https://drive.google.com/uc?export=view&id=1zsIeciFSvlr-sWB84Tc0mfZ_NYqn9VQx'/> 
-
-

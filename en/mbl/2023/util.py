@@ -1,13 +1,12 @@
 from metpy.calc import dewpoint_from_relative_humidity, wet_bulb_temperature
 from metpy.units import units
 import datetime, time as timelib, re, os, glob, numpy.linalg as lin
-import pandas_ta as ta, random, rottentomatoes as rt    
+import pandas_ta as ta, random
 import pandas as pd, datetime, numpy as np, requests
 import urllib.parse, json, io, geocoder, zipfile
 import matplotlib.pyplot as plt, math
 import simplegeomap as sm, util
 import urllib.request as urllib2, itertools
-from yahoofinancials import YahooFinancials
 from pandas_datareader import data, wb
 from io import BytesIO
 
@@ -16,9 +15,6 @@ from siphon.catalog import TDSCatalog
 import netCDF4, numpy as np, numpy.linalg as lin, math
 
 from scipy.interpolate import NearestNDInterpolator
-import ecmwf.data as ecdata
-from magpye import GeoMap
-from ecmwf.opendata import Client
 
 def get_sm(): return sm
 
@@ -583,6 +579,7 @@ def biz_stock_plot(year,ticker):
     df.plot()
 
 def rottentomatoes1(movie):
+    import rottentomatoes as rt 
     return {"tomatometer score": rt.tomatometer(movie)['value'],
             "audience score": rt.audience_score(movie)['value']}
 
@@ -638,6 +635,7 @@ def sw_border_encounter(url):
     g.plot(title='Southwest Land Border Encounters')
 
 def biz_income(ticker):
+  from yahoofinancials import YahooFinancials
   yahoo_financials = YahooFinancials(ticker, concurrent=True, max_workers=8, country="US")
   data_qt = yahoo_financials.get_financial_stmts('quarterly', 'income')
   slist = []
@@ -829,6 +827,9 @@ def sliding_window(image, stepSize, windowSize):
       #yield image[y:y + windowSize[1], x:x + windowSize[0]]
 
 def ecmwf_wind(clat,clon,zoom,M=100,N=60,show_ike=False):
+    import ecmwf.data as ecdata
+    from ecmwf.opendata import Client
+    
     client = Client("ecmwf", beta=True)
     parameters = ['10u', '10v','2t']
     filename = '/tmp/medium-2t-wind.grib'

@@ -1,5 +1,101 @@
 # Week 47
 
+<img width='340' src='https://cdn.dribbble.com/users/1799092/screenshots/3619263/drib_01.gif'/> 
+
+Let's try this one more time.. R&R.. don't blow up the world while I'm gone people
+
+---
+
+The Verge: "Adobe has been issued with a formal antitrust complaint by
+EU regulators regarding its $20 billion bid for cloud-based product
+design platform Figma"
+
+---
+
+"@largess@mastodon.au
+
+Richest 1% account for more carbon emissions than poorest 66%"
+
+---
+
+Farrell: "What OpenAI shares with Scientology.. Strange beliefs,
+fights over money and bad science fiction"
+
+---
+
+"@jasongorman@mastodon.cloud
+
+[T]o investors, it doesn't matter if self-driving cars or AGI actually
+happen. All that matters is that the markets *believe* it will. They
+have an active interest in perpetuating and amplifying the grift, just
+as people who bought Bitcoin had an active interest in doing the
+same. I still can't spend Bitcoin anywhere I'd need to, so as a
+currency, it's a busted flush"
+
+---
+
+ProPublica: "Insurance Executives Refused to Pay for the Cancer
+Treatment That Could Have Saved Him.. This Is How They Did It. A
+Michigan law requires coverage of cancer drugs. One insurer came up
+with a 'defensible' way to avoid paying for treatments.. executives
+came up with a semantic workaround: These cancer drugs aren’t
+technically drugs, they argued, they’re gene therapies. All Priority
+Health had to do was to exclude gene therapies from its policies, and
+it could say no every time"
+
+---
+
+"@campuscodi@mastodon.social
+
+The Irish Council of Civil Liberties says that an Israeli company
+named ISA Security is selling access to Patternz, a powerful
+surveillance tool. The ICCL says Patternz taps into real-time bidding
+information from online ad platforms to provide customers the ability
+to track almost anyone around the world. ISA claims Patternz has data
+points for five billion individuals, including information on their
+driving routes, children, co-workers, and approximate geo-locations"
+
+---
+
+"@lmorchard@hackers.town
+
+My oven announced the arrival of a software update devoted to green
+beans and carrots. That’s when I reached for my revolver"
+
+[[-]](https://cdn.fosstodon.org/media_attachments/files/111/444/892/645/439/335/original/c51f3ac24ec6328e.jpeg)
+
+---
+
+"@pikesley@mastodon.me.uk
+
+People out here making excuses for [coder aid "AI" tool] Co-Pilot
+generating garbage code like it's a naughty child that must be
+indulged"
+
+---
+
+*The Creator*, fine scifi.
+
+---
+
+Why not Mini PC rather than SBC? Mini PCs can be compact, run fast,
+have HDMI output.  But they are marketed as PC replacements (hence the
+name) therefore have the power req to match. Tough to run them in a
+completely mobile setting. SBC use less power, obviously there is a
+tradeoff, latter may not be as responsive running all tasks as Mini
+PCs can be. MPC attemps to match PCs even in gaming. 
+
+---
+
+OS.net: "The German government has launched a new Open Source software
+project called openDesk, which aims to reduce the country’s dependency
+on proprietary software vendors and support transparency and
+interoperability. openDesk is a collection of Open Source software
+modules that are important for day-to-day work in the public sector,
+such as text creation, file collaboration, project management, email,
+calendar and messaging"
+
+---
 
 "@JessTheUnstill@infosec.exchange
 
