@@ -1,60 +1,116 @@
 
-H2 Energy News: "China has surged ahead in the green hydrogen race,
-funneling an impressive 300 billion yuan ($42.04 billion) into the
-burgeoning industry this year, according to a report by state
-broadcaster CCTV"
+Euractiv: "The EU's Hydrogen Bank has begun operations.. By 2030,
+Europe wants to produce 10 million tonnes of renewable hydrogen
+annually. To get companies to switch, Brussels is footing the
+difference between their ability to pay and the high prices charged by
+producers of clean-burning gas"
 
 ---
 
-H2 Central: "Hydrogen Power Generators - Hitachi Energy unveils new
-emission-free alternative to diesel-powered generators"
+"@EU_Commission@respublicae.eu
+
+Hydrogen is going to be a key technology to decarbonise Europe's
+industry and help meet our climate targets.  Today, we've launched the
+first auction under the European Hydrogen Bank to support the
+production of renewable hydrogen in Europe"
 
 ---
 
-Boycott, Divestment Targets
+"@gdeihl@spore.social
 
-- HP
-- AXA
-- Puma
-- Domino's
-- Pizza Hut
-- McDonalds
-- Papa John's
-- WiX
-- Burgerking
-- Elbit Systems
-- CAF
-- CAT
-- Chevron
-- Barclays
-- TKH Security
-- SodaStream
-- Ahava
-- Sabra
-
-[[-]](https://bdsmovement.net/Act-Now-Against-These-Companies-Profiting-From-Genocide)
+Thacker Pass, Nevada, is a place where a massive lithium mine is
+taking place. It runs over the human rights of Native American tribes
+in the area, displaced decades ago by genocide and forced retreat to
+reservations on land thought to be of no value. Now these people,
+among the poorest in the US, are being abused again. In addition to
+mining's traditional destruction, one ton of lithium requires 500,000
+gallons of water to harvest"
 
 ---
 
-"@lauren
+"Cambridge researchers' device can turn contaminated water or seawater
+into clean hydrogen and purified water, anywhere in the world.. [The
+researchers] deposited a photocatalyst on a nanostructured carbon mesh
+that is a good absorber of both light and heat, generating the water
+vapour used by the photocatalyst to create hydrogen. The porous carbon
+mesh, treated to repel water, served both to help the photocatalyst
+float and to keep it away from the water below, so that contaminants
+do not interfere with its functionality.
 
-There is a sense of impending chaos surrounding Big Tech now that I've
-never sensed before simultaneously along so many
-vectors. Technological chaos. Financial chaos. Regulatory
-chaos. Political chaos. Legal chaos. Disinformation chaos. Social
-chaos. Everything is pointing toward a maelstrom, a perfect storm
-heading toward implosion. And rather than helping to ameliorate this,
-many Big Tech execs appear to be hell bent on speeding the process"
+In addition, the new device uses more of the Sun's energy. 'The
+light-driven process for making solar fuels only uses a small portion
+of the solar spectrum - there's a whole lot of the spectrum that goes
+unused,' said [one researcher]"
 
 ---
 
-War - You Know Who It Is Good For
+Ethiopia is landlocked which is a big problem for them. If there
+was proactive conflict resolution there would be mechanisms to
+ensure ETH sea access. 
+
+BBC: "Ethiopia is abuzz with rumours of a new war .. As well as
+importing weapons and mobilising his army, [PM] Mr Abiy.. has been
+saying that access to the sea is an existential question... Ethiopia's
+most obvious target is the Eritrean Red Sea port of Assab, which was
+part of Ethiopia until Eritrean independence more than 30 years ago"
 
 ---
 
-\#Lobbies \#War \#Samler 
+Another movie of his *The Dictator* belittles Middle Eastern
+countries, supports the view that ppl living in such places along with
+their dictators are backward losers. This will lead to the thought
+well bomb the shit out of them why not, with, you know, our very
+latest awesome new Motherbomber 2040+. The last part the viewer had to
+infer himself obvously but hey, leave some stuff to the
+imagination. Such is art.
 
-[[-]](https://youtu.be/xPrfgn0pugk?t=1173)
+---
+
+Sacha BC is a shitlib, it makes sense. Shitlibs are Woke, pro-Zionist,
+and anti-Russian, which helps the private industrial complex (more
+animosity more bombs more money). Woke shifts the discussion from the
+economy, gaslights away from extreme inequality, Russia Russia Russia,
+Hamas Hamas Hamas helps with weapon sales... This ideology is
+manufactured from ground up for the interests of the war lobby.
+
+---
+
+He plays a person from "Kazakhistan" but the type is generally from
+Caucuses, Eurasian looking.. Shown as brash, crass, little stupid -
+not much different from how Russians were portrayed in US movies for
+decades.
+
+---
+
+Borat movies are anti-Russian propaganda
+
+---
+
+Did not watch the debate hosted by Cardigan Shananigan for Newsom-RDS,
+no.  I'm sure it was interesting.. I read some excerpts tho - "we have
+one thing in common.. neither of us will be the nominee for our party
+in 2024”. 
+
+---
+
+FT: "Billionaires amass more through inheritance than wealth creation,
+says UBS.. A survey of the global elite shows the ‘great transfer’
+between generations has overtaken entrepreneurship"
+
+---
+
+TDB: "[F]ive weeks after Mike Johnson was elected speaker, and nearly
+eight weeks since the attack, Congress doesn’t appear any closer to
+passing an aid package—for Israel or for Ukraine, the latter of which
+has been 'weeks' away from running out of weapons for months now"
+
+---
+
+Al Jazeera J Bays made a good point, Lula / Brasil put
+forward a UNSC resolution weeks ago to halt Gaza violence, US vetoed
+it. Then 29 days later they allowed a similar resolution by
+abstaining. In those 29 days there were thousands of additional
+deaths.
 
 ---
 
@@ -104,3 +160,5 @@ Also on
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
 
 <img src='https://drive.google.com/uc?export=view&id=1zsIeciFSvlr-sWB84Tc0mfZ_NYqn9VQx'/> 
+
+
