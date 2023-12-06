@@ -1,116 +1,129 @@
 
-Euractiv: "The EU's Hydrogen Bank has begun operations.. By 2030,
-Europe wants to produce 10 million tonnes of renewable hydrogen
-annually. To get companies to switch, Brussels is footing the
-difference between their ability to pay and the high prices charged by
-producers of clean-burning gas"
+Siasat Daily: "Abu Dhabi launches first hydrogen-powered taxi.. This
+taxis will refuel at the region's first high-speed green hydrogen
+pilot fueling station in Masdar City"
+
+<img width='340' src='https://cdn.siasat.com/wp-content/uploads/2023/12/Abu-Dhabi-hydrogen-taxi-780x470.jpg'/> 
 
 ---
 
-"@EU_Commission@respublicae.eu
-
-Hydrogen is going to be a key technology to decarbonise Europe's
-industry and help meet our climate targets.  Today, we've launched the
-first auction under the European Hydrogen Bank to support the
-production of renewable hydrogen in Europe"
+Al Monitor: "COP28 President.. announced a deal to cut methane
+emissions from the fossil fuel industry, with ExxonMobil and Saudi
+Arabia's state-owned oil firm Aramco being among the 50 businesses
+that signed up"
 
 ---
 
-"@gdeihl@spore.social
-
-Thacker Pass, Nevada, is a place where a massive lithium mine is
-taking place. It runs over the human rights of Native American tribes
-in the area, displaced decades ago by genocide and forced retreat to
-reservations on land thought to be of no value. Now these people,
-among the poorest in the US, are being abused again. In addition to
-mining's traditional destruction, one ton of lithium requires 500,000
-gallons of water to harvest"
+We need to stop seeing excessive wealth accumulation as something
+'benign'. Even if money does not trickle down (and it won't), the
+money will be used to buy assets which poses a big problem for regular
+people.
 
 ---
 
-"Cambridge researchers' device can turn contaminated water or seawater
-into clean hydrogen and purified water, anywhere in the world.. [The
-researchers] deposited a photocatalyst on a nanostructured carbon mesh
-that is a good absorber of both light and heat, generating the water
-vapour used by the photocatalyst to create hydrogen. The porous carbon
-mesh, treated to repel water, served both to help the photocatalyst
-float and to keep it away from the water below, so that contaminants
-do not interfere with its functionality.
-
-In addition, the new device uses more of the Sun's energy. 'The
-light-driven process for making solar fuels only uses a small portion
-of the solar spectrum - there's a whole lot of the spectrum that goes
-unused,' said [one researcher]"
+"French hydrogen project developer Lhyfe has announced plans to build a
+800MW green H2 project in Lubmin, Germany"
 
 ---
 
-Ethiopia is landlocked which is a big problem for them. If there
-was proactive conflict resolution there would be mechanisms to
-ensure ETH sea access. 
-
-BBC: "Ethiopia is abuzz with rumours of a new war .. As well as
-importing weapons and mobilising his army, [PM] Mr Abiy.. has been
-saying that access to the sea is an existential question... Ethiopia's
-most obvious target is the Eritrean Red Sea port of Assab, which was
-part of Ethiopia until Eritrean independence more than 30 years ago"
-
----
-
-Another movie of his *The Dictator* belittles Middle Eastern
-countries, supports the view that ppl living in such places along with
-their dictators are backward losers. This will lead to the thought
-well bomb the shit out of them why not, with, you know, our very
-latest awesome new Motherbomber 2040+. The last part the viewer had to
-infer himself obvously but hey, leave some stuff to the
-imagination. Such is art.
+Imagine giving an alien living in a completely different physical
+environment all the text ever written by mankind, us. They decipher
+the text, are able to read it. But would they, without seeing any of
+the physical environment that gave rise to that text, understand what
+it is to be human? They cannot. "I woke up saw the garden, walked in
+the hills". If the aliens were non-solid, aethereal beings living in a
+f-ing plasma mist, they could not get that reference. They'd put it
+together, match it with other references of that kind, but they would
+not truly know what it is meant on that text. Language is code. We
+communicate *through* that code. Code signifies, is a shorthand for
+something larger that is not present in that text, the
+whole human experience.
 
 ---
 
-Sacha BC is a shitlib, it makes sense. Shitlibs are Woke, pro-Zionist,
-and anti-Russian, which helps the private industrial complex (more
-animosity more bombs more money). Woke shifts the discussion from the
-economy, gaslights away from extreme inequality, Russia Russia Russia,
-Hamas Hamas Hamas helps with weapon sales... This ideology is
-manufactured from ground up for the interests of the war lobby.
+JH is the creator of the ULMFiT on which all modern language models
+are based.
 
 ---
 
-He plays a person from "Kazakhistan" but the type is generally from
-Caucuses, Eurasian looking.. Shown as brash, crass, little stupid -
-not much different from how Russians were portrayed in US movies for
-decades.
+Hah.. Jeremy Howard basically says of LLM tech "u ain't gettin
+advanced AI w this shit". Development apparently stagnated already
+even with the farcical parameters ppl judge these things meaning the
+future does not look good. Improvements now resemble an S curve rather
+than an exponential. If you sank money in this field you are
+fukked.
 
 ---
 
-Borat movies are anti-Russian propaganda
+.. if you can find real wasabi that is.. 95% wasabi out there is fake,
+made with horseradish.
+
+WION: "Japan's traditional spice Wasabi has potential memory-boosting
+properties: Study"
 
 ---
 
-Did not watch the debate hosted by Cardigan Shananigan for Newsom-RDS,
-no.  I'm sure it was interesting.. I read some excerpts tho - "we have
-one thing in common.. neither of us will be the nominee for our party
-in 2024”. 
+Politico: "Russian oil price cap has largely failed, new report
+finds.. An analysis shared with POLITICO reveals that sanctions
+cheats, gaping loopholes and widespread circumvention mean oil
+revenues are still filling Moscow’s war chest"
 
 ---
 
-FT: "Billionaires amass more through inheritance than wealth creation,
-says UBS.. A survey of the global elite shows the ‘great transfer’
-between generations has overtaken entrepreneurship"
+CNBC: "Swiss bank Banque Pictet admits hiding $5.6 billion of
+Americans' money from IRS.. Banque Pictet agreed to pay about
+122.9 million as part of an agreement with U.S. prosecutors"
 
 ---
 
-TDB: "[F]ive weeks after Mike Johnson was elected speaker, and nearly
-eight weeks since the attack, Congress doesn’t appear any closer to
-passing an aid package—for Israel or for Ukraine, the latter of which
-has been 'weeks' away from running out of weapons for months now"
+Al Monitor: "Qatar emir slams 'shameful' inaction on Gaza war"
 
 ---
 
-Al Jazeera J Bays made a good point, Lula / Brasil put
-forward a UNSC resolution weeks ago to halt Gaza violence, US vetoed
-it. Then 29 days later they allowed a similar resolution by
-abstaining. In those 29 days there were thousands of additional
-deaths.
+Informed Comment: "This is a War on Children, and 'Safe Zones' are Death Traps: UNICEF"
+
+\#Gaza
+
+---
+
+Arab News: "France calls at UN for ‘a truce leading to a ceasefire’ in
+Gaza"
+
+---
+
+The Times of Israel: "Achieving the 'total destruction of Hamas' would
+mean 'the war will last 10 years,' Macron said at a press conference
+on the sidelines of the UN’s COP28 climate talks in Dubai"
+
+---
+
+NYT: "The U.S. says Israel must do more to protect civilians. Experts see
+little change."
+
+---
+
+Neocons, US militarism, Israeli Likud party, all there. All serving
+the interests of the private war lobby..
+
+Hossein-Zadeh: "[2006] Huntington’s theory of 'the clash of
+civilizations' is essentially a subtle version of Richard Perle’s
+strategy of 'de-contextualization.'  Perle, a leading neoconservative
+militarist (and a prominent advisor of the Likud Party, the hard-line
+Zionist party of Prime Minister Arial Sharon of Israel) coined the
+term 'de-contextualization' as a way to explain both the desperate
+acts of terrorism in general and the violent tactics of the
+Palestinian resistance to occupation in particular. He argued that in
+order to blunt the widespread global criticism of the Israeli
+treatment of Palestinians, their resistance to occupation must be
+decontextualized; that is, we must stop trying to understand the
+territorial, geopolitical, and historical reasons that some groups
+turn to terrorism. Instead, he suggested, the reasons for the violent
+reactions of such groups must be sought in the arenas of culture
+and/or religion—in the Islamic way of thinking. Like the 'clash of
+civilizations' theory, decontextualization strategy has been part of a
+well-orchestrated effort to divert attention from the root causes of
+terrorism and attribute it to 'pathological problems of the Muslim
+mind'"
 
 ---
 
@@ -160,5 +173,7 @@ Also on
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
 
 <img src='https://drive.google.com/uc?export=view&id=1zsIeciFSvlr-sWB84Tc0mfZ_NYqn9VQx'/> 
+
+
 
 

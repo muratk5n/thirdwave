@@ -6,7 +6,7 @@ import pandas as pd
 pd.set_option('display.max_columns', None)
 ```
 
-<a name='gdp'/>
+<a name='gdp'></a>
 
 ## GDP
 
@@ -23,17 +23,17 @@ print (df['growann'].tail(5))
 
 ```text
 DATE
-2022-04-01   -0.577282
-2022-07-01    3.243338
-2022-10-01    2.574072
-2023-01-01    2.002106
-2023-04-01    2.414287
+2022-07-01    2.660616
+2022-10-01    2.566018
+2023-01-01    2.244165
+2023-04-01    2.060217
+2023-07-01    5.154290
 Name: growann, dtype: float64
 ```
 
 ## The Cycle
 
-<a name="cycle"/>
+<a name="cycle"></a>
 
 ![](cycle.png)
 
@@ -67,23 +67,23 @@ plt.savefig('cycle.png')
 ```text
               gdpyoy
 DATE                
-2022-01-01  3.683679
-2022-04-01  1.796042
-2022-07-01  1.942138
-2022-10-01  0.881278
-2023-01-01  1.800193
-2023-04-01  2.557477
+2022-04-01  1.870598
+2022-07-01  1.713213
+2022-10-01  0.651692
+2023-01-01  1.717927
+2023-04-01  2.382468
+2023-07-01  2.930891
                  inf
 DATE                
-2023-02-01  6.035613
-2023-03-01  4.984974
 2023-04-01  4.930320
 2023-05-01  4.047609
 2023-06-01  2.969178
 2023-07-01  3.177780
+2023-08-01  3.665112
+2023-09-01  3.699698
 ```
 
-<a name='taylor'/>
+<a name='taylor'></a>
 
 The Taylor Rule
 
@@ -102,10 +102,10 @@ plt.savefig('taylor.jpg',quality=40)
 
 ```text
 DATE
-2020-01-01    0.204649
-2021-01-01    6.606199
-2022-01-01    9.937596
-2023-01-01    5.294731
+2020-01-01     4.624963
+2021-01-01    11.363714
+2022-01-01    14.706453
+2023-01-01    10.870215
 Freq: AS-JAN, Name: Taylor, dtype: float64
 ```
 
@@ -113,7 +113,7 @@ Freq: AS-JAN, Name: Taylor, dtype: float64
 
 ## Wages and Unemployment
 
-<a name="quits"/>
+<a name='quits'></a>
 
 Job Quits, Resignations
 
@@ -140,7 +140,7 @@ Name: JTSQUR, dtype: float64
 
 ![](quits.png)
 
-<a name="wages"></a>
+<a name='wages'></a>
 
 Wages
 
@@ -165,7 +165,7 @@ Name: wagegrowth, dtype: float64
 
 ![](wages.png)
 
-<a name="claims"></a>
+<a name='claims'></a>
 
 Claims
 
@@ -191,7 +191,7 @@ DATE
 
 ![](icsa.png)
 
-<a name="wagepayroll"></a>
+<a name='wagepayroll'></a>
 
 Difference Between Wage Growth YoY and Total Payrolls, see [5]
 
@@ -227,7 +227,7 @@ Name: nfpyoy, dtype: float64
 
 ![](pay-wage.png)
 
-<a name="compprof"></a>
+<a name='compprof'></a>
 
 Compensation and Profits Comparison [5]
 
@@ -253,16 +253,16 @@ plt.savefig('compprof.png')
 ```text
               profgdp    compgva
 DATE                            
-2022-04-01  12.052664  57.155713
-2022-07-01  11.237827  56.110269
-2022-10-01  10.411259  56.230979
-2023-01-01  10.132103  56.149620
-2023-04-01  10.016876  56.149620
+2022-07-01  11.592721  55.373114
+2022-10-01  10.792341  55.408772
+2023-01-01  10.744704  54.830611
+2023-04-01  10.726301  54.418297
+2023-07-01  10.508645  54.418297
 ```
 
 ![](compprof.png)
 
-<a name="unempl"></a>
+<a name='unempl'></a>
 
 Unemployment
 
@@ -284,16 +284,16 @@ plt.savefig('unemploy.png')
 ```text
             UNRATE  U6RATE  REAL_UNRATE  REAL_UNEMP_LEVEL
 DATE                                                     
-2023-03-01     3.5     6.7     7.686033           12815.0
-2023-04-01     3.4     6.6     7.726711           12879.5
-2023-05-01     3.7     6.7     8.058783           13443.5
 2023-06-01     3.6     6.9     8.051165           13441.5
 2023-07-01     3.5     6.7     7.832295           13088.0
+2023-08-01     3.8     7.1     8.243317           13835.5
+2023-09-01     3.8     7.0     8.243067           13842.5
+2023-10-01     3.9     7.2     8.359069           14020.5
 ```
 
 ![](unemploy.png)
 
-<a name='vacrate'/>
+<a name='vacrate'></a>
 
 Vacancy rate, job openings divided by unemployed people
 
@@ -318,7 +318,7 @@ Freq: MS, Name: VRATE, dtype: float64
 
 ## Companies
 
-<a name="pm"></a>
+<a name='pm'></a>
 
 Profit Margins
 
@@ -349,33 +349,12 @@ DATE
 
 ![](profitmargin.png)
 
-<a name="earnings"/>
-
-```python
-df = u.get_quandl("MULTPL/SP500_EARNINGS_MONTH")
-df.columns = ['SP 500 Earnings']
-print (df.tail(5))
-df[df.index > '2010-01-01'].plot()
-plt.savefig('sp500-earnings.png')
-```
-
-```text
-            SP 500 Earnings
-Date                       
-2022-11-30           181.94
-2022-12-31           177.59
-2023-01-31           177.00
-2023-02-28           176.84
-2023-03-31           177.07
-```
-
-![](sp500-earnings.png)
 
 ## Finance
 
 Dollar
 
-<a name="dollar"></a>
+<a name='dollar'></a>
 
 ```python
 df = u.get_yahoofin(1980, "DX-Y.NYB").interpolate()
@@ -389,17 +368,17 @@ plt.savefig('dollar.png')
 
 ```text
 Date
-2023-08-18    103.379997
-2023-08-20    103.355000
-2023-08-21    103.330002
-2023-08-22    103.552002
+2023-11-28    102.750000
+2023-11-29    102.769997
+2023-11-30    103.500000
+2023-12-01    103.193001
 Name: Close, dtype: float64
-[ 81.18306906 111.52955148]
+[ 81.27053924 111.55399724]
 ```
 
 ![](dollar.png)
 
-<a name="wilshire"></a>
+<a name='wilshire'></a>
 
 Total Market Cap / GDP
 
@@ -415,15 +394,15 @@ plt.savefig('wilshire.png')
 ```text
             WILL5000IND
 DATE                   
-2023-08-16       219.43
-2023-08-17       217.63
-2023-08-18       217.76
-2023-08-21       219.08
+2023-11-27       226.59
+2023-11-28       226.75
+2023-11-29       226.87
+2023-11-30       227.81
 ```
 
 ![](wilshire.png)
 
-<a name="junkbond"></a>
+<a name='junkbond'></a>
 
 Junk Bond Yields
 
@@ -450,7 +429,7 @@ DATE
 
 ![](junkbond.png)
 
-<a name="treas"></a>
+<a name='treas'></a>
 
 3 Month, 2 and 10 Year Treasury Rates
 
@@ -475,7 +454,7 @@ DATE
 
 ![](treasuries.png)
 
-<a name="tcurve"></a>
+<a name='tcurve'></a>
 
 Treasury Curve
 
@@ -490,7 +469,7 @@ plt.savefig('tcurve.jpg',quality=50)
 
 ![](tcurve.jpg)
 
-<a name="fedbalance"></a>
+<a name='fedbalance'></a>
 
 The FED Balance Sheet and SP500
 
@@ -505,7 +484,7 @@ plt.savefig('fedbalance.jpg',quality=50)
 
 ![](fedbalance.jpg)
 
-<a name="vix"></a>
+<a name='vix'></a>
 
 VIX
 
@@ -534,7 +513,7 @@ Name: Close, dtype: float64
 
 ## Wealth, Debt
 
-<a name="credit"/>
+<a name='credit'></a>
 
 Private Debt to GDP Ratio
 
@@ -562,7 +541,7 @@ Freq: QS-OCT, Name: Credit to GDP, dtype: float64
 
 ![](creditgdp.png)
 
-<a name="debt"/>
+<a name='debt'></a>
 
 Total Consumer Credit Outstanding as % of GDP
 
@@ -581,16 +560,16 @@ plt.savefig('debt.png')
 
 ```text
 DATE
-2023-03-01    18.506770
-2023-04-01    18.519839
-2023-05-01    18.555080
-2023-06-01    18.621588
+2023-04-01    18.509597
+2023-05-01    18.509499
+2023-06-01    18.561801
+2023-07-01    18.600604
 Freq: MS, Name: debt, dtype: float64
 ```
 
 ![](debt.png)
 
-<a name="gini"/>
+<a name='gini'></a>
 
 Wealth Inequality - GINI Index
 
@@ -638,17 +617,45 @@ plt.savefig('gini.png')
 
 ```text
 DATE
-2022-04-01    0.438
-2022-07-01    0.441
-2022-10-01    0.445
-2023-01-01    0.446
+2022-07-01    0.443
+2022-10-01    0.448
+2023-01-01    0.448
+2023-04-01    0.444
 Freq: QS-OCT, dtype: float64
 ```
 
 ![](gini.png)
 
+<a name='top10'></a>
 
-<a name='chex'/>
+Percentage of Wealth Held by Top 10%
+
+```python
+cols = ['WFRBLT01026', 'WFRBLN09053','WFRBLN40080','WFRBLB50107']
+df = u.get_fred(1970,cols)
+df = df.interpolate()
+
+df['Total'] =  df['WFRBLT01026'] + df['WFRBLN09053'] + df['WFRBLB50107'] + df['WFRBLN40080']
+df['Top 10%'] = (df['WFRBLT01026'] + df['WFRBLN09053']) * 100 / df.Total 
+df['Bottom 50%'] = (df['WFRBLB50107'] * 100) / df.Total 
+
+print (df[['Top 10%','Bottom 50%']].tail(4))
+df[['Top 10%']].plot()
+plt.savefig('top10.png')
+```
+
+```text
+              Top 10%  Bottom 50%
+DATE                             
+2022-07-01  69.035130    2.482940
+2022-10-01  69.236514    2.365433
+2023-01-01  69.206100    2.372174
+2023-04-01  68.727034    2.507332
+```
+
+![](top10.png)
+
+<a name='chex'></a>
 
 ## Foreign
 
@@ -663,11 +670,11 @@ print (df.tail(5))
 ```text
             XTEXVA01CNM667S
 DATE                       
-2023-02-01     2.994320e+11
-2023-03-01     3.474744e+11
-2023-04-01     3.215777e+11
-2023-05-01     2.799724e+11
-2023-06-01     2.718135e+11
+2023-06-01     2.718151e+11
+2023-07-01     2.665892e+11
+2023-08-01     2.705037e+11
+2023-09-01     2.826520e+11
+2023-10-01     2.687864e+11
 ```
 
 ![](exchina.jpg)
