@@ -1,129 +1,130 @@
 
-Siasat Daily: "Abu Dhabi launches first hydrogen-powered taxi.. This
-taxis will refuel at the region's first high-speed green hydrogen
-pilot fueling station in Masdar City"
+Foreign Affairs: "Collective Punishment Won’t Defeat Hamas"
 
-<img width='340' src='https://cdn.siasat.com/wp-content/uploads/2023/12/Abu-Dhabi-hydrogen-taxi-780x470.jpg'/> 
+[[-]](https://www.foreignaffairs.com/israel/israels-failed-bombing-campaign-gaza)
 
 ---
 
-Al Monitor: "COP28 President.. announced a deal to cut methane
-emissions from the fossil fuel industry, with ExxonMobil and Saudi
-Arabia's state-owned oil firm Aramco being among the 50 businesses
-that signed up"
+"Dieselgate, but for trains"
+
+[[-]](https://badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking/)
 
 ---
 
-We need to stop seeing excessive wealth accumulation as something
-'benign'. Even if money does not trickle down (and it won't), the
-money will be used to buy assets which poses a big problem for regular
-people.
+Matt Ferrell: "In the summer of 2023, the Rijnstate hospital of Elst,
+The Netherlands opened its doors. What makes this particular campus
+interesting is how it generates its energy... The building collects
+energy from over 1,300 solar panels located on both the roof and the
+ground floor. When there’s a surplus of solar, that energy goes toward
+electrolysis, the splitting action that produces hydrogen. This then
+allows for hydrogen fuel cells to kick in as a form of reserve power
+when the sunnier supplies are low..
+
+<img width='340' src='https://undecidedmf.com/wp-content/uploads/2023/11/image2.png'/> 
+
+The Rijnstate isn’t the only hospital that integrated hydrogen into
+its energy generation this year. Just recently, the Viamed San José
+Hospital located in Murcia, Spain, installed a system that involves
+powering the creation of hydrogen through its 289 solar panels. The
+resulting hydrogen feeds into a boiler for space heating. Meanwhile,
+the oxygen produced as a byproduct of the electrolysis is then
+repurposed as a critical resource for medical procedures
+
+That’s insanely cool. Those hospitals are good examples of how green
+hydrogen is already getting used today..
+
+A while back, I covered a new form of electrolyzer by the Australian
+company Hysata. Its design is really promising, with an efficiency
+rating jumping from about 75% to a whopping 95%..
+
+There’s also Sparc Hydrogen, a collaboration between Sparc
+Technologies, the University of Adelaide, Flinders University, and
+Fortescue Future Industries.14 Unlike typical setups, Sparc’s hydrogen
+production method doesn’t require an electrolyzer or electricity
+pulled from renewable energy infrastructure. Instead, it’s based on
+photocatalytic water splitting, or PWS"
 
 ---
 
-"French hydrogen project developer Lhyfe has announced plans to build a
-800MW green H2 project in Lubmin, Germany"
+SciTechDaily: “Over 12,000 participants, aged 45 to 74, were followed
+for 20 years in the #Singapore Chinese #Health Study.. Higher caffeine
+intake was associated with lower odds of physical frailty, regardless
+of the source”
 
 ---
 
-Imagine giving an alien living in a completely different physical
-environment all the text ever written by mankind, us. They decipher
-the text, are able to read it. But would they, without seeing any of
-the physical environment that gave rise to that text, understand what
-it is to be human? They cannot. "I woke up saw the garden, walked in
-the hills". If the aliens were non-solid, aethereal beings living in a
-f-ing plasma mist, they could not get that reference. They'd put it
-together, match it with other references of that kind, but they would
-not truly know what it is meant on that text. Language is code. We
-communicate *through* that code. Code signifies, is a shorthand for
-something larger that is not present in that text, the
-whole human experience.
+A rise in homelessness, same thing. If anything trickle-down economics
+occurs only here - one percenter buys homes in excess snatching it
+away from upper middle class, who do the same for middle class, down
+and down it goes, and all of a sudden lower income person can't buy or
+rent (rent price is a reflection of purchase price), ends up on
+the streets. This is clear to see in the statistics, the modern
+homeless isn't some random bum, half of these people are actually
+employed!
 
 ---
 
-JH is the creator of the ULMFiT on which all modern language models
-are based.
+Ergo "housing crisis" is not about shortage in overall housing. The
+crisis is a reflection of the society's inequality, there are enough
+homes but the rich are buying them, as investment, end most end up
+with no affordable housing. Middle class buys bread, wealthy buy
+assets. If they have too much money, distribution is skewed, there
+will be a bubble in the prices of those assets.
 
 ---
 
-Hah.. Jeremy Howard basically says of LLM tech "u ain't gettin
-advanced AI w this shit". Development apparently stagnated already
-even with the farcical parameters ppl judge these things meaning the
-future does not look good. Improvements now resemble an S curve rather
-than an exponential. If you sank money in this field you are
-fukked.
+Stevenson: "[2023/05] Most people in ordinary financial positions or poor
+financial positions tend to spend all of their income over the course
+of their life on goods and services. They generally die without any
+accumulated assets, which means that they've spent everything on goods
+and services. Ordinary people buy goods and services that drives
+wages.  Rich people, on the other hand, especially very rich people,
+tend to spend the majority of their income on buying more assets.
+
+So that means if wealth inequality increases in society, ordinary and
+poor people have less, rich and very rich people have more. Society as
+a whole will start to want more assets and less goods and services.
+And that is because we're moving purchasing power away from ordinary
+people, who like goods and services, towards rich and very rich people
+who like to buy assets.  So as inequality increases, asset prices
+naturally go up.  Goods and services and wage prices naturally go
+down.
+
+But if you remember, our central banks are trying to ensure that goods
+and services prices specifically keep going up at 2, 2.5, 3% a year.
+Because we have rising inequality, those goods and services prices,
+they want to go down because ordinary people who drive those prices
+are losing their purchasing power. That means that for most of the
+last 20, 30 years, central banks have been trying to convince ordinary
+people to spend money by cutting their interest rates. But remember
+those cutting interest rates, not only do they drive up ordinary
+prices, they also drive up asset prices for the rich. But asset prices
+for the rich are going up anyway, because the rich people are getting
+more and more and more money.  So what's happening is this inequality
+is driving down wages, driving down the price of goods and services,
+and that forces action from central banks and governments, central
+banks to cut interest rates, governments to spend more money to try
+and support the economy. And a side effect of that is the rich get
+even richer and asset prices go up even more.. so in a sense, what
+you're seeing is another one of these.. death spirals of the economy"
 
 ---
 
-.. if you can find real wasabi that is.. 95% wasabi out there is fake,
-made with horseradish.
-
-WION: "Japan's traditional spice Wasabi has potential memory-boosting
-properties: Study"
+Talking about death and despair in that uppity college voice.. kudos to
+people who can sit through these news conferences. \#US \#spox
 
 ---
 
-Politico: "Russian oil price cap has largely failed, new report
-finds.. An analysis shared with POLITICO reveals that sanctions
-cheats, gaping loopholes and widespread circumvention mean oil
-revenues are still filling Moscow’s war chest"
+"@wilbr@glitch.social
 
----
-
-CNBC: "Swiss bank Banque Pictet admits hiding $5.6 billion of
-Americans' money from IRS.. Banque Pictet agreed to pay about
-122.9 million as part of an agreement with U.S. prosecutors"
-
----
-
-Al Monitor: "Qatar emir slams 'shameful' inaction on Gaza war"
-
----
-
-Informed Comment: "This is a War on Children, and 'Safe Zones' are Death Traps: UNICEF"
-
-\#Gaza
-
----
-
-Arab News: "France calls at UN for ‘a truce leading to a ceasefire’ in
-Gaza"
-
----
-
-The Times of Israel: "Achieving the 'total destruction of Hamas' would
-mean 'the war will last 10 years,' Macron said at a press conference
-on the sidelines of the UN’s COP28 climate talks in Dubai"
-
----
-
-NYT: "The U.S. says Israel must do more to protect civilians. Experts see
-little change."
-
----
-
-Neocons, US militarism, Israeli Likud party, all there. All serving
-the interests of the private war lobby..
-
-Hossein-Zadeh: "[2006] Huntington’s theory of 'the clash of
-civilizations' is essentially a subtle version of Richard Perle’s
-strategy of 'de-contextualization.'  Perle, a leading neoconservative
-militarist (and a prominent advisor of the Likud Party, the hard-line
-Zionist party of Prime Minister Arial Sharon of Israel) coined the
-term 'de-contextualization' as a way to explain both the desperate
-acts of terrorism in general and the violent tactics of the
-Palestinian resistance to occupation in particular. He argued that in
-order to blunt the widespread global criticism of the Israeli
-treatment of Palestinians, their resistance to occupation must be
-decontextualized; that is, we must stop trying to understand the
-territorial, geopolitical, and historical reasons that some groups
-turn to terrorism. Instead, he suggested, the reasons for the violent
-reactions of such groups must be sought in the arenas of culture
-and/or religion—in the Islamic way of thinking. Like the 'clash of
-civilizations' theory, decontextualization strategy has been part of a
-well-orchestrated effort to divert attention from the root causes of
-terrorism and attribute it to 'pathological problems of the Muslim
-mind'"
+The insult on top of the injury of Israel's genocide is that they're
+proving conspiracy theorists right. I can hardly look around without
+seeing a billionaire or media conglomerate or government bending over
+backwards to support Israel or silence opposition. Critique of the
+Israeli military is, according to the US House of Representatives,
+anti-Jewish, despite being false on its face. All our allies and the
+UN are giving Israel free reign to do whatever it wants with only weak
+protest"
 
 ---
 
@@ -173,7 +174,3 @@ Also on
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
 
 <img src='https://drive.google.com/uc?export=view&id=1zsIeciFSvlr-sWB84Tc0mfZ_NYqn9VQx'/> 
-
-
-
-
