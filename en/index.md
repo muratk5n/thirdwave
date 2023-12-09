@@ -1,130 +1,110 @@
 
-Foreign Affairs: "Collective Punishment Won’t Defeat Hamas"
-
-[[-]](https://www.foreignaffairs.com/israel/israels-failed-bombing-campaign-gaza)
+ESPN: "F1, FIA announce hydrogen working group with rebranded series"
 
 ---
 
-"Dieselgate, but for trains"
-
-[[-]](https://badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking/)
-
----
-
-Matt Ferrell: "In the summer of 2023, the Rijnstate hospital of Elst,
-The Netherlands opened its doors. What makes this particular campus
-interesting is how it generates its energy... The building collects
-energy from over 1,300 solar panels located on both the roof and the
-ground floor. When there’s a surplus of solar, that energy goes toward
-electrolysis, the splitting action that produces hydrogen. This then
-allows for hydrogen fuel cells to kick in as a form of reserve power
-when the sunnier supplies are low..
-
-<img width='340' src='https://undecidedmf.com/wp-content/uploads/2023/11/image2.png'/> 
-
-The Rijnstate isn’t the only hospital that integrated hydrogen into
-its energy generation this year. Just recently, the Viamed San José
-Hospital located in Murcia, Spain, installed a system that involves
-powering the creation of hydrogen through its 289 solar panels. The
-resulting hydrogen feeds into a boiler for space heating. Meanwhile,
-the oxygen produced as a byproduct of the electrolysis is then
-repurposed as a critical resource for medical procedures
-
-That’s insanely cool. Those hospitals are good examples of how green
-hydrogen is already getting used today..
-
-A while back, I covered a new form of electrolyzer by the Australian
-company Hysata. Its design is really promising, with an efficiency
-rating jumping from about 75% to a whopping 95%..
-
-There’s also Sparc Hydrogen, a collaboration between Sparc
-Technologies, the University of Adelaide, Flinders University, and
-Fortescue Future Industries.14 Unlike typical setups, Sparc’s hydrogen
-production method doesn’t require an electrolyzer or electricity
-pulled from renewable energy infrastructure. Instead, it’s based on
-photocatalytic water splitting, or PWS"
+Arab News: "US reviewing Amnesty International report that said US-made
+munitions have killed civilians in Gaza"
 
 ---
 
-SciTechDaily: “Over 12,000 participants, aged 45 to 74, were followed
-for 20 years in the #Singapore Chinese #Health Study.. Higher caffeine
-intake was associated with lower odds of physical frailty, regardless
-of the source”
+Mother Jones: "The Biden administration pledged on Saturday to phase
+out coal power plants alongside dozens of other countries"
 
 ---
 
-A rise in homelessness, same thing. If anything trickle-down economics
-occurs only here - one percenter buys homes in excess snatching it
-away from upper middle class, who do the same for middle class, down
-and down it goes, and all of a sudden lower income person can't buy or
-rent (rent price is a reflection of purchase price), ends up on
-the streets. This is clear to see in the statistics, the modern
-homeless isn't some random bum, half of these people are actually
-employed!
+"@baldur@toot.cafe
+
+This would be at least the second time that Google has been caught
+faking an AI demo, right? Or are there more beyond Duplex and the
+dodgy Nemesis video?"
 
 ---
 
-Ergo "housing crisis" is not about shortage in overall housing. The
-crisis is a reflection of the society's inequality, there are enough
-homes but the rich are buying them, as investment, end most end up
-with no affordable housing. Middle class buys bread, wealthy buy
-assets. If they have too much money, distribution is skewed, there
-will be a bubble in the prices of those assets.
+Techcrunch: "Google’s new Gemini AI model is getting a mixed reception
+after its big debut yesterday, but users may have less confidence in
+the company’s tech or integrity after finding out that the most
+impressive demo of Gemini was pretty much faked"
 
 ---
 
-Stevenson: "[2023/05] Most people in ordinary financial positions or poor
-financial positions tend to spend all of their income over the course
-of their life on goods and services. They generally die without any
-accumulated assets, which means that they've spent everything on goods
-and services. Ordinary people buy goods and services that drives
-wages.  Rich people, on the other hand, especially very rich people,
-tend to spend the majority of their income on buying more assets.
+Fuelcellsworks: "Floating Power Plant Sign Groundbreaking EU Innovation
+Fund Grant For 26m€"
 
-So that means if wealth inequality increases in society, ordinary and
-poor people have less, rich and very rich people have more. Society as
-a whole will start to want more assets and less goods and services.
-And that is because we're moving purchasing power away from ordinary
-people, who like goods and services, towards rich and very rich people
-who like to buy assets.  So as inequality increases, asset prices
-naturally go up.  Goods and services and wage prices naturally go
-down.
-
-But if you remember, our central banks are trying to ensure that goods
-and services prices specifically keep going up at 2, 2.5, 3% a year.
-Because we have rising inequality, those goods and services prices,
-they want to go down because ordinary people who drive those prices
-are losing their purchasing power. That means that for most of the
-last 20, 30 years, central banks have been trying to convince ordinary
-people to spend money by cutting their interest rates. But remember
-those cutting interest rates, not only do they drive up ordinary
-prices, they also drive up asset prices for the rich. But asset prices
-for the rich are going up anyway, because the rich people are getting
-more and more and more money.  So what's happening is this inequality
-is driving down wages, driving down the price of goods and services,
-and that forces action from central banks and governments, central
-banks to cut interest rates, governments to spend more money to try
-and support the economy. And a side effect of that is the rich get
-even richer and asset prices go up even more.. so in a sense, what
-you're seeing is another one of these.. death spirals of the economy"
+<img width='340' src='https://s3.eu-central-2.wasabisys.com/mastodonworld/cache/preview_cards/images/024/507/939/original/5851d9d8d069deb3.png'/> 
 
 ---
 
-Talking about death and despair in that uppity college voice.. kudos to
-people who can sit through these news conferences. \#US \#spox
+Hot Cars: "According to a newly filed patent, Toyota's "Hydrogen
+Sharing Network" would enable safe hydrogen fuel creation and storage
+at home"
 
 ---
 
-"@wilbr@glitch.social
+Macro Polo - I dig the name
 
-The insult on top of the injury of Israel's genocide is that they're
-proving conspiracy theorists right. I can hardly look around without
-seeing a billionaire or media conglomerate or government bending over
-backwards to support Israel or silence opposition. Critique of the
-Israeli military is, according to the US House of Representatives,
-anti-Jewish, despite being false on its face. All our allies and the
-UN are giving Israel free reign to do whatever it wants with only weak
-protest"
+---
+
+Macro Polo: "Unbeknownst to many, China already makes more than 40% of
+the world’s electrolyzers. When it comes to alkaline electrolyzers,
+China is even more dominant with more than 60% of the global
+manufacturing capacity..
+
+One factor behind China’s impressive electrolyzer production capacity
+is that long [.. ago] China was already using hydrogen extensively to
+produce polysilicon, a key input for photovoltaic cell
+manufacturing. It comes as no surprise, then, that some of China’s
+biggest electrolyzer producers are also major solar companies such as
+LONGi and Sungrow Power"
+
+---
+
+"'Do-Not-Track' privacy setting gets legal backing in Germany
+Legislators are finally paying attention to concerns about how our
+digital data is tracked, collected, and stored"
+
+---
+
+Yes but that presupposes a system of law that is abided, agreed upon
+by all parties and the society in general. Where that exists, the
+outliers can be subject to a certain procedure... For ISR/Palestine no
+such backdrop, agreement exists. Israel does not follow UNSC
+resolutions, international law. UNSC Res 446 (stop settlement
+activity), or 2334. UNSC Res 478, 497..  UNSC does not recognize the
+situation created in Jerusalem and Golan Heights.  Israel is an
+apartheid state which is a crime. "The ICC provides for individual
+criminal responsibility for crimes against humanity, including the
+[crime](https://en.wikipedia.org/wiki/Crime_of_apartheid) of
+apartheid". With the absence of any law, proper conduct, you have
+jungle law, and people, esp victims of that jungle will act in all
+sorts of ways to change their existing situation. You will get animal
+behaviour if you keep treating people like animals. To address that,
+you need context.
+
+"Decontextualization is bad but isn't national crime enforcement an example
+of that? You do a crime you do the time?'"
+
+---
+
+The Guardian: "UK spends more financing inequality in favour of rich
+than rest of Europe, report finds.. Inequalities of income, wealth and
+power cost UK £106.2bn a year compared with average developed OECD
+country"
+
+---
+
+What is the breakdown of total wealth in US? Top 10% hold about 100
+trillion $.  All companies under SP 500 are worth 38 trillion, all
+land, real estate is about 44 tr. Total gold is 14 tr, US probably has
+1-2 trillon of that... Numbers are adding up. Combine all commodities,
+cash (foreign, domestic), and bonds, you can reach 130-140 easy. Most
+of that is held by the top 10%. Bottom 50% has nothing.
+
+---
+
+"North eastern Syria suffers from lack of water amid desertification" FRANCE 24 English
+
+[[-]](https://youtu.be/bb-k9uQVY4s?t=236)
 
 ---
 
