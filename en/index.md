@@ -58,10 +58,10 @@ enforcement.
 
 But I bet their whining wasn't as much about taking back their local
 independence but about wanting to keep using this ICSID system where,
-I suspect, Anglo companies are favored more. IOW they wanted to go
-back to the shady multinational system they helped found where their
-rich feel more "at home", rather than be more equal terms with their
-European neighbors.
+I suspect, Anglo companies are favored more. IOW Brexiters wanted to
+go back to the shady multinational system they helped found where
+their rich feel more "at home", rather than be more equal terms with
+their European neighbors.
 
 ---
 
