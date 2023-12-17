@@ -6,14 +6,18 @@ meeting the energy storage needs of semi-trucks"
 
 ---
 
-Bad news for Ukranians but Russian army without the Wagner chief
-seems to be fighting better than with him around. Guy was an
-"enterpreneur" right, always marketing himself meaning unnecessarily
-talking out of his ass that also breke discipline. Such acts do not
-work in high-risk occupations like war. The free-market is fine for
-selling shoelacees or candy and shit, but for anything more
-serious, the goveronment ha to be invvolved. Hierarchy exists in such
-domains for a reason. THe "Maverick" stuff is for movies. 
+Hierarchy exists in high-risk domains for a reason. The
+"Maverick" stuff is for movies.
+
+---
+
+Bad news for Ukranians but Russian army without the Wagner chief seems
+to be fighting better than with him around. Guy was an "enterpreneur"
+right, always marketing himself meaning unnecessarily talking out of
+his ass that also broke discipline. Such acts do not work in high-risk
+occupations like war. The free-market is fine for selling shoelaces
+or candy and shit, but for anything more serious, the government has
+to be involved. 
 
 ---
 
@@ -109,3 +113,4 @@ Also on
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
 
 <img src='https://drive.google.com/uc?export=view&id=1zsIeciFSvlr-sWB84Tc0mfZ_NYqn9VQx'/> 
+
