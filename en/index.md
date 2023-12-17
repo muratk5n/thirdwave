@@ -1,81 +1,65 @@
 
-<img width='340' src='https://cdn.masto.host/mastopt/cache/preview_cards/images/007/693/280/original/d53d97cb9ac1b3dd.jpg'/> 
-
-"@miguel_pacheco@masto.pt
-
-Hylane GmbH, after a year of renting hydrogen commercial vehicles
-
-- Hydrogen fuel cell vehicles work as a mature technology already
-
-- Hylane wants to expand its hydrogen fleet
-
-- Freight capacity and refill times approved by customers
-
-- Driving ranges overperform frequently: up to 800 Km from manufacturers stated 450 Km"
+H2 View: "Verne and LLNL achieve storage record with CcH2 solution.. With a
+capacity of 29kg, the two companies have tripled previous records for
+cryo-compressed hydrogen storage, achieving its first demonstration,
+meeting the energy storage needs of semi-trucks"
 
 ---
 
-TASS: "'Russia-Japan green energy cooperation should not be affected
-by politics.. Cooperation between Russia and Japan in the formation
-and growth of supply chains for LNG, hydrogen, fuel ammonia, wood
-pellets and the development of the entire green technology complex
-would benefit not only our countries, but the entire world,' [RU
-official] Natalya Stapran said"
+Bad news for Ukranians but Russian army without the Wagner chief
+seems to be fighting better than with him around. Guy was an
+"enterpreneur" right, always marketing himself meaning unnecessarily
+talking out of his ass that also breke discipline. Such acts do not
+work in high-risk occupations like war. The free-market is fine for
+selling shoelacees or candy and shit, but for anything more
+serious, the goveronment ha to be invvolved. Hierarchy exists in such
+domains for a reason. THe "Maverick" stuff is for movies. 
 
 ---
 
-"JohanEmpa@mastodon.green
+Peggy Lee - Ridin' High
 
-All new buildings should be zero-emission as of 2030 Buildings
-account for 36% of EU greenhouse-gas emissions"
-
----
-
-\#JoshPaul
-
-[[-]](https://youtu.be/o5106v4b05I?t=522)
+[[-]](https://www.youtube.com/watch?v=KulxVMecSi8)
 
 ---
 
-\#JoshPaul
+"First Hydrogen fleet at the [Siemens] Wildenrath test center
 
-[[-]](https://www.youtube.com/embed/o5106v4b05I?start=192&end=465")
+- All hydrogen-powered Mireo Plus H trains have arrived at the
+Wildenrath test center
 
----
+- Siemens Mobility delivers seven two-car trains powered by fuel cells
+for the Heidekrautbahn network operated by Niederbarnimer Eisenbahn
+(NEB)
 
-"@Karenawokekaren@sfba.social
+- Siemens Mobility’s first order for a train fleet based on hydrogen
+technology – first hydrogen-powered train fleet for Berlin-Brandenburg
 
-Banner at today's March for Palestine London"
-
-[[-]](https://files.sfba.social/media_attachments/files/111/551/068/898/804/117/small/6e2b9deb5fc6b96d.jpg)
-
----
-
-European Court of Justice was one of the things the Brexiters whined
-about the most, because remember, they wanted to "take back their
-freedom" and not be subject to opressive European laws through ECJ
-enforcement.
-
-But I bet their whining wasn't as much about taking back their local
-independence but about wanting to keep using this ICSID system where,
-I suspect, Anglo companies are favored more. IOW Brexiters wanted to
-go back to the shady multinational system they helped found where
-their rich feel more "at home", rather than be more equal terms with
-their European neighbors.
+- Hydrogen fleet to be delivered in the fall of 2024. Trains are to
+operate on the Heidekrautbahn network (RB27) beginning in December
+2024"
 
 ---
 
-"[2022/03] The conflict between international investment treaty arbitration and EU law"
-
-[[-]](https://www.shoosmiths.com/insights/articles/the-conflict-between-international-investment-treaty-arbitration-and-eu-law)
-
----
-
-"[2023/07] German Court Says EU Members Can Evade ICSID Arbitration"
+The powers that be can try to criminalize it, but cannot criminalize
+people simply *not* buying certain products.
 
 ---
 
-I wonder how ICSID stacks up against the EU's own arbitration
+BDS will work. Thats why they are scared of it.
+
+---
+
+Cannot deny what Houthis are doing is helpful for the Palestinian
+cause.. they are hitting the muckers where it hurts, their money and
+bidness. If the boycots expand as well together they can move the
+dial.
+
+F24: "World’s largest shipping firm Maersk suspends Red Sea traffic
+after Houthi attacks.. A ballistic missile fired by Yemen's Houthi
+rebels slammed into a cargo ship Friday in the Red Sea near the
+strategic Bab el-Mandeb Strait, following another attack only hours
+earlier that struck a separate vessel, authorities said"
 
 ---
 
@@ -125,5 +109,3 @@ Also on
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
 
 <img src='https://drive.google.com/uc?export=view&id=1zsIeciFSvlr-sWB84Tc0mfZ_NYqn9VQx'/> 
-
-

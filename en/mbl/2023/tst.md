@@ -24,23 +24,17 @@ pd.set_option('display.max_columns', None)
 
 
 
-
-
-
-
 ```python
-df = u.biden_approval()['net']
-print (df.tail(4))
-df.plot()
-plt.savefig('/tmp/out.jpg')
+u.biden_approval()['net'].tail(4)
 ```
 
 ```text
+Out[1]: 
 end_date
-2023-11-28   -15.271585
-2023-11-29   -15.831821
-2023-11-30   -16.551066
-2023-12-01   -16.556864
+2023-12-10   -17.583314
+2023-12-11   -17.578400
+2023-12-12   -17.317512
+2023-12-13   -16.980148
 Name: net, dtype: float64
 ```
 
