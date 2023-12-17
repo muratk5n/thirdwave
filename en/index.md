@@ -1,8 +1,15 @@
 
-H2 View: "Verne and LLNL achieve storage record with CcH2 solution.. With a
-capacity of 29kg, the two companies have tripled previous records for
-cryo-compressed hydrogen storage, achieving its first demonstration,
-meeting the energy storage needs of semi-trucks"
+"@joelle@social.joelle.us
+
+If you grew up in the 1980s, you probably remember hearing about how
+people in the Soviet Union couldn't buy necessities because of the
+failures of central planning. It was used as proof capitalism was
+superior to communism.
+
+Welcome to the 2023 USA, where one drug company running behind central
+production targets causes a shortage for everyone. Or where one food
+plant having problems causes a baby formula shortage. The problem is a
+lack of slack in the system--but slack is unprofitable"
 
 ---
 
