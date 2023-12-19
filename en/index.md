@@ -3,12 +3,12 @@
 
 ---
 
-Surely politicians favored by donors think they are following a deep
-strategery, but the pols who get the money always seem to follow a
-certain type of strategery that makes the contractors the most amount
-of money. Order is not good, regularly occuring death and mayhem is
-preferred. You can't just destroy once, you do it (or allow it to
-happen) multiple times. It needs to be repeat business. Raytheon
+Surely politicians favored by donors think they are following a well
+crafted strategery, but the pols who get the money always seem to
+follow a certain type of strategery that makes the contractors the
+most amount of money. Order is not good, regularly occuring death and
+mayhem is preferred. You can't just destroy once, you do it (or allow
+it to happen) multiple times. It needs to be repeat business. Raytheon
 destroys, Bechtel builds. Then Raytheon destroys again, and Bechtel
 rebuilds.. This is a sweet, sweet deal if you can get it. And the
 private complex has it.
