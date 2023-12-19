@@ -1,76 +1,93 @@
 
-"@joelle@social.joelle.us
-
-If you grew up in the 1980s, you probably remember hearing about how
-people in the Soviet Union couldn't buy necessities because of the
-failures of central planning. It was used as proof capitalism was
-superior to communism.
-
-Welcome to the 2023 USA, where one drug company running behind central
-production targets causes a shortage for everyone. Or where one food
-plant having problems causes a baby formula shortage. The problem is a
-lack of slack in the system--but slack is unprofitable"
+<img width='340' src='https://drive.google.com/uc?export=view&id=1Jofhu8Qz52OllhEofNcOb9yiAq1NaBiM'/> 
 
 ---
 
-Hierarchy exists in high-risk domains for a reason. The
-"Maverick" stuff is for movies.
+Surely politicians favored by donors think they are following a deep
+strategery, but the pols who get the money always seem to follow a
+certain type of strategery that makes the contractors the most amount
+of money. Order is not good, regularly occuring death and mayhem is
+preferred. You can't just destroy once, you do it (or allow it to
+happen) multiple times. It needs to be repeat business. Raytheon
+destroys, Bechtel builds. Then Raytheon destroys again, and Bechtel
+rebuilds.. This is a sweet, sweet deal if you can get it. And the
+private complex has it.
 
 ---
 
-Bad news for Ukranians but Russian army without the Wagner chief seems
-to be fighting better than with him around. Guy was an "enterpreneur"
-right, always marketing himself meaning unnecessarily talking out of
-his ass that also broke discipline. Such acts do not work in high-risk
-occupations like war. The free-market is fine for selling shoelaces
-or candy and shit, but for anything more serious, the government has
-to be involved. 
+There is no empire. There is no deep state. There is bunch of
+money-grubbing cocksuckers looking for their next payday. That's
+what's going on here.
 
 ---
 
-Peggy Lee - Ridin' High
+Hossein-Zadeh: "[2006] The American Enterprise Institute (AEI), an
+influential Washington think tank and a major lobbying force for the
+military - industrial - Likud alliance, can boast of being the
+metaphorical alma mater of a number of powerful members of the Bush
+administration. For example, Vice President Dick Cheney and his wife
+Lynne Cheney, State Department arms control official John Bolton, and
+former chair of the Defense Policy Board Richard Perle all have had
+long-standing ties with the institute. The institute played a key role
+in promoting Ahmed Chalabi’s group of Iraqi exiles, the Iraqi National
+Congress (INC), as a major Iraqi opposition force 'that would be
+welcomed by the Iraqi people as an alternative to the regime of Saddam
+Hussein' once the United States overthrew that regime. From 1998 on,
+when there was U.S. government money openly available to support the
+Iraqi opposition to Saddam Hussein due to the AEI-backed Iraqi
+Liberation Act, Chalabi’s INC grabbed the bulk of the funding. In
+return, the INC, working closely with the AEI, played an important
+role in the justification of the invasion of Iraq. It served, for
+example, as a major source of (largely fabricated) intelligence for
+the civilian militarists of the Pentagon whenever they found the
+intelligence gathered by the CIA and the State Department at odds with
+their plans of invading Iraq.
 
-[[-]](https://www.youtube.com/watch?v=KulxVMecSi8)
+Another example of the interlocking network of neoconservative forces
+in the Bush administration and the militaristic think tanks that are
+dedicated to the advancement of the military - industrial - Likud
+agenda is reflected in the affiliation of a number of influential
+members of the administration with the Jewish Institute for National
+Security Affair (JINSA). JINSA 'is on record in its support of the
+Israeli occupation of the West Bank and against the Oslo Accord... In
+its fervent support for the hard-line, pro-settlement,
+anti-Palestinian Likud-style policies in Israel, JINSA has essentially
+recommended that ‘regime change’ in Iraq should be 'just the beginning
+of a cascade of toppling dominoes in the Middle East.'  JINSA has
+influential friends either as liaisons with or members of the Bush
+administration. For example, Assistant Secretary of Defense Douglas
+Feith is a former JINSA advisor. General Jay Garner, the initial head
+of the U.S. occupation authority in Iraq, is also a former JINSA
+advisory board member. JINSA advisor Michael Ladeen, who also
+unofficially advises the Bush administration on Middle Eastern issues,
+has occasionally talked about the coming era of 'total war,'
+indicating that the Bush administration should expand its policy of
+'regime change' in Iraq to other countries in the region such as Iran,
+Syria, and Saudi Arabia. In keeping with its role as a cheerleader
+for U.S. intervention in the Middle East, JINSA chose to honor Deputy
+Secretary of Defense Paul Wolfowitz... to receive the 2002 edition
+of its Henry M. ‘Scoop’ Jackson public service award. The corporate
+sponsor of the affair was Northrop Grumman, a company that Wolfowitz
+worked for as a paid consultant prior to joining Rumsfeld’s
+Pentagon...
 
----
-
-"First Hydrogen fleet at the [Siemens] Wildenrath test center
-
-- All hydrogen-powered Mireo Plus H trains have arrived at the
-Wildenrath test center
-
-- Siemens Mobility delivers seven two-car trains powered by fuel cells
-for the Heidekrautbahn network operated by Niederbarnimer Eisenbahn
-(NEB)
-
-- Siemens Mobility’s first order for a train fleet based on hydrogen
-technology – first hydrogen-powered train fleet for Berlin-Brandenburg
-
-- Hydrogen fleet to be delivered in the fall of 2024. Trains are to
-operate on the Heidekrautbahn network (RB27) beginning in December
-2024"
-
----
-
-The powers that be can try to criminalize it, but cannot criminalize
-people simply *not* buying certain products.
-
----
-
-BDS will work. Thats why they are scared of it.
-
----
-
-Cannot deny what Houthis are doing is helpful for the Palestinian
-cause.. they are hitting the muckers where it hurts, their money and
-bidness. If the boycots expand as well together they can move the
-dial.
-
-F24: "World’s largest shipping firm Maersk suspends Red Sea traffic
-after Houthi attacks.. A ballistic missile fired by Yemen's Houthi
-rebels slammed into a cargo ship Friday in the Red Sea near the
-strategic Bab el-Mandeb Strait, following another attack only hours
-earlier that struck a separate vessel, authorities said"
+A closer look at the professional records of the neoconservative
+players in the Bush administration indicates that '32 major
+administration appointees... are former executives with, consultants
+for, or significant shareholders of top defense contractors.' For
+example, James Roche, former Air Force secretary who took over the
+Army, is a former president of Northrop Grumman; his assistant
+secretary Nelson Gibbs is another Northrop alumnus. An undersecretary
+at the Air Force, Peter Teets, was chief operating officer at Lockheed
+while Michael Wynne, a Defence Department undersecretary, was a former
+senior vice president at General Dynamics. Defence Secretary Donald
+Rumsfeld himself is an ex-director of a General Dynamics subsidiary,
+and Paul Wolfowitz, deputy defence secretary, acted as a paid
+consultant to Northrop Grumman. Today, point out Hartung and
+Ciarrocca, the armaments lobby 'is exerting more influence over
+policymaking than at any time since President Dwight D. Eisenhower
+first warned of the dangers of the military-industrial complex over 40
+years ago'"
 
 ---
 
@@ -120,4 +137,6 @@ Also on
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
 
 <img src='https://drive.google.com/uc?export=view&id=1zsIeciFSvlr-sWB84Tc0mfZ_NYqn9VQx'/> 
+
+
 

@@ -1,13 +1,111 @@
 # Week 50
 
-It is bad for Ukranians but Russian army without the Wagner chief
-seems to be fighting better than with him around. Guy was an
-"enterpreneur" right, always marketing himself meaning unnecessarily
-talking out of his ass that also breke discipline. Such acts do not
-work in high-risk occupations like war. The free-market is fine for
-selling shoelacees or candy and shit, but for anything more
-serious, the goveronment ha to be invvolved. Hierarchy exists in such
-domains for a reason. THe "Maverick" stuff is for movies. 
+Business Standard: "Tata Motors became the country's first bus
+manufacturer to receive the Central Motor Vehicles Rules (CMVR) type
+approval certificate for its Hydrogen Fuel Cell powered (FCEV) buses.
+
+The largest commercial vehicle manufacturer in India obtained the
+approval for its Tata Starbus 4/12 FCEV model along with its
+variations"
+
+---
+
+"[Researchers discovered] small ruthenium particles and a
+solar-powered system for water electrolysis [can produce H2
+efficiently]. This is the solution identified by a joint team
+involving the Istituto Italiano di Tecnologia (Italian Institute of
+Technology, IIT) of Genoa, and BeDimensional S.p.A. (an IIT
+spin-off). The technology, developed in the context of the Joint-lab’s
+activities and recently published in two high-impact factor journals
+(Nature Communications and the Journal of the American Chemical
+Society) is based on a new family of electrocatalysts that could
+reduce the costs of green hydrogen production on an industrial scale"
+
+---
+
+China Daily: "Hybot unveils hydrogen-powered heavy duty truck"
+
+<img width='340' src='https://img2.chinadaily.com.cn/images/202312/13/6579278da31040acaf828739.jpeg'/> 
+
+---
+
+"Yamaha hydrogen combustion outboard brings more clean H2 to boating"
+
+---
+
+Semler: "Here.. is how the military-industrial complex siphons off
+money from pro-worker programs — and how it sustains its enormous
+political power.
+
+- Redistributing Wealth Into For-profit Hands... Establishment
+politicians like to describe the Pentagon budget as an investment in
+the country’s security, but it’s better characterized as a massive
+redistribution of wealth...
+
+- Showering Politicians With Campaign Donations Contributions to
+federal candidates from the arms industry tripled from the 2002 to
+2020 election cycles. All told, military contractors shelled out a
+whopping $283 million on candidates and political parties from 2001 to
+2020...
+
+- Underwriting Think Tanks Across the Political Spectrum.. Most of the
+country’s major think tanks — from New America to the Brookings
+Institution to the Center for a New American Security — receive
+funding from military contractors.
+
+- Providing Welfare Through Warfare.. The [MIC] among other things, is
+a massive federal jobs program. Between the Pentagon and private
+sector military contractors and subcontractors, the sector directly or
+indirectly employs nearly four million people... All of those jobs and
+benefits — carefully distributed across hundreds of congressional
+districts — make Pentagon spending an immediate, tangible, material
+concern for millions of people. In a country where the welfare state
+is notoriously threadbare and an actual federal jobs program is
+perpetually off the table, 'military Keynesianism' comes to be seen as
+a more durable source of economic stability"
+
+---
+
+No expansion, no big bang. Waah waah waah waaaah
+
+---
+
+Paper: "We find that the UV surface brightness of luminous disk
+galaxies are constant over a very wide redshift range (from z = 0.03
+to z ~ 5). From this analysis we conclude that the Tolman test for
+surface brightness dimming is consistent with a non-expanding,
+Euclidean Universe with distance proportional to redshift. This
+result is also consistent with previously published datasets that were
+obtained to perform the Tolman test for a smaller redshift baseline
+when analysis of such data is done in a consistent system"
+
+[[-]](https://arxiv.org/abs/1405.0275)
+
+---
+
+Wiki: "Tolman's test compares the surface brightness of galaxies as a
+function of their redshift.. Such a comparison was first proposed in
+1930 by Richard C. Tolman as a test of whether the universe is
+expanding or static"
+
+---
+
+Politico.eu: "[10/26] Slovakia's newly-appointed Prime Minister Robert
+Fico said his country would no longer send arms to Ukraine"
+
+---
+
+Arab News: "EU leaders fail to agree on a $55 billion aid package for
+Ukraine over Hungary's objection"
+
+---
+
+Hindustan Times: "India votes in favour of UNGA resolution demanding
+immediate ceasefire in Gaza"
+
+---
+
+CTV News: "Canada to support resolution on Israel-Hamas ceasefire"
 
 ---
 
@@ -574,8 +672,6 @@ narratives—can’t, or won’t, get their minds around the obvious fact
 that Israel is attempting to depopulate Gaza in stages"
 
 ---
-
-UK abstained? That's good for UK. The support from Japan is noteworthy.
 
 AP News: "US vetoes UN resolution backed by many nations demanding
 immediate humanitarian cease-fire in Gaza.. The council called the
