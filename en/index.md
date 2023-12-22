@@ -1,93 +1,84 @@
 
-<img width='340' src='https://drive.google.com/uc?export=view&id=1Jofhu8Qz52OllhEofNcOb9yiAq1NaBiM'/> 
+---
+
+USGS: "A new USGS study found that airport ice control products may
+result in elevated #phosphorus levels in #waterways downstream from
+the airport"
 
 ---
 
-Surely politicians favored by donors think they are following a well
-crafted strategery, but the pols who get the money always seem to
-follow a certain type of strategery that makes the contractors the
-most amount of money. Order is not good, regularly occuring death and
-mayhem is preferred. You can't just destroy once, you do it (or allow
-it to happen) multiple times. It needs to be repeat business. Raytheon
-destroys, Bechtel builds. Then Raytheon destroys again, and Bechtel
-rebuilds.. This is a sweet, sweet deal if you can get it. And the
-private complex has it.
+The Japan News: "Japan Railway Operators Eye Net-zero CO2 Emissions
+Via Hydrogen Fuel Cell Trains"
 
 ---
 
-There is no empire. There is no deep state. There is bunch of
-money-grubbing cocksuckers looking for their next payday. That's
-what's going on here.
+"@davidzipper@mastodon.social
+
+Transit never needed 'reinvention.' It just needs service that's
+frequent, reliable, and extensive"
 
 ---
 
-Hossein-Zadeh: "[2006] The American Enterprise Institute (AEI), an
-influential Washington think tank and a major lobbying force for the
-military - industrial - Likud alliance, can boast of being the
-metaphorical alma mater of a number of powerful members of the Bush
-administration. For example, Vice President Dick Cheney and his wife
-Lynne Cheney, State Department arms control official John Bolton, and
-former chair of the Defense Policy Board Richard Perle all have had
-long-standing ties with the institute. The institute played a key role
-in promoting Ahmed Chalabi’s group of Iraqi exiles, the Iraqi National
-Congress (INC), as a major Iraqi opposition force 'that would be
-welcomed by the Iraqi people as an alternative to the regime of Saddam
-Hussein' once the United States overthrew that regime. From 1998 on,
-when there was U.S. government money openly available to support the
-Iraqi opposition to Saddam Hussein due to the AEI-backed Iraqi
-Liberation Act, Chalabi’s INC grabbed the bulk of the funding. In
-return, the INC, working closely with the AEI, played an important
-role in the justification of the invasion of Iraq. It served, for
-example, as a major source of (largely fabricated) intelligence for
-the civilian militarists of the Pentagon whenever they found the
-intelligence gathered by the CIA and the State Department at odds with
-their plans of invading Iraq.
+Bloomberg: "Hyperloop One to Shut Down After Failing to Reinvent
+Transit.. The company is selling assets, laying off remaining
+employees"
 
-Another example of the interlocking network of neoconservative forces
-in the Bush administration and the militaristic think tanks that are
-dedicated to the advancement of the military - industrial - Likud
-agenda is reflected in the affiliation of a number of influential
-members of the administration with the Jewish Institute for National
-Security Affair (JINSA). JINSA 'is on record in its support of the
-Israeli occupation of the West Bank and against the Oslo Accord... In
-its fervent support for the hard-line, pro-settlement,
-anti-Palestinian Likud-style policies in Israel, JINSA has essentially
-recommended that ‘regime change’ in Iraq should be 'just the beginning
-of a cascade of toppling dominoes in the Middle East.'  JINSA has
-influential friends either as liaisons with or members of the Bush
-administration. For example, Assistant Secretary of Defense Douglas
-Feith is a former JINSA advisor. General Jay Garner, the initial head
-of the U.S. occupation authority in Iraq, is also a former JINSA
-advisory board member. JINSA advisor Michael Ladeen, who also
-unofficially advises the Bush administration on Middle Eastern issues,
-has occasionally talked about the coming era of 'total war,'
-indicating that the Bush administration should expand its policy of
-'regime change' in Iraq to other countries in the region such as Iran,
-Syria, and Saudi Arabia. In keeping with its role as a cheerleader
-for U.S. intervention in the Middle East, JINSA chose to honor Deputy
-Secretary of Defense Paul Wolfowitz... to receive the 2002 edition
-of its Henry M. ‘Scoop’ Jackson public service award. The corporate
-sponsor of the affair was Northrop Grumman, a company that Wolfowitz
-worked for as a paid consultant prior to joining Rumsfeld’s
-Pentagon...
+---
 
-A closer look at the professional records of the neoconservative
-players in the Bush administration indicates that '32 major
-administration appointees... are former executives with, consultants
-for, or significant shareholders of top defense contractors.' For
-example, James Roche, former Air Force secretary who took over the
-Army, is a former president of Northrop Grumman; his assistant
-secretary Nelson Gibbs is another Northrop alumnus. An undersecretary
-at the Air Force, Peter Teets, was chief operating officer at Lockheed
-while Michael Wynne, a Defence Department undersecretary, was a former
-senior vice president at General Dynamics. Defence Secretary Donald
-Rumsfeld himself is an ex-director of a General Dynamics subsidiary,
-and Paul Wolfowitz, deputy defence secretary, acted as a paid
-consultant to Northrop Grumman. Today, point out Hartung and
-Ciarrocca, the armaments lobby 'is exerting more influence over
-policymaking than at any time since President Dwight D. Eisenhower
-first warned of the dangers of the military-industrial complex over 40
-years ago'"
+No expansion of the universe, no Big Bang. Cosmology is in trouble.
+
+---
+
+Paper: "We find that the UV surface brightness of luminous disk
+galaxies are constant over a very wide redshift range (from z = 0.03
+to z ~ 5). From this analysis we conclude that the Tolman test for
+surface brightness dimming is consistent with a non-expanding,
+Euclidean Universe with distance proportional to redshift. This
+result is also consistent with previously published datasets that were
+obtained to perform the Tolman test for a smaller redshift baseline
+when analysis of such data is done in a consistent system"
+
+[[-]](https://arxiv.org/abs/1405.0275)
+
+---
+
+Reshare
+
+Wiki: "Tolman's test compares the surface brightness of galaxies as a
+function of their redshift.. Such a comparison was first proposed in
+1930 by Richard C. Tolman as a test of whether the universe is
+expanding or static"
+
+---
+
+Good stuff.. i recommend staying away from smartphone apps as much as
+possible. Great apps can be written using pure Web tech.
+
+"@scottjenson@social.coop
+
+I did some #UX consulting for a non profit in Nairobi a while ago, and
+in addition to various UX stuff, I suggested they use a #PWA (a simple
+cached website) instead of an app.
+
+I talked to them this morning. They shipped it and are thrilled. It's
+SO much smaller than an app, a critical issue in rural Kenya, and it's
+significantly easier to get people to find and install it.
+
+So exciting when people discover the value of the standard, unfussy web"
+
+---
+
+I believe the use of the N-word is appropriate here.
+
+---
+
+This ambassador wrote an article in 2013 titled "The Five-Stage Plan
+for the Greater Land of Israel". Daam.. Nazi bitch.
+
+Informed Comment: "'Why are you obsessed with a two-state solution?'
+said Tzipi Hotovely, the Israeli ambassador to the UK.. Hotovely’s
+remarks triggered a swift response from the UK’s two major political
+parties"
 
 ---
 
@@ -137,6 +128,5 @@ Also on
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
 
 <img src='https://drive.google.com/uc?export=view&id=1zsIeciFSvlr-sWB84Tc0mfZ_NYqn9VQx'/> 
-
 
 

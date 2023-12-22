@@ -196,7 +196,7 @@ if __name__ == "__main__":
     to = os.environ['HOME'] + "/Documents/repos/codeberg/pages"
 
     if sys.argv[1] == 'html': 
-        frdirs, todirs = copy_files_and_dirs(fr, to, "atw.md,.git,.key,_layouts,_config.yml")
+        frdirs, todirs = copy_files_and_dirs(fr, to, "out.html,atw.md,.git,.key,_layouts,_config.yml")
         os.chdir(to)
         gen_html()
 
