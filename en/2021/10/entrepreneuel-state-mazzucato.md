@@ -46,8 +46,6 @@ community with a presence in universities, the public sector and
 corporations that focuses on specific technological challenges that
 have to be overcome.
 
-<a name='jobs'/>
-
 Apple, Steve Jobs
 
 Given the critical role of the State in enabling companies like Apple,
@@ -58,16 +56,17 @@ is the epitome of a company that requires the public purse to be large
 and risk-loving enough to continue making the investments that
 entrepreneurs like Jobs will later capitalize on...
 
+<a name='jobs'></a>
+
 Steve Jobs talked ... in his charismatic 2005 Stanford lecture on the
 need for innovators to stay ‘hungry and foolish’, few have admitted
 how much such foolishness has been ‘seriously’ riding on the wave of
-State-funded and -directed innovations.
+State-funded and -directed innovations...
 
-The State... ‘foolishly’ developing innovations? Yes, most of the
-radical, revolutionary innovations that have fuelled the dynamics of
-capitalism – from railroads to the Internet, to modern-day
+[M]ost of the radical, revolutionary innovations that have fuelled the
+dynamics of capitalism – from railroads to the Internet, to modern-day
 nanotechnology and pharmaceuticals – trace the most courageous, early
-and capitalintensive ‘entrepreneurial’ investments back to the
+and capital-intensive ‘entrepreneurial’ investments back to the
 State. And, .. all of the technologies that make Jobs’ iPhone so
 ‘smart’ were government funded (Internet, GPS, touch-screen display
 and the recent SIRI voice activated personal assistant). Such radical
@@ -78,7 +77,7 @@ innovations happen. Innovation that would not have come about had we
 waited for the ‘market’ and business to do it alone – or government to
 simply stand aside and provide the basics...
 
-<a name='corplabs'/>
+<a name='corplabs'></a>
 
 A recent study by MIT claims that the current absence in the US of
 corporate labs like Xerox PARC (which produced the graphical user

@@ -1,84 +1,90 @@
 
----
+"@peterdutoit@mastodon.green
 
-USGS: "A new USGS study found that airport ice control products may
-result in elevated #phosphorus levels in #waterways downstream from
-the airport"
+We *absolutely* cannot negotiate with the physics.
 
----
+Pay attention to the instruments.
 
-The Japan News: "Japan Railway Operators Eye Net-zero CO2 Emissions
-Via Hydrogen Fuel Cell Trains"
+Satellite Data: Unreflected incoming absorbed solar radiation
+*exceeds* the outgoing heat radiation.
 
----
-
-"@davidzipper@mastodon.social
-
-Transit never needed 'reinvention.' It just needs service that's
-frequent, reliable, and extensive"
+As a result we are heating and, it would seem when looking at the
+recent data, at an accelerating rate"
 
 ---
 
-Bloomberg: "Hyperloop One to Shut Down After Failing to Reinvent
-Transit.. The company is selling assets, laying off remaining
-employees"
+"@jonty@chaos.social
+
+Favourite thing I've learned in 2023: Rosenthaler Platz U-Bahn station
+in Berlin is entirely decorated with radioactive uranium glazed tiles.
+
+@gigabecquerel visited with a geiger counter to check"
+
+[[-]](https://chaos.social/@jonty/109818563737353115)
 
 ---
 
-No expansion of the universe, no Big Bang. Cosmology is in trouble.
+Prefering web tech over phone-specific app platform makes it easy to
+port software from one device to another. The application becomes
+instantly portable because every phone has a browser which can run
+standard web application code. You avoid corporate lock-in, utilize
+open technologies that are well documented, easy to use and fast.
 
 ---
 
-Paper: "We find that the UV surface brightness of luminous disk
-galaxies are constant over a very wide redshift range (from z = 0.03
-to z ~ 5). From this analysis we conclude that the Tolman test for
-surface brightness dimming is consistent with a non-expanding,
-Euclidean Universe with distance proportional to redshift. This
-result is also consistent with previously published datasets that were
-obtained to perform the Tolman test for a smaller redshift baseline
-when analysis of such data is done in a consistent system"
+iPhone owes a lot to the state, it's not about one interprid
+adventurer "taking risks", "being enterpreneurial"
 
-[[-]](https://arxiv.org/abs/1405.0275)
+[[-]](2021/10/entrepreneuel-state-mazzucato.html#jobs)
 
 ---
 
-Reshare
-
-Wiki: "Tolman's test compares the surface brightness of galaxies as a
-function of their redshift.. Such a comparison was first proposed in
-1930 by Richard C. Tolman as a test of whether the universe is
-expanding or static"
+[Link](mbl/2023/billclintonep1.jpg)
 
 ---
 
-Good stuff.. i recommend staying away from smartphone apps as much as
-possible. Great apps can be written using pure Web tech.
-
-"@scottjenson@social.coop
-
-I did some #UX consulting for a non profit in Nairobi a while ago, and
-in addition to various UX stuff, I suggested they use a #PWA (a simple
-cached website) instead of an app.
-
-I talked to them this morning. They shipped it and are thrilled. It's
-SO much smaller than an app, a critical issue in rural Kenya, and it's
-significantly easier to get people to find and install it.
-
-So exciting when people discover the value of the standard, unfussy web"
+You can get rid of the Central Bank change the currency of the country
+to someone else's, you can do it, and it can help with
+inflation. Bulgaria switched to the Euro their inflation fell. But
+that's only half the story. Central Banks are there to fund banks, if
+something goes wrong with them, with customer deposits and the like,
+CB can print / lend to save the banks. Bulgaria is part of the EU, can
+rely on ECB for that. Who's gonna save your ass son? Planning on
+relying a distant CB that is not even in the same continent as
+Argentina? You can rely on them if you become their bitch, that's
+probably why the jerkoff from Arkansas is there, to shmooze and blow
+smoke up your ass, to help you become a satellite. That was a Soviet
+term..  let's say "a client state".
 
 ---
 
-I believe the use of the N-word is appropriate here.
+The new Argent president has had some dubious associations, the first
+signs do not look good \#Milei
+
+[[-]](https://cdn.fosstodon.org/media_attachments/files/111/628/305/710/157/490/original/a513cb140e10bfd4.jpg)
 
 ---
 
-This ambassador wrote an article in 2013 titled "The Five-Stage Plan
-for the Greater Land of Israel". Daam.. Nazi bitch.
-
-Informed Comment: "'Why are you obsessed with a two-state solution?'
-said Tzipi Hotovely, the Israeli ambassador to the UK.. Hotovely’s
-remarks triggered a swift response from the UK’s two major political
-parties"
+Slate: "We are now witnessing a five-car pileup of Trump–slash–Jan. 6
+cases that will either be heard by the Supreme Court or land on their
+white marble steps in the coming weeks. The court has already agreed
+to hear the case of Joseph Fischer, the former Pennsylvania cop
+accused of taking part in the Jan. 6 storming of the Capitol and
+assaulting police officers, to determine the scope of prosecutions for
+obstructing an official proceeding. The court’s already flirting with
+hearing a direct appeal by special counsel Jack Smith to speedily
+resolve Trump’s claims to absolute immunity for his actions in
+attempting to overturn the 2020 election. And a game-changer of a case
+came out of the Colorado Supreme Court on Tuesday that would knock the
+former president off of the Republican primary ballot in that state as
+a consequence of his involvement in the insurrection attempt on
+Jan. 6, which would also critically apply to the general election
+ballot next November. That ruling has to be settled by the high
+court in order to forestall, or affirm, other states’ efforts to do
+the same thing. Potential appeals of gag orders in criminal
+suits and doofy immunity claims in the E. Jean Carroll suit are all
+also winging their way to Chief Justice John Roberts’ workstation, and
+it’s not even 2024 yet"
 
 ---
 
