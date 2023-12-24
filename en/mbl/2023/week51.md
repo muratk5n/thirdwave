@@ -37,11 +37,11 @@ open technologies that are well documented, easy to use and fast.
 iPhone owes a lot to the state, it's not about one interprid
 adventurer "taking risks", "being enterpreneurial"
 
-[[-]](2021/10/entrepreneuel-state-mazzucato.html#jobs)
+[[-]](../../2021/10/entrepreneuel-state-mazzucato.html#jobs)
 
 ---
 
-[Link](mbl/2023/billclintonep1.jpg)
+[Link](billclintonep1.jpg)
 
 ---
 
