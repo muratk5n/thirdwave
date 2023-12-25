@@ -75,7 +75,7 @@ today, 20% of the time I just won't do it". 🤨
 
 ---
 
-Best human exceeded 89%. This is image recognition, the thing the that
+Best human exceeded 89%. This is image recognition, the thing that
 brought back NNs from the dead! Still stuck at 82??? 
 
 ---
