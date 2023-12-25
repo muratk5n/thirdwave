@@ -94,8 +94,8 @@ him, quit his job, started talking about econ from outside.
 
 ---
 
-They can make billions frm that trade alone. If you know
-rate will be 2% but consensus is 1% trader can lend 2% pocket
+They can make billions frm that trade alone. If you know rate will be
+2% but consensus is 1% trader can trade on that arbitrage, pocket
 the difference.
 
 ---
