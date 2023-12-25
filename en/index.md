@@ -220,7 +220,7 @@ in the Trenches: Supporting an ecosystem during wartime'"
 
 ---
 
-And dude just got fired, for speaking out.. this is happening live.
+And dude just got fired, for speaking out
 
 [[-]](https://media.hachyderm.io/media_attachments/files/111/627/367/400/211/190/small/f9c1543721e9aaec.jpeg)
 
