@@ -1,27 +1,27 @@
 
-@JoshuaHolland@mastodon.social
+"@JoshuaHolland@mastodon.social
 
 When the Spanish Civil War broke out, Hitler and Mussolini went all-in
 backing Franco’s Nationalists but the big democratic powers, England
 and France, offered the democratically elected Republicans tepid
 support because they were wary of socialists and trade unionists being
 part of the coalition. Their half-hearted defense of democracy
-emboldened the fascists and contributed to the outbreak of WWII.
+emboldened the fascists and contributed to the outbreak of WWII"
 
 ---
 
-The Hyperloop was always a scam.. A decade on, people often forget
+"The Hyperloop was always a scam.. A decade on, people often forget
 what was really motivating the Hyperloop.. In the early 2010s, there
 was a big debate around California’s plan to build a high-speed rail
 line from Los Angeles to San Francisco... Naturally, conservative,
 automotive, and airline interests were vehemently opposed to a
 technology that Japan and Europe had been living with for decades
 arriving on American shores because it threatened their commercial
-interests.
+interests"
 
 ---
 
-The Guardian: Bollards and 'superblocks': how Europe’s cities are
+The Guardian: "Bollards and 'superblocks': how Europe’s cities are
 turning on the car..  A fightback is now well under way, driven by a
 pressing need to cut air pollution and combat the climate crisis, and
 a wish to reclaim cities as pleasant places to live. Most major
@@ -41,7 +41,7 @@ absorbed into the economic system as a result"
 ---
 
 Stiff upper lip rich class wanted to avoid EU "limitations" (such as
-the EJB), immigration was never an issue for them. They needed and
+the ECJ), immigration was never an issue for them. They needed and
 still do need cheap workers to service their needs, fetch them coffee
 work in stores and put a stupid hat on during "Christmas sale". A
 cheap servant class was required and they are getting them.
