@@ -165,17 +165,15 @@ for individuals or business alike, including farming. The rest becomes
 public property.
 
 ```python
-df = u.get_fred(1970,["TTLHHM156N","POPTOTUSA647NWDB"])
-df = df.interpolate()
+df = u.get_fred(1980,["TTLHHM156N","POPTOTUSA647NWDB"])
 df.columns = ['housing','population']
-
-df.pct_change().mean()*100
+df.asfreq(freq='A',method='bfill').pct_change().mean()*100
 ```
 
 ```text
 Out[1]: 
-housing       0.114221
-population    0.075457
+housing       1.142863
+population    0.893067
 dtype: float64
 ```
 
