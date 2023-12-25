@@ -1,26 +1,4 @@
 
-"@JoshuaHolland@mastodon.social
-
-When the Spanish Civil War broke out, Hitler and Mussolini went all-in
-backing Franco’s Nationalists but the big democratic powers, England
-and France, offered the democratically elected Republicans tepid
-support because they were wary of socialists and trade unionists being
-part of the coalition. Their half-hearted defense of democracy
-emboldened the fascists and contributed to the outbreak of WWII"
-
----
-
-"The Hyperloop was always a scam.. A decade on, people often forget
-what was really motivating the Hyperloop.. In the early 2010s, there
-was a big debate around California’s plan to build a high-speed rail
-line from Los Angeles to San Francisco... Naturally, conservative,
-automotive, and airline interests were vehemently opposed to a
-technology that Japan and Europe had been living with for decades
-arriving on American shores because it threatened their commercial
-interests"
-
----
-
 The Guardian: "Bollards and 'superblocks': how Europe’s cities are
 turning on the car..  A fightback is now well under way, driven by a
 pressing need to cut air pollution and combat the climate crisis, and
@@ -37,6 +15,17 @@ seen evidence that the proceeds of organised crime were 'the only
 liquid investment capital' available to some banks on the brink of
 collapse last year. He said that a majority of.. drugs profits was
 absorbed into the economic system as a result"
+
+---
+
+"The Hyperloop was always a scam.. A decade on, people often forget
+what was really motivating the Hyperloop.. In the early 2010s, there
+was a big debate around California’s plan to build a high-speed rail
+line from Los Angeles to San Francisco... Naturally, conservative,
+automotive, and airline interests were vehemently opposed to a
+technology that Japan and Europe had been living with for decades
+arriving on American shores because it threatened their commercial
+interests"
 
 ---
 
@@ -255,6 +244,17 @@ administration backs Israel in its war with Hamas"
 
 ---
 
+"@JoshuaHolland@mastodon.social
+
+When the Spanish Civil War broke out, Hitler and Mussolini went all-in
+backing Franco’s Nationalists but the big democratic powers, England
+and France, offered the democratically elected Republicans tepid
+support because they were wary of socialists and trade unionists being
+part of the coalition. Their half-hearted defense of democracy
+emboldened the fascists and contributed to the outbreak of WWII"
+
+---
+
 "Britain’s Cyprus base has secretly become international military hub
 supporting Israel’s bombing of Gaza"
 
@@ -326,5 +326,3 @@ Also on
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
 
 <img src='https://drive.google.com/uc?export=view&id=1zsIeciFSvlr-sWB84Tc0mfZ_NYqn9VQx'/> 
-
-
