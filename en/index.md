@@ -187,7 +187,7 @@ Chris Hayes: The war in Gaza must end
 
 ---
 
-So not an inocuous little massage
+So not an innocuous little massage
 
 Webb, *One Nation Under Blackmail*: "[I]n the early 1990s, Epstein’s
 name was mysteriously dropped from a major investigation into one of
