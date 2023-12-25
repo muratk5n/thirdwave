@@ -42,13 +42,13 @@ absorbed into the economic system as a result"
 
 Stiff upper lip rich class wanted to avoid EU "limitations" (such as
 the ECJ), immigration was never an issue for them. They needed and
-still do need cheap workers to service their needs, fetch them coffee
+still do need cheap workers to service their needs, fetch them coffee,
 work in stores and put a stupid hat on during "Christmas sale". A
 cheap servant class was required and they are getting them.
 
-NYT: "Take Back Control’ of U.K. Borders. What Happened?Record numbers
-of legal immigrants came to Britain from outside the E.U. in recent
-years. Some on the right call that a 'Brexit betrayal'.
+NYT: "'Take Back Control' of U.K. Borders. What Happened? Record
+numbers of legal immigrants came to Britain from outside the E.U. in
+recent years. Some on the right call that a 'Brexit betrayal'.
 
 Far from closing its borders, Britain has thrown them open since
 voting in 2016 to leave the European Union. And as the coronavirus
