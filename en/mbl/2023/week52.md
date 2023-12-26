@@ -1,5 +1,9 @@
 # Week 52
 
+<img width='340' src='https://www.icegif.com/wp-content/uploads/icegif-47.gif'/> 
+
+---
+
 The Guardian: "Bollards and 'superblocks': how Europe’s cities are
 turning on the car..  A fightback is now well under way, driven by a
 pressing need to cut air pollution and combat the climate crisis, and
@@ -183,26 +187,6 @@ dtype: float64
 Chris Hayes: The war in Gaza must end
 
 [[-]](https://youtu.be/_WTHVseqZdw?t=421)
-
----
-
-So not an innocuous little massage
-
-Webb, *One Nation Under Blackmail*: "[I]n the early 1990s, Epstein’s
-name was mysteriously dropped from a major investigation into one of
-the largest Ponzi schemes in history even though he was labeled the
-mastermind of that swindle in grand jury testimony. Around the same
-time, subsequently released White House visitor logs show that Epstein
-visited the Clinton White House 17 times, accompanied on most of these
-visits by a different, attractive young woman. Reporting on those
-visitor logs was largely done by a single media outlet, Britain’s The
-Daily Mail, with hardly any American mainstream media outlets
-bothering to investigate these revelations about Epstein and a former
-US president.. Why was Epstein so heavily protected from justice for
-decades – in connection to both his sex trafficking crimes and his
-financial crimes?.. If powerful Senators knew what Epstein was doing
-to young women and girls – who else knew and why wasn’t something
-done?"
 
 ---
 
