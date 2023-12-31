@@ -6,22 +6,27 @@ import pandas as pd
 pd.set_option('display.max_columns', None)
 ```
 
+```python
+u.rottentomatoes3("Aquaman and the Lost Kingdom")
+```
+
+```text
+Out[1]: {'tomatometer score': 35, 'audience score': 79}
+```
+
 
 ```python
-df = u.get_fred(1980,["TTLHHM156N","POPTOTUSA647NWDB"])
-df.columns = ['housing','population']
-df.asfreq(freq='A',method='bfill').pct_change().mean()*100
+u.boxofficemojo("Aquaman and the Lost Kingdom")
 ```
 
 ```text
 Out[1]: 
-housing       1.142863
-population    0.893067
-dtype: float64
+{'Domestic Opening': '$27,700,000',
+ 'Domestic': '$27,700,000',
+ 'International': '$80,200,000',
+ 'Worldwide Total': '$107,900,000',
+ 'Release Date': 'December 20, 2023'}
 ```
-
-
-
 
 
 
@@ -40,10 +45,10 @@ u.biden_approval()['net'].tail(4)
 ```text
 Out[1]: 
 end_date
-2023-12-10   -17.583314
-2023-12-11   -17.578400
-2023-12-12   -17.317512
-2023-12-13   -16.980148
+2023-12-24   -17.115031
+2023-12-25   -17.116581
+2023-12-26   -16.112096
+2023-12-27   -16.577882
 Name: net, dtype: float64
 ```
 

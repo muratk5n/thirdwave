@@ -1,5 +1,9 @@
 # Week 52
 
+<img width='340' src='https://www.icegif.com/wp-content/uploads/icegif-47.gif'/> 
+
+---
+
 One test user so far? Integration seems to be working though \#threads
 
 [[-]](https://cdn.fosstodon.org/media_attachments/files/111/645/247/263/347/041/original/ab18cf90f90859e6.jpg)
