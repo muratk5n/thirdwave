@@ -1,172 +1,169 @@
 
+ABC AU: "Feasibility study into hydrogen fuel-powered freight 'HyWay'
+between Adelaide and Melbourne.. As businesses look to reduce their
+carbon footprints, one company is exploring a multi-million-dollar
+project to transport freight between South Australia and Victoria with
+zero emissions. Countrywide Hydrogen has launched a feasibility study
+into the construction of a "Hydrogen HyWay" between Adelaide and
+Melbourne"
 
 ---
 
-"@EU_Commission@social.network.europa.eu
-
-The wait is finally over. From 2024, USB-C will be the common standard
-for electronic devices in the EU – and we have already seen the
-impact!
-
-It means 
-
-🔌The same charger for all phones, tablets and cameras 
-
-⚡ Harmonised fast-charging technology 
-
-🔄Reduced e-waste 
- 
-One charger to rule them all. 
-
-Now, a reality"
-
-<img width='340' src='https://social.network.europa.eu/system/media_attachments/files/111/534/243/518/875/569/small/6187e248ddd111cf.jpeg'/> 
+Fortune: "Toyota’s bet on hybrid cars seems to be paying off as it
+rides consumer skepticism of an all-EV future to maintain its lead as
+the world’s top selling automaker"
 
 ---
 
-"The Web is Fantastic.. The real web is built on links. Hyper ones, in
-fact. Links you can share on your website. Links you can send to your
-mates. Links to pages that can be indexed by search engines so you can
-find things again..
+With a budget of 340, gross 704 mil, *Fast X* 
 
-The big social media sites have decided that actually no, we don't
-like links. Just sort of "find" things and if you don't find it well
-tough shit. Sharing interesting websites, blogs, and articles on your
-own site is the way to go. Make a blogroll. Make a podroll. Share
-links on your Mastodon account...
+```python
+u.mov_profit(340, 704)
+```
 
-Blogs and RSS never died. Some of us just took a little break from it
-while we all shitposted on Twitter for likes, retweets, and
-validation. While we wrote long, unfindable threads instead of blog
-posts. I'm as guilty of this as anyone"
+```text
+Out[1]: -87.6
+```
 
-[[-]](https://rknight.me/blog/the-web-is-fantastic/)
+lost money according to my formula's estimate.. 
 
 ---
 
-WION: "The Hamas-run Gaza Strip's health ministry said Wednesday the
-death toll from the war with Israel now tops 21,000"
+Really? WTF
+
+"@Wolven@ourislandgeorgia.net
+
+ .. [Steven Pinker] aided Jeffery Epstein's legal defense"
 
 ---
 
-Recent frontline changes, 12/13 - 12/30
+Reshare
 
-[[-]](mbl/2024/ukrmap1.html)
+Annual changes in the housing stock (percentage), on average, looks
+higher than population change. There are enough housing units, but top
+10% is likely hoarding them, some people cannot find places to
+live. We can regulate home ownership - mandate so that noone can own
+more than one home, or a patch of land bigger than enough to live on,
+for individuals or business alike, including farming. The rest becomes
+public property.
 
----
+```python
+df = u.get_fred(1980,["TTLHHM156N","POPTOTUSA647NWDB"])
+df.columns = ['housing','population']
+df.asfreq(freq='A',method='bfill').pct_change().mean()*100
+```
 
-"@forrestbrazeal@hachyderm.io
-
-Did someone say 'AIOps'?"
-
-[[-]](https://media.hachyderm.io/media_attachments/files/109/903/487/374/261/366/small/3c0524d85eb1d539.png)
-
----
-
-NYT: "[C]ritics both within Israel and outside have questioned whether
-resolving to destroy such a deeply entrenched organization [as Hamas]
-was ever realistic. One former Israeli national security adviser
-called the plan 'vague'. 'I think that we have reached a moment when
-the Israeli authorities will have to define more clearly what their
-final objective is,' President Emmanuel Macron of France said this
-month. 'The total destruction of Hamas? Does anybody think that’s
-possible? If it’s that, the war will last 10 years.' Since it first
-emerged in 1987, Hamas has survived repeated attempts to eliminate its
-leadership. The organization’s very structure was designed to absorb
-such contingencies, according to political and military
-specialists. In addition, Israel’s devastating tactics in the Gaza war
-threaten to radicalize a broader segment of the population, inspiring
-new recruits"
+```text
+Out[1]: 
+housing       1.142863
+population    0.893067
+dtype: float64
+```
 
 ---
 
-.. and modern cosmologists don't understand empirical [evidence](2022/10/the-big-bang.html).
-
-"@medigoth@qoto.org
-
-One common feature of various anti-science ideologies is that their
-adherents lack a sense of scale. FlatEarthers don’t understand
-distance, creationists don’t understand time"
+71 bil.. they are not making that money back. Even if they made
+30 profitable movies with that new IP it still would not be enough.
 
 ---
 
-Andersen: "As antitrust enforcement was discredited and enfeebled
-starting in the 1970s, big corporations were able to get so big and
-dominant in their business or regions that they had ever fewer
-companies directly competing with them to hire workers. More and more
-of them became the only games in town. One of the scholars who has
-helped expose this particular bit of rigging and its unfairness over
-the last several decades is the influential, idiosyncratic University
-of Chicago law professor Eric Posner. As he and his economist
-co-author Glen Weyl explain, antitrust laws were enacted to make sure
-that businesses compete in every way—not just as sellers setting the
-prices they charge for products and services, but also as buyers of
-labor setting the salaries they pay.
+Homer Simpson as an Avenger.. great idea. Marvel already cannot sink
+any lower.
 
-The appeal of antitrust for citizens was to make sure competition kept
-prices lower and salaries higher. Enforcement of our antitrust laws,
-however, has come to focus entirely on consumer prices, particularly
-since the definitive Borking of the field in the late 1970s. The
-antitrust enforcers at the Department of Justice and Federal Trade
-Commission, because they rely 'on the traditional assumption that
-labor markets are competitive,' and that it wasn’t their jobs to
-protect workers anyhow, 'have never blocked a merger because of its
-effect on labor,' and they don’t even employ experts who could
-calculate those effects"
+NPR: "[2019] Homer Simpson probably won't become the newest member of
+the Avengers, but anything's possible now that Disney owns 21st
+Century Fox. One year after the Walt Disney Co. announced the $71.3
+billion merger, it's official"
 
 ---
 
-TDB: "I Served in the IDF in the 2014 War in Gaza. The Friends I Lost
-There Should Have Been the Last Ones. Almost every old friend I run
-into talks to me about Gaza. Most of them are in therapy to help them
-let go of what they experienced there—most of them unsuccessfully. We
-are the soldiers who served the Israeli concept of 'managing the
-conflict' and the endless rounds-of-fighting policy"
+Latent space is usually a reduced dimension, sometimes a decomposition
+of another space. I could decompose 6 into 3 times 2, maybe that tells
+us something.. Can decompose a matrix, we can look at individual
+pieces for more clues, each piece could be seen as a latent space.
 
 ---
 
-"@brucelawson@vivaldi.net
-
-Stop making fun of older kids who still believe in Santa Claus, there
-are grown men who still believe in trickle down housing and that
-market can solve the housing crisis"
-
----
-
-Trailers look good *Land of Bad*, *The Bricklayer*, *Civil War*
+LLM can be useful for a sort of glorifed search where "chatting" with
+the thing actually searches in "a latent space" as Howard calls it, a
+likely useful compressed space of knowledge that might give you better
+results compared to a regular search. LLM is not thinking, it is
+merely indexing knowledge, that could be useful in limited, focused
+applications.
 
 ---
 
-"@blogdiva@mastodon.social
+"@baldur@toot.cafe
 
-if all streaming services in the United States are now charging you
-to watch ads, then they aren't streaming services. they are cable TV
-channels. FCC needs to do their job and regulate these fake
-internet companies as they are supposed to regulate cable & legacy
-broadcast tv stations"
+Two points [on 'AI and Lossy Bottlenecks].. 
 
----
+1. A lot of previously sensible people are being swept up by the AI
+bubble.
 
-\#Gaza
+2. The ideas in this post are literally a mechanism for taking away
+your right to vote and replace it with a software-mediated
+plutocracy...
 
-[[-]](https://files.mastodon.social/media_attachments/files/111/658/984/465/793/066/small/4036bbaefb4521ee.png)
-
----
-
-TASS: "Israeli military assaulting Jalazone refugee camp"
-
----
-
-Al-Monitor: "Tehran said it had finalized an agreement with Moscow to
-eliminate the US dollar from bilateral trade"
+The bubble will only get more ridiculous before it pops. We’re still
+in early days yet. That somebody who is ostensibly a political
+“moderate” outright advocates a system that would replace voting with
+an opaque system that would inevitably be built and designed by
+multinational corporations and implicitly favour their interests is
+not even close to the peak of this nonsense marathon"
 
 ---
 
-Al-Monitor: "South Africa files ICJ case accusing Israel of 'genocidal acts' in Gaza"
+Listen to this guy
+
+"AI and Lossy Bottlenecks [Schneier on Security]... Removing
+democracy’s bottleneck.. the lossy bottleneck that has the largest
+effect on society is in politics. It’s the same problem as the
+restaurant. As a complicated citizen, your policy positions are
+probably nuanced, trading off between different options and their
+effects. You care about some issues more than others and some
+implementations more than others. If you had the knowledge and time,
+you could engage in the deliberative process and help create better
+laws than exist today.. Imagine a system where AI removes this lossy
+bottleneck.
 
 ---
 
-NYT: "Israel-Hamas War: Deadly Strike Hits Southern Gaza Area Where Many Are Sheltering"
+CNBC: "Oil prices rise as Iranian warship enters Red Sea after
+U.S. destroys Houthi boats"
+
+---
+
+Great.. reducing reasons to go to war.. For a while it looked like one
+would [start](https://www.bbc.com/news/world-africa-67332811) soon too.
+
+The Guardian: "Ethiopia has signed a 'historic' deal granting it naval
+and commercial access to ports along Somaliland’s coast, in exchange
+for recognition for the breakaway republic’s independence"
+
+---
+
+"Paul Fairie@paulisci
+
+A List of Predictions Made in 1924 About 2024"
+
+[Photo](https://cdn.mastdn.ca/media_attachments/files/111/683/057/842/058/117/small/eccd012d0e6a86c5.png)
+
+[Photo](https://cdn.mastdn.ca/media_attachments/files/111/683/041/751/771/321/small/4232e33ea0b211f4.png)
+
+---
+
+DNA India: "Amazon begins to produce own hydrogen fuel to power
+vehicles.. The one-megawatt (MW) proton exchange membrane electrolyser
+is the first for Amazon and is producing low-carbon hydrogen to fuel
+more than 225 hydrogen fuel cell-powered forklift trucks at the site"
+
+---
+
+Human Right's Watch: "Meta’s policies and practices have been
+silencing voices in support of Palestine and Palestinian human rights
+on Instagram and Facebook in a wave of heightened censorship of social
+media amid the hostilities between Israeli forces and Palestinian
+armed groups"
 
 ---
 

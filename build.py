@@ -133,7 +133,7 @@ head = """
       <script type="text/x-mathjax-config">MathJax.Hub.Config({  tex2jax: {inlineMath: [["$","$"]  ]}});</script>
       <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML-full">
       </script>
-      <link rel="stylesheet" type="text/css" media="screen" href="https://muratk5n.github.io/thirdwave/assets/css/style.css?v=60f3423f9b140ff732d5ce8558f30cb381b4f162">
+      <link rel="stylesheet" type="text/css" media="screen" href="/css/style.css">
       <title>thirdwave</title>
       <link rel="canonical" href="https://muratk5n.codeberg.page/en/" />
     </head>        

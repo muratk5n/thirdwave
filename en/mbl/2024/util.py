@@ -4,6 +4,19 @@ import pandas as pd, numpy as np
 from shapely.ops import unary_union
 import geopandas as gpd, re
 
+def biden_approval():
+    url = "https://projects.fivethirtyeight.com/biden-approval-data/approval_topline.csv"
+    df = pd.read_csv(url,parse_dates=True,index_col='end_date')
+    df = df[df.subgroup=='All polls']
+    df = df.sort_index()
+    df = df[df.index > '2021-06-01']
+    df['net'] = df['approve_estimate'] - df['disapprove_estimate']
+    return df
+
+def mov_profit(budget, gross):
+  marketing = budget / 2
+  return np.round(gross - (budget + marketing + gross*0.4),2)
+
 regs = [
     "Luhansk People's Republic \(North Luhansk\)",
     "Luhansk People's Republic \(East Luhansk\)",
