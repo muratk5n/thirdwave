@@ -1,5 +1,212 @@
 # Week 1
 
+
+Mondoweiss: "The reason Israel’s die-hard supporters in the United
+States have tried to ban, or even criminalize, the campaign for
+Boycott, Divestment, and Sanctions (BDS) is not that it is
+illegitimate or anti-semitic. It is precisely because boycotting,
+sanctioning ,and divesting from Israel may be an effective strategy to
+help bring down its genocidal, expansionist, and unaccountable regime"
+
+---
+
+Mondoweiss: "Following the previous U.S. veto of a ceasefire at the
+Security Council, the UN General Assembly took up the global call for
+a ceasefire, and the resolution, sponsored by Jordan, passed by 120
+votes to 14, with 45 abstentions. The 12 small countries who voted
+with the United States and Israel represented less than 1% of the
+world’s population. The isolated diplomatic position in which the
+United States found itself should have been a wake-up call..
+
+After the United States again slammed the Security Council door in
+Palestine’s face on December 8, the desperate need to end the massacre
+in Gaza returned to the UN General Assembly on December 12. An
+identical resolution to the one the U.S. vetoed in the Security
+Council was approved by a vote of 153 to 10, with 33 more yes votes
+than the one in October. While General Assembly resolutions are not
+binding, they do carry political weight, and this one sends a clear
+message that the international community is disgusted by the carnage
+in Gaza"
+
+---
+
+Haaretz: "[2006] IDF Commander: We Fired More Than a Million Cluster
+Bombs in Lebanon.. Phosphorous and cluster bombs heavily used;
+unexploded munitions litter wide area of Lebanon. 'What we did was
+insane and monstrous, we covered entire towns in cluster bombs,' the
+head of an IDF rocket unit in Lebanon said regarding the use of
+cluster bombs and phosphorous shells"
+
+---
+
+ABC AU: "Feasibility study into hydrogen fuel-powered freight 'HyWay'
+between Adelaide and Melbourne.. As businesses look to reduce their
+carbon footprints, one company is exploring a multi-million-dollar
+project to transport freight between South Australia and Victoria with
+zero emissions. Countrywide Hydrogen has launched a feasibility study
+into the construction of a "Hydrogen HyWay" between Adelaide and
+Melbourne"
+
+---
+
+Fortune: "Toyota’s bet on hybrid cars seems to be paying off as it
+rides consumer skepticism of an all-EV future to maintain its lead as
+the world’s top selling automaker"
+
+---
+
+With a budget of 340, gross 704 mil, *Fast X* 
+
+```python
+u.mov_profit(340, 704)
+```
+
+```text
+Out[1]: -87.6
+```
+
+lost money according to my formula's estimate.. 
+
+---
+
+Really? WTF
+
+"@Wolven@ourislandgeorgia.net
+
+ .. [Steven Pinker] aided Jeffery Epstein's legal defense"
+
+---
+
+Reshare
+
+Annual changes in the housing stock (percentage), on average, looks
+higher than population change. There are enough housing units, but top
+10% is likely hoarding them, some people cannot find places to
+live. We can regulate home ownership - mandate so that noone can own
+more than one home, or a patch of land bigger than enough to live on,
+for individuals or business alike, including farming. The rest becomes
+public property.
+
+```python
+df = u.get_fred(1980,["TTLHHM156N","POPTOTUSA647NWDB"])
+df.columns = ['housing','population']
+df.asfreq(freq='A',method='bfill').pct_change().mean()*100
+```
+
+```text
+Out[1]: 
+housing       1.142863
+population    0.893067
+dtype: float64
+```
+
+---
+
+71 bil.. they are not making that money back. Even if they made
+30 profitable movies with that new IP it still would not be enough.
+
+---
+
+Homer Simpson as an Avenger.. great idea. Marvel already cannot sink
+any lower.
+
+NPR: "[2019] Homer Simpson probably won't become the newest member of
+the Avengers, but anything's possible now that Disney owns 21st
+Century Fox. One year after the Walt Disney Co. announced the $71.3
+billion merger, it's official"
+
+---
+
+Latent space is usually a reduced dimension, sometimes a decomposition
+of another space. I could decompose 6 into 3 times 2, maybe that tells
+us something.. Can decompose a matrix, we can look at individual
+pieces for more clues, each piece could be seen as a latent space.
+
+---
+
+LLM can be useful for a sort of glorifed search where "chatting" with
+the thing actually searches in "a latent space" as Howard calls it, a
+likely useful compressed space of knowledge that might give you better
+results compared to a regular search. LLM is not thinking, it is
+merely indexing knowledge, that could be useful in limited, focused
+applications.
+
+---
+
+"@baldur@toot.cafe
+
+Two points [on 'AI and Lossy Bottlenecks'].. 
+
+1. A lot of previously sensible people are being swept up by the AI
+bubble.
+
+2. The ideas in this post are literally a mechanism for taking away
+your right to vote and replace it with a software-mediated
+plutocracy...
+
+The bubble will only get more ridiculous before it pops. We’re still
+in early days yet. That somebody who is ostensibly a political
+“moderate” outright advocates a system that would replace voting with
+an opaque system that would inevitably be built and designed by
+multinational corporations and implicitly favour their interests is
+not even close to the peak of this nonsense marathon"
+
+---
+
+Listen to this guy
+
+"AI and Lossy Bottlenecks [Schneier on Security]... Removing
+democracy’s bottleneck.. the lossy bottleneck that has the largest
+effect on society is in politics. It’s the same problem as the
+restaurant. As a complicated citizen, your policy positions are
+probably nuanced, trading off between different options and their
+effects. You care about some issues more than others and some
+implementations more than others. If you had the knowledge and time,
+you could engage in the deliberative process and help create better
+laws than exist today.. Imagine a system where AI removes this lossy
+bottleneck.
+
+---
+
+CNBC: "Oil prices rise as Iranian warship enters Red Sea after
+U.S. destroys Houthi boats"
+
+---
+
+Great.. reducing reasons to go to war.. For a while it looked like one
+would [start](https://www.bbc.com/news/world-africa-67332811) soon too.
+
+The Guardian: "Ethiopia has signed a 'historic' deal granting it naval
+and commercial access to ports along Somaliland’s coast, in exchange
+for recognition for the breakaway republic’s independence"
+
+---
+
+"@paulisci@mstdn.ca
+
+A List of Predictions Made in 1924 About 2024"
+
+[Photo](https://cdn.mastdn.ca/media_attachments/files/111/683/037/992/083/574/original/ac3109edf54dd961.png)
+
+[Photo](https://cdn.mastdn.ca/media_attachments/files/111/683/041/751/771/321/small/4232e33ea0b211f4.png)
+
+---
+
+DNA India: "Amazon begins to produce own hydrogen fuel to power
+vehicles.. The one-megawatt (MW) proton exchange membrane electrolyser
+is the first for Amazon and is producing low-carbon hydrogen to fuel
+more than 225 hydrogen fuel cell-powered forklift trucks at the site"
+
+---
+
+Human Right's Watch: "Meta’s policies and practices have been
+silencing voices in support of Palestine and Palestinian human rights
+on Instagram and Facebook in a wave of heightened censorship of social
+media amid the hostilities between Israeli forces and Palestinian
+armed groups"
+
+---
+
 "@fuck_cars_bot@botsin.space
 
 'Reject Tradition, Embrace Progress'"

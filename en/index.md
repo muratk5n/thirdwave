@@ -1,169 +1,136 @@
 
-ABC AU: "Feasibility study into hydrogen fuel-powered freight 'HyWay'
-between Adelaide and Melbourne.. As businesses look to reduce their
-carbon footprints, one company is exploring a multi-million-dollar
-project to transport freight between South Australia and Victoria with
-zero emissions. Countrywide Hydrogen has launched a feasibility study
-into the construction of a "Hydrogen HyWay" between Adelaide and
-Melbourne"
+"@SafeStreetRebel@sfba.social
+
+[..2023] was a big year for transit. Working together with many
+different groups, we won over a billion dollars for transit. The fight
+for transit in California is far from over but we're headed in the
+right direction..
+
+Here are some things we did in 2023..
+
+- Demonstrated self-driving cars don't work. Cruise no longer operates
+  in California
+
+- A lot of guerilla infrastructure, including taking inspiration from
+  @crosswalksLA"
 
 ---
 
-Fortune: "Toyota’s bet on hybrid cars seems to be paying off as it
-rides consumer skepticism of an all-EV future to maintain its lead as
-the world’s top selling automaker"
+The Baltic Times: Six gas transmission operators develop the
+cross-border hydrogen transmission infrastructure from Finland through
+Estonia, Latvia, Lithuania and Poland to Germany, namely
+the Nordic-Baltic Hydrogen Corridor. The goal of the project is to
+create the connection between green energy production regions in
+Northern Europe with the main consumption centres in Central
+Europe. This project is expected to be implemented by 2030.
 
 ---
 
-With a budget of 340, gross 704 mil, *Fast X* 
-
-```python
-u.mov_profit(340, 704)
-```
-
-```text
-Out[1]: -87.6
-```
-
-lost money according to my formula's estimate.. 
+GlobeNewswire: "NewHydrogen.. the developer of ThermoLoop a
+breakthrough technology that uses water and heat rather than
+electricity to produce the world’s cheapest green hydrogen, today
+announced.. the potential use of graphene in catalysts for green
+hydrogen production and fuel cell technologies"
 
 ---
 
-Really? WTF
-
-"@Wolven@ourislandgeorgia.net
-
- .. [Steven Pinker] aided Jeffery Epstein's legal defense"
+What is The Matrix? It is corporate control. The Matrix is a privately
+generated dream world, built to keep us under control in order to
+change a human being into [this](https://cdn.fosstodon.org/media_attachments/files/111/687/251/879/246/348/original/0ab13d179cae781d.jpg).
 
 ---
 
-Reshare
+"@jasongorman@mastodon.cloud
 
-Annual changes in the housing stock (percentage), on average, looks
-higher than population change. There are enough housing units, but top
-10% is likely hoarding them, some people cannot find places to
-live. We can regulate home ownership - mandate so that noone can own
-more than one home, or a patch of land bigger than enough to live on,
-for individuals or business alike, including farming. The rest becomes
-public property.
-
-```python
-df = u.get_fred(1980,["TTLHHM156N","POPTOTUSA647NWDB"])
-df.columns = ['housing','population']
-df.asfreq(freq='A',method='bfill').pct_change().mean()*100
-```
-
-```text
-Out[1]: 
-housing       1.142863
-population    0.893067
-dtype: float64
-```
+The 10 wealthiest people in the world are worth a combined $1.2
+trillion. In real terms, that's 6x what the 10 wealthiest were worth
+30 years ago"
 
 ---
 
-71 bil.. they are not making that money back. Even if they made
-30 profitable movies with that new IP it still would not be enough.
+Vox: "The science is in: exercise won’t help you lose much weight"
 
 ---
 
-Homer Simpson as an Avenger.. great idea. Marvel already cannot sink
-any lower.
-
-NPR: "[2019] Homer Simpson probably won't become the newest member of
-the Avengers, but anything's possible now that Disney owns 21st
-Century Fox. One year after the Walt Disney Co. announced the $71.3
-billion merger, it's official"
+*Aloha* 2015, *Fracture*, very good.. *Get Him to the Greek*, I'll
+give it a 4.
 
 ---
 
-Latent space is usually a reduced dimension, sometimes a decomposition
-of another space. I could decompose 6 into 3 times 2, maybe that tells
-us something.. Can decompose a matrix, we can look at individual
-pieces for more clues, each piece could be seen as a latent space.
+Scientific American: "Vaccination Dramatically Lowers Long Covid
+Risk.. Several new studies reveal that getting multiple COVID vaccine
+doses provides strong protection against lingering symptoms"
 
 ---
 
-LLM can be useful for a sort of glorifed search where "chatting" with
-the thing actually searches in "a latent space" as Howard calls it, a
-likely useful compressed space of knowledge that might give you better
-results compared to a regular search. LLM is not thinking, it is
-merely indexing knowledge, that could be useful in limited, focused
-applications.
+Black holes, as theorized, have no volume, so they cannot have
+vibrational lattice, cannot generate blackbody spectrum, radiation.
 
 ---
 
-"@baldur@toot.cafe
+They engraved the formula for "Hawking radiation" on there.. 
 
-Two points [on 'AI and Lossy Bottlenecks].. 
-
-1. A lot of previously sensible people are being swept up by the AI
-bubble.
-
-2. The ideas in this post are literally a mechanism for taking away
-your right to vote and replace it with a software-mediated
-plutocracy...
-
-The bubble will only get more ridiculous before it pops. We’re still
-in early days yet. That somebody who is ostensibly a political
-“moderate” outright advocates a system that would replace voting with
-an opaque system that would inevitably be built and designed by
-multinational corporations and implicitly favour their interests is
-not even close to the peak of this nonsense marathon"
+[[-]](https://pbs.twimg.com/media/Ewby62wWgAEY2bq.jpg)
 
 ---
 
-Listen to this guy
-
-"AI and Lossy Bottlenecks [Schneier on Security]... Removing
-democracy’s bottleneck.. the lossy bottleneck that has the largest
-effect on society is in politics. It’s the same problem as the
-restaurant. As a complicated citizen, your policy positions are
-probably nuanced, trading off between different options and their
-effects. You care about some issues more than others and some
-implementations more than others. If you had the knowledge and time,
-you could engage in the deliberative process and help create better
-laws than exist today.. Imagine a system where AI removes this lossy
-bottleneck.
+Stephen Hawking is buried next to Isaac Newton in Westminister Abby.
+I.N. is turning in his grave for who was buried next to him. 
 
 ---
 
-CNBC: "Oil prices rise as Iranian warship enters Red Sea after
-U.S. destroys Houthi boats"
+[Link](2022/08/black-holes.html)
 
 ---
 
-Great.. reducing reasons to go to war.. For a while it looked like one
-would [start](https://www.bbc.com/news/world-africa-67332811) soon too.
-
-The Guardian: "Ethiopia has signed a 'historic' deal granting it naval
-and commercial access to ports along Somaliland’s coast, in exchange
-for recognition for the breakaway republic’s independence"
+You bake a cake, cut it into two pieces. Those two pieces would have
+the same temperature right? I could not double the temperature by
+cutting the cake into two. The commentary is bizarre. 
 
 ---
 
-"Paul Fairie@paulisci
+Sounds baseless
 
-A List of Predictions Made in 1924 About 2024"
-
-[Photo](https://cdn.mastdn.ca/media_attachments/files/111/683/057/842/058/117/small/eccd012d0e6a86c5.png)
-
-[Photo](https://cdn.mastdn.ca/media_attachments/files/111/683/041/751/771/321/small/4232e33ea0b211f4.png)
+"The radiation temperature is inversely proportional to the black hole's mass"
 
 ---
 
-DNA India: "Amazon begins to produce own hydrogen fuel to power
-vehicles.. The one-megawatt (MW) proton exchange membrane electrolyser
-is the first for Amazon and is producing low-carbon hydrogen to fuel
-more than 225 hydrogen fuel cell-powered forklift trucks at the site"
+"@fedijedi@mstdn.cool
+
+Japanese disaster prevention X account can’t post anymore after
+hitting API limit (another reason why governments and critical
+agencies and nonprofits should have their own Fediverse instances to
+disperse essential emergency info...)"
 
 ---
 
-Human Right's Watch: "Meta’s policies and practices have been
-silencing voices in support of Palestine and Palestinian human rights
-on Instagram and Facebook in a wave of heightened censorship of social
-media amid the hostilities between Israeli forces and Palestinian
-armed groups"
+TDB: "During one of Bill Clinton’s jaunts around the world
+with Jeffrey Epstein in 2002, the former president enjoyed a
+six-course meal in Singapore with [him]... Now photos of the
+occasion—which were scrubbed from the National Archives of Singapore
+(NAS)—are resurfacing"
+
+---
+
+Of course he won't.. He is Anglo's bitch and BRICS is an alternate
+grouping to the Anglo. This guy is firmly in line with
+military-industrial-Likud complex.
+
+The Guardian: "Milei says Argentina will not be joining Brics bloc in policy reversal"
+
+---
+
+NYT: "New Spin on a Revolving Door: Pentagon Officials Turned Venture
+Capitalists...The New York Times has identified at least 50 former
+Pentagon and national security officials, most of whom left the
+federal government in the last five years, who are now working in
+defense-related venture capital or private equity as executives or
+advisers. In many cases, The Times confirmed that they continued to
+interact regularly with Pentagon officials or members of Congress to
+push for policy changes or increases in military spending that could
+benefit firms they have invested in.“There’s panache now with the ties
+between the defense community and private equity,” said Ellen M. Lord,
+a former under secretary of defense for acquisitions"
 
 ---
 

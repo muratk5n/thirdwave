@@ -1,8 +1,16 @@
 import matplotlib.pyplot as plt
 from shapely.geometry import Polygon
 import pandas as pd, numpy as np
+from pandas_datareader import data
 from shapely.ops import unary_union
-import geopandas as gpd, re
+import geopandas as gpd, re, datetime
+
+def get_fred(year, series):
+    today = datetime.datetime.now()
+    start=datetime.datetime(year, 1, 1)
+    end=datetime.datetime(today.year, today.month, today.day)
+    df = data.DataReader(series, 'fred', start, end)
+    return df
 
 def biden_approval():
     url = "https://projects.fivethirtyeight.com/biden-approval-data/approval_topline.csv"
