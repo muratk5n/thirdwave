@@ -4,6 +4,40 @@ import pandas as pd, numpy as np
 from pandas_datareader import data
 from shapely.ops import unary_union
 import geopandas as gpd, re, datetime
+import urllib.request as urllib2
+from io import BytesIO
+import time as timelib
+
+def two_plot(s1, col1, s2, col2):
+    plt.figure(figsize=(12,5))
+    ax1 = s1.plot(color='blue', grid=True, label=col1)
+    ax2 = s2.plot(color='red', grid=True, label=col2,secondary_y=True)
+    h1, l1 = ax1.get_legend_handles_labels()
+    h2, l2 = ax2.get_legend_handles_labels()
+    plt.legend(h1+h2, l1+l2, loc=2)
+
+def get_wlt_sp():
+    cols = ['WFRBLT01026', 'WFRBLN09053','WFRBLN40080','WFRBLB50107']
+    df = get_fred(1970,cols)
+    df = df.interpolate()
+    df['Total'] =  df['WFRBLT01026'] + df['WFRBLN09053'] + df['WFRBLB50107'] + df['WFRBLN40080']
+    df['Top 10%'] = (df['WFRBLT01026'] + df['WFRBLN09053']) * 100 / df.Total 
+    return df
+
+def get_yahoofin(year,ticker):
+    end = datetime.datetime.now()
+    start = datetime.datetime(year, 1, 1)
+    start = int(timelib.mktime(start.timetuple()))
+    end = int(timelib.mktime(end.timetuple()))
+    base_fin_url = "https://query1.finance.yahoo.com/v7/finance/download"
+    url = base_fin_url + "/%s?period1=" + str(start) + "&period2=" + \
+          str(end) + "&interval=1d&events=history&includeAdjustedClose=true"
+    url  = url % ticker
+    r = urllib2.urlopen(url).read()
+    file = BytesIO(r)
+    df = pd.read_csv(file,index_col='Date',parse_dates=True)['Close']
+    return df
+
 
 def get_fred(year, series):
     today = datetime.datetime.now()

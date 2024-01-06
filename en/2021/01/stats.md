@@ -641,19 +641,10 @@ df['Bottom 50%'] = (df['WFRBLB50107'] * 100) / df.Total
 
 print (df[['Top 10%','Bottom 50%']].tail(4))
 df[['Top 10%']].plot()
-plt.savefig('top10.png')
+plt.savefig('top10-2.jpg')
 ```
 
-```text
-              Top 10%  Bottom 50%
-DATE                             
-2022-07-01  69.035130    2.482940
-2022-10-01  69.236514    2.365433
-2023-01-01  69.206100    2.372174
-2023-04-01  68.727034    2.507332
-```
-
-![](top10.png)
+![](top10-2.jpg)
 
 <a name='chex'></a>
 
