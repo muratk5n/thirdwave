@@ -1,88 +1,96 @@
 
-"Ballard announces new Long-Term Supply Agreement with NFI and purchase
-order for 100 fuel cell engines for bus deployments in North America"
+FuelCellsWorks: "Alstom To Supply First Hydrogen Trains To The Italian
+Region Of Puglia And Second Order Of Trains In The Framework Agreement
+With Lombardy"
+
+<img width='340' src='https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/111/692/846/360/797/189/small/790c6e7eccad923f.png'/> 
 
 ---
 
-No wonder these apps are so f-ing bloated.. they have a whole freakin
-browser in there! 
+ProPublica: "The story of one #Indiana store demonstrates how the more
+than 60,000 gun retailers in America have little financial incentive
+to say no to questionable buyers and face limited penalties for
+failing to prevent illegal transactions"
 
 ---
 
-Apparently when you click on a link in their app, another, embedded
-Tiktok browser takes over, not the phone's default browser. They can
-use this stealth browser to track what user does on the external site
-being visited, log keystrokes, they could capture passwords, anything
-they wanted.
-
-NYT: "[2022/08] The web browser used within the TikTok app can track
-every keystroke made by its users, according to new research that is
-surfacing as the Chinese-owned video app grapples with U.S. lawmakers’
-concerns over its data practices"
+Kimbal looks nearly as inbred as his brother. 
 
 ---
 
-Politico: "Hydroxychloroquine could have caused 17,000 deaths during
-COVID, study finds"
+JE clearly had an high-end service along the one with young girls..
+One-stop shop for the military-industrial-Likud complex (you can bet
+your ass JE, Maxwell was theirs, Eps was always througt to be an
+asset, the bitch, and her father had long links to intel).
 
 ---
 
-"@mastodonmigration@mastodon.online
-
-[For Substackers who want to leave] Good news, WordPress.com, known
-for hosted WordPress Blogs (that now attach to the fediverse!), now
-has full-featured hosted WordPress Newsletters"
+Business Insider: "[2020] Jeffrey Epstein, the multimillionaire sex
+criminal, introduced Kimbal Musk.. to a woman in his entourage"
 
 ---
 
-Bair: "The year 2009 brought with it a new president, Barack Obama. I
-was desperately hoping that the new administration would rethink some
-of the bailout policies we were pursuing and would do more to help
-distressed homeowners. Unfortunately, that was not to be. President
-Obama promised to launch stronger programs to prevent foreclosures,
-and I really think that helping these families was a priority for
-him. But I do not believe that the people he picked for major economic
-positions in his administration shared those priorities.
+"@jasongorman@mastodon.cloud
 
-Much to my surprise and disappointment, he picked Tim Geithner to
-replace Hank Paulson as the new secretary of the Treasury. Throughout
-the crisis, Tim’s singular focus had been to bail out the big banks,
-and in particular, Citi. He had shown little interest in foreclosure
-prevention or any other kind of direct help for Main Street. He viewed
-the big banks as the center of our economy, and equated helping them
-with helping the broader economy. He did not understand that their
-interests and Main Street interests were separate, and that helping
-big banks did not necessarily help struggling American families.
-
-President Obama also picked Larry Summers, another close associate of
-Bob Rubin, to head the National Economic Council, or “NEC,” which was
-responsible for developing economic policy for the White
-House. Summers had also once served as secretary of the Treasury and
-had been a supporter of legislation to block regulation of the
-derivatives markets. In addition, he had backed legislation to repeal
-a Depression-era law called “Glass-Steagall,” which for decades had
-prohibited FDIC-insured banks from engaging in risky securities
-activities. Based on Summers’s record, I also viewed him as highly
-sympathetic to the big banks"
+Research emerging detailing the degradation of the GPT-4 model as it
+drifts further and further from the training data cut-off... The 'I'
+in its 'A.I.'  is human. And when they train GPT-5, it'll be eating
+the output of LLMs. Like in Human Centipede. (But not as funny)"
 
 ---
 
-Perusing Sheila Bair's book, *The Bullies of Wall Street*. Does not
-look good for Geithner. Nor Summers, but we already knew he was a
-jackass.
+Democracy
+
+The Intercept: "The US State Department encouraged the Pakistani
+government in a March 7, 2022, meeting to remove Imran Khan as prime
+minister over his neutrality on the Russian invasion of Ukraine,
+according to a classified Pakistani government document.. One month
+after the meeting with U.S. officials documented in the leaked
+Pakistani government document, a no-confidence vote was held in
+Parliament, leading to Khan’s removal from power. The vote is believed
+to have been organized with the backing of Pakistan’s powerful
+military"
 
 ---
 
-Unfettered immigration is problematic on many fronts.. First is the
-mentality of who arrives. Most people fled from a place likely did not
-like the government of the place they are from, so they arrive in US
-not liking the concept of government. An anti-government sentiment can
-spread through immigrants. Plus when they arrive they are happy to be
-working at all, they do not ask anything, they are either low-wage
-earners who don't complain undermining local unions, or they become
-"enterpreneurs" becoming ultra pro-business jackasses of which US does
-not need more of either. Any way you look at it, unfettered
-immigration is a net negative.
+Using genocidal language against Palestinias.. you know what they call
+that in Israel? Tuesday.
+
+---
+
+ISR ambassador to UK is in hot waters again? There is a petition for
+her removal - "The Ambassador is now using openly genocidal language
+and is advocating for a genocidal act to take place"
+
+[[-]](https://www.change.org/p/expel-the-israeli-ambassador-from-the-united-kingdom)
+
+---
+
+\#Hedges \#Palestine
+
+[[-]](https://youtu.be/L1PKlV1JMBU?t=31)
+
+---
+
+Dersh is a douche.. Has shady connections to the "complex". He was
+ambushed recently by a Youtuber, had himself a new asshole torn
+up. It was hilarious to watch. Zionist douche.
+
+TDB: "The government of South Africa filed a case in December with the
+International Court of Justice in The Hague, accusing Israel of
+committing war crimes in Gaza. On Tuesday, it was widely reported that
+Israeli Prime Minister Benjamin Netanyahu wants the lawyer sometimes
+known as 'Dersh' to represent Israel at The Hague"
+
+---
+
+SValley and similar companies are more like the "last mile of tech",
+they can only build upon existing research, they need lots of free
+stuff made available to them, low hanging fruits so they can pick
+those fruits, put them together to create a product as a last mile of
+service. We should not expect much from them by way of basic science,
+vision and surely not regulatory advice. iPhone would not exist wout
+billions of government funded research and existing tech.
 
 ---
 
