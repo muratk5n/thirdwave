@@ -6,15 +6,30 @@ import pandas as pd
 pd.set_option('display.max_columns', None)
 ```
 
-```python
-df1 = u.get_wlt_sp()
-df2 = u.get_yahoofin(1990,"^GSPC")
-```
 
-```python
-u.two_plot(df1['Top 10%'],'Top 10%',df2, 'SP 500')
-plt.savefig('/tmp/out.jpg',quality=30)
-```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

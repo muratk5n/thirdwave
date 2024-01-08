@@ -1,96 +1,87 @@
 
-FuelCellsWorks: "Alstom To Supply First Hydrogen Trains To The Italian
-Region Of Puglia And Second Order Of Trains In The Framework Agreement
-With Lombardy"
-
-<img width='340' src='https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/111/692/846/360/797/189/small/790c6e7eccad923f.png'/> 
+Politico: "[A]n exit panel blew off from the airplane mid-flight late
+Friday, another black mark for Boeing’s MAX fleet"
 
 ---
 
-ProPublica: "The story of one #Indiana store demonstrates how the more
-than 60,000 gun retailers in America have little financial incentive
-to say no to questionable buyers and face limited penalties for
-failing to prevent illegal transactions"
+"@twipped@twipped.social
+
+Amtrack has no fucks left to give"
+
+[[-]](https://cdn.masto.host/twippedsocial/media_attachments/files/111/704/480/381/954/333/small/c098696ad69d563f.png)
 
 ---
 
-Kimbal looks nearly as inbred as his brother. 
+"@djsundog@toot-lab.reclaim.technology
+
+[N]ew rule: if your company puts a LLM bot on the front lines of your
+customer support effort, your company should be legally bound to
+adhere to whatever the LLM bot states on your behalf... oh, you put a
+lying machine at the front door and it's telling people your product
+does things it doesn't actually do? and now you're stuck making your
+product do these things? maybe you'll think twice about deploying
+lying machines"
 
 ---
 
-JE clearly had an high-end service along the one with young girls..
-One-stop shop for the military-industrial-Likud complex (you can bet
-your ass JE, Maxwell was theirs, Eps was always througt to be an
-asset, the bitch, and her father had long links to intel).
+Post-2020 inflation in the West occured bcz of limited-time direct
+payments to people, that money came and went, so inflation naturally
+came down. People who said inflation was transitionary were right.
 
 ---
 
-Business Insider: "[2020] Jeffrey Epstein, the multimillionaire sex
-criminal, introduced Kimbal Musk.. to a woman in his entourage"
+The FED likely wanted asset prices to come down IMO (stocks, housing)
+through its rate rises but it failed to achive that objective. I
+believe they realized that now, and changed course. Inequality is the
+culprit. Usual mechanisms are not working. Govs need to take out
+the big stick if they want to avoid pitchforks later.
 
 ---
 
-"@jasongorman@mastodon.cloud
+Judging recent econ events through inequality prism via Stevenson;
+covid payments to people, even it went to them direct, still
+contributed to inequality because everything they spent ended up with
+the rich anyway (through corps they own, operate, have shares of).
+Now govs are in more debt and the rich are richer because on top of
+their existing wealth they ended up with the covid money as
+well. Direct payments were necessary but govs always "forget" the next
+step of such an action, taxing the rich to plug their debt.
 
-Research emerging detailing the degradation of the GPT-4 model as it
-drifts further and further from the training data cut-off... The 'I'
-in its 'A.I.'  is human. And when they train GPT-5, it'll be eating
-the output of LLMs. Like in Human Centipede. (But not as funny)"
-
----
-
-Democracy
-
-The Intercept: "The US State Department encouraged the Pakistani
-government in a March 7, 2022, meeting to remove Imran Khan as prime
-minister over his neutrality on the Russian invasion of Ukraine,
-according to a classified Pakistani government document.. One month
-after the meeting with U.S. officials documented in the leaked
-Pakistani government document, a no-confidence vote was held in
-Parliament, leading to Khan’s removal from power. The vote is believed
-to have been organized with the backing of Pakistan’s powerful
-military"
+Stevenson prediction on house prices was their prices would not fall
+in a way that would make a difference even with higher rates, because
+the wealthy, with their huge stash, could still buy homes without
+needing a mortgage, either directly or through various investment
+vehicles, so demand stayed high, prices did not fall.
 
 ---
 
-Using genocidal language against Palestinias.. you know what they call
-that in Israel? Tuesday.
+\#MajorityReport \#Pakistan 
+
+[[-]](https://youtu.be/rh7D85pp5Dg?t=3950)
 
 ---
 
-ISR ambassador to UK is in hot waters again? There is a petition for
-her removal - "The Ambassador is now using openly genocidal language
-and is advocating for a genocidal act to take place"
+NYT is not messing around.. 
 
-[[-]](https://www.change.org/p/expel-the-israeli-ambassador-from-the-united-kingdom)
-
----
-
-\#Hedges \#Palestine
-
-[[-]](https://youtu.be/L1PKlV1JMBU?t=31)
-
----
-
-Dersh is a douche.. Has shady connections to the "complex". He was
-ambushed recently by a Youtuber, had himself a new asshole torn
-up. It was hilarious to watch. Zionist douche.
-
-TDB: "The government of South Africa filed a case in December with the
-International Court of Justice in The Hague, accusing Israel of
-committing war crimes in Gaza. On Tuesday, it was widely reported that
-Israeli Prime Minister Benjamin Netanyahu wants the lawyer sometimes
-known as 'Dersh' to represent Israel at The Hague"
+IEEE: "The battle between copyright holders and generative AI
+companies is heating up, and The New York Times leading the
+charge. The publication recently filed a lawsuit against OpenAI and
+Microsoft that claims copyright infringement, trademark dilution, and
+unfair competition. And it’s not pulling its punches. The suit seeks
+not just monetary compensation but also the destruction of all the
+defendant’s LLM models and training data, as well as a halt to
+unlicensed training on the publication’s articles"
 
 ---
 
-SValley and similar companies are more like the "last mile of tech",
-they can only build upon existing research, they need lots of free
-stuff made available to them, low hanging fruits so they can pick
-those fruits, put them together to create a product as a last mile of
-service. We should not expect much from them by way of basic science,
-vision and surely not regulatory advice. iPhone would not exist wout
-billions of government funded research and existing tech.
+CNBC: "Microsoft, OpenAI sued for copyright infringement by nonfiction
+book authors in class action claim"
+
+---
+
+via @mikemathia@ioc.exchange \#tutu
+
+[[-]](https://files.ioc.exchange/media_attachments/files/111/708/410/091/841/475/original/437f97d42c80a659.png)
 
 ---
 

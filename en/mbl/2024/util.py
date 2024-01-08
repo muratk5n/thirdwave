@@ -8,6 +8,8 @@ import urllib.request as urllib2
 from io import BytesIO
 import time as timelib
 
+def get_pd(): return pd
+
 def two_plot(s1, col1, s2, col2):
     plt.figure(figsize=(12,5))
     ax1 = s1.plot(color='blue', grid=True, label=col1)
