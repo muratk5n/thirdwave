@@ -1,87 +1,110 @@
 
-Politico: "[A]n exit panel blew off from the airplane mid-flight late
-Friday, another black mark for Boeing’s MAX fleet"
+FuelCellsWorks: "China Unveils Its First Civilian Liquid Hydrogen Tank
+Truck In A Major Technological Milestone"
 
 ---
 
-"@twipped@twipped.social
-
-Amtrack has no fucks left to give"
-
-[[-]](https://cdn.masto.host/twippedsocial/media_attachments/files/111/704/480/381/954/333/small/c098696ad69d563f.png)
-
----
-
-"@djsundog@toot-lab.reclaim.technology
-
-[N]ew rule: if your company puts a LLM bot on the front lines of your
-customer support effort, your company should be legally bound to
-adhere to whatever the LLM bot states on your behalf... oh, you put a
-lying machine at the front door and it's telling people your product
-does things it doesn't actually do? and now you're stuck making your
-product do these things? maybe you'll think twice about deploying
-lying machines"
+According to Andersen's [great work](2023/06/evil-geniuses.html) low
+taxes on the rich and unregulated business and weak unions and a weak
+federal government "were portrayed as the only ways back to some kind
+of rugged, frontiersy, stronger, better America", and "a winsome 1950s
+actor in a cowboy hat" was the frontman for that sale. There aren't
+that many Western movies now.. I wonder what replaced them as a
+marketing vehicle for this "frontier mentality".. Superhero movies
+maybe..? Look at Batman - he is like Ronald Reagan with a hero
+suit. He seems to inhabit a non-governmental world where he "fights
+bad people" whenever he wants, without asking the government. A
+crime-fighting enterpreneur.. A disruptor. Sometimes the movies touch
+the subject of vigilantism / government explicitly of course, but
+maybe they "put a hat on it", making the propaganda into a story so
+they can continue the propaganda.
 
 ---
 
-Post-2020 inflation in the West occured bcz of limited-time direct
-payments to people, that money came and went, so inflation naturally
-came down. People who said inflation was transitionary were right.
+What is wrong with those extra 9 people in US? They likely have
+psychological problems, they don't want to help anyone, just like to
+order people around, want workers around to fetch them coffee put a
+stupid hat on during "Christmas sale". Coo-coo
 
 ---
 
-The FED likely wanted asset prices to come down IMO (stocks, housing)
-through its rate rises but it failed to achive that objective. I
-believe they realized that now, and changed course. Inequality is the
-culprit. Usual mechanisms are not working. Govs need to take out
-the big stick if they want to avoid pitchforks later.
+The number in Ireland, Japan sounds normal. You dont want too much
+enterpreneurship.
+
+"Enterpreneurs in US is 1 in 10, in Ireland and Japan it is 1 in 100"
 
 ---
 
-Judging recent econ events through inequality prism via Stevenson;
-covid payments to people, even it went to them direct, still
-contributed to inequality because everything they spent ended up with
-the rich anyway (through corps they own, operate, have shares of).
-Now govs are in more debt and the rich are richer because on top of
-their existing wealth they ended up with the covid money as
-well. Direct payments were necessary but govs always "forget" the next
-step of such an action, taxing the rich to plug their debt.
+"@claytoncubitt
 
-Stevenson prediction on house prices was their prices would not fall
-in a way that would make a difference even with higher rates, because
-the wealthy, with their huge stash, could still buy homes without
-needing a mortgage, either directly or through various investment
-vehicles, so demand stayed high, prices did not fall.
+Who wants to go in with me to buy William Wegman's studio in Chelsea?
+I figure it'll only take 1,000 of us"
+
+[[-]](https://media.mstdn.social/media_attachments/files/111/733/754/274/314/331/small/b119e0afd993f767.png)
 
 ---
 
-\#MajorityReport \#Pakistan 
+"@claytoncubitt@mstdn.social
 
-[[-]](https://youtu.be/rh7D85pp5Dg?t=3950)
+If I had a time machine I would simply be a Boomer artist"
 
----
-
-NYT is not messing around.. 
-
-IEEE: "The battle between copyright holders and generative AI
-companies is heating up, and The New York Times leading the
-charge. The publication recently filed a lawsuit against OpenAI and
-Microsoft that claims copyright infringement, trademark dilution, and
-unfair competition. And it’s not pulling its punches. The suit seeks
-not just monetary compensation but also the destruction of all the
-defendant’s LLM models and training data, as well as a halt to
-unlicensed training on the publication’s articles"
+[[-]](https://media.mstdn.social/media_attachments/files/111/733/819/450/656/503/small/dc0775bee458345c.png)
 
 ---
 
-CNBC: "Microsoft, OpenAI sued for copyright infringement by nonfiction
-book authors in class action claim"
+Because this suboptimal idea was promoted by the First Black
+President™, it became Democrat canon, part of the party plank (Bam
+had to have contributed something legendary, something with a big L
+legacy), from there MSM dipshits with zero critical thinking ability
+parroted the idea, and since other countries of the world copy US for
+any tech fashion, they went along, and if there is demand, China will
+build it which they did. This is how we ended up here. Cascading
+foolishness, made in America.
 
 ---
 
-via @mikemathia@ioc.exchange \#tutu
+"Batteries being built in China" is not a good criticism of this tech.
+The real problem is that batteries are being built at all.
 
-[[-]](https://files.ioc.exchange/media_attachments/files/111/708/410/091/841/475/original/437f97d42c80a659.png)
+---
+
+It's true.. that's why battery-electric flight is impractical too, the
+battery weighs too much. 
+
+Nikki Haley: "Electric vehicles are heavy, our roads and bridges wouldn't be
+able to handle that weight"
+
+---
+
+Still double-digit lead for Trump there
+
+---
+
+That debate wasn't half bad \#Iowa
+
+---
+
+FuelCellsWorks: "Denmark Announces Alliance On Green Fuels In India Including Green
+Hydrogen"
+
+---
+
+FuelCellsWorks: "Hydrogen Solaris Buses Also Heading To Düsseldorf"
+
+<img width='340' src='https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/111/726/804/368/818/638/small/23ca59ed22b062aa.png'/> 
+
+---
+
+FuelCellsWorks: "Busan City Expands Hydrogen Refueling Infrastructure Amidst Growing
+Demand"
+
+---
+
+The rest of the world should stop following all UNSC resolutions until
+ISR starts following this one.
+
+Wiki: "UNSC Resolution 2334 (23 December 2016) called for an end to
+Israeli settlement building."
 
 ---
 
@@ -131,3 +154,8 @@ Also on
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
 
 <img src='https://drive.google.com/uc?export=view&id=1zsIeciFSvlr-sWB84Tc0mfZ_NYqn9VQx'/> 
+
+
+
+
+

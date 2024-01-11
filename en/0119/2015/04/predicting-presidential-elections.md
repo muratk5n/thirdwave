@@ -128,11 +128,6 @@ print (np.dot(pred, conf), np.dot(pred, results.params))
 
 ```python
 conf = results.conf_int()
-
-net_approv = -10.0; gdp_growth = 2.0; two_terms = 0
-pred = [1., gdp_growth, net_approv, two_terms]
-print ('Interval:', np.round(np.dot(pred, conf),2),
-       'Average:', np.round(np.dot(pred, results.params),2))
        
 net_approv = -15.0; gdp_growth = 2.0; two_terms = 0
 pred = [1., gdp_growth, net_approv, two_terms]
@@ -149,13 +144,18 @@ pred = [1., gdp_growth, net_approv, two_terms]
 print ('Interval:', np.round(np.dot(pred, conf),2),
        'Average:', np.round(np.dot(pred, results.params),2))
 
+net_approv = -30; gdp_growth = 2.0; two_terms = 0
+pred = [1., gdp_growth, net_approv, two_terms]
+print ('Interval:', np.round(np.dot(pred, conf),2),
+       'Average:', np.round(np.dot(pred, results.params),2))
+
 ```
 
 ```text
-Interval: [49.79 53.43] Average: 51.61
 Interval: [49.52 52.71] Average: 51.12
 Interval: [49.25 51.99] Average: 50.62
 Interval: [48.87 51.04] Average: 49.96
+Interval: [48.71 50.56] Average: 49.64
 ```
 
 References
