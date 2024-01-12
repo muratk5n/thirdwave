@@ -108,6 +108,13 @@ hear complaint brought by South Africa"
 
 ---
 
+There was some kind of DDos attack on Codeberg, the main site of this
+blog. The mirror is usually few days behind, and whenever there are
+problems I update the mirror immediately, if problems continue, will
+continue publishing on the mirror. FYI.
+
+---
+
 Al Jazeera: "Iran seized a tanker with Iraqi crude.. in retaliation
 for the confiscation last year of the same vessel and its oil by the
 United States"
@@ -117,13 +124,6 @@ United States"
 Satellites reveal 75% of world's industrial fishing vessels are 'hidden'
 
 [[-]](https://www.space.com/satellites-industrial-fishing-vessels-hidden)
-
----
-
-There is some kind of DDos attack on Codeberg, the main site of this
-blog.  This mirror is usually few days behind, and whenever there are
-problems I update the mirror immediately, if problems continue, will
-continue publishing there / here.
 
 ---
 
