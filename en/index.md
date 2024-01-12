@@ -34,7 +34,7 @@ either.  You are asked to manage a plant, or work as an accountant, you
 are still in a bureucracy, not completely exposed to the market forces
 outside your own corner. You are asked to do certain things, you judge
 how long they would take, ask for resources, give a timeline. This is
-tecnical, bureucratic work. You are not operating a lemonade stand
+technical, bureucratic work. You are not operating a lemonade stand
 waiting for customers yourself. You are the guy behind the scenes,
 working in the lemonade bureucracy.
 
@@ -171,10 +171,4 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
-
-<img src='https://drive.google.com/uc?export=view&id=1zsIeciFSvlr-sWB84Tc0mfZ_NYqn9VQx'/> 
-
-
-
-
 
