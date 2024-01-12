@@ -1,110 +1,129 @@
 
-FuelCellsWorks: "China Unveils Its First Civilian Liquid Hydrogen Tank
-Truck In A Major Technological Milestone"
+Techcrunch: "Hyundai, Nikola, Bosch and others are seriously pushing
+fuel cells, but why now?.. There’s political will, and money. Federal
+investments in green hydrogen and refueling infrastructure — two big
+obstacles to widespread adoption — are giving HFCVs a boost"
+
+<img width='340' src='https://techcrunch.com/wp-content/uploads/2024/01/GettyImages-1924049799.jpg?w=400&crop=1'/> 
 
 ---
 
-According to Andersen's [great work](2023/06/evil-geniuses.html) low
-taxes on the rich and unregulated business and weak unions and a weak
-federal government "were portrayed as the only ways back to some kind
-of rugged, frontiersy, stronger, better America", and "a winsome 1950s
-actor in a cowboy hat" was the frontman for that sale. There aren't
-that many Western movies now.. I wonder what replaced them as a
-marketing vehicle for this "frontier mentality".. Superhero movies
-maybe..? Look at Batman - he is like Ronald Reagan with a hero
-suit. He seems to inhabit a non-governmental world where he "fights
-bad people" whenever he wants, without asking the government. A
-crime-fighting enterpreneur.. A disruptor. Sometimes the movies touch
-the subject of vigilantism / government explicitly of course, but
-maybe they "put a hat on it", making the propaganda into a story so
-they can continue the propaganda.
+The Doobie Brothers - Mamaloi \#music
+
+[[-]](https://youtu.be/KPeH5yUth18?t=7)
 
 ---
 
-What is wrong with those extra 9 people in US? They likely have
-psychological problems, they don't want to help anyone, just like to
-order people around, want workers around to fetch them coffee put a
-stupid hat on during "Christmas sale". Coo-coo
+"‘UK’s largest’ hydrogen hub gets green light from local authority"
 
 ---
 
-The number in Ireland, Japan sounds normal. You dont want too much
-enterpreneurship.
+"@shuttersparks@qoto.org
 
-"Enterpreneurs in US is 1 in 10, in Ireland and Japan it is 1 in 100"
+This tracking stuff on the Internet is past ridiculous. I notice that
+when I pull up my Orders page on Amazon, uBlock blocks 133 items. When
+I pull up Accuweather for my town, it blocks 273 items.
 
----
-
-"@claytoncubitt
-
-Who wants to go in with me to buy William Wegman's studio in Chelsea?
-I figure it'll only take 1,000 of us"
-
-[[-]](https://media.mstdn.social/media_attachments/files/111/733/754/274/314/331/small/b119e0afd993f767.png)
+Here on Mastodon, both uBlock and Privacy Badger read zero. Funny how
+that is"
 
 ---
 
-"@claytoncubitt@mstdn.social
-
-If I had a time machine I would simply be a Boomer artist"
-
-[[-]](https://media.mstdn.social/media_attachments/files/111/733/819/450/656/503/small/dc0775bee458345c.png)
-
----
-
-Because this suboptimal idea was promoted by the First Black
-President™, it became Democrat canon, part of the party plank (Bam
-had to have contributed something legendary, something with a big L
-legacy), from there MSM dipshits with zero critical thinking ability
-parroted the idea, and since other countries of the world copy US for
-any tech fashion, they went along, and if there is demand, China will
-build it which they did. This is how we ended up here. Cascading
-foolishness, made in America.
+Working for private sector does not equal being a good capitalist
+either.  You are asked to manage a plant, or work as an accountant, you
+are still in a bureucracy, not completely exposed to the market forces
+outside your own corner. You are asked to do certain things, you judge
+how long they would take, ask for resources, give a timeline. This is
+tecnical, bureucratic work. You are not operating a lemonade stand
+waiting for customers yourself. You are the guy behind the scenes,
+working in the lemonade bureucracy.
 
 ---
 
-"Batteries being built in China" is not a good criticism of this tech.
-The real problem is that batteries are being built at all.
+People subconciously, rougly will vote for a person who would be a
+*good manager*, someone likable enough to tolerate as a boss. That's
+not the same thing as being a "good capitalist".
+
+"Voters vote for a good capitalist, they will reward such a person"
 
 ---
 
-It's true.. that's why battery-electric flight is impractical too, the
-battery weighs too much. 
-
-Nikki Haley: "Electric vehicles are heavy, our roads and bridges wouldn't be
-able to handle that weight"
+The Lever: "How Boeing Bought Washington... Before the recent Boeing
+disaster, the company and its parts supplier Spirit AeroSystems spent
+years lobbying to boost production and weaken safety regulations"
 
 ---
 
-Still double-digit lead for Trump there
+CNBC: "Sanctioned Western tech is still entering Russia and powering
+its military machine, new analysis shows"
 
 ---
 
-That debate wasn't half bad \#Iowa
+"@jasongorman@mastodon.cloud
+
+The purpose of junior developers is to grow into senior
+developers. Replacing them with "A.I." is like replacing all your
+unripened tomatoes with pasta sauce. There'll be a shortage of ripe
+tomatoes - and pasta sauce - come next season"
 
 ---
 
-FuelCellsWorks: "Denmark Announces Alliance On Green Fuels In India Including Green
-Hydrogen"
+"Head to head approval match-ups" do not capture the whole story. It's
+not easy to beat an incumbent (party) after its first term (easier
+after the second).
 
 ---
 
-FuelCellsWorks: "Hydrogen Solaris Buses Also Heading To Düsseldorf"
-
-<img width='340' src='https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/111/726/804/368/818/638/small/23ca59ed22b062aa.png'/> 
-
----
-
-FuelCellsWorks: "Busan City Expands Hydrogen Refueling Infrastructure Amidst Growing
-Demand"
+How low Biden's approv has to be to lose his advantage in the general?
+With 2% GDP growth if net approval goes to -30% then the challenger has
+an advantage. It is getting there.
 
 ---
 
-The rest of the world should stop following all UNSC resolutions until
-ISR starts following this one.
+Biden's approval numbers fall and fall.. 
 
-Wiki: "UNSC Resolution 2334 (23 December 2016) called for an end to
-Israeli settlement building."
+```python
+app = u.biden_approval()
+app = app[app.index > '2023-01-01']
+app['net'].plot(title="Biden Net Approval")
+```
+
+[[-]](https://cdn.fosstodon.org/media_attachments/files/111/729/962/039/199/002/original/836d1571b5cf9755.jpg)
+
+---
+
+The Times of Israel: "UK Labour’s ex-chief Corbyn joins South African
+delegation to ICJ case against Israel"
+
+---
+
+F24: "South Africa accuses Israel of breaching Genocide Convention as
+ICJ hearings open"
+
+--- 
+
+The Guardian: "Hearings to begin at The Hague in case claiming
+Israel’s Gaza war is genocide.. International Court of Justice will
+hear complaint brought by South Africa"
+
+---
+
+Al Jazeera: "Iran seized a tanker with Iraqi crude.. in retaliation
+for the confiscation last year of the same vessel and its oil by the
+United States"
+
+---
+
+Satellites reveal 75% of world's industrial fishing vessels are 'hidden'
+
+[[-]](https://www.space.com/satellites-industrial-fishing-vessels-hidden)
+
+---
+
+There is some kind of DDos attack on Codeberg, the main site of this
+blog.  This mirror is usually few days behind, and whenever there are
+problems I update the mirror immediately, if problems continue, will
+continue publishing there / here.
 
 ---
 
