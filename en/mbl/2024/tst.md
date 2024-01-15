@@ -34,7 +34,6 @@ pd.set_option('display.max_columns', None)
 
 
 
-
 ```python
 u.biden_approval()['net'].tail(4)
 ```

@@ -263,7 +263,7 @@ I.N. is turning in his grave for who was buried next to him.
 
 ---
 
-[Link](2022/08/black-holes.html)
+[Link](../../2022/08/black-holes.html)
 
 ---
 

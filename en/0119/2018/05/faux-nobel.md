@@ -30,21 +30,6 @@ fumes.
 were a Nobel Prize. But it’s a PR coup by economists to improve their
 reputation,” he bristles.
 
-Economist [Richard Werner](https://www.sciencedirect.com/science/article/pii/S1057521915001477)
-
-[We need to] investigate how central banks have exerted influence over
-the research conducted by academics. For instance, the Swedish central
-bank established a pseudo-‘Nobel Prize’ by awarding substantial sums
-of money to selected economists – none of them supporters of the
-credit creation theory of banking – and calling this prize the
-‘Riksbank [Swedish central bank] prize in economic sciences in honour
-of Alfred Nobel’. The fact that journalists would abbreviate this as a
-‘Nobel Prize’ in their reporting of the award could neither have been
-a surprise nor unwelcome to the Swedish central bank, which lobbied
-for the involvement of the Nobel Foundation in the award of this
-prize. Through the award of this central bank prize, a particular
-branch of economics..  received a significant boost internationally.
-
 [Business Insider](https://www.businessinsider.com/nassim-taleb-sue-the-swedish-central-bank-2010-10)
 
 Nassim Taleb is calling on investors to band together and sue the

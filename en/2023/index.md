@@ -44,3 +44,9 @@
 
 [The Political Economy of US Militarism](11/political-econ-us-mil.html)
 
+[The Shadow World](11/shadow-world.html)
+
+[Asimov on Israel](12/asimov-israel.html)
+
+[Bertrand Russell on Middle East](12/russell-me.html)
+

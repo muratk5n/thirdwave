@@ -654,26 +654,6 @@ WION: "‘No option’: Poor workers struggle amid India’s brutal heatwave"
 
 ---
 
-Who would I vote for to serve in that commitee? Michael Hudson, Steve
-Keen, Richard Werner..
-
----
-
-How much new money? Decided by crypto-reps. That commitee would be
-deciding an upper bound for the inflation essentially, since price
-rises by definition could not exceed that amount. Too many money
-hoarders? Up new money creation to 50%, inflate away their shit, then
-come back to 2%.
-
----
-
-An improved crypto would print money as UBI each month, grow the
-money base and new money can be lent as credit to businesses, through
-crypto-reps chosen by people annually. Currently new money enters econ
-through credit to businesses. New money needs to go to people first.
-
----
-
 CNBC: "Europe drops mask mandate for flights and airports, loosening
 Covid rules further"
 

@@ -1,129 +1,101 @@
 
-Techcrunch: "Hyundai, Nikola, Bosch and others are seriously pushing
-fuel cells, but why now?.. There’s political will, and money. Federal
-investments in green hydrogen and refueling infrastructure — two big
-obstacles to widespread adoption — are giving HFCVs a boost"
-
-<img width='340' src='https://techcrunch.com/wp-content/uploads/2024/01/GettyImages-1924049799.jpg?w=400&crop=1'/> 
+No spending cut, "thriftiness" can tame that debt. There is only one place
+that money can be taken from. Yeeah you know where that is. Take out
+the big stick.
 
 ---
 
-The Doobie Brothers - Mamaloi \#music
-
-[[-]](https://youtu.be/KPeH5yUth18?t=7)
-
----
-
-"‘UK’s largest’ hydrogen hub gets green light from local authority"
+US federal spending in 2022 was around 6 trillion, the interest
+payments of the debt are now a big chunk of that. Once interest
+payments overwhelm the annual spending itself, some people are
+going to start scratching their heads, and be forced to make some
+tough choices.
 
 ---
-
-"@shuttersparks@qoto.org
-
-This tracking stuff on the Internet is past ridiculous. I notice that
-when I pull up my Orders page on Amazon, uBlock blocks 133 items. When
-I pull up Accuweather for my town, it blocks 273 items.
-
-Here on Mastodon, both uBlock and Privacy Badger read zero. Funny how
-that is"
-
----
-
-Working for private sector does not equal being a good capitalist
-either.  You are asked to manage a plant, or work as an accountant, you
-are still in a bureucracy, not completely exposed to the market forces
-outside your own corner. You are asked to do certain things, you judge
-how long they would take, ask for resources, give a timeline. This is
-technical, bureucratic work. You are not operating a lemonade stand
-waiting for customers yourself. You are the guy behind the scenes,
-working in the lemonade bureucracy.
-
----
-
-People subconciously, rougly will vote for a person who would be a
-*good manager*, someone likable enough to tolerate as a boss. That's
-not the same thing as being a "good capitalist".
-
-"Voters vote for a good capitalist, they will reward such a person"
-
----
-
-The Lever: "How Boeing Bought Washington... Before the recent Boeing
-disaster, the company and its parts supplier Spirit AeroSystems spent
-years lobbying to boost production and weaken safety regulations"
-
----
-
-CNBC: "Sanctioned Western tech is still entering Russia and powering
-its military machine, new analysis shows"
-
----
-
-"@jasongorman@mastodon.cloud
-
-The purpose of junior developers is to grow into senior
-developers. Replacing them with "A.I." is like replacing all your
-unripened tomatoes with pasta sauce. There'll be a shortage of ripe
-tomatoes - and pasta sauce - come next season"
-
----
-
-"Head to head approval match-ups" do not capture the whole story. It's
-not easy to beat an incumbent (party) after its first term (easier
-after the second).
-
----
-
-How low Biden's approv has to be to lose his advantage in the general?
-With 2% GDP growth if net approval goes to -30% then the challenger has
-an advantage. It is getting there.
-
----
-
-Biden's approval numbers fall and fall.. 
 
 ```python
-app = u.biden_approval()
-app = app[app.index > '2023-01-01']
-app['net'].plot(title="Biden Net Approval")
+df = u.get_fred(1960, "A091RC1Q027SBEA")
+df.plot(title="Federal Government Interest Payments")
+plt.ylabel('Billions', fontsize = 10)
 ```
 
-[[-]](https://cdn.fosstodon.org/media_attachments/files/111/729/962/039/199/002/original/836d1571b5cf9755.jpg)
+[[-]](https://cdn.fosstodon.org/media_attachments/files/111/758/858/626/419/306/original/b5382bad0cf61a36.jpg)
 
 ---
 
-The Times of Israel: "UK Labour’s ex-chief Corbyn joins South African
-delegation to ICJ case against Israel"
+Debt holders are not asking the 34 trillion federal debt to be paid
+right away but the interest of that debt due has to be paid, and every
+year it is growing massively along with the total debt.
 
 ---
 
-F24: "South Africa accuses Israel of breaching Genocide Convention as
-ICJ hearings open"
-
---- 
-
-The Guardian: "Hearings to begin at The Hague in case claiming
-Israel’s Gaza war is genocide.. International Court of Justice will
-hear complaint brought by South Africa"
+Pikkety talked about a wealth tax in his *Capital in the Twenty-first Century*, 2014. 
+It is doable.
 
 ---
 
-There was some kind of DDos attack on Codeberg, the main site of this
-blog. The mirror is usually few days behind, and whenever there are
-problems I update the mirror immediately, if problems continue, will
-continue publishing on the mirror. FYI.
+Stevenson: "The tax system as it is is not really designed to tax
+people whose income comes from wealth.. there is huge amount of wealth
+in this country, not just housing but also commercial wealth, land,
+shopping centers, office buildings, factories.. these are owned by
+richer people, they generate enourmous amount of income from [it].
+With the way the tax system is designed it is possible for rich people
+to generate huge amounts of income from wealth, and to legally avoid a
+lot of tax. They [certainly] don't have to pay income tax on most of
+wealth based income. The end result is these people in many cases pay
+rates as low as 10% or sometimes even lower, on the income from their
+wealth.
 
----
+What we actually have is a tax system that is progressive for ordinary
+people, the rate is higher the more you earn, and once you get into
+the realm of.. wealthy people, the rate starts to collapse.
 
-Al Jazeera: "Iran seized a tanker with Iraqi crude.. in retaliation
-for the confiscation last year of the same vessel and its oil by the
-United States"
+I think it's it's quite interesting that.. the tax system is kind of
+moving back towards.. Medieval Times where essentially working people
+pay tax to the aristocracy.. Increasingly a big chunk of the tax that
+you pay literally goes towards paying government debt interest to the
+rich. You pay your tax - a lot of that goes to the rich then you pay
+your rent - that goes to the rich you pay your mortgage - that goes to
+rich you go to buy food and that goes to the landowners, you buy
+energy and that goes to the energy owners..  [this] looks increasing
+like a very extractive system..
 
----
+The lack of taxation of the rich creates a big problem with flows of
+wealth. Recently I've been really trying to lobby politicians, 
+unsuccessfully, to start taxing wealth, tax working people less on
+their income and tax wealth more.. I've been trying to push them to
+tax people who have a wealth of over £10 million; 1% of their wealth,
+and they don't [even] want to do that. But wealthy people will make
+three, four, five percent income on their wealth anyway, so.. even if
+you were to tax them one percent they would still generate an enormous
+excess income that they could then use to compete with your kids to
+buy property...
 
-Satellites reveal 75% of world's industrial fishing vessels are 'hidden'
+I should probably just talk briefly about VAT & NI.  [UK] National
+Insurance is a form of income tax that only applies to working people,
+only applies to work..  National Insurance [is] specifically targeted
+at working people, then you have VAT which is on consumption, now very
+rich people consume very very small percentage of their income so they
+pay very little VAT.. VAT is targeted at ordinary people, National
+Insurance targeted at working people. Income Tax [is] avoidable for
+the rich, Inheritance Tax [is] avoidable for the rich.. The end result
+is you have a tax system which looks progressive for ordinary people
+because you're only comparing yourself to people around you who are
+ordinary people at the same time you have this small group of people
+who are phenomenally rich who are increasingly buying everything you
+don't often get to see in day-to-day life that they are paying
+nothing, generating huge amounts of income and using that income to
+buy the rest of the assets. Who pays tax? If you're a working person
+in an ordinary financial situation - YOU! Who doesn't pay tax? Very
+wealthy families, the people who receive your mortgage payments your
+rent payments, the money you spend on food and bills. They don't pay
+any tax on that and they are then using that money to buy the rest of
+the wealth, so it creates this really bad structural problem..
 
-[[-]](https://www.space.com/satellites-industrial-fishing-vessels-hidden)
+If we don't take any action against that, it is inevitable that in 20
+years, 30 years, ordinary families will not have any assets left
+basically. It will be very difficult to own property and if you do own
+property you'll be forced to have an enormous mortgage"
 
 ---
 
@@ -171,4 +143,6 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
+
+
 

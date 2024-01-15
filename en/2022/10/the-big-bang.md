@@ -76,6 +76,8 @@ observations have shown that in nearby stars and even in planetary
 nebula.. where we can observe helium directly the amount of helium is
 only half what's predicted by the [BBT]..
 
+<a name='homogeneous'></a>
+
 What's worrying.. Big Bang cosmologists is that the very basic
 assumption of [the theory] is that the universe is homogeneous and
 isotropic modulus.. Isotropic means the same in every direction.

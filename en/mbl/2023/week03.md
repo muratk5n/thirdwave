@@ -301,21 +301,6 @@ argued for "saving the banks".
 
 ---
 
-Globalist conspiracy or just rotten ideology ran amok?
-
-Werner, *Princes of the Yen*, 2014: "[C]entral bank independence alone
-does not guarantee economic success of monetary policy. The Swedish
-Riksbank, for instance, independently created a credit boom in the
-1980s and a credit crunch in the 1990s. The U.S. central bank
-leadership was not influenced by political pressure when it increased
-credit creation steadily throughout the 1990s, thus creating a vast
-asset bubble. The central banks of Thailand and Korea independently
-encouraged their banks to lend excessively to the real estate sector
-and independently set policies that encouraged their entire corporate
-sectors to borrow from abroad, thus placing a precarious time bomb at
-the heart of their economies"
-
----
 
 H2 Central: "India Sets Targets for Green Hydrogen Use by Some Industries"
 
