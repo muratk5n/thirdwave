@@ -1,40 +1,34 @@
 
-No spending cut, "thriftiness" can tame that debt. There is only one place
-that money can be taken from. Yeeah you know where that is. Take out
-the big stick.
+MLK: “The evils of capitalism are as real as the evils of militarism
+and racism. The problems of racial injustice and economic injustice
+cannot be solved without a radical redistribution of political and
+economic power."
 
 ---
 
-US federal spending in 2022 was around 6 trillion, the interest
-payments of the debt are now a big chunk of that. Once interest
-payments overwhelm the annual spending itself, some people are
-going to start scratching their heads, and be forced to make some
-tough choices.
+Reshare
+
+Kurt Andersen: "Back in the 1930s and ’40s, there had been very
+left-wing Democrats with serious national prominence and significant
+political bases. Franklin Roosevelt’s own vice president Henry Wallace
+was one, as most notably was Senator Huey Long of Louisiana, who
+introduced bills in the 1930s to enact a 100 percent income tax on
+earnings over the equivalent of $20 million and a wealth tax of 100
+percent on everything over 1 billion dollars. Which made the president
+seem moderate when his 1935 'Soak the Rich Act' raised the tax on
+income over 2 million to 55 percent. 'Political equality,' FDR said in
+1936, is 'meaningless in the face of economic inequality.' In what he
+pitched as a Second Bill of Rights, he proposed guaranteeing all
+Americans 'the right to earn enough' for 'a decent living' and 'a
+decent home' and to have 'adequate medical care' paid for with 'a tax
+[on] all unreasonable profits, both individual and corporate.' That
+was 1944, Peak Leftism for Democrats on economics"
 
 ---
 
-```python
-df = u.get_fred(1960, "A091RC1Q027SBEA")
-df.plot(title="Federal Government Interest Payments")
-plt.ylabel('Billions', fontsize = 10)
-```
+Reshare
 
-[[-]](https://cdn.fosstodon.org/media_attachments/files/111/758/858/626/419/306/original/b5382bad0cf61a36.jpg)
-
----
-
-Debt holders are not asking the 34 trillion federal debt to be paid
-right away but the interest of that debt due has to be paid, and every
-year it is growing massively along with the total debt.
-
----
-
-Pikkety talked about a wealth tax in his *Capital in the Twenty-first Century*, 2014. 
-It is doable.
-
----
-
-Stevenson: "The tax system as it is is not really designed to tax
+Gary Stevenson: "The tax system as it is is not really designed to tax
 people whose income comes from wealth.. there is huge amount of wealth
 in this country, not just housing but also commercial wealth, land,
 shopping centers, office buildings, factories.. these are owned by
