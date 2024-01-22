@@ -1,97 +1,91 @@
 
-Phys.org: "New material opens up possibility of converting water
-pollutants into hydrogen gas.. WPI Researchers have developed a
-material to remove urea from water and potentially convert it into
-hydrogen gas. By building these materials of nickel and cobalt atoms
-with carefully tailored electronic structures, the group has unlocked
-the potential to enable these transition metal oxides and hydroxides
-to selectively oxidize urea in an electrochemical reaction"
+Fermi's Paradox asked 'Where is everybody?'  meaning extraterrestrial
+aliens, implying given the vastness of the universe and long time it
+has existed, there should be advanced extraterrestrial civilizations
+throughout the universe. The Drake equation aimed to answer that
+question quantitatively, estimates how many active civilizations there
+are in the galaxy right now. Using numbers by Andrew Dessler,
 
-<img width='340' src='https://scx1.b-cdn.net/csz/news/800a/2024/the-process-of-efficie.jpg'/> 
+$$
+N = R_* \cdot f_p \cdot n_e \cdot f_l \cdot f_i \cdot f_c \cdot L
+$$
 
----
+$R_*$: Number of civilizations with which humans could
+communicate. Recent estimates suggest about 2 new stars are formed in
+the Milky Way every year.
 
-"@baldur@toot.cafe
+$f_P$: The average number of planets that can potentially support life
+per star that has planets. Most stars have planets, estimate 0.9.
 
-'The EU is just protectionism!'
+$N_e$: Assume 1 in 5 of stars with planets has a planet in the
+habitable zone, 0.2.
 
-Yes. THAT’S WHAT IT’S FOR. The entire goddamn point of the EU is to
-protect domestic European production. That’s the reason it was
-invented in the first place. It’s not there to beat European consumers
-into submission for US tech companies"
+$f_l$, $f_i$, $f_c$ : The fraction of planets that could support life
+that actually develop life at some point, develop intelligent life,
+and develop a technology that releases detectable signs. Wild guess
+all 0.1.
 
----
+$L$: The length of time for which such civilizations release
+detectable signals. Unknown, Dessler assumes advanced civilizations
+last for ten million years.
 
-"@reichenstein@mastodon.social
+```python
+"%d planets" % (2 *  0.9 * 0.2 * 0.1 * 0.1 * 0.1 * 10*1e6)
+```
 
-So Apple loses in court and is now forced to allow developers to offer
-a link to pay for the app outside AppStore. So... In response, Apple's
-Masters of Evil lawyer team draws up a set of new 'laws' ('give us
-full access to your books so we can still take our 1/3 of your revenue
-there!') to undermine that ruling and reaffirm their old legally
-denied practice...
+```text
+Out[1]: '3600 planets'
+```
 
-I have written about the shackles of paying 30% of productivity
-software revenue at length—and I have learned that Apple users do
-neither understand nor care about indie dev economics as long as they
-get a new shiny iPhone next season"
+But if "instead of 10,000,000 years, advanced civilizations last only
+10,000 years", then
 
----
+```python
+"%d planets" % (2 *  0.9 * 0.2 * 0.1 * 0.1 * 0.1 * 10000)
+```
 
-"We are not rich enough not to have to". That is hilarious. @Twocantravel
+```text
+Out[1]: '3 planets'
+```
 
-[[-]](https://youtu.be/KsNxOFDjlrw?t=750)
+If advanced civilizations last on average only 1,000 years, due to,
+well perhaps some kind of catastropy hits them all, then
 
----
+```python
+"%0.2f planets" % (2 *  0.9 * 0.2 * 0.1 * 0.1 * 0.1 * 1000)
+```
 
-Jake Johnson: "Survey results released Tuesday.. show that nearly
-three-quarters of millionaires in G20 countries support higher taxes
-on extreme wealth, which they view as an increasingly dire threat to
-democracy. The poll was conducted by the London-based firm Survation
-on behalf of the Patriotic Millionaires, an advocacy group that
-campaigns for a more progressive tax system. The survey, which polled
-over 2,300 millionaires in G20 nations, found that 74% 'support higher
-taxes on wealth to help address the cost-of-living crisis and improve
-public services'...
+```text
+Out[1]: '0.36 planets'
+```
 
-'We, the very richest, are sick and tired of inaction, so it's hardly
-surprising that working people, at the sharp end of our rigged
-economies, have lost all patience,' said Guy Singh-Watson, a British
-entrepreneur and member of Patriotic Millionaires U.K.
+which shows why we are the only one, and "there is no one else". And
+btw we will likely go extinct, lose the civilization we built before
+our 1000 years are up due to the climate, nuclear war or some other
+artifact of modernity.
 
-The poll was released as 260 millionaires and billionaires signed a
-letter imploring the dozens of world leaders at the World Economic
-Forum in Davos to raise taxes on rich people like them, warning that a
-continued failure to 'address the dramatic rise of income inequality"
-would be "catastrophic for society'"
+That is the answer to "where is everyone?", they are all dead due to
+one catastrophy or another, not reaching and staying at the level
+where they could contact anyone alive like them (us, in this case).
 
----
-
-Stock markets are breaking records, same reason; too much concentrated
-wealth looking for assets to buy. Sometimes that is stocks, sometimes
-real estate, even crypto - anything with enough liquidity will be a
-target.
+[[-]](https://www.theclimatebrink.com/p/where-is-everyone-the-fermi-paradox)
 
 ---
 
-REIT is an ETF, an indirect way to bet on real-estate 
+"@wilbr@glitch.social
+
+When you think about it, a lot of the UFO sightings really could be
+temperature inversions. Odd light formations are already a feature of
+antenna arrays and planes, so the main freaky part is that they'll
+appear and move impossibly quickly and completely silently. Rather
+than lights (or craft) disobeying the laws of physics, it makes a lot
+of sense that between our eyes not working great in the dark and
+optical illusions working better with high contrast that we're seeing
+a hot air lens"
 
 ---
 
-Even Robinhood monkeys are getting into that action. "I'm gonna buy
-some REITs broo!"
-
----
-
-Look at the median home price.. Clearly a trader needs to bet on asset
-prices going up, because the rich is gobbling up assets, their wealth
-increases, and they buy more assets. 
-
-[[-]](2021/01/stats.html#medhouse)
-
----
-
-\#BEV
+Reshare
 
 "@respectmyplanet@mstdn.social
 
@@ -106,63 +100,44 @@ countries that dont like you"
 
 ---
 
-Heise Online: "The 'BSR HyAirport' project for a hydrogen
-infrastructure for climate-neutral flights in the Baltic Sea region
-officially started on Tuesday. 16 airports, airlines, research
-institutions and technology companies from Germany, Scandinavia, the
-Baltic States and Poland want to work together with 24 partners"
+The diva cunt and the Thiel types around him have no pull, and no
+understanding of politics.. Bunch of overly rich cocksuckers flailing
+around, clueless. Ironically their understanding of tech is even
+worse.
 
 ---
 
-Al-Monitor: "Hezbollah warns Israel against continued 'aggression'"
+RDS shouldna thrown his lot with the [monkey boy](https://www.nytimes.com/2023/05/24/us/politics/ron-desantis-campaign-announcement-twitter.html),
+that was his first mistake. 
+
+Politico: "How DeSantis collapsed in the glare of a presidential campaign"
 
 ---
 
-Arab News: "Leaders of Non-Aligned Movement or NAM countries have
-denounced Israel’s military campaign in Gaza and demanded an immediate
-ceasefire there, during the annual summit of the 120-member bloc"
+Jerusalem is massively segregated apparently \#Peled
+
+[[-]](https://youtu.be/8N3RXYRKUpU?t=1909)
 
 ---
 
-Politico: "Defense in Davos: US on back foot as world roils around
-it.. Day after day, the officials faced questions about the political
-tussle over providing more aid to Ukraine, congressional polarization,
-the optics of supporting Israel despite the suffering of Palestinians
-and a growing bombing campaign against the Houthis in Yemen"
+There goes another claim of legitimacy for Zionists on the land they
+inhabit. 
 
 ---
 
-Politico: "The EU’s top diplomat Josep Borrell on Friday openly
-accused Israel of having financed the Palestinian militant group
-Hamas... 'Hamas was financed by the Israeli government in an attempt
-to weaken the Palestinian Authority,' Borrell was quoted as saying by
-Spanish newspaper El País. Borrell was speaking at Spain’s University
-of Valladolid, where the Spanish politician was awarded an honorary
-doctorate"
+King David was a myth? 🤣 It's like the King Arthur of Brits.. that
+mfka did not exist either.
 
----
-
-NYT: "Some Israeli commanders said the government’s two main goals were
-mutually incompatiable. To eradicate Hamas, the military would have to
-engage in a lengthy war that would most likely cost the hostages’
-lives"
-
----
-
-Arab News: "US Democrats push Biden administration over civilian toll
-in Israel’s Gaza campaign.. The letter to..  Blinken, led by US
-Representatives Ayanna Pressley and Jamie Raskin, was signed by 60
-Democratic House of Representatives members, reflecting concern,
-especially on the left, over the steep toll on Palestinian civilians
-of Israel’s campaign against Hamas"
-
----
-
-Income equality increased massively after 30s in Germany, from GINI
-level 30 up to 44 between Depression and WWII, see paper [here](https://pure.rug.nl/ws/portalfiles/portal/97038386/Le_n_et_al_2019_The_Economic_History_Review.pdf).
-The terrible thing about it was its fluctuation which IMO gave
-ppl the impression their well-being was on knife's edge, which could
-have led them to a certain demagogue with a funny mustache.
+Wiki: "In 2007.. [researchers] stated that the archaeological evidence
+shows that [during the tenth century BCE] Judah was sparsely inhabited
+and Jerusalem no more than a small village. The evidence suggested
+that David ruled only as a chieftain over an area which cannot be
+described as a state or as a kingdom, but more as a chiefdom, much
+smaller and always overshadowed by the older and more powerful kingdom
+of Israel to the north. They posited that Israel and Judah were not
+monotheistic at the time and that later 7th-century redactors sought
+to portray a past golden age of a united, monotheistic monarchy in
+order to serve contemporary needs"
 
 ---
 
