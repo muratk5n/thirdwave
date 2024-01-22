@@ -1,95 +1,168 @@
 
-MLK: “The evils of capitalism are as real as the evils of militarism
-and racism. The problems of racial injustice and economic injustice
-cannot be solved without a radical redistribution of political and
-economic power."
+Phys.org: "New material opens up possibility of converting water
+pollutants into hydrogen gas.. WPI Researchers have developed a
+material to remove urea from water and potentially convert it into
+hydrogen gas. By building these materials of nickel and cobalt atoms
+with carefully tailored electronic structures, the group has unlocked
+the potential to enable these transition metal oxides and hydroxides
+to selectively oxidize urea in an electrochemical reaction"
+
+<img width='340' src='https://scx1.b-cdn.net/csz/news/800a/2024/the-process-of-efficie.jpg'/> 
 
 ---
 
-Reshare
+"@baldur@toot.cafe
 
-Kurt Andersen: "Back in the 1930s and ’40s, there had been very
-left-wing Democrats with serious national prominence and significant
-political bases. Franklin Roosevelt’s own vice president Henry Wallace
-was one, as most notably was Senator Huey Long of Louisiana, who
-introduced bills in the 1930s to enact a 100 percent income tax on
-earnings over the equivalent of $20 million and a wealth tax of 100
-percent on everything over 1 billion dollars. Which made the president
-seem moderate when his 1935 'Soak the Rich Act' raised the tax on
-income over 2 million to 55 percent. 'Political equality,' FDR said in
-1936, is 'meaningless in the face of economic inequality.' In what he
-pitched as a Second Bill of Rights, he proposed guaranteeing all
-Americans 'the right to earn enough' for 'a decent living' and 'a
-decent home' and to have 'adequate medical care' paid for with 'a tax
-[on] all unreasonable profits, both individual and corporate.' That
-was 1944, Peak Leftism for Democrats on economics"
+'The EU is just protectionism!'
+
+Yes. THAT’S WHAT IT’S FOR. The entire goddamn point of the EU is to
+protect domestic European production. That’s the reason it was
+invented in the first place. It’s not there to beat European consumers
+into submission for US tech companies"
 
 ---
 
-Reshare
+"@reichenstein@mastodon.social
 
-Gary Stevenson: "The tax system as it is is not really designed to tax
-people whose income comes from wealth.. there is huge amount of wealth
-in this country, not just housing but also commercial wealth, land,
-shopping centers, office buildings, factories.. these are owned by
-richer people, they generate enourmous amount of income from [it].
-With the way the tax system is designed it is possible for rich people
-to generate huge amounts of income from wealth, and to legally avoid a
-lot of tax. They [certainly] don't have to pay income tax on most of
-wealth based income. The end result is these people in many cases pay
-rates as low as 10% or sometimes even lower, on the income from their
-wealth.
+So Apple loses in court and is now forced to allow developers to offer
+a link to pay for the app outside AppStore. So... In response, Apple's
+Masters of Evil lawyer team draws up a set of new 'laws' ('give us
+full access to your books so we can still take our 1/3 of your revenue
+there!') to undermine that ruling and reaffirm their old legally
+denied practice...
 
-What we actually have is a tax system that is progressive for ordinary
-people, the rate is higher the more you earn, and once you get into
-the realm of.. wealthy people, the rate starts to collapse.
+I have written about the shackles of paying 30% of productivity
+software revenue at length—and I have learned that Apple users do
+neither understand nor care about indie dev economics as long as they
+get a new shiny iPhone next season"
 
-I think it's it's quite interesting that.. the tax system is kind of
-moving back towards.. Medieval Times where essentially working people
-pay tax to the aristocracy.. Increasingly a big chunk of the tax that
-you pay literally goes towards paying government debt interest to the
-rich. You pay your tax - a lot of that goes to the rich then you pay
-your rent - that goes to the rich you pay your mortgage - that goes to
-rich you go to buy food and that goes to the landowners, you buy
-energy and that goes to the energy owners..  [this] looks increasing
-like a very extractive system..
+---
 
-The lack of taxation of the rich creates a big problem with flows of
-wealth. Recently I've been really trying to lobby politicians, 
-unsuccessfully, to start taxing wealth, tax working people less on
-their income and tax wealth more.. I've been trying to push them to
-tax people who have a wealth of over £10 million; 1% of their wealth,
-and they don't [even] want to do that. But wealthy people will make
-three, four, five percent income on their wealth anyway, so.. even if
-you were to tax them one percent they would still generate an enormous
-excess income that they could then use to compete with your kids to
-buy property...
+"We are not rich enough not to have to". That is hilarious. @Twocantravel
 
-I should probably just talk briefly about VAT & NI.  [UK] National
-Insurance is a form of income tax that only applies to working people,
-only applies to work..  National Insurance [is] specifically targeted
-at working people, then you have VAT which is on consumption, now very
-rich people consume very very small percentage of their income so they
-pay very little VAT.. VAT is targeted at ordinary people, National
-Insurance targeted at working people. Income Tax [is] avoidable for
-the rich, Inheritance Tax [is] avoidable for the rich.. The end result
-is you have a tax system which looks progressive for ordinary people
-because you're only comparing yourself to people around you who are
-ordinary people at the same time you have this small group of people
-who are phenomenally rich who are increasingly buying everything you
-don't often get to see in day-to-day life that they are paying
-nothing, generating huge amounts of income and using that income to
-buy the rest of the assets. Who pays tax? If you're a working person
-in an ordinary financial situation - YOU! Who doesn't pay tax? Very
-wealthy families, the people who receive your mortgage payments your
-rent payments, the money you spend on food and bills. They don't pay
-any tax on that and they are then using that money to buy the rest of
-the wealth, so it creates this really bad structural problem..
+[[-]](https://youtu.be/KsNxOFDjlrw?t=750)
 
-If we don't take any action against that, it is inevitable that in 20
-years, 30 years, ordinary families will not have any assets left
-basically. It will be very difficult to own property and if you do own
-property you'll be forced to have an enormous mortgage"
+---
+
+Jake Johnson: "Survey results released Tuesday.. show that nearly
+three-quarters of millionaires in G20 countries support higher taxes
+on extreme wealth, which they view as an increasingly dire threat to
+democracy. The poll was conducted by the London-based firm Survation
+on behalf of the Patriotic Millionaires, an advocacy group that
+campaigns for a more progressive tax system. The survey, which polled
+over 2,300 millionaires in G20 nations, found that 74% 'support higher
+taxes on wealth to help address the cost-of-living crisis and improve
+public services'...
+
+'We, the very richest, are sick and tired of inaction, so it's hardly
+surprising that working people, at the sharp end of our rigged
+economies, have lost all patience,' said Guy Singh-Watson, a British
+entrepreneur and member of Patriotic Millionaires U.K.
+
+The poll was released as 260 millionaires and billionaires signed a
+letter imploring the dozens of world leaders at the World Economic
+Forum in Davos to raise taxes on rich people like them, warning that a
+continued failure to 'address the dramatic rise of income inequality"
+would be "catastrophic for society'"
+
+---
+
+Stock markets are breaking records, same reason; too much concentrated
+wealth looking for assets to buy. Sometimes that is stocks, sometimes
+real estate, even crypto - anything with enough liquidity will be a
+target.
+
+---
+
+REIT is an ETF, an indirect way to bet on real-estate 
+
+---
+
+Even Robinhood monkeys are getting into that action. "I'm gonna buy
+some REITs broo!"
+
+---
+
+Look at the median home price.. Clearly a trader needs to bet on asset
+prices going up, because the rich is gobbling up assets, their wealth
+increases, and they buy more assets. 
+
+[[-]](2021/01/stats.html#medhouse)
+
+---
+
+\#BEV
+
+"@respectmyplanet@mstdn.social
+
+Imagine mandating a technology where selling points in the dead of
+winter are: 1) dont run the heater. 2) dont pay attn to the range
+estimate, you could lose 40% of that. 3). Dont let it sit in cold
+overnight if its below 20% charge. 4) It might take a long time to
+charge when its cold which can be exacerbated by long lines & cars
+bricked blocking chargers. 5) Virtually none of the raw materials for
+the powertrain come from USA or Europe. They predominantly come from
+countries that dont like you"
+
+---
+
+Heise Online: "The 'BSR HyAirport' project for a hydrogen
+infrastructure for climate-neutral flights in the Baltic Sea region
+officially started on Tuesday. 16 airports, airlines, research
+institutions and technology companies from Germany, Scandinavia, the
+Baltic States and Poland want to work together with 24 partners"
+
+---
+
+Al-Monitor: "Hezbollah warns Israel against continued 'aggression'"
+
+---
+
+Arab News: "Leaders of Non-Aligned Movement or NAM countries have
+denounced Israel’s military campaign in Gaza and demanded an immediate
+ceasefire there, during the annual summit of the 120-member bloc"
+
+---
+
+Politico: "Defense in Davos: US on back foot as world roils around
+it.. Day after day, the officials faced questions about the political
+tussle over providing more aid to Ukraine, congressional polarization,
+the optics of supporting Israel despite the suffering of Palestinians
+and a growing bombing campaign against the Houthis in Yemen"
+
+---
+
+Politico: "The EU’s top diplomat Josep Borrell on Friday openly
+accused Israel of having financed the Palestinian militant group
+Hamas... 'Hamas was financed by the Israeli government in an attempt
+to weaken the Palestinian Authority,' Borrell was quoted as saying by
+Spanish newspaper El País. Borrell was speaking at Spain’s University
+of Valladolid, where the Spanish politician was awarded an honorary
+doctorate"
+
+---
+
+NYT: "Some Israeli commanders said the government’s two main goals were
+mutually incompatiable. To eradicate Hamas, the military would have to
+engage in a lengthy war that would most likely cost the hostages’
+lives"
+
+---
+
+Arab News: "US Democrats push Biden administration over civilian toll
+in Israel’s Gaza campaign.. The letter to..  Blinken, led by US
+Representatives Ayanna Pressley and Jamie Raskin, was signed by 60
+Democratic House of Representatives members, reflecting concern,
+especially on the left, over the steep toll on Palestinian civilians
+of Israel’s campaign against Hamas"
+
+---
+
+Income equality increased massively after 30s in Germany, from GINI
+level 30 up to 44 between Depression and WWII, see paper [here](https://pure.rug.nl/ws/portalfiles/portal/97038386/Le_n_et_al_2019_The_Economic_History_Review.pdf).
+The terrible thing about it was its fluctuation which IMO gave
+ppl the impression their well-being was on knife's edge, which could
+have led them to a certain demagogue with a funny mustache.
 
 ---
 
@@ -137,6 +210,3 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
-
-
-

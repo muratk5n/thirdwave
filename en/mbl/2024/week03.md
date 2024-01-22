@@ -1,6 +1,282 @@
 # Week 3
 
 
+The commercial cannot exist without the free. It's time this fact is
+acknowledged and properly rewarded, at the very least, the existing
+system is amended so people who create the commercial products are
+rewarded less (money is not an absolute value but defines distribution
+right?).
+
+"The value of a non-pecuniary (free) product is inherently difficult to
+assess. A pervasive example is open source software (OSS), a global
+public good that plays a vital role in the economy and is foundational
+for most technology we use today... We estimate.. the demand-side
+value [replacement value for each firm that uses the software of OSS]
+is.. at $8.8 trillion. We find that firms would need to spend 3.5
+times more on software than they currently do if OSS did not exist."
+
+[[-]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4693148)
+
+---
+
+Large structures defy the homogeniety principle of an expanding universe
+and the Big Bang. Both theories are now [dead](2022/10/the-big-bang.html#homogeneous).
+
+Phys.org: "Discovery of second ultra-large structure in distant space
+further challenges our understanding of the universe"
+
+---
+
+"@arnesemsrott@chaos.social
+
+Yesterday's Bundestag debate on the AfD expulsion plans was really not
+a great moment.
+
+If this is the intellectual level at which the AfD is being fought
+from the Bundestag, we really have even more problems"
+
+---
+
+How much tax does he pay on his wealth generated income?
+
+---
+
+And they wonder why people veer towards fascism. People like you
+created Hitler, Spahn.
+
+---
+
+This guy is former banker, rich, his money makes surely money while
+he sits on his ass - why does he care whether people work or not?
+
+---
+
+That easy eh?
+
+CDU executive board member Jens Spahn: "People who can work and
+receive a job offer but do not accept it should basically no longer
+receive citizen’s money.. If a general deletion is not covered by the
+case law of the Federal Constitutional Court, we should simply change
+the constitution"
+
+---
+
+A better label for the complex is a "surface state", these people
+supported by a shady donor class can grab a political post here and
+there at the top, install certain people at some gov posts, but they
+are mostly at the outer edges albeit sometimes in powerful
+positions. Remember the Cheney - J. Wilson debacle. JW blew the
+whistle on the Iraq War evidence Saddam had WMD etc) and Cheney's
+people, likely directed by him, outed his wife at the CIA. Well if
+Cheney type people were "in the deep", as in state, couldn't they
+handle business other ways? In that scenario Wilson would not speak.
+His wife would be "taken care of". It would be a done deal. That did
+not happen. This is why looking for bad actors at the depths is
+incorrect. At lower levels there are a lot of good officials, like
+that Josh Paul, ppl with principles. There are many like him. The
+donors, "the complex" at the exec level can manuever the occasional
+Secretary, a VP, or sometimes a President into a position, but it is
+harder for them to reach the internal workings of the state. US is not
+an empire, nor has a deep state. Politically, it is just a concoction
+of short-sighted private actors that only care about immediate
+profits, a donor supported, partly corrupt "surface state" that
+unfortunately is leading everyone to ruin.
+
+---
+
+*Vice*, Bernstein: "Cheney’s contempt for the Central Intelligence
+Agency has its roots in the Ford administration. Cheney believed the
+agency, like Dr. Kissinger, was soft on the Soviet Union. So Cheney
+and Rumsfeld colluded with a clique of right-wing academics— which
+would grow into the neocon movement"
+
+---
+
+That doesn't mean anything. Dick Cheney did not like the CIA either,
+he is still alive and kicking. Some others do not like the FBI, or
+ICE. It doesn't immediately imply "they will kill you". JFK provided
+ample funding for the military, a lot of interests had reasons to keep
+him alive. He died because he was retarded, like everyone else in his
+family. These people have a genetic defect. 
+
+"But JFK did not like the CIA, that is likely why they'd want him dead"
+
+---
+
+JFK was an extremely bad president, but his image proved useful for
+the complex. Think about it, he was rich, then killed in a way that
+led many "imaginative" boomers at the time to suspect government
+(because gov is bad, does bad things, be scared). And what is the
+overriding ideology of the post-Berlin Wall neoliberal world?
+Pro-rich and anti-government. Boom. Enter JFK adulation.
+
+---
+
+"@eunews@mastodon.social
+
+The European Parliament has for the first time called for a 'permanent
+ceasefire' in Gaza and the start of political efforts to find a
+solution to the war between Israel and Hamas"
+
+---
+
+Toronto Star: "Police spending has ‘no consistent correlation’ with
+lower crime rates, new Canadian study says"
+
+---
+
+The Lever: "Federal regulators are now investigating Boeing and its
+longtime subcontractor Spirit AeroSystems after a series of Lever
+reports revealed widespread corporate malfeasance following a
+terrifying plane malfunction"
+
+---
+
+404Media: "Google search really has been taken over by low-quality SEO
+spam, according to a new, year-long study by German researchers...
+They found that, overall, 'higher-ranked pages are on average more
+optimized, more monetized with affiliate marketing, and they show
+signs of lower text quality ...  we find that only a small portion of
+product reviews on the web uses affiliate marketing, but the majority
+of all search results do.'" 
+
+---
+
+For fracture analysis dude modeled the whole object via a beam
+lattice, solves the system with superpositioned elements, then $Ax=b$
+using conjugate gradient.. Removes pieces that have too much
+displacement and repeats, thanks to CG incremental recalc is very
+fast. The simulations look uncanny.
+
+---
+
+There are some great ways of solving $Ax=b$. 
+
+---
+
+[Link](https://drive.google.com/uc?export=view&id=1bIapwdVOippH2AddmuB68sGk3W0PK13C)
+
+---
+
+Noone remembers anything anymore
+
+---
+
+Garthe Knight did not have plastic surgery to look like Michael. When
+Michael had the surgery he was made to look like Garthe. GK is 
+Wilton's real son.
+
+---
+
+\#Cold \#BEV
+
+[[-]](https://youtu.be/r1ihvjyIYOQ?t=670)
+
+---
+
+They deserve it \#ICJ \#ISR \#US
+
+[[-]](https://mastodon.teia.art/system/media_attachments/files/111/769/407/008/701/489/original/4bad1b2a2236348d.jpeg)
+
+---
+
+CNBC: "World's five richest men have doubled their wealth since 2020,
+report finds.. 'The world will have its first trillionaire within a
+decade but poverty won't be eradicated for another 229 years,' Oxfam
+said"
+
+---
+
+According to "all money is debt to FED" viewpoint, once the debt is
+paid the money would be likely destroyed, poof. Then theoretically if
+all debt was paid back within same the period, it is possible there
+would be no money in the econ, zero. That would be odd.. But highly
+unlikely.
+
+---
+
+*The Bricklayer*, *Kill Command*, average but ok. *Lift* was great.
+*The Warrior's Way*, exotic, good action.
+
+---
+
+It's sort of funny but [not true](https://apnews.com/article/fact-check-photo-owl-sitting-crossed-legs-822881945319),
+likely doctored image.
+
+[[-]](https://stockroom.wandering.shop/media_attachments/files/111/771/793/448/346/203/original/22c8790c050042fc.jpeg)
+
+---
+
+DJ Shadow - Building Steam With A Grain Of Salt \#music
+
+[[-]](https://youtu.be/HORLJvUMs08)
+
+---
+
+Yhden suuren vedynsiirtoputken vastaa jopa 15 kantaverkon
+voimajohtoa.. That's right mfka..  that's what I'm talkin bout..
+
+---
+
+Energia siirty kaasuna tehokkaasti. Oh yea
+
+[[-]](https://sfo3.digitaloceanspaces.com/cdn.mastodon.energy/media_attachments/files/111/775/886/293/905/750/small/ce9ff80fcbe09547.jpg)
+
+---
+
+"@trochee@dair-community.social
+
+The boom in LLMs is going to hollow out a number of knowledge-worker
+industries — for example, writing boilerplate code or technical
+documentation
+
+Not because it does it well but because the flacks can sell upper
+management on the idea that it can do it at all, as @doctorow recently
+pointed out
+
+This sale is a pig-in-a-poke, and the winning move is to not be
+holding the bag when the actual code or documentation is found to be
+terrible
+
+But there isn't really a winning move if you're one of the people
+getting hollowed out — for us, the game is survival until the grift
+collapses"
+
+---
+
+Politico: "The fiercest Republican campaign isn’t taking place between
+the hopefuls in Iowa or New Hampshire this month, but rather in the
+backstage fight over who would be Donald Trump’s running mate.. 'Nikki
+Haley as VP would be an establishment neocon fantasy and a MAGA
+nightmare,' Rep. Matt Gaetz (R-Fla.) told me"
+
+---
+
+
+Iran is on a bitchslapping spree.. Idlib, Pakistan, North
+Syria. Pakistan hits back.. Crazy.
+
+---
+
+ArsTechnica: "Humana, one the nation's largest health insurance
+providers, is allegedly using an artificial intelligence model with a
+90 percent error rate to override doctors' medical judgment and
+wrongfully deny care to elderly people on the company's Medicare
+Advantage plans. According to a lawsuit filed Tuesday, Humana's use
+of the AI model constitutes a 'fraudulent scheme' that leaves elderly
+beneficiaries with either overwhelming medical debt or without needed
+care that is covered by their plans. Meanwhile, the insurance behemoth
+reaps a 'financial windfall'"
+
+---
+
+MLK: “The evils of capitalism are as real as the evils of militarism
+and racism. The problems of racial injustice and economic injustice
+cannot be solved without a radical redistribution of political and
+economic power."
+
+---
+
 Aftonbladet: "The war is creeping ever closer to Sweden if the
 country's leadership is to be believed. It certainly worries many, but
 in purely economic terms, the deteriorating security situation has a

@@ -617,10 +617,10 @@ plt.savefig('gini.png')
 
 ```text
 DATE
-2022-07-01    0.443
-2022-10-01    0.448
-2023-01-01    0.448
-2023-04-01    0.444
+2022-10-01    0.438
+2023-01-01    0.437
+2023-04-01    0.437
+2023-07-01    0.437
 Freq: QS-OCT, dtype: float64
 ```
 
@@ -641,10 +641,34 @@ df['Bottom 50%'] = (df['WFRBLB50107'] * 100) / df.Total
 
 print (df[['Top 10%','Bottom 50%']].tail(4))
 df[['Top 10%']].plot()
+plt.ylim(50,100)
 plt.savefig('top10-2.jpg')
 ```
 
+```text
+              Top 10%  Bottom 50%
+DATE                             
+2022-10-01  67.498886    2.488141
+2023-01-01  67.485492    2.528116
+2023-04-01  66.984123    2.544488
+2023-07-01  66.970733    2.530318
+```
+
 ![](top10-2.jpg)
+
+## Real Estate
+
+<a name='medhouse'></a>
+
+Median house prices
+
+```python
+df = u.get_fred(1992,"MSPUS")
+df.plot()
+plt.savefig('medhouse.jpg')
+```
+
+![](medhouse.jpg)
 
 <a name='chex'></a>
 

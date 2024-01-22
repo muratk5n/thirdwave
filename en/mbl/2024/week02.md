@@ -24,11 +24,8 @@ price falls, and that is good for the low-to-moderate-income folk.
 
 ---
 
-That's a great idea.. Next up, a Federal Wealth Tax to close the
-34 trillion dollar federal debt hole.
-
-WSJ: "California’s Wealth Tax Arrives.. Democrats want to tax assets to
-fill the state’s $68 billion budget hole"
+States should pass Wealth Tax proposals, federal one needed too to
+close the 34 trillion dollar federal debt hole.
 
 ---
 
