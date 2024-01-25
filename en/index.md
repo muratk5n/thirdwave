@@ -1,143 +1,125 @@
 
-Fermi's Paradox asked 'Where is everybody?'  meaning extraterrestrial
-aliens, implying given the vastness of the universe and long time it
-has existed, there should be advanced extraterrestrial civilizations
-throughout the universe. The Drake equation aimed to answer that
-question quantitatively, estimates how many active civilizations there
-are in the galaxy right now. Using numbers by Andrew Dessler,
+"@bert_hubert@fosstodon.org
 
-$$
-N = R_* \cdot f_p \cdot n_e \cdot f_l \cdot f_i \cdot f_c \cdot L
-$$
+Software is now (rightfully) considered so dangerous that we tell
+everyone not to run it themselves. Instead, you are supposed to leave
+that to an 'as a service' provider, or perhaps to 'the cloud'...
 
-$R_*$: Number of civilizations with which humans could
-communicate. Recent estimates suggest about 2 new stars are formed in
-the Milky Way every year.
-
-$f_P$: The average number of planets that can potentially support life
-per star that has planets. Most stars have planets, estimate 0.9.
-
-$N_e$: Assume 1 in 5 of stars with planets has a planet in the
-habitable zone, 0.2.
-
-$f_l$, $f_i$, $f_c$ : The fraction of planets that could support life
-that actually develop life at some point, develop intelligent life,
-and develop a technology that releases detectable signs. Wild guess
-all 0.1.
-
-$L$: The length of time for which such civilizations release
-detectable signals. Unknown, Dessler assumes advanced civilizations
-last for ten million years.
-
-```python
-"%d planets" % (2 *  0.9 * 0.2 * 0.1 * 0.1 * 0.1 * 10*1e6)
-```
-
-```text
-Out[1]: '3600 planets'
-```
-
-But if "instead of 10,000,000 years, advanced civilizations last only
-10,000 years", then
-
-```python
-"%d planets" % (2 *  0.9 * 0.2 * 0.1 * 0.1 * 0.1 * 10000)
-```
-
-```text
-Out[1]: '3 planets'
-```
-
-If advanced civilizations last on average only 1,000 years, due to,
-well perhaps some kind of catastropy hits them all, then
-
-```python
-"%0.2f planets" % (2 *  0.9 * 0.2 * 0.1 * 0.1 * 0.1 * 1000)
-```
-
-```text
-Out[1]: '0.36 planets'
-```
-
-which shows why we are the only one, and "there is no one else". And
-btw we will likely go extinct, lose the civilization we built before
-our 1000 years are up due to the climate, nuclear war or some other
-artifact of modernity.
-
-That is the answer to "where is everyone?", they are all dead due to
-one catastrophy or another, not reaching and staying at the level
-where they could contact anyone alive like them (us, in this case).
-
-[[-]](https://www.theclimatebrink.com/p/where-is-everyone-the-fermi-paradox)
+The assumption is then that 'the cloud' is somehow able to turn
+insecure software into a secure service. Yet even the past year, we’ve
+learned that Microsoft’s email platform was thoroughly hacked, down to
+classified government email (update: it happened again!). There are
+also well-founded worries about the security of the Azure
+cloud. Meanwhile, industry darling Okta, which provides LOG IN
+SOLUTIONS got comprehensively owned. This was their second breach
+within a year. Also, there was a suspicious spate of Okta users
+getting hacked subsequently"
 
 ---
 
-"@wilbr@glitch.social
+Cool
 
-When you think about it, a lot of the UFO sightings really could be
-temperature inversions. Odd light formations are already a feature of
-antenna arrays and planes, so the main freaky part is that they'll
-appear and move impossibly quickly and completely silently. Rather
-than lights (or craft) disobeying the laws of physics, it makes a lot
-of sense that between our eyes not working great in the dark and
-optical illusions working better with high contrast that we're seeing
-a hot air lens"
+"@agrinsted@fediscience.org
+
+'Ice is a remarkably strong solid. When its normalized strength (σs/μ)
+is compared with that of other solids at the same fraction of their
+melting point (T/TM), ice is found to be among the strongest and
+hardest. ' (ashby and frost, 1982)"
 
 ---
 
-Reshare
-
-"@respectmyplanet@mstdn.social
-
-Imagine mandating a technology where selling points in the dead of
-winter are: 1) dont run the heater. 2) dont pay attn to the range
-estimate, you could lose 40% of that. 3). Dont let it sit in cold
-overnight if its below 20% charge. 4) It might take a long time to
-charge when its cold which can be exacerbated by long lines & cars
-bricked blocking chargers. 5) Virtually none of the raw materials for
-the powertrain come from USA or Europe. They predominantly come from
-countries that dont like you"
+Mother Jones: "Global Millionaires Say Yes to Taxing Extreme Wealth,
+Poll Finds"
 
 ---
 
-The diva cunt and the Thiel types around him have no pull, and no
-understanding of politics.. Bunch of overly rich cocksuckers flailing
-around, clueless. Ironically their understanding of tech is even
-worse.
+I see he changed his mind on neoliberalism, disavowed it. Good for him.
 
 ---
 
-RDS shouldna thrown his lot with the [monkey boy](https://www.nytimes.com/2023/05/24/us/politics/ron-desantis-campaign-announcement-twitter.html),
-that was his first mistake. 
-
-Politico: "How DeSantis collapsed in the glare of a presidential campaign"
-
----
-
-Jerusalem is massively segregated apparently \#Peled
-
-[[-]](https://youtu.be/8N3RXYRKUpU?t=1909)
+Francis Fukuyama's favorite president: Theodor Roosevelt, because
+-wait for it- he created the national park system. If he hadn't 'all
+these beautiful places would be commercialized'. Wasn't this guy some
+big bleeping pro-market guy? Capitalism won, it was all over, it was
+the End of History? \#NovaraMedia
 
 ---
 
-There goes another claim of legitimacy for Zionists on the land they
-inhabit. 
+CH's A2/AD investments, its big navy, big as in numbers not
+necessarily deep sea faring capability, makes more sense for a
+regional blockade scenario too. In a hot war many actors in the area
+can take potshots at them. With a blockade countries must decide
+specifically to break blockade and risk escalation. 
 
 ---
 
-King David was a myth? 🤣 It's like the King Arthur of Brits.. that
-mfka did not exist either.
+Jestrab: "Much of the public discussion around a China-Taiwan conflict
+centers on an invasion; however, a number of factors make this the
+least likely scenario. The primary reason why an invasion scenario is
+unlikely is that it runs contrary to the PRC’s strategic objectives
+and reasons for seeking unification. An invasion would result in
+significant direct physical violence against the people of Taiwan, the
+population that the CCP seeks to rule. Additionally, the PRC gives
+priority to economic development as a 'central task' of its continued
+growth. An invasion would certainly result in harm to the Chinese
+economy due to international sanctions and significant destruction to
+Taiwan’s infrastructure and economy.
 
-Wiki: "In 2007.. [researchers] stated that the archaeological evidence
-shows that [during the tenth century BCE] Judah was sparsely inhabited
-and Jerusalem no more than a small village. The evidence suggested
-that David ruled only as a chieftain over an area which cannot be
-described as a state or as a kingdom, but more as a chiefdom, much
-smaller and always overshadowed by the older and more powerful kingdom
-of Israel to the north. They posited that Israel and Judah were not
-monotheistic at the time and that later 7th-century redactors sought
-to portray a past golden age of a united, monotheistic monarchy in
-order to serve contemporary needs"
+Geographic factors also make an invasion difficult, including the fact
+that two-thirds of the country is rugged mountains and 80 percent of
+the population lives in urban environments. Achieving success during
+an invasion would likely require preemptive attacks on US and allied
+forces, and there would be limited de-escalation options if this
+occurred. The historical precedent is that the United States is highly
+committed to wars it enters after being attacked. Unlike an invasion
+scenario, a blockade could be reversable, and the level of force used
+could be adjusted...
+
+A blockade is the most likely and dangerous scenario, due to
+Taiwan’s reliance on maritime trade to sustain its economic
+prosperity. Moreover, a nonkinetic blockade is appealing to the PRC,
+as it is the lowest level of coercive action that could remain below
+the threshold of open hostilities and still achieve its national
+objectives...
+
+A successful blockade disrupting maritime trade would shutter Taiwan’s
+economy. Rationing of scarce energy and food reserves, amplified by a
+lack of viable resupply plans, would generate fear and uncertainty
+among the Taiwanese population — in sustaining their lives, getting
+their next meal, and maintaining their personal economic security. The
+PRC’s actions would grind day- to-day life on the island to a
+halt. Democracy is more sensitive to economic disruptions than other
+forms of government, and a successful blockade could result in panic"
+
+[[-]](https://www.atlanticcouncil.org/content-series/atlantic-council-strategy-paper-series/a-maritime-blockade-of-taiwan-by-the-peoples-republic-of-china-a-strategy-to-defeat-fear-and-coercion/)
+
+---
+
+Paper by Marek Jestrab claims a blockade of Taiwan is more likely than
+an Chinese invasion of Taiwan. That sounds right.
+
+---
+
+TDB: "If there was ever a state that Nikki Haley could win, New
+Hampshire would have been it (and no, avoiding a landslide loss
+doesn’t count). Assuming her candidacy continues.. it won’t get any
+easier from here... It’s over"
+
+---
+
+A win is still a win. Plus it was Haley who had to win this one to
+matter in the race. NH electorate on paper should have favored her
+more. Democrat leaning less conservative state right? If she won NH
+she could have spun that "see I can win among Dem leaning elect, and
+I'm conservative enough, so vote for me". The plan did not work.
+
+Politico: "Trump wins New Hampshire Republican primary — but not by
+much"
+
+---
+
+Arab News: "Trump defeats Haley in New Hampshire to move closer to
+White House nomination"
 
 ---
 
@@ -185,3 +167,5 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
+
+

@@ -154,7 +154,7 @@ There are some great ways of solving $Ax=b$.
 
 ---
 
-[Link](https://drive.google.com/uc?export=view&id=1bIapwdVOippH2AddmuB68sGk3W0PK13C)
+[Link](https://www.dropbox.com/scl/fi/w8m8joqhzkoh169n4xcsh/knight_rider_garthe1.gif?rlkey=n4znd8hp924zwoqoqquy887ug&raw=1)
 
 ---
 

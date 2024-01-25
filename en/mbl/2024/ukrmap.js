@@ -1,7 +1,7 @@
 
 function plot(before,after) {
     
-    url = `/thirdwave/en/mbl/${before}`;
+    url = `/en/mbl/${before}`;
     var xmlHttp = new XMLHttpRequest();
     xmlHttp.open( "GET", url = url, false ); 
     xmlHttp.send( null );
