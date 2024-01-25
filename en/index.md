@@ -79,7 +79,7 @@ rip-off other peoples' work"
 
 ---
 
-From an "Opium Wars payback / 'correction' POV blockade also makes
+From an Opium Wars payback / 'correction' POV blockade also makes
 sense - CH gets a redo through a Third Opium War, in the first two
 they failed to defend homeland, but they will defend China this time,
 a China including of course Taiwan. They extend the borders to contain
