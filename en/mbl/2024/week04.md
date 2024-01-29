@@ -1,5 +1,230 @@
 # Week 4
 
+NPR: "ICJ says it's 'plausible' Israel committed genocide in Gaza"
+
+---
+
+AP News: "ICJ genocide case: World court demands Israel limit deaths"
+
+---
+
+Reuters: "ICJ.. ordered Israel to refrain from any acts that could
+fall under the Genocide Convention and to ensure its troops commit no
+genocidal acts in Gaza"
+
+---
+
+European Commission: "We take note of today's order of the
+International Court of Justice on South Africa's request for the
+indication of provisional measures. The EU reaffirms its continuing
+support to the International Court of Justice, the principal judicial
+organ of the United Nations. Orders of the International Court of
+Justice are binding on the Parties and they must comply with them. The
+EU expects their full, immediate and effective implementation"
+
+---
+
+Cyril Ramaphosa on the ICJ order
+
+[[-]](https://youtu.be/E6DLhCdt7eQ?t=273)
+
+---
+
+H2 Insight: "Thyssenkrupp Steel launches tender for up to 151,000
+tonnes of annual clean hydrogen supply in Germany.. Steelmaker is
+seeking ten-year contracts for green or blue H2 to reduce emissions at
+country's largest steel mill"
+
+---
+
+Reuters: "H2 Green Steel has raised 4.75 billion euros ($5.17 billion)
+in new funding for its planned flagship plant in the northern Swedish
+town of Boden, which will be the world's first large-scale green steel
+project.. The company, founded in 2020, has signed debt financing of
+4.2 billion euros, added equity of close to 300 million euros from
+investors and been awarded a 250 million euro grant from the EU
+Innovation Fund, it said in a statement on Monday"
+
+---
+
+The New European: "[Tory] dissent has broken out once again,
+unsurprisingly with Europe and Brexit as its heart. This time, the
+squabble is over suggestions that Sunak has 'offered to sacrifice some
+of Britain’s Brexit freedoms in a bid to re-establish devolved
+government in Northern Ireland', as the Daily Telegraph reported on
+Wednesday. The theory is that by promising no extra trade barriers in
+the Irish Sea, the prime minister will be able to persuade the
+Democratic Unionist Party (DUP) to end its two-year boycott of
+Stormont, the Northern Irish parliament... Putting up no new trade
+barriers would effectively mean Britain tying itself to EU standards
+governing products sold in the bloc. This is good news for British
+exporters"
+
+---
+
+404media: "Inside a Global Phone Spy Tool Monitoring Billions [by an
+Israeli company called Patternz].. Hundreds of thousands of ordinary
+apps, including popular ones such as 9gag, Kik, and a series of caller
+ID apps, are part of a global surveillance capability that starts with
+ads inside each app, and ends with the apps’ users being swept up into
+a powerful mass monitoring tool advertised to national security
+agencies that can track the physical location, hobbies, and family
+members of people to build billions of profiles, according to a 404
+Media investigation"
+
+---
+
+Clean Technica: "Syzygy is headquartered in Texas, which has become
+the epicenter of renewable energy activity.. 'Syzygy has pioneered a
+new technology that harnesses the energy from ultra-high efficiency
+artificial lighting to e-crack ammonia, removing the need for
+combustion,' the company explains, crediting Rice University in
+Houston for developing the underlying system.
+
+The heart of the technology is the Syzygy’s trademarked 'Rigel'
+photoreactor and proprietary photocatalyst, which the company credits
+for extracting hydrogen from ammonia with maximum efficiency... Syzygy
+has reached the production level of 5 tons of hydrogen per day at its
+testing center in Houston. 'In 2025 we’ll be ready for 10-ton
+installations, and then for 100-ton projects in late 2026,' says.. CEO
+Trevor Best"
+
+---
+
+The Guardian: "Australians earning less than $150,000 are set to
+benefit from changes to the stage-three tax cuts package from July,
+after federal cabinet approved plans to change the tax code. This
+includes those earning less than 45,000, who were set to miss out
+under the stage-three tax cuts legislated under the previous Coalition
+government... Those earning between 50,000 and 130,000 will see the
+biggest benefit from the reported changes, according to modelling"
+
+---
+
+See the problem is on the surface state, not the "deep state". Muckers
+are all visible, at upper ranks. There's that undersecretary too, the
+Chevron bitch, what's her name.. Nuland.  As in Niu York of Ukraine I
+guess.. There you go. On the outer edges, albeit in influential
+positions, heavily tied into private interests, screwing things up for
+everyone. They are your enemy. Visible, out there for everyone to see.
+
+---
+
+Some at State claim Blink is a flaming Zionist. Involvement w/ private
+industrial Likud complex is a sign too.. not a good one.
+
+The Lever: "Blinken Stranded After Davos By Boeing, His Old
+Client.. The Secretary of State previously advised the airline
+manufacturer; on his return from the World Economic Forum, he ran into
+one of its troubled 737 planes"
+
+---
+
+LBC: "David Cameron calls for ceasefire between Israel and Hamas and
+pushes Benjamin Netanyahu for two-state solution"
+
+---
+
+Politico: "Finland to Israel: ‘Enough is enough’ in Gaza"
+
+---
+
+Clean Technica: "More Bad News For Fossil Fuels: Green Hydrogen Is
+Making Green Steel Happen.. Steelmaking was once thought to be
+difficult if not impossible to decarbonize, with a key step in the
+process fully dependent on coal or natural gas. Well, that was
+then. The world’s first and biggest full scale green steel plant is
+taking shape in Sweden, with an assist from green hydrogen. That
+leaves about 1,000 steel plants around the world yet to decarbonize,
+but at least it’s a start"
+
+---
+
+Also recommeding *Sixty Minutes* (2024), *Reacher* S2.
+
+---
+
+They filmed the movie in a single, unbroken shot, hence the
+name. There are some theatrical aspects to that but the camera angle
+still matters (in theatre you don't control that), it looked like the
+production meant to show scenes in a specific way, so it had to hit
+those points in a continuous shot, that is tough to prepare for.
+
+---
+
+*One More Shot*, sequel to *One Shot* - interesting concept.
+
+---
+
+Corporate wing of the CA Democrats are so scared of any type of Wealth
+Tax talk they don't know know where to hide whenever the issue comes
+up. This is from the "left" of the US politics. Massive budget holes,
+massive wealth accumulation, it is clear where the fix is, yet Dems
+argue among themselves how much social services they can cut and
+whether they can, pretty-please, maybe give the lower income folk a
+tax cut once in a while.
+
+---
+
+Without water you can't build a "vibrant" city, dumbass
+
+The Urbanist: "Now billionaire and former Walmart executive Mark Lore
+has dreamt up plans for building another utopian city in the desert,
+Telosa..  Some of the greatest expenses in Telosa will be related to
+the city’s environmental challenges. Building on cheap land in the
+desert comes with disadvantages, most notably lack of water – which
+incidentally is already a major challenge for U.S. cities like Los
+Angeles, Miami, Phoenix, and Atlanta. Critics have noted that the
+climate crisis will only worsen water shortages"
+
+---
+
+Stick around
+
+---
+
+Governator Ahnuld of course did not fix that problem, he inherited it,
+then kicked the can down the road.. Fixing that hole would mean
+taxing people like himself.
+
+---
+
+$68 BILLION budget gap? See how wealth tax comes up when the issue is
+big budget gaps. It is the only way.
+
+The Sacramento Bee: "California Democrat pushes wealth tax as $68
+billion deficit looms... A California Democrat is renewing his efforts
+to tax wealthy residents’ net worth as a potential solution to closing
+the state’s 68 billion spending gap... Assembly Bill 259 would
+institute a 1% tax on the net worth of residents with more than 50
+million dollars in assets, with a 1.5% bracket for those with more
+than 1 billion"
+
+---
+
+"@josephcox@infosec.exchange
+
+New: Google News is boosting AI-generated garbage articles that
+rip-off other peoples' work"
+
+---
+
+From an Opium Wars payback / 'correction' POV blockade also makes
+sense - CH gets a redo through a third war, in the first two they
+failed to defend homeland, but they will defend China this time, a
+China including of course Taiwan. They extend the borders to contain
+the island and wait for the foreigners to arrive. Fucka me, fucka you.
+
+---
+
+NYT: "Widening Mideast Crisis : Blast That Killed About 20 Soldiers
+Linked to Israeli Effort to Create Gaza Buffer Zone.. The soldiers had
+been planting explosives as part of a plan to demolish Palestinian
+neighborhoods close to the border when Gazan militants fired on them,
+according to Israeli officials"
+
+---
+
 "@bert_hubert@fosstodon.org
 
 Software is now (rightfully) considered so dangerous that we tell
