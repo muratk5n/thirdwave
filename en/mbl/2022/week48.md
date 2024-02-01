@@ -689,7 +689,7 @@ The psyop has a rich white guy who was culturally Protestan (as most Americans a
 to be seen as first Irish-Catholic President, read: a minority who was
 "representing", "taken from us much too early". Dems are made to
 weep after this symbol of diversity, follow its flashy image at the
-same time ensuring its centrist, rich guy policies are followed. [This photo](twimg/FimCFrjWIAMztMt.jpg)
+same time ensuring its centrist, rich guy policies are followed. [This photo](billclintonjfk1.jpg)
 has the worst and second worst US presidents of modern times in a
 single frame, and that is by design. 
 

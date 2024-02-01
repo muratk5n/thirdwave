@@ -501,7 +501,7 @@ part of the plan.
 
 ---
 
-[Link](../2022/twimg/FimCFrjWIAMztMt.jpg)
+[Link](../2022/billclintonjfk1.jpg)
 
 ---
 
