@@ -165,12 +165,6 @@ Social media giants have a new pitch:
 
 ---
 
-Wah wah wah waaaaahh
-
-[[-]](market1.jpg)
-
----
-
 Arab News: "Malcolm X’s daughter to sue CIA and FBI for wrongful death"
 
 ---

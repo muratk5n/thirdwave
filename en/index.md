@@ -1,99 +1,114 @@
 
-Hydrogen Central: "Another German district opts for Solaris hydrogen
-buses"
+Railway Tech: "The Italian railway operator, Ferrovie della Calabria
+(FdC), has recently finalised an agreement for the procurement of
+three new narrow-gauge hydrogen-powered trains. The deployment of
+these trains is expected to begin in 2026"
 
-<img width='340' src='https://files.mastodon.social/cache/preview_cards/images/086/599/088/original/5a92a118f15d188f.png'/> 
-
----
-
-Andersen: "[After 80s] The probability that elected Democrats would
-tend to increase my taxes wasn’t a reason I voted for them, but my
-indifference to the financial hit.. felt virtuous, low-end noblesse
-oblige. However, even after the right got its way on the political
-economy, many people like me weren’t viscerally, actively skeptical of
-business or Wall Street either... Affluent college-educated people,
-Democrats as well as Republicans, began using the phrase 'socially
-liberal but fiscally conservative' to describe their politics, which
-meant low taxes in return for tolerance of.. *whatever*, as long it
-didn’t cost affluent people anything. It was a libertarianism lite
-that kept everything nice and clubbable"
+<img width='340' src='https://www.railadvent.co.uk/wp-content/uploads/2024/01/hmu_fdc-and-stadler_front-1.jpg'/> 
 
 ---
 
-Govs debating taxes that only apply to working people remind me
-of the [Streetlight Effect](https://axispraxis.wordpress.com/2016/03/24/the-streetlight-effect-a-metaphor-for-knowledge-and-ignorance/),
-the old Sufi parable where the mystic was looking for his keys under
-the streetlight because "that's where his eyes could see". Same for
-govs, they can't touch, look for the solutions that even remotely
-bother the wealthy, so they keep seeking solutions where they are
-allowed - around taxes that effect working people.
+The Lever: "It Just Got More Expensive To Fight Corporate Abuse.. From
+credit card terms of service to employment contracts, millions of
+people are trapped in agreements that only allow them to challenge
+corporate abuse through a private system of arbitration rather than in
+a court of law. Now, the biggest player in that private system has
+posted new fees that experts say could make it more difficult for
+consumers and workers to hold corporations accountable.
+
+On Jan. 15, the American Arbitration Association (AAA), the largest
+private provider of arbitration services in the world, quietly
+implemented new fees for individuals filing a mass arbitration case
+seeking monetary damages or contract relief from a company"
 
 ---
 
-New Statesman: "Britain’s great tax con.. The UK’s tax system
-entrenches inequality, stymies growth, and rewards a few at the
-expense of the many... Labour will soon face an inescapable choice. In
-order to spend money in government the party will need to raise
-it... shift the tax burden away from labour and on to capital, away
-from work and on to wealth. An agenda is coalescing in policy circles
-around a set of major tax changes that could spur growth, cut taxes
-for most people"
+They are not wrong for asking that, they call for being taxed along
+with all others who are also wealthy. If you are doing it on your own,
+it would be a drop in the bucket. A policy that applies across the
+board can cause change.
+
+"There are campaigners who lobby for being taxed, why aren't they
+simply giving it away?"
 
 ---
 
-The quality of the fans and followers define a man..
+"@infmin@neurodifferent.me
 
-[[-]](mbl/2022/billclintonjfk1.jpg)
-
----
-
-It's true.. 
-
-"@burgerdrome@aus.social
-
-I learned today that just a few hours before announcing the (still
-extant) embargo on Cuba, JFK sent out his head of press to make a
-last-minute bulk purchase of literally more than 1,000 Cuban cigars
-for his personal collection, because he couldn't stand to be without
-the things that he insisted nobody else should be allowed to
-have. Truly an absolute dogshit man"
+.. enclosed the commons, and locked the food up, introduced the
+concept of property and property law, enforced it with police, prisons
+and courts you invented with your own interests in mind, and made it
+so the only option for the vast majority of people is to be exploited
+by you at every stage of their lives for virtually all of their basic
+living requirements. So actually, yes, yes you do owe [people] a
+fucking living"
 
 ---
 
-Increasing innovation is not enough to provide a target for all the
-wealth sloshing around in the system. There is just too much money
-held by too few, and many will chose to park it in assets rather than
-risk it on innovation. Large asset holders need to lose some of their
-money. This is win-lose situation, somebody needs to lose, and it can't
-be the regular people.
+In an "all money is debt to FED" world it would seem hyperinflation is
+unlikely... Because all money is debt, it has to be paid back,
+eventually all debt is due. When paid back money disappears, it is
+taken out of the circulation = less inflationary pressure (extra money
+held by regular people increasing circulation causes inf). I believe
+hyperinflation, as it is seen in Argentina, Zimbabwe, and similar
+places is almost always an outside-the-system print-without-debt
+phenomena. Somebody is using the printing press, through the backdoor.
 
 ---
 
-BTW the $5 trillion he mentions there now became 45 trillion
+KUMITE
 
 ---
 
-"I own"
-
-[[-]](https://www.dropbox.com/scl/fi/xovkv0voopfrf6ern8nf3/wallstreet-gekko-1.gif?rlkey=85n8vy5tuuy0cimzstbpwgktv&raw=1)
+[Link](https://www.dropbox.com/scl/fi/j7udakma24b407in8u4fw/blood_sport_senses.gif?rlkey=krt1oa78ok3fyoqnkjfpq545l&raw=1)
 
 ---
 
-♬ Lasciatemi cantare ♪♬ Buongiorno Italia con i tuoi artisti ♪
-Con troppa America sui manifesti ♪♬ 
+Even oppo takes out one sense, other senses take over. Study this
 
 ---
 
-Nikkei Asia: "Japan to spur clean hydrogen production with $20bn in
-subsidies"
+You have to fight with all senses.
 
 ---
 
-RH had the perfect bad guy, a dude who owned the town.
+Household income adjusted for inflation compared to 80s. It is
+essentially stagnant, in the meantime the wealth of the top 1% grew by
+a factor of 7. That is growth by 700%. Median household income grew by
+a meager %9.
+
+[[-]](2021/01/stats.html#household)
 
 ---
 
-*Road House* trailer looks good. Tough to replace Swayze but one can try
+"@mattwilcox@mstdn.social
+
+'[T]racking on the web, it's just how it is. If we get rid of it so
+many companies will die off.'
+
+There were companies before tracking tech. There was advertising
+before tracking tech.
+
+Tracking tech is just how they can pay the least, to get the
+most. It's not a right. It's not a given. It's not required.
+
+How did it work before? You made good products and the stuff that was
+most popular rose to the top.
+
+Ban tracking tech. Hamstring predatory and scammy products that
+survive on targeting"
+
+---
+
+CNN: "Half of renters in the United States have found themselves
+paying more than they can afford, following years of surging rents..
+median rent is.. $309 higher than the same time in 2019, before the
+pandemic. That’s a 22% increase"
+
+---
+
+Green Car Congress: "DOE awarding $10.5M to 3 projects to advance
+hydrogen combustion engine innovation"
 
 ---
 
@@ -141,5 +156,3 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
-
-

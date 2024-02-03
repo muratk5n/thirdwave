@@ -393,12 +393,6 @@ calling into reconsideration of monarchy’s lasting influences"
 
 ---
 
-Wah wah wah waaah
-
-<img width="340" src="twimg/Fcm4eJyWAAEUOqm.png"/>
-
----
-
 Now that ppl got the message rate increases are here to stay, the
 market tanked. But whatz gon happen to the poor sucka who bought in
 thinking you always "buy the dip"? He dead.

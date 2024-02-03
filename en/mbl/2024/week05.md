@@ -1,5 +1,220 @@
 # Week 5
 
+"Australian clean-tech developer Hazer reached a milestone by
+initiating its commercial demonstration plant and producing hydrogen
+and graphite using its groundbreaking methane pyrolysis technology.
+
+This marks the world's first commercial-level demonstration of the
+process. The plant is scheduled to scale up production in the first
+half of 2024.
+
+Hazer aims to expand its global project portfolio in key markets like
+North America, Europe, and Asia, meeting the increasing demand for
+clean hydrogen solutions and contributing to global decarbonisation
+efforts"
+
+---
+
+Renewables Now: "Australia's Edify Energy Pty Ltd has obtained AUD
+48.2 million (USD 31.8m/EUR 29.4m) in grant funding from the federal
+government for the first phase of its up to 1-GW Townsville green
+hydrogen hub project in Queensland"
+
+---
+
+The pro-rich anti-government ideology is internally consistent.  With
+widespread inequality, with lots of assets held by the wealthy, what
+would be the one institution they'd fear the most?
+
+The government.
+
+Even with all its powers reduced, it is still there, it can wake up
+one day, dust itself off and take out the big stick... That is what
+"some" are scared of. See how they vehemently push an anti-goverment
+message through all their channels.
+
+---
+
+LA Times: “‘I would absolutely not fly a Max airplane,’ said Ed
+Pierson, a former Boeing senior manager. ‘I’ve worked in the factory
+where they were built, and I saw the pressure employees were under to
+rush the planes out the door. I tried to get them to shut down before
+the first crash.’ 
+
+‘I would tell my family to avoid the Max. I would tell everyone,
+really,’ said Joe Jacobsen, a former engineer at Boeing and the
+Federal Aviation Administration.”
+
+via @aral@mastodon.ar.al
+
+---
+
+Silphium an ancient afrodiziac had heart shaped seeds, thats where
+todays popular shape comes from. Real heart isnt shaped like the
+emoji, there had to be a connection to something else, it's this
+thing. Greeks Romans cld never farm silphium, the ones found in
+wilderness went extinct.
+
+---
+
+"@Quinnypig@awscommunity.social
+
+Okay, I've been dancing around it for years -- it's time to call it:
+There's no economic story around using the cloud for steady-state HPC
+workloads. It's not even close to cost competitive"
+
+---
+
+Al-Monitor: "Gulf thaw with Syria gains steam: UAE sends envoy, Saudi
+diplomats plan visit"
+
+---
+
+Tony Blink 737, and Raytheon Austin.. No wonder US is mired in the
+troubles that it is.. are these officials working for the people or
+someone else?
+
+---
+
+This is the Chevron wicked witch.. Did she bring [cookies](https://www.commondreams.org/views/2014/04/25/beneath-ukraine-crisis-shale-gas)
+with her again? Because the last time she did everything went to shit.
+
+"Acting Deputy Secretary of State Victoria Nuland traveled to Kyiv,
+Ukraine on January 31"
+
+---
+
+TASS: "Russia offers Mideast countries to jointly produce weapons"
+
+---
+
+F24: "Russia doing better than expected despite sanctions: IMF"
+
+---
+
+NYT: "Donors Rally Behind UNRWA After Israeli Allegations"
+
+---
+
+BBC: "UK considering recognising Palestine state.. "we - with allies -
+will look at the issue of recognising a Palestinian state, including
+at the United Nations," [David Cameron] told the Conservative Middle
+East Council. 'That could be one of the things that helps to make this
+process irreversible'"
+
+---
+
+Arab News: "Some 70 US cities have passed resolutions on the
+Israel-Gaza war with most calling for a ceasefire, a Reuters analysis
+of city data shows, placing more pressure on President Joe Biden ahead
+of November’s general election to help end the fighting"
+
+---
+
+Arab News: "Israel has ignored the ruling by the UN’s top court last
+week by killing hundreds more civilians in a matter of days in Gaza,
+South Africa’s foreign minister said Wednesday"
+
+---
+
+Hydrogen Central: "Another German district opts for Solaris hydrogen
+buses"
+
+<img width='340' src='https://files.mastodon.social/cache/preview_cards/images/086/599/088/original/5a92a118f15d188f.png'/> 
+
+---
+
+Andersen: "[After 80s] The probability that elected Democrats would
+tend to increase my taxes wasn’t a reason I voted for them, but my
+indifference to the financial hit.. felt virtuous, low-end noblesse
+oblige. However, even after the right got its way on the political
+economy, many people like me weren’t viscerally, actively skeptical of
+business or Wall Street either... Affluent college-educated people,
+Democrats as well as Republicans, began using the phrase 'socially
+liberal but fiscally conservative' to describe their politics, which
+meant low taxes in return for tolerance of.. *whatever*, as long it
+didn’t cost affluent people anything. It was a libertarianism lite
+that kept everything nice and clubbable"
+
+---
+
+Govs debating taxes that only apply to working people remind me
+of the [Streetlight Effect](https://axispraxis.wordpress.com/2016/03/24/the-streetlight-effect-a-metaphor-for-knowledge-and-ignorance/),
+the old Sufi parable where the mystic was looking for his keys under
+the streetlight because "that's where his eyes could see". Same for
+govs, they can't touch, look for the solutions that even remotely
+bother the wealthy, so they keep seeking solutions where they are
+allowed - around taxes that effect working people.
+
+---
+
+New Statesman: "Britain’s great tax con.. The UK’s tax system
+entrenches inequality, stymies growth, and rewards a few at the
+expense of the many... Labour will soon face an inescapable choice. In
+order to spend money in government the party will need to raise
+it... shift the tax burden away from labour and on to capital, away
+from work and on to wealth. An agenda is coalescing in policy circles
+around a set of major tax changes that could spur growth, cut taxes
+for most people"
+
+---
+
+The quality of the fans and followers define a man..
+
+[[-]](mbl/2022/billclintonjfk1.jpg)
+
+---
+
+It's true.. 
+
+"@burgerdrome@aus.social
+
+I learned today that just a few hours before announcing the (still
+extant) embargo on Cuba, JFK sent out his head of press to make a
+last-minute bulk purchase of literally more than 1,000 Cuban cigars
+for his personal collection, because he couldn't stand to be without
+the things that he insisted nobody else should be allowed to
+have. Truly an absolute dogshit man"
+
+---
+
+Increasing innovation is not enough to provide a target for all the
+wealth sloshing around in the system. There is just too much money
+held by too few, and many will chose to park it in assets rather than
+risk it on innovation. Large asset holders need to lose some of their
+money. This is win-lose situation, somebody needs to lose, and it can't
+be the regular people.
+
+---
+
+BTW the $5 trillion he mentions there now became 45 trillion
+
+---
+
+"I own"
+
+[[-]](https://www.dropbox.com/scl/fi/xovkv0voopfrf6ern8nf3/wallstreet-gekko-1.gif?rlkey=85n8vy5tuuy0cimzstbpwgktv&raw=1)
+
+---
+
+♬ Lasciatemi cantare ♪♬ Buongiorno Italia con i tuoi artisti ♪
+Con troppa America sui manifesti ♪♬ 
+
+---
+
+Nikkei Asia: "Japan to spur clean hydrogen production with $20bn in
+subsidies"
+
+---
+
+Previous RH had the perfect bad guy, a dude who owned the town.
+
+---
+
+*Road House* remake trailer looks good. Tough to replace Swayze but one can try
+
+---
+
 Canary Media: "Thanks to generous subsidies, the world is about to
 start making a lot more low- and zero-carbon hydrogen. These charts
 show how"

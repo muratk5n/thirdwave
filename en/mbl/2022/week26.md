@@ -78,12 +78,6 @@ Aw shit
 
 ---
 
-Wah wah wah waaah
-
-<img width="340" src="twimg/FWgo4FsUIAUmcem.png"/>
-
----
-
 The Apollo missions were not dumb tries; had clear goals (Lyndon
 Johnson knew his shit).
 

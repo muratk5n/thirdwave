@@ -656,6 +656,31 @@ DATE
 
 ![](top10-2.jpg)
 
+<a name='household'></a>
+
+## Household Income
+
+```python
+df = u.get_fred(1980, ['MEHOINUSA646N','TDSP','CPIAUCSL'])
+df = df.interpolate()
+df = df.dropna()
+
+cpi = float(df.tail(1).CPIAUCSL)
+df['cpi2'] = cpi / df.CPIAUCSL 
+df['household income'] = df.MEHOINUSA646N * df.cpi2 
+df['household income'].plot()
+t1 = float(df.head(1)['household income'])
+t2 = float(df.tail(1)['household income'])
+print ("Perc change since the 80s = %0.2f" % ((t2-t1) / t2 * 100))
+plt.savefig('household.jpg')
+```
+
+```text
+Perc change since the 80s = 9.06
+```
+
+![](household.jpg)
+
 ## Real Estate
 
 <a name='medhouse'></a>
