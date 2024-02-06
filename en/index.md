@@ -1,114 +1,140 @@
 
-Railway Tech: "The Italian railway operator, Ferrovie della Calabria
-(FdC), has recently finalised an agreement for the procurement of
-three new narrow-gauge hydrogen-powered trains. The deployment of
-these trains is expected to begin in 2026"
-
-<img width='340' src='https://www.railadvent.co.uk/wp-content/uploads/2024/01/hmu_fdc-and-stadler_front-1.jpg'/> 
-
----
-
-The Lever: "It Just Got More Expensive To Fight Corporate Abuse.. From
-credit card terms of service to employment contracts, millions of
-people are trapped in agreements that only allow them to challenge
-corporate abuse through a private system of arbitration rather than in
-a court of law. Now, the biggest player in that private system has
-posted new fees that experts say could make it more difficult for
-consumers and workers to hold corporations accountable.
-
-On Jan. 15, the American Arbitration Association (AAA), the largest
-private provider of arbitration services in the world, quietly
-implemented new fees for individuals filing a mass arbitration case
-seeking monetary damages or contract relief from a company"
+Inside the Games: "Beijing 2022 hydrogen buses prove popular in
+Zhangjiakou due to ability to start in cold weather..  Nearly a year
+after the 2022 Winter Olympic Games in Beijing, the hydrogen-powered
+buses have become the preferred mode of public transport in
+Zhangjiakou"
 
 ---
 
-They are not wrong for asking that, they call for being taxed along
-with all others who are also wealthy. If you are doing it on your own,
-it would be a drop in the bucket. A policy that applies across the
-board can cause change.
-
-"There are campaigners who lobby for being taxed, why aren't they
-simply giving it away?"
+Global Times: "[2022/02] Beijing 2022 sees largest use of
+hydrogen-powered vehicles in Olympic history"
 
 ---
 
-"@infmin@neurodifferent.me
-
-.. enclosed the commons, and locked the food up, introduced the
-concept of property and property law, enforced it with police, prisons
-and courts you invented with your own interests in mind, and made it
-so the only option for the vast majority of people is to be exploited
-by you at every stage of their lives for virtually all of their basic
-living requirements. So actually, yes, yes you do owe [people] a
-fucking living"
+Quick reminder the 2022 Beijing Winter Olympics transport was
+*entirely* hydrogen-driven, CH used the occasion to showcase the tech,
+and it worked brilliantly. A lot of corporate battery-brain dipshit
+media missed this aspect of the games.
 
 ---
 
-In an "all money is debt to FED" world it would seem hyperinflation is
-unlikely... Because all money is debt, it has to be paid back,
-eventually all debt is due. When paid back money disappears, it is
-taken out of the circulation = less inflationary pressure (extra money
-held by regular people increasing circulation causes inf). I believe
-hyperinflation, as it is seen in Argentina, Zimbabwe, and similar
-places is almost always an outside-the-system print-without-debt
-phenomena. Somebody is using the printing press, through the backdoor.
+China Daily: "China develops four-seat hydrogen combustion aircraft"
+
+<img width='340' src='https://files.mastodon.social/cache/preview_cards/images/087/010/424/original/c0cb18dd9ff03786.jpeg'/> 
 
 ---
 
-KUMITE
+Techdirt: "'The Messenger' launched to great fanfare... The brainchild
+of former The Hill owner Jimmy Finkelstein, the outlet launched with
+$50 million in backing and a lot of chatter about how it was going to
+revolutionize U.S. journalism...
+
+The news outlet didn’t even last a year...
+
+The Messenger’s coverage generally suffered from what NYU journalism
+professor Jay Rosen calls the “view from nowhere,” or a sort of timid,
+pseudo-objectivity that fails to prioritize the sole function of
+journalism: getting to the actual truth.
+
+Many Messenger reporters who thought they were being hired to do real
+reporting had complained for much of the last year about how they were
+being forced to suddenly chase ad impressions by crafting low-quality
+aggregated engagement bait more akin to infotainment than journalism.
+
+Such journalism is a direct reflection of millionaire or billionaire
+media owners who don’t want to offend sources, advertisers, or event
+sponsors with bold, truth-telling journalism that has actual teeth. So
+what you get instead is a sort of journalism simulacrum that fails to
+critique wealth, corruption, or power with any real consistency, since
+the wealthy and powerful owners very obviously don’t want that"
 
 ---
 
-[Link](https://www.dropbox.com/scl/fi/j7udakma24b407in8u4fw/blood_sport_senses.gif?rlkey=krt1oa78ok3fyoqnkjfpq545l&raw=1)
+"Real estate is a huge force in New York’s economy.. Many of these
+real estate interests hide their ownership information; in Manhattan,
+37 percent of the 41,000 total properties are owned by secretive
+limited liability companies.. These property owners are contributing
+to a housing crisis. The state ranks in the top five of highest
+average home prices and has a severe housing shortage, pushing up
+rents and rates of homelessness. This scarcity in housing is only
+exacerbated by the fact that huge financial institutions are buying up
+single-family homes and apartment buildings across the country"
 
 ---
 
-Even oppo takes out one sense, other senses take over. Study this
+*The Lever* reports the NY state's LLC Transparency Act, "which was
+designed to crack down on anonymous shell companies operating in New
+York, required limited liability companies to report their owners’
+identifying information to an online database" was watered down. The
+changes mean "information about the shadowy corporate landlords that
+control a wide swath of Manhattan real estate remains inaccessible to
+the public".
 
 ---
 
-You have to fight with all senses.
+Reading the memoir of Wendell Potter, a former PR exec at Cigna
+Healthcare, for-profit health insurance corp, learned about him from a
+Status Coup article detailing how Dems are captured by for-profit
+interests. The book is an eye opener, highly recommended. WP was one
+of the nation's top PR execs whose sole job was killing public
+healthcare initiatives like Medicare-for-All.
 
 ---
 
-Household income adjusted for inflation compared to 80s. It is
-essentially stagnant, in the meantime the wealth of the top 1% grew by
-a factor of 7. That is growth by 700%. Median household income grew by
-a meager %9.
+TB2 is also too expensive.. that's why afaik focus recently shifted to
+FPV drones for both sides. TB2 is rarely used these days by UA.
 
-[[-]](2021/01/stats.html#household)
-
----
-
-"@mattwilcox@mstdn.social
-
-'[T]racking on the web, it's just how it is. If we get rid of it so
-many companies will die off.'
-
-There were companies before tracking tech. There was advertising
-before tracking tech.
-
-Tracking tech is just how they can pay the least, to get the
-most. It's not a right. It's not a given. It's not required.
-
-How did it work before? You made good products and the stuff that was
-most popular rose to the top.
-
-Ban tracking tech. Hamstring predatory and scammy products that
-survive on targeting"
+Breaking Defense: "\#UA \#RU Cheap flying robots, like the Chinese DJI
+Mavic, with even high-end models costing just a couple thousand
+dollars, can pinpoint targets for artillery, alert troops to lurking
+ambushes, drop improvised bombs like a flying IED.. Bayraktar TB2 are
+just too big and fly too high, making them easy prey for radar-guided
+anti-aircraft weapons that cannot spot the smaller, lower-flying
+quadcopters"
 
 ---
 
-CNN: "Half of renters in the United States have found themselves
-paying more than they can afford, following years of surging rents..
-median rent is.. $309 higher than the same time in 2019, before the
-pandemic. That’s a 22% increase"
+"@wilbr@glitch.social
+
+What does it say about the health of our society that people are
+c*nsoring their own words and using random unique invented synonyms on
+social media (that we're supposed to pick up on as readers) not
+because of government reprisal but because The Algorithm will
+associate you with negativity and straight up disappear you from the
+social space otherwise?"
 
 ---
 
-Green Car Congress: "DOE awarding $10.5M to 3 projects to advance
-hydrogen combustion engine innovation"
+Monbiot, *The Guardian*: "Peaceful environmental campaigners are being
+held on bail for up to two years, subjected to electronic tags, GPS
+tracking and curfews, and deprived of their social lives and political
+rights. This is one of many examples of process as punishment. Even
+before you have been tried, let alone found guilty, your life is
+shredded..  In a world built by plutocrats, the powerful are protected
+while vengeful laws silence their critics"
+
+---
+
+All that Houthi retaliation, for nothing.. strategically that
+is... Benjamins keep flowing.
+
+Reuters: "Six US-backed Kurdish fighters killed in drone attack on US
+base in Syria"
+
+---
+
+Forbes: "Five hundred tanks. More than 600 fighting vehicles. Hundreds
+of howitzers. Forty thousand troops. According to Ukraine’s eastern
+command, Russia has assembled a huge field army in eastern Ukraine
+opposite the free Ukrainian city of Kupyansk"
+
+---
+
+The Guardian: "McDonald’s records first sales miss in nearly four
+years amid boycotts.. Company is among several western brands that
+have seen protests and boycott campaigns over perceived pro-Israeli
+stance"
 
 ---
 
@@ -156,3 +182,4 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
+

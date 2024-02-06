@@ -7,25 +7,14 @@ pd.set_option('display.max_columns', None)
 ```
 
 ```python
-df = u.get_fred(1980, ['MEHOINUSA646N','TDSP','CPIAUCSL'])
-df = df.interpolate()
-df = df.dropna()
-
-cpi = float(df.tail(1).CPIAUCSL)
-df['cpi2'] = cpi / df.CPIAUCSL 
-df['household income'] = df.MEHOINUSA646N * df.cpi2 
-df['household income'].plot()
-t1 = float(df.head(1)['household income'])
-t2 = float(df.tail(1)['household income'])
-print ("Perc change since the 80s = %0.2f" % ((t2-t1) / t2 * 100))
+cols = ['SIPOVGINIAUS','SIPOVGINIARG','SIPOVGINIGBR','SIPOVGINIUSA',\
+        'SIPOVGINITUR','SIPOVGINIDEU','SIPOVGINIRUS','SIPOVGINIFIN']
+df = u.get_fred(1980,cols)
+df = df.interpolate(method='bfill')
+df.columns = ['AU','ARG','GBR','USA','TR','DE','RU','FIN']
+df.plot(title='GINI Index')
 plt.savefig('/tmp/out.jpg')
 ```
-
-```text
-Perc change since the 80s = 9.06
-```
-
-
 
 
 
@@ -47,10 +36,10 @@ u.biden_approval()['net'].tail(4)
 ```text
 Out[1]: 
 end_date
-2024-01-23   -16.746460
-2024-01-24   -16.951214
-2024-01-25   -16.869463
-2024-01-26   -16.422299
+2024-01-31   -14.840239
+2024-02-01   -15.629743
+2024-02-02   -16.002866
+2024-02-03   -15.993473
 Name: net, dtype: float64
 ```
 
