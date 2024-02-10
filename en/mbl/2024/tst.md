@@ -10,8 +10,8 @@ pd.set_option('display.max_columns', None)
 cols = ['SIPOVGINIAUS','SIPOVGINIARG','SIPOVGINIGBR','SIPOVGINIUSA',\
         'SIPOVGINITUR','SIPOVGINIDEU','SIPOVGINIRUS','SIPOVGINIFIN']
 df = u.get_fred(1980,cols)
+df.columns = [x.replace("SIPOVGINI","") for x in cols]
 df = df.interpolate(method='bfill')
-df.columns = ['AU','ARG','GBR','USA','TR','DE','RU','FIN']
 df.plot(title='GINI Index')
 plt.savefig('/tmp/out.jpg')
 ```

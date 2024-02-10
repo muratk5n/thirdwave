@@ -1,5 +1,449 @@
 # Week 6
 
+
+Pro-Publica: "The rich, as we’ve reported, often deduct millions of
+dollars from their taxes related to buying and operating their jets
+and yachts. [Harlan] Crow followed that formula through a company that
+purported to charter his superyacht..  'Based on what information is
+available, this has the look of a textbook billionaire tax scam,' said
+Senate Finance Committee chair Ron Wyden"
+
+---
+
+Autoblog: "Tesla's California registrations fall for first time since the pandemic"
+
+---
+
+Rickards, Peter Schiff are goldcucks, and constant inflation
+scaremongers, esp. Schiff. "Government is printing too much money"
+which they assume will cause inflation, debasing the currency - hence
+the alarmism and message of buying gold.
+
+While Rickards knows some stuff on taxes (his earlier job) neither he
+nor Schiff understand money and economy. Inflation is caused by
+excessive money circulating among the general population, not among
+the rich.  "Government printing money" can only cause inflation if it
+goes to all citizens (as it briefly did after covid, then went away
+because all flows end up with the corps). Goverment normally borrows
+FED printed money, due to the skewed nature of the economy it ends up
+with big corporations and the wealthy, it does **not** circulate. You
+are not in competition with the Citibank CEO to buy potatoes bidding
+their prices up. He is eating caviar, drinking expensive wine, buying
+stocks and homes bidding those prices up, not your potatoes (they also
+buy government debt, so they collect interest on it, gov gives them
+*more* money).
+
+Rickards, Schiff are mostly wrong in their analysis, that's probably
+why they get more than their fair share of audience.. This message is
+useful. It changes the conversation to something else other than the
+top 1%, constantly puts the onus on government making them look bad,
+and centers around an "investment advice" that ultimately has no use
+for the regular people, and harmless for private interests who are
+already buying gold (and everything else).
+
+---
+
+A right-wing guy applauds Milei for "calling out 'the elites' at
+Davos". He is on the same side as they are, you fool! They are all on
+the economic right. 
+
+---
+
+US wasn't collapsing yet then, but thanks to "the left", the Democrats
+and Clinton the infrastructure for it was being laid. If anyone
+outside US took that stuff to heart, you are screwed now.
+
+---
+
+Milei is like 50 right, the jackass in his formative years would have
+grown up watching America in the 90s..
+
+---
+
+Bill F-ing Clinton.. the worst president since Kennedy, no doubt about it.
+
+---
+
+The Argentinan GINI score, inequality, had its peak at 2000, I thought
+they probably followed that Clinton shit in the 90s, that bizarro
+neoliberal, ultra pro-business, tailored for the well-to-do Democrat
+airheads. Apparently that is exactly what they did. See
+[article](https://twn.my/title/twr143b.htm). "The Argentinian crisis
+is the product of a slavish adherence by successive administrations
+since the 1990s to the IMF-dictated policies of privatisation,
+deregulation and globalisation. The following article, which was
+written in the spring of 2002, provides the historical background to
+the adoption of this ‘free-market’ model of economic development"
+
+---
+
+Tucker / Putin interview was good.. TC asked pointed questions.  The
+reason for the Ukranian conflict, Putin iterated most who aren't
+brainwashed by US corporate media already know - NATO expansion,
+Maidan, not implementing the Minsk agreement, throwing out the peace
+agreement in Stanpoli.
+
+---
+
+"Ford has been investing in its hydrogen vehicles for years. Now its
+time has come.. Hydrogen vehicles are on the rise. The industry is
+growing by an astounding 40% annually. Compared to electric vehicles
+(EVs), hydrogen – powered vehicles are cleaner, more power-efficient,
+charge faster, and have longer operating ranges"
+
+---
+
+H2 Mobile: "Nawa, a French startup resulting from CEA and MIT research
+on vertically aligned carbon nanotubes (VACNT), decided to approach
+the [electrolyzer] issue differently. Rather than working only on the
+catalyst, she chose an innovative approach to manufacturing at the
+nanoscale an electrode combining 3D nanocarbon and nanoplatinum. Using
+this method, the company has designed electrodes that are 20% more
+efficient than traditional electrodes"
+
+<img width='340' src='https://www-h2--mobile-fr.cdn.ampproject.org/i/s/www.h2-mobile.fr/image/img/post-h2/fuel-stack-cells-nawa_020224_1200_675.jpg'/> 
+
+---
+
+When that millionaire told Gen Y "not to eat avacado toast if you want
+to buy a house" notice the implication underneath that
+statement.. Forget the eightfold increases in house prices, if you
+have no home it's *your fault*. A variation of this psyop is
+commonplace in media, even the self-help, hustler, grinder talk, that
+entice people "to fullfill their potential" can be deployed to push
+it... If you don't have a home, grind. Still broke? Grind some
+more. Broker still?  Well it was your damn fault, you could not grind
+well enough, sucka.
+
+---
+
+"@baldur@toot.cafe
+
+Your reminder that I've written a book on the business risks of
+generative AI. 'The Intelligence Illusion'
+
+[https://illusion.baldurbjarnason.com](https://illusion.baldurbjarnason.com)
+
+Stuff I cover (not exhaustive):
+
+- AGI is not happening any time soon.
+
+- AGI and anthropomorphism will cripple your ability to think clearly about AI
+
+- The AI industry has a long history of snake oil and fraud
+
+- These models copy more than you think
+
+- Hallucinations are still a thing and aren't going away.
+
+- AI 'reasoning' is quite broken
+
+- Security is a shit show"
+
+---
+
+Kurt Andersen: "In 1998 Brooksley Born, the federal official who was
+running the agency overseeing financial derivatives, got worried about
+the accelerating flurry of trading in new sorts of derivatives, in
+particular one called credit default swaps—which the rest of us would
+learn about a decade later, during the crash of 2008. But she was only
+one member of the official presidential task force that oversees the
+financial markets. By law, the other three are the Federal Reserve
+chair, a job to which Clinton had just reappointed Alan Greenspan; the
+treasury secretary, who was Bob Rubin, previously cochairman of
+Goldman Sachs; and the SEC chair, who’d also spent his pregovernment
+career working on Wall Street...
+
+Restrain Wall Street? Bah. Regulation? This was the great new age of
+deregulation, freer and freer markets, big business and finance
+unbound! But Born persisted, publicly announcing an inquiry into
+derivatives and their risks—prompting her fellow task force members to
+put out a joint statement that they had 'grave concerns' about her
+rogue regulatory inquiry. Rubin’s deputy Lawrence Summers, soon to
+replace him as secretary of the treasury, warned Congress that by
+suggesting official skepticism of this latest financial innovation,
+Born had cast 'a shadow of regulatory uncertainty over an otherwise
+thriving market.'
+			
+She lost and resigned. [Summers, Rubin] won and joined with the
+Republicans running Congress to write two big new laws, a kind of
+final grand spasm of the deregulation mania that allowed the financial
+industry to get even wilder and crazier. The first of those
+Modernization Acts eliminated the rule, instituted after the 1929
+Crash, that prohibited regular banks from investing citizens’ money in
+the riskier ways that Wall Street firms did. For years, the financial
+industry had lobbied for that change, and the former Fed chair Paul
+Volcker had fought it, but in 1999 only seven of forty-five Democratic
+senators and a single Republican voted against it. The other
+Modernization Act explicitly outlawed proper regulation of derivatives
+such as credit default swaps. The House in 2000 passed that one 377 to
+4, and the Senate didn’t even bother to take a roll call vote.
+			
+In other words, Clinton’s Wall Street–bred economic brain trust helped
+encode into the system the increased recklessness that Wall Street
+demanded and that would keep feeding inequality and insecurity and
+soon lead to the financial meltdown and Wall Street bailout and Great
+Recession. Congratulations, modern bipartisan Democrats!"
+			
+---
+
+Inequality plots.. GBR is doing better than US, but the winner is
+Finland. Most Nordic countries are doing fine in that regard.. TR,
+Argentina, US are about the same, not surprising, these societies have
+weak governments and are oligarch-driven. See how badly Argentina was
+doing in the 2000s.
+
+```python
+cols = ['SIPOVGINIAUS','SIPOVGINIARG','SIPOVGINIGBR','SIPOVGINIUSA',\
+        'SIPOVGINITUR','SIPOVGINIDEU','SIPOVGINIRUS','SIPOVGINIFIN']
+df = u.get_fred(1980,cols)
+df.columns = [x.replace("SIPOVGINI","") for x in cols]
+df = df.interpolate(method='bfill')
+df.plot(title='GINI Index')
+```
+
+[[-]](https://cdn.fosstodon.org/media_attachments/files/111/894/228/564/305/968/original/a2c5b4a25582765e.jpg)
+
+---
+
+"Germany agrees hydrogen-ready power plant subsidy plans.. Berlin has
+agreed plans to subsidise up to 10GW of hydrogen-ready gas power
+plants and 'dismantle' construction and operation barriers for
+electrolysers. Chancellor Olaf Scholz, Economics Minister Robert
+Habeck and Finance Minister Christian Lindner agreed on Germany’s
+power plant strategy to develop 'highly flexible and climate friendly'
+power plants"
+
+---
+
+Let's go over this again: *Your government* pays interest to *your
+rich*, then runs out of money and cuts *your services*. An easier
+solution would be for your government *to tax your rich* plugging the
+hole and *giving you* better services, right?
+
+---
+
+Where do these 1/3, 1/4 ratios come from? Moneyed interests likely
+allow the propagation of such misinfo that way CH looks evil (fear
+them, let's spend more on defense), attention is deflected away from
+US's own wealthy, the top 10% who has a cool 100 trillion, owns much
+of that government debt.
+
+---
+
+China has one third of US debt? That is incorrect. China holds a mere
+trillion $ of US debt, that is 1/34'th of all US debt.
+
+---
+
+H2 Insight: "Green hydrogen in shipping.. India outlines funding to
+retrofit existing vessels and install ammonia fuelling at ports.. The
+government aims to have a port supplying green fuels in 2025 and two
+vessels retrofitted to run on H2 or derivatives in 2027"
+
+---
+
+"The creator economy can't rely on Patreon."
+
+[[-]](https://joanwestenberg.com/blog/the-creator-economy-cant-rely-on-patreon)
+
+---
+
+For many corporations tax is optional. A "good accountant" can arrange
+it so that you pay zero tax. Rickards wrote about it in his book, see
+below.
+
+[[-]](../../0119/2017/10/road-to-ruin-rickards.html#doubleDip)
+
+---
+
+The system is Byzantine likely because that makes tax avoidence easier.
+
+---
+
+"@jon@vivaldi.net
+
+Question : Do you know how Norwegians fill out their tax returns?
+
+Answer : They don´t.
+
+This is an oversimplification, but years ago Norwegians started to get
+pre-filled tax returns in the mail. Later they stopped getting them,
+but instead had to do an OK online. Now even that is not needed. No
+comment means it is is OK. You can rectify and modify details online,
+if needed.
+
+The reality is that the government already had most of the data needed
+for most individuals. Your salary is reported by the company you work
+for. Your bank details, including anything you have in your accounts,
+any loans, stocks, bonds, etc., is reported as well. Your kids are
+known as well. There might be details to add, but most is known. Why
+waste people´s time filling out details that are already known and
+risk people making mistakes?
+
+When will the US get there?"
+
+---
+
+via @dnanian@mas.to
+
+\#VisionPro
+
+[[-]](https://media.mas.to/masto-public/media_attachments/files/111/873/650/362/438/659/small/c364c3ca269a05ec.png)
+
+---
+
+House prices rose EIGHTFOLD since the 80s, but sure, it's about an
+entire generation wasting their money on avacado toast.
+
+---
+
+🤣 I remember that shit.. it was funny.
+
+The Guardian: "[2017] Millionaire tells millennials: if you want a
+house, stop buying avocado toast"
+
+---
+
+Inside the Games: "Beijing 2022 hydrogen buses prove popular in
+Zhangjiakou due to ability to start in cold weather..  Nearly a year
+after the 2022 Winter Olympic Games in Beijing, the hydrogen-powered
+buses have become the preferred mode of public transport in
+Zhangjiakou"
+
+---
+
+Global Times: "[2022/02] Beijing 2022 sees largest use of
+hydrogen-powered vehicles in Olympic history"
+
+---
+
+Quick reminder the 2022 Beijing Winter Olympics transport was
+*entirely* hydrogen-driven, CH used the occasion to showcase the tech,
+and it worked brilliantly. A lot of corporate battery-brain dipshit
+media missed this aspect of the games.
+
+---
+
+China Daily: "China develops four-seat hydrogen combustion aircraft"
+
+<img width='340' src='https://files.mastodon.social/cache/preview_cards/images/087/010/424/original/c0cb18dd9ff03786.jpeg'/> 
+
+---
+
+Techdirt: "'The Messenger' launched to great fanfare... The brainchild
+of former The Hill owner Jimmy Finkelstein, the outlet launched with
+$50 million in backing and a lot of chatter about how it was going to
+revolutionize U.S. journalism...
+
+The news outlet didn’t even last a year...
+
+The Messenger’s coverage generally suffered from what NYU journalism
+professor Jay Rosen calls the “view from nowhere,” or a sort of timid,
+pseudo-objectivity that fails to prioritize the sole function of
+journalism: getting to the actual truth.
+
+Many Messenger reporters who thought they were being hired to do real
+reporting had complained for much of the last year about how they were
+being forced to suddenly chase ad impressions by crafting low-quality
+aggregated engagement bait more akin to infotainment than journalism.
+
+Such journalism is a direct reflection of millionaire or billionaire
+media owners who don’t want to offend sources, advertisers, or event
+sponsors with bold, truth-telling journalism that has actual teeth. So
+what you get instead is a sort of journalism simulacrum that fails to
+critique wealth, corruption, or power with any real consistency, since
+the wealthy and powerful owners very obviously don’t want that"
+
+---
+
+"Real estate is a huge force in New York’s economy.. Many of these
+real estate interests hide their ownership information; in Manhattan,
+37 percent of the 41,000 total properties are owned by secretive
+limited liability companies.. These property owners are contributing
+to a housing crisis. The state ranks in the top five of highest
+average home prices and has a severe housing shortage, pushing up
+rents and rates of homelessness. This scarcity in housing is only
+exacerbated by the fact that huge financial institutions are buying up
+single-family homes and apartment buildings across the country"
+
+---
+
+*The Lever* reports the NY state's LLC Transparency Act, "which was
+designed to crack down on anonymous shell companies operating in New
+York, required limited liability companies to report their owners’
+identifying information to an online database" was watered down. The
+changes mean "information about the shadowy corporate landlords that
+control a wide swath of Manhattan real estate remains inaccessible to
+the public".
+
+---
+
+Reading the memoir of Wendell Potter, a former PR exec at Cigna
+Healthcare, for-profit health insurance corp, learned about him from a
+Status Coup article detailing how Dems are captured by for-profit
+interests. The book is an eye opener, highly recommended. WP was one
+of the nation's top PR execs whose sole job was killing public
+healthcare initiatives like Medicare-for-All.
+
+---
+
+TB2 is also too expensive.. Focus recently shifted to FPV drones, for
+both sides. TB2 is rarely used these days by UA.
+
+Breaking Defense: "\#UA \#RU Cheap flying robots, like the Chinese DJI
+Mavic, with even high-end models costing just a couple thousand
+dollars, can pinpoint targets for artillery, alert troops to lurking
+ambushes, drop improvised bombs like a flying IED.. Bayraktar TB2 are
+just too big and fly too high, making them easy prey for radar-guided
+anti-aircraft weapons that cannot spot the smaller, lower-flying
+quadcopters"
+
+---
+
+"@wilbr@glitch.social
+
+What does it say about the health of our society that people are
+c*nsoring their own words and using random unique invented synonyms on
+social media (that we're supposed to pick up on as readers) not
+because of government reprisal but because The Algorithm will
+associate you with negativity and straight up disappear you from the
+social space otherwise?"
+
+---
+
+Monbiot, *The Guardian*: "Peaceful environmental campaigners are being
+held on bail for up to two years, subjected to electronic tags, GPS
+tracking and curfews, and deprived of their social lives and political
+rights. This is one of many examples of process as punishment. Even
+before you have been tried, let alone found guilty, your life is
+shredded..  In a world built by plutocrats, the powerful are protected
+while vengeful laws silence their critics"
+
+---
+
+All that Houthi retaliation, for nothing.. strategically that
+is... Benjamins keep flowing.
+
+Reuters: "Six US-backed Kurdish fighters killed in drone attack on US
+base in Syria"
+
+---
+
+Forbes: "Five hundred tanks. More than 600 fighting vehicles. Hundreds
+of howitzers. Forty thousand troops. According to Ukraine’s eastern
+command, Russia has assembled a huge field army in eastern Ukraine
+opposite the free Ukrainian city of Kupyansk"
+
+---
+
+The Guardian: "McDonald’s records first sales miss in nearly four
+years amid boycotts.. Company is among several western brands that
+have seen protests and boycott campaigns over perceived pro-Israeli
+stance"
+
+---
+
 Motley Fool: "[2020] Through the years, famed investor and billionaire
 Warren Buffett has criticized the tax system and made it clear that he
 feels that the wealthy should be paying more. In a famous interview,

@@ -274,7 +274,7 @@ for most people"
 
 The quality of the fans and followers define a man..
 
-[[-]](mbl/2022/billclintonjfk1.jpg)
+[[-]](../2022/billclintonjfk1.jpg)
 
 ---
 
@@ -403,7 +403,7 @@ article written by Lambert, the guest.
 
 Frontline changes 01/22 - 01/30. Holy Tabaivka..
 
-[[-]](mbl/2024/ukrmap4.html)
+[[-]](ukrmap4.html)
 
 ---
 

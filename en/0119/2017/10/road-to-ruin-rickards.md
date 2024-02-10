@@ -1,6 +1,6 @@
 # The Road to Ruin
 
-From the J. Rickards book
+J. Rickards, 2016
 
 Tax Avoidance
 
@@ -30,7 +30,7 @@ system including the G20 nations. The database would be housed on
 high-capacity computers using sophisticated algorithms and predictive
 analytics. Like the shark, companies could run, but no longer hide...
 
-<a name="doubleDip"/>
+<a name='doubleDip'></a>
 
 The Double-Dip
 
