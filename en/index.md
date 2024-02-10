@@ -24,7 +24,11 @@ apps. They’ll come at you all the fucking time. Worship us.'"
 
 ✅ placing pre-pub features in Wired, Bloomberg, FT"
 
-smells a bit of desperation from a16z
+smells a bit of desperation from a16z..
+
+perhaps he should've released the book on the blockchain...
+
+pumping and dumping his own book is a little poetic"
 
 ---
 
