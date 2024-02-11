@@ -1,93 +1,87 @@
 
-"@urlyman@mastodon.social
+"@TheWarOnCars@mastodon.social
 
-Some time BCE:
+Anne Hidalgo: 'Cars Will Not Return To the Eiffel Tower' after the
+Olympic Games.
 
-'And the Lord god said I have 10 notifications for you. Write them on
-these here tablets. They won’t change. Worship me.'
-
-2024:
-
-'And the tech gods said we have overlapping notifications for you in
-email, SMS, WhatsApp, GitHub, Slack and all your social media
-apps. They’ll come at you all the fucking time. Worship us.'"
+'The Trocadéro will be greened and the Pont d'Iéna pedestrianized, up
+to the Champ de Mars, which will be reforested. The whole thing will
+form a large park in the heart of Paris'"
 
 ---
 
-"@molly0xfff@hachyderm.io
+Motorious: "BMW Shifts Focus to Hydrogen Power.. In a significant
+shift within the automotive industry, BMW is reportedly pivoting away
+from electric vehicles (EVs), turning its attention to hydrogen fuel
+cell technology as a groundbreaking alternative for sustainable
+transportation. Amid the burgeoning popularity of EVs,
+hydrogen-powered vehicles, which have largely been in the background,
+are now emerging as a significant contender in the eco-friendly
+vehicle market"
 
-✅ gaming the NYT bestseller list
-
-✅ buying full page print ads in WaPo
-
-✅ elbowing onto Hard Fork, Pivot, other tech pods
-
-✅ placing pre-pub features in Wired, Bloomberg, FT"
-
-smells a bit of desperation from a16z..
-
-perhaps he should've released the book on the blockchain...
-
-pumping and dumping his own book is a little poetic"
+<img width='340' src='https://www.motorious.com/content/images/size/w600/2024/02/bmw-i-series-ix5-hydrogen-sp-desktop.jpg'/> 
 
 ---
 
-Vice: "How Tech Firms Made a Crypto-Boosting Book an NYT Best Seller
-by Gaming the System.. Motherboard found that firms linked to a16z and
-general partner Chris Dixon bought numerous copies of his new book
-promoting cryptocurrencies, which became an NYT Best Seller"
+Hampton Hawes - Tune Axle Grease \#music
+
+[[-]](https://youtu.be/MK4-4s2teJI)
 
 ---
 
-F24: "The ‘generals’ elections’ that turned against Pakistan’s
-military.. Pakistan’s 2024 general elections were dubbed the 'most
-rigged' in the country’s history, with the popular Imran Khan barred
-from running and the military seen as backing former prime minister
-Nawaz Sharif. That was before results showed Khan-backed independent
-candidates leading the race. Sharif on Friday claimed victory, setting
-the stage for a turbulent period as an irate electorate reacted to the
-military’s perceived meddling in politics – again"
+"Dressed for the parade not for the battle"
 
 ---
 
-Frontline 01/30 - 02/10. Massive RU gains east of Yampolivka,
-Bilohorivka.  Some around Chasiv Yar, Niu-York too. A big chunk to the
-north of Avdiivka is gone, the pincer is about to close.
+Axios: "The outlook for hydrogen-powered vehicles is
+improving.. thanks to unprecedented federal support.. General Motors
+and Honda have started producing fuel cells at a factory near Detroit,
+to power a new plug-in hybrid fuel cell version of Honda's CR-V
+crossover utility coming this spring.
 
-[[-]](mbl/2024/ukrmap5.html)
+- They'll also go into a line of hydrogen-powered cement mixers, dump
+  trucks, garbage trucks and more that GM is developing with Autocar
+  Industries, a heavy truck manufacturer.
 
----
-
-Live by profits, die by profits \#UA \#Ammunition \#Wilkerson
-
-[[-]](https://youtu.be/RsVpqFs0zO4?t=2318)
-
----
-
-TASS: "Zelensky changes Ukraine’s chief of General Staff"
+- And GM has a new joint venture with Komatsu to develop fuel
+  cell-powered mining trucks"
 
 ---
 
-The Palestine Chronicle: "We No Longer Ship Weapons to Israel –
-Spain.. In an interview with Al-Jazeera, José Manuel Albares declared
-that, since October 7, Madrid suspended all arms export licenses to
-Israel, noting that the events of that day 'made us realize the
-importance of a just and permanent solution to the question of the
-Palestinian people.'.. The Spanish minister has highlighted how Israel
-has bombed United Nations facilities, schools and hospitals in the
-Gaza Strip, and urged all parties to comply with the orders of the
-International Court of Justice (ICJ)"
+Even Republicans in US weren't shy of using non-free-market solutions
+before this neoliberalism, see Nixon in 1971. Wage/Price control
+doesn't have to be permanent, do it for a short time, break the cycle
+in terms of psychology, then go back to business as usual.
 
 ---
 
-The Times of Israel: "Saudi Arabia's foreign ministry has issued a
-firey statement rejecting what it claims was.. John Kirby's suggestion
-that Riyadh is prepared to normalize relations before there is a
-ceasefire in Gaza and without progress toward Palestinian statehood"
+How to kill hyperinflation? For a short-period of time, institute
+price controls on the supply-side, wage freezes on the demand side. Do
+this for a year, and watch inflation fall like a rock. Inflation has
+to do with excessive money circulation among the regular people, money
+chasing regular everyday items, a freeze on both supply and demand on
+those items will fix the issue.
 
 ---
 
-The Cradle: "Nearly 500,000 fled Israel since 7 October"
+Half-assed intervention, raising wages to match inflation will make
+inflation worse
+
+---
+
+McManus, Current Affairs: "It really is the case that home ownership
+is becoming unattainable for everyone without a trust fund, our planet
+is facing a serious environmental crisis, and economic elites do in
+fact wield tremendously outsized influence relative to ordinary
+citizens. Uber-rich bros like real estate CEO and multi-millionaire
+Tim Gurner may try to blame this discontent on too much avocado toast
+or 'arrogant' workers, but many of us right now have adopted an 'it’s
+not me, it’s you' attitude towards what we call neoliberal
+capitalism—a state of arrangements in which profit is prioritized
+above human needs, personal grit and developing 'a brand called you'
+are deemed more important than social welfare policies, and the state
+and the private sector work hand in hand to enrich corporations and
+billionaires at the expense of the rest of us"
 
 ---
 
