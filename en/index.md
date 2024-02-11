@@ -1,14 +1,4 @@
 
-"@TheWarOnCars@mastodon.social
-
-Anne Hidalgo: 'Cars Will Not Return To the Eiffel Tower' after the
-Olympic Games.
-
-'The Trocadéro will be greened and the Pont d'Iéna pedestrianized, up
-to the Champ de Mars, which will be reforested. The whole thing will
-form a large park in the heart of Paris'"
-
----
 
 Motorious: "BMW Shifts Focus to Hydrogen Power.. In a significant
 shift within the automotive industry, BMW is reportedly pivoting away
@@ -49,9 +39,9 @@ crossover utility coming this spring.
 ---
 
 Even Republicans in US weren't shy of using non-free-market solutions
-before this neoliberalism, see Nixon in 1971. Wage/Price control
-doesn't have to be permanent, do it for a short time, break the cycle
-in terms of psychology, then go back to business as usual.
+before neoliberalism, see Nixon in 1971. Wage/Price control doesn't
+have to be permanent, do it for a short time, break the cycle in terms
+of psychology.
 
 ---
 
