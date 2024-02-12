@@ -85,7 +85,7 @@ overpriced chain restaurants just to experience some walkability"
 ---
 
 Julian Briggs: "Las Vegas is so funny because it's just putting
-walkable urban spaces from around the worl indoors since it's illegal
+walkable urban spaces from around the world indoors since it's illegal
 to build actual places like this in the US"
 
 [[-]](https://cdn.fosstodon.org/media_attachments/files/111/916/825/508/494/409/original/8e5288d0611d29c8.png)
@@ -156,6 +156,3 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
-
-
-
