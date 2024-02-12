@@ -1,77 +1,102 @@
 
+Here is latest Fukuyama BTW, talking about natural monopolies, regulation..
 
-Motorious: "BMW Shifts Focus to Hydrogen Power.. In a significant
-shift within the automotive industry, BMW is reportedly pivoting away
-from electric vehicles (EVs), turning its attention to hydrogen fuel
-cell technology as a groundbreaking alternative for sustainable
-transportation. Amid the burgeoning popularity of EVs,
-hydrogen-powered vehicles, which have largely been in the background,
-are now emerging as a significant contender in the eco-friendly
-vehicle market"
-
-<img width='340' src='https://www.motorious.com/content/images/size/w600/2024/02/bmw-i-series-ix5-hydrogen-sp-desktop.jpg'/> 
+[[-]](https://youtu.be/FGo8UvSTIF8?t=1673)
 
 ---
 
-Hampton Hawes - Tune Axle Grease \#music
+McManus: "One of the sad truths about American socialist writers
+post-1980 is they’ve struggled to reach a wide audience (despite the
+fact that there are plenty of societal conditions to be unhappy about,
+which could be used to spark a reader’s interest in alternatives to
+capitalism). This is in part due to the sheer ideological clout and
+vast resources poured into defending neoliberal capitalism at the
+climax of the Cold War and after it. This effort was so pervasive that
+even many leftists became closet Fukuyamaists, convinced we had
+reached 'the end of history.' (As the idea went, after the fall of
+Communism, there was simply no better kind of society that could be
+envisioned other than Western liberal democracy.)
 
-[[-]](https://youtu.be/MK4-4s2teJI)
-
----
-
-"Dressed for the parade not for the battle"
-
----
-
-Axios: "The outlook for hydrogen-powered vehicles is
-improving.. thanks to unprecedented federal support.. General Motors
-and Honda have started producing fuel cells at a factory near Detroit,
-to power a new plug-in hybrid fuel cell version of Honda's CR-V
-crossover utility coming this spring.
-
-- They'll also go into a line of hydrogen-powered cement mixers, dump
-  trucks, garbage trucks and more that GM is developing with Autocar
-  Industries, a heavy truck manufacturer.
-
-- And GM has a new joint venture with Komatsu to develop fuel
-  cell-powered mining trucks"
+But.. this failure was also partially a result of the socialist left
+retreating into intellectual, artistic, and academic spaces in the
+aftermath of failed ’60s radicalism. One consequence of this is that
+socialists tended to adopt the tone, style, and expectations aligned
+with those communities: writing for a select audience that valued
+dense intellectualism, self-conscious novelty, and insular
+referentiality over more democratic and popular styles"
 
 ---
 
-Even Republicans in US weren't shy of using non-free-market solutions
-before neoliberalism, see Nixon in 1971. Wage/Price control doesn't
-have to be permanent, do it for a short time, break the cycle in terms
-of psychology.
+"@LilMissBarbie
+
+Bitch the fuck?
+
+It's ILLEGAL to build sidewalks or pedestrian spaces in murica?
+
+You guys killed the natives for that?"
 
 ---
 
-How to kill hyperinflation? For a short-period of time, institute
-price controls on the supply-side, wage freezes on the demand side. Do
-this for a year, and watch inflation fall like a rock. Inflation has
-to do with excessive money circulation among the regular people, money
-chasing regular everyday items, a freeze on both supply and demand on
-those items will fix the issue.
+"@NoMansSkyWasAlright
+
+I had a similar thought when I was at the Opryland resort for a
+conference. Like, you go outside and it's parking lot as far as the
+eye can see (that's a bit of an exaggeration. But was able to do my
+morning 3 mile runs without ever leaving the parking lot) but the
+inside is this super nice, walkable, "outside inside" place. It would
+be kind of cool if we could build places like that in the US"
 
 ---
 
-Half-assed intervention, raising wages to match inflation will make
-inflation worse
+"@PulmonaryEmphysema
+
+Yup. Same thing in Canada. Zoning laws actively make this impossible
+to build. Funnily enough, building more strip malls with 5 acres of
+asphalt per store is totally A-ok"
 
 ---
 
-McManus, Current Affairs: "It really is the case that home ownership
-is becoming unattainable for everyone without a trust fund, our planet
-is facing a serious environmental crisis, and economic elites do in
-fact wield tremendously outsized influence relative to ordinary
-citizens. Uber-rich bros like real estate CEO and multi-millionaire
-Tim Gurner may try to blame this discontent on too much avocado toast
-or 'arrogant' workers, but many of us right now have adopted an 'it’s
-not me, it’s you' attitude towards what we call neoliberal
-capitalism—a state of arrangements in which profit is prioritized
-above human needs, personal grit and developing 'a brand called you'
-are deemed more important than social welfare policies, and the state
-and the private sector work hand in hand to enrich corporations and
-billionaires at the expense of the rest of us"
+"@definitely_not
+
+Yep, midrise mixed use developments with minimal parking are not legal
+to build anywhere in most cities in the US, and where they are
+allowed, are strictly limited"
+
+---
+
+"GUlysses@reddit
+
+Most true in Orlando and Vegas. Also San Antonio. The Riverwalk is the
+most popular tourist destination in Texas. Americans will eat at
+overpriced chain restaurants just to experience some walkability"
+
+---
+
+Julian Briggs: "Las Vegas is so funny because it's just putting
+walkable urban spaces from around the worl indoors since it's illegal
+to build actual places like this in the US"
+
+[[-]](https://cdn.fosstodon.org/media_attachments/files/111/916/825/508/494/409/original/8e5288d0611d29c8.png)
+
+---
+
+"@TheWarOnCars@mastodon.social
+
+Anne Hidalgo: 'Cars Will Not Return To the Eiffel Tower' after the
+Olympic Games.
+
+'The Trocadéro will be greened and the Pont d'Iéna pedestrianized, up
+to the Champ de Mars, which will be reforested. The whole thing will
+form a large park in the heart of Paris'"
+
+---
+
+CNBC: "Egypt threatens to suspend key peace treaty if Israel pushes
+into Rafah on its border, officials say"
+
+---
+
+<iframe width="340" src="https://www.youtube.com/embed/SvVHDhNDalY" title="Israeli police clash with angry anti-Netanyahu protesters | DW News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
