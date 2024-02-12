@@ -64,6 +64,18 @@ allowed, are strictly limited"
 
 ---
 
+"@twoiko
+
+Big business does tho"
+
+---
+
+"@ArticleEcstatic1448
+
+In America, nobody wins"
+
+---
+
 "GUlysses@reddit
 
 Most true in Orlando and Vegas. Also San Antonio. The Riverwalk is the
