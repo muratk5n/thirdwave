@@ -86,6 +86,21 @@ upheld an appeal by human rights organisations"
 
 ---
 
+Jezebel: "A good meme is like lightning in the bottle—timing and
+context (or, sometimes, lack of context) are everything, and the wrong
+person joining in on the fun can ruin it all. Case in point: Joe
+Biden’s official Twitter account posting the Dark Brandon meme..  the
+post came at precisely the same time that Israeli forces attacked the
+Rafah evacuation zone in Gaza (after Palestinians were told Rafaf
+would be a safe zone), massacring dozens of civilians in a single
+day. Meanwhile, that same night, the U.S. Senate voted to send
+billions more in military aid to Israel, all as the Biden
+administration continues to stand with Israel despite over 28,000
+Palestinians being killed in four months. And, somehow, Biden’s
+campaign thought Sunday was the right time for some online humor"
+
+---
+
 ## Reference
 
 [Nations and Nationalism, Culture, Narratives](0119/2013/02/nations-and-nationalism.html)
