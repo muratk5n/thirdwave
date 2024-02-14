@@ -1,114 +1,88 @@
 
-Here is latest Fukuyama BTW, talking about natural monopolies, regulation..
-
-[[-]](https://youtu.be/FGo8UvSTIF8?t=1673)
-
----
-
-McManus: "One of the sad truths about American socialist writers
-post-1980 is they’ve struggled to reach a wide audience (despite the
-fact that there are plenty of societal conditions to be unhappy about,
-which could be used to spark a reader’s interest in alternatives to
-capitalism). This is in part due to the sheer ideological clout and
-vast resources poured into defending neoliberal capitalism at the
-climax of the Cold War and after it. This effort was so pervasive that
-even many leftists became closet Fukuyamaists, convinced we had
-reached 'the end of history.' (As the idea went, after the fall of
-Communism, there was simply no better kind of society that could be
-envisioned other than Western liberal democracy.)
-
-But.. this failure was also partially a result of the socialist left
-retreating into intellectual, artistic, and academic spaces in the
-aftermath of failed ’60s radicalism. One consequence of this is that
-socialists tended to adopt the tone, style, and expectations aligned
-with those communities: writing for a select audience that valued
-dense intellectualism, self-conscious novelty, and insular
-referentiality over more democratic and popular styles"
+H2 Insight: "[2023/10] 'We will place the biggest hydrogen bus order
+in US history because battery-electric can't do the job'.. Santa Cruz
+Metro in California tested an electric bus, but it struggled with the
+hilly terrain, a senior official explains"
 
 ---
 
-"@LilMissBarbie
+David Deutsch: "AGI cannot possibly be defined purely
+behaviourally.. the relevant attributes of an AGI program do not
+consist only of the relationship between its inputs and
+outputs.. unlike any functionality that has ever been programmed to
+date this one can be achieved neither by a specification nor a test of
+the outputs. What is needed is nothing less than a breakthrough in
+philosophy, a new epistemological theory that explains how brains
+create explanatory knowledge, and hence defines in principle without
+ever running them as programs which algorithms possess that
+functionality and which do not.  Such a theory is beyond present day
+knowledge. What we do know about epistemology implies that any
+approach not directed towards that philosophical breakthrough must be
+futile"
 
-Bitch the fuck?
-
-It's ILLEGAL to build sidewalks or pedestrian spaces in murica?
-
-You guys killed the natives for that?"
-
----
-
-"@NoMansSkyWasAlright
-
-I had a similar thought when I was at the Opryland resort for a
-conference. Like, you go outside and it's parking lot as far as the
-eye can see (that's a bit of an exaggeration. But was able to do my
-morning 3 mile runs without ever leaving the parking lot) but the
-inside is this super nice, walkable, "outside inside" place. It would
-be kind of cool if we could build places like that in the US"
+[[-]](https://m.youtube.com/watch?v=VtkKJlVCfy0)
 
 ---
 
-"@PulmonaryEmphysema
-
-Yup. Same thing in Canada. Zoning laws actively make this impossible
-to build. Funnily enough, building more strip malls with 5 acres of
-asphalt per store is totally A-ok"
-
----
-
-"@definitely_not
-
-Yep, midrise mixed use developments with minimal parking are not legal
-to build anywhere in most cities in the US, and where they are
-allowed, are strictly limited"
+AP: "Prisoners in the US are part of a hidden workforce linked to
+hundreds of popular food brands..  A hidden path to America’s dinner
+tables begins here, at an unlikely source – a former Southern slave
+plantation that is now the country’s largest maximum-security prison"
 
 ---
 
-"@twoiko
-
-Big business does tho"
-
----
-
-"@ArticleEcstatic1448
-
-In America, nobody wins"
+Alfred Jazeera also has an irrational dislike for Assad, again Qatar
+funded the civil war against him and had their ass handed to them,
+along with their good friend "Turkey".
 
 ---
 
-"GUlysses@reddit
-
-Most true in Orlando and Vegas. Also San Antonio. The Riverwalk is the
-most popular tourist destination in Texas. Americans will eat at
-overpriced chain restaurants just to experience some walkability"
-
----
-
-Julian Briggs: "Las Vegas is so funny because it's just putting
-walkable urban spaces from around the world indoors since it's illegal
-to build actual places like this in the US"
-
-[[-]](https://cdn.fosstodon.org/media_attachments/files/111/916/825/508/494/409/original/8e5288d0611d29c8.png)
+In general AJ has good coverage of Palestine.. I really don't care who
+in charge there as long as it can lead to a sustainable peace.  PA is
+fine bcz 1) Netan doesn't want it 2) Hamas did create certain amount
+of chaos in area, a change could benefit the overall picture.
 
 ---
 
-"@TheWarOnCars@mastodon.social
-
-Anne Hidalgo: 'Cars Will Not Return To the Eiffel Tower' after the
-Olympic Games.
-
-'The Trocadéro will be greened and the Pont d'Iéna pedestrianized, up
-to the Champ de Mars, which will be reforested. The whole thing will
-form a large park in the heart of Paris'"
+[Link](https://www.dropbox.com/scl/fi/fhm1wk7h8mgbr0tsrflyw/watching_you_1.gif?rlkey=1d27cnmjbuupl4khvg0pjdqj4&raw=1)
 
 ---
 
-CNBC: "Egypt threatens to suspend key peace treaty if Israel pushes
-into Rafah on its border, officials say"
+AJ is funded by Qatar who had direct relationship with Hamas (so did
+Israel BTW). The channel might be covering for their paymaster so they
+don't lose their influence in Gaza.
 
 ---
 
-<iframe width="340" src="https://www.youtube.com/embed/SvVHDhNDalY" title="Israeli police clash with angry anti-Netanyahu protesters | DW News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Alfred Jazeera.. did that mfka just bash the PA for no good reason
+(see the rest of the article)?  Talking about 'crisis of legitimacy'..
+
+Al Jazeera: "What is the Palestinian Authority..? Set up in the
+mid-’90s as an interim body.."
+
+---
+
+Good to see Jon Stewart hosting again.. 
+
+---
+
+\#Borrell \#EU
+
+[[-]](https://www.youtube.com/embed/DMbbtvi0G9I)
+
+---
+
+TASS: "Yemen’s Houthi rebels have attacked the Star Iris commercial
+vessel which the attackers have identified as belonging to the United
+States, Yahya Saria, spokesman for the rebel movement Ansar Allah,
+said"
+
+---
+
+Al-Monitor: "Court orders Netherlands to stop F-35 parts delivery to
+Israel.. The Netherlands must stop delivering parts for F-35 fighter
+jets used by Israel in the Gaza Strip, after a Dutch court Monday
+upheld an appeal by human rights organisations"
 
 ---
 
@@ -156,3 +130,5 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
+
+

@@ -106,3 +106,26 @@ for National Security Affairs (JINSA) and Center for Security Policy
 close links among the two organizations, right-wing politicians, arms
 merchants, military men, Jewish billionaires, and Republican
 administrations.”
+
+<a name='decontext'></a>
+
+Decontextualization
+
+Huntington’s theory of 'the clash of civilizations' is essentially a
+subtle version of Richard Perle’s strategy of 'de-contextualization.'
+Perle, a leading neoconservative militarist (and a prominent advisor
+of the Likud Party, the hard-line Zionist party of Prime Minister
+Arial Sharon of Israel) coined the term 'de-contextualization' as a
+way to explain both the desperate acts of terrorism in general and the
+violent tactics of the Palestinian resistance to occupation in
+particular. He argued that in order to blunt the widespread global
+criticism of the Israeli treatment of Palestinians, their resistance
+to occupation must be decontextualized; that is, we must stop trying
+to understand the territorial, geopolitical, and historical reasons
+that some groups turn to terrorism. Instead, he suggested, the reasons
+for the violent reactions of such groups must be sought in the arenas
+of culture and/or religion—in the Islamic way of thinking. Like the
+'clash of civilizations' theory, decontextualization strategy has been
+part of a well-orchestrated effort to divert attention from the root
+causes of terrorism and attribute it to 'pathological problems of the
+Muslim mind'
