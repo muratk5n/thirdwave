@@ -1,5 +1,280 @@
 # Week 7
 
+H2 Fuel News: "China’s H2 strategies includes building over 1,200
+hydrogen fuel stations.. The country’s ambitious plan is to have those
+refueling locations in place before the end of 2025"
+
+<img width='340' src='https://files.mastodon.social/cache/preview_cards/images/088/075/773/original/3f99d386c84065d6.jpg'/> 
+
+---
+
+CNBC: "‘The holy grail’: Startup backed by a Nobel laureate vying for
+a breakthrough on hydrogen storage.. H2MOF, which was co-founded in
+2021, is working to develop a solution for hydrogen storage by
+deploying the latest advancements in the field of molecularly
+engineered materials"
+
+---
+
+Oman Observer: "US firm gets [DOE] grant to study Oman’s geologic
+hydrogen potential"
+
+---
+
+Deodato - Do It Again \#music
+
+[[-]](https://youtu.be/_Zd_p1GMMgs?t=14)
+
+---
+
+Yard: "Celebs with the Worst Private Jet Co2 Emissions.. Taylor
+Swift.. is the biggest celebrity CO2e polluter of this year so far"
+
+[[-]](https://weareyard.com/insights/worst-celebrity-private-jet-co2-emission-offenders)
+
+---
+
+After the Berlin Wall collapse why was Russia demonized not China?
+The potential customers due to a demonized Russia are far richer than
+ones with a demonized China, it was more profitable to do so for "the
+complex".. For China's case who are the would-be customers?
+Philippines, Malaysia, Vietnam, Australia..? AU has some money to
+spare, Japan can buy some stuff too but can also build its
+own. Compare that with DA GULF countries, and the whole of Europe, all
+in the areas near Russia... Now we hear the sound of ka-ching. Look
+how the muckers roped in Sweden, Finland. They are screwed IMHO.
+
+---
+
+The Korea Bizwire: "Seoul Boosts Green Mobility with $14 Million
+Investment in Hydrogen Vehicles and Infrastructure.. Starting from
+February 13, the city will begin accepting applications for hydrogen
+car purchase support. Buyers of hydrogen cars can avail themselves of
+a subsidy of 32.5 million won, along with tax incentives, effectively
+halving the cost of a hydrogen vehicle priced around 70 million won"
+
+---
+
+First Post: "Tech Honeymoon Over: Apple Vision Pro’s early adopters
+start returning their headsets, issues galore.  Comfort is a prominent
+issue among dissatisfied users, with reports of headaches and motion
+sickness attributed to wearing the device"
+
+---
+
+Empty restaurants, hotels could be a sign of a money laundering operation.
+
+---
+
+\#Ramaphosa \#Rafah
+
+[[-]](https://youtu.be/MOAhRYw7FUE)
+
+---
+
+Bari Atwan on George Golloway's show... He used to be on BBC
+*Dateline* with Gavin Esler, 2010s.. great debates.. Anytime someone
+remotely downplayed the importance of Palestinians' cause Bari would
+jump on him, deliver a fiery retort. Good TV, and informative.
+
+---
+
+An Ethiopian Jew coasts through the internal Rep primary, and had a
+shot of becoming an House member. Were she elected imagine one day
+there is legislation on Israel / Palestine, providing arms for the
+former and this person will surely vote yes, BOMB THE PHUCKERS. An
+Ethiopian Jew..  If I were a Palestinian that would bother me more
+than anything.. like you are done in by someone who should have
+neighborly relations with you but goes all the way to Merica to vote
+yes on dropping a bomb on your ass.
+
+---
+
+Al-Monitor: "World leaders urge Israel to avoid 'catastrophic' Rafah operation"
+
+---
+
+TASS: "EU making mistake by supporting armed conflict in Ukraine,
+Hungarian expert says.. Endre Simo believes that the leading countries
+of the European Union, as well as the EU leadership, are under the
+false illusion that they can defeat Russia"
+
+---
+
+"@adactio@mastodon.social
+
+When people say 'RSS is dead' what they really mean is 'we couldn’t
+figure out a way to monetise RSS.'"
+
+---
+
+LiveScience: "Massive hydrogen reservoir discovered beneath an
+Albanian mine could be an untapped source of clean energy"
+
+---
+
+WaPo: "Australian Prime Minister Anthony Albanese said Thursday he
+hoped for an amicable end to the prosecution of WikiLeaks founder
+Julian Assange after lawmakers ramped up pressure on the United States
+and Britain by passing a motion calling for the Australian citizen to
+be allowed to return to his home country"
+
+---
+
+Kucinich running for congress, great news. Politics is a numbers
+game.. the left needs to increase its numbers in all power centers to
+make a difference.
+
+---
+
+*The Men Who Stare at Goats*.. time-filler, forgettable comedy. Not
+Clooney's best.
+
+---
+
+*The Beekeper*, *American Star* 👍
+
+---
+
+*The Night Manager* with Hiddelston, Hugh Laurie. Excellent work. 
+
+---
+
+An Ethopian Jew? Israeli citizen? And surely a raging Zionist. She
+lost apparently but the winner is likely another one of those
+establishment Dem Zionist dickheads.
+
+The Times of Israel: "GOP picks Ethiopian-born Israeli-American to run
+for seat of expelled NY Rep. Santos.. Nassau County legislator and
+former IDF paratrooper Mazi Pilip to face off against Democratic
+former congressman Tom Suozzi in February 13 special election"
+
+---
+
+UnHerd: "To [Wagenknecht] identity politics is neither Left-wing nor
+liberal, and doesn’t serve those who face class-based or economic
+disadvantages. What’s more, she argues that Die Linke’s shift towards
+identity politics is responsible for the bad election results"
+
+---
+
+AP: "A high-profile German opposition politician.. formally founded a
+new party that combines left-wing economic policy with a restrictive
+approach to migration and other positions that some observers believe
+could help it take votes away from the far-right Alternative for
+Germany... [Sarah] Wagenknecht broke in October with the Left Party,
+an opposition party in which she was long one of the leading figures..
+She also.. opposes current sanctions against Russia"
+
+---
+
+The Guardian: "Australia, Canada and NZ warn Israel against
+‘catastrophic’ Rafah ground offensive"
+
+---
+
+H2 Insight: "[2023/10] 'We will place the biggest hydrogen bus order
+in US history because battery-electric can't do the job'.. Santa Cruz
+Metro in California tested an electric bus, but it struggled with the
+hilly terrain, a senior official explains"
+
+---
+
+David Deutsch: "AGI cannot possibly be defined purely
+behaviourally.. the relevant attributes of an AGI program do not
+consist only of the relationship between its inputs and
+outputs.. unlike any functionality that has ever been programmed to
+date this one can be achieved neither by a specification nor a test of
+the outputs. What is needed is nothing less than a breakthrough in
+philosophy, a new epistemological theory that explains how brains
+create explanatory knowledge, and hence defines in principle without
+ever running them as programs which algorithms possess that
+functionality and which do not.  Such a theory is beyond present day
+knowledge. What we do know about epistemology implies that any
+approach not directed towards that philosophical breakthrough must be
+futile"
+
+[[-]](https://m.youtube.com/watch?v=VtkKJlVCfy0)
+
+---
+
+AP: "Prisoners in the US are part of a hidden workforce linked to
+hundreds of popular food brands..  A hidden path to America’s dinner
+tables begins here, at an unlikely source – a former Southern slave
+plantation that is now the country’s largest maximum-security prison"
+
+---
+
+Alfred Jazeera also has an irrational dislike for Assad, again Qatar
+funded the civil war against him and had their ass handed to them,
+along with their good friend "Turkey".
+
+---
+
+In general AJ has good coverage of Palestine.. I really don't care who
+in charge there as long as it can lead to a sustainable peace.  PA is
+fine bcz 1) Netan doesn't want it 2) Hamas did create certain amount
+of chaos in area, a change could benefit the overall picture.
+
+---
+
+[Link](https://www.dropbox.com/scl/fi/fhm1wk7h8mgbr0tsrflyw/watching_you_1.gif?rlkey=1d27cnmjbuupl4khvg0pjdqj4&raw=1)
+
+---
+
+AJ is funded by Qatar who had direct relationship with Hamas (so did
+Israel BTW). The channel might be covering for their paymaster so they
+don't lose their influence in Gaza.
+
+---
+
+Alfred Jazeera.. did that mfka just bash the PA for no good reason
+(see the rest of the article)?  Talking about 'crisis of legitimacy'..
+
+Al Jazeera: "What is the Palestinian Authority..? Set up in the
+mid-’90s as an interim body.."
+
+---
+
+Good to see Jon Stewart hosting again.. 
+
+---
+
+\#Borrell \#EU
+
+[[-]](https://www.youtube.com/embed/DMbbtvi0G9I)
+
+---
+
+TASS: "Yemen’s Houthi rebels have attacked the Star Iris commercial
+vessel which the attackers have identified as belonging to the United
+States, Yahya Saria, spokesman for the rebel movement Ansar Allah,
+said"
+
+---
+
+Al-Monitor: "Court orders Netherlands to stop F-35 parts delivery to
+Israel.. The Netherlands must stop delivering parts for F-35 fighter
+jets used by Israel in the Gaza Strip, after a Dutch court Monday
+upheld an appeal by human rights organisations"
+
+---
+
+Jezebel: "A good meme is like lightning in the bottle—timing and
+context (or, sometimes, lack of context) are everything, and the wrong
+person joining in on the fun can ruin it all. Case in point: Joe
+Biden’s official Twitter account posting the Dark Brandon meme..  the
+post came at precisely the same time that Israeli forces attacked the
+Rafah evacuation zone in Gaza (after Palestinians were told Rafaf
+would be a safe zone), massacring dozens of civilians in a single
+day. Meanwhile, that same night, the U.S. Senate voted to send
+billions more in military aid to Israel, all as the Biden
+administration continues to stand with Israel despite over 28,000
+Palestinians being killed in four months. And, somehow, Biden’s
+campaign thought Sunday was the right time for some online humor"
+
+---
+
 Andersen: "As the right marched on victoriously through the end of the
 1980s and into the 1990s, even what appeared to be occasional
 reversals weren’t really setbacks for the economic right. For

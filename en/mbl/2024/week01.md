@@ -1,6 +1,5 @@
 # Week 1
 
-
 FuelCellsWorks: "Alstom To Supply First Hydrogen Trains To The Italian
 Region Of Puglia And Second Order Of Trains In The Framework Agreement
 With Lombardy"

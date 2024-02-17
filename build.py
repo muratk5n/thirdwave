@@ -133,6 +133,7 @@ head = """
       <script type="text/x-mathjax-config">MathJax.Hub.Config({  tex2jax: {inlineMath: [["$","$"]  ]}});</script>
       <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML-full">
       </script>
+      <script async="async" data-cfasync="false" src="//pl22515057.profitablegatecpm.com/3259501b32ee6f817ed88ef5c725b985/invoke.js"></script>
       <link rel="stylesheet" type="text/css" media="screen" href="/css/style.css">
       <title>thirdwave</title>
       <link rel="canonical" href="https://muratk5n.codeberg.page/en/" />
@@ -154,6 +155,7 @@ head = """
 bottom = """
         </section>          
       </div>
+     <div id="container-3259501b32ee6f817ed88ef5c725b985"></div>
     </body>
 </html>
 """

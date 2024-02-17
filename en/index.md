@@ -1,103 +1,91 @@
 
-H2 Insight: "[2023/10] 'We will place the biggest hydrogen bus order
-in US history because battery-electric can't do the job'.. Santa Cruz
-Metro in California tested an electric bus, but it struggled with the
-hilly terrain, a senior official explains"
+The Register: "Microsoft's water consumption surged 34 percent to 6.4
+million cubic meters in 2022 and a generative AI guzzle may be to
+blame"
 
 ---
 
-David Deutsch: "AGI cannot possibly be defined purely
-behaviourally.. the relevant attributes of an AGI program do not
-consist only of the relationship between its inputs and
-outputs.. unlike any functionality that has ever been programmed to
-date this one can be achieved neither by a specification nor a test of
-the outputs. What is needed is nothing less than a breakthrough in
-philosophy, a new epistemological theory that explains how brains
-create explanatory knowledge, and hence defines in principle without
-ever running them as programs which algorithms possess that
-functionality and which do not.  Such a theory is beyond present day
-knowledge. What we do know about epistemology implies that any
-approach not directed towards that philosophical breakthrough must be
-futile"
-
-[[-]](https://m.youtube.com/watch?v=VtkKJlVCfy0)
+Dgtl Infra: "Data centers primarily get their water from municipal or
+regional water utility companies. This water is essential for the data
+center's cooling and humidification systems. For cooling, data centers
+mainly use potable water, which is suitable for drinking, provided by
+these utilities"
 
 ---
 
-AP: "Prisoners in the US are part of a hidden workforce linked to
-hundreds of popular food brands..  A hidden path to America’s dinner
-tables begins here, at an unlikely source – a former Southern slave
-plantation that is now the country’s largest maximum-security prison"
+There is no challenge.. you simply do not switch to inferior
+technology - battery-electric tech.
+
+Nebraska Today: "Designed as an inexpensive, high-performing barrier,
+the.. MGS, was developed.. in response to barrier ruptures and
+rollovers with older systems. The MGS has been tested with small cars
+that weigh up to 2,400 pounds and pickups that weigh 5,000
+pounds... EVs..  typically weigh 20% to 50% more than gas-powered
+vehicles, with lower centers of gravity.. Today’s challenge is to
+again adapt roadside barriers to match the mix of heavier electric
+vehicle"
 
 ---
 
-Alfred Jazeera also has an irrational dislike for Assad, again Qatar
-funded the civil war against him and had their ass handed to them,
-along with their good friend "Turkey".
+That makes sense.. The same software looked at the situation concluded
+the same thing. This could be a problem in the future if self-driving
+car deployment increases. 
+
+"Waymo.. issued a recall for its own self-driving car software after
+two of its vehicles hit the same truck minutes apart"
 
 ---
 
-In general AJ has good coverage of Palestine.. I really don't care who
-in charge there as long as it can lead to a sustainable peace.  PA is
-fine bcz 1) Netan doesn't want it 2) Hamas did create certain amount
-of chaos in area, a change could benefit the overall picture.
+Blood in the Machine: "We don’t yet know exactly why a group of people
+very publicly graffitied, smashed, and torched a Waymo car in San
+Francisco. But we know enough to understand that this is an explosive
+milestone in the growing, if scattershot, revolt against big tech.. We
+know that self-driving cars are wildly divisive, especially in cities
+where they’ve begun to share the streets with emergency responders,
+pedestrians and cyclists. Public confidence in the technology has
+actually been declining as they’ve rolled out, owing as much to
+general anxiety over driverless cars as to high-profile incidents like
+a GM Cruise robotaxi trapping, dragging, and critically injuring a
+pedestrian last fall. Just over a third of Americans say they’d ride
+in one"
 
 ---
 
-[Link](https://www.dropbox.com/scl/fi/fhm1wk7h8mgbr0tsrflyw/watching_you_1.gif?rlkey=1d27cnmjbuupl4khvg0pjdqj4&raw=1)
+That was funny with the sandwich.. 
 
 ---
 
-AJ is funded by Qatar who had direct relationship with Hamas (so did
-Israel BTW). The channel might be covering for their paymaster so they
-don't lose their influence in Gaza.
+"A man is not a plan" 🤣
 
 ---
 
-Alfred Jazeera.. did that mfka just bash the PA for no good reason
-(see the rest of the article)?  Talking about 'crisis of legitimacy'..
+"MOL Teams up with Australian Energy Company Woodside, South Korean
+Shipbuilder HD KSOE and Shipping Firm Hyundai Glovis to Study
+Transport of Liquefied Hydrogen.. In this project, the participating
+companies will study the technology, safety, construction, operation,
+and economics of a carrier with 80,000 m3 tank capacity, with the aim
+of establishing a liquefied hydrogen supply chain in Asia and other
+regions"
 
-Al Jazeera: "What is the Palestinian Authority..? Set up in the
-mid-’90s as an interim body.."
-
----
-
-Good to see Jon Stewart hosting again.. 
-
----
-
-\#Borrell \#EU
-
-[[-]](https://www.youtube.com/embed/DMbbtvi0G9I)
+[[-]](https://www.mol.co.jp/en/pr/2024/img/240214.jpg)
 
 ---
 
-TASS: "Yemen’s Houthi rebels have attacked the Star Iris commercial
-vessel which the attackers have identified as belonging to the United
-States, Yahya Saria, spokesman for the rebel movement Ansar Allah,
-said"
+Fox Business: "Tesla Cybertruck owners claim $80K, stainless steel
+vehicles developed corrosion, rust: reports"
 
 ---
 
-Al-Monitor: "Court orders Netherlands to stop F-35 parts delivery to
-Israel.. The Netherlands must stop delivering parts for F-35 fighter
-jets used by Israel in the Gaza Strip, after a Dutch court Monday
-upheld an appeal by human rights organisations"
+Hey if you aid and abet state terrorism against Gazan children it's
+only fair yours lose sleep once in a while
+
+Politico: "Antony Blinken’s Family Is the Latest Target
+of.. protests..Yelling at Antony Blinken’s kids does not help Gazan
+children."
 
 ---
 
-Jezebel: "A good meme is like lightning in the bottle—timing and
-context (or, sometimes, lack of context) are everything, and the wrong
-person joining in on the fun can ruin it all. Case in point: Joe
-Biden’s official Twitter account posting the Dark Brandon meme..  the
-post came at precisely the same time that Israeli forces attacked the
-Rafah evacuation zone in Gaza (after Palestinians were told Rafaf
-would be a safe zone), massacring dozens of civilians in a single
-day. Meanwhile, that same night, the U.S. Senate voted to send
-billions more in military aid to Israel, all as the Biden
-administration continues to stand with Israel despite over 28,000
-Palestinians being killed in four months. And, somehow, Biden’s
-campaign thought Sunday was the right time for some online humor"
+Al-Monitor: "Egypt building 'enclosure' for displaced Gazans in Sinai"
 
 ---
 
@@ -145,5 +133,3 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
-
-
