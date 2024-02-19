@@ -1,0 +1,71 @@
+
+<html>
+  <head>
+      <meta charset='utf-8'>
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+      <script type="text/x-mathjax-config">MathJax.Hub.Config({  tex2jax: {inlineMath: [["$","$"]  ]}});</script>
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML-full">
+      </script>
+      <script async="async" data-cfasync="false" src="//pl22542243.profitablegatecpm.com/dd74f296f8cfa448682e8519034dcf34/invoke.js"></script>
+      <link rel="stylesheet" type="text/css" media="screen" href="/css/style.css">
+      <title>thirdwave</title>
+      <link rel="canonical" href="https://muratk5n.codeberg.page/en/" />
+    </head>        
+    <body>
+      <div id="header_wrap" class="outer">
+        <header class="inner">
+          <h1 id="project_title">
+            <a href="https://muratk5n.codeberg.page/en" style="text-decoration:none; color:inherit;">thirdwave</a>
+          </h1>
+          <font color="gray" size="2">Github Mirror</font>
+          <h2 id="project_tagline"></h2>          
+        </header>
+      </div>
+      <div id="main_content_wrap" class="outer">        
+        <section id="main_content" class="inner">
+<h1>TR Elections 2015</h1>
+<pre><code>year,vote,two_term,party,gdp,gdp2,popularity
+1983,23.3,0,Military/MDP,5.0,4.0,0
+1987,36.3,0,ANAP,9.5,8.0,1
+1991,24.0,1,ANAP,0.7,5.0,0
+1995,19.0,0,CHP/DYP,7.9,1.5,0
+1999,22.0,0,DYP/ANAP,2.3,0.5,0
+2002,8.4,1,DSP/MHP,6.2,0.5,0
+2007,46.6,0,AKP,4.7,5.0,1
+2011,49.8,1,AKP,9.2,9.0,1
+</code></pre>
+
+<p>The data is for popular vote percentage for the incumbent, as it was
+for the US case. The column gdp2 is a rough average of GDP growth of
+the election year and the previous year. This was done because of the
+turbulent nature of TR economics, for example year 2002 could have
+growth of 6.2 but previous year there was a crisis with growth of
+-5. I felt that this had to be reflected somehow in the
+numbers. Column popularity is a rough 0/1 value of leader popularity -
+Ozal had it, Demirel, Ecevit, Ozal caretaker Yilmaz didn't (for
+Demirel and Ecevit, their post 90s versions didn't, at least).</p>
+<p>In case of a coalition, the vote percentage for the largest piece in
+coalition is counted. </p>
+<p>The two_terms column for TR has no effect - because this country
+experienced so many coups, anyone who can remain in power for more
+than 2 terms is probably pretty successful, so they don't get punished
+for this.</p>
+<p>The incumbent for 1983 election is taken to be MDP because this is the
+party the generals of the 1980 coup "recommended" the public to vote
+for. Since the generals were in power, the MDP vote is considered to
+be a vote on them (the incumbent). They were ignored, Ozal won the
+election.</p>
+<p>[geek] The final model has Adjusted R^2=80%. [/geek]. For predictions;
+For 2014/2015 GDP growth has been lukewarm, let's take this as
+3.0. Leader popularity for AK, this is iffy, ex PM's popularity is not
+what it used to be, and then there is the new PM. Let's take this as
+0.6, then the absolute best case for the 95% confidence interval shows
+40% for AK. This is the <em>best</em> it can be according to the model,
+chances are, it will be worse. Even .1 decrease in the popularity
+causes dramatic decrease in the popular vote.</p>
+        </section>          
+      </div>
+     <div id="container-dd74f296f8cfa448682e8519034dcf34"></div>
+    </body>
+</html>

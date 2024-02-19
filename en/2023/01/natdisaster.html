@@ -1,0 +1,102 @@
+
+<html>
+  <head>
+      <meta charset='utf-8'>
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+      <script type="text/x-mathjax-config">MathJax.Hub.Config({  tex2jax: {inlineMath: [["$","$"]  ]}});</script>
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML-full">
+      </script>
+      <script async="async" data-cfasync="false" src="//pl22542243.profitablegatecpm.com/dd74f296f8cfa448682e8519034dcf34/invoke.js"></script>
+      <link rel="stylesheet" type="text/css" media="screen" href="/css/style.css">
+      <title>thirdwave</title>
+      <link rel="canonical" href="https://muratk5n.codeberg.page/en/" />
+    </head>        
+    <body>
+      <div id="header_wrap" class="outer">
+        <header class="inner">
+          <h1 id="project_title">
+            <a href="https://muratk5n.codeberg.page/en" style="text-decoration:none; color:inherit;">thirdwave</a>
+          </h1>
+          <font color="gray" size="2">Github Mirror</font>
+          <h2 id="project_tagline"></h2>          
+        </header>
+      </div>
+      <div id="main_content_wrap" class="outer">        
+        <section id="main_content" class="inner">
+<h1>Natural Disasters</h1>
+<p><a name='fires'/></p>
+<h3>Fires</h3>
+<p>Data comes from <a href="https://firms.modaps.eosdis.nasa.gov/active_fire/">FIRMS</a>,
+Fire Information for Resource Management System,  I read their MODIS
+CSV dataset for the world, for all fires within last 7 days and filter
+out fires below a certain brightness threshold. MODIS works through
+satellite images, it scans for certain brighness, color on all Earth
+images.</p>
+<pre><code class="python">import impl as u
+
+u.modis_fire(0,0,18)
+plt.savefig('fires.jpg',quality=40)
+</code></pre>
+
+<p><img alt="" src="fires.jpg" /></p>
+<p>History</p>
+<p>Annual count for worldwide fires; based on FIRMS <a href="https://firms.modaps.eosdis.nasa.gov/country/">data</a>,
+go to Country Yearly Summary [.csv] page and download.. modis_[year]_all_countries.zip 
+for the year you are interested in. Based on select years, the code below scans
+all countries, counts number of fire (pixels) above a certain brightness threshold.</p>
+<pre><code class="python">import pandas as pd, zipfile, datetime
+THRESHOLD = 450.0
+count = 0
+for y in [2000,2005,2010,2015,2020]:
+    with zipfile.ZipFile('modis_%d_all_countries.zip' % y, 'r') as z:
+          zfiles =  z.namelist()
+          for zf in zfiles:
+              if &quot;.csv&quot; not in zf: continue
+              df =  pd.read_csv(z.open(zf))
+              df = df[df.brightness &gt; THRESHOLD]
+              count += len(df)          
+    print (y, &quot;:&quot;, count)
+</code></pre>
+
+<pre><code>2000 : 144
+2005 : 4100
+2010 : 7533
+2015 : 11607
+2020 : 16365
+2021 : 23078
+</code></pre>
+
+<p><a name='equakes'/></p>
+<h3>Earthquake Stats</h3>
+<p>Global Fault Lines</p>
+<p><a href="https://github.com/GEMScienceTools/gem-global-active-faults">Data</a></p>
+<p><a href="eqfaults.py">Code</a></p>
+<p>Output - <a href="https://drive.google.com/uc?export=view&amp;id=1ON81DXx_ZBxdfd2ak6MjbkkL6aXmKIAc">Download HTML</a></p>
+<p>Monthly Report</p>
+<p>Monthly earthquake counts (greater than 5.0 in mag) since 2013.</p>
+<pre><code class="python">import equake, pandas as pd
+
+df = equake.get_eq_all()
+df['YM'] = df.apply(lambda x: &quot;%d%02.0f&quot; % (x.name.year,x.name.month), axis=1)
+grp = df.groupby(&quot;YM&quot;).size()
+dfp = pd.DataFrame()
+dfp['monc'] = grp
+dfp['ma'] = grp.rolling(window=20).mean()
+dfp = dfp.interpolate(method ='linear', limit_direction ='backward')
+dfp.columns = ['Monthly Eqs','MA']
+dfp.plot()
+plt.savefig('moneq.png')
+</code></pre>
+
+<p><img alt="" src="moneq.png" /></p>
+<p>Region</p>
+<pre><code class="python">import equake; equake.eq_region(34,35)
+</code></pre>
+
+<p><a href="equake-out.html">Output</a></p>
+        </section>          
+      </div>
+     <div id="container-dd74f296f8cfa448682e8519034dcf34"></div>
+    </body>
+</html>

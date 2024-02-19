@@ -1,0 +1,622 @@
+
+<html>
+  <head>
+      <meta charset='utf-8'>
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+      <script type="text/x-mathjax-config">MathJax.Hub.Config({  tex2jax: {inlineMath: [["$","$"]  ]}});</script>
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML-full">
+      </script>
+      <script async="async" data-cfasync="false" src="//pl22542243.profitablegatecpm.com/dd74f296f8cfa448682e8519034dcf34/invoke.js"></script>
+      <link rel="stylesheet" type="text/css" media="screen" href="/css/style.css">
+      <title>thirdwave</title>
+      <link rel="canonical" href="https://muratk5n.codeberg.page/en/" />
+    </head>        
+    <body>
+      <div id="header_wrap" class="outer">
+        <header class="inner">
+          <h1 id="project_title">
+            <a href="https://muratk5n.codeberg.page/en" style="text-decoration:none; color:inherit;">thirdwave</a>
+          </h1>
+          <font color="gray" size="2">Github Mirror</font>
+          <h2 id="project_tagline"></h2>          
+        </header>
+      </div>
+      <div id="main_content_wrap" class="outer">        
+        <section id="main_content" class="inner">
+<h1>Week 31</h1>
+<p>H2 Central: "Liberty Hydrogen has launched with development
+plans.. [for] an industrial-scale biomass to green ammonia
+facility. The global production capacity of grey ammonia is expected
+to expand from around 235 million metric tons in 2019, to nearly 290
+million metric tons by 2030. For companies to meet net-zero targets,
+ammonia production will need to transition to a low-carbon ‘green’
+process. Liberty Hydrogen’s green ammonia facility is targeting a
+starting capacity of 100,000 tonnes of green ammonia positioning
+itself as a leader in the burgeoning low-carbon ammonia sector."</p>
+<hr />
+<p>"German oil and gas company Wintershall Dea and compatriot pipeline
+operator Nord-West Oelleitung (NWO) have signed an agreement for the
+BlueHyNow hydrogen production plant in Wilhelmshaven... Wintershall
+Dea plans a plant for producing large volumes of hydrogen using
+Norwegian natural gas"</p>
+<p><a href="https://www.offshore-energy.biz/wintershall-dea-and-nwo-to-work-on-bluehynow-hydrogen-production-plant/">[-]</a></p>
+<hr />
+<p>Dr. Willows and team are working on commercial scale demo of their bio-based
+H2 generation tech.</p>
+<p><a href="https://arena.gov.au/projects/biological-hydrogen-production/">[-]</a></p>
+<hr />
+<p>H2 Bio Info</p>
+<p><a href="../../2022/02/h2-biology.html">[-]</a></p>
+<hr />
+<p>"The revolutionary patent-pending technology will allow any internal
+combustion engine in a current road vehicle to be converted into
+zero-emissions.. [The tech] can convert petrol and diesel engines
+within a day ending harmful emissions"</p>
+<hr />
+<p>"A second hydrogen production base in Korea is set to kick off
+operations in Pyeongtaek, Gyeonggi Province, next month, to improve
+the supply volume of energy to vehicle charging stations in Seoul and
+neighboring cities.</p>
+<p>The Pyeongtaek base, located at the Asan Industrial Complex, some 60
+kilometers south of Seoul, will have the capacity of providing 430,000
+hydrogen-fueled vehicles, including commercial ones, with energy per
+annum, according to the Ministry of Trade, Industry and Energy"</p>
+<hr />
+<p>"Hyundai Motor’s XCIENT Fuel Cell Heavy-Duty Trucks to Hit German Roads"</p>
+<hr />
+<p>Haha, UK doc about "electricity storage" is talking about H2 a lot. </p>
+<p><a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1095997/benefits-long-duration-electricity-storage.pdf">PDF</a></p>
+<hr />
+<p>It will take 80 of these things to create serious competition with a
+major oil and natgas find.</p>
+<p>But green is great. Let's do more.</p>
+<p>"@SolarPowerWorld</p>
+<p>250-MW Arizona solar project 1 step closer to construction"</p>
+<hr />
+<p>"@LeighCollinsREC</p>
+<p>Green light given to Dubai royal’s 400MW green #hydrogen project in
+Pakistan — powered by 1.2GW of #wind and #solar"</p>
+<hr />
+<p>That will require massive renewable energy generation</p>
+<p>"The global green hydrogen market will expand from $2.14bn last year
+to 135.73bn by 2031.. according to a new study from Indian/US firm
+Transparency Market Research (TMR)... Similar growth was forecast in
+April by US analyst Guidehouse Insights, which forecast that the
+global manufacturing of electrolysers — the machines that produce
+green hydrogen from renewable electricity..</p>
+<p>The study adds that solar energy will be the leading source of power
+for green hydrogen over the forecasted period, with PEM technology
+dominating the electrolyser market"</p>
+<hr />
+<p>That's the German Chancelor standing next to a Siemens turbine for a
+gas pipeline; a wild guess here - molecule transport is crucial.</p>
+<p><a href="https://twitter.com/Bundeskanzler/status/1554749662594211841">[-]</a></p>
+<hr />
+<p>I believe the poster below used the words "as of 2020" to report a
+cumulative number as in <strong>all</strong> renewable elec generated by 2020, not
+the annual number. The cumulative is an odd thing to report - you'd do
+it of course to inflate your results...</p>
+<hr />
+<pre><code class="python">import pandas as pd
+df = pd.read_csv('../../2022/01/bp-stats-review-2022-consolidated-dataset-panel-format.csv')
+df = df[(df.Country == 'Total World') &amp; (df.Year == 2020)]
+x = float(df['electbyfuel_ren_power'])
+t = float(df['primary_ej'])*277.778
+print (&quot;%0.2f Twh, %0.2f percent&quot; % (x, x/t*100))
+</code></pre>
+
+<pre><code class="text">3146.57 Twh, 2.01 percent
+</code></pre>
+
+<hr />
+<p>In year 2020 renewable electricity was at 3146 TWh, half of the number
+below. 3146 TWh represents 2% of all energy production of that year.</p>
+<p>"@IRENA Renewable Energy Statistics 2022 shows that the amount of
+electricity generated from renewables reached 7468 TWh as of 2020"</p>
+<hr />
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">California&#39;s leadership is helping guide the auto industry and other states in the development of a <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> economy. With growing support from automakers, the opportunities for hydrogen-powered transportation continue to grow. <a href="https://t.co/ygrFeriT5w">https://t.co/ygrFeriT5w</a> <a href="https://t.co/ypJ0dblS3D">pic.twitter.com/ypJ0dblS3D</a></p>&mdash; SoCalGas (@socalgas) <a href="https://twitter.com/socalgas/status/1554912361760169984?ref_src=twsrc%5Etfw">August 3, 2022</a></blockquote>
+
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<hr />
+<p>A hit already.. 2019 movie <em>Yesterday</em>. Brilliant. Haven't had this
+much fun with a story on the music industry since <em>That Thing You Do</em>
+and <em>Rockstar</em>.</p>
+<hr />
+<p>New Netflix ratings data file, sweet.. This one includes 2019. The
+code works on it. More data to chew on.. </p>
+<hr />
+<p>They have an actor on the lam - as in he is running away <em>from the
+law</em>, right now. They are looking for this guy. Imagine how messed up
+that is.</p>
+<hr />
+<p>The new CEO is fixing some stuff but boy, was Warner Bros in a mess..</p>
+<hr />
+<p>If China consumes five times as much energy as India with about same
+amt of people, that means they are producing something in excess, and
+that something is goods for the world. The energy to make that stuff
+mostly comes from dirty coal.</p>
+<p>It seems to me some developed countries simply shifted their polluting
+over to China and think they are scotfree. if they really cared about
+the environment they would tariff that pollution. Of course that would
+be inflationary and/or could mean less shopping. But let's think about
+that - do kids really need that Mr. Potatohead toy? Parents can DIY make
+it using regular potato.</p>
+<hr />
+<p>Yahoo Finance: "OPEC Confirms Smallest Ever Output Increase.. The
+world's largest oil exporters agreed to a token increase in crude
+production from September, unable and unwilling to compensate for the
+tightening of the world market by western sanctions on Russia"</p>
+<hr />
+<p>'@DanDePetris</p>
+<p>Pelosi may no longer be in Taiwan, but the mess she helped create
+remains. I still have no clue why she made the trip, and her op-ed in
+the Washington Post yesterday didn’t really give me a convincing
+answer. Blurp blurp, bleep bleep, democracy vs. autocracy, bleep
+bleep"</p>
+<hr />
+<p>H2 Central: "The government informed that the draft Hydrogen Mission
+document has been prepared. In his Independence Day speech last year,
+Prime Minister Narendra Modi had announced the launch of the National
+Hydrogen Mission...</p>
+<p>According to the [Minister of State for New and Renewable Energy] the
+draft mission proposes a framework for demand creation, a basket of
+measures to support production and utilisation of green hydrogen and
+support for indigenous manufacturing.</p>
+<p>Besides, it also includes research and development work, pilot
+projects, enabling policies and regulations, and infrastructure
+development"</p>
+<hr />
+<p>The Australia Today: "In a research paper published in the prestigious
+journal <em>Materials Today</em> [Deakin University researchers] have offered
+a novel way to separate, store and transport huge amounts of hydrogen
+gas safely and with almost no wastage..</p>
+<p>The traditional oil refinery methods make up 15 per cent of the
+world’s energy use [which] uses a high-energy ‘cryogenic distillation’
+process to separate crude oil into different gases that are further
+used by consumers as petrol and household gas.</p>
+<p>IFM researchers in their papers have outlined a completely different
+mechanochemical way of separating and storing gases that use a tiny
+fraction of the energy and create zero waste...</p>
+<p>The researchers say that the special ingredient in their process is
+boron nitride powder"</p>
+<p><a href="https://www.theaustraliatoday.com.au/indian-australian-scientist-contributes-to-breakthrough-research-that-could-make-hydrogen-safer-to-use/">[-]</a></p>
+<hr />
+<p>H2 Central: "World's first vessel powered by an H2-storing salt gets
+construction green light..The world’s first ship to be powered using a
+solid form of hydrogen — said to be far safer and easier to store than
+compressed or liquid H2 — is due to go into operational trials at the
+Port of Amsterdam next June... The <em>Neo Orbis</em> passenger vessel —
+designed to operate in Amsterdam’s canals and in the channel between
+the city and the North Sea — will be powered by hydrogen released from
+a salt called sodium borohydride (NaBH4)"</p>
+<p><a href="https://www.rechargenews.com/energy-transition/solid-hydrogen-worlds-first-vessel-powered-by-an-h2-storing-salt-gets-construction-green-light/2-1-1269510?a=">[-]</a></p>
+<hr />
+<p>Collated post on underground H2 storage.</p>
+<p><a href="../../2022/02/h2-underground.html">[-]</a></p>
+<hr />
+<p>Newatlas: "EAT's silicon-based powder doesn't require you to start off
+with any hydrogen at all – and getting the hydrogen back out is even
+easier... The Si+ powder can be made using a (preferably renewable)
+energy source, as well as metallurgical-grade silicon – which itself
+can be made from sand, or from crushed-up recycled solar panels and
+electronics. EAT's process results in a porous silicon powder that's
+completely safe and easy to transport...</p>
+<p>When you need the hydrogen, you dump the Si+ powder into water, mix it
+around a bit, and ... that's pretty much it. At a wide range of
+ambient temperatures between 0-80 °C (32-176 °F), hydrogen gas will
+start bubbling out. The chemical equation, says EAT, looks like this:
+Si + 2H2O -&gt; SiO2 + 2H2. Thus, apart from the hydrogen gas, all that's
+left over is silicon dioxide, also known as silica, or the major
+constituent of sand"</p>
+<hr />
+<p>Hyzon has good PR department; Kudos. </p>
+<p>"@hyzonmotors</p>
+<p>More than 6 billion #Google searches will be made globally today. The
+Hyzon team dug into these searches to find what the world wonders most
+about hydrogen. Among the top 10 is pollution-related &amp; we share what
+a #hydrogen vehicle does actually emit"</p>
+<hr />
+<p>"@HydrogenCentral</p>
+<p>Shell and Shenergy Form Joint Venture to Develop Hydrogen Refuelling
+Network in China"</p>
+<hr />
+<p>Transport only clean molecules #H2 #NH3</p>
+<p>"Methane at Sea: Finding the Invisible Climate Killer.. T&amp;E's
+investigation into so-called ‘green’ liquid natural gas (LNG) ships
+uncovers significant amounts of invisible methane being released into
+the atmosphere"</p>
+<p><a href="https://www.transportenvironment.org/discover/methane-finding-the-invisible/">[-]</a></p>
+<hr />
+<p>Recharge: "Australian start-up Hysata that says it has developed the
+world’s most efficient electrolyser has attracted A$42.5m ($29.4m) in
+an oversubscribed Series A funding round.. The Hysata electrolyser
+operates at 95% system efficiency (41.5 kWh/kg), delivering a giant
+leap in performance and cost over incumbent technologies"</p>
+<hr />
+<p>Tree Energy Solutions snagged Marco Alvera, the author of
+<a href="../../2022/06/the-h2-revolution-alvera.html">this book</a>, prev CEO of
+Snam. First project of TES is the Wilhelmshaven Green Energy Hub in
+Germany, set to supply 250 TWh/year carbon-neutral energy of which H2
+is a big part of. 250 TWh/y means 28 GW, not a small thing.</p>
+<hr />
+<p>This level is pretty standard for most countries.. Electricity is already
+not the preferred energy transfer medium. Suboptimal.</p>
+<hr />
+<p>Electricity as percentage of oveall energy consumption</p>
+<pre><code class="python">import util; util.get_bp_country(&quot;China&quot;)[3]
+</code></pre>
+
+<pre><code class="text">Out[1]: 19.49
+</code></pre>
+
+<pre><code class="python">util.get_bp_country(&quot;US&quot;)[3]
+</code></pre>
+
+<pre><code class="text">Out[1]: 17.06
+</code></pre>
+
+<hr />
+<p>US imports of Chinese goods back to trend (in millions).. </p>
+<pre><code class="python">import util; util.plot_fred(1990, &quot;IMPCH&quot;)
+</code></pre>
+
+<pre><code class="text">                   IMPCH
+DATE                    
+2022-03-01  47373.521578
+2022-04-01  41772.201093
+2022-05-01  43864.418558
+</code></pre>
+
+<p><a href="twimg/FZLpzsNWIAweDZa.png">[-]</a></p>
+<hr />
+<p>If latest GDP figure repeats before the next election, and net
+popularity doesn't change it's a loss for Biden if he runs again. But
+a mere -10% (an improvement) and GDP growth of 1% would give an
+advantage to him, or to the "next Dem nominee".</p>
+<p><a href="../../0119/2015/04/predicting-presidential-elections.html#2024">[-]</a></p>
+<hr />
+<p>Note that US transport did not fly over the South China Sea, scared
+the plane could get shot down there.</p>
+<hr />
+<p>SOH Taiwan visit didn't seem to help.. Just like the famed 90s
+"Tinnamen visit" clearly did nothing for democracy in China. Publicity
+stunt?</p>
+<hr />
+<p>"@Bundeskanzler [Scholz]</p>
+<p>At @Siemens_Energy I could see with my own eyes: The serviced turbine
+is there and ready for use at any time. It only has to be requested
+from Russia. So there are no technical reasons to reduce gas supplies"</p>
+<hr />
+<p>WION: "Rafael Grossi, the UN nuclear chief has shot out a warning to
+the world leaders, stating that Ukraine's Zaporizhzhia nuclear power
+plant..  'is completely out of control.. Every principle of nuclear
+safety has been violated. What is at stake is extremely serious and
+extremely grave and dangerous,' said Grossi"</p>
+<hr />
+<p>Guessing once artillery fired nearby its location is pinpointed by
+this system, for an immediate counterfire.. Probably too late for UKR
+but it could be useful for someone else..</p>
+<hr />
+<p>Effective at what range? </p>
+<p>Jane's Defense: "Microflown Avisa applies 3D shockwave detection for
+improved counter-artillery capability"</p>
+<hr />
+<p>Paper: "Cost of long-distance energy transmission by different
+carriers.. This paper compares the relative cost of long-distance,
+large-scale energy transmission by electricity, gaseous, and liquid..
+carriers. The results indicate that the cost of electrical
+transmission per delivered MWh can be up to eight times higher than
+for hydrogen pipelines"</p>
+<p><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8661478/">[-]</a></p>
+<hr />
+<p>He referenced the paper above</p>
+<p>"@BrianGitt</p>
+<p>Capital cost of long-distance energy transmission ($/mile-MW):</p>
+<p>Electrical lines = $1,502</p>
+<p>Hydrogen pipeline = $166</p>
+<p>Natural gas pipeline  = $97</p>
+<p>Oil pipeline = $16"</p>
+<hr />
+<p>"@H2Societies</p>
+<p>Just a single company - Air Products - has over 600 miles of hydrogen
+pipeline in operation around the US Gulf Coast"</p>
+<hr />
+<p>Ammonia Energy: "Mitsui &amp; Co. and CF Industries will jointly develop a
+greenfield facility that will produce CCS ammonia on the US Gulf
+Coast. The partners are targeting a reduction of at least 60%
+emissions compared to conventional ammonia production, with the
+selection of a technology provider in its final stages..</p>
+<p>[CF said:] 'Our work with Mitsui has reinforced our shared belief that
+blue ammonia will play a critical role in accelerating the world’s
+transition to clean energy and that demand for blue ammonia will grow
+meaningfully in the second half of this decade. We believe that the
+United States offers considerable advantages for blue ammonia
+production due to access to plentiful and low-cost natural gas, the
+regulatory and legal framework in place, and the geology suitable for
+permanent carbon sequestration.'</p>
+<p>In November last year we reported that, thanks to planned upgrades at
+their existing Donaldsonville and Yazoo City plants, CF Industries was
+targeting CCS ammonia production of 1.25 million tonnes per year from
+2024"</p>
+<hr />
+<p>[General Authority for Suez Canal Economic Zone] Signs MOU with Indian
+Renew Power for 220,000 Tons of Green Hydrogen Production – $8B
+Investment... 'The site initially will be set on an area of ​​600,000
+square meters in the Sokhna integrated Zone, bringing the production
+capacity of the two phases of green hydrogen to 220,000 tons and 1,100
+million tons of green ammonia.' [SCZONE chairman] Zaki added"</p>
+<hr />
+<p>H2 Central: "Hydrogen turbines – GE Gas Power awarded $4,2M in funding
+from ARPA-E.. [The] funding is focused on two projects entitled
+'Lifted-flame combustion for high-hydrogen reheat gas turbines' and
+'Manufacturing high-yield investment castings with minimal energy.'
+Both initiatives will be led by GE Gas Power and conducted at GE’s
+Global Technology Center in Greenville, South Carolina... As part of
+these projects, GE will conduct cutting-edge research for gas turbine
+decarbonization"</p>
+<hr />
+<p>OCI is a Netherlands based chemical company.. NL is becoming huge in
+H2 energy and regulation would be strict.. The ammonia is certainly
+clean. My only worry is not being able to generate clean fuels fast
+enough, but in terms of tech, there is a pathway to a clean energy
+future through both green and blue H2/NH3.</p>
+<hr />
+<p>First shipment from this venture arrived to Japan recently </p>
+<p>"[06/2021: A] joint venture between Adnoc and OCI, will join the
+development of a large blue ammonia plant in the UAE’s downstream
+centre in Ruwais... The blue aspect refers to hydrogen derived from
+natural gas feedstocks. The plant will have a production capacity of
+1,000 kilotonnes a year"</p>
+<hr />
+<p>"@H2Europe</p>
+<p>The #hydrogen start-up [Tree Energy] has secured €65 million in its
+latest funding round.  @malvera1, the CEO, affirmed that the company
+is looking to become one of the world’s largest buyers of #renewable
+energy. Belgium-based company seeks to expand the use of renewable
+energy across Europe"</p>
+<hr />
+<p>Then this silicon-based powder sort of becomes the fuel, the thing
+that gets stored, transported etc; since it can take H2 out of any
+water easily.</p>
+<p>H2 Fuel News: "Si+ material to make hydrogen fuel transportation and
+storage safer.. The silicon-based powder acts as a solid-state H2
+making it safer to both store and transport... The breakthrough was
+announced by the EPRO Advance Technology (EAT) renewable energy
+company...</p>
+<p>'EAT has developed a revolutionary porous silicon material, known as
+Si+, which has the ability to generate ultra-pure hydrogen from a
+water source and which acts as a solid-state hydrogen generating
+material – one that is compact, robust, and easily transportable' said
+a media release issued by the company"</p>
+<hr />
+<p>The "Mandela Effect"? Most think Mandela died in prison instead of in 2013.
+That is an "effect".. I think it's just people being dumb (or
+uninformed). It's fine, really.. Does the man on the street need to
+know everything? No. That's why we have professions.</p>
+<hr />
+<p>More dark comedy.. </p>
+<p>Al Monitor: "Palestinian family encircled by Israeli settlement.. An
+eight-metre high metal fence surrounds the Gharib family home in the
+occupied West Bank. To reach it they must pass through a gate remotely
+controlled by Israeli security forces"</p>
+<p><a href="twimg/FZFdyBCXwAQFYKg.jpg">[-]</a></p>
+<hr />
+<p>CNBC: "The death of easy money: Why 20% annual returns are over in
+crypto lending.. '$3 trillion of liquidity will likely be taken out of
+markets globally by central banks over the next 18 months,' said.. a
+global crypto and digital asset strategist at Bank of America"</p>
+<hr />
+<p>WION: "Lebanon: People queue up to buy bread, six breads sell for $20
+on black market"</p>
+<hr />
+<p>Yahoo News: "Truss surges ahead, wins key backers in UK leadership
+race"</p>
+<hr />
+<p>Let's sanction US for its sanctions</p>
+<p>"U.S. Eyes Sanctions Against Network It Believes Is Shipping Iranian Oil"</p>
+<hr />
+<p>If China consumes a lot of dirty coal, and the entire world depends on
+them to produce stuff, then to lower emissions maybe countries should
+not depend on China for so many products. Should the the environmental
+footprint of a country define which tariffs get applied to it?</p>
+<hr />
+<p>The Danish Strait - dam. It's busy up there..</p>
+<hr />
+<p>Malacca is <em>closer</em> to the optimal path I bet corps shaving off cents
+from their cost needed that path. </p>
+<hr />
+<p>Is "the Malacca Strait worry" overblown? There are alternatives..
+Sunda and Lombok Strait are both available and actually spacier for
+ship traffic. </p>
+<hr />
+<p>Straits, Chokepoints</p>
+<p><a href="../../2023/01/confstats.html#straits">[-]</a></p>
+<hr />
+<p>The now militarized Spratly Islands are smack in the middle of
+international waters</p>
+<hr />
+<p>But China says, no, <a href="twimg/FZIt5JHXgAA4COR.png">all that shit</a> 
+is mine</p>
+<hr />
+<p>UN recognized maritime borders in the SCC based on 12 mile
+rule.. Looks fair</p>
+<p><a href="twimg/FZItfqnWIAAxvOd.png">[-]</a></p>
+<hr />
+<p>Claims on the South China Sea.. from <a href="https://www.researchgate.net/publication/342610470_Hydrocarbon_reserves_of_the_South_China_Sea_Implications_for_regional_energy_security">paper</a>.
+Pretty much everyone's claimed sea space overlap and of course,
+there is oil and gas involved.</p>
+<p><a href="twimg/FZGH3_eWIAI0Vqz.png">[-]</a></p>
+<hr />
+<p>WION: "Russia Pummels Ukraine's Mykolaiv, Killing Top Businessman"</p>
+<hr />
+<p>H2 View: "Hopes for hydrogen in the US have been heightened after the
+breakthrough Tax and Climate Bill was agreed on seeing the US Senate
+offer a $3 per kg in tax credits, that look to make green hydrogen
+cheaper to produce than grey.".</p>
+<hr />
+<p>H2 View: "Hydrogen mixing gas turbine project takes slice of $4.2m
+funding [from US Advanced Research Projects Agency-Energy]"</p>
+<hr />
+<p>The Lighthouse: "Designer bacteria could fuel the future with cheap
+hydrogen.. Macquarie synthetic biologists have made a breakthrough in
+renewable energy production by creating genetically-engineered
+sugar-loving bacteria that can produce on-demand, zero-emission
+hydrogen fuel..</p>
+<p>The genetic engineering of the microbes is partly funded by a $1.1
+million grant from the Australian Government’s Renewable Energy Agency
+(ARENA) and supported by industry partners BOC Australia and
+Bioplatforms Australia.</p>
+<p>'This is renewable energy that uses a two-part system; first, the
+bacteria consume the sugar and as it digests the sugar it produces the
+hydrogen gas,' [researcher] explains...</p>
+<p>Farming bacteria to produce hydrogen also has economic and
+environmental advantages – in the right setting, bacteria rapidly
+multiply, they are cheap to create and don’t need much space...</p>
+<p>The University team has used genetic engineering approaches to change
+the DNA of certain strains of E. coli bacteria to produce hydrogen
+from sugars.</p>
+<p>By accelerating the metabolism of the bacteria and finding the optimum
+conditions for production, they have produced a strain that makes
+hydrogen at rates higher than any previous published rates of
+bacterial bio-hydrogen.</p>
+<p>Many bio-hydrogen developers are using algae to produce hydrogen but
+Willows says that bacteria have the advantage of much faster
+production and lower inputs – they also don’t require big ponds for
+cultivation.</p>
+<p>The strain that the team has developed is also very stable, he
+adds. 'We have bacteria that we made more than four months ago that
+are still producing hydrogen at the same rate,” he says. “They are not
+growing or dividing – this is exciting as all of the enzymes that are
+required within the bacterial cell seem to be stable for about three
+or four months, or possibly longer.'</p>
+<p>Unlike ethanol – a fuel that must grow new yeast for each new batch –
+Macquarie’s bacterial hydrogen producers can keep brewing gas without
+a fresh biological agent added for each batch"</p>
+<p><a href="https://lighthouse.mq.edu.au/article/september2/designer-bacteria-could-fuel-the-future-with-cheap-hydrogen">[-]</a></p>
+<hr />
+<p>Cows produce methane naturally.. Surely much can be done through bio
+for H2 production.</p>
+<hr />
+<p>Utility Dive: "Carbon capture projects, regional CO2 pipeline design
+to get $2.6B in DOE funding proposal.. The Department of Energy plans
+to offer 2.54 billion to help finance six carbon capture and storage,
+or CCS, demonstration projects at coal- and gas-fired power plants as
+well as at industrial facilities, according to a notice of intent
+issued Wednesday"</p>
+<hr />
+<p>That is around 300 mmboe.. They have <a href="../../2022/01/oilgasmin.html#fields">larger fields</a>
+over there, but it's not nothing.</p>
+<p>Al Monitor: "More gas discovered off coast of Abu Dhabi.. The
+discovery in the Offshore Block 2 Exploration Concession off the cost
+of Abu Dhabi amounts to 1-1.5 trillion standard cubic feet of gas. The
+field is operated by the Italian energy giant Eni"</p>
+<hr />
+<p>Hopefully Wagner doesn't sabotage that pipeline. </p>
+<hr />
+<p><a href="twimg/FY2MsoEXoAMjv5-.jpg">Link</a></p>
+<hr />
+<p>Now we're talkin. This is some NStream level shit.</p>
+<pre><code class="python">int((30*1e9*10.55) / (1e6*365*24)), 'GW'
+</code></pre>
+
+<pre><code class="text">36 GW
+</code></pre>
+
+<hr />
+<p>Xinhuanet: "Algeria, Niger, Nigeria ink deal to build trans-Saharan
+gas pipeline..  [who] signed on Thursday a memorandum of
+understanding.. for the construction of a gas pipeline across the
+Sahara Desert that will supply Europe with additional gas.. [The
+pipeline] is expected to span 4,000 km and could send up to 30 billion
+cubic meters of natural gas per year"</p>
+<hr />
+<p>CNBC: "Air travel chaos.. [We] spoke to several pilots flying for
+major airlines, all of whom described fatigue due to long hours and
+what they said was opportunism and a desire to cut costs as part of a
+toxic 'race to the bottom' culture pervading the industry and
+worsening the messy situation that travelers are facing today...</p>
+<p>'Leading into the summer, it was absolute carnage because airlines
+didn’t know what they were doing. They didn’t have a proper plan in
+place. All they knew they wanted to do was try and fly as much as
+humanly possible – almost as if the pandemic had never happened,' [a]
+pilot said.</p>
+<p>'But they forgot that they’d cut all of their resources.'"</p>
+<hr />
+<p>Mind Soup - Dawn Of Caspian #music</p>
+<p><a href="https://youtu.be/8albXL68H-M?t=82">[-]</a></p>
+<hr />
+<p>Peter Voit (Not Even Wrong Blog): "There’s a new book out this month,
+'Before the Big Bang: The Origin off the Universe from the Multiverse'..</p>
+<p>I spent a few minutes today looking through the book in the bookstore,
+trying to figure out where to find the details of the 'spectacularly
+vindicated with observational evidence.' I didn’t see any references
+in the book..  For many years I’ve spent a significant amount of time
+reading books and papers purporting to offer scientific evidence for a
+multiverse, trying to carefully understand the author’s arguments and
+write about them here.. Few physicists though seem to care that bogus
+claims and pseudo-science about the multiverse have overrun their
+field and become its public face. I’ve come to the conclusion that
+best to not waste more time on this"</p>
+<p><a href="https://www.math.columbia.edu/~woit/wordpress/?p=12997">[-]</a></p>
+<hr />
+<p><em>Accident Man</em>, my kinda thing.. Rated R.</p>
+<hr />
+<p><em>A Quiet Place</em>, not my kind of thing.. Recommender tad off on this
+one. But cinematically wonderful, has its own pace, well acted.</p>
+<hr />
+<p>The Independent: "Brexit bad for business, says Tory mayor Andy
+Street’s comments come after Tory leadership contenders insisted
+Brexit has provided opportunities"</p>
+<hr />
+<p>That looks nice #taipei</p>
+<p><a href="twimg/FY8Go4GWIAENqVW.jpg">[-]</a></p>
+<hr />
+<p>Possible Taiwan invasion: Analyst says Nov-March too windy, May-June
+has fog, July-September Typhoon season.. That leaves April or October.</p>
+<hr />
+<p>US "one China policy" might have a hidden gag in it.. bcz CH
+nationalists who lost the civil war and ran to Taiwan also considered
+themselves 'the one true government of China'.</p>
+<hr />
+<p>Politico: "Hungary expects to agree on a new deal with Russia this
+summer that would provide the country with an additional 700 million
+cubic meters of gas, Prime Minister Viktor Orbán said Friday"</p>
+<hr />
+<p>RU reorg of its mil worked for them.. they saw major US air power in
+display in Desert Storm, and in later conflicts, saw units that can
+communicate effectively, be deployed anywhere... How do you fight
+that? Disrupt communications through major jamming capab, develop
+strong air defense, and center it around the type of war <em>they</em> would
+fight - against a neighbor, mostly on land. Tactics feed into tanks
+and artillery, even snipers pass intel to them, air defense protects
+them, and they attack with overwhelming force, not with the precision
+of US military, but still through sheer numbers it is effective.</p>
+<hr />
+<p>It wont; RU can still hit transport with anti-ship missiles in Crimea,
+and Kherson. See <a href="twimg/FY5ZWQKWIAE2LD_.jpg">here</a>.</p>
+<p>"Ukraine retaking of the Snake Island will help ease the blockade of
+grain shipments"</p>
+<hr />
+<p>Davis: "Ukraine’s Big ‘Million Man’ Offensive Against Russia Is A
+Mistake... As someone who has fought in large tank battles and spent
+years participating in large-scale mechanized war games in Europe, I
+cannot stress how difficult a task it is for an army to mount an
+offensive operation when it has lost a sizeable portion of its
+experienced leaders, is filled with large numbers of raw recruits, and
+have a patchwork of limited armored vehicles and ammunition...</p>
+<p>The danger in shooting for a miracle and trying the offensive anyway
+is that Ukraine would risk suffering even more casualties, losing more
+irreplaceable equipment, and in the end potentially suffering the loss
+of even more territory than they had at the beginning of the
+battle. All Russia would have to do is absorb the blows, yield only
+when required to avoid encirclement, and then when the Ukrainian side
+had expended its striking power, launch a counter-offensive to drive
+the weakened troops further west"</p>
+<p><a href="https://www.19fortyfive.com/2022/07/ukraines-big-million-man-offensive-against-russia-seems-like-a-mistake/">[-]</a></p>
+<hr />
+        </section>          
+      </div>
+     <div id="container-dd74f296f8cfa448682e8519034dcf34"></div>
+    </body>
+</html>

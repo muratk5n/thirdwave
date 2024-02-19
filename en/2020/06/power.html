@@ -1,0 +1,80 @@
+
+<html>
+  <head>
+      <meta charset='utf-8'>
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+      <script type="text/x-mathjax-config">MathJax.Hub.Config({  tex2jax: {inlineMath: [["$","$"]  ]}});</script>
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML-full">
+      </script>
+      <script async="async" data-cfasync="false" src="//pl22542243.profitablegatecpm.com/dd74f296f8cfa448682e8519034dcf34/invoke.js"></script>
+      <link rel="stylesheet" type="text/css" media="screen" href="/css/style.css">
+      <title>thirdwave</title>
+      <link rel="canonical" href="https://muratk5n.codeberg.page/en/" />
+    </head>        
+    <body>
+      <div id="header_wrap" class="outer">
+        <header class="inner">
+          <h1 id="project_title">
+            <a href="https://muratk5n.codeberg.page/en" style="text-decoration:none; color:inherit;">thirdwave</a>
+          </h1>
+          <font color="gray" size="2">Github Mirror</font>
+          <h2 id="project_tagline"></h2>          
+        </header>
+      </div>
+      <div id="main_content_wrap" class="outer">        
+        <section id="main_content" class="inner">
+<h1>Power</h1>
+<p>Power is measured in Watts, energy transferred per unit time (Joule
+per second). We say someone is powerful, indicates transferring energy
+(kick) to someone (the ass) in a short time. Boom, ass-kicked. In unit
+(short) time. </p>
+<p>How long can this person keep kicking ass? That is capacity. How long
+can a battery last? Same idea. This is Wh, Watt-hours. How many watts
+can be given in one hour.</p>
+<p>Now the marking on batteries can be weird. Another way to get to Watt
+is Voltage times Ampere (per unit time thing is inside Ampere so it
+works out). But you will see batteries are usually only marked in mAh
+(mili ampere hour). Where is the volt?</p>
+<p>https://www.bixpower.com/Battery-Cell-Chemistry-Comparison-s/2392.htm</p>
+<p>This is a very misleading unit. When a battery is rated with mAh or
+Ah, it should always associated with a voltage. A 10Ah @ 12V battery
+capacity is bigger than a 10Ah @ 5V battery. However, there are a lot
+lot of lithium batteries on market that do not state voltage when
+claim their mAh ( or Ah) capacity. In these cases, most likely they
+measure with lithium battery cell voltage, which is 3.6V or 3.7V. By
+time 3.6 (or 3.7), then divided by 1000, it will be its accurate
+Watt-hour capacity. For example, a 10,000mAh battery actual capacity
+is 10000 x 3.6 /1000 = 36 Watt-hour.</p>
+<p>Ex: my camping light, Fenix CL20R. It has 1600mAh battery. Voltage,
+not sure. It says it compares with 7 AAA batteries. Bats have 1.5 V,
+in series, 10.5 Volts.</p>
+<p>How long will my light last? Light level measured in lumens,</p>
+<p>300 lumens (6 hours)
+130 lumens (12 hours)
+40 lumens (20 hours)
+1 lumen (200 hours)</p>
+<p>I need Watts. How to convert to Watts?</p>
+<p>https://www.rapidtables.com/calc/light/how-lumen-to-watt.html</p>
+<p>LED lamp    80-100 lumens/W</p>
+<p>Then, 300 lumens = 3 W</p>
+<p>So, 1600 mah * 7 * 1.5 volts / 1000</p>
+<pre><code class="python">1600 * 7*1.5  / 1000
+</code></pre>
+
+<pre><code class="text">Out[1]: 16.8
+</code></pre>
+
+<p>16.9 Wh. We have 3W lumens, how long does it last?</p>
+<pre><code class="python">np.round(16.8 / 3, 2)
+</code></pre>
+
+<pre><code class="text">Out[1]: 5.6
+</code></pre>
+
+<p>Description seems correct. </p>
+        </section>          
+      </div>
+     <div id="container-dd74f296f8cfa448682e8519034dcf34"></div>
+    </body>
+</html>

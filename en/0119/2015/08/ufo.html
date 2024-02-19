@@ -1,0 +1,96 @@
+
+<html>
+  <head>
+      <meta charset='utf-8'>
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+      <script type="text/x-mathjax-config">MathJax.Hub.Config({  tex2jax: {inlineMath: [["$","$"]  ]}});</script>
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML-full">
+      </script>
+      <script async="async" data-cfasync="false" src="//pl22542243.profitablegatecpm.com/dd74f296f8cfa448682e8519034dcf34/invoke.js"></script>
+      <link rel="stylesheet" type="text/css" media="screen" href="/css/style.css">
+      <title>thirdwave</title>
+      <link rel="canonical" href="https://muratk5n.codeberg.page/en/" />
+    </head>        
+    <body>
+      <div id="header_wrap" class="outer">
+        <header class="inner">
+          <h1 id="project_title">
+            <a href="https://muratk5n.codeberg.page/en" style="text-decoration:none; color:inherit;">thirdwave</a>
+          </h1>
+          <font color="gray" size="2">Github Mirror</font>
+          <h2 id="project_tagline"></h2>          
+        </header>
+      </div>
+      <div id="main_content_wrap" class="outer">        
+        <section id="main_content" class="inner">
+<h1>UFOs</h1>
+<p>Do I believe in UFOs? Data does not allow for easy refutation of a UFO
+hypothesis. One good dataset [2] on UFO reportings, some code for a
+plot,</p>
+<pre><code>import pandas as pd, zipfile
+
+with zipfile.ZipFile('ufo.csv.zip', 'r') as z:
+   d = pd.read_csv(z.open('ufo.csv'),sep=',',parse_dates=['DateOccurred'])
+d = d.sort_index(by=['DateOccurred'])
+d = d[pd.isnull(d['DateOccurred']) == False]
+dates = d.DateOccurred.astype(str)
+dates = dates[dates!='nan']
+d['year'] = dates.apply(lambda x: datetime.strptime(x, '%Y-%m-%d').year)
+g = d.groupby('year').size()
+g[g.index&gt;1960].plot()
+</code></pre>
+
+<p>The plot is for yearly count of UFO reports,</p>
+<p><img alt="" src="test_01.png" /></p>
+<p>The dataset has UFO reports that go back to 1400s, with long
+descriptions of what people said when they reported the event. One
+sighting was recorded by a Confederate soldier during the Civil
+War. He thought it was a Union balloon but the thing he reported was
+moving too fast for a balloon. He must have thought "those damn
+Yankies and their tech!". I read all that with a general skepticism;
+One hypothesis I had was "UFO sightings increase with scifi becoming
+more accessible through media, people project their scifi fantasies
+onto the real world". Then the graph should've shown huge increase
+after the 60s/70s, it did not. There is a huge increase, but it is
+after 1992. What happened that year? Bill Clinton is elected as
+President. I don't know. Did the aliens started finding Earth more
+interesting because of Bill Clinton?  Weird. There is a drop at 2008 -
+well, Barack Obama is elected as President. Aliens lose interest after
+this time? Joking aside, I urge readers the test their own
+hypothesis'. Some more: Let's say UFO delusion effects a certain
+percent of the population, then with more people we'd have more
+sightings. Then why is there a fall after 2008? Or why isn't there an
+exponential rise (in parallel to population growth which is
+exponential) much earlier than 1992? Or, if UFO sightings are actually
+sightings of Air Force weirdo toys mistaken for UFOs, then why is
+there a fall during Reagan years?  The Gipper would've loved to fund
+that kind of tech.</p>
+<p><a name='nuforc'/></p>
+<p>NUFORC Dataset</p>
+<p>This dataset [3] contains over 80,000 reports of UFO sightings over
+the last century. Original data from [1]. The scrubbed version is
+below, </p>
+<p><a href="ufo.py">Code</a></p>
+<p><a href="ufo-out.html">Output</a></p>
+<p>Code filters out sightings before 2010, then downsamples to reduce the
+plotted points. </p>
+<p>US Per State Analysis, Ratio Comparison</p>
+<p>In this analysis, per state sightings ratio was compared to state's
+population ratio (to US total). A lot of people report a lot of
+sightings, but do some states report <em>more</em> sightings disproportionate
+to their population, indicating something mysterious..? Proportion
+ratio z-test was used to determine significance. For significant
+states, then calculated per-state sightings midpoint. Also plotted are
+known US nuclear missile bases (red circles).</p>
+<p><a href="ufo.py">Code</a></p>
+<p><a href="ufo-sig-out.html">Output</a></p>
+<p>References</p>
+<p>[1] https://www.kaggle.com/NUFORC/ufo-sightings</p>
+<p>[2] <a href="https://drive.google.com/uc?export=view&amp;id=16bC7IoJIE0VDqt2rt9wUW6e4MgLz1Q7w">UFO</a></p>
+<p>[3] <a href="https://drive.google.com/uc?export=view&amp;id=1Jho5cLnKqdwfooY9j_GuEj2tf3oO-LPT">NUFORC</a></p>
+        </section>          
+      </div>
+     <div id="container-dd74f296f8cfa448682e8519034dcf34"></div>
+    </body>
+</html>

@@ -1,0 +1,125 @@
+
+<html>
+  <head>
+      <meta charset='utf-8'>
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+      <script type="text/x-mathjax-config">MathJax.Hub.Config({  tex2jax: {inlineMath: [["$","$"]  ]}});</script>
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML-full">
+      </script>
+      <script async="async" data-cfasync="false" src="//pl22542243.profitablegatecpm.com/dd74f296f8cfa448682e8519034dcf34/invoke.js"></script>
+      <link rel="stylesheet" type="text/css" media="screen" href="/css/style.css">
+      <title>thirdwave</title>
+      <link rel="canonical" href="https://muratk5n.codeberg.page/en/" />
+    </head>        
+    <body>
+      <div id="header_wrap" class="outer">
+        <header class="inner">
+          <h1 id="project_title">
+            <a href="https://muratk5n.codeberg.page/en" style="text-decoration:none; color:inherit;">thirdwave</a>
+          </h1>
+          <font color="gray" size="2">Github Mirror</font>
+          <h2 id="project_tagline"></h2>          
+        </header>
+      </div>
+      <div id="main_content_wrap" class="outer">        
+        <section id="main_content" class="inner">
+<h1>Patent Codebook</h1>
+<p><a href="https://drive.google.com/open?id=1V3-TZNG5qBD5I2zO9kpdvzkzZzYhTYOL">File 1</a>,
+<a href="https://drive.google.com/open?id=16tJOCsiAopWaizVBH-7bUFhCSAE8FF7Y">File 2</a>,
+<a href="https://drive.google.com/open?id=1VGHOp5P6GyINU-NWSQqehNbjhVoPwIyP">File 3</a>,
+<a href="https://drive.google.com/open?id=1n535aApoBMp8k2zAbX3hBB-ctY9hFIOf">File 4</a>,
+<a href="https://drive.google.com/open?id=1kWC0FLJR3sLNOcpwIEn1tYzz79LoE-F5">File 5</a>,
+<a href="https://drive.google.com/open?id=1KVCmmwCJoFm7yD_zvX-DkK2qY68t4HYx">File 6</a>,
+<a href="https://drive.google.com/open?id=11_5HWHr4nfDYiY3WUEHkjd3a4VgaCkr9">File 7</a></p>
+<p>TFP is total factor productivity - the portion of output not explained
+ by the amount of inputs used in production. As such, its level is
+determined by how efficiently and intensely the inputs are utilized in
+production.</p>
+<p>Needs Python 3</p>
+<p>Do <code>pip install linearmodels</code></p>
+<pre><code class="python">import pandas as pd
+dfcomp = pd.read_stata('compinn_BLS.dta')
+dfpi = pd.read_stata('CapitalRentalPriceIndex2000.dta')
+dfcs = pd.read_stata('PatentsCompustatImportsRPI.dta')
+print (dfpi.columns)
+print (dfcomp.columns)
+print (dfcs.columns)
+</code></pre>
+
+<pre><code>Index([u'naics', u'yr1987', u'yr1988', u'yr1989', u'yr1990', u'yr1991',
+       u'yr1992', u'yr1993', u'yr1994', u'yr1995', u'yr1996', u'yr1997',
+       u'yr1998', u'yr1999', u'yr2000', u'yr2001', u'yr2002', u'yr2003',
+       u'yr2004', u'yr2005', u'yr2006', u'yr2007'],
+      dtype='object')
+Index([u'NAICS', u'year', u'lab_hrs', u'cap', u'cap_sh', u'cap_ind', u'mat',
+       u'mat_sh', u'def', u'lab', u'lab_sh', u'tfp', u'lab_pr', u'out_ind',
+       u'output', u'import', u'imp_problem', u'cap_stock', u'imp_pen',
+       u'impdef', u'lnimp', u'lnimpdef', u'lntfp', u'lnlab_pr'],
+      dtype='object')
+Index([u'year', u'conm', u'oiadp', u'oibdp', u'ppegt', u'ppent', u'sale',
+       u'xad', u'xrd', u'sich', u'sic', u'gvkey', u'allpats', u'allcites',
+       u'allcites_cor', u'allnscites', u'allnscites_cor', u'gvkeyag',
+       u'gallpats', u'gallcites', u'gallcites_cor', u'gallnscites',
+       u'gallnscites_cor', u'gmtchflg', u'sic4', u'imports', u'merge_comp_imp',
+       u'emp', u'pay', u'prode', u'prodh', u'prodw', u'vship', u'matcost',
+       u'vadd', u'invest', u'invent', u'energy', u'cap', u'equip', u'plant',
+       u'piship', u'pimat', u'piinv', u'pien', u'dtfp5', u'tfp5', u'dtfp4',
+       u'tfp4', u'share', u'merge_compimp_nber', u'naics6', u'naics4',
+       u'naics3', u'naics2', u'crp4', u'crp3', u'crp2', u'crp_index'],
+      dtype='object')
+</code></pre>
+
+<pre><code class="python">dfcs2 = dfcs[['year','allpats','tfp4','naics4']].dropna()
+from linearmodels import PanelOLS
+dfcs3 = dfcs2.set_index(['year','naics4'])
+mod = PanelOLS(dfcs3.tfp4, dfcs3[['allpats']], entity_effects=True)
+res = mod.fit(cov_type='clustered', cluster_entity=True)
+print (res)
+</code></pre>
+
+<pre><code>                          PanelOLS Estimation Summary                           
+================================================================================
+Dep. Variable:                   tfp4   R-squared:                        0.0058
+Estimator:                   PanelOLS   R-squared (Between):              0.0439
+No. Observations:               57314   R-squared (Within):               0.0058
+Date:                Mon, Oct 15 2018   R-squared (Overall):              0.0140
+Time:                        21:55:07   Log-likelihood                -1.569e+05
+Cov. Estimator:             Clustered                                           
+                                        F-statistic:                      334.66
+Entities:                          37   P-value                           0.0000
+Avg Obs:                       1549.0   Distribution:                 F(1,57276)
+Min Obs:                       76.000                                           
+Max Obs:                       2328.0   F-statistic (robust):             18.063
+                                        P-value                           0.0000
+Time periods:                      81   Distribution:                 F(1,57276)
+Avg Obs:                       707.58                                           
+Min Obs:                       2.0000                                           
+Max Obs:                       8456.0                                           
+
+                             Parameter Estimates                              
+==============================================================================
+            Parameter  Std. Err.     T-stat    P-value    Lower CI    Upper CI
+------------------------------------------------------------------------------
+allpats        0.0044     0.0010     4.2501     0.0000      0.0023      0.0064
+==============================================================================
+
+F-test for Poolability: 114.44
+P-value: 0.0000
+Distribution: F(36,57276)
+</code></pre>
+
+<pre><code class="python">print (dfcs3.allpats.mean())
+print (dfcs3.tfp4.mean())
+print (dfcs3.tfp4.std())
+</code></pre>
+
+<pre><code>10.96653522699515
+1.6352721
+3.8797197
+</code></pre>
+        </section>          
+      </div>
+     <div id="container-dd74f296f8cfa448682e8519034dcf34"></div>
+    </body>
+</html>

@@ -1,0 +1,78 @@
+
+<html>
+  <head>
+      <meta charset='utf-8'>
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+      <script type="text/x-mathjax-config">MathJax.Hub.Config({  tex2jax: {inlineMath: [["$","$"]  ]}});</script>
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML-full">
+      </script>
+      <script async="async" data-cfasync="false" src="//pl22542243.profitablegatecpm.com/dd74f296f8cfa448682e8519034dcf34/invoke.js"></script>
+      <link rel="stylesheet" type="text/css" media="screen" href="/css/style.css">
+      <title>thirdwave</title>
+      <link rel="canonical" href="https://muratk5n.codeberg.page/en/" />
+    </head>        
+    <body>
+      <div id="header_wrap" class="outer">
+        <header class="inner">
+          <h1 id="project_title">
+            <a href="https://muratk5n.codeberg.page/en" style="text-decoration:none; color:inherit;">thirdwave</a>
+          </h1>
+          <font color="gray" size="2">Github Mirror</font>
+          <h2 id="project_tagline"></h2>          
+        </header>
+      </div>
+      <div id="main_content_wrap" class="outer">        
+        <section id="main_content" class="inner">
+<h1>Drugs</h1>
+<h3>Routes</h3>
+<p>Data comes from UNODC, apparently based on law enforcement data on
+individual arrests between 2011-2016. If they caught the smuggling en
+route from-to-country they are usually recorded. Sometimes source,
+target is missing, but if they recorded the production country, code
+takes that as source, if destination is missing, country of arrest is
+used.</p>
+<p>Report treats the weights of all drugs as equivalent, they are summed
+per route, to give a general idea of the importance of each
+route. Code also multiplies tablet based drugs with 100 mg per tablet,
+to turn them into a kilo weight. Cannabis arrests are removed to focus
+on harder drugs.</p>
+<p>Routes are drawn from country's center coordinate to another's center
+coordinate, so the places seen at end points of routes are nothing
+special (not cities, nor ports).</p>
+<p>A quick sum on transport method during arrest;</p>
+<pre><code class="python">import zipfile, pandas as pd
+
+with zipfile.ZipFile('drug-trafficking-unodc.zip', 'r') as z:
+    df = pd.read_csv(z.open('drug-trafficking-unodc.csv'),sep=';')
+    print (df.groupby('TRANSPORT').size().sort_values(ascending=False))
+</code></pre>
+
+<pre><code class="text">TRANSPORT
+Commercial air     19137
+Land                8933
+Private road        6933
+Other               5942
+Commercial road     3471
+Unknown             2833
+Commercial sea      1021
+Mail                 924
+None                 534
+Rail                 368
+Private air           57
+River                 30
+Private sea           24
+Pedestrian            16
+Air                    6
+dtype: int64
+</code></pre>
+
+<p><a href="https://dataunodc.un.org/ids">Data Source</a></p>
+<p><a href="drug-trafficking-unodc.zip">Data (ZIP)</a></p>
+<p><a href="drugs.py">Code</a></p>
+<p><a href="drugs-out.html">Output</a></p>
+        </section>          
+      </div>
+     <div id="container-dd74f296f8cfa448682e8519034dcf34"></div>
+    </body>
+</html>

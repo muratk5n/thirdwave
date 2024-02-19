@@ -1,0 +1,83 @@
+
+<html>
+  <head>
+      <meta charset='utf-8'>
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+      <script type="text/x-mathjax-config">MathJax.Hub.Config({  tex2jax: {inlineMath: [["$","$"]  ]}});</script>
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML-full">
+      </script>
+      <script async="async" data-cfasync="false" src="//pl22542243.profitablegatecpm.com/dd74f296f8cfa448682e8519034dcf34/invoke.js"></script>
+      <link rel="stylesheet" type="text/css" media="screen" href="/css/style.css">
+      <title>thirdwave</title>
+      <link rel="canonical" href="https://muratk5n.codeberg.page/en/" />
+    </head>        
+    <body>
+      <div id="header_wrap" class="outer">
+        <header class="inner">
+          <h1 id="project_title">
+            <a href="https://muratk5n.codeberg.page/en" style="text-decoration:none; color:inherit;">thirdwave</a>
+          </h1>
+          <font color="gray" size="2">Github Mirror</font>
+          <h2 id="project_tagline"></h2>          
+        </header>
+      </div>
+      <div id="main_content_wrap" class="outer">        
+        <section id="main_content" class="inner">
+<h1>World Trade, Import/Exports</h1>
+<p>BACI dataset [1] provides data on bilateral trade flows for 200
+countries at the product level (5000 products). Used the
+BACI_HS17_V202201.zip file, processed it for 2019 using code below. As
+each country-dyad-product is processed line by line, the code creates
+a relation matrix, if there is trade between country <code>i</code> and <code>j</code> its
+value is added in <code>A[i,j]</code> for each product. First analysis simply
+sums all product trades at bilateral level, to create a trade flow
+number between two countries. To keep visualization simple, exports
+and imports are added to each other.</p>
+<p>With the final relation matrix, first simple counts,</p>
+<pre><code class="python">import scipy.io as io
+A = io.mmread(&quot;/tmp/A-final&quot;).tolil()
+rows,cols = A.nonzero()
+print (len(rows))
+vals = np.array([A[row,col] for row,col in zip(rows,cols)])
+</code></pre>
+
+<pre><code class="text">16752
+</code></pre>
+
+<p>Naturally all country pairs do not trade; out of approx 400K relations
+we have 16K relations.</p>
+<pre><code class="python">mean,std = np.mean(vals),np.std(vals)
+np.round(mean/1e6,2),np.round(std/1e6,2)
+</code></pre>
+
+<pre><code class="text">Out: 1.08 10.79
+</code></pre>
+
+<p>Which trade links are above, below average,</p>
+<pre><code class="python">hv = vals[vals &lt; mean]
+print (np.count_nonzero(hv))
+hv = vals[vals &gt; mean]
+print (np.count_nonzero(hv))
+hv = vals[vals &gt; mean+4*std]
+print (np.count_nonzero(hv))
+</code></pre>
+
+<pre><code class="text">15339
+1413
+73
+</code></pre>
+
+<p>Trade is highly skewed; many countries trade below average, few are
+above average. Some, a massive 4 sigma's away from average comprise the
+trading countries we hear about eveyday, US, China, Germany, etc. An
+interactive map of the extraordinary flows is below.</p>
+<p><a href="trade-out.html">Output</a></p>
+<p><a href="baci.py">Code</a></p>
+<p>Reference</p>
+<p>[1] <a href="http://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele_item.asp?id=37">BACI</a>, International Trade Database at the Product-Level.</p>
+        </section>          
+      </div>
+     <div id="container-dd74f296f8cfa448682e8519034dcf34"></div>
+    </body>
+</html>

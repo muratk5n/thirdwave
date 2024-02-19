@@ -1,0 +1,154 @@
+
+<html>
+  <head>
+      <meta charset='utf-8'>
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+      <script type="text/x-mathjax-config">MathJax.Hub.Config({  tex2jax: {inlineMath: [["$","$"]  ]}});</script>
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML-full">
+      </script>
+      <script async="async" data-cfasync="false" src="//pl22542243.profitablegatecpm.com/dd74f296f8cfa448682e8519034dcf34/invoke.js"></script>
+      <link rel="stylesheet" type="text/css" media="screen" href="/css/style.css">
+      <title>thirdwave</title>
+      <link rel="canonical" href="https://muratk5n.codeberg.page/en/" />
+    </head>        
+    <body>
+      <div id="header_wrap" class="outer">
+        <header class="inner">
+          <h1 id="project_title">
+            <a href="https://muratk5n.codeberg.page/en" style="text-decoration:none; color:inherit;">thirdwave</a>
+          </h1>
+          <font color="gray" size="2">Github Mirror</font>
+          <h2 id="project_tagline"></h2>          
+        </header>
+      </div>
+      <div id="main_content_wrap" class="outer">        
+        <section id="main_content" class="inner">
+<h1>Police, Crime in US</h1>
+<p><a name='allshoot'/></p>
+<h3>People Shot By the Police</h3>
+<p>Data is from WaPo Github <a href="https://github.com/washingtonpost/data-police-shootings">repo</a>.</p>
+<p>All Deaths by Police Shootings, by Race</p>
+<pre><code class="python">import pandas as pd
+
+f = 'https://raw.githubusercontent.com/washingtonpost/data-police-shootings/master/v2/fatal-police-shootings-data.csv'
+df = pd.read_csv(f)
+df['year'] = pd.to_datetime(df['date']).dt.year
+df['race'] = df['race'].fillna('O')
+g = df.groupby(['year','race']).size().reset_index()
+g = g.set_index(['year','race']).unstack(level=1)[0]
+g.plot.bar(stacked=True)
+plt.savefig('allshoot.png')
+</code></pre>
+
+<p>A: Asian, B: Black, H: Hispanic, N: Native Am, O: Other, W: White</p>
+<p><img alt="" src="allshoot.png" /></p>
+<p><a name='unarmed'/></p>
+<p>Unarmed People Shot by the Police</p>
+<pre><code class="python">df = pd.read_csv(f)
+df['year'] = pd.to_datetime(df['date']).dt.year
+df1 = df[(df.race != 'W') &amp; (df.armed == 'unarmed')]
+df1.groupby('year').size().plot()
+df2 = df[(df.race == 'W') &amp; (df.armed == 'unarmed')]
+df2.groupby('year').size().plot()
+plt.legend(['Non-white','White'])
+plt.savefig('unarmed.png')
+</code></pre>
+
+<p><img alt="" src="unarmed.png" /></p>
+<p><a name='usgun'/></p>
+<h3>US Gun Violence</h3>
+<p>Data came from the <a href="https://www.gunviolencearchive.org/reports">Gun Violence Archive</a>,
+see data for "mass shootings - all years". Plot is monthly incidents and deaths.</p>
+<pre><code class="python">import pandas as pd, zipfile
+pd.set_option('display.max_columns', None)
+df =  pd.read_csv('us-mass-shootings.csv')
+df['Date'] = df.apply(lambda x: pd.to_datetime(x['Incident Date']), axis=1)
+df['DateYM'] = df.apply(lambda x: &quot;%d%02d&quot; % (x['Date'].year, x['Date'].month), axis=1)
+g = df.groupby('DateYM').agg({'Incident ID':'count', 'Victims Killed': 'sum'})
+g['# Killed (Avg)'] = g['Victims Killed'].rolling(10).mean()
+g = g.interpolate(limit_direction='both')
+g = g.rename(columns={&quot;Incident ID&quot;: &quot;Incidents&quot;})
+print (g.tail(5))
+g.plot()
+plt.savefig('gunvio.png')
+</code></pre>
+
+<pre><code class="text">        Incidents  Victims Killed  # Killed (Avg)
+DateYM                                           
+202304         56              64            58.3
+202305         79              80            60.1
+202306         67              60            60.2
+202307         86              70            62.2
+202308         52              43            58.4
+</code></pre>
+
+<p><img alt="" src="gunvio.png" /></p>
+<p><a name='fbi'/></p>
+<h3>FBI Crime Data, UCR</h3>
+<p>The FBI site [4] and data.gov API publishes crime data. Data from the
+first the so-called "Table 8" is for 1999-2019. The rest from the API,
+see the zip below [3]. The xls to csv conversion code is in <code>util.py</code>.</p>
+<p>In order to retrieve an entire year from the API data is retrieved for
+each agency (PDs), the master list is in <code>agencies.csv</code>. Sign-up and
+get the key [2].</p>
+<p>Example,</p>
+<pre><code class="python">import requests, json
+
+agency = &quot;AL0010100&quot; # Bessemer Police Department
+year = 2019
+
+key = open(&quot;../../0119/2019/05/.key/.datagov&quot;).read()
+url = &quot;https://api.usa.gov/crime/fbi/sapi/api/summarized/agencies/%s/offenses/%d/%d?api_key=%s&quot; % (agency,year,year,key)
+response = requests.get(url)
+res = json.loads(response.text)
+res['results'][0]
+</code></pre>
+
+<pre><code class="text">Out[1]: 
+{'ori': 'AL0010100',
+ 'data_year': 2019,
+ 'offense': 'aggravated-assault',
+ 'state_abbr': 'AL',
+ 'cleared': 3,
+ 'actual': 319,
+ 'data_range': None}
+</code></pre>
+
+<pre><code class="python">res['results'][1]
+</code></pre>
+
+<pre><code class="text">Out[1]: 
+{'ori': 'AL0010100',
+ 'data_year': 2019,
+ 'offense': 'arson',
+ 'state_abbr': 'AL',
+ 'cleared': 0,
+ 'actual': 0,
+ 'data_range': None}
+</code></pre>
+
+<p>Crime Rates</p>
+<pre><code class="python">import fbi
+df = fbi.crime_annual_summary(['homicide','rape','robbery','aggravated-assault'])
+df.rate.plot(title='US Crime Rate Per 100k People')
+plt.savefig('rate1.png')
+</code></pre>
+
+<p><img alt="" src="rate1.png" /></p>
+<pre><code class="python">df = fbi.crime_annual_summary(['burglary','larceny','motor-vehicle-theft','arson'])
+df.rate.plot(title='US Crime Rate Per 100k People')
+plt.savefig('rate2.png')
+</code></pre>
+
+<p><img alt="" src="rate2.png" /></p>
+<p>References</p>
+<p>[1] <a href="https://crime-data-explorer.fr.cloud.gov/pages/docApi">FBI</a></p>
+<p>[2] <a href="https://api.data.gov/signup/">Data.gov signup</a></p>
+<p>[3] <a href="https://drive.google.com/uc?export=view&amp;id=1v1oYTeH7wQpnB-Cy1XxEKie72hpqv6GS">Data</a> (zip, 10 MB)</p>
+<p>[4] <a href="https://ucr.fbi.gov/crime-in-the-u.s/">FBI, Crime in the US</a></p>
+        </section>          
+      </div>
+     <div id="container-dd74f296f8cfa448682e8519034dcf34"></div>
+    </body>
+</html>

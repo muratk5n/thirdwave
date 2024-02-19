@@ -1,0 +1,221 @@
+
+<html>
+  <head>
+      <meta charset='utf-8'>
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+      <script type="text/x-mathjax-config">MathJax.Hub.Config({  tex2jax: {inlineMath: [["$","$"]  ]}});</script>
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML-full">
+      </script>
+      <script async="async" data-cfasync="false" src="//pl22542243.profitablegatecpm.com/dd74f296f8cfa448682e8519034dcf34/invoke.js"></script>
+      <link rel="stylesheet" type="text/css" media="screen" href="/css/style.css">
+      <title>thirdwave</title>
+      <link rel="canonical" href="https://muratk5n.codeberg.page/en/" />
+    </head>        
+    <body>
+      <div id="header_wrap" class="outer">
+        <header class="inner">
+          <h1 id="project_title">
+            <a href="https://muratk5n.codeberg.page/en" style="text-decoration:none; color:inherit;">thirdwave</a>
+          </h1>
+          <font color="gray" size="2">Github Mirror</font>
+          <h2 id="project_tagline"></h2>          
+        </header>
+      </div>
+      <div id="main_content_wrap" class="outer">        
+        <section id="main_content" class="inner">
+<h1>Good Reductionism and Nonlinear Power</h1>
+<p><em>Das Ganze ist etwas anderes als die Summe seiner Teile</em> (the whole
+is something else than the sum of its parts) -- Kurt Koffka</p>
+<p>I hear criticisms using the words "oh but that's too reductionist" on
+analysis' that involve breaking an issue into individual
+components.. This criticism is usually misguided and I will try to
+outline why. Such criticism misses the interaction, and in the reverse
+direction, the power that results due to the combination of those
+pieces, that gave us much of the modern world today. It's key we
+understand both sides of this equation.</p>
+<p>Systems</p>
+<p>There are many systems, some mechanical, some social. In such systems
+we see pieces, but how are they held together? How were they added?
+<em>Linear</em> addition of components is uninteresting.. They are simple to
+see, and frankly will not achieve much beyond their domain.  Twice of
+something that do X, can do 2X. I have A, add B, I get A+B. There is
+nothing to this. The analysis and creation of such mechanisms yield
+average results.</p>
+<p>However when scientists analyze interesting systems, or engineers
+build them, what they look for is individual components, yes, but also
+the <em>nonlinear ways</em> they can interact. It is this interaction that
+leads to power.</p>
+<p>Let's look at the way the V-engine shaft turns,</p>
+<p><img alt="" src="vengine.png" /></p>
+<p>It is a simple rotation. One shaft. There are two other rods connected
+to it. But look at how that connection is made, at different
+angles. Rotation, easy. Connecting, easy. Rods, easy. But connect two,
+to the same shaft, at angle, gives you this,</p>
+<p><a href="https://drive.google.com/uc?export=view&amp;id=18wE8NaHsydycnITM_OGuDX3WMrjndPgN">Video</a></p>
+<p>We just created an orderly movement, one push after another, and guaranteed
+certain force, using simple components.</p>
+<p>What if I wanted to create a push action at different intervals, not
+just regular?</p>
+<p>I immediately try to think of simple constituents, and try to achieve
+nonlinearity through their interactions.. Simple rotation. Simple
+rod. But the rotating object is not round, has certain nonlinear shape
+which is how it interacts with the rod, and that in turn gets pushed
+in an interval I want.</p>
+<p><a href="diff-rhytm.gif">Video</a></p>
+<p>Another subject, one I studied closely, optimization. In this subject,
+we run our algorithms on funky 3D shapes that are famous for having
+many ups and downs, we want tricky shapes bcz the minima searching
+algs usually looks to its nearby region, we want to see if they will
+"fall" into one of those holes and get stuck there. So the subject
+over the years zoned in to a few of those funky shapes as example
+shapes that are the result of short, simple formulas (great, easy to
+code).  Here is one of them, called the Hölder table function,</p>
+<pre><code class="python">import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from mpl_toolkits.mplot3d import Axes3D    
+from matplotlib import cm
+
+L = 5
+x = np.linspace(-L, L, 100)
+y = np.linspace(-L, L, 100)
+X, Y = np.meshgrid(x, y)                            
+Z = -np.abs( np.sin(X)*np.cos(Y)*np.exp(np.abs( 1- np.sqrt(X**2+Y**2)/np.pi  ))  )
+
+fig = plt.figure()
+ax = fig.gca(projection='3d')                      
+surf = ax.plot_surface(X, Y, Z, cmap=cm.viridis)
+plt.savefig('out.png')
+</code></pre>
+
+<p><img alt="" src="holder.png" /></p>
+<p>Its formula, for $f(x,y)$</p>
+<p>$$
+- \bigg|
+\sin(x) \cos(y) \exp \left( \bigg| 1 - \frac{\sqrt(x^2+y^2)}{\pi}  \bigg| \right)
+\bigg| 
+$$</p>
+<p>Short and sweet. There is a boring cosine, boring sine, x and y,
+booring, and a few additions.. But pay attention to how are these
+components put together; Nonlinearly. Sine <em>times</em> cosine, <em>squared</em> x
+and y, only <em>then</em> added. The result is "the table" we see, nothing
+that we could have guessed by just looking at the individual
+components.. The whole is something else other than the sum of its
+parts, entirely (by sum of course I mean linear sum)</p>
+<p>Music</p>
+<p>Same goes with music. Here are <a href="bts.html">the components</a> that make up
+K-Pop band BTS's song Dynamite, written by the British composer David
+Stewart [2].</p>
+<p>Simple, boring tracks. But they are crafted in a certain way, to fit
+in a certain way, so when they are finally placed together, the result,</p>
+<p><audio controls="controls">
+  <source src="https://drive.google.com/uc?export=view&id=1MzNva_prkzCmM2O3FmhtotyOtU1AtHvD">
+</audio></p>
+<p>Fantastic. Or I remember when I first heard to Stevie Wonder's
+<em>Supersitition</em>, I was similarly impressed to notice its tracks, its
+components, made up the whole song, remarkably genius work.</p>
+<p>Social Implications</p>
+<p>In the case of social systems the components are humans themselves or
+human groups. Democracies deliver better results than authoracies, bcz
+they allow individual groups (parties) to form around possible
+solutions, which then come together in myriad ways to govern. This
+process was in fact the perfect example of nonlinear interactions of
+simple, focused components.. I join a party arguing for high taxes,
+some in low, our oscillations in and out of gov, sometimes together,
+lands us in an optimal solution. We pursued our simple, focused view,
+came together in certain ways that led us somewhere: an acceptable solution.</p>
+<p>We have to admit the West has been a good follower of these ideas. The
+East, with the exception of perhaps India, and a few Asian
+democracies, still does not get IT. China fears the components (ie its
+citizens), how they can come together, so opresses their interactions,
+and the human elements themselves. These countries are stuck in First
+Wave agrarian mentality, where X + X got you 2X. More land, more
+peasants, more produce. The-whole-large-than-the-sum-of-parts is
+ignored which is a genuine source of power. This is how the British
+came to dominate the seas in the 18/19th centuries, their biggest
+trick was combining a clock, with a reference point and simple math
+that gets you the correct longitude, with simple latitude
+info gave te ships their precise locations on Earth. Developing
+countries wld be served well to understand this process. Many a times
+"copy the final product" approach is chosen, where the final sum is
+bizarrely divvied up. In essence this way ends up creating that weird
+uber-guitar just for one song, that when one of its hundreds of
+strings is plucked, will play the 50th second of <em>Superstition</em>, with
+all its sounds. A ridiculuous concoction, to be sure, but does not
+stop some from trying.</p>
+<p>Addend 1</p>
+<p>Philosophers stumbled upon on the idea at times in the East; Ghazali
+said "you combine something with something else, you get a third
+thing". He was aware of combinations, but did not offer further
+formulation. His pin factory studies seperate competencies, types of
+workers working on different part of a product, but he thought overall
+efficiency was achieved because same people working on the same type
+of problem made them faster thereby improving the overall
+efficiency.. This means he missed the point entirely, the power lies
+not simple addition of the components however good they might be, it
+lies in their interactions, how they jell with another, and the myriad
+ways they can produce a solution.</p>
+<p>Addend 2</p>
+<p>The West can experience misplaced fear, at least, in a subconcious
+level of the "sum". The fear of
+<a href="../../2020/07/robot-frankenstein.html">Frankenstein</a>, in general of industry,
+now of AI is an example, as a society it has seen how the
+greater-whole approach displayed much power, and sure, deep net neural
+"AI" solutions are composed of such simple things, neurons but what is
+missed here that such combinations need to be crafted, very carefully,
+for every problem (or channeled as in case of social systems through
+institutions, as in the party system for democracies), which makes it
+hard for any system going "productively berserk", or even step outside
+its programming in malicious ways.</p>
+<p>Addend 3</p>
+<p>When scientists analyze complex systems, and if they came up with
+simple additive looking results, we need to be careful, look beyond
+it, and see if they used nonlinearity elsewhere. $u_x + u_t = 0$ might
+seem an seem inocuous looking statement, but that subscript hides
+concepts from differential calculus that took centuries to perfect. So
+scientists sometimes smush, twist, bend a problem to get a "linear
+superposition", but lest we be mistaken, there will be much
+nonlinearity hidden in the path of getting there. It's like taking the
+log of exponential data that gives you a simple, straight line. The
+act of taking the log, and recognizing the exponential curve is what
+gave us that final "linearity".</p>
+<p><a name='addend4'/></p>
+<p>Addend 4</p>
+<p>Individual pieces in a solution are simple, but let's not mistake
+simple for dumb. Better word to describe the pieces would be
+<em>fundamental</em>, simple but no simpler. They also are sufficiently
+different from one another.. Sine function is different from
+cosine. Left is different from right. Both help to cover a different
+aspect of a problem, when combined, deliver the final solution.</p>
+<p>Question</p>
+<p>"I read somewhere that Calculus is all about dividing something into
+pieces and putting it back together.. In terms of the basis of
+innovation, doesn't that sound like simple addition?"</p>
+<p><a name='circle'/></p>
+<p>Not necessarily.. Take the discovery of circle area formula. [3] talks
+about how Archimedes discovered it; he divided a circle into pieces
+then put them back together and he realized combining even smaller,
+and smaller pieces would give you a rectangle whose sides correspond
+to the circle. And since rectangle area is easy to calculate ($C=2\pi
+r$ obviously), from there circle area calc wld be easy, plug in we get
+$\pi r^2$, a major innovation at the time.</p>
+<p><img width="200" src="circle.jpg"/></p>
+<p>But notice how he puts the pieces back together, he flips <em>every other
+piece</em>. He doesnt just cut the circle into pieces and put the pieces
+back toegether as-is. That just gives you the same circle! But
+flipping every other piece.. now we're getting somewhere. How do u
+encode that action..? If +1/-1 encodes up and down direction, $-1^n$
+for $n=1,2,..$? I smell nonlinearity..</p>
+<p>Also notice up pieces are different then down pieces, in terms of how
+they contribute to the overall solution, each cover a different aspect
+of the problem. They are fundamental and different.</p>
+<p>References</p>
+<p>[1] <a href="https://en.wikipedia.org/wiki/Test_functions_for_optimization">Test functions</a></p>
+<p>[2] <a href="https://youtu.be/qBCM1Fy-ByY?t=33">The Making of BTS Dynamite</a></p>
+<p>[3] Strogatz, <em>Infinite Powers</em></p>
+        </section>          
+      </div>
+     <div id="container-dd74f296f8cfa448682e8519034dcf34"></div>
+    </body>
+</html>

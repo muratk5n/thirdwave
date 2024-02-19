@@ -1,0 +1,87 @@
+
+<html>
+  <head>
+      <meta charset='utf-8'>
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+      <script type="text/x-mathjax-config">MathJax.Hub.Config({  tex2jax: {inlineMath: [["$","$"]  ]}});</script>
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML-full">
+      </script>
+      <script async="async" data-cfasync="false" src="//pl22542243.profitablegatecpm.com/dd74f296f8cfa448682e8519034dcf34/invoke.js"></script>
+      <link rel="stylesheet" type="text/css" media="screen" href="/css/style.css">
+      <title>thirdwave</title>
+      <link rel="canonical" href="https://muratk5n.codeberg.page/en/" />
+    </head>        
+    <body>
+      <div id="header_wrap" class="outer">
+        <header class="inner">
+          <h1 id="project_title">
+            <a href="https://muratk5n.codeberg.page/en" style="text-decoration:none; color:inherit;">thirdwave</a>
+          </h1>
+          <font color="gray" size="2">Github Mirror</font>
+          <h2 id="project_tagline"></h2>          
+        </header>
+      </div>
+      <div id="main_content_wrap" class="outer">        
+        <section id="main_content" class="inner">
+<h1>Population Growth, Demographics, Economics</h1>
+<p><a href="https://open.lib.umn.edu/principleseconomics/chapter/33-2-population-growth-and-economic-development">Link</a></p>
+<p>"[Graph below] plots growth rates in population versus growth rates in
+per capita GDP from 1975 to 2005 for more than 100 developing
+countries. We do not see a simple relationship. Many countries
+experienced both rapid population growth and negative changes in real
+per capita GDP. But still others had relatively rapid population
+growth, yet they had a rapid increase in per capita GDP. Clearly,
+there is more to achieving gains in per capita income than a simple
+slowing in population growth"</p>
+<p><img alt="" src="popgr1.jpg" /></p>
+<p>Data</p>
+<p>I did some data wrangling below, for US, JP, Oz. I fetched working age
+population, total population, and GDP; then I plot working age pop
+ratio, against GDP per capita.</p>
+<pre><code class="python"># FRED 'LFWA64TTUSM647S','POPTHM','GDPC1','LFWA64TTJPM647S','POPTOTJPA647NWDB',
+# 'JPNRGDPEXP','LFWA64TTAUM647N','POPTOTAUA647NWDB','NGDPRSAXDCAUQ']
+
+import pandas as pd
+df = pd.read_csv('pop_wage_gdp.csv',index_col=0,parse_dates=True)
+
+plt.clf()
+df['us_wa'] = df.us_wapop / (df.us_pop*10)
+df['us_gdpcap'] = df.us_rgdp*1000000 / df.us_pop
+ax1 = df.us_wa.plot(color='blue', grid=True, label='working age')
+ax2 = df.us_gdpcap.plot(color='red', grid=True, label='gdp per cap',secondary_y=True)
+h1, l1 = ax1.get_legend_handles_labels()
+h2, l2 = ax2.get_legend_handles_labels()
+plt.title('USA')
+plt.legend(h1+h2, l1+l2, loc=2)
+
+plt.clf()
+df['jp_wa'] = df.jp_wapop*100 / (df.jp_pop)
+df['jp_gdpcap'] = df.jp_rgdp*10000000 / df.jp_pop
+ax1 = df.jp_wa.plot(color='blue', grid=True, label='working age')
+ax2 = df.jp_gdpcap.plot(color='red', grid=True, label='gdp per cap',secondary_y=True)
+h1, l1 = ax1.get_legend_handles_labels()
+h2, l2 = ax2.get_legend_handles_labels()
+plt.legend(h1+h2, l1+l2, loc=2)
+plt.title('Japan')
+
+plt.clf()
+df['au_wa'] = df.au_wapop*100 / (df.au_pop)
+df['au_gdpcap'] = df.au_rgdp*1000000 / df.au_pop
+ax1 = df.au_wa.plot(color='blue', grid=True, label='working age')
+ax2 = df.au_gdpcap.plot(color='red', grid=True, label='gdp per cap',secondary_y=True)
+h1, l1 = ax1.get_legend_handles_labels()
+h2, l2 = ax2.get_legend_handles_labels()
+plt.title('Australia')
+plt.legend(h1+h2, l1+l2, loc=2)
+</code></pre>
+
+<p><img alt="" src="out1.png" /></p>
+<p><img alt="" src="out2.png" /></p>
+<p><img alt="" src="out3.png" /></p>
+<p>The graphs above did not seem to display any meaningful correlation.</p>
+        </section>          
+      </div>
+     <div id="container-dd74f296f8cfa448682e8519034dcf34"></div>
+    </body>
+</html>

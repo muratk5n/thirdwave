@@ -1,0 +1,140 @@
+
+<html>
+  <head>
+      <meta charset='utf-8'>
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+      <script type="text/x-mathjax-config">MathJax.Hub.Config({  tex2jax: {inlineMath: [["$","$"]  ]}});</script>
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML-full">
+      </script>
+      <script async="async" data-cfasync="false" src="//pl22542243.profitablegatecpm.com/dd74f296f8cfa448682e8519034dcf34/invoke.js"></script>
+      <link rel="stylesheet" type="text/css" media="screen" href="/css/style.css">
+      <title>thirdwave</title>
+      <link rel="canonical" href="https://muratk5n.codeberg.page/en/" />
+    </head>        
+    <body>
+      <div id="header_wrap" class="outer">
+        <header class="inner">
+          <h1 id="project_title">
+            <a href="https://muratk5n.codeberg.page/en" style="text-decoration:none; color:inherit;">thirdwave</a>
+          </h1>
+          <font color="gray" size="2">Github Mirror</font>
+          <h2 id="project_tagline"></h2>          
+        </header>
+      </div>
+      <div id="main_content_wrap" class="outer">        
+        <section id="main_content" class="inner">
+<h1>Conflict Statistics</h1>
+<h3>UCDP/PRIO Armed Conflict Dataset</h3>
+<p><a href="https://ucdp.uu.se/downloads/">Data</a></p>
+<p>Deaths, Incidences, Globally</p>
+<pre><code class="python">import pandas as pd
+
+def overall_deaths(mon):
+   url = 'https://ucdp.uu.se/downloads/candidateged/GEDEvent_v22_0_%d.csv' % mon
+   df = pd.read_csv(url)
+   g = df[['country','deaths_b']].\
+       groupby(['country']).\
+       agg({'country':'count', 'deaths_b': 'sum'})
+   g.columns = ['incidents','deaths']
+   return g.sort_values('deaths',ascending=False)
+
+print (overall_deaths(mon=6).head(20))
+</code></pre>
+
+<pre><code class="text">                          incidents  deaths
+country                                    
+Nigeria                          90     180
+Ukraine                         408     128
+Somalia                          17     116
+Iraq                             25     109
+Ethiopia                         11      73
+Myanmar (Burma)                 117      71
+Mali                             34      67
+Burkina Faso                     20      57
+Afghanistan                      48      54
+India                            38      43
+Niger                             7      42
+DR Congo (Zaire)                102      39
+Pakistan                         25      32
+Central African Republic         11      28
+Syria                            36      24
+Yemen (North Yemen)              30      24
+Philippines                      12      18
+Egypt                            15      16
+Cameroon                         33      13
+Mozambique                       34      10
+</code></pre>
+
+<p>Details for Specific Country</p>
+<pre><code class="python">import pandas as pd
+
+def country_attacked(mon, country):
+   url = 'https://ucdp.uu.se/downloads/candidateged/GEDEvent_v21_0_%d.csv' % mon
+   df = pd.read_csv(url)
+   df1 = df[df.country == country]
+   g = df1[['country','deaths_b','side_b']].\
+       groupby(['side_b','country']).\
+       agg({'side_b':'count', 'deaths_b': 'sum'})
+   g.columns = ['incidents','deaths']
+   return g.sort_values('deaths',ascending=False)
+
+print (country_attacked(6, 'Syria'))
+</code></pre>
+
+<pre><code class="text">                              incidents  deaths
+side_b               country                   
+Syrian insurgents    Syria           22      27
+SDF                  Syria           16       8
+Civilians            Syria            8       0
+Government of Israel Syria            1       0
+Government of Syria  Syria            1       0
+IS                   Syria           15       0
+</code></pre>
+
+<p><a name='gtdafrica'/></p>
+<h3>GTD Africa</h3>
+<p>Global Terrorism Database focuses solely on terrorist attacks. Below
+is code for Africa, btw 2005 and June 2020. </p>
+<pre><code class="python">import pandas as pd
+
+df = pd.read_csv('gld.csv',sep='|')
+df1 = df[(df.region_txt.str.contains('Africa')) &amp; (df.iyear &gt; 2005)]
+df1['dt'] = df.apply(lambda x: &quot;%d%02d&quot; % (x.iyear,x.imonth), axis=1)
+
+g1 = df1.groupby(['dt']).size()
+g2 = df1.groupby(['dt'])['nkill'].sum()
+g = pd.concat([g1,g2],axis=1)
+g.columns = ['incident','deaths']
+plt.savefig('gtdafrica.png')
+</code></pre>
+
+<p><img alt="" src="gtdafrica.png" /></p>
+<p><a href="https://www.start.umd.edu/gtd/contact/download">Data</a></p>
+<p><a name='ukraine'/></p>
+<h3>Ukraine</h3>
+<p>Below is the output from VIINA project, it releases a "control file"
+which lists, for every town in Ukraine, whether it is under Russian or
+Ukrainian control. The report sums Russian controlled towns for each
+time period.</p>
+<p><a href="confstats-ukr.py">Code</a></p>
+<p><a href="viina-control.png">Output</a></p>
+<p><a name='straits'/></p>
+<h3>Transport Chokepoints, Straits</h3>
+<pre><code class="python">import folium, pandas as pd, json
+df = pd.read_csv('straits.csv',sep=';')
+m = folium.Map(location=[30, 20], zoom_start=3)
+for index, row in df.iterrows():
+    points = json.loads(row['Path'])
+    ts = &quot;%s, %0.2f mboe/day, %d Vessels/Year&quot; % (row['Location'],row['Oil'],row['Ships'])
+    folium.PolyLine(points, color='red', tooltip=ts, weight=4.0).add_to(m)
+
+m.save('straits-out.html')
+</code></pre>
+
+<p><a href="straits-out.html">Output</a></p>
+        </section>          
+      </div>
+     <div id="container-dd74f296f8cfa448682e8519034dcf34"></div>
+    </body>
+</html>

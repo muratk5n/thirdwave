@@ -1,0 +1,112 @@
+
+<html>
+  <head>
+      <meta charset='utf-8'>
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+      <script type="text/x-mathjax-config">MathJax.Hub.Config({  tex2jax: {inlineMath: [["$","$"]  ]}});</script>
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML-full">
+      </script>
+      <script async="async" data-cfasync="false" src="//pl22542243.profitablegatecpm.com/dd74f296f8cfa448682e8519034dcf34/invoke.js"></script>
+      <link rel="stylesheet" type="text/css" media="screen" href="/css/style.css">
+      <title>thirdwave</title>
+      <link rel="canonical" href="https://muratk5n.codeberg.page/en/" />
+    </head>        
+    <body>
+      <div id="header_wrap" class="outer">
+        <header class="inner">
+          <h1 id="project_title">
+            <a href="https://muratk5n.codeberg.page/en" style="text-decoration:none; color:inherit;">thirdwave</a>
+          </h1>
+          <font color="gray" size="2">Github Mirror</font>
+          <h2 id="project_tagline"></h2>          
+        </header>
+      </div>
+      <div id="main_content_wrap" class="outer">        
+        <section id="main_content" class="inner">
+<h1>Crowd Wisdom</h1>
+<p><a href="https://en.wikipedia.org/wiki/Wisdom_of_the_crowd">Link</a></p>
+<p>"At a country fair .. 800 people participated in a contest to estimate
+the weight of a slaughtered and dressed ox. Statistician Francis
+Galton observed that the median guess, 1207 pounds, was accurate
+within 1% of the true weight of 1198 pound". It sounds magical, a
+group of people seemingly throwing out numbers, and their average is
+close to the true measurement. How?</p>
+<p>Humans already have built-in knowledge about the visual-look-weight
+connection on many items, so their guesses will be already close
+enough to the real thing, with <em>plus noise</em>. That noise is the key
+part. The distribution of that noise is bell-shaped (Gaussian), white
+noise is Gaussian with zero mean. This is important, while averaging,
+we also take the average of white noise, whose mean is zero. The noise
+disappears, we are left with a good estimate.</p>
+<p>This technique even works internally sometimes, it is called "the
+wisdom of the crowd within". "[Researchers] asked participants for
+point estimates of continuous quantities associated with general world
+knowledge, such as '[w]hat percentage of the world's airports are in
+the United States?' [then] half of the participants were immediately
+asked to make a second, different guess in response to the same
+question [..t]he average of a participant's two guesses was more
+accurate than either individual guess"</p>
+<p>We need to stress however, for standard normal noise to exist, the
+base has to be a domain where guessors have an expertise. That is the
+only way guesses are close to reality, and there is no bias one way or
+another.</p>
+<p>"Can we use the same idea for policy, like millions making policy, direct democracy?"</p>
+<p>In most policy issues regular people have no expertise. For judging
+the weight of something, we already have perhaps inborn, at the very
+least life-long experience there... During our lives we have handled,
+touched, carried things, so looking at an object we can make weight
+guesses. The estimate will have noise but it won't be far off from the
+truth which can be corrected statistically. Policy is not something
+people are engaged in daily. Which makes it a speciality.</p>
+<p>But averaging among specialists will work.</p>
+<p><a name='average'/></p>
+<p>The Mechanism of Averaging</p>
+<p>Normal distribution is odd; it shows up everywhere. Take a group of
+ppl, their height dist is normal. Have someone shoot at a target,
+measure distance from each hit to bulls eye, dist is normal. Whenever
+many factors <em>contribute</em> to a thing, normality occurs.. bcz sums of
+anything (random) approaches normal. And there are many things like
+that in nature.</p>
+<p>Throw a 6-sided die 1000 times (numbers below are from software
+generator), histogram rolls,</p>
+<pre><code class="python">import random
+n = 1000; b = 6
+rolls = [random.randint(1,6) for i in range(b*n)]
+rolls = np.array(rolls)
+plt.hist(rolls,bins=6)
+plt.savefig('dice2.png')
+</code></pre>
+
+<p><img width="200" src="../../mbl/2021/dice2.png"/></p>
+<p>Nearly uniform (not normal), all equal chance,</p>
+<p>But if I sum every 6 die throws and histogram,</p>
+<pre><code class="python">rolls = [random.randint(1,6) for i in range(b*n)]
+rolls = np.array(rolls).reshape(n,b)
+s = np.sum(rolls,axis=1)
+plt.hist(s,bins=12)
+plt.savefig('dice1.png')
+</code></pre>
+
+<p><img width="200" src="../../mbl/2021/dice1.png"/></p>
+<p>Bell shaped. Normal.</p>
+<p>Why? Bcz more sums result in a 6 than 2. I can get 6 with
+4+2,2+4,1+5,3+3,etc.. More chance to hit it. Very low, very high nums
+are harder. Easy sums form the bulk in the middle.</p>
+<p>Height frequency is normal.. many factors contribute to height. Some
+ppl might have a fat ass, small back, others large back, skinny
+ass. Large or small head.. All cld lead to same height.</p>
+<p>Note that both shooting, and weight guessing involves knowledge /
+skill. Good "standard" noise around bullseye means person knows how to
+shoot.  Judging weight by naked eye we have skill in through
+evolution, and part of growing up. Stat ppl know this, when they apply
+a model to data, they determine whether "the fit" is good by looking
+at its mistake, its "residual" (diff between model prediction, and
+real data). If resid is gaussian, that's a good sign. Bad models leave
+patterns in data. When unskilled (or dumb) people screw up you know
+why. There is pattern in their muck ups (usually due to some bias).</p>
+        </section>          
+      </div>
+     <div id="container-dd74f296f8cfa448682e8519034dcf34"></div>
+    </body>
+</html>

@@ -1,0 +1,101 @@
+
+<html>
+  <head>
+      <meta charset='utf-8'>
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+      <script type="text/x-mathjax-config">MathJax.Hub.Config({  tex2jax: {inlineMath: [["$","$"]  ]}});</script>
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML-full">
+      </script>
+      <script async="async" data-cfasync="false" src="//pl22542243.profitablegatecpm.com/dd74f296f8cfa448682e8519034dcf34/invoke.js"></script>
+      <link rel="stylesheet" type="text/css" media="screen" href="/css/style.css">
+      <title>thirdwave</title>
+      <link rel="canonical" href="https://muratk5n.codeberg.page/en/" />
+    </head>        
+    <body>
+      <div id="header_wrap" class="outer">
+        <header class="inner">
+          <h1 id="project_title">
+            <a href="https://muratk5n.codeberg.page/en" style="text-decoration:none; color:inherit;">thirdwave</a>
+          </h1>
+          <font color="gray" size="2">Github Mirror</font>
+          <h2 id="project_tagline"></h2>          
+        </header>
+      </div>
+      <div id="main_content_wrap" class="outer">        
+        <section id="main_content" class="inner">
+<h1>US Military</h1>
+<pre><code class="python">import pandas as pd, folium
+import impl as u
+</code></pre>
+
+<p><a name='bases'/></p>
+<h3>US Bases around the World</h3>
+<p>Data from <a href="https://github.com/meflynn/troopdata">here</a>, itself based
+on David Vine's work.</p>
+<pre><code class="python">
+clat,clon=33, 40
+
+m = folium.Map(location=[clat, clon], zoom_start=7)
+
+df = pd.read_csv(&quot;https://raw.githubusercontent.com/meflynn/troopdata/master/data-raw/basedata.csv&quot;,encoding = &quot;ISO-8859-1&quot;, engine='python')
+df = df[['countryname','basename','lat','lon']]
+df = df.dropna()
+
+for index, row in df.iterrows():
+    folium.Marker([row['lat'], row['lon']],tooltip=row['basename'] + &quot; &quot; + row['countryname']
+                  ).add_to(m)
+
+
+m.save('usbases-out.html')
+</code></pre>
+
+<p><a href="usbases-out.html">Output</a></p>
+<h3>Navy</h3>
+<p><a name='navy'/></p>
+<pre><code class="python">import pandas as pd, folium
+m = folium.Map(location=[33,40], zoom_start=4)
+df = u.usnavy()
+for index, row in df.iterrows():
+    folium.Marker([row['lat'], row['lon']],tooltip=row['name'] + &quot; Heading: &quot; + row['bearing'] + &quot; Speed (kn): &quot; + row['speed']
+                  ).add_to(m)
+
+m.save('usnavy-out.html')
+</code></pre>
+
+<p><a href="usnavy-out.html">Output</a></p>
+<p><a name='nuke'/></p>
+<h3>Nuclear Bomb, Missile Sites</h3>
+<pre><code class="python">import pandas as pd, folium
+
+df = pd.read_csv('nuke.csv')
+
+clat,clon=33, -111
+m = folium.Map(location=[clat, clon], zoom_start=4)
+
+def split_nth(s, sep, n):
+    n_split_groups = []
+    groups = s.split(sep)
+    while len(groups):
+          n_split_groups.append(sep.join(groups[:n]))
+          groups = groups[n:]
+    return n_split_groups
+
+for index, row in df.iterrows():
+    descr = str(row['description'])
+    descr = &quot;&lt;br&gt;&quot;.join(split_nth(descr, &quot; &quot;, 5))
+    s = str(row['bombs'])  + &quot; bombs, &quot; + descr
+    s = s.replace(&quot;nan&quot;,&quot;&quot;)
+    folium.Marker(        
+        [row['latitude'], row['longitude']], tooltip=s
+    ).add_to(m)
+
+m.save('nuke-out.html')    
+</code></pre>
+
+<p><a href="nuke-out.html">Output</a></p>
+        </section>          
+      </div>
+     <div id="container-dd74f296f8cfa448682e8519034dcf34"></div>
+    </body>
+</html>

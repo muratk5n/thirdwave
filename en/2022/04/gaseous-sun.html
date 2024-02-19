@@ -1,0 +1,103 @@
+
+<html>
+  <head>
+      <meta charset='utf-8'>
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+      <script type="text/x-mathjax-config">MathJax.Hub.Config({  tex2jax: {inlineMath: [["$","$"]  ]}});</script>
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML-full">
+      </script>
+      <script async="async" data-cfasync="false" src="//pl22542243.profitablegatecpm.com/dd74f296f8cfa448682e8519034dcf34/invoke.js"></script>
+      <link rel="stylesheet" type="text/css" media="screen" href="/css/style.css">
+      <title>thirdwave</title>
+      <link rel="canonical" href="https://muratk5n.codeberg.page/en/" />
+    </head>        
+    <body>
+      <div id="header_wrap" class="outer">
+        <header class="inner">
+          <h1 id="project_title">
+            <a href="https://muratk5n.codeberg.page/en" style="text-decoration:none; color:inherit;">thirdwave</a>
+          </h1>
+          <font color="gray" size="2">Github Mirror</font>
+          <h2 id="project_tagline"></h2>          
+        </header>
+      </div>
+      <div id="main_content_wrap" class="outer">        
+        <section id="main_content" class="inner">
+<h1>The Gaseous Sun</h1>
+<p>The claim is the Sun is gasous plasma. There are many signs that this
+claim is false. If the Sun is not gaseous, it cannot collapse itself
+and black holes cannot form. James Jeans, who along with Arthur
+Eddington is a founder of British cosmology said: "Mathematical
+analysis shows that if the centre of a star is either liquid, or
+partially so, there is no danger of collapse; the liquid center
+provides so firm a basis for the star, as to render the collapse
+impossible".</p>
+<h3>Planck Spectrum</h3>
+<p>When we plot white light intensity against each frequency we get a
+Planck spectrum. But gaseous plasmas are known to never be able to
+produce a Planck spectrum. As stated by this [2] paper, "the gaseous
+models fail to properly account for the occurrence of the solar
+spectrum.  Gases are unable to emit a continuous spectrum. Rather,
+they emit in bands... Even when pressure broadened, these bands cannot
+produce the black- body lineshape. Moreover, when gases are heated,
+their emissivity can actually drop, in direct contradiction of
+Stefan’s law. Under these circumstances, the answer cannot be found in
+the gaseous state. One must turn to condensed matter"</p>
+<h3>Sun Mass and Density</h3>
+<p>We can attempt to calculate Sun's mass using few assumptions, ie only
+orbital information - the mass that can cause the orbit we observe
+today. Using the Earth’s orbit [1] and the law of centripetal force,
+we get that the Sun must be gravitationally pulling on the Earth with
+a force of $F=mr(\frac{2\pi}{T})^2$ where m is the mass of the Earth,
+$r$ the radius of the Earth’s orbit and T the time it takes the Earth
+to go around the Sun.</p>
+<p>On the other hand, Newton’s law of gravitation states that</p>
+<p>$$
+F = G \frac{m M}{r^2}
+$$</p>
+<p>$G$ is the gravitational constant [experimentaly calculated by
+Cavendish], $M$ is the Sun’s mass. Equate both,</p>
+<p>$$
+mr ( \frac{2\pi}{T} )^2 = G \frac{m M}{r^2}
+$$</p>
+<p>Simplify,</p>
+<p>$$
+M = \frac{r^3}{G} ( \frac{2\pi}{T} )^2
+$$</p>
+<p>It turns out we won't have to know Earth's mass it just got canceled
+out of the equation.</p>
+<p>Filling in the right side $r=1.496 \cdot 10^{11} m$,
+$G=6.674⋅10^{−11} m^3 kg^{−1}s^{−2}$, $T=365.2425×24×3600=3.156 \cdot 10^7 s$
+gives</p>
+<p>$1.988 \cdot 10^{30} kg$ for the mass of the Sun. Verify,</p>
+<pre><code class="python">r = 1.496*1e11
+G = 6.674*1e-11
+T = 365.2425*24*3600 # seconds
+M = (r**3 / G)*(2*np.pi / T)**2
+print (M)
+</code></pre>
+
+<pre><code class="text">1.9887409506724918e+30
+</code></pre>
+
+<p>Get Sun's volume, divide the mass with it,</p>
+<pre><code class="python">sm = 1.988*1e30*1e3 # gram
+svol = 1409272569059860000 * 1e15 # cm3
+print (&quot;Sun's density is&quot;, sm/svol, 'g/cm3')
+</code></pre>
+
+<pre><code class="text">Sun's density is 1.410656847827681 g/cm3
+</code></pre>
+
+<p>The number above does not point to a gas density, in fact it points to
+a liquidic density.</p>
+<p>References</p>
+<p>[1] https://www.quora.com/How-can-I-calculate-the-mass-of-the-sun</p>
+<p>[2] Robitaille, Fourty Lines of Evidence for Condensed Matter</p>
+<p>[<a href="../../2018/09/junk-science.html">Up</a>]</p>
+        </section>          
+      </div>
+     <div id="container-dd74f296f8cfa448682e8519034dcf34"></div>
+    </body>
+</html>

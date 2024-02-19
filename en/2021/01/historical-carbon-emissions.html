@@ -1,0 +1,145 @@
+
+<html>
+  <head>
+      <meta charset='utf-8'>
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+      <script type="text/x-mathjax-config">MathJax.Hub.Config({  tex2jax: {inlineMath: [["$","$"]  ]}});</script>
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML-full">
+      </script>
+      <script async="async" data-cfasync="false" src="//pl22542243.profitablegatecpm.com/dd74f296f8cfa448682e8519034dcf34/invoke.js"></script>
+      <link rel="stylesheet" type="text/css" media="screen" href="/css/style.css">
+      <title>thirdwave</title>
+      <link rel="canonical" href="https://muratk5n.codeberg.page/en/" />
+    </head>        
+    <body>
+      <div id="header_wrap" class="outer">
+        <header class="inner">
+          <h1 id="project_title">
+            <a href="https://muratk5n.codeberg.page/en" style="text-decoration:none; color:inherit;">thirdwave</a>
+          </h1>
+          <font color="gray" size="2">Github Mirror</font>
+          <h2 id="project_tagline"></h2>          
+        </header>
+      </div>
+      <div id="main_content_wrap" class="outer">        
+        <section id="main_content" class="inner">
+<h1>Historical Carbon Emissions</h1>
+<p>Summary: US is the worst polluter, followed by China, USSR, UK.. These
+countries are responsible for global warming.</p>
+<p>2014 has China with double carbon emissions of US. </p>
+<p>Units are thousans of metric tons. <a href="https://github.com/datasets/co2-fossil-by-nation">Data</a>.</p>
+<h3>Annual Emissions, All Countries</h3>
+<pre><code class="python">import pandas as pd
+url = &quot;https://raw.githubusercontent.com/datasets/co2-fossil-by-nation/master/data/fossil-fuel-co2-emissions-by-nation.csv&quot;
+df = pd.read_csv(url)
+df.loc[df.Country == 'CHINA (MAINLAND)', 'Country'] = 'China'
+df.loc[df.Country == 'USSR', 'Country'] = 'Russia'
+df.loc[df.Country == 'RUSSIAN FEDERATION', 'Country'] = 'Russia'
+df.loc[df.Country.str.contains('KOREA') , 'Country'] = 'Korea'
+g = df.groupby('Year')['Total'].sum()
+g.plot()
+plt.savefig('ghg1.png')
+</code></pre>
+
+<p><img alt="" src="ghg1.png" /></p>
+<p><a name='alltime'/></p>
+<h3>Top Polluters, All Time, 1751-2014</h3>
+<pre><code class="python">g = df.groupby('Country')['Total'].sum()
+g = g.sort_values(ascending=False)
+print (g.head(30))
+</code></pre>
+
+<pre><code class="text">Country
+UNITED STATES OF AMERICA             102510260
+China                                 47649834
+Russia                                41256776
+UNITED KINGDOM                        20500813
+JAPAN                                 14585037
+GERMANY                               12764185
+INDIA                                 11385351
+FRANCE (INCLUDING MONACO)              9697149
+CANADA                                 8038299
+FEDERAL REPUBLIC OF GERMANY            7492600
+POLAND                                 6960097
+ITALY (INCLUDING SAN MARINO)           6032718
+Korea                                  5190654
+SOUTH AFRICA                           5030416
+MEXICO                                 4768665
+AUSTRALIA                              4252724
+ISLAMIC REPUBLIC OF IRAN               4028153
+SPAIN                                  3529437
+BRAZIL                                 3513002
+FORMER GERMAN DEMOCRATIC REPUBLIC      3323467
+SAUDI ARABIA                           3266162
+BELGIUM                                3184611
+CZECHOSLOVAKIA                         3068081
+INDONESIA                              2999862
+NETHERLANDS                            2966741
+UKRAINE                                2200321
+ROMANIA                                2188014
+TURKEY                                 2184948
+ARGENTINA                              2013085
+TAIWAN                                 1996597
+Name: Total, dtype: int64
+</code></pre>
+
+<p>US / Indo ratio</p>
+<pre><code class="python">int(102510260 / 2999862)
+</code></pre>
+
+<pre><code class="text">Out[1]: 34
+</code></pre>
+
+<p>Overall Percentage Share of Top 10 Polluters</p>
+<pre><code class="python">print ( &quot;%0.2f Percent&quot; % (g.head(10).sum() / g.sum() * 100.0) )
+</code></pre>
+
+<pre><code class="text">70.57 Percent
+</code></pre>
+
+<h3>Top Polluters 2014</h3>
+<pre><code class="python">df1 = df[df['Year'] == 2014]
+df1 = df1.sort_values(by='Total',ascending=False)
+df1 = df1.set_index('Country').head(10)['Total']
+df1.plot.barh(fontsize=8)
+plt.savefig('ghg2.png')
+print (df1)
+</code></pre>
+
+<pre><code class="text">Country
+China                       2806634
+UNITED STATES OF AMERICA    1432855
+INDIA                        610411
+Russia                       465052
+JAPAN                        331074
+GERMANY                      196314
+ISLAMIC REPUBLIC OF IRAN     177115
+SAUDI ARABIA                 163907
+Korea                        160119
+CANADA                       146494
+Name: Total, dtype: int64
+</code></pre>
+
+<p><img alt="" src="ghg2.png" /></p>
+<p><a name='2020'/></p>
+<h3>2020 Emissions</h3>
+<p>The latest data comes from <a href="https://www.climatetrace.org/inventory">Climate Trace</a>.</p>
+<pre><code class="python">import pandas as pd
+
+df = pd.read_csv('ctrace.csv')
+df = df.dropna(axis=0)
+g = df.groupby('country_full')['Tonnes Co2e'].sum() / 1e9
+g = g.sort_values(ascending=False)
+g.head(10).plot.barh(fontsize=8)
+plt.savefig('ghg3.png')
+</code></pre>
+
+<p><img alt="" src="ghg3.png" /></p>
+<p>China tops the list with 27.26 billion tons of CO2 emitted. US also
+continues to be number 2.</p>
+        </section>          
+      </div>
+     <div id="container-dd74f296f8cfa448682e8519034dcf34"></div>
+    </body>
+</html>

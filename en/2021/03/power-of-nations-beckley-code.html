@@ -1,0 +1,118 @@
+
+<html>
+  <head>
+      <meta charset='utf-8'>
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+      <script type="text/x-mathjax-config">MathJax.Hub.Config({  tex2jax: {inlineMath: [["$","$"]  ]}});</script>
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML-full">
+      </script>
+      <script async="async" data-cfasync="false" src="//pl22542243.profitablegatecpm.com/dd74f296f8cfa448682e8519034dcf34/invoke.js"></script>
+      <link rel="stylesheet" type="text/css" media="screen" href="/css/style.css">
+      <title>thirdwave</title>
+      <link rel="canonical" href="https://muratk5n.codeberg.page/en/" />
+    </head>        
+    <body>
+      <div id="header_wrap" class="outer">
+        <header class="inner">
+          <h1 id="project_title">
+            <a href="https://muratk5n.codeberg.page/en" style="text-decoration:none; color:inherit;">thirdwave</a>
+          </h1>
+          <font color="gray" size="2">Github Mirror</font>
+          <h2 id="project_tagline"></h2>          
+        </header>
+      </div>
+      <div id="main_content_wrap" class="outer">        
+        <section id="main_content" class="inner">
+<h1>The Power of Nations Code</h1>
+<p>Checking if Michale Beckley's GDP x GDP Per Capita measure can predict
+war outcomes. Excerpts from the article are <a href="power-of-nations-beckley.html">here</a>.
+Data comes from <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/58KDCM">Harvard Dataverse</a></p>
+<p><code>reiterwars.tab</code> has wars from past few centuries, <code>power1.tab</code>
+carries <code>GDP</code>, <code>CINC</code>, total population <code>tpop</code> and MB's measure
+<code>y</code>. We could reconstruct the measure from <code>GDP</code> and <code>tpop</code>
+(double-checked, it works, same as <code>y</code>). Code was based on Stata <code>wars
+do.do</code> code in the same repo.</p>
+<p>My zipped version of the data is <a href="https://drive.google.com/uc?export=view&amp;id=1Gh2-Kq9EigyQ_llE_mwG-WS8Knyi7KQR">here</a></p>
+<p>In order to run the regression, MB creates fractions of each measure,
+to compare two sides of the measure, through a value between 0 and 1.
+These fractions can now 'decide' the outcome of the war, <code>win</code> 1 or 0,
+whether the initiator (side a) won the conflict or not. The fractions
+are in the form of,</p>
+<p>$$
+y_{frac} = \frac{y_A}{y_A + y_B}
+$$</p>
+<p>Same approach is used for CINC and GDP.</p>
+<pre><code class="python">import pandas as pd
+dfp = pd.read_csv('power1.tab',sep='\t')
+dfw = pd.read_csv('reiterwars.tab',sep='\t')
+dfw = dfw[dfw.joiner==0]
+# join in the reference data, twice, once for side a, other for side b
+dfj1 = dfw.merge(dfp, left_on=['year','init_ccode'], right_on=['year','ccode'],how='left')
+dfj1['tpopa'] = dfj1['tpop'] 
+dfj1['cinca'] = dfj1['cinc'] 
+dfj1['gdpa'] = dfj1['gdp']
+dfj1['ya'] = dfj1['y']
+cols = ['init_ccode','init_name','larger_war_name','target_ccode','target_name','year','tpopa','cinca','gdpa','ya','annual_outcome']
+dfj1 = dfj1[cols]
+dfj2 = dfj1.merge(dfp, left_on=['year','target_ccode'], right_on=['year','ccode'],how='left')
+dfj2['tpopb'] = dfj2['tpop'] 
+dfj2['cincb'] = dfj2['cinc'] 
+dfj2['gdpb'] = dfj2['gdp']
+dfj2['yb'] = dfj2['y']
+dfj2 = dfj2[cols + ['tpopb','gdpb','cincb','yb']]
+dfj2.loc[dfj2.annual_outcome==1,'win'] = 1
+dfj2.loc[dfj2.annual_outcome==2,'win'] = 0
+dfj2 = dfj2[dfj2.annual_outcome != 0]
+dfj2['cincfrac']=dfj2.cinca/(dfj2.cinca+dfj2.cincb)
+dfj2['gdpfrac']=dfj2.gdpa/(dfj2.gdpa+dfj2.gdpb)
+dfj2['yfrac']=dfj2.ya/(dfj2.ya+dfj2.yb)
+dfj2.to_csv('beckley-wars.csv')
+</code></pre>
+
+<pre><code class="python">import statsmodels.formula.api as smf
+results = smf.ols('win ~ cincfrac', data=dfj2).fit()
+print ('%0.2f' % results.rsquared)
+results = smf.ols('win ~ gdpfrac', data=dfj2).fit()
+print ('%0.2f' % results.rsquared)
+results = smf.ols('win ~ yfrac', data=dfj2).fit()
+print ('%0.2f' % results.rsquared)
+</code></pre>
+
+<pre><code class="text">0.07
+0.12
+0.26
+</code></pre>
+
+<p>$R^2$ of the regression that predicts war outcome using the new
+measure is 0.26 (highest score being 1), better than CINC or GDP.</p>
+<p>Preprocessed data for the regression is <a href="beckley-wars.csv">here</a>.</p>
+<p>Additional Metrics</p>
+<pre><code class="python">import pandas as pd
+from sklearn.metrics import classification_report,  confusion_matrix
+
+df = pd.read_csv('beckley-wars.csv')
+df = df.dropna()
+predicted = df.yfrac &gt; 0.5
+report = classification_report(df.win, predicted)
+print(report)
+print (confusion_matrix(df.win, predicted))
+</code></pre>
+
+<pre><code class="text">              precision    recall  f1-score   support
+
+         0.0       0.60      0.60      0.60        42
+         1.0       0.83      0.83      0.83        99
+
+    accuracy                           0.76       141
+   macro avg       0.71      0.71      0.71       141
+weighted avg       0.76      0.76      0.76       141
+
+[[25 17]
+ [17 82]]
+</code></pre>
+        </section>          
+      </div>
+     <div id="container-dd74f296f8cfa448682e8519034dcf34"></div>
+    </body>
+</html>

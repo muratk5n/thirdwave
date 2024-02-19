@@ -1,0 +1,64 @@
+
+<html>
+  <head>
+      <meta charset='utf-8'>
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+      <script type="text/x-mathjax-config">MathJax.Hub.Config({  tex2jax: {inlineMath: [["$","$"]  ]}});</script>
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML-full">
+      </script>
+      <script async="async" data-cfasync="false" src="//pl22542243.profitablegatecpm.com/dd74f296f8cfa448682e8519034dcf34/invoke.js"></script>
+      <link rel="stylesheet" type="text/css" media="screen" href="/css/style.css">
+      <title>thirdwave</title>
+      <link rel="canonical" href="https://muratk5n.codeberg.page/en/" />
+    </head>        
+    <body>
+      <div id="header_wrap" class="outer">
+        <header class="inner">
+          <h1 id="project_title">
+            <a href="https://muratk5n.codeberg.page/en" style="text-decoration:none; color:inherit;">thirdwave</a>
+          </h1>
+          <font color="gray" size="2">Github Mirror</font>
+          <h2 id="project_tagline"></h2>          
+        </header>
+      </div>
+      <div id="main_content_wrap" class="outer">        
+        <section id="main_content" class="inner">
+<h1>Ancient</h1>
+<p>When people praise a region, a country being "ancient", "had
+civilization" what they mean is that region had contact with
+agriculture the longest, because only then you can have a mafia
+(empire) who can tax (peasant is tied to land, can't run away), raise
+armies, kill others and build arenas, roads which later generations as
+tourist can gape at like morons.</p>
+<p>However, and in the light of agriculture being the root ill of many of
+the later predicaments <a href="../../2017/12/rome.html">as we now know</a>, one
+could guess countries who were at the center of these "ancient"
+developments would clearly be worse off. And they are. The Han,
+Ottocuck, Egypt, Sassanid, Rome... agro-centric centralized mafia
+empires, through their peasant/tax/opress cycle created a toxic
+culture that still lingers in these regions, like a bad fart, which is
+impeding the progress of their descendants. Lets's look at data.</p>
+<p>We compare China, Italy, so-called Turkey, Greece, Egypt, Iran vs
+others.</p>
+<p>GDP per capita, them vs others (data from World Bank, <a href="https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita">GDP</a>, <a href="https://en.wikipedia.org/wiki/List_of_countries_by_population_(United_Nations)https://en.wikipedia.org/wiki/List_of_countries_by_population_(United_Nations)">Population</a>,<a href="gdpw.csv">CSV</a>)</p>
+<pre><code class="python">import pandas as pd
+df = pd.read_csv('gdpw.csv')
+df['gdpw'] = df.gdpcap * df.population
+anc = ['China','Italy','Turkey','Greece','Egypt','Iran']
+dfc1 = df[df.country.isin(anc)]
+dfc2 = df[df.country.isin(anc) == False ]
+print ('Mafia', np.round(dfc1.gdpw.sum() / dfc1.population.sum(),2))
+print ('Others', np.round(dfc2.gdpw.sum() / dfc2.population.sum(),2))
+</code></pre>
+
+<pre><code class="text">Mafia 10069.93
+Others 11739.59
+</code></pre>
+
+<p>Significant difference.</p>
+        </section>          
+      </div>
+     <div id="container-dd74f296f8cfa448682e8519034dcf34"></div>
+    </body>
+</html>

@@ -1,0 +1,65 @@
+
+<html>
+  <head>
+      <meta charset='utf-8'>
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+      <script type="text/x-mathjax-config">MathJax.Hub.Config({  tex2jax: {inlineMath: [["$","$"]  ]}});</script>
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML-full">
+      </script>
+      <script async="async" data-cfasync="false" src="//pl22542243.profitablegatecpm.com/dd74f296f8cfa448682e8519034dcf34/invoke.js"></script>
+      <link rel="stylesheet" type="text/css" media="screen" href="/css/style.css">
+      <title>thirdwave</title>
+      <link rel="canonical" href="https://muratk5n.codeberg.page/en/" />
+    </head>        
+    <body>
+      <div id="header_wrap" class="outer">
+        <header class="inner">
+          <h1 id="project_title">
+            <a href="https://muratk5n.codeberg.page/en" style="text-decoration:none; color:inherit;">thirdwave</a>
+          </h1>
+          <font color="gray" size="2">Github Mirror</font>
+          <h2 id="project_tagline"></h2>          
+        </header>
+      </div>
+      <div id="main_content_wrap" class="outer">        
+        <section id="main_content" class="inner">
+<h1>Mastodon</h1>
+<p>Mastodon is free and open-source software for running self-hosted
+social networking services. Each user is a member of a specific
+Mastodon instance (also called a server), which can interoperate as a
+federated social network, allowing users on different instances to
+interact with each other. This is intended to give users the
+flexibility to select a node whose policies they prefer, but keep
+access to a larger social network.</p>
+<p>Stats</p>
+<pre><code class="python">import requests, json
+url = &quot;https://datasci.social/api/v1/instance&quot;
+response = requests.get(url) # details on specific host
+res = json.loads(response.text)
+res['stats'] 
+</code></pre>
+
+<pre><code class="text">Out[1]: {'user_count': 42, 'status_count': 485, 'domain_count': 8958}
+</code></pre>
+
+<p>Crawl Script</p>
+<p>It hits all MD servers and gets their stats (user count, creation date)</p>
+<p><a href="masta.py">Code</a></p>
+<pre><code class="python">import zipfile, pandas as pd
+with zipfile.ZipFile('mastacrawl1.zip', 'r') as z:
+   df = pd.read_csv(z.open('mastacrawl1.csv'),header=None) 
+</code></pre>
+
+<pre><code class="python">print (len(df))
+print (f'{df[1].sum():,}','users')
+</code></pre>
+
+<pre><code class="text">4601
+7,824,386 users
+</code></pre>
+        </section>          
+      </div>
+     <div id="container-dd74f296f8cfa448682e8519034dcf34"></div>
+    </body>
+</html>

@@ -1,0 +1,78 @@
+
+<html>
+  <head>
+      <meta charset='utf-8'>
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+      <script type="text/x-mathjax-config">MathJax.Hub.Config({  tex2jax: {inlineMath: [["$","$"]  ]}});</script>
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML-full">
+      </script>
+      <script async="async" data-cfasync="false" src="//pl22542243.profitablegatecpm.com/dd74f296f8cfa448682e8519034dcf34/invoke.js"></script>
+      <link rel="stylesheet" type="text/css" media="screen" href="/css/style.css">
+      <title>thirdwave</title>
+      <link rel="canonical" href="https://muratk5n.codeberg.page/en/" />
+    </head>        
+    <body>
+      <div id="header_wrap" class="outer">
+        <header class="inner">
+          <h1 id="project_title">
+            <a href="https://muratk5n.codeberg.page/en" style="text-decoration:none; color:inherit;">thirdwave</a>
+          </h1>
+          <font color="gray" size="2">Github Mirror</font>
+          <h2 id="project_tagline"></h2>          
+        </header>
+      </div>
+      <div id="main_content_wrap" class="outer">        
+        <section id="main_content" class="inner">
+<p>Download file</p>
+<p>https://en.wikipedia.org/wiki/File:Extinction_intensity.svg</p>
+<p>Convert file to pgm with</p>
+<p>convert  -crop 495x245+29+54 -resize 900x400 Extinction_intensity.svg  extinct.pgm</p>
+<pre><code class="python">import pandas as pd
+from PIL import Image
+
+im2=Image.open(&quot;extinct.pgm&quot;)
+grady,gradx = np.gradient(im2)
+grady = (grady&gt;0).astype(float)
+extin = np.argmax(grady,axis=0)
+df = pd.DataFrame(extin)
+df2 = df.max()-df
+mymin = 1.
+mymax = 52. - mymin
+df3 = df2 / df2.max() * mymax
+df3 = df3 + mymin
+idx = np.linspace(542,1,len(df3))
+df4 = df3.set_index(idx)
+df4[0].to_csv('extinct.csv',header=None,index=None)
+</code></pre>
+
+<pre><code class="python">ext = pd.DataFrame(pd.read_csv('extinct.csv',header=None))
+ext = ext.set_index(np.linspace(542,1,len(ext)))
+ext[0].plot()
+ext = ext[0]
+plt.savefig('ex1.png')
+</code></pre>
+
+<pre><code class="python">from astroML.time_series import lomb_scargle
+
+dy = 0.5 + 0.5 * np.random.random(len(ext))
+omega = np.linspace(10, 100, 1000)
+sig = np.array([0.1, 0.01, 0.001])
+PS, z = lomb_scargle(ext.index, ext, dy, omega, generalized=True, significance=sig)
+
+plt.plot(omega,PS)
+plt.hold(True)
+
+xlim = (omega[0], omega[-1])
+for zi, pi in zip(z, sig):
+    plt.plot(xlim, (zi, zi), ':k', lw=1)
+    plt.text(xlim[-1] - 0.001, zi - 0.02, &quot;$%.1g$&quot; % pi, ha='right', va='top')
+    plt.hold(True)
+plt.title('Extinction Periods')
+plt.savefig('ex2.png')
+</code></pre>
+        </section>          
+      </div>
+     <div id="container-dd74f296f8cfa448682e8519034dcf34"></div>
+    </body>
+</html>

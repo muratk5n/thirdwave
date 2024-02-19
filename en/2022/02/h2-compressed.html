@@ -1,0 +1,87 @@
+
+<html>
+  <head>
+      <meta charset='utf-8'>
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+      <script type="text/x-mathjax-config">MathJax.Hub.Config({  tex2jax: {inlineMath: [["$","$"]  ]}});</script>
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML-full">
+      </script>
+      <script async="async" data-cfasync="false" src="//pl22542243.profitablegatecpm.com/dd74f296f8cfa448682e8519034dcf34/invoke.js"></script>
+      <link rel="stylesheet" type="text/css" media="screen" href="/css/style.css">
+      <title>thirdwave</title>
+      <link rel="canonical" href="https://muratk5n.codeberg.page/en/" />
+    </head>        
+    <body>
+      <div id="header_wrap" class="outer">
+        <header class="inner">
+          <h1 id="project_title">
+            <a href="https://muratk5n.codeberg.page/en" style="text-decoration:none; color:inherit;">thirdwave</a>
+          </h1>
+          <font color="gray" size="2">Github Mirror</font>
+          <h2 id="project_tagline"></h2>          
+        </header>
+      </div>
+      <div id="main_content_wrap" class="outer">        
+        <section id="main_content" class="inner">
+<h1>Compressed H2</h1>
+<p><a href="https://www.energy.gov/eere/fuelcells/physical-hydrogen-storage">DOE</a></p>
+<p>[Compressed] storage is the most mature hydrogen storage
+technology. The current near-term technology for onboard automotive
+physical hydrogen storage is 350 and 700 bar (5,000 and 10,000 psi)
+nominal working-pressure compressed gas vessels—that is, "tanks."..
+[C]ompressed hydrogen typically is stored at near-ambient temperatures.</p>
+<p>The utility vehicle Hyundai Nexo has three equal-size carbon tanks
+mounted under the boot floor and the rear seat hold a total of 6.33
+kilos of hydrogen. The NEXO thus has the largest tank [capacity] of
+all available fuel-cell passenger cars and, thanks to an optimised
+drivetrain/power train, the longest range as well: 756 km [3] stored
+at 700 bars.</p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/B9780128111970000038">Paper</a></p>
+<p>Compressed hydrogen can be transported by trucks in gas cylinders or
+gas tubes with pressures between 200 and 500 bar. Usually several
+cylinders or tubes are bundled to modules in a 20′ or 40′ container
+that is mounted on a trailer (tube trailer)...</p>
+<p>A tube trailer with steel cylinders can store up to 25,000 liters of
+hydrogen compressed to 200 bar which amounts to around 420 kg of
+hydrogen.</p>
+<p>Provaris</p>
+<p>They provide compressed H2 shipping solutions, a presentation [1]
+states their tech;</p>
+<ul>
+<li>
+<p>Stores, transports &amp; delivers hydrogen in high purity gaseous form</p>
+</li>
+<li>
+<p>Minimal technical barriers, no boil off</p>
+</li>
+<li>
+<p>Avoids energy and capital-intensive processes, compression tech is
+  simpler.</p>
+</li>
+</ul>
+<p>Recently Provaris obtained world's first design approval for
+compressed hydrogen carrier from [American Bureau of Shipping]. Their
+maximum planned ship will have 120,000 m3 of H2 capacity. Let's
+calculate how much energy we could deliver assuming 40 trips / year
+and a fleet of 20 ships, using 250 bar H2 having 700 kwh/m3,</p>
+<pre><code class="python">capacity = 120000 #m3
+print (&quot;Single ship %0.1f MW&quot; % ((ship * 700) / (365*24*1e3)))
+ann_trips = 40
+print (&quot;Fleet capacity %0.1f GW&quot; % ((20 * ann_trips * capacity * 700) / (365*24*1e6)))
+</code></pre>
+
+<pre><code class="text">Single ship 9.6 MW
+Fleet capacity 7.7 GW
+</code></pre>
+
+<p>References</p>
+<p>[1] <a href="https://assets.website-files.com/626b0112d67346fa8eab974d/6280ef3d5ce3f07d709f43a7_Provaris%20-%20Corporate%20Deck%20-%2016%20May%202022%20ASX.pdf">Provaris Presentation</a></p>
+<p>[2] <a href="https://en.wikipedia.org/wiki/Compressed_hydrogen_tube_trailer">Wikipedia</a></p>
+<p>[3] <a href="https://h2.live/en/fuelcell-cars/hyundai-nexo/">Hyundai H2 Live</a></p>
+<p><a href="h2-storage.html">[Up]</a></p>
+        </section>          
+      </div>
+     <div id="container-dd74f296f8cfa448682e8519034dcf34"></div>
+    </body>
+</html>
