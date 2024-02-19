@@ -1,91 +1,146 @@
 
-The Register: "Microsoft's water consumption surged 34 percent to 6.4
-million cubic meters in 2022 and a generative AI guzzle may be to
-blame"
+TAZ: "6.9 billion for hydrogen.. The EU Commission approves a new
+funding project: up to 6.9 billion euros will flow into more than
+thirty hydrogen projects"
 
 ---
 
-Dgtl Infra: "Data centers primarily get their water from municipal or
-regional water utility companies. This water is essential for the data
-center's cooling and humidification systems. For cooling, data centers
-mainly use potable water, which is suitable for drinking, provided by
-these utilities"
+"@MikeElgan@mastodon.social
+
+Following Google Maps directions in rural Tasmania and encountered this sign"
+
+[[-]](https://files.mastodon.social/media_attachments/files/111/950/191/740/342/177/small/71a5f0201f969272.png)
 
 ---
 
-There is no challenge.. you simply do not switch to inferior
-technology - battery-electric tech.
+"@ben@werd.social
 
-Nebraska Today: "Designed as an inexpensive, high-performing barrier,
-the.. MGS, was developed.. in response to barrier ruptures and
-rollovers with older systems. The MGS has been tested with small cars
-that weigh up to 2,400 pounds and pickups that weigh 5,000
-pounds... EVs..  typically weigh 20% to 50% more than gas-powered
-vehicles, with lower centers of gravity.. Today’s challenge is to
-again adapt roadside barriers to match the mix of heavier electric
-vehicle"
+It's kind of impressive to see Ghost become a real open source
+alternative to WordPress. Many people have said it couldn't be done -
+but by focusing on a certain kind of independent creator (adjacent to
+both Medium and Substack), they've done it. It's a pretty amazing
+feat"
 
 ---
 
-That makes sense.. The same software looked at the situation concluded
-the same thing. This could be a problem in the future if self-driving
-car deployment increases. 
-
-"Waymo.. issued a recall for its own self-driving car software after
-two of its vehicles hit the same truck minutes apart"
+*Dune* director wants to make a movie based on C. Clarke's *Rama*?
+That's great.
 
 ---
 
-Blood in the Machine: "We don’t yet know exactly why a group of people
-very publicly graffitied, smashed, and torched a Waymo car in San
-Francisco. But we know enough to understand that this is an explosive
-milestone in the growing, if scattershot, revolt against big tech.. We
-know that self-driving cars are wildly divisive, especially in cities
-where they’ve begun to share the streets with emergency responders,
-pedestrians and cyclists. Public confidence in the technology has
-actually been declining as they’ve rolled out, owing as much to
-general anxiety over driverless cars as to high-profile incidents like
-a GM Cruise robotaxi trapping, dragging, and critically injuring a
-pedestrian last fall. Just over a third of Americans say they’d ride
-in one"
+Financial Review: "[Former competition tsar Rod] Sims said [Australia
+has] large reserves of magnetite ore, the raw material most suitable
+for making green iron using hydrogen rather than coal"
 
 ---
 
-That was funny with the sandwich.. 
+"Thyssenkrupp Steel has issued a call for tenders to supply hydrogen
+to the first direct reduction plant in the tkH2Steel decarbonization
+project. Hydrogen use is planned to start in 2028, with 100% hydrogen
+operation to follow in 2029. Tender process consists of three
+phases.. Requirement for 143,000 metric tons of hydrogen is to be
+covered"
 
 ---
 
-"A man is not a plan" 🤣
+"@axbom@axbom.me
+
+The electricity and water use required by data centres is becoming
+cause for concern. Iowa and Ireland are calling for moratoriums on new
+development projects"
 
 ---
 
-"MOL Teams up with Australian Energy Company Woodside, South Korean
-Shipbuilder HD KSOE and Shipping Firm Hyundai Glovis to Study
-Transport of Liquefied Hydrogen.. In this project, the participating
-companies will study the technology, safety, construction, operation,
-and economics of a carrier with 80,000 m3 tank capacity, with the aim
-of establishing a liquefied hydrogen supply chain in Asia and other
-regions"
+Nation World: "Ansaldo gas turbine can burn 100% hydrogen.. First
+successes of the European FLEX4H2 project.. The GT34, Ansaldo Energy's
+first H-class gas turbine, can operate by burning only hydrogen. A
+declared success whose merit is due to the new design of the
+combustion chamber and the commitment of the eight partners who will
+launch the initiative in January 2023"
 
-[[-]](https://www.mol.co.jp/en/pr/2024/img/240214.jpg)
-
----
-
-Fox Business: "Tesla Cybertruck owners claim $80K, stainless steel
-vehicles developed corrosion, rust: reports"
+<img width='340' src='https://nationworldnews.com/wp-content/uploads/2024/02/New-FLEX4H2-combustion-system-capable-of-providing-enough-clean-energy.jpg'/> 
 
 ---
 
-Hey if you aid and abet state terrorism against Gazan children it's
-only fair yours lose sleep once in a while
+A comedian of Palestinian descent, Atheer Jacoub
 
-Politico: "Antony Blinken’s Family Is the Latest Target
-of.. protests..Yelling at Antony Blinken’s kids does not help Gazan
-children."
+[[-]](https://youtu.be/urPppyglyLw?t=1209)
 
 ---
 
-Al-Monitor: "Egypt building 'enclosure' for displaced Gazans in Sinai"
+The Lever: "Real estate is a huge force in New York’s economy.. Many
+of these real estate interests hide their ownership information; in
+Manhattan, 37 percent of the 41,000 total properties are owned by
+secretive limited liability companies.. These property owners are
+contributing to a housing crisis. The state ranks in the top five of
+highest average home prices and has a severe housing shortage, pushing
+up rents and rates of homelessness. This scarcity in housing is only
+exacerbated by the fact that huge financial institutions are buying up
+single-family homes and apartment buildings across the country"
+
+---
+
+\#Tax \#Exemptions \#Stevenson
+
+[[-]](https://youtu.be/oLsV8eD-DfM?t=2253)
+
+---
+
+They can build more housing thinking there is a shortage, but new ones
+too will get snapped up because housing is an investment
+device. Remember the infamous CDOs of 2008 crisis, they were built on
+mortgage debt with varying degrees of risk, sliced up to various other
+stakeholders. Someone holds that debt, and a big chunk of the
+real-estate until it is paid off. This is one of the ways how big
+money gets involved in housing. If you are holding a mortgage loan you
+own a large chunk of an house.
+
+---
+
+"Sixteen million homes currently sit vacant across the U.S. Despite
+how many houses are in the U.S., millions remain empty across the
+country while hundreds of thousands of Americans face homelessness."
+
+[[-]](https://unitedwaynca.org/blog/vacant-homes-vs-homelessness-by-city)
+
+---
+
+Open Web Advocacy: "We are a group of software engineers from all over
+the world who have come together to advocate for the future of the
+open web.. What is at stake? The entire future of Application
+Development.. Without regulatory or legislative change, we risk losing
+a universal, free and open, write once, deploy anywhere, application
+distribution and deployment system which will dramatically lower costs
+for businesses and consumers. Without these changes, funding will
+shift to proprietary ecosystems and gatekeepers can extract heavy
+taxes. It will lock in their control and reduce innovation for mobile
+apps for many years to come"
+
+[[-]](https://open-web-advocacy.org/)
+
+---
+
+"It’s Official, Apple Kills Web Apps in the EU.. [Apple says] 'to
+comply with the DMA’s requirements, we had to remove the Home Screen
+web apps feature in the EU'.. This is emphatically not required by the
+EU’s Digital Markets Act (DMA).. the idea that users could install
+safe and secure apps that Apple can’t tax, block or control is
+terrifying to them"
+
+[[-]](https://open-web-advocacy.org/blog/its-official-apple-kills-web-apps-in-the-eu/)
+
+---
+
+Belfast Telegraph: "Almost two-thirds of people in Northern Ireland
+would vote to rejoin the European Union if another referendum were
+held today, according to a poll"
+
+---
+
+LA Times: "Opinion: I'm an American doctor who went to Gaza. I saw
+annihilation, not war"
+
+[[-]](https://www.latimes.com/opinion/story/2024-02-16/rafah-gaza-hospitals-surgery-israel-bombing-ground-offensive-children)
 
 ---
 

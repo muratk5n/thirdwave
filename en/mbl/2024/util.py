@@ -1,14 +1,39 @@
+import time as timelib, geocoder, folium
 import matplotlib.pyplot as plt
 from shapely.geometry import Polygon
-import pandas as pd, numpy as np
+import pandas as pd, numpy as np, json
 from pandas_datareader import data
 from shapely.ops import unary_union
 import geopandas as gpd, re, datetime
 import urllib.request as urllib2
 from io import BytesIO
-import time as timelib
 
 def get_pd(): return pd
+
+def rottentomatoes(movie):
+    rel = movie.replace(" ","_").lower()
+    url = "https://www.rottentomatoes.com"
+    url = url + "/m/" + rel
+    hdr = {'User-Agent':'Mozilla/5.0'}
+    res = urllib2.urlopen(url).read().decode('utf-8')
+    
+    tom = re.findall('"audienceScore":{.*?}',res,re.DOTALL)
+    d1 = json.loads("{" + tom[0] + "}")
+    tom = re.findall('"tomatometerScoreAll":{.*?}',res,re.DOTALL)
+    d2 = json.loads("{" + tom[0] + "}")
+    return {"tomatometer score": d2['tomatometerScoreAll']['value'], "audience score": d1['audienceScore']['value'] }
+
+def map_loc(names, outfile):
+    coords = [geocoder.osm(x).latlng for x in names]
+    m = folium.Map(location=coords[0], zoom_start=6)	
+    folium.TileLayer(tiles="https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+            name='subdomains2',
+            attr='attribution',
+            subdomains='mytilesubdomain'
+    ).add_to(m)
+    for name,coord in zip(names,coords):
+        folium.Marker(coord, popup=name).add_to(m)
+    m.save(outfile)
 
 def two_plot(s1, col1, s2, col2):
     plt.figure(figsize=(12,5))

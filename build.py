@@ -124,7 +124,7 @@ def ls(d,ignore_list=[]):
     return dirs, files
 
 
-head = """
+base_head = """
 <html>
   <head>
       <meta charset='utf-8'>
@@ -133,7 +133,7 @@ head = """
       <script type="text/x-mathjax-config">MathJax.Hub.Config({  tex2jax: {inlineMath: [["$","$"]  ]}});</script>
       <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML-full">
       </script>
-      <script async="async" data-cfasync="false" src="//pl22515057.profitablegatecpm.com/3259501b32ee6f817ed88ef5c725b985/invoke.js"></script>
+      <script async="async" data-cfasync="false" src="%(src)s"></script>
       <link rel="stylesheet" type="text/css" media="screen" href="/css/style.css">
       <title>thirdwave</title>
       <link rel="canonical" href="https://muratk5n.codeberg.page/en/" />
@@ -144,7 +144,7 @@ head = """
           <h1 id="project_title">
             <a href="https://muratk5n.codeberg.page/en" style="text-decoration:none; color:inherit;">thirdwave</a>
           </h1>
-          <font color="gray" size="2">Codeberg Main</font>
+          <font color="gray" size="2">%(title)s</font>
           <h2 id="project_tagline"></h2>          
         </header>
       </div>
@@ -152,15 +152,23 @@ head = """
         <section id="main_content" class="inner">
 """
 
-bottom = """
+base_bottom = """
         </section>          
       </div>
-     <div id="container-3259501b32ee6f817ed88ef5c725b985"></div>
+     <div id="%(bottom_ad)s"></div>
     </body>
 </html>
 """
 
-def gen_html():
+def gen_html(target):
+
+    if target=="codeberg":
+        head = base_head % {"title": "Codeberg Main", "src": "//pl22515057.profitablegatecpm.com/3259501b32ee6f817ed88ef5c725b985/invoke.js"} 
+        bottom = base_bottom % {"bottom_ad": "container-3259501b32ee6f817ed88ef5c725b985"}
+    if target=="github":
+        head = base_head % {"title": "Github Mirror", "src": "//pl22542243.profitablegatecpm.com/dd74f296f8cfa448682e8519034dcf34/invoke.js"} 
+        bottom = base_bottom % {"bottom_ad": "container-dd74f296f8cfa448682e8519034dcf34"}
+    
     dirs, files = ls(os.getcwd())
     for (f,size) in files:
         if ".md" in f:
@@ -200,7 +208,7 @@ if __name__ == "__main__":
     if sys.argv[1] == 'html': 
         frdirs, todirs = copy_files_and_dirs(fr, to, "out.html,atw.md,.git,.key,_layouts,_config.yml")
         os.chdir(to)
-        gen_html()
+        gen_html("codeberg")
 
     if sys.argv[1] == 'clean': 
         clean_html(to)
@@ -209,4 +217,6 @@ if __name__ == "__main__":
         fr = os.environ['HOME'] + "/Documents/tw"
         to = os.environ['HOME'] + "/Documents/thirdwave"
         frdirs, todirs = copy_files_and_dirs(fr, to, "atw.md,.git")
+        os.chdir(to)
+        gen_html("github")
         
