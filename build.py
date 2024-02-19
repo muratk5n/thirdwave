@@ -136,13 +136,13 @@ base_head = """
       <script async="async" data-cfasync="false" src="%(src)s"></script>
       <link rel="stylesheet" type="text/css" media="screen" href="%(css)s">
       <title>thirdwave</title>
-      <link rel="canonical" href="https://muratk5n.codeberg.page/en/" />
+      <link rel="canonical" href="%(href)s" />
     </head>        
     <body>
       <div id="header_wrap" class="outer">
         <header class="inner">
           <h1 id="project_title">
-            <a href="https://muratk5n.codeberg.page/en" style="text-decoration:none; color:inherit;">thirdwave</a>
+            <a href="%(href)s" style="text-decoration:none; color:inherit;">thirdwave</a>
           </h1>
           <font color="gray" size="2">%(title)s</font>
           <h2 id="project_tagline"></h2>          
@@ -163,10 +163,10 @@ base_bottom = """
 def gen_html(target):
 
     if target=="codeberg":
-        head = base_head % {"title": "Codeberg Main", "css": "/css/style.css", "src": "//pl22515057.profitablegatecpm.com/3259501b32ee6f817ed88ef5c725b985/invoke.js"} 
+        head = base_head % {"title": "Codeberg Main", "css": "/css/style.css", "href": "/en/", "src": "//pl22515057.profitablegatecpm.com/3259501b32ee6f817ed88ef5c725b985/invoke.js"} 
         bottom = base_bottom % {"bottom_ad": "container-3259501b32ee6f817ed88ef5c725b985"}
     if target=="github":
-        head = base_head % {"title": "Github Mirror", "css": "/thirdwave/css/style.css", "src": "//pl22542243.profitablegatecpm.com/dd74f296f8cfa448682e8519034dcf34/invoke.js"} 
+        head = base_head % {"title": "Github Mirror", "css": "/thirdwave/css/style.css", "href": "/thirdwave/en/", "src": "//pl22542243.profitablegatecpm.com/dd74f296f8cfa448682e8519034dcf34/invoke.js"} 
         bottom = base_bottom % {"bottom_ad": "container-dd74f296f8cfa448682e8519034dcf34"}
     
     dirs, files = ls(os.getcwd())
@@ -216,7 +216,7 @@ if __name__ == "__main__":
         to = os.environ['HOME'] + "/Documents/thirdwave"
         clean_html(to)
 
-    if sys.argv[1] == 'tw':
+    if sys.argv[1] == 'github':
         fr = os.environ['HOME'] + "/Documents/tw"
         to = os.environ['HOME'] + "/Documents/thirdwave"
         frdirs, todirs = copy_files_and_dirs(fr, to, "atw.md,.git")
