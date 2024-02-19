@@ -186,7 +186,7 @@ will, culture and polity becomes the norm [.. but] these conditions do
 not define the human situation as such, but merely its industrial
 variant [..].
 
-<a name='invention'/>
+<a name='invention'></a>
 
 Nationalism is not what it seems, and above all it is not what it
 seems to itself. The cultures it claims to defend and revive are often
