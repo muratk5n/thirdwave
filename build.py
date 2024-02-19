@@ -134,7 +134,7 @@ base_head = """
       <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML-full">
       </script>
       <script async="async" data-cfasync="false" src="%(src)s"></script>
-      <link rel="stylesheet" type="text/css" media="screen" href="/css/style.css">
+      <link rel="stylesheet" type="text/css" media="screen" href="%(css)s">
       <title>thirdwave</title>
       <link rel="canonical" href="https://muratk5n.codeberg.page/en/" />
     </head>        
@@ -163,10 +163,10 @@ base_bottom = """
 def gen_html(target):
 
     if target=="codeberg":
-        head = base_head % {"title": "Codeberg Main", "src": "//pl22515057.profitablegatecpm.com/3259501b32ee6f817ed88ef5c725b985/invoke.js"} 
+        head = base_head % {"title": "Codeberg Main", "css": "/css/style.css", "src": "//pl22515057.profitablegatecpm.com/3259501b32ee6f817ed88ef5c725b985/invoke.js"} 
         bottom = base_bottom % {"bottom_ad": "container-3259501b32ee6f817ed88ef5c725b985"}
     if target=="github":
-        head = base_head % {"title": "Github Mirror", "src": "//pl22542243.profitablegatecpm.com/dd74f296f8cfa448682e8519034dcf34/invoke.js"} 
+        head = base_head % {"title": "Github Mirror", "css": "/thirdwave/css/style.css", "src": "//pl22542243.profitablegatecpm.com/dd74f296f8cfa448682e8519034dcf34/invoke.js"} 
         bottom = base_bottom % {"bottom_ad": "container-dd74f296f8cfa448682e8519034dcf34"}
     
     dirs, files = ls(os.getcwd())
@@ -199,7 +199,6 @@ def clean_html(to):
     d = to + "/tr"
     deleteDir(d)
 
-
 if __name__ == "__main__":
         
     fr = os.getcwd()
@@ -211,6 +210,10 @@ if __name__ == "__main__":
         gen_html("codeberg")
 
     if sys.argv[1] == 'clean': 
+        clean_html(to)
+
+    if sys.argv[1] == 'clean_github': 
+        to = os.environ['HOME'] + "/Documents/thirdwave"
         clean_html(to)
 
     if sys.argv[1] == 'tw':

@@ -34,7 +34,7 @@ function plot(before,after) {
 }
 
 function init() {
-    map = L.map('map').setView([51,44], 5);
+    map = L.map('map').setView([48,37], 7);
     
     L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png', {
 	maxZoom: 19,
