@@ -1,146 +1,93 @@
 
-TAZ: "6.9 billion for hydrogen.. The EU Commission approves a new
-funding project: up to 6.9 billion euros will flow into more than
-thirty hydrogen projects"
+China Hydrogen Bulletin: "China now arguably controls world
+electrolyzer manufacturing capacities, especially alkaline
+electrolyzers, with over 50 per cent global nominal capacities located
+in China by the end of 2023.. China will have over 40GW electrolyzer
+production capacity by the end of 2024, which alone far exceeds
+foreseeable global demand of around 10GW in 2025. However, latest
+developments shows that Chinese electrolyzer producers didn’t halt
+their expanding pace-at least five companies have announced
+inauguration of new plants or beginning of construction of GW scale
+production facilities just within first two months of 2024. Through
+these cases, we may realize that even the most aggressive forecasts by
+world leading consultancies may underestimate the capacity building of
+China’s electrolyzer sector"
 
 ---
 
-"@MikeElgan@mastodon.social
-
-Following Google Maps directions in rural Tasmania and encountered this sign"
-
-[[-]](https://files.mastodon.social/media_attachments/files/111/950/191/740/342/177/small/71a5f0201f969272.png)
-
----
-
-"@ben@werd.social
-
-It's kind of impressive to see Ghost become a real open source
-alternative to WordPress. Many people have said it couldn't be done -
-but by focusing on a certain kind of independent creator (adjacent to
-both Medium and Substack), they've done it. It's a pretty amazing
-feat"
+It makes sense for Disney to go Woke, they are deeply embedded in
+complex. They need to gaslight, that means taking part in the Woke
+debate. They are essentially pursuing this non-issue to escape the
+pitchforks.
 
 ---
 
-*Dune* director wants to make a movie based on C. Clarke's *Rama*?
-That's great.
+Here is [Disney](https://www.dropbox.com/scl/fi/wccbwl1qtxq2osfuarfng/disney_theyrule1.gif?rlkey=4xpmucsf7clyhvk6tu1qa1o9u&raw=1).
+With a little browsing I found two connections already.
 
 ---
 
-Financial Review: "[Former competition tsar Rod] Sims said [Australia
-has] large reserves of magnetite ore, the raw material most suitable
-for making green iron using hydrogen rather than coal"
+There are some interesting connections there... You can play a version
+of Six Degrees of Kevin Bacon with this data, start with one
+conglomerate and find out how many board member connections it takes
+to reach another.
 
 ---
 
-"Thyssenkrupp Steel has issued a call for tenders to supply hydrogen
-to the first direct reduction plant in the tkH2Steel decarbonization
-project. Hydrogen use is planned to start in 2028, with 100% hydrogen
-operation to follow in 2029. Tender process consists of three
-phases.. Requirement for 143,000 metric tons of hydrogen is to be
-covered"
+[They Rule](https://theyrule.net) is an interactive visualization of
+the interlocking directories of the largest US companies. It shows
+that 87 of the top 100 US companies in 2021 were connected through
+shared directors on their boards... A few companies control much of
+the economy and oligopolies exert control in nearly every sector of
+the economy. The people who oversee these companies swap on and off
+the boards from one company to another, and in and out of government
+positions. These people run the most powerful institutions on the
+planet, and we have almost no say in who they are"
 
 ---
 
-"@axbom@axbom.me
-
-The electricity and water use required by data centres is becoming
-cause for concern. Iowa and Ireland are calling for moratoriums on new
-development projects"
+Ukraine looks like it can be Winchester... Watch out
 
 ---
 
-Nation World: "Ansaldo gas turbine can burn 100% hydrogen.. First
-successes of the European FLEX4H2 project.. The GT34, Ansaldo Energy's
-first H-class gas turbine, can operate by burning only hydrogen. A
-declared success whose merit is due to the new design of the
-combustion chamber and the commitment of the eight partners who will
-launch the initiative in January 2023"
+"Being Winchester" is clearly not good.. \#LOB
 
-<img width='340' src='https://nationworldnews.com/wp-content/uploads/2024/02/New-FLEX4H2-combustion-system-capable-of-providing-enough-clean-energy.jpg'/> 
+----
+
+*Land of Bad* ⭐ ⭐ ⭐ ⭐ 
 
 ---
 
-A comedian of Palestinian descent, Atheer Jacoub
+Kurt Andersen: "In the 1960s and ’70s, Daniel Moynihan had been
+pigeonholed as a moderate or a conservative, but as a U.S. senator
+during the 1990s, when the rest of his party went Republicanesque on
+the political economy, Moynihan was a kind of heroic last left-winger
+standing...
 
-[[-]](https://youtu.be/urPppyglyLw?t=1209)
+At the start of his presidency, Clinton tried to legislate an
+expansion of the private U.S. health insurance system to make it cover
+more people. 'Mr. Clinton and his allies,' a Times analysis explained
+in 1994, 'were trying hard to redefine the Democratic Party away from
+traditionally liberal approaches to domestic policy; they were almost
+inevitably drawn to the ideas of managed competition.  Though still
+largely theoretical, the concept relies on market forces, not
+government, to hold down costs and expand access to health insurance.'
+That is, Clinton tried and failed to pass a version of Obamacare
+sixteen years before Obama succeeded..
 
----
-
-The Lever: "Real estate is a huge force in New York’s economy.. Many
-of these real estate interests hide their ownership information; in
-Manhattan, 37 percent of the 41,000 total properties are owned by
-secretive limited liability companies.. These property owners are
-contributing to a housing crisis. The state ranks in the top five of
-highest average home prices and has a severe housing shortage, pushing
-up rents and rates of homelessness. This scarcity in housing is only
-exacerbated by the fact that huge financial institutions are buying up
-single-family homes and apartment buildings across the country"
-
----
-
-\#Tax \#Exemptions \#Stevenson
-
-[[-]](https://youtu.be/oLsV8eD-DfM?t=2253)
-
----
-
-They can build more housing thinking there is a shortage, but new ones
-too will get snapped up because housing is an investment
-device. Remember the infamous CDOs of 2008 crisis, they were built on
-mortgage debt with varying degrees of risk, sliced up to various other
-stakeholders. Someone holds that debt, and a big chunk of the
-real-estate until it is paid off. This is one of the ways how big
-money gets involved in housing. If you are holding a mortgage loan you
-own a large chunk of an house.
+[Moynihan said of Clintoncare back then] 'He hated unnecessary
+government complexity' and the Clinton plan.. was complex and hard to
+explain (as Obamacare would be as well). Also, Moynihan 'could see the
+[so-called reform] policies' proposed by Clinton would 'not perform as
+promised'"
 
 ---
 
-"Sixteen million homes currently sit vacant across the U.S. Despite
-how many houses are in the U.S., millions remain empty across the
-country while hundreds of thousands of Americans face homelessness."
+"@somcak@cutie.city
 
-[[-]](https://unitedwaynca.org/blog/vacant-homes-vs-homelessness-by-city)
-
----
-
-Open Web Advocacy: "We are a group of software engineers from all over
-the world who have come together to advocate for the future of the
-open web.. What is at stake? The entire future of Application
-Development.. Without regulatory or legislative change, we risk losing
-a universal, free and open, write once, deploy anywhere, application
-distribution and deployment system which will dramatically lower costs
-for businesses and consumers. Without these changes, funding will
-shift to proprietary ecosystems and gatekeepers can extract heavy
-taxes. It will lock in their control and reduce innovation for mobile
-apps for many years to come"
-
-[[-]](https://open-web-advocacy.org/)
-
----
-
-"It’s Official, Apple Kills Web Apps in the EU.. [Apple says] 'to
-comply with the DMA’s requirements, we had to remove the Home Screen
-web apps feature in the EU'.. This is emphatically not required by the
-EU’s Digital Markets Act (DMA).. the idea that users could install
-safe and secure apps that Apple can’t tax, block or control is
-terrifying to them"
-
-[[-]](https://open-web-advocacy.org/blog/its-official-apple-kills-web-apps-in-the-eu/)
-
----
-
-Belfast Telegraph: "Almost two-thirds of people in Northern Ireland
-would vote to rejoin the European Union if another referendum were
-held today, according to a poll"
-
----
-
-LA Times: "Opinion: I'm an American doctor who went to Gaza. I saw
-annihilation, not war"
-
-[[-]](https://www.latimes.com/opinion/story/2024-02-16/rafah-gaza-hospitals-surgery-israel-bombing-ground-offensive-children)
+.. When Congress says we can’t afford universal healthcare, they are
+saying, 'We can’t afford to not make the insurance companies money
+because they fund our campaigns'"
 
 ---
 
@@ -188,3 +135,5 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
+
+
