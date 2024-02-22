@@ -34,15 +34,17 @@ to reach another.
 
 ---
 
-[They Rule](https://theyrule.net) is an interactive visualization of
-the interlocking directories of the largest US companies. It shows
-that 87 of the top 100 US companies in 2021 were connected through
-shared directors on their boards... A few companies control much of
-the economy and oligopolies exert control in nearly every sector of
-the economy. The people who oversee these companies swap on and off
-the boards from one company to another, and in and out of government
-positions. These people run the most powerful institutions on the
-planet, and we have almost no say in who they are"
+"*They Rule* is an interactive visualization of the interlocking
+directories of the largest US companies. It shows that 87 of the top
+100 US companies in 2021 were connected through shared directors on
+their boards... A few companies control much of the economy and
+oligopolies exert control in nearly every sector of the economy. The
+people who oversee these companies swap on and off the boards from one
+company to another, and in and out of government positions. These
+people run the most powerful institutions on the planet, and we have
+almost no say in who they are"
+
+[[-]](https://theyrule.net)
 
 ---
 
@@ -135,5 +137,3 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
-
-
