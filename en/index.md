@@ -15,7 +15,7 @@ China’s electrolyzer sector"
 
 ---
 
-It makes sense for Disney to go Woke, they are deeply embedded in
+It makes sense for Disney to go Woke, they are deeply embedded in the
 complex. They need to gaslight, that means taking part in the Woke
 debate. They are essentially pursuing this non-issue to escape the
 pitchforks.
