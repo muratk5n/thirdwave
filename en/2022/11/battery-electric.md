@@ -4,7 +4,7 @@ Lion battery tech suffers from multidude of problems that makes it
 unfit as a basis of a green transition, and as a general storage
 mechanism.
 
-<a name='density'/>
+<a name='density'></a>
 
 ### Low Energy Density
 
@@ -34,7 +34,7 @@ long-haul flying: we would need so many heavy batteries that the plane
 wouldn’t be able to take off. And batteries won’t compete with
 molecules to propel cargo ships across oceans" [3]
 
-<a name='reserves'/>
+<a name='reserves'></a>
 
 ### Insufficient Lithium Reserves
 
@@ -82,7 +82,7 @@ Requirement is 21 times of reserves
 .. it would require over 20 times the amount of available lithium in
 the world.
 
-<a name='degradation'/>
+<a name='degradation'></a>
 
 ### Degradation
 
@@ -119,7 +119,7 @@ battery is by definition a waste, it sits there not to be used.
 
 [[-]](https://mastodon.social/@JimG@toot.cat/109946177063636386)
 
-<a name='cold'/>
+<a name='cold'></a>
 
 The Cold Weather Problem
 
@@ -146,7 +146,7 @@ The Grid
 
 [Blowing the Fuse](../../2022/10/grid-fuse.html)
 
-<a name='safety'/>
+<a name='safety'></a>
 
 ### Safety
 

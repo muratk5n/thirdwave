@@ -1,95 +1,134 @@
 
-China Hydrogen Bulletin: "China now arguably controls world
-electrolyzer manufacturing capacities, especially alkaline
-electrolyzers, with over 50 per cent global nominal capacities located
-in China by the end of 2023.. China will have over 40GW electrolyzer
-production capacity by the end of 2024, which alone far exceeds
-foreseeable global demand of around 10GW in 2025. However, latest
-developments shows that Chinese electrolyzer producers didn’t halt
-their expanding pace-at least five companies have announced
-inauguration of new plants or beginning of construction of GW scale
-production facilities just within first two months of 2024. Through
-these cases, we may realize that even the most aggressive forecasts by
-world leading consultancies may underestimate the capacity building of
-China’s electrolyzer sector"
+Defense Mirror: "Singapore to be a Hub of Future Hydrogen-fueled Large
+Commercial Planes.. Singapore plans to strategically pioneer
+hydrogen-fueled aviation by assessing feasibility, infrastructure, and
+technological advancements"
+
+<img width='340' src='https://www.defensemirror.com/uploads//news/big/7_1708585613.jpg'/> 
 
 ---
 
-It makes sense for Disney to go Woke, they are deeply embedded in the
-complex. They need to gaslight, that means taking part in the Woke
-debate. They are essentially pursuing this non-issue to escape the
-pitchforks.
+Here is how a realistic movie would be like. An AK shoots 600/min, in
+120 minutes 72K bullets. So the movie could be about just one guy, he
+shoots an AK non-stop, from beginning until the end, constantly
+reloading, and by the end of the movie, maybe he'd have taken out
+one enemy soldier.
 
 ---
 
-Here is [Disney](https://www.dropbox.com/scl/fi/wccbwl1qtxq2osfuarfng/disney_theyrule1.gif?rlkey=4xpmucsf7clyhvk6tu1qa1o9u&raw=1).
-With a little browsing I found two connections already.
+Belfast Telegraph: "[2011] US forces have fired so many bullets in
+Iraq and Afghanistan - an estimated 250,000 for every insurgent killed -
+that American ammunition-makers cannot keep up with demand"
 
 ---
 
-There are some interesting connections there... You can play a version
-of Six Degrees of Kevin Bacon with this data, start with one
-conglomerate and find out how many board member connections it takes
-to reach another.
+The lone gunman among unarmed civilians, or the stock bullshit
+Holywood war movie is based on a myth. The hero sprays bullets around,
+shoots 100 and kills 100. Reality is going after people who are just
+as intent on killing you, and that is hard. Read: "During World War II
+it was estimated that 45,000 rounds of small arms ammunition was fired
+to kill one enemy soldier. In Vietnam the American military
+establishment consumed an estimated 50,000 rounds of ammunition for
+every enemy killed".
 
 ---
 
-"*They Rule* is an interactive visualization of the interlocking
-directories of the largest US companies. It shows that 87 of the top
-100 US companies in 2021 were connected through shared directors on
-their boards... A few companies control much of the economy and
-oligopolies exert control in nearly every sector of the economy. The
-people who oversee these companies swap on and off the boards from one
-company to another, and in and out of government positions. These
-people run the most powerful institutions on the planet, and we have
-almost no say in who they are"
-
-[[-]](https://theyrule.net)
+Personal weapons are the perfect market for arms co. The demand fit
+with the politics of the times (anti-government, buy guns to "protect
+yourself"), they sold these essentially useless products by the
+millions.
 
 ---
 
-Ukraine looks like it can be Winchester... Watch out
+Arms manufacturers would like personal weapon demand to be at consumer
+product level, everyone buying one or two, w/ contracts on
+maintanance, some ammo purchases here and there. "Consumers" shoot
+their little toy around for a little show, nothing more. When things
+get serious arms co could get worried, real war is serious
+business. All of a sudden you need ammunition in the millions,
+production needs to ramped up for certain things not for
+others.. Producing little gadgetry is different from war-time
+production, and not necessarily as profitable.
 
 ---
 
-"Being Winchester" is clearly not good.. \#LOB
-
-----
-
-*Land of Bad* ⭐ ⭐ ⭐ ⭐ 
+Three-dimensional chess my ass... It's more like one-dimensional checkers.
 
 ---
 
-Kurt Andersen: "In the 1960s and ’70s, Daniel Moynihan had been
-pigeonholed as a moderate or a conservative, but as a U.S. senator
-during the 1990s, when the rest of his party went Republicanesque on
-the political economy, Moynihan was a kind of heroic last left-winger
-standing...
-
-At the start of his presidency, Clinton tried to legislate an
-expansion of the private U.S. health insurance system to make it cover
-more people. 'Mr. Clinton and his allies,' a Times analysis explained
-in 1994, 'were trying hard to redefine the Democratic Party away from
-traditionally liberal approaches to domestic policy; they were almost
-inevitably drawn to the ideas of managed competition.  Though still
-largely theoretical, the concept relies on market forces, not
-government, to hold down costs and expand access to health insurance.'
-That is, Clinton tried and failed to pass a version of Obamacare
-sixteen years before Obama succeeded..
-
-[Moynihan said of Clintoncare back then] 'He hated unnecessary
-government complexity' and the Clinton plan.. was complex and hard to
-explain (as Obamacare would be as well). Also, Moynihan 'could see the
-[so-called reform] policies' proposed by Clinton would 'not perform as
-promised'"
+US is not an empire and it does not have a deep state - even the
+shadiest shit is known to the decision makers, some of whom are
+naturally bought out by moneyed interests. Some geniunely might think
+they are involved in deep strategery hence they are favored by the
+donors because their stupid moves will still help the complex, whose
+only time horizon is the next quarter.
 
 ---
 
-"@somcak@cutie.city
+Government is a huge organization, there are all kinds of people in
+it, it is tough to make it go totally fascistic. I would be more
+worried of Coca-Cola then some imagined "deep state".
 
-.. When Congress says we can’t afford universal healthcare, they are
-saying, 'We can’t afford to not make the insurance companies money
-because they fund our campaigns'"
+---
+
+"@baldur@toot.cafe
+
+.. 'I use GPT to generate SQL queries I barely understand but I’m sure
+that I catch all of the security bugs and exploits reading over the
+code myself'"
+
+---
+
+"@baldur@toot.cafe
+
+One of my new year’s resolutions was to stop debating the incoherent
+AI claims MBA and tech bro types on private Slacks or mailing lists,
+but they just keep saying so much dumb stuff that it’s hard to just
+sit on your fingers and ignore them"
+
+---
+
+Watched California Senate debate; my picks, Barbara Lee \#1, Porter
+\#2.  Schiff made some suprising noises on taxation, not bad. But
+there is too much big money behind him, not clear he would be a
+reliable vote on important issues.
+
+---
+
+That is hilarious he uses that word too, according to the book *Evil
+Geniuses* the real asshole was his father, John Sununu, described
+exactly in those terms. Apparently noone in US politics did more
+damage to the climate cause than him. Excerpt below:
+
+>The surname Sununu is familiar today mainly because of a pair of
+>recent New Hampshire politicians, a governor and a U.S. senator, but
+>the most significant Sununu was their father, John H. Sununu, himself
+>a former New Hampshire governor and the first President Bush’s first
+>chief of staff. In several important ways, he was another prototypical
+>Republican for the new age: an asshole personally, a conservative
+>hard-liner, and a critical figure in turning the party toward full-bore
+>denial of climate change.
+
+---
+
+He just mad the candidate he supported did not win in his home state.
+What do youngsters say these days? CRINGE.
+
+Politico: "‘Assholes come and go’: Trump isn’t the future, Sununu says"
+
+---
+
+You can't bitch about Navalny if you had anything to do with Assange's
+current condition.
+
+---
+
+Arab News: "Dutch PM Rutte in strong position to become NATO chief
+after getting US, UK backing"
+
+---
+
+NYT: "As Gaza Death Toll Nears 30,000, Israel’s Isolation Grows"
 
 ---
 
