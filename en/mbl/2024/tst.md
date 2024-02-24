@@ -7,6 +7,23 @@ pd.set_option('display.max_columns', None)
 ```
 
 
+```python
+df = u.get_fred(2018,['FEDFUNDS','MSPUS'])
+df = df.interpolate()
+u.two_plot(df.FEDFUNDS, 'rate', df.MSPUS, 'median houses')
+plt.savefig('/tmp/out.jpg')
+```
+
+
+
+
+
+
+
+
+
+
+
 
 
 
