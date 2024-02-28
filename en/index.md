@@ -1,61 +1,128 @@
 
-Butler: "[from a speech before the American Legion which made the
-papers]. I spent thirty-three years and four months in active military
-service, and during that period I spent most of my time being a
-high-class muscle man for Big Business, for Wall Street and the
-bankers. In short, I was a racketeer, a gangster for capitalism. I
-helped make Honduras right for the American fruit companies in 1903. I
-helped purify Nicaragua for the International Banking House of Brown
-Brothers in 1902–1912. I helped make Mexico and especially Tampico
-safe for American oil interests in 1914. I brought light to the
-Dominican Republic for the American sugar interests in 1916. I helped
-make Haiti and Cuba a decent place for the National City Bank boys to
-collect revenues in. I helped in the raping of half a dozen Central
-American republics for the benefit of Wall Street. In China in 1927 I
-helped see to it that Standard Oil went on its way unmolested. Looking
-back on it, I might have given Al Capone a few hints. The best he
-could do was to operate his racket in three districts. I operated on
-three continents"
+Business Green: "UK Infrastructure Bank makes first green hydrogen
+investment.. Public investment bank announces £30m of funding for
+hydrogen power unit maker GeoPura The UK Infrastructure Bank (UKIB)
+has announced its first ever green hydrogen investment, confirming a
+£30m investment in a manufacturer of hydrogen power units.
+
+The deal forms part of a £56m fund raising round completed by GeoPura
+to support the roll out of hydrogen power units that can replace
+emissions-intensive diesel generators. GeoPura is aiming to deploy a
+fleet of more than 3,600 hydrogen power units by 2033 from its hubs in
+Nottingham, Matlock, Sheffield, and Newcastle. The firm is also hoping
+to become a supplier of renewable hydrogen, as part of a joint venture
+with JG Pears to undertake green hydrogen production at the site of an
+old power station in the East Midlands.
 
 ---
 
-Butler is one of the most decorated soldiers of US Army. He commanded
-a Marine Expeditionary Force during the late 1920s, named a major
-general later. He is one of the few people who have been twice awarded
-the Medal of Honor, received the Marine Corps Brevet Medal, the
-highest Marine decoration at the time for officers. He figured out
-what was going on however, wrote about it. His book *War Is a Racket*
-was republished recently, its intro written by Jesse Ventura.
+Nobel Prize–winning economist Gary Becker's mentor was Milton
+Friedman. And Becker was a mentor to the junk bond felon Mike
+Milken. Dam cuh
 
 ---
 
-General Smedley D. Butler: "[1930] There are only two things we should
-fight for. One is the defense of our homes and the other is the Bill
-of Rights. War for any other reason is simply a racket"
+Even Swedes got part of the action.. 
+
+Africa News: "[2023/09] Two former executives at a Swedish oil company
+go on trial in Stockholm on Tuesday accused of complicity in war
+crimes committed by Sudan's regime between 1999 and 2003. Swede Ian
+Lundin and Swiss national Alex Schneiter are accused of asking Sudan's
+government to make its military responsible for security at the site
+of one of Lundin Oil's exploration fields, which later led to aerial
+bombings, killing of civilians and burning of entire villages,
+according to the prosecution"
 
 ---
 
-ProPublica: "The Rising Cost of the Oil Industry’s Slow
-Death.. Unplugged oil and gas wells accelerate climate change.. Until
-wells are properly plugged, many leak oil and brine onto farmland and
-into waterways and emit toxic and explosive gasses, rendering
-redevelopment impossible"
+"[2001] The scorched earth: Oil and war in Sudan.. [A] report.. shows
+how the presence of international oil companies is fuelling the
+war... In the name of oil, government forces and government-supported
+militias are emptying the land of civilians, killing and displacing
+hundreds of thousands of southern Sudanese. Oil industry
+infrastructure - the same roads and airstrips which serve the
+companies - is used by the army as part of the war. In retaliation,
+opposition forces have attacked government-controlled towns and
+villages, causing further death and displacement"
 
 ---
 
-"@evacide@hachyderm.io
+Chevron in Sudan? Say no more. There is your culprit.
 
-Did I mention that the data broker industry must be destroyed? Because
-yeah"
-
----
-
-Al-Monitor: "Shipping insurance rates soar on Red Sea missile attacks"
+"There is chaos in Sudan. Do you think involvement of Chevron contributed... "
 
 ---
 
-F24: "France under pressure to suspend military sales to Israel as war
-in Gaza grinds on"
+Butler, *War is a Racket*: "[1935, A key] step in this business of
+smashing the war racket is to make certain that our military forces
+are truly forces for defense only.  At each session of Congress the
+question of further naval appropriations comes up. The swivel-chair
+admirals of Washington (and there are always a lot of them) are very
+adroit lobbyists. And they are smart. They don’t shout that 'We need a
+lot of battleships to war on this nation or that nation.' Oh,
+no. First of all, they let it be known that America is menaced by a
+great naval power. Almost any day, these admirals will tell you, the
+great fleet of this supposed enemy will strike suddenly and annihilate
+our 125,000,000 people. Just like that. Then they begin to cry for a
+larger navy.  For what?..
+
+The ships of our navy.. should be specifically limited, by law, to
+within 200 miles of our coastline. Had that been the law in 1898 the
+Maine would never have gone to Havana Harbor. She never would have
+been blown up. There would have been no war with Spain with its
+attendant loss of life. Two hundred miles is ample, in the opinion of
+experts, for defense purposes. Our nation cannot start an offensive
+war if its ships can’t go farther than 200 miles from the coastline.
+Planes might be permitted to go as far as 500 miles from the coast for
+purposes of reconnaissance. And the army should never leave the
+territorial limits of our nation"
+
+---
+
+The `corr` function returns values between -1 and 1. Negative value
+for rates and prices make sense, lower rates do push house prices up.
+But excessive wealth concentration has 5 times the effect compared to
+any rate changes.
+
+---
+
+Rate rises did not help lowering house prices. Analysis below shows
+the highest correlation is between high wealth and house prices, not
+between rates and house prices. 
+
+```python
+df = u.get_fred(2000,['FEDFUNDS','MSPUS','WFRBST01134'])
+df.columns = ['rate','house price','top 1% wealth']
+df = df.interpolate()
+df.corr()
+```
+
+```text
+Out[1]: 
+                   rate  house price  top 1% wealth
+rate           1.000000    -0.121352      -0.327207
+house price   -0.121352     1.000000       0.766769
+top 1% wealth -0.327207     0.766769       1.000000
+```
+
+---
+
+Inequality skews demand towards the upside. A median house cannot cost
+nearly half a million fucking dollars. This is serious, as in
+pitchfork level serious.
+
+---
+
+NBC News: "New data shows the median sale price for a home rose to
+nearly $380,000 in January — the seventh increase in a row"
+
+---
+
+Euronews: "Spain is banning some short-haul domestic flights as part
+of its plan to reduce carbon emissions... Flights with a rail
+alternative that takes less than two and a half hours will no longer
+be allowed, 'except in cases of connection with hub airports that link
+with international routes'"
 
 ---
 
@@ -103,3 +170,5 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
+
+

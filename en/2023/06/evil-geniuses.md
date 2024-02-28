@@ -25,7 +25,7 @@ America. And by choosing as their front man a winsome 1950s actor in a
 cowboy hat, the very embodiment of a certain flavor of American
 nostalgia.
 
-<a name='gov'/>
+<a name='gov'></a>
 
 Government
 
@@ -45,7 +45,7 @@ started focusing more of their resentment and anger on the federal
 government, the smart right-wingers knew, it could have the same
 effect.
 
-<a name='thedeal'/>
+<a name='thedeal'></a>
 
 The Deal
 
@@ -75,7 +75,7 @@ huge reduction in taxes on income from selling stocks, capital gains -
 a definitive turn toward making extra-sure the rich got richer
 faster...
 
-<a name='bargain'/>
+<a name='bargain'></a>
 
 In retrospect, Milton Friedman's 1970 manifesto on behalf of shameless
 greed amounted to a preliminary offer by the philosopher-king of the

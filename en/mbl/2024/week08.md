@@ -289,7 +289,7 @@ Hydrogen fuel vehicles in South Africa"
 
 ---
 
-Russia is not part of ICSID, neither is Brazil and many other countries.
+Russia is not part of ISDS, neither is Brazil and many other countries.
 Intl trade is possible without it.
 
 ---
@@ -693,7 +693,7 @@ islands visible from the port city of Xiamen in eastern China"
 Frontline 02/10 - 02/17 - Avdiivka has fallen. RU gains near Chasiv
 Yar, Novovodiane, Synkivka.
 
-[[-]](ukrmap6.html)
+[[-]](ukrdata/map6.html)
 
 ---
 

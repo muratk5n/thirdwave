@@ -403,7 +403,7 @@ article written by Lambert, the guest.
 
 Frontline changes 01/22 - 01/30. Holy Tabaivka..
 
-[[-]](ukrmap4.html)
+[[-]](ukrdata/map4.html)
 
 ---
 

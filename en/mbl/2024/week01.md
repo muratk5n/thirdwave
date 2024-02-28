@@ -581,7 +581,7 @@ that’s okay,' said Rep. Katie Porter (D-CA) in an interview.
 
 ---
 
-Corporate power built the ICSID system to avoid having to entice their
+Corporate power built the ISDS system to avoid having to entice their
 lapdog politicians to invade countries left and right for them. This
 shady arbitration system is active, ready-for-use 24/7, every day of
 the year. Corps can always drag a country to court for minor
@@ -591,7 +591,7 @@ and age. The post-colonial system is more insidious and underhanded.
 
 ---
 
-ICSID vs South Africa  
+ISDS vs South Africa  
 
 [[-]](https://youtu.be/1xRrk-cYU-E?t=647)
 
@@ -659,7 +659,7 @@ death toll from the war with Israel now tops 21,000"
 
 Recent frontline changes, 12/13 - 12/30
 
-[[-]](../../mbl/2024/ukrmap1.html)
+[[-]](ukrdata/map1.html)
 
 ---
 

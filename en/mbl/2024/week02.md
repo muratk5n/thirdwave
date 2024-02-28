@@ -435,7 +435,7 @@ lawsuit"
 
 RU/UA, 23/12/29 - 24/01/10 \#Frontline
 
-[[-]](ukrmap2.html)
+[[-]](ukrdata/map2.html)
 
 ---
 

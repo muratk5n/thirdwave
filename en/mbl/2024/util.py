@@ -23,6 +23,17 @@ def rottentomatoes(movie):
     d2 = json.loads("{" + tom[0] + "}")
     return {"tomatometer score": d2['tomatometerScoreAll']['value'], "audience score": d1['audienceScore']['value'] }
 
+def map_coords(coords, zoom, outfile):
+    m = folium.Map(location=coords[list(coords.keys())[0]], zoom_start=zoom)	
+    folium.TileLayer(tiles="https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+            name='subdomains2',
+            attr='attribution',
+            subdomains='mytilesubdomain'
+    ).add_to(m)
+    for key,val in coords.items():
+        folium.Marker(val, popup=folium.Popup(key, show=True)).add_to(m)
+    m.save(outfile)
+
 def map_loc(names, outfile):
     coords = [geocoder.osm(x).latlng for x in names]
     m = folium.Map(location=coords[0], zoom_start=6)	
@@ -86,6 +97,52 @@ def mov_profit(budget, gross):
   marketing = budget / 2
   return np.round(gross - (budget + marketing + gross*0.4),2)
 
+sudan_regs = [
+    "Polígono 97",
+    "Polígono 106",
+    "Polígono 109",
+    "Polígono 110",
+    "Polígono 118",
+    "Polígono 119",
+    "Polígono 122",
+    "Polígono 124",
+    "Polígono 125",
+    "Polígono 127",
+    "Polígono 130"
+]
+
+def prepare_sahel_suriyak():
+    """
+    Data from https://www.google.com/maps/d/u/0/viewer?mid=19IxdgUFhNYyUIXEkYmQgmaYHz6OTMEk
+    97,106,109,110,118,119,122,124,125,127,130
+    """    
+    content = open("/tmp/sahel.kml").read()
+    polys = []
+    for i,reg in enumerate(sudan_regs):
+        q = "<Placemark>.*?" + reg + "(.*?)</Placemark>"
+        print (q)
+        res = re.findall(q, content,re.DOTALL)
+        res = res[0]
+        res2 = re.findall("<coordinates>(.*?)</coordinates>", res,re.DOTALL)
+        for r in res2:
+            tmp = r.split(",0")
+            coords = [x.strip().split(",") for x in tmp if len(x.strip()) > 8]
+            coords = [[float(x),float(y)] for x,y in coords]
+            polys.append(Polygon(coords))
+
+    res = unary_union(polys)
+    
+    rrr = list(res.geoms[0].exterior.coords)
+
+    c = np.array(rrr)
+    plt.plot(c[:,0].T,c[:,1].T)
+    plt.savefig('/tmp/out.jpg')    
+    
+    fout = open("/tmp/out.json","w")
+    fout.write(str(rrr).replace("(","[").replace(")","]"))
+    fout.close()
+
+
 regs = [
     "Luhansk People's Republic \(North Luhansk\)",
     "Luhansk People's Republic \(East Luhansk\)",
@@ -110,7 +167,7 @@ def prepare_suriyak():
     Code searches coordinate blocks by name. Must rename some like Central Donetsk,
     or East Luhansk inside the kml file which repeat, I add 2, 3, at the end. 
     """
-    content = open("/tmp/suriyak.kml").read()
+    content = open("/tmp/ukraine.kml").read()
     polys = []
     for i,reg in enumerate(regs):
         q = "<Placemark>.*?" + reg + "(.*?)</Placemark>"
@@ -141,4 +198,5 @@ def prepare_suriyak():
 if __name__ == "__main__": 
 
     prepare_suriyak()
+    #prepare_sahel_suriyak()
     

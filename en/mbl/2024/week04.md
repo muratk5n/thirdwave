@@ -404,7 +404,7 @@ These people are pissed \#ISR
 
 Frontline UA/RU 01/10 - 01/22. Visible RU gains in Avdiivka.
 
-[[-]](ukrmap3.html)
+[[-]](ukrdata/map3.html)
 
 ---
 

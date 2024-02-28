@@ -55,7 +55,7 @@ Frontline 01/30 - 02/10. Massive RU gains east of Yampolivka,
 Bilohorivka.  Some around Chasiv Yar, Niu-York too. A big chunk to the
 north of Avdiivka is gone, the pincer is about to close.
 
-[[-]](ukrmap5.html)
+[[-]](ukrdata/map5.html)
 
 ---
 
