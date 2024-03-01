@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_fdaeb78c4a2d460a8c506e72d9098665 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_fdaeb78c4a2d460a8c506e72d9098665" ></div>
+        
+</body>
+<script>    
+    
+            var map_fdaeb78c4a2d460a8c506e72d9098665 = L.map(
+                "map_fdaeb78c4a2d460a8c506e72d9098665",
+                {
+                    center: [-33.176793409, 95.300021451],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 4,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_bccb2b80a36e4a1d8959e826d77b1cf0 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_fdaeb78c4a2d460a8c506e72d9098665);
+        
+    
+            var tile_layer_6f4790e923b943058519da684f03c17c = L.tileLayer(
+                "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+                {"attribution": "attribution", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "mytilesubdomain", "tms": false}
+            ).addTo(map_fdaeb78c4a2d460a8c506e72d9098665);
+        
+    
+            var marker_86c06423129c4b648ad682506f8aef59 = L.marker(
+                [-33.176793409, 95.300021451],
+                {}
+            ).addTo(map_fdaeb78c4a2d460a8c506e72d9098665);
+        
+    
+        var popup_766ee97e33ee4851ba97071352c69eea = L.popup({"autoClose": false, "maxWidth": "100%"});
+
+        
+            var html_0b62c3382afe4615bde8892d358829bf = $(`<div id="html_0b62c3382afe4615bde8892d358829bf" style="width: 100.0%; height: 100.0%;">MH 370</div>`)[0];
+            popup_766ee97e33ee4851ba97071352c69eea.setContent(html_0b62c3382afe4615bde8892d358829bf);
+        
+
+        marker_86c06423129c4b648ad682506f8aef59.bindPopup(popup_766ee97e33ee4851ba97071352c69eea)
+        .openPopup();
+
+        
+    
+    
+            var marker_89fabd480b3840ca91700b80c628689b = L.marker(
+                [2.8181270526833417, 102.18700262813148],
+                {}
+            ).addTo(map_fdaeb78c4a2d460a8c506e72d9098665);
+        
+    
+        var popup_ffc72c07d08c40bcbe9191485997d38b = L.popup({"autoClose": false, "maxWidth": "100%"});
+
+        
+            var html_b31a287547644407b513da6875110c8a = $(`<div id="html_b31a287547644407b513da6875110c8a" style="width: 100.0%; height: 100.0%;">Kuala Lumpur Intl Airport</div>`)[0];
+            popup_ffc72c07d08c40bcbe9191485997d38b.setContent(html_b31a287547644407b513da6875110c8a);
+        
+
+        marker_89fabd480b3840ca91700b80c628689b.bindPopup(popup_ffc72c07d08c40bcbe9191485997d38b)
+        .openPopup();
+
+        
+    
+</script>
