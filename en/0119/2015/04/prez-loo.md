@@ -69,7 +69,3 @@ The freak event is Bush / Gore. Two things there - there was some
 possibility for Bush win, and second, well.. the election was
 stolen. Plus, Gore won the popular vote (that's what the model
 predicts).
-
-
-
-

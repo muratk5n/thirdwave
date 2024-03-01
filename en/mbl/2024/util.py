@@ -10,6 +10,16 @@ from io import BytesIO
 
 def get_pd(): return pd
 
+def household(since):
+    df = get_fred(since, ['MEHOINUSA646N','TDSP','CPIAUCSL'])
+    df = df.interpolate()
+    df = df.dropna()
+
+    cpi = float(df.tail(1).CPIAUCSL)
+    df['cpi2'] = cpi / df.CPIAUCSL 
+    df['household income'] = df.MEHOINUSA646N * df.cpi2     
+    return df['household income']
+    
 def rottentomatoes(movie):
     rel = movie.replace(" ","_").lower()
     url = "https://www.rottentomatoes.com"
@@ -161,7 +171,7 @@ regs = [
     "Kherson-Russian Armed Forces",
     "Nykolaiv-Russian Forces"]
 
-def prepare_suriyak():
+def prepare_ukraine_suriyak():
     """
     Data from https://www.google.com/maps/d/viewer?mid=1V8NzjQkzMOhpuLhkktbiKgodOQ27X6IV
     Code searches coordinate blocks by name. Must rename some like Central Donetsk,
@@ -197,6 +207,6 @@ def prepare_suriyak():
 
 if __name__ == "__main__": 
 
-    prepare_suriyak()
+    prepare_ukraine_suriyak()
     #prepare_sahel_suriyak()
     
