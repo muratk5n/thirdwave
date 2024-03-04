@@ -86,7 +86,7 @@ indicators alone...
 
 UK and China
 
-<a name='ukch'/>
+<a name='ukch'></a>
 
 By standard indicators, China looked like a superpower in the
 nineteenth and early twentieth centuries. It had the largest GDP and
@@ -152,7 +152,7 @@ resources. China’s population, GDP, and military were several times
 larger than Japan’s, but Japan had greater net resources because it
 was much more efficient than China ...
 
-<a name='chsuperpower'/>
+<a name='chsuperpower'></a>
 
 First, an enormous literature in international relations has been
 built on a flawed conception of power, so existing studies may need to

@@ -94,7 +94,7 @@ steppes of eastern Ukraine and Russia.
 
 ![](indo1.jpg)
 
-<a name='stew'/>
+<a name='stew'></a>
 
 Fire-resistant clay pots made it possible to cook stews and soups all
 day over a low fire, breaking down complex starches and proteins so

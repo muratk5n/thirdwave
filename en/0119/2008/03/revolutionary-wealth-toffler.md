@@ -2,7 +2,7 @@
 
 From Toffler's book
 
-<a name='globalization'/>
+<a name='globalization'></a>
 
 Re-Globalization
 
@@ -74,7 +74,7 @@ first to embody it. Can anyone imagine what today's world economy and
 financial system would look like minus limited liability for
 investors? Was that any less achievement than, say, the telegraph?
 
-<a name='intangible'/>
+<a name='intangible'></a>
 
 The Intangible in the Tangible
 

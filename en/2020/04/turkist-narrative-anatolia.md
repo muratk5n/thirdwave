@@ -29,7 +29,7 @@ over 10,000 years ago ("Turk" migration is little over 1000 yrs
 old). So it should be no surprise inventions around food, tasty
 recipes, preservation methods were first invented there, not by nomads.
 
-<a name='yogurt'/>
+<a name='yogurt'></a>
 
 Yogurt was invented in the Mediterrenian region, Herodotus talks about
 it in the 5th century B.C. 
@@ -51,7 +51,7 @@ hot summer sun to dry over a few days.
 are all variations of the same idea that were served all over the place in
 Eastern Europe and Middle East, for thousands of years.
 
-<a name='music'/>
+<a name='music'></a>
 
 Music
 
@@ -130,7 +130,7 @@ are so they can tell themselves fairy tales about hordes coming in
 from wherever causing terror in the lands therefore one must be
 on guard to protect the Greek nation at all times.
 
-<a name='islamoturkist'/>
+<a name='islamoturkist'></a>
 
 - After the 80 fascist coup the narrative was expanded to include
 Islam. But the Islamoturkist Synthesis was also strategically crafted
@@ -148,7 +148,7 @@ system continued to believe in it, new ones pushed and pulled it into
 bizarre new directions, making it into everything, which implied
 previously already defective narrative now also meant nothing.
 
-<a name='antiislamo'/>
+<a name='antiislamo'></a>
 
 - The 80s coup leaders, while creating an Islamoturkist Synthesis,
 also "activated" the Turkist, Kemalist crowd alerting them to be "on
@@ -161,7 +161,7 @@ take off their hijab, whereas conservative from usually poorer
 background tried to "defend their identity" by refusing.. The Turkist
 resurgence used the image of Kemal as its mascot [5].
 
-<a name='problems'/>
+<a name='problems'></a>
 
 ### Problems
 

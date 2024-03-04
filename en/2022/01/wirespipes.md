@@ -55,7 +55,7 @@ from North Africa to central Germany via pipeline could amount to
 about USD 0.5 per kg of H2 – less than the cost difference of domestic
 renewable hydrogen production in these two regions"
 
-<a name='10calc'/>
+<a name='10calc'></a>
 
 Verification of the 10x tranmission; take 10 m/s gas flow, at 350 bars
 density H2 is 28 kg/m3, assuming a pipe output area of 1 m2, energy
@@ -78,7 +78,7 @@ print (kg_1h*dens / 1000.0, 'MW')
 This is the power carried by gas pipeline compared to 2400 MW by
 typical 765 kV electrical tower.
 
-<a name='doe'/>
+<a name='doe'></a>
 
 [US Department of Energy](https://www.energy.gov/eere/fuelcells/hydrogen-pipelines)
 

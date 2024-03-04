@@ -38,7 +38,7 @@ plt.savefig('bti-compare.png')
 
 ![](bti-compare.png)
 
-<a name='btiall'/>
+<a name='btiall'></a>
 
 ```python
 import pandas as pd
@@ -78,7 +78,7 @@ Year
 
 ![](db-all.png)
 
-<a name='fsi'/>
+<a name='fsi'></a>
 
 ### The Fragile States Index
 
@@ -119,7 +119,7 @@ plt.savefig('fsi2.png')
 
 [Code](fsi.py)
 
-<a name='coups'/>
+<a name='coups'></a>
 
 ### Coups
 

@@ -15,7 +15,7 @@ village, staying in one place with stores of food, gave birth to seven
 or eight babies [..] The more food people grew, the more babies they
 could feed [..]
 
-<a name='replaced'/>
+<a name='replaced'></a>
 
 Most farmers expanding into new territory found foragers already
 living there... Archaeological surveys suggest that the first farmers
@@ -39,7 +39,7 @@ between houses, to be trodden into the dust and mud. The filth would
 have appalled hunter-gatherers but surely delighted rats, flies, and
 fleas... Yet for all the squalor, this was clearly what people wanted.
 
-<a name='ancestors'/>
+<a name='ancestors'></a>
 
 Little hunter-gatherer bands had had broad geographical horizons but
 narrow social ones: the landscape changed but the faces did not. The
@@ -77,7 +77,7 @@ others. People may also have used skulls for necromancy, summoning
 ancestors to ask when to plant, where to hunt, and whether to raid
 neighbors [..]
 
-<a name='hierarchy'/>
+<a name='hierarchy'></a>
 
 [H]ierarchy developed fastest within households. I have already
 observed that men and women had had different roles in foraging
@@ -105,7 +105,7 @@ Marriage would become a source of wealth as those who already had good
 lands and flocks would marry others in the same happy situation,
 consolidating holdings. The rich got richer.
 
-<a name='eastwest'/>
+<a name='eastwest'></a>
 
 [R]oughly the same things happened [after invention of agriculture 10k
 years ago] in both East and West. Both regions saw the domestication

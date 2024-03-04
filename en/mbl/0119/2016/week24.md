@@ -203,8 +203,6 @@ Yep
 
 ---
 
-<a name="howitis"/>
-
 People long for a politician who says it like it is.
 
 It's a trend

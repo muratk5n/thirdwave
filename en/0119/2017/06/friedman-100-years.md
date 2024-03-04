@@ -2,7 +2,7 @@
 
 George Friedman
 
-<a name='navies'/>
+<a name='navies'></a>
 
 Navies
 
@@ -27,7 +27,7 @@ security to allow them to begin probing out to sea. The United States
 therefore worked to create a continually shifting series of alliances
 designed to tie down any potential regional hegemon. ...
 
-<a name='china'/>
+<a name='china'></a>
 
 China
 

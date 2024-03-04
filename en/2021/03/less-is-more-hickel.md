@@ -75,7 +75,7 @@ twice over...
 
 ![](material-flows.png)
 
-<a name='decouple'/>
+<a name='decouple'></a>
 
 This increase in material use tracks more or less exactly with the
 rise of global GDP. The two have grown together in lockstep. Every

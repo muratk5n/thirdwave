@@ -72,7 +72,7 @@ beaten down, economy in ruins, in a terrible state. You can't be like
 Camacho. Fascist then first says **let me help you brother**. Much
 later it's like let's kill some people over there.
 
-<a name='fascism'/>
+<a name='fascism'></a>
 
 Fascist is the "whatever it takes" guy basically... His people are
 beaten down and he wants to do *whatever it takes* to help. He'll take

@@ -79,7 +79,7 @@ what could be pushing it if not outgassing or disintegration. The only
 explanation that came to mind was the sunlight bouncing off its
 surface like wind off a thin sail.
 
-<a name='h2gas'/>
+<a name='h2gas'></a>
 
 ### Hydrogen Gas
 

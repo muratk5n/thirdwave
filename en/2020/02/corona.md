@@ -13,7 +13,7 @@ annual growth of world population hovers around the same ratio
 
 Code is from [2]
 
-<a name='mortality'/>
+<a name='mortality'></a>
 
 ```python
 import util
@@ -72,7 +72,7 @@ to data, and using the found $\beta$ and $\gamma$ we calculate $R_0$.
 
 ### Graphs
 
-<a name='usdailydeath'/>
+<a name='usdailydeath'></a>
 
 US Daily Deaths, 7-Day Moving Average
 
@@ -98,7 +98,7 @@ Name: New deaths, dtype: float64
 
 ![](US-deaths.png)
 
-<a name='frdailydeath'/>
+<a name='frdailydeath'></a>
 
 FR Daily Deaths, 7-Day Moving Average
 
@@ -123,7 +123,7 @@ Out[1]: <AxesSubplot:xlabel='Date'>
 ```
 
 
-<a name='Rt'/>
+<a name='Rt'></a>
 
 Reproduction Rate $R_t$
 

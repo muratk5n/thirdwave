@@ -2,7 +2,7 @@
 
 Bruce B. de Mesquita
 
-<a name='ghazi'/>
+<a name='ghazi'></a>
 
 In practice, [Ottomans had] two kinds of war. The first was the war of
 imperial campaigns, formally legitimized by the [..] state's chief

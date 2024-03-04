@@ -60,7 +60,7 @@ Eti Turks. And of course the Sumerians in Mesopotamia, too, were
 Turkish, since, together with the Hittite language, Sumerian was also
 (totally baselessly) identified as a Turkic language...
 
-<a name='unscientific'/>
+<a name='unscientific'></a>
 
 Up to a point, we can understand (but not sympathize with) their
 concerns. This legendary Central Asian civilization enabled them to

@@ -397,8 +397,6 @@ STRONGER.
 
 ---
 
-<a name='mayflower'/>
-
 Sounds tounge-in-cheek, but just a reminder, those nutjobs wrote the
 [Mayflower
 Compact](https://www.history.com/topics/colonial-america/mayflower-compact),
@@ -411,8 +409,6 @@ voyage of the Mayflower. Does anyone know of any plans in Britain to
 celebrate the departure of these tedious puritanical nutjobs?"
 
 ---
-
-<a name='corr'/>
 
 Interesting. Looking at the [Politico
 poll](https://morningconsult.com/2020-democratic-primary/) (taken in

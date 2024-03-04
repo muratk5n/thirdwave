@@ -86,7 +86,7 @@ Name: Close, dtype: float64
 
 <p><img alt="" src="natgas.png" /></p>
 <h3>Energy Production by Source</h3>
-<p><a name='sources'/></p>
+<p><a name='sources'></a></p>
 <p><a href="https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy/downloads.html">Data</a></p>
 <p>Global production, units terrawatt hours</p>
 <p>kbd Thousand of Barrels Per Day</p>
@@ -141,7 +141,7 @@ dtype: float64
 </code></pre>
 
 <p><img alt="" src="source-pie.png" /></p>
-<p><a name='primary'/></p>
+<p><a name='primary'></a></p>
 <h3>Global Primary Energy Consumption</h3>
 <p>In terrawatt hours. 'Primary energy comprises commercially-traded
 fuels, including modern renewables. Energy from all sources of
@@ -167,7 +167,7 @@ Year
 </code></pre>
 
 <p><img alt="" src="world-energy-combined.png" /></p>
-<p><a name='primcountry'/></p>
+<p><a name='primcountry'></a></p>
 <h3>Energy Consumption Per Country</h3>
 <p>For 2021. Units are Gigawatts (not GWh or TWh, shows the necessary
 power input required at each instant).</p>
@@ -208,7 +208,7 @@ Spain                  177
 Name: primary_twh, dtype: int64
 </code></pre>
 
-<p><a name='usgasoline'/></p>
+<p><a name='usgasoline'></a></p>
 <h3>Individual Countries</h3>
 <p><a name='usenergy'/></p>
 <pre><code class="python">u.country_bp(&quot;US&quot;)
@@ -240,7 +240,7 @@ Total
 2646.55 GW
 </code></pre>
 
-<p><a name='lng'/></p>
+<p><a name='lng'></a></p>
 <h3>LNG Traffic per Year</h3>
 <p>In billion cubic meters </p>
 <pre><code class="python">df = pd.read_csv('lng.csv',sep=';',index_col=0)
@@ -248,7 +248,7 @@ df.plot(); plt.savefig('lng.png')
 </code></pre>
 
 <p><img alt="" src="lng.png" /></p>
-<p><a name='coal'/></p>
+<p><a name='coal'></a></p>
 <h3>Coal Price</h3>
 <pre><code class="python">df = u.get_yahoofin(2018,&quot;MTF=F&quot;).interpolate();
 print (df.tail(4))

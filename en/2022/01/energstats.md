@@ -77,7 +77,7 @@ Name: Close, dtype: float64
 
 ### Energy Production by Source
 
-<a name='sources'/>
+<a name='sources'></a>
 
 [Data](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy/downloads.html)
 
@@ -143,7 +143,7 @@ dtype: float64
 
 ![](source-pie.png)
 
-<a name='primary'/>
+<a name='primary'></a>
 
 ### Global Primary Energy Consumption
 
@@ -175,7 +175,7 @@ Year
 
 ![](world-energy-combined.png)
 
-<a name='primcountry'/>
+<a name='primcountry'></a>
 
 ### Energy Consumption Per Country
 
@@ -221,7 +221,7 @@ Spain                  177
 Name: primary_twh, dtype: int64
 ```
 
-<a name='usgasoline'/>
+<a name='usgasoline'></a>
 
 ### Individual Countries
 
@@ -258,7 +258,7 @@ Total
 2646.55 GW
 ```
 
-<a name='lng'/>
+<a name='lng'></a>
 
 ### LNG Traffic per Year
 
@@ -271,7 +271,7 @@ df.plot(); plt.savefig('lng.png')
 
 ![](lng.png)
 
-<a name='coal'/>
+<a name='coal'></a>
 
 ### Coal Price
 

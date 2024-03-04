@@ -36,7 +36,7 @@ dynamic.
 
 Everyone who came to these lands, assimilated into this culture. 
 
-<a name='identity'/>
+<a name='identity'></a>
 
 The national narrative is the more crooked part. 1923 was probably the
 worst time to found a Republic. Ethnic nationalism was on the rise,
@@ -57,7 +57,7 @@ relations the particular word's standing wasn't that hot either, the
 ethnic label could even be considered a slur, no more than 100 years
 ago.
 
-<a name='estagfurullah'/>
+<a name='estagfurullah'></a>
 
 Best account of this comes from an officer in the Ottoman army. At the
 last days of the empire the new nationalism was circulating among the
@@ -84,7 +84,7 @@ tails of, after his death the theory was quitely shelved. A minister
 when asked why this was done answered "what good is the
 Sun-Language-Theory after the Sun has set?".
 
-<a name='add1'/>
+<a name='add1'></a>
 
 To top if off, TR identity went through some incarnations that highly
 reduced its usefulness. As it was constructed, as delusional its roots
@@ -146,18 +146,18 @@ from person to person.
 
 Addendums
 
-<a name='population'/>
+<a name='population'></a>
 
 See [population](asia-minor-population.html)
 
-<a name='gene'/>
+<a name='gene'></a>
 
 A recent research [1] biologically only 9% of genetic structure (95%
 CI 7-11) of today's Anatolia is of Asiatic origin. This fits with the
 pop data above, about 1 million arriving into a population of 9
 million, roughly 10%. 
 
-<a name='religion'/>
+<a name='religion'></a>
 
 The religious make-up of 1800s proves the point, since the so-called
 "Turk" is closely related to Sunni Islam, was seen carrier of the
@@ -199,7 +199,7 @@ better than others. Russia nationalist stories are a crock. US does
 better; Here is portion of the US narrative; "Why did we seperate from
 England?". "Because ruling from a distance was not effective". Fine.
 
-<a name='amish'/>
+<a name='amish'></a>
 
 The best way to explain TR situation is this; Let's say US founders,
 bcz for whatever reason, due to loss in a war, cultural baggage,

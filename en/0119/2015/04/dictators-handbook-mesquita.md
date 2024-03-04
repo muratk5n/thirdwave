@@ -49,7 +49,7 @@ to those essential supporters without whom the leader would be
 finished. A simple way to think of these groups is: interchangeables,
 influentials, and essentials...
 
-<a name='war'/>
+<a name='war'></a>
 
 Remember that large-coalition leaders must keep a broad swath of the
 people happy. In war that turns out to mean that democrats must care
@@ -79,7 +79,7 @@ means losing the war.  What started off as a desire to know why
 democracies don’t fight each other ended up telling us how nations
 fight and what they fight over.
 
-<a name='fidelche'/>
+<a name='fidelche'></a>
 
 Fidel and Che
 

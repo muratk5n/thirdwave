@@ -68,7 +68,7 @@ but, unlike SMR, it did not evolve alongside HB; it has not been
 integrated and co-optimized over decades into the design and
 engineering of an ammonia plant. ...
 
-<a name='afc'/>
+<a name='afc'></a>
 
 ### Ammonia Fuel-Cells
 

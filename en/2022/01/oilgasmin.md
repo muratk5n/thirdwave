@@ -13,7 +13,7 @@ the time of discovery.
 
 [Output](oilgas-out.html)
 
-<a name='pipelines'/>
+<a name='pipelines'></a>
 
 ### Gas Pipelines
 
@@ -26,7 +26,7 @@ oil equivalent per day.
 
 [Output](pipelines.html)
 
-<a name='minerals'/>
+<a name='minerals'></a>
 
 ### Coal, Uranium and Minerals
 

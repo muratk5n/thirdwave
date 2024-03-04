@@ -2,8 +2,6 @@
 
 From the Ryan Gingeras book
 
-<a name='cavid'/>
-
 Committee of Union and Progress
 
 Mehmet Cavid is an instructive, though somewhat underappreciated,
@@ -115,7 +113,7 @@ a Turkish-speaking Muslim of Jewish ancestry born in modern-day
 Greece, encapsulates the diversity and richness the Turkish Republic
 eventually sought to deny or destroy...
 
-<a name='cupethnic'/>
+<a name='cupethnic'></a>
 
 Typifying the passions and contradictions within the CUP were the
 three men most instrumental in later propelling Mustafa Kemal to

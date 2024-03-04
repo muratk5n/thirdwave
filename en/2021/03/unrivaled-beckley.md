@@ -2,7 +2,7 @@
 
 Michael Beckley
 
-<a name='ruch'/>
+<a name='ruch'></a>
 
 Russia - China
 
@@ -109,7 +109,7 @@ impose political control.' According to U.S. intelligence assessments,
 'the level of corruption in the PLA at least equals, and probably far
 exceeds, the level of corruption in the civilian economy.'...
 
-<a name='taiwan'/>
+<a name='taiwan'></a>
 
 [In a conflict with Taiwan] China would try to sink merchant
 ships supplying Taiwan, but rigorous research suggests that the PLA
@@ -123,7 +123,7 @@ of profits kept seaborne commerce going throughout both world wars and
 the 1980–88 Iran-Iraq War, wars in which shipping losses were several
 times greater than what China could hope to inflict on Taiwan...
 
-<a name='sub'/>
+<a name='sub'></a>
 
 China’s nine nuclear-powered submarines (four strategic, five
 tactical) carry less than half the munitions of current
@@ -191,7 +191,7 @@ Philippine flag himself on Thitu Island and to ride out to other
 Chinese-claimed features on his jet ski and plant Philippine flags on
 them too...
 
-<a name="noko"/>
+<a name="noko"></a>
 
 North Korea
 
@@ -221,7 +221,7 @@ North Korea will never negotiate away its nuclear arsenal, but it
 might accept limits on that arsenal in exchange for U.S. security
 assurances.
 
-<a name='ed'/>
+<a name='ed'></a>
 
 Education
 

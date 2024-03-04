@@ -81,7 +81,7 @@ upsets the blood glucose level). It can produce its own sugar in the
 form of glucose when it needs it, and this is far and away what it
 prefers to do.
 
-<a name='potato'/>
+<a name='potato'></a>
 
 Starchy Foods
 

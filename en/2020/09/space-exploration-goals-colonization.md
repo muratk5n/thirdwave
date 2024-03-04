@@ -21,7 +21,7 @@ probes, or a habitat and ascent vehicle for a crew of two astronauts
 to explore Venus for up to a month. Such a mission would require less
 time to complete than a crewed Mars mission"
 
-<a name='lando'/>
+<a name='lando'></a>
 
 Great idea but a new name with a different acronym than HAVOC might be
 called for, I propose **L**evitating **A**irbor**N**e **DO**me -
@@ -37,7 +37,7 @@ system. So much so, the Morning Star is sometimes called Earth’s
 Mars’ ~38%, meaning that our muscles won’t atrophy, and our bones
 won’t decalcify as they do in low-gravity environments
 
-<a name='oneill'/>
+<a name='oneill'></a>
 
 O'Neill Cylinders
 

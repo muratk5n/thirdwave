@@ -43,7 +43,7 @@ people are engaged in daily. Which makes it a speciality.
 
 But averaging among specialists will work.
 
-<a name='average'/>
+<a name='average'></a>
 
 The Mechanism of Averaging
 

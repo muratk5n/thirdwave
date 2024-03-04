@@ -3,7 +3,7 @@
 The feared 1.5 C increase is reported relative to a global mean
 temperature between years 1850-1890 which was roughly 13.6°C.
 
-<a name='berkeley'/>
+<a name='berkeley'></a>
 
 Berkeley Data
 
@@ -218,7 +218,7 @@ print hurst(dfclim.Temp)
 0.040611546891
 ```
 
-<a name='carbon'/>
+<a name='carbon'></a>
 
 ## Carbon Levels In the the Atmosphere
 
@@ -262,7 +262,7 @@ Longer time span, since the 50s
 
 ![](carbon2.png)
 
-<a name='carbonyoy'/>
+<a name='carbonyoy'></a>
 
 Monthly Carbon YoY Increase
 
@@ -296,7 +296,7 @@ plt.savefig('carbon3.png')
 
 ![](carbon3.png)
 
-<a name='methane'/>
+<a name='methane'></a>
 
 ## Methane Levels In the the Atmosphere
 
@@ -331,7 +331,7 @@ Name: average, dtype: float64
 
 ![](methane.png)
 
-<a name='carbontemp'/>
+<a name='carbontemp'></a>
 
 ## Carbon and Temperature
 
@@ -417,7 +417,7 @@ parameter F test:         F=5.3519  , p=0.0032  , df_denom=43, df_num=3
 The hypothesis is rejected at a very strong level. Carbon content in
 atmo *did* cause a global increase in temperature.
 
-<a name='ch4co2'/>
+<a name='ch4co2'></a>
 
 ## Carbon, Methane Effects
 

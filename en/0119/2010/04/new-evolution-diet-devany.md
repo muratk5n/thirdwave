@@ -2,7 +2,7 @@
 
 De Vany
 
-<a name='jogging'/>
+<a name='jogging'></a>
 
 Activity
 
@@ -100,7 +100,7 @@ workouts. They asked what I ate and did to look the way I did.  They
 never believed me when I told them, because it went contrary to
 everything they ‘knew’ about fitness.
 
-<a name='diet'/>
+<a name='diet'></a>
 
 Diet
 

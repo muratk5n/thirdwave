@@ -57,7 +57,7 @@ created by a mining company producing tungsten — a critical metal for
 wind-turbine blades — had obstructed and polluted many tributaries of
 the Yangtze River...
 
-<a name='ref2'/>
+<a name='ref2'></a>
 
 A recent report by the Blacksmith Institute identifies the mining
 industry as the second-most-polluting industry in the world, behind
@@ -69,7 +69,7 @@ supply of rare metals, we cannot accurately assess the progress made
 in combating global warming without properly accounting for Beijing’s
 ecological performance. Which is catastrophic, to say the least...
 
-<a name='ref3'/>
+<a name='ref3'></a>
 
 [Another] party pooper was John Petersen, a Texan lawyer with an
 extensive career in the electric battery industry. Based on number

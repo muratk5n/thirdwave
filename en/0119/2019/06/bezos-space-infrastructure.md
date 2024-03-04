@@ -27,7 +27,7 @@ Blue Origin rockets, built for reuse, and the moon, a perfect
 playground, is suitable for the task. It all seems to line up with WH
 return-to-moon announcement, that'll work for their favor. 
 
-<a name='energy'/>
+<a name='energy'></a>
 
 ## Energy
 

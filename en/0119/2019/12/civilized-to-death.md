@@ -17,7 +17,7 @@ agriculturalists faced drastic increases in social inequality, much
 more violence in the form of organized conflict, and self-appointed
 elites who used monotheistic religion to lock in their power. ..
 
-<a name="teeth"/>
+<a name="teeth"></a>
 
 Modern dentistry? We’ll see that the cavities and gum diseases so many
 of us suffer from didn’t arise until the advent of grain-based diets
@@ -108,7 +108,7 @@ if we are to understand and help man develop his own wisdom in a way
 that will lead to life of such quality as to make living a desirable
 and fulfilling experience.' ...
 
-<a name='vacation'/>
+<a name='vacation'></a>
 
 'Life before hunter-gatherers was solitary, poor, nasty, brutish, and
 short'. It turns out none of those things are true. Hunter-gatherers
@@ -116,7 +116,7 @@ worked 20 hours a week ... in some very harsh environment [even]
 .. and what anthropologists call 'work' in these studies are things we
 do in vacation - like hunting, fishing, picknicking.. " ...
 
-<a name='nike'/>
+<a name='nike'></a>
 
 In *Born to Run*, his 2009 bestseller, Christopher McDougall explains
 how Nike convinced generations of joggers to ignore the evolved

@@ -40,7 +40,7 @@ we have the clean fuel we can be sure there is no leakage, no pollution
 in that chain. The source can be regulated, or incentived easily to produce
 clean fuel in a clean way. 
 
-<a name='transition'/>
+<a name='transition'></a>
 
 The Transition
 

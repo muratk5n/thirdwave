@@ -37,8 +37,6 @@ Not in near future
 
 (But ask me again in a few months).
 
-<a name="sornette"/>
-
 Here's the [doc](../../2017/03/bubble_nb.html) for calculation and
 derivation of the reduced form of formula. [geek] For the reduced form
 (no log oscillations) you start with the logistic equation, but relax

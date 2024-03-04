@@ -27,7 +27,7 @@
 <h1>Temperature Increase</h1>
 <p>The feared 1.5 C increase is reported relative to a global mean
 temperature between years 1850-1890 which was roughly 13.6°C.</p>
-<p><a name='berkeley'/></p>
+<p><a name='berkeley'></a></p>
 <p>Berkeley Data</p>
 <p>The most basic plot looks at Earth's average temparature. We use data
 from <a href="http://berkeleyearth.org/data/">Berkeley</a>, this data is as raw
@@ -211,7 +211,7 @@ print hurst(dfclim.Temp)
 <pre><code class="text">0.040611546891
 </code></pre>
 
-<p><a name='carbon'/></p>
+<p><a name='carbon'></a></p>
 <h2>Carbon Levels In the the Atmosphere</h2>
 <p>Units are mole fraction in ppm, per month</p>
 <pre><code class="python">import urllib.request as urllib2, io
@@ -246,7 +246,7 @@ Name: ppm, dtype: float64
 <p><img alt="" src="carbon.png" /></p>
 <p>Longer time span, since the 50s</p>
 <p><img alt="" src="carbon2.png" /></p>
-<p><a name='carbonyoy'/></p>
+<p><a name='carbonyoy'></a></p>
 <p>Monthly Carbon YoY Increase</p>
 <pre><code class="python">df['ppmyoy'] = (df.ppm - df.ppm.shift(12)) / df.ppm.shift(12) * 100.0
 print (df['ppmyoy'].dropna().head(4))
@@ -274,7 +274,7 @@ plt.savefig('carbon3.png')
 </code></pre>
 
 <p><img alt="" src="carbon3.png" /></p>
-<p><a name='methane'/></p>
+<p><a name='methane'></a></p>
 <h2>Methane Levels In the the Atmosphere</h2>
 <p>Data comes from NOAA units are nanomol/mol, abbreviated as ppb. </p>
 <pre><code class="python">cols = ['year','month','decimal','average','average_unc','trend','trend_unc']
@@ -303,7 +303,7 @@ Name: average, dtype: float64
 </code></pre>
 
 <p><img alt="" src="methane.png" /></p>
-<p><a name='carbontemp'/></p>
+<p><a name='carbontemp'></a></p>
 <h2>Carbon and Temperature</h2>
 <p>Plotted carbon levels in the atmosphere and global temperature, trying
 to gauge a relation between the two. Carbon data comes from
@@ -377,7 +377,7 @@ parameter F test:         F=5.3519  , p=0.0032  , df_denom=43, df_num=3
 
 <p>The hypothesis is rejected at a very strong level. Carbon content in
 atmo <em>did</em> cause a global increase in temperature.</p>
-<p><a name='ch4co2'/></p>
+<p><a name='ch4co2'></a></p>
 <h2>Carbon, Methane Effects</h2>
 <p>Carbon or methane.. which one caused more global temperature increase?
 Below is the correlation matrix between all three time series', temperature,

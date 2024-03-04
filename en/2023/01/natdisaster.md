@@ -1,6 +1,6 @@
 # Natural Disasters
 
-<a name='fires'/>
+<a name='fires'></a>
 
 ### Fires
 
@@ -52,7 +52,7 @@ for y in [2000,2005,2010,2015,2020]:
 2021 : 23078
 ```
 
-<a name='equakes'/>
+<a name='equakes'></a>
 
 ### Earthquake Stats
 

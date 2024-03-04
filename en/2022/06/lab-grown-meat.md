@@ -34,7 +34,7 @@ parasites) but it will be better for the planet, too, because it will
 be produced in “closed, animal-free systems designed to keep fish in
 the water and out of farms”. It will also be far less cruel"
 
-<a name='fat'/>
+<a name='fat'></a>
 
 Lab-grown Fat, Hoxton Farms
 
@@ -110,7 +110,7 @@ flavours and taste compositions, for example, or different nutritional
 profiles, densities, and melting properties" – all of which are really
 important to plant-based meat companies.
 
-<a name='missionbarns'/>
+<a name='missionbarns'><a/>
 
 [Link](https://www.fooddive.com/news/mission-barns-cultivated-fat-plant-based-meat/624960/)
 
@@ -148,7 +148,7 @@ year. Last month, Peace of Meat signed a joint development agreement
 to provide avian cultured fat for the chicken analog products of
 European mycoprotein-based meat maker Enough.
 
-<a name='peaceofmeat'/>
+<a name='peaceofmeat'></a>
 
 [Link](https://www.forbes.com/sites/danieladelorenzo/2022/07/11/alt-meat-company-meatech-set-to-build-first-cultured-fat-pilot-plant-in-belgium/?sh=699e8c4a53e6)
 

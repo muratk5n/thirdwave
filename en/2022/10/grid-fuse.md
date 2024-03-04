@@ -277,7 +277,7 @@ maintain road maintenance budgets, new taxes are introduced on
 electricity and electric car charging, to “level the economic playing
 field.” This pushes up power costs even further...
 
-<a name='fastcharger'/>
+<a name='fastcharger'></a>
 
 Fast Chargers and Public Charging Networks
 
@@ -412,7 +412,7 @@ be no guarantee that enough energy could even be stored in it to last
 the eight or so hours it would take to charge 400,000 vehicles
 overnight and also cover for winter or cloudy days at the solar farms.
 
-<a name='losses'/>
+<a name='losses'></a>
 
 Of course the other thing we’ve neglected to include in our
 calculations, is the issue of network losses. As any electrical

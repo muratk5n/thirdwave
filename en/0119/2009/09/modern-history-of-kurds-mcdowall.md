@@ -93,7 +93,7 @@ repeated fights between one tribe and another, to increased banditry
 and to a serious decline in the economic condition of the country [pg
 49] ...
 
-<a name='hamidiya'/>
+<a name='hamidiya'></a>
 
 Hamidiya
 
@@ -219,7 +219,7 @@ ancien regime, and their reversion to authoritarian and explicitly
 Turkish rule after a brief spate of liberalism led to disorder [pg
 61-63].
 
-<a name='pkk80s'/>
+<a name='pkk80s'></a>
 
 The Evren Coup
 

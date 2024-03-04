@@ -190,7 +190,7 @@ log of exponential data that gives you a simple, straight line. The
 act of taking the log, and recognizing the exponential curve is what
 gave us that final "linearity".
 
-<a name='addend4'/>
+<a name='addend4'></a>
 
 Addend 4
 
@@ -207,7 +207,7 @@ Question
 pieces and putting it back together.. In terms of the basis of
 innovation, doesn't that sound like simple addition?"
 
-<a name='circle'/>
+<a name='circle'></a>
 
 Not necessarily.. Take the discovery of circle area formula. [3] talks
 about how Archimedes discovered it; he divided a circle into pieces

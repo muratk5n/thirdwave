@@ -37,7 +37,7 @@ the end of last month, Sens. Ed Markey and Sheldon Whitehouse brought
 into question specifically the use of private prosecutors in the
 contempt case against Donziger [1].
 
-<a name='oct2021'/>
+<a name='oct2021'></a>
 
 [As of Oct, 2021 Donziger] has been sentenced to six months in federal
 prison for “criminal contempt.” On October 1, in a lower Manhattan

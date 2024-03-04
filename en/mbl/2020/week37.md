@@ -15,8 +15,6 @@ Communists. We should push for a Belt and Road Jubilee"
 
 ---
 
-<a name='election'/>
-
 With -32% GDP growth Trump is toast. His only chance is if people
 "understand" the predicament (not in the model, never seen before
 situation), and if that offsets growth as if it was zero percent, as

@@ -28,7 +28,7 @@ the UI team to design an interface for an iPod phone, a way o dial
 numbers, select contacts, and browse the web using that device’s
 tried-and-true click wheel.
 
-<a name='xerox'/>
+<a name='xerox'></a>
 
 In 1979, a young squad of Apple engineers, led by Steve Jobs, visited
 the Xerox Palo Alto Research Center and laid eyes on its

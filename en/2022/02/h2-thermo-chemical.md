@@ -30,9 +30,9 @@ Exciting progress continues in this field, leveraging synergies with
 concentrated solar power technologies, and with emerging solar-fuel
 production technologies.
 
-<a name='thorium'/>
+<a name='thorium'></a>
 
-<a name='nuclear'/>
+<a name='nuclear'></a>
 
 ### Nuclear, Molten Salt
 
@@ -59,7 +59,7 @@ decreases the inventories of Pu from the current fuel cycles,
 resulting in lower risks of material diversion for use in nuclear
 weapons [5].
 
-<a name='htgr'/>
+<a name='htgr'></a>
 
 ### Nuclear, HTGR
 

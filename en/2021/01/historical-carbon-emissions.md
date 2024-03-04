@@ -117,7 +117,7 @@ Name: Total, dtype: int64
 
 ![](ghg2.png)
 
-<a name='2020'/>
+<a name='2020'></a>
 
 ### 2020 Emissions
 

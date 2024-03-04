@@ -61,7 +61,7 @@ entente, but failing that, it could create a counterbalance. The
 United States urgently needs Poland, because there is no alternative
 strategy for balancing an alliance between Russia and Germany.
 
-<a name='australia'/>
+<a name='australia'></a>
 
 Australia
 
@@ -112,7 +112,7 @@ under French control; the area to the south was to be placed under the
 control of the British. Further divisions gave rise not only to the
 modern country of Syria but to Lebanon, Jordan, and Israel as well.
 
-<a name="lebanon"/>
+<a name="lebanon"></a>
 
 The French had sought to be an influence in this region since the days
 of Napoleon. [..] As a state, then, Lebanon had no prior reality. Its
@@ -283,7 +283,7 @@ accommodate two other basic facts. First, whatever the Israelis’
 historical claim, from a twentieth-century perspective, the Jews were
 settlers from another continent who displaced the natives.
 
-<a name='eurasia'/>
+<a name='eurasia'></a>
 
 Eurasia
 
@@ -298,7 +298,7 @@ create a force whose population, technological and industrial
 capability, and natural resources would at the very least equal
 America’s, and in all likelihood outstrip them. ...
 
-<a name='three'/>
+<a name='three'></a>
 
 During the twentieth century, the United States acted three times to
 prevent the kind of Russian-German entente that could unify Eurasia
@@ -350,7 +350,7 @@ impossible. The infrastructure connecting farming areas to the city is
 poor, as is the infrastructure connecting industrial and commercial
 centers.
 
-<a name='rurivers'/>
+<a name='rurivers'></a>
 
 The problem in connectivity stems from the fact that Russia’s rivers
 go the wrong way. Unlike American rivers, which connect farming
@@ -361,7 +361,7 @@ problem, and the cost of building a connective tissue for the Russian
 economy—extensive rail systems and roads—remains staggering. Russia
 has always wielded a military force that outstripped its economy
 
-<a name='ukrgap'/>
+<a name='ukrgap'></a>
 
 Ukraine covers the entire southwestern frontier of Russia, and from
 the Russian point of view, it is the key to Russian national
@@ -373,7 +373,7 @@ formerly Stalingrad. During World War II, the Soviets sacrificed one
 million lives in the battle to keep that gap from being closed by the
 Germans.
 
-<a name='nuketech'/>
+<a name='nuketech'></a>
 
 Nuke Tech
 
@@ -387,7 +387,7 @@ the technology to the Pakistanis. The point is, the development of
 these weapons through an independent research program is enormously
 difficult..
 
-<a name='drugs'/>
+<a name='drugs'></a>
 
 Mexico, Drugs
 

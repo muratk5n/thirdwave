@@ -13,7 +13,7 @@ slowly emerged, as did an artisan class somewhat later on. The
 differentiation and specialization of tasks spawned new, more complex
 institutional arrangements ...
 
-<a name='rome'/>
+<a name='rome'></a>
 
 Later in history, our forebears captured and 'harnessed' one another
 as energy-producing power plants—a process that continued apace until

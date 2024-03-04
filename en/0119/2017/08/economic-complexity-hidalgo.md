@@ -66,7 +66,7 @@ indicating that development efforts should focus on generating the
 conditions that would allow complexity to emerge in order to generate
 sustained growth and prosperity...
 
-<a name='global'/>
+<a name='global'></a>
 
 Now, if all countries are connected to each other through a global
 market for inputs and outputs so that they can exploit a division of

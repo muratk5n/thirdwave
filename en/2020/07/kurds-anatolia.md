@@ -57,7 +57,7 @@ are tortured, whose suffering would fuel the PKK backlash many times
 over. "The hell of 90s" in terms of their counterattack would be
 fueled with the opression felt throughout the 80s.
 
-<a name='opressword'/>
+<a name='opressword'></a>
 
 Among the regular public the coup would opress even the mention of the
 word Kurd, in any publication. Growing up in this era I can attest; I

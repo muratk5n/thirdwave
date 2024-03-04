@@ -10,7 +10,7 @@ residing on three continents naturally did not leave the Ottoman
 Empire immune from the marauding the first Ottomans were initially
 known for...
 
-<a name='otto2'/>
+<a name='otto2'></a>
 
 It is in the seventeenth century that we see the initial signs of
 state decentralization in the Ottoman lands. Unlike the classic cases
@@ -249,7 +249,7 @@ claims, such a direct alliance formed between the ​Democratic Party and
 the urban thugs would have been in keeping with early trends from the
 late Ottoman and early Republican periods...
 
-<a name='deep'/>
+<a name='deep'></a>
 
 The failing political fortunes of Turkey’s more notorious gangsters
 has not impeded the illicit trafficking that helped to bring the

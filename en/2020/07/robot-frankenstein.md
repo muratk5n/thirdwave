@@ -16,7 +16,7 @@ robots as soulless machines. In a culture where the inanimate can be
 considered to be just as alive as the animate, robots can be seen as
 members of society rather than as mere tools or as threats.
 
-<a name='west'>
+<a name='west'></a>
 
 In contrast, fears of robotics are deeply seated in Western
 culture. The threat of humanity creating things we cannot control

@@ -29,7 +29,7 @@ strength, not a threat to society and the state. American corporations
 argued consolidation was necessary to compete, and some politicians
 began to sound sympathetic notes ...
 
-<a name='transistor'/>
+<a name='transistor'></a>
 
 In April 1952, dozens of engineers from some of the world’s largest
 companies .. boarded buses in New York City and headed [to AT&T]. They
@@ -55,7 +55,7 @@ It was the Kennedy admin who started dismantling progressive
 taxation, Carter started dismantling econ regulation, Clintons went
 even further ...
 
-<a name="corp"/>
+<a name="corp"></a>
 
 Proponents of faith in markets also developed a close relationship
 with the corporate elite, which was not as inevitable as it may seem

@@ -36,7 +36,7 @@ significance to U.S.-Vietnamese relations. The responsibility for this
 development rested with John Kennedy; its consequences confronted his
 successor, Lyndon Johnson. ...
 
-<a name='lbj'/>
+<a name='lbj'></a>
 
 During his formative years, Johnson received little exposure to
 foreign affairs. “When I was a boy,” he later recalled, “we never had

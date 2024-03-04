@@ -75,7 +75,7 @@ Government of Syria  Syria            1       0
 IS                   Syria           15       0
 ```
 
-<a name='gtdafrica'/>
+<a name='gtdafrica'></a>
 
 ### GTD Africa
 
@@ -101,7 +101,7 @@ plt.savefig('gtdafrica.png')
 
 [Data](https://www.start.umd.edu/gtd/contact/download)
 
-<a name='ukraine'/>
+<a name='ukraine'></a>
 
 ### Ukraine
 
@@ -114,7 +114,7 @@ time period.
 
 [Output](viina-control.png)
 
-<a name='straits'/>
+<a name='straits'></a>
 
 ### Transport Chokepoints, Straits
 

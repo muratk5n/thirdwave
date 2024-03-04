@@ -61,7 +61,7 @@ As standard the 1 barrel (119 liter) of crude oil produce approximately
 
 H2 pipelines can carry 7 GW for 36 inch and 13 GW for 48-inch pipelines.
 
-<a name='lithium'/>
+<a name='lithium'></a>
 
 Lithium
 
@@ -171,7 +171,7 @@ Desalination
 
 Energy consumption [2] of seawater desalination has reached as low as 4 kWh/$m^3$,
 
-<a name='arabia'/>
+<a name='arabia'></a>
 
 Dirty Fuels, Oil
 

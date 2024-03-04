@@ -326,8 +326,6 @@ impossible.
 
 Guy
 
-<a name='nvidia'/>
-
 Innovation has slowed down [..]
 
 Untrue

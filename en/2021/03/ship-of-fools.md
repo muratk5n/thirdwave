@@ -2,7 +2,7 @@
 
 T. Carlson
 
-<a name='chavez'/>
+<a name='chavez'></a>
 
 Chavez led the legendary Delano grape strike, which lasted for five
 years and inspired college students across the country to wear
@@ -30,7 +30,7 @@ immigration at all, generally, especially the low-skilled kind. Chavez
 understood that new arrivals from poor countries will always work for
 less than Americans
 
-<a name='interventionism'/>
+<a name='interventionism'></a>
 
 Interventionism
 

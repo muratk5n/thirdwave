@@ -59,7 +59,7 @@ conditions. That's why these NNs, deep or otherwise, are tied so much
 to data, are fragile, and too dependent on their surrounding
 conditions, and fail to generalize.
 
-<a name='car'/>
+<a name='car'></a>
 
 But there is more...
 

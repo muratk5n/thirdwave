@@ -73,7 +73,7 @@ created by small-S, small-W systems makes leaders most ready to trade
 policy for aid, and hence most likely to do the bidding of the United
 States...
 
-<a name='war'/>
+<a name='war'></a>
 
 War
 

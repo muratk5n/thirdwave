@@ -114,7 +114,7 @@ effect” during MgH2 dehydrogenation
 
 [Kubagen](https://www.kubagen.co.uk)
 
-<a name='metalhyd'/>
+<a name='metalhyd'></a>
 
 ### Metal Hydrides
 

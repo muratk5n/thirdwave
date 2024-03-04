@@ -52,7 +52,7 @@ conditions for production, they have produced a strain that makes
 hydrogen at rates higher than any previous published rates of
 bacterial bio-hydrogen.
 
-<a name='ammonia'/>
+<a name='ammonia'></a>
 
 [Link](https://pubs.acs.org/doi/10.1021/jacs.2c01886)
 

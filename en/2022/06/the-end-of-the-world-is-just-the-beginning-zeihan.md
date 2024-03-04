@@ -28,7 +28,7 @@ rocky, undulating landscapes with little more than stone picks. All to
 float what was the pinnacle of human transport technology well into
 the second millennium CE: the lowly barge.
 
-<a name='untouchables'/>
+<a name='untouchables'></a>
 
 The Untouchables
 
@@ -42,7 +42,7 @@ stuff. It is part of why India’s Untouchables were/are so
 . . . untouchable—they did the messy work of collecting and
 distributing “night soil.”
 
-<a name='silicon'/>
+<a name='silicon'></a>
 
 Silicon
 

@@ -74,7 +74,7 @@ Brooks in the *New York Times*; it teaches that elected officials can
 do great things, but only if they “are willing to bamboozle, trim,
 compromise and be slippery and hypocritical.”
 
-<a name='linc1'/>
+<a name='linc1'></a>
 
 Michael Gerson of the *Washington Post* suggested that members of
 Congress be made to watch the thing in order to acquire “a greater

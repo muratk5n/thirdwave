@@ -25,7 +25,7 @@ million years ago. Our reptilian brains program us for two major
 things: survival and reproduction [.. Rapaille's famous quote here is
 'the reptilian always wins'].
 
-<a name='imprint'/>
+<a name='imprint'></a>
 
 [At an emotional level] The Culture Code is the unconscious meaning we
 apply to any given thing a car, a type of food, a relationship, even a
@@ -94,7 +94,7 @@ US
 For example, one of the primary tensions in the American culture is
 the one between freedom and prohibition...
 
-<a name='france'/>
+<a name='france'></a>
 
 France
 
@@ -115,7 +115,7 @@ they began to offer special “privilege passes” that allowed access
 could take their pets, smoke, and drink wine. The idea of islands of
 privilege in a sea of equality was right on Code for [them].
 
-<a name='heritage'/>
+<a name='heritage'></a>
 
 Heritage
 

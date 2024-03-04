@@ -5,7 +5,7 @@ clean fuels enjoy, they are also attractive due to the fact they can
 be applied anywhere, e.g. in combustion engines for motor vehicles,
 creating power in turbines or fuel-cells, heating, or making steel.
 
-<a name='steel'/>
+<a name='steel'></a>
 
 ### Steel Production
 
@@ -23,7 +23,7 @@ needed to smelt iron ore. But switching from coking coal to a cleaner
 feedstock like hydrogen offers a solution that produces only harmless
 steam emissions"
 
-<a name='heating'/>
+<a name='heating'></a>
 
 ### Heating
 
@@ -82,7 +82,7 @@ be used to heat homes, in fact a demo in Erlangen Germany shows 55 C
 heat is supplied to a nearby school that can heat a swimming pool [4,
 pg. 30]
 
-<a name='powerfc'/>
+<a name='powerfc'></a>
 
 ### Power via Fuel-Cells
 
@@ -110,7 +110,7 @@ A planned cargo ship [6] will have 2.5 MW fuel-cells supplied by
 liquid hydrogen tanks of 70 tons, will carry 240 TEUs with deadweight
 of 5,000 tons.
 
-<a name='alstom'/>
+<a name='alstom'></a>
 
 Entire trains can run on fuel-cells.  On Sep 15 2022 the hydrogen
 train Alstom Coradia iLint broke world record to travel 1125
@@ -131,7 +131,7 @@ pipelines. H2 can even be generated from rooftop solar to be converted
 into hydrogen. Tanks can be compressed H2, or as with a product by
 Lavo [7] in metallic hydride.
 
-<a name='combust'/>
+<a name='combust'></a>
 
 ### Combustion Engines
 
@@ -150,7 +150,7 @@ Motor Authority: "Ford Patents Hydrogen-Fueled Combustion Engine"
 
 Reuters: "Cummins, Tata Motors team up for hydrogen-powered engines"
 
-<a name='powerturbine'/>
+<a name='powerturbine'></a>
 
 ### Power via Turbines
 
@@ -180,7 +180,7 @@ percent when 35 percent of hydrogen by volume was mixed with natural
 gas to produce electricity.. blending project was carried out on an
 LM6000 GE gas turbine"
 
-<a name='space'/>
+<a name='space'></a>
 
 ### Space
 

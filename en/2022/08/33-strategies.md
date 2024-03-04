@@ -2,7 +2,7 @@
 
 Greene
 
-<a name='afg'/>
+<a name='afg'></a>
 
 Soviets in Afghanistan
 
@@ -42,7 +42,7 @@ conflict, but the hidden costs--to the delicate Russian economy, to
 the people's slender faith in their government--were far greater.
 Only a few years later, the entire system would come tumbling down.
 
-<a name='mohammad'/>
+<a name='mohammad'></a>
 
 Mohammad
 
@@ -67,7 +67,7 @@ opponents were still living there, he won all hearts by his clemency
 on his day of triumph. Such generosity [..] was particularly
 remarkable among Arabs, a race to whom revenge has always been dear.
 
-<a name='galipoli'/>
+<a name='galipoli'></a>
 
 Galipoli
 

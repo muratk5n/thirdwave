@@ -70,7 +70,7 @@ popular uprising initiated by political exiles returning to Cuba. The
 CIA prepared a plan, but Eisenhower did not have time to carry out the
 project. It was passed on instead to the new president, John Kennedy...
 
-<a name='bayofpigs'/>
+<a name='bayofpigs'></a>
 
 The CIA deputy director for plans, Richard M. Bissell, the former
 administrator of the Marshall Plan in postwar Germany, was the
@@ -143,7 +143,7 @@ shot down, and four American pilots went missing. Radio Havana
 declared that the Cubans had recovered the body of one of the
 Americans. By now the venture had turned into a complete disaster.
 
-<a name='gap'/>
+<a name='gap'></a>
 
 Kennedy appeared to believe in a missile gap between the Soviet Union
 and the United States favoring the former—a notion fed not only by the
@@ -151,7 +151,7 @@ Soviet success with Sputnik but also by Khrushchev’s own fiery
 rhetoric, and one that Eisenhower’s U-2 spy flights were threatening
 to debunk...
 
-<a name='berlin'/>
+<a name='berlin'></a>
 
 Khrushchev needed a solution to the Berlin crisis that would not
 involve the threatened peace treaty with East Germany, the loss of
@@ -210,7 +210,7 @@ supplies of oil. He also wanted weapons, missiles in
 particular... Before the end of the year, the desperate Castro had
 declared himself a Marxist and a Leninist.
 
-<a name='ideo'/>
+<a name='ideo'></a>
 
 In Moscow Castro was still regarded as part of a broad group of Third
 World leaders who opposed imperialism... Privately Khrushchev welcomed

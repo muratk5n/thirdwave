@@ -1,6 +1,6 @@
 # Police, Crime in US
 
-<a name='allshoot'/>
+<a name='allshoot'></a>
 
 ### People Shot By the Police
 
@@ -25,7 +25,7 @@ A: Asian, B: Black, H: Hispanic, N: Native Am, O: Other, W: White
 
 ![](allshoot.png)
 
-<a name='unarmed'/>
+<a name='unarmed'></a>
 
 Unarmed People Shot by the Police
 
@@ -42,7 +42,7 @@ plt.savefig('unarmed.png')
 
 ![](unarmed.png)
 
-<a name='usgun'/>
+<a name='usgun'></a>
 
 ### US Gun Violence
 
@@ -77,7 +77,7 @@ DateYM
 
 ![](gunvio.png)
 
-<a name='fbi'/>
+<a name='fbi'></a>
 
 ### FBI Crime Data, UCR
 

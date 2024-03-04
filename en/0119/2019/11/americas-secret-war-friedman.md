@@ -45,7 +45,7 @@ pressure on the Saudis.
 
 This was the origin of the U.S. decision to invade Iraq.[..] 
 
-<a name='china'/>
+<a name='china'></a>
 
 China
 
@@ -65,7 +65,7 @@ it welcomed the relief following September 11, it understood that
 U.S. victory in the war on Al Qaeda would leave China extremely
 vulnerable to U.S. power...
 
-<a name='france'/>
+<a name='france'></a>
 
 France
 

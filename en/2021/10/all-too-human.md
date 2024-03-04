@@ -2,7 +2,7 @@
 
 G. Stephanopoulos
 
-<a name='triangulation'/>
+<a name='triangulation'></a>
 
 “I've been talking to Clinton constantly since the election,” [Dick]
 Morris continued...  His index finger tapped furiously at a slim
@@ -29,7 +29,7 @@ and public advocacy of issues like school uniforms and curfews that
 would demonstrate Clinton's commitment to “values,” Dick said, and
 Clinton would win in 1996...
 
-<a name='gaysinmil'/>
+<a name='gaysinmil'></a>
 
 Gays in the Military
 
@@ -75,7 +75,7 @@ Six months later, the president announced “Don't Ask, Don't Tell”— an
 outcome essentially identical to Powell's initial proposal and not far
 off from the earlier ban.
 
-<a name='grenada'/>
+<a name='grenada'></a>
 
 Grenada
 

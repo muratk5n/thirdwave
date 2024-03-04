@@ -2,7 +2,7 @@
 
 Ian Morris
 
-<a name='donkey'/>
+<a name='donkey'></a>
 
 Greece, A Donkey
 
@@ -74,7 +74,7 @@ biologicized.”...
 
 Foragers
 
-<a name='hierarchy'/>
+<a name='hierarchy'></a>
 
 Everywhere from the Arctic to Australia, ethnographers have commented
 on foragers’ aversion to political hierarchy. (In the excellent
@@ -290,7 +290,7 @@ three was a chattel slave, and few if any farming societies did
 without slavery or serfdom altogether. Forced labor, like patriarchy,
 was functionally necessary to farming societies..
 
-<a name='olddeal'/>
+<a name='olddeal'></a>
 
 The Old Deal
 
@@ -363,7 +363,7 @@ same kind of ideology of public service as Confucianism. No sooner was
 this accomplished, though, than Christianity emerged as a much more
 powerful critique— only for Rome to tame it too...
 
-<a name='jesuspoor'/>
+<a name='jesuspoor'></a>
 
 The Old Deal proved to be remarkably resilient. Despite constant
 criticism of inequality in Buddhist, Confucian, and Christian texts,

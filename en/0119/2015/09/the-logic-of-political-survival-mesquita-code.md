@@ -164,7 +164,7 @@ better job in capturing the essence of a regime.
 The research in this book appears to have evolved into The Dictator's
 Handbook, again by BBM.
 
-<a name='elections'/>
+<a name='elections'></a>
 
 Elections
 
@@ -187,7 +187,7 @@ has can only be based on existing accomplishments (through these
 general variables), that's why the vote is based incumbent, i.e. the
 person on whom people have the best available data.
 
-<a name='policy'/>
+<a name='policy'></a>
 
 People do not judge candidates by looking at the totality of their
 policy positions (hmm I assign a number from 1 to 10 to each position,
@@ -241,7 +241,7 @@ views (cld be immed avg too). One party cld be for 30% tax rate,
 another for 70%. Each enact their thing one in power, if they can,
 long-running average is 50%.
 
-<a name='war'/>
+<a name='war'></a>
 
 War
 

@@ -105,7 +105,7 @@ inflationary. One rich person can only buy so many cars. But a million
 with increased wages can buy millions of products, bidding up their
 prices which for unchanged set of products will cause inflation.
 
-<a name='autocorr'/>
+<a name='autocorr'></a>
 
 Autocorrelation
 

@@ -5,7 +5,7 @@ import pandas as pd, folium
 import impl as u
 ```
 
-<a name='bases'/>
+<a name='bases'></a>
 
 ### US Bases around the World
 
@@ -34,7 +34,7 @@ m.save('usbases-out.html')
 
 ### Navy
 
-<a name='navy'/>
+<a name='navy'></a>
 
 ```python
 import pandas as pd, folium
@@ -49,7 +49,7 @@ m.save('usnavy-out.html')
 
 [Output](usnavy-out.html)
 
-<a name='nuke'/>
+<a name='nuke'></a>
 
 ### Nuclear Bomb, Missile Sites
 
