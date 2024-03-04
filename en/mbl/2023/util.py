@@ -48,7 +48,6 @@ def plot_silam(fin,var,t,clat,clon,zoom):
     sm.plot_continents(clat, clon, zoom, incolor='black', outcolor='white', fill=False)
     plt.pcolormesh(x,y,z,cmap='OrRd')
 
-
 def get_modis_csv():
     url = "https://firms.modaps.eosdis.nasa.gov/data/active_fire/modis-c6.1/csv"
     f = 'MODIS_C6_1_Global_7d.csv'

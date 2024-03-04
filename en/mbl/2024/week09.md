@@ -48,7 +48,7 @@ d = {"MH 370": [-33.176793409, 95.300021451],
 u.map_coords(d, zoom=4, outfile="map2.html")
 ```
 
-[[-]](mbl/2024/map2.html)
+[[-]](map2.html)
 
 ---
 
@@ -115,7 +115,7 @@ This shit is connected, folks"
 02/25 - 02/29. Russia reached Orlivka, moving towards Krasnohorivka,
 also Nevelske, Ivanivkse.
 
-[[-]](mbl/2024/ukrdata/map8.html)
+[[-]](ukrdata/map8.html)
 
 ---
 
@@ -412,7 +412,7 @@ Mapping time, there is some data out there for the Sudan civil
 war. Frontline between RSF/SAF below. The borders delineate RSF
 controlled territory.
 
-[[-]](mbl/2024/sdndata/map1.html)
+[[-]](sdndata/map1.html)
 
 ---
 

@@ -1,14 +1,40 @@
 import time as timelib, geocoder, folium
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt, os
 from shapely.geometry import Polygon
 import pandas as pd, numpy as np, json
 from pandas_datareader import data
 from shapely.ops import unary_union
 import geopandas as gpd, re, datetime
-import urllib.request as urllib2
+import urllib.request as urllib2, urllib.request
 from io import BytesIO
 
 def get_pd(): return pd
+
+def get_modis_csv():
+    url = "https://firms.modaps.eosdis.nasa.gov/data/active_fire/modis-c6.1/csv"
+    f = 'MODIS_C6_1_Global_7d.csv'
+    if not os.path.isfile("/tmp/" + f):
+        data = urllib.request.urlretrieve(url + "/" + f, "/tmp/" + f)
+
+def modis_fire(outfile):
+    get_modis_csv()    
+    THRESHOLD = 420.0
+    df = pd.read_csv('/tmp/MODIS_C6_1_Global_7d.csv')
+    df = df[df['brightness'] > THRESHOLD]
+    df['brightness'] = 1.0 - (df['brightness'] / df['brightness'].max())
+    m = folium.Map(location=[0,0], zoom_start=2) 
+    folium.TileLayer(tiles="https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+            name='subdomains2',
+            attr='attribution',
+            subdomains='mytilesubdomain'
+    ).add_to(m)
+    for i, row in df.iterrows():
+        folium.CircleMarker([row['latitude'],row['longitude']],
+                            color='red',
+                            #opacity=row['brightness'],
+                            radius=2.0).add_to(m)        
+    m.save(outfile)
+        
 
 def household(since):
     df = get_fred(since, ['MEHOINUSA646N','TDSP','CPIAUCSL'])
@@ -64,6 +90,13 @@ def two_plot(s1, col1, s2, col2):
     h2, l2 = ax2.get_legend_handles_labels()
     plt.legend(h1+h2, l1+l2, loc=2)
 
+def get_top10(year):
+    cols = ['WFRBLT01026', 'WFRBLN09053']
+    df = get_fred(year,cols)
+    df = df.interpolate()
+    df['top10'] =  df['WFRBLT01026'] + df['WFRBLN09053'] 
+    return df / 1e6
+    
 def get_wlt_sp():
     cols = ['WFRBLT01026', 'WFRBLN09053','WFRBLN40080','WFRBLB50107']
     df = get_fred(1970,cols)

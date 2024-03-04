@@ -7,7 +7,9 @@ pd.set_option('display.max_columns', None)
 ```
 
 
-
+```python
+u.modis_fire('fire1.html')
+```
 
 
 

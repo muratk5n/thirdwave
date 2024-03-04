@@ -3,7 +3,7 @@
 Marco Alvera is the former CEO of SNAM, an energy infrastructure
 company, now at Tree Energy Solutions, an H2 startup.
 
-<a name='deaths'/>
+<a name='deaths'></a>
 
 If we hadn’t had Covid-19, 2020 would be remembered for the Australian
 bushfire disaster, which killed thirty- four people and more than
@@ -18,7 +18,7 @@ worry about. That’s the energy we use in transport, industry and
 heating, which today rely mainly on molecules from coal, oil and
 natural gas...
 
-<a name='electrif'/>
+<a name='electrif'></a>
 
 Electrification
 
@@ -59,7 +59,7 @@ pollution kills more than 4 million people every year – twice as many
 as Covid-19 killed in 2020, and twice as many as are killed every year
 by malaria and tuberculosis combined..
 
-<a name='peros'/>
+<a name='peros'></a>
 
 Perovskites
 
@@ -81,7 +81,7 @@ especially in the face of seasonal energy needs. In some industries
 and long-range transport, direct electrification just won’t
 work. Renewables are going to need a partner..
 
-<a name='lion'/>
+<a name='lion'></a>
 
 Batteries
 
@@ -98,7 +98,7 @@ hot contender, for long-distance trucking, the amount of space and
 weight that the batteries would add (and the difficulty of charging
 them quickly) makes it hard to imagine their widespread use...
 
-<a name='grid'/>
+<a name='grid'></a>
 
 The Grid
 
@@ -182,7 +182,7 @@ hard-to-decarbonise sectors, which require different forms of energy.
 
 We need a molecule.
 
-<a name='pipelines'/>
+<a name='pipelines'></a>
 
 Pipelines
 
@@ -207,7 +207,7 @@ happening in some places. The UK distribution network, for instance,
 is being replaced as we speak, from mainly wrought-iron pipes to
 polyethylene pipes, which happily can carry pure hydrogen.
 
-<a name='storage'/>
+<a name='storage'></a>
 
 Storage
 
