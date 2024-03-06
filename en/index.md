@@ -1,128 +1,123 @@
 
-"@Elizafox@treehouse.systems
+"@Wolven@ourislandgeorgia.net
 
-People who aren't from Seattle hear how much I pay for rent and I
-think they spit out their drinks.
-
-$1995/mo for a 2 bedroom 2 bath 79 m²/850 ft² apartment in Chinatown
-by the way"
-
----
-
-The only place he could not walk was between South Am and Antartica as
-it is open ocean, they used airlift for that small piece. Good enough.
+I genuinely never thought I would see the day. Literally just 11 years
+ago, one of the first papers I ever had published was through ACM, and
+if I had wanted it to be open access, it would have cost *$1500.* To
+an adjunct junior academic, you might as well be asking for a
+kidney. This is genuinely huge"
 
 ---
 
-Pat Farmer (Oz) walked from North Pole to South Pole. Crazy.
-
-[[-]](https://www.patfarmer.com/pole-to-pole)
-
----
-
-H2 View: "H2SITE Has Commissioned a Membrane Separator Capable of
-Extracting 5 to 20% Hydrogen Blends at +99% Purity From the Gas
-Distribution Network
-
-- Located in Zamudio (Bizkaia), the separation unit is installed on a
-  natural gas distribution network and operates with hydrogen
-  concentrations ranging from 5 to 20%
-
-- It’s the first installation using palladium-alloy membrane
-  separators reaching 97% hydrogen recovery rate at +99% purity"
+Communications ACM: "CACM Is Now Open Access.. More than six decades
+of CACM’s renowned research articles, seminal papers, technical
+reports, commentaries, real-world practice, and news articles are now
+open to everyone, regardless of whether they are members of ACM or
+subscribe to the ACM Digital Library"
 
 ---
 
-Nature: "Direct solar-driven water splitting by photocatalysis or
-photoelectrolysis offers a very promising route to produce green
-hydrogen. Among different configurations of photoactive materials, the
-bioinspired concept of 'Z-scheme photoactive film' enables
-visible-light-driven water splitting by combining two different
-photoactive materials in series to separately produce H2 and O2 in
-tandem photoelectrochemical (PEC) cells or photocatalytic panels has
-demonstrated its great effectivenss. Their scale-up and commercial
-applications though require low-cost, stable, efficient, and scalable
-photoactive films...
-
-Inspired by the cellular structure of the thylakoid membrane of
-chloroplasts in plant cells.. in this study, a facile and scalable
-particle-implanting (PiP) fabrication technique of embedding
-semiconductor particles in low-melting-point (LMP) liquid metal
-matrixes was developed to produce bioinspired photoactive films"
-
-<img width='340' src='https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-024-46073-6/MediaObjects/41467_2024_46073_Fig1_HTML.png?as=webp'/> 
+It's not just abt the exec surely, let's not forget the Congress,
+numbers there need to increase..
 
 ---
 
-The Ghost in the Machine \#Chomsky \#2023
-
-[[-]](https://youtu.be/axuGfh4UR9Q?t=9332)
-
----
-
-I axed one of those chat parrots to categorize a text about a criminal
-getting a sentence due past hard crimes in an actor-action-actor
-format, like GDELT does for news items, basically asking for "A does B
-to C" type of output. Chat parrot totally made up one side of the
-action, said "families of the victims" brought the guy to court, the
-text had none of that. Related news on that exact event elsewhere had
-none of that. That answer was likely computed based on the gobs of
-texts it ingested earlier on similar stories, which led the parrot to
-hallucinate.
-
----
-
-"@sil@mastodon.social
-
-Apple have backed off; they will no longer be breaking web apps in the
-EU next week"
-
----
-
-"@jasongorman@mastodon.cloud
-
-I'm beginning to think gen A.I. prompting's a bit like TV street
-magic: amazing, until you see all the takes where the trick didn't
+DJT 16-20 at least changed the discussion, challenged parts of the
+global capitalism (unfettered access to cheap labor at home
+-migration- and abroad -globalisation-), questioned NATO, indirectly
+militarism. He beat a Clinton and a Bush, we should all be grateful
+for that. But we cannot expect an FDR like figure from the Republican
+party.. Democrats, or another party, will have to do the bulk of the
 work.
 
-I abandon sessions twice as often as I get what I need from them"
+---
+
+Zucman: "In 2018, for the first time in the last hundred years, the
+top 400 richest Americans have paid lower tax rates than the working
+class.. This looks like the tax system of a plutocracy. With tax rates
+of barely 20% at the top, wealth will keep accumulating with hardly
+any barrier. And with that, so too will the power of the wealthy
+accumulate, including their ability to shape policymaking and
+government for their own benefit..
+
+It’s always possible to shrug off the risk of an entrenched
+plutocracy. To believe that whether a few super-rich own a large
+fraction of the country’s wealth is irrelevant. That America’s
+institutions are so strong that they cannot be captured by special
+interests. That from Boston to Los Angeles, democracy will always and
+forever beat plutocracy. And certainly, democracy has overcome
+plutocracy in the past. It triumphed over the slaveholding plutocracy
+of the South. It beat back the nascent industrialist plutocracy of the
+Gilded Age. In one case it took a war; in the other a tax revolution"
 
 ---
 
-*Bullet to the Head*, *Criminal* (2016). 👍 Code 8 Part II, somewhat
-average but fine.
+"@avuko@infosec.exchange
+
+@tilde I still think the modus operandi we named capitalism in
+economics, we’d call parasitic in biology"
 
 ---
 
-First Post: "A few months ago, a Mozilla study titled 'Privacy Not
-Included,' revealed that almost all major carmakers collect data from
-their users and sell it to advertisers"
+"@tilde@infosec.town
+
+Capitalism interprets resilience as inefficiency and tries to erode
+it. Capitalism will not stop until every aspect of society is so
+'just-in-time' that an unexpected stiff breeze causes widespread
+shortages."
 
 ---
 
-Anatolian News Agency: "[01/21] Protest against British defense company
-BAE for selling arms to Israel"
+"@debcha@mastodon.social
+
+To capitalism, sustainability always looks like underutilization"
 
 ---
 
-BBC: "George Galloway is back in Parliament with a resounding win in
-the Rochdale by-election after a campaign in which the Gaza war was a
-running theme...  Winston Churchill [was] the only MP to represent
-four separate towns and cities in the House of Commons"
+H2 Central: "Thiozen, the first company ever to produce clean hydrogen
+from 'sour gas' waste streams, today announced that it has received
+$1.18 million in grants from the U.S. National Science Foundation
+(NSF) to help the company commercialize its breakthrough technology
+that replaces traditional hydrogen production methods"
 
 ---
 
-The ultra Orthodox vote extremist nuts into office who cause mayhem
-and war, then they won't fight in the wars created by their vote. I can
-see that can anger some people.
-
-Al Monitor: "War spurs anger over Israel military exemption for
-ultra-Orthodox"
+Wired: "Amazon has become the second company ever to have its
+lobbyists banned from the European Parliament, amid accusations that
+the company does not take the institution seriously"
 
 ---
 
-First Post: "Ladakh standoff: India, China in 'constructive
-communication' to resolve border issues, says Chinese military"
+Brookings: "Saudi Arabia has spent a fortune buying arms from America
+to prosecute [the war in Yemen].. In the five years before the war,
+U.S. arms transfers to Saudi Arabia amounted to $3 billion; between
+2015 and 2020, the U.S. agreed to sell over 64.1 billion worth of
+weapons to Riyadh, averaging 10.7 billion per year..
+
+---
+
+"@imajeanpeace@infosec.exchange
+
+Next time your boss tells you to 'work as a team', start a union."
+
+---
+
+Financial Post: "Next-Generation Climate Technology Sees Surge in US
+Spending.. Investments in carbon capture, hydrogen and other nascent
+technologies rose tenfold in 2023"
+
+---
+
+These hypothetical head-to-head match-ups..
+
+NBC News: "[2016] Poll: Hillary Clinton Holds National Lead Over
+Donald Trump.. Clinton holds a 46 percent to 40 percent lead"
+
+---
+
+A potential Dem replacement Gallego is for M4A.
+
+Politico: "Sinema announces she won't run for reelection"
 
 ---
 
@@ -170,5 +165,3 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
-
-
