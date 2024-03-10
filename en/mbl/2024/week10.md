@@ -1,5 +1,480 @@
 # Week 10
 
+Waber, Harvard Business Review: "Is GenAI’s Impact on Productivity
+Overblown? Generative AI like LLMs have been touted as a boon to
+collective productivity. But the authors argue that leaning into the
+hype too much could be a mistake. Assessments of productivity
+typically focus on the task level and how individuals might use and
+benefit from LLMs. Using such findings to draw broad conclusions about
+firm-level performance could prove costly. The authors argue that
+leaders need to understand two core problems of LLMs before adopting
+them company-wide: 1) their persistent ability to produce convincing
+falsities and 2) the likely long-term negative effects of using LLMs
+on employees and internal processes"
+
+---
+
+Financial Times: "How Germany’s steelmakers plan to go
+green.. Europe’s biggest producer [Salzgitter] is moving away from
+carbon-intensive blast furnaces and towards hydrogen-powered
+processing..
+
+Global steel production today accounts for at least 7 per cent of
+global greenhouse gas emissions. In Germany, it emits more than a
+quarter of the country’s total industrial carbon dioxide...Salzgitter
+has said that once its revamped steel plant is run entirely on green
+hydrogen, its annual CO₂ emissions, which currently stand at 8mn
+tonnes, will drop by a staggering 95 per cent"
+
+---
+
+This is not DEI, it is GDM - gaslight, deflect, misdirect. 
+
+---
+
+[Link](https://www.dropbox.com/scl/fi/15s7bgzlrsabalcvg7r6n/apple-theyrule1.gif?rlkey=hwpiaes4k6ur8jyhs1yn7ko30&raw=1)
+
+---
+
+Apple has woke shows.. *Monarch* was terrible. *Foundation* too, partly.
+
+---
+
+"@rustyshelf@mastodon.social
+
+China: 'Remove all VPNs'
+
+Apple: 'Sure thing'
+
+China: '…and podcast apps'
+
+Apple: 'Can do boss!'
+
+China: '…and also hand over all iCloud data for our citizens'
+
+Apple: 'I mean why wouldn’t we? Here you go!'
+
+EU: 'Allow alternate app stores, and do it fairly'
+
+Apple: 'Ahhh hell no! This is so unfair you guys are bullies! Malware!
+Privacy! We have standards! Unlike you we care about our users!'"
+
+---
+
+<img width='340' src='https://social.heise.de/system/media_attachments/files/112/047/887/408/191/471/small/972851d21f614330.png'/> 
+
+---
+
+ABC News Australia: "Two killed in NSW house blaze [in a] lithium-ion
+battery-related death..  Fires associated with the batteries are on
+the rise.. According to Fire Rescue NSW statistics, there have been 45
+lithium-ion battery-related fires recorded in NSW so far this year"
+
+---
+
+
+"@thomasfuchs@hachyderm.io
+
+The thing is, the tech industry always has a hype or two brewing but
+it’s relatively rare that everyone completely succumbs to it"
+
+---
+
+François Chollet: "When you hear about 'human-level AI' being just
+'one LLM training run away', it's as if people building 3D printers
+(the kind that makes small, flimsy plastic objects) were telling you
+that they've nearly built an infinite matter replicator, capable of
+scanning and cloning any object -- be it steel, gold, or diamond, be
+it minuscule or building-scale. 'We're just one iteration away! Just
+need to increase spatial resolution a bit!'
+
+As long as you have absolutely no idea what 'matter' is and how 3D
+printers work, it might sound sort of plausible. But if you do, it's
+absolutely clown shoes. The way to navigate such claims is to have a
+proper, formal definition of intelligence"
+
+---
+
+"@evanprodromou@threads.net
+
+Hello, fediverse! 👋🏼 I am part of the new beta testing program in
+Threads for publishing out to the wider world. I am extremely
+excited!!!"
+
+---
+
+\#Vonnegut
+
+[[-]](https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/112/036/559/208/667/597/original/6ce74fd2fd883750.jpg)
+
+---
+
+Stevenson, *The Trading Game*: "[The presenter] had a bunch of
+charts. He went through them one at a time. On each one was the fiscal
+situation of a single country. Italy. Spain. Greece.
+Portugal. Ireland. Also the United Kingdom, the US, Japan [around
+2011].  They were all variations on the same story. All these
+governments were spending more than their income year after year and
+their debts were growing... I couldn’t get it out of my head.. a sense
+of similarity. It was the same. The government of Spain, the
+government of America, the government of Japan. The situation was just
+like [a friend's] mum.. Outgoings more than their income. Losing the
+ability to borrow money. More and more income going into servicing
+debt.  Losing their assets. The situation was the same. It wasn’t just
+[another friend] with holes in his shoes, it was the world.
+
+But it came up against the economics though.. [w]e’re in a monetary
+system. The whole thing always has to be in balance. For everyone
+who’s in debt, there’s someone who’s in credit. For everybody losing
+money, there’s somebody who’s gaining. The whole system is designed to
+be in balance. Not only that, but what about the houses?  What about
+the stock market that was rising and rising? These assets weren’t
+disappearing. But if we didn’t own them, if the people didn’t own
+them, and the governments didn’t own them...Then who did?
+
+And that was it, I think, that was the moment that it hit me,
+surrounded by millionaires.. I looked to the left of me. Pink shirt,
+pink shirt, white, sky blue. I looked to the right of me. White shirt,
+white shirt, pink, ooh, pinstripes, don’t see much of that
+nowadays. There, in string, sewn into a collar, four letters:
+'A.I.E.Q.'  Who the fuck’s surname begins with a Q?"
+
+---
+
+Streeck, *How Will Capitalism End?*: "Oligarchic redistribution and
+the trend toward plutonomy, even in countries that are still
+considered democracies, conjure up the nightmare of elites confident
+that they will outlive the social system that is making them
+rich. Plutonomic capitalists may no longer have to worry about
+national economic growth because their transnational fortunes grow
+without it; hence the exit of the super-rich from countries.. take
+their money – or that of their fellow citizens – and run, preferably
+to Switzerland, Britain or the United States. The possibility, as
+provided by a global capital market, of rescuing yourself and your
+family by exiting together with your possessions offers the strongest
+possible temptation for the rich to move into endgame mode – cash in,
+burn bridges, and leave nothing behind but scorched earth.
+
+Closely related to this is the third disorder, the plundering of the
+public domain through underfunding and privatization. I have elsewhere
+traced its origin to the twofold transition since the 1970s from the
+tax state to the debt state to, finally, the consolidation or
+austerity state. Foremost among the causes of this shift were the new
+opportunities offered by global capital markets since the 1980s for
+tax flight, tax evasion, tax-regime shopping and the extortion of tax
+cuts from governments by corporations and earners of high
+incomes. Attempts to close public deficits relied almost exclusively
+on cuts in government spending – both to social security and to
+investment in physical infrastructures and human capital. As income
+gains accrued increasingly to the top 1 per cent, the public domain of
+capitalist economies shrank, often dramatically, starved in favour of
+internationally mobile oligarchic wealth. Part of the process was
+privatization, carried out regardless of the contribution public
+investment in productivity and social cohesion might have made to
+economic growth and social equity"
+
+---
+
+Taxing the rich, trickle-down econ parts were good \#SOTU
+
+---
+
+It didn't look much of a union to me \#SOTU, with potus firing zingers
+arguing with some in the crowd, live. That's ok.. But it shows
+previous appeals to unity were bunk, a waste of time, it is not about
+unity, it is about your ideology gaining power and pushing through its
+agenda. You can usually find a middle ground between A and B, but
+constant appeals to "going bi" was not about that, it was about the
+left being pushed *preemptively* to some middle and from there they
+would be pushed towards further right still. The "preemptive
+middle-ground seekers" were essentially asked to fall in line, not be
+part of a larger solution.
+
+---
+
+The new motto is "if it is Boeing, I'm not going"
+
+---
+
+ABC News: "Tire falls off United Airlines flight after takeoff from
+San Francisco..  The tire was one of 12 on the Boeing 777-200's two
+main landing gear struts, according to United"
+
+---
+
+Stoller, *The Guardian*: "[2019] Boeing's travails show what's wrong
+with modern capitalism.. Boeing used its political connections to
+monopolize the American aerospace industry and corrupt its
+regulators. In the 1990s, Boeing and McDonnell Douglas merged, leaving
+America with just one major producer of civilian aircraft. Before this
+merger, when there was a competitive market, Boeing was a wonderful
+company. As journalist Jerry Useem put it just 20 years ago, 'Boeing
+has always been less a business than an association of engineers
+devoted to building amazing flying machines'"
+
+[[-]](https://www.theguardian.com/commentisfree/2019/sep/11/boeing-capitalism-deregulation)
+
+---
+
+It's true the McDonnell Douglas merger screwed Boeing. Guess which
+admin allowed the merger?
+
+\#Boeing \#JonOliver
+
+[[-]](https://youtu.be/Q8oCilY4szc?t=609)
+
+---
+
+"Reuters:
+
+- Water samples reveal levels of microplastics up to 18 times more
+  than 2017-18
+
+- 2020 report found tyre dust contributes 78% of the total mass of
+  microplastics
+
+- Chemicals and particles from worn tyres leaching into water linked
+  to salmon die-off
+
+- Forthcoming Euro 7 standard will tighten up microplastic abrasion
+  limits for tyres"
+
+---
+
+Stevenson's new book is out, a great guide to understand
+inequality. Highly recommended.
+
+<img width='100' src='https://cdn.fosstodon.org/media_attachments/files/112/050/185/950/871/994/original/0f5f0b4d0a742fa1.jpeg'/> 
+
+---
+
+Reshare
+
+Ad News: "X (formerly Twitter) has reportedly had 75% of fake traffic
+to its advertising clients' websites during the weekend of the Super
+Bowl, according to data from cybersecurity firm CHEQ that tracks bots
+and 'fake' users. In a press release X claimed it has 'completely
+smashing key metrics from last year, with impressions, user posts and
+video views rising 31%, 41% and 75% respectively YoY1'".. But
+according to CHEQ, majority of the traffic was bots and fake
+users. Guy Tytunovich, CHEQ founder and CEO, said he's never seen
+anything even remotely close to 50%, not to mention 76% of faked
+traffic. 'I'm amazed…I've never, ever, ever, ever seen anything even
+remotely close,' Tytunovich told Mashable"
+
+---
+
+Politico: "EU hits Apple with €1.8B antitrust fine for abusive app
+terms.. It’s the first time the tech giant has been fined by the
+European Commission"
+
+---
+
+"@anildash@me.dm
+
+A challenge to tech media: do a day of stories once a week where none
+of them originated from an announcement by one of the same 5 companies
+you cover every other day of the week.
+
+Corollary: business press do even just one story originating from
+labor for every ten you do originating from a company those people
+work for"
+
+---
+
+The Detroit News: "A fire and series of thunderous explosions at
+a.. vape supply facility shot debris as far as two miles away.. Vapes,
+like cellphones and other electronics, contain lithium-ion
+batteries. Those batteries can overheat and explode. [official].. said
+a fire in the facility could set off a chain reaction of battery
+explosions"
+
+---
+
+Marco Alvera's book has good info on perovskites.
+
+[[-]](../../2022/06/the-h2-revolution-alvera.html#peros)
+
+---
+
+Electrek: "An MIT-led team revealed a 'guidebook' for how to tune
+surface properties of perovskites, a silicon alternative – here’s why
+that’s huge for solar... Perovskite solar cells, inspired by the
+mineral with a similar crystal structure, have been a serious topic of
+research within the renewable energy sector for some years now. Their
+potential to redefine the solar energy landscape is vast, offering a
+tantalizing combination of high efficiency, low manufacturing costs,
+and the unique ability to be applied to a variety of substrates, from
+rigid glass to flexible materials"
+
+<img width='340' src='https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/02/thin-film-perovskite-solar-cells.jpg?w=340&quality=82&strip=all&ssl=1'/> 
+
+---
+
+Streeck, *How Will Capitalism End?*: "Neoliberal ideology supports
+migration and open borders in the name of personal liberty and human
+rights, knowing that it provides employers in the receiving countries
+with an unlimited labour supply, thereby destabilizing protective
+labour regimes. Ethnic diversity is welcomed, not only by the liberal
+middle class, but also by employers desiring docile workers that are
+grateful for being allowed to be where they are, and anxious to avoid
+deportation for becoming unemployed or engaging in militant
+activities.  Immigration thus makes the collective organization of
+workers difficult, especially in low-income occupations. It can also
+be used propagandistically to enlist indigenous workers’ sense of
+solidarity for neoliberal policies aimed at abolishing minimum wages
+and employment protections, by accusing trade unions of racist
+discrimination against ‘outsiders’ for the benefit of ‘insiders’.  If
+then the labour market interests of the indigenous working class are
+articulated by right-wing populist parties and movements, labour
+protection suffers further de-legitimation while the working class
+becomes even more divided"
+
+---
+
+\#Frontline #UA #RU 02/29 - 03/06
+
+[[-]](ukrdata/map9.html)
+
+---
+
+AP News: "Nuland will be replaced temporarily as under secretary by
+another career diplomat, John Bass, a former ambassador to Afghanistan
+who oversaw the U.S. withdrawal from the country. He is currently the
+undersecretary of state for management"
+
+---
+
+Great news.. Her "Ukraine support" btw was there for the complex to
+rake it in.. If US really wanted to help UA and itself it would not
+have fanned the flames for war, starting in 2014. 
+
+Reuters: "US diplomat Nuland, strong supporter of Ukraine, to step down"
+
+---
+
+"@Wolven@ourislandgeorgia.net
+
+I genuinely never thought I would see the day. Literally just 11 years
+ago, one of the first papers I ever had published was through ACM, and
+if I had wanted it to be open access, it would have cost *$1500.* To
+an adjunct junior academic, you might as well be asking for a
+kidney. This is genuinely huge"
+
+---
+
+Communications ACM: "CACM Is Now Open Access.. More than six decades
+of CACM’s renowned research articles, seminal papers, technical
+reports, commentaries, real-world practice, and news articles are now
+open to everyone, regardless of whether they are members of ACM or
+subscribe to the ACM Digital Library"
+
+---
+
+It's not just abt the exec surely, let's not forget the Congress,
+numbers there need to increase..
+
+---
+
+DJT 16-20 at least changed the discussion, challenged parts of the
+global capitalism (unfettered access to cheap labor at home
+-migration- and abroad -globalisation-), questioned NATO, indirectly
+militarism. He beat a Clinton and a Bush, we should all be grateful
+for that. But we cannot expect an FDR like figure from the Republican
+party.. Democrats, or another party, will have to do the bulk of the
+work.
+
+---
+
+Zucman: "In 2018, for the first time in the last hundred years, the
+top 400 richest Americans have paid lower tax rates than the working
+class.. This looks like the tax system of a plutocracy. With tax rates
+of barely 20% at the top, wealth will keep accumulating with hardly
+any barrier. And with that, so too will the power of the wealthy
+accumulate, including their ability to shape policymaking and
+government for their own benefit..
+
+It’s always possible to shrug off the risk of an entrenched
+plutocracy. To believe that whether a few super-rich own a large
+fraction of the country’s wealth is irrelevant. That America’s
+institutions are so strong that they cannot be captured by special
+interests. That from Boston to Los Angeles, democracy will always and
+forever beat plutocracy. And certainly, democracy has overcome
+plutocracy in the past. It triumphed over the slaveholding plutocracy
+of the South. It beat back the nascent industrialist plutocracy of the
+Gilded Age. In one case it took a war; in the other a tax revolution"
+
+---
+
+"@avuko@infosec.exchange
+
+@tilde I still think the modus operandi we named capitalism in
+economics, we’d call parasitic in biology"
+
+---
+
+"@tilde@infosec.town
+
+Capitalism interprets resilience as inefficiency and tries to erode
+it. Capitalism will not stop until every aspect of society is so
+'just-in-time' that an unexpected stiff breeze causes widespread
+shortages."
+
+---
+
+"@debcha@mastodon.social
+
+To capitalism, sustainability always looks like underutilization"
+
+---
+
+H2 Central: "Thiozen, the first company ever to produce clean hydrogen
+from 'sour gas' waste streams, today announced that it has received
+$1.18 million in grants from the U.S. National Science Foundation
+(NSF) to help the company commercialize its breakthrough technology
+that replaces traditional hydrogen production methods"
+
+---
+
+Wired: "Amazon has become the second company ever to have its
+lobbyists banned from the European Parliament, amid accusations that
+the company does not take the institution seriously"
+
+---
+
+Brookings: "Saudi Arabia has spent a fortune buying arms from America
+to prosecute [the war in Yemen].. In the five years before the war,
+U.S. arms transfers to Saudi Arabia amounted to $3 billion; between
+2015 and 2020, the U.S. agreed to sell over 64.1 billion worth of
+weapons to Riyadh, averaging 10.7 billion per year..
+
+---
+
+"@imajeanpeace@infosec.exchange
+
+Next time your boss tells you to 'work as a team', start a union."
+
+---
+
+Financial Post: "Next-Generation Climate Technology Sees Surge in US
+Spending.. Investments in carbon capture, hydrogen and other nascent
+technologies rose tenfold in 2023"
+
+---
+
+These hypothetical head-to-head match-ups..
+
+NBC News: "[2016] Poll: Hillary Clinton Holds National Lead Over
+Donald Trump.. Clinton holds a 46 percent to 40 percent lead"
+
+---
+
+A potential Dem replacement Gallego is for M4A.
+
+Politico: "Sinema announces she won't run for reelection"
+
+---
+
 "@rayckeith@techhub.social
 
 'Why are things expensive?

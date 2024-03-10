@@ -8,6 +8,8 @@ import geopandas as gpd, re, datetime
 import urllib.request as urllib2, urllib.request
 from io import BytesIO
 
+TILE = "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png"
+
 def get_pd(): return pd
 
 def get_modis_csv():
@@ -23,7 +25,7 @@ def modis_fire(outfile):
     df = df[df['brightness'] > THRESHOLD]
     df['brightness'] = 1.0 - (df['brightness'] / df['brightness'].max())
     m = folium.Map(location=[0,0], zoom_start=2) 
-    folium.TileLayer(tiles="https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+    folium.TileLayer(tiles=TILE,
             name='subdomains2',
             attr='attribution',
             subdomains='mytilesubdomain'
