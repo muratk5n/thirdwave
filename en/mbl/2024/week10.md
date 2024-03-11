@@ -1,5 +1,11 @@
 # Week 10
 
+<img width='340' src='mbl/2023/nixon-salute.jpg'/> 
+
+Break time.. laters readers
+
+---
+
 Waber, Harvard Business Review: "Is GenAI’s Impact on Productivity
 Overblown? Generative AI like LLMs have been touted as a boon to
 collective productivity. But the authors argue that leaning into the

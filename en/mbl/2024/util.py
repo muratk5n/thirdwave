@@ -1,16 +1,36 @@
 import time as timelib, geocoder, folium
-import matplotlib.pyplot as plt, os
+import matplotlib.pyplot as plt, os, shutil
 from shapely.geometry import Polygon
-import pandas as pd, numpy as np, json
+import pandas as pd, numpy as np, json, requests
 from pandas_datareader import data
 from shapely.ops import unary_union
-import geopandas as gpd, re, datetime
+import geopandas as gpd, re, datetime, math
 import urllib.request as urllib2, urllib.request
 from io import BytesIO
 
 TILE = "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png"
 
 def get_pd(): return pd
+
+def sat_img(latitude, longitude, zoom, outfile):
+    params = json.loads(open(os.environ['HOME'] + "/.twkeys.json").read())
+    accessToken = params['mapbox']
+    def latToTile(latDeg, zoom):
+        latRadians = math.radians(latDeg)
+        n = 2.0 ** zoom
+        return int((1.0 - math.asinh(math.tan(latRadians)) / math.pi) / 2.0 * n)
+
+    def lonToTile(lonDeg, zoom):
+        n = 2.0 ** zoom
+        return int((lonDeg + 180.0) / 360.0 * n)
+    
+    url = ("https://api.mapbox.com/v4/" + "mapbox.satellite/" + str(zoom) + "/" + str(lonToTile(longitude, zoom)) +
+           "/" + str(latToTile(latitude, zoom)) + "@2x.png?access_token=" + accessToken)
+
+    response = requests.get(url, stream=True)
+    with open(outfile, "wb") as image:
+        shutil.copyfileobj(response.raw, image)
+    
 
 def get_modis_csv():
     url = "https://firms.modaps.eosdis.nasa.gov/data/active_fire/modis-c6.1/csv"
