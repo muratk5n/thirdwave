@@ -12,26 +12,6 @@ TILE = "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png"
 
 def get_pd(): return pd
 
-def sat_img(latitude, longitude, zoom, outfile):
-    params = json.loads(open(os.environ['HOME'] + "/.twkeys.json").read())
-    accessToken = params['mapbox']
-    def latToTile(latDeg, zoom):
-        latRadians = math.radians(latDeg)
-        n = 2.0 ** zoom
-        return int((1.0 - math.asinh(math.tan(latRadians)) / math.pi) / 2.0 * n)
-
-    def lonToTile(lonDeg, zoom):
-        n = 2.0 ** zoom
-        return int((lonDeg + 180.0) / 360.0 * n)
-    
-    url = ("https://api.mapbox.com/v4/" + "mapbox.satellite/" + str(zoom) + "/" + str(lonToTile(longitude, zoom)) +
-           "/" + str(latToTile(latitude, zoom)) + "@2x.png?access_token=" + accessToken)
-
-    response = requests.get(url, stream=True)
-    with open(outfile, "wb") as image:
-        shutil.copyfileobj(response.raw, image)
-    
-
 def get_modis_csv():
     url = "https://firms.modaps.eosdis.nasa.gov/data/active_fire/modis-c6.1/csv"
     f = 'MODIS_C6_1_Global_7d.csv'
