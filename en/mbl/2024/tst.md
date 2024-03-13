@@ -7,9 +7,11 @@ pd.set_option('display.max_columns', None)
 ```
 
 
-```python
-u.sat_img(48.85859253797154, 2.2945835762002353, 17, "/tmp/out.jpg")
-```
+
+
+
+
+
 
 
 

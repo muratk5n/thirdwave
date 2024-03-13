@@ -12,6 +12,29 @@ TILE = "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png"
 
 def get_pd(): return pd
 
+def boxofficemojo(q):
+    q = q.replace(" ","+").lower()
+    url = "https://www.boxofficemojo.com/search/?q=" + q
+    res = urllib2.urlopen(url).read().decode('utf-8')
+    reres = re.findall('a-size-medium a-link-normal a-text-bold" href="(.*?)"',res)
+    url2 = "https://www.boxofficemojo.com" + reres[0]
+    
+    res2 = urllib2.urlopen(url2).read().decode('utf-8')
+    regex2 = 'a-section a-spacing-none mojo-performance-summary-table.*?Domestic.*?money">(.*?)<'
+    domestic = re.findall(regex2,res2,re.DOTALL)[0]
+    regex2 = 'a-section a-spacing-none mojo-performance-summary-table.*?International.*?money">(.*?)<'
+    intl = re.findall(regex2,res2,re.DOTALL)[0]
+    regex2 = 'a-section a-spacing-none mojo-performance-summary-table.*?Worldwide.*?money">(.*?)<'
+    worldwide = re.findall(regex2,res2,re.DOTALL)[0]
+    regex2 = 'Domestic Opening.*?money">(.*?)<'
+    domopen = re.findall(regex2,res2,re.DOTALL)[0]
+    regex2 = '<span>Earliest Release Date</span><span>(.*?)\n.*?</span>'
+    reldate = re.findall(regex2,res2,re.DOTALL)[0]
+    return {"Domestic Opening": domopen, "Domestic": domestic,
+            "International": intl, "Worldwide Total": worldwide,
+            "Release Date": reldate}
+
+
 def get_modis_csv():
     url = "https://firms.modaps.eosdis.nasa.gov/data/active_fire/modis-c6.1/csv"
     f = 'MODIS_C6_1_Global_7d.csv'

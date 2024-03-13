@@ -1,6 +1,6 @@
 # Week 10
 
-<img width='340' src='mbl/2023/nixon-salute.jpg'/> 
+<img width='340' src='../2023/nixon-salute.jpg'/> 
 
 Break time.. laters readers
 
