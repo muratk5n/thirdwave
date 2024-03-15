@@ -9,6 +9,8 @@ blazes in Bankstown and Silverwater..
 - FRNSW said there had then been 45 lithium-ion battery-related fires
   recorded in NSW already"
 
+[[-]](https://www.abc.net.au/news/2024-03-14/new-south-wales-lithium-battery-related-fires/103585608)
+
 ---
 
 Transport Engineer: "A hydrogen-powered fuel-cell vehicle (FCEV) that
