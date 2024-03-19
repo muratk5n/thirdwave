@@ -1,5 +1,55 @@
 # Week 12
 
+
+ETN: "Huadian Group, a Chinese government-owned undertaking, is
+looking to set up a $2.4 billion green hydrogen plant in Vietnam"
+
+---
+
+H2 Central: "Germany launches bidding for carbon contracts to support
+climate-friendly industrial production, 4 Billion Eur – Hydrogen
+included"
+
+---
+
+Fortune: "Tesla is now a ‘growth company with no growth,’ Wells Fargo
+writes in scathing downgrade"
+
+---
+
+CleanTechnica: "US Green Hydrogen Industry Kicks Into High Gear.. the
+new law makes room for the renewable energy chickens to come home to
+roost. In the latest example, the US Department of Energy has just
+announced a new $750 million round of BIL funding, aimed at replacing
+fossil-sourced hydrogen with green hydrogen from water"
+
+---
+
+Vibin we chillin.. Vibin n chillin
+
+---
+
+Infosec Exchange: "Governor Kathy Hochul has announced the allocation
+of more than $16 million to propel innovations in clean hydrogen
+technology, marking a significant step toward achieving New York
+State’s zero-emission electricity goals by 2040. This funding,
+facilitated through the Hydrogen and Clean Fuel Program, is set to
+support research, development, and demonstration projects across the
+state, emphasizing the use of clean hydrogen in sectors like
+industrial processes, clean transportation, and energy storage"
+
+---
+
+DTV: "Manchin announces $20.5m in funding for two WVU Research
+Corporation projects"
+
+---
+
+Reuters: "Morocco to dedicate 1 mln hectares to green hydrogen
+projects"
+
+---
+
 ABC: "NSW records two more lithium-ion battery-related fires following
 blazes in Bankstown and Silverwater..
 
