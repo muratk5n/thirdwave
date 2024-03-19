@@ -105,7 +105,33 @@ for National Security Affairs (JINSA) and Center for Security Policy
 (CSP), Jason Vest of The Nation magazine convincingly unmasked “the
 close links among the two organizations, right-wing politicians, arms
 merchants, military men, Jewish billionaires, and Republican
-administrations.”
+administrations...
+
+It does not follow.. as some critics argue, the U.S.–Israeli
+relationship represents a case of 'tail wagging the dog,' that is, the
+U.S. foreign policy in the Middle East is shaped by the
+Israeli/Zionist leaders. Nor do I subscribe to the hoary anti-Semitic
+canards that are used to put forth a specious case for Jews trying to
+run the world. While, no doubt, the powerful Jewish lobby exerts
+considerable influence over U.S. foreign policy in the Middle East,
+the efficacy and the extent of that influence depend, ultimately, on
+the real economic and geopolitical interests of U.S. foreign policy
+makers. In other words, U.S. policy makers in the Middle East would go
+along with the demands of the radical Zionist lobby only if such
+demands also tend to serve the special interests that those policy
+makers represent or serve—not necessarily the interests of the
+American people, or collective U.S. 'national interests' in
+general. The fact that, as pointed out earlier, U.S. foreign policy
+during the Cold War era was less accommodating to the territorial
+desires of militant Zionism than in the post–Cold War period is an
+indication of this point. Another corroborating indication of the
+point is that as the military-industrial complex has been gaining more
+and more influence over U.S. foreign policy, that policy has,
+accordingly, been more and more geared to the wishes of hard-line
+Zionism because, as has been frequently pointed out in this chapter,
+the interests of the U.S.  military establishment converge with those
+of militant Zionism over war and political convulsion in the Middle
+East..
 
 <a name='decontext'></a>
 
