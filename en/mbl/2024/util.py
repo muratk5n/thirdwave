@@ -212,6 +212,8 @@ def prepare_sahel_suriyak():
 
 
 regs = [
+    "S..Zaporizhia-Russian Armed Forces",
+    "E..Zaporizhia-Russian Armed Forces",
     "Luhansk People's Republic \(North Luhansk\)",
     "Luhansk People's Republic \(East Luhansk\)",
     "Luhansk People's Republic \(East Luhansk 2\)",
@@ -225,7 +227,6 @@ regs = [
     "Donetsk People's Republic \(West Donetsk\)",
     "Donetsk People's Republic \(South Donetsk\)",
     "E.Kharkiv-Russian Armed Forces",
-    "Zaporizhia-Russian Armed Forces",
     "Kherson-Russian Armed Forces",
     "Nykolaiv-Russian Forces"]
 

@@ -107,6 +107,8 @@ close links among the two organizations, right-wing politicians, arms
 merchants, military men, Jewish billionaires, and Republican
 administrations...
 
+<a name='tail'></a>
+
 It does not follow.. as some critics argue, the U.S.–Israeli
 relationship represents a case of 'tail wagging the dog,' that is, the
 U.S. foreign policy in the Middle East is shaped by the
