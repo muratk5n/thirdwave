@@ -114,8 +114,7 @@ after-effects. If people are in a bad situation economically, anything
 can happen.. That should not be suprising. "Preparing" for the
 after-effect, Nazism and such, is less effective than curing the
 conditions that caused it. But the corp propagandists already know
-that, they use misdirection, gaslighting for a reason. If you let
-people down, you will pay the price.
+that, they use misdirection, gaslighting for a reason. 
 
 ---
 

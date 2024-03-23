@@ -42,7 +42,7 @@ gas is set to drill test wells in Ontario this summer"
 
 Frontline \#RU \#UA 03/06 - 03/21
 
-[[-]](mbl/2024/ukrdata/map10.html)
+[[-]](ukrdata/map10.html)
 
 ---
 
@@ -98,9 +98,9 @@ Daily Mail: "[03/14] United Boeing 777 is forced to land after fuel leak"
 "@danhulton@hachyderm.io
 
 .. You CAN get filthy stinking rich from conning people about prime
-number apes, though. And if you owned a vast collection of media
-companies and prioritized getting filthy stinking rich (but I repeat
-myself), which would you demand your staff write about?"
+number apes... And if you owned a vast collection of media companies
+and prioritized getting filthy stinking rich (but I repeat myself),
+which would you demand your staff write about?"
 
 ---
 
@@ -111,7 +111,7 @@ Biden proposal"
 
 \#Multimillionaires \#WealthTax \#DW
 
-[[-]](2024/03/dw-multimillionaires.html)
+[[-]](../../2024/03/dw-multimillionaires.html)
 
 ---
 
@@ -272,12 +272,6 @@ back to haunt it
 ---
 
 The Economic Times: "Gaza world's biggest 'open-air graveyard': EU's Borrell"
-
----
-
-<iframe frameborder="0" width="340"
-  src="https://www.dropbox.com/scl/fi/7o5c447lvt41oorogz16e/dw_multimillionaire.mp4?rlkey=aecai5abcbdgkvo58ge253e2y&raw=1">    
-</iframe>
 
 ---
 
