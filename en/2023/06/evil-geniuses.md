@@ -93,3 +93,30 @@ blue jeans every day, or refusing to agree to gun regulation— or rich
 people paying themselves as much as they wanted, or banks misleading
 borrowers and speculating recklessly. Deal? Deal.
 
+<a name='clintoncare'></a>
+
+Clintoncare
+
+In the 1960s and ’70s, Daniel Moynihan had been
+pigeonholed as a moderate or a conservative, but as a U.S. senator
+during the 1990s, when the rest of his party went Republicanesque on
+the political economy, Moynihan was a kind of heroic last left-winger
+standing...
+
+At the start of his presidency, Clinton tried to legislate an
+expansion of the private U.S. health insurance system to make it cover
+more people. 'Mr. Clinton and his allies,' a Times analysis explained
+in 1994, 'were trying hard to redefine the Democratic Party away from
+traditionally liberal approaches to domestic policy; they were almost
+inevitably drawn to the ideas of managed competition.  Though still
+largely theoretical, the concept relies on market forces, not
+government, to hold down costs and expand access to health insurance.'
+That is, Clinton tried and failed to pass a version of Obamacare
+sixteen years before Obama succeeded..
+
+[Moynihan said of Clintoncare back then] 'He hated unnecessary
+government complexity' and the Clinton plan.. was complex and hard to
+explain (as Obamacare would be as well). Also, Moynihan 'could see the
+[so-called reform] policies' proposed by Clinton would 'not perform as
+promised.
+
