@@ -24,18 +24,19 @@ for many decades to come.
 
 Being a "Semite" doesn't automatically imply Zionist, nor you are
 scheming to end up in powerful positions. The majority manuevers them
-into those positions, just like the overwhelmig Catholic presence in
-scotus, Jews can be overrepresented in some places. Need to understand
-how the private industrial-Likud-complex thinks.. They would prefer a
-guy who could be *a little more* anti-government due to his minority
-status (as in scotus), *a little more* pro-genocide, pro-Zionist due
-to this religious affiliation... These fuckers play the odds. Very
-smart.. and they've been winning the long-game aren't they?
+into those positions, just like the disproportionate Catholic presence
+at scotus, Jews can be overrepresented in some places. Need to
+understand how the private industrial-Likud-complex thinks.. They
+would prefer a guy who could be *a little more* anti-government due to
+his minority status (as in scotus), *a little more* pro-genocide,
+pro-Zionist due to this religious affiliation... These fuckers play
+the odds. Very smart.. and they've been winning the long-game aren't
+they?
 
 ---
 
 Bama was surely accepted by the donor-controlled establishment before
-prez, when he redistricted in Chicago (Mmmhmmm, yes he did) the
+prez, when he redistricted in Chicago (mmmhmmm, yes he did) the
 regions he chose [tell the tale](0119/2008/07/obamas-district.html).
 Affluent, rich, white collar regions were included, the Loop, Gold
 Coast, with Republicans, and Jewish presence (most of whom were surely
@@ -190,5 +191,3 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
-
-
