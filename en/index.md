@@ -127,8 +127,8 @@ of dollars. Also, do you want a back rub?'"
 
 ---
 
-Maybe the complex / globalists sent a message to US gov via SCP. They
-said "watch your step biznatches!"
+Maybe the complex / globalists sent a message to their opposition via
+SCP. They said "watch your step biznatches!"
 
 It would be fitting the medium for the message is a cargo ship.
 
