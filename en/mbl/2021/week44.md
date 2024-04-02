@@ -247,20 +247,6 @@ Breakthrough Agenda presented at @COP26"
 
 ---
 
-DA HEAD.. DA DICK..
-
----
-
-My big concern is will it feed DA HEAD. As in cerebral activity.
-
----
-
-Chef uses nutritional yeast to make veg burger taste more like meat
-burgers.  It's true, nut yeast has a certain kick in taste that cld
-help.. Mushrooms too. Bean and rice for 9 aminos.. That can work
-
----
-
 That Yosemite plant output isn't bad.. H2 energy density is 33.6
 kWh/kg, 12,200 kg generation per day, and with 30 kwh usage assumption
 per day, per home

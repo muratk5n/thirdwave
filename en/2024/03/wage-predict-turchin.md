@@ -21,7 +21,8 @@ $$
 
 The formula above is now regression-able. 
 
-
+Using frequency of certain words to gauge "the culture" of an era, below is
+the word "greed" via Google Books.
 
 ```python
 df = pd.read_csv('gr-ngram.csv',header=None)
@@ -32,9 +33,7 @@ df.plot(title="Count for the Word 'Greed' in Published Work")
 
 ![](https://cdn.fosstodon.org/media_attachments/files/112/163/022/078/112/717/original/1c08b53962c6a725.jpg)
 
-
-
-
+We put it all together below
 
 ```python
 import impl as u, pandas as pd
@@ -77,6 +76,4 @@ pred[['W','Wpred']].plot()
 ```
 
 ![](https://cdn.fosstodon.org/media_attachments/files/112/162/971/234/257/641/original/4b72a8f22a65f36e.jpg)
-
-
 

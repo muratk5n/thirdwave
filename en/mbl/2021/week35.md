@@ -222,12 +222,6 @@ energy associated with it'"
 
 ---
 
-Dont forget your nine aminos.
-
-Quinoa. Or rice+beans.
-
----
-
 Have some [vegan schnitzel](https://veggy.com.tr/en/products/vegan-schnitzel/)
 
 "Berlin’s university canteens go almost meat-free"

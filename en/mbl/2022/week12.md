@@ -480,17 +480,6 @@ WION: "‘Let’s Go Brandon’ store opens in New Jersey, gets flagged by Faceb
 
 ---
 
-Beans are high on fiber. Cheese, eggs; low.
-
----
-
-.. which means high food-to-poop ratio (or low poop-to-food). Less
-Shatner, Leonardo di Caprio
-
-"Red meat has no fiber"
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">COULD A FUTURE MUSTANG RUN ON HYDROGEN? FORD PATENTS TURBOCHARGED HYDROGEN COMBUSTION ENGINE <a href="https://t.co/92EAqPqtVe">https://t.co/92EAqPqtVe</a></p>&mdash; Leo Sfikas (@SfikasLeo) <a href="https://twitter.com/SfikasLeo/status/1503728987922571265?ref_src=twsrc%5Etfw">March 15, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---

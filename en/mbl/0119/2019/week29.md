@@ -199,12 +199,6 @@ sultan.
 
 ---
 
-Testing new superfood concoction; milk powder with iron and calcium,
-oats with dried fruits, dried kidney beans, all ground in a blender
-turned into powder.
-
----
-
 Will check it out
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’m getting so excited for July 25th when Another Life starts streaming world wide! This is what I’ve spent the last almost 2 years of my life on and I’m just freaking out for you to see it!! <a href="https://twitter.com/netflix?ref_src=twsrc%5Etfw">@netflix</a> 🚀🛸💫👽❤️</p>&mdash; Katee Sackhoff (@kateesackhoff) <a href="https://twitter.com/kateesackhoff/status/1151302851714379776?ref_src=twsrc%5Etfw">July 17, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

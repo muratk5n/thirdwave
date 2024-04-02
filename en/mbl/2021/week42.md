@@ -200,14 +200,6 @@ It's open season on Facebook
 
 ---
 
-Using coffee beans ground into a fine powder, then boiled in a little
-[brass pot](twimg/FB9mjc0XMAU_YNS.jpg)
-is called different names by countries, with many laying claim on its
-invention. But that style of coffee making was first invented in Yemen; so it
-should be called Yemenese coffee.
-
----
-
 "@ivadixit
 
 I’m just remembering that my second year in America, someone asked me
@@ -478,12 +470,6 @@ marketed to contain malt. There is dark malt powder for bread makers.
 It cld go well in protein shakes too Im guessing.
 
 AP News: "Malt Makes a Comeback, Packing Powerful Nutritional Benefits"
-
----
-
-Beans alone do not supply the 9 essential aminos, but rice and beans
-do (no wonder the combo is a staple in some cuisines). Rice and peas
-too..
 
 ---
 

@@ -146,13 +146,6 @@ UNICEF: "Every day 19,000 children die from preventable causes"
 
 ---
 
-Experiment continues; The ultimate dish, one that u can prepare
-everyday, tastes good enough, and has everything needed.. Latest;
-onions, cheap chuck, green beans, salt, lemon, olive oil -- all thrown
-together and simply cooked. Fine so far.
-
----
-
 "Mitch McConnell, a polio survivor, urged people to get vaccinated 'as
 rapidly as possible' at a press conference Tuesday, 'or we're gonna be
 back in a situation in the fall that we don't yearn for, that we went

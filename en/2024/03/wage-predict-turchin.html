@@ -40,6 +40,8 @@ non-market forces (culture).</p>
           \epsilon_t
 $$</p>
 <p>The formula above is now regression-able. </p>
+<p>Using frequency of certain words to gauge "the culture" of an era, below is
+the word "greed" via Google Books.</p>
 <pre><code class="python">df = pd.read_csv('gr-ngram.csv',header=None)
 df['DATE'] = pd.to_datetime([&quot;%d-01-01&quot; % x for x in list(range(1800,2020))])
 df = df.set_index('DATE')[0] 
@@ -47,6 +49,7 @@ df.plot(title=&quot;Count for the Word 'Greed' in Published Work&quot;)
 </code></pre>
 
 <p><img alt="" src="https://cdn.fosstodon.org/media_attachments/files/112/163/022/078/112/717/original/1c08b53962c6a725.jpg" /></p>
+<p>We put it all together below</p>
 <pre><code class="python">import impl as u, pandas as pd
 # gdpcap wage prod lab_force minwage
 df  = u.get_fred(1970,['A939RC0A052NBEA','LES1252881600Q','OPHNFB','CLF16OV','FEDMINNFRWG'])

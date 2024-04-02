@@ -958,13 +958,6 @@ to continue"
 
 ---
 
-"@kenklippenstein
-
-Sorry you can’t have healthcare, how about a vacuous culture war
-debate over canned beans instead and we call it even"
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">deleted, but the List comes for all, <a href="https://twitter.com/ajplus?ref_src=twsrc%5Etfw">@ajplus</a>.<br><br>✍🏼✍🏼✍🏼 <a href="https://t.co/ihVpGz1Zbb">pic.twitter.com/ihVpGz1Zbb</a></p>&mdash; Siraj Hashmi (@SirajAHashmi) <a href="https://twitter.com/SirajAHashmi/status/1281716567907205120?ref_src=twsrc%5Etfw">July 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
