@@ -42,26 +42,23 @@ $$</p>
 <p>The formula above is now regression-able. </p>
 <p>Using frequency of certain words to gauge "the culture" of an era, below is
 the word "greed" via Google Books.</p>
-<pre><code class="python">df = pd.read_csv('gr-ngram.csv',header=None)
+<pre><code class="python">import impl as u, pandas as pd
+df = pd.read_csv('gr-ngram.csv',header=None)
 df['DATE'] = pd.to_datetime([&quot;%d-01-01&quot; % x for x in list(range(1800,2020))])
-df = df.set_index('DATE')[0] 
-df.plot(title=&quot;Count for the Word 'Greed' in Published Work&quot;)
+keyw = df.set_index('DATE')[0] 
+keyw.plot(title=&quot;Count for the Word 'Greed' in Published Work&quot;)
 </code></pre>
 
 <p><img alt="" src="https://cdn.fosstodon.org/media_attachments/files/112/163/022/078/112/717/original/1c08b53962c6a725.jpg" /></p>
 <p>We put it all together below</p>
-<pre><code class="python">import impl as u, pandas as pd
-# gdpcap wage prod lab_force minwage
+<pre><code class="python"># gdpcap wage prod lab_force minwage
 df  = u.get_fred(1970,['A939RC0A052NBEA','LES1252881600Q','OPHNFB','CLF16OV','FEDMINNFRWG'])
 df = df.interpolate()
-df2 = pd.read_csv('gr-ngram.csv',header=None)
 df3 = df.copy()
 idx = list(range(1800,2020))
 idx = [&quot;%d-01-01&quot; % x for x in idx]
-df2['DATE'] = pd.to_datetime(idx)
-df2 = df2.set_index('DATE')
-df2.columns = ['greed']
-df3['greed'] = df2
+keyw.columns = ['greed']
+df3['greed'] = keyw
 df3 = df3.interpolate()
 df3.columns = ['G','W','Prod','S','M','greed']
 df3['C'] = df3['greed'].rdiv(1) 
@@ -74,14 +71,14 @@ results = smf.ols('np.log(W) ~ np.log(M) + np.log(G) + np.log(D/S) + np.log(C)',
 print (results.rsquared)
 </code></pre>
 
-<pre><code class="text">0.8857859038760916
+<pre><code class="text">0.8857767077052572
 </code></pre>
 
-<pre><code class="python">df3['Wpred'] = df3.apply(lambda x: par['Intercept'] +
+<pre><code class="python">df3['Wpred'] = df3.apply(lambda x: results.params['Intercept'] +
                                    np.log(x['M'])*results.params['np.log(M)'] +
                                    np.log(x['G'])*results.params['np.log(G)'] +
                                    np.log(x['D']/x['S'])*results.params['np.log(D / S)'] +
-                           np.log(x['C'])*par['np.log(C)'],axis=1)
+                           np.log(x['C'])*results.params['np.log(C)'],axis=1)
 df3['Wpred'] = np.exp(df3['Wpred'])
 pred = df3[df3.index &gt; '1980-01-01']
 pred[['W','Wpred']].plot()

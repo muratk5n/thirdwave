@@ -227,19 +227,19 @@ df = pd.read_csv(file,comment='#',header=None,sep='\s*')
 df['Date'] = pd.to_datetime(df.Date)
 df['ppm'] = df[3]
 df = df.set_index('Date')
-df[df.index &gt; &quot;2018-01-01&quot;]['ppm'].rolling(10).mean().plot()
+df[df.index &gt; &quot;2018-01-01&quot;]['ppm'].rolling(10).mean().plot(title='Carbon Level (mole fraction in ppm)')
 plt.savefig('carbon.png')
-df['ppm'].rolling(10).mean().plot(color='blue')
+df['ppm'].rolling(10).mean().plot(color='blue',title='Carbon Levels (mole fraction in ppm)')
 print (df.ppm.tail(5))
 plt.savefig('carbon2.png')
 </code></pre>
 
 <pre><code class="text">Date
-2023-03-01    420.98
-2023-04-01    423.36
-2023-05-01    424.00
-2023-06-01    423.68
-2023-07-01    422.14
+2023-11-01    420.46
+2023-12-01    421.86
+2024-01-01    422.80
+2024-02-01    424.55
+2024-03-01    425.38
 Name: ppm, dtype: float64
 </code></pre>
 
@@ -261,15 +261,15 @@ print (df['ppmyoy'].dropna().mean())
 1959-06-01    0.286849
 Name: ppmyoy, dtype: float64
 Date
-2023-04-01    0.754421
-2023-05-01    0.719766
-2023-06-01    0.650924
-2023-07-01    0.785484
+2023-12-01    0.684981
+2024-01-01    0.791456
+2024-02-01    1.011182
+2024-03-01    1.042780
 Name: ppmyoy, dtype: float64
-0.44572468643640795
+0.44902725303018143
 </code></pre>
 
-<pre><code class="python">df['ppmyoy'].plot()
+<pre><code class="python">df['ppmyoy'].plot(title=&quot;Carbon Level Increase (YoY)&quot;)
 plt.savefig('carbon3.png')
 </code></pre>
 
@@ -286,19 +286,19 @@ df = df.set_index('decimal')
 df['dt'] = df.apply(lambda x: pd.to_datetime(&quot;%d-%02d-01&quot; %(x.year,x.month)), axis=1)
 df[['dt','average']].to_csv('methane.csv',index=None)
 df1 = df.set_index('dt')
-df1.average.plot()
+df1.average.plot(title='Methane Level (nanomol/mol)')
 print (df1.average.tail(6))
 plt.legend(['nanomol/mol (ppb)'])
 plt.savefig('methane.png')
 </code></pre>
 
 <pre><code class="text">dt
-2022-11-01    1923.63
-2022-12-01    1924.77
-2023-01-01    1922.25
-2023-02-01    1920.35
-2023-03-01    1920.64
-2023-04-01    1922.20
+2023-07-01    1914.10
+2023-08-01    1918.07
+2023-09-01    1925.64
+2023-10-01    1931.03
+2023-11-01    1932.05
+2023-12-01    1932.23
 Name: average, dtype: float64
 </code></pre>
 

@@ -197,7 +197,7 @@ hydroquinone and hydrogen peroxide)"
 
 Frontline \#RU \#UA 03/21 - 03/29
 
-[[-]](mbl/2024/ukrdata/map11.html)
+[[-]](ukrdata/map11.html)
 
 ---
 
@@ -219,7 +219,7 @@ labor has direct effect on wages - if available labor increases via
 excessive immigration citizens will pay the price.
 
 
-[[-]](2024/03/wage-predict-turchin.html)
+[[-]](../../2024/03/wage-predict-turchin.html)
 
 ---
 

@@ -38,14 +38,14 @@ they?
 
 Bama was surely accepted by the donor-controlled establishment before
 prez, when he redistricted in Chicago (mmmhmmm, yes he did) the
-regions he chose [tell the tale](0119/2008/07/obamas-district.html).
+regions he chose [tell the tale](../../0119/2008/07/obamas-district.html).
 Affluent, rich, white collar regions were included, the Loop, Gold
 Coast, with Republicans, and Jewish presence (most of whom were surely
 Zionist dipshits).
 
 ---
 
-Obamacare was [rebranded Clintoncare](2023/06/evil-geniuses.html#clintoncare),
+Obamacare was [rebranded Clintoncare](../../2023/06/evil-geniuses.html#clintoncare),
 let's not forget
 
 ---
