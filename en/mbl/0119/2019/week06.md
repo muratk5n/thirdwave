@@ -251,10 +251,10 @@ However 100m corresponds to 0.001 change on lat/lon. A box (20,30),(21,31) has 1
 
 TV guy said "Martin Luther Coon"? What a jackass..
 
-Funny story with that word. First time I heard it was during OJ
-trials. There was an OJ joke for everything. This one goes "one day OJ
-comes to the courtroom, in a Hawaii shirt, summer outfit. His lawyer
-asks him 'what is going on OJ? Why r u dressed like this?'
+I have a funny story with that word. First time I heard it was during
+OJ trials. There was an OJ joke for everything. This one goes "one day
+OJ comes to the courtroom, in a Hawaii shirt, summer outfit. His
+lawyer asks him 'what is going on OJ? Why r u dressed like this?'
 
 OJ says 'I thought you said we was going to Cancun'. Lawyer says 'no,
 I said you are going to the can, coon'". Joke was triggered bcz we
