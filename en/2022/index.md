@@ -78,8 +78,6 @@
 
 [The Gaseous Sun](04/gaseous-sun.html)
 
-[The New Economics](05/the-new-economics-keen.html)
-
 [GHG Sources](06/ghg-sources.html)
 
 [Ferming Over Farming, Lab-Grown Meat](06/lab-grown-meat.html)

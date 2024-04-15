@@ -151,10 +151,6 @@ Al Jazeera: "Google to pay over 300 European news publishers for content"
 
 ---
 
-Economics and money - [Keen](../../2022/05/the-new-economics-keen.html)
-
----
-
 CNBC: "More than $200 billion erased from entire crypto market in a
 day as sell-off intensifies"
 

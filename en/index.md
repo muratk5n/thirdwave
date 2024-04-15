@@ -1,88 +1,165 @@
 
-The Guardian: "The Hamas leader said the attack would not change the
-group’s demands for a permanent ceasefire and return of displaced
-Palestinians from their homes in ongoing negotiations mediated by Doha
-and Washington"
+Paper: "Huge amounts of plastic products are produced, utilized, and
+discarded each year, contributing to the increasingly serious
+ecological problem. Photoreforming, a solar-driven technology,
+provides an uncomplicated route to simultaneously recycle plastics and
+facilitate hydrogen (H2) production. Herein, we proposed innovative
+CdS/NiS composites which used visible light to drive H2 evolution from
+plastic wastes"
+
+[[-]](https://www.sciencedirect.com/science/article/abs/pii/S0360319923040156)
 
 ---
 
-CNN: "Israeli airstrike kills three sons of Hamas political leader in
-Gaza as ceasefire talks stutter"
+Reuters: "Apple lost a bid to throw out a mass [UK] lawsuit valued at
+just under $1 billion, brought in London on behalf of more than 1,500
+app developers over its App Store fees"
 
 ---
 
-NYT: "E.P.A. Says ‘Forever Chemicals’ Must Be Removed From Tap
-Water.. The rule applies to a family of chemicals known as PFAS that
-are linked to serious health effects"
+Boehs: "The two richest companies, those two with their own search
+indexes.. quietly downloaded all the text on the internet.. and fed it
+into huge, glorified, energy consuming markov chains that we call
+LLMs. Now, they encourage you to feed your questions to it, instead of
+wading through all the shit they birthed. To users at this moment,
+this proposition is immensely popular. Simultaneously, while users
+jump ship from the web, website administrators continue to be lazy
+with no regard for their best interests. They also view LLMs as game
+changing. These products allow them to pump out more shit, much
+faster. In this way, the vicious spiral begins.
+
+I’m sure we all understand the most immediate problem hurtling at
+us. AI is literally inbreeding as it continues to consume and
+produce. Researchers have coined it 'Model Collapse', 'Model Autophagy
+Disorder' and 'Habsburg AI'. It all means the same thing. The loss of
+intelligence on the web is happening shockingly fast, and it’s only
+accelerating. If you’ve been on Reddit or Twitter in the past few
+months, the signs of bots chattering back and forth with each other
+are unmistakable, while the platforms cheer it on and begin to sell it
+back to the AI"
 
 ---
 
-AP News: "Biden says he’s considering Australia’s request to drop
-prosecution of Wikileaks founder Assange"
+Nikkei Asia: "Japan pushes for hydrogen trains on local lines,
+revamping safety rules"
 
 ---
 
-[End Hedge Fund Control of American Homes Act](https://www.congress.gov/bill/118th-congress/senate-bill/3402/text).
-It looks like a good bill.. It currently appears stalled though.
+DH: Investments of $180-200 billion in green hydrogen expected in
+India by 2030’
 
 ---
 
-NYT: "Democrats in Congress have introduced a bill in both houses of
-Congress on Tuesday to ban hedge funds from buying and owning
-single-family homes in the United States"
+"@miguel_pacheco@masto.pt
+
+Rotterdam Port to win a new hydrogen import hub:
+
+- Hub will handle compressed H2 and ammonia
+
+- Redeliveries via barges, rail, trucks & H2 grid
+
+- Developed by Global Energy Storage & Provaris Energy"
 
 ---
 
-BTW according to a theory, Watergate was part of what some call a
-"Camelot conspiracy", the Kennedys were behind the whole
-thing. Matthews talks about in the book how Ted Ken used the
-opportunity to damage Nixon as a member of the Judiciary Commitee,
-perhaps there was more going on behind the scenes as well. The
-military-industrial complex liked JFK anyway who constantly raised
-their budget, an MIC/Camelot effort would not be outside the realm of
-possibility.
+The Mainichi: "The Tokyo Metropolitan Government is doubling its
+budget for hydrogen-related initiatives from fiscal 2024, seeing them
+as key to combating climate change"
 
 ---
 
-Previous Watergate [timeline](2024/03/watergate-timeline.html) used
-some material, data from Chris Matthews' book on the subject, *Kennedy
-& Nixon*.
+But it is a *great* moneymaker for the MIC.
+
+James Warden: "NATO encourages free-riding on the part of our
+partners; it encourages recklessness on the part of strategically
+insignificant though wildly bellicose client states; it encourages
+incredibly self-defeating behavior on the part of those nations that
+want to join it; it encourages and helps enable the U.S. to meddle in
+the Middle Eastern and North Africa where we have virtually no
+business being"
+
+[[-]](https://www.theamericanconservative.com/at-75-has-nato-outlived-its-use/)
 
 ---
 
-"@cdrc@tux.social
-
-Have you tried @organicmaps.. A.. privacy-focused and offline
-navigation app. The app features no location tracking and no data
-collection. The map data is downloaded to the phone so search,
-routing, and navigation can operate without a cell phone signal, ideal
-for travel to locations with poor connections (hikes, remote
-roads). Organic Maps uses map data from OpenStreetMap. The app is free
-and open-source software"
-
----
-
-Note AMZN did not use "AI" for the service, it was bunch of people
-eyeballing stuff
-
-Gizmodo: "Amazon Ditches 'Just Walk Out' Checkouts at Its Grocery
-Stores.. Amazon Fresh is moving away from a feature of its grocery
-stores where customers could skip checkout altogether. Though it
-seemed completely automated, Just Walk Out relied on more than 1,000
-people in India watching and labeling videos to ensure accurate
-checkouts. The cashiers were simply moved off-site, and they watched
-you as you shopped.. The system of scanners and video cameras in each
-store is... incredibly expensive"
+Ars Technica: "Oregon Governor Tina Kotek today signed the state's
+Right to Repair Act.. The law, like those passed in New York,
+California, and Minnesota, will require many manufacturers to provide
+the same parts, tools, and documentation to individuals and repair
+shops that they provide to their own repair teams.. Oregon's bill goes
+further, preventing companies from implementing schemes that require
+parts to be verified through encrypted software checks before they
+will function"
 
 ---
 
-Vanden Heuvel, *The Nation*: "Ties between the government and the
-private sector.. famously called the 'military-industrial complex' —
-form the foundations of our national defense. Since 9/11,
-between one-third and half of the nearly $14 trillion the Pentagon has
-spent went to for-profit defense contractors. Dozens of members of
-Congress and their spouses own millions of dollars’ worth of stock in
-those companies"
+"@baldur@toot.cafe
+
+Almost everything positive about LLMs you see today is based on
+extremely unreliable evidence, much of it from some of the most
+dishonest people you’ll find in tech (cryptocoiners, effective
+altruists, etc.)
+
+Given that these models are obscenely power-hungry during a global
+climate crisis it’s my opinion that integrating these tools into your
+daily work is inherently unethical and irresponsible"
+
+---
+
+Wiki: "A person with non-domiciled status, sometimes called a
+'non-dom', is a person living in the United Kingdom who is considered
+under British law to be domiciled (i.e. with their permanent home) in
+another country. Non-doms pay UK tax to the UK government like all
+other UK residents"
+
+---
+
+The Guardian: "‘Petrified’ non-doms poised to flee UK over Labour’s
+tax plans, say experts Prospect of party closing Tory ‘loopholes’ if
+elected prompts some wealthy individuals to explore a move overseas"
+
+---
+
+Deaton, *Economics in America*: "[Milton] Friedman liked tax
+competition between countries and supported tax havens, because they
+put a brake on governments’ ability to tax. And he repeatedly argued
+that attempts to limit inequality of outcomes would not only stifle
+freedom but, in the end, result in even more inequality. Left to
+themselves, free markets would produce both freedom and equality.
+
+It doesn’t seem to have worked out that way.
+
+Instead, we got a world in which the Sackler family paid themselves
+more than $14 billion while igniting and promoting an opioid epidemic
+that has killed hundreds of thousands of Americans. Johnson & Johnson,
+the makers of Band-Aid and Baby Powder, grew opium poppies in Tasmania
+to fuel the opioid epidemic while the American military was bombing
+the Taliban’s heroin supply in Helmand province. Private equity firms
+discovered they could make money by buying up ambulance services and
+staffing hospital emergency rooms with their own physicians who charge
+'surprise' fees to patients even when their insurance includes the
+hospital. Surprise fees in emergency rooms (and operating theaters)
+were eliminated beginning in January 2022, but surprise bills for
+ambulance services continue. If you need an ambulance, you are not in
+the best position to find the best service or to bargain over prices;
+instead, you are helpless and the perfect victim for a predator"
+
+---
+
+\#Dots \#Parrots
+
+[[-]](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7c27656-8373-4d57-b8a4-e52d02ac5f37_1165x1891.jpeg)
+
+---
+
+Xinhua: "Australian PM welcomes U.S. president's consideration of
+dropping Assange prosecution"
+
+---
+
+"How much of Americans' tax money funds war?" \#AlJazeera
+
+[[-]](https://youtu.be/yKI3y_kylmw)
 
 ---
 

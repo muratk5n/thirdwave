@@ -1,5 +1,212 @@
 # Week 15
 
+
+The Korea Herald: "Hyundai to start hydrogen vehicle trials in
+Guangzhou this year"
+
+---
+
+ABC: "Fortescue's $116 million Gladstone electrolyser factory has
+commenced operations, marking the first commercial-scale hydrogen
+electrolyser factory in Australia. The factory has the capacity to
+produce over 2 gigawatts of green hydrogen each year"
+
+---
+
+TCD: "[Italian] Government invests millions in new commitment to
+hydrogen-electric train technology"
+
+---
+
+Yahoo Finance: "British company hunts for white hydrogen in Cornwall
+and Scotland"
+
+---
+
+GM: "We will design, engineer, and develop a fleet of hydrogen fuel
+cell medium-duty trucks to demonstrate how the capability and strength
+of our fuel cells can help real-world Fleet customers"
+
+---
+
+H2 Insight: "Ballard stock rises on largest order for hydrogen
+fuel-cell engines in company's history.. The fuel cell manufacturer
+has also received $54m in tax credits for a factory in Texas"
+
+---
+
+Automative News: "China dominates U.S. in bid for hydrogen
+transportation supremacy"
+
+---
+
+Reuters: "EV maker Polestar posts 40% slump in Q1 deliveries"
+
+---
+
+Turchin, *End Times*: "Where is China today? Pretty much where it has
+been for the past two thousand years. It is governed by a ruling class
+of bureaucrats. The acronym CPC, which stands for the Communist Party
+of China, might as well stand for the Confucian Party of
+China.. Throughout Chinese imperial history, the mandarins kept the
+merchant class on a short leash, and the same is true for the Red
+dynasty. On [2021] Xi Jinping, gave a major speech in which he called
+for common prosperity and emphasized the need to regulate excessively
+high-income groups, which was interpreted by the Western press as an
+attack on the rich. But there is ​nothing new here, merely the
+mandarins (again) reminding the billionaires who is in charge in
+China"
+
+---
+
+Ars Technica: "So far, AI hasn’t been profitable for Big
+Tech.. Notably, [a] WSJ report claims that Microsoft's GitHub Copilot,
+which assists app developers by generating code, has been operating at
+a loss.. The cost to Microsoft exceeds $20 a month per user on
+average, according to a person familiar with the matter. In some
+cases, individual power users have cost the company as much as 80 a
+month."
+
+---
+
+"@mmccue@threads.net
+
+Good evening, Tech Threads. Today was a big milestone in our quest to
+federate \#Flipboard and tear down the walls around our own walled
+garden. First, we launched a new version of Flipboard for iOS and
+Android which brings the promise of two way federation to life. Now
+when a federated Flipboard user curates, people in the fediverse (soon
+to include threads users!) can reply, favorite, boost or follow those
+Flipboard users who in turn will see that activity in their usual
+notifications tab. Even better, Flipboard users can now directly reply
+to people in the fediverse"
+
+---
+
+"@zuck@threads.net
+
+First post in the fediverse! 👋"
+
+---
+
+[Link](../../2022/08/dark-energy.html)
+
+---
+
+NYT: "A Tantalizing ‘Hint’ That Astronomers Got Dark Energy All
+Wrong.. The first year of [a new spectroscopic instrument's] results
+were designed to simply confirm what was already known..  'We thought
+that we would basically validate the standard model.' But the unknown
+leaped out at them. When the scientists combined their map with other
+cosmological data, they were surprised to find that it did not quite
+agree with the otherwise reliable standard model of the universe,
+which assumes that dark energy is constant and unchanging. A varying
+dark energy fit the data points better"
+
+[[-]](https://www.nytimes.com/2024/04/04/science/space/astronomy-universe-dark-energy.html)
+
+---
+
+Frontline \#UA \#RU - 04/07 - 04/13
+
+[[-]](ukrdata/map13.html)
+
+---
+
+"How Does the Government of Israel Treat Christians? Christian Leaders
+in the West Should Care" \#Carlson \#Gaza
+
+[[-]](https://youtu.be/eHayOkXe5ig)
+
+---
+
+The Guardian: "The Hamas leader said the attack would not change the
+group’s demands for a permanent ceasefire and return of displaced
+Palestinians from their homes in ongoing negotiations mediated by Doha
+and Washington"
+
+---
+
+CNN: "Israeli airstrike kills three sons of Hamas political leader in
+Gaza as ceasefire talks stutter"
+
+---
+
+NYT: "E.P.A. Says ‘Forever Chemicals’ Must Be Removed From Tap
+Water.. The rule applies to a family of chemicals known as PFAS that
+are linked to serious health effects"
+
+---
+
+AP News: "Biden says he’s considering Australia’s request to drop
+prosecution of Wikileaks founder Assange"
+
+---
+
+[End Hedge Fund Control of American Homes Act](https://www.congress.gov/bill/118th-congress/senate-bill/3402/text).
+It looks like a good bill.. It currently appears stalled though.
+
+---
+
+NYT: "Democrats in Congress have introduced a bill in both houses of
+Congress on Tuesday to ban hedge funds from buying and owning
+single-family homes in the United States"
+
+---
+
+BTW according to a theory, Watergate was part of what some call a
+"Camelot conspiracy", the Kennedys were behind the whole
+thing. Matthews talks about in the book how Ted Ken used the
+opportunity to damage Nixon as a member of the Judiciary Commitee,
+perhaps there was more going on behind the scenes as well. The
+military-industrial complex liked JFK anyway who constantly raised
+their budget, an MIC/Camelot effort would not be outside the realm of
+possibility.
+
+---
+
+Previous Watergate [timeline](../../2024/03/watergate-timeline.html) used
+some material, data from Chris Matthews' book on the subject, *Kennedy
+& Nixon*.
+
+---
+
+"@cdrc@tux.social
+
+Have you tried @organicmaps.. A.. privacy-focused and offline
+navigation app. The app features no location tracking and no data
+collection. The map data is downloaded to the phone so search,
+routing, and navigation can operate without a cell phone signal, ideal
+for travel to locations with poor connections (hikes, remote
+roads). Organic Maps uses map data from OpenStreetMap. The app is free
+and open-source software"
+
+---
+
+Note AMZN did not use "AI" for the service, it was bunch of people
+eyeballing stuff
+
+Gizmodo: "Amazon Ditches 'Just Walk Out' Checkouts at Its Grocery
+Stores.. Amazon Fresh is moving away from a feature of its grocery
+stores where customers could skip checkout altogether. Though it
+seemed completely automated, Just Walk Out relied on more than 1,000
+people in India watching and labeling videos to ensure accurate
+checkouts. The cashiers were simply moved off-site, and they watched
+you as you shopped.. The system of scanners and video cameras in each
+store is... incredibly expensive"
+
+---
+
+Vanden Heuvel, *The Nation*: "Ties between the government and the
+private sector.. famously called the 'military-industrial complex' —
+form the foundations of our national defense. Since 9/11,
+between one-third and half of the nearly $14 trillion the Pentagon has
+spent went to for-profit defense contractors. Dozens of members of
+Congress and their spouses own millions of dollars’ worth of stock in
+those companies"
+
+---
+
 Author Michael Easter says along with long-distance travel carrying is
 also a fundamental human skill. The human body is built the way it is
 so that "we could slowly but surely run down prey for miles and miles
@@ -54,7 +261,7 @@ Matthews speaking some truth, post-election commentary \#2016
 
 He was fired shortly afterwards wasn't he?
 
-[[-]](2024/04/chris-matthews-2016.html)
+[[-]](../../2024/04/chris-matthews-2016.html)
 
 ---
 

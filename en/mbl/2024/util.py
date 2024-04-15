@@ -166,17 +166,18 @@ def mov_profit(budget, gross):
   return np.round(gross - (budget + marketing + gross*0.4),2)
 
 sudan_regs = [
-    "Polígono 97",
-    "Polígono 106",
-    "Polígono 109",
-    "Polígono 110",
-    "Polígono 118",
-    "Polígono 119",
-    "Polígono 122",
-    "Polígono 124",
-    "Polígono 125",
-    "Polígono 127",
-    "Polígono 130"
+    "RSF-N.Kordofan",
+    "RSF- White Nile",
+    "RSF-Khartoum",
+    "RSF-Gezira",
+    "RSF-W.Kordofan",
+    "RSF-S.Darfur",
+    "RSF-N.Darfur",
+    "RSF-C.Darfur",
+    "RSF-W. Darfur",
+    "RSF-W. Darfur 2",
+    "RSF-Sennar",
+    "RSF-E.Darfur"
 ]
 
 def prepare_sahel_suriyak():
@@ -199,8 +200,7 @@ def prepare_sahel_suriyak():
             polys.append(Polygon(coords))
 
     res = unary_union(polys)
-    
-    rrr = list(res.geoms[0].exterior.coords)
+    rrr = list(res.exterior.coords)
 
     c = np.array(rrr)
     plt.plot(c[:,0].T,c[:,1].T)
@@ -266,6 +266,6 @@ def prepare_ukraine_suriyak():
 
 if __name__ == "__main__": 
 
-    prepare_ukraine_suriyak()
-    #prepare_sahel_suriyak()
+    #prepare_ukraine_suriyak()
+    prepare_sahel_suriyak()
     

@@ -304,7 +304,7 @@ near close to being AI.
 
 ---
 
-[Link](https://drive.google.com/uc?export=view&id=1IxacYfL0ZIRPgQ4MR3ZWclmulwye-G9l)
+[Link](https://www.dropbox.com/scl/fi/58c5ail9mvbe0am8r8prf/spaz2.gif?rlkey=n68ilxxdrq8frd08hqcifoitm&raw=1)
 
 ---
 
