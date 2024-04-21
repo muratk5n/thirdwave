@@ -102,7 +102,7 @@
 
 [Youthquake](10/youthquake.html)
 
-[Woit](11/not-even-wrong.html)
+[Not Even Wrong](11/not-even-wrong-woit.html)
 
 [Target #1](11/target-1.html)
 

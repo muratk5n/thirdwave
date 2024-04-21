@@ -1,165 +1,97 @@
 
-Paper: "Huge amounts of plastic products are produced, utilized, and
-discarded each year, contributing to the increasingly serious
-ecological problem. Photoreforming, a solar-driven technology,
-provides an uncomplicated route to simultaneously recycle plastics and
-facilitate hydrogen (H2) production. Herein, we proposed innovative
-CdS/NiS composites which used visible light to drive H2 evolution from
-plastic wastes"
-
-[[-]](https://www.sciencedirect.com/science/article/abs/pii/S0360319923040156)
-
----
-
-Reuters: "Apple lost a bid to throw out a mass [UK] lawsuit valued at
-just under $1 billion, brought in London on behalf of more than 1,500
-app developers over its App Store fees"
+UnHerd: "The capitalists are circling over Ukraine.. Western
+multinationals had long had their eyes on Ukraine’s vast agricultural
+wealth, but a 2001 moratorium on the sale of land to foreigners had
+always represented an obstacle to unrestrained privatisation. As
+post-Maidan governments turned again to the IMF for financing, aid was
+conditioned on a series of land reforms that would finally allow
+foreign corporations to acquire vast tracts of the country’s
+farmland. In the 2015 TV series, Servant of the People — which starred
+Zelenskyy as the fictional president, Goloborodko — the conditions
+required by the IMF for a new loan are rejected and the Western
+delegation is expelled. But in reality, things went rather
+differently. In 2020, Zelenskyy gave in to the IMF’s demands and
+finally repealed the moratorium"
 
 ---
 
-Boehs: "The two richest companies, those two with their own search
-indexes.. quietly downloaded all the text on the internet.. and fed it
-into huge, glorified, energy consuming markov chains that we call
-LLMs. Now, they encourage you to feed your questions to it, instead of
-wading through all the shit they birthed. To users at this moment,
-this proposition is immensely popular. Simultaneously, while users
-jump ship from the web, website administrators continue to be lazy
-with no regard for their best interests. They also view LLMs as game
-changing. These products allow them to pump out more shit, much
-faster. In this way, the vicious spiral begins.
+Bidnessman.. they make the best terrorists..
 
-I’m sure we all understand the most immediate problem hurtling at
-us. AI is literally inbreeding as it continues to consume and
-produce. Researchers have coined it 'Model Collapse', 'Model Autophagy
-Disorder' and 'Habsburg AI'. It all means the same thing. The loss of
-intelligence on the web is happening shockingly fast, and it’s only
-accelerating. If you’ve been on Reddit or Twitter in the past few
-months, the signs of bots chattering back and forth with each other
-are unmistakable, while the platforms cheer it on and begin to sell it
-back to the AI"
+Wiki: "The 2003 ricin letters were two ricin-laden letters found on
+two occasions between October and November 2003... [they were sent to
+protest proposed new rules which] took effect which directly affected
+the over-the-road trucking industry in the United States. The
+rules.. aimed at reducing fatigue related accidents and
+fatalities. Called the most far-reaching rule changes in 65 years, the
+regulations reduced daily allowed driving time from 11 hours to 10"
 
 ---
 
-Nikkei Asia: "Japan pushes for hydrogen trains on local lines,
-revamping safety rules"
+"@masek@infosec.exchange
+
+If you do 12 Bitcoin transactions per year, you use a higher amount of
+energy than we use for a complete family.. in the same year"
 
 ---
 
-DH: Investments of $180-200 billion in green hydrogen expected in
-India by 2030’
+"@jk@mastodon.social
+
+The security features of windows basically consist of checking through
+the 100 million files on your computer and 35 hours later it announces
+that it's found, and helpfully deleted, a keygen for age of empires
+II"
 
 ---
 
-"@miguel_pacheco@masto.pt
-
-Rotterdam Port to win a new hydrogen import hub:
-
-- Hub will handle compressed H2 and ammonia
-
-- Redeliveries via barges, rail, trucks & H2 grid
-
-- Developed by Global Energy Storage & Provaris Energy"
-
----
-
-The Mainichi: "The Tokyo Metropolitan Government is doubling its
-budget for hydrogen-related initiatives from fiscal 2024, seeing them
-as key to combating climate change"
+Andersen: "Rupert Murdoch had started buying U.S. newspapers and
+magazines in the 1970s, including the New York Post, which he turned
+overnight.. to right-wing. Jack Kemp said in 1981 that 'Rupert Murdoch
+used the editorial page, the front page and every other page
+necessary' in the Post 'to elect Ronald Reagan President.'  In 1985
+Murdoch moved into television, spending the equivalent of $5 billion
+to buy TV stations in seven of the ten biggest cities. Reagan helped:
+he fast-tracked Murdoch for U.S. citizenship so that his company could
+get around the federal law forbidding foreigners from owning stations,
+then waived the federal rule forbidding anyone from owning a TV
+station and a newspaper in the same city, as Murdoch suddenly did in
+New York and Boston"
 
 ---
 
-But it is a *great* moneymaker for the MIC.
+Eric Holder works for these guys too.. Tony Blink 737, Raytheon
+Austin.. Dems like their revolving doors.. Reps too of course
 
-James Warden: "NATO encourages free-riding on the part of our
-partners; it encourages recklessness on the part of strategically
-insignificant though wildly bellicose client states; it encourages
-incredibly self-defeating behavior on the part of those nations that
-want to join it; it encourages and helps enable the U.S. to meddle in
-the Middle Eastern and North Africa where we have virtually no
-business being"
-
-[[-]](https://www.theamericanconservative.com/at-75-has-nato-outlived-its-use/)
+NYT: "[2016] Longtime U.S. Prosecutor to Join Covington &
+Burling.. Arlo Devlin-Brown, a veteran federal prosecutor in Manhattan
+who led a string of prominent Wall Street cases.. is departing for the
+private sector. In August, he will join the law firm Covington &
+Burling"
 
 ---
 
-Ars Technica: "Oregon Governor Tina Kotek today signed the state's
-Right to Repair Act.. The law, like those passed in New York,
-California, and Minnesota, will require many manufacturers to provide
-the same parts, tools, and documentation to individuals and repair
-shops that they provide to their own repair teams.. Oregon's bill goes
-further, preventing companies from implementing schemes that require
-parts to be verified through encrypted software checks before they
-will function"
+easyJet: "Leads First Hydrogen Refueling Trials At Bristol Airport"
 
 ---
 
-"@baldur@toot.cafe
-
-Almost everything positive about LLMs you see today is based on
-extremely unreliable evidence, much of it from some of the most
-dishonest people you’ll find in tech (cryptocoiners, effective
-altruists, etc.)
-
-Given that these models are obscenely power-hungry during a global
-climate crisis it’s my opinion that integrating these tools into your
-daily work is inherently unethical and irresponsible"
+Clean Technica: "Solar Foods.. has developed a system for producing
+large quantities of a natural microorganism, fed by carbon dioxide
+along with green hydrogen and oxygen"
 
 ---
 
-Wiki: "A person with non-domiciled status, sometimes called a
-'non-dom', is a person living in the United Kingdom who is considered
-under British law to be domiciled (i.e. with their permanent home) in
-another country. Non-doms pay UK tax to the UK government like all
-other UK residents"
-
----
-
-The Guardian: "‘Petrified’ non-doms poised to flee UK over Labour’s
-tax plans, say experts Prospect of party closing Tory ‘loopholes’ if
-elected prompts some wealthy individuals to explore a move overseas"
-
----
-
-Deaton, *Economics in America*: "[Milton] Friedman liked tax
-competition between countries and supported tax havens, because they
-put a brake on governments’ ability to tax. And he repeatedly argued
-that attempts to limit inequality of outcomes would not only stifle
-freedom but, in the end, result in even more inequality. Left to
-themselves, free markets would produce both freedom and equality.
-
-It doesn’t seem to have worked out that way.
-
-Instead, we got a world in which the Sackler family paid themselves
-more than $14 billion while igniting and promoting an opioid epidemic
-that has killed hundreds of thousands of Americans. Johnson & Johnson,
-the makers of Band-Aid and Baby Powder, grew opium poppies in Tasmania
-to fuel the opioid epidemic while the American military was bombing
-the Taliban’s heroin supply in Helmand province. Private equity firms
-discovered they could make money by buying up ambulance services and
-staffing hospital emergency rooms with their own physicians who charge
-'surprise' fees to patients even when their insurance includes the
-hospital. Surprise fees in emergency rooms (and operating theaters)
-were eliminated beginning in January 2022, but surprise bills for
-ambulance services continue. If you need an ambulance, you are not in
-the best position to find the best service or to bargain over prices;
-instead, you are helpless and the perfect victim for a predator"
-
----
-
-\#Dots \#Parrots
-
-[[-]](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7c27656-8373-4d57-b8a4-e52d02ac5f37_1165x1891.jpeg)
-
----
-
-Xinhua: "Australian PM welcomes U.S. president's consideration of
-dropping Assange prosecution"
-
----
-
-"How much of Americans' tax money funds war?" \#AlJazeera
-
-[[-]](https://youtu.be/yKI3y_kylmw)
+Zucman: "As Roosevelt’s [1942] message to Congress expresses clearly,
+the quasi-confiscatory top marginal income tax rates championed by the
+United States were designed to reduce inequality, not to collect
+revenue. Why would anyone try to earn more than a million dollars if
+all of that extra income went to the IRS? No employment contract with
+a salary above a million would ever be signed. Nobody would amass
+enough wealth to receive more than a million in annual capital
+income. The rich would stop saving after they reached that point. They
+most likely would give their assets to heirs or charities once they
+surpassed the threshold. As such, the goal of Roosevelt’s policy was
+obvious: reduce the inequality of pre-tax income. The United States,
+for almost half a century, came as close as any democratic country
+ever has to imposing a legal maximum income"
 
 ---
 
