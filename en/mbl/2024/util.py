@@ -183,7 +183,6 @@ sudan_regs = [
 def prepare_sahel_suriyak():
     """
     Data from https://www.google.com/maps/d/u/0/viewer?mid=19IxdgUFhNYyUIXEkYmQgmaYHz6OTMEk
-    97,106,109,110,118,119,122,124,125,127,130
     """    
     content = open("/tmp/sahel.kml").read()
     polys = []
