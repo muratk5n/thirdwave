@@ -1,140 +1,143 @@
 
-H2 Central: "Aurora Hydrogen, an Edmonton-based hydrogen technology
-company, is producing the world’s first high-efficiency clean hydrogen
-through methane pyrolysis and collaborating across the industry to
-develop the low-carbon hydrogen market in Canada"
+"@ashedryden@scholar.social
+
+Government officials are worried about tiktok radicalizing young
+people but I think calling in a militarized police force against their
+friends who are peacefully protesting a genocide will probably do it"
 
 ---
 
-H2 Central: "Green hydrogen company Hiringa Energy has launched what
-it says is Australasia’s first zero-emission green hydrogen refuelling
-network – Hiringa Refuelling New Zealand (HRNZ). The initiative was
-officially opened by energy and transport minister Simeon Brown. With
-25% of New Zealand’s transport emissions coming from the heavy
-transport sector in spite of only making up 4% of the vehicles on the
-roads, this marks a groundbreaking step towards decarbonising the
-country’s heavy transportation sector, says Hiringa"
+Getting slammed by North Korea - a new low. There is a lot of truth in
+what they say.
+
+TASS: "The situation in Ukraine serves the interests of the US
+military-industrial complex and the administration of President Joe
+Biden, both profiting greatly from the conflict, North Korean Deputy
+Foreign Minister for Russia Im Chon Il said. '..at least a third of
+the $60 billion US military aid to Ukraine remains in the US to
+replenish the army's equipment and ammunition. This once again
+blatantly reveals the cunning and despicable nature of the 'helping
+hand' the US offers to Ukraine with its military aid. Its goal is to
+use the Ukrainian conflict to serve the interests of the US military
+monopolies and at the same time to subjugate the puppet regime of
+[Ukrainian President Vladimir] Zelensky to use it as a conduit and
+henchman for the implementation of its strategy to contain Russia,'
+the diplomat said in a statement quoted by the Korean Central News
+Agency.
+
+'It is not surprising that experts assess that it is the US that is
+reaping the maximum benefit from the situation in Ukraine, and the
+Biden administration is drinking "blood wine" and receiving large
+revenues,' the deputy foreign minister said"
 
 ---
 
-"@ben@werd.social
+Advanced Science News: "Researchers from the University of Nottingham
+have discovered that the surface of swarf, the waste metal ringlets
+discarded by the metal machining industry, is textured at a nanoscale
+level in a way that boosts the catalysis [for H2 electrolysis]
+reducing the need for rare metals.
 
-'The FTC’s final rule to ban noncompetes will ensure Americans have
-the freedom to pursue a new job, start a new business, or bring a new
-idea to market.' This is genuinely wonderful"
-
----
-
-"@GeofCox@climatejustice.social
-
-Who killed Britain? [This](https://www.information.dk/udland/2024/04/hvem-slog-storbritannien-ihjel)
-Danish article has the correct answer: Thatcher"
-
----
-
-The Verge: "Amazon is shutting down its drone delivery service in
-California"
+The authors of the study, published in the Journal of Material
+Chemistry A, claim it overcomes two major challenges. “Firstly, it
+enables the production of green hydrogen using the least amount of
+precious metal possible, and secondly, it upcycles metal waste from
+the aerospace industry, all in a single process,” said one of the
+study’s authors, Andrei Khlobystov"
 
 ---
 
-Productivity growth (workers producing more with less) does not
-guarantee income growth. See [the case of US](https://files.mastodon.social/media_attachments/files/112/313/564/334/769/633/original/ebbf8c2067795d43.png).
-Factory installs better machines, workers produce more with it, but
-will they have barganing power to increase their wages because of
-those machines? No. To the contrary during globalisation, in the
-absence of unionization, they could lose barganing power.
+Rowan Atkinson, The Guardian: "[2023/06] Electric motoring is, in
+theory, a subject about which I should know something. My first
+university degree was in electrical and electronic engineering, with a
+subsequent master’s in control systems.. In advance of the Cop26
+climate conference in Glasgow in 2021, Volvo released figures claiming
+that greenhouse gas emissions during production of an electric car are
+nearly 70% higher than when manufacturing a petrol one. How so? The
+problem lies with the lithium-ion batteries fitted currently to nearly
+all electric vehicles: they’re absurdly heavy, huge amounts of energy
+are required to make them, and they are estimated to last only upwards
+of 10 years. It seems a perverse choice of hardware with which to lead
+the automobile’s fight against the climate crisis...
 
-BOE Gov Mark Carney: "[2015] In the medium term, productivity growth –
-doing more with less – is the key determinant of income growth"
+If the lithium-ion battery is an imperfect device for electric cars,
+concerns have been raised over their use in heavy trucks for long
+distance haulage because of the weight; an alternative is to inject
+hydrogen into a new kind of piston engine. JCB, the company that makes
+yellow diggers, has made huge strides with hydrogen engines and hopes
+to put them into production in the next couple of years. If hydrogen
+wins the race to power trucks – and as a result every filling station
+stocks it – it could be a popular and accessible choice for cars...
 
----
+Increasingly, I’m feeling that our honeymoon with electric cars is
+coming to an end, and that’s no bad thing: we’re realising that a
+wider range of options need to be explored if we’re going to properly
+address the very serious environmental problems that our use of the
+motor car has created"
 
-US will likely end up like other democratic countries who have deep
-structural issues - prez gets elected, in a few months, wham! Net
-popularity sinks sub -20,-30 (we see such numbers globally), in that
-case even incumbency advantage won't help for a second term, every
-president is a one-term president. Gets elected falls to -30, and
-booted out in four years. 
-
-"If US prez net popularity keeps decreasing for each prez, where does
-that lead?"
-
----
-
-"@jasongorman@mastodon.cloud
-
-So where are all these A.I.-assisted dev shops out-bidding their
-competitors with their increased productivity, then? We should be
-seeing them by now, surely?"
-
----
-
-Sounds crazy but can work \#Terraform \#Sequester
-
-[[-]](https://youtu.be/G-WO-z-QuWI?t=217)
+[[-]](https://www.google.com/amp/s/amp.theguardian.com/commentisfree/2023/jun/03/electric-vehicles-early-adopter-petrol-car-ev-environment-rowan-atkinson)
 
 ---
 
-"@frameworkcomputer@fosstodon.org
+I dont think it's his fault. The tech is crooked
 
-Wild test results from Phoronix.  Great work @AMDRyzen and @ubuntu teams!"
-
-<img width='300' src='https://cdn.fosstodon.org/media_attachments/files/112/300/530/876/348/377/small/bd681e938eecb189.jpeg'/> 
+Yahoo News: "[2024/02] Rowan Atkinson blamed for poor electric car sales"
 
 ---
 
-While Planck was formulating the black-body radiation he reached a
-point when he said "I was ready to sacrifice any of my previous
-convictions about physics" (well, except thermodynamics anyway). The
-man was ready to throw it all out. That is courageous - the hallmark
-of a great scientist.
+Euronews: "Car sales in Europe decline: Is the future of electric vehicles at stake?"
 
 ---
 
-Does he need their money? All of a sudden not the gungho 80s style
-cold warrior anymore.
-
-Bloomberg: "Milei backed off on China"
-
----
-
-I create frontlines using the outer border of multiple combined
-polygons. SLM took a middle chunk - if they break out and cut into RSF
-frontline, it will show up in the next frontline mapping.
+Reuters: "[2024/01] Tesla slashes electric car range amid claims it
+exaggerated mileage.. Tesla has cut back claims about how far its
+electric cars can travel as it faces scrutiny from the US government."
 
 ---
 
-\#Sudan WTF? Who are these guys called "SLM" in Sudan? They just took
-a bite out of RSF territory (around Thabit).
+I think this is what the private complex, the surface state is afraid
+of.. You can't question militarism - it's a product. Do you question a
+burger? That's crazy talk!
 
-[[-]](https://cdn.fosstodon.org/media_attachments/files/112/325/923/128/930/606/original/627b57111fa281a0.png)
-
----
-
-"In an astonishing [!] turn of events, Israel has failed to provide
-evidence to back up its allegations against Unrwa for the UN’s final
-report... because that evidence doesn't exist. I know, my jaw dropped
-too! Israel had made the totally plausible claim that 1 in 10 Unrwa
-workers are members of Hamas, but it provided no evidence to the
-independent investigation led by French foreign minister Catherine
-Colonna"
-
-[[-]](https://www.normalisland.co.uk/p/world-stunned-as-israel-fails-to)
+Wapo: "[2023/11] On Monday, a TikTok user with 371 followers, using
+the screen name '_monix2,' posted a video where she read parts of
+Osama bin Laden’s 'Letter to America,'..  By Wednesday night, the
+letter had become a point of discussion among left-wing creators on
+the video app, with some saying its critiques of American foreign
+policy had opened their eyes to a history they’d never learned"
 
 ---
 
-The war was worth it for the MIC on this alone.
-
-NYT: "Ukraine War Helped Push World Military Spending to 35-Year High,
-Study Says"
+Tiktok ban?
 
 ---
 
-Firstpost: "After Columbia, other top US universities rocked by
-pro-Palestine protests.. Prestigious universities like Yale,.. MIT,
-and [NYU] have been attempting, but failing, to put an end to these
-demonstrations amid mounting calls for divesting from Israel and a
-ceasefire in Gaza"
+\#Demilitarization \#Davis
+
+[[-]](https://youtu.be/vbbBZ4FwQsQ?t=1161)
+
+---
+
+TASS: "Moscow slams NATO drills near Russian borders as inflammatory"
+
+---
+
+"Holocaust Survivor Message to US Campus Protesters:
+
+This survivor of the Holocaust is against Genocide in Gaza &
+conflating Jewishness with Zionism, which does nothing but increase
+antisemitism.
+
+Your protests are so persistent, large and global that eventually the
+Western leadership, which are trying to deny what’s going on, will be
+forced to face up to it.
+
+There is a historic responsibility towards injustice, genocide and
+fascism.
+
+Thank you for being brave and on the right side of history.
+
+Stephen Kapos"
 
 ---
 
