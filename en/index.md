@@ -1,143 +1,70 @@
 
-"@ashedryden@scholar.social
+The Japan Times: "Japan’s biggest utility, JERA, is looking to invest
+in low-carbon hydrogen and ammonia projects in the Middle East, in
+addition to buying their output.
 
-Government officials are worried about tiktok radicalizing young
-people but I think calling in a militarized police force against their
-friends who are peacefully protesting a genocide will probably do it"
-
----
-
-Getting slammed by North Korea - a new low. There is a lot of truth in
-what they say.
-
-TASS: "The situation in Ukraine serves the interests of the US
-military-industrial complex and the administration of President Joe
-Biden, both profiting greatly from the conflict, North Korean Deputy
-Foreign Minister for Russia Im Chon Il said. '..at least a third of
-the $60 billion US military aid to Ukraine remains in the US to
-replenish the army's equipment and ammunition. This once again
-blatantly reveals the cunning and despicable nature of the 'helping
-hand' the US offers to Ukraine with its military aid. Its goal is to
-use the Ukrainian conflict to serve the interests of the US military
-monopolies and at the same time to subjugate the puppet regime of
-[Ukrainian President Vladimir] Zelensky to use it as a conduit and
-henchman for the implementation of its strategy to contain Russia,'
-the diplomat said in a statement quoted by the Korean Central News
-Agency.
-
-'It is not surprising that experts assess that it is the US that is
-reaping the maximum benefit from the situation in Ukraine, and the
-Biden administration is drinking "blood wine" and receiving large
-revenues,' the deputy foreign minister said"
+JERA has established a division for investing in such plants. Tsuyoshi
+Oyama, who heads the unit’s Australia and Middle East activities, said
+facilities that can produce around 1 million tons a year of "blue”
+ammonia are attractive targets, as well as smaller "green” hydrogen
+projects"
 
 ---
 
-Advanced Science News: "Researchers from the University of Nottingham
-have discovered that the surface of swarf, the waste metal ringlets
-discarded by the metal machining industry, is textured at a nanoscale
-level in a way that boosts the catalysis [for H2 electrolysis]
-reducing the need for rare metals.
-
-The authors of the study, published in the Journal of Material
-Chemistry A, claim it overcomes two major challenges. “Firstly, it
-enables the production of green hydrogen using the least amount of
-precious metal possible, and secondly, it upcycles metal waste from
-the aerospace industry, all in a single process,” said one of the
-study’s authors, Andrei Khlobystov"
+WION: "The Federal Aviation Administration (FAA) has initiated an
+investigation into claims made by the Society of Professional
+Engineering Employees in Aerospace (SPEEA) regarding alleged
+retaliation by Boeing against two engineers in 2022. According to
+Reuters, the union maintains that the engineers, who advocated for a
+re-evaluation of previous engineering work on Boeing 777 and 787 jets,
+faced negative consequences from the company following the incident"
 
 ---
 
-Rowan Atkinson, The Guardian: "[2023/06] Electric motoring is, in
-theory, a subject about which I should know something. My first
-university degree was in electrical and electronic engineering, with a
-subsequent master’s in control systems.. In advance of the Cop26
-climate conference in Glasgow in 2021, Volvo released figures claiming
-that greenhouse gas emissions during production of an electric car are
-nearly 70% higher than when manufacturing a petrol one. How so? The
-problem lies with the lithium-ion batteries fitted currently to nearly
-all electric vehicles: they’re absurdly heavy, huge amounts of energy
-are required to make them, and they are estimated to last only upwards
-of 10 years. It seems a perverse choice of hardware with which to lead
-the automobile’s fight against the climate crisis...
-
-If the lithium-ion battery is an imperfect device for electric cars,
-concerns have been raised over their use in heavy trucks for long
-distance haulage because of the weight; an alternative is to inject
-hydrogen into a new kind of piston engine. JCB, the company that makes
-yellow diggers, has made huge strides with hydrogen engines and hopes
-to put them into production in the next couple of years. If hydrogen
-wins the race to power trucks – and as a result every filling station
-stocks it – it could be a popular and accessible choice for cars...
-
-Increasingly, I’m feeling that our honeymoon with electric cars is
-coming to an end, and that’s no bad thing: we’re realising that a
-wider range of options need to be explored if we’re going to properly
-address the very serious environmental problems that our use of the
-motor car has created"
-
-[[-]](https://www.google.com/amp/s/amp.theguardian.com/commentisfree/2023/jun/03/electric-vehicles-early-adopter-petrol-car-ev-environment-rowan-atkinson)
+Janes: "UAE seeks closer air force ties with China as leaders meet in
+Beijing"
 
 ---
 
-I dont think it's his fault. The tech is crooked
-
-Yahoo News: "[2024/02] Rowan Atkinson blamed for poor electric car sales"
-
----
-
-Euronews: "Car sales in Europe decline: Is the future of electric vehicles at stake?"
-
----
-
-Reuters: "[2024/01] Tesla slashes electric car range amid claims it
-exaggerated mileage.. Tesla has cut back claims about how far its
-electric cars can travel as it faces scrutiny from the US government."
+CBS News: "Why Teslas and other electric vehicles have problems in
+cold weather..  As cold weather sweeps across the U.S., some electric
+vehicle owners are learning a bitter truth: Low temperatures can stop
+the cars dead in their icy tracks. The issue crystallized this week
+when some Tesla owners in Chicago discovered their EVs' batteries had
+died in sub-zero temperatures"
 
 ---
 
-I think this is what the private complex, the surface state is afraid
-of.. You can't question militarism - it's a product. Do you question a
-burger? That's crazy talk!
+"EVs aren't even worth fixing, sent to junk yard instead"
 
-Wapo: "[2023/11] On Monday, a TikTok user with 371 followers, using
-the screen name '_monix2,' posted a video where she read parts of
-Osama bin Laden’s 'Letter to America,'..  By Wednesday night, the
-letter had become a point of discussion among left-wing creators on
-the video app, with some saying its critiques of American foreign
-policy had opened their eyes to a history they’d never learned"
+[[-]](https://m.youtube.com/watch?v=iE8AmkQRhlg)
 
 ---
 
-Tiktok ban?
+Car Expert: "My local Servo.. has eight liquid fuel pumps and they can
+all be used simultaneously. The number of pumps is not a random choice
+at any Servo that number of pumps is there because eight pumps in this
+case is the number that best services the peak demand. Let us do a
+thought experiment.. transition to Electric Utopia where the eight
+pumps are now eight rechargers all capable of pumping 50 kwatt hours
+into 8 EVS in just 5 minutes [an impossibility on its own]
+Hallelujah.. what could possibly go wrong? I'd suggest here's what
+could go wrong: that's 400 kwatt hours of energy in 5 minutes, think
+about that another way it's 400 kwatt hours delivered in 1/12th of an
+hour which is uh 5 megawatt, more or less, to run one shitty little
+suburban servo. Imagine rolling that out nationally to every
+station.. [it] is just a Preposterous infrastructure challenge"
 
 ---
 
-\#Demilitarization \#Davis
-
-[[-]](https://youtu.be/vbbBZ4FwQsQ?t=1161)
-
----
-
-TASS: "Moscow slams NATO drills near Russian borders as inflammatory"
+Third party candidate, a person who did not like either party, by
+definition, would take from both equally. RF could take more from DJT
+than JB though.. He panders to MAGA and Dems dislike him the way they
+dislike Trump.
 
 ---
 
-"Holocaust Survivor Message to US Campus Protesters:
-
-This survivor of the Holocaust is against Genocide in Gaza &
-conflating Jewishness with Zionism, which does nothing but increase
-antisemitism.
-
-Your protests are so persistent, large and global that eventually the
-Western leadership, which are trying to deny what’s going on, will be
-forced to face up to it.
-
-There is a historic responsibility towards injustice, genocide and
-fascism.
-
-Thank you for being brave and on the right side of history.
-
-Stephen Kapos"
+Politico: "Trump rails against RFK Jr., calling him a ‘wasted protest vote’"
 
 ---
 

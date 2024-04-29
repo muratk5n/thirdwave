@@ -95,9 +95,9 @@ def map_coords(coords, zoom, outfile):
         folium.Marker(val, popup=folium.Popup(key, show=True)).add_to(m)
     m.save(outfile)
 
-def map_loc(names, outfile):
+def map_loc(names, zoom, outfile):
     coords = [geocoder.osm(x).latlng for x in names]
-    m = folium.Map(location=coords[0], zoom_start=6)	
+    m = folium.Map(location=coords[0], zoom_start=zoom)	
     folium.TileLayer(tiles="https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
             name='subdomains2',
             attr='attribution',
@@ -265,6 +265,6 @@ def prepare_ukraine_suriyak():
 
 if __name__ == "__main__": 
 
-    #prepare_ukraine_suriyak()
-    prepare_sahel_suriyak()
+    prepare_ukraine_suriyak()
+    #prepare_sahel_suriyak()
     

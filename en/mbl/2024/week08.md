@@ -674,7 +674,7 @@ go with that HIMARS?"
 ---
 
 ```python
-u.map_loc(["Kinmen, Taiwan"],"map1.html")
+u.map_loc(["Kinmen, Taiwan"],6,"map1.html")
 ```
 
 [[-]](map1.html)

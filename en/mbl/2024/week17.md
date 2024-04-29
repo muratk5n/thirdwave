@@ -1,5 +1,282 @@
 # Week 17
 
+reNEWS: "Global hydrogen pipeline 'surges by 55GW'.. In the past six
+months the global pipeline for hydrogen electrolyser projects has
+surged by just over 55GW, according to the latest Q2 2024 European
+Hydrogen Market Report (HyMaR) by Aurora Energy Research"
+
+---
+
+S&P Global: "Europe is set to continue to rely on Russian LNG in short
+term"
+
+---
+
+WION: "Asia warming faster than rest of the world, was 'most
+disaster-hit region' in 2023: UN"
+
+---
+
+The Guardian: "Labour promises rail nationalisation within five years
+of coming to power"
+
+---
+
+CNBC: "Apple iPhone sales drop 19% in China as demand for Huawei
+smartphones soars, research says"
+
+---
+
+"@baldur@toot.cafe
+
+'AI is here to stay'
+
+Generative models are horrendously expensive and, at best—once you
+factor in the need to safety and reliability—give you a productivity
+boost at tasks most businesses value less than the crud in the coffee
+maker (clip art, email, meetings, boilerplate code.. I’m on the record
+as saying that these systems are too risky to use in dev for anything
+other than prototypes so don’t come at me with 'oh, but coding')
+
+The notion that it’s here to stay is entirely contingent upon a number
+of fairly unlikely events:
+
+- Costs drop by several orders of magnitude
+
+- Environmental impact drops similarly
+
+- Speed improves dramatically
+
+- A completely new invention makes it reliable and safe
+
+And it’s just as likely that the hypothetical completely new more
+'reliable and safe' thing would be different enough for all of your
+investments in current era models to crash in value and become an
+active hindrance"
+
+---
+
+"@baldur@toot.cafe
+
+99% of tech social media:
+
+'I like this thing, but people say it’s bad so here is a list of
+self-serving reasons why I should be allowed to like it. They’re my
+soothing koans to calm the phantom pain of my long-amputated
+conscience'
+
+'No, none of them actually address the criticism. Why do you ask?'
+
+You can have a tech that is mostly used for fraud, bankrupts the
+elderly, or even literally kills people, but tech enthusiasts will
+defend it by saying it saves five minutes on their morning breakfast
+routine.. 
+
+It’s a worldview where individual benefit, no matter how trivial,
+trumps societal harm. There’s no arguing with people who respond to
+'this will destroy lives' with: 'but I find it useful'"
+
+---
+
+Hossein-Zadeh: "[2006] Despite the fact that oil companies nowadays
+view war and political turmoil in the Middle East as detrimental to
+their long-term interests and, therefore, do not support policies that
+are conducive to war and militarism, and despite the fact that war is
+no longer the way to gain access to cheap oil, the widespread
+perception that every U.S. military engagement in the region,
+including the current invasion of Iraq, is prompted by oil
+considerations continues. The question is why?..
+
+[T]he major reason for the persistence of this pervasive perception
+seems to stem from certain deliberate efforts that are designed to
+perpetuate the myth in order to camouflage some real economic and
+geopolitical special interests that drive the U.S. military adventures
+in the Middle East. There is evidence that both the
+military-industrial complex and militant Zionist proponents of
+'greater Israel' disingenuously use oil as a U.S. 'national interest
+issue' in order to disguise their own nefarious special interests and
+objectives: justification of continued expansion of military spending,
+extension of sales markets for the products of war and war-related
+industries, and recasting the geopolitical map of the Middle East
+according to the designs of hard-line Zionism.  Evidence indicates
+that for every dollar’s worth of oil imported from the Persian Gulf
+region the Pentagon takes $5 out of the federal budget to 'secure' the
+flow of that oil! This is a clear indication that the claim that the
+U.S. military presence in the Middle East is due to oil consideration
+is a fraud"
+
+---
+
+US' backyard..
+
+```python
+u.map_loc(['Antigua and Barbuda'],4,"map3.html")
+```
+
+[[-]](mbl/2024/map3.html)
+
+---
+
+Firstpost: "Is China attempting to create a satellite state in
+Caribbean.. ? According to reports, China’s strategic maneuvers in
+Antigua and Barbuda could signify a broader effort to expand its
+influence throughout the Western Hemisphere"
+
+---
+
+CNBC: "Ukraine can keep on fighting Russia — but the ‘victory’ it wants
+might be out of reach"
+
+---
+
+Al-Monitor: "Gaza protests spread to over 25 US universities with
+hundreds arrested"
+
+---
+
+F24: "Students at elite Paris university join  protest movement"
+
+---
+
+"@ashedryden@scholar.social
+
+Government officials are worried about tiktok radicalizing young
+people but I think calling in a militarized police force against their
+friends who are peacefully protesting a genocide will probably do it"
+
+---
+
+Getting slammed by North Korea - a new low. There is a lot of truth in
+what they say.
+
+TASS: "The situation in Ukraine serves the interests of the US
+military-industrial complex and the administration of President Joe
+Biden, both profiting greatly from the conflict, North Korean Deputy
+Foreign Minister for Russia Im Chon Il said. '..at least a third of
+the $60 billion US military aid to Ukraine remains in the US to
+replenish the army's equipment and ammunition. This once again
+blatantly reveals the cunning and despicable nature of the 'helping
+hand' the US offers to Ukraine with its military aid. Its goal is to
+use the Ukrainian conflict to serve the interests of the US military
+monopolies and at the same time to subjugate the puppet regime of
+[Ukrainian President Vladimir] Zelensky.. ' the diplomat said in a
+statement quoted by the Korean Central News Agency. 'It is not
+surprising that experts assess that it is the US that is reaping the
+maximum benefit from the situation in Ukraine, and the Biden
+administration is drinking "blood wine" and receiving large revenues,'
+the deputy foreign minister said"
+
+---
+
+Advanced Science News: "Researchers from the University of Nottingham
+have discovered that the surface of swarf, the waste metal ringlets
+discarded by the metal machining industry, is textured at a nanoscale
+level in a way that boosts the catalysis [for H2 electrolysis]
+reducing the need for rare metals.
+
+The authors of the study, published in the Journal of Material
+Chemistry A, claim it overcomes two major challenges. “Firstly, it
+enables the production of green hydrogen using the least amount of
+precious metal possible, and secondly, it upcycles metal waste from
+the aerospace industry, all in a single process,” said one of the
+study’s authors, Andrei Khlobystov"
+
+---
+
+Rowan Atkinson, The Guardian: "[2023/06] Electric motoring is, in
+theory, a subject about which I should know something. My first
+university degree was in electrical and electronic engineering, with a
+subsequent master’s in control systems.. In advance of the Cop26
+climate conference in Glasgow in 2021, Volvo released figures claiming
+that greenhouse gas emissions during production of an electric car are
+nearly 70% higher than when manufacturing a petrol one. How so? The
+problem lies with the lithium-ion batteries fitted currently to nearly
+all electric vehicles: they’re absurdly heavy, huge amounts of energy
+are required to make them, and they are estimated to last only upwards
+of 10 years. It seems a perverse choice of hardware with which to lead
+the automobile’s fight against the climate crisis...
+
+If the lithium-ion battery is an imperfect device for electric cars,
+concerns have been raised over their use in heavy trucks for long
+distance haulage because of the weight; an alternative is to inject
+hydrogen into a new kind of piston engine. JCB, the company that makes
+yellow diggers, has made huge strides with hydrogen engines and hopes
+to put them into production in the next couple of years. If hydrogen
+wins the race to power trucks – and as a result every filling station
+stocks it – it could be a popular and accessible choice for cars...
+
+Increasingly, I’m feeling that our honeymoon with electric cars is
+coming to an end, and that’s no bad thing: we’re realising that a
+wider range of options need to be explored if we’re going to properly
+address the very serious environmental problems that our use of the
+motor car has created"
+
+[[-]](https://www.google.com/amp/s/amp.theguardian.com/commentisfree/2023/jun/03/electric-vehicles-early-adopter-petrol-car-ev-environment-rowan-atkinson)
+
+---
+
+I dont think it's his fault. The tech is crooked
+
+Yahoo News: "[2024/02] Rowan Atkinson blamed for poor electric car sales"
+
+---
+
+Euronews: "Car sales in Europe decline: Is the future of electric vehicles at stake?"
+
+---
+
+Reuters: "[2024/01] Tesla slashes electric car range amid claims it
+exaggerated mileage.. Tesla has cut back claims about how far its
+electric cars can travel as it faces scrutiny from the US government."
+
+---
+
+I think this is what the private complex, the surface state is afraid
+of.. You can't question militarism - it's a product. Do you question a
+burger? That's crazy talk!
+
+Wapo: "[2023/11] On Monday, a TikTok user with 371 followers, using
+the screen name '_monix2,' posted a video where she read parts of
+Osama bin Laden’s 'Letter to America,'..  By Wednesday night, the
+letter had become a point of discussion among left-wing creators on
+the video app, with some saying its critiques of American foreign
+policy had opened their eyes to a history they’d never learned"
+
+---
+
+Tiktok ban?
+
+---
+
+\#Demilitarization \#Davis
+
+[[-]](https://youtu.be/vbbBZ4FwQsQ?t=1161)
+
+---
+
+TASS: "Moscow slams NATO drills near Russian borders as inflammatory"
+
+---
+
+"Holocaust Survivor Message to US Campus Protesters:
+
+This survivor of the Holocaust is against Genocide in Gaza &
+conflating Jewishness with Zionism, which does nothing but increase
+antisemitism.
+
+Your protests are so persistent, large and global that eventually the
+Western leadership, which are trying to deny what’s going on, will be
+forced to face up to it.
+
+There is a historic responsibility towards injustice, genocide and
+fascism.
+
+Thank you for being brave and on the right side of history.
+
+Stephen Kapos"
+
+---
+
 H2 Central: "Aurora Hydrogen, an Edmonton-based hydrogen technology
 company, is producing the world’s first high-efficiency clean hydrogen
 through methane pyrolysis and collaborating across the industry to
