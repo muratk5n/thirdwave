@@ -41,19 +41,19 @@ died in sub-zero temperatures"
 
 ---
 
-Car Expert: "My local Servo.. has eight liquid fuel pumps and they can
-all be used simultaneously. The number of pumps is not a random choice
-at any Servo that number of pumps is there because eight pumps in this
-case is the number that best services the peak demand. Let us do a
-thought experiment.. transition to Electric Utopia where the eight
-pumps are now eight rechargers all capable of pumping 50 kwatt hours
-into 8 EVS in just 5 minutes [an impossibility on its own]
-Hallelujah.. what could possibly go wrong? I'd suggest here's what
-could go wrong: that's 400 kwatt hours of energy in 5 minutes, think
-about that another way it's 400 kwatt hours delivered in 1/12th of an
-hour which is uh 5 megawatt, more or less, to run one shitty little
-suburban servo. Imagine rolling that out nationally to every
-station.. [it] is just a Preposterous infrastructure challenge"
+Car Expert: "My local servo [gas station].. has eight liquid fuel
+pumps and they can all be used simultaneously. The number of pumps is
+not a random choice at any servo that number of pumps is there because
+eight pumps in this case is the number that best services the peak
+demand. Let us do a thought experiment.. transition to Electric Utopia
+where the eight pumps are now eight rechargers all capable of pumping
+50 kwatt hours into 8 EVS in just 5 minutes [an impossibility on its
+own] Hallelujah.. what could possibly go    wrong? I'd suggest here's
+what could go wrong: that's 400 kwatt hours of energy in 5 minutes,
+think about that another way it's 400 kwatt hours delivered in 1/12th
+of an hour which is uh 5 megawatt, more or less, to run one shitty
+little suburban servo. Imagine rolling that out nationally to every
+station.. [it] is just a preposterous infrastructure challenge"
 
 ---
 
@@ -112,3 +112,5 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
+
+
