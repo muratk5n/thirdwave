@@ -141,11 +141,11 @@ times the size of Earth and further than Pluto.
 
 ---
 
-@bradan_feasa
+"@bradan_feasa
 
 My wife and I giggled with delight when Capt Pike replied "And also
 with you" ... he's an Episcopalian !!!  If Discovery needs a chaplain,
-my wife is ready. #STDisco @ansonmount
+my wife is ready. #STDisco @ansonmount"
 
 ---
 
