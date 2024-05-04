@@ -18,3 +18,5 @@
 
 [The Trouble with Physics](04/the-trouble-with-physics-smolin.html)
 
+[Age of Discord Math](05/age-of-discord-math.html)
+
