@@ -252,7 +252,7 @@ def prepare_ukraine_suriyak():
 
     res = unary_union(polys)
     
-    rrr = list(res.geoms[0].exterior.coords)
+    rrr = list(res.exterior.coords)
 
     rrr = rrr[0:-3700]
     c = np.array(rrr)

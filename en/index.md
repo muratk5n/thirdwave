@@ -1,51 +1,71 @@
 
-H2 Fuel News: "Spain, Portugal take home most of €720m EU hydrogen
-award"
+"Provaris Energy launches $2M share purchase plan for European
+hydrogen projects.. 'Our unique approach for a hydrogen supply chain
+using the simplicity and energy efficiency of compression can deliver
+first hydrogen gas to Europe at a competitive cost using Provaris'
+H2Neo carriers,' said.. CEO Martin Carolan"
 
 ---
 
-Renewable Economy: "The troubled Australian electric vehicle fast
-charging company Tritium has collapsed after its directors declared it
-to be insolvent, voluntary administrators were appointed and its
-lenders called in receivers. The spectacular collapse of a
-Brisbane-based start-up that managed to grab a major share of the
-global EV fast charging market and was once valued at $2 billion will
-come as a shock to the industry"
+H2 Fuel News: "Two CIP projects successful in the first European
+Hydrogen Bank auction"
 
 ---
 
-The Lever: "Congress May Cancel Your Automatic Flight
-Refunds.. Airline-bankrolled lawmakers just advanced a bill that could
-undermine Biden’s promise of automatic refunds on canceled or delayed
-flights... The lawmakers are four of the six largest congressional
-recipients of campaign cash from the airline industry in the current
-election cycle, according to data from the government transparency
-group OpenSecrets"
+Is this fascism
+
+"@breadandcircuses@climatejustice.social
+
+This post apparently got Gary Girod banned from Xitter...
+
+'@girod_gary@twitter.com
+
+If there's an oil crisis & and oil companies are making record
+profits, a healthcare crisis & healthcare companies are making record
+profits, a financial crisis & finance companies are making record
+profits, then the companies are the crisis'"
 
 ---
 
-TASS: "Russia’s Battlegroup Dnepr wipes out 40 Ukrainian drone control
-centers in 24 hours"
+"Heat Death of the Internet"
+
+[[-]](https://www.takahe.org.nz/heat-death-of-the-internet/)
 
 ---
 
-NYT: "Israeli Officials Weigh Sharing Power With Arab States in
-Postwar Gaza"
+Good question.. FDR did a lot of things, but it is clear he found an
+opening, a willingness on the part of the wealthy to exploit, and he
+pushed his agenda that way. He could not do everything on his own, by
+simply ordering it to be so.
+
+"If the wealthy class allowed a lot of concessions post 20s what did
+FDR truly achieve on his own?"
 
 ---
 
-Al-Monitor: "Hamas official says group will not accept truce that does
-not end Gaza war"
+This is the famous Princeton study by Gilens et al
+
+Paper: "[2014, Our] analysis indicates that economic elites and
+organized groups representing business interests have substantial
+independent impacts on U.S. government policy, while average citizens
+and mass-based interest groups have little or no independent
+influence. The results provide substantial support for theories of
+Economic-Elite Domination and for theories of Biased Pluralism, but
+not for theories of Majoritarian Electoral Democracy or Majoritarian
+Pluralism"
+
+[[-]](https://www.cambridge.org/core/journals/perspectives-on-politics/article/testing-theories-of-american-politics-elites-interest-groups-and-average-citizens/62327F513959D0A304D4893B382B992B)
 
 ---
 
-Hindustan Times World: "Evergreen State College [Washington].. becomes
-first US uni to completely divest from Israel"
+\#Frontline \#UA \#RU 04/28 - 05/06
+
+[[-]](mbl/2024/ukrdata/map16.html)
 
 ---
 
-Politico: "‘Biden’s Vietnam’: Progressive lawmakers warn not to repeat
-campus protest history"
+Reuters: "UK's Boris Johnson, who introduced voter ID rule, forgets
+his while voting"
 
 ---
 

@@ -118,6 +118,9 @@ plt.savefig('psi2.jpg')
 
 Turbulent times are ahead.
 
+*You can follow microblog postings on this and similar subjects on the
+[main page](../../index.html) of this site*.
+
 References
 
 [1] Turchin, *Age of Discord*
