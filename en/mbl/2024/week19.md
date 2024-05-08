@@ -1,5 +1,74 @@
 # Week 19
 
+"Provaris Energy launches $2M share purchase plan for European
+hydrogen projects.. 'Our unique approach for a hydrogen supply chain
+using the simplicity and energy efficiency of compression can deliver
+first hydrogen gas to Europe at a competitive cost using Provaris'
+H2Neo carriers,' said.. CEO Martin Carolan"
+
+---
+
+H2 Fuel News: "Two CIP projects successful in the first European
+Hydrogen Bank auction"
+
+---
+
+Is this fascism
+
+"@breadandcircuses@climatejustice.social
+
+This post apparently got Gary Girod banned from Xitter...
+
+'@girod_gary@twitter.com
+
+If there's an oil crisis & and oil companies are making record
+profits, a healthcare crisis & healthcare companies are making record
+profits, a financial crisis & finance companies are making record
+profits, then the companies are the crisis'"
+
+---
+
+"Heat Death of the Internet"
+
+[[-]](https://www.takahe.org.nz/heat-death-of-the-internet/)
+
+---
+
+FDR was a great leader, achieved many things, but he also clearly
+exploited a willingness on the part of the wealthy who were scared of
+the circumstances of the time.
+
+"If the wealthy class allowed a lot of concessions post 20s what did
+FDR truly achieve on his own?"
+
+---
+
+This is the famous Princeton study by Gilens et al
+
+Paper: "[2014, Our] analysis indicates that economic elites and
+organized groups representing business interests have substantial
+independent impacts on U.S. government policy, while average citizens
+and mass-based interest groups have little or no independent
+influence. The results provide substantial support for theories of
+Economic-Elite Domination and for theories of Biased Pluralism, but
+not for theories of Majoritarian Electoral Democracy or Majoritarian
+Pluralism"
+
+[[-]](https://www.cambridge.org/core/journals/perspectives-on-politics/article/testing-theories-of-american-politics-elites-interest-groups-and-average-citizens/62327F513959D0A304D4893B382B992B)
+
+---
+
+\#Frontline \#UA \#RU 04/28 - 05/06
+
+[[-]](ukrdata/map16.html)
+
+---
+
+Reuters: "UK's Boris Johnson, who introduced voter ID rule, forgets
+his while voting"
+
+---
+
 Maritime Executive: "Belgium and Namibia to Develop Africa’s First
 Hydrogen Ship, Infrastructure"
 

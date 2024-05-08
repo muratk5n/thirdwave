@@ -1,71 +1,94 @@
 
-"Provaris Energy launches $2M share purchase plan for European
-hydrogen projects.. 'Our unique approach for a hydrogen supply chain
-using the simplicity and energy efficiency of compression can deliver
-first hydrogen gas to Europe at a competitive cost using Provaris'
-H2Neo carriers,' said.. CEO Martin Carolan"
+FleetPoint: "Daimler Truck AG to trial Europe’s first heavy duty
+liquid hydrogen truck"
+
+<img width='340' src='https://files.mastodon.social/cache/preview_cards/images/096/601/695/original/00a5b795fbcd4733.jpg'/> 
 
 ---
 
-H2 Fuel News: "Two CIP projects successful in the first European
-Hydrogen Bank auction"
+Oman Observer: "Salalah Port gears up for new role as Oman’s hydrogen
+export hub"
 
 ---
 
-Is this fascism
-
-"@breadandcircuses@climatejustice.social
-
-This post apparently got Gary Girod banned from Xitter...
-
-'@girod_gary@twitter.com
-
-If there's an oil crisis & and oil companies are making record
-profits, a healthcare crisis & healthcare companies are making record
-profits, a financial crisis & finance companies are making record
-profits, then the companies are the crisis'"
+NYT: "Rishi Sunak’s Dismal Task: Leading U.K. Conservatives to Likely
+Defeat"
 
 ---
 
-"Heat Death of the Internet"
+The Guardian: "US confirms Russian forces deployed to same Niger
+airbase as American troops"
 
-[[-]](https://www.takahe.org.nz/heat-death-of-the-internet/)
+----
 
----
+The Grayzone: "[2024/03] Leaked Israel lobby presentation urges US
+officials to justify war on Gaza with ‘Hamas rape’ claims.. Two
+prominent pro-Israel lobby groups [investigating] on how to influence
+public opinion in favor of the Israeli military’s rampage in
+Gaza.. [relied] on data collected by Frank Luntz, a veteran Republican
+pollster and pundit... The Luntz-tested presentations on the war in
+Gaza urge politicians to avoid trumpeting America’s supposedly shared
+democratic values with Israel, and focus instead on deploying 'The
+Language of War with Hamas.' According to this framing, they must
+deploy incendiary language painting Hamas as a 'brutal and
+savage.. organization of hate' which has 'raped women,' while
+insisting Israel is engaged in 'a war for humanity'...
 
-Good question.. FDR did a lot of things, but it is clear he found an
-opening, a willingness on the part of the wealthy to exploit, and he
-pushed his agenda that way. He could not do everything on his own, by
-simply ordering it to be so.
-
-"If the wealthy class allowed a lot of concessions post 20s what did
-FDR truly achieve on his own?"
-
----
-
-This is the famous Princeton study by Gilens et al
-
-Paper: "[2014, Our] analysis indicates that economic elites and
-organized groups representing business interests have substantial
-independent impacts on U.S. government policy, while average citizens
-and mass-based interest groups have little or no independent
-influence. The results provide substantial support for theories of
-Economic-Elite Domination and for theories of Biased Pluralism, but
-not for theories of Majoritarian Electoral Democracy or Majoritarian
-Pluralism"
-
-[[-]](https://www.cambridge.org/core/journals/perspectives-on-politics/article/testing-theories-of-american-politics-elites-interest-groups-and-average-citizens/62327F513959D0A304D4893B382B992B)
+Initiated at Israel’s United Nations mission in December 2023 with
+speeches by neoliberal tech oligarch Sheryl Sandberg and former US
+Secretary of State Hillary Clinton, a recipient of hundreds of
+thousands of dollars in donations and speaking fees from Israel lobby
+organizations, Tel Aviv’s propaganda blitz has yet to produce a single
+self-identified victim of sexual assault by Hamas"
 
 ---
 
-\#Frontline \#UA \#RU 04/28 - 05/06
+"@jasongorman@mastodon.cloud
 
-[[-]](mbl/2024/ukrdata/map16.html)
+Aww, bless. Some folks still believe that tech stocks are indicators
+of company performance"
 
 ---
 
-Reuters: "UK's Boris Johnson, who introduced voter ID rule, forgets
-his while voting"
+\#Greenwald \#Sirota \#Boeing 
+
+[[-]](https://youtu.be/gf_YLQktSN8?t=674)
+
+---
+
+Oxford: "A new review has concluded that hospitals that are privatised
+typically deliver worse quality care after converting from public
+ownership. The study, led by University of Oxford researchers, has
+been published in The Lancet Public Health"
+
+---
+
+RFI: "Paris 2024 Olympics aims for green legacy with hydrogen cars"
+
+---
+
+TASS: "China to never forget NATO bombing of Chinese embassy in
+Belgrade - Xi Jinping.. The Chinese leader noted that the China-Serbia
+friendship, sealed with blood, will remain in the common memory of the
+Chinese and Serbian peoples"
+
+---
+
+Arab News: "Students erect pro-Palestinian camp at Ireland’s Trinity
+College"
+
+---
+
+Arab News: "Rafah invasion ‘must not go ahead’: UK Labour leader"
+
+---
+
+Arab News: "New York’s Columbia University cancels graduation ceremony
+as students remain defiant"
+
+---
+
+Arab News: "Ground invasion of Rafah would be ‘intolerable,’ UN chief warns"
 
 ---
 
