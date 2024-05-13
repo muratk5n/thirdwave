@@ -1,94 +1,117 @@
 
-FleetPoint: "Daimler Truck AG to trial Europe’s first heavy duty
-liquid hydrogen truck"
+"Alpine Alpenglow Hy4 Is 2022’s Hydrogen-Powered Concept Made Real
 
-<img width='340' src='https://files.mastodon.social/cache/preview_cards/images/096/601/695/original/00a5b795fbcd4733.jpg'/> 
+- Alpenglow Hy4 is a fully working hydrogen prototype based on Alpine’s 2022 concept.
 
----
+- Debuts at Spa this weekend, where it will performance demonstration runs before reappearing at Le Mans in June.
 
-Oman Observer: "Salalah Port gears up for new role as Oman’s hydrogen
-export hub"
+- Rolling lab’s 335 hp inline four will be upgraded to a V6 for a second prototype that’ll be revealed later this year"
 
----
-
-NYT: "Rishi Sunak’s Dismal Task: Leading U.K. Conservatives to Likely
-Defeat"
+<img width='340' src='https://www.carscoops.com/wp-content/uploads/webp/2024/05/Alpine-Alpenglow-1024x576.webp'/> 
 
 ---
 
-The Guardian: "US confirms Russian forces deployed to same Niger
-airbase as American troops"
+"@TaxJusticeUK
 
-----
+Tax havens swallow up £380bn in lost tax globally every year – British
+tax havens make up a huge proportion of this"
 
-The Grayzone: "[2024/03] Leaked Israel lobby presentation urges US
-officials to justify war on Gaza with ‘Hamas rape’ claims.. Two
-prominent pro-Israel lobby groups [investigating] on how to influence
-public opinion in favor of the Israeli military’s rampage in
-Gaza.. [relied] on data collected by Frank Luntz, a veteran Republican
-pollster and pundit... The Luntz-tested presentations on the war in
-Gaza urge politicians to avoid trumpeting America’s supposedly shared
-democratic values with Israel, and focus instead on deploying 'The
-Language of War with Hamas.' According to this framing, they must
-deploy incendiary language painting Hamas as a 'brutal and
-savage.. organization of hate' which has 'raped women,' while
-insisting Israel is engaged in 'a war for humanity'...
+---
 
-Initiated at Israel’s United Nations mission in December 2023 with
-speeches by neoliberal tech oligarch Sheryl Sandberg and former US
-Secretary of State Hillary Clinton, a recipient of hundreds of
-thousands of dollars in donations and speaking fees from Israel lobby
-organizations, Tel Aviv’s propaganda blitz has yet to produce a single
-self-identified victim of sexual assault by Hamas"
+*Evil Geniuses*: "[In the 2000s] the world’s second-richest man and
+most beloved American billionaire—beloved because he’s both low-key
+and plainspoken—admitted that those labor leaders in the late 1970s
+had been right, that the privileged and powerful had launched a
+one-sided war against working people and the middle class. 'There’s
+class warfare, all right,' Warren Buffett said, and 'it’s my class,
+the rich class, that’s making war, and we’re winning'—and we
+'shouldn’t be.'  Forbes had published its very first list of the
+richest people in 1982, estimating Buffett’s wealth then to be the
+equivalent today of almost $700 million. Two decades later, when he
+talked about the rich waging and winning class war, his fortune had
+grown to 58 billion. His fortune is now 85 billion, 130 times what it
+was at the beginning of America’s—his phrase—class war"
+
+---
+
+I cannot see why hybrids have "lower emissions", if you are using ICE
+to charge the battery, then you are still emitting GHG while charging
+the battery. The savings obtained from regenerative breaking is about
+15%, not a game changer. Hybrids, just like battery-electric vehicles
+are a waste of time and money. We can have full ZEV that uses an
+efficient fuel that can be cleanly used, produced and stored.
+
+"Hybrid electric vehicles are powered by an internal combustion engine
+and one or more electric motors, which uses energy stored in
+batteries. A hybrid electric vehicle cannot be plugged in to charge
+the battery. Instead, the battery is charged through regenerative
+braking and by the internal combustion engine"
+
+---
+
+\#Transit
+
+[[-]](https://files.botsin.space/media_attachments/files/112/417/006/184/615/186/small/0a60ead6ef0e08a6.png)
+
+---
+
+When Western sources label Russia as "isolated" they make obvious the
+self-centric nature of their worldview, just like when West Asia is
+labeled "the Middle East". The middle of *what*, cracker? You mean the
+middle to the east of you? Well that only flies when everything is
+situated according to you.
 
 ---
 
 "@jasongorman@mastodon.cloud
 
-Aww, bless. Some folks still believe that tech stocks are indicators
-of company performance"
+Make friends and colleagues believe you're an advanced A.I. by turning
+the heating on full and drinking a bottle of water every time they ask
+you a question"
 
 ---
 
-\#Greenwald \#Sirota \#Boeing 
+Carscoops: "Move Over Mirai, Ram Is Working On A Heavy Duty Hydrogen
+Truck
 
-[[-]](https://youtu.be/gf_YLQktSN8?t=674)
+- Ram is slated to offer a new 5500 FCEV in the United States.
 
----
+- The hydrogen-powered truck will reportedly be built in Mexico"
 
-Oxford: "A new review has concluded that hospitals that are privatised
-typically deliver worse quality care after converting from public
-ownership. The study, led by University of Oxford researchers, has
-been published in The Lancet Public Health"
+<img width='340' src='https://www.carscoops.com/wp-content/uploads/webp/2024/05/2024-Ram-5500-1024x576.webp'/> 
 
 ---
 
-RFI: "Paris 2024 Olympics aims for green legacy with hydrogen cars"
+Hossein-Zadeh: "A widely shared.. view, especially outside of the
+United States, attributes the recent rise of U.S. militarism,
+especially the invasion of Iraq, to the geopolitical imperatives of
+Israel and the concomitant influence of the Zionist lobby. Some of the
+proponents of this view go so far as to argue that the U.S. foreign
+and/or military policies in the Middle East are made by leading forces
+or figures of militant Zionism.. Without denying the contributory
+roles of these factors, [my work] points to a more crucial force
+behind the drive to war and militarism: the powerful beneficiaries of
+military expansion and war dividends, or the military-industrial
+complex and related influential interests that are vested in the
+business of war and military expansion"
 
 ---
 
-TASS: "China to never forget NATO bombing of Chinese embassy in
-Belgrade - Xi Jinping.. The Chinese leader noted that the China-Serbia
-friendship, sealed with blood, will remain in the common memory of the
-Chinese and Serbian peoples"
+Holy Kharkiv. RU momentum continues.
+
+\#UA \#RU \#Frontline 05/06 - 05/12
+
+[[-]](mbl/2024/ukrdata/map17.html)
 
 ---
 
-Arab News: "Students erect pro-Palestinian camp at Ireland’s Trinity
-College"
+First Post: "Cornell University president announces retirement amid
+campus protests, 3rd Ivy League head to step down"
 
 ---
 
-Arab News: "Rafah invasion ‘must not go ahead’: UK Labour leader"
-
----
-
-Arab News: "New York’s Columbia University cancels graduation ceremony
-as students remain defiant"
-
----
-
-Arab News: "Ground invasion of Rafah would be ‘intolerable,’ UN chief warns"
+TASS: "Israel carries out strikes on refugee accommodation centers in
+Jabalia"
 
 ---
 

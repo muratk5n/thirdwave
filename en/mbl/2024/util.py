@@ -1,5 +1,5 @@
 import time as timelib, geocoder, folium
-import matplotlib.pyplot as plt, os, shutil
+import matplotlib.pyplot as plt, os, shutil, sys
 from shapely.geometry import Polygon
 import pandas as pd, numpy as np, json, requests
 from pandas_datareader import data
@@ -229,6 +229,20 @@ regs = [
     "Kherson-Russian Armed Forces",
     "Nykolaiv-Russian Forces"]
 
+reg_ext1 = "N.Kharkiv-Russian Armed Forces"
+reg_ext2 = "N.Kharkiv-Russian Armed Forces 2"
+
+def get_coords_for_label(content, reg):
+    q = "<Placemark>.*?" + reg + "(.*?)</Placemark>"
+    print (q)
+    res = re.findall(q, content,re.DOTALL)
+    res = res[0]
+    res2 = re.findall("<coordinates>(.*?)</coordinates>", res,re.DOTALL)
+    tmp = res2[0].split(",0")
+    coords = [x.strip().split(",") for x in tmp if len(x.strip()) > 8]
+    coords = [[float(x),float(y)] for x,y in coords]
+    return coords
+
 def prepare_ukraine_suriyak():
     """
     Data from https://www.google.com/maps/d/viewer?mid=1V8NzjQkzMOhpuLhkktbiKgodOQ27X6IV
@@ -236,19 +250,18 @@ def prepare_ukraine_suriyak():
     or East Luhansk inside the kml file which repeat, I add 2, 3, at the end. 
     """
     content = open("/tmp/ukraine.kml").read()
+
+    rrrs = []
+    
+    cext1_coords = get_coords_for_label(content, reg_ext1)
+    rrrs.append(np.array(cext1_coords))
+    cext2_coords = get_coords_for_label(content, reg_ext2)
+    rrrs.append(np.array(cext2_coords))
+    
     polys = []
     for i,reg in enumerate(regs):
-        q = "<Placemark>.*?" + reg + "(.*?)</Placemark>"
-        print (q)
-        res = re.findall(q, content,re.DOTALL)
-        res = res[0]
-        res2 = re.findall("<coordinates>(.*?)</coordinates>", res,re.DOTALL)
-        for r in res2:
-            tmp = r.split(",0")
-            coords = [x.strip().split(",") for x in tmp if len(x.strip()) > 8]
-            coords = [[float(x),float(y)] for x,y in coords]
-            polys.append(Polygon(coords))
-            
+        coords = get_coords_for_label(content, reg)
+        polys.append(Polygon(coords))
 
     res = unary_union(polys)
     
@@ -256,11 +269,20 @@ def prepare_ukraine_suriyak():
 
     rrr = rrr[0:-3700]
     c = np.array(rrr)
-    plt.plot(c[:,0].T,c[:,1].T)
-    plt.savefig('/tmp/out.jpg')    
+    rrrs.append(c)
+
+    for x in rrrs:
+        plt.plot(x[:,0].T,x[:,1].T)
+    plt.savefig('/tmp/out.jpg')
     
+    np.set_printoptions(threshold=sys.maxsize)
     fout = open("/tmp/out.json","w")
-    fout.write(str(rrr).replace("(","[").replace(")","]"))
+    fout.write('[\n')
+    for i,rrr in enumerate(rrrs):
+        fout.write(json.dumps(rrr.tolist()))
+        if i < len(rrrs)-1: fout.write(',')
+        fout.write('\n')
+    fout.write(']\n')
     fout.close()
 
 if __name__ == "__main__": 

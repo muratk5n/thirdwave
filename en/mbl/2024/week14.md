@@ -219,7 +219,7 @@ labor has direct effect on wages - if available labor increases via
 excessive immigration citizens will pay the price.
 
 
-[[-]](../../2024/03/wage-predict-turchin.html)
+[[-]](../../2024/05/age-of-discord-math.html#wage)
 
 ---
 

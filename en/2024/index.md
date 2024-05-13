@@ -6,8 +6,6 @@
 
 [Psych Types](03/types.html)
 
-[Predicting Wages, Turchin](03/wage-predict-turchin.html)
-
 [Watergate Timeline](03/watergate-timeline.html)
 
 [Bankrupting Physics](04/bakrupting-physics-unzicker.html)

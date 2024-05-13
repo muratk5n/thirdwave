@@ -433,12 +433,6 @@ lawsuit"
 
 ---
 
-RU/UA, 23/12/29 - 24/01/10 \#Frontline
-
-[[-]](ukrdata/map2.html)
-
----
-
 The Nation: "Even when Ackman wins, America often loses. In the fall
 of 2011, for instance, Pershing Square acquired 14 percent of the
 stock of Canadian Pacific Railway, becoming its largest

@@ -657,12 +657,6 @@ death toll from the war with Israel now tops 21,000"
 
 ---
 
-Recent frontline changes, 12/13 - 12/30
-
-[[-]](ukrdata/map1.html)
-
----
-
 "@forrestbrazeal@hachyderm.io
 
 Did someone say 'AIOps'?"
