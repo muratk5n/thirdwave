@@ -1,5 +1,341 @@
 # Week 20
 
+Anonymous: "It's fun that some folks think a secret group of rich
+people control everything instead of the widely known group of rich
+people control everything"
+
+---
+
+Due to winds the particulate stuff migrates to south Europe too..
+Massively bad.  It would be great if all of N. Africa was greened,
+that could hold the dust in place. That would be a hard undertaking
+for sure.
+
+---
+
+"Africa experiences some of the worst air pollution and some of the
+most severe health consequences in the world. In 2019, air pollution
+was the second leading risk factor for death across Africa, a large
+and dynamic continent that is home to more than 1.2 billion people. In
+terms of ambient fine particulate matter (PM2.5), 5 of the world’s 10
+most heavily polluted countries are in Africa.. Desert dust, also
+referred to as sand and dust storms, is a mixture of particulate
+matter from desert or arid areas. In the Sahara and Sahel regions of
+North Africa, as well as in Western Africa, windblown dust is a
+significant contributor to total PM2.5"
+
+---
+
+North African (climate pollution measure) AQI is always terrible; AQI
+incorporates many other measurements, PM 2.5 and PM 10 in this case
+contribute the most, which are "fine [particulate](https://cdn.fosstodon.org/media_attachments/files/112/410/438/427/584/139/original/ad3d7c771a824acf.png)
+matter". That region in red seen in pic below is almost always in red.
+
+[[-]](https://cdn.fosstodon.org/media_attachments/files/112/410/429/065/637/869/original/970c7fad8bd4a018.jpg)
+
+---
+
+Hinton, LeCun are two of the three "Godfathers of AI" - the press
+keeps conflating one approach in machine learning with all of AI, but
+anyway, as far as deep neural nets go, these guys are the top. Perhaps
+LeCun more so than the rest.
+
+---
+
+Godfather Fight!
+
+---
+
+LeCun [to Hinton]: "One thing we know is that if future AI systems are
+built on the same blueprint as current Auto-Regressive LLMs, they may
+become highly knowledgeable but they will still be dumb. They will
+still hallucinate, they will still be difficult to control, and they
+will still merely regurgitate stuff they've been trained on. MORE
+IMPORTANTLY, they will still be unable to reason, unable to invent new
+things, or to plan actions to fulfill objectives. And unless they can
+be trained from video, they still won't understand the physical
+world. Future systems will *have* to use a different architecture
+capable of understanding the world, capable of reasoning, and capable
+of planning so as to satisfy a set of objectives and guardrails. These
+objective-driven architectures will be safe and will remain under our
+control because *we* set their objectives and guardrails"
+
+---
+
+Geoffrey Hinton: "Companies are planning to train models with 100x
+more computation than today's state of the art, within 18 months. No
+one knows how powerful they will be. And there's essentially no
+regulation on what they'll be able to do with these models"
+
+---
+
+*Evil Geniuses*: "Except for Google, Facebook, and Intel, cable TV and
+high-speed Internet providers, and Monsanto in much of
+agribusiness.. few of the resulting corporate giants are literal
+monopolies, one company absolutely dominating a given sector. Instead,
+most major American industries have rapidly turned into oligopolies,
+where two or three or four big companies run their show and tend not
+to compete fiercely. It’s like how smart mob families peacefully
+coexist.  During the 1990s and 2000s, three-quarters of all
+U.S. industries became more concentrated, and their average level of
+concentration doubled. Oligopoly is now the American way in mobile and
+landline phone service, airlines, credit cards, meat and poultry, beer
+and soft drinks, breakfast cereal, and more. In the 1990s the six
+biggest banks held only one-sixth of all Americans’ financial assets,
+but by 2013, five years after the crash, that share had grown to 58
+percent—the year the Democratic U.S. attorney general said that while
+he’d wanted to prosecute big banks for their role in the crash, he
+didn’t dare because, in addition to their being too big to fail, the
+legal trouble might have had 'a negative impact on the national
+economy'"
+
+---
+
+*End Times*: "Complex human societies need elites—rulers,
+administrators, thought leaders—to function well. We don’t want to get
+rid of them; the trick is to constrain them to act for the benefit of
+all"
+
+---
+
+Carscoops: "Ford Might U-Turn On Its 2030 EV-Only Plan For
+Europe.. Change of stance comes in the wake of declining EV demand"
+
+---
+
+JEC: "Zero-carbon emission flights to anywhere in the world possible
+with just one stop..
+
+<img width='340' src='https://www.jeccomposites.com/wp-content/uploads/2021/12/Aerospace-630x500.jpg'/> 
+
+Developed by a team of aerospace and aviation experts from across the
+UK collaborating on the government backed FlyZero project, the concept
+demonstrates the huge potential of green liquid hydrogen for air
+travel not just regionally or in short haul flight but for global
+connectivity"
+
+---
+
+Is there *anything* that doesn't degrade the battery?
+
+---
+
+"The Silent Killer: How Battery Degradation Can Decrease Your EV's
+Resale Value.. Here are several factors that can contribute to battery
+degradation.. Prolonged exposition to high temperatures.. Cold
+temperatures can also affect the battery's performance.. Fast-charging
+too often.. Storing the EV at a wrong state-of-charge: keeping your
+car for an extended period with an empty or full battery can harm its
+performance and lifespan.. The way in which a car is driven.. Hard
+acceleration, high speeds, and frequent braking can all cause the
+battery to degrade faster"
+
+---
+
+FleetNews: "Of drivers who said they wouldn’t buy a used EV, 62% cited
+concerns around battery lifespan – making the fear of poor battery
+health the single largest barrier preventing the second-hand market
+from taking off, a concern echoed by industry experts"
+
+---
+
+"@bpaassen@bildung.social
+
+How weird it is that we expect large language models to generalize to
+all kinds of tasks... When I say 'generalize' I mean that a model is
+able to perform well on new, previously unseen data. In classic
+machine learning, this was very strictly defined: We assumed that
+training and test data were sampled from exactly the same
+distribution.. In recent years, machine learning got more ambitious:
+We also tried to make models generalize to test data from _other_
+distributions.. In these scenarios, the theoretical guarantees for
+generalization are essentially lost (except for special, nice
+cases)... For some reason, we expect LLMs to generalize to entirely
+new tasks that the models were not designed for. This is such a wild
+and weird expectation. Why would we think that this works?..
+
+I guess because we saw empirical examples [where] it works. But I hope
+my long-winded explanation makes clear: We should be
+skeptical. Expecting generalization to tasks a system was not designed
+for goes far beyond the guarantees we can give.. The reasonable
+generalization expectation for LLMs is that they can auto-complete
+text in ways that is consistent with the training data and
+superficially satisifies human raters that operate under time
+pressure. That's what they are trained for. Anything else is
+coincidental"
+
+---
+
+*End Times*: "Ukrainian oligarchs ruled the country unrestrained by
+any other internal checks, [but] they did not become a cohesive ruling
+class. Instead, they formed several factions that struggled against
+each other using as weapons electoral politics, semilegal seizure of
+property, and even imprisonment. When Yanukovych came to power in
+2010, he jailed his rival, Yulia Tymoshenko, an oligarch popularly
+known as the gas princess. The internecine conflicts between the
+oligarchs made a mockery of Ukrainian democracy. No matter whom the
+Ukrainians elected, the officeholders did nothing for the common
+people, instead concentrating on transferring wealth and power from
+the losing oligarchs...
+
+By 2014, American 'proconsuls,' such as veteran diplomat Victoria
+Nuland, had acquired a large degree of power over the Ukrainian
+plutocrats. This was not cheap—Nuland boasted that the Department of
+State had invested $5 billion in extending its influence over the
+Ukrainian ruling class. In this, the American agents were aided by the
+deep animosities pitting the oligarchs against each other and dividing
+the oligarchate. Because the oligarchs were unable to agree among
+themselves, they required an external manager to set a common
+agenda. During the Revolution of Dignity in 2014, as we know from a
+transcript of the telephone conversation between them, Nuland and
+Geoffrey Pyatt, who was then the US ambassador to Ukraine, made
+decisions about who was to be appointed to various state positions
+(president, ministers, etc.).
+
+Over the thirty years since Ukraine’s independence, its power
+structures have developed as a three-tiered configuration: people,
+oligarchs, American proconsuls. The masses of Ukrainian citizens voted
+in periodic elections, but whoever they elected pursued their private
+interests without any regard for the wishes of the electorate (except
+where the popular wishes coincided with the desires of the
+oligarchs). As a result, soon after being elected, each administration
+rapidly lost public support and became mired in scandal..
+
+The current Ukrainian president Volodymyr Zelensky’s entry into
+politics was a result of rivalry between two oligarchs, Poroshenko
+(president of Ukraine between 2014 and 2019) and Ihor Kolomoisky (the
+head of the Dnipropetrovsk oligarchic clan), who needed a candidate to
+oppose Poroshenko"
+
+---
+
+PV Magazine: "Researchers propose use of cesium, rubidium for hydrogen
+batteries.. A study led by Russia’s Skoltech and China’s HPSTAR
+suggests that rubidium and cesium additives could improve the
+efficiency of hydrogen batteries. Researcher Dmitrii Semenok tells pv
+magazine that 'it is a question of changing the approach to the search
+for promising hydrogen storage materials'"
+
+<img width='340' src='https://www.pv-magazine.com/wp-content/uploads/2024/05/Figure_1.jpg'/> 
+
+---
+
+"Alpine Alpenglow Hy4 Is 2022’s Hydrogen-Powered Concept Made Real
+
+- Alpenglow Hy4 is a fully working hydrogen prototype based on Alpine’s 2022 concept.
+
+- Debuts at Spa this weekend, where it will performance demonstration runs before reappearing at Le Mans in June.
+
+- Rolling lab’s 335 hp inline four will be upgraded to a V6 for a second prototype that’ll be revealed later this year"
+
+<img width='340' src='https://www.carscoops.com/wp-content/uploads/webp/2024/05/Alpine-Alpenglow-1024x576.webp'/> 
+
+---
+
+"@TaxJusticeUK
+
+Tax havens swallow up £380bn in lost tax globally every year – British
+tax havens make up a huge proportion of this"
+
+---
+
+*Evil Geniuses*: "[In the 2000s] the world’s second-richest man and
+most beloved American billionaire—beloved because he’s both low-key
+and plainspoken—admitted that those labor leaders in the late 1970s
+had been right, that the privileged and powerful had launched a
+one-sided war against working people and the middle class. 'There’s
+class warfare, all right,' Warren Buffett said, and 'it’s my class,
+the rich class, that’s making war, and we’re winning'—and we
+'shouldn’t be.'  Forbes had published its very first list of the
+richest people in 1982, estimating Buffett’s wealth then to be the
+equivalent today of almost $700 million. Two decades later, when he
+talked about the rich waging and winning class war, his fortune had
+grown to 58 billion. His fortune is now 85 billion, 130 times what it
+was at the beginning of America’s—his phrase—class war"
+
+---
+
+I cannot see why hybrids have "lower emissions", if you are using ICE
+to charge the battery, then you are still emitting GHG while charging
+the battery. The savings obtained from regenerative breaking is about
+15%, not a game changer. Hybrids, just like battery-electric vehicles
+are a waste of time and money. We can have full ZEV using an efficient
+fuel that is clean, efficiently produced and stored.
+
+"Hybrid electric vehicles are powered by an internal combustion engine
+and one or more electric motors, which uses energy stored in
+batteries. A hybrid electric vehicle cannot be plugged in to charge
+the battery. Instead, the battery is charged through regenerative
+braking and by the internal combustion engine"
+
+---
+
+\#Transit
+
+[[-]](https://files.botsin.space/media_attachments/files/112/417/006/184/615/186/small/0a60ead6ef0e08a6.png)
+
+---
+
+When Western sources label Russia as "isolated" they make obvious the
+self-centric nature of their worldview, just like when West Asia is
+labeled "the Middle East". The middle of *what*, cracker? You mean the
+middle to the east of you? Well that only flies when everything is
+situated according to you.
+
+---
+
+"@jasongorman@mastodon.cloud
+
+Make friends and colleagues believe you're an advanced A.I. by turning
+the heating on full and drinking a bottle of water every time they ask
+you a question"
+
+---
+
+Carscoops: "Move Over Mirai, Ram Is Working On A Heavy Duty Hydrogen
+Truck
+
+- Ram is slated to offer a new 5500 FCEV in the United States.
+
+- The hydrogen-powered truck will reportedly be built in Mexico"
+
+<img width='340' src='https://www.carscoops.com/wp-content/uploads/webp/2024/05/2024-Ram-5500-1024x576.webp'/> 
+
+---
+
+Hossein-Zadeh: "A widely shared.. view, especially outside of the
+United States, attributes the recent rise of U.S. militarism,
+especially the invasion of Iraq, to the geopolitical imperatives of
+Israel and the concomitant influence of the Zionist lobby. Some of the
+proponents of this view go so far as to argue that the U.S. foreign
+and/or military policies in the Middle East are made by leading forces
+or figures of militant Zionism.. Without denying the contributory
+roles of these factors, [my work] points to a more crucial force
+behind the drive to war and militarism: the powerful beneficiaries of
+military expansion and war dividends, or the military-industrial
+complex and related influential interests that are vested in the
+business of war and military expansion"
+
+---
+
+Holy Kharkiv. RU momentum continues.
+
+\#UA \#RU \#Frontline 05/06 - 05/12
+
+[[-]](ukrdata/map17.html)
+
+---
+
+First Post: "Cornell University president announces retirement amid
+campus protests, 3rd Ivy League head to step down"
+
+---
+
+TASS: "Israel carries out strikes on refugee accommodation centers in
+Jabalia"
+
+---
+
 "After achieving the first circumnavigations of the globe in a balloon
 and more recently in a solar aircraft, Swiss explorer Bertrand Piccard
 unveils his new emission-free project: a green hydrogen-powered

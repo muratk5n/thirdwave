@@ -1,6 +1,6 @@
 
 function plot(before,after) {
-    
+
     url = `/en/mbl/${before}`;
     var xmlHttp = new XMLHttpRequest();
     xmlHttp.open( "GET", url = url, false ); 
@@ -34,6 +34,7 @@ function plot(before,after) {
 	});
 	lineaft.addTo(map);
     });
+    
 }
 
 function init() {

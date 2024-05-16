@@ -6,9 +6,13 @@ company, now at Tree Energy Solutions, an H2 startup.
 <a name='deaths'></a>
 
 If we hadn’t had Covid-19, 2020 would be remembered for the Australian
-bushfire disaster, which killed thirty- four people and more than
-three billion animals, and for the unprecedented wildfires in Brazil
-and California..
+bushfire disaster, which killed thirty-four people and more than three
+billion animals, and for the unprecedented wildfires in Brazil and
+California..
+
+<a name='electrif'></a>
+
+Electrification
 
 Yes, renewable electricity was making great strides, but electricity
 only accounts for 20% of our energy use. Even if we cleaned all of
@@ -17,10 +21,6 @@ electrons, we would still have the other 80% of the energy system to
 worry about. That’s the energy we use in transport, industry and
 heating, which today rely mainly on molecules from coal, oil and
 natural gas...
-
-<a name='electrif'></a>
-
-Electrification
 
 But there’s a limit to how much of the energy system we can switch to
 renewable electricity. Some sectors, such as heavy transport, industry
@@ -234,4 +234,7 @@ steel. This has been done in Skallen, Sweden, for use with natural
 gas. It allows you to ramp up the storage pressure to 200 atmospheres,
 because the rock formation carries the main structural load, and would
 be cheaper and easier than a massive tank.
+
+
+
 

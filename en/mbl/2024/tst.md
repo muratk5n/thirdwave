@@ -6,6 +6,29 @@ import pandas as pd
 pd.set_option('display.max_columns', None)
 ```
 
+```python
+u.mov_profit(414, 950)
+```
+
+```text
+Out[1]: -51.0
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -23,9 +46,9 @@ plt.savefig('/tmp/out.jpg')
 
 ```text
 end_date
-2024-05-01   -17.015128
-2024-05-02   -16.741646
-2024-05-03   -15.922098
+2024-05-12   -17.743053
+2024-05-13   -17.500206
+2024-05-14   -17.481513
 Name: net, dtype: float64
 ```
 
