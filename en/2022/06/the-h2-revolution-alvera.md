@@ -46,7 +46,7 @@ That was a lightbulb moment, for me. I realised that hydrogen’s true
 mission was to help us harvest sunlight and wind where they were in
 plentiful supply, transport them cheaply, and get them into our
 aeroplanes, factories and homes. Just 1% of the Sahara Desert gets
-enough sunlight to power the whole world 3 and hydrogen could finally
+enough sunlight to power the whole world and hydrogen could finally
 give us a way to unlock that potential and decarbonise the
 hard-to-electrify sectors at the same time.  Moreover, many people
 thought that the energy transition would mean rising energy costs and
