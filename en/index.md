@@ -1,110 +1,105 @@
 
-H2 Central: "North Carolina-based OneH2, Inc. launches new cylinder
-technology for 931 bar high-pressure hydrogen tube trailers. The
-cylinder technology, a culmination of several years of development and
-investment, operates under a unique special permit issued by the
-U.S. Department of Transport for use on roads... While OneH2 has been
-operating fleets of 520 bar hydrogen transport trailers for materials
-handling applications, this new 931 bar design allows for direct fills
-of higher-pressure, 700 bar automotive and heavy vehicle applications,
-making hydrogen-fueled transport much more economical"
+AIN: "Airbus this week announced the launch of the Ground Operations
+of Liquid Hydrogen Aircraft (GOLIAT) project to demonstrate how
+handling and refueling technologies can be developed for airport
+operations. The work is backed by a €10.8 million ($11.7 million)
+grant from the European Union’s Horizon Europe Framework Program"
+
+<img width='340' src='https://www.ainonline.com/cdn-cgi/image/width=1200,format=webp,quality=95/https://backend.ainonline.com/sites/default/files/styles/fpsc_1200x630/public/2024-05/ZeroE%20CFM%20A380%201.jpeg?h=efd73020&itok=zmqyH0GB'/> 
 
 ---
 
-"@tbaldauf@social.tchncs.de
-
-Journalist: 'So what do you think long-distance air travel is going to
-look like in 2050?'
-
-Climate Scientist *laughs derisively*: 'By 2050, most long-distance
-holiday destinations will be uninhabitable, so I expect the majority
-of long-distance air traffic to be non-existent by 2050.'
-
-Phew. Hadn't heard it THAT bleakly during a live interview yet"
+Renewables Now: "Plug lands 3-GW BEDP contract for Australian green
+ammonia project"
 
 ---
 
-Jalopnik: "Tesla's Storing Unsold Inventory In An Abandoned Mall
-Parking Lot.. The electric automaker is renting parking lots to store
-thousands of vehicles"
+Reuters: "US hydrogen company Plug Power is set to receive a $1.66bn
+loan guarantee from the US Department of Energy (DOE), which would be
+used to develop and construct up to six new green hydrogen projects
+across the country utilising the company's own PEM electrolysers"
 
 ---
 
-General Gerasimov, Chief of the RU General Staff: "[2013] What is
-modern war?  What should the army be prepared for?  How should it be
-armed?  Only after answering these questions can we determine the
-directions of the construction and development of the armed forces
-over the long term. To do this, it is essential to have a clear
-understanding of the forms and methods of the use of the application
-of force.
-
-These days, together with traditional devices, nonstandard ones are
-being developed. The role of mobile, mixed-type groups of forces,
-acting in a single intelligence-information space because of the use
-of the new possibilities of command-and-control systems has been
-strengthened. Military actions are becoming more dynamic, active, and
-fruitful. Tactical and operational pauses that the enemy could exploit
-are disappearing. New information technologies have enabled
-significant reductions in the spatial, temporal, and informational
-gaps between forces and control organs. Frontal engagements of large
-formations of forces at the strategic and operational level are
-gradually becoming a thing of the past. Long-distance, contactless
-actions against the enemy are becoming the main means of achieving
-combat and operational goals. The defeat of the enemy’s objects is
-conducted throughout the entire depth of his territory. The
-differences between strategic, operational, and tactical levels, as
-well as between offensive and defensive operations, are being
-erased. The application of high-precision weaponry is taking on a mass
-character. Weapons based on new physical principals and automatized
-systems are being actively incorporated into military activity"
+Houston Chronicle: "Spacecraft company SpaceX and its contractors are
+overdue on bills from builders and suppliers for work done in South
+and Central Texas. It’s led to dozens of outstanding liens since
+2019. In total, Reuters reports that more than two dozen companies
+have filed 72 liens, 41 of which were filed this year, adding up to
+more than $2.5 million due in payments"
 
 ---
 
-WION: "India likely to strike 10-year deal with Iran over Chabahar
-port in strategic leap"
+EFF: "Big Tech to EU: 'Drop Dead'.. The European Union's new Digital
+Markets Act (DMA).. aims to make it easier for the public to control
+the technology they use and rely on... DMA is meant to push us toward
+a world where you decide which software runs on your devices, where
+it's easy to find the best products and services, where you can leave
+a platform for a better one without forfeiting your social
+relationships, and where you can do all of this without getting spied
+on.
+
+If it works, this will get dangerously close to better future we've
+spent the past thirty years fighting for. There's just one wrinkle:
+the Big Tech companies don't want that future, and they're trying
+their damndest to strangle it in its cradle"
 
 ---
 
-TASS: "Blinken’s visit to Kiev shows US concerned over Ukrainian
-failures on frontline — diplomat"
+"@jasongorman@mastodon.cloud
 
-----
+When I was a kid, I used to assume that whatever the problem in the
+world, smart people somewhere were figuring out a solution.
 
-It is looking increasingly like Putin is having a victory to sell
-
-NYT: "Putin Is Selling Victory, and Many Russians Are Buying It"
-
----
-
-\#UA \#RU \#Frontline 05/12 - 05/15
-
-[[-]](mbl/2024/ukrdata/map18.html)
+Now that I'm a grown-up (well, *more* grown-up) I realise that, yes,
+smart people somewhere really *are* figuring out a solution, while
+rich and powerful people are figuring out ways to shut them up"
 
 ---
 
-The Guardian: "Israel and Egypt in growing diplomatic row over Rafah
-border crossing.. Anger over Israel’s seizure of Palestinian side of
-crossing raises fears Cairo may downgrade relations"
+Firefox browser is basically showing which sites *not* to use
+
+\#EnhancedTrackingProtection
+
+[[-]](https://assets.chaos.social/media_attachments/files/112/455/364/942/754/455/small/5396ed0e0fa125ab.png)
 
 ---
 
-Al-Monitor: "Ireland to recognise Palestinian statehood 'this month': minister"
+It looks like customer data is being fed into some fuck-LLM where it
+can be reverse-engineered with proper massaging.
+
+"@Quinnypig@awscommunity.social
+
+I'm sorry Slack, you're doing fucking WHAT with user DMs, messages,
+files, etc?"
+
+<img width='340' src='https://cdn.masto.host/awscommunitysocial/media_attachments/files/112/452/921/335/165/283/small/50f317b416d69fba.png'/> 
 
 ---
 
-Al-Monitor: "Palestinian statehood key to Arab plans for post-war
-Gaza"
+The Guardian: "Toxic 'forever chemicals' ubiquitous in Great Lakes
+basin, study finds"
 
 ---
 
-First Post: "EU asks Israel to end Rafah operation 'immediately' else
-it will strain ties"
+Hindustan Times World: "Yemeni Houthi rebels have shot down another US
+MQ-9 Reaper drone, six in the last 12 months"
 
 ---
 
-Al Jazeera: "Another Biden administration staffer resigns over US
-stance on Gaza war. Lily Greenberg Call says she cannot 'in good
-conscience' represent the US gov't, condemns 'disastrous' Gaza policy"
+NYT: "Xi Jinping Embracing Vladimir Putin in Defiance of the
+West.. Western leaders looking for signs that the Chinese leader used
+his influence on President Vladimir V. Putin to end the war in Ukraine
+are likely to be disappointed"
+
+---
+
+F24: "Gantz threatens to quit Israeli War Cabinet over postwar plans
+for Gaza.. On Saturday, Benny Gantz, a member of the War Cabinet and
+Netanyahu's main political rival, said he would leave the government
+on June 8 if it did not formulate a new war plan including an
+international, Arab and Palestinian administration to handle civilian
+affairs in Gaza"
 
 ---
 
@@ -152,4 +147,6 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
+
+
 
