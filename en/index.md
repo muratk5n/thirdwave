@@ -85,7 +85,7 @@ Democratic turf"
 
 ---
 
-After decades of elevating businessman to such great heights, the
+After decades of elevating businessmen to such great heights, the
 uniparty machinery got bamboozled by a legit businessman in 2016, the
 very figure they themselves brought to God-like status. That was the
 great irony of Trump's victory. If you did not like that situation
@@ -140,3 +140,5 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
+
+
