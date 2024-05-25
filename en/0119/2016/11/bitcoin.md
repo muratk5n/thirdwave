@@ -29,12 +29,12 @@ in one blow, turn one's entire national economy into a vast machine
 for the provisioning of soldiers, since now every family, in order to
 get their hands on the coins, must find some way to contribute to the
 general effort to provide soldiers with things they want. Markets are
-brought into existence as a side effect.
+brought into existence as a side effect"
 
 Ancient king takes over mines, makes money, employs army, gives the
 army the coins, demands taxes from populace using that same
 money. Army is fed in the process. Key points, people should want the
-money, and not everyone should be able to "make" it."
+money, and not everyone should be able to "make" it.
 
 Then the key points are 1) money needs to be based on something
 scarce, like rare stones that you can get to through laborious mining
@@ -97,15 +97,15 @@ solution). But the reason for that backwardness *again* had to do with
 finance, business community itself who never wanted government to be
 involved in anything other than keeping the banking system solvent
 (read: bail me out when I need it) and frowned upon actions that
-looked remotely innovative by the government that was "their
-turf". Government on its part frowned upon money transfer outside its
-bailiwick bcz of the need to deal with money laundering, crime (that's
-why they killed Libra). The result: deadlock, and the freak shitcoins
-emerging out of that lull in policymaking.
+looked remotely innovative by the government an area they considered
+"their turf". Government for its part frowned upon money transfer
+outside its bailiwick bcz of the need to deal with money laundering,
+crime (that's why they killed Libra). The result: deadlock, and the
+freak shitcoins emerging out of that lull in policymaking.
 
 In China, India, where corporatism is not as strong as in US,
 governments could innovate, lead others to implement a fast money
 transfer solution. Have no doubt, Indian UPI is ten times better and
 reliable than any of these bizarrocoins, the tech likely provided a
 good example for US FED to follow as well. US was late in the game,
-wasting time with "fintech", while India steamed ahead.
+wasting time with "fintech", while others steamed ahead.
