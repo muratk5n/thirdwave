@@ -1,105 +1,104 @@
 
-AIN: "Airbus this week announced the launch of the Ground Operations
-of Liquid Hydrogen Aircraft (GOLIAT) project to demonstrate how
-handling and refueling technologies can be developed for airport
-operations. The work is backed by a €10.8 million ($11.7 million)
-grant from the European Union’s Horizon Europe Framework Program"
+PML Daily: "Volvo to launch hydrogen-powered trucks"
 
-<img width='340' src='https://www.ainonline.com/cdn-cgi/image/width=1200,format=webp,quality=95/https://backend.ainonline.com/sites/default/files/styles/fpsc_1200x630/public/2024-05/ZeroE%20CFM%20A380%201.jpeg?h=efd73020&itok=zmqyH0GB'/> 
+<img width='340' src='https://i0.wp.com/www.pmldaily.com/wp-content/uploads/2024/05/volvo-truck-with-combustion-engine-running-on-hydrogen_original-file.jpg?w=900&ssl=1'/> 
 
 ---
 
-Renewables Now: "Plug lands 3-GW BEDP contract for Australian green
-ammonia project"
+"@kevinriggle@ioc.exchange
+
+The ongoing erosion of my ability to tell where information I enter
+into any random text box on my computer is sent and stored has me
+increasingly tempted to switch back to a 386 and WordPerfect 5
+whatever for MS-DOS"
 
 ---
 
-Reuters: "US hydrogen company Plug Power is set to receive a $1.66bn
-loan guarantee from the US Department of Energy (DOE), which would be
-used to develop and construct up to six new green hydrogen projects
-across the country utilising the company's own PEM electrolysers"
+Gov flexing its muscle, fantastic... Any anti-trust action with
+results is a win. The public then can get used to similar acts later,
+Live Nation is a great place to start - gov can ride on the popularity
+of Taylor Swift and the protests of those crying "Swifties" due to the
+recent backlash towards victory. I am waiting to see the
+scoreboard. Government 1: Bidness: 0.
+
+AP News: "Government sues Ticketmaster owner and asks court to break
+up company’s monopoly on live events.. Ticketmaster and its owner,
+Live Nation Entertainment, have a long history of clashes with major
+artists and their fans, including Taylor Swift and Bruce Springsteen"
 
 ---
 
-Houston Chronicle: "Spacecraft company SpaceX and its contractors are
-overdue on bills from builders and suppliers for work done in South
-and Central Texas. It’s led to dozens of outstanding liens since
-2019. In total, Reuters reports that more than two dozen companies
-have filed 72 liens, 41 of which were filed this year, adding up to
-more than $2.5 million due in payments"
+Arne Schirracher is a science historian, and a physics PhD himself.
 
 ---
 
-EFF: "Big Tech to EU: 'Drop Dead'.. The European Union's new Digital
-Markets Act (DMA).. aims to make it easier for the public to control
-the technology they use and rely on... DMA is meant to push us toward
-a world where you decide which software runs on your devices, where
-it's easy to find the best products and services, where you can leave
-a platform for a better one without forfeiting your social
-relationships, and where you can do all of this without getting spied
-on.
-
-If it works, this will get dangerously close to better future we've
-spent the past thirty years fighting for. There's just one wrinkle:
-the Big Tech companies don't want that future, and they're trying
-their damndest to strangle it in its cradle"
+Hilbert was one of the top mathematicians of his time w emphasis on
+physics, the story goes after hearing bits and pieces of Einstein's
+work-in-progress on GR, he plowed through on the rest of theory and
+nearly beat Einstein to it for the final product (bcz his grasp of
+math fundamentals and its relation to physics were so strong, he could
+crush it even as a complete outsider). But he withheld his claim and
+let Einstein have his deserved glory.
 
 ---
 
-"@jasongorman@mastodon.cloud
-
-When I was a kid, I used to assume that whatever the problem in the
-world, smart people somewhere were figuring out a solution.
-
-Now that I'm a grown-up (well, *more* grown-up) I realise that, yes,
-smart people somewhere really *are* figuring out a solution, while
-rich and powerful people are figuring out ways to shut them up"
+A lot hinges on Kirchoff's Law to be correct; if not, everything from
+gaseous Sun theory to Hawking radiation is in question. Cosmologists will
+be PHUCKED.
 
 ---
 
-Firefox browser is basically showing which sites *not* to use
-
-\#EnhancedTrackingProtection
-
-[[-]](https://assets.chaos.social/media_attachments/files/112/455/364/942/754/455/small/5396ed0e0fa125ab.png)
+.. and the proof provided later turned out incorrect. No experimental
+result can prove KL either. 
 
 ---
 
-It looks like customer data is being fed into some fuck-LLM where it
-can be reverse-engineered with proper massaging.
-
-"@Quinnypig@awscommunity.social
-
-I'm sorry Slack, you're doing fucking WHAT with user DMs, messages,
-files, etc?"
-
-<img width='340' src='https://cdn.masto.host/awscommunitysocial/media_attachments/files/112/452/921/335/165/283/small/50f317b416d69fba.png'/> 
+Arne Schirracher: "[2013, David] Hilbert concluded [in 1912] that
+Kirchhoff’s law on heat radiation, which had represented complex
+experimental results in a relation as simple and persuasive as Ohm’s
+law, had not been made plausible, even in the most simple, special
+cases. For more than fifty years, physicists had failed to provide a
+proof for one of their most precious laws"
 
 ---
 
-The Guardian: "Toxic 'forever chemicals' ubiquitous in Great Lakes
-basin, study finds"
+She is not a 10. Not even a 9 or 8. Dam. But maybe the her VP polling
+is good, dunno.
 
 ---
 
-Hindustan Times World: "Yemeni Houthi rebels have shot down another US
-MQ-9 Reaper drone, six in the last 12 months"
+Does that mean Trump will pick Sefanik as VP?
 
 ---
 
-NYT: "Xi Jinping Embracing Vladimir Putin in Defiance of the
-West.. Western leaders looking for signs that the Chinese leader used
-his influence on President Vladimir V. Putin to end the war in Ukraine
-are likely to be disappointed"
+TDB: "Trump’s New York roots—as well as Republican Lee Zeldin’s
+surprisingly close defeat in the state’s 2022 gubernatorial
+race—actually have him musing about the possibility that he could win
+his home state. He continues to talk about doing a rally in Madison
+Square Garden. If he adds Stefanik to the ticket, at the very least
+the campaign believes it will force Biden to spend money in a state
+where TV spots are not cheap"
+
+[[-]](https://www.thedailybeast.com/heres-why-elise-stefanik-will-be-trumps-pick-for-vice-president)
 
 ---
 
-F24: "Gantz threatens to quit Israeli War Cabinet over postwar plans
-for Gaza.. On Saturday, Benny Gantz, a member of the War Cabinet and
-Netanyahu's main political rival, said he would leave the government
-on June 8 if it did not formulate a new war plan including an
-international, Arab and Palestinian administration to handle civilian
-affairs in Gaza"
+DJT competing for New York? Wild
+
+Politico: "‘Biden didn't come to the Bronx’: Trump makes a foray into
+Democratic turf"
+
+---
+
+After decades of elevating businessman to such great heights, the
+uniparty machinery got bamboozled by a legit businessman in 2016, the
+very figure they themselves brought to God-like status. That was the
+great irony of Trump's victory. If you did not like that situation
+ponder your role in his rise to power circa 2016, not to mention
+creating the economic condition leading to working class abandoning
+the Democrats in droves, for a guy who never rode in public transit in
+his life. Shitlibs got what they deserved. US democracy.. what a
+joke. 
 
 ---
 
@@ -147,6 +146,3 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
-
-
-

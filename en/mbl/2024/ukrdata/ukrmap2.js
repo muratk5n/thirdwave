@@ -34,6 +34,22 @@ function plot(before,after) {
 	});
 	lineaft.addTo(map);
     });
+
+    url = `/en/mbl/2024/ukrdata/transnistria.json`;
+    var xmlHttp = new XMLHttpRequest();
+    xmlHttp.open( "GET", url = url, false ); 
+    xmlHttp.send( null );
+    result = xmlHttp.responseText;
+    res = JSON.parse(result);
+    trlist = []
+    res.forEach(function(x) {
+	trlist.push([x[0],x[1]]);
+    });    
+    var linetr = new L.Polyline(trlist, {
+	color: 'red', weight: 2, opacity: 0.5, smoothFactor: 1
+    });
+    linetr.addTo(map);
+    
     
 }
 
@@ -46,3 +62,5 @@ function init() {
     }).addTo(map);
 
 }
+
+

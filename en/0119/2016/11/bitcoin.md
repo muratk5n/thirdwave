@@ -87,3 +87,25 @@ cheap and fast. Coupled with the fact that Bitcoin mining is
 incredibly wasteful, it is looking like the future lies in one of the
 challenger coins which are green and fast out-of-the-box.
 
+<a name='gov'></a>
+
+Crypto Is the Result of Governance Failure
+
+Being able to transact fast, easily on the banking network was lacking
+previously, and it still does now (FED is finally rolling out a
+solution). But the reason for that backwardness *again* had to do with
+finance, business community itself who never wanted government to be
+involved in anything other than keeping the banking system solvent
+(read: bail me out when I need it) and frowned upon actions that
+looked remotely innovative by the government that was "their
+turf". Government on its part frowned upon money transfer outside its
+bailiwick bcz of the need to deal with money laundering, crime (that's
+why they killed Libra). The result: deadlock, and the freak shitcoins
+emerging out of that lull in policymaking.
+
+In China, India, where corporatism is not as strong as in US,
+governments could innovate, lead others to implement a fast money
+transfer solution. Have no doubt, Indian UPI is ten times better and
+reliable than any of these bizarrocoins, the tech likely provided a
+good example for US FED to follow as well. US was late in the game,
+wasting time with "fintech", while India steamed ahead.
