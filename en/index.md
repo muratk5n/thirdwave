@@ -16,10 +16,10 @@ whatever for MS-DOS"
 
 Gov flexing its muscle, fantastic... Any anti-trust action with
 results is a win. The public then can get used to similar acts later,
-Live Nation is a great place to start - gov can ride on the popularity
-of Taylor Swift and the protests of those crying "Swifties" due to the
-recent backlash towards victory. I am waiting to see the
-scoreboard. Government 1: Bidness: 0.
+Live Nation is a great place to start - gov can ride Taylor Swift's
+popularity and the protests of those crying "Swifties" towards
+victory. I am waiting to see the scoreboard, hopefully Government 1:
+Bidness: 0.
 
 AP News: "Government sues Ticketmaster owner and asks court to break
 up company’s monopoly on live events.. Ticketmaster and its owner,
@@ -44,7 +44,7 @@ let Einstein have his deserved glory.
 
 A lot hinges on Kirchoff's Law to be correct; if not, everything from
 gaseous Sun theory to Hawking radiation is in question. Cosmologists will
-be PHUCKED.
+be *phucked*. Well even more than they already are..
 
 ---
 
@@ -71,8 +71,8 @@ Does that mean Trump will pick Sefanik as VP?
 
 ---
 
-TDB: "Trump’s New York roots—as well as Republican Lee Zeldin’s
-surprisingly close defeat in the state’s 2022 gubernatorial
+TDB: "[02/24] Trump’s New York roots—as well as Republican Lee
+Zeldin’s surprisingly close defeat in the state’s 2022 gubernatorial
 race—actually have him musing about the possibility that he could win
 his home state. He continues to talk about doing a rally in Madison
 Square Garden. If he adds Stefanik to the ticket, at the very least
@@ -94,11 +94,10 @@ After decades of elevating businessman to such great heights, the
 uniparty machinery got bamboozled by a legit businessman in 2016, the
 very figure they themselves brought to God-like status. That was the
 great irony of Trump's victory. If you did not like that situation
-ponder your role in his rise to power circa 2016, not to mention
-creating the economic condition leading to working class abandoning
-the Democrats in droves, for a guy who never rode in public transit in
-his life. Shitlibs got what they deserved. US democracy.. what a
-joke. 
+ponder your role in his rise to power, not to mention creating the
+economic condition leading to working class abandoning the Democrats
+in droves for a guy who never rode in public transit in his
+life. Shitlibs got what they deserved. 
 
 ---
 
