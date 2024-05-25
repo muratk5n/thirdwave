@@ -78,7 +78,7 @@ where TV spots are not cheap"
 
 ---
 
-DJT competing for New York? Wild
+DJT competing for New York.. Wild
 
 Politico: "‘Biden didn't come to the Bronx’: Trump makes a foray into
 Democratic turf"
