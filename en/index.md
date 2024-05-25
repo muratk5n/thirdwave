@@ -62,12 +62,7 @@ proof for one of their most precious laws"
 
 ---
 
-She is not a 10. Not even a 9 or 8. Dam. But maybe the her VP polling
-is good, dunno.
-
----
-
-Does that mean Trump will pick Sefanik as VP?
+Does that mean Sefanik as the VP pick? 
 
 ---
 
