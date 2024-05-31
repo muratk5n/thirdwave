@@ -108,14 +108,6 @@ if we are to understand and help man develop his own wisdom in a way
 that will lead to life of such quality as to make living a desirable
 and fulfilling experience.' ...
 
-<a name='vacation'></a>
-
-'Life before hunter-gatherers was solitary, poor, nasty, brutish, and
-short'. It turns out none of those things are true. Hunter-gatherers
-worked 20 hours a week ... in some very harsh environment [even]
-.. and what anthropologists call 'work' in these studies are things we
-do in vacation - like hunting, fishing, picknicking.. " ...
-
 <a name='nike'></a>
 
 In *Born to Run*, his 2009 bestseller, Christopher McDougall explains

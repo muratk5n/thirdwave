@@ -270,7 +270,7 @@ A coalition statement signed by 62 companies was unveiled at the
 
 It's still hilarious to me as an observation that our vacation
 activities, "rest", "fun" used to be simply "regular life" for the
-longest span of our lives. Good [analysis](2019/12/civilized-to-death.html#vacation) by C. Ryan.
+longest span of our lives, as hunter-gatherers.
 
 ---
 
