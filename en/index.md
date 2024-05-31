@@ -12,9 +12,9 @@ Successful Hydrogen Economy’: Sec. Granholm Tells Chris Coons"
 
 ---
 
-H2 Central: "Clean Hydrogen Pathway Moves To The Assembly SB 1420 Will
-Ensure California’s Hydrogen’s Hub Full Potential Is Fulfilled SB 1420
-Passes The Senate 30-1, Heads To Assembly"
+H2 Central: "Clean Hydrogen Pathway Moves To The Assembly.. SB 1420
+Will Ensure California’s Hydrogen’s Hub Full Potential Is Fulfilled SB
+1420 Passes The Senate 30-1, Heads To Assembly"
 
 ---
 

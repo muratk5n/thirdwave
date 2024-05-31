@@ -71,7 +71,7 @@ The Russian Momentum is back \#AustriaMil
 
 \#UA \#RU \#Frontline 05/21 - 05/30
 
-[[-]](mbl/2024/ukrdata/map20.html)
+[[-]](ukrdata/map20.html)
 
 ---
 
