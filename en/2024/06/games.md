@@ -4,3 +4,5 @@
 
 - [Tetris](tetris-ext.html)
 
+- [Racer](racer-ext.html)
+

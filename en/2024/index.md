@@ -18,3 +18,9 @@
 
 [Age of Discord Math](05/age-of-discord-math.html)
 
+[Doom](06/doom-ext.html)
+
+[Games](06/games.html)
+
+[Tetris](06/tetris-ext.html)
+
