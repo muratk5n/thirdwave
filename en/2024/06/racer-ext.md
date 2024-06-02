@@ -1,7 +1,3 @@
 # Racer
 
-<iframe src="racer.html" height="550" width="500" title="Racer"></iframe>
-
-
-
-
+<iframe src="racer.html" height="550" width="700" title="Racer"></iframe>
