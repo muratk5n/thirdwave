@@ -124,6 +124,14 @@ Arab News: "France bans Israel firms from upcoming defense fair"
 
 ----
 
+F24: "Israel far-right ministers threaten to quit if Biden ceasfire
+plan goes ahead.. Two far-right Israeli ministers threatened on
+Saturday to quit Prime Minister Binyamin Netanyhau's government if he
+goes ahead with a hostage release deal outlined by US President Joe
+Biden"
+
+---
+
 ## Reference
 
 [Nations and Nationalism, Culture, Narratives](0119/2013/02/nations-and-nationalism.html)
@@ -170,3 +178,6 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
+
+
+

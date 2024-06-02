@@ -91,7 +91,6 @@ if (!window.requestAnimationFrame) { // http://paulirish.com/2011/requestanimati
                                  function(callback, element) {
                                    window.setTimeout(callback, 1000 / 60);
                                  }
-
 }
 
 //=========================================================================
@@ -157,7 +156,6 @@ var Game = {  // a modified version of the game loop from my previous boulderdas
   //---------------------------------------------------------------------------
 
   setKeyListener: function(keys) {
-
     var onkey = function(keyCode, mode) {
       var n, k;
       for(n = 0 ; n < keys.length ; n++) {
@@ -168,20 +166,10 @@ var Game = {  // a modified version of the game loop from my previous boulderdas
             k.action.call();
           }
         }
-      }	
+      }
     };
-
-    document.onkeydown = function(evt) {
-	evt = evt || window.event;
-	var keyCode = evt.keyCode;
-	if (keyCode >= 37 && keyCode <= 40) {
-	    return false;
-	}
-    };      
-
     Dom.on(document, 'keydown', function(ev) { onkey(ev.keyCode, 'down'); } );
     Dom.on(document, 'keyup',   function(ev) { onkey(ev.keyCode, 'up');   } );
-
   },
 
   //---------------------------------------------------------------------------
