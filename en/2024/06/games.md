@@ -6,3 +6,5 @@
 
 - [Racer](racer-ext.html)
 
+- [Solitaire](../05/solitaire-ext.html)
+
