@@ -38,7 +38,7 @@ function showMap(day) {
 	this.markers = [];
     }
     
-    var url = `http://data.gdeltproject.org/events/${day}.export.CSV.zip`;
+    var url = `https://raw.githubusercontent.com/muratk5n/gdelt/main/${day}.export.CSV.zip`;
 
     fetch(url).then(res => res.arrayBuffer()).then(arrayBuffer => {
 	var new_zip = new JSZip();
