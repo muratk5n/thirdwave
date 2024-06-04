@@ -811,14 +811,6 @@ Ironically the mapping software itself, Leaflet, is written by a Ukranian.
 
 ---
 
-My GDELT conflict map around Ukraine became massive (too many data
-points, over 800 attack reports in 5 days). Had to downsample,
-otherwise UI isn't responsive.
-
-[[-]](../../2023/01/confstats.html#gdeltukr)
-
----
-
 WION: "As the situation intensifies in Ukraine, with Russia dropping
 bombs every day, one of the world's best snipers, 'Wali', has arrived
 in the embattled nation to help them fight the Russian forces. He is a

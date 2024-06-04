@@ -103,19 +103,6 @@ plt.savefig('gtdafrica.png')
 
 <a name='ukraine'></a>
 
-### Ukraine
-
-Below is the output from VIINA project, it releases a "control file"
-which lists, for every town in Ukraine, whether it is under Russian or
-Ukrainian control. The report sums Russian controlled towns for each
-time period.
-
-[Code](confstats-ukr.py)
-
-[Output](viina-control.png)
-
-<a name='straits'></a>
-
 ### Transport Chokepoints, Straits
 
 ```python
