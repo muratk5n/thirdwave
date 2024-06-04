@@ -117,19 +117,6 @@ plt.savefig('gtdafrica.png')
 <p><img alt="" src="gtdafrica.png" /></p>
 <p><a href="https://www.start.umd.edu/gtd/contact/download">Data</a></p>
 <p><a name='ukraine'></a></p>
-<h3>Transport Chokepoints, Straits</h3>
-<pre><code class="python">import folium, pandas as pd, json
-df = pd.read_csv('straits.csv',sep=';')
-m = folium.Map(location=[30, 20], zoom_start=3)
-for index, row in df.iterrows():
-    points = json.loads(row['Path'])
-    ts = &quot;%s, %0.2f mboe/day, %d Vessels/Year&quot; % (row['Location'],row['Oil'],row['Ships'])
-    folium.PolyLine(points, color='red', tooltip=ts, weight=4.0).add_to(m)
-
-m.save('straits-out.html')
-</code></pre>
-
-<p><a href="straits-out.html">Output</a></p>
         </section>          
       </div>
      <div id="container-dd74f296f8cfa448682e8519034dcf34"></div>

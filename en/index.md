@@ -50,7 +50,7 @@ NPU means Neural Processing Unit, so the machine runs "AI" locally,
 wout going out to the cloud. But I dont think one dinky little
 "neural" processing unit will allow you to run any of these recent
 LLMs locally. It is unclear such an ability would be desired
-either. LLMs are useless for any serious need.
+either. LLMs are useless for any serious real-world need.
 
 Biztech Mag: "Both the [Microsoft] Surface Pro 10 and the Surface
 Laptop 6 feature an NPU"
