@@ -18,7 +18,7 @@
 
 [Age of Discord Math](05/age-of-discord-math.html)
 
-[Solaitaire](05/solitaire-ext.html)
+[Solitaire](05/solitaire-ext.html)
 
 [Conflict Map](06/conflict-ext.html)
 
