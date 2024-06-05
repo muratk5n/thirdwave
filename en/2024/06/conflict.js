@@ -20,11 +20,14 @@ function plotConflicts() {
 }
 
 function init() {
+    document.getElementById("waiting").style.display = "none";
+    document.getElementById("output").innerHTML = "&nbsp;Choose date and click plot";
     display_map();
 }
 
 function showMap(day) {
-
+    document.getElementById("waiting").style.display = "block";
+    document.getElementById("output").innerHTML = "";
     var col_d = {};
     var i = 0;
     for (i = 0; i < cols.length; i++) {
@@ -41,6 +44,7 @@ function showMap(day) {
     var url = `https://raw.githubusercontent.com/muratk5n/gdelt/main/${day}.export.CSV.zip`;
 
     fetch(url).then(res => res.arrayBuffer()).then(arrayBuffer => {
+	var i = 0;
 	var new_zip = new JSZip();
 	new_zip.loadAsync(arrayBuffer)
 	.then(function(zip) {
@@ -49,6 +53,7 @@ function showMap(day) {
 	}).then(function(text) {
 	    var lines = text.split('\n');
 	    lines.forEach(function(line) {
+		i = i + 1;
 		var tokens = line.split('\t');
 		var [lat,lon] = [tokens[col_d['Actor1Geo_Lat']], tokens[col_d['Actor1Geo_Long']]];
 		var code = tokens[col_d['Actor1Type1Code']];
@@ -63,6 +68,12 @@ function showMap(day) {
 	    });
 	}).then(function(done) {
 	    console.log('done');
-	});
+	    document.getElementById("waiting").style.display = "none";
+	    document.getElementById("output").innerHTML = `&nbsp;&nbsp;${i} GDELT Records Processed`;
+	})
+	.catch(error => {
+	    document.getElementById("waiting").style.display = "none";
+	    document.getElementById("output").innerHTML = "&nbsp;&nbsp;Error";
+        })
     });
 }

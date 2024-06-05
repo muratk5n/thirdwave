@@ -20,7 +20,7 @@
            
   <body onload='init()'>
 
-    <div id='datepicker'>
+    <div style="float: left" id='datepicker'>
       <p style="display:none" id="result-1">&nbsp;</p>
       <input type="text" id="demo-1"/>
       <script>
@@ -31,14 +31,19 @@
           }
         });
       </script>
-      
+
       <button onclick="plotConflicts()">Plot Conflicts</button>      
     </div>
-    
-    <div style="margin-top: 20px; height: 500px;" id="map"></div>
+    <div id="waiting">
+       &nbsp;
+      <img  height="20" src="waiting2.gif"/>
+    </div>
+    <div id="output">
+    </div>
+    <br/>
+    <div style="margin-top: 20px; height: 500px" id="map"></div>
     
   </body>
 
 
 </html>
-
