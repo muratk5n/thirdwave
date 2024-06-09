@@ -71,19 +71,6 @@ def household(since):
     df['household income'] = df.MEHOINUSA646N * df.cpi2     
     return df['household income']
     
-def rottentomatoes(movie):
-    rel = movie.replace(" ","_").lower()
-    url = "https://www.rottentomatoes.com"
-    url = url + "/m/" + rel
-    hdr = {'User-Agent':'Mozilla/5.0'}
-    res = urllib2.urlopen(url).read().decode('utf-8')
-    
-    tom = re.findall('"audienceScore":{.*?}',res,re.DOTALL)
-    d1 = json.loads("{" + tom[0] + "}")
-    tom = re.findall('"tomatometerScoreAll":{.*?}',res,re.DOTALL)
-    d2 = json.loads("{" + tom[0] + "}")
-    return {"tomatometer score": d2['tomatometerScoreAll']['value'], "audience score": d1['audienceScore']['value'] }
-
 def map_coords(coords, zoom, outfile):
     m = folium.Map(location=coords[list(coords.keys())[0]], zoom_start=zoom)	
     folium.TileLayer(tiles="https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
@@ -287,6 +274,7 @@ def prepare_ukraine_suriyak():
 
 if __name__ == "__main__": 
 
-    prepare_ukraine_suriyak()
+    #prepare_ukraine_suriyak()
     #prepare_sahel_suriyak()
-    
+
+    rottentomatoes("Furiosa: A Mad Max Saga")
