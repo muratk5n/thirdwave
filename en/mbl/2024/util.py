@@ -274,7 +274,5 @@ def prepare_ukraine_suriyak():
 
 if __name__ == "__main__": 
 
-    #prepare_ukraine_suriyak()
+    prepare_ukraine_suriyak()
     #prepare_sahel_suriyak()
-
-    rottentomatoes("Furiosa: A Mad Max Saga")

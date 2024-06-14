@@ -1,117 +1,93 @@
 
-"@BenjaminHCCarr@hachyderm.io
-
-In a milestone, the \#US exceeds 5 million #solar installations.. The
-5 million milestone comes just eight years after the U.S. achieved its
-first million in 2016 -- a stark contrast to the four decades it took
-to reach that initial milestone... Since the beginning of 2020, more
-than half of all U.S. solar installations have come online, and over
-25% have been activated since \#InflationReductionAct became law 20
-months ago"
-
----
-
-*Atlas* - not bad.. I'd rate it higher than, say, *Kill Command*. It
-references some recent idiotic sci takes, real-life characters in the
-beginning, but moves on to tell its independent story. I recommend
-it. 
+Forbes: "Hydrogen Crane Deployment At The Port Of Los Angeles.. The
+Port of Los Angeles will serve as one of the primary locations for the
+ARCHESH2 projects, known as the California Hydrogen Hub, which was
+recently designated by the Department of Energy. The California
+hydrogen hub is expected to receive a substantial amount of funding,
+up to $1.2 billion from DOE, facilitating an overall investment of up
+to 15 billion in hydrogen technologies. Pioneering projects like
+PACECO's hydrogen-powered crane are indicative of the exciting
+deployments to come in decarbonizing ports in Los Angeles and reducing
+pollution in the region as a whole"
 
 ---
 
-*Fall Guy* entertaining, though some scenes linger little too long.
-Generally ok.
+After "the deluge" the BEV makers probably won't be completely
+crushed. They have powertrain technology, they can simply swap out the
+battery with H2 gas tank, connect it to their powertrain, power the
+electric motor that way. All their efforts were not in vain, but they
+cannot stay around in their current form and expect not to be (partly)
+crushed. They bet on an inferior technology. There will be a price to
+pay.
 
 ---
 
-I dont think anyone is talking about Furiosa, period. The movie
-bombed.
+McQuarrie, Jennerson, these are all great names. 
 
-TDB: "Why Isn’t Anyone Talking About the Real Star of ‘Furiosa’?"
+\#Burnett \#Trek
 
----
-
-For things that need to run faster, can always paralelize the task ie
-run it concurrently. Concurrency is still underutilized in many
-applications.
+[[-]](https://youtu.be/fWk-0elDv4w?t=3178)
 
 ---
 
-"@Shrigglepuss@godforsaken.website
+"@ian@hachyderm.io
 
-I'm really really really not interested in computers getting more
-powerful... I am super interested in them being more repairable and
-modifiable, drawing less power, lasting and being supported for way
-longer etc"
+At what point does the industry in need of disruption become the tech
+industry"
 
 ---
 
-First order of business outlaw tax havens. Second order of business,
-outlaw all SEZ.
+He'll be sweatin
+
+"@GossiTheDog@cyberplace.social
+
+Microsoft are having a good day 😬"
+
+<img width='340' src='https://cyberplace.social/system/media_attachments/files/112/609/508/914/192/425/small/c36e0e5ba294d755.jpeg'/> 
 
 ---
 
-It's no joke, inside those places private firms rule, the host country
-turns a blind eye to employer offenses, there are no unions, companies
-set the rules. I'm convinced they could shoot a man at will, cover it
-up, and the legal framework would allow it \#SEZ
+Cyberscoop: "Microsoft’s Recall puts the Biden administration’s cyber
+credibility on the line.. Why has the White House remained silent on
+the launch of a product that violates the spirit and letter of its
+flagship cybersecurity initiatives?"
 
 ---
 
-Kennard, *Silent Coup*: "[W]e next wanted to look into the secession
-of territory globally to private investors... we found a lawyer.. who
-had described how [Special Economic Zones] SEZs vary widely in their
-details, but that they often involve 'excluding or modifying the
-application of parts of the national law in defined geographic areas'
+The statement below assumes extracted carbon = newly deposed carbon
+which cancels out, we get net zero. But after carbon is extracted to
+make synthetic methane, the produced methane needs to be tracked
+seperately from carbon, methane is its own GHG, 20 times more potent
+than carbon. The budgeting makes incorrect assumptions.
 
-These weren’t just carve-outs of physical territory, therefore – they
-were also exceptional spaces where normal rules didn’t necessarily
-apply. These zones also seemed to often offer the – sometimes explicit
-– promise of a steady supply of cheap and compliant labour for
-investors’ factories. The reality of promised jobs included numerous
-reports of worker’s rights abuses in ‘sweatshops’.
-
-The ILO said ‘trade unions point to these zones as being islands,
-outside the scope of traditional industrial relations ... that are a
-symptom of the race to the bottom in the global economy.’ A worldwide
-patchwork of these spaces seemed to mean that, once one workforce
-began to mobilize and demand better wages or conditions, companies
-could leave and move on to another.
-
-The World Bank, we found, had produced many reports studying and
-promoting SEZs.  Along with investing in private businesses, its IFC
-branch and other bank teams gave developing country governments
-‘advice’ on how to make themselves more attractive to private
-investors, including what laws they should change. Such zones seemed
-to be a regular item on the menu.. [A] researcher at Utrecht
-University, had studied SEZs for years. They are commonly 'regulated
-differently than a nation’s 'normal' territory, to the extent that
-they may have their own police forces with considerable sovereignty',
-he said"
+I am not a big fan of synthetic fuels made by recycling carbon. The
+world needs the cleanest solution, in its purest form. We need to cut
+the knot, like Alexander, not untie it. Attempting to extend existing
+systems, like "the grid", or fossil fuels by supposedly making
+synthetic versions of the latter while "being careful about their
+carbon budgeting" will result in a fragile system and be too open to
+cheating. Imagine the Volkswagen situation multiplied by 10. 
 
 ---
 
-The National Interest: "TOS-1A: Russia's Thermobaric Artillery Is One
-Horrific Nightmare Weapon.. When deployed, thermobaric ordnance is a
-devastating weapon as it employs oxygen from the surrounding air to
-generate a high-temperature explosion. Also known as aerosol or vacuum
-bombs, these can create a  massive shockwave followed by a fire cloud
-where the temperature can reach 2500-3000 degrees Celsius (4500-5450
-Fahrenheit). In addition to certainly killing anyone within the blast
-radius, the heat from the weapon can cause significant damage to
-structures and vehicles –igniting any fuels and lubricants, as well as
-setting off any ordnance. Many targets are essentially vaporized"
+Hmm
+
+"Combined with carbon extracted from the atmosphere, biomass or
+industrial emissions, [we can produce] methane, synthetic oil,
+ammonia, methanol or other net-zero-emissions fuels"
 
 ---
 
-"Mercedes DUMPS EV Production As Profits Are In The Toilet!"
-
-[[-]](https://youtu.be/EyLhLJtwdhk?t=99)
+Design News: "Honda Launches Production of Hydrogen Fuel Cell
+SUV.. Honda has converted its Performance Manufacturing Center
+low-volume factory in Marysville, Ohio from building the Acura NSX
+sports car to building hydrogen fuel cell-powered versions of the
+company's CR-V compact crossover SUV"
 
 ---
 
-Al Jazeera: "The United Nations is adding Israel to its so-called
-“blacklist” of countries that have committed abuses against children
-in armed conflict"
+Anatolian Agency: "UN-backed commission says Israel committed 'war
+crimes, crimes against humanity' in Gaza since Oct. 7"
 
 ---
 
@@ -151,7 +127,7 @@ in armed conflict"
 
 [By Year](years.html)
 
-[Search](search.html)
+[Search](https://muratk5n.github.io/thirdwave/en/search.html)
 
 [Microblog Archive](mbl/index.html)
 
@@ -161,3 +137,6 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
+
+
+
