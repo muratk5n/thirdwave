@@ -42,10 +42,10 @@ async function searchText() {
     N = Math.min(20,keyValues.length);
     var out = ""
     for (var i=0;i<N;i++) {
+	var article = keyValues[i][0].replace(".md",".html");
 	out +=
 	    '<p><a target="_blank" href="' +
-	    'https://muratk5n.github.io/thirdwave/en/' + keyValues[i][0] + '">' +
-	    keyValues[i][0] +
+	    'https://muratk5n.github.io/thirdwave/en/' + article + '">' + article +
 	    '</a></p>';
 	
 	document.getElementById("output").innerHTML = out;
