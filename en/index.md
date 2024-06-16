@@ -1,93 +1,99 @@
 
-Forbes: "Hydrogen Crane Deployment At The Port Of Los Angeles.. The
-Port of Los Angeles will serve as one of the primary locations for the
-ARCHESH2 projects, known as the California Hydrogen Hub, which was
-recently designated by the Department of Energy. The California
-hydrogen hub is expected to receive a substantial amount of funding,
-up to $1.2 billion from DOE, facilitating an overall investment of up
-to 15 billion in hydrogen technologies. Pioneering projects like
-PACECO's hydrogen-powered crane are indicative of the exciting
-deployments to come in decarbonizing ports in Los Angeles and reducing
-pollution in the region as a whole"
+"@skyfaller@jawns.club
+
+.. Since LLMs have also infected print books and scientific journals
+with misinfo, it won't just be the effective end of the Web. It will
+be the end of all sources that you don't have a personal connection
+with. Finding new info will require finding a human who can tell you
+through real- world experience whether that mushroom foraging guide is
+dangerous nonsense"
 
 ---
 
-After "the deluge" the BEV makers probably won't be completely
-crushed. They have powertrain technology, they can simply swap out the
-battery with H2 gas tank, connect it to their powertrain, power the
-electric motor that way. All their efforts were not in vain, but they
-cannot stay around in their current form and expect not to be (partly)
-crushed. They bet on an inferior technology. There will be a price to
-pay.
+Rigzone: "Peoples, an essential utilities company, is spearheading a
+demonstration project to produce zero-emission hydrogen energy at
+scale. The project, underway in Western Pennsylvania, is a joint
+undertaking by Peoples, H Quest and the University of Pittsburgh’s
+Swanson School of Engineering, Peoples said in a statement. [The
+company] installed one of H Quest’s proprietary microwave pyrolysis
+units at its training center in McKeesport to transform natural gas
+into pure hydrogen (H2) without CO2 emissions. The process creates
+what is often referred to as turquoise hydrogen"
+
+<img width='340' src='https://images.rigzone.com/images/news/articles/Pilot-Project-Targets-Production-of-ZeroEmission-Hydrogen-177076-582x327.webp'/> 
 
 ---
 
-McQuarrie, Jennerson, these are all great names. 
+"@nemeciii@mastodon.social
 
-\#Burnett \#Trek
+Megaconstellations like Starlink will increase atmospheric aluminum
+oxide amounts to 646% over natural levels ( +360 metric tons / year ).
 
-[[-]](https://youtu.be/fWk-0elDv4w?t=3178)
+It will take up to 30 years for the aluminum oxides to drift down to
+stratospheric altitudes, where 90% of Earth's ozone is located.
 
----
-
-"@ian@hachyderm.io
-
-At what point does the industry in need of disruption become the tech
-industry"
+Once there aluminum oxide will act as a catalyst with chlorine harming
+the ozone layer"
 
 ---
 
-He'll be sweatin
-
-"@GossiTheDog@cyberplace.social
-
-Microsoft are having a good day 😬"
-
-<img width='340' src='https://cyberplace.social/system/media_attachments/files/112/609/508/914/192/425/small/c36e0e5ba294d755.jpeg'/> 
+Deihl: "H.R. 8070, the National Defense Authorization Act (NDAA) for
+fiscal year 2025 features the usual increase in “defense” spending to
+a record $883.7 billion.. 883.7 billion works out to about 2600, for
+each one of us Americans spreading corporatocracy far and wide, shell
+by shell, proxy war by proxy war."
 
 ---
 
-Cyberscoop: "Microsoft’s Recall puts the Biden administration’s cyber
-credibility on the line.. Why has the White House remained silent on
-the launch of a product that violates the spirit and letter of its
-flagship cybersecurity initiatives?"
+\#Owens \#Gray
+
+[[-]](https://youtu.be/kngK3gX8X-M)
 
 ---
 
-The statement below assumes extracted carbon = newly deposed carbon
-which cancels out, we get net zero. But after carbon is extracted to
-make synthetic methane, the produced methane needs to be tracked
-seperately from carbon, methane is its own GHG, 20 times more potent
-than carbon. The budgeting makes incorrect assumptions.
-
-I am not a big fan of synthetic fuels made by recycling carbon. The
-world needs the cleanest solution, in its purest form. We need to cut
-the knot, like Alexander, not untie it. Attempting to extend existing
-systems, like "the grid", or fossil fuels by supposedly making
-synthetic versions of the latter while "being careful about their
-carbon budgeting" will result in a fragile system and be too open to
-cheating. Imagine the Volkswagen situation multiplied by 10. 
+Energy Live News: "Wales & West Utilities (WWU) has launched a study,
+funded by Ofgem, to investigate how the UK's existing gas network can
+be adapted for hydrogen refuelling stations"
 
 ---
 
-Hmm
-
-"Combined with carbon extracted from the atmosphere, biomass or
-industrial emissions, [we can produce] methane, synthetic oil,
-ammonia, methanol or other net-zero-emissions fuels"
-
----
-
-Design News: "Honda Launches Production of Hydrogen Fuel Cell
-SUV.. Honda has converted its Performance Manufacturing Center
-low-volume factory in Marysville, Ohio from building the Acura NSX
-sports car to building hydrogen fuel cell-powered versions of the
-company's CR-V compact crossover SUV"
+Nick Bano: "Worth remembering that [UK] ‘intentional homelessness’ was
+invented to prevent queue-jumping for council flats.. Things have
+degraded, and the problem it was designed to solve is now
+unimaginable. It’s a relic in a country with world-beating
+homelessness statistics"
 
 ---
 
-Anatolian Agency: "UN-backed commission says Israel committed 'war
-crimes, crimes against humanity' in Gaza since Oct. 7"
+\#Frontline \#UA \#RU 06/06 - 06/14
+
+[[-]](mbl/2024/ukrdata/map22-ext.html)
+
+---
+
+Tony Blink Blink 737 must have overruled it. This smells like the
+doing of the surface state... Military-industrial-donor complex
+control of high-levels of goverment is on display. The depths are
+fine, the top is corrupted, amoral, mercantile.
+
+The Guardian: "The state department falsified a report earlier this
+month to absolve Israel of responsibility for blocking humanitarian
+aid flows into Gaza, overruling the advice of its own experts,
+according to a former senior US official who resigned this week.
+
+Stacy Gilbert left her post as senior civil military adviser in the
+state department’s bureau of population, refugees and migration, on
+Tuesday. She had been one of the department’s subject matter experts
+who drafted the report mandated under national security memorandum 20
+(NSM-20) and published on 10 May...
+
+Even more controversially, the report said the state department did
+not 'currently assess that the Israeli government is prohibiting or
+otherwise restricting the transport or delivery of US humanitarian
+assistance' in Gaza. It was a high-stakes judgment because under a
+clause in the Foreign Assistance Act, the US would be obliged to cut
+arms sales and security assistance to any country found to have
+blocked delivery of US aid"
 
 ---
 

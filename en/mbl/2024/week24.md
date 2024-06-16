@@ -1,5 +1,187 @@
 # Week 24
 
+The Buzz EV News: "Schaeffler showcases hydrogen electrolyzers, fuel
+cells..  [the company] is also demonstrating progress toward
+commercialization of green hydrogen at the Hydrogen Americas 2024
+Summit and Exhibition.
+
+Schaeffler says its core competencies – honed through its bearings
+production that requires exact tolerances in engine, transmission and
+industrial component manufacturing, along with its team of scientists,
+technology labs and strategic acquisitions of hydrogen-focused
+technology companies – equip it to deliver the products and
+technologies needed to scale the market, the company said.
+
+According to Schaeffler, its experience with cold forming, stamping,
+coating, sealing and assembly technologies positions the motion
+technology company as an important player in the construction of
+electrolyzer and fuel cell stacks"
+
+---
+
+Politico: "Kevin McCarthy’s vaunted political operation launched its
+revenge tour against the Republicans who ousted him from the
+speakership with a multimillion-dollar blitz against Rep. Nancy Mace
+of South Carolina... But after Mace crushed her challengers in a
+Tuesday primary, Republicans in Washington are openly asking: What’s
+the point of all this?"
+
+---
+
+Politico: "Hakeem Jeffries is locked in an electoral battle with
+socialist activists in his home district, and he's in danger of
+losing"
+
+---
+
+Even a casual reading of Abrahamic religions suggests they value piece
+more than war, including Christianity. Is Hanson that dumb or has
+another agenda?
+
+Victor Davis Hanson: "Tucker Carlson and Candace Owens Do Not
+Represent Most Christians Or Americans On Israel"
+
+---
+
+Lefty move from Trudeau.. Very good.
+
+CBC: "Liberal government takes first step toward changing capital
+gains tax.. Provinces should use revenue boost from capital gains to
+compensate doctors for impact to income"
+
+---
+
+Russia could become a center of science. US acted as the steward of
+world science after Europe lost its crown, but their scorecard on it
+has been spotty. The scientific enterprise needs to be driven from
+Eurasia..
+
+TASS: "Russia will significantly expand its program on attracting
+specialists from abroad.. 'Following the new decision that we made
+very recently, the mega grant program will be significantly expanded,
+its funding will be increased, new areas will be included, and more
+effective mechanisms for distributing grants with the help of the
+Russian Science Foundation will be proposed,' the President said"
+
+---
+
+WION: "Putin slams West's 'hypocrisy', sets out conditions for peace
+talks with Ukraine.. 'So far, the West has been ignoring our
+interests. While they forbid Kyiv to negotiate, they hypocritically
+call on us to start some sort of negotiations. It just looks idiotic,'
+he said during the address"
+
+---
+
+UA is switching to 155? Starting with 152 was a bad idea... Another
+example demonstrating Ukraine wasn't truly ready for real war, only
+acting as a dumping ground for Western military tech.
+
+Lawfare: "One specific aspect of military aid reflects.. its partners’
+current failure: the Ukrainian armed forces’ artillery shell
+shortage... Part of the problem is the dated Ukrainian arsenal, which
+consists mostly of Soviet-era designs of 122 mm and 152 mm caliber
+artillery. The Ukrainian armed forces have begun to transition to more
+modern.. 155 mm caliber artillery systems provide longer range, higher
+rate of fire, greater accuracy, and a greater variety of specialized
+munitions than the 152 mm systems"
+
+[[-]](https://www.lawfaremedia.org/article/ukraine-s-artillery-shell-shortfall)
+
+---
+
+Forbes: "Hydrogen Crane Deployment At The Port Of Los Angeles.. The
+Port of Los Angeles will serve as one of the primary locations for the
+ARCHESH2 projects, known as the California Hydrogen Hub, which was
+recently designated by the Department of Energy. The California
+hydrogen hub is expected to receive a substantial amount of funding,
+up to $1.2 billion from DOE, facilitating an overall investment of up
+to 15 billion in hydrogen technologies. Pioneering projects like
+PACECO's hydrogen-powered crane are indicative of the exciting
+deployments to come in decarbonizing ports in Los Angeles and reducing
+pollution in the region as a whole"
+
+---
+
+After "the deluge" the BEV makers probably won't be completely
+crushed. They have powertrain technology, they can simply swap out the
+battery with H2 gas tank, connect it to their powertrain, power the
+electric motor that way. All their efforts were not in vain, but they
+cannot stay around in their current form and expect not to be (partly)
+crushed. They bet on an inferior technology. There will be a price to
+pay.
+
+---
+
+McQuarrie, Jennerson, these are all great names. 
+
+\#Burnett \#Trek
+
+[[-]](https://youtu.be/fWk-0elDv4w?t=3178)
+
+---
+
+"@ian@hachyderm.io
+
+At what point does the industry in need of disruption become the tech
+industry"
+
+---
+
+He'll be sweatin
+
+"@GossiTheDog@cyberplace.social
+
+Microsoft are having a good day 😬"
+
+<img width='340' src='https://cyberplace.social/system/media_attachments/files/112/609/508/914/192/425/small/c36e0e5ba294d755.jpeg'/> 
+
+---
+
+Cyberscoop: "Microsoft’s Recall puts the Biden administration’s cyber
+credibility on the line.. Why has the White House remained silent on
+the launch of a product that violates the spirit and letter of its
+flagship cybersecurity initiatives?"
+
+---
+
+The statement below assumes extracted carbon = newly deposed carbon
+which cancels out, we get net zero. But after carbon is extracted to
+make synthetic methane, the produced methane needs to be tracked
+seperately from carbon, methane is its own GHG, 20 times more potent
+than carbon. The budgeting makes incorrect assumptions.
+
+I am not a big fan of synthetic fuels made by recycling carbon. The
+world needs the cleanest solution, in its purest form. We need to cut
+the knot, like Alexander, not untie it. Attempting to extend existing
+systems, like "the grid", or fossil fuels by supposedly making
+synthetic versions of the latter while "being careful about their
+carbon budgeting" will result in a fragile system and be too open to
+cheating. Imagine the Volkswagen situation multiplied by 10. 
+
+---
+
+Hmm
+
+"Combined with carbon extracted from the atmosphere, biomass or
+industrial emissions, [we can produce] methane, synthetic oil,
+ammonia, methanol or other net-zero-emissions fuels"
+
+---
+
+Design News: "Honda Launches Production of Hydrogen Fuel Cell
+SUV.. Honda has converted its Performance Manufacturing Center
+low-volume factory in Marysville, Ohio from building the Acura NSX
+sports car to building hydrogen fuel cell-powered versions of the
+company's CR-V compact crossover SUV"
+
+---
+
+Anatolian Agency: "UN-backed commission says Israel committed 'war
+crimes, crimes against humanity' in Gaza since Oct. 7"
+
+---
+
 Elektrek: "This past week, I attended the Micromobility Europe event
 in Amsterdam, where I saw many familiar company faces and several new
 ones in the broader micromobility world. One of the most fascinating
