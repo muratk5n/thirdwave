@@ -65,7 +65,7 @@ homelessness statistics"
 
 ---
 
-\#Frontline \#UA \#RU 06/06 - 06/14
+\#Frontline \#UA \#RU 06/06 - 06/15
 
 [[-]](mbl/2024/ukrdata/map22-ext.html)
 
@@ -143,6 +143,3 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
-
-
-
