@@ -73,8 +73,8 @@ homelessness statistics"
 
 Tony Blink Blink 737 must have overruled it. This smells like the
 doing of the surface state... Military-industrial-donor complex
-control of high-levels of goverment is on display. The depths are
-fine, the top is corrupted, amoral, mercantile.
+control of high-levels of goverment on display. The depths are fine,
+the top is corrupted, amoral, mercantile.
 
 The Guardian: "The state department falsified a report earlier this
 month to absolve Israel of responsibility for blocking humanitarian
