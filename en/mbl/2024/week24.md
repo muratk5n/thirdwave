@@ -34,7 +34,7 @@ losing"
 
 ---
 
-Even a casual reading of Abrahamic religions suggests they value piece
+Even a casual reading of Abrahamic religions suggests they value peace
 more than war, including Christianity. Is Hanson that dumb or has
 another agenda?
 
@@ -627,3 +627,6 @@ Al Jazeera: "The United Nations is adding Israel to its so-called
 in armed conflict"
 
 ---
+
+
+
