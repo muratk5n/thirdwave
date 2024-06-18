@@ -1,101 +1,113 @@
 
-Barron's: "DR Congo weighs legal move against Apple in mining
-dispute.. The government of the Democratic Republic of Congo is
-studying legal action against Apple in France and the United States,
-after accusing the US tech giant of using “illegally exploited”
-minerals, its lawyers said Thursday"
+Government Technology: "Hydrogen-Powered Train Travels 1,750 Miles on
+Single Tank.. A hydrogen fuel-powered passenger train set a Guinness
+World Record for distance traveled on a test track in March. The
+trains, from Swiss manufacturer Stadler, are slated to go into use in
+San Bernardino County, Calif."
 
 ---
 
-The National News: "Broaden Energy invests $272m to set up hydrogen
-equipment plant in Abu Dhabi"
+SCMP: "At the International Hydrogen Fuel Cell Vehicle Congress and
+Exhibition in Shanghai last week, more than 300 companies from
+countries including China, Japan, Korea and Canada came to showcase
+their latest technology and products"
 
 ---
 
-"Everfuel proposes 2-GW green H2 project in Denmark"
+CNBC: "A staggering 90% of employees in the UK are 'quiet quitting' as
+they seek out other opportunities, Gallup report says"
 
 ---
 
-"@QasimRashid@mastodon.social
+Dessler: "Is climate change making Florida's flooding worse?.. Warmer
+air can hold more water vapor — about 7% more for every degree Celsius
+increase in temperature. Consequently, the air converging into a storm
+system in a warmer climate carries more water vapor. Since most of the
+water vapor entering the storm’s updraft will fall out as rain,
+everything else the same, more water in the air flowing into the storm
+will lead to more intense rainfall. That’s it. Not terribly
+complicated...
 
-Me: Billionaire philanthropy is PR. Tax billionaires
+[T]he IPCC’s synthesis report concluded.. 'The frequency and intensity
+of heavy precipitation events have increased since the 1950s over most
+land areas for which observational data are sufficient for trend
+analysis (high confidence), and human-caused climate change is likely
+the main driver.. The projected increase in frequency and intensity of
+heavy precipitation (high confidence) will increase rain-generated
+local flooding'"
 
-Troll: Lol you trust Govt to spend our money?
-
-Me: Yes the Govt elected by We the People, who is accountable, & can be voted out
-
-Troll: Govt is bought
-
-Me: By who?
-
-Troll: By billionai—...
-
-Me: ...
-
-Troll: Ok Tax billionaires"
-
----
-
-ABC Australia: "Too many children with long COVID are suffering in
-silence. Their greatest challenge? The myth that the virus is
-'harmless' for kids"
+[[-]](https://www.theclimatebrink.com/p/did-climate-change-make-floridas)
 
 ---
 
-Standards. Free, Open Source. Files. Directories. Simple File Servers.
-It's a thing.
+Doctorow: "Bill Gates didn't become one of the richest people on earth
+simply by [luck]; he also owed his success to vigorous antitrust
+enforcement. The IBM PC was the company's first major initiative after
+it was targeted by the DOJ for a 12-year antitrust enforcement
+action. IBM tapped its vast monopoly profits to fight the DOJ,
+spending more on outside counsel to fight the DOJ antitrust division
+than the DOJ spent on all its antitrust lawyers, every year, for 12
+years.. [later] Reagan let IBM off the hook.  But the company was
+still seriously scarred by its ordeal, and when the PC project kicked
+off, the company kept the OS separate from the hardware (one of the
+DOJ's major issues with IBM's previous behavior was its vertical
+monopoly on hardware and software). IBM didn't hire Gates and Allen to
+provide it with DOS because it was incapable of writing a PC operating
+system: they did it to keep the DOJ from kicking down their door
+again"
+
+[[-]](https://pluralistic.net/2024/06/14/patch-tuesday/)
 
 ---
 
-Most modern web servers allow this, can skip ahead to specific
-location in a file. Any OS worth its salt can do that for its local
-file access, RFC 9110 simply provides a web interface.
+If ancient Greeks knew, they would toss lithium-ion batteries onto
+enemy ships, then that would be the Greek fire.
 
 ---
 
-There was a massive binary file sitting on a simple file server
-(terrain data). Downloading it all to client is no go. The alternative
-u compute direct index access and read specific bytes only, and do
-this via 100+ micro requests, then combine data on the client. No need
-to dload, best part no need for an app server - a whole seperate
-service responding to complex requests. 
+I'd swim away as fast as possible away from that f-ing battery. Electrocution
+aside it can catch fire, sea water would not put it out bcz lithium-ion fires
+are self-oxidizing. So you will get a shock **and** burn, at the same time!
 
 ---
 
-I finally got to use the Web standard RFC 9110 -range requests- in a
-serious app.
+If you are on a battery-electric boat and it sinks, while a shark
+approaching do you stay on boat get electrocuted when the water hits
+the battery or swim away and get bitten by a shark? 😂 😂. \#DJT
 
 ---
 
-CNBC: "China and India lead the charge as digital wallets overtake
-cash and cards in Asia"
+The American Conservative: "Trump Visits the Bronx.. The crowd at the
+New York City rally was diverse in the literal sense of the
+word... Standing in that crowd—black, white, and every shade in
+between—I found it hard not to laugh at the countless articles
+denouncing Trump as the candidate of white supremacy. There were girls
+in cowboy hats and crop tops, guys with neck tattoos and Trump
+chains. Young orthodox Jews rubbed shoulders with old church ladies...
+
+[M]ost of the people at Trump’s rally worked with their hands or ran
+businesses in the non-symbolic economy. Trump seemed to intuit this
+and spent an inordinate amount of time talking about construction
+projects he’d been involved in—the Wollman Rink in Central Park, the
+border wall. He launched into long excurses on copper tubing and
+concrete planks. He dilated on the type of work that needed to be done
+to fix the subway system. The crowd ate it up"
 
 ---
 
-Second installation, so so.. the third, really bad. Check [this out](https://cdn.fosstodon.org/media_attachments/files/112/613/517/112/417/913/original/aaf7082098b51d02.jpg).
-F-ing Van Wilders in the cast... How could it not suck? Where was
-the Volkswagen hat?
+Politico: "Swing district Republicans have been eager to pillory
+President Joe Biden on the economy but have by and large stayed away
+from making abortion the centerpiece of their campaigns"
 
 ---
 
-The first *Blade* was great, Wesley Snipes was fantastic in the role.
+F24: "Philippine ship, Chinese vessel collide in disputed South China
+Sea"
 
 ---
 
-It don't matter if you are black or white, you'll get cucked all the
-same. Woke knows no bounds.
-
----
-
-Another Marvel screw up. The chatter has it the studio wants Woke, but
-Ali is resisting.
-
-Kotaku: "Marvel’s upcoming *Blade* movie is back in the news and yet
-again it isn’t for good reasons. Yann Demange (‘71 and *Lovecraft
-Country*) has left the project as director, which marks the second
-director to exit the film in three years. This is the latest setback
-for the project, which was announced in 2019 with much anticipation as
-it would see Oscar winner Mahershala Ali take on the role"
+TASS: "If Putin’s Ukraine peace proposal rejected, next offer to be
+tougher — Russian intel chief"
 
 ---
 
