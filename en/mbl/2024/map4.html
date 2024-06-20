@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_2513c13b497c4e3ca57bdf374db3c1a9 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_2513c13b497c4e3ca57bdf374db3c1a9" ></div>
+        
+</body>
+<script>    
+    
+            var map_2513c13b497c4e3ca57bdf374db3c1a9 = L.map(
+                "map_2513c13b497c4e3ca57bdf374db3c1a9",
+                {
+                    center: [-33.176793409, 95.300021451],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 4,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_419b52c3a8964ed6a521cce634d710ac = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_2513c13b497c4e3ca57bdf374db3c1a9);
+        
+    
+            var tile_layer_5ef762da2f5e4f539df23e7bd39d14ea = L.tileLayer(
+                "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+                {"attribution": "attribution", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "mytilesubdomain", "tms": false}
+            ).addTo(map_2513c13b497c4e3ca57bdf374db3c1a9);
+        
+    
+            var marker_0d5dccf09fef4c4eaf748af74dd337b0 = L.marker(
+                [-33.176793409, 95.300021451],
+                {}
+            ).addTo(map_2513c13b497c4e3ca57bdf374db3c1a9);
+        
+    
+        var popup_81854822e8314bbc9bca7a6f2a0de1c4 = L.popup({"autoClose": false, "maxWidth": "100%"});
+
+        
+            var html_2d78b55418b74b2580671ea4cea0b533 = $(`<div id="html_2d78b55418b74b2580671ea4cea0b533" style="width: 100.0%; height: 100.0%;">MH 370 (Guess)</div>`)[0];
+            popup_81854822e8314bbc9bca7a6f2a0de1c4.setContent(html_2d78b55418b74b2580671ea4cea0b533);
+        
+
+        marker_0d5dccf09fef4c4eaf748af74dd337b0.bindPopup(popup_81854822e8314bbc9bca7a6f2a0de1c4)
+        .openPopup();
+
+        
+    
+    
+            var marker_b5dd4233690f43ff943dc59400ea0909 = L.marker(
+                [2.8181270526, 102.18700262],
+                {}
+            ).addTo(map_2513c13b497c4e3ca57bdf374db3c1a9);
+        
+    
+        var popup_c188dc61d4524909937b6aa3a529b630 = L.popup({"autoClose": false, "maxWidth": "100%"});
+
+        
+            var html_829275f2d4bd4003a9f19463c58bec01 = $(`<div id="html_829275f2d4bd4003a9f19463c58bec01" style="width: 100.0%; height: 100.0%;">Kuala Lumpur Intl Airport</div>`)[0];
+            popup_c188dc61d4524909937b6aa3a529b630.setContent(html_829275f2d4bd4003a9f19463c58bec01);
+        
+
+        marker_b5dd4233690f43ff943dc59400ea0909.bindPopup(popup_c188dc61d4524909937b6aa3a529b630)
+        .openPopup();
+
+        
+    
+    
+            var marker_3bb191203c114317ad7e4e7ab282a911 = L.marker(
+                [9.494954545014316, 94.34137193498134],
+                {}
+            ).addTo(map_2513c13b497c4e3ca57bdf374db3c1a9);
+        
+    
+        var popup_c5f2ad2d71b24f21a14aeb8be8c1b865 = L.popup({"autoClose": false, "maxWidth": "100%"});
+
+        
+            var html_54acba6f6a984ef785e050d6d95b754b = $(`<div id="html_54acba6f6a984ef785e050d6d95b754b" style="width: 100.0%; height: 100.0%;">Last Radar Contact</div>`)[0];
+            popup_c5f2ad2d71b24f21a14aeb8be8c1b865.setContent(html_54acba6f6a984ef785e050d6d95b754b);
+        
+
+        marker_3bb191203c114317ad7e4e7ab282a911.bindPopup(popup_c5f2ad2d71b24f21a14aeb8be8c1b865)
+        .openPopup();
+
+        
+    
+    
+            var marker_33e5b4fc2b474dc9b6fbbb9a6abee1ce = L.marker(
+                [-34.12047627550245, 115.07422816400911],
+                {}
+            ).addTo(map_2513c13b497c4e3ca57bdf374db3c1a9);
+        
+    
+        var popup_9f11c2f4af9b46f39e3e7eba1a5d1747 = L.popup({"autoClose": false, "maxWidth": "100%"});
+
+        
+            var html_a7546d544f734a4299fd548457e7e495 = $(`<div id="html_a7546d544f734a4299fd548457e7e495" style="width: 100.0%; height: 100.0%;">Cape Leeuwin Station</div>`)[0];
+            popup_9f11c2f4af9b46f39e3e7eba1a5d1747.setContent(html_a7546d544f734a4299fd548457e7e495);
+        
+
+        marker_33e5b4fc2b474dc9b6fbbb9a6abee1ce.bindPopup(popup_9f11c2f4af9b46f39e3e7eba1a5d1747)
+        .openPopup();
+
+        
+    
+    
+            var marker_26e5e9c80b0845718f75d63eb9c26dbb = L.marker(
+                [-3.563662449473406, 71.45723047558245],
+                {}
+            ).addTo(map_2513c13b497c4e3ca57bdf374db3c1a9);
+        
+    
+        var popup_1cca8fc9097e47da80d5b7117fc5cda9 = L.popup({"autoClose": false, "maxWidth": "100%"});
+
+        
+            var html_20e3dd97bddc48d989b8fc505d7ca212 = $(`<div id="html_20e3dd97bddc48d989b8fc505d7ca212" style="width: 100.0%; height: 100.0%;">Diego Garcia</div>`)[0];
+            popup_1cca8fc9097e47da80d5b7117fc5cda9.setContent(html_20e3dd97bddc48d989b8fc505d7ca212);
+        
+
+        marker_26e5e9c80b0845718f75d63eb9c26dbb.bindPopup(popup_1cca8fc9097e47da80d5b7117fc5cda9)
+        .openPopup();
+
+        
+    
+</script>
