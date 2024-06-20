@@ -1,5 +1,265 @@
 # Week 25
 
+RFK Jr: "Two years ago the average cost of a house in this country was
+$215,000, today it's 400,000. There are three giant corporations Black
+Rock State Street and Vanguard, they also own 89% of the S&P 500,
+they've now decided to buy every single family home in America. They
+stay on the current trajectory, they will own 60% of the homes in this
+country, single family homes by 2030. Your kids do not have a chance
+to buy that home because they can't out compete Black Rock. I'm going
+to change the tax code to make it unprofitable for those companies to
+compete against your children for housing. I'm going to make a
+mortgage available to Americans at 3% interest I'm going to finance
+those mortgages by selling tax-free Bonds on the open market available
+to first time home buyers who will live in that Community"
+
+---
+
+"rbreich@masto.ai
+
+Prior to 1982, the SEC considered stock buybacks to be illegal stock
+manipulation. But under President Reagan, stock buybacks were made
+legal"
+
+---
+
+They gaslight, add two, three, five layers of culture war on top, but
+once you have the right key, the root cause of the chaos becomes
+crystal clear. Your government does not work for you.
+
+---
+
+Yep. And if guns were banned, that would hurt the business of arms
+manufacturers... It is clear who the system protects, and is guided
+by.
+
+"@SNerd@lor.sh
+
+@Albatross Because when a plane is blown up, it hurts business"
+
+---
+
+"@Albatross@mastodon.sdf.org
+
+In 2001 a fool tried to blow up a jet with a shoe bomb so we've had to
+take off our shoes at the airport for the last 23 years. In 2006
+morons tried to blow up a jet with liquids, so for 18 years we can't
+bring liquids onto a plane.
+
+But in 2017 a lunatic murdered 60 people in Las Vegas, and that got
+the bump-stock firearm he used banned for seven whole years until
+yesterday.
+
+---
+
+\#Recall \#MS
+
+[[-]](https://cyberplace.social/system/media_attachments/files/112/619/725/307/145/577/original/c96d13d151abe209.png)
+
+---
+
+Doctorow: "The IBM PC story teaches us two things: stronger antitrust
+enforcement spurs innovation and opens markets for scrappy startups to
+grow to big, important firms; as do weaker IP protections.
+
+Microsoft learned the opposite: monopolies are wildly profitable;
+expansive IP protects monopolies; you can violate antitrust laws so
+long as you have enough monopoly profits rolling in to outspend the
+government until a Republican bootlicker takes the White House
+(Microsoft's antitrust ordeal ended [with Dubya])...
+
+Microsoft's secret sauce is *impunity*. The PC companies that bundle
+Windows with their hardware are held blameless for the glaring defects
+in Windows. The IT managers who buy company-wide Windows licenses are
+likewise insulated from the rage of the workers who have to use
+Windows and other Microsoft products.
+
+Microsoft doesn't have to care if you hate it because, for the most
+part, it's not selling to you. It's selling to a few decision-makers
+who can be wined and dined and flattered. And since we all have to use
+its products, developers have to target its platform if they want to
+sell us their software.
+
+This rarified position has afforded Microsoft enormous freedom to roll
+out harebrained 'features' that made things briefly
+attractive... Microsoft recently announced a product called 'Recall'
+that would record every keystroke, click and screen element, nominally
+in the name of helping you figure out what you've done and either do
+it again, or go back and fix it. The problem here is that anyone who
+gains access to your system.. now has access to everything, on a
+platter"
+
+---
+
+Oman Observer: "[2023/11] Construction begins on Oman’s first green
+hydrogen-ready steel plant.. Vice Chairman of Vulcan Green Steel,
+Venkatesh Jindal, highlighted the significance of the plant in his
+keynote address. 'Vulcan Green Steel stands hand in hand with Oman as
+we collectively strive for a cleaner and greener industrial
+economy. Our green pledge, made just weeks ago, is not a mere
+proclamation. It is a substantial and real investment of more than $3
+billion in a state-of-the-art green hydrogen ready steel plant in
+Duqm, the first of its kind and the largest globally'"
+
+---
+
+Good for you VW.. 
+
+VW: "Volkswagen Group and Vulcan Green Steel sign MoU for low-carbon
+steel"
+
+---
+
+Machine Maker: "Essar Group is set to make a significant stride in
+clean energy with a Rs 30,000 crore investment in a green hydrogen
+plant at Jamnagar, Gujarat. This ambitious project, to be developed
+over the next four years, marks the conglomerate’s commitment to green
+energy as a cornerstone of its growth strategy"
+
+---
+
+The defense suggestions might include glue on pizza
+
+---
+
+"@andrewdessler@mastodon.world
+
+I literally can't think of a worse way to prepare for a thesis defense
+than [this](https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/112/633/213/203/811/075/original/f6c3c62e50c178bb.png)"
+
+---
+
+"@trisweb@m.trisweb.com
+
+I'm scared how misunderstood LLMs.. truly are; they are so far from a
+genuine intelligence it's not even funny. They are statistical models
+for language, trained on a lot of words and sentences, representing
+the statistical likelihood of words following other words, sentences
+following other sentences, just with a lot of data and samples to pull
+from. That's it. There's no intelligence, there's no path to
+intelligence; it's simply statistics chaining words and symbols
+together"
+
+---
+
+\#Healthcare
+
+[[-]](https://mastodon.sdf.org/system/media_attachments/files/112/628/487/985/479/354/original/ed03ffc8d7334001.png)
+
+---
+
+Government Technology: "Hydrogen-Powered Train Travels 1,750 Miles on
+Single Tank.. A hydrogen fuel-powered passenger train set a Guinness
+World Record for distance traveled on a test track in March. The
+trains, from Swiss manufacturer Stadler, are slated to go into use in
+San Bernardino County, Calif."
+
+---
+
+SCMP: "At the International Hydrogen Fuel Cell Vehicle Congress and
+Exhibition in Shanghai last week, more than 300 companies from
+countries including China, Japan, Korea and Canada came to showcase
+their latest technology and products"
+
+---
+
+CNBC: "A staggering 90% of employees in the UK are 'quiet quitting' as
+they seek out other opportunities, Gallup report says"
+
+---
+
+Dessler: "Is climate change making Florida's flooding worse?.. Warmer
+air can hold more water vapor — about 7% more for every degree Celsius
+increase in temperature. Consequently, the air converging into a storm
+system in a warmer climate carries more water vapor. Since most of the
+water vapor entering the storm’s updraft will fall out as rain,
+everything else the same, more water in the air flowing into the storm
+will lead to more intense rainfall. That’s it. Not terribly
+complicated...
+
+[T]he IPCC’s synthesis report concluded.. 'The frequency and intensity
+of heavy precipitation events have increased since the 1950s over most
+land areas for which observational data are sufficient for trend
+analysis (high confidence), and human-caused climate change is likely
+the main driver.. The projected increase in frequency and intensity of
+heavy precipitation (high confidence) will increase rain-generated
+local flooding'"
+
+[[-]](https://www.theclimatebrink.com/p/did-climate-change-make-floridas)
+
+---
+
+Doctorow: "Bill Gates didn't become one of the richest people on earth
+simply by [luck]; he also owed his success to vigorous antitrust
+enforcement. The IBM PC was the company's first major initiative after
+it was targeted by the DOJ for a 12-year antitrust enforcement
+action. IBM tapped its vast monopoly profits to fight the DOJ,
+spending more on outside counsel to fight the DOJ antitrust division
+than the DOJ spent on all its antitrust lawyers, every year, for 12
+years.. [later] Reagan let IBM off the hook.  But the company was
+still seriously scarred by its ordeal, and when the PC project kicked
+off, the company kept the OS separate from the hardware (one of the
+DOJ's major issues with IBM's previous behavior was its vertical
+monopoly on hardware and software). IBM didn't hire Gates and Allen to
+provide it with DOS because it was incapable of writing a PC operating
+system: they did it to keep the DOJ from kicking down their door
+again"
+
+[[-]](https://pluralistic.net/2024/06/14/patch-tuesday/)
+
+---
+
+If ancient Greeks knew, they would toss lithium-ion batteries onto
+enemy ships, then that would be the Greek fire.
+
+---
+
+I'd swim away as fast as possible away from that f-ing battery. Electrocution
+aside it can catch fire, sea water would not put it out bcz lithium-ion fires
+are self-oxidizing. So you will get a shock **and** burn, at the same time!
+
+---
+
+If you are on a battery-electric boat and it sinks, while a shark
+approaching do you stay on boat get electrocuted when the water hits
+the battery or swim away and get bitten by a shark? 😂 😂. \#DJT
+
+---
+
+The American Conservative: "Trump Visits the Bronx.. The crowd at the
+New York City rally was diverse in the literal sense of the
+word... Standing in that crowd—black, white, and every shade in
+between—I found it hard not to laugh at the countless articles
+denouncing Trump as the candidate of white supremacy. There were girls
+in cowboy hats and crop tops, guys with neck tattoos and Trump
+chains. Young orthodox Jews rubbed shoulders with old church ladies...
+
+[M]ost of the people at Trump’s rally worked with their hands or ran
+businesses in the non-symbolic economy. Trump seemed to intuit this
+and spent an inordinate amount of time talking about construction
+projects he’d been involved in—the Wollman Rink in Central Park, the
+border wall. He launched into long excurses on copper tubing and
+concrete planks. He dilated on the type of work that needed to be done
+to fix the subway system. The crowd ate it up"
+
+---
+
+Politico: "Swing district Republicans have been eager to pillory
+President Joe Biden on the economy but have by and large stayed away
+from making abortion the centerpiece of their campaigns"
+
+---
+
+F24: "Philippine ship, Chinese vessel collide in disputed South China
+Sea"
+
+---
+
+TASS: "If Putin’s Ukraine peace proposal rejected, next offer to be
+tougher — Russian intel chief"
+
+---
+
 Barron's: "DR Congo weighs legal move against Apple in mining
 dispute.. The government of the Democratic Republic of Congo is
 studying legal action against Apple in France and the United States,

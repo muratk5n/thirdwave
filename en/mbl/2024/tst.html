@@ -30,12 +30,6 @@ import pandas as pd
 pd.set_option('display.max_columns', None)
 </code></pre>
 
-<pre><code class="python">u.mov_profit(414, 950)
-</code></pre>
-
-<pre><code class="text">Out[1]: -51.0
-</code></pre>
-
 <pre><code class="python">app = u.biden_approval()
 app = app[app.index &gt; '2023-01-01']
 print (app.net.tail(3))

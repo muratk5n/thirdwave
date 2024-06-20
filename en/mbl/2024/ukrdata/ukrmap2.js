@@ -1,6 +1,9 @@
 
 function plot(before,after) {
 
+    console.log(before);
+    console.log(after);
+    
     url = `/en/mbl/${before}`;
     var xmlHttp = new XMLHttpRequest();
     xmlHttp.open( "GET", url = url, false ); 

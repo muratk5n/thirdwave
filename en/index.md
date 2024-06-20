@@ -1,113 +1,136 @@
 
-Government Technology: "Hydrogen-Powered Train Travels 1,750 Miles on
-Single Tank.. A hydrogen fuel-powered passenger train set a Guinness
-World Record for distance traveled on a test track in March. The
-trains, from Swiss manufacturer Stadler, are slated to go into use in
-San Bernardino County, Calif."
+"Wärtsilä launches world’s first large-scale 100% hydrogen-ready engine
+power plant.. The.. engine platform.. ensures energy security through
+fuel flexibility and offers unparalleled load following capabilities
+and high part load efficiency. It has completed more than 1 million
+running hours, with over 1,000 MW installed capacity globally.. The
+100% hydrogen-ready engine is expected to be available for orders in
+2025, and available for delivery from 2026"
 
 ---
 
-SCMP: "At the International Hydrogen Fuel Cell Vehicle Congress and
-Exhibition in Shanghai last week, more than 300 companies from
-countries including China, Japan, Korea and Canada came to showcase
-their latest technology and products"
+The Urbanist: "[King County] Metro Adding Hydrogen Buses, Auditor
+Casts Doubt on Fleet Electrification Strategy.. One reason why Metro
+is pursuing fuel cell buses boils down to operational needs and
+constraints. “While battery-electric buses have an expected range of
+140 miles for a 60-foot bus and 220 miles for a 40-foot bus, Metro and
+other transit agencies have experienced range limitations and
+variability, especially in cold weather,” the agency wrote in a blog
+post. 'Hydrogen fuel cell buses have the potential to travel up to 300
+miles and their extended range has particular promise on all-day,
+frequent routes.'"
 
 ---
 
-CNBC: "A staggering 90% of employees in the UK are 'quiet quitting' as
-they seek out other opportunities, Gallup report says"
+<img width='340' src='https://pbs.twimg.com/media/GP5JEdFW4AA_ahO?format=jpg&name=900x900'/> 
 
 ---
 
-Dessler: "Is climate change making Florida's flooding worse?.. Warmer
-air can hold more water vapor — about 7% more for every degree Celsius
-increase in temperature. Consequently, the air converging into a storm
-system in a warmer climate carries more water vapor. Since most of the
-water vapor entering the storm’s updraft will fall out as rain,
-everything else the same, more water in the air flowing into the storm
-will lead to more intense rainfall. That’s it. Not terribly
-complicated...
+"Parents: Kids are more depressed these days, I wonder why?
 
-[T]he IPCC’s synthesis report concluded.. 'The frequency and intensity
-of heavy precipitation events have increased since the 1950s over most
-land areas for which observational data are sufficient for trend
-analysis (high confidence), and human-caused climate change is likely
-the main driver.. The projected increase in frequency and intensity of
-heavy precipitation (high confidence) will increase rain-generated
-local flooding'"
+Kids: You destroyed the economy for us, the earth is literally dying,
+we are going to work until we die.
 
-[[-]](https://www.theclimatebrink.com/p/did-climate-change-make-floridas)
+Parents: It's those pesky computer games"
 
 ---
 
-Doctorow: "Bill Gates didn't become one of the richest people on earth
-simply by [luck]; he also owed his success to vigorous antitrust
-enforcement. The IBM PC was the company's first major initiative after
-it was targeted by the DOJ for a 12-year antitrust enforcement
-action. IBM tapped its vast monopoly profits to fight the DOJ,
-spending more on outside counsel to fight the DOJ antitrust division
-than the DOJ spent on all its antitrust lawyers, every year, for 12
-years.. [later] Reagan let IBM off the hook.  But the company was
-still seriously scarred by its ordeal, and when the PC project kicked
-off, the company kept the OS separate from the hardware (one of the
-DOJ's major issues with IBM's previous behavior was its vertical
-monopoly on hardware and software). IBM didn't hire Gates and Allen to
-provide it with DOS because it was incapable of writing a PC operating
-system: they did it to keep the DOJ from kicking down their door
-again"
-
-[[-]](https://pluralistic.net/2024/06/14/patch-tuesday/)
+Golden rule of government spending: why have one enemy when you can
+have two for twice the cost? With two enemies instead of one you get
+twice the profit for military contractors, twice the amount of
+kickbacks gov officials receive from those companies, twice the
+corruption, and twice the number of people who go through the
+revolving doors. It is a "no-brainer" to use a common phrase popular
+in the Clinton administration.
 
 ---
 
-If ancient Greeks knew, they would toss lithium-ion batteries onto
-enemy ships, then that would be the Greek fire.
+Host: "It is said that somewhere in the middle of the 1990s during the
+Clinton Administration there was a shift in American foreign policy in
+the Middle East from balancing Iran and Iraq, to double containment of
+Iran and Iraq.. [Was this] policy shift towards double containment
+primarily because of Israel's instigation?"
+
+Ambassador Chas Freeman: "Yes I think that's the case. I was at the
+Defense Department at the time, this policy was suddenly imposed on us
+by a political appointee, Martin Indyk, actually who had been an
+Israeli Citizen and was naturalized one day before taking up his
+responsibilities in the National Security Council staff. It was very
+hard for me or others in the region to see what benefit we would get
+from a policy that is fatiguing expensive and consumes a lot of
+resources.. therefore one has to assume that this was contrived for
+the benefit of Israel"
 
 ---
 
-I'd swim away as fast as possible away from that f-ing battery. Electrocution
-aside it can catch fire, sea water would not put it out bcz lithium-ion fires
-are self-oxidizing. So you will get a shock **and** burn, at the same time!
+Ars Technica: "Adobe’s hidden cancellation fee is unlawful, FTC suit
+says.. Adobe knowingly 'trapped' customers into annual subscriptions,
+the FTC alleged"
 
 ---
 
-If you are on a battery-electric boat and it sinks, while a shark
-approaching do you stay on boat get electrocuted when the water hits
-the battery or swim away and get bitten by a shark? 😂 😂. \#DJT
+"@ProPublica@newsie.social
+
+Nonprofits known as 527s can raise unlimited sums for political
+spending.. ProPublica is releasing a new database that will allow
+journalists, researchers and others to more easily search these
+organizations’ finances"
+
+[[-]](https://www.propublica.org/article/search-527s-finances-pacs-database-political-spending)
 
 ---
 
-The American Conservative: "Trump Visits the Bronx.. The crowd at the
-New York City rally was diverse in the literal sense of the
-word... Standing in that crowd—black, white, and every shade in
-between—I found it hard not to laugh at the countless articles
-denouncing Trump as the candidate of white supremacy. There were girls
-in cowboy hats and crop tops, guys with neck tattoos and Trump
-chains. Young orthodox Jews rubbed shoulders with old church ladies...
+"@ProPublica@newsie.social
 
-[M]ost of the people at Trump’s rally worked with their hands or ran
-businesses in the non-symbolic economy. Trump seemed to intuit this
-and spent an inordinate amount of time talking about construction
-projects he’d been involved in—the Wollman Rink in Central Park, the
-border wall. He launched into long excurses on copper tubing and
-concrete planks. He dilated on the type of work that needed to be done
-to fix the subway system. The crowd ate it up"
+How a Network of Nonprofits Enriches Fundraisers While Spending Almost
+Nothing on Its Stated Causes.. ProPublica identified a group of
+connected political nonprofits — with names like American Breast
+Cancer Coalition and National Coalition for Disabled Veterans — that
+appear to be funneling more than 90% of donations to fundraisers"
+
+[[-]](https://www.propublica.org/article/political-nonprofits-fundraising-ftc-irs-527s-pacs)
 
 ---
 
-Politico: "Swing district Republicans have been eager to pillory
-President Joe Biden on the economy but have by and large stayed away
-from making abortion the centerpiece of their campaigns"
+"@vkc@linuxmom.net
+
+You open up a Commodore 64, and the box says 'welcome to the world of
+friendly computing.'
+
+You turn on a modern PC, and it immediately threatens your data unless
+you agree to save your data to *their* cloud service.
+
+That right there is why we talk about vintage computers. Folks need to
+be reminded of what's possible.
 
 ---
 
-F24: "Philippine ship, Chinese vessel collide in disputed South China
-Sea"
+The year is not yet over \#Trek \#Prophecy
+
+[[-]](https://files.mastodon.online/media_attachments/files/112/633/136/294/857/502/original/095081f256f3c6fc.png)
 
 ---
 
-TASS: "If Putin’s Ukraine peace proposal rejected, next offer to be
-tougher — Russian intel chief"
+TASS: "Russian Navy keeping close eye on French stealth frigate in
+Black Sea — source.. According to media reports, the La Fayette
+missile frigate of the French Navy entered the Black Sea on Sunday"
+
+---
+
+\#Frontline 06/14 - 06/20
+
+[[-]](mbl/2024/ukrdata/map23-ext.html)
+
+---
+
+The Times of Israel: "IDF spokesman [Hagari] says Hamas can’t be
+eliminated.. [He] cast Israel’s war aim of eradicating the Hamas
+terror group as currently unattainable, appearing to further
+underscore tensions between Prime Minister Benjamin Netanyahu and top
+defense officials over his handling of the war in Gaza.. 'This
+business of destroying Hamas, making Hamas disappear — it’s simply
+throwing sand in the eyes of the public,' Hagari told Channel 13 news
+in an interview"
 
 ---
 
@@ -157,3 +180,6 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
+
+
+

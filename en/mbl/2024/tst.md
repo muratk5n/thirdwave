@@ -17,14 +17,6 @@ pd.set_option('display.max_columns', None)
 
 
 
-```python
-u.mov_profit(414, 950)
-```
-
-```text
-Out[1]: -51.0
-```
-
 
 
 
