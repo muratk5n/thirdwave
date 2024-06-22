@@ -24,7 +24,7 @@ Bekle..
 
 Nasıl korktun ama? Bir dahaki sefere şaka olmaz, hakikaten kapın çalınır. Seni uyarıyorum.
 
-Benim adım ObamaAlırım seni odamaTını nın nın nın..Dokunma orama burama
+Benim adım Obama. Alırım seni odama, tını nın nın nın.. Dokunma orama burama
 
 * * *
 
