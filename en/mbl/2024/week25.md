@@ -1,5 +1,254 @@
 # Week 25
 
+H2 Central: "First for France – Lhyfe delivers 350 kg of green
+hydrogen to Géométhane (Engie group) for a salt cavern storage test"
+
+---
+
+Yes Magazine: "When families in Kapilina Beach Homes—civilian housing
+southwest of Joint Base Pearl Harbor–Hickham—began getting ill, they
+were told by both Kapilina apartment management and the Navy’s
+emergency operation commander that they weren’t on the Navy water
+line. After that was proven to be false, those in Kapilina were
+offered nothing"
+
+[[-]](https://www.yesmagazine.org/environment/2024/02/19/water-military-hawaii-pearl-harbor)
+
+---
+
+"@silverspookgames@octodon.social
+
+Hawaii is a Disneyland-like resort built over our indigenous
+communities & ancestor's graves, made to do bastardizations of sacred
+dances, in 'sexy feather headresses' & entertain the rich tourists for
+starvation wages, 12 hrs a day 7 days a week, drinking jet fuel
+poisoned water"
+
+---
+
+"@nealcurtis@mas.to
+
+This is the best thing"
+
+[[-]](https://media.mas.to/media_attachments/files/112/600/122/208/806/475/original/e2bf485e7cb0d8b3.jpg)
+
+---
+
+We previously shared a guesstimate by an engineer Richard Godfrey.
+The signal being recorded at Cape Leeuwin, but not at Diego Garcia
+fits that estimate, Cape Leeuwin is closer to RG's location.
+
+
+```python
+cs = {"MH 370 (Guess)": [-33.176793409, 95.300021451],
+      "Kuala Lumpur Intl Airport": [2.8181270526, 102.18700262],
+      "Last Radar Contact": [9.494954545014316, 94.34137193498134],
+      "Cape Leeuwin Station": [-34.12047627550245, 115.07422816400911],
+      "Diego Garcia": [-3.563662449473406, 71.45723047558245]
+     }
+u.map_coords(cs, zoom=4, outfile="map4.html")
+```
+
+[[-]](mbl/2024/map4.html)
+
+---
+
+The Telegraph: "Signal [from hydrophones] that could solve the mystery
+of flight MH370 detected.. [R]esearchers from Cardiff analysed data
+from.. underwater microphones - which picked up a six second signal
+recorded around the time the plane is believed to have crashed.. a
+200-ton aircraft crashing at a speed of 200 metres a second releases
+the kinetic energy equivalent to a small earthquake. This would be
+large enough to be recorded by hydrophones thousands of miles away.
+
+There are two hydroacoustic stations able to detect such a signal. One
+is in Cape Leeuwin in Western Australia and the second is in the
+British territory of Diego Garcia in the Indian Ocean. They were set
+up as part of a surveillance regime to oversee the Comprehensive
+Nuclear Test-Ban Treaty. Both locations were operational around the
+time MH370 is believed to have crashed into the Indian Ocean.. In
+their research, the Cardiff University team has identified one
+signal.. was recorded at the Cape Leeuwin station.. But this signal
+was not detected at the Diego Garcia station"
+
+---
+
+Business Korea: "Korean Army on Its Way to Hydrogen Energy for
+Military Hardware.. The Korean Army will switch military vehicles from
+those powered by internal combustion engines to those loaded with
+hydrogen engines. Korea's leading mobility technology companies will
+join the Korean Army in this initiative"
+
+---
+
+Firstpost: "After rare trip to North Korea, Putin arrives in Vietnam
+much to America's dismay..  While North Korea remains isolated,
+Vietnam has maintained diplomatic ties with the West as well. Last
+year.. Biden visited Hanoi.. as his administration seeks to build up
+Vietnam as an alternative supplier of key hi-tech components to reduce
+American dependence on China.. Chinese President Xi Jinping followed
+suit and visited Vietnam, three months after Biden"
+
+---
+
+Al-Monitor: "Kim Jong Un awards Putin with Kim Il Sung Order"
+
+<img width='340' src='https://cdn.fosstodon.org/media_attachments/files/112/647/805/072/032/866/original/1da9793006fe64d0.jpeg'/> 
+
+---
+
+Hindustan Times: "North Korea, Russia sign mutual defence pact;
+immediately to help if either one attacked"
+
+---
+
+Al-Monitor: "US nixes Israel summit after Netanyahu says US
+withholding weapons"
+
+---
+
+The Intercept: "'Utterly Dismayed': [US] Air Force Engineer Resigns as
+Dissent Against Gaza War Slowly Spreads Within Military.. 'I don’t
+want to be working on something that can turn around and be used to
+slaughter innocent people'"
+
+---
+
+"Wärtsilä launches world’s first large-scale 100% hydrogen-ready engine
+power plant.. The.. engine platform.. ensures energy security through
+fuel flexibility and offers unparalleled load following capabilities
+and high part load efficiency. It has completed more than 1 million
+running hours, with over 1,000 MW installed capacity globally.. The
+100% hydrogen-ready engine is expected to be available for orders in
+2025, and available for delivery from 2026"
+
+---
+
+The Urbanist: "[King County] Metro Adding Hydrogen Buses, Auditor
+Casts Doubt on Fleet Electrification Strategy.. One reason why Metro
+is pursuing fuel cell buses boils down to operational needs and
+constraints. “While battery-electric buses have an expected range of
+140 miles for a 60-foot bus and 220 miles for a 40-foot bus, Metro and
+other transit agencies have experienced range limitations and
+variability, especially in cold weather,” the agency wrote in a blog
+post. 'Hydrogen fuel cell buses have the potential to travel up to 300
+miles and their extended range has particular promise on all-day,
+frequent routes.'"
+
+---
+
+<img width='340' src='https://pbs.twimg.com/media/GP5JEdFW4AA_ahO?format=jpg&name=900x900'/> 
+
+---
+
+"Parents: Kids are more depressed these days, I wonder why?
+
+Kids: You destroyed the economy for us, the earth is literally dying,
+we are going to work until we die.
+
+Parents: It's those pesky computer games"
+
+---
+
+Golden rule of government spending: why have one enemy when you can
+have two for twice the cost? With two enemies instead of one you get
+twice the profit for military contractors, twice the amount of
+kickbacks gov officials receive from those companies, twice the
+corruption, and twice the number of people who go through the
+revolving doors. It is a "no-brainer" to use a common phrase popular
+in the Clinton administration.
+
+---
+
+Host: "It is said that somewhere in the middle of the 1990s during the
+Clinton Administration there was a shift in American foreign policy in
+the Middle East from balancing Iran and Iraq, to double containment of
+Iran and Iraq.. [Was this] policy shift towards double containment
+primarily because of Israel's instigation?"
+
+Ambassador Chas Freeman: "Yes I think that's the case. I was at the
+Defense Department at the time, this policy was suddenly imposed on us
+by a political appointee, Martin Indyk, actually who had been an
+Israeli Citizen and was naturalized one day before taking up his
+responsibilities in the National Security Council staff. It was very
+hard for me or others in the region to see what benefit we would get
+from a policy that is fatiguing expensive and consumes a lot of
+resources.. therefore one has to assume that this was contrived for
+the benefit of Israel"
+
+---
+
+Ars Technica: "Adobe’s hidden cancellation fee is unlawful, FTC suit
+says.. Adobe knowingly 'trapped' customers into annual subscriptions,
+the FTC alleged"
+
+---
+
+"@ProPublica@newsie.social
+
+Nonprofits known as 527s can raise unlimited sums for political
+spending.. ProPublica is releasing a new database that will allow
+journalists, researchers and others to more easily search these
+organizations’ finances"
+
+[[-]](https://www.propublica.org/article/search-527s-finances-pacs-database-political-spending)
+
+---
+
+"@ProPublica@newsie.social
+
+How a Network of Nonprofits Enriches Fundraisers While Spending Almost
+Nothing on Its Stated Causes.. ProPublica identified a group of
+connected political nonprofits — with names like American Breast
+Cancer Coalition and National Coalition for Disabled Veterans — that
+appear to be funneling more than 90% of donations to fundraisers"
+
+[[-]](https://www.propublica.org/article/political-nonprofits-fundraising-ftc-irs-527s-pacs)
+
+---
+
+"@vkc@linuxmom.net
+
+You open up a Commodore 64, and the box says 'welcome to the world of
+friendly computing.'
+
+You turn on a modern PC, and it immediately threatens your data unless
+you agree to save your data to *their* cloud service.
+
+That right there is why we talk about vintage computers. Folks need to
+be reminded of what's possible.
+
+---
+
+The year is not yet over \#Trek \#Prophecy
+
+[[-]](https://files.mastodon.online/media_attachments/files/112/633/136/294/857/502/original/095081f256f3c6fc.png)
+
+---
+
+TASS: "Russian Navy keeping close eye on French stealth frigate in
+Black Sea — source.. According to media reports, the La Fayette
+missile frigate of the French Navy entered the Black Sea on Sunday"
+
+---
+
+\#Frontline 06/14 - 06/20
+
+[[-]](mbl/2024/ukrdata/map23-ext.html)
+
+---
+
+The Times of Israel: "IDF spokesman [Hagari] says Hamas can’t be
+eliminated.. [He] cast Israel’s war aim of eradicating the Hamas
+terror group as currently unattainable, appearing to further
+underscore tensions between Prime Minister Benjamin Netanyahu and top
+defense officials over his handling of the war in Gaza.. 'This
+business of destroying Hamas, making Hamas disappear — it’s simply
+throwing sand in the eyes of the public,' Hagari told Channel 13 news
+in an interview"
+
+---
+
 RFK Jr: "Two years ago the average cost of a house in this country was
 $215,000, today it's 400,000. There are three giant corporations Black
 Rock State Street and Vanguard, they also own 89% of the S&P 500,

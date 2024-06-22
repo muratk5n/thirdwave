@@ -1,136 +1,166 @@
 
-"Wärtsilä launches world’s first large-scale 100% hydrogen-ready engine
-power plant.. The.. engine platform.. ensures energy security through
-fuel flexibility and offers unparalleled load following capabilities
-and high part load efficiency. It has completed more than 1 million
-running hours, with over 1,000 MW installed capacity globally.. The
-100% hydrogen-ready engine is expected to be available for orders in
-2025, and available for delivery from 2026"
+Reuters: "The European Commission has signed off on about 3 billion
+euros ($3.2 billion) of planned German state aid for building a system
+of hydrogen pipelines known as the Hydrogen Core Network (HCN). Berlin
+plans to give financial guarantees to allow companies that build and
+run the 20 billion euro network to obtain more favourable loans to
+cover initial losses during the ramp-up phase from 2025. Encouraging
+the uptake of hydrogen outweighs any distortion to EU competition and
+trade from the scheme, the Commission said on Friday"
 
 ---
 
-The Urbanist: "[King County] Metro Adding Hydrogen Buses, Auditor
-Casts Doubt on Fleet Electrification Strategy.. One reason why Metro
-is pursuing fuel cell buses boils down to operational needs and
-constraints. “While battery-electric buses have an expected range of
-140 miles for a 60-foot bus and 220 miles for a 40-foot bus, Metro and
-other transit agencies have experienced range limitations and
-variability, especially in cold weather,” the agency wrote in a blog
-post. 'Hydrogen fuel cell buses have the potential to travel up to 300
-miles and their extended range has particular promise on all-day,
-frequent routes.'"
+Emerging Technology News: "HTEC plans to deploy 100 H2 fuel-cell e-
+trucks in Canada"
 
 ---
 
-<img width='340' src='https://pbs.twimg.com/media/GP5JEdFW4AA_ahO?format=jpg&name=900x900'/> 
+The American Conservative: "A Vision for a New NATO.. Expansion was a
+misstep, but the situation is not unsalvageable—history offers clues
+to a better way...
+
+On an unusually cloudy July day in London in 1990, the heads of state
+and government at the annual NATO summit declared with sunny optimism
+that a new era beckoned in central and eastern Europe. The declaration
+itself was banal bureaucratese: invitations to initiate diplomatic
+contacts, plans to prepare a force structure that would move away from
+'forward defense' towards 'flexible response.'.. 
+
+Secretary of State James Baker had personally assured Gorbachev in
+February that NATO would move 'not one inch' eastward. This pledge was
+repeated in some form or other by NATO Secretary-General Manfred
+Wörner, West German Chancellor Helmut Kohl, Margaret Thatcher,
+Francois Mitterrand, and President George H. W. Bush. British Prime
+Minister John Major, when asked by Soviet Marshal Dmitri Yazov about
+East European leaders’ interest in NATO membership, reassured him that
+'nothing of the sort will happen.'..
+
+[A] careful study of Russian reactions to various phases of NATO
+enlargement gives the impression of a rational power originally
+determined to be a friend if not an ally of the West... The surprise
+in Moscow was therefore palpable when the NATO enlargement study was
+launched in 1995, leading Boris Yeltsin to declare that the Cold War
+was slowly being replaced with a 'Cold Peace.' The pro-Western
+democrats in Russia naturally felt betrayed, rightly recognizing NATO
+expansion as a threat to their domestic influence"
 
 ---
 
-"Parents: Kids are more depressed these days, I wonder why?
-
-Kids: You destroyed the economy for us, the earth is literally dying,
-we are going to work until we die.
-
-Parents: It's those pesky computer games"
+Gjovik's office, while she worked at Apple, was on an EPA Superfund
+site (a place marked as extremely toxic), Apple fired her for
+complaining to the government about it.
 
 ---
 
-Golden rule of government spending: why have one enemy when you can
-have two for twice the cost? With two enemies instead of one you get
-twice the profit for military contractors, twice the amount of
-kickbacks gov officials receive from those companies, twice the
-corruption, and twice the number of people who go through the
-revolving doors. It is a "no-brainer" to use a common phrase popular
-in the Clinton administration.
+"@ashleygjovik@mastodon.social
+
+My latest civil amended complaint is now filed!"
+
+<img width='340' src='https://files.mastodon.social/media_attachments/files/112/639/175/007/308/726/original/c418c717f5a79798.png'/> 
 
 ---
 
-Host: "It is said that somewhere in the middle of the 1990s during the
-Clinton Administration there was a shift in American foreign policy in
-the Middle East from balancing Iran and Iraq, to double containment of
-Iran and Iraq.. [Was this] policy shift towards double containment
-primarily because of Israel's instigation?"
-
-Ambassador Chas Freeman: "Yes I think that's the case. I was at the
-Defense Department at the time, this policy was suddenly imposed on us
-by a political appointee, Martin Indyk, actually who had been an
-Israeli Citizen and was naturalized one day before taking up his
-responsibilities in the National Security Council staff. It was very
-hard for me or others in the region to see what benefit we would get
-from a policy that is fatiguing expensive and consumes a lot of
-resources.. therefore one has to assume that this was contrived for
-the benefit of Israel"
+"The richest men on Earth own most of Hawaii while most of us don't 'own'
+a single acre of our US-illegally occupied home, that hasn't yet been
+bombed into a toxic waste dump by the US military"
 
 ---
 
-Ars Technica: "Adobe’s hidden cancellation fee is unlawful, FTC suit
-says.. Adobe knowingly 'trapped' customers into annual subscriptions,
-the FTC alleged"
+"@ben@werd.social
+
+Earning a decent, reliable income as a social-media creator is a
+slog—and it’s getting harder. Platforms are doling out less money for
+popular posts and brands are being pickier about what they want out of
+sponsorship deals"
 
 ---
 
-"@ProPublica@newsie.social
-
-Nonprofits known as 527s can raise unlimited sums for political
-spending.. ProPublica is releasing a new database that will allow
-journalists, researchers and others to more easily search these
-organizations’ finances"
-
-[[-]](https://www.propublica.org/article/search-527s-finances-pacs-database-political-spending)
-
----
-
-"@ProPublica@newsie.social
-
-How a Network of Nonprofits Enriches Fundraisers While Spending Almost
-Nothing on Its Stated Causes.. ProPublica identified a group of
-connected political nonprofits — with names like American Breast
-Cancer Coalition and National Coalition for Disabled Veterans — that
-appear to be funneling more than 90% of donations to fundraisers"
-
-[[-]](https://www.propublica.org/article/political-nonprofits-fundraising-ftc-irs-527s-pacs)
+Stoller: "Josh Hawley and Matt Gaetz.. saw big business as an
+existential threat, arguing that large firms were simply too powerful
+to co-exist with an elected government, as Trump had said in 2016
+about media conglomerates. Others, like House Judiciary Chair Jim
+Jordan and House GOP leader Steve Scalise, retreated to what they
+knew, which was to treat big business as part of the Republican
+political machine, but needing a little wayward discipline"
 
 ---
 
-"@vkc@linuxmom.net
-
-You open up a Commodore 64, and the box says 'welcome to the world of
-friendly computing.'
-
-You turn on a modern PC, and it immediately threatens your data unless
-you agree to save your data to *their* cloud service.
-
-That right there is why we talk about vintage computers. Folks need to
-be reminded of what's possible.
+Stoller: "Northrop-Orbital merger.. placed one corporation in charge
+of our nuclear arsenal"
 
 ---
 
-The year is not yet over \#Trek \#Prophecy
+@GossiTheDog@cyberplace.social
 
-[[-]](https://files.mastodon.online/media_attachments/files/112/633/136/294/857/502/original/095081f256f3c6fc.png)
-
----
-
-TASS: "Russian Navy keeping close eye on French stealth frigate in
-Black Sea — source.. According to media reports, the La Fayette
-missile frigate of the French Navy entered the Black Sea on Sunday"
+<img width='340' src='https://cyberplace.social/system/media_attachments/files/112/654/932/084/144/189/original/e91d62c6e790d8c7.png'/> 
 
 ---
 
-\#Frontline 06/14 - 06/20
-
-[[-]](mbl/2024/ukrdata/map23-ext.html)
+Quora: "[W]hen the [French] PM is from an opposite group (this
+situation is called cohabitation) his/her powers become clearer. This
+happens when the majority in the national assembly changes during
+presidential office, the President has to choose a PM from the new
+majority (not legally but strategically, and this has happened 3 times
+since the beginning of the 5th Republic in 1958). There the PM has
+democratic legitimacy because the change in majority means that the
+citizens are unsatisfied with the President's party's policy, so it
+becomes politically dangerous for the President to oppose the PM's
+actions, especially the choice of the ministers, and refusing to sign
+the decrees implementing new laws (it happens though).  As you can
+guess cohabitation periods are complicated, with many tensions and
+more or less difficulties to govern considering the actors' ability to
+find compromises and to cooperate with each other"
 
 ---
 
-The Times of Israel: "IDF spokesman [Hagari] says Hamas can’t be
-eliminated.. [He] cast Israel’s war aim of eradicating the Hamas
-terror group as currently unattainable, appearing to further
-underscore tensions between Prime Minister Benjamin Netanyahu and top
-defense officials over his handling of the war in Gaza.. 'This
-business of destroying Hamas, making Hamas disappear — it’s simply
-throwing sand in the eyes of the public,' Hagari told Channel 13 news
-in an interview"
+ABC News: "Far-right leader Bardella backpedals on taking France out
+of NATO strategic military command.. The far-right leader angling to
+become France’s prime minister after the country’s upcoming
+parliamentary election has backtracked on the party’s previous promise
+to pull out of NATO’s strategic military command"
+
+---
+
+It was a good call, both for him and FR; otherwise prez had to govern
+under a suspicion of legitimacy there'd a bizarre lull. By calling for
+snap elections u throw down the gauntlet to the electorate, "you
+voted for the oppo for EU, do you want them to govern the country as
+well?"  Now people will either back centrists out of the usual fear of
+far-right, or the opposition gets a mandate and finally have a seat in
+governance. Either way the lull is resolved.
+
+F24: "[Macron] stunned the nation by calling the polls for June 30 and
+July 7 after the far-right National Rally (RN) trounced his centrist
+alliance in EU elections earlier this month... But the president hit
+back on Tuesday, saying dissolving the National Assembly was 'the
+heaviest, the most serious, but the most responsible solution' after
+the EU election debacle"
+
+---
+
+QNS: "Salvation Army activates cooling centers around Queens amid heat
+wave"
+
+---
+
+Biden net approval hovers around -17%, he still has the advantage
+taking other parameters into account (incumbency, a non-crashing
+economy). But let's not count out Trump. An "Alpha Team" usually does
+not run during unfavorable times, for '24-like races it's been beta
+types that run, historically, think Hillary '16, or Mitt '12.
+
+---
+
+
+Arab News: "UK PM Sunak’s Conservatives set for heavy election defeat,
+polls forecast"
+
+---
+
+NYT: "More than eight months of fighting between Israel and Hamas has
+destroyed buildings and infrastructure across the Gaza Strip, leaving
+more than 39 million tons of debris and exacerbating an already dire
+health crisis there, according to [UN]"
 
 ---
 
