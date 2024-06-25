@@ -39,7 +39,7 @@ async function searchText() {
 	return kv2[1] - kv1[1] 
     })
 
-    N = Math.min(20,keyValues.length);
+    N = Math.min(40,keyValues.length);
     var out = ""
     for (var i=0;i<N;i++) {
 	var article = keyValues[i][0].replace(".md",".html");
@@ -51,3 +51,5 @@ async function searchText() {
 	document.getElementById("output").innerHTML = out;
     }
 }
+
+
