@@ -49,7 +49,7 @@ cs = {"MH 370 (Guess)": [-33.176793409, 95.300021451],
 u.map_coords(cs, zoom=4, outfile="map4.html")
 ```
 
-[[-]](mbl/2024/map4.html)
+[[-]](map4.html)
 
 ---
 
@@ -234,7 +234,7 @@ missile frigate of the French Navy entered the Black Sea on Sunday"
 
 \#Frontline 06/14 - 06/20
 
-[[-]](mbl/2024/ukrdata/map23-ext.html)
+[[-]](ukrdata/map23-ext.html)
 
 ---
 
