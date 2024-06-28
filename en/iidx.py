@@ -53,7 +53,14 @@ def index_dir():
     for k,v in invidx_dict.items():
         fout = open("/tmp/invidx-%s.json" % k,"w")
         fout.write(json.dumps(v))
-        fout.close()    
+        fout.close()
+        
+    print ("""
+    
+    Index files are now under /tmp. They need to be copied manually to
+    $DIR/thirdwave/en or $DIR/codeberg/pages/en
+    
+    """)
 
 def test1():
     search = "arrival"
