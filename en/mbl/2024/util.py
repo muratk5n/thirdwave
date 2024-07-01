@@ -1,4 +1,4 @@
-import time as timelib, geocoder, folium
+import time as timelib, geocoder, folium, zipfile
 import matplotlib.pyplot as plt, os, shutil, sys
 from shapely.geometry import Polygon
 import pandas as pd, numpy as np, json, requests
@@ -201,11 +201,11 @@ regs = [
     "S..Zaporizhia-Russian Armed Forces",
     "E..Zaporizhia-Russian Armed Forces",
     "Luhansk People's Republic \(North Luhansk\)",
-    "Luhansk People's Republic \(East Luhansk\)",
+    "Luhansk People's Republic \(East Luhansk 1\)",
     "Luhansk People's Republic \(East Luhansk 2\)",
     "Luhansk People's Republic \(West Luhansk\)",
     "Luhansk People's Republic \(South Luhansk\)",
-    "Donetsk People's Republic \(Central Donetsk\)",
+    "Donetsk People's Republic \(Central Donetsk 1\)",
     "Donetsk People's Republic \(Central Donetsk 2\)",
     "Donetsk People's Republic \(Central Donetsk 3\)",
     "Donetsk People's Republic \(Central Donetsk 4\)",
@@ -216,7 +216,7 @@ regs = [
     "Kherson-Russian Armed Forces",
     "Nykolaiv-Russian Forces"]
 
-reg_ext1 = "N.Kharkiv-Russian Armed Forces"
+reg_ext1 = "N.Kharkiv-Russian Armed Forces 1"
 reg_ext2 = "N.Kharkiv-Russian Armed Forces 2"
 
 def get_coords_for_label(content, reg):
@@ -230,12 +230,56 @@ def get_coords_for_label(content, reg):
     coords = [[float(x),float(y)] for x,y in coords]
     return coords
 
+def prep_suriyak():
+
+    with zipfile.ZipFile(os.environ['HOME'] + '/Downloads/Guerra Ruso-Ucraniana 2022.kmz') as myzip:
+        with myzip.open('doc.kml') as myfile:
+            content = myfile.read().decode('utf-8')
+
+            content = re.sub("Luhansk People's Republic \(East Luhansk\)",
+                             "Luhansk People's Republic (East Luhansk 1)",
+                             content,count=1)
+
+            content = re.sub("Luhansk People's Republic \(East Luhansk\)",
+                             "Luhansk People's Republic (East Luhansk 2)",
+                             content,count=1)
+
+            content = re.sub("Donetsk People's Republic \(Central Donetsk\)",
+                             "Donetsk People's Republic (Central Donetsk 1)",
+                             content,count=1)
+
+            content = re.sub("Donetsk People's Republic \(Central Donetsk\)",
+                             "Donetsk People's Republic (Central Donetsk 2)",
+                             content,count=1)
+
+            content = re.sub("Donetsk People's Republic \(Central Donetsk\)",
+                             "Donetsk People's Republic (Central Donetsk 3)",
+                             content,count=1)
+
+            content = re.sub("Donetsk People's Republic \(Central Donetsk\)",
+                             "Donetsk People's Republic (Central Donetsk 4)",
+                             content,count=1)
+
+            content = re.sub("N.Kharkiv-Russian Armed Forces\<",
+                             "N.Kharkiv-Russian Armed Forces 1<",
+                             content,count=1)
+
+            content = re.sub("N.Kharkiv-Russian Armed Forces\<",
+                             "N.Kharkiv-Russian Armed Forces 2<",
+                             content,count=1)
+        
+    fout = open("/tmp/ukraine.kml","w")
+    fout.write(content)
+    fout.close()
+
 def prepare_ukraine_suriyak():
     """
     Data from https://www.google.com/maps/d/viewer?mid=1V8NzjQkzMOhpuLhkktbiKgodOQ27X6IV
     Code searches coordinate blocks by name. Must rename some like Central Donetsk,
     or East Luhansk inside the kml file which repeat, I add 2, 3, at the end. 
     """
+    prep_suriyak()
+    
     content = open("/tmp/ukraine.kml").read()
 
     rrrs = []
@@ -259,7 +303,7 @@ def prepare_ukraine_suriyak():
     rrrs.append(c)
 
     for x in rrrs:
-        plt.plot(x[:,0].T,x[:,1].T)
+        plt.plot(x[:,0].T,x[:,1].T,'r')
     plt.savefig('/tmp/out.jpg')
     
     np.set_printoptions(threshold=sys.maxsize)
