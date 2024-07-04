@@ -1,209 +1,131 @@
 
-The Economic Times: "World Bank lends $1.5 billion push to power green
-hydrogen market.. New Delhi: The World Bank Friday approved a 1.5
-billion loan to help India accelerate low-carbon energy development by
-promoting a market for green hydrogen as well as electrolysers and
-renewable energy penetration"
-
-<img width='340' src='https://img.etimg.com/thumb/msid-111349532,width-300,height-225,imgsize-130822,resizemode-75/green-hydrogen.jpg'/>
+Renewable Energy Magazine: "Mahle Powertrain, the specialist
+engineering subsidiary of the Mahle Group, is expanding its
+Northampton facility to include a dedicated hydrogen powertrain
+testing capability"
 
 ---
 
-Racer: "After four seasons of Extreme E, Extreme H will arrive next
-year... 'There’s never been more need to look into new ways of using
-alternative energies than now,' [CEO Agag says]. '.. we’re going to
-focus on cars and the use of hydrogen for cars; it’s a championship
-that is going to be focused on hydrogen in general.'..
-
-Agag has spoken before about Extreme H’s ambition to attract energy
-companies and tech companies.. manufacturers are once again taking
-note, especially as consumer doubts around conventional EVs remain.
-
-'We had a very, very productive meeting a few weeks ago where a very
-large number of car manufacturers showed up with great interest for
-the championship,' he says. 'I was surprised myself'"
+Euractiv: "Hydrogen sector asks EU to help local firms compete with
+China.. European manufacturers of hydrogen equipment have urged the
+European Union to step in to help the industry compete with cheaper
+Chinese producers, in a letter seen by Reuters"
 
 ---
 
-But NL is at least part of the EU, we'll give them some brownie points
+"American Airlines commits to conditional purchase of 100 ZeroAvia
+hydrogen-powered engines, increases investment in hydrogen-electric
+innovator"
+
+<img width='340' src='https://s202.q4cdn.com/986123435/files/images/thumbs/062624-zero-avia-thumb.jpg'/>
 
 ---
 
-Tulip Mania was out of Holland wasn't it? The first widely recognized
-econ bubble of the past 500 yrs.
+TechXplore: "'Nearly sustainable' hydrogen could cut ammonia
+production emissions by 95%.. In a study looking at the European
+ammonia industry, researchers from the Hong Kong University of Science
+and Technology (HKUST) and ETH Zurich have now calculated the
+conditions under which it would be worthwhile to switch ammonia
+production to green or almost green hydrogen. The research is
+published in Nature Communications.
+
+Two results stand out. First, in some European countries such as
+Norway, Spain, Hungary or Poland, ammonia production from green or
+almost green hydrogen would already make economic sense today. In
+these countries, generating sustainable electricity from solar or wind
+energy is particularly cost-effective"
 
 ---
 
-It looks like the rabid trader, plutocracy-based culture also survived
-in Netherlands. It's interesting, when we look at all the countries
-who are most disturbed by Russia (which descends from a security /
-militocratic culture) are the Anglo, and Netherlands..  In relation to
-its size and influence, the amt of aid NL supplies to Ukraine is
-massive. The issue might be cultural.
+Gasworld: "Sungrow wins $4bn China hydrogen and ammonia project
+bid... Sungrow Hydrogen's 1000Nm/h ALK hydrogen production system will
+be applied to the 4bn dollar project, which is expected to produce
+110,000 tonnes of green hydrogen, 600,000 tonnes of green ammonia and
+60,000 tonnes of green methanol"
 
 ---
 
-Turchin: "Gunpowder weapons underwent a rapid evolution during the
-fifteenth century.. Small principalities and city-states could no
-longer hide behind their walls, which were easily breached by
-cannons. Intense military competition between European states weeded
-out those that couldn’t raise large armies; produce muskets and
-artillery in quantity; and build expensive modern fortifications that
-could withstand cannon fire...
-
-The Military Revolution also triggered a revolution in governance and
-finance because successful states had to learn how to efficiently
-extract and use wealth from their populations.. As a result, medieval
-militocracies gradually evolved into ruling classes that combined
-military and administrative functions...
-
-[T]hanks to its protected position in the British Isles.. England
-dispense[d] with the standing army.. The squirearchy, which started as
-a military class, gradually lost its military character and became
-simply a class of landowners.. A large merchant class evolved.. the
-United Kingdom came to be ruled by an elite that combined economic and
-administrative functions... Although most plutocracies rapidly went
-extinct, some lingered longer than others... The Netherlands survived
-into the twenty-first century, in part thanks to its waterways and
-canals"
+Enerdata: "World Bank grants US$1.5bn loan to support India’s hydrogen
+development"
 
 ---
 
-Christian Bruhn (Germany) - Komm' In Fahrt - Der Hansa Pils-Hit \#music
+Modern minimalism is great.. SBUX stores are an example, no?
 
-[[-]](https://youtu.be/tfMTdvQlUH0)
+"Minimalist interior design.. involves using the bare essentials to
+create a simple and uncluttered space. It's characterised by
+simplicity, clean lines, and a monochromatic palette with colour used
+as an accent"
 
----
-
-Railway Gazette: "Siemens Mobility and its Smart Train Lease
-subsidiary have signed a co-operation agreement with Tyczka Hydrogen
-to offer fuel cell trains with a full hydrogen supply chain and
-appropriate support services.
-
-The partnership announced on June 25 is intended to ‘pave the way for
-a successful transformation of railways towards hydrogen mobility’,
-the companies explained"
+[[-]](https://media.tarkett-image.com/medium/IN_41020001_41020002_002.jpg)
 
 ---
 
-"Walmart Canada Becomes the First Major Retailer in Canada to Introduce
-a Hydrogen Fuel Cell Electric Semi-Truck"
-
-<img width='340' src='https://files.mastodon.social/cache/preview_cards/images/102/476/109/original/6a84792bc6bc53fa.webp'/> 
-
----
-
-Fox Business: "Tesla owner says he’s locked out after battery died,
-replacement costs $26K.. A Tesla owner in Canada.. is locked out of
-his 140,000 vehicle after the battery died, and that the electric
-automaker told him a replacement would cost 26,000.. Mario Zelaya
-posted a video on TikTok saying his 'piece of trash' Model S died and
-that the car is locked, preventing him from being able to get
-inside. The caption on the video reads: '26K for a new battery. Locked
-out of car. Recalls are needed'"
+TV movie *Archangel* had some talking down on Russian history and
+culture, Daniel Craig performed his task well like the asset that he
+is.
 
 ---
 
-Ruski Brewski \#music
-
-[[-]](https://www.youtube.com/watch?v=CNJjPZtYkUw)
-
----
-
-Have a little Ruski Brewski
-
-<img width='340' src='mbl/2022/ruskibrewski.jpg'/>
-
----
-
-"@XLCChelt@mastodonapp.uk
-
-Liberals will say 'hey, why don't you lefties stop the "far-right"?'
-
-Because in what is called 'politics', 'left' parties are only allowed
-to 'win' if they'll continue all the current economic systems -
-capitalism and the wealthy with power and status at the top.
-
-Otherwise the whole establishment's might will get unleashed to stop
-them, well before they can make the required real economic change, as
-that is what would end their whole scam taking [from] the rest of us"
+De Schutter, *The Guardian*: "Obsession with growth is enriching
+elites and killing the planet... In the past four years alone the
+world’s five richest men have more than doubled their fortunes, while
+nearly 5 billion people have been made poorer. If current trends
+continue, 575 million people will still be trapped in extreme poverty
+in 2030 – the deadline set by the world’s governments to eradicate
+it. Currently, more than 4 billion people have no access whatsoever to
+social protection"
 
 ---
 
-\#EricBerg 
+Econ distress must be rising... Was *Squid Game* a sign?
 
-[[-]](https://youtu.be/TI39SNPie_M?t=30)
-
----
-
-Electrolytes: regulate body's electrical functions. A lot of hidden
-ailments are tied to a lack of it: calcium, chloride, magnesium,
-potassium, sodium. There are water solubile tablets, easy to
-take. Note these elements are not all vitamins, but specific minerals
-for neural sys.
+Politico: "Young Men Are Swinging Hard Right in Korea. It's a Warning for America."
 
 ---
 
-*Dark Matter*, good show. Its science is unsurprisingly bullshit
-(again, multiverse) but by now this is "established Holywood science",
-so everyone takes it for granted... But they built a good script on
-top. 
+Looking at its energy footprint it will more likely *contribute* to
+climate crisis rather than solve it. And as per finding a solution, it
+is likely to suggest to [put glue on your pizza](https://www.businessinsider.com/google-ai-glue-pizza-i-tried-it-2024-5),
+and not provide any sane solutions.
+
+"DeepMind Wants to Use AI to Solve the Climate Crisis"
 
 ---
 
-Joan Westennerg: "6 months ago, I left the bullshit industrial
-complex.. I used to be good at spinning stories. Give me a half-baked
-startup idea, a semi-charismatic founder and a fistful of VC dollars,
-and I could write a story compelling enough it barely mattered whether
-there was an ounce of truth in it... [But] I would lie awake at 3 AM,
-staring at the ceiling. My life was slipping away, and I had nothing
-to show for it but a series of cynical half truths paid for by shit
-shovelling wannabe billionaires hell bent on leaving the world worse
-off than they found it. I knew I was a part of something poisonous. It
-had been years since I'd displayed a shred of journalistic
-integrity...
-
-One morning, I sat down at my desk to craft yet another press release
-touting yet another 'game-changing' startup that had raised - yet
-another - $25 million. And I realized I couldn't remember the last
-time I'd written something I believed in. The words that used to flow
-felt like trying to squeeze ancient toothpaste from an empty
-tube. That was the day I cracked... Somewhere along the way, I'd
-allowed my writing—the thing that used to give me purpose—to be
-co-opted by the bullshit industrial complex...
-
-I have zero faith in the idea that unfettered vulture capitalism and a
-blind pursuit of 'disruption' will lead us to a better world. I've
-seen how perverse incentives and boiler room pressure to deliver
-exponential growth can warp even the most idealistic founders'
-vision. I've watched brilliant minds get sucked into the vortex of
-funding rounds and vanity metrics, losing sight of why they started
-their companies in the first place"
+The sad thing is the systems aren't even intelligent.
 
 ---
 
-"@GossiTheDog@cyberplace.social
-
-Saw a Threads employee liking a Fediverse toot just now - from Threads
-back into my Mastodon server - looks like more integration is coming"
+Engadget: "Google's greenhouse gas emissions climbed nearly 50 percent
+in five years due to AI"
 
 ---
 
-Could have helped blunt Trump criticism but now it all got drowned out
-by that debate stuff.
+\#RU \#UA #Frontline 06/27 - 07/04
 
-WION: "The number of migrant crossing along the southern border of the
-United States has dropped more than 40 per cent since June 4 when
-President Joe Biden announced suspension of new asylum claims"
+[[-]](mbl/2024/ukrdata/map25-ext.html)
 
 ---
 
-\#SAF \#RSF \#Frontline 04/15 - 07/02
+Arab News: "Russia claims control of part of Chasiv Yar, Ukraine
+reports heavy fighting"
 
-Color red denotes RSF territory. Birdeye view suggests SAF is doing
-somewhat better compared to RSF.
+---
 
-[[-]](mbl/2024/sdndata/map3-ext.html)
+WION: "Biden heaves a sigh of relief as Democratic governors say we
+'have his back'"
+
+---
+
+WION: "Israel-Hamas conflict: Children in Gaza hit hard by dangerous
+skin diseases amid prolonged war"
+
+---
+
+NYT: "Israeli Generals, Low on Munitions, Want a Truce in
+Gaza..Israel's military leadership wants a cease-fire with Hamas in
+case a bigger war breaks out in Lebanon, security officials say"
 
 ---
 
