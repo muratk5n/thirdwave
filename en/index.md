@@ -113,6 +113,17 @@ reports heavy fighting"
 
 ---
 
+Head-to-head match-ups [do not matter](https://www.nbcnews.com/storyline/data-points/poll-hillary-clinton-holds-national-lead-over-donald-trump-n658721).
+The only approval number that matters is the incumbent's. The other
+parameters are growth and incumbency.
+
+---
+
+Biden net aproval fell to -20, if it goes down to -23, with GDP 1.5%
+growth, the odds become even, 50/50.
+
+---
+
 WION: "Biden heaves a sigh of relief as Democratic governors say we
 'have his back'"
 
