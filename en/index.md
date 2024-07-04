@@ -86,7 +86,7 @@ Politico: "Young Men Are Swinging Hard Right in Korea. It's a Warning for Americ
 
 Looking at its energy footprint it will more likely *contribute* to
 climate crisis rather than solve it. And as per finding a solution, it
-is likely to suggest to [put glue on your pizza](https://www.businessinsider.com/google-ai-glue-pizza-i-tried-it-2024-5),
+is likely to suggest to [put glue on your pizza](https://www.businessinsider.com/google-search-ai-overviews-glue-keep-cheese-pizza-2024-5),
 and not provide any sane solutions.
 
 "DeepMind Wants to Use AI to Solve the Climate Crisis"
@@ -188,6 +188,3 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
-
-
-
