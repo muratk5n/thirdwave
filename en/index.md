@@ -122,6 +122,8 @@ parameters are growth and incumbency.
 Biden net aproval fell to -20, if it goes down to -23, with GDP 1.5%
 growth, the odds become even, 50/50.
 
+[[-]](0119/2015/04/predicting-presidential-elections.html#2024)
+
 ---
 
 WION: "Biden heaves a sigh of relief as Democratic governors say we
