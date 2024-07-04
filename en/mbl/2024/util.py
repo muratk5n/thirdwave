@@ -164,8 +164,8 @@ sudan_regs = [
     "RSF-W. Darfur",
     "RSF-W. Darfur 2",
     "RSF-Sennar",
-    "RSF-E.Darfur"
-]
+    "RSF-E.Darfur",
+    "RSF-W.Kordofan"]
 
 def prepare_sahel_suriyak():
     """

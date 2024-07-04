@@ -36,7 +36,7 @@ is not exactly the meaning of friendship'"
 
 ---
 
-[Link](twimg/FflBvumXgAECu8a.jpg)
+[Link](ruskibrewski.jpg)
 
 ---
 

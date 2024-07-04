@@ -38,7 +38,7 @@ function init() {
     
     L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png', {
 	maxZoom: 19,
-	attribution: 'OSM'
+	attribution: '<a href="https://www.google.com/maps/d/u/0/viewer?mid=19IxdgUFhNYyUIXEkYmQgmaYHz6OTMEk">Suriyak Maps</a>'
     }).addTo(map);
 
 }

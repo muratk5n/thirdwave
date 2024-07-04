@@ -19,11 +19,6 @@ pd.set_option('display.max_columns', None)
 
 
 
-
-
-
-
-
 ```python
 app = u.biden_approval()
 app = app[app.index > '2024-01-01']
@@ -35,10 +30,16 @@ plt.savefig('/tmp/out.jpg')
 
 ```text
 end_date
-2024-06-28   -17.891216
-2024-06-29   -18.507328
-2024-06-30   -18.970774
+2024-07-01   -18.710026
+2024-07-02   -19.425364
+2024-07-03   -20.015083
 Name: net, dtype: float64
 ```
+
+
+
+
+
+
 
 
