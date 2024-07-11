@@ -51,5 +51,3 @@ async function searchText() {
 	document.getElementById("output").innerHTML = out;
     }
 }
-
-

@@ -1,144 +1,44 @@
 
-Renewable Energy Magazine: "Mahle Powertrain, the specialist
-engineering subsidiary of the Mahle Group, is expanding its
-Northampton facility to include a dedicated hydrogen powertrain
-testing capability"
+Fortune: "AI is effectively ‘useless’—and it’s created a ‘fake it till
+you make it’ bubble that could end in disaster, veteran market watcher
+warns"
 
 ---
 
-Euractiv: "Hydrogen sector asks EU to help local firms compete with
-China.. European manufacturers of hydrogen equipment have urged the
-European Union to step in to help the industry compete with cheaper
-Chinese producers, in a letter seen by Reuters"
+The Register: "Microsoft ad subsidiary Xandr accused of violating
+GDPR.. Access, deletion requests go ignored, and consumer profiles
+contradict themselves, complaint alleges.. The complaint, filed today
+in Italy by the perennial privacy defenders at noyb..  claims that
+Xandr, in its role as Microsoft's demand-side platform used by
+advertisers to bid for eyeballs, has violated GDPR in two
+ways. Firstly, noyb claims that it has failed to minimize data
+collection or ensure the accuracy needed for targeted
+advertising. Secondly, it has failed to comply with any consumer
+requests for data access or erasure"
 
 ---
 
-"American Airlines commits to conditional purchase of 100 ZeroAvia
-hydrogen-powered engines, increases investment in hydrogen-electric
-innovator"
+FuelCellsWorks: "H3 Dynamics Supplies Airworthy 0.5 MW Hydrogen Fuel
+Cell To Airbus Upnext For Aircraft APU Tests"
 
-<img width='340' src='https://s202.q4cdn.com/986123435/files/images/thumbs/062624-zero-avia-thumb.jpg'/>
-
----
-
-TechXplore: "'Nearly sustainable' hydrogen could cut ammonia
-production emissions by 95%.. In a study looking at the European
-ammonia industry, researchers from the Hong Kong University of Science
-and Technology (HKUST) and ETH Zurich have now calculated the
-conditions under which it would be worthwhile to switch ammonia
-production to green or almost green hydrogen. The research is
-published in Nature Communications.
-
-Two results stand out. First, in some European countries such as
-Norway, Spain, Hungary or Poland, ammonia production from green or
-almost green hydrogen would already make economic sense today. In
-these countries, generating sustainable electricity from solar or wind
-energy is particularly cost-effective"
+<img width='340' src='https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/112/740/853/224/258/867/small/ac6c6a373b2237f8.png'/>
 
 ---
 
-Gasworld: "Sungrow wins $4bn China hydrogen and ammonia project
-bid... Sungrow Hydrogen's 1000Nm/h ALK hydrogen production system will
-be applied to the 4bn dollar project, which is expected to produce
-110,000 tonnes of green hydrogen, 600,000 tonnes of green ammonia and
-60,000 tonnes of green methanol"
+NYT: "Modi’s Russia Visit Showcases a Less Isolated Putin, Angering Ukraine"
 
 ---
 
-Enerdata: "World Bank grants US$1.5bn loan to support India’s hydrogen
-development"
+Today Niu York, tomorrow New York.
 
 ---
 
-Modern minimalism is great.. SBUX stores are an example, no?
+\#Frontline \#RU \#UA - 07/04 - 07/10
 
-"Minimalist interior design.. involves using the bare essentials to
-create a simple and uncluttered space. It's characterised by
-simplicity, clean lines, and a monochromatic palette with colour used
-as an accent"
+Ruski is coming for Niu York. Spirne is gone. Makiivka is in danger. So
+is Pishchane. 
 
-[[-]](https://media.tarkett-image.com/medium/IN_41020001_41020002_002.jpg)
-
----
-
-TV movie *Archangel* had some talking down on Russian history and
-culture, Daniel Craig performed his task well like the asset that he
-is.
-
----
-
-De Schutter, *The Guardian*: "Obsession with growth is enriching
-elites and killing the planet... In the past four years alone the
-world’s five richest men have more than doubled their fortunes, while
-nearly 5 billion people have been made poorer. If current trends
-continue, 575 million people will still be trapped in extreme poverty
-in 2030 – the deadline set by the world’s governments to eradicate
-it. Currently, more than 4 billion people have no access whatsoever to
-social protection"
-
----
-
-Econ distress must be rising... Was *Squid Game* a sign?
-
-Politico: "Young Men Are Swinging Hard Right in Korea. It's a Warning for America."
-
----
-
-Looking at its energy footprint it will more likely *contribute* to
-climate crisis rather than solve it. And as per finding a solution, it
-is likely to suggest to [put glue on your pizza](https://www.businessinsider.com/google-search-ai-overviews-glue-keep-cheese-pizza-2024-5),
-and not provide any sane solutions.
-
-"DeepMind Wants to Use AI to Solve the Climate Crisis"
-
----
-
-The sad thing is the systems aren't even intelligent.
-
----
-
-Engadget: "Google's greenhouse gas emissions climbed nearly 50 percent
-in five years due to AI"
-
----
-
-\#RU \#UA #Frontline 06/27 - 07/04
-
-[[-]](mbl/2024/ukrdata/map25-ext.html)
-
----
-
-Arab News: "Russia claims control of part of Chasiv Yar, Ukraine
-reports heavy fighting"
-
----
-
-Head-to-head match-ups [do not matter](https://www.nbcnews.com/storyline/data-points/poll-hillary-clinton-holds-national-lead-over-donald-trump-n658721).
-The only approval number that matters is the incumbent's. The other
-parameters are growth and incumbency.
-
----
-
-Biden net aproval fell to -20, if it goes down to -23, with GDP 1.5%
-growth, the odds become even, 50/50.
-
-[[-]](0119/2015/04/predicting-presidential-elections.html#2024)
-
----
-
-WION: "Biden heaves a sigh of relief as Democratic governors say we
-'have his back'"
-
----
-
-WION: "Israel-Hamas conflict: Children in Gaza hit hard by dangerous
-skin diseases amid prolonged war"
-
----
-
-NYT: "Israeli Generals, Low on Munitions, Want a Truce in
-Gaza..Israel's military leadership wants a cease-fire with Hamas in
-case a bigger war breaks out in Lebanon, security officials say"
+[[-]](mbl/2024/ukrdata/map26.html)
 
 ---
 

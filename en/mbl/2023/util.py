@@ -988,5 +988,6 @@ if __name__ == "__main__":
     #df.plot()
     #plt.savefig('/tmp/out.jpg',quality=40)
 
-    ukr_data_json()
-      
+    #ukr_data_json()
+
+    ike_ncei(lat=30.302,lon=30,day=4,month=7,year=2024,hour=10)

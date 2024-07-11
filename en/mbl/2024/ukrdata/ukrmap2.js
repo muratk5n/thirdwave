@@ -38,7 +38,7 @@ function plot(before,after) {
 	lineaft.addTo(map);
     });
 
-    url = `/en/mbl/2024/ukrdata/transnistria.json`;
+    url = `/en/mbl/2024/ukrdata/region_transnistria.json`;
     var xmlHttp = new XMLHttpRequest();
     xmlHttp.open( "GET", url = url, false ); 
     xmlHttp.send( null );

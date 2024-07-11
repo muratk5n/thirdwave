@@ -1,5 +1,279 @@
 # Week 27
 
+Aviation Week: "Airbus’ Hydrogen Project Is In Full Swing.. Although
+ZEROe has yet to become a full-fledged program, Airbus’ plan to have
+hydrogen-powered commercial aircraft in service in 2035 is making
+significant progress. Ground trials of a fuel cell engine are
+achieving positive results. Preparations are underway for fuel cell
+engine flight tests"
+
+<img width='340' src='https://aviationweek.com/sites/default/files/styles/crop_freeform/public/2024-07/fia-hydrogen-1-airbus_promo.jpg?itok=OcxqUXvD'/>
+
+---
+
+Bcz there is an M$ product at both ends..? 😅 too funny
+
+"@yonabee@eldritch.cafe
+
+Microsoft is both sending advertisements to my work email and
+automatically categorizing them as spam and quarantining them for
+me. Truly the world's most advanced company"
+
+---
+
+The Shidaowan plant is the Chinese take on the HTGR, they call it PBMR
+(pebble bed modular reactor) or HTR-PM ( High Temperature gas-cooled
+Reactor – Pebble bed Module). The tech looks solid. Hopefully it
+spreads within and outside China. 
+
+---
+
+Engineering News: "Graphite is the material used to moderate the
+nuclear chain reactions. The fuel is in the form of small spheres
+(hence the name ‘pebble bed’), 60 mm in diameter, each containing 7 g
+of low (8.5%) enriched uranium fuel, coated with four layers of
+ceramics and graphite. The fuel load for each reactor comprises about
+12 000 such pebbles"
+
+---
+
+Business Insider: "[2023/12] China's bragging about being the first to
+build a next-generation nuclear reactor...China on Wednesday said the
+Shidaowan nuclear reactor is officially contributing to the power
+grid... it's the world's first reactor that uses helium, not water.
+Nuclear plants often use billions of gallons of water per day, a
+problem for water-starved China...
+
+Reactors typically need around 400 to 720 gallons of water for every
+megawatt produced for an hour, meaning a single nuclear plant can use
+billions of gallons per day. Experimental reactors using helium have
+been built before, such as one in Oarai, Japan, but the Shidaowan is
+the first to be used commercially"
+
+<img width='340' src='https://i.insider.com/657159f37a3c8094d5da82b4?width=2000&format=jpeg&auto=webp'/>
+
+---
+
+Battery-brain shitlibs are pretty foolish actually. They didn't even
+use their own brains to make this judgement btw, one Dem made the
+wrong call, and they followed like cattle. Rest of the world copied
+because US is a trendsetter, and the suck spread and spread.
+
+---
+
+Sad
+
+Trump: "All they know is electric, they want electric army tanks, they
+want electric planes.. they want electric everything every day. They
+want electric boats. The problem, the boats, they don't float because
+the battery is so heavy. It sinks the boat. They say we don't care. We
+want em anyway"
+
+---
+
+Joint Statement: "The Administration’s policy in Gaza is a failure and
+a threat to U.S. national security. America’s diplomatic cover for,
+and continuous flow of arms to, Israel has ensured our undeniable
+complicity in the killings and forced starvation of a besieged
+Palestinian population in Gaza. This is not only morally reprehensible
+and in clear violation of international humanitarian law and 
+U.S. laws, but it has also put a target on America’s back..
+
+Critically, this failed policy has not achieved its stated
+objectives—it has not made Israelis any safer, it has emboldened
+extremists while it has been devastating for the Palestinian people,
+ensuring a vicious cycle of poverty and hopelessness, with all the
+implications of that cycle, for generations to come. As a group of
+dedicated Americans in service of our country, we insist that there
+is another way. In this Statement, we describe the current crisis,
+explain what we have seen...
+
+SMSgt Mohammed Abu Hashem, Lily Greenberg Call, Anna Del Castillo,
+Stacy Gilbert, Tariq Habash, Maryam Hassanein, Maj Riley Livermore,
+MAJ Harrison Mann, Josh Paul, Hala Rharrit, Annelle Sheline, Alexander
+Smith"
+
+[[-]](https://jointstatement.tiiny.site/)
+
+---
+
+CNN: "The US government employees who have publicly resigned in
+protest of the Biden administration’s Gaza policies released a joint
+statement..  for the first time, stating they 'stand united in a
+shared belief that it is our collective responsibility to speak up'
+and outlining steps they believe the US government should take. The 12
+signatories tendered their resignations at various points over the
+course of the nearly nine-month conflict between Israel and Hamas,
+with one resigning as recently as Tuesday"
+
+---
+
+We know sanctions as one country (usually US) placing trade
+restrictions on another country to punish them. UK is probably the
+only country of late that effectively sanctioned itself. They said
+"I'm going to punish myself to restrict my trade with my biggest
+trading partner". Well how do you like it now, chap?
+
+---
+
+Cons got what they deserved.. This is Brexit the mistake coming home
+to roost. 
+
+WaPo: "U.K. election results: Landslide Labour win ends 14 years of
+Conservatives"
+
+---
+
+Told ya.. guy got his ass kicked.
+
+London Evening Standard: "Jeremy Corbyn wins Islington North seat by
+almost 8,000 votes over Labour candidate"
+
+---
+
+Renewable Energy Magazine: "Mahle Powertrain, the specialist
+engineering subsidiary of the Mahle Group, is expanding its
+Northampton facility to include a dedicated hydrogen powertrain
+testing capability"
+
+---
+
+Euractiv: "Hydrogen sector asks EU to help local firms compete with
+China.. European manufacturers of hydrogen equipment have urged the
+European Union to step in to help the industry compete with cheaper
+Chinese producers, in a letter seen by Reuters"
+
+---
+
+"American Airlines commits to conditional purchase of 100 ZeroAvia
+hydrogen-powered engines, increases investment in hydrogen-electric
+innovator"
+
+<img width='340' src='https://s202.q4cdn.com/986123435/files/images/thumbs/062624-zero-avia-thumb.jpg'/>
+
+---
+
+TechXplore: "'Nearly sustainable' hydrogen could cut ammonia
+production emissions by 95%.. In a study looking at the European
+ammonia industry, researchers from the Hong Kong University of Science
+and Technology (HKUST) and ETH Zurich have now calculated the
+conditions under which it would be worthwhile to switch ammonia
+production to green or almost green hydrogen. The research is
+published in Nature Communications.
+
+Two results stand out. First, in some European countries such as
+Norway, Spain, Hungary or Poland, ammonia production from green or
+almost green hydrogen would already make economic sense today. In
+these countries, generating sustainable electricity from solar or wind
+energy is particularly cost-effective"
+
+---
+
+Gasworld: "Sungrow wins $4bn China hydrogen and ammonia project
+bid... Sungrow Hydrogen's 1000Nm/h ALK hydrogen production system will
+be applied to the 4bn dollar project, which is expected to produce
+110,000 tonnes of green hydrogen, 600,000 tonnes of green ammonia and
+60,000 tonnes of green methanol"
+
+---
+
+Enerdata: "World Bank grants US$1.5bn loan to support India’s hydrogen
+development"
+
+---
+
+Modern minimalism is great.. SBUX stores are an example, no?
+
+"Minimalist interior design.. involves using the bare essentials to
+create a simple and uncluttered space. It's characterised by
+simplicity, clean lines, and a monochromatic palette with colour used
+as an accent"
+
+[[-]](https://media.tarkett-image.com/medium/IN_41020001_41020002_002.jpg)
+
+---
+
+TV movie *Archangel* had some talking down on Russian history and
+culture, Daniel Craig performed his task well like the asset that he
+is.
+
+---
+
+De Schutter, *The Guardian*: "Obsession with growth is enriching
+elites and killing the planet... In the past four years alone the
+world’s five richest men have more than doubled their fortunes, while
+nearly 5 billion people have been made poorer. If current trends
+continue, 575 million people will still be trapped in extreme poverty
+in 2030 – the deadline set by the world’s governments to eradicate
+it. Currently, more than 4 billion people have no access whatsoever to
+social protection"
+
+---
+
+Econ distress must be rising... Was *Squid Game* a sign?
+
+Politico: "Young Men Are Swinging Hard Right in Korea. It's a Warning for America."
+
+---
+
+Looking at its energy footprint it will more likely *contribute* to
+climate crisis rather than solve it. And as per finding a solution, it
+is likely to suggest to [put glue on your pizza](https://www.businessinsider.com/google-search-ai-overviews-glue-keep-cheese-pizza-2024-5),
+and not provide any sane solutions.
+
+"DeepMind Wants to Use AI to Solve the Climate Crisis"
+
+---
+
+The sad thing is the systems aren't even intelligent.
+
+---
+
+Engadget: "Google's greenhouse gas emissions climbed nearly 50 percent
+in five years due to AI"
+
+---
+
+\#RU \#UA #Frontline 06/27 - 07/04
+
+[[-]](ukrdata/map25-ext.html)
+
+---
+
+Arab News: "Russia claims control of part of Chasiv Yar, Ukraine
+reports heavy fighting"
+
+---
+
+Head-to-head match-ups [are not as](https://www.nbcnews.com/storyline/data-points/poll-hillary-clinton-holds-national-lead-over-donald-trump-n658721)
+crucial as the approval number of the incumbent. The other parameters
+used in the prediction formula are growth and incumbency.
+
+---
+
+Biden net aproval fell to -20, if it goes down to -23, with GDP 1.5%
+growth, the odds become even, 50/50.
+
+[[-]](0119/2015/04/predicting-presidential-elections.html#2024)
+
+---
+
+WION: "Biden heaves a sigh of relief as Democratic governors say we
+'have his back'"
+
+---
+
+WION: "Israel-Hamas conflict: Children in Gaza hit hard by dangerous
+skin diseases amid prolonged war"
+
+---
+
+NYT: "Israeli Generals, Low on Munitions, Want a Truce in
+Gaza..Israel's military leadership wants a cease-fire with Hamas in
+case a bigger war breaks out in Lebanon, security officials say"
+
+---
+
 The Economic Times: "World Bank lends $1.5 billion push to power green
 hydrogen market.. New Delhi: The World Bank Friday approved a 1.5
 billion loan to help India accelerate low-carbon energy development by
@@ -113,7 +387,7 @@ Ruski Brewski \#music
 
 Have a little Ruski Brewski
 
-<img width='340' src='mbl/2022/ruskibrewski.jpg'/>
+<img width='340' src='../2022/ruskibrewski.jpg'/>
 
 ---
 
@@ -204,7 +478,7 @@ President Joe Biden announced suspension of new asylum claims"
 Color red denotes RSF territory. Birdeye view suggests SAF is doing
 somewhat better compared to RSF.
 
-[[-]](mbl/2024/sdndata/map3-ext.html)
+[[-]](sdndata/map3-ext.html)
 
 ---
 
