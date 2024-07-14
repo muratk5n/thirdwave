@@ -45,7 +45,7 @@ F24: "Israeli strike on Gaza 'safe zone' kills more than 70, officials say"
 
 ---
 
-The American Conservative: "'In Trump’s first term, these realist
+The American Conservative: "'In Trump’s first term [his] realist
 impulses were muted and sometimes stopped by hawkish national security
 staffers who did not share his vision. But having learned that
 personnel is policy, Trump will not make this mistake again'
@@ -63,7 +63,7 @@ the interests of others'"
 
 ---
 
-Anti M&A mindset! We can't have that!
+An anti M&A mindset! We can't have that!
 
 FT: "Vance.. has been among the loudest Republican voices opposing
 more US aid to Ukraine... But it is Vance’s [economy views] that has
