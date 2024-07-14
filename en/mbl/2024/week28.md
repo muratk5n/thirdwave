@@ -1,5 +1,238 @@
 # Week 28
 
+Corey Quinn: "I was in New York this week for the AWS Summit.. I know,
+I know–all of the industry is currently consumed by a paroxysm of
+GenAI hype.. However, the badge lanyards were GenAI branded, the
+keynote opening slide simply said 'Generative AI,' and every single
+offering discussed during the ~98 minute keynote was centered around
+Generative AI. Nearly every expo hall booth was dripping with GenAI;
+Elastic even went so far as to rebrand itself as 'The Search AI
+company.'..
+
+[AI] fails to state a compelling business case. There has to be
+downstream value derived from any business initiative. Terms like
+'transformation' are bandied around cheaply; so far all of the value
+business that I’ve spoken with are deriving from GenAI initiatives
+represent evolutionary steps rather than revolutionary steps.. the
+hyperfocus on GenAI is concerning to me because of what’s being
+shunted aside to create room for it..
+
+They’re Amazon WEB Services, not Amazon GenAI Services. I fix large
+AWS bills for large enterprises for a living; my customers have a raft
+of very large-scale challenges that don’t involve GenAI in the
+slightest. Two years ago the AWS event keynotes were full of offerings
+that made solid strides towards assuaging those customer
+concerns. This year there was none of that; the non-GenAI section of
+the keynote simply didn’t exist"
+
+---
+
+Zucman: "A blueprint for a coordinated minimum effective taxation
+standard for ultra-high-net-worth individuals"
+
+[PDF](https://gabriel-zucman.eu/files/report-g20.pdf)
+
+---
+
+You can view multitude of file types via the browser / LAN-based app
+server, read binary from server, create response via `make_response`,
+and set the `Content-Type` to `application/pdf`, or `video/mp4`, ...
+
+---
+
+Ultra mobile computing setup... VNC to Unix board, sucky. HDMI monitor
+is out of the question, not commodatized enough. Kboard on Droid
+tablet, `ssh` into Unix board..? For visuals (no good X11 on droid
+sadly) use small web apps. 
+
+---
+
+Roddenberry's universe has no money. The first TNG season was a little
+rough around the edges but the ep *The Neutral Zone*'s message was
+clear.
+
+---
+
+Roddenberry was probably a Europhile. For TNG he picked a British
+actor as the Captain, and gave him the backstory of a Frenchman. The
+crew has uniforms, w/ ranks creating the air of a culture descending
+from a militocracy, not trading (that was the Ferrengi). The first
+officer acted the brash American type (every scifi needs its Han Solo)
+but Riker was Canadian according to Trek canon. Canadians are of
+course bizarre, un-American, weird.
+
+---
+
+"Ariane 6 uses liquid hydrogen and liquid oxygen as fuel for its main
+and upper stages...  ESA and France’s space agency CNES wish to switch
+to solar-powered electrolysis of water [to produce green hydrogen as
+rocket fuel].. Project Hyguane – a portmanteau of the French words for
+hydrogen, French Guiana and the local Iguanas – is a €40.5M investment
+in a solar farm and distribution systems and is being designed to be
+allowed to easily expand in the future"
+
+<img width='340' src='https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/12/hyguane_low-carbon_hydrogen_for_ariane_6_and_europe_s_spaceport/25386266-1-eng-GB/Hyguane_low-carbon_hydrogen_for_Ariane_6_and_Europe_s_Spaceport_article.jpg'/>
+
+---
+
+"The upper stage [of Ariane 6] is powered by the reignitable Vinci
+engine fueled by cryogenic liquid oxygen and hydrogen. This allows
+Ariane 6 to reach a range of orbits on a single mission, and deliver
+more payloads. The upper stage will typically burn one, two or more
+times to reach targeted orbits. After payload separation, the upper
+stage will perform a de-orbit maneuver, in order to mitigate space
+debris"
+
+<img width='340' src='https://www.dropbox.com/scl/fi/4bn5u5eaodmbr5edu8j20/ariane-6-1.gif?rlkey=wb5talkw4uh3k2ik1p7fmlr6w&st=075091l5&raw=1'/>
+
+---
+
+European Space Agency: "Europe's new Ariane 6 rocket powers into
+space"
+
+---
+
+Al-Monitor: "Commercial goods trucked into Gaza after aid logjams"
+
+---
+
+F24: "Record number of far-right MPs to enter French parliament
+despite election disappointment"
+
+---
+
+Politico: "Under the ranked-choice system, voters pick up to five
+candidates ranked in order or preference. If no one gets a majority on
+the first ballot, the last place candidate is eliminated and their
+votes are distributed to the voter’s second choice, a process that
+continues until one candidate claims more than 50 percent"
+
+---
+
+Is the French two-round system for parliament democratic, especially
+the way it was used recently, some parties conspired to boot out
+National Rally? Some could argue non-NR parties created a virtual
+ranked-choice voting system... Instead of second, third choices being
+counted via a computational elimination system, some parties, through
+a conspiracy, did it for the voters. But that's the key point - those
+parties made the choice for the voter. Under a ranked-choice system
+the winner with the most votes usually wins the elimination
+computation. When NR is involved in France, they lose more than they
+win. The conspiracy's outcome is officially democratic, but it smells
+funky.
+
+---
+
+"eXERO process [of Utility Global] is the first time a
+zero-electricity electrolysis process converts sustainable waste
+streams directly into high-purity, low-cost hydrogen. The process is
+achieved by removing the external electrical circuit from the
+electrolyzer and instead controlling the reaction using the
+overpotential (voltage) that exists between the different gas
+compositions. Similar to a conventional solid oxide electrolyser,
+water is reduced at the cathode to hydrogen and oxygen ions. The
+oxygen ions are then transferred through an electrolyte that conducts
+the oxygen ions. However, unlike a conventional electrochemical
+reactor, electrons are transferred through a conductive phase within
+the electrolyte, rather than through an external circuit"
+
+<img width='340' src='https://ecopolitic.com.ua/wp-content/uploads/2021/08/shutterstock_1913162587.jpg'/>
+
+---
+
+Australian PM fought for Assange, played a huge role in his
+freedom. On his way out Sunak might have helped as well, not sure how
+much. Let's not forget Biden, sure he'd have wanted to avoid a
+potential mess in US, creating headaches for everyone, but still, USG
+could have made life living hell for Julian and they didn't. When
+pressed by Albanese JB didn't object, actively helped.
+
+---
+
+CNBC: "Greece defends new six-day working week legislation, says it's
+an 'exceptional measure'"
+
+---
+
+"Energys Australia deploys hydrogen generators at remote cell tower
+locations"
+
+---
+
+Reuters: "Spain approves 800 million euros of subsidies for green
+hydrogen projects"
+
+---
+
+Boeing. It's not going.
+
+TDB: "Boeing at It Again: United Airlines Plane Loses Wheel During
+Takeoff"
+
+---
+
+Wes Moore's name keeps coming up.. What is his position on the
+complex.. ?  Searches only bring back platitudish positions on the
+military, "being thoughtful of veterans" so forth, but nothing about
+the larger machinery itself. Is WM another version of Beto O'Rourke
+with "platitude politics" and nothing more?
+
+He seems genuinely keen on helping the poor though, that's good.
+
+---
+
+CNBC: "Apple reaches deal with EU regulators to open up mobile
+payments system to rivals"
+
+---
+
+WOSU: "[The Central Ohio Transit Authority] COTA gets $22.8 million
+federal grant award to pilot 10 hydrogen-fueled buses"
+
+---
+
+Fortune: "AI is effectively ‘useless’—and it’s created a ‘fake it till
+you make it’ bubble that could end in disaster, veteran market watcher
+warns"
+
+---
+
+The Register: "Microsoft ad subsidiary Xandr accused of violating
+GDPR.. Access, deletion requests go ignored, and consumer profiles
+contradict themselves, complaint alleges.. The complaint, filed today
+in Italy by the perennial privacy defenders at noyb..  claims that
+Xandr, in its role as Microsoft's demand-side platform used by
+advertisers to bid for eyeballs, has violated GDPR in two
+ways. Firstly, noyb claims that it has failed to minimize data
+collection or ensure the accuracy needed for targeted
+advertising. Secondly, it has failed to comply with any consumer
+requests for data access or erasure"
+
+---
+
+FuelCellsWorks: "H3 Dynamics Supplies Airworthy 0.5 MW Hydrogen Fuel
+Cell To Airbus Upnext For Aircraft APU Tests"
+
+<img width='340' src='https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/112/740/853/224/258/867/small/ac6c6a373b2237f8.png'/>
+
+---
+
+NYT: "Modi’s Russia Visit Showcases a Less Isolated Putin, Angering Ukraine"
+
+---
+
+Today Niu York, tomorrow New York.
+
+---
+
+\#Frontline \#RU \#UA - 07/04 - 07/10
+
+Ruski is coming for Niu York. Spirne is gone. Makiivka is in danger. So
+is Pishchane. 
+
+[[-]](mbl/2024/ukrdata/map26.html)
+
+---
 
 "How big corporations took over Western governments"
 
