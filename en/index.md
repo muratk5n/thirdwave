@@ -1,7 +1,7 @@
 
 via @fuck_cars_bot@botsin.space
 
-<img width='200' src='https://files.botsin.space/media_attachments/files/112/787/651/554/666/771/small/f1393537eb64536b.jpeg'/>
+<img width='340' src='https://files.botsin.space/media_attachments/files/112/787/651/554/666/771/small/f1393537eb64536b.jpeg'/>
 
 ---
 
@@ -27,8 +27,10 @@ I would not be surprised.. there is a lot money involved in that
 [racket](https://cdn.fosstodon.org/media_attachments/files/112/811/480/690/795/566/original/5d00be1a26e69b39.jpeg),
 people have killed others for less.
 
-TASS: "Ukraine could try to kill Trump, pro-Kremlin opposition
-politician warns in letter to ex-US prez"
+WION: "Ukraine could try to kill Trump.. [wrote] an exiled Ukrainian
+politician who currently lives in Russia.. [Medvedchuk] was handed
+over to Russia as part of a prisoner swap. He was the leader of
+Platform For Life party, which is now banned in Ukraine"
 
 ---
 
@@ -133,3 +135,5 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
+
+
