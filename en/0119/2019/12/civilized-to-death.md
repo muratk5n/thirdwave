@@ -44,7 +44,7 @@ better world for their children. Now we just hope they’ll somehow
 survive the mess. ...
 
 Before I started studying evolution, I was under the impression that
-ancient Greece was a long time ago. It’s 'ancient' after all. But
+ancient Greece was a long time ago. It’s "ancient" after all. But
 ancient Greece was only about three thousand years ago. Rome, two
 thousand. The very earliest signs of agriculture and fixed human
 settlements appeared roughly ten thousand years ago. These are all
@@ -91,7 +91,7 @@ water. ....
 
 The widespread belief that noncivilized human life was and is a
 desperate struggle for survival resonates with the haughty dismissal
-of uncivilized 'savages' common to previous centuries. But beyond its
+of uncivilized "savages" common to previous centuries. But beyond its
 inaccuracy and racist undertones, this view has disastrous
 consequences in the present. Life-and-death medical decisions are
 misinformed by false assumptions about the capacities of the human
@@ -101,12 +101,12 @@ suffering they’re meant to avert, educational institutions smother the
 innate curiosity of students, and so on. Indeed, nearly every aspect
 of our lives (and our deaths) is distorted by a misinformed sense of
 what kind of animal *Homo sapiens* really is.  Dr. Jonas Salk, famous
-for having invented the polio vaccine, put it memorably: 'It is
+for having invented the polio vaccine, put it memorably: "It is
 necessary now not only to know thyself, but also to know thy species
 and to understand the wisdom of nature, and especially living nature,
 if we are to understand and help man develop his own wisdom in a way
 that will lead to life of such quality as to make living a desirable
-and fulfilling experience.' ...
+and fulfilling experience." ...
 
 <a name='nike'></a>
 
@@ -115,18 +115,18 @@ how Nike convinced generations of joggers to ignore the evolved
 biomechanics of the human body to run in an unnatural, debilitating
 way that required the purchase of their expensive, utterly unnecessary
 products. ...  McDougall quotes a financial columnist who thought
-Nike’s plan was 'brilliant.' '[They] created a market for a product
+Nike’s plan was "brilliant." "[They] created a market for a product
 and then created the product itself. ..” You may think it’s unfair to
 focus on Nike, but McDougall disagrees. “Blaming the running injury
 epidemic on big, bad Nike seems too easy,” he writes, “but that’s
-okay, because it’s largely their fault.'
+okay, because it’s largely their fault."
 
-Nike’s 'deftest move,' McDougall writes, 'was advocating a new style
+Nike’s "deftest move," McDougall writes, "was advocating a new style
 of running that was only possible in [its] new style of shoe [which]
 allowed people to run in a way no humans safely could before: by
-landing on their bony heels.' ...  Before the advent of these shoes in
+landing on their bony heels." ...  Before the advent of these shoes in
 1972, Lieberman has noted, “People ran in very thin-soled shoes, had
-strong feet, and had much lower incidence of knee injuries.' ...
+strong feet, and had much lower incidence of knee injuries." ...
 
 We keep [the children] indoors because we think it’s safer, but
 dangers lurk in the house. Inactivity leads to obesity and diabetes,
@@ -190,7 +190,7 @@ us that it goes back millions of years to before our ancestors
 diverged from the line leading to chimps (who sometimes engage in
 lethal group aggression), then war must be innate to our species.  But
 there are serious problems here. First, it’s subtly, if deeply,
-misleading to describe chimps as 'our closest primate cousin' without
+misleading to describe chimps as "our closest primate cousin" without
 mentioning bonobos—our other, equally intimately related primate
 cousin. ...
 
@@ -200,7 +200,7 @@ or pillaging. No infanticide. No support, in other words, for the
 primate origins of human war. ...
 
 Chimps and bonobos both descended from the same common ancestor that
-split from our line, so if one is our 'cousin,' both are. ...
+split from our line, so if one is our "cousin," both are. ...
 
 Almost a century ago, Russell recognized that most of the hours human
 beings spend working are a total waste of time, noting that “only a
@@ -211,25 +211,25 @@ leisure has always been shocking to the rich” and that the industrial
 labor mobilized for World War I was never demobilized. Of course, a
 decade after his essay was published, another mobilization was under
 way, on a much larger scale, ultimately congealing into what President
-Eisenhower called 'the military-industrial complex.' ...
+Eisenhower called "the military-industrial complex." ...
 
 Richard Dawkins is one of the most famous scientists alive ... In
 *River Out of Eden*, Dawkins describes animal life as an operatic
-ordeal of starvation, misery, and pitiless indifference. 'The total
+ordeal of starvation, misery, and pitiless indifference. "The total
 amount of suffering per year in the natural world is beyond all decent
-contemplation,' he writes with trembling hand. 'During the minute that
+contemplation," he writes with trembling hand. "During the minute that
 it takes me to compose this sentence, thousands of animals are being
 eaten alive, many others are running for their lives, whimpering with
 fear, others are slowly being devoured from within by rasping
 parasites, thousands of all kinds are dying of starvation, thirst, and
-disease' ...
+disease" ...
 
 We’ve all witnessed such scenes many times on TV, and it’s hard to
 argue against the cruelty of nature when you’re watching the flapping
 tail of a seal disappear down the throat of a sea monster, or an
-antelope twitching in the grip of a cold-eyed lioness. 'Thank God I’m
-safe,' we think, 'sitting here on my sofa, with my Cheez Doodles and
-Big Gulp.' ...
+antelope twitching in the grip of a cold-eyed lioness. "Thank God I’m
+safe," we think, "sitting here on my sofa, with my Cheez Doodles and
+Big Gulp." ...
 
 But I’ve had occasion to hang around some seals in my time, and they
 never struck me as particularly anxious animals. Every seal I’ve
@@ -244,7 +244,3 @@ and soaking up the sun followed by a sudden, unanticipated, nearly
 painless demise. Even if that particular seal died in her prime—at
 fifteen or twenty years of age—the ratio of pleasure to pain in her
 life was better than what most of us can expect. ...
-
-
-
-

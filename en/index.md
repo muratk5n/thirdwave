@@ -1,119 +1,89 @@
 
-CleanTechnica: "Hydrogen Fuel Cell eVOTL And Jets Are Coming For Your
-Fossil Fuels"
+via @fuck_cars_bot@botsin.space
+
+<img width='200' src='https://files.botsin.space/media_attachments/files/112/787/651/554/666/771/small/f1393537eb64536b.jpeg'/>
 
 ---
 
-Hydrogen-Powered Air Taxi.. In a significant milestone for sustainable
-aviation, a hydrogen-powered air cab has completed an 842-kilometer
-flight.. Joby is one of several companies at the forefront of creating
-air cab services using vertical take-off and landing (VTOL)
-vehicles. Initially, the company focused on developing all-electric
-aircraft with a range of approximately 160 kilometers, intended for
-urban and intercity transport. Joby recently adapted a prototype of
-its electric aircraft to operate on hydrogen. Equipped with a liquid
-hydrogen tank and a fuel system, the modified VTOL successfully
-completed a flight of 842 kilometers over Marina, California, using
-only 90% of its hydrogen fuel load.
+"@GossiTheDog@cyberplace.social
 
-<img width='340' src='https://omniletters.com/wp-content/uploads/2024/07/Hydrogen-Powered-Air-Taxi.webp'/>
+My laptop is currently idle. MDE process (`MsSense.exe`) is using 2316mb
+of RAM"
 
 ---
 
-Techcrunch: "Tesla reportedly delays ‘robotaxi’ event to
-October.. Tesla is apparently not ready to reveal its “robotaxi”
-design next month, and is instead pushing the event to October,
-according to Bloomberg News.. The company reportedly needs more time
-to build the prototypes. It had been aiming for an August 8 event. The
-company did not immediately respond to a request for comment. Tesla
-shares fell more than 6% following the report"
+H2 Central: "New hydrogen storage facility in Hamburg Metropolitan
+Region. Storengy Deutschland announced Tuesday (June 11, 2024) plans
+to build new underground caverns to store up to 15,000 tonnes of
+hydrogen in Hersfeld"
 
 ---
 
-"@RadicalGraffiti@todon.eu
-
-Poster seen in Pullman, Washington"
-
-[[-]](https://todon.eu/system/media_attachments/files/112/793/163/287/716/804/original/02b0b9a06e928268.jpg)
+<img width='200' src='https://rollenspiel.social/system/media_attachments/files/112/800/722/169/654/374/original/bc08ad4e5b76eab6.jpg'/>
 
 ---
 
-\#NATO \#Lottaz \#Freeman
+I would not be surprised.. there is a lot money involved in that
+[racket](https://cdn.fosstodon.org/media_attachments/files/112/811/480/690/795/566/original/5d00be1a26e69b39.jpeg),
+people have killed others for less.
 
-[[-]](https://youtu.be/EDONLsCGmZw?t=1863)
-
----
-
-CNBC: "Treasury, IRS announce 'major milestone' of $1 billion in
-past-due taxes collected from millionaires"
+TASS: "Ukraine could try to kill Trump, pro-Kremlin opposition
+politician warns in letter to ex-US prez"
 
 ---
 
-Anatolian Agency: "Putin says BRICS may establish its own parliament in future"
+CNBC: "A growing number of parents are refusing to give their children
+smartphones — and the movement is going global"
 
 ---
 
-The National: "Jeremy Corbyn 'in talks' with SNP over 'left-wing alliance'"
+CNBC: "Labour's gains in London have private equity looking to exit —
+the country.. With the British parliament back from recess, the UK’s
+Labour Party will start working to push through aggressive changes,
+including controversial proposals that would force the rich to pay
+more in taxes"
 
 ---
 
-"@ben@werd.social
+"@GossiTheDog@cyberplace.social
 
-The news cycle has moved on, but just as a reminder, they’re still
-bombing the shit out of Gaza and killing civilians in enormous
-numbers"
+There’s finally some reviews of a Copilot+ laptop on Amazon"
 
----
-
-Al-Monitor: "Hamas says pulling out of Gaza truce talks, as Israel
-keeps up strikes"
+[[-]](https://cyberplace.social/system/media_attachments/files/112/798/593/412/489/548/original/77aef8544ccadce1.png)
 
 ---
 
+Noah Smith, Bloomberg: "[2017/12] It's pretty well known that
+U.S. workers have lost a lot of bargaining power over the past few
+decades. Wage gains, for example, haven’t kept pace with rising
+productivity:
 
-Nutella said, back in 2015, "Microsoft's new computerized goggles,
-HoloLens are the new desktop". You can find this reference on Business
-Insider.
+<img width='340' src='https://cdn.fosstodon.org/media_attachments/files/112/806/469/071/803/959/original/42da51bcebfce68b.jpeg'/>
 
-It's not just him, Bill Gates wrote a book with the title THE ROAD
-AHEAD (1995) and it completely missed the Internet boom that would
-follow in a few years. Let alone the road ahead, the book could not
-see in front of its nose.
-
-Gates did a little better after his CEO stint, maybe there's something
-blinding about being a tech CEO. You are too mired in the market, your
-market share, sales, every thought has to be shaped in service to
-that, and they miss the general trend. They are easily gripped by
-FOMO, blinded by hype.
+Clearly, workers have been unable to take home a fair share of the new
+value they were creating. Why? One big potential culprit is the
+decline of labor unions"
 
 ---
 
-Tadella Nutella said in 2021 "cannot overstate what a breakthrough
-metaverse is" (via Zitron w/ Connover). 
+Politico: "Scared to Death’: GOP Security Hawks Slam Vance
+Selection.. By choosing the Ukraine-skeptic Ohio senator, Trump
+accelerates his party’s rejection of its Reaganite roots.
 
 ---
 
-That's not exactly a yardstick to judge any tech by, neither this CEO
-or previous ones were really good about predicting tech future.
+\#Frontline \#RU \#UA 07/10 - 07/18
 
-"If [so-called] AI was not a big deal why is Microsoft CEO so excited about it?"
-
----
-
-AP News: "Federal judge dismisses Trump classified documents case"
+[[-]](mbl/2024/ukrdata/map27-ext.html)
 
 ---
 
-TASS: "Biden apologizes for his call to put Trump 'in the bullseye'"
+NYT: "Israel in Talks Over Withdrawing From Egypt-Gaza Border,
+Officials Say"
 
 ---
 
-Good pick.. JD is good on Ukraine, economy, immigration, he is young
-can carry Trump legacy forward.
-
----
-
-AP News: "JD Vance is Trump's vice president pick"
+Al Monitor: "Flies and mosquitoes feast on Gaza's waste crisis"
 
 ---
 
