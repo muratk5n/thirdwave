@@ -1,5 +1,256 @@
 # Week 29
- 
+
+
+US industry needs to be encouraged to move away from MS OS to Linux
+based OS as soon as possible. You are better off running LOS while
+running existing Windows programs through an emulation layer. If there
+are programs that have problems on emulation, MS can be forced to
+open-source their code. This migration needs to be actively encouraged
+by the government, especially for its own computing needs.
+
+"@mjg59@nondeterministic.computer
+
+'Linux would have prevented this!' literally true because my former
+colleague KP Singh wrote a kernel security module that lets EDR
+implementations load ebpf into the kernel to monitor and act on
+security hooks and Crowdstrike now uses that rather than requiring its
+own kernel module that would otherwise absolutely have allowed this to
+happen, so everyone please say thank you to him"
+
+---
+
+Soya beans? This trade relationship looks like a rel between an
+advanced nation and a third-world country. 
+
+```python
+top_product('USA','China')
+```
+
+```text
+$ 17,924,895,224.0
+Soya beans: other than seed, whether or not broken
+```
+
+---
+
+What is the top export from China to US?
+
+```python
+top_product('China','USA')
+```
+
+```text
+$ 48,530,501,546.0
+Automatic data processing machines: portable, weighing not more than
+10kg, consisting of at least a central processing unit, a keyboard and
+a display
+```
+
+Basically a computer "not more than 10kg", that covers a lot of ground.
+48 billions worth! 
+
+---
+
+Little more code.. 
+
+```python
+import pandas as pd, json, textwrap
+
+cc = pd.read_csv(u.baci_dir + '/country_codes_V202401b.csv',index_col='country_name')
+pc = pd.read_csv(u.baci_dir + '/product_codes_HS22_V202401b.csv',index_col='code')
+p = json.loads(open(u.baci_dir + "/out-p.json").read())
+v = json.loads(open(u.baci_dir + "/out-v.json").read())
+
+def top_product(frc, toc):
+    key = "%d-%d" % (cc.loc[frc].country_code, cc.loc[toc].country_code)
+    print('$', f"{v[key]*1000:,}")
+    s = pc.loc[int(p[key])].description
+    for x in textwrap.wrap(s, width=70):
+    	print (x)
+```
+
+---
+
+```python
+u.baci_top_products()
+```
+
+```text
+elapsed time 0:01:43.950638
+```
+
+---
+
+I had shared a trade network report using this dataset. How about top
+products between any two country pairs? 
+
+"BACI provides data on bilateral trade flows for 200 countries at the
+product level (5000 products). Products correspond to the "Harmonized
+System" nomenclature (6 digit code)"
+
+[[-]](http://www.cepii.fr/cepii/en/bdd_modele/bdd_modele_item.asp?id=37)
+
+---
+
+"@simon@fosstodon.org
+
+Nobody got fired for buying #Microsoft and #Crowdstrike ...
+
+that's because the HR systems are down"
+
+---
+
+"@danderson@hachyderm.io
+
+I'd just like to interject for a moment. What you’re referring to as
+Windows is in fact Crowdstrike/Windows, or as I’ve recently taken to
+calling it, Crowdstrike plus Windows. Windows is not an operating
+system unto itself, but rather another component of a fully
+non-functioning Crowdstrike system, made useless by the .SYS files,
+automated updates and blue screens comprising a full outage as defined
+by the news"
+
+---
+
+"@anguinea@mstdn.social
+
+Here’s a crazy thought:
+
+Since there actually is no plan B, let’s stick with plan A.
+
+\#PollsAreBS"
+
+---
+
+Arab News: "Germany will halve military aid for Ukraine next year"
+
+---
+
+EurekAlert: "A research team.. at Korea Institute of Science and
+Technology (KIST).. has developed an oxidatively stable
+molybdenum-based MXene as electrocatalyst support in anion exchange
+membrane water electrolyzers. As it is stable against oxidative high
+voltage conditions, if it is applied as a carrier for electrolysis
+catalysts, it can be used as an oxygen evolution reaction electrode
+material for green hydrogen production to reduce the cost of green
+hydrogen production"
+
+---
+
+<img width='200' src='https://s3.ap-southeast-2.wasabisys.com/aussocial/media_attachments/files/112/812/497/133/648/966/small/25a5aba8e013b69f.jpg'/>
+
+---
+
+"@jaztrophysicist@sciences.re
+
+A single software update bug caused by a capitalistic monopoly can
+singlehandedly paralyse the whole international economy and provoke
+financial panic, but sure the main risk for economic stability is
+moderate left-leaning parties who want to impose a 20% tax on the rich
+to fund social, health, ecological care and education"
+
+---
+
+"@danderson@hachyderm.io
+
+Happy Friday, hugops to Crowdstrike, Azure, Microsoft, and uh every
+fortune 1000 it would seem.
+
+Big skynet vibes tbh, I'm kinda surprised that _more_ stuff isn't on
+fire. Not yet, at least"
+
+---
+
+via @fuck_cars_bot@botsin.space
+
+<img width='340' src='https://files.botsin.space/media_attachments/files/112/787/651/554/666/771/small/f1393537eb64536b.jpeg'/>
+
+---
+
+"@GossiTheDog@cyberplace.social
+
+My laptop is currently idle. MDE process (`MsSense.exe`) is using 2316mb
+of RAM"
+
+---
+
+H2 Central: "New hydrogen storage facility in Hamburg Metropolitan
+Region. Storengy Deutschland announced Tuesday (June 11, 2024) plans
+to build new underground caverns to store up to 15,000 tonnes of
+hydrogen in Hersfeld"
+
+---
+
+<img width='200' src='https://rollenspiel.social/system/media_attachments/files/112/800/722/169/654/374/original/bc08ad4e5b76eab6.jpg'/>
+
+---
+
+I would not be surprised.. there is a lot money involved in that
+[racket](https://cdn.fosstodon.org/media_attachments/files/112/811/480/690/795/566/original/5d00be1a26e69b39.jpeg),
+people have killed others for less.
+
+WION: "Ukraine could try to kill Trump.. [wrote] an exiled Ukrainian
+politician who currently lives in Russia.. [Medvedchuk] was handed
+over to Russia as part of a prisoner swap. He was the leader of
+Platform For Life party, which is now banned in Ukraine"
+
+---
+
+CNBC: "A growing number of parents are refusing to give their children
+smartphones — and the movement is going global"
+
+---
+
+CNBC: "Labour's gains in London have private equity looking to exit —
+the country.. With the British parliament back from recess, the UK’s
+Labour Party will start working to push through aggressive changes,
+including controversial proposals that would force the rich to pay
+more in taxes"
+
+---
+
+"@GossiTheDog@cyberplace.social
+
+There’s finally some reviews of a Copilot+ laptop on Amazon"
+
+[[-]](https://cyberplace.social/system/media_attachments/files/112/798/593/412/489/548/original/77aef8544ccadce1.png)
+
+---
+
+Noah Smith, Bloomberg: "[2017/12] It's pretty well known that
+U.S. workers have lost a lot of bargaining power over the past few
+decades. Wage gains, for example, haven’t kept pace with rising
+productivity:
+
+<img width='340' src='https://cdn.fosstodon.org/media_attachments/files/112/806/469/071/803/959/original/42da51bcebfce68b.jpeg'/>
+
+Clearly, workers have been unable to take home a fair share of the new
+value they were creating. Why? One big potential culprit is the
+decline of labor unions"
+
+---
+
+Politico: "Scared to Death’: GOP Security Hawks Slam Vance
+Selection.. By choosing the Ukraine-skeptic Ohio senator, Trump
+accelerates his party’s rejection of its Reaganite roots.
+
+---
+
+\#Frontline \#RU \#UA 07/10 - 07/18
+
+[[-]](ukrdata/map27-ext.html)
+
+---
+
+NYT: "Israel in Talks Over Withdrawing From Egypt-Gaza Border,
+Officials Say"
+
+---
+
+Al Monitor: "Flies and mosquitoes feast on Gaza's waste crisis"
+
+---
+
 "@OhOkKay@beige.party
 
 Finding out that most tea bags are about 20% plastic, last night I cut

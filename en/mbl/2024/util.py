@@ -1,4 +1,4 @@
-import time as timelib, geocoder, folium, zipfile
+import time as timelib, geocoder, folium, zipfile, textwrap
 import matplotlib.pyplot as plt, os, shutil, sys
 from shapely.geometry import Polygon
 import pandas as pd, numpy as np, json, requests
@@ -7,6 +7,12 @@ from shapely.ops import unary_union
 import geopandas as gpd, re, datetime, math
 import urllib.request as urllib2, urllib.request
 from io import BytesIO
+
+from functools import lru_cache
+from timeit import default_timer as timer
+from multiprocessing import Process
+from datetime import timedelta
+from collections import defaultdict
 
 TILE = "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png"
 
@@ -212,12 +218,12 @@ regs = [
     "Donetsk People's Republic \(East Donetsk\)",
     "Donetsk People's Republic \(West Donetsk\)",
     "Donetsk People's Republic \(South Donetsk\)",
-    "E.Kharkiv-Russian Armed Forces",
+    "E.Kharkov-Russian Armed Forces",
     "Kherson-Russian Armed Forces",
     "Nykolaiv-Russian Forces"]
 
-reg_ext1 = "N.Kharkiv-Russian Armed Forces 1"
-reg_ext2 = "N.Kharkiv-Russian Armed Forces 2"
+reg_ext1 = "N.Kharkov-Russian Armed Forces 1"
+reg_ext2 = "N.Kharkov-Russian Armed Forces 2"
 
 def get_coords_for_label(content, reg):
     q = "<Placemark>.*?" + reg + "(.*?)</Placemark>"
@@ -260,12 +266,12 @@ def prep_suriyak():
                              "Donetsk People's Republic (Central Donetsk 4)",
                              content,count=1)
 
-            content = re.sub("N.Kharkiv-Russian Armed Forces\<",
-                             "N.Kharkiv-Russian Armed Forces 1<",
+            content = re.sub("N.Kharkov-Russian Armed Forces\<",
+                             "N.Kharkov-Russian Armed Forces 1<",
                              content,count=1)
 
-            content = re.sub("N.Kharkiv-Russian Armed Forces\<",
-                             "N.Kharkiv-Russian Armed Forces 2<",
+            content = re.sub("N.Kharkov-Russian Armed Forces\<",
+                             "N.Kharkov-Russian Armed Forces 2<",
                              content,count=1)
         
     fout = open("/tmp/ukraine.kml","w")
@@ -316,6 +322,95 @@ def prepare_ukraine_suriyak():
     fout.write(']\n')
     fout.close()
 
+def lineproc(file_name,chunk_i,N,hookobj,skip_lines=0):
+    file_size = os.path.getsize(file_name)
+    hookobj.infile = file_name # lineprocessor object
+    hookobj.chunk = chunk_i
+    with open(file_name, 'r') as f:
+        for j in range(skip_lines): f.readline()
+        beg = f.tell()
+        f.close()
+    chunks = []
+    for i in range(N):
+        with open(file_name, 'r') as f:
+            s = int((file_size / N)*(i+1))
+            f.seek(s)
+            f.readline()
+            end_chunk = f.tell()-1
+            chunks.append([beg,end_chunk])
+            f.close()
+        beg = end_chunk+1
+    c = chunks[chunk_i]
+    with open(file_name, 'r') as f:
+        f.seek(c[0])
+        while True:
+            line = f.readline()
+            hookobj.exec(line) # process the line
+            if f.tell() > c[1]: break
+        f.close()
+        hookobj.post()    
+
+
+baci_dir = "/opt/Downloads/baci"
+
+class TJob:
+    def __init__(self):
+        self.infile = "" # to be set from process
+        self.chunk = -1 # to be set from process
+        self.P = {}
+        self.V = {}
+        self.header = {'t':0,'i':1,'j':2,'k':3,'v':4,'q':5}
+    def exec(self,line):        
+        tok = line.strip().replace(' ','').split(',')
+        i,j = tok[self.header['i']], tok[self.header['j']]
+        i,j = int(i),int(j)
+        v = float(tok[self.header['v']])
+        q = tok[self.header['q']]
+        prod = tok[self.header['k']]
+        key = "%d-%d" % (i,j)
+        if key not in self.V or v > self.V[key]:
+            self.V[key] = v
+            self.P[key] = prod
+            
+    def post(self):
+        print (self.infile)
+        fout = open(baci_dir + "/out-p.json","w")
+        fout.write(json.dumps(self.P))
+        fout.close()
+        
+        fout = open(baci_dir + "/out-v.json","w")
+        fout.write(json.dumps(self.V))
+        fout.close()
+        
+def baci_top_products():
+    file_name = baci_dir + "/BACI_HS22_Y2022_V202401b.csv"
+    #file_name = baci_dir + "/in.csv"
+
+    start = timer()
+    N = 1 # number of parallel tasks
+    ps = [Process(target=lineproc,args=(file_name, i, N, TJob(),1)) for i in range(N)]
+    for p in ps: p.start()
+    for p in ps: p.join()
+    end = timer()
+    print('elapsed time', timedelta(seconds=end-start))
+
+
+@lru_cache(maxsize=1) # returned types are cached
+def init_baci():
+   baci_cc = pd.read_csv(baci_dir + '/country_codes_V202401b.csv',index_col='country_name')
+   baci_pc = pd.read_csv(baci_dir + '/product_codes_HS22_V202401b.csv',index_col='code')
+   baci_p = json.loads(open(baci_dir + "/out-p.json").read())
+   baci_v = json.loads(open(baci_dir + "/out-v.json").read())
+   return baci_cc, baci_pc, baci_p, baci_v
+
+def baci_top_product(frc, toc):
+    baci_cc, baci_pc, baci_p, baci_v = init_baci()
+    key = "%d-%d" % (baci_cc.loc[frc].country_code, baci_cc.loc[toc].country_code)
+    print('$', f"{baci_v[key]*1000:,}")
+    s = baci_pc.loc[int(baci_p[key])].description
+    for x in textwrap.wrap(s, width=70):
+    	print (x)
+    
 if __name__ == "__main__": 
 
     prepare_ukraine_suriyak()
