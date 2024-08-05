@@ -7,158 +7,54 @@ Pinned Post
 
 ---
 
-Amb. Chas Freeman: "The world does not share the Biden administration’s
-insistent conjecture that history is culminating in a great battle
-between democracy and autocracy. America’s obsession with democratic
-ideology arises not from foreign efforts to subvert constitutional
-democracy in the United States but from internal factors that are
-eroding democracy and the rule of law domestically. Constitutional
-democracy can only be built and sustained at home. It cannot be
-dismantled by foreign refusal to emulate it.
+"@GossiTheDog@cyberplace.social
 
-The prerequisites for constitutional democracy include the combination
-of the rule of law with freedom of speech. This Western-invented
-composite has historically enabled debate among an informed citizenry
-so that they can advise and consent to government rulemaking.  If the
-United States is becoming less constitutionalist and more
-authoritarian, as it is, this is disturbing to those who, like me,
-treasure the values of the European Enlightenment, but it is the
-result of decisions made by Americans, not manipulation by China,
-Russia, or any other foreign power..
+Copilot’s front page on the app today suggests I ask 'tell me a fact'.
 
-Given the historical U.S. role in promoting international law, the
-'rules-based order' now promoted by Washington is a modern version of
-'rule **by** law [emphasis mine]'..  It supposes that the United
-States – or the United States plus the club of former imperialist
-powers called the 'G7' – can make the rules, alter them at will,
-exempt themselves from them, and determine to whom else they do or do
-not apply.  This system is rejected as illegitimate by the global
-majority, which much prefers one based on the United Nations Charter
-and the decisions of the international community.
+I did.. the first one is 'Banging your head against a wall burns 150
+calories', which links to a Reddit thread, which links to an article,
+from a 'contributor', which mentions it in the headline then has no
+citation or mentions it again"
 
 ---
 
-New Scientist: "Hydrogen off-road race car tested to limits in former
-coal mine.. At a decommissioned coal mine in Scotland, a stark
-backdrop for the world’s first hydrogen-powered off-road racing car,
-testing is underway ahead of next year’s hydrogen racing series,
-Extreme H"
-
-<img width='340' src='https://files.mastodon.social/cache/preview_cards/images/105/472/991/original/7a75d7464fd96471.jpg'/>
-
----
-
-What happens to the Time for Change prediction now? All parameters
-remain the same, the incumbent's popularity will transfer to Kamala,
-she'll be judged by Biden's -20%, also inherits the (party first term)
-incumbency advantage. FED GDP Now predicts 2.7% GDP growth for Q2,
-which is good for Dems. The formula shows an advantage for Democrats.
-
-The issue for me post-debate was the possibility of a Gore/Bush style
-race, where all parameters were in Dem favor but Gore team as we
-remember ran the worst campaign in modern history and W ran the best,
-iow campaigning tilted the balance, factors outside the formula. If
-Kamala wins the nomination painlessly, there is no chaos, and Kamala's
-team (including some of Biden's operators surely who are pretty good)
-equals Trump's, then campaigning of both sides neutralize and the
-Democrats will come out on top.
-
-[[-]](0119/2015/04/predicting-presidential-elections.html#2024)
+It is hilarious how US plutocrats, and their judiciary and
+legistlative tools tied money into a sacred US concept, freedom /
+freedom of speech. By giving money, you are exercising your right to
+speech, hence limitless campaign donations must be
+protected. Brilliant how they identified and tacked on that
+concept... If there was another sacred anything, they'd have used that
+too... If cows were sacred, it would be money = cow. "How could you be
+against money, it is the sacred!" Sacred as in cow, ostensibly.
 
 ---
 
-"@EUCommission@ec.social-network.europa.eu
+I read that on Mastodon
 
-Facebook and Instagram users have to choose to subscribe for a fee or
-to consent to Meta using their personal data — and make revenue out of
-it.
+"@mosseri@threads.net
 
-Consumer protection authorities assessed that this 'pay or consent'
-model and several other elements could constitute misleading or
-aggressive practices.
-
-In the EU, consumers are able to make informed choices, and we are
-taking action to protect this right"
+I’m excited to share that we crossed the 200M milestone on
+@threads. My hope is that Threads can inspire ideas that bring people
+together, and this amazing community continues to grow. Thank you for
+investing your time and giving feedback that makes the place better
+for everyone"
 
 ---
 
-An example from @Zitzero@julialang.social
-
-[[-]](https://zitzeronion.github.io/Defense_talk/)
-
----
-
-A lot of things are doable via HTML/Javascript, browser can also
-be a presentation platform thanks to reveal.js. Forget Powerpoint.
-
-"Create Stunning Presentations on the Web.. reveal.js is an open
-source HTML presentation framework. It's a tool that enables anyone
-with a web browser to create fully-featured and beautiful
-presentations for free"
+Euractiv: "Natural hydrogen: European interest heats up, France
+leading the way.. Potentially massive quantities of naturally produced
+hydrogen were discovered in France last year. Since then, prospectors
+across Europe have been on the lookout for more deposits and are
+calling for greater public support for their efforts"
 
 ---
 
-Skydance now owns Paramount IP including Star Trek. Hopefully they'll
-fix some things.
+Arab News: "Warren Buffett surprises by slashing Berkshire Hathaway’s
+longtime Apple stake in second quarter"
 
 ---
 
-AP: "Last Sunday was Earth’s hottest day in all recorded history,
-European climate agency says"
-
----
-
-If you are at the table, you have to show a unified front, defend the
-boss at all costs. That's how it works. We can't blame Bernie and some
-other progs for that. They became less interesting for me so I paid
-less attn to them, but I have my stuff to write and they have their
-job.
-
----
-
-Bernie from yesterdays CBS News interview: "[Biden] was the only
-president in American history to actually stand on a picket line
-during a strike with workers, and has been very pro-worker in terms of
-raising the minimum wage, supporting the Pro-Act, which makes it
-easier for workers to join unions appointing a very good Secretary of
-Labor..
-
-[But] we have, at a time of massive income inequality, 600,000 people
-sleeping out on the streets.. Despite spending twice as much on
-healthcare is the people of the other country, you have 85 million
-people uninsured or underinsured. 60,000 people die every year because
-they can afford to get to a doctor".
-
-He is talking about the uninsured? Didn't f-ing Obamacare fix all
-that? Of course it didn't. Everyone knows it, including Harris too imo
-who might put the issue on the platform, I heard one mention already,
-and during 2020 primary she did try to advocate for Medicare for All
-but was talked out of it by her staff, likely due to fear the issue
-would not "play well" with the Dem the centrist wing.
-
----
-
-There is much left to be done, on the Dem left-wing front. Bernie had
-a seat at the table, so he criticized less w/ JB. But now that the
-boss is on the way out, Bernie speaks his mind more.
-
----
-
-Middle East Eye: "Cambridge University to review investments in
-response to pro-Gaza protests.. University says demonstrations and
-appeals by the student union and in colleges prompted it to consider
-whether policy 'in line with our institutional values'"
-
----
-
-Arab News: "Trump campaign files complaint against Harris taking over
-Biden war chest"
-
----
-
-\#Frontline \#UA \#RU 07/18 - 07/24
-
-[[-]](mbl/2024/ukrdata/map28-ext.html)
+Politico: "Fetterman has concerns about Shapiro for V.P., aides tell Harris’ team"
 
 ---
 
@@ -208,5 +104,4 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
-
 
