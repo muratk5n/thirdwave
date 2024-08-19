@@ -88,8 +88,6 @@ in-flight emissions except water,' the company stated, and landed with
 a testament to the potential of hydrogen fuel cell electric
 propulsion.
 
-<img width='340' src='https://files.mastodon.social/cache/preview_cards/images/106/406/363/original/9cd894dbb46a8cf3.jpg'/>
-
 ---
 
 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 
@@ -429,7 +427,7 @@ earned when she had to retire"
 
 \#Frontline \#UA \#RU 07/24 - 07/31
 
-[[-]](mbl/2024/ukrdata/map29-ext.html)
+[[-]](ukrdata/map29-ext.html)
 
 ---
 

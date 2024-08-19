@@ -1,2 +1,745 @@
 # Week 33
 
+
+"@silverspookgames@octodon.social
+
+Since US invaded our sovereign country, Hawaii also tops the US in
+police killings, disproportionately Pacific Islander, and Hawaii is by
+far #1 most economically unequal. (I worked with homeless/at-risk kids
+in that tent city in Honolulu)"
+
+---
+
+The money shot right there..  Northrop Grumman, Boeing, Lockheed
+Martin, General Dynamics execs.. The war is being fought for them
+\#2023
+
+via \#DanielDavis 
+
+<img width='340' src='https://cdn.fosstodon.org/media_attachments/files/112/970/904/842/228/423/original/3748ea173c7840b2.jpeg'/>
+
+---
+
+"@ai6yr@m.ai6yr.org
+
+Then:
+
+'Grandma, why are you saving those bits of twine and pieces of used
+foil? You can just go to the store and buy new stuff.'
+
+'Grandson, I grew up during the Depression'
+
+Now:
+
+'Dad, why are you collecting all those DVDs and saving files to disk
+and all that? You can just go to the Internet and find that.'
+
+'Kids, I grew up during the Great Ensh*ttification...'
+
+---
+
+Remember \#2018 in UK when they added stamp duty for second homes,
+they also introduced an exemption if you bought seven properties at
+the same time, Jeremy Hunt, the Chancellor at the time went out and
+bought seven homes... If we allow them these f--kers will bankrupt us
+all.
+
+---
+
+The part on corps being involved in real-estate market denying new
+buyers access was good..  Most of the housing crisis has to do w/ the
+rich taking more assets than they can use. "Building more homes"
+cannot be the primary fix. As long as inequality exists, those new
+homes will be bought by the same corps as an investment.
+
+---
+
+"Opportunity economy" sounded somewhat Clintonesque.. Was that a cover
+for "populism"?
+
+Politico: "The vice president Friday briefly touted the economic
+progress and accomplishments under the Biden administration.. but she
+said she knows many Americans aren’t yet feeling improving conditions.
+
+'Costs are still too high. And on a deeper level, no matter how much
+they work, it feels so hard to just be able to get ahead,' she
+said. 'As president, I will be laser-focused on creating opportunities
+for the middle class that advance their economic security, stability
+and dignity...'
+
+Harris... has also leaned further into aggressive attacks on
+corporations for 'price gouging' and driving up prices at the grocery
+store. And she has filtered well-worn ideas through a new,
+unapologetically [lefty] lens.
+
+That has made for a striking contrast from Biden, who never completely
+warmed to efforts to shift the blame for inflation to big business and
+often softened his own populist rhetoric with reassurances that he was
+a 'capitalist.'"
+
+---
+
+Strange.. if US doesn't like you, Daesh (ISIS) doesn't like you
+either..
+
+Arab News: "Daesh group claims deadly Kabul bomb blast"
+
+---
+
+US provokes war within Europe (Ukraine) creating chaos. Trained
+jihadis to create chaos in Syria that in turn caused a refugee chaos,
+again in Europe.  Unnecessary antagonism creates rift between Russia
+and Europe effecting European energy imports. Who is winning from US
+being so enmeshed in European affairs? I'll give a hint: not Europe.
+
+---
+
+Those jihadi training camps are US organized, funded. Kosovo is a US
+client-state.
+
+European Parliament: "[2016] Information contained in a recent Europol
+report and elsewhere points to the existence of terrorist training
+camps in the Balkans, including Bosnia and Herzegovina, Kosovo and the
+Former Yugoslav Republic of Macedonia"
+
+---
+
+31 C is a better number.. I've seen 22 C, it's bad.. 25 C would be
+hellish, death by overheating at 31 C, not surprising.
+
+Nature: "The threshold for survival in heat is lower than thought —
+researchers are using state-of-the-art climate chambers to explore
+when blistering conditions threaten life...
+
+[Wet Bulb Temperature] is a measure that scientists use when studying
+heat stress because it accounts for the effects of heat and
+humidity.. The models churned out a WBT of 35 °C as the limit of human
+survival. At that threshold, the body’s core temperature would rise
+uncontrollably. But the model treated the human body as an unclothed
+object that doesn’t sweat or move, making the result less applicable
+to the real world.. [But a] 2021 study.. provided a better estimate: a
+WBT survival limit of around 31 °C. They calculated it by tracking the
+core body temperature of young, healthy people under different
+combinations of temperature and humidity while they were cycling"
+
+---
+
+GNU/Linux.ch: "The Edenkoben High School (between Mannheim and
+Karlsruhe in southwest Germany) has been using Linux for almost 20
+years. The classrooms at this school also have smartboards,
+blackboards with computers on which you write with a pen, but the
+computers do not run Windows like in almost all schools, but rather
+Linux, or more precisely Ubuntu in the LTS (Long-Term Support)
+version.
+
+According to deputy headmaster Michael Schacht, the reason is freedom,
+but not freedom as in 'free beer', but freedom in the sense that a
+school can use digital products as it pleases. You can look 'under the
+hood' of the software [bcz it is open source] and adapt it. It was
+also Michael Schacht who introduced Linux almost 20 years ago. To this
+day, he does everything with free software"
+
+---
+
+\#Physics 🤓
+
+[[-]](https://social.sciences.re/system/media_attachments/files/112/970/589/823/029/085/original/eea6f3d68c17bc4f.png)
+
+---
+
+Edward Frenkel, String Theory \#ToE
+
+That was a great analogy with Moses and the promised land
+
+[[-]](https://youtu.be/n_oPMcvHbAc?t=10045)
+
+---
+
+```python
+u.baci_top_product("Thailand", "China")
+```
+
+```text
+$ 3,186,692,315.0
+Fruit, edible: durians, fresh
+```
+
+```python
+u.baci_top_product("Thailand", "USA")
+```
+
+```text
+$ 6,559,439,790.0
+Units of automatic data processing machines: storage units
+```
+
+---
+
+That means Thaksin is back in power... Ever since his ouster he was
+looking for a way back in, this is probably it.
+
+F24: "Thailand’s parliament elected Paetongtarn Shinawatra, the
+youngest daughter of former leader Thaksin Shinawatra, as the
+country’s new prime minister on Friday, just two days after her
+predecessor and ally Srettha Thavisin was dismissed by the country's
+Constitutional Court"
+
+---
+
+Thailand.Tv: "[2024/03] Thailand’s $28BN Canal Across Itself.. Thai
+has proposed constructing a 128 kilometer long canal across the Thai
+isthmus, bypassing the Malacca strait. The project, which would be 450
+meters wide and 25 meters deep, would cost around 28 billion dollars
+and take 10 years to construct. It would save 1,200 kilometers in
+travel distance, reducing fuel costs and C0₂ emissions. It would also
+invigorate Thailand’s economy and allow Chinese vessels to avoid the
+US military presence near Singapore"
+
+<img width='200' src='https://img.youtube.com/vi/vITpBzaDUNQ/0.jpg'/>
+
+---
+
+Reuters: "Saudi firm plans hydrogen-powered skyscraper in Egypt's new
+capital.. A Saudi-controlled real estate firm says it plans to break
+ground early next year in Egypt's new capital on a $1 billion,
+50-storey office tower that aims to be the first of its kind to be
+powered by clean hydrogen"
+
+---
+
+H2 Today: "Detroit, the automotive capital of the United States has
+published a white paper entitled Detroit’s hydrogen mobility
+future... In its argument, the city points out that the hydrogen
+vehicle is a form of electric vehicle with advantages in terms of
+refuelling speed. Furthermore, it does not require charging stations
+delivering powers in the 100s of kW or even the megawatts (MW)"
+
+---
+
+"@pluralistic@mamot.fr
+
+Every artist, performer and creator on Patreon is about to get screwed
+out of 30% of their gross revenue, which will be diverted to Apple,
+the most valuable company on the planet. Apple contributes nothing to
+their work, but it will get to steal a third of their wages.
+
+If you'd like an essay-formatted version of this thread to read or
+share, here's [a link](https://news.patreon.com/articles/understanding-apple-requirements-for-patreon)
+to it on pluralistic.net, my surveillance-free, ad-free, tracker-free blog"
+
+[[-]](https://pluralistic.net/2024/08/15/private-law/#thirty-percent-vig)
+
+---
+
+CNBC: "By choosing to not run for reelection as leader of Japan’s
+ruling Liberal Democratic Party, Kishida has effectively left the door
+open for a new prime minister to take the helm of the world’s
+fourth-largest economy.. 'To me this is Kishida "pulling a Joe Biden"'
+[said one expert]"
+
+---
+
+"@tante@tldr.nettime.org
+
+'Weird how all the major innovations coming out of tech lately are
+under the Fraud skill tree'
+
+(Original title: Deep-Live-Cam goes viral, allowing anyone to become a
+digital doppelganger)"
+
+---
+
+The Guardian: "Calls to tax super-rich gain traction around
+world.. Even rightwing governments are joining in with G20-led push to
+make wealthy pay, with Italy doubling flat tax on foreign income"
+
+---
+
+Tucker Carlson's interview w/ Isaac 4 months ago
+
+[[-]](https://www.youtube.com/watch?v=eHayOkXe5ig)
+
+---
+
+"Palestinian Reverend Munther Isaac to U.S. Faith Leaders: If You Are
+Silent, You Approve of Genocide" \#DemocracyNow
+
+[[-]](https://youtu.be/cRn9allxnIg?t=177)
+
+---
+
+Nuclear tech needs to be helium-cooled not water-cooled. HTGR concept
+is workable and allows a direct pathway to H2 generation.
+
+TASS: "Some 25 tons of radioactive water leak from Fukushima-1’s Unit 2"
+
+---
+
+"@perfectunion@threads.net
+
+Starbucks has abruptly ousted its CEO who approved negotiations on a
+landmark labor contract with Starbucks workers. His replacement is
+Chipotle CEO Brian Niccol, who has fought unions aggressively and said
+he's 'disappointed to see' employees organize"
+
+---
+
+The Korean Economic Daily: "Doosan Fuel Cell wins $73 mn hydrogen fuel
+cell contract.. The company signed a long-term maintenance agreement
+with UH Power for a 40 MW hydrogen fuel cell system"
+
+<img width='340' src='https://www.kedglobal.com/data/ked/image/2024/08/13/ked202408130002.580x.0.jpg'/>
+
+---
+
+"@sluttymayo@jorts.horse
+
+All you commies need to wake up and realize that the only economic
+system that works is one where everything makes you go 'it was kinda
+okay to start but it sucks and is more expensive now, and i have it
+comparatively good' about everything from food subscriptions to
+medical care subscriptions"
+
+---
+
+TASS: "Japan only G7 state that did not supply weapons to Kiev, it can
+act as mediator — MP"
+
+---
+
+Futurism: "[2024/06] X-formerly-Twitter is in deep trouble.. While the
+New York Times reported last week that executives at the beleaguered
+platform had assured employees that 65 percent of advertisers had
+returned, documents obtained by Bloomberg show that revenue has
+overall cratered since.. late 2022"
+
+---
+
+CNBC: " SpaceX violated environmental regulations in releasing
+pollutants into or nearby bodies of water in Texas, a state
+environmental agency found"
+
+---
+
+F24: "Russia evacuates 121,000 people from Kursk region as Ukraine
+advances"
+
+---
+
+"@ami_angelwings@urusai.social
+
+Love how companies eventually just all give up making anything and
+just go to rent seeking"
+
+---
+
+"@antijingoist@hackers.town
+
+Apple's attitude is that we are paying them for the work they did to
+bring visibility to projects, etc. If they are going after Patreon
+with that attitude, I think they will start going after physical
+goods, and other payment apps soon too.
+
+And eventually, I think they are going to start pulling the 20% of
+profits bullshit they are trying in the EU"
+
+---
+
+The Verge: "Patreon memberships sold on the iOS app will soon be
+subject to Apple’s 30 percent commission on in-app purchases. In a
+post on Monday, Patreon says Apple is forcing the platform to use the
+company’s in-app payment system starting in November or 'risk being
+kicked out of the App Store'"
+
+---
+
+Politico: "Minnesota Gov. Tim Walz is touting his progressive policies
+as family-focused pragmatism, betting that everyday household concerns
+matter more to voters than conservative culture wars... The campaign
+is leaning into that message as Vice President Kamala Harris and Walz
+unveil their governing priorities ahead of the Democratic National
+Convention, trumpeting the former teacher’s record as an example of
+practical solutions to a fractured country. Their efforts seek to
+rebrand progressive policies as palatable options for families"
+
+---
+
+Aaron Bastani \#NovaraMedia: "In the last 14 years, you've had the
+conservatives. Now look at [the recent UK riots] as a political
+grievance, try and put yourselves in the shoes of somebody who's on
+the center right, the conservatives have tried to win votes by saying
+we're going to reduce immigration, they've said that repeatedly for 14
+years, and they have lied and lied.. and then you see 1 million net
+immigration under Priti Patel's Home Secretary...
+
+I can absolutely promise you.. for people who voted conservative
+multiple times, that be happening under Priti Patel there is obviously
+going to be a significant political consequence for that..  when you
+have net immigration of 700,000 people in one year, and we're building
+150,000 new homes, that is an issue, and I think it's really remiss of
+the left to say that's not an issue. Now the left can say one answer
+one perfectly reasonable answer is to say 'we need to build loads more
+homes', I entirely agree with that but are you then saying 'well we
+need to build 700,000 new homes for all the people are arriving this
+year' when we've got a backlog of but maybe four five six million
+homes we need to build already, and I think..  there's almost an
+irresponsibility here by the left not to address that question"
+
+---
+
+TASS: "Putin to hold talks with Palestinian president Abbas on Tuesday"
+
+---
+
+"@mttaggart@infosec.town
+
+The Starliner spacecraft really is the ultimate demonstration of why
+'Move fast and break things' is a garbage philosophy"
+
+---
+
+WION: "22 Chinese military aircraft breach Taiwan's air defence zone"
+
+---
+
+Politico: "Progressive national security professionals already are
+angling for positions in a possible Kamala Harris administration,
+hoping to steer the White House in a different direction on Israel and
+other issues after being largely shut out under President Joe
+Biden... The progressives’ ultimate goal is to influence American
+foreign policy and national security from the inside. This proved hard
+to do under Biden, a Democratic moderate who came to the White House
+with a massive stable of longstanding aides — many of whom could trace
+their careers back to the Clinton administration"
+
+---
+
+NYT: "Netanyahu Clashes With Defense Minister on Gaza, Exposing Schisms"
+
+---
+
+The American Conservative: "California’s Governor Gavin Newsom joined
+members of the state’s Transportation Department Thursday to clean out
+several Los Angeles homeless encampments. 'I’m here on behalf of forty
+million Californians that are fed up,' Newsom told reporters"
+
+---
+
+H2 Central: "Metacon receives order from Motor Oil for supply of a 30
+MW industrial electrolysis plant worth EUR 19.8 million, marking the
+start of European manufacturing"
+
+---
+
+H2 Central: "Scottish hydrogen technologies firm Logan Energy wins
+multi-million pound contract to fuel zero emission buses in the Czech
+Republic"
+
+---
+
+H2 Central: "Testing in northwest Iowa for natural hydrogen trapped
+underground"
+
+---
+
+Politico.eu: "Huge lithium-mining protest triggers crisis meeting in
+Serbia"
+
+---
+
+Helpless loser can't even save his own tech; batteries catch fire,
+have range issues, don't work if it is too cold, or warm, are
+heavy.
+
+---
+
+Why upset ejagoff he is saving humanity
+
+[[-]](https://www.euronews.com/next/2024/08/12/elon-musk-hit-with-nine-complaints-of-breaching-eu-privacy-rules-to-train-ai-model?utm_source=flipboard&utm_medium=activitypub)
+
+---
+
+"Shocking Similarity: USA Preparing Two New Proxies In Asia and Europe
+| Malindog-Uy & Malinen" \#NeutralityStudies
+
+[[-]](https://youtu.be/s-V3QxE29WE?t=2231)
+
+---
+
+"No Fury Like a Planet Scorned.. extreme wildfires have doubled, by a
+factor of 2.2 to be exact [from 2003 to 2023] Canada’s 45.7 million
+acres (18.5 million hectares) burned by the end of October last year,
+and Australia’s Black Summer of 2019-2020 with over 46 million acres"
+
+---
+
+Which one is more fundamental (even though both my be incomplete) -
+QM, or relativity? It's probably the former, not the latter. It is
+highly likely GR formula can be derived by other means.
+
+---
+
+There are some fine researchers working on the modern aether theory,
+trying to scale Casimir effect to cosmological. Ulf Leonhardt is
+active here, he wrote *Forces of the Quantum Vacuum* as an
+introduction to this relatively new field.. If their approach works
+gravity will be reformulated using QFT. They have some mad algebra to
+go along utilizing renormalization, working with infinities, w/
+interesting math-fu around the usage of time. Highly recommended, if
+not for the theory, for the underlying technique. Their research ties
+to Lifshitz, partly to Fatio / Le Sage.
+
+So here is some hope... it's not all about the same stale,
+overly-dreamy but dumb batch of jokers (is there time! why only one
+universe when you can have so many!). These guys have been toiling
+away in obscurity, working towards something. Maybe they will deliver
+the slam dunk the field badly needs.
+
+---
+
+Roger Penrose: "Physicists tend not to be over-worried by detailed
+matters of mathematical and ontological inconsistency if the theory,
+when applied with appropriate judgement and careful calculation,
+continues to provide answers that are in excellent agreement with the
+results of observation – often with extraordinary precision – through
+delicate and precise experiment. The situation with string theory is
+completely different from this. Here there appear to be no results
+whatever that provide it with experimental support"
+
+---
+
+Insurance Journal: "Fracking wastewater, injected underground for
+permanent disposal, traveled 12 miles through geological faults before
+bursting to the surface through a previously plugged West Texas oil
+well in 2022, according to a new study from Southern Methodist
+University.
+
+It’s the first study to draw specific links between wastewater
+injection and recent blowouts in the Permian Basin, the nation’s top
+producing oil field, where old oil wells have lately begun to spray
+salty water"
+
+---
+
+NYT: "Britain’s Anti-Immigrant Riots Pose Critical Test for
+Starmer.. Even after restoring order, the new prime minister faces a
+bigger challenge: defusing the issues of fraying public services and a
+cost of living crisis that underlie the unrest"
+
+---
+
+\#Frontline \#UA \#RU 08/08 - 08/13
+
+Massive UA incursion in Kursk. On the Russian side capture of Niu York
+is nearly done, the pincer is about to close on Nelipivka, movement
+towards Toretsk, and major advance NW Tabaivka.
+
+[[-]](mbl/2024/ukrdata/map31-ext.html)
+
+---
+
+TASS: "On August 6, the Ukrainian armed forces launched a massive
+attack on Russia’s Kursk Region, where the Sudzha gas metering station
+(GMS) is located. The transit line through it remains the only route
+for Russian gas supplies to Europe via Ukraine"
+
+---
+
+Al-Monitor: "Fitch downgrades Israel citing war in Gaza"
+
+---
+
+"@anildash@threads.net
+
+I have raised far more money from VCs than most founders ever get to,
+and I can say definitively: the vast majority of businesses shouldn’t
+take VC money. It’s often not a fit for innovation, for caring for
+workers, for having a sustainable business. And the VCs who shape the
+market are largely irresponsible or destructive. VC should be a tiny
+fraction of how businesses start — certainly not the default"
+
+---
+
+Religions are pre-modern left-wing movements defending the poor
+against the system. Thats why they were agressively [coopted](2021/05/farmers-foragers-fossils.html#olddeal) 
+and turned into hero/king/clergy worship.
+
+"There is no solid evidence that Jesus existed. But whether he was a
+real man or not is beside the point. People worship gods, not men"
+
+---
+
+NYT: "Israel-Hamas War: White House Issues Rare Criticism of Israeli
+Minister Who Opposes Cease-Fire"
+
+---
+
+Arab News: "Biden, in an unusually personal appeal, joined the leaders
+of Egypt and Qatar in not only urging Israel and Hamas to reach a
+ceasefire but setting a date — Thursday — for them to meet in the
+region"
+
+---
+
+Arab News: "As Donald Trump adjusts to the reality of his new race
+against Kamala Harris, his campaign is counting on younger male voters
+to give him the edge in November in a presidential contest"
+
+---
+
+Al-Monitor: "Harris replacing Biden on ticket gave Democrats expected
+bump from Arab Americans"
+
+---
+
+```python
+u.baci_top_product("Bangladesh", "USA")
+```
+
+```text
+$ 2,123,242,975.0
+Trousers, bib and brace overalls, breeches and shorts: men's or boys',
+of cotton (not knitted or crocheted)
+```
+
+---
+
+```python
+u.baci_top_product("Bangladesh", "India")
+```
+
+```text
+$ 163,018,275.0
+Fixed vegetable fats and oils and their fractions n.e.c. in heading
+1515: other than linseed, maize (corn), castor, sesame, microbial
+oils, whether or not refined, but not chemically modified
+```
+
+---
+
+```python
+u.baci_top_product("Bangladesh", "China")
+```
+
+```text
+$ 96,877,466.0
+Yarn: of jute or of other textile bast fibres, single
+```
+---
+
+```python
+u.baci_top_product("Bangladesh", "Pakistan")
+```
+
+```text
+$ 49,468,314.0
+Jute and other textile bast fibres: raw or retted, but not spun,
+(excluding flax, hemp (cannabis sativa L.), and ramie)
+```
+
+---
+
+WION: "[Ousted Bangladeshi PM] Sheikh Hasina blames US for ouster as
+PM, cites her refusal to surrender St. Martin Island as cause"
+
+---
+
+"@loke@functional.cafe
+
+@flaki the actual cost of having someone drive you in a car is the
+same as the service that drove you in a car. Shocking.
+
+It's even more surprising that someone managing a computer for you to
+run code on is more expensive than you managing a computer for you to
+run code on"
+
+---
+
+"@erik@infrageeks.social
+
+@flaki To be fair, the cloud was never cheap. But yeah, point taken."
+
+---
+
+"@funnymonkey@freeradical.zone
+
+@flaki It's almost like the entire point of tech 'innovation' is to
+damage legacy players, and then the 'innovators' can replicate their
+abusive practices, but with added surveillance and extractive data
+collection"
+
+---
+
+@flaki@flaki.social
+
+'Business Insider: Tech's broken promises: Streaming is now just as
+expensive and confusing as cable. Ubers cost as much as taxis. And the
+cloud is no longer cheap'"
+
+---
+
+Swift boat type attack on Walz? It's hard. He looks tough, does not
+have the "cocktail gentleman" demeanor of Kerry who "looked French
+anyway", the attack won't stick.
+
+---
+
+Not perfect, sure.. but still a good choice
+
+Responsible Statecraft: "Walz has some foreign policy experience from
+his time as a House member. He was first elected to Congress in 2006
+running on opposition to the Iraq war, and voted for withdrawal of
+U.S. troops in 2007. Breaking with the Obama administration in 2013,
+he opposed military action in Syria over the 'red line' episode. In
+2017, Walz was an early co-sponsor of one of the first House war
+powers resolutions directing the president to remove U.S. forces from
+involvement in the Saudi coalition war on Yemen.
+
+On the other hand, Walz initially said he was 'cautiously optimistic'
+about the 2011 intervention in Libya in its first weeks, but added
+that 'I think our engagement needs to be very narrow, it needs to be
+very defined and it needs to have a clear out time.' Walz seems to be
+generally skeptical of military intervention, but he has not opposed
+intervention in every case"
+
+---
+
+The Onion: "Billionaire Credits Millionaire Friends With Keeping Him
+Humble.. Pointing out that most of them don’t even own a professional
+sports team, local billionaire Felix Stacey gave his millionaire
+friends credit Monday for keeping him humble. 'It’s easy to become out
+of touch when you have billions and billions of dollars, but I can
+always count on my millionaire friends to keep me grounded,' said
+Stacey"
+
+---
+
+"@istuetzle@zirk.us
+
+\#Ownership of nursing homes by #PrivateEquity funds "increases
+mortality by 11%. Declines in measures of patient well-being, nurse
+staffing, and compliance with care standards help to explain the
+mortality effect."
+
+\#CapitalismKills / via Philipp Heimberger"
+
+---
+
+
+"One of the oldest in the world" says Wiki
+
+---
+
+Border stayed the same since 16th century! Get a load of that
+
+---
+
+Asia Minor and Persia (Iran) did fight wars but the border between
+them has been the same for a long time. In fact I remember a story
+where someone from US Congress was talking out of his ass about Iran,
+and TR having to "do more" about its neighbor while he was visiting
+and he was told by someone at TR State "that border between us and
+them is older than your country". Mic drop.
+
+---
+

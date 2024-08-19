@@ -158,170 +158,6 @@ def mov_profit(budget, gross):
   marketing = budget / 2
   return np.round(gross - (budget + marketing + gross*0.4),2)
 
-sudan_regs = [
-    "RSF-N.Kordofan",
-    "RSF- White Nile",
-    "RSF-Khartoum",
-    "RSF-Gezira",
-    "RSF-W.Kordofan",
-    "RSF-S.Darfur",
-    "RSF-N.Darfur",
-    "RSF-C.Darfur",
-    "RSF-W. Darfur",
-    "RSF-W. Darfur 2",
-    "RSF-Sennar",
-    "RSF-E.Darfur",
-    "RSF-W.Kordofan"]
-
-def prepare_sahel_suriyak():
-    """
-    Data from https://www.google.com/maps/d/u/0/viewer?mid=19IxdgUFhNYyUIXEkYmQgmaYHz6OTMEk
-    """    
-    content = open("/tmp/sahel.kml").read()
-    polys = []
-    for i,reg in enumerate(sudan_regs):
-        q = "<Placemark>.*?" + reg + "(.*?)</Placemark>"
-        print (q)
-        res = re.findall(q, content,re.DOTALL)
-        res = res[0]
-        res2 = re.findall("<coordinates>(.*?)</coordinates>", res,re.DOTALL)
-        for r in res2:
-            tmp = r.split(",0")
-            coords = [x.strip().split(",") for x in tmp if len(x.strip()) > 8]
-            coords = [[float(x),float(y)] for x,y in coords]
-            polys.append(Polygon(coords))
-
-    res = unary_union(polys)
-    rrr = list(res.exterior.coords)
-
-    c = np.array(rrr)
-    plt.plot(c[:,0].T,c[:,1].T)
-    plt.savefig('/tmp/out.jpg')    
-    
-    fout = open("/tmp/out.json","w")
-    fout.write(str(rrr).replace("(","[").replace(")","]"))
-    fout.close()
-
-
-regs = [
-    "S..Zaporizhia-Russian Armed Forces",
-    "E..Zaporizhia-Russian Armed Forces",
-    "Luhansk People's Republic \(North Luhansk\)",
-    "Luhansk People's Republic \(East Luhansk 1\)",
-    "Luhansk People's Republic \(East Luhansk 2\)",
-    "Luhansk People's Republic \(West Luhansk\)",
-    "Luhansk People's Republic \(South Luhansk\)",
-    "Donetsk People's Republic \(Central Donetsk 1\)",
-    "Donetsk People's Republic \(Central Donetsk 2\)",
-    "Donetsk People's Republic \(Central Donetsk 3\)",
-    "Donetsk People's Republic \(Central Donetsk 4\)",
-    "Donetsk People's Republic \(East Donetsk\)",
-    "Donetsk People's Republic \(West Donetsk\)",
-    "Donetsk People's Republic \(South Donetsk\)",
-    "E.Kharkov-Russian Armed Forces",
-    "Kherson-Russian Armed Forces",
-    "Nykolaiv-Russian Forces"]
-
-reg_ext1 = "N.Kharkov-Russian Armed Forces 1"
-reg_ext2 = "N.Kharkov-Russian Armed Forces 2"
-
-def get_coords_for_label(content, reg):
-    q = "<Placemark>.*?" + reg + "(.*?)</Placemark>"
-    print (q)
-    res = re.findall(q, content,re.DOTALL)
-    res = res[0]
-    res2 = re.findall("<coordinates>(.*?)</coordinates>", res,re.DOTALL)
-    tmp = res2[0].split(",0")
-    coords = [x.strip().split(",") for x in tmp if len(x.strip()) > 8]
-    coords = [[float(x),float(y)] for x,y in coords]
-    return coords
-
-def prep_suriyak():
-
-    with zipfile.ZipFile(os.environ['HOME'] + '/Downloads/Guerra Ruso-Ucraniana 2022.kmz') as myzip:
-        with myzip.open('doc.kml') as myfile:
-            content = myfile.read().decode('utf-8')
-
-            content = re.sub("Luhansk People's Republic \(East Luhansk\)",
-                             "Luhansk People's Republic (East Luhansk 1)",
-                             content,count=1)
-
-            content = re.sub("Luhansk People's Republic \(East Luhansk\)",
-                             "Luhansk People's Republic (East Luhansk 2)",
-                             content,count=1)
-
-            content = re.sub("Donetsk People's Republic \(Central Donetsk\)",
-                             "Donetsk People's Republic (Central Donetsk 1)",
-                             content,count=1)
-
-            content = re.sub("Donetsk People's Republic \(Central Donetsk\)",
-                             "Donetsk People's Republic (Central Donetsk 2)",
-                             content,count=1)
-
-            content = re.sub("Donetsk People's Republic \(Central Donetsk\)",
-                             "Donetsk People's Republic (Central Donetsk 3)",
-                             content,count=1)
-
-            content = re.sub("Donetsk People's Republic \(Central Donetsk\)",
-                             "Donetsk People's Republic (Central Donetsk 4)",
-                             content,count=1)
-
-            content = re.sub("N.Kharkov-Russian Armed Forces\<",
-                             "N.Kharkov-Russian Armed Forces 1<",
-                             content,count=1)
-
-            content = re.sub("N.Kharkov-Russian Armed Forces\<",
-                             "N.Kharkov-Russian Armed Forces 2<",
-                             content,count=1)
-        
-    fout = open("/tmp/ukraine.kml","w")
-    fout.write(content)
-    fout.close()
-
-def prepare_ukraine_suriyak():
-    """
-    Data from https://www.google.com/maps/d/viewer?mid=1V8NzjQkzMOhpuLhkktbiKgodOQ27X6IV
-    Code searches coordinate blocks by name. Must rename some like Central Donetsk,
-    or East Luhansk inside the kml file which repeat, I add 2, 3, at the end. 
-    """
-    prep_suriyak()
-    
-    content = open("/tmp/ukraine.kml").read()
-
-    rrrs = []
-    
-    cext1_coords = get_coords_for_label(content, reg_ext1)
-    rrrs.append(np.array(cext1_coords))
-    cext2_coords = get_coords_for_label(content, reg_ext2)
-    rrrs.append(np.array(cext2_coords))
-    
-    polys = []
-    for i,reg in enumerate(regs):
-        coords = get_coords_for_label(content, reg)
-        polys.append(Polygon(coords))
-
-    res = unary_union(polys)
-    
-    rrr = list(res.exterior.coords)
-
-    rrr = rrr[0:-3700]
-    c = np.array(rrr)
-    rrrs.append(c)
-
-    for x in rrrs:
-        plt.plot(x[:,0].T,x[:,1].T,'r')
-    plt.savefig('/tmp/out.jpg')
-    
-    np.set_printoptions(threshold=sys.maxsize)
-    fout = open("/tmp/out.json","w")
-    fout.write('[\n')
-    for i,rrr in enumerate(rrrs):
-        fout.write(json.dumps(rrr.tolist()))
-        if i < len(rrrs)-1: fout.write(',')
-        fout.write('\n')
-    fout.write(']\n')
-    fout.close()
-
 def lineproc(file_name,chunk_i,N,hookobj,skip_lines=0):
     file_size = os.path.getsize(file_name)
     hookobj.infile = file_name # lineprocessor object
@@ -410,6 +246,173 @@ def baci_top_product(frc, toc):
     s = baci_pc.loc[int(baci_p[key])].description
     for x in textwrap.wrap(s, width=70):
     	print (x)
+        
+sudan_regs = [
+    "RSF-N.Kordofan",
+    "RSF- White Nile",
+    "RSF-Khartoum",
+    "RSF-Gezira",
+    "RSF-W.Kordofan",
+    "RSF-S.Darfur",
+    "RSF-N.Darfur",
+    "RSF-C.Darfur",
+    "RSF-W. Darfur",
+    "RSF-W. Darfur 2",
+    "RSF-Sennar",
+    "RSF-E.Darfur",
+    "RSF-W.Kordofan"]
+
+def prepare_sahel_suriyak():
+    """
+    Data from https://www.google.com/maps/d/u/0/viewer?mid=19IxdgUFhNYyUIXEkYmQgmaYHz6OTMEk
+    """    
+    content = open("/tmp/sahel.kml").read()
+    polys = []
+    for i,reg in enumerate(sudan_regs):
+        q = "<Placemark>.*?" + reg + "(.*?)</Placemark>"
+        print (q)
+        res = re.findall(q, content,re.DOTALL)
+        res = res[0]
+        res2 = re.findall("<coordinates>(.*?)</coordinates>", res,re.DOTALL)
+        for r in res2:
+            tmp = r.split(",0")
+            coords = [x.strip().split(",") for x in tmp if len(x.strip()) > 8]
+            coords = [[float(x),float(y)] for x,y in coords]
+            polys.append(Polygon(coords))
+
+    res = unary_union(polys)
+    rrr = list(res.exterior.coords)
+
+    c = np.array(rrr)
+    plt.plot(c[:,0].T,c[:,1].T)
+    plt.savefig('/tmp/out.jpg')    
+    
+    fout = open("/tmp/out.json","w")
+    fout.write(str(rrr).replace("(","[").replace(")","]"))
+    fout.close()
+
+
+regs = [
+    "S..Zaporizhia-Russian Armed Forces",
+    "E..Zaporizhia-Russian Armed Forces",
+    "Luhansk People's Republic \(North Luhansk\)",
+    "Luhansk People's Republic \(East Luhansk 1\)",
+    "Luhansk People's Republic \(East Luhansk 2\)",
+    "Luhansk People's Republic \(West Luhansk\)",
+    "Luhansk People's Republic \(South Luhansk\)",
+    "Donetsk People's Republic \(Central Donetsk 1\)",
+    "Donetsk People's Republic \(Central Donetsk 2\)",
+    "Donetsk People's Republic \(Central Donetsk 3\)",
+    "Donetsk People's Republic \(Central Donetsk 4\)",
+    "Donetsk People's Republic \(East Donetsk\)",
+    "Donetsk People's Republic \(West Donetsk\)",
+    "Donetsk People's Republic \(South Donetsk\)",
+    "E.Kharkov-Russian Armed Forces",
+    "Kherson-Russian Armed Forces",
+    "Nykolaiv-Russian Forces"]
+
+reg_ext1 = "N.Kharkov-Russian Armed Forces 1"
+reg_ext2 = "N.Kharkov-Russian Armed Forces 2"
+reg_ext3 = "Kursk-Ukrainian Armed Forces"
+
+def get_coords_for_label(content, reg):
+    q = "<Placemark>.*?" + reg + "(.*?)</Placemark>"
+    print (q)
+    res = re.findall(q, content,re.DOTALL)
+    res = res[0]
+    res2 = re.findall("<coordinates>(.*?)</coordinates>", res,re.DOTALL)
+    tmp = res2[0].split(",0")
+    coords = [x.strip().split(",") for x in tmp if len(x.strip()) > 8]
+    coords = [[float(x),float(y)] for x,y in coords]
+    return coords
+
+def prep_suriyak():
+
+    with zipfile.ZipFile(os.environ['HOME'] + '/Downloads/Guerra Ruso-Ucraniana 2022.kmz') as myzip:
+        with myzip.open('doc.kml') as myfile:
+            content = myfile.read().decode('utf-8')
+
+            content = re.sub("Luhansk People's Republic \(East Luhansk\)",
+                             "Luhansk People's Republic (East Luhansk 1)",
+                             content,count=1)
+
+            content = re.sub("Luhansk People's Republic \(East Luhansk\)",
+                             "Luhansk People's Republic (East Luhansk 2)",
+                             content,count=1)
+
+            content = re.sub("Donetsk People's Republic \(Central Donetsk\)",
+                             "Donetsk People's Republic (Central Donetsk 1)",
+                             content,count=1)
+
+            content = re.sub("Donetsk People's Republic \(Central Donetsk\)",
+                             "Donetsk People's Republic (Central Donetsk 2)",
+                             content,count=1)
+
+            content = re.sub("Donetsk People's Republic \(Central Donetsk\)",
+                             "Donetsk People's Republic (Central Donetsk 3)",
+                             content,count=1)
+
+            content = re.sub("Donetsk People's Republic \(Central Donetsk\)",
+                             "Donetsk People's Republic (Central Donetsk 4)",
+                             content,count=1)
+
+            content = re.sub("N.Kharkov-Russian Armed Forces\<",
+                             "N.Kharkov-Russian Armed Forces 1<",
+                             content,count=1)
+
+            content = re.sub("N.Kharkov-Russian Armed Forces\<",
+                             "N.Kharkov-Russian Armed Forces 2<",
+                             content,count=1)
+        
+    fout = open("/tmp/ukraine.kml","w")
+    fout.write(content)
+    fout.close()
+
+def prepare_ukraine_suriyak():
+    """
+    Data from https://www.google.com/maps/d/viewer?mid=1V8NzjQkzMOhpuLhkktbiKgodOQ27X6IV
+    Code searches coordinate blocks by name. Must rename some like Central Donetsk,
+    or East Luhansk inside the kml file which repeat, I add 2, 3, at the end. 
+    """
+    prep_suriyak()
+    
+    content = open("/tmp/ukraine.kml").read()
+
+    rrrs = []
+    
+    cext1_coords = get_coords_for_label(content, reg_ext1)
+    rrrs.append(np.array(cext1_coords))
+    cext2_coords = get_coords_for_label(content, reg_ext2)
+    rrrs.append(np.array(cext2_coords))
+    cext3_coords = get_coords_for_label(content, reg_ext3)
+    rrrs.append(np.array(cext3_coords)[200:900])
+    
+    polys = []
+    for i,reg in enumerate(regs):
+        coords = get_coords_for_label(content, reg)
+        polys.append(Polygon(coords))
+
+    res = unary_union(polys)
+    
+    rrr = list(res.exterior.coords)
+
+    rrr = rrr[0:-3700]
+    c = np.array(rrr)
+    rrrs.append(c)
+
+    for x in rrrs:
+        plt.plot(x[:,0].T,x[:,1].T,'r')
+    plt.savefig('/tmp/out.jpg')
+    
+    np.set_printoptions(threshold=sys.maxsize)
+    fout = open("/tmp/out.json","w")
+    fout.write('[\n')
+    for i,rrr in enumerate(rrrs):
+        fout.write(json.dumps(rrr.tolist()))
+        if i < len(rrrs)-1: fout.write(',')
+        fout.write('\n')
+    fout.write(']\n')
+    fout.close()
     
 if __name__ == "__main__": 
 

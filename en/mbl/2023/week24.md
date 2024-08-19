@@ -166,8 +166,6 @@ important? Because the GR H2 is the latest attempt from the automotive
 giant to make carbon neutral hydrogen fuel a realistic alternative to
 petroleum and diesel"
 
-<img width='340' src='https://media3.speedcafe.com/wp-content/uploads/2023/06/crop_20230609_03_03_s.jpg'/> 
-
 ---
 
 The observation on the "last-chance" talk is interesting

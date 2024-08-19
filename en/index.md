@@ -1,60 +1,101 @@
 
-Pinned Post
+\#BigBang \#Elements
 
-"AI's trillion dollar time bomb" \#CNBC 
-
-[[-]](https://www.youtube.com/embed/dx-tMK7w5g8?start=46&end=499)
+[[-]](https://youtu.be/l1BQLl59M-w?t=544)
 
 ---
 
-"@GossiTheDog@cyberplace.social
-
-Copilot’s front page on the app today suggests I ask 'tell me a fact'.
-
-I did.. the first one is 'Banging your head against a wall burns 150
-calories', which links to a Reddit thread, which links to an article,
-from a 'contributor', which mentions it in the headline then has no
-citation or mentions it again"
+*Twisters* good work. 
 
 ---
 
-It is hilarious how US plutocrats, and their judiciary and
-legistlative tools tied money into a sacred US concept, freedom /
-freedom of speech. By giving money, you are exercising your right to
-speech, hence limitless campaign donations must be
-protected. Brilliant how they identified and tacked on that
-concept... If there was another sacred anything, they'd have used that
-too... If cows were sacred, it would be money = cow. "How could you be
-against money, it is the sacred!" Sacred as in cow, ostensibly.
+CNBC: "Disney's 'Deadpool & Wolverine' becomes the highest-grossing
+R-rated film of all time"
 
 ---
 
-I read that on Mastodon
+"@cosmicray@mastodon.social
 
-"@mosseri@threads.net
-
-I’m excited to share that we crossed the 200M milestone on
-@threads. My hope is that Threads can inspire ideas that bring people
-together, and this amazing community continues to grow. Thank you for
-investing your time and giving feedback that makes the place better
-for everyone"
+MIT dropped its contract with Elsevier, the huge scientific journal
+company. Their library instead arranged alternate access to journals
+and tools for researchers to get them. They’re saving $2 million/year"
 
 ---
 
-Euractiv: "Natural hydrogen: European interest heats up, France
-leading the way.. Potentially massive quantities of naturally produced
-hydrogen were discovered in France last year. Since then, prospectors
-across Europe have been on the lookout for more deposits and are
-calling for greater public support for their efforts"
+There is a subtext to WSJ's reporting on the sabotage now; maybe the
+Kursk incursion is seen by them as "some crazy shit" and they are
+reminding the readers other "crazy shit" that current UA leadership
+pulled off in the past, you are being defined in a certain way... That
+means UA could be creating new enemies, outside the usual corners of
+US right, and that does not bode well for them.
 
 ---
 
-Arab News: "Warren Buffett surprises by slashing Berkshire Hathaway’s
-longtime Apple stake in second quarter"
+There is no empire. US direction is influenced by moneyed interests,
+"a conglomeration of conglomerates", bunch of money grubbing
+cocksuckers pulling, pushing the high ranking officials, politicians
+every which way that is useful for them. There is no strategy. There
+is no foresight. There is no plan. There is no place for public's
+interest, unless that interest somehow, once in a blue moon coincides
+with their profit interests (which does not happen often).
 
 ---
 
-Politico: "Fetterman has concerns about Shapiro for V.P., aides tell Harris’ team"
+No the CIA would not have done the sabotage wout the executive's
+knowledge.  They do whatever the hell POTUS tells them to. There is no
+deep state.
+
+---
+
+I would not dare suggest *Commando* is a B-movie. 
+
+---
+
+[Link](https://www.dropbox.com/scl/fi/6gfn6ayxoanlbt0qeph9h/commando_1.gif?rlkey=xet6rvzxhor1abk4pttoj4k8r&st=icvhq1ae&raw=1)
+
+---
+
+We'd mentioned this possibility [before](mbl/2023/week24.html).
+Labeled as the "B Scenario" it is probably more likely the sabotage
+happened the way described by WSJ. The A Scenario just isn't Biden's
+style.. The whole thing has that Holywood B-movie adventurism to it,
+and both Zelensk and the (now fired) UAF ex-chief are at the right age
+for it. You watch that 80s action growing up you could think NS
+sabotage is a "cool thing" to do.
+
+---
+
+The Guardian: "According to the WSJ, the [Nordstream] sabotage
+operation involved a small sailing boat and a team of six people, a
+combination of Ukrainian soldiers and civilians with relevant
+expertise. The operation used private funding but was directed by a
+serving army general, who reported to Ukraine’s then commander in
+chief, Valerii Zaluzhnyi. Zelenskiy approved the plan, but later
+backtracked after the CIA found out about it and asked Kyiv to call it
+off, according to the WSJ’s sources. Nonetheless, Zaluzhnyi pressed
+ahead with the mission, the report claims"
+
+---
+
+Tay Zonday: "There is no American 'housing crisis' - there's a
+supply-hoarding crisis to rig local market prices above the liquidity
+of local buyer capital.
+
+The policy solution is simple: poison-pill tax all non-occupant-owned
+housing to force immediate sale to local buyers at actual market
+rates.
+
+Allowing unlimited non-local capital to supply-hoard vacant housing is
+simply anti-resident eugenics. Current residents are too poor, so
+replace them with richer ones - even if it causes widespread
+homelessness, forced migration and absurd energy costs for the
+displaced to commute. It's as discriminatory as Federal Housing
+Administration redlining of black neighborhoods in the 40s"
+
+---
+
+Reuters: "Thailand's billionaire ex-PM Thaksin Shinawatra granted
+royal pardon"
 
 ---
 
@@ -104,4 +145,3 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
-
