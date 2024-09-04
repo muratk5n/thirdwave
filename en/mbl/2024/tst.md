@@ -19,6 +19,22 @@ pd.set_option('display.max_columns', None)
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ```python
 app = u.biden_approval()
 app = app[app.index > '2024-01-01']

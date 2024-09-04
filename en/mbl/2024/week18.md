@@ -67,7 +67,7 @@ It is like "the invisible hand" phenomenon in econ. Just like the
 combined actions of simple consumers with purchasing power seemingly
 creates a direction that looks almost planned, the combined actions of
 larger econ individuals (plutocrats) will create a direction as
-well. No specific cocksucker is in charge, in a way all of them
+well. No specific fluffermucker is in charge, in a way all of them
 are. In their case their purchasing power is larger, they can purchase
 entire politicians, small-size countries, pay off high-ranking
 officials, brain-wash the public through their media. That will create

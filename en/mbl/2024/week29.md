@@ -1,6 +1,5 @@
 # Week 29
 
-
 US industry needs to be encouraged to move away from MS OS to Linux
 based OS as soon as possible. You are better off running LOS while
 running existing Windows programs through an emulation layer. If there

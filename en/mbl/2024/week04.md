@@ -518,7 +518,7 @@ countries that dont like you"
 ---
 
 The diva cunt and the Thiel types around him have no pull, and no
-understanding of politics.. Bunch of overly rich cocksuckers flailing
+understanding of politics.. Bunch of overly rich mupmupers flailing
 around, clueless. Ironically their understanding of tech is even
 worse.
 
