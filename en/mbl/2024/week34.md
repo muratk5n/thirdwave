@@ -195,8 +195,8 @@ Mike Lynch: He dead (recent news)
 Stephen Chamberlain: He dead too. Ran over by car. *On the same day*
 as Lynch (was) died.
 
-You don't fuck with the MIC.. you'll get KTA.. Namsayin' NFWMB 🤙
-WWYDF. This is no joke.
+You don't fuck with the MIC.. you'll get KTA.. Namsayin' N.F.W.M.B. 🤙
+W.W.Y.D.F. This is no joke.
 
 ---
 

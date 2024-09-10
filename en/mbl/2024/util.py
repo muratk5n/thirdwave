@@ -313,7 +313,7 @@ regs = [
 
 reg_ext1 = "N.Kharkov-Russian Armed Forces 1"
 reg_ext2 = "N.Kharkov-Russian Armed Forces 2"
-reg_ext3 = "Kursk-Ukrainian Armed Forces"
+reg_ext3 = "Kursk-Russian Armed Forces"
 
 def get_coords_for_label(content, reg):
     q = "<Placemark>.*?" + reg + "(.*?)</Placemark>"
@@ -331,6 +331,10 @@ def prep_suriyak():
     with zipfile.ZipFile(os.environ['HOME'] + '/Downloads/Guerra Ruso-Ucraniana 2022.kmz') as myzip:
         with myzip.open('doc.kml') as myfile:
             content = myfile.read().decode('utf-8')
+
+            content = re.sub("Kursk-Ukrainian Armed Forces",
+                             "Kursk-Ukrainian Armed Forces 2",
+                             content,count=1)
 
             content = re.sub("Luhansk People's Republic \(East Luhansk\)",
                              "Luhansk People's Republic (East Luhansk 1)",
@@ -385,7 +389,7 @@ def prepare_ukraine_suriyak():
     cext2_coords = get_coords_for_label(content, reg_ext2)
     rrrs.append(np.array(cext2_coords))
     cext3_coords = get_coords_for_label(content, reg_ext3)
-    rrrs.append(np.array(cext3_coords)[200:900])
+    rrrs.append(np.array(cext3_coords)[0:300])
     
     polys = []
     for i,reg in enumerate(regs):

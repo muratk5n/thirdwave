@@ -1,138 +1,110 @@
 
-Hackaday: "[A] team from ETH Zurich [..is] using [H2] to reduce iron
-oxide to iron, which can easily release the hydrogen by oxidation with
-water. Their reactor is simplicity itself, a large stainless steel
-tank filled with powdered iron ore. Pump hydrogen into it and the iron
-oxide in the ore becomes water and iron which forms the storage
-medium, and retrieve the hydrogen later by piping steam through the
-mixture. Hydrogen generated in the summer using solar power can then
-be released in the winter months"
+Cetta, de la Pena: "This paper provides elements in support of the
+random zero-point radiation field (ZPF) as an essential ontological
+ingredient needed to explain distinctive properties of
+quantum-mechanical systems. We show that when an otherwise classical
+particle is connected to the ZPF, a drastic, qualitative change in the
+dynamics takes place, leading eventually to the quantum dynamics...
+
+[An] inspection of the current literature readily reveals the
+existence of about two dozen different interpretations of QM, some
+more popular than others, and none of them experimentally
+verified. How can it be that a fundamental theory that provides the
+basis for a most significant part of contemporary physics, admits such
+a variety of alternative, even contradictory interpretations? No
+serious physicist or philosopher of science in his five senses would
+claim to come up with a better interpretation of Newtonian mechanics
+or Maxwellian electrodynamics. Reformulations of a known accepted
+theory may appear, of course, but fundamental theories do not accept
+reinterpretations. Special relativity did not reinterpret classical
+mechanics, it extended mechanics to wider domains, and together with
+quantum theory helped to specify its range of applicability. We should
+conclude that in the case of quantum mechanics, such variety of
+interpretations is indicative of a crucial underdetermination of the
+theory...
+
+[To] understand the origin of so many different visions about the same
+fundamental theory, it is convenient to place ourselves in the context
+in which QM was born. We recall that the quantum formalism—its
+excellent mathematical apparatus that we still use today with
+success—was born in the absence of a deep understanding of the quantum
+phenomenology...
+
+It is against this background that Heisenberg worked on his version of
+the theory, the matrix mechanics. Heisenberg discovered that the
+quantum particles have an unavoidable random behavior. Being persuaded
+of the completeness of his theory, he took this randomness for an
+essential, irreducible trait that neither needs nor admits a deeper
+explanation...
+
+Unknowingly, Schrödinger’s wave theory implied the introduction of a
+new element into the quantum description. The point is that electron
+interference patterns are produced by the accumulation of a high
+number of point-like events, each one created by a single electron. A
+single particle produces an isolated, randomly located bright point on
+the detecting screen, the interference—the wave manifestation—becoming
+evident only after very many hits. The conclusion—normally one that
+goes unnoticed—is that Schrödinger’s wave function refers not to a
+single particle, but to an ensemble of them. Well interpreted,
+Schrödinger theory is intrinsically statistical in nature, and deals
+with ensembles rather than individual particles.  Nevertheless, the
+statistical perspective of the quantum phenomenon was dismissed in
+general—and adamantly opposed by the Copenhagen school in particular,
+which prevails to date under different guises.. This opened the door
+to another infelicitous ingredient, the observer. The introduction of
+an active character in order to ’explain’ the reduction of the
+distinctive quantum mixtures to the pure states observed, added a
+subjective ingredient to the already odd quantum scheme.  All in all,
+such variety of interpretations and re-interpretations indicates that
+something of importance is missing in the theory. Having so many
+variations indicates that the issue is actually not one of
+interpretation, but of an essential incompleteness. The absence of an
+appropriate guiding ontological element has turned the physical
+situation into a mystery...
+
+However, rather than [an] incompletenesses.. we are referring to an
+essential ingredient that is missing. The point is that whatever is to
+be added to the incomplete theoretical framework should be able to
+address simultaneously some of its main puzzles, including not just
+the nature of quantum fluctuations; atomic stability, quantum
+transitions, discrete atomic spectra, wavelike phenomena and the like
+should find their natural explanation in a coherent scheme.
+
+The present paper is one of a series that deals with the development
+of stochastic electrodynamics (SED) as a physical foundation for
+quantum mechanics. In previous work we have shown that, by including
+the zero-point radiation field (ZPF), SED allows us to arrive at a
+consistent description of the stationary states and to derive the
+(nonrelativistic) radiative corrections proper for QED"
+
+[[-]](https://arxiv.org/pdf/2210.16388)
 
 ---
 
-"@GossiTheDog@cyberplace.social
-
-The Microsoft Recall saga continues - Microsoft accidentally
-introduced the ability to uninstall it. They say this was an error and
-you won’t be able to uninstall it in the future"
-
----
-
-Original religions are left-wing, they are also pre-agro, pro-forager
-which implies most of our left-wing impulses can also be traced back
-to the forager. And this is in fact true. Pre-agro human was not
-hierarchical, practiced ownership but did not accumulate stuff (could
-not, given the nature of his/her methods of production), they were not
-patriarchal, the relationship between the sexes were not strict,
-combative and/or compartmentalized. Everyone could get food via
-hunting, everyone had shelter, they worked 20 hours a week.
+I see CNBC shared a list of reactors under construction, but we have
+to stress HTR-PM in China, HTTR in Japan, HTGR-POLA in Poland in the
+list are all helium-cooled reactors. So the main feature of these
+reactors is not they are small, they are *cooled differently* which
+gives them additional safety features. Proper detail was not provided
+in this article.
 
 ---
 
-It makes sense religion appealed, invoked the wilderness loving part
-in us, because all religions are political movements that rebel
-against systems which themselves are founded on organized
-agriculture. Wilderness = forager, post forager = farming (farming
-displaced, replaced foragers as history tells us). Organized agro
-means static farmer, empires (who tax them), war, disease, death, and
-all the ills that come with it.
+CNBC: "New nuclear plant designs, called small modular reactors, could
+speed deployment of carbon-free power"
 
-Some religions even tried to create rules that were in line with the
-forager; fasting simulates the life of a hunter-gatherer - sometimes
-there is no food, sometimes there is lots of food. "Always having
-food" is a foreign concept for us, biologically, which was only made
-possible after farming came into the scene. But in essence, due to our
-biology, we are not used to this modern situation. Some religions
-bring that back, for short periods.
+[[-]](https://www.cnbc.com/2024/09/07/how-small-modular-reactors-could-expand-nuclear-power-in-the-us.html)
 
 ---
 
-RFK Jr: "The central revelation of every one of th[e major] religions
-always occurred in the wilderness.. Moses had to go into that
-wilderness to listen, to hear God's voice and see the burning bush. He
-had to go to the wilderness at Mount Sinai to get the
-commandments. Muhammad was a city boy from Mecca, had to go to the
-wilderness and Mount Harar on a camping trip, with its kids and
-wrestle the angel Gabriel in the middle of the night, and have the
-first suras of the Koran [delivered to] him. Buddha had to go into the
-wilderness, wander for years, and then sit under the bodhi tree to get
-his first revelation of nirvana. And Christ had to spend 40 days in
-the wilderness to discover its divinity for the first time. And his
-mentor was John the Baptist, who lived in a cave in the Jordan Valley,
-and ate honey of wild bees and locusts. All of Christ's parables come
-from nature. I'm the vine. You are the branch mustard seed, the little
-swallows, the scattering seeds on the ground, because that is where we
-center the divine. God talks to us through the fishes, the birds, the
-leaves. They're all words from our creator"
-
-\#RFK \#TuckerCarlson
+F24: "Hezbollah fires rockets, Israel strikes after attack kills
+Lebanese emergency workers"
 
 ---
 
-Jalopnik: "A SpaceX rocket booster crashed as it was landing
-Wednesday.. The Federal Aviation Administration has since grounded all
-Falcon 9 rockets until an investigation into the crash is
-completed... [the crash could] delay the planned February mission to
-rescue the two astronauts stranded on board the International Space
-Station"
+\#Frontline \#UA \#RU 08/30 - 09/09
 
----   
-
-"@Hypx@mastodon.social
-
-You can't trust SpaceX to send/rescue astronauts either."
-
----
-
-\#DemocracyNow
-
-"'Master Plan': New Lever Podcast Series Traces How Oligarchs 'Legalized Corruption'
-in U.S"
-
-[[-]](https://www.youtube.com/embed/pUCYYHRCuYo?start=286&end=446)
-
----
-
-Hey anything is possible, but an attack at the scale of 9/11 would not
-be something a state would overtly or covertly support. If it was ever
-found out, the response would be severe... No state can take that
-risk.
-
----
-
-The claim is Russians were behind 9/11?.. Interesting scenario but
-unlikely.. the plane attack idea wasn't exactly new, in fact Tom
-Clancy used the idea as a plot device in one of his fiction books.
-
-The Hill: "[2022/10] In 1987, GRU (the military counterpart of the KGB)
-defector Vladimir Rezun (aka, Viktor Suvorov), laid out a scenario:
-two successive plane crashes into the White House, the second one
-timed to obliterate the first responders and command structure who
-arrived the scene after the first crash. In 1997, having spent six
-months in Russia, al-Zawahiri decamped to Afghanistan, becoming Osama
-bin Laden’s lieutenant and mastermind of 9/11"
-
----
-
-WION: "Taiwan to purchase over 1,000 Stinger missiles from US as
-Chinese military threat increases"
-
----
-
-F24: "Germany's far-right AfD party took between 30.5 percent and 33.5
-percent of the vote in elections in the eastern state of Thuringia,
-according to exit polls, marking the first time in Germany’s
-post-World War II history that an extreme-right party has won a state
-election"
-
----
-
-Politico: "UK suspends some arms sales to Israel"
-
----
-
-F24: "Biden says Israel's Netanyahu is not doing enough to reach Gaza
-hostage deal"
+[[-]](mbl/2024/ukrdata/map34-ext.html)
 
 ---
 
@@ -182,3 +154,6 @@ Also on
 [Mastodon](https://fosstodon.org/@muratk5n),
 [Codeberg](https://muratk5n.codeberg.page/en/),
 [Github Pages](https://muratk5n.github.io/thirdwave/en/)
+
+
+
