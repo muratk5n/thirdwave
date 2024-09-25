@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_8444f13311a04b87907e39172d9023d9 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_8444f13311a04b87907e39172d9023d9" ></div>
+        
+</body>
+<script>    
+    
+            var map_8444f13311a04b87907e39172d9023d9 = L.map(
+                "map_8444f13311a04b87907e39172d9023d9",
+                {
+                    center: [-33.176793409, 95.300021451],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 4,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_1dd97bd65b4f4785ab32d562eb533411 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_8444f13311a04b87907e39172d9023d9);
+        
+    
+            var tile_layer_04a43af681f54270903936fa85b643ae = L.tileLayer(
+                "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+                {"attribution": "attribution", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "mytilesubdomain", "tms": false}
+            ).addTo(map_8444f13311a04b87907e39172d9023d9);
+        
+    
+            var marker_aafaf612b5f74627b8815c7bb6041e93 = L.marker(
+                [-33.176793409, 95.300021451],
+                {}
+            ).addTo(map_8444f13311a04b87907e39172d9023d9);
+        
+    
+        var popup_68f2eeeae14d42c19c0fc83aae325110 = L.popup({"autoClose": false, "maxWidth": "100%"});
+
+        
+            var html_cf92a06c43d44d3bac701126035e223b = $(`<div id="html_cf92a06c43d44d3bac701126035e223b" style="width: 100.0%; height: 100.0%;">MH 370 (Guess)</div>`)[0];
+            popup_68f2eeeae14d42c19c0fc83aae325110.setContent(html_cf92a06c43d44d3bac701126035e223b);
+        
+
+        marker_aafaf612b5f74627b8815c7bb6041e93.bindPopup(popup_68f2eeeae14d42c19c0fc83aae325110)
+        .openPopup();
+
+        
+    
+    
+            var marker_03f718cc0d4a4937862fff7fae77b57f = L.marker(
+                [2.8181270526, 102.18700262],
+                {}
+            ).addTo(map_8444f13311a04b87907e39172d9023d9);
+        
+    
+        var popup_500efbdd3fc54b6fa2665ce6de315a6f = L.popup({"autoClose": false, "maxWidth": "100%"});
+
+        
+            var html_c236bd4f910147fb8b6f8a96e7fafe76 = $(`<div id="html_c236bd4f910147fb8b6f8a96e7fafe76" style="width: 100.0%; height: 100.0%;">Kuala Lumpur Intl Airport</div>`)[0];
+            popup_500efbdd3fc54b6fa2665ce6de315a6f.setContent(html_c236bd4f910147fb8b6f8a96e7fafe76);
+        
+
+        marker_03f718cc0d4a4937862fff7fae77b57f.bindPopup(popup_500efbdd3fc54b6fa2665ce6de315a6f)
+        .openPopup();
+
+        
+    
+    
+            var marker_c859d75fa8a24e7f991081fc924cba0b = L.marker(
+                [9.494954545014316, 94.34137193498134],
+                {}
+            ).addTo(map_8444f13311a04b87907e39172d9023d9);
+        
+    
+        var popup_08828554470b4a4dabbc19d4376f1d09 = L.popup({"autoClose": false, "maxWidth": "100%"});
+
+        
+            var html_052ee8ea4c264f9e9a82abf344c7d6d0 = $(`<div id="html_052ee8ea4c264f9e9a82abf344c7d6d0" style="width: 100.0%; height: 100.0%;">Last Radar Contact</div>`)[0];
+            popup_08828554470b4a4dabbc19d4376f1d09.setContent(html_052ee8ea4c264f9e9a82abf344c7d6d0);
+        
+
+        marker_c859d75fa8a24e7f991081fc924cba0b.bindPopup(popup_08828554470b4a4dabbc19d4376f1d09)
+        .openPopup();
+
+        
+    
+    
+            var marker_a73f75c0721a4064b8abc74eaf04d78a = L.marker(
+                [-34.12047627550245, 115.07422816400911],
+                {}
+            ).addTo(map_8444f13311a04b87907e39172d9023d9);
+        
+    
+        var popup_7855b4215ed843f59ee70d00e7dfb248 = L.popup({"autoClose": false, "maxWidth": "100%"});
+
+        
+            var html_7dd2743e827f4d829211af3b21243cb1 = $(`<div id="html_7dd2743e827f4d829211af3b21243cb1" style="width: 100.0%; height: 100.0%;">Cape Leeuwin Station</div>`)[0];
+            popup_7855b4215ed843f59ee70d00e7dfb248.setContent(html_7dd2743e827f4d829211af3b21243cb1);
+        
+
+        marker_a73f75c0721a4064b8abc74eaf04d78a.bindPopup(popup_7855b4215ed843f59ee70d00e7dfb248)
+        .openPopup();
+
+        
+    
+    
+            var marker_6d5c6bc4001345d8a559232fd5354243 = L.marker(
+                [-3.563662449473406, 71.45723047558245],
+                {}
+            ).addTo(map_8444f13311a04b87907e39172d9023d9);
+        
+    
+        var popup_214fab8816fa4121b33581557f69ba37 = L.popup({"autoClose": false, "maxWidth": "100%"});
+
+        
+            var html_d600c379090848bc99d6c4369fa2bbf5 = $(`<div id="html_d600c379090848bc99d6c4369fa2bbf5" style="width: 100.0%; height: 100.0%;">Diego Garcia</div>`)[0];
+            popup_214fab8816fa4121b33581557f69ba37.setContent(html_d600c379090848bc99d6c4369fa2bbf5);
+        
+
+        marker_6d5c6bc4001345d8a559232fd5354243.bindPopup(popup_214fab8816fa4121b33581557f69ba37)
+        .openPopup();
+
+        
+    
+    
+            var marker_d9d8a6cf1c7e4fa099f8cdf6b122b9f4 = L.marker(
+                [-43.58477240972487, 92.90458534857022],
+                {}
+            ).addTo(map_8444f13311a04b87907e39172d9023d9);
+        
+    
+        var popup_746c00bdfbce468c8a0d72b4ad2d66fc = L.popup({"autoClose": false, "maxWidth": "100%"});
+
+        
+            var html_49ad30c86399480299ec1ae243af655e = $(`<div id="html_49ad30c86399480299ec1ae243af655e" style="width: 100.0%; height: 100.0%;">Satellite Wreckage Sighting</div>`)[0];
+            popup_746c00bdfbce468c8a0d72b4ad2d66fc.setContent(html_49ad30c86399480299ec1ae243af655e);
+        
+
+        marker_d9d8a6cf1c7e4fa099f8cdf6b122b9f4.bindPopup(popup_746c00bdfbce468c8a0d72b4ad2d66fc)
+        .openPopup();
+
+        
+    
+</script>
